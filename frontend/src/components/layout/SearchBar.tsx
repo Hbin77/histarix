@@ -1,0 +1,96 @@
+"use client";
+
+import { useState, useRef, useEffect, useCallback } from "react";
+import type { CountryBasic } from "@/types/country";
+import { searchCountries } from "@/services/countryService";
+
+export function SearchBar() {
+  const [query, setQuery] = useState("");
+  const [results, setResults] = useState<CountryBasic[]>([]);
+  const [isOpen, setIsOpen] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const containerRef = useRef<HTMLDivElement>(null);
+  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const search = useCallback((q: string) => {
+    if (q.length < 2) {
+      setResults([]);
+      setIsOpen(false);
+      return;
+    }
+
+    setLoading(true);
+    searchCountries(q)
+      .then((data) => {
+        setResults(data);
+        setIsOpen(true);
+      })
+      .catch(() => {
+        setResults([]);
+      })
+      .finally(() => setLoading(false));
+  }, []);
+
+  const handleChange = (value: string) => {
+    setQuery(value);
+    if (timerRef.current) clearTimeout(timerRef.current);
+    timerRef.current = setTimeout(() => search(value), 300);
+  };
+
+  useEffect(() => {
+    function handleClickOutside(e: MouseEvent) {
+      if (
+        containerRef.current &&
+        !containerRef.current.contains(e.target as Node)
+      ) {
+        setIsOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
+  useEffect(() => {
+    return () => {
+      if (timerRef.current) clearTimeout(timerRef.current);
+    };
+  }, []);
+
+  return (
+    <div ref={containerRef} className="relative">
+      <input
+        type="text"
+        value={query}
+        onChange={(e) => handleChange(e.target.value)}
+        placeholder="Search countries..."
+        className="w-80 rounded-full bg-white/10 px-5 py-2 text-sm text-white placeholder-white/40 outline-none ring-1 ring-white/10 transition focus:bg-white/15 focus:ring-blue-500/50"
+      />
+
+      {loading && (
+        <div className="absolute right-4 top-1/2 -translate-y-1/2">
+          <div className="h-4 w-4 animate-spin rounded-full border-2 border-white/20 border-t-white/60" />
+        </div>
+      )}
+
+      {isOpen && results.length > 0 && (
+        <div className="absolute top-full mt-2 w-full rounded-xl bg-gray-900/95 backdrop-blur-xl border border-white/10 shadow-2xl overflow-hidden z-50">
+          {results.map((country) => (
+            <button
+              key={country.iso_code}
+              className="flex w-full items-center gap-3 px-4 py-3 text-left text-sm text-white/80 hover:bg-white/10 transition"
+              onClick={() => {
+                setQuery(country.name);
+                setIsOpen(false);
+              }}
+            >
+              <span className="text-xs text-white/40 font-mono">
+                {country.iso_code}
+              </span>
+              <span>{country.name_ko ?? country.name}</span>
+            </button>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
