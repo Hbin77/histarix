@@ -2,8 +2,8 @@ import { apiFetch } from "@/lib/api";
 import type { CountryInfo, CountryBasic } from "@/types/country";
 import type { CountryHistory } from "@/types/history";
 
-export async function fetchCountryInfo(isoCode: string): Promise<CountryInfo> {
-  return apiFetch<CountryInfo>(`/api/countries/${isoCode}`);
+export async function fetchCountryInfo(isoCode: string, lang: string = "en"): Promise<CountryInfo> {
+  return apiFetch<CountryInfo>(`/api/countries/${isoCode}?lang=${lang}`);
 }
 
 export async function fetchCountryHistory(

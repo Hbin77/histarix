@@ -3,6 +3,7 @@
 import { useState } from "react";
 import type { SelectedCountry } from "@/types/map";
 import { useCountryData } from "@/hooks/useCountryData";
+import { useI18n } from "@/lib/i18n";
 import { CountryInfo } from "./CountryInfo";
 import { CountryHistory } from "./CountryHistory";
 import { HistoryTimeline } from "./HistoryTimeline";
@@ -12,16 +13,17 @@ interface CountryPanelProps {
   onClose: () => void;
 }
 
-const tabs = [
-  { id: "info" as const, label: "정보" },
-  { id: "history" as const, label: "역사" },
-  { id: "timeline" as const, label: "타임라인" },
-];
-
-type TabId = (typeof tabs)[number]["id"];
+type TabId = "info" | "history" | "timeline";
 
 export function CountryPanel({ selectedCountry, onClose }: CountryPanelProps) {
   const [activeTab, setActiveTab] = useState<TabId>("info");
+  const { t } = useI18n();
+
+  const tabs = [
+    { id: "info" as const, label: t("info") },
+    { id: "history" as const, label: t("history") },
+    { id: "timeline" as const, label: t("timeline") },
+  ];
   const { info, history, loading, error } = useCountryData(
     selectedCountry?.iso_code ?? null
   );

@@ -2,35 +2,37 @@
 
 import type { CountryHistory as CountryHistoryType } from "@/types/history";
 import { formatYear } from "@/components/timeline/TimeDisplay";
+import { useI18n } from "@/lib/i18n";
 
 interface CountryHistoryProps {
   history: CountryHistoryType | null;
 }
 
-function getEra(year: number | undefined): string {
-  if (year === undefined) return "기타";
-  if (year < -500) return "고대";
-  if (year < 500) return "고전기";
-  if (year < 1500) return "중세";
-  if (year < 1800) return "근세";
-  if (year < 1945) return "근대";
-  return "현대";
+type EraKey = "ancient" | "classical" | "medieval" | "earlyModern" | "modern" | "contemporary" | "other";
+
+function getEraKey(year: number | undefined): EraKey {
+  if (year === undefined) return "other";
+  if (year < -500) return "ancient";
+  if (year < 500) return "classical";
+  if (year < 1500) return "medieval";
+  if (year < 1800) return "earlyModern";
+  if (year < 1945) return "modern";
+  return "contemporary";
 }
 
-function getEraColor(era: string): string {
-  const colors: Record<string, string> = {
-    "고대": "#f59e0b",
-    "고전기": "#ef4444",
-    "중세": "#8b5cf6",
-    "근세": "#06b6d4",
-    "근대": "#3b82f6",
-    "현대": "#10b981",
-    "기타": "#6b7280",
-  };
-  return colors[era] || "#6b7280";
-}
+const ERA_COLORS: Record<EraKey, string> = {
+  ancient: "#f59e0b",
+  classical: "#ef4444",
+  medieval: "#8b5cf6",
+  earlyModern: "#06b6d4",
+  modern: "#3b82f6",
+  contemporary: "#10b981",
+  other: "#6b7280",
+};
 
 export function CountryHistory({ history }: CountryHistoryProps) {
+  const { t } = useI18n();
+
   if (!history) {
     return <p className="text-sm text-[#6e7588]">역사 데이터를 불러오는 중...</p>;
   }
@@ -42,16 +44,16 @@ export function CountryHistory({ history }: CountryHistoryProps) {
         <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#414859" strokeWidth="1.5" className="mb-4">
           <circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>
         </svg>
-        <p className="text-sm text-[#6e7588]">이 국가의 역사 데이터가 아직 없습니다.</p>
+        <p className="text-sm text-[#6e7588]">{t("noHistory")}</p>
         <p className="text-xs text-[#414859] mt-1">곧 업데이트될 예정입니다.</p>
       </div>
     );
   }
 
   // Group by era
-  const grouped = new Map<string, typeof events>();
+  const grouped = new Map<EraKey, typeof events>();
   for (const event of events) {
-    const era = getEra(event.year);
+    const era = getEraKey(event.year);
     if (!grouped.has(era)) grouped.set(era, []);
     grouped.get(era)!.push(event);
   }
@@ -82,13 +84,13 @@ export function CountryHistory({ history }: CountryHistoryProps) {
           <div className="flex items-center gap-3 mb-4">
             <div
               className="h-2 w-2 rounded-full"
-              style={{ backgroundColor: getEraColor(era) }}
+              style={{ backgroundColor: ERA_COLORS[era] }}
             />
             <h4
               className="text-xs font-bold uppercase tracking-widest"
-              style={{ color: getEraColor(era) }}
+              style={{ color: ERA_COLORS[era] }}
             >
-              {era}
+              {t(era)}
             </h4>
             <div className="flex-1 h-px bg-[#1b263b]" />
           </div>
@@ -104,7 +106,7 @@ export function CountryHistory({ history }: CountryHistoryProps) {
                 <div
                   className="absolute -left-[29px] top-5 h-3 w-3 rounded-full border-2"
                   style={{
-                    borderColor: getEraColor(era),
+                    borderColor: ERA_COLORS[era],
                     backgroundColor: "#0b1323",
                   }}
                 />
@@ -114,8 +116,8 @@ export function CountryHistory({ history }: CountryHistoryProps) {
                   <span
                     className="inline-block rounded-md px-2 py-0.5 text-[11px] font-bold tabular-nums"
                     style={{
-                      backgroundColor: getEraColor(era) + "20",
-                      color: getEraColor(era),
+                      backgroundColor: ERA_COLORS[era] + "20",
+                      color: ERA_COLORS[era],
                     }}
                   >
                     {event.year != null ? formatYear(event.year) : event.date || ""}
@@ -145,7 +147,7 @@ export function CountryHistory({ history }: CountryHistoryProps) {
       {/* Footer */}
       <div className="text-center pt-4">
         <p className="text-[10px] text-[#414859]">
-          총 {events.length}개의 역사적 사건
+          {events.length} {t("totalEvents")}
         </p>
       </div>
     </div>

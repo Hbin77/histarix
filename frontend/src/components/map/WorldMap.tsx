@@ -4,6 +4,7 @@ import { useRef, useEffect, useState } from "react";
 import mapboxgl from "mapbox-gl";
 import type { SelectedCountry } from "@/types/map";
 import { COUNTRY_LANDMARKS } from "@/data/landmarks";
+import { useI18n } from "@/lib/i18n";
 
 interface WorldMapProps {
   onCountrySelect: (country: SelectedCountry) => void;
@@ -24,6 +25,7 @@ export function WorldMap({
   const onCountrySelectRef = useRef(onCountrySelect);
   const [hasToken, setHasToken] = useState(true);
   const [isImmersive, setIsImmersive] = useState(false);
+  const { t } = useI18n();
 
   useEffect(() => {
     onCountrySelectRef.current = onCountrySelect;
@@ -271,7 +273,7 @@ export function WorldMap({
           className="absolute top-20 left-6 z-30 flex items-center gap-2 rounded-xl bg-[#11192b]/90 px-4 py-2.5 text-sm font-medium text-[#dfe5fa] backdrop-blur-xl transition hover:bg-[#1b263b] border border-[#414859]/30"
         >
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M15 18l-6-6 6-6"/></svg>
-          세계 지도로 돌아가기
+          {t("backToMap")}
         </button>
       )}
     </div>

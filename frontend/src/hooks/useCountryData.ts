@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import type { CountryInfo } from "@/types/country";
 import type { CountryHistory } from "@/types/history";
 import { fetchCountryInfo, fetchCountryHistory } from "@/services/countryService";
+import { useI18n } from "@/lib/i18n";
 
 interface UseCountryDataResult {
   info: CountryInfo | null;
@@ -13,6 +14,7 @@ interface UseCountryDataResult {
 }
 
 export function useCountryData(isoCode: string | null): UseCountryDataResult {
+  const { lang } = useI18n();
   const [info, setInfo] = useState<CountryInfo | null>(null);
   const [history, setHistory] = useState<CountryHistory | null>(null);
   const [loading, setLoading] = useState(false);
@@ -29,7 +31,7 @@ export function useCountryData(isoCode: string | null): UseCountryDataResult {
     setLoading(true);
     setError(null);
 
-    Promise.all([fetchCountryInfo(isoCode), fetchCountryHistory(isoCode)])
+    Promise.all([fetchCountryInfo(isoCode, lang), fetchCountryHistory(isoCode)])
       .then(([infoData, historyData]) => {
         if (cancelled) return;
         setInfo(infoData);
@@ -46,7 +48,7 @@ export function useCountryData(isoCode: string | null): UseCountryDataResult {
     return () => {
       cancelled = true;
     };
-  }, [isoCode]);
+  }, [isoCode, lang]);
 
   return { info, history, loading, error };
 }

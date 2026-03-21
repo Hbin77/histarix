@@ -2,10 +2,12 @@
 
 import { useState } from "react";
 import { useOnThisDay } from "@/hooks/useOnThisDay";
+import { useI18n } from "@/lib/i18n";
 
 export function OnThisDay() {
   const [isOpen, setIsOpen] = useState(true);
   const { events, loading, error } = useOnThisDay();
+  const { t } = useI18n();
 
   return (
     <div className="fixed bottom-24 left-6 z-40 w-80">
@@ -16,7 +18,7 @@ export function OnThisDay() {
       >
         <span className="text-sm font-semibold text-[#dfe5fa]">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="shrink-0"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-          <span>오늘의 역사</span>
+          <span>{t("onThisDay")}</span>
         </span>
         <svg
           width="12"

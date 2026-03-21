@@ -1,21 +1,24 @@
 "use client";
 
 import type { CountryInfo as CountryInfoType } from "@/types/country";
+import { useI18n } from "@/lib/i18n";
 
 interface CountryInfoProps {
   info: CountryInfoType | null;
 }
 
 export function CountryInfo({ info }: CountryInfoProps) {
+  const { t } = useI18n();
+
   if (!info) {
     return (
-      <p className="text-sm text-[#6e7588]">국가 정보를 불러올 수 없습니다.</p>
+      <p className="text-sm text-[#6e7588]">{t("noInfo")}</p>
     );
   }
 
   const fields: { label: string; value: string | undefined; icon: React.ReactNode }[] = [
     {
-      label: "수도",
+      label: t("capital"),
       value: info.capital?.join(", "),
       icon: (
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
@@ -24,7 +27,7 @@ export function CountryInfo({ info }: CountryInfoProps) {
       ),
     },
     {
-      label: "인구",
+      label: t("population"),
       value: info.population?.toLocaleString(),
       icon: (
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
@@ -33,7 +36,7 @@ export function CountryInfo({ info }: CountryInfoProps) {
       ),
     },
     {
-      label: "면적",
+      label: t("area"),
       value: info.area ? `${info.area.toLocaleString()} km²` : undefined,
       icon: (
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
@@ -42,7 +45,7 @@ export function CountryInfo({ info }: CountryInfoProps) {
       ),
     },
     {
-      label: "지역",
+      label: t("region"),
       value: info.region,
       icon: (
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
@@ -51,7 +54,7 @@ export function CountryInfo({ info }: CountryInfoProps) {
       ),
     },
     {
-      label: "소지역",
+      label: t("subregion"),
       value: info.subregion,
       icon: (
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
@@ -60,7 +63,7 @@ export function CountryInfo({ info }: CountryInfoProps) {
       ),
     },
     {
-      label: "언어",
+      label: t("languages"),
       value: info.languages
         ? Object.values(info.languages).join(", ")
         : undefined,
@@ -71,7 +74,7 @@ export function CountryInfo({ info }: CountryInfoProps) {
       ),
     },
     {
-      label: "통화",
+      label: t("currency"),
       value: info.currencies
         ? Object.values(info.currencies)
             .map((c) => `${c.name} (${c.symbol})`)

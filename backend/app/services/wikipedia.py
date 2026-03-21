@@ -6,11 +6,12 @@ from app.config import settings
 
 
 async def get_country_summary(
-    client: httpx.AsyncClient, country_name: str
+    client: httpx.AsyncClient, country_name: str, lang: str = "en"
 ) -> dict[str, str]:
+    base_url = f"https://{lang}.wikipedia.org/api/rest_v1"
     try:
         resp = await client.get(
-            f"{settings.wikipedia_api_url}/page/summary/{quote(country_name, safe='')}",
+            f"{base_url}/page/summary/{quote(country_name, safe='')}",
             timeout=10.0,
         )
         if resp.status_code != 200:

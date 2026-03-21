@@ -3,12 +3,14 @@
 import { useState, useRef, useEffect, useCallback } from "react";
 import type { CountryBasic } from "@/types/country";
 import { searchCountries } from "@/services/countryService";
+import { useI18n } from "@/lib/i18n";
 
 interface SearchBarProps {
   onSelect?: (country: { iso_code: string; name: string }) => void;
 }
 
 export function SearchBar({ onSelect }: SearchBarProps) {
+  const { t } = useI18n();
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<CountryBasic[]>([]);
   const [isOpen, setIsOpen] = useState(false);
@@ -66,7 +68,7 @@ export function SearchBar({ onSelect }: SearchBarProps) {
         type="text"
         value={query}
         onChange={(e) => handleChange(e.target.value)}
-        placeholder="국가 검색..."
+        placeholder={t("search")}
         className="w-80 rounded-full bg-[#11192b] px-5 py-2 text-sm text-[#dfe5fa] placeholder-[#a4abbf] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
       />
 

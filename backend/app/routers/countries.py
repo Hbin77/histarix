@@ -41,7 +41,7 @@ async def search_countries_endpoint(request: Request, q: str = Query("", max_len
 
 
 @router.get("/{iso_code}", response_model=CountryInfo)
-async def get_country(request: Request, iso_code: str) -> CountryInfo:
+async def get_country(request: Request, iso_code: str, lang: str = Query("en", max_length=5)) -> CountryInfo:
     code = iso_code.upper()
     if not _ISO_PATTERN.match(code):
         raise HTTPException(status_code=400, detail="Invalid ISO code")
@@ -54,7 +54,7 @@ async def get_country(request: Request, iso_code: str) -> CountryInfo:
         name_data = data.get("name", {})
         common_name = name_data.get("common", "")
         official_name = name_data.get("official", "")
-        wiki = await get_country_summary(client, common_name)
+        wiki = await get_country_summary(client, common_name, lang)
         flag = ""
         flags = data.get("flags", {})
         if isinstance(flags, dict):
@@ -86,7 +86,7 @@ async def get_country(request: Request, iso_code: str) -> CountryInfo:
             wikipedia_thumbnail=wiki.get("thumbnail", ""),
         )
 
-    return await cached_or_fetch("country", code, fetch, COUNTRY_TTL)
+    return await cached_or_fetch("country", f"{code}:{lang}", fetch, COUNTRY_TTL)
 
 
 @router.get("/{iso_code}/history", response_model=CountryHistory)
