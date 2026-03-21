@@ -96,25 +96,24 @@ async def get_country_history(request: Request, iso_code: str) -> CountryHistory
         raise HTTPException(status_code=400, detail="Invalid ISO code")
     qid = ISO_TO_WIKIDATA.get(code)
     country_name = ISO_TO_NAME.get(code, code)
-    if not qid:
-        raise HTTPException(
-            status_code=404, detail="Country not found in Wikidata mapping"
-        )
     client = request.app.state.http_client
 
     async def fetch() -> CountryHistory:
         # Try DB first
-        async with async_session() as db:
-            result = await db.execute(
-                select(EventModel)
-                .where(EventModel.country_iso == code)
-                .order_by(EventModel.year)
-            )
-            db_events = result.scalars().all()
+        try:
+            async with async_session() as db:
+                result = await db.execute(
+                    select(EventModel)
+                    .where(EventModel.country_iso == code)
+                    .order_by(EventModel.year)
+                )
+                db_events = result.scalars().all()
+        except Exception:
+            db_events = []
 
         if db_events:
             events = [db_event_to_schema(e) for e in db_events]
-        else:
+        elif qid:
             events = await get_country_events(client, qid)
             # Persist to DB for future requests
             try:
@@ -135,6 +134,8 @@ async def get_country_history(request: Request, iso_code: str) -> CountryHistory
                 logger.info("Persisted %d Wikidata events for %s", len(events), code)
             except Exception as e:
                 logger.warning("Failed to persist Wikidata events for %s: %s", code, e)
+        else:
+            events = []
 
         return CountryHistory(country_name=country_name, iso_code=code, events=events)
 

@@ -18,10 +18,11 @@ export interface HistoricalEvent {
 
 export interface OnThisDayEvent {
   year: number;
-  title: string;
-  description: string;
+  text: string;
+  title?: string;
+  description?: string;
   wikipedia_url?: string;
-  related_pages?: RelatedPage[];
+  pages?: { title: string; description?: string; thumbnail_url?: string; content_url?: string }[];
 }
 
 export interface CountryHistory {

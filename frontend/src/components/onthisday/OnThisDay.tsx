@@ -73,7 +73,7 @@ export function OnThisDay() {
                 </span>
               </div>
               <p className="mt-1 text-xs leading-relaxed text-[#a4abbf] group-hover:text-[#dfe5fa] transition">
-                {event.title}
+                {event.text || event.title || ""}
               </p>
               {event.wikipedia_url && (
                 <a
