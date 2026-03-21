@@ -1,7 +1,9 @@
 from fastapi import APIRouter, Depends, HTTPException
-from pydantic import BaseModel
+from pydantic import BaseModel, EmailStr, Field
 from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
+
+import asyncio
 
 from app.auth import create_access_token, create_verification_token, get_current_user, hash_password, verify_password
 from app.database import get_db
@@ -12,14 +14,14 @@ router = APIRouter(prefix="/api/auth", tags=["auth"])
 
 
 class SignupRequest(BaseModel):
-    name: str
-    email: str
-    password: str
+    name: str = Field(min_length=1, max_length=100)
+    email: EmailStr
+    password: str = Field(min_length=8, max_length=128)
 
 
 class LoginRequest(BaseModel):
-    email: str
-    password: str
+    email: EmailStr
+    password: str = Field(max_length=128)
 
 
 class AuthResponse(BaseModel):
@@ -46,7 +48,7 @@ async def signup(body: SignupRequest, db: AsyncSession = Depends(get_db)):
     await db.refresh(user)
 
     verification_token = create_verification_token(user.email)
-    send_verification_email(user.email, verification_token)
+    email_sent = await asyncio.to_thread(send_verification_email, user.email, verification_token)
 
     token = create_access_token(user.id, user.email)
     return AuthResponse(

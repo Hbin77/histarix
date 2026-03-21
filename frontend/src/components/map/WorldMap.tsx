@@ -115,7 +115,7 @@ export function WorldMap({
       if (!e.features || e.features.length === 0) return;
       const feature = e.features[0];
       const props = feature.properties as Record<string, string>;
-      const isoCode = props.iso_3166_1_alpha_3?.slice(0, 2) || props.iso_3166_1;
+      const isoCode = props.iso_3166_1 || props.iso_3166_1_alpha_2;
       const name = props.name_en || props.name;
 
       if (!isoCode) return;
