@@ -1,33 +1,13 @@
 services:
-  db:
-    image: postgis/postgis:16-3.4-alpine
-    environment:
-      - POSTGRES_DB=histarix
-      - POSTGRES_USER=${DB_USER:-histarix}
-      - POSTGRES_PASSWORD=${DB_PASSWORD:-changeme}
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "3093:80"
     volumes:
-      - pgdata:/var/lib/postgresql/data
-    ports:
-      - "5432:5432"
-    restart: unless-stopped
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-histarix}"]
-      interval: 5s
-      timeout: 5s
-      retries: 5
-
-  backend:
-    build:
-      context: ./backend
-    ports:
-      - "8000:8000"
-    environment:
-      - DATABASE_URL=postgresql+asyncpg://${DB_USER:-histarix}:${DB_PASSWORD:-changeme}@db:5432/histarix
-      - ALLOWED_ORIGINS=${ALLOWED_ORIGINS:-http://localhost:3093,http://localhost}
-      - WIKIPEDIA_USER_AGENT=${WIKIPEDIA_USER_AGENT:-Histarix/1.0}
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
     depends_on:
-      db:
-        condition: service_healthy
+      - frontend
+      - backend
     restart: unless-stopped
 
   frontend:
@@ -38,12 +18,37 @@ services:
         NEXT_PUBLIC_SUPABASE_URL: ${NEXT_PUBLIC_SUPABASE_URL:-}
         NEXT_PUBLIC_SUPABASE_ANON_KEY: ${NEXT_PUBLIC_SUPABASE_ANON_KEY:-}
         NEXT_PUBLIC_POSTHOG_KEY: ${NEXT_PUBLIC_POSTHOG_KEY:-}
-        NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL:-http://localhost:8000}
-    ports:
-      - "3093:3000"
+        NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL:-https://histarix.semo3.com}
     depends_on:
       - backend
     restart: unless-stopped
+
+  backend:
+    build:
+      context: ./backend
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://${DB_USER:-histarix}:${DB_PASSWORD:-changeme}@db:5432/histarix
+      - ALLOWED_ORIGINS=${ALLOWED_ORIGINS:-https://histarix.semo3.com}
+      - WIKIPEDIA_USER_AGENT=${WIKIPEDIA_USER_AGENT:-Histarix/1.0}
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+
+  db:
+    image: postgis/postgis:16-3.4-alpine
+    environment:
+      - POSTGRES_DB=histarix
+      - POSTGRES_USER=${DB_USER:-histarix}
+      - POSTGRES_PASSWORD=${DB_PASSWORD:-changeme}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-histarix}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
 
 volumes:
   pgdata:
