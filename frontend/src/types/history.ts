@@ -4,10 +4,15 @@ export interface RelatedPage {
 }
 
 export interface HistoricalEvent {
-  year: number;
-  title: string;
+  label: string;
+  date?: string;
+  year?: number;
   description: string;
+  wikidata_id?: string;
+  wikipedia_url?: string;
+  image_url?: string;
   category?: string;
+  title?: string;
   related_pages?: RelatedPage[];
 }
 
@@ -20,6 +25,7 @@ export interface OnThisDayEvent {
 }
 
 export interface CountryHistory {
+  country_name: string;
   iso_code: string;
   summary?: string;
   wikipedia_url?: string;

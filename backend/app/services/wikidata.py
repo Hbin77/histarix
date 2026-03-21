@@ -9,9 +9,12 @@ _QID_PATTERN = re.compile(r"^Q\d+$")
 
 SPARQL_TEMPLATE = """
 SELECT DISTINCT ?event ?eventLabel ?date ?description WHERE {{
-  {{ ?event wdt:P17 wd:{qid} ; wdt:P31/wdt:P279* wd:Q1190554 . }}
-  UNION {{ ?event wdt:P17 wd:{qid} ; wdt:P31/wdt:P279* wd:Q178561 . }}
-  UNION {{ ?event wdt:P17 wd:{qid} ; wdt:P31/wdt:P279* wd:Q198 . }}
+  ?event wdt:P17 wd:{qid} .
+  {{ ?event wdt:P31/wdt:P279* wd:Q1190554 . }}
+  UNION {{ ?event wdt:P31/wdt:P279* wd:Q178561 . }}
+  UNION {{ ?event wdt:P31/wdt:P279* wd:Q198 . }}
+  UNION {{ ?event wdt:P31/wdt:P279* wd:Q82414 . }}
+  UNION {{ ?event wdt:P31 wd:Q13418847 . }}
   OPTIONAL {{ ?event wdt:P585 ?date . }}
   OPTIONAL {{ ?event schema:description ?description . FILTER(LANG(?description) = "en") }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en,ko" }}
@@ -50,10 +53,21 @@ async def get_country_events(
             label = row.get("eventLabel", {}).get("value", "")
             date_val = row.get("date", {}).get("value", "")
             desc = row.get("description", {}).get("value", "")
+            year_val = None
+            if date_val:
+                try:
+                    if date_val.startswith("-"):
+                        year_val = -int(date_val[1:5].lstrip("0") or "0")
+                    else:
+                        year_str = date_val[:4].lstrip("0") or "0"
+                        year_val = int(year_str)
+                except ValueError:
+                    pass
             events.append(
                 HistoricalEvent(
                     label=label,
                     date=date_val[:10] if date_val else "",
+                    year=year_val,
                     description=desc,
                     wikidata_id=wikidata_id,
                 )

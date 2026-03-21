@@ -2,11 +2,13 @@ from pydantic import BaseModel
 
 
 class HistoricalEvent(BaseModel):
-    label: str
+    label: str = ""
     date: str = ""
+    year: int | None = None
     description: str = ""
     wikidata_id: str = ""
-    year: int | None = None
+    wikipedia_url: str | None = None
+    image_url: str | None = None
 
 
 class CountryHistory(BaseModel):

@@ -45,7 +45,7 @@ export function CountryHistory({ history }: CountryHistoryProps) {
             >
               <div className="flex items-center gap-2 mb-1">
                 <span className="inline-block rounded bg-[#85adff]/15 px-2 py-0.5 text-xs font-bold text-[#85adff] tabular-nums">
-                  {formatYear(event.year)}
+                  {event.year != null ? formatYear(event.year) : event.date ?? ""}
                 </span>
                 {event.category && (
                   <span className="text-xs text-[#6e7588]">
@@ -54,7 +54,7 @@ export function CountryHistory({ history }: CountryHistoryProps) {
                 )}
               </div>
               <h5 className="text-sm font-medium text-[#dfe5fa]">
-                {event.title}
+                {event.title ?? event.label}
               </h5>
               <p className="mt-1 text-xs leading-relaxed text-[#a4abbf]">
                 {event.description}

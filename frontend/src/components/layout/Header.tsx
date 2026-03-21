@@ -5,7 +5,11 @@ import Link from "next/link";
 import { SearchBar } from "./SearchBar";
 import { AuthButton } from "@/components/auth/AuthButton";
 
-export function Header() {
+interface HeaderProps {
+  onCountrySelect?: (country: { iso_code: string; name: string }) => void;
+}
+
+export function Header({ onCountrySelect }: HeaderProps) {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 flex h-14 items-center justify-between px-6 bg-[#1b263b]/60 backdrop-blur-[12px]">
       <Link href="/" className="flex items-center gap-2">
@@ -15,7 +19,7 @@ export function Header() {
         </span>
       </Link>
 
-      <SearchBar />
+      <SearchBar onSelect={onCountrySelect} />
 
       <AuthButton />
     </header>

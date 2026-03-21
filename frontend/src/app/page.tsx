@@ -15,22 +15,20 @@ export default function HomePage() {
     useState<SelectedCountry | null>(null);
   const { currentYear, isPlaying, setCurrentYear, togglePlay } =
     useTimeSlider(2000);
-  const [mapInstance, setMapInstance] = useState<mapboxgl.Map | null>(null);
-
   const handleCountrySelect = (country: SelectedCountry) => {
     setSelectedCountry(country);
   };
 
+  const handleSearchSelect = (country: { iso_code: string; name: string }) => {
+    setSelectedCountry({
+      iso_code: country.iso_code,
+      name: country.name,
+      center: [0, 0],
+    });
+  };
+
   const handleClosePanel = () => {
     setSelectedCountry(null);
-  };
-
-  const handleZoomIn = () => {
-    mapInstance?.zoomIn({ duration: 300 });
-  };
-
-  const handleZoomOut = () => {
-    mapInstance?.zoomOut({ duration: 300 });
   };
 
   return (
@@ -40,9 +38,9 @@ export default function HomePage() {
         selectedCountryCode={selectedCountry?.iso_code}
       />
 
-      <Header />
+      <Header onCountrySelect={handleSearchSelect} />
 
-      <MapControls onZoomIn={handleZoomIn} onZoomOut={handleZoomOut} />
+      <MapControls onZoomIn={() => {}} onZoomOut={() => {}} />
 
       <CountryPanel
         selectedCountry={selectedCountry}

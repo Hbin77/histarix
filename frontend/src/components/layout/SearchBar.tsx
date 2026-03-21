@@ -4,7 +4,11 @@ import { useState, useRef, useEffect, useCallback } from "react";
 import type { CountryBasic } from "@/types/country";
 import { searchCountries } from "@/services/countryService";
 
-export function SearchBar() {
+interface SearchBarProps {
+  onSelect?: (country: { iso_code: string; name: string }) => void;
+}
+
+export function SearchBar({ onSelect }: SearchBarProps) {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<CountryBasic[]>([]);
   const [isOpen, setIsOpen] = useState(false);
@@ -81,12 +85,13 @@ export function SearchBar() {
               onClick={() => {
                 setQuery(country.name);
                 setIsOpen(false);
+                onSelect?.({ iso_code: country.iso_code, name: country.name });
               }}
             >
               <span className="text-xs text-[#6e7588] font-mono">
                 {country.iso_code}
               </span>
-              <span>{country.name_ko ?? country.name}</span>
+              <span>{country.name}</span>
             </button>
           ))}
         </div>

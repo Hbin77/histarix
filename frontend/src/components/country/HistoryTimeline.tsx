@@ -16,7 +16,7 @@ export function HistoryTimeline({ events }: HistoryTimelineProps) {
     );
   }
 
-  const sorted = [...events].sort((a, b) => a.year - b.year);
+  const sorted = [...events].sort((a, b) => (a.year ?? 0) - (b.year ?? 0));
 
   return (
     <div className="relative pl-6">
@@ -32,7 +32,7 @@ export function HistoryTimeline({ events }: HistoryTimelineProps) {
             {/* Card */}
             <div className="rounded-lg bg-[#1b263b]/30 p-4 transition hover:bg-white/8">
               <span className="text-xs font-bold text-[#85adff] tabular-nums">
-                {formatYear(event.year)}
+                {event.year != null ? formatYear(event.year) : event.date ?? ""}
               </span>
               <h5 className="mt-1 text-sm font-medium text-[#dfe5fa]">
                 {event.title}

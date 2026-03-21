@@ -14,7 +14,7 @@ export function CountryInfo({ info }: CountryInfoProps) {
   }
 
   const fields: { label: string; value: string | undefined }[] = [
-    { label: "수도", value: info.capital },
+    { label: "수도", value: info.capital?.join(", ") },
     {
       label: "인구",
       value: info.population?.toLocaleString(),
@@ -45,12 +45,12 @@ export function CountryInfo({ info }: CountryInfoProps) {
     <div className="space-y-5">
       {/* Flag + Name */}
       <div className="flex items-center gap-4">
-        {info.flag_emoji && (
-          <span className="text-5xl">{info.flag_emoji}</span>
+        {info.flag && (
+          <img src={info.flag} alt={info.name} className="h-12 w-auto rounded shadow" />
         )}
         <div>
           <h3 className="text-xl font-bold text-[#dfe5fa]">
-            {info.name_ko ?? info.name}
+            {info.name}
           </h3>
           {info.official_name && (
             <p className="text-sm text-[#6e7588]">{info.official_name}</p>
@@ -76,6 +76,12 @@ export function CountryInfo({ info }: CountryInfoProps) {
             )
         )}
       </div>
+
+      {info.wikipedia_summary && (
+        <div className="mt-4">
+          <p className="text-sm leading-relaxed text-[#a4abbf]">{info.wikipedia_summary}</p>
+        </div>
+      )}
     </div>
   );
 }
