@@ -21,17 +21,26 @@ export function WorldMap({
   const selectedIdRef = useRef<number | null>(null);
   const onCountrySelectRef = useRef(onCountrySelect);
   const [hasToken, setHasToken] = useState(true);
+  const [isImmersive, setIsImmersive] = useState(false);
 
   useEffect(() => {
     onCountrySelectRef.current = onCountrySelect;
   }, [onCountrySelect]);
 
+  const resetView = () => {
+    const map = mapRef.current;
+    if (!map) return;
+    map.flyTo({ center: [15, 30], zoom: 2, pitch: 0, bearing: 0, duration: 1500 });
+    if (markerRef.current) {
+      markerRef.current.remove();
+      markerRef.current = null;
+    }
+    setIsImmersive(false);
+  };
+
   useEffect(() => {
     const token = process.env.NEXT_PUBLIC_MAPBOX_TOKEN;
-    if (!token) {
-      setHasToken(false);
-      return;
-    }
+    if (!token) { setHasToken(false); return; }
     if (!containerRef.current) return;
 
     mapboxgl.accessToken = token;
@@ -41,6 +50,8 @@ export function WorldMap({
       style: "mapbox://styles/mapbox/dark-v11",
       center: [15, 30],
       zoom: 2,
+      pitch: 0,
+      bearing: 0,
       projection: "mercator",
     });
 
@@ -85,14 +96,12 @@ export function WorldMap({
       if (!e.features || e.features.length === 0) return;
       const feature = e.features[0];
       const id = feature.id as number;
-
       if (hoveredIdRef.current !== null && hoveredIdRef.current !== id) {
         map.setFeatureState(
           { source: "country-boundaries", sourceLayer: "country_boundaries", id: hoveredIdRef.current },
           { hover: false }
         );
       }
-
       hoveredIdRef.current = id;
       map.setFeatureState(
         { source: "country-boundaries", sourceLayer: "country_boundaries", id },
@@ -118,9 +127,9 @@ export function WorldMap({
       const props = feature.properties as Record<string, string>;
       const isoCode = props.iso_3166_1 || props.iso_3166_1_alpha_2;
       const name = props.name_en || props.name;
-
       if (!isoCode) return;
 
+      // Deselect previous
       if (selectedIdRef.current !== null) {
         map.setFeatureState(
           { source: "country-boundaries", sourceLayer: "country_boundaries", id: selectedIdRef.current },
@@ -148,51 +157,47 @@ export function WorldMap({
       }
 
       const landmark = COUNTRY_LANDMARKS[isoCode];
+
+      // Fly to country with tilt for immersive view
+      map.flyTo({
+        center: [e.lngLat.lng, e.lngLat.lat],
+        zoom: 5,
+        pitch: 50,
+        bearing: -10,
+        duration: 2000,
+        essential: true,
+      });
+      setIsImmersive(true);
+
       if (landmark) {
-        // Create custom marker element
-        const el = document.createElement("div");
-        el.className = "landmark-marker";
-        el.innerHTML = `
-          <div class="landmark-monument">
-            <div class="landmark-svg">${landmark.svg}</div>
-            <div class="landmark-glow"></div>
-          </div>
-          <div class="landmark-label">
-            <span class="landmark-name">${landmark.name}</span>
-            <span class="landmark-tagline">${landmark.tagline}</span>
-          </div>
-          <div class="landmark-ground"></div>
-        `;
-
-        // Create marker pinned to the ground
-        const marker = new mapboxgl.Marker({
-          element: el,
-          anchor: "bottom",
-        })
-          .setLngLat([e.lngLat.lng, e.lngLat.lat])
-          .addTo(map);
-
-        markerRef.current = marker;
-
-        // Auto-remove after 6 seconds
+        // Wait for flyTo to finish, then place marker
         setTimeout(() => {
-          el.classList.add("landmark-fade-out");
-          setTimeout(() => {
-            if (markerRef.current === marker) {
-              marker.remove();
-              markerRef.current = null;
-            }
-          }, 600);
-        }, 6000);
-      }
-    });
+          if (!mapRef.current) return;
 
-    // Click on empty map area to deselect
-    map.on("click", (e) => {
-      const features = map.queryRenderedFeatures(e.point, { layers: ["country-fills"] });
-      if (features.length === 0 && markerRef.current) {
-        markerRef.current.remove();
-        markerRef.current = null;
+          const el = document.createElement("div");
+          el.className = "landmark-marker";
+          el.innerHTML = `
+            <div class="landmark-monument">
+              <div class="landmark-svg">${landmark.svg}</div>
+            </div>
+            <div class="landmark-base">
+              <div class="landmark-base-glow"></div>
+            </div>
+            <div class="landmark-info-card">
+              <div class="landmark-name">${landmark.name}</div>
+              <div class="landmark-tagline">${landmark.tagline}</div>
+            </div>
+          `;
+
+          const marker = new mapboxgl.Marker({
+            element: el,
+            anchor: "bottom",
+          })
+            .setLngLat([e.lngLat.lng, e.lngLat.lat])
+            .addTo(mapRef.current!);
+
+          markerRef.current = marker;
+        }, 1800);
       }
     });
 
@@ -206,7 +211,6 @@ export function WorldMap({
   useEffect(() => {
     const map = mapRef.current;
     if (!map || !map.isStyleLoaded() || selectedIdRef.current === null) return;
-
     map.setFeatureState(
       { source: "country-boundaries", sourceLayer: "country_boundaries", id: selectedIdRef.current },
       { selected: false }
@@ -217,7 +221,7 @@ export function WorldMap({
     return (
       <div className="flex h-full w-full items-center justify-center bg-[#070e1d]">
         <div className="text-center">
-          <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="#85adff" strokeWidth="1.5" className="mb-4"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+          <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="#85adff" strokeWidth="1.5" className="mb-4 mx-auto"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
           <h2 className="text-xl font-semibold text-[#dfe5fa]">Mapbox 토큰을 설정해주세요</h2>
           <p className="mt-2 text-sm text-[#a4abbf]">NEXT_PUBLIC_MAPBOX_TOKEN in .env.local</p>
         </div>
@@ -225,5 +229,18 @@ export function WorldMap({
     );
   }
 
-  return <div ref={containerRef} className="h-full w-full" />;
+  return (
+    <div className="relative h-full w-full">
+      <div ref={containerRef} className="h-full w-full" />
+      {isImmersive && (
+        <button
+          onClick={resetView}
+          className="absolute top-20 left-6 z-30 flex items-center gap-2 rounded-xl bg-[#11192b]/90 px-4 py-2.5 text-sm font-medium text-[#dfe5fa] backdrop-blur-xl transition hover:bg-[#1b263b] border border-[#414859]/30"
+        >
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M15 18l-6-6 6-6"/></svg>
+          세계 지도로 돌아가기
+        </button>
+      )}
+    </div>
+  );
 }
