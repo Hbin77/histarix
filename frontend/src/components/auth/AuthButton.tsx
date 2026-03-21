@@ -2,7 +2,7 @@
 
 export function AuthButton() {
   return (
-    <button className="rounded-full bg-white/10 px-4 py-1.5 text-sm font-medium text-white/80 ring-1 ring-white/10 transition hover:bg-white/20 hover:text-white">
+    <button className="rounded-full px-4 py-1.5 text-sm font-medium text-[#85adff] transition hover:text-[#6e9fff]">
       로그인
     </button>
   );

@@ -40,12 +40,12 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="flex min-h-screen items-center justify-center bg-gray-950 px-4">
-      <div className="w-full max-w-sm rounded-2xl bg-gray-900/80 p-8 backdrop-blur-xl border border-white/5">
-        <h1 className="mb-2 text-center text-2xl font-bold bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
-          Histarix
+    <div className="flex min-h-screen items-center justify-center bg-[#070e1d] px-4">
+      <div className="w-full max-w-sm rounded-2xl bg-[#0b1323]/95 p-8 backdrop-blur-xl">
+        <h1 className="mb-2 text-center text-2xl font-bold text-[#dfe5fa]" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
+          Histar<span className="text-[#85adff]">ix</span>
         </h1>
-        <p className="mb-8 text-center text-sm text-white/40">
+        <p className="mb-8 text-center text-sm text-[#a4abbf]">
           역사를 탐험하세요
         </p>
 
@@ -56,26 +56,27 @@ export default function LoginPage() {
             onChange={(e) => setEmail(e.target.value)}
             placeholder="이메일 주소"
             required
-            className="w-full rounded-lg bg-white/5 px-4 py-3 text-sm text-white placeholder-white/30 outline-none ring-1 ring-white/10 transition focus:ring-blue-500/50"
+            className="w-full rounded-lg bg-black px-4 py-3 text-sm text-[#dfe5fa] placeholder-[#6e7588] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
           />
           <button
             type="submit"
             disabled={loading}
-            className="w-full rounded-lg bg-blue-500 py-3 text-sm font-medium text-white transition hover:bg-blue-600 disabled:opacity-50"
+            className="w-full rounded-lg py-3 text-sm font-medium text-white transition disabled:opacity-50"
+            style={{ background: 'linear-gradient(135deg, #85adff, #6e9fff)' }}
           >
             {loading ? "전송 중..." : "매직 링크 전송"}
           </button>
         </form>
 
         <div className="my-6 flex items-center gap-3">
-          <div className="h-px flex-1 bg-white/10" />
-          <span className="text-xs text-white/30">또는</span>
-          <div className="h-px flex-1 bg-white/10" />
+          <div className="h-px flex-1 bg-[#414859]" />
+          <span className="text-xs text-[#6e7588]">또는</span>
+          <div className="h-px flex-1 bg-[#414859]" />
         </div>
 
         <button
           onClick={handleGoogleLogin}
-          className="flex w-full items-center justify-center gap-2 rounded-lg bg-white/5 py-3 text-sm font-medium text-white/70 ring-1 ring-white/10 transition hover:bg-white/10"
+          className="flex w-full items-center justify-center gap-2 rounded-lg bg-[#161f33] py-3 text-sm font-medium text-[#a4abbf] transition hover:bg-[#1b263b]"
         >
           <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
             <path
@@ -99,13 +100,19 @@ export default function LoginPage() {
         </button>
 
         {message && (
-          <p className="mt-4 text-center text-sm text-blue-400">{message}</p>
+          <p className="mt-4 text-center text-sm text-[#85adff]">{message}</p>
         )}
 
-        <div className="mt-6 text-center">
+        <div className="mt-6 text-center space-y-2">
+          <a
+            href="/auth/signup"
+            className="block text-sm text-[#85adff] hover:text-[#6e9fff] transition"
+          >
+            회원가입
+          </a>
           <a
             href="/"
-            className="text-xs text-white/30 hover:text-white/50 transition"
+            className="block text-xs text-[#6e7588] hover:text-[#a4abbf] transition"
           >
             ← 지도로 돌아가기
           </a>

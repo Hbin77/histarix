@@ -16,10 +16,10 @@ export function TimeSlider({
   onTogglePlay,
 }: TimeSliderProps) {
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-40 flex h-20 items-center gap-4 bg-black/60 px-6 backdrop-blur-md border-t border-white/5">
+    <div className="fixed bottom-0 left-0 right-0 z-40 flex h-20 items-center gap-4 bg-[#070e1d]/80 px-6 backdrop-blur-[12px]">
       <button
         onClick={onTogglePlay}
-        className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-blue-500/20 text-blue-400 ring-1 ring-blue-500/30 transition hover:bg-blue-500/30"
+        className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#85adff]/20 text-[#85adff] ring-1 ring-[#85adff]/30 transition hover:bg-[#85adff]/30"
       >
         {isPlaying ? (
           <svg
@@ -45,7 +45,8 @@ export function TimeSlider({
 
       <TimeDisplay
         year={currentYear}
-        className="w-24 shrink-0 text-center text-lg font-bold text-white tabular-nums"
+        className="w-24 shrink-0 text-center text-lg font-bold text-[#dfe5fa] tabular-nums"
+        style={{ fontFamily: "'Space Grotesk', sans-serif" }}
       />
 
       <div className="flex flex-1 flex-col gap-1">
@@ -55,9 +56,9 @@ export function TimeSlider({
           max={2026}
           value={currentYear}
           onChange={(e) => onYearChange(Number(e.target.value))}
-          className="w-full cursor-pointer accent-blue-500"
+          className="w-full cursor-pointer accent-[#85adff]"
         />
-        <div className="flex justify-between text-[10px] text-white/30">
+        <div className="flex justify-between text-[10px] text-[#6e7588]">
           <span>3000 BC</span>
           <span>2000 BC</span>
           <span>1000 BC</span>

@@ -12,9 +12,9 @@ export function OnThisDay() {
       {/* Header - always visible */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="flex w-full items-center justify-between rounded-t-xl bg-black/60 px-4 py-3 backdrop-blur-md border border-white/5 border-b-0 transition hover:bg-black/70"
+        className="flex w-full items-center justify-between rounded-t-xl bg-[#11192b]/90 px-4 py-3 backdrop-blur-[12px] transition hover:bg-[#161f33]"
       >
-        <span className="text-sm font-semibold text-white/80">
+        <span className="text-sm font-semibold text-[#dfe5fa]">
           📅 오늘의 역사
         </span>
         <svg
@@ -24,7 +24,7 @@ export function OnThisDay() {
           fill="none"
           stroke="currentColor"
           strokeWidth="2"
-          className={`text-white/40 transition-transform ${isOpen ? "rotate-180" : ""}`}
+          className={`text-[#a4abbf] transition-transform ${isOpen ? "rotate-180" : ""}`}
         >
           <path d="M2 4l4 4 4-4" />
         </svg>
@@ -32,8 +32,8 @@ export function OnThisDay() {
 
       {/* Content */}
       <div
-        className={`overflow-hidden rounded-b-xl bg-black/60 backdrop-blur-md border border-white/5 border-t-0 transition-all duration-300 ${
-          isOpen ? "max-h-80" : "max-h-0 border-0"
+        className={`overflow-hidden rounded-b-xl bg-[#11192b]/90 backdrop-blur-[12px] transition-all duration-300 ${
+          isOpen ? "max-h-80" : "max-h-0"
         }`}
       >
         <div className="max-h-72 overflow-y-auto px-4 py-3 space-y-3">
@@ -41,29 +41,29 @@ export function OnThisDay() {
             <div className="space-y-3 animate-pulse">
               {[1, 2, 3].map((i) => (
                 <div key={i} className="space-y-1">
-                  <div className="h-3 w-16 rounded bg-white/5" />
-                  <div className="h-3 w-full rounded bg-white/5" />
+                  <div className="h-3 w-16 rounded bg-[#161f33]" />
+                  <div className="h-3 w-full rounded bg-[#161f33]" />
                 </div>
               ))}
             </div>
           )}
 
           {error && (
-            <p className="text-xs text-red-400">데이터를 불러올 수 없습니다.</p>
+            <p className="text-xs text-[#ff716c]">데이터를 불러올 수 없습니다.</p>
           )}
 
           {!loading && !error && events.length === 0 && (
-            <p className="text-xs text-white/40">오늘의 역사 이벤트가 없습니다.</p>
+            <p className="text-xs text-[#a4abbf]">오늘의 역사 이벤트가 없습니다.</p>
           )}
 
           {events.map((event, idx) => (
             <div key={idx} className="group">
               <div className="flex items-center gap-2">
-                <span className="inline-block rounded bg-blue-500/20 px-1.5 py-0.5 text-[10px] font-bold text-blue-400 tabular-nums">
+                <span className="inline-block rounded bg-[#85adff]/20 px-1.5 py-0.5 text-[10px] font-bold text-[#85adff] tabular-nums">
                   {event.year}
                 </span>
               </div>
-              <p className="mt-1 text-xs leading-relaxed text-white/60 group-hover:text-white/80 transition">
+              <p className="mt-1 text-xs leading-relaxed text-[#a4abbf] group-hover:text-[#dfe5fa] transition">
                 {event.title}
               </p>
               {event.wikipedia_url && (
@@ -71,7 +71,7 @@ export function OnThisDay() {
                   href={event.wikipedia_url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-[10px] text-blue-400/60 hover:text-blue-400"
+                  className="text-[10px] text-[#85adff]/60 hover:text-[#85adff]"
                 >
                   더 보기
                 </a>

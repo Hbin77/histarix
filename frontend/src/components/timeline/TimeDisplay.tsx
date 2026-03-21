@@ -8,8 +8,9 @@ export function formatYear(year: number): string {
 interface TimeDisplayProps {
   year: number;
   className?: string;
+  style?: React.CSSProperties;
 }
 
-export function TimeDisplay({ year, className = "" }: TimeDisplayProps) {
-  return <span className={className}>{formatYear(year)}</span>;
+export function TimeDisplay({ year, className = "", style }: TimeDisplayProps) {
+  return <span className={className} style={style}>{formatYear(year)}</span>;
 }

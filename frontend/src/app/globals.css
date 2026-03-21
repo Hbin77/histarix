@@ -1,9 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
 @import "tailwindcss";
 @import "mapbox-gl/dist/mapbox-gl.css";
+
+:root {
+  --surface: #070e1d;
+  --surface-container-low: #0b1323;
+  --surface-container: #11192b;
+  --surface-container-high: #161f33;
+  --surface-container-highest: #1b263b;
+  --surface-variant: #1b263b;
+  --primary: #85adff;
+  --primary-container: #6e9fff;
+  --primary-dim: #699cff;
+  --on-surface: #dfe5fa;
+  --on-surface-variant: #a4abbf;
+  --outline: #6e7588;
+  --outline-variant: #414859;
+  --error: #ff716c;
+  --font-headline: 'Space Grotesk', sans-serif;
+  --font-body: 'Plus Jakarta Sans', sans-serif;
+}
 
 body {
   margin: 0;
   overflow: hidden;
-  background: #0a0a0a;
-  color: white;
+  background: #070e1d;
+  color: #dfe5fa;
+  font-family: 'Plus Jakarta Sans', sans-serif;
 }

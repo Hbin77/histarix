@@ -5,10 +5,10 @@ import { AuthButton } from "@/components/auth/AuthButton";
 
 export function Header() {
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 flex h-14 items-center justify-between px-6 bg-black/40 backdrop-blur-lg border-b border-white/5">
+    <header className="fixed top-0 left-0 right-0 z-50 flex h-14 items-center justify-between px-6 bg-[#1b263b]/60 backdrop-blur-[12px]">
       <div className="flex items-center gap-2">
-        <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
-          Histarix
+        <span className="text-xl font-bold tracking-tight text-[#dfe5fa]" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
+          Histar<span className="text-[#85adff]">ix</span>
         </span>
       </div>
 

@@ -190,13 +190,13 @@ export function WorldMap({
 
   if (!hasToken) {
     return (
-      <div className="flex h-full w-full items-center justify-center bg-gray-950">
+      <div className="flex h-full w-full items-center justify-center bg-[#070e1d]">
         <div className="text-center">
           <div className="mb-4 text-6xl">🗺️</div>
-          <h2 className="text-xl font-semibold text-white/80">
+          <h2 className="text-xl font-semibold text-[#dfe5fa]">
             Mapbox Token Required
           </h2>
-          <p className="mt-2 text-sm text-white/40">
+          <p className="mt-2 text-sm text-[#a4abbf]">
             Set NEXT_PUBLIC_MAPBOX_TOKEN in .env.local
           </p>
         </div>
