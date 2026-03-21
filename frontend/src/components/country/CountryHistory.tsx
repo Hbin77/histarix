@@ -10,7 +10,7 @@ interface CountryHistoryProps {
 export function CountryHistory({ history }: CountryHistoryProps) {
   if (!history) {
     return (
-      <p className="text-sm text-white/40">역사 정보를 불러올 수 없습니다.</p>
+      <p className="text-sm text-[#6e7588]">역사 정보를 불러올 수 없습니다.</p>
     );
   }
 
@@ -18,8 +18,8 @@ export function CountryHistory({ history }: CountryHistoryProps) {
     <div className="space-y-5">
       {history.summary && (
         <div className="space-y-2">
-          <h4 className="text-sm font-semibold text-white/60">개요</h4>
-          <p className="text-sm leading-relaxed text-white/70">
+          <h4 className="text-sm font-semibold text-[#a4abbf]">개요</h4>
+          <p className="text-sm leading-relaxed text-[#dfe5fa]/70">
             {history.summary}
           </p>
           {history.wikipedia_url && (
@@ -27,7 +27,7 @@ export function CountryHistory({ history }: CountryHistoryProps) {
               href={history.wikipedia_url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block text-xs text-blue-400 hover:underline"
+              className="inline-block text-xs text-[#85adff] hover:underline"
             >
               Wikipedia에서 더 보기 →
             </a>
@@ -37,26 +37,26 @@ export function CountryHistory({ history }: CountryHistoryProps) {
 
       {history.events.length > 0 && (
         <div className="space-y-3">
-          <h4 className="text-sm font-semibold text-white/60">주요 사건</h4>
+          <h4 className="text-sm font-semibold text-[#a4abbf]">주요 사건</h4>
           {history.events.map((event, idx) => (
             <div
               key={idx}
-              className="rounded-lg bg-white/5 p-4 transition hover:bg-white/8"
+              className="rounded-lg bg-[#1b263b]/30 p-4 transition hover:bg-white/8"
             >
               <div className="flex items-center gap-2 mb-1">
-                <span className="inline-block rounded bg-blue-500/20 px-2 py-0.5 text-xs font-bold text-blue-400 tabular-nums">
+                <span className="inline-block rounded bg-[#85adff]/15 px-2 py-0.5 text-xs font-bold text-[#85adff] tabular-nums">
                   {formatYear(event.year)}
                 </span>
                 {event.category && (
-                  <span className="text-xs text-white/30">
+                  <span className="text-xs text-[#6e7588]">
                     {event.category}
                   </span>
                 )}
               </div>
-              <h5 className="text-sm font-medium text-white/90">
+              <h5 className="text-sm font-medium text-[#dfe5fa]">
                 {event.title}
               </h5>
-              <p className="mt-1 text-xs leading-relaxed text-white/50">
+              <p className="mt-1 text-xs leading-relaxed text-[#a4abbf]">
                 {event.description}
               </p>
             </div>
@@ -65,7 +65,7 @@ export function CountryHistory({ history }: CountryHistoryProps) {
       )}
 
       {history.events.length === 0 && !history.summary && (
-        <p className="text-sm text-white/40">
+        <p className="text-sm text-[#6e7588]">
           이 국가에 대한 역사 정보가 없습니다.
         </p>
       )}

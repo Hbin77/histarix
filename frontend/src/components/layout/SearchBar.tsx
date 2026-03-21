@@ -68,22 +68,22 @@ export function SearchBar() {
 
       {loading && (
         <div className="absolute right-4 top-1/2 -translate-y-1/2">
-          <div className="h-4 w-4 animate-spin rounded-full border-2 border-white/20 border-t-white/60" />
+          <div className="h-4 w-4 animate-spin rounded-full border-2 border-[#414859] border-t-[#85adff]" />
         </div>
       )}
 
       {isOpen && results.length > 0 && (
-        <div className="absolute top-full mt-2 w-full rounded-xl bg-gray-900/95 backdrop-blur-xl border border-white/10 shadow-2xl overflow-hidden z-50">
+        <div className="absolute top-full mt-2 w-full rounded-xl bg-[#0b1323] backdrop-blur-xl border border-[#414859]/30 shadow-2xl overflow-hidden z-50">
           {results.map((country) => (
             <button
               key={country.iso_code}
-              className="flex w-full items-center gap-3 px-4 py-3 text-left text-sm text-white/80 hover:bg-white/10 transition"
+              className="flex w-full items-center gap-3 px-4 py-3 text-left text-sm text-[#dfe5fa] hover:bg-[#1b263b]/50 transition"
               onClick={() => {
                 setQuery(country.name);
                 setIsOpen(false);
               }}
             >
-              <span className="text-xs text-white/40 font-mono">
+              <span className="text-xs text-[#6e7588] font-mono">
                 {country.iso_code}
               </span>
               <span>{country.name_ko ?? country.name}</span>

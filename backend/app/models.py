@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from sqlalchemy import DateTime, Float, Integer, String, Text, func
+from sqlalchemy import DateTime, Float, ForeignKey, Integer, String, Text, func
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 
 
@@ -57,7 +57,7 @@ class UserProgress(Base):
     __tablename__ = "user_progress"
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
-    user_id: Mapped[int] = mapped_column(Integer, index=True, nullable=False)
+    user_id: Mapped[int] = mapped_column(ForeignKey("users.id"), index=True, nullable=False)
     country_iso: Mapped[str] = mapped_column(String(2), nullable=False)
     visited_at: Mapped[datetime] = mapped_column(DateTime, server_default=func.now())
     quiz_score: Mapped[int | None] = mapped_column(Integer)
@@ -78,6 +78,6 @@ class UserBadge(Base):
     __tablename__ = "user_badges"
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
-    user_id: Mapped[int] = mapped_column(Integer, index=True, nullable=False)
-    badge_id: Mapped[int] = mapped_column(Integer, nullable=False)
+    user_id: Mapped[int] = mapped_column(ForeignKey("users.id"), index=True, nullable=False)
+    badge_id: Mapped[int] = mapped_column(ForeignKey("badges.id"), nullable=False)
     earned_at: Mapped[datetime] = mapped_column(DateTime, server_default=func.now())

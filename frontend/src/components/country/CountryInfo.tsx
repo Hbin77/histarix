@@ -9,7 +9,7 @@ interface CountryInfoProps {
 export function CountryInfo({ info }: CountryInfoProps) {
   if (!info) {
     return (
-      <p className="text-sm text-white/40">국가 정보를 불러올 수 없습니다.</p>
+      <p className="text-sm text-[#6e7588]">국가 정보를 불러올 수 없습니다.</p>
     );
   }
 
@@ -49,13 +49,13 @@ export function CountryInfo({ info }: CountryInfoProps) {
           <span className="text-5xl">{info.flag_emoji}</span>
         )}
         <div>
-          <h3 className="text-xl font-bold text-white">
+          <h3 className="text-xl font-bold text-[#dfe5fa]">
             {info.name_ko ?? info.name}
           </h3>
           {info.official_name && (
-            <p className="text-sm text-white/40">{info.official_name}</p>
+            <p className="text-sm text-[#6e7588]">{info.official_name}</p>
           )}
-          <p className="text-xs font-mono text-white/30">{info.iso_code}</p>
+          <p className="text-xs font-mono text-[#dfe5fa]/30">{info.iso_code}</p>
         </div>
       </div>
 
@@ -66,10 +66,10 @@ export function CountryInfo({ info }: CountryInfoProps) {
             field.value && (
               <div
                 key={field.label}
-                className="flex items-start justify-between rounded-lg bg-white/5 px-4 py-3"
+                className="flex items-start justify-between rounded-lg bg-[#1b263b]/30 px-4 py-3"
               >
-                <span className="text-sm text-white/40">{field.label}</span>
-                <span className="text-sm font-medium text-white/80 text-right max-w-[220px]">
+                <span className="text-sm text-[#6e7588]">{field.label}</span>
+                <span className="text-sm font-medium text-[#dfe5fa] text-right max-w-[220px]">
                   {field.value}
                 </span>
               </div>

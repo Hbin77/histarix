@@ -143,7 +143,7 @@ export default function SignupPage() {
               onChange={(e) => setName(e.target.value)}
               placeholder="홍길동"
               required
-              className="w-full rounded-lg bg-black px-4 py-3 text-sm text-[#dfe5fa] placeholder-[#6e7588] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
+              className="w-full rounded-lg bg-[#070e1d] px-4 py-3 text-sm text-[#dfe5fa] placeholder-[#6e7588] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
             />
           </div>
 
@@ -155,7 +155,7 @@ export default function SignupPage() {
               onChange={(e) => setEmail(e.target.value)}
               placeholder="email@example.com"
               required
-              className="w-full rounded-lg bg-black px-4 py-3 text-sm text-[#dfe5fa] placeholder-[#6e7588] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
+              className="w-full rounded-lg bg-[#070e1d] px-4 py-3 text-sm text-[#dfe5fa] placeholder-[#6e7588] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
             />
           </div>
 
@@ -167,7 +167,7 @@ export default function SignupPage() {
               onChange={(e) => setPassword(e.target.value)}
               placeholder="8자 이상, 대소문자 + 숫자 + 특수문자"
               required
-              className="w-full rounded-lg bg-black px-4 py-3 text-sm text-[#dfe5fa] placeholder-[#6e7588] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
+              className="w-full rounded-lg bg-[#070e1d] px-4 py-3 text-sm text-[#dfe5fa] placeholder-[#6e7588] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
             />
             {password.length > 0 && (
               <div className="mt-2 flex items-center gap-2">
@@ -192,7 +192,7 @@ export default function SignupPage() {
               onChange={(e) => setConfirmPassword(e.target.value)}
               placeholder="비밀번호를 다시 입력해주세요"
               required
-              className="w-full rounded-lg bg-black px-4 py-3 text-sm text-[#dfe5fa] placeholder-[#6e7588] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
+              className="w-full rounded-lg bg-[#070e1d] px-4 py-3 text-sm text-[#dfe5fa] placeholder-[#6e7588] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
             />
           </div>
 
@@ -212,7 +212,7 @@ export default function SignupPage() {
           <button
             type="submit"
             disabled={loading}
-            className="w-full rounded-lg py-3 text-sm font-semibold text-white transition disabled:opacity-50"
+            className="w-full rounded-lg py-3 text-sm font-semibold text-[#dfe5fa] transition disabled:opacity-50"
             style={{ background: "linear-gradient(135deg, #85adff, #6e9fff)" }}
           >
             {loading ? "처리 중..." : "회원가입"}

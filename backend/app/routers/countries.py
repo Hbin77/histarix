@@ -1,6 +1,6 @@
 import re
 
-from fastapi import APIRouter, HTTPException, Request
+from fastapi import APIRouter, HTTPException, Query, Request
 
 _ISO_PATTERN = re.compile(r"^[A-Z]{2,3}$")
 
@@ -16,7 +16,7 @@ router = APIRouter(prefix="/api/countries", tags=["countries"])
 
 
 @router.get("/search", response_model=list[CountryBasic])
-async def search_countries_endpoint(request: Request, q: str = "") -> list[CountryBasic]:
+async def search_countries_endpoint(request: Request, q: str = Query("", max_length=100)) -> list[CountryBasic]:
     if not q or len(q) < 2:
         return []
     client = request.app.state.http_client

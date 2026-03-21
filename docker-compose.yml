@@ -29,7 +29,7 @@ services:
     build:
       context: ./backend
     environment:
-      - DATABASE_URL=postgresql+asyncpg://${DB_USER:-histarix}:${DB_PASSWORD:-changeme}@histarix-db:5432/histarix
+      - DATABASE_URL=postgresql+asyncpg://${DB_USER:-histarix}:${DB_PASSWORD:?DB_PASSWORD is required in .env}@histarix-db:5432/histarix
       - ALLOWED_ORIGINS=${ALLOWED_ORIGINS:-https://histarix.semo3.com}
       - WIKIPEDIA_USER_AGENT=${WIKIPEDIA_USER_AGENT:-Histarix/1.0}
     depends_on:
@@ -44,7 +44,7 @@ services:
     environment:
       - POSTGRES_DB=histarix
       - POSTGRES_USER=${DB_USER:-histarix}
-      - POSTGRES_PASSWORD=${DB_PASSWORD:-changeme}
+      - POSTGRES_PASSWORD=${DB_PASSWORD:?DB_PASSWORD is required in .env}
     volumes:
       - pgdata:/var/lib/postgresql/data
     restart: unless-stopped

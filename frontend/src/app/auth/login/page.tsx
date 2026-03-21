@@ -56,12 +56,12 @@ export default function LoginPage() {
             onChange={(e) => setEmail(e.target.value)}
             placeholder="이메일 주소"
             required
-            className="w-full rounded-lg bg-black px-4 py-3 text-sm text-[#dfe5fa] placeholder-[#6e7588] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
+            className="w-full rounded-lg bg-[#070e1d] px-4 py-3 text-sm text-[#dfe5fa] placeholder-[#6e7588] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
           />
           <button
             type="submit"
             disabled={loading}
-            className="w-full rounded-lg py-3 text-sm font-medium text-white transition disabled:opacity-50"
+            className="w-full rounded-lg py-3 text-sm font-medium text-[#dfe5fa] transition disabled:opacity-50"
             style={{ background: 'linear-gradient(135deg, #85adff, #6e9fff)' }}
           >
             {loading ? "전송 중..." : "매직 링크 전송"}

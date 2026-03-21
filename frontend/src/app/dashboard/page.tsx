@@ -55,7 +55,7 @@ export default function DashboardPage() {
           <span className="text-xl font-bold text-[#dfe5fa] font-[family-name:'Space_Grotesk']">
             탐험가
           </span>
-          <span className="text-xs font-semibold px-3 py-1 rounded-full bg-gradient-to-r from-[#5391ff] to-[#85adff] text-white">
+          <span className="text-xs font-semibold px-3 py-1 rounded-full bg-gradient-to-r from-[#5391ff] to-[#85adff] text-[#dfe5fa]">
             Lv.7 역사학자
           </span>
           <div className="w-full mt-1">

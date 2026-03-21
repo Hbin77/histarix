@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useEffect, useState } from "react";
+import { useRef, useEffect, useCallback, useState } from "react";
 import mapboxgl from "mapbox-gl";
 import type { SelectedCountry } from "@/types/map";
 
@@ -19,7 +19,12 @@ export function WorldMap({
   const mapRef = useRef<mapboxgl.Map | null>(null);
   const hoveredIdRef = useRef<string | null>(null);
   const selectedIdRef = useRef<string | null>(null);
+  const onCountrySelectRef = useRef(onCountrySelect);
   const [hasToken, setHasToken] = useState(true);
+
+  useEffect(() => {
+    onCountrySelectRef.current = onCountrySelect;
+  }, [onCountrySelect]);
 
   useEffect(() => {
     const token = process.env.NEXT_PUBLIC_MAPBOX_TOKEN;
@@ -155,7 +160,7 @@ export function WorldMap({
         { selected: true }
       );
 
-      onCountrySelect({
+      onCountrySelectRef.current({
         iso_code: isoCode,
         name: name ?? isoCode,
         center: [e.lngLat.lng, e.lngLat.lat],

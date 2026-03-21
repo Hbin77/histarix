@@ -3,13 +3,12 @@ from typing import AsyncGenerator
 
 import httpx
 from fastapi import FastAPI
-from sqlalchemy import text
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.config import settings
 from app.database import engine
 from app.models import Base
-from app.routers import countries, history, onthisday, search
+from app.routers import countries, history, onthisday
 
 
 @asynccontextmanager
@@ -42,23 +41,16 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.origins_list,
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_credentials=False,
+    allow_methods=["GET", "OPTIONS"],
+    allow_headers=["Content-Type", "Accept"],
 )
 
 app.include_router(countries.router)
 app.include_router(history.router)
 app.include_router(onthisday.router)
-app.include_router(search.router)
 
 
 @app.get("/api/health")
 async def health() -> dict[str, str]:
-    try:
-        async with engine.connect() as conn:
-            await conn.execute(text("SELECT 1"))
-        db_status = "connected"
-    except Exception:
-        db_status = "disconnected"
-    return {"status": "ok", "database": db_status}
+    return {"status": "ok"}
