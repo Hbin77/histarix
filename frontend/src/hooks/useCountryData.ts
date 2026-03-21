@@ -31,7 +31,7 @@ export function useCountryData(isoCode: string | null): UseCountryDataResult {
     setLoading(true);
     setError(null);
 
-    Promise.all([fetchCountryInfo(isoCode, lang), fetchCountryHistory(isoCode)])
+    Promise.all([fetchCountryInfo(isoCode, lang), fetchCountryHistory(isoCode, lang)])
       .then(([infoData, historyData]) => {
         if (cancelled) return;
         setInfo(infoData);

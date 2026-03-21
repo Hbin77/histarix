@@ -90,7 +90,7 @@ async def get_country(request: Request, iso_code: str, lang: str = Query("en", m
 
 
 @router.get("/{iso_code}/history", response_model=CountryHistory)
-async def get_country_history(request: Request, iso_code: str) -> CountryHistory:
+async def get_country_history(request: Request, iso_code: str, lang: str = "en") -> CountryHistory:
     code = iso_code.upper()
     if not _ISO_PATTERN.match(code):
         raise HTTPException(status_code=400, detail="Invalid ISO code")
@@ -111,10 +111,12 @@ async def get_country_history(request: Request, iso_code: str) -> CountryHistory
         except Exception:
             db_events = []
 
-        if db_events:
+        # DB seed data: KR events are in Korean, all others in English
+        seed_lang_match = (lang == "en") or (lang == "ko" and code == "KR")
+        if db_events and seed_lang_match:
             events = [db_event_to_schema(e) for e in db_events]
         elif qid:
-            events = await get_country_events(client, qid)
+            events = await get_country_events(client, qid, lang)
             # Persist to DB for future requests
             try:
                 async with async_session() as db:
@@ -139,4 +141,4 @@ async def get_country_history(request: Request, iso_code: str) -> CountryHistory
 
         return CountryHistory(country_name=country_name, iso_code=code, events=events)
 
-    return await cached_or_fetch("event", code, fetch, EVENT_TTL)
+    return await cached_or_fetch("event", f"{code}:{lang}", fetch, EVENT_TTL)

@@ -16,18 +16,19 @@ SELECT DISTINCT ?event ?eventLabel ?date ?description WHERE {{
   UNION {{ ?event wdt:P31/wdt:P279* wd:Q82414 . }}
   UNION {{ ?event wdt:P31 wd:Q13418847 . }}
   OPTIONAL {{ ?event wdt:P585 ?date . }}
-  OPTIONAL {{ ?event schema:description ?description . FILTER(LANG(?description) = "en") }}
-  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en,ko" }}
+  OPTIONAL {{ ?event schema:description ?description . FILTER(LANG(?description) = "{lang}") }}
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "{lang},en" }}
 }} ORDER BY ?date LIMIT 50
 """
 
 
 async def get_country_events(
-    client: httpx.AsyncClient, qid: str
+    client: httpx.AsyncClient, qid: str, lang: str = "en"
 ) -> list[HistoricalEvent]:
     if not _QID_PATTERN.match(qid):
         return []
-    query = SPARQL_TEMPLATE.format(qid=qid)
+    safe_lang = lang if lang in ("ko", "en", "zh", "ja") else "en"
+    query = SPARQL_TEMPLATE.format(qid=qid, lang=safe_lang)
     try:
         resp = await client.get(
             settings.wikidata_api_url,

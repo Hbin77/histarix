@@ -7,9 +7,9 @@ export async function fetchCountryInfo(isoCode: string, lang: string = "en"): Pr
 }
 
 export async function fetchCountryHistory(
-  isoCode: string
+  isoCode: string, lang: string = "en"
 ): Promise<CountryHistory> {
-  return apiFetch<CountryHistory>(`/api/countries/${isoCode}/history`);
+  return apiFetch<CountryHistory>(`/api/countries/${isoCode}/history?lang=${lang}`);
 }
 
 export async function searchCountries(query: string): Promise<CountryBasic[]> {
