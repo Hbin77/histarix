@@ -1,5 +1,6 @@
 services:
   nginx:
+    container_name: histarix-nginx
     image: nginx:alpine
     ports:
       - "3093:80"
@@ -11,6 +12,7 @@ services:
     restart: unless-stopped
 
   frontend:
+    container_name: histarix-frontend
     build:
       context: ./frontend
       args:
@@ -27,15 +29,17 @@ services:
     build:
       context: ./backend
     environment:
-      - DATABASE_URL=postgresql+asyncpg://${DB_USER:-histarix}:${DB_PASSWORD:-changeme}@db:5432/histarix
+      - DATABASE_URL=postgresql+asyncpg://${DB_USER:-histarix}:${DB_PASSWORD:-changeme}@histarix-db:5432/histarix
       - ALLOWED_ORIGINS=${ALLOWED_ORIGINS:-https://histarix.semo3.com}
       - WIKIPEDIA_USER_AGENT=${WIKIPEDIA_USER_AGENT:-Histarix/1.0}
     depends_on:
-      db:
+      histarix-db:
         condition: service_healthy
+    container_name: histarix-backend
     restart: unless-stopped
 
-  db:
+  histarix-db:
+    container_name: histarix-db
     image: postgis/postgis:16-3.4-alpine
     environment:
       - POSTGRES_DB=histarix
