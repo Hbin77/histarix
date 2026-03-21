@@ -17,6 +17,8 @@ export function WorldMap({
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<mapboxgl.Map | null>(null);
   const markerRef = useRef<mapboxgl.Marker | null>(null);
+  const markerTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const selectedIsoRef = useRef<string | null>(null);
   const hoveredIdRef = useRef<number | null>(null);
   const selectedIdRef = useRef<number | null>(null);
   const onCountrySelectRef = useRef(onCountrySelect);
@@ -129,6 +131,33 @@ export function WorldMap({
       const name = props.name_en || props.name;
       if (!isoCode) return;
 
+      // Clear any pending marker timer
+      if (markerTimerRef.current) {
+        clearTimeout(markerTimerRef.current);
+        markerTimerRef.current = null;
+      }
+
+      // Remove existing marker immediately
+      if (markerRef.current) {
+        markerRef.current.remove();
+        markerRef.current = null;
+      }
+
+      // Toggle: same country clicked again → deselect & zoom out
+      if (selectedIsoRef.current === isoCode) {
+        if (selectedIdRef.current !== null) {
+          map.setFeatureState(
+            { source: "country-boundaries", sourceLayer: "country_boundaries", id: selectedIdRef.current },
+            { selected: false }
+          );
+        }
+        selectedIsoRef.current = null;
+        selectedIdRef.current = null;
+        map.flyTo({ center: [15, 30], zoom: 2, pitch: 0, bearing: 0, duration: 1500 });
+        setIsImmersive(false);
+        return;
+      }
+
       // Deselect previous
       if (selectedIdRef.current !== null) {
         map.setFeatureState(
@@ -139,6 +168,7 @@ export function WorldMap({
 
       const id = feature.id as number;
       selectedIdRef.current = id;
+      selectedIsoRef.current = isoCode;
       map.setFeatureState(
         { source: "country-boundaries", sourceLayer: "country_boundaries", id },
         { selected: true }
@@ -150,15 +180,9 @@ export function WorldMap({
         center: [e.lngLat.lng, e.lngLat.lat],
       });
 
-      // Remove existing marker
-      if (markerRef.current) {
-        markerRef.current.remove();
-        markerRef.current = null;
-      }
-
       const landmark = COUNTRY_LANDMARKS[isoCode];
 
-      // Fly to country with tilt for immersive view
+      // Fly to country with tilt
       map.flyTo({
         center: [e.lngLat.lng, e.lngLat.lat],
         zoom: 5,
@@ -170,8 +194,7 @@ export function WorldMap({
       setIsImmersive(true);
 
       if (landmark) {
-        // Wait for flyTo to finish, then place marker
-        setTimeout(() => {
+        markerTimerRef.current = setTimeout(() => {
           if (!mapRef.current) return;
 
           const el = document.createElement("div");
@@ -197,11 +220,13 @@ export function WorldMap({
             .addTo(mapRef.current!);
 
           markerRef.current = marker;
+          markerTimerRef.current = null;
         }, 1800);
       }
     });
 
     return () => {
+      if (markerTimerRef.current) clearTimeout(markerTimerRef.current);
       if (markerRef.current) markerRef.current.remove();
       map.remove();
       mapRef.current = null;
