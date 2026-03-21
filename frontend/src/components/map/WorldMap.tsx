@@ -194,34 +194,42 @@ export function WorldMap({
       setIsImmersive(true);
 
       if (landmark) {
-        markerTimerRef.current = setTimeout(() => {
-          if (!mapRef.current) return;
+        // Fetch thumbnail from Wikipedia during flyTo
+        const lngLat: [number, number] = [e.lngLat.lng, e.lngLat.lat];
+        fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${landmark.wikiTitle}`)
+          .then(r => r.ok ? r.json() : null)
+          .then(data => {
+            const thumb = data?.thumbnail?.source || data?.originalimage?.source || "";
+            markerTimerRef.current = setTimeout(() => {
+              if (!mapRef.current) return;
 
-          const el = document.createElement("div");
-          el.className = "landmark-marker";
-          el.innerHTML = `
-            <div class="landmark-monument">
-              <img src="${landmark.image}" alt="${landmark.name}" class="landmark-img" />
-            </div>
-            <div class="landmark-base">
-              <div class="landmark-base-glow"></div>
-            </div>
-            <div class="landmark-info-card">
-              <div class="landmark-name">${landmark.name}</div>
-              <div class="landmark-tagline">${landmark.tagline}</div>
-            </div>
-          `;
+              const el = document.createElement("div");
+              el.className = "landmark-marker";
+              el.innerHTML = `
+                <div class="landmark-monument">
+                  ${thumb ? `<img src="${thumb}" alt="${landmark.name}" class="landmark-img" crossorigin="anonymous" />` : `<div class="landmark-placeholder">${landmark.name[0]}</div>`}
+                </div>
+                <div class="landmark-base">
+                  <div class="landmark-base-glow"></div>
+                </div>
+                <div class="landmark-info-card">
+                  <div class="landmark-name">${landmark.name}</div>
+                  <div class="landmark-tagline">${landmark.tagline}</div>
+                </div>
+              `;
 
-          const marker = new mapboxgl.Marker({
-            element: el,
-            anchor: "bottom",
+              const marker = new mapboxgl.Marker({
+                element: el,
+                anchor: "bottom",
+              })
+                .setLngLat(lngLat)
+                .addTo(mapRef.current!);
+
+              markerRef.current = marker;
+              markerTimerRef.current = null;
+            }, 800);
           })
-            .setLngLat([e.lngLat.lng, e.lngLat.lat])
-            .addTo(mapRef.current!);
-
-          markerRef.current = marker;
-          markerTimerRef.current = null;
-        }, 1800);
+          .catch(() => {});
       }
     });
 
