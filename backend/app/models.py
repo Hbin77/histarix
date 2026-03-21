@@ -47,7 +47,7 @@ class HistoricalEvent(Base):
     description: Mapped[str | None] = mapped_column(Text)
     year: Mapped[int | None] = mapped_column(Integer, index=True)
     date: Mapped[str | None] = mapped_column(String(20))
-    country_iso: Mapped[str | None] = mapped_column(String(2), index=True)
+    country_iso: Mapped[str | None] = mapped_column(String(2), ForeignKey("countries.iso_a2"), index=True)
     category: Mapped[str | None] = mapped_column(String(50))
     importance: Mapped[int] = mapped_column(Integer, default=1)
     wikipedia_url: Mapped[str | None] = mapped_column(String(500))

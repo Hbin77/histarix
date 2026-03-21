@@ -1,17 +1,22 @@
+import logging
 import re
 
 from fastapi import APIRouter, HTTPException, Query, Request
 from sqlalchemy import select
 
-_ISO_PATTERN = re.compile(r"^[A-Z]{2,3}$")
-
 from app.cache import cached_or_fetch, COUNTRY_TTL, EVENT_TTL
+from app.database import async_session
+from app.models import HistoricalEvent as EventModel
 from app.schemas.country import CountryBasic, CountryInfo
 from app.schemas.history import CountryHistory, HistoricalEvent
 from app.services.rest_countries import get_country_by_code, search_countries
 from app.services.wikidata import get_country_events
 from app.services.wikipedia import get_country_summary
 from app.utils.country_mapping import ISO_TO_NAME, ISO_TO_WIKIDATA
+from app.utils.mappers import db_event_to_schema
+
+logger = logging.getLogger("histarix")
+_ISO_PATTERN = re.compile(r"^[A-Z]{2,3}$")
 
 router = APIRouter(prefix="/api/countries", tags=["countries"])
 
@@ -99,8 +104,6 @@ async def get_country_history(request: Request, iso_code: str) -> CountryHistory
 
     async def fetch() -> CountryHistory:
         # Try DB first
-        from app.database import async_session
-        from app.models import HistoricalEvent as EventModel
         async with async_session() as db:
             result = await db.execute(
                 select(EventModel)
@@ -110,18 +113,28 @@ async def get_country_history(request: Request, iso_code: str) -> CountryHistory
             db_events = result.scalars().all()
 
         if db_events:
-            events = [
-                HistoricalEvent(
-                    label=e.title,
-                    description=e.description or "",
-                    date=e.date or "",
-                    wikidata_id=e.wikidata_id or "",
-                    year=e.year,
-                )
-                for e in db_events
-            ]
+            events = [db_event_to_schema(e) for e in db_events]
         else:
             events = await get_country_events(client, qid)
+            # Persist to DB for future requests
+            try:
+                async with async_session() as db:
+                    for ev in events:
+                        db_event = EventModel(
+                            title=ev.label,
+                            description=ev.description,
+                            year=ev.year,
+                            date=ev.date,
+                            country_iso=code,
+                            category="wikidata",
+                            importance=1,
+                            wikidata_id=ev.wikidata_id,
+                        )
+                        db.add(db_event)
+                    await db.commit()
+                logger.info("Persisted %d Wikidata events for %s", len(events), code)
+            except Exception as e:
+                logger.warning("Failed to persist Wikidata events for %s: %s", code, e)
 
         return CountryHistory(country_name=country_name, iso_code=code, events=events)
 

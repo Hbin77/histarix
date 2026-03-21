@@ -1,10 +1,19 @@
+import logging
+import re
+
 from fastapi import APIRouter, HTTPException, Request
 from sqlalchemy import select
 
 from app.cache import cached_or_fetch, EVENT_TTL
+from app.database import async_session
+from app.models import HistoricalEvent as EventModel
 from app.schemas.history import HistoricalEvent
 from app.services.wikidata import get_country_events
 from app.utils.country_mapping import ISO_TO_WIKIDATA
+from app.utils.mappers import db_event_to_schema
+
+logger = logging.getLogger("histarix")
+_ISO_PATTERN = re.compile(r"^[A-Z]{2,3}$")
 
 router = APIRouter(prefix="/api/history", tags=["history"])
 
@@ -19,6 +28,8 @@ async def get_events(
     if not country:
         raise HTTPException(status_code=400, detail="country parameter is required")
     code = country.upper()
+    if not _ISO_PATTERN.match(code):
+        raise HTTPException(status_code=400, detail="Invalid country code")
     qid = ISO_TO_WIKIDATA.get(code)
     if not qid:
         raise HTTPException(status_code=404, detail="Country not in Wikidata mapping")
@@ -26,9 +37,6 @@ async def get_events(
 
     async def fetch() -> list[HistoricalEvent]:
         # Try DB first
-        from app.database import async_session
-        from app.models import HistoricalEvent as EventModel
-
         async with async_session() as db:
             query = select(EventModel).where(EventModel.country_iso == code)
             if year_from is not None:
@@ -40,19 +48,30 @@ async def get_events(
             db_events = result.scalars().all()
 
         if db_events:
-            return [
-                HistoricalEvent(
-                    label=e.title,
-                    description=e.description or "",
-                    date=e.date or "",
-                    wikidata_id=e.wikidata_id or "",
-                    year=e.year,
-                )
-                for e in db_events
-            ]
+            return [db_event_to_schema(e) for e in db_events]
 
         # Fallback to Wikidata
-        return await get_country_events(client, qid)
+        events = await get_country_events(client, qid)
+        # Persist to DB for future requests
+        try:
+            async with async_session() as db:
+                for ev in events:
+                    db_event = EventModel(
+                        title=ev.label,
+                        description=ev.description,
+                        year=ev.year,
+                        date=ev.date,
+                        country_iso=code,
+                        category="wikidata",
+                        importance=1,
+                        wikidata_id=ev.wikidata_id,
+                    )
+                    db.add(db_event)
+                await db.commit()
+            logger.info("Persisted %d Wikidata events for %s", len(events), code)
+        except Exception as e:
+            logger.warning("Failed to persist Wikidata events for %s: %s", code, e)
+        return events
 
     # When filtering by year, use a unique cache key
     cache_suffix = code

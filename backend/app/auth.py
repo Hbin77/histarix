@@ -23,7 +23,7 @@ def verify_password(plain: str, hashed: str) -> bool:
 
 def create_access_token(user_id: int, email: str) -> str:
     expire = datetime.now(timezone.utc) + timedelta(minutes=settings.jwt_expire_minutes)
-    payload = {"sub": str(user_id), "email": email, "exp": expire}
+    payload = {"sub": str(user_id), "email": email, "type": "access", "exp": expire}
     return jwt.encode(payload, settings.jwt_secret, algorithm=settings.jwt_algorithm)
 
 
@@ -40,6 +40,10 @@ async def get_current_user_optional(request: Request) -> dict | None:
     token = auth[7:]
     try:
         payload = jwt.decode(token, settings.jwt_secret, algorithms=[settings.jwt_algorithm])
+        # Reject non-access tokens (e.g. email verification tokens)
+        token_type = payload.get("type")
+        if token_type and token_type != "access":
+            return None
         return {"id": int(payload["sub"]), "email": payload["email"]}
     except (jwt.PyJWTError, KeyError, ValueError):
         return None

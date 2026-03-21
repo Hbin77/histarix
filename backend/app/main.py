@@ -1,7 +1,10 @@
+import logging
 from contextlib import asynccontextmanager
 from typing import AsyncGenerator
 
 import httpx
+
+logger = logging.getLogger("histarix")
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -18,11 +21,13 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
     try:
         async with engine.begin() as conn:
             await conn.run_sync(Base.metadata.create_all)
-        app.state.db_connected = True
         async with async_session() as session:
             await seed_countries(session)
             await seed_historical_events(session)
-    except Exception:
+        app.state.db_connected = True
+        logger.info("Database initialized and seeded successfully")
+    except Exception as e:
+        logger.error("Database initialization failed: %s", e)
         app.state.db_connected = False
     app.state.http_client = httpx.AsyncClient(
         timeout=httpx.Timeout(10.0),
@@ -33,8 +38,8 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
     await close_redis()
     try:
         await engine.dispose()
-    except Exception:
-        pass
+    except Exception as e:
+        logger.warning("Engine disposal failed: %s", e)
 
 
 app = FastAPI(

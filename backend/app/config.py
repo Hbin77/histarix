@@ -2,7 +2,7 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    database_url: str = "postgresql+asyncpg://histarix:changeme@db:5432/histarix"
+    database_url: str
     allowed_origins: str = "http://localhost:3093,http://localhost:5173"
     wikipedia_user_agent: str = "Histarix/0.1 (https://github.com/histarix; contact@histarix.dev)"
     rest_countries_api_url: str = "https://restcountries.com/v3.1"

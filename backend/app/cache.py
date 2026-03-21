@@ -1,9 +1,12 @@
 import json
+import logging
 from typing import Any, Awaitable, Callable
 
 import redis.asyncio as redis
 
 from app.config import settings
+
+logger = logging.getLogger("histarix")
 
 _redis: redis.Redis | None = None
 
@@ -36,8 +39,8 @@ async def cached_or_fetch(
         cached = await r.get(cache_key)
         if cached:
             return json.loads(cached)
-    except Exception:
-        pass
+    except Exception as e:
+        logger.warning("Redis cache read failed for %s: %s", cache_key, e)
 
     result = await fetch_fn()
 
@@ -50,7 +53,7 @@ async def cached_or_fetch(
         else:
             data = result
         await r.set(cache_key, json.dumps(data, default=str), ex=ttl)
-    except Exception:
-        pass
+    except Exception as e:
+        logger.warning("Redis cache write failed for %s: %s", cache_key, e)
 
     return result
