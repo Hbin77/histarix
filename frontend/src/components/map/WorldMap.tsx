@@ -178,7 +178,7 @@ export function WorldMap({
           el.className = "landmark-marker";
           el.innerHTML = `
             <div class="landmark-monument">
-              <div class="landmark-svg">${landmark.svg}</div>
+              <img src="${landmark.image}" alt="${landmark.name}" class="landmark-img" />
             </div>
             <div class="landmark-base">
               <div class="landmark-base-glow"></div>
