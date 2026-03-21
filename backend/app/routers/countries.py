@@ -82,8 +82,8 @@ async def get_country(request: Request, iso_code: str) -> CountryInfo:
             coat_of_arms=coat_of_arms,
             map_url=map_url,
             latlng=data.get("latlng", []),
-            wikipedia_summary=wiki["extract"],
-            wikipedia_thumbnail=wiki["thumbnail"],
+            wikipedia_summary=wiki.get("extract", ""),
+            wikipedia_thumbnail=wiki.get("thumbnail", ""),
         )
 
     return await cached_or_fetch("country", code, fetch, COUNTRY_TTL)
