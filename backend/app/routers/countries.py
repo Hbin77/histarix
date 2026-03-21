@@ -4,7 +4,7 @@ from fastapi import APIRouter, HTTPException, Query, Request
 
 _ISO_PATTERN = re.compile(r"^[A-Z]{2,3}$")
 
-from app.cache import cached_or_fetch, country_cache, event_cache
+from app.cache import cached_or_fetch, COUNTRY_TTL, EVENT_TTL
 from app.schemas.country import CountryBasic, CountryInfo
 from app.schemas.history import CountryHistory
 from app.services.rest_countries import get_country_by_code, search_countries
@@ -80,7 +80,7 @@ async def get_country(request: Request, iso_code: str) -> CountryInfo:
             wikipedia_thumbnail=wiki["thumbnail"],
         )
 
-    return await cached_or_fetch(country_cache, f"country:{code}", fetch)
+    return await cached_or_fetch("country", code, fetch, COUNTRY_TTL)
 
 
 @router.get("/{iso_code}/history", response_model=CountryHistory)
@@ -100,4 +100,4 @@ async def get_country_history(request: Request, iso_code: str) -> CountryHistory
         events = await get_country_events(client, qid)
         return CountryHistory(country_name=country_name, iso_code=code, events=events)
 
-    return await cached_or_fetch(event_cache, f"history:{code}", fetch)
+    return await cached_or_fetch("event", code, fetch, EVENT_TTL)

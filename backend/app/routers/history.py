@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException, Request
 
-from app.cache import cached_or_fetch, event_cache
+from app.cache import cached_or_fetch, EVENT_TTL
 from app.schemas.history import HistoricalEvent
 from app.services.wikidata import get_country_events
 from app.utils.country_mapping import ISO_TO_WIKIDATA
@@ -27,7 +27,7 @@ async def get_events(
         return await get_country_events(client, qid)
 
     events: list[HistoricalEvent] = await cached_or_fetch(
-        event_cache, f"events:{code}", fetch
+        "events", code, fetch, EVENT_TTL
     )
 
     if year_from is not None or year_to is not None:

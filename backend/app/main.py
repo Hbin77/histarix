@@ -5,10 +5,12 @@ import httpx
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from app.cache import close_redis
 from app.config import settings
-from app.database import engine
+from app.database import async_session, engine
 from app.models import Base
 from app.routers import countries, history, onthisday
+from app.seed import seed_countries
 
 
 @asynccontextmanager
@@ -17,6 +19,8 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
         async with engine.begin() as conn:
             await conn.run_sync(Base.metadata.create_all)
         app.state.db_connected = True
+        async with async_session() as session:
+            await seed_countries(session)
     except Exception:
         app.state.db_connected = False
     app.state.http_client = httpx.AsyncClient(
@@ -25,6 +29,7 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
     )
     yield
     await app.state.http_client.aclose()
+    await close_redis()
     try:
         await engine.dispose()
     except Exception:

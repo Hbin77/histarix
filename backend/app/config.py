@@ -9,6 +9,8 @@ class Settings(BaseSettings):
     wikipedia_api_url: str = "https://en.wikipedia.org/api/rest_v1"
     wikidata_api_url: str = "https://query.wikidata.org/sparql"
     wikimedia_feed_url: str = "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday"
+    supabase_jwt_secret: str = ""
+    redis_url: str = "redis://localhost:6379/0"
 
     model_config = {"env_file": ".env", "env_file_encoding": "utf-8"}
 

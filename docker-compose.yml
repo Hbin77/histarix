@@ -32,11 +32,22 @@ services:
       - DATABASE_URL=postgresql+asyncpg://${DB_USER:-histarix}:${DB_PASSWORD:?DB_PASSWORD is required in .env}@histarix-db:5432/histarix
       - ALLOWED_ORIGINS=${ALLOWED_ORIGINS:-https://histarix.semo3.com}
       - WIKIPEDIA_USER_AGENT=${WIKIPEDIA_USER_AGENT:-Histarix/1.0}
+      - REDIS_URL=redis://histarix-redis:6379/0
+      - SUPABASE_JWT_SECRET=${SUPABASE_JWT_SECRET:-}
     depends_on:
       histarix-db:
         condition: service_healthy
+      histarix-redis:
+        condition: service_started
     container_name: histarix-backend
     restart: unless-stopped
+
+  histarix-redis:
+    container_name: histarix-redis
+    image: redis:7-alpine
+    restart: unless-stopped
+    volumes:
+      - redisdata:/data
 
   histarix-db:
     container_name: histarix-db
@@ -56,3 +67,4 @@ services:
 
 volumes:
   pgdata:
+  redisdata:

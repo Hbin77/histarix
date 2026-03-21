@@ -2,7 +2,7 @@ from datetime import date
 
 from fastapi import APIRouter, Path, Request
 
-from app.cache import cached_or_fetch, onthisday_cache
+from app.cache import cached_or_fetch, ONTHISDAY_TTL
 from app.schemas.onthisday import OnThisDayResponse
 from app.services.wikimedia import get_on_this_day
 
@@ -18,7 +18,7 @@ async def on_this_day_today(request: Request) -> OnThisDayResponse:
     async def fetch() -> OnThisDayResponse:
         return await get_on_this_day(client)
 
-    return await cached_or_fetch(onthisday_cache, key, fetch)
+    return await cached_or_fetch("onthisday", key, fetch, ONTHISDAY_TTL)
 
 
 @router.get("/{month}/{day}", response_model=OnThisDayResponse)
@@ -33,4 +33,4 @@ async def on_this_day(
     async def fetch() -> OnThisDayResponse:
         return await get_on_this_day(client, month, day)
 
-    return await cached_or_fetch(onthisday_cache, key, fetch)
+    return await cached_or_fetch("onthisday", key, fetch, ONTHISDAY_TTL)
