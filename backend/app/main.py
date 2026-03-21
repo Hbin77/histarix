@@ -10,7 +10,7 @@ from app.config import settings
 from app.database import async_session, engine
 from app.models import Base
 from app.routers import auth, countries, history, onthisday
-from app.seed import seed_countries
+from app.seed import seed_countries, seed_historical_events
 
 
 @asynccontextmanager
@@ -21,6 +21,7 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
         app.state.db_connected = True
         async with async_session() as session:
             await seed_countries(session)
+            await seed_historical_events(session)
     except Exception:
         app.state.db_connected = False
     app.state.http_client = httpx.AsyncClient(

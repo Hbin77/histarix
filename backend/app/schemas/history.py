@@ -6,6 +6,7 @@ class HistoricalEvent(BaseModel):
     date: str = ""
     description: str = ""
     wikidata_id: str = ""
+    year: int | None = None
 
 
 class CountryHistory(BaseModel):

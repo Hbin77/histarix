@@ -1,12 +1,13 @@
 import re
 
 from fastapi import APIRouter, HTTPException, Query, Request
+from sqlalchemy import select
 
 _ISO_PATTERN = re.compile(r"^[A-Z]{2,3}$")
 
 from app.cache import cached_or_fetch, COUNTRY_TTL, EVENT_TTL
 from app.schemas.country import CountryBasic, CountryInfo
-from app.schemas.history import CountryHistory
+from app.schemas.history import CountryHistory, HistoricalEvent
 from app.services.rest_countries import get_country_by_code, search_countries
 from app.services.wikidata import get_country_events
 from app.services.wikipedia import get_country_summary
@@ -97,7 +98,31 @@ async def get_country_history(request: Request, iso_code: str) -> CountryHistory
     client = request.app.state.http_client
 
     async def fetch() -> CountryHistory:
-        events = await get_country_events(client, qid)
+        # Try DB first
+        from app.database import async_session
+        from app.models import HistoricalEvent as EventModel
+        async with async_session() as db:
+            result = await db.execute(
+                select(EventModel)
+                .where(EventModel.country_iso == code)
+                .order_by(EventModel.year)
+            )
+            db_events = result.scalars().all()
+
+        if db_events:
+            events = [
+                HistoricalEvent(
+                    label=e.title,
+                    description=e.description or "",
+                    date=e.date or "",
+                    wikidata_id=e.wikidata_id or "",
+                    year=e.year,
+                )
+                for e in db_events
+            ]
+        else:
+            events = await get_country_events(client, qid)
+
         return CountryHistory(country_name=country_name, iso_code=code, events=events)
 
     return await cached_or_fetch("event", code, fetch, EVENT_TTL)

@@ -62,7 +62,7 @@ export function SearchBar() {
         type="text"
         value={query}
         onChange={(e) => handleChange(e.target.value)}
-        placeholder="Search countries..."
+        placeholder="국가 검색..."
         className="w-80 rounded-full bg-[#11192b] px-5 py-2 text-sm text-[#dfe5fa] placeholder-[#a4abbf] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
       />
 

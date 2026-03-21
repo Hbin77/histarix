@@ -41,7 +41,7 @@ function VerifyContent() {
       )}
       {status === "success" && (
         <>
-          <div className="mt-6 text-4xl">✅</div>
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#34d399" strokeWidth="2" className="mt-6 mx-auto"><circle cx="12" cy="12" r="10"/><path d="M9 12l2 2 4-4"/></svg>
           <p className="mt-4 text-[#dfe5fa]">{message}</p>
           <Link
             href="/auth/login"
@@ -54,7 +54,7 @@ function VerifyContent() {
       )}
       {status === "error" && (
         <>
-          <div className="mt-6 text-4xl">❌</div>
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#ff716c" strokeWidth="2" className="mt-6 mx-auto"><circle cx="12" cy="12" r="10"/><path d="M15 9l-6 6"/><path d="M9 9l6 6"/></svg>
           <p className="mt-4 text-[#ff716c]">{message}</p>
           <Link href="/" className="mt-6 inline-block text-sm text-[#85adff] hover:underline">
             홈으로 돌아가기

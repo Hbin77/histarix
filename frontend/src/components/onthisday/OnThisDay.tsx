@@ -15,7 +15,8 @@ export function OnThisDay() {
         className="flex w-full items-center justify-between rounded-t-xl bg-[#11192b]/90 px-4 py-3 backdrop-blur-[12px] transition hover:bg-[#161f33]"
       >
         <span className="text-sm font-semibold text-[#dfe5fa]">
-          📅 오늘의 역사
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="shrink-0"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          <span>오늘의 역사</span>
         </span>
         <svg
           width="12"
@@ -53,7 +54,15 @@ export function OnThisDay() {
           )}
 
           {!loading && !error && events.length === 0 && (
-            <p className="text-xs text-[#a4abbf]">오늘의 역사 이벤트가 없습니다.</p>
+            <div className="flex flex-col items-center gap-2 py-4">
+              <p className="text-xs text-[#a4abbf]">오늘의 역사 데이터를 불러오는 중...</p>
+              <button
+                onClick={() => window.location.reload()}
+                className="rounded-md bg-[#85adff]/15 px-3 py-1.5 text-xs font-medium text-[#85adff] transition hover:bg-[#85adff]/25"
+              >
+                다시 시도
+              </button>
+            </div>
           )}
 
           {events.map((event, idx) => (
