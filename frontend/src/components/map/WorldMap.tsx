@@ -152,8 +152,7 @@ export function WorldMap({
           closeOnClick: true,
           className: "histarix-popup",
           maxWidth: "260px",
-          offset: [0, -20],
-          anchor: "bottom",
+          offset: 25,
         })
           .setLngLat([e.lngLat.lng, e.lngLat.lat])
           .setHTML(`
