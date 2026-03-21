@@ -3,6 +3,7 @@
 import { useRef, useEffect, useState } from "react";
 import mapboxgl from "mapbox-gl";
 import type { SelectedCountry } from "@/types/map";
+import { COUNTRY_LANDMARKS } from "@/data/landmarks";
 
 interface WorldMapProps {
   onCountrySelect: (country: SelectedCountry) => void;
@@ -139,6 +140,31 @@ export function WorldMap({
         name: name ?? isoCode,
         center: [e.lngLat.lng, e.lngLat.lat],
       });
+
+      const landmark = COUNTRY_LANDMARKS[isoCode];
+      if (landmark) {
+        // Remove existing popup
+        const existingPopup = document.querySelector('.mapboxgl-popup');
+        if (existingPopup) existingPopup.remove();
+
+        new mapboxgl.Popup({
+          closeButton: false,
+          closeOnClick: true,
+          className: "histarix-popup",
+          maxWidth: "240px",
+          offset: [0, -10],
+        })
+          .setLngLat([e.lngLat.lng, e.lngLat.lat])
+          .setHTML(`
+            <div style="text-align:center;padding:8px 4px;">
+              <div style="font-size:36px;line-height:1;margin-bottom:6px;">${landmark.symbol}</div>
+              <div style="font-size:13px;font-weight:700;color:#dfe5fa;margin-bottom:2px;">${landmark.name}</div>
+              <div style="font-size:11px;color:#a4abbf;line-height:1.4;">${landmark.tagline}</div>
+              <div style="font-size:10px;color:#699cff;margin-top:4px;">${landmark.era}</div>
+            </div>
+          `)
+          .addTo(map);
+      }
     });
 
     return () => {
