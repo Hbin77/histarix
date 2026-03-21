@@ -151,16 +151,19 @@ export function WorldMap({
           closeButton: false,
           closeOnClick: true,
           className: "histarix-popup",
-          maxWidth: "240px",
-          offset: [0, -10],
+          maxWidth: "260px",
+          offset: [0, -20],
+          anchor: "bottom",
         })
           .setLngLat([e.lngLat.lng, e.lngLat.lat])
           .setHTML(`
-            <div style="text-align:center;padding:8px 4px;">
-              <div style="font-size:36px;line-height:1;margin-bottom:6px;">${landmark.symbol}</div>
-              <div style="font-size:13px;font-weight:700;color:#dfe5fa;margin-bottom:2px;">${landmark.name}</div>
-              <div style="font-size:11px;color:#a4abbf;line-height:1.4;">${landmark.tagline}</div>
-              <div style="font-size:10px;color:#699cff;margin-top:4px;">${landmark.era}</div>
+            <div class="landmark-card">
+              <div class="landmark-icon">${landmark.svg}</div>
+              <div class="landmark-info">
+                <div class="landmark-name">${landmark.name}</div>
+                <div class="landmark-tagline">${landmark.tagline}</div>
+                <div class="landmark-era">${landmark.era}</div>
+              </div>
             </div>
           `)
           .addTo(map);
