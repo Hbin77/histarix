@@ -9,7 +9,7 @@ from app.cache import close_redis
 from app.config import settings
 from app.database import async_session, engine
 from app.models import Base
-from app.routers import countries, history, onthisday
+from app.routers import auth, countries, history, onthisday
 from app.seed import seed_countries
 
 
@@ -47,10 +47,11 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.origins_list,
     allow_credentials=False,
-    allow_methods=["GET", "OPTIONS"],
-    allow_headers=["Content-Type", "Accept"],
+    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_headers=["Content-Type", "Accept", "Authorization"],
 )
 
+app.include_router(auth.router)
 app.include_router(countries.router)
 app.include_router(history.router)
 app.include_router(onthisday.router)
