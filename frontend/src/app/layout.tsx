@@ -3,9 +3,23 @@ import { Providers } from "./providers";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Histarix - Interactive World History Map",
+  title: "Histarix - 세계 역사를 탐험하세요",
   description:
-    "Explore world history through an interactive map. Learn about countries, timelines, and historical events.",
+    "인터랙티브 세계 지도로 역사를 탐험하세요. 국가, 타임라인, 역사적 사건을 시각적으로 학습합니다.",
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "32x32" },
+      { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon-16.png", sizes: "16x16", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
+  },
+  openGraph: {
+    title: "Histarix - 세계 역사를 탐험하세요",
+    description: "인터랙티브 세계 지도 기반 역사 학습 플랫폼",
+    siteName: "Histarix",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
