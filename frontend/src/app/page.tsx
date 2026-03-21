@@ -38,7 +38,6 @@ export default function HomePage() {
       <WorldMap
         onCountrySelect={handleCountrySelect}
         selectedCountryCode={selectedCountry?.iso_code}
-        onMapReady={setMapInstance}
       />
 
       <Header />
