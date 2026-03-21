@@ -16,6 +16,7 @@ export function WorldMap({
 }: WorldMapProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<mapboxgl.Map | null>(null);
+  const markerRef = useRef<mapboxgl.Marker | null>(null);
   const hoveredIdRef = useRef<number | null>(null);
   const selectedIdRef = useRef<number | null>(null);
   const onCountrySelectRef = useRef(onCountrySelect);
@@ -46,7 +47,6 @@ export function WorldMap({
     mapRef.current = map;
 
     map.on("load", () => {
-      // Add country boundaries vector source
       map.addSource("country-boundaries", {
         type: "vector",
         url: "mapbox://mapbox.country-boundaries-v1",
@@ -141,35 +141,63 @@ export function WorldMap({
         center: [e.lngLat.lng, e.lngLat.lat],
       });
 
+      // Remove existing marker
+      if (markerRef.current) {
+        markerRef.current.remove();
+        markerRef.current = null;
+      }
+
       const landmark = COUNTRY_LANDMARKS[isoCode];
       if (landmark) {
-        // Remove existing popup
-        const existingPopup = document.querySelector('.mapboxgl-popup');
-        if (existingPopup) existingPopup.remove();
+        // Create custom marker element
+        const el = document.createElement("div");
+        el.className = "landmark-marker";
+        el.innerHTML = `
+          <div class="landmark-monument">
+            <div class="landmark-svg">${landmark.svg}</div>
+            <div class="landmark-glow"></div>
+          </div>
+          <div class="landmark-label">
+            <span class="landmark-name">${landmark.name}</span>
+            <span class="landmark-tagline">${landmark.tagline}</span>
+          </div>
+          <div class="landmark-ground"></div>
+        `;
 
-        new mapboxgl.Popup({
-          closeButton: false,
-          closeOnClick: true,
-          className: "histarix-popup",
-          maxWidth: "260px",
-          offset: 25,
+        // Create marker pinned to the ground
+        const marker = new mapboxgl.Marker({
+          element: el,
+          anchor: "bottom",
         })
           .setLngLat([e.lngLat.lng, e.lngLat.lat])
-          .setHTML(`
-            <div class="landmark-card">
-              <div class="landmark-icon">${landmark.svg}</div>
-              <div class="landmark-info">
-                <div class="landmark-name">${landmark.name}</div>
-                <div class="landmark-tagline">${landmark.tagline}</div>
-                <div class="landmark-era">${landmark.era}</div>
-              </div>
-            </div>
-          `)
           .addTo(map);
+
+        markerRef.current = marker;
+
+        // Auto-remove after 6 seconds
+        setTimeout(() => {
+          el.classList.add("landmark-fade-out");
+          setTimeout(() => {
+            if (markerRef.current === marker) {
+              marker.remove();
+              markerRef.current = null;
+            }
+          }, 600);
+        }, 6000);
+      }
+    });
+
+    // Click on empty map area to deselect
+    map.on("click", (e) => {
+      const features = map.queryRenderedFeatures(e.point, { layers: ["country-fills"] });
+      if (features.length === 0 && markerRef.current) {
+        markerRef.current.remove();
+        markerRef.current = null;
       }
     });
 
     return () => {
+      if (markerRef.current) markerRef.current.remove();
       map.remove();
       mapRef.current = null;
     };
