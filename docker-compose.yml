@@ -1,4 +1,35 @@
 services:
+  db:
+    image: postgis/postgis:16-3.4-alpine
+    environment:
+      - POSTGRES_DB=histarix
+      - POSTGRES_USER=${DB_USER:-histarix}
+      - POSTGRES_PASSWORD=${DB_PASSWORD:-changeme}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-histarix}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://${DB_USER:-histarix}:${DB_PASSWORD:-changeme}@db:5432/histarix
+      - ALLOWED_ORIGINS=${ALLOWED_ORIGINS:-http://localhost:3093,http://localhost}
+      - WIKIPEDIA_USER_AGENT=${WIKIPEDIA_USER_AGENT:-Histarix/1.0}
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+
   frontend:
     build:
       context: ./frontend
@@ -14,12 +45,5 @@ services:
       - backend
     restart: unless-stopped
 
-  backend:
-    build:
-      context: ./backend
-    ports:
-      - "8000:8000"
-    environment:
-      - ALLOWED_ORIGINS=${ALLOWED_ORIGINS:-http://localhost:3093,http://localhost}
-      - WIKIPEDIA_USER_AGENT=${WIKIPEDIA_USER_AGENT:-Histarix/1.0}
-    restart: unless-stopped
+volumes:
+  pgdata:
