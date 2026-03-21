@@ -69,7 +69,7 @@ export function SearchBar({ onSelect }: SearchBarProps) {
         value={query}
         onChange={(e) => handleChange(e.target.value)}
         placeholder={t("search")}
-        className="w-80 rounded-full bg-[#11192b] px-5 py-2 text-sm text-[#dfe5fa] placeholder-[#a4abbf] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
+        className="w-32 sm:w-48 md:w-64 lg:w-80 rounded-full bg-[#11192b] px-5 py-2 text-sm text-[#dfe5fa] placeholder-[#a4abbf] outline-none transition focus:ring-1 focus:ring-[#85adff]/40"
       />
 
       {loading && (
@@ -79,7 +79,7 @@ export function SearchBar({ onSelect }: SearchBarProps) {
       )}
 
       {isOpen && results.length > 0 && (
-        <div className="absolute top-full mt-2 w-full rounded-xl bg-[#0b1323] backdrop-blur-xl border border-[#414859]/30 shadow-2xl overflow-hidden z-50">
+        <div className="absolute top-full mt-2 min-w-[280px] w-full rounded-xl bg-[#0b1323] backdrop-blur-xl border border-[#414859]/30 shadow-2xl overflow-hidden z-50">
           {results.map((country) => (
             <button
               key={country.iso_code}

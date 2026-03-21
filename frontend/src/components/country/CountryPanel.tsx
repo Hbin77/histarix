@@ -32,10 +32,19 @@ export function CountryPanel({ selectedCountry, onClose }: CountryPanelProps) {
 
   return (
     <div
-      className={`fixed top-14 right-0 bottom-20 z-40 w-[420px] bg-[#0b1323]/95 backdrop-blur-xl transition-transform duration-300 ease-out ${
-        isOpen ? "translate-x-0" : "translate-x-full"
-      }`}
+      className={`fixed z-40 bg-[#0b1323]/95 backdrop-blur-xl transition-transform duration-300 ease-out overflow-hidden
+        inset-x-0 bottom-0 h-[60vh] rounded-t-2xl
+        lg:inset-x-auto lg:h-auto lg:top-14 lg:right-0 lg:bottom-20 lg:w-[420px] lg:rounded-none
+        ${isOpen
+          ? "translate-y-0 lg:translate-y-0 lg:translate-x-0"
+          : "translate-y-full lg:translate-y-0 lg:translate-x-full"
+        }`}
     >
+      {/* Mobile drag handle */}
+      <div className="flex justify-center py-2 lg:hidden">
+        <div className="h-1 w-10 rounded-full bg-[#414859]" />
+      </div>
+
       {/* Header */}
       <div className="flex items-center justify-between border-b border-[#414859] px-5 py-4">
         <h2 className="text-lg font-semibold text-[#dfe5fa]">

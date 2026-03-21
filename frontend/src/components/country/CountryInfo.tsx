@@ -92,7 +92,7 @@ export function CountryInfo({ info }: CountryInfoProps) {
     <div className="space-y-5">
       {/* Hero banner with flag */}
       {info.flag && (
-        <div className="relative -mx-5 -mt-4 mb-6 h-32 overflow-hidden rounded-t-lg">
+        <div className="relative -mx-5 -mt-4 mb-6 h-24 md:h-32 overflow-hidden rounded-t-lg">
           <img
             src={info.flag}
             alt={info.name}

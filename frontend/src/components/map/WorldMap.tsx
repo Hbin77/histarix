@@ -270,7 +270,7 @@ export function WorldMap({
       {isImmersive && (
         <button
           onClick={resetView}
-          className="absolute top-20 left-6 z-30 flex items-center gap-2 rounded-xl bg-[#11192b]/90 px-4 py-2.5 text-sm font-medium text-[#dfe5fa] backdrop-blur-xl transition hover:bg-[#1b263b] border border-[#414859]/30"
+          className="absolute top-20 left-3 md:left-6 z-30 flex items-center gap-2 rounded-xl bg-[#11192b]/90 px-3 md:px-4 py-2 md:py-2.5 text-xs md:text-sm font-medium text-[#dfe5fa] backdrop-blur-xl transition hover:bg-[#1b263b] border border-[#414859]/30"
         >
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M15 18l-6-6 6-6"/></svg>
           {t("backToMap")}

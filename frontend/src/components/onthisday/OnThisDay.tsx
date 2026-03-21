@@ -10,7 +10,7 @@ export function OnThisDay() {
   const { t } = useI18n();
 
   return (
-    <div className="fixed bottom-24 left-6 z-40 w-80">
+    <div className="fixed bottom-24 left-3 md:left-6 z-40 w-64 md:w-80 hidden md:block">
       {/* Header - always visible */}
       <button
         onClick={() => setIsOpen(!isOpen)}
