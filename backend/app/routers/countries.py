@@ -111,31 +111,20 @@ async def get_country_history(request: Request, iso_code: str, lang: str = "en")
         except Exception:
             db_events = []
 
-        # DB seed data: KR events are in Korean, all others in English
-        seed_lang_match = (lang == "en") or (lang == "ko" and code == "KR")
-        if db_events and seed_lang_match:
+        # Try Wikidata in requested language first (if not English)
+        events = []
+        if lang != "en" and qid:
+            events = await get_country_events(client, qid, lang)
+
+        # If Wikidata returned results, use them
+        if events:
+            pass  # already set
+        elif db_events:
+            # Fallback to DB seed data (English, or Korean for KR)
             events = [db_event_to_schema(e) for e in db_events]
         elif qid:
-            events = await get_country_events(client, qid, lang)
-            # Persist to DB for future requests
-            try:
-                async with async_session() as db:
-                    for ev in events:
-                        db_event = EventModel(
-                            title=ev.label,
-                            description=ev.description,
-                            year=ev.year,
-                            date=ev.date,
-                            country_iso=code,
-                            category="wikidata",
-                            importance=1,
-                            wikidata_id=ev.wikidata_id,
-                        )
-                        db.add(db_event)
-                    await db.commit()
-                logger.info("Persisted %d Wikidata events for %s", len(events), code)
-            except Exception as e:
-                logger.warning("Failed to persist Wikidata events for %s: %s", code, e)
+            # Last resort: try Wikidata in English
+            events = await get_country_events(client, qid, "en")
         else:
             events = []
 
