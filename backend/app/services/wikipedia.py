@@ -8,7 +8,8 @@ from app.config import settings
 async def get_country_summary(
     client: httpx.AsyncClient, country_name: str, lang: str = "en"
 ) -> dict[str, str]:
-    base_url = f"https://{lang}.wikipedia.org/api/rest_v1"
+    safe_lang = lang if lang in ("ko", "en", "zh", "ja") else "en"
+    base_url = f"https://{safe_lang}.wikipedia.org/api/rest_v1"
     try:
         resp = await client.get(
             f"{base_url}/page/summary/{quote(country_name, safe='')}",

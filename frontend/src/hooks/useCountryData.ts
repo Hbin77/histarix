@@ -39,7 +39,7 @@ export function useCountryData(isoCode: string | null): UseCountryDataResult {
       })
       .catch((err) => {
         if (cancelled) return;
-        setError(err instanceof Error ? err.message : "데이터를 불러올 수 없습니다.");
+        setError(err instanceof Error ? err.message : "Failed to load data");
       })
       .finally(() => {
         if (!cancelled) setLoading(false);

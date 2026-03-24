@@ -90,10 +90,11 @@ async def get_country(request: Request, iso_code: str, lang: str = Query("en", m
 
 
 @router.get("/{iso_code}/history", response_model=CountryHistory)
-async def get_country_history(request: Request, iso_code: str, lang: str = "en") -> CountryHistory:
+async def get_country_history(request: Request, iso_code: str, lang: str = Query("en", max_length=5)) -> CountryHistory:
     code = iso_code.upper()
     if not _ISO_PATTERN.match(code):
         raise HTTPException(status_code=400, detail="Invalid ISO code")
+    lang = lang if lang in ("ko", "en", "zh", "ja") else "en"
     qid = ISO_TO_WIKIDATA.get(code)
     country_name = ISO_TO_NAME.get(code, code)
     client = request.app.state.http_client

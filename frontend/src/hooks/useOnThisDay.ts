@@ -20,6 +20,7 @@ export function useOnThisDay(): UseOnThisDayResult {
   useEffect(() => {
     let cancelled = false;
     setLoading(true);
+    setError(null);
 
     fetchOnThisDay(lang)
       .then((data) => {
