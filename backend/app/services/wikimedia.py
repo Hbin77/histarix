@@ -10,21 +10,31 @@ async def get_on_this_day(
     client: httpx.AsyncClient,
     month: int | None = None,
     day: int | None = None,
+    lang: str = "en",
 ) -> OnThisDayResponse:
     today = date.today()
     m = month or today.month
     d = day or today.day
-    url = f"{settings.wikimedia_feed_url}/all/{m:02d}/{d:02d}"
+    safe_lang = lang if lang in ("ko", "en", "zh", "ja") else "en"
+
+    async def _fetch_otd(fetch_lang: str) -> list:
+        base = f"https://api.wikimedia.org/feed/v1/wikipedia/{fetch_lang}/onthisday"
+        u = f"{base}/all/{m:02d}/{d:02d}"
+        try:
+            r = await client.get(u, headers={"User-Agent": settings.wikipedia_user_agent}, timeout=10.0)
+            if r.status_code != 200:
+                return []
+            dd = r.json()
+            return dd.get("selected", []) + dd.get("events", [])
+        except Exception:
+            return []
+
+    raw_events = await _fetch_otd(safe_lang)
+    # Fallback to English if target language has no data (ko, ja often empty)
+    if not raw_events and safe_lang != "en":
+        raw_events = await _fetch_otd("en")
+
     try:
-        resp = await client.get(
-            url,
-            headers={"User-Agent": settings.wikipedia_user_agent},
-            timeout=10.0,
-        )
-        if resp.status_code != 200:
-            return OnThisDayResponse(date=f"{m:02d}-{d:02d}", events=[])
-        data = resp.json()
-        raw_events = data.get("events", [])
         events: list[OnThisDayEvent] = []
         for item in raw_events:
             pages: list[RelatedPage] = []

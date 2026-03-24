@@ -10,13 +10,14 @@ router = APIRouter(prefix="/api/onthisday", tags=["onthisday"])
 
 
 @router.get("", response_model=OnThisDayResponse)
-async def on_this_day_today(request: Request) -> OnThisDayResponse:
+async def on_this_day_today(request: Request, lang: str = "en") -> OnThisDayResponse:
     client = request.app.state.http_client
     today = date.today()
-    key = f"today:{today.isoformat()}"
+    safe_lang = lang if lang in ("ko", "en", "zh", "ja") else "en"
+    key = f"today:{today.isoformat()}:{safe_lang}"
 
     async def fetch() -> OnThisDayResponse:
-        return await get_on_this_day(client)
+        return await get_on_this_day(client, lang=safe_lang)
 
     return await cached_or_fetch("onthisday", key, fetch, ONTHISDAY_TTL)
 
@@ -26,11 +27,13 @@ async def on_this_day(
     request: Request,
     month: int = Path(ge=1, le=12),
     day: int = Path(ge=1, le=31),
+    lang: str = "en",
 ) -> OnThisDayResponse:
     client = request.app.state.http_client
-    key = f"{month:02d}-{day:02d}"
+    safe_lang = lang if lang in ("ko", "en", "zh", "ja") else "en"
+    key = f"{month:02d}-{day:02d}:{safe_lang}"
 
     async def fetch() -> OnThisDayResponse:
-        return await get_on_this_day(client, month, day)
+        return await get_on_this_day(client, month, day, safe_lang)
 
     return await cached_or_fetch("onthisday", key, fetch, ONTHISDAY_TTL)

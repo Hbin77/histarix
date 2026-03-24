@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import type { OnThisDayEvent } from "@/types/history";
 import { fetchOnThisDay } from "@/services/onThisDayService";
+import { useI18n } from "@/lib/i18n";
 
 interface UseOnThisDayResult {
   events: OnThisDayEvent[];
@@ -11,14 +12,16 @@ interface UseOnThisDayResult {
 }
 
 export function useOnThisDay(): UseOnThisDayResult {
+  const { lang } = useI18n();
   const [events, setEvents] = useState<OnThisDayEvent[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     let cancelled = false;
+    setLoading(true);
 
-    fetchOnThisDay()
+    fetchOnThisDay(lang)
       .then((data) => {
         if (!cancelled) setEvents(data);
       })
@@ -33,7 +36,7 @@ export function useOnThisDay(): UseOnThisDayResult {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [lang]);
 
   return { events, loading, error };
 }

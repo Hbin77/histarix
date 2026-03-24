@@ -9,9 +9,9 @@ interface OnThisDayResponse {
   deaths?: OnThisDayEvent[];
 }
 
-export async function fetchOnThisDay(): Promise<OnThisDayEvent[]> {
+export async function fetchOnThisDay(lang: string = "en"): Promise<OnThisDayEvent[]> {
   try {
-    const data = await apiFetch<OnThisDayResponse | OnThisDayEvent[]>("/api/onthisday");
+    const data = await apiFetch<OnThisDayResponse | OnThisDayEvent[]>(`/api/onthisday?lang=${lang}`);
     if (Array.isArray(data)) return data;
     return [...(data.selected || []), ...(data.events || [])].slice(0, 20);
   } catch {
@@ -19,9 +19,9 @@ export async function fetchOnThisDay(): Promise<OnThisDayEvent[]> {
   }
 }
 
-export async function fetchOnThisDayByDate(month: number, day: number): Promise<OnThisDayEvent[]> {
+export async function fetchOnThisDayByDate(month: number, day: number, lang: string = "en"): Promise<OnThisDayEvent[]> {
   try {
-    const data = await apiFetch<OnThisDayResponse | OnThisDayEvent[]>(`/api/onthisday/${month}/${day}`);
+    const data = await apiFetch<OnThisDayResponse | OnThisDayEvent[]>(`/api/onthisday/${month}/${day}?lang=${lang}`);
     if (Array.isArray(data)) return data;
     return [...(data.selected || []), ...(data.events || [])].slice(0, 20);
   } catch {
