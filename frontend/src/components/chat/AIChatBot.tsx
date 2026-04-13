@@ -125,7 +125,7 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
       {/* Floating toggle button */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="fixed bottom-24 right-3 md:right-6 z-50 flex h-12 w-12 items-center justify-center rounded-full bg-gradient-to-br from-[#85adff] to-[#6366f1] shadow-lg shadow-[#6366f1]/30 transition-all hover:scale-105 hover:shadow-xl"
+        className="fixed bottom-44 right-3 md:right-6 z-50 flex h-12 w-12 items-center justify-center rounded-full bg-gradient-to-br from-[#85adff] to-[#6366f1] shadow-lg shadow-[#6366f1]/30 transition-all hover:scale-105 hover:shadow-xl"
         aria-label="AI Chat"
       >
         {isOpen ? (
@@ -146,7 +146,7 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
 
       {/* Chat panel */}
       {isOpen && (
-        <div className="fixed bottom-40 right-3 md:right-6 z-50 flex w-80 md:w-96 flex-col rounded-2xl border border-[#1e293b] bg-[#0c1322]/95 shadow-2xl backdrop-blur-xl">
+        <div className="fixed bottom-60 right-3 md:right-6 z-50 flex w-80 md:w-96 flex-col rounded-2xl border border-[#1e293b] bg-[#0c1322]/95 shadow-2xl backdrop-blur-xl">
           {/* Header */}
           <div className="flex items-center gap-2 rounded-t-2xl border-b border-[#1e293b] bg-gradient-to-r from-[#85adff]/10 to-[#6366f1]/10 px-4 py-3">
             <div className="flex h-8 w-8 items-center justify-center rounded-full bg-gradient-to-br from-[#85adff] to-[#6366f1]">
