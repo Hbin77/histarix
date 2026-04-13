@@ -3,7 +3,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import { SearchBar } from "./SearchBar";
-import { AuthButton } from "@/components/auth/AuthButton";
 import { LangSelector } from "./LangSelector";
 
 interface HeaderProps {
@@ -23,8 +22,7 @@ export function Header({ onCountrySelect }: HeaderProps) {
       <SearchBar onSelect={onCountrySelect} />
 
       <div className="flex items-center gap-2">
-        <div className="hidden md:block"><LangSelector /></div>
-        <AuthButton />
+        <LangSelector />
       </div>
     </header>
   );

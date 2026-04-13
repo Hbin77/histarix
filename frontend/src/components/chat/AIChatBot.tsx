@@ -110,11 +110,17 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
 
   const renderContent = (content: string) => {
     return content.split("\n").map((line, i) => {
-      const formatted = line.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
+      const parts = line.split(/\*\*(.*?)\*\*/g);
       return (
         <span key={i}>
           {i > 0 && <br />}
-          <span dangerouslySetInnerHTML={{ __html: formatted }} />
+          {parts.map((part, j) =>
+            j % 2 === 1 ? (
+              <strong key={j} className="text-[#dfe5fa]">{part}</strong>
+            ) : (
+              <span key={j}>{part}</span>
+            )
+          )}
         </span>
       );
     });

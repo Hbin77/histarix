@@ -34,7 +34,7 @@ export function CountryHistory({ history }: CountryHistoryProps) {
   const { t } = useI18n();
 
   if (!history) {
-    return <p className="text-sm text-[#6e7588]">역사 데이터를 불러오는 중...</p>;
+    return <p className="text-sm text-[#6e7588]">{t("loadingHistory")}</p>;
   }
 
   const events = history.events || [];
@@ -45,7 +45,7 @@ export function CountryHistory({ history }: CountryHistoryProps) {
           <circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>
         </svg>
         <p className="text-sm text-[#6e7588]">{t("noHistory")}</p>
-        <p className="text-xs text-[#414859] mt-1">곧 업데이트될 예정입니다.</p>
+        <p className="text-xs text-[#414859] mt-1">{t("comingSoon")}</p>
       </div>
     );
   }
@@ -71,7 +71,7 @@ export function CountryHistory({ history }: CountryHistoryProps) {
               rel="noopener noreferrer"
               className="inline-block mt-3 text-xs text-[#85adff] hover:underline"
             >
-              Wikipedia에서 더 보기 →
+              {t("viewOnWikipedia")}
             </a>
           )}
         </div>

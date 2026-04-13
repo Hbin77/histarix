@@ -38,6 +38,13 @@ const LABELS: Record<string, Record<Lang, string>> = {
   signup: { ko: "회원가입", en: "Sign Up", zh: "注册", ja: "新規登録" },
   noInfo: { ko: "국가 정보를 불러올 수 없습니다.", en: "Unable to load country info.", zh: "无法加载国家信息。", ja: "国情報を読み込めません。" },
   aiChat: { ko: "AI 역사 가이드", en: "AI History Guide", zh: "AI历史向导", ja: "AI歴史ガイド" },
+  loadingData: { ko: "데이터를 불러오는 중...", en: "Loading data...", zh: "正在加载数据...", ja: "データ読み込み中..." },
+  loadError: { ko: "데이터를 불러올 수 없습니다.", en: "Failed to load data.", zh: "无法加载数据。", ja: "データを読み込めません。" },
+  retry: { ko: "다시 시도", en: "Retry", zh: "重试", ja: "再試行" },
+  readMore: { ko: "더 보기", en: "Read more", zh: "阅读更多", ja: "もっと見る" },
+  viewOnWikipedia: { ko: "Wikipedia에서 더 보기 →", en: "View on Wikipedia →", zh: "在Wikipedia上查看 →", ja: "Wikipediaで見る →" },
+  comingSoon: { ko: "곧 업데이트될 예정입니다.", en: "Coming soon.", zh: "即将更新。", ja: "近日公開予定です。" },
+  loadingHistory: { ko: "역사 데이터를 불러오는 중...", en: "Loading history data...", zh: "正在加载历史数据...", ja: "歴史データを読み込み中..." },
 };
 
 const I18nCtx = createContext<I18nContext>({

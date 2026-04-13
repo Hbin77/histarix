@@ -10,7 +10,7 @@ export function OnThisDay() {
   const { t } = useI18n();
 
   return (
-    <div className="fixed bottom-24 left-3 md:left-6 z-40 w-64 md:w-80 hidden md:block">
+    <div className="fixed bottom-24 left-3 md:left-6 z-40 w-56 md:w-80">
       {/* Header - always visible */}
       <button
         onClick={() => setIsOpen(!isOpen)}
@@ -52,17 +52,17 @@ export function OnThisDay() {
           )}
 
           {error && (
-            <p className="text-xs text-[#ff716c]">데이터를 불러올 수 없습니다.</p>
+            <p className="text-xs text-[#ff716c]">{t("loadError")}</p>
           )}
 
           {!loading && !error && events.length === 0 && (
             <div className="flex flex-col items-center gap-2 py-4">
-              <p className="text-xs text-[#a4abbf]">오늘의 역사 데이터를 불러오는 중...</p>
+              <p className="text-xs text-[#a4abbf]">{t("loadingData")}</p>
               <button
                 onClick={() => window.location.reload()}
                 className="rounded-md bg-[#85adff]/15 px-3 py-1.5 text-xs font-medium text-[#85adff] transition hover:bg-[#85adff]/25"
               >
-                다시 시도
+                {t("retry")}
               </button>
             </div>
           )}
@@ -84,7 +84,7 @@ export function OnThisDay() {
                   rel="noopener noreferrer"
                   className="text-[10px] text-[#85adff]/60 hover:text-[#85adff]"
                 >
-                  더 보기
+                  {t("readMore")}
                 </a>
               )}
             </div>
