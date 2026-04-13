@@ -37,6 +37,7 @@ const LABELS: Record<string, Record<Lang, string>> = {
   totalEvents: { ko: "개의 역사적 사건", en: "historical events", zh: "个历史事件", ja: "件の歴史的事件" },
   signup: { ko: "회원가입", en: "Sign Up", zh: "注册", ja: "新規登録" },
   noInfo: { ko: "국가 정보를 불러올 수 없습니다.", en: "Unable to load country info.", zh: "无法加载国家信息。", ja: "国情報を読み込めません。" },
+  aiChat: { ko: "AI 역사 가이드", en: "AI History Guide", zh: "AI历史向导", ja: "AI歴史ガイド" },
 };
 
 const I18nCtx = createContext<I18nContext>({

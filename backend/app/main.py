@@ -12,7 +12,7 @@ from app.cache import close_redis
 from app.config import settings
 from app.database import async_session, engine
 from app.models import Base
-from app.routers import auth, countries, history, onthisday
+from app.routers import auth, chat, countries, history, onthisday
 from app.seed import seed_countries, seed_historical_events
 
 
@@ -58,6 +58,7 @@ app.add_middleware(
 )
 
 app.include_router(auth.router)
+app.include_router(chat.router)
 app.include_router(countries.router)
 app.include_router(history.router)
 app.include_router(onthisday.router)

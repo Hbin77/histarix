@@ -9,6 +9,7 @@ import { MapControls } from "@/components/map/MapControls";
 import { TimeSlider } from "@/components/timeline/TimeSlider";
 import { CountryPanel } from "@/components/country/CountryPanel";
 import { OnThisDay } from "@/components/onthisday/OnThisDay";
+import { AIChatBot } from "@/components/chat/AIChatBot";
 
 export default function HomePage() {
   const [selectedCountry, setSelectedCountry] =
@@ -55,6 +56,8 @@ export default function HomePage() {
       />
 
       <OnThisDay />
+
+      <AIChatBot countryContext={selectedCountry?.name} />
     </div>
   );
 }
