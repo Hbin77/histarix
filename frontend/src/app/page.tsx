@@ -1,10 +1,10 @@
 "use client";
 
-import { useState } from "react";
+import { useRef, useState } from "react";
 import type { SelectedCountry } from "@/types/map";
 import { useTimeSlider } from "@/hooks/useTimeSlider";
 import { Header } from "@/components/layout/Header";
-import { WorldMap } from "@/components/map/WorldMap";
+import { DotGlobe, type DotGlobeHandle } from "@/components/map/DotGlobe";
 import { MapControls } from "@/components/map/MapControls";
 import { TimeSlider } from "@/components/timeline/TimeSlider";
 import { CountryPanel } from "@/components/country/CountryPanel";
@@ -14,8 +14,10 @@ import { AIChatBot } from "@/components/chat/AIChatBot";
 export default function HomePage() {
   const [selectedCountry, setSelectedCountry] =
     useState<SelectedCountry | null>(null);
+  const globeRef = useRef<DotGlobeHandle>(null);
   const { currentYear, isPlaying, setCurrentYear, togglePlay } =
     useTimeSlider(2000);
+
   const handleCountrySelect = (country: SelectedCountry) => {
     setSelectedCountry(country);
   };
@@ -34,14 +36,20 @@ export default function HomePage() {
 
   return (
     <div className="relative h-screen w-screen overflow-hidden">
-      <WorldMap
+      <DotGlobe
+        ref={globeRef}
         onCountrySelect={handleCountrySelect}
-        selectedCountryCode={selectedCountry?.iso_code}
+        onDeselect={handleClosePanel}
+        selectedCountryCode={selectedCountry?.iso_code ?? null}
       />
 
       <Header onCountrySelect={handleSearchSelect} />
 
-      <MapControls onZoomIn={() => {}} onZoomOut={() => {}} />
+      <MapControls
+        onZoomIn={() => globeRef.current?.zoomIn()}
+        onZoomOut={() => globeRef.current?.zoomOut()}
+        panelOpen={selectedCountry !== null}
+      />
 
       <CountryPanel
         selectedCountry={selectedCountry}

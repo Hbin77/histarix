@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
 @import "tailwindcss";
-@import "mapbox-gl/dist/mapbox-gl.css";
 
 :root {
   --surface: #070e1d;
@@ -19,6 +18,44 @@
   --error: #ff716c;
   --font-headline: 'Space Grotesk', sans-serif;
   --font-body: 'Plus Jakarta Sans', sans-serif;
+
+  /* Dot globe (see design-system/MASTER.md §2) */
+  --globe-ocean: #0a1425;
+  --globe-dot: #97a8cf;
+  --globe-dot-hover: #c6d5ff;
+  --globe-dot-selected: #ffffff;
+  --globe-outline: rgba(133, 173, 255, 0.13);
+  --globe-graticule: rgba(133, 173, 255, 0.045);
+  --globe-marker: #85adff;
+  --globe-atmosphere: rgba(110, 159, 255, 0.22);
+}
+
+/* Dot globe stage */
+.dot-globe-container {
+  background: radial-gradient(
+    ellipse at 50% 45%,
+    var(--surface-container-low) 0%,
+    var(--surface) 62%
+  );
+}
+
+.dot-globe-container canvas {
+  display: block;
+  opacity: 0;
+  transition: opacity 900ms ease;
+}
+
+.dot-globe-container[data-ready="true"] canvas {
+  opacity: 1;
+}
+
+.dot-globe-card {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 20;
+  pointer-events: none;
+  will-change: transform;
 }
 
 body {
@@ -172,4 +209,17 @@ body {
   color: #a4abbf;
   margin-top: 3px;
   line-height: 1.4;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .landmark-monument,
+  .landmark-base,
+  .landmark-base-glow,
+  .landmark-info-card {
+    animation: none;
+  }
+
+  .dot-globe-container canvas {
+    transition: none;
+  }
 }

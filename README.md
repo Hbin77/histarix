@@ -39,7 +39,7 @@ Histarix는 세계 지도를 인터랙티브 인터페이스로 활용하여, �
 | Next.js 15 (App Router) | SSR/SSG 하이브리드 렌더링, SEO 최적화 |
 | TypeScript | 타입 안전성 |
 | Tailwind CSS v4 | 유틸리티 기반 스타일링 |
-| Mapbox GL JS | WebGL 기반 인터랙티브 세계 지도 |
+| Three.js | WebGL 도트 매트릭스 3D 지구본 (자체 구현) |
 | Supabase Auth | 소셜 로그인 / 이메일 인증 |
 | PostHog | 사용자 행동 분석 |
 
@@ -56,7 +56,6 @@ Histarix는 세계 지도를 인터랙티브 인터페이스로 활용하여, �
 
 | API | 제공기관 | 용도 | 비용 |
 |-----|----------|------|------|
-| Mapbox GL JS | Mapbox | 인터랙티브 세계 지도 렌더링 | 무료 50K뷰/월 |
 | Natural Earth Data | 커뮤니티 | 국경선/지형 GeoJSON | 완전 무료 |
 | Wikidata SPARQL | Wikimedia | 역사 사건/인물 구조화 데이터 | 완전 무료 (CC0) |
 | Wikipedia REST API | Wikimedia | 역사 문서 본문 추출 | 완전 무료 (CC BY-SA) |
@@ -91,14 +90,14 @@ histarix/
 │       ├── app/
 │       │   ├── layout.tsx         # 루트 레이아웃 (다크 테마)
 │       │   ├── page.tsx           # 메인 SPA (지도 + 패널 조합)
-│       │   ├── globals.css        # Tailwind + Mapbox CSS
+│       │   ├── globals.css        # Tailwind + 디자인 토큰
 │       │   ├── providers.tsx      # PostHog 프로바이더
 │       │   └── auth/
 │       │       ├── login/page.tsx # 로그인 페이지
 │       │       └── callback/route.ts # OAuth 콜백
 │       ├── components/
 │       │   ├── map/
-│       │   │   ├── WorldMap.tsx   # Mapbox GL JS 지도 (핵심 컴포넌트)
+│       │   │   ├── DotGlobe.tsx   # Three.js 도트 3D 지구본 (핵심 컴포넌트)
 │       │   │   └── MapControls.tsx
 │       │   ├── country/
 │       │   │   ├── CountryPanel.tsx    # 슬라이드 패널 (정보/역사/타임라인 탭)
@@ -135,7 +134,7 @@ histarix/
 │
 └── backend/                       # FastAPI
     ├── pyproject.toml
-    ├── requirements.txt
+    ├── pyproject.toml
     ├── .env.example
     └── app/
         ├── main.py                # FastAPI 앱 (CORS, 라이프사이클)
@@ -168,7 +167,7 @@ histarix/
 
 ### 4.1 인터랙티브 세계 지도
 
-- Mapbox GL JS 기반 다크 테마 세계 지도
+- Three.js 도트 매트릭스 3D 지구본 (다크 테마, 자동 회전/드래그/줌)
 - 국가 호버 시 하이라이트, 클릭 시 상세 패널 오픈
 - 줌 인/아웃 컨트롤
 
@@ -267,7 +266,6 @@ histarix/
 ### Frontend (`frontend/.env.local`)
 
 ```env
-NEXT_PUBLIC_MAPBOX_TOKEN=pk.xxx        # Mapbox 액세스 토큰 (필수)
 NEXT_PUBLIC_SUPABASE_URL=https://xxx.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=xxx
 NEXT_PUBLIC_POSTHOG_KEY=phc_xxx
@@ -289,14 +287,13 @@ WIKIPEDIA_USER_AGENT=Histarix/1.0 (contact@histarix.com)
 
 - Node.js 20+
 - Python 3.11+
-- Mapbox 계정 + Access Token
 
 ### Frontend
 
 ```bash
 cd frontend
 cp .env.local.example .env.local
-# .env.local에 Mapbox 토큰 등 설정
+# .env.local에 API URL 등 설정
 npm install
 npm run dev          # http://localhost:3000
 ```
@@ -336,7 +333,7 @@ make dev             # 프론트엔드 + 백엔드 동시 실행
 
 ### MVP (현재 구현)
 
-- [x] 인터랙티브 세계 지도 (Mapbox GL JS)
+- [x] 인터랙티브 3D 도트 지구본 (Three.js 자체 구현)
 - [x] 국가 클릭 → 상세 정보 패널
 - [x] 국가 역사 타임라인 (Wikidata SPARQL)
 - [x] 오늘의 역사 위젯 (Wikimedia)
@@ -383,7 +380,6 @@ make dev             # 프론트엔드 + 백엔드 동시 실행
 
 | API | 비용 |
 |-----|------|
-| Mapbox (~20K loads) | ₩0 |
 | Wikidata / Wikipedia / Wikimedia | ₩0 |
 | Europeana / The Met / REST Countries | ₩0 |
 | Supabase Auth (~1K MAU) | ₩0 |
