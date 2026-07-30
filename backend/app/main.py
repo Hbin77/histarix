@@ -65,5 +65,8 @@ app.include_router(onthisday.router)
 
 
 @app.get("/api/health")
-async def health() -> dict[str, str]:
-    return {"status": "ok"}
+async def health() -> dict[str, object]:
+    return {
+        "status": "ok",
+        "db_connected": bool(getattr(app.state, "db_connected", False)),
+    }

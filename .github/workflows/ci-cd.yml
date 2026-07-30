@@ -1,0 +1,124 @@
+name: CI/CD
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch: # manual redeploy of main
+
+# PR runs cancel superseded ones; main runs always queue (a deploy must never
+# be cancelled mid-flight).
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
+permissions:
+  contents: read
+
+jobs:
+  frontend:
+    name: Frontend build
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+      - run: npm ci
+      - run: npm run build # includes TypeScript type-checking
+
+  backend:
+    name: Backend tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: backend
+    env:
+      # Settings requires these at import time; dummies are fine — the app
+      # boots in degraded mode without a live database.
+      DATABASE_URL: postgresql+asyncpg://test:test@localhost:5432/test
+      JWT_SECRET: ci-test-secret
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12" # matches backend/Dockerfile
+          cache: pip
+          cache-dependency-path: backend/pyproject.toml
+      - run: pip install -e ".[dev]"
+      - run: pytest tests/ -q
+
+  deploy:
+    name: Deploy to production
+    # Push/dispatch on main only — never for pull_request events, never on forks.
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && github.repository == 'Hbin77/histarix'
+    needs: [frontend, backend]
+    runs-on: [self-hosted, histarix-prod]
+    timeout-minutes: 30
+    concurrency:
+      group: production
+      cancel-in-progress: false
+    environment:
+      name: production
+      url: https://histarix.semo3.com
+    defaults:
+      run:
+        working-directory: /home/hbin/apps/histarix
+    steps:
+      - name: Pre-flight disk check
+        run: |
+          avail=$(df --output=avail -BG / | tail -1 | tr -dc '0-9')
+          echo "available: ${avail}G"
+          test "$avail" -ge 10
+
+      - name: Sync app directory to pushed commit
+        run: |
+          git fetch origin main
+          git checkout -B main
+          git reset --hard "$GITHUB_SHA"
+          git log --oneline -1
+
+      - name: Build images (old stack keeps serving)
+        run: docker compose build --pull
+
+      - name: Roll out
+        run: docker compose up -d --remove-orphans
+
+      - name: Reload nginx config
+        run: |
+          docker compose exec -T nginx nginx -t
+          docker compose exec -T nginx nginx -s reload
+
+      - name: Health check (requires live DB, not just a booted process)
+        run: |
+          for i in $(seq 1 30); do
+            if curl -fsS http://localhost:3093/api/health | grep -q '"db_connected":true'; then
+              echo "healthy"
+              exit 0
+            fi
+            sleep 2
+          done
+          echo "health check failed"
+          docker compose ps
+          # Full logs stay on the server: request lines carry auth tokens and
+          # client IPs, and this repo is public — Actions logs are world-readable.
+          out="deploy-failure-$(date -u +%Y%m%dT%H%M%SZ).log"
+          docker compose logs --tail 200 > "$out" 2>&1
+          echo "full logs saved to $(pwd)/$out"
+          echo "--- redacted backend excerpt ---"
+          docker compose logs --tail 50 backend 2>&1 | sed -E 's/\?[^ "]*/?<redacted>/g'
+          exit 1
+
+      - name: Prune old images and build cache
+        if: success()
+        continue-on-error: true # housekeeping must not mark a live deploy as failed
+        run: |
+          docker image prune -f
+          docker builder prune -f --keep-storage 15GB
