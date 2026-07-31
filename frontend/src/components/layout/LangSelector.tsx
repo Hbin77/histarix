@@ -18,8 +18,8 @@ export function LangSelector() {
           onClick={() => setLang(l.code)}
           className={`rounded-md px-2 py-1 text-[11px] font-medium transition ${
             lang === l.code
-              ? "bg-[#85adff]/20 text-[#85adff]"
-              : "text-[#6e7588] hover:text-[#a4abbf]"
+              ? "bg-[var(--primary)]/15 text-[var(--primary)]"
+              : "text-[var(--on-surface-variant)] hover:text-[var(--on-surface)]"
           }`}
         >
           {l.label}

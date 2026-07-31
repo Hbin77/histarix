@@ -116,7 +116,7 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
           {i > 0 && <br />}
           {parts.map((part, j) =>
             j % 2 === 1 ? (
-              <strong key={j} className="text-[#dfe5fa]">{part}</strong>
+              <strong key={j} className="text-current">{part}</strong>
             ) : (
               <span key={j}>{part}</span>
             )
@@ -131,7 +131,7 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
       {/* Floating toggle button */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="fixed bottom-44 md:bottom-56 right-3 md:right-6 z-50 flex h-12 w-12 items-center justify-center rounded-full bg-gradient-to-br from-[#85adff] to-[#6366f1] shadow-lg shadow-[#6366f1]/30 transition-all hover:scale-105 hover:shadow-xl"
+        className="fixed bottom-44 md:bottom-56 right-3 md:right-6 z-50 flex h-12 w-12 items-center justify-center rounded-full bg-gradient-to-br from-[var(--primary)] to-[var(--primary-container)] shadow-lg shadow-[var(--primary)]/20 transition-all hover:scale-105 hover:shadow-xl"
         aria-label="AI Chat"
       >
         {isOpen ? (
@@ -152,23 +152,23 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
 
       {/* Chat panel */}
       {isOpen && (
-        <div className="fixed bottom-60 md:bottom-[280px] right-3 md:right-6 z-50 flex max-h-[calc(100dvh-320px)] md:max-h-[calc(100dvh-352px)] w-80 md:w-96 flex-col rounded-2xl border border-[#1e293b] bg-[#0c1322]/95 shadow-2xl backdrop-blur-xl">
+        <div className="fixed bottom-60 md:bottom-[280px] right-3 md:right-6 z-50 flex max-h-[calc(100dvh-320px)] md:max-h-[calc(100dvh-352px)] w-80 md:w-96 flex-col rounded-2xl border border-[var(--outline-variant)] bg-[var(--surface-container)]/90 shadow-[0_16px_40px_rgba(27,37,64,0.16)] backdrop-blur-xl">
           {/* Header */}
-          <div className="flex items-center gap-2 rounded-t-2xl border-b border-[#1e293b] bg-gradient-to-r from-[#85adff]/10 to-[#6366f1]/10 px-4 py-3">
-            <div className="flex h-8 w-8 items-center justify-center rounded-full bg-gradient-to-br from-[#85adff] to-[#6366f1]">
+          <div className="flex items-center gap-2 rounded-t-2xl border-b border-[var(--outline-variant)] bg-gradient-to-r from-[var(--primary)]/10 to-[var(--primary-container)]/10 px-4 py-3">
+            <div className="flex h-8 w-8 items-center justify-center rounded-full bg-gradient-to-br from-[var(--primary)] to-[var(--primary-container)]">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
                 <path d="M12 2a7 7 0 0 1 7 7c0 3-1.5 5-3 6.5V18h-8v-2.5C6.5 14 5 12 5 9a7 7 0 0 1 7-7z" />
               </svg>
             </div>
             <div className="flex-1">
-              <h3 className="text-sm font-semibold text-[#dfe5fa]">{l("title")}</h3>
+              <h3 className="text-sm font-semibold text-[var(--on-surface)]">{l("title")}</h3>
               {countryContext && (
-                <p className="text-[10px] text-[#85adff]">📍 {countryContext}</p>
+                <p className="text-[10px] text-[var(--primary)]">📍 {countryContext}</p>
               )}
             </div>
             <button
               onClick={() => setMessages([])}
-              className="rounded-md p-1 text-[#a4abbf] transition hover:bg-[#1e293b] hover:text-[#dfe5fa]"
+              className="rounded-md p-1 text-[var(--on-surface-variant)] transition hover:bg-[var(--surface-container-high)] hover:text-[var(--on-surface)]"
               title="Clear chat"
             >
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -180,7 +180,7 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
           {/* Messages */}
           <div className="flex-1 overflow-y-auto px-4 py-3 space-y-3" style={{ maxHeight: "360px", minHeight: "min(200px, 25dvh)" }}>
             {messages.length === 0 && (
-              <div className="rounded-xl bg-[#161f33]/60 p-3 text-xs leading-relaxed text-[#a4abbf]">
+              <div className="rounded-xl bg-[var(--surface-container-high)] p-3 text-xs leading-relaxed text-[var(--on-surface-variant)]">
                 {renderContent(l("greeting"))}
               </div>
             )}
@@ -193,16 +193,16 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
                 <div
                   className={`max-w-[85%] rounded-xl px-3 py-2 text-xs leading-relaxed ${
                     msg.role === "user"
-                      ? "bg-[#85adff]/20 text-[#dfe5fa]"
-                      : "bg-[#161f33]/60 text-[#a4abbf]"
+                      ? "bg-[var(--primary)] text-white"
+                      : "bg-[var(--surface-container-high)] text-[var(--on-surface)]"
                   }`}
                 >
                   {renderContent(msg.content)}
                   {msg.role === "assistant" && msg.content === "" && isLoading && (
                     <span className="inline-flex gap-1">
-                      <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-[#85adff]/60" style={{ animationDelay: "0ms" }} />
-                      <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-[#85adff]/60" style={{ animationDelay: "150ms" }} />
-                      <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-[#85adff]/60" style={{ animationDelay: "300ms" }} />
+                      <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-[var(--primary)]/60" style={{ animationDelay: "0ms" }} />
+                      <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-[var(--primary)]/60" style={{ animationDelay: "150ms" }} />
+                      <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-[var(--primary)]/60" style={{ animationDelay: "300ms" }} />
                     </span>
                   )}
                 </div>
@@ -212,8 +212,8 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
           </div>
 
           {/* Input */}
-          <div className="border-t border-[#1e293b] p-3">
-            <div className="flex items-center gap-2 rounded-xl bg-[#161f33] px-3 py-2">
+          <div className="border-t border-[var(--outline-variant)] p-3">
+            <div className="flex items-center gap-2 rounded-xl bg-[var(--surface-container-high)] px-3 py-2">
               <input
                 ref={inputRef}
                 type="text"
@@ -222,13 +222,13 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
                 onKeyDown={handleKeyDown}
                 placeholder={l("placeholder")}
                 maxLength={2000}
-                className="flex-1 bg-transparent text-xs text-[#dfe5fa] placeholder-[#4a5270] outline-none"
+                className="flex-1 bg-transparent text-xs text-[var(--on-surface)] placeholder-[var(--on-surface-variant)] outline-none"
                 disabled={isLoading}
               />
               <button
                 onClick={sendMessage}
                 disabled={!input.trim() || isLoading}
-                className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-[#85adff]/20 text-[#85adff] transition hover:bg-[#85adff]/30 disabled:opacity-30"
+                className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-[var(--primary)]/20 text-[var(--primary)] transition hover:bg-[var(--primary)]/30 disabled:opacity-30"
               >
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                   <path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z" />

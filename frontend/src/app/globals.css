@@ -2,40 +2,47 @@
 @import "tailwindcss";
 
 :root {
-  --surface: #070e1d;
-  --surface-container-low: #0b1323;
-  --surface-container: #11192b;
-  --surface-container-high: #161f33;
-  --surface-container-highest: #1b263b;
-  --surface-variant: #1b263b;
-  --primary: #85adff;
-  --primary-container: #6e9fff;
-  --primary-dim: #699cff;
-  --on-surface: #dfe5fa;
-  --on-surface-variant: #a4abbf;
-  --outline: #6e7588;
-  --outline-variant: #414859;
-  --error: #ff716c;
+  /* Light "atlas" theme — see design-system/MASTER.md */
+  --surface: #f4f6fb;
+  --surface-container-low: #ffffff;
+  --surface-container: #ffffff;
+  --surface-container-high: #eaeef7;
+  --surface-container-highest: #e1e7f3;
+  --surface-variant: #e1e7f3;
+  --primary: #3c66e4;
+  --primary-container: #2f55c8;
+  --primary-dim: #5379e9;
+  --on-surface: #1b2540;
+  --on-surface-variant: #5b6478;
+  --outline: #8b93a8;
+  --outline-variant: #d5dae8;
+  --error: #c53a33;
   --font-headline: 'Space Grotesk', sans-serif;
   --font-body: 'Plus Jakarta Sans', sans-serif;
 
-  /* Dot globe (see design-system/MASTER.md §2) */
-  --globe-ocean: #0a1425;
-  --globe-dot: #97a8cf;
-  --globe-dot-hover: #c6d5ff;
-  --globe-dot-selected: #ffffff;
-  --globe-outline: rgba(133, 173, 255, 0.13);
-  --globe-graticule: rgba(133, 173, 255, 0.045);
-  --globe-marker: #85adff;
-  --globe-atmosphere: rgba(110, 159, 255, 0.22);
+  /* Dot globe (light) */
+  --globe-ocean: #e9eef7;
+  --globe-outline: rgba(27, 37, 64, 0.32);
+  --globe-graticule: rgba(27, 37, 64, 0.055);
+  --globe-marker: #3c66e4;
+  --globe-atmosphere: rgba(76, 118, 235, 0.20);
+
+  /* Country palette — 6 slots, CVD-validated (dataviz six checks, light surface).
+     Neighboring countries never share a slot (greedy graph coloring). */
+  --globe-cat-1: #4a72c4; /* blue */
+  --globe-cat-2: #b5772a; /* amber */
+  --globe-cat-3: #1b9884; /* teal */
+  --globe-cat-4: #a84a6f; /* berry */
+  --globe-cat-5: #6f8d38; /* green */
+  --globe-cat-6: #654bb8; /* violet */
 }
 
 /* Dot globe stage */
 .dot-globe-container {
   background: radial-gradient(
     ellipse at 50% 45%,
-    var(--surface-container-low) 0%,
-    var(--surface) 62%
+    #fdfeff 0%,
+    var(--surface) 64%
   );
 }
 
@@ -61,9 +68,9 @@
 body {
   margin: 0;
   overflow: hidden;
-  background: #070e1d;
-  color: #dfe5fa;
-  font-family: 'Plus Jakarta Sans', sans-serif;
+  background: var(--surface);
+  color: var(--on-surface);
+  font-family: var(--font-body);
 }
 
 /* Landmark - Rising from the terrain */
@@ -116,11 +123,11 @@ body {
   width: 180px;
   height: 160px;
   animation: monument-emerge 1.2s cubic-bezier(0.22, 1, 0.36, 1) forwards;
-  filter: drop-shadow(0 20px 50px rgba(0, 0, 0, 0.7))
-          drop-shadow(0 0 30px rgba(133, 173, 255, 0.15));
+  filter: drop-shadow(0 18px 40px rgba(27, 37, 64, 0.22))
+          drop-shadow(0 0 24px rgba(60, 102, 228, 0.10));
   overflow: hidden;
   border-radius: 12px;
-  border: 2px solid rgba(133, 173, 255, 0.2);
+  border: 2px solid rgba(255, 255, 255, 0.9);
 }
 
 .landmark-img {
@@ -136,8 +143,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, #161f33, #1b263b);
-  color: #85adff;
+  background: linear-gradient(135deg, var(--surface-container-high), var(--surface-container-highest));
+  color: var(--primary);
   font-family: 'Space Grotesk', sans-serif;
   font-size: 48px;
   font-weight: 700;
@@ -156,8 +163,8 @@ body {
   position: absolute;
   inset: 0;
   background: radial-gradient(ellipse at center,
-    rgba(133, 173, 255, 0.25) 0%,
-    rgba(133, 173, 255, 0.08) 40%,
+    rgba(60, 102, 228, 0.22) 0%,
+    rgba(60, 102, 228, 0.07) 40%,
     transparent 70%
   );
   border-radius: 50%;
@@ -171,7 +178,7 @@ body {
   width: 80px;
   height: 24px;
   background: radial-gradient(ellipse,
-    rgba(133, 173, 255, 0.35) 0%,
+    rgba(60, 102, 228, 0.30) 0%,
     transparent 70%
   );
   border-radius: 50%;
@@ -182,15 +189,15 @@ body {
   margin-top: 10px;
   padding: 10px 20px;
   background: linear-gradient(135deg,
-    rgba(11, 19, 35, 0.95) 0%,
-    rgba(22, 31, 51, 0.90) 100%
+    rgba(255, 255, 255, 0.97) 0%,
+    rgba(244, 246, 251, 0.92) 100%
   );
-  border: 1px solid rgba(133, 173, 255, 0.12);
+  border: 1px solid rgba(27, 37, 64, 0.10);
   border-radius: 14px;
   backdrop-filter: blur(16px);
   box-shadow:
-    0 16px 40px rgba(0, 0, 0, 0.5),
-    0 0 20px rgba(133, 173, 255, 0.05);
+    0 16px 40px rgba(27, 37, 64, 0.16),
+    0 0 20px rgba(60, 102, 228, 0.06);
   text-align: center;
   white-space: nowrap;
   animation: card-slide 0.6s ease-out 1s both;
@@ -200,13 +207,13 @@ body {
   font-family: 'Space Grotesk', sans-serif;
   font-size: 15px;
   font-weight: 700;
-  color: #dfe5fa;
+  color: var(--on-surface);
   letter-spacing: -0.02em;
 }
 
 .landmark-tagline {
   font-size: 11px;
-  color: #a4abbf;
+  color: var(--on-surface-variant);
   margin-top: 3px;
   line-height: 1.4;
 }

@@ -12,7 +12,7 @@ export function CountryInfo({ info }: CountryInfoProps) {
 
   if (!info) {
     return (
-      <p className="text-sm text-[#6e7588]">{t("noInfo")}</p>
+      <p className="text-sm text-[var(--on-surface-variant)]">{t("noInfo")}</p>
     );
   }
 
@@ -98,13 +98,13 @@ export function CountryInfo({ info }: CountryInfoProps) {
             alt={info.name}
             className="h-full w-full object-cover opacity-30 blur-sm"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-[#0b1323] to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[rgba(27,37,64,0.78)] to-transparent" />
           <div className="absolute bottom-4 left-5 flex items-center gap-3">
-            <img src={info.flag} alt="" className="h-8 w-auto rounded shadow" />
+            <img src={info.flag} alt="" className="h-8 w-auto rounded shadow-[0_2px_8px_rgba(27,37,64,0.18)]" />
             <div>
-              <h3 className="text-xl font-bold text-[#dfe5fa]">{info.name}</h3>
+              <h3 className="text-xl font-bold text-white">{info.name}</h3>
               {info.official_name && (
-                <p className="text-xs text-[#a4abbf]">{info.official_name}</p>
+                <p className="text-xs text-white/80">{info.official_name}</p>
               )}
             </div>
           </div>
@@ -114,11 +114,11 @@ export function CountryInfo({ info }: CountryInfoProps) {
       {/* Fallback header when no flag */}
       {!info.flag && (
         <div>
-          <h3 className="text-xl font-bold text-[#dfe5fa]">{info.name}</h3>
+          <h3 className="text-xl font-bold text-[var(--on-surface)]">{info.name}</h3>
           {info.official_name && (
-            <p className="text-sm text-[#6e7588]">{info.official_name}</p>
+            <p className="text-sm text-[var(--on-surface-variant)]">{info.official_name}</p>
           )}
-          <p className="text-xs font-mono text-[#dfe5fa]/30">{info.iso_code}</p>
+          <p className="text-xs font-mono text-[var(--on-surface)]/40">{info.iso_code}</p>
         </div>
       )}
 
@@ -129,14 +129,14 @@ export function CountryInfo({ info }: CountryInfoProps) {
             field.value && (
               <div
                 key={field.label}
-                className="flex items-center gap-3 rounded-lg bg-[#1b263b]/30 px-4 py-3"
+                className="flex items-center gap-3 rounded-lg bg-[var(--surface-container-high)] px-4 py-3"
               >
-                <div className="shrink-0 text-[#6e7588]">
+                <div className="shrink-0 text-[var(--on-surface-variant)]">
                   {field.icon}
                 </div>
                 <div className="flex-1 min-w-0">
-                  <span className="text-[10px] uppercase tracking-wider text-[#6e7588] block">{field.label}</span>
-                  <span className="text-sm font-medium text-[#dfe5fa] block truncate">
+                  <span className="text-[10px] uppercase tracking-wider text-[var(--on-surface-variant)] block">{field.label}</span>
+                  <span className="text-sm font-medium text-[var(--on-surface)] block truncate">
                     {field.value}
                   </span>
                 </div>
@@ -146,8 +146,8 @@ export function CountryInfo({ info }: CountryInfoProps) {
       </div>
 
       {info.wikipedia_summary && (
-        <div className="mt-4 rounded-xl bg-gradient-to-br from-[#161f33] to-[#0b1323] p-5">
-          <p className="text-sm leading-relaxed text-[#a4abbf]">{info.wikipedia_summary}</p>
+        <div className="mt-4 rounded-xl bg-gradient-to-br from-[var(--surface-container-high)] to-[var(--surface-container-low)] p-5 ring-1 ring-[var(--outline-variant)]/60">
+          <p className="text-sm leading-relaxed text-[var(--on-surface-variant)]">{info.wikipedia_summary}</p>
         </div>
       )}
     </div>

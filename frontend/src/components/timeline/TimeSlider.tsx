@@ -16,10 +16,10 @@ export function TimeSlider({
   onTogglePlay,
 }: TimeSliderProps) {
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-40 flex h-16 md:h-20 items-center gap-3 md:gap-4 bg-[#070e1d]/80 px-3 md:px-6 backdrop-blur-[12px]">
+    <div className="fixed bottom-0 left-0 right-0 z-40 flex h-16 md:h-20 items-center gap-3 md:gap-4 bg-[var(--surface-container)]/85 px-3 md:px-6 backdrop-blur-[12px] ring-1 ring-[var(--outline-variant)]/60">
       <button
         onClick={onTogglePlay}
-        className="flex h-8 w-8 md:h-10 md:w-10 shrink-0 items-center justify-center rounded-full bg-[#85adff]/20 text-[#85adff] ring-1 ring-[#85adff]/30 transition hover:bg-[#85adff]/30"
+        className="flex h-8 w-8 md:h-10 md:w-10 shrink-0 items-center justify-center rounded-full bg-[var(--primary)]/10 text-[var(--primary)] ring-1 ring-[var(--primary)]/30 transition hover:bg-[var(--primary)]/20"
       >
         {isPlaying ? (
           <svg
@@ -45,7 +45,7 @@ export function TimeSlider({
 
       <TimeDisplay
         year={currentYear}
-        className="w-20 md:w-24 shrink-0 text-center text-base md:text-lg font-bold text-[#dfe5fa] tabular-nums"
+        className="w-20 md:w-24 shrink-0 text-center text-base md:text-lg font-bold text-[var(--on-surface)] tabular-nums"
         style={{ fontFamily: "'Space Grotesk', sans-serif" }}
       />
 
@@ -56,9 +56,9 @@ export function TimeSlider({
           max={2026}
           value={currentYear}
           onChange={(e) => onYearChange(Number(e.target.value))}
-          className="w-full cursor-pointer accent-[#85adff]"
+          className="w-full cursor-pointer accent-[var(--primary)] [&::-moz-range-track]:bg-[var(--outline-variant)] [&::-moz-range-progress]:bg-[var(--primary)] [&::-moz-range-thumb]:bg-[var(--primary)]"
         />
-        <div className="hidden md:flex justify-between text-[10px] text-[#6e7588]">
+        <div className="hidden md:flex justify-between text-[10px] text-[var(--on-surface-variant)]">
           <span>3000 BC</span>
           <span>2000 BC</span>
           <span>1000 BC</span>
