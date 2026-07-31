@@ -34,7 +34,12 @@ import {
 } from "three";
 import type { SelectedCountry } from "@/types/map";
 import { COUNTRY_LANDMARKS, type CountryLandmark } from "@/data/landmarks";
-import { disposeModel, LANDMARK_MODELS, placeOnGlobe } from "@/lib/landmark3d";
+import {
+  disposeModel,
+  hasLandmarkModel,
+  loadLandmarkModel,
+  placeOnGlobe,
+} from "@/lib/landmark3d";
 import {
   countryIndexAt,
   indexCountries,
@@ -419,6 +424,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       /** selection requested before the scene/data was ready */
       pendingIso: string | null;
       applyExternalSelection: ((iso: string | null) => void) | null;
+      /** zoom the landmark orbit rig; returns false when the rig is idle */
+      adjustRigRange: ((factor: number) => boolean) | null;
     }>({
       yaw: -0.4,
       pitch: 0.45,
@@ -438,6 +445,7 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       reducedMotion: false,
       pendingIso: null,
       applyExternalSelection: null,
+      adjustRigRange: null,
     });
 
     const startFlight = (
@@ -468,10 +476,12 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
     useImperativeHandle(ref, () => ({
       zoomIn: () => {
         const w = world.current;
+        if (w.adjustRigRange?.(1 / 1.35)) return;
         startFlight(w.yaw, w.pitch, Math.max(MIN_DIST, w.dist / 1.35), 350);
       },
       zoomOut: () => {
         const w = world.current;
+        if (w.adjustRigRange?.(1.35)) return;
         startFlight(w.yaw, w.pitch, Math.min(MAX_DIST, w.dist * 1.35), 350);
       },
     }));
@@ -568,14 +578,23 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       // Google-Earth-style orbit rig: once the flight lands, the camera eases
       // from the axis rig to an anchor-orbit view (35° elevation over the
       // anchor's tangent plane) so upright monuments are seen obliquely.
+      // rigDir: +1 blending in, -1 blending out (model removed at 0).
       let rigBlend = 0;
+      let rigDir = 0;
+      let rigRange = 0.85;
       const RIG_ELEV = 35 * DEG;
-      const RIG_RANGE = 0.85;
       const removeModel3d = () => {
         if (!model3d) return;
         group.remove(model3d);
         disposeModel(model3d);
         model3d = null;
+        rigBlend = 0;
+        rigDir = 0;
+      };
+      w.adjustRigRange = (factor: number) => {
+        if (!model3d || rigBlend <= 0) return false;
+        rigRange = Math.min(2.2, Math.max(0.35, rigRange * factor));
+        return true;
       };
 
       const graticuleGeometry = new BufferGeometry();
@@ -627,9 +646,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         }
         w.cardAnchor = null;
         setCard(null);
-        removeModel3d();
+        if (model3d) rigDir = -1; // rig + model blend out in the frame loop
         cardBelow = false;
-        rigBlend = 0;
         w.selectedFi = null;
         w.selectedIso = null;
         repaint();
@@ -655,20 +673,35 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
             w.cardTimer = setTimeout(() => {
               w.cardTimer = null;
               if (disposed || w.selectedIso !== iso) return;
-              const model = LANDMARK_MODELS[iso];
-              if (model) {
+              const anchor = latLngToVec3(landmark.lat, landmark.lng, RADIUS * 1.002);
+              if (hasLandmarkModel(iso)) {
                 // 3D monument at its real coordinates; card text sits below
-                removeModel3d();
-                model3d = model.build();
-                const anchor = latLngToVec3(model.lat, model.lng, RADIUS * 1.002);
-                placeOnGlobe(model3d, anchor, 0.001);
-                group.add(model3d);
-                model3dStart = performance.now();
-                w.cardAnchor = anchor;
-                cardBelow = true;
-                setCard({ landmark, thumb, hidePhoto: true });
+                loadLandmarkModel(iso)
+                  .then((model) => {
+                    if (!model) return;
+                    if (disposed || w.selectedIso !== iso) {
+                      disposeModel(model);
+                      return;
+                    }
+                    removeModel3d();
+                    model3d = model;
+                    placeOnGlobe(model3d, anchor, 0.001);
+                    group.add(model3d);
+                    model3dStart = performance.now();
+                    rigDir = 1;
+                    w.cardAnchor = anchor;
+                    cardBelow = true;
+                    setCard({ landmark, thumb, hidePhoto: true });
+                  })
+                  .catch(() => {
+                    // fall back to the photo card on any load failure
+                    if (disposed || w.selectedIso !== iso) return;
+                    w.cardAnchor = anchor;
+                    cardBelow = false;
+                    setCard({ landmark, thumb });
+                  });
               } else {
-                w.cardAnchor = latLngToVec3(lat, lng, RADIUS * 1.01);
+                w.cardAnchor = anchor;
                 cardBelow = false;
                 setCard({ landmark, thumb });
               }
@@ -688,8 +721,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         w.selectedIso = country.feature.iso;
         repaint();
         setIsImmersive(true);
-        const has3d = country.feature.iso !== null && LANDMARK_MODELS[country.feature.iso];
-        rigBlend = 0;
+        const has3d = hasLandmarkModel(country.feature.iso);
+        rigRange = 0.85;
         startFlight(-lng * DEG, lat * DEG, has3d ? 2.2 : FOCUS_DIST, 1600);
         if (country.feature.iso) {
           if (notify) {
@@ -956,32 +989,38 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         );
         camera.lookAt(0, 0, 0);
 
-        // blend to the anchor-orbit rig while a 3D landmark is on stage
-        if (model3d && w.cardAnchor) {
-          if (!w.flight && rigBlend < 1) rigBlend = Math.min(1, rigBlend + dt * 1.6);
-          if (rigBlend > 0) {
-            const anchorWorld = w.cardAnchor.clone().applyEuler(group.rotation);
-            const normal = anchorWorld.clone().normalize();
-            const north = new Vector3(0, 1, 0)
-              .addScaledVector(normal, -normal.y)
-              .normalize();
-            const orbitPos = anchorWorld
-              .clone()
-              .addScaledVector(normal, Math.sin(RIG_ELEV) * RIG_RANGE)
-              .addScaledVector(north, -Math.cos(RIG_ELEV) * RIG_RANGE);
-            const orbitTarget = anchorWorld
-              .clone()
-              .addScaledVector(normal, MODEL_HEIGHT * 0.45);
-            const e = easeInOutCubic(rigBlend);
-            camera.position.lerp(orbitPos, e);
-            const target = new Vector3(0, 0, 0).lerp(orbitTarget, e);
-            camera.lookAt(target);
+        // blend to/from the anchor-orbit rig while a 3D landmark is on stage
+        if (model3d) {
+          const blendStep = w.reducedMotion ? 1 : dt;
+          if (rigDir > 0 && !w.flight) {
+            rigBlend = Math.min(1, rigBlend + blendStep * 1.6);
+          } else if (rigDir < 0) {
+            rigBlend -= blendStep * 2.2;
+            if (rigBlend <= 0) removeModel3d();
           }
+        }
+        if (model3d && rigBlend > 0) {
+          const rigAnchor = model3d.position.clone().applyEuler(group.rotation);
+          const normal = rigAnchor.clone().normalize();
+          const north = new Vector3(0, 1, 0)
+            .addScaledVector(normal, -normal.y)
+            .normalize();
+          const orbitPos = rigAnchor
+            .clone()
+            .addScaledVector(normal, Math.sin(RIG_ELEV) * rigRange)
+            .addScaledVector(north, -Math.cos(RIG_ELEV) * rigRange);
+          const orbitTarget = rigAnchor
+            .clone()
+            .addScaledVector(normal, MODEL_HEIGHT * 0.45);
+          const e = easeInOutCubic(Math.max(0, Math.min(1, rigBlend)));
+          camera.position.lerp(orbitPos, e);
+          const target = new Vector3(0, 0, 0).lerp(orbitTarget, e);
+          camera.lookAt(target);
         }
 
         // 3D landmark emerge animation (scale up from the terrain)
         if (model3d && model3dStart) {
-          const t = Math.min(1, (now - model3dStart) / 900);
+          const t = w.reducedMotion ? 1 : Math.min(1, (now - model3dStart) / 900);
           const e = 1 - Math.pow(1 - t, 3);
           model3d.scale.setScalar(Math.max(0.001, MODEL_HEIGHT * e));
           if (t >= 1) model3dStart = 0;
@@ -992,6 +1031,9 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         if (cardEl && w.cardAnchor) {
           const v = w.cardAnchor.clone().applyEuler(group.rotation);
           const facing = v.z > 0.2;
+          // refresh matrixWorldInverse — the camera may have been repositioned
+          // by the orbit rig after the renderer last computed it
+          camera.updateMatrixWorld(true);
           v.project(camera);
           const x = ((v.x + 1) / 2) * container.clientWidth;
           const y = ((1 - v.y) / 2) * container.clientHeight;
@@ -1033,6 +1075,7 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         renderer.dispose();
         canvas.remove();
         w.applyExternalSelection = null;
+        w.adjustRigRange = null;
         w.indexed = null;
         w.dots = null;
         w.dotGeometry = null;
