@@ -88,7 +88,7 @@ histarix/
 │   ├── .env.local.example
 │   └── src/
 │       ├── app/
-│       │   ├── layout.tsx         # 루트 레이아웃 (다크 테마)
+│       │   ├── layout.tsx         # 루트 레이아웃
 │       │   ├── page.tsx           # 메인 SPA (지도 + 패널 조합)
 │       │   ├── globals.css        # Tailwind + 디자인 토큰
 │       │   ├── providers.tsx      # PostHog 프로바이더
@@ -167,7 +167,7 @@ histarix/
 
 ### 4.1 인터랙티브 세계 지도
 
-- Three.js 도트 매트릭스 3D 지구본 (다크 테마, 자동 회전/드래그/줌)
+- Three.js 도트 매트릭스 3D 지구본 (라이트 아틀라스 테마, 국가별 6색 팔레트, 자동 회전/드래그/줌)
 - 국가 호버 시 하이라이트, 클릭 시 상세 패널 오픈
 - 줌 인/아웃 컨트롤
 

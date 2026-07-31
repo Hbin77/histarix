@@ -21,31 +21,31 @@ function getEraKey(year: number | undefined): EraKey {
 }
 
 const ERA_COLORS: Record<EraKey, string> = {
-  ancient: "#f59e0b",
-  classical: "#ef4444",
-  medieval: "#8b5cf6",
-  earlyModern: "#06b6d4",
-  modern: "#3b82f6",
-  contemporary: "#10b981",
-  other: "#6b7280",
+  ancient: "var(--globe-cat-2)",
+  classical: "var(--globe-cat-4)",
+  medieval: "var(--globe-cat-6)",
+  earlyModern: "var(--globe-cat-3)",
+  modern: "var(--globe-cat-1)",
+  contemporary: "var(--globe-cat-5)",
+  other: "var(--on-surface-variant)",
 };
 
 export function CountryHistory({ history }: CountryHistoryProps) {
   const { t } = useI18n();
 
   if (!history) {
-    return <p className="text-sm text-[#6e7588]">{t("loadingHistory")}</p>;
+    return <p className="text-sm text-[var(--on-surface-variant)]">{t("loadingHistory")}</p>;
   }
 
   const events = history.events || [];
   if (events.length === 0) {
     return (
       <div className="flex flex-col items-center justify-center py-12 text-center">
-        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#414859" strokeWidth="1.5" className="mb-4">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="mb-4 text-[var(--outline)]">
           <circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>
         </svg>
-        <p className="text-sm text-[#6e7588]">{t("noHistory")}</p>
-        <p className="text-xs text-[#414859] mt-1">{t("comingSoon")}</p>
+        <p className="text-sm text-[var(--on-surface-variant)]">{t("noHistory")}</p>
+        <p className="text-xs text-[var(--on-surface-variant)] mt-1">{t("comingSoon")}</p>
       </div>
     );
   }
@@ -62,14 +62,14 @@ export function CountryHistory({ history }: CountryHistoryProps) {
     <div className="space-y-8">
       {/* Summary */}
       {history.summary && (
-        <div className="rounded-xl bg-gradient-to-br from-[#161f33] to-[#0b1323] p-5">
-          <p className="text-sm leading-relaxed text-[#a4abbf]">{history.summary}</p>
+        <div className="rounded-xl bg-gradient-to-br from-[var(--surface-container-high)] to-[var(--surface-container-low)] ring-1 ring-[var(--outline-variant)]/60 p-5">
+          <p className="text-sm leading-relaxed text-[var(--on-surface-variant)]">{history.summary}</p>
           {history.wikipedia_url && (
             <a
               href={history.wikipedia_url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block mt-3 text-xs text-[#85adff] hover:underline"
+              className="inline-block mt-3 text-xs text-[var(--primary)] hover:underline"
             >
               {t("viewOnWikipedia")}
             </a>
@@ -92,22 +92,22 @@ export function CountryHistory({ history }: CountryHistoryProps) {
             >
               {t(era)}
             </h4>
-            <div className="flex-1 h-px bg-[#1b263b]" />
+            <div className="flex-1 h-px bg-[var(--outline-variant)]" />
           </div>
 
           {/* Events */}
-          <div className="relative ml-1 border-l border-[#1b263b] pl-6 space-y-4">
+          <div className="relative ml-1 border-l border-[var(--outline-variant)] pl-6 space-y-4">
             {eraEvents.map((event, idx) => (
               <div
                 key={idx}
-                className="group relative rounded-lg bg-[#161f33]/50 p-4 transition-all duration-200 hover:bg-[#1b263b] hover:scale-[1.01] hover:shadow-lg hover:shadow-black/20"
+                className="group relative rounded-lg bg-[var(--surface-container-high)]/50 p-4 transition-all duration-200 hover:bg-[var(--surface-container-highest)] hover:scale-[1.01] hover:shadow-[0_8px_24px_rgba(27,37,64,0.10)]"
               >
                 {/* Timeline dot */}
                 <div
                   className="absolute -left-[29px] top-5 h-3 w-3 rounded-full border-2"
                   style={{
                     borderColor: ERA_COLORS[era],
-                    backgroundColor: "#0b1323",
+                    backgroundColor: "var(--surface-container-low)",
                   }}
                 />
 
@@ -116,25 +116,25 @@ export function CountryHistory({ history }: CountryHistoryProps) {
                   <span
                     className="inline-block rounded-md px-2 py-0.5 text-[11px] font-bold tabular-nums"
                     style={{
-                      backgroundColor: ERA_COLORS[era] + "20",
+                      backgroundColor: `color-mix(in srgb, ${ERA_COLORS[era]} 12%, transparent)`,
                       color: ERA_COLORS[era],
                     }}
                   >
                     {event.year != null ? formatYear(event.year) : event.date || ""}
                   </span>
                   {event.category && (
-                    <span className="text-[10px] text-[#6e7588]">{event.category}</span>
+                    <span className="text-[10px] text-[var(--on-surface-variant)]">{event.category}</span>
                   )}
                 </div>
 
                 {/* Title */}
-                <h5 className="text-sm font-semibold text-[#dfe5fa] leading-snug">
+                <h5 className="text-sm font-semibold text-[var(--on-surface)] leading-snug">
                   {event.title || event.label}
                 </h5>
 
                 {/* Description */}
                 {event.description && (
-                  <p className="mt-1.5 text-xs leading-relaxed text-[#a4abbf] group-hover:text-[#dfe5fa]/80 transition-colors">
+                  <p className="mt-1.5 text-xs leading-relaxed text-[var(--on-surface-variant)] group-hover:text-[var(--on-surface)]/80 transition-colors">
                     {event.description}
                   </p>
                 )}
@@ -146,7 +146,7 @@ export function CountryHistory({ history }: CountryHistoryProps) {
 
       {/* Footer */}
       <div className="text-center pt-4">
-        <p className="text-[10px] text-[#414859]">
+        <p className="text-[10px] text-[var(--on-surface-variant)]">
           {events.length} {t("totalEvents")}
         </p>
       </div>

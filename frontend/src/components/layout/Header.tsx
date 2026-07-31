@@ -11,11 +11,11 @@ interface HeaderProps {
 
 export function Header({ onCountrySelect }: HeaderProps) {
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 flex h-14 items-center justify-between px-3 md:px-6 bg-[#1b263b]/60 backdrop-blur-[12px]">
+    <header className="fixed top-0 left-0 right-0 z-50 flex h-14 items-center justify-between px-3 md:px-6 bg-[var(--surface-container)]/80 backdrop-blur-[12px] ring-1 ring-[var(--outline-variant)]/60">
       <Link href="/" className="flex items-center gap-2">
-        <Image src="/logo.png" alt="Histarix" width={28} height={28} />
-        <span className="hidden sm:inline text-xl font-bold tracking-tight text-[#dfe5fa]" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
-          Histar<span className="text-[#85adff]">ix</span>
+        <Image src="/logo.png" alt="Histarix" width={28} height={28} className="[filter:saturate(1.5)_brightness(0.85)]" />
+        <span className="hidden sm:inline text-xl font-bold tracking-tight text-[var(--on-surface)]" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
+          Histar<span className="text-[var(--primary)]">ix</span>
         </span>
       </Link>
 

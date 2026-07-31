@@ -14,9 +14,9 @@ export function OnThisDay() {
       {/* Header - always visible */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="flex w-full items-center justify-between rounded-t-xl bg-[#11192b]/90 px-4 py-3 backdrop-blur-[12px] transition hover:bg-[#161f33]"
+        className="flex w-full items-center justify-between rounded-t-xl bg-[var(--surface-container)]/90 px-4 py-3 backdrop-blur-[12px] ring-1 ring-[var(--outline-variant)]/60 transition hover:bg-[var(--surface-container-high)]"
       >
-        <span className="text-sm font-semibold text-[#dfe5fa]">
+        <span className="text-sm font-semibold text-[var(--on-surface)]">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="shrink-0"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
           <span>{t("onThisDay")}</span>
         </span>
@@ -27,7 +27,7 @@ export function OnThisDay() {
           fill="none"
           stroke="currentColor"
           strokeWidth="2"
-          className={`text-[#a4abbf] transition-transform ${isOpen ? "rotate-180" : ""}`}
+          className={`text-[var(--on-surface-variant)] transition-transform ${isOpen ? "rotate-180" : ""}`}
         >
           <path d="M2 4l4 4 4-4" />
         </svg>
@@ -35,8 +35,8 @@ export function OnThisDay() {
 
       {/* Content */}
       <div
-        className={`overflow-hidden rounded-b-xl bg-[#11192b]/90 backdrop-blur-[12px] transition-all duration-300 ${
-          isOpen ? "max-h-80" : "max-h-0"
+        className={`overflow-hidden rounded-b-xl bg-[var(--surface-container)]/90 backdrop-blur-[12px] transition-all duration-300 ${
+          isOpen ? "max-h-80 ring-1 ring-[var(--outline-variant)]/60" : "max-h-0"
         }`}
       >
         <div className="max-h-72 overflow-y-auto px-4 py-3 space-y-3">
@@ -44,23 +44,23 @@ export function OnThisDay() {
             <div className="space-y-3 animate-pulse">
               {[1, 2, 3].map((i) => (
                 <div key={i} className="space-y-1">
-                  <div className="h-3 w-16 rounded bg-[#161f33]" />
-                  <div className="h-3 w-full rounded bg-[#161f33]" />
+                  <div className="h-3 w-16 rounded bg-[var(--surface-container-high)]" />
+                  <div className="h-3 w-full rounded bg-[var(--surface-container-high)]" />
                 </div>
               ))}
             </div>
           )}
 
           {error && (
-            <p className="text-xs text-[#ff716c]">{t("loadError")}</p>
+            <p className="text-xs text-[var(--error)]">{t("loadError")}</p>
           )}
 
           {!loading && !error && events.length === 0 && (
             <div className="flex flex-col items-center gap-2 py-4">
-              <p className="text-xs text-[#a4abbf]">{t("loadingData")}</p>
+              <p className="text-xs text-[var(--on-surface-variant)]">{t("loadingData")}</p>
               <button
                 onClick={() => window.location.reload()}
-                className="rounded-md bg-[#85adff]/15 px-3 py-1.5 text-xs font-medium text-[#85adff] transition hover:bg-[#85adff]/25"
+                className="rounded-md bg-[var(--primary)]/15 px-3 py-1.5 text-xs font-medium text-[var(--primary)] transition hover:bg-[var(--primary)]/25"
               >
                 {t("retry")}
               </button>
@@ -70,11 +70,11 @@ export function OnThisDay() {
           {events.map((event, idx) => (
             <div key={idx} className="group">
               <div className="flex items-center gap-2">
-                <span className="inline-block rounded bg-[#85adff]/20 px-1.5 py-0.5 text-[10px] font-bold text-[#85adff] tabular-nums">
+                <span className="inline-block rounded bg-[var(--primary)]/10 px-1.5 py-0.5 text-[10px] font-bold text-[var(--primary)] tabular-nums">
                   {event.year}
                 </span>
               </div>
-              <p className="mt-1 text-xs leading-relaxed text-[#a4abbf] group-hover:text-[#dfe5fa] transition">
+              <p className="mt-1 text-xs leading-relaxed text-[var(--on-surface-variant)] group-hover:text-[var(--on-surface)] transition">
                 {event.text || event.title || ""}
               </p>
               {event.wikipedia_url && (
@@ -82,7 +82,7 @@ export function OnThisDay() {
                   href={event.wikipedia_url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-[10px] text-[#85adff]/60 hover:text-[#85adff]"
+                  className="text-[10px] text-[var(--primary)] hover:text-[var(--primary-container)]"
                 >
                   {t("readMore")}
                 </a>

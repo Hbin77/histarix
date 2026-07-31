@@ -32,9 +32,9 @@ export function CountryPanel({ selectedCountry, onClose }: CountryPanelProps) {
 
   return (
     <div
-      className={`fixed z-40 bg-[#0b1323]/95 backdrop-blur-xl transition-transform duration-300 ease-out overflow-hidden
+      className={`fixed z-40 border-t border-[var(--outline-variant)] bg-[var(--surface-container)]/90 shadow-[0_16px_40px_rgba(27,37,64,0.16)] backdrop-blur-xl transition-transform duration-300 ease-out overflow-hidden
         inset-x-0 bottom-0 h-[60vh] rounded-t-2xl
-        lg:inset-x-auto lg:h-auto lg:top-14 lg:right-0 lg:bottom-20 lg:w-[420px] lg:rounded-none
+        lg:inset-x-auto lg:h-auto lg:top-14 lg:right-0 lg:bottom-20 lg:w-[420px] lg:rounded-none lg:border-t-0 lg:border-l
         ${isOpen
           ? "translate-y-0 lg:translate-y-0 lg:translate-x-0"
           : "translate-y-full lg:translate-y-0 lg:translate-x-full"
@@ -42,17 +42,17 @@ export function CountryPanel({ selectedCountry, onClose }: CountryPanelProps) {
     >
       {/* Mobile drag handle */}
       <div className="flex justify-center py-2 lg:hidden">
-        <div className="h-1 w-10 rounded-full bg-[#414859]" />
+        <div className="h-1 w-10 rounded-full bg-[var(--outline)]" />
       </div>
 
       {/* Header */}
-      <div className="flex items-center justify-between border-b border-[#414859] px-5 py-4">
-        <h2 className="text-lg font-semibold text-[#dfe5fa]">
+      <div className="flex items-center justify-between border-b border-[var(--outline-variant)] px-5 py-4">
+        <h2 className="text-lg font-semibold text-[var(--on-surface)]">
           {selectedCountry?.name ?? ""}
         </h2>
         <button
           onClick={onClose}
-          className="flex h-8 w-8 items-center justify-center rounded-lg text-[#a4abbf] transition hover:bg-[#161f33] hover:text-[#dfe5fa]"
+          className="flex h-8 w-8 items-center justify-center rounded-lg text-[var(--on-surface-variant)] transition hover:bg-[var(--surface-container-high)] hover:text-[var(--on-surface)]"
         >
           <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="2">
             <path d="M1 1l12 12M13 1L1 13" />
@@ -61,15 +61,15 @@ export function CountryPanel({ selectedCountry, onClose }: CountryPanelProps) {
       </div>
 
       {/* Tabs */}
-      <div className="flex border-b border-[#414859]">
+      <div className="flex border-b border-[var(--outline-variant)]">
         {tabs.map((tab) => (
           <button
             key={tab.id}
             onClick={() => setActiveTab(tab.id)}
             className={`flex-1 py-3 text-sm font-medium transition ${
               activeTab === tab.id
-                ? "text-[#85adff] border-b-2 border-[#85adff]"
-                : "text-[#a4abbf] hover:text-[#dfe5fa]"
+                ? "text-[var(--primary)] border-b-2 border-[var(--primary)]"
+                : "text-[var(--on-surface-variant)] hover:text-[var(--on-surface)]"
             }`}
           >
             {tab.label}
@@ -78,10 +78,10 @@ export function CountryPanel({ selectedCountry, onClose }: CountryPanelProps) {
       </div>
 
       {/* Content */}
-      <div className="h-full overflow-y-auto px-5 py-4 pb-24 text-[#dfe5fa]">
+      <div className="h-full overflow-y-auto px-5 py-4 pb-24 text-[var(--on-surface)]">
         {loading && <PanelSkeleton />}
         {error && (
-          <div className="rounded-lg bg-red-500/10 p-4 text-sm text-red-400">
+          <div className="rounded-lg bg-[var(--error)]/10 p-4 text-sm text-[var(--error)]">
             {error}
           </div>
         )}
@@ -102,13 +102,13 @@ export function CountryPanel({ selectedCountry, onClose }: CountryPanelProps) {
 function PanelSkeleton() {
   return (
     <div className="space-y-4 animate-pulse">
-      <div className="h-8 w-32 rounded bg-[#161f33]" />
-      <div className="h-4 w-full rounded bg-[#161f33]" />
-      <div className="h-4 w-3/4 rounded bg-[#161f33]" />
-      <div className="h-4 w-5/6 rounded bg-[#161f33]" />
-      <div className="h-32 w-full rounded-lg bg-[#161f33]" />
-      <div className="h-4 w-2/3 rounded bg-[#161f33]" />
-      <div className="h-4 w-full rounded bg-[#161f33]" />
+      <div className="h-8 w-32 rounded bg-[var(--surface-container-high)]" />
+      <div className="h-4 w-full rounded bg-[var(--surface-container-high)]" />
+      <div className="h-4 w-3/4 rounded bg-[var(--surface-container-high)]" />
+      <div className="h-4 w-5/6 rounded bg-[var(--surface-container-high)]" />
+      <div className="h-32 w-full rounded-lg bg-[var(--surface-container-high)]" />
+      <div className="h-4 w-2/3 rounded bg-[var(--surface-container-high)]" />
+      <div className="h-4 w-full rounded bg-[var(--surface-container-high)]" />
     </div>
   );
 }

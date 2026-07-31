@@ -57,7 +57,7 @@ const FOCUS_DIST = 1.85;
 const MIN_DIST = 1.35;
 const MAX_DIST = 4.6;
 const AUTO_ROTATE_SPEED = 0.045; // rad/s
-const DOT_ROWS = 220;
+const DOT_ROWS = 245;
 
 const DEG = Math.PI / 180;
 
@@ -235,6 +235,126 @@ function buildGraticule(radius: number): Float32Array {
 const easeInOutCubic = (t: number) =>
   t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
 
+// ── country palette assignment ──────────────────────────────────────────────
+
+const PALETTE_SLOTS = 6;
+
+/**
+ * Worst-case pair distinguishability of the 6 palette slots: min ΔE (OKLab
+ * ×100) across normal/deutan/protan/tritan vision. Precomputed offline with
+ * the dataviz palette validator's math; used so the assigner steers real
+ * neighbors toward the most distinguishable pairs (weak: amber↔green 2.9).
+ */
+const PAIR_DIST = [
+  [0, 22.5, 6.8, 14, 9, 6.9],
+  [22.5, 0, 11.3, 8.9, 2.9, 20.5],
+  [6.8, 11.3, 0, 6.3, 8.5, 15.9],
+  [14, 8.9, 6.3, 0, 10.4, 13.6],
+  [9, 2.9, 8.5, 10.4, 0, 12.4],
+  [6.9, 20.5, 15.9, 13.6, 12.4, 0],
+];
+
+/**
+ * Countries sharing a border share ring vertices verbatim (both trace the
+ * same TopoJSON arcs). Two or more shared vertices = a shared edge, not a
+ * corner touch.
+ */
+function buildAdjacency(indexed: IndexedCountry[]): Set<number>[] {
+  const vertexOwners = new Map<string, number[]>();
+  indexed.forEach((country, fi) => {
+    const seen = new Set<string>();
+    for (const polygon of country.feature.polygons) {
+      for (const ring of polygon) {
+        for (const [lng, lat] of ring) {
+          const key = lng + "," + lat;
+          if (seen.has(key)) continue;
+          seen.add(key);
+          let owners = vertexOwners.get(key);
+          if (!owners) vertexOwners.set(key, (owners = []));
+          owners.push(fi);
+        }
+      }
+    }
+  });
+  const sharedCount = new Map<number, number>();
+  for (const owners of vertexOwners.values()) {
+    if (owners.length < 2) continue;
+    for (let a = 0; a < owners.length; a++) {
+      for (let b = a + 1; b < owners.length; b++) {
+        const key = owners[a] * 1000 + owners[b];
+        sharedCount.set(key, (sharedCount.get(key) ?? 0) + 1);
+      }
+    }
+  }
+  const adjacency = indexed.map(() => new Set<number>());
+  for (const [key, count] of sharedCount) {
+    if (count < 2) continue;
+    const a = Math.floor(key / 1000);
+    const b = key % 1000;
+    adjacency[a].add(b);
+    adjacency[b].add(a);
+  }
+  return adjacency;
+}
+
+/**
+ * Greedy graph coloring, highest-degree first. Neighbors never share a slot
+ * unless a country has all six slots among its already-colored neighbors;
+ * ties resolve toward the slot most distinguishable from every neighbor.
+ */
+function assignSlots(indexed: IndexedCountry[], adjacency: Set<number>[]): number[] {
+  const order = indexed
+    .map((_, i) => i)
+    .sort((a, b) => adjacency[b].size - adjacency[a].size);
+  const slot = new Array<number>(indexed.length).fill(-1);
+  for (const fi of order) {
+    const neighborSlots = [...adjacency[fi]]
+      .map((n) => slot[n])
+      .filter((s) => s >= 0);
+    let best = fi % PALETTE_SLOTS;
+    let bestScore = -1;
+    for (let s = 0; s < PALETTE_SLOTS; s++) {
+      const collides = neighborSlots.includes(s);
+      const minDist = neighborSlots.length
+        ? Math.min(...neighborSlots.map((ns) => PAIR_DIST[s][ns]))
+        : PAIR_DIST[s][(s + 3) % PALETTE_SLOTS];
+      const score = (collides ? 0 : 1000) + minDist;
+      if (score > bestScore) {
+        bestScore = score;
+        best = s;
+      }
+    }
+    slot[fi] = best;
+  }
+  return slot;
+}
+
+interface SlotColors {
+  base: Color[];
+  hover: Color[];
+  selected: Color[];
+  dimmed: Color[];
+}
+
+/** Hover/selected are HSL derivations of the slot color (MASTER.md §2). */
+function deriveSlotColors(baseColors: Color[], ocean: Color): SlotColors {
+  const hsl = { h: 0, s: 0, l: 0 };
+  const derive = (c: Color, ds: number, dl: number) => {
+    c.getHSL(hsl);
+    return new Color().setHSL(
+      hsl.h,
+      Math.min(1, hsl.s + ds),
+      Math.max(0, hsl.l + dl)
+    );
+  };
+  return {
+    base: baseColors,
+    hover: baseColors.map((c) => derive(c, 0.05, -0.1)),
+    selected: baseColors.map((c) => derive(c, 0.08, -0.17)),
+    dimmed: baseColors.map((c) => c.clone().lerp(ocean, 0.42)),
+  };
+}
+
 interface Flight {
   t0: number;
   dur: number;
@@ -284,7 +404,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       indexed: IndexedCountry[] | null;
       dots: DotField | null;
       dotGeometry: BufferGeometry | null;
-      colors: { base: Color; hover: Color; selected: Color } | null;
+      slots: number[] | null;
+      slotColors: SlotColors | null;
       reducedMotion: boolean;
       /** selection requested before the scene/data was ready */
       pendingIso: string | null;
@@ -302,7 +423,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       indexed: null,
       dots: null,
       dotGeometry: null,
-      colors: null,
+      slots: null,
+      slotColors: null,
       reducedMotion: false,
       pendingIso: null,
       applyExternalSelection: null,
@@ -392,17 +514,13 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
 
       // --- design tokens → materials
       const ocean = tokenColor("--globe-ocean");
-      const dotBase = tokenColor("--globe-dot");
-      const dotHover = tokenColor("--globe-dot-hover");
-      const dotSelected = tokenColor("--globe-dot-selected");
+      const paletteBase = Array.from({ length: PALETTE_SLOTS }, (_, i) =>
+        tokenColor(`--globe-cat-${i + 1}`).color
+      );
       const outline = tokenColor("--globe-outline");
       const graticule = tokenColor("--globe-graticule");
       const atmosphere = tokenColor("--globe-atmosphere");
-      w.colors = {
-        base: dotBase.color,
-        hover: dotHover.color,
-        selected: dotSelected.color,
-      };
+      w.slotColors = deriveSlotColors(paletteBase, ocean.color);
 
       const oceanGeometry = new SphereGeometry(RADIUS, 64, 64);
       const oceanMaterial = new MeshBasicMaterial({ color: ocean.color });
@@ -436,22 +554,31 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       disposables.push(graticuleGeometry, graticuleMaterial);
 
       // --- dot colors
-      const paintCountry = (fi: number, color: Color) => {
+      // One state-aware pass over the whole color buffer (~17k dots, cheap).
+      // Selection dims every other country toward the ocean for focus.
+      const repaint = () => {
         const dots = w.dots;
         const geometry = w.dotGeometry;
-        if (!dots || !geometry) return;
-        const list = dots.byCountry.get(fi);
-        if (!list) return;
-        for (const di of list) {
-          dots.colors[di * 3] = color.r;
-          dots.colors[di * 3 + 1] = color.g;
-          dots.colors[di * 3 + 2] = color.b;
+        const slots = w.slots;
+        const sc = w.slotColors;
+        if (!dots || !geometry || !slots || !sc) return;
+        for (const [fi, list] of dots.byCountry) {
+          const slot = slots[fi];
+          const color =
+            fi === w.selectedFi
+              ? sc.selected[slot]
+              : fi === w.hoveredFi
+                ? sc.hover[slot]
+                : w.selectedFi !== null
+                  ? sc.dimmed[slot]
+                  : sc.base[slot];
+          for (const di of list) {
+            dots.colors[di * 3] = color.r;
+            dots.colors[di * 3 + 1] = color.g;
+            dots.colors[di * 3 + 2] = color.b;
+          }
         }
         (geometry.getAttribute("color") as BufferAttribute).needsUpdate = true;
-      };
-      const restoreCountry = (fi: number) => {
-        if (!w.colors) return;
-        paintCountry(fi, fi === w.selectedFi ? w.colors.selected : w.colors.base);
       };
 
       // --- selection
@@ -462,12 +589,9 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         }
         w.cardAnchor = null;
         setCard(null);
-        if (w.selectedFi !== null) {
-          const prev = w.selectedFi;
-          w.selectedFi = null;
-          restoreCountry(prev);
-        }
+        w.selectedFi = null;
         w.selectedIso = null;
+        repaint();
       };
 
       const showLandmark = (iso: string, lat: number, lng: number) => {
@@ -506,7 +630,7 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         clearSelection();
         w.selectedFi = fi;
         w.selectedIso = country.feature.iso;
-        paintCountry(fi, w.colors!.selected);
+        repaint();
         setIsImmersive(true);
         startFlight(-lng * DEG, lat * DEG, FOCUS_DIST, 1600);
         if (country.feature.iso) {
@@ -579,9 +703,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
 
       const setHover = (fi: number | null) => {
         if (fi === w.hoveredFi) return;
-        if (w.hoveredFi !== null) restoreCountry(w.hoveredFi);
         w.hoveredFi = fi;
-        if (fi !== null && fi !== w.selectedFi) paintCountry(fi, w.colors!.hover);
+        repaint();
         renderer.domElement.style.cursor = fi !== null ? "pointer" : "grab";
         hoverHold = fi !== null ? 1 : 0;
       };
@@ -687,20 +810,17 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
           const indexed = indexCountries(geo);
           w.indexed = indexed;
 
+          w.slots = assignSlots(indexed, buildAdjacency(indexed));
+
           const dots = buildDots(indexed);
           w.dots = dots;
-          for (let i = 0; i < dots.count; i++) {
-            dots.colors[i * 3] = dotBase.color.r;
-            dots.colors[i * 3 + 1] = dotBase.color.g;
-            dots.colors[i * 3 + 2] = dotBase.color.b;
-          }
           const dotGeometry = new BufferGeometry();
           dotGeometry.setAttribute("position", new BufferAttribute(dots.positions, 3));
           dotGeometry.setAttribute("color", new BufferAttribute(dots.colors, 3));
           w.dotGeometry = dotGeometry;
           const dotTexture = circleSprite();
           const dotMaterial = new PointsMaterial({
-            size: 0.0115,
+            size: 0.016,
             vertexColors: true,
             map: dotTexture,
             transparent: true,
@@ -709,6 +829,7 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
           });
           group.add(new Points(dotGeometry, dotMaterial));
           disposables.push(dotGeometry, dotMaterial, dotTexture);
+          repaint(); // initial per-country palette pass
 
           const borderGeometry = new BufferGeometry();
           borderGeometry.setAttribute(
@@ -819,7 +940,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         w.indexed = null;
         w.dots = null;
         w.dotGeometry = null;
-        w.colors = null;
+        w.slots = null;
+        w.slotColors = null;
         w.flight = null;
         w.selectedFi = null;
         w.selectedIso = null;
