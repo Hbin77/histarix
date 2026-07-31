@@ -12,7 +12,9 @@ import {
   BufferGeometry,
   CanvasTexture,
   Color,
+  DirectionalLight,
   Group,
+  HemisphereLight,
   LineBasicMaterial,
   LineSegments,
   Mesh,
@@ -32,6 +34,12 @@ import {
 } from "three";
 import type { SelectedCountry } from "@/types/map";
 import { COUNTRY_LANDMARKS, type CountryLandmark } from "@/data/landmarks";
+import {
+  disposeModel,
+  hasLandmarkModel,
+  loadLandmarkModel,
+  placeOnGlobe,
+} from "@/lib/landmark3d";
 import {
   countryIndexAt,
   indexCountries,
@@ -364,12 +372,16 @@ interface Flight {
   toPitch: number;
   fromDist: number;
   toDist: number;
+  fromTilt: number;
+  toTilt: number;
   onDone?: () => void;
 }
 
 interface LandmarkCard {
   landmark: CountryLandmark;
   thumb: string | null;
+  /** true when a 3D model replaces the photo (PoC) */
+  hidePhoto?: boolean;
 }
 
 type Status = "loading" | "ready" | "error";
@@ -395,6 +407,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       yaw: number;
       pitch: number;
       dist: number;
+      /** camera tilt below the equator plane (rad) — oblique 3D-landmark view */
+      camTilt: number;
       flight: Flight | null;
       selectedFi: number | null;
       selectedIso: string | null;
@@ -410,10 +424,13 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       /** selection requested before the scene/data was ready */
       pendingIso: string | null;
       applyExternalSelection: ((iso: string | null) => void) | null;
+      /** zoom the landmark orbit rig; returns false when the rig is idle */
+      adjustRigRange: ((factor: number) => boolean) | null;
     }>({
       yaw: -0.4,
       pitch: 0.45,
       dist: BASE_DIST,
+      camTilt: 0,
       flight: null,
       selectedFi: null,
       selectedIso: null,
@@ -428,6 +445,7 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       reducedMotion: false,
       pendingIso: null,
       applyExternalSelection: null,
+      adjustRigRange: null,
     });
 
     const startFlight = (
@@ -435,7 +453,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       toPitch: number,
       toDist: number,
       dur: number,
-      onDone?: () => void
+      onDone?: () => void,
+      toTilt?: number
     ) => {
       const w = world.current;
       const wrap = ((toYaw - w.yaw + Math.PI) % (2 * Math.PI)) - Math.PI;
@@ -448,6 +467,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         toPitch,
         fromDist: w.dist,
         toDist,
+        fromTilt: w.camTilt,
+        toTilt: toTilt ?? w.camTilt,
         onDone,
       };
     };
@@ -455,10 +476,12 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
     useImperativeHandle(ref, () => ({
       zoomIn: () => {
         const w = world.current;
+        if (w.adjustRigRange?.(1 / 1.35)) return;
         startFlight(w.yaw, w.pitch, Math.max(MIN_DIST, w.dist / 1.35), 350);
       },
       zoomOut: () => {
         const w = world.current;
+        if (w.adjustRigRange?.(1.35)) return;
         startFlight(w.yaw, w.pitch, Math.min(MAX_DIST, w.dist * 1.35), 350);
       },
     }));
@@ -540,6 +563,40 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       scene.add(atmoSprite);
       disposables.push(atmoTexture, atmoMaterial);
 
+      // Lights only affect the (Lambert) landmark models — the globe's
+      // Basic materials ignore them.
+      scene.add(new HemisphereLight(0xffffff, 0xd5dae8, 1.15));
+      const sun = new DirectionalLight(0xffffff, 0.9);
+      sun.position.set(0.6, 1, 1.4);
+      scene.add(sun);
+
+      // --- PoC: procedural 3D landmark state (effect-scoped)
+      let model3d: Group | null = null;
+      let model3dStart = 0;
+      const MODEL_HEIGHT = 0.17;
+      let cardBelow = false;
+      // Google-Earth-style orbit rig: once the flight lands, the camera eases
+      // from the axis rig to an anchor-orbit view (35° elevation over the
+      // anchor's tangent plane) so upright monuments are seen obliquely.
+      // rigDir: +1 blending in, -1 blending out (model removed at 0).
+      let rigBlend = 0;
+      let rigDir = 0;
+      let rigRange = 0.85;
+      const RIG_ELEV = 35 * DEG;
+      const removeModel3d = () => {
+        if (!model3d) return;
+        group.remove(model3d);
+        disposeModel(model3d);
+        model3d = null;
+        rigBlend = 0;
+        rigDir = 0;
+      };
+      w.adjustRigRange = (factor: number) => {
+        if (!model3d || rigBlend <= 0) return false;
+        rigRange = Math.min(2.2, Math.max(0.35, rigRange * factor));
+        return true;
+      };
+
       const graticuleGeometry = new BufferGeometry();
       graticuleGeometry.setAttribute(
         "position",
@@ -589,6 +646,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         }
         w.cardAnchor = null;
         setCard(null);
+        if (model3d) rigDir = -1; // rig + model blend out in the frame loop
+        cardBelow = false;
         w.selectedFi = null;
         w.selectedIso = null;
         repaint();
@@ -614,8 +673,38 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
             w.cardTimer = setTimeout(() => {
               w.cardTimer = null;
               if (disposed || w.selectedIso !== iso) return;
-              w.cardAnchor = latLngToVec3(lat, lng, RADIUS * 1.01);
-              setCard({ landmark, thumb });
+              const anchor = latLngToVec3(landmark.lat, landmark.lng, RADIUS * 1.002);
+              if (hasLandmarkModel(iso)) {
+                // 3D monument at its real coordinates; card text sits below
+                loadLandmarkModel(iso)
+                  .then((model) => {
+                    if (!model) return;
+                    if (disposed || w.selectedIso !== iso) {
+                      disposeModel(model);
+                      return;
+                    }
+                    removeModel3d();
+                    model3d = model;
+                    placeOnGlobe(model3d, anchor, 0.001);
+                    group.add(model3d);
+                    model3dStart = performance.now();
+                    rigDir = 1;
+                    w.cardAnchor = anchor;
+                    cardBelow = true;
+                    setCard({ landmark, thumb, hidePhoto: true });
+                  })
+                  .catch(() => {
+                    // fall back to the photo card on any load failure
+                    if (disposed || w.selectedIso !== iso) return;
+                    w.cardAnchor = anchor;
+                    cardBelow = false;
+                    setCard({ landmark, thumb });
+                  });
+              } else {
+                w.cardAnchor = anchor;
+                cardBelow = false;
+                setCard({ landmark, thumb });
+              }
             }, 800);
           });
       };
@@ -632,7 +721,9 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         w.selectedIso = country.feature.iso;
         repaint();
         setIsImmersive(true);
-        startFlight(-lng * DEG, lat * DEG, FOCUS_DIST, 1600);
+        const has3d = hasLandmarkModel(country.feature.iso);
+        rigRange = 0.85;
+        startFlight(-lng * DEG, lat * DEG, has3d ? 2.2 : FOCUS_DIST, 1600);
         if (country.feature.iso) {
           if (notify) {
             onCountrySelectRef.current({
@@ -648,7 +739,7 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       const deselect = (notify: boolean) => {
         clearSelection();
         setIsImmersive(false);
-        startFlight(w.yaw, 0.45, BASE_DIST, 1400);
+        startFlight(w.yaw, 0.45, BASE_DIST, 1400, undefined, 0);
         if (notify) onDeselectRef.current();
       };
 
@@ -878,6 +969,7 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
           w.yaw = f.fromYaw + (f.toYaw - f.fromYaw) * e;
           w.pitch = f.fromPitch + (f.toPitch - f.fromPitch) * e;
           w.dist = f.fromDist + (f.toDist - f.fromDist) * e;
+          w.camTilt = f.fromTilt + (f.toTilt - f.fromTilt) * e;
           if (t >= 1) {
             w.flight = null;
             f.onDone?.();
@@ -890,18 +982,63 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         }
 
         group.rotation.set(w.pitch, w.yaw, 0);
-        camera.position.set(0, 0, w.dist);
+        camera.position.set(
+          0,
+          -Math.sin(w.camTilt) * w.dist,
+          Math.cos(w.camTilt) * w.dist
+        );
         camera.lookAt(0, 0, 0);
+
+        // blend to/from the anchor-orbit rig while a 3D landmark is on stage
+        if (model3d) {
+          const blendStep = w.reducedMotion ? 1 : dt;
+          if (rigDir > 0 && !w.flight) {
+            rigBlend = Math.min(1, rigBlend + blendStep * 1.6);
+          } else if (rigDir < 0) {
+            rigBlend -= blendStep * 2.2;
+            if (rigBlend <= 0) removeModel3d();
+          }
+        }
+        if (model3d && rigBlend > 0) {
+          const rigAnchor = model3d.position.clone().applyEuler(group.rotation);
+          const normal = rigAnchor.clone().normalize();
+          const north = new Vector3(0, 1, 0)
+            .addScaledVector(normal, -normal.y)
+            .normalize();
+          const orbitPos = rigAnchor
+            .clone()
+            .addScaledVector(normal, Math.sin(RIG_ELEV) * rigRange)
+            .addScaledVector(north, -Math.cos(RIG_ELEV) * rigRange);
+          const orbitTarget = rigAnchor
+            .clone()
+            .addScaledVector(normal, MODEL_HEIGHT * 0.45);
+          const e = easeInOutCubic(Math.max(0, Math.min(1, rigBlend)));
+          camera.position.lerp(orbitPos, e);
+          const target = new Vector3(0, 0, 0).lerp(orbitTarget, e);
+          camera.lookAt(target);
+        }
+
+        // 3D landmark emerge animation (scale up from the terrain)
+        if (model3d && model3dStart) {
+          const t = w.reducedMotion ? 1 : Math.min(1, (now - model3dStart) / 900);
+          const e = 1 - Math.pow(1 - t, 3);
+          model3d.scale.setScalar(Math.max(0.001, MODEL_HEIGHT * e));
+          if (t >= 1) model3dStart = 0;
+        }
 
         // landmark card follows its anchor point
         const cardEl = cardRef.current;
         if (cardEl && w.cardAnchor) {
           const v = w.cardAnchor.clone().applyEuler(group.rotation);
           const facing = v.z > 0.2;
+          // refresh matrixWorldInverse — the camera may have been repositioned
+          // by the orbit rig after the renderer last computed it
+          camera.updateMatrixWorld(true);
           v.project(camera);
           const x = ((v.x + 1) / 2) * container.clientWidth;
           const y = ((1 - v.y) / 2) * container.clientHeight;
-          cardEl.style.transform = `translate(${x}px, ${y}px) translate(-50%, -100%)`;
+          const anchorShift = cardBelow ? "translate(-50%, 16px)" : "translate(-50%, -100%)";
+          cardEl.style.transform = `translate(${x}px, ${y}px) ${anchorShift}`;
           cardEl.style.opacity = facing ? "1" : "0";
           cardEl.style.visibility = facing ? "visible" : "hidden";
         }
@@ -933,10 +1070,12 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         canvas.removeEventListener("pointercancel", onPointerUp);
         canvas.removeEventListener("pointerleave", onPointerLeave);
         canvas.removeEventListener("wheel", onWheel);
+        removeModel3d();
         for (const d of disposables) d.dispose();
         renderer.dispose();
         canvas.remove();
         w.applyExternalSelection = null;
+        w.adjustRigRange = null;
         w.indexed = null;
         w.dots = null;
         w.dotGeometry = null;
@@ -997,24 +1136,28 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         {card && (
           <div ref={cardRef} className="dot-globe-card">
             <div className="landmark-marker">
-              <div className="landmark-monument">
-                {card.thumb ? (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img
-                    src={card.thumb}
-                    alt={card.landmark.name}
-                    className="landmark-img"
-                    crossOrigin="anonymous"
-                  />
-                ) : (
-                  <div className="landmark-placeholder">
-                    {card.landmark.name[0]}
+              {!card.hidePhoto && (
+                <>
+                  <div className="landmark-monument">
+                    {card.thumb ? (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img
+                        src={card.thumb}
+                        alt={card.landmark.name}
+                        className="landmark-img"
+                        crossOrigin="anonymous"
+                      />
+                    ) : (
+                      <div className="landmark-placeholder">
+                        {card.landmark.name[0]}
+                      </div>
+                    )}
                   </div>
-                )}
-              </div>
-              <div className="landmark-base">
-                <div className="landmark-base-glow"></div>
-              </div>
+                  <div className="landmark-base">
+                    <div className="landmark-base-glow"></div>
+                  </div>
+                </>
+              )}
               <div className="landmark-info-card">
                 <div className="landmark-name">{card.landmark.name}</div>
                 <div className="landmark-tagline">{card.landmark.tagline}</div>
