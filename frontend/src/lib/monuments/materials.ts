@@ -27,6 +27,9 @@ export const TONES = {
   plaza: "#dfe5f0",
   snow: "#f5f4f0",
   forest: "#7a9367",
+  water: "#8fb4d4",
+  verdigris: "#6fa287",
+  domeBlue: "#4f7ea8",
 } as const;
 
 /** Standard grounding disc most monuments stand on (base at y=0). */
