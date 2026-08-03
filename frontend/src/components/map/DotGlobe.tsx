@@ -12,6 +12,7 @@ import {
   BufferGeometry,
   CanvasTexture,
   Color,
+  CylinderGeometry,
   DirectionalLight,
   Group,
   HemisphereLight,
@@ -20,8 +21,6 @@ import {
   Mesh,
   MeshBasicMaterial,
   PerspectiveCamera,
-  Points,
-  PointsMaterial,
   Raycaster,
   Scene,
   SphereGeometry,
@@ -34,6 +33,7 @@ import {
 } from "three";
 import type { SelectedCountry } from "@/types/map";
 import { COUNTRY_LANDMARKS, type CountryLandmark } from "@/data/landmarks";
+import { TONES } from "@/lib/monuments/materials";
 import {
   disposeModel,
   hasLandmarkModel,
@@ -65,7 +65,8 @@ const FOCUS_DIST = 1.85;
 const MIN_DIST = 1.35;
 const MAX_DIST = 4.6;
 const AUTO_ROTATE_SPEED = 0.045; // rad/s
-const DOT_ROWS = 245;
+const TEX_W = 4096;
+const TEX_H = 2048;
 
 const DEG = Math.PI / 180;
 
@@ -114,18 +115,6 @@ function tokenColor(name: string): { color: Color; alpha: number } {
   return { color: new Color(raw || "#ffffff"), alpha: 1 };
 }
 
-function circleSprite(): CanvasTexture {
-  const c = document.createElement("canvas");
-  c.width = c.height = 64;
-  const ctx = c.getContext("2d")!;
-  const g = ctx.createRadialGradient(32, 32, 0, 32, 32, 32);
-  g.addColorStop(0, "rgba(255,255,255,1)");
-  g.addColorStop(0.72, "rgba(255,255,255,1)");
-  g.addColorStop(1, "rgba(255,255,255,0)");
-  ctx.fillStyle = g;
-  ctx.fillRect(0, 0, 64, 64);
-  return new CanvasTexture(c);
-}
 
 function atmosphereSprite(core: { color: Color; alpha: number }): CanvasTexture {
   const c = document.createElement("canvas");
@@ -143,49 +132,6 @@ function atmosphereSprite(core: { color: Color; alpha: number }): CanvasTexture 
   ctx.fillStyle = g;
   ctx.fillRect(0, 0, 512, 512);
   return new CanvasTexture(c);
-}
-
-interface DotField {
-  positions: Float32Array;
-  colors: Float32Array;
-  /** dot indices per country feature index */
-  byCountry: Map<number, number[]>;
-  count: number;
-}
-
-/**
- * Sample an even-density dot grid over the sphere and tag each land dot with
- * its country via vector point-in-polygon — the same test used for click
- * picking, so dot highlights and picking can never disagree.
- */
-function buildDots(indexed: IndexedCountry[]): DotField {
-  const positions: number[] = [];
-  const byCountry = new Map<number, number[]>();
-  const dLat = 180 / DOT_ROWS;
-  for (let r = 0; r < DOT_ROWS; r++) {
-    const lat = -90 + (r + 0.5) * dLat;
-    const cols = Math.max(1, Math.round(2 * DOT_ROWS * Math.cos(lat * DEG)));
-    const dLng = 360 / cols;
-    const stagger = (r % 2) * 0.5 * dLng;
-    for (let c = 0; c < cols; c++) {
-      let lng = -180 + (c + 0.5) * dLng + stagger;
-      if (lng > 180) lng -= 360;
-      const fi = countryIndexAt(lng, lat, indexed);
-      if (fi < 0) continue; // ocean
-      const p = latLngToVec3(lat, lng, RADIUS * 1.004);
-      const dotIndex = positions.length / 3;
-      positions.push(p.x, p.y, p.z);
-      let list = byCountry.get(fi);
-      if (!list) byCountry.set(fi, (list = []));
-      list.push(dotIndex);
-    }
-  }
-  return {
-    positions: new Float32Array(positions),
-    colors: new Float32Array(positions.length),
-    byCountry,
-    count: positions.length / 3,
-  };
 }
 
 /** Subdivided border segments for every country ring, as line-segment pairs. */
@@ -342,6 +288,11 @@ interface SlotColors {
   hover: Color[];
   selected: Color[];
   dimmed: Color[];
+  /** same colors as CSS hex, for the canvas land painter */
+  baseHex: string[];
+  hoverHex: string[];
+  selectedHex: string[];
+  dimmedHex: string[];
 }
 
 /** Hover/selected are HSL derivations of the slot color (MASTER.md §2). */
@@ -355,11 +306,19 @@ function deriveSlotColors(baseColors: Color[], ocean: Color): SlotColors {
       Math.max(0, hsl.l + dl)
     );
   };
+  const hover = baseColors.map((c) => derive(c, 0.05, -0.08));
+  const selected = baseColors.map((c) => derive(c, 0.08, -0.14));
+  const dimmed = baseColors.map((c) => c.clone().lerp(ocean, 0.42));
+  const css = (c: Color) => "#" + c.getHexString();
   return {
     base: baseColors,
-    hover: baseColors.map((c) => derive(c, 0.05, -0.1)),
-    selected: baseColors.map((c) => derive(c, 0.08, -0.17)),
-    dimmed: baseColors.map((c) => c.clone().lerp(ocean, 0.42)),
+    hover,
+    selected,
+    dimmed,
+    baseHex: baseColors.map(css),
+    hoverHex: hover.map(css),
+    selectedHex: selected.map(css),
+    dimmedHex: dimmed.map(css),
   };
 }
 
@@ -416,8 +375,6 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       cardAnchor: Vector3 | null;
       cardTimer: ReturnType<typeof setTimeout> | null;
       indexed: IndexedCountry[] | null;
-      dots: DotField | null;
-      dotGeometry: BufferGeometry | null;
       slots: number[] | null;
       slotColors: SlotColors | null;
       reducedMotion: boolean;
@@ -438,8 +395,6 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       cardAnchor: null,
       cardTimer: null,
       indexed: null,
-      dots: null,
-      dotGeometry: null,
       slots: null,
       slotColors: null,
       reducedMotion: false,
@@ -545,11 +500,28 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       const atmosphere = tokenColor("--globe-atmosphere");
       w.slotColors = deriveSlotColors(paletteBase, ocean.color);
 
-      const oceanGeometry = new SphereGeometry(RADIUS, 64, 64);
-      const oceanMaterial = new MeshBasicMaterial({ color: ocean.color });
+      // Land is a canvas-painted equirect texture: countries as solid fills.
+      const landCanvas = document.createElement("canvas");
+      landCanvas.width = TEX_W;
+      landCanvas.height = TEX_H;
+      const landCtx = landCanvas.getContext("2d")!;
+      const oceanCss = "#" + ocean.color.getHexString();
+      landCtx.fillStyle = oceanCss;
+      landCtx.fillRect(0, 0, TEX_W, TEX_H);
+      const landTexture = new CanvasTexture(landCanvas);
+      landTexture.colorSpace = SRGBColorSpace;
+      landTexture.anisotropy = Math.min(
+        8,
+        renderer.capabilities.getMaxAnisotropy()
+      );
+
+      const oceanGeometry = new SphereGeometry(RADIUS, 96, 64);
+      const oceanMaterial = new MeshBasicMaterial({ map: landTexture });
       const oceanMesh = new Mesh(oceanGeometry, oceanMaterial);
+      // aligns the standard equirect texture with latLngToVec3's convention
+      oceanMesh.rotation.y = -Math.PI / 2;
       group.add(oceanMesh);
-      disposables.push(oceanGeometry, oceanMaterial);
+      disposables.push(oceanGeometry, oceanMaterial, landTexture);
 
       const atmoTexture = atmosphereSprite(atmosphere);
       const atmoMaterial = new SpriteMaterial({
@@ -573,7 +545,16 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       // --- PoC: procedural 3D landmark state (effect-scoped)
       let model3d: Group | null = null;
       let model3dStart = 0;
-      const MODEL_HEIGHT = 0.17;
+      let modelAnchor: Vector3 | null = null;
+      const MODEL_HEIGHT = 0.28;
+      const EMERGE_MS = 1200;
+      const BURIAL = MODEL_HEIGHT * 1.12;
+      // overshoot ease: the monument bursts slightly past ground level, then settles
+      const easeOutBack = (t: number) => {
+        const k = 2.4;
+        const u = t - 1;
+        return 1 + u * u * ((k + 1) * u + k);
+      };
       let cardBelow = false;
       // Google-Earth-style orbit rig: once the flight lands, the camera eases
       // from the axis rig to an anchor-orbit view (35° elevation over the
@@ -581,13 +562,14 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       // rigDir: +1 blending in, -1 blending out (model removed at 0).
       let rigBlend = 0;
       let rigDir = 0;
-      let rigRange = 0.85;
+      let rigRange = 0.95;
       const RIG_ELEV = 35 * DEG;
       const removeModel3d = () => {
         if (!model3d) return;
         group.remove(model3d);
         disposeModel(model3d);
         model3d = null;
+        modelAnchor = null;
         rigBlend = 0;
         rigDir = 0;
       };
@@ -613,29 +595,41 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       // --- dot colors
       // One state-aware pass over the whole color buffer (~17k dots, cheap).
       // Selection dims every other country toward the ocean for focus.
+      // One state-aware paint of the land texture: every country filled with
+      // its slot color (hover/selected derivations, dimmed while a selection
+      // focuses the globe). Repaints happen on state change only.
+      const px = (lng: number) => ((lng + 180) / 360) * TEX_W;
+      const py = (lat: number) => ((90 - lat) / 180) * TEX_H;
       const repaint = () => {
-        const dots = w.dots;
-        const geometry = w.dotGeometry;
         const slots = w.slots;
         const sc = w.slotColors;
-        if (!dots || !geometry || !slots || !sc) return;
-        for (const [fi, list] of dots.byCountry) {
+        const indexed = w.indexed;
+        if (!slots || !sc || !indexed) return;
+        landCtx.fillStyle = oceanCss;
+        landCtx.fillRect(0, 0, TEX_W, TEX_H);
+        indexed.forEach((country, fi) => {
           const slot = slots[fi];
-          const color =
+          landCtx.fillStyle =
             fi === w.selectedFi
-              ? sc.selected[slot]
+              ? sc.selectedHex[slot]
               : fi === w.hoveredFi
-                ? sc.hover[slot]
+                ? sc.hoverHex[slot]
                 : w.selectedFi !== null
-                  ? sc.dimmed[slot]
-                  : sc.base[slot];
-          for (const di of list) {
-            dots.colors[di * 3] = color.r;
-            dots.colors[di * 3 + 1] = color.g;
-            dots.colors[di * 3 + 2] = color.b;
+                  ? sc.dimmedHex[slot]
+                  : sc.baseHex[slot];
+          landCtx.beginPath();
+          for (const polygon of country.feature.polygons) {
+            for (const ring of polygon) {
+              ring.forEach(([lng, lat], i) => {
+                if (i === 0) landCtx.moveTo(px(lng), py(lat));
+                else landCtx.lineTo(px(lng), py(lat));
+              });
+              landCtx.closePath();
+            }
           }
-        }
-        (geometry.getAttribute("color") as BufferAttribute).needsUpdate = true;
+          landCtx.fill("evenodd");
+        });
+        landTexture.needsUpdate = true;
       };
 
       // --- selection
@@ -685,9 +679,43 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
                     }
                     removeModel3d();
                     model3d = model;
-                    placeOnGlobe(model3d, anchor, 0.001);
+                    const slots = w.slots;
+                    const sc = w.slotColors;
+                    if (slots && sc && w.selectedFi !== null) {
+                      const slot = slots[w.selectedFi];
+                      // ground skirt in the country's (selected) land color makes
+                      // the monument sit on its own soil instead of a grey disc
+                      const skirt = new Mesh(
+                        new CylinderGeometry(0.55, 0.62, 0.012, 48),
+                        new MeshBasicMaterial({ color: sc.selected[slot].clone() })
+                      );
+                      skirt.position.y = 0.005;
+                      model3d.add(skirt);
+                      // standard plaza discs re-tint toward the land color
+                      const plazaHex = new Color(TONES.plaza).getHexString();
+                      const plazaTint = sc.base[slot]
+                        .clone()
+                        .lerp(new Color(1, 1, 1), 0.42);
+                      model3d.traverse((child) => {
+                        if (
+                          child instanceof Mesh &&
+                          !Array.isArray(child.material) &&
+                          "color" in child.material &&
+                          (child.material.color as Color).getHexString() === plazaHex
+                        ) {
+                          (child.material.color as Color).copy(plazaTint);
+                        }
+                      });
+                    }
+                    placeOnGlobe(model3d, anchor, MODEL_HEIGHT);
+                    modelAnchor = anchor.clone();
+                    // start fully buried; the ocean sphere depth-hides it
+                    model3d.position.addScaledVector(
+                      anchor.clone().normalize(),
+                      -BURIAL
+                    );
                     group.add(model3d);
-                    model3dStart = performance.now();
+                    model3dStart = -1; // emerge begins once the flight lands
                     rigDir = 1;
                     w.cardAnchor = anchor;
                     cardBelow = true;
@@ -722,7 +750,7 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         repaint();
         setIsImmersive(true);
         const has3d = hasLandmarkModel(country.feature.iso);
-        rigRange = 0.85;
+        rigRange = 0.95;
         startFlight(-lng * DEG, lat * DEG, has3d ? 2.2 : FOCUS_DIST, 1600);
         if (country.feature.iso) {
           if (notify) {
@@ -903,24 +931,7 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
 
           w.slots = assignSlots(indexed, buildAdjacency(indexed));
 
-          const dots = buildDots(indexed);
-          w.dots = dots;
-          const dotGeometry = new BufferGeometry();
-          dotGeometry.setAttribute("position", new BufferAttribute(dots.positions, 3));
-          dotGeometry.setAttribute("color", new BufferAttribute(dots.colors, 3));
-          w.dotGeometry = dotGeometry;
-          const dotTexture = circleSprite();
-          const dotMaterial = new PointsMaterial({
-            size: 0.016,
-            vertexColors: true,
-            map: dotTexture,
-            transparent: true,
-            alphaTest: 0.35,
-            sizeAttenuation: true,
-          });
-          group.add(new Points(dotGeometry, dotMaterial));
-          disposables.push(dotGeometry, dotMaterial, dotTexture);
-          repaint(); // initial per-country palette pass
+repaint(); // initial land paint
 
           const borderGeometry = new BufferGeometry();
           borderGeometry.setAttribute(
@@ -999,8 +1010,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
             if (rigBlend <= 0) removeModel3d();
           }
         }
-        if (model3d && rigBlend > 0) {
-          const rigAnchor = model3d.position.clone().applyEuler(group.rotation);
+        if (model3d && modelAnchor && rigBlend > 0) {
+          const rigAnchor = modelAnchor.clone().applyEuler(group.rotation);
           const normal = rigAnchor.clone().normalize();
           const north = new Vector3(0, 1, 0)
             .addScaledVector(normal, -normal.y)
@@ -1018,12 +1029,21 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
           camera.lookAt(target);
         }
 
-        // 3D landmark emerge animation (scale up from the terrain)
-        if (model3d && model3dStart) {
-          const t = w.reducedMotion ? 1 : Math.min(1, (now - model3dStart) / 900);
-          const e = 1 - Math.pow(1 - t, 3);
-          model3d.scale.setScalar(Math.max(0.001, MODEL_HEIGHT * e));
-          if (t >= 1) model3dStart = 0;
+        // 3D landmark emerge: rises out of the terrain with a slight overshoot,
+        // starting only when the camera has landed so the burst is on stage
+        if (model3d && model3dStart === -1 && !w.flight) model3dStart = now;
+        if (model3d && model3dStart > 0 && modelAnchor) {
+          const t = w.reducedMotion
+            ? 1
+            : Math.min(1, (now - model3dStart) / EMERGE_MS);
+          const lift = BURIAL * (1 - easeOutBack(t));
+          model3d.position
+            .copy(modelAnchor)
+            .addScaledVector(modelAnchor.clone().normalize(), -lift);
+          if (t >= 1) {
+            model3d.position.copy(modelAnchor);
+            model3dStart = 0;
+          }
         }
 
         // landmark card follows its anchor point
@@ -1077,8 +1097,6 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         w.applyExternalSelection = null;
         w.adjustRigRange = null;
         w.indexed = null;
-        w.dots = null;
-        w.dotGeometry = null;
         w.slots = null;
         w.slotColors = null;
         w.flight = null;
