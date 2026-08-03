@@ -9,6 +9,7 @@ from app.database import async_session
 from app.models import HistoricalEvent as EventModel
 from app.schemas.country import CountryBasic, CountryInfo
 from app.schemas.history import CountryHistory, HistoricalEvent
+from app.services.history_dataset import get_dataset_events
 from app.services.rest_countries import get_country_by_code, search_countries
 from app.services.wikidata import get_country_events
 from app.services.wikipedia import get_country_summary
@@ -100,6 +101,13 @@ async def get_country_history(request: Request, iso_code: str, lang: str = Query
     client = request.app.state.http_client
 
     async def fetch() -> CountryHistory:
+        # Curated multilingual dataset is the primary source
+        dataset = get_dataset_events(code, lang)
+        if dataset:
+            return CountryHistory(
+                country_name=country_name, iso_code=code, events=dataset
+            )
+
         # Try DB first
         try:
             async with async_session() as db:
@@ -131,4 +139,4 @@ async def get_country_history(request: Request, iso_code: str, lang: str = Query
 
         return CountryHistory(country_name=country_name, iso_code=code, events=events)
 
-    return await cached_or_fetch("event", f"{code}:{lang}", fetch, EVENT_TTL)
+    return await cached_or_fetch("event2", f"{code}:{lang}", fetch, EVENT_TTL)

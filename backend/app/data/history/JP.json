@@ -1,0 +1,228 @@
+{
+  "events": [
+    {
+      "year": -3000,
+      "importance": 3,
+      "title": {
+        "en": "Flourishing of Jomon hunter-gatherer culture",
+        "ko": "조몬 문화의 번성",
+        "zh": "绳文文化的繁荣",
+        "ja": "縄文文化の繁栄"
+      },
+      "description": {
+        "en": "Jomon communities across the Japanese archipelago lived by hunting, fishing and gathering, producing cord-marked pottery that ranks among the oldest ceramic traditions in the world.",
+        "ko": "일본 열도 전역의 조몬인들은 수렵과 어로, 채집으로 생활하며 새끼줄 무늬 토기를 만들었다. 이는 세계에서 가장 오래된 토기 전통 가운데 하나로 꼽힌다.",
+        "zh": "绳文时代的居民遍布日本列岛,以狩猎、捕鱼和采集为生,制作绳纹陶器,这是世界上最古老的制陶传统之一。",
+        "ja": "日本列島各地の縄文人は狩猟・漁労・採集によって暮らし、縄目文様の土器を作った。これは世界最古級の土器文化のひとつとされる。"
+      }
+    },
+    {
+      "year": -300,
+      "importance": 2,
+      "title": {
+        "en": "Yayoi period: rice farming transforms Japan",
+        "ko": "야요이 시대: 벼농사가 바꾼 일본",
+        "zh": "弥生时代:稻作改变日本",
+        "ja": "弥生時代:稲作が変えた日本"
+      },
+      "description": {
+        "en": "Wet-rice agriculture, bronze and iron arrived from the Asian continent, spreading through the archipelago. Settled farming villages grew into chiefdoms, laying the social foundations of the later Japanese state.",
+        "ko": "대륙에서 벼농사와 청동기·철기가 전해져 열도 전역으로 퍼졌다. 정착 농경 마을이 소국으로 성장하며 훗날 일본 국가의 사회적 기반이 마련되었다.",
+        "zh": "水稻种植及青铜器、铁器自亚洲大陆传入并遍及列岛。定居的农耕村落逐渐发展为部落小国,为日后日本国家的形成奠定了社会基础。",
+        "ja": "大陸から水稲耕作と青銅器・鉄器が伝わり、列島全体に広がった。定住農耕の村々はやがて小国へと成長し、後の日本国家の社会的基盤が形づくられた。"
+      }
+    },
+    {
+      "year": 538,
+      "importance": 2,
+      "title": {
+        "en": "Introduction of Buddhism from Baekje",
+        "ko": "백제로부터의 불교 전래",
+        "zh": "佛教自百济传入日本",
+        "ja": "百済からの仏教伝来"
+      },
+      "description": {
+        "en": "Buddhism was officially transmitted to the Yamato court from the Korean kingdom of Baekje. Together with Chinese writing and statecraft, it reshaped Japanese religion, art and politics for centuries.",
+        "ko": "한반도의 백제로부터 야마토 조정에 불교가 공식 전래되었다. 한자와 대륙의 통치 제도와 함께 불교는 이후 수 세기 동안 일본의 종교와 예술, 정치를 바꾸어 놓았다.",
+        "zh": "佛教经朝鲜半岛的百济正式传入大和朝廷。它与汉字及大陆典章制度一道,在此后数百年间深刻改变了日本的宗教、艺术与政治。",
+        "ja": "朝鮮半島の百済から大和朝廷に仏教が公式に伝えられた。漢字や大陸の統治制度とともに、仏教はその後数世紀にわたり日本の宗教・芸術・政治を大きく変えた。"
+      }
+    },
+    {
+      "year": 710,
+      "importance": 2,
+      "title": {
+        "en": "Heijo-kyo: the Nara capital and the ritsuryo state",
+        "ko": "헤이조쿄 천도와 율령 국가",
+        "zh": "迁都平城京与律令国家",
+        "ja": "平城京遷都と律令国家"
+      },
+      "description": {
+        "en": "The court established a Chinese-style capital at Heijo-kyo (Nara), consolidating a centralized state under legal codes. The era produced the Great Buddha of Todai-ji and Japan's first chronicles.",
+        "ko": "조정이 당나라식 도성 헤이조쿄(나라)를 세우고 율령에 기초한 중앙집권 국가를 정비했다. 이 시대에 도다이지 대불이 조성되고 일본 최초의 역사서가 편찬되었다.",
+        "zh": "朝廷仿唐制营建都城平城京(奈良),依律令确立中央集权国家。这一时代铸造了东大寺大佛,并编纂了日本最早的史书。",
+        "ja": "朝廷は唐風の都・平城京(奈良)を造営し、律令に基づく中央集権国家を整えた。この時代に東大寺の大仏が造立され、日本最初の歴史書も編纂された。"
+      }
+    },
+    {
+      "year": 794,
+      "importance": 2,
+      "title": {
+        "en": "Heian-kyo and the age of courtly culture",
+        "ko": "헤이안쿄 천도와 귀족 문화의 시대",
+        "zh": "迁都平安京与贵族文化时代",
+        "ja": "平安京遷都と王朝文化の時代"
+      },
+      "description": {
+        "en": "Emperor Kammu moved the capital to Heian-kyo (Kyoto), opening four centuries of aristocratic rule. Court culture flowered, producing kana script and Murasaki Shikibu's Tale of Genji, often called the world's first novel.",
+        "ko": "간무 천황이 수도를 헤이안쿄(교토)로 옮기며 400년에 걸친 귀족 지배가 시작되었다. 가나 문자가 탄생하고 무라사키 시키부의 『겐지 이야기』 등 궁정 문화가 꽃피었다.",
+        "zh": "桓武天皇迁都平安京(京都),开启了长达四百年的贵族统治。宫廷文化繁荣,假名文字诞生,紫式部的《源氏物语》被誉为世界最早的长篇小说。",
+        "ja": "桓武天皇が都を平安京(京都)に移し、四百年に及ぶ貴族政治の時代が始まった。仮名文字が生まれ、紫式部の『源氏物語』に代表される王朝文化が花開いた。"
+      }
+    },
+    {
+      "year": 1192,
+      "importance": 1,
+      "title": {
+        "en": "Kamakura shogunate: the samurai take power",
+        "ko": "가마쿠라 막부 수립: 무사 정권의 등장",
+        "zh": "镰仓幕府建立:武士掌权",
+        "ja": "鎌倉幕府の成立:武士の政権"
+      },
+      "description": {
+        "en": "Minamoto no Yoritomo was appointed shogun, founding the Kamakura shogunate. Warrior government supplanted court rule, beginning nearly 700 years of samurai dominance in Japanese politics.",
+        "ko": "미나모토노 요리토모가 정이대장군에 임명되어 가마쿠라 막부를 열었다. 무사 정권이 조정을 대신해 실권을 잡으면서 약 700년에 걸친 무가 지배의 시대가 시작되었다.",
+        "zh": "源赖朝受封征夷大将军,开创镰仓幕府。武家政权取代朝廷掌握实权,日本由此进入长达近七百年的武士统治时代。",
+        "ja": "源頼朝が征夷大将軍に任じられ、鎌倉幕府を開いた。武家政権が朝廷に代わって実権を握り、約七百年に及ぶ武士支配の時代が始まった。"
+      }
+    },
+    {
+      "year": 1281,
+      "importance": 2,
+      "title": {
+        "en": "Mongol invasions repelled",
+        "ko": "몽골의 일본 원정 격퇴",
+        "zh": "击退元军两次入侵(元寇)",
+        "ja": "元寇:モンゴル襲来の撃退"
+      },
+      "description": {
+        "en": "Kublai Khan's fleets attacked Kyushu in 1274 and 1281, but samurai resistance and devastating typhoons destroyed both invasions. The 'divine winds' (kamikaze) became a lasting element of Japanese identity.",
+        "ko": "쿠빌라이 칸의 원정군이 1274년과 1281년 규슈를 침공했으나, 무사들의 항전과 거대한 태풍으로 두 차례 모두 실패했다. '신풍(가미카제)'은 이후 일본인의 정체성에 깊이 각인되었다.",
+        "zh": "忽必烈的舰队于1274年和1281年两度进攻九州,但在武士的抵抗和强烈台风的打击下均告失败。“神风”一词自此深深融入日本的民族记忆。",
+        "ja": "フビライ・ハンの軍船が1274年と1281年に九州へ襲来したが、武士の抗戦と暴風雨により二度とも撃退された。「神風」の観念は日本人の意識に深く刻まれた。"
+      }
+    },
+    {
+      "year": 1603,
+      "importance": 1,
+      "title": {
+        "en": "Tokugawa shogunate and the Edo period",
+        "ko": "도쿠가와 막부와 에도 시대의 개막",
+        "zh": "德川幕府与江户时代的开启",
+        "ja": "徳川幕府の成立と江戸時代"
+      },
+      "description": {
+        "en": "Tokugawa Ieyasu founded the Edo shogunate after unifying the war-torn country, ushering in over 250 years of peace. Cities and merchant culture thrived under national seclusion, while Edo grew into one of the world's largest cities.",
+        "ko": "도쿠가와 이에야스가 전란의 시대를 끝내고 에도 막부를 세워 250여 년의 평화가 이어졌다. 쇄국 아래에서도 도시와 조닌 문화가 발달했고 에도는 세계 최대급 도시로 성장했다.",
+        "zh": "德川家康结束战乱、统一全国后开创江户幕府,带来两百五十余年的和平。锁国之下城市与町人文化依然兴盛,江户发展为当时世界最大的城市之一。",
+        "ja": "徳川家康が戦乱の世を統一して江戸幕府を開き、二百五十年余りの泰平の世が続いた。鎖国の下でも都市と町人文化が栄え、江戸は世界最大級の都市へと成長した。"
+      }
+    },
+    {
+      "year": 1853,
+      "importance": 2,
+      "title": {
+        "en": "Perry's Black Ships open Japan",
+        "ko": "페리 흑선 내항과 개항",
+        "zh": "佩里黑船来航,日本开国",
+        "ja": "ペリーの黒船来航と開国"
+      },
+      "description": {
+        "en": "US Commodore Matthew Perry's squadron arrived at Uraga, demanding that Japan open its ports. The 1854 Treaty of Kanagawa ended two centuries of seclusion and set off the crisis that toppled the shogunate.",
+        "ko": "미국의 페리 제독 함대가 우라가에 내항해 개항을 요구했다. 1854년 미일 화친 조약으로 200년의 쇄국이 끝났고, 이는 막부 붕괴로 이어지는 정치적 격동을 촉발했다.",
+        "zh": "美国海军准将佩里率舰队抵达浦贺,要求日本开放港口。1854年《神奈川条约》终结了两百年的锁国体制,并引发了导致幕府倒台的政治危机。",
+        "ja": "アメリカのペリー提督率いる艦隊が浦賀に来航し、開国を要求した。1854年の日米和親条約で二百年の鎖国が終わり、幕府崩壊へとつながる動乱が始まった。"
+      }
+    },
+    {
+      "year": 1868,
+      "importance": 1,
+      "title": {
+        "en": "Meiji Restoration",
+        "ko": "메이지 유신",
+        "zh": "明治维新",
+        "ja": "明治維新"
+      },
+      "description": {
+        "en": "Imperial rule was restored under Emperor Meiji, ending the shogunate. Japan rapidly modernized its government, army, industry and education, transforming within decades into a major world power.",
+        "ko": "막부가 무너지고 메이지 천황 아래 왕정이 복고되었다. 일본은 정부와 군대, 산업, 교육을 빠르게 근대화하여 수십 년 만에 세계적 강국으로 탈바꿈했다.",
+        "zh": "幕府倒台,明治天皇之下实现王政复古。日本迅速推进政府、军事、工业和教育的近代化,在数十年间一跃成为世界强国。",
+        "ja": "幕府が倒れ、明治天皇の下で王政復古が実現した。日本は政治・軍事・産業・教育の近代化を急速に進め、数十年で世界の強国へと変貌を遂げた。"
+      }
+    },
+    {
+      "year": 1945,
+      "importance": 1,
+      "title": {
+        "en": "Atomic bombings and the end of World War II",
+        "ko": "원폭 투하와 제2차 세계대전의 종결",
+        "zh": "原子弹轰炸与第二次世界大战结束",
+        "ja": "原爆投下と第二次世界大戦の終結"
+      },
+      "description": {
+        "en": "After atomic bombs devastated Hiroshima and Nagasaki, Japan surrendered, ending World War II. The war left millions dead across Asia and the Pacific; Allied occupation followed, dismantling the empire and demilitarizing the state.",
+        "ko": "히로시마와 나가사키에 원자폭탄이 투하된 뒤 일본은 항복했고 제2차 세계대전이 끝났다. 아시아·태평양 전역에서 수많은 희생을 남긴 전쟁 이후 연합군 점령 아래 제국은 해체되고 비군사화가 진행되었다.",
+        "zh": "广岛和长崎遭原子弹轰炸后,日本宣布投降,第二次世界大战结束。这场战争在亚太地区造成数以百万计的死难;随后盟军实施占领,解散帝国体制并推行非军事化。",
+        "ja": "広島と長崎への原爆投下の後、日本は降伏し第二次世界大戦が終結した。アジア太平洋全域に多大な犠牲を残した戦争の後、連合国の占領下で帝国は解体され、非軍事化が進められた。"
+      }
+    },
+    {
+      "year": 1947,
+      "importance": 2,
+      "title": {
+        "en": "Postwar constitution takes effect",
+        "ko": "일본국 헌법 시행",
+        "zh": "《日本国宪法》生效",
+        "ja": "日本国憲法の施行"
+      },
+      "description": {
+        "en": "The new Constitution of Japan came into force, establishing popular sovereignty, guaranteed rights and the renunciation of war under Article 9, while redefining the emperor as a symbol of the state.",
+        "ko": "새 일본국 헌법이 시행되어 국민주권과 기본권 보장, 제9조의 전쟁 포기를 규정했고, 천황은 국가의 상징으로 재정의되었다.",
+        "zh": "新的《日本国宪法》正式生效,确立国民主权、基本权利保障以及第九条的放弃战争原则,并将天皇重新定位为国家象征。",
+        "ja": "新しい日本国憲法が施行され、国民主権と基本的人権の保障、第九条による戦争放棄が定められた。天皇は国の象徴と位置づけられた。"
+      }
+    },
+    {
+      "year": 1964,
+      "importance": 2,
+      "title": {
+        "en": "Tokyo Olympics and the Shinkansen",
+        "ko": "도쿄 올림픽과 신칸센 개통",
+        "zh": "东京奥运会与新干线开通",
+        "ja": "東京オリンピックと新幹線開業"
+      },
+      "description": {
+        "en": "Tokyo hosted Asia's first Olympic Games days after the world's first high-speed railway, the Tokaido Shinkansen, opened. The events symbolized Japan's postwar recovery and its economic miracle.",
+        "ko": "세계 최초의 고속철도 도카이도 신칸센이 개통된 직후 도쿄에서 아시아 최초의 올림픽이 열렸다. 두 사건은 일본의 전후 부흥과 고도 경제성장을 상징했다.",
+        "zh": "世界首条高速铁路东海道新干线通车数日后,东京举办了亚洲首届奥运会。这两件大事象征着日本的战后复兴与经济奇迹。",
+        "ja": "世界初の高速鉄道・東海道新幹線の開業直後、東京でアジア初のオリンピックが開催された。両者は日本の戦後復興と高度経済成長を象徴する出来事となった。"
+      }
+    },
+    {
+      "year": 2011,
+      "importance": 2,
+      "title": {
+        "en": "Great East Japan Earthquake",
+        "ko": "동일본 대지진",
+        "zh": "东日本大地震",
+        "ja": "東日本大震災"
+      },
+      "description": {
+        "en": "A magnitude 9.0 earthquake and tsunami struck northeastern Japan, killing about 20,000 people and triggering the Fukushima Daiichi nuclear accident. The disaster reshaped Japan's energy policy and disaster preparedness.",
+        "ko": "규모 9.0의 지진과 쓰나미가 동북 지방을 강타해 약 2만 명이 목숨을 잃었고 후쿠시마 제1원전 사고가 발생했다. 이 재난은 일본의 에너지 정책과 방재 체계를 근본적으로 바꾸었다.",
+        "zh": "9.0级地震和海啸袭击日本东北地区,造成约两万人罹难,并引发福岛第一核电站事故。这场灾难深刻改变了日本的能源政策与防灾体系。",
+        "ja": "マグニチュード9.0の地震と津波が東北地方を襲い、約二万人が犠牲となり、福島第一原発事故が発生した。この災害は日本のエネルギー政策と防災体制を大きく変えた。"
+      }
+    }
+  ]
+}

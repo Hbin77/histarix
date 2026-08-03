@@ -1,0 +1,228 @@
+{
+  "events": [
+    {
+      "year": -377,
+      "importance": 2,
+      "title": {
+        "en": "Anuradhapura Becomes the Capital",
+        "ko": "아누라다푸라 천도",
+        "zh": "阿努拉德普勒建都",
+        "ja": "アヌラーダプラ遷都"
+      },
+      "description": {
+        "en": "King Pandukabhaya established Anuradhapura as the capital. It would remain the center of Sinhalese civilization for over a millennium, renowned for vast reservoirs and monasteries.",
+        "ko": "판두카바야 왕이 아누라다푸라를 수도로 삼았다. 이후 1천 년 넘게 싱할라 문명의 중심지로 번영하며 거대한 저수지와 사원으로 이름을 떨쳤다.",
+        "zh": "潘杜卡巴耶王定都阿努拉德普勒。此后一千多年间，这里一直是僧伽罗文明的中心，以宏大的水库和寺院群闻名。",
+        "ja": "パンドゥカーバヤ王がアヌラーダプラを都と定めた。以後1000年以上にわたりシンハラ文明の中心として栄え、巨大な貯水池と僧院群で名高い。"
+      }
+    },
+    {
+      "year": -247,
+      "importance": 1,
+      "title": {
+        "en": "Buddhism Comes to the Island",
+        "ko": "불교의 전래",
+        "zh": "佛教传入斯里兰卡",
+        "ja": "仏教の伝来"
+      },
+      "description": {
+        "en": "Mahinda, son of Emperor Ashoka, converted King Devanampiya Tissa to Buddhism. Theravada Buddhism became the foundation of Sinhalese culture and remains central to Sri Lankan identity.",
+        "ko": "아소카 대왕의 아들 마힌다가 데바남피야 티사 왕을 불교로 귀의시켰다. 이후 상좌부 불교는 싱할라 문화의 근간이 되었고, 오늘날까지 스리랑카 정체성의 중심에 있다.",
+        "zh": "阿育王之子摩哂陀使天爱帝须王皈依佛教。上座部佛教从此成为僧伽罗文化的根基，至今仍是斯里兰卡认同的核心。",
+        "ja": "アショーカ王の子マヒンダがデーヴァーナンピヤ・ティッサ王を仏教に帰依させた。以来、上座部仏教はシンハラ文化の礎となり、今日までスリランカのアイデンティティの中核であり続けている。"
+      }
+    },
+    {
+      "year": -161,
+      "importance": 2,
+      "title": {
+        "en": "Dutugemunu Unifies the Island",
+        "ko": "두투게무누의 통일",
+        "zh": "杜图伽摩尼统一全岛",
+        "ja": "ドゥッタガーマニーの統一"
+      },
+      "description": {
+        "en": "King Dutugemunu defeated the Tamil king Elara at Anuradhapura and united the island under Sinhalese rule. He built the great Ruwanwelisaya stupa, a landmark of Buddhist devotion.",
+        "ko": "두투게무누 왕이 아누라다푸라에서 타밀계 엘라라 왕을 물리치고 섬을 싱할라 왕권 아래 통일했다. 그는 불교 신앙의 상징인 대탑 루완웰리사야를 세웠다.",
+        "zh": "杜图伽摩尼王在阿努拉德普勒击败泰米尔国王埃拉拉，将全岛统一于僧伽罗王权之下。他修建了佛教信仰的地标——鲁万维利萨亚大塔。",
+        "ja": "ドゥッタガーマニー王はアヌラーダプラでタミル系のエラーラ王を破り、島をシンハラ王権の下に統一した。彼は仏教信仰の象徴たる大塔ルワンウェリサーヤを建立した。"
+      }
+    },
+    {
+      "year": 477,
+      "importance": 2,
+      "title": {
+        "en": "Sigiriya, the Rock Fortress",
+        "ko": "시기리야 바위 요새",
+        "zh": "狮子岩要塞锡吉里耶",
+        "ja": "シーギリヤの岩上要塞"
+      },
+      "description": {
+        "en": "King Kashyapa built his palace atop the 200-meter Sigiriya rock, adorned with famous frescoes and water gardens. The 'Lion Rock' is now a UNESCO World Heritage site.",
+        "ko": "카샤파 왕이 높이 200미터의 시기리야 바위 정상에 궁전을 지었다. 유명한 프레스코 벽화와 수경 정원을 갖춘 '사자 바위'는 오늘날 유네스코 세계유산이다.",
+        "zh": "迦叶波王在高约200米的锡吉里耶巨岩之巅营建王宫，饰以著名壁画并建有水景园林。“狮子岩”现为联合国教科文组织世界遗产。",
+        "ja": "カッサパ王は高さ200メートルのシーギリヤ・ロックの頂に宮殿を築いた。名高いフレスコ画と水の庭園を備えた「ライオン・ロック」は、現在ユネスコ世界遺産である。"
+      }
+    },
+    {
+      "year": 1017,
+      "importance": 2,
+      "title": {
+        "en": "Chola Conquest",
+        "ko": "촐라의 정복",
+        "zh": "朱罗王朝的征服",
+        "ja": "チョーラ朝の征服"
+      },
+      "description": {
+        "en": "The South Indian Chola empire conquered Anuradhapura and ruled much of the island for decades, ending the ancient capital's era and shifting the center of power to Polonnaruwa.",
+        "ko": "남인도의 촐라 제국이 아누라다푸라를 정복하고 수십 년간 섬 대부분을 지배했다. 이로써 고대 수도 시대가 막을 내리고 권력의 중심이 폴론나루와로 옮겨갔다.",
+        "zh": "南印度的朱罗帝国攻陷阿努拉德普勒，统治岛上大部分地区数十年。古都时代就此终结，权力中心转移至波隆纳鲁沃。",
+        "ja": "南インドのチョーラ朝がアヌラーダプラを征服し、数十年にわたり島の大部分を支配した。これにより古都の時代は終わり、権力の中心はポロンナルワへ移った。"
+      }
+    },
+    {
+      "year": 1153,
+      "importance": 2,
+      "title": {
+        "en": "Golden Age of Polonnaruwa",
+        "ko": "폴론나루와의 황금기",
+        "zh": "波隆纳鲁沃的黄金时代",
+        "ja": "ポロンナルワの黄金時代"
+      },
+      "description": {
+        "en": "Parakramabahu I reunified the island and made Polonnaruwa flourish, building vast irrigation works including the Parakrama Samudra. His reign is remembered as a medieval golden age.",
+        "ko": "파라크라마바후 1세가 섬을 재통일하고 폴론나루와를 번영시켰다. '파라크라마 사무드라'를 비롯한 대규모 관개 시설을 건설한 그의 치세는 중세의 황금기로 기억된다.",
+        "zh": "波罗迦罗摩巴忽一世重新统一全岛，使波隆纳鲁沃走向鼎盛，并兴建了包括波罗迦罗摩海在内的宏大灌溉工程。他的统治被誉为中世纪的黄金时代。",
+        "ja": "パラークラマバーフ1世は島を再統一してポロンナルワを繁栄させ、「パラークラマ・サムドラ」をはじめ大規模な灌漑施設を築いた。その治世は中世の黄金時代として記憶される。"
+      }
+    },
+    {
+      "year": 1505,
+      "importance": 2,
+      "title": {
+        "en": "Portuguese Arrival",
+        "ko": "포르투갈인의 도래",
+        "zh": "葡萄牙人抵达",
+        "ja": "ポルトガル人の来航"
+      },
+      "description": {
+        "en": "Portuguese ships under Lourenço de Almeida reached Colombo, beginning European involvement. Portugal came to control the coastal lowlands and the lucrative cinnamon trade.",
+        "ko": "로렌수 드 알메이다가 이끄는 포르투갈 함선이 콜롬보에 도착하면서 유럽 세력의 개입이 시작되었다. 포르투갈은 해안 저지대와 계피 무역을 장악해 갔다.",
+        "zh": "洛伦索·德·阿尔梅达率葡萄牙船队抵达科伦坡，欧洲势力自此介入。葡萄牙逐步控制了沿海低地和利润丰厚的肉桂贸易。",
+        "ja": "ロウレンソ・デ・アルメイダ率いるポルトガル船団がコロンボに到達し、ヨーロッパ勢力の関与が始まった。ポルトガルは沿岸低地と利益の大きいシナモン貿易を支配していった。"
+      }
+    },
+    {
+      "year": 1658,
+      "importance": 3,
+      "title": {
+        "en": "Dutch Rule over the Coasts",
+        "ko": "네덜란드의 해안 지배",
+        "zh": "荷兰统治沿海地区",
+        "ja": "オランダの沿岸支配"
+      },
+      "description": {
+        "en": "The Dutch East India Company expelled the Portuguese and ruled the coastal regions for nearly 140 years, leaving a legacy in Roman-Dutch law and the Burgher community.",
+        "ko": "네덜란드 동인도회사가 포르투갈을 몰아내고 약 140년간 해안 지역을 지배했다. 로마-네덜란드법과 버거(Burgher) 공동체 등은 그 유산으로 남아 있다.",
+        "zh": "荷兰东印度公司驱逐葡萄牙人，统治沿海地区近140年，留下了罗马-荷兰法和伯格人（Burgher）社群等遗产。",
+        "ja": "オランダ東インド会社はポルトガル人を駆逐し、約140年にわたり沿岸地域を支配した。ローマ・オランダ法やバーガー（Burgher）共同体などがその遺産として残る。"
+      }
+    },
+    {
+      "year": 1815,
+      "importance": 2,
+      "title": {
+        "en": "The British Take Kandy",
+        "ko": "영국의 캔디 병합",
+        "zh": "英国吞并康提",
+        "ja": "イギリスのキャンディ併合"
+      },
+      "description": {
+        "en": "With the Kandyan Convention, the last independent kingdom fell and the whole island came under British rule as Ceylon, the first time in centuries it was governed by a single power.",
+        "ko": "캔디 협약으로 마지막 독립 왕국이 무너지고 섬 전체가 '실론'으로서 영국의 지배 아래 들어갔다. 수백 년 만에 처음으로 섬 전역이 단일 권력의 통치를 받게 되었다.",
+        "zh": "根据《康提公约》，最后一个独立王国灭亡，全岛以“锡兰”之名纳入英国统治。数百年来，全岛首次处于单一政权治下。",
+        "ja": "キャンディ協約により最後の独立王国が滅び、全島は「セイロン」としてイギリスの支配下に入った。数世紀ぶりに島全体が単一の権力に統治されることとなった。"
+      }
+    },
+    {
+      "year": 1948,
+      "importance": 1,
+      "title": {
+        "en": "Independence as Ceylon",
+        "ko": "실론의 독립",
+        "zh": "锡兰独立",
+        "ja": "セイロンとして独立"
+      },
+      "description": {
+        "en": "On 4 February 1948, Ceylon gained independence from Britain as a dominion, achieved through peaceful constitutional negotiation rather than armed struggle.",
+        "ko": "1948년 2월 4일, 실론은 무장 투쟁이 아닌 평화적 협상을 통해 영국으로부터 자치령으로 독립했다.",
+        "zh": "1948年2月4日，锡兰通过和平的宪政谈判而非武装斗争，以自治领身份脱离英国获得独立。",
+        "ja": "1948年2月4日、セイロンは武装闘争ではなく平和的な憲政交渉を経て、自治領としてイギリスから独立を果たした。"
+      }
+    },
+    {
+      "year": 1972,
+      "importance": 2,
+      "title": {
+        "en": "Republic of Sri Lanka",
+        "ko": "스리랑카 공화국 출범",
+        "zh": "斯里兰卡共和国成立",
+        "ja": "スリランカ共和国の成立"
+      },
+      "description": {
+        "en": "A new constitution made the country a republic, replacing the name Ceylon with Sri Lanka and severing the last constitutional links to Britain.",
+        "ko": "새 헌법 제정으로 공화국이 되면서 국명을 실론에서 스리랑카로 바꾸고 영국과의 마지막 헌정적 연결 고리를 끊었다.",
+        "zh": "新宪法使该国成为共和国，国名由锡兰改为斯里兰卡，并断绝了与英国的最后宪政联系。",
+        "ja": "新憲法の制定により共和国となり、国名をセイロンからスリランカに改め、イギリスとの最後の憲法上のつながりを断った。"
+      }
+    },
+    {
+      "year": 1983,
+      "importance": 1,
+      "title": {
+        "en": "Civil War Begins: Black July",
+        "ko": "내전의 시작 — '검은 7월'",
+        "zh": "内战爆发——“黑色七月”",
+        "ja": "内戦の勃発――「黒い7月」"
+      },
+      "description": {
+        "en": "Anti-Tamil pogroms in July 1983 marked the start of a 26-year civil war between the government and the Tamil Tigers (LTTE), which killed an estimated 80,000-100,000 people.",
+        "ko": "1983년 7월의 반(反)타밀 폭동을 계기로 정부와 타밀 반군(LTTE) 간 26년 내전이 시작되었다. 이 전쟁으로 약 8만~10만 명이 목숨을 잃은 것으로 추정된다.",
+        "zh": "1983年7月的反泰米尔人暴乱标志着政府与泰米尔猛虎组织（LTTE）之间长达26年内战的开始，估计造成8万至10万人死亡。",
+        "ja": "1983年7月の反タミル暴動を機に、政府とタミル武装組織LTTEとの26年に及ぶ内戦が始まった。この戦争で推定8万～10万人が命を落とした。"
+      }
+    },
+    {
+      "year": 2004,
+      "importance": 2,
+      "title": {
+        "en": "Indian Ocean Tsunami",
+        "ko": "인도양 대지진 해일",
+        "zh": "印度洋海啸",
+        "ja": "インド洋大津波"
+      },
+      "description": {
+        "en": "The tsunami of 26 December 2004 struck Sri Lanka's coasts, killing more than 35,000 people and displacing half a million, one of the worst disasters in the island's history.",
+        "ko": "2004년 12월 26일 인도양 지진해일이 스리랑카 해안을 덮쳐 3만 5천 명 이상이 숨지고 50만 명이 삶의 터전을 잃었다. 섬 역사상 최악의 재난 중 하나였다.",
+        "zh": "2004年12月26日，印度洋海啸袭击斯里兰卡沿海，造成3.5万余人死亡、50万人流离失所，是该岛历史上最惨重的灾难之一。",
+        "ja": "2004年12月26日、インド洋の津波がスリランカ沿岸を襲い、3万5000人以上が死亡、50万人が住まいを失った。島の歴史上最悪級の災害であった。"
+      }
+    },
+    {
+      "year": 2009,
+      "importance": 1,
+      "title": {
+        "en": "End of the Civil War",
+        "ko": "내전 종식",
+        "zh": "内战结束",
+        "ja": "内戦の終結"
+      },
+      "description": {
+        "en": "Government forces defeated the LTTE in May 2009, ending 26 years of war. The final offensive brought peace but also international scrutiny over civilian casualties and calls for reconciliation.",
+        "ko": "2009년 5월 정부군이 LTTE를 격퇴하며 26년간의 내전이 끝났다. 평화가 찾아왔으나 최종 공세 과정의 민간인 피해를 둘러싼 국제사회의 문제 제기와 화해에 대한 요구도 이어졌다.",
+        "zh": "2009年5月，政府军击败泰米尔猛虎组织，结束了长达26年的战争。和平随之而来，但最后攻势中的平民伤亡也引发国际社会的关注与和解呼声。",
+        "ja": "2009年5月、政府軍がLTTEを打ち破り、26年に及ぶ内戦が終結した。平和が訪れた一方、最終攻勢での民間人被害をめぐる国際的な検証と和解への要求も続いた。"
+      }
+    }
+  ]
+}

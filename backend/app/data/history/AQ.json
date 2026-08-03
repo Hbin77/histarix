@@ -1,0 +1,228 @@
+{
+  "events": [
+    {
+      "year": 1773,
+      "importance": 2,
+      "title": {
+        "en": "James Cook crosses the Antarctic Circle",
+        "ko": "제임스 쿡, 남극권을 넘다",
+        "zh": "库克船长穿越南极圈",
+        "ja": "ジェームズ・クック、南極圏を越える"
+      },
+      "description": {
+        "en": "Captain James Cook's ships became the first known vessels to cross the Antarctic Circle, circumnavigating the far south without sighting the continent itself.",
+        "ko": "제임스 쿡 선장의 함선이 기록상 최초로 남극권을 통과했다. 그는 남쪽 고위도 해역을 일주했으나 대륙 자체를 목격하지는 못했다.",
+        "zh": "詹姆斯·库克船长的船队成为有记录以来首次穿越南极圈的船只。他环绕南方高纬度海域航行，但未能看到南极大陆本身。",
+        "ja": "ジェームズ・クック率いる船隊が記録上初めて南極圏を通過した。南方の高緯度海域を周航したが、大陸そのものを目にすることはなかった。"
+      }
+    },
+    {
+      "year": 1820,
+      "importance": 1,
+      "title": {
+        "en": "First sightings of Antarctica",
+        "ko": "남극 대륙 최초 목격",
+        "zh": "首次望见南极大陆",
+        "ja": "南極大陸の初目撃"
+      },
+      "description": {
+        "en": "Expeditions led by Bellingshausen, Bransfield and Palmer sighted the Antarctic mainland within months of each other, confirming the existence of the long-hypothesized southern continent.",
+        "ko": "벨링스하우젠, 브랜스필드, 파머가 이끄는 탐험대가 몇 달 간격으로 잇달아 남극 본토를 목격하면서, 오랫동안 가설로만 존재하던 남방 대륙의 실재가 확인되었다.",
+        "zh": "别林斯高晋、布兰斯菲尔德和帕尔默率领的探险队在数月之内相继望见南极大陆，证实了长期以来仅存在于推测中的南方大陆确实存在。",
+        "ja": "ベリングスハウゼン、ブランスフィールド、パーマーの各探検隊が数か月のうちに相次いで南極本土を目撃し、長らく仮説上の存在だった南方大陸の実在が確認された。"
+      }
+    },
+    {
+      "year": 1841,
+      "importance": 2,
+      "title": {
+        "en": "Ross discovers the Ross Sea and Mount Erebus",
+        "ko": "로스, 로스해와 에러버스산 발견",
+        "zh": "罗斯发现罗斯海与埃里伯斯火山",
+        "ja": "ロス、ロス海とエレバス山を発見"
+      },
+      "description": {
+        "en": "James Clark Ross penetrated the pack ice to discover the Ross Sea, Victoria Land, the great ice shelf later named for him, and the active volcano Mount Erebus.",
+        "ko": "제임스 클라크 로스가 유빙을 뚫고 들어가 로스해와 빅토리아랜드, 훗날 그의 이름이 붙은 거대한 빙붕, 그리고 활화산 에러버스산을 발견했다.",
+        "zh": "詹姆斯·克拉克·罗斯突破浮冰，发现了罗斯海、维多利亚地、后来以他命名的巨大冰架，以及活火山埃里伯斯山。",
+        "ja": "ジェームズ・クラーク・ロスは流氷帯を突破し、ロス海、ヴィクトリアランド、後に彼の名を冠する巨大な棚氷、そして活火山エレバス山を発見した。"
+      }
+    },
+    {
+      "year": 1898,
+      "importance": 3,
+      "title": {
+        "en": "First overwintering in the Antarctic",
+        "ko": "최초의 남극 월동",
+        "zh": "首次在南极越冬",
+        "ja": "初の南極越冬"
+      },
+      "description": {
+        "en": "Trapped in the pack ice, Adrien de Gerlache's Belgica expedition became the first to survive an Antarctic winter, gathering a full year of scientific observations.",
+        "ko": "아드리앵 드 제를라슈의 벨지카호 탐험대가 유빙에 갇힌 채 남극의 겨울을 최초로 넘기며 1년간의 과학 관측 기록을 남겼다.",
+        "zh": "阿德里安·德·热尔拉什率领的“比利时号”探险队被困浮冰之中，成为首支在南极越冬的队伍，并积累了整整一年的科学观测资料。",
+        "ja": "アドリアン・ド・ジェルラッシュ率いるベルジカ号探検隊は流氷に閉じ込められながらも史上初めて南極の冬を越し、1年分の科学観測記録を残した。"
+      }
+    },
+    {
+      "year": 1911,
+      "importance": 1,
+      "title": {
+        "en": "Amundsen reaches the South Pole",
+        "ko": "아문센, 남극점 도달",
+        "zh": "阿蒙森抵达南极点",
+        "ja": "アムンセン、南極点に到達"
+      },
+      "description": {
+        "en": "On 14 December 1911, Roald Amundsen's Norwegian party became the first to reach the geographic South Pole, the climax of the Heroic Age of Antarctic Exploration.",
+        "ko": "1911년 12월 14일 로알 아문센이 이끄는 노르웨이 탐험대가 인류 최초로 남극점에 도달했다. 남극 탐험 '영웅시대'의 정점을 이룬 사건이었다.",
+        "zh": "1911年12月14日，罗阿尔·阿蒙森率领的挪威探险队成为首支到达地理南极点的队伍，这是南极探险“英雄时代”的巅峰。",
+        "ja": "1911年12月14日、ロアール・アムンセン率いるノルウェー隊が人類で初めて南極点に到達した。南極探検の「英雄時代」の頂点をなす出来事である。"
+      }
+    },
+    {
+      "year": 1912,
+      "importance": 2,
+      "title": {
+        "en": "Scott's party perishes on the return",
+        "ko": "스콧 탐험대의 비극",
+        "zh": "斯科特探险队的悲剧",
+        "ja": "スコット隊の悲劇"
+      },
+      "description": {
+        "en": "Robert Falcon Scott reached the South Pole on 17 January 1912, a month after Amundsen, but he and his four companions died on the return journey.",
+        "ko": "로버트 팰컨 스콧은 아문센보다 한 달 늦은 1912년 1월 17일 남극점에 도달했으나, 귀환 도중 네 명의 대원과 함께 목숨을 잃었다.",
+        "zh": "罗伯特·法尔肯·斯科特于1912年1月17日到达南极点，比阿蒙森晚了一个月，他与四名队员在返程途中全部遇难。",
+        "ja": "ロバート・ファルコン・スコットはアムンセンに1か月遅れて1912年1月17日に南極点へ到達したが、帰路で4人の隊員とともに命を落とした。"
+      }
+    },
+    {
+      "year": 1915,
+      "importance": 2,
+      "title": {
+        "en": "Shackleton's Endurance saga",
+        "ko": "섀클턴과 인듀어런스호의 표류",
+        "zh": "沙克尔顿与“坚忍号”传奇",
+        "ja": "シャクルトンとエンデュアランス号の漂流"
+      },
+      "description": {
+        "en": "Ernest Shackleton's ship Endurance was crushed by pack ice in the Weddell Sea. His entire crew survived an epic escape by ice floe, lifeboat and the crossing of South Georgia.",
+        "ko": "어니스트 섀클턴의 탐험선 인듀어런스호가 웨들해의 유빙에 부서졌다. 대원 전원은 부빙과 구명정, 사우스조지아섬 횡단으로 이어진 극적인 탈출 끝에 생환했다.",
+        "zh": "欧内斯特·沙克尔顿的“坚忍号”在威德尔海被浮冰压毁。全体队员经历浮冰漂流、救生艇远航和横越南乔治亚岛的壮举后奇迹般全部生还。",
+        "ja": "アーネスト・シャクルトンの探検船エンデュアランス号はウェッデル海で流氷に押し潰された。隊員全員が氷盤とボートでの脱出、サウスジョージア島横断を経て奇跡的に生還した。"
+      }
+    },
+    {
+      "year": 1929,
+      "importance": 3,
+      "title": {
+        "en": "First flight over the South Pole",
+        "ko": "남극점 상공 첫 비행",
+        "zh": "首次飞越南极点",
+        "ja": "南極点上空の初飛行"
+      },
+      "description": {
+        "en": "American aviator Richard Byrd and his crew completed the first flight over the South Pole, opening the era of mechanized and airborne Antarctic exploration.",
+        "ko": "미국의 비행가 리처드 버드와 승무원들이 남극점 상공 비행에 최초로 성공하며 기계화·항공 탐사 시대를 열었다.",
+        "zh": "美国飞行家理查德·伯德及其机组完成了人类首次飞越南极点的飞行，开启了机械化和航空南极考察的时代。",
+        "ja": "アメリカの飛行家リチャード・バードらが史上初めて南極点上空の飛行に成功し、機械化・航空による南極探査の時代を開いた。"
+      }
+    },
+    {
+      "year": 1957,
+      "importance": 2,
+      "title": {
+        "en": "International Geophysical Year",
+        "ko": "국제 지구물리 관측년",
+        "zh": "国际地球物理年",
+        "ja": "国際地球観測年"
+      },
+      "description": {
+        "en": "During the International Geophysical Year of 1957-58, twelve nations established dozens of research stations across Antarctica, including Amundsen-Scott Station at the pole.",
+        "ko": "1957~58년 국제 지구물리 관측년 동안 12개국이 남극 전역에 수십 개의 연구 기지를 세웠으며, 남극점에는 아문센-스콧 기지가 건설되었다.",
+        "zh": "在1957至1958年的国际地球物理年期间，12个国家在南极各地建立了数十个科学考察站，其中包括位于南极点的阿蒙森-斯科特站。",
+        "ja": "1957〜58年の国際地球観測年に12か国が南極各地に数十の観測基地を設置し、南極点にはアムンセン・スコット基地が建設された。"
+      }
+    },
+    {
+      "year": 1959,
+      "importance": 1,
+      "title": {
+        "en": "Antarctic Treaty signed",
+        "ko": "남극 조약 체결",
+        "zh": "《南极条约》签署",
+        "ja": "南極条約の調印"
+      },
+      "description": {
+        "en": "Twelve nations signed the Antarctic Treaty in Washington, reserving the continent for peaceful scientific use, banning military activity and freezing all territorial claims.",
+        "ko": "12개국이 워싱턴에서 남극 조약에 서명했다. 조약은 남극을 평화적·과학적 목적에만 사용하도록 하고 군사 활동을 금지했으며 모든 영유권 주장을 동결했다.",
+        "zh": "12个国家在华盛顿签署《南极条约》，规定南极仅用于和平科学目的，禁止军事活动，并冻结所有领土主权要求。",
+        "ja": "12か国がワシントンで南極条約に調印した。条約は南極を平和的・科学的利用に限定し、軍事活動を禁止するとともに、あらゆる領有権主張を凍結した。"
+      }
+    },
+    {
+      "year": 1983,
+      "importance": 3,
+      "title": {
+        "en": "Coldest temperature on Earth recorded",
+        "ko": "지구 최저 기온 기록",
+        "zh": "地球最低气温纪录",
+        "ja": "地球最低気温の記録"
+      },
+      "description": {
+        "en": "The Soviet Vostok Station recorded -89.2 °C, the lowest natural surface temperature ever measured on Earth.",
+        "ko": "소련의 보스토크 기지에서 영하 89.2도가 관측되었다. 지구상에서 측정된 가장 낮은 자연 지표 기온이다.",
+        "zh": "苏联东方站测得零下89.2摄氏度，是地球上有记录以来的最低自然地表气温。",
+        "ja": "ソ連のボストーク基地で氷点下89.2度が観測された。地球上で測定された最も低い自然地表気温である。"
+      }
+    },
+    {
+      "year": 1985,
+      "importance": 1,
+      "title": {
+        "en": "Discovery of the ozone hole",
+        "ko": "오존 구멍 발견",
+        "zh": "发现臭氧层空洞",
+        "ja": "オゾンホールの発見"
+      },
+      "description": {
+        "en": "British Antarctic Survey scientists announced a dramatic seasonal depletion of ozone above Antarctica. The discovery spurred the 1987 Montreal Protocol on protecting the ozone layer.",
+        "ko": "영국 남극조사소 과학자들이 남극 상공 오존층의 급격한 계절적 감소를 발표했다. 이 발견은 1987년 오존층 보호를 위한 몬트리올 의정서 체결로 이어졌다.",
+        "zh": "英国南极调查局的科学家宣布南极上空臭氧出现急剧的季节性损耗。这一发现促成了1987年保护臭氧层的《蒙特利尔议定书》。",
+        "ja": "英国南極調査所の科学者が南極上空でオゾンが季節的に急減している事実を発表した。この発見は1987年のオゾン層保護に関するモントリオール議定書につながった。"
+      }
+    },
+    {
+      "year": 1991,
+      "importance": 2,
+      "title": {
+        "en": "Madrid Protocol protects the environment",
+        "ko": "마드리드 의정서 채택",
+        "zh": "《马德里议定书》保护南极环境",
+        "ja": "マドリード議定書の採択"
+      },
+      "description": {
+        "en": "The Protocol on Environmental Protection to the Antarctic Treaty designated Antarctica a natural reserve devoted to peace and science and banned mineral resource extraction.",
+        "ko": "남극조약 환경보호의정서가 채택되어 남극을 평화와 과학을 위한 자연보호구역으로 지정하고 광물 자원 개발을 금지했다.",
+        "zh": "《南极条约环境保护议定书》将南极指定为致力于和平与科学的自然保护区，并禁止开采矿产资源。",
+        "ja": "南極条約環境保護議定書が採択され、南極は平和と科学に捧げられた自然保護地域と定められ、鉱物資源の開発が禁止された。"
+      }
+    },
+    {
+      "year": 2002,
+      "importance": 2,
+      "title": {
+        "en": "Collapse of the Larsen B Ice Shelf",
+        "ko": "라르센 B 빙붕 붕괴",
+        "zh": "拉森B冰架崩解",
+        "ja": "ラーセンB棚氷の崩壊"
+      },
+      "description": {
+        "en": "The Larsen B Ice Shelf on the Antarctic Peninsula disintegrated in weeks, a striking sign of regional warming that intensified research into Antarctica's role in sea-level rise.",
+        "ko": "남극 반도의 라르센 B 빙붕이 몇 주 만에 붕괴했다. 지역적 온난화를 보여 주는 극적인 사건으로, 해수면 상승에서 남극이 차지하는 역할에 대한 연구가 활발해졌다.",
+        "zh": "南极半岛的拉森B冰架在数周内瓦解，成为区域变暖的显著标志，促使各国加紧研究南极在海平面上升中的作用。",
+        "ja": "南極半島のラーセンB棚氷がわずか数週間で崩壊した。地域的な温暖化を示す象徴的な出来事であり、海面上昇における南極の役割の研究が加速した。"
+      }
+    }
+  ]
+}

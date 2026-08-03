@@ -1,0 +1,212 @@
+{
+  "events": [
+    {
+      "year": -1000,
+      "importance": 2,
+      "title": {
+        "en": "Kingdom of David and Jerusalem",
+        "ko": "다윗 왕국과 예루살렘",
+        "zh": "大卫王国与耶路撒冷",
+        "ja": "ダビデ王国とエルサレム"
+      },
+      "description": {
+        "en": "According to biblical tradition, David united the Israelite tribes around 1000 BC and made Jerusalem his capital. His son Solomon is credited with building the First Temple there.",
+        "ko": "성서 전승에 따르면 다윗은 기원전 1000년경 이스라엘 부족들을 통일하고 예루살렘을 수도로 삼았다. 그의 아들 솔로몬이 그곳에 제1성전을 세웠다고 전해진다.",
+        "zh": "据圣经传统记载，大卫约在公元前1000年统一以色列各部族，定都耶路撒冷。相传其子所罗门在此建造了第一圣殿。",
+        "ja": "聖書の伝承によれば、ダビデは紀元前1000年頃にイスラエルの諸部族を統一し、エルサレムを都と定めた。その子ソロモンがそこに第一神殿を建てたと伝えられる。"
+      }
+    },
+    {
+      "year": -586,
+      "importance": 2,
+      "title": {
+        "en": "Fall of Jerusalem and Babylonian exile",
+        "ko": "예루살렘 함락과 바빌론 유수",
+        "zh": "耶路撒冷陷落与巴比伦之囚",
+        "ja": "エルサレム陥落とバビロン捕囚"
+      },
+      "description": {
+        "en": "Nebuchadnezzar II of Babylon captured Jerusalem, destroyed the First Temple and deported much of Judah's population to Babylonia. The exile deeply shaped Jewish religion and identity.",
+        "ko": "신바빌로니아의 네부카드네자르 2세가 예루살렘을 함락해 제1성전을 파괴하고 유다 주민 다수를 바빌로니아로 끌고 갔다. 이 유수는 유대교 신앙과 정체성에 깊은 영향을 남겼다.",
+        "zh": "新巴比伦国王尼布甲尼撒二世攻陷耶路撒冷，摧毁第一圣殿，并将犹大国大批居民掳往巴比伦。这次流亡深刻塑造了犹太宗教与民族认同。",
+        "ja": "新バビロニアのネブカドネザル2世はエルサレムを陥落させて第一神殿を破壊し、ユダの住民の多くをバビロニアへ連行した。この捕囚はユダヤ教の信仰と民族意識を深く形づくった。"
+      }
+    },
+    {
+      "year": -164,
+      "importance": 3,
+      "title": {
+        "en": "Maccabean revolt and Hasmonean kingdom",
+        "ko": "마카베오 반란과 하스몬 왕조",
+        "zh": "马加比起义与哈斯蒙尼王朝",
+        "ja": "マカバイ戦争とハスモン朝"
+      },
+      "description": {
+        "en": "The Maccabees rose against Seleucid rule and rededicated the Temple in Jerusalem, an event commemorated at Hanukkah. An independent Hasmonean kingdom ruled Judea until the Roman era.",
+        "ko": "마카베오 일가가 셀레우코스 왕조의 지배에 맞서 봉기해 예루살렘 성전을 다시 봉헌했으며, 이를 기리는 명절이 하누카다. 이후 독립 하스몬 왕조가 로마 시대까지 유대를 다스렸다.",
+        "zh": "马加比家族起兵反抗塞琉古王朝的统治，并重新洁净耶路撒冷圣殿，光明节即为纪念此事。此后独立的哈斯蒙尼王朝统治犹地亚，直至罗马时代。",
+        "ja": "マカバイ家はセレウコス朝の支配に対して蜂起し、エルサレム神殿を再び奉献した。これを記念する祭りがハヌカである。その後、独立したハスモン朝がローマ時代までユダヤを統治した。"
+      }
+    },
+    {
+      "year": 70,
+      "importance": 1,
+      "title": {
+        "en": "Destruction of the Second Temple",
+        "ko": "제2성전 파괴",
+        "zh": "第二圣殿被毁",
+        "ja": "第二神殿の破壊"
+      },
+      "description": {
+        "en": "Roman forces under Titus captured Jerusalem during the First Jewish-Roman War and destroyed the Second Temple. The Western Wall of the temple compound remains a central site of Jewish prayer.",
+        "ko": "제1차 유대-로마 전쟁 중 티투스가 이끄는 로마군이 예루살렘을 함락하고 제2성전을 파괴했다. 성전 경내의 서쪽 벽(통곡의 벽)은 오늘날까지 유대교의 중심 기도처로 남아 있다.",
+        "zh": "第一次犹太战争期间，提图斯率罗马军队攻陷耶路撒冷并摧毁第二圣殿。圣殿区仅存的西墙（哭墙）至今仍是犹太人祈祷的核心圣地。",
+        "ja": "第一次ユダヤ戦争でティトゥス率いるローマ軍はエルサレムを陥落させ、第二神殿を破壊した。神殿域に残る西の壁（嘆きの壁）は今日までユダヤ教の中心的な祈りの場である。"
+      }
+    },
+    {
+      "year": 132,
+      "importance": 2,
+      "title": {
+        "en": "Bar Kokhba revolt",
+        "ko": "바르 코크바 반란",
+        "zh": "巴尔·科赫巴起义",
+        "ja": "バル・コクバの乱"
+      },
+      "description": {
+        "en": "The last major Jewish revolt against Rome was crushed by 135. Jerusalem was rebuilt as a Roman colony, and the center of Jewish life shifted to Galilee and the diaspora for many centuries.",
+        "ko": "로마에 맞선 유대인의 마지막 대규모 봉기는 135년까지 진압되었다. 예루살렘은 로마 식민도시로 재건되었고, 유대인 사회의 중심은 이후 여러 세기 동안 갈릴래아와 디아스포라로 옮겨 갔다.",
+        "zh": "犹太人反抗罗马的最后一次大规模起义于135年被镇压。耶路撒冷被改建为罗马殖民城市，此后数个世纪，犹太人生活的重心转移到加利利和散居各地的社群。",
+        "ja": "ローマに対するユダヤ人最後の大規模な反乱は135年までに鎮圧された。エルサレムはローマの植民都市として再建され、ユダヤ人社会の中心は以後長くガリラヤと離散地（ディアスポラ）に移った。"
+      }
+    },
+    {
+      "year": 1897,
+      "importance": 1,
+      "title": {
+        "en": "First Zionist Congress",
+        "ko": "제1차 시온주의자 대회",
+        "zh": "第一次犹太复国主义大会",
+        "ja": "第1回シオニスト会議"
+      },
+      "description": {
+        "en": "Theodor Herzl convened the First Zionist Congress in Basel, founding the Zionist Organization with the aim of establishing a legally secured home for the Jewish people in Palestine.",
+        "ko": "테오도어 헤르츨이 바젤에서 제1차 시온주의자 대회를 소집해 시온주의 기구를 창설했다. 대회는 팔레스타인에 법적으로 보장된 유대 민족의 고향을 세우는 것을 목표로 내걸었다.",
+        "zh": "西奥多·赫茨尔在巴塞尔召集第一次犹太复国主义大会，创立犹太复国主义组织，提出在巴勒斯坦为犹太民族建立受法律保障家园的目标。",
+        "ja": "テオドール・ヘルツルはバーゼルで第1回シオニスト会議を招集し、シオニスト機構を創設した。会議はパレスチナに法的に保障されたユダヤ民族の郷土を築くことを目標に掲げた。"
+      }
+    },
+    {
+      "year": 1917,
+      "importance": 2,
+      "title": {
+        "en": "Balfour Declaration",
+        "ko": "밸푸어 선언",
+        "zh": "《贝尔福宣言》",
+        "ja": "バルフォア宣言"
+      },
+      "description": {
+        "en": "Britain declared support for 'a national home for the Jewish people' in Palestine. After World War I, Britain administered the territory under a League of Nations mandate amid growing Arab-Jewish tensions.",
+        "ko": "영국이 팔레스타인에 '유대 민족의 민족적 고향' 수립을 지지한다고 선언했다. 제1차 세계대전 후 영국은 국제연맹 위임통치령으로 이 지역을 통치했고, 아랍인과 유대인 사이의 긴장이 고조되었다.",
+        "zh": "英国宣布支持在巴勒斯坦建立“犹太民族之家”。一战后英国依据国际联盟委任统治管理该地区，阿拉伯人与犹太人之间的矛盾日益加剧。",
+        "ja": "イギリスはパレスチナにおける「ユダヤ民族の郷土」建設への支持を宣言した。第一次世界大戦後、イギリスは国際連盟の委任統治として同地を統治し、アラブ人とユダヤ人の対立が深まっていった。"
+      }
+    },
+    {
+      "year": 1948,
+      "importance": 1,
+      "title": {
+        "en": "Establishment of the State of Israel",
+        "ko": "이스라엘 국가 수립",
+        "zh": "以色列国成立",
+        "ja": "イスラエル国家の樹立"
+      },
+      "description": {
+        "en": "David Ben-Gurion proclaimed the State of Israel as the British Mandate ended, following the 1947 UN partition plan. War with neighboring Arab states followed, and hundreds of thousands of Palestinians fled or were displaced.",
+        "ko": "1947년 유엔 분할안에 따라 영국 위임통치가 끝나자 다비드 벤구리온이 이스라엘 국가 수립을 선포했다. 곧 주변 아랍 국가들과 전쟁이 벌어졌고, 수십만 명의 팔레스타인인이 피란하거나 삶의 터전을 잃었다.",
+        "zh": "随着英国委任统治结束，本-古里安依据1947年联合国分治方案宣布以色列建国。随后与周边阿拉伯国家爆发战争，数十万巴勒斯坦人流离失所。",
+        "ja": "1947年の国連分割決議を経て英国の委任統治が終わると、ダヴィド・ベン＝グリオンはイスラエル国家の樹立を宣言した。直後に周辺アラブ諸国との戦争が起こり、数十万人のパレスチナ人が故郷を追われた。"
+      }
+    },
+    {
+      "year": 1967,
+      "importance": 1,
+      "title": {
+        "en": "Six-Day War",
+        "ko": "6일 전쟁(제3차 중동전쟁)",
+        "zh": "六日战争（第三次中东战争）",
+        "ja": "第三次中東戦争（六日間戦争）"
+      },
+      "description": {
+        "en": "Israel defeated Egypt, Jordan and Syria in six days, capturing the Sinai, Gaza Strip, West Bank, East Jerusalem and Golan Heights. The status of these territories remains central to the conflict.",
+        "ko": "이스라엘이 이집트·요르단·시리아를 엿새 만에 격파하고 시나이반도, 가자지구, 요르단강 서안, 동예루살렘, 골란고원을 점령했다. 이 지역들의 지위 문제는 지금도 분쟁의 핵심으로 남아 있다.",
+        "zh": "以色列在六天内击败埃及、约旦和叙利亚，占领西奈半岛、加沙地带、约旦河西岸、东耶路撒冷和戈兰高地。这些土地的地位问题至今仍是冲突的核心。",
+        "ja": "イスラエルはエジプト・ヨルダン・シリアをわずか6日で破り、シナイ半島、ガザ地区、ヨルダン川西岸、東エルサレム、ゴラン高原を占領した。これらの地域の地位は今なお紛争の核心であり続けている。"
+      }
+    },
+    {
+      "year": 1973,
+      "importance": 2,
+      "title": {
+        "en": "Yom Kippur War",
+        "ko": "욤 키푸르 전쟁(제4차 중동전쟁)",
+        "zh": "赎罪日战争（第四次中东战争）",
+        "ja": "第四次中東戦争（ヨム・キプール戦争）"
+      },
+      "description": {
+        "en": "Egypt and Syria launched a surprise attack on Judaism's holiest day. Israel repelled the offensives after initial setbacks, and the war's shock opened the way to disengagement accords and later peace talks.",
+        "ko": "이집트와 시리아가 유대교 최대 명절인 속죄일에 기습 공격을 감행했다. 이스라엘은 초반 열세를 딛고 공세를 격퇴했으며, 이 전쟁의 충격은 이후 병력 분리 합의와 평화 협상의 길을 열었다.",
+        "zh": "埃及和叙利亚在犹太教最神圣的赎罪日发动突袭。以色列在初期失利后击退攻势。这场战争的冲击为此后的脱离接触协议与和平谈判开辟了道路。",
+        "ja": "エジプトとシリアはユダヤ教で最も神聖な贖罪日に奇襲攻撃を仕掛けた。イスラエルは緒戦の劣勢を立て直して攻勢を撃退した。この戦争の衝撃は、のちの兵力引き離し合意と和平交渉への道を開いた。"
+      }
+    },
+    {
+      "year": 1979,
+      "importance": 2,
+      "title": {
+        "en": "Peace treaty with Egypt",
+        "ko": "이집트와의 평화조약",
+        "zh": "埃以和平条约",
+        "ja": "エジプトとの平和条約"
+      },
+      "description": {
+        "en": "Following the Camp David Accords, Israel and Egypt signed the first peace treaty between Israel and an Arab state. Israel completed its withdrawal from the Sinai Peninsula in 1982.",
+        "ko": "캠프데이비드 협정에 이어 이스라엘과 이집트는 이스라엘과 아랍 국가 사이의 첫 평화조약에 서명했다. 이스라엘은 1982년 시나이반도에서 철수를 완료했다.",
+        "zh": "继戴维营协议之后，以色列与埃及签署了以色列与阿拉伯国家之间的首个和平条约。以色列于1982年完成从西奈半岛的撤军。",
+        "ja": "キャンプ・デービッド合意を受けて、イスラエルとエジプトはイスラエルとアラブ国家間で初となる平和条約に調印した。イスラエルは1982年にシナイ半島からの撤退を完了した。"
+      }
+    },
+    {
+      "year": 1993,
+      "importance": 2,
+      "title": {
+        "en": "Oslo Accords",
+        "ko": "오슬로 협정",
+        "zh": "《奥斯陆协议》",
+        "ja": "オスロ合意"
+      },
+      "description": {
+        "en": "Israel and the PLO recognized each other and agreed on interim Palestinian self-government, creating the Palestinian Authority. Final-status issues such as Jerusalem and borders were left unresolved.",
+        "ko": "이스라엘과 팔레스타인해방기구(PLO)가 상호 승인하고 팔레스타인 잠정 자치에 합의해 팔레스타인 자치정부가 출범했다. 그러나 예루살렘과 국경 등 최종 지위 문제는 미해결로 남았다.",
+        "zh": "以色列与巴勒斯坦解放组织相互承认，并就巴勒斯坦过渡自治达成协议，巴勒斯坦民族权力机构由此成立。但耶路撒冷、边界等最终地位问题悬而未决。",
+        "ja": "イスラエルとパレスチナ解放機構（PLO）は相互承認し、パレスチナ暫定自治に合意してパレスチナ自治政府が発足した。しかしエルサレムや国境などの最終地位問題は未解決のまま残された。"
+      }
+    },
+    {
+      "year": 2020,
+      "importance": 3,
+      "title": {
+        "en": "Abraham Accords",
+        "ko": "아브라함 협정",
+        "zh": "《亚伯拉罕协议》",
+        "ja": "アブラハム合意"
+      },
+      "description": {
+        "en": "Israel normalized relations with the United Arab Emirates and Bahrain, later joined by Morocco and Sudan — the first normalization agreements with Arab states since the 1994 treaty with Jordan.",
+        "ko": "이스라엘이 아랍에미리트, 바레인과 국교를 정상화했고 이후 모로코와 수단이 뒤를 이었다. 1994년 요르단과의 조약 이후 처음으로 아랍 국가들과 맺은 관계 정상화 합의였다.",
+        "zh": "以色列与阿拉伯联合酋长国和巴林实现关系正常化，摩洛哥和苏丹随后跟进。这是自1994年与约旦缔约以来，以色列首次与阿拉伯国家达成关系正常化协议。",
+        "ja": "イスラエルはアラブ首長国連邦およびバーレーンと国交を正常化し、その後モロッコとスーダンが続いた。1994年のヨルダンとの条約以来、アラブ諸国との初の国交正常化合意となった。"
+      }
+    }
+  ]
+}
