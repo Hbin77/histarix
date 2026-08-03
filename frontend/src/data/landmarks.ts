@@ -29,7 +29,7 @@ export const COUNTRY_LANDMARKS: Record<string, CountryLandmark> = {
   HR: { name: "Dubrovnik", tagline: "Pearl of the Adriatic", wikiTitle: "Walls_of_Dubrovnik", lat: 42.64, lng: 18.108 },
   CU: { name: "El Capitolio", tagline: "Heart of Havana", wikiTitle: "El_Capitolio", lat: 23.1353, lng: -82.3594 },
   CZ: { name: "Prague Castle", tagline: "Largest ancient castle", wikiTitle: "Prague_Castle", lat: 50.09, lng: 14.4 },
-  DK: { name: "Little Mermaid", tagline: "Copenhagen icon", wikiTitle: "The_Little_Mermaid_(statue)", lat: 55.6929, lng: 12.5993 },
+  DK: { name: "Nyhavn", tagline: "Copenhagen icon", wikiTitle: "Nyhavn", lat: 55.6797, lng: 12.5896 },
   EG: { name: "Pyramids of Giza", tagline: "Cradle of civilization", wikiTitle: "Great_Pyramid_of_Giza", lat: 29.9792, lng: 31.1342 },
   ET: { name: "Lalibela", tagline: "Rock-hewn churches", wikiTitle: "Lalibela", lat: 12.0317, lng: 39.0411 },
   FI: { name: "Helsinki Cathedral", tagline: "Nordic elegance", wikiTitle: "Helsinki_Cathedral", lat: 60.1703, lng: 24.9522 },
