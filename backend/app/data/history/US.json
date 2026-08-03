@@ -1,0 +1,228 @@
+{
+  "events": [
+    {
+      "year": 1050,
+      "importance": 3,
+      "title": {
+        "en": "Cahokia flourishes as North America's largest pre-Columbian city",
+        "ko": "북미 최대의 선주민 도시 카호키아 번영",
+        "zh": "卡霍基亚：哥伦布之前北美最大的城市",
+        "ja": "北米最大の先住民都市カホキアの繁栄"
+      },
+      "description": {
+        "en": "Near present-day St. Louis, the Mississippian city of Cahokia grew to tens of thousands of inhabitants with monumental earthen mounds, attesting to complex indigenous societies long before European contact.",
+        "ko": "미시시피 문화의 중심지 카호키아는 오늘날 세인트루이스 인근에서 수만 명이 거주하는 대도시로 성장했다. 거대한 흙 둔덕 유적은 유럽인 도래 이전 아메리카 선주민 사회의 발전상을 보여준다.",
+        "zh": "密西西比文化中心卡霍基亚位于今圣路易斯附近，人口达数万，筑有宏伟的土丘，见证了欧洲人到来之前美洲原住民社会的高度发展。",
+        "ja": "ミシシッピ文化の中心地カホキアは、現在のセントルイス近郊で数万人が暮らす大都市に発展した。巨大なマウンド群は、ヨーロッパ人到来以前の先住民社会の高度な発展を物語る。"
+      }
+    },
+    {
+      "year": 1607,
+      "importance": 2,
+      "title": {
+        "en": "Jamestown, the first permanent English settlement, is founded",
+        "ko": "최초의 영국 영구 정착지 제임스타운 건설",
+        "zh": "英国首个永久殖民地詹姆斯敦建立",
+        "ja": "イギリス初の恒久的植民地ジェームズタウン建設"
+      },
+      "description": {
+        "en": "English colonists established Jamestown in Virginia, the first permanent English settlement in North America. It marked the beginning of sustained English colonization of the continent.",
+        "ko": "영국 식민지 개척자들이 버지니아에 제임스타운을 세웠다. 북미 최초의 영국 영구 정착지로, 이후 본격적인 영국의 북미 식민화가 시작되는 출발점이 되었다.",
+        "zh": "英国殖民者在弗吉尼亚建立詹姆斯敦，这是英国在北美的第一个永久定居点，标志着英国对北美大陆持续殖民的开端。",
+        "ja": "イギリスの入植者がバージニアにジェームズタウンを建設した。北米初のイギリス恒久的定住地であり、本格的な北米植民地化の出発点となった。"
+      }
+    },
+    {
+      "year": 1620,
+      "importance": 3,
+      "title": {
+        "en": "The Mayflower Pilgrims land at Plymouth",
+        "ko": "메이플라워호 필그림, 플리머스 상륙",
+        "zh": "“五月花号”清教徒登陆普利茅斯",
+        "ja": "メイフラワー号のピルグリム、プリマスに上陸"
+      },
+      "description": {
+        "en": "Puritan separatists aboard the Mayflower landed in present-day Massachusetts and signed the Mayflower Compact, an early exercise in self-government that became a founding narrative of American identity.",
+        "ko": "청교도 분리파가 메이플라워호를 타고 오늘날의 매사추세츠에 상륙해 자치 규약인 메이플라워 서약에 서명했다. 이는 초기 자치의 상징이자 미국 정체성의 건국 서사가 되었다.",
+        "zh": "清教徒分离派乘“五月花号”抵达今马萨诸塞州，并签署《五月花号公约》。这一早期自治实践成为美国身份认同的建国叙事之一。",
+        "ja": "ピューリタン分離派がメイフラワー号で現在のマサチューセッツに上陸し、自治の誓約であるメイフラワー誓約に署名した。アメリカのアイデンティティを形づくる建国の物語となった。"
+      }
+    },
+    {
+      "year": 1776,
+      "importance": 1,
+      "title": {
+        "en": "The Declaration of Independence is adopted",
+        "ko": "미국 독립선언",
+        "zh": "《独立宣言》发表",
+        "ja": "アメリカ独立宣言"
+      },
+      "description": {
+        "en": "On July 4, 1776, the thirteen colonies adopted the Declaration of Independence, proclaiming separation from Britain and asserting that all men are created equal. It marks the birth of the United States.",
+        "ko": "1776년 7월 4일 13개 식민지가 독립선언서를 채택해 영국으로부터의 분리와 만인의 평등을 천명했다. 미합중국 탄생의 출발점으로 기념된다.",
+        "zh": "1776年7月4日，北美十三个殖民地通过《独立宣言》，宣布脱离英国，并宣示人人生而平等。这标志着美利坚合众国的诞生。",
+        "ja": "1776年7月4日、13植民地が独立宣言を採択し、イギリスからの分離とすべての人間の平等を宣言した。アメリカ合衆国誕生の原点である。"
+      }
+    },
+    {
+      "year": 1787,
+      "importance": 1,
+      "title": {
+        "en": "The U.S. Constitution is drafted at Philadelphia",
+        "ko": "필라델피아 제헌회의, 미국 헌법 제정",
+        "zh": "费城制宪会议制定美国宪法",
+        "ja": "フィラデルフィア憲法制定会議"
+      },
+      "description": {
+        "en": "Delegates at the Philadelphia Convention drafted the Constitution, creating a federal republic with separated powers. Ratified in 1788, it remains the world's oldest written national constitution in force.",
+        "ko": "필라델피아 제헌회의에서 삼권분립에 기초한 연방 공화국 헌법이 기초되었다. 1788년 비준된 이 헌법은 현재까지 효력을 유지하는 세계에서 가장 오래된 성문 헌법이다.",
+        "zh": "费城制宪会议起草了美国宪法，确立三权分立的联邦共和体制。宪法于1788年获批准，是世界上现行最古老的成文宪法。",
+        "ja": "フィラデルフィア会議で三権分立に基づく連邦共和制の合衆国憲法が起草された。1788年に批准され、現行の成文憲法としては世界最古である。"
+      }
+    },
+    {
+      "year": 1803,
+      "importance": 2,
+      "title": {
+        "en": "The Louisiana Purchase doubles the nation's territory",
+        "ko": "루이지애나 매입으로 영토 두 배 확장",
+        "zh": "路易斯安那购地使国土倍增",
+        "ja": "ルイジアナ買収で国土が倍増"
+      },
+      "description": {
+        "en": "The United States bought the vast Louisiana Territory from France for 15 million dollars, roughly doubling its size and opening the way for westward expansion across the continent.",
+        "ko": "미국이 프랑스로부터 광대한 루이지애나 영토를 1,500만 달러에 사들여 국토를 약 두 배로 넓혔다. 이는 대륙을 가로지르는 서부 개척의 길을 열었다.",
+        "zh": "美国以1500万美元从法国购得辽阔的路易斯安那领地，使国土面积几乎翻倍，为向西部扩张开辟了道路。",
+        "ja": "アメリカはフランスから広大なルイジアナ領を1500万ドルで購入し、国土をほぼ倍増させた。大陸を横断する西部開拓への道が開かれた。"
+      }
+    },
+    {
+      "year": 1861,
+      "importance": 1,
+      "title": {
+        "en": "The Civil War begins",
+        "ko": "남북전쟁 발발",
+        "zh": "南北战争爆发",
+        "ja": "南北戦争勃発"
+      },
+      "description": {
+        "en": "Conflict over slavery and states' rights erupted into civil war between the Union and the seceding Confederate states. The four-year war cost over 600,000 lives, the deadliest in U.S. history.",
+        "ko": "노예제와 주의 권리를 둘러싼 갈등이 북부 연방과 남부 연합 사이의 내전으로 폭발했다. 4년간의 전쟁으로 60만 명 이상이 목숨을 잃어 미국 역사상 가장 참혹한 전쟁으로 남았다.",
+        "zh": "围绕奴隶制与州权的矛盾激化为北方联邦与南方邦联之间的内战。这场持续四年的战争造成60多万人死亡，是美国历史上伤亡最惨重的战争。",
+        "ja": "奴隷制と州権をめぐる対立が、北部連邦と南部連合の内戦へと発展した。4年におよぶ戦争で60万人以上が命を落とし、アメリカ史上最も犠牲の大きい戦争となった。"
+      }
+    },
+    {
+      "year": 1865,
+      "importance": 2,
+      "title": {
+        "en": "The Civil War ends and slavery is abolished",
+        "ko": "남북전쟁 종결과 노예제 폐지",
+        "zh": "南北战争结束，奴隶制被废除",
+        "ja": "南北戦争終結と奴隷制廃止"
+      },
+      "description": {
+        "en": "The Union victory ended the Civil War, and the Thirteenth Amendment abolished slavery throughout the United States. Reconstruction began, though full civil rights for Black Americans remained a long struggle.",
+        "ko": "북부의 승리로 남북전쟁이 끝나고, 수정헌법 제13조로 미국 전역에서 노예제가 폐지되었다. 재건 시대가 시작되었으나 흑인의 완전한 시민권 확보는 오랜 과제로 남았다.",
+        "zh": "北方获胜结束了内战，宪法第十三修正案在全美废除奴隶制。重建时期随之开始，但黑人争取完整公民权利的斗争仍将持续百年。",
+        "ja": "北部の勝利で南北戦争が終結し、憲法修正第13条により全米で奴隷制が廃止された。再建の時代が始まったが、黒人の完全な公民権の実現は長い闘いとして残った。"
+      }
+    },
+    {
+      "year": 1869,
+      "importance": 3,
+      "title": {
+        "en": "The First Transcontinental Railroad is completed",
+        "ko": "대륙횡단철도 완공",
+        "zh": "首条横贯大陆铁路建成",
+        "ja": "大陸横断鉄道の完成"
+      },
+      "description": {
+        "en": "The Union Pacific and Central Pacific lines met at Promontory Summit, Utah, linking the Atlantic and Pacific coasts by rail and accelerating western settlement and economic integration.",
+        "ko": "유니언 퍼시픽과 센트럴 퍼시픽 철도가 유타주 프로몬토리에서 만나 대서양과 태평양 연안이 철도로 연결되었다. 서부 정착과 경제 통합이 크게 가속되었다.",
+        "zh": "联合太平洋与中央太平洋铁路在犹他州普罗蒙特里接轨，以铁路连接大西洋与太平洋沿岸，大大加速了西部开发与经济一体化。",
+        "ja": "ユニオン・パシフィックとセントラル・パシフィックの両鉄道がユタ州プロモントリーで接続し、大西洋岸と太平洋岸が鉄道で結ばれた。西部開拓と経済統合が加速した。"
+      }
+    },
+    {
+      "year": 1929,
+      "importance": 2,
+      "title": {
+        "en": "The Wall Street Crash triggers the Great Depression",
+        "ko": "대공황 시작",
+        "zh": "华尔街股灾引发大萧条",
+        "ja": "ウォール街大暴落と世界恐慌"
+      },
+      "description": {
+        "en": "The stock market collapse of October 1929 plunged the U.S. and the world into the Great Depression. Franklin D. Roosevelt's New Deal reshaped the role of the federal government in the economy.",
+        "ko": "1929년 10월 월가의 주가 대폭락으로 미국과 세계가 대공황에 빠졌다. 이후 프랭클린 루스벨트의 뉴딜 정책은 경제에서 연방정부의 역할을 근본적으로 바꾸어 놓았다.",
+        "zh": "1929年10月股市崩盘使美国和世界陷入大萧条。此后罗斯福推行“新政”，从根本上改变了联邦政府在经济中的角色。",
+        "ja": "1929年10月の株価大暴落により、アメリカと世界は大恐慌に突入した。フランクリン・ルーズベルトのニューディール政策は、経済における連邦政府の役割を大きく変えた。"
+      }
+    },
+    {
+      "year": 1941,
+      "importance": 2,
+      "title": {
+        "en": "Pearl Harbor attack brings the U.S. into World War II",
+        "ko": "진주만 공습과 제2차 세계대전 참전",
+        "zh": "珍珠港事件，美国参加二战",
+        "ja": "真珠湾攻撃と第二次世界大戦参戦"
+      },
+      "description": {
+        "en": "Japan's surprise attack on the naval base at Pearl Harbor on December 7, 1941 propelled the United States into World War II. The war transformed the U.S. into a global military and industrial power.",
+        "ko": "1941년 12월 7일 일본의 진주만 기습으로 미국은 제2차 세계대전에 참전했다. 전쟁을 거치며 미국은 세계적인 군사·산업 강국으로 부상했다.",
+        "zh": "1941年12月7日，日本偷袭珍珠港海军基地，美国因此参加第二次世界大战。战争使美国崛起为全球军事与工业强国。",
+        "ja": "1941年12月7日、日本軍による真珠湾攻撃を受け、アメリカは第二次世界大戦に参戦した。戦争を経てアメリカは世界的な軍事・産業大国となった。"
+      }
+    },
+    {
+      "year": 1964,
+      "importance": 1,
+      "title": {
+        "en": "The Civil Rights Act outlaws segregation",
+        "ko": "민권법 제정, 인종 분리 철폐",
+        "zh": "《民权法案》废除种族隔离",
+        "ja": "公民権法成立、人種隔離を撤廃"
+      },
+      "description": {
+        "en": "Following the movement led by Martin Luther King Jr. and many others, the Civil Rights Act of 1964 banned segregation and discrimination by race, color, religion, sex, or national origin, a landmark of American democracy.",
+        "ko": "마틴 루서 킹 목사 등이 이끈 민권운동의 결실로 1964년 민권법이 제정되어 인종·피부색·종교·성별에 따른 분리와 차별이 금지되었다. 미국 민주주의의 이정표로 꼽힌다.",
+        "zh": "在马丁·路德·金等人领导的民权运动推动下，1964年《民权法案》通过，禁止基于种族、肤色、宗教和性别的隔离与歧视，成为美国民主的重要里程碑。",
+        "ja": "キング牧師らが率いた公民権運動の成果として1964年に公民権法が成立し、人種・皮膚の色・宗教・性別による隔離と差別が禁止された。アメリカ民主主義の画期をなす。"
+      }
+    },
+    {
+      "year": 1969,
+      "importance": 1,
+      "title": {
+        "en": "Apollo 11 lands the first humans on the Moon",
+        "ko": "아폴로 11호 인류 최초의 달 착륙",
+        "zh": "阿波罗11号首次载人登月",
+        "ja": "アポロ11号、人類初の月面着陸"
+      },
+      "description": {
+        "en": "Neil Armstrong and Buzz Aldrin walked on the Moon on July 20, 1969, fulfilling the goal of the Apollo program during the Cold War space race, a milestone of human exploration.",
+        "ko": "1969년 7월 20일 닐 암스트롱과 버즈 올드린이 인류 최초로 달 표면을 밟았다. 냉전기 우주 경쟁 속 아폴로 계획의 목표를 달성한 인류 탐사의 이정표였다.",
+        "zh": "1969年7月20日，阿姆斯特朗和奥尔德林成为最早踏上月球的人类。这是冷战太空竞赛中阿波罗计划的巅峰，也是人类探索史上的里程碑。",
+        "ja": "1969年7月20日、アームストロングとオルドリンが人類として初めて月面に降り立った。冷戦下の宇宙開発競争におけるアポロ計画の到達点であり、人類探査史の金字塔である。"
+      }
+    },
+    {
+      "year": 2001,
+      "importance": 2,
+      "title": {
+        "en": "The September 11 attacks",
+        "ko": "9·11 테러",
+        "zh": "九一一恐怖袭击",
+        "ja": "アメリカ同時多発テロ（9.11）"
+      },
+      "description": {
+        "en": "Al-Qaeda hijackers destroyed the World Trade Center and struck the Pentagon, killing nearly 3,000 people. The attacks reshaped U.S. security policy and led to the wars in Afghanistan and Iraq.",
+        "ko": "알카에다의 항공기 납치 테러로 세계무역센터가 붕괴되고 국방부 청사가 공격받아 약 3천 명이 희생되었다. 이 사건은 미국 안보 정책을 근본적으로 바꾸고 아프가니스탄·이라크 전쟁으로 이어졌다.",
+        "zh": "基地组织劫持客机撞毁世贸中心并袭击五角大楼，近3000人遇难。事件深刻改变了美国的安全政策，并引发阿富汗战争和伊拉克战争。",
+        "ja": "アルカイダによる旅客機ハイジャックで世界貿易センタービルが崩壊し、国防総省も攻撃を受け、約3000人が犠牲となった。米国の安全保障政策を一変させ、アフガニスタン・イラク戦争につながった。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "events": [
+    {
+      "year": 833,
+      "importance": 1,
+      "title": {
+        "en": "Rise of Great Moravia",
+        "ko": "대모라비아 왕국의 성립",
+        "zh": "大摩拉维亚国的兴起",
+        "ja": "大モラヴィア国の成立"
+      },
+      "description": {
+        "en": "Prince Mojmír I united the principalities of Moravia and Nitra, creating Great Moravia, the first major Slavic state, which encompassed the territory of today's Slovakia.",
+        "ko": "모이미르 1세가 모라비아와 니트라 공국을 통합해 대모라비아 왕국을 세웠다. 최초의 주요 슬라브 국가로, 오늘날의 슬로바키아 영토를 아울렀다.",
+        "zh": "莫伊米尔一世统一摩拉维亚和尼特拉两公国，建立了大摩拉维亚国。这是第一个重要的斯拉夫国家，其版图涵盖今斯洛伐克全境。",
+        "ja": "モイミール1世がモラヴィアとニトラの両公国を統合し、大モラヴィア国を建てた。最初の有力なスラヴ国家であり、今日のスロバキアの領域を含んでいた。"
+      }
+    },
+    {
+      "year": 863,
+      "importance": 2,
+      "title": {
+        "en": "Mission of Cyril and Methodius",
+        "ko": "키릴로스와 메토디오스의 선교",
+        "zh": "西里尔与美多德的传教",
+        "ja": "キュリロスとメトディオスの布教"
+      },
+      "description": {
+        "en": "The Byzantine brothers Cyril and Methodius arrived in Great Moravia, devising the Glagolitic script and introducing the Slavonic liturgy — a foundation of Slavic literacy and Christianity.",
+        "ko": "비잔티움 출신 형제 키릴로스와 메토디오스가 대모라비아에 도착해 글라골 문자를 만들고 슬라브어 전례를 도입했다. 슬라브 문자 문화와 기독교의 토대가 되었다.",
+        "zh": "拜占庭兄弟西里尔与美多德来到大摩拉维亚，创制格拉哥里字母并引入斯拉夫语礼拜仪式，为斯拉夫文字文化与基督教奠定了基础。",
+        "ja": "ビザンツ出身の兄弟キュリロスとメトディオスが大モラヴィアに到来し、グラゴル文字を考案してスラヴ語典礼を導入した。スラヴ文字文化とキリスト教の礎となった。"
+      }
+    },
+    {
+      "year": 1000,
+      "importance": 2,
+      "title": {
+        "en": "Incorporation into the Kingdom of Hungary",
+        "ko": "헝가리 왕국으로의 편입",
+        "zh": "并入匈牙利王国",
+        "ja": "ハンガリー王国への編入"
+      },
+      "description": {
+        "en": "After the fall of Great Moravia, the territory of Slovakia was gradually absorbed into the medieval Kingdom of Hungary, of which it remained part for some 900 years.",
+        "ko": "대모라비아 왕국이 몰락한 뒤 슬로바키아 지역은 점차 중세 헝가리 왕국에 편입되어 이후 약 900년간 그 일부로 남았다.",
+        "zh": "大摩拉维亚灭亡后，斯洛伐克地区逐渐并入中世纪的匈牙利王国，此后约900年一直是其组成部分。",
+        "ja": "大モラヴィア国の滅亡後、スロバキアの地は中世ハンガリー王国に徐々に編入され、以後およそ900年間その一部であり続けた。"
+      }
+    },
+    {
+      "year": 1536,
+      "importance": 2,
+      "title": {
+        "en": "Bratislava becomes capital of Habsburg Hungary",
+        "ko": "브라티슬라바, 합스부르크 헝가리의 수도가 되다",
+        "zh": "布拉迪斯拉发成为哈布斯堡匈牙利首都",
+        "ja": "ブラチスラバ、ハプスブルク領ハンガリーの首都に"
+      },
+      "description": {
+        "en": "After the Ottomans seized Buda, Bratislava (Pressburg) was made the capital and coronation city of Habsburg-ruled Hungary; Hungarian kings and queens were crowned there until 1830.",
+        "ko": "오스만 제국이 부다를 점령하자 브라티슬라바(프레스부르크)가 합스부르크령 헝가리의 수도이자 대관식 도시가 되었다. 1830년까지 헝가리 국왕들의 대관식이 이곳에서 거행되었다.",
+        "zh": "奥斯曼帝国攻占布达后，布拉迪斯拉发（普雷斯堡）成为哈布斯堡统治下匈牙利的首都和加冕之城，直至1830年匈牙利历代国王均在此加冕。",
+        "ja": "オスマン帝国がブダを占領すると、ブラチスラバ（プレスブルク）はハプスブルク統治下ハンガリーの首都かつ戴冠都市となり、1830年までハンガリー王の戴冠式が行われた。"
+      }
+    },
+    {
+      "year": 1843,
+      "importance": 2,
+      "title": {
+        "en": "Codification of literary Slovak",
+        "ko": "슬로바키아 표준 문어의 확립",
+        "zh": "斯洛伐克标准语的确立",
+        "ja": "スロバキア標準文語の確立"
+      },
+      "description": {
+        "en": "Ľudovít Štúr codified a standard Slovak literary language based on central Slovak dialects, uniting Catholic and Protestant writing traditions and fueling the national revival.",
+        "ko": "류도비트 슈투르가 중부 슬로바키아 방언을 바탕으로 표준 문어를 확립했다. 가톨릭과 개신교의 문어 전통을 통합하며 민족 부흥 운동에 힘을 불어넣었다.",
+        "zh": "卢多维特·什图尔以中部斯洛伐克方言为基础确立了标准书面语，统一了天主教与新教的书写传统，推动了民族复兴运动。",
+        "ja": "リュドヴィート・シュトゥールが中部スロバキア方言を基礎に標準文語を確立した。カトリックとプロテスタントの書き言葉の伝統を統合し、民族復興運動を後押しした。"
+      }
+    },
+    {
+      "year": 1918,
+      "importance": 1,
+      "title": {
+        "en": "Founding of Czechoslovakia",
+        "ko": "체코슬로바키아 건국",
+        "zh": "捷克斯洛伐克建国",
+        "ja": "チェコスロバキアの建国"
+      },
+      "description": {
+        "en": "With the Martin Declaration, Slovaks joined the Czechs in the new Czechoslovak Republic, ending roughly a millennium of Hungarian rule over Slovakia.",
+        "ko": "마르틴 선언으로 슬로바키아인들은 체코인들과 함께 새로운 체코슬로바키아 공화국에 참여했다. 이로써 슬로바키아에 대한 천 년에 걸친 헝가리 지배가 끝났다.",
+        "zh": "通过《马丁宣言》，斯洛伐克人与捷克人共同组成新的捷克斯洛伐克共和国，结束了匈牙利对斯洛伐克近千年的统治。",
+        "ja": "マルティン宣言により、スロバキア人はチェコ人とともに新生チェコスロバキア共和国に加わった。これによりスロバキアに対する約千年に及ぶハンガリー支配が終わった。"
+      }
+    },
+    {
+      "year": 1939,
+      "importance": 2,
+      "title": {
+        "en": "Wartime Slovak State",
+        "ko": "제2차 세계대전기의 슬로바키아국",
+        "zh": "战时斯洛伐克国",
+        "ja": "戦時下のスロバキア国"
+      },
+      "description": {
+        "en": "After the German dismemberment of Czechoslovakia, a nominally independent Slovak State was established under Jozef Tiso as a client of Nazi Germany; it took part in deportations of Slovak Jews.",
+        "ko": "독일이 체코슬로바키아를 해체하자 요제프 티소를 수반으로 하는 명목상 독립국인 슬로바키아국이 나치 독일의 위성국으로 수립되었고, 슬로바키아 유대인의 강제 이송에 관여했다.",
+        "zh": "德国肢解捷克斯洛伐克后，以约瑟夫·蒂索为首、名义上独立的斯洛伐克国作为纳粹德国的附庸国成立，并参与了对斯洛伐克犹太人的驱逐。",
+        "ja": "ドイツによるチェコスロバキア解体後、ヨゼフ・ティソを首班とする名目上独立のスロバキア国がナチス・ドイツの従属国として成立し、スロバキアのユダヤ人の強制移送にも関与した。"
+      }
+    },
+    {
+      "year": 1944,
+      "importance": 2,
+      "title": {
+        "en": "Slovak National Uprising",
+        "ko": "슬로바키아 민족봉기",
+        "zh": "斯洛伐克民族起义",
+        "ja": "スロバキア国民蜂起"
+      },
+      "description": {
+        "en": "Slovak resistance forces rose against the German occupation and the collaborationist regime. Though suppressed after two months, the uprising became a cornerstone of modern Slovak identity.",
+        "ko": "슬로바키아 저항 세력이 독일 점령군과 부역 정권에 맞서 봉기했다. 두 달 만에 진압되었지만, 이 봉기는 현대 슬로바키아 정체성의 초석이 되었다.",
+        "zh": "斯洛伐克抵抗力量奋起反抗德国占领军和附敌政权。起义虽在两个月后被镇压，却成为现代斯洛伐克认同的基石。",
+        "ja": "スロバキアの抵抗勢力がドイツ占領軍と対独協力政権に対して蜂起した。2か月で鎮圧されたものの、この蜂起は現代スロバキアのアイデンティティの礎となった。"
+      }
+    },
+    {
+      "year": 1948,
+      "importance": 2,
+      "title": {
+        "en": "Communist takeover of Czechoslovakia",
+        "ko": "체코슬로바키아 공산당 집권",
+        "zh": "捷克斯洛伐克共产党夺权",
+        "ja": "チェコスロバキアの共産党政権掌握"
+      },
+      "description": {
+        "en": "The Communist Party seized full power in Czechoslovakia in February 1948, beginning four decades of one-party rule, nationalization and alignment with the Soviet bloc.",
+        "ko": "1948년 2월 공산당이 체코슬로바키아의 권력을 완전히 장악했다. 이후 40년에 걸친 일당 지배와 국유화, 소련 진영 편입이 이어졌다.",
+        "zh": "1948年2月，共产党全面掌握捷克斯洛伐克政权，此后开始了长达四十年的一党统治、国有化和对苏联阵营的依附。",
+        "ja": "1948年2月、共産党がチェコスロバキアの全権を掌握した。以後40年にわたる一党支配、国有化、ソ連圏への編入が続いた。"
+      }
+    },
+    {
+      "year": 1968,
+      "importance": 2,
+      "title": {
+        "en": "Prague Spring and Warsaw Pact invasion",
+        "ko": "프라하의 봄과 바르샤바 조약군의 침공",
+        "zh": "布拉格之春与华约入侵",
+        "ja": "プラハの春とワルシャワ条約機構軍の侵攻"
+      },
+      "description": {
+        "en": "The reform movement led by Slovak communist Alexander Dubček was crushed by a Warsaw Pact invasion. The 1968 federalization law nonetheless made Slovakia a formally equal republic within Czechoslovakia.",
+        "ko": "슬로바키아 출신 알렉산데르 둡체크가 이끈 개혁 운동이 바르샤바 조약군의 침공으로 좌절되었다. 다만 1968년의 연방화법으로 슬로바키아는 체코슬로바키아 내에서 형식상 대등한 공화국이 되었다.",
+        "zh": "斯洛伐克人亚历山大·杜布切克领导的改革运动被华约军队的入侵扼杀。不过1968年的联邦化法案使斯洛伐克在捷克斯洛伐克境内成为形式上平等的共和国。",
+        "ja": "スロバキア出身のアレクサンデル・ドプチェクが率いた改革運動は、ワルシャワ条約機構軍の侵攻によって挫折した。しかし1968年の連邦化法により、スロバキアは形式上対等な共和国となった。"
+      }
+    },
+    {
+      "year": 1989,
+      "importance": 1,
+      "title": {
+        "en": "Velvet Revolution",
+        "ko": "벨벳 혁명",
+        "zh": "天鹅绒革命",
+        "ja": "ビロード革命"
+      },
+      "description": {
+        "en": "Mass peaceful protests in November 1989 brought down the communist regime in Czechoslovakia, restoring democracy and paving the way for free elections.",
+        "ko": "1989년 11월 대규모 평화 시위가 체코슬로바키아의 공산 정권을 무너뜨렸다. 민주주의가 회복되고 자유선거의 길이 열렸다.",
+        "zh": "1989年11月，大规模和平示威推翻了捷克斯洛伐克的共产党政权，民主得以恢复，为自由选举铺平了道路。",
+        "ja": "1989年11月、大規模な平和的デモがチェコスロバキアの共産主義政権を崩壊させた。民主主義が回復され、自由選挙への道が開かれた。"
+      }
+    },
+    {
+      "year": 1993,
+      "importance": 1,
+      "title": {
+        "en": "Independent Slovak Republic",
+        "ko": "슬로바키아 공화국 독립",
+        "zh": "斯洛伐克共和国独立",
+        "ja": "スロバキア共和国の独立"
+      },
+      "description": {
+        "en": "On 1 January 1993, Czechoslovakia peacefully split in the 'Velvet Divorce', and the independent Slovak Republic was born with Bratislava as its capital.",
+        "ko": "1993년 1월 1일 체코슬로바키아가 '벨벳 이혼'으로 불리는 평화적 분리를 거치며, 브라티슬라바를 수도로 하는 독립 슬로바키아 공화국이 탄생했다.",
+        "zh": "1993年1月1日，捷克斯洛伐克以被称为“天鹅绒分离”的和平方式一分为二，以布拉迪斯拉发为首都的独立斯洛伐克共和国由此诞生。",
+        "ja": "1993年1月1日、チェコスロバキアは「ビロード離婚」と呼ばれる平和的な分離を遂げ、ブラチスラバを首都とする独立国スロバキア共和国が誕生した。"
+      }
+    },
+    {
+      "year": 2004,
+      "importance": 1,
+      "title": {
+        "en": "Accession to the EU and NATO",
+        "ko": "EU·NATO 가입",
+        "zh": "加入欧盟与北约",
+        "ja": "EU・NATO加盟"
+      },
+      "description": {
+        "en": "Slovakia joined NATO in March and the European Union in May 2004, completing its integration into Western political and security structures after a decade of reforms.",
+        "ko": "슬로바키아는 2004년 3월 NATO에, 5월에는 유럽연합에 가입했다. 10여 년의 개혁 끝에 서방의 정치·안보 체제로의 통합을 완성했다.",
+        "zh": "斯洛伐克于2004年3月加入北约，5月加入欧盟。经过十余年改革，完成了融入西方政治与安全体系的进程。",
+        "ja": "スロバキアは2004年3月にNATO、5月に欧州連合へ加盟した。10年余りの改革を経て、西側の政治・安全保障体制への統合を完成させた。"
+      }
+    },
+    {
+      "year": 2009,
+      "importance": 2,
+      "title": {
+        "en": "Adoption of the euro",
+        "ko": "유로화 도입",
+        "zh": "采用欧元",
+        "ja": "ユーロ導入"
+      },
+      "description": {
+        "en": "Slovakia adopted the euro on 1 January 2009, the first country of the Visegrad Group to join the eurozone, underscoring its export-driven economic transformation.",
+        "ko": "슬로바키아는 2009년 1월 1일 비셰그라드 그룹 국가 중 처음으로 유로존에 가입했다. 수출 주도의 경제 전환을 상징하는 성과였다.",
+        "zh": "2009年1月1日，斯洛伐克成为维谢格拉德集团中首个加入欧元区的国家，凸显了其以出口为导向的经济转型成就。",
+        "ja": "スロバキアは2009年1月1日、ヴィシェグラード・グループ諸国で最初にユーロ圏へ加わった。輸出主導の経済転換を象徴する出来事となった。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "events": [
+    {
+      "year": 14,
+      "importance": 3,
+      "title": {
+        "en": "Roman Emona founded",
+        "ko": "로마 식민도시 에모나 건설",
+        "zh": "罗马殖民城市埃莫纳建立",
+        "ja": "ローマ植民市エモナの建設"
+      },
+      "description": {
+        "en": "The Romans established the colony of Emona on the site of present-day Ljubljana, linking the region to Italy by roads and trade. Roman rule shaped the area for centuries.",
+        "ko": "로마인들이 오늘날의 류블랴나 자리에 식민도시 에모나를 세웠다. 이 지역은 도로와 교역으로 이탈리아와 연결되며 수백 년간 로마의 지배를 받았다.",
+        "zh": "罗马人在今卢布尔雅那所在地建立殖民城市埃莫纳。该地区通过道路与贸易同意大利相连，此后数百年处于罗马统治之下。",
+        "ja": "ローマ人が現在のリュブリャナの地に植民市エモナを築いた。この地域は道路と交易でイタリアと結ばれ、数世紀にわたりローマの支配下に置かれた。"
+      }
+    },
+    {
+      "year": 568,
+      "importance": 2,
+      "title": {
+        "en": "Slavs settle the Eastern Alps",
+        "ko": "슬라브족의 동알프스 정착",
+        "zh": "斯拉夫人定居东阿尔卑斯",
+        "ja": "スラヴ人の東アルプス定住"
+      },
+      "description": {
+        "en": "In the late 6th century, Slavic tribes—ancestors of the Slovenes—migrated into the Eastern Alpine region after the departure of the Lombards, laying the ethnic foundation of the future Slovenia.",
+        "ko": "6세기 후반 랑고바르드족이 떠난 뒤 슬로베니아인의 조상인 슬라브 부족들이 동알프스 지역으로 이주해 정착했다. 오늘날 슬로베니아 민족의 토대가 마련되었다.",
+        "zh": "6世纪后期，伦巴第人西迁后，斯洛文尼亚人的祖先——斯拉夫部落迁入东阿尔卑斯地区定居，奠定了今日斯洛文尼亚民族的基础。",
+        "ja": "6世紀後半、ランゴバルド族の移動後、スロベニア人の祖先にあたるスラヴ諸部族が東アルプス地方に移住・定住し、今日のスロベニア民族の基礎が築かれた。"
+      }
+    },
+    {
+      "year": 658,
+      "importance": 1,
+      "title": {
+        "en": "Principality of Carantania",
+        "ko": "카란타니아 공국의 성립",
+        "zh": "卡兰塔尼亚公国建立",
+        "ja": "カランタニア公国の成立"
+      },
+      "description": {
+        "en": "Carantania, one of the earliest known Slavic polities, emerged in the Eastern Alps. Its ritual enthronement of princes at the Prince's Stone became an enduring symbol of Slovene statehood.",
+        "ko": "알려진 최초의 슬라브계 국가 중 하나인 카란타니아가 동알프스에 세워졌다. '공후의 돌'에서 행해진 군주 즉위 의식은 슬로베니아 국가 전통의 상징이 되었다.",
+        "zh": "最早的斯拉夫政权之一——卡兰塔尼亚公国在东阿尔卑斯地区形成。在“公爵之石”上举行的君主即位仪式成为斯洛文尼亚国家传统的象征。",
+        "ja": "最古のスラヴ系国家の一つとされるカランタニアが東アルプスに成立した。「公爵の石」で行われた君主即位の儀式は、スロベニアの国家伝統の象徴となった。"
+      }
+    },
+    {
+      "year": 745,
+      "importance": 3,
+      "title": {
+        "en": "Frankish overlordship and Christianization",
+        "ko": "카란타니아의 프랑크 복속과 기독교화",
+        "zh": "归附法兰克并接受基督教",
+        "ja": "カランタニアのフランク服属とキリスト教化"
+      },
+      "description": {
+        "en": "Facing Avar pressure, Carantania accepted Bavarian and then Frankish overlordship. Christian missionaries from Salzburg gradually converted the Alpine Slavs.",
+        "ko": "아바르족의 위협에 직면한 카란타니아는 바이에른과 프랑크 왕국의 종주권을 받아들였다. 잘츠부르크에서 온 선교사들에 의해 알프스 슬라브인의 기독교화가 진행되었다.",
+        "zh": "面对阿瓦尔人的威胁，卡兰塔尼亚先后接受巴伐利亚和法兰克王国的宗主权。来自萨尔茨堡的传教士逐渐使阿尔卑斯斯拉夫人皈依基督教。",
+        "ja": "アヴァール人の脅威に直面したカランタニアは、バイエルンさらにフランク王国の宗主権を受け入れた。ザルツブルクからの宣教師により、アルプスのスラヴ人のキリスト教化が進んだ。"
+      }
+    },
+    {
+      "year": 1000,
+      "importance": 2,
+      "title": {
+        "en": "Freising Manuscripts written",
+        "ko": "프라이징 필사본 작성",
+        "zh": "《弗赖辛手稿》成文",
+        "ja": "フライジング写本の成立"
+      },
+      "description": {
+        "en": "The Freising Manuscripts, the oldest surviving texts in Slovene and the first Slavic-language texts written in the Latin alphabet, were produced around this time.",
+        "ko": "슬로베니아어로 남아 있는 가장 오래된 문헌이자 라틴 문자로 기록된 최초의 슬라브어 문헌인 프라이징 필사본이 이 무렵 작성되었다.",
+        "zh": "现存最古老的斯洛文尼亚语文献、也是最早用拉丁字母书写的斯拉夫语文本——《弗赖辛手稿》约于此时写成。",
+        "ja": "現存最古のスロベニア語文献であり、ラテン文字で書かれた最初のスラヴ語テキストでもあるフライジング写本が、この頃に作成された。"
+      }
+    },
+    {
+      "year": 1335,
+      "importance": 2,
+      "title": {
+        "en": "Habsburg rule begins",
+        "ko": "합스부르크 지배의 시작",
+        "zh": "哈布斯堡统治开始",
+        "ja": "ハプスブルク支配の開始"
+      },
+      "description": {
+        "en": "The Habsburgs acquired Carinthia and Carniola, bringing most Slovene-inhabited lands under their rule. Habsburg control lasted, with brief interruptions, until 1918.",
+        "ko": "합스부르크 가문이 케른텐과 크라인을 획득하면서 슬로베니아인 거주 지역 대부분이 그 지배 아래 들어갔다. 합스부르크의 통치는 짧은 중단기를 제외하면 1918년까지 이어졌다.",
+        "zh": "哈布斯堡家族取得克恩滕与卡尼奥拉，斯洛文尼亚人聚居地的大部分自此纳入其统治，并一直延续到1918年。",
+        "ja": "ハプスブルク家がケルンテンとクライン（カルニオラ）を獲得し、スロベニア人居住地域の大半がその支配下に入った。ハプスブルクの統治は1918年まで続いた。"
+      }
+    },
+    {
+      "year": 1550,
+      "importance": 1,
+      "title": {
+        "en": "First printed books in Slovene",
+        "ko": "최초의 슬로베니아어 인쇄서 간행",
+        "zh": "首批斯洛文尼亚语印刷书籍",
+        "ja": "スロベニア語初の印刷書"
+      },
+      "description": {
+        "en": "Protestant reformer Primož Trubar published the Catechismus and Abecedarium, the first books printed in Slovene, founding the Slovene literary language.",
+        "ko": "종교개혁가 프리모주 트루바르가 최초의 슬로베니아어 인쇄서인 『교리문답』과 『철자법』을 출간해 슬로베니아 문어의 기초를 놓았다.",
+        "zh": "宗教改革家普里莫日·特鲁巴尔出版了最早的斯洛文尼亚语印刷书籍《教理问答》和《识字读本》，奠定了斯洛文尼亚书面语的基础。",
+        "ja": "宗教改革者プリモシュ・トルバルが、スロベニア語初の印刷書『カテキズム』と『アベツェダリウム』を刊行し、スロベニア文語の基礎を築いた。"
+      }
+    },
+    {
+      "year": 1809,
+      "importance": 3,
+      "title": {
+        "en": "Napoleon's Illyrian Provinces",
+        "ko": "나폴레옹의 일리리아 주 설치",
+        "zh": "拿破仑设立伊利里亚省",
+        "ja": "ナポレオンのイリュリア州"
+      },
+      "description": {
+        "en": "Napoleon created the Illyrian Provinces with Ljubljana as their capital. The brief French rule promoted the use of Slovene in schools and stimulated national awakening.",
+        "ko": "나폴레옹이 류블랴나를 수도로 하는 일리리아 주를 설치했다. 짧은 프랑스 통치기에 학교에서 슬로베니아어 사용이 장려되어 민족 의식이 자라났다.",
+        "zh": "拿破仑设立以卢布尔雅那为首府的伊利里亚省。短暂的法国统治鼓励学校使用斯洛文尼亚语，促进了民族意识的觉醒。",
+        "ja": "ナポレオンはリュブリャナを州都とするイリュリア州を設置した。短いフランス統治期に学校でのスロベニア語使用が奨励され、民族意識の目覚めを促した。"
+      }
+    },
+    {
+      "year": 1848,
+      "importance": 2,
+      "title": {
+        "en": "'United Slovenia' programme",
+        "ko": "'통일 슬로베니아' 강령",
+        "zh": "“统一斯洛文尼亚”纲领",
+        "ja": "「統一スロベニア」綱領"
+      },
+      "description": {
+        "en": "During the revolutions of 1848, Slovene intellectuals put forward the 'United Slovenia' programme, demanding the union of all Slovene lands in one autonomous unit — the core Slovene political goal until 1918.",
+        "ko": "1848년 혁명기에 슬로베니아 지식인들이 모든 슬로베니아인 거주지를 하나의 자치 단위로 통합하자는 '통일 슬로베니아' 강령을 내놓았다. 이는 1918년까지 슬로베니아 정치 운동의 핵심 목표였다.",
+        "zh": "1848年革命期间，斯洛文尼亚知识分子提出“统一斯洛文尼亚”纲领，要求将所有斯洛文尼亚人聚居地合并为一个自治单位。这一直是1918年前斯洛文尼亚政治运动的核心目标。",
+        "ja": "1848年革命の中で、スロベニアの知識人たちは全スロベニア人居住地を一つの自治単位に統合するよう求める「統一スロベニア」綱領を掲げた。これは1918年までスロベニア政治運動の中心的目標であった。"
+      }
+    },
+    {
+      "year": 1918,
+      "importance": 2,
+      "title": {
+        "en": "Joining the first Yugoslavia",
+        "ko": "유고슬라비아 왕국 참여",
+        "zh": "加入第一南斯拉夫",
+        "ja": "第一のユーゴスラビアへの参加"
+      },
+      "description": {
+        "en": "After the collapse of Austria-Hungary, Slovenes joined the State of Slovenes, Croats and Serbs, which merged into the Kingdom of Serbs, Croats and Slovenes, later renamed Yugoslavia.",
+        "ko": "오스트리아-헝가리 제국이 해체되자 슬로베니아인들은 슬로베니아-크로아티아-세르비아국을 거쳐 세르비아-크로아티아-슬로베니아 왕국(훗날의 유고슬라비아)에 합류했다.",
+        "zh": "奥匈帝国解体后，斯洛文尼亚人先加入斯洛文尼亚人-克罗地亚人-塞尔维亚人国，随后并入塞尔维亚人-克罗地亚人-斯洛文尼亚人王国，即后来的南斯拉夫。",
+        "ja": "オーストリア＝ハンガリー帝国の解体後、スロベニア人はスロベニア人・クロアチア人・セルビア人国を経て、のちのユーゴスラビアとなるセルビア人・クロアチア人・スロベニア人王国に加わった。"
+      }
+    },
+    {
+      "year": 1945,
+      "importance": 2,
+      "title": {
+        "en": "Republic within socialist Yugoslavia",
+        "ko": "사회주의 유고슬라비아의 공화국",
+        "zh": "成为社会主义南斯拉夫的共和国",
+        "ja": "社会主義ユーゴスラビアの共和国に"
+      },
+      "description": {
+        "en": "After World War II and the Partisan resistance, Slovenia became one of the six republics of socialist Yugoslavia, regaining the Littoral region previously annexed by Italy.",
+        "ko": "제2차 세계대전과 파르티잔 항쟁을 거쳐 슬로베니아는 사회주의 유고슬라비아를 구성하는 6개 공화국 중 하나가 되었고, 이탈리아에 병합되었던 프리모르스카 지역을 되찾았다.",
+        "zh": "经过第二次世界大战和游击队抵抗运动，斯洛文尼亚成为社会主义南斯拉夫六个共和国之一，并收回了曾被意大利吞并的滨海地区。",
+        "ja": "第二次世界大戦とパルチザンの抵抗を経て、スロベニアは社会主義ユーゴスラビアを構成する6共和国の一つとなり、イタリアに併合されていた沿海地方を回復した。"
+      }
+    },
+    {
+      "year": 1991,
+      "importance": 1,
+      "title": {
+        "en": "Independence and the Ten-Day War",
+        "ko": "독립 선언과 10일 전쟁",
+        "zh": "宣布独立与十日战争",
+        "ja": "独立宣言と十日間戦争"
+      },
+      "description": {
+        "en": "Following a plebiscite in which nearly 89% voted for independence, Slovenia declared independence from Yugoslavia on 25 June 1991 and defended it in the brief Ten-Day War.",
+        "ko": "국민투표에서 약 89%가 독립에 찬성한 뒤, 슬로베니아는 1991년 6월 25일 유고슬라비아로부터 독립을 선언했고, 짧은 10일 전쟁을 통해 이를 지켜냈다.",
+        "zh": "在近89%选民赞成独立的公投之后，斯洛文尼亚于1991年6月25日宣布脱离南斯拉夫独立，并在短暂的十日战争中捍卫了独立。",
+        "ja": "国民投票で約89%が独立に賛成したのを受け、スロベニアは1991年6月25日にユーゴスラビアからの独立を宣言し、短期間の十日間戦争でこれを守り抜いた。"
+      }
+    },
+    {
+      "year": 2004,
+      "importance": 1,
+      "title": {
+        "en": "Accession to the EU and NATO",
+        "ko": "EU·NATO 가입",
+        "zh": "加入欧盟与北约",
+        "ja": "EU・NATO加盟"
+      },
+      "description": {
+        "en": "Slovenia joined both NATO and the European Union in 2004, the first former Yugoslav republic to do so, anchoring itself in Western political and economic structures.",
+        "ko": "슬로베니아는 2004년 구유고슬라비아 공화국 중 처음으로 NATO와 유럽연합에 모두 가입하며 서방의 정치·경제 체제에 확고히 편입되었다.",
+        "zh": "2004年，斯洛文尼亚加入北约和欧盟，成为首个实现这一目标的前南斯拉夫共和国，稳固地融入西方政治经济体系。",
+        "ja": "スロベニアは2004年、旧ユーゴスラビア諸国で初めてNATOと欧州連合の双方に加盟し、西側の政治・経済体制への統合を確かなものにした。"
+      }
+    },
+    {
+      "year": 2007,
+      "importance": 2,
+      "title": {
+        "en": "First new EU member to adopt the euro",
+        "ko": "신규 EU 가입국 최초의 유로화 도입",
+        "zh": "率先采用欧元",
+        "ja": "新規EU加盟国初のユーロ導入"
+      },
+      "description": {
+        "en": "Slovenia adopted the euro on 1 January 2007, the first of the states that joined the EU in 2004 to do so, and in 2008 became the first of them to hold the EU Council presidency.",
+        "ko": "슬로베니아는 2007년 1월 1일 2004년 EU 가입국 가운데 처음으로 유로화를 도입했고, 2008년에는 신규 가입국 최초로 EU 이사회 의장국을 맡았다.",
+        "zh": "2007年1月1日，斯洛文尼亚在2004年入盟的国家中率先采用欧元，并于2008年成为其中首个担任欧盟理事会轮值主席国的国家。",
+        "ja": "スロベニアは2007年1月1日、2004年のEU加盟国の中で最初にユーロを導入し、2008年には新規加盟国として初めてEU理事会議長国を務めた。"
+      }
+    }
+  ]
+}

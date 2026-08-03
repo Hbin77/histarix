@@ -8,6 +8,7 @@ from app.cache import cached_or_fetch, EVENT_TTL
 from app.database import async_session
 from app.models import HistoricalEvent as EventModel
 from app.schemas.history import HistoricalEvent
+from app.services.history_dataset import get_dataset_events
 from app.services.wikidata import get_country_events
 from app.utils.country_mapping import ISO_TO_WIKIDATA
 from app.utils.mappers import db_event_to_schema
@@ -31,11 +32,22 @@ async def get_events(
     if not _ISO_PATTERN.match(code):
         raise HTTPException(status_code=400, detail="Invalid country code")
     qid = ISO_TO_WIKIDATA.get(code)
-    if not qid:
-        raise HTTPException(status_code=404, detail="Country not in Wikidata mapping")
     client = request.app.state.http_client
 
     async def fetch() -> list[HistoricalEvent]:
+        # Curated multilingual dataset is the primary source
+        dataset = get_dataset_events(code)
+        if dataset:
+            return [
+                e
+                for e in dataset
+                if (year_from is None or (e.year or 0) >= year_from)
+                and (year_to is None or (e.year or 0) <= year_to)
+            ]
+        if not qid:
+            raise HTTPException(
+                status_code=404, detail="Country not in Wikidata mapping"
+            )
         # Try DB first
         async with async_session() as db:
             query = select(EventModel).where(EventModel.country_iso == code)
@@ -79,7 +91,7 @@ async def get_events(
         cache_suffix = f"{code}:{year_from or ''}:{year_to or ''}"
 
     events: list[HistoricalEvent] = await cached_or_fetch(
-        "events", cache_suffix, fetch, EVENT_TTL
+        "events2", cache_suffix, fetch, EVENT_TTL
     )
 
     return events

@@ -1,0 +1,228 @@
+{
+  "events": [
+    {
+      "year": 1250,
+      "importance": 2,
+      "title": {
+        "en": "Kingdom of Kaabu emerges",
+        "ko": "카부 왕국의 등장",
+        "zh": "卡布王国的兴起",
+        "ja": "カアブ王国の台頭"
+      },
+      "description": {
+        "en": "The Mandinka kingdom of Kaabu, founded as a western province of the Mali Empire, rose to dominate the region between the Gambia and Corubal rivers, including much of present-day Guinea-Bissau.",
+        "ko": "말리 제국의 서부 속주로 세워진 만딩카족의 카부 왕국이 감비아강과 코루발강 사이 지역을 지배하며 오늘날의 기니비사우 대부분을 아우르게 되었다.",
+        "zh": "作为马里帝国西部行省建立的曼丁哥人卡布王国崛起，统治冈比亚河与科鲁巴尔河之间的地区，涵盖今几内亚比绍大部。",
+        "ja": "マリ帝国の西部属領として成立したマンディンカ人のカアブ王国が台頭し、ガンビア川とコルバル川に挟まれた地域を支配して現在のギニアビサウの大部分を勢力圏に収めた。"
+      }
+    },
+    {
+      "year": 1446,
+      "importance": 2,
+      "title": {
+        "en": "Portuguese explorers reach the coast",
+        "ko": "포르투갈 탐험가의 해안 도달",
+        "zh": "葡萄牙探险家抵达海岸",
+        "ja": "ポルトガル探検家の沿岸到達"
+      },
+      "description": {
+        "en": "Portuguese navigator Nuno Tristão reached the coast of present-day Guinea-Bissau, opening the region to Portuguese trade in gold, ivory and, soon after, enslaved people.",
+        "ko": "포르투갈 항해가 누누 트리스탕이 오늘날의 기니비사우 해안에 도달하면서, 이 지역은 금과 상아, 그리고 곧이어 노예를 사고파는 포르투갈 교역망에 편입되었다.",
+        "zh": "葡萄牙航海家努诺·特里斯唐抵达今几内亚比绍沿海，此后该地区被卷入葡萄牙的黄金、象牙贸易，不久又成为奴隶贸易之地。",
+        "ja": "ポルトガルの航海者ヌーノ・トリスタンが現在のギニアビサウ沿岸に到達し、この地域は金や象牙、やがて奴隷を扱うポルトガルの交易網に組み込まれていった。"
+      }
+    },
+    {
+      "year": 1588,
+      "importance": 2,
+      "title": {
+        "en": "Cacheu founded as a trading post",
+        "ko": "교역 거점 카셰우 건설",
+        "zh": "贸易据点卡谢乌建立",
+        "ja": "交易拠点カシェウの建設"
+      },
+      "description": {
+        "en": "Portuguese settlers founded Cacheu, one of the earliest European towns in sub-Saharan Africa, which became a major hub of the Atlantic slave trade.",
+        "ko": "포르투갈인들이 사하라 이남 아프리카에서 가장 이른 유럽인 도시 중 하나인 카셰우를 세웠고, 이곳은 대서양 노예무역의 주요 거점이 되었다.",
+        "zh": "葡萄牙人建立卡谢乌，这是撒哈拉以南非洲最早的欧洲人城镇之一，后来成为大西洋奴隶贸易的重要枢纽。",
+        "ja": "ポルトガル人がサハラ以南アフリカ最初期のヨーロッパ人町の一つカシェウを建設し、同地は大西洋奴隷貿易の一大拠点となった。"
+      }
+    },
+    {
+      "year": 1687,
+      "importance": 3,
+      "title": {
+        "en": "Fort and port of Bissau established",
+        "ko": "비사우 요새와 항구 건설",
+        "zh": "比绍要塞与港口建立",
+        "ja": "ビサウの要塞と港の建設"
+      },
+      "description": {
+        "en": "The Portuguese founded a fort and trading settlement at Bissau, which gradually grew into the colony's principal port and, much later, the national capital.",
+        "ko": "포르투갈이 비사우에 요새와 교역 거점을 세웠다. 이곳은 점차 식민지의 중심 항구로 성장했고 훗날 국가의 수도가 되었다.",
+        "zh": "葡萄牙人在比绍修建要塞和商站，该地逐渐发展为殖民地的主要港口，日后成为国家首都。",
+        "ja": "ポルトガルがビサウに要塞と交易拠点を築いた。ここは次第に植民地の主要港へと発展し、のちに国の首都となった。"
+      }
+    },
+    {
+      "year": 1867,
+      "importance": 2,
+      "title": {
+        "en": "Fall of Kaabu at Kansala",
+        "ko": "칸살라 전투와 카부의 멸망",
+        "zh": "坎萨拉之战与卡布覆灭",
+        "ja": "カンサラの戦いとカアブの滅亡"
+      },
+      "description": {
+        "en": "Fula forces from Futa Jallon captured the Kaabu capital of Kansala after a long siege; the defenders reportedly detonated their powder stores, ending six centuries of Mandinka dominance.",
+        "ko": "푸타 잘론의 풀라군이 오랜 포위 끝에 카부의 수도 칸살라를 함락시켰다. 수비군은 화약고를 폭파한 것으로 전해지며, 이로써 600년에 걸친 만딩카의 패권이 막을 내렸다.",
+        "zh": "富塔贾隆的富拉军队经长期围攻攻陷卡布首都坎萨拉，据传守军引爆火药库同归于尽，曼丁哥人长达六个世纪的霸权就此终结。",
+        "ja": "フータ・ジャロンのフラ軍が長期の包囲の末にカアブの都カンサラを陥落させた。守備側は火薬庫を爆発させたと伝えられ、6世紀に及ぶマンディンカの覇権が終わった。"
+      }
+    },
+    {
+      "year": 1879,
+      "importance": 2,
+      "title": {
+        "en": "Portuguese Guinea becomes a separate colony",
+        "ko": "포르투갈령 기니 식민지 분리",
+        "zh": "葡属几内亚单独设为殖民地",
+        "ja": "ポルトガル領ギニアの分離"
+      },
+      "description": {
+        "en": "Portugal separated Guinea from the Cape Verde administration, creating the colony of Portuguese Guinea with Bolama as its first capital.",
+        "ko": "포르투갈이 기니를 카보베르데 행정 관할에서 분리하여 볼라마를 첫 수도로 하는 포르투갈령 기니 식민지를 만들었다.",
+        "zh": "葡萄牙将几内亚从佛得角行政体系中分离，设立葡属几内亚殖民地，首府设于博拉马。",
+        "ja": "ポルトガルはギニアをカーボベルデの行政から切り離し、ボラマを最初の首府とするポルトガル領ギニア植民地を設置した。"
+      }
+    },
+    {
+      "year": 1915,
+      "importance": 3,
+      "title": {
+        "en": "Colonial pacification campaigns",
+        "ko": "식민지 '평정' 원정",
+        "zh": "殖民绥靖征讨",
+        "ja": "植民地「平定」作戦"
+      },
+      "description": {
+        "en": "Military campaigns led by Teixeira Pinto broke the resistance of coastal peoples, consolidating effective Portuguese control over the interior after centuries of limited coastal presence.",
+        "ko": "테이셰이라 핀투가 이끈 군사 원정이 연안 부족들의 저항을 꺾으면서, 수 세기 동안 해안에 머물렀던 포르투갈의 지배가 내륙까지 확립되었다.",
+        "zh": "特谢拉·平托率领的军事征讨镇压了沿海族群的抵抗，葡萄牙数百年来局限于沿海的统治由此扩展到内陆。",
+        "ja": "テイシェイラ・ピントが指揮した軍事作戦により沿岸諸民族の抵抗が鎮圧され、数世紀にわたり沿岸部にとどまっていたポルトガルの支配が内陸にまで確立された。"
+      }
+    },
+    {
+      "year": 1956,
+      "importance": 1,
+      "title": {
+        "en": "Amílcar Cabral founds the PAIGC",
+        "ko": "아밀카르 카브랄, PAIGC 창설",
+        "zh": "卡布拉尔创立几佛独立党",
+        "ja": "アミルカル・カブラル、PAIGCを結成"
+      },
+      "description": {
+        "en": "Amílcar Cabral and companions founded the African Party for the Independence of Guinea and Cape Verde (PAIGC), which led the anticolonial struggle through political organizing and armed resistance.",
+        "ko": "아밀카르 카브랄과 동지들이 기니카보베르데 아프리카독립당(PAIGC)을 창설했다. 이 당은 정치 조직화와 무장 투쟁을 통해 반식민 운동을 이끌게 된다.",
+        "zh": "阿米尔卡·卡布拉尔与同志创立几内亚和佛得角非洲独立党（PAIGC），该党此后通过政治动员与武装斗争领导反殖民运动。",
+        "ja": "アミルカル・カブラルらがギニア・カーボベルデ独立アフリカ党（PAIGC）を結成した。同党は政治組織化と武装闘争を通じて反植民地闘争を主導していく。"
+      }
+    },
+    {
+      "year": 1963,
+      "importance": 2,
+      "title": {
+        "en": "War of independence begins",
+        "ko": "독립 전쟁의 시작",
+        "zh": "独立战争爆发",
+        "ja": "独立戦争の開始"
+      },
+      "description": {
+        "en": "The PAIGC launched an armed struggle against Portuguese rule, gradually liberating much of the countryside in one of Africa's most effective anticolonial guerrilla campaigns.",
+        "ko": "PAIGC가 포르투갈 지배에 맞서 무장 투쟁을 개시했다. 아프리카에서 가장 성공적인 반식민 게릴라전으로 꼽히는 이 투쟁으로 농촌 대부분이 점차 해방되었다.",
+        "zh": "PAIGC发动反抗葡萄牙统治的武装斗争，逐步解放大部分农村地区，被视为非洲最卓有成效的反殖民游击战之一。",
+        "ja": "PAIGCがポルトガル支配に対する武装闘争を開始した。アフリカで最も成果を上げた反植民地ゲリラ戦の一つとされ、農村部の大半が次第に解放された。"
+      }
+    },
+    {
+      "year": 1973,
+      "importance": 1,
+      "title": {
+        "en": "Cabral assassinated; independence declared",
+        "ko": "카브랄 암살과 독립 선언",
+        "zh": "卡布拉尔遇刺与独立宣言",
+        "ja": "カブラル暗殺と独立宣言"
+      },
+      "description": {
+        "en": "Amílcar Cabral was assassinated in Conakry in January; in September the PAIGC unilaterally declared the independence of Guinea-Bissau, quickly recognized by dozens of states.",
+        "ko": "1월 아밀카르 카브랄이 코나크리에서 암살되었고, 9월 PAIGC는 기니비사우의 독립을 일방적으로 선포했다. 이 선언은 곧 수십 개 나라의 승인을 받았다.",
+        "zh": "1月，阿米尔卡·卡布拉尔在科纳克里遇刺身亡；9月，PAIGC单方面宣布几内亚比绍独立，迅速获得数十个国家承认。",
+        "ja": "1月にアミルカル・カブラルがコナクリで暗殺され、9月にPAIGCはギニアビサウの独立を一方的に宣言した。宣言はまもなく数十か国の承認を得た。"
+      }
+    },
+    {
+      "year": 1974,
+      "importance": 1,
+      "title": {
+        "en": "Portugal recognizes independence",
+        "ko": "포르투갈의 독립 승인",
+        "zh": "葡萄牙承认独立",
+        "ja": "ポルトガルによる独立承認"
+      },
+      "description": {
+        "en": "After the Carnation Revolution in Lisbon, Portugal formally recognized Guinea-Bissau's independence, making it the first Portuguese African colony to achieve full sovereignty.",
+        "ko": "리스본에서 카네이션 혁명이 일어난 뒤 포르투갈이 기니비사우의 독립을 공식 승인했다. 이로써 기니비사우는 포르투갈령 아프리카 식민지 중 최초로 완전한 주권을 얻었다.",
+        "zh": "里斯本康乃馨革命后，葡萄牙正式承认几内亚比绍独立，使其成为葡属非洲殖民地中第一个获得完全主权的国家。",
+        "ja": "リスボンでのカーネーション革命の後、ポルトガルはギニアビサウの独立を正式に承認した。ポルトガル領アフリカ植民地の中で最初に完全な主権を得た国となった。"
+      }
+    },
+    {
+      "year": 1980,
+      "importance": 2,
+      "title": {
+        "en": "1980 coup ends union plans with Cape Verde",
+        "ko": "1980년 쿠데타와 카보베르데 통합 무산",
+        "zh": "1980年政变与佛得角合并计划终止",
+        "ja": "1980年クーデターとカーボベルデ統合の頓挫"
+      },
+      "description": {
+        "en": "Prime Minister João Bernardo 'Nino' Vieira seized power in a coup, ending plans for union with Cape Verde and beginning a long era of his dominance over national politics.",
+        "ko": "주앙 베르나르두 '니노' 비에이라 총리가 쿠데타로 권력을 장악하면서 카보베르데와의 통합 구상이 무산되었고, 그가 국정을 좌우하는 긴 시대가 시작되었다.",
+        "zh": "总理若昂·贝尔纳多·维埃拉发动政变夺取政权，与佛得角合并的计划就此终止，他长期主导国家政治的时代由此开启。",
+        "ja": "ジョアン・ベルナルド・ヴィエイラ首相（通称ニノ）がクーデターで実権を握り、カーボベルデとの統合構想は頓挫した。以後、彼が国政を長く支配する時代が始まった。"
+      }
+    },
+    {
+      "year": 1994,
+      "importance": 2,
+      "title": {
+        "en": "First multiparty elections",
+        "ko": "최초의 복수정당 선거",
+        "zh": "首次多党选举",
+        "ja": "初の複数政党制選挙"
+      },
+      "description": {
+        "en": "Guinea-Bissau held its first multiparty presidential and legislative elections; incumbent João Bernardo Vieira won the presidency in a run-off.",
+        "ko": "기니비사우가 처음으로 복수정당제 대통령·의회 선거를 치렀고, 현직의 주앙 베르나르두 비에이라가 결선투표에서 승리해 대통령에 당선되었다.",
+        "zh": "几内亚比绍首次举行多党制总统和议会选举，时任总统若昂·贝尔纳多·维埃拉在第二轮投票中胜出。",
+        "ja": "ギニアビサウで初の複数政党制による大統領選挙と議会選挙が実施され、現職のジョアン・ベルナルド・ヴィエイラが決選投票で勝利した。"
+      }
+    },
+    {
+      "year": 1998,
+      "importance": 2,
+      "title": {
+        "en": "Civil war of 1998-99",
+        "ko": "1998-99년 내전",
+        "zh": "1998-99年内战",
+        "ja": "1998〜99年の内戦"
+      },
+      "description": {
+        "en": "An army mutiny against President Vieira escalated into civil war, displacing hundreds of thousands. The conflict opened a long period of coups and political instability.",
+        "ko": "비에이라 대통령에 맞선 군부 반란이 내전으로 번져 수십만 명의 피란민이 발생했다. 이 분쟁 이후 쿠데타와 정정 불안이 이어지는 긴 시기가 시작되었다.",
+        "zh": "军队针对维埃拉总统的兵变升级为内战，数十万人流离失所。此后国家长期陷入政变频发和政局动荡。",
+        "ja": "ヴィエイラ大統領に対する軍の反乱が内戦へと拡大し、数十万人が避難を強いられた。以後、クーデターと政情不安が続く長い時期に入った。"
+      }
+    }
+  ]
+}

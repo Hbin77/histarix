@@ -1,0 +1,228 @@
+{
+  "events": [
+    {
+      "year": -2333,
+      "importance": 2,
+      "title": {
+        "en": "Legendary founding of Gojoseon",
+        "ko": "고조선 건국",
+        "zh": "古朝鲜的建国传说",
+        "ja": "古朝鮮建国の伝承"
+      },
+      "description": {
+        "en": "Korean tradition holds that Dangun founded Gojoseon, the first Korean kingdom, in 2333 BC. The foundation myth remains central to Korean identity, commemorated on National Foundation Day.",
+        "ko": "단군왕검이 기원전 2333년 한민족 최초의 국가 고조선을 세웠다고 전해진다. 이 건국 신화는 개천절로 기념되며 한민족 정체성의 뿌리로 남아 있다.",
+        "zh": "相传公元前2333年，檀君王俭建立了朝鲜民族最早的国家古朝鲜。这一建国神话至今仍是韩民族认同的根基，韩国以开天节加以纪念。",
+        "ja": "檀君王倹が紀元前2333年に朝鮮民族最初の国家・古朝鮮を建てたと伝えられる。この建国神話は開天節として記念され、民族アイデンティティの根幹となっている。"
+      }
+    },
+    {
+      "year": 676,
+      "importance": 1,
+      "title": {
+        "en": "Silla unifies the Three Kingdoms",
+        "ko": "신라의 삼국통일",
+        "zh": "新罗统一三国",
+        "ja": "新羅の三国統一"
+      },
+      "description": {
+        "en": "Silla defeated Baekje and Goguryeo and expelled Tang forces by 676, unifying most of the peninsula for the first time. Unified Silla's capital Gyeongju flourished as a center of Buddhist culture.",
+        "ko": "신라는 백제와 고구려를 무너뜨리고 676년 당군을 몰아내며 한반도 대부분을 처음으로 통일했다. 통일신라의 수도 경주는 불교 문화의 중심지로 번영했다.",
+        "zh": "新罗先后灭百济与高句丽，并于676年驱逐唐军，首次统一朝鲜半岛大部。统一新罗的都城庆州成为佛教文化的繁盛中心。",
+        "ja": "新羅は百済と高句麗を滅ぼし、676年に唐軍を駆逐して朝鮮半島の大部分を初めて統一した。統一新羅の都・慶州は仏教文化の中心として栄えた。"
+      }
+    },
+    {
+      "year": 751,
+      "importance": 3,
+      "title": {
+        "en": "Bulguksa Temple and Seokguram Grotto built",
+        "ko": "불국사와 석굴암 창건",
+        "zh": "佛国寺与石窟庵的营建",
+        "ja": "仏国寺と石窟庵の創建"
+      },
+      "description": {
+        "en": "Construction of Bulguksa Temple and the Seokguram Grotto began in 751 near Gyeongju. Masterpieces of Silla Buddhist art, both were inscribed as UNESCO World Heritage sites in 1995.",
+        "ko": "751년 경주 인근에서 불국사와 석굴암 조성이 시작되었다. 통일신라 불교 예술의 정수로 꼽히며, 1995년 유네스코 세계유산으로 등재되었다.",
+        "zh": "751年，庆州附近开始修建佛国寺和石窟庵。二者堪称新罗佛教艺术的巅峰之作，1995年被列入联合国教科文组织世界遗产名录。",
+        "ja": "751年、慶州近郊で仏国寺と石窟庵の造営が始まった。新羅仏教芸術の粋とされ、1995年にユネスコ世界遺産に登録された。"
+      }
+    },
+    {
+      "year": 918,
+      "importance": 2,
+      "title": {
+        "en": "Goryeo dynasty founded",
+        "ko": "고려 건국",
+        "zh": "高丽王朝建立",
+        "ja": "高麗の建国"
+      },
+      "description": {
+        "en": "Wang Geon founded Goryeo in 918 and reunified the peninsula in 936. Goryeo gave Korea its Western name and produced celadon ceramics and the Tripitaka Koreana woodblocks.",
+        "ko": "918년 왕건이 고려를 세우고 936년 후삼국을 통일했다. '코리아'라는 이름의 유래가 된 고려는 고려청자와 팔만대장경 등 빛나는 문화유산을 남겼다.",
+        "zh": "918年，王建建立高丽，936年统一后三国。“Korea”一名即源自高丽；高丽青瓷与八万大藏经是其杰出的文化遗产。",
+        "ja": "918年、王建が高麗を建国し、936年に後三国を統一した。「コリア」の語源となった高麗は、高麗青磁や八万大蔵経など輝かしい文化遺産を残した。"
+      }
+    },
+    {
+      "year": 1392,
+      "importance": 2,
+      "title": {
+        "en": "Joseon dynasty founded",
+        "ko": "조선 건국",
+        "zh": "朝鲜王朝建立",
+        "ja": "朝鮮王朝の建国"
+      },
+      "description": {
+        "en": "General Yi Seong-gye founded Joseon in 1392 and moved the capital to Hanyang, today's Seoul. Grounded in Neo-Confucianism, the dynasty ruled Korea for more than 500 years.",
+        "ko": "1392년 이성계가 조선을 세우고 수도를 한양(오늘날의 서울)으로 옮겼다. 성리학을 통치 이념으로 삼은 조선 왕조는 500년 넘게 이어졌다.",
+        "zh": "1392年，李成桂建立朝鲜王朝，并迁都汉阳（今首尔）。以性理学为立国之本的朝鲜王朝延续五百余年。",
+        "ja": "1392年、李成桂が朝鮮王朝を開き、都を漢陽（現在のソウル）に移した。朱子学を統治理念とするこの王朝は500年以上続いた。"
+      }
+    },
+    {
+      "year": 1446,
+      "importance": 1,
+      "title": {
+        "en": "King Sejong promulgates Hangul",
+        "ko": "세종대왕, 훈민정음 반포",
+        "zh": "世宗大王颁布训民正音",
+        "ja": "世宗大王、訓民正音を頒布"
+      },
+      "description": {
+        "en": "In 1446 King Sejong the Great promulgated Hunminjeongeum, the Korean alphabet now called Hangul. Created so common people could read and write, it is celebrated as a landmark of linguistic science.",
+        "ko": "1446년 세종대왕이 훈민정음(한글)을 반포했다. 백성 누구나 글을 읽고 쓸 수 있도록 창제된 한글은 과학적 문자 체계의 정수로 평가받는다.",
+        "zh": "1446年，世宗大王颁布《训民正音》，即今日的韩文（谚文）。这种为使百姓皆能读写而创制的文字，被誉为语言学史上的杰作。",
+        "ja": "1446年、世宗大王が訓民正音（ハングル）を頒布した。民衆の誰もが読み書きできるよう創られたこの文字は、言語学史上の傑作と評価されている。"
+      }
+    },
+    {
+      "year": 1592,
+      "importance": 2,
+      "title": {
+        "en": "Imjin War: Japanese invasions repelled",
+        "ko": "임진왜란",
+        "zh": "壬辰倭乱",
+        "ja": "壬辰倭乱（文禄・慶長の役）"
+      },
+      "description": {
+        "en": "Toyotomi Hideyoshi's armies invaded Korea in 1592. Admiral Yi Sun-sin's naval victories with turtle ships, civilian militias and Ming aid drove the invaders out by 1598, though the land was devastated.",
+        "ko": "1592년 도요토미 히데요시의 일본군이 조선을 침공했다. 이순신 장군의 수군과 거북선, 의병의 항전과 명나라의 지원으로 1598년 일본군을 물리쳤으나 국토는 큰 피해를 입었다.",
+        "zh": "1592年，丰臣秀吉的军队入侵朝鲜。李舜臣将军率水军凭借龟船屡战屡胜，加上义兵抗战和明朝援军，至1598年击退日军，但国土惨遭蹂躏。",
+        "ja": "1592年、豊臣秀吉の軍が朝鮮に侵攻した。李舜臣将軍の水軍と亀甲船の活躍、義兵の抵抗、明の援軍により1598年に日本軍は撤退したが、国土は大きく荒廃した。"
+      }
+    },
+    {
+      "year": 1910,
+      "importance": 2,
+      "title": {
+        "en": "Japan annexes Korea",
+        "ko": "경술국치(한일병합)",
+        "zh": "日韩合并",
+        "ja": "韓国併合"
+      },
+      "description": {
+        "en": "The Japan-Korea Annexation Treaty of August 1910 ended the Korean Empire and began 35 years of colonial rule, during which Koreans organized sustained independence movements at home and abroad.",
+        "ko": "1910년 8월 한일병합조약으로 대한제국이 국권을 상실하고 35년간의 일제강점기가 시작되었다. 이 기간 국내외에서 독립운동이 끊이지 않았다.",
+        "zh": "1910年8月，《日韩合并条约》使大韩帝国灭亡，朝鲜半岛进入35年的日本殖民统治时期。其间，半岛内外的独立运动此起彼伏，从未间断。",
+        "ja": "1910年8月、韓国併合条約により大韓帝国は消滅し、35年に及ぶ植民地支配が始まった。この間、朝鮮の内外では独立運動が絶えることなく続いた。"
+      }
+    },
+    {
+      "year": 1919,
+      "importance": 2,
+      "title": {
+        "en": "March 1st Independence Movement",
+        "ko": "3·1 운동",
+        "zh": "三一独立运动",
+        "ja": "三・一独立運動"
+      },
+      "description": {
+        "en": "On 1 March 1919 Koreans nationwide staged mass demonstrations proclaiming independence from Japan. The movement led to the founding of the Provisional Government of the Republic of Korea in Shanghai.",
+        "ko": "1919년 3월 1일 전국에서 독립을 선언하는 만세 시위가 일어났다. 이 운동을 계기로 상하이에서 대한민국 임시정부가 수립되었다.",
+        "zh": "1919年3月1日，朝鲜各地爆发宣告独立的大规模示威运动。以此为契机，大韩民国临时政府在上海成立。",
+        "ja": "1919年3月1日、朝鮮全土で独立を宣言する大規模なデモが起こった。この運動を契機に、上海で大韓民国臨時政府が樹立された。"
+      }
+    },
+    {
+      "year": 1945,
+      "importance": 2,
+      "title": {
+        "en": "Liberation from Japanese rule",
+        "ko": "8·15 광복",
+        "zh": "八一五光复",
+        "ja": "八・一五解放（光復）"
+      },
+      "description": {
+        "en": "Japan's surrender on 15 August 1945 ended colonial rule. Liberation was followed by division at the 38th parallel into US and Soviet occupation zones, splitting the peninsula.",
+        "ko": "1945년 8월 15일 일본의 항복으로 식민 지배에서 해방되었다. 그러나 곧 38선을 경계로 미군과 소련군이 분할 점령하면서 한반도는 남북으로 갈라졌다.",
+        "zh": "1945年8月15日，日本投降，殖民统治宣告结束。然而半岛随即以三八线为界被美苏两军分区占领，从此南北分裂。",
+        "ja": "1945年8月15日、日本の降伏により植民地支配が終わった。しかし半島はまもなく38度線を境に米ソ両軍に分割占領され、南北に分断された。"
+      }
+    },
+    {
+      "year": 1948,
+      "importance": 1,
+      "title": {
+        "en": "Republic of Korea established",
+        "ko": "대한민국 정부 수립",
+        "zh": "大韩民国政府成立",
+        "ja": "大韓民国政府の樹立"
+      },
+      "description": {
+        "en": "Following UN-supervised elections in the south, the Republic of Korea was inaugurated on 15 August 1948 with Syngman Rhee as its first president and Seoul as its capital.",
+        "ko": "유엔 감시 아래 남한에서 총선거가 실시된 뒤, 1948년 8월 15일 이승만을 초대 대통령으로 하는 대한민국 정부가 수립되었다.",
+        "zh": "在联合国监督下，半岛南部举行大选后，大韩民国于1948年8月15日宣告成立，李承晚出任首任总统，定都首尔（汉城）。",
+        "ja": "国連監視下の総選挙を経て、1948年8月15日、李承晩を初代大統領とする大韓民国政府がソウルで樹立された。"
+      }
+    },
+    {
+      "year": 1950,
+      "importance": 1,
+      "title": {
+        "en": "Korean War",
+        "ko": "6·25 전쟁",
+        "zh": "朝鲜战争（六二五战争）",
+        "ja": "朝鮮戦争"
+      },
+      "description": {
+        "en": "North Korean forces invaded the South on 25 June 1950. Three years of war involving UN and Chinese forces devastated the country before the 1953 armistice froze the division along the DMZ.",
+        "ko": "1950년 6월 25일 북한군의 남침으로 전쟁이 발발했다. 유엔군과 중국군이 참전한 3년간의 전쟁으로 전 국토가 폐허가 되었고, 1953년 정전협정으로 휴전선이 굳어졌다.",
+        "zh": "1950年6月25日，朝鲜军队南下入侵，战争爆发。联合国军与中国军队相继参战，三年战火使全国化为废墟；1953年停战协定使南北分裂沿非军事区固定下来。",
+        "ja": "1950年6月25日、北朝鮮軍の南侵により戦争が勃発した。国連軍と中国軍が参戦した3年間の戦争で国土は廃墟と化し、1953年の休戦協定により軍事境界線での分断が固定化した。"
+      }
+    },
+    {
+      "year": 1987,
+      "importance": 1,
+      "title": {
+        "en": "June Democratic Uprising",
+        "ko": "6월 민주항쟁",
+        "zh": "六月民主运动",
+        "ja": "六月民主抗争"
+      },
+      "description": {
+        "en": "Nationwide protests in June 1987 forced the military government to accept direct presidential elections and constitutional reform, completing South Korea's transition to democracy.",
+        "ko": "1987년 6월 전국적인 시위로 군사정권이 대통령 직선제 개헌을 수용했다. 수십 년의 권위주의 통치를 끝내고 민주주의로 이행하는 결정적 전환점이 되었다.",
+        "zh": "1987年6月，全国范围的抗议浪潮迫使军政府接受总统直选与修宪要求。韩国由此结束数十年的威权统治，实现民主化转型。",
+        "ja": "1987年6月、全国的な抗議運動により軍事政権は大統領直接選挙制への改憲を受け入れた。数十年の権威主義体制を経て、韓国は民主化への決定的な転換点を迎えた。"
+      }
+    },
+    {
+      "year": 1988,
+      "importance": 3,
+      "title": {
+        "en": "Seoul Olympic Games",
+        "ko": "서울 올림픽 개최",
+        "zh": "汉城（首尔）奥运会",
+        "ja": "ソウル・オリンピック開催"
+      },
+      "description": {
+        "en": "The 1988 Summer Olympics in Seoul showcased South Korea's rise from postwar poverty to industrial power, symbolizing the 'Miracle on the Han River' to a global audience.",
+        "ko": "1988년 서울 하계올림픽은 전후 폐허에서 산업 강국으로 도약한 '한강의 기적'을 전 세계에 알린 무대였다.",
+        "zh": "1988年汉城夏季奥运会向全世界展示了韩国从战后废墟跃升为工业强国的“汉江奇迹”。",
+        "ja": "1988年のソウル夏季オリンピックは、戦後の廃墟から工業国へと躍進した「漢江の奇跡」を世界に示す舞台となった。"
+      }
+    }
+  ]
+}

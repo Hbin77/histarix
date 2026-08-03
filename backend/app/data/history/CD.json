@@ -1,0 +1,228 @@
+{
+  "events": [
+    {
+      "year": 1390,
+      "importance": 2,
+      "title": {
+        "en": "Kingdom of Kongo founded",
+        "ko": "콩고 왕국의 성립",
+        "zh": "刚果王国建立",
+        "ja": "コンゴ王国の成立"
+      },
+      "description": {
+        "en": "The Kingdom of Kongo arose around the lower Congo River, including western parts of today's DR Congo. It became one of Central Africa's most powerful and organized states.",
+        "ko": "콩고강 하류 일대에서 콩고 왕국이 일어나 오늘날 콩고민주공화국 서부를 포함하는 세력권을 이루었다. 중앙아프리카에서 가장 강력하고 체계적인 국가 중 하나로 성장했다.",
+        "zh": "刚果王国在刚果河下游兴起，疆域包括今刚果民主共和国西部，发展成为中部非洲最强大、组织最完备的国家之一。",
+        "ja": "コンゴ川下流域にコンゴ王国が興り、現在のコンゴ民主共和国西部を含む勢力圏を築いた。中部アフリカで最も強大で組織化された国家の一つに成長した。"
+      }
+    },
+    {
+      "year": 1482,
+      "importance": 2,
+      "title": {
+        "en": "Diogo Cão reaches the mouth of the Congo River",
+        "ko": "디오구 캉, 콩고강 하구에 도달",
+        "zh": "迪奥戈·康抵达刚果河口",
+        "ja": "ディオゴ・カンがコンゴ川河口に到達"
+      },
+      "description": {
+        "en": "Portuguese navigator Diogo Cão became the first European to reach the Congo River, opening diplomatic and trade ties with the Kingdom of Kongo that later included the Atlantic slave trade.",
+        "ko": "포르투갈 항해가 디오구 캉이 유럽인 최초로 콩고강에 도달했다. 이후 콩고 왕국과의 외교·교역 관계가 열렸으나, 훗날 대서양 노예무역으로도 이어졌다.",
+        "zh": "葡萄牙航海家迪奥戈·康成为首位抵达刚果河的欧洲人，开启了与刚果王国的外交和贸易往来，其后也延伸至大西洋奴隶贸易。",
+        "ja": "ポルトガルの航海者ディオゴ・カンがヨーロッパ人として初めてコンゴ川に到達した。コンゴ王国との外交・交易関係が開かれたが、のちに大西洋奴隷貿易にもつながった。"
+      }
+    },
+    {
+      "year": 1585,
+      "importance": 2,
+      "title": {
+        "en": "Luba Empire flourishes in the savanna",
+        "ko": "사바나 지대에서 루바 왕국 번성",
+        "zh": "卢巴帝国在草原地带兴盛",
+        "ja": "サバンナ地帯でルバ王国が繁栄"
+      },
+      "description": {
+        "en": "The Luba Empire consolidated power in the Upemba Depression of the southern savanna, and together with the Lunda and Kuba kingdoms shaped trade, kingship, and art across the Congo basin.",
+        "ko": "루바 왕국이 남부 사바나의 우펨바 저지에서 세력을 굳혔고, 룬다·쿠바 왕국과 함께 콩고 분지 일대의 교역과 왕권, 예술 전통을 이끌었다.",
+        "zh": "卢巴帝国在南部草原的乌彭巴洼地巩固政权，与隆达、库巴等王国一道塑造了刚果盆地的贸易网络、王权制度与艺术传统。",
+        "ja": "ルバ王国は南部サバンナのウペンバ低地で勢力を固め、ルンダ王国やクバ王国とともにコンゴ盆地の交易、王権制度、美術の伝統を形づくった。"
+      }
+    },
+    {
+      "year": 1877,
+      "importance": 2,
+      "title": {
+        "en": "Stanley completes descent of the Congo River",
+        "ko": "스탠리, 콩고강 종단 탐험 완수",
+        "zh": "斯坦利完成刚果河全程探险",
+        "ja": "スタンリーがコンゴ川縦断探検を完遂"
+      },
+      "description": {
+        "en": "Henry Morton Stanley traced the Congo River from its upper reaches to the Atlantic, mapping the basin for Europeans and paving the way for King Leopold II's colonial designs on the region.",
+        "ko": "헨리 모턴 스탠리가 콩고강 상류에서 대서양까지 물길을 답사해 유럽에 유역 지도를 알렸고, 이는 레오폴드 2세의 식민 야망에 길을 열어 주었다.",
+        "zh": "亨利·莫顿·斯坦利从刚果河上游一直探查至大西洋，为欧洲绘制了流域地图，也为比利时国王利奥波德二世的殖民图谋铺平了道路。",
+        "ja": "ヘンリー・モートン・スタンリーがコンゴ川を上流から大西洋まで踏査し、流域の地図をヨーロッパにもたらした。これがレオポルド2世の植民地的野望へ道を開くことになった。"
+      }
+    },
+    {
+      "year": 1885,
+      "importance": 1,
+      "title": {
+        "en": "Congo Free State: Leopold II's personal rule",
+        "ko": "콩고 자유국: 레오폴드 2세의 사유 지배",
+        "zh": "刚果自由邦：利奥波德二世的私人统治",
+        "ja": "コンゴ自由国：レオポルド2世の私的支配"
+      },
+      "description": {
+        "en": "The Berlin Conference recognized the Congo Free State as the personal possession of Belgium's King Leopold II. A brutal regime of forced rubber extraction caused millions of deaths.",
+        "ko": "베를린 회의에서 콩고 자유국이 벨기에 국왕 레오폴드 2세의 개인 소유지로 인정되었다. 고무 강제 채취를 앞세운 가혹한 통치로 수백만 명이 목숨을 잃었다.",
+        "zh": "柏林会议承认刚果自由邦为比利时国王利奥波德二世的私人领地。以强征橡胶为核心的残酷统治导致数百万人丧生。",
+        "ja": "ベルリン会議でコンゴ自由国がベルギー国王レオポルド2世の私領として承認された。ゴムの強制採取を柱とする過酷な統治により数百万人が命を落とした。"
+      }
+    },
+    {
+      "year": 1908,
+      "importance": 2,
+      "title": {
+        "en": "Belgium annexes the Congo as a colony",
+        "ko": "벨기에, 콩고를 식민지로 병합",
+        "zh": "比利时将刚果并为殖民地",
+        "ja": "ベルギーがコンゴを植民地として併合"
+      },
+      "description": {
+        "en": "After international outcry over Free State atrocities, the Belgian state took over the territory as the Belgian Congo, continuing colonial extraction of copper, rubber, and other resources.",
+        "ko": "자유국의 만행에 대한 국제적 비난이 커지자 벨기에 정부가 이 지역을 '벨기에령 콩고'로 인수했으며, 구리와 고무 등 자원 수탈 중심의 식민 통치는 계속되었다.",
+        "zh": "在自由邦暴行引发国际谴责后，比利时政府接管该地，改称比属刚果，但以铜、橡胶等资源掠夺为核心的殖民统治仍在继续。",
+        "ja": "自由国の残虐行為への国際的非難を受け、ベルギー政府が同地を「ベルギー領コンゴ」として接収した。銅やゴムなど資源収奪型の植民地支配はその後も続いた。"
+      }
+    },
+    {
+      "year": 1960,
+      "importance": 1,
+      "title": {
+        "en": "Independence; Lumumba becomes prime minister",
+        "ko": "독립과 루뭄바 총리 취임",
+        "zh": "刚果独立，卢蒙巴出任总理",
+        "ja": "独立とルムンバ首相の就任"
+      },
+      "description": {
+        "en": "The Republic of the Congo gained independence from Belgium on 30 June 1960, with Patrice Lumumba as prime minister. Army mutiny and Katanga's secession plunged the new state into crisis.",
+        "ko": "1960년 6월 30일 콩고 공화국이 벨기에로부터 독립했고 파트리스 루뭄바가 총리가 되었다. 그러나 군 반란과 카탕가주의 분리 선언으로 신생국은 곧 위기에 빠졌다.",
+        "zh": "1960年6月30日，刚果共和国脱离比利时独立，帕特里斯·卢蒙巴出任总理。然而军队哗变与加丹加省宣布分离使新生国家迅速陷入危机。",
+        "ja": "1960年6月30日、コンゴ共和国がベルギーから独立し、パトリス・ルムンバが首相に就任した。しかし軍の反乱とカタンガ州の分離宣言により、新生国家はただちに危機に陥った。"
+      }
+    },
+    {
+      "year": 1961,
+      "importance": 2,
+      "title": {
+        "en": "Assassination of Patrice Lumumba",
+        "ko": "파트리스 루뭄바 암살",
+        "zh": "帕特里斯·卢蒙巴遇害",
+        "ja": "パトリス・ルムンバの暗殺"
+      },
+      "description": {
+        "en": "Deposed prime minister Patrice Lumumba was executed in Katanga with Belgian complicity amid Cold War rivalry. He became an enduring symbol of African independence movements.",
+        "ko": "실각한 루뭄바 총리가 냉전의 소용돌이 속에서 벨기에의 묵인 아래 카탕가에서 처형되었다. 그는 이후 아프리카 독립운동의 상징적 인물로 남았다.",
+        "zh": "在冷战角力中，被罢黜的总理卢蒙巴在比利时势力的默许下于加丹加遇害。他此后成为非洲独立运动的不朽象征。",
+        "ja": "失脚したルムンバ首相は、冷戦の対立のさなか、ベルギーの関与のもとカタンガで処刑された。彼はその後、アフリカ独立運動の不滅の象徴となった。"
+      }
+    },
+    {
+      "year": 1965,
+      "importance": 1,
+      "title": {
+        "en": "Mobutu seizes power",
+        "ko": "모부투의 권력 장악",
+        "zh": "蒙博托夺取政权",
+        "ja": "モブツによる権力掌握"
+      },
+      "description": {
+        "en": "Army chief Joseph-Désiré Mobutu took power in a coup, beginning a 32-year authoritarian rule marked by a personality cult, Cold War patronage, and systemic corruption.",
+        "ko": "육군 참모총장 조제프데지레 모부투가 쿠데타로 정권을 잡아 32년에 걸친 권위주의 통치를 시작했다. 그의 시대는 개인숭배와 냉전기 후원, 구조적 부패로 특징지어진다.",
+        "zh": "陆军司令约瑟夫-德西雷·蒙博托发动政变夺权，开启长达32年的威权统治，其间充斥个人崇拜、冷战庇护与系统性腐败。",
+        "ja": "陸軍司令官ジョゼフ＝デジレ・モブツがクーデターで政権を握り、32年に及ぶ権威主義体制を敷いた。その統治は個人崇拝、冷戦下の庇護、構造的な汚職に彩られた。"
+      }
+    },
+    {
+      "year": 1971,
+      "importance": 2,
+      "title": {
+        "en": "Country renamed Zaire",
+        "ko": "국명을 자이르로 변경",
+        "zh": "国名改为扎伊尔",
+        "ja": "国名をザイールに改称"
+      },
+      "description": {
+        "en": "Under his 'authenticity' campaign, Mobutu renamed the country Zaire and Africanized place and personal names. In 1974 Kinshasa hosted the famed 'Rumble in the Jungle' boxing match.",
+        "ko": "모부투는 '진정성' 운동의 일환으로 국명을 자이르로 바꾸고 지명과 인명의 아프리카화를 추진했다. 1974년에는 킨샤샤에서 유명한 '럼블 인 더 정글' 권투 경기가 열렸다.",
+        "zh": "蒙博托推行“本真化”运动，将国名改为扎伊尔，并使地名、人名非洲化。1974年，金沙萨还举办了著名的“丛林之战”拳击赛。",
+        "ja": "モブツは「オーセンティシテ」運動の一環として国名をザイールに改め、地名や人名のアフリカ化を進めた。1974年にはキンシャサで有名なボクシング試合「キンシャサの奇跡」が開かれた。"
+      }
+    },
+    {
+      "year": 1997,
+      "importance": 1,
+      "title": {
+        "en": "Fall of Mobutu; renamed DR Congo",
+        "ko": "모부투 정권 붕괴와 콩고민주공화국 개칭",
+        "zh": "蒙博托政权垮台，改名刚果民主共和国",
+        "ja": "モブツ政権崩壊とコンゴ民主共和国への改称"
+      },
+      "description": {
+        "en": "Rebel forces led by Laurent-Désiré Kabila, backed by Rwanda and Uganda, toppled Mobutu in the First Congo War. The country was renamed the Democratic Republic of the Congo.",
+        "ko": "르완다와 우간다의 지원을 받은 로랑데지레 카빌라의 반군이 제1차 콩고 전쟁에서 모부투 정권을 무너뜨렸고, 국명은 콩고민주공화국으로 바뀌었다.",
+        "zh": "在卢旺达和乌干达支持下，洛朗-德西雷·卡比拉率领的叛军在第一次刚果战争中推翻蒙博托政权，国名改为刚果民主共和国。",
+        "ja": "ルワンダとウガンダの支援を受けたローラン＝デジレ・カビラ率いる反政府勢力が、第一次コンゴ戦争でモブツ政権を打倒した。国名はコンゴ民主共和国に改められた。"
+      }
+    },
+    {
+      "year": 1998,
+      "importance": 1,
+      "title": {
+        "en": "Second Congo War begins",
+        "ko": "제2차 콩고 전쟁 발발",
+        "zh": "第二次刚果战争爆发",
+        "ja": "第二次コンゴ戦争の勃発"
+      },
+      "description": {
+        "en": "A conflict drawing in nine African nations, often called 'Africa's World War', engulfed the country until 2003. War and its aftermath caused millions of deaths, largely from disease and famine.",
+        "ko": "'아프리카 세계대전'이라 불리며 9개국이 얽힌 전쟁이 2003년까지 이어졌다. 전쟁과 그 여파로 질병과 기아를 중심으로 수백만 명이 희생되었다.",
+        "zh": "这场被称为“非洲世界大战”的冲突卷入九个非洲国家，持续至2003年。战争及其余波造成数百万人死亡，多因疾病与饥荒。",
+        "ja": "「アフリカ大戦」とも呼ばれ、9か国を巻き込んだ紛争が2003年まで続いた。戦争とその余波により、疫病や飢餓を主因として数百万人が犠牲となった。"
+      }
+    },
+    {
+      "year": 2006,
+      "importance": 2,
+      "title": {
+        "en": "First multiparty elections in four decades",
+        "ko": "40여 년 만의 다당제 선거",
+        "zh": "四十余年来首次多党选举",
+        "ja": "約40年ぶりの複数政党制選挙"
+      },
+      "description": {
+        "en": "Under a new constitution, the DR Congo held its first free multiparty elections since 1965 with UN support. Joseph Kabila was elected president amid a fragile postwar transition.",
+        "ko": "새 헌법 아래 유엔의 지원을 받아 1965년 이후 처음으로 자유로운 다당제 선거가 치러졌다. 전후의 불안정한 과도기 속에서 조제프 카빌라가 대통령에 당선되었다.",
+        "zh": "在新宪法框架和联合国支持下，刚果民主共和国举行了1965年以来首次自由多党选举。在脆弱的战后过渡期中，约瑟夫·卡比拉当选总统。",
+        "ja": "新憲法の下、国連の支援を受けて1965年以来初となる自由な複数政党制選挙が実施された。脆弱な戦後移行期のなか、ジョゼフ・カビラが大統領に選出された。"
+      }
+    },
+    {
+      "year": 2019,
+      "importance": 2,
+      "title": {
+        "en": "First peaceful transfer of power",
+        "ko": "사상 첫 평화적 정권 교체",
+        "zh": "史上首次和平权力交接",
+        "ja": "史上初の平和的政権移行"
+      },
+      "description": {
+        "en": "Félix Tshisekedi was inaugurated president, the first peaceful handover of power since independence in 1960, though the disputed election results drew scrutiny from observers.",
+        "ko": "펠릭스 치세케디가 대통령에 취임하며 1960년 독립 이후 처음으로 평화적 정권 교체가 이루어졌다. 다만 선거 결과의 공정성을 두고 국제 참관단의 논란이 있었다.",
+        "zh": "菲利克斯·齐塞克迪宣誓就任总统，实现了1960年独立以来首次和平权力交接，不过选举结果的争议也受到观察机构的质疑。",
+        "ja": "フェリックス・チセケディが大統領に就任し、1960年の独立以来初の平和的な政権移行が実現した。ただし選挙結果をめぐっては監視団から疑義も呈された。"
+      }
+    }
+  ]
+}

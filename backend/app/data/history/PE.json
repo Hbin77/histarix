@@ -1,0 +1,228 @@
+{
+  "events": [
+    {
+      "year": -2600,
+      "importance": 1,
+      "title": {
+        "en": "Caral: the oldest civilization in the Americas",
+        "ko": "카랄: 아메리카 최고(最古)의 문명",
+        "zh": "卡拉尔:美洲最古老的文明",
+        "ja": "カラル:アメリカ大陸最古の文明"
+      },
+      "description": {
+        "en": "The sacred city of Caral in the Supe Valley, with monumental pyramids and plazas, flourished as the center of the Norte Chico civilization, the earliest known urban society in the Americas.",
+        "ko": "수페 계곡의 신성 도시 카랄은 거대한 피라미드와 광장을 갖추고 노르테치코 문명의 중심지로 번영했다. 아메리카 대륙에서 알려진 가장 오래된 도시 문명이다.",
+        "zh": "苏佩河谷的圣城卡拉尔拥有宏伟的金字塔和广场,是小北文明的中心,也是美洲已知最早的城市文明。",
+        "ja": "スーペ渓谷の聖都カラルは巨大なピラミッドと広場を備え、ノルテ・チコ文明の中心として栄えた。アメリカ大陸で知られる最古の都市文明である。"
+      }
+    },
+    {
+      "year": -900,
+      "importance": 2,
+      "title": {
+        "en": "Chavín culture unifies Andean religion and art",
+        "ko": "차빈 문화와 안데스 종교·예술의 통합",
+        "zh": "查文文化整合安第斯宗教与艺术",
+        "ja": "チャビン文化とアンデス宗教・美術の統合"
+      },
+      "description": {
+        "en": "The temple complex of Chavín de Huántar became a great pilgrimage center whose religious imagery and stone carving spread across the Andes, shaping later Peruvian cultures.",
+        "ko": "차빈 데 우안타르의 신전 단지는 안데스 전역에 종교적 도상과 석조 예술을 퍼뜨린 대순례 중심지가 되어 이후 페루 문화들의 토대를 놓았다.",
+        "zh": "查文德万塔尔神庙建筑群成为重要的朝圣中心,其宗教图像与石雕艺术传遍安第斯山区,深刻影响了秘鲁后来的各个文化。",
+        "ja": "チャビン・デ・ワンタルの神殿群は一大巡礼地となり、その宗教図像と石彫芸術はアンデス全域に広がって、後のペルー諸文化の基礎を形づくった。"
+      }
+    },
+    {
+      "year": 100,
+      "importance": 2,
+      "title": {
+        "en": "Moche and Nazca cultures flourish",
+        "ko": "모체와 나스카 문화의 번영",
+        "zh": "莫切与纳斯卡文化的繁荣",
+        "ja": "モチェ文化とナスカ文化の繁栄"
+      },
+      "description": {
+        "en": "On the north coast the Moche built adobe pyramids and produced masterful ceramics and metalwork, while the Nazca in the south etched the vast desert geoglyphs known as the Nazca Lines.",
+        "ko": "북부 해안의 모체인들은 흙벽돌 피라미드를 세우고 뛰어난 토기와 금속 공예를 남겼으며, 남부의 나스카인들은 사막에 거대한 지상화인 나스카 라인을 새겼다.",
+        "zh": "北部沿海的莫切人修建土坯金字塔,创作出精湛的陶器与金属工艺;南部的纳斯卡人则在沙漠上刻画出巨大的地画——纳斯卡线条。",
+        "ja": "北部海岸のモチェ人は日干し煉瓦のピラミッドを築き、優れた土器や金属工芸を残した。一方、南部のナスカ人は砂漠に巨大な地上絵「ナスカの地上絵」を描いた。"
+      }
+    },
+    {
+      "year": 1200,
+      "importance": 3,
+      "title": {
+        "en": "Rise of the Kingdom of Cusco",
+        "ko": "쿠스코 왕국의 성립",
+        "zh": "库斯科王国的兴起",
+        "ja": "クスコ王国の成立"
+      },
+      "description": {
+        "en": "According to tradition, Manco Cápac founded the Inca dynasty at Cusco around this time; the small highland kingdom would later grow into the largest empire of the pre-Columbian Americas.",
+        "ko": "전승에 따르면 이 무렵 만코 카팍이 쿠스코에 잉카 왕조를 세웠다. 이 작은 고원 왕국은 훗날 콜럼버스 이전 아메리카 최대의 제국으로 성장한다.",
+        "zh": "据传说,曼科·卡帕克约在此时于库斯科创立印加王朝。这个高原小王国日后发展为前哥伦布时期美洲最大的帝国。",
+        "ja": "伝承によれば、この頃マンコ・カパックがクスコにインカ王朝を開いた。この小さな高地の王国は、やがて先コロンブス期アメリカ最大の帝国へと成長する。"
+      }
+    },
+    {
+      "year": 1438,
+      "importance": 1,
+      "title": {
+        "en": "Pachacuti and the Inca Empire",
+        "ko": "파차쿠티와 잉카 제국의 팽창",
+        "zh": "帕查库特克与印加帝国的扩张",
+        "ja": "パチャクティとインカ帝国の拡大"
+      },
+      "description": {
+        "en": "Pachacuti transformed Cusco into the capital of Tawantinsuyu, the Inca Empire, which came to span the Andes; the royal estate of Machu Picchu was built during his reign.",
+        "ko": "파차쿠티는 쿠스코를 잉카 제국 '타완틴수유'의 수도로 탈바꿈시켰고, 제국은 안데스 전역으로 뻗어 나갔다. 왕실 별궁 마추픽추도 그의 치세에 건설되었다.",
+        "zh": "帕查库特克将库斯科打造为印加帝国“塔万廷苏尤”的都城,帝国版图延伸至整个安第斯地区。王室庄园马丘比丘也建于他的统治时期。",
+        "ja": "パチャクティはクスコをインカ帝国「タワンティンスーユ」の都へと変貌させ、帝国はアンデス全域に広がった。王家の離宮マチュ・ピチュも彼の治世に築かれた。"
+      }
+    },
+    {
+      "year": 1532,
+      "importance": 1,
+      "title": {
+        "en": "Spanish conquest: Atahualpa captured at Cajamarca",
+        "ko": "에스파냐의 정복: 카하마르카의 아타우알파 생포",
+        "zh": "西班牙征服:阿塔瓦尔帕在卡哈马卡被俘",
+        "ja": "スペインの征服:カハマルカでのアタワルパ捕縛"
+      },
+      "description": {
+        "en": "Francisco Pizarro's small force seized the Inca ruler Atahualpa at Cajamarca and executed him despite a vast ransom; weakened by civil war and epidemics, the Inca Empire fell to Spain.",
+        "ko": "프란시스코 피사로의 소수 병력이 카하마르카에서 잉카 황제 아타우알파를 사로잡고 막대한 몸값을 받고도 처형했다. 내전과 전염병으로 약해진 잉카 제국은 에스파냐에 무너졌다.",
+        "zh": "弗朗西斯科·皮萨罗率少量兵力在卡哈马卡俘获印加皇帝阿塔瓦尔帕,收取巨额赎金后仍将其处死。因内战和瘟疫而衰弱的印加帝国就此亡于西班牙。",
+        "ja": "フランシスコ・ピサロの少数の部隊がカハマルカでインカ皇帝アタワルパを捕らえ、莫大な身代金を得ながら処刑した。内戦と疫病で弱っていたインカ帝国はスペインの手に落ちた。"
+      }
+    },
+    {
+      "year": 1542,
+      "importance": 2,
+      "title": {
+        "en": "Viceroyalty of Peru established",
+        "ko": "페루 부왕령의 설치",
+        "zh": "秘鲁总督辖区的设立",
+        "ja": "ペルー副王領の設置"
+      },
+      "description": {
+        "en": "Spain created the Viceroyalty of Peru with Lima as its capital; for two centuries it governed most of Spanish South America, enriched by the silver of Potosí at great human cost.",
+        "ko": "에스파냐는 리마를 수도로 하는 페루 부왕령을 설치했다. 부왕령은 두 세기 동안 에스파냐령 남아메리카 대부분을 다스렸고, 포토시 은광의 부는 막대한 인적 희생 위에 쌓였다.",
+        "zh": "西班牙设立以利马为首府的秘鲁总督辖区,统辖西属南美大部分地区达两个世纪。波托西银矿带来巨额财富,也付出了惨重的人力代价。",
+        "ja": "スペインはリマを首府とするペルー副王領を設置した。副王領は二世紀にわたりスペイン領南米の大半を統治し、ポトシ銀山の富は多大な人的犠牲の上に築かれた。"
+      }
+    },
+    {
+      "year": 1780,
+      "importance": 2,
+      "title": {
+        "en": "Rebellion of Túpac Amaru II",
+        "ko": "투팍 아마루 2세의 봉기",
+        "zh": "图帕克·阿马鲁二世起义",
+        "ja": "トゥパク・アマルー2世の反乱"
+      },
+      "description": {
+        "en": "Túpac Amaru II, claiming descent from the Inca rulers, led the largest indigenous uprising in colonial Spanish America; though crushed, it became a lasting symbol of resistance.",
+        "ko": "잉카 왕가의 후손을 자처한 투팍 아마루 2세가 에스파냐령 아메리카 최대의 원주민 봉기를 이끌었다. 봉기는 진압되었지만 오래도록 저항의 상징으로 남았다.",
+        "zh": "自称印加王室后裔的图帕克·阿马鲁二世领导了西属美洲规模最大的原住民起义。起义虽被镇压,却成为经久不衰的反抗象征。",
+        "ja": "インカ王家の末裔を称するトゥパク・アマルー2世が、スペイン領アメリカ最大の先住民蜂起を率いた。蜂起は鎮圧されたが、抵抗の象徴として長く記憶されている。"
+      }
+    },
+    {
+      "year": 1821,
+      "importance": 1,
+      "title": {
+        "en": "Declaration of Peruvian independence",
+        "ko": "페루 독립 선언",
+        "zh": "秘鲁宣布独立",
+        "ja": "ペルー独立宣言"
+      },
+      "description": {
+        "en": "General José de San Martín proclaimed the independence of Peru in Lima on 28 July 1821, the date still celebrated as Peru's national day.",
+        "ko": "1821년 7월 28일 호세 데 산마르틴 장군이 리마에서 페루의 독립을 선포했다. 이날은 지금도 페루의 독립기념일로 기념된다.",
+        "zh": "1821年7月28日,何塞·德·圣马丁将军在利马宣布秘鲁独立。这一天至今仍是秘鲁的国庆日。",
+        "ja": "1821年7月28日、ホセ・デ・サン=マルティン将軍がリマでペルーの独立を宣言した。この日は今もペルーの独立記念日として祝われている。"
+      }
+    },
+    {
+      "year": 1824,
+      "importance": 2,
+      "title": {
+        "en": "Battle of Ayacucho seals independence",
+        "ko": "아야쿠초 전투와 독립의 확정",
+        "zh": "阿亚库乔战役奠定独立",
+        "ja": "アヤクーチョの戦いによる独立の確定"
+      },
+      "description": {
+        "en": "Patriot forces under Antonio José de Sucre defeated the last royalist army at Ayacucho, securing the independence of Peru and effectively ending Spanish rule in South America.",
+        "ko": "안토니오 호세 데 수크레가 이끄는 독립군이 아야쿠초에서 마지막 왕당파 군대를 격파해 페루의 독립을 확정지었고, 남아메리카에서 에스파냐 지배는 사실상 종식되었다.",
+        "zh": "安东尼奥·何塞·德·苏克雷率领的爱国军在阿亚库乔击败最后一支保王军,确保了秘鲁独立,也实际终结了西班牙在南美洲的统治。",
+        "ja": "アントニオ・ホセ・デ・スクレ率いる独立軍がアヤクーチョで最後の王党派軍を破り、ペルーの独立を確定させた。南米におけるスペイン支配は事実上終わりを迎えた。"
+      }
+    },
+    {
+      "year": 1879,
+      "importance": 2,
+      "title": {
+        "en": "War of the Pacific",
+        "ko": "남미 태평양 전쟁(초석 전쟁)",
+        "zh": "南美太平洋战争(硝石战争)",
+        "ja": "太平洋戦争(硝石戦争)"
+      },
+      "description": {
+        "en": "Peru fought Chile in the War of the Pacific over nitrate-rich territory; defeat brought the occupation of Lima and the loss of the province of Tarapacá under the 1883 Treaty of Ancón.",
+        "ko": "페루는 초석 산지를 둘러싸고 칠레와 전쟁을 벌였다. 패전으로 리마가 점령당했고, 1883년 앙콘 조약에 따라 타라파카 지방을 상실했다.",
+        "zh": "秘鲁为争夺富含硝石的领土与智利开战,战败后利马被占领,并依据1883年《安孔条约》失去塔拉帕卡省。",
+        "ja": "ペルーは硝石資源をめぐりチリと戦った。敗戦によりリマは占領され、1883年のアンコン条約でタラパカ地方を失った。"
+      }
+    },
+    {
+      "year": 1911,
+      "importance": 2,
+      "title": {
+        "en": "Machu Picchu brought to world attention",
+        "ko": "마추픽추, 세계에 알려지다",
+        "zh": "马丘比丘为世界所知",
+        "ja": "マチュ・ピチュ、世界に知られる"
+      },
+      "description": {
+        "en": "Hiram Bingham, guided by local farmers, publicized the Inca citadel of Machu Picchu; it became a UNESCO World Heritage Site in 1983 and the emblem of Peru's Inca heritage.",
+        "ko": "하이럼 빙엄이 현지 농민들의 안내로 잉카 유적 마추픽추를 세상에 알렸다. 1983년 유네스코 세계유산으로 등재되어 페루 잉카 유산의 상징이 되었다.",
+        "zh": "海勒姆·宾厄姆在当地农民的引导下将印加古城马丘比丘公诸于世。该遗址于1983年被列入联合国教科文组织世界遗产,成为秘鲁印加文明的象征。",
+        "ja": "ハイラム・ビンガムが地元農民の案内でインカの遺跡マチュ・ピチュを世界に紹介した。1983年にユネスコ世界遺産に登録され、ペルーのインカ遺産の象徴となった。"
+      }
+    },
+    {
+      "year": 1980,
+      "importance": 2,
+      "title": {
+        "en": "Internal armed conflict begins",
+        "ko": "국내 무력 분쟁의 시작",
+        "zh": "国内武装冲突爆发",
+        "ja": "国内武力紛争の勃発"
+      },
+      "description": {
+        "en": "The Shining Path insurgency launched an armed campaign against the state; two decades of violence by insurgents and security forces caused an estimated 70,000 deaths, mostly in Andean communities.",
+        "ko": "'빛나는 길'의 무장 봉기로 국가와의 내전이 시작되었다. 20년에 걸친 반군과 정부군의 폭력으로 약 7만 명이 희생되었으며, 피해는 안데스 산간 지역 주민에게 집중되었다.",
+        "zh": "“光辉道路”发动武装叛乱,与国家对抗。此后二十年间,叛乱武装与政府军的暴力共造成约七万人死亡,受害者多为安第斯山区居民。",
+        "ja": "「センデロ・ルミノソ(輝く道)」が国家に対する武装闘争を開始した。20年に及ぶ反乱勢力と治安部隊の暴力で約7万人が犠牲となり、被害はアンデス山間部の住民に集中した。"
+      }
+    },
+    {
+      "year": 2000,
+      "importance": 2,
+      "title": {
+        "en": "Fall of Fujimori and return to democracy",
+        "ko": "후지모리 정권의 붕괴와 민주주의 회복",
+        "zh": "藤森政权垮台与民主恢复",
+        "ja": "フジモリ政権の崩壊と民主主義の回復"
+      },
+      "description": {
+        "en": "President Alberto Fujimori's decade-long rule collapsed amid corruption scandals; he resigned from abroad, and Peru restored democratic institutions under transitional and elected governments.",
+        "ko": "10년간 이어진 알베르토 후지모리 대통령의 통치가 부패 스캔들 속에 무너졌다. 그는 해외에서 사임했고, 페루는 과도 정부와 선출 정부를 거치며 민주주의 제도를 회복했다.",
+        "zh": "阿尔韦托·藤森长达十年的统治在腐败丑闻中崩溃,他在国外辞去总统职务。秘鲁经由过渡政府和民选政府重建了民主制度。",
+        "ja": "アルベルト・フジモリ大統領の10年に及ぶ統治は汚職スキャンダルの中で崩壊し、本人は国外から辞任した。ペルーは暫定政権と民選政権を経て民主制度を回復した。"
+      }
+    }
+  ]
+}
