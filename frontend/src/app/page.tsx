@@ -1,9 +1,11 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import type { SelectedCountry } from "@/types/map";
 import { useTimeSlider } from "@/hooks/useTimeSlider";
 import { Header } from "@/components/layout/Header";
+import { CommandPalette } from "@/components/layout/CommandPalette";
+import { IntroSplash } from "@/components/layout/IntroSplash";
 import { DotGlobe, type DotGlobeHandle } from "@/components/map/DotGlobe";
 import { MapControls } from "@/components/map/MapControls";
 import { TimeSlider } from "@/components/timeline/TimeSlider";
@@ -14,6 +16,7 @@ import { AIChatBot } from "@/components/chat/AIChatBot";
 export default function HomePage() {
   const [selectedCountry, setSelectedCountry] =
     useState<SelectedCountry | null>(null);
+  const [searchOpen, setSearchOpen] = useState(false);
   const globeRef = useRef<DotGlobeHandle>(null);
   const { currentYear, isPlaying, setCurrentYear, togglePlay } =
     useTimeSlider(2000);
@@ -34,6 +37,19 @@ export default function HomePage() {
     setSelectedCountry(null);
   };
 
+  const openSearch = useCallback(() => setSearchOpen(true), []);
+
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k") {
+        e.preventDefault();
+        setSearchOpen((v) => !v);
+      }
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, []);
+
   return (
     <div className="relative h-screen w-screen overflow-hidden">
       <DotGlobe
@@ -43,7 +59,15 @@ export default function HomePage() {
         selectedCountryCode={selectedCountry?.iso_code ?? null}
       />
 
-      <Header onCountrySelect={handleSearchSelect} />
+      <IntroSplash />
+
+      <Header onOpenSearch={openSearch} />
+
+      <CommandPalette
+        open={searchOpen}
+        onClose={() => setSearchOpen(false)}
+        onSelect={handleSearchSelect}
+      />
 
       <MapControls
         onZoomIn={() => globeRef.current?.zoomIn()}
