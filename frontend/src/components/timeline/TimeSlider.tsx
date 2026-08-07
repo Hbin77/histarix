@@ -16,7 +16,7 @@ export function TimeSlider({
   onTogglePlay,
 }: TimeSliderProps) {
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-40 flex h-16 md:h-20 items-center gap-3 md:gap-4 bg-[var(--surface-container)]/85 px-3 md:px-6 backdrop-blur-[12px] ring-1 ring-[var(--outline-variant)]/60">
+    <div className="ui-enter fixed bottom-3 left-1/2 z-40 flex h-14 md:h-16 w-[calc(100%-1.5rem)] max-w-4xl -translate-x-1/2 items-center gap-3 md:gap-4 rounded-2xl bg-[var(--surface-container)]/85 px-3 md:px-6 backdrop-blur-xl ring-1 ring-[var(--outline-variant)]/70 shadow-[0_8px_24px_rgba(27,37,64,0.10)]">
       <button
         onClick={onTogglePlay}
         className="flex h-8 w-8 md:h-10 md:w-10 shrink-0 items-center justify-center rounded-full bg-[var(--primary)]/10 text-[var(--primary)] ring-1 ring-[var(--primary)]/30 transition hover:bg-[var(--primary)]/20"

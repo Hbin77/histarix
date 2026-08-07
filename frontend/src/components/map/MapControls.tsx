@@ -10,7 +10,7 @@ interface MapControlsProps {
 export function MapControls({ onZoomIn, onZoomOut, panelOpen }: MapControlsProps) {
   return (
     <div
-      className={`fixed right-3 md:right-6 bottom-20 md:bottom-28 z-40 flex flex-col gap-2 transition-[right] duration-300 ${
+      className={`fixed right-3 md:right-6 bottom-20 md:bottom-24 z-40 flex flex-col gap-2 transition-[right] duration-300 ${
         panelOpen ? "lg:right-[444px]" : ""
       }`}
     >

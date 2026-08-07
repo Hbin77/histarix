@@ -131,7 +131,7 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
       {/* Floating toggle button */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="fixed bottom-44 md:bottom-56 right-3 md:right-6 z-50 flex h-12 w-12 items-center justify-center rounded-full bg-gradient-to-br from-[var(--primary)] to-[var(--primary-container)] shadow-lg shadow-[var(--primary)]/20 transition-all hover:scale-105 hover:shadow-xl"
+        className="fixed bottom-52 md:bottom-56 right-3 md:right-6 z-50 flex h-12 w-12 items-center justify-center rounded-full bg-gradient-to-br from-[var(--primary)] to-[var(--primary-container)] shadow-lg shadow-[var(--primary)]/20 transition-all hover:scale-105 hover:shadow-xl"
         aria-label="AI Chat"
       >
         {isOpen ? (
@@ -152,7 +152,7 @@ export function AIChatBot({ countryContext }: { countryContext?: string | null }
 
       {/* Chat panel */}
       {isOpen && (
-        <div className="fixed bottom-60 md:bottom-[280px] right-3 md:right-6 z-50 flex max-h-[calc(100dvh-320px)] md:max-h-[calc(100dvh-352px)] w-80 md:w-96 flex-col rounded-2xl border border-[var(--outline-variant)] bg-[var(--surface-container)]/90 shadow-[0_16px_40px_rgba(27,37,64,0.16)] backdrop-blur-xl">
+        <div className="fixed bottom-[272px] md:bottom-[280px] right-3 md:right-6 z-50 flex max-h-[calc(100dvh-320px)] md:max-h-[calc(100dvh-352px)] w-80 md:w-96 flex-col rounded-2xl border border-[var(--outline-variant)] bg-[var(--surface-container)]/90 shadow-[0_16px_40px_rgba(27,37,64,0.16)] backdrop-blur-xl">
           {/* Header */}
           <div className="flex items-center gap-2 rounded-t-2xl border-b border-[var(--outline-variant)] bg-gradient-to-r from-[var(--primary)]/10 to-[var(--primary-container)]/10 px-4 py-3">
             <div className="flex h-8 w-8 items-center justify-center rounded-full bg-gradient-to-br from-[var(--primary)] to-[var(--primary-container)]">

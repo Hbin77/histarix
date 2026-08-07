@@ -45,6 +45,9 @@ const LABELS: Record<string, Record<Lang, string>> = {
   viewOnWikipedia: { ko: "Wikipedia에서 더 보기 →", en: "View on Wikipedia →", zh: "在Wikipedia上查看 →", ja: "Wikipediaで見る →" },
   comingSoon: { ko: "곧 업데이트될 예정입니다.", en: "Coming soon.", zh: "即将更新。", ja: "近日公開予定です。" },
   loadingHistory: { ko: "역사 데이터를 불러오는 중...", en: "Loading history data...", zh: "正在加载历史数据...", ja: "歴史データを読み込み中..." },
+  searchHint: { ko: "국가 이름을 입력하세요 — 한국어도 검색됩니다", en: "Type a country name to explore", zh: "输入国家名称开始探索", ja: "国名を入力して探索" },
+  recent: { ko: "최근 본 국가", en: "Recent", zh: "最近查看", ja: "最近見た国" },
+  introTagline: { ko: "세계의 역사를 지구본 위에서", en: "World history on a living globe", zh: "在地球仪上探索世界历史", ja: "地球儀の上で巡る世界史" },
 };
 
 const I18nCtx = createContext<I18nContext>({
