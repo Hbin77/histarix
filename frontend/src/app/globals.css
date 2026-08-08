@@ -22,7 +22,7 @@
 
   /* Dot globe (light) */
   --globe-ocean: #e9eef7;
-  --globe-outline: rgba(27, 37, 64, 0.32);
+  --globe-outline: rgba(27, 37, 64, 0.15);
   --globe-graticule: rgba(27, 37, 64, 0.055);
   --globe-marker: #3c66e4;
   --globe-atmosphere: rgba(76, 118, 235, 0.20);

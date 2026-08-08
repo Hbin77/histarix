@@ -12,7 +12,6 @@ import {
   BufferGeometry,
   CanvasTexture,
   Color,
-  CylinderGeometry,
   DirectionalLight,
   Group,
   HemisphereLight,
@@ -21,6 +20,7 @@ import {
   Mesh,
   MeshBasicMaterial,
   PerspectiveCamera,
+  PlaneGeometry,
   Raycaster,
   Scene,
   SphereGeometry,
@@ -33,7 +33,6 @@ import {
 } from "three";
 import type { SelectedCountry } from "@/types/map";
 import { COUNTRY_LANDMARKS, type CountryLandmark } from "@/data/landmarks";
-import { TONES } from "@/lib/monuments/materials";
 import {
   disposeModel,
   hasLandmarkModel,
@@ -295,27 +294,24 @@ interface SlotColors {
   dimmedHex: string[];
 }
 
-/** Hover/selected are HSL derivations of the slot color (MASTER.md §2). */
+/**
+ * Editorial atlas coloring: the resting map is nearly paper — each slot only
+ * a whisper of its hue — and color carries meaning: hover warms the tint,
+ * selection lights the country in its full slot color (MASTER.md §2).
+ */
 function deriveSlotColors(baseColors: Color[], ocean: Color): SlotColors {
-  const hsl = { h: 0, s: 0, l: 0 };
-  const derive = (c: Color, ds: number, dl: number) => {
-    c.getHSL(hsl);
-    return new Color().setHSL(
-      hsl.h,
-      Math.min(1, hsl.s + ds),
-      Math.max(0, hsl.l + dl)
-    );
-  };
-  const hover = baseColors.map((c) => derive(c, 0.05, -0.08));
-  const selected = baseColors.map((c) => derive(c, 0.08, -0.14));
-  const dimmed = baseColors.map((c) => c.clone().lerp(ocean, 0.42));
+  const paper = new Color().setRGB(0.988, 0.99, 0.996, SRGBColorSpace);
+  const base = baseColors.map((c) => c.clone().lerp(paper, 0.8));
+  const hover = baseColors.map((c) => c.clone().lerp(paper, 0.52));
+  const selected = baseColors.map((c) => c.clone());
+  const dimmed = baseColors.map((c) => c.clone().lerp(paper, 0.9));
   const css = (c: Color) => "#" + c.getHexString();
   return {
-    base: baseColors,
+    base,
     hover,
     selected,
     dimmed,
-    baseHex: baseColors.map(css),
+    baseHex: base.map(css),
     hoverHex: hover.map(css),
     selectedHex: selected.map(css),
     dimmedHex: dimmed.map(css),
@@ -537,8 +533,8 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
 
       // Lights only affect the (Lambert) landmark models — the globe's
       // Basic materials ignore them.
-      scene.add(new HemisphereLight(0xffffff, 0xd5dae8, 1.15));
-      const sun = new DirectionalLight(0xffffff, 0.9);
+      scene.add(new HemisphereLight(0xffffff, 0xd5dae8, 1.3));
+      const sun = new DirectionalLight(0xffffff, 0.65);
       sun.position.set(0.6, 1, 1.4);
       scene.add(sun);
 
@@ -546,7 +542,7 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       let model3d: Group | null = null;
       let model3dStart = 0;
       let modelAnchor: Vector3 | null = null;
-      const MODEL_HEIGHT = 0.28;
+      const MODEL_HEIGHT = 0.25;
       const EMERGE_MS = 1200;
       const BURIAL = MODEL_HEIGHT * 1.12;
       // overshoot ease: the monument bursts slightly past ground level, then settles
@@ -679,34 +675,29 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
                     }
                     removeModel3d();
                     model3d = model;
-                    const slots = w.slots;
-                    const sc = w.slotColors;
-                    if (slots && sc && w.selectedFi !== null) {
-                      const slot = slots[w.selectedFi];
-                      // ground skirt in the country's (selected) land color makes
-                      // the monument sit on its own soil instead of a grey disc
-                      const skirt = new Mesh(
-                        new CylinderGeometry(0.55, 0.62, 0.012, 48),
-                        new MeshBasicMaterial({ color: sc.selected[slot].clone() })
-                      );
-                      skirt.position.y = 0.005;
-                      model3d.add(skirt);
-                      // standard plaza discs re-tint toward the land color
-                      const plazaHex = new Color(TONES.plaza).getHexString();
-                      const plazaTint = sc.base[slot]
-                        .clone()
-                        .lerp(new Color(1, 1, 1), 0.42);
-                      model3d.traverse((child) => {
-                        if (
-                          child instanceof Mesh &&
-                          !Array.isArray(child.material) &&
-                          "color" in child.material &&
-                          (child.material.color as Color).getHexString() === plazaHex
-                        ) {
-                          (child.material.color as Color).copy(plazaTint);
-                        }
-                      });
-                    }
+                    // soft contact shadow grounds the monument like a
+                    // museum diorama (replaces the old solid color disc)
+                    const shadowCanvas = document.createElement("canvas");
+                    shadowCanvas.width = shadowCanvas.height = 128;
+                    const shadowCtx = shadowCanvas.getContext("2d")!;
+                    const grad = shadowCtx.createRadialGradient(64, 64, 4, 64, 64, 64);
+                    grad.addColorStop(0, "rgba(27,37,64,0.20)");
+                    grad.addColorStop(0.55, "rgba(27,37,64,0.10)");
+                    grad.addColorStop(1, "rgba(27,37,64,0)");
+                    shadowCtx.fillStyle = grad;
+                    shadowCtx.fillRect(0, 0, 128, 128);
+                    const shadowTexture = new CanvasTexture(shadowCanvas);
+                    const shadow = new Mesh(
+                      new PlaneGeometry(0.9, 0.9),
+                      new MeshBasicMaterial({
+                        map: shadowTexture,
+                        transparent: true,
+                        depthWrite: false,
+                      })
+                    );
+                    shadow.rotation.x = -Math.PI / 2;
+                    shadow.position.y = 0.004;
+                    model3d.add(shadow);
                     placeOnGlobe(model3d, anchor, MODEL_HEIGHT);
                     modelAnchor = anchor.clone();
                     // start fully buried; the ocean sphere depth-hides it
