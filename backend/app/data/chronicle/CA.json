@@ -1,0 +1,2504 @@
+{
+ "iso": "CA",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -1000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Archaic period",
+    "ko": "아케익 시대",
+    "zh": "古风期",
+    "ja": "アルカイック期"
+   },
+   "summary": {
+    "en": "After the retreat of the ice sheets, Indigenous peoples spread across what is now Canada, adapting to forests, plains, coasts and tundra. Archaic cultures such as the Maritime Archaic of the Atlantic coast and the Shield Archaic of the boreal forest hunted caribou, seals and fish, while Plains peoples hunted bison with communal drives. Ground stone tools, elaborate burials and long-distance trade in copper and stone developed in this long era.",
+    "ko": "빙상이 물러난 뒤 원주민들은 오늘날 캐나다의 숲과 평원, 해안, 툰드라로 퍼져 나가며 환경에 적응했다. 대서양 연안의 해양 아케익 문화, 아한대림의 순상지 아케익 문화 등은 순록·물범·물고기를 사냥했고, 평원의 사람들은 공동 몰이로 들소를 사냥했다. 이 긴 시대에 간석기, 정교한 매장 의례, 구리와 돌의 원거리 교역이 발달했다.",
+    "zh": "冰盖退去后，原住民扩散到今日加拿大的森林、平原、海岸和苔原，并适应了各自的环境。大西洋沿岸的海洋古风文化、北方针叶林的地盾古风文化等以驯鹿、海豹和鱼类为生，平原上的人们则以集体驱赶的方式猎捕野牛。在这一漫长时代里，磨制石器、复杂的丧葬习俗以及铜和石料的远程贸易逐渐发展起来。",
+    "ja": "氷床が後退した後、先住民は現在のカナダの森林、平原、海岸、ツンドラへと広がり、それぞれの環境に適応した。大西洋岸の海洋アルカイック文化や北方林の楯状地アルカイック文化はカリブー、アザラシ、魚を狩り、平原の人々は共同の追い込み猟でバイソンを捕らえた。この長い時代に磨製石器、精緻な埋葬儀礼、銅や石材の遠距離交易が発達した。"
+   }
+  },
+  {
+   "from": -2500,
+   "to": -800,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Pre-Dorset (Paleo-Inuit) cultures",
+    "ko": "프레도싯(고에스키모) 문화",
+    "zh": "前多塞特（古因纽特）文化",
+    "ja": "プレ・ドーセット（古エスキモー）文化"
+   },
+   "summary": {
+    "en": "Around 2500 BC the first people to live in the Canadian Arctic arrived from Alaska, bearers of the Arctic Small Tool tradition known in Canada as Pre-Dorset and, in Greenland and the High Arctic, Independence I. Small, mobile groups hunted caribou, muskox and seals with finely made stone tools, spreading across the islands and coasts as far as Labrador.",
+    "ko": "기원전 2500년경 캐나다 북극권에 처음 살게 된 사람들이 알래스카에서 건너왔다. 이들은 북극 소형 석기 전통을 지닌 집단으로, 캐나다에서는 프레도싯, 그린란드와 고위도 북극에서는 인디펜던스 I 문화로 불린다. 소규모로 이동하며 정교한 석기로 순록·사향소·물범을 사냥했고, 섬과 해안을 따라 래브라도까지 퍼졌다.",
+    "zh": "约公元前2500年，最早在加拿大北极地区生活的人群从阿拉斯加迁来。他们属于北极小型工具传统，在加拿大称为前多塞特文化，在格陵兰和高纬北极称为独立一期文化。这些规模小、流动性强的群体用精巧的石器猎捕驯鹿、麝牛和海豹，沿着岛屿和海岸一直扩散到拉布拉多。",
+    "ja": "紀元前2500年頃、カナダ北極圏に最初に住んだ人々がアラスカから渡ってきた。彼らは北極小型石器伝統の担い手で、カナダではプレ・ドーセット、グリーンランドや高緯度北極ではインディペンデンスI文化と呼ばれる。小集団で移動しながら精巧な石器でカリブー、ジャコウウシ、アザラシを狩り、島々や海岸に沿ってラブラドルまで広がった。"
+   }
+  },
+  {
+   "from": -1000,
+   "to": 1000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Woodland, Plains and Northwest Coast cultures",
+    "ko": "우드랜드·평원·북서해안 문화",
+    "zh": "林地、平原与西北海岸文化",
+    "ja": "ウッドランド・平原・北西海岸文化"
+   },
+   "summary": {
+    "en": "Across southern Canada, Woodland-period peoples adopted pottery, built burial mounds such as the Serpent Mound on Rice Lake in Ontario, and took part in trade networks linked to the Hopewell world. On the Plains, bison hunting with drives and jumps flourished and the bow and arrow came into use. On the Pacific coast, peoples ancestral to today's Coast Salish, Nuu-chah-nulth, Haida and others developed rich societies based on salmon, cedar and large plank-house villages.",
+    "ko": "캐나다 남부의 우드랜드 시대 사람들은 토기를 쓰고 온타리오 라이스호의 서펀트 마운드 같은 봉분을 쌓았으며, 호프웰 세계와 연결된 교역망에 참여했다. 평원에서는 몰이와 절벽 추락을 이용한 들소 사냥이 번성했고 활과 화살이 쓰이기 시작했다. 태평양 연안에서는 오늘날 코스트 샐리시, 누차눌스, 하이다 등의 조상이 연어와 삼나무, 대형 판자집 마을을 바탕으로 풍요로운 사회를 이루었다.",
+    "zh": "在加拿大南部，林地期的人们开始使用陶器，修建了安大略省赖斯湖蛇形土丘等墓冢，并参与了与霍普韦尔文化相连的贸易网络。在平原上，利用驱赶和悬崖坠落猎捕野牛的方式盛行，弓箭也开始使用。在太平洋沿岸，今日海岸萨利什人、努查努尔斯人、海达人等的祖先依托鲑鱼、雪松和大型木板屋村落，形成了富足的社会。",
+    "ja": "カナダ南部では、ウッドランド期の人々が土器を使い、オンタリオ州ライス湖のサーペント・マウンドのような墳丘を築き、ホープウェル世界とつながる交易網に加わった。平原では追い込みや崖落としによるバイソン猟が栄え、弓矢が使われ始めた。太平洋岸では、今日のコースト・セイリッシュ、ヌーチャヌルス、ハイダなどの祖先がサケとスギ、大きな板張り家屋の村落を基盤に豊かな社会を築いた。"
+   }
+  },
+  {
+   "from": -800,
+   "to": -200,
+   "kind": "culture",
+   "qid": "Q106910926",
+   "polity": null,
+   "name": {
+    "en": "Groswater culture",
+    "ko": "그로스워터 문화",
+    "zh": "格罗斯沃特文化",
+    "ja": "グロスウォーター文化"
+   },
+   "summary": {
+    "en": "The Groswater culture was a Paleo-Inuit culture of Labrador and Newfoundland, named after Groswater Bay. Its people hunted seals and other marine animals and made distinctive side-notched stone tools. They disappeared from the region a few centuries before the arrival of the Dorset culture.",
+    "ko": "그로스워터 문화는 래브라도와 뉴펀들랜드의 고에스키모 문화로, 그로스워터만에서 이름을 땄다. 이들은 물범 등 해양 동물을 사냥했고 옆에 홈을 낸 독특한 석기를 만들었다. 이들은 도싯 문화가 들어오기 몇 세기 전에 이 지역에서 자취를 감추었다.",
+    "zh": "格罗斯沃特文化是拉布拉多和纽芬兰的古因纽特文化，得名于格罗斯沃特湾。其居民猎捕海豹等海洋动物，制作带侧缺口的独特石器。他们在多塞特文化到来前几个世纪便从该地区消失了。",
+    "ja": "グロスウォーター文化はラブラドルとニューファンドランドの古エスキモー文化で、グロスウォーター湾にちなんで名づけられた。人々はアザラシなどの海獣を狩り、側面に抉りを入れた独特の石器を作った。彼らはドーセット文化が現れる数世紀前にこの地域から姿を消した。"
+   }
+  },
+  {
+   "from": -500,
+   "to": 1500,
+   "kind": "culture",
+   "qid": "Q603749",
+   "polity": null,
+   "name": {
+    "en": "Dorset culture",
+    "ko": "도싯 문화",
+    "zh": "多塞特文化",
+    "ja": "ドーセット文化"
+   },
+   "summary": {
+    "en": "The Dorset culture, called Tuniit in Inuit oral tradition, dominated the Canadian Arctic, Labrador and Newfoundland from around 500 BC. Dorset people hunted seals and walrus through the sea ice, built snow houses and semi-subterranean dwellings, and carved small, striking figures in ivory and wood. They disappeared after the arrival of the Thule ancestors of the Inuit, by around the 14th–15th centuries.",
+    "ko": "이누이트 구전에서 ‘투니트’라 불리는 도싯 문화는 기원전 500년경부터 캐나다 북극권과 래브라도, 뉴펀들랜드를 지배했다. 도싯 사람들은 해빙 위에서 물범과 바다코끼리를 사냥하고, 눈집과 반지하 주거를 지었으며, 상아와 나무로 작지만 인상적인 조각을 남겼다. 이누이트의 조상인 툴레인이 들어온 뒤 14~15세기경에 사라졌다.",
+    "zh": "多塞特文化在因纽特口述传统中被称为“图尼特”，约自公元前500年起主导了加拿大北极地区、拉布拉多和纽芬兰。多塞特人在海冰上猎捕海豹和海象，建造雪屋和半地穴式住所，并用象牙和木头雕刻出小巧而引人注目的形象。在因纽特人的祖先图勒人到来后，他们约于14至15世纪消失。",
+    "ja": "イヌイットの口承で「トゥニート」と呼ばれるドーセット文化は、紀元前500年頃からカナダ北極圏、ラブラドル、ニューファンドランドで支配的となった。ドーセットの人々は海氷上でアザラシやセイウチを狩り、雪の家や半地下式住居を築き、象牙や木で小さく印象的な彫像を残した。イヌイットの祖先チューレ人の到来後、14～15世紀頃までに姿を消した。"
+   }
+  },
+  {
+   "from": 1000,
+   "to": 1025,
+   "kind": "culture",
+   "qid": "Q582948",
+   "polity": null,
+   "name": {
+    "en": "Norse at L'Anse aux Meadows",
+    "ko": "랑스오메도스의 노르드인",
+    "zh": "兰塞奥兹牧草地的诺斯人",
+    "ja": "ランス・オ・メドーのノース人"
+   },
+   "summary": {
+    "en": "Around AD 1000 Norse voyagers from Greenland, remembered in the Icelandic Vinland sagas, built a base at L'Anse aux Meadows on the northern tip of Newfoundland. The site, used only briefly, is the only confirmed Norse settlement in the Americas and the earliest known European presence there.",
+    "ko": "서기 1000년경 아이슬란드의 빈란드 사가로 전해지는 그린란드 출신 노르드인 항해자들이 뉴펀들랜드 북단의 랑스오메도스에 기지를 세웠다. 짧은 기간만 사용된 이 유적은 아메리카 대륙에서 유일하게 확인된 노르드인 정착지이자 알려진 가장 이른 유럽인의 흔적이다.",
+    "zh": "约公元1000年，冰岛文兰萨迦中记载的来自格陵兰的诺斯航海者在纽芬兰北端的兰塞奥兹牧草地建立了一处基地。该遗址仅短期使用，是美洲唯一得到确认的诺斯人定居点，也是已知欧洲人在美洲最早的足迹。",
+    "ja": "紀元1000年頃、アイスランドのヴィンランド・サガに伝わるグリーンランドから来たノース人の航海者が、ニューファンドランド北端のランス・オ・メドーに拠点を築いた。短期間しか使われなかったこの遺跡は、アメリカ大陸で唯一確認されたノース人の居住地であり、知られる限り最古のヨーロッパ人の足跡である。"
+   }
+  },
+  {
+   "from": 1000,
+   "to": 1600,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Late pre-contact First Nations and the Thule migration",
+    "ko": "접촉 이전 후기 원주민 사회와 툴레인의 이주",
+    "zh": "接触前晚期原住民社会与图勒人迁徙",
+    "ja": "接触以前の後期先住民社会とチューレ人の移住"
+   },
+   "summary": {
+    "en": "In the centuries before European contact, Iroquoian-speaking peoples of the St. Lawrence and Great Lakes lowlands lived in palisaded longhouse villages and grew maize, beans and squash, while Algonquian-speaking peoples such as the Anishinaabe, Cree and Mi'kmaq hunted, fished and traded across the forests. Plains nations hunted bison, and Northwest Coast societies built carved house fronts and poles. In the Arctic, the Thule people, ancestors of the Inuit, migrated east from Alaska from about the 12th–13th centuries.",
+    "ko": "유럽인과 접촉하기 전 몇 세기 동안 세인트로렌스강과 오대호 저지대의 이로쿼이어계 민족은 목책을 두른 롱하우스 마을에 살며 옥수수·콩·호박을 재배했고, 아니시나베·크리·미크맥 등 알곤킨어계 민족은 숲을 누비며 사냥과 어로, 교역을 했다. 평원 민족은 들소를 사냥했고, 북서해안 사회는 조각한 집 정면과 토템 기둥을 세웠다. 북극권에서는 이누이트의 조상인 툴레인이 12~13세기경부터 알래스카에서 동쪽으로 이주했다.",
+    "zh": "在与欧洲人接触前的几个世纪里，圣劳伦斯河与五大湖低地讲易洛魁语的民族居住在设有栅栏的长屋村落中，种植玉米、豆类和南瓜；阿尼什纳比人、克里人、米克马克人等讲阿尔冈昆语的民族则在森林中狩猎、捕鱼和贸易。平原民族猎捕野牛，西北海岸社会建造饰有雕刻的房屋立面和图腾柱。在北极地区，因纽特人的祖先图勒人约从12至13世纪起由阿拉斯加向东迁徙。",
+    "ja": "ヨーロッパ人との接触以前の数世紀、セントローレンス川と五大湖の低地に住むイロコイ語系の民族は柵で囲んだロングハウスの村に暮らしてトウモロコシ・豆・カボチャを栽培し、アニシナベ、クリー、ミクマクなどアルゴンキン語系の民族は森を移動しながら狩猟・漁労・交易を営んだ。平原の民はバイソンを狩り、北西海岸の社会は彫刻を施した家の正面やトーテムポールを立てた。北極圏では、イヌイットの祖先であるチューレ人が12～13世紀頃からアラスカより東へ移住した。"
+   }
+  },
+  {
+   "from": 1534,
+   "to": 1763,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "New France",
+    "ko": "누벨프랑스",
+    "zh": "新法兰西",
+    "ja": "ヌーヴェル・フランス"
+   },
+   "summary": {
+    "en": "Claimed by Jacques Cartier in 1534, New France took shape with the founding of Port-Royal in Acadia (1605) and Quebec (1608). Built on the fur trade and alliances with Indigenous nations such as the Wendat, Innu and Anishinaabe, it became a royal province in 1663 and stretched along the St. Lawrence and through the Great Lakes. Wars with England and the Haudenosaunee shaped its history until its conquest by Britain in 1759–1760 and cession in 1763.",
+    "ko": "1534년 자크 카르티에가 영유를 선언한 누벨프랑스는 아카디아의 포르루아얄(1605)과 퀘벡(1608) 건설로 모습을 갖추었다. 모피 교역과 웬다트·이누·아니시나베 등 원주민 민족과의 동맹을 기반으로 1663년 왕령 식민지가 되었고, 세인트로렌스강을 따라 오대호 너머까지 뻗었다. 영국 및 하우데노사우니와의 전쟁이 그 역사를 좌우했으며, 1759~1760년 영국에 정복되어 1763년 할양되었다.",
+    "zh": "新法兰西由雅克·卡蒂埃于1534年宣示主权，随着阿卡迪亚的罗亚尔港（1605年）和魁北克（1608年）的建立而初具规模。它以毛皮贸易以及与温达特人、因努人、阿尼什纳比人等原住民族的同盟为基础，1663年成为王室直辖省，沿圣劳伦斯河延伸至五大湖地区。与英国和豪德诺索尼联盟的战争贯穿其历史，直到1759—1760年被英国征服，并于1763年割让。",
+    "ja": "1534年にジャック・カルティエが領有を宣言したヌーヴェル・フランスは、アカディアのポール・ロワイヤル（1605年）とケベック（1608年）の建設によって形を整えた。毛皮交易とウェンダット、イヌー、アニシナベなど先住民族との同盟を基盤に1663年に王領植民地となり、セントローレンス川沿いから五大湖方面へと広がった。英国やホデノショニとの戦争がその歴史を左右し、1759～1760年に英国に征服され、1763年に割譲された。"
+   }
+  },
+  {
+   "from": 1610,
+   "to": 1949,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Newfoundland",
+    "ko": "뉴펀들랜드",
+    "zh": "纽芬兰",
+    "ja": "ニューファンドランド"
+   },
+   "summary": {
+    "en": "European fishing fleets worked Newfoundland's Grand Banks from the early 16th century, and English colonies such as Cupids were founded from 1610. Newfoundland developed as a British fishing colony, gained responsible government in 1855 and became a self-governing dominion in 1907. After financial collapse in the Depression it was run by a British-appointed commission from 1934, and in 1949 it joined Canada as its tenth province.",
+    "ko": "16세기 초부터 유럽 어선단이 뉴펀들랜드의 그랜드뱅크스에서 조업했고, 1610년부터 큐피즈 등 잉글랜드 식민지가 세워졌다. 뉴펀들랜드는 영국의 어업 식민지로 발전해 1855년 책임정부를 얻고 1907년 자치령이 되었다. 대공황기에 재정이 파탄 나 1934년부터 영국이 임명한 위원회가 통치했으며, 1949년 캐나다의 열 번째 주로 편입되었다.",
+    "zh": "自16世纪初起，欧洲渔船队便在纽芬兰的大浅滩作业，1610年起丘比兹等英格兰殖民地相继建立。纽芬兰逐渐发展为英国的渔业殖民地，1855年获得责任政府，1907年成为自治领。大萧条时期财政崩溃后，自1934年起由英国任命的委员会管理，1949年作为第十个省加入加拿大。",
+    "ja": "16世紀初めからヨーロッパの漁船団がニューファンドランドのグランドバンクスで操業し、1610年以降キューピッズなどイングランドの植民地が建設された。ニューファンドランドは英国の漁業植民地として発展し、1855年に責任政府を得て1907年に自治領となった。大恐慌で財政が破綻すると1934年から英国任命の委員会が統治し、1949年にカナダの10番目の州として加わった。"
+   }
+  },
+  {
+   "from": 1670,
+   "to": 1870,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Rupert's Land and the fur trade",
+    "ko": "루퍼트랜드와 모피 교역",
+    "zh": "鲁珀特地与毛皮贸易",
+    "ja": "ルパート・ランドと毛皮交易"
+   },
+   "summary": {
+    "en": "In 1670 the English Crown granted the Hudson's Bay Company a monopoly over Rupert's Land, the vast territory draining into Hudson Bay. For two centuries the company and its rival, the Montreal-based North West Company, traded with Cree, Dene, Anishinaabe and other nations, and Métis communities grew up around the trade, especially at Red River. In 1870 the company's territory was transferred to Canada.",
+    "ko": "1670년 잉글랜드 왕실은 허드슨만으로 흘러드는 광대한 지역인 루퍼트랜드에 대한 독점권을 허드슨스베이 컴퍼니에 부여했다. 두 세기 동안 이 회사와 몬트리올을 근거로 한 경쟁사 노스웨스트 컴퍼니는 크리·데네·아니시나베 등과 교역했으며, 특히 레드리버 일대에 교역을 중심으로 메티스 공동체가 형성되었다. 1870년 회사의 영토는 캐나다로 이전되었다.",
+    "zh": "1670年，英格兰王室授予哈德逊湾公司对鲁珀特地的垄断权，这片广袤土地的河流都注入哈德逊湾。在两个世纪里，该公司及其以蒙特利尔为基地的对手西北公司与克里人、德内人、阿尼什纳比人等民族开展贸易，梅蒂人社群也围绕这一贸易成长起来，尤以红河地区为甚。1870年，公司的领地移交给加拿大。",
+    "ja": "1670年、イングランド王室はハドソン湾に注ぐ広大な地域ルパート・ランドの独占権をハドソン湾会社に与えた。2世紀にわたり同社とモントリオールを拠点とする競合のノースウェスト会社はクリー、デネ、アニシナベなどの民族と交易し、とりわけレッド川周辺には交易を軸にメティスの共同体が育った。1870年、同社の領地はカナダに移管された。"
+   }
+  },
+  {
+   "from": 1713,
+   "to": 1867,
+   "kind": "colonial",
+   "qid": "Q8680",
+   "polity": "British Colonial Empire",
+   "name": {
+    "en": "British North America",
+    "ko": "영국령 북아메리카",
+    "zh": "英属北美",
+    "ja": "イギリス領北アメリカ"
+   },
+   "summary": {
+    "en": "Britain gained mainland Nova Scotia in 1713 and the rest of New France in 1763, ruling a growing set of colonies: Quebec, Nova Scotia, New Brunswick, Prince Edward Island, Upper and Lower Canada (later united as the Province of Canada), and on the Pacific, Vancouver Island and British Columbia. Loyalist refugees after the American Revolution, the War of 1812, the rebellions of 1837–38 and the achievement of responsible government in the 1840s shaped these colonies, which began uniting in 1867.",
+    "ko": "영국은 1713년 노바스코샤 본토를, 1763년 누벨프랑스의 나머지를 얻어 퀘벡, 노바스코샤, 뉴브런즈윅, 프린스에드워드섬, 어퍼 캐나다와 로어 캐나다(뒤에 캐나다 주로 통합), 그리고 태평양 쪽의 밴쿠버섬과 브리티시컬럼비아 등 늘어나는 식민지를 다스렸다. 미국 독립혁명 뒤의 왕당파 난민, 1812년 전쟁, 1837~1838년 반란, 1840년대 책임정부의 실현이 이 식민지들을 형성했고, 이들은 1867년부터 통합되기 시작했다.",
+    "zh": "英国于1713年获得新斯科舍本土，1763年获得新法兰西其余部分，统治着日益增多的殖民地：魁北克、新斯科舍、新不伦瑞克、爱德华王子岛、上加拿大和下加拿大（后合并为加拿大省），以及太平洋沿岸的温哥华岛和不列颠哥伦比亚。美国革命后的效忠派难民、1812年战争、1837—1838年起义以及19世纪40年代责任政府的实现塑造了这些殖民地，它们自1867年起开始联合。",
+    "ja": "英国は1713年にノヴァスコシア本土を、1763年にヌーヴェル・フランスの残りを得て、ケベック、ノヴァスコシア、ニューブランズウィック、プリンスエドワードアイランド、アッパー・カナダとロワー・カナダ（のちにカナダ植民地として統合）、太平洋側のバンクーバー島とブリティッシュコロンビアなど、増え続ける植民地を統治した。アメリカ独立革命後のロイヤリスト難民、1812年戦争、1837～38年の反乱、1840年代の責任政府の実現がこれらの植民地を形づくり、1867年から統合が始まった。"
+   }
+  },
+  {
+   "from": 1867,
+   "to": 1931,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Dominion of Canada",
+    "ko": "캐나다 자치령",
+    "zh": "加拿大自治领",
+    "ja": "カナダ自治領"
+   },
+   "summary": {
+    "en": "Confederation in 1867 united Ontario, Quebec, Nova Scotia and New Brunswick as the Dominion of Canada, a self-governing federation under the British Crown led first by Sir John A. Macdonald. It expanded to the Pacific and the Arctic through the acquisition of Rupert's Land and the entry of Manitoba, British Columbia and Prince Edward Island, settled the Prairies via the Canadian Pacific Railway and the numbered treaties, and earned international standing through its sacrifices in the First World War.",
+    "ko": "1867년 연방 결성으로 온타리오, 퀘벡, 노바스코샤, 뉴브런즈윅이 영국 왕실 아래의 자치 연방인 캐나다 자치령으로 통합되었고, 초대 총리는 존 A. 맥도널드였다. 루퍼트랜드 획득과 매니토바·브리티시컬럼비아·프린스에드워드섬의 가입으로 태평양과 북극까지 확장했고, 캐나다 태평양 철도와 번호 조약을 통해 프레리를 개척했으며, 제1차 세계대전에서의 희생으로 국제적 지위를 얻었다.",
+    "zh": "1867年的联邦成立将安大略、魁北克、新斯科舍和新不伦瑞克联合为加拿大自治领，这是英国王室之下的自治联邦，首任总理为约翰·A·麦克唐纳爵士。通过获得鲁珀特地以及曼尼托巴、不列颠哥伦比亚和爱德华王子岛的加入，它扩展到太平洋和北极；借助加拿大太平洋铁路和编号条约开发了草原地区，并以在第一次世界大战中的牺牲赢得了国际地位。",
+    "ja": "1867年の連邦結成により、オンタリオ、ケベック、ノヴァスコシア、ニューブランズウィックが英国王室のもとの自治連邦であるカナダ自治領として統合され、初代首相はジョン・A・マクドナルドであった。ルパート・ランドの取得とマニトバ、ブリティッシュコロンビア、プリンスエドワードアイランドの加入で太平洋と北極まで拡大し、カナダ太平洋鉄道と番号条約によってプレーリーを開拓し、第一次世界大戦での犠牲を通じて国際的地位を得た。"
+   }
+  },
+  {
+   "from": 1931,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q16",
+   "polity": "Canada",
+   "name": {
+    "en": "Canada",
+    "ko": "캐나다",
+    "zh": "加拿大",
+    "ja": "カナダ"
+   },
+   "summary": {
+    "en": "With the Statute of Westminster in 1931 Canada gained full legislative independence, and it went on to play a major role in the Second World War and the founding of the United Nations and NATO. Postwar Canada built a welfare state with universal health care, adopted the Maple Leaf flag, official bilingualism and multiculturalism, and faced Quebec's sovereignty movement, culminating in referendums in 1980 and 1995. The Constitution was patriated in 1982 with a Charter of Rights and Freedoms, and reconciliation with Indigenous peoples has become a central national issue.",
+    "ko": "1931년 웨스트민스터 헌장으로 캐나다는 완전한 입법 독립을 얻었고, 이후 제2차 세계대전과 국제연합·NATO 창설에서 큰 역할을 했다. 전후 캐나다는 보편적 의료를 갖춘 복지 국가를 건설하고 단풍잎 국기, 공식 이중언어주의, 다문화주의를 채택했으며, 1980년과 1995년 국민투표로 정점을 이룬 퀘벡 주권 운동에 직면했다. 1982년 권리와 자유 헌장과 함께 헌법이 이양되었고, 원주민과의 화해는 국가적 핵심 과제가 되었다.",
+    "zh": "1931年《威斯敏斯特法令》使加拿大获得完全的立法独立，此后它在第二次世界大战以及联合国和北约的创建中发挥了重要作用。战后加拿大建立了拥有全民医疗的福利国家，采用枫叶旗、官方双语和多元文化政策，并面对魁北克主权运动，后者在1980年和1995年的公投中达到高潮。1982年宪法连同《权利与自由宪章》一并移交本国，与原住民的和解已成为国家的核心议题。",
+    "ja": "1931年のウェストミンスター憲章によりカナダは完全な立法上の独立を得て、その後第二次世界大戦や国際連合・NATOの創設で大きな役割を果たした。戦後のカナダは国民皆保険を備えた福祉国家を築き、メープルリーフ旗、公用語の二言語制、多文化主義を採用し、1980年と1995年の住民投票で頂点に達したケベック主権運動に直面した。1982年には権利と自由の憲章とともに憲法が移管され、先住民との和解が国家の中心的課題となっている。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Bison jumps on the northern Plains",
+    "ko": "북부 평원의 들소 몰이 사냥터",
+    "zh": "北部平原的野牛跳崖猎场",
+    "ja": "北部平原のバイソン追い落とし猟場"
+   },
+   "description": {
+    "en": "Plains peoples had long hunted bison by driving herds over cliffs. At Head-Smashed-In Buffalo Jump in today's Alberta, evidence of this communal hunting stretches back nearly 6,000 years, and the site remained in use into the historic period. Now a UNESCO World Heritage Site, it illustrates the deep knowledge of terrain and animal behaviour on which Plains life depended.",
+    "ko": "평원의 민족들은 오래전부터 들소 떼를 절벽 아래로 몰아 사냥했다. 오늘날 앨버타주의 헤드스매시드인 버펄로 점프에서는 이러한 공동 사냥의 흔적이 거의 6,000년 전까지 거슬러 올라가며, 이 유적은 역사 시대까지 사용되었다. 현재 유네스코 세계유산인 이곳은 평원의 삶을 지탱한 지형과 동물 행동에 대한 깊은 지식을 보여 준다.",
+    "zh": "平原民族自古便将野牛群驱赶下悬崖进行猎杀。在今阿尔伯塔省的“碎头野牛跳崖”遗址，这种集体狩猎的证据可追溯到近6000年前，并一直沿用到有文字记载的时期。该遗址如今是联合国教科文组织世界遗产，展示了平原生活所依赖的对地形和动物习性的深刻认识。",
+    "ja": "平原の民は古くからバイソンの群れを崖へ追い落として狩っていた。現在のアルバータ州のヘッド・スマッシュト・イン・バッファロー・ジャンプでは、この共同狩猟の痕跡が6,000年近く前までさかのぼり、遺跡は歴史時代まで使われ続けた。現在はユネスコ世界遺産であり、平原の暮らしを支えた地形と動物の行動に関する深い知識を物語っている。"
+   }
+  },
+  {
+   "year": -2500,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "First peoples of the Canadian Arctic",
+    "ko": "캐나다 북극권 최초의 주민",
+    "zh": "加拿大北极地区的最早居民",
+    "ja": "カナダ北極圏の最初の住民"
+   },
+   "description": {
+    "en": "Around 2500 BC Paleo-Inuit groups of the Arctic Small Tool tradition crossed from Alaska into the Canadian Arctic, becoming the first people to live there. Known as Pre-Dorset in Canada, they spread rapidly across the Arctic islands and down to Labrador, adapting to one of the harshest environments ever inhabited.",
+    "ko": "기원전 2500년경 북극 소형 석기 전통의 고에스키모 집단이 알래스카에서 캐나다 북극권으로 건너와 그곳에 산 최초의 사람들이 되었다. 캐나다에서 프레도싯이라 불리는 이들은 북극 제도와 래브라도까지 빠르게 퍼지며, 인류가 거주한 가장 혹독한 환경 가운데 하나에 적응했다.",
+    "zh": "约公元前2500年，属于北极小型工具传统的古因纽特群体从阿拉斯加进入加拿大北极地区，成为最早在此生活的人类。他们在加拿大被称为前多塞特人，迅速扩散到北极群岛并南下至拉布拉多，适应了人类曾经居住过的最严酷的环境之一。",
+    "ja": "紀元前2500年頃、北極小型石器伝統の古エスキモー集団がアラスカからカナダ北極圏に渡り、そこに住んだ最初の人々となった。カナダでプレ・ドーセットと呼ばれる彼らは北極諸島からラブラドルまで急速に広がり、人類が住んだ最も過酷な環境の一つに適応した。"
+   }
+  },
+  {
+   "year": -2000,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Maritime Archaic cemetery at Port au Choix",
+    "ko": "포트오슈아의 해양 아케익 묘지",
+    "zh": "舒瓦港的海洋古风文化墓地",
+    "ja": "ポール・オ・ショワの海洋アルカイック墓地"
+   },
+   "description": {
+    "en": "At Port au Choix on Newfoundland's west coast, Maritime Archaic people buried their dead with rich offerings of tools, ornaments and red ochre in a cemetery used over many centuries around 4,000 years ago. The burials reveal a seafaring society that hunted seals, birds and fish and traded Ramah chert from northern Labrador over long distances.",
+    "ko": "뉴펀들랜드 서해안의 포트오슈아에서는 해양 아케익 사람들이 약 4,000년 전을 전후해 수백 년간 사용한 묘지에 도구와 장신구, 붉은 오커를 풍부하게 넣어 죽은 이를 묻었다. 이 무덤들은 물범·새·물고기를 사냥하고 래브라도 북부의 라마 처트를 먼 곳까지 교역한 해양 사회의 모습을 보여 준다.",
+    "zh": "在纽芬兰西海岸的舒瓦港，海洋古风文化的人们在一处约4000年前前后沿用数百年的墓地中埋葬死者，并随葬大量工具、饰物和红赭石。这些墓葬揭示了一个以猎捕海豹、鸟类和鱼类为生、并远距离交易拉布拉多北部拉马燧石的航海社会。",
+    "ja": "ニューファンドランド西岸のポール・オ・ショワでは、海洋アルカイックの人々が約4,000年前を中心に数百年にわたって使われた墓地に、道具や装身具、赤色オーカーを豊富に添えて死者を葬った。これらの墓は、アザラシや鳥、魚を狩り、ラブラドル北部のラマ・チャートを遠くまで交易した海洋社会の姿を示している。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": "Q106910926",
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Groswater culture in Labrador and Newfoundland",
+    "ko": "래브라도·뉴펀들랜드의 그로스워터 문화",
+    "zh": "拉布拉多与纽芬兰的格罗斯沃特文化",
+    "ja": "ラブラドル・ニューファンドランドのグロスウォーター文化"
+   },
+   "description": {
+    "en": "From about 800 BC the Groswater culture, a Paleo-Inuit people, occupied the coasts of Labrador and Newfoundland. Its hunters specialised in harp seals and other marine resources and produced finely flaked tools from local cherts, before vanishing from the archaeological record around 200 BC.",
+    "ko": "기원전 800년경부터 고에스키모인 그로스워터 문화가 래브라도와 뉴펀들랜드 해안을 차지했다. 이들의 사냥꾼은 하프물범 등 해양 자원을 전문으로 했고 현지 처트로 정교한 뗀석기를 만들었으나, 기원전 200년경 고고학 기록에서 사라졌다.",
+    "zh": "约自公元前800年起，属于古因纽特人的格罗斯沃特文化占据了拉布拉多和纽芬兰沿岸。其猎人专门捕猎竖琴海豹等海洋资源，并用当地燧石打制精细的石器，约在公元前200年从考古记录中消失。",
+    "ja": "紀元前800年頃から、古エスキモーのグロスウォーター文化がラブラドルとニューファンドランドの沿岸を占めた。その狩人はタテゴトアザラシなどの海洋資源を専門とし、地元のチャートで精巧な打製石器を作ったが、紀元前200年頃に考古記録から姿を消した。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": "Q603749",
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Rise of the Dorset culture",
+    "ko": "도싯 문화의 등장",
+    "zh": "多塞特文化的兴起",
+    "ja": "ドーセット文化の出現"
+   },
+   "description": {
+    "en": "Around 500 BC the Dorset culture emerged in the eastern Canadian Arctic and spread across the Arctic, Labrador and Newfoundland. Dorset people hunted seals and walrus at breathing holes and floe edges, used soapstone lamps, and created a remarkable tradition of small ivory carvings. Inuit oral history remembers them as the Tuniit.",
+    "ko": "기원전 500년경 캐나다 동부 북극권에서 도싯 문화가 나타나 북극권과 래브라도, 뉴펀들랜드로 퍼졌다. 도싯 사람들은 숨구멍과 유빙 가장자리에서 물범과 바다코끼리를 사냥하고, 동석 등잔을 썼으며, 작은 상아 조각이라는 뛰어난 전통을 만들었다. 이누이트 구전은 이들을 ‘투니트’로 기억한다.",
+    "zh": "约公元前500年，多塞特文化在加拿大东北极地区兴起，并扩散到北极各地、拉布拉多和纽芬兰。多塞特人在冰洞和浮冰边缘猎捕海豹和海象，使用皂石油灯，并创造了出色的小型象牙雕刻传统。因纽特口述历史称他们为“图尼特”。",
+    "ja": "紀元前500年頃、カナダ東部北極圏にドーセット文化が現れ、北極圏一帯やラブラドル、ニューファンドランドへ広がった。ドーセットの人々は呼吸穴や流氷の縁でアザラシやセイウチを狩り、滑石製のランプを使い、小さな象牙彫刻の見事な伝統を生み出した。イヌイットの口承史は彼らを「トゥニート」として記憶している。"
+   }
+  },
+  {
+   "year": 100,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Serpent Mound at Rice Lake",
+    "ko": "라이스호의 서펀트 마운드",
+    "zh": "赖斯湖蛇形土丘",
+    "ja": "ライス湖のサーペント・マウンド"
+   },
+   "description": {
+    "en": "Around 2,000 years ago, Woodland-period people on the north shore of Rice Lake in Ontario built a sinuous earthen burial mound about 60 metres long, together with smaller mounds. The Serpent Mound, associated with the Point Peninsula culture and influenced by the Hopewell traditions to the south, is the only known effigy-shaped mound in Canada.",
+    "ko": "약 2,000년 전 온타리오 라이스호 북안의 우드랜드 시대 사람들은 길이 약 60m의 구불구불한 흙무덤과 몇 기의 작은 봉분을 쌓았다. 포인트 페닌슐라 문화와 관련되고 남쪽 호프웰 전통의 영향을 받은 서펀트 마운드는 캐나다에서 유일하게 알려진 형상 봉분이다.",
+    "zh": "约2000年前，安大略省赖斯湖北岸的林地期居民修建了一座长约60米、蜿蜒曲折的土筑墓冢以及若干小型土丘。蛇形土丘与波因特半岛文化相关，并受到南方霍普韦尔传统的影响，是加拿大已知唯一的象形土丘。",
+    "ja": "約2,000年前、オンタリオ州ライス湖北岸のウッドランド期の人々は、長さ約60mの曲がりくねった土の墳墓といくつかの小さな墳丘を築いた。ポイント・ペニンシュラ文化に関連し、南方のホープウェル伝統の影響を受けたサーペント・マウンドは、カナダで唯一知られる象形墳丘である。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": "Q582948",
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Norse settlement at L'Anse aux Meadows",
+    "ko": "랑스오메도스의 노르드인 정착",
+    "zh": "兰塞奥兹牧草地的诺斯人定居点",
+    "ja": "ランス・オ・メドーのノース人の居住地"
+   },
+   "description": {
+    "en": "Around AD 1000 Norse seafarers from Greenland built turf halls, workshops and a smithy at L'Anse aux Meadows on the northern tip of Newfoundland. Tree-ring evidence shows that wood was cut there with metal tools in 1021. Rediscovered in 1960 by Helge and Anne Stine Ingstad, it is the only confirmed Norse site in the Americas and a UNESCO World Heritage Site.",
+    "ko": "서기 1000년경 그린란드에서 온 노르드인 항해자들은 뉴펀들랜드 북단의 랑스오메도스에 흙벽 회관과 작업장, 대장간을 지었다. 나이테 분석은 1021년 이곳에서 금속 도구로 나무를 베었음을 보여 준다. 1960년 헬게 잉스타드와 안네 스티네 잉스타드가 재발견한 이 유적은 아메리카에서 유일하게 확인된 노르드인 유적이자 유네스코 세계유산이다.",
+    "zh": "约公元1000年，来自格陵兰的诺斯航海者在纽芬兰北端的兰塞奥兹牧草地建造了草皮大厅、作坊和一座铁匠铺。树木年轮证据表明，1021年曾有人在此用金属工具砍伐木材。该遗址于1960年由黑尔格·英斯塔和安妮·斯蒂内·英斯塔重新发现，是美洲唯一得到确认的诺斯人遗址，也是联合国教科文组织世界遗产。",
+    "ja": "紀元1000年頃、グリーンランドから来たノース人の航海者は、ニューファンドランド北端のランス・オ・メドーに芝土の館や作業場、鍛冶場を築いた。年輪の分析から、1021年にここで金属製の道具で木が伐られたことがわかっている。1960年にヘルゲ・イングスタッドとアンネ・スティーネ・イングスタッドが再発見したこの遺跡は、アメリカ大陸で唯一確認されたノース人の遺跡であり、ユネスコ世界遺産である。"
+   }
+  },
+  {
+   "year": 1200,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Thule migration across the Arctic",
+    "ko": "툴레인의 북극권 이주",
+    "zh": "图勒人横越北极的迁徙",
+    "ja": "チューレ人の北極圏移住"
+   },
+   "description": {
+    "en": "From around the 12th–13th centuries the Thule people, skilled whale hunters using skin boats, dog sleds and toggling harpoons, migrated rapidly east from Alaska across the Canadian Arctic to Greenland. They are the direct ancestors of today's Inuit, and within a few centuries the earlier Dorset culture had disappeared.",
+    "ko": "12~13세기경부터 가죽 배와 개썰매, 회전식 작살을 쓰는 숙련된 고래 사냥꾼 툴레인이 알래스카에서 캐나다 북극권을 가로질러 그린란드까지 빠르게 동쪽으로 이주했다. 이들은 오늘날 이누이트의 직계 조상이며, 몇 세기 안에 이전의 도싯 문화는 사라졌다.",
+    "zh": "约自12至13世纪起，使用皮艇、狗拉雪橇和活动式鱼叉、擅长捕鲸的图勒人从阿拉斯加迅速向东迁徙，横越加拿大北极地区直抵格陵兰。他们是今日因纽特人的直系祖先，而早先的多塞特文化在几个世纪内便消失了。",
+    "ja": "12～13世紀頃から、皮舟や犬ぞり、回転式銛を使う熟練の捕鯨民チューレ人がアラスカから東へ急速に移住し、カナダ北極圏を横断してグリーンランドに達した。彼らは今日のイヌイットの直接の祖先であり、数世紀のうちに先行するドーセット文化は姿を消した。"
+   }
+  },
+  {
+   "year": 1300,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Iroquoian farming villages",
+    "ko": "이로쿼이어계 농경 마을",
+    "zh": "易洛魁人的农耕村落",
+    "ja": "イロコイ系の農耕村落"
+   },
+   "description": {
+    "en": "By around the 14th century, Iroquoian-speaking peoples in southern Ontario and the St. Lawrence valley, ancestors of the Wendat (Huron), Petun, Neutral and St. Lawrence Iroquoians, lived in large palisaded villages of bark longhouses. They grew maize, beans and squash, the \"Three Sisters\", supporting populations that numbered in the tens of thousands by the time of European contact.",
+    "ko": "14세기 무렵 온타리오 남부와 세인트로렌스강 유역의 이로쿼이어계 민족, 곧 웬다트(휴런)·페튠·뉴트럴·세인트로렌스 이로쿼이인의 조상들은 나무껍질로 지은 롱하우스가 늘어선 목책 마을에 살았다. 이들은 ‘세 자매’라 불리는 옥수수·콩·호박을 재배했으며, 유럽인과 접촉할 무렵 인구가 수만 명에 이르렀다.",
+    "zh": "约到14世纪，安大略南部和圣劳伦斯河谷讲易洛魁语的民族——温达特人（休伦人）、佩通人、中立人和圣劳伦斯易洛魁人的祖先——居住在由树皮长屋组成、设有栅栏的大型村落中。他们种植被称为“三姐妹”的玉米、豆类和南瓜，到与欧洲人接触时人口已达数万。",
+    "ja": "14世紀頃までに、オンタリオ南部とセントローレンス川流域のイロコイ語系の民族、すなわちウェンダット（ヒューロン）、ペトゥン、ニュートラル、セントローレンス・イロコイの祖先は、樹皮のロングハウスが並ぶ柵で囲まれた大きな村に住んだ。彼らは「三姉妹」と呼ばれるトウモロコシ・豆・カボチャを栽培し、ヨーロッパ人との接触時には人口が数万に達していた。"
+   }
+  },
+  {
+   "year": 1497,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "John Cabot reaches North America",
+    "ko": "존 캐벗의 북아메리카 도달",
+    "zh": "约翰·卡伯特抵达北美",
+    "ja": "ジョン・カボットの北アメリカ到達"
+   },
+   "description": {
+    "en": "Sailing for King Henry VII of England, the Venetian navigator John Cabot made landfall in June 1497 on the coast of North America, probably in Newfoundland or Cape Breton, though the exact place is disputed. His reports of teeming cod drew European fishing fleets to the Grand Banks and later underpinned English claims to the region.",
+    "ko": "잉글랜드 헨리 7세를 위해 항해한 베네치아 출신 항해자 존 캐벗은 1497년 6월 북아메리카 해안에 상륙했는데, 정확한 장소는 논란이 있으나 뉴펀들랜드나 케이프브레턴으로 추정된다. 대구가 넘쳐난다는 그의 보고는 유럽 어선단을 그랜드뱅크스로 불러들였고, 훗날 이 지역에 대한 잉글랜드의 영유권 주장의 근거가 되었다.",
+    "zh": "为英格兰国王亨利七世效力的威尼斯航海家约翰·卡伯特于1497年6月在北美海岸登陆，地点可能是纽芬兰或布雷顿角，但确切位置仍有争议。他关于鳕鱼成群的报告吸引欧洲渔船队前往大浅滩，后来也成为英格兰对该地区提出主权主张的依据。",
+    "ja": "イングランド王ヘンリー7世のために航海したヴェネツィア出身のジョン・カボットは、1497年6月に北アメリカの海岸に上陸した。正確な地点には議論があるが、ニューファンドランドかケープブレトンとみられる。タラがあふれているという彼の報告はヨーロッパの漁船団をグランドバンクスへ呼び寄せ、のちにこの地域に対するイングランドの領有主張の根拠となった。"
+   }
+  },
+  {
+   "year": 1530,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Basque whaling at Red Bay",
+    "ko": "레드베이의 바스크 포경",
+    "zh": "红湾的巴斯克捕鲸业",
+    "ja": "レッド・ベイのバスク人捕鯨"
+   },
+   "description": {
+    "en": "From the 1530s Basque whalers from Spain and France crossed the Atlantic each summer to hunt right and bowhead whales in the Strait of Belle Isle, rendering oil at stations such as Red Bay in Labrador. For several decades this was one of the largest industrial operations in the Americas; Red Bay is now a UNESCO World Heritage Site.",
+    "ko": "1530년대부터 스페인과 프랑스의 바스크 포경선원들은 매년 여름 대서양을 건너 벨아일 해협에서 참고래와 북극고래를 잡고, 래브라도의 레드베이 같은 기지에서 기름을 짰다. 수십 년 동안 이는 아메리카에서 가장 큰 산업 활동 가운데 하나였으며, 레드베이는 현재 유네스코 세계유산이다.",
+    "zh": "自16世纪30年代起，来自西班牙和法国的巴斯克捕鲸者每年夏天横渡大西洋，在贝尔岛海峡捕猎露脊鲸和弓头鲸，并在拉布拉多的红湾等站点炼制鲸油。数十年间，这是美洲规模最大的产业活动之一；红湾如今是联合国教科文组织世界遗产。",
+    "ja": "1530年代から、スペインとフランスのバスク人捕鯨者は毎夏大西洋を渡り、ベル・アイル海峡でセミクジラやホッキョククジラを捕らえ、ラブラドルのレッド・ベイなどの基地で鯨油を採った。数十年にわたりこれはアメリカ大陸最大級の産業活動であり、レッド・ベイは現在ユネスコ世界遺産となっている。"
+   }
+  },
+  {
+   "year": 1534,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Jacques Cartier claims the Gulf of St. Lawrence for France",
+    "ko": "자크 카르티에, 세인트로렌스만을 프랑스령으로 선언",
+    "zh": "雅克·卡蒂埃宣布圣劳伦斯湾归属法国",
+    "ja": "ジャック・カルティエ、セントローレンス湾をフランス領と宣言"
+   },
+   "description": {
+    "en": "On his first voyage, the Breton navigator Jacques Cartier explored the Gulf of St. Lawrence and, at Gaspé, raised a large cross bearing the arms of King Francis I, claiming the land for France in front of Stadaconan Iroquoians led by Donnacona. This act became the foundation of French claims in North America.",
+    "ko": "브르타뉴 출신 항해자 자크 카르티에는 첫 항해에서 세인트로렌스만을 탐사하고, 가스페에서 도나코나가 이끄는 스타다코나 이로쿼이인 앞에 프랑수아 1세의 문장을 새긴 큰 십자가를 세워 이 땅을 프랑스령으로 선언했다. 이 행위는 북아메리카에서 프랑스 영유권 주장의 출발점이 되었다.",
+    "zh": "布列塔尼航海家雅克·卡蒂埃在首次航行中探察了圣劳伦斯湾，并在加斯佩当着唐纳科纳率领的斯塔达科纳易洛魁人竖起一座刻有国王弗朗索瓦一世纹章的大十字架，宣布这片土地归法国所有。此举成为法国在北美提出主权主张的基础。",
+    "ja": "ブルターニュの航海者ジャック・カルティエは最初の航海でセントローレンス湾を探検し、ガスペでドナコナ率いるスタダコナのイロコイの人々の前にフランソワ1世の紋章を刻んだ大十字架を立て、この地をフランス領と宣言した。この行為は北アメリカにおけるフランスの領有主張の基礎となった。"
+   }
+  },
+  {
+   "year": 1535,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Cartier at Stadacona and Hochelaga; the name \"Canada\"",
+    "ko": "카르티에의 스타다코나·오첼라가 방문과 ‘캐나다’라는 이름",
+    "zh": "卡蒂埃到访斯塔达科纳与奥歇拉加及“加拿大”之名",
+    "ja": "カルティエのスタダコナ・オシュラガ訪問と「カナダ」の名"
+   },
+   "description": {
+    "en": "On his second voyage Cartier sailed up the St. Lawrence to the Iroquoian villages of Stadacona, site of today's Quebec City, and Hochelaga, on the island of Montreal. He recorded the Iroquoian word kanata, meaning \"village\" or \"settlement\", which Europeans came to apply to the whole region and which became the name Canada.",
+    "ko": "두 번째 항해에서 카르티에는 세인트로렌스강을 거슬러 올라가 오늘날 퀘벡시 자리의 스타다코나와 몬트리올섬의 오첼라가라는 이로쿼이 마을에 이르렀다. 그는 ‘마을’ 또는 ‘정착지’를 뜻하는 이로쿼이어 단어 ‘카나타’를 기록했는데, 유럽인들이 이를 지역 전체에 쓰면서 ‘캐나다’라는 이름이 되었다.",
+    "zh": "卡蒂埃在第二次航行中沿圣劳伦斯河上溯，到达今魁北克城所在地的斯塔达科纳和蒙特利尔岛上的奥歇拉加这两个易洛魁村落。他记录下了意为“村庄”或“聚落”的易洛魁语词kanata，欧洲人后来用它指称整个地区，这就是“加拿大”一名的由来。",
+    "ja": "2度目の航海でカルティエはセントローレンス川をさかのぼり、現在のケベック市の地にあったスタダコナと、モントリオール島のオシュラガというイロコイの村に至った。彼は「村」や「集落」を意味するイロコイ語「カナタ」を記録し、ヨーロッパ人がこれを地域全体に用いたことから「カナダ」という名が生まれた。"
+   }
+  },
+  {
+   "year": 1583,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Humphrey Gilbert claims Newfoundland",
+    "ko": "험프리 길버트의 뉴펀들랜드 영유 선언",
+    "zh": "汉弗莱·吉尔伯特宣布占有纽芬兰",
+    "ja": "ハンフリー・ギルバートのニューファンドランド領有宣言"
+   },
+   "description": {
+    "en": "In August 1583 Sir Humphrey Gilbert entered St. John's harbour and formally claimed Newfoundland for Queen Elizabeth I, an early English claim to overseas territory. Gilbert was lost at sea on the return voyage, and permanent English settlement only began with the colony at Cupids in 1610.",
+    "ko": "1583년 8월 험프리 길버트 경은 세인트존스 항에 들어가 엘리자베스 1세의 이름으로 뉴펀들랜드의 영유를 공식 선언했는데, 이는 잉글랜드의 초기 해외 영토 주장이었다. 길버트는 귀항 중 바다에서 실종되었고, 잉글랜드의 영구 정착은 1610년 큐피즈 식민지에서야 시작되었다.",
+    "zh": "1583年8月，汉弗莱·吉尔伯特爵士驶入圣约翰斯港，以伊丽莎白一世之名正式宣布占有纽芬兰，这是英格兰较早的海外领土主张。吉尔伯特在返航途中葬身大海，英格兰的永久定居直到1610年丘比兹殖民地建立才开始。",
+    "ja": "1583年8月、ハンフリー・ギルバート卿はセントジョンズ港に入り、エリザベス1世の名でニューファンドランドの領有を正式に宣言した。これはイングランドの初期の海外領土主張であった。ギルバートは帰航中に海で消息を絶ち、イングランドの恒久的な入植は1610年のキューピッズ植民地でようやく始まった。"
+   }
+  },
+  {
+   "year": 1605,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Port-Royal founded in Acadia",
+    "ko": "아카디아에 포르루아얄 건설",
+    "zh": "阿卡迪亚建立罗亚尔港",
+    "ja": "アカディアにポール・ロワイヤル建設"
+   },
+   "description": {
+    "en": "After a disastrous winter on Saint Croix Island, Pierre Dugua de Mons and Samuel de Champlain moved their colonists to Port-Royal on the Annapolis Basin in today's Nova Scotia. Allied with the Mi'kmaq chief Membertou, it became one of the first permanent European settlements in North America north of Florida and the cradle of Acadia.",
+    "ko": "생크루아섬에서 참혹한 겨울을 보낸 뒤 피에르 뒤가 드 몽과 사뮈엘 드 샹플랭은 정착민을 오늘날 노바스코샤의 아나폴리스만에 있는 포르루아얄로 옮겼다. 미크맥 추장 멤베르투와 동맹한 이곳은 플로리다 이북 북아메리카에서 최초의 유럽인 영구 정착지 가운데 하나이자 아카디아의 요람이 되었다.",
+    "zh": "在圣克罗伊岛度过灾难性的冬天后，皮埃尔·迪加·德蒙和萨缪尔·德·尚普兰将移民迁往今新斯科舍安纳波利斯湾的罗亚尔港。该地与米克马克酋长门伯图结盟，成为佛罗里达以北北美最早的欧洲人永久定居点之一，也是阿卡迪亚的摇篮。",
+    "ja": "サント・クロワ島での悲惨な冬の後、ピエール・デュガ・ド・モンとサミュエル・ド・シャンプランは入植者を現在のノヴァスコシアのアナポリス湾にあるポール・ロワイヤルへ移した。ミクマクの首長メンベルトゥと同盟したここは、フロリダ以北の北アメリカで最初期のヨーロッパ人恒久入植地の一つとなり、アカディアの揺籃となった。"
+   }
+  },
+  {
+   "year": 1608,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Champlain founds Quebec City",
+    "ko": "샹플랭의 퀘벡시 건설",
+    "zh": "尚普兰建立魁北克城",
+    "ja": "シャンプランによるケベック市の建設"
+   },
+   "description": {
+    "en": "On 3 July 1608 Samuel de Champlain established a fortified trading post, the Habitation, at a narrowing of the St. Lawrence where the Iroquoian village of Stadacona had once stood. Quebec became the capital of New France and the heart of French settlement in North America, and Champlain forged alliances with the Innu, Algonquin and Wendat that shaped the colony's future.",
+    "ko": "1608년 7월 3일 사뮈엘 드 샹플랭은 한때 이로쿼이 마을 스타다코나가 있던, 세인트로렌스강이 좁아지는 지점에 요새화된 교역소 ‘아비타시옹’을 세웠다. 퀘벡은 누벨프랑스의 수도이자 북아메리카 프랑스 정착의 중심이 되었고, 샹플랭은 이누·알곤킨·웬다트와 동맹을 맺어 식민지의 앞날을 좌우했다.",
+    "zh": "1608年7月3日，萨缪尔·德·尚普兰在圣劳伦斯河收窄处、昔日易洛魁村落斯塔达科纳的所在地建立了一座设防的贸易站“居所”。魁北克由此成为新法兰西的首府和法国在北美定居的中心，尚普兰还与因努人、阿尔冈昆人和温达特人结成同盟，深刻影响了殖民地的前途。",
+    "ja": "1608年7月3日、サミュエル・ド・シャンプランは、かつてイロコイの村スタダコナがあったセントローレンス川の狭まる地点に、要塞化した交易所「アビタシオン」を築いた。ケベックはヌーヴェル・フランスの首都となり北アメリカにおけるフランス人入植の中心となり、シャンプランはイヌー、アルゴンキン、ウェンダットと同盟を結んで植民地の行方を方向づけた。"
+   }
+  },
+  {
+   "year": 1609,
+   "qid": "Q856216",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Beginning of the Beaver Wars",
+    "ko": "비버 전쟁의 시작",
+    "zh": "河狸战争的开端",
+    "ja": "ビーバー戦争の始まり"
+   },
+   "description": {
+    "en": "In 1609 Champlain joined his Algonquin, Innu and Wendat allies in an attack on the Mohawk near Lake Champlain, where French firearms killed several Mohawk leaders. The clash drew the French into long-running conflicts, known as the Beaver Wars, between the Haudenosaunee Confederacy and the French-allied nations over hunting territories and the fur trade.",
+    "ko": "1609년 샹플랭은 알곤킨·이누·웬다트 동맹군과 함께 샹플레인호 부근에서 모호크족을 공격했고, 프랑스의 화기에 모호크 지도자 여러 명이 숨졌다. 이 충돌로 프랑스는 사냥터와 모피 교역을 둘러싼 하우데노사우니 연맹과 프랑스 동맹 민족들 사이의 장기 분쟁, 이른바 비버 전쟁에 휘말리게 되었다.",
+    "zh": "1609年，尚普兰随同阿尔冈昆人、因努人和温达特人盟友在尚普兰湖附近攻击莫霍克人，法国火器击毙了数名莫霍克首领。这次冲突使法国卷入豪德诺索尼联盟与法国盟友民族之间围绕猎场和毛皮贸易的长期战争，即所谓“河狸战争”。",
+    "ja": "1609年、シャンプランはアルゴンキン、イヌー、ウェンダットの同盟者とともにシャンプレーン湖付近でモホークを攻撃し、フランスの火器によってモホークの指導者数人が倒れた。この衝突によりフランスは、狩猟地と毛皮交易をめぐるホデノショニ連合とフランス同盟諸民族の長い争い、いわゆるビーバー戦争に巻き込まれた。"
+   }
+  },
+  {
+   "year": 1610,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Henry Hudson enters Hudson Bay",
+    "ko": "헨리 허드슨의 허드슨만 진입",
+    "zh": "亨利·哈德逊驶入哈德逊湾",
+    "ja": "ヘンリー・ハドソンのハドソン湾進入"
+   },
+   "description": {
+    "en": "Searching for a Northwest Passage to Asia, the English navigator Henry Hudson sailed through Hudson Strait into the great bay that now bears his name in 1610. After a hard winter, his crew mutinied in 1611 and set him adrift; he was never seen again. His voyage opened the bay to later English fur traders.",
+    "ko": "아시아로 가는 북서 항로를 찾던 잉글랜드 항해자 헨리 허드슨은 1610년 허드슨 해협을 지나 오늘날 그의 이름이 붙은 거대한 만에 들어섰다. 혹독한 겨울을 보낸 뒤 1611년 선원들이 반란을 일으켜 그를 작은 배에 태워 표류시켰고, 그는 다시 발견되지 않았다. 그의 항해는 훗날 잉글랜드 모피 상인들에게 만을 열어 주었다.",
+    "zh": "为寻找通往亚洲的西北航道，英格兰航海家亨利·哈德逊于1610年穿过哈德逊海峡，驶入如今以他命名的大海湾。在度过严冬之后，他的船员于1611年哗变，将他放逐于小艇上，此后再无他的音讯。他的航行为后来的英格兰毛皮商人打开了这片海湾。",
+    "ja": "アジアへの北西航路を探していたイングランドの航海者ヘンリー・ハドソンは、1610年にハドソン海峡を抜けて、現在彼の名を冠する大きな湾に入った。厳しい冬の後、1611年に船員が反乱を起こして彼を小舟で漂流させ、彼は二度と姿を見せなかった。彼の航海はのちのイングランドの毛皮商人に湾を開いた。"
+   }
+  },
+  {
+   "year": 1629,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Kirke brothers capture Quebec",
+    "ko": "커크 형제의 퀘벡 점령",
+    "zh": "柯克兄弟攻占魁北克",
+    "ja": "カーク兄弟のケベック占領"
+   },
+   "description": {
+    "en": "During an Anglo-French war, English privateers led by the Kirke brothers blockaded the St. Lawrence and forced the starving garrison of Quebec under Champlain to surrender in July 1629. The colony was returned to France by the Treaty of Saint-Germain-en-Laye in 1632, and Champlain came back to Quebec in 1633.",
+    "ko": "영불 전쟁 중 커크 형제가 이끄는 잉글랜드 사략선단이 세인트로렌스강을 봉쇄했고, 굶주린 샹플랭의 퀘벡 수비대는 1629년 7월 항복했다. 식민지는 1632년 생제르맹앙레 조약으로 프랑스에 반환되었고, 샹플랭은 1633년 퀘벡으로 돌아왔다.",
+    "zh": "英法战争期间，柯克兄弟率领的英格兰私掠船队封锁了圣劳伦斯河，尚普兰麾下饥饿的魁北克守军于1629年7月投降。1632年《圣日耳曼昂莱条约》将殖民地归还法国，尚普兰于1633年重返魁北克。",
+    "ja": "英仏戦争中、カーク兄弟率いるイングランドの私掠船団がセントローレンス川を封鎖し、飢えたシャンプランのケベック守備隊は1629年7月に降伏した。植民地は1632年のサン＝ジェルマン＝アン＝レー条約でフランスに返還され、シャンプランは1633年にケベックへ戻った。"
+   }
+  },
+  {
+   "year": 1642,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Founding of Ville-Marie (Montreal)",
+    "ko": "빌마리(몬트리올) 건설",
+    "zh": "维尔-玛丽（蒙特利尔）的建立",
+    "ja": "ヴィル＝マリー（モントリオール）の建設"
+   },
+   "description": {
+    "en": "On 17 May 1642 Paul de Chomedey de Maisonneuve and Jeanne Mance founded Ville-Marie on the island of Montreal as a Catholic missionary settlement. Exposed to Haudenosaunee attacks in its early years, it grew into the hub of the French fur trade and eventually Canada's largest city for much of its history.",
+    "ko": "1642년 5월 17일 폴 드 쇼메디 드 메종뇌브와 잔 망스는 몬트리올섬에 가톨릭 선교 정착지인 빌마리를 세웠다. 초기에는 하우데노사우니의 공격에 노출되었지만, 프랑스 모피 교역의 중심지로 성장했고 이후 오랫동안 캐나다 최대 도시였다.",
+    "zh": "1642年5月17日，保罗·德·肖梅迪·德·迈松纳夫和让娜·芒斯在蒙特利尔岛上建立了天主教传教定居点维尔-玛丽。早年它屡遭豪德诺索尼人袭击，后来发展为法国毛皮贸易的枢纽，并在历史上很长一段时间里是加拿大最大的城市。",
+    "ja": "1642年5月17日、ポール・ド・ショムデ・ド・メゾヌーヴとジャンヌ・マンスはモントリオール島にカトリックの布教入植地ヴィル＝マリーを建てた。初期にはホデノショニの攻撃にさらされたが、フランスの毛皮交易の中心へと成長し、長くカナダ最大の都市であった。"
+   }
+  },
+  {
+   "year": 1649,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Destruction of Huronia",
+    "ko": "휴로니아의 파괴",
+    "zh": "休伦尼亚的毁灭",
+    "ja": "ヒューロニアの壊滅"
+   },
+   "description": {
+    "en": "Already devastated by epidemics of European diseases in the 1630s, the Wendat (Huron) Confederacy was overwhelmed in 1649 by Haudenosaunee attacks on its villages near Georgian Bay. The Jesuit mission of Sainte-Marie was abandoned and missionaries including Jean de Brébeuf were killed. The Wendat dispersed, some settling near Quebec at what became Wendake.",
+    "ko": "1630년대 유럽 전염병으로 이미 큰 피해를 입은 웬다트(휴런) 연맹은 1649년 조지아만 인근 마을들이 하우데노사우니의 공격을 받으면서 무너졌다. 예수회의 생트마리 선교소는 버려졌고 장 드 브레뵈프 등 선교사들이 살해되었다. 웬다트인은 흩어졌으며, 일부는 퀘벡 근처의 오늘날 웬다케에 정착했다.",
+    "zh": "温达特（休伦）联盟早在17世纪30年代就因欧洲传染病而遭受重创，1649年其在乔治亚湾附近的村落遭到豪德诺索尼人进攻而崩溃。耶稣会的圣玛丽传教站被放弃，让·德·布雷伯夫等传教士遇害。温达特人四散，一部分在魁北克附近定居，即后来的温达克。",
+    "ja": "1630年代にヨーロッパ由来の疫病ですでに大打撃を受けていたウェンダット（ヒューロン）連合は、1649年にジョージア湾近くの村々がホデノショニの攻撃を受けて崩壊した。イエズス会のサント＝マリー伝道所は放棄され、ジャン・ド・ブレブフら宣教師が殺害された。ウェンダットの人々は離散し、一部はケベック近郊の現在のウェンダケに定住した。"
+   }
+  },
+  {
+   "year": 1663,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "New France becomes a royal province",
+    "ko": "누벨프랑스, 왕령 식민지가 되다",
+    "zh": "新法兰西成为王室直辖省",
+    "ja": "ヌーヴェル・フランスの王領植民地化"
+   },
+   "description": {
+    "en": "Louis XIV took New France away from the struggling Company of One Hundred Associates and made it a royal province governed by a governor, an intendant and a Sovereign Council. Under the intendant Jean Talon, the crown sent soldiers of the Carignan-Salières regiment and some 800 young women known as the filles du roi, sharply increasing the settler population.",
+    "ko": "루이 14세는 경영난에 빠진 100인 회사로부터 누벨프랑스를 회수해 총독·지사·최고평의회가 다스리는 왕령 식민지로 만들었다. 지사 장 탈롱 아래에서 왕실은 카리냥살리에르 연대 병사들과 ‘왕의 딸들’로 불린 약 800명의 젊은 여성을 보내 정착민 인구를 크게 늘렸다.",
+    "zh": "路易十四从经营困难的“百人公司”手中收回新法兰西，将其改为由总督、监政官和最高议会治理的王室直辖省。在监政官让·塔隆主持下，王室派遣了卡里尼昂-萨利耶尔团的士兵以及约800名被称为“国王的女儿”的年轻女子，使移民人口大幅增长。",
+    "ja": "ルイ14世は経営難に陥った百人会社からヌーヴェル・フランスを取り上げ、総督・地方長官・最高評議会が治める王領植民地とした。地方長官ジャン・タロンのもとで王室はカリニャン＝サリエール連隊の兵士と、「王の娘たち」と呼ばれる約800人の若い女性を送り込み、入植者人口を大きく増やした。"
+   }
+  },
+  {
+   "year": 1663,
+   "qid": "Q4551650",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Charlevoix earthquake",
+    "ko": "샤를부아 지진",
+    "zh": "沙勒沃伊地震",
+    "ja": "シャルルヴォワ地震"
+   },
+   "description": {
+    "en": "On 5 February 1663 a powerful earthquake struck the Charlevoix region along the St. Lawrence, causing large landslides and changing the course of streams. Described in detail by Jesuit and Ursuline writers, it is one of the strongest earthquakes recorded in eastern Canada.",
+    "ko": "1663년 2월 5일 세인트로렌스강 연안의 샤를부아 지역에 강력한 지진이 일어나 대규모 산사태가 발생하고 하천의 물길이 바뀌었다. 예수회와 우르술라회 기록자들이 상세히 묘사한 이 지진은 캐나다 동부에서 기록된 가장 강한 지진 가운데 하나이다.",
+    "zh": "1663年2月5日，圣劳伦斯河沿岸的沙勒沃伊地区发生强烈地震，引发大规模滑坡并改变了溪流的走向。耶稣会和乌尔苏拉会的记录者对其作了详细描述，这是加拿大东部有记录以来最强烈的地震之一。",
+    "ja": "1663年2月5日、セントローレンス川沿いのシャルルヴォワ地方を強い地震が襲い、大規模な地すべりが起き川の流れが変わった。イエズス会やウルスラ会の記録者が詳しく描写したこの地震は、カナダ東部で記録された最大級の地震の一つである。"
+   }
+  },
+  {
+   "year": 1670,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Hudson's Bay Company chartered",
+    "ko": "허드슨스베이 컴퍼니 설립 인가",
+    "zh": "哈德逊湾公司获颁特许状",
+    "ja": "ハドソン湾会社の特許状交付"
+   },
+   "description": {
+    "en": "King Charles II granted a royal charter to the Hudson's Bay Company, giving it a trade monopoly over Rupert's Land, the entire drainage basin of Hudson Bay. Inspired by the French traders Radisson and Des Groseilliers, the company built posts on the bay and traded furs with Cree and other nations; it governed much of what became western and northern Canada until 1870 and still exists today.",
+    "ko": "찰스 2세는 허드슨스베이 컴퍼니에 왕실 특허장을 내려 허드슨만 유역 전체인 루퍼트랜드의 교역 독점권을 주었다. 프랑스 상인 라디송과 데 그로세이에의 제안에서 비롯된 이 회사는 만 연안에 교역소를 세우고 크리족 등과 모피를 거래했으며, 1870년까지 훗날 캐나다 서부와 북부가 될 지역 대부분을 관할했다. 회사는 오늘날까지 존속한다.",
+    "zh": "国王查理二世向哈德逊湾公司颁发皇家特许状，授予其对鲁珀特地——即哈德逊湾整个流域——的贸易垄断权。该公司源于法国商人拉迪松和德·格罗塞耶的构想，在海湾沿岸修建贸易站，与克里人等民族交易毛皮；直到1870年它一直管辖着后来成为加拿大西部和北部的大部分地区，公司至今仍然存在。",
+    "ja": "国王チャールズ2世はハドソン湾会社に勅許状を与え、ハドソン湾の全流域であるルパート・ランドの交易独占権を認めた。フランス人商人ラディソンとデ・グロセイエの構想に端を発する同社は湾岸に交易所を築いてクリーなどと毛皮を取引し、1870年までのちのカナダ西部・北部となる地域の大半を管轄した。同社は今日も存続している。"
+   }
+  },
+  {
+   "year": 1689,
+   "qid": "Q2624975",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Lachine massacre",
+    "ko": "라신 학살",
+    "zh": "拉欣屠杀",
+    "ja": "ラシーヌの虐殺"
+   },
+   "description": {
+    "en": "On 5 August 1689, at the start of King William's War, about 1,500 Mohawk and other Haudenosaunee warriors launched a surprise attack on the settlement of Lachine on Montreal Island, killing and capturing many inhabitants. The raid, in retaliation for French attacks on the Seneca, spread terror through New France and led to Frontenac's return as governor.",
+    "ko": "윌리엄 왕 전쟁이 시작된 1689년 8월 5일, 약 1,500명의 모호크족 등 하우데노사우니 전사들이 몬트리올섬의 라신 정착지를 기습해 많은 주민을 죽이거나 사로잡았다. 프랑스의 세네카족 공격에 대한 보복이었던 이 습격은 누벨프랑스 전역을 공포에 빠뜨렸고 프롱트나크가 총독으로 복귀하는 계기가 되었다.",
+    "zh": "1689年8月5日，威廉王之战爆发之初，约1500名莫霍克人等豪德诺索尼战士突袭蒙特利尔岛上的拉欣定居点，杀害并俘虏了许多居民。这次袭击是对法国攻击塞内卡人的报复，使新法兰西陷入恐慌，并促成弗龙特纳克重任总督。",
+    "ja": "ウィリアム王戦争が始まった1689年8月5日、約1,500人のモホークなどホデノショニの戦士がモントリオール島のラシーヌ集落を奇襲し、多くの住民を殺害・捕縛した。フランスのセネカ攻撃への報復であったこの襲撃はヌーヴェル・フランス全体を恐怖に陥れ、フロントナックの総督復帰につながった。"
+   }
+  },
+  {
+   "year": 1690,
+   "qid": "Q1708064",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Quebec (1690)",
+    "ko": "퀘벡 전투 (1690)",
+    "zh": "魁北克战役（1690年）",
+    "ja": "ケベックの戦い（1690年）"
+   },
+   "description": {
+    "en": "A New England fleet under Sir William Phips sailed up the St. Lawrence and demanded Quebec's surrender in October 1690. Governor Frontenac famously replied that he would answer \"by the mouths of my cannons\", and the attackers, short of supplies and hit by disease and cold, withdrew after a failed landing.",
+    "ko": "1690년 10월 윌리엄 핍스 경이 이끄는 뉴잉글랜드 함대가 세인트로렌스강을 거슬러 올라와 퀘벡의 항복을 요구했다. 프롱트나크 총독은 ‘내 대포의 입으로’ 답하겠다는 유명한 말로 거절했고, 보급이 부족한 데다 질병과 추위에 시달린 공격군은 상륙 실패 후 철수했다.",
+    "zh": "1690年10月，威廉·菲普斯爵士率领的新英格兰舰队沿圣劳伦斯河上溯，要求魁北克投降。总督弗龙特纳克留下名言：将“用我的大炮之口”作答。进攻方补给不足，又受疾病和严寒困扰，登陆失败后撤退。",
+    "ja": "1690年10月、ウィリアム・フィップス卿率いるニューイングランド艦隊がセントローレンス川をさかのぼってケベックの降伏を要求した。フロントナック総督は「わが大砲の口をもって」答えると述べて拒否したことで知られ、補給が乏しく病と寒さに苦しんだ攻撃側は上陸に失敗して撤退した。"
+   }
+  },
+  {
+   "year": 1697,
+   "qid": "Q2890600",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Hudson's Bay",
+    "ko": "허드슨만 해전",
+    "zh": "哈德逊湾海战",
+    "ja": "ハドソン湾の海戦"
+   },
+   "description": {
+    "en": "On 5 September 1697 Pierre Le Moyne d'Iberville, commanding the single French warship Pélican, defeated three English ships off York Factory and went on to capture the post. It was the largest naval battle in the Arctic waters of North America, though the Treaty of Utrecht later returned the bay to English control.",
+    "ko": "1697년 9월 5일 피에르 르 무안 디베르빌은 프랑스 군함 펠리컨호 한 척으로 요크 팩토리 앞바다에서 잉글랜드 군함 세 척을 격파하고 교역소를 점령했다. 이는 북아메리카 북극 해역에서 벌어진 최대의 해전이었지만, 위트레흐트 조약으로 만은 다시 잉글랜드의 지배로 돌아갔다.",
+    "zh": "1697年9月5日，皮埃尔·勒穆瓦纳·德伊贝维尔指挥孤舰“鹈鹕”号在约克工厂外海击败三艘英格兰船只，随后攻占该贸易站。这是北美北极水域规模最大的海战，但后来的《乌得勒支和约》又将海湾归还英格兰。",
+    "ja": "1697年9月5日、ピエール・ル・モワーヌ・ディベルヴィルはフランス軍艦ペリカン号ただ1隻でヨーク・ファクトリー沖のイングランド艦3隻を破り、交易所を占領した。これは北アメリカの北極海域で最大の海戦であったが、のちのユトレヒト条約で湾はイングランドの支配に戻った。"
+   }
+  },
+  {
+   "year": 1701,
+   "qid": "Q326028",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Great Peace of Montreal",
+    "ko": "몬트리올 대평화",
+    "zh": "蒙特利尔大和约",
+    "ja": "モントリオール大和約"
+   },
+   "description": {
+    "en": "In August 1701 Governor Louis-Hector de Callière and some 1,300 delegates from about 40 Indigenous nations, including the Haudenosaunee and the Great Lakes allies of France, concluded a peace treaty at Montreal. Negotiated through Indigenous diplomatic protocol, it ended nearly a century of intermittent warfare and secured Haudenosaunee neutrality in later Anglo-French wars.",
+    "ko": "1701년 8월 루이엑토르 드 칼리에르 총독과 하우데노사우니 및 오대호 지역의 프랑스 동맹 민족 등 약 40개 원주민 민족의 대표 약 1,300명이 몬트리올에서 평화 조약을 맺었다. 원주민의 외교 의례에 따라 협상된 이 조약은 거의 한 세기에 걸친 간헐적 전쟁을 끝내고, 이후 영불 전쟁에서 하우데노사우니의 중립을 확보했다.",
+    "zh": "1701年8月，总督路易-埃克托尔·德卡利埃与来自约40个原住民族（包括豪德诺索尼人和五大湖地区的法国盟友）的约1300名代表在蒙特利尔缔结和约。该和约按原住民外交礼仪谈判达成，结束了近一个世纪断断续续的战争，并确保了豪德诺索尼人在此后英法战争中的中立。",
+    "ja": "1701年8月、ルイ＝エクトル・ド・カリエール総督と、ホデノショニや五大湖地域のフランスの同盟民族など約40の先住民族の代表約1,300人がモントリオールで和平条約を結んだ。先住民の外交儀礼に則って交渉されたこの条約は、ほぼ1世紀にわたる断続的な戦争を終わらせ、その後の英仏戦争におけるホデノショニの中立を確保した。"
+   }
+  },
+  {
+   "year": 1710,
+   "qid": "Q3078994",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fall of Port-Royal",
+    "ko": "포르루아얄 함락",
+    "zh": "罗亚尔港陷落",
+    "ja": "ポール・ロワイヤルの陥落"
+   },
+   "description": {
+    "en": "In October 1710, during Queen Anne's War, a British and New England force captured the French Acadian capital of Port-Royal after a short siege. Renamed Annapolis Royal, it became the capital of the British colony of Nova Scotia, marking the beginning of permanent British rule in Acadia.",
+    "ko": "앤 여왕 전쟁 중이던 1710년 10월, 영국·뉴잉글랜드군은 짧은 포위 끝에 프랑스령 아카디아의 수도 포르루아얄을 점령했다. 아나폴리스로열로 개명된 이곳은 영국령 노바스코샤 식민지의 수도가 되었으며, 아카디아에서 영국의 영구 지배가 시작되었다.",
+    "zh": "1710年10月安妮女王战争期间，英国和新英格兰部队经过短暂围攻，攻占了法属阿卡迪亚首府罗亚尔港。该地更名为安纳波利斯罗亚尔，成为英属新斯科舍殖民地的首府，标志着英国在阿卡迪亚永久统治的开始。",
+    "ja": "アン女王戦争中の1710年10月、英国・ニューイングランド軍は短い包囲の末にフランス領アカディアの首都ポール・ロワイヤルを占領した。アナポリス・ロイヤルと改名されたここは英領ノヴァスコシア植民地の首都となり、アカディアにおける英国の恒久的支配が始まった。"
+   }
+  },
+  {
+   "year": 1713,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Utrecht",
+    "ko": "위트레흐트 조약",
+    "zh": "《乌得勒支和约》",
+    "ja": "ユトレヒト条約"
+   },
+   "description": {
+    "en": "The peace ending the War of the Spanish Succession ceded mainland Acadia (Nova Scotia), Newfoundland and the Hudson Bay territories to Britain, while France kept Île Royale (Cape Breton) and Île Saint-Jean (Prince Edward Island). France then built the fortress of Louisbourg on Cape Breton to guard the approaches to the St. Lawrence.",
+    "ko": "스페인 왕위 계승 전쟁을 끝낸 강화 조약으로 아카디아 본토(노바스코샤), 뉴펀들랜드, 허드슨만 지역이 영국에 할양되었고, 프랑스는 일루아얄(케이프브레턴)과 일생장(프린스에드워드섬)을 유지했다. 이후 프랑스는 세인트로렌스강 입구를 지키기 위해 케이프브레턴에 루이스버그 요새를 쌓았다.",
+    "zh": "结束西班牙王位继承战争的和约将阿卡迪亚本土（新斯科舍）、纽芬兰和哈德逊湾地区割让给英国，法国保留了王岛（布雷顿角岛）和圣让岛（爱德华王子岛）。此后法国在布雷顿角修建路易斯堡要塞，以扼守圣劳伦斯河的入口。",
+    "ja": "スペイン継承戦争を終わらせた講和条約により、アカディア本土（ノヴァスコシア）、ニューファンドランド、ハドソン湾地域が英国に割譲され、フランスはイル・ロワイヤル（ケープブレトン島）とイル・サン＝ジャン（プリンスエドワード島）を保持した。その後フランスはセントローレンス川の入口を守るためケープブレトン島にルイブール要塞を築いた。"
+   }
+  },
+  {
+   "year": 1745,
+   "qid": "Q1152894",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First siege of Louisbourg",
+    "ko": "제1차 루이스버그 포위전",
+    "zh": "第一次路易斯堡围城战",
+    "ja": "第一次ルイブール包囲戦"
+   },
+   "description": {
+    "en": "During King George's War, a New England militia army under William Pepperrell, supported by a British naval squadron, besieged and captured the French fortress of Louisbourg in June 1745. To the dismay of New Englanders, the fortress was returned to France in exchange for Madras by the Treaty of Aix-la-Chapelle in 1748.",
+    "ko": "조지 왕 전쟁 중 윌리엄 페퍼럴이 이끄는 뉴잉글랜드 민병대가 영국 함대의 지원을 받아 1745년 6월 프랑스의 루이스버그 요새를 포위·점령했다. 그러나 1748년 엑스라샤펠 조약으로 요새는 마드라스와 맞바꾸어 프랑스에 반환되어 뉴잉글랜드인을 실망시켰다.",
+    "zh": "乔治王之战期间，威廉·佩珀雷尔率领的新英格兰民兵在英国舰队支援下，于1745年6月围攻并攻占了法国的路易斯堡要塞。令新英格兰人失望的是，1748年《亚琛和约》以交换马德拉斯为条件将要塞归还法国。",
+    "ja": "ジョージ王戦争中、ウィリアム・ペパレル率いるニューイングランド民兵軍は英国艦隊の支援を受け、1745年6月にフランスのルイブール要塞を包囲・占領した。しかし1748年のアーヘンの和約で要塞はマドラスと引き換えにフランスへ返還され、ニューイングランドの人々を落胆させた。"
+   }
+  },
+  {
+   "year": 1749,
+   "qid": "Q3118940",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Founding of Halifax and Father Le Loutre's War",
+    "ko": "핼리팩스 건설과 르루트르 신부 전쟁",
+    "zh": "哈利法克斯建城与勒卢特神父战争",
+    "ja": "ハリファックス建設とル・ルートル神父戦争"
+   },
+   "description": {
+    "en": "Britain founded Halifax in 1749 under Edward Cornwallis as a counterweight to Louisbourg, without the consent of the Mi'kmaq. Mi'kmaq and Acadian resistance, encouraged by the French missionary Jean-Louis Le Loutre, led to years of raids and reprisals, including British scalp bounties, until a 1752 peace treaty with some Mi'kmaq leaders and the fall of French Acadia's forts.",
+    "ko": "영국은 1749년 루이스버그에 대항하기 위해 에드워드 콘월리스의 지휘로 미크맥족의 동의 없이 핼리팩스를 세웠다. 프랑스 선교사 장루이 르루트르의 고무를 받은 미크맥족과 아카디아인의 저항은 영국의 머리가죽 현상금을 포함한 습격과 보복의 악순환으로 이어졌고, 1752년 일부 미크맥 지도자들과의 평화 조약 및 프랑스 쪽 요새들의 함락까지 계속되었다.",
+    "zh": "1749年，英国在未经米克马克人同意的情况下，由爱德华·康沃利斯主持建立哈利法克斯，以抗衡路易斯堡。在法国传教士让-路易·勒卢特的鼓动下，米克马克人和阿卡迪亚人的抵抗引发了多年的袭击与报复，其中包括英国悬赏剥取头皮，直到1752年与部分米克马克领袖签订和约以及法方要塞相继陷落。",
+    "ja": "英国は1749年、ルイブールに対抗するため、ミクマクの同意なしにエドワード・コーンウォリスの指揮でハリファックスを建設した。フランス人宣教師ジャン＝ルイ・ル・ルートルに後押しされたミクマクとアカディア人の抵抗は、英国の頭皮報奨金を含む襲撃と報復の応酬を招き、1752年の一部ミクマク指導者との和平条約やフランス側の砦の陥落まで続いた。"
+   }
+  },
+  {
+   "year": 1755,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Expulsion of the Acadians",
+    "ko": "아카디아인 추방",
+    "zh": "驱逐阿卡迪亚人",
+    "ja": "アカディア人追放"
+   },
+   "description": {
+    "en": "Doubting the loyalty of the French-speaking Acadians, who refused an unconditional oath of allegiance, the Nova Scotia government under Charles Lawrence began deporting them in 1755. Over the following years more than 10,000 people were forcibly removed to the Thirteen Colonies, France and elsewhere, and many died. Known as the Grand Dérangement, it remains a defining memory for Acadians, many of whose descendants settled in Louisiana as Cajuns or later returned to the Maritimes.",
+    "ko": "무조건적인 충성 서약을 거부한 프랑스어권 아카디아인의 충성을 의심한 찰스 로런스의 노바스코샤 정부는 1755년 이들을 추방하기 시작했다. 이후 몇 년간 1만 명 이상이 13개 식민지와 프랑스 등지로 강제 이주되었고 많은 이가 목숨을 잃었다. ‘대추방(그랑 데랑주망)’이라 불리는 이 사건은 아카디아인의 정체성을 이루는 기억으로 남아 있으며, 후손 다수는 루이지애나에 정착해 케이준이 되거나 훗날 해양 지방으로 돌아왔다.",
+    "zh": "由于讲法语的阿卡迪亚人拒绝无条件宣誓效忠，查尔斯·劳伦斯领导的新斯科舍政府怀疑其忠诚，于1755年开始驱逐他们。此后数年间，一万多人被强行迁往十三殖民地、法国等地，许多人在途中死亡。这场被称为“大驱逐”的事件至今仍是阿卡迪亚人刻骨铭心的记忆，其后裔中许多人定居路易斯安那成为卡津人，也有人后来回到沿海诸省。",
+    "ja": "無条件の忠誠宣誓を拒んだフランス語系のアカディア人の忠誠を疑い、チャールズ・ローレンスのノヴァスコシア政府は1755年に彼らの追放を開始した。その後数年で1万人以上が13植民地やフランスなどへ強制移送され、多くが命を落とした。「大追放（グラン・デランジュマン）」と呼ばれるこの出来事はアカディア人の記憶の核であり続け、子孫の多くはルイジアナに定住してケイジャンとなり、あるいはのちに沿海州へ戻った。"
+   }
+  },
+  {
+   "year": 1758,
+   "qid": "Q3050672",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Louisbourg",
+    "ko": "루이스버그 함락",
+    "zh": "路易斯堡陷落",
+    "ja": "ルイブール陥落"
+   },
+   "description": {
+    "en": "In the Seven Years' War, a large British force under Jeffery Amherst and James Wolfe besieged Louisbourg and forced its surrender in July 1758. The capture opened the St. Lawrence to the British fleet and set the stage for the campaign against Quebec the following year; the fortress was later demolished.",
+    "ko": "7년 전쟁 중 제프리 애머스트와 제임스 울프가 이끄는 영국 대군은 루이스버그를 포위해 1758년 7월 항복을 받아 냈다. 이로써 영국 함대에 세인트로렌스강이 열려 이듬해 퀘벡 공략의 발판이 마련되었고, 요새는 이후 파괴되었다.",
+    "zh": "七年战争中，杰弗里·阿默斯特和詹姆斯·沃尔夫率领的英国大军围攻路易斯堡，于1758年7月迫其投降。这一胜利为英国舰队打开了圣劳伦斯河，为次年进攻魁北克奠定了基础，要塞随后被拆毁。",
+    "ja": "七年戦争中、ジェフリー・アマーストとジェームズ・ウルフ率いる英国の大軍はルイブールを包囲し、1758年7月に降伏させた。これにより英国艦隊にセントローレンス川が開かれ、翌年のケベック攻略の足がかりとなり、要塞はのちに破壊された。"
+   }
+  },
+  {
+   "year": 1759,
+   "qid": "Q311726",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of the Plains of Abraham",
+    "ko": "에이브러햄 평원 전투",
+    "zh": "亚伯拉罕平原战役",
+    "ja": "アブラハム平原の戦い"
+   },
+   "description": {
+    "en": "On 13 September 1759 British troops under General James Wolfe, having climbed the cliffs above the St. Lawrence at night, defeated the French army of the Marquis de Montcalm on the Plains of Abraham outside Quebec. Both commanders were mortally wounded, and Quebec surrendered days later; the battle decided the fate of New France.",
+    "ko": "1759년 9월 13일 밤사이 세인트로렌스강 위 절벽을 기어오른 제임스 울프 장군의 영국군은 퀘벡 외곽 에이브러햄 평원에서 몽캄 후작이 이끄는 프랑스군을 격파했다. 양군 사령관 모두 치명상을 입었고 며칠 뒤 퀘벡은 항복했다. 이 전투는 누벨프랑스의 운명을 결정지었다.",
+    "zh": "1759年9月13日，詹姆斯·沃尔夫将军率领的英军连夜攀上圣劳伦斯河畔的悬崖，在魁北克城外的亚伯拉罕平原击败蒙卡尔姆侯爵统率的法军。双方指挥官均受致命伤，数日后魁北克投降；这场战役决定了新法兰西的命运。",
+    "ja": "1759年9月13日、夜のうちにセントローレンス川沿いの断崖をよじ登ったジェームズ・ウルフ将軍の英国軍は、ケベック郊外のアブラハム平原でモンカルム侯爵率いるフランス軍を破った。両軍の指揮官はともに致命傷を負い、数日後にケベックは降伏した。この戦いがヌーヴェル・フランスの運命を決した。"
+   }
+  },
+  {
+   "year": 1760,
+   "qid": "Q689183",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Sainte-Foy and the capitulation of Montreal",
+    "ko": "생트푸아 전투와 몬트리올 항복",
+    "zh": "圣富瓦战役与蒙特利尔投降",
+    "ja": "サント＝フォワの戦いとモントリオール降伏"
+   },
+   "description": {
+    "en": "In April 1760 the French under the Chevalier de Lévis defeated the British at Sainte-Foy and besieged Quebec, but the arrival of British ships in May forced them to withdraw. Surrounded by three British armies, Governor Vaudreuil capitulated at Montreal on 8 September 1760, ending French rule in Canada.",
+    "ko": "1760년 4월 레비 기사가 이끄는 프랑스군은 생트푸아에서 영국군을 격파하고 퀘벡을 포위했으나, 5월 영국 함선이 도착하자 물러나야 했다. 세 갈래의 영국군에 포위된 보드뢰유 총독은 1760년 9월 8일 몬트리올에서 항복했고, 캐나다에서 프랑스의 지배는 끝났다.",
+    "zh": "1760年4月，莱维骑士率领的法军在圣富瓦击败英军并围攻魁北克，但5月英国舰船到来后被迫撤退。在三路英军合围之下，总督沃德勒伊于1760年9月8日在蒙特利尔投降，法国在加拿大的统治就此结束。",
+    "ja": "1760年4月、レヴィ騎士率いるフランス軍はサント＝フォワで英国軍を破ってケベックを包囲したが、5月に英国艦船が到着すると撤退を余儀なくされた。三方から英国軍に包囲されたヴォードルイユ総督は1760年9月8日にモントリオールで降伏し、カナダにおけるフランスの支配は終わった。"
+   }
+  },
+  {
+   "year": 1763,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Paris and the Royal Proclamation",
+    "ko": "파리 조약과 왕실 포고령",
+    "zh": "《巴黎条约》与《皇家公告》",
+    "ja": "パリ条約と国王宣言"
+   },
+   "description": {
+    "en": "By the Treaty of Paris France ceded Canada to Britain, keeping only the islands of Saint-Pierre and Miquelon and fishing rights off Newfoundland. The Royal Proclamation of October 1763 created the Province of Quebec and recognised Indigenous title to unceded lands, establishing that such lands could only be acquired by the Crown through treaty; it remains a foundation of Indigenous rights in Canadian law.",
+    "ko": "파리 조약으로 프랑스는 캐나다를 영국에 할양하고 생피에르 미클롱 제도와 뉴펀들랜드 근해 어업권만을 유지했다. 1763년 10월의 왕실 포고령은 퀘벡 주를 설치하고 할양되지 않은 땅에 대한 원주민의 권원을 인정해, 그런 땅은 왕실만이 조약을 통해 취득할 수 있다고 정했다. 이 포고령은 지금도 캐나다 법에서 원주민 권리의 토대이다.",
+    "zh": "根据《巴黎条约》，法国将加拿大割让给英国，仅保留圣皮埃尔和密克隆群岛以及纽芬兰近海的捕鱼权。1763年10月的《皇家公告》设立了魁北克省，承认原住民对未割让土地的权利，规定此类土地只能由王室通过条约取得；它至今仍是加拿大法律中原住民权利的基石。",
+    "ja": "パリ条約によりフランスはカナダを英国に割譲し、サンピエール島・ミクロン島とニューファンドランド沖の漁業権のみを保持した。1763年10月の国王宣言はケベック植民地を設置し、割譲されていない土地に対する先住民の権原を認め、そうした土地は王室のみが条約を通じて取得できると定めた。この宣言は今もカナダ法における先住民の権利の基礎である。"
+   }
+  },
+  {
+   "year": 1774,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Quebec Act",
+    "ko": "퀘벡법",
+    "zh": "《魁北克法案》",
+    "ja": "ケベック法"
+   },
+   "description": {
+    "en": "The British Parliament's Quebec Act guaranteed the free practice of Catholicism, restored French civil law and the seigneurial system, and enlarged the province to include the Ohio country. Intended to secure the loyalty of the French-Canadian majority, it angered the Thirteen Colonies and was one of the grievances leading to the American Revolution.",
+    "ko": "영국 의회의 퀘벡법은 가톨릭 신앙의 자유로운 실천을 보장하고 프랑스 민법과 영주제를 복원했으며, 퀘벡 주를 오하이오 지방까지 넓혔다. 프랑스계 캐나다인 다수의 충성을 확보하려던 이 법은 13개 식민지의 분노를 사 미국 독립혁명으로 이어진 불만 가운데 하나가 되었다.",
+    "zh": "英国议会通过的《魁北克法案》保障天主教的自由信仰，恢复法国民法和领主制，并将魁北克省扩大至俄亥俄地区。该法旨在争取占多数的法裔加拿大人的忠诚，却激怒了十三殖民地，成为引发美国革命的不满之一。",
+    "ja": "英国議会のケベック法はカトリックの自由な信仰を保障し、フランス民法と領主制を復活させ、植民地をオハイオ地方まで拡大した。多数派のフランス系カナダ人の忠誠を確保するためのこの法律は13植民地の怒りを買い、アメリカ独立革命につながる不満の一つとなった。"
+   }
+  },
+  {
+   "year": 1775,
+   "qid": "Q1840117",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "American invasion and the Battle of Quebec",
+    "ko": "미국의 침공과 퀘벡 전투",
+    "zh": "美军入侵与魁北克战役",
+    "ja": "アメリカ軍の侵攻とケベックの戦い"
+   },
+   "description": {
+    "en": "Early in the American Revolutionary War, Continental Army forces invaded Quebec, capturing Montreal in November 1775. Their assault on Quebec City on 31 December 1775 was repulsed by Governor Guy Carleton, General Richard Montgomery was killed, and the Americans withdrew in 1776 after British reinforcements arrived.",
+    "ko": "미국 독립 전쟁 초기 대륙군은 퀘벡을 침공해 1775년 11월 몬트리올을 점령했다. 그러나 1775년 12월 31일의 퀘벡시 공격은 가이 칼턴 총독에게 격퇴되었고 리처드 몽고메리 장군이 전사했으며, 영국 증원군이 도착하자 미군은 1776년 철수했다.",
+    "zh": "美国独立战争初期，大陆军入侵魁北克，于1775年11月占领蒙特利尔。但1775年12月31日对魁北克城的进攻被总督盖伊·卡尔顿击退，理查德·蒙哥马利将军阵亡，英国援军抵达后美军于1776年撤退。",
+    "ja": "アメリカ独立戦争の初期、大陸軍はケベックに侵攻し、1775年11月にモントリオールを占領した。しかし1775年12月31日のケベック市攻撃はガイ・カールトン総督に撃退されてリチャード・モンゴメリー将軍が戦死し、英国の増援が到着すると米軍は1776年に撤退した。"
+   }
+  },
+  {
+   "year": 1784,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Loyalists and the creation of New Brunswick",
+    "ko": "왕당파 정착과 뉴브런즈윅 설립",
+    "zh": "效忠派移民与新不伦瑞克的设立",
+    "ja": "ロイヤリストの入植とニューブランズウィックの創設"
+   },
+   "description": {
+    "en": "After the American Revolution, tens of thousands of Loyalists who had sided with Britain, including Black Loyalists and Haudenosaunee allies led by Joseph Brant, resettled in Nova Scotia and Quebec. New Brunswick was separated from Nova Scotia in 1784 for the newcomers, and the Six Nations received land along the Grand River in today's Ontario.",
+    "ko": "미국 독립혁명 뒤 영국 편에 섰던 수만 명의 왕당파가 노바스코샤와 퀘벡으로 이주했는데, 여기에는 흑인 왕당파와 조지프 브랜트가 이끄는 하우데노사우니 동맹도 포함되었다. 1784년 이들을 위해 노바스코샤에서 뉴브런즈윅이 분리되었고, 식스 네이션스는 오늘날 온타리오의 그랜드강 유역에 땅을 받았다.",
+    "zh": "美国革命后，数万名站在英国一边的效忠派——包括黑人效忠派以及约瑟夫·布兰特率领的豪德诺索尼盟友——迁居新斯科舍和魁北克。1784年为安置这些新移民，新不伦瑞克从新斯科舍分出，六族联盟则在今安大略的格兰德河沿岸获得土地。",
+    "ja": "アメリカ独立革命の後、英国側についた数万人のロイヤリストが、黒人ロイヤリストやジョゼフ・ブラント率いるホデノショニの同盟者も含めてノヴァスコシアとケベックに移住した。1784年には彼らのためにノヴァスコシアからニューブランズウィックが分離され、シックス・ネーションズは現在のオンタリオのグランド川流域に土地を得た。"
+   }
+  },
+  {
+   "year": 1790,
+   "qid": "Q1648086",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nootka Convention",
+    "ko": "누트카 협정",
+    "zh": "《努特卡公约》",
+    "ja": "ヌートカ協定"
+   },
+   "description": {
+    "en": "After James Cook's 1778 visit to Nootka Sound on Vancouver Island opened a lucrative trade in sea otter pelts, Spain and Britain clashed over the sound in 1789. The Nootka Conventions, the first signed in 1790, averted war and opened the Pacific Northwest coast to British trade and settlement, paving the way for later British claims to what became British Columbia.",
+    "ko": "1778년 제임스 쿡이 밴쿠버섬의 누트카 해협을 방문하면서 해달 모피 교역이 활발해지자, 1789년 스페인과 영국이 이 해협을 두고 충돌했다. 1790년 처음 체결된 누트카 협정은 전쟁을 피하고 태평양 북서 해안을 영국의 교역과 정착에 개방해, 훗날 브리티시컬럼비아가 될 지역에 대한 영국의 영유권 주장의 길을 열었다.",
+    "zh": "1778年詹姆斯·库克到访温哥华岛的努特卡湾，开启了利润丰厚的海獭皮贸易，1789年西班牙与英国为争夺该海湾发生冲突。1790年首次签订的《努特卡公约》避免了战争，并向英国的贸易和定居开放了太平洋西北海岸，为英国日后对后来成为不列颠哥伦比亚的地区提出主权铺平了道路。",
+    "ja": "1778年にジェームズ・クックがバンクーバー島のヌートカ湾を訪れてラッコの毛皮交易が盛んになると、1789年にスペインと英国がこの湾をめぐって衝突した。1790年に最初に結ばれたヌートカ協定は戦争を回避し、太平洋北西岸を英国の交易と入植に開放して、のちのブリティッシュコロンビアに対する英国の領有主張への道を開いた。"
+   }
+  },
+  {
+   "year": 1791,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Constitutional Act creates Upper and Lower Canada",
+    "ko": "헌법법과 어퍼·로어 캐나다의 설치",
+    "zh": "《1791年宪法法案》设立上下加拿大",
+    "ja": "1791年憲法法による上・下カナダの設置"
+   },
+   "description": {
+    "en": "The Constitutional Act divided the Province of Quebec into Upper Canada, with an English-speaking Loyalist majority and English law, and Lower Canada, with a French-speaking majority and French civil law. Each received an elected assembly, though real power remained with appointed governors and councils.",
+    "ko": "헌법법은 퀘벡 주를 영어 사용 왕당파가 다수이고 영국법을 따르는 어퍼 캐나다와, 프랑스어 사용자가 다수이고 프랑스 민법을 따르는 로어 캐나다로 나누었다. 두 주에는 선출 의회가 생겼지만 실권은 임명직 총독과 평의회에 있었다.",
+    "zh": "《1791年宪法法案》将魁北克省划分为上加拿大和下加拿大：前者以讲英语的效忠派为主、实行英国法律，后者以讲法语者为主、沿用法国民法。两地各设民选议会，但实权仍掌握在委任的总督和议事会手中。",
+    "ja": "1791年憲法法はケベック植民地を、英語を話すロイヤリストが多数で英国法を用いるアッパー・カナダと、フランス語話者が多数でフランス民法を用いるロワー・カナダに分割した。両者には選挙で選ばれる議会が設けられたが、実権は任命制の総督と評議会にあった。"
+   }
+  },
+  {
+   "year": 1793,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Upper Canada's Act Against Slavery",
+    "ko": "어퍼 캐나다의 노예제 제한법",
+    "zh": "上加拿大《反奴隶制法》",
+    "ja": "アッパー・カナダの奴隷制制限法"
+   },
+   "description": {
+    "en": "Under Lieutenant-Governor John Graves Simcoe, Upper Canada passed an act prohibiting the import of enslaved people and providing that children born to enslaved mothers would be freed at age 25. It did not free those already enslaved, but it was the first legislation in the British Empire to restrict slavery, and Upper Canada later became a destination of the Underground Railroad.",
+    "ko": "존 그레이브스 심코 부총독 아래에서 어퍼 캐나다는 노예의 반입을 금지하고 노예 어머니에게서 태어난 아이는 25세에 자유를 얻도록 하는 법을 통과시켰다. 이미 노예인 사람들을 해방하지는 않았지만 영국 제국에서 노예제를 제한한 최초의 입법이었으며, 어퍼 캐나다는 훗날 ‘지하철도’의 목적지가 되었다.",
+    "zh": "在副总督约翰·格雷夫斯·西姆科主持下，上加拿大通过一项法律，禁止输入奴隶，并规定女奴所生子女年满25岁即获自由。该法没有解放已经为奴的人，但它是大英帝国第一部限制奴隶制的立法，上加拿大后来也成为“地下铁路”的目的地。",
+    "ja": "ジョン・グレーブス・シムコー副総督のもとで、アッパー・カナダは奴隷の持ち込みを禁じ、奴隷の母から生まれた子は25歳で自由になると定める法律を可決した。すでに奴隷である人々は解放されなかったが、大英帝国で奴隷制を制限した最初の立法であり、アッパー・カナダはのちに「地下鉄道」の目的地となった。"
+   }
+  },
+  {
+   "year": 1793,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Alexander Mackenzie reaches the Pacific",
+    "ko": "알렉산더 매켄지의 태평양 도달",
+    "zh": "亚历山大·麦肯齐抵达太平洋",
+    "ja": "アレクサンダー・マッケンジーの太平洋到達"
+   },
+   "description": {
+    "en": "North West Company fur trader Alexander Mackenzie, guided by Indigenous people along the way, crossed the Rocky Mountains and reached the Pacific at Dean Channel in July 1793, the first recorded crossing of the continent north of Mexico. He had earlier, in 1789, followed the great river now named after him to the Arctic Ocean.",
+    "ko": "노스웨스트 컴퍼니의 모피 상인 알렉산더 매켄지는 원주민의 안내를 받으며 로키산맥을 넘어 1793년 7월 딘 해협에서 태평양에 이르렀는데, 이는 기록상 멕시코 이북 대륙을 처음 횡단한 것이었다. 그는 앞서 1789년 오늘날 그의 이름이 붙은 큰 강을 따라 북극해까지 갔다.",
+    "zh": "西北公司的毛皮商人亚历山大·麦肯齐在沿途原住民的引导下翻越落基山脉，于1793年7月在迪安海峡抵达太平洋，这是有记录以来首次在墨西哥以北横越北美大陆。此前在1789年，他已沿着如今以他命名的大河到达北冰洋。",
+    "ja": "ノースウェスト会社の毛皮商人アレクサンダー・マッケンジーは、先住民の案内を受けながらロッキー山脈を越え、1793年7月にディーン海峡で太平洋に達した。これはメキシコ以北で記録に残る最初の大陸横断であった。彼はそれ以前の1789年に、現在その名を冠する大河を下って北極海に到達していた。"
+   }
+  },
+  {
+   "year": 1812,
+   "qid": "Q200682",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "War of 1812",
+    "ko": "1812년 전쟁",
+    "zh": "1812年战争",
+    "ja": "1812年戦争（米英戦争）"
+   },
+   "description": {
+    "en": "The United States declared war on Britain in June 1812 and invaded Upper and Lower Canada. British regulars, Canadian militia and Indigenous allies led by the Shawnee leader Tecumseh repelled the attacks; General Isaac Brock captured Detroit and was killed at the victory of Queenston Heights in October 1812. The war ended in a stalemate in 1814 but strengthened a distinct British North American identity.",
+    "ko": "미국은 1812년 6월 영국에 선전포고하고 어퍼 캐나다와 로어 캐나다를 침공했다. 영국 정규군과 캐나다 민병대, 쇼니족 지도자 테쿰세가 이끄는 원주민 동맹군이 공격을 막아 냈으며, 아이작 브록 장군은 디트로이트를 점령한 뒤 1812년 10월 퀸스턴 하이츠 전투에서 승리를 거두며 전사했다. 전쟁은 1814년 무승부로 끝났지만 영국령 북아메리카의 독자적 정체성을 강화했다.",
+    "zh": "美国于1812年6月对英国宣战并入侵上下加拿大。英国正规军、加拿大民兵以及肖尼族领袖特库姆塞率领的原住民盟军击退了进攻；艾萨克·布洛克将军攻占底特律，并于1812年10月在昆斯顿高地之战中取胜时阵亡。战争于1814年以僵局告终，但强化了英属北美独特的认同感。",
+    "ja": "アメリカは1812年6月に英国に宣戦し、アッパー・カナダとロワー・カナダに侵攻した。英国正規軍、カナダ民兵、ショーニー族の指導者テカムセ率いる先住民の同盟軍が攻撃を退け、アイザック・ブロック将軍はデトロイトを占領した後、1812年10月のクイーンストン・ハイツの戦いで勝利しつつ戦死した。戦争は1814年に引き分けで終わったが、英領北アメリカ独自のアイデンティティを強めた。"
+   }
+  },
+  {
+   "year": 1813,
+   "qid": "Q388689",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of York",
+    "ko": "요크 전투",
+    "zh": "约克战役",
+    "ja": "ヨークの戦い"
+   },
+   "description": {
+    "en": "In April 1813 American forces captured York, the capital of Upper Canada (today's Toronto), and burned its parliament buildings. Later that year, victories at Châteauguay and Crysler's Farm defeated an American advance on Montreal, while the American victory on Lake Erie and at the Thames, where Tecumseh was killed, secured the western frontier for the United States.",
+    "ko": "1813년 4월 미군은 어퍼 캐나다의 수도 요크(오늘날 토론토)를 점령하고 의사당을 불태웠다. 같은 해 샤토게와 크라이슬러스 농장 전투의 승리로 미군의 몬트리올 진격은 저지되었지만, 이리호와 테임스 전투에서 미국이 승리하고 테쿰세가 전사하면서 서부 전선은 미국의 손에 들어갔다.",
+    "zh": "1813年4月，美军攻占上加拿大首府约克（今多伦多），并焚毁议会大楼。同年稍后，沙托盖和克莱斯勒农场两场胜利挫败了美军对蒙特利尔的进攻；而美军在伊利湖和泰晤士河战役中获胜、特库姆塞阵亡，则使西部边境落入美国掌控。",
+    "ja": "1813年4月、米軍はアッパー・カナダの首都ヨーク（現在のトロント）を占領し、議事堂を焼き払った。同年後半、シャトーゲーとクライスラーズ・ファームの勝利で米軍のモントリオール進撃は阻止されたが、エリー湖とテムズ川の戦いで米国が勝利しテカムセが戦死したことで、西部戦線は米国の手に落ちた。"
+   }
+  },
+  {
+   "year": 1816,
+   "qid": "Q1757487",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Seven Oaks",
+    "ko": "세븐오크스 전투",
+    "zh": "七橡树之战",
+    "ja": "セブン・オークスの戦い"
+   },
+   "description": {
+    "en": "At Seven Oaks near the Red River Colony (today's Winnipeg), Métis led by Cuthbert Grant, aligned with the North West Company, clashed with Hudson's Bay Company men and settlers under Governor Robert Semple on 19 June 1816; Semple and about twenty of his party were killed. The violence of the fur-trade rivalry led to the merger of the two companies in 1821, and the battle became a landmark in the emergence of Métis nationhood.",
+    "ko": "1816년 6월 19일 레드리버 식민지(오늘날 위니펙) 부근 세븐오크스에서, 노스웨스트 컴퍼니 편에 선 커스버트 그랜트의 메티스 무리가 로버트 셈플 총독이 이끄는 허드슨스베이 컴퍼니 사람들 및 정착민과 충돌해 셈플과 일행 약 20명이 숨졌다. 모피 교역 경쟁의 폭력화는 1821년 두 회사의 합병으로 이어졌으며, 이 전투는 메티스 민족 의식 형성의 이정표가 되었다.",
+    "zh": "1816年6月19日，在红河殖民地（今温尼伯）附近的七橡树，站在西北公司一边、由卡斯伯特·格兰特率领的梅蒂人与总督罗伯特·森普尔率领的哈德逊湾公司人员及移民发生冲突，森普尔及其随行约二十人被杀。毛皮贸易竞争的暴力化促使两家公司于1821年合并，这场战斗也成为梅蒂民族意识形成的里程碑。",
+    "ja": "1816年6月19日、レッド川植民地（現在のウィニペグ）近くのセブン・オークスで、ノースウェスト会社側についたカスバート・グラント率いるメティスが、ロバート・センプル総督率いるハドソン湾会社の人々や入植者と衝突し、センプルと一行約20人が死亡した。毛皮交易競争の暴力化は1821年の両社合併につながり、この戦いはメティスの民族意識形成の画期となった。"
+   }
+  },
+  {
+   "year": 1832,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Rideau Canal completed",
+    "ko": "리도 운하 완공",
+    "zh": "里多运河竣工",
+    "ja": "リドー運河の完成"
+   },
+   "description": {
+    "en": "Built under Lieutenant-Colonel John By as a secure military supply route between Montreal and Kingston after the War of 1812, the Rideau Canal opened in 1832. Its construction, in which many labourers died of malaria, led to the founding of Bytown, later renamed Ottawa and chosen as capital in 1857; the canal is now a UNESCO World Heritage Site.",
+    "ko": "1812년 전쟁 뒤 몬트리올과 킹스턴 사이의 안전한 군사 보급로로서 존 바이 중령의 지휘로 건설된 리도 운하가 1832년 개통되었다. 많은 노동자가 말라리아로 숨진 이 공사를 계기로 바이타운이 세워졌는데, 이곳은 훗날 오타와로 개명되어 1857년 수도로 선정되었다. 운하는 현재 유네스코 세계유산이다.",
+    "zh": "1812年战争后，为在蒙特利尔与金斯顿之间开辟安全的军事补给线，由约翰·拜中校主持修建的里多运河于1832年通航。修建过程中许多劳工死于疟疾，工程也催生了拜镇，该地后更名为渥太华，并于1857年被选为首都；运河如今是联合国教科文组织世界遗产。",
+    "ja": "1812年戦争後、モントリオールとキングストンを結ぶ安全な軍事補給路として、ジョン・バイ中佐の指揮で建設されたリドー運河が1832年に開通した。多くの労働者がマラリアで死亡したこの工事を機にバイタウンが生まれ、のちにオタワと改名されて1857年に首都に選ばれた。運河は現在ユネスコ世界遺産である。"
+   }
+  },
+  {
+   "year": 1837,
+   "qid": "Q1560445",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Rebellions of 1837–1838",
+    "ko": "1837~1838년 반란",
+    "zh": "1837—1838年起义",
+    "ja": "1837～1838年の反乱"
+   },
+   "description": {
+    "en": "Frustrated by the power of appointed elites, reformers took up arms in Lower Canada under Louis-Joseph Papineau's Patriotes and in Upper Canada under William Lyon Mackenzie. Both rebellions were crushed by British troops and loyal militia, with executions and transportations following, but they prompted Lord Durham's 1839 report recommending union of the Canadas and responsible government.",
+    "ko": "임명된 엘리트층의 권력에 불만을 품은 개혁파는 로어 캐나다에서는 루이조제프 파피노의 ‘파트리오트’로, 어퍼 캐나다에서는 윌리엄 라이언 매켄지의 지휘 아래 무기를 들었다. 두 반란은 영국군과 충성파 민병대에 진압되어 처형과 유형이 뒤따랐지만, 두 캐나다의 통합과 책임정부를 권고한 1839년 더럼 경 보고서로 이어졌다.",
+    "zh": "由于不满委任精英的权力，改革派在下加拿大以路易-约瑟夫·帕皮诺领导的“爱国者”为首、在上加拿大以威廉·莱昂·麦肯齐为首拿起武器。两场起义均被英军和效忠派民兵镇压，随后有人被处决或流放，但它们促成了达勒姆勋爵1839年的报告，该报告建议合并两加拿大并实行责任政府。",
+    "ja": "任命制エリートの権力に不満を募らせた改革派は、ロワー・カナダではルイ＝ジョゼフ・パピノーの「パトリオット」として、アッパー・カナダではウィリアム・ライオン・マッケンジーの指揮下で武器を取った。両反乱は英国軍と忠誠派民兵に鎮圧され処刑や流刑が続いたが、両カナダの統合と責任政府を勧告した1839年のダラム卿報告につながった。"
+   }
+  },
+  {
+   "year": 1841,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Act of Union creates the Province of Canada",
+    "ko": "연합법과 캐나다 주의 성립",
+    "zh": "《联合法案》设立加拿大省",
+    "ja": "連合法によるカナダ植民地の成立"
+   },
+   "description": {
+    "en": "Following Lord Durham's recommendations, Upper and Lower Canada were merged into the single Province of Canada, divided into Canada West and Canada East with equal representation in one legislature. The union partly aimed to assimilate French Canadians, but instead produced reform alliances across the language divide.",
+    "ko": "더럼 경의 권고에 따라 어퍼 캐나다와 로어 캐나다는 단일한 캐나다 주로 합쳐졌고, 캐나다 웨스트와 캐나다 이스트로 나뉘어 하나의 의회에서 동등한 의석을 가졌다. 이 통합은 프랑스계 캐나다인의 동화를 한 목적으로 했으나, 오히려 언어의 경계를 넘는 개혁 동맹을 낳았다.",
+    "zh": "根据达勒姆勋爵的建议，上下加拿大合并为统一的加拿大省，分为西加拿大和东加拿大，在同一议会中享有同等席位。合并的部分目的在于同化法裔加拿大人，结果却催生了跨越语言界限的改革派联盟。",
+    "ja": "ダラム卿の勧告に従い、アッパー・カナダとロワー・カナダは単一のカナダ植民地に統合され、カナダ・ウェストとカナダ・イーストに分かれて一つの議会で同数の議席を持った。統合はフランス系カナダ人の同化を一つの狙いとしていたが、かえって言語の境界を越えた改革派の連携を生んだ。"
+   }
+  },
+  {
+   "year": 1847,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Irish famine migration and typhus",
+    "ko": "아일랜드 대기근 이민과 발진티푸스",
+    "zh": "爱尔兰饥荒移民与斑疹伤寒",
+    "ja": "アイルランド飢饉の移民とチフス"
+   },
+   "description": {
+    "en": "Tens of thousands of Irish emigrants fleeing the Great Famine arrived in British North America in 1847, many sick with typhus after crossing in crowded ships. Thousands died at sea, at the quarantine station of Grosse Île near Quebec and in fever sheds in cities such as Montreal; many orphans were adopted by French-Canadian families.",
+    "ko": "1847년 대기근을 피해 수만 명의 아일랜드 이민자가 영국령 북아메리카에 도착했는데, 다수가 비좁은 배에서 발진티푸스에 걸린 상태였다. 수천 명이 바다에서, 퀘벡 인근 그로스일 검역소에서, 그리고 몬트리올 등 도시의 열병 수용소에서 숨졌으며, 많은 고아가 프랑스계 캐나다인 가정에 입양되었다.",
+    "zh": "1847年，数万名逃离大饥荒的爱尔兰移民抵达英属北美，他们乘坐拥挤的船只横渡大西洋，许多人染上斑疹伤寒。数千人死于海上、魁北克附近的格罗斯岛检疫站以及蒙特利尔等城市的热病收容所；许多孤儿被法裔加拿大家庭收养。",
+    "ja": "1847年、大飢饉を逃れた数万人のアイルランド移民が英領北アメリカに到着したが、その多くは過密な船での航海中にチフスに罹っていた。数千人が海上で、ケベック近くのグロス島検疫所で、そしてモントリオールなどの都市の熱病収容所で亡くなり、多くの孤児がフランス系カナダ人の家庭に引き取られた。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Responsible government achieved",
+    "ko": "책임정부의 실현",
+    "zh": "实现责任政府",
+    "ja": "責任政府の実現"
+   },
+   "description": {
+    "en": "In 1848 Nova Scotia and then the Province of Canada, under the reform ministry of Louis-Hippolyte LaFontaine and Robert Baldwin, obtained responsible government: the executive would depend on the confidence of the elected assembly. Governor Lord Elgin's assent to the Rebellion Losses Bill in 1849 confirmed the principle, even though Tory rioters burned the parliament in Montreal.",
+    "ko": "1848년 노바스코샤에 이어 루이이폴리트 라퐁텐과 로버트 볼드윈의 개혁 내각 아래 캐나다 주도 책임정부를 얻었다. 곧 행정부가 선출 의회의 신임에 의존하게 된 것이다. 1849년 엘긴 경 총독이 반란 손해 배상법을 재가하면서 이 원칙이 확인되었고, 이에 반발한 토리파 폭도는 몬트리올의 의사당을 불태웠다.",
+    "zh": "1848年，新斯科舍以及随后由路易-伊波利特·拉方丹和罗伯特·鲍德温领导改革内阁的加拿大省获得了责任政府，即行政机关须依赖民选议会的信任。1849年总督埃尔金勋爵批准《叛乱损失法案》，确立了这一原则，尽管托利派暴徒为此焚毁了蒙特利尔的议会大楼。",
+    "ja": "1848年、ノヴァスコシアに続き、ルイ＝イポリット・ラフォンテーヌとロバート・ボールドウィンの改革派内閣のもとでカナダ植民地も責任政府を獲得した。すなわち行政府が選挙で選ばれた議会の信任に基づくこととなった。1849年にエルギン卿総督が反乱損害補償法を裁可してこの原則が確立したが、反発したトーリー派の暴徒はモントリオールの議事堂を焼き払った。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Fraser River gold rush and the colony of British Columbia",
+    "ko": "프레이저강 골드러시와 브리티시컬럼비아 식민지",
+    "zh": "弗雷泽河淘金热与不列颠哥伦比亚殖民地",
+    "ja": "フレーザー川ゴールドラッシュとブリティッシュコロンビア植民地"
+   },
+   "description": {
+    "en": "The discovery of gold on the Fraser River drew tens of thousands of miners, many from California, into the lands of the Stó:lō, Nlaka'pamux and other nations. To assert British authority, the mainland colony of British Columbia was created in 1858 under Governor James Douglas; it merged with Vancouver Island in 1866.",
+    "ko": "프레이저강에서 금이 발견되자 캘리포니아 출신을 비롯한 수만 명의 광부가 스톨로, 은라카파묵스 등 원주민의 땅으로 몰려들었다. 영국은 권위를 확립하기 위해 1858년 제임스 더글러스 총독 아래 본토 식민지 브리티시컬럼비아를 설치했으며, 이는 1866년 밴쿠버섬 식민지와 합쳐졌다.",
+    "zh": "弗雷泽河发现黄金后，数万名淘金者（其中许多来自加利福尼亚）涌入斯托洛人、恩拉卡帕穆克斯人等民族的土地。为确立英国的管辖，1858年在詹姆斯·道格拉斯总督治下设立了大陆殖民地不列颠哥伦比亚，并于1866年与温哥华岛殖民地合并。",
+    "ja": "フレーザー川で金が発見されると、カリフォルニア出身者を含む数万人の採掘者がストーロー、ンラカパムクスなどの民族の土地に押し寄せた。英国の権威を確立するため、1858年にジェームズ・ダグラス総督のもとで本土植民地ブリティッシュコロンビアが設置され、1866年にバンクーバー島植民地と合併した。"
+   }
+  },
+  {
+   "year": 1864,
+   "qid": "Q1067465",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Charlottetown and Quebec Conferences",
+    "ko": "샬럿타운·퀘벡 회의",
+    "zh": "夏洛特敦会议与魁北克会议",
+    "ja": "シャーロットタウン会議とケベック会議"
+   },
+   "description": {
+    "en": "In September 1864 delegates from the Province of Canada joined a meeting of Maritime leaders at Charlottetown and proposed a broader union. At Quebec in October the delegates, later called the Fathers of Confederation, adopted 72 resolutions that became the blueprint for the federal constitution of 1867.",
+    "ko": "1864년 9월 캐나다 주 대표들이 샬럿타운에서 열린 해양 지방 지도자 회의에 참석해 더 넓은 연합을 제안했다. 10월 퀘벡에서 훗날 ‘연방의 아버지들’로 불리는 대표들은 72개 결의안을 채택했고, 이는 1867년 연방 헌법의 청사진이 되었다.",
+    "zh": "1864年9月，加拿大省代表参加了在夏洛特敦举行的沿海诸省领导人会议，并提议建立更广泛的联合。同年10月在魁北克，这些后来被称为“联邦之父”的代表通过了72项决议，成为1867年联邦宪法的蓝图。",
+    "ja": "1864年9月、カナダ植民地の代表がシャーロットタウンで開かれた沿海植民地指導者の会議に加わり、より広い連合を提案した。10月のケベックでは、のちに「連邦の父」と呼ばれる代表たちが72項目の決議を採択し、これが1867年の連邦憲法の青写真となった。"
+   }
+  },
+  {
+   "year": 1866,
+   "qid": "Q2996302",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fenian raids",
+    "ko": "페니언 습격",
+    "zh": "芬尼亚袭击",
+    "ja": "フィニアン襲撃"
+   },
+   "description": {
+    "en": "Irish-American veterans of the Fenian Brotherhood launched cross-border raids into British North America, hoping to pressure Britain over Irish independence. At Ridgeway in June 1866 they defeated Canadian militia before withdrawing. The raids heightened fears of American aggression and strengthened support for Confederation.",
+    "ko": "페니언 형제단의 아일랜드계 미국인 참전 용사들은 아일랜드 독립 문제로 영국을 압박하기 위해 국경을 넘어 영국령 북아메리카를 습격했다. 1866년 6월 리지웨이에서 그들은 캐나다 민병대를 격파한 뒤 철수했다. 이 습격은 미국의 침략에 대한 우려를 키우고 연방 결성에 대한 지지를 강화했다.",
+    "zh": "芬尼亚兄弟会的爱尔兰裔美国退伍军人越境袭击英属北美，企图借此在爱尔兰独立问题上向英国施压。1866年6月他们在里奇韦击败加拿大民兵后撤退。这些袭击加剧了人们对美国侵略的担忧，增强了对建立联邦的支持。",
+    "ja": "フィニアン同盟のアイルランド系アメリカ人退役兵は、アイルランド独立をめぐって英国に圧力をかけようと国境を越えて英領北アメリカを襲撃した。1866年6月のリッジウェイでは彼らがカナダ民兵を破ってから撤退した。襲撃は米国の侵略への懸念を高め、連邦結成への支持を強めた。"
+   }
+  },
+  {
+   "year": 1867,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Confederation: Dominion of Canada established",
+    "ko": "연방 결성: 캐나다 자치령 성립",
+    "zh": "联邦成立：加拿大自治领诞生",
+    "ja": "連邦結成：カナダ自治領の成立"
+   },
+   "description": {
+    "en": "On 1 July 1867 the British North America Act united the Province of Canada, divided into Ontario and Quebec, with Nova Scotia and New Brunswick to form the Dominion of Canada. The federation had a parliament in Ottawa on the British model and provincial legislatures, with Sir John A. Macdonald as first prime minister. 1 July is celebrated as Canada Day.",
+    "ko": "1867년 7월 1일 영국령 북아메리카법에 따라 온타리오와 퀘벡으로 나뉜 캐나다 주가 노바스코샤, 뉴브런즈윅과 합쳐 캐나다 자치령을 이루었다. 연방은 영국식 오타와 의회와 주 의회를 두었으며, 존 A. 맥도널드 경이 초대 총리가 되었다. 7월 1일은 캐나다의 날로 기념된다.",
+    "zh": "1867年7月1日，《英属北美法案》将分为安大略和魁北克的加拿大省与新斯科舍、新不伦瑞克联合起来，组成加拿大自治领。联邦设有仿照英国模式的渥太华议会和各省议会，约翰·A·麦克唐纳爵士为首任总理。7月1日被定为加拿大国庆日。",
+    "ja": "1867年7月1日、英領北アメリカ法により、オンタリオとケベックに分けられたカナダ植民地がノヴァスコシア、ニューブランズウィックと合わさってカナダ自治領が成立した。連邦は英国型のオタワ議会と州議会を持ち、ジョン・A・マクドナルド卿が初代首相となった。7月1日はカナダ・デーとして祝われている。"
+   }
+  },
+  {
+   "year": 1869,
+   "qid": "Q765499",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Red River Resistance and the Manitoba Act",
+    "ko": "레드리버 저항과 매니토바법",
+    "zh": "红河抵抗与《曼尼托巴法案》",
+    "ja": "レッド川抵抗とマニトバ法"
+   },
+   "description": {
+    "en": "When Canada prepared to take over Rupert's Land without consulting its inhabitants, the Métis of Red River led by Louis Riel formed a provisional government in 1869 to negotiate terms. The execution of the Ontario Orangeman Thomas Scott by the provisional government inflamed English Canada, but the resulting Manitoba Act of 1870 created the province of Manitoba with guarantees for French language and Catholic schools, and Riel fled into exile.",
+    "ko": "캐나다가 주민과 협의 없이 루퍼트랜드를 인수하려 하자, 루이 리엘이 이끄는 레드리버의 메티스는 1869년 조건 협상을 위해 임시 정부를 세웠다. 임시 정부가 온타리오 출신 오렌지단원 토머스 스콧을 처형하면서 영어권 캐나다의 분노를 샀지만, 그 결과 1870년 매니토바법으로 프랑스어와 가톨릭 학교를 보장하는 매니토바주가 만들어졌고 리엘은 망명길에 올랐다.",
+    "zh": "加拿大准备在不征询当地居民意见的情况下接管鲁珀特地，路易·瑞尔领导的红河梅蒂人于1869年成立临时政府，以就接管条件进行谈判。临时政府处决了来自安大略的奥兰治会成员托马斯·斯科特，激起英裔加拿大人的愤怒；但随后的1870年《曼尼托巴法案》设立了曼尼托巴省，保障法语和天主教学校，瑞尔则流亡国外。",
+    "ja": "カナダが住民と協議せずにルパート・ランドを引き継ごうとすると、ルイ・リエル率いるレッド川のメティスは1869年に条件交渉のための臨時政府を樹立した。臨時政府によるオンタリオ出身のオレンジ党員トマス・スコットの処刑は英語系カナダの怒りを買ったが、その結果1870年のマニトバ法でフランス語とカトリック学校を保障するマニトバ州が創設され、リエルは亡命した。"
+   }
+  },
+  {
+   "year": 1871,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty 1 and British Columbia joins Canada",
+    "ko": "제1조약 체결과 브리티시컬럼비아의 가입",
+    "zh": "签订第一号条约与不列颠哥伦比亚加入加拿大",
+    "ja": "第1条約の締結とブリティッシュコロンビアの加盟"
+   },
+   "description": {
+    "en": "In August 1871 the Crown and Anishinaabe and Swampy Cree nations signed Treaty 1 at Lower Fort Garry, the first of eleven numbered treaties concluded through 1921 covering much of the Prairies and the North; their meaning and implementation remain contested, as written texts often differed from oral promises. The same year British Columbia joined Confederation on the promise of a transcontinental railway.",
+    "ko": "1871년 8월 왕실과 아니시나베 및 스웜피 크리 민족은 로어포트개리에서 제1조약을 맺었다. 이는 1921년까지 프레리와 북부 대부분을 대상으로 체결된 11개 번호 조약의 첫 번째였는데, 문서와 구두 약속이 달랐던 경우가 많아 그 의미와 이행은 지금도 논쟁 중이다. 같은 해 브리티시컬럼비아는 대륙 횡단 철도 건설을 약속받고 연방에 가입했다.",
+    "zh": "1871年8月，王室与阿尼什纳比人和沼泽克里人在下加里堡签订第一号条约，这是至1921年间签订的涵盖草原和北方大部分地区的十一项编号条约中的第一项；由于书面文本常与口头承诺不同，其含义和执行至今仍有争议。同年，不列颠哥伦比亚在获得修建横贯大陆铁路的承诺后加入联邦。",
+    "ja": "1871年8月、王室とアニシナベおよびスワンピー・クリーの民族はロワー・フォート・ギャリーで第1条約を結んだ。これは1921年までにプレーリーと北部の大半を対象に結ばれた11の番号条約の最初のもので、文書と口頭の約束が異なることも多く、その意味と履行は今なお争われている。同年、ブリティッシュコロンビアは大陸横断鉄道の建設を約束されて連邦に加わった。"
+   }
+  },
+  {
+   "year": 1873,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "North-West Mounted Police and Prince Edward Island",
+    "ko": "북서기마경찰 창설과 프린스에드워드섬 가입",
+    "zh": "西北骑警的创建与爱德华王子岛加入联邦",
+    "ja": "北西騎馬警察の創設とプリンスエドワードアイランドの加盟"
+   },
+   "description": {
+    "en": "Parliament created the North-West Mounted Police in 1873 to assert Canadian authority on the Prairies, prompted in part by the Cypress Hills Massacre of Nakoda people by American wolf hunters. The force later became the Royal Canadian Mounted Police. In the same year Prince Edward Island, burdened by railway debts, joined Confederation.",
+    "ko": "의회는 1873년 프레리에서 캐나다의 권위를 세우기 위해 북서기마경찰을 창설했는데, 미국인 늑대 사냥꾼들이 나코다족을 학살한 사이프러스힐스 학살이 한 계기였다. 이 경찰대는 훗날 왕립 캐나다 기마경찰(RCMP)이 되었다. 같은 해 철도 부채에 시달리던 프린스에드워드섬이 연방에 가입했다.",
+    "zh": "1873年，议会为在草原地区确立加拿大的权威而创建西北骑警，其起因之一是美国猎狼人屠杀纳科达人的赛普里斯山屠杀。这支部队后来成为加拿大皇家骑警。同年，背负铁路债务的爱德华王子岛加入联邦。",
+    "ja": "議会は1873年、プレーリーにおけるカナダの権威を確立するため北西騎馬警察を創設した。アメリカ人の狼猟師がナコダの人々を殺害したサイプレス・ヒルズの虐殺がその一因であった。この部隊はのちに王立カナダ騎馬警察（RCMP）となった。同年、鉄道債務に苦しむプリンスエドワードアイランドが連邦に加わった。"
+   }
+  },
+  {
+   "year": 1876,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Indian Act",
+    "ko": "인디언법",
+    "zh": "《印第安人法》",
+    "ja": "インディアン法"
+   },
+   "description": {
+    "en": "The Indian Act consolidated federal laws governing First Nations, defining who had \"Indian status\", controlling reserve lands and band governance, and aiming at assimilation. Later amendments banned ceremonies such as the potlatch and Sun Dance and restricted political organising. Though heavily amended, the act remains in force and is widely criticised as colonial.",
+    "ko": "인디언법은 퍼스트 네이션을 규율하는 연방 법률을 통합한 것으로, ‘인디언 지위’를 가진 사람을 정의하고 보호구역 토지와 부족 자치를 통제하며 동화를 목표로 했다. 이후 개정으로 포틀래치와 태양춤 같은 의례가 금지되고 정치 조직 활동이 제한되었다. 여러 차례 크게 개정되었지만 이 법은 여전히 유효하며 식민주의적이라는 비판을 널리 받고 있다.",
+    "zh": "《印第安人法》整合了管理第一民族的联邦法律，界定谁拥有“印第安人身份”，控制保留地土地和部落治理，并以同化为目标。后来的修正案禁止了夸富宴和太阳舞等仪式，并限制政治组织活动。该法虽经大幅修订，至今仍然有效，并被广泛批评为殖民主义法律。",
+    "ja": "インディアン法はファースト・ネーションズを規律する連邦法を統合したもので、「インディアンとしての地位」を持つ者を定義し、保留地の土地とバンドの統治を管理し、同化を目指した。その後の改正でポトラッチやサンダンスなどの儀礼が禁止され、政治的な組織活動も制限された。大幅に改正されてきたものの今も有効であり、植民地主義的だと広く批判されている。"
+   }
+  },
+  {
+   "year": 1883,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Federal residential school system expands",
+    "ko": "연방 기숙학교 제도의 확대",
+    "zh": "联邦寄宿学校体系的扩张",
+    "ja": "連邦寄宿学校制度の拡大"
+   },
+   "description": {
+    "en": "From 1883 the federal government began funding industrial residential schools for Indigenous children in the West, building on earlier church-run schools; attendance was later made compulsory. Run mainly by churches until the 1960s and lasting until 1996, the system removed some 150,000 First Nations, Inuit and Métis children from their families, suppressed their languages and cultures, and saw widespread abuse and thousands of deaths. The Truth and Reconciliation Commission described it as cultural genocide.",
+    "ko": "1883년부터 연방 정부는 기존의 교회 운영 학교를 토대로 서부에서 원주민 아동을 위한 산업 기숙학교에 재정을 지원하기 시작했고, 이후 출석이 의무화되었다. 1960년대까지 주로 교회가 운영하며 1996년까지 지속된 이 제도는 약 15만 명의 퍼스트 네이션·이누이트·메티스 아동을 가족에게서 떼어 놓고 언어와 문화를 억압했으며, 광범위한 학대와 수천 명의 사망을 낳았다. 진실화해위원회는 이를 문화적 집단 학살이라 규정했다.",
+    "zh": "自1883年起，联邦政府在原有教会学校的基础上，开始资助西部面向原住民儿童的工业寄宿学校，后来又规定儿童必须入学。该体系在20世纪60年代以前主要由教会经营，一直延续到1996年，使约15万名第一民族、因纽特和梅蒂儿童被迫离开家庭，其语言和文化遭到压制，虐待现象普遍，并有数千名儿童死亡。真相与和解委员会将其定性为文化灭绝。",
+    "ja": "1883年から連邦政府は、既存の教会運営の学校を土台に、西部で先住民の子どものための産業寄宿学校への資金提供を始め、のちに就学が義務化された。1960年代まで主に教会が運営し1996年まで続いたこの制度は、約15万人のファースト・ネーションズ、イヌイット、メティスの子どもを家族から引き離して言語と文化を抑圧し、広範な虐待と数千人の死をもたらした。真実和解委員会はこれを文化的ジェノサイドと表現した。"
+   }
+  },
+  {
+   "year": 1885,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Canadian Pacific Railway completed",
+    "ko": "캐나다 태평양 철도 완공",
+    "zh": "加拿大太平洋铁路竣工",
+    "ja": "カナダ太平洋鉄道の完成"
+   },
+   "description": {
+    "en": "On 7 November 1885 the last spike of the Canadian Pacific Railway was driven at Craigellachie in British Columbia, linking the Pacific coast with eastern Canada and fulfilling the promise made to British Columbia. Built with heavy government support and the labour of thousands of workers, including Chinese labourers who faced dangerous conditions and discrimination, the railway opened the Prairies to mass settlement.",
+    "ko": "1885년 11월 7일 브리티시컬럼비아의 크레이겔라키에서 캐나다 태평양 철도의 마지막 못이 박혀 태평양 연안과 캐나다 동부가 연결되었고, 브리티시컬럼비아와의 약속이 지켜졌다. 정부의 막대한 지원과 위험한 환경과 차별을 견딘 중국인 노동자를 포함한 수천 명의 노동으로 건설된 이 철도는 프레리에 대규모 정착의 길을 열었다.",
+    "zh": "1885年11月7日，加拿大太平洋铁路的最后一颗道钉在不列颠哥伦比亚的克雷格拉奇钉下，太平洋沿岸与加拿大东部从此相连，兑现了对不列颠哥伦比亚的承诺。这条铁路在政府大力支持下，依靠数千名工人建成，其中包括在危险环境中劳作并饱受歧视的华工；它为草原地区的大规模移民开辟了道路。",
+    "ja": "1885年11月7日、ブリティッシュコロンビアのクレイゲラキでカナダ太平洋鉄道の最後の犬釘が打たれ、太平洋岸とカナダ東部が結ばれ、ブリティッシュコロンビアとの約束が果たされた。政府の手厚い支援と、危険な環境と差別に耐えた中国人労働者を含む数千人の労働で建設されたこの鉄道は、プレーリーへの大規模入植の道を開いた。"
+   }
+  },
+  {
+   "year": 1885,
+   "qid": "Q1506788",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "North-West Resistance and the execution of Louis Riel",
+    "ko": "북서 저항과 루이 리엘의 처형",
+    "zh": "西北抵抗与路易·瑞尔被处决",
+    "ja": "北西抵抗とルイ・リエルの処刑"
+   },
+   "description": {
+    "en": "Métis in the Saskatchewan valley, joined by some Cree and Assiniboine, rose under Louis Riel and Gabriel Dumont after their land and treaty grievances were ignored. Troops sent west on the new railway defeated the Métis at Batoche in May 1885. Riel was tried for treason and hanged at Regina in November, along with eight Indigenous men hanged at Battleford; his execution deeply divided English and French Canada.",
+    "ko": "토지와 조약에 관한 불만이 무시되자 서스캐처원강 유역의 메티스는 일부 크리족·아시니보인족과 함께 루이 리엘과 가브리엘 뒤몽의 지휘 아래 봉기했다. 새 철도로 서부에 투입된 군대는 1885년 5월 바토슈에서 메티스를 격파했다. 리엘은 반역죄로 재판을 받아 11월 리자이나에서 교수형에 처해졌고, 배틀퍼드에서는 원주민 남성 8명이 교수형을 당했다. 그의 처형은 영어권과 프랑스어권 캐나다를 깊이 분열시켰다.",
+    "zh": "萨斯喀彻温河谷的梅蒂人因土地和条约方面的诉求遭到漠视，在路易·瑞尔和加布里埃尔·迪蒙领导下起事，部分克里人和阿西尼博因人也加入其中。经新铁路西运的军队于1885年5月在巴托什击败梅蒂人。瑞尔以叛国罪受审，11月在里贾纳被处以绞刑，另有八名原住民男子在巴特尔福德被绞死；瑞尔被处决一事使英裔与法裔加拿大人严重分裂。",
+    "ja": "土地と条約に関する訴えを無視されたサスカチュワン川流域のメティスは、一部のクリーやアシニボインとともに、ルイ・リエルとガブリエル・デュモンの指揮で蜂起した。新しい鉄道で西部へ送られた軍は1885年5月にバトッシュでメティスを破った。リエルは反逆罪で裁かれ11月にレジャイナで絞首刑となり、バトルフォードでは先住民の男性8人が絞首刑に処された。リエルの処刑は英語系と仏語系のカナダを深く分断した。"
+   }
+  },
+  {
+   "year": 1896,
+   "qid": "Q631489",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Klondike Gold Rush",
+    "ko": "클론다이크 골드러시",
+    "zh": "克朗代克淘金热",
+    "ja": "クロンダイク・ゴールドラッシュ"
+   },
+   "description": {
+    "en": "In August 1896 gold was found on Bonanza Creek, a tributary of the Klondike River in the Yukon, by a party including Skookum Jim, Dawson Charlie and George Carmack. News of the strike set off a stampede of perhaps 100,000 prospectors, of whom far fewer reached the goldfields; Dawson City boomed, and the Yukon Territory was created in 1898.",
+    "ko": "1896년 8월 스쿠컴 짐, 도슨 찰리, 조지 카맥 일행이 유콘의 클론다이크강 지류인 보난자 크리크에서 금을 발견했다. 소식이 퍼지자 약 10만 명으로 추정되는 채굴꾼이 몰려들었으나 실제로 금광에 도달한 이는 훨씬 적었다. 도슨시티는 급성장했고 1898년 유콘 준주가 설치되었다.",
+    "zh": "1896年8月，斯库库姆·吉姆、道森·查理和乔治·卡马克一行在育空地区克朗代克河的支流富矿溪发现黄金。消息传开后，约有10万名淘金者蜂拥而来，但真正抵达金矿区的人要少得多；道森城迅速繁荣，育空地区于1898年设立。",
+    "ja": "1896年8月、スクーカム・ジム、ドーソン・チャーリー、ジョージ・カーマックの一行がユーコンのクロンダイク川の支流ボナンザ・クリークで金を発見した。知らせが広まると推定10万人の採掘者が殺到したが、実際に金鉱にたどり着いた者ははるかに少なかった。ドーソン・シティは急成長し、1898年にユーコン準州が設置された。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Alberta and Saskatchewan become provinces",
+    "ko": "앨버타·서스캐처원 주 설립",
+    "zh": "阿尔伯塔和萨斯喀彻温建省",
+    "ja": "アルバータ州とサスカチュワン州の成立"
+   },
+   "description": {
+    "en": "Amid a massive wave of immigration to the Prairies promoted by Interior Minister Clifford Sifton, the provinces of Alberta and Saskatchewan were carved out of the North-West Territories on 1 September 1905. Settlers from Britain, the United States and Central and Eastern Europe, including many Ukrainians, turned the region into a major wheat-growing area.",
+    "ko": "내무장관 클리퍼드 시프턴이 장려한 프레리로의 대규모 이민 물결 속에서, 1905년 9월 1일 노스웨스트 준주에서 앨버타주와 서스캐처원주가 분리 설립되었다. 영국과 미국, 그리고 많은 우크라이나인을 포함한 중부·동부 유럽 출신 정착민들이 이 지역을 주요 밀 생산지로 바꾸어 놓았다.",
+    "zh": "在内政部长克利福德·西夫顿推动的大规模草原移民潮中，阿尔伯塔省和萨斯喀彻温省于1905年9月1日从西北地区划出设立。来自英国、美国以及中东欧（包括大量乌克兰人）的移民将这一地区变成了重要的小麦产区。",
+    "ja": "内務大臣クリフォード・シフトンが推進したプレーリーへの大規模な移民の波のなか、1905年9月1日に北西準州からアルバータ州とサスカチュワン州が分離・創設された。英国、米国、そして多くのウクライナ人を含む中・東欧からの入植者が、この地域を主要な小麦産地へと変えた。"
+   }
+  },
+  {
+   "year": 1914,
+   "qid": "Q6428056",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Komagata Maru incident",
+    "ko": "고마가타마루호 사건",
+    "zh": "驹形丸事件",
+    "ja": "駒形丸事件"
+   },
+   "description": {
+    "en": "In May 1914 the Japanese steamship Komagata Maru arrived in Vancouver with 376 passengers from British India, mostly Sikhs, challenging laws designed to exclude Asian immigrants. Most were denied entry and the ship was forced to return to India after two months, where a confrontation with British authorities at Budge Budge left passengers dead. The federal government formally apologised in 2016.",
+    "ko": "1914년 5월 일본 증기선 고마가타마루호가 대부분 시크교도인 영국령 인도 출신 승객 376명을 태우고 밴쿠버에 도착해 아시아계 이민을 막기 위한 법률에 도전했다. 대부분 입국이 거부되었고 배는 두 달 뒤 인도로 돌아가야 했으며, 그곳 버지버지에서 영국 당국과 충돌해 승객들이 숨졌다. 연방 정부는 2016년 공식 사과했다.",
+    "zh": "1914年5月，日本轮船“驹形丸”号载着376名来自英属印度、以锡克教徒为主的乘客抵达温哥华，挑战旨在排斥亚洲移民的法律。大多数乘客被拒绝入境，两个月后船只被迫返回印度，在巴吉巴吉与英国当局发生冲突，造成乘客死亡。联邦政府于2016年正式道歉。",
+    "ja": "1914年5月、日本の汽船駒形丸が、大半がシク教徒である英領インドからの乗客376人を乗せてバンクーバーに到着し、アジア系移民を締め出す法律に挑んだ。ほとんどが入国を拒否され、船は2か月後にインドへの帰還を強いられ、バッジ・バッジで英国当局と衝突して乗客に死者が出た。連邦政府は2016年に公式に謝罪した。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of Vimy Ridge",
+    "ko": "비미 리지 전투",
+    "zh": "维米岭战役",
+    "ja": "ヴィミー・リッジの戦い"
+   },
+   "description": {
+    "en": "Canada entered the First World War automatically with Britain in 1914. In April 1917 all four divisions of the Canadian Corps, fighting together for the first time, captured Vimy Ridge in northern France at a cost of more than 10,000 casualties. The victory became a symbol of national coming of age, though the heavy losses of the war also led to the Conscription Crisis of 1917, which bitterly divided English and French Canada.",
+    "ko": "캐나다는 1914년 영국과 함께 자동으로 제1차 세계대전에 참전했다. 1917년 4월 처음으로 함께 싸운 캐나다 군단의 4개 사단은 1만 명이 넘는 사상자를 내며 프랑스 북부의 비미 리지를 점령했다. 이 승리는 국가적 성숙의 상징이 되었지만, 전쟁의 막대한 손실은 영어권과 프랑스어권 캐나다를 극심하게 분열시킨 1917년 징병 위기로도 이어졌다.",
+    "zh": "1914年，加拿大随英国自动卷入第一次世界大战。1917年4月，加拿大军团的四个师首次并肩作战，以一万多人伤亡的代价攻占法国北部的维米岭。这场胜利成为国家走向成熟的象征，但战争的惨重损失也引发了1917年征兵危机，使英裔与法裔加拿大人严重对立。",
+    "ja": "カナダは1914年に英国とともに自動的に第一次世界大戦に参戦した。1917年4月、初めてそろって戦ったカナダ軍団の4個師団は、1万人を超える死傷者を出しながらフランス北部のヴィミー・リッジを奪取した。この勝利は国家としての成熟の象徴となったが、戦争の甚大な損失は英語系と仏語系のカナダを激しく分断した1917年の徴兵危機にもつながった。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": "Q502073",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Halifax Explosion",
+    "ko": "핼리팩스 대폭발",
+    "zh": "哈利法克斯大爆炸",
+    "ja": "ハリファックス大爆発"
+   },
+   "description": {
+    "en": "On 6 December 1917 the French munitions ship Mont-Blanc collided with the Norwegian vessel Imo in Halifax harbour and exploded, in one of the largest accidental man-made explosions before the nuclear age. About 2,000 people were killed and some 9,000 injured, and the Richmond district was flattened; aid from Boston is still commemorated with an annual Christmas tree gift.",
+    "ko": "1917년 12월 6일 핼리팩스항에서 프랑스 탄약선 몽블랑호가 노르웨이 선박 이모호와 충돌해 폭발했는데, 이는 핵 시대 이전 최대 규모의 인공 사고 폭발 가운데 하나였다. 약 2,000명이 숨지고 9,000명가량이 다쳤으며 리치먼드 지구가 초토화되었다. 보스턴의 원조는 지금도 매년 크리스마스트리를 보내는 것으로 기념된다.",
+    "zh": "1917年12月6日，法国弹药船“勃朗峰”号在哈利法克斯港与挪威船“伊莫”号相撞后爆炸，这是核时代以前规模最大的人为意外爆炸之一。约2000人遇难、约9000人受伤，里士满区被夷为平地；波士顿当年提供的援助至今仍以每年赠送圣诞树的方式受到纪念。",
+    "ja": "1917年12月6日、ハリファックス港でフランスの弾薬船モンブラン号がノルウェー船イモ号と衝突して爆発した。これは核時代以前で最大級の人為的な事故爆発であった。約2,000人が死亡し約9,000人が負傷、リッチモンド地区は壊滅した。ボストンからの援助は今も毎年クリスマスツリーを贈ることで記念されている。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Women win the federal vote",
+    "ko": "여성의 연방 선거권 획득",
+    "zh": "妇女获得联邦选举权",
+    "ja": "女性の連邦選挙権獲得"
+   },
+   "description": {
+    "en": "After Manitoba, Saskatchewan and Alberta granted women the vote in 1916, Parliament extended the federal franchise to most women over 21 in 1918. Many women, including Asian and Indigenous women, remained excluded by other discriminatory laws for decades; Quebec women gained the provincial vote only in 1940.",
+    "ko": "1916년 매니토바, 서스캐처원, 앨버타가 여성에게 투표권을 부여한 뒤, 1918년 의회는 21세 이상 대부분의 여성에게 연방 선거권을 확대했다. 그러나 아시아계와 원주민 여성 등 많은 여성은 다른 차별적 법률로 수십 년간 배제되었고, 퀘벡 여성은 1940년에야 주 선거권을 얻었다.",
+    "zh": "继1916年曼尼托巴、萨斯喀彻温和阿尔伯塔赋予妇女选举权之后，联邦议会于1918年将联邦选举权扩大到大多数21岁以上的女性。然而，包括亚裔和原住民女性在内的许多女性在此后数十年仍因其他歧视性法律而被排除在外；魁北克女性直到1940年才获得省级选举权。",
+    "ja": "1916年にマニトバ、サスカチュワン、アルバータが女性に選挙権を認めた後、1918年に議会は21歳以上の大半の女性に連邦選挙権を拡大した。しかしアジア系や先住民の女性など多くの女性は、他の差別的な法律によって数十年間排除され続け、ケベックの女性が州選挙権を得たのは1940年であった。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": "Q742731",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Winnipeg General Strike",
+    "ko": "위니펙 총파업",
+    "zh": "温尼伯大罢工",
+    "ja": "ウィニペグ・ゼネスト"
+   },
+   "description": {
+    "en": "In May 1919 some 30,000 workers in Winnipeg walked off the job in support of collective bargaining and better wages, paralysing the city for six weeks. The federal government arrested strike leaders, and on \"Bloody Saturday\", 21 June, the Royal North-West Mounted Police charged a crowd, killing two people. The strike shaped the Canadian labour movement and helped launch the political careers of several of its leaders.",
+    "ko": "1919년 5월 위니펙의 노동자 약 3만 명이 단체교섭권과 임금 인상을 요구하며 일손을 놓아 6주 동안 도시가 마비되었다. 연방 정부는 파업 지도자들을 체포했고, 6월 21일 ‘피의 토요일’에 왕립 북서기마경찰이 군중에게 돌격해 2명이 숨졌다. 이 파업은 캐나다 노동 운동의 방향을 형성했고 여러 지도자의 정치 경력의 출발점이 되었다.",
+    "zh": "1919年5月，温尼伯约3万名工人为争取集体谈判权和更高工资而罢工，使全城瘫痪六周。联邦政府逮捕了罢工领袖，6月21日“血腥星期六”，皇家西北骑警冲击人群，造成两人死亡。这次罢工塑造了加拿大的劳工运动，也成为其中几位领袖政治生涯的起点。",
+    "ja": "1919年5月、ウィニペグの労働者約3万人が団体交渉権と賃上げを求めて職場を放棄し、6週間にわたり都市は麻痺した。連邦政府はスト指導者を逮捕し、6月21日の「血の土曜日」には王立北西騎馬警察が群衆に突入して2人が死亡した。このストはカナダの労働運動の方向を形づくり、何人かの指導者の政治経歴の出発点ともなった。"
+   }
+  },
+  {
+   "year": 1922,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Insulin first used to treat diabetes",
+    "ko": "인슐린, 당뇨병 치료에 처음 사용",
+    "zh": "胰岛素首次用于治疗糖尿病",
+    "ja": "インスリンの初の糖尿病治療"
+   },
+   "description": {
+    "en": "At the University of Toronto, Frederick Banting and Charles Best, working with J.J.R. Macleod and biochemist James Collip, isolated insulin in 1921. In January 1922 it was successfully used to treat 14-year-old Leonard Thompson, transforming diabetes from a fatal disease into a manageable one. Banting and Macleod received the Nobel Prize in Physiology or Medicine in 1923.",
+    "ko": "토론토 대학교의 프레더릭 밴팅과 찰스 베스트는 J. J. R. 매클라우드, 생화학자 제임스 콜립과 함께 1921년 인슐린을 분리해 냈다. 1922년 1월 14세 소년 레너드 톰프슨의 치료에 성공하면서 당뇨병은 치명적인 병에서 관리 가능한 병으로 바뀌었다. 밴팅과 매클라우드는 1923년 노벨 생리의학상을 받았다.",
+    "zh": "多伦多大学的弗雷德里克·班廷和查尔斯·贝斯特与J·J·R·麦克劳德及生物化学家詹姆斯·科利普合作，于1921年分离出胰岛素。1922年1月，胰岛素成功用于治疗14岁的伦纳德·汤普森，使糖尿病从致命疾病变为可控疾病。班廷和麦克劳德获得1923年诺贝尔生理学或医学奖。",
+    "ja": "トロント大学のフレデリック・バンティングとチャールズ・ベストは、J・J・R・マクラウドや生化学者ジェームズ・コリップとともに1921年にインスリンを分離した。1922年1月には14歳のレナード・トンプソンの治療に成功し、糖尿病は致命的な病から管理可能な病へと変わった。バンティングとマクラウドは1923年にノーベル生理学・医学賞を受賞した。"
+   }
+  },
+  {
+   "year": 1923,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Chinese Immigration Act",
+    "ko": "중국인 이민법",
+    "zh": "《华人移民法》",
+    "ja": "中国人移民法"
+   },
+   "description": {
+    "en": "After decades of a head tax on Chinese immigrants, Parliament passed the Chinese Immigration Act on 1 July 1923, which barred almost all Chinese immigration; Chinese Canadians called the day \"Humiliation Day\". The act was repealed in 1947, and in 2006 the federal government apologised for the head tax and exclusion.",
+    "ko": "수십 년간 중국인 이민자에게 인두세를 부과해 온 의회는 1923년 7월 1일 거의 모든 중국인의 이민을 막는 중국인 이민법을 통과시켰고, 중국계 캐나다인은 이날을 ‘굴욕의 날’이라 불렀다. 이 법은 1947년 폐지되었으며, 2006년 연방 정부는 인두세와 이민 배제에 대해 사과했다.",
+    "zh": "在对华人移民征收人头税数十年之后，联邦议会于1923年7月1日通过《华人移民法》，几乎禁止了所有华人移民，华裔加拿大人称这一天为“耻辱日”。该法于1947年废除，2006年联邦政府就人头税和排华政策正式道歉。",
+    "ja": "中国人移民に人頭税を課してきた数十年の後、議会は1923年7月1日にほぼすべての中国人の移民を禁じる中国人移民法を可決し、中国系カナダ人はこの日を「屈辱の日」と呼んだ。この法律は1947年に廃止され、2006年に連邦政府は人頭税と移民排斥について謝罪した。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "The Persons Case",
+    "ko": "‘퍼슨스’ 사건",
+    "zh": "“人”案",
+    "ja": "パーソンズ事件"
+   },
+   "description": {
+    "en": "Five Alberta women, known as the Famous Five, asked whether women were \"persons\" eligible for appointment to the Senate. Overturning the Supreme Court of Canada, the Judicial Committee of the Privy Council in London ruled in October 1929 that they were, describing the constitution as \"a living tree capable of growth and expansion\".",
+    "ko": "‘유명한 다섯 사람’으로 알려진 앨버타의 여성 다섯 명은 여성이 상원 의원에 임명될 수 있는 ‘사람(person)’인지 물었다. 런던의 추밀원 사법위원회는 캐나다 대법원의 판결을 뒤집고 1929년 10월 여성도 ‘사람’이라고 판결하며, 헌법을 ‘성장하고 확장할 수 있는 살아 있는 나무’라고 표현했다.",
+    "zh": "被称为“著名五女杰”的五位阿尔伯塔女性提出疑问：女性是否属于有资格被任命为参议员的“人”。1929年10月，伦敦枢密院司法委员会推翻加拿大最高法院的判决，裁定女性属于“人”，并把宪法形容为“一棵能够生长和延展的活树”。",
+    "ja": "「有名な5人」として知られるアルバータの女性5人は、女性が上院議員に任命されうる「人（パーソン）」に当たるかを問うた。ロンドンの枢密院司法委員会はカナダ最高裁の判断を覆し、1929年10月に女性は「人」であると判決し、憲法を「成長し拡大しうる生きた木」と表現した。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": "Q726501",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Great Depression and Prairie drought",
+    "ko": "대공황과 프레리 가뭄",
+    "zh": "大萧条与草原大旱",
+    "ja": "大恐慌とプレーリーの干ばつ"
+   },
+   "description": {
+    "en": "The collapse of world trade after 1929 hit Canada's export economy severely, and unemployment reached about a quarter of the workforce by 1933. On the Prairies, years of drought and dust storms in the \"Dirty Thirties\" ruined farms. The crisis gave rise to new parties such as the CCF and Social Credit and to demands for a federal social safety net.",
+    "ko": "1929년 이후 세계 무역의 붕괴는 수출 의존적인 캐나다 경제에 큰 타격을 주어, 1933년에는 노동력의 약 4분의 1이 실업 상태였다. 프레리에서는 ‘더러운 30년대’의 수년에 걸친 가뭄과 모래 폭풍으로 농장이 황폐해졌다. 이 위기는 CCF와 사회신용당 같은 신당의 출현과 연방 사회 안전망에 대한 요구를 낳았다.",
+    "zh": "1929年后世界贸易崩溃，严重打击了依赖出口的加拿大经济，到1933年失业人数约占劳动力的四分之一。在草原地区，“肮脏的三十年代”连年的干旱和沙尘暴使农场破产。这场危机催生了合作共和联盟（CCF）和社会信用党等新政党，以及建立联邦社会保障网的诉求。",
+    "ja": "1929年以降の世界貿易の崩壊は輸出依存のカナダ経済に深刻な打撃を与え、1933年には労働力の約4分の1が失業した。プレーリーでは「汚れた30年代」の長年の干ばつと砂嵐で農場が荒廃した。この危機はCCFや社会信用党などの新党の誕生と、連邦の社会的セーフティネットを求める声を生んだ。"
+   }
+  },
+  {
+   "year": 1931,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Statute of Westminster grants legislative independence",
+    "ko": "웨스트민스터 헌장, 입법 독립 부여",
+    "zh": "《威斯敏斯特法令》赋予立法独立",
+    "ja": "ウェストミンスター憲章による立法上の独立"
+   },
+   "description": {
+    "en": "The British Parliament's Statute of Westminster, enacted in December 1931, gave Canada and the other dominions full legislative autonomy, ending Britain's power to legislate for them without consent. At Canada's request, amending the British North America Acts remained with Westminster until 1982, because federal and provincial governments could not agree on an amending formula.",
+    "ko": "1931년 12월 제정된 영국 의회의 웨스트민스터 헌장은 캐나다와 다른 자치령에 완전한 입법 자율권을 부여해, 영국이 동의 없이 이들을 위해 입법할 권한을 없앴다. 다만 연방과 주 정부가 개정 방식에 합의하지 못했기 때문에 캐나다의 요청으로 영국령 북아메리카법의 개정 권한은 1982년까지 영국 의회에 남았다.",
+    "zh": "1931年12月英国议会颁布的《威斯敏斯特法令》赋予加拿大及其他自治领完全的立法自主权，结束了英国未经同意为其立法的权力。由于联邦和各省政府无法就修宪程序达成一致，应加拿大的要求，修改《英属北美法案》的权力仍保留在英国议会，直至1982年。",
+    "ja": "1931年12月に制定された英国議会のウェストミンスター憲章は、カナダなどの自治領に完全な立法上の自律を与え、英国が同意なしにそれらのために立法する権限を終わらせた。ただし連邦と州が改正手続きで合意できなかったため、カナダの要請により英領北アメリカ法の改正権は1982年まで英国議会に残された。"
+   }
+  },
+  {
+   "year": 1939,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Canada enters the Second World War",
+    "ko": "캐나다의 제2차 세계대전 참전",
+    "zh": "加拿大参加第二次世界大战",
+    "ja": "カナダの第二次世界大戦参戦"
+   },
+   "description": {
+    "en": "Exercising its independent foreign policy, Canada declared war on Germany on 10 September 1939, a week after Britain. Over one million Canadians served in uniform; the Royal Canadian Navy played a major role in the Battle of the Atlantic, the British Commonwealth Air Training Plan trained aircrew on Canadian soil, and Canadian industry became a key supplier to the Allies.",
+    "ko": "독자적인 외교 정책을 행사한 캐나다는 영국보다 일주일 늦은 1939년 9월 10일 독일에 선전포고했다. 100만 명이 넘는 캐나다인이 군에 복무했고, 캐나다 해군은 대서양 전투에서 큰 역할을 했으며, 영연방 항공 훈련 계획에 따라 캐나다 땅에서 항공 요원이 양성되었고, 캐나다 산업은 연합국의 핵심 공급원이 되었다.",
+    "zh": "加拿大行使独立的外交权，于1939年9月10日、即英国宣战一周后对德国宣战。一百多万加拿大人参军服役；加拿大皇家海军在大西洋之战中发挥了重要作用，英联邦航空训练计划在加拿大本土培养飞行人员，加拿大工业也成为盟国的重要供应来源。",
+    "ja": "独自の外交権を行使したカナダは、英国の1週間後の1939年9月10日にドイツに宣戦した。100万人を超えるカナダ人が軍務に就き、カナダ海軍は大西洋の戦いで大きな役割を果たし、英連邦航空訓練計画によりカナダ国内で航空要員が養成され、カナダの産業は連合国の重要な供給源となった。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Internment of Japanese Canadians",
+    "ko": "일본계 캐나다인 강제 수용",
+    "zh": "日裔加拿大人遭拘禁",
+    "ja": "日系カナダ人の強制収容"
+   },
+   "description": {
+    "en": "After Japan's attack on Pearl Harbor and Hong Kong, where Canadian troops were captured in December 1941, the federal government ordered more than 20,000 Japanese Canadians removed from the British Columbia coast in 1942. Their property was seized and sold, and many were held in interior camps or sent to work on farms; after the war some were deported to Japan. The government apologised and provided redress in 1988.",
+    "ko": "1941년 12월 일본이 진주만과 캐나다군이 포로가 된 홍콩을 공격한 뒤, 연방 정부는 1942년 2만 명이 넘는 일본계 캐나다인을 브리티시컬럼비아 해안에서 강제 이주시켰다. 이들의 재산은 몰수·매각되었고, 많은 이가 내륙 수용소에 갇히거나 농장 노동에 보내졌으며, 전후 일부는 일본으로 추방되었다. 정부는 1988년 사과하고 배상했다.",
+    "zh": "1941年12月日本袭击珍珠港和香港（加拿大守军在香港被俘）后，联邦政府于1942年下令将两万多名日裔加拿大人迁离不列颠哥伦比亚沿海地区。他们的财产被没收拍卖，许多人被关押在内陆营地或被派往农场劳动，战后部分人还被驱逐到日本。政府于1988年道歉并作出赔偿。",
+    "ja": "1941年12月に日本が真珠湾と、カナダ軍が捕虜となった香港を攻撃した後、連邦政府は1942年に2万人を超える日系カナダ人をブリティッシュコロンビア沿岸から強制移動させた。財産は没収・売却され、多くは内陸の収容所に入れられるか農場労働に送られ、戦後には一部が日本へ追放された。政府は1988年に謝罪し補償を行った。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Juno Beach and the liberation campaign",
+    "ko": "주노 해변 상륙과 해방 작전",
+    "zh": "朱诺海滩登陆与解放战役",
+    "ja": "ジュノー・ビーチ上陸と解放作戦"
+   },
+   "description": {
+    "en": "On 6 June 1944 the 3rd Canadian Infantry Division landed on Juno Beach in Normandy, one of the five Allied D-Day beaches. Canadian forces then fought through Normandy and along the Channel coast, and in 1944–1945 led the liberation of much of the Netherlands. Heavy losses in 1944 also produced a second conscription crisis at home.",
+    "ko": "1944년 6월 6일 캐나다 제3보병사단은 연합군 디데이 상륙 해변 다섯 곳 가운데 하나인 노르망디의 주노 해변에 상륙했다. 캐나다군은 이후 노르망디와 영국 해협 연안을 따라 싸웠고, 1944~1945년 네덜란드 대부분의 해방을 주도했다. 1944년의 큰 손실은 국내에서 두 번째 징병 위기를 불러왔다.",
+    "zh": "1944年6月6日，加拿大第3步兵师在诺曼底的朱诺海滩登陆，这是盟军诺曼底登陆的五个海滩之一。加拿大部队随后在诺曼底和英吉利海峡沿岸作战，并在1944至1945年间主导解放了荷兰大部分地区。1944年的惨重伤亡也在国内引发了第二次征兵危机。",
+    "ja": "1944年6月6日、カナダ第3歩兵師団は連合軍のDデイ上陸地点5か所の一つであるノルマンディーのジュノー・ビーチに上陸した。カナダ軍はその後ノルマンディーと英仏海峡沿岸で戦い、1944～1945年にはオランダの大部分の解放を主導した。1944年の大きな損失は国内で2度目の徴兵危機を招いた。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Gouzenko affair",
+    "ko": "구젠코 사건",
+    "zh": "古琴科事件",
+    "ja": "グゼンコ事件"
+   },
+   "description": {
+    "en": "In September 1945 Igor Gouzenko, a cipher clerk at the Soviet embassy in Ottawa, defected with documents revealing a Soviet espionage network in Canada, including efforts to obtain atomic secrets. The revelations led to arrests and a royal commission and are often seen as one of the opening events of the Cold War.",
+    "ko": "1945년 9월 오타와 주재 소련 대사관의 암호 담당 직원 이고르 구젠코는 원자력 기밀 획득 시도를 포함한 캐나다 내 소련 첩보망을 폭로하는 문서를 가지고 망명했다. 이 폭로로 체포와 왕립 조사위원회가 이어졌으며, 이 사건은 흔히 냉전의 서막을 연 사건 가운데 하나로 여겨진다.",
+    "zh": "1945年9月，苏联驻渥太华大使馆的密码员伊戈尔·古琴科携带文件叛逃，这些文件揭露了苏联在加拿大的间谍网络，包括企图获取原子弹机密的活动。这些揭露导致多人被捕并成立了皇家调查委员会，该事件常被视为冷战的开端事件之一。",
+    "ja": "1945年9月、オタワのソ連大使館の暗号係イーゴリ・グゼンコは、原子力の機密入手の試みを含むカナダ国内のソ連スパイ網を暴露する文書を持って亡命した。この暴露により逮捕や王立調査委員会が続き、事件はしばしば冷戦の幕開けを告げた出来事の一つとみなされる。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Canadian Citizenship Act",
+    "ko": "캐나다 시민권법",
+    "zh": "《加拿大公民法》",
+    "ja": "カナダ市民権法"
+   },
+   "description": {
+    "en": "The Canadian Citizenship Act, in force from 1 January 1947, created Canadian citizenship as a status distinct from that of British subject for the first time. Prime Minister William Lyon Mackenzie King received the first certificate in a ceremony in Ottawa.",
+    "ko": "1947년 1월 1일 시행된 캐나다 시민권법은 처음으로 영국 신민과 구별되는 캐나다 시민권이라는 지위를 만들었다. 윌리엄 라이언 매켄지 킹 총리는 오타와의 기념식에서 첫 번째 증서를 받았다.",
+    "zh": "1947年1月1日生效的《加拿大公民法》首次确立了有别于英国臣民身份的加拿大公民身份。总理威廉·莱昂·麦肯齐·金在渥太华的仪式上领取了第一张公民证书。",
+    "ja": "1947年1月1日に施行されたカナダ市民権法は、英国臣民とは区別されるカナダ市民という地位を初めて創設した。ウィリアム・ライオン・マッケンジー・キング首相はオタワでの式典で最初の証書を受け取った。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Newfoundland joins Canada; NATO founded",
+    "ko": "뉴펀들랜드의 캐나다 가입과 NATO 창설",
+    "zh": "纽芬兰加入加拿大与北约成立",
+    "ja": "ニューファンドランドのカナダ加盟とNATO創設"
+   },
+   "description": {
+    "en": "After two referendums in 1948, in which confederation narrowly defeated a return to responsible government, Newfoundland joined Canada as its tenth province on 31 March 1949, with Joey Smallwood as premier. Weeks later Canada became a founding member of the North Atlantic Treaty Organization.",
+    "ko": "1948년 두 차례의 국민투표에서 연방 가입이 자치 정부 복귀를 근소한 차이로 이긴 뒤, 뉴펀들랜드는 1949년 3월 31일 캐나다의 열 번째 주가 되었고 조이 스몰우드가 주 총리가 되었다. 몇 주 뒤 캐나다는 북대서양 조약 기구의 창립 회원국이 되었다.",
+    "zh": "在1948年的两次公投中，加入联邦的方案以微弱优势胜过恢复责任政府的方案，纽芬兰于1949年3月31日成为加拿大第十个省，乔伊·斯莫尔伍德出任省长。几周后，加拿大成为北大西洋公约组织的创始成员国。",
+    "ja": "1948年の2度の住民投票で連邦加盟が責任政府復帰を僅差で上回った結果、ニューファンドランドは1949年3月31日にカナダの10番目の州となり、ジョーイ・スモールウッドが州首相となった。数週間後、カナダは北大西洋条約機構の原加盟国となった。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Canada in the Korean War",
+    "ko": "캐나다의 한국전쟁 참전",
+    "zh": "加拿大参加朝鲜战争",
+    "ja": "カナダの朝鮮戦争参戦"
+   },
+   "description": {
+    "en": "Canada contributed ground, naval and air forces to the United Nations command in the Korean War, with about 26,000 Canadians serving in the conflict. Canadian troops fought notably at Kapyong in April 1951, and 516 Canadians died in the war and its aftermath.",
+    "ko": "캐나다는 한국전쟁에서 유엔군 사령부에 지상·해상·항공 전력을 보냈으며, 약 2만 6천 명의 캐나다인이 참전했다. 캐나다군은 특히 1951년 4월 가평 전투에서 활약했고, 전쟁과 그 직후에 516명의 캐나다인이 목숨을 잃었다.",
+    "zh": "加拿大在朝鲜战争中向联合国军司令部派出陆、海、空部队，约2.6万名加拿大人参战。加拿大军队尤其在1951年4月的加平战斗中表现突出，共有516名加拿大人在战争及其后续期间牺牲。",
+    "ja": "カナダは朝鮮戦争で国連軍司令部に陸海空の戦力を派遣し、約2万6,000人のカナダ人が従軍した。カナダ軍はとくに1951年4月の加平の戦いで活躍し、戦争とその直後に516人のカナダ人が命を落とした。"
+   }
+  },
+  {
+   "year": 1956,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Lester Pearson and UN peacekeeping",
+    "ko": "레스터 피어슨과 유엔 평화유지군",
+    "zh": "莱斯特·皮尔逊与联合国维和部队",
+    "ja": "レスター・ピアソンと国連平和維持軍"
+   },
+   "description": {
+    "en": "During the Suez Crisis, External Affairs Minister Lester B. Pearson proposed a United Nations Emergency Force to separate the warring parties and allow British, French and Israeli forces to withdraw. The first large UN peacekeeping force was deployed, and Pearson received the Nobel Peace Prize in 1957; peacekeeping became a lasting part of Canada's international identity.",
+    "ko": "수에즈 위기 당시 레스터 B. 피어슨 외무장관은 교전 당사자들을 떼어 놓고 영국·프랑스·이스라엘군이 철수할 수 있도록 유엔 긴급군 창설을 제안했다. 최초의 대규모 유엔 평화유지군이 배치되었고 피어슨은 1957년 노벨 평화상을 받았다. 평화유지 활동은 이후 캐나다의 국제적 정체성의 일부가 되었다.",
+    "zh": "苏伊士运河危机期间，外交部长莱斯特·B·皮尔逊提议组建联合国紧急部队，以隔开交战各方，使英国、法国和以色列军队得以撤出。第一支大规模联合国维和部队由此部署，皮尔逊于1957年获得诺贝尔和平奖；维和行动从此成为加拿大国际形象的持久组成部分。",
+    "ja": "スエズ危機の際、レスター・B・ピアソン外相は交戦当事者を引き離し、英仏とイスラエルの軍が撤退できるよう国連緊急軍の創設を提案した。初の大規模な国連平和維持軍が展開され、ピアソンは1957年にノーベル平和賞を受賞した。平和維持活動はカナダの国際的アイデンティティの一部として定着した。"
+   }
+  },
+  {
+   "year": 1959,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "St. Lawrence Seaway opens",
+    "ko": "세인트로렌스 수로 개통",
+    "zh": "圣劳伦斯航道开通",
+    "ja": "セントローレンス海路の開通"
+   },
+   "description": {
+    "en": "Built jointly by Canada and the United States, the St. Lawrence Seaway opened in 1959, with Queen Elizabeth II and President Dwight Eisenhower presiding at its dedication. Its locks and channels allowed ocean-going ships to sail from the Atlantic to the Great Lakes, though construction flooded several communities and affected the Mohawk of Akwesasne and Kahnawake.",
+    "ko": "캐나다와 미국이 공동으로 건설한 세인트로렌스 수로가 1959년 개통되었고, 엘리자베스 2세 여왕과 드와이트 아이젠하워 대통령이 개통식을 주재했다. 갑문과 수로 덕분에 원양선이 대서양에서 오대호까지 항해할 수 있게 되었지만, 공사로 여러 마을이 수몰되고 아크웨사스네와 카나와케의 모호크족이 영향을 받았다.",
+    "zh": "由加拿大和美国联合修建的圣劳伦斯航道于1959年开通，伊丽莎白二世女王和德怀特·艾森豪威尔总统主持了落成仪式。其船闸和航道使远洋船只能够从大西洋驶入五大湖，但工程淹没了若干社区，也影响了阿克韦萨斯内和卡纳瓦克的莫霍克人。",
+    "ja": "カナダと米国が共同で建設したセントローレンス海路は1959年に開通し、エリザベス2世女王とドワイト・アイゼンハワー大統領が開通式を主宰した。閘門と水路により外洋船が大西洋から五大湖まで航行できるようになったが、工事で複数の集落が水没し、アクウェサスネとカナワケのモホークにも影響が及んだ。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Quiet Revolution begins in Quebec",
+    "ko": "퀘벡의 조용한 혁명 시작",
+    "zh": "魁北克“寂静革命”开始",
+    "ja": "ケベックの「静かな革命」の始まり"
+   },
+   "description": {
+    "en": "The election of Jean Lesage's Liberals in June 1960, under the slogan \"Il faut que ça change\", ended the conservative era of Maurice Duplessis. Quebec rapidly secularised education and health care, nationalised hydroelectricity under Hydro-Québec and built a modern provincial state, while a new Québécois nationalism emerged that fed the later sovereignty movement.",
+    "ko": "1960년 6월 ‘변해야 한다’는 구호를 내건 장 를사주의 자유당이 승리하면서 모리스 뒤플레시의 보수 시대가 끝났다. 퀘벡은 교육과 보건을 빠르게 세속화하고 수력 발전을 하이드로퀘벡으로 국유화하며 현대적인 주 정부를 건설했고, 동시에 새로운 퀘벡 민족주의가 등장해 훗날 주권 운동의 토대가 되었다.",
+    "zh": "1960年6月，让·勒萨热领导的自由党以“必须改变”为口号赢得选举，结束了莫里斯·迪普莱西的保守时代。魁北克迅速推动教育和医疗的世俗化，将水电收归魁北克水电公司国有，建立起现代化的省级政府；与此同时，一种新的魁北克民族主义兴起，为后来的主权运动提供了土壤。",
+    "ja": "1960年6月、「変わらねばならない」を掲げたジャン・ルサージュの自由党が選挙に勝ち、モーリス・デュプレシの保守的な時代が終わった。ケベックは教育と医療を急速に世俗化し、水力発電をイドロ・ケベックのもとで国有化して近代的な州政府を築き、同時に新たなケベック・ナショナリズムが生まれてのちの主権運動の土壌となった。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Status First Nations gain the federal vote",
+    "ko": "지위 원주민의 연방 선거권 획득",
+    "zh": "具身份的第一民族获得联邦选举权",
+    "ja": "地位を持つ先住民の連邦選挙権獲得"
+   },
+   "description": {
+    "en": "Under Prime Minister John Diefenbaker, Parliament granted Status Indians the right to vote in federal elections in 1960 without having to give up their status. The same year Diefenbaker's government enacted the Canadian Bill of Rights, a federal statute protecting basic freedoms.",
+    "ko": "존 디펜베이커 총리 시기인 1960년, 의회는 지위를 가진 인디언이 그 지위를 포기하지 않고도 연방 선거에서 투표할 수 있는 권리를 부여했다. 같은 해 디펜베이커 정부는 기본적 자유를 보호하는 연방 법률인 캐나다 권리장전을 제정했다.",
+    "zh": "在约翰·迪芬贝克总理任内，联邦议会于1960年赋予具身份的印第安人在不放弃身份的情况下参加联邦选举投票的权利。同年，迪芬贝克政府颁布了保护基本自由的联邦法律《加拿大权利法案》。",
+    "ja": "ジョン・ディーフェンベーカー首相のもとで、議会は1960年に地位を持つインディアンに対し、その地位を放棄せずに連邦選挙で投票する権利を認めた。同年、ディーフェンベーカー政権は基本的自由を保護する連邦法であるカナダ権利章典を制定した。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Medicare in Saskatchewan",
+    "ko": "서스캐처원의 공공 의료보험",
+    "zh": "萨斯喀彻温省的全民医保",
+    "ja": "サスカチュワン州の公的医療保険"
+   },
+   "description": {
+    "en": "Saskatchewan's CCF government, building on Tommy Douglas's plans, introduced the first universal, publicly funded medical insurance in North America on 1 July 1962, despite a 23-day strike by doctors. Its success led to the federal Medical Care Act of 1966, and universal health care became one of Canada's most cherished institutions.",
+    "ko": "토미 더글러스의 구상을 바탕으로 서스캐처원의 CCF 정부는 의사들의 23일간의 파업에도 불구하고 1962년 7월 1일 북아메리카 최초의 보편적 공공 의료보험을 도입했다. 그 성공은 1966년 연방 의료보장법으로 이어졌고, 보편적 의료 제도는 캐나다인이 가장 소중히 여기는 제도 가운데 하나가 되었다.",
+    "zh": "萨斯喀彻温省的合作共和联盟政府以汤米·道格拉斯的构想为基础，不顾医生长达23天的罢工，于1962年7月1日推出北美首个全民、公共资助的医疗保险。其成功促成了1966年联邦《医疗保健法》，全民医疗由此成为加拿大人最珍视的制度之一。",
+    "ja": "トミー・ダグラスの構想を土台に、サスカチュワン州のCCF政権は医師による23日間のストライキにもかかわらず、1962年7月1日に北アメリカ初の普遍的な公的医療保険を導入した。その成功は1966年の連邦医療保障法につながり、国民皆保険はカナダ人が最も大切にする制度の一つとなった。"
+   }
+  },
+  {
+   "year": 1965,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Maple Leaf flag adopted",
+    "ko": "단풍잎 국기 채택",
+    "zh": "采用枫叶旗",
+    "ja": "メープルリーフ旗の採用"
+   },
+   "description": {
+    "en": "After a bitter parliamentary debate initiated by Prime Minister Lester Pearson, the red-and-white Maple Leaf flag replaced the Red Ensign and was raised for the first time on Parliament Hill on 15 February 1965. It quickly became the country's most recognisable symbol.",
+    "ko": "레스터 피어슨 총리가 시작한 격렬한 의회 논쟁 끝에, 적백색의 단풍잎 국기가 레드 엔사인을 대체해 1965년 2월 15일 국회의사당 언덕에 처음 게양되었다. 이 국기는 곧 캐나다의 가장 잘 알려진 상징이 되었다.",
+    "zh": "在莱斯特·皮尔逊总理发起的激烈议会辩论之后，红白相间的枫叶旗取代了红船旗，于1965年2月15日首次在国会山升起，并很快成为加拿大最具辨识度的象征。",
+    "ja": "レスター・ピアソン首相が始めた激しい議会論争の末、赤と白のメープルリーフ旗がレッド・エンサインに代わり、1965年2月15日に国会議事堂の丘で初めて掲揚された。この旗はすぐにカナダで最もよく知られる象徴となった。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": "Q1344988",
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Centennial and Expo 67",
+    "ko": "연방 100주년과 몬트리올 엑스포 67",
+    "zh": "建国百年与1967年世博会",
+    "ja": "建国百年と万博エキスポ67"
+   },
+   "description": {
+    "en": "Canada celebrated the centennial of Confederation in 1967 with the World's Fair Expo 67 in Montreal, which drew some 50 million visits and showcased bold architecture such as Habitat 67. The same year, French President Charles de Gaulle's cry of \"Vive le Québec libre!\" from Montreal city hall caused a diplomatic incident.",
+    "ko": "캐나다는 1967년 연방 100주년을 몬트리올 세계박람회 엑스포 67로 기념했는데, 약 5천만 명이 방문했고 해비타트 67 같은 대담한 건축이 선보였다. 같은 해 샤를 드골 프랑스 대통령이 몬트리올 시청에서 ‘자유 퀘벡 만세!’를 외쳐 외교 문제가 되었다.",
+    "zh": "1967年，加拿大以在蒙特利尔举办的1967年世界博览会庆祝联邦成立一百周年，博览会吸引了约5000万人次参观，并展示了“栖息地67”等大胆的建筑。同年，法国总统夏尔·戴高乐在蒙特利尔市政厅高呼“自由魁北克万岁！”，引发外交风波。",
+    "ja": "カナダは1967年、連邦結成100周年をモントリオール万国博覧会エキスポ67で祝い、約5,000万人が訪れ、アビタ67のような大胆な建築が披露された。同年、フランスのシャルル・ド・ゴール大統領がモントリオール市庁舎で「自由ケベック万歳！」と叫び、外交問題となった。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Official Languages Act",
+    "ko": "공용어법",
+    "zh": "《官方语言法》",
+    "ja": "公用語法"
+   },
+   "description": {
+    "en": "Following the Royal Commission on Bilingualism and Biculturalism, Pierre Elliott Trudeau's government passed the Official Languages Act, making English and French equal official languages of the federal government and guaranteeing federal services in both. It became a cornerstone of Canadian national policy.",
+    "ko": "이중언어·이중문화 왕립위원회의 권고에 따라 피에르 엘리엇 트뤼도 정부는 공용어법을 통과시켜 영어와 프랑스어를 연방 정부의 동등한 공용어로 정하고 두 언어로 연방 서비스를 보장했다. 이 법은 캐나다 국가 정책의 초석이 되었다.",
+    "zh": "根据双语与双文化皇家委员会的建议，皮埃尔·埃利奥特·特鲁多政府通过《官方语言法》，规定英语和法语为联邦政府地位平等的官方语言，并保证以两种语言提供联邦服务。该法成为加拿大国家政策的基石。",
+    "ja": "二言語・二文化主義に関する王立委員会の勧告を受け、ピエール・エリオット・トルドー政権は公用語法を成立させ、英語とフランス語を連邦政府の対等な公用語とし、両言語での連邦サービスを保障した。この法律はカナダの国家政策の礎となった。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": "Q27702",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "October Crisis",
+    "ko": "10월 위기",
+    "zh": "十月危机",
+    "ja": "十月危機"
+   },
+   "description": {
+    "en": "In October 1970 cells of the Front de libération du Québec kidnapped British diplomat James Cross and Quebec labour minister Pierre Laporte. At Quebec's request, the federal government invoked the War Measures Act, the only peacetime use of the law, and nearly 500 people were arrested without charge. Laporte was murdered; Cross was released in December in exchange for the kidnappers' safe passage to Cuba.",
+    "ko": "1970년 10월 퀘벡해방전선(FLQ)의 조직들은 영국 외교관 제임스 크로스와 퀘벡 노동장관 피에르 라포르트를 납치했다. 퀘벡의 요청에 따라 연방 정부는 평시 유일하게 전시조치법을 발동했고, 약 500명이 기소 없이 체포되었다. 라포르트는 살해되었고, 크로스는 12월 납치범들의 쿠바 망명을 보장하는 조건으로 풀려났다.",
+    "zh": "1970年10月，魁北克解放阵线的小组绑架了英国外交官詹姆斯·克罗斯和魁北克劳工部长皮埃尔·拉波特。应魁北克的请求，联邦政府援引《战时措施法》，这是该法唯一一次在和平时期使用，近500人未经指控被捕。拉波特遇害；克罗斯于12月获释，作为交换，绑架者获准安全前往古巴。",
+    "ja": "1970年10月、ケベック解放戦線（FLQ）の細胞は英国の外交官ジェームズ・クロスとケベック州労働大臣ピエール・ラポルトを誘拐した。ケベックの要請を受けて連邦政府は戦時措置法を発動し（平時における唯一の発動）、500人近くが起訴なしに逮捕された。ラポルトは殺害され、クロスは誘拐犯のキューバへの安全な出国と引き換えに12月に解放された。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Multiculturalism policy",
+    "ko": "다문화주의 정책",
+    "zh": "多元文化政策",
+    "ja": "多文化主義政策"
+   },
+   "description": {
+    "en": "In October 1971 Prime Minister Pierre Trudeau announced a policy of multiculturalism within a bilingual framework, the first such official policy in the world. It recognised the contributions of Canadians of all origins and was later entrenched in the 1982 Charter and the 1988 Canadian Multiculturalism Act.",
+    "ko": "1971년 10월 피에르 트뤼도 총리는 이중언어 틀 안에서의 다문화주의 정책을 발표했는데, 이는 세계 최초의 공식 다문화주의 정책이었다. 이 정책은 모든 출신의 캐나다인의 기여를 인정했으며, 훗날 1982년 헌장과 1988년 캐나다 다문화주의법에 명문화되었다.",
+    "zh": "1971年10月，皮埃尔·特鲁多总理宣布在双语框架内实行多元文化政策，这是世界上第一个此类官方政策。该政策承认各种族裔背景的加拿大人所作的贡献，后来被写入1982年《宪章》和1988年《加拿大多元文化法》。",
+    "ja": "1971年10月、ピエール・トルドー首相は二言語の枠組みにおける多文化主義政策を発表した。これは世界初の公式な多文化主義政策であった。あらゆる出自のカナダ人の貢献を認めるこの政策は、のちに1982年の憲章と1988年のカナダ多文化主義法に明記された。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Summit Series against the Soviet Union",
+    "ko": "소련과의 서밋 시리즈",
+    "zh": "对苏联冰球超级系列赛",
+    "ja": "対ソ連サミット・シリーズ"
+   },
+   "description": {
+    "en": "In September 1972 a team of Canadian NHL professionals played an eight-game ice hockey series against the Soviet national team. Paul Henderson's goal in the final minute of the last game in Moscow gave Canada a narrow series victory, a moment that millions watched and that remains a landmark of Canadian sporting memory.",
+    "ko": "1972년 9월 캐나다 NHL 프로 선수들로 구성된 팀은 소련 대표팀과 8경기 아이스하키 시리즈를 치렀다. 모스크바에서 열린 마지막 경기 종료 직전 폴 헨더슨의 골로 캐나다가 시리즈를 근소하게 이겼으며, 수백만 명이 지켜본 이 순간은 캐나다 스포츠 기억의 이정표로 남아 있다.",
+    "zh": "1972年9月，由加拿大NHL职业球员组成的球队与苏联国家队进行了八场冰球系列赛。保罗·亨德森在莫斯科最后一场比赛终场前一分钟的进球使加拿大以微弱优势赢得系列赛，这一被数百万人观看的瞬间至今仍是加拿大体育记忆中的里程碑。",
+    "ja": "1972年9月、カナダのNHLのプロ選手によるチームはソ連代表と8試合のアイスホッケー・シリーズを戦った。モスクワでの最終戦の残り1分でのポール・ヘンダーソンのゴールでカナダが僅差でシリーズを制し、数百万人が見守ったこの瞬間はカナダのスポーツの記憶の画期として残っている。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Parti Québécois elected; Montreal Olympics",
+    "ko": "퀘벡당 집권과 몬트리올 올림픽",
+    "zh": "魁北克人党执政与蒙特利尔奥运会",
+    "ja": "ケベック党の政権獲得とモントリオール五輪"
+   },
+   "description": {
+    "en": "Montreal hosted the Summer Olympic Games in July 1976, leaving a large debt for its Olympic Stadium. In November, René Lévesque's sovereigntist Parti Québécois won the Quebec election; in 1977 it passed the Charter of the French Language (Bill 101), making French the sole official language of Quebec and restricting access to English schooling.",
+    "ko": "몬트리올은 1976년 7월 하계 올림픽을 개최했으며, 올림픽 경기장 건설로 큰 부채를 남겼다. 11월에는 주권주의 정당인 르네 레베크의 퀘벡당이 퀘벡 선거에서 승리했고, 1977년 프랑스어 헌장(법안 101)을 통과시켜 프랑스어를 퀘벡의 유일한 공용어로 정하고 영어 학교 입학을 제한했다.",
+    "zh": "1976年7月蒙特利尔举办夏季奥运会，奥林匹克体育场的建设留下了巨额债务。同年11月，勒内·莱维克领导的主张主权的魁北克人党赢得魁北克省选举，并于1977年通过《法语宪章》（第101号法案），规定法语为魁北克唯一官方语言，并限制进入英语学校就读。",
+    "ja": "モントリオールは1976年7月に夏季五輪を開催し、オリンピック・スタジアムの建設で巨額の負債を残した。11月には主権派のルネ・レヴェック率いるケベック党がケベック州選挙で勝利し、1977年にフランス語憲章（法案101）を成立させて、フランス語をケベック唯一の公用語とし英語学校への就学を制限した。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": "Q2064289",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First Quebec sovereignty referendum",
+    "ko": "제1차 퀘벡 주권 국민투표",
+    "zh": "第一次魁北克主权公投",
+    "ja": "第1回ケベック主権住民投票"
+   },
+   "description": {
+    "en": "On 20 May 1980 the Parti Québécois government asked Quebecers for a mandate to negotiate \"sovereignty-association\" with Canada. Some 60 percent voted No after a campaign in which Prime Minister Pierre Trudeau promised a renewed federalism, a pledge he pursued through constitutional patriation.",
+    "ko": "1980년 5월 20일 퀘벡당 정부는 캐나다와의 ‘주권-연합’ 협상 권한을 퀘벡 주민에게 물었다. 피에르 트뤼도 총리가 쇄신된 연방주의를 약속한 캠페인 끝에 약 60%가 반대표를 던졌고, 트뤼도는 헌법 이양을 통해 이 약속을 추진했다.",
+    "zh": "1980年5月20日，魁北克人党政府就是否授权与加拿大谈判“主权—联合”征询魁北克民众。在皮埃尔·特鲁多总理承诺革新联邦制的竞选活动之后，约60%的选民投了反对票，特鲁多随后通过宪法移交来兑现这一承诺。",
+    "ja": "1980年5月20日、ケベック党政権はカナダとの「主権・連合」交渉の権限をケベック州民に問うた。ピエール・トルドー首相が刷新された連邦制を約束した運動の末、約60%が反対票を投じ、トルドーは憲法の移管によってこの約束を追求した。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Constitution patriated; Charter of Rights adopted",
+    "ko": "헌법 이양과 권리와 자유 헌장 채택",
+    "zh": "宪法移交与《权利与自由宪章》通过",
+    "ja": "憲法の移管と権利と自由の憲章の採択"
+   },
+   "description": {
+    "en": "On 17 April 1982 Queen Elizabeth II proclaimed the Constitution Act, 1982 in Ottawa, ending the British Parliament's role in amending Canada's constitution. It added the Canadian Charter of Rights and Freedoms and recognised and affirmed existing Aboriginal and treaty rights. Quebec's government, led by René Lévesque, refused to endorse the agreement, a grievance that fuelled later constitutional crises.",
+    "ko": "1982년 4월 17일 엘리자베스 2세 여왕은 오타와에서 1982년 헌법을 공포해, 캐나다 헌법 개정에서 영국 의회의 역할을 끝냈다. 새 헌법에는 캐나다 권리와 자유 헌장이 추가되었고 기존 원주민 권리와 조약상 권리가 인정·확인되었다. 르네 레베크가 이끄는 퀘벡 정부는 이 합의를 승인하지 않았으며, 이는 이후 헌법 위기의 불씨가 되었다.",
+    "zh": "1982年4月17日，伊丽莎白二世女王在渥太华宣布《1982年宪法法》生效，结束了英国议会在修改加拿大宪法方面的角色。新宪法增加了《加拿大权利与自由宪章》，并承认和确认原住民既有权利及条约权利。勒内·莱维克领导的魁北克政府拒绝认可这一协议，这一不满成为日后宪法危机的根源。",
+    "ja": "1982年4月17日、エリザベス2世女王はオタワで1982年憲法を布告し、カナダ憲法の改正における英国議会の役割に終止符を打った。新憲法にはカナダ権利と自由の憲章が加えられ、先住民の既存の権利と条約上の権利が承認・確認された。ルネ・レヴェック率いるケベック州政府はこの合意を承認せず、これがのちの憲法危機の火種となった。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Bombing of Air India Flight 182",
+    "ko": "에어 인디아 182편 폭탄 테러",
+    "zh": "印度航空182号航班爆炸案",
+    "ja": "エア・インディア182便爆破事件"
+   },
+   "description": {
+    "en": "On 23 June 1985 a bomb placed by Sikh extremists based in British Columbia destroyed Air India Flight 182 from Montreal off the coast of Ireland, killing all 329 people aboard, most of them Canadians. A second bomb killed two baggage handlers at Narita airport in Japan. It remains the deadliest terrorist attack in Canadian history, and a later inquiry criticised serious failures by Canadian security agencies.",
+    "ko": "1985년 6월 23일 브리티시컬럼비아를 근거로 한 시크 극단주의자들이 설치한 폭탄으로 몬트리올발 에어 인디아 182편이 아일랜드 앞바다에서 폭발해 대부분 캐나다인인 탑승자 329명 전원이 숨졌다. 또 다른 폭탄은 일본 나리타 공항에서 수하물 작업원 2명의 목숨을 앗아 갔다. 이는 캐나다 역사상 가장 많은 사망자를 낸 테러로, 이후 조사에서 캐나다 안보 기관의 심각한 실패가 비판받았다.",
+    "zh": "1985年6月23日，以不列颠哥伦比亚为基地的锡克教极端分子放置的炸弹在爱尔兰外海炸毁了从蒙特利尔起飞的印度航空182号航班，机上329人全部遇难，其中大多数是加拿大人。另一枚炸弹在日本成田机场炸死两名行李搬运工。这是加拿大历史上死亡人数最多的恐怖袭击，后来的调查批评加拿大安全机构存在严重失误。",
+    "ja": "1985年6月23日、ブリティッシュコロンビアを拠点とするシク教過激派が仕掛けた爆弾により、モントリオール発のエア・インディア182便がアイルランド沖で爆破され、大半がカナダ人である乗員乗客329人全員が死亡した。別の爆弾は日本の成田空港で手荷物作業員2人の命を奪った。カナダ史上最悪のテロ事件であり、のちの調査はカナダの治安機関の重大な失敗を批判した。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": "Q219438",
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Montreal Protocol",
+    "ko": "몬트리올 의정서",
+    "zh": "《蒙特利尔议定书》",
+    "ja": "モントリオール議定書"
+   },
+   "description": {
+    "en": "Negotiated in Montreal in September 1987, the Montreal Protocol on Substances that Deplete the Ozone Layer committed countries to phase out chlorofluorocarbons and other ozone-destroying chemicals. Eventually ratified by every UN member state, it is widely regarded as one of the most successful international environmental agreements.",
+    "ko": "1987년 9월 몬트리올에서 타결된 ‘오존층 파괴 물질에 관한 몬트리올 의정서’는 각국이 염화불화탄소 등 오존을 파괴하는 화학 물질을 단계적으로 퇴출하도록 했다. 결국 모든 유엔 회원국이 비준한 이 의정서는 가장 성공적인 국제 환경 협약 가운데 하나로 널리 평가된다.",
+    "zh": "1987年9月在蒙特利尔达成的《关于消耗臭氧层物质的蒙特利尔议定书》要求各国逐步淘汰氯氟烃等破坏臭氧层的化学品。该议定书最终获得所有联合国会员国批准，被普遍视为最成功的国际环境协定之一。",
+    "ja": "1987年9月にモントリオールで合意された「オゾン層を破壊する物質に関するモントリオール議定書」は、各国にクロロフルオロカーボンなどのオゾン層破壊物質の段階的廃止を義務づけた。最終的にすべての国連加盟国が批准し、最も成功した国際環境協定の一つと広く評価されている。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Canada–U.S. Free Trade Agreement",
+    "ko": "캐나다·미국 자유무역협정",
+    "zh": "加美自由贸易协定",
+    "ja": "米加自由貿易協定"
+   },
+   "description": {
+    "en": "Brian Mulroney's Progressive Conservatives won the November 1988 \"free trade election\", and the Canada–United States Free Trade Agreement took effect on 1 January 1989. It was expanded to include Mexico as the North American Free Trade Agreement (NAFTA) in 1994, deeply integrating the Canadian economy with that of the United States.",
+    "ko": "브라이언 멀로니의 진보보수당이 1988년 11월 ‘자유무역 선거’에서 승리했고, 캐나다·미국 자유무역협정은 1989년 1월 1일 발효되었다. 이 협정은 1994년 멕시코를 포함한 북미자유무역협정(NAFTA)으로 확대되어 캐나다 경제를 미국 경제와 깊이 통합시켰다.",
+    "zh": "布赖恩·马尔罗尼领导的进步保守党赢得1988年11月的“自由贸易选举”，《加美自由贸易协定》于1989年1月1日生效。1994年该协定扩大为包括墨西哥在内的《北美自由贸易协定》（NAFTA），使加拿大经济与美国经济深度融合。",
+    "ja": "ブライアン・マルルーニーの進歩保守党が1988年11月の「自由貿易選挙」に勝利し、米加自由貿易協定は1989年1月1日に発効した。1994年にはメキシコを加えた北米自由貿易協定（NAFTA）に拡大され、カナダ経済は米国経済と深く統合された。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": "Q473834",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "École Polytechnique massacre",
+    "ko": "에콜 폴리테크니크 학살",
+    "zh": "蒙特利尔理工学院枪击案",
+    "ja": "モントリオール理工科大学虐殺事件"
+   },
+   "description": {
+    "en": "On 6 December 1989 a gunman who declared his hatred of feminists killed fourteen women, most of them engineering students, at the École Polytechnique in Montreal. The anti-feminist attack led to stricter gun-control laws and made 6 December Canada's National Day of Remembrance and Action on Violence Against Women.",
+    "ko": "1989년 12월 6일 페미니스트에 대한 증오를 공언한 총격범이 몬트리올 에콜 폴리테크니크에서 대부분 공학도인 여성 14명을 살해했다. 이 반페미니즘 공격은 더 엄격한 총기 규제법으로 이어졌고, 12월 6일은 캐나다의 ‘여성 폭력 추모 및 행동의 날’이 되었다.",
+    "zh": "1989年12月6日，一名声称仇恨女权主义者的枪手在蒙特利尔理工学院杀害了14名女性，她们大多是工程专业学生。这起反女权主义袭击促使加拿大出台更严格的枪支管制法律，12月6日也被定为加拿大“反对针对妇女暴力全国纪念与行动日”。",
+    "ja": "1989年12月6日、フェミニストへの憎悪を口にした銃撃犯がモントリオールの理工科大学で女性14人を殺害した。その多くは工学部の学生であった。この反フェミニズムの攻撃はより厳しい銃規制法につながり、12月6日はカナダの「女性に対する暴力を記憶し行動する国民の日」となった。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q1486456",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Oka Crisis",
+    "ko": "오카 위기",
+    "zh": "奥卡危机",
+    "ja": "オカ危機"
+   },
+   "description": {
+    "en": "Plans to expand a golf course onto land, including a burial ground, claimed by the Mohawk of Kanesatake near Oka, Quebec, led to a 78-day armed standoff in the summer of 1990 involving Mohawk warriors, Quebec police and later the Canadian Army; a police corporal was killed in the initial raid. Coming soon after the failure of the Meech Lake Accord, which Cree MLA Elijah Harper helped block, the crisis brought Indigenous land claims to national attention and led to the Royal Commission on Aboriginal Peoples.",
+    "ko": "퀘벡 오카 인근에서 카네사타케 모호크족이 권리를 주장하는 묘지를 포함한 땅으로 골프장을 확장하려는 계획이 1990년 여름 모호크 전사들과 퀘벡 경찰, 이후 캐나다군이 대치하는 78일간의 무장 대치로 번졌고, 첫 진압 시도에서 경찰관 1명이 숨졌다. 크리족 주의원 일라이자 하퍼가 저지에 일조한 미치레이크 협정 실패 직후에 일어난 이 위기는 원주민 토지 권리 문제를 전국적 관심사로 만들었고 원주민에 관한 왕립위원회 설치로 이어졌다.",
+    "zh": "魁北克奥卡附近，一项高尔夫球场扩建计划拟占用卡内萨塔克莫霍克人主张权利的土地（包括一处墓地），由此在1990年夏天引发莫霍克战士与魁北克警察、后来又与加拿大军队之间长达78天的武装对峙，一名警察在最初的突袭中丧生。这场危机发生在克里族议员伊莱贾·哈珀协助阻止的《米奇湖协议》失败后不久，使原住民土地诉求成为全国焦点，并促成了原住民问题皇家委员会的设立。",
+    "ja": "ケベック州オカ近郊で、カネサタケのモホークが権利を主張する墓地を含む土地へゴルフ場を拡張する計画が、1990年夏、モホークの戦士とケベック州警察、のちにはカナダ軍との78日間にわたる武装対峙に発展し、最初の強制排除で警察官1人が死亡した。クリーの州議会議員イライジャ・ハーパーが阻止に一役買ったミーチ・レイク協定の失敗直後に起きたこの危機は、先住民の土地権問題を全国的関心事とし、先住民に関する王立委員会の設置につながった。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": "Q943044",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Quebec independence referendum narrowly fails",
+    "ko": "퀘벡 독립 국민투표 근소한 차이로 부결",
+    "zh": "魁北克独立公投以微弱差距失败",
+    "ja": "ケベック独立住民投票が僅差で否決"
+   },
+   "description": {
+    "en": "On 30 October 1995 Quebec voters rejected a proposal for sovereignty, coupled with an offer of partnership with Canada, by 50.58 to 49.42 percent, with a turnout of about 94 percent. The razor-thin result led to the Supreme Court's 1998 Quebec Secession Reference and the federal Clarity Act of 2000, which set conditions for any future secession.",
+    "ko": "1995년 10월 30일 퀘벡 유권자들은 캐나다와의 파트너십 제안을 결합한 주권안을 50.58% 대 49.42%로 부결했으며, 투표율은 약 94%였다. 아슬아슬한 결과는 1998년 대법원의 퀘벡 분리 의견과 향후 분리 독립의 조건을 정한 2000년 연방 명확성법으로 이어졌다.",
+    "zh": "1995年10月30日，魁北克选民以50.58%对49.42%否决了附带与加拿大建立伙伴关系提议的主权方案，投票率约为94%。这一极其微弱的结果促成了1998年最高法院关于魁北克分离的咨询意见以及2000年联邦《清晰法》，为未来任何分离设定了条件。",
+    "ja": "1995年10月30日、ケベックの有権者はカナダとのパートナーシップの提案を組み合わせた主権案を50.58%対49.42%で否決し、投票率は約94%に達した。この極めて僅差の結果は、1998年の最高裁によるケベック分離に関する照会意見と、将来の分離独立の条件を定めた2000年の連邦明確化法につながった。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Royal Commission on Aboriginal Peoples reports",
+    "ko": "원주민 왕립위원회 보고서",
+    "zh": "原住民问题皇家委员会发布报告",
+    "ja": "先住民に関する王立委員会の報告"
+   },
+   "description": {
+    "en": "The Royal Commission on Aboriginal Peoples, created after the Oka Crisis, published its final report in 1996, calling for a fundamental restructuring of the relationship between Indigenous peoples and Canada based on self-government and treaty partnership. The same year, the last federally supported residential school, in Saskatchewan, closed.",
+    "ko": "오카 위기 뒤 설치된 원주민 왕립위원회는 1996년 최종 보고서를 발표해, 자치와 조약 동반자 관계를 바탕으로 원주민과 캐나다의 관계를 근본적으로 재편할 것을 촉구했다. 같은 해 서스캐처원에 있던 마지막 연방 지원 기숙학교가 문을 닫았다.",
+    "zh": "奥卡危机后设立的原住民问题皇家委员会于1996年发布最终报告，呼吁在自治和条约伙伴关系的基础上，从根本上重塑原住民与加拿大的关系。同年，位于萨斯喀彻温省的最后一所联邦资助寄宿学校关闭。",
+    "ja": "オカ危機の後に設置された先住民に関する王立委員会は1996年に最終報告を発表し、自治と条約上のパートナーシップに基づいて先住民とカナダの関係を根本的に再構築するよう求めた。同年、サスカチュワン州にあった最後の連邦支援の寄宿学校が閉鎖された。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": "Q570224",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ottawa Treaty bans landmines",
+    "ko": "지뢰 금지 오타와 협약",
+    "zh": "禁止地雷的《渥太华条约》",
+    "ja": "対人地雷禁止条約（オタワ条約）"
+   },
+   "description": {
+    "en": "Championed by Foreign Minister Lloyd Axworthy and a coalition of civil society groups, the Convention on the Prohibition of Anti-Personnel Mines was opened for signature in Ottawa in December 1997. The \"Ottawa Process\" became a model of middle-power diplomacy, and the International Campaign to Ban Landmines received the Nobel Peace Prize that year.",
+    "ko": "로이드 액스워디 외무장관과 시민사회 연합이 주도한 대인지뢰 금지 협약이 1997년 12월 오타와에서 서명에 부쳐졌다. ‘오타와 프로세스’는 중견국 외교의 모범이 되었으며, 같은 해 국제지뢰금지운동은 노벨 평화상을 받았다.",
+    "zh": "在外交部长劳埃德·阿克斯沃西和公民社会团体联盟的推动下，《禁止杀伤人员地雷公约》于1997年12月在渥太华开放签署。“渥太华进程”成为中等强国外交的典范，国际禁止地雷运动也于同年获得诺贝尔和平奖。",
+    "ja": "ロイド・アクスワージー外相と市民社会団体の連合が推進した対人地雷禁止条約は、1997年12月にオタワで署名開放された。「オタワ・プロセス」はミドルパワー外交の模範となり、同年、地雷禁止国際キャンペーンがノーベル平和賞を受賞した。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": "Q2090886",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "North American ice storm",
+    "ko": "북미 얼음 폭풍",
+    "zh": "北美冰暴",
+    "ja": "北米氷雨災害"
+   },
+   "description": {
+    "en": "In January 1998 days of freezing rain coated eastern Ontario, southern Quebec and parts of the Maritimes in thick ice, collapsing power pylons and leaving millions without electricity, some for weeks in mid-winter. About 16,000 Canadian Forces personnel were deployed in one of the largest peacetime operations in the country's history, and the storm was among Canada's costliest natural disasters.",
+    "ko": "1998년 1월 며칠 동안 이어진 어는 비가 온타리오 동부, 퀘벡 남부, 해양 지방 일부를 두꺼운 얼음으로 덮어 송전탑이 무너졌고, 수백만 명이 한겨울에 전기를 잃었으며 일부는 몇 주간 정전을 겪었다. 약 1만 6천 명의 캐나다군이 투입되어 평시 최대 규모의 작전 가운데 하나가 되었고, 이 폭풍은 캐나다에서 가장 큰 피해를 낸 자연재해 가운데 하나로 꼽힌다.",
+    "zh": "1998年1月，连日冻雨使安大略省东部、魁北克省南部和沿海诸省部分地区覆盖上厚厚的冰层，输电塔倒塌，数百万人在隆冬断电，有的长达数周。约1.6万名加拿大军人被派往救灾，这是该国历史上规模最大的和平时期行动之一，这场冰暴也是加拿大损失最惨重的自然灾害之一。",
+    "ja": "1998年1月、数日続いた着氷性の雨がオンタリオ州東部、ケベック州南部、沿海州の一部を厚い氷で覆い、送電鉄塔が倒壊して数百万人が真冬に停電し、一部では数週間に及んだ。約1万6,000人のカナダ軍が投入され、平時としては同国史上最大級の作戦となり、この嵐はカナダで最も被害額の大きい自然災害の一つとなった。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Creation of Nunavut",
+    "ko": "누나부트 준주 설립",
+    "zh": "努纳武特地区成立",
+    "ja": "ヌナブト準州の創設"
+   },
+   "description": {
+    "en": "On 1 April 1999 Nunavut, meaning \"our land\" in Inuktitut, was separated from the Northwest Territories as a new territory with an Inuit majority. Its creation followed the 1993 Nunavut Land Claims Agreement, the largest Indigenous land claim settlement in Canadian history, and Inuktitut became one of its official languages.",
+    "ko": "1999년 4월 1일 이누크티투트어로 ‘우리의 땅’을 뜻하는 누나부트가 노스웨스트 준주에서 분리되어 이누이트가 다수인 새 준주가 되었다. 이는 캐나다 역사상 최대 규모의 원주민 토지 권리 합의인 1993년 누나부트 토지 권리 협정에 따른 것이며, 이누크티투트어는 이곳의 공용어 가운데 하나가 되었다.",
+    "zh": "1999年4月1日，因纽特语意为“我们的土地”的努纳武特从西北地区分出，成为以因纽特人为主体的新地区。它的设立源于1993年《努纳武特土地权利协定》，这是加拿大历史上规模最大的原住民土地权利协议，因纽特语也成为该地区的官方语言之一。",
+    "ja": "1999年4月1日、イヌクティトゥット語で「我らの土地」を意味するヌナブトが北西準州から分離し、イヌイットが多数を占める新たな準州となった。その創設は、カナダ史上最大の先住民土地権請求の解決である1993年のヌナブト土地権協定に基づくもので、イヌクティトゥット語はその公用語の一つとなった。"
+   }
+  },
+  {
+   "year": 2001,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Operation Yellow Ribbon after 9/11",
+    "ko": "9·11 이후 옐로 리본 작전",
+    "zh": "“9·11”后的黄丝带行动",
+    "ja": "9.11後のイエローリボン作戦"
+   },
+   "description": {
+    "en": "When U.S. airspace was closed after the attacks of 11 September 2001, Canada received more than 200 diverted flights carrying tens of thousands of passengers. Small communities such as Gander, Newfoundland, housed and fed the stranded travellers for days, an episode later celebrated in the musical Come From Away. Canada also joined the U.S.-led mission in Afghanistan, its longest combat deployment.",
+    "ko": "2001년 9월 11일 테러 이후 미국 영공이 폐쇄되자 캐나다는 수만 명의 승객을 태운 200편이 넘는 우회 항공편을 받아들였다. 뉴펀들랜드의 갠더 같은 작은 공동체들은 발이 묶인 여행객들을 며칠 동안 재우고 먹였으며, 이 이야기는 훗날 뮤지컬 「컴 프롬 어웨이」로 기려졌다. 캐나다는 또한 미국 주도의 아프가니스탄 작전에 참여해 역사상 가장 긴 전투 파병을 치렀다.",
+    "zh": "2001年9月11日袭击事件后美国关闭领空，加拿大接收了200多架改航航班，机上载有数万名乘客。纽芬兰甘德等小社区连日为滞留旅客提供食宿，这段经历后来被改编为音乐剧《来自远方》。加拿大还参加了美国主导的阿富汗行动，这是其历时最长的作战部署。",
+    "ja": "2001年9月11日の同時多発テロの後に米国の空域が閉鎖されると、カナダは数万人の乗客を乗せた200便以上の迂回便を受け入れた。ニューファンドランドのガンダーなどの小さな町は足止めされた旅行者に何日も宿と食事を提供し、この出来事はのちにミュージカル『カム・フロム・アウェイ』で讃えられた。カナダはまた米国主導のアフガニスタン作戦に参加し、史上最長の戦闘派遣となった。"
+   }
+  },
+  {
+   "year": 2003,
+   "qid": "Q2991760",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Northeast blackout of 2003",
+    "ko": "2003년 북동부 대정전",
+    "zh": "2003年美加东北部大停电",
+    "ja": "2003年北米北東部大停電"
+   },
+   "description": {
+    "en": "On 14 August 2003 a cascading failure that began in Ohio knocked out power to some 50 million people in the northeastern United States and Ontario, including Toronto and Ottawa. Power took up to several days to restore in parts of Ontario, and the event led to mandatory reliability standards for the North American grid.",
+    "ko": "2003년 8월 14일 오하이오에서 시작된 연쇄 고장으로 토론토와 오타와를 포함한 미국 북동부와 온타리오의 약 5천만 명에게 전력 공급이 끊겼다. 온타리오 일부 지역은 복구에 며칠이 걸렸으며, 이 사건으로 북미 전력망에 의무적인 신뢰성 기준이 도입되었다.",
+    "zh": "2003年8月14日，始于俄亥俄州的连锁故障导致美国东北部和安大略省（包括多伦多和渥太华）约5000万人断电。安大略部分地区用了数天才恢复供电，这一事件促使北美电网实行强制性可靠性标准。",
+    "ja": "2003年8月14日、オハイオ州で始まった連鎖的な障害により、トロントやオタワを含む米国北東部とオンタリオ州の約5,000万人が停電した。オンタリオ州の一部では復旧に数日を要し、この事件を受けて北米の電力網に義務的な信頼性基準が導入された。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": "Q17447",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Same-sex marriage legalised nationwide",
+    "ko": "동성 결혼 전국 합법화",
+    "zh": "同性婚姻在全国合法化",
+    "ja": "同性婚の全国的合法化"
+   },
+   "description": {
+    "en": "After courts in most provinces ruled from 2003 that excluding same-sex couples from marriage violated the Charter, Parliament passed the Civil Marriage Act in July 2005. Canada became the fourth country in the world, and the first outside Europe, to legalise same-sex marriage nationwide.",
+    "ko": "2003년부터 대부분 주의 법원이 동성 커플을 혼인에서 배제하는 것은 헌장 위반이라고 판결한 뒤, 의회는 2005년 7월 민사혼인법을 통과시켰다. 캐나다는 세계에서 네 번째이자 유럽 이외 지역에서 처음으로 전국적으로 동성 결혼을 합법화한 나라가 되었다.",
+    "zh": "自2003年起，多数省份的法院裁定将同性伴侣排除在婚姻之外违反《宪章》，此后联邦议会于2005年7月通过《民事婚姻法》。加拿大由此成为世界上第四个、也是欧洲以外第一个在全国范围内使同性婚姻合法化的国家。",
+    "ja": "2003年以降、多くの州の裁判所が同性カップルを婚姻から排除することは憲章違反だと判断したのを受けて、議会は2005年7月に民事婚姻法を可決した。カナダは世界で4番目、ヨーロッパ以外では初めて全国で同性婚を合法化した国となった。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Apology for residential schools",
+    "ko": "기숙학교에 대한 공식 사과",
+    "zh": "就寄宿学校正式道歉",
+    "ja": "寄宿学校に関する公式謝罪"
+   },
+   "description": {
+    "en": "On 11 June 2008 Prime Minister Stephen Harper delivered a formal apology in the House of Commons to former students of residential schools, following the 2006 Indian Residential Schools Settlement Agreement, the largest class-action settlement in Canadian history. The agreement also created the Truth and Reconciliation Commission, which began work the same year.",
+    "ko": "2008년 6월 11일 스티븐 하퍼 총리는 캐나다 역사상 최대 규모의 집단 소송 합의인 2006년 인디언 기숙학교 합의에 이어 하원에서 기숙학교 생존자들에게 공식 사과했다. 이 합의로 진실화해위원회도 설치되어 같은 해 활동을 시작했다.",
+    "zh": "继2006年加拿大历史上规模最大的集体诉讼和解——《印第安寄宿学校和解协议》之后，总理斯蒂芬·哈珀于2008年6月11日在众议院向寄宿学校的前学生正式道歉。该协议还设立了真相与和解委员会，委员会于同年开始工作。",
+    "ja": "2006年のインディアン寄宿学校和解合意（カナダ史上最大の集団訴訟の和解）に続き、2008年6月11日にスティーブン・ハーパー首相は下院で寄宿学校の元生徒に公式に謝罪した。この合意により真実和解委員会も設置され、同年に活動を開始した。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Vancouver Winter Olympics",
+    "ko": "밴쿠버 동계 올림픽",
+    "zh": "温哥华冬季奥运会",
+    "ja": "バンクーバー冬季五輪"
+   },
+   "description": {
+    "en": "Vancouver and Whistler hosted the Winter Olympic Games in February 2010, co-hosted with the Four Host First Nations on whose territory they took place. Canada won 14 gold medals, then a record for a Winter Games, including the men's ice hockey final decided by Sidney Crosby's overtime goal.",
+    "ko": "2010년 2월 밴쿠버와 휘슬러에서 동계 올림픽이 열렸으며, 개최지 영토의 주인인 ‘네 개의 개최 퍼스트 네이션’이 공동 주최자로 참여했다. 캐나다는 당시 동계 올림픽 최다 기록인 금메달 14개를 땄는데, 여기에는 시드니 크로스비의 연장전 골로 결정된 남자 아이스하키 결승도 포함되었다.",
+    "zh": "2010年2月，温哥华和惠斯勒举办冬季奥运会，赛事所在土地的“四个东道主第一民族”作为共同主办方参与其中。加拿大夺得14枚金牌，创下当时冬奥会单届金牌纪录，其中包括由西德尼·克罗斯比加时进球决出胜负的男子冰球决赛。",
+    "ja": "2010年2月、バンクーバーとウィスラーで冬季五輪が開かれ、開催地の領土を持つ「4つの開催ファースト・ネーションズ」が共同ホストとして参加した。カナダは当時の冬季大会最多記録となる金メダル14個を獲得し、その中にはシドニー・クロスビーの延長ゴールで決した男子アイスホッケー決勝も含まれていた。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q13627958",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Lac-Mégantic rail disaster",
+    "ko": "락메강틱 열차 참사",
+    "zh": "拉克梅甘蒂克火车事故",
+    "ja": "ラック・メガンティック鉄道事故"
+   },
+   "description": {
+    "en": "On 6 July 2013 an unattended freight train carrying crude oil rolled downhill into the town of Lac-Mégantic, Quebec, derailed and exploded, killing 47 people and destroying much of the downtown. The disaster led to new Canadian rules on rail safety and the transport of dangerous goods.",
+    "ko": "2013년 7월 6일 무인 상태로 세워 둔 원유 수송 화물열차가 비탈을 굴러 퀘벡의 락메강틱 마을로 들어가 탈선·폭발해 47명이 숨지고 도심 대부분이 파괴되었다. 이 참사로 철도 안전과 위험물 운송에 관한 캐나다의 새 규정이 마련되었다.",
+    "zh": "2013年7月6日，一列无人值守、满载原油的货运列车顺坡滑入魁北克省拉克梅甘蒂克镇，脱轨后爆炸，造成47人死亡，市中心大部分被毁。这场灾难促使加拿大出台了有关铁路安全和危险品运输的新规定。",
+    "ja": "2013年7月6日、無人で停車していた原油輸送の貨物列車が坂を下ってケベック州ラック・メガンティックの町に入り、脱線・爆発して47人が死亡し、中心街の大半が破壊された。この惨事を受けて、鉄道の安全と危険物輸送に関するカナダの新たな規則が定められた。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q18338238",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Attack on Parliament Hill",
+    "ko": "국회의사당 총격 사건",
+    "zh": "国会山枪击事件",
+    "ja": "国会議事堂銃撃事件"
+   },
+   "description": {
+    "en": "On 22 October 2014 a gunman killed Corporal Nathan Cirillo, a ceremonial guard at the National War Memorial in Ottawa, then entered the Centre Block of Parliament, where he was shot dead by security officers. Coming two days after a fatal vehicle attack on soldiers in Saint-Jean-sur-Richelieu, the attack led to new security and anti-terrorism legislation.",
+    "ko": "2014년 10월 22일 한 총격범이 오타와 국립 전쟁 기념비의 의장대원 네이선 시릴로 상병을 살해한 뒤 국회의사당 중앙동에 침입했다가 보안 요원들에게 사살되었다. 이틀 전 생장쉬르리슐리외에서 군인들을 노린 차량 공격으로 사망자가 나온 직후에 일어난 이 공격은 새로운 보안·대테러 입법으로 이어졌다.",
+    "zh": "2014年10月22日，一名枪手在渥太华国家战争纪念碑前杀害了仪仗哨兵内森·西里洛下士，随后闯入国会中央大楼，被安保人员击毙。此前两天，圣让-絮尔-黎塞留刚发生针对军人的致命汽车撞击事件，这次袭击促成了新的安保和反恐立法。",
+    "ja": "2014年10月22日、銃撃犯がオタワの国立戦争記念碑の儀仗兵ネイサン・シリロ伍長を殺害した後、国会議事堂センター・ブロックに侵入し、警備担当者に射殺された。その2日前にはサン＝ジャン＝シュル＝リシュリューで兵士を狙った死者の出る車両攻撃があり、この事件は新たな治安・テロ対策立法につながった。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Truth and Reconciliation Commission final report",
+    "ko": "진실화해위원회 최종 보고서",
+    "zh": "真相与和解委员会最终报告",
+    "ja": "真実和解委員会の最終報告"
+   },
+   "description": {
+    "en": "After hearing testimony from more than 6,500 witnesses, the Truth and Reconciliation Commission released its findings in 2015, concluding that the residential school system amounted to cultural genocide and issuing 94 Calls to Action. Later that year Justin Trudeau's Liberals won a majority government, pledging to implement them.",
+    "ko": "6,500명이 넘는 증인의 증언을 들은 진실화해위원회는 2015년 조사 결과를 발표해 기숙학교 제도가 문화적 집단 학살에 해당한다고 결론짓고 94개 행동 촉구 사항을 제시했다. 같은 해 말 저스틴 트뤼도의 자유당이 이를 이행하겠다고 약속하며 과반 정부를 구성했다.",
+    "zh": "真相与和解委员会听取了6500多名证人的证词，于2015年发布调查结果，认定寄宿学校制度构成文化灭绝，并提出94项行动呼吁。同年稍晚，贾斯廷·特鲁多领导的自由党承诺落实这些呼吁，并赢得多数政府。",
+    "ja": "6,500人を超える証人の証言を聴取した真実和解委員会は2015年に調査結果を公表し、寄宿学校制度は文化的ジェノサイドに当たると結論づけ、94項目の「行動の呼びかけ」を示した。同年末、ジャスティン・トルドーの自由党がその実施を公約して過半数政権を樹立した。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q24004490",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Fort McMurray wildfire",
+    "ko": "포트맥머리 산불",
+    "zh": "麦克默里堡山火",
+    "ja": "フォートマクマレー森林火災"
+   },
+   "description": {
+    "en": "In May 2016 a wildfire swept into Fort McMurray, Alberta, forcing the evacuation of about 88,000 people, the largest wildfire evacuation in Alberta's history. Roughly 2,400 buildings were destroyed, and the fire became the costliest disaster in Canadian history in insured losses.",
+    "ko": "2016년 5월 앨버타주 포트맥머리로 산불이 번져 약 8만 8천 명이 대피했는데, 이는 앨버타 역사상 최대 규모의 산불 대피였다. 약 2,400채의 건물이 소실되었으며, 보험 손실 기준으로 캐나다 역사상 가장 큰 피해를 낸 재해가 되었다.",
+    "zh": "2016年5月，山火蔓延至阿尔伯塔省麦克默里堡，迫使约8.8万人撤离，这是阿尔伯塔历史上规模最大的山火撤离。约2400座建筑被毁，按保险损失计算，这是加拿大历史上损失最惨重的灾害。",
+    "ja": "2016年5月、森林火災がアルバータ州フォートマクマレーに広がり、約8万8,000人が避難した。これはアルバータ史上最大の森林火災による避難であった。約2,400棟の建物が焼失し、保険損害額ではカナダ史上最大の災害となった。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q28549976",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Quebec City mosque shooting",
+    "ko": "퀘벡시 모스크 총격 사건",
+    "zh": "魁北克城清真寺枪击案",
+    "ja": "ケベック市モスク銃撃事件"
+   },
+   "description": {
+    "en": "On 29 January 2017 a gunman opened fire during evening prayers at the Islamic Cultural Centre of Quebec City, killing six men and wounding others. The attack, motivated by anti-Muslim hatred, prompted national mourning, and 29 January was later designated a national day of remembrance and action against Islamophobia.",
+    "ko": "2017년 1월 29일 퀘벡시 이슬람 문화센터에서 저녁 기도 중 총격범이 총을 난사해 남성 6명이 숨지고 여러 명이 다쳤다. 반무슬림 증오에서 비롯된 이 공격으로 전국이 애도했으며, 1월 29일은 훗날 이슬람 혐오에 맞서는 국가 추모·행동의 날로 지정되었다.",
+    "zh": "2017年1月29日，一名枪手在魁北克城伊斯兰文化中心的晚祷时开枪，造成六名男子死亡，多人受伤。这起出于反穆斯林仇恨的袭击引发全国哀悼，1月29日后来被定为反对伊斯兰恐惧症的国家纪念与行动日。",
+    "ja": "2017年1月29日、ケベック市のイスラーム文化センターで夜の礼拝中に銃撃犯が発砲し、男性6人が死亡、多数が負傷した。反ムスリムの憎悪に基づくこの攻撃に国中が喪に服し、1月29日はのちにイスラモフォビアに抗する国民の追悼と行動の日に定められた。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Cannabis legalised",
+    "ko": "대마초 합법화",
+    "zh": "大麻合法化",
+    "ja": "大麻の合法化"
+   },
+   "description": {
+    "en": "On 17 October 2018 the Cannabis Act came into force, making Canada the second country after Uruguay, and the first G7 country, to legalise the production, sale and recreational use of cannabis nationwide, under federal and provincial regulation.",
+    "ko": "2018년 10월 17일 대마초법이 시행되어, 캐나다는 우루과이에 이어 두 번째이자 G7 국가로는 처음으로 연방·주 규제 아래 대마초의 생산·판매·기호용 사용을 전국적으로 합법화한 나라가 되었다.",
+    "zh": "2018年10月17日，《大麻法》生效，加拿大成为继乌拉圭之后第二个、也是七国集团中第一个在联邦和省级监管下于全国范围内将大麻的生产、销售和娱乐性使用合法化的国家。",
+    "ja": "2018年10月17日に大麻法が施行され、カナダはウルグアイに次いで2番目、G7では初めて、連邦と州の規制のもとで大麻の生産・販売・嗜好目的の使用を全国で合法化した国となった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q83873580",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in Canada",
+    "ko": "캐나다의 코로나19 대유행",
+    "zh": "新冠疫情在加拿大",
+    "ja": "カナダにおける新型コロナ流行"
+   },
+   "description": {
+    "en": "Canada's first COVID-19 case was confirmed in January 2020, and by March provinces declared emergencies, closing schools and businesses while the border with the United States was closed to non-essential travel. Long-term care homes in Quebec and Ontario suffered especially heavy death tolls. Large federal income-support programmes cushioned the economic shock, and mass vaccination began in December 2020.",
+    "ko": "캐나다는 2020년 1월 첫 코로나19 확진자를 확인했고, 3월까지 각 주가 비상사태를 선포해 학교와 사업장을 닫았으며 미국과의 국경은 불필요한 여행에 대해 폐쇄되었다. 퀘벡과 온타리오의 장기 요양 시설에서 특히 많은 사망자가 나왔다. 대규모 연방 소득 지원 프로그램이 경제적 충격을 완화했고, 2020년 12월 대규모 백신 접종이 시작되었다.",
+    "zh": "加拿大于2020年1月确认首例新冠病例，到3月各省宣布紧急状态，关闭学校和商业场所，美加边境也对非必要旅行关闭。魁北克和安大略的长期护理院死亡人数尤为惨重。联邦政府的大规模收入补助计划缓解了经济冲击，2020年12月开始大规模疫苗接种。",
+    "ja": "カナダでは2020年1月に初の新型コロナ感染者が確認され、3月までに各州が非常事態を宣言して学校や事業所を閉鎖し、米国との国境も不要不急の往来に対して閉じられた。ケベック州とオンタリオ州の長期介護施設ではとくに多くの死者が出た。連邦の大規模な所得支援策が経済的打撃を和らげ、2020年12月に大規模なワクチン接種が始まった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q91129213",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Nova Scotia attacks",
+    "ko": "노바스코샤 총격 사건",
+    "zh": "新斯科舍枪击案",
+    "ja": "ノヴァスコシア銃撃事件"
+   },
+   "description": {
+    "en": "On 18–19 April 2020 a gunman disguised as an RCMP officer and driving a replica police car killed 22 people across rural Nova Scotia before being shot by police. It was the deadliest mass shooting in Canadian history; the federal government soon banned many assault-style firearms, and a public inquiry criticised the police response.",
+    "ko": "2020년 4월 18~19일 왕립 캐나다 기마경찰로 위장하고 모조 경찰차를 몬 총격범이 노바스코샤 농촌 지역 곳곳에서 22명을 살해한 뒤 경찰에 사살되었다. 이는 캐나다 역사상 최악의 총기 난사 사건으로, 연방 정부는 곧 다수의 공격용 총기를 금지했고 공공 조사위원회는 경찰의 대응을 비판했다.",
+    "zh": "2020年4月18日至19日，一名伪装成皇家骑警、驾驶仿制警车的枪手在新斯科舍乡村多地杀害22人，最终被警察击毙。这是加拿大历史上最严重的大规模枪击事件；联邦政府随即禁止了多种攻击型枪支，公共调查委员会也批评了警方的应对。",
+    "ja": "2020年4月18～19日、王立カナダ騎馬警察の警官を装い、模造パトカーを運転した銃撃犯がノヴァスコシア州の農村部各地で22人を殺害し、警察に射殺された。カナダ史上最悪の銃乱射事件であり、連邦政府はまもなく多くの突撃銃型の銃器を禁止し、公的調査委員会は警察の対応を批判した。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Unmarked graves at residential school sites",
+    "ko": "기숙학교 부지의 무표지 묘지",
+    "zh": "寄宿学校旧址的无标记墓葬",
+    "ja": "寄宿学校跡地の無標識の墓"
+   },
+   "description": {
+    "en": "In May 2021 the Tk'emlúps te Secwépemc First Nation announced that ground-penetrating radar had detected what appeared to be the unmarked graves of more than 200 children near the former Kamloops Indian Residential School, and other nations soon reported similar findings. The announcements prompted national grief and international attention, flags were lowered for months, and 30 September became the National Day for Truth and Reconciliation.",
+    "ko": "2021년 5월 트케믈룹스 테 세크웨펨크 퍼스트 네이션은 지표 투과 레이더로 옛 캠루프스 인디언 기숙학교 부근에서 200명이 넘는 아동의 것으로 추정되는 무표지 묘를 탐지했다고 발표했고, 곧 다른 민족들도 비슷한 조사 결과를 알렸다. 이 발표는 전국적인 비탄과 국제적 관심을 불렀고, 국기는 몇 달 동안 조기로 게양되었으며, 9월 30일은 ‘진실과 화해의 날’로 지정되었다.",
+    "zh": "2021年5月，特克姆卢普斯·特·塞克韦佩姆克第一民族宣布，探地雷达在前坎卢普斯印第安寄宿学校附近探测到疑似200多名儿童的无标记墓葬，其他民族随后也报告了类似发现。这些消息引发全国哀痛和国际关注，国旗连续数月降半旗，9月30日被定为“真相与和解国家纪念日”。",
+    "ja": "2021年5月、トケムループス・テ・セクウェペムク・ファースト・ネーションは、地中レーダーにより旧カムループス・インディアン寄宿学校の近くで200人を超える子どものものとみられる無標識の墓を検出したと発表し、ほかの民族も相次いで同様の調査結果を公表した。発表は全国的な悲嘆と国際的関心を呼び、国旗は数か月にわたり半旗とされ、9月30日は「真実と和解の国民の日」に定められた。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": "Q109623540",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Heat dome and British Columbia floods",
+    "ko": "열돔 현상과 브리티시컬럼비아 홍수",
+    "zh": "热穹与不列颠哥伦比亚洪灾",
+    "ja": "ヒートドームとブリティッシュコロンビアの洪水"
+   },
+   "description": {
+    "en": "In late June 2021 an extreme heat dome set a Canadian temperature record of 49.6°C at Lytton, British Columbia, which was destroyed by wildfire the next day, and hundreds of heat-related deaths followed in the province. In November, atmospheric rivers caused catastrophic floods and landslides that cut highway and rail links to Vancouver, highlighting the growing impact of extreme weather.",
+    "ko": "2021년 6월 말 극심한 열돔 현상으로 브리티시컬럼비아주 리턴의 기온이 49.6°C까지 올라 캐나다 최고 기록을 세웠고, 다음 날 마을은 산불로 파괴되었으며 주에서는 수백 명이 더위 관련 원인으로 사망했다. 11월에는 대기의 강이 일으킨 파국적인 홍수와 산사태로 밴쿠버로 이어지는 고속도로와 철도가 끊겨, 극단적 기상의 영향이 커지고 있음을 보여 주었다.",
+    "zh": "2021年6月下旬，极端热穹使不列颠哥伦比亚省利顿的气温达到49.6°C，创下加拿大最高气温纪录，次日该村被山火摧毁，全省有数百人因高温死亡。11月，大气河引发灾难性洪水和山体滑坡，切断了通往温哥华的公路和铁路，凸显出极端天气日益严重的影响。",
+    "ja": "2021年6月下旬、極端なヒートドームによりブリティッシュコロンビア州リットンで49.6°Cというカナダの最高気温記録が出て、翌日に村は森林火災で焼失し、州内では数百人が暑さに関連して死亡した。11月には大気の川がもたらした壊滅的な洪水と土砂崩れでバンクーバーへの高速道路と鉄道が寸断され、極端気象の影響の拡大が浮き彫りとなった。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Freedom Convoy and the Emergencies Act",
+    "ko": "‘자유 호송대’ 시위와 비상법 발동",
+    "zh": "“自由车队”抗议与《紧急状态法》",
+    "ja": "「フリーダム・コンボイ」と緊急事態法"
+   },
+   "description": {
+    "en": "In early 2022 truckers and others protesting COVID-19 vaccine mandates occupied downtown Ottawa for about three weeks and blockaded border crossings, including the Ambassador Bridge. On 14 February the federal government invoked the Emergencies Act for the first time since its adoption in 1988; police cleared the occupation, and the invocation remains legally and politically contested.",
+    "ko": "2022년 초 코로나19 백신 의무화에 항의하는 트럭 운전사 등이 약 3주 동안 오타와 도심을 점거하고 앰배서더 다리를 비롯한 국경 통로를 봉쇄했다. 2월 14일 연방 정부는 1988년 제정 이후 처음으로 비상법을 발동했고, 경찰이 점거를 해산했다. 비상법 발동의 적법성과 정당성은 지금도 법적·정치적 논란 속에 있다.",
+    "zh": "2022年初，抗议新冠疫苗强制令的卡车司机等人占领渥太华市中心约三周，并封锁了包括大使桥在内的多个边境口岸。2月14日，联邦政府自1988年该法通过以来首次援引《紧急状态法》，警方随后清场；此举至今在法律和政治上仍有争议。",
+    "ja": "2022年初め、新型コロナワクチン接種の義務化に抗議するトラック運転手らが約3週間オタワ中心部を占拠し、アンバサダー橋を含む国境の通過点を封鎖した。2月14日、連邦政府は1988年の制定以来初めて緊急事態法を発動し、警察が占拠を排除した。この発動の是非は今も法的・政治的に争われている。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q114037431",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Hurricane Fiona strikes Atlantic Canada",
+    "ko": "허리케인 피오나, 대서양 캐나다 강타",
+    "zh": "飓风“菲奥娜”袭击加拿大大西洋省份",
+    "ja": "ハリケーン・フィオナのカナダ大西洋岸襲来"
+   },
+   "description": {
+    "en": "In September 2022 post-tropical storm Fiona, one of the most intense storms ever to strike Canada, battered Nova Scotia, Prince Edward Island, Newfoundland and eastern Quebec. It destroyed homes in Port aux Basques, caused widespread power outages and became the costliest extreme weather event recorded in Atlantic Canada.",
+    "ko": "2022년 9월 캐나다를 강타한 폭풍 가운데 가장 강력한 축에 드는 포스트 열대성 폭풍 피오나가 노바스코샤, 프린스에드워드섬, 뉴펀들랜드, 퀘벡 동부를 휩쓸었다. 포트오바스크의 주택들을 파괴하고 광범위한 정전을 일으켰으며, 대서양 캐나다에서 기록된 가장 큰 피해를 낸 기상 재해가 되었다.",
+    "zh": "2022年9月，后热带风暴“菲奥娜”——袭击加拿大的最强风暴之一——重创新斯科舍、爱德华王子岛、纽芬兰和魁北克东部。它摧毁了巴斯克港的房屋，造成大范围停电，成为加拿大大西洋地区有记录以来损失最大的极端天气事件。",
+    "ja": "2022年9月、カナダを襲った史上最強級の嵐である温帯低気圧化したフィオナが、ノヴァスコシア、プリンスエドワードアイランド、ニューファンドランド、ケベック州東部を直撃した。ポート・オ・バスクの家屋を破壊し、広範囲で停電を引き起こし、カナダ大西洋岸で記録された最も被害額の大きい気象災害となった。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Record wildfire season",
+    "ko": "기록적인 산불 시즌",
+    "zh": "创纪录的山火季",
+    "ja": "記録的な森林火災シーズン"
+   },
+   "description": {
+    "en": "Canada's 2023 wildfire season was the most destructive on record, burning more than 15 million hectares from British Columbia to Quebec and Nova Scotia. Hundreds of thousands of people were evacuated, including the entire city of Yellowknife in August, and smoke spread across much of North America and beyond.",
+    "ko": "캐나다의 2023년 산불 시즌은 기록상 가장 파괴적이어서 브리티시컬럼비아에서 퀘벡과 노바스코샤에 이르기까지 1,500만 헥타르 이상이 불탔다. 8월 옐로나이프 시 전체를 포함해 수십만 명이 대피했으며, 연기는 북아메리카 대부분과 그 너머까지 퍼졌다.",
+    "zh": "加拿大2023年的山火季是有记录以来破坏最严重的一次，从不列颠哥伦比亚到魁北克和新斯科舍，超过1500万公顷土地被烧毁。数十万人被迫撤离，其中包括8月整个耶洛奈夫市，烟雾弥漫至北美大部分地区乃至更远。",
+    "ja": "カナダの2023年の森林火災シーズンは記録上最も破壊的で、ブリティッシュコロンビアからケベック、ノヴァスコシアに至るまで1,500万ヘクタール以上が焼失した。8月のイエローナイフ全市を含む数十万人が避難し、煙は北アメリカの大部分とその先にまで広がった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q131689733",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Mark Carney becomes prime minister",
+    "ko": "마크 카니 총리 취임",
+    "zh": "马克·卡尼出任总理",
+    "ja": "マーク・カーニーの首相就任"
+   },
+   "description": {
+    "en": "After Justin Trudeau announced his resignation, former central banker Mark Carney won the Liberal Party leadership election in March 2025 and was sworn in as prime minister. Amid U.S. tariffs and threats against Canadian sovereignty that stirred a wave of national feeling, he led the Liberals to victory in the federal election of April 2025.",
+    "ko": "저스틴 트뤼도가 사임을 발표한 뒤 전 중앙은행 총재 마크 카니가 2025년 3월 자유당 대표 선거에서 승리해 총리에 취임했다. 국민 감정을 크게 자극한 미국의 관세 부과와 캐나다 주권에 대한 위협 속에서, 그는 2025년 4월 연방 총선에서 자유당을 승리로 이끌었다.",
+    "zh": "贾斯廷·特鲁多宣布辞职后，前央行行长马克·卡尼于2025年3月赢得自由党党魁选举并宣誓就任总理。在美国加征关税并对加拿大主权发出威胁、激起一波民族情绪的背景下，他率领自由党在2025年4月的联邦大选中获胜。",
+    "ja": "ジャスティン・トルドーの辞任表明を受け、元中央銀行総裁マーク・カーニーが2025年3月の自由党党首選挙に勝利して首相に就任した。国民感情を大きく揺さぶった米国の関税措置とカナダの主権への脅しのなかで、彼は2025年4月の連邦総選挙で自由党を勝利に導いた。"
+   }
+  }
+ ]
+}

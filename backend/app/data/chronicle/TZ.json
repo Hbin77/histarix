@@ -1,0 +1,1606 @@
+{
+ "iso": "TZ",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -500,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Later Stone Age foragers and early herders",
+    "ko": "후기 석기 시대 수렵채집민과 초기 목축민",
+    "zh": "晚期石器时代的狩猎采集者与早期牧民",
+    "ja": "後期石器時代の狩猟採集民と初期牧畜民"
+   },
+   "summary": {
+    "en": "Tanzania, home to Olduvai Gorge and some of the oldest traces of the human lineage, was inhabited in the Holocene by hunter-gatherers whose rock paintings survive in the Kondoa region. Peoples speaking click languages, such as the ancestors of the Hadza and Sandawe, are thought to descend from these early populations. From the 3rd and 2nd millennia BC, cattle-herding communities of the Pastoral Neolithic spread into the northern highlands from the Kenyan side.",
+    "ko": "올두바이 협곡 등 인류 계보의 가장 오래된 흔적이 남은 탄자니아에는 홀로세 동안 수렵채집민이 살았으며, 그들의 암벽화가 콘도아 지역에 남아 있다. 하자족과 산다웨족의 조상처럼 흡착음 언어를 쓰는 민족들은 이 초기 주민의 후손으로 여겨진다. 기원전 3천년기~2천년기부터는 목축 신석기 문화의 소 목축 공동체가 케냐 쪽에서 북부 고원으로 퍼져 들어왔다.",
+    "zh": "坦桑尼亚拥有奥杜威峡谷等人类谱系最古老的遗迹之一。全新世时期这里生活着狩猎采集者，他们的岩画保存在孔多阿地区。使用搭嘴音语言的民族，如哈扎人和桑达韦人的祖先，被认为是这些早期居民的后裔。自公元前三千纪至二千纪起，畜牧新石器文化的养牛群体从肯尼亚一侧扩散到北部高原。",
+    "ja": "オルドヴァイ渓谷など人類系統の最古級の痕跡を持つタンザニアには、完新世に狩猟採集民が暮らし、その岩絵がコンドア地方に残っている。ハッザ人やサンダウェ人の祖先など吸着音をもつ言語を話す人々は、この初期住民の子孫と考えられている。紀元前3千年紀から2千年紀にかけて、牧畜新石器文化の牛牧畜民がケニア側から北部高地へ広がった。"
+   }
+  },
+  {
+   "from": -800,
+   "to": 800,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Iron Age and Bantu-speaking farmers",
+    "ko": "초기 철기 시대와 반투어계 농경민",
+    "zh": "早期铁器时代与班图语农耕者",
+    "ja": "初期鉄器時代とバントゥー系農耕民"
+   },
+   "summary": {
+    "en": "In the first millennium BC Bantu-speaking farmers using iron reached the Lake Victoria basin, where the Urewe pottery tradition and early iron smelting sites are found in the northwest of Tanzania. Over the following centuries related communities spread across the interior and to the coast, where Kwale-type pottery marks their arrival. They introduced farming of cereals and later bananas, and their languages became the ancestors of most of Tanzania's languages, including Swahili.",
+    "ko": "기원전 1천년기에 철을 다루는 반투어계 농경민이 빅토리아호 분지에 이르렀으며, 탄자니아 북서부에서는 우레웨 토기 전통과 초기 제철 유적이 발견된다. 이후 수세기 동안 관련 공동체가 내륙 전역과 해안으로 퍼졌고, 해안에서는 콰레식 토기가 그들의 도래를 보여준다. 그들은 곡물 농사와 이후 바나나 재배를 들여왔고, 그들의 언어는 스와힐리어를 포함한 탄자니아 대부분 언어의 조상이 되었다.",
+    "zh": "公元前一千纪，使用铁器的班图语农耕者到达维多利亚湖盆地，坦桑尼亚西北部发现了乌雷韦陶器传统和早期冶铁遗址。此后数百年间，相关群体扩散到内陆各地和海岸，海岸的夸莱型陶器标志着他们的到来。他们带来了谷物种植和后来的香蕉栽培，其语言成为包括斯瓦希里语在内的坦桑尼亚大多数语言的祖先。",
+    "ja": "紀元前1千年紀、鉄を使うバントゥー系農耕民がヴィクトリア湖盆地に達し、タンザニア北西部ではウレウェ土器の伝統と初期の製鉄遺跡が見つかっている。その後数世紀のうちに関連する集団が内陸各地と海岸へ広がり、海岸ではクワレ式土器がその到来を示す。彼らは穀物栽培、のちにはバナナ栽培をもたらし、その言語はスワヒリ語を含むタンザニアの大半の言語の祖先となった。"
+   }
+  },
+  {
+   "from": 1,
+   "to": 800,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Azania: the coast in Greco-Roman sources",
+    "ko": "아자니아: 그리스·로마 문헌 속의 해안",
+    "zh": "阿扎尼亚：希腊罗马文献中的海岸",
+    "ja": "アザニア：ギリシア・ローマ文献の中の海岸"
+   },
+   "summary": {
+    "en": "Greco-Roman authors called the East African coast Azania. The 1st-century Periplus of the Erythraean Sea describes the market town of Rhapta, probably somewhere on the Tanzanian coast, where Arabian traders bought ivory and tortoiseshell in exchange for iron tools and weapons. Early coastal settlements such as Unguja Ukuu on Zanzibar show growing links to the Indian Ocean world toward the end of this period.",
+    "ko": "그리스·로마 저술가들은 동아프리카 해안을 아자니아라고 불렀다. 1세기의 『에리트라이해 안내기』는 아마도 탄자니아 해안 어딘가에 있었을 시장 도시 라프타를 묘사하는데, 그곳에서 아라비아 상인들은 철제 도구와 무기를 주고 상아와 거북 등딱지를 샀다. 이 시기 말에는 잔지바르의 웅구자 우쿠 같은 초기 해안 정착지가 인도양 세계와의 연결이 깊어졌음을 보여준다.",
+    "zh": "希腊罗马作者称东非海岸为阿扎尼亚。1世纪的《厄立特里亚海航行记》描述了可能位于坦桑尼亚海岸某处的集市城镇拉普塔，阿拉伯商人在那里用铁器和武器换取象牙和玳瑁。到这一时期末，桑给巴尔的温古贾乌库等早期沿海聚落显示出与印度洋世界日益密切的联系。",
+    "ja": "ギリシア・ローマの著述家は東アフリカ沿岸をアザニアと呼んだ。1世紀の『エリュトゥラー海案内記』は、おそらくタンザニア沿岸のどこかにあった市場町ラプタを描き、そこではアラビアの商人が鉄器や武器と引き換えに象牙や鼈甲を買っていた。この時期の終わりには、ザンジバルのウングジャ・ウクなど初期の沿岸集落がインド洋世界とのつながりの深まりを示している。"
+   }
+  },
+  {
+   "from": 800,
+   "to": 1500,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Swahili city-states",
+    "ko": "스와힐리 도시국가",
+    "zh": "斯瓦希里城邦",
+    "ja": "スワヒリ都市国家"
+   },
+   "summary": {
+    "en": "From around the 8th century, African coastal communities developed into a chain of Islamic, stone-built trading towns, including Kilwa, Zanzibar, Pemba, Mafia and Tongoni. Their Swahili language and culture blended Bantu roots with Arabic, Persian and Indian influences. The towns exported gold, ivory and other goods across the Indian Ocean and imported Chinese porcelain, Islamic pottery and textiles.",
+    "ko": "8세기 무렵부터 아프리카 해안 공동체는 킬와, 잔지바르, 펨바, 마피아, 통고니 등 석조 건물이 늘어선 이슬람 교역 도시의 사슬로 발전했다. 이들의 스와힐리어와 문화는 반투적 뿌리에 아랍·페르시아·인도의 영향을 결합한 것이었다. 도시들은 금과 상아 등을 인도양 너머로 수출하고 중국 도자기, 이슬람 도기, 직물을 수입했다.",
+    "zh": "约从8世纪起，非洲沿海社区逐渐发展为一串以石建筑为特色的伊斯兰贸易城镇，包括基尔瓦、桑给巴尔、奔巴、马菲亚和通戈尼等。它们的斯瓦希里语言与文化以班图语为根基，融合了阿拉伯、波斯和印度的影响。这些城镇经印度洋出口黄金、象牙等商品，进口中国瓷器、伊斯兰陶器和纺织品。",
+    "ja": "8世紀頃から、アフリカ沿岸の共同体はキルワ、ザンジバル、ペンバ、マフィア、トンゴニなど石造建築の並ぶイスラム交易都市の連なりへと発展した。そのスワヒリ語と文化は、バントゥー的な根にアラブ・ペルシア・インドの影響を融合させたものだった。諸都市は金や象牙などをインド洋の彼方へ輸出し、中国磁器やイスラム陶器、織物を輸入した。"
+   }
+  },
+  {
+   "from": 957,
+   "to": 1513,
+   "kind": "state",
+   "qid": "Q3107156",
+   "polity": null,
+   "name": {
+    "en": "Kilwa Sultanate",
+    "ko": "킬와 술탄국",
+    "zh": "基尔瓦苏丹国",
+    "ja": "キルワ・スルタン国"
+   },
+   "summary": {
+    "en": "Centered on the island of Kilwa Kisiwani off the southern Tanzanian coast, the Kilwa Sultanate was, according to its own chronicle, founded by a prince from Shiraz. Under the Mahdali dynasty from the late 13th century it controlled the gold trade from Sofala in modern Mozambique and became the wealthiest of the Swahili towns, building the Great Mosque and the palace of Husuni Kubwa. Portuguese intervention from 1502 and later wars ended its prosperity.",
+    "ko": "탄자니아 남부 해안 앞 킬와 키시와니섬을 중심으로 한 킬와 술탄국은 자체 연대기에 따르면 시라즈 출신 왕자가 세웠다. 13세기 말부터 마흐달리 왕조 아래 오늘날 모잠비크의 소팔라에서 오는 금 교역을 장악해 스와힐리 도시 가운데 가장 부유해졌으며, 대모스크와 후수니 쿠브와 궁전을 세웠다. 1502년부터의 포르투갈 개입과 이후의 전쟁으로 번영은 끝났다.",
+    "zh": "基尔瓦苏丹国以坦桑尼亚南部海岸外的基尔瓦基斯瓦尼岛为中心，据其编年史记载由一位来自设拉子的王子创建。13世纪末起，在马赫达利王朝统治下，它控制了来自今莫桑比克索法拉的黄金贸易，成为最富庶的斯瓦希里城镇，修建了大清真寺和胡苏尼库布瓦宫殿。1502年起的葡萄牙干涉及后来的战乱终结了它的繁荣。",
+    "ja": "タンザニア南部沿岸沖のキルワ・キシワニ島を中心とするキルワ・スルタン国は、その年代記によればシーラーズ出身の王子が建てたという。13世紀末からのマフダリー朝のもとで現在のモザンビークのソファラからの金交易を支配してスワヒリ都市で最も豊かになり、大モスクやフスニ・クブワ宮殿を築いた。1502年からのポルトガルの介入とその後の戦乱で繁栄は終わった。"
+   }
+  },
+  {
+   "from": 1300,
+   "to": 1890,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Interior chiefdoms and kingdoms",
+    "ko": "내륙의 족장국과 왕국",
+    "zh": "内陆的酋邦与王国",
+    "ja": "内陸の首長国と王国"
+   },
+   "summary": {
+    "en": "Inland, hundreds of societies developed their own political forms, from the irrigated terraces of Engaruka to the kingdoms of Karagwe and the Haya west of Lake Victoria, the Shambaa kingdom in the Usambara mountains and the many Nyamwezi chiefdoms of the central plateau. In the 19th century the long-distance caravan trade in ivory and slaves transformed these societies, enabling strong leaders such as Mirambo of the Nyamwezi and Mkwawa of the Hehe to build powerful states.",
+    "ko": "내륙에서는 수백 개의 사회가 고유한 정치 형태를 발전시켰다. 엥가루카의 관개 계단식 밭에서부터 빅토리아호 서쪽의 카라과 왕국과 하야족 왕국, 우삼바라산맥의 샴바 왕국, 중앙 고원의 수많은 니암웨지 족장국에 이르기까지 다양했다. 19세기 상아와 노예를 실어 나른 원거리 대상 교역은 이 사회들을 변모시켰고, 니암웨지의 미람보와 헤헤족의 음콰와 같은 강력한 지도자들이 강성한 국가를 세울 수 있게 했다.",
+    "zh": "在内陆，数以百计的社会发展出各自的政治形态：从恩加鲁卡的灌溉梯田，到维多利亚湖以西的卡拉圭和哈亚诸王国、乌桑巴拉山区的尚巴王国，以及中部高原众多的尼扬韦齐酋邦。19世纪贩运象牙和奴隶的远程商队贸易改变了这些社会，使尼扬韦齐人的米兰博、赫赫人的姆夸瓦等强势领袖得以建立强大的国家。",
+    "ja": "内陸では数百もの社会が独自の政治形態を発展させた。エンガルカの灌漑段々畑から、ヴィクトリア湖西方のカラグウェ王国やハヤ人の諸王国、ウサンバラ山地のシャンバー王国、中央高原の多数のニャムウェジ首長国までさまざまであった。19世紀には象牙と奴隷を運ぶ遠距離キャラバン交易がこれらの社会を変え、ニャムウェジのミランボやヘヘのムクワワのような強力な指導者が強大な国家を築いた。"
+   }
+  },
+  {
+   "from": 1505,
+   "to": 1698,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Portuguese dominance on the Swahili coast",
+    "ko": "스와힐리 해안의 포르투갈 지배",
+    "zh": "葡萄牙对斯瓦希里海岸的支配",
+    "ja": "スワヒリ海岸におけるポルトガルの支配"
+   },
+   "summary": {
+    "en": "After sacking Kilwa in 1505, the Portuguese sought to control the Indian Ocean trade by forcing Swahili towns to pay tribute and by building forts, notably Fort Jesus in Mombasa. Their direct presence on the Tanzanian coast was limited, but their monopolistic policies disrupted the old trading networks and many towns declined. Portuguese power north of the Ruvuma River collapsed after Omani forces took Fort Jesus in 1698.",
+    "ko": "1505년 킬와를 약탈한 포르투갈은 스와힐리 도시들에 조공을 강요하고 몸바사의 포트 지저스 같은 요새를 지어 인도양 교역을 장악하려 했다. 탄자니아 해안에 대한 직접 지배는 제한적이었지만, 독점 정책은 옛 교역망을 무너뜨렸고 많은 도시가 쇠퇴했다. 루부마강 이북의 포르투갈 세력은 1698년 오만군이 포트 지저스를 함락하면서 무너졌다.",
+    "zh": "1505年洗劫基尔瓦后，葡萄牙人迫使斯瓦希里城镇纳贡，并修建要塞（最著名的是蒙巴萨的耶稣堡），企图控制印度洋贸易。他们在坦桑尼亚海岸的直接存在有限，但垄断政策破坏了原有贸易网络，许多城镇因此衰落。1698年阿曼军队攻占耶稣堡后，葡萄牙在鲁伍马河以北的势力随之瓦解。",
+    "ja": "1505年にキルワを略奪したポルトガルは、スワヒリ諸都市に貢納を強い、モンバサのフォート・ジーザスなどの砦を築いてインド洋交易を支配しようとした。タンザニア沿岸への直接支配は限られていたが、独占政策は旧来の交易網を乱し、多くの都市が衰退した。ルヴマ川以北のポルトガル勢力は、1698年にオマーン軍がフォート・ジーザスを陥落させると崩壊した。"
+   }
+  },
+  {
+   "from": 1698,
+   "to": 1856,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Omani supremacy on the coast",
+    "ko": "해안에 대한 오만의 패권",
+    "zh": "阿曼对海岸的霸权",
+    "ja": "沿岸におけるオマーンの覇権"
+   },
+   "summary": {
+    "en": "After expelling the Portuguese, the Omani Arabs established their authority over Zanzibar, Pemba, Kilwa and much of the coast, often through local governors and alliances with Swahili elites. Under Sayyid Said in the early 19th century, Zanzibar became the commercial center of the western Indian Ocean, with clove plantations worked by enslaved people and caravans reaching deep into the interior. In 1840 Said made Zanzibar his capital.",
+    "ko": "포르투갈을 몰아낸 오만 아랍인들은 흔히 현지 총독과 스와힐리 엘리트와의 동맹을 통해 잔지바르, 펨바, 킬와 및 해안 대부분에 권위를 세웠다. 19세기 초 사이드 사이드 치하에서 잔지바르는 노예 노동으로 경작되는 정향 농장과 내륙 깊숙이 들어가는 대상 교역에 힘입어 서인도양의 상업 중심지가 되었다. 1840년 사이드는 잔지바르를 수도로 삼았다.",
+    "zh": "驱逐葡萄牙人后，阿曼阿拉伯人往往通过地方总督及与斯瓦希里精英的联盟，在桑给巴尔、奔巴、基尔瓦和大部分海岸确立权威。19世纪初在赛义德·赛义德统治下，桑给巴尔凭借以奴隶劳动经营的丁香种植园和深入内陆的商队贸易，成为西印度洋的商业中心。1840年赛义德以桑给巴尔为都城。",
+    "ja": "ポルトガルを追い出したオマーンのアラブ人は、多くの場合現地の総督やスワヒリ人エリートとの同盟を通じて、ザンジバル、ペンバ、キルワ、そして沿岸の大部分に権威を確立した。19世紀初めのサイイド・サイードのもとで、ザンジバルは奴隷労働によるクローブ農園と内陸奥深くに及ぶキャラバン交易によって西インド洋の商業中心となった。1840年、サイードはザンジバルを首都とした。"
+   }
+  },
+  {
+   "from": 1856,
+   "to": 1964,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Sultanate of Zanzibar",
+    "ko": "잔지바르 술탄국",
+    "zh": "桑给巴尔苏丹国",
+    "ja": "ザンジバル・スルタン国"
+   },
+   "summary": {
+    "en": "After Sayyid Said's death in 1856, Zanzibar and its coastal dependencies became a separate sultanate ruled by his son Majid and his successors. The sultanate lost its mainland claims to Germany and Britain in the 1880s and became a British protectorate in 1890, while the sultan remained nominal ruler of the islands. It gained independence in December 1963 and was overthrown by revolution in January 1964.",
+    "ko": "1856년 사이드 사이드가 죽은 뒤 잔지바르와 해안 속령은 그의 아들 마지드와 후계자들이 다스리는 별개의 술탄국이 되었다. 술탄국은 1880년대에 본토에 대한 권리를 독일과 영국에 빼앗겼고 1890년 영국 보호령이 되었으며, 술탄은 섬들의 명목상 통치자로 남았다. 1963년 12월 독립했지만 1964년 1월 혁명으로 무너졌다.",
+    "zh": "1856年赛义德·赛义德去世后，桑给巴尔及其沿海属地成为由其子马吉德及其继承者统治的独立苏丹国。1880年代苏丹国对大陆的主权被德国和英国夺走，1890年沦为英国保护国，苏丹仍是诸岛名义上的统治者。1963年12月独立，1964年1月被革命推翻。",
+    "ja": "1856年にサイイド・サイードが死ぬと、ザンジバルと沿岸の属領は息子マージドとその後継者が治める別個のスルタン国となった。スルタン国は1880年代に本土への権利をドイツとイギリスに奪われ、1890年にイギリスの保護領となったが、スルタンは島々の名目上の君主であり続けた。1963年12月に独立したが、1964年1月の革命で倒された。"
+   }
+  },
+  {
+   "from": 1885,
+   "to": 1919,
+   "kind": "colonial",
+   "qid": "Q153963",
+   "polity": "German Africa",
+   "name": {
+    "en": "German East Africa",
+    "ko": "독일령 동아프리카",
+    "zh": "德属东非",
+    "ja": "ドイツ領東アフリカ"
+   },
+   "summary": {
+    "en": "German East Africa grew out of treaties made by Carl Peters' German East Africa Company and became a crown colony in 1891 after the company failed to suppress coastal resistance. It covered mainland Tanzania as well as Rwanda and Burundi. German rule, marked by wars of conquest against the Hehe and others and the brutal suppression of the Maji Maji uprising, introduced cash crops such as sisal, cotton and coffee and the Central Railway.",
+    "ko": "독일령 동아프리카는 카를 페터스의 독일 동아프리카 회사가 맺은 조약에서 출발했으며, 회사가 해안 저항을 진압하지 못하자 1891년 직할 식민지가 되었다. 영역은 탄자니아 본토와 르완다·부룬디를 포함했다. 헤헤족 등에 대한 정복 전쟁과 마지마지 봉기의 잔혹한 진압으로 특징지어지는 독일 통치는 사이잘·면화·커피 같은 환금작물과 중앙 철도를 들여왔다.",
+    "zh": "德属东非源于卡尔·彼得斯的德国东非公司签订的条约，因公司未能镇压沿海抵抗，1891年改为直辖殖民地。其范围包括坦桑尼亚大陆以及卢旺达和布隆迪。德国统治以对赫赫人等的征服战争和对马及马及起义的残酷镇压为特征，同时引入了剑麻、棉花和咖啡等经济作物以及中央铁路。",
+    "ja": "ドイツ領東アフリカはカール・ペータースのドイツ東アフリカ会社が結んだ条約から始まり、会社が沿岸の抵抗を鎮圧できなかったため1891年に直轄植民地となった。領域はタンザニア本土とルワンダ・ブルンジを含んだ。ヘヘ人などへの征服戦争とマジ・マジ反乱の苛烈な鎮圧に特徴づけられるドイツ支配は、サイザル麻・綿花・コーヒーなどの換金作物と中央鉄道をもたらした。"
+   }
+  },
+  {
+   "from": 1916,
+   "to": 1961,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "British Africa",
+   "name": {
+    "en": "British Tanganyika Territory",
+    "ko": "영국령 탕가니카",
+    "zh": "英属坦噶尼喀",
+    "ja": "イギリス領タンガニーカ"
+   },
+   "summary": {
+    "en": "Conquered by British and allied forces during World War I, the former German colony became the Tanganyika Territory, administered by Britain under a League of Nations mandate and, from 1946, as a UN trust territory. Governor Donald Cameron introduced indirect rule through local chiefs in the 1920s. African political organization grew from the Tanganyika African Association to TANU, which led the country to independence.",
+    "ko": "제1차 세계대전 중 영국과 연합군이 점령한 옛 독일 식민지는 탕가니카 영토가 되어 국제연맹 위임통치령으로, 1946년부터는 유엔 신탁통치령으로 영국의 관리를 받았다. 1920년대 도널드 캐머런 총독은 현지 족장을 통한 간접 통치를 도입했다. 아프리카인의 정치 조직은 탕가니카 아프리카인 협회에서 TANU로 성장했고, TANU가 독립을 이끌었다.",
+    "zh": "第一次世界大战期间被英国及其盟军占领的前德国殖民地成为坦噶尼喀领地，由英国依据国际联盟委任统治、1946年起作为联合国托管地加以管理。1920年代唐纳德·卡梅伦总督推行通过地方酋长的间接统治。非洲人的政治组织从坦噶尼喀非洲人协会发展为坦噶尼喀非洲民族联盟，后者领导国家走向独立。",
+    "ja": "第一次世界大戦中にイギリスと連合軍に占領された旧ドイツ植民地はタンガニーカ領となり、国際連盟の委任統治領として、1946年からは国連信託統治領としてイギリスに統治された。1920年代、ドナルド・キャメロン総督は現地の首長を通じた間接統治を導入した。アフリカ人の政治組織はタンガニーカ・アフリカ人協会からTANUへと成長し、TANUが独立を導いた。"
+   }
+  },
+  {
+   "from": 1961,
+   "to": 1964,
+   "kind": "state",
+   "qid": "Q431731",
+   "polity": null,
+   "name": {
+    "en": "Independent Tanganyika",
+    "ko": "독립국 탕가니카",
+    "zh": "独立的坦噶尼喀",
+    "ja": "独立国タンガニーカ"
+   },
+   "summary": {
+    "en": "Tanganyika became independent on 9 December 1961 under Julius Nyerere and the TANU party, and a republic a year later with Nyerere as president. The young state emphasized national unity across more than a hundred ethnic groups, with Swahili as a common language. It existed as a separate state until its union with Zanzibar in April 1964.",
+    "ko": "탕가니카는 1961년 12월 9일 줄리어스 니에레레와 TANU의 지도 아래 독립했고, 1년 뒤 니에레레를 대통령으로 하는 공화국이 되었다. 이 신생 국가는 스와힐리어를 공용어로 삼아 100개가 넘는 민족 집단 사이의 국민 통합을 강조했다. 1964년 4월 잔지바르와 연합할 때까지 별개의 국가로 존재했다.",
+    "zh": "坦噶尼喀于1961年12月9日在朱利叶斯·尼雷尔和坦噶尼喀非洲民族联盟领导下独立，一年后成为共和国，尼雷尔任总统。这个年轻国家以斯瓦希里语为共同语言，强调一百多个民族之间的国家团结。直到1964年4月与桑给巴尔联合前，它一直是独立国家。",
+    "ja": "タンガニーカは1961年12月9日にジュリウス・ニエレレとTANUの指導のもとで独立し、1年後にはニエレレを大統領とする共和国となった。若い国家はスワヒリ語を共通語として100を超える民族集団の国民統合を重視した。1964年4月にザンジバルと連合するまで、別個の国家として存在した。"
+   }
+  },
+  {
+   "from": 1964,
+   "to": 1964,
+   "kind": "state",
+   "qid": "Q157535",
+   "polity": null,
+   "name": {
+    "en": "People's Republic of Zanzibar",
+    "ko": "잔지바르 인민공화국",
+    "zh": "桑给巴尔人民共和国",
+    "ja": "ザンジバル人民共和国"
+   },
+   "summary": {
+    "en": "The People's Republic of Zanzibar and Pemba was proclaimed after the revolution of January 1964 that overthrew the sultan, with Abeid Karume of the Afro-Shirazi Party as president. The revolution was accompanied by mass killings of Arab and South Asian residents. Within three months Karume agreed to unite with Tanganyika, though Zanzibar kept its own president and government.",
+    "ko": "1964년 1월 술탄을 무너뜨린 혁명 뒤 아프로시라지당의 아베이드 카루메를 대통령으로 하는 잔지바르·펨바 인민공화국이 선포되었다. 혁명 과정에서 아랍계와 남아시아계 주민이 대량 학살되었다. 석 달이 채 안 되어 카루메는 탕가니카와의 연합에 동의했지만, 잔지바르는 자체 대통령과 정부를 유지했다.",
+    "zh": "1964年1月推翻苏丹的革命后，桑给巴尔和奔巴人民共和国宣告成立，非洲—设拉子党的阿贝德·卡鲁米任总统。革命伴随着对阿拉伯裔和南亚裔居民的大规模杀戮。不到三个月，卡鲁米同意与坦噶尼喀联合，但桑给巴尔保留了自己的总统和政府。",
+    "ja": "1964年1月にスルタンを倒した革命の後、アフロ・シラジ党のアベイド・カルメを大統領とするザンジバル・ペンバ人民共和国が宣言された。革命ではアラブ系や南アジア系の住民が大量に殺害された。3か月足らずでカルメはタンガニーカとの連合に同意したが、ザンジバルは独自の大統領と政府を保った。"
+   }
+  },
+  {
+   "from": 1964,
+   "to": 1985,
+   "kind": "state",
+   "qid": "Q924",
+   "polity": "Tanzania",
+   "name": {
+    "en": "United Republic under Nyerere: Ujamaa socialism",
+    "ko": "니에레레 시대의 연합공화국: 우자마 사회주의",
+    "zh": "尼雷尔时期的联合共和国：乌贾马社会主义",
+    "ja": "ニエレレ時代の連合共和国：ウジャマー社会主義"
+   },
+   "summary": {
+    "en": "The United Republic of Tanzania, formed in April 1964, was led by President Julius Nyerere until 1985. Under the 1967 Arusha Declaration he pursued Ujamaa, an African socialism of self-reliance, nationalization and village collectivization, alongside a one-party state and a strong commitment to Swahili, education and the liberation movements of southern Africa. Tanzania gained a reputation for stability and national unity, but its economy stagnated by the early 1980s.",
+    "ko": "1964년 4월 수립된 탄자니아 연합공화국은 1985년까지 줄리어스 니에레레 대통령이 이끌었다. 그는 1967년 아루샤 선언에 따라 자립, 국유화, 마을 집단화를 내세운 아프리카 사회주의 우자마를 추진했으며, 일당제 국가와 함께 스와힐리어·교육·남부 아프리카 해방운동에 대한 강한 지원을 펼쳤다. 탄자니아는 안정과 국민 통합으로 명성을 얻었지만 1980년대 초 경제는 침체했다.",
+    "zh": "1964年4月成立的坦桑尼亚联合共和国由朱利叶斯·尼雷尔总统领导至1985年。他依据1967年的《阿鲁沙宣言》推行以自力更生、国有化和村庄集体化为核心的非洲社会主义“乌贾马”，同时实行一党制，大力推广斯瓦希里语和教育，并坚定支持南部非洲的解放运动。坦桑尼亚以稳定和民族团结著称，但到1980年代初经济陷入停滞。",
+    "ja": "1964年4月に成立したタンザニア連合共和国は、1985年までジュリウス・ニエレレ大統領に率いられた。彼は1967年のアルーシャ宣言に基づき、自立・国有化・村落集団化を柱とするアフリカ社会主義ウジャマーを推進し、一党制国家のもとでスワヒリ語と教育の普及、南部アフリカ解放運動への強い支援を行った。タンザニアは安定と国民統合で評価されたが、1980年代初めには経済が停滞した。"
+   }
+  },
+  {
+   "from": 1985,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q924",
+   "polity": "Tanzania",
+   "name": {
+    "en": "Liberalization and the multiparty era",
+    "ko": "자유화와 다당제 시대",
+    "zh": "自由化与多党制时代",
+    "ja": "自由化と複数政党制の時代"
+   },
+   "summary": {
+    "en": "After Nyerere stepped down in 1985, his successors liberalized the economy and in 1992 legalized opposition parties, although the ruling CCM has won every national election since. Tanzania became one of Africa's steadier economies, with growth in mining, tourism and infrastructure, and the government moved its seat to Dodoma. Elections in Zanzibar and on the mainland have repeatedly been disputed, most acutely in 2025.",
+    "ko": "1985년 니에레레가 물러난 뒤 후계자들은 경제를 자유화하고 1992년 야당을 합법화했지만, 집권 CCM은 이후 모든 전국 선거에서 승리했다. 탄자니아는 광업·관광·인프라 성장과 함께 아프리카에서 비교적 안정된 경제 가운데 하나가 되었고, 정부는 도도마로 이전했다. 잔지바르와 본토의 선거는 거듭 논란이 되었으며 2025년에 그 갈등이 가장 첨예했다.",
+    "zh": "1985年尼雷尔卸任后，其继任者推行经济自由化，并于1992年使反对党合法化，但执政的革命党此后赢得了历次全国选举。坦桑尼亚凭借采矿、旅游和基础设施的增长成为非洲较为稳定的经济体之一，政府也迁往多多马。桑给巴尔和大陆的选举屡有争议，2025年尤为激烈。",
+    "ja": "1985年にニエレレが退くと、後継者たちは経済を自由化し1992年に野党を合法化したが、与党CCMはその後すべての国政選挙で勝利している。タンザニアは鉱業・観光・インフラの成長とともにアフリカで比較的安定した経済の一つとなり、政府はドドマへ移転した。ザンジバルと本土の選挙はたびたび紛糾し、2025年には最も激しく争われた。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Rock artists of Kondoa and the arrival of herders",
+    "ko": "콘도아의 암벽화가와 목축민의 도래",
+    "zh": "孔多阿岩画与牧民的到来",
+    "ja": "コンドアの岩絵と牧畜民の到来"
+   },
+   "description": {
+    "en": "Hunter-gatherers painted animals, people and abstract figures on rock shelters in the Kondoa region of central Tanzania over many centuries; the sites are now a UNESCO World Heritage property. From the 3rd millennium BC onward, cattle-herding communities of the Pastoral Neolithic began spreading south from Kenya into the northern Tanzanian highlands. Over time herders, foragers and later farmers came to share the landscape.",
+    "ko": "탄자니아 중부 콘도아 지역의 수렵채집민은 수세기에 걸쳐 바위 그늘에 동물·사람·추상적 형상을 그렸으며, 이 유적들은 현재 유네스코 세계유산이다. 기원전 3천년기 이후 목축 신석기 문화의 소 목축 공동체가 케냐에서 탄자니아 북부 고원으로 남하하기 시작했다. 시간이 흐르며 목축민·수렵채집민·이후의 농경민이 같은 땅을 나누어 쓰게 되었다.",
+    "zh": "坦桑尼亚中部孔多阿地区的狩猎采集者在数百年间于岩棚上绘制动物、人物和抽象图案，这些遗址如今已列入联合国教科文组织世界遗产。自公元前三千纪起，畜牧新石器文化的养牛群体开始从肯尼亚向南扩散到坦桑尼亚北部高原。随着时间推移，牧民、狩猎采集者和后来的农耕者共同生活在这片土地上。",
+    "ja": "タンザニア中部コンドア地方の狩猟採集民は、何世紀にもわたり岩陰に動物や人、抽象的な図形を描いた。これらの遺跡は現在ユネスコ世界遺産である。紀元前3千年紀以降、牧畜新石器文化の牛牧畜民がケニアからタンザニア北部の高地へ南下し始めた。やがて牧畜民、狩猟採集民、のちの農耕民が同じ土地を分かち合うようになった。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Early iron smelting west of Lake Victoria",
+    "ko": "빅토리아호 서쪽의 초기 제철",
+    "zh": "维多利亚湖以西的早期冶铁",
+    "ja": "ヴィクトリア湖西岸の初期製鉄"
+   },
+   "description": {
+    "en": "Bantu-speaking farmers of the Urewe tradition were smelting iron in the Kagera region west of Lake Victoria by around the mid-1st millennium BC, among the earliest ironworking in East Africa. Archaeologists working with Haya communities have studied their sophisticated furnaces. Iron tools helped farmers clear land and supported the spread of agriculture across the region.",
+    "ko": "우레웨 전통의 반투어계 농경민은 기원전 1천년기 중반 무렵 빅토리아호 서쪽 카게라 지역에서 철을 제련하고 있었는데, 이는 동아프리카에서 가장 이른 제철 가운데 하나다. 하야족 공동체와 협력한 고고학자들은 그들의 정교한 용광로를 연구해 왔다. 철제 도구는 농민들이 땅을 개간하는 데 도움을 주었고 이 지역 전역에 농경이 퍼지는 것을 뒷받침했다.",
+    "zh": "大约在公元前一千纪中叶，乌雷韦传统的班图语农耕者已在维多利亚湖以西的卡盖拉地区冶炼铁器，这是东非最早的冶铁活动之一。考古学家与哈亚族社区合作，研究了他们精巧的熔炉。铁制工具帮助农民开垦土地，推动了农业在整个地区的传播。",
+    "ja": "ウレウェ伝統のバントゥー系農耕民は、紀元前1千年紀半ば頃までにヴィクトリア湖西方のカゲラ地方で鉄を製錬しており、東アフリカで最も早い製鉄の一つである。ハヤ人の共同体と協力した考古学者たちは、その精巧な炉を研究してきた。鉄器は農民の開墾を助け、地域全体への農耕の広がりを支えた。"
+   }
+  },
+  {
+   "year": 50,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Rhapta in the Periplus of the Erythraean Sea",
+    "ko": "『에리트라이해 안내기』 속의 라프타",
+    "zh": "《厄立特里亚海航行记》中的拉普塔",
+    "ja": "『エリュトゥラー海案内記』のラプタ"
+   },
+   "description": {
+    "en": "Around the mid-1st century AD, the Greek merchants' guide known as the Periplus of the Erythraean Sea described Rhapta as the last market town of Azania, ruled under the authority of an Arabian chief. Traders bought ivory, rhinoceros horn and tortoiseshell there in exchange for iron goods. Rhapta's exact location is unknown, but it is generally placed on the Tanzanian coast, perhaps near the Rufiji or Pangani rivers.",
+    "ko": "서기 1세기 중엽경 그리스 상인들의 안내서인 『에리트라이해 안내기』는 라프타를 아자니아의 마지막 시장 도시로 묘사하며, 아라비아 족장의 권위 아래 다스려졌다고 기록했다. 상인들은 그곳에서 철제품을 주고 상아·코뿔소 뿔·거북 등딱지를 샀다. 라프타의 정확한 위치는 알 수 없지만, 대개 루피지강이나 팡가니강 부근 등 탄자니아 해안에 있었던 것으로 본다.",
+    "zh": "约公元1世纪中叶，希腊商人的指南《厄立特里亚海航行记》称拉普塔为阿扎尼亚最后的集市城镇，处于一位阿拉伯首领的权威之下。商人在那里用铁器换取象牙、犀角和玳瑁。拉普塔的确切位置不详，但一般认为位于坦桑尼亚海岸，可能在鲁菲吉河或潘加尼河附近。",
+    "ja": "紀元1世紀半ば頃、ギリシア商人の案内書『エリュトゥラー海案内記』はラプタをアザニア最後の市場町として描き、アラビアの首長の権威のもとにあったと記している。商人たちはそこで鉄製品と引き換えに象牙、サイの角、鼈甲を買った。ラプタの正確な位置は不明だが、一般にはルフィジ川やパンガニ川付近などタンザニア沿岸にあったとされる。"
+   }
+  },
+  {
+   "year": 800,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Rise of the Swahili Coast Trading Towns",
+    "ko": "스와힐리 해안 무역 도시의 발흥",
+    "zh": "斯瓦希里海岸贸易城镇的兴起",
+    "ja": "スワヒリ海岸交易都市の勃興"
+   },
+   "description": {
+    "en": "From around the 8th and 9th centuries, Bantu-speaking communities on the East African coast, at sites such as Unguja Ukuu on Zanzibar, traded ivory, gold, mangrove timber and other goods with merchants from Arabia, Persia and India. Islam gradually spread among the coastal elites, and towns built mosques and houses of coral stone. These settlements grew into the Islamic-influenced Swahili city-states such as Kilwa and the towns of Zanzibar and Pemba.",
+    "ko": "8~9세기 무렵부터 잔지바르의 웅구자 우쿠 등 동아프리카 해안의 반투어계 공동체는 아라비아·페르시아·인도 상인과 상아·금·맹그로브 목재 등을 거래했다. 이슬람은 해안 엘리트 사이에 점차 퍼졌고, 도시들은 산호석으로 모스크와 가옥을 지었다. 이 정착지들은 킬와와 잔지바르·펨바의 도시들 같은 이슬람의 영향을 받은 스와힐리 도시국가로 성장했다.",
+    "zh": "约从8至9世纪起，东非海岸的班图语社群（如桑给巴尔的温古贾乌库）与来自阿拉伯、波斯和印度的商人交易象牙、黄金、红树林木材等货物。伊斯兰教在沿海精英中逐渐传播，城镇用珊瑚石建造清真寺和房屋。这些聚落发展成受伊斯兰影响的斯瓦希里城邦，如基尔瓦以及桑给巴尔和奔巴的城镇。",
+    "ja": "8〜9世紀頃から、ザンジバルのウングジャ・ウクなど東アフリカ沿岸のバントゥー系の共同体は、アラビア・ペルシア・インドの商人と象牙、金、マングローブ材などを取引した。イスラムは沿岸のエリートの間に徐々に広まり、町々はサンゴ石でモスクや家屋を建てた。これらの集落は、キルワやザンジバル・ペンバの町々など、イスラムの影響を受けたスワヒリ都市国家へと成長した。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": "Q3107156",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the Kilwa Sultanate (traditional)",
+    "ko": "킬와 술탄국의 건국(전승)",
+    "zh": "基尔瓦苏丹国的建立（传说）",
+    "ja": "キルワ・スルタン国の建国（伝承）"
+   },
+   "description": {
+    "en": "According to the Kilwa Chronicle, a prince named Ali ibn al-Hassan from Shiraz in Persia bought the island of Kilwa Kisiwani from a local ruler and founded a dynasty there, an event traditionally placed in the late 10th century. Historians regard the 'Shirazi' origin story as partly legendary, reflecting coastal elites' claims to prestigious ancestry. Archaeology shows that Kilwa grew into an important stone-built town in the following centuries.",
+    "ko": "킬와 연대기에 따르면 페르시아 시라즈 출신 왕자 알리 이븐 알하산이 현지 통치자에게서 킬와 키시와니섬을 사들여 왕조를 세웠으며, 이 일은 전통적으로 10세기 후반으로 여겨진다. 역사가들은 이 '시라지' 기원 이야기를 해안 엘리트의 명예로운 혈통 주장을 반영한 부분적 전설로 본다. 고고학은 킬와가 이후 수세기 동안 중요한 석조 도시로 성장했음을 보여준다.",
+    "zh": "据《基尔瓦编年史》记载，一位来自波斯设拉子、名叫阿里·伊本·哈桑的王子从当地统治者手中买下基尔瓦基斯瓦尼岛并在此建立王朝，传统上认为此事发生在10世纪末。历史学家认为这一“设拉子”起源故事部分属于传说，反映了沿海精英对显赫祖源的标榜。考古表明，基尔瓦在此后数百年间发展成为重要的石建城镇。",
+    "ja": "キルワ年代記によれば、ペルシアのシーラーズ出身のアリー・イブン・アル＝ハサンという王子が現地の支配者からキルワ・キシワニ島を買い取り王朝を開いたとされ、伝統的には10世紀後半の出来事とされる。歴史家はこの「シラジ」起源説を、沿岸エリートが高貴な祖先を主張したことを反映する部分的な伝説とみている。考古学は、キルワがその後数世紀で重要な石造都市に成長したことを示している。"
+   }
+  },
+  {
+   "year": 1107,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Kizimkazi mosque inscription",
+    "ko": "키짐카지 모스크 비문",
+    "zh": "基济姆卡济清真寺铭文",
+    "ja": "キジムカジ・モスクの碑文"
+   },
+   "description": {
+    "en": "A Kufic inscription in the mosque at Kizimkazi on the southern tip of Zanzibar records its construction in the Islamic year 500, corresponding to 1107 AD. It is one of the oldest dated Islamic inscriptions on the East African coast. The mosque testifies to the established Muslim communities of the Swahili coast by the early 12th century.",
+    "ko": "잔지바르 남단 키짐카지의 모스크에 있는 쿠파체 비문은 이슬람력 500년, 곧 서기 1107년에 건립되었다고 기록한다. 이는 동아프리카 해안에서 연대가 명시된 가장 오래된 이슬람 비문 가운데 하나다. 이 모스크는 12세기 초 스와힐리 해안에 무슬림 공동체가 자리 잡고 있었음을 증언한다.",
+    "zh": "桑给巴尔南端基济姆卡济清真寺内的库法体铭文记载其建于伊斯兰历500年，即公元1107年。这是东非海岸有明确纪年的最古老伊斯兰铭文之一，证明到12世纪初斯瓦希里海岸已有稳固的穆斯林社区。",
+    "ja": "ザンジバル南端キジムカジのモスクにあるクーフィー体の碑文は、イスラム暦500年、すなわち西暦1107年の建立を記している。これは東アフリカ沿岸で年代の記された最古級のイスラム碑文の一つである。このモスクは、12世紀初めまでにスワヒリ海岸にムスリム共同体が根付いていたことを物語る。"
+   }
+  },
+  {
+   "year": 1277,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mahdali dynasty takes power in Kilwa",
+    "ko": "킬와의 마흐달리 왕조 집권",
+    "zh": "马赫达利王朝在基尔瓦掌权",
+    "ja": "キルワでマフダリー朝が成立"
+   },
+   "description": {
+    "en": "Around the late 13th century a new dynasty, the Mahdali, claiming descent from Yemeni sayyids, took power in Kilwa. Under its rulers Kilwa gained control of the gold trade from Sofala, south of the Zambezi, and minted its own copper coins. Sultan al-Hasan ibn Sulaiman built the vast palace of Husuni Kubwa and enlarged the Great Mosque in the early 14th century.",
+    "ko": "13세기 후반 무렵 예멘의 사이드 혈통을 내세운 새 왕조 마흐달리가 킬와에서 권력을 잡았다. 이 왕조 아래 킬와는 잠베지강 남쪽 소팔라에서 오는 금 교역을 장악하고 자체 구리 동전을 주조했다. 술탄 알하산 이븐 술라이만은 14세기 초 거대한 후수니 쿠브와 궁전을 짓고 대모스크를 확장했다.",
+    "zh": "约13世纪末，自称也门圣裔后代的马赫达利王朝在基尔瓦掌权。在其统治下，基尔瓦控制了来自赞比西河以南索法拉的黄金贸易，并铸造自己的铜币。14世纪初，苏丹哈桑·伊本·苏莱曼修建了宏大的胡苏尼库布瓦宫殿并扩建了大清真寺。",
+    "ja": "13世紀後半頃、イエメンのサイイドの血統を称する新王朝マフダリー朝がキルワで権力を握った。その支配のもとでキルワはザンベジ川以南のソファラからの金交易を押さえ、独自の銅貨を鋳造した。14世紀初め、スルタンのアル＝ハサン・イブン・スライマーンは巨大なフスニ・クブワ宮殿を築き、大モスクを拡張した。"
+   }
+  },
+  {
+   "year": 1331,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Golden Age of the Kilwa Sultanate",
+    "ko": "킬와 술탄국의 황금기",
+    "zh": "基尔瓦苏丹国的黄金时代",
+    "ja": "キルワ・スルタン国の黄金時代"
+   },
+   "description": {
+    "en": "At the height of its power, Kilwa Kisiwani controlled the gold trade flowing from the African interior through Sofala. The Moroccan traveler Ibn Battuta, who visited in 1331, described Kilwa as one of the most beautiful and best-built cities in the world and praised the generosity of its sultan. The ruins of Kilwa Kisiwani and nearby Songo Mnara are now a UNESCO World Heritage Site.",
+    "ko": "전성기의 킬와 키시와니는 소팔라를 거쳐 아프리카 내륙에서 흘러나오는 금 교역을 장악했다. 1331년 이곳을 방문한 모로코 여행가 이븐 바투타는 킬와를 세계에서 가장 아름답고 잘 지어진 도시 가운데 하나로 묘사하고 술탄의 관대함을 칭송했다. 킬와 키시와니와 인근 송고 음나라의 유적은 현재 유네스코 세계유산이다.",
+    "zh": "鼎盛时期的基尔瓦基斯瓦尼控制着经索法拉从非洲内陆流出的黄金贸易。1331年到访的摩洛哥旅行家伊本·白图泰称基尔瓦是世界上最美丽、建造最精良的城市之一，并称赞其苏丹慷慨大方。基尔瓦基斯瓦尼和附近松戈姆纳拉的遗址如今是联合国教科文组织世界遗产。",
+    "ja": "最盛期のキルワ・キシワニは、ソファラを経てアフリカ内陸から流れ出る金交易を支配していた。1331年に訪れたモロッコの旅行家イブン・バットゥータは、キルワを世界で最も美しく立派に造られた都市の一つと描き、スルタンの気前よさを称えた。キルワ・キシワニと近隣のソンゴ・ムナラの遺跡は現在ユネスコ世界遺産となっている。"
+   }
+  },
+  {
+   "year": 1400,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Irrigated terraces of Engaruka",
+    "ko": "엥가루카의 관개 계단식 밭",
+    "zh": "恩加鲁卡的灌溉梯田",
+    "ja": "エンガルカの灌漑段々畑"
+   },
+   "description": {
+    "en": "From around the 15th century, farmers at Engaruka, at the foot of the Rift Valley escarpment in northern Tanzania, built an extensive system of stone-lined canals, terraces and fields fed by mountain streams. The complex, one of the largest abandoned irrigation systems in sub-Saharan Africa, was used for several centuries before being abandoned around the 18th century. Its builders' identity is still debated by archaeologists.",
+    "ko": "15세기 무렵부터 탄자니아 북부 대지구대 단층애 기슭의 엥가루카 농민들은 산골 물을 끌어들이는 돌로 쌓은 수로와 계단식 밭, 경작지로 이루어진 광대한 체계를 만들었다. 사하라 이남 아프리카에서 가장 큰 버려진 관개 시설 가운데 하나인 이 유적은 수세기 동안 사용되다가 18세기 무렵 버려졌다. 이를 건설한 사람들이 누구였는지는 여전히 고고학자들 사이에서 논쟁 중이다.",
+    "zh": "约从15世纪起，坦桑尼亚北部东非大裂谷崖壁下的恩加鲁卡农民修建了由山溪供水、以石块砌成的大规模水渠、梯田和农田系统。这是撒哈拉以南非洲规模最大的废弃灌溉系统之一，使用了数百年，约在18世纪被废弃。其建造者的身份至今仍有争论。",
+    "ja": "15世紀頃から、タンザニア北部の大地溝帯の断崖の麓にあるエンガルカの農民は、山の渓流を引き込む石積みの水路・段々畑・耕地からなる大規模な体系を築いた。サハラ以南アフリカ最大級の放棄された灌漑遺構であるこの施設は数世紀使われた後、18世紀頃に放棄された。築いた人々が誰であったかは今も考古学者の間で議論されている。"
+   }
+  },
+  {
+   "year": 1502,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Vasco da Gama forces Kilwa to pay tribute",
+    "ko": "바스쿠 다가마, 킬와에 조공 강요",
+    "zh": "达·伽马迫使基尔瓦纳贡",
+    "ja": "ヴァスコ・ダ・ガマがキルワに貢納を強要"
+   },
+   "description": {
+    "en": "On his second voyage to India, Vasco da Gama anchored off Kilwa with a heavily armed fleet and threatened to destroy the town unless its ruler submitted to the king of Portugal. The sultan agreed to pay an annual tribute in gold. The episode marked the beginning of Portugal's aggressive campaign to control the Swahili coast and its trade.",
+    "ko": "두 번째 인도 항해에서 바스쿠 다가마는 중무장한 함대를 이끌고 킬와 앞바다에 정박해, 통치자가 포르투갈 국왕에게 복종하지 않으면 도시를 파괴하겠다고 위협했다. 술탄은 해마다 금으로 조공을 바치는 데 동의했다. 이 사건은 스와힐리 해안과 그 교역을 장악하려는 포르투갈의 공격적 행보의 시작이었다.",
+    "zh": "在第二次印度航行中，瓦斯科·达·伽马率重武装舰队停泊在基尔瓦外海，威胁说若统治者不臣服葡萄牙国王就摧毁该城。苏丹同意每年以黄金纳贡。这一事件标志着葡萄牙为控制斯瓦希里海岸及其贸易而展开的强硬行动的开始。",
+    "ja": "2度目のインド航海で、ヴァスコ・ダ・ガマは重武装の艦隊を率いてキルワ沖に停泊し、支配者がポルトガル国王に服従しなければ町を破壊すると脅した。スルタンは毎年金で貢納することに同意した。この出来事は、スワヒリ海岸とその交易を支配しようとするポルトガルの攻勢の始まりであった。"
+   }
+  },
+  {
+   "year": 1505,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Portuguese Seize the Swahili Coast",
+    "ko": "포르투갈의 스와힐리 해안 장악",
+    "zh": "葡萄牙人控制斯瓦希里海岸",
+    "ja": "ポルトガルによるスワヒリ海岸の制圧"
+   },
+   "description": {
+    "en": "In 1505 a Portuguese fleet under Francisco de Almeida sacked Kilwa, installed a puppet ruler and built a fort, before going on to sack Mombasa. The fort at Kilwa was abandoned within a few years, but Portugal dominated Indian Ocean trade on the coast for nearly two centuries through tribute, forts and licensing of shipping. Portuguese control of the Sofala gold trade hastened the decline of Kilwa and other Swahili city-states.",
+    "ko": "1505년 프란시스쿠 드 알메이다가 이끄는 포르투갈 함대는 킬와를 약탈하고 꼭두각시 통치자를 세운 뒤 요새를 지었고, 이어 몸바사를 약탈했다. 킬와 요새는 몇 년 만에 버려졌지만, 포르투갈은 조공·요새·항해 허가제를 통해 거의 두 세기 동안 해안의 인도양 교역을 지배했다. 포르투갈의 소팔라 금 교역 장악은 킬와를 비롯한 스와힐리 도시국가들의 쇠퇴를 앞당겼다.",
+    "zh": "1505年，弗朗西斯科·德·阿尔梅达率领的葡萄牙舰队洗劫基尔瓦，扶植傀儡统治者并修建要塞，随后又洗劫蒙巴萨。基尔瓦要塞几年后即被放弃，但葡萄牙通过纳贡、要塞和航运许可制度，在近两个世纪里主导了海岸的印度洋贸易。葡萄牙对索法拉黄金贸易的控制加速了基尔瓦等斯瓦希里城邦的衰落。",
+    "ja": "1505年、フランシスコ・デ・アルメイダ率いるポルトガル艦隊はキルワを略奪し、傀儡の支配者を立てて砦を築き、続いてモンバサを略奪した。キルワの砦は数年で放棄されたが、ポルトガルは貢納、要塞、航行許可制度によって約2世紀にわたり沿岸のインド洋交易を支配した。ポルトガルによるソファラの金交易の掌握は、キルワなどスワヒリ都市国家の衰退を早めた。"
+   }
+  },
+  {
+   "year": 1587,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Zimba raid on Kilwa",
+    "ko": "짐바족의 킬와 습격",
+    "zh": "津巴人袭击基尔瓦",
+    "ja": "ジンバ人のキルワ襲撃"
+   },
+   "description": {
+    "en": "According to Portuguese accounts, a warrior band known as the Zimba, coming from the interior south of the Zambezi region, attacked Kilwa in 1587 and killed a large part of its population. The Zimba went on to threaten Mombasa and Malindi before being defeated. The raid further weakened a town already in decline.",
+    "ko": "포르투갈 측 기록에 따르면 잠베지 지역 남쪽 내륙에서 온 짐바라 불린 전사 집단이 1587년 킬와를 습격해 주민 상당수를 죽였다. 짐바족은 이후 몸바사와 말린디를 위협하다가 격퇴되었다. 이 습격은 이미 쇠퇴하던 도시를 더욱 약화시켰다.",
+    "zh": "据葡萄牙方面的记载，一支被称为津巴人、来自赞比西地区以南内陆的武装群体于1587年袭击基尔瓦，杀死了大批居民。津巴人随后威胁蒙巴萨和马林迪，最终被击败。这次袭击使本已衰落的基尔瓦更加凋敝。",
+    "ja": "ポルトガル側の記録によれば、ザンベジ地方南方の内陸から来たジンバと呼ばれる戦士集団が1587年にキルワを襲い、住民の多くを殺害した。ジンバはその後モンバサやマリンディを脅かしたが撃退された。この襲撃はすでに衰退していた町をさらに弱らせた。"
+   }
+  },
+  {
+   "year": 1698,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Fort Jesus and the rise of Omani power",
+    "ko": "포트 지저스 함락과 오만 세력의 부상",
+    "zh": "耶稣堡陷落与阿曼势力崛起",
+    "ja": "フォート・ジーザスの陥落とオマーン勢力の台頭"
+   },
+   "description": {
+    "en": "After a siege of almost three years, Omani forces captured the Portuguese stronghold of Fort Jesus in Mombasa in 1698, having already raided Portuguese positions on Zanzibar and elsewhere in earlier decades. The fall of the fort ended Portuguese power on the coast north of the Ruvuma River. The Omani sultanate gradually took over Zanzibar, Pemba and Kilwa, building a fort in Zanzibar town.",
+    "ko": "약 3년에 걸친 포위 끝에 오만군은 1698년 몸바사에 있던 포르투갈의 거점 포트 지저스를 함락했는데, 그 이전 수십 년 동안 이미 잔지바르 등지의 포르투갈 거점을 공격해 왔다. 요새 함락으로 루부마강 이북 해안의 포르투갈 세력은 끝났다. 오만 술탄국은 점차 잔지바르·펨바·킬와를 장악하고 잔지바르 시내에 요새를 지었다.",
+    "zh": "经过近三年的围攻，阿曼军队于1698年攻克葡萄牙在蒙巴萨的据点耶稣堡；此前数十年他们已袭击过桑给巴尔等地的葡萄牙据点。要塞陷落结束了葡萄牙在鲁伍马河以北海岸的势力。阿曼苏丹国逐步控制桑给巴尔、奔巴和基尔瓦，并在桑给巴尔城修建了要塞。",
+    "ja": "約3年の包囲の末、オマーン軍は1698年にモンバサのポルトガルの拠点フォート・ジーザスを陥落させた。それ以前の数十年間にもザンジバルなどのポルトガル拠点を攻撃していた。砦の陥落によりルヴマ川以北の沿岸におけるポルトガル勢力は終わった。オマーンのスルタン国は次第にザンジバル、ペンバ、キルワを掌握し、ザンジバルの町に砦を築いた。"
+   }
+  },
+  {
+   "year": 1776,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Kilwa's slave trade with the French Indian Ocean islands",
+    "ko": "킬와와 프랑스령 인도양 섬들의 노예 무역",
+    "zh": "基尔瓦与法属印度洋岛屿的奴隶贸易",
+    "ja": "キルワとフランス領インド洋諸島の奴隷貿易"
+   },
+   "description": {
+    "en": "In 1776 the French trader Jean-Vincent Morice concluded an agreement with the ruler of Kilwa to supply enslaved Africans to the French sugar islands of Île de France (Mauritius) and Bourbon (Réunion). Kilwa revived as a major slave-exporting port in the late 18th century. The growing demand for captives began to draw the coastal economy deeper into the interior.",
+    "ko": "1776년 프랑스 상인 장뱅상 모리스는 킬와의 통치자와 협정을 맺어 프랑스의 설탕 섬인 일드프랑스(모리셔스)와 부르봉(레위니옹)에 노예화된 아프리카인을 공급하기로 했다. 킬와는 18세기 후반 주요 노예 수출항으로 되살아났다. 포로에 대한 수요가 늘면서 해안 경제는 내륙 깊숙이 손을 뻗기 시작했다.",
+    "zh": "1776年，法国商人让-樊尚·莫里斯与基尔瓦统治者达成协议，向法国的产糖岛屿法兰西岛（毛里求斯）和波旁岛（留尼汪）供应被奴役的非洲人。18世纪末基尔瓦作为主要奴隶输出港再度兴起。对俘虏日益增长的需求开始把沿海经济更深地引向内陆。",
+    "ja": "1776年、フランス商人ジャン＝ヴァンサン・モリスはキルワの支配者と協定を結び、フランスの砂糖の島であるイル・ド・フランス（モーリシャス）とブルボン（レユニオン）へ奴隷化されたアフリカ人を供給することにした。キルワは18世紀後半に主要な奴隷輸出港として復活した。捕虜への需要の増大は、沿岸経済を内陸の奥深くへ引き込み始めた。"
+   }
+  },
+  {
+   "year": 1815,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Shambaa kingdom under Kimweri ye Nyumbai",
+    "ko": "킴웨리 예 니움바이 치하의 샴바 왕국",
+    "zh": "金韦里·耶·纽姆拜治下的尚巴王国",
+    "ja": "キムウェリ・イェ・ニュンバイ治下のシャンバー王国"
+   },
+   "description": {
+    "en": "In the Usambara mountains of the northeast, the Shambaa kingdom reached its greatest extent under King Kimweri ye Nyumbai, who ruled from his capital at Vugha from the early 19th century until his death in 1869. He governed through his sons as regional chiefs and controlled trade routes toward the coast. The kingdom fragmented in civil wars after his death.",
+    "ko": "북동부 우삼바라산맥의 샴바 왕국은 19세기 초부터 1869년 사망할 때까지 부가에 도읍하고 다스린 킴웨리 예 니움바이 왕 치하에서 최대 판도에 이르렀다. 그는 아들들을 지방 족장으로 삼아 통치하며 해안으로 가는 교역로를 장악했다. 그의 사후 왕국은 내전으로 분열되었다.",
+    "zh": "在东北部的乌桑巴拉山区，尚巴王国在国王金韦里·耶·纽姆拜统治下达到鼎盛。他从19世纪初起以武加为都城执政，直至1869年去世，通过封诸子为地方酋长进行治理，并控制通往海岸的商路。他死后王国因内战而分裂。",
+    "ja": "北東部ウサンバラ山地のシャンバー王国は、19世紀初めから1869年に没するまでヴガを都として統治したキムウェリ・イェ・ニュンバイ王のもとで最大版図に達した。彼は息子たちを地方首長に据えて統治し、海岸への交易路を押さえた。その死後、王国は内戦で分裂した。"
+   }
+  },
+  {
+   "year": 1840,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Zanzibar Becomes Capital of the Omani Empire",
+    "ko": "잔지바르, 오만 제국의 수도가 되다",
+    "zh": "桑给巴尔成为阿曼帝国首都",
+    "ja": "ザンジバル、オマーン帝国の首都となる"
+   },
+   "description": {
+    "en": "Sultan Sayyid Said, who had spent increasing time on the island, moved his court from Muscat to Zanzibar, conventionally dated to 1840. Zanzibar grew wealthy on clove plantations worked by enslaved people and on ivory and slave caravan routes reaching deep into the interior as far as Lake Tanganyika and beyond. Indian financiers and Western consulates made the town the commercial hub of East Africa.",
+    "ko": "점점 더 오래 섬에 머물던 술탄 사이드 사이드는 궁정을 무스카트에서 잔지바르로 옮겼으며, 이는 관례적으로 1840년으로 본다. 잔지바르는 노예 노동으로 운영되는 정향 농장, 그리고 탕가니카호와 그 너머까지 내륙 깊숙이 이어지는 상아·노예 대상로를 통해 부유해졌다. 인도계 금융가들과 서양 영사관들이 들어서며 이 도시는 동아프리카의 상업 중심지가 되었다.",
+    "zh": "日益长住岛上的苏丹赛义德·赛义德把宫廷从马斯喀特迁到桑给巴尔，传统上定于1840年。桑给巴尔依靠奴隶劳动经营的丁香种植园，以及深入内陆直至坦噶尼喀湖及更远处的象牙和奴隶商路而致富。印度金融家和西方领事馆纷至，使该城成为东非的商业枢纽。",
+    "ja": "島で過ごす時間が増えていたスルタンのサイイド・サイードは、宮廷をマスカットからザンジバルへ移した。慣例的に1840年のこととされる。ザンジバルは奴隷労働によるクローブ農園と、タンガニーカ湖やその先まで内陸深く延びる象牙・奴隷のキャラバン路によって富を築いた。インド系金融業者や欧米の領事館が集まり、町は東アフリカの商業の中心地となった。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Rebmann reports snow on Kilimanjaro",
+    "ko": "레프만, 킬리만자로의 눈을 보고하다",
+    "zh": "雷布曼报告乞力马扎罗山积雪",
+    "ja": "レープマンがキリマンジャロの雪を報告"
+   },
+   "description": {
+    "en": "The German missionary Johannes Rebmann, travelling inland from the mission at Rabai near Mombasa, became the first European to report seeing Mount Kilimanjaro and its snowcap. Geographers in Europe initially ridiculed the idea of snow so close to the equator. His reports, together with those of Johann Ludwig Krapf, stimulated European exploration of the East African interior.",
+    "ko": "몸바사 근처 라바이 선교지에서 내륙으로 여행하던 독일인 선교사 요하네스 레프만은 킬리만자로산과 그 만년설을 보았다고 보고한 최초의 유럽인이 되었다. 유럽의 지리학자들은 처음에는 적도 가까이에 눈이 있다는 주장을 비웃었다. 그의 보고는 요한 루트비히 크라프의 보고와 함께 동아프리카 내륙에 대한 유럽인의 탐험을 자극했다.",
+    "zh": "德国传教士约翰内斯·雷布曼从蒙巴萨附近的拉巴伊传教站向内陆旅行，成为第一个报告看到乞力马扎罗山及其积雪的欧洲人。欧洲地理学家起初嘲笑赤道附近有雪的说法。他的报告与约翰·路德维希·克拉普夫的报告一起，激发了欧洲人对东非内陆的探险。",
+    "ja": "モンバサ近郊ラバイの伝道所から内陸へ旅したドイツ人宣教師ヨハネス・レープマンは、キリマンジャロ山とその冠雪を見たと報告した最初のヨーロッパ人となった。ヨーロッパの地理学者は当初、赤道近くに雪があるという話を嘲笑した。彼の報告はヨハン・ルートヴィヒ・クラプフの報告とともに、東アフリカ内陸へのヨーロッパ人の探検を刺激した。"
+   }
+  },
+  {
+   "year": 1856,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Sayyid Said and the separation of Zanzibar from Oman",
+    "ko": "사이드 사이드의 죽음과 잔지바르·오만 분리",
+    "zh": "赛义德·赛义德去世与桑给巴尔脱离阿曼",
+    "ja": "サイイド・サイードの死とザンジバルのオマーンからの分離"
+   },
+   "description": {
+    "en": "Sayyid Said died at sea in 1856, and his sons disputed the succession. Majid took Zanzibar and the East African possessions while Thuwaini held Oman; British arbitration in 1861, known as the Canning Award, confirmed the division into two separate sultanates. Zanzibar thereafter developed as an independent state increasingly under British influence.",
+    "ko": "사이드 사이드는 1856년 항해 중에 사망했고, 그의 아들들은 계승을 두고 다투었다. 마지드가 잔지바르와 동아프리카 영지를, 투와이니가 오만을 차지했으며, 1861년 '캐닝 판정'으로 알려진 영국의 중재가 두 개의 별개 술탄국으로의 분할을 확정했다. 이후 잔지바르는 점점 영국의 영향 아래 놓인 독립 국가로 발전했다.",
+    "zh": "赛义德·赛义德于1856年在海上去世，其诸子争夺继承权。马吉德取得桑给巴尔和东非属地，苏韦尼掌握阿曼；1861年英国的仲裁（称“坎宁裁决”）确认二者分为两个独立的苏丹国。此后桑给巴尔作为一个日益受英国影响的独立国家发展。",
+    "ja": "サイイド・サイードは1856年に航海中に死去し、息子たちは後継を争った。マージドがザンジバルと東アフリカの領地を、スワイニーがオマーンを得て、1861年に「カニング裁定」と呼ばれるイギリスの仲裁が二つの別個のスルタン国への分割を確定させた。以後ザンジバルは、次第にイギリスの影響下に入る独立国家として発展した。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Burton and Speke reach Lake Tanganyika",
+    "ko": "버턴과 스피크의 탕가니카호 도달",
+    "zh": "伯顿与斯皮克抵达坦噶尼喀湖",
+    "ja": "バートンとスピークがタンガニーカ湖に到達"
+   },
+   "description": {
+    "en": "Richard Burton and John Hanning Speke, travelling inland along the caravan route from the coast, reached Lake Tanganyika at Ujiji in February 1858, guided and supplied by African and Arab caravan networks. On the return journey Speke separately reached the southern shore of Lake Victoria, which he correctly guessed was the source of the Nile. Their expedition opened a famous controversy over the Nile's source.",
+    "ko": "리처드 버턴과 존 해닝 스피크는 해안에서 대상로를 따라 내륙으로 들어가 아프리카인과 아랍인 대상 네트워크의 안내와 보급을 받으며 1858년 2월 우지지에서 탕가니카호에 도달했다. 돌아오는 길에 스피크는 따로 빅토리아호 남쪽 기슭에 이르렀고, 이곳이 나일강의 원류라고 올바르게 추측했다. 그들의 탐험은 나일강 원류를 둘러싼 유명한 논쟁을 불러일으켰다.",
+    "zh": "理查德·伯顿和约翰·汉宁·斯皮克沿商队路线从海岸深入内陆，在非洲和阿拉伯商队网络的向导与补给下，于1858年2月在乌吉吉抵达坦噶尼喀湖。返程途中斯皮克单独到达维多利亚湖南岸，并正确推测这里是尼罗河的源头。他们的探险引发了关于尼罗河源头的著名争论。",
+    "ja": "リチャード・バートンとジョン・ハニング・スピークは海岸からキャラバン路をたどって内陸へ入り、アフリカ人とアラブ人のキャラバン網の案内と補給を受けて1858年2月にウジジでタンガニーカ湖に達した。帰路スピークは単独でヴィクトリア湖の南岸に至り、そこがナイル川の源だと正しく推測した。彼らの探検はナイルの源流をめぐる有名な論争を引き起こした。"
+   }
+  },
+  {
+   "year": 1871,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mirambo's Nyamwezi state and Stanley meets Livingstone at Ujiji",
+    "ko": "미람보의 니암웨지 국가와 우지지의 스탠리·리빙스턴 만남",
+    "zh": "米兰博的尼扬韦齐国家与斯坦利在乌吉吉会见利文斯敦",
+    "ja": "ミランボのニャムウェジ国家とウジジでのスタンリーとリヴィングストンの会見"
+   },
+   "description": {
+    "en": "In 1871 the Nyamwezi leader Mirambo, who had built a powerful state around Urambo, went to war with the Arab and Swahili merchants of Tabora over control of the caravan route to Lake Tanganyika, disrupting trade for several years. That same year the journalist Henry Morton Stanley, whose caravan was delayed by the fighting, found the missionary-explorer David Livingstone at Ujiji on the shore of Lake Tanganyika. The meeting became one of the most famous episodes of European exploration in Africa.",
+    "ko": "우람보 일대에 강력한 국가를 세운 니암웨지 지도자 미람보는 1871년 탕가니카호로 가는 대상로의 지배권을 두고 타보라의 아랍·스와힐리 상인들과 전쟁을 벌여 수년간 교역을 마비시켰다. 같은 해 이 전투로 대상이 지체되었던 기자 헨리 모턴 스탠리는 탕가니카호 기슭 우지지에서 선교사이자 탐험가인 데이비드 리빙스턴을 찾아냈다. 이 만남은 유럽인의 아프리카 탐험에서 가장 유명한 일화 중 하나가 되었다.",
+    "zh": "在乌兰博一带建立强大国家的尼扬韦齐首领米兰博于1871年与塔波拉的阿拉伯和斯瓦希里商人开战，争夺通往坦噶尼喀湖的商路控制权，使贸易中断数年。同年，因战事而延误行程的记者亨利·莫顿·斯坦利在坦噶尼喀湖畔的乌吉吉找到了传教士兼探险家戴维·利文斯敦。这次会面成为欧洲人非洲探险中最著名的插曲之一。",
+    "ja": "ウランボ周辺に強大な国家を築いたニャムウェジの指導者ミランボは、1871年にタンガニーカ湖へのキャラバン路の支配をめぐってタボラのアラブ・スワヒリ商人と戦争を始め、数年にわたり交易を妨げた。同じ年、この戦闘でキャラバンが足止めされていた記者ヘンリー・モートン・スタンリーは、タンガニーカ湖畔のウジジで宣教師・探検家デイヴィッド・リヴィングストンを見つけ出した。この会見はヨーロッパ人のアフリカ探検で最も有名な逸話の一つとなった。"
+   }
+  },
+  {
+   "year": 1873,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Closure of the Zanzibar Slave Market",
+    "ko": "잔지바르 노예 시장 폐쇄",
+    "zh": "桑给巴尔奴隶市场关闭",
+    "ja": "ザンジバル奴隷市場の閉鎖"
+   },
+   "description": {
+    "en": "Under strong British pressure, including the threat of a naval blockade, Sultan Barghash signed a treaty in June 1873 banning the seaborne slave trade from his mainland possessions and closing East Africa's largest slave market in Zanzibar town. The Anglican Christ Church Cathedral was later built on the market site in Stone Town. The slave trade continued illegally overland, and slavery itself remained legal on the islands until 1897.",
+    "ko": "해상 봉쇄 위협을 포함한 영국의 강한 압력 속에 술탄 바르가시는 1873년 6월 본토 영지에서의 해상 노예 무역을 금지하고 잔지바르 시내의 동아프리카 최대 노예 시장을 폐쇄하는 조약에 서명했다. 이후 스톤타운의 시장 자리에는 성공회 그리스도 교회 대성당이 세워졌다. 노예 무역은 육로로 불법적으로 계속되었고, 노예제 자체는 1897년까지 섬에서 합법이었다.",
+    "zh": "在包括海上封锁威胁在内的英国强大压力下，苏丹巴尔加什于1873年6月签订条约，禁止从其大陆属地经海路贩卖奴隶，并关闭桑给巴尔城内东非最大的奴隶市场。后来在石头城的原市场旧址上建起了圣公会基督教堂。奴隶贸易仍经陆路非法持续，而奴隶制本身在岛上直到1897年仍属合法。",
+    "ja": "海上封鎖の脅しを含むイギリスの強い圧力のもと、スルタンのバルガシュは1873年6月、本土の領地からの海上奴隷貿易を禁じ、ザンジバルの町にあった東アフリカ最大の奴隷市場を閉鎖する条約に署名した。のちにストーンタウンの市場跡には英国国教会のクライスト・チャーチ大聖堂が建てられた。奴隷貿易は陸路で違法に続き、奴隷制そのものは1897年まで島々で合法だった。"
+   }
+  },
+  {
+   "year": 1885,
+   "qid": "Q153963",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "German East Africa Established",
+    "ko": "독일령 동아프리카 성립",
+    "zh": "德属东非的建立",
+    "ja": "ドイツ領東アフリカの成立"
+   },
+   "description": {
+    "en": "On the basis of dubious treaties obtained from local chiefs by Carl Peters in late 1884, the German Empire granted an imperial charter to his German East Africa Company in February 1885, laying claim to much of mainland Tanganyika. A German naval demonstration forced the Sultan of Zanzibar to accept the claims, and an 1886 Anglo-German agreement divided the mainland into spheres of influence. Zanzibar itself became a British protectorate in 1890.",
+    "ko": "1884년 말 카를 페터스가 현지 족장들에게서 얻어 낸 미심쩍은 조약들을 근거로, 독일 제국은 1885년 2월 그의 독일 동아프리카 회사에 칙허장을 주어 탕가니카 본토 대부분에 대한 권리를 주장했다. 독일 해군의 무력 시위로 잔지바르 술탄은 이 주장을 받아들일 수밖에 없었고, 1886년 영·독 협정은 본토를 세력권으로 나누었다. 잔지바르 자체는 1890년 영국 보호령이 되었다.",
+    "zh": "以卡尔·彼得斯1884年末从当地酋长处取得的可疑条约为依据，德意志帝国于1885年2月向其德国东非公司颁发特许状，声称拥有坦噶尼喀大陆大部分地区。德国海军的武力示威迫使桑给巴尔苏丹接受这些主张，1886年英德协定将大陆划分为两国势力范围。桑给巴尔本身于1890年成为英国保护国。",
+    "ja": "1884年末にカール・ペータースが現地の首長から得た疑わしい条約を根拠に、ドイツ帝国は1885年2月に彼のドイツ東アフリカ会社へ特許状を与え、タンガニーカ本土の大半への権利を主張した。ドイツ海軍の示威によりザンジバルのスルタンはこの主張を受け入れざるを得ず、1886年の英独協定は本土を勢力圏に分けた。ザンジバル自体は1890年にイギリスの保護領となった。"
+   }
+  },
+  {
+   "year": 1888,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Abushiri revolt on the coast",
+    "ko": "해안의 아부시리 봉기",
+    "zh": "沿海的阿布希里起义",
+    "ja": "沿岸のアブシリの反乱"
+   },
+   "description": {
+    "en": "When the German East Africa Company took over administration of the coast from the Sultan of Zanzibar in 1888, coastal towns rose in revolt under leaders such as Abushiri ibn Salim al-Harthi and Bwana Heri. The company lost control of almost the entire coast, and the German government sent troops under Hermann von Wissmann, who crushed the uprising; Abushiri was captured and hanged in December 1889. The revolt led Germany to replace company rule with direct imperial administration.",
+    "ko": "1888년 독일 동아프리카 회사가 잔지바르 술탄으로부터 해안 행정을 넘겨받자, 아부시리 이븐 살림 알하르티와 브와나 헤리 같은 지도자 아래 해안 도시들이 봉기했다. 회사는 해안 거의 전부의 통제권을 잃었고, 독일 정부는 헤르만 폰 비스만이 이끄는 군대를 보내 봉기를 진압했으며, 아부시리는 1889년 12월 체포되어 교수형에 처해졌다. 이 반란으로 독일은 회사 통치를 제국의 직접 통치로 바꾸었다.",
+    "zh": "1888年德国东非公司从桑给巴尔苏丹手中接管海岸行政时，沿海城镇在阿布希里·伊本·萨利姆·哈尔希和布瓦纳·赫里等人领导下起义。公司几乎失去了对整个海岸的控制，德国政府派赫尔曼·冯·维斯曼率军镇压起义，阿布希里于1889年12月被俘并处以绞刑。这场起义促使德国以帝国直接统治取代公司统治。",
+    "ja": "1888年にドイツ東アフリカ会社がザンジバルのスルタンから沿岸の行政を引き継ぐと、アブシリ・イブン・サリム・アル＝ハルシやブワナ・ヘリらの指導のもとで沿岸の町々が蜂起した。会社は沿岸のほぼ全域の支配を失い、ドイツ政府はヘルマン・フォン・ヴィスマン率いる軍を送って反乱を鎮圧し、アブシリは1889年12月に捕らえられ絞首刑にされた。この反乱を受けてドイツは会社統治を帝国の直接統治に切り替えた。"
+   }
+  },
+  {
+   "year": 1889,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "First recorded ascent of Kilimanjaro",
+    "ko": "킬리만자로 최초 등정 기록",
+    "zh": "首次有记录的乞力马扎罗登顶",
+    "ja": "キリマンジャロの初登頂記録"
+   },
+   "description": {
+    "en": "In October 1889 the German geographer Hans Meyer and Austrian mountaineer Ludwig Purtscheller reached the summit of Kibo, the highest point of Kilimanjaro and of Africa, accompanied by local guides including Yohani Lauwo. Kilimanjaro, then within German East Africa, became a symbol of the colony. Today it is a national park and World Heritage Site that draws tens of thousands of climbers a year.",
+    "ko": "1889년 10월 독일 지리학자 한스 마이어와 오스트리아 산악인 루트비히 푸르트셸러는 요하니 라우워 등 현지 안내인과 함께 킬리만자로이자 아프리카의 최고봉인 키보 정상에 올랐다. 당시 독일령 동아프리카에 속했던 킬리만자로는 식민지의 상징이 되었다. 오늘날 이곳은 해마다 수만 명의 등반객이 찾는 국립공원이자 세계유산이다.",
+    "zh": "1889年10月，德国地理学家汉斯·迈耶和奥地利登山家路德维希·普尔切勒在约哈尼·劳沃等当地向导的陪同下登上乞力马扎罗山最高峰、也是非洲最高点的基博峰。当时属于德属东非的乞力马扎罗山成为殖民地的象征。如今它是每年吸引数万名登山者的国家公园和世界遗产。",
+    "ja": "1889年10月、ドイツの地理学者ハンス・マイヤーとオーストリアの登山家ルートヴィヒ・プルチェラーは、ヨハニ・ラウウォら現地のガイドとともにキリマンジャロでありアフリカの最高地点であるキボ峰の頂上に達した。当時ドイツ領東アフリカに属したキリマンジャロは植民地の象徴となった。今日では年に数万人の登山者が訪れる国立公園であり世界遺産である。"
+   }
+  },
+  {
+   "year": 1890,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Heligoland–Zanzibar Treaty and the British protectorate",
+    "ko": "헬골란트-잔지바르 조약과 영국 보호령",
+    "zh": "《赫尔戈兰—桑给巴尔条约》与英国保护国",
+    "ja": "ヘルゴラント＝ザンジバル条約とイギリス保護領"
+   },
+   "description": {
+    "en": "In July 1890 Britain and Germany signed a treaty in which Germany recognized a British protectorate over Zanzibar and Pemba and gave up claims in Witu and elsewhere, in exchange for the North Sea island of Heligoland and confirmation of its East African mainland territory. Zanzibar was proclaimed a British protectorate later that year. Germany soon purchased the sultan's coastal strip on the mainland.",
+    "ko": "1890년 7월 영국과 독일은 조약을 맺어, 독일이 북해의 헬골란트섬과 동아프리카 본토 영토의 확인을 받는 대가로 잔지바르·펨바에 대한 영국 보호령을 인정하고 위투 등지에 대한 권리를 포기했다. 그해 말 잔지바르는 영국 보호령으로 선포되었다. 독일은 곧 술탄의 본토 해안 지대를 사들였다.",
+    "zh": "1890年7月，英德两国签订条约：德国承认英国对桑给巴尔和奔巴的保护权，并放弃对维图等地的主张，以换取北海的赫尔戈兰岛和对其东非大陆领土的确认。同年稍后桑给巴尔被宣布为英国保护国。德国不久后买下了苏丹在大陆的沿海地带。",
+    "ja": "1890年7月、イギリスとドイツは条約を結び、ドイツは北海のヘルゴラント島と東アフリカ本土領の確認を得る代わりに、ザンジバルとペンバに対するイギリスの保護権を認め、ウィトゥなどへの権利を放棄した。同年後半、ザンジバルはイギリスの保護領と宣言された。ドイツはまもなくスルタンの本土沿岸地帯を買い取った。"
+   }
+  },
+  {
+   "year": 1891,
+   "qid": "Q25578",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Hehe victory at Lugalo (Lula-Rugaro)",
+    "ko": "루갈로(룰라루가로) 전투에서의 헤헤족 승리",
+    "zh": "赫赫人在卢加洛（卢拉—鲁加罗）的胜利",
+    "ja": "ルガロ（ルラ＝ルガロ）の戦いにおけるヘヘ人の勝利"
+   },
+   "description": {
+    "en": "In August 1891 Hehe warriors under Chief Mkwawa ambushed a German column led by Emil von Zelewski near Lugalo in the southern highlands, killing Zelewski and most of his force. It was one of the heaviest defeats suffered by German colonial troops in Africa. The Germans retaliated by storming Mkwawa's fortress at Kalenga in 1894, and the Hehe waged guerrilla resistance for years afterward.",
+    "ko": "1891년 8월 음콰와 족장이 이끄는 헤헤족 전사들은 남부 고원 루갈로 근처에서 에밀 폰 첼레프스키가 이끄는 독일군 부대를 매복 공격해 첼레프스키와 병력 대부분을 죽였다. 이는 아프리카에서 독일 식민지군이 겪은 가장 큰 패배 가운데 하나였다. 독일군은 1894년 칼렝가의 음콰와 요새를 함락해 보복했고, 헤헤족은 이후 수년간 게릴라 저항을 벌였다.",
+    "zh": "1891年8月，姆夸瓦酋长率领的赫赫族战士在南部高原卢加洛附近伏击埃米尔·冯·泽莱夫斯基率领的德军纵队，泽莱夫斯基及其大部分部下被杀。这是德国殖民军在非洲遭受的最惨重失败之一。德军于1894年攻陷姆夸瓦在卡伦加的要塞作为报复，赫赫人此后多年坚持游击抵抗。",
+    "ja": "1891年8月、ムクワワ首長率いるヘヘの戦士たちは南部高地のルガロ付近でエミール・フォン・ツェレフスキー率いるドイツ軍部隊を待ち伏せし、ツェレフスキーと部隊の大半を殺害した。これはアフリカでドイツ植民地軍が被った最大級の敗北であった。ドイツ軍は1894年にカレンガのムクワワの要塞を攻略して報復し、ヘヘはその後も数年間ゲリラ的抵抗を続けた。"
+   }
+  },
+  {
+   "year": 1896,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Anglo-Zanzibar War",
+    "ko": "영국-잔지바르 전쟁",
+    "zh": "英桑战争",
+    "ja": "イギリス・ザンジバル戦争"
+   },
+   "description": {
+    "en": "When Sultan Hamad bin Thuwaini died in August 1896, Khalid bin Barghash seized the palace without British approval. On 27 August British warships bombarded the palace, and Khalid's forces surrendered in well under an hour, making the conflict famous as the shortest war in recorded history. Britain installed a more compliant sultan, Hamoud bin Mohammed.",
+    "ko": "1896년 8월 술탄 하마드 빈 투와이니가 죽자 할리드 빈 바르가시가 영국의 승인 없이 궁전을 장악했다. 8월 27일 영국 군함들이 궁전을 포격했고 할리드의 군대는 한 시간도 채 안 되어 항복해, 이 충돌은 기록된 역사상 가장 짧은 전쟁으로 유명해졌다. 영국은 더 순종적인 술탄 하무드 빈 무함마드를 세웠다.",
+    "zh": "1896年8月苏丹哈马德·本·苏韦尼去世，哈立德·本·巴尔加什未经英国同意占据王宫。8月27日英国军舰炮轰王宫，哈立德的部队不到一小时便投降，这场冲突因此以有记录以来最短的战争而闻名。英国扶植了更为顺从的苏丹哈穆德·本·穆罕默德。",
+    "ja": "1896年8月にスルタンのハマド・ビン・スワイニーが死ぬと、ハーリド・ビン・バルガシュがイギリスの承認なしに宮殿を占拠した。8月27日、イギリスの軍艦が宮殿を砲撃し、ハーリドの軍は1時間足らずで降伏したため、この衝突は記録上最短の戦争として有名になった。イギリスはより従順なスルタン、ハムード・ビン・ムハンマドを擁立した。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Abolition of the legal status of slavery in Zanzibar",
+    "ko": "잔지바르 노예제의 법적 지위 폐지",
+    "zh": "桑给巴尔废除奴隶制的法律地位",
+    "ja": "ザンジバルで奴隷制の法的地位を廃止"
+   },
+   "description": {
+    "en": "Under British pressure, the Sultan of Zanzibar issued a decree in 1897 abolishing the legal status of slavery on Zanzibar and Pemba, allowing enslaved people to claim their freedom through the courts. Owners received compensation, and many freed people remained tied to plantations as squatters or laborers. The measure transformed the islands' clove economy and society only gradually.",
+    "ko": "영국의 압력 아래 잔지바르 술탄은 1897년 칙령을 내려 잔지바르와 펨바에서 노예제의 법적 지위를 폐지하고 노예화된 사람들이 법원을 통해 자유를 주장할 수 있게 했다. 소유주들은 보상을 받았고, 해방된 많은 사람은 무단 거주자나 노동자로 여전히 농장에 묶여 있었다. 이 조치는 섬의 정향 경제와 사회를 아주 서서히 바꾸었을 뿐이다.",
+    "zh": "在英国压力下，桑给巴尔苏丹于1897年颁布法令，废除桑给巴尔和奔巴的奴隶制法律地位，被奴役者可通过法院争取自由。奴隶主获得补偿，许多获释者仍以佃居者或劳工身份依附于种植园。这一措施只是缓慢地改变了岛上的丁香经济和社会。",
+    "ja": "イギリスの圧力のもと、ザンジバルのスルタンは1897年に布告を出してザンジバルとペンバにおける奴隷制の法的地位を廃止し、奴隷とされた人々が裁判所を通じて自由を求められるようにした。所有者は補償を受け、解放された多くの人々は不法居住者や労働者として農園に縛られ続けた。この措置は島々のクローブ経済と社会をごく徐々にしか変えなかった。"
+   }
+  },
+  {
+   "year": 1898,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Death of Chief Mkwawa",
+    "ko": "음콰와 족장의 죽음",
+    "zh": "姆夸瓦酋长之死",
+    "ja": "ムクワワ首長の死"
+   },
+   "description": {
+    "en": "Hunted by German forces after years of guerrilla resistance, the Hehe leader Mkwawa shot himself in July 1898 to avoid capture. The Germans cut off his head and sent his skull to Germany; under the 1919 Treaty of Versailles it was to be returned, and a skull identified as his was handed back in 1954. Mkwawa is honored in Tanzania as a hero of anti-colonial resistance.",
+    "ko": "수년간 게릴라 저항을 벌이다 독일군에 쫓기던 헤헤족 지도자 음콰와는 1898년 7월 체포를 피하려고 스스로 목숨을 끊었다. 독일군은 그의 머리를 잘라 두개골을 독일로 보냈고, 1919년 베르사유 조약에 따라 반환이 규정되어 그의 것으로 확인된 두개골이 1954년 돌아왔다. 음콰와는 탄자니아에서 반식민 저항의 영웅으로 기려진다.",
+    "zh": "经过多年游击抵抗后遭德军追捕的赫赫族领袖姆夸瓦，于1898年7月开枪自尽以免被俘。德国人割下他的头颅，把头骨送往德国；1919年《凡尔赛条约》规定须予归还，一个被认定为他的头骨于1954年送回。姆夸瓦在坦桑尼亚被尊为反殖民抵抗英雄。",
+    "ja": "長年のゲリラ的抵抗の末にドイツ軍に追われたヘヘの指導者ムクワワは、捕縛を避けるため1898年7月に自ら命を絶った。ドイツ側は彼の首を切り落として頭蓋骨をドイツへ送った。1919年のヴェルサイユ条約で返還が定められ、彼のものとされた頭蓋骨が1954年に返還された。ムクワワはタンザニアで反植民地抵抗の英雄として称えられている。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Maji Maji Rebellion",
+    "ko": "마지마지 봉기",
+    "zh": "马及马及起义",
+    "ja": "マジ・マジ反乱"
+   },
+   "description": {
+    "en": "In July 1905 resentment against forced cotton cultivation, taxes and abuses by German officials erupted into a mass uprising in the south, beginning in the Matumbi hills. Inspired by the prophet Kinjikitile Ngwale, who distributed sacred water ('maji') believed to turn bullets into water, many different peoples joined the revolt. German forces crushed it by 1907 with a scorched-earth campaign; the fighting and resulting famine killed an estimated 75,000 to 300,000 people, and the rising is remembered as a forerunner of Tanzanian nationalism.",
+    "ko": "1905년 7월 강제 면화 재배, 세금, 독일 관리들의 학대에 대한 분노가 마툼비 구릉에서 시작된 남부의 대규모 봉기로 폭발했다. 총알을 물로 바꾼다고 믿어진 성스러운 물('마지')을 나누어 준 예언자 킨지키틸레 응왈레에게 고무되어 여러 민족이 봉기에 가담했다. 독일군은 초토화 작전으로 1907년까지 이를 진압했으며, 전투와 그에 따른 기근으로 약 7만 5천~30만 명이 숨진 것으로 추산된다. 이 봉기는 탄자니아 민족주의의 선구로 기억된다.",
+    "zh": "1905年7月，对强制种植棉花、税收和德国官员暴行的愤恨在南部马通比山区引爆了一场大规模起义。受先知金吉基蒂莱·恩瓦莱的鼓舞——他分发据信能把子弹变成水的圣水（“马及”）——许多不同民族加入起义。德军以焦土战术于1907年前将其镇压，战斗及随之而来的饥荒估计造成7.5万至30万人死亡。这场起义被视为坦桑尼亚民族主义的先声。",
+    "ja": "1905年7月、綿花の強制栽培、税、ドイツ人官吏の虐待への怒りが、マトゥンビ丘陵に始まる南部の大規模な蜂起として爆発した。弾丸を水に変えると信じられた聖なる水（「マジ」）を配った預言者キンジキティレ・ングワレに鼓舞され、多くの異なる民族が反乱に加わった。ドイツ軍は焦土作戦で1907年までにこれを鎮圧し、戦闘とそれに続く飢饉で推定7万5千〜30万人が死亡した。この蜂起はタンザニア・ナショナリズムの先駆けとして記憶されている。"
+   }
+  },
+  {
+   "year": 1914,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Central Railway reaches Lake Tanganyika",
+    "ko": "중앙 철도의 탕가니카호 도달",
+    "zh": "中央铁路通达坦噶尼喀湖",
+    "ja": "中央鉄道がタンガニーカ湖に到達"
+   },
+   "description": {
+    "en": "The German-built Central Railway from Dar es Salaam reached Kigoma on Lake Tanganyika in early 1914, crossing the whole colony via Morogoro, Dodoma and Tabora. Together with the northern Usambara line from Tanga, it opened the interior to export crops and labor migration. The line remains the backbone of Tanzania's railway network.",
+    "ko": "독일이 건설한 다르에스살람발 중앙 철도는 모로고로·도도마·타보라를 거쳐 식민지 전체를 가로질러 1914년 초 탕가니카호의 키고마에 도달했다. 탕가에서 출발하는 북부 우삼바라선과 함께 이 철도는 내륙을 수출 작물과 노동 이주에 열어 주었다. 이 노선은 지금도 탄자니아 철도망의 중추이다.",
+    "zh": "德国修建的中央铁路从达累斯萨拉姆出发，经莫罗戈罗、多多马和塔波拉横贯整个殖民地，于1914年初通达坦噶尼喀湖畔的基戈马。它与从坦噶出发的北部乌桑巴拉铁路一起，为内陆打开了出口作物和劳动力迁移的通道。该线路至今仍是坦桑尼亚铁路网的主干。",
+    "ja": "ドイツが建設したダルエスサラーム発の中央鉄道は、モロゴロ、ドドマ、タボラを経て植民地を横断し、1914年初めにタンガニーカ湖畔のキゴマに達した。タンガ発の北部ウサンバラ線とともに、内陸を輸出作物と労働移動に開いた。この路線は今もタンザニア鉄道網の幹線である。"
+   }
+  },
+  {
+   "year": 1914,
+   "qid": "Q704921",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Tanga",
+    "ko": "탕가 전투",
+    "zh": "坦噶战役",
+    "ja": "タンガの戦い"
+   },
+   "description": {
+    "en": "In November 1914 a British Indian expeditionary force landed at the port of Tanga but was repulsed by the much smaller German Schutztruppe under Paul von Lettow-Vorbeck. The humiliating defeat, in which swarms of disturbed bees famously added to the chaos, gave the Germans weapons and prestige. It opened a long East African campaign in which African soldiers and porters on all sides bore the heaviest burden.",
+    "ko": "1914년 11월 영국령 인도 원정군이 탕가항에 상륙했지만 파울 폰 레토포어베크가 이끄는 훨씬 적은 독일 수비대(슈츠트루페)에 격퇴되었다. 놀란 벌떼가 혼란을 더한 것으로도 유명한 이 굴욕적 패배로 독일군은 무기와 위신을 얻었다. 이 전투로 시작된 긴 동아프리카 전역에서 가장 무거운 짐을 진 것은 모든 진영의 아프리카인 병사와 짐꾼이었다.",
+    "zh": "1914年11月，英属印度远征军在坦噶港登陆，却被保罗·冯·莱托-福尔贝克指挥的人数少得多的德国保护军击退。在这场屈辱的失败中，受惊的蜂群更添混乱，此事广为流传。德军由此获得武器和威望。战役拉开了漫长的东非战事序幕，各方的非洲士兵和挑夫承受了最沉重的负担。",
+    "ja": "1914年11月、英領インドの遠征軍がタンガ港に上陸したが、パウル・フォン・レットウ＝フォルベック率いるはるかに少数のドイツ防衛隊に撃退された。騒ぎ立った蜂の群れが混乱に拍車をかけたことで知られるこの屈辱的敗北により、ドイツ軍は武器と威信を得た。この戦いに始まる長い東アフリカ戦線では、あらゆる陣営のアフリカ人兵士と運搬人が最も重い負担を負った。"
+   }
+  },
+  {
+   "year": 1915,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "The cruiser Königsberg destroyed in the Rufiji delta",
+    "ko": "루피지 삼각주에서 순양함 쾨니히스베르크 격침",
+    "zh": "“柯尼斯堡”号巡洋舰在鲁菲吉三角洲被毁",
+    "ja": "ルフィジ・デルタで巡洋艦ケーニヒスベルクが撃破される"
+   },
+   "description": {
+    "en": "The German light cruiser SMS Königsberg, which had sunk the British cruiser Pegasus off Zanzibar in 1914, took refuge in the maze of channels of the Rufiji River delta. In July 1915 British shallow-draft monitors brought upriver finally disabled it. Its guns were salvaged by the Germans and used in the land campaign.",
+    "ko": "1914년 잔지바르 앞바다에서 영국 순양함 페가수스를 격침했던 독일 경순양함 쾨니히스베르크는 루피지강 삼각주의 미로 같은 수로로 피신했다. 1915년 7월 강을 거슬러 올라온 영국의 흘수 얕은 모니터함들이 마침내 이 배를 무력화했다. 독일군은 함포를 회수해 지상전에 사용했다.",
+    "zh": "曾于1914年在桑给巴尔外海击沉英国巡洋舰“珀加索斯”号的德国轻巡洋舰“柯尼斯堡”号，躲进鲁菲吉河三角洲迷宫般的水道。1915年7月，英国调来的浅吃水浅水重炮舰溯河而上，终于使其丧失战斗力。德军拆下舰炮用于陆上作战。",
+    "ja": "1914年にザンジバル沖でイギリス巡洋艦ペガサスを撃沈したドイツ軽巡洋艦ケーニヒスベルクは、ルフィジ川デルタの迷路のような水路に逃げ込んだ。1915年7月、川をさかのぼったイギリスの浅喫水モニター艦がついにこれを無力化した。ドイツ軍は艦砲を回収して陸上戦で用いた。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": "Q48815154",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Allied conquest of German East Africa",
+    "ko": "연합군의 독일령 동아프리카 점령",
+    "zh": "协约国攻占德属东非",
+    "ja": "連合軍によるドイツ領東アフリカ占領"
+   },
+   "description": {
+    "en": "In 1916 British and South African forces under Jan Smuts advanced from the north while Belgian Congolese troops pushed in from the west, capturing Tabora in September; Dar es Salaam fell to the British the same month. Lettow-Vorbeck avoided decisive battle, retreated south and in late 1917 crossed into Portuguese Mozambique, surrendering only after the armistice in November 1918. The campaign devastated the colony, and tens of thousands of African carriers died of disease and exhaustion.",
+    "ko": "1916년 얀 스뮈츠가 이끄는 영국·남아프리카군이 북쪽에서 진격하고 벨기에령 콩고군이 서쪽에서 밀고 들어와 9월에 타보라를 점령했으며, 같은 달 다르에스살람도 영국군에 함락되었다. 레토포어베크는 결전을 피해 남쪽으로 후퇴했고 1917년 말 포르투갈령 모잠비크로 넘어갔다가 1918년 11월 휴전 이후에야 항복했다. 이 전역으로 식민지는 황폐해졌고 수만 명의 아프리카인 짐꾼이 질병과 탈진으로 숨졌다.",
+    "zh": "1916年，扬·史末资指挥的英国和南非军队从北方推进，比属刚果部队从西面攻入，于9月攻占塔波拉；同月达累斯萨拉姆也落入英军之手。莱托-福尔贝克避免决战，向南撤退，1917年末进入葡属莫桑比克，直到1918年11月停战后才投降。战事使殖民地满目疮痍，数以万计的非洲挑夫死于疾病和劳累。",
+    "ja": "1916年、ヤン・スマッツ率いるイギリス・南アフリカ軍が北から進撃し、ベルギー領コンゴ軍が西から攻め込んで9月にタボラを占領した。同月ダルエスサラームもイギリス軍の手に落ちた。レットウ＝フォルベックは決戦を避けて南へ退き、1917年末にポルトガル領モザンビークへ入り、1918年11月の休戦後にようやく降伏した。この戦役で植民地は荒廃し、数万人のアフリカ人運搬人が病気と疲労で死亡した。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Tanganyika Becomes a British Mandate",
+    "ko": "탕가니카, 영국 위임통치령이 되다",
+    "zh": "坦噶尼喀成为英国委任统治地",
+    "ja": "タンガニーカ、イギリス委任統治領となる"
+   },
+   "description": {
+    "en": "After Germany's defeat, the peace settlement of 1919 divided German East Africa: Rwanda and Burundi went to Belgium, the small Kionga Triangle to Portugal, and the rest, renamed Tanganyika Territory, to Britain under a League of Nations mandate formally confirmed in 1922. Britain was obliged to report to the League on its administration. The territory later became a United Nations trust territory on the path to self-government.",
+    "ko": "독일의 패배 뒤 1919년 강화 체제는 독일령 동아프리카를 나누었다. 르완다와 부룬디는 벨기에에, 작은 키옹가 삼각지대는 포르투갈에 넘어갔고, 나머지는 탕가니카 영토로 개칭되어 1922년 공식 확정된 국제연맹 위임통치에 따라 영국에 맡겨졌다. 영국은 그 통치에 관해 국제연맹에 보고할 의무를 졌다. 이 영토는 훗날 자치를 향해 나아가는 유엔 신탁통치령이 되었다.",
+    "zh": "德国战败后，1919年的和约瓜分了德属东非：卢旺达和布隆迪归比利时，小小的基翁加三角地归葡萄牙，其余部分更名为坦噶尼喀领地，依据1922年正式确认的国际联盟委任统治交由英国管理。英国须就其治理向国联报告。该领地后来成为走向自治的联合国托管地。",
+    "ja": "ドイツの敗北後、1919年の講和はドイツ領東アフリカを分割した。ルワンダとブルンジはベルギーへ、小さなキオンガ・トライアングルはポルトガルへ渡り、残りはタンガニーカ領と改称されて、1922年に正式に確定した国際連盟の委任統治のもとイギリスに委ねられた。イギリスは統治について連盟に報告する義務を負った。この領域はのちに自治へ向かう国連信託統治領となった。"
+   }
+  },
+  {
+   "year": 1926,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Cameron's indirect rule and the Legislative Council",
+    "ko": "캐머런의 간접 통치와 입법위원회",
+    "zh": "卡梅伦的间接统治与立法会",
+    "ja": "キャメロンの間接統治と立法評議会"
+   },
+   "description": {
+    "en": "Governor Sir Donald Cameron, who arrived in 1925, introduced a system of indirect rule through 'native authorities' based on chiefs, in some areas creating chiefs where none had existed. In 1926 he established a Legislative Council, initially composed only of European and Asian members. The policies shaped local government and ethnic identities for decades.",
+    "ko": "1925년 부임한 도널드 캐머런 총독은 족장을 기반으로 한 '원주민 당국'을 통한 간접 통치 체제를 도입했으며, 일부 지역에서는 원래 없던 족장직을 만들어 내기도 했다. 1926년에는 입법위원회를 설치했는데, 처음에는 유럽인과 아시아인 위원만으로 구성되었다. 이 정책은 수십 년간 지방 행정과 민족 정체성을 형성했다.",
+    "zh": "1925年到任的唐纳德·卡梅伦总督推行以酋长为基础、通过“土著当局”实施的间接统治制度，在一些原本没有酋长的地区甚至设立了酋长。1926年他设立立法会，最初只有欧洲人和亚洲人成员。这些政策在数十年间塑造了地方治理和族群认同。",
+    "ja": "1925年に着任したドナルド・キャメロン総督は、首長を基盤とする「原住民当局」を通じた間接統治の制度を導入し、首長が存在しなかった地域では首長を作り出すこともあった。1926年には立法評議会を設置したが、当初はヨーロッパ人とアジア人の議員のみで構成された。これらの政策は数十年にわたり地方行政と民族意識を形づくった。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the Tanganyika African Association",
+    "ko": "탕가니카 아프리카인 협회 창설",
+    "zh": "坦噶尼喀非洲人协会成立",
+    "ja": "タンガニーカ・アフリカ人協会の創設"
+   },
+   "description": {
+    "en": "African civil servants, teachers and clerks in Dar es Salaam founded the Tanganyika African Association (TAA), initially as a social and welfare organization. It spread branches across the territory and became a forum for African grievances. In 1954 the TAA was transformed into the nationalist party TANU.",
+    "ko": "다르에스살람의 아프리카인 공무원·교사·사무원들은 처음에는 친목·복지 단체로서 탕가니카 아프리카인 협회(TAA)를 설립했다. 협회는 영토 전역에 지부를 두며 아프리카인의 불만을 표출하는 장이 되었다. 1954년 TAA는 민족주의 정당 TANU로 탈바꿈했다.",
+    "zh": "达累斯萨拉姆的非洲公务员、教师和职员成立坦噶尼喀非洲人协会，最初是一个社交和福利组织。协会在全境设立分会，成为表达非洲人诉求的平台。1954年它改组为民族主义政党坦噶尼喀非洲民族联盟。",
+    "ja": "ダルエスサラームのアフリカ人公務員・教師・事務員たちは、当初は親睦・福祉団体としてタンガニーカ・アフリカ人協会（TAA）を設立した。協会は領域全体に支部を広げ、アフリカ人の不満を表明する場となった。1954年、TAAは民族主義政党TANUへと改組された。"
+   }
+  },
+  {
+   "year": 1931,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Louis Leakey's first expedition to Olduvai Gorge",
+    "ko": "루이스 리키의 첫 올두바이 협곡 탐사",
+    "zh": "路易斯·利基首次考察奥杜威峡谷",
+    "ja": "ルイス・リーキーの初のオルドヴァイ渓谷調査"
+   },
+   "description": {
+    "en": "Building on the German Hans Reck's earlier finds, the Kenyan-born British archaeologist Louis Leakey led his first expedition to Olduvai Gorge in 1931 and recognized its abundant stone tools. The site's layered deposits preserve nearly two million years of human prehistory. Leakey and his wife Mary would work there for decades, defining the Oldowan tool industry.",
+    "ko": "독일인 한스 레크의 앞선 발견을 바탕으로 케냐 태생의 영국 고고학자 루이스 리키는 1931년 첫 올두바이 협곡 탐사를 이끌며 그곳의 풍부한 석기를 확인했다. 이 유적의 퇴적층에는 거의 200만 년에 걸친 인류 선사 시대가 보존되어 있다. 리키와 아내 메리는 수십 년 동안 이곳에서 연구하며 올도완 석기 공작을 정립했다.",
+    "zh": "在德国人汉斯·雷克早期发现的基础上，出生于肯尼亚的英国考古学家路易斯·利基于1931年首次率队考察奥杜威峡谷，确认了那里丰富的石器。该遗址的地层保存了近两百万年的人类史前史。利基和妻子玛丽在此工作了数十年，确立了奥杜威石器工业。",
+    "ja": "ドイツ人ハンス・レックの先行する発見を踏まえ、ケニア生まれのイギリス人考古学者ルイス・リーキーは1931年に初めてオルドヴァイ渓谷の調査隊を率い、そこに豊富な石器があることを確認した。この遺跡の地層には約200万年にわたる人類の先史が保存されている。リーキーと妻メアリーは数十年にわたりここで研究し、オルドワン石器文化を確立した。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Tanganyika becomes a UN trust territory",
+    "ko": "탕가니카, 유엔 신탁통치령이 되다",
+    "zh": "坦噶尼喀成为联合国托管地",
+    "ja": "タンガニーカ、国連信託統治領に"
+   },
+   "description": {
+    "en": "With the League of Nations dissolved, Tanganyika was placed under the United Nations trusteeship system in December 1946, still administered by Britain. UN visiting missions and petitions to the Trusteeship Council gave African nationalists an international platform. Julius Nyerere later addressed the UN in New York to press for independence.",
+    "ko": "국제연맹이 해체되면서 탕가니카는 1946년 12월 유엔 신탁통치 체제에 편입되었고 관리는 여전히 영국이 맡았다. 유엔 방문단과 신탁통치이사회에 대한 청원은 아프리카 민족주의자들에게 국제적 무대를 제공했다. 줄리어스 니에레레는 훗날 뉴욕의 유엔에서 연설하며 독립을 촉구했다.",
+    "zh": "随着国际联盟解散，坦噶尼喀于1946年12月被纳入联合国托管制度，仍由英国管理。联合国视察团和向托管理事会的请愿为非洲民族主义者提供了国际舞台。朱利叶斯·尼雷尔后来在纽约联合国发表演讲，敦促独立。",
+    "ja": "国際連盟の解散に伴い、タンガニーカは1946年12月に国連信託統治制度のもとに置かれ、引き続きイギリスが統治した。国連の視察団や信託統治理事会への請願は、アフリカ人ナショナリストに国際的な舞台を与えた。ジュリウス・ニエレレはのちにニューヨークの国連で演説し、独立を訴えた。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "The Groundnut Scheme",
+    "ko": "땅콩 계획",
+    "zh": "花生计划",
+    "ja": "落花生計画"
+   },
+   "description": {
+    "en": "The British government launched an ambitious plan to clear vast areas of bush at Kongwa and elsewhere in Tanganyika for mechanized groundnut (peanut) production to ease postwar shortages of fats. Poor soils, unsuitable machinery and erratic rainfall doomed the project, which was abandoned in 1951 at great cost. It became a byword for ill-planned colonial development.",
+    "ko": "영국 정부는 전후 유지류 부족을 덜기 위해 탕가니카의 콩와 등지에서 광대한 관목지를 개간해 기계화된 땅콩을 생산하려는 야심 찬 계획을 시작했다. 척박한 토양, 부적합한 기계, 불규칙한 강우로 사업은 실패했고 1951년 막대한 비용을 남긴 채 포기되었다. 이 계획은 부실하게 기획된 식민지 개발의 대명사가 되었다.",
+    "zh": "为缓解战后油脂短缺，英国政府启动了一项雄心勃勃的计划，在坦噶尼喀的孔瓜等地开垦大片灌木林，以机械化方式种植花生。土壤贫瘠、机械不适用和降雨不稳使项目失败，1951年在付出巨大代价后被放弃。它成为殖民地开发规划失当的代名词。",
+    "ja": "イギリス政府は戦後の油脂不足を和らげるため、タンガニーカのコングワなどで広大な灌木地を切り開いて機械化された落花生生産を行う野心的な計画を始めた。やせた土壌、不適切な機械、不安定な降雨により事業は失敗し、1951年に巨額の損失を出して放棄された。この計画は計画性を欠いた植民地開発の代名詞となった。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of TANU",
+    "ko": "TANU 창당",
+    "zh": "坦噶尼喀非洲民族联盟成立",
+    "ja": "TANUの結成"
+   },
+   "description": {
+    "en": "On 7 July 1954 Julius Nyerere, a teacher educated at Makerere and Edinburgh, transformed the Tanganyika African Association into the Tanganyika African National Union (TANU), with the goal of independence. Using Swahili as a unifying language, TANU built a mass movement that cut across ethnic lines. It won the territorial elections of 1958-1960 by large margins.",
+    "ko": "1954년 7월 7일 마케레레와 에든버러에서 교육받은 교사 줄리어스 니에레레는 탕가니카 아프리카인 협회를 독립을 목표로 하는 탕가니카 아프리카 민족동맹(TANU)으로 바꾸었다. TANU는 스와힐리어를 통합의 언어로 삼아 민족 경계를 넘는 대중운동을 일구었다. TANU는 1958~1960년 영토 선거에서 큰 차이로 승리했다.",
+    "zh": "1954年7月7日，曾在马凯雷雷和爱丁堡求学的教师朱利叶斯·尼雷尔把坦噶尼喀非洲人协会改组为以独立为目标的坦噶尼喀非洲民族联盟。该党以斯瓦希里语为团结纽带，建立起跨越族群界限的群众运动，并在1958至1960年的领地选举中大胜。",
+    "ja": "1954年7月7日、マケレレとエディンバラで学んだ教師ジュリウス・ニエレレは、タンガニーカ・アフリカ人協会を独立を目標とするタンガニーカ・アフリカ民族同盟（TANU）へと改組した。TANUはスワヒリ語を結束の言語として民族の垣根を越える大衆運動を築き、1958〜1960年の選挙で大勝した。"
+   }
+  },
+  {
+   "year": 1959,
+   "qid": "Q217043",
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Hominin Fossil Discovery at Olduvai Gorge",
+    "ko": "올두바이 협곡의 초기 인류 화석 발견",
+    "zh": "奥杜威峡谷发现早期人类化石",
+    "ja": "オルドヴァイ渓谷で初期人類化石を発見"
+   },
+   "description": {
+    "en": "In July 1959 Mary Leakey unearthed the 1.75-million-year-old skull of 'Zinjanthropus', now classified as Paranthropus boisei, at Olduvai Gorge. The find, among the first to be dated by the potassium-argon method, pushed back estimates of the age of the human lineage. It made Olduvai world-famous as a cradle of humankind and was followed by the discovery of Homo habilis there in the early 1960s.",
+    "ko": "1959년 7월 메리 리키는 올두바이 협곡에서 175만 년 전의 '진잔트로푸스' 두개골을 발굴했는데, 이는 현재 파란트로푸스 보이세이로 분류된다. 칼륨-아르곤 연대 측정법으로 연대가 측정된 최초의 화석 가운데 하나였던 이 발견은 인류 계보의 연대 추정을 크게 앞당겼다. 이로써 올두바이는 인류의 요람으로 세계적 명성을 얻었고, 1960년대 초에는 같은 곳에서 호모 하빌리스가 발견되었다.",
+    "zh": "1959年7月，玛丽·利基在奥杜威峡谷发掘出距今175万年的“东非人”头骨，今归类为鲍氏傍人。这是最早用钾氩法测年的化石之一，把人类谱系的年代估计大大提前。奥杜威因此作为人类摇篮闻名世界，1960年代初又在这里发现了能人。",
+    "ja": "1959年7月、メアリー・リーキーはオルドヴァイ渓谷で175万年前の「ジンジャントロプス」の頭骨を発掘した。現在はパラントロプス・ボイセイに分類される。カリウム・アルゴン法で年代測定された最初期の化石の一つであるこの発見は、人類系統の年代推定を大きくさかのぼらせた。オルドヴァイは人類のゆりかごとして世界的に有名になり、1960年代初めには同地でホモ・ハビリスが発見された。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Jane Goodall begins research at Gombe",
+    "ko": "제인 구달의 곰베 연구 시작",
+    "zh": "珍·古道尔开始在贡贝研究",
+    "ja": "ジェーン・グドールがゴンベで研究開始"
+   },
+   "description": {
+    "en": "In July 1960 the young British researcher Jane Goodall, sponsored by Louis Leakey, began studying chimpanzees at Gombe Stream on the shore of Lake Tanganyika. Her observations of chimpanzees making and using tools and hunting transformed understanding of primate behavior and of what distinguishes humans. The Gombe study became one of the longest-running field studies of any wild animal.",
+    "ko": "1960년 7월 루이스 리키의 후원을 받은 젊은 영국인 연구자 제인 구달이 탕가니카호 기슭 곰베 스트림에서 침팬지 연구를 시작했다. 침팬지가 도구를 만들어 쓰고 사냥한다는 그녀의 관찰은 영장류 행동과 인간을 구별 짓는 특성에 대한 이해를 바꾸었다. 곰베 연구는 야생 동물에 대한 가장 오래 지속된 현장 연구 가운데 하나가 되었다.",
+    "zh": "1960年7月，在路易斯·利基资助下，年轻的英国研究者珍·古道尔在坦噶尼喀湖畔的贡贝溪开始研究黑猩猩。她观察到黑猩猩制作和使用工具以及狩猎，改变了人们对灵长类行为以及人类独特性的认识。贡贝研究成为对野生动物持续时间最长的野外研究之一。",
+    "ja": "1960年7月、ルイス・リーキーの支援を受けた若いイギリス人研究者ジェーン・グドールが、タンガニーカ湖畔のゴンベ・ストリームでチンパンジーの研究を始めた。チンパンジーが道具を作って使い、狩りをするという彼女の観察は、霊長類の行動と人間を特徴づけるものについての理解を変えた。ゴンベの研究は野生動物に関する最も長期の野外研究の一つとなった。"
+   }
+  },
+  {
+   "year": 1961,
+   "qid": "Q431731",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence of Tanganyika",
+    "ko": "탕가니카 독립",
+    "zh": "坦噶尼喀独立",
+    "ja": "タンガニーカの独立"
+   },
+   "description": {
+    "en": "Led by Julius Nyerere and the TANU party, Tanganyika gained independence from Britain peacefully on 9 December 1961, and a torch was lit on the summit of Kilimanjaro to mark the occasion. Nyerere became prime minister and, when the country became a republic on 9 December 1962, its first president. He was widely known as 'Mwalimu', the teacher.",
+    "ko": "줄리어스 니에레레와 TANU의 지도 아래 탕가니카는 1961년 12월 9일 영국으로부터 평화적으로 독립했고, 이를 기념해 킬리만자로 정상에 횃불이 밝혀졌다. 니에레레는 총리가 되었고, 1962년 12월 9일 공화국으로 전환되면서 초대 대통령이 되었다. 그는 '음왈리무(선생님)'라는 이름으로 널리 불렸다.",
+    "zh": "在朱利叶斯·尼雷尔和坦噶尼喀非洲民族联盟的领导下，坦噶尼喀于1961年12月9日和平脱离英国独立，乞力马扎罗山顶点燃了火炬以示纪念。尼雷尔出任总理，1962年12月9日国家改行共和制后成为首任总统。他被人们广泛称为“姆瓦利姆”，即“老师”。",
+    "ja": "ジュリウス・ニエレレとTANUの指導のもと、タンガニーカは1961年12月9日にイギリスから平和的に独立し、これを記念してキリマンジャロの山頂にたいまつが灯された。ニエレレは首相となり、1962年12月9日に共和制へ移行すると初代大統領に就いた。彼は「ムワリム（先生）」の名で広く親しまれた。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": "Q516890",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Independence of Zanzibar",
+    "ko": "잔지바르 독립",
+    "zh": "桑给巴尔独立",
+    "ja": "ザンジバルの独立"
+   },
+   "description": {
+    "en": "After elections in 1961 and July 1963 in which the Afro-Shirazi Party won a majority of votes but a coalition of the Zanzibar Nationalist Party and the ZPPP won a majority of seats, Zanzibar became independent on 10 December 1963 as a constitutional monarchy under the sultan. Many among the African majority saw the new government as dominated by the Arab elite. Resentment over the outcome fed the revolution a month later.",
+    "ko": "1961년과 1963년 7월 선거에서 아프로시라지당이 득표에서는 과반을 얻었지만 의석에서는 잔지바르 민족당과 ZPPP의 연합이 과반을 차지했고, 잔지바르는 1963년 12월 10일 술탄 아래의 입헌군주국으로 독립했다. 아프리카계 다수 주민 상당수는 새 정부를 아랍 엘리트가 지배한다고 보았다. 이 결과에 대한 반감이 한 달 뒤의 혁명으로 이어졌다.",
+    "zh": "在1961年和1963年7月的选举中，非洲—设拉子党赢得多数选票，但桑给巴尔民族党与桑给巴尔和奔巴人民党的联盟赢得多数议席。桑给巴尔于1963年12月10日以苏丹为君主的君主立宪国身份独立。许多非洲裔多数居民认为新政府由阿拉伯精英把持，对选举结果的不满促成了一个月后的革命。",
+    "ja": "1961年と1963年7月の選挙でアフロ・シラジ党は得票では過半数を得たが、議席ではザンジバル民族党とZPPPの連合が過半数を占め、ザンジバルは1963年12月10日にスルタンを君主とする立憲君主国として独立した。アフリカ系の多数派住民の多くは新政府をアラブ人エリートの支配とみなした。その結果への反発が1か月後の革命につながった。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": "Q157535",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Zanzibar Revolution and the Union Forming Tanzania",
+    "ko": "잔지바르 혁명과 탄자니아 연합 결성",
+    "zh": "桑给巴尔革命与坦桑尼亚联合共和国成立",
+    "ja": "ザンジバル革命とタンザニア連合共和国の成立"
+   },
+   "description": {
+    "en": "On 12 January 1964 insurgents led by John Okello overthrew the Sultan of Zanzibar; the revolution was accompanied by the killing of thousands of Arab and South Asian residents, and Abeid Karume of the Afro-Shirazi Party became president of the new People's Republic. On 26 April 1964 Tanganyika and Zanzibar united, and the union was named the United Republic of Tanzania in October. Zanzibar retained its own president, government and legislature for internal affairs.",
+    "ko": "1964년 1월 12일 존 오켈로가 이끈 봉기 세력이 잔지바르 술탄을 몰아냈으며, 혁명 과정에서 수천 명의 아랍계·남아시아계 주민이 살해되었고 아프로시라지당의 아베이드 카루메가 새 인민공화국의 대통령이 되었다. 1964년 4월 26일 탕가니카와 잔지바르가 연합했고, 10월 이 연합은 탄자니아 연합공화국으로 명명되었다. 잔지바르는 내정을 위한 자체 대통령·정부·의회를 유지했다.",
+    "zh": "1964年1月12日，约翰·奥凯洛领导的起义者推翻桑给巴尔苏丹，革命中数千名阿拉伯裔和南亚裔居民遇害，非洲—设拉子党的阿贝德·卡鲁米成为新成立的人民共和国总统。1964年4月26日坦噶尼喀与桑给巴尔联合，同年10月定名为坦桑尼亚联合共和国。桑给巴尔保留了处理内部事务的总统、政府和议会。",
+    "ja": "1964年1月12日、ジョン・オケロ率いる蜂起勢力がザンジバルのスルタンを倒した。革命ではアラブ系・南アジア系の住民数千人が殺害され、アフロ・シラジ党のアベイド・カルメが新しい人民共和国の大統領となった。1964年4月26日にタンガニーカとザンジバルが連合し、10月にタンザニア連合共和国と命名された。ザンジバルは内政のための独自の大統領・政府・議会を保持した。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Army mutiny suppressed with British help",
+    "ko": "영국의 도움으로 진압된 군 반란",
+    "zh": "在英国协助下平定军队哗变",
+    "ja": "イギリスの支援で鎮圧された軍の反乱"
+   },
+   "description": {
+    "en": "In January 1964, days after the Zanzibar revolution, soldiers of the Tanganyika Rifles mutinied in Dar es Salaam, demanding higher pay and the replacement of British officers by Africans. Nyerere reluctantly asked Britain for help, and Royal Marines disarmed the mutineers. He then disbanded the army and built a new force tied closely to the ruling party.",
+    "ko": "잔지바르 혁명 며칠 뒤인 1964년 1월 탕가니카 소총대 병사들이 다르에스살람에서 급여 인상과 영국인 장교의 아프리카인 교체를 요구하며 반란을 일으켰다. 니에레레는 마지못해 영국에 도움을 요청했고 영국 해병대가 반란군을 무장 해제했다. 이후 그는 군을 해산하고 집권당과 긴밀히 연결된 새 군대를 창설했다.",
+    "zh": "1964年1月，桑给巴尔革命数日后，坦噶尼喀步枪团士兵在达累斯萨拉姆哗变，要求加薪并以非洲人取代英国军官。尼雷尔勉强向英国求援，英国皇家海军陆战队解除了哗变者的武装。随后他解散军队，组建了与执政党紧密相连的新军。",
+    "ja": "ザンジバル革命の数日後の1964年1月、タンガニーカ・ライフル連隊の兵士がダルエスサラームで反乱を起こし、昇給とイギリス人将校のアフリカ人への交代を要求した。ニエレレは不本意ながらイギリスに支援を要請し、英海兵隊が反乱兵を武装解除した。その後彼は軍を解散し、与党と緊密に結びついた新しい軍を創設した。"
+   }
+  },
+  {
+   "year": 1965,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Tanzania becomes a one-party state",
+    "ko": "탄자니아, 일당제 국가가 되다",
+    "zh": "坦桑尼亚成为一党制国家",
+    "ja": "タンザニアが一党制国家に"
+   },
+   "description": {
+    "en": "The interim constitution of 1965 made Tanzania a legal one-party state, with TANU on the mainland and the Afro-Shirazi Party in Zanzibar. Nyerere argued that a single party could still offer voters a choice, and elections allowed competition between two TANU candidates in each constituency. The system lasted until 1992.",
+    "ko": "1965년 임시 헌법은 본토의 TANU와 잔지바르의 아프로시라지당을 두고 탄자니아를 법적인 일당제 국가로 만들었다. 니에레레는 단일 정당 체제에서도 유권자에게 선택권을 줄 수 있다고 주장했고, 선거에서는 각 선거구마다 두 명의 TANU 후보가 경쟁할 수 있었다. 이 체제는 1992년까지 이어졌다.",
+    "zh": "1965年的临时宪法使坦桑尼亚成为法定一党制国家，大陆由坦噶尼喀非洲民族联盟执政，桑给巴尔由非洲—设拉子党执政。尼雷尔认为一党制下选民仍可有选择，选举中每个选区允许两名该党候选人竞争。这一体制持续到1992年。",
+    "ja": "1965年の暫定憲法はタンザニアを法的な一党制国家とし、本土はTANU、ザンジバルはアフロ・シラジ党が担った。ニエレレは一党制でも有権者に選択肢を与えられると主張し、選挙では各選挙区で2人のTANU候補が競うことができた。この体制は1992年まで続いた。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Arusha Declaration",
+    "ko": "아루샤 선언",
+    "zh": "阿鲁沙宣言",
+    "ja": "アルーシャ宣言"
+   },
+   "description": {
+    "en": "In February 1967 President Nyerere proclaimed the Arusha Declaration, committing Tanzania to 'Ujamaa' (familyhood), a program of African socialism and self-reliance. Banks and major industries were nationalized, leaders were barred from accumulating private wealth, and rural development was to be built on cooperative villages. Ujamaa shaped Tanzanian society, education and national identity for decades, though its economic results were mixed.",
+    "ko": "1967년 2월 니에레레 대통령은 아루샤 선언을 발표해 탄자니아가 아프리카 사회주의와 자립의 계획인 '우자마(가족 공동체)'를 추구하겠다고 천명했다. 은행과 주요 산업이 국유화되었고, 지도자들의 사적 재산 축적이 금지되었으며, 농촌 개발은 협동 마을을 기반으로 하게 되었다. 우자마는 수십 년간 탄자니아의 사회·교육·국민 정체성을 형성했지만 경제적 성과는 엇갈렸다.",
+    "zh": "1967年2月，尼雷尔总统发表《阿鲁沙宣言》，使坦桑尼亚致力于“乌贾马”（大家庭精神）——一项非洲社会主义与自力更生的纲领。银行和主要工业被收归国有，领导人不得积累私人财富，农村发展以合作村庄为基础。乌贾马在数十年间塑造了坦桑尼亚的社会、教育和国家认同，但经济成效褒贬不一。",
+    "ja": "1967年2月、ニエレレ大統領はアルーシャ宣言を発表し、アフリカ社会主義と自立の計画である「ウジャマー（家族的共同体）」をタンザニアの目標に掲げた。銀行と主要産業は国有化され、指導者の私的な蓄財は禁じられ、農村開発は協同組合的な村を基盤とすることになった。ウジャマーは数十年にわたりタンザニアの社会・教育・国民意識を形づくったが、経済的成果は一様ではなかった。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "East African Community founded in Arusha",
+    "ko": "아루샤에서 동아프리카 공동체 창설",
+    "zh": "东非共同体在阿鲁沙成立",
+    "ja": "アルーシャで東アフリカ共同体が発足"
+   },
+   "description": {
+    "en": "Tanzania, Kenya and Uganda signed the Treaty for East African Co-operation in 1967, creating the East African Community with its headquarters in Arusha and shared services such as railways, airways and posts. Political and economic differences among the three states caused the community to collapse in 1977. It was revived in 2000, again with its seat in Arusha.",
+    "ko": "탄자니아·케냐·우간다는 1967년 동아프리카 협력 조약에 서명해 아루샤에 본부를 두고 철도·항공·우편 등을 공동 운영하는 동아프리카 공동체를 만들었다. 세 나라 사이의 정치·경제적 차이로 공동체는 1977년 붕괴했다. 공동체는 2000년 다시 아루샤를 본부로 하여 부활했다.",
+    "zh": "坦桑尼亚、肯尼亚和乌干达于1967年签署《东非合作条约》，成立总部设在阿鲁沙的东非共同体，共同经营铁路、航空和邮政等服务。由于三国之间的政治和经济分歧，共同体于1977年解体，2000年再度恢复，总部仍设在阿鲁沙。",
+    "ja": "タンザニア、ケニア、ウガンダは1967年に東アフリカ協力条約に署名し、アルーシャに本部を置き鉄道・航空・郵便などを共同運営する東アフリカ共同体を設立した。3国間の政治的・経済的相違により共同体は1977年に崩壊したが、2000年に再びアルーシャを本部として復活した。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Abeid Karume",
+    "ko": "아베이드 카루메 암살",
+    "zh": "阿贝德·卡鲁米遇刺",
+    "ja": "アベイド・カルメの暗殺"
+   },
+   "description": {
+    "en": "On 7 April 1972 Zanzibar's president and Tanzania's first vice-president, Abeid Karume, was assassinated in Zanzibar town. His rule over the islands had been authoritarian, with forced marriages, expropriations and detentions that alienated many Zanzibaris. Aboud Jumbe succeeded him and moved toward closer integration with the mainland.",
+    "ko": "1972년 4월 7일 잔지바르 대통령이자 탄자니아 초대 부통령인 아베이드 카루메가 잔지바르 시내에서 암살되었다. 섬에 대한 그의 통치는 강제 결혼, 재산 몰수, 구금 등으로 권위주의적이어서 많은 잔지바르 주민의 반감을 샀다. 후임 아부드 줌베는 본토와의 통합을 강화하는 방향으로 나아갔다.",
+    "zh": "1972年4月7日，桑给巴尔总统兼坦桑尼亚第一副总统阿贝德·卡鲁米在桑给巴尔城遇刺身亡。他对诸岛的统治专断，强迫婚姻、没收财产和拘押等做法使许多桑给巴尔人离心。继任者阿布德·琼贝推动与大陆更紧密的融合。",
+    "ja": "1972年4月7日、ザンジバル大統領でありタンザニア第一副大統領のアベイド・カルメがザンジバルの町で暗殺された。島々に対する彼の統治は強制結婚や財産没収、拘禁などを伴う権威主義的なもので、多くのザンジバル住民の反感を買っていた。後任のアブード・ジュンベは本土との統合強化へ向かった。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Decision to move the capital to Dodoma",
+    "ko": "도도마 천도 결정",
+    "zh": "决定迁都多多马",
+    "ja": "ドドマ遷都の決定"
+   },
+   "description": {
+    "en": "In 1973 TANU decided to move the national capital from coastal Dar es Salaam to Dodoma, a centrally located town in the interior, symbolizing the nation's rural focus. The transfer proceeded slowly for decades because of the cost. Most government offices finally relocated to Dodoma in the late 2010s under President Magufuli, though Dar es Salaam remains the commercial center.",
+    "ko": "1973년 TANU는 국가의 농촌 중심 지향을 상징하는 뜻에서 수도를 해안의 다르에스살람에서 내륙 중앙의 도도마로 옮기기로 결정했다. 이전은 비용 문제로 수십 년간 더디게 진행되었다. 대부분의 정부 기관은 2010년대 후반 마구풀리 대통령 시기에 마침내 도도마로 옮겼지만, 다르에스살람은 여전히 상업 중심지다.",
+    "zh": "1973年，坦噶尼喀非洲民族联盟决定将首都从沿海的达累斯萨拉姆迁往位于内陆中央的多多马，以象征国家重视农村的方针。由于成本问题，搬迁进展缓慢长达数十年。直到2010年代末马古富力总统任内，大多数政府机构才最终迁往多多马，而达累斯萨拉姆仍是商业中心。",
+    "ja": "1973年、TANUは国家の農村重視を象徴して、首都を沿岸のダルエスサラームから内陸中央のドドマへ移すことを決めた。移転は費用の問題から数十年間ゆっくりとしか進まなかった。2010年代後半のマグフリ大統領の時代に多くの政府機関がようやくドドマへ移ったが、ダルエスサラームは今も商業の中心である。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Compulsory villagization",
+    "ko": "강제 마을화 정책",
+    "zh": "强制村庄化运动",
+    "ja": "強制的な村落化"
+   },
+   "description": {
+    "en": "Frustrated by the slow voluntary formation of Ujamaa villages, the government launched compulsory villagization in 1973-1976, moving millions of rural people into planned villages, sometimes by force. The program extended access to schools, clinics and water, but it disrupted agriculture and contributed to food shortages. It remains one of the largest resettlement campaigns in African history.",
+    "ko": "자발적인 우자마 마을 형성이 더딘 데 좌절한 정부는 1973~1976년 강제 마을화를 시행해 수백만 명의 농촌 주민을 때로는 강제로 계획 마을로 이주시켰다. 이 사업은 학교·진료소·식수에 대한 접근을 넓혔지만 농업을 교란해 식량 부족에 한몫했다. 이는 아프리카 역사상 가장 큰 재정착 운동 가운데 하나로 남아 있다.",
+    "zh": "由于自愿组建乌贾马村的进展缓慢，政府于1973至1976年推行强制村庄化，将数百万农村人口迁入规划村庄，有时动用强制手段。该计划扩大了学校、诊所和饮用水的覆盖，但扰乱了农业生产并加剧了粮食短缺。这是非洲历史上规模最大的移民安置运动之一。",
+    "ja": "自発的なウジャマー村の形成が進まないことに業を煮やした政府は、1973〜1976年に強制的な村落化を実施し、数百万人の農村住民を時に力ずくで計画村へ移住させた。この事業は学校・診療所・水へのアクセスを広げたが、農業を混乱させ食糧不足の一因となった。これはアフリカ史上最大級の移住政策の一つである。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "TAZARA railway completed",
+    "ko": "타자라 철도 완공",
+    "zh": "坦赞铁路建成",
+    "ja": "タンザン鉄道の完成"
+   },
+   "description": {
+    "en": "The Tanzania–Zambia Railway (TAZARA), built with Chinese financing and labor between 1970 and 1975, linked Dar es Salaam with Kapiri Mposhi in Zambia. It gave landlocked Zambia an outlet for its copper that avoided white-ruled Rhodesia and South Africa. It was one of China's largest foreign aid projects of the era.",
+    "ko": "중국의 자금과 인력으로 1970~1975년 건설된 탄자니아-잠비아 철도(타자라)는 다르에스살람과 잠비아의 카피리음포시를 연결했다. 이 철도는 내륙국 잠비아에 백인 통치하의 로디지아와 남아프리카를 거치지 않는 구리 수출로를 열어 주었다. 이는 당시 중국의 최대 대외 원조 사업 가운데 하나였다.",
+    "zh": "坦赞铁路由中国提供资金和人力，于1970至1975年间修建，连接达累斯萨拉姆与赞比亚的卡皮里姆波希。它为内陆国赞比亚提供了绕开白人统治的罗得西亚和南非的铜矿出口通道，是当时中国规模最大的对外援助项目之一。",
+    "ja": "中国の資金と労働力で1970〜1975年に建設されたタンザニア・ザンビア鉄道（タンザン鉄道）は、ダルエスサラームとザンビアのカピリムポシを結んだ。これにより内陸国ザンビアは白人支配のローデシアや南アフリカを経由しない銅の輸出路を得た。当時の中国最大級の対外援助事業の一つであった。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Formation of Chama Cha Mapinduzi (CCM)",
+    "ko": "혁명당(CCM) 결성",
+    "zh": "革命党成立",
+    "ja": "革命党（CCM）の結成"
+   },
+   "description": {
+    "en": "On 5 February 1977 TANU and Zanzibar's Afro-Shirazi Party merged to form Chama Cha Mapinduzi (CCM), the 'Party of the Revolution', which became the sole legal party for the whole union. CCM has governed Tanzania without interruption ever since, making it one of the longest-ruling parties in Africa. The same year the first East African Community collapsed.",
+    "ko": "1977년 2월 5일 TANU와 잔지바르의 아프로시라지당이 합당해 '혁명당'이라는 뜻의 차마 차 마핀두지(CCM)를 결성했으며, CCM은 연합 전체의 유일한 합법 정당이 되었다. CCM은 이후 단절 없이 탄자니아를 통치해 아프리카에서 가장 오래 집권한 정당 가운데 하나가 되었다. 같은 해 1차 동아프리카 공동체가 붕괴했다.",
+    "zh": "1977年2月5日，坦噶尼喀非洲民族联盟与桑给巴尔的非洲—设拉子党合并，组成坦桑尼亚革命党，成为全联合共和国唯一合法政党。此后革命党一直连续执政，成为非洲执政时间最长的政党之一。同年，第一个东非共同体解体。",
+    "ja": "1977年2月5日、TANUとザンジバルのアフロ・シラジ党が合同して「革命党」を意味するチャマ・チャ・マピンドゥジ（CCM）を結成し、連合全体で唯一の合法政党となった。CCMはそれ以来途切れることなくタンザニアを統治し、アフリカで最も長く政権を担う政党の一つとなっている。同じ年、最初の東アフリカ共同体が崩壊した。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": "Q202465",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Uganda–Tanzania War",
+    "ko": "우간다-탄자니아 전쟁",
+    "zh": "乌干达—坦桑尼亚战争",
+    "ja": "ウガンダ・タンザニア戦争"
+   },
+   "description": {
+    "en": "In October-November 1978 Idi Amin's Ugandan army invaded and annexed the Kagera Salient in northwestern Tanzania. Tanzania counterattacked, expelled the invaders and, together with Ugandan exiles, advanced into Uganda, capturing Kampala in April 1979 and toppling Amin. The victory was costly for Tanzania's already weak economy.",
+    "ko": "1978년 10~11월 이디 아민의 우간다군이 탄자니아 북서부의 카게라 돌출부를 침공해 병합을 선언했다. 탄자니아는 반격에 나서 침략군을 몰아내고 우간다 망명자들과 함께 우간다로 진격해 1979년 4월 캄팔라를 점령하고 아민을 몰아냈다. 이 승리는 이미 취약했던 탄자니아 경제에 큰 부담을 안겼다.",
+    "zh": "1978年10月至11月，伊迪·阿明的乌干达军队入侵并宣布吞并坦桑尼亚西北部的卡盖拉突出部。坦桑尼亚发起反攻，驱逐入侵者，并与乌干达流亡者一起攻入乌干达，于1979年4月攻占坎帕拉，推翻阿明。这场胜利使本已疲弱的坦桑尼亚经济付出了沉重代价。",
+    "ja": "1978年10〜11月、イディ・アミンのウガンダ軍がタンザニア北西部のカゲラ突出部に侵攻して併合を宣言した。タンザニアは反撃して侵略軍を追い出し、ウガンダの亡命者とともにウガンダへ進撃して1979年4月にカンパラを占領し、アミンを倒した。この勝利は、すでに弱っていたタンザニア経済に大きな負担を強いた。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Nyerere steps down; Mwinyi and economic liberalization",
+    "ko": "니에레레 퇴임과 므위니의 경제 자유화",
+    "zh": "尼雷尔卸任，姆维尼推行经济自由化",
+    "ja": "ニエレレの退任とムウィニの経済自由化"
+   },
+   "description": {
+    "en": "In 1985 Julius Nyerere voluntarily stepped down as president, a rare act among African leaders of the time, though he remained CCM chairman until 1990. His successor, Ali Hassan Mwinyi from Zanzibar, signed an agreement with the IMF in 1986 and began liberalizing trade and the economy. The shift marked the gradual end of Ujamaa economics.",
+    "ko": "1985년 줄리어스 니에레레는 당시 아프리카 지도자들 사이에서 드물게 자진해서 대통령직에서 물러났지만, 1990년까지 CCM 의장으로 남았다. 잔지바르 출신 후임 알리 하산 므위니는 1986년 IMF와 협정을 맺고 무역과 경제의 자유화를 시작했다. 이 전환은 우자마 경제의 점진적 종언을 의미했다.",
+    "zh": "1985年，朱利叶斯·尼雷尔主动卸任总统，这在当时的非洲领导人中实属罕见，但他担任革命党主席至1990年。来自桑给巴尔的继任者阿里·哈桑·姆维尼于1986年与国际货币基金组织签订协议，开始推行贸易和经济自由化。这一转变标志着乌贾马经济模式逐步终结。",
+    "ja": "1985年、ジュリウス・ニエレレは当時のアフリカの指導者としては珍しく自ら大統領職を退いたが、1990年までCCM議長にとどまった。ザンジバル出身の後任アリ・ハッサン・ムウィニは1986年にIMFと協定を結び、貿易と経済の自由化を始めた。この転換はウジャマー経済の段階的な終わりを意味した。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Return to Multiparty Politics",
+    "ko": "다당제 복귀",
+    "zh": "恢复多党制",
+    "ja": "複数政党制への復帰"
+   },
+   "description": {
+    "en": "Following the recommendations of the Nyalali Commission, which found that most Tanzanians favored keeping one party, Nyerere nevertheless urged a transition, and constitutional amendments in 1992 ended single-party rule and legalized opposition parties. The first multiparty general elections followed in 1995. The CCM has remained in power since, while elections in Zanzibar in particular have been bitterly contested.",
+    "ko": "대다수 탄자니아인이 일당제 유지를 선호한다는 결과를 내놓은 니알랄리 위원회의 권고에도 불구하고 니에레레는 이행을 촉구했고, 1992년 헌법 개정으로 일당 통치가 끝나고 야당이 합법화되었다. 1995년 첫 다당제 총선이 치러졌다. 이후에도 CCM이 집권을 이어 왔으며, 특히 잔지바르의 선거는 치열한 논란을 빚어 왔다.",
+    "zh": "尼亚拉利委员会调查发现多数坦桑尼亚人倾向于保留一党制，但尼雷尔仍力主转型，1992年的宪法修正案结束了一党统治，使反对党合法化。1995年举行了首次多党大选。此后革命党一直执政，而桑给巴尔的选举尤其争议激烈。",
+    "ja": "ニャラリ委員会は大半のタンザニア人が一党制の維持を望んでいると報告したが、ニエレレはそれでも移行を促し、1992年の憲法改正で一党支配が終わり野党が合法化された。1995年に初の複数政党制総選挙が行われた。その後もCCMが政権を保ち、特にザンジバルの選挙は激しく争われてきた。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Rwandan refugee influx and the tribunal in Arusha",
+    "ko": "르완다 난민 유입과 아루샤 국제재판소",
+    "zh": "卢旺达难民涌入与阿鲁沙国际法庭",
+    "ja": "ルワンダ難民の流入とアルーシャの国際法廷"
+   },
+   "description": {
+    "en": "During the 1994 genocide in Rwanda, hundreds of thousands of refugees poured across the border into the Ngara district of northwestern Tanzania, creating some of the largest refugee camps in the world. The UN Security Council established the International Criminal Tribunal for Rwanda that year, and it was based in Arusha. The tribunal tried leading organizers of the genocide until its closure in 2015.",
+    "ko": "1994년 르완다 대학살 기간 수십만 명의 난민이 국경을 넘어 탄자니아 북서부 응가라 지역으로 몰려들어 세계 최대 규모의 난민촌이 생겨났다. 그해 유엔 안전보장이사회는 르완다 국제형사재판소를 설립했고, 재판소는 아루샤에 자리 잡았다. 재판소는 2015년 문을 닫을 때까지 대학살의 주요 조직자들을 재판했다.",
+    "zh": "1994年卢旺达大屠杀期间，数十万难民越境涌入坦桑尼亚西北部的恩加拉地区，形成了当时世界上规模最大的难民营之一。同年联合国安理会设立卢旺达问题国际刑事法庭，总部设在阿鲁沙。该法庭审判大屠杀的主要组织者，直至2015年关闭。",
+    "ja": "1994年のルワンダ虐殺の際、数十万人の難民が国境を越えてタンザニア北西部のンガラ地区に押し寄せ、世界最大級の難民キャンプが生まれた。同年、国連安全保障理事会はルワンダ国際刑事裁判所を設置し、裁判所はアルーシャに置かれた。裁判所は2015年に閉鎖されるまで虐殺の主要な組織者を裁いた。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First multiparty elections; Mkapa elected",
+    "ko": "첫 다당제 선거와 음카파 당선",
+    "zh": "首次多党选举，姆卡帕当选",
+    "ja": "初の複数政党制選挙とムカパの当選"
+   },
+   "description": {
+    "en": "In October 1995 Tanzania held its first multiparty general elections since independence, and CCM candidate Benjamin Mkapa won the presidency. Mkapa pursued privatization and fiscal reforms that won praise from donors and debt relief. In Zanzibar, the opposition Civic United Front rejected the narrowly declared result, beginning years of tension on the isles.",
+    "ko": "1995년 10월 탄자니아는 독립 후 첫 다당제 총선을 치렀고 CCM 후보 벤저민 음카파가 대통령에 당선되었다. 음카파는 민영화와 재정 개혁을 추진해 공여국들의 찬사와 부채 탕감을 이끌어 냈다. 잔지바르에서는 야당 시민연합전선(CUF)이 근소한 차이로 발표된 결과를 거부하며 섬의 수년간에 걸친 긴장이 시작되었다.",
+    "zh": "1995年10月，坦桑尼亚举行独立以来首次多党大选，革命党候选人本杰明·姆卡帕当选总统。姆卡帕推行私有化和财政改革，赢得援助国的赞誉和债务减免。在桑给巴尔，反对党公民联合阵线拒绝接受以微弱差距宣布的结果，诸岛由此陷入多年紧张。",
+    "ja": "1995年10月、タンザニアは独立以来初の複数政党制総選挙を行い、CCMのベンジャミン・ムカパが大統領に当選した。ムカパは民営化と財政改革を進め、援助国から称賛と債務救済を得た。ザンジバルでは野党市民統一戦線（CUF）が僅差で発表された結果を拒否し、島々で長年の緊張が始まった。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Sinking of the MV Bukoba",
+    "ko": "MV 부코바호 침몰",
+    "zh": "“布科巴”号沉没",
+    "ja": "ブコバ号の沈没"
+   },
+   "description": {
+    "en": "In May 1996 the overloaded ferry MV Bukoba capsized on Lake Victoria shortly before reaching Mwanza. Hundreds of passengers died; the exact toll is uncertain because many travellers had no tickets, and estimates range from several hundred to around a thousand. It was one of the worst maritime disasters in East African history.",
+    "ko": "1996년 5월 정원을 초과한 여객선 MV 부코바호가 므완자 도착 직전 빅토리아호에서 전복되었다. 수백 명의 승객이 숨졌는데, 표 없이 탄 승객이 많아 정확한 사망자 수는 불확실하며 추정치는 수백 명에서 약 1,000명에 이른다. 이는 동아프리카 역사상 최악의 해난 사고 가운데 하나였다.",
+    "zh": "1996年5月，严重超载的渡轮“布科巴”号在即将抵达姆万扎时于维多利亚湖倾覆。数百名乘客遇难；由于许多乘客没有船票，确切死亡人数不详，估计从数百人到约一千人不等。这是东非历史上最严重的水上灾难之一。",
+    "ja": "1996年5月、定員を超過したフェリー、ブコバ号がムワンザ到着直前にヴィクトリア湖で転覆した。数百人の乗客が死亡したが、切符を持たない乗客が多かったため正確な死者数は不明で、推計は数百人から約1,000人に及ぶ。東アフリカ史上最悪級の海難事故であった。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": "Q876206",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "US embassy bombing in Dar es Salaam",
+    "ko": "다르에스살람 미국 대사관 폭탄 테러",
+    "zh": "达累斯萨拉姆美国大使馆爆炸案",
+    "ja": "ダルエスサラームの米国大使館爆破事件"
+   },
+   "description": {
+    "en": "On 7 August 1998 al-Qaeda operatives detonated truck bombs almost simultaneously at the US embassies in Dar es Salaam and Nairobi. In Dar es Salaam the blast killed 11 people, all of them Tanzanian or other non-American victims, and wounded dozens. The attacks brought Osama bin Laden to worldwide attention and prompted US missile strikes in Afghanistan and Sudan.",
+    "ko": "1998년 8월 7일 알카에다 요원들이 다르에스살람과 나이로비의 미국 대사관에서 거의 동시에 트럭 폭탄을 터뜨렸다. 다르에스살람에서는 폭발로 11명이 숨지고 수십 명이 다쳤는데, 사망자는 모두 탄자니아인 등 미국인이 아니었다. 이 공격으로 오사마 빈 라덴이 세계의 주목을 받게 되었고, 미국은 아프가니스탄과 수단에 미사일 공격을 가했다.",
+    "zh": "1998年8月7日，基地组织成员几乎同时在达累斯萨拉姆和内罗毕的美国大使馆引爆卡车炸弹。达累斯萨拉姆的爆炸造成11人死亡、数十人受伤，遇难者均为坦桑尼亚人等非美国公民。这次袭击使奥萨马·本·拉登引起全世界关注，并促使美国对阿富汗和苏丹发动导弹打击。",
+    "ja": "1998年8月7日、アルカイダの工作員がダルエスサラームとナイロビの米国大使館でほぼ同時にトラック爆弾を爆発させた。ダルエスサラームでは爆発で11人が死亡し数十人が負傷したが、死者はすべてタンザニア人などアメリカ人以外であった。この攻撃でウサーマ・ビン・ラーディンは世界的に注目され、米国はアフガニスタンとスーダンへのミサイル攻撃に踏み切った。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Death of Julius Nyerere",
+    "ko": "줄리어스 니에레레 서거",
+    "zh": "朱利叶斯·尼雷尔逝世",
+    "ja": "ジュリウス・ニエレレの死去"
+   },
+   "description": {
+    "en": "Julius Nyerere, the 'Father of the Nation', died of leukemia in a London hospital on 14 October 1999. In his last years he had served as mediator in the Burundian civil war. He was mourned across Africa as a principled leader who had promoted national unity, Swahili, education and the liberation of southern Africa, even as his economic policies were debated.",
+    "ko": "'국부' 줄리어스 니에레레는 1999년 10월 14일 런던의 병원에서 백혈병으로 사망했다. 그는 말년에 부룬디 내전의 중재자로 활동했다. 그의 경제 정책은 논쟁의 대상이었지만, 그는 국민 통합·스와힐리어·교육·남부 아프리카 해방을 이끈 원칙 있는 지도자로서 아프리카 전역에서 애도를 받았다.",
+    "zh": "“国父”朱利叶斯·尼雷尔于1999年10月14日因白血病在伦敦一家医院去世。他晚年曾担任布隆迪内战的调解人。尽管其经济政策存在争议，他仍作为推动民族团结、斯瓦希里语、教育和南部非洲解放的有原则的领袖而受到全非洲的悼念。",
+    "ja": "「建国の父」ジュリウス・ニエレレは1999年10月14日にロンドンの病院で白血病のため死去した。晩年にはブルンジ内戦の仲介役を務めた。その経済政策は議論の的であったが、国民統合、スワヒリ語、教育、南部アフリカの解放を推進した信念ある指導者としてアフリカ全土で悼まれた。"
+   }
+  },
+  {
+   "year": 2001,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Deadly crackdown on protests in Zanzibar and Pemba",
+    "ko": "잔지바르·펨바 시위 유혈 진압",
+    "zh": "桑给巴尔和奔巴抗议遭血腥镇压",
+    "ja": "ザンジバルとペンバでの抗議の流血鎮圧"
+   },
+   "description": {
+    "en": "In January 2001 police and security forces violently suppressed opposition demonstrations against the disputed 2000 Zanzibar election, especially on Pemba island, killing dozens of people and prompting thousands to flee to Kenya. The violence led to a reconciliation agreement (Muafaka) between CCM and the Civic United Front later that year. Tensions on the isles nevertheless continued until a power-sharing government was formed in 2010.",
+    "ko": "2001년 1월 경찰과 보안군은 논란이 된 2000년 잔지바르 선거에 항의하는 야당 시위를 특히 펨바섬에서 폭력적으로 진압해 수십 명이 숨지고 수천 명이 케냐로 피신했다. 이 폭력 사태로 그해 말 CCM과 시민연합전선 사이에 화해 협정(무아파카)이 맺어졌다. 그러나 섬의 긴장은 2010년 권력 분점 정부가 구성될 때까지 이어졌다.",
+    "zh": "2001年1月，警察和安全部队暴力镇压反对派针对有争议的2000年桑给巴尔选举举行的示威，奔巴岛尤为严重，造成数十人死亡，数千人逃往肯尼亚。暴力事件促使革命党与公民联合阵线于同年晚些时候签订和解协议（“穆阿法卡”）。但诸岛的紧张局势一直持续到2010年组建权力分享政府。",
+    "ja": "2001年1月、警察と治安部隊は争われた2000年のザンジバル選挙に抗議する野党のデモを、とりわけペンバ島で暴力的に鎮圧し、数十人が死亡し数千人がケニアへ逃れた。この暴力を受け、同年後半にCCMと市民統一戦線の間で和解合意（ムアファカ）が結ばれた。しかし島々の緊張は、2010年に権力分有政府が成立するまで続いた。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": "Q5991464",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Igandu train disaster",
+    "ko": "이간두 열차 참사",
+    "zh": "伊甘杜火车事故",
+    "ja": "イガンドゥ列車事故"
+   },
+   "description": {
+    "en": "In June 2002 a crowded passenger train on the Central Line lost power on a steep slope near Igandu, east of Dodoma, rolled backward and collided with a following freight train. Around 280 people were killed, making it the deadliest rail accident in Tanzania's history. The disaster highlighted the poor condition of the railway system.",
+    "ko": "2002년 6월 중앙선을 달리던 만원 여객 열차가 도도마 동쪽 이간두 근처의 급경사에서 동력을 잃고 뒤로 미끄러져 뒤따르던 화물 열차와 충돌했다. 약 280명이 숨져 탄자니아 역사상 가장 치명적인 철도 사고가 되었다. 이 참사는 철도 시스템의 열악한 상태를 드러냈다.",
+    "zh": "2002年6月，中央铁路线上一列拥挤的客运列车在多多马以东伊甘杜附近的陡坡上失去动力，倒溜后与后方一列货运列车相撞。约280人遇难，成为坦桑尼亚历史上最惨重的铁路事故。灾难凸显了铁路系统的破败状况。",
+    "ja": "2002年6月、中央線を走っていた満員の旅客列車がドドマ東方のイガンドゥ付近の急勾配で動力を失って後退し、後続の貨物列車と衝突した。約280人が死亡し、タンザニア史上最悪の鉄道事故となった。この惨事は鉄道網の劣悪な状態を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Jakaya Kikwete elected president",
+    "ko": "자카야 키퀘테 대통령 당선",
+    "zh": "基奎特当选总统",
+    "ja": "ジャカヤ・キクウェテが大統領に当選"
+   },
+   "description": {
+    "en": "CCM candidate Jakaya Kikwete won the December 2005 presidential election by a large margin, succeeding Mkapa. During his two terms the economy grew steadily, natural gas was discovered offshore, and Zanzibar formed a government of national unity after a 2010 referendum. His presidency was also marked by major corruption scandals.",
+    "ko": "CCM 후보 자카야 키퀘테는 2005년 12월 대통령 선거에서 큰 차이로 승리해 음카파의 뒤를 이었다. 그의 두 임기 동안 경제는 꾸준히 성장했고 해상에서 천연가스가 발견되었으며, 잔지바르는 2010년 국민투표를 거쳐 거국 정부를 구성했다. 그의 임기에는 대형 부패 스캔들도 잇따랐다.",
+    "zh": "革命党候选人贾卡亚·基奎特在2005年12月的总统选举中以大比分获胜，接替姆卡帕。在他的两个任期内经济稳步增长，近海发现天然气，桑给巴尔在2010年公投后组建了民族团结政府。其任内也发生了多起重大腐败丑闻。",
+    "ja": "CCMのジャカヤ・キクウェテは2005年12月の大統領選挙で大差で勝利し、ムカパの後を継いだ。その2期の間に経済は着実に成長し、沖合で天然ガスが発見され、ザンジバルは2010年の住民投票を経て挙国一致政府を発足させた。一方で大規模な汚職事件も相次いだ。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "John Magufuli elected president",
+    "ko": "존 마구풀리 대통령 당선",
+    "zh": "马古富力当选总统",
+    "ja": "ジョン・マグフリが大統領に当選"
+   },
+   "description": {
+    "en": "In October 2015 CCM candidate John Magufuli, nicknamed 'the Bulldozer' for his record as works minister, was elected president. He won popularity with an anti-corruption drive, cost-cutting and infrastructure projects such as a new standard-gauge railway, and completed the government's move to Dodoma. Critics accused his government of restricting the media, banning opposition rallies and intimidating critics; in Zanzibar the 2015 election was annulled and rerun amid an opposition boycott.",
+    "ko": "2015년 10월 공공사업부 장관 시절의 성과로 '불도저'라는 별명을 얻은 CCM 후보 존 마구풀리가 대통령에 당선되었다. 그는 반부패 운동, 비용 절감, 새 표준궤 철도 같은 인프라 사업으로 인기를 얻었고 정부의 도도마 이전을 마무리했다. 비판자들은 그의 정부가 언론을 제한하고 야당 집회를 금지하며 비판자들을 위협했다고 비난했으며, 잔지바르에서는 2015년 선거가 무효화되어 야당의 보이콧 속에 재선거가 치러졌다.",
+    "zh": "2015年10月，因任工程部长时的政绩而被称为“推土机”的革命党候选人约翰·马古富力当选总统。他凭借反腐运动、削减开支和新建标准轨距铁路等基础设施项目赢得民心，并完成了政府迁往多多马。批评者指责其政府限制媒体、禁止反对派集会并恐吓批评者；在桑给巴尔，2015年选举被宣布无效，在反对派抵制下重新举行。",
+    "ja": "2015年10月、公共事業相時代の実績から「ブルドーザー」と呼ばれたCCMのジョン・マグフリが大統領に当選した。彼は反汚職運動、経費削減、新しい標準軌鉄道などのインフラ事業で人気を得て、政府のドドマ移転を完了させた。批判者は彼の政府が報道を制限し、野党集会を禁じ、批判者を威圧したと非難した。ザンジバルでは2015年の選挙が無効とされ、野党のボイコットの中でやり直し選挙が行われた。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q56690070",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Sinking of the MV Nyerere",
+    "ko": "MV 니에레레호 침몰",
+    "zh": "“尼雷尔”号渡轮沉没",
+    "ja": "ニエレレ号の沈没"
+   },
+   "description": {
+    "en": "In September 2018 the overcrowded ferry MV Nyerere capsized near the dock at Ukara Island on Lake Victoria. More than 200 people were killed. The disaster, coming two decades after the Bukoba sinking, renewed concerns about overloading and safety on the lake's ferries.",
+    "ko": "2018년 9월 정원을 초과한 여객선 MV 니에레레호가 빅토리아호의 우카라섬 선착장 근처에서 전복되었다. 200명 넘게 숨졌다. 부코바호 침몰 20여 년 만에 일어난 이 참사는 호수 여객선의 과적과 안전 문제에 대한 우려를 다시 불러일으켰다.",
+    "zh": "2018年9月，严重超载的渡轮“尼雷尔”号在维多利亚湖乌卡拉岛码头附近倾覆，200多人遇难。这场灾难发生在“布科巴”号沉没二十多年后，再次引发人们对湖上渡轮超载和安全问题的担忧。",
+    "ja": "2018年9月、定員超過のフェリー、ニエレレ号がヴィクトリア湖のウカラ島の桟橋近くで転覆した。200人以上が死亡した。ブコバ号の沈没から20年余りで起きたこの惨事は、湖のフェリーの過積載と安全への懸念を改めて呼び起こした。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q66363820",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Morogoro fuel tanker explosion",
+    "ko": "모로고로 유조차 폭발",
+    "zh": "莫罗戈罗油罐车爆炸",
+    "ja": "モロゴロのタンクローリー爆発"
+   },
+   "description": {
+    "en": "In August 2019 an overturned fuel tanker exploded in Morogoro as crowds gathered to collect leaking petrol. About a hundred people died from the blast and their burns. The tragedy prompted public campaigns warning against siphoning fuel from crashed tankers.",
+    "ko": "2019년 8월 모로고로에서 전복된 유조차에서 새어 나오는 휘발유를 받으려고 사람들이 몰려든 가운데 유조차가 폭발했다. 폭발과 화상으로 약 100명이 숨졌다. 이 비극을 계기로 사고 유조차에서 연료를 퍼 가는 행위를 경고하는 공공 캠페인이 벌어졌다.",
+    "zh": "2019年8月，莫罗戈罗一辆侧翻的油罐车在人群聚集收集泄漏汽油时发生爆炸。约一百人死于爆炸和烧伤。这场悲剧促使当局开展宣传，警告民众不要从事故油罐车中抽取燃油。",
+    "ja": "2019年8月、モロゴロで横転したタンクローリーから漏れるガソリンを集めようと人々が群がるなか、車両が爆発した。爆発とやけどで約100人が死亡した。この悲劇を受け、事故車両から燃料を抜き取らないよう呼びかける啓発活動が行われた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87770827",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "COVID-19 and Magufuli's re-election",
+    "ko": "코로나19와 마구풀리의 재선",
+    "zh": "新冠疫情与马古富力连任",
+    "ja": "新型コロナとマグフリの再選"
+   },
+   "description": {
+    "en": "After Tanzania recorded its first COVID-19 cases in March 2020, President Magufuli downplayed the pandemic, stopped publishing case data from May and urged prayer and herbal remedies instead of lockdowns or, later, vaccines. In the October 2020 election he was declared re-elected with a landslide, in a vote the opposition and observers criticized as marred by irregularities and restrictions. His approach drew wide international criticism.",
+    "ko": "2020년 3월 첫 코로나19 확진자가 나온 뒤 마구풀리 대통령은 팬데믹을 대수롭지 않게 여겨 5월부터 확진자 통계 발표를 중단했고, 봉쇄나 이후의 백신 대신 기도와 약초 요법을 권했다. 2020년 10월 선거에서 그는 압도적 재선으로 발표되었지만, 야당과 참관인들은 부정과 제약으로 얼룩진 선거라고 비판했다. 그의 대응은 국제적으로 거센 비판을 받았다.",
+    "zh": "2020年3月坦桑尼亚出现首批新冠病例后，马古富力总统淡化疫情，自5月起停止公布病例数据，并提倡祈祷和草药疗法，而不是封锁措施或后来的疫苗。在2020年10月的选举中他被宣布以压倒性优势连任，反对派和观察人士批评选举存在违规和种种限制。他的做法招致国际社会的广泛批评。",
+    "ja": "2020年3月にタンザニアで最初の新型コロナ感染者が確認された後、マグフリ大統領はパンデミックを軽視し、5月から感染者数の公表をやめ、ロックダウンやのちにはワクチンの代わりに祈りや薬草療法を勧めた。2020年10月の選挙では圧勝で再選と発表されたが、野党や監視団は不正と制約に満ちた選挙だと批判した。その対応は国際的に強い批判を浴びた。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Samia Suluhu Hassan Becomes First Female President",
+    "ko": "사미아 술루후 하산, 첫 여성 대통령 취임",
+    "zh": "萨米娅·苏卢胡·哈桑成为首位女总统",
+    "ja": "サミア・スルフ・ハッサン、初の女性大統領に"
+   },
+   "description": {
+    "en": "After President John Magufuli died in office in March 2021, officially of heart disease, Vice-President Samia Suluhu Hassan of Zanzibar was sworn in as Tanzania's first female head of state. She changed course on COVID-19, joined vaccination efforts and eased some political and media restrictions, lifting the ban on opposition rallies in 2023. Critics later accused her government of renewed repression of the opposition.",
+    "ko": "2021년 3월 존 마구풀리 대통령이 재임 중 사망하자(공식 사인은 심장 질환), 잔지바르 출신 사미아 술루후 하산 부통령이 탄자니아 최초의 여성 국가원수로 취임했다. 그녀는 코로나19 대응 노선을 바꿔 백신 접종에 참여했고 일부 정치·언론 규제를 완화했으며, 2023년에는 야당 집회 금지를 해제했다. 비판자들은 이후 그녀의 정부가 다시 야당을 탄압한다고 비난했다.",
+    "zh": "2021年3月约翰·马古富力总统在任内去世（官方称死于心脏病），来自桑给巴尔的副总统萨米娅·苏卢胡·哈桑宣誓就任坦桑尼亚首位女性国家元首。她改变了新冠防疫路线，加入疫苗接种行动，放宽了部分政治和媒体限制，并于2023年解除对反对派集会的禁令。批评者后来指责其政府重新打压反对派。",
+    "ja": "2021年3月にジョン・マグフリ大統領が在任中に死去すると（公式の死因は心臓病）、ザンジバル出身のサミア・スルフ・ハッサン副大統領がタンザニア初の女性国家元首として就任した。彼女は新型コロナ対策の方針を転換してワクチン接種に加わり、一部の政治・報道規制を緩め、2023年には野党集会の禁止を解除した。批判者はのちに、彼女の政府が再び野党を弾圧していると非難した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Hanang landslide",
+    "ko": "하낭 산사태",
+    "zh": "哈南泥石流",
+    "ja": "ハナンの土石流"
+   },
+   "description": {
+    "en": "In early December 2023 torrential rains triggered a massive mudslide from the slopes of Mount Hanang onto the town of Katesh in northern Tanzania. Dozens of people were killed and many homes, roads and farms were buried. The disaster was part of severe flooding across East Africa linked to an unusually strong rainy season.",
+    "ko": "2023년 12월 초 폭우로 하낭산 비탈에서 대규모 토석류가 발생해 탄자니아 북부 카테시 마을을 덮쳤다. 수십 명이 숨지고 많은 가옥·도로·농경지가 매몰되었다. 이 참사는 이례적으로 강한 우기와 관련된 동아프리카 전역의 극심한 홍수의 일부였다.",
+    "zh": "2023年12月初，暴雨引发哈南山坡大规模泥石流，冲向坦桑尼亚北部的卡泰什镇。数十人遇难，大量房屋、道路和农田被掩埋。这场灾难是东非因异常强烈的雨季而遭受严重洪灾的一部分。",
+    "ja": "2023年12月初め、豪雨によってハナン山の斜面から大規模な土石流が発生し、タンザニア北部のカテシュの町を襲った。数十人が死亡し、多くの家屋や道路、農地が埋まった。この災害は、異例の強い雨季に伴う東アフリカ全域の深刻な洪水の一部であった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q136682955",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Disputed 2025 election and deadly protests",
+    "ko": "논란의 2025년 선거와 유혈 시위",
+    "zh": "有争议的2025年选举与流血抗议",
+    "ja": "争われた2025年選挙と流血の抗議"
+   },
+   "description": {
+    "en": "Ahead of the October 2025 general election, the main opposition party Chadema was barred from taking part and its leader Tundu Lissu was put on trial for treason. President Samia Suluhu Hassan was declared the winner with an overwhelming majority, and protests that erupted on and after election day in Dar es Salaam and other cities were met with a heavy security crackdown, a curfew and internet restrictions. Many people were killed, though the death toll remains disputed between the government and the opposition and rights groups.",
+    "ko": "2025년 10월 총선을 앞두고 제1야당 차데마는 선거 참여를 금지당했고 대표 툰두 리수는 반역 혐의로 재판에 회부되었다. 사미아 술루후 하산 대통령이 압도적 득표로 당선이 발표되었으며, 선거 당일과 그 이후 다르에스살람 등지에서 터져 나온 시위는 강경한 보안 진압과 통행금지, 인터넷 제한에 부딪혔다. 많은 사람이 숨졌지만 사망자 수는 정부와 야당·인권 단체 사이에서 여전히 논란이다.",
+    "zh": "在2025年10月大选前，主要反对党民主发展党被禁止参选，其领导人通杜·利苏被以叛国罪受审。萨米娅·苏卢胡·哈桑总统被宣布以压倒性多数胜选，选举日及其后在达累斯萨拉姆等城市爆发的抗议遭到安全部队严厉镇压，当局实施宵禁并限制互联网。许多人遇难，但死亡人数在政府与反对派及人权组织之间仍有争议。",
+    "ja": "2025年10月の総選挙を前に、最大野党チャデマは選挙への参加を禁じられ、党首トゥンドゥ・リスは反逆罪で裁判にかけられた。サミア・スルフ・ハッサン大統領が圧倒的多数で当選と発表され、投票日とその後にダルエスサラームなどで起きた抗議は、治安部隊の強硬な鎮圧、夜間外出禁止令、インターネット制限に直面した。多くの人が死亡したが、死者数は政府と野党・人権団体の間で今も争われている。"
+   }
+  }
+ ]
+}

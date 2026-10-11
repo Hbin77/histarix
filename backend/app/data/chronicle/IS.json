@@ -1,0 +1,1765 @@
+{
+ "iso": "IS",
+ "eras": [
+  {
+   "from": -3000,
+   "to": 873,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Uninhabited Iceland",
+    "ko": "사람이 살지 않던 아이슬란드",
+    "zh": "无人定居的冰岛",
+    "ja": "無人の島アイスランド"
+   },
+   "summary": {
+    "en": "For thousands of years Iceland was a volcanic island without permanent human settlement, shaped by eruptions such as those of Hekla and by its glaciers. Greek and medieval writers spoke of a remote northern land called Thule, and the Irish monk Dicuil recorded that hermit monks had sailed to such an island by around 800, but no permanent population is attested. Tephra layers show that lasting settlement began only in the late 9th century.",
+    "ko": "수천 년 동안 아이슬란드는 헤클라 화산 등의 분화와 빙하가 지형을 빚어낸, 사람이 정착하지 않은 화산섬이었다. 그리스와 중세의 저술가들은 '툴레'라는 북방의 먼 땅을 언급했고, 아일랜드 수도사 디퀼은 800년 무렵 은둔 수도사들이 그런 섬에 건너갔다고 기록했지만 영구적인 주민은 확인되지 않는다. 화산재 층 연구에 따르면 지속적인 정착은 9세기 후반에야 시작되었다.",
+    "zh": "数千年来，冰岛一直是一座没有永久居民的火山岛，赫克拉等火山的喷发和冰川塑造了它的地貌。希腊和中世纪作家曾提到北方遥远的“图勒”之地，爱尔兰修士迪奎尔记载约800年前后有隐修士航行到这样一座岛上，但并无永久人口的证据。火山灰层研究表明，持久定居始于9世纪后期。",
+    "ja": "数千年にわたりアイスランドは定住者のいない火山島で、ヘクラ山などの噴火と氷河が地形をつくった。ギリシアや中世の著述家は北方の遠い地「トゥーレ」に言及し、アイルランドの修道士ディクイルは800年頃に隠修士がそのような島へ渡ったと記したが、恒久的な住民は確認されていない。テフラ（火山灰）層の研究から、継続的な定住は9世紀後半に始まったとされる。"
+   }
+  },
+  {
+   "from": 874,
+   "to": 929,
+   "kind": "period",
+   "qid": null,
+   "polity": "Viking settlements",
+   "name": {
+    "en": "Age of Settlement (Landnám)",
+    "ko": "정착 시대(란드남)",
+    "zh": "定居时代（兰德纳姆）",
+    "ja": "植民時代（ランドナウム）"
+   },
+   "summary": {
+    "en": "Norse settlers, mainly from western Norway together with people from the Norse-Gaelic communities of the British Isles, including many Gaelic slaves, claimed land across Iceland. According to the medieval Book of Settlements, Ingólfur Arnarson was the first permanent settler, and within about sixty years most habitable land had been taken. Chieftains (goðar) combined religious and political leadership and formed local assemblies.",
+    "ko": "주로 노르웨이 서부 출신 노르드인과 브리튼 제도의 노르드-게일 공동체 출신 사람들(다수의 게일계 노예 포함)이 아이슬란드 전역에 땅을 차지했다. 중세의 『정착기』에 따르면 잉골프 아르나르손이 최초의 정착민이었으며, 약 60년 만에 사람이 살 만한 땅 대부분이 점유되었다. 고디라 불린 족장들이 종교와 정치 지도력을 겸하며 지역 집회를 꾸렸다.",
+    "zh": "来自挪威西部的北欧人，以及来自不列颠群岛北欧—盖尔社群的人们（其中包括许多盖尔裔奴隶），在冰岛各地占地定居。据中世纪《定居者之书》记载，英格尔夫·阿尔纳松是第一位永久定居者，大约六十年间可居住的土地大多已被占据。称为“戈迪”的首领兼掌宗教与政治，组织起地方议事会。",
+    "ja": "主にノルウェー西部出身のノルド人と、ブリテン諸島のノルド＝ゲール系共同体の人々（多くのゲール系奴隷を含む）がアイスランド各地の土地を占取した。中世の『植民の書』によればインゴルフル・アルナルソンが最初の定住者で、約60年のうちに居住可能な土地の大半が占められた。ゴジと呼ばれる首長が宗教と政治の指導を兼ね、地域の集会を組織した。"
+   }
+  },
+  {
+   "from": 930,
+   "to": 1262,
+   "kind": "state",
+   "qid": "Q62389",
+   "polity": "Icelandic Commonwealth",
+   "name": {
+    "en": "Icelandic Commonwealth",
+    "ko": "아이슬란드 자유국",
+    "zh": "冰岛自由邦",
+    "ja": "アイスランド共和国（自由国）"
+   },
+   "summary": {
+    "en": "The Icelandic Commonwealth was a stateless polity without a king, governed by about three dozen chieftaincies and the annual general assembly, the Althing, at Þingvellir. A lawspeaker recited the law, courts settled disputes, and Christianity was adopted by assembly decision in about 1000, followed by bishoprics at Skálholt and Hólar. The period produced the Icelandic sagas and Eddic literature, but ended in civil war and submission to the Norwegian crown.",
+    "ko": "아이슬란드 자유국은 국왕이 없는 체제로, 30여 개의 족장 관할권과 싱벨리르에서 해마다 열리는 총회 알싱이 다스렸다. 법률 낭송관이 법을 암송하고 법정이 분쟁을 해결했으며, 1000년경 집회 결정으로 기독교를 받아들인 뒤 스칼홀트와 홀라르에 주교좌가 세워졌다. 이 시기에 아이슬란드 사가와 에다 문학이 탄생했으나, 결국 내전 끝에 노르웨이 왕권에 복속되며 막을 내렸다.",
+    "zh": "冰岛自由邦是一个没有国王的政治体，由三十余个首领辖区和每年在辛格韦德利召开的全民大会“阿尔庭”共同治理。法律宣讲人背诵法律，法庭裁决纠纷；约1000年经大会决议皈依基督教，此后在斯卡尔霍特和霍拉尔设立主教座。这一时期孕育了冰岛萨迦和埃达文学，最终却在内战之后归附挪威王权。",
+    "ja": "アイスランド自由国は王を持たない政体で、30余りの首長管区と、シンクヴェトリルで毎年開かれる全島集会アルシングによって運営された。法の宣言者が法を朗誦し、法廷が紛争を裁き、1000年頃には集会の決定によりキリスト教を受容して、スカールホルトとホーラルに司教座が置かれた。この時代にサガやエッダ文学が生まれたが、最後は内戦を経てノルウェー王権に服した。"
+   }
+  },
+  {
+   "from": 1220,
+   "to": 1264,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Sturlung Age",
+    "ko": "스투를룽 시대",
+    "zh": "斯图尔隆时代",
+    "ja": "ストゥルルング時代"
+   },
+   "summary": {
+    "en": "In the final decades of the Commonwealth, power concentrated in a few great families such as the Sturlungar, Haukdælir and Ásbirningar, whose feuds escalated into open civil war. The Norwegian king Haakon IV exploited these rivalries by making Icelandic chieftains his vassals. Major battles such as Örlygsstaðir (1238) and Haugsnes (1246) marked the period, which ended with the Old Covenant of 1262–64.",
+    "ko": "자유국 말기 수십 년 동안 권력은 스투를룽, 하우크데일리르, 아우스비르닝가르 등 몇몇 대가문에 집중되었고 그들의 반목은 공공연한 내전으로 번졌다. 노르웨이 왕 호콘 4세는 아이슬란드 족장들을 자신의 봉신으로 삼아 이러한 경쟁을 이용했다. 외를리그스스타디르(1238)와 하우그스네스(1246) 전투 등이 이 시기를 상징하며, 1262~64년의 '옛 서약'으로 끝났다.",
+    "zh": "自由邦最后几十年间，权力集中到斯图尔隆家族、豪克代利尔家族和奥斯比尔宁加尔家族等少数大家族手中，其世仇演变为公开内战。挪威国王哈康四世利用这些对立，将冰岛首领收为封臣。厄尔利格斯塔济尔战役（1238年）和豪格斯内斯战役（1246年）是这一时期的标志，最终以1262至1264年的《旧盟约》告终。",
+    "ja": "自由国の最後の数十年、権力はストゥルルング家、ハウクダール家、アウスビルニング家などの少数の大家門に集中し、その抗争は公然たる内戦へと発展した。ノルウェー王ホーコン4世はアイスランドの首長たちを臣下とすることでこの対立を利用した。エルリグスタジルの戦い（1238年）やハウグスネスの戦い（1246年）がこの時代を象徴し、1262～64年の「古い盟約」で終わった。"
+   }
+  },
+  {
+   "from": 1262,
+   "to": 1396,
+   "kind": "period",
+   "qid": null,
+   "polity": "Old Kingdom of Norway",
+   "name": {
+    "en": "Iceland under the Norwegian Crown",
+    "ko": "노르웨이 왕권 아래의 아이슬란드",
+    "zh": "挪威王权下的冰岛",
+    "ja": "ノルウェー王権下のアイスランド"
+   },
+   "summary": {
+    "en": "Under the Old Covenant, Icelanders accepted the Norwegian king and paid him tax in return for promised shipping and the preservation of their laws. New law codes, Járnsíða and then Jónsbók (1281), replaced the old Commonwealth law, and royal officials took over from the chieftains. After 1380 the Norwegian and Danish crowns were joined, and Iceland passed with Norway into union with Denmark.",
+    "ko": "'옛 서약'에 따라 아이슬란드인은 노르웨이 왕을 받아들이고 세금을 바치는 대신 정기 선박 운항과 고유 법의 존중을 약속받았다. 새 법전인 '야른시다'와 이어서 '욘스보크'(1281)가 자유국 시대의 법을 대체했고, 왕의 관리들이 족장의 역할을 넘겨받았다. 1380년 이후 노르웨이와 덴마크 왕위가 결합되면서 아이슬란드도 노르웨이와 함께 덴마크와의 연합에 들어갔다.",
+    "zh": "根据《旧盟约》，冰岛人接受挪威国王并向其纳税，换取定期通航和保留本地法律的承诺。新法典《铁边法》以及随后的《约恩法典》（1281年）取代了自由邦时代的旧法，王室官员取代了首领的地位。1380年后挪威与丹麦王位合一，冰岛随挪威一同进入与丹麦的联合。",
+    "ja": "「古い盟約」のもとでアイスランド人はノルウェー王を受け入れて税を納め、その代わりに定期的な船の往来と固有の法の維持を約束された。新法典『ヤールンシーザ』、続いて『ヨーンスボーク』（1281年）が自由国時代の法に取って代わり、王の役人が首長の役割を引き継いだ。1380年以降ノルウェーとデンマークの王位が結合し、アイスランドもノルウェーとともにデンマークとの連合に入った。"
+   }
+  },
+  {
+   "from": 1397,
+   "to": 1523,
+   "kind": "period",
+   "qid": "Q62623",
+   "polity": "Kalmar Union",
+   "name": {
+    "en": "Kalmar Union era",
+    "ko": "칼마르 동맹 시대",
+    "zh": "卡尔马联盟时期",
+    "ja": "カルマル同盟時代"
+   },
+   "summary": {
+    "en": "From 1397 Iceland belonged, through Norway, to the Kalmar Union of the Scandinavian kingdoms under a single monarch based in Denmark. The 15th century brought two plague epidemics and the so-called English Century, when English and later German (Hanseatic) merchants and fishermen dominated Iceland's trade, often in defiance of the crown. The Church was the largest landowner and the island's main cultural institution.",
+    "ko": "1397년부터 아이슬란드는 노르웨이를 통해 덴마크에 근거를 둔 단일 군주 아래의 스칸디나비아 연합, 칼마르 동맹에 속했다. 15세기에는 두 차례 역병이 휩쓸었고, 이른바 '영국의 세기'에는 영국 상인과 어부, 이어서 독일(한자) 상인이 종종 왕권을 무시한 채 아이슬란드 교역을 장악했다. 교회는 최대 토지 소유자이자 섬의 중심 문화 기관이었다.",
+    "zh": "自1397年起，冰岛经由挪威隶属于以丹麦为中心、由同一君主统治的斯堪的纳维亚诸国联合——卡尔马联盟。15世纪冰岛两度遭受瘟疫，并经历了所谓“英国世纪”：英格兰商人和渔民、后来还有德意志（汉萨）商人主导了冰岛贸易，常常无视王室禁令。教会是最大的土地所有者和岛上主要的文化机构。",
+    "ja": "1397年からアイスランドはノルウェーを通じて、デンマークを拠点とする単一の君主のもとに北欧諸王国を束ねたカルマル同盟に属した。15世紀には二度の疫病が島を襲い、いわゆる「イングランドの世紀」にはイングランドの商人や漁民、のちにはドイツ（ハンザ）商人が、しばしば王権を無視してアイスランドの交易を支配した。教会は最大の土地所有者であり、島の文化の中心でもあった。"
+   }
+  },
+  {
+   "from": 1524,
+   "to": 1813,
+   "kind": "period",
+   "qid": "Q62651",
+   "polity": "Denmark-Norway",
+   "name": {
+    "en": "Danish–Norwegian rule",
+    "ko": "덴마크-노르웨이 지배기",
+    "zh": "丹麦—挪威统治时期",
+    "ja": "デンマーク＝ノルウェー支配期"
+   },
+   "summary": {
+    "en": "After the Kalmar Union dissolved, Iceland remained a dependency of the Danish–Norwegian crown. The Lutheran Reformation was imposed by 1550, the Danish trade monopoly (1602–1787) tied the economy to licensed Danish merchants, and in 1662 Icelanders swore allegiance to an absolute monarch. The era was marked by poverty, epidemics and volcanic catastrophes such as the Laki eruption, but also by printing in Icelandic and early Enlightenment reforms.",
+    "ko": "칼마르 동맹이 해체된 뒤에도 아이슬란드는 덴마크-노르웨이 왕권의 속령으로 남았다. 1550년까지 루터파 종교개혁이 강제되었고, 덴마크 무역 독점(1602~1787)은 경제를 허가받은 덴마크 상인에게 묶어 두었으며, 1662년 아이슬란드인은 절대 군주에게 충성을 맹세했다. 이 시대는 빈곤과 전염병, 라키 분화 같은 화산 재해로 얼룩졌지만, 아이슬란드어 인쇄와 초기 계몽주의 개혁도 이루어졌다.",
+    "zh": "卡尔马联盟解体后，冰岛仍是丹麦—挪威王室的属地。到1550年，路德宗宗教改革被强制推行；丹麦贸易垄断（1602—1787年）把经济绑定在获得特许的丹麦商人身上；1662年冰岛人宣誓效忠专制君主。这一时代饱受贫困、疫病以及拉基火山喷发等火山灾难之苦，但也出现了冰岛语印刷和早期启蒙改革。",
+    "ja": "カルマル同盟の解体後も、アイスランドはデンマーク＝ノルウェー王権の属領にとどまった。1550年までにルター派の宗教改革が押しつけられ、デンマークの交易独占（1602～1787年）は経済を特許を得たデンマーク商人に縛りつけ、1662年にはアイスランド人が絶対君主に忠誠を誓った。貧困や疫病、ラーキ噴火などの火山災害に苦しんだ時代だったが、アイスランド語の印刷や初期の啓蒙主義的改革も進んだ。"
+   }
+  },
+  {
+   "from": 1814,
+   "to": 1903,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Danish dependency and national awakening",
+    "ko": "덴마크 속령과 민족 각성",
+    "zh": "丹麦属地与民族觉醒",
+    "ja": "デンマーク属領と民族の覚醒"
+   },
+   "summary": {
+    "en": "When Norway was ceded to Sweden in 1814, Iceland stayed with Denmark. Inspired by Romanticism and led above all by Jón Sigurðsson, Icelanders campaigned for self-government: the Althing was revived as an advisory body in 1845, trade was opened to all nations in 1855, and a constitution was granted in 1874. Poverty and volcanic disasters nonetheless drove thousands to emigrate to North America in the late 19th century.",
+    "ko": "1814년 노르웨이가 스웨덴에 할양될 때 아이슬란드는 덴마크에 남았다. 낭만주의에 고무되고 무엇보다 욘 시귀르드손의 지도를 받은 아이슬란드인들은 자치를 요구했다. 1845년 알싱이 자문 기구로 부활했고, 1855년 모든 나라와의 무역이 개방되었으며, 1874년 헌법이 주어졌다. 그러나 빈곤과 화산 재해로 19세기 후반 수천 명이 북아메리카로 이주했다.",
+    "zh": "1814年挪威被割让给瑞典时，冰岛留在丹麦治下。在浪漫主义的激励下，尤其在约恩·西居尔兹松的领导下，冰岛人争取自治：1845年阿尔庭以咨询机构的形式恢复，1855年对所有国家开放贸易，1874年获得宪法。然而贫困和火山灾害仍迫使数千人在19世纪后期移民北美。",
+    "ja": "1814年にノルウェーがスウェーデンに割譲された際、アイスランドはデンマークのもとにとどまった。ロマン主義に鼓舞され、とりわけヨーン・シグルズソンに率いられたアイスランド人は自治を求め、1845年にアルシングが諮問機関として復活し、1855年には全ての国との交易が開放され、1874年には憲法が与えられた。それでも貧困と火山災害により、19世紀後半には数千人が北米へ移住した。"
+   }
+  },
+  {
+   "from": 1904,
+   "to": 1917,
+   "kind": "period",
+   "qid": "Q16427214",
+   "polity": null,
+   "name": {
+    "en": "Home Rule",
+    "ko": "자치 시대",
+    "zh": "自治时期",
+    "ja": "自治時代"
+   },
+   "summary": {
+    "en": "In 1904 Iceland gained home rule, with its own minister, Hannes Hafstein, resident in Reykjavík and responsible to the Althing. The period saw rapid modernisation: motorised trawlers transformed fishing, the first telegraph cable reached the island in 1906, the University of Iceland opened in 1911 and women won the vote in 1915. Negotiations with Denmark culminated in full sovereignty in 1918.",
+    "ko": "1904년 아이슬란드는 자치를 얻어, 레이캬비크에 상주하며 알싱에 책임지는 자국 장관 하네스 하프스테인을 두게 되었다. 이 시기에 동력 트롤선이 어업을 바꾸었고, 1906년 첫 전신 케이블이 섬에 연결되었으며, 1911년 아이슬란드 대학이 문을 열고 1915년 여성이 참정권을 얻는 등 근대화가 빠르게 진행되었다. 덴마크와의 협상은 1918년 완전한 주권 획득으로 이어졌다.",
+    "zh": "1904年冰岛获得自治，由常驻雷克雅未克、对阿尔庭负责的本国大臣汉内斯·哈夫斯泰因主持政务。这一时期现代化迅速推进：机动拖网渔船改变了渔业，1906年第一条电报电缆接通该岛，1911年冰岛大学成立，1915年妇女获得选举权。与丹麦的谈判最终促成1918年的完全主权。",
+    "ja": "1904年にアイスランドは自治を獲得し、レイキャヴィークに常駐してアルシングに責任を負う自国の大臣ハンネス・ハフステインが置かれた。動力トロール船が漁業を一変させ、1906年に最初の電信ケーブルが島に届き、1911年にアイスランド大学が開学し、1915年に女性参政権が実現するなど近代化が急速に進んだ。デンマークとの交渉は1918年の完全な主権獲得に結実した。"
+   }
+  },
+  {
+   "from": 1918,
+   "to": 1944,
+   "kind": "state",
+   "qid": "Q62567",
+   "polity": "Kingdom of Iceland",
+   "name": {
+    "en": "Kingdom of Iceland",
+    "ko": "아이슬란드 왕국",
+    "zh": "冰岛王国",
+    "ja": "アイスランド王国"
+   },
+   "summary": {
+    "en": "Under the Danish–Icelandic Act of Union of 1918, Iceland became a sovereign kingdom sharing the Danish king, while Denmark handled its foreign affairs and fisheries protection on its behalf. Iceland declared itself permanently neutral, celebrated the Althing's millennium in 1930 and suffered in the Great Depression. After Germany occupied Denmark in 1940, Iceland took control of its own affairs and was occupied by British and then American forces.",
+    "ko": "1918년 덴마크-아이슬란드 연합법에 따라 아이슬란드는 덴마크 국왕을 공유하는 주권 왕국이 되었고, 덴마크는 외교와 어업 보호를 대행했다. 아이슬란드는 영구 중립을 선언했고 1930년 알싱 창설 1000년을 기념했으며 대공황의 타격을 받았다. 1940년 독일이 덴마크를 점령하자 아이슬란드는 스스로 국정을 맡았고, 영국군에 이어 미군의 주둔을 받았다.",
+    "zh": "根据1918年《丹麦—冰岛联合法》，冰岛成为与丹麦共奉一位国王的主权王国，丹麦代为处理其外交和渔业保护。冰岛宣布永久中立，1930年庆祝阿尔庭成立一千周年，并受到大萧条打击。1940年德国占领丹麦后，冰岛自行接管国务，并先后被英军和美军占领。",
+    "ja": "1918年のデンマーク＝アイスランド連合法により、アイスランドはデンマーク国王を共有する主権王国となり、デンマークが外交と漁業保護を代行した。アイスランドは永世中立を宣言し、1930年にはアルシング創設千年を祝い、世界恐慌の打撃も受けた。1940年にドイツがデンマークを占領すると、アイスランドは自ら国政を掌握し、イギリス軍、続いてアメリカ軍の駐留を受けた。"
+   }
+  },
+  {
+   "from": 1940,
+   "to": 1945,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Allied occupation of Iceland",
+    "ko": "연합군의 아이슬란드 점령",
+    "zh": "盟军占领冰岛",
+    "ja": "連合軍のアイスランド占領"
+   },
+   "summary": {
+    "en": "British forces landed in Reykjavík on 10 May 1940 to forestall a German move on the strategically placed island, despite Iceland's protest of its neutrality. From 1941, by agreement with the Icelandic government, United States forces took over its defence, at times numbering more troops than Iceland had adult men. The occupation brought jobs, roads and airfields such as Keflavík, ending the depression and transforming society.",
+    "ko": "1940년 5월 10일, 영국군은 중립을 내세운 아이슬란드의 항의에도 불구하고 전략적 요충지인 이 섬을 독일보다 먼저 확보하려고 레이캬비크에 상륙했다. 1941년부터는 아이슬란드 정부와의 합의로 미군이 방위를 넘겨받았는데, 한때 그 병력은 아이슬란드 성인 남성 수보다 많았다. 점령은 일자리와 도로, 케플라비크 같은 비행장을 가져와 불황을 끝내고 사회를 바꾸어 놓았다.",
+    "zh": "1940年5月10日，英军不顾冰岛以中立为由的抗议，在雷克雅未克登陆，以抢在德国之前控制这座战略要地。自1941年起，根据与冰岛政府的协议，美军接管防务，其兵力一度超过冰岛的成年男子总数。占领带来了就业、道路以及凯夫拉维克等机场，结束了萧条，也深刻改变了社会。",
+    "ja": "1940年5月10日、イギリス軍は中立を理由とするアイスランドの抗議を押し切り、戦略上の要地をドイツに先んじて押さえるためレイキャヴィークに上陸した。1941年からはアイスランド政府との合意によりアメリカ軍が防衛を引き継ぎ、その兵力は一時アイスランドの成年男子の数を上回った。占領は雇用や道路、ケプラヴィークなどの飛行場をもたらし、不況を終わらせて社会を変えた。"
+   }
+  },
+  {
+   "from": 1944,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q189",
+   "polity": "Republic of Iceland",
+   "name": {
+    "en": "Republic of Iceland",
+    "ko": "아이슬란드 공화국",
+    "zh": "冰岛共和国",
+    "ja": "アイスランド共和国"
+   },
+   "summary": {
+    "en": "The republic was proclaimed at Þingvellir on 17 June 1944. Iceland joined NATO in 1949 while keeping no army, hosted a US base at Keflavík until 2006, and won control of its fishing waters in the Cod Wars with Britain. Fishing, then aluminium smelting, tourism and finance drove growth; the 2008 banking collapse caused a deep crisis followed by recovery, while ongoing volcanic activity continues to shape life on the island.",
+    "ko": "1944년 6월 17일 싱벨리르에서 공화국이 선포되었다. 아이슬란드는 군대를 두지 않은 채 1949년 NATO에 가입했고, 2006년까지 케플라비크에 미군 기지를 두었으며, 영국과의 '대구 전쟁'을 거쳐 어업 수역에 대한 통제권을 확보했다. 어업에 이어 알루미늄 제련, 관광, 금융이 성장을 이끌었고, 2008년 은행 붕괴로 깊은 위기를 겪은 뒤 회복했으며, 계속되는 화산 활동은 지금도 섬의 삶을 좌우하고 있다.",
+    "zh": "1944年6月17日，共和国在辛格韦德利宣告成立。冰岛在不设军队的情况下于1949年加入北约，凯夫拉维克美军基地一直保留到2006年，并通过与英国的“鳕鱼战争”取得了对本国渔场的控制。渔业以及后来的铝冶炼、旅游业和金融业推动了经济增长；2008年银行业崩溃引发严重危机，此后经济复苏，而持续的火山活动至今仍影响着岛上的生活。",
+    "ja": "1944年6月17日、シンクヴェトリルで共和国が宣言された。アイスランドは軍隊を持たないまま1949年にNATOに加盟し、2006年までケプラヴィークに米軍基地を置き、イギリスとの「タラ戦争」を経て漁業水域の管理権を確立した。漁業に続いてアルミニウム精錬、観光、金融が成長を牽引し、2008年の銀行破綻で深刻な危機に陥ったのち回復した。続く火山活動は今も島の暮らしを左右している。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -1000,
+   "qid": "Q5701325",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Hekla 3 eruption",
+    "ko": "헤클라 3 분화",
+    "zh": "赫克拉3号喷发",
+    "ja": "ヘクラ3噴火"
+   },
+   "description": {
+    "en": "Around 1000 BC, the Hekla volcano produced one of the largest explosive eruptions in Iceland's Holocene history, known to geologists as Hekla 3. Its ash spread over much of the island and far beyond, and the tephra layer is now a key time marker for dating sediments in northern Europe. The island was still uninhabited at the time.",
+    "ko": "기원전 1000년 무렵 헤클라 화산은 아이슬란드 홀로세 역사상 가장 큰 폭발적 분화 중 하나를 일으켰으며, 지질학자들은 이를 '헤클라 3'이라 부른다. 화산재는 섬 대부분과 그 너머까지 퍼졌고, 이 화산재 층은 오늘날 북유럽 퇴적층의 연대를 측정하는 중요한 기준이 된다. 당시 섬에는 아직 사람이 살지 않았다.",
+    "zh": "约公元前1000年，赫克拉火山发生了冰岛全新世历史上规模最大的爆炸性喷发之一，地质学家称之为“赫克拉3号”。火山灰覆盖了岛上大部分地区并远播他方，这一火山灰层如今是北欧沉积物断代的重要标志层。当时岛上尚无人居住。",
+    "ja": "前1000年頃、ヘクラ山はアイスランドの完新世史上最大級の爆発的噴火を起こし、地質学者はこれを「ヘクラ3」と呼ぶ。火山灰は島の大部分とその先まで広がり、このテフラ層は北ヨーロッパの堆積物の年代を決める重要な鍵層となっている。当時、島はまだ無人だった。"
+   }
+  },
+  {
+   "year": -330,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Pytheas and the land of Thule",
+    "ko": "피테아스와 툴레의 땅",
+    "zh": "皮西亚斯与图勒之地",
+    "ja": "ピュテアスとトゥーレの地"
+   },
+   "description": {
+    "en": "Around 330 BC the Greek navigator Pytheas of Massalia described a land called Thule, six days' sail north of Britain near a frozen sea. Whether he meant Iceland, Norway or another northern land is disputed by scholars. The name Thule was later applied by medieval writers to Iceland.",
+    "ko": "기원전 330년경 마살리아 출신 그리스 항해가 피테아스는 브리튼에서 북쪽으로 엿새를 항해하면 얼어붙은 바다 근처에 '툴레'라는 땅이 있다고 기록했다. 그가 말한 곳이 아이슬란드인지, 노르웨이나 다른 북방 땅인지에 대해서는 학자들 사이에 논란이 있다. 툴레라는 이름은 훗날 중세 저술가들이 아이슬란드를 가리키는 데 쓰였다.",
+    "zh": "约公元前330年，马萨利亚的希腊航海家皮西亚斯记载了一片名为“图勒”的土地，位于不列颠以北六天航程、靠近冰冻海洋之处。他所指的究竟是冰岛、挪威还是其他北方土地，学界仍有争议。后来中世纪作家将“图勒”之名用于指称冰岛。",
+    "ja": "前330年頃、マッサリアのギリシア人航海者ピュテアスは、ブリテンから北へ6日の航海で凍った海の近くに「トゥーレ」という地があると記した。それがアイスランドなのか、ノルウェーなど別の北方の地なのかは学者の間で議論がある。トゥーレの名はのちに中世の著述家によってアイスランドを指して用いられた。"
+   }
+  },
+  {
+   "year": 825,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Dicuil writes of monks in Thule",
+    "ko": "디퀼이 기록한 툴레의 수도사들",
+    "zh": "迪奎尔记载图勒的修士",
+    "ja": "ディクイルが記したトゥーレの修道士"
+   },
+   "description": {
+    "en": "In 825 the Irish monk Dicuil wrote in his geography 'De mensura orbis terrae' that clerics had lived on an island called Thule, where the summer sun barely set. Many historians link this to Irish hermits, the 'papar' later mentioned in Icelandic sources, but no archaeological proof of their presence has been confirmed.",
+    "ko": "825년 아일랜드 수도사 디퀼은 지리서 『세계의 측량에 관하여』에서 여름 해가 거의 지지 않는 '툴레'라는 섬에 성직자들이 머문 적이 있다고 썼다. 많은 역사가들은 이를 훗날 아이슬란드 문헌에 나오는 아일랜드 은둔 수도사 '파파르'와 연결하지만, 그들의 존재를 입증하는 고고학적 증거는 확인되지 않았다.",
+    "zh": "825年，爱尔兰修士迪奎尔在地理著作《论世界的度量》中写道，曾有神职人员居住在一座名为“图勒”的岛上，那里夏季太阳几乎不落。许多史学家将此与后来冰岛文献中提到的爱尔兰隐修士“帕帕尔”联系起来，但尚无确证其存在的考古证据。",
+    "ja": "825年、アイルランドの修道士ディクイルは地理書『世界の測量について』で、夏には太陽がほとんど沈まない「トゥーレ」という島に聖職者が暮らしていたと書いた。多くの歴史家はこれを、のちのアイスランドの史料に見えるアイルランドの隠修士「パパル」と結びつけるが、その存在を裏づける考古学的証拠は確認されていない。"
+   }
+  },
+  {
+   "year": 871,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "The Settlement tephra layer",
+    "ko": "정착기 화산재 층",
+    "zh": "定居期火山灰层",
+    "ja": "植民期テフラ層"
+   },
+   "description": {
+    "en": "A thin layer of volcanic ash from an eruption dated to about 871 is found across much of Iceland and has become the key reference point for dating the settlement. The earliest traces of human habitation, such as farm remains in Reykjavík, lie just above or around this layer. It confirms that lasting settlement began in the late 9th century, in line with the written tradition.",
+    "ko": "약 871년으로 연대가 측정된 분화에서 나온 얇은 화산재 층이 아이슬란드 곳곳에서 발견되며, 이는 정착 시기를 판단하는 핵심 기준점이 되었다. 레이캬비크의 농가 유적 등 가장 이른 거주 흔적은 이 층 바로 위나 그 주변에 놓여 있다. 이를 통해 지속적인 정착이 문헌 전승대로 9세기 후반에 시작되었음이 확인된다.",
+    "zh": "一次年代约为871年的火山喷发留下的薄薄火山灰层遍布冰岛大部分地区，成为判定定居时间的关键参照。雷克雅未克的农庄遗址等最早的人类居住痕迹，恰好位于该层之上或附近。这证实了持久定居始于9世纪后期，与文献传统相符。",
+    "ja": "871年頃と年代測定された噴火による薄い火山灰層がアイスランド各地で見つかり、植民の時期を判断する重要な基準となっている。レイキャヴィークの農場跡など最古の居住痕跡は、この層のすぐ上かその周辺にある。これにより、継続的な定住が文献の伝承どおり9世紀後半に始まったことが確かめられている。"
+   }
+  },
+  {
+   "year": 874,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Norse settlement of Iceland begins",
+    "ko": "노르드인의 아이슬란드 정착 시작",
+    "zh": "北欧人开始定居冰岛",
+    "ja": "ノルド人によるアイスランド入植の開始"
+   },
+   "description": {
+    "en": "According to the Book of Settlements, the Norwegian chieftain Ingólfur Arnarson became Iceland's first permanent settler in 874, founding his homestead at Reykjavík. Tradition says he threw his high-seat pillars overboard and settled where they washed ashore. Over the following decades thousands of settlers from Norway and the Norse-Gaelic British Isles arrived.",
+    "ko": "『정착기』에 따르면 노르웨이 출신 족장 잉골프 아르나르손이 874년 레이캬비크에 농가를 세우며 아이슬란드 최초의 영구 정착민이 되었다. 전승에 따르면 그는 높은 의자의 기둥을 바다에 던지고 그것이 떠밀려 온 곳에 정착했다고 한다. 이후 수십 년 동안 노르웨이와 노르드-게일계 브리튼 제도에서 수천 명이 건너왔다.",
+    "zh": "据《定居者之书》记载，874年挪威首领英格尔夫·阿尔纳松在雷克雅未克建立农庄，成为冰岛第一位永久定居者。相传他将高座柱抛入海中，在其漂上岸的地方定居。此后几十年间，数以千计的定居者从挪威和北欧—盖尔化的不列颠群岛来到这里。",
+    "ja": "『植民の書』によれば、ノルウェーの首長インゴルフル・アルナルソンは874年にレイキャヴィークに農場を構え、アイスランド最初の恒久的な定住者となった。伝承では、彼は高座の柱を海に投げ入れ、それが流れ着いた場所に住みついたという。その後数十年の間に、ノルウェーやノルド＝ゲール化したブリテン諸島から数千人が渡ってきた。"
+   }
+  },
+  {
+   "year": 930,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "The Althing is founded at Þingvellir",
+    "ko": "싱벨리르에서 알싱 창설",
+    "zh": "阿尔庭议会在辛格韦德利成立",
+    "ja": "シンクヴェトリルでアルシング創設"
+   },
+   "description": {
+    "en": "Around 930 Icelandic chieftains established the Althing, a general assembly held each summer at Þingvellir, often described as one of the world's oldest parliaments. A lawspeaker recited the laws, and a law council and courts settled disputes among free men. Its founding marks the start of the Icelandic Commonwealth.",
+    "ko": "930년경 아이슬란드 족장들은 매년 여름 싱벨리르에서 열리는 총회 알싱을 세웠으며, 이는 흔히 세계에서 가장 오래된 의회 가운데 하나로 일컬어진다. 법률 낭송관이 법을 암송했고, 법률 평의회와 법정이 자유민 사이의 분쟁을 해결했다. 알싱 창설은 아이슬란드 자유국의 시작을 알린다.",
+    "zh": "约930年，冰岛首领们建立了每年夏天在辛格韦德利召开的全民大会“阿尔庭”，它常被称为世界上最古老的议会之一。法律宣讲人背诵法律，立法会议和法庭裁决自由民之间的纠纷。阿尔庭的成立标志着冰岛自由邦的开端。",
+    "ja": "930年頃、アイスランドの首長たちは毎夏シンクヴェトリルで開かれる全島集会アルシングを創設した。これは世界最古の議会の一つとしばしば称される。法の宣言者が法を朗誦し、立法評議会と法廷が自由民の紛争を裁いた。その創設はアイスランド自由国の始まりを告げるものである。"
+   }
+  },
+  {
+   "year": 939,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Eldgjá eruption",
+    "ko": "엘드갸우 분화",
+    "zh": "埃尔贾火山裂隙喷发",
+    "ja": "エルドギャウ噴火"
+   },
+   "description": {
+    "en": "Around 939 the Eldgjá fissure in southern Iceland produced one of the largest lava floods of historic times, part of the Katla volcanic system. The eruption released huge quantities of sulphur and is linked by researchers to harsh winters in the Northern Hemisphere. It struck the newly settled island only a decade after the Althing was founded.",
+    "ko": "939년경 아이슬란드 남부 카틀라 화산계의 엘드갸우 열하는 역사 시대 최대급의 용암 분출을 일으켰다. 이 분화는 막대한 양의 황을 뿜어냈으며, 연구자들은 이를 북반구의 혹독한 겨울과 연결한다. 알싱 창설 불과 10년 뒤, 갓 정착이 이루어진 섬을 덮친 재해였다.",
+    "zh": "约939年，冰岛南部属卡特拉火山系统的埃尔贾裂隙发生了有史以来规模最大的熔岩溢流之一。此次喷发释放了大量硫，研究者认为它与北半球的严冬有关。这场灾难发生在阿尔庭成立仅十年后，袭击了刚刚定居的岛屿。",
+    "ja": "939年頃、アイスランド南部のカトラ火山系に属するエルドギャウ割れ目は、有史時代最大級の溶岩流出を起こした。噴火は大量の硫黄を放出し、研究者は北半球の厳しい冬との関連を指摘している。アルシング創設からわずか10年後、植民されたばかりの島を襲った災害だった。"
+   }
+  },
+  {
+   "year": 965,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Iceland divided into Quarters",
+    "ko": "아이슬란드의 4분구 제도",
+    "zh": "冰岛划分为四个区",
+    "ja": "アイスランドの四区分"
+   },
+   "description": {
+    "en": "According to the sagas and Ari Þorgilsson's 'Book of the Icelanders', the country was divided around 965 into four Quarters, each with its own court at the Althing. The reform followed a feud that had shown the old procedures were inadequate. The quarter system remained the framework of Commonwealth law.",
+    "ko": "사가와 아리 소르길손의 『아이슬란드인의 서』에 따르면, 965년경 나라는 네 개의 '구역'으로 나뉘었고 각 구역은 알싱에 자체 법정을 두었다. 이 개혁은 기존 절차가 불충분하다는 것이 드러난 한 반목 사건 뒤에 이루어졌다. 4분구 제도는 자유국 법체계의 틀로 유지되었다.",
+    "zh": "据萨迦和阿里·索吉尔松的《冰岛人之书》记载，约965年全国被划分为四个区，每个区在阿尔庭设有自己的法庭。这项改革源于一场暴露旧程序缺陷的家族仇杀。四区制度一直是自由邦法律体系的框架。",
+    "ja": "サガやアリ・ソルギルソンの『アイスランド人の書』によれば、965年頃に国は四つの「区」に分けられ、それぞれがアルシングに独自の法廷を持った。この改革は、旧来の手続きの不備を露呈したある抗争をきっかけに行われた。四区制は自由国の法体系の枠組みとして続いた。"
+   }
+  },
+  {
+   "year": 985,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Erik the Red leads settlers to Greenland",
+    "ko": "붉은 에리크의 그린란드 이주",
+    "zh": "红发埃里克率众移居格陵兰",
+    "ja": "赤毛のエイリークのグリーンランド植民"
+   },
+   "description": {
+    "en": "Outlawed from Iceland for killings, Erik the Red explored the coast of Greenland and returned to lead a fleet of settlers there around 985. The colonists came mostly from western Iceland and founded the Eastern and Western Settlements. From Greenland, his son Leif Eriksson later reached North America around 1000.",
+    "ko": "살인으로 아이슬란드에서 추방된 붉은 에리크는 그린란드 해안을 탐사한 뒤 돌아와 985년경 이주민 선단을 이끌고 그곳으로 향했다. 이주민은 주로 아이슬란드 서부 출신으로, 동부 정착지와 서부 정착지를 세웠다. 그의 아들 레이프 에릭손은 훗날 1000년경 그린란드에서 북아메리카에 도달했다.",
+    "zh": "红发埃里克因杀人被逐出冰岛，他探察了格陵兰海岸后返回，约985年率领移民船队前往那里。移民大多来自冰岛西部，建立了东部定居点和西部定居点。约1000年，他的儿子莱夫·埃里克松从格陵兰出发抵达北美洲。",
+    "ja": "殺人の罪でアイスランドから追放された赤毛のエイリークはグリーンランドの沿岸を探検し、戻って985年頃に入植者の船団を率いて渡った。入植者は主にアイスランド西部の出身で、東入植地と西入植地を築いた。彼の息子レイフ・エイリークソンはのち1000年頃、グリーンランドから北アメリカに到達した。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Iceland adopts Christianity",
+    "ko": "아이슬란드의 기독교 수용",
+    "zh": "冰岛皈依基督教",
+    "ja": "アイスランドのキリスト教改宗"
+   },
+   "description": {
+    "en": "Facing a split between pagan and Christian factions and pressure from King Olaf Tryggvason of Norway, the Althing around 1000 asked the pagan lawspeaker Þorgeir Ljósvetningagoði to decide. He ruled that all Icelanders should be baptised, while private pagan worship, exposure of infants and eating horse meat were at first tolerated. The peaceful conversion avoided civil war.",
+    "ko": "이교도와 기독교도의 분열, 그리고 노르웨이 왕 올라프 트뤼그바손의 압력에 직면한 알싱은 1000년경 이교도 법률 낭송관 소르게이르에게 결정을 맡겼다. 그는 모든 아이슬란드인이 세례를 받되, 처음에는 사적인 이교 숭배와 영아 유기, 말고기 섭취를 용인한다고 판정했다. 이 평화적 개종으로 내전을 피할 수 있었다.",
+    "zh": "面对异教派与基督教派的分裂以及挪威国王奥拉夫·特里格瓦松的压力，阿尔庭约在1000年请异教徒法律宣讲人索尔盖尔作出裁决。他裁定全体冰岛人接受洗礼，但起初容许私下的异教崇拜、弃婴和食用马肉。这次和平改宗避免了内战。",
+    "ja": "異教派とキリスト教派の分裂、ノルウェー王オーラヴ・トリュグヴァソンの圧力に直面したアルシングは、1000年頃、異教徒の法の宣言者ソルゲイルに判断を委ねた。彼はすべてのアイスランド人が洗礼を受けるべきだが、当初は私的な異教の礼拝や嬰児遺棄、馬肉食を容認すると裁定した。この平和的な改宗により内戦は避けられた。"
+   }
+  },
+  {
+   "year": 1005,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The Fifth Court is established",
+    "ko": "제5법정 설치",
+    "zh": "设立第五法庭",
+    "ja": "第五法廷の設置"
+   },
+   "description": {
+    "en": "According to the sagas, around 1005 a Fifth Court was added at the Althing as a court of appeal for cases the Quarter Courts could not resolve. Its creation is associated with the chieftain and lawyer Njáll Þorgeirsson in 'Njáls saga'. It strengthened the Commonwealth's legal system in the absence of any central executive.",
+    "ko": "사가에 따르면 1005년경 알싱에 구역 법정이 해결하지 못한 사건을 다루는 항소 법정인 '제5법정'이 추가되었다. 『날의 사가』에서는 그 설치를 족장이자 법률가인 냘 소르게이르손과 연결한다. 이는 중앙 집행 권력이 없는 자유국의 법체계를 강화했다.",
+    "zh": "据萨迦记载，约1005年阿尔庭增设“第五法庭”，作为审理各区法庭无法解决之案件的上诉法庭。《尼亚尔萨迦》将其设立与首领兼法律家尼亚尔·索尔盖尔松联系起来。在缺乏中央行政权力的情况下，它加强了自由邦的法律体系。",
+    "ja": "サガによれば、1005年頃アルシングに、区法廷で決着できない事件を扱う上訴法廷「第五法廷」が加えられた。『ニャールのサガ』はその設置を首長で法律家のニャール・ソルゲイルソンと結びつけている。中央の執行権力を欠く自由国の法体系はこれによって強化された。"
+   }
+  },
+  {
+   "year": 1056,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "First bishop of Iceland at Skálholt",
+    "ko": "스칼홀트에 첫 주교",
+    "zh": "斯卡尔霍特首任主教",
+    "ja": "スカールホルトに初代司教"
+   },
+   "description": {
+    "en": "Ísleifur Gissurarson, son of a leading chieftain and educated in Germany, was consecrated in 1056 as the first native bishop of Iceland, with his seat at his family estate of Skálholt. His son Gissur later secured Skálholt as the permanent see and introduced a tithe. The bishopric became a centre of learning and wealth.",
+    "ko": "유력 족장의 아들로 독일에서 교육받은 이스레이퓌르 기수라르손은 1056년 아이슬란드 출신 최초의 주교로 서임되었고, 가문의 영지 스칼홀트를 주교좌로 삼았다. 그의 아들 기수르는 훗날 스칼홀트를 영구 주교좌로 확정하고 십일조를 도입했다. 주교좌는 학문과 부의 중심이 되었다.",
+    "zh": "伊斯莱夫·吉苏拉松出身于一个显赫首领家庭，曾在德意志受教育，1056年被祝圣为冰岛第一位本土主教，以家族庄园斯卡尔霍特为主教座。其子吉苏尔后来将斯卡尔霍特确立为永久主教座，并推行什一税。主教座成为学术与财富的中心。",
+    "ja": "有力な首長の息子でドイツで教育を受けたイースレイヴル・ギツラルソンは、1056年にアイスランド出身初の司教に叙階され、一族の所領スカールホルトを司教座とした。息子のギツルはのちにスカールホルトを恒久的な司教座と定め、十分の一税を導入した。司教座は学問と富の中心となった。"
+   }
+  },
+  {
+   "year": 1104,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "First historic eruption of Hekla",
+    "ko": "헤클라의 첫 역사 기록 분화",
+    "zh": "赫克拉火山首次有史记载的喷发",
+    "ja": "ヘクラ山の有史最初の噴火"
+   },
+   "description": {
+    "en": "In 1104 Hekla erupted for the first time since the settlement, in a large explosive eruption that buried farms in the Þjórsárdalur valley under pumice. The excavated farm at Stöng is a well-known site from this event. Hekla later gained a reputation across medieval Europe as a gateway to hell.",
+    "ko": "1104년 헤클라는 정착 이후 처음으로 크게 폭발하여 쇼르스아르달뤼르 계곡의 농가들을 부석 아래 묻어 버렸다. 발굴된 스퇴운그 농가 유적은 이 사건으로 잘 알려진 곳이다. 헤클라는 이후 중세 유럽 전역에서 '지옥의 입구'로 이름을 떨쳤다.",
+    "zh": "1104年，赫克拉火山发生定居以来的首次大规模爆炸性喷发，浮石掩埋了肖尔索河谷的农庄。经发掘的斯通农庄遗址便是这一事件的著名见证。此后赫克拉在中世纪欧洲被视为“地狱之门”。",
+    "ja": "1104年、ヘクラ山は植民以来初めて大規模な爆発的噴火を起こし、ショウルスアウルダールルの谷の農場を軽石の下に埋めた。発掘されたストングの農場跡はこの出来事で知られる遺跡である。ヘクラ山はその後、中世ヨーロッパで「地獄の門」として名を馳せた。"
+   }
+  },
+  {
+   "year": 1106,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Bishopric of Hólar founded",
+    "ko": "홀라르 주교좌 설립",
+    "zh": "霍拉尔主教区设立",
+    "ja": "ホーラル司教座の設置"
+   },
+   "description": {
+    "en": "In 1106 a second bishopric was established at Hólar in northern Iceland, with Jón Ögmundsson as its first bishop. He founded a cathedral school there and was later venerated as a saint. Skálholt and Hólar remained Iceland's two sees and its main centres of learning for centuries.",
+    "ko": "1106년 아이슬란드 북부 홀라르에 두 번째 주교좌가 세워졌고, 욘 외그문드손이 첫 주교가 되었다. 그는 그곳에 주교좌 학교를 세웠으며 훗날 성인으로 공경받았다. 스칼홀트와 홀라르는 수 세기 동안 아이슬란드의 두 주교좌이자 학문의 중심지였다.",
+    "zh": "1106年，冰岛北部的霍拉尔设立第二个主教区，约恩·厄格蒙松任首任主教。他在当地创办了主教座学校，后来被尊为圣人。此后数百年间，斯卡尔霍特和霍拉尔一直是冰岛的两个主教座和主要学术中心。",
+    "ja": "1106年、アイスランド北部のホーラルに第二の司教座が置かれ、ヨーン・エグムンドソンが初代司教となった。彼はそこに司教座学校を創設し、のちに聖人として崇敬された。スカールホルトとホーラルは何世紀にもわたりアイスランドの二つの司教座であり、学問の中心であった。"
+   }
+  },
+  {
+   "year": 1117,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "The laws are first written down",
+    "ko": "법률의 첫 성문화",
+    "zh": "法律首次成文",
+    "ja": "法の最初の成文化"
+   },
+   "description": {
+    "en": "In the winter of 1117–18 the Althing decided that the laws should be written down, producing the text known as Hafliðaskrá at the farm of Hafliði Másson. This was among the first major texts written in Icelandic. The surviving Commonwealth law collection, Grágás, descends from this tradition of written law.",
+    "ko": "1117~18년 겨울 알싱은 법을 문자로 기록하기로 결정했고, 하플리디 마손의 농가에서 '하플리디의 법전'으로 알려진 문서가 만들어졌다. 이는 아이슬란드어로 쓰인 최초의 주요 문헌 가운데 하나였다. 현존하는 자유국 법전 『그라가스』는 이 성문법 전통을 잇는다.",
+    "zh": "1117至1118年冬，阿尔庭决定将法律成文，在哈夫利济·毛松的农庄写成被称为《哈夫利济法典》的文本。这是最早用冰岛语书写的重要文献之一。现存的自由邦法律汇编《灰雁法典》即源于这一成文法传统。",
+    "ja": "1117～18年の冬、アルシングは法を文字に記すことを決め、ハヴリジ・マウソンの農場で『ハヴリジの法典』として知られる文書が作られた。これはアイスランド語で書かれた最初期の主要な文献の一つである。現存する自由国の法典集『グラーガース』はこの成文法の伝統に連なる。"
+   }
+  },
+  {
+   "year": 1130,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Ari the Wise writes the Book of the Icelanders",
+    "ko": "현자 아리의 『아이슬란드인의 서』",
+    "zh": "智者阿里著《冰岛人之书》",
+    "ja": "賢者アリの『アイスランド人の書』"
+   },
+   "description": {
+    "en": "Around 1122–1133 the priest Ari Þorgilsson, called 'the Wise', wrote 'Íslendingabók', a brief history of Iceland from the settlement to his own day, in the vernacular. It is the main source for the settlement, the founding of the Althing and the conversion. Ari is also credited with an early version of the Book of Settlements.",
+    "ko": "1122~1133년경 '현자'라 불린 사제 아리 소르길손은 정착부터 자신의 시대까지를 다룬 간략한 아이슬란드 역사서 『아이슬란드인의 서』를 자국어로 썼다. 이 책은 정착, 알싱 창설, 개종에 관한 핵심 사료이다. 아리는 『정착기』 초기 판본의 저자로도 여겨진다.",
+    "zh": "约1122至1133年间，被称为“智者”的神父阿里·索吉尔松用本民族语言写成《冰岛人之书》，简要记述了从定居到他所处时代的冰岛历史。此书是有关定居、阿尔庭建立和皈依基督教的主要史料。阿里也被认为是《定居者之书》早期版本的作者。",
+    "ja": "1122～1133年頃、「賢者」と呼ばれた司祭アリ・ソルギルソンは、植民から自身の時代までの簡潔なアイスランド史『アイスランド人の書』を自国語で著した。同書は植民、アルシング創設、改宗に関する主要史料である。アリは『植民の書』の初期版の作者ともされる。"
+   }
+  },
+  {
+   "year": 1208,
+   "qid": "Q1650099",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Víðines",
+    "ko": "비디네스 전투",
+    "zh": "维济内斯战役",
+    "ja": "ヴィージネスの戦い"
+   },
+   "description": {
+    "en": "In 1208 a conflict between Bishop Guðmundur Arason of Hólar, who defended the Church's independence from secular chieftains, and the chieftain Kolbeinn Tumason came to blows at Víðines near Hólar. Kolbeinn was killed by a stone during the fighting. The clash foreshadowed the escalating violence of the following decades.",
+    "ko": "1208년 세속 족장들로부터 교회의 독립을 지키려던 홀라르 주교 귀드뮌뒤르 아라손과 족장 콜베인 투마손의 갈등이 홀라르 근처 비디네스에서 무력 충돌로 번졌다. 콜베인은 싸움 중 돌에 맞아 죽었다. 이 충돌은 이후 수십 년간 고조될 폭력을 예고했다.",
+    "zh": "1208年，捍卫教会独立于世俗首领的霍拉尔主教古兹蒙杜尔·阿拉松与首领科尔拜恩·图马松之间的冲突，在霍拉尔附近的维济内斯演变为武装交战。科尔拜恩在战斗中被石块击中身亡。这次冲突预示了此后数十年不断升级的暴力。",
+    "ja": "1208年、世俗の首長から教会の独立を守ろうとしたホーラル司教グズムンドゥル・アラソンと首長コルベイン・トゥマソンの対立が、ホーラル近くのヴィージネスで武力衝突となった。コルベインは戦闘中に石に当たって死んだ。この衝突はその後数十年にわたる暴力の激化を予告するものだった。"
+   }
+  },
+  {
+   "year": 1230,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Golden age of the sagas",
+    "ko": "사가 문학의 황금기",
+    "zh": "萨迦文学的黄金时代",
+    "ja": "サガ文学の黄金時代"
+   },
+   "description": {
+    "en": "In the 13th century Icelanders wrote down the great sagas of their ancestors, kings and saints. The chieftain Snorri Sturluson composed the Prose Edda and Heimskringla, the history of the Norwegian kings, which preserved Norse mythology and history for the world. Masterpieces such as Egils saga and Njáls saga belong to this period.",
+    "ko": "13세기 아이슬란드인들은 조상과 왕, 성인들에 관한 위대한 사가를 기록으로 남겼다. 족장 스노리 스툴루손은 『산문 에다』와 노르웨이 왕들의 역사 『헤임스크링글라』를 지어 북유럽 신화와 역사를 세계에 전했다. 『에길의 사가』, 『날의 사가』 같은 걸작도 이 시기에 속한다.",
+    "zh": "13世纪，冰岛人写下了关于祖先、国王和圣徒的伟大萨迦。首领斯诺里·斯图鲁松撰写了《散文埃达》和挪威列王史《海姆斯克林拉》，为世界保存了北欧神话与历史。《埃吉尔萨迦》《尼亚尔萨迦》等杰作也属于这一时期。",
+    "ja": "13世紀、アイスランド人は祖先や王、聖人をめぐる偉大なサガを書き記した。首長スノッリ・ストゥルルソンは『スノッリのエッダ』とノルウェー王朝史『ヘイムスクリングラ』を著し、北欧神話と歴史を世界に伝えた。『エギルのサガ』『ニャールのサガ』などの傑作もこの時代に属する。"
+   }
+  },
+  {
+   "year": 1238,
+   "qid": "Q2427731",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Örlygsstaðir",
+    "ko": "외를리그스스타디르 전투",
+    "zh": "厄尔利格斯塔济尔战役",
+    "ja": "エルリグスタジルの戦い"
+   },
+   "description": {
+    "en": "In August 1238 Gissur Þorvaldsson and Kolbeinn the Young defeated the Sturlung leaders Sighvatur Sturluson and his son Sturla at Örlygsstaðir in Skagafjörður, the largest battle in Iceland's history. Both Sturlung leaders were killed. The battle broke Sturlung dominance and deepened the civil war that led to Norwegian rule.",
+    "ko": "1238년 8월 기수르 소르발드손과 젊은 콜베인은 스카가피외르뒤르의 외를리그스스타디르에서 스투를룽 가문의 지도자 시그흐바튀르 스투를루손과 그의 아들 스투를라를 격파했다. 이는 아이슬란드 역사상 최대의 전투였고, 두 스투를룽 지도자는 모두 전사했다. 이 전투로 스투를룽 가문의 우위가 무너지고 노르웨이 지배로 이어진 내전이 격화되었다.",
+    "zh": "1238年8月，吉苏尔·索尔瓦尔松和小科尔拜恩在斯卡加峡湾的厄尔利格斯塔济尔击败斯图尔隆家族首领西格瓦图尔·斯图鲁松及其子斯图尔拉，这是冰岛历史上规模最大的战役。两位斯图尔隆首领均战死。此战打破了斯图尔隆家族的优势，加剧了最终导致挪威统治的内战。",
+    "ja": "1238年8月、ギツル・ソルヴァルズソンと若きコルベインは、スカーガフィヨルズルのエルリグスタジルでストゥルルング家の指導者シグフヴァトゥル・ストゥルルソンとその子ストゥルラを破った。アイスランド史上最大の戦いで、ストゥルルング家の二人の指導者はともに戦死した。この戦いでストゥルルング家の優位は崩れ、ノルウェー支配へと至る内戦が深まった。"
+   }
+  },
+  {
+   "year": 1241,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Murder of Snorri Sturluson",
+    "ko": "스노리 스툴루손 피살",
+    "zh": "斯诺里·斯图鲁松遇害",
+    "ja": "スノッリ・ストゥルルソンの殺害"
+   },
+   "description": {
+    "en": "On 23 September 1241 Snorri Sturluson, the most celebrated writer of medieval Iceland and a former lawspeaker, was killed at his farm at Reykholt by men led by Gissur Þorvaldsson. Gissur acted with the approval of King Haakon IV of Norway, who regarded Snorri as a disloyal vassal. The killing symbolised how Icelandic politics had become entangled with Norwegian royal power.",
+    "ko": "1241년 9월 23일, 중세 아이슬란드의 가장 이름난 작가이자 전 법률 낭송관이었던 스노리 스툴루손이 레이크홀트의 농가에서 기수르 소르발드손이 이끄는 무리에게 살해되었다. 기수르는 스노리를 불충한 봉신으로 여긴 노르웨이 왕 호콘 4세의 승인 아래 행동했다. 이 사건은 아이슬란드 정치가 노르웨이 왕권과 얼마나 얽히게 되었는지를 상징했다.",
+    "zh": "1241年9月23日，中世纪冰岛最负盛名的作家、曾任法律宣讲人的斯诺里·斯图鲁松在雷克霍尔特的农庄被吉苏尔·索尔瓦尔松率领的人杀害。吉苏尔的行动得到了挪威国王哈康四世的认可，后者视斯诺里为不忠的封臣。这一事件象征着冰岛政治已与挪威王权深深纠缠。",
+    "ja": "1241年9月23日、中世アイスランド最高の作家で元法の宣言者のスノッリ・ストゥルルソンが、レイクホルトの農場でギツル・ソルヴァルズソン率いる一団に殺害された。ギツルは、スノッリを不忠な臣下とみなしたノルウェー王ホーコン4世の承認のもとで行動した。この事件は、アイスランド政治がノルウェー王権といかに絡み合うようになったかを象徴していた。"
+   }
+  },
+  {
+   "year": 1244,
+   "qid": "Q3031201",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of the Gulf (Flóabardagi)",
+    "ko": "만의 전투(플로아바르다기)",
+    "zh": "海湾之战（弗洛阿战役）",
+    "ja": "湾の戦い（フローアバルダギ）"
+   },
+   "description": {
+    "en": "In 1244 the forces of Þórður kakali Sighvatsson and Kolbeinn the Young fought at sea in Húnaflói in northern Iceland. It is the only significant naval battle recorded in Iceland's history. Kolbeinn's larger fleet prevailed, but the struggle for power continued.",
+    "ko": "1244년 소르뒤르 카칼리 시그흐바츠손과 젊은 콜베인의 군대가 아이슬란드 북부 휘나플로이 만에서 해전을 벌였다. 이는 아이슬란드 역사에 기록된 유일한 의미 있는 해전이다. 콜베인의 더 큰 선단이 우세했지만 권력 투쟁은 계속되었다.",
+    "zh": "1244年，索尔聚尔·卡卡利·西格瓦松与小科尔拜恩的军队在冰岛北部的胡纳湾展开海战。这是冰岛历史上记载的唯一一场重要海战。科尔拜恩规模更大的船队占了上风，但权力斗争仍在继续。",
+    "ja": "1244年、ソルズル・カカリ・シグフヴァツソンと若きコルベインの軍勢がアイスランド北部のフーナフローイ湾で海戦を行った。アイスランド史に記録された唯一の本格的な海戦である。コルベインの大きな船団が優勢だったが、権力闘争は続いた。"
+   }
+  },
+  {
+   "year": 1246,
+   "qid": "Q2888805",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Haugsnes",
+    "ko": "하우그스네스 전투",
+    "zh": "豪格斯内斯战役",
+    "ja": "ハウグスネスの戦い"
+   },
+   "description": {
+    "en": "In April 1246 Þórður kakali defeated Brandur Kolbeinsson at Haugsnes in Skagafjörður, in the bloodiest battle in Iceland's history, with around a hundred men killed. Þórður became the most powerful man in Iceland. He later went to Norway, where the king used rival Icelandic chieftains to extend his control.",
+    "ko": "1246년 4월 소르뒤르 카칼리는 스카가피외르뒤르의 하우그스네스에서 브란뒤르 콜베인손을 격파했다. 약 100명이 죽은 이 전투는 아이슬란드 역사상 가장 피비린내 나는 전투였다. 소르뒤르는 아이슬란드 최고의 실력자가 되었으나, 이후 노르웨이로 갔고 국왕은 경쟁하는 아이슬란드 족장들을 이용해 지배를 넓혀 갔다.",
+    "zh": "1246年4月，索尔聚尔·卡卡利在斯卡加峡湾的豪格斯内斯击败布兰杜尔·科尔拜恩松，约百人阵亡，这是冰岛历史上最血腥的战役。索尔聚尔由此成为冰岛最有权势的人。他后来前往挪威，挪威国王则利用彼此竞争的冰岛首领不断扩大控制。",
+    "ja": "1246年4月、ソルズル・カカリはスカーガフィヨルズルのハウグスネスでブランドゥル・コルベインソンを破った。約100人が死んだアイスランド史上最も血なまぐさい戦いである。ソルズルはアイスランド随一の実力者となったが、のちにノルウェーへ赴き、王は互いに争うアイスランドの首長たちを利用して支配を広げた。"
+   }
+  },
+  {
+   "year": 1262,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "The Old Covenant: union with Norway",
+    "ko": "'옛 서약'으로 노르웨이 왕권에 복속",
+    "zh": "《旧盟约》：归属挪威王权",
+    "ja": "「古い盟約」によるノルウェー王権への帰属"
+   },
+   "description": {
+    "en": "After decades of internal strife in the Sturlung Age, Icelandic chieftains and farmers swore allegiance to King Haakon IV of Norway under the Old Covenant in 1262–64. In return the king promised peace, Icelandic law and regular shipping to the island. The agreement ended the Commonwealth and began more than six centuries of foreign rule.",
+    "ko": "스투를룽 시대의 오랜 내분 끝에 아이슬란드의 족장과 농민들은 1262~64년 '옛 서약'에 따라 노르웨이 왕 호콘 4세에게 충성을 맹세했다. 그 대가로 왕은 평화와 아이슬란드 법의 유지, 섬으로의 정기 선박 운항을 약속했다. 이 협정으로 자유국은 끝나고 6세기가 넘는 외국 지배가 시작되었다.",
+    "zh": "在斯图尔隆时代长达数十年的内斗之后，冰岛首领和农民于1262至1264年依据《旧盟约》宣誓效忠挪威国王哈康四世。作为回报，国王承诺维持和平、保留冰岛法律并保证定期船只通航。该协议终结了自由邦，开启了六个多世纪的外来统治。",
+    "ja": "ストゥルルング時代の長い内紛の末、アイスランドの首長と農民は1262～64年に「古い盟約」によりノルウェー王ホーコン4世に忠誠を誓った。その見返りに王は平和、アイスランド法の維持、島への定期的な船の往来を約束した。この協定で自由国は終わり、6世紀以上にわたる外国支配が始まった。"
+   }
+  },
+  {
+   "year": 1281,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Jónsbók law code adopted",
+    "ko": "욘스보크 법전 채택",
+    "zh": "通过《约恩法典》",
+    "ja": "ヨーンスボーク法典の採択"
+   },
+   "description": {
+    "en": "In 1281 the Althing accepted Jónsbók, a new law code sent by the Norwegian king and named after the lawman Jón Einarsson. It replaced the short-lived Járnsíða code and remnants of Commonwealth law. Parts of Jónsbók remained in force in Iceland for centuries.",
+    "ko": "1281년 알싱은 노르웨이 왕이 보내고 법관 욘 에이나르손의 이름을 딴 새 법전 '욘스보크'를 받아들였다. 이 법전은 단명한 '야른시다' 법전과 자유국 법의 잔재를 대체했다. 욘스보크의 일부는 수 세기 동안 아이슬란드에서 효력을 유지했다.",
+    "zh": "1281年，阿尔庭接受了由挪威国王颁布、以法官约恩·埃纳尔松命名的新法典《约恩法典》。它取代了短命的《铁边法》和自由邦法律的残余。《约恩法典》的部分条款在冰岛沿用了数百年。",
+    "ja": "1281年、アルシングはノルウェー王が送り、法官ヨーン・エイナルソンの名を冠した新法典『ヨーンスボーク』を受け入れた。それは短命に終わった『ヤールンシーザ』と自由国法の残滓に取って代わった。ヨーンスボークの一部は何世紀にもわたりアイスランドで効力を保った。"
+   }
+  },
+  {
+   "year": 1362,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Öræfajökull eruption",
+    "ko": "외래파이외퀴틀 분화",
+    "zh": "厄赖法冰川火山喷发",
+    "ja": "エーライヴァヨークトル噴火"
+   },
+   "description": {
+    "en": "In 1362 the ice-capped volcano Öræfajökull produced the largest explosive eruption in Iceland since the settlement. Ash and glacial floods devastated the prosperous district of Litla-Hérað in the southeast, which was abandoned and later renamed Öræfi, 'wasteland'. It is one of the most destructive natural disasters in Iceland's history.",
+    "ko": "1362년 빙하로 덮인 외래파이외퀴틀 화산이 정착 이후 아이슬란드 최대의 폭발적 분화를 일으켰다. 화산재와 빙하 홍수가 남동부의 번성하던 리틀라헤라드 지역을 초토화했고, 이 지역은 버려진 뒤 '황무지'를 뜻하는 외래피로 불리게 되었다. 아이슬란드 역사상 가장 파괴적인 자연재해 가운데 하나이다.",
+    "zh": "1362年，冰川覆盖的厄赖法冰川火山发生了定居以来冰岛最大规模的爆炸性喷发。火山灰和冰川洪水摧毁了东南部繁荣的利特拉赫拉兹地区，该地被遗弃，后改称意为“荒野”的厄赖菲。这是冰岛历史上最具破坏性的自然灾害之一。",
+    "ja": "1362年、氷河に覆われたエーライヴァヨークトル火山が植民以来アイスランド最大の爆発的噴火を起こした。火山灰と氷河洪水が南東部の豊かなリトラ・ヘーラズ地方を壊滅させ、放棄されたその地はのちに「荒れ地」を意味するエーライヴィと呼ばれた。アイスランド史上最も破壊的な自然災害の一つである。"
+   }
+  },
+  {
+   "year": 1380,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Iceland comes under the Danish crown",
+    "ko": "덴마크 왕권 아래로",
+    "zh": "冰岛归于丹麦王权之下",
+    "ja": "デンマーク王権の下へ"
+   },
+   "description": {
+    "en": "In 1380 Olaf, already king of Denmark, inherited the Norwegian throne, uniting the two crowns. Iceland, as a Norwegian dependency, thereby passed under rulers based in Denmark. This connection would last, in changing forms, for more than five centuries.",
+    "ko": "1380년 이미 덴마크 왕이던 올라프가 노르웨이 왕위를 물려받아 두 왕위가 하나로 합쳐졌다. 노르웨이의 속령이던 아이슬란드는 이로써 덴마크에 근거를 둔 군주의 지배를 받게 되었다. 이 관계는 형태를 바꾸어 가며 5세기 이상 이어졌다.",
+    "zh": "1380年，已是丹麦国王的奥拉夫继承挪威王位，两国王位由此合一。作为挪威属地的冰岛随之归于以丹麦为中心的君主统治之下。这种关系以不断变化的形式延续了五个多世纪。",
+    "ja": "1380年、すでにデンマーク王であったオーラヴがノルウェー王位を継承し、二つの王位が結合した。ノルウェーの属領だったアイスランドはこれによりデンマークを拠点とする君主の支配下に入った。この関係は形を変えながら5世紀以上続いた。"
+   }
+  },
+  {
+   "year": 1402,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "The Plague reaches Iceland",
+    "ko": "흑사병의 아이슬란드 상륙",
+    "zh": "大瘟疫传入冰岛",
+    "ja": "ペストのアイスランド到来"
+   },
+   "description": {
+    "en": "Iceland escaped the Black Death of the 1340s, but in 1402 an epidemic, known in Iceland as the 'Great Plague', arrived by ship and raged until 1404. Contemporary annals describe enormous mortality, and historians estimate that a large share of the population died. A second plague struck in 1494–95.",
+    "ko": "아이슬란드는 1340년대의 흑사병은 피했지만, 1402년 '대역병'으로 불린 전염병이 배를 타고 들어와 1404년까지 맹위를 떨쳤다. 당대의 연대기는 엄청난 사망자를 기록하고 있으며, 역사가들은 인구의 상당 부분이 목숨을 잃었다고 추정한다. 1494~95년에 두 번째 역병이 닥쳤다.",
+    "zh": "冰岛躲过了14世纪40年代的黑死病，但1402年被冰岛人称为“大瘟疫”的疫病随船传入，一直肆虐到1404年。当时的编年史记载了惊人的死亡人数，史学家估计相当大比例的人口因此丧生。1494至1495年第二次瘟疫来袭。",
+    "ja": "アイスランドは1340年代の黒死病を免れたが、1402年に「大疫病」と呼ばれる疫病が船によってもたらされ、1404年まで猛威を振るった。同時代の年代記は膨大な死者を記録しており、歴史家は人口の大きな割合が失われたと推定している。1494～95年には二度目の疫病が島を襲った。"
+   }
+  },
+  {
+   "year": 1412,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "The English Century begins",
+    "ko": "'영국의 세기' 시작",
+    "zh": "“英国世纪”开始",
+    "ja": "「イングランドの世紀」の始まり"
+   },
+   "description": {
+    "en": "In the early 15th century, with the first English fishing vessel recorded off Iceland in 1412, English fishermen and merchants began coming in large numbers for the rich cod grounds. They traded directly with Icelanders, often defying the Danish crown's restrictions, and clashes sometimes followed. From the late 15th century German Hanseatic merchants increasingly competed with them.",
+    "ko": "15세기 초, 1412년 아이슬란드 근해에서 처음으로 영국 어선이 기록된 이후 영국 어부와 상인들이 풍부한 대구 어장을 찾아 대거 몰려왔다. 이들은 종종 덴마크 왕권의 제한을 무시하고 아이슬란드인과 직접 교역했으며, 때로는 충돌도 벌어졌다. 15세기 후반부터는 독일 한자 상인들이 점점 이들과 경쟁했다.",
+    "zh": "15世纪初，1412年冰岛近海首次记载有英格兰渔船出现，此后英格兰渔民和商人为丰富的鳕鱼渔场大批涌来。他们常常无视丹麦王室的限制，直接与冰岛人交易，有时还爆发冲突。15世纪后期起，德意志汉萨商人与他们的竞争日益激烈。",
+    "ja": "15世紀初め、1412年にアイスランド沖で初めてイングランドの漁船が記録されて以来、イングランドの漁民と商人が豊かなタラ漁場を求めて大挙して訪れるようになった。彼らはしばしばデンマーク王権の制限を無視してアイスランド人と直接交易し、ときに衝突も起きた。15世紀後半からはドイツのハンザ商人がこれに次第に対抗した。"
+   }
+  },
+  {
+   "year": 1540,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "New Testament in Icelandic",
+    "ko": "아이슬란드어 신약성경",
+    "zh": "冰岛语《新约》",
+    "ja": "アイスランド語の新約聖書"
+   },
+   "description": {
+    "en": "In 1540 Oddur Gottskálksson's Icelandic translation of the New Testament was printed in Roskilde, Denmark; it is the oldest surviving printed book in Icelandic. Oddur, a supporter of Lutheran teaching, is said to have worked on it secretly at Skálholt. The translation helped shape the written language during the Reformation.",
+    "ko": "1540년 오두르 고트스칼크손이 아이슬란드어로 번역한 신약성경이 덴마크 로스킬레에서 인쇄되었으며, 이는 현존하는 가장 오래된 아이슬란드어 인쇄본이다. 루터파 가르침을 지지한 오두르는 스칼홀트에서 몰래 번역 작업을 했다고 전해진다. 이 번역은 종교개혁기 문어의 형성에 기여했다.",
+    "zh": "1540年，奥杜尔·戈特斯卡尔克松翻译的冰岛语《新约》在丹麦罗斯基勒印行，这是现存最古老的冰岛语印刷书籍。奥杜尔支持路德宗教义，据说他在斯卡尔霍特秘密完成了翻译。这部译本在宗教改革时期塑造了冰岛书面语。",
+    "ja": "1540年、オッドゥル・ゴットスカウルクソンによるアイスランド語訳新約聖書がデンマークのロスキレで印刷された。現存する最古のアイスランド語印刷本である。ルター派の教えを支持したオッドゥルは、スカールホルトでひそかに翻訳を進めたと伝えられる。この翻訳は宗教改革期の書き言葉の形成に寄与した。"
+   }
+  },
+  {
+   "year": 1550,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Execution of Jón Arason and the Reformation",
+    "ko": "욘 아라손 처형과 종교개혁",
+    "zh": "约恩·阿拉松被处决与宗教改革",
+    "ja": "ヨーン・アラソンの処刑と宗教改革"
+   },
+   "description": {
+    "en": "Bishop Jón Arason of Hólar, the last Catholic bishop in Iceland, led resistance to the Lutheran Reformation imposed by the Danish king Christian III. Captured in 1550, he was beheaded at Skálholt together with two of his sons on 7 November without trial. His death completed the Reformation, and Church lands passed largely to the crown, strengthening Danish control.",
+    "ko": "아이슬란드 최후의 가톨릭 주교였던 홀라르의 욘 아라손은 덴마크 왕 크리스티안 3세가 강요한 루터파 종교개혁에 맞섰다. 1550년 체포된 그는 11월 7일 재판도 없이 두 아들과 함께 스칼홀트에서 참수되었다. 그의 죽음으로 종교개혁이 완결되었고, 교회 토지는 대부분 왕실로 넘어가 덴마크의 지배가 강화되었다.",
+    "zh": "霍拉尔主教约恩·阿拉松是冰岛最后一位天主教主教，他领导了反对丹麦国王克里斯蒂安三世强制推行路德宗宗教改革的抵抗。1550年他被捕，11月7日未经审判便与两个儿子一同在斯卡尔霍特被斩首。他的死使宗教改革得以完成，教会土地大多归入王室，丹麦的控制随之加强。",
+    "ja": "アイスランド最後のカトリック司教であったホーラルのヨーン・アラソンは、デンマーク王クリスチャン3世が押しつけたルター派の宗教改革に抵抗した。1550年に捕らえられ、11月7日に裁判もなく二人の息子とともにスカールホルトで斬首された。彼の死で宗教改革は完了し、教会領の多くは王領となってデンマークの支配が強まった。"
+   }
+  },
+  {
+   "year": 1584,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "The Guðbrandur Bible is printed",
+    "ko": "구드브란뒤르 성경 간행",
+    "zh": "《古兹布兰杜尔圣经》出版",
+    "ja": "グズブランドゥル聖書の刊行"
+   },
+   "description": {
+    "en": "In 1584 Bishop Guðbrandur Þorláksson printed the first complete Bible in Icelandic at Hólar. Produced in about 500 copies with woodcut illustrations, it became the foundation of written Icelandic for centuries. Historians often credit it with helping Icelandic survive as a literary language under Danish rule.",
+    "ko": "1584년 구드브란뒤르 소르라욱손 주교는 홀라르에서 최초의 아이슬란드어 완역 성경을 인쇄했다. 목판 삽화를 곁들여 약 500부가 제작된 이 성경은 수 세기 동안 아이슬란드 문어의 토대가 되었다. 역사가들은 이 성경이 덴마크 지배 아래에서도 아이슬란드어가 문학 언어로 살아남는 데 도움을 주었다고 평가한다.",
+    "zh": "1584年，古兹布兰杜尔·索尔拉克松主教在霍拉尔印行了第一部完整的冰岛语《圣经》。这部附有木刻插图的圣经印制约500部，数百年来一直是冰岛书面语的基础。史学家常认为它帮助冰岛语在丹麦统治下作为文学语言得以延续。",
+    "ja": "1584年、グズブランドゥル・ソルラウクソン司教はホーラルで初めてのアイスランド語完訳聖書を印刷した。木版画の挿絵を添えて約500部が作られ、何世紀にもわたりアイスランド語の書き言葉の基礎となった。歴史家はしばしば、これがデンマーク支配下でアイスランド語が文学言語として生き残るのを助けたと評価する。"
+   }
+  },
+  {
+   "year": 1602,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "The Danish trade monopoly",
+    "ko": "덴마크 무역 독점",
+    "zh": "丹麦贸易垄断",
+    "ja": "デンマークの交易独占"
+   },
+   "description": {
+    "en": "In 1602 King Christian IV granted the merchants of Copenhagen, Helsingør and Malmö exclusive rights to trade with Iceland. The monopoly, later run by licensed companies, barred Icelanders from trading with foreigners and often left them with poor goods at high prices. It lasted until 1787 and is remembered as a major cause of Iceland's long impoverishment.",
+    "ko": "1602년 크리스티안 4세는 코펜하겐, 헬싱외르, 말뫼의 상인들에게 아이슬란드와의 독점 교역권을 부여했다. 이후 허가 회사들이 운영한 이 독점은 아이슬란드인이 외국인과 교역하는 것을 금지했고, 종종 질 낮은 물건을 비싼 값에 떠안게 했다. 독점은 1787년까지 이어졌으며 아이슬란드가 오랫동안 가난했던 주요 원인으로 기억된다.",
+    "zh": "1602年，克里斯蒂安四世授予哥本哈根、赫尔辛格和马尔默的商人与冰岛贸易的专营权。这一后来由特许公司经营的垄断禁止冰岛人与外国人交易，常常使他们以高价换得劣质商品。垄断持续到1787年，被视为冰岛长期贫困的重要原因。",
+    "ja": "1602年、クリスチャン4世はコペンハーゲン、ヘルシンゲル、マルメの商人にアイスランドとの独占交易権を与えた。のちに特許会社が運営したこの独占は、アイスランド人が外国人と交易することを禁じ、しばしば粗悪な品を高値で押しつけた。独占は1787年まで続き、アイスランドの長い貧困の大きな原因として記憶されている。"
+   }
+  },
+  {
+   "year": 1615,
+   "qid": "Q3480202",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Slaying of the Basques",
+    "ko": "바스크인 학살",
+    "zh": "屠杀巴斯克人事件",
+    "ja": "バスク人殺害事件"
+   },
+   "description": {
+    "en": "In 1615 three Basque whaling ships were wrecked in a storm in the Westfjords. Local officials led by the district magistrate Ari Magnússon declared the stranded sailors outlaws, and about thirty-one of them were killed in several attacks. It is the only recorded mass killing in Iceland's history; the outlaw decree was formally repealed in 2015.",
+    "ko": "1615년 바스크 포경선 세 척이 웨스트피오르에서 폭풍으로 난파했다. 지방 행정관 아리 마그누손이 이끄는 현지 관리들은 고립된 선원들을 무법자로 선포했고, 여러 차례의 공격으로 그중 약 31명이 살해되었다. 이는 아이슬란드 역사상 유일하게 기록된 집단 학살이며, 이 무법자 선고는 2015년에 공식 폐지되었다.",
+    "zh": "1615年，三艘巴斯克捕鲸船在西峡湾遭风暴失事。以地方行政长官阿里·马格努松为首的当地官员宣布滞留的水手为法外之徒，约三十一人在数次袭击中被杀。这是冰岛历史上唯一有记载的集体屠杀事件；该法外宣告于2015年被正式废止。",
+    "ja": "1615年、バスクの捕鯨船3隻が西部フィヨルド地方で嵐により難破した。地方長官アリ・マグヌソンら現地の役人は取り残された船員を法外者と宣言し、数度の襲撃で約31人が殺害された。アイスランド史上唯一記録された大量殺害事件であり、この法外宣告は2015年に正式に撤回された。"
+   }
+  },
+  {
+   "year": 1627,
+   "qid": "Q2149737",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Turkish Abductions",
+    "ko": "튀르크인의 납치",
+    "zh": "“土耳其人劫掠”事件",
+    "ja": "「トルコ人の拉致」"
+   },
+   "description": {
+    "en": "In the summer of 1627 corsairs from Algiers and Salé raided Grindavík, the Eastfjords and the Westman Islands. Several dozen Icelanders were killed and roughly 400 were carried off to be sold as slaves in North Africa. Only a few dozen were later ransomed and returned; the account of the pastor Ólafur Egilsson is a famous source for the raids.",
+    "ko": "1627년 여름 알제와 살레의 해적들이 그린다비크, 동부 피오르, 베스트만나에이야르 제도를 습격했다. 수십 명의 아이슬란드인이 살해되고 약 400명이 북아프리카에 노예로 팔려 갔다. 훗날 몸값을 치르고 돌아온 사람은 수십 명에 불과했으며, 목사 올라퓌르 에길손의 기록은 이 습격에 관한 유명한 사료이다.",
+    "zh": "1627年夏，来自阿尔及尔和萨累的海盗袭击了格林达维克、东峡湾和韦斯特曼纳群岛。数十名冰岛人被杀，约400人被掳往北非卖为奴隶。后来仅有几十人被赎回返乡；牧师奥拉弗尔·埃吉尔松的记述是有关这次劫掠的著名史料。",
+    "ja": "1627年夏、アルジェとサレの海賊がグリンダヴィーク、東部フィヨルド、ヴェストマン諸島を襲撃した。数十人のアイスランド人が殺され、約400人が北アフリカへ連れ去られて奴隷として売られた。のちに身代金で帰還できたのは数十人にすぎず、牧師オウラヴル・エギルソンの記録はこの襲撃に関する有名な史料である。"
+   }
+  },
+  {
+   "year": 1662,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Oath of allegiance at Kópavogur",
+    "ko": "코파보귀르 충성 서약",
+    "zh": "科帕沃于尔效忠宣誓",
+    "ja": "コーパヴォグルの忠誠宣誓"
+   },
+   "description": {
+    "en": "In 1662 Icelandic leaders gathered at Kópavogur were pressed to swear allegiance to King Frederick III as hereditary absolute monarch, in the presence of Danish soldiers. According to tradition, the elderly lawman Árni Oddsson signed in tears. The Althing lost its remaining legislative role, becoming essentially a court.",
+    "ko": "1662년 코파보귀르에 모인 아이슬란드 지도자들은 덴마크 병사들이 지켜보는 가운데 프레데리크 3세를 세습 절대 군주로 인정하는 충성 서약을 강요받았다. 전승에 따르면 노년의 법관 아르니 오드손은 눈물을 흘리며 서명했다. 알싱은 남아 있던 입법 기능을 잃고 사실상 법정이 되었다.",
+    "zh": "1662年，聚集在科帕沃于尔的冰岛领袖们在丹麦士兵面前被迫宣誓效忠世袭专制君主弗雷德里克三世。据传，年迈的法官阿尔尼·奥兹松含泪签字。阿尔庭失去了残存的立法职能，基本上沦为一个法庭。",
+    "ja": "1662年、コーパヴォグルに集められたアイスランドの指導者たちは、デンマーク兵の立ち会いのもとで国王フレデリク3世を世襲の絶対君主と認める忠誠の宣誓を迫られた。伝承によれば、老齢の法官アウルニ・オッドソンは涙ながらに署名したという。アルシングは残っていた立法機能を失い、事実上の法廷となった。"
+   }
+  },
+  {
+   "year": 1703,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Iceland's first national census",
+    "ko": "아이슬란드 최초의 인구 조사",
+    "zh": "冰岛首次全国人口普查",
+    "ja": "アイスランド初の国勢調査"
+   },
+   "description": {
+    "en": "In 1703 Árni Magnússon and Páll Vídalín carried out a census recording every inhabitant of Iceland by name, age and status, counting about 50,000 people. It is regarded as one of the earliest complete national censuses in the world. Árni Magnússon is also famous for collecting the medieval saga manuscripts that bear his name.",
+    "ko": "1703년 아르니 마그누손과 파들 비달린은 아이슬란드의 모든 주민을 이름·나이·신분별로 기록하는 인구 조사를 실시했고, 약 5만 명을 집계했다. 이는 세계에서 가장 이른 완전한 전국 인구 조사 가운데 하나로 평가된다. 아르니 마그누손은 자신의 이름이 붙은 중세 사가 필사본 수집으로도 유명하다.",
+    "zh": "1703年，阿尔尼·马格努松和保尔·维达林进行了一次人口普查，按姓名、年龄和身份登记了冰岛的每一位居民，统计人口约5万。这被认为是世界上最早的完整全国人口普查之一。阿尔尼·马格努松还以收集冠有其名的中世纪萨迦手稿而闻名。",
+    "ja": "1703年、アウルニ・マグヌソンとパウトル・ヴィーダリーンは、アイスランドの全住民を氏名・年齢・身分ごとに記録する人口調査を行い、約5万人を数えた。世界最初期の完全な全国人口調査の一つとされる。アウルニ・マグヌソンは、自身の名を冠した中世サガ写本の収集でも知られる。"
+   }
+  },
+  {
+   "year": 1707,
+   "qid": "Q16427723",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Great smallpox epidemic",
+    "ko": "천연두 대유행",
+    "zh": "天花大流行",
+    "ja": "天然痘の大流行"
+   },
+   "description": {
+    "en": "In 1707 smallpox arrived in Iceland and spread across the country until 1709. Because the disease had been absent for decades, most people lacked immunity, and it killed a large share of the population, commonly estimated at around a quarter. The disaster came only a few years after the 1703 census had counted about 50,000 inhabitants.",
+    "ko": "1707년 천연두가 아이슬란드에 들어와 1709년까지 전국으로 퍼졌다. 수십 년간 이 병이 없었기 때문에 대부분의 사람들이 면역이 없었고, 인구의 상당 부분, 흔히 약 4분의 1로 추정되는 사람들이 목숨을 잃었다. 이 재앙은 1703년 인구 조사에서 주민 약 5만 명이 집계된 지 불과 몇 년 뒤에 일어났다.",
+    "zh": "1707年天花传入冰岛，并在全国蔓延至1709年。由于该病已数十年未曾出现，大多数人缺乏免疫力，造成大量人口死亡，通常估计约占总人口的四分之一。这场灾难发生在1703年人口普查统计出约5万居民之后仅仅几年。",
+    "ja": "1707年に天然痘がアイスランドに入り、1709年まで全土に広がった。数十年にわたりこの病気がなかったため大半の人々に免疫がなく、人口の大きな割合、一般に約4分の1と推定される人々が亡くなった。この惨禍は1703年の人口調査で約5万人が数えられてからわずか数年後のことだった。"
+   }
+  },
+  {
+   "year": 1751,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Skúli Magnússon and the Innréttingar",
+    "ko": "스퀼리 마그누손과 '인레팅가르'",
+    "zh": "斯库利·马格努松与“新式工场”",
+    "ja": "スクーリ・マグヌソンと「インレッティンガル」"
+   },
+   "description": {
+    "en": "In 1751 Skúli Magnússon, the first Icelander to hold the office of treasurer (landfógeti), founded the Innréttingar, a company backed by the Danish crown to modernise Icelandic industry. Its wool workshops were set up in the small settlement of Reykjavík, which began to grow into a town. Skúli is often called the 'father of Reykjavík'.",
+    "ko": "1751년 아이슬란드인 최초로 재무관(란드푀게티)에 오른 스퀼리 마그누손은 덴마크 왕실의 후원을 받아 아이슬란드 산업의 근대화를 꾀하는 회사 '인레팅가르'를 세웠다. 그 양모 공방들이 작은 정착지 레이캬비크에 들어서면서 이곳은 도시로 성장하기 시작했다. 스퀼리는 흔히 '레이캬비크의 아버지'로 불린다.",
+    "zh": "1751年，第一位担任财政官（兰德弗格蒂）的冰岛人斯库利·马格努松在丹麦王室支持下创办了旨在实现冰岛工业现代化的公司“新式工场”。其羊毛作坊设在小小的雷克雅未克定居点，使之开始发展为城镇。斯库利常被称为“雷克雅未克之父”。",
+    "ja": "1751年、アイスランド人として初めて財務官（ランドフォーゲティ）となったスクーリ・マグヌソンは、デンマーク王室の支援を受けてアイスランド産業の近代化を目指す会社「インレッティンガル」を設立した。その羊毛工房が小さな集落レイキャヴィークに設けられ、町として成長し始めた。スクーリはしばしば「レイキャヴィークの父」と呼ばれる。"
+   }
+  },
+  {
+   "year": 1783,
+   "qid": null,
+   "importance": 1,
+   "category": "disaster",
+   "title": {
+    "en": "The Laki eruption and the Mist Hardships",
+    "ko": "라키 화산 분화와 '안개 재난'",
+    "zh": "拉基火山喷发与“迷雾灾荒”",
+    "ja": "ラーキ火山の噴火と「霧の飢饉」"
+   },
+   "description": {
+    "en": "From June 1783 to February 1784 the Laki fissure poured out vast lava flows and poisonous gases. Fluorine contamination killed most of Iceland's livestock, and the resulting famine, the 'Móðuharðindin' (Mist Hardships), killed roughly a fifth of the population. The haze spread across Europe and is linked to unusual weather and excess deaths there.",
+    "ko": "1783년 6월부터 1784년 2월까지 라키 열하는 막대한 용암과 유독 가스를 쏟아냈다. 불소 오염으로 아이슬란드 가축 대부분이 죽었고, 뒤이은 기근인 '모뒤하르딘딘'(안개 재난)으로 인구의 약 5분의 1이 목숨을 잃었다. 연무는 유럽 전역으로 퍼져 그곳의 이상 기후와 사망 증가와도 연결된다.",
+    "zh": "1783年6月至1784年2月，拉基火山裂隙喷出大量熔岩和有毒气体。氟污染导致冰岛大部分牲畜死亡，随之而来的饥荒“迷雾灾荒”夺去了约五分之一人口的生命。火山雾霾扩散至整个欧洲，与当地的异常天气和死亡人数增加有关。",
+    "ja": "1783年6月から1784年2月にかけて、ラーキ割れ目は大量の溶岩と有毒ガスを噴出した。フッ素汚染でアイスランドの家畜の大半が死に、続く飢饉「モーズハルジンディン（霧の飢饉）」で人口のおよそ5分の1が亡くなった。煙霧はヨーロッパ全域に広がり、各地の異常気象や死者の増加とも結びつけられている。"
+   }
+  },
+  {
+   "year": 1786,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Reykjavík receives its town charter",
+    "ko": "레이캬비크의 도시 특허 획득",
+    "zh": "雷克雅未克获得城镇特许状",
+    "ja": "レイキャヴィークの都市特許"
+   },
+   "description": {
+    "en": "On 18 August 1786 Reykjavík and five other places were granted municipal trading charters, as the Danish government prepared to end the trade monopoly. The monopoly was replaced in 1787 by free trade for all subjects of the Danish king. Reykjavík, then home to only a few hundred people, gradually became the island's administrative and commercial centre.",
+    "ko": "1786년 8월 18일, 덴마크 정부가 무역 독점 폐지를 준비하면서 레이캬비크와 다른 다섯 곳이 상업 도시 특허를 받았다. 독점은 1787년 덴마크 왕의 모든 신민에게 허용된 자유 교역으로 대체되었다. 당시 주민이 수백 명에 불과했던 레이캬비크는 점차 섬의 행정과 상업 중심지가 되었다.",
+    "zh": "1786年8月18日，随着丹麦政府准备结束贸易垄断，雷克雅未克和另外五地获得了商业城镇特许状。1787年，垄断被向丹麦国王所有臣民开放的自由贸易所取代。当时仅有几百人口的雷克雅未克逐渐成为全岛的行政和商业中心。",
+    "ja": "1786年8月18日、デンマーク政府が交易独占の廃止を準備するなか、レイキャヴィークと他の5か所が商業都市の特許を与えられた。独占は1787年、デンマーク王の全臣民に認められた自由交易に置き換えられた。当時人口わずか数百人だったレイキャヴィークは、次第に島の行政と商業の中心となった。"
+   }
+  },
+  {
+   "year": 1800,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The Althing is abolished",
+    "ko": "알싱 폐지",
+    "zh": "阿尔庭被废除",
+    "ja": "アルシングの廃止"
+   },
+   "description": {
+    "en": "By a royal decree of 1800 the Althing, which had met at Þingvellir for some 870 years and had been reduced to a court, was abolished. It was replaced by a High Court in Reykjavík. Its loss later became a rallying point for the Icelandic national movement.",
+    "ko": "1800년 왕령에 따라 약 870년간 싱벨리르에서 열려 왔으나 법정으로 축소되어 있던 알싱이 폐지되었다. 그 자리는 레이캬비크의 고등법원이 대신했다. 알싱의 상실은 훗날 아이슬란드 민족 운동의 구심점이 되었다.",
+    "zh": "根据1800年的一道王室敕令，在辛格韦德利召开了约870年、已沦为法庭的阿尔庭被废除，由雷克雅未克的高等法院取代。阿尔庭的消失后来成为冰岛民族运动的号召点。",
+    "ja": "1800年の勅令により、約870年にわたりシンクヴェトリルで開かれ、法廷に縮小されていたアルシングは廃止され、レイキャヴィークの高等法院に置き換えられた。その喪失はのちにアイスランド民族運動の結集点となった。"
+   }
+  },
+  {
+   "year": 1809,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Jørgen Jørgensen's 'revolution'",
+    "ko": "외르겐 외르겐센의 '혁명'",
+    "zh": "约尔根·约尔根森的“革命”",
+    "ja": "ヨルゲン・ヨルゲンセンの「革命」"
+   },
+   "description": {
+    "en": "During the Napoleonic Wars, in the summer of 1809 the Danish adventurer Jørgen Jørgensen, arriving with a British merchant ship, arrested the Danish governor and proclaimed Iceland independent with himself as 'Protector'. His rule lasted about two months before a British naval officer restored the previous authorities. The episode is remembered as a curious footnote in Iceland's history.",
+    "ko": "나폴레옹 전쟁 중이던 1809년 여름, 영국 상선을 타고 온 덴마크인 모험가 외르겐 외르겐센은 덴마크 총독을 체포하고 자신을 '보호자'로 하여 아이슬란드의 독립을 선포했다. 그의 통치는 약 두 달 만에 영국 해군 장교가 이전 당국을 복권시키면서 끝났다. 이 사건은 아이슬란드 역사의 기묘한 일화로 기억된다.",
+    "zh": "拿破仑战争期间的1809年夏，丹麦冒险家约尔根·约尔根森随一艘英国商船到来，逮捕丹麦总督，宣布冰岛独立并自任“护国者”。他的统治仅维持约两个月，便由一名英国海军军官恢复了原有当局。此事作为冰岛历史上的一段奇闻被人们记住。",
+    "ja": "ナポレオン戦争中の1809年夏、イギリスの商船で来航したデンマーク人冒険家ヨルゲン・ヨルゲンセンは、デンマーク人総督を逮捕し、自らを「護国者」としてアイスランドの独立を宣言した。その支配は約2か月で終わり、イギリス海軍士官が以前の当局を復帰させた。この出来事はアイスランド史の奇妙な挿話として記憶されている。"
+   }
+  },
+  {
+   "year": 1845,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Althing is restored",
+    "ko": "알싱 부활",
+    "zh": "阿尔庭恢复",
+    "ja": "アルシングの復活"
+   },
+   "description": {
+    "en": "Following a royal decree of 1843, the Althing met again in 1845, now in Reykjavík, as an elected advisory assembly. Its revival was a success for the national movement led by Jón Sigurðsson, who served as a member and later as its president. The Althing became the main forum in the struggle for self-government.",
+    "ko": "1843년 왕령에 따라 알싱은 1845년 레이캬비크에서 선출된 자문 의회로 다시 열렸다. 그 부활은 의원이자 훗날 의장을 지낸 욘 시귀르드손이 이끈 민족 운동의 성과였다. 알싱은 자치 투쟁의 주요 무대가 되었다.",
+    "zh": "根据1843年的王室敕令，阿尔庭于1845年在雷克雅未克重新召开，成为经选举产生的咨询议会。它的恢复是约恩·西居尔兹松领导的民族运动的一项成果，他本人曾任议员，后来担任议长。阿尔庭成为争取自治斗争的主要舞台。",
+    "ja": "1843年の勅令を受けて、アルシングは1845年に今度はレイキャヴィークで、選挙による諮問議会として再び開かれた。その復活は、議員を務めのちに議長となったヨーン・シグルズソン率いる民族運動の成果だった。アルシングは自治を求める闘いの主要な舞台となった。"
+   }
+  },
+  {
+   "year": 1851,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The National Assembly: 'We all protest!'",
+    "ko": "국민의회: '우리 모두 항의한다!'",
+    "zh": "国民大会：“我们全体抗议！”",
+    "ja": "国民会議「我々は皆抗議する」"
+   },
+   "description": {
+    "en": "In 1851 a National Assembly met in Reykjavík to discuss Iceland's constitutional position after Denmark adopted a constitutional monarchy. When the Danish governor dissolved the assembly over a bill that would have integrated Iceland into Denmark, Jón Sigurðsson protested, and the delegates rose declaring 'We all protest!'. The episode became a defining moment of Icelandic nationalism.",
+    "ko": "1851년 덴마크가 입헌 군주제를 채택한 뒤 아이슬란드의 헌법적 지위를 논의하기 위해 레이캬비크에서 국민의회가 열렸다. 아이슬란드를 덴마크에 통합하려는 법안을 둘러싸고 덴마크 총독이 의회를 해산하자 욘 시귀르드손이 항의했고, 대표들은 일어나 '우리 모두 항의한다!'고 외쳤다. 이 장면은 아이슬란드 민족주의의 상징적 순간이 되었다.",
+    "zh": "1851年，在丹麦实行君主立宪后，冰岛在雷克雅未克召开国民大会，讨论冰岛的宪政地位。由于一项要将冰岛并入丹麦的法案，丹麦总督解散了大会，约恩·西居尔兹松当场抗议，代表们起立高呼“我们全体抗议！”。这一幕成为冰岛民族主义的标志性时刻。",
+    "ja": "1851年、デンマークが立憲君主制を採用したのを受け、アイスランドの憲法上の地位を議論するためレイキャヴィークで国民会議が開かれた。アイスランドをデンマークに統合する法案をめぐってデンマーク人総督が会議を解散すると、ヨーン・シグルズソンが抗議し、代表たちは立ち上がって「我々は皆抗議する！」と叫んだ。この場面はアイスランド・ナショナリズムを象徴する瞬間となった。"
+   }
+  },
+  {
+   "year": 1855,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Free trade with all nations",
+    "ko": "모든 나라와의 자유 교역",
+    "zh": "对所有国家开放自由贸易",
+    "ja": "全ての国との自由交易"
+   },
+   "description": {
+    "en": "A Danish law of 1854, in force from 1855, opened Iceland's trade to merchants of all nations. Combined with the national movement's demands, it ended the last restrictions dating from the monopoly era. Foreign trade and fishing grew, gradually laying the basis for modern economic development.",
+    "ko": "1854년 제정되어 1855년 시행된 덴마크 법률로 아이슬란드의 교역이 모든 나라 상인에게 개방되었다. 이는 민족 운동의 요구와 맞물려 독점 시대부터 이어진 마지막 제한을 없앴다. 대외 무역과 어업이 성장하며 근대 경제 발전의 기반이 서서히 마련되었다.",
+    "zh": "丹麦于1854年颁布、1855年生效的一项法律，使冰岛贸易向所有国家的商人开放。结合民族运动的诉求，它取消了垄断时代遗留的最后限制。对外贸易和渔业随之增长，逐渐为现代经济发展奠定了基础。",
+    "ja": "1854年に制定され1855年に施行されたデンマークの法律により、アイスランドの交易は全ての国の商人に開放された。民族運動の要求とも相まって、独占時代から続いた最後の制限が撤廃された。外国貿易と漁業が成長し、近代的な経済発展の基盤が徐々に築かれた。"
+   }
+  },
+  {
+   "year": 1874,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Constitution granted on the settlement's millennium",
+    "ko": "정착 1000년, 첫 헌법 획득",
+    "zh": "定居千年之际获得宪法",
+    "ja": "入植1000年、初の憲法を獲得"
+   },
+   "description": {
+    "en": "On the 1,000th anniversary of settlement, King Christian IX visited Iceland, the first reigning monarch to do so, and granted the country its first constitution. It gave the Althing legislative power and control over finances in domestic affairs, though executive power stayed with a minister in Copenhagen. The celebrations inspired the hymn that later became the national anthem.",
+    "ko": "정착 1000주년을 맞아 크리스티안 9세는 재위 중인 군주로는 처음으로 아이슬란드를 방문해 첫 헌법을 수여했다. 헌법은 알싱에 국내 문제에 관한 입법권과 재정 통제권을 주었지만, 행정권은 코펜하겐의 장관에게 남았다. 기념 행사는 훗날 국가가 된 찬가의 탄생에 영감을 주었다.",
+    "zh": "在定居一千周年之际，克里斯蒂安九世成为首位访问冰岛的在位君主，并赐予冰岛第一部宪法。宪法赋予阿尔庭在国内事务上的立法权和财政控制权，但行政权仍掌握在哥本哈根的大臣手中。庆典还催生了后来成为国歌的赞美诗。",
+    "ja": "入植1000年を記念して、クリスチャン9世は在位中の君主として初めてアイスランドを訪れ、初の憲法を授けた。憲法はアルシングに国内事項に関する立法権と財政管理権を与えたが、行政権はコペンハーゲンの大臣に残された。記念行事は、のちに国歌となった賛歌を生むきっかけとなった。"
+   }
+  },
+  {
+   "year": 1875,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Askja eruption and emigration to America",
+    "ko": "아스캬 분화와 아메리카 이민",
+    "zh": "阿斯基亚火山喷发与移民美洲",
+    "ja": "アスキャ噴火とアメリカ移民"
+   },
+   "description": {
+    "en": "In 1875 the Askja volcano erupted, covering farmland in eastern Iceland with ash. Together with harsh winters and poverty, it spurred a wave of emigration to North America, especially to Manitoba, where settlers founded 'New Iceland' around Gimli. Between the 1870s and 1914 an estimated 15,000 or more Icelanders emigrated.",
+    "ko": "1875년 아스캬 화산이 분화해 아이슬란드 동부의 농지를 화산재로 뒤덮었다. 혹독한 겨울과 빈곤이 겹치며 북아메리카, 특히 매니토바로 향하는 이민 물결이 일었고, 이주민들은 김리 일대에 '뉴 아이슬란드'를 세웠다. 1870년대부터 1914년까지 약 1만 5천 명 이상의 아이슬란드인이 이주한 것으로 추정된다.",
+    "zh": "1875年阿斯基亚火山喷发，火山灰覆盖了冰岛东部的农田。加之严冬和贫困，引发了移民北美的浪潮，尤其是前往马尼托巴，移民们在吉姆利一带建立了“新冰岛”。据估计，19世纪70年代至1914年间有1.5万以上的冰岛人移居海外。",
+    "ja": "1875年にアスキャ火山が噴火し、アイスランド東部の農地を火山灰で覆った。厳しい冬と貧困も重なって北米、とくにマニトバへの移民の波が起こり、移民たちはギムリ周辺に「ニュー・アイスランド」を築いた。1870年代から1914年までに推定1万5千人以上のアイスランド人が移住した。"
+   }
+  },
+  {
+   "year": 1904,
+   "qid": "Q16427214",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Home rule and the first Icelandic minister",
+    "ko": "자치와 최초의 아이슬란드인 장관",
+    "zh": "实行自治与首位冰岛籍大臣",
+    "ja": "自治と初のアイスランド人大臣"
+   },
+   "description": {
+    "en": "On 1 February 1904 Iceland gained home rule, and the poet and politician Hannes Hafstein became its first minister, based in Reykjavík and responsible to the Althing. Government departments moved from Copenhagen to Iceland. The reform opened a period of rapid modernisation in communications, education and fishing.",
+    "ko": "1904년 2월 1일 아이슬란드는 자치를 얻었고, 시인이자 정치인인 하네스 하프스테인이 레이캬비크에 상주하며 알싱에 책임지는 첫 장관이 되었다. 정부 부처가 코펜하겐에서 아이슬란드로 옮겨왔다. 이 개혁은 통신, 교육, 어업 분야의 급속한 근대화 시기를 열었다.",
+    "zh": "1904年2月1日冰岛实现自治，诗人兼政治家汉内斯·哈夫斯泰因成为首任大臣，常驻雷克雅未克并对阿尔庭负责。政府部门从哥本哈根迁至冰岛。这项改革开启了通信、教育和渔业迅速现代化的时期。",
+    "ja": "1904年2月1日、アイスランドは自治を獲得し、詩人で政治家のハンネス・ハフステインがレイキャヴィークに常駐しアルシングに責任を負う初代大臣となった。政府機関はコペンハーゲンからアイスランドへ移った。この改革は通信・教育・漁業の急速な近代化の時代を開いた。"
+   }
+  },
+  {
+   "year": 1911,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "University of Iceland founded",
+    "ko": "아이슬란드 대학 설립",
+    "zh": "冰岛大学成立",
+    "ja": "アイスランド大学の創立"
+   },
+   "description": {
+    "en": "The University of Iceland was founded in 1911 by merging existing schools of theology, medicine and law, and opened on 17 June, the centenary of Jón Sigurðsson's birth. For the first time Icelanders could obtain university degrees at home rather than in Copenhagen. It remains the country's largest university.",
+    "ko": "아이슬란드 대학은 1911년 기존의 신학교, 의학교, 법학교를 통합해 설립되었으며, 욘 시귀르드손 탄생 100주년인 6월 17일에 문을 열었다. 아이슬란드인은 처음으로 코펜하겐이 아닌 자국에서 대학 학위를 받을 수 있게 되었다. 이 대학은 지금도 아이슬란드 최대의 대학이다.",
+    "zh": "冰岛大学于1911年由原有的神学、医学和法学学校合并而成，在约恩·西居尔兹松诞辰一百周年的6月17日开学。冰岛人第一次可以在本国而非哥本哈根获得大学学位。它至今仍是冰岛规模最大的大学。",
+    "ja": "アイスランド大学は1911年、既存の神学校・医学校・法学校を統合して創立され、ヨーン・シグルズソン生誕100年の6月17日に開学した。アイスランド人は初めて、コペンハーゲンではなく国内で大学の学位を取得できるようになった。現在も国内最大の大学である。"
+   }
+  },
+  {
+   "year": 1915,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Women win the vote",
+    "ko": "여성 참정권 획득",
+    "zh": "妇女获得选举权",
+    "ja": "女性参政権の獲得"
+   },
+   "description": {
+    "en": "On 19 June 1915 a constitutional amendment gave Icelandic women aged 40 and over the right to vote and stand in national elections. The age limit was removed in 1920, giving women the same voting rights as men. In 1922 Ingibjörg H. Bjarnason became the first woman elected to the Althing.",
+    "ko": "1915년 6월 19일 헌법 개정으로 40세 이상의 아이슬란드 여성이 국정 선거에서 투표하고 출마할 권리를 얻었다. 1920년 연령 제한이 폐지되어 여성은 남성과 같은 선거권을 갖게 되었다. 1922년 잉기비외르그 H. 비아르드나손이 첫 여성 알싱 의원으로 선출되었다.",
+    "zh": "1915年6月19日，一项宪法修正案赋予40岁及以上的冰岛妇女在全国选举中投票和参选的权利。1920年年龄限制被取消，妇女获得了与男子相同的选举权。1922年，英吉比约格·H·比亚德纳松成为首位当选阿尔庭议员的女性。",
+    "ja": "1915年6月19日の憲法改正で、40歳以上のアイスランド女性に国政選挙での投票権と被選挙権が与えられた。1920年に年齢制限が撤廃され、女性は男性と同じ選挙権を得た。1922年にはインギビョルグ・H・ビャルナソンが女性として初めてアルシング議員に選ばれた。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": "Q62567",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Iceland becomes a sovereign state",
+    "ko": "주권 국가가 된 아이슬란드",
+    "zh": "冰岛成为主权国家",
+    "ja": "主権国家となったアイスランド"
+   },
+   "description": {
+    "en": "The Danish–Icelandic Act of Union, in force from 1 December 1918, made Iceland a sovereign kingdom in personal union with Denmark, which conducted only foreign affairs and fisheries patrols on Iceland's behalf. Either side could seek revision after 25 years. The same year Iceland suffered the Katla eruption and the Spanish flu.",
+    "ko": "1918년 12월 1일 발효된 덴마크-아이슬란드 연합법에 따라 아이슬란드는 덴마크와 동군연합을 이루는 주권 왕국이 되었고, 덴마크는 외교와 어업 순시만을 대행했다. 25년 뒤에는 양측 모두 개정을 요구할 수 있었다. 같은 해 아이슬란드는 카틀라 화산 분화와 스페인 독감을 겪었다.",
+    "zh": "1918年12月1日生效的《丹麦—冰岛联合法》使冰岛成为与丹麦组成共主邦联的主权王国，丹麦仅代为处理外交和渔业巡逻事务。25年后双方均可要求修订。同年，冰岛还经历了卡特拉火山喷发和西班牙流感。",
+    "ja": "1918年12月1日に発効したデンマーク＝アイスランド連合法により、アイスランドはデンマークと同君連合を組む主権王国となり、デンマークは外交と漁業監視のみを代行した。25年後にはどちらの側も改定を求めることができた。同じ年、アイスランドはカトラ火山の噴火とスペイン風邪にも見舞われた。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Millennium of the Althing",
+    "ko": "알싱 1000주년",
+    "zh": "阿尔庭千年庆典",
+    "ja": "アルシング千年祭"
+   },
+   "description": {
+    "en": "In June 1930 Iceland celebrated the 1,000th anniversary of the Althing at Þingvellir, attended by a large share of the nation and foreign dignitaries. The celebration was a showcase of national pride and of the modernisation achieved since home rule. The State Broadcasting Service (RÚV) also began transmitting that year.",
+    "ko": "1930년 6월 아이슬란드는 싱벨리르에서 국민의 상당수와 외국 귀빈이 참석한 가운데 알싱 창설 1000주년을 기념했다. 이 행사는 민족적 자부심과 자치 이후 이룬 근대화를 보여 주는 자리였다. 같은 해 국영 방송(RÚV)도 송출을 시작했다.",
+    "zh": "1930年6月，冰岛在辛格韦德利隆重庆祝阿尔庭成立一千周年，全国相当一部分人口和外国贵宾出席。庆典展示了民族自豪感以及自治以来取得的现代化成就。国家广播电台（RÚV）也在这一年开始播音。",
+    "ja": "1930年6月、アイスランドはシンクヴェトリルでアルシング創設1000年を祝い、国民の多くと外国の賓客が参列した。祝典は民族の誇りと自治以来の近代化の成果を示す場となった。同じ年、国営放送（RÚV）も放送を開始した。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": "Q2050460",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "British invasion and Allied occupation",
+    "ko": "영국군 상륙과 연합군 점령",
+    "zh": "英军登陆与盟军占领",
+    "ja": "イギリス軍の上陸と連合軍の占領"
+   },
+   "description": {
+    "en": "After Germany occupied Denmark in April 1940, the Althing assumed the king's powers. On 10 May 1940 British forces landed in Reykjavík without Iceland's consent to prevent a German occupation; the government protested but did not resist. In July 1941 the United States took over Iceland's defence by agreement, and wartime construction and jobs transformed the economy.",
+    "ko": "1940년 4월 독일이 덴마크를 점령하자 알싱은 국왕의 권한을 넘겨받았다. 1940년 5월 10일 영국군은 독일의 점령을 막기 위해 아이슬란드의 동의 없이 레이캬비크에 상륙했고, 정부는 항의했지만 저항하지 않았다. 1941년 7월에는 협정에 따라 미국이 아이슬란드의 방위를 맡았으며, 전시 건설과 일자리가 경제를 바꾸어 놓았다.",
+    "zh": "1940年4月德国占领丹麦后，阿尔庭接掌国王的权力。1940年5月10日，英军为防止德国占领，未经冰岛同意即在雷克雅未克登陆；冰岛政府提出抗议但没有抵抗。1941年7月，美国根据协议接管冰岛防务，战时建设和就业机会改变了冰岛经济。",
+    "ja": "1940年4月にドイツがデンマークを占領すると、アルシングは国王の権限を引き継いだ。1940年5月10日、イギリス軍はドイツによる占領を防ぐため、アイスランドの同意なくレイキャヴィークに上陸し、政府は抗議したものの抵抗しなかった。1941年7月には協定によりアメリカがアイスランドの防衛を引き継ぎ、戦時の建設と雇用が経済を一変させた。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": "Q5474632",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the Republic of Iceland",
+    "ko": "아이슬란드 공화국 수립",
+    "zh": "冰岛共和国成立",
+    "ja": "アイスランド共和国の成立"
+   },
+   "description": {
+    "en": "With Denmark under German occupation, Icelanders voted overwhelmingly in a May 1944 referendum to dissolve the union and adopt a republican constitution. The republic was proclaimed at Þingvellir on 17 June 1944, Jón Sigurðsson's birthday, and Sveinn Björnsson became the first president. King Christian X sent a message of congratulations.",
+    "ko": "덴마크가 독일에 점령된 가운데 아이슬란드인들은 1944년 5월 국민투표에서 압도적 찬성으로 연합 해체와 공화제 헌법 채택을 결정했다. 공화국은 욘 시귀르드손의 생일인 1944년 6월 17일 싱벨리르에서 선포되었고, 스베인 비외르든손이 초대 대통령이 되었다. 크리스티안 10세는 축하 메시지를 보냈다.",
+    "zh": "在丹麦被德国占领期间，冰岛人在1944年5月的全民公投中以压倒性多数决定解除联合并采用共和宪法。1944年6月17日，即约恩·西居尔兹松的生日，共和国在辛格韦德利宣告成立，斯韦恩·比约恩松成为首任总统。克里斯蒂安十世发来了贺电。",
+    "ja": "デンマークがドイツに占領されるなか、アイスランド人は1944年5月の国民投票で圧倒的多数により連合の解消と共和制憲法の採択を決めた。共和国はヨーン・シグルズソンの誕生日である1944年6月17日にシンクヴェトリルで宣言され、スヴェイン・ビョルンソンが初代大統領となった。国王クリスチャン10世は祝意を伝えた。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Iceland joins NATO",
+    "ko": "아이슬란드의 NATO 가입",
+    "zh": "冰岛加入北约",
+    "ja": "アイスランドのNATO加盟"
+   },
+   "description": {
+    "en": "In 1949 Iceland became a founding member of NATO, on condition that it would not have to maintain its own armed forces. The Althing's vote on 30 March 1949 sparked a riot outside the parliament building, as many opposed foreign military ties. Membership remained a central and contested issue in Icelandic politics for decades.",
+    "ko": "1949년 아이슬란드는 자체 군대를 유지하지 않아도 된다는 조건으로 NATO 창립 회원국이 되었다. 1949년 3월 30일 알싱의 표결은 외국과의 군사적 연계에 반대하는 많은 이들로 인해 의사당 밖에서 폭동을 불러일으켰다. 회원 자격은 수십 년간 아이슬란드 정치의 핵심 쟁점이었다.",
+    "zh": "1949年，冰岛以无需维持本国武装力量为条件，成为北约创始成员国。1949年3月30日阿尔庭的表决在议会大楼外引发骚乱，因为许多人反对与外国建立军事联系。数十年间，北约成员身份一直是冰岛政治中的核心争议问题。",
+    "ja": "1949年、アイスランドは自国の軍隊を保持しなくてよいという条件でNATOの原加盟国となった。1949年3月30日のアルシングの採決は、外国との軍事的結びつきに反対する多くの人々により議事堂前で暴動を引き起こした。加盟は数十年にわたりアイスランド政治の中心的な争点であり続けた。"
+   }
+  },
+  {
+   "year": 1951,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "US defence agreement and Keflavík base",
+    "ko": "미국과의 방위 협정과 케플라비크 기지",
+    "zh": "美冰防务协定与凯夫拉维克基地",
+    "ja": "米国との防衛協定とケプラヴィーク基地"
+   },
+   "description": {
+    "en": "Amid the Korean War, Iceland and the United States signed a defence agreement in 1951 under which US forces returned to staff the Keflavík air base. The base became a key NATO post for monitoring the North Atlantic during the Cold War. US forces remained until 2006.",
+    "ko": "한국 전쟁이 한창이던 1951년 아이슬란드와 미국은 방위 협정을 체결했고, 이에 따라 미군이 돌아와 케플라비크 공군 기지에 주둔했다. 이 기지는 냉전 기간 북대서양을 감시하는 NATO의 핵심 거점이 되었다. 미군은 2006년까지 주둔했다.",
+    "zh": "在朝鲜战争期间的1951年，冰岛与美国签订防务协定，美军据此重返并驻守凯夫拉维克空军基地。冷战期间，该基地成为北约监视北大西洋的关键据点。美军一直驻扎到2006年。",
+    "ja": "朝鮮戦争のさなかの1951年、アイスランドとアメリカは防衛協定を結び、米軍が戻ってケプラヴィーク空軍基地に駐留した。基地は冷戦期に北大西洋を監視するNATOの要衝となった。米軍は2006年まで駐留した。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Halldór Laxness wins the Nobel Prize",
+    "ko": "할도르 락스네스 노벨상 수상",
+    "zh": "哈尔多尔·拉克斯内斯获诺贝尔奖",
+    "ja": "ハルドール・ラクスネスのノーベル賞受賞"
+   },
+   "description": {
+    "en": "In 1955 the novelist Halldór Laxness, author of 'Independent People' and 'Iceland's Bell', received the Nobel Prize in Literature. The Swedish Academy praised his vivid epic power, which renewed the great narrative art of Iceland. He remains Iceland's only Nobel laureate.",
+    "ko": "1955년 『독립한 사람들』, 『아이슬란드의 종』의 작가 할도르 락스네스가 노벨 문학상을 받았다. 스웨덴 한림원은 아이슬란드의 위대한 서사 예술을 새롭게 한 그의 생생한 서사적 힘을 높이 평가했다. 그는 지금까지 아이슬란드의 유일한 노벨상 수상자이다.",
+    "zh": "1955年，著有《独立的人们》《冰岛之钟》的小说家哈尔多尔·拉克斯内斯获得诺贝尔文学奖。瑞典学院称赞他生动的史诗力量复兴了冰岛伟大的叙事艺术。他至今仍是冰岛唯一的诺贝尔奖得主。",
+    "ja": "1955年、『独立の民』『アイスランドの鐘』の作者である小説家ハルドール・ラクスネスがノーベル文学賞を受賞した。スウェーデン・アカデミーは、アイスランドの偉大な物語芸術を刷新した彼の生き生きとした叙事的な力を称えた。彼は現在もアイスランド唯一のノーベル賞受賞者である。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The first Cod War",
+    "ko": "제1차 대구 전쟁",
+    "zh": "第一次鳕鱼战争",
+    "ja": "第一次タラ戦争"
+   },
+   "description": {
+    "en": "In September 1958 Iceland extended its fishing limit from 4 to 12 nautical miles. Britain refused to recognise it and sent Royal Navy ships to protect its trawlers, leading to confrontations with Icelandic coast guard vessels. The dispute ended in 1961 with an agreement accepting the 12-mile limit.",
+    "ko": "1958년 9월 아이슬란드는 어업 수역을 4해리에서 12해리로 확대했다. 영국은 이를 인정하지 않고 자국 트롤선을 보호하기 위해 해군 함정을 보냈고, 이는 아이슬란드 해안경비대 선박과의 대치로 이어졌다. 분쟁은 1961년 12해리 수역을 인정하는 합의로 끝났다.",
+    "zh": "1958年9月，冰岛将渔业界限从4海里扩大到12海里。英国拒绝承认，派皇家海军舰艇保护本国拖网渔船，与冰岛海岸警卫队船只发生对峙。争端于1961年以接受12海里界限的协议告终。",
+    "ja": "1958年9月、アイスランドは漁業水域を4海里から12海里に拡大した。イギリスはこれを認めず、自国のトロール船を守るため海軍艦艇を派遣し、アイスランド沿岸警備隊の船舶との対峙が生じた。紛争は1961年、12海里水域を認める合意で終結した。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Birth of Surtsey",
+    "ko": "쉬르트세이섬의 탄생",
+    "zh": "叙尔特塞岛诞生",
+    "ja": "スルツェイ島の誕生"
+   },
+   "description": {
+    "en": "In November 1963 a submarine eruption off the south coast created the new island of Surtsey, which grew until 1967. Protected from human interference, it became a natural laboratory for studying how plants and animals colonise new land. Surtsey was inscribed as a UNESCO World Heritage Site in 2008.",
+    "ko": "1963년 11월 남부 해안 앞바다의 해저 분화로 새로운 섬 쉬르트세이가 생겨나 1967년까지 커졌다. 사람의 간섭으로부터 보호된 이 섬은 동식물이 새 땅에 정착하는 과정을 연구하는 자연 실험실이 되었다. 쉬르트세이는 2008년 유네스코 세계유산에 등재되었다.",
+    "zh": "1963年11月，冰岛南岸外海的海底喷发形成了新岛叙尔特塞，并持续扩大至1967年。该岛受到保护、禁止人为干扰，成为研究动植物如何占领新土地的天然实验室。叙尔特塞于2008年被列入联合国教科文组织世界遗产。",
+    "ja": "1963年11月、南岸沖の海底噴火によって新しい島スルツェイが生まれ、1967年まで成長した。人間の干渉から守られたこの島は、動植物が新しい土地に定着する過程を研究する自然の実験室となった。スルツェイは2008年にユネスコ世界遺産に登録された。"
+   }
+  },
+  {
+   "year": 1968,
+   "qid": "Q1210794",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "H-Day: switch to right-hand traffic",
+    "ko": "H-데이: 우측 통행으로 전환",
+    "zh": "H日：改为靠右行驶",
+    "ja": "Hデー：右側通行への切り替え"
+   },
+   "description": {
+    "en": "On 26 May 1968, known as H-dagurinn ('H-Day'), Iceland switched from driving on the left to driving on the right. The change aligned Iceland with continental Europe and North America and was prepared with an extensive public campaign. Traffic was halted for some hours while signs and vehicles were adjusted.",
+    "ko": "1968년 5월 26일, '흐-다귀린(H-데이)'으로 불리는 날 아이슬란드는 좌측 통행에서 우측 통행으로 바꾸었다. 이 변경은 아이슬란드를 유럽 대륙 및 북아메리카와 일치시켰으며, 대대적인 홍보 캠페인과 함께 준비되었다. 표지판과 차량을 조정하는 동안 몇 시간 동안 교통이 중단되었다.",
+    "zh": "1968年5月26日，即“H日”，冰岛由靠左行驶改为靠右行驶。这一改变使冰岛与欧洲大陆和北美保持一致，事前进行了大规模的宣传准备。在调整交通标志和车辆期间，交通暂停了数小时。",
+    "ja": "1968年5月26日、「Hダーグリン（Hデー）」と呼ばれる日に、アイスランドは左側通行から右側通行に切り替えた。この変更でアイスランドは大陸ヨーロッパや北米とそろい、大規模な広報キャンペーンを経て準備された。標識や車両を調整する間、数時間にわたり交通が止められた。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Iceland joins EFTA",
+    "ko": "아이슬란드의 EFTA 가입",
+    "zh": "冰岛加入欧洲自由贸易联盟",
+    "ja": "アイスランドのEFTA加盟"
+   },
+   "description": {
+    "en": "In 1970 Iceland joined the European Free Trade Association, opening European markets to its fish exports and beginning the liberalisation of its protected economy. The same period saw the opening of the first large aluminium smelter at Straumsvík, powered by hydroelectricity. Iceland has remained outside the European Union while deepening its ties through EFTA.",
+    "ko": "1970년 아이슬란드는 유럽자유무역연합(EFTA)에 가입해 수산물 수출에 유럽 시장을 열고 보호주의적 경제의 자유화를 시작했다. 같은 시기 수력 발전을 이용한 첫 대형 알루미늄 제련소가 스트라임스비크에서 가동되었다. 아이슬란드는 EU에는 가입하지 않은 채 EFTA를 통해 유럽과의 관계를 심화해 왔다.",
+    "zh": "1970年冰岛加入欧洲自由贸易联盟，为其鱼类出口打开欧洲市场，并开始对受保护的经济实行自由化。同期，利用水电的第一座大型铝冶炼厂在斯特劳姆斯维克投产。冰岛一直未加入欧盟，而是通过欧洲自由贸易联盟深化与欧洲的联系。",
+    "ja": "1970年、アイスランドは欧州自由貿易連合（EFTA）に加盟し、水産物輸出に欧州市場を開くとともに保護された経済の自由化に着手した。同じ時期、水力発電を利用した初の大型アルミニウム精錬所がストラウムスヴィークで稼働した。アイスランドはEUには加盟せず、EFTAを通じて欧州との関係を深めてきた。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Fischer–Spassky World Chess Championship",
+    "ko": "피셔-스파스키 세계 체스 선수권",
+    "zh": "费舍尔对斯帕斯基世界国际象棋锦标赛",
+    "ja": "フィッシャー対スパスキーの世界チェス選手権"
+   },
+   "description": {
+    "en": "In July–August 1972 Reykjavík hosted the World Chess Championship match between the American Bobby Fischer and the Soviet champion Boris Spassky. Fischer's victory, at the height of the Cold War, drew worldwide attention to Iceland. The same year Iceland extended its fishing limit to 50 nautical miles, starting the second Cod War.",
+    "ko": "1972년 7~8월 레이캬비크에서 미국의 바비 피셔와 소련 챔피언 보리스 스파스키의 세계 체스 선수권 대국이 열렸다. 냉전이 절정이던 시기 피셔의 승리는 전 세계의 이목을 아이슬란드로 모았다. 같은 해 아이슬란드는 어업 수역을 50해리로 넓혀 제2차 대구 전쟁이 시작되었다.",
+    "zh": "1972年7月至8月，雷克雅未克举办了美国棋手鲍比·费舍尔与苏联冠军鲍里斯·斯帕斯基之间的世界国际象棋锦标赛对局。冷战高峰期间费舍尔的胜利使全世界的目光聚焦冰岛。同年冰岛将渔业界限扩大到50海里，第二次鳕鱼战争随之爆发。",
+    "ja": "1972年7～8月、レイキャヴィークでアメリカのボビー・フィッシャーとソ連のチャンピオン、ボリス・スパスキーによる世界チェス選手権の対局が行われた。冷戦の最盛期におけるフィッシャーの勝利は世界の注目をアイスランドに集めた。同年、アイスランドは漁業水域を50海里に拡大し、第二次タラ戦争が始まった。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Eldfell eruption on Heimaey",
+    "ko": "헤이마에이섬 엘드펠 분화",
+    "zh": "赫马岛埃尔德山喷发",
+    "ja": "ヘイマエイ島のエルドフェトル噴火"
+   },
+   "description": {
+    "en": "On 23 January 1973 a fissure opened on the edge of the town on Heimaey in the Westman Islands, forming the new volcano Eldfell. Nearly all of the roughly 5,000 residents were evacuated overnight by the fishing fleet, which happened to be in harbour. Workers pumped seawater onto the advancing lava, helping save the harbour, and most residents later returned.",
+    "ko": "1973년 1월 23일 베스트만나에이야르 제도 헤이마에이섬의 마을 가장자리에서 열하가 열려 새 화산 엘드펠이 생겼다. 마침 항구에 있던 어선단이 약 5천 명의 주민 거의 전부를 하룻밤 사이에 대피시켰다. 작업자들은 다가오는 용암에 바닷물을 뿌려 항구를 지키는 데 기여했고, 주민 대부분은 나중에 돌아왔다.",
+    "zh": "1973年1月23日，韦斯特曼纳群岛赫马岛的城镇边缘出现裂隙，形成新火山埃尔德山。恰好停泊在港内的渔船队连夜疏散了约5000名居民中的几乎全部。工人们向推进的熔岩喷洒海水，帮助保住了港口，大多数居民后来重返家园。",
+    "ja": "1973年1月23日、ヴェストマン諸島ヘイマエイ島の町の外れで割れ目が開き、新しい火山エルドフェトルが生まれた。たまたま港にいた漁船団が約5000人の住民のほぼ全員を一晩で避難させた。作業員たちは迫る溶岩に海水を放水して港を守るのに貢献し、住民の多くはのちに島へ戻った。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q16419396",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Women's Day Off",
+    "ko": "여성 휴업의 날",
+    "zh": "妇女罢工日",
+    "ja": "女性の休日"
+   },
+   "description": {
+    "en": "On 24 October 1975 about 90 percent of Icelandic women stopped both paid work and housework for a day to demonstrate their importance to society. Some 25,000 gathered in central Reykjavík, and schools, shops and businesses struggled to function. The action is credited with advancing gender equality and paving the way for Vigdís Finnbogadóttir's election in 1980.",
+    "ko": "1975년 10월 24일, 아이슬란드 여성의 약 90%가 사회에서 자신들의 중요성을 보여 주기 위해 하루 동안 유급 노동과 가사 노동을 모두 멈췄다. 약 2만 5천 명이 레이캬비크 중심가에 모였고, 학교·상점·기업은 제대로 운영되지 못했다. 이 행동은 성평등을 진전시키고 1980년 비그디스 핀보가도티르의 당선에 길을 연 것으로 평가된다.",
+    "zh": "1975年10月24日，约90%的冰岛妇女停止有偿工作和家务劳动一天，以显示她们对社会的重要性。约2.5万人聚集在雷克雅未克市中心，学校、商店和企业几乎无法运转。这一行动被认为推动了性别平等，并为1980年维格迪丝·芬博阿多蒂尔当选铺平了道路。",
+    "ja": "1975年10月24日、アイスランドの女性の約9割が社会における自らの重要性を示すため、1日だけ有償労働と家事の両方を止めた。約2万5千人がレイキャヴィーク中心部に集まり、学校や商店、企業はまともに機能しなかった。この行動は男女平等を前進させ、1980年のヴィグディス・フィンボガドッティルの当選への道を開いたと評価されている。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Victory in the Cod Wars",
+    "ko": "'대구 전쟁'의 승리",
+    "zh": "“鳕鱼战争”的胜利",
+    "ja": "「タラ戦争」の勝利"
+   },
+   "description": {
+    "en": "In 1975 Iceland extended its fishing limit to 200 nautical miles, triggering the third and most intense Cod War, with net-cutting and ramming incidents between Icelandic patrol vessels and British frigates. Iceland briefly broke off diplomatic relations with Britain. A NATO-brokered agreement in June 1976 effectively recognised Iceland's 200-mile zone, vital to its economy.",
+    "ko": "1975년 아이슬란드가 어업 수역을 200해리로 확대하자 세 번째이자 가장 격렬한 대구 전쟁이 벌어졌고, 아이슬란드 경비정과 영국 프리깃함 사이에 그물 절단과 충돌 사건이 잇따랐다. 아이슬란드는 한때 영국과 외교 관계를 끊기도 했다. 1976년 6월 NATO의 중재로 맺어진 합의는 경제의 생명줄인 아이슬란드의 200해리 수역을 사실상 인정했다.",
+    "zh": "1975年冰岛将渔业界限扩大到200海里，引发了第三次也是最激烈的鳕鱼战争，冰岛巡逻船与英国护卫舰之间不断发生割网和撞船事件。冰岛一度与英国断绝外交关系。1976年6月在北约斡旋下达成的协议实际上承认了冰岛的200海里渔区，这对其经济至关重要。",
+    "ja": "1975年にアイスランドが漁業水域を200海里に拡大すると、三度目にして最も激しいタラ戦争が起こり、アイスランドの巡視船とイギリスのフリゲート艦の間で網の切断や体当たりが相次いだ。アイスランドは一時イギリスと国交を断絶した。1976年6月にNATOの仲介で結ばれた合意は、経済の生命線であるアイスランドの200海里水域を事実上認めた。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": "Q3132340",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Vigdís Finnbogadóttir elected president",
+    "ko": "비그디스 핀보가도티르 대통령 당선",
+    "zh": "维格迪丝·芬博阿多蒂尔当选总统",
+    "ja": "ヴィグディス・フィンボガドッティル大統領の当選"
+   },
+   "description": {
+    "en": "In 1980 Vigdís Finnbogadóttir, a theatre director and divorced single mother, won the presidential election, becoming the world's first woman democratically elected head of state. She served four terms until 1996 and was known for promoting the Icelandic language, culture and reforestation. She became an international symbol of gender equality.",
+    "ko": "1980년 연극 연출가이자 이혼한 홀어머니였던 비그디스 핀보가도티르가 대통령 선거에서 승리해 세계 최초로 민주적 선거로 뽑힌 여성 국가원수가 되었다. 그녀는 1996년까지 네 차례 연임하며 아이슬란드어와 문화, 숲 조성 장려로 알려졌다. 그녀는 성평등의 국제적 상징이 되었다.",
+    "zh": "1980年，戏剧导演、离异单身母亲维格迪丝·芬博阿多蒂尔赢得总统选举，成为世界上第一位经民主选举产生的女性国家元首。她连任四届直至1996年，以推广冰岛语言、文化和植树造林而闻名，成为性别平等的国际象征。",
+    "ja": "1980年、演出家で離婚歴のあるシングルマザーのヴィグディス・フィンボガドッティルが大統領選挙に勝利し、民主的な選挙で選ばれた世界初の女性国家元首となった。彼女は1996年まで4期務め、アイスランド語と文化の振興や植林で知られた。彼女は男女平等の国際的な象徴となった。"
+   }
+  },
+  {
+   "year": 1986,
+   "qid": "Q1036702",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Reykjavík Summit",
+    "ko": "레이캬비크 정상회담",
+    "zh": "雷克雅未克峰会",
+    "ja": "レイキャヴィーク・サミット"
+   },
+   "description": {
+    "en": "On 11–12 October 1986 US President Ronald Reagan and Soviet leader Mikhail Gorbachev met at Höfði House in Reykjavík to discuss nuclear arms reductions. The talks ended without agreement, mainly over the US Strategic Defense Initiative, but came close to sweeping cuts. They paved the way for the 1987 INF Treaty and are seen as a turning point toward the end of the Cold War.",
+    "ko": "1986년 10월 11~12일 미국 대통령 로널드 레이건과 소련 지도자 미하일 고르바초프가 레이캬비크의 회프디 하우스에서 만나 핵무기 감축을 논의했다. 회담은 주로 미국의 전략방위구상 문제로 합의 없이 끝났지만 대폭 감축에 근접했다. 이는 1987년 중거리핵전력(INF) 조약의 길을 열었고 냉전 종식을 향한 전환점으로 평가된다.",
+    "zh": "1986年10月11日至12日，美国总统罗纳德·里根与苏联领导人米哈伊尔·戈尔巴乔夫在雷克雅未克的霍夫迪楼会晤，讨论削减核武器问题。会谈主要因美国“战略防御倡议”而未达成协议，但已接近实现大幅削减。它为1987年《中导条约》铺平了道路，被视为走向冷战结束的转折点。",
+    "ja": "1986年10月11～12日、アメリカのロナルド・レーガン大統領とソ連のミハイル・ゴルバチョフ書記長がレイキャヴィークのホフジ・ハウスで会談し、核兵器削減を協議した。会談は主にアメリカの戦略防衛構想をめぐって合意なく終わったが、大幅削減に迫った。これは1987年のINF条約への道を開き、冷戦終結への転換点とみなされている。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Iceland joins the European Economic Area",
+    "ko": "유럽경제지역(EEA) 가입",
+    "zh": "冰岛加入欧洲经济区",
+    "ja": "欧州経済領域（EEA）への参加"
+   },
+   "description": {
+    "en": "On 1 January 1994 the European Economic Area agreement came into force, giving Iceland access to the EU single market for most goods, services, capital and people while remaining outside the EU. Iceland adopted much EU single-market legislation. The agreement later facilitated the rapid international expansion of Icelandic banks.",
+    "ko": "1994년 1월 1일 유럽경제지역(EEA) 협정이 발효되어 아이슬란드는 EU에 가입하지 않고도 대부분의 상품·서비스·자본·사람에 대해 EU 단일 시장에 접근할 수 있게 되었다. 아이슬란드는 EU 단일 시장 관련 법령의 상당 부분을 받아들였다. 이 협정은 훗날 아이슬란드 은행들의 급속한 해외 확장을 쉽게 했다.",
+    "zh": "1994年1月1日，《欧洲经济区协定》生效，冰岛在不加入欧盟的情况下，在大多数商品、服务、资本和人员方面进入欧盟单一市场。冰岛采纳了大量欧盟单一市场立法。该协定后来为冰岛银行的迅速国际扩张提供了便利。",
+    "ja": "1994年1月1日に欧州経済領域（EEA）協定が発効し、アイスランドはEUに加盟しないまま、大半の商品・サービス・資本・人についてEU単一市場への参入を得た。アイスランドはEU単一市場の法令の多くを取り入れた。この協定はのちにアイスランドの銀行の急速な海外展開を容易にした。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Gjálp eruption and the Skeiðarársandur flood",
+    "ko": "갸울프 분화와 스케이다라우르산두르 홍수",
+    "zh": "贾尔普火山喷发与斯凯扎拉尔桑杜尔洪水",
+    "ja": "ギャールプ噴火とスケイザラウルサンドゥルの洪水"
+   },
+   "description": {
+    "en": "In autumn 1996 an eruption beneath the Vatnajökull ice cap at Gjálp melted large amounts of ice, which collected in the Grímsvötn caldera lake. In November the water burst out in a massive glacial flood (jökulhlaup) across Skeiðarársandur, destroying sections of the Ring Road and its bridges. No lives were lost, as the flood had been anticipated.",
+    "ko": "1996년 가을 바트나이외퀴들 빙원 아래 갸울프에서 분화가 일어나 많은 얼음을 녹였고, 그 물은 그림스뵈튼 칼데라 호수에 고였다. 11월 이 물이 터져 나오며 스케이다라우르산두르를 가로지르는 거대한 빙하 홍수(예퀼흘라우프)가 발생해 링 로드 일부 구간과 다리들을 파괴했다. 홍수가 예견되어 있었기에 인명 피해는 없었다.",
+    "zh": "1996年秋，瓦特纳冰原下的贾尔普发生喷发，融化了大量冰体，融水积聚在格里姆火山的破火山口湖中。11月，湖水溃决，在斯凯扎拉尔桑杜尔形成巨大的冰川洪水，冲毁了环岛公路的部分路段和桥梁。由于事先预见到洪水，未造成人员伤亡。",
+    "ja": "1996年秋、ヴァトナヨークトル氷帽の下のギャールプで噴火が起き、大量の氷を融かした水がグリムスヴォトンのカルデラ湖にたまった。11月、その水が決壊してスケイザラウルサンドゥルを横切る巨大な氷河洪水（ヨークルフロイプ）となり、環状道路の一部区間と橋を破壊した。洪水は予測されていたため死者は出なかった。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": "Q4597512",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "South Iceland earthquakes",
+    "ko": "남아이슬란드 지진",
+    "zh": "南冰岛地震",
+    "ja": "南アイスランド地震"
+   },
+   "description": {
+    "en": "In June 2000 two strong earthquakes, each around magnitude 6.5, struck the South Iceland Seismic Zone within a few days, on 17 and 21 June. They damaged buildings and farms in the southern lowlands but caused no deaths. The events highlighted Iceland's position astride the Mid-Atlantic Ridge.",
+    "ko": "2000년 6월 17일과 21일, 며칠 간격으로 규모 약 6.5의 강진 두 차례가 남아이슬란드 지진대를 강타했다. 남부 저지대의 건물과 농가가 피해를 입었지만 사망자는 없었다. 이 사건은 대서양 중앙 해령 위에 걸쳐 있는 아이슬란드의 위치를 다시 보여 주었다.",
+    "zh": "2000年6月17日和21日，南冰岛地震带在几天内接连发生两次约6.5级的强烈地震。南部低地的建筑和农庄受损，但无人死亡。这些地震凸显了冰岛横跨大西洋中脊的地理位置。",
+    "ja": "2000年6月17日と21日、数日のうちにマグニチュード約6.5の強い地震が二度、南アイスランド地震帯を襲った。南部低地の建物や農場が被害を受けたが、死者は出なかった。この出来事は、大西洋中央海嶺の上にまたがるアイスランドの位置を改めて示した。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "US forces leave Keflavík",
+    "ko": "미군의 케플라비크 철수",
+    "zh": "美军撤离凯夫拉维克",
+    "ja": "米軍のケプラヴィーク撤退"
+   },
+   "description": {
+    "en": "In September 2006 the United States closed its Naval Air Station at Keflavík and withdrew its forces from Iceland after 55 years, ending a permanent military presence. The bilateral defence agreement remained in force, and the base area was turned over to Icelandic authorities. Iceland subsequently took on more responsibility for its own civil defence and air surveillance.",
+    "ko": "2006년 9월 미국은 케플라비크 해군 항공 기지를 폐쇄하고 55년 만에 아이슬란드에서 병력을 철수해 상시 군사 주둔을 끝냈다. 양국 방위 협정은 유지되었고 기지 부지는 아이슬란드 당국에 넘겨졌다. 이후 아이슬란드는 민간 방위와 항공 감시에 더 많은 책임을 지게 되었다.",
+    "zh": "2006年9月，美国关闭凯夫拉维克海军航空站，在驻扎55年后从冰岛撤军，结束了常驻军事存在。双边防务协定继续有效，基地区域移交冰岛当局。此后冰岛承担了更多民防和空中监视的责任。",
+    "ja": "2006年9月、アメリカはケプラヴィーク海軍航空基地を閉鎖し、55年にわたる駐留を経てアイスランドから部隊を撤退させ、常駐の軍事的プレゼンスを終えた。二国間の防衛協定は存続し、基地区域はアイスランド当局に引き渡された。以後アイスランドは民間防衛と航空監視により多くの責任を担うようになった。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q1137483",
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Banking collapse and financial crisis",
+    "ko": "은행 붕괴와 금융 위기",
+    "zh": "银行倒闭与金融危机",
+    "ja": "銀行破綻と金融危機"
+   },
+   "description": {
+    "en": "In October 2008 Iceland's three major banks, Glitnir, Landsbanki and Kaupthing, which had grown to many times the size of the national economy, collapsed within a week. The króna plunged, capital controls were imposed and Iceland turned to the IMF for support. Disputes with Britain and the Netherlands over Landsbanki's Icesave accounts followed, while the economy recovered over the next decade.",
+    "ko": "2008년 10월 국가 경제 규모의 몇 배로 불어났던 아이슬란드의 3대 은행 글리트니르, 란즈방키, 카우프싱이 일주일 사이에 잇달아 무너졌다. 크로나가 폭락하고 자본 통제가 도입되었으며 아이슬란드는 IMF에 지원을 요청했다. 이후 란즈방키의 '아이스세이브' 계좌를 두고 영국·네덜란드와 분쟁이 벌어졌고, 경제는 이후 10년에 걸쳐 회복했다.",
+    "zh": "2008年10月，规模已膨胀到国民经济数倍的冰岛三大银行——格利特尼尔银行、国民银行和考普辛银行——在一周之内相继倒闭。克朗暴跌，冰岛实行资本管制并向国际货币基金组织求援。随后冰岛与英国、荷兰就国民银行的“冰储”账户发生争端，而经济在此后十年间逐步复苏。",
+    "ja": "2008年10月、国の経済規模の何倍にも膨らんでいたアイスランドの三大銀行、グリトニル、ランズバンキ、カウプシングが1週間のうちに相次いで破綻した。クローナは暴落し、資本規制が導入され、アイスランドはIMFに支援を求めた。その後ランズバンキの「アイスセーブ」口座をめぐりイギリス・オランダとの紛争が起き、経済はその後10年をかけて回復した。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": "Q2316233",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Pots and Pans Revolution",
+    "ko": "냄비와 프라이팬 혁명",
+    "zh": "“锅碗瓢盆革命”",
+    "ja": "鍋とフライパン革命"
+   },
+   "description": {
+    "en": "Protests that began after the banking collapse in October 2008 peaked in January 2009, when crowds banging pots and pans outside the Althing demanded the government's resignation. The government of Geir Haarde fell, and Jóhanna Sigurðardóttir became prime minister, the world's first openly lesbian head of government. In July 2009 the new government applied for EU membership.",
+    "ko": "2008년 10월 은행 붕괴 이후 시작된 시위는 2009년 1월 절정에 달해, 알싱 앞에 모인 군중이 냄비와 프라이팬을 두드리며 정부의 퇴진을 요구했다. 게이르 하르데 정부가 무너지고 요한나 시귀르다르도티르가 총리가 되어 세계 최초로 동성애자임을 공개한 정부 수반이 되었다. 2009년 7월 새 정부는 EU 가입을 신청했다.",
+    "zh": "2008年10月银行业崩溃后开始的抗议在2009年1月达到高潮，人群在阿尔庭外敲打锅碗瓢盆，要求政府下台。盖尔·哈尔德政府倒台，约翰娜·西于尔扎多蒂成为总理，是世界上第一位公开同性恋身份的政府首脑。2009年7月，新政府申请加入欧盟。",
+    "ja": "2008年10月の銀行破綻後に始まった抗議行動は2009年1月に頂点に達し、アルシング前に集まった群衆が鍋やフライパンを叩いて政府の退陣を求めた。ゲイル・ハーデ政権は倒れ、ヨハンナ・シグルザルドッティルが首相となり、同性愛者であることを公表した世界初の政府首班となった。2009年7月、新政府はEU加盟を申請した。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": "Q269442",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Eyjafjallajökull eruption",
+    "ko": "에이야퍄틀라이외퀴틀 분화",
+    "zh": "埃亚菲亚德拉冰盖火山喷发",
+    "ja": "エイヤフィヤトラヨークトル噴火"
+   },
+   "description": {
+    "en": "In April 2010 an eruption beneath the Eyjafjallajökull glacier sent a plume of fine ash into the jet stream over Europe. Fearing damage to aircraft engines, authorities closed much of European airspace for about six days, causing the largest disruption to air travel since the Second World War and stranding millions of passengers. Locally, farmers near the volcano were evacuated as glacial floods and ashfall hit the area.",
+    "ko": "2010년 4월 에이야퍄틀라이외퀴틀 빙하 아래에서 일어난 분화로 미세한 화산재 기둥이 유럽 상공의 제트기류로 올라갔다. 항공기 엔진 손상을 우려한 당국은 약 6일간 유럽 영공의 대부분을 폐쇄했고, 이는 제2차 세계대전 이후 최대의 항공 교통 차질을 빚어 수백만 명의 승객이 발이 묶였다. 현지에서는 빙하 홍수와 화산재로 화산 주변 농민들이 대피했다.",
+    "zh": "2010年4月，埃亚菲亚德拉冰盖下的火山喷发将细小的火山灰柱送入欧洲上空的急流。出于对飞机发动机受损的担忧，当局关闭了欧洲大部分空域约六天，造成二战以来最严重的航空中断，数百万旅客滞留。在当地，冰川洪水和火山灰迫使火山附近的农民撤离。",
+    "ja": "2010年4月、エイヤフィヤトラヨークトル氷河の下で起きた噴火により、細かい火山灰の噴煙がヨーロッパ上空のジェット気流に乗った。航空機エンジンへの損傷を恐れた当局は約6日間ヨーロッパの空域の大半を閉鎖し、第二次世界大戦以来最大の航空交通の混乱で数百万人の旅客が足止めされた。現地では氷河洪水と降灰により火山周辺の農家が避難した。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": "Q17462",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Same-sex marriage legalised",
+    "ko": "동성 결혼 합법화",
+    "zh": "同性婚姻合法化",
+    "ja": "同性婚の合法化"
+   },
+   "description": {
+    "en": "In June 2010 the Althing unanimously passed a gender-neutral marriage law, which took effect on 27 June. Prime Minister Jóhanna Sigurðardóttir married her partner on the first day the law applied. Iceland thus became one of the first countries in the world to allow same-sex marriage.",
+    "ko": "2010년 6월 알싱은 성중립적 혼인법을 만장일치로 통과시켰고, 이 법은 6월 27일 발효되었다. 요한나 시귀르다르도티르 총리는 법 시행 첫날 자신의 파트너와 결혼했다. 이로써 아이슬란드는 세계에서 가장 먼저 동성 결혼을 허용한 나라 가운데 하나가 되었다.",
+    "zh": "2010年6月，阿尔庭一致通过了性别中立的婚姻法，该法于6月27日生效。总理约翰娜·西于尔扎多蒂在法律生效首日与伴侣结婚。冰岛由此成为世界上最早允许同性婚姻的国家之一。",
+    "ja": "2010年6月、アルシングは性別に中立な婚姻法を全会一致で可決し、同法は6月27日に施行された。ヨハンナ・シグルザルドッティル首相は施行初日にパートナーと結婚した。これによりアイスランドは世界で最も早く同性婚を認めた国の一つとなった。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q3077805",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Icesave referendums",
+    "ko": "아이스세이브 국민투표",
+    "zh": "“冰储”公投",
+    "ja": "アイスセーブ国民投票"
+   },
+   "description": {
+    "en": "Icelandic voters rejected laws to repay the British and Dutch governments for compensating Icesave depositors in referendums held in March 2010 and April 2011, after President Ólafur Ragnar Grímsson refused to sign the bills. The dispute went to the EFTA Court, which in January 2013 ruled in Iceland's favour. Depositors were ultimately repaid from the estate of the failed Landsbanki.",
+    "ko": "올라퓌르 라그나르 그림손 대통령이 법안 서명을 거부한 뒤, 아이슬란드 유권자들은 2010년 3월과 2011년 4월의 국민투표에서 아이스세이브 예금자 보상금을 영국·네덜란드 정부에 상환하는 법을 부결시켰다. 분쟁은 EFTA 법원으로 넘어갔고, 법원은 2013년 1월 아이슬란드의 손을 들어 주었다. 예금자들은 결국 파산한 란즈방키의 자산에서 상환을 받았다.",
+    "zh": "在总统奥拉维尔·拉格纳·格里姆松拒绝签署相关法案后，冰岛选民在2010年3月和2011年4月的两次公投中否决了向英国和荷兰政府偿还“冰储”储户补偿款的法律。争端提交欧洲自由贸易联盟法院，该院于2013年1月作出有利于冰岛的裁决。储户最终从倒闭的国民银行资产中获得偿付。",
+    "ja": "オウラヴル・ラグナル・グリムソン大統領が法案への署名を拒否したのち、アイスランドの有権者は2010年3月と2011年4月の国民投票で、アイスセーブ預金者への補償をイギリス・オランダ政府に返済する法律を否決した。紛争はEFTA裁判所に持ち込まれ、同裁判所は2013年1月にアイスランド勝訴の判決を下した。預金者は最終的に破綻したランズバンキの資産から返済を受けた。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q3083068",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Crowdsourced constitution referendum",
+    "ko": "크라우드소싱 헌법 국민투표",
+    "zh": "众包宪法公投",
+    "ja": "クラウドソーシング憲法の国民投票"
+   },
+   "description": {
+    "en": "After the financial crisis, a Constitutional Council drafted a new constitution with public input gathered partly online. In an advisory referendum in October 2012, about two-thirds of voters supported using the draft as the basis of a new constitution. The Althing did not adopt it, and constitutional reform remained a debated issue.",
+    "ko": "금융 위기 이후 헌법 평의회는 일부 온라인으로 모은 시민 의견을 반영해 새 헌법 초안을 만들었다. 2012년 10월 자문 국민투표에서 유권자의 약 3분의 2가 이 초안을 새 헌법의 토대로 삼는 데 찬성했다. 그러나 알싱은 이를 채택하지 않았고, 헌법 개정은 계속 논쟁거리로 남았다.",
+    "zh": "金融危机后，宪法委员会在部分通过网络收集的公众意见基础上起草了新宪法。在2012年10月的咨询性公投中，约三分之二的选民支持以该草案作为新宪法的基础。然而阿尔庭未予采纳，修宪仍是一个争议话题。",
+    "ja": "金融危機後、憲法評議会は一部をオンラインで集めた市民の意見を取り入れて新憲法の草案を作成した。2012年10月の諮問的国民投票では、有権者の約3分の2がこの草案を新憲法の基礎とすることに賛成した。しかしアルシングはこれを採択せず、憲法改正は議論の続く問題となった。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Holuhraun eruption",
+    "ko": "홀루흐라운 분화",
+    "zh": "霍卢赫劳恩喷发",
+    "ja": "ホルフロイン噴火"
+   },
+   "description": {
+    "en": "From August 2014 to February 2015 a fissure eruption at Holuhraun, fed by magma from the Bárðarbunga volcano, produced the largest lava field in Iceland since Laki in 1783. The eruption occurred in the uninhabited highlands, but its sulphur dioxide emissions affected air quality across the country. The subsidence of Bárðarbunga's caldera was closely monitored by scientists.",
+    "ko": "2014년 8월부터 2015년 2월까지 바르다르붕가 화산의 마그마가 공급된 홀루흐라운 열하 분화로 1783년 라키 이후 아이슬란드 최대의 용암 지대가 생겼다. 분화는 사람이 살지 않는 고지대에서 일어났지만, 이산화황 배출이 전국의 대기 질에 영향을 미쳤다. 과학자들은 바르다르붕가 칼데라의 함몰을 면밀히 관측했다.",
+    "zh": "2014年8月至2015年2月，由巴达本加火山岩浆补给的霍卢赫劳恩裂隙喷发，形成了自1783年拉基喷发以来冰岛最大的熔岩原。喷发发生在无人居住的高地，但其二氧化硫排放影响了全国的空气质量。科学家密切监测了巴达本加破火山口的沉降。",
+    "ja": "2014年8月から2015年2月にかけて、バルダルブンガ火山のマグマが供給されたホルフロインの割れ目噴火により、1783年のラーキ以来アイスランド最大の溶岩原が生じた。噴火は無人の高地で起きたが、二酸化硫黄の放出は全国の大気質に影響を与えた。科学者たちはバルダルブンガのカルデラの沈降を綿密に観測した。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "EU membership bid suspended",
+    "ko": "EU 가입 신청 중단",
+    "zh": "暂停加入欧盟申请",
+    "ja": "EU加盟申請の取り下げ"
+   },
+   "description": {
+    "en": "In March 2015 the government formed by the Progressive and Independence parties informed the EU that Iceland should no longer be regarded as a candidate country. Accession talks begun in 2010 had already been paused in 2013, with fisheries a key obstacle. Whether to resume the process remained a recurring question in Icelandic politics.",
+    "ko": "2015년 3월 진보당과 독립당 연립 정부는 EU에 아이슬란드를 더 이상 가입 후보국으로 간주하지 말 것을 통보했다. 2010년 시작된 가입 협상은 어업 문제가 핵심 장애물이 되면서 이미 2013년에 중단된 상태였다. 협상 재개 여부는 아이슬란드 정치에서 거듭 제기되는 쟁점으로 남았다.",
+    "zh": "2015年3月，由进步党和独立党组成的政府通知欧盟，冰岛不应再被视为候选国。2010年开始的入盟谈判已于2013年暂停，渔业问题是主要障碍。是否恢复入盟进程一直是冰岛政治中反复出现的问题。",
+    "ja": "2015年3月、進歩党と独立党の連立政権はEUに対し、アイスランドをもはや加盟候補国とみなさないよう通知した。2010年に始まった加盟交渉は、漁業問題が主な障害となってすでに2013年に中断していた。交渉を再開するかどうかは、アイスランド政治で繰り返し浮上する論点であり続けた。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q24908307",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Panama Papers protests and PM's resignation",
+    "ko": "파나마 페이퍼스 시위와 총리 사임",
+    "zh": "“巴拿马文件”抗议与总理辞职",
+    "ja": "パナマ文書抗議と首相辞任"
+   },
+   "description": {
+    "en": "In April 2016 the Panama Papers leak revealed that Prime Minister Sigmundur Davíð Gunnlaugsson and his wife had owned an offshore company with claims on the failed Icelandic banks. Some of the largest protests in Iceland's history followed in Reykjavík, and he stepped aside within days. Early elections were held in October 2016.",
+    "ko": "2016년 4월 파나마 페이퍼스 유출로 시그뮌뒤르 다비드 귄라우그손 총리 부부가 파산한 아이슬란드 은행들에 채권을 가진 역외 회사를 소유했던 사실이 드러났다. 레이캬비크에서 아이슬란드 역사상 최대 규모의 시위 가운데 하나가 벌어졌고, 그는 며칠 만에 물러났다. 2016년 10월 조기 총선이 치러졌다.",
+    "zh": "2016年4月，“巴拿马文件”泄露显示，总理西格蒙杜尔·戴维·贡劳格松及其妻子曾拥有一家对倒闭的冰岛银行持有债权的离岸公司。雷克雅未克随即爆发冰岛历史上规模最大的抗议之一，他在数日内下台。2016年10月举行了提前选举。",
+    "ja": "2016年4月、パナマ文書の流出により、シグムンドゥル・ダヴィード・グンロイグソン首相夫妻が破綻したアイスランドの銀行に債権を持つオフショア会社を所有していたことが明らかになった。レイキャヴィークではアイスランド史上最大級の抗議行動が起こり、首相は数日のうちに退いた。2016年10月に繰り上げ総選挙が行われた。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Equal pay certification law",
+    "ko": "동일 임금 인증법",
+    "zh": "同酬认证法",
+    "ja": "同一賃金認証法"
+   },
+   "description": {
+    "en": "From 1 January 2018 Icelandic law required companies and institutions with 25 or more employees to obtain certification that they pay men and women equally for work of equal value. Iceland was the first country to make such certification mandatory. The measure built on decades of gender-equality activism dating back to the 1975 Women's Day Off.",
+    "ko": "2018년 1월 1일부터 아이슬란드 법은 직원 25명 이상의 기업과 기관이 동일 가치 노동에 대해 남녀에게 같은 임금을 지급한다는 인증을 받도록 의무화했다. 아이슬란드는 이러한 인증을 의무화한 최초의 나라였다. 이 조치는 1975년 '여성 휴업의 날'로 거슬러 올라가는 수십 년간의 성평등 운동에 바탕을 두었다.",
+    "zh": "自2018年1月1日起，冰岛法律要求拥有25名及以上员工的企业和机构必须获得认证，证明其对同等价值的工作向男女支付同等报酬。冰岛是第一个强制实施此类认证的国家。这一措施建立在可追溯至1975年“妇女罢工日”的数十年性别平等运动的基础之上。",
+    "ja": "2018年1月1日から、アイスランドの法律は従業員25人以上の企業と機関に対し、同一価値の労働に男女同一の賃金を支払っていることの認証取得を義務づけた。アイスランドはこうした認証を義務化した最初の国である。この措置は、1975年の「女性の休日」にさかのぼる数十年の男女平等運動の上に成り立っている。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87121993",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "COVID-19 pandemic in Iceland",
+    "ko": "아이슬란드의 코로나19 범유행",
+    "zh": "冰岛的新冠疫情",
+    "ja": "アイスランドの新型コロナウイルス流行"
+   },
+   "description": {
+    "en": "The first COVID-19 case in Iceland was confirmed on 28 February 2020. Iceland drew international attention for extensive testing and contact tracing, including population screening carried out with the genetics company deCODE. The collapse of tourism, by then the largest export sector, caused a sharp economic downturn.",
+    "ko": "2020년 2월 28일 아이슬란드에서 첫 코로나19 확진자가 확인되었다. 아이슬란드는 유전체 기업 디코드(deCODE)와 함께 실시한 주민 선별 검사 등 광범위한 검사와 접촉자 추적으로 국제적 주목을 받았다. 당시 최대 수출 부문이던 관광업이 무너지며 경제가 급격히 위축되었다.",
+    "zh": "2020年2月28日，冰岛确诊首例新冠病例。冰岛因大规模检测和接触者追踪而受到国际关注，其中包括与基因公司deCODE合作开展的人群筛查。当时已成为最大出口行业的旅游业崩溃，导致经济急剧下滑。",
+    "ja": "2020年2月28日、アイスランドで最初の新型コロナウイルス感染者が確認された。アイスランドは遺伝学企業デコード（deCODE）と共同で行った住民スクリーニングを含む大規模な検査と接触者追跡で国際的な注目を集めた。当時最大の輸出部門となっていた観光業の崩壊により、経済は急激に落ち込んだ。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": "Q106076666",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Fagradalsfjall eruption",
+    "ko": "파그라달스퍄틀 분화",
+    "zh": "法格拉达尔斯火山喷发",
+    "ja": "ファグラダルスフィヤル噴火"
+   },
+   "description": {
+    "en": "On 19 March 2021, after weeks of intense earthquakes, an eruption began in the Geldingadalir valley at Fagradalsfjall on the Reykjanes Peninsula, the first eruption there in about 800 years. Easily reached from Reykjavík, the relatively gentle eruption drew hundreds of thousands of visitors before ending in September. It marked the start of a new volcanic episode on the peninsula.",
+    "ko": "수주간 강한 지진이 이어진 끝에 2021년 3월 19일 레이캬네스반도 파그라달스퍄틀의 겔딩가달리르 계곡에서 약 800년 만에 처음으로 분화가 시작되었다. 레이캬비크에서 쉽게 갈 수 있는 비교적 온화한 이 분화는 9월에 끝나기까지 수십만 명의 방문객을 끌어모았다. 이는 반도에서 새로운 화산 활동기가 시작되었음을 알렸다.",
+    "zh": "经过数周的强烈地震后，2021年3月19日雷恰内斯半岛法格拉达尔斯火山的盖尔丁加达利尔谷开始喷发，这是该地约800年来的首次喷发。这次相对温和的喷发从雷克雅未克前往十分便利，在9月结束前吸引了数十万游客。它标志着半岛进入了新的火山活动期。",
+    "ja": "数週間にわたる激しい地震ののち、2021年3月19日、レイキャネス半島ファグラダルスフィヤルのゲルディンガダリル谷で、同地では約800年ぶりとなる噴火が始まった。レイキャヴィークから行きやすい比較的穏やかなこの噴火は、9月に終わるまで数十万人の見物客を集めた。これは半島で新たな火山活動期が始まったことを告げるものだった。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q123992305",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Evacuation of Grindavík and the Sundhnúkur eruptions",
+    "ko": "그린다비크 대피와 순드흐누퀴르 분화",
+    "zh": "格林达维克疏散与松德赫努库尔喷发",
+    "ja": "グリンダヴィークの避難とスンドフニュークル噴火"
+   },
+   "description": {
+    "en": "On 10 November 2023 the town of Grindavík, home to about 3,700 people, was evacuated after intense earthquakes as a magma-filled dike formed beneath it. A series of eruptions began on the Sundhnúkur crater row in December 2023, and in January 2024 lava reached the edge of the town and destroyed several houses. Defensive barriers were built to protect Grindavík and the Svartsengi power plant.",
+    "ko": "2023년 11월 10일 마그마로 채워진 암맥이 지하에 형성되며 강한 지진이 이어지자 인구 약 3,700명의 그린다비크 주민 전원이 대피했다. 2023년 12월 순드흐누퀴르 분화구열에서 일련의 분화가 시작되었고, 2024년 1월에는 용암이 마을 가장자리에 이르러 주택 여러 채를 파괴했다. 그린다비크와 스바르트셍기 발전소를 지키기 위한 방호벽이 건설되었다.",
+    "zh": "2023年11月10日，由于地下形成充满岩浆的岩墙并引发强烈地震，约有3700人口的格林达维克镇全体居民被疏散。2023年12月起，松德赫努库尔火山口列开始一系列喷发，2024年1月熔岩抵达镇子边缘，摧毁了数栋房屋。为保护格林达维克和斯瓦特森吉发电站，当局修建了防护堤。",
+    "ja": "2023年11月10日、地下にマグマで満たされた岩脈が形成されて激しい地震が続いたため、人口約3700人のグリンダヴィークの町全体が避難した。2023年12月にスンドフニュークル火口列で一連の噴火が始まり、2024年1月には溶岩が町の端に達して数棟の家屋を焼いた。グリンダヴィークとスヴァルツエンギ発電所を守るため防護堤が築かれた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q106749042",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Halla Tómasdóttir elected president",
+    "ko": "할라 토마스도티르 대통령 당선",
+    "zh": "哈拉·托马斯多蒂尔当选总统",
+    "ja": "ハトラ・トウマスドッティル大統領の当選"
+   },
+   "description": {
+    "en": "In the presidential election of 1 June 2024, businesswoman Halla Tómasdóttir won with about a third of the vote in a crowded field, defeating former prime minister Katrín Jakobsdóttir among others. She took office on 1 August 2024 as Iceland's seventh president and second woman in the post. Later that year, early parliamentary elections brought Kristrún Frostadóttir of the Social Democratic Alliance to the premiership.",
+    "ko": "2024년 6월 1일 대통령 선거에서 기업인 할라 토마스도티르가 많은 후보가 나선 가운데 약 3분의 1의 득표로 카트린 야콥스도티르 전 총리 등을 제치고 당선되었다. 그녀는 2024년 8월 1일 아이슬란드의 일곱 번째 대통령이자 두 번째 여성 대통령으로 취임했다. 같은 해 말 조기 총선을 거쳐 사회민주동맹의 크리스트룬 프로스타도티르가 총리가 되었다.",
+    "zh": "在2024年6月1日的总统选举中，女企业家哈拉·托马斯多蒂尔在众多候选人中以约三分之一的得票胜出，击败了前总理卡特琳·雅各布斯多蒂尔等人。她于2024年8月1日就任冰岛第七任总统，也是第二位女性总统。同年晚些时候，提前举行的议会选举使社会民主联盟的克里斯特伦·弗罗斯塔多蒂尔出任总理。",
+    "ja": "2024年6月1日の大統領選挙で、実業家のハトラ・トウマスドッティルが多数の候補者が立つなか約3分の1の票を得て、カトリン・ヤコブスドッティル前首相らを破り当選した。彼女は2024年8月1日、アイスランド第7代大統領、二人目の女性大統領として就任した。同年後半には繰り上げ総選挙を経て、社会民主同盟のクリストルン・フロスタドッティルが首相となった。"
+   }
+  }
+ ]
+}

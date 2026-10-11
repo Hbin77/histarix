@@ -1,0 +1,515 @@
+{
+ "iso": "TF",
+ "eras": [
+  {
+   "from": -8000,
+   "to": 1521,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Uninhabited sub-Antarctic islands",
+    "ko": "사람이 살지 않던 아남극 섬들",
+    "zh": "无人居住的亚南极岛屿",
+    "ja": "無人の亜南極の島々"
+   },
+   "summary": {
+    "en": "The islands that make up the French Southern Lands — Kerguelen, the Crozet Islands, Saint-Paul and Amsterdam in the southern Indian Ocean, and the small Scattered Islands around Madagascar — were never settled before European exploration. Remote, cold and wind-swept in the south, they were the domain of vast colonies of penguins, albatrosses, petrels, fur seals and elephant seals. The Antarctic coast of Adélie Land was likewise untouched by humans.",
+    "ko": "프랑스령 남방 지역을 이루는 섬들, 곧 남인도양의 케르겔렌, 크로제 제도, 생폴, 암스테르담섬과 마다가스카르 주변의 작은 산재 제도에는 유럽인의 탐험 이전에 사람이 정착한 적이 없었다. 외딴 곳에 있고 남쪽은 춥고 바람이 거센 이 섬들은 펭귄, 앨버트로스, 바다제비, 물개, 코끼리물범의 거대한 번식지였다. 남극 대륙의 아델리랜드 해안 역시 인간의 손이 닿지 않았다.",
+    "zh": "构成法属南部领地的岛屿——南印度洋的凯尔盖朗群岛、克罗泽群岛、圣保罗岛和阿姆斯特丹岛，以及马达加斯加周围的小型散岛——在欧洲人探险之前从未有人定居。这些岛屿偏远，南部寒冷多风，是企鹅、信天翁、海燕、海狗和象海豹庞大种群的栖息地。南极大陆的阿德利地海岸同样未曾有人涉足。",
+    "ja": "フランス領南方地域を構成する島々、すなわち南インド洋のケルゲレン諸島、クロゼ諸島、サン・ポール島、アムステルダム島、そしてマダガスカル周辺の小さな散在諸島には、ヨーロッパ人の探検以前に人が定住したことはなかった。遠く離れ、南部は寒冷で風の強いこれらの島々は、ペンギン、アホウドリ、ミズナギドリ、オットセイ、ゾウアザラシの巨大な繁殖地であった。南極大陸のアデリーランドの海岸も同様に人の手が及んでいなかった。"
+   }
+  },
+  {
+   "from": 1522,
+   "to": 1892,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Age of discovery, sealing and whaling",
+    "ko": "발견과 물개잡이·포경의 시대",
+    "zh": "发现与猎海豹、捕鲸的时代",
+    "ja": "発見とアザラシ猟・捕鯨の時代"
+   },
+   "summary": {
+    "en": "From the 16th century European ships crossing the southern Indian Ocean sighted Amsterdam and Saint-Paul, and in 1772 French expeditions discovered the Crozet and Kerguelen archipelagos; Dumont d'Urville reached Adélie Land in 1840. Through the 19th century sealers and whalers, mostly American and British, camped on the islands and hunted seals almost to extinction, while scientific expeditions came to study magnetism, natural history and astronomy. France claimed the islands but did not occupy them.",
+    "ko": "16세기부터 남인도양을 건너던 유럽 선박들이 암스테르담섬과 생폴섬을 목격했고, 1772년 프랑스 원정대가 크로제 제도와 케르겔렌 제도를 발견했으며, 1840년 뒤몽 뒤르빌이 아델리랜드에 도달했다. 19세기 내내 주로 미국과 영국의 물개잡이·포경선원이 섬에 야영하며 물범을 거의 멸종 직전까지 사냥했고, 과학 원정대가 지자기, 박물학, 천문학을 연구하러 찾아왔다. 프랑스는 영유권을 주장했으나 점유하지는 않았다.",
+    "zh": "自16世纪起，横渡南印度洋的欧洲船只先后望见阿姆斯特丹岛和圣保罗岛；1772年法国探险队发现了克罗泽群岛和凯尔盖朗群岛；1840年迪蒙·迪维尔抵达阿德利地。整个19世纪，以美国人和英国人为主的猎海豹者和捕鲸者在岛上扎营，将海豹几乎猎杀殆尽，科学考察队则前来研究地磁、博物学和天文学。法国宣称拥有这些岛屿，但并未实际占领。",
+    "ja": "16世紀から南インド洋を横断するヨーロッパの船がアムステルダム島とサン・ポール島を目撃し、1772年にはフランスの遠征隊がクロゼ諸島とケルゲレン諸島を発見し、1840年にはデュモン・デュルヴィルがアデリーランドに到達した。19世紀を通じて主にアメリカとイギリスのアザラシ猟師や捕鯨船員が島に野営してアザラシを絶滅寸前まで狩り、科学探検隊が地磁気、博物学、天文学の研究に訪れた。フランスは領有を主張したが、占有はしなかった。"
+   }
+  },
+  {
+   "from": 1893,
+   "to": 1954,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "French possessions attached to Madagascar",
+    "ko": "마다가스카르에 부속된 프랑스령",
+    "zh": "隶属马达加斯加的法国属地",
+    "ja": "マダガスカルに付属したフランス領"
+   },
+   "summary": {
+    "en": "France formally annexed Kerguelen, Crozet, Saint-Paul and Amsterdam in 1892–93 and granted concessions to private operators for sealing, whaling and fishing, including a whaling station at Port Jeanne d'Arc on Kerguelen. In 1924 the islands and Adélie Land were attached administratively to the colony of Madagascar. Commercial ventures were small and short-lived, and the islands remained essentially uninhabited until the first permanent stations of 1949–51.",
+    "ko": "프랑스는 1892~93년 케르겔렌, 크로제, 생폴, 암스테르담을 공식 병합하고, 케르겔렌의 포르잔다르크 포경 기지를 비롯해 물범잡이·포경·어업을 위한 양허권을 민간 업자에게 주었다. 1924년 섬들과 아델리랜드는 행정적으로 마다가스카르 식민지에 부속되었다. 상업적 사업은 작고 오래가지 못했으며, 섬들은 1949~51년 첫 상주 기지가 세워질 때까지 사실상 무인 상태였다.",
+    "zh": "法国于1892至1893年正式兼并凯尔盖朗、克罗泽、圣保罗和阿姆斯特丹诸岛，并向私人经营者授予猎海豹、捕鲸和捕鱼特许权，其中包括凯尔盖朗岛上的让娜·达尔克港捕鲸站。1924年，这些岛屿和阿德利地在行政上隶属马达加斯加殖民地。商业经营规模小且为时短暂，直到1949至1951年建立首批常驻站之前，岛上基本无人居住。",
+    "ja": "フランスは1892～93年にケルゲレン、クロゼ、サン・ポール、アムステルダムを正式に併合し、ケルゲレンのポール・ジャンヌ・ダルクの捕鯨基地をはじめ、アザラシ猟・捕鯨・漁業の利権を民間業者に与えた。1924年、島々とアデリーランドは行政上マダガスカル植民地に付属された。商業事業は小規模で長続きせず、島々は1949～51年に最初の常駐基地ができるまで事実上無人のままであった。"
+   }
+  },
+  {
+   "from": 1955,
+   "to": 2026,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "French Southern and Antarctic Lands (TAAF)",
+    "ko": "프랑스령 남방 및 남극 지역(TAAF)",
+    "zh": "法属南部和南极领地",
+    "ja": "フランス領南方・南極地域（TAAF）"
+   },
+   "summary": {
+    "en": "Separated from Madagascar shortly before its independence, the French Southern and Antarctic Lands became an overseas territory of France in 1955, administered by a senior administrator and divided into districts: Kerguelen, Crozet, Saint-Paul and Amsterdam, Adélie Land, and from 2007 the Scattered Islands. The territory has no permanent population; its residents are scientists, military personnel and support staff at research stations. Its vast nature reserve and exclusive economic zone make it a centre of conservation and regulated fishing, while France's claim to Adélie Land is held in abeyance under the Antarctic Treaty.",
+    "ko": "마다가스카르 독립 직전 그로부터 분리된 프랑스령 남방 및 남극 지역은 1955년 프랑스의 해외 영토가 되었으며, 행정 장관이 관할하고 케르겔렌, 크로제, 생폴·암스테르담, 아델리랜드, 그리고 2007년부터 산재 제도의 지구로 나뉜다. 이 영토에는 상주 인구가 없고, 주민은 연구 기지의 과학자, 군인, 지원 인력이다. 광대한 자연보호구역과 배타적 경제 수역 덕분에 보전과 규제된 어업의 중심지이며, 아델리랜드에 대한 프랑스의 영유권 주장은 남극 조약에 따라 동결되어 있다.",
+    "zh": "法属南部和南极领地在马达加斯加独立前不久与之分离，于1955年成为法国的海外领地，由一名高级行政长官管辖，划分为凯尔盖朗、克罗泽、圣保罗和阿姆斯特丹、阿德利地以及自2007年起的散岛等区。领地没有永久居民，居住者是科考站的科学家、军人和后勤人员。其广阔的自然保护区和专属经济区使之成为生态保护和受管控渔业的中心，而法国对阿德利地的主权主张则依《南极条约》被冻结。",
+    "ja": "マダガスカル独立の少し前に分離されたフランス領南方・南極地域は1955年にフランスの海外領土となり、上級行政官が管轄し、ケルゲレン、クロゼ、サン・ポールとアムステルダム、アデリーランド、そして2007年からは散在諸島の各地区に分けられている。領土に定住人口はなく、住むのは研究基地の科学者、軍人、支援要員である。広大な自然保護区と排他的経済水域により保全と管理された漁業の中心となっており、アデリーランドに対するフランスの領有主張は南極条約のもとで凍結されている。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": 1522,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Amsterdam Island sighted",
+    "ko": "암스테르담섬 발견",
+    "zh": "望见阿姆斯特丹岛",
+    "ja": "アムステルダム島の発見"
+   },
+   "description": {
+    "en": "Survivors of Magellan's expedition under Juan Sebastián Elcano sighted Amsterdam Island while crossing the southern Indian Ocean, the first recorded European sighting in these waters.",
+    "ko": "후안 세바스티안 엘카노가 이끄는 마젤란 원정대의 생존자들이 남인도양을 횡단하던 중 암스테르담섬을 목격했다. 이 해역에서 기록된 최초의 유럽인 목격이다.",
+    "zh": "胡安·塞巴斯蒂安·埃尔卡诺率领的麦哲伦远征队幸存者在横渡南印度洋时望见阿姆斯特丹岛，这是欧洲人在这片海域最早的记录。",
+    "ja": "フアン・セバスティアン・エルカノ率いるマゼラン遠征隊の生存者たちが南インド洋横断中にアムステルダム島を望見した。この海域における欧州人の最初の記録である。"
+   }
+  },
+  {
+   "year": 1633,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Named 'Nieuw Amsterdam' by the Dutch",
+    "ko": "'니우 암스테르담'이라 명명",
+    "zh": "命名“新阿姆斯特丹”",
+    "ja": "「ニーウ・アムステルダム」と命名"
+   },
+   "description": {
+    "en": "Dutch governor-general Anthonie van Diemen sighted the island and named it 'Nieuw Amsterdam' after his ship; nearby Saint-Paul was charted by Dutch navigators in the same era.",
+    "ko": "네덜란드 총독 안토니 반 디먼이 이 섬을 목격하고 자신의 배 이름을 따 '니우 암스테르담'이라 명명했다. 인근 생폴섬도 같은 시기 네덜란드 항해가들에 의해 지도에 기록되었다.",
+    "zh": "荷兰总督安东尼·范迪门望见该岛，以座舰之名将其命名为“新阿姆斯特丹”。附近的圣保罗岛也在同一时期由荷兰航海家绘入海图。",
+    "ja": "オランダ総督アントニー・ファン・ディーメンがこの島を望見し、座乗艦にちなんで「ニーウ・アムステルダム」と命名した。近くのサン・ポール島も同時代にオランダ人航海者により海図に記された。"
+   }
+  },
+  {
+   "year": 1696,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Willem de Vlamingh visits Amsterdam and Saint-Paul",
+    "ko": "빌럼 더 플라밍, 암스테르담섬과 생폴섬 방문",
+    "zh": "威廉·德·弗拉明访问阿姆斯特丹岛与圣保罗岛",
+    "ja": "ウィレム・デ・フラミングがアムステルダム島とサン・ポール島を訪問"
+   },
+   "description": {
+    "en": "In December 1696 the Dutch navigator Willem de Vlamingh, on a voyage to search for a lost ship off the coast of Australia, stopped at Amsterdam Island and Saint-Paul and went ashore to explore them. His crew recorded the volcanic landscape and abundant seals and birds. The two islands became known landmarks on the route of Dutch East India Company ships sailing to the East Indies.",
+    "ko": "1696년 12월 오스트레일리아 연안에서 실종된 배를 찾으러 가던 네덜란드 항해가 빌럼 더 플라밍은 암스테르담섬과 생폴섬에 들러 상륙해 탐사했다. 선원들은 화산 지형과 풍부한 물범·새를 기록했다. 두 섬은 동인도로 향하는 네덜란드 동인도회사 선박 항로의 이정표로 알려지게 되었다.",
+    "zh": "1696年12月，荷兰航海家威廉·德·弗拉明在前往澳大利亚沿海搜寻失踪船只的途中，停靠阿姆斯特丹岛和圣保罗岛并登岸考察。船员记录了岛上的火山地貌和大量的海豹与鸟类。这两座岛屿成为荷兰东印度公司船只驶往东印度航线上广为人知的地标。",
+    "ja": "1696年12月、オーストラリア沖で行方不明になった船を捜す航海の途中、オランダの航海者ウィレム・デ・フラミングはアムステルダム島とサン・ポール島に立ち寄り、上陸して探査した。乗組員は火山性の地形と豊富なアザラシや鳥を記録した。二つの島は東インドへ向かうオランダ東インド会社の船の航路上の目印として知られるようになった。"
+   }
+  },
+  {
+   "year": 1772,
+   "qid": null,
+   "importance": 1,
+   "category": "science",
+   "title": {
+    "en": "France discovers Kerguelen and the Crozets",
+    "ko": "케르겔렌·크로제 제도 발견",
+    "zh": "发现凯尔盖朗与克罗泽群岛",
+    "ja": "ケルゲレン・クロゼ諸島の発見"
+   },
+   "description": {
+    "en": "In a single year, Marion du Fresne's expedition discovered the Crozet Islands and Yves de Kerguelen-Trémarec sighted the Kerguelen archipelago, claiming both for France.",
+    "ko": "같은 해에 마리옹 뒤 프렌 원정대가 크로제 제도를, 이브 드 케르겔렌-트레마레크가 케르겔렌 제도를 발견하고 두 곳 모두 프랑스령으로 선언했다.",
+    "zh": "同一年内，马里翁·迪弗雷纳远征队发现克罗泽群岛，伊夫·德·凯尔盖朗-特雷马雷克望见凯尔盖朗群岛，两地均被宣布为法国领地。",
+    "ja": "同じ年に、マリオン・デュフレーヌ遠征隊がクロゼ諸島を発見し、イヴ・ド・ケルゲレン=トレマレックがケルゲレン諸島を望見して、いずれもフランス領と宣言した。"
+   }
+  },
+  {
+   "year": 1776,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Captain Cook at Kerguelen",
+    "ko": "쿡 선장의 케르겔렌 기항",
+    "zh": "库克船长驻泊凯尔盖朗",
+    "ja": "クック船長のケルゲレン寄港"
+   },
+   "description": {
+    "en": "James Cook's third voyage anchored at Kerguelen at Christmas 1776. Finding it barren, he dubbed it the 'Island of Desolation', a name that captured its forbidding climate.",
+    "ko": "제임스 쿡의 3차 항해가 1776년 성탄절에 케르겔렌에 정박했다. 그는 척박한 이 섬을 '황량의 섬'이라 불렀고, 이 이름은 이곳의 혹독한 기후를 잘 보여 준다.",
+    "zh": "詹姆斯·库克第三次航海于1776年圣诞节停泊凯尔盖朗。他见岛上荒瘠，称之为“荒凉之岛”，这一名字道尽了此地严酷的气候。",
+    "ja": "ジェームズ・クックの第3回航海は1776年のクリスマスにケルゲレンに投錨した。不毛の地を見たクックはここを「荒涼の島」と呼び、その名は厳しい気候を物語る。"
+   }
+  },
+  {
+   "year": 1820,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "The age of sealers and whalers",
+    "ko": "물개잡이와 포경선의 시대",
+    "zh": "海豹猎人与捕鲸者的时代",
+    "ja": "アザラシ猟と捕鯨の時代"
+   },
+   "description": {
+    "en": "American and British sealers and whalers descended on the islands through the 19th century, hunting fur seals and elephant seals nearly to extinction and leaving the first shore camps.",
+    "ko": "19세기 내내 미국과 영국의 물개잡이·포경선들이 이 섬들에 몰려들어 물개와 코끼리물범을 절멸 직전까지 사냥했고, 해안에 최초의 임시 기지들을 남겼다.",
+    "zh": "整个19世纪，美英海豹猎人和捕鲸船蜂拥而至，将海狗和象海豹捕杀至濒临灭绝，并在岸边留下了最早的临时营地。",
+    "ja": "19世紀を通じて米英のアザラシ猟師や捕鯨船が押し寄せ、オットセイやゾウアザラシを絶滅寸前まで乱獲し、海岸に最初の仮設基地を残した。"
+   }
+  },
+  {
+   "year": 1840,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "James Clark Ross winters at Kerguelen",
+    "ko": "제임스 클라크 로스의 케르겔렌 체류",
+    "zh": "詹姆斯·克拉克·罗斯在凯尔盖朗停留",
+    "ja": "ジェームズ・クラーク・ロスのケルゲレン滞在"
+   },
+   "description": {
+    "en": "On its way to Antarctica, the British expedition of James Clark Ross with HMS Erebus and HMS Terror spent several months of 1840 at Christmas Harbour on Kerguelen. The scientists made magnetic observations and collected plants, rocks and fossil wood, and the expedition's naturalist Joseph Dalton Hooker studied the islands' flora, including the Kerguelen cabbage. Their work made Kerguelen one of the better-known sub-Antarctic islands to science.",
+    "ko": "남극으로 가던 제임스 클라크 로스의 영국 원정대는 에러버스호와 테러호를 이끌고 1840년 몇 달 동안 케르겔렌의 크리스마스 항구에 머물렀다. 과학자들은 지자기를 관측하고 식물, 암석, 규화목을 채집했으며, 원정대의 박물학자 조지프 돌턴 후커는 케르겔렌 양배추를 비롯한 섬의 식물상을 연구했다. 이들의 작업으로 케르겔렌은 과학계에 비교적 잘 알려진 아남극 섬이 되었다.",
+    "zh": "詹姆斯·克拉克·罗斯率领的英国探险队乘“幽冥”号和“恐怖”号前往南极途中，于1840年在凯尔盖朗岛的圣诞港停留数月。科学家们进行了地磁观测，采集了植物、岩石和木化石，探险队博物学家约瑟夫·道尔顿·胡克研究了包括凯尔盖朗甘蓝在内的岛上植物。他们的工作使凯尔盖朗成为科学界较为熟知的亚南极岛屿之一。",
+    "ja": "南極へ向かうジェームズ・クラーク・ロスのイギリス探検隊は、エレバス号とテラー号を率いて1840年の数か月をケルゲレンのクリスマス港で過ごした。科学者たちは地磁気を観測し、植物や岩石、珪化木を採集し、探検隊の博物学者ジョゼフ・ダルトン・フッカーはケルゲレンキャベツをはじめとする島の植物相を研究した。彼らの仕事により、ケルゲレンは科学界で比較的よく知られた亜南極の島となった。"
+   }
+  },
+  {
+   "year": 1840,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Dumont d'Urville claims Adélie Land",
+    "ko": "아델리랜드 발견",
+    "zh": "发现阿德利地",
+    "ja": "アデリーランドの発見"
+   },
+   "description": {
+    "en": "Jules Dumont d'Urville reached the Antarctic coast and claimed Adélie Land for France, naming it after his wife Adèle. It remains the basis of France's Antarctic presence.",
+    "ko": "쥘 뒤몽 뒤르빌이 남극 대륙 연안에 도달해 아델리랜드를 프랑스령으로 선언했고, 아내 아델의 이름을 붙였다. 이는 오늘날까지 프랑스 남극 활동의 근거가 되고 있다.",
+    "zh": "儒勒·迪蒙·迪维尔抵达南极大陆沿岸，宣布阿德利地为法国领地，并以妻子阿黛勒之名命名。这里至今仍是法国在南极存在的基础。",
+    "ja": "ジュール・デュモン・デュルヴィルが南極大陸沿岸に到達し、アデリーランドをフランス領と宣言、妻アデルの名を冠した。これが今日に至るフランスの南極活動の基盤である。"
+   }
+  },
+  {
+   "year": 1874,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Transit of Venus expeditions and HMS Challenger",
+    "ko": "금성 일면 통과 관측대와 챌린저호",
+    "zh": "金星凌日观测队与“挑战者”号",
+    "ja": "金星の太陽面通過観測隊とチャレンジャー号"
+   },
+   "description": {
+    "en": "The transit of Venus across the Sun in December 1874 brought several scientific expeditions to these remote islands, including British, American and German observers on Kerguelen and a French team led by Ernest Mouchez on Saint-Paul. Earlier that year the oceanographic expedition of HMS Challenger had called at Kerguelen. The observations aimed to measure the distance between the Earth and the Sun.",
+    "ko": "1874년 12월 금성의 태양면 통과는 이 외딴 섬들에 여러 과학 원정대를 불러들였는데, 케르겔렌에는 영국·미국·독일 관측대가, 생폴에는 에르네스트 무셰가 이끈 프랑스 관측대가 왔다. 그해 초에는 해양학 원정선 챌린저호가 케르겔렌에 기항했다. 이 관측의 목적은 지구와 태양 사이의 거리를 측정하는 것이었다.",
+    "zh": "1874年12月的金星凌日将多支科学考察队带到这些偏远岛屿，其中包括在凯尔盖朗岛观测的英国、美国和德国队伍，以及在圣保罗岛由埃内斯特·穆谢率领的法国观测队。同年早些时候，海洋学考察船“挑战者”号曾停靠凯尔盖朗。这些观测旨在测定地球与太阳之间的距离。",
+    "ja": "1874年12月の金星の太陽面通過は、これらの遠い島々にいくつもの科学探検隊を呼び寄せた。ケルゲレンにはイギリス・アメリカ・ドイツの観測隊が、サン・ポールにはエルネスト・ムーシェ率いるフランスの観測隊が訪れた。同年初めには海洋学調査船チャレンジャー号がケルゲレンに寄港していた。観測の目的は地球と太陽の距離を測ることであった。"
+   }
+  },
+  {
+   "year": 1893,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Formal French annexation of the islands",
+    "ko": "프랑스의 공식 병합",
+    "zh": "法国正式兼并",
+    "ja": "フランスによる正式併合"
+   },
+   "description": {
+    "en": "France formally annexed the Kerguelen and Crozet archipelagos along with Saint-Paul and Amsterdam islands, ending decades of ambiguous status in the southern Indian Ocean.",
+    "ko": "프랑스가 케르겔렌·크로제 제도와 생폴·암스테르담섬을 공식 병합하면서, 수십 년간 이어지던 남인도양 도서들의 모호한 지위가 정리되었다.",
+    "zh": "法国正式兼并凯尔盖朗、克罗泽群岛以及圣保罗岛和阿姆斯特丹岛，结束了这些南印度洋岛屿数十年来地位不明的状态。",
+    "ja": "フランスがケルゲレン・クロゼ両諸島とサン・ポール島、アムステルダム島を正式に併合し、数十年続いた南インド洋の島々の曖昧な地位に終止符が打たれた。"
+   }
+  },
+  {
+   "year": 1902,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "German Antarctic expedition station on Kerguelen",
+    "ko": "케르겔렌의 독일 남극 원정대 기지",
+    "zh": "德国南极探险队在凯尔盖朗的观测站",
+    "ja": "ケルゲレンのドイツ南極探検隊基地"
+   },
+   "description": {
+    "en": "During the German South Polar Expedition of 1901–03 led by Erich von Drygalski aboard the Gauss, a team was stationed on Kerguelen to make magnetic and meteorological observations coordinated with the main expedition in Antarctica. The station was one of several international efforts of the period to study the southern hemisphere's magnetism and weather. Its members suffered from disease in the harsh conditions.",
+    "ko": "에리히 폰 드리갈스키가 가우스호를 이끈 1901~03년 독일 남극 원정 때, 한 팀이 케르겔렌에 머물며 남극의 본대와 연계한 지자기·기상 관측을 했다. 이 기지는 당시 남반구의 지자기와 날씨를 연구하려던 여러 국제적 노력 가운데 하나였다. 대원들은 혹독한 환경에서 질병에 시달렸다.",
+    "zh": "在1901至1903年由埃里希·冯·德里加尔斯基率“高斯”号进行的德国南极探险中，一支小队驻扎在凯尔盖朗岛，进行与南极主力考察队协同的地磁和气象观测。该站是当时研究南半球地磁和天气的多项国际努力之一。队员们在恶劣环境中饱受疾病困扰。",
+    "ja": "エーリッヒ・フォン・ドリガルスキーがガウス号を率いた1901～03年のドイツ南極探検では、一隊がケルゲレンに駐在し、南極の本隊と連携した地磁気・気象観測を行った。この基地は、当時南半球の地磁気と気象を研究しようとした国際的な取り組みの一つであった。隊員たちは過酷な環境で病に苦しんだ。"
+   }
+  },
+  {
+   "year": 1908,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Whaling station at Port Jeanne d'Arc",
+    "ko": "포르잔다르크 포경 기지",
+    "zh": "让娜·达尔克港捕鲸站",
+    "ja": "ポール・ジャンヌ・ダルクの捕鯨基地"
+   },
+   "description": {
+    "en": "A Norwegian-French whaling station opened at Port Jeanne d'Arc on Kerguelen, the islands' first industrial settlement; its rusting boilers and huts still stand as heritage.",
+    "ko": "케르겔렌의 포르잔다르크에 노르웨이-프랑스 합작 포경 기지가 문을 열었다. 이 섬들 최초의 산업 시설로, 녹슨 보일러와 막사가 지금도 유산으로 남아 있다.",
+    "zh": "挪威与法国合办的捕鲸站在凯尔盖朗的让娜·达尔克港开业，这是群岛上第一处工业设施，锈蚀的锅炉与棚屋至今犹存，成为历史遗迹。",
+    "ja": "ケルゲレンのポール・ジャンヌ・ダルクにノルウェーとフランス共同の捕鯨基地が開設された。諸島初の産業施設で、錆びたボイラーや小屋が今も遺産として残る。"
+   }
+  },
+  {
+   "year": 1924,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Islands attached to the colony of Madagascar",
+    "ko": "섬들, 마다가스카르 식민지에 부속",
+    "zh": "诸岛划归马达加斯加殖民地",
+    "ja": "島々がマダガスカル植民地に付属"
+   },
+   "description": {
+    "en": "A French decree of November 1924 attached Kerguelen, Crozet, Saint-Paul, Amsterdam and Adélie Land administratively to the government-general of Madagascar. The arrangement aimed to assert French sovereignty more effectively, particularly over fishing and whaling in surrounding waters. The islands remained dependencies of Madagascar until shortly before its independence.",
+    "ko": "1924년 11월 프랑스의 법령은 케르겔렌, 크로제, 생폴, 암스테르담, 아델리랜드를 행정적으로 마다가스카르 총독부에 부속시켰다. 이 조치는 특히 주변 해역의 어업과 포경에 대한 프랑스의 주권을 더 효과적으로 행사하려는 것이었다. 섬들은 마다가스카르 독립 직전까지 그 속령으로 남았다.",
+    "zh": "1924年11月，法国一项法令将凯尔盖朗、克罗泽、圣保罗、阿姆斯特丹诸岛和阿德利地在行政上划归马达加斯加总督府管辖。此举旨在更有效地行使法国主权，特别是对周边海域捕鱼和捕鲸活动的管辖。这些岛屿一直是马达加斯加的属地，直到其独立前不久。",
+    "ja": "1924年11月のフランスの政令は、ケルゲレン、クロゼ、サン・ポール、アムステルダム、アデリーランドを行政上マダガスカル総督府に付属させた。この措置は、とりわけ周辺海域の漁業と捕鯨に対するフランスの主権をより効果的に行使することを狙ったものだった。島々はマダガスカル独立の直前までその属領であり続けた。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "The 'Forgotten of Saint-Paul'",
+    "ko": "‘생폴의 잊힌 사람들’",
+    "zh": "“圣保罗岛被遗忘的人”",
+    "ja": "「サン・ポール島の忘れられた人々」"
+   },
+   "description": {
+    "en": "A lobster cannery operated on Saint-Paul Island from 1928, employing Breton and Malagasy workers. In 1930 a small group of workers was left behind to guard the factory during the off-season, but the relief ship failed to arrive for months, and several of them died of scurvy and beriberi before the survivors were rescued at the end of the year. The tragedy, known in France as 'les Oubliés de Saint-Paul', contributed to the end of the venture.",
+    "ko": "1928년부터 생폴섬에서는 브르타뉴인과 마다가스카르인 노동자를 고용한 바닷가재 통조림 공장이 운영되었다. 1930년 비수기 동안 공장을 지키도록 소수의 노동자가 남겨졌으나 보급선이 몇 달 동안 오지 않았고, 그해 말 생존자들이 구조되기 전까지 여럿이 괴혈병과 각기병으로 숨졌다. 프랑스에서 ‘생폴의 잊힌 사람들’로 알려진 이 비극은 사업 중단의 한 원인이 되었다.",
+    "zh": "自1928年起，圣保罗岛上开办了一家龙虾罐头厂，雇用布列塔尼和马达加斯加工人。1930年，一小批工人被留下在淡季看守工厂，但补给船数月未至，在年底幸存者获救之前，其中数人死于坏血病和脚气病。这一在法国被称为“圣保罗岛被遗忘的人”的悲剧促成了该企业的终结。",
+    "ja": "1928年からサン・ポール島では、ブルターニュ人とマダガスカル人の労働者を雇ったイセエビの缶詰工場が操業していた。1930年、閑散期に工場を守るため少数の労働者が残されたが、補給船は何か月も来ず、年末に生存者が救出されるまでに数人が壊血病や脚気で死亡した。フランスで「サン・ポールの忘れられた人々」として知られるこの悲劇は、事業の終焉の一因となった。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Boundaries of Adélie Land defined",
+    "ko": "아델리랜드 경계 확정",
+    "zh": "确定阿德利地边界",
+    "ja": "アデリーランドの境界画定"
+   },
+   "description": {
+    "en": "A French decree of 1 April 1938 defined Adélie Land as the sector of Antarctica between 136° and 142° East, extending from the coast to the South Pole. The sector lies between parts of the Australian Antarctic Territory, with whose boundaries it was coordinated. France's claim was later frozen, though not renounced, by the Antarctic Treaty.",
+    "ko": "1938년 4월 1일 프랑스 법령은 아델리랜드를 동경 136도에서 142도 사이, 해안에서 남극점까지 이르는 남극 대륙의 부채꼴 지역으로 정했다. 이 지역은 오스트레일리아 남극 영토의 일부 사이에 있으며, 그 경계와 조율되었다. 프랑스의 영유권 주장은 뒤에 남극 조약으로 포기되지는 않았지만 동결되었다.",
+    "zh": "1938年4月1日，法国一项法令将阿德利地界定为南极洲东经136度至142度之间、从海岸延伸至南极点的扇形区域。该区域位于澳大利亚南极领地的两部分之间，其边界与之相协调。法国的主权主张后来依《南极条约》被冻结，但并未放弃。",
+    "ja": "1938年4月1日のフランスの政令は、アデリーランドを東経136度から142度までの、海岸から南極点に至る南極大陸の扇形区域と定めた。この区域はオーストラリア南極領土の一部に挟まれており、その境界と調整された。フランスの領有主張はのちに南極条約により放棄はされないまま凍結された。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Permanent scientific bases established",
+    "ko": "상주 과학 기지 건설",
+    "zh": "常驻科学考察站建立",
+    "ja": "常設科学基地の建設"
+   },
+   "description": {
+    "en": "France established year-round scientific stations: Martin-de-Viviès on Amsterdam Island (1949-50) and Port-aux-Français on Kerguelen (1950-51), beginning a continuous human presence.",
+    "ko": "프랑스가 암스테르담섬의 마르탱드비비에스(1949-50)와 케르겔렌의 포르토프랑세(1950-51)에 연중 상주 과학 기지를 세우면서 인간의 상시 체류가 시작되었다.",
+    "zh": "法国先后在阿姆斯特丹岛建立马丁·德维维埃站（1949-50年），在凯尔盖朗建立法兰西港站（1950-51年），常年科学考察由此开始，人类得以长期驻留。",
+    "ja": "フランスはアムステルダム島のマルタン・ド・ヴィヴィエス基地（1949-50年）とケルゲレンのポルトーフランセ基地（1950-51年）を設け、通年の科学観測と人の常駐が始まった。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "TAAF overseas territory created",
+    "ko": "프랑스령 남방·남극 지역(TAAF) 창설",
+    "zh": "法属南部和南极领地成立",
+    "ja": "フランス領南方・南極地域（TAAF）の創設"
+   },
+   "description": {
+    "en": "The French Southern and Antarctic Lands (TAAF) were constituted as a distinct overseas territory of France, uniting the sub-Antarctic islands and Adélie Land under one administration.",
+    "ko": "프랑스령 남방·남극 지역(TAAF)이 프랑스의 독자적 해외 영토로 창설되어, 아남극 도서들과 아델리랜드가 하나의 행정 체계로 통합되었다.",
+    "zh": "法属南部和南极领地（TAAF）作为法国单独的海外领地成立，将各亚南极群岛与阿德利地纳入统一管辖。",
+    "ja": "フランス領南方・南極地域（TAAF）がフランスの独立した海外領土として創設され、亜南極の島々とアデリーランドが単一の行政の下に統合された。"
+   }
+  },
+  {
+   "year": 1956,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Dumont d'Urville Station opens in Adélie Land",
+    "ko": "뒤몽 뒤르빌 기지",
+    "zh": "迪蒙·迪维尔站",
+    "ja": "デュモン・デュルヴィル基地"
+   },
+   "description": {
+    "en": "The Dumont d'Urville research station opened on the Adélie Land coast for the International Geophysical Year, anchoring French Antarctic science; its emperor penguin studies became renowned.",
+    "ko": "국제 지구물리 관측년을 앞두고 아델리랜드 해안에 뒤몽 뒤르빌 기지가 문을 열어 프랑스 남극 과학의 거점이 되었다. 이곳의 황제펭귄 연구는 세계적으로 유명해졌다.",
+    "zh": "为迎接国际地球物理年，迪蒙·迪维尔科学考察站在阿德利地沿岸落成，成为法国南极科学的基地，站区的帝企鹅研究闻名于世。",
+    "ja": "国際地球観測年に合わせてアデリーランド沿岸にデュモン・デュルヴィル基地が開設され、フランス南極科学の拠点となった。ここでのコウテイペンギン研究は世界的に知られる。"
+   }
+  },
+  {
+   "year": 1959,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "France signs the Antarctic Treaty",
+    "ko": "프랑스, 남극 조약 서명",
+    "zh": "法国签署《南极条约》",
+    "ja": "フランスが南極条約に署名"
+   },
+   "description": {
+    "en": "France was one of the twelve original signatories of the Antarctic Treaty, concluded in Washington on 1 December 1959. The treaty reserved Antarctica for peaceful purposes and scientific cooperation, banned military activity and froze existing territorial claims, including France's claim to Adélie Land. French research in Adélie Land has since been carried out within this framework.",
+    "ko": "프랑스는 1959년 12월 1일 워싱턴에서 체결된 남극 조약의 최초 서명국 12개국 가운데 하나였다. 조약은 남극을 평화적 목적과 과학 협력을 위해 남겨 두고 군사 활동을 금지했으며, 프랑스의 아델리랜드 영유권을 포함한 기존 영토 주장을 동결했다. 이후 아델리랜드에서의 프랑스 연구는 이 틀 안에서 이루어졌다.",
+    "zh": "法国是1959年12月1日在华盛顿缔结的《南极条约》的十二个原始签署国之一。该条约规定南极洲只用于和平目的和科学合作，禁止军事活动，并冻结了包括法国对阿德利地主张在内的现有领土主张。此后法国在阿德利地的科研均在这一框架内进行。",
+    "ja": "フランスは1959年12月1日にワシントンで締結された南極条約の原署名国12か国の一つであった。条約は南極を平和目的と科学協力のために確保し、軍事活動を禁じ、フランスのアデリーランドに対する主張を含む既存の領土主張を凍結した。以後、アデリーランドでのフランスの研究はこの枠組みの中で行われている。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Alfred Faure station opens on the Crozet Islands",
+    "ko": "크로제 제도의 알프레드 포르 기지 개설",
+    "zh": "克罗泽群岛阿尔弗雷德·福尔站建立",
+    "ja": "クロゼ諸島のアルフレッド・フォール基地開設"
+   },
+   "description": {
+    "en": "In 1964 France established the permanent Alfred Faure station on Possession Island in the Crozet archipelago, completing its network of year-round bases in the southern Indian Ocean. The station supports meteorology, geophysics and long-term studies of seabirds and marine mammals, including some of the world's largest king penguin colonies. Like the other bases, it is staffed by rotating teams of scientists and support personnel.",
+    "ko": "1964년 프랑스는 크로제 제도의 포세시옹섬에 상주 기지인 알프레드 포르 기지를 세워 남인도양의 연중 운영 기지망을 완성했다. 이 기지는 기상학, 지구물리학, 그리고 세계 최대급 킹펭귄 번식지를 포함한 바닷새와 해양 포유류에 대한 장기 연구를 지원한다. 다른 기지들과 마찬가지로 과학자와 지원 인력이 교대로 근무한다.",
+    "zh": "1964年，法国在克罗泽群岛的波塞西翁岛建立常驻的阿尔弗雷德·福尔站，完成了其在南印度洋的全年运行基地网络。该站支持气象、地球物理以及对海鸟和海洋哺乳动物的长期研究，其中包括世界上最大的王企鹅群落之一。与其他基地一样，站上由轮换的科学家和后勤人员驻守。",
+    "ja": "1964年、フランスはクロゼ諸島のポセシオン島に常設のアルフレッド・フォール基地を設け、南インド洋における通年基地網を完成させた。基地は気象学、地球物理学、そして世界最大級のオウサマペンギンの繁殖地を含む海鳥や海洋哺乳類の長期研究を支えている。他の基地と同様、科学者と支援要員が交代で勤務している。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Madrid Protocol protects Antarctica",
+    "ko": "남극을 보호하는 마드리드 의정서",
+    "zh": "保护南极的《马德里议定书》",
+    "ja": "南極を守るマドリード議定書"
+   },
+   "description": {
+    "en": "After France and Australia refused to sign a convention that would have regulated Antarctic mining, the Antarctic Treaty parties adopted the Protocol on Environmental Protection in Madrid in 1991. It designated Antarctica as a natural reserve devoted to peace and science and prohibited mineral resource activities other than scientific research. It entered into force in 1998 and governs activities in Adélie Land.",
+    "ko": "프랑스와 오스트레일리아가 남극 광물 채굴을 규율하려던 협약에 서명을 거부한 뒤, 남극 조약 당사국들은 1991년 마드리드에서 환경 보호 의정서를 채택했다. 의정서는 남극을 평화와 과학에 바쳐진 자연 보호 구역으로 지정하고, 과학 연구 이외의 광물 자원 활동을 금지했다. 1998년 발효된 이 의정서는 아델리랜드에서의 활동을 규율한다.",
+    "zh": "在法国和澳大利亚拒绝签署一项本将规范南极采矿的公约后，《南极条约》缔约方于1991年在马德里通过了《环境保护议定书》。议定书将南极洲指定为致力于和平与科学的自然保护区，禁止除科学研究以外的一切矿产资源活动。该议定书于1998年生效，规范着在阿德利地的各项活动。",
+    "ja": "フランスとオーストラリアが南極の鉱物採掘を規律する条約への署名を拒んだのち、南極条約の締約国は1991年にマドリードで環境保護議定書を採択した。議定書は南極を平和と科学に捧げられた自然保護区と定め、科学研究以外の鉱物資源活動を禁止した。1998年に発効し、アデリーランドでの活動を規律している。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "National nature reserve established",
+    "ko": "국립 자연보호구역 지정",
+    "zh": "设立国家自然保护区",
+    "ja": "国立自然保護区の設定"
+   },
+   "description": {
+    "en": "France created a national nature reserve over the sub-Antarctic islands, later extended into one of the world's largest marine protected areas, safeguarding vast seabird and marine mammal colonies.",
+    "ko": "프랑스가 아남극 도서들을 국립 자연보호구역으로 지정했고, 이후 세계 최대급 해양보호구역으로 확장해 방대한 바닷새와 해양 포유류 서식지를 보호하고 있다.",
+    "zh": "法国将亚南极群岛设为国家自然保护区，其后扩展为世界最大的海洋保护区之一，庇护着规模庞大的海鸟和海洋哺乳动物栖息地。",
+    "ja": "フランスは亜南極の島々を国立自然保護区に指定し、のちに世界最大級の海洋保護区へと拡大した。膨大な海鳥や海棲哺乳類の繁殖地が守られている。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Scattered Islands join the TAAF",
+    "ko": "산재 제도, TAAF에 편입",
+    "zh": "散岛并入法属南部和南极领地",
+    "ja": "散在諸島がTAAFに編入"
+   },
+   "description": {
+    "en": "A French law of February 2007 made the Scattered Islands (Îles Éparses) — Europa, Bassas da India, Juan de Nova and the Glorioso Islands in the Mozambique Channel, and Tromelin north of Réunion — the fifth district of the French Southern and Antarctic Lands. The small, uninhabited islands host weather stations and small military or gendarmerie detachments and protect large maritime zones. Madagascar claims several of them, Mauritius claims Tromelin and the Comoros claims the Glorioso Islands.",
+    "ko": "2007년 2월 프랑스 법률은 모잠비크 해협의 에우로파, 바사스다인디아, 후안데노바, 글로리오소 제도와 레위니옹 북쪽의 트로믈랭으로 이루어진 산재 제도(일레파르스)를 프랑스령 남방 및 남극 지역의 다섯 번째 지구로 삼았다. 이 작은 무인도들에는 기상 관측소와 소규모 군·헌병 파견대가 있으며, 넓은 해양 수역을 확보해 준다. 마다가스카르는 그중 여러 섬을, 모리셔스는 트로믈랭을, 코모로는 글로리오소 제도를 자국 영토라고 주장한다.",
+    "zh": "2007年2月，法国一项法律将散岛——莫桑比克海峡中的欧罗巴岛、印度礁、新胡安岛和格洛里厄斯群岛，以及留尼汪以北的特罗姆兰岛——设为法属南部和南极领地的第五个区。这些无人小岛设有气象站和小规模军队或宪兵分遣队，并确保了大片海域。马达加斯加对其中数岛提出主权要求，毛里求斯主张特罗姆兰岛，科摩罗则主张格洛里厄斯群岛。",
+    "ja": "2007年2月のフランスの法律は、モザンビーク海峡のエウロパ島、バサス・ダ・インディア、ジュアン・デ・ノヴァ島、グロリオソ諸島とレユニオン北方のトロムラン島からなる散在諸島（イル・エパルス）を、フランス領南方・南極地域の第5の地区とした。これらの小さな無人島には気象観測所と小規模な軍・憲兵の派遣隊が置かれ、広大な海域を確保している。マダガスカルはそのうちいくつかの島を、モーリシャスはトロムラン島を、コモロはグロリオソ諸島の領有を主張している。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": null,
+   "importance": 1,
+   "category": "culture",
+   "title": {
+    "en": "French Austral Lands and Seas join UNESCO World Heritage",
+    "ko": "유네스코 세계유산 등재",
+    "zh": "列入联合国教科文组织世界遗产",
+    "ja": "ユネスコ世界遺産への登録"
+   },
+   "description": {
+    "en": "The 'French Austral Lands and Seas' — Crozet, Kerguelen, Saint-Paul and Amsterdam — were inscribed as a UNESCO World Heritage site, one of the largest ever listed, for exceptional wildlife.",
+    "ko": "크로제·케르겔렌·생폴·암스테르담을 아우르는 '프랑스령 남방의 땅과 바다'가 뛰어난 야생 생태계를 인정받아 유네스코 세계유산에 등재되었다. 등재 유산 중 최대급 규모다.",
+    "zh": "涵盖克罗泽、凯尔盖朗、圣保罗和阿姆斯特丹的“法属南方陆地和海洋”因其卓越的野生生态被列入世界遗产名录，是有史以来面积最大的世界遗产之一。",
+    "ja": "クロゼ、ケルゲレン、サン・ポール、アムステルダムからなる「フランス領南方の陸と海」が、卓越した野生生物の生態を評価されユネスコ世界遺産に登録された。登録遺産としては世界最大級である。"
+   }
+  }
+ ]
+}

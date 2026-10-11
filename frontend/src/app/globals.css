@@ -26,6 +26,10 @@
   --globe-graticule: rgba(27, 37, 64, 0.055);
   --globe-marker: #3c66e4;
   --globe-atmosphere: rgba(76, 118, 235, 0.20);
+  /* historical mode (time slider before the border data ends) */
+  --globe-land: #f8f8f5; /* land outside any recorded polity */
+  --globe-polity-outline: rgba(27, 37, 64, 0.32);
+  --globe-focus: rgba(27, 37, 64, 0.85); /* selected modern country over historical fills */
 
   /* Country palette — 6 slots, CVD-validated (dataviz six checks, light surface).
      Neighboring countries never share a slot (greedy graph coloring). */

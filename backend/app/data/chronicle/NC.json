@@ -1,0 +1,934 @@
+{
+ "iso": "NC",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -1101,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Islands before human settlement",
+    "ko": "인류 정착 이전의 섬들",
+    "zh": "人类定居之前的岛屿",
+    "ja": "人類定住以前の島々"
+   },
+   "summary": {
+    "en": "New Caledonia's main island, Grande Terre, is an ancient fragment of continental crust that split from Gondwana, and with the Loyalty Islands and the Isle of Pines it lies in Remote Oceania. Before about 3,000 years ago the islands had no human inhabitants, and their unique forests, birds such as the giant ground-dwelling Sylviornis, and reefs evolved in isolation.",
+    "ko": "뉴칼레도니아의 본섬 그랑드테르는 곤드와나 대륙에서 떨어져 나온 오래된 대륙 지각의 조각이며, 로열티 제도와 일드팽과 함께 원(遠)오세아니아에 자리한다. 약 3천 년 전까지 이 섬들에는 사람이 살지 않았고, 독특한 숲과 거대한 지상성 조류 실비오르니스 같은 새들, 산호초가 고립된 채 진화했다.",
+    "zh": "新喀里多尼亚主岛格朗德特尔岛是从冈瓦纳古陆分离出来的古老大陆地壳碎片，与洛亚蒂群岛和松树岛一起位于“远大洋洲”。约三千年前，这些岛屿尚无人类居住，独特的森林、巨型地栖鸟类西尔维鸟等鸟类以及珊瑚礁在隔绝中演化。",
+    "ja": "ニューカレドニアの本島グランドテールはゴンドワナ大陸から分かれた古い大陸地殻の断片で、ロイヤルティ諸島やイル・デ・パンとともにリモート・オセアニアに位置する。約3000年前まで島々に人は住んでおらず、独特の森や巨大な地上性の鳥シルビオルニスなどの鳥類、サンゴ礁は孤立の中で進化した。"
+   }
+  },
+  {
+   "from": -1100,
+   "to": -200,
+   "kind": "culture",
+   "qid": "Q1021436",
+   "polity": null,
+   "name": {
+    "en": "Lapita culture",
+    "ko": "라피타 문화",
+    "zh": "拉皮塔文化",
+    "ja": "ラピタ文化"
+   },
+   "summary": {
+    "en": "Austronesian-speaking seafarers of the Lapita culture reached New Caledonia around 1100–1000 BC, bringing outrigger canoes, domestic animals, crops and finely dentate-stamped pottery. The culture takes its name from Site 13 at Lapita on the Foué peninsula near Koné, where such pottery was excavated in 1952. These settlers are the principal ancestors of the Kanak people.",
+    "ko": "오스트로네시아어를 쓰는 라피타 문화의 항해민이 기원전 1100~1000년경 뉴칼레도니아에 도착해 아우트리거 카누와 가축, 작물, 정교한 치문(齒文) 압인 토기를 들여왔다. 이 문화의 이름은 1952년 이러한 토기가 발굴된 코네 인근 푸에 반도의 라피타 제13유적에서 유래했다. 이 정착민들은 카나크족의 주요 조상이다.",
+    "zh": "约公元前1100至前1000年，说南岛语的拉皮塔文化航海者抵达新喀里多尼亚，带来舷外浮杆独木舟、家畜、作物和精美的齿状压印陶器。该文化得名于科内附近富埃半岛上的拉皮塔第13号遗址，1952年人们在此发掘出这种陶器。这些定居者是卡纳克人的主要祖先。",
+    "ja": "紀元前1100〜1000年頃、オーストロネシア語を話すラピタ文化の航海民がニューカレドニアに到達し、アウトリガーカヌーや家畜、作物、精巧な鋸歯印文土器をもたらした。この文化の名は、1952年にそうした土器が発掘されたコネ近郊フエ半島のラピタ第13遺跡に由来する。これらの入植者はカナックの人々の主な祖先である。"
+   }
+  },
+  {
+   "from": -500,
+   "to": 1774,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Kanak customary societies",
+    "ko": "카나크 전통 사회",
+    "zh": "卡纳克传统社会",
+    "ja": "カナックの慣習社会"
+   },
+   "summary": {
+    "en": "After the Lapita period, local pottery styles and some thirty distinct Kanak languages developed across Grande Terre and the islands. Society was organized into clans and chiefdoms centered on the great house (grande case), with irrigated taro terraces and yam cultivation at the heart of economic and ceremonial life. Exchange networks linked the main island with the Loyalty Islands, where Polynesian voyagers also left their mark.",
+    "ko": "라피타 시기 이후 그랑드테르와 여러 섬에서는 지역 고유의 토기 양식과 약 30개의 카나크 언어가 발달했다. 사회는 '큰 집(그랑드 카즈)'을 중심으로 한 씨족과 추장국으로 조직되었으며, 관개식 타로 계단밭과 얌 재배가 경제와 의례 생활의 중심이었다. 교환망이 본섬과 로열티 제도를 이었고, 로열티 제도에는 폴리네시아 항해민의 흔적도 남았다.",
+    "zh": "拉皮塔时期之后，格朗德特尔岛和各岛发展出地方陶器风格以及约三十种不同的卡纳克语言。社会以“大屋”为中心组织成氏族和酋邦，灌溉芋头梯田和山药种植是经济与礼仪生活的核心。交换网络将主岛与洛亚蒂群岛相连，波利尼西亚航海者也在洛亚蒂群岛留下了印记。",
+    "ja": "ラピタ期の後、グランドテールと島々では地域独自の土器様式と約30のカナック諸語が発達した。社会は「大きな家（グランド・カーズ）」を中心とする氏族と首長制社会に組織され、灌漑式のタロイモ段々畑とヤムイモ栽培が経済と儀礼生活の中心であった。交換網が本島とロイヤルティ諸島を結び、ロイヤルティ諸島にはポリネシアの航海民も足跡を残した。"
+   }
+  },
+  {
+   "from": 1774,
+   "to": 1853,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "European contact, sandalwood and missions",
+    "ko": "유럽인과의 접촉, 백단향 무역과 선교",
+    "zh": "欧洲接触、檀香木贸易与传教",
+    "ja": "ヨーロッパとの接触、白檀交易と伝道"
+   },
+   "summary": {
+    "en": "James Cook sighted and named New Caledonia in 1774, and French expeditions followed. From the 1840s sandalwood traders, whalers and labor recruiters arrived, while Protestant missionaries of the London Missionary Society worked in the Loyalty Islands and French Marist Catholics settled at Balade on Grande Terre. Introduced diseases began a long and severe decline of the Kanak population.",
+    "ko": "1774년 제임스 쿡이 뉴칼레도니아를 발견하고 이름을 붙였으며, 이어 프랑스 탐험대들이 찾아왔다. 1840년대부터 백단향 상인과 포경선원, 노동자 모집업자가 들어왔고, 런던선교회의 개신교 선교사들은 로열티 제도에서, 프랑스 마리스트회 가톨릭 선교사들은 그랑드테르의 발라드에서 활동했다. 외래 질병은 카나크 인구의 길고 심각한 감소를 불러왔다.",
+    "zh": "1774年，詹姆斯·库克望见并命名了新喀里多尼亚，随后法国探险队接踵而至。19世纪40年代起，檀香木商人、捕鲸者和劳工招募者到来，伦敦传道会的新教传教士在洛亚蒂群岛活动，法国圣母会天主教传教士则在格朗德特尔岛的巴拉德立足。外来疾病使卡纳克人口开始长期大幅减少。",
+    "ja": "1774年にジェームズ・クックがニューカレドニアを視認して命名し、続いてフランスの探検隊が訪れた。1840年代からは白檀商人や捕鯨者、労働者の募集業者がやって来て、ロンドン伝道協会のプロテスタント宣教師はロイヤルティ諸島で、フランスのマリスト会カトリック宣教師はグランドテールのバラードで活動した。持ち込まれた病気により、カナックの人口は長く深刻な減少に見舞われた。"
+   }
+  },
+  {
+   "from": 1853,
+   "to": 1945,
+   "kind": "colonial",
+   "qid": "Q33788",
+   "polity": "New Caledonia",
+   "name": {
+    "en": "French colony of New Caledonia",
+    "ko": "프랑스령 뉴칼레도니아 식민지",
+    "zh": "法属新喀里多尼亚殖民地",
+    "ja": "フランス植民地ニューカレドニア"
+   },
+   "summary": {
+    "en": "France annexed New Caledonia in 1853 and founded Port-de-France, later Nouméa, as its capital. The colony combined a penal settlement, free European settlers and nickel mining, while Kanak clans were pushed onto reserves and, from 1887, governed under the restrictive native code (indigénat). Kanak resistance, notably the revolts of 1878 and 1917, was crushed, and the Kanak population fell sharply.",
+    "ko": "프랑스는 1853년 뉴칼레도니아를 병합하고 훗날 누메아가 된 포르드프랑스를 수도로 건설했다. 식민지는 유형지와 유럽인 자유 이민, 니켈 광업이 결합된 곳이었고, 카나크 씨족들은 보호구역으로 밀려났으며 1887년부터는 억압적인 원주민 법령(앵디제나)의 지배를 받았다. 1878년과 1917년의 봉기를 비롯한 카나크의 저항은 진압되었고 카나크 인구는 급감했다.",
+    "zh": "法国于1853年吞并新喀里多尼亚，并建立法兰西港（后称努美阿）作为首府。殖民地集流放地、欧洲自由移民和镍矿开采于一体，卡纳克氏族被驱入保留地，1887年起又受严苛的“土著法典”管辖。以1878年和1917年起义为代表的卡纳克反抗遭到镇压，卡纳克人口急剧下降。",
+    "ja": "フランスは1853年にニューカレドニアを併合し、のちのヌメアとなるポール・ド・フランスを首府として建設した。植民地は流刑地とヨーロッパ系自由移民、ニッケル採掘が結びついた場であり、カナックの氏族は保留地へ追いやられ、1887年からは抑圧的な原住民法（アンディジェナ）の下に置かれた。1878年と1917年の蜂起をはじめとするカナックの抵抗は鎮圧され、カナックの人口は急減した。"
+   }
+  },
+  {
+   "from": 1864,
+   "to": 1897,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Penal colony (the bagne)",
+    "ko": "유형 식민지(바뉴)",
+    "zh": "流放殖民地",
+    "ja": "流刑植民地（バーニュ）"
+   },
+   "summary": {
+    "en": "From 1864 France shipped convicts to New Caledonia, and after 1872 thousands of political deportees from the Paris Commune and the Kabyle uprising in Algeria followed. Convict labor built roads and public works, and many freed convicts stayed as settlers on land taken from Kanak clans. Transportation of convicts ended in 1897, though the penal administration lingered for decades.",
+    "ko": "1864년부터 프랑스는 뉴칼레도니아로 죄수를 이송했고, 1872년 이후에는 파리 코뮌과 알제리 카빌리 봉기의 정치범 수천 명이 뒤따랐다. 죄수들의 노동으로 도로와 공공시설이 건설되었으며, 석방된 많은 죄수가 카나크 씨족에게서 빼앗은 땅에 정착민으로 남았다. 죄수 이송은 1897년에 끝났지만 유형 행정은 이후 수십 년간 이어졌다.",
+    "zh": "1864年起，法国向新喀里多尼亚押送苦役犯，1872年后又有数千名巴黎公社和阿尔及利亚卡比利亚起义的政治流放者被送来。囚犯劳动修建了道路和公共工程，许多获释囚犯在从卡纳克氏族手中夺来的土地上定居。苦役犯押送于1897年停止，但流放管理机构又延续了数十年。",
+    "ja": "1864年からフランスは囚人をニューカレドニアへ送り込み、1872年以降はパリ・コミューンやアルジェリアのカビリア蜂起の政治流刑囚数千人が続いた。囚人労働で道路や公共施設が建設され、釈放された多くの囚人はカナックの氏族から奪われた土地に入植者として残った。囚人の移送は1897年に終わったが、流刑行政はその後も数十年続いた。"
+   }
+  },
+  {
+   "from": 1946,
+   "to": 1987,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "French overseas territory",
+    "ko": "프랑스 해외 영토",
+    "zh": "法国海外领地",
+    "ja": "フランス海外領土"
+   },
+   "summary": {
+    "en": "In 1946 New Caledonia became an overseas territory of France, the native code was abolished and Kanaks gained freedom of movement and, by 1957, universal suffrage. A nickel boom around 1970 drew migrants from France, Wallis and Futuna and elsewhere, while Paris curtailed local autonomy. Rising Kanak nationalism culminated in the violent confrontations known as the Événements of 1984–1988.",
+    "ko": "1946년 뉴칼레도니아는 프랑스의 해외 영토가 되었고, 원주민 법령이 폐지되어 카나크인은 이동의 자유를 얻었으며 1957년에는 보통선거권을 갖게 되었다. 1970년 전후의 니켈 붐으로 프랑스 본토와 왈리스 퓌튀나 등지에서 이주민이 몰려왔고, 파리는 현지 자치권을 축소했다. 고조된 카나크 민족주의는 1984~1988년 '사건들(레제베느망)'이라 불린 폭력적 대립으로 치달았다.",
+    "zh": "1946年，新喀里多尼亚成为法国海外领地，“土著法典”被废除，卡纳克人获得迁徙自由，并于1957年获得普选权。1970年前后的镍矿繁荣吸引了来自法国本土、瓦利斯和富图纳等地的移民，而巴黎则削减了地方自治权。日益高涨的卡纳克民族主义最终演变为1984至1988年被称为“事件”的暴力冲突。",
+    "ja": "1946年にニューカレドニアはフランスの海外領土となり、原住民法が廃止されてカナックは移動の自由を得、1957年には普通選挙権を獲得した。1970年前後のニッケル・ブームでフランス本国やウォリス・フツナなどから移民が流入する一方、パリは現地の自治を縮小した。高まるカナック・ナショナリズムは、1984〜1988年の「事件（レ・ゼヴェヌマン）」と呼ばれる暴力的対立に至った。"
+   }
+  },
+  {
+   "from": 1958,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q200686",
+   "polity": "French Fifth Republic",
+   "name": {
+    "en": "Within the French Fifth Republic",
+    "ko": "프랑스 제5공화국 체제",
+    "zh": "法兰西第五共和国治下",
+    "ja": "フランス第五共和政下"
+   },
+   "summary": {
+    "en": "Since 1958 New Caledonia has belonged to France under the Fifth Republic, first as an overseas territory and, since 1999, as a sui generis collectivity with its own Congress, government and laws of the country. France retains defense, justice, public order and currency, while the territory's final status has been debated in successive accords and referendums.",
+    "ko": "1958년 이후 뉴칼레도니아는 제5공화국 체제의 프랑스에 속해 왔으며, 처음에는 해외 영토로, 1999년부터는 자체 의회(콩그레)와 정부, '지방법'을 가진 특별 공동체로 존재해 왔다. 국방·사법·치안·통화는 프랑스가 보유하며, 영토의 최종 지위는 잇따른 협정과 주민투표에서 논쟁의 대상이 되어 왔다.",
+    "zh": "自1958年以来，新喀里多尼亚在第五共和国体制下隶属法国，起初为海外领地，1999年起成为拥有自己的议会、政府和“地方法律”的特殊地位集体。国防、司法、治安和货币仍由法国掌握，而该地的最终地位在历次协议和公投中一直争议不断。",
+    "ja": "1958年以降、ニューカレドニアは第五共和政下のフランスに属し、当初は海外領土として、1999年からは独自の議会（コングレ）と政府、「地方法」を持つ特別自治体として存在してきた。防衛・司法・治安・通貨はフランスが保持し、領土の最終的な地位は相次ぐ協定と住民投票で争われてきた。"
+   }
+  },
+  {
+   "from": 1988,
+   "to": 2026,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Era of the Matignon and Nouméa Accords",
+    "ko": "마티뇽·누메아 협정의 시대",
+    "zh": "马提尼翁协议与努美阿协议时代",
+    "ja": "マティニョン合意・ヌメア合意の時代"
+   },
+   "summary": {
+    "en": "The 1988 Matignon Accords ended the Événements by creating three provinces and promising a self-determination vote, and the 1998 Nouméa Accord transferred powers gradually and recognized Kanak identity and a shared destiny. Three referendums in 2018, 2020 and 2021 rejected independence, the last boycotted by the independence movement. Disputes over the electoral roll led to deadly unrest in 2024 and renewed negotiations over the territory's future.",
+    "ko": "1988년 마티뇽 협정은 세 개의 주를 설치하고 자결 투표를 약속함으로써 '사건들'을 종식시켰고, 1998년 누메아 협정은 권한의 점진적 이양과 카나크 정체성, '공동의 운명'을 인정했다. 2018년, 2020년, 2021년의 세 차례 주민투표는 독립을 부결했으며, 마지막 투표는 독립 운동 측이 보이콧했다. 선거인 명부를 둘러싼 갈등은 2024년 유혈 소요로 이어졌고, 영토의 미래를 둘러싼 협상이 다시 시작되었다.",
+    "zh": "1988年的马提尼翁协议设立三个省并承诺举行自决投票，结束了“事件”时期；1998年的努美阿协议规定逐步移交权力，承认卡纳克身份与“共同命运”。2018年、2020年和2021年的三次公投均否决独立，最后一次遭独立派抵制。围绕选民名册的争议在2024年引发致命骚乱，各方重新就该地未来展开谈判。",
+    "ja": "1988年のマティニョン合意は三つの州を設け自決投票を約束して「事件」を終わらせ、1998年のヌメア合意は権限の段階的移譲とカナックのアイデンティティ、「共通の運命」を認めた。2018年、2020年、2021年の3回の住民投票はいずれも独立を否決し、最後の投票は独立派がボイコットした。選挙人名簿をめぐる対立は2024年に死者を出す騒乱を招き、領土の将来をめぐる交渉が改めて始まった。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -1050,
+   "qid": "Q1021436",
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Lapita settlers reach New Caledonia",
+    "ko": "라피타인의 뉴칼레도니아 정착",
+    "zh": "拉皮塔人定居新喀里多尼亚",
+    "ja": "ラピタ人のニューカレドニア定住"
+   },
+   "description": {
+    "en": "Around 1100–1000 BC Austronesian voyagers of the Lapita culture, sailing east from the Bismarck Archipelago, settled the coasts of Grande Terre and the Loyalty Islands. They brought dentate-stamped pottery, pigs, chickens and crops such as taro and yams, and founded the first human communities on islands that had never been inhabited. They are the principal ancestors of the Kanak people.",
+    "ko": "기원전 1100~1000년경 비스마르크 제도에서 동쪽으로 항해해 온 라피타 문화의 오스트로네시아 항해민이 그랑드테르와 로열티 제도의 해안에 정착했다. 이들은 치문 압인 토기와 돼지, 닭, 타로와 얌 같은 작물을 들여와 한 번도 사람이 살지 않았던 섬에 최초의 공동체를 세웠다. 이들은 카나크족의 주요 조상이다.",
+    "zh": "约公元前1100至前1000年，从俾斯麦群岛向东航行的拉皮塔文化南岛语族航海者定居于格朗德特尔岛和洛亚蒂群岛沿岸。他们带来齿状压印陶器、猪、鸡以及芋头、山药等作物，在从未有人居住的岛屿上建立了最早的人类社区。他们是卡纳克人的主要祖先。",
+    "ja": "紀元前1100〜1000年頃、ビスマルク諸島から東へ航海してきたラピタ文化のオーストロネシア系航海民が、グランドテールとロイヤルティ諸島の沿岸に定住した。彼らは鋸歯印文土器やブタ、ニワトリ、タロイモやヤムイモなどの作物をもたらし、それまで無人だった島々に最初の共同体を築いた。彼らはカナックの人々の主な祖先である。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Loss of the islands' unique fauna",
+    "ko": "섬 고유 동물상의 소멸",
+    "zh": "岛屿特有动物群的消失",
+    "ja": "島固有の動物相の消失"
+   },
+   "description": {
+    "en": "In the centuries after human arrival, several of New Caledonia's distinctive animals disappeared, including the large flightless bird Sylviornis and a land crocodilian, whose bones have been found in cave and dune sites such as those of the Pindai peninsula. Hunting, introduced animals and habitat change by the first settlers are thought to have contributed, though the exact timing remains debated.",
+    "ko": "인류가 도착한 뒤 수 세기 동안 뉴칼레도니아 고유의 동물 여러 종이 사라졌는데, 그중에는 날지 못하는 큰 새 실비오르니스와 육상 악어류가 있었다. 이들의 뼈는 핀다이 반도 등지의 동굴과 사구 유적에서 발견되었다. 초기 정착민의 사냥과 외래 동물, 서식지 변화가 원인으로 여겨지지만 정확한 시기는 여전히 논쟁 중이다.",
+    "zh": "人类到来后的数百年间，新喀里多尼亚多种特有动物相继消失，包括大型不会飞的西尔维鸟和一种陆生鳄类，其骨骼见于平代半岛等地的洞穴和沙丘遗址。一般认为最早定居者的狩猎、外来动物和栖息地变化是原因之一，但确切时间仍有争议。",
+    "ja": "人類到来後の数世紀の間に、飛べない大型の鳥シルビオルニスや陸生のワニ類など、ニューカレドニア固有の動物がいくつも姿を消した。その骨はピンダイ半島などの洞窟や砂丘の遺跡から見つかっている。最初の入植者による狩猟や持ち込まれた動物、生息環境の変化が関わったと考えられるが、正確な時期はなお議論がある。"
+   }
+  },
+  {
+   "year": -200,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Regional pottery traditions replace Lapita",
+    "ko": "라피타를 잇는 지역 토기 전통",
+    "zh": "地方陶器传统取代拉皮塔风格",
+    "ja": "ラピタに代わる地域土器の伝統"
+   },
+   "description": {
+    "en": "By the late first millennium BC the decorated Lapita style had given way on Grande Terre to local wares such as Podtanéan paddle-impressed pottery and, later, incised and appliqué traditions. Archaeologists see in this shift the emergence of distinctly Kanak cultures, as communities settled inland valleys and diversified their languages and customs.",
+    "ko": "기원전 1천년기 말에 이르러 그랑드테르에서는 장식된 라피타 양식이 포드타네안 타날문 토기, 그리고 이후의 새김무늬·덧붙임무늬 토기 같은 지역 토기로 대체되었다. 고고학자들은 이 변화에서 공동체가 내륙 골짜기에 정착하고 언어와 관습을 분화시켜 간 고유한 카나크 문화의 출현을 본다.",
+    "zh": "到公元前一千纪末，格朗德特尔岛上装饰繁复的拉皮塔风格已让位于波德塔内拍印陶等地方陶器，后来又出现刻划纹和附加堆纹传统。考古学家认为，这一转变标志着独特的卡纳克文化的形成，各社区逐渐定居内陆河谷，语言和习俗也日益分化。",
+    "ja": "紀元前1千年紀末までに、グランドテールでは装飾的なラピタ様式に代わり、ポドタネアン式の叩き目土器や、のちの刻線文・貼付文の伝統などの地域土器が現れた。考古学者はこの変化に、共同体が内陸の谷に定住し言語や慣習を分化させていった、カナック独自の文化の成立を見ている。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Taro terraces and yam cultivation",
+    "ko": "타로 계단밭과 얌 재배",
+    "zh": "芋头梯田与山药种植",
+    "ja": "タロイモの段々畑とヤムイモ栽培"
+   },
+   "description": {
+    "en": "Over the centuries before European contact, Kanak communities sculpted hillsides on Grande Terre into extensive irrigated terraces for taro and built long mounds for growing yams. The yam, ritually tied to chiefs and the annual calendar, and taro became pillars of customary exchange, and the remains of abandoned terraces still mark valleys whose populations later collapsed. Their precise chronology is uncertain.",
+    "ko": "유럽인과 접촉하기 전 수 세기에 걸쳐 카나크 공동체는 그랑드테르의 산비탈을 타로를 위한 대규모 관개 계단밭으로 다듬고, 얌을 기르기 위한 긴 둔덕을 쌓았다. 추장 및 연간 의례력과 결부된 얌과 타로는 관습적 교환의 기둥이 되었으며, 버려진 계단밭의 흔적은 훗날 인구가 급감한 골짜기에 지금도 남아 있다. 정확한 연대는 불확실하다.",
+    "zh": "在与欧洲接触前的数百年间，卡纳克社区把格朗德特尔岛的山坡修整成大片灌溉芋头梯田，并筑起长垄种植山药。与酋长和年度仪式历法相联系的山药以及芋头成为传统交换的支柱，废弃梯田的遗迹至今仍分布在后来人口锐减的河谷中。其确切年代尚不确定。",
+    "ja": "ヨーロッパ人との接触以前の数世紀にわたり、カナックの共同体はグランドテールの山腹を大規模な灌漑式タロイモ段々畑に造成し、ヤムイモを育てる長い盛り土を築いた。首長や年間の儀礼暦と結びついたヤムイモとタロイモは慣習的交換の柱となり、放棄された段々畑の跡はのちに人口が激減した谷に今も残る。正確な年代は不確かである。"
+   }
+  },
+  {
+   "year": 1700,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Polynesian settlers on Ouvéa",
+    "ko": "우베아섬의 폴리네시아계 정착민",
+    "zh": "波利尼西亚人定居乌韦阿岛",
+    "ja": "ウヴェア島のポリネシア系入植者"
+   },
+   "description": {
+    "en": "According to oral tradition, voyagers from Wallis Island ('Uvea) settled on Ouvéa in the Loyalty Islands some generations before European contact; the dating is uncertain. Their descendants speak Fagauvea, a Polynesian language that sits alongside the Kanak language Iaai on the same atoll, reflecting long-standing contacts between Melanesia and western Polynesia.",
+    "ko": "구전에 따르면, 유럽인과 접촉하기 몇 세대 전에 월리스섬('우베아)의 항해민이 로열티 제도의 우베아섬에 정착했다고 하나 연대는 불확실하다. 그들의 후손은 폴리네시아어인 파가우베아어를 쓰며, 이 언어는 같은 환초에서 카나크어인 이아이어와 공존해 멜라네시아와 서폴리네시아 사이의 오랜 접촉을 보여 준다.",
+    "zh": "据口述传统，在与欧洲接触前的若干代，来自瓦利斯岛（乌韦阿）的航海者定居于洛亚蒂群岛的乌韦阿岛，但年代并不确定。他们的后裔说法加乌韦阿语，这种波利尼西亚语与卡纳克语言伊艾语在同一环礁上并存，反映了美拉尼西亚与西波利尼西亚之间的长期交往。",
+    "ja": "口承伝統によれば、ヨーロッパ人との接触の数世代前にウォリス島（ウヴェア）の航海民がロイヤルティ諸島のウヴェア島に定住したとされるが、年代は不確かである。その子孫はポリネシア系のファガウヴェア語を話し、この言語は同じ環礁でカナック語のイアイ語と並存しており、メラネシアと西ポリネシアの長い交流を示している。"
+   }
+  },
+  {
+   "year": 1774,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "James Cook sights and names New Caledonia",
+    "ko": "제임스 쿡의 뉴칼레도니아 도달",
+    "zh": "库克船长发现并命名新喀里多尼亚",
+    "ja": "ジェームズ・クックによる発見と命名"
+   },
+   "description": {
+    "en": "During his second Pacific voyage, the British navigator James Cook became the first European to sight Grande Terre in September 1774 and landed at Balade on the northeast coast, where he was received peacefully. He named the island New Caledonia, after the Latin name for Scotland, and also named the Isle of Pines before sailing on.",
+    "ko": "제2차 태평양 항해 중이던 영국 항해가 제임스 쿡은 1774년 9월 유럽인 최초로 그랑드테르를 발견하고 북동 해안의 발라드에 상륙해 평화롭게 환대를 받았다. 그는 스코틀랜드의 라틴어 이름을 따서 이 섬을 '뉴칼레도니아'라고 명명했고, 떠나기 전 일드팽(소나무섬)에도 이름을 붙였다.",
+    "zh": "1774年9月，英国航海家詹姆斯·库克在第二次太平洋航行中成为首位望见格朗德特尔岛的欧洲人，并在东北海岸的巴拉德登陆，受到和平接待。他以苏格兰的拉丁语名称将该岛命名为“新喀里多尼亚”，离开前还命名了松树岛。",
+    "ja": "第2回太平洋航海中のイギリスの航海者ジェームズ・クックは、1774年9月にヨーロッパ人として初めてグランドテールを視認し、北東岸のバラードに上陸して平和的に迎えられた。彼はスコットランドのラテン語名にちなんでこの島を「ニューカレドニア」と名付け、去る前にイル・デ・パン（松の島）にも名を与えた。"
+   }
+  },
+  {
+   "year": 1793,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "D'Entrecasteaux expedition at Balade",
+    "ko": "당트르카스토 탐험대의 발라드 체류",
+    "zh": "当特尔卡斯托探险队停泊巴拉德",
+    "ja": "ダントルカストー探検隊のバラード寄港"
+   },
+   "description": {
+    "en": "In 1793 the French expedition of Bruni d'Entrecasteaux, searching for the lost navigator La Pérouse, anchored at Balade for several weeks. Its naturalists collected plants and recorded observations of Kanak life, but relations with local people grew tense amid food shortages, and the ships left without finding any trace of La Pérouse.",
+    "ko": "1793년 실종된 항해가 라페루즈를 찾던 브루니 당트르카스토의 프랑스 탐험대가 몇 주 동안 발라드에 정박했다. 박물학자들은 식물을 채집하고 카나크인의 생활을 기록했으나, 식량 부족 속에 주민과의 관계가 긴장되었고, 함대는 라페루즈의 흔적을 찾지 못한 채 떠났다.",
+    "zh": "1793年，为寻找失踪航海家拉彼鲁兹，布吕尼·当特尔卡斯托率领的法国探险队在巴拉德停泊数周。随行博物学家采集植物并记录卡纳克人的生活，但在粮食短缺中与当地人的关系趋于紧张，船队最终未找到拉彼鲁兹的任何踪迹便离去。",
+    "ja": "1793年、行方不明の航海者ラ・ペルーズを捜索していたブルニ・ダントルカストーのフランス探検隊がバラードに数週間停泊した。博物学者たちは植物を採集しカナックの暮らしを記録したが、食料不足の中で住民との関係は緊張し、艦隊はラ・ペルーズの痕跡を見つけられないまま去った。"
+   }
+  },
+  {
+   "year": 1841,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Sandalwood trade and Protestant teachers",
+    "ko": "백단향 무역과 개신교 전도사",
+    "zh": "檀香木贸易与新教传道员",
+    "ja": "白檀交易とプロテスタントの伝道者"
+   },
+   "description": {
+    "en": "From the early 1840s sandalwood traders exploited the stands of the Isle of Pines and the Loyalty Islands, often in violent encounters with local people, and whalers called along the coasts. At the same time the London Missionary Society began placing Polynesian teachers in the Loyalty Islands, laying the foundation of the strong Protestant presence there.",
+    "ko": "1840년대 초부터 백단향 상인들이 일드팽과 로열티 제도의 백단향 숲을 채취했는데, 주민과 폭력적으로 충돌하는 일이 잦았고 포경선도 해안에 기항했다. 같은 시기 런던선교회는 로열티 제도에 폴리네시아인 전도사를 배치하기 시작해 이 지역의 강한 개신교 전통의 토대를 놓았다.",
+    "zh": "19世纪40年代初起，檀香木商人开采松树岛和洛亚蒂群岛的檀香林，常与当地人发生暴力冲突，捕鲸船也在沿岸停靠。与此同时，伦敦传道会开始向洛亚蒂群岛派驻波利尼西亚传道员，奠定了当地浓厚新教传统的基础。",
+    "ja": "1840年代初めから白檀商人がイル・デ・パンやロイヤルティ諸島の白檀林を伐採し、住民と暴力的に衝突することも多く、捕鯨船も沿岸に寄港した。同じ頃、ロンドン伝道協会はロイヤルティ諸島にポリネシア人の伝道者を置き始め、この地域の強いプロテスタントの伝統の基礎を築いた。"
+   }
+  },
+  {
+   "year": 1843,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Marist mission founded at Balade",
+    "ko": "발라드에 마리스트회 선교회 설립",
+    "zh": "圣母会在巴拉德建立传教站",
+    "ja": "バラードにマリスト会伝道所設立"
+   },
+   "description": {
+    "en": "In December 1843 French Marist missionaries led by Bishop Guillaume Douarre landed at Balade and founded the first Catholic mission on Grande Terre. The mission struggled amid famine, disease and conflict and was briefly abandoned in 1847, but it returned and became a channel for growing French influence that prepared the way for annexation.",
+    "ko": "1843년 12월 기욤 두아르 주교가 이끄는 프랑스 마리스트회 선교사들이 발라드에 상륙해 그랑드테르 최초의 가톨릭 선교회를 세웠다. 선교회는 기근과 질병, 분쟁 속에 고전하다 1847년 잠시 철수했지만 다시 돌아왔고, 프랑스의 영향력을 키워 병합의 길을 닦는 통로가 되었다.",
+    "zh": "1843年12月，由纪尧姆·杜阿尔主教率领的法国圣母会传教士在巴拉德登陆，建立了格朗德特尔岛上第一个天主教传教站。传教站在饥荒、疾病和冲突中艰难维持，1847年一度撤离，后又重返，成为法国影响力扩张、为吞并铺路的渠道。",
+    "ja": "1843年12月、ギヨーム・ドゥアール司教率いるフランスのマリスト会宣教師がバラードに上陸し、グランドテール初のカトリック伝道所を設立した。伝道所は飢饉や病気、紛争の中で苦闘し1847年に一時撤退したが、のちに戻り、併合への道を開くフランスの影響力拡大の窓口となった。"
+   }
+  },
+  {
+   "year": 1853,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "France annexes New Caledonia",
+    "ko": "프랑스의 뉴칼레도니아 병합",
+    "zh": "法国吞并新喀里多尼亚",
+    "ja": "フランスによるニューカレドニア領有"
+   },
+   "description": {
+    "en": "On 24 September 1853, at Balade, Rear Admiral Auguste Febvrier-Despointes took formal possession of New Caledonia in the name of Napoleon III, and the Isle of Pines was claimed days later. France sought a naval base and a site for a penal colony in the Pacific, and the annexation forestalled British interest. It began French sovereignty that continues to this day.",
+    "ko": "1853년 9월 24일 발라드에서 오귀스트 페브리에데푸앵트 해군 소장이 나폴레옹 3세의 이름으로 뉴칼레도니아를 공식 영유했고, 며칠 뒤 일드팽도 편입되었다. 프랑스는 태평양의 해군 기지와 유형지 부지를 원했으며, 이 병합으로 영국의 관심을 선제적으로 차단했다. 이로써 오늘날까지 이어지는 프랑스의 주권이 시작되었다.",
+    "zh": "1853年9月24日，海军少将奥古斯特·费夫里耶-德普安特在巴拉德以拿破仑三世的名义正式占有新喀里多尼亚，数日后又宣布领有松树岛。法国希望在太平洋获得海军基地和流放地，此举也抢在英国之前。由此开始的法国主权一直延续至今。",
+    "ja": "1853年9月24日、バラードでオーギュスト・フェブリエ・デポワント少将がナポレオン3世の名においてニューカレドニアを正式に領有し、数日後にはイル・デ・パンも編入された。フランスは太平洋の海軍基地と流刑地を求めており、この併合でイギリスに先んじた。こうして今日まで続くフランスの主権が始まった。"
+   }
+  },
+  {
+   "year": 1854,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Port-de-France (Nouméa)",
+    "ko": "포르드프랑스(누메아) 건설",
+    "zh": "法兰西港（努美阿）建立",
+    "ja": "ポール・ド・フランス（ヌメア）の建設"
+   },
+   "description": {
+    "en": "In 1854 Captain Louis Tardy de Montravel founded Port-de-France on a sheltered harbor in the southwest of Grande Terre as the colony's military and administrative center. The town was renamed Nouméa in 1866 and grew into the territory's capital, port and economic hub, home today to a large share of its population.",
+    "ko": "1854년 루이 타르디 드 몽트라벨 함장은 그랑드테르 남서부의 아늑한 항구에 식민지의 군사·행정 중심지로 포르드프랑스를 건설했다. 이 도시는 1866년 누메아로 개칭되었고, 영토의 수도이자 항구, 경제 중심지로 성장해 오늘날 인구의 상당 부분이 이곳에 산다.",
+    "zh": "1854年，路易·塔尔迪·德·蒙特拉韦尔舰长在格朗德特尔岛西南部的一处避风港建立法兰西港，作为殖民地的军事和行政中心。该城于1866年更名为努美阿，逐渐发展为该地的首府、港口和经济中心，如今聚居着相当大比例的人口。",
+    "ja": "1854年、ルイ・タルディ・ド・モントラヴェル艦長はグランドテール南西部の入り江に、植民地の軍事・行政の中心としてポール・ド・フランスを建設した。町は1866年にヌメアと改称され、領土の首都、港湾、経済の中心として発展し、今日では人口の大きな割合がここに暮らしている。"
+   }
+  },
+  {
+   "year": 1864,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Penal colony opens and nickel is discovered",
+    "ko": "유형지 개설과 니켈 발견",
+    "zh": "流放地开设与镍矿发现",
+    "ja": "流刑地の開設とニッケルの発見"
+   },
+   "description": {
+    "en": "In 1864 the first convicts arrived aboard the Iphigénie to found a penal settlement, and over the following decades tens of thousands of prisoners were sent to New Caledonia. The same year the engineer Jules Garnier identified nickel ore on Grande Terre; the mineral, later named garnierite after him, made the colony one of the world's leading nickel producers.",
+    "ko": "1864년 첫 죄수들이 이피제니호를 타고 도착해 유형지가 세워졌고, 이후 수십 년 동안 수만 명의 죄수가 뉴칼레도니아로 보내졌다. 같은 해 기술자 쥘 가르니에가 그랑드테르에서 니켈 광석을 확인했는데, 훗날 그의 이름을 딴 가르니에라이트로 불린 이 광물로 식민지는 세계 굴지의 니켈 생산지가 되었다.",
+    "zh": "1864年，首批苦役犯乘“伊菲革涅亚”号抵达，建立流放地，此后数十年间有数万名囚犯被押送到新喀里多尼亚。同年，工程师朱尔·加尼耶在格朗德特尔岛发现镍矿石，这种后来以他命名为“硅镁镍矿”的矿物使殖民地成为世界主要镍产地之一。",
+    "ja": "1864年、最初の囚人がイフィジェニー号で到着して流刑地が開かれ、その後数十年で数万人の囚人がニューカレドニアへ送られた。同じ年、技師ジュール・ガルニエがグランドテールでニッケル鉱石を確認し、のちに彼の名からガーニエライトと呼ばれたこの鉱物により、植民地は世界有数のニッケル産地となった。"
+   }
+  },
+  {
+   "year": 1868,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Kanak reserves established",
+    "ko": "카나크 보호구역 설정",
+    "zh": "设立卡纳克保留地",
+    "ja": "カナック保留地の設定"
+   },
+   "description": {
+    "en": "In the late 1860s the colonial administration recognized the Kanak tribu as a legal unit and began confining clans to delimited reserves, opening the rest of the land to settlers, ranchers and the penitentiary. The policy of cantonment uprooted many communities from ancestral lands and cattle often invaded Kanak gardens, grievances that fed the great revolt of 1878.",
+    "ko": "1860년대 후반 식민 당국은 카나크의 '트리뷔(부족)'를 법적 단위로 인정하고 씨족들을 지정된 보호구역에 묶어 두기 시작했으며, 나머지 땅은 정착민과 목장주, 유형 행정에 개방했다. 이 격리 정책으로 많은 공동체가 조상의 땅에서 쫓겨났고, 소 떼가 카나크인의 밭을 침범하는 일이 잦아 1878년 대봉기의 불씨가 되었다.",
+    "zh": "19世纪60年代末，殖民当局承认卡纳克“部落”为法律单位，开始将各氏族限制在划定的保留地内，其余土地则开放给移民、牧场主和流放管理机构。这种圈禁政策使许多社区离开祖传土地，牛群又常常践踏卡纳克人的园地，这些不满成为1878年大起义的导火索。",
+    "ja": "1860年代後半、植民地当局はカナックの「トリビュ（部族）」を法的単位として認め、氏族を指定された保留地に囲い込み始め、残りの土地を入植者や牧場主、流刑行政に開放した。この囲い込み政策で多くの共同体が祖先の土地を追われ、牛がカナックの畑を荒らすことも多く、1878年の大蜂起の火種となった。"
+   }
+  },
+  {
+   "year": 1872,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Communard and Kabyle deportees arrive",
+    "ko": "파리 코뮌 가담자와 카빌인 유형수의 도착",
+    "zh": "巴黎公社社员与卡比利亚人被流放至此",
+    "ja": "コミューン参加者とカビリア人流刑囚の到着"
+   },
+   "description": {
+    "en": "From 1872 France deported several thousand participants of the 1871 Paris Commune to New Caledonia, among them the anarchist teacher Louise Michel, who arrived in 1873; many were held on the Ducos peninsula and the Isle of Pines. Algerians condemned after the 1871 Kabyle uprising were also exiled there, and some of their descendants remain in the territory.",
+    "ko": "1872년부터 프랑스는 1871년 파리 코뮌 가담자 수천 명을 뉴칼레도니아로 추방했는데, 그중에는 1873년에 도착한 아나키스트 교사 루이즈 미셸도 있었다. 많은 이들이 뒤코 반도와 일드팽에 수용되었다. 1871년 카빌리 봉기 뒤 유죄 판결을 받은 알제리인들도 이곳에 유배되었으며, 그 후손 일부는 지금도 이 땅에 살고 있다.",
+    "zh": "1872年起，法国将数千名1871年巴黎公社参加者流放到新喀里多尼亚，其中包括1873年抵达的无政府主义教师路易丝·米歇尔，许多人被关押在迪科半岛和松树岛。1871年卡比利亚起义后被判刑的阿尔及利亚人也被流放至此，他们的部分后裔至今仍生活在当地。",
+    "ja": "1872年からフランスは1871年のパリ・コミューン参加者数千人をニューカレドニアへ流刑とし、その中には1873年に到着したアナキストの教師ルイーズ・ミシェルもいた。多くはデュコ半島やイル・デ・パンに収容された。1871年のカビリア蜂起後に有罪とされたアルジェリア人も流され、その子孫の一部は今も領土に暮らしている。"
+   }
+  },
+  {
+   "year": 1878,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Kanak revolt led by Chief Ataï",
+    "ko": "아타이 추장이 이끈 카나크 봉기",
+    "zh": "阿塔伊酋长领导的卡纳克起义",
+    "ja": "首長アタイ率いるカナックの蜂起"
+   },
+   "description": {
+    "en": "In June 1878, provoked by land seizures and settlers' cattle trampling their gardens, Kanak clans of the La Foa and Bouloupari region under the high chief Ataï rose against colonial rule, killing more than a hundred settlers. French troops, aided by Kanak auxiliaries from rival clans, suppressed the uprising over several months; Ataï was killed in September and his head sent to France. Hundreds of Kanaks died and surviving clans lost much of their land.",
+    "ko": "1878년 6월, 토지 몰수와 정착민의 소 떼가 밭을 짓밟는 데 분노한 라포아·불루파리 지역의 카나크 씨족들이 대추장 아타이의 지휘로 식민 지배에 맞서 봉기해 100명이 넘는 정착민을 죽였다. 프랑스군은 경쟁 씨족의 카나크 보조병의 도움을 받아 몇 달에 걸쳐 봉기를 진압했으며, 아타이는 9월에 살해되어 그 머리가 프랑스로 보내졌다. 수백 명의 카나크인이 목숨을 잃었고 살아남은 씨족들은 많은 땅을 빼앗겼다.",
+    "zh": "1878年6月，因土地被夺、移民的牛群践踏园地而愤怒的拉福阿和布卢帕里一带卡纳克氏族，在大酋长阿塔伊领导下起兵反抗殖民统治，杀死一百多名移民。法军在敌对氏族卡纳克辅助部队的协助下历时数月镇压起义，阿塔伊于9月被杀，首级被送往法国。数百名卡纳克人丧生，幸存氏族失去大量土地。",
+    "ja": "1878年6月、土地の収奪や入植者の牛が畑を荒らすことに憤ったラ・フォアとブルパリ一帯のカナックの氏族が、大首長アタイの指揮で植民地支配に対して蜂起し、100人を超える入植者を殺害した。フランス軍は対立する氏族のカナック補助兵の助けを得て数か月かけて蜂起を鎮圧し、アタイは9月に殺されてその首はフランスへ送られた。数百人のカナックが命を落とし、生き残った氏族は多くの土地を失った。"
+   }
+  },
+  {
+   "year": 1880,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Société Le Nickel founded",
+    "ko": "르니켈사(SLN) 설립",
+    "zh": "镍业公司成立",
+    "ja": "ル・ニッケル社の設立"
+   },
+   "description": {
+    "en": "In 1880 the Société Le Nickel (SLN) was founded to exploit New Caledonia's deposits, and it soon dominated the industry, building the territory's smelting capacity at Doniambo in Nouméa in the following decades. Mining reshaped the colony's landscape and economy and drew contract laborers from Asia and the Pacific, including Japanese, Javanese and Vietnamese workers.",
+    "ko": "1880년 뉴칼레도니아의 광상을 개발하기 위해 르니켈사(SLN)가 설립되었고, 곧 업계를 장악해 이후 수십 년 동안 누메아의 도니앙보에 영토의 제련 시설을 구축했다. 광업은 식민지의 경관과 경제를 바꾸어 놓았으며, 일본인과 자바인, 베트남인 등 아시아와 태평양 각지의 계약 노동자를 끌어들였다.",
+    "zh": "1880年，镍业公司（SLN）为开采新喀里多尼亚矿藏而成立，很快便主导了该行业，并在此后数十年间于努美阿的多尼昂博建起当地的冶炼设施。采矿业改变了殖民地的景观与经济，并吸引了来自亚洲和太平洋地区的契约劳工，包括日本人、爪哇人和越南人。",
+    "ja": "1880年、ニューカレドニアの鉱床を開発するためにル・ニッケル社（SLN）が設立され、まもなく業界を支配し、その後数十年でヌメアのドニアンボに領土の製錬施設を築いた。鉱業は植民地の景観と経済を一変させ、日本人やジャワ人、ベトナム人などアジア・太平洋各地から契約労働者を呼び寄せた。"
+   }
+  },
+  {
+   "year": 1887,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Native code (indigénat) imposed",
+    "ko": "원주민 법령(앵디제나) 시행",
+    "zh": "实施“土著法典”",
+    "ja": "原住民法（アンディジェナ）の施行"
+   },
+   "description": {
+    "en": "In 1887 France extended the regime of the indigénat to New Caledonia, subjecting Kanaks to special administrative penalties without trial, forced labor, a head tax and restrictions on movement outside their reserves. The code, administered through appointed chiefs, kept Kanaks as colonial subjects rather than citizens until its abolition in 1946.",
+    "ko": "1887년 프랑스는 뉴칼레도니아에 앵디제나 체제를 확대 적용해, 카나크인을 재판 없는 특별 행정 처벌과 강제 노동, 인두세, 보호구역 밖 이동 제한에 묶었다. 임명된 추장을 통해 운영된 이 법령은 1946년 폐지될 때까지 카나크인을 시민이 아닌 식민지 신민으로 묶어 두었다.",
+    "zh": "1887年，法国将“土著法典”制度推行到新喀里多尼亚，使卡纳克人受制于未经审判的特别行政处罚、强迫劳动、人头税以及离开保留地的迁徙限制。该法典通过委任酋长实施，直到1946年废除前，卡纳克人一直是殖民地臣民而非公民。",
+    "ja": "1887年、フランスはニューカレドニアにアンディジェナ体制を適用し、カナックを裁判なしの特別行政罰、強制労働、人頭税、保留地外への移動制限の下に置いた。任命された首長を通じて運用されたこの法は、1946年に廃止されるまでカナックを市民ではなく植民地臣民の地位にとどめた。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "End of convict transportation",
+    "ko": "죄수 이송의 종료",
+    "zh": "停止押送苦役犯",
+    "ja": "囚人移送の終了"
+   },
+   "description": {
+    "en": "In 1897 the last convoy of convicts arrived, as Governor Paul Feillet, who called for an end to the 'dirty tap' of penal transportation, promoted free settlement instead with subsidized land for French colonists, largely for coffee growing. The penitentiary system gradually wound down over the following decades, but convict descendants became part of the settler Caldoche community.",
+    "ko": "1897년 마지막 죄수 호송선이 도착했다. 유형수 이송이라는 '더러운 수도꼭지'를 잠가야 한다고 주장한 폴 페예 총독은 그 대신 주로 커피 재배를 위한 토지를 보조하며 프랑스인 자유 이민을 장려했다. 유형 제도는 이후 수십 년에 걸쳐 점차 정리되었으나, 죄수의 후손들은 정착민 공동체 '칼도슈'의 일부가 되었다.",
+    "zh": "1897年，最后一批苦役犯抵达。总督保罗·费耶主张关上流放押送这一“脏水龙头”，转而以补贴土地吸引法国自由移民，主要用于种植咖啡。此后数十年间流放制度逐步收缩，但囚犯后裔已融入被称为“卡尔多什”的移民社群。",
+    "ja": "1897年に最後の囚人護送船が到着した。流刑囚移送という「汚れた蛇口」を閉めるべきだと唱えたポール・フェイエ総督は、代わりに主にコーヒー栽培のための土地を補助してフランス人の自由移民を奨励した。流刑制度はその後数十年で次第に縮小したが、囚人の子孫は入植者社会「カルドッシュ」の一部となった。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Kanak uprising of 1917",
+    "ko": "1917년 카나크 봉기",
+    "zh": "1917年卡纳克起义",
+    "ja": "1917年のカナック蜂起"
+   },
+   "description": {
+    "en": "In 1917, as Kanak men were recruited to fight for France in the First World War, clans in the Koné and Hienghène region of northern Grande Terre rose in revolt, led by figures including the chief Noël of Tiamou. The uprising, fueled by resentment over recruitment, land loss and the indigénat, was suppressed after about a year with deaths on both sides and harsh reprisals.",
+    "ko": "제1차 세계대전 중 카나크 남성들이 프랑스를 위해 싸우도록 징집되던 1917년, 그랑드테르 북부 코네와 이엥겐 지역의 씨족들이 티아무의 추장 노엘 등을 중심으로 봉기했다. 징집과 토지 상실, 앵디제나에 대한 분노가 불을 지핀 이 봉기는 양측에서 사망자를 낸 끝에 약 1년 만에 진압되었고 가혹한 보복이 뒤따랐다.",
+    "zh": "1917年，正值卡纳克男子被征召为法国参加第一次世界大战之际，格朗德特尔岛北部科内和延盖内一带的氏族在蒂亚穆酋长诺埃尔等人领导下起事。这场由征兵、失地和“土著法典”所激发的起义在双方均有伤亡后约一年被镇压，随后遭到严厉报复。",
+    "ja": "第一次世界大戦でカナックの男性がフランスのために戦うよう徴募されていた1917年、グランドテール北部のコネとイエンゲーヌ一帯の氏族が、ティアムの首長ノエルらを中心に蜂起した。徴募や土地の喪失、アンディジェナへの怒りに火をつけられたこの蜂起は、双方に死者を出したのち約1年で鎮圧され、厳しい報復が続いた。"
+   }
+  },
+  {
+   "year": 1931,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Kanaks exhibited at the Paris Colonial Exhibition",
+    "ko": "파리 식민지 박람회의 카나크인 전시",
+    "zh": "卡纳克人在巴黎殖民地博览会被展示",
+    "ja": "パリ植民地博覧会でのカナック展示"
+   },
+   "description": {
+    "en": "In 1931 a group of more than a hundred Kanak men and women were taken to France and displayed at the Jardin d'Acclimatation in connection with the Paris Colonial Exhibition, presented to visitors as 'cannibals'; some were then lent to a German zoo. The episode, later retold in the French writer Didier Daeninckx's novel Cannibale and by descendants, became a symbol of colonial dehumanization.",
+    "ko": "1931년 100명이 넘는 카나크 남녀가 프랑스로 끌려가 파리 식민지 박람회와 연계해 아클리마타시옹 공원에 '식인종'으로 소개되며 전시되었고, 일부는 독일의 동물원에 대여되기도 했다. 이 사건은 이후 소설과 후손들의 증언을 통해 다시 알려지며 식민주의적 비인간화의 상징이 되었다.",
+    "zh": "1931年，一百多名卡纳克男女被带到法国，与巴黎殖民地博览会相配合，在驯化园中被当作“食人族”向观众展示，其中一些人随后还被借给德国的动物园。这一事件后来经由小说和后裔的讲述重新为人所知，成为殖民主义非人化的象征。",
+    "ja": "1931年、100人を超えるカナックの男女がフランスに連れて行かれ、パリ植民地博覧会に合わせてアクリマタシオン園で「人食い」として見世物にされ、一部はドイツの動物園に貸し出された。この出来事はのちに小説や子孫の証言を通じて再び知られるようになり、植民地主義による非人間化の象徴となった。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "New Caledonia rallies to Free France",
+    "ko": "자유 프랑스에 합류",
+    "zh": "新喀里多尼亚归附自由法国",
+    "ja": "自由フランスへの合流"
+   },
+   "description": {
+    "en": "In September 1940, after the fall of France, pro-Gaullist settlers in Nouméa forced out the Vichy-aligned authorities, and Henri Sautot took office as governor for Free France. New Caledonia became one of the first French territories to join de Gaulle, and volunteers, including Kanaks, served in the Pacific Battalion in North Africa and Europe.",
+    "ko": "프랑스가 함락된 뒤인 1940년 9월, 누메아의 드골파 정착민들이 비시 정권에 동조하는 당국을 몰아냈고 앙리 소토가 자유 프랑스의 총독으로 취임했다. 뉴칼레도니아는 드골에 합류한 최초의 프랑스 영토 가운데 하나가 되었으며, 카나크인을 포함한 지원병들이 태평양 대대에 소속되어 북아프리카와 유럽에서 싸웠다.",
+    "zh": "法国沦陷后，1940年9月，努美阿的戴高乐派移民迫使亲维希的当局下台，亨利·索托就任自由法国总督。新喀里多尼亚成为最早投向戴高乐的法国领地之一，包括卡纳克人在内的志愿兵编入太平洋营，在北非和欧洲作战。",
+    "ja": "フランス降伏後の1940年9月、ヌメアのド・ゴール派入植者がヴィシー寄りの当局を退け、アンリ・ソトが自由フランスの総督に就任した。ニューカレドニアはド・ゴールに加わった最初のフランス領の一つとなり、カナックを含む志願兵が太平洋大隊に加わって北アフリカやヨーロッパで戦った。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Allied base at Nouméa in World War II",
+    "ko": "제2차 세계대전 중 누메아의 연합군 기지",
+    "zh": "二战期间努美阿的盟军基地",
+    "ja": "第二次世界大戦中のヌメアの連合軍基地"
+   },
+   "description": {
+    "en": "From March 1942 United States forces arrived in large numbers, turning Nouméa into a major Allied base and the headquarters of the South Pacific command during the Guadalcanal campaign. Tens of thousands of soldiers passed through, building airfields, roads and hospitals; the experience brought wage work and new ideas to Kanaks and left a lasting mark on the territory.",
+    "ko": "1942년 3월부터 미군이 대규모로 들어와 누메아는 과달카날 전역 동안 연합군의 주요 기지이자 남태평양 사령부의 본부가 되었다. 수만 명의 병사가 거쳐 가며 비행장과 도로, 병원을 건설했고, 이 경험은 카나크인에게 임금 노동과 새로운 사상을 접하게 하며 영토에 오래 남는 흔적을 남겼다.",
+    "zh": "1942年3月起，美军大批到来，努美阿成为瓜达尔卡纳尔战役期间盟军的主要基地和南太平洋司令部所在地。数万名士兵途经此地，修建机场、道路和医院；这段经历给卡纳克人带来了雇佣劳动和新思想，在当地留下深远影响。",
+    "ja": "1942年3月から米軍が大挙して到来し、ヌメアはガダルカナル作戦の間、連合軍の主要基地かつ南太平洋司令部の本部となった。数万人の兵士が通過して飛行場や道路、病院を建設し、この経験はカナックに賃金労働と新しい思想をもたらして、領土に長く残る影響を与えた。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "New Caledonia becomes a French overseas territory",
+    "ko": "프랑스 해외 영토로 전환",
+    "zh": "成为法国海外领地",
+    "ja": "フランス海外領土となる"
+   },
+   "description": {
+    "en": "Under the constitution of the Fourth Republic, New Caledonia ceased to be a colony and became an overseas territory (territoire d'outre-mer) in 1946. The indigénat was abolished, Kanaks became French citizens with freedom of movement and residence, and political participation began to open, though voting rights were extended only gradually.",
+    "ko": "제4공화국 헌법에 따라 뉴칼레도니아는 1946년 식민지에서 벗어나 해외 영토(TOM)가 되었다. 앵디제나가 폐지되어 카나크인은 이동과 거주의 자유를 가진 프랑스 시민이 되었고 정치 참여의 문이 열리기 시작했지만, 투표권은 점진적으로만 확대되었다.",
+    "zh": "根据第四共和国宪法，新喀里多尼亚于1946年不再是殖民地，成为海外领地。“土著法典”被废除，卡纳克人成为享有迁徙和居住自由的法国公民，政治参与之门开始打开，但投票权只是逐步扩大。",
+    "ja": "第四共和政憲法の下で、ニューカレドニアは1946年に植民地から海外領土（TOM）となった。アンディジェナが廃止され、カナックは移動と居住の自由を持つフランス市民となり、政治参加への道が開かれ始めたが、選挙権の拡大は段階的にとどまった。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Union Calédonienne founded",
+    "ko": "칼레도니아 연합 창당",
+    "zh": "喀里多尼亚联盟成立",
+    "ja": "カレドニア連合の結成"
+   },
+   "description": {
+    "en": "In 1953 the Union Calédonienne was founded around the deputy Maurice Lenormand with support from Catholic and Protestant Kanak associations, under the motto 'two colors, one people'. Bringing together Kanaks and progressive Europeans, it dominated territorial politics for two decades and later became a core party of the independence movement.",
+    "ko": "1953년 가톨릭과 개신교 카나크 단체의 지지를 받아 하원의원 모리스 르노르망을 중심으로 칼레도니아 연합(UC)이 창당되었으며, '두 색깔, 하나의 민족'을 구호로 내걸었다. 카나크인과 진보적 유럽계를 결집한 이 정당은 20년 동안 영토 정치를 주도했고, 이후 독립 운동의 핵심 정당이 되었다.",
+    "zh": "1953年，在天主教和新教卡纳克团体的支持下，以议员莫里斯·勒诺尔芒为核心的喀里多尼亚联盟成立，口号为“两种肤色，一个民族”。该党联合卡纳克人和进步的欧洲裔，主导当地政坛二十年，后来成为独立运动的核心政党。",
+    "ja": "1953年、カトリックとプロテスタントのカナック団体の支持を受け、代議士モーリス・ルノルマンを中心にカレドニア連合（UC）が結成され、「二つの肌の色、一つの民」を標語に掲げた。カナックと進歩的なヨーロッパ系を結集した同党は20年にわたり領土政治を主導し、のちに独立運動の中核政党となった。"
+   }
+  },
+  {
+   "year": 1957,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Universal suffrage extended to all Kanaks",
+    "ko": "모든 카나크인에게 보통선거권 확대",
+    "zh": "普选权扩大至全体卡纳克人",
+    "ja": "全カナックへの普通選挙権拡大"
+   },
+   "description": {
+    "en": "Following France's 1956 loi-cadre for overseas territories, universal suffrage was extended to all adult Kanaks, and the 1957 territorial assembly elections were the first in which the Melanesian majority could vote fully. A local government council with elected ministers was created, giving the territory a measure of internal autonomy that Paris later curtailed.",
+    "ko": "1956년 프랑스의 해외 영토 기본법(로아 카드르)에 따라 모든 성인 카나크인에게 보통선거권이 확대되었고, 1957년 영토 의회 선거는 멜라네시아계 다수가 온전히 투표할 수 있었던 첫 선거였다. 선출된 각료로 이루어진 지방 정부 평의회가 만들어져 일정한 내부 자치가 주어졌지만, 파리는 이후 이를 축소했다.",
+    "zh": "根据法国1956年的海外领地《框架法》，普选权扩大到全体成年卡纳克人，1957年的领地议会选举是美拉尼西亚人多数首次能够充分投票的选举。当地设立了由民选部长组成的政府委员会，赋予该地一定的内部自治，但巴黎后来又加以削减。",
+    "ja": "1956年のフランスの海外領土基本法（ロワ・カードル）に基づき、すべての成人カナックに普通選挙権が拡大され、1957年の領土議会選挙はメラネシア系多数派が完全に投票できた最初の選挙となった。選出された閣僚からなる地方政府評議会が設けられ一定の内政自治が与えられたが、パリはのちにそれを縮小した。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "The nickel boom",
+    "ko": "니켈 붐",
+    "zh": "镍矿繁荣",
+    "ja": "ニッケル・ブーム"
+   },
+   "description": {
+    "en": "Around 1967–1971 soaring world demand for nickel brought a boom to New Caledonia, with rapid growth in mining, wages and construction in Nouméa. Paris encouraged migration from metropolitan France, Wallis and Futuna, French Polynesia and elsewhere, while laws of 1969 transferred control of mining licensing to the central state; the Kanaks became a minority of the population, sharpening political tensions.",
+    "ko": "1967~1971년 무렵 세계 니켈 수요가 치솟으며 뉴칼레도니아에 호황이 찾아왔고, 광업과 임금, 누메아의 건설이 급성장했다. 파리는 프랑스 본토와 왈리스 퓌튀나, 프랑스령 폴리네시아 등지로부터의 이주를 장려했고, 1969년의 법률로 광업 인허가 권한을 중앙 정부로 옮겼다. 카나크인은 인구의 소수가 되었고 정치적 긴장이 고조되었다.",
+    "zh": "约1967至1971年，世界镍需求激增，为新喀里多尼亚带来繁荣，采矿业、工资和努美阿的建设迅速增长。巴黎鼓励来自法国本土、瓦利斯和富图纳、法属波利尼西亚等地的移民，1969年的法律又将矿业许可权收归中央。卡纳克人沦为人口中的少数，政治紧张加剧。",
+    "ja": "1967〜1971年頃、世界的なニッケル需要の急増でニューカレドニアは好況に沸き、鉱業や賃金、ヌメアの建設が急成長した。パリはフランス本国やウォリス・フツナ、フランス領ポリネシアなどからの移住を奨励し、1969年の法律で鉱業許認可の権限を中央政府に移した。カナックは人口の少数派となり、政治的緊張が高まった。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Melanesia 2000 festival",
+    "ko": "멜라네시아 2000 축제",
+    "zh": "“美拉尼西亚2000”节",
+    "ja": "メラネシア2000祭"
+   },
+   "description": {
+    "en": "In 1975 Jean-Marie Tjibaou, a former Catholic priest, organized the Melanesia 2000 festival in Nouméa, bringing together Kanak clans from across the territory to perform dances, rituals and a play on Kanak history. The event asserted Kanak culture in the colonial capital and became a milestone of cultural revival that fed the rise of the independence movement.",
+    "ko": "1975년 가톨릭 신부 출신의 장마리 치바우는 누메아에서 '멜라네시아 2000' 축제를 열어 영토 전역의 카나크 씨족들이 춤과 의례, 카나크 역사를 다룬 연극을 선보이게 했다. 이 행사는 식민지 수도 한복판에서 카나크 문화를 당당히 드러냈고, 독립 운동의 부상으로 이어진 문화 부흥의 이정표가 되었다.",
+    "zh": "1975年，前天主教神父让-马里·吉巴乌在努美阿举办“美拉尼西亚2000”节，汇集全境卡纳克氏族表演舞蹈、仪式和讲述卡纳克历史的戏剧。这一活动在殖民首府彰显了卡纳克文化，成为推动独立运动兴起的文化复兴里程碑。",
+    "ja": "1975年、元カトリック司祭のジャン＝マリ・チバウはヌメアで「メラネシア2000」祭を開き、領土全域のカナックの氏族が踊りや儀礼、カナックの歴史を描く劇を披露した。この催しは植民地の首都でカナック文化を力強く示し、独立運動の台頭につながる文化復興の画期となった。"
+   }
+  },
+  {
+   "year": 1984,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "FLNKS founded and the Événements begin",
+    "ko": "FLNKS 결성과 '사건들'의 시작",
+    "zh": "卡纳克民族社会主义解放阵线成立与“事件”爆发",
+    "ja": "FLNKS結成と「事件」の始まり"
+   },
+   "description": {
+    "en": "In September 1984 independence parties united as the Kanak and Socialist National Liberation Front (FLNKS) under Jean-Marie Tjibaou and boycotted the November territorial elections, setting up roadblocks across Grande Terre and proclaiming a provisional Kanak government. In December ten Kanak men, including two of Tjibaou's brothers, were killed in an ambush by settlers at Hienghène. Years of violence between independence supporters, loyalists and security forces followed.",
+    "ko": "1984년 9월 독립파 정당들이 장마리 치바우를 중심으로 카나크 사회주의 민족해방전선(FLNKS)으로 결집해 11월 영토 선거를 보이콧하고, 그랑드테르 전역에 바리케이드를 치며 카나크 임시정부를 선포했다. 12월에는 이엥겐에서 정착민의 매복 공격으로 치바우의 형제 둘을 포함한 카나크 남성 10명이 살해되었다. 이후 수년간 독립 지지파와 잔류파, 치안 병력 사이의 폭력이 이어졌다.",
+    "zh": "1984年9月，各独立派政党在让-马里·吉巴乌领导下联合组成卡纳克民族社会主义解放阵线（FLNKS），抵制11月的领地选举，在格朗德特尔岛各地设置路障，并宣布成立卡纳克临时政府。12月，在延盖内，包括吉巴乌两名兄弟在内的10名卡纳克男子遭移民伏击身亡。此后数年，独立派、效忠派与安全部队之间暴力不断。",
+    "ja": "1984年9月、独立派政党はジャン＝マリ・チバウを中心にカナック社会主義民族解放戦線（FLNKS）として結集し、11月の領土選挙をボイコットしてグランドテール各地にバリケードを築き、カナック臨時政府を宣言した。12月にはイエンゲーヌで入植者の待ち伏せにより、チバウの兄弟2人を含むカナックの男性10人が殺害された。以後数年にわたり、独立派と残留派、治安部隊の間で暴力が続いた。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Death of Éloi Machoro",
+    "ko": "엘루아 마쇼로의 사망",
+    "zh": "埃卢瓦·马乔罗之死",
+    "ja": "エロワ・マショロの死"
+   },
+   "description": {
+    "en": "In January 1985 Éloi Machoro, the FLNKS security leader who had led militant actions in the Thio mining region, was shot dead by French gendarmerie marksmen while besieged near La Foa. His killing, which the independence movement regarded as an assassination, provoked riots in Nouméa and a state of emergency, and he became a martyr of the Kanak cause.",
+    "ko": "1985년 1월, 광산 지대인 티오에서 무장 행동을 이끌었던 FLNKS의 치안 책임자 엘루아 마쇼로가 라포아 인근에서 포위된 채 프랑스 헌병대 저격수의 총에 맞아 숨졌다. 독립 운동 측이 암살로 간주한 그의 죽음은 누메아에서의 폭동과 비상사태 선포를 불러왔고, 그는 카나크 대의의 순교자가 되었다.",
+    "zh": "1985年1月，曾在蒂奥矿区领导激进行动的FLNKS安全负责人埃卢瓦·马乔罗在拉福阿附近被包围时遭法国宪兵狙击手射杀。独立运动视其死亡为暗杀，此事引发努美阿骚乱和紧急状态，他也成为卡纳克事业的烈士。",
+    "ja": "1985年1月、鉱山地帯ティオで急進的な行動を率いたFLNKSの治安責任者エロワ・マショロが、ラ・フォア近郊で包囲された際にフランス憲兵隊の狙撃手に射殺された。独立運動が暗殺とみなした彼の死はヌメアでの暴動と非常事態宣言を招き、彼はカナックの大義の殉教者となった。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Boycotted self-determination referendum",
+    "ko": "보이콧된 자결 주민투표",
+    "zh": "遭抵制的自决公投",
+    "ja": "ボイコットされた自決住民投票"
+   },
+   "description": {
+    "en": "In September 1987 the French government held a referendum on whether New Caledonia should remain part of France. The FLNKS called for a boycott, arguing that the electorate included too many recent arrivals; the result was an overwhelming vote to stay French on a low turnout among Kanaks, settling nothing and deepening the confrontation.",
+    "ko": "1987년 9월 프랑스 정부는 뉴칼레도니아가 프랑스에 남을지를 묻는 주민투표를 실시했다. FLNKS는 유권자 명부에 최근 이주자가 너무 많다며 보이콧을 호소했고, 결과는 카나크인의 저조한 투표율 속에 압도적인 프랑스 잔류 찬성이었다. 이 투표는 아무것도 해결하지 못한 채 대립을 더욱 심화시켰다.",
+    "zh": "1987年9月，法国政府就新喀里多尼亚是否继续留在法国举行公投。FLNKS认为选民中近期移入者过多，号召抵制；结果在卡纳克人投票率很低的情况下，以压倒性多数赞成留在法国。这次公投没有解决任何问题，反而加深了对立。",
+    "ja": "1987年9月、フランス政府はニューカレドニアがフランスに留まるべきかを問う住民投票を実施した。FLNKSは有権者に最近の移住者が多すぎるとしてボイコットを呼びかけ、結果はカナックの低い投票率の中で圧倒的なフランス残留支持となった。この投票は何も解決せず、対立をさらに深めた。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Ouvéa crisis and the Matignon Accords",
+    "ko": "우베아 사건과 마티뇽 협정",
+    "zh": "乌韦阿危机与马提尼翁协议",
+    "ja": "ウヴェア事件とマティニョン合意"
+   },
+   "description": {
+    "en": "In April 1988 Kanak militants attacked the gendarmerie at Fayaoué on Ouvéa, killing four gendarmes and taking others hostage in a cave. On 5 May French special forces stormed the cave; nineteen Kanak activists and two soldiers died, and allegations of summary executions followed. Shocked by the bloodshed, Jean-Marie Tjibaou and loyalist leader Jacques Lafleur signed the Matignon Accords in June under Prime Minister Michel Rocard, creating three provinces and promising a self-determination vote after ten years.",
+    "ko": "1988년 4월 카나크 무장 활동가들이 우베아섬 파야우에의 헌병대를 공격해 헌병 4명을 죽이고 나머지를 동굴에 인질로 잡았다. 5월 5일 프랑스 특수부대가 동굴을 급습해 카나크 활동가 19명과 군인 2명이 숨졌고, 즉결 처형 의혹이 뒤따랐다. 유혈 사태에 충격을 받은 장마리 치바우와 잔류파 지도자 자크 라플뢰르는 6월 미셸 로카르 총리 주재로 마티뇽 협정에 서명해 세 개의 주를 설치하고 10년 뒤 자결 투표를 약속했다.",
+    "zh": "1988年4月，卡纳克武装人员袭击乌韦阿岛法亚韦的宪兵站，打死4名宪兵，并将其余人员劫持到一处山洞。5月5日，法国特种部队强攻山洞，19名卡纳克活动人士和2名军人死亡，随后出现即决处决的指控。流血事件震动各方，让-马里·吉巴乌与效忠派领袖雅克·拉弗勒尔于6月在总理米歇尔·罗卡尔主持下签署马提尼翁协议，设立三个省，并承诺十年后举行自决投票。",
+    "ja": "1988年4月、カナックの武装活動家がウヴェア島ファヤウエの憲兵隊を襲撃して憲兵4人を殺害し、残りを洞窟に人質として拘束した。5月5日にフランスの特殊部隊が洞窟を急襲し、カナックの活動家19人と兵士2人が死亡、即決処刑の疑惑も浮上した。流血に衝撃を受けたジャン＝マリ・チバウと残留派の指導者ジャック・ラフルールは、6月にミシェル・ロカール首相のもとでマティニョン合意に署名し、三つの州を設け10年後の自決投票を約束した。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Tjibaou and Yeiwéné",
+    "ko": "치바우와 예이웨네의 암살",
+    "zh": "吉巴乌与耶伊韦内遇刺",
+    "ja": "チバウとイェイウェネの暗殺"
+   },
+   "description": {
+    "en": "On 4 May 1989, at a ceremony on Ouvéa marking the first anniversary of the cave assault, FLNKS leader Jean-Marie Tjibaou and his deputy Yeiwéné Yeiwéné were shot dead by Djubelly Wéa, a Kanak militant opposed to the Matignon Accords, who was himself killed by a bodyguard. Despite the loss of its leaders, the independence movement upheld the accords.",
+    "ko": "1989년 5월 4일, 우베아섬에서 동굴 진압 1주기를 기리는 행사 중 FLNKS 지도자 장마리 치바우와 그의 부대표 예이웨네 예이웨네가 마티뇽 협정에 반대한 카나크 활동가 주벨리 웨아의 총에 맞아 숨졌고, 웨아도 경호원에게 사살되었다. 지도자들을 잃었음에도 독립 운동은 협정을 지켜 나갔다.",
+    "zh": "1989年5月4日，在乌韦阿岛纪念山洞强攻一周年的仪式上，FLNKS领导人让-马里·吉巴乌及其副手耶伊韦内·耶伊韦内被反对马提尼翁协议的卡纳克激进分子朱贝利·韦亚枪杀，韦亚本人也被保镖击毙。尽管痛失领袖，独立运动仍坚持履行协议。",
+    "ja": "1989年5月4日、ウヴェア島で洞窟急襲から1年を追悼する式典の最中、FLNKSの指導者ジャン＝マリ・チバウと副代表イェイウェネ・イェイウェネが、マティニョン合意に反対するカナックの活動家ジュベリ・ウェアに射殺され、ウェアも護衛に射殺された。指導者を失いながらも、独立運動は合意を守り続けた。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "The Nouméa Accord",
+    "ko": "누메아 협정",
+    "zh": "努美阿协议",
+    "ja": "ヌメア合意"
+   },
+   "description": {
+    "en": "Signed on 5 May 1998 by the French state, the FLNKS and the loyalist RPCR, the Nouméa Accord postponed the independence vote by up to twenty years in exchange for a gradual, irreversible transfer of powers. Its preamble acknowledged the 'shadows' of colonization and the Kanak people's original identity, and it created a New Caledonian citizenship, a restricted electoral roll for provincial elections and the goal of a 'common destiny'. It was approved by local referendum in November 1998.",
+    "ko": "1998년 5월 5일 프랑스 정부와 FLNKS, 잔류파 RPCR이 서명한 누메아 협정은 권한의 점진적이고 되돌릴 수 없는 이양을 대가로 독립 투표를 최대 20년 미뤘다. 전문은 식민화의 '그늘'과 카나크 민족의 고유한 정체성을 인정했으며, 뉴칼레도니아 시민권과 주 선거를 위한 제한 선거인 명부, '공동의 운명'이라는 목표를 만들었다. 협정은 1998년 11월 현지 주민투표로 승인되었다.",
+    "zh": "1998年5月5日，法国政府、FLNKS和效忠派的RPCR签署努美阿协议，以逐步且不可逆地移交权力为交换，将独立投票推迟至多二十年。协议序言承认殖民的“阴影”和卡纳克民族的原初身份，并设立新喀里多尼亚公民身份、省级选举的限制性选民名册以及“共同命运”的目标。协议于1998年11月经当地公投批准。",
+    "ja": "1998年5月5日にフランス政府とFLNKS、残留派のRPCRが署名したヌメア合意は、権限の段階的かつ不可逆的な移譲と引き換えに、独立投票を最長20年先送りした。前文は植民地化の「影」とカナック民族固有のアイデンティティを認め、ニューカレドニア市民権、州議会選挙のための限定選挙人名簿、「共通の運命」という目標を定めた。合意は1998年11月の現地住民投票で承認された。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Tjibaou Cultural Centre opens",
+    "ko": "치바우 문화센터 개관",
+    "zh": "吉巴乌文化中心开幕",
+    "ja": "チバウ文化センター開館"
+   },
+   "description": {
+    "en": "In 1998 the Jean-Marie Tjibaou Cultural Centre opened on the Tinu peninsula near Nouméa, a project of the Matignon Accords dedicated to Kanak culture. Designed by the architect Renzo Piano, its tall curved wooden 'cases' evoke traditional Kanak great houses, and the centre has become a landmark of contemporary Pacific architecture and a home for Kanak arts.",
+    "ko": "1998년 누메아 인근 티누 반도에 카나크 문화에 바쳐진 마티뇽 협정의 사업인 장마리 치바우 문화센터가 문을 열었다. 건축가 렌초 피아노가 설계한 이 건물의 높고 휘어진 목조 '카즈'들은 카나크 전통의 큰 집을 떠올리게 하며, 센터는 현대 태평양 건축의 명소이자 카나크 예술의 터전이 되었다.",
+    "zh": "1998年，作为马提尼翁协议项目、专门弘扬卡纳克文化的让-马里·吉巴乌文化中心在努美阿附近的蒂努半岛落成。由建筑师伦佐·皮亚诺设计，其高耸弯曲的木构“屋”令人联想到卡纳克传统大屋，该中心已成为当代太平洋建筑的地标和卡纳克艺术的家园。",
+    "ja": "1998年、マティニョン合意の事業としてカナック文化に捧げられたジャン＝マリ・チバウ文化センターが、ヌメア近郊のティヌ半島に開館した。建築家レンゾ・ピアノが設計した高く湾曲した木造の「カーズ」はカナックの伝統的な大きな家を思わせ、センターは現代太平洋建築の名所でありカナック芸術の拠点となった。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Organic law creates a sui generis collectivity",
+    "ko": "조직법에 따른 특별 공동체 출범",
+    "zh": "组织法设立特殊地位集体",
+    "ja": "組織法による特別自治体の発足"
+   },
+   "description": {
+    "en": "The French organic law of March 1999 implemented the Nouméa Accord, making New Caledonia a unique collectivity within the Republic, distinct from other overseas territories. It gained a Congress able to pass 'laws of the country', a collegial government elected by the Congress, and a Customary Senate representing the Kanak customary areas, while powers were transferred from Paris in stages.",
+    "ko": "1999년 3월 프랑스 조직법은 누메아 협정을 이행해 뉴칼레도니아를 다른 해외 영토와 구별되는 공화국 내 고유의 공동체로 만들었다. 뉴칼레도니아는 '지방법'을 제정할 수 있는 의회(콩그레), 의회가 선출하는 합의제 정부, 카나크 관습 구역을 대표하는 관습 상원을 갖게 되었고, 권한은 단계적으로 파리로부터 이양되었다.",
+    "zh": "1999年3月的法国组织法落实努美阿协议，使新喀里多尼亚成为共和国内有别于其他海外领地的独特集体。它设立了可制定“地方法律”的议会、由议会选举的合议制政府，以及代表卡纳克习俗区的习俗参议院，权力则分阶段从巴黎移交。",
+    "ja": "1999年3月のフランスの組織法はヌメア合意を実施し、ニューカレドニアを他の海外領土とは異なる共和国内の独自の自治体とした。「地方法」を制定できる議会（コングレ）、議会が選出する合議制の政府、カナックの慣習地域を代表する慣習元老院が設けられ、権限は段階的にパリから移譲された。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Lagoons inscribed on the World Heritage List",
+    "ko": "석호의 세계유산 등재",
+    "zh": "潟湖列入世界遗产名录",
+    "ja": "ラグーンの世界遺産登録"
+   },
+   "description": {
+    "en": "In 2008 UNESCO inscribed the Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems on the World Heritage List. The site protects parts of one of the world's largest lagoon systems and its barrier reefs, home to exceptional coral and fish diversity and to endangered species such as dugongs and green turtles.",
+    "ko": "2008년 유네스코는 '뉴칼레도니아의 석호: 산호초의 다양성과 관련 생태계'를 세계유산 목록에 등재했다. 이 유산은 세계 최대급 석호 체계와 보초(堡礁)의 일부를 보호하며, 이곳은 뛰어난 산호·어류 다양성과 듀공, 푸른바다거북 같은 멸종위기종의 서식지다.",
+    "zh": "2008年，联合国教科文组织将“新喀里多尼亚潟湖：珊瑚礁多样性及相关生态系统”列入世界遗产名录。该遗产保护着世界上最大潟湖系统之一及其堡礁的部分区域，这里拥有极为丰富的珊瑚和鱼类多样性，也是儒艮、绿海龟等濒危物种的栖息地。",
+    "ja": "2008年、ユネスコは「ニューカレドニアのラグーン：リーフの多様性とその生態系」を世界遺産に登録した。この遺産は世界最大級のラグーン系とバリアリーフの一部を保護しており、類いまれなサンゴと魚類の多様性を誇り、ジュゴンやアオウミガメなどの絶滅危惧種のすみかとなっている。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Kanak flag flown beside the French tricolour",
+    "ko": "카나크 깃발, 프랑스 삼색기와 나란히 게양",
+    "zh": "卡纳克旗与法国三色旗并挂",
+    "ja": "カナック旗をフランス三色旗と並べて掲揚"
+   },
+   "description": {
+    "en": "In July 2010 the Congress of New Caledonia recommended that the flag of the Kanak independence movement be flown alongside the French tricolour on public buildings, and the two flags were raised together in the presence of French Prime Minister François Fillon. The gesture was meant to symbolize the 'common destiny' of the Nouméa Accord but remained controversial among some loyalists.",
+    "ko": "2010년 7월 뉴칼레도니아 의회는 공공건물에 카나크 독립 운동의 깃발을 프랑스 삼색기와 함께 게양하도록 권고했고, 프랑수아 피용 프랑스 총리가 참석한 가운데 두 깃발이 나란히 올라갔다. 이는 누메아 협정의 '공동의 운명'을 상징하려는 것이었으나 일부 잔류파 사이에서는 논란이 계속되었다.",
+    "zh": "2010年7月，新喀里多尼亚议会建议在公共建筑上将卡纳克独立运动旗帜与法国三色旗并挂，两面旗帜在法国总理弗朗索瓦·菲永出席下一同升起。此举意在象征努美阿协议的“共同命运”，但在部分效忠派中仍有争议。",
+    "ja": "2010年7月、ニューカレドニア議会は公共建築物にカナック独立運動の旗をフランス三色旗と並べて掲げるよう勧告し、フランソワ・フィヨン首相の出席のもとで両旗が並んで掲揚された。これはヌメア合意の「共通の運命」を象徴するものとされたが、一部の残留派の間では議論が続いた。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First independence referendum",
+    "ko": "제1차 독립 주민투표",
+    "zh": "第一次独立公投",
+    "ja": "第1回独立住民投票"
+   },
+   "description": {
+    "en": "On 4 November 2018, under the Nouméa Accord, voters on the special electoral roll were asked whether New Caledonia should attain full sovereignty and become independent. About 57 percent voted no on a high turnout, a closer result than many polls had predicted, with strong support for independence in the Northern and Loyalty Islands provinces.",
+    "ko": "2018년 11월 4일 누메아 협정에 따라 특별 선거인 명부의 유권자들에게 뉴칼레도니아가 완전한 주권을 얻어 독립해야 하는지를 물었다. 높은 투표율 속에 약 57%가 반대했는데, 이는 많은 여론조사의 예상보다 근소한 차이였으며 북부주와 로열티 제도 주에서는 독립 지지가 강했다.",
+    "zh": "2018年11月4日，根据努美阿协议，特别选民名册上的选民就新喀里多尼亚是否应获得完全主权并独立进行投票。在高投票率下，约57%投了反对票，差距小于许多民调的预测，北方省和洛亚蒂群岛省对独立的支持率很高。",
+    "ja": "2018年11月4日、ヌメア合意に基づき、特別選挙人名簿の有権者にニューカレドニアが完全な主権を得て独立すべきかが問われた。高い投票率のもと約57%が反対したが、これは多くの世論調査の予想より僅差で、北部州とロイヤルティ諸島州では独立支持が強かった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Second independence referendum",
+    "ko": "제2차 독립 주민투표",
+    "zh": "第二次独立公投",
+    "ja": "第2回独立住民投票"
+   },
+   "description": {
+    "en": "In the second referendum on 4 October 2020, the margin narrowed further: about 53 percent voted to remain with France and about 47 percent for independence, on a turnout above 85 percent. The result showed a territory almost evenly divided, largely along ethnic and provincial lines.",
+    "ko": "2020년 10월 4일의 제2차 주민투표에서는 격차가 더 좁혀져 약 53%가 프랑스 잔류를, 약 47%가 독립을 택했으며 투표율은 85%를 넘었다. 결과는 대체로 민족과 주의 경계를 따라 영토가 거의 반반으로 갈라져 있음을 보여 주었다.",
+    "zh": "在2020年10月4日的第二次公投中，差距进一步缩小：约53%投票选择留在法国，约47%支持独立，投票率超过85%。结果表明该地几乎一分为二，分歧大体沿族群和省份界线展开。",
+    "ja": "2020年10月4日の第2回住民投票では差がさらに縮まり、約53%がフランス残留を、約47%が独立を選び、投票率は85%を超えた。結果は、領土がおおむね民族と州の境界に沿ってほぼ二分されていることを示した。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Third referendum, boycotted by independence parties",
+    "ko": "독립파가 보이콧한 제3차 주민투표",
+    "zh": "独立派抵制的第三次公投",
+    "ja": "独立派がボイコットした第3回住民投票"
+   },
+   "description": {
+    "en": "The third and final referendum under the Nouméa Accord was held on 12 December 2021 despite calls from independence parties to postpone it because of a COVID-19 outbreak and a period of customary mourning. They boycotted the vote, and on a turnout of about 44 percent some 96 percent chose to remain French. Independence leaders rejected the legitimacy of the result, leaving the territory's future unresolved after three consecutive 'no' votes.",
+    "ko": "누메아 협정에 따른 세 번째이자 마지막 주민투표는 코로나19 확산과 관습적 애도 기간을 이유로 연기를 요구한 독립파의 반대에도 2021년 12월 12일에 치러졌다. 독립파는 투표를 보이콧했고, 약 44%의 투표율 속에 약 96%가 프랑스 잔류를 택했다. 독립파 지도자들은 결과의 정당성을 인정하지 않았고, 세 차례 연속 '반대' 이후에도 영토의 미래는 미해결로 남았다.",
+    "zh": "努美阿协议规定的第三次也是最后一次公投于2021年12月12日举行，尽管独立派以新冠疫情暴发和传统服丧期为由要求推迟。独立派抵制投票，在约44%的投票率下，约96%的选票选择留在法国。独立派领导人不承认结果的合法性，在连续三次“否”票之后，该地的未来仍悬而未决。",
+    "ja": "ヌメア合意に基づく3回目にして最後の住民投票は、新型コロナの流行と慣習上の服喪期間を理由に延期を求めた独立派の反対にもかかわらず、2021年12月12日に実施された。独立派は投票をボイコットし、約44%の投票率のもと約96%がフランス残留を選んだ。独立派指導者は結果の正当性を認めず、3回続けての「否」の後も領土の将来は未解決のまま残った。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Unrest over electoral reform",
+    "ko": "선거 제도 개편을 둘러싼 소요",
+    "zh": "选举改革引发骚乱",
+    "ja": "選挙制度改革をめぐる騒乱"
+   },
+   "description": {
+    "en": "In May 2024, as the French parliament advanced a constitutional amendment to open the frozen provincial electoral roll to residents of ten years' standing, which independence supporters saw as diluting the Kanak vote, protests turned into widespread riots in Nouméa and elsewhere. Businesses were burned, more than a dozen people died, a state of emergency was declared and reinforcements were flown in from France. The reform was subsequently suspended and not pursued, and talks on the territory's future resumed.",
+    "ko": "2024년 5월 프랑스 의회가 동결된 주 선거인 명부를 10년 이상 거주자에게 개방하는 헌법 개정을 추진하자, 이를 카나크인의 표를 희석하는 조치로 본 독립 지지자들의 시위가 누메아 등지에서 대규모 폭동으로 번졌다. 상점과 기업이 불타고 10여 명이 숨졌으며, 비상사태가 선포되고 프랑스 본토에서 증원 병력이 급파되었다. 개정은 이후 중단되었다가 폐기되었고, 영토의 미래를 둘러싼 협상이 재개되었다.",
+    "zh": "2024年5月，法国议会推进一项修宪案，拟向居住满十年的居民开放已冻结的省级选民名册，独立派认为此举将稀释卡纳克人的选票，抗议随即在努美阿等地演变为大规模骚乱。大批商铺和企业被焚，十余人死亡，当局宣布紧急状态，并从法国本土紧急增派兵力。该改革随后被搁置并最终放弃，关于该地未来的谈判重新开启。",
+    "ja": "2024年5月、フランス議会が凍結されていた州議会の選挙人名簿を10年以上の居住者に開放する憲法改正を進めると、これをカナックの票を薄めるものとみた独立派の抗議がヌメアなどで大規模な暴動に発展した。店舗や企業が焼かれ、十数人が死亡し、非常事態が宣言されてフランス本国から増援が送り込まれた。改正はその後停止され、やがて断念され、領土の将来をめぐる協議が再開された。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Bougival agreement on a 'State of New Caledonia'",
+    "ko": "'뉴칼레도니아국'에 관한 부지발 합의",
+    "zh": "关于“新喀里多尼亚国”的布日瓦尔协议",
+    "ja": "「ニューカレドニア国」に関するブージヴァル合意"
+   },
+   "description": {
+    "en": "In July 2025, after talks convened by the French government at Bougival near Paris, delegations from New Caledonia's political parties signed a draft agreement proposing a 'State of New Caledonia' with its own nationality, inscribed in the French constitution while remaining linked to France. The main independence front, the FLNKS, subsequently rejected the text, and its implementation remained contested.",
+    "ko": "2025년 7월 프랑스 정부가 파리 근교 부지발에서 소집한 협상 끝에 뉴칼레도니아 각 정당 대표단은 프랑스 헌법에 명시되되 프랑스와의 연계를 유지하는, 고유의 국적을 가진 '뉴칼레도니아국'을 제안하는 합의안에 서명했다. 그러나 주요 독립 전선인 FLNKS는 이후 이 문안을 거부했고, 그 이행은 논란 속에 남았다.",
+    "zh": "2025年7月，在法国政府于巴黎附近布日瓦尔召集的谈判后，新喀里多尼亚各政党代表团签署一份协议草案，提出建立拥有自己国籍的“新喀里多尼亚国”，将其写入法国宪法，同时保持与法国的联系。主要独立阵线FLNKS随后拒绝了该文本，其落实仍存争议。",
+    "ja": "2025年7月、フランス政府がパリ近郊ブージヴァルで招集した協議の末、ニューカレドニア各政党の代表団は、独自の国籍を持ち、フランス憲法に明記されつつフランスとのつながりを保つ「ニューカレドニア国」を提案する合意案に署名した。しかし主要な独立派戦線FLNKSはその後この文書を拒否し、その実施は争われたままとなった。"
+   }
+  }
+ ]
+}

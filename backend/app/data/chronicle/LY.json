@@ -1,0 +1,2647 @@
+{
+ "iso": "LY",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -1500,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Green Sahara pastoralists and the rock art of the Acacus",
+    "ko": "녹색 사하라의 목축민과 아카쿠스 암각화",
+    "zh": "绿色撒哈拉的牧民与阿卡库斯岩画",
+    "ja": "緑のサハラの牧畜民とアカクス岩絵"
+   },
+   "summary": {
+    "en": "During the African Humid Period, much of what is now the Libyan Sahara was savanna dotted with lakes. Hunter-gatherers and, later, cattle herders lived in the Tadrart Acacus and Messak highlands of the Fezzan, leaving one of the world's richest collections of rock engravings and paintings. As the climate dried from the 4th and 3rd millennia BC, people retreated to oases, mountains and the coast.",
+    "ko": "아프리카 습윤기에는 오늘날 리비아 사하라의 상당 부분이 호수가 흩어진 사바나였다. 페잔 지방의 타드라르트 아카쿠스와 메사크 고원에는 수렵채집민과 뒤이어 소 목축민이 살았고, 세계에서 손꼽히게 풍부한 암각화와 암채화를 남겼다. 기원전 4천년기와 3천년기부터 기후가 건조해지자 사람들은 오아시스와 산지, 해안으로 물러났다.",
+    "zh": "在非洲湿润期，今天利比亚撒哈拉的大部分地区是湖泊点缀的稀树草原。狩猎采集者以及后来的养牛牧民生活在费赞地区的塔德拉尔特·阿卡库斯和迈萨克高原，留下了世界上最丰富的岩刻与岩画遗存之一。自公元前四千年纪和三千年纪起气候趋于干旱，人们退往绿洲、山地和沿海。",
+    "ja": "アフリカ湿潤期には、現在のリビア・サハラの大部分は湖が点在するサバンナだった。フェザーン地方のタドラルト・アカクスやメサック高原には狩猟採集民、のちに牛の牧畜民が暮らし、世界有数の豊かな岩刻画・岩壁画を残した。前4千年紀から前3千年紀にかけて乾燥化が進むと、人々はオアシスや山地、海岸へと移っていった。"
+   }
+  },
+  {
+   "from": -3000,
+   "to": -700,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Ancient Libyan peoples (Tehenu, Libu, Meshwesh)",
+    "ko": "고대 리비아 민족(테헤누·리부·메슈웨시)",
+    "zh": "古代利比亚诸族（特赫努、利布、梅什维什）",
+    "ja": "古代リビア諸民族（テヘヌ・リブ・メシュウェシュ）"
+   },
+   "summary": {
+    "en": "Egyptian records from the Old Kingdom onward describe the peoples living west of the Nile valley as the Tehenu and Tjemehu, and later the Libu (source of the name 'Libya') and Meshwesh. These Berber-speaking ancestors were herders who periodically clashed with or migrated into Egypt, most famously in the invasions repelled by Merneptah and Ramesses III. Libyan chiefs settled in the Delta eventually founded Egypt's 22nd Dynasty.",
+    "ko": "고왕국 시대 이후의 이집트 기록은 나일 계곡 서쪽에 사는 사람들을 테헤누와 테메후, 뒤에는 리부('리비아'라는 이름의 기원)와 메슈웨시라고 불렀다. 베르베르어를 쓰던 이들의 조상은 목축민으로, 때로 이집트와 충돌하거나 이집트로 이주했으며 메르넵타와 람세스 3세가 격퇴한 침입이 특히 유명하다. 델타에 정착한 리비아계 수장들은 마침내 이집트 제22왕조를 세웠다.",
+    "zh": "自古王国时代起，埃及文献把尼罗河谷以西的居民称作特赫努人和特麦胡人，后来又有利布人（“利比亚”一名的来源）和梅什维什人。这些操柏柏尔语的先民以畜牧为生，时而与埃及冲突，时而迁入埃及，其中以被麦伦普塔赫和拉美西斯三世击退的入侵最为著名。定居三角洲的利比亚首领最终建立了埃及第二十二王朝。",
+    "ja": "古王国時代以降のエジプトの記録は、ナイル谷の西に住む人々をテヘヌやチェメフ、のちにはリブ（「リビア」の語源）やメシュウェシュと呼んだ。ベルベル語系の言葉を話した彼らは牧畜民で、時にエジプトと衝突し、時にエジプトへ移住した。メルエンプタハとラムセス3世が撃退した侵入はとくに名高く、デルタに定住したリビア系首長はやがてエジプト第22王朝を開いた。"
+   }
+  },
+  {
+   "from": -1000,
+   "to": 700,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Garamantes of the Fezzan",
+    "ko": "페잔의 가라만테스",
+    "zh": "费赞的加拉曼特人",
+    "ja": "フェザーンのガラマンテス"
+   },
+   "summary": {
+    "en": "The Garamantes built the first urban civilization of the Sahara in the Fezzan, with their capital at Garama (modern Germa) in the Wadi al-Ajal. They tapped fossil groundwater through underground channels (foggaras) to farm oases, raised fortified villages and towns, and traded across the desert with the Mediterranean world. Their society declined in late antiquity as groundwater fell, and the region came under Arab rule in the 7th century.",
+    "ko": "가라만테스인은 페잔의 와디 알아잘에 있는 가라마(오늘날의 게르마)를 중심지로 사하라 최초의 도시 문명을 이루었다. 이들은 지하 수로(포가라)로 화석 지하수를 끌어 오아시스 농업을 했고, 요새화된 마을과 도시를 세웠으며 사막을 가로질러 지중해 세계와 교역했다. 고대 말기 지하수가 줄면서 쇠퇴했고, 7세기에 이 지역은 아랍의 지배 아래 들어갔다.",
+    "zh": "加拉曼特人在费赞建立了撒哈拉最早的城市文明，都城为阿贾勒谷地的加拉马（今杰尔马）。他们通过地下暗渠（福加拉）引取古地下水灌溉绿洲农田，修建设防的村镇，并穿越沙漠与地中海世界贸易。古代晚期随着地下水位下降而衰落，7世纪该地区归于阿拉伯人统治。",
+    "ja": "ガラマンテス人はフェザーンのワディ・アル＝アジャルにあるガラマ（現ジェルマ）を中心に、サハラ最初の都市文明を築いた。地下水路（フォガラ）で化石地下水を引いてオアシス農業を営み、要塞化した村や町を建て、砂漠を越えて地中海世界と交易した。古代末期に地下水が減ると衰退し、7世紀にこの地域はアラブの支配下に入った。"
+   }
+  },
+  {
+   "from": -700,
+   "to": -146,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Phoenician and Carthaginian Tripolitania",
+    "ko": "페니키아·카르타고 지배하의 트리폴리타니아",
+    "zh": "腓尼基与迦太基统治下的的黎波里塔尼亚",
+    "ja": "フェニキア・カルタゴ支配下のトリポリタニア"
+   },
+   "summary": {
+    "en": "Phoenician traders founded Leptis (Lepcis), Oea (Tripoli) and Sabratha on the western Libyan coast, and from the 6th century BC these 'Emporia' fell under the hegemony of Carthage. The towns lived from farming, olive oil and the caravan trade with the Garamantes, and Punic language and religion took deep root. A boundary with Greek Cyrenaica was fixed near the Altars of the Philaeni on the Gulf of Sirte.",
+    "ko": "페니키아 상인들은 리비아 서부 해안에 렙티스, 오이아(트리폴리), 사브라타를 세웠고, 기원전 6세기부터 이 '엠포리아'는 카르타고의 패권 아래 들어갔다. 도시들은 농업과 올리브유, 가라만테스와의 대상 교역으로 번영했으며 포에니어와 종교가 깊이 뿌리내렸다. 그리스계 키레나이카와의 경계는 시르테만의 '필라이니 형제의 제단' 부근으로 정해졌다.",
+    "zh": "腓尼基商人在利比亚西部海岸建立了莱普提斯、欧伊亚（今的黎波里）和萨布拉塔，自公元前6世纪起这些“商埠”归于迦太基的霸权之下。城市依靠农业、橄榄油以及与加拉曼特人的商队贸易而繁荣，布匿语言和宗教深深扎根。它与希腊人的昔兰尼加以苏尔特湾的“菲莱尼兄弟祭坛”附近为界。",
+    "ja": "フェニキア商人はリビア西部の海岸にレプティス、オエア（トリポリ）、サブラタを築き、前6世紀からこれら「エンポリア」はカルタゴの覇権下に入った。町は農業とオリーブ油、ガラマンテスとの隊商交易で栄え、ポエニ語と宗教が深く根づいた。ギリシア系のキレナイカとの境界は、シルテ湾の「ピラエニ兄弟の祭壇」付近に定められた。"
+   }
+  },
+  {
+   "from": -631,
+   "to": -322,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Greek Cyrene and the Pentapolis",
+    "ko": "그리스 도시 키레네와 펜타폴리스",
+    "zh": "希腊城邦昔兰尼与五城地区",
+    "ja": "ギリシア都市キュレネとペンタポリス"
+   },
+   "summary": {
+    "en": "Greek settlers from Thera founded Cyrene in 631 BC, and the Battiad kings ruled it for some two centuries before it became a republic. Cyrene and its daughter cities—Barca, Euesperides (Benghazi), Taucheira and Apollonia—formed the Pentapolis, growing rich on grain, horses and the medicinal plant silphium. The region gave its name to Cyrenaica and produced philosophers, poets and scientists.",
+    "ko": "테라섬의 그리스 이주민들은 기원전 631년 키레네를 세웠고, 바투스 왕조가 약 2세기 동안 다스린 뒤 공화정이 되었다. 키레네와 그 딸 도시인 바르카, 에우에스페리데스(벵가지), 타우케이라, 아폴로니아는 펜타폴리스를 이루었고, 곡물과 말, 약용 식물 실피움으로 부를 쌓았다. 이 지역은 키레나이카라는 이름의 기원이 되었고 철학자와 시인, 과학자를 배출했다.",
+    "zh": "来自锡拉岛的希腊移民于公元前631年建立昔兰尼，巴图斯王朝统治约两个世纪后改行共和制。昔兰尼与其子城巴尔卡、欧埃斯佩里德斯（今班加西）、陶克拉和阿波罗尼亚合称“五城”，凭借粮食、马匹和药用植物罗盘草致富。该地区因此得名昔兰尼加，并孕育了众多哲学家、诗人和科学家。",
+    "ja": "テラ島のギリシア人植民者は前631年にキュレネを建設し、バットス朝の王が約2世紀にわたって治めたのち共和政となった。キュレネとその娘都市バルカ、エウエスペリデス（ベンガジ）、タウケイラ、アポロニアはペンタポリスを形づくり、穀物や馬、薬用植物シルフィウムで富を築いた。この地はキレナイカの名の由来となり、哲学者や詩人、科学者を生んだ。"
+   }
+  },
+  {
+   "from": -525,
+   "to": -332,
+   "kind": "state",
+   "qid": "Q389688",
+   "polity": "Achaemenid Empire",
+   "name": {
+    "en": "Achaemenid Persian suzerainty",
+    "ko": "아케메네스 페르시아의 종주권",
+    "zh": "阿契美尼德波斯的宗主权",
+    "ja": "アケメネス朝ペルシアの宗主権"
+   },
+   "summary": {
+    "en": "After Cambyses II conquered Egypt in 525 BC, Cyrene and Barca submitted to Persia and paid tribute, and the Libyans of the eastern coast were counted among the empire's subject peoples. Persian control was loose and often nominal; the Greek cities kept their own institutions. Persian overlordship ended with Alexander the Great's conquest of Egypt in 332–331 BC.",
+    "ko": "기원전 525년 캄비세스 2세가 이집트를 정복한 뒤 키레네와 바르카는 페르시아에 복속해 공물을 바쳤고, 동부 해안의 리비아인들도 제국의 피지배 민족으로 꼽혔다. 페르시아의 통제는 느슨했고 명목적인 경우가 많아 그리스 도시들은 자체 제도를 유지했다. 페르시아의 종주권은 기원전 332~331년 알렉산드로스 대왕의 이집트 정복으로 끝났다.",
+    "zh": "公元前525年冈比西斯二世征服埃及后，昔兰尼和巴尔卡向波斯称臣纳贡，东部沿海的利比亚人也被列为帝国的属民。波斯的控制较为松散，往往只是名义上的，希腊城邦保留了自身制度。随着亚历山大大帝于公元前332至前331年征服埃及，波斯的宗主权宣告结束。",
+    "ja": "前525年にカンビュセス2世がエジプトを征服すると、キュレネとバルカはペルシアに服属して貢納し、東部沿岸のリビア人も帝国の従属民に数えられた。ペルシアの支配は緩やかで名目的なことが多く、ギリシア都市は独自の制度を保った。この宗主権は、前332～前331年のアレクサンドロス大王によるエジプト征服で終わった。"
+   }
+  },
+  {
+   "from": -322,
+   "to": -96,
+   "kind": "state",
+   "qid": "Q2320005",
+   "polity": "Ptolemaic Kingdom",
+   "name": {
+    "en": "Ptolemaic Cyrenaica",
+    "ko": "프톨레마이오스 왕조의 키레나이카",
+    "zh": "托勒密王朝治下的昔兰尼加",
+    "ja": "プトレマイオス朝のキレナイカ"
+   },
+   "summary": {
+    "en": "In 322 BC Ptolemy I of Egypt annexed Cyrene, and Cyrenaica remained in the Ptolemaic sphere for over two centuries, at times as a separate kingdom under Magas and later Ptolemaic princes. New city names such as Berenice (Benghazi) and Ptolemais date from this era. The last ruler, Ptolemy Apion, bequeathed the region to Rome on his death in 96 BC.",
+    "ko": "기원전 322년 이집트의 프톨레마이오스 1세가 키레네를 병합한 뒤 키레나이카는 2세기 넘게 프톨레마이오스 왕조의 세력권에 있었으며, 때로는 마가스와 후대 왕자들 아래에서 별도의 왕국을 이루었다. 베레니케(벵가지)와 프톨레마이스 같은 도시 이름이 이 시대에 생겼다. 마지막 통치자 프톨레마이오스 아피온은 기원전 96년 죽으면서 이 지역을 로마에 유증했다.",
+    "zh": "公元前322年，埃及的托勒密一世吞并昔兰尼，此后两个多世纪昔兰尼加一直处于托勒密王朝的势力范围内，有时在马加斯及后来的托勒密王子统治下成为独立王国。贝勒尼基（今班加西）、托勒迈斯等城名即源于这一时期。末代统治者托勒密·阿皮翁于公元前96年去世时将该地区遗赠给罗马。",
+    "ja": "前322年、エジプトのプトレマイオス1世がキュレネを併合し、以後2世紀以上キレナイカはプトレマイオス朝の勢力圏にあった。時にはマガスや後代の王子のもとで独立した王国ともなった。ベレニケ（ベンガジ）やプトレマイスといった都市名はこの時代に由来する。最後の支配者プトレマイオス・アピオンは前96年の死に際してこの地をローマに遺贈した。"
+   }
+  },
+  {
+   "from": -146,
+   "to": -46,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Numidian control of the Emporia",
+    "ko": "누미디아의 엠포리아 지배",
+    "zh": "努米底亚控制下的商埠地区",
+    "ja": "ヌミディアによるエンポリア支配"
+   },
+   "summary": {
+    "en": "As Carthage weakened after the Second Punic War, King Masinissa of Numidia seized the Emporia region of Tripolitania, and after Carthage's destruction in 146 BC the Tripolitanian towns lay within the Numidian sphere while enjoying wide autonomy. Leptis Magna allied itself with Rome during the Jugurthine War. Numidian rule ended when Julius Caesar defeated Juba I in 46 BC.",
+    "ko": "제2차 포에니 전쟁 이후 카르타고가 약해지자 누미디아 왕 마시니사는 트리폴리타니아의 엠포리아 지역을 차지했고, 기원전 146년 카르타고가 멸망한 뒤 트리폴리타니아의 도시들은 넓은 자치를 누리며 누미디아의 세력권에 있었다. 렙티스 마그나는 유구르타 전쟁 중 로마와 동맹했다. 누미디아의 지배는 기원전 46년 율리우스 카이사르가 유바 1세를 무찌르면서 끝났다.",
+    "zh": "第二次布匿战争后迦太基衰落，努米底亚国王马西尼萨夺取了的黎波里塔尼亚的商埠地区；公元前146年迦太基灭亡后，的黎波里塔尼亚诸城在享有广泛自治的同时处于努米底亚的势力范围。朱古达战争期间大莱普提斯与罗马结盟。公元前46年尤利乌斯·恺撒击败朱巴一世，努米底亚的统治随之结束。",
+    "ja": "第二次ポエニ戦争後にカルタゴが弱まると、ヌミディア王マシニッサはトリポリタニアのエンポリア地方を奪い、前146年のカルタゴ滅亡後もトリポリタニアの諸都市は広い自治を保ちつつヌミディアの勢力圏にあった。ユグルタ戦争の際、レプティス・マグナはローマと同盟した。ヌミディアの支配は、前46年にユリウス・カエサルがユバ1世を破ったことで終わった。"
+   }
+  },
+  {
+   "from": -96,
+   "to": -27,
+   "kind": "state",
+   "qid": "Q175881",
+   "polity": "Roman Republic",
+   "name": {
+    "en": "Roman Republic: Cyrenaica becomes Roman",
+    "ko": "로마 공화정: 키레나이카의 로마 편입",
+    "zh": "罗马共和国：昔兰尼加并入罗马",
+    "ja": "ローマ共和政：キレナイカのローマ編入"
+   },
+   "summary": {
+    "en": "Rome inherited Cyrenaica in 96 BC but organized it as a province only in 74 BC, later joining it with Crete. In 46 BC Caesar annexed the Numidian lands, bringing Tripolitania into the province of Africa Nova. By the end of the Republic the whole Libyan coast was under Roman authority.",
+    "ko": "로마는 기원전 96년 키레나이카를 상속했지만 기원전 74년에야 속주로 조직했고, 뒤에 크레타와 합쳤다. 기원전 46년 카이사르는 누미디아 영토를 병합해 트리폴리타니아를 아프리카 노바 속주에 편입했다. 공화정 말기에 이르러 리비아 해안 전체가 로마의 권위 아래 들어갔다.",
+    "zh": "罗马于公元前96年继承昔兰尼加，但直到公元前74年才设为行省，后又与克里特合并。公元前46年恺撒吞并努米底亚领土，将的黎波里塔尼亚纳入新阿非利加行省。到共和国末期，利比亚整个海岸都已处于罗马的统治之下。",
+    "ja": "ローマは前96年にキレナイカを相続したが、属州として組織したのは前74年で、のちにクレタと合わせた。前46年にはカエサルがヌミディア領を併合し、トリポリタニアは新アフリカ属州に組み込まれた。共和政末期までに、リビアの海岸全体がローマの支配下に入った。"
+   }
+  },
+  {
+   "from": -27,
+   "to": 455,
+   "kind": "state",
+   "qid": null,
+   "polity": "Roman Empire",
+   "name": {
+    "en": "Roman Libya (Tripolitania and Cyrenaica)",
+    "ko": "로마 제국령 리비아(트리폴리타니아와 키레나이카)",
+    "zh": "罗马帝国治下的利比亚（的黎波里塔尼亚与昔兰尼加）",
+    "ja": "ローマ帝国領リビア（トリポリタニアとキレナイカ）"
+   },
+   "summary": {
+    "en": "Under the Roman Empire, Tripolitania's olive-oil cities—Leptis Magna, Oea and Sabratha—flourished, reaching their peak under the Leptis-born emperor Septimius Severus. Cyrenaica, part of the province of Crete and Cyrene, recovered from the Jewish revolt of 115–117 but was later hit by raids and the great earthquake of 365. Christianity spread from the 3rd century, and Diocletian's reforms created the provinces of Tripolitania and Libya Superior and Inferior.",
+    "ko": "로마 제국 아래에서 트리폴리타니아의 올리브유 도시인 렙티스 마그나, 오이아, 사브라타는 번성했고, 렙티스 출신 황제 셉티미우스 세베루스 때 절정에 이르렀다. 크레타·키레네 속주에 속한 키레나이카는 115~117년 유대인 반란에서 회복했으나 뒤에 유목민의 습격과 365년 대지진을 겪었다. 3세기부터 그리스도교가 퍼졌고, 디오클레티아누스의 개혁으로 트리폴리타니아와 상·하 리비아 속주가 생겼다.",
+    "zh": "在罗马帝国治下，的黎波里塔尼亚的橄榄油城市大莱普提斯、欧伊亚和萨布拉塔繁荣兴盛，在莱普提斯出身的皇帝塞普蒂米乌斯·塞维鲁时期达到顶峰。昔兰尼加属克里特和昔兰尼行省，从115至117年的犹太人起义中恢复，后来又遭游牧部落袭扰和365年大地震。3世纪起基督教传播开来，戴克里先改革设立了的黎波里塔尼亚行省以及上、下利比亚行省。",
+    "ja": "ローマ帝国のもとで、トリポリタニアのオリーブ油都市レプティス・マグナ、オエア、サブラタは繁栄し、レプティス出身の皇帝セプティミウス・セウェルスの時代に最盛期を迎えた。クレタ・キュレネ属州に属したキレナイカは115～117年のユダヤ人反乱から立ち直ったが、のちに遊牧民の襲撃や365年の大地震に見舞われた。3世紀からキリスト教が広まり、ディオクレティアヌスの改革でトリポリタニア属州と上下リビア属州が設けられた。"
+   }
+  },
+  {
+   "from": 395,
+   "to": 643,
+   "kind": "state",
+   "qid": "Q12544",
+   "polity": "Eastern Roman Empire",
+   "name": {
+    "en": "Eastern Roman (Byzantine) rule",
+    "ko": "동로마(비잔티움) 제국의 지배",
+    "zh": "东罗马（拜占庭）帝国的统治",
+    "ja": "東ローマ（ビザンツ）帝国の支配"
+   },
+   "summary": {
+    "en": "After the division of the empire in 395, Cyrenaica belonged to the Eastern Roman Empire, governed from Constantinople and closely tied to Alexandria. Tripolitania, lost to the Vandals in the 5th century, was reconquered in 533 under Justinian, who refortified its cities and built churches. Byzantine authority, weakened by Berber revolts and declining towns, collapsed before the Arab conquest of 642–647.",
+    "ko": "395년 제국이 분열된 뒤 키레나이카는 동로마 제국에 속해 콘스탄티노폴리스의 통치를 받았고 알렉산드리아와 밀접히 연결되었다. 5세기에 반달족에게 빼앗겼던 트리폴리타니아는 533년 유스티니아누스 치세에 재정복되었고, 황제는 도시들의 성벽을 다시 쌓고 교회를 세웠다. 베르베르인의 반란과 도시의 쇠퇴로 약해진 비잔티움의 권위는 642~647년 아랍의 정복 앞에 무너졌다.",
+    "zh": "395年帝国分裂后，昔兰尼加归属东罗马帝国，由君士坦丁堡管辖，并与亚历山大港关系密切。5世纪落入汪达尔人之手的的黎波里塔尼亚于533年在查士丁尼时期被收复，他重修城墙、兴建教堂。拜占庭的统治因柏柏尔人起义和城市衰落而削弱，在642至647年的阿拉伯征服面前瓦解。",
+    "ja": "395年の帝国分割後、キレナイカは東ローマ帝国に属してコンスタンティノープルから統治され、アレクサンドリアと密接に結びついていた。5世紀にヴァンダル族に奪われたトリポリタニアは533年ユスティニアヌスのもとで再征服され、皇帝は都市の城壁を築き直し教会を建てた。ベルベル人の反乱と都市の衰退で弱まったビザンツの権威は、642～647年のアラブの征服の前に崩れた。"
+   }
+  },
+  {
+   "from": 455,
+   "to": 533,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Vandal Kingdom in Tripolitania",
+    "ko": "트리폴리타니아의 반달 왕국",
+    "zh": "的黎波里塔尼亚的汪达尔王国",
+    "ja": "トリポリタニアのヴァンダル王国"
+   },
+   "summary": {
+    "en": "After taking Carthage in 439, the Vandals under Gaiseric extended their rule to Tripolitania around 455, while Cyrenaica stayed Byzantine. Vandal control was thin: Berber tribes from the interior raided the coastal towns, and Leptis Magna and Sabratha declined sharply. Belisarius's campaign of 533 ended the Vandal kingdom.",
+    "ko": "439년 카르타고를 점령한 반달족은 가이세리크의 지휘 아래 455년경 트리폴리타니아까지 지배를 넓혔고, 키레나이카는 비잔티움령으로 남았다. 반달의 통제는 엷어서 내륙의 베르베르 부족들이 해안 도시를 습격했고, 렙티스 마그나와 사브라타는 크게 쇠퇴했다. 533년 벨리사리우스의 원정으로 반달 왕국은 끝났다.",
+    "zh": "汪达尔人于439年攻占迦太基后，在盖萨里克率领下约于455年将统治扩展到的黎波里塔尼亚，而昔兰尼加仍属拜占庭。汪达尔人的控制十分薄弱，内陆的柏柏尔部落不断袭击沿海城市，大莱普提斯和萨布拉塔急剧衰落。533年贝利萨留的远征终结了汪达尔王国。",
+    "ja": "439年にカルタゴを奪ったヴァンダル族は、ガイセリックのもとで455年頃トリポリタニアにも支配を広げたが、キレナイカはビザンツ領にとどまった。ヴァンダルの支配は弱く、内陸のベルベル諸部族が沿岸都市を襲い、レプティス・マグナやサブラタは大きく衰えた。533年のベリサリウスの遠征でヴァンダル王国は終わった。"
+   }
+  },
+  {
+   "from": 643,
+   "to": 800,
+   "kind": "state",
+   "qid": "Q8575586",
+   "polity": "Umayyad Caliphate",
+   "name": {
+    "en": "Arab conquest and early caliphal rule",
+    "ko": "아랍 정복과 초기 칼리파 통치",
+    "zh": "阿拉伯征服与早期哈里发统治",
+    "ja": "アラブの征服と初期カリフ支配"
+   },
+   "summary": {
+    "en": "Arab armies under Amr ibn al-As took Barqa and Tripoli in 642–643, and Libya was governed first by the Rashidun and then by the Umayyad caliphs, largely as a corridor to Ifriqiya and the Maghreb. Many Berbers converted to Islam, and Ibadi Kharijism took hold in the Jabal Nafusa, where an Ibadi imamate briefly ruled Tripoli in the 750s. After 750 the region passed to the Abbasids.",
+    "ko": "아므르 이븐 알아스가 이끄는 아랍군은 642~643년 바르카와 트리폴리를 점령했고, 리비아는 정통 칼리파들과 뒤이어 우마이야 칼리파들의 지배를 받으며 주로 이프리키야와 마그레브로 가는 통로 구실을 했다. 많은 베르베르인이 이슬람으로 개종했고, 나푸사산지에는 이바디파 하와리즈가 뿌리내려 750년대에는 이바디 이맘국이 잠시 트리폴리를 다스렸다. 750년 이후 이 지역은 아바스 왕조로 넘어갔다.",
+    "zh": "642至643年，阿慕尔·本·阿斯率领的阿拉伯军队攻占巴尔卡和的黎波里，利比亚先后受四大哈里发和倭马亚王朝统治，主要充当通往易弗里基叶和马格里布的走廊。许多柏柏尔人皈依伊斯兰教，伊巴德派哈瓦利吉思想在奈富塞山扎根，750年代一个伊巴德伊玛目政权曾短暂统治的黎波里。750年后该地区转归阿拔斯王朝。",
+    "ja": "アムル・イブン・アル＝アースのアラブ軍は642～643年にバルカとトリポリを占領し、リビアは正統カリフ、ついでウマイヤ朝の支配を受け、主にイフリーキヤやマグリブへの回廊となった。多くのベルベル人がイスラームに改宗し、ナフーサ山地にはイバード派ハワーリジュが根づいて、750年代にはイバード派イマーム政権が一時トリポリを治めた。750年以後、この地はアッバース朝に移った。"
+   }
+  },
+  {
+   "from": 750,
+   "to": 909,
+   "kind": "state",
+   "qid": "Q207600",
+   "polity": "Aghlabid Dynasty",
+   "name": {
+    "en": "Abbasid governors and the Aghlabid emirate",
+    "ko": "아바스 총독과 아글라브 왕조",
+    "zh": "阿拔斯总督与阿格拉布王朝",
+    "ja": "アッバース朝総督とアグラブ朝"
+   },
+   "summary": {
+    "en": "Under the Abbasids, Tripolitania was governed from Kairouan, and from 800 it formed part of the Aghlabid emirate, which ruled Ifriqiya with near-independence in the caliph's name. The Ibadis of the Jabal Nafusa remained a powerful autonomous community linked to the Rustamid imamate of Tahert. Cyrenaica, by contrast, looked mostly toward Egypt.",
+    "ko": "아바스 왕조 시대에 트리폴리타니아는 카이루안에서 통치되었고, 800년부터는 칼리파의 이름으로 사실상 독립적으로 이프리키야를 다스린 아글라브 왕조의 영역에 속했다. 나푸사산지의 이바디파는 타헤르트의 루스탐 왕조 이맘국과 연결된 강력한 자치 공동체로 남았다. 반면 키레나이카는 주로 이집트 쪽을 바라보았다.",
+    "zh": "阿拔斯王朝时期，的黎波里塔尼亚由凯鲁万管辖，自800年起归属以哈里发名义近乎独立地统治易弗里基叶的阿格拉布王朝。奈富塞山的伊巴德派仍是与提亚雷特鲁斯塔姆伊玛目国相联系的强大自治群体。相比之下，昔兰尼加主要面向埃及。",
+    "ja": "アッバース朝時代、トリポリタニアはカイルアンから統治され、800年からはカリフの名のもとで事実上独立してイフリーキヤを治めたアグラブ朝の領域に属した。ナフーサ山地のイバード派は、ターハルトのルスタム朝イマーム国と結びついた有力な自治共同体であり続けた。一方キレナイカは主にエジプトの方を向いていた。"
+   }
+  },
+  {
+   "from": 909,
+   "to": 1051,
+   "kind": "state",
+   "qid": "Q160307",
+   "polity": "Fatimid Caliphate",
+   "name": {
+    "en": "Fatimid Caliphate and the Zirids",
+    "ko": "파티마 칼리파국과 지리 왕조",
+    "zh": "法蒂玛王朝与齐里王朝",
+    "ja": "ファーティマ朝とズィール朝"
+   },
+   "summary": {
+    "en": "The Shi'a Fatimids overthrew the Aghlabids in 909 and ruled Libya on their way to conquering Egypt in 969. After moving to Cairo they left the Maghreb to the Berber Zirid dynasty, while local Berber families such as the Banu Khazrun held Tripoli. In the mid-11th century the Zirids broke with Cairo, and the Fatimids responded by sending Arab Bedouin tribes westward.",
+    "ko": "시아파 파티마 왕조는 909년 아글라브 왕조를 무너뜨리고, 969년 이집트를 정복하러 가는 과정에서 리비아를 지배했다. 카이로로 옮긴 뒤 이들은 마그레브를 베르베르계 지리 왕조에 맡겼고, 바누 하즈룬 같은 현지 베르베르 가문이 트리폴리를 장악했다. 11세기 중엽 지리 왕조가 카이로와 결별하자 파티마 왕조는 아랍 베두인 부족들을 서쪽으로 보냈다.",
+    "zh": "什叶派法蒂玛王朝于909年推翻阿格拉布王朝，并在969年征服埃及的过程中统治利比亚。迁都开罗后，他们将马格里布交给柏柏尔人的齐里王朝，而哈兹伦家族等当地柏柏尔家族则据有的黎波里。11世纪中叶齐里王朝与开罗决裂，法蒂玛王朝随即驱使阿拉伯贝都因部落西进。",
+    "ja": "シーア派のファーティマ朝は909年にアグラブ朝を倒し、969年のエジプト征服へ向かう過程でリビアを支配した。カイロ遷都後はマグリブをベルベル系のズィール朝に委ね、トリポリはバヌー・ハズルーンなど現地のベルベル系一族が握った。11世紀半ばにズィール朝がカイロと決別すると、ファーティマ朝はアラブ系ベドウィン諸部族を西へ送り込んだ。"
+   }
+  },
+  {
+   "from": 918,
+   "to": 1813,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Fezzan: Zawila, Kanem and the Awlad Muhammad",
+    "ko": "페잔: 자윌라, 카넴, 아울라드 무함마드",
+    "zh": "费赞：扎维拉、加涅姆与穆罕默德家族",
+    "ja": "フェザーン：ザウィーラ、カネム、アウラード・ムハンマド"
+   },
+   "summary": {
+    "en": "In the Saharan Fezzan, the Ibadi Banu Khattab ruled from Zawila, a key slave- and gold-trade entrepôt, from the early 10th century until the Ayyubid adventurer Qaraqush ended their rule in the 1170s. In the 13th century the Kanem kings of the Lake Chad region extended their influence into the Fezzan. From the mid-16th century the Awlad Muhammad dynasty ruled from Murzuk, often paying tribute to Tripoli, until the Karamanlis absorbed it in the early 19th century.",
+    "ko": "사하라의 페잔에서는 노예와 금 교역의 중심지였던 자윌라를 근거로 이바디파 바누 하타브가 10세기 초부터 1170년대 아이유브계 모험가 카라쿠시가 그들의 지배를 끝낼 때까지 다스렸다. 13세기에는 차드호 일대의 카넴 왕들이 페잔까지 영향력을 넓혔다. 16세기 중엽부터는 아울라드 무함마드 왕조가 무르주크에서 다스리며 흔히 트리폴리에 공납했고, 19세기 초 카라만리 왕조에 흡수되었다.",
+    "zh": "在撒哈拉的费赞，伊巴德派的哈塔卜家族以奴隶和黄金贸易重镇扎维拉为中心，从10世纪初统治到1170年代被阿尤布王朝的冒险家卡拉库什终结。13世纪，乍得湖地区的加涅姆国王将势力扩展到费赞。自16世纪中叶起，穆罕默德家族王朝定都迈尔祖格，常向的黎波里纳贡，直到19世纪初被卡拉曼利王朝吞并。",
+    "ja": "サハラのフェザーンでは、奴隷と金の交易拠点ザウィーラを本拠にイバード派のバヌー・ハッターブが10世紀初めから統治し、1170年代にアイユーブ朝系の冒険者カラークーシュがその支配を終わらせた。13世紀にはチャド湖地方のカネム王がフェザーンに勢力を伸ばした。16世紀半ばからはアウラード・ムハンマド朝がムルズクを拠点に治め、しばしばトリポリに貢納したが、19世紀初めにカラマンリ朝に併合された。"
+   }
+  },
+  {
+   "from": 1051,
+   "to": 1160,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Hilalian migrations and fragmentation",
+    "ko": "힐랄족 이주와 분열의 시대",
+    "zh": "希拉勒部落迁徙与分裂时代",
+    "ja": "ヒラール族の移住と分裂の時代"
+   },
+   "summary": {
+    "en": "From around 1051 the Banu Hilal and Banu Sulaym, Arab Bedouin tribes sent west by the Fatimids, swept into Cyrenaica and Tripolitania; the Sulaym settled there in large numbers. Their arrival accelerated the Arabization of the countryside and weakened settled agriculture and urban life. Tripoli was held by local dynasties until the Normans of Sicily seized it in 1146, followed by the Almohads in 1160.",
+    "ko": "1051년 무렵부터 파티마 왕조가 서쪽으로 보낸 아랍 베두인 부족인 바누 힐랄과 바누 술라임이 키레나이카와 트리폴리타니아로 밀려들었고, 특히 술라임족이 대거 정착했다. 이들의 도래는 농촌의 아랍화를 가속하고 정주 농업과 도시 생활을 약화시켰다. 트리폴리는 현지 왕조들이 지키다가 1146년 시칠리아의 노르만인에게, 1160년에는 무와히드 왕조에게 넘어갔다.",
+    "zh": "约自1051年起，被法蒂玛王朝驱使西进的阿拉伯贝都因部落希拉勒人和苏莱姆人涌入昔兰尼加和的黎波里塔尼亚，其中苏莱姆人大量定居于此。他们的到来加速了乡村的阿拉伯化，削弱了定居农业和城市生活。的黎波里由地方王朝据守，1146年被西西里的诺曼人夺取，1160年又落入穆瓦希德王朝之手。",
+    "ja": "1051年頃から、ファーティマ朝が西方へ送ったアラブ系ベドウィンのバヌー・ヒラールとバヌー・スライムがキレナイカとトリポリタニアに押し寄せ、とくにスライム族が大量に定住した。彼らの到来は農村のアラブ化を加速させ、定住農業と都市生活を弱めた。トリポリは在地の王朝が保持したが、1146年にシチリアのノルマン人、1160年にはムワッヒド朝の手に渡った。"
+   }
+  },
+  {
+   "from": 1160,
+   "to": 1510,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Almohads and Hafsids in Tripolitania",
+    "ko": "트리폴리타니아의 무와히드 왕조와 하프스 왕조",
+    "zh": "的黎波里塔尼亚的穆瓦希德王朝与哈夫斯王朝",
+    "ja": "トリポリタニアのムワッヒド朝とハフス朝"
+   },
+   "summary": {
+    "en": "Tripoli became the eastern outpost of the Almohad empire in 1160 and, after 1229, of the Hafsid kingdom based in Tunis. Hafsid control was often indirect: local families, notably the Banu Thabit in the 14th century, governed Tripoli, and the city was sacked by the Genoese in 1355. The Bedouin interior lived largely beyond state control until the Spanish seized Tripoli in 1510.",
+    "ko": "트리폴리는 1160년 무와히드 제국의 동쪽 전초 기지가 되었고, 1229년 이후에는 튀니스를 근거로 한 하프스 왕국의 영역이 되었다. 하프스 왕조의 통제는 간접적인 경우가 많아 14세기에는 바누 타비트 같은 현지 가문이 트리폴리를 다스렸고, 1355년에는 제노바인이 도시를 약탈했다. 베두인이 사는 내륙은 1510년 스페인이 트리폴리를 점령할 때까지 대체로 국가의 통제 밖에 있었다.",
+    "zh": "的黎波里于1160年成为穆瓦希德帝国的东部前哨，1229年后又成为以突尼斯为中心的哈夫斯王国的领地。哈夫斯王朝的控制常常是间接的：14世纪由萨比特家族等地方家族治理的黎波里，1355年该城遭热那亚人洗劫。贝都因人生活的内陆基本处于国家控制之外，直到1510年西班牙攻占的黎波里。",
+    "ja": "トリポリは1160年にムワッヒド帝国の東端の拠点となり、1229年以後はチュニスを本拠とするハフス朝の領域となった。ハフス朝の支配は間接的なことが多く、14世紀にはバヌー・サービトなど在地の一族がトリポリを治め、1355年にはジェノヴァ人が町を略奪した。ベドウィンの住む内陸は、1510年にスペインがトリポリを占領するまで、おおむね国家の統制の外にあった。"
+   }
+  },
+  {
+   "from": 1171,
+   "to": 1517,
+   "kind": "period",
+   "qid": "Q282428",
+   "polity": "Mamluk Sultanate",
+   "name": {
+    "en": "Cyrenaica between Egypt and the Bedouin",
+    "ko": "이집트와 베두인 사이의 키레나이카",
+    "zh": "介于埃及与贝都因人之间的昔兰尼加",
+    "ja": "エジプトとベドウィンのはざまのキレナイカ"
+   },
+   "summary": {
+    "en": "After the Hilalian migrations, Cyrenaica was dominated by Bedouin tribes of the Banu Sulaym and lost most of its ancient cities. The Ayyubid and then Mamluk sultans of Egypt claimed authority over Barqa, but their control was largely nominal beyond the eastern coast. The region remained a pastoral land and a pilgrimage and caravan route between the Maghreb and Egypt.",
+    "ko": "힐랄족 이주 이후 키레나이카는 바누 술라임 계통 베두인 부족들이 지배했고 고대 도시들은 대부분 사라졌다. 이집트의 아이유브 왕조와 뒤이은 맘루크 술탄들은 바르카에 대한 권위를 주장했지만, 동부 해안 너머로는 대체로 명목적인 통제에 그쳤다. 이 지역은 목축지이자 마그레브와 이집트를 잇는 순례·대상로로 남았다.",
+    "zh": "希拉勒部落迁徙之后，昔兰尼加由苏莱姆部落的贝都因人主导，古代城市大多湮没。埃及的阿尤布王朝和随后的马穆鲁克苏丹声称对巴尔卡拥有权威，但在东部沿海以外基本只是名义上的控制。该地区仍是牧区，也是连接马格里布与埃及的朝觐和商队通道。",
+    "ja": "ヒラール族の移住後、キレナイカはバヌー・スライム系ベドウィン諸部族が支配し、古代都市の多くは姿を消した。エジプトのアイユーブ朝、ついでマムルーク朝のスルタンはバルカへの権威を主張したが、東部沿岸の外では概して名目的な支配にとどまった。この地は牧畜地帯であり、マグリブとエジプトを結ぶ巡礼・隊商路であり続けた。"
+   }
+  },
+  {
+   "from": 1510,
+   "to": 1551,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Spanish and Hospitaller Tripoli",
+    "ko": "스페인과 구호기사단의 트리폴리",
+    "zh": "西班牙与医院骑士团统治下的的黎波里",
+    "ja": "スペインと聖ヨハネ騎士団のトリポリ"
+   },
+   "summary": {
+    "en": "Spain captured Tripoli in 1510 as part of its campaigns along the North African coast, and in 1530 Emperor Charles V handed the city, together with Malta, to the Knights of St John. The Knights held it as an isolated Christian fortress amid hostile territory. The Ottomans took it in 1551.",
+    "ko": "스페인은 북아프리카 해안 원정의 하나로 1510년 트리폴리를 점령했고, 1530년 카를 5세는 몰타와 함께 이 도시를 성 요한 기사단에 넘겼다. 기사단은 적대적인 땅 한가운데 고립된 그리스도교 요새로서 이곳을 지켰다. 1551년 오스만 제국이 이 도시를 빼앗았다.",
+    "zh": "1510年，西班牙在北非沿岸征战中攻占的黎波里；1530年，查理五世将该城连同马耳他一并交给圣约翰骑士团。骑士团把它作为敌对地区中一座孤立的基督教要塞据守。1551年奥斯曼帝国夺取了该城。",
+    "ja": "スペインは北アフリカ沿岸遠征の一環として1510年にトリポリを占領し、1530年にカール5世はマルタとともにこの町を聖ヨハネ騎士団に与えた。騎士団は敵対的な土地に孤立したキリスト教の要塞としてここを守った。1551年、オスマン帝国が町を奪った。"
+   }
+  },
+  {
+   "from": 1551,
+   "to": 1711,
+   "kind": "state",
+   "qid": "Q12560",
+   "polity": "Ottoman Empire",
+   "name": {
+    "en": "Ottoman Tripolitania (first period)",
+    "ko": "오스만 트리폴리타니아(제1기)",
+    "zh": "奥斯曼的黎波里塔尼亚（第一时期）",
+    "ja": "オスマン朝トリポリタニア（第1期）"
+   },
+   "summary": {
+    "en": "After capturing Tripoli in 1551, the Ottomans made it the seat of a province (eyalet) that gradually extended its reach into Cyrenaica and the Fezzan. Real power soon passed to the Janissary garrison and its elected deys, and Tripoli became one of the Barbary corsair bases that raided Mediterranean shipping. European navies repeatedly bombarded the city to enforce treaties.",
+    "ko": "1551년 트리폴리를 점령한 오스만 제국은 이곳을 주(에얄레트)의 중심지로 삼았고, 점차 키레나이카와 페잔까지 영향력을 넓혔다. 실권은 곧 예니체리 수비대와 그들이 뽑은 데이에게 넘어갔고, 트리폴리는 지중해 선박을 습격하는 바르바리 해적의 근거지 가운데 하나가 되었다. 유럽 해군은 조약을 강요하려고 여러 차례 도시를 포격했다.",
+    "zh": "1551年攻占的黎波里后，奥斯曼帝国以此为行省（埃亚莱特）首府，并逐步把势力延伸到昔兰尼加和费赞。实权很快落入近卫军驻军及其推选的德伊手中，的黎波里成为袭击地中海船只的巴巴里海盗基地之一。欧洲海军多次炮击该城以迫使其遵守条约。",
+    "ja": "1551年にトリポリを奪ったオスマン帝国は、ここを州（エヤレト）の中心とし、徐々にキレナイカやフェザーンへ勢力を広げた。実権はまもなくイェニチェリ守備隊と彼らが選ぶデイに移り、トリポリは地中海の船舶を襲うバルバリア海賊の拠点の一つとなった。ヨーロッパの海軍は条約を守らせるため、たびたび町を砲撃した。"
+   }
+  },
+  {
+   "from": 1711,
+   "to": 1835,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Karamanli dynasty",
+    "ko": "카라만리 왕조",
+    "zh": "卡拉曼利王朝",
+    "ja": "カラマンリ朝"
+   },
+   "summary": {
+    "en": "Ahmed Karamanli, a cavalry officer of Turkish-local descent, seized power in 1711 and founded a hereditary dynasty that ruled Tripolitania, and later Cyrenaica and the Fezzan, under nominal Ottoman suzerainty. The regency lived from corsairing, tribute from European states and trans-Saharan trade. Under Yusuf Karamanli it fought the First Barbary War with the United States, but European pressure against corsairing, debt and civil war led the Ottomans to restore direct rule in 1835.",
+    "ko": "튀르크계와 현지계 혈통의 기병 장교 아흐메드 카라만리는 1711년 권력을 잡고, 오스만의 명목적 종주권 아래 트리폴리타니아와 뒤에는 키레나이카, 페잔까지 다스린 세습 왕조를 세웠다. 이 섭정국은 해적 활동, 유럽 국가들의 공납금, 사하라 종단 무역으로 살았다. 유수프 카라만리 때 미국과 제1차 바르바리 전쟁을 치렀으나, 해적 활동에 대한 유럽의 압력과 부채, 내전으로 오스만 제국은 1835년 직접 통치를 되살렸다.",
+    "zh": "具有土耳其与本地混合血统的骑兵军官艾哈迈德·卡拉曼利于1711年夺取政权，建立世袭王朝，在奥斯曼名义宗主权下统治的黎波里塔尼亚，后来又扩及昔兰尼加和费赞。这一摄政国依靠海盗活动、欧洲国家的贡金和跨撒哈拉贸易维持。尤素福·卡拉曼利时期曾与美国进行第一次巴巴里战争，但欧洲对海盗活动的压力、债务和内战使奥斯曼帝国于1835年恢复直接统治。",
+    "ja": "トルコ系と在地の血を引く騎兵将校アフメト・カラマンリは1711年に実権を握り、オスマン帝国の名目的な宗主権のもとでトリポリタニア、のちにはキレナイカとフェザーンまで治める世襲王朝を開いた。この摂政国は海賊行為、ヨーロッパ諸国からの貢納金、サハラ縦断交易で成り立っていた。ユースフ・カラマンリの時代には第一次バーバリ戦争でアメリカと戦ったが、海賊行為へのヨーロッパの圧力、債務、内戦により、オスマン帝国は1835年に直接統治を復活させた。"
+   }
+  },
+  {
+   "from": 1835,
+   "to": 1911,
+   "kind": "state",
+   "qid": "Q1529261",
+   "polity": "Ottoman Tripolitania",
+   "name": {
+    "en": "Ottoman Tripolitania (second period) and the Senussi",
+    "ko": "오스만 트리폴리타니아(제2기)와 사누시 교단",
+    "zh": "奥斯曼的黎波里塔尼亚（第二时期）与赛努西教团",
+    "ja": "オスマン朝トリポリタニア（第2期）とサヌーシー教団"
+   },
+   "summary": {
+    "en": "The Ottomans ended Karamanli rule in 1835 and governed Tripolitania directly, applying the Tanzimat reforms; Benghazi became the seat of a separate district for Cyrenaica. After suppressing tribal revolts, they extended control to the Fezzan. Meanwhile the Senussi Sufi order, founded in 1843 at al-Bayda, built a network of lodges across Cyrenaica and the Sahara that became the backbone of later resistance.",
+    "ko": "오스만 제국은 1835년 카라만리 왕조를 끝내고 탄지마트 개혁을 적용하며 트리폴리타니아를 직접 다스렸고, 벵가지는 키레나이카를 관할하는 별도 행정구역의 중심이 되었다. 부족 반란을 진압한 뒤에는 페잔까지 통제를 넓혔다. 한편 1843년 알바이다에서 창설된 수피 교단 사누시야는 키레나이카와 사하라 곳곳에 수도장 네트워크를 세웠고, 이는 훗날 저항 운동의 근간이 되었다.",
+    "zh": "奥斯曼帝国于1835年结束卡拉曼利王朝，推行坦齐马特改革并直接统治的黎波里塔尼亚；班加西成为管辖昔兰尼加的单独行政区首府。镇压部落叛乱后，其控制延伸至费赞。与此同时，1843年在贝达创立的苏非派赛努西教团在昔兰尼加和撒哈拉各地建立了道堂网络，成为日后抵抗运动的支柱。",
+    "ja": "オスマン帝国は1835年にカラマンリ朝を終わらせ、タンジマート改革を適用しつつトリポリタニアを直接統治し、ベンガジはキレナイカを管轄する別の行政区の中心となった。部族反乱を鎮めた後、支配はフェザーンにまで広がった。一方、1843年にバイダで創設されたスーフィー教団サヌーシーヤは、キレナイカとサハラ各地に修道場網を築き、のちの抵抗運動の支柱となった。"
+   }
+  },
+  {
+   "from": 1911,
+   "to": 1943,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "Italian Africa",
+   "name": {
+    "en": "Italian Libya",
+    "ko": "이탈리아령 리비아",
+    "zh": "意属利比亚",
+    "ja": "イタリア領リビア"
+   },
+   "summary": {
+    "en": "Italy invaded in 1911 and obtained Ottoman cession of Tripolitania and Cyrenaica in 1912, but for years controlled little beyond the coast. Under Fascism, the 'reconquest' of 1922–1932 crushed resistance led by the Senussi and Omar Mukhtar, at the cost of mass deportations and concentration camps in Cyrenaica. The territories were united as the colony of Libya in 1934 and opened to Italian settlement, until British and French forces drove the Axis out in 1942–1943.",
+    "ko": "이탈리아는 1911년 침공해 1912년 오스만 제국으로부터 트리폴리타니아와 키레나이카를 할양받았지만, 오랫동안 해안 너머는 거의 장악하지 못했다. 파시스트 정권은 1922~1932년의 '재정복'으로 사누시 교단과 오마르 무크타르가 이끈 저항을 분쇄했고, 그 과정에서 키레나이카 주민의 대규모 강제 이주와 강제수용소가 동원되었다. 두 지역은 1934년 리비아 식민지로 통합되어 이탈리아인 이주가 추진되었으나, 1942~1943년 영국군과 프랑스군이 추축국을 몰아냈다.",
+    "zh": "意大利于1911年入侵，1912年迫使奥斯曼帝国割让的黎波里塔尼亚和昔兰尼加，但多年间几乎只控制沿海地区。法西斯政权在1922至1932年的“再征服”中镇压了赛努西教团和奥马尔·穆赫塔尔领导的抵抗，代价是昔兰尼加居民遭大规模强制迁徙和关押在集中营。1934年两地合并为利比亚殖民地并开放给意大利移民，直到1942至1943年英法军队将轴心国逐出。",
+    "ja": "イタリアは1911年に侵攻し、1912年にオスマン帝国からトリポリタニアとキレナイカの割譲を得たが、長く海岸部以外はほとんど掌握できなかった。ファシスト政権は1922～1932年の「再征服」でサヌーシー教団とオマール・ムフタールの抵抗を粉砕し、その過程でキレナイカ住民の大規模な強制移住と強制収容所が用いられた。両地域は1934年にリビア植民地として統合されてイタリア人の入植が進められたが、1942～1943年に英仏軍が枢軸国を追い出した。"
+   }
+  },
+  {
+   "from": 1918,
+   "to": 1922,
+   "kind": "state",
+   "qid": "Q965346",
+   "polity": null,
+   "name": {
+    "en": "Tripolitanian Republic",
+    "ko": "트리폴리타니아 공화국",
+    "zh": "的黎波里塔尼亚共和国",
+    "ja": "トリポリタニア共和国"
+   },
+   "summary": {
+    "en": "Proclaimed in November 1918 by Tripolitanian notables including Sulayman al-Baruni and Ramadan al-Suwayhili, the Tripolitanian Republic was one of the first republics of the Arab world. It controlled much of the Tripolitanian interior while Italy held the coast, and negotiated limited self-government with Rome. Internal rivalries and the Fascist offensive ended it by 1922.",
+    "ko": "1918년 11월 술라이만 알바루니, 라마단 알수와이힐리 등 트리폴리타니아 명사들이 선포한 트리폴리타니아 공화국은 아랍 세계 최초의 공화국 가운데 하나였다. 이탈리아가 해안을 장악한 가운데 공화국은 트리폴리타니아 내륙 대부분을 통제하며 로마와 제한적 자치를 협상했다. 내부 대립과 파시스트의 공세로 1922년까지 소멸했다.",
+    "zh": "1918年11月，苏莱曼·巴鲁尼、拉马丹·苏韦希利等的黎波里塔尼亚名流宣布成立的黎波里塔尼亚共和国，这是阿拉伯世界最早的共和国之一。在意大利控制沿海的同时，共和国掌控的黎波里塔尼亚内陆大部，并与罗马谈判有限自治。内部纷争和法西斯的进攻使其至1922年终结。",
+    "ja": "1918年11月、スライマーン・バールーニーやラマダーン・スワイヒリーらトリポリタニアの名士が宣言したトリポリタニア共和国は、アラブ世界で最初期の共和国の一つだった。イタリアが沿岸部を押さえるなか、共和国はトリポリタニア内陸の大半を支配し、ローマと限定的な自治を交渉した。内部対立とファシストの攻勢により、1922年までに消滅した。"
+   }
+  },
+  {
+   "from": 1943,
+   "to": 1951,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "British and French military administration",
+    "ko": "영국·프랑스 군정기",
+    "zh": "英法军事管理时期",
+    "ja": "英仏軍政期"
+   },
+   "summary": {
+    "en": "After the Axis defeat, Britain administered Tripolitania and Cyrenaica and France the Fezzan, while the victorious powers argued over Libya's future. When they failed to agree, the question went to the United Nations, whose General Assembly decided in 1949 that Libya should become independent. Emir Idris al-Senussi, leader of the Senussi order, emerged as the head of the new state.",
+    "ko": "추축국이 패배한 뒤 영국은 트리폴리타니아와 키레나이카를, 프랑스는 페잔을 관리했고, 전승국들은 리비아의 장래를 놓고 다투었다. 합의에 이르지 못하자 문제는 유엔으로 넘어갔고, 유엔 총회는 1949년 리비아의 독립을 결정했다. 사누시 교단의 지도자 이드리스 알사누시가 새 국가의 수장으로 떠올랐다.",
+    "zh": "轴心国战败后，英国管理的黎波里塔尼亚和昔兰尼加，法国管理费赞，战胜国就利比亚的前途争执不下。由于无法达成一致，问题被提交联合国，联合国大会于1949年决定利比亚应当独立。赛努西教团领袖伊德里斯·赛努西成为新国家的元首。",
+    "ja": "枢軸国の敗北後、イギリスがトリポリタニアとキレナイカを、フランスがフェザーンを管理し、戦勝国はリビアの将来をめぐって対立した。合意に至らなかったため問題は国連に委ねられ、国連総会は1949年にリビアの独立を決定した。サヌーシー教団の指導者イドリース・サヌーシーが新国家の元首として浮上した。"
+   }
+  },
+  {
+   "from": 1951,
+   "to": 1969,
+   "kind": "state",
+   "qid": "Q31454",
+   "polity": "Kingdom of Libya",
+   "name": {
+    "en": "Kingdom of Libya",
+    "ko": "리비아 왕국",
+    "zh": "利比亚王国",
+    "ja": "リビア王国"
+   },
+   "summary": {
+    "en": "Libya became independent on 24 December 1951 as a federal constitutional monarchy under King Idris I, with Tripolitania, Cyrenaica and the Fezzan as provinces. Initially one of the poorest countries in the world, it depended on Western aid and leased bases to Britain and the United States. The oil discoveries of 1959 brought rapid wealth, urbanization and a centralized unitary state from 1963, but also resentment of the monarchy's pro-Western stance.",
+    "ko": "리비아는 1951년 12월 24일 국왕 이드리스 1세 아래 트리폴리타니아, 키레나이카, 페잔을 주로 하는 연방제 입헌군주국으로 독립했다. 처음에는 세계에서 가장 가난한 나라 가운데 하나로 서방의 원조에 의존했고 영국과 미국에 기지를 빌려주었다. 1959년의 석유 발견은 급속한 부와 도시화, 1963년 이후의 중앙집권적 단일국가를 가져왔지만, 왕정의 친서방 노선에 대한 반감도 키웠다.",
+    "zh": "1951年12月24日，利比亚作为联邦制君主立宪国独立，由国王伊德里斯一世统治，下设的黎波里塔尼亚、昔兰尼加和费赞三省。它起初是世界最贫穷的国家之一，依赖西方援助，并向英美出租军事基地。1959年发现石油带来了迅速的财富增长和城市化，1963年起改为中央集权的单一制国家，但民众对王室亲西方路线的不满也随之增长。",
+    "ja": "リビアは1951年12月24日、国王イドリース1世のもと、トリポリタニア、キレナイカ、フェザーンを州とする連邦制の立憲君主国として独立した。当初は世界で最も貧しい国の一つで、西側の援助に頼り、英米に基地を貸与した。1959年の石油発見は急速な富と都市化、1963年からの中央集権的な単一国家をもたらしたが、王制の親西欧路線への反感も強めた。"
+   }
+  },
+  {
+   "from": 1969,
+   "to": 1977,
+   "kind": "state",
+   "qid": "Q2347668",
+   "polity": "Libyan Arab Republic",
+   "name": {
+    "en": "Libyan Arab Republic",
+    "ko": "리비아 아랍 공화국",
+    "zh": "阿拉伯利比亚共和国",
+    "ja": "リビア・アラブ共和国"
+   },
+   "summary": {
+    "en": "After the coup of 1 September 1969, a Revolutionary Command Council led by Muammar Gaddafi ruled Libya on Arab nationalist and socialist lines. It closed the British and American bases, expelled the Italian settler community, renegotiated oil terms and nationalized much of the industry. Gaddafi pursued pan-Arab unions and outlined his own political doctrine, later published as the Green Book.",
+    "ko": "1969년 9월 1일 쿠데타 뒤 무아마르 카다피가 이끄는 혁명지도평의회가 아랍 민족주의와 사회주의 노선으로 리비아를 통치했다. 정권은 영국과 미국의 기지를 폐쇄하고 이탈리아계 정착민 사회를 추방했으며, 석유 계약 조건을 재협상하고 석유 산업의 상당 부분을 국유화했다. 카다피는 범아랍 연합을 추진하고 훗날 『녹색서』로 출간된 자신만의 정치 이론을 제시했다.",
+    "zh": "1969年9月1日政变后，以穆阿迈尔·卡扎菲为首的革命指挥委员会按照阿拉伯民族主义和社会主义路线统治利比亚。新政权关闭英美军事基地，驱逐意大利侨民社群，重新谈判石油合同条款，并将石油工业大部分收归国有。卡扎菲推动泛阿拉伯联合，并提出了后来以《绿皮书》出版的个人政治学说。",
+    "ja": "1969年9月1日のクーデター後、ムアンマル・カダフィ率いる革命指導評議会がアラブ民族主義と社会主義の路線でリビアを統治した。政権は英米の基地を閉鎖し、イタリア系入植者社会を追放し、石油契約を再交渉して石油産業の多くを国有化した。カダフィは汎アラブ統合を追求し、のちに『緑の書』として刊行される独自の政治理論を打ち出した。"
+   }
+  },
+  {
+   "from": 1977,
+   "to": 2011,
+   "kind": "state",
+   "qid": "Q4843701",
+   "polity": null,
+   "name": {
+    "en": "Great Socialist People's Libyan Arab Jamahiriya",
+    "ko": "대리비아 아랍 사회주의 인민 자마히리야",
+    "zh": "大阿拉伯利比亚人民社会主义民众国",
+    "ja": "大リビア・アラブ社会主義人民ジャマーヒリーヤ国"
+   },
+   "summary": {
+    "en": "In 1977 Gaddafi proclaimed the Jamahiriya, a 'state of the masses' formally run by people's congresses and committees, while real power stayed with him and the security apparatus. Oil revenues financed housing, education and the Great Man-Made River, but dissent was brutally suppressed. Libya's support for armed groups, the war in Chad and the Lockerbie bombing led to clashes with the United States and UN sanctions, eased after Libya renounced weapons of mass destruction in 2003.",
+    "ko": "1977년 카다피는 인민회의와 인민위원회가 형식상 운영하는 '대중의 국가' 자마히리야를 선포했지만, 실권은 그와 보안 기구에 있었다. 석유 수입은 주택과 교육, 대인공강 사업에 쓰였으나 반대 세력은 가혹하게 탄압되었다. 무장 단체 지원, 차드 전쟁, 로커비 폭파 사건은 미국과의 충돌과 유엔 제재를 불렀고, 제재는 2003년 리비아가 대량살상무기를 포기한 뒤 완화되었다.",
+    "zh": "1977年卡扎菲宣布建立“民众国”，名义上由人民大会和人民委员会管理，实权仍掌握在他本人和安全机构手中。石油收入被用于住房、教育和“人造大河”工程，但异见遭到残酷镇压。利比亚支持武装组织、介入乍得战争以及洛克比空难事件，招致与美国的冲突和联合国制裁；2003年利比亚宣布放弃大规模杀伤性武器后制裁逐步放松。",
+    "ja": "1977年、カダフィは人民会議と人民委員会が形式上運営する「大衆による国家」ジャマーヒリーヤを宣言したが、実権は彼と治安機関にあった。石油収入は住宅や教育、大人工河川計画に投じられたが、反対派は苛烈に弾圧された。武装組織への支援、チャド戦争、ロッカビー事件はアメリカとの衝突と国連制裁を招き、制裁は2003年にリビアが大量破壊兵器を放棄した後に緩和された。"
+   }
+  },
+  {
+   "from": 2011,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q1016",
+   "polity": "State of Libya",
+   "name": {
+    "en": "Post-Gaddafi Libya",
+    "ko": "카다피 이후의 리비아",
+    "zh": "后卡扎菲时代的利比亚",
+    "ja": "カダフィ後のリビア"
+   },
+   "summary": {
+    "en": "The 2011 uprising and NATO intervention toppled Gaddafi, but the new authorities failed to disarm the many militias that had fought him. From 2014 the country split between rival governments and armed coalitions in Tripoli and the east, the latter dominated by Khalifa Haftar's forces, with foreign powers backing both sides. A 2020 ceasefire and the 2021 Government of National Unity reduced large-scale fighting, but planned national elections were postponed and the division persists.",
+    "ko": "2011년 봉기와 나토의 개입으로 카다피 정권은 무너졌지만, 새 당국은 그와 싸웠던 수많은 민병대를 무장 해제하지 못했다. 2014년부터 나라는 트리폴리와 동부의 경쟁 정부 및 무장 연합으로 갈라졌고, 동부는 칼리파 하프타르의 군대가 주도했으며 외국 세력이 양쪽을 지원했다. 2020년 휴전과 2021년 국민통합정부 출범으로 대규모 전투는 줄었지만, 예정된 전국 선거는 연기되었고 분열은 이어지고 있다.",
+    "zh": "2011年的起义和北约干预推翻了卡扎菲，但新当局未能解除曾与其作战的众多民兵的武装。自2014年起，国家分裂为的黎波里和东部相互对立的政府与武装联盟，东部由哈夫塔尔的部队主导，外国势力分别支持双方。2020年停火和2021年民族团结政府的成立减少了大规模战斗，但原定的全国选举被推迟，分裂局面延续至今。",
+    "ja": "2011年の蜂起とNATOの介入でカダフィ政権は倒れたが、新当局は彼と戦った多数の民兵を武装解除できなかった。2014年から国はトリポリと東部の対立する政府・武装連合に分裂し、東部はハリファ・ハフタルの軍が主導し、外国勢力が双方を支援した。2020年の停戦と2021年の国民統一政府の発足で大規模な戦闘は減ったが、予定された全国選挙は延期され、分裂は続いている。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Pastoral rock art of the Tadrart Acacus",
+    "ko": "타드라르트 아카쿠스의 목축 시대 암벽화",
+    "zh": "塔德拉尔特·阿卡库斯的畜牧时期岩画",
+    "ja": "タドラルト・アカクスの牧畜期岩絵"
+   },
+   "description": {
+    "en": "By around 3000 BC cattle herders had long been painting scenes of herds, dances and daily life on the rock shelters of the Tadrart Acacus in southwestern Libya. As the Sahara grew drier, these images gradually record a shift toward sheep, goats and, much later, horses and camels. The Acacus rock art is today a UNESCO World Heritage site.",
+    "ko": "기원전 3000년 무렵 리비아 남서부 타드라르트 아카쿠스의 바위 그늘에는 오래전부터 소 목축민들이 가축 떼와 춤, 일상생활을 그려 왔다. 사하라가 건조해지면서 그림들은 양과 염소, 그리고 훨씬 뒤에는 말과 낙타로 옮겨 가는 변화를 보여 준다. 아카쿠스 암벽화는 오늘날 유네스코 세계유산이다.",
+    "zh": "约公元前3000年，利比亚西南部塔德拉尔特·阿卡库斯的岩棚上早已留有养牛牧民描绘的畜群、舞蹈和日常生活场景。随着撒哈拉日益干旱，这些画面逐渐反映出向绵羊、山羊乃至后来的马和骆驼的转变。阿卡库斯岩画如今是联合国教科文组织世界遗产。",
+    "ja": "前3000年頃、リビア南西部タドラルト・アカクスの岩陰には、すでに長く牛の牧畜民が家畜の群れや踊り、日々の暮らしを描いていた。サハラの乾燥化とともに、絵はヒツジやヤギ、さらに後には馬やラクダへの移り変わりを記録している。アカクスの岩絵は現在ユネスコ世界遺産である。"
+   }
+  },
+  {
+   "year": -2480,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Libyan captives in the reliefs of Sahure",
+    "ko": "사후레 부조에 새겨진 리비아인 포로",
+    "zh": "萨胡拉浮雕中的利比亚俘虏",
+    "ja": "サフラーのレリーフに描かれたリビア人捕虜"
+   },
+   "description": {
+    "en": "Reliefs from the pyramid temple of the Fifth Dynasty pharaoh Sahure (c. 25th century BC) depict defeated Libyan (Tehenu) chiefs, their families and large numbers of captured livestock. They are among the earliest images of the peoples west of Egypt. Such scenes show that Egypt was already raiding or campaigning against its western neighbors in the Old Kingdom.",
+    "ko": "제5왕조 파라오 사후레(기원전 25세기경)의 피라미드 신전 부조에는 패배한 리비아(테헤누) 수장들과 그 가족, 그리고 빼앗은 많은 가축이 새겨져 있다. 이는 이집트 서쪽 민족을 묘사한 가장 오래된 그림 가운데 하나이다. 이런 장면은 고왕국 시대에 이미 이집트가 서쪽 이웃을 약탈하거나 원정했음을 보여 준다.",
+    "zh": "第五王朝法老萨胡拉（约公元前25世纪）金字塔神庙的浮雕描绘了战败的利比亚（特赫努）首领及其家人，以及大批被掳掠的牲畜。这是关于埃及以西民族最早的图像之一。这些场景表明，早在古王国时期埃及就已对其西方邻族进行劫掠或征讨。",
+    "ja": "第5王朝のファラオ、サフラー（前25世紀頃）のピラミッド神殿のレリーフには、敗れたリビア（テヘヌ）の首長とその家族、奪われた多数の家畜が描かれている。これはエジプト西方の人々を描いた最古の図像の一つである。こうした場面は、古王国時代にすでにエジプトが西の隣人を略奪・遠征していたことを示している。"
+   }
+  },
+  {
+   "year": -1208,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Merneptah repels the Libu invasion",
+    "ko": "메르넵타, 리부족의 침입을 격퇴",
+    "zh": "麦伦普塔赫击退利布人入侵",
+    "ja": "メルエンプタハがリブ人の侵入を撃退"
+   },
+   "description": {
+    "en": "Around 1208 BC, in the fifth year of Pharaoh Merneptah, a coalition led by the Libu chief Meryey, joined by several 'Sea Peoples', invaded the western Nile Delta with their families and herds. The Egyptians defeated them at Perire, as recorded on the walls of Karnak and the Merneptah Stele. The invasion reflects growing pressure from Libyan peoples seeking land in Egypt.",
+    "ko": "기원전 1208년경 파라오 메르넵타의 재위 5년에, 리부족 수장 메라이가 이끌고 여러 '바다 민족'이 가담한 연합 세력이 가족과 가축을 이끌고 나일 델타 서부를 침입했다. 이집트군은 페리레에서 이들을 격파했으며, 이 사실은 카르나크 신전 벽과 메르넵타 석비에 기록되었다. 이 침입은 이집트 땅을 찾던 리비아계 민족의 압력이 커지고 있었음을 보여 준다.",
+    "zh": "约公元前1208年，即法老麦伦普塔赫在位第五年，利布首领梅里伊率领的联军与若干“海上民族”携家眷和畜群入侵尼罗河三角洲西部。埃及军队在佩里雷击败了他们，此事记载于卡纳克神庙墙壁和麦伦普塔赫石碑上。这次入侵反映出利比亚诸族寻求进入埃及定居的压力日益增大。",
+    "ja": "前1208年頃、ファラオ・メルエンプタハの治世5年目に、リブ人の首長メリイが率い、いくつかの「海の民」も加わった連合が家族と家畜を連れてナイル・デルタ西部に侵入した。エジプト軍はペリレで彼らを破り、その模様はカルナク神殿の壁とメルエンプタハ碑に記された。この侵入は、エジプトに土地を求めるリビア系民族の圧力の高まりを物語る。"
+   }
+  },
+  {
+   "year": -1180,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ramesses III defeats the Libyans",
+    "ko": "람세스 3세, 리비아인을 격파",
+    "zh": "拉美西斯三世击败利比亚人",
+    "ja": "ラムセス3世がリビア人を破る"
+   },
+   "description": {
+    "en": "Ramesses III fought off two major invasions by Libyan groups, the Libu and the Meshwesh, in the early 12th century BC, as shown in the reliefs of his temple at Medinet Habu. Despite these victories, many Libyans settled in Egypt as soldiers and colonists. Their descendants became a powerful military class in the Delta.",
+    "ko": "람세스 3세는 기원전 12세기 초 리비아계 집단인 리부족과 메슈웨시족의 두 차례 대규모 침입을 막아 냈으며, 이는 메디네트 하부 신전의 부조에 묘사되어 있다. 이런 승리에도 불구하고 많은 리비아인이 병사와 이주민으로 이집트에 정착했다. 그 후손은 델타 지방의 강력한 군사 계층이 되었다.",
+    "zh": "公元前12世纪初，拉美西斯三世击退了利比亚族群利布人和梅什维什人的两次大规模入侵，其事迹见于哈布城神庙的浮雕。尽管取得了这些胜利，仍有许多利比亚人以士兵和移民身份定居埃及。他们的后代成为三角洲地区强大的军事阶层。",
+    "ja": "ラムセス3世は前12世紀初め、リビア系集団リブ人とメシュウェシュ人による二度の大規模な侵入を退け、その様子はメディネト・ハブ神殿のレリーフに描かれている。勝利にもかかわらず、多くのリビア人が兵士や入植者としてエジプトに定住した。その子孫はデルタ地方の強力な軍事階層となった。"
+   }
+  },
+  {
+   "year": -1000,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Rise of the Garamantes in the Fezzan",
+    "ko": "페잔에서 가라만테스의 등장",
+    "zh": "加拉曼特人在费赞兴起",
+    "ja": "フェザーンでガラマンテスが台頭"
+   },
+   "description": {
+    "en": "From around 1000 BC hilltop settlements such as Zinkekra in the Wadi al-Ajal mark the emergence of the Garamantes. Over the following centuries they developed oasis agriculture irrigated by underground channels and built their capital at Garama (Germa). They became the dominant power of the central Sahara for over a millennium.",
+    "ko": "기원전 1000년경부터 와디 알아잘의 진케크라 같은 언덕 위 취락들이 가라만테스의 등장을 보여 준다. 이후 수 세기 동안 이들은 지하 수로로 물을 대는 오아시스 농업을 발전시키고 가라마(게르마)에 수도를 세웠다. 가라만테스는 천 년 넘게 중앙 사하라의 패자로 군림했다.",
+    "zh": "约自公元前1000年起，阿贾勒谷地的津克克拉等山顶聚落标志着加拉曼特人的兴起。此后数百年间，他们发展出依靠地下暗渠灌溉的绿洲农业，并在加拉马（杰尔马）建立都城。他们在一千多年里一直是撒哈拉中部的主导力量。",
+    "ja": "前1000年頃から、ワディ・アル＝アジャルのジンケクラのような丘上集落がガラマンテスの台頭を示している。その後数世紀のうちに、彼らは地下水路で灌漑するオアシス農業を発展させ、ガラマ（ジェルマ）に都を築いた。ガラマンテスは千年以上にわたり中央サハラの覇者であった。"
+   }
+  },
+  {
+   "year": -943,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "A Libyan dynasty rules Egypt",
+    "ko": "리비아계 왕조, 이집트를 지배",
+    "zh": "利比亚裔王朝统治埃及",
+    "ja": "リビア系王朝がエジプトを支配"
+   },
+   "description": {
+    "en": "Around 943 BC Shoshenq I, a chief of Meshwesh Libyan descent whose family had settled at Bubastis in the Delta, founded Egypt's 22nd Dynasty. Libyan-descended dynasties dominated much of Egypt for roughly two centuries. Shoshenq I is widely identified with the 'Shishak' of the Hebrew Bible.",
+    "ko": "기원전 943년경 델타 지방 부바스티스에 정착한 메슈웨시 리비아계 가문의 수장 쇼셍크 1세가 이집트 제22왕조를 세웠다. 리비아계 왕조들은 약 2세기 동안 이집트의 상당 부분을 지배했다. 쇼셍크 1세는 흔히 히브리 성서의 '시삭'과 동일 인물로 여겨진다.",
+    "zh": "约公元前943年，家族定居于三角洲布巴斯提斯、出身梅什维什利比亚人的首领舍顺克一世建立了埃及第二十二王朝。利比亚裔王朝统治埃及大部分地区约两个世纪。舍顺克一世通常被认为就是希伯来圣经中的“示撒”。",
+    "ja": "前943年頃、デルタのブバスティスに定住したメシュウェシュ系リビア人の首長シェションク1世がエジプト第22王朝を開いた。リビア系の王朝はおよそ2世紀にわたりエジプトの大部分を支配した。シェションク1世はヘブライ語聖書の「シシャク」と同一視されることが多い。"
+   }
+  },
+  {
+   "year": -700,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Phoenicians found Tripolitania's coastal cities",
+    "ko": "페니키아인, 트리폴리타니아 연안 도시 건설",
+    "zh": "腓尼基人建立的黎波里塔尼亚沿海城市",
+    "ja": "フェニキア人がトリポリタニア沿岸都市を建設"
+   },
+   "description": {
+    "en": "Phoenician traders established Oea, Sabratha and Leptis Magna on the western Libyan coast around the 7th century BC as harbors on the route between the Levant and the western Mediterranean. The three cities later gave the region its Greek name, Tripolitania ('land of three cities'). From the 6th century BC they fell under the control of Carthage and grew rich on agriculture and caravan trade with the Sahara.",
+    "ko": "페니키아 상인들은 기원전 7세기경 레반트와 서지중해를 잇는 항로의 항구로서 리비아 서부 해안에 오이아, 사브라타, 렙티스 마그나를 세웠다. 이 세 도시는 훗날 그리스어로 '세 도시의 땅'이라는 뜻의 트리폴리타니아라는 지명을 낳았다. 기원전 6세기부터 이 도시들은 카르타고의 지배 아래 들어가 농업과 사하라 대상 교역으로 부유해졌다.",
+    "zh": "约公元前7世纪，腓尼基商人在利比亚西部海岸建立欧伊亚、萨布拉塔和大莱普提斯，作为黎凡特与地中海西部航线上的港口。这三座城市后来使该地区得名希腊语的“的黎波里塔尼亚”（意为“三城之地”）。自公元前6世纪起，它们归迦太基控制，并凭农业和撒哈拉商队贸易致富。",
+    "ja": "前7世紀頃、フェニキア商人はレヴァントと西地中海を結ぶ航路の港として、リビア西部の海岸にオエア、サブラタ、レプティス・マグナを築いた。この三都市から、のちにギリシア語で「三つの都市の地」を意味するトリポリタニアの名が生まれた。前6世紀からはカルタゴの支配下に入り、農業とサハラの隊商交易で富を蓄えた。"
+   }
+  },
+  {
+   "year": -631,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Greek colonists found Cyrene",
+    "ko": "그리스인, 키레네 건설",
+    "zh": "希腊移民建立昔兰尼",
+    "ja": "ギリシア植民者がキュレネを建設"
+   },
+   "description": {
+    "en": "According to the traditional date, Greek settlers from the island of Thera led by Battus founded Cyrene in 631 BC, on the advice of the Delphic oracle as Herodotus tells it. Set on a fertile plateau in eastern Libya, the city grew into one of the great centers of the Greek world and founded daughter cities along the coast. It gave the region its lasting name, Cyrenaica.",
+    "ko": "전통적인 연대에 따르면, 바투스가 이끄는 테라섬의 그리스 이주민들이 헤로도토스가 전하듯 델포이 신탁의 권유에 따라 기원전 631년 키레네를 세웠다. 리비아 동부의 비옥한 고원에 자리 잡은 이 도시는 그리스 세계의 대표적 중심지로 성장해 해안을 따라 딸 도시들을 건설했다. 이 도시에서 키레나이카라는 지역명이 유래했다.",
+    "zh": "按照传统纪年，巴图斯率领锡拉岛的希腊移民于公元前631年建立昔兰尼，据希罗多德记载是听从了德尔斐神谕的指示。该城坐落在利比亚东部肥沃的高原上，发展成为希腊世界的重要中心之一，并沿海岸建立了多座子城。该地区由此得名昔兰尼加并沿用至今。",
+    "ja": "伝統的な年代によれば、バットスに率いられたテラ島のギリシア人植民者が、ヘロドトスの伝えるようにデルポイの神託に従って前631年にキュレネを建設した。リビア東部の肥沃な台地に位置するこの町は、ギリシア世界有数の中心地に成長し、海岸沿いに娘都市を築いた。キレナイカという地名はこの町に由来する。"
+   }
+  },
+  {
+   "year": -600,
+   "qid": "Q28974184",
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Sanctuary of Apollo and theatre at Cyrene",
+    "ko": "키레네의 아폴론 성역과 극장",
+    "zh": "昔兰尼的阿波罗圣所与剧场",
+    "ja": "キュレネのアポロン神域と劇場"
+   },
+   "description": {
+    "en": "In the 6th century BC Cyrene developed a monumental sanctuary of Apollo around the sacred spring that had drawn its founders, and a Greek theatre was built nearby. Temples, including a great temple of Zeus, made Cyrene one of the most splendid Greek cities of Africa. Its ruins form part of a UNESCO World Heritage site.",
+    "ko": "기원전 6세기에 키레네는 건설자들을 이끌었던 성스러운 샘 주변에 웅장한 아폴론 성역을 조성했고, 그 근처에 그리스식 극장이 세워졌다. 거대한 제우스 신전을 비롯한 여러 신전으로 키레네는 아프리카에서 가장 화려한 그리스 도시 가운데 하나가 되었다. 그 유적은 유네스코 세계유산의 일부이다.",
+    "zh": "公元前6世纪，昔兰尼在吸引建城者前来的圣泉周围建起宏伟的阿波罗圣所，附近还修建了一座希腊剧场。包括宏大的宙斯神庙在内的诸多神庙使昔兰尼成为非洲最壮丽的希腊城市之一。其遗址是联合国教科文组织世界遗产的组成部分。",
+    "ja": "前6世紀、キュレネは建設者たちを引き寄せた聖なる泉の周りに壮大なアポロン神域を整え、その近くにギリシア劇場が築かれた。巨大なゼウス神殿をはじめとする神殿群により、キュレネはアフリカで最も壮麗なギリシア都市の一つとなった。その遺跡はユネスコ世界遺産の一部である。"
+   }
+  },
+  {
+   "year": -570,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Irasa",
+    "ko": "이라사 전투",
+    "zh": "伊拉萨之战",
+    "ja": "イラサの戦い"
+   },
+   "description": {
+    "en": "Around 570 BC, Cyrene under King Battus II defeated an Egyptian army sent by Pharaoh Apries to help local Libyans displaced by Greek settlement, according to Herodotus. The disaster provoked a revolt in Egypt that brought Amasis to the throne. The victory secured Cyrene's expansion across the Cyrenaican plateau.",
+    "ko": "헤로도토스에 따르면 기원전 570년경 바투스 2세 치하의 키레네는, 그리스인의 정착으로 밀려난 현지 리비아인을 돕기 위해 파라오 아프리에스가 보낸 이집트군을 격파했다. 이 참패는 이집트에서 반란을 일으켜 아마시스가 왕위에 오르게 했다. 이 승리로 키레네는 키레나이카 고원 전역으로 세력을 넓힐 수 있었다.",
+    "zh": "据希罗多德记载，约公元前570年，巴图斯二世统治下的昔兰尼击败了法老阿普里伊派来援助被希腊移民排挤的当地利比亚人的埃及军队。这场惨败在埃及引发叛乱，使雅赫摩斯二世登上王位。此役胜利保障了昔兰尼在昔兰尼加高原上的扩张。",
+    "ja": "ヘロドトスによれば、前570年頃、バットス2世治下のキュレネは、ギリシア人の入植で追われた現地リビア人を助けるためにファラオ・アプリエスが送ったエジプト軍を破った。この大敗はエジプトで反乱を引き起こし、アマシスが王位に就いた。勝利によってキュレネはキレナイカ台地全体へ拡大する足場を固めた。"
+   }
+  },
+  {
+   "year": -525,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Cyrene submits to Persia",
+    "ko": "키레네, 페르시아에 복속",
+    "zh": "昔兰尼臣服波斯",
+    "ja": "キュレネがペルシアに服属"
+   },
+   "description": {
+    "en": "When Cambyses II of Persia conquered Egypt in 525 BC, the Libyans and the Greek cities of Cyrene and Barca sent gifts of submission, according to Herodotus. Cyrenaica thus entered the orbit of the Achaemenid Empire. A few years later a Persian expedition besieged and took Barca.",
+    "ko": "헤로도토스에 따르면 기원전 525년 페르시아의 캄비세스 2세가 이집트를 정복하자 리비아인들과 그리스 도시 키레네, 바르카는 복속의 선물을 보냈다. 이로써 키레나이카는 아케메네스 제국의 영향권에 들어갔다. 몇 년 뒤 페르시아 원정군은 바르카를 포위해 함락했다.",
+    "zh": "据希罗多德记载，公元前525年波斯的冈比西斯二世征服埃及时，利比亚人以及希腊城邦昔兰尼和巴尔卡都送来了表示臣服的礼物。昔兰尼加由此进入阿契美尼德帝国的势力范围。几年后，一支波斯远征军围攻并攻陷了巴尔卡。",
+    "ja": "ヘロドトスによれば、前525年にペルシアのカンビュセス2世がエジプトを征服すると、リビア人とギリシア都市キュレネ、バルカは服属の贈り物を送った。こうしてキレナイカはアケメネス朝の勢力圏に入った。数年後、ペルシアの遠征軍がバルカを包囲して攻め落とした。"
+   }
+  },
+  {
+   "year": -440,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "End of the Battiad monarchy in Cyrene",
+    "ko": "키레네 바투스 왕조의 종말",
+    "zh": "昔兰尼巴图斯王朝的终结",
+    "ja": "キュレネのバットス朝の終焉"
+   },
+   "description": {
+    "en": "Around 440 BC the last Battiad king, Arcesilaus IV, was overthrown and killed, ending some eight generations of rule by the descendants of Cyrene's founder. Cyrene became a republic, though it remained troubled by strife between factions. The city kept its wealth from grain, horses and the prized silphium plant.",
+    "ko": "기원전 440년경 바투스 왕조의 마지막 왕 아르케실라오스 4세가 쫓겨나 살해되면서, 키레네 건설자의 후손이 약 8대에 걸쳐 이어 온 통치가 끝났다. 키레네는 공화정이 되었지만 파벌 간 분쟁에 계속 시달렸다. 도시는 곡물과 말, 귀한 실피움 식물로 부를 유지했다.",
+    "zh": "约公元前440年，巴图斯王朝末代国王阿尔克西拉乌斯四世被推翻并遇害，昔兰尼建城者后裔约八代的统治就此结束。昔兰尼改行共和制，但仍饱受派系纷争之苦。该城依靠粮食、马匹和珍贵的罗盘草保持富庶。",
+    "ja": "前440年頃、バットス朝最後の王アルケシラオス4世が倒されて殺され、キュレネ建設者の子孫による約8代の支配が終わった。キュレネは共和政となったが、党派間の争いに悩まされ続けた。町は穀物と馬、そして珍重されたシルフィウムで富を保った。"
+   }
+  },
+  {
+   "year": -430,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Herodotus describes the peoples of Libya",
+    "ko": "헤로도토스가 기록한 리비아의 민족들",
+    "zh": "希罗多德记述利比亚诸族",
+    "ja": "ヘロドトスが記したリビアの諸民族"
+   },
+   "description": {
+    "en": "In his Histories, completed around 430 BC, Herodotus devoted a long section to Libya, listing the tribes from Egypt westward, among them the Nasamones, Psylli and Garamantes, and recounting the founding of Cyrene. Though mixed with hearsay, his account is the earliest detailed description of the region's peoples and customs. It remains a basic source for ancient Libyan history.",
+    "ko": "기원전 430년경 완성된 『역사』에서 헤로도토스는 리비아에 긴 부분을 할애해, 이집트에서 서쪽으로 나사모네스족, 프실리족, 가라만테스족 등 여러 부족을 열거하고 키레네의 건설을 이야기했다. 전해 들은 이야기가 섞여 있지만, 그의 서술은 이 지역 민족과 풍습에 관한 가장 오래된 상세한 기록이다. 이는 지금도 고대 리비아사의 기본 사료이다.",
+    "zh": "在约公元前430年完成的《历史》中，希罗多德用大量篇幅记述利比亚，自埃及向西列举了纳萨摩涅斯人、普叙利人、加拉曼特人等部落，并讲述了昔兰尼的建城经过。他的记载虽夹杂传闻，却是关于该地区民族与习俗最早的详细描述，至今仍是古代利比亚史的基本史料。",
+    "ja": "前430年頃に完成した『歴史』で、ヘロドトスはリビアに長い紙幅を割き、エジプトから西へナサモネス人、プシュロイ人、ガラマンテス人などの部族を列挙し、キュレネ建設の経緯を語った。伝聞も混じるが、彼の記述はこの地域の民族と風習に関する最古の詳しい記録であり、今も古代リビア史の基本史料である。"
+   }
+  },
+  {
+   "year": -400,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Aristippus and the Cyrenaic school",
+    "ko": "아리스티포스와 키레네학파",
+    "zh": "阿里斯提波与昔兰尼学派",
+    "ja": "アリスティッポスとキュレネ派"
+   },
+   "description": {
+    "en": "Aristippus of Cyrene, a companion of Socrates, returned to his home city and founded the Cyrenaic school of philosophy around the turn of the 4th century BC. The school taught that immediate pleasure is the highest good, an early form of hedonism. Cyrene went on to produce other notable thinkers and poets, including Callimachus and Carneades.",
+    "ko": "소크라테스의 제자였던 키레네의 아리스티포스는 고향으로 돌아와 기원전 4세기 초 무렵 키레네학파를 세웠다. 이 학파는 즉각적 쾌락을 최고선으로 가르쳤으며, 이는 쾌락주의의 초기 형태였다. 키레네는 이후에도 칼리마코스와 카르네아데스 같은 저명한 사상가와 시인을 배출했다.",
+    "zh": "昔兰尼的阿里斯提波曾追随苏格拉底，约在公元前4世纪初回到故乡创立昔兰尼学派。该学派主张当下的快乐是最高的善，是快乐主义的早期形式。此后昔兰尼还诞生了卡利马科斯、卡尔内阿德斯等著名思想家和诗人。",
+    "ja": "ソクラテスの仲間だったキュレネのアリスティッポスは故郷に戻り、前4世紀初め頃にキュレネ派を開いた。この学派は目先の快楽を最高善と説き、快楽主義の初期の形とされる。キュレネはその後もカリマコスやカルネアデスといった著名な思想家・詩人を生んだ。"
+   }
+  },
+  {
+   "year": -322,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ptolemy I annexes Cyrene",
+    "ko": "프톨레마이오스 1세, 키레네 병합",
+    "zh": "托勒密一世吞并昔兰尼",
+    "ja": "プトレマイオス1世がキュレネを併合"
+   },
+   "description": {
+    "en": "Exploiting civil strife in Cyrene, Ptolemy, Alexander's general and ruler of Egypt, sent his officer Ophellas to take the city in 322 BC. Cyrenaica became part of the Ptolemaic realm, though it rebelled several times. Under the Ptolemies the coastal cities were refounded or renamed, among them Berenice (Benghazi) and Ptolemais.",
+    "ko": "알렉산드로스의 장군이자 이집트의 통치자인 프톨레마이오스는 키레네의 내분을 틈타 기원전 322년 부하 오펠라스를 보내 도시를 장악했다. 키레나이카는 여러 차례 반란을 일으켰지만 프톨레마이오스 왕국의 일부가 되었다. 프톨레마이오스 왕조 아래에서 베레니케(벵가지), 프톨레마이스 등 해안 도시들이 재건되거나 이름이 바뀌었다.",
+    "zh": "亚历山大的部将、埃及统治者托勒密利用昔兰尼的内乱，于公元前322年派部下奥菲拉斯夺取该城。昔兰尼加虽多次叛乱，但仍成为托勒密王国的一部分。在托勒密王朝治下，贝勒尼基（今班加西）、托勒迈斯等沿海城市得以重建或更名。",
+    "ja": "アレクサンドロスの将軍でエジプトの支配者プトレマイオスは、キュレネの内紛に乗じて前322年に部下オフェラスを送り町を押さえた。キレナイカはたびたび反乱を起こしたものの、プトレマイオス王国の一部となった。プトレマイオス朝のもとで、ベレニケ（ベンガジ）やプトレマイスなどの沿岸都市が再建あるいは改名された。"
+   }
+  },
+  {
+   "year": -276,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Magas rules Cyrene as an independent king",
+    "ko": "마가스, 키레네의 독립 왕이 되다",
+    "zh": "马加斯成为昔兰尼的独立国王",
+    "ja": "マガスがキュレネの独立王となる"
+   },
+   "description": {
+    "en": "Magas, a stepson of Ptolemy I who had governed Cyrenaica for years, broke with Alexandria and ruled as an independent king of Cyrene from around 276 BC. He even attempted an invasion of Egypt. After his death around 250 BC, the marriage of his daughter Berenice II to Ptolemy III reunited Cyrenaica with Egypt.",
+    "ko": "프톨레마이오스 1세의 의붓아들로 오랫동안 키레나이카를 다스린 마가스는 알렉산드리아와 결별하고 기원전 276년경부터 키레네의 독립 왕으로 군림했다. 그는 이집트 침공을 시도하기도 했다. 기원전 250년경 그가 죽은 뒤, 딸 베레니케 2세가 프톨레마이오스 3세와 결혼하면서 키레나이카는 다시 이집트와 통합되었다.",
+    "zh": "托勒密一世的继子马加斯多年治理昔兰尼加，约从公元前276年起与亚历山大里亚决裂，以昔兰尼独立国王自居，甚至曾试图入侵埃及。约公元前250年他去世后，其女贝勒尼基二世嫁给托勒密三世，昔兰尼加重新与埃及合并。",
+    "ja": "プトレマイオス1世の継子で長くキレナイカを治めたマガスは、アレクサンドリアと袂を分かち、前276年頃からキュレネの独立王として君臨した。彼はエジプト侵攻すら試みた。前250年頃の彼の死後、娘ベレニケ2世がプトレマイオス3世と結婚し、キレナイカは再びエジプトと統合された。"
+   }
+  },
+  {
+   "year": -240,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Eratosthenes of Cyrene measures the Earth",
+    "ko": "키레네의 에라토스테네스, 지구 둘레를 측정",
+    "zh": "昔兰尼的埃拉托色尼测量地球",
+    "ja": "キュレネのエラトステネスが地球を測る"
+   },
+   "description": {
+    "en": "Eratosthenes, born in Cyrene, became head of the Library of Alexandria and, around 240 BC, estimated the circumference of the Earth by comparing the angle of the sun's rays at Syene and Alexandria. His result was remarkably close to the true value. He also pioneered systematic geography and chronology.",
+    "ko": "키레네에서 태어난 에라토스테네스는 알렉산드리아 도서관장이 되었고, 기원전 240년경 시에네와 알렉산드리아에서 햇빛이 비치는 각도를 비교해 지구의 둘레를 계산했다. 그의 결과는 실제 값에 놀랄 만큼 가까웠다. 그는 체계적인 지리학과 연대학의 선구자이기도 했다.",
+    "zh": "生于昔兰尼的埃拉托色尼出任亚历山大图书馆馆长，约公元前240年通过比较赛伊尼和亚历山大里亚两地太阳光线的角度推算出地球周长，结果与实际数值惊人地接近。他还是系统地理学和年代学的开创者。",
+    "ja": "キュレネ生まれのエラトステネスはアレクサンドリア図書館長となり、前240年頃、シエネとアレクサンドリアでの太陽光の角度を比べて地球の周長を見積もった。その結果は実際の値に驚くほど近かった。彼は体系的な地理学と年代学の先駆者でもあった。"
+   }
+  },
+  {
+   "year": -162,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Masinissa seizes the Emporia",
+    "ko": "마시니사, 엠포리아를 장악",
+    "zh": "马西尼萨夺取商埠地区",
+    "ja": "マシニッサがエンポリアを奪取"
+   },
+   "description": {
+    "en": "Taking advantage of Carthage's weakness after the Second Punic War, King Masinissa of Numidia occupied the Emporia region of Tripolitania around 162 BC. Rome, arbitrating the dispute, upheld his claim. Leptis Magna and its neighbors thereafter paid tribute to Numidia while keeping considerable autonomy.",
+    "ko": "제2차 포에니 전쟁 이후 카르타고의 약화를 틈타 누미디아 왕 마시니사는 기원전 162년경 트리폴리타니아의 엠포리아 지역을 점령했다. 분쟁을 중재한 로마는 그의 주장을 인정했다. 이후 렙티스 마그나와 이웃 도시들은 상당한 자치를 유지하면서 누미디아에 공물을 바쳤다.",
+    "zh": "趁第二次布匿战争后迦太基衰弱之机，努米底亚国王马西尼萨约于公元前162年占领了的黎波里塔尼亚的商埠地区。负责仲裁争端的罗马支持了他的主张。此后大莱普提斯及邻近城市在保持相当自治的同时向努米底亚纳贡。",
+    "ja": "第二次ポエニ戦争後のカルタゴの弱体化に乗じ、ヌミディア王マシニッサは前162年頃トリポリタニアのエンポリア地方を占領した。紛争を仲裁したローマは彼の主張を認めた。以後レプティス・マグナと近隣の町は、かなりの自治を保ちつつヌミディアに貢納した。"
+   }
+  },
+  {
+   "year": -96,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Ptolemy Apion bequeaths Cyrenaica to Rome",
+    "ko": "프톨레마이오스 아피온, 키레나이카를 로마에 유증",
+    "zh": "托勒密·阿皮翁将昔兰尼加遗赠罗马",
+    "ja": "プトレマイオス・アピオンがキレナイカをローマに遺贈"
+   },
+   "description": {
+    "en": "Ptolemy Apion, the last Ptolemaic ruler of Cyrenaica, left his kingdom to the Roman people on his death in 96 BC. Rome at first took over only the royal estates and left the cities free, but in 74 BC it organized Cyrenaica as a province, later combined with Crete. The region thereafter remained Roman for some seven centuries.",
+    "ko": "키레나이카의 마지막 프톨레마이오스계 통치자 프톨레마이오스 아피온은 기원전 96년 죽으면서 왕국을 로마 인민에게 남겼다. 로마는 처음에는 왕실 영지만 넘겨받고 도시들은 자유롭게 두었으나, 기원전 74년 키레나이카를 속주로 조직했고 뒤에 크레타와 합쳤다. 이후 이 지역은 약 7세기 동안 로마령으로 남았다.",
+    "zh": "昔兰尼加末代托勒密统治者托勒密·阿皮翁于公元前96年去世时，将王国遗赠给罗马人民。罗马起初只接管王室地产，让各城保持自由，但在公元前74年将昔兰尼加设为行省，后又与克里特合并。此后该地区在罗马治下约七个世纪。",
+    "ja": "キレナイカ最後のプトレマイオス家の支配者プトレマイオス・アピオンは、前96年の死に際して王国をローマ人民に遺した。ローマは当初王領だけを引き継ぎ都市は自由のままにしたが、前74年にキレナイカを属州とし、のちにクレタと合わせた。以後この地は約7世紀にわたりローマ領であった。"
+   }
+  },
+  {
+   "year": -46,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Caesar annexes Tripolitania",
+    "ko": "카이사르, 트리폴리타니아 병합",
+    "zh": "恺撒吞并的黎波里塔尼亚",
+    "ja": "カエサルがトリポリタニアを併合"
+   },
+   "description": {
+    "en": "After defeating the Pompeians and their ally King Juba I of Numidia at Thapsus in 46 BC, Julius Caesar annexed Numidia as the province of Africa Nova, bringing the Tripolitanian cities under direct Roman rule. Leptis Magna, which had sided with Caesar's enemies, was punished with a heavy annual levy of olive oil. Romanization of the Libyan coast accelerated from this time.",
+    "ko": "기원전 46년 탑수스에서 폼페이우스파와 그 동맹인 누미디아 왕 유바 1세를 격파한 율리우스 카이사르는 누미디아를 아프리카 노바 속주로 병합해 트리폴리타니아 도시들을 로마의 직접 지배 아래 두었다. 카이사르의 적 편에 섰던 렙티스 마그나는 무거운 연례 올리브유 부담금으로 처벌받았다. 이때부터 리비아 해안의 로마화가 가속되었다.",
+    "zh": "公元前46年，尤利乌斯·恺撒在塔普苏斯击败庞培派及其盟友努米底亚国王朱巴一世后，将努米底亚并为新阿非利加行省，的黎波里塔尼亚诸城从此直接归罗马统治。曾站在恺撒敌人一边的大莱普提斯被处以沉重的年度橄榄油贡赋。利比亚海岸的罗马化自此加速。",
+    "ja": "前46年、タプススでポンペイウス派とその同盟者ヌミディア王ユバ1世を破ったユリウス・カエサルは、ヌミディアを新アフリカ属州として併合し、トリポリタニアの諸都市をローマの直接支配下に置いた。カエサルの敵側についたレプティス・マグナは、毎年の重いオリーブ油の負担を科された。これ以降、リビア沿岸のローマ化が加速した。"
+   }
+  },
+  {
+   "year": -19,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Balbus's campaign against the Garamantes",
+    "ko": "발부스의 가라만테스 원정",
+    "zh": "巴尔布斯远征加拉曼特人",
+    "ja": "バルブスのガラマンテス遠征"
+   },
+   "description": {
+    "en": "Lucius Cornelius Balbus, proconsul of Africa, led a Roman expedition deep into the Sahara and captured Garama, celebrating a triumph in Rome in 19 BC, the last ever awarded to a man outside the imperial family. The campaign did not lead to occupation of the Fezzan. Relations between Rome and the Garamantes alternated thereafter between conflict and trade.",
+    "ko": "아프리카 총독 루키우스 코르넬리우스 발부스는 로마군을 이끌고 사하라 깊숙이 들어가 가라마를 점령했고, 기원전 19년 로마에서 개선식을 거행했는데, 이는 황실 밖의 인물에게 허용된 마지막 개선식이었다. 이 원정은 페잔 점령으로 이어지지는 않았다. 이후 로마와 가라만테스의 관계는 충돌과 교역 사이를 오갔다.",
+    "zh": "阿非利加行省总督卢基乌斯·科尔涅利乌斯·巴尔布斯率罗马军队深入撒哈拉，攻占加拉马，并于公元前19年在罗马举行凯旋式，这是皇族以外人士获得的最后一次凯旋式。这次远征并未导致对费赞的占领。此后罗马与加拉曼特人的关系在冲突与贸易之间交替。",
+    "ja": "アフリカ総督ルキウス・コルネリウス・バルブスはローマ軍を率いてサハラ奥地へ進みガラマを攻略し、前19年にローマで凱旋式を挙げた。これは皇帝一族以外の人物に認められた最後の凱旋式だった。遠征はフェザーンの占領にはつながらず、以後ローマとガラマンテスの関係は衝突と交易の間を揺れ動いた。"
+   }
+  },
+  {
+   "year": 1,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Theatre of Leptis Magna dedicated",
+    "ko": "렙티스 마그나 극장 봉헌",
+    "zh": "大莱普提斯剧场落成",
+    "ja": "レプティス・マグナの劇場奉献"
+   },
+   "description": {
+    "en": "Around AD 1–2 the theatre of Leptis Magna was dedicated, paid for by the local notable Annobal Tapapius Rufus, whose inscriptions were carved in both Latin and Punic. It is one of the oldest stone theatres in Roman Africa. The bilingual texts show how the Punic elite of Tripolitania adopted Roman civic culture while keeping its own language.",
+    "ko": "서기 1~2년경 렙티스 마그나의 극장이 봉헌되었는데, 비용은 현지 명사 안노발 타파피우스 루푸스가 댔고 그의 비문은 라틴어와 포에니어 두 언어로 새겨졌다. 이는 로마령 아프리카에서 가장 오래된 석조 극장 가운데 하나이다. 이중 언어 비문은 트리폴리타니아의 포에니계 엘리트가 자신의 언어를 지키면서 로마의 도시 문화를 받아들였음을 보여 준다.",
+    "zh": "约公元1至2年，大莱普提斯剧场落成，出资者是当地显贵安诺巴尔·塔帕皮乌斯·鲁弗斯，其铭文以拉丁文和布匿文双语镌刻。这是罗马阿非利加最古老的石造剧场之一。双语铭文表明，的黎波里塔尼亚的布匿精英在保留自身语言的同时接受了罗马的城市文化。",
+    "ja": "紀元1～2年頃、レプティス・マグナの劇場が奉献された。費用を出したのは地元の名士アンノバル・タパピウス・ルフスで、その碑文はラテン語とポエニ語の二言語で刻まれた。これはローマ領アフリカで最古級の石造劇場である。二言語碑文は、トリポリタニアのポエニ系エリートが自らの言語を保ちつつローマの都市文化を受け入れたことを示している。"
+   }
+  },
+  {
+   "year": 70,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Rome drives back the Garamantes",
+    "ko": "로마, 가라만테스를 격퇴",
+    "zh": "罗马击退加拉曼特人",
+    "ja": "ローマがガラマンテスを撃退"
+   },
+   "description": {
+    "en": "In AD 69–70 a feud between Oea and Leptis Magna escalated when Oea called in the Garamantes, who ravaged Leptis's territory. The legate Valerius Festus drove them back into the desert, as Tacitus records, and opened a shorter route to their homeland. Afterwards Roman–Garamantian relations became largely peaceful and commercial.",
+    "ko": "서기 69~70년 오이아와 렙티스 마그나의 분쟁이 격화되어 오이아가 가라만테스를 불러들였고, 이들은 렙티스의 영역을 약탈했다. 타키투스의 기록에 따르면 군단장 발레리우스 페스투스가 이들을 사막으로 몰아내고 그들의 본거지로 가는 더 짧은 길을 열었다. 그 뒤 로마와 가라만테스의 관계는 대체로 평화롭고 교역 중심이 되었다.",
+    "zh": "公元69至70年，欧伊亚与大莱普提斯的争端升级，欧伊亚招来加拉曼特人，后者蹂躏了莱普提斯的领地。据塔西佗记载，罗马将领瓦莱里乌斯·费斯图斯将他们逐回沙漠，并开辟了一条通往其本土的较短路线。此后罗马与加拉曼特人的关系大体转向和平与贸易。",
+    "ja": "紀元69～70年、オエアとレプティス・マグナの争いが激化し、オエアがガラマンテスを呼び込むと、彼らはレプティスの領域を荒らした。タキトゥスによれば、軍団長ウァレリウス・フェストゥスが彼らを砂漠へ追い返し、その本拠への近道を開いた。その後、ローマとガラマンテスの関係はおおむね平和的で交易中心となった。"
+   }
+  },
+  {
+   "year": 115,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Jewish revolt in Cyrenaica",
+    "ko": "키레나이카 유대인 반란",
+    "zh": "昔兰尼加犹太人起义",
+    "ja": "キレナイカのユダヤ人反乱"
+   },
+   "description": {
+    "en": "In AD 115 the large Jewish community of Cyrenaica rose against Roman rule during the Diaspora revolt (Kitos War), led by a figure ancient writers call Lukuas or Andreas. The uprising spread to Egypt and Cyprus and was crushed by 117 with great loss of life on all sides. Cyrene's temples and public buildings were badly damaged, and Emperor Hadrian later had the city restored.",
+    "ko": "서기 115년 디아스포라 반란(키토스 전쟁) 때 키레나이카의 큰 유대인 공동체가 고대 저술가들이 루쿠아스 또는 안드레아스라고 부르는 인물의 지도 아래 로마의 지배에 맞서 봉기했다. 반란은 이집트와 키프로스로 번졌다가 117년까지 진압되었고, 모든 편에서 많은 인명이 희생되었다. 키레네의 신전과 공공건물은 크게 파손되었으며, 하드리아누스 황제가 뒤에 도시를 복구하게 했다.",
+    "zh": "公元115年流散地犹太人起义（基托斯战争）期间，昔兰尼加庞大的犹太社群在古代作家称为卢库亚斯或安德烈亚斯的人物领导下反抗罗马统治。起义蔓延到埃及和塞浦路斯，至117年被镇压，各方都伤亡惨重。昔兰尼的神庙和公共建筑严重受损，哈德良皇帝后来下令修复该城。",
+    "ja": "紀元115年、ディアスポラ反乱（キトス戦争）の際、キレナイカの大きなユダヤ人共同体が、古代の著述家がルクアスあるいはアンドレアスと呼ぶ人物のもとでローマ支配に反旗を翻した。反乱はエジプトやキプロスに広がり、117年までに鎮圧されたが、あらゆる側で多くの命が失われた。キュレネの神殿や公共建築は大きく損なわれ、のちにハドリアヌス帝が町を復興させた。"
+   }
+  },
+  {
+   "year": 158,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Apuleius defends himself at Sabratha",
+    "ko": "아풀레이우스, 사브라타에서 변론",
+    "zh": "阿普列尤斯在萨布拉塔为自己辩护",
+    "ja": "アプレイウスがサブラタで弁明"
+   },
+   "description": {
+    "en": "Around AD 158–159 the writer Apuleius, author of The Golden Ass, was tried at Sabratha on charges of having used magic to win the hand of a wealthy widow of Oea. His witty speech of defence, the Apologia, survives and offers a vivid picture of provincial society in Roman Tripolitania. He was apparently acquitted.",
+    "ko": "서기 158~159년경 『황금 당나귀』의 저자 아풀레이우스는 오이아의 부유한 과부와 결혼하려고 마법을 썼다는 혐의로 사브라타에서 재판을 받았다. 재치 넘치는 그의 변론 『변명』이 전해지며, 로마령 트리폴리타니아 지방 사회의 생생한 모습을 보여 준다. 그는 무죄 판결을 받은 것으로 보인다.",
+    "zh": "约公元158至159年，《金驴记》的作者阿普列尤斯在萨布拉塔受审，被控使用魔法赢得欧伊亚一位富孀的婚约。他妙语连珠的辩护词《辩护》流传至今，生动展现了罗马的黎波里塔尼亚的地方社会。他似乎被判无罪。",
+    "ja": "紀元158～159年頃、『黄金のろば』の著者アプレイウスは、オエアの裕福な未亡人と結婚するため魔術を使ったとしてサブラタで裁かれた。機知に富んだ弁論『弁明』が残っており、ローマ領トリポリタニアの地方社会を生き生きと伝えている。彼は無罪とされたらしい。"
+   }
+  },
+  {
+   "year": 193,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Septimius Severus of Leptis Magna becomes Roman emperor",
+    "ko": "렙티스 마그나 출신 셉티미우스 세베루스, 로마 황제 즉위",
+    "zh": "大莱普提斯出身的塞普蒂米乌斯·塞维鲁登基为罗马皇帝",
+    "ja": "レプティス・マグナ出身のセプティミウス・セウェルスがローマ皇帝に"
+   },
+   "description": {
+    "en": "Septimius Severus, born in Leptis Magna to a family of Punic origin, seized the imperial throne in 193 amid the civil wars that followed the murder of Commodus. He founded the Severan dynasty and lavished his hometown with a new forum, basilica, harbor and a four-way triumphal arch. The ruins of Leptis Magna, a UNESCO World Heritage site, rank among the finest of the Roman world.",
+    "ko": "포에니계 가문 출신으로 렙티스 마그나에서 태어난 셉티미우스 세베루스는 콤모두스 암살 뒤 이어진 내전 속에서 193년 황제의 자리에 올랐다. 그는 세베루스 왕조를 열고 고향에 새 광장과 바실리카, 항구, 사면 개선문을 세워 주었다. 유네스코 세계유산인 렙티스 마그나 유적은 로마 세계에서 가장 훌륭한 유적 가운데 하나로 꼽힌다.",
+    "zh": "塞普蒂米乌斯·塞维鲁出生于大莱普提斯一个布匿血统的家庭，在康茂德遇刺后的内战中于193年夺得皇位。他开创了塞维鲁王朝，并为故乡兴建了新广场、巴西利卡、港口和四面凯旋门。大莱普提斯遗址是联合国教科文组织世界遗产，被誉为罗马世界最精美的遗址之一。",
+    "ja": "レプティス・マグナのポエニ系の家に生まれたセプティミウス・セウェルスは、コンモドゥス暗殺後の内乱のなかで193年に帝位を握った。彼はセウェルス朝を開き、故郷に新しいフォルム、バシリカ、港、四面門の凱旋門を贈った。ユネスコ世界遺産のレプティス・マグナ遺跡は、ローマ世界で最も見事な遺跡の一つに数えられる。"
+   }
+  },
+  {
+   "year": 203,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Severus honors Leptis and secures the frontier",
+    "ko": "세베루스, 렙티스를 우대하고 변경을 강화",
+    "zh": "塞维鲁优待莱普提斯并巩固边疆",
+    "ja": "セウェルスがレプティスを優遇し辺境を固める"
+   },
+   "description": {
+    "en": "Around 202–203 Septimius Severus visited his native Africa, granted Leptis Magna the privileged status of ius Italicum, and campaigned against desert tribes. A line of forts was pushed south into the Tripolitanian pre-desert, including Gholaia (Bu Njem). The frontier system protected the olive-growing hinterland for much of the 3rd century.",
+    "ko": "202~203년경 셉티미우스 세베루스는 고향 아프리카를 방문해 렙티스 마그나에 '이탈리아 법권(ius Italicum)'이라는 특권적 지위를 주고 사막 부족들을 정벌했다. 골라이아(부 은젬)를 비롯한 요새선이 트리폴리타니아의 사막 가장자리로 남하했다. 이 변경 체제는 3세기 대부분 동안 올리브 재배 배후지를 지켰다.",
+    "zh": "约202至203年，塞普蒂米乌斯·塞维鲁巡视故乡阿非利加，授予大莱普提斯“意大利权”这一特殊地位，并征讨沙漠部落。包括戈拉伊亚（布恩杰姆）在内的一系列要塞被推进到的黎波里塔尼亚的半沙漠地带。这一边防体系在3世纪大部分时间里保护了种植橄榄的腹地。",
+    "ja": "202～203年頃、セプティミウス・セウェルスは故郷アフリカを訪れ、レプティス・マグナに「イタリア権（ius Italicum）」という特権的地位を与え、砂漠の部族を討った。ゴライア（ブ・ンジェム）をはじめとする砦の列がトリポリタニアの砂漠縁辺へ南下した。この辺境体制は3世紀の大半、オリーブ栽培の後背地を守った。"
+   }
+  },
+  {
+   "year": 300,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Diocletian creates the province of Tripolitania",
+    "ko": "디오클레티아누스, 트리폴리타니아 속주 신설",
+    "zh": "戴克里先设立的黎波里塔尼亚行省",
+    "ja": "ディオクレティアヌスがトリポリタニア属州を設置"
+   },
+   "description": {
+    "en": "Around the turn of the 4th century, Diocletian's reorganization of the empire separated Tripolitania from Africa Proconsularis as a province of its own, while Cyrenaica was divided into Libya Superior and Libya Inferior. These divisions anticipated the historic regions of modern Libya. Christianity was by then established in the cities, with bishops at Leptis, Oea and Sabratha.",
+    "ko": "4세기 초 무렵 디오클레티아누스의 제국 개편으로 트리폴리타니아는 아프리카 프로콘술라리스에서 분리되어 독자적 속주가 되었고, 키레나이카는 상(上)리비아와 하(下)리비아로 나뉘었다. 이 구분은 근대 리비아의 역사적 지역 구분을 예고했다. 이 무렵 도시들에는 그리스도교가 자리 잡아 렙티스, 오이아, 사브라타에 주교가 있었다.",
+    "zh": "约在4世纪初，戴克里先改组帝国，将的黎波里塔尼亚从阿非利加行省中分出单独设省，昔兰尼加则分为上利比亚和下利比亚。这些划分预示了现代利比亚的历史区域。此时基督教已在城市中扎根，莱普提斯、欧伊亚和萨布拉塔都设有主教。",
+    "ja": "4世紀初め頃、ディオクレティアヌスの帝国再編でトリポリタニアはアフリカ・プロコンスラリスから分かれて独自の属州となり、キレナイカは上リビアと下リビアに分割された。この区分は近代リビアの歴史的地域区分の先駆けとなった。この頃には都市にキリスト教が根づき、レプティス、オエア、サブラタに司教がいた。"
+   }
+  },
+  {
+   "year": 365,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Earthquake of 365 devastates Cyrenaica",
+    "ko": "365년 대지진, 키레나이카를 강타",
+    "zh": "365年大地震重创昔兰尼加",
+    "ja": "365年の大地震がキレナイカを襲う"
+   },
+   "description": {
+    "en": "On 21 July 365 a massive earthquake centered near Crete, followed by a tsunami, struck the eastern Mediterranean. Cyrene and other Cyrenaican cities suffered severe destruction, and archaeologists have found collapsed buildings dating to the disaster. Combined with tribal raids, the earthquake accelerated the decline of urban life in the region.",
+    "ko": "365년 7월 21일 크레타 부근을 진앙으로 한 대지진과 이어진 쓰나미가 동지중해를 강타했다. 키레네와 키레나이카의 다른 도시들은 심각하게 파괴되었고, 고고학자들은 이 재해 때 무너진 건물들을 발견했다. 부족들의 습격과 맞물려 이 지진은 지역 도시 생활의 쇠퇴를 앞당겼다.",
+    "zh": "365年7月21日，以克里特附近为震中的特大地震及随后的海啸袭击了东地中海。昔兰尼和昔兰尼加其他城市遭到严重破坏，考古学家发现了在这次灾难中倒塌的建筑。加之部落袭扰，这场地震加速了该地区城市生活的衰落。",
+    "ja": "365年7月21日、クレタ付近を震源とする巨大地震とそれに続く津波が東地中海を襲った。キュレネをはじめキレナイカの諸都市は深刻な被害を受け、考古学者はこの災害で倒壊した建物を発見している。部族の襲撃とあいまって、この地震は地域の都市生活の衰退を早めた。"
+   }
+  },
+  {
+   "year": 410,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Synesius of Cyrene becomes bishop of Ptolemais",
+    "ko": "키레네의 시네시오스, 프톨레마이스 주교가 되다",
+    "zh": "昔兰尼的叙内西乌斯出任托勒迈斯主教",
+    "ja": "キュレネのシュネシオスがプトレマイスの司教に"
+   },
+   "description": {
+    "en": "Around 410 Synesius, a Neoplatonist philosopher and landowner from Cyrene who had studied under Hypatia in Alexandria, was made bishop of Ptolemais. His letters describe Cyrenaica's struggle against raids by the Austuriani and other desert tribes and the failings of imperial officials. They are a key source for the province in late antiquity.",
+    "ko": "410년경 알렉산드리아에서 히파티아에게 배운 키레네 출신의 신플라톤주의 철학자이자 지주인 시네시오스가 프톨레마이스의 주교가 되었다. 그의 편지들은 아우스투리아니족을 비롯한 사막 부족의 습격에 맞선 키레나이카의 고투와 제국 관리들의 무능을 묘사한다. 이는 고대 말기 이 속주에 관한 핵심 사료이다.",
+    "zh": "约410年，曾在亚历山大里亚师从希帕提娅的昔兰尼新柏拉图主义哲学家、地主叙内西乌斯被任命为托勒迈斯主教。他的书信描述了昔兰尼加抵御奥斯图里亚尼人等沙漠部落袭扰的艰难以及帝国官员的失职，是研究古代晚期该省的重要史料。",
+    "ja": "410年頃、アレクサンドリアでヒュパティアに学んだキュレネ出身の新プラトン主義哲学者で地主のシュネシオスが、プトレマイスの司教となった。彼の書簡は、アウストゥリアニ族などの砂漠部族の襲撃に対するキレナイカの苦闘と帝国官吏の失態を描いており、古代末期のこの属州を知る重要な史料である。"
+   }
+  },
+  {
+   "year": 455,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Vandals take Tripolitania",
+    "ko": "반달족, 트리폴리타니아 장악",
+    "zh": "汪达尔人占领的黎波里塔尼亚",
+    "ja": "ヴァンダル族がトリポリタニアを掌握"
+   },
+   "description": {
+    "en": "Around 455, after the death of Emperor Valentinian III, the Vandal king Gaiseric extended his rule from Carthage over Tripolitania. The Vandals dismantled the walls of several cities, and the region's towns, already weakened, declined further under pressure from Berber tribes. Cyrenaica remained under the Eastern Roman Empire.",
+    "ko": "455년경 발렌티니아누스 3세 황제가 죽은 뒤 반달 왕 가이세리크는 카르타고에서 트리폴리타니아까지 지배를 넓혔다. 반달족은 여러 도시의 성벽을 허물었고, 이미 약해진 이 지역 도시들은 베르베르 부족들의 압박 속에서 더욱 쇠퇴했다. 키레나이카는 동로마 제국령으로 남았다.",
+    "zh": "约455年，皇帝瓦伦提尼安三世死后，汪达尔国王盖萨里克将统治从迦太基扩展到的黎波里塔尼亚。汪达尔人拆毁了多座城市的城墙，本已衰弱的城镇在柏柏尔部落的压力下进一步衰落。昔兰尼加仍属东罗马帝国。",
+    "ja": "455年頃、皇帝ウァレンティニアヌス3世の死後、ヴァンダル王ガイセリックはカルタゴからトリポリタニアへ支配を広げた。ヴァンダル族はいくつかの都市の城壁を取り壊し、すでに弱っていた町はベルベル諸部族の圧力のもとでさらに衰えた。キレナイカは東ローマ帝国領にとどまった。"
+   }
+  },
+  {
+   "year": 533,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Byzantine reconquest of Tripolitania",
+    "ko": "비잔티움의 트리폴리타니아 재정복",
+    "zh": "拜占庭收复的黎波里塔尼亚",
+    "ja": "ビザンツによるトリポリタニア再征服"
+   },
+   "description": {
+    "en": "In 533 Emperor Justinian's general Belisarius destroyed the Vandal kingdom, and Tripolitania returned to Roman rule. Justinian rebuilt the defenses of Leptis Magna and Sabratha on a reduced scale and built churches, including at Sabratha. Byzantine control, however, was repeatedly challenged by Berber tribal confederations.",
+    "ko": "533년 유스티니아누스 황제의 장군 벨리사리우스가 반달 왕국을 멸망시키면서 트리폴리타니아는 로마의 지배로 돌아왔다. 유스티니아누스는 렙티스 마그나와 사브라타의 방어 시설을 축소된 규모로 재건하고 사브라타 등지에 교회를 세웠다. 그러나 비잔티움의 통제는 베르베르 부족 연합의 거듭된 도전을 받았다.",
+    "zh": "533年，查士丁尼皇帝的将军贝利萨留消灭汪达尔王国，的黎波里塔尼亚重归罗马统治。查士丁尼以缩小的规模重建了大莱普提斯和萨布拉塔的防御工事，并在萨布拉塔等地修建教堂。然而拜占庭的控制屡遭柏柏尔部落联盟的挑战。",
+    "ja": "533年、ユスティニアヌス帝の将軍ベリサリウスがヴァンダル王国を滅ぼし、トリポリタニアはローマの支配に戻った。ユスティニアヌスはレプティス・マグナとサブラタの防備を縮小した規模で再建し、サブラタなどに教会を建てた。しかしビザンツの支配はベルベル部族連合の挑戦を繰り返し受けた。"
+   }
+  },
+  {
+   "year": 643,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Arab conquest brings Islam to Libya",
+    "ko": "아랍의 정복과 이슬람 전파",
+    "zh": "阿拉伯人征服利比亚，伊斯兰教传入",
+    "ja": "アラブ人の征服とイスラームの伝来"
+   },
+   "description": {
+    "en": "After conquering Egypt, Arab armies under Amr ibn al-As took Barqa (Cyrenaica) in 642 and Tripoli in 643, imposing tribute on the Berber Lawata and other tribes. The conquest began the long processes of Islamization and, later, Arabization that permanently shaped Libya's language, religion and identity. Libya became the gateway for the Muslim conquest of the rest of North Africa.",
+    "ko": "이집트를 정복한 아므르 이븐 알아스의 아랍군은 642년 바르카(키레나이카)를, 643년 트리폴리를 점령하고 베르베르계 라와타족 등에게 공납을 부과했다. 이 정복으로 리비아의 언어와 종교, 정체성을 영구히 형성한 이슬람화와 이후의 아랍화라는 긴 과정이 시작되었다. 리비아는 북아프리카 나머지 지역에 대한 무슬림 정복의 관문이 되었다.",
+    "zh": "征服埃及后，阿慕尔·本·阿斯率领的阿拉伯军队于642年攻取巴尔卡（昔兰尼加），643年攻占的黎波里，并向柏柏尔人的拉瓦塔等部落征收贡赋。这次征服开启了伊斯兰化以及后来阿拉伯化的漫长进程，永久塑造了利比亚的语言、宗教和认同。利比亚成为穆斯林征服北非其余地区的门户。",
+    "ja": "エジプトを征服したアムル・イブン・アル＝アースのアラブ軍は、642年にバルカ（キレナイカ）、643年にトリポリを占領し、ベルベル系のラワータ族などに貢納を課した。この征服により、リビアの言語・宗教・アイデンティティを永続的に形づくるイスラーム化と、のちのアラブ化という長い過程が始まった。リビアは北アフリカの残りの地域へのムスリムの征服の入口となった。"
+   }
+  },
+  {
+   "year": 666,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Uqba ibn Nafi's expedition to the Fezzan",
+    "ko": "우크바 이븐 나피의 페잔 원정",
+    "zh": "欧格白·本·纳菲远征费赞",
+    "ja": "ウクバ・イブン・ナーフィのフェザーン遠征"
+   },
+   "description": {
+    "en": "Around 666–667 the Arab commander Uqba ibn Nafi led a raid deep into the Libyan Sahara, subduing Waddan, the Garamantian capital Germa and the oases of Kawar, according to Arab historians. The expedition brought the Fezzan into contact with the new Muslim power. Uqba later founded Kairouan and led the conquest of the Maghreb.",
+    "ko": "아랍 역사가들에 따르면 666~667년경 아랍 사령관 우크바 이븐 나피는 리비아 사하라 깊숙이 원정해 와단과 가라만테스의 수도 게르마, 카와르의 오아시스들을 복속시켰다. 이 원정으로 페잔은 새로운 무슬림 세력과 접촉하게 되었다. 우크바는 뒤에 카이루안을 세우고 마그레브 정복을 이끌었다.",
+    "zh": "据阿拉伯史家记载，约666至667年，阿拉伯将领欧格白·本·纳菲率军深入利比亚撒哈拉，征服瓦丹、加拉曼特人的都城杰尔马以及卡瓦尔诸绿洲。这次远征使费赞与新兴的穆斯林政权发生接触。欧格白后来建立凯鲁万，并领导了对马格里布的征服。",
+    "ja": "アラブの歴史家によれば、666～667年頃、アラブの司令官ウクバ・イブン・ナーフィはリビアのサハラ奥地へ遠征し、ワッダーン、ガラマンテスの都ジェルマ、カワールのオアシスを服属させた。この遠征によりフェザーンは新たなムスリム勢力と接触した。ウクバはのちにカイルアンを建設し、マグリブ征服を率いた。"
+   }
+  },
+  {
+   "year": 761,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Fall of the Ibadi imamate of Abu al-Khattab",
+    "ko": "아부 알하타브의 이바디 이맘국 몰락",
+    "zh": "阿布·哈塔卜伊巴德伊玛目政权覆灭",
+    "ja": "アブー・アル＝ハッターブのイバード派イマーム政権崩壊"
+   },
+   "description": {
+    "en": "In the 750s Ibadi Berbers of the Jabal Nafusa elected Abu al-Khattab al-Ma'afiri as imam; he took Tripoli and briefly extended his rule to Kairouan. In 761 an Abbasid army defeated and killed him near Tawurgha. Ibadism nevertheless survived among the Berbers of the Jabal Nafusa, where it remains strong today.",
+    "ko": "750년대에 나푸사산지의 이바디파 베르베르인들은 아부 알하타브 알마아피리를 이맘으로 추대했고, 그는 트리폴리를 차지하고 한때 카이루안까지 지배를 넓혔다. 761년 아바스 군대가 타우르가 부근에서 그를 격파해 죽였다. 그래도 이바디파는 나푸사산지의 베르베르인 사이에서 살아남아 오늘날까지 강하게 이어진다.",
+    "zh": "750年代，奈富塞山的伊巴德派柏柏尔人推举阿布·哈塔卜·马阿菲里为伊玛目，他攻占的黎波里，并一度将统治扩展到凯鲁万。761年，阿拔斯军队在塔沃加附近击败并杀死了他。然而伊巴德派在奈富塞山的柏柏尔人中延续下来，至今仍很兴盛。",
+    "ja": "750年代、ナフーサ山地のイバード派ベルベル人はアブー・アル＝ハッターブ・アル＝マアーフィリーをイマームに選び、彼はトリポリを奪って一時はカイルアンにまで支配を広げた。761年、アッバース朝軍がタワルガ付近で彼を破り殺害した。それでもイバード派はナフーサ山地のベルベル人の間で生き残り、今日も根強い。"
+   }
+  },
+  {
+   "year": 800,
+   "qid": "Q207600",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Aghlabid emirate established",
+    "ko": "아글라브 왕조 수립",
+    "zh": "阿格拉布王朝建立",
+    "ja": "アグラブ朝の成立"
+   },
+   "description": {
+    "en": "In 800 the Abbasid caliph Harun al-Rashid granted Ibrahim ibn al-Aghlab hereditary rule over Ifriqiya in exchange for tribute, creating the Aghlabid emirate centered on Kairouan. Tripolitania formed its eastern province, governed from Tripoli. The Aghlabids ruled for over a century until the Fatimid takeover.",
+    "ko": "800년 아바스 칼리파 하룬 알라시드는 공납을 받는 대가로 이브라힘 이븐 알아글라브에게 이프리키야의 세습 통치권을 주었고, 이로써 카이루안을 중심으로 한 아글라브 왕조가 생겨났다. 트리폴리타니아는 트리폴리에서 다스리는 그 동부 주가 되었다. 아글라브 왕조는 파티마 왕조가 장악할 때까지 100년 넘게 다스렸다.",
+    "zh": "800年，阿拔斯哈里发哈伦·拉希德以纳贡为条件，授予易卜拉欣·本·阿格拉布对易弗里基叶的世袭统治权，由此建立以凯鲁万为中心的阿格拉布王朝。的黎波里塔尼亚是其东部省份，由的黎波里治理。阿格拉布王朝统治了一百多年，直到被法蒂玛王朝取代。",
+    "ja": "800年、アッバース朝カリフのハールーン・アッ＝ラシードは貢納と引き換えにイブラーヒーム・イブン・アル＝アグラブにイフリーキヤの世襲統治を認め、カイルアンを中心とするアグラブ朝が生まれた。トリポリタニアはトリポリから治められるその東部州となった。アグラブ朝はファーティマ朝に取って代わられるまで100年以上統治した。"
+   }
+  },
+  {
+   "year": 880,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Tulunid incursion into Tripolitania repulsed",
+    "ko": "툴룬 왕조의 트리폴리타니아 침입 격퇴",
+    "zh": "图伦王朝入侵的黎波里塔尼亚被击退",
+    "ja": "トゥールーン朝のトリポリタニア侵入を撃退"
+   },
+   "description": {
+    "en": "Around 879–880 al-Abbas, the rebellious son of Ahmad ibn Tulun, ruler of Egypt, marched west through Cyrenaica and attacked Tripolitania. He was defeated with the help of the Ibadi Berbers of the Jabal Nafusa and forced to retreat. The episode shows Libya's position as a contested frontier between Egypt-based powers and the rulers of Ifriqiya.",
+    "ko": "879~880년경 이집트 통치자 아흐마드 이븐 툴룬의 반항적인 아들 알아바스가 키레나이카를 거쳐 서쪽으로 진군해 트리폴리타니아를 공격했다. 그는 나푸사산지 이바디파 베르베르인의 도움을 받은 세력에게 패해 물러나야 했다. 이 사건은 이집트를 근거로 한 세력과 이프리키야 통치자들 사이에서 리비아가 다툼의 변경이었음을 보여 준다.",
+    "zh": "约879至880年，埃及统治者艾哈迈德·本·图伦的叛逆之子阿拔斯经昔兰尼加西进，进攻的黎波里塔尼亚。他在奈富塞山伊巴德派柏柏尔人参与的抵抗下战败撤退。这一事件表明利比亚是以埃及为基地的政权与易弗里基叶统治者之间争夺的边疆。",
+    "ja": "879～880年頃、エジプトの支配者アフマド・イブン・トゥールーンの反抗的な息子アッバースがキレナイカを経て西進し、トリポリタニアを攻めた。彼はナフーサ山地のイバード派ベルベル人の加勢を受けた勢力に敗れ、退却を余儀なくされた。この出来事は、リビアがエジプトを本拠とする勢力とイフリーキヤの支配者の間で争われる辺境だったことを示している。"
+   }
+  },
+  {
+   "year": 909,
+   "qid": "Q160307",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fatimids overthrow the Aghlabids",
+    "ko": "파티마 왕조, 아글라브 왕조를 무너뜨림",
+    "zh": "法蒂玛王朝推翻阿格拉布王朝",
+    "ja": "ファーティマ朝がアグラブ朝を倒す"
+   },
+   "description": {
+    "en": "In 909 the Isma'ili missionary Abu Abdallah al-Shi'i, backed by the Kutama Berbers, toppled the Aghlabids, and the following year Abdallah al-Mahdi was proclaimed caliph. Tripolitania and Cyrenaica became part of the Fatimid Caliphate. Libya served as the route of the Fatimid armies that conquered Egypt in 969.",
+    "ko": "909년 쿠타마 베르베르인의 지원을 받은 이스마일파 선교사 아부 압달라 알시이가 아글라브 왕조를 무너뜨렸고, 이듬해 압달라 알마흐디가 칼리파로 선포되었다. 트리폴리타니아와 키레나이카는 파티마 칼리파국의 일부가 되었다. 리비아는 969년 이집트를 정복한 파티마 군대의 진군로가 되었다.",
+    "zh": "909年，得到库塔马柏柏尔人支持的伊斯玛仪派传教士阿布·阿卜杜拉·什叶推翻阿格拉布王朝，次年阿卜杜拉·马赫迪被拥立为哈里发。的黎波里塔尼亚和昔兰尼加成为法蒂玛王朝的一部分。利比亚成为969年征服埃及的法蒂玛军队的进军通道。",
+    "ja": "909年、クターマ・ベルベル人に支えられたイスマーイール派の宣教者アブー・アブドゥッラー・アッ＝シーイーがアグラブ朝を倒し、翌年アブドゥッラー・アル＝マフディーがカリフに推戴された。トリポリタニアとキレナイカはファーティマ朝の一部となった。リビアは969年にエジプトを征服したファーティマ軍の進路となった。"
+   }
+  },
+  {
+   "year": 972,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Fatimids leave the Maghreb to the Zirids",
+    "ko": "파티마 왕조, 마그레브를 지리 왕조에 맡김",
+    "zh": "法蒂玛王朝将马格里布交给齐里王朝",
+    "ja": "ファーティマ朝がマグリブをズィール朝に委ねる"
+   },
+   "description": {
+    "en": "When Caliph al-Mu'izz moved the Fatimid court to Cairo in 972–973, he entrusted Ifriqiya, including Tripolitania, to his Berber lieutenant Buluggin ibn Ziri. Cyrenaica was attached more closely to Egypt. Tripoli soon came under the local Banu Khazrun, a Zenata Berber family that ruled it for much of the 11th century.",
+    "ko": "972~973년 칼리파 알무이즈가 파티마 궁정을 카이로로 옮기면서 트리폴리타니아를 포함한 이프리키야를 베르베르인 부장 불루긴 이븐 지리에게 맡겼다. 키레나이카는 이집트에 더 가깝게 묶였다. 트리폴리는 곧 11세기 대부분 동안 이곳을 다스린 제나타 베르베르계 가문 바누 하즈룬의 손에 들어갔다.",
+    "zh": "972至973年，哈里发穆伊兹将法蒂玛宫廷迁往开罗时，把包括的黎波里塔尼亚在内的易弗里基叶交给柏柏尔部将布卢金·本·齐里治理，昔兰尼加则与埃及联系更为紧密。的黎波里不久落入扎纳塔柏柏尔人哈兹伦家族之手，该家族在11世纪大部分时间统治该城。",
+    "ja": "972～973年、カリフのムイッズがファーティマ朝の宮廷をカイロへ移す際、トリポリタニアを含むイフリーキヤをベルベル人の部将ブルッギーン・イブン・ズィーリーに委ねた。キレナイカはエジプトとより密接に結びつけられた。トリポリはまもなくザナータ系ベルベル人のバヌー・ハズルーンの手に渡り、同家は11世紀の大半この町を治めた。"
+   }
+  },
+  {
+   "year": 1051,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Banu Hilal and Banu Sulaym invade",
+    "ko": "바누 힐랄과 바누 술라임의 유입",
+    "zh": "希拉勒人与苏莱姆人涌入",
+    "ja": "バヌー・ヒラールとバヌー・スライムの侵入"
+   },
+   "description": {
+    "en": "Around 1050–1051, after the Zirids repudiated Fatimid authority, the Fatimid court encouraged the Arab Bedouin tribes of Banu Hilal and Banu Sulaym to move west from Upper Egypt. The Sulaym settled largely in Cyrenaica and Tripolitania, while the Hilal pressed on into Ifriqiya. Their migration transformed Libya's countryside, spreading Arabic and Bedouin pastoralism and making the population predominantly Arab in language over the following centuries.",
+    "ko": "1050~1051년경 지리 왕조가 파티마 왕조의 권위를 부정하자, 파티마 궁정은 아랍 베두인 부족인 바누 힐랄과 바누 술라임이 상이집트에서 서쪽으로 이동하도록 부추겼다. 술라임족은 주로 키레나이카와 트리폴리타니아에 정착했고, 힐랄족은 이프리키야로 계속 나아갔다. 이들의 이주는 리비아 농촌을 바꾸어 아랍어와 베두인식 유목을 퍼뜨렸고, 이후 수 세기에 걸쳐 주민 대다수가 아랍어를 쓰게 만들었다.",
+    "zh": "约1050至1051年，齐里王朝否认法蒂玛王朝的权威后，法蒂玛宫廷鼓动阿拉伯贝都因部落希拉勒人和苏莱姆人从上埃及西迁。苏莱姆人主要定居于昔兰尼加和的黎波里塔尼亚，希拉勒人则继续进入易弗里基叶。他们的迁徙改变了利比亚的乡村面貌，传播了阿拉伯语和贝都因游牧方式，在此后数百年间使大多数居民改说阿拉伯语。",
+    "ja": "1050～1051年頃、ズィール朝がファーティマ朝の権威を否認すると、ファーティマ朝の宮廷はアラブ系ベドウィンのバヌー・ヒラールとバヌー・スライムに上エジプトから西への移動を促した。スライム族は主にキレナイカとトリポリタニアに定住し、ヒラール族はイフリーキヤへと進んだ。この移住はリビアの農村を一変させ、アラビア語とベドウィン的牧畜を広め、その後数世紀で住民の大多数をアラビア語話者にした。"
+   }
+  },
+  {
+   "year": 1146,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Normans of Sicily capture Tripoli",
+    "ko": "시칠리아 노르만인, 트리폴리 점령",
+    "zh": "西西里诺曼人攻占的黎波里",
+    "ja": "シチリアのノルマン人がトリポリを占領"
+   },
+   "description": {
+    "en": "In 1146 the fleet of King Roger II of Sicily, commanded by George of Antioch, captured Tripoli, which became part of a short-lived Norman dominion on the North African coast. The Normans left local Muslim notables in charge under tribute. Their rule ended when the city rose against them and the Almohads arrived around 1158–1160.",
+    "ko": "1146년 안티오키아의 게오르기오스가 지휘하는 시칠리아 왕 루제로 2세의 함대가 트리폴리를 점령했고, 도시는 북아프리카 해안에 있던 단명한 노르만 영토의 일부가 되었다. 노르만인은 공납을 받는 조건으로 현지 무슬림 유력자들에게 통치를 맡겼다. 이들의 지배는 1158~1160년경 도시가 봉기하고 무와히드 왕조가 도착하면서 끝났다.",
+    "zh": "1146年，由安条克的乔治指挥的西西里国王罗杰二世舰队攻占的黎波里，该城成为诺曼人在北非沿岸短暂领地的一部分。诺曼人让当地穆斯林显贵在纳贡条件下管理城市。约1158至1160年，城市起义反抗，穆瓦希德王朝随后到来，诺曼人的统治宣告结束。",
+    "ja": "1146年、アンティオキアのゲオルギオスが率いるシチリア王ルッジェーロ2世の艦隊がトリポリを占領し、町は北アフリカ沿岸の短命なノルマン領の一部となった。ノルマン人は貢納を条件に在地のムスリム有力者に統治を任せた。その支配は1158～1160年頃、町の蜂起とムワッヒド朝の到来によって終わった。"
+   }
+  },
+  {
+   "year": 1160,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Almohads take Tripoli",
+    "ko": "무와히드 왕조, 트리폴리 장악",
+    "zh": "穆瓦希德王朝夺取的黎波里",
+    "ja": "ムワッヒド朝がトリポリを掌握"
+   },
+   "description": {
+    "en": "In 1160 the Almohad caliph Abd al-Mu'min completed his conquest of Ifriqiya, expelling the Normans from Mahdia and bringing Tripoli under Almohad rule. For the first time the whole Maghreb from the Atlantic to Tripolitania was united under a single Berber-led Muslim empire. Tripoli remained the empire's distant eastern frontier.",
+    "ko": "1160년 무와히드 칼리파 압둘무민은 이프리키야 정복을 마무리해 마흐디아에서 노르만인을 몰아내고 트리폴리를 무와히드의 지배 아래 두었다. 처음으로 대서양에서 트리폴리타니아까지 마그레브 전체가 베르베르인이 이끄는 단일 무슬림 제국 아래 통합되었다. 트리폴리는 제국의 먼 동쪽 변경으로 남았다.",
+    "zh": "1160年，穆瓦希德哈里发阿卜杜·穆敏完成对易弗里基叶的征服，将诺曼人逐出马赫迪耶，并把的黎波里纳入穆瓦希德统治。从大西洋到的黎波里塔尼亚的整个马格里布首次统一于一个由柏柏尔人领导的穆斯林帝国之下。的黎波里成为帝国遥远的东部边疆。",
+    "ja": "1160年、ムワッヒド朝のカリフ、アブド・アル＝ムウミンはイフリーキヤ征服を終え、マフディーヤからノルマン人を追い出し、トリポリをムワッヒド朝の支配下に置いた。大西洋からトリポリタニアまでのマグリブ全体が、初めてベルベル人主導の単一のムスリム帝国のもとに統一された。トリポリは帝国の遠い東の辺境であり続けた。"
+   }
+  },
+  {
+   "year": 1172,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Qaraqush campaigns in Libya",
+    "ko": "카라쿠시의 리비아 원정",
+    "zh": "卡拉库什征战利比亚",
+    "ja": "カラークーシュのリビア遠征"
+   },
+   "description": {
+    "en": "From around 1172 Sharaf al-Din Qaraqush, an Armenian mamluk of Saladin's family, led an army westward from Egypt, overthrowing the Banu Khattab of Zawila in the Fezzan and seizing much of Tripolitania. Allied with the Banu Ghaniya, he long challenged the Almohads in the region. His adventures illustrate the instability of Libya between rival Egyptian and Maghrebi powers.",
+    "ko": "1172년경부터 살라딘 가문의 아르메니아계 맘루크인 샤라프 알딘 카라쿠시는 이집트에서 서쪽으로 군대를 이끌고 가서 페잔 자윌라의 바누 하타브를 무너뜨리고 트리폴리타니아의 상당 부분을 장악했다. 그는 바누 가니야와 손잡고 오랫동안 이 지역에서 무와히드 왕조에 도전했다. 그의 행적은 이집트와 마그레브 세력 사이에 낀 리비아의 불안정을 잘 보여 준다.",
+    "zh": "约自1172年起，萨拉丁家族的亚美尼亚裔马穆鲁克沙拉夫丁·卡拉库什率军从埃及西进，推翻费赞扎维拉的哈塔卜家族，并夺取的黎波里塔尼亚大部。他与加尼亚家族结盟，长期在该地区挑战穆瓦希德王朝。他的经历说明了利比亚夹在埃及与马格里布势力之间的动荡局面。",
+    "ja": "1172年頃から、サラディン一族のアルメニア系マムルーク、シャラフッディーン・カラークーシュはエジプトから西へ軍を率い、フェザーンのザウィーラのバヌー・ハッターブを倒し、トリポリタニアの大部分を奪った。彼はバヌー・ガーニヤと結び、長くこの地でムワッヒド朝に挑んだ。その行動は、エジプトとマグリブの勢力の間で揺れるリビアの不安定さを物語っている。"
+   }
+  },
+  {
+   "year": 1229,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hafsids take over Tripolitania",
+    "ko": "하프스 왕조의 트리폴리타니아 지배",
+    "zh": "哈夫斯王朝接管的黎波里塔尼亚",
+    "ja": "ハフス朝がトリポリタニアを支配"
+   },
+   "description": {
+    "en": "In 1229 the Almohad governor of Ifriqiya, Abu Zakariya Yahya, declared independence and founded the Hafsid dynasty in Tunis, inheriting Tripoli as its eastern province. For nearly three centuries Tripolitania was linked politically and culturally to Tunis. Hafsid authority there, however, often depended on local families and Arab tribes.",
+    "ko": "1229년 이프리키야의 무와히드 총독 아부 자카리야 야흐야가 독립을 선언하고 튀니스에서 하프스 왕조를 세우면서 트리폴리를 동부 주로 물려받았다. 이후 거의 3세기 동안 트리폴리타니아는 정치적·문화적으로 튀니스와 연결되었다. 그러나 이곳에서 하프스 왕조의 권위는 흔히 현지 가문과 아랍 부족에 의존했다.",
+    "zh": "1229年，穆瓦希德王朝的易弗里基叶总督阿布·扎卡里亚·叶海亚宣布独立，在突尼斯建立哈夫斯王朝，的黎波里作为其东部省份被继承下来。此后近三个世纪，的黎波里塔尼亚在政治和文化上与突尼斯紧密相连。不过哈夫斯王朝在当地的权威常常依赖地方家族和阿拉伯部落。",
+    "ja": "1229年、ムワッヒド朝のイフリーキヤ総督アブー・ザカリーヤー・ヤフヤーが独立を宣言してチュニスにハフス朝を開き、トリポリをその東部州として受け継いだ。以後300年近く、トリポリタニアは政治的・文化的にチュニスと結びついた。ただしこの地でのハフス朝の権威は、しばしば在地の一族やアラブ部族に依存していた。"
+   }
+  },
+  {
+   "year": 1240,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Kanem extends its power to the Fezzan",
+    "ko": "카넴 왕국, 페잔으로 세력 확장",
+    "zh": "加涅姆王国势力扩展至费赞",
+    "ja": "カネム王国がフェザーンへ勢力を拡大"
+   },
+   "description": {
+    "en": "In the first half of the 13th century the Kanem king Dunama Dabbalemi, ruling from near Lake Chad, extended his influence north across the Sahara into the Fezzan, according to later chronicles. Kanem's sway over the Fezzan secured the vital caravan route linking Lake Chad with Tripoli. It lasted in some form into the following century.",
+    "ko": "후대 연대기에 따르면 13세기 전반 차드호 부근에서 다스리던 카넴 왕 두나마 다발레미는 사하라를 가로질러 북쪽의 페잔까지 영향력을 넓혔다. 카넴의 페잔 지배는 차드호와 트리폴리를 잇는 중요한 대상로를 확보해 주었다. 이 지배는 어떤 형태로든 다음 세기까지 이어졌다.",
+    "zh": "据后世编年史记载，13世纪上半叶，统治乍得湖附近的加涅姆国王杜纳马·达巴莱米将势力向北越过撒哈拉扩展到费赞。加涅姆对费赞的控制保障了连接乍得湖与的黎波里的重要商路，这种影响以某种形式延续到下一个世纪。",
+    "ja": "後世の年代記によれば、13世紀前半、チャド湖付近を治めたカネム王ドゥナマ・ダッバレミはサハラを越えて北のフェザーンまで勢力を伸ばした。カネムのフェザーン支配は、チャド湖とトリポリを結ぶ重要な隊商路を確保した。その影響は何らかの形で次の世紀まで続いた。"
+   }
+  },
+  {
+   "year": 1325,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ibn Battuta passes through Tripoli",
+    "ko": "이븐 바투타, 트리폴리를 지나다",
+    "zh": "伊本·白图泰途经的黎波里",
+    "ja": "イブン・バットゥータがトリポリを通過"
+   },
+   "description": {
+    "en": "In 1325 the young Moroccan traveler Ibn Battuta crossed Libya on his way to Mecca, traveling with a caravan through Tripoli and along the coast toward Egypt. His account notes the dangers of the route from Bedouin raiders. It was the start of a journey that would take him across much of the Islamic world and beyond.",
+    "ko": "1325년 젊은 모로코인 여행가 이븐 바투타는 메카로 가는 길에 리비아를 가로질러, 대상과 함께 트리폴리를 지나 해안을 따라 이집트로 향했다. 그의 기록은 베두인 약탈자들로 인한 여정의 위험을 언급한다. 이는 그를 이슬람 세계 대부분과 그 너머로 데려갈 여행의 시작이었다.",
+    "zh": "1325年，年轻的摩洛哥旅行家伊本·白图泰在前往麦加途中穿越利比亚，随商队经过的黎波里并沿海岸前往埃及。他的游记提到贝都因劫掠者给这段路途带来的危险。这是他足迹遍及伊斯兰世界大部及更远地区的旅程的开端。",
+    "ja": "1325年、若きモロッコ人旅行家イブン・バットゥータはメッカへ向かう途中リビアを横断し、隊商とともにトリポリを通って海岸沿いにエジプトへ向かった。彼の記録はベドウィンの略奪者による道中の危険に触れている。これはイスラーム世界の大部分とその先へと及ぶ旅の始まりだった。"
+   }
+  },
+  {
+   "year": 1355,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Genoese sack Tripoli",
+    "ko": "제노바인의 트리폴리 약탈",
+    "zh": "热那亚人洗劫的黎波里",
+    "ja": "ジェノヴァ人のトリポリ略奪"
+   },
+   "description": {
+    "en": "In 1355 a Genoese fleet under Filippo Doria seized and plundered Tripoli, then a prosperous port ruled by a local dynasty under loose Hafsid suzerainty. The Genoese soon sold the city back for a large ransom. The raid showed the vulnerability of the Libyan coast to the naval powers of the Christian Mediterranean.",
+    "ko": "1355년 필리포 도리아가 이끄는 제노바 함대가 당시 하프스 왕조의 느슨한 종주권 아래 현지 왕조가 다스리던 번영한 항구 트리폴리를 점령하고 약탈했다. 제노바인들은 곧 큰 몸값을 받고 도시를 되팔았다. 이 습격은 그리스도교 지중해 해양 세력 앞에서 리비아 해안이 얼마나 취약했는지를 보여 주었다.",
+    "zh": "1355年，菲利波·多里亚率领的热那亚舰队攻占并洗劫了的黎波里，当时该城是一座繁荣港口，由地方王朝在哈夫斯王朝松散的宗主权下统治。热那亚人不久便以高额赎金将城市卖回。这次袭击暴露了利比亚海岸在地中海基督教海上强国面前的脆弱。",
+    "ja": "1355年、フィリッポ・ドーリア率いるジェノヴァ艦隊は、当時ハフス朝の緩やかな宗主権のもとで在地の王朝が治めていた繁栄する港トリポリを占領し略奪した。ジェノヴァ人はまもなく多額の身代金と引き換えに町を売り戻した。この襲撃は、キリスト教地中海の海洋勢力に対するリビア沿岸の脆弱さを示した。"
+   }
+  },
+  {
+   "year": 1401,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Hafsids reassert control over Tripoli",
+    "ko": "하프스 왕조, 트리폴리 지배 회복",
+    "zh": "哈夫斯王朝重新控制的黎波里",
+    "ja": "ハフス朝がトリポリの支配を回復"
+   },
+   "description": {
+    "en": "Around the start of the 15th century the Hafsid sultan Abu Faris Abd al-Aziz ended the rule of local dynasties in Tripoli and restored direct Hafsid authority over the city. His long reign marked a revival of the Hafsid state. Tripoli prospered as a port linking Mediterranean commerce with the trans-Saharan caravan trade through Ghadames and the Fezzan.",
+    "ko": "15세기 초 무렵 하프스 왕조의 술탄 아부 파리스 압둘아지즈는 트리폴리의 현지 왕조 지배를 끝내고 도시에 대한 하프스 왕조의 직접 통치를 회복했다. 그의 긴 치세는 하프스 국가의 부흥기였다. 트리폴리는 지중해 교역과 가다메스·페잔을 거치는 사하라 종단 대상 무역을 잇는 항구로 번영했다.",
+    "zh": "约在15世纪初，哈夫斯苏丹阿布·法里斯·阿卜杜勒·阿齐兹结束了的黎波里地方王朝的统治，恢复了哈夫斯王朝对该城的直接管辖。他的长期统治标志着哈夫斯国家的复兴。的黎波里作为连接地中海贸易与经古达米斯和费赞的跨撒哈拉商队贸易的港口而繁荣。",
+    "ja": "15世紀初め頃、ハフス朝のスルタン、アブー・ファーリス・アブドゥルアズィーズはトリポリの在地王朝の支配を終わらせ、町に対するハフス朝の直接統治を回復した。その長い治世はハフス朝国家の復興期だった。トリポリは地中海交易と、ガダーメスやフェザーンを経るサハラ縦断の隊商交易を結ぶ港として栄えた。"
+   }
+  },
+  {
+   "year": 1510,
+   "qid": "Q16543736",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Spanish conquest of Tripoli",
+    "ko": "스페인의 트리폴리 정복",
+    "zh": "西班牙征服的黎波里",
+    "ja": "スペインのトリポリ征服"
+   },
+   "description": {
+    "en": "In July 1510 a Spanish force under Pedro Navarro stormed Tripoli as part of Spain's campaign to seize ports along the North African coast after the fall of Granada. The assault caused heavy loss of life and much of the population fled. Spain held the city as an isolated fortress.",
+    "ko": "1510년 7월 그라나다 함락 뒤 북아프리카 해안 항구들을 장악하려는 스페인의 원정의 일환으로 페드로 나바로가 이끄는 스페인군이 트리폴리를 급습했다. 공격으로 많은 인명이 희생되었고 주민 대부분이 도망쳤다. 스페인은 이 도시를 고립된 요새로 유지했다.",
+    "zh": "1510年7月，佩德罗·纳瓦罗率领的西班牙军队强攻的黎波里，这是西班牙在格拉纳达陷落后夺取北非沿岸港口行动的一部分。攻城造成大量伤亡，大部分居民逃离。西班牙将该城作为一座孤立的要塞据守。",
+    "ja": "1510年7月、ペドロ・ナバロ率いるスペイン軍がトリポリを強襲した。グラナダ陥落後に北アフリカ沿岸の港を奪おうとするスペインの遠征の一環だった。攻撃で多くの命が失われ、住民の大半は逃げ去った。スペインはこの町を孤立した要塞として保持した。"
+   }
+  },
+  {
+   "year": 1530,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Tripoli granted to the Knights of St John",
+    "ko": "트리폴리, 성 요한 기사단에 수여",
+    "zh": "的黎波里被授予圣约翰骑士团",
+    "ja": "トリポリが聖ヨハネ騎士団に与えられる"
+   },
+   "description": {
+    "en": "In 1530 Emperor Charles V granted Malta and Tripoli to the Knights Hospitaller, who had been expelled from Rhodes by the Ottomans in 1522. The Knights found Tripoli hard to defend and costly to supply. Their garrison held out for two decades against growing Ottoman and corsair pressure.",
+    "ko": "1530년 카를 5세 황제는 1522년 오스만 제국에 의해 로도스섬에서 쫓겨난 구호기사단에 몰타와 트리폴리를 주었다. 기사단은 트리폴리를 방어하기 어렵고 보급 비용이 많이 드는 곳으로 여겼다. 그들의 수비대는 커져 가는 오스만과 해적의 압박에 맞서 20년을 버텼다.",
+    "zh": "1530年，查理五世皇帝将马耳他和的黎波里授予1522年被奥斯曼人逐出罗得岛的医院骑士团。骑士团认为的黎波里难以防守、补给代价高昂。其驻军在奥斯曼人和海盗日益增大的压力下坚守了二十年。",
+    "ja": "1530年、皇帝カール5世は、1522年にオスマン帝国によってロドス島を追われた聖ヨハネ騎士団にマルタとトリポリを与えた。騎士団はトリポリを守りにくく補給に費用がかかる場所とみなした。その守備隊は強まるオスマン帝国と海賊の圧力に20年間耐えた。"
+   }
+  },
+  {
+   "year": 1550,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Awlad Muhammad dynasty in the Fezzan",
+    "ko": "페잔의 아울라드 무함마드 왕조",
+    "zh": "费赞的穆罕默德家族王朝",
+    "ja": "フェザーンのアウラード・ムハンマド朝"
+   },
+   "description": {
+    "en": "Around the middle of the 16th century Muhammad al-Fasi, a sharif said to come from Morocco, established the Awlad Muhammad dynasty, which ruled the Fezzan from Murzuk. The dynasty controlled the caravan routes between Bornu and Tripoli and usually paid tribute to the rulers of Tripoli. It lasted until the early 19th century.",
+    "ko": "16세기 중엽 무렵 모로코 출신이라고 전해지는 샤리프 무함마드 알파시가 아울라드 무함마드 왕조를 세웠고, 이 왕조는 무르주크에서 페잔을 다스렸다. 왕조는 보르누와 트리폴리 사이의 대상로를 장악하고 대개 트리폴리의 통치자에게 공물을 바쳤다. 이 왕조는 19세기 초까지 이어졌다.",
+    "zh": "约在16世纪中叶，据称来自摩洛哥的谢里夫穆罕默德·法西建立了穆罕默德家族王朝，定都迈尔祖格统治费赞。该王朝控制博尔努与的黎波里之间的商路，通常向的黎波里的统治者纳贡，一直延续到19世纪初。",
+    "ja": "16世紀半ば頃、モロッコ出身と伝えられるシャリーフ、ムハンマド・アル＝ファースィーがアウラード・ムハンマド朝を開き、ムルズクからフェザーンを治めた。王朝はボルヌーとトリポリを結ぶ隊商路を押さえ、通常トリポリの支配者に貢納した。王朝は19世紀初めまで続いた。"
+   }
+  },
+  {
+   "year": 1551,
+   "qid": "Q2860095",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Ottoman conquest of Tripoli",
+    "ko": "오스만 제국, 트리폴리 정복",
+    "zh": "奥斯曼帝国征服的黎波里",
+    "ja": "オスマン帝国によるトリポリ征服"
+   },
+   "description": {
+    "en": "In August 1551 an Ottoman fleet under Sinan Pasha, with the corsair Turgut Reis (Dragut), besieged Tripoli and forced the Knights of St John to surrender after a short bombardment. The city became the capital of an Ottoman province. This began more than three and a half centuries of Ottoman rule over the Libyan coast, interrupted only by the semi-independent Karamanli era.",
+    "ko": "1551년 8월 시난 파샤가 이끌고 해적 투르구트 레이스(드라구트)가 함께한 오스만 함대가 트리폴리를 포위했고, 짧은 포격 끝에 성 요한 기사단의 항복을 받아 냈다. 도시는 오스만 주의 수도가 되었다. 이로써 반독립적인 카라만리 시대를 빼면 350년 넘게 이어진 리비아 해안에 대한 오스만 통치가 시작되었다.",
+    "zh": "1551年8月，锡南帕夏率领、海盗图尔古特·雷斯（德拉古特）参战的奥斯曼舰队围攻的黎波里，经短暂炮击迫使圣约翰骑士团投降。该城成为奥斯曼一个行省的首府。由此开始了奥斯曼帝国对利比亚沿海三个半世纪以上的统治，其间只有半独立的卡拉曼利时期例外。",
+    "ja": "1551年8月、スィナン・パシャが率い、海賊トゥルグト・レイス（ドラグート）も加わったオスマン艦隊がトリポリを包囲し、短い砲撃の末に聖ヨハネ騎士団を降伏させた。町はオスマン帝国の州都となった。こうして、半独立のカラマンリ朝時代を除き、350年以上にわたるリビア沿岸のオスマン支配が始まった。"
+   }
+  },
+  {
+   "year": 1556,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Dragut becomes governor of Tripoli",
+    "ko": "드라구트, 트리폴리 총독이 되다",
+    "zh": "德拉古特出任的黎波里总督",
+    "ja": "ドラグートがトリポリ総督に"
+   },
+   "description": {
+    "en": "In 1556 the famed corsair admiral Turgut Reis (Dragut) became Ottoman governor of Tripoli, which he made a powerful base for naval operations in the central Mediterranean. He strengthened its fortifications and extended Ottoman authority inland. He was killed in 1565 during the Ottoman siege of Malta.",
+    "ko": "1556년 이름난 해적 제독 투르구트 레이스(드라구트)가 트리폴리의 오스만 총독이 되어, 이곳을 중부 지중해 해상 작전의 강력한 기지로 만들었다. 그는 요새를 강화하고 내륙으로 오스만의 권위를 넓혔다. 그는 1565년 오스만의 몰타 포위전 도중 전사했다.",
+    "zh": "1556年，著名海盗出身的海军将领图尔古特·雷斯（德拉古特）出任的黎波里的奥斯曼总督，将其打造为地中海中部海上行动的强大基地。他加固了城防，并将奥斯曼的权威向内陆延伸。1565年他在奥斯曼围攻马耳他时阵亡。",
+    "ja": "1556年、名高い海賊出身の提督トゥルグト・レイス（ドラグート）がトリポリのオスマン総督となり、ここを中部地中海における海上作戦の強力な拠点とした。彼は要塞を強化し、内陸へオスマンの権威を広げた。1565年、オスマン軍のマルタ包囲戦のさなかに戦死した。"
+   }
+  },
+  {
+   "year": 1676,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "English navy strikes Tripoli's corsair fleet",
+    "ko": "영국 해군, 트리폴리 해적 함대 공격",
+    "zh": "英国海军打击的黎波里海盗船队",
+    "ja": "イギリス海軍がトリポリの海賊船団を攻撃"
+   },
+   "description": {
+    "en": "In the mid-1670s an English squadron under Sir John Narborough blockaded Tripoli to stop corsair attacks on English shipping, and in early 1676 his boats burned several ships in the harbor. The regency then concluded a treaty with England. Such episodes recurred as European states used force and payments to protect their trade from the Barbary corsairs.",
+    "ko": "1670년대 중반 존 나버러 경이 이끄는 영국 함대가 영국 선박에 대한 해적의 공격을 막으려고 트리폴리를 봉쇄했고, 1676년 초 그의 보트들이 항구 안의 배 여러 척을 불태웠다. 이에 트리폴리 섭정국은 영국과 조약을 맺었다. 유럽 국가들이 무력과 돈으로 바르바리 해적으로부터 자국 교역을 지키려 하면서 이런 일은 되풀이되었다.",
+    "zh": "1670年代中期，约翰·纳伯勒爵士率领的英国舰队封锁的黎波里，以制止海盗对英国船只的袭击；1676年初，他派出的小艇烧毁了港内数艘船只。的黎波里摄政国随后与英国缔结条约。随着欧洲国家以武力和金钱保护本国贸易免受巴巴里海盗侵扰，此类事件屡屡发生。",
+    "ja": "1670年代半ば、ジョン・ナーバラ卿率いるイギリス艦隊はイギリス船への海賊行為を止めるためトリポリを封鎖し、1676年初めには彼のボートが港内の船数隻を焼き払った。トリポリ摂政国はその後イギリスと条約を結んだ。ヨーロッパ諸国が武力と金でバルバリア海賊から自国の交易を守ろうとするなか、こうした事件は繰り返された。"
+   }
+  },
+  {
+   "year": 1711,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Karamanli dynasty rules Tripoli",
+    "ko": "카라만리 왕조의 트리폴리 지배",
+    "zh": "卡拉曼利王朝统治的黎波里",
+    "ja": "カラマンリー朝によるトリポリ支配"
+   },
+   "description": {
+    "en": "In 1711 Ahmed Karamanli, a Janissary cavalry officer born in Tripoli, seized power and, according to tradition, eliminated rival Janissary officers before securing recognition from Istanbul. He founded a hereditary dynasty that ruled semi-independently under nominal Ottoman suzerainty until 1835. The Karamanlis extended their authority over Cyrenaica and the Fezzan and lived on corsairing, tribute and trade.",
+    "ko": "1711년 트리폴리에서 태어난 예니체리 기병 장교 아흐메드 카라만리는 권력을 잡고, 전승에 따르면 경쟁하는 예니체리 장교들을 제거한 뒤 이스탄불의 승인을 얻었다. 그는 1835년까지 오스만의 명목적 종주권 아래 반독립적으로 다스린 세습 왕조를 세웠다. 카라만리 왕조는 키레나이카와 페잔으로 권위를 넓혔고 해적 활동과 공납금, 교역으로 살았다.",
+    "zh": "1711年，生于的黎波里的近卫军骑兵军官艾哈迈德·卡拉曼利夺取政权，据传他先清除了敌对的近卫军军官，随后获得伊斯坦布尔的承认。他建立了世袭王朝，在奥斯曼名义宗主权下半独立地统治至1835年。卡拉曼利王朝将权威扩展到昔兰尼加和费赞，依靠海盗活动、贡金和贸易为生。",
+    "ja": "1711年、トリポリ生まれのイェニチェリ騎兵将校アフメト・カラマンリが権力を握り、伝承によれば対立するイェニチェリ将校を排除したうえでイスタンブールの承認を得た。彼は1835年までオスマン帝国の名目的宗主権のもとで半独立的に統治した世襲王朝を開いた。カラマンリ朝はキレナイカとフェザーンに権威を広げ、海賊行為、貢納金、交易で成り立っていた。"
+   }
+  },
+  {
+   "year": 1728,
+   "qid": "Q16303487",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "French bombardment of Tripoli",
+    "ko": "프랑스의 트리폴리 포격",
+    "zh": "法国炮击的黎波里",
+    "ja": "フランスによるトリポリ砲撃"
+   },
+   "description": {
+    "en": "In July 1728 a French naval squadron bombarded Tripoli to force the Karamanli regency to respect its treaties and halt corsair attacks on French shipping. The bombardment caused considerable damage to the city. Tripoli subsequently agreed to terms with France, a pattern repeated with other European powers throughout the century.",
+    "ko": "1728년 7월 프랑스 함대는 카라만리 섭정국이 조약을 지키고 프랑스 선박에 대한 해적 공격을 멈추도록 트리폴리를 포격했다. 포격은 도시에 상당한 피해를 입혔다. 트리폴리는 이후 프랑스와 조건에 합의했고, 이런 양상은 18세기 내내 다른 유럽 열강과도 되풀이되었다.",
+    "zh": "1728年7月，一支法国舰队炮击的黎波里，迫使卡拉曼利摄政国遵守条约、停止对法国船只的海盗袭击。炮击给城市造成了相当大的破坏。的黎波里随后与法国议定条件，这一模式在整个18世纪与其他欧洲列强之间反复出现。",
+    "ja": "1728年7月、フランス艦隊は、カラマンリ摂政国に条約を守らせフランス船への海賊行為をやめさせるためトリポリを砲撃した。砲撃は町に大きな被害を与えた。トリポリはその後フランスと条件に合意し、同じことが18世紀を通じて他のヨーロッパ列強とも繰り返された。"
+   }
+  },
+  {
+   "year": 1795,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Yusuf Karamanli takes power",
+    "ko": "유수프 카라만리의 집권",
+    "zh": "尤素福·卡拉曼利掌权",
+    "ja": "ユースフ・カラマンリの権力掌握"
+   },
+   "description": {
+    "en": "After a period of family feuding and a brief seizure of Tripoli in 1793 by the adventurer Ali Burghul, the Karamanli family regained the city, and in 1795 Yusuf Karamanli took power. He revived corsairing and asserted control over the hinterland. His aggressive demands for tribute soon brought conflict with the United States.",
+    "ko": "가문 내 분쟁과 1793년 모험가 알리 부르굴의 일시적인 트리폴리 장악 이후 카라만리 가문은 도시를 되찾았고, 1795년 유수프 카라만리가 권력을 잡았다. 그는 해적 활동을 되살리고 배후지에 대한 통제를 강화했다. 공납금에 대한 그의 공격적인 요구는 곧 미국과의 충돌을 불렀다.",
+    "zh": "经过家族内斗以及冒险家阿里·布尔古勒在1793年短暂夺取的黎波里之后，卡拉曼利家族收复了该城，1795年尤素福·卡拉曼利掌权。他重振海盗活动，并加强对腹地的控制。他咄咄逼人地索取贡金，很快引发了与美国的冲突。",
+    "ja": "一族の内紛と、1793年の冒険者アリー・ブルグルによる一時的なトリポリ奪取を経て、カラマンリ家は町を取り戻し、1795年にユースフ・カラマンリが権力を握った。彼は海賊行為を復活させ、後背地への支配を強めた。貢納金を強硬に求める姿勢は、まもなくアメリカとの衝突を招いた。"
+   }
+  },
+  {
+   "year": 1801,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Tripoli declares war on the United States",
+    "ko": "트리폴리, 미국에 선전포고",
+    "zh": "的黎波里向美国宣战",
+    "ja": "トリポリがアメリカに宣戦"
+   },
+   "description": {
+    "en": "In May 1801 Yusuf Karamanli, dissatisfied with American tribute payments, had the flagpole of the US consulate cut down, signaling a declaration of war. President Thomas Jefferson sent naval squadrons to the Mediterranean in what became the First Barbary War. It was the first overseas war fought by the young United States.",
+    "ko": "1801년 5월 미국의 공납금에 불만을 품은 유수프 카라만리는 미국 영사관의 깃대를 베어 넘어뜨려 선전포고의 뜻을 밝혔다. 토머스 제퍼슨 대통령은 지중해로 함대를 보냈고, 이것이 제1차 바르바리 전쟁이 되었다. 이는 신생국 미국이 치른 첫 해외 전쟁이었다.",
+    "zh": "1801年5月，不满美国贡金的尤素福·卡拉曼利下令砍倒美国领事馆的旗杆，以此表示宣战。托马斯·杰斐逊总统派遣舰队前往地中海，由此爆发第一次巴巴里战争。这是年轻的美国进行的第一场海外战争。",
+    "ja": "1801年5月、アメリカの貢納金に不満を抱いたユースフ・カラマンリはアメリカ領事館の旗竿を切り倒させ、宣戦の意思を示した。トマス・ジェファーソン大統領は地中海に艦隊を派遣し、これが第一次バーバリ戦争となった。若いアメリカにとって初の海外での戦争だった。"
+   }
+  },
+  {
+   "year": 1803,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Capture of USS Philadelphia",
+    "ko": "미 군함 필라델피아호 나포",
+    "zh": "美舰“费城”号被俘",
+    "ja": "米艦フィラデルフィア号の拿捕"
+   },
+   "description": {
+    "en": "In October 1803 the US frigate Philadelphia ran aground on a reef off Tripoli while chasing a corsair and was captured; her captain William Bainbridge and roughly 300 crew were imprisoned. The loss of one of its best warships was a serious blow to the American squadron. In February 1804 Stephen Decatur led a raid that burned the captured frigate in Tripoli harbor.",
+    "ko": "1803년 10월 미국 프리깃함 필라델피아호는 해적선을 추격하다 트리폴리 앞바다 암초에 좌초해 나포되었고, 함장 윌리엄 베인브리지와 약 300명의 승조원이 포로가 되었다. 최고의 군함 가운데 하나를 잃은 것은 미국 함대에 큰 타격이었다. 1804년 2월 스티븐 디케이터가 습격대를 이끌고 트리폴리 항구에서 나포된 이 배를 불태웠다.",
+    "zh": "1803年10月，美国护卫舰“费城”号在追击海盗船时于的黎波里外海触礁搁浅并被俘，舰长威廉·班布里奇和约300名船员沦为囚徒。失去一艘最好的战舰对美国舰队是沉重打击。1804年2月，斯蒂芬·迪凯特率队突袭，在的黎波里港内烧毁了这艘被俘的护卫舰。",
+    "ja": "1803年10月、アメリカのフリゲート艦フィラデルフィア号は海賊船を追跡中にトリポリ沖の岩礁に座礁して拿捕され、艦長ウィリアム・ベインブリッジと約300人の乗組員が捕虜となった。最良の軍艦の一隻を失ったことはアメリカ艦隊にとって大きな打撃だった。1804年2月、スティーヴン・ディケーターが襲撃隊を率い、トリポリ港で拿捕された同艦を焼き払った。"
+   }
+  },
+  {
+   "year": 1804,
+   "qid": "Q6135223",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "American bombardments of Tripoli",
+    "ko": "미국의 트리폴리 포격",
+    "zh": "美国炮击的黎波里",
+    "ja": "アメリカによるトリポリ砲撃"
+   },
+   "description": {
+    "en": "In August and September 1804 Commodore Edward Preble's squadron, reinforced with gunboats lent by the Kingdom of Naples, repeatedly attacked Tripoli and the regency's gunboats in the harbor. The attacks inflicted damage but did not force Yusuf Karamanli to surrender the Philadelphia's crew. The war was ultimately decided by a land expedition the following year.",
+    "ko": "1804년 8월과 9월 에드워드 프레블 준장의 함대는 나폴리 왕국이 빌려준 포함들로 보강하여 트리폴리와 항구 안의 섭정국 포함들을 여러 차례 공격했다. 공격은 피해를 입혔지만 유수프 카라만리가 필라델피아호 승조원을 내놓게 하지는 못했다. 전쟁은 결국 이듬해 육상 원정으로 판가름 났다.",
+    "zh": "1804年8月和9月，爱德华·普雷布尔准将的舰队在那不勒斯王国借给的炮艇增援下，多次攻击的黎波里及港内摄政国的炮艇。这些攻击造成了损失，但未能迫使尤素福·卡拉曼利交出“费城”号船员。战争最终由次年的一次陆上远征决定。",
+    "ja": "1804年8月と9月、エドワード・プレブル准将の艦隊はナポリ王国から借りた砲艦で増強し、トリポリと港内の摂政国の砲艦を繰り返し攻撃した。攻撃は損害を与えたものの、ユースフ・カラマンリにフィラデルフィア号の乗組員を引き渡させることはできなかった。戦争は結局、翌年の陸上遠征で決着した。"
+   }
+  },
+  {
+   "year": 1805,
+   "qid": "Q2888407",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Derna",
+    "ko": "데르나 전투",
+    "zh": "德尔纳之战",
+    "ja": "デルナの戦い"
+   },
+   "description": {
+    "en": "In April 1805 a small force of US Marines and several hundred mercenaries led by William Eaton and the exiled Hamid Karamanli marched across the desert from Egypt and captured Derna. The threat to put Hamid on the throne helped push Yusuf Karamanli to make peace in June 1805, releasing the American prisoners for a ransom. The battle is remembered in the US Marines' Hymn ('to the shores of Tripoli').",
+    "ko": "1805년 4월 윌리엄 이튼과 망명 중이던 하미드 카라만리가 이끄는 소수의 미 해병대와 수백 명의 용병이 이집트에서 사막을 건너와 데르나를 점령했다. 하미드를 왕위에 앉히겠다는 위협은 유수프 카라만리가 1805년 6월 강화를 맺고 몸값을 받고 미국인 포로들을 풀어 주게 하는 데 일조했다. 이 전투는 미 해병대 찬가의 '트리폴리 해안까지'라는 구절로 기억된다.",
+    "zh": "1805年4月，由威廉·伊顿和流亡的哈米德·卡拉曼利率领的一小队美国海军陆战队员和数百名雇佣兵从埃及穿越沙漠，攻占德尔纳。扶植哈米德上台的威胁促使尤素福·卡拉曼利于1805年6月求和，并在收取赎金后释放美国俘虏。这场战役因美国海军陆战队军歌中“直到的黎波里海岸”一句而为人铭记。",
+    "ja": "1805年4月、ウィリアム・イートンと亡命中のハーミド・カラマンリに率いられた少数のアメリカ海兵隊員と数百人の傭兵がエジプトから砂漠を越えてデルナを占領した。ハーミドを王位に就けるという脅威は、ユースフ・カラマンリに1805年6月の講和と身代金による米国人捕虜の解放を促した。この戦いは米海兵隊賛歌の「トリポリの海岸まで」という一節で記憶されている。"
+   }
+  },
+  {
+   "year": 1825,
+   "qid": "Q3636679",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sardinian raid on Tripoli",
+    "ko": "사르데냐 해군의 트리폴리 습격",
+    "zh": "撒丁海军袭击的黎波里",
+    "ja": "サルデーニャ海軍のトリポリ襲撃"
+   },
+   "description": {
+    "en": "In September 1825 a naval squadron of the Kingdom of Sardinia entered Tripoli harbor and burned vessels of the regency after a dispute over the payments demanded by Yusuf Karamanli. The pasha agreed to renounce his claims. Such defeats, along with the end of corsairing after the Napoleonic Wars, eroded the regency's revenues.",
+    "ko": "1825년 9월 유수프 카라만리가 요구한 금액을 둘러싼 분쟁 끝에 사르데냐 왕국 함대가 트리폴리 항구에 들어가 섭정국의 배들을 불태웠다. 파샤는 요구를 철회하는 데 동의했다. 이런 패배와 나폴레옹 전쟁 이후 해적 활동의 종식은 섭정국의 수입을 잠식했다.",
+    "zh": "1825年9月，因尤素福·卡拉曼利索要款项引发争端，撒丁王国舰队驶入的黎波里港，焚毁摄政国的船只。帕夏同意放弃要求。这类失败，加之拿破仑战争后海盗活动的终结，侵蚀了摄政国的财政收入。",
+    "ja": "1825年9月、ユースフ・カラマンリが要求した支払いをめぐる紛争の末、サルデーニャ王国の艦隊がトリポリ港に入り摂政国の船を焼いた。パシャは要求を取り下げることに同意した。こうした敗北と、ナポレオン戦争後の海賊行為の終焉は、摂政国の収入を蝕んだ。"
+   }
+  },
+  {
+   "year": 1835,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Ottomans restore direct rule",
+    "ko": "오스만 제국, 직접 통치 회복",
+    "zh": "奥斯曼帝国恢复直接统治",
+    "ja": "オスマン帝国が直接統治を回復"
+   },
+   "description": {
+    "en": "With the Karamanli state bankrupt and torn by civil war among Yusuf's heirs, and wary of French expansion after the conquest of Algiers in 1830, the Ottoman government sent a fleet to Tripoli in May 1835. It deposed the last Karamanli ruler and placed Tripolitania under a governor appointed from Istanbul. The Ottomans then spent years subduing tribal leaders in the interior.",
+    "ko": "카라만리 국가가 파산하고 유수프의 후계자들 사이의 내전으로 찢긴 데다 1830년 알제 정복 이후 프랑스의 팽창을 경계한 오스만 정부는 1835년 5월 트리폴리에 함대를 보냈다. 함대는 마지막 카라만리 통치자를 폐위하고 트리폴리타니아를 이스탄불이 임명한 총독의 통치 아래 두었다. 오스만 제국은 이후 여러 해에 걸쳐 내륙의 부족 지도자들을 굴복시켰다.",
+    "zh": "卡拉曼利国家破产并因尤素福的继承人之间的内战而四分五裂，加之担心法国在1830年征服阿尔及尔后继续扩张，奥斯曼政府于1835年5月派舰队前往的黎波里。舰队废黜了卡拉曼利末代统治者，将的黎波里塔尼亚置于伊斯坦布尔任命的总督管辖之下。此后奥斯曼人用数年时间征服内陆的部落首领。",
+    "ja": "カラマンリ国家が破産し、ユースフの後継者間の内戦で分裂していたうえ、1830年のアルジェ征服後のフランスの拡張を警戒したオスマン政府は、1835年5月にトリポリへ艦隊を送った。艦隊は最後のカラマンリ支配者を廃し、トリポリタニアをイスタンブールが任命する総督の統治下に置いた。オスマン帝国はその後何年もかけて内陸の部族指導者を屈服させた。"
+   }
+  },
+  {
+   "year": 1843,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Senussi order founds its first lodge at al-Bayda",
+    "ko": "사누시 교단, 알바이다에 첫 수도장 설립",
+    "zh": "赛努西教团在贝达建立首座道堂",
+    "ja": "サヌーシー教団がバイダに最初の修道場を設立"
+   },
+   "description": {
+    "en": "Around 1843 the Algerian-born scholar Muhammad ibn Ali al-Senussi founded the first lodge (zawiya) of his Sufi order at al-Bayda in Cyrenaica's Jabal Akhdar. The Senussiyya combined religious reform with education, trade and mediation among the Bedouin tribes, spreading a network of lodges across Cyrenaica and the eastern Sahara. Its headquarters later moved to Jaghbub (1856) and Kufra (1895), and the order became the core of resistance to colonial rule.",
+    "ko": "1843년경 알제리 태생의 학자 무함마드 이븐 알리 알사누시는 키레나이카 자발 아흐다르의 알바이다에 자신의 수피 교단의 첫 수도장(자위야)을 세웠다. 사누시야는 종교 개혁에 교육과 교역, 베두인 부족 간 중재를 결합해 키레나이카와 동부 사하라 전역에 수도장 네트워크를 펼쳤다. 본부는 뒤에 자그부브(1856)와 쿠프라(1895)로 옮겨졌고, 교단은 식민 지배에 맞선 저항의 핵심이 되었다.",
+    "zh": "约1843年，生于阿尔及利亚的学者穆罕默德·本·阿里·赛努西在昔兰尼加绿山的贝达建立了其苏非教团的第一座道堂（扎维耶）。赛努西教团将宗教改革与教育、贸易以及贝都因部落间的调解相结合，在昔兰尼加和撒哈拉东部建立起道堂网络。其总部后来迁往杰格布卜（1856年）和库夫拉（1895年），教团成为反抗殖民统治的核心。",
+    "ja": "1843年頃、アルジェリア生まれの学者ムハンマド・イブン・アリー・アッ＝サヌースィーは、キレナイカのジャバル・アフダルにあるバイダに自らのスーフィー教団の最初の修道場（ザーウィヤ）を設けた。サヌーシーヤは宗教改革に教育、交易、ベドウィン部族間の調停を結びつけ、キレナイカと東部サハラに修道場網を広げた。本部はのちにジャグブーブ（1856年）、クフラ（1895年）へ移り、教団は植民地支配への抵抗の中核となった。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Death of the rebel leader Ghuma al-Mahmudi",
+    "ko": "반란 지도자 구마 알마흐무디의 죽음",
+    "zh": "起义领袖古玛·马哈茂迪之死",
+    "ja": "反乱指導者グーマ・マフムーディーの死"
+   },
+   "description": {
+    "en": "Ghuma al-Mahmudi, chief of the Mahamid tribe of the Jabal Nafusa region, led a long revolt against the restored Ottoman administration from the 1830s. After years of resistance, exile and renewed fighting, he was killed in 1858. His defeat consolidated Ottoman control over the Tripolitanian interior, and he is remembered in Libya as a hero of resistance.",
+    "ko": "나푸사산지 일대 마하미드 부족의 수장 구마 알마흐무디는 1830년대부터 복귀한 오스만 행정에 맞서 긴 반란을 이끌었다. 수년간의 저항과 망명, 재봉기 끝에 그는 1858년 전사했다. 그의 패배로 트리폴리타니아 내륙에 대한 오스만의 통제가 굳어졌고, 리비아에서 그는 저항의 영웅으로 기억된다.",
+    "zh": "奈富塞山一带马哈米德部落首领古玛·马哈茂迪自1830年代起领导了反抗恢复后的奥斯曼统治的长期起义。经过多年抵抗、流亡和再度起兵，他于1858年战死。他的失败巩固了奥斯曼对的黎波里塔尼亚内陆的控制，他在利比亚被视为抵抗英雄。",
+    "ja": "ナフーサ山地一帯のマハーミド族の首長グーマ・マフムーディーは、1830年代から復活したオスマン行政に対する長い反乱を率いた。数年にわたる抵抗、亡命、再蜂起の末、1858年に戦死した。彼の敗北でトリポリタニア内陸へのオスマンの支配は固まり、リビアでは抵抗の英雄として記憶されている。"
+   }
+  },
+  {
+   "year": 1895,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Senussi headquarters move to Kufra",
+    "ko": "사누시 교단 본부, 쿠프라로 이전",
+    "zh": "赛努西教团总部迁往库夫拉",
+    "ja": "サヌーシー教団の本部がクフラへ移転"
+   },
+   "description": {
+    "en": "In 1895 Muhammad al-Mahdi al-Senussi, head of the order, moved its headquarters from Jaghbub deep into the Sahara to the oasis of Kufra, away from Ottoman and European reach. From there the order's influence extended along the caravan routes toward Wadai and Lake Chad. The Senussi soon came into conflict with French expansion in the central Sahara.",
+    "ko": "1895년 교단의 수장 무함마드 알마흐디 알사누시는 오스만과 유럽의 손길을 피해 본부를 자그부브에서 사하라 깊숙한 쿠프라 오아시스로 옮겼다. 그곳에서 교단의 영향력은 대상로를 따라 와다이와 차드호 쪽으로 뻗어 나갔다. 사누시 교단은 곧 중앙 사하라로 팽창하던 프랑스와 충돌하게 되었다.",
+    "zh": "1895年，教团领袖穆罕默德·马赫迪·赛努西为远离奥斯曼和欧洲势力，将总部从杰格布卜迁至撒哈拉深处的库夫拉绿洲。教团的影响由此沿商路向瓦达伊和乍得湖方向扩展。赛努西教团不久便与向撒哈拉中部扩张的法国发生冲突。",
+    "ja": "1895年、教団の長ムハンマド・アル＝マフディー・アッ＝サヌースィーは、オスマン帝国とヨーロッパの手を逃れるため、本部をジャグブーブからサハラ奥地のクフラ・オアシスへ移した。そこから教団の影響力は隊商路に沿ってワダイやチャド湖方面へ伸びた。サヌーシー教団はまもなく中央サハラへ拡張するフランスと衝突した。"
+   }
+  },
+  {
+   "year": 1911,
+   "qid": "Q18352449",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Italian invasion of Libya",
+    "ko": "이탈리아의 리비아 침공",
+    "zh": "意大利入侵利比亚",
+    "ja": "イタリアのリビア侵攻"
+   },
+   "description": {
+    "en": "In late September 1911 Italy declared war on the Ottoman Empire and landed troops at Tripoli, Tobruk, Derna, Benghazi and Homs, beginning the Italo-Turkish War. Ottoman officers, among them Enver and Mustafa Kemal, organized Arab and Berber volunteers who fiercely resisted, as at Shar al-Shatt in October 1911. The invasion began a colonial occupation that met decades of armed resistance.",
+    "ko": "1911년 9월 말 이탈리아는 오스만 제국에 선전포고하고 트리폴리, 토브루크, 데르나, 벵가지, 홈스에 상륙해 이탈리아-튀르크 전쟁을 시작했다. 엔베르와 무스타파 케말 등 오스만 장교들은 아랍인과 베르베르인 의용병을 조직해 1911년 10월 샤르 알샤트에서처럼 격렬히 저항했다. 이 침공은 수십 년에 걸친 무장 저항에 부딪힌 식민 점령의 시작이었다.",
+    "zh": "1911年9月底，意大利向奥斯曼帝国宣战，在的黎波里、托布鲁克、德尔纳、班加西和胡姆斯登陆，意土战争爆发。恩维尔、穆斯塔法·凯末尔等奥斯曼军官组织阿拉伯人和柏柏尔人志愿者顽强抵抗，例如1911年10月的沙尔沙特之战。这次入侵开启了一场遭遇数十年武装抵抗的殖民占领。",
+    "ja": "1911年9月末、イタリアはオスマン帝国に宣戦し、トリポリ、トブルク、デルナ、ベンガジ、ホムスに上陸して伊土戦争を始めた。エンヴェルやムスタファ・ケマルらオスマン将校はアラブ人とベルベル人の義勇兵を組織し、1911年10月のシャール・アッ＝シャットの戦いのように激しく抵抗した。この侵攻は、数十年にわたる武装抵抗に直面する植民地占領の始まりだった。"
+   }
+  },
+  {
+   "year": 1911,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "First aerial bombing in history",
+    "ko": "역사상 최초의 공중 폭격",
+    "zh": "史上首次空中轰炸",
+    "ja": "史上初の空爆"
+   },
+   "description": {
+    "en": "On 1 November 1911 the Italian aviator Giulio Gavotti dropped small bombs by hand from his monoplane on Ottoman positions at Ain Zara and the Tajura oasis near Tripoli. It is generally regarded as the first bombing from an airplane in history. The Italo-Turkish War in Libya also saw early uses of aircraft for reconnaissance.",
+    "ko": "1911년 11월 1일 이탈리아 비행사 줄리오 가보티는 단엽기에서 손으로 작은 폭탄을 트리폴리 부근 아인 자라와 타주라 오아시스의 오스만 진지에 떨어뜨렸다. 이는 일반적으로 역사상 최초의 비행기 폭격으로 여겨진다. 리비아에서의 이탈리아-튀르크 전쟁에서는 항공기를 정찰에 쓰는 초기 사례도 나타났다.",
+    "zh": "1911年11月1日，意大利飞行员朱利奥·加沃蒂从单翼机上用手将小型炸弹投向的黎波里附近艾因扎拉和塔朱拉绿洲的奥斯曼阵地。这通常被视为历史上第一次飞机轰炸。意土战争期间在利比亚还出现了早期的空中侦察。",
+    "ja": "1911年11月1日、イタリアの飛行士ジュリオ・ガヴォッティは単葉機から手で小型爆弾を投下し、トリポリ近郊のアイン・ザーラとタジュラ・オアシスのオスマン陣地を攻撃した。これは一般に史上初の飛行機による爆撃とされる。リビアでの伊土戦争では、航空機による偵察の初期の例も見られた。"
+   }
+  },
+  {
+   "year": 1912,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Ouchy: Ottomans cede Libya",
+    "ko": "우시 조약: 오스만 제국, 리비아 양도",
+    "zh": "乌希条约：奥斯曼割让利比亚",
+    "ja": "ウシー条約：オスマン帝国がリビアを割譲"
+   },
+   "description": {
+    "en": "By the Treaty of Ouchy (First Treaty of Lausanne) of October 1912, the Ottoman Empire, facing the outbreak of the Balkan Wars, withdrew its forces from Tripolitania and Cyrenaica. The sultan granted the provinces autonomy, effectively leaving them to Italy, while keeping a religious role. Local resistance, led in the east by the Senussi, continued regardless.",
+    "ko": "1912년 10월 우시 조약(제1차 로잔 조약)으로 발칸 전쟁 발발에 직면한 오스만 제국은 트리폴리타니아와 키레나이카에서 군대를 철수했다. 술탄은 이 지역들에 자치를 부여하는 형식으로 사실상 이탈리아에 넘기면서 종교적 역할만 유지했다. 동부에서 사누시 교단이 이끈 현지인의 저항은 이와 상관없이 계속되었다.",
+    "zh": "根据1912年10月的乌希条约（第一次洛桑条约），面临巴尔干战争爆发的奥斯曼帝国从的黎波里塔尼亚和昔兰尼加撤军。苏丹以授予这些省份自治的方式实际上将其让给意大利，同时保留宗教角色。当地人的抵抗——在东部由赛努西教团领导——仍在继续。",
+    "ja": "1912年10月のウシー条約（第一次ローザンヌ条約）により、バルカン戦争の勃発に直面したオスマン帝国はトリポリタニアとキレナイカから軍を撤退させた。スルタンはこれらの州に自治を与える形で事実上イタリアに委ね、宗教的な役割だけを保持した。東部でサヌーシー教団が率いた現地の抵抗は、それとは関係なく続いた。"
+   }
+  },
+  {
+   "year": 1915,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Gardabiya",
+    "ko": "가르다비야 전투",
+    "zh": "加尔达比亚之战",
+    "ja": "ガルダビーヤの戦い"
+   },
+   "description": {
+    "en": "In April 1915, at Gardabiya (Qasr Bu Hadi) near Sirte, Libyan fighters routed an Italian column after Libyan auxiliaries under Ramadan al-Suwayhili turned against the Italians mid-battle. The defeat, during the First World War, forced Italy to abandon most of the Tripolitanian interior and fall back to a few coastal towns. It is celebrated in Libya as a major victory of the resistance.",
+    "ko": "1915년 4월 시르테 부근 가르다비야(카스르 부 하디)에서 라마단 알수와이힐리 휘하의 리비아인 보조병들이 전투 도중 이탈리아군에 등을 돌리면서 리비아 전사들이 이탈리아 부대를 격파했다. 제1차 세계대전 중에 일어난 이 패배로 이탈리아는 트리폴리타니아 내륙 대부분을 포기하고 몇몇 해안 도시로 물러나야 했다. 리비아에서 이 전투는 저항 운동의 큰 승리로 기념된다.",
+    "zh": "1915年4月，在苏尔特附近的加尔达比亚（卡斯尔布哈迪），拉马丹·苏韦希利麾下的利比亚辅助部队在战斗中倒戈，利比亚战士击溃了一支意大利部队。这场发生在第一次世界大战期间的失败迫使意大利放弃的黎波里塔尼亚内陆大部，退守少数沿海城镇。该战役在利比亚被视为抵抗运动的重大胜利而受到纪念。",
+    "ja": "1915年4月、シルテ近郊のガルダビーヤ（カスル・ブー・ハーディー）で、ラマダーン・スワイヒリー配下のリビア人補助兵が戦闘中にイタリア軍に寝返り、リビアの戦士たちがイタリア部隊を撃破した。第一次世界大戦中のこの敗北で、イタリアはトリポリタニア内陸の大半を放棄し、いくつかの沿岸都市に退かざるをえなかった。リビアではこの戦いは抵抗運動の大勝利として記念されている。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": "Q965346",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Proclamation of the Tripolitanian Republic",
+    "ko": "트리폴리타니아 공화국 선포",
+    "zh": "的黎波里塔尼亚共和国宣告成立",
+    "ja": "トリポリタニア共和国の宣言"
+   },
+   "description": {
+    "en": "In November 1918 Tripolitanian leaders meeting at Msallata proclaimed the Tripolitanian Republic, governed by a council that included Sulayman al-Baruni and Ramadan al-Suwayhili. It is often described as the first republic in the Arab world. In 1919 Italy granted Tripolitania a statute promising a local parliament, but the arrangement soon collapsed amid internal rivalries and Italian backtracking.",
+    "ko": "1918년 11월 무살라타에 모인 트리폴리타니아 지도자들은 술라이만 알바루니, 라마단 알수와이힐리 등이 참여한 평의회가 다스리는 트리폴리타니아 공화국을 선포했다. 이는 흔히 아랍 세계 최초의 공화국으로 불린다. 1919년 이탈리아는 현지 의회를 약속하는 기본법을 트리폴리타니아에 부여했지만, 이 체제는 내부 대립과 이탈리아의 번복 속에 곧 무너졌다.",
+    "zh": "1918年11月，的黎波里塔尼亚领袖们在穆萨拉塔集会，宣布成立由苏莱曼·巴鲁尼、拉马丹·苏韦希利等人组成的委员会治理的的黎波里塔尼亚共和国，它常被称为阿拉伯世界第一个共和国。1919年意大利向的黎波里塔尼亚颁布许诺设立地方议会的基本法，但这一安排很快在内部纷争和意大利的反悔中瓦解。",
+    "ja": "1918年11月、ムサッラータに集まったトリポリタニアの指導者たちは、スライマーン・バールーニーやラマダーン・スワイヒリーらを含む評議会が治めるトリポリタニア共和国を宣言した。これはしばしばアラブ世界初の共和国とされる。1919年にイタリアは地方議会を約束する基本法をトリポリタニアに与えたが、この体制は内部対立とイタリアの方針転換のなかでまもなく崩れた。"
+   }
+  },
+  {
+   "year": 1923,
+   "qid": "Q4488927",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fascist 'pacification' of Libya",
+    "ko": "파시스트의 리비아 '평정'",
+    "zh": "法西斯对利比亚的“绥靖”",
+    "ja": "ファシストによるリビアの「平定」"
+   },
+   "description": {
+    "en": "After Mussolini came to power in 1922, Italy abandoned negotiation and launched a military reconquest of Libya, while the Senussi leader Idris went into exile in Egypt. Tripolitania was largely subdued by the late 1920s, but in Cyrenaica guerrilla bands under Omar Mukhtar fought on. The campaigns, later directed by Pietro Badoglio and Rodolfo Graziani, used aircraft, poison gas and the destruction of herds against the population.",
+    "ko": "1922년 무솔리니가 집권한 뒤 이탈리아는 협상을 버리고 리비아에 대한 군사적 재정복에 나섰고, 사누시 교단 지도자 이드리스는 이집트로 망명했다. 트리폴리타니아는 1920년대 말까지 대부분 평정되었지만, 키레나이카에서는 오마르 무크타르가 이끄는 게릴라 부대가 계속 싸웠다. 뒤에 피에트로 바돌리오와 로돌포 그라치아니가 지휘한 작전에서는 주민을 상대로 항공기와 독가스, 가축 떼 파괴가 동원되었다.",
+    "zh": "1922年墨索里尼上台后，意大利放弃谈判，对利比亚发动军事“再征服”，赛努西教团领袖伊德里斯流亡埃及。的黎波里塔尼亚到1920年代末大部被平定，但在昔兰尼加，奥马尔·穆赫塔尔领导的游击队继续作战。后来由彼得罗·巴多格里奥和鲁道夫·格拉齐亚尼指挥的军事行动对民众动用了飞机、毒气并大肆屠宰畜群。",
+    "ja": "1922年にムッソリーニが政権を握ると、イタリアは交渉を捨ててリビアの軍事的再征服に乗り出し、サヌーシー教団の指導者イドリースはエジプトへ亡命した。トリポリタニアは1920年代末までにほぼ平定されたが、キレナイカではオマール・ムフタール率いるゲリラ部隊が戦い続けた。のちにピエトロ・バドリオとロドルフォ・グラツィアーニが指揮した作戦では、住民に対して航空機や毒ガス、家畜の殺戮が用いられた。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": "Q124005579",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Deportations and concentration camps in Cyrenaica",
+    "ko": "키레나이카의 강제 이주와 강제수용소",
+    "zh": "昔兰尼加的强制迁徙与集中营",
+    "ja": "キレナイカの強制移住と強制収容所"
+   },
+   "description": {
+    "en": "From 1929–1930 the Italian authorities, seeking to cut off Omar Mukhtar's guerrillas from their base, forcibly deported much of the semi-nomadic population of the Jabal Akhdar to concentration camps on the Sirte coast, such as al-Agheila and Brega. Tens of thousands of people died from hunger, disease and executions, and most of the herds perished. Many historians describe these events as genocide; in Libya they are remembered as a national trauma.",
+    "ko": "1929~1930년부터 이탈리아 당국은 오마르 무크타르의 게릴라를 근거지에서 떼어 놓으려고 자발 아흐다르의 반유목민 상당수를 엘 아게일라, 브레가 등 시르테 해안의 강제수용소로 강제 이송했다. 수만 명이 굶주림과 질병, 처형으로 숨졌고 가축 떼 대부분이 죽었다. 많은 역사가들은 이 사건을 제노사이드로 규정하며, 리비아에서는 민족적 트라우마로 기억된다.",
+    "zh": "自1929至1930年起，意大利当局为切断奥马尔·穆赫塔尔游击队与其根据地的联系，将绿山地区大部分半游牧居民强行押送到苏尔特湾沿岸阿盖拉、卜雷加等地的集中营。数以万计的人死于饥饿、疾病和处决，畜群大多死亡。许多历史学家将这些事件定性为种族灭绝；在利比亚，它们被铭记为民族创伤。",
+    "ja": "1929～1930年からイタリア当局は、オマール・ムフタールのゲリラを根拠地から切り離すため、ジャバル・アフダルの半遊牧民の多くをシルテ湾岸のアゲイラやブレガなどの強制収容所へ強制移送した。数万人が飢えや病気、処刑で命を落とし、家畜の大半も失われた。多くの歴史家はこれをジェノサイドと位置づけ、リビアでは民族的トラウマとして記憶されている。"
+   }
+  },
+  {
+   "year": 1931,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Execution of resistance leader Omar Mukhtar",
+    "ko": "저항 지도자 오마르 무크타르 처형",
+    "zh": "抵抗运动领袖奥马尔·穆赫塔尔就义",
+    "ja": "抵抗運動指導者オマール・ムフタールの処刑"
+   },
+   "description": {
+    "en": "Omar Mukhtar, a Senussi teacher who led nearly two decades of guerrilla resistance against Italian rule in Cyrenaica, was captured in September 1931 and hanged at Suluq on 16 September before thousands of detained Libyans. The same year Italy took the Senussi stronghold of Kufra and fenced off the Egyptian border, and organized resistance soon ended. Mukhtar remains Libya's foremost national hero, the 'Lion of the Desert'.",
+    "ko": "키레나이카에서 거의 20년 동안 이탈리아 지배에 맞서 게릴라 저항을 이끈 사누시 교단의 교사 오마르 무크타르는 1931년 9월 체포되어 9월 16일 수천 명의 억류된 리비아인 앞에서 술루크에서 교수형을 당했다. 같은 해 이탈리아는 사누시의 거점 쿠프라를 점령하고 이집트 국경에 철조망을 쳤으며, 조직적 저항은 곧 끝났다. 무크타르는 지금도 '사막의 사자'로 불리는 리비아 최고의 민족 영웅이다.",
+    "zh": "奥马尔·穆赫塔尔是赛努西教团的教师，在昔兰尼加领导了近二十年反抗意大利统治的游击斗争。他于1931年9月被俘，9月16日在苏卢格当着数千名被关押的利比亚人被处以绞刑。同年意大利攻占赛努西据点库夫拉，并在埃及边境架设铁丝网，有组织的抵抗随即终结。穆赫塔尔至今仍是利比亚最重要的民族英雄，被誉为“沙漠雄狮”。",
+    "ja": "キレナイカで20年近くイタリア支配に対するゲリラ抵抗を率いたサヌーシー教団の教師オマール・ムフタールは、1931年9月に捕らえられ、9月16日にスルークで拘束された数千人のリビア人の前で絞首刑に処された。同年イタリアはサヌーシーの拠点クフラを占領してエジプト国境に鉄条網を張り、組織的抵抗はまもなく終わった。ムフタールは今も「砂漠のライオン」と呼ばれるリビア最大の国民的英雄である。"
+   }
+  },
+  {
+   "year": 1934,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Creation of the colony of Libya",
+    "ko": "리비아 식민지 출범",
+    "zh": "利比亚殖民地成立",
+    "ja": "リビア植民地の成立"
+   },
+   "description": {
+    "en": "In 1934 Italy united Tripolitania and Cyrenaica (with the Fezzan as a military territory) into a single colony officially named Libya, reviving the ancient name for the whole country. Governor Italo Balbo built a coastal highway, the Via Balbia, across the length of the colony. In 1939 the coastal provinces were declared part of metropolitan Italy.",
+    "ko": "1934년 이탈리아는 트리폴리타니아와 키레나이카(페잔은 군사 관할 지역)를 공식 명칭이 리비아인 단일 식민지로 통합해, 고대의 이름을 나라 전체의 이름으로 되살렸다. 총독 이탈로 발보는 식민지를 가로지르는 해안 고속도로 비아 발비아를 건설했다. 1939년에는 해안 주들이 이탈리아 본토의 일부로 선언되었다.",
+    "zh": "1934年，意大利将的黎波里塔尼亚和昔兰尼加（费赞为军事辖区）合并为一个正式名为利比亚的殖民地，使这一古老名称重新成为整个国家的名字。总督伊塔洛·巴尔博修建了横贯殖民地的沿海公路“巴尔比亚大道”。1939年，沿海各省被宣布为意大利本土的一部分。",
+    "ja": "1934年、イタリアはトリポリタニアとキレナイカ（フェザーンは軍事管轄区）を正式名リビアという単一の植民地に統合し、古代の名称を国全体の名として復活させた。総督イタロ・バルボは植民地を横断する海岸道路ヴィア・バルビアを建設した。1939年には沿岸の州がイタリア本土の一部と宣言された。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Mass Italian settlement of the 'Ventimila'",
+    "ko": "'벤티밀라' 이탈리아인 대규모 이주",
+    "zh": "“两万人”意大利移民大迁徙",
+    "ja": "「ヴェンティミラ」イタリア人の大量入植"
+   },
+   "description": {
+    "en": "In October 1938 a state-organized convoy brought about 20,000 Italian settlers, the so-called Ventimila, to farm villages built on land taken from Libyans in Tripolitania and Cyrenaica. The settlement program aimed to make Libya Italy's 'fourth shore'. By the eve of the Second World War over 100,000 Italians lived in the colony.",
+    "ko": "1938년 10월 국가가 조직한 선단이 이른바 '벤티밀라'라 불린 약 2만 명의 이탈리아인 정착민을 트리폴리타니아와 키레나이카에서 리비아인에게서 빼앗은 땅에 세운 농촌 마을로 실어 날랐다. 이 정착 계획은 리비아를 이탈리아의 '제4의 해안'으로 만드는 것을 목표로 했다. 제2차 세계대전 직전 식민지에는 10만 명이 넘는 이탈리아인이 살았다.",
+    "zh": "1938年10月，国家组织的船队将约两万名意大利移民（即所谓“两万人”）运往的黎波里塔尼亚和昔兰尼加，在从利比亚人手中夺来的土地上建立的农村定居。该移民计划旨在把利比亚变成意大利的“第四海岸”。到第二次世界大战前夕，殖民地已有十万以上意大利人居住。",
+    "ja": "1938年10月、国家が組織した船団が「ヴェンティミラ（2万人）」と呼ばれる約2万人のイタリア人入植者を、トリポリタニアとキレナイカでリビア人から奪った土地に建てた農村へ運んだ。この入植計画はリビアをイタリアの「第四の海岸」にすることを目指していた。第二次世界大戦の直前には、植民地に10万人を超えるイタリア人が住んでいた。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q2616448",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Free French capture Kufra",
+    "ko": "자유 프랑스군, 쿠프라 점령",
+    "zh": "自由法国军队攻占库夫拉",
+    "ja": "自由フランス軍がクフラを占領"
+   },
+   "description": {
+    "en": "On 1 March 1941, after a long march from Chad across the Sahara, Free French forces under Colonel Leclerc captured the Italian fort at the Kufra oasis. There Leclerc and his men swore the 'Oath of Kufra' not to lay down arms until the French flag flew over Strasbourg. It was one of the first victories of Free France.",
+    "ko": "1941년 3월 1일 차드에서 사하라를 가로질러 긴 행군을 한 르클레르 대령의 자유 프랑스군이 쿠프라 오아시스의 이탈리아 요새를 점령했다. 그곳에서 르클레르와 병사들은 프랑스 국기가 스트라스부르에 휘날릴 때까지 무기를 내려놓지 않겠다는 '쿠프라 선서'를 했다. 이는 자유 프랑스의 첫 승리 가운데 하나였다.",
+    "zh": "1941年3月1日，勒克莱尔上校率领的自由法国部队从乍得穿越撒哈拉长途行军后，攻占了库夫拉绿洲的意大利要塞。勒克莱尔和部下在此立下“库夫拉誓言”，誓言在法国国旗飘扬于斯特拉斯堡之前绝不放下武器。这是自由法国最早的胜利之一。",
+    "ja": "1941年3月1日、チャドからサハラを越える長い行軍の末、ルクレール大佐の自由フランス軍がクフラ・オアシスのイタリア軍の砦を占領した。そこでルクレールと兵士たちは、フランス国旗がストラスブールにひるがえるまで武器を置かないという「クフラの誓い」を立てた。これは自由フランスの最初の勝利の一つだった。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q611089",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Siege of Tobruk",
+    "ko": "토브루크 포위전",
+    "zh": "托布鲁克围城战",
+    "ja": "トブルク包囲戦"
+   },
+   "description": {
+    "en": "After Erwin Rommel's Afrika Korps and Italian forces drove the British back across Cyrenaica in spring 1941, the port of Tobruk held out under siege from April to November, defended largely by Australian and later British, Polish and Czechoslovak troops. Its resistance denied the Axis a vital supply port near the Egyptian frontier. The desert war swept back and forth across eastern Libya until late 1942.",
+    "ko": "1941년 봄 에르빈 롬멜의 아프리카 군단과 이탈리아군이 영국군을 키레나이카 너머로 밀어낸 뒤, 토브루크항은 4월부터 11월까지 포위 속에서 버텼다. 방어는 주로 오스트레일리아군이, 뒤에는 영국·폴란드·체코슬로바키아군이 맡았다. 그 저항은 추축국이 이집트 국경 가까이에서 중요한 보급항을 쓰지 못하게 했다. 사막 전쟁은 1942년 말까지 리비아 동부를 오가며 계속되었다.",
+    "zh": "1941年春，埃尔温·隆美尔的非洲军团和意大利军队将英军逐出昔兰尼加后，托布鲁克港从4月到11月在围困中坚守，守军主要是澳大利亚军队，后来还有英国、波兰和捷克斯洛伐克部队。它的坚守使轴心国无法利用这一靠近埃及边境的重要补给港。沙漠战争在利比亚东部往复拉锯，直到1942年底。",
+    "ja": "1941年春、エルヴィン・ロンメルのアフリカ軍団とイタリア軍がイギリス軍をキレナイカから押し戻すと、トブルク港は4月から11月まで包囲に耐えた。守備の中心はオーストラリア軍で、のちにイギリス、ポーランド、チェコスロバキアの部隊も加わった。その抵抗は、枢軸国がエジプト国境近くの重要な補給港を使うことを阻んだ。砂漠の戦争は1942年末までリビア東部を行きつ戻りつした。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": "Q327035",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Gazala and the fall of Tobruk",
+    "ko": "가잘라 전투와 토브루크 함락",
+    "zh": "加扎拉战役与托布鲁克陷落",
+    "ja": "ガザラの戦いとトブルク陥落"
+   },
+   "description": {
+    "en": "From late May to June 1942 Rommel's forces defeated the British Eighth Army at the Gazala line west of Tobruk, despite a stubborn defense by Free French troops at Bir Hakeim. Tobruk fell on 21 June with the capture of more than 30,000 Allied soldiers, and the Axis advanced into Egypt. The tide turned only with the British victory at El Alamein in late 1942.",
+    "ko": "1942년 5월 말부터 6월까지 롬멜의 군대는 비르 하케임에서 자유 프랑스군이 완강히 방어했음에도 토브루크 서쪽 가잘라 전선에서 영국 제8군을 격파했다. 6월 21일 토브루크가 함락되며 3만 명이 넘는 연합군이 포로가 되었고, 추축국은 이집트로 진격했다. 전세는 1942년 말 엘알라메인에서 영국이 승리하고서야 뒤집혔다.",
+    "zh": "1942年5月底至6月，尽管自由法国军队在比尔哈凯姆顽强防守，隆美尔的部队仍在托布鲁克以西的加扎拉防线击败了英国第八集团军。6月21日托布鲁克陷落，三万多名盟军士兵被俘，轴心国随即攻入埃及。直到1942年底英军在阿拉曼取胜，战局才得以扭转。",
+    "ja": "1942年5月末から6月、ビル・アケイムでの自由フランス軍の粘り強い防戦にもかかわらず、ロンメルの軍はトブルク西方のガザラ線でイギリス第8軍を破った。6月21日にトブルクが陥落して3万人以上の連合軍兵士が捕虜となり、枢軸軍はエジプトへ進撃した。戦局は1942年末のエル・アラメインでのイギリスの勝利によってようやく逆転した。"
+   }
+  },
+  {
+   "year": 1943,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "British capture Tripoli; end of Italian rule",
+    "ko": "영국군의 트리폴리 점령과 이탈리아 지배의 종말",
+    "zh": "英军攻占的黎波里，意大利统治结束",
+    "ja": "イギリス軍のトリポリ占領とイタリア支配の終わり"
+   },
+   "description": {
+    "en": "After El Alamein the British Eighth Army pursued the retreating Axis forces across Libya and entered Tripoli on 23 January 1943, while Free French forces from Chad occupied the Fezzan. Italian rule in Libya was over. Britain set up military administrations in Tripolitania and Cyrenaica, and France in the Fezzan.",
+    "ko": "엘알라메인 전투 이후 영국 제8군은 퇴각하는 추축군을 추격해 리비아를 가로질러 1943년 1월 23일 트리폴리에 입성했고, 차드에서 온 자유 프랑스군은 페잔을 점령했다. 리비아에서 이탈리아의 지배는 끝났다. 영국은 트리폴리타니아와 키레나이카에, 프랑스는 페잔에 군정을 세웠다.",
+    "zh": "阿拉曼战役后，英国第八集团军穿越利比亚追击撤退的轴心国军队，于1943年1月23日进入的黎波里，来自乍得的自由法国部队则占领了费赞。意大利在利比亚的统治就此结束。英国在的黎波里塔尼亚和昔兰尼加、法国在费赞分别设立了军事管理当局。",
+    "ja": "エル・アラメインの後、イギリス第8軍は退却する枢軸軍を追ってリビアを横断し、1943年1月23日にトリポリへ入城した。チャドから来た自由フランス軍はフェザーンを占領した。リビアにおけるイタリアの支配は終わった。イギリスはトリポリタニアとキレナイカに、フランスはフェザーンに軍政を敷いた。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "UN votes for Libyan independence",
+    "ko": "유엔, 리비아 독립 결의",
+    "zh": "联合国投票决定利比亚独立",
+    "ja": "国連がリビア独立を決議"
+   },
+   "description": {
+    "en": "After the great powers failed to agree on Libya's future and a British–Italian trusteeship plan (the Bevin–Sforza plan) was rejected in May 1949, the UN General Assembly resolved on 21 November 1949 that Libya should become independent by 1 January 1952. Earlier that year Idris al-Senussi had proclaimed Cyrenaica's self-government with British backing. A UN commissioner, Adrian Pelt, oversaw the drafting of a constitution.",
+    "ko": "강대국들이 리비아의 장래에 합의하지 못하고 영국·이탈리아의 신탁통치안(베빈-스포르차 안)이 1949년 5월 부결된 뒤, 유엔 총회는 1949년 11월 21일 리비아가 1952년 1월 1일까지 독립해야 한다고 결의했다. 그해 초 이드리스 알사누시는 영국의 지원 아래 키레나이카의 자치를 선포했다. 유엔 판무관 아드리안 펠트가 헌법 제정을 감독했다.",
+    "zh": "由于大国无法就利比亚前途达成一致，英意托管方案（贝文—斯福尔扎计划）又于1949年5月被否决，联合国大会于1949年11月21日决议利比亚应在1952年1月1日前独立。同年早些时候，伊德里斯·赛努西在英国支持下宣布昔兰尼加自治。联合国专员阿德里安·佩尔特监督了宪法的起草。",
+    "ja": "大国がリビアの将来について合意できず、英伊の信託統治案（ベヴィン＝スフォルツァ案）も1949年5月に否決されると、国連総会は1949年11月21日、リビアを1952年1月1日までに独立させると決議した。同年それに先立ち、イドリース・サヌーシーはイギリスの後押しでキレナイカの自治を宣言していた。国連弁務官アドリアン・ペルトが憲法起草を監督した。"
+   }
+  },
+  {
+   "year": 1951,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence as the Kingdom of Libya",
+    "ko": "리비아 왕국으로 독립",
+    "zh": "利比亚王国独立",
+    "ja": "リビア王国として独立"
+   },
+   "description": {
+    "en": "On 24 December 1951 Libya became independent as the United Kingdom of Libya under King Idris I, uniting Tripolitania, Cyrenaica and the Fezzan in a federal monarchy. It was the first country to achieve independence through a decision of the United Nations. The new state was desperately poor and relied on foreign aid and on leasing military bases such as Wheelus Air Base to the United States and Britain.",
+    "ko": "1951년 12월 24일 리비아는 국왕 이드리스 1세 아래 트리폴리타니아, 키레나이카, 페잔을 연방 군주국으로 통합한 리비아 연합왕국으로 독립했다. 이는 유엔의 결정을 통해 독립한 최초의 나라였다. 새 국가는 극도로 가난해 외국 원조와 함께 휠러스 공군기지 같은 군사 기지를 미국과 영국에 빌려준 대가에 의존했다.",
+    "zh": "1951年12月24日，利比亚以利比亚联合王国之名独立，国王伊德里斯一世将的黎波里塔尼亚、昔兰尼加和费赞联合为一个联邦君主国。它是第一个通过联合国决议获得独立的国家。新国家极度贫困，依赖外国援助以及向美英出租惠勒斯空军基地等军事基地的收入。",
+    "ja": "1951年12月24日、リビアは国王イドリース1世のもと、トリポリタニア、キレナイカ、フェザーンを連邦君主国として統合したリビア連合王国として独立した。国連の決定によって独立した最初の国であった。新国家は極度に貧しく、外国の援助と、ウィーラス空軍基地などの軍事基地を米英に貸す収入に頼った。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Libya joins the United Nations",
+    "ko": "리비아, 유엔 가입",
+    "zh": "利比亚加入联合国",
+    "ja": "リビアが国連に加盟"
+   },
+   "description": {
+    "en": "Having joined the Arab League in 1953, Libya was admitted to the United Nations in December 1955 as part of a package deal that admitted sixteen states at once. The kingdom pursued a cautious, pro-Western foreign policy, signing defense and base agreements with Britain and the United States. At the same time Nasser's Arab nationalism gained a wide following among Libyan youth.",
+    "ko": "1953년 아랍연맹에 가입한 리비아는 1955년 12월 16개국을 한꺼번에 받아들인 일괄 타결의 일환으로 유엔에 가입했다. 왕국은 신중한 친서방 외교를 펼치며 영국, 미국과 방위·기지 협정을 맺었다. 동시에 나세르의 아랍 민족주의가 리비아 청년층 사이에서 폭넓은 지지를 얻었다.",
+    "zh": "利比亚于1953年加入阿拉伯国家联盟，1955年12月作为一揽子协议的一部分与另外十五国同时加入联合国。王国奉行谨慎的亲西方外交，与英美签订防务和基地协定。与此同时，纳赛尔的阿拉伯民族主义在利比亚青年中获得广泛拥护。",
+    "ja": "1953年にアラブ連盟に加わったリビアは、1955年12月、16か国を一括して加盟させた取り決めの一環として国連に加盟した。王国は慎重な親西欧外交をとり、英米と防衛・基地協定を結んだ。同時に、ナセルのアラブ民族主義がリビアの若者の間で広く支持を集めた。"
+   }
+  },
+  {
+   "year": 1959,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Discovery of major oil fields",
+    "ko": "대규모 유전 발견",
+    "zh": "发现大型油田",
+    "ja": "大油田の発見"
+   },
+   "description": {
+    "en": "In 1959 Esso struck a major oil field at Zelten (later Nasser field) in the Sirte Basin, after years of exploration by international companies. Exports began in 1961 through a pipeline to the terminal at Marsa al-Brega, and production grew rapidly. Oil transformed Libya from one of the world's poorest countries into a major petroleum exporter, reshaping its economy, society and geopolitical weight.",
+    "ko": "국제 석유회사들의 수년간의 탐사 끝에 1959년 에소는 시르테 분지의 젤텐(뒤의 나세르 유전)에서 대형 유전을 발견했다. 1961년 마르사 알브레가 터미널로 이어지는 송유관을 통해 수출이 시작되었고 생산은 빠르게 늘었다. 석유는 리비아를 세계 최빈국 가운데 하나에서 주요 석유 수출국으로 바꾸어 경제와 사회, 지정학적 위상을 새로 짰다.",
+    "zh": "经过国际石油公司多年勘探，埃索公司于1959年在苏尔特盆地的泽尔滕（后称纳赛尔油田）发现大型油田。1961年起石油经管道输往卜雷加港码头出口，产量迅速增长。石油使利比亚从世界最贫穷的国家之一变为重要的石油出口国，重塑了其经济、社会和地缘政治地位。",
+    "ja": "国際石油会社による数年の探査の末、1959年にエッソがシルテ盆地のゼルテン（のちのナセル油田）で大油田を掘り当てた。1961年にはマルサ・アル＝ブレガのターミナルへのパイプラインで輸出が始まり、生産は急増した。石油はリビアを世界最貧国の一つから主要な産油国へと変え、経済と社会、地政学的な重みを作り替えた。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": "Q48841021",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Marj earthquake",
+    "ko": "마르즈 지진",
+    "zh": "迈尔季地震",
+    "ja": "マルジ地震"
+   },
+   "description": {
+    "en": "On 21 February 1963 an earthquake struck the town of al-Marj (Barce) in Cyrenaica, destroying most of its buildings and killing several hundred people. The government decided to build a new town of al-Marj a few kilometers away rather than rebuild on the old site. The disaster came as oil revenues were beginning to fund large reconstruction and housing programs.",
+    "ko": "1963년 2월 21일 키레나이카의 알마르즈(바르체) 읍을 지진이 강타해 건물 대부분이 무너지고 수백 명이 숨졌다. 정부는 옛 자리에 재건하는 대신 몇 킬로미터 떨어진 곳에 새 알마르즈를 건설하기로 했다. 이 재해는 석유 수입이 대규모 재건과 주택 사업에 쓰이기 시작하던 때에 일어났다.",
+    "zh": "1963年2月21日，昔兰尼加的迈尔季（巴尔切）镇发生地震，大部分建筑被毁，数百人遇难。政府决定在几公里外另建新的迈尔季镇，而不在原址重建。这场灾害发生时，石油收入正开始资助大规模重建和住房计划。",
+    "ja": "1963年2月21日、キレナイカのマルジ（バルチェ）の町を地震が襲い、建物の大半が倒壊して数百人が死亡した。政府は元の場所で再建するのではなく、数キロ離れた地に新しいマルジの町を建設することにした。この災害は、石油収入が大規模な復興や住宅計画を支え始めた時期に起きた。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Federal system abolished; women gain the vote",
+    "ko": "연방제 폐지와 여성 참정권",
+    "zh": "废除联邦制，妇女获得选举权",
+    "ja": "連邦制の廃止と女性参政権"
+   },
+   "description": {
+    "en": "In April 1963 a constitutional amendment abolished the federal system, replacing the three provinces with a unitary Kingdom of Libya divided into smaller governorates. The change strengthened the central government as oil money flowed in. The same year Libyan women obtained the right to vote.",
+    "ko": "1963년 4월 헌법 개정으로 연방제가 폐지되고, 세 주 대신 더 작은 행정구역으로 나뉜 단일국가 리비아 왕국이 들어섰다. 이 변화는 석유 자금이 들어오던 때 중앙정부의 권한을 강화했다. 같은 해 리비아 여성들은 투표권을 얻었다.",
+    "zh": "1963年4月，一项宪法修正案废除了联邦制，以划分为较小省区的单一制利比亚王国取代原来的三个省。这一变化在石油资金涌入之际加强了中央政府的权力。同年利比亚妇女获得了选举权。",
+    "ja": "1963年4月の憲法改正で連邦制が廃止され、三つの州に代わって小さな行政区に分かれた単一国家のリビア王国となった。この変化は石油資金が流れ込むなかで中央政府の権限を強めた。同じ年、リビアの女性は選挙権を得た。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Gaddafi's coup ends the monarchy",
+    "ko": "카다피의 쿠데타, 왕정 붕괴",
+    "zh": "卡扎菲政变推翻君主制",
+    "ja": "カダフィのクーデターで王制崩壊"
+   },
+   "description": {
+    "en": "On 1 September 1969, while King Idris was abroad for medical treatment, a group of junior army officers led by 27-year-old Captain Muammar Gaddafi seized power in a nearly bloodless coup and proclaimed the Libyan Arab Republic. Inspired by Nasser, they promised Arab unity, socialism and an end to foreign bases. Gaddafi's idiosyncratic rule would last 42 years, combining oil-funded welfare with authoritarianism and international isolation.",
+    "ko": "1969년 9월 1일 국왕 이드리스가 치료차 해외에 있는 동안, 27세의 대위 무아마르 카다피가 이끄는 하급 장교들이 거의 피를 흘리지 않은 쿠데타로 권력을 잡고 리비아 아랍 공화국을 선포했다. 나세르에게서 영감을 받은 그들은 아랍 통일과 사회주의, 외국 기지 철폐를 약속했다. 카다피의 독특한 통치는 석유 자금에 기반한 복지와 권위주의, 국제적 고립을 결합하며 42년 동안 이어졌다.",
+    "zh": "1969年9月1日，趁国王伊德里斯出国治病之机，27岁的上尉穆阿迈尔·卡扎菲率领一批下级军官发动几乎不流血的政变夺取政权，宣布成立阿拉伯利比亚共和国。他们受纳赛尔启发，承诺实现阿拉伯统一和社会主义，并撤除外国基地。卡扎菲独特的统治持续了42年，将石油支撑的福利与威权主义和国际孤立结合在一起。",
+    "ja": "1969年9月1日、国王イドリースが治療のため国外にいる間に、27歳の大尉ムアンマル・カダフィ率いる青年将校団がほぼ無血のクーデターで権力を握り、リビア・アラブ共和国を宣言した。ナセルに触発された彼らはアラブの統一と社会主義、外国基地の撤去を約束した。カダフィの独特な統治は、石油による福祉と権威主義、国際的孤立を組み合わせながら42年間続いた。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Foreign bases closed and Italian settlers expelled",
+    "ko": "외국 기지 폐쇄와 이탈리아인 추방",
+    "zh": "关闭外国基地，驱逐意大利侨民",
+    "ja": "外国基地の閉鎖とイタリア人の追放"
+   },
+   "description": {
+    "en": "In 1970 the new regime secured the withdrawal of British forces and the evacuation of the American Wheelus Air Base, both now celebrated as national holidays. In July it confiscated the property of the remaining Italian community, some 20,000 people, who were forced to leave the country. The regime also pressed oil companies for higher prices and greater state control of production.",
+    "ko": "1970년 새 정권은 영국군 철수와 미국 휠러스 공군기지 철수를 이끌어 냈고, 두 사건은 모두 국경일로 기념되었다. 7월에는 남아 있던 약 2만 명의 이탈리아계 주민의 재산을 몰수하고 이들을 나라 밖으로 내보냈다. 정권은 석유회사들에도 가격 인상과 생산에 대한 국가 통제 확대를 압박했다.",
+    "zh": "1970年，新政权促成英国军队撤离和美国惠勒斯空军基地撤出，这两件事后来都被定为国家节日。同年7月，政权没收了剩余约两万名意大利侨民的财产并迫使他们离境。政权还向石油公司施压，要求提高油价并加强国家对生产的控制。",
+    "ja": "1970年、新政権はイギリス軍の撤退とアメリカのウィーラス空軍基地の撤収を実現し、いずれも国の祝日として記念された。7月には残っていた約2万人のイタリア系住民の財産を没収し、国外へ退去させた。政権はさらに石油会社に価格引き上げと生産への国家管理の強化を迫った。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Gaddafi launches the 'Popular Revolution'",
+    "ko": "카다피, '인민 혁명' 선언",
+    "zh": "卡扎菲发动“人民革命”",
+    "ja": "カダフィが「人民革命」を宣言"
+   },
+   "description": {
+    "en": "In a speech at Zuwara in April 1973, Gaddafi announced a 'Popular Revolution', suspending existing laws, calling for the purge of 'politically sick' opponents and urging people's committees to take over local administration. The campaign marked a turn toward his own ideology, set out from 1975 in the Green Book's 'Third Universal Theory'. Opposition, including Islamist and leftist groups, was harshly suppressed.",
+    "ko": "1973년 4월 주와라 연설에서 카다피는 '인민 혁명'을 선언하며 기존 법률의 효력을 정지하고 '정치적으로 병든' 반대자들의 숙청을 요구하고 인민위원회가 지방 행정을 장악하도록 촉구했다. 이 운동은 1975년부터 『녹색서』의 '제3의 보편 이론'으로 제시된 그만의 이데올로기로의 전환을 보여 주었다. 이슬람주의와 좌파 세력을 포함한 반대 세력은 가혹하게 탄압되었다.",
+    "zh": "1973年4月，卡扎菲在祖瓦拉发表演讲，宣布开展“人民革命”，中止现行法律，号召清洗“政治上有病”的反对者，并敦促人民委员会接管地方行政。这场运动标志着转向他本人的意识形态——自1975年起在《绿皮书》中阐述的“世界第三理论”。包括伊斯兰主义者和左翼团体在内的反对派遭到严厉镇压。",
+    "ja": "1973年4月のズワーラでの演説で、カダフィは「人民革命」を宣言し、既存の法律を停止し、「政治的に病んだ」反対者の粛清を呼びかけ、人民委員会に地方行政の掌握を促した。この運動は、1975年から『緑の書』の「第三世界理論」として示される独自のイデオロギーへの転換を示した。イスラーム主義者や左派を含む反対派は苛烈に弾圧された。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": "Q4843701",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Proclamation of the Jamahiriya",
+    "ko": "자마히리야 선포",
+    "zh": "宣布建立民众国",
+    "ja": "ジャマーヒリーヤの宣言"
+   },
+   "description": {
+    "en": "On 2 March 1977, at Sabha, the General People's Congress proclaimed the Socialist People's Libyan Arab Jamahiriya, a 'state of the masses' in which power was formally exercised by people's congresses and committees. Gaddafi gave up formal office but remained 'Brother Leader' with real control over the state, army and security services. In the following years private trade was largely abolished and property redistributed.",
+    "ko": "1977년 3월 2일 사브하에서 전인민회의는 인민회의와 인민위원회가 형식상 권력을 행사하는 '대중의 국가' 사회주의 인민 리비아 아랍 자마히리야를 선포했다. 카다피는 공식 직책을 내려놓았지만 '형제 지도자'로서 국가와 군대, 보안 기관을 실질적으로 장악했다. 이후 몇 해 동안 민간 상업은 대부분 폐지되고 재산이 재분배되었다.",
+    "zh": "1977年3月2日，总人民大会在塞卜哈宣布建立社会主义阿拉伯利比亚人民民众国，即名义上由人民大会和人民委员会行使权力的“民众国家”。卡扎菲辞去正式职务，但以“兄弟领袖”身份实际掌控国家、军队和安全机构。此后几年私营商业大多被取缔，财产被重新分配。",
+    "ja": "1977年3月2日、セブハで全人民会議は、人民会議と人民委員会が形式上権力を行使する「大衆の国家」、社会主義人民リビア・アラブ・ジャマーヒリーヤを宣言した。カダフィは公職を退いたが、「兄弟指導者」として国家、軍、治安機関を実質的に掌握し続けた。その後数年で民間の商業はほぼ廃止され、財産が再分配された。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Egyptian–Libyan border war",
+    "ko": "이집트-리비아 국경 전쟁",
+    "zh": "埃及—利比亚边境战争",
+    "ja": "エジプト・リビア国境戦争"
+   },
+   "description": {
+    "en": "In July 1977, amid deep hostility between Gaddafi and Egypt's President Anwar Sadat, border clashes escalated into a short war in which Egyptian forces struck into Libya and bombed targets around Tobruk. Mediation by Algeria and others brought a ceasefire after a few days. Relations worsened further after Sadat's peace moves with Israel.",
+    "ko": "1977년 7월 카다피와 이집트 대통령 안와르 사다트 사이의 깊은 적대 속에서 국경 충돌이 짧은 전쟁으로 번져, 이집트군이 리비아 영내로 진격하고 토브루크 주변 목표물을 폭격했다. 알제리 등의 중재로 며칠 뒤 휴전이 이루어졌다. 사다트가 이스라엘과 평화를 모색하면서 양국 관계는 더욱 악화되었다.",
+    "zh": "1977年7月，在卡扎菲与埃及总统萨达特严重敌对的背景下，边境冲突升级为一场短暂战争，埃及军队攻入利比亚并轰炸托布鲁克周边目标。经阿尔及利亚等国调停，几天后实现停火。萨达特与以色列谋和后，两国关系进一步恶化。",
+    "ja": "1977年7月、カダフィとエジプトのサダト大統領の深い敵対のなかで国境衝突が短い戦争に発展し、エジプト軍がリビア領内に攻め込みトブルク周辺の目標を爆撃した。アルジェリアなどの仲介で数日後に停戦が成立した。サダトがイスラエルとの和平に動くと、両国関係はさらに悪化した。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": "Q2604253",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Gulf of Sidra incident",
+    "ko": "시드라만 사건",
+    "zh": "锡德拉湾事件",
+    "ja": "シドラ湾事件"
+   },
+   "description": {
+    "en": "Libya claimed the entire Gulf of Sidra as territorial waters, a claim rejected by the United States. On 19 August 1981, during US naval exercises in the gulf, two Libyan Su-22 jets fired on American F-14 fighters and were shot down. The clash began a decade of military confrontation between Washington and Tripoli.",
+    "ko": "리비아는 시드라만 전체를 영해로 주장했으나 미국은 이를 인정하지 않았다. 1981년 8월 19일 만 안에서 미 해군 훈련이 벌어지던 중 리비아의 Su-22 전투기 두 대가 미국 F-14 전투기에 사격했다가 격추되었다. 이 충돌로 미국과 리비아 사이의 10년에 걸친 군사적 대결이 시작되었다.",
+    "zh": "利比亚宣称整个锡德拉湾为其领海，美国拒不承认。1981年8月19日，美国海军在湾内演习期间，两架利比亚苏-22战机向美军F-14战斗机开火后被击落。这次冲突开启了华盛顿与的黎波里长达十年的军事对抗。",
+    "ja": "リビアはシドラ湾全体を領海と主張したが、アメリカはこれを認めなかった。1981年8月19日、湾内での米海軍演習中、リビアのSu-22戦闘機2機がアメリカのF-14戦闘機に発砲して撃墜された。この衝突から、ワシントンとトリポリの10年にわたる軍事的対決が始まった。"
+   }
+  },
+  {
+   "year": 1986,
+   "qid": "Q922661",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "United States bombs Tripoli and Benghazi",
+    "ko": "미국, 트리폴리와 벵가지 폭격",
+    "zh": "美国轰炸的黎波里和班加西",
+    "ja": "アメリカがトリポリとベンガジを爆撃"
+   },
+   "description": {
+    "en": "On 15 April 1986, in retaliation for the bombing of a West Berlin discotheque frequented by US soldiers, which Washington blamed on Libya, American aircraft struck targets in Tripoli and Benghazi, including Gaddafi's Bab al-Aziziya compound. Dozens of people, including civilians, were killed. The raid deepened Libya's isolation and its confrontation with the West.",
+    "ko": "1986년 4월 15일 미국은 미군이 자주 드나들던 서베를린 디스코텍 폭탄 테러의 배후로 리비아를 지목하고, 보복으로 카다피의 바브 알아지지야 관저를 비롯한 트리폴리와 벵가지의 목표물을 공습했다. 민간인을 포함해 수십 명이 숨졌다. 이 공습은 리비아의 고립과 서방과의 대결을 심화시켰다.",
+    "zh": "1986年4月15日，美国将美军常去的西柏林一家迪斯科舞厅爆炸案归咎于利比亚，作为报复，美军飞机空袭了的黎波里和班加西的目标，包括卡扎菲的阿齐齐亚兵营。包括平民在内的数十人丧生。此次空袭加深了利比亚的孤立及其与西方的对抗。",
+    "ja": "1986年4月15日、米兵がよく訪れた西ベルリンのディスコ爆破事件をリビアの仕業とみなしたアメリカは、報復としてカダフィのバーブ・アル＝アズィーズィーヤ施設を含むトリポリとベンガジの目標を空爆した。民間人を含む数十人が死亡した。この空爆はリビアの孤立と西側との対決を深めた。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": "Q4271998",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Defeat in Chad: Battle of Maaten al-Sarra",
+    "ko": "차드에서의 패배: 마아텐 알사라 전투",
+    "zh": "乍得战败：马滕萨拉之战",
+    "ja": "チャドでの敗北：マーテン・アッ＝サッラの戦い"
+   },
+   "description": {
+    "en": "Libya had intervened in Chad's civil war since the 1970s and occupied the Aouzou Strip. In 1987 Chadian forces using fast Toyota pickup trucks routed the Libyan army in northern Chad, and in September raided the Maaten al-Sarra air base inside Libya, in what became known as the 'Toyota War'. A ceasefire followed, and in 1994 the International Court of Justice awarded the Aouzou Strip to Chad.",
+    "ko": "리비아는 1970년대부터 차드 내전에 개입해 아오주 지대를 점령하고 있었다. 1987년 빠른 도요타 픽업트럭을 앞세운 차드군은 차드 북부에서 리비아군을 격파했고, 9월에는 리비아 영내의 마아텐 알사라 공군기지를 습격했으니, 이를 '도요타 전쟁'이라 부른다. 이어 휴전이 이루어졌고, 1994년 국제사법재판소는 아오주 지대를 차드의 영토로 판결했다.",
+    "zh": "利比亚自1970年代起介入乍得内战并占领奥祖地带。1987年，乍得军队驾驶灵活的丰田皮卡在乍得北部击溃利比亚军队，并于9月袭击了利比亚境内的马滕萨拉空军基地，这场战争被称为“丰田战争”。随后双方停火，1994年国际法院将奥祖地带判归乍得。",
+    "ja": "リビアは1970年代からチャド内戦に介入し、アオズー地帯を占領していた。1987年、高速のトヨタ製ピックアップトラックを駆使したチャド軍はチャド北部でリビア軍を撃破し、9月にはリビア領内のマーテン・アッ＝サッラ空軍基地を襲撃した。これは「トヨタ戦争」と呼ばれる。その後停戦が成立し、1994年に国際司法裁判所はアオズー地帯をチャド領と判断した。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Lockerbie bombing",
+    "ko": "로커비 폭파 사건",
+    "zh": "洛克比空难",
+    "ja": "ロッカビー事件"
+   },
+   "description": {
+    "en": "On 21 December 1988 Pan Am Flight 103 exploded over Lockerbie, Scotland, killing all 259 people on board and 11 on the ground. Investigators blamed Libyan intelligence agents, and in 2001 a Scottish court sitting in the Netherlands convicted the Libyan Abdelbaset al-Megrahi. In 2003 Libya formally accepted responsibility for the actions of its officials and paid compensation to the victims' families, though Megrahi maintained his innocence.",
+    "ko": "1988년 12월 21일 팬암 103편이 스코틀랜드 로커비 상공에서 폭발해 탑승자 259명 전원과 지상의 11명이 숨졌다. 수사관들은 리비아 정보요원들을 지목했고, 2001년 네덜란드에서 열린 스코틀랜드 법정은 리비아인 압델바세트 알메그라히에게 유죄를 선고했다. 2003년 리비아는 자국 관리들의 행위에 대한 책임을 공식 인정하고 유족에게 배상했지만, 메그라히는 무죄를 주장했다.",
+    "zh": "1988年12月21日，泛美航空103航班在苏格兰洛克比上空爆炸，机上259人全部遇难，地面另有11人丧生。调查人员认定利比亚情报人员所为，2001年在荷兰开庭的苏格兰法庭判处利比亚人阿卜杜勒·巴塞特·迈格拉希有罪。2003年利比亚正式承认对其官员的行为负责并向遇难者家属支付赔偿，但迈格拉希始终坚称自己无罪。",
+    "ja": "1988年12月21日、パンアメリカン航空103便がスコットランドのロッカビー上空で爆発し、乗員乗客259人全員と地上の11人が死亡した。捜査当局はリビアの情報機関員の犯行とし、2001年にオランダで開かれたスコットランドの法廷はリビア人アブデルバセト・アル＝メグラヒに有罪を言い渡した。2003年にリビアは自国官吏の行為への責任を正式に認め遺族に補償したが、メグラヒは無実を主張し続けた。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Great Man-Made River delivers water",
+    "ko": "대인공강, 물 공급 시작",
+    "zh": "“人造大河”开始供水",
+    "ja": "大人工河川が送水を開始"
+   },
+   "description": {
+    "en": "In 1991 the first phase of the Great Man-Made River was inaugurated, carrying fossil groundwater from aquifers beneath the southern desert through huge buried pipelines to Benghazi and the coast, and later to Tripoli. Among the largest water-engineering projects in the world, it was funded by oil revenues. It became the main water supply for much of the population, though the non-renewable aquifers raise questions of long-term sustainability.",
+    "ko": "1991년 대인공강 1단계가 개통되어 남부 사막 아래 대수층의 화석 지하수를 거대한 매설 송수관으로 벵가지와 해안 지역에, 뒤에는 트리폴리까지 보내기 시작했다. 세계 최대급 수자원 공사인 이 사업은 석유 수입으로 추진되었다. 이는 인구 대부분의 주요 상수원이 되었지만, 재생되지 않는 대수층이라는 점에서 장기적 지속 가능성에 의문이 제기된다.",
+    "zh": "1991年，“人造大河”一期工程启用，通过巨大的地下输水管道将南部沙漠含水层中的古地下水输往班加西和沿海地区，后来又延伸到的黎波里。这一世界最大规模的水利工程之一由石油收入资助，成为大部分人口的主要水源，但含水层不可再生，其长期可持续性受到质疑。",
+    "ja": "1991年、大人工河川の第1期が開通し、南部砂漠の地下帯水層の化石地下水を巨大な埋設管でベンガジと沿岸部へ、のちにはトリポリへ送り始めた。世界最大級の水利事業であるこの計画は石油収入で賄われた。人口の大半の主な水源となったが、再生しない帯水層であるため長期的な持続可能性が問われている。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "UN sanctions imposed on Libya",
+    "ko": "유엔의 대리비아 제재",
+    "zh": "联合国对利比亚实施制裁",
+    "ja": "国連がリビアに制裁を科す"
+   },
+   "description": {
+    "en": "In 1992 the UN Security Council imposed sanctions, including an air and arms embargo, after Libya refused to hand over the two suspects in the Lockerbie bombing; they were tightened in 1993. The sanctions hurt the economy and deepened Libya's isolation. They were suspended in 1999, after Libya surrendered the suspects for trial, and formally lifted in 2003.",
+    "ko": "1992년 유엔 안전보장이사회는 리비아가 로커비 폭파 사건 용의자 두 명의 인도를 거부하자 항공 및 무기 금수를 포함한 제재를 부과했고, 1993년 제재를 강화했다. 제재는 경제에 타격을 주고 리비아의 고립을 심화시켰다. 리비아가 재판을 위해 용의자들을 넘긴 뒤 1999년 제재가 중단되었고 2003년 공식 해제되었다.",
+    "zh": "1992年，因利比亚拒绝移交洛克比空难的两名嫌疑人，联合国安理会对其实施包括航空禁运和武器禁运在内的制裁，1993年又予以加强。制裁打击了经济，加深了利比亚的孤立。1999年利比亚交出嫌疑人受审后制裁被暂停，2003年正式解除。",
+    "ja": "1992年、リビアがロッカビー事件の容疑者2人の引き渡しを拒むと、国連安保理は航空・武器禁輸を含む制裁を科し、1993年に強化した。制裁は経済を痛め、リビアの孤立を深めた。リビアが裁判のため容疑者を引き渡した後の1999年に制裁は停止され、2003年に正式に解除された。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": "Q9291337",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Abu Salim prison massacre",
+    "ko": "아부 살림 교도소 학살",
+    "zh": "阿布萨利姆监狱屠杀",
+    "ja": "アブ・サリム刑務所虐殺"
+   },
+   "description": {
+    "en": "In June 1996 security forces killed a large number of inmates at Tripoli's Abu Salim prison, where many political prisoners were held, after a protest over conditions; human rights groups put the toll at about 1,200. For years the government denied the killings. The families' campaign for the truth in Benghazi helped spark the protests that began the 2011 uprising.",
+    "ko": "1996년 6월 많은 정치범이 수감된 트리폴리의 아부 살림 교도소에서 수감 환경에 항의하는 소요가 일어난 뒤 보안군이 다수의 재소자를 살해했으며, 인권 단체들은 희생자를 약 1,200명으로 추산한다. 정부는 수년 동안 학살을 부인했다. 벵가지에서 진상 규명을 요구한 유가족들의 운동은 2011년 봉기의 발단이 된 시위를 촉발하는 데 일조했다.",
+    "zh": "1996年6月，关押着大量政治犯的的黎波里阿布萨利姆监狱发生抗议监狱条件的骚乱后，安全部队杀害了大批囚犯，人权组织估计死者约1200人。政府多年否认此事。遇难者家属在班加西追究真相的运动，成为引发2011年起义的抗议活动的导火索之一。",
+    "ja": "1996年6月、多くの政治犯が収容されていたトリポリのアブ・サリム刑務所で、待遇に抗議する騒ぎの後に治安部隊が多数の受刑者を殺害した。人権団体は犠牲者を約1200人と推計している。政府は長年この殺害を否定した。ベンガジで真相究明を求めた遺族の運動は、2011年の蜂起の発端となった抗議行動の引き金の一つとなった。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": "Q3042698",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sirte Declaration launches the African Union",
+    "ko": "시르테 선언과 아프리카연합 창설",
+    "zh": "《苏尔特宣言》倡议建立非洲联盟",
+    "ja": "シルト宣言とアフリカ連合の創設"
+   },
+   "description": {
+    "en": "On 9 September 1999, at a summit of the Organisation of African Unity hosted by Gaddafi in his hometown of Sirte, African leaders adopted the Sirte Declaration calling for the creation of an African Union. The AU was formally launched in 2002. Disappointed with pan-Arabism, Gaddafi increasingly presented himself as a champion of African unity.",
+    "ko": "1999년 9월 9일 카다피가 고향 시르테에서 주최한 아프리카단결기구 정상회의에서 아프리카 지도자들은 아프리카연합 창설을 촉구하는 시르테 선언을 채택했다. 아프리카연합은 2002년 공식 출범했다. 범아랍주의에 실망한 카다피는 점점 아프리카 통합의 기수를 자처했다.",
+    "zh": "1999年9月9日，在卡扎菲于其家乡苏尔特主办的非洲统一组织首脑会议上，非洲领导人通过了呼吁建立非洲联盟的《苏尔特宣言》。非洲联盟于2002年正式成立。对泛阿拉伯主义感到失望的卡扎菲日益以非洲团结的旗手自居。",
+    "ja": "1999年9月9日、カダフィが故郷シルトで主催したアフリカ統一機構の首脳会議で、アフリカの指導者たちはアフリカ連合の創設を求めるシルト宣言を採択した。アフリカ連合は2002年に正式に発足した。汎アラブ主義に失望したカダフィは、次第にアフリカ統合の旗手を自任するようになった。"
+   }
+  },
+  {
+   "year": 2003,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Libya renounces weapons of mass destruction",
+    "ko": "리비아, 대량살상무기 포기",
+    "zh": "利比亚放弃大规模杀伤性武器",
+    "ja": "リビアが大量破壊兵器を放棄"
+   },
+   "description": {
+    "en": "In December 2003, after secret talks with Britain and the United States, Libya announced it would abandon its programs for nuclear, chemical and biological weapons and allow international inspections. Equipment from its nuclear program, obtained through the A. Q. Khan network, was shipped out. The move led to the lifting of sanctions, the restoration of diplomatic relations with Washington and a wave of Western oil investment.",
+    "ko": "2003년 12월 영국, 미국과의 비밀 협상 끝에 리비아는 핵·화학·생물 무기 프로그램을 포기하고 국제 사찰을 받아들이겠다고 발표했다. A. Q. 칸 네트워크를 통해 들여온 핵 프로그램 장비는 국외로 반출되었다. 이 결정으로 제재가 해제되고 미국과의 외교 관계가 복원되었으며 서방의 석유 투자가 밀려들었다.",
+    "zh": "2003年12月，经过与英美的秘密谈判，利比亚宣布放弃核、化学和生物武器计划，并接受国际核查。其通过卡迪尔·汗网络获得的核计划设备被运出境外。这一举措使制裁得以解除，与美国恢复外交关系，并迎来西方石油投资的热潮。",
+    "ja": "2003年12月、英米との秘密交渉の末、リビアは核・化学・生物兵器の計画を放棄し国際査察を受け入れると発表した。A・Q・カーンのネットワークを通じて入手した核計画の機材は国外へ搬出された。この決定により制裁が解除され、アメリカとの外交関係が回復し、西側の石油投資が押し寄せた。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q81545",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Uprising and civil war",
+    "ko": "봉기와 내전",
+    "zh": "起义与内战",
+    "ja": "蜂起と内戦"
+   },
+   "description": {
+    "en": "Inspired by the revolutions in Tunisia and Egypt, protests broke out in Benghazi in mid-February 2011 and spread across the country; the regime's violent response turned them into an armed uprising. Rebels formed the National Transitional Council in Benghazi and seized much of the east, while towns such as Misrata and Zawiya resisted government sieges. The fighting divided the country between rebel-held and Gaddafi-held areas for months.",
+    "ko": "튀니지와 이집트 혁명에 고무되어 2011년 2월 중순 벵가지에서 시위가 일어나 전국으로 퍼졌고, 정권의 폭력적 대응으로 시위는 무장 봉기로 바뀌었다. 반군은 벵가지에서 국가과도위원회를 결성하고 동부 대부분을 장악했으며, 미스라타와 자위야 같은 도시들은 정부군의 포위에 맞섰다. 전투는 몇 달 동안 나라를 반군 지역과 카다피 지역으로 갈라놓았다.",
+    "zh": "受突尼斯和埃及革命鼓舞，2011年2月中旬班加西爆发抗议并蔓延全国，政权的暴力回应使抗议演变为武装起义。反对派在班加西成立全国过渡委员会并控制东部大部分地区，米苏拉塔、扎维耶等城镇则顶住了政府军的围攻。战事使国家在数月间分裂为反对派控制区和卡扎菲控制区。",
+    "ja": "チュニジアとエジプトの革命に触発され、2011年2月半ばにベンガジで抗議行動が起こって全国に広がり、政権の暴力的な対応によって武装蜂起へと変わった。反体制派はベンガジで国民評議会を結成して東部の大半を掌握し、ミスラタやザウィヤなどの町は政府軍の包囲に抵抗した。戦闘は数か月にわたって国を反体制派地域とカダフィ地域に分断した。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q210714",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "UN-authorized military intervention",
+    "ko": "유엔 승인 군사 개입",
+    "zh": "联合国授权的军事干预",
+    "ja": "国連決議に基づく軍事介入"
+   },
+   "description": {
+    "en": "On 17 March 2011, as government forces advanced on Benghazi, the UN Security Council adopted Resolution 1973 authorizing a no-fly zone and 'all necessary measures' to protect civilians. French, British and American strikes began on 19 March, and NATO took command of the campaign as Operation Unified Protector. The air campaign, which lasted until October, was decisive in tipping the war toward the rebels, though its scope remained controversial.",
+    "ko": "2011년 3월 17일 정부군이 벵가지로 진격하자 유엔 안전보장이사회는 비행금지구역과 민간인 보호를 위한 '모든 필요한 조치'를 승인하는 결의 1973호를 채택했다. 3월 19일 프랑스, 영국, 미국의 공습이 시작되었고, 나토가 '통합 수호 작전'으로 지휘를 넘겨받았다. 10월까지 이어진 공중 작전은 전쟁을 반군 쪽으로 기울이는 데 결정적이었지만, 그 범위를 두고는 논란이 이어졌다.",
+    "zh": "2011年3月17日，在政府军逼近班加西之际，联合国安理会通过第1973号决议，授权设立禁飞区并采取“一切必要措施”保护平民。3月19日法、英、美开始空袭，随后北约以“联合保护者行动”接管指挥。持续到10月的空中行动对战局向反对派倾斜起了决定性作用，但其行动范围始终存在争议。",
+    "ja": "2011年3月17日、政府軍がベンガジに迫るなか、国連安保理は飛行禁止区域と民間人保護のための「あらゆる必要な措置」を認める決議1973を採択した。3月19日に仏英米の空爆が始まり、NATOが「統合保護作戦」として指揮を引き継いだ。10月まで続いた航空作戦は戦況を反体制派に傾ける決定的要因となったが、その範囲をめぐっては論争が続いた。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q609013",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Tripoli",
+    "ko": "트리폴리 함락",
+    "zh": "的黎波里陷落",
+    "ja": "トリポリ陥落"
+   },
+   "description": {
+    "en": "In late August 2011 rebel forces, advancing from the western mountains and Misrata and coordinated with an uprising inside the capital, captured Tripoli and stormed Gaddafi's Bab al-Aziziya compound. Gaddafi went into hiding, and the National Transitional Council moved to the capital and gained wide international recognition. Loyalist resistance continued in Sirte and Bani Walid.",
+    "ko": "2011년 8월 말 서부 산지와 미스라타에서 진격한 반군은 수도 내부의 봉기와 연계해 트리폴리를 점령하고 카다피의 바브 알아지지야 관저를 급습했다. 카다피는 잠적했고, 국가과도위원회는 수도로 옮겨 국제적으로 폭넓은 승인을 얻었다. 충성파의 저항은 시르테와 바니 왈리드에서 계속되었다.",
+    "zh": "2011年8月底，从西部山区和米苏拉塔推进的反对派武装与首都内部的起义相配合，攻占的黎波里并攻入卡扎菲的阿齐齐亚兵营。卡扎菲藏匿起来，全国过渡委员会迁往首都并获得广泛的国际承认。效忠派在苏尔特和拜尼沃利德继续抵抗。",
+    "ja": "2011年8月末、西部山地とミスラタから進撃した反体制派は首都内部の蜂起と連携してトリポリを制圧し、カダフィのバーブ・アル＝アズィーズィーヤ施設に突入した。カダフィは潜伏し、国民評議会は首都に移って広く国際的承認を得た。忠誠派の抵抗はシルトとバニ・ワリードで続いた。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q431888",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Death of Muammar Gaddafi",
+    "ko": "무아마르 카다피의 죽음",
+    "zh": "穆阿迈尔·卡扎菲之死",
+    "ja": "ムアンマル・カダフィの死"
+   },
+   "description": {
+    "en": "On 20 October 2011, as Sirte fell, Gaddafi's convoy was struck by NATO aircraft while fleeing the city; he was captured by rebel fighters and killed shortly afterwards in circumstances that drew international criticism. Three days later the National Transitional Council declared the liberation of Libya. His death ended 42 years of rule but left a country awash with weapons and rival armed groups.",
+    "ko": "2011년 10월 20일 시르테가 함락될 때 도시를 빠져나가던 카다피의 차량 행렬이 나토 항공기의 공격을 받았고, 그는 반군 전사들에게 붙잡힌 직후 국제적 비판을 받은 정황 속에서 살해되었다. 사흘 뒤 국가과도위원회는 리비아 해방을 선언했다. 그의 죽음으로 42년의 통치가 끝났지만, 나라에는 무기와 경쟁하는 무장 집단이 넘쳐났다.",
+    "zh": "2011年10月20日，苏尔特陷落之际，卡扎菲逃离该城的车队遭北约飞机攻击，他随即被反对派武装人员抓获，并在引发国际批评的情况下很快被杀。三天后全国过渡委员会宣布利比亚解放。他的死结束了42年的统治，却留下一个武器泛滥、武装团体林立的国家。",
+    "ja": "2011年10月20日、シルトが陥落するなか、町から逃れようとしたカダフィの車列がNATO機の攻撃を受け、彼は反体制派の戦闘員に捕らえられた直後、国際的な批判を招く状況で殺害された。3日後、国民評議会はリビアの解放を宣言した。彼の死は42年の統治を終わらせたが、国には武器と対立する武装集団があふれていた。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First free national elections in decades",
+    "ko": "수십 년 만의 첫 자유 총선",
+    "zh": "数十年来首次自由全国选举",
+    "ja": "数十年ぶりの自由な国政選挙"
+   },
+   "description": {
+    "en": "On 7 July 2012 Libyans voted for a 200-member General National Congress, the country's first free national election in about half a century. The National Forces Alliance led by Mahmoud Jibril won the most party-list seats, but many seats went to independents. The Congress, which took power from the National Transitional Council, struggled to assert authority over the militias.",
+    "ko": "2012년 7월 7일 리비아인들은 200명으로 구성된 국민총회를 뽑는 투표를 했는데, 이는 약 반세기 만에 처음 치러진 자유로운 전국 선거였다. 마흐무드 지브릴이 이끄는 국민세력연합이 정당 명부 의석을 가장 많이 얻었지만 많은 의석이 무소속에게 돌아갔다. 국가과도위원회로부터 권력을 넘겨받은 국민총회는 민병대에 대한 권위를 세우는 데 어려움을 겪었다.",
+    "zh": "2012年7月7日，利比亚人投票选举由200名议员组成的国民议会，这是该国约半个世纪以来首次自由的全国选举。马哈茂德·吉卜里勒领导的国民力量联盟赢得最多的政党名单席位，但许多席位由独立人士获得。从全国过渡委员会手中接过权力的国民议会难以对各民兵确立权威。",
+    "ja": "2012年7月7日、リビアの人々は定数200の国民議会を選ぶ投票を行った。これはおよそ半世紀ぶりの自由な国政選挙だった。マフムード・ジブリールが率いる国民勢力連合が政党名簿の議席で最多を得たが、多くの議席は無所属が占めた。国民評議会から権力を引き継いだ国民議会は、民兵に対する権威の確立に苦しんだ。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q199416",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Attack on the US mission in Benghazi",
+    "ko": "벵가지 미국 공관 공격",
+    "zh": "美国驻班加西机构遇袭",
+    "ja": "ベンガジの米公館襲撃"
+   },
+   "description": {
+    "en": "On 11 September 2012 Islamist militants attacked the US diplomatic compound and a nearby CIA annex in Benghazi, killing Ambassador J. Christopher Stevens and three other Americans. The attack exposed the weakness of the new Libyan state and the growing strength of jihadist groups in the east. It became a long-running political controversy in the United States.",
+    "ko": "2012년 9월 11일 이슬람주의 무장대원들이 벵가지의 미국 외교 공관과 인근 CIA 시설을 공격해 J. 크리스토퍼 스티븐스 대사와 다른 미국인 3명이 숨졌다. 이 공격은 신생 리비아 국가의 취약함과 동부에서 커지는 지하드 집단의 세력을 드러냈다. 사건은 미국에서 오랫동안 정치적 논란거리가 되었다.",
+    "zh": "2012年9月11日，伊斯兰武装分子袭击了美国驻班加西的外交机构及附近的中央情报局设施，大使克里斯托弗·史蒂文斯和另外三名美国人遇难。这次袭击暴露了新生利比亚国家的软弱以及东部圣战组织日益壮大的势力，并在美国成为长期的政治争议。",
+    "ja": "2012年9月11日、イスラーム主義武装勢力がベンガジの米外交施設と近くのCIA施設を襲撃し、J・クリストファー・スティーブンス大使ら米国人4人が死亡した。この襲撃は新生リビア国家の弱さと、東部で強まるジハード主義集団の勢力を露わにした。事件はアメリカで長く政治的論争の的となった。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q16911838",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Second civil war divides Libya",
+    "ko": "제2차 내전으로 리비아 분열",
+    "zh": "第二次内战导致利比亚分裂",
+    "ja": "第二次内戦によるリビアの分裂"
+   },
+   "description": {
+    "en": "In May 2014 Khalifa Haftar launched 'Operation Dignity' against Islamist militias in Benghazi, and after disputed elections that June the newly chosen House of Representatives relocated to Tobruk while a rival coalition, Libya Dawn, took Tripoli and revived the old Congress. Libya was split between two governments and parliaments, each backed by armed groups and foreign allies. The chaos also allowed the Islamic State group to seize territory, including Sirte.",
+    "ko": "2014년 5월 칼리파 하프타르가 벵가지의 이슬람주의 민병대를 상대로 '존엄 작전'을 개시했고, 그해 6월 논란 속에 치러진 선거 뒤 새로 선출된 대표의회는 토브루크로 옮겨 간 반면 경쟁 연합 '리비아의 여명'은 트리폴리를 장악하고 옛 국민총회를 되살렸다. 리비아는 각각 무장 집단과 외국 동맹의 지원을 받는 두 정부와 두 의회로 갈라졌다. 이 혼란을 틈타 이슬람국가(IS)가 시르테를 비롯한 영토를 차지하기도 했다.",
+    "zh": "2014年5月，哈利法·哈夫塔尔对班加西的伊斯兰民兵发动“尊严行动”；同年6月选举结果存在争议，新选出的国民代表大会迁往托布鲁克，而敌对联盟“利比亚黎明”占领的黎波里并恢复了旧国民议会。利比亚分裂为两个政府和两个议会，各自得到武装团体和外国盟友的支持。混乱局面还让“伊斯兰国”组织得以占领包括苏尔特在内的领土。",
+    "ja": "2014年5月、ハリファ・ハフタルはベンガジのイスラーム主義民兵に対して「尊厳作戦」を開始し、同年6月の争いのある選挙の後、新たに選ばれた代表議会はトブルクへ移った。一方、対立する連合「リビアの夜明け」はトリポリを掌握し旧国民議会を復活させた。リビアはそれぞれ武装集団と外国の同盟者に支えられた二つの政府と議会に分裂した。混乱に乗じて「イスラム国」がシルトなどの領土を奪った。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q19283494",
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Islamic State murders Egyptian Copts",
+    "ko": "IS의 이집트 콥트교도 살해",
+    "zh": "“伊斯兰国”杀害埃及科普特人",
+    "ja": "「イスラム国」によるエジプトのコプト教徒殺害"
+   },
+   "description": {
+    "en": "In February 2015 the Libyan branch of the Islamic State released a video showing the beheading on a beach of 21 Christian migrant workers, 20 of them Egyptian Copts and one from Ghana, kidnapped in Sirte. Egypt responded with airstrikes on IS targets in Derna. The Coptic Church later recognized the victims as martyrs.",
+    "ko": "2015년 2월 이슬람국가(IS) 리비아 지부는 시르테에서 납치한 그리스도교도 이주 노동자 21명, 곧 이집트 콥트교도 20명과 가나인 1명을 해변에서 참수하는 영상을 공개했다. 이집트는 데르나의 IS 목표물에 대한 공습으로 대응했다. 콥트 교회는 뒤에 희생자들을 순교자로 인정했다.",
+    "zh": "2015年2月，“伊斯兰国”利比亚分支发布视频，显示在海滩上斩首在苏尔特绑架的21名基督徒外籍劳工，其中20人为埃及科普特人，1人来自加纳。埃及随即对德尔纳的“伊斯兰国”目标实施空袭。科普特教会后来将遇难者封为殉道者。",
+    "ja": "2015年2月、「イスラム国」リビア支部は、シルトで誘拐したキリスト教徒の出稼ぎ労働者21人（エジプトのコプト教徒20人とガーナ人1人）を海岸で斬首する映像を公開した。エジプトはデルナのIS拠点への空爆で応じた。コプト教会はのちに犠牲者を殉教者と認めた。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q23309038",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Skhirat agreement creates a unity government",
+    "ko": "스키라트 협정과 통합정부 구성",
+    "zh": "《斯希拉特协议》组建团结政府",
+    "ja": "スヒラト合意と統一政府の発足"
+   },
+   "description": {
+    "en": "On 17 December 2015, after UN-led talks in Skhirat, Morocco, delegates from Libya's rival camps signed the Libyan Political Agreement, creating a Presidency Council and a Government of National Accord headed by Fayez al-Sarraj. The GNA, internationally recognized, installed itself in Tripoli in 2016. However, the eastern-based House of Representatives never endorsed it, and the division continued.",
+    "ko": "2015년 12월 17일 모로코 스키라트에서 유엔 주도 협상 끝에 리비아 경쟁 진영 대표들은 리비아 정치 협정에 서명해 대통령평의회와 파예즈 알사라즈가 이끄는 국민합의정부를 구성했다. 국제적으로 승인된 국민합의정부는 2016년 트리폴리에 자리 잡았다. 그러나 동부를 근거로 한 대표의회는 끝내 이를 승인하지 않았고 분열은 계속되었다.",
+    "zh": "2015年12月17日，经联合国主持在摩洛哥斯希拉特举行谈判后，利比亚对立阵营的代表签署《利比亚政治协议》，成立总统委员会和由法耶兹·萨拉杰领导的民族团结政府。获得国际承认的民族团结政府于2016年进驻的黎波里，但设在东部的国民代表大会始终未予认可，分裂局面持续。",
+    "ja": "2015年12月17日、モロッコのスヒラトで国連主導の協議を経て、リビアの対立陣営の代表はリビア政治合意に署名し、大統領評議会とファイズ・サラージ率いる国民合意政府を設けた。国際的に承認された国民合意政府は2016年にトリポリに入ったが、東部の代表議会は最後までこれを承認せず、分裂は続いた。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q24467647",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Islamic State driven from Sirte",
+    "ko": "IS, 시르테에서 축출",
+    "zh": "“伊斯兰国”被逐出苏尔特",
+    "ja": "「イスラム国」がシルトから駆逐される"
+   },
+   "description": {
+    "en": "From May 2016 forces aligned with the Government of National Accord, largely militias from Misrata, fought to retake Sirte from the Islamic State, supported from August by US airstrikes. After months of urban combat the city was declared liberated in December 2016. The battle ended IS control of territory in Libya, though its cells remained active in the desert.",
+    "ko": "2016년 5월부터 주로 미스라타 민병대로 이루어진 국민합의정부 측 세력은 이슬람국가(IS)로부터 시르테를 탈환하기 위해 싸웠고, 8월부터는 미국의 공습 지원을 받았다. 몇 달에 걸친 시가전 끝에 2016년 12월 도시의 해방이 선언되었다. 이 전투로 리비아에서 IS의 영토 지배는 끝났지만, 그 세포 조직은 사막에서 계속 활동했다.",
+    "zh": "自2016年5月起，以米苏拉塔民兵为主的民族团结政府一方武装力量为从“伊斯兰国”手中夺回苏尔特而战，8月起得到美国空袭支援。经过数月巷战，该城于2016年12月宣告解放。此役结束了“伊斯兰国”在利比亚的领土控制，但其小股组织仍在沙漠中活动。",
+    "ja": "2016年5月から、主にミスラタの民兵からなる国民合意政府側の勢力は「イスラム国」からシルトを奪還するため戦い、8月からはアメリカの空爆支援を受けた。数か月の市街戦の末、2016年12月に町の解放が宣言された。この戦いでリビアにおけるISの領域支配は終わったが、その細胞組織は砂漠で活動を続けた。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Haftar's offensive on Tripoli",
+    "ko": "하프타르의 트리폴리 공세",
+    "zh": "哈夫塔尔进攻的黎波里",
+    "ja": "ハフタルのトリポリ攻勢"
+   },
+   "description": {
+    "en": "In April 2019 Khalifa Haftar's Libyan National Army, having taken Benghazi, Derna and much of the south, launched an offensive to capture Tripoli from the UN-recognized Government of National Accord. The fighting on the capital's southern outskirts drew in foreign backers, including the UAE, Egypt and Russian mercenaries on Haftar's side. After Turkey intervened in support of the GNA, Haftar's forces were driven back from western Libya by June 2020.",
+    "ko": "2019년 4월 벵가지와 데르나, 남부 대부분을 장악한 칼리파 하프타르의 리비아국민군은 유엔이 승인한 국민합의정부로부터 트리폴리를 빼앗기 위한 공세를 시작했다. 수도 남쪽 외곽의 전투에는 하프타르 쪽의 아랍에미리트, 이집트, 러시아 용병 등 외국 후원 세력이 끌려 들어왔다. 튀르키예가 국민합의정부를 지원하며 개입하자 하프타르 군대는 2020년 6월까지 리비아 서부에서 밀려났다.",
+    "zh": "2019年4月，已控制班加西、德尔纳和南部大部分地区的哈利法·哈夫塔尔的“利比亚国民军”发动攻势，企图从联合国承认的民族团结政府手中夺取的黎波里。首都南郊的战事将外国支持者卷入其中，哈夫塔尔一方有阿联酋、埃及和俄罗斯雇佣兵等。土耳其出兵支持民族团结政府后，哈夫塔尔的部队于2020年6月前被逐出利比亚西部。",
+    "ja": "2019年4月、ベンガジ、デルナ、南部の大半を掌握していたハリファ・ハフタルの「リビア国民軍」は、国連が承認する国民合意政府からトリポリを奪う攻勢を開始した。首都南郊の戦闘には、ハフタル側のUAE、エジプト、ロシアの傭兵などの外国の後ろ盾が引き込まれた。トルコが国民合意政府を支援して介入すると、ハフタルの軍は2020年6月までにリビア西部から押し戻された。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nationwide ceasefire agreement",
+    "ko": "전국 휴전 협정",
+    "zh": "全国停火协议",
+    "ja": "全国停戦合意"
+   },
+   "description": {
+    "en": "On 23 October 2020, in Geneva, military delegations of the two rival camps signed a permanent nationwide ceasefire under UN auspices, calling for the departure of foreign fighters and mercenaries. The ceasefire largely held, opening the way to a UN-led political dialogue. Foreign forces, however, remained in the country.",
+    "ko": "2020년 10월 23일 제네바에서 경쟁하는 두 진영의 군사 대표단은 유엔의 주선으로 외국인 전투원과 용병의 철수를 요구하는 영구적인 전국 휴전에 서명했다. 휴전은 대체로 지켜졌고, 유엔 주도의 정치 대화로 가는 길을 열었다. 그러나 외국 군대는 여전히 나라에 남았다.",
+    "zh": "2020年10月23日，在联合国主持下，对立双方的军事代表团在日内瓦签署永久性全国停火协议，要求外国武装人员和雇佣兵撤离。停火基本得到维持，为联合国主导的政治对话铺平了道路，但外国部队仍留在该国。",
+    "ja": "2020年10月23日、ジュネーブで対立する両陣営の軍事代表団は国連の仲介のもと、外国人戦闘員と傭兵の撤退を求める恒久的な全国停戦に署名した。停戦はおおむね守られ、国連主導の政治対話への道を開いた。ただし外国の部隊は国内にとどまった。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Government of National Unity and postponed elections",
+    "ko": "국민통합정부 출범과 선거 연기",
+    "zh": "民族团结政府成立与选举推迟",
+    "ja": "国民統一政府の発足と選挙延期"
+   },
+   "description": {
+    "en": "In February 2021 the UN-facilitated Libyan Political Dialogue Forum chose a new interim executive, and in March the Government of National Unity under Prime Minister Abdul Hamid Dbeibah took office, recognized by both camps. Presidential and parliamentary elections planned for 24 December 2021 were postponed amid disputes over candidates and legal rules. In 2022 the eastern parliament appointed a rival government, renewing the division.",
+    "ko": "2021년 2월 유엔이 주선한 리비아 정치대화포럼은 새 임시 행정부를 선출했고, 3월 압둘 하미드 드베이바 총리가 이끄는 국민통합정부가 두 진영 모두의 인정을 받으며 출범했다. 2021년 12월 24일로 예정된 대통령 선거와 총선은 후보 자격과 법적 규정을 둘러싼 분쟁 속에 연기되었다. 2022년 동부 의회가 경쟁 정부를 임명하면서 분열이 다시 시작되었다.",
+    "zh": "2021年2月，联合国协调的利比亚政治对话论坛选出新的临时行政机构；3月，由总理阿卜杜勒·哈米德·德贝巴领导的民族团结政府就职，获得双方承认。原定于2021年12月24日举行的总统和议会选举因候选人资格和法律规则的争议而推迟。2022年东部议会任命了一个对立政府，分裂再度出现。",
+    "ja": "2021年2月、国連が仲介するリビア政治対話フォーラムが新たな暫定行政府を選び、3月にはアブドゥルハミード・ドベイバ首相率いる国民統一政府が両陣営の承認を得て発足した。2021年12月24日に予定された大統領選挙と議会選挙は、候補者資格や法的規則をめぐる対立のなかで延期された。2022年には東部の議会が対抗政府を任命し、分裂が再燃した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q122615796",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Catastrophic flooding in Derna",
+    "ko": "데르나 대홍수 참사",
+    "zh": "德尔纳特大洪灾",
+    "ja": "デルナの大洪水災害"
+   },
+   "description": {
+    "en": "On the night of 10–11 September 2023 extreme rainfall from Storm Daniel caused two poorly maintained dams above the eastern city of Derna to collapse, sending a torrent through the Wadi Derna that swept entire districts into the sea. Thousands of people were killed and many more went missing, making it one of the deadliest floods of modern times. The disaster drew attention to years of neglect of infrastructure amid political division.",
+    "ko": "2023년 9월 10~11일 밤 폭풍 다니엘이 몰고 온 기록적인 폭우로 동부 도시 데르나 위쪽의 관리가 부실했던 댐 두 곳이 무너졌고, 와디 데르나를 타고 쏟아진 급류가 도시의 여러 구역을 통째로 바다로 쓸어 갔다. 수천 명이 숨지고 훨씬 많은 사람이 실종되어 현대에 가장 치명적인 홍수 가운데 하나가 되었다. 이 참사는 정치적 분열 속에서 수년간 방치된 기반 시설 문제에 관심을 모았다.",
+    "zh": "2023年9月10日至11日夜间，风暴“丹尼尔”带来的极端降雨导致东部城市德尔纳上游两座年久失修的水坝相继溃决，洪流沿德尔纳干河奔涌而下，将整片城区冲入大海。数千人遇难，失踪者更多，这是现代最致命的洪灾之一。这场灾难使人们关注到政治分裂之下基础设施多年失修的问题。",
+    "ja": "2023年9月10日から11日にかけての夜、暴風雨ダニエルによる記録的な豪雨で、東部の都市デルナ上流の管理の行き届かない二つのダムが決壊し、ワディ・デルナを流れ下った激流が市街地の一帯を丸ごと海へ押し流した。数千人が死亡し、さらに多くが行方不明となり、現代で最も多くの死者を出した洪水の一つとなった。この災害は、政治的分裂のもとで長年放置されたインフラの問題に注目を集めた。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q134455210",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Clashes in Tripoli",
+    "ko": "트리폴리 무력 충돌",
+    "zh": "的黎波里武装冲突",
+    "ja": "トリポリでの武力衝突"
+   },
+   "description": {
+    "en": "In May 2025 heavy fighting broke out in Tripoli after the killing of Abdul Ghani al-Kikli, head of the powerful Stability Support Apparatus militia, as forces aligned with Prime Minister Dbeibah moved against rival armed groups. The clashes, the worst in the capital for several years, prompted protests and calls for a ceasefire. They underlined the continuing dominance of militias over Libyan politics.",
+    "ko": "2025년 5월 강력한 민병대인 안정지원기구의 수장 압둘 가니 알키클리가 살해된 뒤, 드베이바 총리 측 세력이 경쟁 무장 집단들을 공격하면서 트리폴리에서 격렬한 전투가 벌어졌다. 수년 만에 수도에서 일어난 최악의 충돌은 시위와 휴전 요구를 불렀다. 이는 리비아 정치에서 민병대가 여전히 지배적임을 보여 주었다.",
+    "zh": "2025年5月，实力强大的民兵组织“稳定支持机构”首领阿卜杜勒·加尼·基克利被杀后，忠于总理德贝巴的部队向敌对武装团体发起行动，的黎波里爆发激烈战斗。这是首都数年来最严重的冲突，引发了抗议和停火呼声，凸显出民兵对利比亚政治的持续主导。",
+    "ja": "2025年5月、有力な民兵組織「安定支援機構」の長アブドゥルガニー・キクリーが殺害された後、ドベイバ首相側の勢力が対立する武装集団に攻勢をかけ、トリポリで激しい戦闘が起きた。首都では数年来最悪の衝突となり、抗議行動と停戦を求める声が上がった。この衝突は、リビア政治における民兵の支配が続いていることを浮き彫りにした。"
+   }
+  }
+ ]
+}

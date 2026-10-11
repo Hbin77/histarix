@@ -1,0 +1,2934 @@
+{
+ "iso": "NL",
+ "eras": [
+  {
+   "from": -5300,
+   "to": -2000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Neolithic Low Countries",
+    "ko": "네덜란드 땅의 신석기 시대",
+    "zh": "荷兰地区的新石器时代",
+    "ja": "オランダの地の新石器時代"
+   },
+   "summary": {
+    "en": "Farming reached the south of the present-day Netherlands with the Linear Pottery culture in South Limburg, while the Swifterbant culture of the wetlands gradually combined hunting, fishing and early cultivation. From the late 4th millennium BC the Funnelbeaker people of Drenthe built the megalithic tombs known as hunebedden, followed by the Vlaardingen, Single Grave and Bell Beaker cultures. These groups laid the foundations of settled life on the sandy uplands and river dunes of the delta.",
+    "ko": "남부 림뷔르흐에는 선형 띠무늬 토기 문화와 함께 농경이 들어왔고, 습지대의 스위프테르반트 문화는 수렵·어로에 초기 경작을 점차 결합해 나갔다. 기원전 4천년기 후반부터 드렌터의 깔때기 비커 문화 사람들은 '휘너베드'라 불리는 거석 무덤을 세웠으며, 이어 플라르딩언 문화, 단독묘 문화, 종형 비커 문화가 뒤를 이었다. 이들은 삼각주의 모래 고지와 하천 사구 위에 정착 생활의 기반을 마련했다.",
+    "zh": "随着线纹陶文化的到来，农业传入今荷兰南部的南林堡；湿地中的斯威夫特班特文化则逐渐将狩猎、捕鱼与早期种植结合起来。自公元前4千纪晚期起，德伦特的漏斗颈陶文化人群修建了被称为“巨人床”的巨石墓，随后又有弗拉尔丁恩文化、单墓文化和钟形杯文化相继出现。这些人群在三角洲的沙质高地和河岸沙丘上奠定了定居生活的基础。",
+    "ja": "線帯文土器文化とともに南リンブルフに農耕が伝わり、湿地帯のスウィフテルバント文化は狩猟・漁労に初期の栽培を少しずつ取り入れていった。紀元前4千年紀後半からはドレンテの漏斗状ビーカー文化の人々が「フーネベッド」と呼ばれる巨石墓を築き、その後フラールディンゲン文化、単葬墓文化、鐘状ビーカー文化が続いた。彼らはデルタの砂丘や砂地の高台に定住生活の基盤を築いた。"
+   }
+  },
+  {
+   "from": -2000,
+   "to": -800,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bronze Age: Hilversum and Elp cultures",
+    "ko": "청동기 시대: 힐베르쉼 문화와 엘프 문화",
+    "zh": "青铜时代：希尔弗瑟姆文化与埃尔普文化",
+    "ja": "青銅器時代：ヒルフェルスム文化とエルプ文化"
+   },
+   "summary": {
+    "en": "During the Bronze Age the Hilversum culture in the south and centre and the Elp culture in the north-east lived in scattered farmsteads with long byre-houses that sheltered people and cattle under one roof. Bronze was imported, as the delta had no metal ores, and burial mounds were raised on the heathlands. West Frisia was densely farmed, and long-distance contacts linked the region to Britain and Central Europe.",
+    "ko": "청동기 시대에 남부와 중부의 힐베르쉼 문화, 북동부의 엘프 문화 사람들은 사람과 가축이 한 지붕 아래 사는 긴 축사 겸용 가옥을 짓고 흩어진 농가에서 살았다. 삼각주에는 금속 광석이 없어 청동은 수입되었고, 황야에는 봉분이 세워졌다. 서프리슬란트는 집약적으로 경작되었으며, 원거리 교류가 이 지역을 브리튼과 중부 유럽에 연결했다.",
+    "zh": "青铜时代，南部和中部的希尔弗瑟姆文化与东北部的埃尔普文化居民生活在分散的农庄中，住在人畜同屋的长形畜舍住宅里。三角洲缺乏金属矿藏，青铜依靠输入，人们在荒原上堆筑墓丘。西弗里斯兰得到密集开垦，远距离交流把这一地区与不列颠和中欧联系起来。",
+    "ja": "青銅器時代、南部・中部のヒルフェルスム文化と北東部のエルプ文化の人々は、人と家畜がひとつ屋根の下に暮らす長い畜舎付き住居を建て、点在する農場で生活した。デルタには金属鉱石がないため青銅は輸入され、ヒースの荒野には墳丘が築かれた。西フリースラントは集約的に耕作され、遠距離の交流がこの地域をブリテンや中央ヨーロッパと結びつけた。"
+   }
+  },
+  {
+   "from": -800,
+   "to": -13,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Iron Age: terp dwellers, Celts and Germanic peoples",
+    "ko": "철기 시대: 테르프 주민과 켈트·게르만인",
+    "zh": "铁器时代：土丘居民、凯尔特人与日耳曼人",
+    "ja": "鉄器時代：テルプの住民とケルト人・ゲルマン人"
+   },
+   "summary": {
+    "en": "In the Iron Age the south of the country was drawn into the Celtic-influenced world of the Hallstatt and La Tène cultures, as shown by the rich chieftain's grave at Oss. In the north, people began around 600–500 BC to live on artificial dwelling mounds (terpen) in the salt marshes of Friesland and Groningen. By the 1st century BC Germanic-speaking groups such as the Frisii lived in the north and peoples like the Eburones and Menapii in the south.",
+    "ko": "철기 시대에 남부는 할슈타트·라텐 문화로 대표되는 켈트 문화권의 영향을 받았으며, 오스의 호화로운 족장 무덤이 이를 보여 준다. 북부에서는 기원전 600~500년경부터 프리슬란트와 흐로닝언의 염습지에 인공 주거 언덕(테르프)을 쌓고 살기 시작했다. 기원전 1세기에는 북부에 프리시이족 같은 게르만어 사용 집단이, 남부에는 에부로네스족과 메나피이족 등이 살고 있었다.",
+    "zh": "铁器时代，南部受到以哈尔施塔特文化和拉坦诺文化为代表的凯尔特文化影响，奥斯的豪华首领墓即为明证。北部居民约自公元前600至前500年起，在弗里斯兰和格罗宁根的盐沼中筑起人工居住土丘（terp）生活。到公元前1世纪，北部生活着弗里西人等日耳曼语群体，南部则有厄布隆人和梅纳皮人等部族。",
+    "ja": "鉄器時代、南部はハルシュタット文化・ラ・テーヌ文化に代表されるケルト的世界の影響を受け、オスの豪華な首長墓がそれを物語る。北部では紀元前600～500年頃から、フリースラントとフローニンゲンの塩性湿地に人工の居住丘（テルプ）を築いて暮らし始めた。紀元前1世紀には北部にフリシー族などゲルマン語系の集団が、南部にはエブロネス族やメナピイ族などが住んでいた。"
+   }
+  },
+  {
+   "from": -57,
+   "to": -27,
+   "kind": "state",
+   "qid": "Q175881",
+   "polity": "Roman Republic",
+   "name": {
+    "en": "Roman Republic: Caesar's conquest of the south",
+    "ko": "로마 공화정: 카이사르의 남부 정복",
+    "zh": "罗马共和国：凯撒征服南部",
+    "ja": "ローマ共和政：カエサルの南部征服"
+   },
+   "summary": {
+    "en": "During the Gallic Wars Julius Caesar's legions campaigned against the Belgic and Germanic tribes of the lower Rhine and Meuse, including the Menapii and Eburones, and brought the southern part of the present-day Netherlands under Roman control. The lands north of the Rhine remained outside Roman rule. The conquest opened the region to Roman trade and influence.",
+    "ko": "갈리아 전쟁 동안 율리우스 카이사르의 군단은 메나피이족과 에부로네스족 등 라인강 하류와 마스강 일대의 벨가이·게르만 부족들을 공격해 오늘날 네덜란드 남부를 로마의 지배 아래 두었다. 라인강 북쪽 땅은 로마의 통치 밖에 남았다. 이 정복으로 이 지역은 로마의 교역과 영향에 열리게 되었다.",
+    "zh": "高卢战争期间，尤利乌斯·凯撒的军团征讨莱茵河下游和马斯河一带的贝尔盖及日耳曼部落，包括梅纳皮人和厄布隆人，使今荷兰南部置于罗马控制之下。莱茵河以北地区仍在罗马统治之外。这次征服使该地区向罗马的贸易和影响敞开了大门。",
+    "ja": "ガリア戦争の間、ユリウス・カエサルの軍団はメナピイ族やエブロネス族などライン川下流・マース川流域のベルガエ系・ゲルマン系部族を攻め、現在のオランダ南部をローマの支配下に置いた。ライン川以北の地はローマの統治の外にとどまった。この征服によって、地域はローマの交易と影響に開かれた。"
+   }
+  },
+  {
+   "from": -12,
+   "to": 400,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Free Frisians and Chauci beyond the Rhine",
+    "ko": "라인강 너머의 자유 프리시이족과 카우키족",
+    "zh": "莱茵河外的自由弗里西人与考契人",
+    "ja": "ライン川の外の自由なフリシー族とカウキ族"
+   },
+   "summary": {
+    "en": "North of the Rhine the Frisii and their neighbours remained largely outside the empire, living on terpen in the coastal marshes and trading cattle, hides and other goods with the Roman world. Rome briefly claimed tribute from them, but the Frisian revolt of AD 28 and later withdrawals left the north beyond direct Roman control. In the later 3rd and 4th centuries much of the coastal terp region appears to have been largely depopulated.",
+    "ko": "라인강 북쪽의 프리시이족과 이웃 부족들은 대체로 제국 밖에 남아, 해안 습지의 테르프 위에 살면서 소·가죽 등을 로마 세계와 교역했다. 로마는 한때 이들에게 공납을 요구했으나, 서기 28년 프리시이족 반란과 이후의 철수로 북부는 로마의 직접 지배를 벗어났다. 3세기 후반과 4세기에는 해안 테르프 지역 상당 부분에서 인구가 크게 줄어든 것으로 보인다.",
+    "zh": "莱茵河以北的弗里西人及其邻族基本处在帝国之外，他们居住在沿海沼泽的土丘上，以牛、皮革等物品与罗马世界交易。罗马一度向他们征收贡赋，但公元28年弗里西人起义及之后的撤退使北部脱离了罗马的直接控制。3世纪后期和4世纪，沿海土丘地区大部分似乎人口锐减。",
+    "ja": "ライン川以北のフリシー族と近隣部族はおおむね帝国の外にとどまり、沿岸湿地のテルプに住みながら牛や皮革などをローマ世界と交易した。ローマは一時彼らに貢納を課したが、紀元28年のフリシー族の反乱とその後の撤退により、北部はローマの直接支配から外れた。3世紀後半から4世紀にかけて、沿岸のテルプ地帯の多くでは人口が大きく減ったとみられる。"
+   }
+  },
+  {
+   "from": -12,
+   "to": 406,
+   "kind": "state",
+   "qid": null,
+   "polity": "Roman Empire",
+   "name": {
+    "en": "Roman Empire: the Rhine frontier",
+    "ko": "로마 제국: 라인강 국경",
+    "zh": "罗马帝国：莱茵河边境",
+    "ja": "ローマ帝国：ライン川の国境"
+   },
+   "summary": {
+    "en": "From Drusus's campaigns of 12 BC the Rhine became Rome's northern frontier, and the land south of it formed part of the province of Germania Inferior, guarded by the forts of the Lower Germanic Limes. Nijmegen, Utrecht (Traiectum) and Maastricht grew up as Roman settlements, and the Batavians supplied famous auxiliary troops despite their revolt of 69–70. After the crises of the 3rd and 4th centuries Roman control along the Rhine collapsed in the early 5th century.",
+    "ko": "기원전 12년 드루수스의 원정 이후 라인강은 로마의 북쪽 국경이 되었고, 그 남쪽 땅은 저지 게르마니아 속주의 일부로서 저지 게르마니아 리메스의 요새들이 지켰다. 네이메헌, 위트레흐트(트라이엑툼), 마스트리흐트가 로마 정착지로 성장했으며, 바타비족은 69~70년의 반란에도 불구하고 이름난 보조군을 제공했다. 3~4세기의 위기를 거쳐 5세기 초 라인강 일대의 로마 지배는 무너졌다.",
+    "zh": "自公元前12年德鲁苏斯远征起，莱茵河成为罗马的北部边界，河南土地属于下日耳曼尼亚行省，由下日耳曼长城沿线的要塞守卫。奈梅亨、乌得勒支（特拉伊克图姆）和马斯特里赫特作为罗马定居点发展起来；巴达维人虽在69至70年发动起义，仍为罗马提供了著名的辅助部队。经过3、4世纪的危机，罗马在莱茵河一带的统治于5世纪初崩溃。",
+    "ja": "紀元前12年のドルススの遠征以降、ライン川はローマの北の国境となり、その南の地は低地ゲルマニア属州の一部として低地ゲルマニア・リメスの砦に守られた。ナイメーヘン、ユトレヒト（トライエクトゥム）、マーストリヒトがローマの居住地として発展し、バタウィ族は69～70年の反乱にもかかわらず名高い補助軍を提供した。3～4世紀の危機を経て、5世紀初めにライン川沿いのローマ支配は崩壊した。"
+   }
+  },
+  {
+   "from": 260,
+   "to": 274,
+   "kind": "state",
+   "qid": "Q273025",
+   "polity": "Gallic Empire",
+   "name": {
+    "en": "Gallic Empire",
+    "ko": "갈리아 제국",
+    "zh": "高卢帝国",
+    "ja": "ガリア帝国"
+   },
+   "summary": {
+    "en": "In 260 the commander Postumus was proclaimed emperor on the Rhine and founded a breakaway Gallic Empire that included Germania Inferior and the Roman part of the Low Countries. It defended the Rhine frontier against Frankish raids while rival emperors fought in Italy. In 274 Emperor Aurelian reunited it with the rest of the Roman Empire.",
+    "ko": "260년 라인강 방면의 지휘관 포스투무스가 황제로 추대되어 저지 게르마니아와 저지대의 로마 영역을 포함하는 분리 국가 갈리아 제국을 세웠다. 이 제국은 이탈리아에서 황제들이 다투는 동안 프랑크족의 침입으로부터 라인강 국경을 지켰다. 274년 아우렐리아누스 황제가 이를 다시 로마 제국에 통합했다.",
+    "zh": "260年，莱茵河前线的指挥官波斯图穆斯被拥立为皇帝，建立了包括下日耳曼尼亚和低地罗马辖区在内的分离政权高卢帝国。在意大利诸帝相争之际，它负责抵御法兰克人对莱茵河边境的袭扰。274年，奥勒良皇帝将其重新并入罗马帝国。",
+    "ja": "260年、ライン方面の司令官ポストゥムスが皇帝に推戴され、低地ゲルマニアと低地地方のローマ領を含む分離国家ガリア帝国を建てた。イタリアで皇帝たちが争う間、この国はフランク人の侵入からライン国境を守った。274年、アウレリアヌス帝がこれをローマ帝国に再統合した。"
+   }
+  },
+  {
+   "from": 358,
+   "to": 509,
+   "kind": "period",
+   "qid": "Q939852",
+   "polity": "Salian Franks",
+   "name": {
+    "en": "Salian Franks and the Migration Period",
+    "ko": "살리 프랑크족과 민족 대이동기",
+    "zh": "萨利安法兰克人与民族大迁徙时期",
+    "ja": "サリ族フランク人と民族移動期"
+   },
+   "summary": {
+    "en": "In 358 the Roman emperor Julian allowed the Salian Franks to settle in Toxandria, roughly today's North Brabant and the Belgian Campine, as federates. As Roman authority faded in the 5th century, Frankish groups expanded southwards and Anglo-Saxon and Frisian settlers repopulated the northern coast. The Salian kings eventually founded the Frankish kingdom under Clovis.",
+    "ko": "358년 로마 황제 율리아누스는 살리 프랑크족을 동맹 부족으로서 대략 오늘날의 노르트브라반트와 벨기에 캄피너 지방에 해당하는 톡산드리아에 정착하도록 허용했다. 5세기에 로마의 권위가 약해지자 프랑크 집단은 남쪽으로 세력을 넓혔고, 북부 해안에는 앵글로색슨인과 프리슬란트인 정착민들이 다시 들어와 살았다. 살리족의 왕들은 마침내 클로비스 아래에서 프랑크 왕국을 세웠다.",
+    "zh": "358年，罗马皇帝尤利安允许萨利安法兰克人作为同盟者定居于托克桑德里亚，大致相当于今天的北布拉班特和比利时坎彭地区。5世纪罗马权威衰退后，法兰克各部向南扩张，盎格鲁-撒克逊人和弗里斯兰移民则重新在北部沿海定居。萨利安诸王最终在克洛维治下建立了法兰克王国。",
+    "ja": "358年、ローマ皇帝ユリアヌスはサリ族フランク人を同盟部族として、おおよそ現在の北ブラバントとベルギーのカンピーヌ地方にあたるトクサンドリアに定住させた。5世紀にローマの権威が衰えると、フランク人の集団は南へ勢力を広げ、北部沿岸にはアングロ・サクソン人やフリース人の入植者が再び住み着いた。サリ族の王たちはやがてクローヴィスのもとでフランク王国を築いた。"
+   }
+  },
+  {
+   "from": 481,
+   "to": 843,
+   "kind": "state",
+   "qid": "Q146246",
+   "polity": "Kingdom of the Franks",
+   "name": {
+    "en": "Frankish Kingdom",
+    "ko": "프랑크 왕국",
+    "zh": "法兰克王国",
+    "ja": "フランク王国"
+   },
+   "summary": {
+    "en": "The Merovingian and then Carolingian Frankish kingdom gradually extended its power from the south over the whole of the Low Countries. Frankish rulers fought the Frisians for control of the Rhine delta and the trade centre of Dorestad, and supported missionaries such as Willibrord and Boniface who Christianised the region. Under Charlemagne the entire territory of today's Netherlands became part of the Carolingian Empire.",
+    "ko": "메로베우스 왕조와 이어진 카롤링거 왕조의 프랑크 왕국은 남쪽에서부터 저지대 전역으로 점차 세력을 넓혔다. 프랑크 군주들은 라인강 삼각주와 교역 중심지 도레스타트를 두고 프리슬란트인과 싸웠고, 이 지역을 기독교화한 빌리브로르트와 보니파키우스 같은 선교사들을 후원했다. 카롤루스 대제 치하에서 오늘날 네덜란드 영토 전체가 카롤링거 제국의 일부가 되었다.",
+    "zh": "墨洛温王朝及其后的加洛林王朝治下的法兰克王国，从南方逐步将势力扩展到整个低地。法兰克统治者为争夺莱茵河三角洲和贸易中心多雷斯塔德与弗里斯兰人交战，并支持威利布罗德、卜尼法斯等传教士在当地传播基督教。查理曼时期，今荷兰全境都成为加洛林帝国的一部分。",
+    "ja": "メロヴィング朝、続いてカロリング朝のフランク王国は、南から次第に低地地方全域へと勢力を広げた。フランクの君主たちはライン・デルタと交易の中心ドレスタットをめぐってフリース人と戦い、この地をキリスト教化したウィリブロルドやボニファティウスら宣教師を後押しした。カール大帝の時代、現在のオランダの全域がカロリング帝国の一部となった。"
+   }
+  },
+  {
+   "from": 600,
+   "to": 734,
+   "kind": "state",
+   "qid": "Q87791",
+   "polity": "Magna Frisia",
+   "name": {
+    "en": "Frisian Kingdom",
+    "ko": "프리슬란트 왕국",
+    "zh": "弗里斯兰王国",
+    "ja": "フリースラント王国"
+   },
+   "summary": {
+    "en": "In the 7th century Frisian kings such as Aldgisl and Redbad ruled a coastal realm stretching along the North Sea from the Zwin to the Weser, sometimes called Magna Frisia. Frisian merchants dominated North Sea trade through emporia such as Dorestad. The Franks pushed the Frisians back from the rivers around 690 and, after the Battle of the Boarn in 734, conquered the Frisian heartland west of the Lauwers.",
+    "ko": "7세기에 알트기슬과 레드바트 같은 프리슬란트 왕들은 북해 연안을 따라 즈빈강에서 베저강까지 뻗은 해안 왕국을 다스렸으며, 이를 흔히 '대프리슬란트'라고 부른다. 프리슬란트 상인들은 도레스타트 같은 교역지를 통해 북해 무역을 주도했다. 프랑크족은 690년경 프리슬란트인을 하천 지대에서 밀어냈고, 734년 보른강 전투 이후 라우어르스강 서쪽의 프리슬란트 중심지를 정복했다.",
+    "zh": "7世纪，阿尔德吉斯尔、雷德巴德等弗里斯兰国王统治着沿北海从兹温河延伸到威悉河的沿海王国，常被称为“大弗里斯兰”。弗里斯兰商人通过多雷斯塔德等商埠主导了北海贸易。约690年法兰克人将弗里斯兰人逐出河流地带，并在734年博尔讷河战役后征服了劳沃斯河以西的弗里斯兰腹地。",
+    "ja": "7世紀、アルドギスルやレドバッドらフリースラントの王たちは、北海沿岸に沿ってズウィン川からヴェーザー川まで広がる沿岸王国を治め、これはしばしば「大フリースラント」と呼ばれる。フリース人の商人はドレスタットなどの交易地を通じて北海交易を支配した。フランク人は690年頃にフリース人を河川地帯から押し返し、734年のボールネ川の戦いの後、ラウエルス川以西のフリースラントの中心地を征服した。"
+   }
+  },
+  {
+   "from": 841,
+   "to": 885,
+   "kind": "period",
+   "qid": null,
+   "polity": "Viking settlements",
+   "name": {
+    "en": "Viking raids and Danish lordships in Frisia",
+    "ko": "바이킹 침입과 프리슬란트의 데인인 영지",
+    "zh": "维京人袭掠与弗里斯兰的丹麦人领地",
+    "ja": "ヴァイキングの襲撃とフリースラントのデーン人領"
+   },
+   "summary": {
+    "en": "From the 830s Viking raiders repeatedly sacked Dorestad and other river towns. To defend the coast, Carolingian rulers granted parts of Frisia as fiefs to Danish chieftains such as Rorik and later Godfrid. This period of Danish lordship ended with the killing of Godfrid in 885, though Norse raids continued for some time.",
+    "ko": "830년대부터 바이킹은 도레스타트와 다른 하천 도시들을 거듭 약탈했다. 카롤링거 군주들은 해안을 방어하기 위해 프리슬란트 일부를 로리크, 이후 고드프리트 같은 데인인 족장들에게 봉토로 주었다. 이 데인인 지배기는 885년 고드프리트의 피살로 끝났으나, 노르드인의 습격은 한동안 계속되었다.",
+    "zh": "自830年代起，维京人屡次洗劫多雷斯塔德及其他河港城镇。为了守卫海岸，加洛林统治者把弗里斯兰的部分地区作为采邑封给罗里克以及后来的戈德弗里德等丹麦首领。这一丹麦人领主时期随着885年戈德弗里德被杀而结束，但北欧人的袭掠又持续了一段时间。",
+    "ja": "830年代以降、ヴァイキングはドレスタットや他の河川都市をたびたび略奪した。カロリング家の君主たちは沿岸を守るため、フリースラントの一部をロリク、のちにはゴドフリートといったデーン人の首長に封土として与えた。このデーン人支配の時代は885年のゴドフリートの殺害で終わったが、ノルド人の襲撃はしばらく続いた。"
+   }
+  },
+  {
+   "from": 843,
+   "to": 925,
+   "kind": "state",
+   "qid": "Q6673921",
+   "polity": "Middle Franks",
+   "name": {
+    "en": "Middle Francia and Lotharingia",
+    "ko": "중프랑크 왕국과 로타링기아",
+    "zh": "中法兰克王国与洛泰尔王国",
+    "ja": "中フランク王国とロタリンギア"
+   },
+   "summary": {
+    "en": "The Treaty of Verdun in 843 assigned the Low Countries east of the Scheldt to Lothair I's Middle Francia, and after 855 most of the area belonged to the kingdom of Lotharingia under his son Lothair II. The region was then contested between the East and West Frankish kings. In 925 Lotharingia, including the Dutch lands, was attached definitively to East Francia, the later German kingdom.",
+    "ko": "843년 베르됭 조약으로 스헬더강 동쪽의 저지대는 로타르 1세의 중프랑크 왕국에 배정되었고, 855년 이후 이 지역 대부분은 그의 아들 로타르 2세의 로타링기아 왕국에 속했다. 이후 이 지역은 동프랑크와 서프랑크 왕들 사이의 쟁탈 대상이 되었다. 925년 네덜란드 땅을 포함한 로타링기아는 훗날 독일 왕국이 되는 동프랑크에 최종적으로 귀속되었다.",
+    "zh": "843年《凡尔登条约》把斯海尔德河以东的低地划归洛泰尔一世的中法兰克王国；855年后，该地区大部分属于其子洛泰尔二世的洛泰尔王国（洛林）。此后这一地区成为东、西法兰克国王争夺的对象。925年，包括荷兰土地在内的洛泰尔王国最终归属东法兰克，即后来的德意志王国。",
+    "ja": "843年のヴェルダン条約により、スヘルデ川以東の低地地方はロタール1世の中フランク王国に割り当てられ、855年以降その大部分は息子ロタール2世のロタリンギア王国に属した。その後この地域は東西フランクの王の争奪の的となった。925年、オランダの地を含むロタリンギアは、のちのドイツ王国である東フランクに最終的に帰属した。"
+   }
+  },
+  {
+   "from": 880,
+   "to": 1433,
+   "kind": "state",
+   "qid": "Q762943",
+   "polity": "County of Holland",
+   "name": {
+    "en": "County of Holland and the territorial principalities",
+    "ko": "홀란트 백국과 영방 국가들",
+    "zh": "荷兰伯国与各领邦",
+    "ja": "ホラント伯国と諸領邦"
+   },
+   "summary": {
+    "en": "From the late 9th and 10th centuries a dynasty of counts based near Egmond and Vlaardingen built up the County of Holland, which with Zeeland became the leading power of the western coast. Alongside it rose the Prince-Bishopric of Utrecht, the Duchy of Guelders and Brabant's northern lands, while Friesland remained without a count in the period of 'Frisian freedom'. Land reclamation, water boards and growing towns such as Dordrecht, Leiden and Amsterdam transformed the delta.",
+    "ko": "9세기 말에서 10세기에 걸쳐 에흐몬트와 플라르딩언 부근을 기반으로 한 백작 가문이 홀란트 백국을 일으켰고, 이 백국은 제일란트와 함께 서부 해안의 주도 세력이 되었다. 그 곁에서 위트레흐트 주교령, 헬러 공국, 브라반트의 북부 영역이 성장했으며, 프리슬란트는 '프리슬란트의 자유' 시기에 백작 없는 상태로 남았다. 간척, 물관리 위원회, 그리고 도르드레흐트·레이던·암스테르담 같은 도시의 성장이 삼각주를 변화시켰다.",
+    "zh": "9世纪末至10世纪，一个以埃格蒙德和弗拉尔丁恩附近为根据地的伯爵家族建立了荷兰伯国，它与泽兰一起成为西部沿海的主导力量。与之并起的还有乌得勒支采邑主教区、海尔德兰公国和布拉班特的北部领地，而弗里斯兰在“弗里斯兰自由”时期始终没有伯爵统治。围垦造地、水务委员会以及多德雷赫特、莱顿、阿姆斯特丹等城市的兴起改变了三角洲的面貌。",
+    "ja": "9世紀末から10世紀にかけて、エフモントとフラールディンゲン付近を本拠とする伯の家系がホラント伯国を築き、ゼーラントとともに西部沿岸の有力勢力となった。その傍らでユトレヒト司教領、ヘルレ公国、ブラバントの北部領が台頭し、フリースラントは「フリースラントの自由」の時代に伯を持たないままであった。干拓、水管理委員会、そしてドルドレヒト、ライデン、アムステルダムなどの都市の成長がデルタを変えた。"
+   }
+  },
+  {
+   "from": 925,
+   "to": 961,
+   "kind": "state",
+   "qid": "Q175211",
+   "polity": "Kingdom of Germany",
+   "name": {
+    "en": "East Francia and the Kingdom of Germany",
+    "ko": "동프랑크와 독일 왕국",
+    "zh": "东法兰克与德意志王国",
+    "ja": "東フランクとドイツ王国"
+   },
+   "summary": {
+    "en": "After 925 the Dutch lands formed part of the Duchy of Lotharingia within the East Frankish, or German, kingdom of the Ottonian kings. Royal power was exercised through dukes, counts and the bishops of Utrecht, while local counts along the coast began to build up hereditary power. This framework passed directly into the Holy Roman Empire.",
+    "ko": "925년 이후 네덜란드 땅은 오토 왕조가 다스리는 동프랑크, 즉 독일 왕국 안의 로트링겐 공국의 일부가 되었다. 왕권은 공작·백작과 위트레흐트 주교를 통해 행사되었고, 해안 지방의 백작들은 세습 권력을 쌓아 가기 시작했다. 이 체제는 그대로 신성 로마 제국으로 이어졌다.",
+    "zh": "925年后，荷兰土地成为奥托王朝统治下的东法兰克（即德意志王国）内洛林公国的一部分。王权通过公爵、伯爵和乌得勒支主教来行使，沿海地方的伯爵则开始积累世袭权力。这一体制直接延续到了神圣罗马帝国。",
+    "ja": "925年以降、オランダの地はオットー朝の東フランク、すなわちドイツ王国の中のロートリンゲン公国の一部となった。王権は公・伯やユトレヒト司教を通じて行使され、沿岸の伯たちは世襲の権力を築き始めた。この枠組みはそのまま神聖ローマ帝国へと引き継がれた。"
+   }
+  },
+  {
+   "from": 962,
+   "to": 1648,
+   "kind": "state",
+   "qid": "Q12548",
+   "polity": "Holy Roman Empire",
+   "name": {
+    "en": "Holy Roman Empire",
+    "ko": "신성 로마 제국",
+    "zh": "神圣罗马帝国",
+    "ja": "神聖ローマ帝国"
+   },
+   "summary": {
+    "en": "For nearly seven centuries the Dutch lands belonged formally to the Holy Roman Empire, though real power passed to territorial princes: the counts of Holland, the bishops of Utrecht, the dukes of Guelders and Brabant, and the free Frisian lands. From the 15th century these principalities were united under Burgundian and then Habsburg rulers. The Peace of Westphalia in 1648 recognised the Dutch Republic's independence from the empire.",
+    "ko": "거의 7세기 동안 네덜란드 땅은 형식상 신성 로마 제국에 속했으나, 실권은 홀란트 백작, 위트레흐트 주교, 헬러 및 브라반트 공작, 그리고 자유 프리슬란트 지역 같은 영방 군주들에게 넘어갔다. 15세기부터 이 영방들은 부르고뉴 가문, 이어 합스부르크 가문 아래 통합되었다. 1648년 베스트팔렌 조약은 네덜란드 공화국의 제국으로부터의 독립을 인정했다.",
+    "zh": "近七个世纪里，荷兰土地在名义上属于神圣罗马帝国，但实权落入各领邦君主手中：荷兰伯爵、乌得勒支主教、海尔德兰和布拉班特公爵，以及自由的弗里斯兰地区。自15世纪起，这些邦国先后统一于勃艮第家族和哈布斯堡家族之下。1648年《威斯特伐利亚和约》承认荷兰共和国脱离帝国独立。",
+    "ja": "7世紀近くにわたってオランダの地は形式上神聖ローマ帝国に属したが、実権はホラント伯、ユトレヒト司教、ヘルレおよびブラバント公、自由なフリースラントといった領邦君主へと移った。15世紀からこれらの領邦はブルゴーニュ家、続いてハプスブルク家のもとに統合された。1648年のヴェストファーレン条約は、ネーデルラント連邦共和国の帝国からの独立を認めた。"
+   }
+  },
+  {
+   "from": 1428,
+   "to": 1482,
+   "kind": "state",
+   "qid": null,
+   "polity": "Duchy of Burgundy",
+   "name": {
+    "en": "Burgundian Netherlands",
+    "ko": "부르고뉴령 네덜란드",
+    "zh": "勃艮第尼德兰",
+    "ja": "ブルゴーニュ領ネーデルラント"
+   },
+   "summary": {
+    "en": "The Valois dukes of Burgundy gathered most of the Low Countries under one ruler: Philip the Good acquired Holland and Zeeland between 1428 and 1433, and his son Charles the Bold took Guelders. They created common institutions, notably the States General first summoned in 1464. After Charles's death in 1477 his daughter Mary married Maximilian of Austria, bringing the Netherlands to the House of Habsburg.",
+    "ko": "발루아 가문의 부르고뉴 공작들은 저지대 대부분을 한 군주 아래 모았다. 선량공 필리프는 1428~1433년 홀란트와 제일란트를 손에 넣었고, 아들 용담공 샤를은 헬러를 차지했다. 이들은 1464년 처음 소집된 전국의회 같은 공동 기구를 만들었다. 1477년 샤를이 죽자 딸 마리가 오스트리아의 막시밀리안과 결혼하면서 네덜란드는 합스부르크 가문에 넘어갔다.",
+    "zh": "瓦卢瓦王朝的勃艮第公爵们将低地大部分地区聚合在一位君主之下：“好人”菲利普于1428至1433年间取得荷兰与泽兰，其子“大胆”查理又夺得海尔德兰。他们建立了共同机构，尤其是1464年首次召开的三级会议（国会）。1477年查理死后，其女玛丽嫁给奥地利的马克西米利安，尼德兰由此转归哈布斯堡家族。",
+    "ja": "ヴァロワ家のブルゴーニュ公たちは低地地方の大部分を一人の君主のもとに集めた。フィリップ善良公は1428～1433年にホラントとゼーラントを獲得し、その子シャルル突進公はヘルレを手に入れた。彼らは1464年に初めて召集された全国議会などの共通機関を設けた。1477年にシャルルが死ぬと、娘マリーがオーストリアのマクシミリアンと結婚し、ネーデルラントはハプスブルク家に移った。"
+   }
+  },
+  {
+   "from": 1482,
+   "to": 1581,
+   "kind": "state",
+   "qid": null,
+   "polity": "House of Habsburg",
+   "name": {
+    "en": "Habsburg Netherlands: the Seventeen Provinces",
+    "ko": "합스부르크령 네덜란드: 17주",
+    "zh": "哈布斯堡尼德兰：十七省",
+    "ja": "ハプスブルク領ネーデルラント：十七州"
+   },
+   "summary": {
+    "en": "Under Maximilian, Philip the Fair and above all Charles V, the Habsburgs completed the union of the Low Countries, adding Friesland, Utrecht, Groningen and Guelders and joining them as the Seventeen Provinces by the Pragmatic Sanction of 1549. After 1555 Philip II of Spain ruled them from Madrid. Heavy taxation, the persecution of Protestants and the curtailing of local privileges led to the iconoclastic fury of 1566 and the Dutch Revolt of 1568.",
+    "ko": "막시밀리안, 미남공 필리프, 특히 카를 5세 치하에서 합스부르크 가문은 프리슬란트, 위트레흐트, 흐로닝언, 헬러를 더해 저지대 통합을 완성하고, 1549년 국사조칙으로 이들을 17주로 묶었다. 1555년 이후에는 스페인의 펠리페 2세가 마드리드에서 이들을 다스렸다. 과중한 세금, 신교도 박해, 지방 특권의 축소는 1566년 성상 파괴 운동과 1568년 네덜란드 반란으로 이어졌다.",
+    "zh": "在马克西米利安、“美男子”腓力尤其是查理五世治下，哈布斯堡家族增添了弗里斯兰、乌得勒支、格罗宁根和海尔德兰，完成了低地的统一，并以1549年的《国事诏书》将其结为十七省。1555年后，西班牙的腓力二世从马德里统治这些省份。沉重的赋税、对新教徒的迫害以及对地方特权的削减，引发了1566年的破坏圣像运动和1568年的尼德兰起义。",
+    "ja": "マクシミリアン、フィリップ美公、とりわけカール5世のもとで、ハプスブルク家はフリースラント、ユトレヒト、フローニンゲン、ヘルレを加えて低地地方の統合を完成させ、1549年の国事詔書によって十七州としてまとめた。1555年以降はスペイン王フェリペ2世がマドリードから統治した。重税、プロテスタントへの迫害、地方特権の縮小が、1566年の聖像破壊運動と1568年のオランダ反乱を招いた。"
+   }
+  },
+  {
+   "from": 1568,
+   "to": 1648,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Eighty Years' War",
+    "ko": "80년 전쟁",
+    "zh": "八十年战争",
+    "ja": "八十年戦争"
+   },
+   "summary": {
+    "en": "The revolt of the Low Countries against Spanish Habsburg rule, led at first by William of Orange, lasted with interruptions from 1568 to 1648. The northern provinces allied in the Union of Utrecht in 1579, renounced Philip II in 1581 and became a republic, while the south was reconquered by Spain. The war, interrupted by the Twelve Years' Truce of 1609–1621, ended with Spain's recognition of Dutch independence in the Peace of Münster.",
+    "ko": "처음에는 오라녜 공 빌럼이 이끈 저지대의 스페인 합스부르크 지배에 대한 반란은 중단을 거치며 1568년부터 1648년까지 이어졌다. 북부 주들은 1579년 위트레흐트 동맹을 맺고 1581년 펠리페 2세를 거부하여 공화국이 되었으나, 남부는 스페인에 재정복되었다. 1609~1621년 12년 휴전으로 중단되기도 했던 이 전쟁은 뮌스터 조약에서 스페인이 네덜란드의 독립을 인정하면서 끝났다.",
+    "zh": "低地人民反抗西班牙哈布斯堡统治的起义最初由奥兰治的威廉领导，时断时续地从1568年持续到1648年。北方各省于1579年结成乌得勒支同盟，1581年废黜腓力二世而成为共和国，南方则被西班牙重新征服。这场曾被1609至1621年“十二年休战”打断的战争，最终以西班牙在《明斯特和约》中承认荷兰独立而告终。",
+    "ja": "当初オラニエ公ウィレムに率いられた低地地方のスペイン・ハプスブルク支配に対する反乱は、中断を挟みつつ1568年から1648年まで続いた。北部諸州は1579年にユトレヒト同盟を結び、1581年にフェリペ2世を廃して共和国となったが、南部はスペインに再征服された。1609～1621年の十二年休戦で中断したこの戦争は、ミュンスター条約でスペインがオランダの独立を認めて終結した。"
+   }
+  },
+  {
+   "from": 1581,
+   "to": 1795,
+   "kind": "state",
+   "qid": "Q170072",
+   "polity": "Dutch Republic",
+   "name": {
+    "en": "Dutch Republic",
+    "ko": "네덜란드 공화국",
+    "zh": "荷兰共和国",
+    "ja": "ネーデルラント連邦共和国"
+   },
+   "summary": {
+    "en": "The Republic of the Seven United Netherlands was a confederation of provinces governed by the States General and provincial States, with the Princes of Orange often serving as stadtholders. In the 17th century it became Europe's leading commercial and maritime power, with a global trading network built by the VOC and WIC. Wars with England and France, rivalry between Orangists and republicans, and economic stagnation weakened it in the 18th century until French revolutionary armies overthrew it in 1795.",
+    "ko": "7주 연합 네덜란드 공화국은 전국의회와 각 주의회가 다스리는 주들의 연합체로, 오라녜 공들이 흔히 총독(스타트하우더르)을 맡았다. 17세기에 공화국은 VOC와 WIC가 구축한 세계적 교역망을 바탕으로 유럽 최고의 상업·해양 강국이 되었다. 18세기에는 영국·프랑스와의 전쟁, 오라녜파와 공화파의 대립, 경제 정체로 약해졌고, 1795년 프랑스 혁명군에 의해 무너졌다.",
+    "zh": "七省联合共和国是由三级会议和各省议会治理的省份联邦，奥兰治亲王常出任执政。17世纪，凭借荷兰东印度公司和西印度公司建立的全球贸易网络，共和国成为欧洲首屈一指的商业与海上强国。18世纪，与英法的战争、奥兰治派与共和派的对立以及经济停滞使其日渐衰弱，直至1795年被法国革命军推翻。",
+    "ja": "七州連合共和国は全国議会と各州議会が治める諸州の連合体で、オラニエ公がしばしば総督（スタットハウダー）を務めた。17世紀にはVOCとWICが築いた世界的な交易網によって、ヨーロッパ随一の商業・海洋大国となった。18世紀には英仏との戦争、オラニエ派と共和派の対立、経済の停滞によって弱体化し、1795年にフランス革命軍によって倒された。"
+   }
+  },
+  {
+   "from": 1588,
+   "to": 1672,
+   "kind": "period",
+   "qid": "Q661566",
+   "polity": null,
+   "name": {
+    "en": "Dutch Golden Age",
+    "ko": "네덜란드 황금시대",
+    "zh": "荷兰黄金时代",
+    "ja": "オランダ黄金時代"
+   },
+   "summary": {
+    "en": "Roughly the 17th century, the Dutch Golden Age saw the small Republic dominate world trade, finance and shipping, with Amsterdam as Europe's commercial hub. Painters such as Rembrandt, Frans Hals and Johannes Vermeer, scientists such as Christiaan Huygens and Antonie van Leeuwenhoek, and thinkers such as Grotius and Spinoza flourished in a relatively tolerant society. Its wealth also rested on colonial expansion, including the slave trade and plantation slavery overseas.",
+    "ko": "대체로 17세기에 해당하는 네덜란드 황금시대에 작은 공화국은 세계의 교역·금융·해운을 주도했고, 암스테르담은 유럽 상업의 중심이 되었다. 비교적 관용적인 사회 속에서 렘브란트, 프란스 할스, 요하네스 페르메이르 같은 화가, 크리스티안 하위헌스와 안토니 판 레이우엔훅 같은 과학자, 흐로티우스와 스피노자 같은 사상가가 활약했다. 그 부는 해외의 노예무역과 플랜테이션 노예제를 포함한 식민지 확장에도 기대고 있었다.",
+    "zh": "荷兰黄金时代大致相当于17世纪，这个小小的共和国主导了世界贸易、金融和航运，阿姆斯特丹成为欧洲的商业中心。在相对宽容的社会中，伦勃朗、弗兰斯·哈尔斯、约翰内斯·维米尔等画家，克里斯蒂安·惠更斯、安东尼·范·列文虎克等科学家，以及格劳秀斯、斯宾诺莎等思想家大放异彩。其财富也建立在殖民扩张之上，包括海外的奴隶贸易和种植园奴隶制。",
+    "ja": "おおむね17世紀にあたるオランダ黄金時代、小さな共和国は世界の交易・金融・海運を支配し、アムステルダムはヨーロッパの商業の中心となった。比較的寛容な社会の中で、レンブラント、フランス・ハルス、ヨハネス・フェルメールらの画家、クリスティアーン・ホイヘンスやアントニ・ファン・レーウェンフックらの科学者、グロティウスやスピノザらの思想家が活躍した。その富は、海外での奴隷貿易やプランテーション奴隷制を含む植民地拡大にも支えられていた。"
+   }
+  },
+  {
+   "from": 1795,
+   "to": 1806,
+   "kind": "state",
+   "qid": "Q188553",
+   "polity": "Batavian Republic",
+   "name": {
+    "en": "Batavian Republic",
+    "ko": "바타비아 공화국",
+    "zh": "巴达维亚共和国",
+    "ja": "バタヴィア共和国"
+   },
+   "summary": {
+    "en": "After French revolutionary armies and Dutch Patriots overthrew the stadtholderate in 1795, the Batavian Republic was proclaimed as a sister republic of France. It replaced the old confederation with a unitary state under the constitution of 1798, separated church and state and introduced national institutions. Its independence was limited by French control and heavy financial demands.",
+    "ko": "1795년 프랑스 혁명군과 네덜란드 애국파가 총독제를 무너뜨린 뒤, 프랑스의 자매 공화국으로 바타비아 공화국이 선포되었다. 공화국은 1798년 헌법으로 옛 연합체를 단일 국가로 바꾸고 정교를 분리했으며 전국 단위 제도를 도입했다. 그러나 독립성은 프랑스의 통제와 과중한 재정 요구로 제한되었다.",
+    "zh": "1795年法国革命军与荷兰爱国者推翻执政制度后，巴达维亚共和国作为法国的姊妹共和国宣告成立。共和国依据1798年宪法以单一制国家取代旧邦联，实行政教分离并建立全国性制度。但其独立性受到法国控制和沉重财政索取的限制。",
+    "ja": "1795年にフランス革命軍とオランダの愛国派が総督制を倒した後、フランスの姉妹共和国としてバタヴィア共和国が宣言された。共和国は1798年憲法で旧来の連合体を単一国家に改め、政教分離を行い、全国的な制度を導入した。しかしその独立はフランスの統制と重い財政負担によって制限されていた。"
+   }
+  },
+  {
+   "from": 1806,
+   "to": 1810,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Holland",
+    "ko": "홀란트 왕국",
+    "zh": "荷兰王国（拿破仑时期）",
+    "ja": "ホラント王国"
+   },
+   "summary": {
+    "en": "In 1806 Napoleon made his brother Louis Bonaparte King of Holland. Louis tried to act in Dutch interests, learning the language and resisting some French demands, including strict enforcement of the Continental System. Displeased, Napoleon forced him to abdicate in 1810 and annexed the country.",
+    "ko": "1806년 나폴레옹은 동생 루이 보나파르트를 홀란트 왕으로 세웠다. 루이는 네덜란드어를 배우고 대륙 봉쇄령의 엄격한 시행 등 프랑스의 일부 요구에 저항하며 네덜란드의 이익을 위해 행동하려 했다. 이에 불만을 품은 나폴레옹은 1810년 그를 퇴위시키고 나라를 병합했다.",
+    "zh": "1806年，拿破仑立其弟路易·波拿巴为荷兰国王。路易学习荷兰语，并抵制法国的部分要求，包括严格执行大陆封锁政策，试图维护荷兰利益。拿破仑对此不满，于1810年迫使他退位并吞并了这个国家。",
+    "ja": "1806年、ナポレオンは弟ルイ・ボナパルトをホラント王に据えた。ルイはオランダ語を学び、大陸封鎖令の厳格な実施などフランスの要求の一部に抵抗して、オランダの利益のために行動しようとした。これに不満を抱いたナポレオンは1810年に彼を退位させ、国を併合した。"
+   }
+  },
+  {
+   "from": 1810,
+   "to": 1813,
+   "kind": "state",
+   "qid": "Q71084",
+   "polity": "First French Empire",
+   "name": {
+    "en": "Annexation to the French Empire",
+    "ko": "프랑스 제국에의 병합",
+    "zh": "并入法兰西帝国",
+    "ja": "フランス帝国への併合"
+   },
+   "summary": {
+    "en": "From 1810 to 1813 the Netherlands was part of Napoleon's First French Empire. French administration introduced conscription, new taxes, the Napoleonic legal codes and a civil registry, while the Continental System devastated Dutch trade. When Napoleon's power collapsed in 1813, a provisional government invited the Prince of Orange to return.",
+    "ko": "1810년부터 1813년까지 네덜란드는 나폴레옹의 프랑스 제1제국의 일부였다. 프랑스 행정은 징병제, 새로운 세금, 나폴레옹 법전과 민적 등록 제도를 도입했고, 대륙 봉쇄령은 네덜란드의 교역을 황폐화시켰다. 1813년 나폴레옹의 권력이 무너지자 임시 정부는 오라녜 공에게 귀국을 요청했다.",
+    "zh": "1810年至1813年，荷兰是拿破仑法兰西第一帝国的一部分。法国当局推行征兵制、新税、拿破仑法典和民事登记制度，而大陆封锁政策重创了荷兰贸易。1813年拿破仑势力崩溃后，临时政府邀请奥兰治亲王回国。",
+    "ja": "1810年から1813年まで、オランダはナポレオンのフランス第一帝政の一部であった。フランスの行政は徴兵制、新たな税、ナポレオン法典と戸籍制度を導入し、大陸封鎖令はオランダの交易に壊滅的打撃を与えた。1813年にナポレオンの権力が崩れると、臨時政府はオラニエ公に帰国を要請した。"
+   }
+  },
+  {
+   "from": 1813,
+   "to": 1815,
+   "kind": "state",
+   "qid": "Q774783",
+   "polity": "Sovereign Principality of the United Netherlands",
+   "name": {
+    "en": "Sovereign Principality of the United Netherlands",
+    "ko": "연합 네덜란드 주권공국",
+    "zh": "联合尼德兰主权公国",
+    "ja": "ネーデルラント連合主権公国"
+   },
+   "summary": {
+    "en": "After the uprising against French rule in November 1813, William Frederick of Orange-Nassau returned and was proclaimed Sovereign Prince. A new constitution in 1814 created a unitary monarchy. In 1815 the principality was merged with the southern Netherlands into the United Kingdom of the Netherlands.",
+    "ko": "1813년 11월 프랑스 지배에 맞선 봉기 이후, 오라녜나사우 가문의 빌럼 프레데릭이 돌아와 주권공으로 선포되었다. 1814년 새 헌법은 단일 군주국을 세웠다. 1815년 이 공국은 남부 네덜란드와 합쳐 네덜란드 연합왕국이 되었다.",
+    "zh": "1813年11月反抗法国统治的起义之后，奥兰治-拿骚家族的威廉·弗雷德里克回国并被宣布为主权亲王。1814年的新宪法建立了单一制君主国。1815年，该公国与南尼德兰合并为尼德兰联合王国。",
+    "ja": "1813年11月のフランス支配に対する蜂起の後、オラニエ＝ナッサウ家のウィレム・フレデリックが帰国し、主権君主として宣言された。1814年の新憲法は単一の君主国を樹立した。1815年、この公国は南ネーデルラントと合わさってネーデルラント連合王国となった。"
+   }
+  },
+  {
+   "from": 1815,
+   "to": 1839,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "United Kingdom of the Netherlands",
+    "ko": "네덜란드 연합왕국",
+    "zh": "尼德兰联合王国",
+    "ja": "ネーデルラント連合王国"
+   },
+   "summary": {
+    "en": "The Congress of Vienna united the northern and southern Netherlands under King William I as a buffer against France. The energetic king promoted canals, industry and trade, but the largely Catholic, partly French-speaking south resented northern dominance, language policy and religious measures. The Belgian Revolution of 1830 split the kingdom, and William I accepted Belgian independence only in 1839.",
+    "ko": "빈 회의는 프랑스에 대한 완충지로서 북부와 남부 네덜란드를 국왕 빌럼 1세 아래 통합했다. 정력적인 국왕은 운하·산업·교역을 장려했으나, 가톨릭이 대다수이고 일부가 프랑스어를 쓰는 남부는 북부의 우위와 언어 정책, 종교 조치에 반발했다. 1830년 벨기에 혁명으로 왕국은 갈라졌고, 빌럼 1세는 1839년에야 벨기에 독립을 받아들였다.",
+    "zh": "维也纳会议将南北尼德兰统一于国王威廉一世之下，作为对法国的缓冲。这位精力充沛的国王大力发展运河、工业和贸易，但以天主教徒为主、部分讲法语的南方不满北方的支配地位、语言政策和宗教措施。1830年比利时革命使王国分裂，威廉一世直到1839年才接受比利时独立。",
+    "ja": "ウィーン会議は、フランスに対する緩衝国として南北ネーデルラントを国王ウィレム1世のもとに統合した。精力的な国王は運河・産業・交易を振興したが、カトリックが多数を占め一部がフランス語を話す南部は、北部の優位、言語政策、宗教上の措置に反発した。1830年のベルギー革命で王国は分裂し、ウィレム1世は1839年になってようやくベルギーの独立を受け入れた。"
+   }
+  },
+  {
+   "from": 1839,
+   "to": 1866,
+   "kind": "state",
+   "qid": "Q376009",
+   "polity": null,
+   "name": {
+    "en": "Duchy of Limburg",
+    "ko": "림뷔르흐 공국",
+    "zh": "林堡公国",
+    "ja": "リンブルフ公国"
+   },
+   "summary": {
+    "en": "After the 1839 Treaty of London divided Limburg, its eastern part, today's Dutch province of Limburg, became the Duchy of Limburg. It was ruled by the Dutch king but, apart from Maastricht and Venlo, was also a member of the German Confederation. The arrangement ended with the dissolution of the Confederation in 1866, and the 1867 Treaty of London confirmed Limburg as part of the Netherlands.",
+    "ko": "1839년 런던 조약으로 림뷔르흐가 분할된 뒤, 그 동부, 즉 오늘날 네덜란드의 림뷔르흐주는 림뷔르흐 공국이 되었다. 공국은 네덜란드 국왕이 다스렸지만 마스트리흐트와 펜로를 제외하고 독일 연방의 회원이기도 했다. 이 체제는 1866년 독일 연방의 해체로 끝났고, 1867년 런던 조약은 림뷔르흐가 네덜란드의 일부임을 확인했다.",
+    "zh": "1839年《伦敦条约》分割林堡后，其东部，即今天荷兰的林堡省，成为林堡公国。公国由荷兰国王统治，但除马斯特里赫特和芬洛外，同时也是德意志邦联的成员。这一安排随1866年德意志邦联解体而结束，1867年的《伦敦条约》确认林堡属于荷兰。",
+    "ja": "1839年のロンドン条約でリンブルフが分割された後、その東部、すなわち現在のオランダのリンブルフ州はリンブルフ公国となった。公国はオランダ国王が統治したが、マーストリヒトとフェンローを除きドイツ連邦の構成国でもあった。この体制は1866年のドイツ連邦解体で終わり、1867年のロンドン条約でリンブルフがオランダの一部であることが確認された。"
+   }
+  },
+  {
+   "from": 1839,
+   "to": 1939,
+   "kind": "state",
+   "qid": "Q29999",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of the Netherlands: liberal monarchy and pillarisation",
+    "ko": "네덜란드 왕국: 자유주의 군주정과 기둥화",
+    "zh": "荷兰王国：自由主义君主制与“柱化”社会",
+    "ja": "オランダ王国：自由主義の君主制と柱状化"
+   },
+   "summary": {
+    "en": "After Belgium's secession the Netherlands became a constitutional monarchy whose 1848 constitution established ministerial responsibility to parliament. Railways, canals, ports and industry modernised the economy, while the colonial empire in the East Indies, Suriname and the Caribbean continued. Society divided into Protestant, Catholic, socialist and liberal 'pillars', and the 1917 Pacification brought universal suffrage and equal funding for religious schools; the country stayed neutral in the First World War.",
+    "ko": "벨기에가 분리된 뒤 네덜란드는 입헌 군주국이 되었고, 1848년 헌법은 의회에 대한 내각의 책임을 확립했다. 철도·운하·항만·산업이 경제를 근대화했으며, 동인도·수리남·카리브해의 식민 제국은 계속 유지되었다. 사회는 개신교·가톨릭·사회주의·자유주의의 '기둥'으로 나뉘었고, 1917년 '평화 협정'은 보통선거와 종교계 학교에 대한 동등한 재정 지원을 가져왔다. 네덜란드는 제1차 세계대전에서 중립을 지켰다.",
+    "zh": "比利时分离后，荷兰成为君主立宪国，1848年宪法确立了内阁对议会负责的原则。铁路、运河、港口和工业推动了经济现代化，而在东印度、苏里南和加勒比的殖民帝国依然延续。社会分化为新教、天主教、社会主义和自由主义等“支柱”，1917年的“和解”带来了普选权和宗教学校的平等资助；荷兰在第一次世界大战中保持中立。",
+    "ja": "ベルギーの分離後、オランダは立憲君主国となり、1848年憲法は議会に対する内閣の責任を確立した。鉄道・運河・港湾・工業が経済を近代化させ、東インド、スリナム、カリブ海の植民地帝国は存続した。社会はプロテスタント、カトリック、社会主義、自由主義の「柱」に分かれ、1917年の「和平」は普通選挙と宗派学校への平等な財政支援をもたらした。オランダは第一次世界大戦で中立を保った。"
+   }
+  },
+  {
+   "from": 1940,
+   "to": 1945,
+   "kind": "period",
+   "qid": null,
+   "polity": "Nazi Germany",
+   "name": {
+    "en": "German occupation in World War II",
+    "ko": "제2차 세계대전 중 독일 점령기",
+    "zh": "第二次世界大战中的德国占领时期",
+    "ja": "第二次世界大戦期のドイツ占領"
+   },
+   "summary": {
+    "en": "After the German invasion of May 1940 the Netherlands was governed by a German civil administration under Reichskommissar Arthur Seyss-Inquart, while Queen Wilhelmina and the government led resistance from exile in London. The occupiers deported the great majority of Dutch Jews to their deaths, conscripted forced labour and suppressed strikes and resistance. The south was liberated in autumn 1944, the west suffered the Hunger Winter, and the German forces in the Netherlands surrendered in May 1945.",
+    "ko": "1940년 5월 독일의 침공 후 네덜란드는 제국판무관 아르투어 자이스잉크바르트가 이끄는 독일 민정 아래 놓였고, 빌헬미나 여왕과 정부는 런던 망명지에서 저항을 이끌었다. 점령군은 네덜란드 유대인 대다수를 죽음으로 내몰아 이송했고, 강제 노동을 징발했으며 파업과 저항을 탄압했다. 남부는 1944년 가을 해방되었으나 서부는 '굶주림의 겨울'을 겪었고, 네덜란드 주둔 독일군은 1945년 5월 항복했다.",
+    "zh": "1940年5月德国入侵后，荷兰由帝国专员阿图尔·赛斯-英夸特领导的德国民政当局统治，威廉明娜女王和政府则在伦敦流亡中领导抵抗。占领者将绝大多数荷兰犹太人遣送致死，强征劳工，并镇压罢工和抵抗运动。南部于1944年秋获得解放，西部则经历了“饥饿冬天”，驻荷德军于1945年5月投降。",
+    "ja": "1940年5月のドイツの侵攻後、オランダは国家弁務官アルトゥル・ザイス＝インクヴァルトの率いるドイツの民政下に置かれ、ウィルヘルミナ女王と政府はロンドンの亡命先から抵抗を指導した。占領者はオランダのユダヤ人の大多数を死へと移送し、強制労働を課し、ストライキと抵抗を弾圧した。南部は1944年秋に解放されたが、西部は「飢餓の冬」に苦しみ、オランダのドイツ軍は1945年5月に降伏した。"
+   }
+  },
+  {
+   "from": 1945,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q55",
+   "polity": "Netherlands",
+   "name": {
+    "en": "Postwar Netherlands",
+    "ko": "전후의 네덜란드",
+    "zh": "战后的荷兰",
+    "ja": "戦後のオランダ"
+   },
+   "summary": {
+    "en": "After liberation the Netherlands rebuilt its economy, constructed a broad welfare state and lost most of its colonial empire with the independence of Indonesia in 1949 and Suriname in 1975. It became a founding member of NATO, Benelux and the European communities, and the Delta Works protected the low-lying country after the 1953 flood. Since the 1960s secularisation and depillarisation produced a liberal society known for pioneering policies on drugs, euthanasia and same-sex marriage, while debates over immigration and integration have reshaped politics in the 21st century.",
+    "ko": "해방 후 네덜란드는 경제를 재건하고 폭넓은 복지 국가를 세웠으며, 1949년 인도네시아와 1975년 수리남의 독립으로 식민 제국 대부분을 잃었다. NATO, 베네룩스, 유럽 공동체의 창설 회원국이 되었고, 1953년 홍수 이후 델타 공사가 저지대 국토를 지켰다. 1960년대 이후 세속화와 '기둥'의 해체는 마약·안락사·동성결혼 정책에서 선구적인 자유주의 사회를 낳았고, 21세기에는 이민과 통합을 둘러싼 논쟁이 정치 지형을 바꾸어 놓았다.",
+    "zh": "解放后，荷兰重建经济，建立了广泛的福利国家，并随着1949年印度尼西亚和1975年苏里南的独立而失去了大部分殖民帝国。它成为北约、比荷卢联盟和欧洲共同体的创始成员，1953年洪灾后修建的三角洲工程保护着这个低地国家。20世纪60年代以来的世俗化和“去柱化”造就了一个在毒品、安乐死和同性婚姻政策上领先的自由社会，而21世纪围绕移民与融合的争论重塑了政治格局。",
+    "ja": "解放後、オランダは経済を再建して幅広い福祉国家を築き、1949年のインドネシア、1975年のスリナムの独立によって植民地帝国の大半を失った。NATO、ベネルクス、欧州共同体の原加盟国となり、1953年の洪水後に建設されたデルタ計画が低地の国土を守った。1960年代以降の世俗化と「柱」の解体は、薬物・安楽死・同性婚の政策で先駆的なリベラル社会を生み、21世紀には移民と統合をめぐる論争が政治の姿を大きく変えた。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3400,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Hunebedden: megalithic tombs of Drenthe",
+    "ko": "드렌터의 거석 무덤 '휘너베드'",
+    "zh": "德伦特的巨石墓“巨人床”",
+    "ja": "ドレンテの巨石墓フーネベッド"
+   },
+   "description": {
+    "en": "From around 3400 BC farmers of the Funnelbeaker culture built large collective tombs from glacial boulders on the sandy ridges of Drenthe and Groningen. Some 54 of these hunebedden survive in the Netherlands, the largest near Borger. They are the oldest standing monuments in the country and show that settled farming communities had taken root in the north.",
+    "ko": "기원전 3400년경부터 깔때기 비커 문화의 농경민들은 드렌터와 흐로닝언의 모래 구릉 위에 빙하가 남긴 거석으로 대형 공동 무덤을 쌓았다. 네덜란드에는 이런 휘너베드가 약 54기 남아 있으며 가장 큰 것은 보르허르 부근에 있다. 이는 네덜란드에서 가장 오래된 현존 기념물로, 북부에 정착 농경 공동체가 뿌리내렸음을 보여 준다.",
+    "zh": "约自公元前3400年起，漏斗颈陶文化的农民在德伦特和格罗宁根的沙岗上用冰川漂砾修建大型集体墓葬。荷兰现存约54座这样的“巨人床”，最大的一座位于博赫尔附近。它们是荷兰现存最古老的建筑遗迹，表明定居农业社群已在北方扎根。",
+    "ja": "紀元前3400年頃から、漏斗状ビーカー文化の農耕民はドレンテとフローニンゲンの砂丘の上に、氷河が運んだ巨石で大きな共同墓を築いた。オランダにはこうしたフーネベッドが約54基残り、最大のものはボルヘル近くにある。これらは国内最古の現存する記念物で、北部に定住農耕社会が根付いたことを示している。"
+   }
+  },
+  {
+   "year": -2900,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Single Grave culture",
+    "ko": "단독묘 문화",
+    "zh": "单墓文化",
+    "ja": "単葬墓文化"
+   },
+   "description": {
+    "en": "Around 2900 BC the Single Grave culture, part of the wider Corded Ware horizon, spread across the northern and central Netherlands. Instead of collective tombs, individuals were buried under small mounds with battle-axes and beakers. The shift is often linked to new social structures and a more mobile, pastoral way of life.",
+    "ko": "기원전 2900년경 더 넓은 승문 토기 문화권의 일부인 단독묘 문화가 네덜란드 북부와 중부에 퍼졌다. 공동 무덤 대신 개인이 전투 도끼와 비커 토기와 함께 작은 봉분 아래 묻혔다. 이러한 변화는 흔히 새로운 사회 구조와 보다 이동성이 큰 목축 생활과 연관된다.",
+    "zh": "约公元前2900年，属于更广泛的绳纹陶文化圈的单墓文化扩展到荷兰北部和中部。人们不再使用集体墓葬，而是将个人与战斧和陶杯一起葬于小土丘之下。这一转变通常被认为与新的社会结构和更具流动性的畜牧生活方式有关。",
+    "ja": "紀元前2900年頃、より広い縄目文土器文化圏の一部である単葬墓文化がオランダ北部と中部に広がった。共同墓に代わり、個人が戦斧やビーカーとともに小さな墳丘の下に葬られるようになった。この変化はしばしば新たな社会構造や、より移動性の高い牧畜的な生活と結びつけられる。"
+   }
+  },
+  {
+   "year": -2500,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Bell Beaker culture in the delta",
+    "ko": "삼각주의 종형 비커 문화",
+    "zh": "三角洲的钟形杯文化",
+    "ja": "デルタの鐘状ビーカー文化"
+   },
+   "description": {
+    "en": "From about 2500 BC the Bell Beaker culture appeared in the Netherlands, bringing distinctive decorated drinking vessels, archery equipment and the first copper and gold objects. Some archaeologists have argued that the beaker style partly developed out of the local Single Grave tradition of the lower Rhine. The culture linked the delta to a network reaching from Iberia to Central Europe and Britain.",
+    "ko": "기원전 2500년경부터 네덜란드에 종형 비커 문화가 나타나 특유의 장식 토기 잔, 활쏘기 도구, 최초의 구리·금 제품을 가져왔다. 일부 고고학자들은 이 비커 양식이 라인강 하류의 단독묘 전통에서 부분적으로 발전했다고 주장해 왔다. 이 문화는 삼각주를 이베리아에서 중부 유럽과 브리튼까지 이어지는 교류망에 연결했다.",
+    "zh": "约自公元前2500年起，钟形杯文化出现在荷兰，带来了独特的装饰饮器、射箭用具以及最早的铜器和金器。一些考古学家认为，钟形杯风格部分源自莱茵河下游本地的单墓文化传统。这一文化将三角洲纳入了从伊比利亚延伸到中欧和不列颠的交流网络。",
+    "ja": "紀元前2500年頃からオランダに鐘状ビーカー文化が現れ、特徴的な装飾付きの杯、弓矢の道具、最初の銅や金の製品をもたらした。一部の考古学者は、このビーカー様式がライン川下流の在地の単葬墓文化の伝統から部分的に発展したと論じている。この文化はデルタを、イベリアから中央ヨーロッパ、ブリテンにまで及ぶ交流網に結びつけた。"
+   }
+  },
+  {
+   "year": -1500,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Bronze Age farmsteads of the Elp culture",
+    "ko": "엘프 문화의 청동기 농가",
+    "zh": "埃尔普文化的青铜时代农庄",
+    "ja": "エルプ文化の青銅器時代の農場"
+   },
+   "description": {
+    "en": "By the middle of the 2nd millennium BC people of the Elp culture in the north-east lived in long timber farmhouses where families and cattle shared one building, a form that persisted in the region for millennia. They raised burial mounds on the heath and obtained bronze through trade. In West Frisia, excavations have revealed densely occupied Bronze Age fields, ditches and farms.",
+    "ko": "기원전 2천년기 중엽 무렵 북동부 엘프 문화 사람들은 가족과 가축이 한 건물을 함께 쓰는 긴 목조 농가에서 살았으며, 이 형태는 이 지역에서 수천 년 동안 이어졌다. 그들은 황야에 봉분을 쌓고 교역을 통해 청동을 얻었다. 서프리슬란트에서는 발굴을 통해 청동기 시대의 밀집된 농지·도랑·농가가 드러났다.",
+    "zh": "到公元前2千纪中叶，东北部埃尔普文化的居民住在家人与牛群共处一栋的长形木构农舍中，这种形式在当地延续了数千年。他们在荒原上堆筑墓丘，并通过贸易获取青铜。在西弗里斯兰，考古发掘揭示了青铜时代密集分布的田地、沟渠和农庄。",
+    "ja": "紀元前2千年紀の半ばまでに、北東部のエルプ文化の人々は家族と牛が一つの建物を共有する長い木造の農家に住み、この形は地域で数千年にわたって受け継がれた。彼らはヒースの荒野に墳丘を築き、交易によって青銅を手に入れた。西フリースラントでは、発掘によって青銅器時代の密集した畑・溝・農場が明らかになっている。"
+   }
+  },
+  {
+   "year": -700,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Chieftain's grave of Oss",
+    "ko": "오스의 족장 무덤",
+    "zh": "奥斯的首领墓",
+    "ja": "オスの首長墓"
+   },
+   "description": {
+    "en": "Around 700 BC a powerful man was cremated and buried at Oss in North Brabant beneath one of the largest burial mounds of the Hallstatt period in north-western Europe. His grave goods included a bronze situla imported from the Alpine region and an iron sword inlaid with gold. The find shows that the southern Netherlands was linked to the elite networks of the early Iron Age.",
+    "ko": "기원전 700년경 노르트브라반트의 오스에서 한 유력자가 화장되어, 북서유럽 할슈타트 시대의 가장 큰 봉분 가운데 하나 아래 묻혔다. 부장품에는 알프스 지역에서 들여온 청동 양동이(시툴라)와 금을 상감한 철검이 있었다. 이 발견은 네덜란드 남부가 초기 철기 시대 엘리트 교류망과 연결되어 있었음을 보여 준다.",
+    "zh": "约公元前700年，一位权势人物在北布拉班特的奥斯被火化，葬于西北欧哈尔施塔特时期最大的墓丘之一下。随葬品包括一件从阿尔卑斯地区输入的青铜提桶和一把镶金铁剑。这一发现表明荷兰南部与早期铁器时代的精英网络相连。",
+    "ja": "紀元前700年頃、北ブラバントのオスで一人の有力者が火葬され、北西ヨーロッパのハルシュタット期最大級の墳丘の下に葬られた。副葬品にはアルプス地方から輸入された青銅のシトゥラと金象嵌の鉄剣が含まれていた。この発見は、オランダ南部が初期鉄器時代のエリートの交流網とつながっていたことを示す。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Terp dwellers settle the salt marshes",
+    "ko": "염습지에 정착한 테르프 주민",
+    "zh": "盐沼上的土丘居民",
+    "ja": "塩性湿地に住み着いたテルプの人々"
+   },
+   "description": {
+    "en": "From around 600–500 BC farmers began to settle the tidal salt marshes of Friesland and Groningen, raising artificial mounds called terpen or wierden to keep their homes above storm floods. Over centuries these mounds grew with layers of clay and dung into village-sized hills. The Roman writer Pliny the Elder later described people living on such mounds amid the tides.",
+    "ko": "기원전 600~500년경부터 농민들은 프리슬란트와 흐로닝언의 조간대 염습지에 정착해, 폭풍 해일 위로 집을 지키기 위해 테르프 또는 비르더라 불리는 인공 언덕을 쌓기 시작했다. 수백 년에 걸쳐 이 언덕은 점토와 분뇨가 쌓이며 마을 크기의 구릉으로 자랐다. 훗날 로마의 대 플리니우스는 밀물 속 언덕 위에 사는 사람들을 묘사했다.",
+    "zh": "约自公元前600至前500年起，农民开始在弗里斯兰和格罗宁根的潮汐盐沼中定居，堆起名为terp或wierde的人工土丘，使住房免受风暴潮淹没。数百年间，这些土丘随着黏土和粪肥层层堆积，长成村庄大小的高地。罗马作家老普林尼后来描述过生活在潮水间土丘上的人们。",
+    "ja": "紀元前600～500年頃から、農民たちはフリースラントとフローニンゲンの干潟の塩性湿地に住み始め、高潮から家を守るためテルプあるいはウィールデと呼ばれる人工の丘を築いた。何世紀もかけて丘は粘土と糞の層を重ね、村ほどの大きさの高まりとなった。のちにローマの大プリニウスは、潮の中の丘に暮らす人々を描写している。"
+   }
+  },
+  {
+   "year": -55,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Caesar's massacre of the Usipetes and Tencteri",
+    "ko": "카이사르의 우시페테스·텐크테리족 학살",
+    "zh": "凯撒屠杀乌西佩特人和滕克特里人",
+    "ja": "カエサルによるウシペテス族・テンクテリ族の虐殺"
+   },
+   "description": {
+    "en": "In 55 BC Julius Caesar attacked the Germanic Usipetes and Tencteri, who had crossed the Rhine, and by his own account slaughtered a large part of them, including women and children, near the confluence of the Meuse and Rhine. In 2015 archaeologists of the Vrije Universiteit Amsterdam proposed that finds at Kessel in North Brabant mark the site, though the identification is debated. The campaign was part of the Roman conquest of the southern Low Countries.",
+    "ko": "기원전 55년 율리우스 카이사르는 라인강을 건너온 게르만계 우시페테스족과 텐크테리족을 공격했고, 그 자신의 기록에 따르면 마스강과 라인강 합류 지점 부근에서 여성과 아이를 포함한 그들의 상당수를 학살했다. 2015년 암스테르담 자유대학교 고고학자들은 노르트브라반트 케설의 출토품이 그 현장이라고 제시했으나, 이 비정에는 논란이 있다. 이 원정은 저지대 남부에 대한 로마 정복의 일부였다.",
+    "zh": "公元前55年，尤利乌斯·凯撒攻击了渡过莱茵河的日耳曼人乌西佩特部和滕克特里部，据他本人记述，在马斯河与莱茵河交汇处附近屠杀了其中很大一部分人，包括妇女和儿童。2015年，阿姆斯特丹自由大学的考古学家提出北布拉班特凯瑟尔的发现即为该事件地点，但这一认定仍有争议。这次战役是罗马征服低地南部的一部分。",
+    "ja": "紀元前55年、ユリウス・カエサルはライン川を渡ってきたゲルマン系のウシペテス族とテンクテリ族を攻撃し、彼自身の記録によれば、マース川とライン川の合流点付近で女性や子どもを含むその多くを殺戮した。2015年、アムステルダム自由大学の考古学者たちは北ブラバントのケッセルでの出土品がその現場であると提唱したが、この比定には議論がある。この遠征は低地地方南部のローマ征服の一環であった。"
+   }
+  },
+  {
+   "year": -12,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Roman frontier on the Rhine",
+    "ko": "라인강의 로마 국경",
+    "zh": "莱茵河畔的罗马边境",
+    "ja": "ライン川のローマ帝国国境"
+   },
+   "description": {
+    "en": "In 12 BC Drusus launched campaigns into Germania from the Rhine and had a canal, the Fossa Drusiana, dug to give his fleet access to the North Sea. Rome established its northern frontier along the Rhine, building forts in the Low Countries such as the legionary base at Nijmegen. The Batavians and Frisians living here entered recorded history through Roman sources.",
+    "ko": "기원전 12년 드루수스는 라인강에서 게르마니아로 원정을 시작하고, 함대가 북해로 나갈 수 있도록 '드루수스 운하'를 파게 했다. 로마는 라인강을 따라 북쪽 국경을 세우고 네이메헌의 군단 기지 같은 요새들을 저지대에 건설했다. 이곳에 살던 바타비족과 프리시이족은 로마의 기록을 통해 역사에 등장하게 되었다.",
+    "zh": "公元前12年，德鲁苏斯从莱茵河出发远征日耳曼尼亚，并开凿了“德鲁苏斯运河”，使舰队得以驶入北海。罗马沿莱茵河确立北部边界，在低地修建了奈梅亨军团基地等要塞。生活在这里的巴达维人和弗里西人由此通过罗马文献进入有记载的历史。",
+    "ja": "紀元前12年、ドルススはライン川からゲルマニアへの遠征を開始し、艦隊が北海に出られるよう「ドルスス運河」を掘らせた。ローマはライン川沿いに北の国境を定め、ナイメーヘンの軍団基地などの砦を低地地方に築いた。ここに住むバタウィ族やフリシー族は、ローマの史料を通じて記録された歴史に登場した。"
+   }
+  },
+  {
+   "year": 28,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Frisian revolt against Roman tribute",
+    "ko": "로마 공납에 맞선 프리시이족 반란",
+    "zh": "弗里西人反抗罗马贡赋的起义",
+    "ja": "ローマの貢納に対するフリシー族の反乱"
+   },
+   "description": {
+    "en": "According to Tacitus, the Frisii had been required to pay tribute in ox hides, and when the official Olennius demanded hides of an impossible size and seized their land, cattle and families, they rose in AD 28. They hanged the tax collectors and inflicted heavy losses on Roman troops, notably near the sacred grove of Baduhenna. Rome did not take full revenge, and the Frisians regained practical independence.",
+    "ko": "타키투스에 따르면 프리시이족은 소가죽으로 공납을 바쳐야 했는데, 관리 올레니우스가 불가능한 크기의 가죽을 요구하며 땅과 가축, 가족까지 빼앗자 서기 28년 봉기했다. 그들은 징세인들을 처형하고 특히 바두헨나의 신성한 숲 부근에서 로마군에 큰 손실을 입혔다. 로마는 제대로 보복하지 않았고, 프리시이족은 사실상의 독립을 되찾았다.",
+    "zh": "据塔西佗记载，弗里西人须以牛皮缴纳贡赋，当官员奥莱尼乌斯索要尺寸大得不可能的牛皮，并夺走他们的土地、牲畜乃至家人时，他们于公元28年起义。他们绞死了收税官，并重创罗马军队，尤其是在巴杜亨娜圣林附近。罗马未能彻底报复，弗里西人重获实际上的独立。",
+    "ja": "タキトゥスによれば、フリシー族は牛皮で貢納を納めることになっていたが、役人オレンニウスがありえない大きさの皮を要求し、土地や家畜、家族まで奪ったため、紀元28年に蜂起した。彼らは徴税人を処刑し、とくにバドゥヘンナの聖なる森の近くでローマ軍に大損害を与えた。ローマは十分な報復をせず、フリシー族は事実上の独立を取り戻した。"
+   }
+  },
+  {
+   "year": 47,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Corbulo's canal and the fixed Rhine border",
+    "ko": "코르불로 운하와 라인강 국경의 고정",
+    "zh": "科尔布罗运河与莱茵河边界的确定",
+    "ja": "コルブロ運河とライン国境の固定"
+   },
+   "description": {
+    "en": "In AD 47 the general Corbulo campaigned against the Chauci and subdued the Frisii, but Emperor Claudius ordered him to withdraw behind the Rhine. Corbulo then had his soldiers dig a canal, the Fossa Corbulonis, linking the Rhine and the Meuse estuary near present-day Leiden and The Hague. From then on the Rhine remained the fixed boundary of the empire in the Netherlands, guarded by a chain of forts.",
+    "ko": "서기 47년 장군 코르불로는 카우키족을 공격하고 프리시이족을 제압했으나, 클라우디우스 황제는 그에게 라인강 뒤로 철수하라고 명령했다. 코르불로는 병사들에게 오늘날 레이던과 헤이그 부근에서 라인강과 마스강 하구를 잇는 '코르불로 운하'를 파게 했다. 그 뒤 라인강은 네덜란드에서 제국의 고정된 국경으로 남아 요새들의 사슬이 이를 지켰다.",
+    "zh": "公元47年，将军科尔布罗征讨考契人并降服弗里西人，但克劳狄乌斯皇帝命他退回莱茵河后方。科尔布罗随后令士兵在今莱顿和海牙附近开凿连接莱茵河与马斯河河口的“科尔布罗运河”。此后，莱茵河一直是帝国在荷兰的固定边界，由一连串要塞守卫。",
+    "ja": "紀元47年、将軍コルブロはカウキ族を攻めてフリシー族を服属させたが、クラウディウス帝は彼にライン川の後方へ撤退するよう命じた。コルブロは兵士たちに、現在のライデンとハーグ付近でライン川とマース川河口を結ぶ「コルブロ運河」を掘らせた。以後ライン川はオランダにおける帝国の固定された国境となり、一連の砦がこれを守った。"
+   }
+  },
+  {
+   "year": 69,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Batavian revolt of Julius Civilis",
+    "ko": "율리우스 키빌리스의 바타비족 반란",
+    "zh": "尤利乌斯·奇维里斯领导的巴达维人起义",
+    "ja": "ユリウス・キウィリスのバタウィ族反乱"
+   },
+   "description": {
+    "en": "During Rome's civil war of 69, the Batavian noble and Roman officer Julius Civilis led his people, allied Germanic tribes and some Roman units in a major revolt on the lower Rhine. The rebels besieged the legionary camp of Vetera and for a time threatened Roman control of the region. In 70 the general Petillius Cerialis restored order, and the Batavians returned to supplying elite auxiliaries; the revolt later became a symbol of Dutch love of liberty.",
+    "ko": "69년 로마 내전 중 바타비족 귀족이자 로마 장교인 율리우스 키빌리스는 자기 부족과 동맹 게르만 부족, 일부 로마 부대를 이끌고 라인강 하류에서 대규모 반란을 일으켰다. 반란군은 베테라 군단 기지를 포위하며 한때 이 지역의 로마 지배를 위협했다. 70년 장군 페틸리우스 케리알리스가 질서를 회복했고 바타비족은 다시 정예 보조군을 제공하게 되었다. 이 반란은 훗날 네덜란드인의 자유 사랑을 상징하게 되었다.",
+    "zh": "在69年罗马内战期间，巴达维贵族、罗马军官尤利乌斯·奇维里斯率领本族人、结盟的日耳曼部落和部分罗马部队，在莱茵河下游发动大规模起义。起义军围攻维特拉军团营地，一度威胁罗马对该地区的控制。70年，将军佩蒂利乌斯·克里亚利斯恢复了秩序，巴达维人重新为罗马提供精锐辅助部队；这次起义后来成为荷兰人热爱自由的象征。",
+    "ja": "69年のローマ内乱の最中、バタウィ族の貴族でローマの将校でもあったユリウス・キウィリスは、同族と同盟ゲルマン部族、一部のローマ部隊を率いてライン川下流で大反乱を起こした。反乱軍はウェテラの軍団基地を包囲し、一時はこの地域のローマ支配を脅かした。70年に将軍ペティリウス・ケリアリスが秩序を回復し、バタウィ族は再び精鋭の補助軍を提供するようになった。この反乱はのちにオランダ人の自由愛の象徴とされた。"
+   }
+  },
+  {
+   "year": 100,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Nijmegen becomes a Roman town",
+    "ko": "로마 도시가 된 네이메헌",
+    "zh": "奈梅亨成为罗马城镇",
+    "ja": "ローマ都市となったナイメーヘン"
+   },
+   "description": {
+    "en": "Around the turn of the 2nd century, under Emperor Trajan, the Batavian settlement near the legionary fortress of Nijmegen received town rights as Ulpia Noviomagus Batavorum. It became the capital of the Batavian civitas, with a forum, temples and baths. Nijmegen therefore claims to be the oldest city in the Netherlands and celebrated its 2,000th anniversary in 2005.",
+    "ko": "2세기 초 무렵 트라야누스 황제 치하에서 네이메헌 군단 요새 부근의 바타비족 정착지는 '울피아 노비오마구스 바타보룸'으로서 도시 권리를 받았다. 이곳은 포룸·신전·목욕탕을 갖춘 바타비 행정구의 중심지가 되었다. 이 때문에 네이메헌은 네덜란드에서 가장 오래된 도시를 자처하며 2005년 2000주년을 기념했다.",
+    "zh": "约在2世纪初，图拉真皇帝在位时，奈梅亨军团要塞附近的巴达维人定居点以“乌尔皮亚·诺维奥马古斯·巴达沃鲁姆”之名获得城市权利。它成为巴达维人城邦的首府，拥有广场、神庙和浴场。因此奈梅亨自称荷兰最古老的城市，并于2005年庆祝了建城2000周年。",
+    "ja": "2世紀初め頃、トラヤヌス帝の治世に、ナイメーヘンの軍団要塞近くのバタウィ族の集落は「ウルピア・ノウィオマグス・バタウォルム」として都市の権利を得た。ここはフォルム、神殿、浴場を備えたバタウィ人の行政区の中心となった。このためナイメーヘンはオランダ最古の都市を自任し、2005年に2000周年を祝った。"
+   }
+  },
+  {
+   "year": 260,
+   "qid": "Q273025",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Postumus founds the Gallic Empire",
+    "ko": "포스투무스의 갈리아 제국 수립",
+    "zh": "波斯图穆斯建立高卢帝国",
+    "ja": "ポストゥムスのガリア帝国樹立"
+   },
+   "description": {
+    "en": "In 260, amid the crisis of the third century, the Rhine commander Postumus was proclaimed emperor and broke away from Rome, creating the Gallic Empire that included Germania Inferior. Frankish and Saxon raids increasingly struck the lower Rhine and the coast in these decades. The breakaway state lasted until Aurelian reconquered it in 274.",
+    "ko": "3세기의 위기 속에서 260년 라인강 방면 사령관 포스투무스가 황제로 추대되어 로마에서 이탈해 저지 게르마니아를 포함하는 갈리아 제국을 세웠다. 이 수십 년 동안 프랑크족과 색슨족의 침입이 라인강 하류와 해안을 점점 더 자주 덮쳤다. 이 분리 국가는 274년 아우렐리아누스가 재정복할 때까지 존속했다.",
+    "zh": "在三世纪危机中，260年莱茵河前线指挥官波斯图穆斯被拥立为帝，脱离罗马，建立了包括下日耳曼尼亚在内的高卢帝国。这几十年间，法兰克人和撒克逊人的袭击日益频繁地侵扰莱茵河下游和沿海地区。这一分离政权一直存续到274年被奥勒良重新征服。",
+    "ja": "3世紀の危機のさなか、260年にライン方面の司令官ポストゥムスが皇帝に推戴されてローマから離反し、低地ゲルマニアを含むガリア帝国を建てた。この数十年間、フランク人やサクソン人の襲撃がライン川下流と沿岸をますます頻繁に襲った。この分離国家は274年にアウレリアヌスが再征服するまで続いた。"
+   }
+  },
+  {
+   "year": 358,
+   "qid": "Q939852",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Julian settles the Salian Franks in Toxandria",
+    "ko": "율리아누스, 살리 프랑크족을 톡산드리아에 정착시키다",
+    "zh": "尤利安让萨利安法兰克人定居托克桑德里亚",
+    "ja": "ユリアヌス、サリ族フランク人をトクサンドリアに定住させる"
+   },
+   "description": {
+    "en": "In 358 the future emperor Julian, then Caesar in Gaul, campaigned on the lower Rhine and accepted the submission of the Salian Franks, allowing them to remain in Toxandria between the Meuse and the Scheldt as allies of Rome. This marked the first permanent Frankish settlement inside the empire in the Low Countries. From this base the Salians later expanded south to found the Merovingian kingdom.",
+    "ko": "358년 갈리아의 부황제였던 훗날의 황제 율리아누스는 라인강 하류에서 원정하며 살리 프랑크족의 복속을 받아들이고, 이들이 로마의 동맹으로서 마스강과 스헬더강 사이의 톡산드리아에 머물도록 허용했다. 이는 저지대에서 제국 내부에 프랑크족이 영구 정착한 첫 사례였다. 살리족은 이곳을 거점으로 훗날 남쪽으로 진출해 메로베우스 왕국을 세웠다.",
+    "zh": "358年，时任高卢恺撒、后来的皇帝尤利安在莱茵河下游作战，接受了萨利安法兰克人的臣服，允许他们作为罗马的盟友留居马斯河与斯海尔德河之间的托克桑德里亚。这标志着法兰克人首次在低地的帝国境内永久定居。萨利安人后来以此为基地南下扩张，建立了墨洛温王国。",
+    "ja": "358年、ガリアの副帝で後の皇帝ユリアヌスはライン川下流で戦い、サリ族フランク人の服属を受け入れて、ローマの同盟者としてマース川とスヘルデ川の間のトクサンドリアにとどまることを認めた。これは低地地方の帝国内へのフランク人の初めての恒久的定住であった。サリ族はここを拠点に後に南へ進出し、メロヴィング王国を築いた。"
+   }
+  },
+  {
+   "year": 406,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Collapse of the Roman Rhine frontier",
+    "ko": "로마 라인강 국경의 붕괴",
+    "zh": "罗马莱茵河边境的崩溃",
+    "ja": "ローマのライン国境の崩壊"
+   },
+   "description": {
+    "en": "At the end of 406 Vandals, Alans and Suebi crossed the Rhine further upstream, and in the following years Roman military control of the lower Rhine effectively ended as troops were withdrawn to defend Italy and Gaul. Towns and forts in the Netherlands declined, and Roman administration disappeared. Franks, Frisians and Anglo-Saxons shaped the region in the following centuries.",
+    "ko": "406년 말 반달족·알란족·수에비족이 더 상류에서 라인강을 건넜고, 이후 몇 해 동안 이탈리아와 갈리아 방어를 위해 군대가 철수하면서 라인강 하류에 대한 로마의 군사적 통제는 사실상 끝났다. 네덜란드의 도시와 요새는 쇠퇴했고 로마 행정은 사라졌다. 이후 수 세기 동안 프랑크족, 프리슬란트인, 앵글로색슨인이 이 지역을 형성해 나갔다.",
+    "zh": "406年底，汪达尔人、阿兰人和苏维汇人在更上游处渡过莱茵河，此后数年间，随着军队被撤回保卫意大利和高卢，罗马对莱茵河下游的军事控制实际上终结。荷兰境内的城镇和要塞衰落，罗马行政机构消失。在随后的几个世纪里，法兰克人、弗里斯兰人和盎格鲁-撒克逊人塑造了这一地区。",
+    "ja": "406年末、ヴァンダル族・アラン族・スエビ族がより上流でライン川を渡り、その後数年のうちにイタリアとガリアの防衛のため軍が引き揚げられると、ライン川下流に対するローマの軍事的支配は事実上終わった。オランダの都市や砦は衰え、ローマの行政は消滅した。その後の数世紀、フランク人、フリース人、アングロ・サクソン人がこの地域を形づくった。"
+   }
+  },
+  {
+   "year": 516,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Hygelac's raid on the lower Rhine",
+    "ko": "히옐라크의 라인강 하류 습격",
+    "zh": "海格拉克袭击莱茵河下游",
+    "ja": "ヒイェラークのライン川下流襲撃"
+   },
+   "description": {
+    "en": "Around the 510s or 520s a Scandinavian king called Chlochilaich by Gregory of Tours raided Frankish territory on the lower Rhine and was killed by the Frankish prince Theudebert. He is usually identified with Hygelac of the Old English poem Beowulf, which places his death among the Frisians and the Hetware. It is one of the few datable events of the period in the region.",
+    "ko": "510년대 또는 520년대 무렵 투르의 그레고리우스가 '클로킬라이크'라 부른 스칸디나비아의 왕이 라인강 하류의 프랑크 영토를 습격했다가 프랑크 왕자 테오데베르트에게 죽임을 당했다. 그는 흔히 고대 영어 서사시 『베오울프』의 히옐라크와 동일시되며, 이 시는 그의 죽음을 프리슬란트인과 헤트바레족 사이에서 일어난 일로 그린다. 이는 이 시기 이 지역에서 연대를 추정할 수 있는 몇 안 되는 사건이다.",
+    "zh": "约在510年代或520年代，一位被图尔的格雷戈里称为“克洛希莱克”的斯堪的纳维亚国王袭击了莱茵河下游的法兰克领土，被法兰克王子提奥德贝尔特所杀。他通常被认为就是古英语史诗《贝奥武甫》中的海格拉克，该诗把他的死置于弗里斯兰人和赫特瓦尔人之中。这是该地区这一时期少数可以断代的事件之一。",
+    "ja": "510年代か520年代頃、トゥールのグレゴリウスが「クロキライク」と呼ぶスカンディナヴィアの王がライン川下流のフランク領を襲撃し、フランクの王子テウデベルトに討たれた。彼は一般に古英語叙事詩『ベーオウルフ』のヒイェラークと同一視され、詩は彼の死をフリース人とヘトワレ族のもとでの出来事として描く。これはこの時代のこの地域で年代を推定できる数少ない出来事の一つである。"
+   }
+  },
+  {
+   "year": 650,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Rise of Dorestad",
+    "ko": "도레스타트의 번영",
+    "zh": "多雷斯塔德的兴起",
+    "ja": "ドレスタットの繁栄"
+   },
+   "description": {
+    "en": "From the 7th century Dorestad, near today's Wijk bij Duurstede where the Rhine and the Lek divided, grew into one of the largest trading places of north-western Europe. Frisian merchants shipped wine, quernstones, pottery, glass and cloth between the Rhineland, England and Scandinavia, and the town had its own mint. Control of Dorestad was a key prize in the wars between Frisians and Franks.",
+    "ko": "7세기부터 라인강과 레크강이 갈라지는 오늘날 베이크베이뒤르스테더 부근의 도레스타트는 북서유럽 최대의 교역지 가운데 하나로 성장했다. 프리슬란트 상인들은 라인란트, 잉글랜드, 스칸디나비아 사이에서 포도주·맷돌·도기·유리·옷감을 실어 날랐고, 이 도시에는 자체 조폐소도 있었다. 도레스타트의 장악은 프리슬란트인과 프랑크족 사이 전쟁의 핵심 목표였다.",
+    "zh": "自7世纪起，位于莱茵河与莱克河分流处、今韦克拜迪尔斯泰德附近的多雷斯塔德发展成为西北欧最大的贸易地之一。弗里斯兰商人在莱茵兰、英格兰和斯堪的纳维亚之间贩运葡萄酒、石磨、陶器、玻璃和布匹，城中还设有铸币厂。控制多雷斯塔德是弗里斯兰人与法兰克人交战的关键目标。",
+    "ja": "7世紀から、ライン川とレック川が分かれる現在のワイク・ベイ・ドゥールステーデ付近のドレスタットは、北西ヨーロッパ最大級の交易地へと成長した。フリース人の商人はラインラント、イングランド、スカンディナヴィアの間でワイン、石臼、陶器、ガラス、布を運び、町には独自の造幣所もあった。ドレスタットの支配はフリース人とフランク人の戦争の重要な目標であった。"
+   }
+  },
+  {
+   "year": 678,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Wilfrid preaches among the Frisians",
+    "ko": "윌프리드의 프리슬란트 선교",
+    "zh": "威尔弗里德在弗里斯兰人中传教",
+    "ja": "ウィルフリッドのフリース人への伝道"
+   },
+   "description": {
+    "en": "In the winter of 678–679 the English bishop Wilfrid of York, on his way to Rome, was received by the Frisian king Aldgisl and preached in Frisia, reportedly baptising many people. Aldgisl refused to hand him over to his enemies at the Frankish court. This visit is regarded as the first Christian mission among the Frisians.",
+    "ko": "678~679년 겨울, 로마로 가던 잉글랜드 요크의 주교 윌프리드는 프리슬란트 왕 알트기슬의 환대를 받고 프리슬란트에서 설교하며 많은 사람에게 세례를 주었다고 전해진다. 알트기슬은 프랑크 궁정에 있던 그의 적들에게 그를 넘기기를 거부했다. 이 방문은 프리슬란트인에 대한 최초의 기독교 선교로 여겨진다.",
+    "zh": "678至679年冬，英格兰约克主教威尔弗里德在前往罗马途中受到弗里斯兰国王阿尔德吉斯尔接待，在弗里斯兰布道，据说为许多人施洗。阿尔德吉斯尔拒绝将他交给法兰克宫廷中的仇敌。此次访问被视为在弗里斯兰人中的首次基督教传教。",
+    "ja": "678～679年の冬、ローマへ向かう途中のイングランド・ヨークの司教ウィルフリッドはフリースラント王アルドギスルに迎えられ、フリースラントで説教し、多くの人に洗礼を授けたと伝えられる。アルドギスルはフランク宮廷にいた彼の敵に彼を引き渡すことを拒んだ。この訪問はフリース人への最初のキリスト教伝道とされる。"
+   }
+  },
+  {
+   "year": 689,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Pepin of Herstal defeats Redbad at Dorestad",
+    "ko": "헤르스탈의 피핀, 도레스타트에서 레드바트를 격파",
+    "zh": "赫斯塔尔的丕平在多雷斯塔德击败雷德巴德",
+    "ja": "エルスタルのピピン、ドレスタットでレドバッドを破る"
+   },
+   "description": {
+    "en": "Around 689–690 the Frankish mayor of the palace Pepin of Herstal defeated the Frisian king Redbad near Dorestad and took control of the river region, including Dorestad and Utrecht. The Frankish advance opened the way for Christian missions in the conquered area. Redbad recovered much of the lost land during the Frankish succession struggles after Pepin's death in 714.",
+    "ko": "689~690년경 프랑크 궁재 헤르스탈의 피핀은 도레스타트 부근에서 프리슬란트 왕 레드바트를 물리치고 도레스타트와 위트레흐트를 포함한 하천 지역을 장악했다. 프랑크의 진출은 정복지에서 기독교 선교의 길을 열었다. 레드바트는 714년 피핀이 죽은 뒤 프랑크의 계승 분쟁을 틈타 잃은 땅의 상당 부분을 되찾았다.",
+    "zh": "约689至690年，法兰克宫相赫斯塔尔的丕平在多雷斯塔德附近击败弗里斯兰国王雷德巴德，控制了包括多雷斯塔德和乌得勒支在内的河流地区。法兰克人的推进为在被征服地区传教开辟了道路。714年丕平死后，雷德巴德趁法兰克继承纷争收复了大部分失地。",
+    "ja": "689～690年頃、フランクの宮宰エルスタルのピピンはドレスタット近くでフリースラント王レドバッドを破り、ドレスタットとユトレヒトを含む河川地帯を掌握した。フランクの進出は征服地でのキリスト教伝道への道を開いた。レドバッドは714年のピピンの死後、フランクの継承争いに乗じて失った土地の多くを取り戻した。"
+   }
+  },
+  {
+   "year": 695,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Willibrord becomes archbishop of the Frisians",
+    "ko": "빌리브로르트, 프리슬란트인의 대주교가 되다",
+    "zh": "威利布罗德成为弗里斯兰人大主教",
+    "ja": "ウィリブロルド、フリース人の大司教となる"
+   },
+   "description": {
+    "en": "The Northumbrian monk Willibrord arrived in Frisia in 690 with Frankish backing, and in 695 Pope Sergius I consecrated him archbishop of the Frisians in Rome. He established his see at Utrecht, which became the religious centre of the northern Low Countries for centuries. Willibrord, who died in 739, is venerated as the apostle of the Frisians and patron saint of the Netherlands.",
+    "ko": "노섬브리아의 수도사 빌리브로르트는 프랑크의 후원을 받아 690년 프리슬란트에 도착했고, 695년 로마에서 교황 세르지오 1세에 의해 프리슬란트인의 대주교로 서품되었다. 그는 위트레흐트에 주교좌를 두었고, 위트레흐트는 수 세기 동안 저지대 북부의 종교 중심지가 되었다. 739년에 세상을 떠난 빌리브로르트는 '프리슬란트인의 사도'이자 네덜란드의 수호성인으로 공경받는다.",
+    "zh": "诺森布里亚修士威利布罗德在法兰克人支持下于690年来到弗里斯兰，695年在罗马由教宗塞尔吉乌斯一世祝圣为弗里斯兰人大主教。他把主教座设在乌得勒支，此后数百年这里一直是低地北部的宗教中心。威利布罗德卒于739年，被尊为“弗里斯兰人的使徒”和荷兰的主保圣人。",
+    "ja": "ノーサンブリアの修道士ウィリブロルドはフランクの支援を得て690年にフリースラントに到着し、695年にローマで教皇セルギウス1世からフリース人の大司教に叙階された。彼はユトレヒトに司教座を置き、ユトレヒトは何世紀にもわたって低地地方北部の宗教的中心となった。739年に没したウィリブロルドは「フリース人の使徒」、オランダの守護聖人として崇敬されている。"
+   }
+  },
+  {
+   "year": 734,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of the Boarn",
+    "ko": "보른강 전투",
+    "zh": "博尔讷河战役",
+    "ja": "ボールネ川の戦い"
+   },
+   "description": {
+    "en": "In 734 the Frankish leader Charles Martel led a naval expedition into Frisia and defeated the Frisians on the river Boarn in present-day Friesland, where their leader Poppo was killed. The Franks destroyed pagan sanctuaries and annexed Frisia west of the Lauwers. The battle ended the independent Frisian kingdom.",
+    "ko": "734년 프랑크의 지도자 카를 마르텔은 함대를 이끌고 프리슬란트로 원정해 오늘날 프리슬란트주의 보른강에서 프리슬란트인을 격파했으며, 그들의 지도자 포포가 전사했다. 프랑크군은 이교 성소를 파괴하고 라우어르스강 서쪽의 프리슬란트를 병합했다. 이 전투로 독립 프리슬란트 왕국은 끝났다.",
+    "zh": "734年，法兰克领袖查理·马特率舰队远征弗里斯兰，在今弗里斯兰省的博尔讷河击败弗里斯兰人，其首领波波阵亡。法兰克人摧毁了异教圣所，并吞并了劳沃斯河以西的弗里斯兰。这场战役终结了独立的弗里斯兰王国。",
+    "ja": "734年、フランクの指導者カール・マルテルは艦隊を率いてフリースラントに遠征し、現在のフリースラント州のボールネ川でフリース人を破り、指導者ポッポが戦死した。フランク軍は異教の聖所を破壊し、ラウエルス川以西のフリースラントを併合した。この戦いで独立したフリースラント王国は終わった。"
+   }
+  },
+  {
+   "year": 754,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Martyrdom of Boniface near Dokkum",
+    "ko": "도쿰 부근에서 보니파키우스 순교",
+    "zh": "卜尼法斯在多克姆附近殉教",
+    "ja": "ドックム近郊でのボニファティウスの殉教"
+   },
+   "description": {
+    "en": "On 5 June 754 the elderly English missionary Boniface, archbishop and organiser of the Frankish church, was killed with his companions by a band of attackers near Dokkum in northern Friesland while on a mission to the still largely pagan north. His death made him a martyr venerated across Germany and the Netherlands. Dokkum became a place of pilgrimage.",
+    "ko": "754년 6월 5일, 프랑크 교회를 조직한 대주교이자 노년의 잉글랜드 선교사 보니파키우스는 여전히 대부분 이교도였던 북부로 선교를 떠났다가 프리슬란트 북부 도쿰 부근에서 일행과 함께 습격을 받아 살해되었다. 그의 죽음으로 그는 독일과 네덜란드 전역에서 공경받는 순교자가 되었다. 도쿰은 순례지가 되었다.",
+    "zh": "754年6月5日，年迈的英格兰传教士、法兰克教会的组织者卜尼法斯大主教在前往仍以异教为主的北方传教时，与同伴在弗里斯兰北部的多克姆附近遭袭身亡。他因此成为在德国和荷兰各地受尊崇的殉道者。多克姆成了朝圣地。",
+    "ja": "754年6月5日、フランク教会の組織者である大司教で老齢のイングランド人宣教師ボニファティウスは、なお大半が異教徒であった北部への伝道の途上、フリースラント北部のドックム近くで仲間とともに襲撃され殺害された。その死によって彼はドイツとオランダ各地で崇敬される殉教者となった。ドックムは巡礼地となった。"
+   }
+  },
+  {
+   "year": 785,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Charlemagne completes the conquest of Frisia",
+    "ko": "카롤루스 대제의 프리슬란트 정복 완료",
+    "zh": "查理曼完成对弗里斯兰的征服",
+    "ja": "カール大帝によるフリースラント征服の完了"
+   },
+   "description": {
+    "en": "The eastern Frisians had joined the Saxon revolt against Charlemagne in 782–784, burning churches and expelling missionaries. After suppressing the rising, Charlemagne completed the conquest of all Frisia by 785. The Frisians kept their own customary law, recorded in the Lex Frisionum around the end of the 8th century, and the whole of the Netherlands now lay within the Carolingian Empire.",
+    "ko": "동부 프리슬란트인은 782~784년 카롤루스 대제에 맞선 색슨족의 반란에 가담해 교회를 불태우고 선교사들을 내쫓았다. 카롤루스 대제는 봉기를 진압한 뒤 785년까지 프리슬란트 전역의 정복을 완료했다. 프리슬란트인은 8세기 말 무렵 『프리슬란트 법전』에 기록된 고유의 관습법을 유지했으며, 이제 네덜란드 전역이 카롤링거 제국 안에 들어왔다.",
+    "zh": "782至784年，东部弗里斯兰人加入撒克逊人反抗查理曼的起义，焚毁教堂、驱逐传教士。查理曼镇压起义后，到785年完成了对整个弗里斯兰的征服。弗里斯兰人保留了自己的习惯法，约在8世纪末被记录为《弗里斯兰法典》；至此荷兰全境都处于加洛林帝国之内。",
+    "ja": "東部のフリース人は782～784年、カール大帝に対するサクソン人の反乱に加わり、教会を焼いて宣教師を追い出した。カール大帝は蜂起を鎮圧した後、785年までにフリースラント全域の征服を完了した。フリース人は8世紀末頃に『フリース法典』として記録された固有の慣習法を保持し、オランダ全域がカロリング帝国の内に入った。"
+   }
+  },
+  {
+   "year": 834,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Vikings sack Dorestad",
+    "ko": "바이킹의 도레스타트 약탈",
+    "zh": "维京人洗劫多雷斯塔德",
+    "ja": "ヴァイキングによるドレスタット略奪"
+   },
+   "description": {
+    "en": "In 834 Danish Vikings sacked Dorestad, the great trading town on the Rhine, and they returned in the following years to plunder it repeatedly. Combined with shifts in the course of the Rhine, the raids contributed to the town's decline, and by the later 9th century it had lost its importance. The attacks exposed the weakness of Carolingian coastal defences in the Low Countries.",
+    "ko": "834년 데인 바이킹은 라인강의 대교역 도시 도레스타트를 약탈했고, 이후 몇 해 동안 거듭 돌아와 약탈을 반복했다. 라인강 물길의 변화와 맞물려 이 습격은 도시의 쇠퇴를 불러왔고, 9세기 후반에는 그 중요성을 잃었다. 이 공격은 저지대에서 카롤링거 해안 방어의 취약함을 드러냈다.",
+    "zh": "834年，丹麦维京人洗劫了莱茵河上的大贸易城镇多雷斯塔德，并在随后几年里多次返回劫掠。加之莱茵河河道变迁，这些袭击导致该城衰落，到9世纪后期已失去重要地位。这些攻击暴露了加洛林王朝在低地沿海防御的薄弱。",
+    "ja": "834年、デーン人のヴァイキングはライン川の大交易都市ドレスタットを略奪し、その後数年にわたって繰り返し戻って略奪した。ライン川の流路の変化とも相まって、襲撃は町の衰退を招き、9世紀後半にはその重要性を失った。これらの攻撃は低地地方におけるカロリング朝の沿岸防衛の弱さを露呈した。"
+   }
+  },
+  {
+   "year": 843,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Verdun",
+    "ko": "베르됭 조약",
+    "zh": "《凡尔登条约》",
+    "ja": "ヴェルダン条約"
+   },
+   "description": {
+    "en": "In 843 the grandsons of Charlemagne divided the Carolingian Empire at Verdun. Almost all of the present-day Netherlands fell to Lothair I's Middle Francia, a long strip of lands between the West and East Frankish kingdoms. After further partitions it became part of Lotharingia, which East and West Frankish kings contested until it passed to East Francia.",
+    "ko": "843년 카롤루스 대제의 손자들은 베르됭에서 카롤링거 제국을 나누었다. 오늘날 네덜란드의 거의 전부는 서프랑크와 동프랑크 왕국 사이에 길게 뻗은 로타르 1세의 중프랑크 왕국에 속하게 되었다. 이후 추가 분할을 거쳐 로타링기아의 일부가 되었고, 이 땅은 동프랑크에 넘어갈 때까지 동·서프랑크 왕들의 쟁탈 대상이었다.",
+    "zh": "843年，查理曼的孙子们在凡尔登瓜分了加洛林帝国。今荷兰几乎全境归属洛泰尔一世的中法兰克王国，这是夹在西、东法兰克王国之间的一条狭长地带。经过进一步分割，它成为洛泰尔王国（洛林）的一部分，东、西法兰克国王为之争夺，直至其归属东法兰克。",
+    "ja": "843年、カール大帝の孫たちはヴェルダンでカロリング帝国を分割した。現在のオランダのほぼ全域は、西フランクと東フランクの間に細長く延びるロタール1世の中フランク王国に属した。さらなる分割を経てロタリンギアの一部となり、東フランクに帰属するまで東西フランク王の争奪の的となった。"
+   }
+  },
+  {
+   "year": 850,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Rorik receives Dorestad as a fief",
+    "ko": "로리크, 도레스타트를 봉토로 받다",
+    "zh": "罗里克受封多雷斯塔德",
+    "ja": "ロリク、ドレスタットを封土として受ける"
+   },
+   "description": {
+    "en": "Around 850 Emperor Lothair I, unable to stop the raids, granted Dorestad and much of Frisia to the Danish chieftain Rorik in return for defending the coast against other Vikings. Rorik held the region on and off for about two decades. The arrangement illustrates how Carolingian rulers tried to turn Viking leaders into vassals.",
+    "ko": "850년경 습격을 막을 수 없었던 로타르 1세 황제는 다른 바이킹으로부터 해안을 지키는 대가로 도레스타트와 프리슬란트 대부분을 데인인 족장 로리크에게 주었다. 로리크는 약 20년 동안 간헐적으로 이 지역을 다스렸다. 이 조치는 카롤링거 군주들이 바이킹 지도자를 봉신으로 삼으려 했음을 보여 준다.",
+    "zh": "约850年，无力阻止袭掠的洛泰尔一世皇帝将多雷斯塔德和弗里斯兰大部分地区封给丹麦首领罗里克，条件是他保卫海岸、抵御其他维京人。罗里克断断续续统治该地区约二十年。这一安排说明加洛林统治者试图把维京首领变为封臣。",
+    "ja": "850年頃、襲撃を止められなかったロタール1世帝は、他のヴァイキングから沿岸を守ることと引き換えに、ドレスタットとフリースラントの大半をデーン人の首長ロリクに与えた。ロリクは約20年にわたり断続的にこの地域を支配した。この措置は、カロリング家の君主がヴァイキングの指導者を封臣にしようとしたことを示している。"
+   }
+  },
+  {
+   "year": 885,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Death of Godfrid, the Viking duke of Frisia",
+    "ko": "프리슬란트의 바이킹 공작 고드프리트의 죽음",
+    "zh": "弗里斯兰维京公爵戈德弗里德之死",
+    "ja": "フリースラントのヴァイキング公ゴドフリートの死"
+   },
+   "description": {
+    "en": "In 882 Emperor Charles the Fat granted Frisia to the Viking leader Godfrid after besieging his camp at Asselt on the Meuse. In 885 Godfrid was accused of conspiracy and killed at Herispich, usually identified with Spijk near the Rhine. His death ended the period of Danish lordship over Frisia, and power passed back to local Frankish counts.",
+    "ko": "882년 뚱보 카를 황제는 마스강 변 아설트의 바이킹 진영을 포위한 뒤 바이킹 지도자 고드프리트에게 프리슬란트를 주었다. 885년 고드프리트는 음모 혐의를 받고, 보통 라인강 부근의 스페이크로 비정되는 헤리스피크에서 살해되었다. 그의 죽음으로 프리슬란트에 대한 데인인 지배기는 끝났고 권력은 지역의 프랑크 백작들에게 돌아갔다.",
+    "zh": "882年，胖子查理皇帝在围攻维京人位于马斯河畔阿瑟尔特的营地后，将弗里斯兰封给维京首领戈德弗里德。885年，戈德弗里德被控谋反，在通常被认为是莱茵河附近斯派克的赫里斯皮希被杀。他的死结束了丹麦人统治弗里斯兰的时期，权力重归当地法兰克伯爵。",
+    "ja": "882年、肥満王カール帝はマース川沿いのアセルトにあったヴァイキングの陣営を包囲した後、ヴァイキングの指導者ゴドフリートにフリースラントを与えた。885年、ゴドフリートは陰謀の嫌疑をかけられ、一般にライン川近くのスパイクとされるヘリスピヒで殺害された。その死によりフリースラントのデーン人支配の時代は終わり、権力は在地のフランク人の伯へと戻った。"
+   }
+  },
+  {
+   "year": 922,
+   "qid": "Q762943",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Origins of the County of Holland",
+    "ko": "홀란트 백국의 기원",
+    "zh": "荷兰伯国的起源",
+    "ja": "ホラント伯国の起源"
+   },
+   "description": {
+    "en": "In 922 the West Frankish king Charles the Simple granted Count Dirk I lands around Egmond in the coastal region, a charter traditionally regarded as the founding document of the County of Holland. Dirk's descendants, the Gerulfing or Hollandic dynasty, gradually extended their rule over the coast between the Meuse and the Vlie. The name 'Holland' for the county came into use around 1100.",
+    "ko": "922년 서프랑크 왕 단순왕 샤를은 디르크 1세 백작에게 해안 지대의 에흐몬트 일대 땅을 주었는데, 이 증서는 전통적으로 홀란트 백국의 창건 문서로 여겨진다. 디르크의 후손인 헤룰프 가문, 즉 홀란트 왕조는 마스강과 플리 사이의 해안으로 점차 지배를 넓혔다. 백국을 가리키는 '홀란트'라는 이름은 1100년경부터 쓰이기 시작했다.",
+    "zh": "922年，西法兰克国王“糊涂者”查理将沿海埃格蒙德一带的土地赐予伯爵迪尔克一世，这份特许状传统上被视为荷兰伯国的奠基文件。迪尔克的后裔，即格鲁尔夫家族（荷兰王朝），逐步将统治扩展到马斯河与弗利水道之间的沿海地区。用来称呼该伯国的“荷兰”（Holland）一名约从1100年起开始使用。",
+    "ja": "922年、西フランク王シャルル単純王は伯ディルク1世に沿岸部のエフモント周辺の土地を与え、この証書は伝統的にホラント伯国の創設文書とみなされている。ディルクの子孫であるヘルルフ家、すなわちホラント家は、マース川とフリーの間の沿岸へと次第に支配を広げた。伯国を指す「ホラント」の名は1100年頃から使われるようになった。"
+   }
+  },
+  {
+   "year": 925,
+   "qid": "Q175211",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Lotharingia joins the East Frankish kingdom",
+    "ko": "로타링기아의 동프랑크 귀속",
+    "zh": "洛泰尔王国并入东法兰克",
+    "ja": "ロタリンギアの東フランク帰属"
+   },
+   "description": {
+    "en": "In 925 King Henry the Fowler brought Lotharingia, which had sided with the West Franks since 911, under East Frankish rule. The Dutch lands thereby became part of the German kingdom and, from 962, of the Holy Roman Empire. They would remain formally within the empire until the 17th century.",
+    "ko": "925년 새잡이왕 하인리히는 911년 이후 서프랑크 편에 섰던 로타링기아를 동프랑크의 지배 아래 두었다. 이로써 네덜란드 땅은 독일 왕국, 그리고 962년부터는 신성 로마 제국의 일부가 되었다. 이 땅은 17세기까지 형식상 제국 안에 머물렀다.",
+    "zh": "925年，“捕鸟者”亨利国王将911年以来倒向西法兰克的洛泰尔王国纳入东法兰克统治之下。荷兰土地由此成为德意志王国的一部分，并自962年起属于神圣罗马帝国。直至17世纪，它们在名义上一直留在帝国之内。",
+    "ja": "925年、捕鳥王ハインリヒは911年以来西フランクについていたロタリンギアを東フランクの支配下に置いた。これによりオランダの地はドイツ王国の一部となり、962年からは神聖ローマ帝国に属した。これらの地は17世紀まで形式上帝国内にとどまった。"
+   }
+  },
+  {
+   "year": 1018,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Vlaardingen",
+    "ko": "플라르딩언 전투",
+    "zh": "弗拉尔丁恩战役",
+    "ja": "フラールディンゲンの戦い"
+   },
+   "description": {
+    "en": "On 29 July 1018 Count Dirk III of the coastal 'West Frisian' county defeated an imperial army led by Duke Godfrey of Lower Lorraine near Vlaardingen. Dirk had built a stronghold there and levied tolls on Rhine-Meuse shipping, angering the emperor and the merchants of Tiel. The victory secured the independence of the future counts of Holland from imperial and episcopal control.",
+    "ko": "1018년 7월 29일 해안 '서프리슬란트' 백작령의 디르크 3세 백작은 플라르딩언 부근에서 하로트링겐 공작 고드프루아가 이끄는 제국군을 격파했다. 디르크는 그곳에 요새를 짓고 라인·마스강 해운에 통행세를 부과하여 황제와 틸의 상인들을 분노하게 했다. 이 승리로 훗날의 홀란트 백작들은 황제와 주교의 통제로부터 독립을 확보했다.",
+    "zh": "1018年7月29日，沿海“西弗里斯兰”伯国的迪尔克三世伯爵在弗拉尔丁恩附近击败了由下洛林公爵戈弗雷率领的帝国军队。迪尔克曾在那里修筑要塞，并向莱茵-马斯河航运征收通行税，激怒了皇帝和蒂尔的商人。这场胜利确保了后来的荷兰伯爵摆脱皇帝和主教的控制而独立。",
+    "ja": "1018年7月29日、沿岸の「西フリースラント」伯領のディルク3世は、フラールディンゲン近くで下ロートリンゲン公ゴドフロワが率いる帝国軍を破った。ディルクはそこに砦を築き、ライン・マース川の水運に通行税を課して、皇帝とティールの商人の怒りを買っていた。この勝利によって、後のホラント伯は皇帝と司教の支配から独立を確保した。"
+   }
+  },
+  {
+   "year": 1122,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Utrecht receives city rights",
+    "ko": "위트레흐트의 도시 권리 획득",
+    "zh": "乌得勒支获得城市权利",
+    "ja": "ユトレヒトの都市権獲得"
+   },
+   "description": {
+    "en": "On 2 June 1122 Emperor Henry V granted city rights to Utrecht, the seat of the powerful prince-bishops and the largest town of the northern Netherlands at the time. The charter confirmed the privileges of its citizens and allowed them to build walls. In the following centuries many other towns in Holland, Guelders and the IJssel region received charters as trade and population grew.",
+    "ko": "1122년 6월 2일 하인리히 5세 황제는 강력한 영주 주교의 본거지이자 당시 네덜란드 북부 최대 도시였던 위트레흐트에 도시 권리를 부여했다. 이 특허장은 시민의 특권을 확인하고 성벽 건설을 허용했다. 이후 수 세기 동안 교역과 인구가 늘면서 홀란트, 헬러, 에이설강 유역의 많은 도시들도 특허장을 받았다.",
+    "zh": "1122年6月2日，亨利五世皇帝授予乌得勒支城市权利；该城是势力强大的采邑主教驻地，也是当时尼德兰北部最大的城镇。特许状确认了市民的特权，并允许他们修筑城墙。随后的几个世纪里，随着贸易和人口增长，荷兰、海尔德兰和艾瑟尔河流域的许多城镇也获得了特许状。",
+    "ja": "1122年6月2日、ハインリヒ5世帝は、強力な司教領主の本拠であり当時ネーデルラント北部最大の町であったユトレヒトに都市権を与えた。この特許状は市民の特権を確認し、城壁の建設を許した。その後数世紀、交易と人口の増加に伴い、ホラント、ヘルレ、エイセル川流域の多くの町も特許状を得た。"
+   }
+  },
+  {
+   "year": 1170,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "All Saints' Flood of 1170",
+    "ko": "1170년 만성절 홍수",
+    "zh": "1170年诸圣节洪水",
+    "ja": "1170年の万聖節洪水"
+   },
+   "description": {
+    "en": "On 1 November 1170 a storm surge struck the coasts of the Low Countries, flooding large areas of the north. The flood widened the inland waters around the later Zuiderzee and helped make Wieringen an island. It was one of a series of medieval storm floods that reshaped the Dutch coastline and drove the building of dikes.",
+    "ko": "1170년 11월 1일 폭풍 해일이 저지대 해안을 덮쳐 북부의 넓은 지역이 침수되었다. 이 홍수로 훗날 자위더르해가 되는 내륙 수역이 넓어졌고 비링언은 섬이 되었다. 이는 네덜란드 해안선을 바꾸고 제방 건설을 촉진한 일련의 중세 폭풍 해일 가운데 하나였다.",
+    "zh": "1170年11月1日，风暴潮袭击低地沿海，淹没了北部大片地区。这次洪水扩大了后来须德海周围的内陆水域，并使维灵恩成为岛屿。这是一系列重塑荷兰海岸线、推动堤坝建设的中世纪风暴潮之一。",
+    "ja": "1170年11月1日、高潮が低地地方の沿岸を襲い、北部の広い地域が浸水した。この洪水により、後のゾイデル海周辺の内水域が広がり、ウィーリンゲンは島となった。これはオランダの海岸線を変え、堤防建設を促した一連の中世の高潮の一つであった。"
+   }
+  },
+  {
+   "year": 1247,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "William II of Holland elected King of the Romans",
+    "ko": "홀란트의 빌럼 2세, 로마인의 왕으로 선출",
+    "zh": "荷兰的威廉二世当选罗马人民的国王",
+    "ja": "ホラント伯ウィレム2世、ローマ王に選出"
+   },
+   "description": {
+    "en": "In 1247, during the struggle between the papacy and Emperor Frederick II, Count William II of Holland was elected King of the Romans by pro-papal princes. He was crowned at Aachen in 1248, the only count of Holland to hold the German royal title. He was killed in 1256 while campaigning against the West Frisians near Hoogwoud.",
+    "ko": "1247년 교황권과 프리드리히 2세 황제의 대립 속에서 홀란트의 빌럼 2세 백작은 친교황파 제후들에 의해 로마인의 왕(독일 왕)으로 선출되었다. 그는 1248년 아헨에서 대관했으며, 독일 왕위를 가진 유일한 홀란트 백작이었다. 그는 1256년 호흐바우트 부근에서 서프리슬란트인을 공격하다 전사했다.",
+    "zh": "1247年，在教廷与腓特烈二世皇帝的斗争中，荷兰伯爵威廉二世被亲教宗的诸侯选为罗马人民的国王（德意志国王）。他于1248年在亚琛加冕，是唯一获得德意志王号的荷兰伯爵。1256年，他在霍赫伍德附近征讨西弗里斯兰人时阵亡。",
+    "ja": "1247年、教皇とフリードリヒ2世帝の争いの中で、ホラント伯ウィレム2世は教皇派の諸侯によってローマ王（ドイツ王）に選ばれた。彼は1248年にアーヘンで戴冠し、ドイツ王位を得た唯一のホラント伯となった。彼は1256年、ホーフワウト付近で西フリース人を攻める中で戦死した。"
+   }
+  },
+  {
+   "year": 1255,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Charter of the Rijnland water board",
+    "ko": "레인란트 물관리 위원회 특허장",
+    "zh": "莱茵兰水务委员会特许状",
+    "ja": "ラインラント水管理委員会の特許状"
+   },
+   "description": {
+    "en": "In 1255 Count William II of Holland issued a charter for the Hoogheemraadschap van Rijnland, one of the oldest water boards in the Netherlands, which managed dikes, sluices and drainage around Leiden. Water boards, run by landowners who shared the costs of flood defence, became a characteristic Dutch institution. Several of them still exist and are often described as among the country's oldest democratic bodies.",
+    "ko": "1255년 홀란트의 빌럼 2세 백작은 레이던 일대의 제방·수문·배수를 관리한, 네덜란드에서 가장 오래된 물관리 위원회 가운데 하나인 레인란트 고등 물관리 위원회에 특허장을 내렸다. 홍수 방어 비용을 분담한 토지 소유자들이 운영한 물관리 위원회는 네덜란드 특유의 제도가 되었다. 그 가운데 여러 곳이 오늘날에도 존재하며, 흔히 이 나라에서 가장 오래된 민주적 기구로 꼽힌다.",
+    "zh": "1255年，荷兰伯爵威廉二世为莱茵兰高级水务委员会颁发特许状，这是荷兰最古老的水务委员会之一，负责管理莱顿周围的堤坝、水闸和排水。由分担防洪费用的土地所有者管理的水务委员会成为荷兰特有的制度，其中若干至今仍在运作，常被称为该国最古老的民主机构之一。",
+    "ja": "1255年、ホラント伯ウィレム2世は、ライデン周辺の堤防・水門・排水を管理した、オランダ最古級の水管理委員会であるラインラント高等水管理委員会に特許状を与えた。洪水防御の費用を分担する土地所有者が運営する水管理委員会は、オランダ特有の制度となった。そのいくつかは現在も存続し、しばしば国内最古の民主的機関の一つとされる。"
+   }
+  },
+  {
+   "year": 1275,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "First mention of Amsterdam",
+    "ko": "암스테르담의 첫 기록",
+    "zh": "阿姆斯特丹首次见于记载",
+    "ja": "アムステルダムの初出"
+   },
+   "description": {
+    "en": "On 27 October 1275 Count Floris V of Holland granted the people living near the dam in the river Amstel exemption from tolls in his county; the charter is the oldest document mentioning Amsterdam. The settlement had grown up around a dam built to protect against the IJ. Over the following centuries it developed into a major port in the Baltic grain trade and eventually the commercial capital of the Netherlands.",
+    "ko": "1275년 10월 27일 홀란트의 플로리스 5세 백작은 암스텔강의 둑 부근에 사는 사람들에게 백작령 내 통행세를 면제해 주었는데, 이 특허장이 암스테르담을 언급한 가장 오래된 문서다. 이 정착지는 에이만의 물을 막기 위해 쌓은 둑 주변에서 성장했다. 이후 수 세기에 걸쳐 발트해 곡물 무역의 주요 항구로 발전했고, 마침내 네덜란드의 상업 수도가 되었다.",
+    "zh": "1275年10月27日，荷兰伯爵弗洛里斯五世准许住在阿姆斯特尔河水坝附近的居民在其伯国内免交通行税；这份特许状是提及阿姆斯特丹的最古老文献。这一聚落是围绕为防御艾湾而筑的水坝发展起来的。此后几个世纪里，它发展为波罗的海谷物贸易的重要港口，最终成为荷兰的商业之都。",
+    "ja": "1275年10月27日、ホラント伯フロリス5世はアムステル川のダム付近に住む人々に伯領内の通行税を免除した。この特許状がアムステルダムに言及した最古の文書である。この集落はアイ湾の水を防ぐために築かれたダムの周りに発展した。その後数世紀のうちにバルト海穀物貿易の主要港となり、やがてオランダの商業の首都となった。"
+   }
+  },
+  {
+   "year": 1287,
+   "qid": null,
+   "importance": 1,
+   "category": "disaster",
+   "title": {
+    "en": "St. Lucia's flood opens the Zuiderzee",
+    "ko": "자위더르해를 연 성 루치아 홍수",
+    "zh": "圣露西亚洪水打开须德海",
+    "ja": "ゾイデル海を開いた聖ルチア洪水"
+   },
+   "description": {
+    "en": "On 14 December 1287 a severe storm surge broke through the remaining land barriers in the north, turning the inland lake Almere into an arm of the sea, the Zuiderzee. Tens of thousands of people are thought to have died in the Netherlands and northern Germany, by some estimates more than 50,000, making it one of the deadliest floods in history. The new sea gave towns such as Amsterdam, Kampen and Hoorn direct access to maritime trade.",
+    "ko": "1287년 12월 14일 거센 폭풍 해일이 북부에 남아 있던 육지 장벽을 뚫어 내륙호 알메러를 바다의 만인 자위더르해로 바꾸어 놓았다. 네덜란드와 북부 독일에서 수만 명, 일부 추산으로는 5만 명 이상이 숨진 것으로 여겨져 역사상 가장 치명적인 홍수 가운데 하나로 꼽힌다. 새 바다는 암스테르담, 캄펀, 호른 같은 도시들에 해상 교역으로 곧장 나갈 길을 열어 주었다.",
+    "zh": "1287年12月14日，一场猛烈的风暴潮冲破北部残存的陆地屏障，把内陆湖阿尔默勒变成了海湾，即须德海。据估计荷兰和德国北部有数万人罹难，有的估计超过5万人，使其成为历史上最致命的洪灾之一。新形成的海域使阿姆斯特丹、坎彭和霍伦等城镇得以直接参与海上贸易。",
+    "ja": "1287年12月14日、激しい高潮が北部に残っていた陸の障壁を突き破り、内陸湖アルメレを海の入り江ゾイデル海に変えた。オランダと北ドイツで数万人、一部の推計では5万人以上が死亡したと考えられ、史上最悪級の洪水の一つとされる。新たな海は、アムステルダム、カンペン、ホールンなどの町に海上交易への直接の出口をもたらした。"
+   }
+  },
+  {
+   "year": 1296,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Murder of Count Floris V",
+    "ko": "플로리스 5세 백작 피살",
+    "zh": "弗洛里斯五世伯爵遇刺",
+    "ja": "フロリス5世伯の暗殺"
+   },
+   "description": {
+    "en": "In June 1296 Count Floris V of Holland, who had conquered West Friesland and was popular with townspeople and farmers, was seized by a group of disaffected nobles including Gerard van Velzen and killed near Muiden. The plot was linked to his switch from an English to a French alliance. His murder became one of the best-known episodes of medieval Dutch history and a subject of later literature.",
+    "ko": "1296년 6월 서프리슬란트를 정복하고 도시민과 농민에게 인기가 높았던 홀란트의 플로리스 5세 백작은 헤라르트 판 펠전 등 불만을 품은 귀족 무리에게 붙잡혀 무이던 부근에서 살해되었다. 이 음모는 그가 잉글랜드 동맹에서 프랑스 동맹으로 돌아선 일과 관련되어 있었다. 그의 피살은 중세 네덜란드사에서 가장 널리 알려진 사건 중 하나가 되어 후대 문학의 소재가 되었다.",
+    "zh": "1296年6月，征服了西弗里斯兰、深受市民和农民拥戴的荷兰伯爵弗洛里斯五世，被赫拉德·范·费尔森等心怀不满的贵族劫持，在默伊登附近遇害。这一阴谋与他从英格兰同盟转向法国同盟有关。他的遇刺成为荷兰中世纪史上最著名的事件之一，也是后世文学的题材。",
+    "ja": "1296年6月、西フリースラントを征服し町人や農民に人気のあったホラント伯フロリス5世は、ヘラルト・ファン・フェルゼンら不満を抱く貴族の一団に捕らえられ、ミュイデン近くで殺害された。この陰謀は、彼がイングランドとの同盟からフランスとの同盟に乗り換えたことと関係していた。彼の暗殺は中世オランダ史で最もよく知られた出来事の一つとなり、後世の文学の題材となった。"
+   }
+  },
+  {
+   "year": 1345,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Warns",
+    "ko": "바른스 전투",
+    "zh": "瓦恩斯战役",
+    "ja": "ワルンスの戦い"
+   },
+   "description": {
+    "en": "On 26 September 1345 Count William IV of Holland and Hainaut invaded Friesland to subdue it, but was defeated and killed by Frisian forces near Warns. The victory preserved 'Frisian freedom', the absence of feudal lords in Friesland, for another century and a half. It is still commemorated in Friesland as a symbol of Frisian independence.",
+    "ko": "1345년 9월 26일 홀란트·에노 백작 빌럼 4세는 프리슬란트를 정복하려 침공했으나 바른스 부근에서 프리슬란트군에 패해 전사했다. 이 승리로 봉건 영주가 없는 '프리슬란트의 자유'는 이후 한 세기 반 동안 유지되었다. 이 전투는 오늘날에도 프리슬란트에서 프리슬란트 독립의 상징으로 기념된다.",
+    "zh": "1345年9月26日，荷兰兼埃诺伯爵威廉四世入侵弗里斯兰欲加征服，却在瓦恩斯附近被弗里斯兰人击败身亡。这场胜利使弗里斯兰无封建领主的“弗里斯兰自由”又延续了一个半世纪。直到今天，弗里斯兰仍把这场战役作为弗里斯兰独立的象征来纪念。",
+    "ja": "1345年9月26日、ホラント・エノー伯ウィレム4世はフリースラントを征服しようと侵攻したが、ワルンス近くでフリース人の軍に敗れて戦死した。この勝利により、封建領主のいない「フリースラントの自由」はさらに1世紀半保たれた。この戦いは今もフリースラントで独立の象徴として記念されている。"
+   }
+  },
+  {
+   "year": 1350,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Hook and Cod wars begin",
+    "ko": "훅파와 카베파 전쟁의 시작",
+    "zh": "钩派与鳕鱼派之争爆发",
+    "ja": "フック派とタラ派の抗争の始まり"
+   },
+   "description": {
+    "en": "In 1350 a succession dispute between Countess Margaret of Hainaut and Holland and her son William V divided Holland's nobles and towns into two factions, the Hooks (Hoeken) and the Cods (Kabeljauwen). Their feuds and civil wars flared up repeatedly for more than a century. The conflict weakened the county and helped the dukes of Burgundy take control in the 15th century.",
+    "ko": "1350년 에노·홀란트 여백작 마르가레타와 아들 빌럼 5세 사이의 계승 분쟁으로 홀란트의 귀족과 도시들은 '훅'과 '카베야우'(대구)라는 두 파벌로 갈라졌다. 그들의 반목과 내전은 한 세기 넘게 거듭 불붙었다. 이 갈등은 백작령을 약화시켜 15세기 부르고뉴 공작들이 지배권을 잡는 데 도움을 주었다.",
+    "zh": "1350年，埃诺和荷兰女伯爵玛格丽特与其子威廉五世之间的继承纠纷，使荷兰贵族和城镇分裂成“钩派”和“鳕鱼派”两大派系。他们之间的仇杀与内战反复爆发长达一个多世纪。这一冲突削弱了伯国，助勃艮第公爵在15世纪取得统治权。",
+    "ja": "1350年、エノー・ホラント女伯マルガレータとその子ウィレム5世の継承争いにより、ホラントの貴族と都市は「フック派」と「タラ派（カベルヤウ派）」の二派に分かれた。両派の確執と内戦は1世紀以上にわたって繰り返し燃え上がった。この抗争は伯領を弱め、15世紀にブルゴーニュ公が支配権を握る助けとなった。"
+   }
+  },
+  {
+   "year": 1374,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Geert Grote and the Modern Devotion",
+    "ko": "헤이르트 흐로터와 근대 경건 운동",
+    "zh": "赫尔特·格罗特与“新虔诚运动”",
+    "ja": "ヘールト・フローテと新しい信心"
+   },
+   "description": {
+    "en": "In 1374 the Deventer preacher Geert Grote gave his family house to a community of devout women, a step in the rise of the Devotio Moderna. The movement, carried on by the Brothers and Sisters of the Common Life and the Windesheim canons, stressed inner piety, simple living and education. Its best-known text, The Imitation of Christ, is attributed to Thomas à Kempis, who lived near Zwolle.",
+    "ko": "1374년 데벤터르의 설교자 헤이르트 흐로터는 자기 집안의 저택을 경건한 여성들의 공동체에 내주었고, 이는 '근대 경건 운동'의 출발점 가운데 하나가 되었다. 공동생활 형제단·자매단과 빈데스하임 수도참사회가 이어 간 이 운동은 내면의 신앙, 소박한 생활, 교육을 강조했다. 가장 유명한 저작인 『그리스도를 본받아』는 즈볼러 근처에서 살았던 토마스 아 켐피스의 작품으로 여겨진다.",
+    "zh": "1374年，代芬特尔的布道者赫尔特·格罗特将自家房屋交给一个虔诚女子团体，这是“新虔诚运动”兴起的一步。这一运动由共同生活弟兄会、姊妹会以及温德斯海姆修会延续，强调内在虔敬、简朴生活和教育。其最著名的著作《效法基督》被认为出自住在兹沃勒附近的托马斯·肯皮斯之手。",
+    "ja": "1374年、デーフェンテルの説教者ヘールト・フローテは自家の屋敷を敬虔な女性たちの共同体に提供し、これが「新しい信心（デヴォティオ・モデルナ）」の興隆の一歩となった。共同生活兄弟会・姉妹会とウィンデスハイム修道参事会が担ったこの運動は、内面的な信仰、質素な生活、教育を重んじた。最も有名な著作『キリストに倣いて』は、ズヴォレ近くに住んだトマス・ア・ケンピスの作とされる。"
+   }
+  },
+  {
+   "year": 1421,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "St. Elizabeth's flood",
+    "ko": "성 엘리사벳 홍수",
+    "zh": "圣伊丽莎白洪水",
+    "ja": "聖エリーザベト洪水"
+   },
+   "description": {
+    "en": "On the night of 18–19 November 1421 a storm surge broke the dikes of the Grote Waard, a rich polder between Dordrecht and Geertruidenberg. Dozens of villages were lost and the area was never fully reclaimed; part of it became the freshwater tidal marsh of the Biesbosch, and Dordrecht was left on an island. The disaster entered Dutch legend and was depicted in a famous 15th-century altarpiece.",
+    "ko": "1421년 11월 18~19일 밤 폭풍 해일이 도르드레흐트와 헤이르트라위덴베르흐 사이의 비옥한 간척지 흐로터 바르트의 제방을 무너뜨렸다. 수십 개 마을이 사라졌고 이 지역은 끝내 완전히 복구되지 못해 일부는 담수 조간대 습지인 비스보스가 되었으며, 도르드레흐트는 섬에 남겨졌다. 이 재난은 네덜란드 전설에 남았고 15세기의 유명한 제단화에 묘사되었다.",
+    "zh": "1421年11月18日至19日夜，风暴潮冲垮了多德雷赫特与海特勒伊登贝赫之间富饶圩田格罗特瓦德的堤坝。数十个村庄被毁，该地区再未完全复垦，部分地区变成了淡水潮汐沼泽比斯博斯，多德雷赫特则成了岛上之城。这场灾难成为荷兰传说的一部分，并被描绘在一幅著名的15世纪祭坛画上。",
+    "ja": "1421年11月18日から19日にかけての夜、高潮がドルドレヒトとヘールトライデンベルフの間の豊かな干拓地フローテ・ワールトの堤防を破った。数十の村が失われ、この地域は完全には回復されず、一部は淡水の感潮湿地ビースボスとなり、ドルドレヒトは島に取り残された。この災害はオランダの伝説となり、15世紀の有名な祭壇画に描かれた。"
+   }
+  },
+  {
+   "year": 1433,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Burgundy takes Holland and Zeeland",
+    "ko": "부르고뉴의 홀란트·제일란트 획득",
+    "zh": "勃艮第取得荷兰与泽兰",
+    "ja": "ブルゴーニュがホラントとゼーラントを獲得"
+   },
+   "description": {
+    "en": "After years of war, Countess Jacqueline of Bavaria recognised Duke Philip the Good of Burgundy as heir to Holland, Zeeland and Hainaut in the Treaty of Delft of 1428, and in 1433 she ceded the counties to him outright. Philip already ruled Flanders and Brabant, so most of the Low Countries were now united under one prince. The Burgundian state introduced common institutions and drew the northern provinces into the economic orbit of the southern cities.",
+    "ko": "수년간의 전쟁 끝에 바이에른의 자클린 여백작은 1428년 델프트 조약으로 부르고뉴의 선량공 필리프를 홀란트·제일란트·에노의 상속자로 인정했고, 1433년에는 이 백작령들을 그에게 완전히 넘겼다. 필리프는 이미 플란데런과 브라반트를 다스리고 있었으므로, 이로써 저지대 대부분이 한 군주 아래 통합되었다. 부르고뉴 국가는 공동 제도를 도입하고 북부 주들을 남부 도시들의 경제권으로 끌어들였다.",
+    "zh": "经过多年战争，巴伐利亚的雅克琳女伯爵在1428年的《代尔夫特条约》中承认勃艮第的“好人”菲利普公爵为荷兰、泽兰和埃诺的继承人，并于1433年将这些伯国完全让予他。菲利普早已统治佛兰德和布拉班特，低地大部分地区由此统一于一位君主之下。勃艮第国家建立了共同制度，并将北方各省纳入南方城市的经济圈。",
+    "ja": "長年の戦争の末、バイエルンのジャクリーヌ女伯は1428年のデルフト条約でブルゴーニュ公フィリップ善良公をホラント、ゼーラント、エノーの相続人と認め、1433年にはこれらの伯領を完全に彼に譲った。フィリップはすでにフランドルとブラバントを治めていたため、低地地方の大部分が一人の君主のもとに統合された。ブルゴーニュ国家は共通の制度を導入し、北部諸州を南部諸都市の経済圏に引き込んだ。"
+   }
+  },
+  {
+   "year": 1464,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First States General",
+    "ko": "첫 전국의회",
+    "zh": "首次三级会议",
+    "ja": "最初の全国議会"
+   },
+   "description": {
+    "en": "In January 1464 Duke Philip the Good summoned delegates of the estates of his various Netherlandish provinces to a joint assembly in Bruges, regarded as the first meeting of the States General. The assembly gave the provinces a common forum to negotiate taxes and policy with their ruler. The States General later became the sovereign body of the Dutch Republic, and its name survives in today's Dutch parliament.",
+    "ko": "1464년 1월 선량공 필리프는 네덜란드 여러 주의 신분 대표들을 브뤼허의 합동 회의에 소집했으며, 이는 첫 전국의회(스타턴헤네라알)로 여겨진다. 이 회의는 여러 주가 군주와 세금·정책을 협상하는 공동의 장이 되었다. 전국의회는 훗날 네덜란드 공화국의 주권 기구가 되었고, 그 이름은 오늘날 네덜란드 의회에 남아 있다.",
+    "zh": "1464年1月，“好人”菲利普公爵召集尼德兰各省等级代表到布鲁日举行联合会议，这被视为三级会议（议会）的首次会议。该会议为各省与君主协商税收和政策提供了共同平台。三级会议后来成为荷兰共和国的最高主权机构，其名称至今仍保留在荷兰议会中。",
+    "ja": "1464年1月、フィリップ善良公はネーデルラント各州の身分代表をブルッヘでの合同会議に召集し、これが最初の全国議会（スターテン・ヘネラール）とされる。この会議は、諸州が君主と税や政策を交渉する共通の場となった。全国議会はのちにネーデルラント連邦共和国の主権機関となり、その名は現在のオランダ議会に残っている。"
+   }
+  },
+  {
+   "year": 1466,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Birth of Erasmus of Rotterdam",
+    "ko": "로테르담의 에라스뮈스 탄생",
+    "zh": "鹿特丹的伊拉斯谟出生",
+    "ja": "ロッテルダムのエラスムス誕生"
+   },
+   "description": {
+    "en": "The humanist Desiderius Erasmus was born in Rotterdam, most often dated to 1466 although the exact year is uncertain. Educated in Deventer and as an Augustinian canon, he became the most celebrated scholar of Renaissance Europe, publishing a Greek New Testament in 1516 and satirical works such as The Praise of Folly. His call for church reform through learning and tolerance deeply influenced Dutch intellectual life.",
+    "ko": "인문주의자 데시데리우스 에라스뮈스는 로테르담에서 태어났으며, 정확한 연도는 불확실하나 흔히 1466년으로 본다. 데벤터르에서 교육받고 아우구스티노회 수도참사회원이 된 그는 르네상스 유럽에서 가장 이름난 학자가 되어 1516년 그리스어 신약 성서와 『우신 예찬』 같은 풍자 작품을 펴냈다. 학문과 관용을 통한 교회 개혁에 대한 그의 호소는 네덜란드 지성사에 깊은 영향을 미쳤다.",
+    "zh": "人文主义者德西德里乌斯·伊拉斯谟出生于鹿特丹，确切年份不详，通常定为1466年。他在代芬特尔求学，后成为奥斯定会修士，成为文艺复兴时期欧洲最著名的学者，于1516年出版希腊文《新约》，并著有《愚人颂》等讽刺作品。他主张通过学问和宽容来改革教会，深刻影响了荷兰的思想生活。",
+    "ja": "人文主義者デシデリウス・エラスムスはロッテルダムに生まれた。正確な年は不明だが、多くは1466年とされる。デーフェンテルで学び、アウグスティノ会の修道参事会員となった彼は、ルネサンス期ヨーロッパで最も名高い学者となり、1516年にギリシア語新約聖書を、また『痴愚神礼讃』などの風刺作品を刊行した。学問と寛容による教会改革を説いた彼の主張は、オランダの知的生活に深い影響を与えた。"
+   }
+  },
+  {
+   "year": 1477,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Great Privilege and the Habsburg marriage",
+    "ko": "대특권과 합스부르크와의 혼인",
+    "zh": "《大特权》与哈布斯堡联姻",
+    "ja": "大特権とハプスブルク家との結婚"
+   },
+   "description": {
+    "en": "When Charles the Bold was killed at Nancy in January 1477, his daughter Mary of Burgundy was forced by the States General to grant the Great Privilege, restoring provincial and urban liberties curtailed by her predecessors. In August 1477 she married Maximilian of Habsburg. The marriage brought the Netherlands into the Habsburg inheritance, which later passed to their grandson Charles V.",
+    "ko": "1477년 1월 용담공 샤를이 낭시에서 전사하자, 그의 딸 부르고뉴의 마리는 전국의회의 압력으로 선대들이 축소했던 주와 도시의 자유를 회복시키는 '대특권'을 부여해야 했다. 같은 해 8월 그녀는 합스부르크 가문의 막시밀리안과 결혼했다. 이 혼인으로 네덜란드는 합스부르크 상속령에 들어갔고, 훗날 그들의 손자 카를 5세에게 넘어갔다.",
+    "zh": "1477年1月“大胆”查理在南锡阵亡后，其女勃艮第的玛丽在三级会议的压力下被迫颁布《大特权》，恢复了被前任君主削减的各省和城市的自由。同年8月，她嫁给了哈布斯堡家族的马克西米利安。这桩婚姻使尼德兰成为哈布斯堡家族的遗产，后来传给他们的孙子查理五世。",
+    "ja": "1477年1月にシャルル突進公がナンシーで戦死すると、娘のマリー・ド・ブルゴーニュは全国議会に迫られ、先代が削った州や都市の自由を回復する「大特権」を認めざるをえなかった。同年8月、彼女はハプスブルク家のマクシミリアンと結婚した。この結婚によってネーデルラントはハプスブルク家の相続領に入り、のちに孫のカール5世へと受け継がれた。"
+   }
+  },
+  {
+   "year": 1549,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Pragmatic Sanction unites the Seventeen Provinces",
+    "ko": "국사조칙으로 17주가 하나로",
+    "zh": "《国事诏书》统一十七省",
+    "ja": "国事詔書による十七州の統合"
+   },
+   "description": {
+    "en": "Charles V completed the Habsburg acquisition of the northern Netherlands by adding Friesland in 1524, Utrecht in 1528, Groningen in 1536 and Guelders by the Treaty of Venlo in 1543. In 1549 his Pragmatic Sanction declared the Seventeen Provinces an indivisible unit to be inherited as a whole. For the first time all of the present-day Netherlands, together with Belgium and Luxembourg, formed a single political entity.",
+    "ko": "카를 5세는 1524년 프리슬란트, 1528년 위트레흐트, 1536년 흐로닝언, 1543년 펜로 조약으로 헬러를 더해 합스부르크의 네덜란드 북부 획득을 완료했다. 1549년 그의 국사조칙은 17주를 통째로 상속되는 불가분의 단위로 선언했다. 이로써 처음으로 오늘날 네덜란드 전역이 벨기에·룩셈부르크와 함께 하나의 정치체를 이루었다.",
+    "zh": "查理五世先后于1524年取得弗里斯兰、1528年取得乌得勒支、1536年取得格罗宁根，并于1543年通过《芬洛条约》取得海尔德兰，完成了哈布斯堡对尼德兰北部的兼并。1549年他颁布《国事诏书》，宣布十七省为不可分割、须整体继承的单位。今荷兰全境首次与比利时、卢森堡一起构成一个统一的政治实体。",
+    "ja": "カール5世は1524年にフリースラント、1528年にユトレヒト、1536年にフローニンゲン、1543年のフェンロー条約でヘルレを加え、ハプスブルク家によるネーデルラント北部の獲得を完成させた。1549年の国事詔書は十七州を一括して相続される不可分の単位と宣言した。これにより初めて、現在のオランダ全域がベルギー、ルクセンブルクとともに一つの政治体を形成した。"
+   }
+  },
+  {
+   "year": 1566,
+   "qid": "Q513860",
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Iconoclastic Fury (Beeldenstorm)",
+    "ko": "성상 파괴 운동(베일덴스토름)",
+    "zh": "破坏圣像运动",
+    "ja": "聖像破壊運動（ベールデンストルム）"
+   },
+   "description": {
+    "en": "In August 1566, after open-air Calvinist hedge sermons drew large crowds, crowds stormed Catholic churches in Flanders and then across the Netherlands, smashing statues, paintings and altars. The wave reached Antwerp, Amsterdam, Utrecht and Groningen within weeks. Philip II responded by sending the Duke of Alba with an army to restore order and punish heresy, which helped trigger the Dutch Revolt.",
+    "ko": "1566년 8월 칼뱅파의 야외 설교에 많은 군중이 모인 뒤, 군중은 플란데런에서 시작해 네덜란드 전역의 가톨릭 교회에 몰려가 성상·그림·제단을 부수었다. 이 물결은 몇 주 만에 안트베르펜, 암스테르담, 위트레흐트, 흐로닝언에 이르렀다. 펠리페 2세는 질서를 회복하고 이단을 처벌하기 위해 알바 공작과 군대를 보냈고, 이는 네덜란드 반란을 촉발하는 계기가 되었다.",
+    "zh": "1566年8月，加尔文派的露天布道吸引大批民众之后，人群从佛兰德开始冲进尼德兰各地的天主教堂，砸毁雕像、画作和祭坛。几周之内，这股浪潮就蔓延到安特卫普、阿姆斯特丹、乌得勒支和格罗宁根。腓力二世派阿尔瓦公爵率军前来恢复秩序、惩处异端，这成为引发尼德兰起义的导火索之一。",
+    "ja": "1566年8月、カルヴァン派の野外説教に大群衆が集まった後、群衆はフランドルを皮切りにネーデルラント各地のカトリック教会に押し寄せ、彫像や絵画、祭壇を破壊した。この波は数週間のうちにアントウェルペン、アムステルダム、ユトレヒト、フローニンゲンに及んだ。フェリペ2世は秩序回復と異端処罰のためアルバ公と軍を送り、これがオランダ反乱の引き金の一つとなった。"
+   }
+  },
+  {
+   "year": 1568,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Dutch Revolt against Spain begins",
+    "ko": "스페인에 맞선 네덜란드 독립 전쟁 발발",
+    "zh": "尼德兰反抗西班牙的八十年战争爆发",
+    "ja": "スペインに対するオランダ独立戦争（八十年戦争）勃発"
+   },
+   "description": {
+    "en": "Led by William of Orange, the Low Countries rose against Spanish Habsburg rule over taxation, the curtailment of local privileges and religious persecution under the Duke of Alba. On 23 May 1568 an army under William's brother Louis of Nassau defeated Spanish troops at Heiligerlee in Groningen, a battle traditionally seen as the start of the Eighty Years' War. The long conflict would forge the Dutch nation and state.",
+    "ko": "오라녜 공 빌럼의 지도 아래 저지대는 알바 공작 치하의 과세, 지방 특권 축소, 종교 박해에 맞서 스페인 합스부르크의 지배에 봉기했다. 1568년 5월 23일 빌럼의 동생 나사우의 로더베이크가 이끄는 군대가 흐로닝언의 헤일리헤를레이에서 스페인군을 격파했는데, 이 전투는 전통적으로 80년 전쟁의 시작으로 여겨진다. 이 기나긴 전쟁은 네덜란드 민족과 국가를 빚어냈다.",
+    "zh": "在奥兰治的威廉领导下，低地人民因阿尔瓦公爵治下的赋税、地方特权遭削减和宗教迫害而起兵反抗西班牙哈布斯堡统治。1568年5月23日，威廉之弟拿骚的路易率军在格罗宁根的海利赫莱击败西班牙军队，这场战役传统上被视为八十年战争的开端。这场漫长的战争铸就了荷兰民族与国家。",
+    "ja": "オラニエ公ウィレムに率いられ、低地地方はアルバ公のもとでの課税、地方特権の縮小、宗教迫害に抗してスペイン・ハプスブルクの支配に立ち上がった。1568年5月23日、ウィレムの弟ナッサウ伯ローデウェイク率いる軍がフローニンゲンのヘイリヘルレーでスペイン軍を破り、この戦いは伝統的に八十年戦争の始まりとされる。この長い戦争がオランダの国民と国家を形づくった。"
+   }
+  },
+  {
+   "year": 1572,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Sea Beggars capture Brielle",
+    "ko": "바다거지단의 브릴레 점령",
+    "zh": "海上乞丐攻占布里勒",
+    "ja": "海乞食団のブリーレ占領"
+   },
+   "description": {
+    "en": "On 1 April 1572 the Sea Beggars, Protestant privateers commissioned by William of Orange, seized the port of Brielle (Den Briel) at the mouth of the Meuse. Within months towns across Holland and Zeeland, including Flushing, Enkhuizen and Dordrecht, went over to the rebels and recognised William as stadtholder. Holland and Zeeland became the core of the revolt and of the later Dutch state.",
+    "ko": "1572년 4월 1일 오라녜 공 빌럼의 위임을 받은 신교도 사략선단 '바다거지단'이 마스강 하구의 항구 브릴레(덴브릴)를 점령했다. 몇 달 만에 플리싱언, 엥크하위전, 도르드레흐트 등 홀란트와 제일란트 전역의 도시들이 반란군 편으로 돌아서 빌럼을 총독으로 인정했다. 홀란트와 제일란트는 반란과 훗날 네덜란드 국가의 중심이 되었다.",
+    "zh": "1572年4月1日，受奥兰治的威廉委任的新教私掠船队“海上乞丐”攻占了马斯河口的港口布里勒（登布里尔）。数月之内，弗利辛恩、恩克赫伊森、多德雷赫特等荷兰与泽兰各地城镇纷纷倒向起义者，承认威廉为执政。荷兰和泽兰成为起义以及后来荷兰国家的核心。",
+    "ja": "1572年4月1日、オラニエ公ウィレムの委任を受けたプロテスタントの私掠船団「海乞食団」がマース川河口の港町ブリーレ（デン・ブリール）を占領した。数か月のうちに、フリシンゲン、エンクハイゼン、ドルドレヒトなどホラントとゼーラント各地の都市が反乱側に転じ、ウィレムを総督と認めた。ホラントとゼーラントは反乱と後のオランダ国家の中核となった。"
+   }
+  },
+  {
+   "year": 1574,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Relief of Leiden",
+    "ko": "레이던 해방",
+    "zh": "莱顿解围",
+    "ja": "ライデンの解放"
+   },
+   "description": {
+    "en": "In 1574 Spanish forces besieged Leiden for months, and thousands of inhabitants died of hunger and disease. The rebels cut the dikes so that floodwaters, driven by a favourable wind, allowed the Sea Beggars' flat-bottomed boats to reach the city, and the Spanish withdrew on 3 October 1574. The relief is still celebrated in Leiden every 3 October with herring and white bread.",
+    "ko": "1574년 스페인군은 수개월 동안 레이던을 포위했고 수천 명의 주민이 굶주림과 질병으로 숨졌다. 반란군은 제방을 터뜨렸고, 순풍에 밀려온 물 덕분에 바다거지단의 평저선이 도시에 닿자 스페인군은 1574년 10월 3일 철수했다. 레이던은 지금도 해마다 10월 3일 청어와 흰 빵으로 해방을 기념한다.",
+    "zh": "1574年，西班牙军队围困莱顿数月，数以千计的居民死于饥饿和疾病。起义者掘开堤坝，洪水在顺风推动下使海上乞丐的平底船得以抵达城下，西班牙军于1574年10月3日撤退。直到今天，莱顿每年10月3日仍以鲱鱼和白面包庆祝解围。",
+    "ja": "1574年、スペイン軍はライデンを数か月にわたって包囲し、数千人の住民が飢えと病で死んだ。反乱軍は堤防を切り、順風に押された水によって海乞食団の平底船が町にたどり着くと、スペイン軍は1574年10月3日に撤退した。ライデンでは今も毎年10月3日にニシンと白パンで解放を祝う。"
+   }
+  },
+  {
+   "year": 1575,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Leiden University founded",
+    "ko": "레이던 대학교 설립",
+    "zh": "莱顿大学创立",
+    "ja": "ライデン大学の創立"
+   },
+   "description": {
+    "en": "In February 1575 William of Orange founded a university at Leiden, by tradition as a reward for the city's resistance during the siege. Leiden University, the oldest in the Netherlands, quickly became one of Europe's leading centres of learning, attracting scholars such as Joseph Scaliger. It trained the ministers, lawyers and scientists of the young Republic.",
+    "ko": "1575년 2월 오라녜 공 빌럼은 레이던에 대학을 세웠는데, 전통적으로 포위 기간 이 도시의 저항에 대한 보상이었다고 전해진다. 네덜란드에서 가장 오래된 레이던 대학교는 곧 요제프 스칼리제르 같은 학자들을 끌어들이며 유럽의 손꼽히는 학문 중심지가 되었다. 이 대학은 신생 공화국의 목사·법률가·과학자들을 길러 냈다.",
+    "zh": "1575年2月，奥兰治的威廉在莱顿创办了一所大学，据传是为了嘉奖该城在围城期间的抵抗。莱顿大学是荷兰最古老的大学，很快便吸引了约瑟夫·斯卡利杰等学者，成为欧洲一流的学术中心之一。它为年轻的共和国培养了牧师、法律人和科学家。",
+    "ja": "1575年2月、オラニエ公ウィレムはライデンに大学を創立した。伝承によれば包囲戦での町の抵抗への褒賞であった。オランダ最古のライデン大学は、ヨセフ・スカリゲルら学者を集めて、たちまちヨーロッパ有数の学問の中心となった。大学は若い共和国の牧師、法律家、科学者を育てた。"
+   }
+  },
+  {
+   "year": 1579,
+   "qid": "Q216165",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Union of Utrecht",
+    "ko": "위트레흐트 동맹",
+    "zh": "乌得勒支同盟",
+    "ja": "ユトレヒト同盟"
+   },
+   "description": {
+    "en": "On 23 January 1579 Holland, Zeeland, Utrecht and other northern provinces signed the Union of Utrecht, a defensive alliance against Spain; further provinces and cities, including Guelders and Friesland, joined later. The treaty provided for joint defence and finances and guaranteed that no one should be persecuted for religion. It became the de facto constitution of the Dutch Republic until 1795.",
+    "ko": "1579년 1월 23일 홀란트, 제일란트, 위트레흐트 등 북부 주들은 스페인에 맞선 방위 동맹인 위트레흐트 동맹에 서명했고, 헬러와 프리슬란트 등 다른 주와 도시들도 뒤이어 가입했다. 이 조약은 공동 방위와 재정을 규정하고, 누구도 종교 때문에 박해받지 않도록 보장했다. 이는 1795년까지 네덜란드 공화국의 사실상의 헌법이 되었다.",
+    "zh": "1579年1月23日，荷兰、泽兰、乌得勒支等北方各省签署了反抗西班牙的防御同盟《乌得勒支同盟》，海尔德兰、弗里斯兰等其他省份和城市随后加入。条约规定共同防御与财政，并保证任何人不因宗教而受迫害。直到1795年，它一直是荷兰共和国事实上的宪法。",
+    "ja": "1579年1月23日、ホラント、ゼーラント、ユトレヒトなど北部諸州はスペインに対する防衛同盟であるユトレヒト同盟に調印し、ヘルレやフリースラントなど他の州や都市も後に加わった。同盟は共同の防衛と財政を定め、何人も宗教を理由に迫害されないことを保障した。これは1795年までネーデルラント連邦共和国の事実上の憲法となった。"
+   }
+  },
+  {
+   "year": 1581,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Act of Abjuration: independence declared",
+    "ko": "폐위 선언: 독립 선포",
+    "zh": "《誓绝法案》：宣布脱离西班牙",
+    "ja": "「誓絶法令」による独立宣言"
+   },
+   "description": {
+    "en": "On 26 July 1581 the States General of the rebel provinces formally renounced Philip II of Spain as their sovereign in the Act of Abjuration (Plakkaat van Verlatinghe). It argued that a prince who oppresses his subjects instead of protecting them is a tyrant and may be deposed. The act is regarded as an early landmark of the idea that rulers derive their authority from their subjects, and is often cited as a forerunner of later declarations of independence.",
+    "ko": "1581년 7월 26일 반란 주들의 전국의회는 '폐위 선언(플라카트 판 페를라팅허)'으로 스페인의 펠리페 2세를 군주로 인정하지 않는다고 공식 선언했다. 이 문서는 신민을 보호하지 않고 억압하는 군주는 폭군이며 폐위될 수 있다고 주장했다. 이는 통치자의 권위가 신민에게서 나온다는 사상의 초기 이정표로 평가되며, 훗날 여러 독립 선언의 선구로 자주 언급된다.",
+    "zh": "1581年7月26日，起义各省的三级会议通过《誓绝法案》，正式宣布不再奉西班牙国王腓力二世为君主。法案主张，一个不保护臣民反而压迫他们的君主就是暴君，可以被废黜。它被视为“统治者权力来自臣民”这一思想的早期里程碑，常被称作后世独立宣言的先驱。",
+    "ja": "1581年7月26日、反乱諸州の全国議会は「誓絶法令（プラカート・ファン・フェルラーティンヘ）」によって、スペイン王フェリペ2世を君主として認めないと正式に宣言した。法令は、臣民を守らずに抑圧する君主は暴君であり、廃位されうると論じた。これは統治者の権威が臣民に由来するという思想の初期の画期とされ、後の独立宣言の先駆としてしばしば言及される。"
+   }
+  },
+  {
+   "year": 1584,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of William of Orange",
+    "ko": "오라녜 공 빌럼 암살",
+    "zh": "奥兰治的威廉遇刺",
+    "ja": "オラニエ公ウィレムの暗殺"
+   },
+   "description": {
+    "en": "On 10 July 1584 William of Orange, leader of the revolt, was shot dead at his residence in Delft by Balthasar Gérard, a Catholic who sought the reward Philip II had placed on William's head. It was one of the first assassinations of a head of state with a handgun. William, called 'the Silent', is honoured as the father of the nation, and his tune, the Wilhelmus, became the Dutch national anthem.",
+    "ko": "1584년 7월 10일 반란의 지도자 오라녜 공 빌럼은 델프트의 거처에서 펠리페 2세가 그의 목에 건 현상금을 노린 가톨릭교도 발타사르 헤라르트의 총에 맞아 숨졌다. 이는 권총으로 국가 지도자를 암살한 최초의 사례 가운데 하나였다. '침묵공'으로 불린 빌럼은 국부로 추앙되며, 그를 노래한 '빌헬뮈스'는 네덜란드 국가가 되었다.",
+    "zh": "1584年7月10日，起义领袖奥兰治的威廉在代尔夫特的寓所中被天主教徒巴尔塔萨·热拉尔枪杀，凶手是为了得到腓力二世悬赏威廉首级的赏金。这是最早用手枪刺杀国家领导人的事件之一。人称“沉默者”的威廉被尊为国父，歌颂他的《威廉颂》后来成为荷兰国歌。",
+    "ja": "1584年7月10日、反乱の指導者オラニエ公ウィレムはデルフトの居館で、フェリペ2世が彼の首に懸けた賞金を狙ったカトリック教徒バルタザール・ジェラールに射殺された。これは拳銃による国家指導者暗殺の最初期の例の一つである。「沈黙公」と呼ばれたウィレムは建国の父として敬われ、彼をうたった「ヴィルヘルムス」はオランダ国歌となった。"
+   }
+  },
+  {
+   "year": 1588,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "The Republic of the Seven United Netherlands takes shape",
+    "ko": "7주 연합 네덜란드 공화국의 성립",
+    "zh": "七省联合共和国成形",
+    "ja": "七州連合共和国の成立"
+   },
+   "description": {
+    "en": "After failed attempts to find a new foreign sovereign, and the departure of the English governor-general, the Earl of Leicester, the States General assumed sovereignty themselves in 1588. Under the leadership of Johan van Oldenbarnevelt and the military command of Maurice of Nassau, the seven northern provinces functioned as an independent republic. In the following years Maurice's reformed army recaptured much of the north and east from Spain.",
+    "ko": "새로운 외국 군주를 찾으려는 시도가 실패하고 잉글랜드 출신 총독 레스터 백작이 떠난 뒤, 1588년 전국의회는 스스로 주권을 맡았다. 요한 판 올던바르너펠트의 지도력과 나사우의 마우리츠의 군사 지휘 아래 북부 7개 주는 독립 공화국으로 기능했다. 이후 몇 해 동안 마우리츠가 개혁한 군대는 북부와 동부의 상당 부분을 스페인으로부터 되찾았다.",
+    "zh": "在寻找新的外国君主的尝试失败、英格兰总督莱斯特伯爵离去之后，三级会议于1588年自行承担了主权。在约翰·范·奥尔登巴内费尔特的领导和拿骚的莫里斯的军事指挥下，北方七省作为一个独立的共和国运转。此后数年间，莫里斯改革后的军队从西班牙手中夺回了北部和东部的大部分地区。",
+    "ja": "新たな外国の君主を探す試みが失敗し、イングランド出身の総督レスター伯が去った後、1588年に全国議会は自ら主権を担った。ヨハン・ファン・オルデンバルネフェルトの指導とナッサウ伯マウリッツの軍事指揮のもと、北部七州は独立した共和国として機能した。その後数年でマウリッツの改革された軍隊は、北部と東部の多くをスペインから奪回した。"
+   }
+  },
+  {
+   "year": 1602,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Dutch East India Company (VOC) founded",
+    "ko": "네덜란드 동인도 회사(VOC) 설립",
+    "zh": "荷兰东印度公司（VOC）成立",
+    "ja": "オランダ東インド会社（VOC）設立"
+   },
+   "description": {
+    "en": "On 20 March 1602 the States General merged competing trading companies into the United East India Company (VOC), granting it a monopoly on Dutch trade in Asia along with the power to wage war, conclude treaties and build forts. Often called the world's first publicly traded joint-stock company, it issued shares that were traded in Amsterdam. The VOC powered the Dutch Golden Age, but its spice monopoly was enforced with great violence, including the conquest of the Banda Islands.",
+    "ko": "1602년 3월 20일 전국의회는 경쟁하던 무역 회사들을 통합해 연합 동인도 회사(VOC)를 세우고, 아시아에서의 네덜란드 무역 독점권과 함께 전쟁 수행·조약 체결·요새 건설의 권한을 부여했다. 흔히 세계 최초의 주식 공개 회사로 불리는 VOC는 암스테르담에서 거래되는 주식을 발행했다. VOC는 네덜란드 황금시대의 원동력이었으나, 그 향신료 독점은 반다 제도 정복을 비롯한 극심한 폭력으로 유지되었다.",
+    "zh": "1602年3月20日，三级会议将彼此竞争的贸易公司合并为联合东印度公司（VOC），授予其荷兰对亚洲贸易的垄断权，以及宣战、缔约和修筑要塞的权力。它常被称为世界上第一家公开发行股票的股份公司，其股票在阿姆斯特丹交易。VOC推动了荷兰黄金时代，但其香料垄断是靠包括征服班达群岛在内的严酷暴力维持的。",
+    "ja": "1602年3月20日、全国議会は競合していた貿易会社を統合して連合東インド会社（VOC）を設立し、アジアにおけるオランダの貿易独占権とともに、戦争の遂行、条約の締結、要塞の建設の権限を与えた。しばしば世界初の株式公開会社と呼ばれるVOCは、アムステルダムで取引される株式を発行した。VOCはオランダ黄金時代の原動力となったが、その香辛料独占はバンダ諸島の征服をはじめとする激しい暴力によって維持された。"
+   }
+  },
+  {
+   "year": 1609,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Twelve Years' Truce",
+    "ko": "12년 휴전",
+    "zh": "十二年休战",
+    "ja": "十二年休戦"
+   },
+   "description": {
+    "en": "In April 1609 Spain and the Dutch Republic agreed the Twelve Years' Truce, under which Spain treated the Republic as if it were a free state, though without formal recognition. In the same year the Amsterdam Exchange Bank (Wisselbank) was founded, and a purpose-built stock exchange followed in 1611. During the truce Dutch trade expanded rapidly, but the peace also opened bitter internal religious and political disputes.",
+    "ko": "1609년 4월 스페인과 네덜란드 공화국은 12년 휴전에 합의했으며, 스페인은 공식 승인 없이도 공화국을 자유 국가처럼 대우했다. 같은 해 암스테르담 환은행(비셀방크)이 설립되었고, 1611년에는 전용 증권 거래소 건물이 뒤를 이었다. 휴전 기간 네덜란드 교역은 급속히 확대되었지만, 평화는 동시에 격렬한 내부 종교·정치 분쟁을 불러왔다.",
+    "zh": "1609年4月，西班牙与荷兰共和国达成“十二年休战”，西班牙虽未正式承认，却将共和国视同自由国家相待。同年阿姆斯特丹汇兑银行成立，1611年又建成了专门的证券交易所大楼。休战期间荷兰贸易迅速扩张，但和平也引发了激烈的内部宗教与政治纷争。",
+    "ja": "1609年4月、スペインとネーデルラント連邦共和国は十二年休戦に合意し、スペインは正式な承認はしないものの共和国を自由な国家として扱った。同年アムステルダム為替銀行（ウィッセルバンク）が設立され、1611年には専用の取引所の建物が続いた。休戦中にオランダの交易は急速に拡大したが、平和は同時に激しい国内の宗教・政治紛争を呼び起こした。"
+   }
+  },
+  {
+   "year": 1619,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Synod of Dort and execution of Oldenbarnevelt",
+    "ko": "도르트 회의와 올던바르너펠트 처형",
+    "zh": "多特会议与奥尔登巴内费尔特被处决",
+    "ja": "ドルト会議とオルデンバルネフェルトの処刑"
+   },
+   "description": {
+    "en": "A dispute over predestination between strict Calvinists (Gomarists) and Remonstrants (Arminians) became a political struggle between Maurice of Nassau and the Advocate of Holland, Johan van Oldenbarnevelt. The national Synod of Dort (1618–1619) condemned the Remonstrants and defined Reformed orthodoxy, and on 13 May 1619 the aged Oldenbarnevelt was beheaded in The Hague. The jurist Hugo Grotius was sentenced to life imprisonment but escaped from Loevestein Castle in 1621 hidden in a book chest.",
+    "ko": "예정설을 둘러싼 엄격한 칼뱅파(호마루스파)와 항의파(아르미니우스파)의 논쟁은 나사우의 마우리츠와 홀란트 법률고문 요한 판 올던바르너펠트 사이의 정치 투쟁으로 번졌다. 전국 교회 회의인 도르트 회의(1618~1619)는 항의파를 단죄하고 개혁교회 정통 교리를 확정했으며, 1619년 5월 13일 노령의 올던바르너펠트는 헤이그에서 참수되었다. 법학자 휘호 흐로티위스는 종신형을 받았으나 1621년 책 상자에 숨어 뢰베스테인성을 탈출했다.",
+    "zh": "严格加尔文派（戈马鲁斯派）与抗辩派（阿米尼乌斯派）之间关于预定论的争论，演变为拿骚的莫里斯与荷兰省法律顾问约翰·范·奥尔登巴内费尔特之间的政治斗争。全国性的多特会议（1618—1619年）谴责抗辩派并确立了归正宗正统教义；1619年5月13日，年迈的奥尔登巴内费尔特在海牙被斩首。法学家胡果·格劳秀斯被判终身监禁，但于1621年藏身书箱逃出了卢福斯泰因城堡。",
+    "ja": "予定説をめぐる厳格なカルヴァン派（ホマルス派）とレモンストラント派（アルミニウス派）の論争は、ナッサウ伯マウリッツとホラントの法律顧問ヨハン・ファン・オルデンバルネフェルトの政治闘争へと発展した。全国教会会議であるドルト会議（1618～1619年）はレモンストラント派を断罪して改革派の正統教義を定め、1619年5月13日、老齢のオルデンバルネフェルトはハーグで斬首された。法学者フーゴー・グロティウスは終身刑を言い渡されたが、1621年に本箱に隠れてルーフェステイン城から脱出した。"
+   }
+  },
+  {
+   "year": 1621,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Dutch West India Company and renewed war",
+    "ko": "네덜란드 서인도 회사와 전쟁 재개",
+    "zh": "荷兰西印度公司成立与战事重启",
+    "ja": "オランダ西インド会社と戦争の再開"
+   },
+   "description": {
+    "en": "When the truce expired in 1621, war with Spain resumed, and the States General chartered the Dutch West India Company (WIC) with a monopoly on trade with the Americas and West Africa. The WIC attacked Spanish and Portuguese shipping and colonies, founded New Netherland with New Amsterdam on Manhattan, and occupied part of north-eastern Brazil. It also became deeply involved in the Atlantic slave trade.",
+    "ko": "1621년 휴전이 끝나자 스페인과의 전쟁이 재개되었고, 전국의회는 아메리카·서아프리카 무역 독점권을 가진 네덜란드 서인도 회사(WIC)를 설립했다. WIC는 스페인과 포르투갈의 선박과 식민지를 공격하고, 맨해튼의 뉴암스테르담과 함께 뉴네덜란드를 세웠으며, 브라질 북동부 일부를 점령했다. 또한 대서양 노예무역에 깊이 관여했다.",
+    "zh": "1621年休战期满后，与西班牙的战争再起，三级会议特许成立荷兰西印度公司（WIC），授予其对美洲和西非贸易的垄断权。西印度公司袭击西班牙和葡萄牙的船只与殖民地，在曼哈顿建立新阿姆斯特丹并开拓新尼德兰，还占领了巴西东北部部分地区。它也深度参与了大西洋奴隶贸易。",
+    "ja": "1621年に休戦が切れるとスペインとの戦争が再開され、全国議会はアメリカ大陸と西アフリカとの貿易独占権をもつオランダ西インド会社（WIC）を設立した。WICはスペインとポルトガルの船や植民地を攻撃し、マンハッタンのニューアムステルダムとともにニューネーデルラントを築き、ブラジル北東部の一部を占領した。また大西洋奴隷貿易に深く関与した。"
+   }
+  },
+  {
+   "year": 1625,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Grotius's On the Law of War and Peace",
+    "ko": "흐로티위스의 『전쟁과 평화의 법』",
+    "zh": "格劳秀斯《战争与和平法》",
+    "ja": "グロティウス『戦争と平和の法』"
+   },
+   "description": {
+    "en": "In 1625 Hugo Grotius, the Delft-born jurist then living in exile in Paris, published De jure belli ac pacis (On the Law of War and Peace). Building on natural law, it set out rules binding on states in war and peace, after his earlier Mare Liberum (1609) had defended freedom of the seas for Dutch trade. Grotius is often called a father of international law.",
+    "ko": "1625년 델프트 출신으로 당시 파리에서 망명 중이던 법학자 휘호 흐로티위스는 『전쟁과 평화의 법』을 출간했다. 앞서 『자유해론』(1609)에서 네덜란드 무역을 위한 바다의 자유를 옹호했던 그는 이 책에서 자연법에 기초해 전시와 평시에 국가를 구속하는 규칙을 제시했다. 흐로티위스는 흔히 '국제법의 아버지'로 불린다.",
+    "zh": "1625年，生于代尔夫特、当时流亡巴黎的法学家胡果·格劳秀斯出版了《战争与和平法》。他此前在《海洋自由论》（1609年）中为荷兰贸易的海洋自由辩护，此书则以自然法为基础，阐述了国家在战时与平时都须遵守的规则。格劳秀斯常被称为“国际法之父”。",
+    "ja": "1625年、デルフト生まれで当時パリに亡命していた法学者フーゴー・グロティウスは『戦争と平和の法』を刊行した。先に『自由海論』（1609年）でオランダの交易のための海洋の自由を擁護した彼は、本書で自然法に基づき、戦時と平時に国家を拘束する規則を示した。グロティウスはしばしば「国際法の父」と呼ばれる。"
+   }
+  },
+  {
+   "year": 1637,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Collapse of tulip mania",
+    "ko": "튤립 파동의 붕괴",
+    "zh": "郁金香狂热的崩溃",
+    "ja": "チューリップ・バブルの崩壊"
+   },
+   "description": {
+    "en": "In the winter of 1636–1637 prices for rare tulip bulbs, traded in taverns through futures contracts, rose to extraordinary levels before collapsing abruptly in February 1637. The episode is often cited as the first recorded speculative bubble. Modern historians debate its scale, arguing that its wider economic damage was more limited than later accounts suggested.",
+    "ko": "1636~1637년 겨울 선물 계약 형태로 선술집에서 거래되던 희귀 튤립 구근의 가격은 엄청난 수준으로 치솟았다가 1637년 2월 갑자기 폭락했다. 이 사건은 흔히 기록된 최초의 투기 거품으로 언급된다. 현대 역사가들은 그 규모를 두고 논쟁하며, 경제 전반에 미친 피해는 후대의 서술보다 제한적이었다고 보기도 한다.",
+    "zh": "1636至1637年冬，在酒馆中以期货合约方式交易的稀有郁金香球茎价格飙升至惊人水平，随后于1637年2月骤然崩溃。这一事件常被称为有记载的第一次投机泡沫。现代历史学家对其规模存在争论，有观点认为其对整体经济的损害比后世描述的要有限。",
+    "ja": "1636～1637年の冬、居酒屋で先物契約として取引されていた希少なチューリップの球根の価格は途方もない水準まで高騰し、1637年2月に突然暴落した。この出来事はしばしば記録に残る最初の投機バブルとして挙げられる。現代の歴史家はその規模について議論しており、経済全体への打撃は後世の記述より限定的だったとする見方もある。"
+   }
+  },
+  {
+   "year": 1642,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Golden Age of Dutch art: Rembrandt's Night Watch",
+    "ko": "네덜란드 미술 황금시대: 렘브란트의 '야경'",
+    "zh": "荷兰绘画黄金时代：伦勃朗《夜巡》",
+    "ja": "オランダ絵画の黄金時代：レンブラント「夜警」"
+   },
+   "description": {
+    "en": "In 1642 Rembrandt van Rijn completed the group portrait of Captain Frans Banninck Cocq's civic militia company, known as The Night Watch, for the Amsterdam musketeers' guild hall. Its dramatic lighting and movement broke with the static conventions of militia portraits. It was painted at the height of the Dutch Golden Age, when painters such as Vermeer and Hals, and thinkers such as Spinoza and Grotius, made the Republic a cultural powerhouse.",
+    "ko": "1642년 렘브란트 판 레인은 암스테르담 화승총 민병대 회관을 위해 프란스 바닝 코크 대장의 민병대 중대를 그린 집단 초상화, 이른바 '야경'을 완성했다. 극적인 빛과 움직임은 민병대 초상화의 정적인 관습을 깨뜨렸다. 이 작품은 페르메이르와 할스 같은 화가, 스피노자와 흐로티위스 같은 사상가들이 공화국을 문화 강국으로 만든 네덜란드 황금시대의 절정기에 그려졌다.",
+    "zh": "1642年，伦勃朗·范·莱因为阿姆斯特丹火枪手公会大厅完成了弗兰斯·班宁·柯克上尉民兵连的群像，即《夜巡》。画中戏剧性的光影和动感打破了民兵群像呆板的惯例。它诞生于荷兰黄金时代的鼎盛时期，当时维米尔、哈尔斯等画家以及斯宾诺莎、格劳秀斯等思想家使共和国成为文化强国。",
+    "ja": "1642年、レンブラント・ファン・レインはアムステルダムの火縄銃手組合会館のために、フランス・バニング・コック隊長の市民隊を描いた集団肖像画、いわゆる「夜警」を完成させた。劇的な光と動きは、市民隊肖像画の静的な慣習を打ち破った。この作品は、フェルメールやハルスらの画家、スピノザやグロティウスらの思想家が共和国を文化大国にしたオランダ黄金時代の最盛期に描かれた。"
+   }
+  },
+  {
+   "year": 1648,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Peace of Westphalia: independence recognized",
+    "ko": "베스트팔렌 조약으로 독립 승인",
+    "zh": "《威斯特伐利亚和约》承认荷兰独立",
+    "ja": "ヴェストファーレン条約による独立の承認"
+   },
+   "description": {
+    "en": "The Peace of Münster, signed on 30 January 1648 and ratified in May as part of the Westphalian settlement, ended the Eighty Years' War. Spain formally recognised the Dutch Republic as a sovereign state, and the Republic was also treated as separate from the Holy Roman Empire. The treaty kept the Scheldt closed to shipping, to the benefit of Amsterdam and the detriment of Antwerp.",
+    "ko": "1648년 1월 30일 서명되고 5월 비준된 뮌스터 조약은 베스트팔렌 강화의 일부로서 80년 전쟁을 끝냈다. 스페인은 네덜란드 공화국을 주권 국가로 공식 인정했고, 공화국은 신성 로마 제국과도 분리된 국가로 다루어졌다. 이 조약은 스헬더강 항행 봉쇄를 유지하여 암스테르담에는 이익이, 안트베르펜에는 손해가 되었다.",
+    "zh": "1648年1月30日签署、同年5月批准的《明斯特和约》作为威斯特伐利亚和约的一部分，结束了八十年战争。西班牙正式承认荷兰共和国为主权国家，共和国也被视为脱离神圣罗马帝国。和约继续封锁斯海尔德河航运，使阿姆斯特丹受益而安特卫普受损。",
+    "ja": "1648年1月30日に調印され5月に批准されたミュンスター条約は、ヴェストファーレン講和の一部として八十年戦争を終結させた。スペインはネーデルラント連邦共和国を主権国家として正式に承認し、共和国は神聖ローマ帝国からも切り離された国家として扱われた。条約はスヘルデ川の航行封鎖を維持し、アムステルダムに利益を、アントウェルペンに損失をもたらした。"
+   }
+  },
+  {
+   "year": 1650,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First Stadtholderless Period begins",
+    "ko": "제1차 무총독 시대의 시작",
+    "zh": "第一次无执政时期开始",
+    "ja": "第一次無総督時代の始まり"
+   },
+   "description": {
+    "en": "In 1650 Stadtholder William II clashed with the States of Holland over army reductions, imprisoned leading opponents and sent troops against Amsterdam. He died of smallpox in November 1650, and his son William III was born a week later. Holland and several other provinces left the stadtholderate vacant, and under Grand Pensionary Johan de Witt the Republic was governed by the urban regent class until 1672.",
+    "ko": "1650년 총독 빌럼 2세는 군대 감축 문제로 홀란트 주의회와 충돌해 주요 반대파를 투옥하고 암스테르담에 군대를 보냈다. 그는 1650년 11월 천연두로 죽었고, 아들 빌럼 3세는 일주일 뒤에 태어났다. 홀란트와 다른 여러 주는 총독 자리를 비워 두었으며, 법률고문 요한 더 빗 아래 공화국은 1672년까지 도시 섭정 계층이 통치했다.",
+    "zh": "1650年，执政威廉二世因裁军问题与荷兰省议会发生冲突，逮捕了主要反对者并派兵进攻阿姆斯特丹。同年11月他死于天花，其子威廉三世在一周后出生。荷兰省和其他几个省份让执政职位空缺，在大议长约翰·德·维特领导下，共和国由城市摄政阶层治理至1672年。",
+    "ja": "1650年、総督ウィレム2世は軍縮をめぐってホラント州議会と衝突し、有力な反対者を投獄してアムステルダムに兵を差し向けた。彼は同年11月に天然痘で死去し、息子ウィレム3世はその1週間後に生まれた。ホラントなど複数の州は総督職を空席とし、法律顧問ヨハン・デ・ウィットのもとで共和国は1672年まで都市の門閥層によって統治された。"
+   }
+  },
+  {
+   "year": 1652,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First Anglo-Dutch War",
+    "ko": "제1차 영국-네덜란드 전쟁",
+    "zh": "第一次英荷战争",
+    "ja": "第一次英蘭戦争"
+   },
+   "description": {
+    "en": "Commercial rivalry and England's Navigation Act of 1651, which targeted Dutch carrying trade, led to the First Anglo-Dutch War of 1652–1654. Fought almost entirely at sea, it included large battles in the Channel and the North Sea, and an English blockade damaged Dutch commerce. It was the first of four wars between the two maritime powers over the following 130 years.",
+    "ko": "상업적 경쟁과 네덜란드의 중계 무역을 겨냥한 잉글랜드의 1651년 항해법은 1652~1654년 제1차 영국-네덜란드 전쟁으로 이어졌다. 거의 전적으로 바다에서 치러진 이 전쟁에서는 영국 해협과 북해에서 대규모 해전이 벌어졌고, 잉글랜드의 봉쇄는 네덜란드 상업에 타격을 주었다. 이는 이후 130년 동안 두 해양 강국 사이에 벌어진 네 차례 전쟁 가운데 첫 번째였다.",
+    "zh": "商业竞争以及英格兰针对荷兰转运贸易的1651年《航海法》，引发了1652至1654年的第一次英荷战争。这场战争几乎完全在海上进行，在英吉利海峡和北海爆发了多场大海战，英格兰的封锁重创了荷兰商业。这是此后130年间两大海上强国之间四次战争中的第一次。",
+    "ja": "商業上の競争と、オランダの中継貿易を狙ったイングランドの1651年航海法は、1652～1654年の第一次英蘭戦争を引き起こした。ほぼ全面的に海上で戦われたこの戦争では、英仏海峡と北海で大規模な海戦が起こり、イングランドの封鎖はオランダの商業に打撃を与えた。これはその後130年間に両海洋国家の間で起きた4度の戦争の最初であった。"
+   }
+  },
+  {
+   "year": 1656,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Huygens invents the pendulum clock",
+    "ko": "하위헌스의 진자시계 발명",
+    "zh": "惠更斯发明摆钟",
+    "ja": "ホイヘンスによる振り子時計の発明"
+   },
+   "description": {
+    "en": "In 1656 the scientist Christiaan Huygens of The Hague designed the first pendulum clock, which he patented in 1657 and which made timekeeping far more accurate than before. The year before, he had discovered Saturn's moon Titan, and he went on to develop a wave theory of light. Huygens was one of the leading scientists of the 17th-century Scientific Revolution.",
+    "ko": "1656년 헤이그의 과학자 크리스티안 하위헌스는 최초의 진자시계를 설계해 1657년 특허를 받았으며, 이로써 시간 측정은 이전보다 훨씬 정확해졌다. 그는 그 전해에 토성의 위성 타이탄을 발견했고, 이후 빛의 파동설을 발전시켰다. 하위헌스는 17세기 과학 혁명을 이끈 대표적 과학자 가운데 한 사람이었다.",
+    "zh": "1656年，海牙科学家克里斯蒂安·惠更斯设计了第一台摆钟，并于1657年获得专利，使计时精度远超以往。前一年他发现了土星的卫星土卫六（泰坦），后来又提出了光的波动理论。惠更斯是17世纪科学革命的主要科学家之一。",
+    "ja": "1656年、ハーグの科学者クリスティアーン・ホイヘンスは最初の振り子時計を設計して1657年に特許を取り、時間の計測はそれまでよりはるかに正確になった。その前年には土星の衛星タイタンを発見し、のちに光の波動説を発展させた。ホイヘンスは17世紀の科学革命を代表する科学者の一人であった。"
+   }
+  },
+  {
+   "year": 1667,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Raid on the Medway and Treaty of Breda",
+    "ko": "메드웨이 습격과 브레다 조약",
+    "zh": "梅德韦突袭与《布雷达和约》",
+    "ja": "メドウェイ襲撃とブレダ条約"
+   },
+   "description": {
+    "en": "In June 1667, during the Second Anglo-Dutch War, a Dutch fleet under Michiel de Ruyter sailed up the Thames estuary and the river Medway, burned English warships at Chatham and towed away the flagship Royal Charles. The humiliation hastened the Treaty of Breda in July 1667. Under the peace England kept New Netherland, renamed New York, while the Dutch retained Suriname.",
+    "ko": "1667년 6월 제2차 영국-네덜란드 전쟁 중 미힐 더 라위터르가 이끄는 네덜란드 함대는 템스강 하구와 메드웨이강을 거슬러 올라가 채텀에서 잉글랜드 군함들을 불태우고 기함 '로열 찰스'를 끌고 갔다. 이 굴욕은 1667년 7월 브레다 조약 체결을 앞당겼다. 이 강화로 잉글랜드는 뉴욕으로 이름이 바뀐 뉴네덜란드를 차지했고, 네덜란드는 수리남을 유지했다.",
+    "zh": "1667年6月，第二次英荷战争期间，米希尔·德·勒伊特率领的荷兰舰队溯泰晤士河口和梅德韦河而上，在查塔姆焚毁英格兰战舰，并拖走了旗舰“皇家查理”号。这一屈辱加速了1667年7月《布雷达和约》的签订。根据和约，英格兰保有改名为纽约的新尼德兰，荷兰则保留了苏里南。",
+    "ja": "1667年6月、第二次英蘭戦争の最中、ミヒール・デ・ロイテル率いるオランダ艦隊はテムズ川河口とメドウェイ川を遡ってチャタムでイングランドの軍艦を焼き、旗艦「ロイヤル・チャールズ」を曳航して持ち去った。この屈辱は1667年7月のブレダ条約の締結を早めた。講和によりイングランドはニューヨークと改称されたニューネーデルラントを保持し、オランダはスリナムを保持した。"
+   }
+  },
+  {
+   "year": 1670,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Spinoza's Theological-Political Treatise",
+    "ko": "스피노자의 『신학정치론』",
+    "zh": "斯宾诺莎《神学政治论》",
+    "ja": "スピノザ『神学・政治論』"
+   },
+   "description": {
+    "en": "In 1670 the Amsterdam-born philosopher Baruch Spinoza, who had been expelled from the city's Portuguese-Jewish community in 1656, anonymously published the Tractatus Theologico-Politicus. It argued for freedom of thought and speech and for reading the Bible historically, and it was soon banned. His Ethics appeared posthumously in 1677, making him one of the founders of the radical Enlightenment.",
+    "ko": "1656년 암스테르담 포르투갈계 유대인 공동체에서 파문당한 암스테르담 출신 철학자 바뤼흐 스피노자는 1670년 『신학정치론』을 익명으로 출간했다. 이 책은 사상과 언론의 자유, 그리고 성경의 역사적 독해를 주장했으며 곧 금서가 되었다. 그의 『에티카』는 사후인 1677년에 출간되었고, 그는 급진적 계몽주의의 창시자 가운데 한 사람이 되었다.",
+    "zh": "生于阿姆斯特丹、1656年被该市葡萄牙裔犹太社群逐出的哲学家巴鲁赫·斯宾诺莎，于1670年匿名出版了《神学政治论》。书中主张思想与言论自由，并主张以历史眼光解读《圣经》，不久即遭查禁。他的《伦理学》于1677年在其身后出版，使他成为激进启蒙运动的奠基者之一。",
+    "ja": "アムステルダム生まれで、1656年に同市のポルトガル系ユダヤ人共同体から破門された哲学者バルーフ・スピノザは、1670年に『神学・政治論』を匿名で刊行した。同書は思想と言論の自由、聖書の歴史的な読解を主張し、まもなく禁書となった。彼の『エチカ』は没後の1677年に刊行され、彼は急進的啓蒙の創始者の一人となった。"
+   }
+  },
+  {
+   "year": 1672,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Rampjaar: the Disaster Year",
+    "ko": "람프야르: 재앙의 해",
+    "zh": "“灾难之年”",
+    "ja": "ランプヤール：災厄の年"
+   },
+   "description": {
+    "en": "In 1672 France, England and the bishoprics of Münster and Cologne attacked the Republic simultaneously, and French armies overran much of the country; Dutch tradition calls it the Rampjaar, the year of disaster. Holland was saved by flooding the Dutch Water Line, while popular fury led to the lynching of Johan and Cornelis de Witt in The Hague in August. The young William III became stadtholder and led the resistance, and De Ruyter's fleet held off the Anglo-French navies.",
+    "ko": "1672년 프랑스, 잉글랜드, 뮌스터·쾰른 주교령이 동시에 공화국을 공격했고 프랑스군은 나라의 상당 부분을 휩쓸었다. 네덜란드에서는 이해를 '람프야르', 즉 재앙의 해라고 부른다. 홀란트는 '네덜란드 물 방어선'을 침수시켜 구원받았으나, 민중의 분노 속에 8월 요한 더 빗과 코르넬리스 더 빗 형제가 헤이그에서 린치를 당해 살해되었다. 젊은 빌럼 3세가 총독이 되어 저항을 이끌었고, 더 라위터르의 함대는 영국·프랑스 해군을 막아 냈다.",
+    "zh": "1672年，法国、英格兰以及明斯特和科隆两个主教领同时进攻共和国，法军席卷了该国大部分地区；荷兰传统上称这一年为“灾难之年”。荷兰省靠淹没“荷兰水线”得以保全，而民众的怒火导致约翰·德·维特和科内利斯·德·维特兄弟于8月在海牙被私刑处死。年轻的威廉三世出任执政，领导抵抗，德·勒伊特的舰队则挡住了英法海军。",
+    "ja": "1672年、フランス、イングランド、ミュンスターとケルンの司教領が同時に共和国を攻撃し、フランス軍は国土の多くを席巻した。オランダではこの年を「ランプヤール（災厄の年）」と呼ぶ。ホラントは「オランダ水線」を水没させて救われたが、民衆の怒りによって8月にヨハンとコルネリスのデ・ウィット兄弟がハーグで私刑により殺害された。若いウィレム3世が総督となって抵抗を指導し、デ・ロイテルの艦隊は英仏の海軍を食い止めた。"
+   }
+  },
+  {
+   "year": 1676,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Van Leeuwenhoek discovers microorganisms",
+    "ko": "판 레이우엔훅의 미생물 발견",
+    "zh": "列文虎克发现微生物",
+    "ja": "レーウェンフックによる微生物の発見"
+   },
+   "description": {
+    "en": "In a letter of October 1676 to the Royal Society in London, the Delft draper and self-taught scientist Antonie van Leeuwenhoek described tiny living 'animalcules' he had observed in water through his own powerful single-lens microscopes. These were single-celled organisms, and he later also described bacteria and spermatozoa. His work founded microbiology.",
+    "ko": "1676년 10월 런던 왕립학회에 보낸 편지에서 델프트의 포목상이자 독학 과학자인 안토니 판 레이우엔훅은 자신이 만든 고배율 단렌즈 현미경으로 물속에서 관찰한 작은 생명체 '극미동물'을 묘사했다. 이는 단세포 생물이었으며, 그는 이후 세균과 정자도 기술했다. 그의 연구는 미생물학의 토대가 되었다.",
+    "zh": "在1676年10月致伦敦皇家学会的信中，代尔夫特的布商、自学成才的科学家安东尼·范·列文虎克描述了他用自制的高倍单镜片显微镜在水中观察到的微小生物“微动物”。这些是单细胞生物，他后来还描述了细菌和精子。他的工作奠定了微生物学的基础。",
+    "ja": "1676年10月にロンドン王立協会へ送った手紙で、デルフトの織物商で独学の科学者アントニ・ファン・レーウェンフックは、自作の高倍率の単レンズ顕微鏡で水中に観察した微小な生き物「微小動物」について記した。これらは単細胞生物であり、彼はのちに細菌や精子も記述した。彼の研究は微生物学の基礎となった。"
+   }
+  },
+  {
+   "year": 1688,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "William III invades England: the Glorious Revolution",
+    "ko": "빌럼 3세의 잉글랜드 상륙: 명예혁명",
+    "zh": "威廉三世进军英格兰：光荣革命",
+    "ja": "ウィレム3世のイングランド上陸：名誉革命"
+   },
+   "description": {
+    "en": "In November 1688 Stadtholder William III, invited by English opponents of the Catholic King James II, landed at Torbay with a large Dutch army and fleet. James fled, and in 1689 William and his wife Mary, James's daughter, were proclaimed joint monarchs of England. The Glorious Revolution brought England into the coalition against Louis XIV's France and linked Dutch and British policy for decades.",
+    "ko": "1688년 11월 가톨릭 국왕 제임스 2세에 반대하는 잉글랜드 세력의 초청을 받은 총독 빌럼 3세는 대규모 네덜란드 육군과 함대를 이끌고 토베이에 상륙했다. 제임스는 달아났고, 1689년 빌럼과 제임스의 딸인 아내 메리는 잉글랜드의 공동 군주로 선포되었다. 명예혁명으로 잉글랜드는 루이 14세의 프랑스에 맞선 동맹에 가담했고, 네덜란드와 영국의 정책은 수십 년간 연계되었다.",
+    "zh": "1688年11月，应反对天主教国王詹姆斯二世的英格兰人士之邀，执政威廉三世率领庞大的荷兰陆军和舰队在托贝登陆。詹姆斯出逃，1689年威廉与其妻、詹姆斯之女玛丽被宣布为英格兰共同君主。光荣革命使英格兰加入反对路易十四法国的同盟，并使荷英两国政策在此后数十年里紧密相连。",
+    "ja": "1688年11月、カトリックの国王ジェームズ2世に反対するイングランドの勢力に招かれた総督ウィレム3世は、大規模なオランダ陸軍と艦隊を率いてトーベイに上陸した。ジェームズは逃亡し、1689年にウィレムとジェームズの娘である妻メアリーがイングランドの共同統治者として宣言された。名誉革命によりイングランドはルイ14世のフランスに対する同盟に加わり、オランダとイギリスの政策は数十年にわたって結びついた。"
+   }
+  },
+  {
+   "year": 1702,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of William III and the Second Stadtholderless Period",
+    "ko": "빌럼 3세의 죽음과 제2차 무총독 시대",
+    "zh": "威廉三世去世与第二次无执政时期",
+    "ja": "ウィレム3世の死と第二次無総督時代"
+   },
+   "description": {
+    "en": "William III died in March 1702 without children, and most provinces chose not to appoint a new stadtholder, beginning the Second Stadtholderless Period. Power returned to the regents of the towns and provinces, led by Grand Pensionary Anthonie Heinsius. The Republic nonetheless joined the War of the Spanish Succession against France the same year.",
+    "ko": "빌럼 3세는 1702년 3월 자녀 없이 세상을 떠났고, 대부분의 주가 새 총독을 임명하지 않기로 하면서 제2차 무총독 시대가 시작되었다. 권력은 법률고문 안토니 헤인시위스가 이끄는 도시와 주의 섭정 계층에게 돌아갔다. 그럼에도 공화국은 같은 해 프랑스에 맞선 스페인 왕위 계승 전쟁에 참전했다.",
+    "zh": "1702年3月，威廉三世无嗣而终，大多数省份决定不再任命新的执政，第二次无执政时期由此开始。权力重归由大议长安东尼·海因修斯领导的城市与省份摄政阶层。尽管如此，共和国仍于同年加入了反对法国的西班牙王位继承战争。",
+    "ja": "1702年3月にウィレム3世が子のないまま死去すると、多くの州は新たな総督を任命しないことを選び、第二次無総督時代が始まった。権力は法律顧問アントーニー・ヘインシウスが率いる都市と州の門閥層に戻った。それでも共和国は同年、フランスに対するスペイン継承戦争に参戦した。"
+   }
+  },
+  {
+   "year": 1713,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Peace of Utrecht",
+    "ko": "위트레흐트 조약",
+    "zh": "《乌得勒支和约》",
+    "ja": "ユトレヒト条約"
+   },
+   "description": {
+    "en": "In 1713 a series of treaties signed at Utrecht ended most of the War of the Spanish Succession. The Republic obtained the right to garrison a 'barrier' of fortresses in the Southern Netherlands, which passed from Spain to Austria. But the costly war had exhausted Dutch finances, and the Republic gradually ceased to be a great power, overtaken by Britain and France.",
+    "ko": "1713년 위트레흐트에서 체결된 일련의 조약은 스페인 왕위 계승 전쟁의 대부분을 끝냈다. 공화국은 스페인에서 오스트리아로 넘어간 남부 네덜란드에 '방벽' 요새들의 수비대를 둘 권리를 얻었다. 그러나 막대한 비용이 든 전쟁으로 네덜란드 재정은 고갈되었고, 공화국은 영국과 프랑스에 뒤처지며 점차 강대국의 지위를 잃었다.",
+    "zh": "1713年在乌得勒支签订的一系列条约结束了西班牙王位继承战争的大部分战事。共和国获得了在由西班牙转归奥地利的南尼德兰驻守“屏障”要塞的权利。但这场代价高昂的战争耗尽了荷兰财政，共和国逐渐被英法超越，不再是大国。",
+    "ja": "1713年にユトレヒトで結ばれた一連の条約は、スペイン継承戦争の大部分を終結させた。共和国は、スペインからオーストリアに移った南ネーデルラントの「障壁」要塞群に守備隊を置く権利を得た。しかし多額の費用を要した戦争でオランダの財政は疲弊し、共和国はイギリスやフランスに追い抜かれて次第に大国の地位を失った。"
+   }
+  },
+  {
+   "year": 1747,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Orangist revolution and a hereditary stadtholderate",
+    "ko": "오라녜파 혁명과 세습 총독제",
+    "zh": "奥兰治派革命与世袭执政制",
+    "ja": "オラニエ派の革命と世襲総督制"
+   },
+   "description": {
+    "en": "When French troops invaded Dutch Flanders in 1747 during the War of the Austrian Succession, popular unrest swept the regents aside and William IV of Orange was made stadtholder of all seven provinces. The office was declared hereditary in the House of Orange. Hopes of reform faded, however, and William IV died in 1751, leaving his young son William V.",
+    "ko": "1747년 오스트리아 왕위 계승 전쟁 중 프랑스군이 네덜란드령 플란데런을 침공하자 민중 소요가 섭정 계층을 밀어내고 오라녜 가문의 빌럼 4세가 7개 주 모두의 총독이 되었다. 총독직은 오라녜 가문의 세습직으로 선언되었다. 그러나 개혁에 대한 기대는 사그라들었고, 빌럼 4세는 1751년 어린 아들 빌럼 5세를 남기고 세상을 떠났다.",
+    "zh": "1747年奥地利王位继承战争期间，法军入侵荷属佛兰德，民众骚动推翻了摄政阶层，奥兰治家族的威廉四世成为全部七省的执政。执政职位被宣布由奥兰治家族世袭。然而改革的希望落空，威廉四世于1751年去世，留下年幼的儿子威廉五世。",
+    "ja": "1747年、オーストリア継承戦争の最中にフランス軍がオランダ領フランドルに侵入すると、民衆の騒擾が門閥層を押しのけ、オラニエ家のウィレム4世が七州すべての総督となった。総督職はオラニエ家の世襲と宣言された。しかし改革への期待はしぼみ、ウィレム4世は1751年に幼い息子ウィレム5世を残して死去した。"
+   }
+  },
+  {
+   "year": 1780,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fourth Anglo-Dutch War",
+    "ko": "제4차 영국-네덜란드 전쟁",
+    "zh": "第四次英荷战争",
+    "ja": "第四次英蘭戦争"
+   },
+   "description": {
+    "en": "Dutch trade with the rebellious American colonies and the Republic's move towards the League of Armed Neutrality led Britain to declare war in December 1780. The war of 1780–1784 was a disaster for the Dutch: the Royal Navy seized hundreds of merchant ships and several colonial posts. The defeat discredited Stadtholder William V and fuelled the Patriot movement.",
+    "ko": "네덜란드가 반란 중인 아메리카 식민지와 교역하고 무장중립동맹 쪽으로 기울자 영국은 1780년 12월 선전포고를 했다. 1780~1784년의 이 전쟁은 네덜란드에 재앙이었다. 영국 해군은 수백 척의 상선과 여러 식민지 거점을 빼앗았다. 이 패배는 총독 빌럼 5세의 신망을 떨어뜨리고 애국파 운동에 불을 지폈다.",
+    "zh": "荷兰与反叛的北美殖民地进行贸易，并倾向加入武装中立同盟，导致英国于1780年12月宣战。1780至1784年的这场战争对荷兰来说是一场灾难：英国皇家海军夺取了数百艘商船和多个殖民据点。战败使执政威廉五世威信扫地，并助长了爱国者运动。",
+    "ja": "オランダが反乱中のアメリカ植民地と交易し、武装中立同盟に傾いたことから、イギリスは1780年12月に宣戦した。1780～1784年のこの戦争はオランダにとって惨事で、イギリス海軍は数百隻の商船と複数の植民地拠点を奪った。敗北は総督ウィレム5世の権威を失墜させ、愛国派の運動を勢いづけた。"
+   }
+  },
+  {
+   "year": 1787,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Prussian invasion crushes the Patriots",
+    "ko": "프로이센의 침공과 애국파의 몰락",
+    "zh": "普鲁士入侵镇压爱国者运动",
+    "ja": "プロイセンの侵攻と愛国派の敗北"
+   },
+   "description": {
+    "en": "In the 1780s the Patriots, inspired by the American Revolution, demanded reforms, formed armed citizen militias and took control of several cities, curtailing the stadtholder's power. When Princess Wilhelmina, sister of the Prussian king, was stopped by a Patriot militia near Goejanverwellesluis in June 1787, Prussia used the incident to invade in September. William V was restored, and thousands of Patriots fled to France.",
+    "ko": "1780년대 미국 혁명에 고무된 애국파는 개혁을 요구하고 무장 시민 민병대를 조직하여 여러 도시를 장악하고 총독의 권한을 제한했다. 1787년 6월 프로이센 국왕의 누이인 빌헬미나 공비가 하우야너르펠레슬라위스 부근에서 애국파 민병대에 저지당하자, 프로이센은 이를 구실로 9월 침공했다. 빌럼 5세는 복권되었고, 수천 명의 애국파가 프랑스로 망명했다.",
+    "zh": "18世纪80年代，受美国革命鼓舞的爱国者要求改革，组建武装市民民兵，控制了多座城市，限制了执政的权力。1787年6月，普鲁士国王之妹威廉明娜王妃在豪亚讷弗勒斯勒伊斯附近被爱国者民兵拦阻，普鲁士借此于9月出兵入侵。威廉五世复位，数千名爱国者流亡法国。",
+    "ja": "1780年代、アメリカ独立革命に触発された愛国派は改革を要求し、武装した市民軍を組織して複数の都市を掌握し、総督の権力を制限した。1787年6月、プロイセン王の妹ウィルヘルミナ妃がハウヤネルフェレスラウス付近で愛国派の市民軍に足止めされると、プロイセンはこれを口実に9月に侵攻した。ウィレム5世は復権し、数千人の愛国派がフランスへ亡命した。"
+   }
+  },
+  {
+   "year": 1795,
+   "qid": "Q188553",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Batavian Revolution",
+    "ko": "바타비아 혁명",
+    "zh": "巴达维亚革命",
+    "ja": "バタヴィア革命"
+   },
+   "description": {
+    "en": "In January 1795, during an exceptionally cold winter, French revolutionary armies crossed the frozen rivers and advanced into Holland together with exiled Dutch Patriots. Stadtholder William V fled to England, and the Batavian Republic was proclaimed, ending the old Republic of the United Provinces. The new state became a French satellite and had to pay a large indemnity and support a French army.",
+    "ko": "1795년 1월 유례없이 추운 겨울, 프랑스 혁명군은 망명했던 네덜란드 애국파와 함께 얼어붙은 강을 건너 홀란트로 진격했다. 총독 빌럼 5세는 잉글랜드로 달아났고 바타비아 공화국이 선포되어 옛 연합주 공화국은 끝났다. 새 국가는 프랑스의 위성국이 되어 막대한 배상금을 내고 프랑스군을 부양해야 했다.",
+    "zh": "1795年1月，在一个异常寒冷的冬天，法国革命军与流亡的荷兰爱国者一起越过冰封的河流挺进荷兰省。执政威廉五世逃往英格兰，巴达维亚共和国宣告成立，旧的联合省共和国就此终结。新国家成为法国的附庸，必须支付巨额赔款并供养一支法国军队。",
+    "ja": "1795年1月、例年にない厳冬のなか、フランス革命軍は亡命していたオランダの愛国派とともに凍った川を渡ってホラントへ進撃した。総督ウィレム5世はイングランドへ逃れ、バタヴィア共和国が宣言されて旧来の連合州共和国は終わった。新国家はフランスの衛星国となり、多額の賠償金を支払い、フランス軍を養わなければならなかった。"
+   }
+  },
+  {
+   "year": 1798,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First Dutch constitution",
+    "ko": "네덜란드 최초의 헌법",
+    "zh": "荷兰第一部宪法",
+    "ja": "オランダ最初の憲法"
+   },
+   "description": {
+    "en": "In 1798, after a coup by radical unitarists, the Batavian Republic adopted its first constitution, the Staatsregeling, approved by a vote of the male population. It replaced the federation of sovereign provinces with a unitary state, separated church and state and proclaimed the equality of citizens. Many of its reforms, such as national taxation and a unified administration, laid foundations for the modern Dutch state.",
+    "ko": "1798년 급진 단일국가파의 쿠데타 뒤, 바타비아 공화국은 남성 주민의 투표로 승인된 첫 헌법 '국가 규정'을 채택했다. 이 헌법은 주권을 가진 주들의 연합을 단일 국가로 바꾸고 정교를 분리했으며 시민의 평등을 선언했다. 전국 단위 과세와 통일된 행정 같은 많은 개혁은 근대 네덜란드 국가의 토대가 되었다.",
+    "zh": "1798年，激进的单一制派发动政变后，巴达维亚共和国通过了第一部宪法《国家章程》，并经男性居民投票批准。宪法以单一制国家取代了各主权省份组成的联邦，实行政教分离，宣布公民平等。全国统一税制和统一行政等许多改革为现代荷兰国家奠定了基础。",
+    "ja": "1798年、急進的な単一国家派のクーデターの後、バタヴィア共和国は男性住民の投票で承認された最初の憲法「国家規程」を採択した。憲法は主権を持つ州の連合を単一国家に改め、政教を分離し、市民の平等を宣言した。全国的な課税や統一された行政など多くの改革は、近代オランダ国家の基礎を築いた。"
+   }
+  },
+  {
+   "year": 1806,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Louis Bonaparte becomes King of Holland",
+    "ko": "루이 보나파르트, 홀란트 왕이 되다",
+    "zh": "路易·波拿巴成为荷兰国王",
+    "ja": "ルイ・ボナパルト、ホラント王となる"
+   },
+   "description": {
+    "en": "In June 1806 Napoleon replaced the Batavian Republic with the Kingdom of Holland and installed his brother Louis Bonaparte as king. Louis took his role seriously, moving his court to Amsterdam, where the city hall on the Dam became the royal palace, and trying to soften French demands. His reign brought the first national legal code and a more centralised administration.",
+    "ko": "1806년 6월 나폴레옹은 바타비아 공화국을 홀란트 왕국으로 바꾸고 동생 루이 보나파르트를 왕으로 앉혔다. 루이는 진지하게 역할을 수행해 궁정을 암스테르담으로 옮겼으며, 담 광장의 시청은 왕궁이 되었다. 그는 프랑스의 요구를 완화하려 애썼고, 그의 치세에 최초의 전국 법전과 더 중앙집권적인 행정이 들어섰다.",
+    "zh": "1806年6月，拿破仑以荷兰王国取代巴达维亚共和国，并立其弟路易·波拿巴为国王。路易认真履职，将宫廷迁到阿姆斯特丹，水坝广场上的市政厅成了王宫，他还试图缓和法国的要求。他在位期间颁布了第一部全国性法典，行政也更加集中。",
+    "ja": "1806年6月、ナポレオンはバタヴィア共和国をホラント王国に改め、弟ルイ・ボナパルトを国王に据えた。ルイは役割に真剣に取り組み、宮廷をアムステルダムに移してダム広場の市庁舎を王宮とし、フランスの要求を和らげようと努めた。彼の治世に初の全国的な法典とより中央集権的な行政がもたらされた。"
+   }
+  },
+  {
+   "year": 1810,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Annexation by the French Empire",
+    "ko": "프랑스 제국의 병합",
+    "zh": "被法兰西帝国吞并",
+    "ja": "フランス帝国による併合"
+   },
+   "description": {
+    "en": "Angry that Louis had failed to enforce the Continental System against British trade, Napoleon forced him to abdicate on 1 July 1810 and annexed the Netherlands to France a week later. Amsterdam was declared the third city of the empire. Conscription for Napoleon's wars, high taxes and the collapse of overseas trade made French rule deeply unpopular.",
+    "ko": "루이가 영국 무역에 대한 대륙 봉쇄령을 제대로 시행하지 않은 데 분노한 나폴레옹은 1810년 7월 1일 그를 퇴위시키고 일주일 뒤 네덜란드를 프랑스에 병합했다. 암스테르담은 제국 제3의 도시로 선포되었다. 나폴레옹 전쟁을 위한 징병, 높은 세금, 해외 무역의 붕괴로 프랑스 지배는 깊은 반감을 샀다.",
+    "zh": "拿破仑因路易未能执行针对英国贸易的大陆封锁政策而大为恼怒，于1810年7月1日迫其退位，一周后将荷兰并入法国。阿姆斯特丹被定为帝国第三大城市。为拿破仑战争征兵、沉重赋税和海外贸易的崩溃，使法国统治极不得人心。",
+    "ja": "ルイがイギリスとの交易に対する大陸封鎖令を徹底しなかったことに怒ったナポレオンは、1810年7月1日に彼を退位させ、その1週間後にオランダをフランスに併合した。アムステルダムは帝国第三の都市とされた。ナポレオン戦争のための徴兵、重税、海外貿易の崩壊によって、フランスの支配は強い反感を買った。"
+   }
+  },
+  {
+   "year": 1811,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Civil registration and fixed surnames",
+    "ko": "민적 등록과 성씨의 고정",
+    "zh": "民事登记与固定姓氏",
+    "ja": "戸籍登録と姓の固定"
+   },
+   "description": {
+    "en": "Under French rule a civil registry of births, marriages and deaths was introduced in 1811, and a decree required everyone to register a fixed family name. Many Dutch people, especially in the countryside and in the north, had until then used patronymics such as Jansen or Pieterszoon. The registration standardised Dutch surnames and created records still used by genealogists today.",
+    "ko": "프랑스 지배 아래 1811년 출생·혼인·사망을 기록하는 민적 등록 제도가 도입되었고, 법령으로 모든 사람이 고정된 성을 등록해야 했다. 그때까지 많은 네덜란드인, 특히 농촌과 북부 주민들은 얀선이나 피터르스존 같은 부칭을 써 왔다. 이 등록으로 네덜란드인의 성이 표준화되었고, 오늘날 족보 연구자들이 쓰는 기록이 만들어졌다.",
+    "zh": "在法国统治下，1811年荷兰引入了记录出生、婚姻和死亡的民事登记制度，并以法令规定每个人都须登记固定的姓氏。此前许多荷兰人，尤其是乡村和北部居民，一直使用扬森、彼得斯宗之类的父名。这次登记使荷兰姓氏标准化，并留下了至今仍为家谱研究者所用的档案。",
+    "ja": "フランス支配下の1811年、出生・婚姻・死亡を記録する戸籍制度が導入され、布告によって誰もが固定した姓を登録しなければならなくなった。それまで多くのオランダ人、とくに農村や北部の住民は、ヤンセンやピーテルスゾーンのような父称を用いていた。この登録によってオランダ人の姓は標準化され、今日も系図研究者が利用する記録が生まれた。"
+   }
+  },
+  {
+   "year": 1813,
+   "qid": "Q774783",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Return of the Prince of Orange",
+    "ko": "오라녜 공의 귀환",
+    "zh": "奥兰治亲王归国",
+    "ja": "オラニエ公の帰還"
+   },
+   "description": {
+    "en": "After Napoleon's defeat at Leipzig, Dutch notables led by Gijsbert Karel van Hogendorp formed a provisional government in November 1813 as French troops withdrew. On 30 November William Frederick, son of the last stadtholder, landed at Scheveningen and was proclaimed Sovereign Prince of the United Netherlands. A constitution adopted in 1814 established a monarchy under the House of Orange-Nassau.",
+    "ko": "나폴레옹이 라이프치히에서 패한 뒤 프랑스군이 철수하자, 1813년 11월 헤이스베르트 카럴 판 호헨도르프가 이끄는 네덜란드 유력자들이 임시 정부를 구성했다. 11월 30일 마지막 총독의 아들 빌럼 프레데릭이 스헤베닝언에 상륙해 연합 네덜란드의 주권공으로 선포되었다. 1814년 채택된 헌법은 오라녜나사우 가문 아래 군주정을 확립했다.",
+    "zh": "拿破仑在莱比锡战败后，随着法军撤退，以海斯伯特·卡雷尔·范·霍亨多普为首的荷兰名流于1813年11月组成了临时政府。11月30日，末代执政之子威廉·弗雷德里克在斯海弗宁恩登陆，被宣布为联合尼德兰主权亲王。1814年通过的宪法确立了奥兰治-拿骚家族的君主制。",
+    "ja": "ナポレオンがライプツィヒで敗れフランス軍が撤退すると、1813年11月にヘイスベルト・カレル・ファン・ホーヘンドルプら有力者が臨時政府を組織した。11月30日、最後の総督の息子ウィレム・フレデリックがスヘフェニンゲンに上陸し、ネーデルラント連合の主権君主と宣言された。1814年に採択された憲法はオラニエ＝ナッサウ家による君主制を確立した。"
+   }
+  },
+  {
+   "year": 1815,
+   "qid": "Q29999",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Kingdom of the Netherlands established",
+    "ko": "네덜란드 왕국 수립",
+    "zh": "荷兰王国建立",
+    "ja": "オランダ王国（ネーデルラント連合王国）の成立"
+   },
+   "description": {
+    "en": "In March 1815 William Frederick proclaimed himself King William I, and the Congress of Vienna created the United Kingdom of the Netherlands, uniting the northern and southern Low Countries under one crown as a barrier against France. William I also became Grand Duke of Luxembourg. He pursued an active economic policy, founding banks, trading companies and canals, and the kingdom established in 1815 is the direct predecessor of today's Netherlands.",
+    "ko": "1815년 3월 빌럼 프레데릭은 스스로 국왕 빌럼 1세를 선포했고, 빈 회의는 프랑스에 대한 방벽으로서 북부와 남부 저지대를 한 왕관 아래 통합한 네덜란드 연합왕국을 만들었다. 빌럼 1세는 룩셈부르크 대공도 겸했다. 그는 은행·무역 회사·운하를 세우며 적극적인 경제 정책을 폈고, 1815년 수립된 이 왕국은 오늘날 네덜란드의 직접적인 전신이다.",
+    "zh": "1815年3月，威廉·弗雷德里克自立为国王威廉一世，维也纳会议则建立了尼德兰联合王国，将南北低地统一于一顶王冠之下，作为防范法国的屏障。威廉一世还兼任卢森堡大公。他推行积极的经济政策，创办银行、贸易公司并开凿运河；1815年建立的这个王国是今日荷兰的直接前身。",
+    "ja": "1815年3月、ウィレム・フレデリックは自らを国王ウィレム1世と宣言し、ウィーン会議はフランスへの防壁として南北の低地地方を一つの王冠のもとに統合したネーデルラント連合王国を創設した。ウィレム1世はルクセンブルク大公も兼ねた。彼は銀行や貿易会社、運河を創設する積極的な経済政策を進め、1815年に成立したこの王国は今日のオランダの直接の前身である。"
+   }
+  },
+  {
+   "year": 1830,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Belgian secession from the kingdom",
+    "ko": "벨기에의 분리 독립",
+    "zh": "比利时脱离荷兰独立",
+    "ja": "ベルギーの分離独立"
+   },
+   "description": {
+    "en": "In August 1830 a revolt broke out in Brussels, and the southern provinces declared independence as Belgium, citing religious, linguistic and political grievances against William I's rule. Dutch troops failed to retake Brussels, and in 1831 the Ten Days' Campaign won battles but was halted by French intervention. William I refused to accept the loss until the Netherlands recognised the separation by the Treaty of London in 1839.",
+    "ko": "1830년 8월 브뤼셀에서 반란이 일어났고, 남부 주들은 빌럼 1세 통치에 대한 종교·언어·정치적 불만을 내세워 벨기에로 독립을 선언했다. 네덜란드군은 브뤼셀 탈환에 실패했고, 1831년 '열흘 원정'은 전투에서 이겼으나 프랑스의 개입으로 중단되었다. 빌럼 1세는 상실을 인정하지 않다가 1839년 런던 조약으로 네덜란드는 분리를 승인했다.",
+    "zh": "1830年8月，布鲁塞尔爆发起义，南方各省以对威廉一世统治的宗教、语言和政治不满为由宣布独立，建立比利时。荷兰军队未能夺回布鲁塞尔，1831年的“十日战役”虽在战场上获胜，却因法国干预而中止。威廉一世拒不接受这一损失，直到1839年荷兰才通过《伦敦条约》承认分离。",
+    "ja": "1830年8月にブリュッセルで反乱が起こり、南部諸州はウィレム1世の統治に対する宗教・言語・政治上の不満を掲げてベルギーとして独立を宣言した。オランダ軍はブリュッセルの奪回に失敗し、1831年の「十日間戦役」は戦闘では勝利したもののフランスの介入で中止された。ウィレム1世は喪失を認めず、オランダが分離を承認したのは1839年のロンドン条約によってであった。"
+   }
+  },
+  {
+   "year": 1839,
+   "qid": "Q376009",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of London and the division of Limburg",
+    "ko": "런던 조약과 림뷔르흐 분할",
+    "zh": "《伦敦条约》与林堡的分割",
+    "ja": "ロンドン条約とリンブルフの分割"
+   },
+   "description": {
+    "en": "On 19 April 1839 the Netherlands and Belgium signed the Treaty of London, guaranteed by the great powers, finally settling Belgian independence. Limburg and Luxembourg were divided: the eastern part of Limburg with Maastricht and Venlo went to the Netherlands as the Duchy of Limburg, linked to the German Confederation until 1866. The treaty fixed the Dutch–Belgian border largely as it is today.",
+    "ko": "1839년 4월 19일 네덜란드와 벨기에는 열강이 보장한 런던 조약에 서명해 벨기에 독립 문제를 최종 해결했다. 림뷔르흐와 룩셈부르크는 분할되어, 마스트리흐트와 펜로를 포함한 림뷔르흐 동부는 1866년까지 독일 연방과 연결된 림뷔르흐 공국으로서 네덜란드에 귀속되었다. 이 조약으로 네덜란드-벨기에 국경은 대체로 오늘날의 모습으로 확정되었다.",
+    "zh": "1839年4月19日，荷兰与比利时签署由列强担保的《伦敦条约》，最终解决了比利时独立问题。林堡和卢森堡被分割：包括马斯特里赫特和芬洛在内的林堡东部作为林堡公国归属荷兰，并在1866年前与德意志邦联相联系。该条约大体确定了今天的荷比边界。",
+    "ja": "1839年4月19日、オランダとベルギーは列強が保障するロンドン条約に調印し、ベルギー独立問題に最終的な決着をつけた。リンブルフとルクセンブルクは分割され、マーストリヒトとフェンローを含むリンブルフ東部は、1866年までドイツ連邦と結びついたリンブルフ公国としてオランダに帰属した。この条約によりオランダとベルギーの国境はおおむね現在の形に定まった。"
+   }
+  },
+  {
+   "year": 1839,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "First Dutch railway",
+    "ko": "네덜란드 최초의 철도",
+    "zh": "荷兰第一条铁路",
+    "ja": "オランダ最初の鉄道"
+   },
+   "description": {
+    "en": "On 20 September 1839 the first Dutch railway line opened between Amsterdam and Haarlem, with the locomotive De Arend pulling the first train. Railway building in the Netherlands started later and more slowly than in Belgium or Britain, since canals and waterways already offered cheap transport. From the 1860s a state-funded programme created a national rail network.",
+    "ko": "1839년 9월 20일 암스테르담과 하를럼 사이에 네덜란드 최초의 철도가 개통되어 기관차 '더 아런트'가 첫 열차를 끌었다. 운하와 수로가 이미 값싼 운송을 제공했기에 네덜란드의 철도 건설은 벨기에나 영국보다 늦고 더디게 시작되었다. 1860년대부터 국가가 자금을 댄 계획으로 전국 철도망이 만들어졌다.",
+    "zh": "1839年9月20日，荷兰第一条铁路在阿姆斯特丹与哈勒姆之间通车，机车“雄鹰号”牵引了首班列车。由于运河和水道早已提供廉价运输，荷兰的铁路建设比比利时或英国起步更晚、进展更慢。自19世纪60年代起，一项国家出资的计划建成了全国铁路网。",
+    "ja": "1839年9月20日、アムステルダムとハールレムの間にオランダ最初の鉄道が開通し、機関車「デ・アレント」が最初の列車を引いた。運河や水路がすでに安価な輸送を提供していたため、オランダの鉄道建設はベルギーやイギリスより遅く、ゆっくりと始まった。1860年代からは国費による計画で全国的な鉄道網が築かれた。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Thorbecke constitution: parliamentary democracy",
+    "ko": "토르베커 헌법: 의회 민주주의의 기틀",
+    "zh": "托尔贝克宪法奠定议会民主制",
+    "ja": "トルベッケ憲法と議会制民主主義の確立"
+   },
+   "description": {
+    "en": "Amid Europe's revolutions of 1848, King William II, fearing unrest, agreed almost overnight to sweeping reform, and the liberal statesman Johan Rudolph Thorbecke drafted a new constitution. It made ministers, rather than the king, responsible to parliament, introduced direct elections for the House of Representatives and guaranteed freedoms of assembly, education and religion. It remains the foundation of Dutch parliamentary democracy.",
+    "ko": "1848년 유럽 혁명의 물결 속에서 소요를 두려워한 국왕 빌럼 2세는 거의 하룻밤 만에 대대적 개혁에 동의했고, 자유주의 정치가 요한 뤼돌프 토르베커가 새 헌법을 기초했다. 이 헌법은 국왕이 아닌 장관이 의회에 책임지도록 하고, 하원 직접선거를 도입했으며, 집회·교육·종교의 자유를 보장했다. 이는 지금도 네덜란드 의회 민주주의의 토대로 남아 있다.",
+    "zh": "在1848年欧洲革命浪潮中，担心动乱的国王威廉二世几乎在一夜之间同意了全面改革，自由派政治家约翰·鲁道夫·托尔贝克起草了新宪法。宪法规定由大臣而非国王对议会负责，引入众议院直接选举，并保障集会、教育和宗教自由。它至今仍是荷兰议会民主制的基础。",
+    "ja": "1848年のヨーロッパ革命のさなか、騒乱を恐れた国王ウィレム2世はほぼ一夜にして抜本的改革に同意し、自由主義の政治家ヨハン・ルドルフ・トルベッケが新憲法を起草した。憲法は国王ではなく大臣が議会に責任を負うこととし、下院の直接選挙を導入し、集会・教育・信教の自由を保障した。これは今もオランダの議会制民主主義の基礎である。"
+   }
+  },
+  {
+   "year": 1852,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Draining of the Haarlemmermeer",
+    "ko": "하를레메르메이르 간척",
+    "zh": "哈勒默梅尔湖排干",
+    "ja": "ハールレマーメールの干拓"
+   },
+   "description": {
+    "en": "Between 1849 and 1852 three steam-powered pumping stations, the Leeghwater, the Cruquius and the Lynden, drained the Haarlemmermeer, a large lake that had grown through storms and peat erosion and threatened Amsterdam and Leiden. It was one of the first large reclamations using steam power. The new polder became farmland and is today also the site of Schiphol airport.",
+    "ko": "1849년부터 1852년까지 레이흐바터르, 크뤼키위스, 레인던 세 곳의 증기 양수장이 폭풍과 이탄 침식으로 커져 암스테르담과 레이던을 위협하던 큰 호수 하를레메르메이르를 말렸다. 이는 증기 동력을 이용한 최초의 대규모 간척 가운데 하나였다. 새로 생긴 간척지는 농지가 되었고, 오늘날에는 스히폴 공항도 자리하고 있다.",
+    "zh": "1849年至1852年间，莱赫瓦特、克鲁奎斯和林登三座蒸汽抽水站排干了哈勒默梅尔湖；这片大湖因风暴和泥炭侵蚀而不断扩大，威胁着阿姆斯特丹和莱顿。这是最早利用蒸汽动力的大规模围垦之一。新圩田成为农田，今天史基浦机场也坐落于此。",
+    "ja": "1849年から1852年にかけて、レーフワーテル、クルーキウス、レインデンの3つの蒸気揚水場が、嵐と泥炭の浸食で拡大しアムステルダムとライデンを脅かしていた大きな湖ハールレマーメールを干し上げた。これは蒸気動力を用いた最初の大規模干拓の一つであった。新たな干拓地は農地となり、今日ではスキポール空港もここにある。"
+   }
+  },
+  {
+   "year": 1853,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Restoration of the Catholic hierarchy and the April Movement",
+    "ko": "가톨릭 교계 제도 복원과 4월 운동",
+    "zh": "天主教圣统制恢复与“四月运动”",
+    "ja": "カトリック位階制の復活と四月運動"
+   },
+   "description": {
+    "en": "Using the religious freedom guaranteed in 1848, Pope Pius IX restored the Catholic episcopal hierarchy in the Netherlands in 1853, with an archbishop in Utrecht. Protestant opposition erupted in the April Movement of petitions and protests, which brought down the Thorbecke cabinet. The episode marked the re-emergence of Catholics, about a third of the population, as an organised force in Dutch public life.",
+    "ko": "1848년 보장된 종교 자유를 바탕으로 교황 비오 9세는 1853년 위트레흐트에 대주교를 두는 네덜란드 가톨릭 주교 제도를 복원했다. 개신교 측의 반발은 청원과 시위로 이루어진 '4월 운동'으로 분출했고, 이는 토르베커 내각을 무너뜨렸다. 이 사건은 인구의 약 3분의 1을 차지한 가톨릭교도가 네덜란드 공적 생활에서 조직된 세력으로 다시 등장했음을 보여 주었다.",
+    "zh": "借助1848年宪法保障的宗教自由，教宗庇护九世于1853年恢复了荷兰天主教的主教圣统制，在乌得勒支设立大主教。新教徒以请愿和抗议的“四月运动”表达强烈反对，导致托尔贝克内阁倒台。这一事件标志着约占人口三分之一的天主教徒重新成为荷兰公共生活中有组织的力量。",
+    "ja": "1848年に保障された信教の自由を背景に、教皇ピウス9世は1853年、ユトレヒトに大司教を置くオランダのカトリック司教位階制を復活させた。プロテスタント側の反発は請願と抗議の「四月運動」として噴出し、トルベッケ内閣を倒した。この出来事は、人口の約3分の1を占めるカトリック教徒がオランダの公的生活において組織された勢力として再登場したことを示した。"
+   }
+  },
+  {
+   "year": 1860,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Multatuli's Max Havelaar",
+    "ko": "물타툴리의 『막스 하벨라르』",
+    "zh": "穆尔塔图利《马格斯·哈弗拉尔》",
+    "ja": "ムルタトゥーリ『マックス・ハーフェラール』"
+   },
+   "description": {
+    "en": "In 1860 Eduard Douwes Dekker, a former colonial official in Java writing as Multatuli, published the novel Max Havelaar. It denounced the abuse of Javanese peasants under the Cultivation System, which forced them to grow export crops for the Dutch state. The book shocked Dutch readers, fed debates that led to the system's gradual dismantling, and is regarded as a classic of Dutch literature.",
+    "ko": "1860년 자바의 전 식민지 관리 에두아르트 다우어스 데커르는 '물타툴리'라는 필명으로 소설 『막스 하벨라르』를 발표했다. 이 소설은 자바 농민들에게 네덜란드 국가를 위한 수출 작물 재배를 강요한 강제 재배 제도 아래의 수탈을 고발했다. 이 책은 네덜란드 독자들에게 충격을 주었고 그 제도의 점진적 폐지로 이어진 논쟁을 촉발했으며, 네덜란드 문학의 고전으로 평가된다.",
+    "zh": "1860年，曾在爪哇任殖民官员的爱德华·道韦斯·德克尔以“穆尔塔图利”为笔名出版小说《马格斯·哈弗拉尔》。小说揭露了“强迫种植制度”下爪哇农民遭受的压榨——他们被迫为荷兰国家种植出口作物。此书震动了荷兰读者，引发的讨论促成该制度逐步废除，并被视为荷兰文学经典。",
+    "ja": "1860年、ジャワの元植民地官僚エドゥアルト・ダウエス・デッケルは「ムルタトゥーリ」の筆名で小説『マックス・ハーフェラール』を発表した。作品は、オランダ国家のために輸出作物の栽培を強いた強制栽培制度のもとでのジャワ農民の搾取を告発した。この本はオランダの読者に衝撃を与え、制度の段階的廃止につながる議論を呼び起こし、オランダ文学の古典とされている。"
+   }
+  },
+  {
+   "year": 1863,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Abolition of slavery in the Dutch colonies",
+    "ko": "네덜란드 식민지의 노예제 폐지",
+    "zh": "荷兰殖民地废除奴隶制",
+    "ja": "オランダ植民地での奴隷制廃止"
+   },
+   "description": {
+    "en": "On 1 July 1863 the Netherlands abolished slavery in Suriname and its Caribbean colonies, one of the last European states to do so. Owners received compensation per enslaved person, while the freed people received nothing, and in Suriname they were obliged to continue working on plantations under state supervision until 1873. The date is commemorated as Keti Koti, and in 2022–2023 the Dutch government and King Willem-Alexander apologised for the country's role in slavery.",
+    "ko": "1863년 7월 1일 네덜란드는 수리남과 카리브해 식민지에서 노예제를 폐지했는데, 이는 유럽 국가 가운데 가장 늦은 편이었다. 소유주들은 노예 1인당 보상금을 받았지만 해방된 사람들은 아무것도 받지 못했고, 수리남에서는 1873년까지 국가 감독 아래 플랜테이션에서 계속 일해야 했다. 이날은 '케티 코티'로 기념되며, 2022~2023년 네덜란드 정부와 국왕 빌럼알렉산더르는 노예제에 대한 국가의 책임을 사과했다.",
+    "zh": "1863年7月1日，荷兰在苏里南及其加勒比殖民地废除了奴隶制，是最晚废奴的欧洲国家之一。奴隶主按人头获得补偿，而获得自由的人却一无所得；在苏里南，他们还被迫在国家监督下继续在种植园劳动至1873年。这一天作为“凯蒂科蒂”节被纪念；2022至2023年，荷兰政府和国王威廉-亚历山大为国家在奴隶制中的角色道歉。",
+    "ja": "1863年7月1日、オランダはスリナムとカリブ海の植民地で奴隷制を廃止した。これはヨーロッパ諸国の中でも最も遅い部類であった。所有者は奴隷1人当たりの補償金を受け取ったが、解放された人々は何も得られず、スリナムでは1873年まで国家の監督下でプランテーションでの労働を続けさせられた。この日は「ケティ・コティ」として記念され、2022～2023年にはオランダ政府と国王ウィレム＝アレクサンダーが奴隷制における国の役割について謝罪した。"
+   }
+  },
+  {
+   "year": 1872,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Nieuwe Waterweg and North Sea Canal",
+    "ko": "니우어 바터르베흐와 북해 운하",
+    "zh": "新水道与北海运河",
+    "ja": "ニーウェ・ワーテルウェフと北海運河"
+   },
+   "description": {
+    "en": "In 1872 the Nieuwe Waterweg, a new channel cut through the dunes, gave Rotterdam direct deep-water access to the North Sea, and in 1876 the North Sea Canal did the same for Amsterdam. Together with the industrialisation of the German Ruhr, the new waterways turned Rotterdam into one of the world's largest ports. They marked the Dutch economy's revival in the late 19th century.",
+    "ko": "1872년 모래 언덕을 뚫은 새 수로 니우어 바터르베흐가 로테르담에 북해로 곧장 나가는 심수 항로를 열어 주었고, 1876년에는 북해 운하가 암스테르담에 같은 역할을 했다. 독일 루르 지방의 공업화와 맞물려 새 수로들은 로테르담을 세계 최대 항구 가운데 하나로 만들었다. 이는 19세기 후반 네덜란드 경제의 부흥을 상징했다.",
+    "zh": "1872年，穿越沙丘开凿的新航道“新水道”使鹿特丹获得直通北海的深水航道，1876年北海运河又为阿姆斯特丹提供了同样的通道。加之德国鲁尔区的工业化，这些新水道使鹿特丹成为世界最大的港口之一。它们标志着19世纪后期荷兰经济的复兴。",
+    "ja": "1872年、砂丘を切り開いた新しい水路ニーウェ・ワーテルウェフがロッテルダムに北海への直接の深水航路をもたらし、1876年には北海運河がアムステルダムに同じ役割を果たした。ドイツのルール地方の工業化とも相まって、新たな水路はロッテルダムを世界最大級の港に変えた。これらは19世紀後半のオランダ経済の復活を象徴した。"
+   }
+  },
+  {
+   "year": 1885,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Van Gogh paints The Potato Eaters",
+    "ko": "반 고흐의 '감자 먹는 사람들'",
+    "zh": "梵高创作《吃土豆的人》",
+    "ja": "ファン・ゴッホ「ジャガイモを食べる人々」"
+   },
+   "description": {
+    "en": "In 1885, while living in his parents' parsonage at Nuenen in North Brabant, Vincent van Gogh painted The Potato Eaters, a dark, earthy depiction of a peasant family at their evening meal. It was his first major work. Van Gogh soon left for Antwerp and Paris, developed his brilliant later style in France, and died in 1890, becoming one of the most famous painters in history.",
+    "ko": "1885년 노르트브라반트 뉘넌의 부모님 목사관에 살던 빈센트 반 고흐는 저녁 식사를 하는 농민 가족을 어둡고 투박하게 그린 '감자 먹는 사람들'을 완성했다. 이는 그의 첫 대작이었다. 반 고흐는 곧 안트베르펜과 파리로 떠나 프랑스에서 눈부신 후기 화풍을 꽃피웠고, 1890년 세상을 떠나 역사상 가장 유명한 화가 가운데 한 사람이 되었다.",
+    "zh": "1885年，住在北布拉班特纽南父母牧师住宅中的文森特·梵高创作了《吃土豆的人》，以阴暗朴拙的笔调描绘了一家农民吃晚饭的情景。这是他的第一件重要作品。梵高不久前往安特卫普和巴黎，在法国发展出绚烂的晚期风格，1890年去世，成为历史上最著名的画家之一。",
+    "ja": "1885年、北ブラバントのニューネンにある両親の牧師館に住んでいたフィンセント・ファン・ゴッホは、夕食をとる農民の家族を暗く素朴に描いた「ジャガイモを食べる人々」を制作した。これは彼の最初の大作であった。ファン・ゴッホはまもなくアントウェルペンとパリへ移り、フランスで輝かしい後期の画風を開花させ、1890年に没して史上最も有名な画家の一人となった。"
+   }
+  },
+  {
+   "year": 1890,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Wilhelmina becomes queen",
+    "ko": "빌헬미나 여왕 즉위",
+    "zh": "威廉明娜成为女王",
+    "ja": "ウィルヘルミナの即位"
+   },
+   "description": {
+    "en": "When King William III died in November 1890, his ten-year-old daughter Wilhelmina succeeded him, with her mother Emma as regent until 1898. Because Luxembourg's succession law excluded women, the personal union with Luxembourg ended. Wilhelmina reigned until 1948 and became a symbol of national resistance during the Second World War.",
+    "ko": "1890년 11월 국왕 빌럼 3세가 세상을 떠나자 열 살이던 딸 빌헬미나가 왕위를 이었고, 1898년까지 어머니 엠마가 섭정을 맡았다. 룩셈부르크의 계승법은 여성을 배제했으므로 룩셈부르크와의 동군연합은 끝났다. 빌헬미나는 1948년까지 재위하며 제2차 세계대전 중 국민 저항의 상징이 되었다.",
+    "zh": "1890年11月国王威廉三世去世，年仅十岁的女儿威廉明娜继位，其母埃玛摄政至1898年。由于卢森堡的继承法排除女性，荷兰与卢森堡的君合国关系随之结束。威廉明娜在位至1948年，并在第二次世界大战期间成为全国抵抗的象征。",
+    "ja": "1890年11月に国王ウィレム3世が死去すると、10歳の娘ウィルヘルミナが王位を継ぎ、1898年まで母エンマが摂政を務めた。ルクセンブルクの継承法は女性を排除していたため、ルクセンブルクとの同君連合は終わった。ウィルヘルミナは1948年まで在位し、第二次世界大戦中には国民的抵抗の象徴となった。"
+   }
+  },
+  {
+   "year": 1899,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First Hague Peace Conference",
+    "ko": "제1차 헤이그 평화 회의",
+    "zh": "第一次海牙和平会议",
+    "ja": "第1回ハーグ平和会議"
+   },
+   "description": {
+    "en": "In 1899, at the initiative of Tsar Nicholas II, delegates of 26 states met in The Hague for the first international peace conference. It adopted conventions on the laws of war and created the Permanent Court of Arbitration, based in The Hague. The conference, followed by a second in 1907, began The Hague's role as a centre of international law.",
+    "ko": "1899년 러시아 차르 니콜라이 2세의 제안으로 26개국 대표가 헤이그에 모여 최초의 국제 평화 회의를 열었다. 회의는 전쟁법에 관한 협약들을 채택하고 헤이그에 본부를 둔 상설중재재판소를 설립했다. 1907년 제2차 회의로 이어진 이 회의는 헤이그가 국제법의 중심지가 되는 출발점이었다.",
+    "zh": "1899年，在俄国沙皇尼古拉二世倡议下，26个国家的代表在海牙召开首次国际和平会议。会议通过了关于战争法规的公约，并设立了总部位于海牙的常设仲裁法院。这次会议及1907年的第二次会议开启了海牙作为国际法中心的地位。",
+    "ja": "1899年、ロシア皇帝ニコライ2世の提唱により、26か国の代表がハーグに集まって最初の国際平和会議を開いた。会議は戦争法規に関する条約を採択し、ハーグに本部を置く常設仲裁裁判所を設立した。1907年の第2回会議へと続くこの会議は、ハーグが国際法の中心地となる出発点であった。"
+   }
+  },
+  {
+   "year": 1911,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Kamerlingh Onnes discovers superconductivity",
+    "ko": "카메를링 오너스의 초전도 발견",
+    "zh": "卡末林·昂内斯发现超导现象",
+    "ja": "カメルリング・オネスによる超伝導の発見"
+   },
+   "description": {
+    "en": "In 1908 Heike Kamerlingh Onnes at Leiden University became the first to liquefy helium, and on 8 April 1911 his laboratory found that the electrical resistance of mercury vanished at a few degrees above absolute zero. This discovery of superconductivity won him the 1913 Nobel Prize in Physics. Around the same time Dutch physicists such as Hendrik Lorentz, Pieter Zeeman and Johannes van der Waals also received Nobel Prizes.",
+    "ko": "1908년 레이던 대학교의 헤이커 카메를링 오너스는 세계 최초로 헬륨을 액화했고, 1911년 4월 8일 그의 실험실은 절대영도보다 몇 도 높은 온도에서 수은의 전기 저항이 사라진다는 것을 발견했다. 이 초전도 발견으로 그는 1913년 노벨 물리학상을 받았다. 비슷한 시기 헨드릭 로런츠, 피터르 제이만, 요하너스 판데르발스 같은 네덜란드 물리학자들도 노벨상을 받았다.",
+    "zh": "1908年，莱顿大学的海克·卡末林·昂内斯首次实现了氦的液化；1911年4月8日，他的实验室发现水银在比绝对零度高几度时电阻消失。这一超导现象的发现使他获得1913年诺贝尔物理学奖。大约同一时期，亨德里克·洛伦兹、彼得·塞曼和约翰内斯·范德瓦耳斯等荷兰物理学家也获得了诺贝尔奖。",
+    "ja": "1908年、ライデン大学のヘイケ・カメルリング・オネスは世界で初めてヘリウムの液化に成功し、1911年4月8日には彼の研究室が、絶対零度より数度高い温度で水銀の電気抵抗が消えることを発見した。この超伝導の発見により、彼は1913年のノーベル物理学賞を受けた。同じ頃、ヘンドリック・ローレンツ、ピーテル・ゼーマン、ヨハネス・ファン・デル・ワールスらオランダの物理学者もノーベル賞を受賞した。"
+   }
+  },
+  {
+   "year": 1913,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Peace Palace opens in The Hague",
+    "ko": "헤이그 평화궁 개관",
+    "zh": "海牙和平宫落成",
+    "ja": "ハーグの平和宮開館"
+   },
+   "description": {
+    "en": "On 28 August 1913 the Peace Palace, funded by the American industrialist Andrew Carnegie, was opened in The Hague to house the Permanent Court of Arbitration and a library of international law. After the First World War it also became the seat of the Permanent Court of International Justice. Since 1946 it has housed the International Court of Justice, the principal judicial organ of the United Nations.",
+    "ko": "1913년 8월 28일 미국 실업가 앤드루 카네기의 기부로 지은 평화궁이 헤이그에서 문을 열어 상설중재재판소와 국제법 도서관이 들어섰다. 제1차 세계대전 뒤에는 상설국제사법재판소의 소재지도 되었다. 1946년부터는 유엔의 주요 사법 기관인 국제사법재판소가 자리하고 있다.",
+    "zh": "1913年8月28日，由美国实业家安德鲁·卡内基出资建造的和平宫在海牙落成，常设仲裁法院和国际法图书馆入驻其中。第一次世界大战后，这里也成为常设国际法院的所在地。自1946年起，联合国主要司法机关国际法院设在此处。",
+    "ja": "1913年8月28日、アメリカの実業家アンドリュー・カーネギーの寄付による平和宮がハーグに開館し、常設仲裁裁判所と国際法の図書館が入った。第一次世界大戦後には常設国際司法裁判所の所在地ともなった。1946年からは国際連合の主要な司法機関である国際司法裁判所が置かれている。"
+   }
+  },
+  {
+   "year": 1914,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Neutrality in the First World War",
+    "ko": "제1차 세계대전 중립",
+    "zh": "第一次世界大战中保持中立",
+    "ja": "第一次世界大戦での中立"
+   },
+   "description": {
+    "en": "When the First World War broke out in 1914, the Netherlands mobilised its army but remained neutral throughout the conflict. After the fall of Antwerp in October 1914, around a million Belgian refugees fled across the border, most of whom later returned. The war disrupted trade and caused food shortages, and in November 1918 the former German Emperor Wilhelm II was granted asylum in the Netherlands, where he lived until his death in 1941.",
+    "ko": "1914년 제1차 세계대전이 일어나자 네덜란드는 군대를 동원했지만 전쟁 내내 중립을 지켰다. 1914년 10월 안트베르펜이 함락된 뒤 약 100만 명의 벨기에 난민이 국경을 넘어왔고, 그 대부분은 뒤에 귀국했다. 전쟁은 교역을 방해하고 식량 부족을 낳았으며, 1918년 11월 전 독일 황제 빌헬름 2세는 네덜란드에 망명을 허락받아 1941년 죽을 때까지 그곳에서 살았다.",
+    "zh": "1914年第一次世界大战爆发后，荷兰动员了军队，但在整个战争期间保持中立。1914年10月安特卫普陷落后，约100万比利时难民越境逃入荷兰，其中大多数后来返回。战争扰乱了贸易并造成粮食短缺；1918年11月，前德意志皇帝威廉二世获准在荷兰避难，在那里一直生活到1941年去世。",
+    "ja": "1914年に第一次世界大戦が勃発すると、オランダは軍を動員したが、戦争中ずっと中立を守った。1914年10月にアントウェルペンが陥落すると、約100万人のベルギー難民が国境を越えて逃れてきたが、その大半はのちに帰国した。戦争は交易を妨げ食料不足を招き、1918年11月には前ドイツ皇帝ヴィルヘルム2世がオランダで亡命を認められ、1941年に没するまでそこで暮らした。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Pacification: universal suffrage and school funding",
+    "ko": "평화 협정: 보통선거와 학교 재정 지원",
+    "zh": "“和解”：普选权与学校经费平等",
+    "ja": "「和平」：普通選挙と学校助成"
+   },
+   "description": {
+    "en": "The constitutional revision of 1917, known as the Pacification, settled two great political conflicts at once. Religious schools received the same public funding as state schools, satisfying Protestant and Catholic parties, while universal male suffrage and proportional representation were introduced, satisfying liberals and socialists; women could stand for election from 1917 and gained the vote in 1919. The settlement entrenched the system of pillarisation that structured Dutch society until the 1960s.",
+    "ko": "'평화 협정'으로 불리는 1917년 헌법 개정은 두 가지 큰 정치적 갈등을 한꺼번에 해결했다. 종교계 학교가 공립학교와 같은 공적 재정 지원을 받게 되어 개신교·가톨릭 정당이 만족했고, 남성 보통선거와 비례대표제가 도입되어 자유주의자와 사회주의자가 만족했다. 여성은 1917년부터 피선거권을, 1919년에는 선거권을 얻었다. 이 타협은 1960년대까지 네덜란드 사회를 구성한 '기둥화' 체제를 굳혔다.",
+    "zh": "1917年被称为“和解”的修宪一举解决了两大政治冲突。宗教学校获得与公立学校同等的公共经费，令新教和天主教政党满意；同时引入男性普选和比例代表制，令自由派和社会主义者满意。女性自1917年起获得被选举权，1919年获得选举权。这一妥协巩固了直到20世纪60年代仍塑造荷兰社会的“柱化”体制。",
+    "ja": "「和平（パシフィカティー）」と呼ばれる1917年の憲法改正は、二つの大きな政治対立を一度に解決した。宗派学校が公立学校と同じ公的助成を受けることになってプロテスタント・カトリック政党が満足し、男子普通選挙と比例代表制が導入されて自由主義者と社会主義者が満足した。女性は1917年から被選挙権を、1919年には選挙権を得た。この妥協は1960年代までオランダ社会を形づくった「柱状化」の体制を固めた。"
+   }
+  },
+  {
+   "year": 1932,
+   "qid": null,
+   "importance": 1,
+   "category": "science",
+   "title": {
+    "en": "Afsluitdijk closes the Zuiderzee",
+    "ko": "아프슬라위트데이크, 자위더르해를 막다",
+    "zh": "拦海大坝封闭须德海",
+    "ja": "アフシュライトダイクがゾイデル海を閉め切る"
+   },
+   "description": {
+    "en": "On 28 May 1932 the last gap in the Afsluitdijk, a 32-kilometre dam between North Holland and Friesland, was closed, cutting the Zuiderzee off from the North Sea. Designed under a plan championed by the engineer Cornelis Lely after a flood in 1916, it turned the salty inlet into the freshwater IJsselmeer. Behind it the Zuiderzee Works reclaimed large polders, including what became the province of Flevoland in 1986.",
+    "ko": "1932년 5월 28일 노르트홀란트와 프리슬란트를 잇는 길이 32킬로미터의 둑 아프슬라위트데이크의 마지막 틈이 막히면서 자위더르해는 북해와 단절되었다. 1916년 홍수 이후 기술자 코르넬리스 렐리가 주창한 계획에 따라 설계된 이 둑은 짠물 만을 담수호 에이설호로 바꾸었다. 그 안쪽에서는 자위더르해 공사로 큰 간척지들이 만들어졌으며, 그중에는 1986년 플레볼란트주가 된 땅도 있다.",
+    "zh": "1932年5月28日，连接北荷兰省和弗里斯兰、全长32公里的拦海大坝最后一个缺口合龙，须德海与北海隔绝。该坝依照工程师科内利斯·莱利倡导、在1916年洪灾后获批的计划而建，把咸水海湾变成了淡水的艾瑟尔湖。在大坝内侧，须德海工程围垦出大片圩田，其中包括1986年设立的弗莱福兰省。",
+    "ja": "1932年5月28日、北ホラントとフリースラントを結ぶ全長32キロの締切大堤防アフシュライトダイクの最後の切れ目が閉じられ、ゾイデル海は北海から切り離された。1916年の洪水の後、技師コルネリス・レリーが推進した計画に基づいて設計されたこの堤防は、塩水の入り江を淡水のアイセル湖に変えた。その内側ではゾイデル海干拓事業によって大きな干拓地が造られ、そこには1986年にフレヴォラント州となった土地も含まれる。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "German invasion and occupation in World War II",
+    "ko": "제2차 세계대전: 독일의 침공과 점령",
+    "zh": "第二次世界大战：德国入侵与占领",
+    "ja": "第二次世界大戦：ドイツによる侵攻と占領"
+   },
+   "description": {
+    "en": "Nazi Germany invaded the neutral Netherlands on 10 May 1940. After the bombing of Rotterdam on 14 May, which destroyed the city centre, and the threat of further bombing, the Dutch army capitulated, while Queen Wilhelmina and the government escaped to London. Five years of occupation followed, during which some 102,000 Dutch Jews, including Anne Frank, were murdered in the Holocaust.",
+    "ko": "나치 독일은 1940년 5월 10일 중립국 네덜란드를 침공했다. 5월 14일 로테르담 폭격으로 도심이 파괴되고 추가 폭격의 위협이 가해지자 네덜란드군은 항복했으며, 빌헬미나 여왕과 정부는 런던으로 피신했다. 이후 5년간의 점령 기간 동안 안네 프랑크를 포함해 약 10만 2천 명의 네덜란드 유대인이 홀로코스트로 살해되었다.",
+    "zh": "1940年5月10日，纳粹德国入侵中立的荷兰。5月14日鹿特丹遭轰炸、市中心被毁，在进一步轰炸的威胁下，荷兰军队投降，威廉明娜女王和政府流亡伦敦。随后五年的占领期间，包括安妮·弗兰克在内的约10.2万名荷兰犹太人在大屠杀中遇害。",
+    "ja": "ナチス・ドイツは1940年5月10日、中立国オランダに侵攻した。5月14日のロッテルダム爆撃で市の中心部が破壊され、さらなる爆撃の脅しを受けてオランダ軍は降伏し、ウィルヘルミナ女王と政府はロンドンへ逃れた。その後5年間の占領のあいだに、アンネ・フランクを含む約10万2千人のオランダのユダヤ人がホロコーストで殺害された。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "February Strike",
+    "ko": "2월 파업",
+    "zh": "二月罢工",
+    "ja": "二月ストライキ"
+   },
+   "description": {
+    "en": "On 25 and 26 February 1941, after the first mass round-ups of Jewish men in Amsterdam, the outlawed Communist Party called a general strike. Tens of thousands of workers in Amsterdam and surrounding towns stopped work in protest. It was one of the first large public protests against the persecution of Jews in occupied Europe; the Germans crushed it within days and executed several organisers.",
+    "ko": "1941년 2월 25~26일, 암스테르담에서 유대인 남성들에 대한 첫 대규모 검거가 있은 뒤 불법화된 공산당이 총파업을 호소했다. 암스테르담과 인근 도시의 노동자 수만 명이 항의의 뜻으로 일손을 놓았다. 이는 점령된 유럽에서 유대인 박해에 맞선 최초의 대규모 공개 항의 가운데 하나였으며, 독일군은 며칠 만에 이를 진압하고 여러 조직자를 처형했다.",
+    "zh": "1941年2月25日至26日，在阿姆斯特丹发生首次大规模搜捕犹太男子之后，被取缔的共产党号召总罢工。阿姆斯特丹及周边城镇数以万计的工人停工抗议。这是被占领的欧洲最早反对迫害犹太人的大规模公开抗议之一；德国人在数日内将其镇压，并处决了数名组织者。",
+    "ja": "1941年2月25日と26日、アムステルダムでユダヤ人男性の最初の大規模な一斉検挙が行われた後、非合法化された共産党がゼネストを呼びかけた。アムステルダムと周辺の町の数万人の労働者が抗議のために仕事を止めた。これは占領下のヨーロッパでユダヤ人迫害に抗した最初の大規模な公然たる抗議の一つであり、ドイツ側は数日のうちにこれを鎮圧し、組織者数人を処刑した。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Deportations of Dutch Jews begin",
+    "ko": "네덜란드 유대인 이송 시작",
+    "zh": "荷兰犹太人遣送开始",
+    "ja": "オランダのユダヤ人の移送開始"
+   },
+   "description": {
+    "en": "In July 1942 the systematic deportation of Jews from the Netherlands began, mostly through the transit camp of Westerbork in Drenthe to Auschwitz and Sobibor. That month the Frank family went into hiding in the secret annex of a house on the Prinsengracht in Amsterdam, where Anne Frank kept her diary until their arrest in August 1944. About three-quarters of the Jews of the Netherlands were murdered, one of the highest proportions in Western Europe.",
+    "ko": "1942년 7월 네덜란드에서 유대인에 대한 조직적 이송이 시작되어, 대부분 드렌터의 베스테르보르크 통과 수용소를 거쳐 아우슈비츠와 소비보르로 보내졌다. 그달 프랑크 가족은 암스테르담 프린선흐라흐트에 있는 건물의 은신처로 숨어들었고, 안네 프랑크는 1944년 8월 체포될 때까지 그곳에서 일기를 썼다. 네덜란드 유대인의 약 4분의 3이 살해되었는데, 이는 서유럽에서 가장 높은 비율 가운데 하나였다.",
+    "zh": "1942年7月，荷兰开始有组织地遣送犹太人，大多经德伦特的韦斯特博克中转营送往奥斯维辛和索比堡。同月，弗兰克一家躲进阿姆斯特丹王子运河畔一栋房子的密室，安妮·弗兰克在那里写日记，直到1944年8月一家人被捕。荷兰约四分之三的犹太人遇害，是西欧比例最高的国家之一。",
+    "ja": "1942年7月、オランダからのユダヤ人の組織的な移送が始まり、多くはドレンテのヴェステルボルク通過収容所を経てアウシュヴィッツとソビボルへ送られた。同じ月、フランク一家はアムステルダムのプリンセングラハトにある建物の隠れ家に身を潜め、アンネ・フランクは1944年8月に逮捕されるまでそこで日記を書き続けた。オランダのユダヤ人の約4分の3が殺害され、これは西ヨーロッパで最も高い割合の一つであった。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Operation Market Garden and the Hunger Winter",
+    "ko": "마켓 가든 작전과 굶주림의 겨울",
+    "zh": "市场花园行动与“饥饿冬天”",
+    "ja": "マーケット・ガーデン作戦と飢餓の冬"
+   },
+   "description": {
+    "en": "In September 1944 Allied forces liberated much of the south, with Maastricht among the first Dutch cities freed. Operation Market Garden, an airborne attempt to seize the Rhine bridges, failed at Arnhem, leaving the densely populated west under German occupation. After a Dutch railway strike in support of the Allies, the Germans blocked food transports, and an exceptionally harsh winter brought famine to the western cities.",
+    "ko": "1944년 9월 연합군은 남부의 상당 지역을 해방했고, 마스트리흐트는 가장 먼저 해방된 네덜란드 도시 가운데 하나였다. 라인강 다리들을 장악하려던 공수 작전 '마켓 가든'이 아른험에서 실패하면서 인구가 밀집한 서부는 독일 점령 아래 남게 되었다. 연합군을 지원한 네덜란드 철도 파업 이후 독일군이 식량 수송을 막았고, 유난히 혹독한 겨울과 겹쳐 서부 도시들에 기근이 닥쳤다.",
+    "zh": "1944年9月，盟军解放了南部大部分地区，马斯特里赫特是最早获得解放的荷兰城市之一。旨在夺取莱茵河桥梁的空降作战“市场花园行动”在阿纳姆失败，人口稠密的西部仍处于德国占领之下。荷兰铁路工人为支援盟军举行罢工后，德国人封锁了粮食运输，加上异常严酷的冬天，西部城市陷入饥荒。",
+    "ja": "1944年9月、連合軍は南部の多くを解放し、マーストリヒトは最初に解放されたオランダの都市の一つとなった。ライン川の橋を奪取しようとした空挺作戦「マーケット・ガーデン」がアルンヘムで失敗したため、人口の密集する西部はドイツの占領下に残された。連合軍を支援するオランダの鉄道ストライキの後、ドイツ側は食料輸送を封鎖し、例年になく厳しい冬と重なって西部の都市を飢饉が襲った。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Liberation after the Hunger Winter",
+    "ko": "'굶주림의 겨울'을 넘어 해방",
+    "zh": "“饥饿冬天”后的解放",
+    "ja": "「飢餓の冬」を越えて解放"
+   },
+   "description": {
+    "en": "After the Hunger Winter of 1944–45, in which some 20,000 civilians died of starvation and related causes, Allied food drops began in late April 1945. Canadian-led forces liberated the north and east, and the German forces in the Netherlands surrendered at Wageningen on 5–6 May 1945. Liberation Day is commemorated each year on 5 May, preceded by Remembrance of the Dead on 4 May.",
+    "ko": "1944~45년 '굶주림의 겨울' 동안 약 2만 명의 민간인이 기아와 관련 원인으로 숨졌으며, 1945년 4월 말 연합군의 식량 투하가 시작되었다. 캐나다군이 주도한 부대가 북부와 동부를 해방했고, 네덜란드 주둔 독일군은 1945년 5월 5~6일 바헤닝언에서 항복했다. 해방의 날은 해마다 5월 5일에 기념되며, 그 전날인 5월 4일에는 전몰자 추모일이 있다.",
+    "zh": "1944至1945年的“饥饿冬天”中，约2万名平民死于饥饿及相关原因；1945年4月底，盟军开始空投粮食。以加拿大军为主的部队解放了北部和东部，驻荷德军于1945年5月5日至6日在瓦赫宁恩投降。每年5月5日为解放日，前一天5月4日为阵亡者纪念日。",
+    "ja": "1944～45年の「飢餓の冬」には約2万人の市民が飢えとそれに関連する原因で亡くなり、1945年4月末から連合軍による食料投下が始まった。カナダ軍を中心とする部隊が北部と東部を解放し、オランダのドイツ軍は1945年5月5～6日にワーヘニンゲンで降伏した。解放記念日は毎年5月5日に祝われ、その前日の5月4日は戦没者追悼の日である。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Transfer of sovereignty to Indonesia",
+    "ko": "인도네시아로의 주권 이양",
+    "zh": "向印度尼西亚移交主权",
+    "ja": "インドネシアへの主権移譲"
+   },
+   "description": {
+    "en": "Indonesian nationalists proclaimed independence on 17 August 1945, but the Netherlands sought to restore control and launched two major military offensives in 1947 and 1948, which it called 'police actions'. Under international pressure, the Netherlands transferred sovereignty over the former Dutch East Indies, except Western New Guinea, on 27 December 1949. In 2022, after a major historical study, the Dutch government apologised for the systematic and extreme violence used by its forces in the war.",
+    "ko": "인도네시아 민족주의자들은 1945년 8월 17일 독립을 선포했으나, 네덜란드는 지배권 회복을 꾀하며 1947년과 1948년 스스로 '경찰 행동'이라 부른 두 차례의 대규모 군사 공세를 벌였다. 국제적 압력 속에 네덜란드는 1949년 12월 27일 서뉴기니를 제외한 옛 네덜란드령 동인도의 주권을 이양했다. 2022년 대규모 역사 연구 결과가 나온 뒤 네덜란드 정부는 이 전쟁에서 자국군이 행한 체계적이고 극단적인 폭력에 대해 사과했다.",
+    "zh": "印度尼西亚民族主义者于1945年8月17日宣布独立，但荷兰试图恢复控制，于1947年和1948年发动了两次被其称为“警察行动”的大规模军事攻势。在国际压力下，荷兰于1949年12月27日将前荷属东印度（西新几内亚除外）的主权移交出去。2022年，在一项大型历史研究完成后，荷兰政府就其军队在这场战争中使用的系统性极端暴力道歉。",
+    "ja": "インドネシアの民族主義者は1945年8月17日に独立を宣言したが、オランダは支配の回復を図り、1947年と1948年に自ら「警察行動」と呼んだ2度の大規模な軍事攻勢を行った。国際的な圧力のもと、オランダは1949年12月27日、西ニューギニアを除く旧オランダ領東インドの主権を移譲した。2022年、大規模な歴史研究の結果を受けて、オランダ政府はこの戦争で自国軍が行った組織的で極端な暴力について謝罪した。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Founding member of NATO",
+    "ko": "NATO 창설 회원국",
+    "zh": "北约创始成员国",
+    "ja": "NATOの原加盟国に"
+   },
+   "description": {
+    "en": "In April 1949 the Netherlands abandoned its long tradition of neutrality, which had failed to protect it in 1940, and became a founding member of the North Atlantic Treaty Organization. A year earlier the Benelux customs union with Belgium and Luxembourg had come into force. Atlanticism and close ties with the United States became cornerstones of Dutch foreign policy.",
+    "ko": "1949년 4월 네덜란드는 1940년 나라를 지켜 주지 못했던 오랜 중립 전통을 버리고 북대서양 조약 기구(NATO)의 창설 회원국이 되었다. 그 1년 전에는 벨기에·룩셈부르크와의 베네룩스 관세 동맹이 발효되었다. 대서양주의와 미국과의 긴밀한 관계는 네덜란드 외교 정책의 주춧돌이 되었다.",
+    "zh": "1949年4月，荷兰放弃了1940年未能保护自己的长期中立传统，成为北大西洋公约组织的创始成员国。前一年，与比利时和卢森堡的比荷卢关税同盟已经生效。大西洋主义以及与美国的密切关系成为荷兰外交政策的基石。",
+    "ja": "1949年4月、オランダは1940年に国を守れなかった長年の中立の伝統を捨て、北大西洋条約機構（NATO）の原加盟国となった。その1年前にはベルギー、ルクセンブルクとのベネルクス関税同盟が発効していた。大西洋主義とアメリカとの緊密な関係はオランダ外交政策の礎となった。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "North Sea flood and the Delta Works",
+    "ko": "북해 대홍수와 델타 공사",
+    "zh": "北海大洪水与三角洲工程",
+    "ja": "北海大洪水とデルタ計画"
+   },
+   "description": {
+    "en": "On the night of 31 January to 1 February 1953 a North Sea storm surge breached the dikes and killed over 1,800 people, mostly in Zeeland and South Holland. In response the Netherlands launched the Delta Works, a system of dams, sluices and storm-surge barriers that shortened the coastline and sealed off the estuaries. Completed in 1997 with the Maeslantkering near Rotterdam, it is regarded as one of the world's great feats of hydraulic engineering.",
+    "ko": "1953년 1월 31일 밤부터 2월 1일 사이 북해의 폭풍 해일이 제방을 무너뜨려 주로 제일란트와 자위트홀란트에서 1,800명 넘게 숨졌다. 이에 대응해 네덜란드는 댐·수문·폭풍 해일 방벽으로 해안선을 줄이고 하구를 막는 델타 공사를 시작했다. 1997년 로테르담 부근의 마이슬란트케링 완공으로 마무리된 이 사업은 세계적인 수리 공학의 위업으로 꼽힌다.",
+    "zh": "1953年1月31日夜至2月1日，北海风暴潮冲垮堤坝，造成1800多人死亡，死者主要在泽兰省和南荷兰省。为此荷兰启动了三角洲工程，以水坝、水闸和防潮闸组成的体系缩短海岸线、封闭河口。工程于1997年随鹿特丹附近的马斯朗特防潮闸建成而完工，被视为世界水利工程的伟大成就之一。",
+    "ja": "1953年1月31日夜から2月1日にかけて、北海の高潮が堤防を破り、主にゼーラントと南ホラントで1800人以上が死亡した。これを受けてオランダは、ダム・水門・高潮防潮堤によって海岸線を短縮し河口を閉め切るデルタ計画に着手した。1997年にロッテルダム近郊のマースラントケリングの完成で締めくくられたこの事業は、世界的な水利工学の偉業とされる。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Charter for the Kingdom of the Netherlands",
+    "ko": "네덜란드 왕국 헌장",
+    "zh": "《荷兰王国宪章》",
+    "ja": "オランダ王国憲章"
+   },
+   "description": {
+    "en": "On 15 December 1954 the Charter for the Kingdom of the Netherlands came into force, turning the Netherlands, Suriname and the Netherlands Antilles into equal, self-governing countries within one kingdom. The Charter replaced the colonial relationship with a constitutional partnership covering defence, foreign affairs and citizenship jointly. It remains the highest legal document of the Kingdom, though its membership has since changed.",
+    "ko": "1954년 12월 15일 '네덜란드 왕국 헌장'이 발효되어 네덜란드, 수리남, 네덜란드령 안틸레스는 한 왕국 안의 대등한 자치국이 되었다. 헌장은 식민 관계를 국방·외교·국적을 공동으로 다루는 헌법적 동반자 관계로 바꾸었다. 이후 구성국은 바뀌었지만 헌장은 여전히 왕국의 최고 법률 문서로 남아 있다.",
+    "zh": "1954年12月15日，《荷兰王国宪章》生效，荷兰、苏里南和荷属安的列斯成为同一王国内地位平等的自治国家。宪章以共同处理国防、外交和国籍事务的宪制伙伴关系取代了殖民关系。尽管此后构成国有所变化，它仍是王国的最高法律文件。",
+    "ja": "1954年12月15日、「オランダ王国憲章」が発効し、オランダ、スリナム、オランダ領アンティルは一つの王国の中の対等な自治国となった。憲章は植民地関係を、防衛・外交・国籍を共同で扱う憲法上のパートナーシップに置き換えた。その後構成国は変わったが、憲章は今も王国の最高の法的文書である。"
+   }
+  },
+  {
+   "year": 1957,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding member of the European Community",
+    "ko": "유럽 공동체 창설 회원국",
+    "zh": "欧洲共同体创始成员国",
+    "ja": "欧州共同体の創設加盟国に"
+   },
+   "description": {
+    "en": "On 25 March 1957 the Netherlands signed the Treaty of Rome as one of the six founding members of the European Economic Community, having already joined the European Coal and Steel Community. Dutch governments, dependent on trade through Rotterdam, were strong advocates of a common market and free trade. The step anchored the country's postwar course in European integration.",
+    "ko": "1957년 3월 25일 네덜란드는 이미 유럽 석탄 철강 공동체에 가입한 상태에서 로마 조약에 서명해 유럽 경제 공동체의 6개 창설 회원국 가운데 하나가 되었다. 로테르담을 통한 교역에 의존한 네덜란드 정부들은 공동 시장과 자유무역을 강력히 지지했다. 이 결정은 전후 네덜란드의 진로를 유럽 통합에 단단히 묶어 두었다.",
+    "zh": "1957年3月25日，已加入欧洲煤钢共同体的荷兰签署《罗马条约》，成为欧洲经济共同体六个创始成员国之一。依赖鹿特丹转口贸易的荷兰历届政府都是共同市场和自由贸易的坚定倡导者。这一步使荷兰的战后道路牢牢扎根于欧洲一体化。",
+    "ja": "1957年3月25日、すでに欧州石炭鉄鋼共同体に加わっていたオランダはローマ条約に調印し、欧州経済共同体の6つの原加盟国の一つとなった。ロッテルダム経由の交易に依存するオランダの歴代政府は、共同市場と自由貿易の強力な推進者であった。この一歩は、オランダの戦後の進路を欧州統合にしっかりと結びつけた。"
+   }
+  },
+  {
+   "year": 1959,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Discovery of the Groningen gas field",
+    "ko": "흐로닝언 가스전 발견",
+    "zh": "格罗宁根气田的发现",
+    "ja": "フローニンゲン・ガス田の発見"
+   },
+   "description": {
+    "en": "In July 1959 a drilling near Slochteren in Groningen struck natural gas, revealing one of the largest gas fields in the world. Within a decade almost all Dutch households had switched to gas, and exports brought the state enormous revenues that helped fund the welfare state. Economists later coined the term 'Dutch disease' for the side effects of such a resource boom on other sectors.",
+    "ko": "1959년 7월 흐로닝언주 슬로흐테런 부근의 시추에서 천연가스가 발견되어 세계 최대급 가스전의 존재가 드러났다. 10년도 안 되어 네덜란드의 거의 모든 가정이 가스로 전환했고, 수출은 국가에 막대한 수입을 안겨 복지 국가의 재원이 되었다. 경제학자들은 훗날 이러한 자원 호황이 다른 산업에 미치는 부작용을 '네덜란드병'이라 불렀다.",
+    "zh": "1959年7月，在格罗宁根省斯洛赫特伦附近的钻探中发现天然气，揭示了世界上最大的气田之一。不到十年，荷兰几乎所有家庭都改用天然气，出口为国家带来巨额收入，为福利国家提供了资金。经济学家后来用“荷兰病”一词来形容这种资源繁荣对其他产业造成的副作用。",
+    "ja": "1959年7月、フローニンゲン州スロホテレン付近の掘削で天然ガスが見つかり、世界最大級のガス田の存在が明らかになった。10年もたたないうちにオランダのほぼすべての家庭がガスに切り替え、輸出は国家に莫大な収入をもたらして福祉国家の財源となった。経済学者はのちに、こうした資源ブームが他の産業に及ぼす副作用を「オランダ病」と呼んだ。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": "Q941881",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Netherlands New Guinea handed over",
+    "ko": "네덜란드령 뉴기니 이양",
+    "zh": "荷属新几内亚的移交",
+    "ja": "オランダ領ニューギニアの移譲"
+   },
+   "description": {
+    "en": "The Netherlands had kept Western New Guinea after 1949 and prepared it for self-government, but Indonesia claimed the territory and escalated military pressure. Under the New York Agreement of August 1962, brokered by the United States, the Dutch handed the territory to a temporary UN administration, which transferred it to Indonesia in 1963. A 1969 'Act of Free Choice' confirming Indonesian rule remains widely criticised.",
+    "ko": "네덜란드는 1949년 이후에도 서뉴기니를 유지하며 자치를 준비시켰으나, 인도네시아는 이 영토를 요구하며 군사적 압박을 높였다. 미국의 중재로 1962년 8월 체결된 뉴욕 협정에 따라 네덜란드는 이 영토를 유엔 임시 행정부에 넘겼고, 유엔은 1963년 이를 인도네시아에 이양했다. 인도네시아의 지배를 확인한 1969년의 '자유 선택 행위'는 지금도 널리 비판받고 있다.",
+    "zh": "1949年后荷兰保留了西新几内亚，并为其自治作准备，但印度尼西亚主张对该地拥有主权并不断加大军事压力。根据美国斡旋、1962年8月签订的《纽约协定》，荷兰将该地交给联合国临时行政机构，后者于1963年将其移交印尼。1969年确认印尼统治的“自由选择法案”至今仍广受批评。",
+    "ja": "オランダは1949年以降も西ニューギニアを保持して自治の準備を進めたが、インドネシアはこの領土を要求して軍事的圧力を強めた。アメリカの仲介で1962年8月に結ばれたニューヨーク協定により、オランダは領土を国連の暫定行政機構に引き渡し、国連は1963年にこれをインドネシアに移譲した。インドネシアの統治を確認した1969年の「自由選択行為」は今も広く批判されている。"
+   }
+  },
+  {
+   "year": 1966,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Provo and the cultural revolution of the 1960s",
+    "ko": "프로보와 1960년대 문화 혁명",
+    "zh": "“普罗沃”运动与60年代文化变革",
+    "ja": "プロヴォと1960年代の文化革命"
+   },
+   "description": {
+    "en": "In the mid-1960s the anarchist Provo movement staged playful 'happenings' in Amsterdam, proposing free white bicycles and challenging authority. On 10 March 1966 smoke bombs were thrown at the wedding procession of Princess Beatrix and the German-born Claus von Amsberg. Provo symbolised a broader upheaval in which secularisation, youth protest and the decline of the pillars transformed Dutch society within a decade.",
+    "ko": "1960년대 중반 아나키스트 운동 '프로보'는 암스테르담에서 기발한 '해프닝'을 벌이며 무료 공용 흰 자전거를 제안하고 권위에 도전했다. 1966년 3월 10일 베아트릭스 공주와 독일 태생의 클라우스 폰 암스베르크의 결혼 행렬에 연막탄이 던져졌다. 프로보는 세속화, 청년 저항, 기둥의 쇠퇴가 10년 만에 네덜란드 사회를 바꾸어 놓은 더 큰 격변을 상징했다.",
+    "zh": "20世纪60年代中期，无政府主义运动“普罗沃”在阿姆斯特丹举行戏谑性的“偶发艺术”活动，提出免费公共白色自行车计划，挑战权威。1966年3月10日，有人向贝娅特丽克丝公主与德国出生的克劳斯·冯·阿姆斯贝格的婚礼车队投掷烟雾弹。“普罗沃”象征着一场更广泛的剧变：世俗化、青年抗议和“柱化”的衰落在十年内改变了荷兰社会。",
+    "ja": "1960年代半ば、アナキスト運動「プロヴォ」はアムステルダムで遊び心あふれる「ハプニング」を繰り広げ、無料の白い共用自転車を提案して権威に挑んだ。1966年3月10日には、ベアトリクス王女とドイツ生まれのクラウス・フォン・アムスベルクの結婚パレードに発煙弾が投げ込まれた。プロヴォは、世俗化、若者の抗議、「柱」の衰退が10年のうちにオランダ社会を変えた、より大きな激変を象徴していた。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q19901436",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Independence of Suriname",
+    "ko": "수리남의 독립",
+    "zh": "苏里南独立",
+    "ja": "スリナムの独立"
+   },
+   "description": {
+    "en": "On 25 November 1975 Suriname, a constituent country of the Kingdom since 1954, became an independent republic. Before and after independence, a large part of its population, roughly a third, migrated to the Netherlands, where Surinamese Dutch communities became a major part of society in cities such as Amsterdam and Rotterdam. The Dutch government provided substantial development aid under the independence agreement.",
+    "ko": "1954년부터 왕국의 구성국이었던 수리남은 1975년 11월 25일 독립 공화국이 되었다. 독립 전후로 인구의 상당 부분, 대략 3분의 1이 네덜란드로 이주했고, 수리남계 네덜란드인 공동체는 암스테르담과 로테르담 같은 도시에서 사회의 중요한 일부가 되었다. 네덜란드 정부는 독립 협정에 따라 상당한 개발 원조를 제공했다.",
+    "zh": "自1954年起为王国构成国的苏里南于1975年11月25日成为独立的共和国。独立前后，其人口的很大一部分，约三分之一，移居荷兰，苏里南裔荷兰人社群成为阿姆斯特丹、鹿特丹等城市社会的重要组成部分。荷兰政府根据独立协议提供了大量发展援助。",
+    "ja": "1954年から王国の構成国であったスリナムは、1975年11月25日に独立した共和国となった。独立の前後に人口の大きな部分、およそ3分の1がオランダへ移住し、スリナム系オランダ人のコミュニティはアムステルダムやロッテルダムなどの都市で社会の重要な一部となった。オランダ政府は独立協定に基づき多額の開発援助を行った。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Train hijacking at De Punt",
+    "ko": "더 퓐트 열차 납치 사건",
+    "zh": "德蓬特火车劫持事件",
+    "ja": "デ・プントの列車ハイジャック事件"
+   },
+   "description": {
+    "en": "In May 1977 young South Moluccan activists hijacked a train near De Punt in Drenthe and simultaneously took a school in Bovensmilde hostage, demanding Dutch support for an independent South Moluccan republic. After nearly three weeks, Dutch marines stormed the train on 11 June 1977; six hijackers and two hostages were killed. The actions grew out of the frustrations of Moluccan former colonial soldiers and their families, who had been brought to the Netherlands in 1951.",
+    "ko": "1977년 5월 젊은 남말루쿠 활동가들은 독립 남말루쿠 공화국에 대한 네덜란드의 지지를 요구하며 드렌터의 더 퓐트 부근에서 열차를 납치하고, 동시에 보번스밀더의 학교에서 인질극을 벌였다. 거의 3주 뒤인 1977년 6월 11일 네덜란드 해병대가 열차를 급습해 납치범 6명과 인질 2명이 숨졌다. 이 사건은 1951년 네덜란드로 이송된 말루쿠계 전 식민지 군인과 그 가족들의 좌절감에서 비롯되었다.",
+    "zh": "1977年5月，年轻的南马鲁古活动人士在德伦特省德蓬特附近劫持了一列火车，同时在博芬斯米尔德的一所学校劫持人质，要求荷兰支持建立独立的南马鲁古共和国。近三周后的1977年6月11日，荷兰海军陆战队突袭列车，6名劫持者和2名人质死亡。这些行动源于1951年被带到荷兰的马鲁古籍前殖民地士兵及其家属的挫败感。",
+    "ja": "1977年5月、若い南モルッカの活動家たちは独立した南モルッカ共和国へのオランダの支持を求めて、ドレンテのデ・プント付近で列車をハイジャックし、同時にボーフェンスミルデの学校で人質を取った。約3週間後の1977年6月11日、オランダ海兵隊が列車に突入し、犯人6人と人質2人が死亡した。これらの行動は、1951年にオランダに移送されたモルッカ系の旧植民地兵とその家族の挫折感から生まれたものであった。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Beatrix's inauguration and the squatters' riots",
+    "ko": "베아트릭스 즉위와 무단점거자 폭동",
+    "zh": "贝娅特丽克丝即位与占屋者骚乱",
+    "ja": "ベアトリクスの即位とスクワッターの暴動"
+   },
+   "description": {
+    "en": "On 30 April 1980 Queen Juliana abdicated and her daughter Beatrix was inaugurated in Amsterdam's Nieuwe Kerk. Under the slogan 'no housing, no coronation', squatters protesting the city's severe housing shortage clashed with police in some of the worst riots in postwar Dutch history. Beatrix reigned until 2013.",
+    "ko": "1980년 4월 30일 율리아나 여왕이 퇴위하고 딸 베아트릭스가 암스테르담 니우어 케르크에서 즉위했다. '집이 없으면 대관식도 없다'는 구호 아래 도시의 심각한 주택난에 항의하는 무단점거자들이 경찰과 충돌하여 전후 네덜란드 역사상 손꼽히는 폭동이 일어났다. 베아트릭스는 2013년까지 재위했다.",
+    "zh": "1980年4月30日，朱莉安娜女王退位，其女贝娅特丽克丝在阿姆斯特丹新教堂即位。抗议该市严重住房短缺的占屋者喊出“没有住房，就没有加冕”的口号，与警察发生冲突，酿成战后荷兰史上最严重的骚乱之一。贝娅特丽克丝在位至2013年。",
+    "ja": "1980年4月30日、ユリアナ女王が退位し、娘のベアトリクスがアムステルダムの新教会で即位した。「住宅なくして戴冠なし」のスローガンのもと、市の深刻な住宅不足に抗議するスクワッター（不法占拠者）が警察と衝突し、戦後オランダ史上屈指の暴動となった。ベアトリクスは2013年まで在位した。"
+   }
+  },
+  {
+   "year": 1986,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Eastern Scheldt storm surge barrier opens",
+    "ko": "오스터르스헬더 방조 수문 개통",
+    "zh": "东斯海尔德防潮闸启用",
+    "ja": "東スヘルデ高潮防潮堤の開通"
+   },
+   "description": {
+    "en": "In October 1986 Queen Beatrix opened the Oosterscheldekering, the largest of the Delta Works. Instead of closing the Eastern Scheldt completely, as originally planned, engineers built a barrier of huge movable gates that stay open in normal conditions and close during storms, preserving the estuary's tidal ecosystem and shellfish industry. The design reflected growing environmental concerns in Dutch water management.",
+    "ko": "1986년 10월 베아트릭스 여왕은 델타 공사 가운데 최대 규모인 오스터르스헬더케링을 개통했다. 기술자들은 원래 계획처럼 오스터르스헬더를 완전히 막는 대신, 평소에는 열려 있다가 폭풍 때 닫히는 거대한 가동식 수문을 갖춘 방벽을 세워 하구의 조간대 생태계와 조개 산업을 보존했다. 이 설계는 네덜란드 물 관리에서 커져 가던 환경에 대한 관심을 반영했다.",
+    "zh": "1986年10月，贝娅特丽克丝女王启用了三角洲工程中规模最大的东斯海尔德防潮闸。工程师没有按原计划将东斯海尔德完全封闭，而是建造了由巨型活动闸门组成的屏障，平时开启、风暴时关闭，从而保护了河口的潮汐生态系统和贝类产业。这一设计反映了荷兰水利管理中日益增长的环保意识。",
+    "ja": "1986年10月、ベアトリクス女王はデルタ計画最大の施設である東スヘルデ高潮防潮堤（オーステルスヘルデケリング）を開通させた。技術者たちは当初の計画のように東スヘルデを完全に閉め切る代わりに、平常時は開いて嵐のときに閉じる巨大な可動ゲートの防潮堤を築き、河口の干潟生態系と貝類漁業を守った。この設計はオランダの水管理における環境への関心の高まりを反映していた。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Maastricht Treaty",
+    "ko": "마스트리흐트 조약",
+    "zh": "《马斯特里赫特条约》",
+    "ja": "マーストリヒト条約"
+   },
+   "description": {
+    "en": "On 7 February 1992 the member states of the European Community signed the Treaty on European Union in the Dutch city of Maastricht. The treaty created the European Union, introduced European citizenship and set the path to economic and monetary union with a single currency. The Netherlands adopted the euro, introduced in cash in 2002, replacing the guilder.",
+    "ko": "1992년 2월 7일 유럽 공동체 회원국들은 네덜란드의 도시 마스트리흐트에서 유럽 연합 조약에 서명했다. 이 조약은 유럽 연합을 창설하고 유럽 시민권을 도입했으며, 단일 통화를 갖는 경제 통화 동맹으로 가는 길을 정했다. 네덜란드는 2002년 현금으로 도입된 유로를 채택해 휠던을 대체했다.",
+    "zh": "1992年2月7日，欧洲共同体成员国在荷兰城市马斯特里赫特签署了《欧洲联盟条约》。该条约创立了欧洲联盟，引入欧盟公民身份，并确定了建立使用单一货币的经济与货币联盟的路线。荷兰采用了2002年开始流通现金的欧元，取代了荷兰盾。",
+    "ja": "1992年2月7日、欧州共同体の加盟国はオランダの都市マーストリヒトで欧州連合条約に調印した。条約は欧州連合を創設し、欧州市民権を導入し、単一通貨をもつ経済通貨同盟への道筋を定めた。オランダは2002年に現金が導入されたユーロを採用し、ギルダーに取って代えた。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Srebrenica and Dutchbat",
+    "ko": "스레브레니차와 네덜란드 평화유지군",
+    "zh": "斯雷布雷尼察事件与荷兰维和营",
+    "ja": "スレブレニツァとオランダ平和維持部隊"
+   },
+   "description": {
+    "en": "In July 1995 Bosnian Serb forces overran the UN 'safe area' of Srebrenica in Bosnia, which was guarded by lightly armed Dutch peacekeepers (Dutchbat), and then murdered about 8,000 Bosniak men and boys. The failure to prevent the genocide caused deep national soul-searching in the Netherlands. In April 2002, after a report by the Netherlands Institute for War Documentation, the cabinet of Wim Kok resigned, accepting political responsibility.",
+    "ko": "1995년 7월 보스니아 세르비아계 군대는 가볍게 무장한 네덜란드 평화유지군(더치배트)이 지키던 보스니아의 유엔 '안전 지대' 스레브레니차를 점령한 뒤, 보스니아계 무슬림 남성과 소년 약 8천 명을 학살했다. 이 집단 학살을 막지 못한 일은 네덜란드에 깊은 자기 성찰을 불러일으켰다. 2002년 4월 네덜란드 전쟁기록연구소의 보고서가 나온 뒤 빔 콕 내각은 정치적 책임을 지고 총사퇴했다.",
+    "zh": "1995年7月，波黑塞族部队攻占了由轻装备的荷兰维和部队（荷兰营）守卫的联合国“安全区”斯雷布雷尼察，随后屠杀了约8000名波什尼亚克族男子和男孩。未能阻止这场种族灭绝在荷兰引发了深刻的全国性反思。2002年4月，荷兰战争文献研究所发布报告后，维姆·科克内阁承担政治责任集体辞职。",
+    "ja": "1995年7月、ボスニアのセルビア人勢力は、軽武装のオランダ平和維持部隊（ダッチバット）が守っていたボスニアの国連「安全地帯」スレブレニツァを制圧し、その後ボシュニャク人の男性と少年約8000人を殺害した。このジェノサイドを防げなかったことは、オランダに深い国民的な自省をもたらした。2002年4月、オランダ戦争資料研究所の報告書を受けて、ウィム・コック内閣は政治責任を取って総辞職した。"
+   }
+  },
+  {
+   "year": 2001,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "First country to legalize same-sex marriage",
+    "ko": "세계 최초의 동성결혼 법제화",
+    "zh": "全球首个同性婚姻合法化国家",
+    "ja": "世界初の同性婚合法化"
+   },
+   "description": {
+    "en": "On 1 April 2001 the Netherlands became the first country in the world to open civil marriage to same-sex couples, and the first weddings were held that day in Amsterdam. The law, passed by parliament in 2000, gave same-sex couples the same rights as opposite-sex couples, including adoption. It reflected the country's tradition of social liberalism and influenced legislation worldwide.",
+    "ko": "2001년 4월 1일 네덜란드는 세계 최초로 동성 커플에게 민법상 혼인을 허용한 나라가 되었고, 그날 암스테르담에서 첫 결혼식이 열렸다. 2000년 의회를 통과한 이 법은 입양을 포함해 동성 커플에게 이성 커플과 같은 권리를 부여했다. 이는 네덜란드의 사회적 자유주의 전통을 반영하며 전 세계의 입법에 영향을 주었다.",
+    "zh": "2001年4月1日，荷兰成为世界上第一个向同性伴侣开放民事婚姻的国家，当天首批婚礼在阿姆斯特丹举行。该法律于2000年经议会通过，赋予同性伴侣与异性伴侣相同的权利，包括收养。这体现了荷兰的社会自由主义传统，并影响了世界各地的立法。",
+    "ja": "2001年4月1日、オランダは世界で初めて同性カップルに民事婚を認めた国となり、その日アムステルダムで最初の結婚式が行われた。2000年に議会で可決されたこの法律は、養子縁組を含め、同性カップルに異性カップルと同じ権利を与えた。これはオランダの社会的自由主義の伝統を反映し、世界の立法に影響を与えた。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Pim Fortuyn",
+    "ko": "핌 포르타윈 암살",
+    "zh": "皮姆·富图恩遇刺",
+    "ja": "ピム・フォルタイン暗殺"
+   },
+   "description": {
+    "en": "On 6 May 2002, nine days before a general election, the populist politician Pim Fortuyn, who had campaigned against immigration and Islam and against the established parties, was shot dead in Hilversum by an animal-rights activist. It was the first political assassination in the Netherlands in centuries. His party, the LPF, won 26 seats in the election, and debates on immigration and integration have shaped Dutch politics ever since.",
+    "ko": "2002년 5월 6일, 총선을 9일 앞두고 이민과 이슬람, 기성 정당에 반대하는 선거 운동을 펼치던 포퓰리스트 정치인 핌 포르타윈이 힐베르쉼에서 동물권 활동가의 총에 맞아 숨졌다. 이는 네덜란드에서 수 세기 만에 일어난 정치적 암살이었다. 그의 정당 LPF는 총선에서 26석을 얻었고, 그 뒤로 이민과 통합을 둘러싼 논쟁이 네덜란드 정치를 형성해 왔다.",
+    "zh": "2002年5月6日，即大选前九天，以反对移民、伊斯兰教和传统政党为竞选主张的民粹主义政治家皮姆·富图恩在希尔弗瑟姆被一名动物权利活动人士枪杀。这是荷兰数百年来第一起政治暗杀。他的政党“富图恩名单”在大选中赢得26席，此后围绕移民与融合的争论一直塑造着荷兰政治。",
+    "ja": "2002年5月6日、総選挙の9日前に、移民やイスラム、既成政党に反対する選挙運動を展開していたポピュリスト政治家ピム・フォルタインが、ヒルフェルスムで動物愛護活動家に射殺された。これはオランダで数世紀ぶりの政治的暗殺であった。彼の政党LPFは選挙で26議席を獲得し、以後、移民と統合をめぐる議論がオランダ政治を形づくってきた。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Euthanasia law takes effect",
+    "ko": "안락사법 시행",
+    "zh": "安乐死法生效",
+    "ja": "安楽死法の施行"
+   },
+   "description": {
+    "en": "On 1 April 2002 the Netherlands became one of the first countries to legalise euthanasia and physician-assisted suicide under strict conditions. Doctors are exempt from prosecution if the patient's request is voluntary and well-considered, the suffering is unbearable with no prospect of improvement, a second doctor is consulted and each case is reported to a review committee. The law codified practices that Dutch courts had tolerated since the 1980s.",
+    "ko": "2002년 4월 1일 네덜란드는 엄격한 조건 아래 안락사와 의사 조력 자살을 합법화한 최초의 나라들 가운데 하나가 되었다. 환자의 요청이 자발적이고 숙고된 것이며, 개선 가망 없이 견딜 수 없는 고통이 있고, 다른 의사의 자문을 거쳐 모든 사례를 심사 위원회에 보고하면 의사는 처벌을 면한다. 이 법은 1980년대부터 네덜란드 법원이 용인해 온 관행을 성문화한 것이었다.",
+    "zh": "2002年4月1日，荷兰成为最早在严格条件下将安乐死和医生协助自杀合法化的国家之一。只要患者的请求出于自愿且经过深思熟虑、痛苦难以忍受且无改善希望、咨询过第二位医生并将每个案例上报审查委员会，医生即可免于起诉。该法将荷兰法院自20世纪80年代以来所容许的做法法典化。",
+    "ja": "2002年4月1日、オランダは厳格な条件のもとで安楽死と医師による自殺幇助を合法化した最初の国の一つとなった。患者の要請が自発的で熟慮されたものであり、改善の見込みのない耐えがたい苦痛があり、別の医師に相談し、すべての事例を審査委員会に報告すれば、医師は訴追を免れる。この法律は1980年代からオランダの裁判所が容認してきた慣行を成文化したものであった。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Murder of Theo van Gogh",
+    "ko": "테오 반 고흐 살해",
+    "zh": "提奥·梵高遇害",
+    "ja": "テオ・ファン・ゴッホ殺害"
+   },
+   "description": {
+    "en": "On 2 November 2004 the filmmaker and columnist Theo van Gogh was murdered in Amsterdam by Mohammed Bouyeri, a Dutch-Moroccan Islamist, after making a short film critical of the treatment of women in Islam with the politician Ayaan Hirsi Ali. The killing shocked the country and intensified tensions over Islam, free speech and integration. Bouyeri was sentenced to life imprisonment in 2005.",
+    "ko": "2004년 11월 2일 영화감독이자 칼럼니스트인 테오 반 고흐는 정치인 아얀 히르시 알리와 함께 이슬람에서의 여성 처우를 비판하는 단편 영화를 만든 뒤, 암스테르담에서 모로코계 네덜란드인 이슬람주의자 모하메드 부예리에게 살해되었다. 이 살해는 나라에 충격을 주었고 이슬람, 표현의 자유, 통합을 둘러싼 긴장을 고조시켰다. 부예리는 2005년 종신형을 선고받았다.",
+    "zh": "2004年11月2日，电影导演兼专栏作家提奥·梵高在与政治家阿亚安·希尔西·阿里合作拍摄一部批评伊斯兰教中女性待遇的短片后，在阿姆斯特丹被摩洛哥裔荷兰伊斯兰主义者穆罕默德·布耶里杀害。这起凶杀震惊全国，加剧了围绕伊斯兰教、言论自由和社会融合的紧张关系。布耶里于2005年被判终身监禁。",
+    "ja": "2004年11月2日、映画監督でコラムニストのテオ・ファン・ゴッホは、政治家アヤーン・ヒルシ・アリとともにイスラムにおける女性の扱いを批判する短編映画を制作した後、アムステルダムでモロッコ系オランダ人のイスラム主義者モハメド・ブイェリに殺害された。この殺害は国に衝撃を与え、イスラム、表現の自由、統合をめぐる緊張を高めた。ブイェリは2005年に終身刑を言い渡された。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Referendum rejects the EU constitution",
+    "ko": "EU 헌법 조약 국민투표 부결",
+    "zh": "全民公投否决欧盟宪法",
+    "ja": "国民投票でEU憲法条約を否決"
+   },
+   "description": {
+    "en": "On 1 June 2005, in the first national referendum in modern Dutch history, about 61.5 percent of voters rejected the proposed Treaty establishing a Constitution for Europe, days after French voters had done the same. The vote reflected unease about the pace of European integration, the euro and the country's net contributions to the EU budget. The constitution was abandoned and replaced by the Treaty of Lisbon.",
+    "ko": "2005년 6월 1일, 근대 네덜란드 역사상 첫 전국 국민투표에서 유권자의 약 61.5%가 유럽 헌법 조약안에 반대했는데, 이는 프랑스 유권자들이 같은 결정을 내린 지 며칠 뒤였다. 이 투표는 유럽 통합의 속도, 유로, EU 예산에 대한 순분담금에 대한 불안을 반영했다. 헌법 조약은 폐기되고 리스본 조약으로 대체되었다.",
+    "zh": "2005年6月1日，在荷兰现代史上首次全国公投中，约61.5%的选民否决了《欧洲宪法条约》草案，而此前几天法国选民也作出了同样的决定。这次投票反映了民众对欧洲一体化速度、欧元以及荷兰对欧盟预算净贡献的不安。该宪法条约被放弃，后由《里斯本条约》取代。",
+    "ja": "2005年6月1日、近代オランダ史上初の全国的な国民投票で、有権者の約61.5％が欧州憲法条約案に反対した。これはフランスの有権者が同様の判断を下した数日後のことであった。この投票は、欧州統合のペース、ユーロ、EU予算への純拠出に対する不安を反映していた。憲法条約は放棄され、リスボン条約に置き換えられた。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Financial crisis and bank nationalisations",
+    "ko": "금융 위기와 은행 국유화",
+    "zh": "金融危机与银行国有化",
+    "ja": "金融危機と銀行の国有化"
+   },
+   "description": {
+    "en": "During the global financial crisis of 2008 the Dutch state spent tens of billions of euros rescuing its financial sector. In October 2008 it took over the Dutch operations of the troubled Fortis group, including its share of ABN AMRO, and it injected capital into ING and other institutions. The crisis was followed by years of austerity and a housing market slump.",
+    "ko": "2008년 세계 금융 위기 동안 네덜란드 정부는 금융 부문을 구하기 위해 수백억 유로를 투입했다. 2008년 10월 정부는 위기에 빠진 포르티스 그룹의 네덜란드 사업을 ABN AMRO 지분과 함께 인수했고, ING 등 금융 기관에 자본을 투입했다. 위기 이후 수년간 긴축과 주택 시장 침체가 이어졌다.",
+    "zh": "在2008年全球金融危机中，荷兰政府花费数百亿欧元救助金融业。2008年10月，政府接管了陷入困境的富通集团在荷兰的业务，包括其持有的荷兰银行（ABN AMRO）股份，并向荷兰国际集团（ING）等机构注资。危机之后是多年的紧缩和房地产市场低迷。",
+    "ja": "2008年の世界金融危機の際、オランダ政府は金融部門を救済するために数百億ユーロを投じた。2008年10月、政府は経営難に陥ったフォルティス・グループのオランダ事業をABNアムロの持ち分とともに取得し、INGなどの金融機関に資本を注入した。危機の後には数年にわたる緊縮財政と住宅市場の低迷が続いた。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": "Q25227",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Dissolution of the Netherlands Antilles",
+    "ko": "네덜란드령 안틸레스 해체",
+    "zh": "荷属安的列斯解体",
+    "ja": "オランダ領アンティルの解体"
+   },
+   "description": {
+    "en": "On 10 October 2010 the Netherlands Antilles were dissolved after a series of island referendums. Curaçao and Sint Maarten became separate constituent countries of the Kingdom alongside Aruba, while Bonaire, Sint Eustatius and Saba became special municipalities of the Netherlands itself, known as the Caribbean Netherlands. The country of the Netherlands thereby gained territory in the Caribbean.",
+    "ko": "2010년 10월 10일 일련의 섬별 주민투표 끝에 네덜란드령 안틸레스가 해체되었다. 퀴라소와 신트마르턴은 아루바와 나란히 왕국의 별도 구성국이 되었고, 보네르·신트외스타티우스·사바는 '카리브 네덜란드'로 불리는 네덜란드 본국의 특별 자치체가 되었다. 이로써 네덜란드 본국은 카리브해에 영토를 갖게 되었다.",
+    "zh": "2010年10月10日，经过各岛一系列公投后，荷属安的列斯解体。库拉索和荷属圣马丁与阿鲁巴一样成为王国的单独构成国，而博奈尔、圣尤斯特歇斯和萨巴则成为荷兰本国的特别行政区，称为“加勒比荷兰”。荷兰本国由此在加勒比地区拥有了领土。",
+    "ja": "2010年10月10日、各島での一連の住民投票を経てオランダ領アンティルが解体された。キュラソーとシント・マールテンはアルバと並ぶ王国の個別の構成国となり、ボネール、シント・ユースタティウス、サバは「カリブ・オランダ」と呼ばれるオランダ本国の特別自治体となった。これによりオランダ本国はカリブ海に領土を持つことになった。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Willem-Alexander becomes king",
+    "ko": "빌럼알렉산더르 국왕 즉위",
+    "zh": "威廉-亚历山大即位",
+    "ja": "ウィレム＝アレクサンダー国王の即位"
+   },
+   "description": {
+    "en": "On 30 April 2013 Queen Beatrix abdicated after 33 years on the throne, and her son Willem-Alexander was inaugurated in Amsterdam as the first Dutch king since 1890. His wife Máxima, born in Argentina, became queen. King's Day, celebrated on his birthday of 27 April, replaced the former Queen's Day as a national festival.",
+    "ko": "2013년 4월 30일 베아트릭스 여왕이 33년의 재위를 마치고 퇴위했고, 아들 빌럼알렉산더르가 암스테르담에서 즉위하여 1890년 이후 첫 네덜란드 국왕이 되었다. 아르헨티나 태생의 아내 막시마는 왕비가 되었다. 그의 생일인 4월 27일의 '국왕의 날'이 예전의 '여왕의 날'을 대신하는 국가 축제가 되었다.",
+    "zh": "2013年4月30日，在位33年的贝娅特丽克丝女王退位，其子威廉-亚历山大在阿姆斯特丹即位，成为1890年以来荷兰首位国王。他的妻子、阿根廷出生的马克西玛成为王后。在他生日4月27日庆祝的“国王节”取代了以往的“女王节”，成为全国性节日。",
+    "ja": "2013年4月30日、33年在位したベアトリクス女王が退位し、息子ウィレム＝アレクサンダーがアムステルダムで即位して、1890年以来初のオランダ国王となった。アルゼンチン生まれの妻マキシマは王妃となった。彼の誕生日である4月27日の「国王の日」が、かつての「女王の日」に代わる国民的な祭日となった。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "MH17 shot down over Ukraine",
+    "ko": "우크라이나 상공의 MH17 격추",
+    "zh": "MH17航班在乌克兰上空被击落",
+    "ja": "ウクライナ上空でのMH17撃墜"
+   },
+   "description": {
+    "en": "On 17 July 2014 Malaysia Airlines flight MH17 from Amsterdam to Kuala Lumpur was shot down over eastern Ukraine, killing all 298 people on board, 196 of them Dutch citizens. An international investigation led by the Netherlands concluded that it was hit by a Russian Buk missile fired from territory held by Russian-backed separatists. In 2022 a Dutch court convicted three men in absentia of murder; Russia denies responsibility.",
+    "ko": "2014년 7월 17일 암스테르담에서 쿠알라룸푸르로 가던 말레이시아 항공 MH17편이 우크라이나 동부 상공에서 격추되어 탑승자 298명 전원이 숨졌으며, 그 가운데 196명이 네덜란드 시민이었다. 네덜란드가 주도한 국제 조사는 이 여객기가 러시아의 지원을 받는 분리주의 세력이 장악한 지역에서 발사된 러시아제 부크 미사일에 맞았다고 결론지었다. 2022년 네덜란드 법원은 세 명에게 궐석 재판으로 살인죄를 선고했으며, 러시아는 책임을 부인하고 있다.",
+    "zh": "2014年7月17日，从阿姆斯特丹飞往吉隆坡的马来西亚航空MH17航班在乌克兰东部上空被击落，机上298人全部遇难，其中196人为荷兰公民。由荷兰主导的国际调查得出结论：飞机被从俄罗斯支持的分离武装控制区发射的俄制“山毛榉”导弹击中。2022年荷兰法院缺席判处三人谋杀罪成立；俄罗斯否认负有责任。",
+    "ja": "2014年7月17日、アムステルダム発クアラルンプール行きのマレーシア航空MH17便がウクライナ東部上空で撃墜され、搭乗者298人全員が死亡し、そのうち196人がオランダ国民であった。オランダが主導した国際調査は、同機がロシアの支援を受ける分離派勢力の支配地域から発射されたロシア製ブーク・ミサイルによって撃墜されたと結論づけた。2022年、オランダの裁判所は3人に欠席裁判で殺人罪の有罪判決を下したが、ロシアは責任を否定している。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Decision to end Groningen gas extraction",
+    "ko": "흐로닝언 가스 채굴 중단 결정",
+    "zh": "决定停止格罗宁根天然气开采",
+    "ja": "フローニンゲンのガス採掘終了の決定"
+   },
+   "description": {
+    "en": "Decades of gas extraction caused increasingly frequent earthquakes in Groningen, damaging tens of thousands of homes, and a magnitude 3.6 quake at Zeerijp in January 2018 intensified public anger. In March 2018 the government decided to wind down production from the Groningen field. Production ceased in 2023 and the closure was made permanent by law in 2024, while a 2023 parliamentary inquiry concluded that the interests of Groningen residents had been systematically neglected.",
+    "ko": "수십 년간의 가스 채굴로 흐로닝언에서는 지진이 점점 잦아져 수만 채의 주택이 피해를 입었고, 2018년 1월 제이레이프에서 일어난 규모 3.6의 지진은 주민들의 분노를 키웠다. 2018년 3월 정부는 흐로닝언 가스전의 생산을 단계적으로 중단하기로 결정했다. 생산은 2023년에 멈췄고 2024년 법으로 영구 폐쇄가 확정되었으며, 2023년 의회 조사는 흐로닝언 주민들의 이익이 체계적으로 무시되어 왔다고 결론지었다.",
+    "zh": "数十年的天然气开采使格罗宁根地震日益频繁，数万栋房屋受损；2018年1月泽赖普发生的3.6级地震加剧了民众的愤怒。2018年3月，政府决定逐步停止格罗宁根气田的生产。生产于2023年停止，2024年以法律形式永久关闭；2023年的议会调查得出结论，格罗宁根居民的利益长期遭到系统性忽视。",
+    "ja": "数十年にわたるガス採掘によってフローニンゲンでは地震が頻発するようになり、数万戸の住宅が被害を受け、2018年1月にゼーライプで起きたマグニチュード3.6の地震は住民の怒りを強めた。2018年3月、政府はフローニンゲン・ガス田の生産を段階的に終了することを決定した。生産は2023年に停止し、2024年には法律で恒久的な閉鎖が確定した。2023年の議会調査は、フローニンゲン住民の利益が組織的に軽視されてきたと結論づけた。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Childcare benefits scandal topples the cabinet",
+    "ko": "육아수당 스캔들로 내각 총사퇴",
+    "zh": "育儿津贴丑闻导致内阁辞职",
+    "ja": "児童手当スキャンダルで内閣総辞職"
+   },
+   "description": {
+    "en": "On 15 January 2021 Prime Minister Mark Rutte's third cabinet resigned over the childcare benefits scandal (toeslagenaffaire), in which the tax authorities had wrongly accused thousands of parents of fraud and demanded repayments that drove many into debt. A parliamentary report had found that fundamental principles of the rule of law had been violated, and that people with dual nationality were disproportionately targeted. The scandal deepened distrust of government institutions.",
+    "ko": "2021년 1월 15일 마르크 뤼터 총리의 제3차 내각은 육아수당 스캔들(토슬라헨아페러)로 총사퇴했다. 이 사건에서 세무 당국은 수천 명의 부모를 부당하게 부정 수급자로 몰아 상환을 요구했고, 많은 이들이 빚더미에 앉았다. 의회 보고서는 법치의 근본 원칙이 침해되었으며 이중 국적자가 불균형하게 표적이 되었다고 밝혔다. 이 스캔들은 정부 기관에 대한 불신을 깊게 했다.",
+    "zh": "2021年1月15日，马克·吕特首相的第三届内阁因育儿津贴丑闻集体辞职。在该事件中，税务部门错误地指控数千名家长欺诈并要求退还津贴，使许多人陷入债务。议会报告认定法治的基本原则遭到违反，且双重国籍者被不成比例地针对。这一丑闻加深了民众对政府机构的不信任。",
+    "ja": "2021年1月15日、マルク・ルッテ首相の第3次内閣は児童手当スキャンダル（トゥスラーヘンアフェール）で総辞職した。この事件では税務当局が数千人の親を不当に不正受給者と決めつけて返還を求め、多くの人が借金を抱えた。議会の報告書は、法の支配の基本原則が侵害され、二重国籍者が不均衡に標的とされたと認定した。このスキャンダルは政府機関への不信を深めた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q123517495",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "PVV election victory and the Schoof cabinet",
+    "ko": "PVV의 총선 승리와 스호프 내각",
+    "zh": "自由党胜选与斯霍夫内阁",
+    "ja": "PVVの総選挙勝利とスホーフ内閣"
+   },
+   "description": {
+    "en": "After Rutte's fourth cabinet fell over asylum policy in July 2023, Geert Wilders's anti-immigration Party for Freedom (PVV) became the largest party in the November 2023 election. Following lengthy negotiations, a coalition of the PVV, VVD, NSC and BBB formed a cabinet led by the non-partisan former civil servant Dick Schoof, sworn in on 2 July 2024. It was the first time the PVV had joined a Dutch government.",
+    "ko": "2023년 7월 뤼터 제4차 내각이 망명 정책을 둘러싸고 붕괴한 뒤, 헤이르트 빌더르스가 이끄는 반이민 성향의 자유당(PVV)이 2023년 11월 총선에서 제1당이 되었다. 긴 협상 끝에 PVV, VVD, NSC, BBB의 연립은 무소속 전직 고위 공무원 딕 스호프가 이끄는 내각을 구성했고, 내각은 2024년 7월 2일 출범했다. PVV가 네덜란드 정부에 참여한 것은 이때가 처음이었다.",
+    "zh": "2023年7月吕特第四届内阁因庇护政策垮台后，海尔特·维尔德斯领导的反移民的自由党（PVV）在2023年11月大选中成为第一大党。经过漫长谈判，自由党、自由民主人民党、新社会契约党和农民公民运动组成联合政府，由无党派的前高级公务员迪克·斯霍夫出任首相，内阁于2024年7月2日宣誓就职。这是自由党首次加入荷兰政府。",
+    "ja": "2023年7月に第4次ルッテ内閣が難民政策をめぐって崩壊した後、ヘールト・ウィルダース率いる反移民の自由党（PVV）が2023年11月の総選挙で第一党となった。長い交渉の末、PVV、VVD、NSC、BBBの連立が無所属の元高級官僚ディック・スホーフを首班とする内閣を組織し、内閣は2024年7月2日に発足した。PVVがオランダの政権に加わったのはこれが初めてであった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q136705826",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "NATO summit in The Hague and the 2025 election",
+    "ko": "헤이그 NATO 정상회의와 2025년 총선",
+    "zh": "海牙北约峰会与2025年大选",
+    "ja": "ハーグNATO首脳会議と2025年総選挙"
+   },
+   "description": {
+    "en": "In June 2025 the PVV left the governing coalition in a dispute over asylum policy, and the Schoof cabinet continued in a caretaker role; later that month The Hague hosted a NATO summit at which allies agreed to raise defence spending substantially. In the snap election of 29 October 2025, Rob Jetten's social-liberal D66 won the most votes, narrowly ahead of the PVV. The subsequent coalition negotiations led to the formation of a cabinet headed by Jetten.",
+    "ko": "2025년 6월 PVV가 망명 정책을 둘러싼 갈등으로 연립 정부에서 탈퇴하면서 스호프 내각은 과도 내각으로 남았고, 같은 달 하순 헤이그에서 열린 NATO 정상회의에서 동맹국들은 국방비를 대폭 늘리기로 합의했다. 2025년 10월 29일 조기 총선에서 롭 예턴이 이끄는 사회자유주의 정당 D66이 PVV를 근소하게 앞서 최다 득표를 기록했다. 이어진 연정 협상 끝에 예턴을 수반으로 하는 내각이 구성되었다.",
+    "zh": "2025年6月，自由党因庇护政策分歧退出执政联盟，斯霍夫内阁转为看守内阁；同月下旬，海牙主办北约峰会，盟国在会上同意大幅提高国防开支。在2025年10月29日的提前大选中，罗布·耶滕领导的社会自由主义政党六六民主党以微弱优势领先自由党，获得最多选票。随后的组阁谈判产生了由耶滕领导的内阁。",
+    "ja": "2025年6月、PVVは難民政策をめぐる対立から連立政権を離脱し、スホーフ内閣は暫定内閣として続いた。同月下旬にはハーグでNATO首脳会議が開かれ、同盟国は国防費を大幅に増やすことで合意した。2025年10月29日の前倒し総選挙では、ロブ・イェッテン率いる社会自由主義政党D66がPVVをわずかに上回って最多得票を得た。その後の連立交渉を経て、イェッテンを首班とする内閣が組織された。"
+   }
+  }
+ ]
+}

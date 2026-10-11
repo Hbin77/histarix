@@ -46,6 +46,15 @@ import {
   type IndexedCountry,
 } from "@/lib/geo";
 import { useI18n } from "@/lib/i18n";
+import {
+  BORDERS_UNTIL,
+  groupPolities,
+  loadPolityIndex,
+  polityAt,
+  shapesAt,
+  type ActivePolity,
+  type PolityIndex,
+} from "@/lib/borders";
 
 export interface DotGlobeHandle {
   zoomIn: () => void;
@@ -56,6 +65,8 @@ interface DotGlobeProps {
   onCountrySelect: (country: SelectedCountry) => void;
   onDeselect: () => void;
   selectedCountryCode?: string | null;
+  /** time-slider year; up to BORDERS_UNTIL the land shows that year's polities */
+  year: number;
 }
 
 const RADIUS = 1;
@@ -112,6 +123,12 @@ function tokenColor(name: string): { color: Color; alpha: number } {
     }
   }
   return { color: new Color(raw || "#ffffff"), alpha: 1 };
+}
+
+/** A parsed token back to a canvas fill/stroke style. */
+function cssColor({ color, alpha }: { color: Color; alpha: number }): string {
+  const c = color.clone().convertLinearToSRGB();
+  return `rgba(${Math.round(c.r * 255)}, ${Math.round(c.g * 255)}, ${Math.round(c.b * 255)}, ${alpha})`;
 }
 
 
@@ -292,6 +309,9 @@ interface SlotColors {
   hoverHex: string[];
   selectedHex: string[];
   dimmedHex: string[];
+  /** historical mode: polity fill and pointed-at polity fill */
+  polityHex: string[];
+  polityHoverHex: string[];
 }
 
 /**
@@ -306,7 +326,11 @@ function deriveSlotColors(baseColors: Color[], ocean: Color): SlotColors {
   const selected = baseColors.map((c) => c.clone());
   const dimmed = baseColors.map((c) => c.clone().lerp(paper, 0.9));
   const css = (c: Color) => "#" + c.getHexString();
+  const polity = baseColors.map((c) => c.clone().lerp(paper, 0.62));
+  const polityHover = baseColors.map((c) => c.clone().lerp(paper, 0.3));
   return {
+    polityHex: polity.map(css),
+    polityHoverHex: polityHover.map(css),
     base,
     hover,
     selected,
@@ -341,14 +365,22 @@ interface LandmarkCard {
 
 type Status = "loading" | "ready" | "error";
 
+/** polity tooltip sits just above-right of the pointer */
+const tipTransform = ({ x, y }: { x: number; y: number }) =>
+  `translate(${x + 14}px, ${y - 34}px)`;
+
 export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
-  function DotGlobe({ onCountrySelect, onDeselect, selectedCountryCode }, ref) {
+  function DotGlobe({ onCountrySelect, onDeselect, selectedCountryCode, year }, ref) {
     const containerRef = useRef<HTMLDivElement>(null);
     const cardRef = useRef<HTMLDivElement>(null);
+    const tipRef = useRef<HTMLDivElement>(null);
+    const tipPos = useRef({ x: 0, y: 0 });
+    const [polityTip, setPolityTip] = useState<string | null>(null);
+    const [polityIndex, setPolityIndex] = useState<PolityIndex | null>(null);
     const [status, setStatus] = useState<Status>("loading");
     const [isImmersive, setIsImmersive] = useState(false);
     const [card, setCard] = useState<LandmarkCard | null>(null);
-    const { t } = useI18n();
+    const { t, lang } = useI18n();
 
     const onCountrySelectRef = useRef(onCountrySelect);
     const onDeselectRef = useRef(onDeselect);
@@ -379,6 +411,13 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       applyExternalSelection: ((iso: string | null) => void) | null;
       /** zoom the landmark orbit rig; returns false when the rig is idle */
       adjustRigRange: ((factor: number) => boolean) | null;
+      /** time-slider year and, up to BORDERS_UNTIL, that year's polities */
+      year: number;
+      polities: ActivePolity[] | null;
+      /** identity of the painted polity set — repaint only when it changes */
+      historyKey: string;
+      hoveredPolity: ActivePolity | null;
+      applyYear: ((year: number) => void) | null;
     }>({
       yaw: -0.4,
       pitch: 0.45,
@@ -397,6 +436,11 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       pendingIso: null,
       applyExternalSelection: null,
       adjustRigRange: null,
+      year,
+      polities: null,
+      historyKey: "",
+      hoveredPolity: null,
+      applyYear: null,
     });
 
     const startFlight = (
@@ -445,6 +489,12 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       if (w.applyExternalSelection) w.applyExternalSelection(iso);
       else w.pendingIso = iso; // scene not built yet; applied once ready
     }, [selectedCountryCode]);
+
+    useEffect(() => {
+      const w = world.current;
+      w.year = year;
+      w.applyYear?.(year); // before the scene is ready, the data load applies w.year
+    }, [year]);
 
     useEffect(() => {
       const container = containerRef.current;
@@ -596,11 +646,104 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       // focuses the globe). Repaints happen on state change only.
       const px = (lng: number) => ((lng + 180) / 360) * TEX_W;
       const py = (lat: number) => ((90 - lat) / 180) * TEX_H;
+
+      // --- historical mode: the year's polities are painted into an
+      // offscreen layer once per polity set; hover/selection only composite
+      // that layer and stroke outlines on top.
+      const polityCanvas = document.createElement("canvas");
+      polityCanvas.width = TEX_W;
+      polityCanvas.height = TEX_H;
+      const polityCtx = polityCanvas.getContext("2d")!;
+      const landCss = cssColor(tokenColor("--globe-land"));
+      const polityOutlineCss = cssColor(tokenColor("--globe-polity-outline"));
+      const focusCss = cssColor(tokenColor("--globe-focus"));
+      const ringsPath = (polygons: number[][][][]) => {
+        const path = new Path2D();
+        for (const polygon of polygons) {
+          for (const ring of polygon) {
+            ring.forEach(([lng, lat], i) => {
+              if (i === 0) path.moveTo(px(lng), py(lat));
+              else path.lineTo(px(lng), py(lat));
+            });
+            path.closePath();
+          }
+        }
+        return path;
+      };
+      const pathCache = new WeakMap<object, Path2D>();
+      const cachedPath = (key: object, polygons: number[][][][]) => {
+        let path = pathCache.get(key);
+        if (!path) {
+          path = ringsPath(polygons);
+          pathCache.set(key, path);
+        }
+        return path;
+      };
+      const countryPath = (c: IndexedCountry) => cachedPath(c, c.feature.polygons);
+      // keyed by shape: shapes persist across years of a bucket, polity groups don't
+      const fillPolity = (ctx: CanvasRenderingContext2D, pol: ActivePolity) => {
+        for (const sh of pol.shapes) ctx.fill(cachedPath(sh, sh.g), "evenodd");
+      };
+      const strokePolity = (ctx: CanvasRenderingContext2D, pol: ActivePolity) => {
+        for (const sh of pol.shapes) ctx.stroke(cachedPath(sh, sh.g));
+      };
+      let polityDirty = false; // painted in the frame loop, at most once a frame
+      const paintPolities = () => {
+        const sc = w.slotColors;
+        if (!sc || !w.indexed || !w.polities) return;
+        polityCtx.fillStyle = oceanCss;
+        polityCtx.fillRect(0, 0, TEX_W, TEX_H);
+        polityCtx.fillStyle = landCss;
+        for (const c of w.indexed) polityCtx.fill(countryPath(c), "evenodd");
+        for (const pol of w.polities) {
+          polityCtx.fillStyle = sc.polityHex[pol.slot];
+          fillPolity(polityCtx, pol);
+        }
+        polityCtx.strokeStyle = polityOutlineCss;
+        polityCtx.lineWidth = 1.5;
+        polityCtx.lineJoin = "round";
+        for (const pol of w.polities) strokePolity(polityCtx, pol);
+      };
+      const repaintHistorical = (sc: SlotColors, indexed: IndexedCountry[]) => {
+        landCtx.drawImage(polityCanvas, 0, 0);
+        const pol = w.hoveredPolity;
+        if (pol) {
+          landCtx.fillStyle = sc.polityHoverHex[pol.slot];
+          fillPolity(landCtx, pol);
+          // smaller polities painted above it (enclaves, vassals) stay visible
+          const [x0, y0, x1, y1] = pol.bbox;
+          for (const other of w.polities!.slice(w.polities!.indexOf(pol) + 1)) {
+            const [a0, b0, a1, b1] = other.bbox;
+            if (a0 > x1 || a1 < x0 || b0 > y1 || b1 < y0) continue;
+            landCtx.fillStyle = sc.polityHex[other.slot];
+            fillPolity(landCtx, other);
+          }
+          landCtx.strokeStyle = polityOutlineCss;
+          landCtx.lineWidth = 1.5;
+          strokePolity(landCtx, pol);
+        }
+        landCtx.strokeStyle = focusCss;
+        landCtx.lineJoin = "round";
+        if (w.hoveredFi !== null && w.hoveredFi !== w.selectedFi) {
+          landCtx.lineWidth = 2;
+          landCtx.stroke(countryPath(indexed[w.hoveredFi]));
+        }
+        if (w.selectedFi !== null) {
+          landCtx.lineWidth = 4;
+          landCtx.stroke(countryPath(indexed[w.selectedFi]));
+        }
+        landTexture.needsUpdate = true;
+      };
+
       const repaint = () => {
         const slots = w.slots;
         const sc = w.slotColors;
         const indexed = w.indexed;
         if (!slots || !sc || !indexed) return;
+        if (w.polities) {
+          repaintHistorical(sc, indexed);
+          return;
+        }
         landCtx.fillStyle = oceanCss;
         landCtx.fillRect(0, 0, TEX_W, TEX_H);
         indexed.forEach((country, fi) => {
@@ -782,10 +925,7 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       // --- picking
       const raycaster = new Raycaster();
       const pointer = new Vector2();
-      const pickCountry = (
-        event: PointerEvent
-      ): { country: IndexedCountry; fi: number; lat: number; lng: number } | null => {
-        if (!w.indexed) return null;
+      const pickLatLng = (event: PointerEvent): { lat: number; lng: number } | null => {
         const rect = renderer.domElement.getBoundingClientRect();
         pointer.set(
           ((event.clientX - rect.left) / rect.width) * 2 - 1,
@@ -797,6 +937,15 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
         const local = group.worldToLocal(hit.point.clone()).normalize();
         const lat = Math.asin(Math.min(1, Math.max(-1, local.y))) / DEG;
         const lng = Math.atan2(local.x, local.z) / DEG;
+        return { lat, lng };
+      };
+      const pickCountry = (
+        event: PointerEvent
+      ): { country: IndexedCountry; fi: number; lat: number; lng: number } | null => {
+        if (!w.indexed) return null;
+        const hit = pickLatLng(event);
+        if (!hit) return null;
+        const { lat, lng } = hit;
         const fi = countryIndexAt(lng, lat, w.indexed);
         if (fi < 0) return null;
         return { country: w.indexed[fi], fi, lat, lng };
@@ -811,12 +960,14 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       const activePointers = new Map<number, { x: number; y: number }>();
       let pinchDist = 0;
 
-      const setHover = (fi: number | null) => {
-        if (fi === w.hoveredFi) return;
+      const setHover = (fi: number | null, polity: ActivePolity | null = null) => {
+        if (fi === w.hoveredFi && polity === w.hoveredPolity) return;
+        if (polity !== w.hoveredPolity) setPolityTip(polity?.name ?? null);
         w.hoveredFi = fi;
+        w.hoveredPolity = polity;
         repaint();
         renderer.domElement.style.cursor = fi !== null ? "pointer" : "grab";
-        hoverHold = fi !== null ? 1 : 0;
+        hoverHold = fi !== null || polity !== null ? 1 : 0;
       };
 
       const onPointerDown = (event: PointerEvent) => {
@@ -872,7 +1023,19 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
           }
           return;
         }
-        setHover(pickCountry(event)?.fi ?? null);
+        if (!w.polities) {
+          setHover(pickCountry(event)?.fi ?? null);
+          return;
+        }
+        const hit = pickLatLng(event);
+        const fi = hit && w.indexed ? countryIndexAt(hit.lng, hit.lat, w.indexed) : -1;
+        const polity = hit ? polityAt(hit.lng, hit.lat, w.polities) : null;
+        const rect = container.getBoundingClientRect();
+        tipPos.current = { x: event.clientX - rect.left, y: event.clientY - rect.top };
+        if (tipRef.current) {
+          tipRef.current.style.transform = tipTransform(tipPos.current);
+        }
+        setHover(fi < 0 ? null : fi, polity);
       };
 
       const onPointerUp = (event: PointerEvent) => {
@@ -913,6 +1076,42 @@ export const DotGlobe = forwardRef<DotGlobeHandle, DotGlobeProps>(
       canvas.addEventListener("pointerleave", onPointerLeave);
       canvas.addEventListener("wheel", onWheel, { passive: false });
 
+      // --- time slider: swap between modern and historical borders
+      let borderLines: LineSegments | null = null;
+      let yearSeq = 0;
+      let appliedSeq = 0;
+      w.applyYear = (year: number) => {
+        const seq = ++yearSeq;
+        if (year > BORDERS_UNTIL) {
+          appliedSeq = seq;
+          if (!w.polities) return;
+          w.polities = null;
+          w.historyKey = "";
+          w.hoveredPolity = null;
+          setPolityTip(null);
+          if (borderLines) borderLines.visible = true;
+          repaint();
+          return;
+        }
+        Promise.all([shapesAt(year), loadPolityIndex()])
+          .then(([shapes, index]) => {
+            // an older year resolving late must not overwrite a newer one
+            if (disposed || seq < appliedSeq || !w.indexed) return;
+            appliedSeq = seq;
+            setPolityIndex(index);
+            const key = shapes.map((sh) => `${sh.p}:${sh.from}:${sh.to}`).join("|");
+            if (w.polities && key === w.historyKey) return;
+            w.historyKey = key;
+            w.polities = groupPolities(shapes, index);
+            w.hoveredPolity = null;
+            setPolityTip(null);
+            if (borderLines) borderLines.visible = false;
+            polityDirty = true;
+          })
+          // keep showing the last painted year; the next year change retries
+          .catch((err) => console.warn("historical borders unavailable:", err));
+      };
+
       // --- data load, then dots/borders
       loadCountries()
         .then((geo) => {
@@ -934,8 +1133,10 @@ repaint(); // initial land paint
             transparent: true,
             opacity: outline.alpha,
           });
-          group.add(new LineSegments(borderGeometry, borderMaterial));
+          borderLines = new LineSegments(borderGeometry, borderMaterial);
+          group.add(borderLines);
           disposables.push(borderGeometry, borderMaterial);
+          w.applyYear?.(w.year);
 
           setStatus("ready");
           // intro: settle in from a distance
@@ -961,6 +1162,11 @@ repaint(); // initial land paint
       let lastTime = performance.now();
       const renderFrame = (now: number) => {
         rafId = requestAnimationFrame(renderFrame);
+        if (polityDirty) {
+          polityDirty = false;
+          paintPolities();
+          repaint();
+        }
         const dt = Math.min(0.1, (now - lastTime) / 1000);
         lastTime = now;
 
@@ -1085,8 +1291,15 @@ repaint(); // initial land paint
         for (const d of disposables) d.dispose();
         renderer.dispose();
         canvas.remove();
+        // release the two 4096×2048 paint buffers now rather than at GC
+        landCanvas.width = landCanvas.height = 0;
+        polityCanvas.width = polityCanvas.height = 0;
         w.applyExternalSelection = null;
         w.adjustRigRange = null;
+        w.applyYear = null;
+        w.polities = null;
+        w.historyKey = "";
+        w.hoveredPolity = null;
         w.indexed = null;
         w.slots = null;
         w.slotColors = null;
@@ -1172,6 +1385,17 @@ repaint(); // initial land paint
                 <div className="landmark-tagline">{card.landmark.tagline}</div>
               </div>
             </div>
+          </div>
+        )}
+
+        {polityTip && (
+          <div
+            ref={tipRef}
+            aria-hidden="true"
+            className="pointer-events-none absolute left-0 top-0 z-20 whitespace-nowrap rounded-lg bg-[var(--surface-container)]/92 px-2.5 py-1 text-xs font-medium text-[var(--on-surface)] ring-1 ring-[var(--outline-variant)] shadow-[0_8px_24px_rgba(27,37,64,0.10)] backdrop-blur-md"
+            style={{ transform: tipTransform(tipPos.current) }}
+          >
+            {(polityIndex && Object.hasOwn(polityIndex, polityTip) && polityIndex[polityTip].l[lang]) || polityTip}
           </div>
         )}
 

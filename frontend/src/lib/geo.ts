@@ -35,7 +35,7 @@ function pointInRing(lng: number, lat: number, ring: number[][]): boolean {
   return inside;
 }
 
-function pointInPolygon(lng: number, lat: number, polygon: number[][][]): boolean {
+export function pointInPolygon(lng: number, lat: number, polygon: number[][][]): boolean {
   if (!pointInRing(lng, lat, polygon[0])) return false;
   for (let r = 1; r < polygon.length; r++) {
     if (pointInRing(lng, lat, polygon[r])) return false; // inside a hole
@@ -53,7 +53,7 @@ export interface IndexedCountry {
   centroid: [number, number];
 }
 
-function polygonBbox(polygon: number[][][]): [number, number, number, number] {
+export function polygonBbox(polygon: number[][][]): [number, number, number, number] {
   let minLng = Infinity, minLat = Infinity, maxLng = -Infinity, maxLat = -Infinity;
   for (const [x, y] of polygon[0]) {
     if (x < minLng) minLng = x;

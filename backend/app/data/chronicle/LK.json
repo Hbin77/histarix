@@ -1,0 +1,2002 @@
+{
+ "iso": "LK",
+ "eras": [
+  {
+   "from": -10000,
+   "to": -900,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Prehistoric Sri Lanka (Balangoda culture)",
+    "ko": "선사 시대 스리랑카 (발랑고다 문화)",
+    "zh": "斯里兰卡史前时代（巴兰戈达文化）",
+    "ja": "先史時代のスリランカ（バランゴダ文化）"
+   },
+   "summary": {
+    "en": "Sri Lanka was inhabited by hunter-gatherers for tens of thousands of years; cave sites such as Fa-Hien Lena and Batadombalena contain some of South Asia's earliest evidence of modern humans and microlithic tools. The people of this long Balangoda culture lived from forest hunting, gathering and fishing. The Vedda people are often regarded as their descendants.",
+    "ko": "스리랑카에는 수만 년 동안 수렵채집민이 살았으며, 파히엔 레나와 바타돔발레나 같은 동굴 유적은 남아시아에서 가장 이른 현생 인류와 세석기의 증거를 담고 있다. 이 오랜 발랑고다 문화의 사람들은 숲에서의 사냥·채집·고기잡이로 살았다. 베다족은 흔히 그들의 후예로 여겨진다.",
+    "zh": "斯里兰卡数万年来一直有狩猎采集者居住；法显洞和巴塔多姆巴洞等洞穴遗址保存着南亚最早的现代人类和细石器证据之一。这一漫长的巴兰戈达文化的人们以森林狩猎、采集和捕鱼为生。维达人常被视为他们的后裔。",
+    "ja": "スリランカには数万年にわたり狩猟採集民が住んでおり、ファーヒエン洞窟やバタドンバ洞窟などの遺跡には南アジア最古級の現生人類と細石器の証拠が残る。この長いバランゴダ文化の人々は森での狩猟・採集・漁労で暮らした。ヴェッダ人はしばしば彼らの子孫とみなされる。"
+   }
+  },
+  {
+   "from": -900,
+   "to": -377,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Iron Age and first settlements",
+    "ko": "초기 철기 시대와 최초의 정착지",
+    "zh": "早期铁器时代与最早的聚落",
+    "ja": "初期鉄器時代と最初の定住地"
+   },
+   "summary": {
+    "en": "From around 900 BC iron, rice farming, horses and pottery appear at Anuradhapura and other sites, along with megalithic burials. According to the Mahavamsa chronicle, Prince Vijaya and his followers from northern India founded the Sinhalese people around 543 BC, a traditional account that historians treat as legend. Indo-Aryan speaking settlers and local populations gradually formed early chiefdoms in the dry zone.",
+    "ko": "기원전 900년경부터 아누라다푸라 등지에서 철·벼농사·말·토기가 거석 무덤과 함께 나타난다. 연대기 『마하밤사』에 따르면 북인도에서 온 비자야 왕자와 추종자들이 기원전 543년경 싱할라족을 열었다고 하지만, 역사가들은 이를 전설로 본다. 인도아리아어를 쓰는 정착민과 토착민이 점차 건조 지대에 초기 수장국들을 이루었다.",
+    "zh": "约公元前900年起，阿努拉德普勒等地出现了铁器、稻作、马匹和陶器，以及巨石墓葬。据编年史《大史》记载，来自北印度的维阇耶王子及其追随者约于公元前543年开创了僧伽罗民族，史学家视之为传说。说印度-雅利安语的移民与当地居民逐渐在干燥区形成早期酋邦。",
+    "ja": "紀元前900年頃から、アヌラーダプラなどで鉄、稲作、馬、土器が巨石墓とともに現れる。年代記『マハーワンサ』によれば、北インドから来たヴィジャヤ王子とその従者が紀元前543年頃にシンハラ人の祖となったというが、歴史家はこれを伝説とみなす。インド・アーリア系言語を話す移住者と在地の人々が、次第に乾燥地帯に初期の首長国を形成した。"
+   }
+  },
+  {
+   "from": -377,
+   "to": 1017,
+   "kind": "state",
+   "qid": "Q1965597",
+   "polity": "Anurādhapura",
+   "name": {
+    "en": "Anuradhapura Kingdom",
+    "ko": "아누라다푸라 왕국",
+    "zh": "阿努拉德普勒王国",
+    "ja": "アヌラーダプラ王国"
+   },
+   "summary": {
+    "en": "For over 1,300 years Anuradhapura was the capital of Sinhalese kings, traditionally from the 4th century BC. Theravada Buddhism, introduced in the 3rd century BC, shaped its culture, and kings built giant stupas, monasteries and a sophisticated network of irrigation reservoirs (wewas). The kingdom traded across the Indian Ocean but faced repeated invasions from South India and ended with the Chola conquest of 1017.",
+    "ko": "아누라다푸라는 전승상 기원전 4세기부터 1,300년 넘게 싱할라 왕들의 수도였다. 기원전 3세기에 전해진 상좌부 불교가 문화를 형성했으며, 왕들은 거대한 스투파와 사원, 정교한 관개 저수지(웨와) 망을 건설했다. 왕국은 인도양 전역과 교역했으나 남인도의 침공을 거듭 받았고, 1017년 촐라의 정복으로 끝났다.",
+    "zh": "按照传统说法，自公元前4世纪起，阿努拉德普勒作为僧伽罗国王的都城长达1300余年。公元前3世纪传入的上座部佛教塑造了其文化，历代国王修建了巨大的佛塔、寺院和精密的灌溉水库网络。王国与印度洋各地通商，但屡遭南印度入侵，最终于1017年被朱罗王朝征服而告终。",
+    "ja": "伝承によれば紀元前4世紀から1300年以上にわたり、アヌラーダプラはシンハラ王の都であった。紀元前3世紀に伝来した上座部仏教がその文化を形づくり、王たちは巨大なストゥーパ、僧院、精緻な灌漑貯水池（ウェワ）網を築いた。王国はインド洋全域と交易したが南インドからの侵攻を繰り返し受け、1017年のチョーラ朝の征服で終わった。"
+   }
+  },
+  {
+   "from": 993,
+   "to": 1070,
+   "kind": "state",
+   "qid": "Q6806806",
+   "polity": "Chola Empire",
+   "name": {
+    "en": "Chola rule",
+    "ko": "촐라 지배기",
+    "zh": "朱罗王朝统治时期",
+    "ja": "チョーラ朝支配期"
+   },
+   "summary": {
+    "en": "The South Indian Chola Empire under Rajaraja I conquered northern Sri Lanka around 993, and his son Rajendra I captured King Mahinda V in 1017. The Cholas governed the island's north from Polonnaruwa as a province, building Shaiva temples. Sinhalese resistance based in the southern region of Ruhuna eventually expelled them in 1070.",
+    "ko": "남인도의 촐라 제국은 라자라자 1세 때인 993년경 스리랑카 북부를 정복했고, 그의 아들 라젠드라 1세는 1017년 마힌다 5세 왕을 사로잡았다. 촐라는 폴론나루와에서 섬 북부를 하나의 속주로 다스리며 시바교 사원을 세웠다. 남부 루후나 지방을 근거로 한 싱할라의 저항 세력이 1070년 마침내 그들을 몰아냈다.",
+    "zh": "约993年，南印度朱罗帝国在罗阇罗阇一世统治下征服斯里兰卡北部，其子拉金德拉一世于1017年俘虏国王摩哂陀五世。朱罗人以波隆纳鲁瓦为中心，将岛北部作为一个行省治理，并修建湿婆教神庙。以南部卢胡纳地区为根据地的僧伽罗抵抗力量最终于1070年将其驱逐。",
+    "ja": "南インドのチョーラ朝はラージャラージャ1世の下で993年頃にスリランカ北部を征服し、その子ラージェーンドラ1世は1017年にマヒンダ5世を捕らえた。チョーラ朝はポロンナルワから島の北部を一州として統治し、シヴァ派寺院を建てた。南部ルフナを拠点とするシンハラの抵抗勢力が1070年に彼らを追い出した。"
+   }
+  },
+  {
+   "from": 1070,
+   "to": 1236,
+   "kind": "state",
+   "qid": "Q3167772",
+   "polity": "Kingdom of Polonnaruwa",
+   "name": {
+    "en": "Kingdom of Polonnaruwa",
+    "ko": "폴론나루와 왕국",
+    "zh": "波隆纳鲁瓦王国",
+    "ja": "ポロンナルワ王国"
+   },
+   "summary": {
+    "en": "After Vijayabahu I drove out the Cholas, Polonnaruwa became the royal capital. Under Parakramabahu I (1153–1186) the kingdom reached its height with vast reservoirs such as the Parakrama Samudra, a reformed Buddhist order and overseas campaigns; Nissanka Malla added further monuments. Dynastic quarrels and the invasion of Kalinga Magha in 1215 brought the kingdom down.",
+    "ko": "비자야바후 1세가 촐라를 몰아낸 뒤 폴론나루와가 왕도가 되었다. 파라크라마바후 1세(1153~1186) 때 왕국은 파라크라마 사무드라 같은 거대한 저수지, 개혁된 승가, 해외 원정으로 전성기를 맞았고, 니산카 말라가 더 많은 기념물을 세웠다. 왕위 다툼과 1215년 칼링가 마가의 침공으로 왕국은 무너졌다.",
+    "zh": "维阇耶巴忽一世驱逐朱罗人后，波隆纳鲁瓦成为王都。在波罗迦罗摩巴忽一世（1153—1186年）治下，王国臻于鼎盛，修建了波罗迦罗摩海等巨型水库，整顿僧团并远征海外；尼散迦·摩罗又增建了许多建筑。王位纷争以及1215年羯陵伽人摩伽的入侵导致王国覆灭。",
+    "ja": "ヴィジャヤバーフ1世がチョーラ朝を追い出した後、ポロンナルワが王都となった。パラークラマバーフ1世（1153〜1186年）の下で王国はパラークラマ・サムドラなどの巨大貯水池、改革された僧団、海外遠征によって最盛期を迎え、ニッサンカ・マッラがさらに建造物を加えた。王位争いと1215年のカリンガ・マーガの侵攻により王国は崩壊した。"
+   }
+  },
+  {
+   "from": 1215,
+   "to": 1619,
+   "kind": "state",
+   "qid": "Q1311219",
+   "polity": "Jaffna kingdom",
+   "name": {
+    "en": "Jaffna Kingdom",
+    "ko": "자프나 왕국",
+    "zh": "贾夫纳王国",
+    "ja": "ジャフナ王国"
+   },
+   "summary": {
+    "en": "A Tamil kingdom centred on the Jaffna peninsula emerged in the 13th century; its origins are debated, but from the late 13th century it was ruled by the Aryacakravarti dynasty. At its height it controlled the north and the pearl fisheries and even collected tribute from the south. It was briefly conquered by Kotte in the 15th century and annexed by the Portuguese in 1619.",
+    "ko": "자프나 반도를 중심으로 한 타밀 왕국이 13세기에 등장했다. 기원에 대해서는 논쟁이 있지만 13세기 말부터 아리야차크라바르티 왕조가 다스렸다. 전성기에는 북부와 진주 어장을 장악하고 남부로부터 공물을 받기도 했다. 15세기에 잠시 코테에 정복되었으며 1619년 포르투갈에 병합되었다.",
+    "zh": "以贾夫纳半岛为中心的泰米尔王国兴起于13世纪；其起源存在争议，但自13世纪末起由阿利耶·查克拉瓦蒂王朝统治。鼎盛时期，它控制北部和珍珠渔场，甚至向南方收取贡赋。15世纪一度被科特王国征服，1619年被葡萄牙吞并。",
+    "ja": "ジャフナ半島を中心とするタミル人の王国が13世紀に現れた。起源には議論があるが、13世紀末からはアーリヤチャクラヴァルティ朝が支配した。最盛期には北部と真珠漁場を支配し、南部から貢納を取ることもあった。15世紀に一時コーッテに征服され、1619年にポルトガルに併合された。"
+   }
+  },
+  {
+   "from": 1232,
+   "to": 1345,
+   "kind": "state",
+   "qid": "Q3136869",
+   "polity": "Kingdom of Dambadeniya",
+   "name": {
+    "en": "Dambadeniya period",
+    "ko": "담바데니야 시대",
+    "zh": "丹巴德尼亚时期",
+    "ja": "ダンバデニヤ時代"
+   },
+   "summary": {
+    "en": "After the fall of Polonnaruwa, Sinhalese kings withdrew to the more defensible south-west, ruling successively from Dambadeniya, Yapahuwa and Kurunegala. Parakramabahu II (1236–1270) restored Buddhist institutions and literature flourished, with works such as the Pujavaliya. The drift of population and power away from the old dry-zone irrigation civilisation continued.",
+    "ko": "폴론나루와 몰락 후 싱할라 왕들은 방어에 유리한 남서부로 물러나 담바데니야·야파후와·쿠루네갈라에서 차례로 통치했다. 파라크라마바후 2세(1236~1270)는 불교 제도를 복원했고, 『푸자발리야』 같은 작품과 함께 문학이 꽃피었다. 옛 건조 지대 관개 문명에서 인구와 권력이 이탈하는 흐름은 계속되었다.",
+    "zh": "波隆纳鲁瓦陷落后，僧伽罗诸王退往更易防守的西南部，先后以丹巴德尼亚、雅帕胡瓦和库鲁内格勒为都。波罗迦罗摩巴忽二世（1236—1270年）重整佛教制度，《供养史》等作品使文学繁荣。人口和权力继续从古老的干燥区灌溉文明向外转移。",
+    "ja": "ポロンナルワの陥落後、シンハラの王たちは防衛に適した南西部へ退き、ダンバデニヤ、ヤーパフワ、クルネーガラから順に統治した。パラークラマバーフ2世（1236〜1270年）は仏教制度を復興し、『プージャーワリヤ』などの作品とともに文学が栄えた。人口と権力が旧来の乾燥地帯の灌漑文明から離れる流れは続いた。"
+   }
+  },
+  {
+   "from": 1341,
+   "to": 1597,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Kingdoms of Gampola and Kotte",
+    "ko": "감폴라·코테 왕국",
+    "zh": "甘波罗与科特王国",
+    "ja": "ガンポラ王国とコーッテ王国"
+   },
+   "summary": {
+    "en": "The Sinhalese capital moved to Gampola in 1341 and then to Kotte near Colombo, which Parakramabahu VI (1412–1467) made the centre of a reunited island, briefly including Jaffna. Kotte prospered from the cinnamon trade and a flowering of Sinhala poetry. In 1521 it split into three kingdoms, and its last king Dharmapala, a Catholic convert, bequeathed it to Portugal.",
+    "ko": "싱할라의 수도는 1341년 감폴라로, 이어 콜롬보 근처의 코테로 옮겨졌으며, 파라크라마바후 6세(1412~1467)는 코테를 한때 자프나까지 포함한 재통일된 섬의 중심으로 삼았다. 코테는 계피 무역과 싱할라 시문학의 개화로 번영했다. 1521년 세 왕국으로 갈라졌고, 가톨릭으로 개종한 마지막 왕 다르마팔라는 왕국을 포르투갈에 물려주었다.",
+    "zh": "僧伽罗都城于1341年迁至甘波罗，后又迁至科伦坡附近的科特；波罗迦罗摩巴忽六世（1412—1467年）以科特为中心重新统一全岛，一度包括贾夫纳。科特因肉桂贸易和僧伽罗语诗歌的繁荣而兴盛。1521年王国一分为三，皈依天主教的末代国王达摩波罗将王国遗赠给葡萄牙。",
+    "ja": "シンハラの都は1341年にガンポラへ、続いてコロンボ近郊のコーッテへ移り、パラークラマバーフ6世（1412〜1467年）はコーッテを、一時ジャフナも含む再統一された島の中心とした。コーッテはシナモン交易とシンハラ詩文の開花で繁栄した。1521年に三王国に分裂し、カトリックに改宗した最後の王ダルマパーラは王国をポルトガルに遺贈した。"
+   }
+  },
+  {
+   "from": 1469,
+   "to": 1815,
+   "kind": "state",
+   "qid": "Q1530762",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Kandy",
+    "ko": "캔디 왕국",
+    "zh": "康提王国",
+    "ja": "キャンディ王国"
+   },
+   "summary": {
+    "en": "Founded in the central highlands in the late 15th century, the Kingdom of Kandy became the last independent Sinhalese kingdom, guardian of the Sacred Tooth Relic. Protected by mountains and forests, it resisted the Portuguese, played the Dutch against them, and fought the Dutch in turn. From 1739 it was ruled by kings of the South Indian Nayak dynasty, until British forces, aided by discontented Kandyan nobles, took it in 1815.",
+    "ko": "15세기 말 중앙 고원에 세워진 캔디 왕국은 불치(佛齒)를 수호한 마지막 독립 싱할라 왕국이 되었다. 산과 숲에 보호된 캔디는 포르투갈에 저항했고, 네덜란드를 끌어들여 포르투갈에 맞섰다가 다시 네덜란드와 싸웠다. 1739년부터 남인도 나야크 왕조 출신 왕들이 다스렸으며, 1815년 불만을 품은 캔디 귀족들의 도움을 받은 영국군에게 넘어갔다.",
+    "zh": "康提王国于15世纪末建立于中部高地，成为最后一个独立的僧伽罗王国和佛牙舍利的守护者。凭借山林屏障，它抵抗葡萄牙人，引荷兰人对付葡萄牙，后又与荷兰人交战。自1739年起由南印度纳亚克王朝出身的国王统治，直到1815年英军在心怀不满的康提贵族协助下将其攻占。",
+    "ja": "15世紀末に中央高地に建てられたキャンディ王国は、仏歯を守る最後の独立シンハラ王国となった。山と森に守られ、ポルトガルに抵抗し、オランダを引き入れてポルトガルに対抗したのち、今度はオランダと戦った。1739年からは南インドのナーヤカ朝出身の王が統治し、1815年、不満を抱くキャンディの貴族の助けを得た英国軍に征服された。"
+   }
+  },
+  {
+   "from": 1505,
+   "to": 1658,
+   "kind": "colonial",
+   "qid": "Q1709007",
+   "polity": "Portuguese Ceylon",
+   "name": {
+    "en": "Portuguese Ceylon",
+    "ko": "포르투갈령 실론",
+    "zh": "葡属锡兰",
+    "ja": "ポルトガル領セイロン"
+   },
+   "summary": {
+    "en": "The Portuguese arrived in 1505, built a fort at Colombo and became entangled in the rivalries of Kotte, Sitawaka and Kandy. They inherited Kotte in 1597 and annexed Jaffna in 1619, controlling the coastal lowlands and the cinnamon trade. Their rule brought Catholic missions, Portuguese surnames and words, and long wars with Kandy, until the Dutch expelled them by 1658.",
+    "ko": "포르투갈인은 1505년 도착해 콜롬보에 요새를 세우고 코테·시타와카·캔디의 경쟁에 얽혀 들었다. 그들은 1597년 코테를 상속하고 1619년 자프나를 병합해 해안 저지대와 계피 무역을 장악했다. 그들의 지배는 가톨릭 선교, 포르투갈식 성과 어휘, 캔디와의 오랜 전쟁을 남겼으며, 1658년까지 네덜란드에 의해 축출되었다.",
+    "zh": "葡萄牙人于1505年到达，在科伦坡修建要塞，并卷入科特、悉多伐迦和康提之间的争斗。他们于1597年继承科特，1619年吞并贾夫纳，控制了沿海低地和肉桂贸易。其统治带来了天主教传教、葡萄牙姓氏和词汇，以及与康提的长期战争，直到1658年被荷兰人驱逐。",
+    "ja": "ポルトガル人は1505年に到来し、コロンボに砦を築いて、コーッテ、シーターワカ、キャンディの抗争に巻き込まれていった。1597年にコーッテを相続し、1619年にジャフナを併合して沿岸低地とシナモン交易を支配した。その支配はカトリックの布教、ポルトガル風の姓や語彙、キャンディとの長い戦争をもたらし、1658年までにオランダに駆逐された。"
+   }
+  },
+  {
+   "from": 1658,
+   "to": 1796,
+   "kind": "colonial",
+   "qid": "Q1841483",
+   "polity": "Dutch Ceylon",
+   "name": {
+    "en": "Dutch Ceylon",
+    "ko": "네덜란드령 실론",
+    "zh": "荷属锡兰",
+    "ja": "オランダ領セイロン"
+   },
+   "summary": {
+    "en": "Allied at first with Kandy, the Dutch East India Company (VOC) took the Portuguese forts and ruled the maritime provinces from Colombo, Galle and Jaffna. The VOC ran a monopoly on cinnamon, built canals and fortifications such as Galle Fort, and introduced Roman-Dutch law, which still forms the basis of Sri Lankan civil law. Its descendants include the Burgher community.",
+    "ko": "처음에는 캔디와 동맹했던 네덜란드 동인도회사(VOC)는 포르투갈의 요새들을 빼앗고 콜롬보·골·자프나에서 해안 지방을 다스렸다. VOC는 계피를 독점하고 운하와 골 요새 같은 방어 시설을 건설했으며, 오늘날까지 스리랑카 민법의 토대인 로마-네덜란드법을 들여왔다. 그 후예로는 버거 공동체가 있다.",
+    "zh": "荷兰东印度公司起初与康提结盟，夺取了葡萄牙人的要塞，并以科伦坡、加勒和贾夫纳为中心统治沿海各省。该公司垄断肉桂贸易，修建运河和加勒古堡等防御工事，并引入罗马-荷兰法，至今仍是斯里兰卡民法的基础。其后裔包括伯格人群体。",
+    "ja": "当初キャンディと同盟したオランダ東インド会社（VOC）はポルトガルの要塞を奪い、コロンボ、ゴール、ジャフナから沿岸州を統治した。VOCはシナモンを独占し、運河やゴール要塞などの防備を築き、今もスリランカ民法の基礎であるローマ・オランダ法を導入した。その子孫にはバーガー人の共同体がいる。"
+   }
+  },
+  {
+   "from": 1796,
+   "to": 1948,
+   "kind": "colonial",
+   "qid": "Q918153",
+   "polity": "British Ceylon",
+   "name": {
+    "en": "British Ceylon",
+    "ko": "영국령 실론",
+    "zh": "英属锡兰",
+    "ja": "イギリス領セイロン"
+   },
+   "summary": {
+    "en": "Britain seized the Dutch possessions in 1796, made Ceylon a Crown colony in 1802 and took Kandy in 1815, uniting the whole island under one administration. Coffee and then tea plantations, worked largely by Tamil labourers brought from South India, transformed the highland economy, while roads, railways and English education created a new elite. Constitutional reforms, including universal suffrage in 1931, led to independence by negotiation in 1948.",
+    "ko": "영국은 1796년 네덜란드 영토를 장악하고 1802년 실론을 직할 식민지로 삼았으며, 1815년 캔디를 차지해 섬 전체를 하나의 행정 아래 통합했다. 남인도에서 데려온 타밀 노동자들이 주로 일한 커피·차 플랜테이션이 고원 경제를 바꾸었고, 도로·철도·영어 교육은 새로운 엘리트를 낳았다. 1931년 보통선거 도입 등 헌정 개혁을 거쳐 1948년 협상을 통한 독립에 이르렀다.",
+    "zh": "英国于1796年夺取荷兰属地，1802年将锡兰设为直辖殖民地，1815年攻占康提，使全岛首次归于统一管理。主要由南印度招募来的泰米尔劳工经营的咖啡和茶叶种植园改变了高地经济，道路、铁路和英语教育则造就了新的精英阶层。经过包括1931年实行普选在内的宪政改革，锡兰于1948年通过谈判获得独立。",
+    "ja": "英国は1796年にオランダ領を奪い、1802年にセイロンを直轄植民地とし、1815年にキャンディを得て島全体を一つの行政下に統合した。主に南インドから連れて来られたタミル人労働者が働くコーヒー、次いで紅茶のプランテーションが高地の経済を変え、道路・鉄道・英語教育が新たなエリートを生んだ。1931年の普通選挙導入などの憲政改革を経て、1948年に交渉による独立を達成した。"
+   }
+  },
+  {
+   "from": 1948,
+   "to": 1972,
+   "kind": "state",
+   "qid": "Q2670092",
+   "polity": null,
+   "name": {
+    "en": "Dominion of Ceylon",
+    "ko": "실론 자치령",
+    "zh": "锡兰自治领",
+    "ja": "セイロン自治領"
+   },
+   "summary": {
+    "en": "Ceylon became independent on 4 February 1948 as a dominion within the Commonwealth, with a parliamentary system led first by D. S. Senanayake's United National Party. Politics soon turned on language and identity: the Sinhala Only Act of 1956 alienated Tamils, and in 1960 Sirimavo Bandaranaike became the world's first female prime minister. The dominion ended with the republican constitution of 1972.",
+    "ko": "실론은 1948년 2월 4일 영연방 내 자치령으로 독립했으며, 처음에는 D. S. 세나나야케의 통일국민당이 이끄는 의회제였다. 정치는 곧 언어와 정체성을 둘러싸고 전개되어, 1956년 '싱할라어 단일 공용어법'은 타밀인을 소외시켰고 1960년 시리마보 반다라나이케는 세계 최초의 여성 총리가 되었다. 자치령은 1972년 공화국 헌법으로 막을 내렸다.",
+    "zh": "锡兰于1948年2月4日作为英联邦内的自治领独立，实行议会制，最初由D·S·森纳那亚克领导的统一国民党执政。政治很快围绕语言和身份认同展开：1956年的《僧伽罗语唯一法》疏远了泰米尔人，1960年西丽玛沃·班达拉奈克成为世界上第一位女总理。1972年共和宪法颁布后，自治领宣告结束。",
+    "ja": "セイロンは1948年2月4日に英連邦内の自治領として独立し、当初はD・S・セーナーナーヤカの統一国民党が率いる議院内閣制であった。政治はまもなく言語とアイデンティティをめぐって展開し、1956年のシンハラ語公用語法はタミル人を疎外し、1960年にはシリマヴォ・バンダラナイケが世界初の女性首相となった。自治領は1972年の共和制憲法で終わった。"
+   }
+  },
+  {
+   "from": 1972,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q854",
+   "polity": "Sri Lanka",
+   "name": {
+    "en": "Democratic Socialist Republic of Sri Lanka",
+    "ko": "스리랑카 민주사회주의 공화국",
+    "zh": "斯里兰卡民主社会主义共和国",
+    "ja": "スリランカ民主社会主義共和国"
+   },
+   "summary": {
+    "en": "In 1972 Ceylon became the Republic of Sri Lanka, and the 1978 constitution introduced a powerful executive presidency and an open-market economy. The country endured a 26-year civil war with the LTTE and two JVP insurrections, followed after 2009 by debates over reconciliation and accountability. A severe economic crisis in 2022 brought mass protests, a sovereign default and political change.",
+    "ko": "1972년 실론은 스리랑카 공화국이 되었고, 1978년 헌법은 강력한 집행 대통령제와 시장 개방 경제를 도입했다. 나라는 LTTE와의 26년 내전과 두 차례의 JVP 봉기를 겪었으며, 2009년 이후에는 화해와 책임 규명을 둘러싼 논쟁이 이어졌다. 2022년의 심각한 경제 위기는 대규모 시위, 국가 부도, 정치 변화를 불러왔다.",
+    "zh": "1972年锡兰成为斯里兰卡共和国，1978年宪法确立了强有力的执行总统制和开放的市场经济。国家经历了与猛虎组织长达26年的内战和两次人民解放阵线起义，2009年后又围绕和解与问责展开争论。2022年的严重经济危机引发大规模抗议、主权债务违约和政治变局。",
+    "ja": "1972年にセイロンはスリランカ共和国となり、1978年憲法は強力な執行大統領制と市場開放経済を導入した。国はLTTEとの26年に及ぶ内戦と2度のJVP蜂起を経験し、2009年以降は和解と責任追及をめぐる議論が続いた。2022年の深刻な経済危機は大規模な抗議、債務不履行、政治的変化をもたらした。"
+   }
+  },
+  {
+   "from": 1983,
+   "to": 2009,
+   "kind": "period",
+   "qid": "Q213394",
+   "polity": null,
+   "name": {
+    "en": "Sri Lankan Civil War",
+    "ko": "스리랑카 내전",
+    "zh": "斯里兰卡内战",
+    "ja": "スリランカ内戦"
+   },
+   "summary": {
+    "en": "From 1983 to 2009 the government fought the Liberation Tigers of Tamil Eelam (LTTE), who sought an independent Tamil state in the north and east and at times ran a de facto administration there. The war, interrupted by Indian intervention and ceasefires, involved suicide bombings, massacres and displacement of civilians on all sides. It ended with the LTTE's military defeat in May 2009; the number of deaths, especially in the final months, remains disputed.",
+    "ko": "1983년부터 2009년까지 정부는 북부와 동부에 독립 타밀 국가를 세우려 하며 때로 그곳에 사실상의 행정을 운영한 타밀 엘람 해방 호랑이(LTTE)와 싸웠다. 인도의 개입과 휴전으로 중단되기도 한 이 전쟁에서는 자살 폭탄, 학살, 민간인 피란이 모든 측에서 일어났다. 전쟁은 2009년 5월 LTTE의 군사적 패배로 끝났으며, 특히 마지막 몇 달간의 사망자 수는 여전히 논란이다.",
+    "zh": "1983年至2009年，政府与谋求在北部和东部建立独立泰米尔国家、并一度在当地实行事实上行政管理的泰米尔伊拉姆猛虎解放组织（猛虎组织）作战。这场战争曾因印度干预和停火而中断，各方都涉及自杀式爆炸、屠杀和平民流离失所。战争以2009年5月猛虎组织的军事失败告终，死亡人数，尤其是最后数月的死亡人数，至今仍有争议。",
+    "ja": "1983年から2009年まで、政府は北部と東部に独立したタミル国家を求め、時にそこで事実上の行政を行ったタミル・イーラム解放のトラ（LTTE）と戦った。インドの介入や停戦で中断しつつ続いたこの戦争では、あらゆる側による自爆攻撃、虐殺、民間人の避難が起きた。戦争は2009年5月のLTTEの軍事的敗北で終わったが、特に最後の数か月の死者数は今も争われている。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -900,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Iron Age settlement at Anuradhapura",
+    "ko": "아누라다푸라의 철기 시대 정착지",
+    "zh": "阿努拉德普勒的铁器时代聚落",
+    "ja": "アヌラーダプラの鉄器時代集落"
+   },
+   "description": {
+    "en": "Excavations in the citadel of Anuradhapura show that a settlement using iron, rice cultivation and domesticated horses and cattle existed there from around 900 BC. It grew over the following centuries into one of the largest towns in South Asia, long before the chronicles' accounts of its founding.",
+    "ko": "아누라다푸라 성채 발굴 결과 기원전 900년경부터 철기와 벼농사, 말과 소의 사육을 하던 정착지가 있었음이 밝혀졌다. 이 정착지는 이후 수 세기에 걸쳐 남아시아 최대급 도시 가운데 하나로 성장했으며, 이는 연대기가 전하는 건설 이야기보다 훨씬 앞선다.",
+    "zh": "对阿努拉德普勒城堡的发掘表明，约公元前900年起那里已存在使用铁器、种植水稻并饲养马和牛的聚落。此后数百年间，它发展为南亚最大的城镇之一，远早于编年史关于其建城的记载。",
+    "ja": "アヌラーダプラの城塞の発掘により、紀元前900年頃から鉄器を使い、稲作を行い、馬や牛を飼う集落があったことが分かっている。それは以後数世紀で南アジア最大級の町へと成長し、年代記が伝える建都の話よりはるかに古い。"
+   }
+  },
+  {
+   "year": -543,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Arrival of Prince Vijaya (tradition)",
+    "ko": "비자야 왕자의 도래 (전승)",
+    "zh": "维阇耶王子登岛（传说）",
+    "ja": "ヴィジャヤ王子の渡来（伝承）"
+   },
+   "description": {
+    "en": "According to the Mahavamsa, Prince Vijaya, exiled from northern India, landed on the island with 700 followers in 543 BC, the same day as the Buddha's passing, and founded the Sinhalese kingdom. Historians regard the story as a foundation legend, though it reflects the arrival of Indo-Aryan speaking migrants from northern India.",
+    "ko": "『마하밤사』에 따르면 북인도에서 추방된 비자야 왕자는 붓다가 입멸한 바로 그날인 기원전 543년 700명의 추종자와 함께 섬에 상륙해 싱할라 왕국을 세웠다. 역사가들은 이를 건국 전설로 보지만, 북인도에서 인도아리아어 사용 이주민이 들어온 사실을 반영한 것으로 여긴다.",
+    "zh": "据《大史》记载，被逐出北印度的维阇耶王子于公元前543年、即佛陀涅槃当天，率700名随从登岛，建立僧伽罗王国。史学家视之为立国传说，但认为它反映了说印度-雅利安语的移民从北印度迁来的事实。",
+    "ja": "『マハーワンサ』によれば、北インドを追放されたヴィジャヤ王子は、仏陀が入滅したその日である紀元前543年に700人の従者とともに島に上陸し、シンハラ王国を建てた。歴史家はこれを建国伝説とみなすが、北インドからインド・アーリア系言語を話す移住者が渡来した事実を反映していると考える。"
+   }
+  },
+  {
+   "year": -377,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Anuradhapura becomes the capital",
+    "ko": "아누라다푸라, 수도가 되다",
+    "zh": "阿努拉德普勒成为都城",
+    "ja": "アヌラーダプラが都となる"
+   },
+   "description": {
+    "en": "According to the chronicles, King Pandukabhaya made Anuradhapura his capital around 377 BC, laying out the city with reservoirs, cemeteries and quarters for different communities. It remained the centre of Sinhalese civilisation for over 1,300 years and is now a UNESCO World Heritage Site.",
+    "ko": "연대기에 따르면 판두카바야 왕은 기원전 377년경 아누라다푸라를 수도로 삼고 저수지·묘지·여러 공동체의 거주 구역을 갖춘 도시를 조성했다. 이곳은 1,300년 넘게 싱할라 문명의 중심이었으며 지금은 유네스코 세계유산이다.",
+    "zh": "据编年史记载，般度迦婆耶王约于公元前377年定都阿努拉德普勒，规划了水库、墓地和不同群体的居住区。此后1300余年，这里一直是僧伽罗文明的中心，现为联合国教科文组织世界遗产。",
+    "ja": "年代記によれば、パンドゥカーバヤ王は紀元前377年頃にアヌラーダプラを都とし、貯水池、墓地、さまざまな共同体の居住区を備えた都市を整えた。ここは1300年以上にわたりシンハラ文明の中心であり、現在はユネスコ世界遺産である。"
+   }
+  },
+  {
+   "year": -247,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Buddhism comes to the island",
+    "ko": "불교의 전래",
+    "zh": "佛教传入",
+    "ja": "仏教の伝来"
+   },
+   "description": {
+    "en": "According to tradition, around 247 BC Mahinda, a monk and son of the Mauryan emperor Ashoka, met King Devanampiya Tissa at Mihintale and converted him to Buddhism. His sister Sanghamitta later brought a sapling of the Bodhi tree, planted at Anuradhapura as the Sri Maha Bodhi. Theravada Buddhism became the foundation of Sinhalese culture and remains central to Sri Lankan identity.",
+    "ko": "전승에 따르면 기원전 247년경 마우리아 제국 아소카 황제의 아들인 승려 마힌다가 미힌탈레에서 데바남피야 티사 왕을 만나 불교로 개종시켰다. 그의 누이 상가미타는 이후 보리수 묘목을 가져왔고, 이는 아누라다푸라에 스리 마하 보디로 심어졌다. 상좌부 불교는 싱할라 문화의 토대가 되었고 지금도 스리랑카 정체성의 중심이다.",
+    "zh": "据传统说法，约公元前247年，孔雀帝国阿育王之子、比丘摩哂陀在弥欣多列会见天爱帝须王，使其皈依佛教。其妹僧伽蜜多随后带来菩提树枝苗，种植于阿努拉德普勒，即今日的圣菩提树。上座部佛教成为僧伽罗文化的基础，至今仍是斯里兰卡认同的核心。",
+    "ja": "伝承によれば、紀元前247年頃、マウリヤ朝アショーカ王の子である僧マヒンダがミヒンタレーでデーワーナンピヤ・ティッサ王に会い、仏教に改宗させた。妹のサンガミッターは後に菩提樹の苗木をもたらし、それはアヌラーダプラにスリー・マハー菩提樹として植えられた。上座部仏教はシンハラ文化の基礎となり、今もスリランカのアイデンティティの中心である。"
+   }
+  },
+  {
+   "year": -161,
+   "qid": "Q4872671",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Dutugemunu unites the island",
+    "ko": "두투게무누의 섬 통일",
+    "zh": "杜图伽摩尼统一全岛",
+    "ja": "ドゥッタガーマニーの島統一"
+   },
+   "description": {
+    "en": "According to the chronicles, Prince Dutugemunu (Dutthagamani) of Ruhuna captured the fortress of Vijithapura and defeated the long-reigning Tamil king Elara at Anuradhapura around 161 BC, uniting the island. The Mahavamsa makes him a national hero and records that he began the great Ruwanwelisaya stupa; the story has also been used in modern ethnic politics.",
+    "ko": "연대기에 따르면 루후나의 두투게무누(두타가마니) 왕자는 기원전 161년경 비지타푸라 요새를 함락하고 아누라다푸라에서 오래 재위한 타밀 왕 엘라라를 격파하여 섬을 통일했다. 『마하밤사』는 그를 국민 영웅으로 그리며 거대한 루완웰리사야 스투파를 착공했다고 기록한다. 이 이야기는 근대의 민족 정치에도 이용되었다.",
+    "zh": "据编年史记载，卢胡纳的杜图伽摩尼王子约于公元前161年攻克维吉塔普拉要塞，并在阿努拉德普勒击败长期在位的泰米尔国王埃拉拉，统一了全岛。《大史》将他塑造为民族英雄，并记载他开始修建宏伟的鲁梵维利塔；这一故事也被用于近代的族群政治。",
+    "ja": "年代記によれば、ルフナのドゥッタガーマニー王子は紀元前161年頃にヴィジタプラの砦を落とし、アヌラーダプラで長く在位したタミル人の王エラーラを破って島を統一した。『マハーワンサ』は彼を国民的英雄として描き、大ストゥーパのルワンウェリ・サーヤを着工したと記す。この物語は近代の民族政治にも用いられた。"
+   }
+  },
+  {
+   "year": -89,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Abhayagiri and the written Pali Canon",
+    "ko": "아바야기리와 팔리 경전의 문자화",
+    "zh": "无畏山寺与巴利三藏成书",
+    "ja": "アバヤギリとパーリ聖典の書写"
+   },
+   "description": {
+    "en": "King Vattagamani Abhaya (Valagamba) regained his throne from South Indian invaders around 89 BC and founded the Abhayagiri monastery. According to tradition, during his reign monks at Aluvihare near Matale first committed the Buddhist scriptures, the Pali Canon, to writing, after famine and war threatened oral transmission.",
+    "ko": "와타가마니 아바야(왈라감바) 왕은 기원전 89년경 남인도 침입자들로부터 왕위를 되찾고 아바야기리 사원을 세웠다. 전승에 따르면 기근과 전쟁으로 구전이 위협받자 그의 치세에 마탈레 근처 알루비하레의 승려들이 불교 경전인 팔리 경전을 처음으로 문자로 기록했다.",
+    "zh": "伐多伽摩尼·阿巴耶王（瓦拉甘巴）约于公元前89年从南印度入侵者手中夺回王位，并创建无畏山寺。据传统说法，由于饥荒和战乱威胁到口头传承，他在位期间马特莱附近阿卢寺的僧侣首次将佛教经典巴利三藏书写成文。",
+    "ja": "ワッタガーマニー・アバヤ王（ワラガンバ）は紀元前89年頃に南インドの侵入者から王位を取り戻し、アバヤギリ僧院を建てた。伝承によれば、飢饉と戦乱で口承が脅かされたため、彼の治世にマータレー近くのアルヴィハーレの僧たちが初めて仏典パーリ聖典を文字に書き記した。"
+   }
+  },
+  {
+   "year": 50,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Embassy from Taprobane to Rome",
+    "ko": "타프로바네의 로마 사절",
+    "zh": "塔普罗巴奈使团访问罗马",
+    "ja": "タプロバネからローマへの使節"
+   },
+   "description": {
+    "en": "The Roman writer Pliny the Elder records that during the reign of Emperor Claudius (41–54) an embassy of four envoys came to Rome from Taprobane, as the Greeks and Romans called the island. Roman coins found on the island attest to growing trade with the Mediterranean world via Indian Ocean routes.",
+    "ko": "로마의 저술가 대(大) 플리니우스는 클라우디우스 황제 치세(41~54)에 그리스·로마인이 타프로바네라고 부른 이 섬에서 네 명의 사절이 로마에 왔다고 기록했다. 섬에서 발견되는 로마 동전은 인도양 항로를 통한 지중해 세계와의 교역이 늘어났음을 보여 준다.",
+    "zh": "罗马作家老普林尼记载，在克劳狄乌斯皇帝在位期间（41—54年），一个由四名使者组成的使团从塔普罗巴奈（希腊罗马人对该岛的称呼）来到罗马。岛上出土的罗马钱币证明，经由印度洋航路与地中海世界的贸易日益增长。",
+    "ja": "ローマの著述家大プリニウスは、クラウディウス帝の治世（41〜54年）に、ギリシア人・ローマ人がタプロバネと呼んだこの島から4人の使節がローマに来たと記している。島で見つかるローマの貨幣は、インド洋航路を通じた地中海世界との交易の拡大を物語る。"
+   }
+  },
+  {
+   "year": 67,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Vasabha's irrigation works",
+    "ko": "와사바 왕의 관개 사업",
+    "zh": "伐娑婆王的灌溉工程",
+    "ja": "ワサバ王の灌漑事業"
+   },
+   "description": {
+    "en": "King Vasabha, who according to the chronicles reigned from AD 67 to 111, is credited with building eleven reservoirs and twelve irrigation canals. His works mark the growth of the large-scale tank irrigation that sustained rice cultivation in the dry zone for the next thousand years.",
+    "ko": "연대기에 따르면 서기 67년부터 111년까지 재위한 와사바 왕은 저수지 11개와 관개 수로 12개를 건설했다고 전한다. 그의 사업은 이후 천 년 동안 건조 지대의 벼농사를 지탱한 대규모 저수지 관개의 성장을 보여 준다.",
+    "zh": "据编年史记载，公元67年至111年在位的伐娑婆王修建了11座水库和12条灌溉渠道。他的工程标志着大规模水库灌溉的发展，此后一千年间这种灌溉体系支撑着干燥区的稻作农业。",
+    "ja": "年代記によれば、紀元67年から111年まで在位したワサバ王は11の貯水池と12の灌漑水路を築いたとされる。その事業は、以後千年にわたり乾燥地帯の稲作を支えた大規模な貯水池灌漑の発展を示している。"
+   }
+  },
+  {
+   "year": 274,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Mahasena's reservoirs and Jetavana",
+    "ko": "마하세나의 저수지와 제타바나",
+    "zh": "摩诃斯那的水库与祇园寺",
+    "ja": "マハーセーナの貯水池とジェータヴァナ"
+   },
+   "description": {
+    "en": "King Mahasena, who came to the throne around 274, built some sixteen major reservoirs, including Minneriya, and the Jetavanaramaya stupa at Anuradhapura. Jetavana was among the tallest structures of the ancient world and remains one of the largest brick monuments ever built; Mahasena is still revered as a god of irrigation.",
+    "ko": "274년경 즉위한 마하세나 왕은 미네리야를 비롯한 16개 남짓의 대형 저수지와 아누라다푸라의 제타바나라마야 스투파를 건설했다. 제타바나는 고대 세계에서 가장 높은 건축물 가운데 하나였고 지금도 사상 최대급의 벽돌 기념물이며, 마하세나는 오늘날에도 관개의 신으로 숭배된다.",
+    "zh": "约274年即位的摩诃斯那王修建了包括明内里耶在内的约十六座大型水库，以及阿努拉德普勒的祇园寺大塔。祇园塔是古代世界最高的建筑之一，至今仍是有史以来最大的砖砌建筑之一；摩诃斯那至今仍被奉为灌溉之神。",
+    "ja": "274年頃に即位したマハーセーナ王はミンネリヤを含む約16の大貯水池と、アヌラーダプラのジェータヴァナーラーマ・ストゥーパを築いた。ジェータヴァナは古代世界で最も高い建造物の一つであり、今も史上最大級のれんが建造物である。マハーセーナは今日でも灌漑の神として崇められている。"
+   }
+  },
+  {
+   "year": 313,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Sacred Tooth Relic arrives",
+    "ko": "불치 사리의 도래",
+    "zh": "佛牙舍利传入",
+    "ja": "仏歯の伝来"
+   },
+   "description": {
+    "en": "In the early 4th century, during the reign of King Sirimeghavanna, the Tooth Relic of the Buddha was brought from Kalinga in India, by tradition hidden in the hair of Princess Hemamala. Possession of the relic became a symbol of the right to rule, and it is now enshrined in the Temple of the Tooth in Kandy.",
+    "ko": "4세기 초 시리메가완나 왕 치세에 붓다의 치아 사리가 인도 칼링가에서 전해졌는데, 전승에 따르면 헤마말라 공주가 머리카락 속에 숨겨 가져왔다고 한다. 불치의 소유는 통치권의 상징이 되었으며, 지금은 캔디의 불치사에 봉안되어 있다.",
+    "zh": "4世纪初，在吉祥云色王在位期间，佛牙舍利从印度羯陵伽传入，相传由赫玛玛拉公主藏于发中带来。拥有佛牙成为王权合法性的象征，如今供奉于康提的佛牙寺。",
+    "ja": "4世紀初め、シリメーガヴァンナ王の治世に、仏陀の歯の舎利がインドのカリンガからもたらされた。伝承ではヘーママーラー王女が髪の中に隠して運んだという。仏歯の所有は統治権の象徴となり、現在はキャンディの仏歯寺に祀られている。"
+   }
+  },
+  {
+   "year": 410,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Faxian visits the island",
+    "ko": "법현의 방문",
+    "zh": "法显访问师子国",
+    "ja": "法顕の来訪"
+   },
+   "description": {
+    "en": "The Chinese monk Faxian stayed in Anuradhapura from about 410 to 412, copying Buddhist texts unavailable in China. His account describes the Abhayagiri monastery with thousands of monks, the Tooth Relic festival and merchants from many lands, one of the earliest foreign descriptions of the island.",
+    "ko": "중국 승려 법현은 약 410년부터 412년까지 아누라다푸라에 머물며 중국에 없는 불경을 필사했다. 그의 기록은 수천 명의 승려가 있는 아바야기리 사원, 불치 축제, 여러 나라에서 온 상인들을 묘사하고 있으며, 섬에 대한 가장 이른 외국인 기록 가운데 하나다.",
+    "zh": "中国僧人法显约于410年至412年间居住在阿努拉德普勒，抄写中国所没有的佛经。他的记述描写了拥有数千僧众的无畏山寺、佛牙节庆以及来自各国的商人，是关于该岛最早的外国记载之一。",
+    "ja": "中国の僧法顕は410年頃から412年頃までアヌラーダプラに滞在し、中国にない仏典を書写した。その記録は数千人の僧がいるアバヤギリ僧院、仏歯の祭礼、諸国から来た商人を描いており、島について最も古い外国人の記述の一つである。"
+   }
+  },
+  {
+   "year": 430,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Buddhaghosa at the Mahavihara",
+    "ko": "마하비하라의 붓다고사",
+    "zh": "觉音在大寺",
+    "ja": "大寺のブッダゴーサ"
+   },
+   "description": {
+    "en": "In the 5th century the Indian scholar-monk Buddhaghosa came to the Mahavihara at Anuradhapura, where he wrote the Visuddhimagga and translated Sinhala commentaries into Pali. His works became the authoritative interpretation of Theravada Buddhism across Sri Lanka and Southeast Asia.",
+    "ko": "5세기 인도의 학승 붓다고사는 아누라다푸라의 마하비하라에 와서 『청정도론』을 저술하고 싱할라어 주석서들을 팔리어로 옮겼다. 그의 저작은 스리랑카와 동남아시아 전역에서 상좌부 불교의 권위 있는 해석이 되었다.",
+    "zh": "5世纪，印度学问僧觉音来到阿努拉德普勒的大寺，撰写《清净道论》，并将僧伽罗语注释译为巴利语。他的著作成为斯里兰卡和东南亚上座部佛教的权威解释。",
+    "ja": "5世紀、インドの学僧ブッダゴーサはアヌラーダプラの大寺（マハーヴィハーラ）に来て『清浄道論』を著し、シンハラ語の注釈書をパーリ語に訳した。その著作はスリランカと東南アジア全域で上座部仏教の権威ある解釈となった。"
+   }
+  },
+  {
+   "year": 477,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Sigiriya, the Rock Fortress",
+    "ko": "시기리야 바위 요새",
+    "zh": "锡吉里耶狮子岩",
+    "ja": "シーギリヤ・ロック"
+   },
+   "description": {
+    "en": "King Kashyapa I, who seized power from his father Dhatusena, built a palace on top of the 200-metre Sigiriya rock, approached through a giant lion gateway and surrounded by water gardens and painted frescoes. After his defeat in 495 the capital returned to Anuradhapura; Sigiriya is now a UNESCO World Heritage Site.",
+    "ko": "아버지 다투세나에게서 권력을 빼앗은 카샤파 1세는 높이 200미터의 시기리야 바위 꼭대기에 궁전을 짓고, 거대한 사자 문과 물의 정원, 채색 벽화로 꾸몄다. 495년 그가 패한 뒤 수도는 아누라다푸라로 돌아갔으며, 시기리야는 지금 유네스코 세계유산이다.",
+    "zh": "从父亲达都斯那手中夺权的迦叶波一世在高约200米的锡吉里耶巨岩顶上修建宫殿，以巨大的狮子门为入口，周围环绕水景花园和彩色壁画。495年他兵败后，都城迁回阿努拉德普勒；锡吉里耶现为联合国教科文组织世界遗产。",
+    "ja": "父ダートゥセーナから権力を奪ったカッサパ1世は、高さ約200メートルのシーギリヤの岩山の頂に宮殿を築き、巨大な獅子の門、水の庭園、彩色フレスコ画で飾った。495年に彼が敗れると都はアヌラーダプラに戻った。シーギリヤは現在ユネスコ世界遺産である。"
+   }
+  },
+  {
+   "year": 500,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "The Mahavamsa chronicle",
+    "ko": "『마하밤사』 편찬",
+    "zh": "《大史》编成",
+    "ja": "『マハーワンサ』の成立"
+   },
+   "description": {
+    "en": "Around the late 5th or early 6th century the monk Mahanama is credited with composing the Mahavamsa, a Pali verse chronicle of the island's kings from Vijaya to Mahasena. Later continued as the Culavamsa, it is one of the longest continuous historical chronicles in the world, though it presents history from a Sinhalese Buddhist viewpoint.",
+    "ko": "5세기 말 또는 6세기 초 승려 마하나마가 비자야부터 마하세나까지 섬의 왕들을 다룬 팔리어 운문 연대기 『마하밤사』를 편찬한 것으로 알려져 있다. 이후 『출라밤사』로 이어진 이 연대기는 세계에서 가장 긴 연속 역사 기록 가운데 하나지만, 싱할라 불교의 관점에서 역사를 서술한다.",
+    "zh": "约5世纪末或6世纪初，僧人摩诃那摩被认为编写了《大史》，这是一部记述从维阇耶到摩诃斯那历代国王的巴利文韵文编年史。后续的《小史》延续了它，使之成为世界上延续时间最长的历史编年之一，但它是从僧伽罗佛教徒的视角叙述历史的。",
+    "ja": "5世紀末から6世紀初め頃、僧マハーナーマがヴィジャヤからマハーセーナまでの島の王を記したパーリ語韻文の年代記『マハーワンサ』を編んだとされる。後に『チューラワンサ』として書き継がれ、世界で最も長く続く歴史年代記の一つとなったが、シンハラ仏教徒の視点から歴史を描いている。"
+   }
+  },
+  {
+   "year": 550,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Hub of Indian Ocean trade",
+    "ko": "인도양 교역의 중심지",
+    "zh": "印度洋贸易枢纽",
+    "ja": "インド洋交易の拠点"
+   },
+   "description": {
+    "en": "Around 550 the Greek merchant Cosmas Indicopleustes described the island, which he called Taprobane, as a great meeting point where ships from China, Persia and Ethiopia exchanged goods. Ports such as Mantai on the north-west coast linked the Roman, Persian and Chinese trading worlds.",
+    "ko": "550년경 그리스 상인 코스마스 인디코플레우스테스는 그가 타프로바네라고 부른 이 섬을 중국·페르시아·에티오피아의 배들이 물자를 교환하는 큰 만남의 장소로 묘사했다. 북서 해안의 만타이 같은 항구는 로마·페르시아·중국의 교역 세계를 이어 주었다.",
+    "zh": "约550年，希腊商人科斯马斯·印第科普留斯特斯将他称为“塔普罗巴奈”的这座岛屿描述为来自中国、波斯和埃塞俄比亚的船只交换货物的重要交汇点。西北海岸的曼泰等港口连接着罗马、波斯和中国的贸易世界。",
+    "ja": "550年頃、ギリシア人商人コスマス・インディコプレウステスは、彼がタプロバネと呼んだこの島を、中国・ペルシア・エチオピアの船が品物を交換する一大交易地として描いた。北西岸のマンタイなどの港は、ローマ・ペルシア・中国の交易世界を結んでいた。"
+   }
+  },
+  {
+   "year": 684,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Manavanna restored with Pallava help",
+    "ko": "팔라바의 도움으로 즉위한 마나완나",
+    "zh": "摩那跋摩借帕拉瓦之力复位",
+    "ja": "パッラヴァ朝の支援によるマーナヴァンマの即位"
+   },
+   "description": {
+    "en": "Around 684 the exiled prince Manavanna (Manavamma) took the throne of Anuradhapura with an army provided by the Pallava king of South India. The episode illustrates the close and often decisive involvement of South Indian powers in the island's succession struggles.",
+    "ko": "684년경 망명 중이던 마나완나(마나밤마) 왕자는 남인도 팔라바 왕이 제공한 군대로 아누라다푸라의 왕위에 올랐다. 이 일은 섬의 왕위 다툼에 남인도 세력이 깊이, 그리고 흔히 결정적으로 관여했음을 보여 준다.",
+    "zh": "约684年，流亡的摩那跋摩王子借助南印度帕拉瓦国王提供的军队登上阿努拉德普勒王位。这一事件说明南印度势力对岛上王位之争的介入既深且往往具有决定性。",
+    "ja": "684年頃、亡命中の王子マーナヴァンマは南インドのパッラヴァ朝の王が提供した軍によってアヌラーダプラの王位に就いた。この出来事は、島の王位争いに南インドの勢力が深く、しばしば決定的に関与していたことを示す。"
+   }
+  },
+  {
+   "year": 840,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Pandyan sack of Anuradhapura",
+    "ko": "판디아의 아누라다푸라 약탈",
+    "zh": "潘地亚人洗劫阿努拉德普勒",
+    "ja": "パーンディヤ朝によるアヌラーダプラ略奪"
+   },
+   "description": {
+    "en": "During the reign of Sena I in the mid-9th century, the Pandyan king Srimara Srivallabha invaded from South India and plundered Anuradhapura, carrying off its treasures. Sena's successor Sena II later struck back by sending an army to Madurai, part of a long cycle of wars with South Indian kingdoms.",
+    "ko": "9세기 중엽 세나 1세 치세에 남인도의 판디아 왕 스리마라 스리발라바가 침공해 아누라다푸라를 약탈하고 보물을 가져갔다. 세나의 후계자 세나 2세는 이후 마두라이로 군대를 보내 반격했는데, 이는 남인도 왕국들과 오랫동안 이어진 전쟁의 일부였다.",
+    "zh": "9世纪中叶，在斯那一世在位期间，南印度潘地亚国王室利摩罗·室利伐罗跋入侵并洗劫阿努拉德普勒，掠走财宝。斯那的继任者斯那二世后来派兵攻打马杜赖予以反击，这是与南印度诸王国长期战争循环的一部分。",
+    "ja": "9世紀半ば、セーナ1世の治世に南インドのパーンディヤ朝の王シュリーマーラ・シュリーヴァッラバが侵攻してアヌラーダプラを略奪し、財宝を持ち去った。セーナの後継者セーナ2世は後にマドゥライへ軍を送って反撃したが、これは南インドの王国との長い戦争の循環の一部であった。"
+   }
+  },
+  {
+   "year": 993,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Chola conquest of the north",
+    "ko": "촐라의 북부 정복",
+    "zh": "朱罗王朝征服北部",
+    "ja": "チョーラ朝の北部征服"
+   },
+   "description": {
+    "en": "Around 993 the Chola emperor Rajaraja I invaded and occupied northern Sri Lanka, sacking Anuradhapura and making the island a province of his empire with Polonnaruwa as its centre. King Mahinda V held out in the south-east.",
+    "ko": "993년경 촐라 황제 라자라자 1세가 스리랑카 북부를 침공·점령하여 아누라다푸라를 약탈하고, 폴론나루와를 중심으로 섬을 제국의 한 속주로 삼았다. 마힌다 5세 왕은 남동부에서 버텼다.",
+    "zh": "约993年，朱罗皇帝罗阇罗阇一世入侵并占领斯里兰卡北部，洗劫阿努拉德普勒，并以波隆纳鲁瓦为中心将该岛设为帝国的一个行省。国王摩哂陀五世则在东南部坚持抵抗。",
+    "ja": "993年頃、チョーラ朝の皇帝ラージャラージャ1世がスリランカ北部に侵攻・占領してアヌラーダプラを略奪し、ポロンナルワを中心に島を帝国の一州とした。マヒンダ5世王は南東部で抵抗を続けた。"
+   }
+  },
+  {
+   "year": 1017,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Chola capture of Mahinda V",
+    "ko": "촐라, 마힌다 5세를 사로잡다",
+    "zh": "朱罗俘虏摩哂陀五世",
+    "ja": "チョーラ朝によるマヒンダ5世の捕縛"
+   },
+   "description": {
+    "en": "In 1017 the Chola king Rajendra I completed the conquest, capturing Mahinda V together with the royal regalia and taking him to South India, where he died. The fall ended the Anuradhapura era; the old capital was abandoned and power shifted to Polonnaruwa.",
+    "ko": "1017년 촐라 왕 라젠드라 1세는 정복을 완수하여 마힌다 5세를 왕권 상징물과 함께 사로잡아 남인도로 데려갔고, 마힌다는 그곳에서 죽었다. 이로써 아누라다푸라 시대가 끝났으며, 옛 수도는 버려지고 권력은 폴론나루와로 옮겨 갔다.",
+    "zh": "1017年，朱罗国王拉金德拉一世完成征服，俘获摩哂陀五世及王室宝器并将其带回南印度，摩哂陀最终死于那里。阿努拉德普勒时代就此结束，旧都被废弃，权力中心转移到波隆纳鲁瓦。",
+    "ja": "1017年、チョーラ朝のラージェーンドラ1世は征服を完了し、マヒンダ5世を王権の象徴物とともに捕らえて南インドへ連れ去り、マヒンダはそこで没した。これによりアヌラーダプラ時代は終わり、旧都は放棄されて権力はポロンナルワへ移った。"
+   }
+  },
+  {
+   "year": 1070,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Vijayabahu I expels the Cholas",
+    "ko": "비자야바후 1세, 촐라를 몰아내다",
+    "zh": "维阇耶巴忽一世驱逐朱罗人",
+    "ja": "ヴィジャヤバーフ1世、チョーラ朝を駆逐"
+   },
+   "description": {
+    "en": "After years of guerrilla resistance from Ruhuna, Vijayabahu I captured Polonnaruwa around 1070 and drove the Cholas from the island. He made Polonnaruwa his capital, restored Buddhist ordination with monks invited from Burma and repaired the irrigation system.",
+    "ko": "루후나를 근거로 수년간 유격전을 벌인 비자야바후 1세는 1070년경 폴론나루와를 점령하고 촐라를 섬에서 몰아냈다. 그는 폴론나루와를 수도로 삼고, 버마에서 승려를 초청해 불교 수계를 되살렸으며, 관개 체계를 복구했다.",
+    "zh": "经过多年以卢胡纳为基地的游击抵抗，维阇耶巴忽一世约于1070年攻占波隆纳鲁瓦，将朱罗人逐出该岛。他以波隆纳鲁瓦为都，从缅甸请来僧人恢复佛教受戒传统，并修复了灌溉系统。",
+    "ja": "ルフナを拠点とした数年のゲリラ的抵抗の末、ヴィジャヤバーフ1世は1070年頃ポロンナルワを奪い、チョーラ朝を島から追い出した。彼はポロンナルワを都とし、ビルマから僧を招いて仏教の受戒を復興し、灌漑網を修復した。"
+   }
+  },
+  {
+   "year": 1153,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Golden age of Parakramabahu I",
+    "ko": "파라크라마바후 1세의 황금기",
+    "zh": "波罗迦罗摩巴忽一世的黄金时代",
+    "ja": "パラークラマバーフ1世の黄金期"
+   },
+   "description": {
+    "en": "Parakramabahu I, ruler from 1153 to 1186, reunified the island and made Polonnaruwa a magnificent capital. He built vast irrigation works including the Parakrama Samudra, unified the Buddhist monastic orders and sent expeditions to South India and Burma. His reign is remembered as the high point of medieval Sri Lanka.",
+    "ko": "1153년부터 1186년까지 재위한 파라크라마바후 1세는 섬을 재통일하고 폴론나루와를 웅장한 수도로 만들었다. 그는 파라크라마 사무드라를 비롯한 거대한 관개 시설을 건설하고, 불교 승단을 통합했으며, 남인도와 버마로 원정군을 보냈다. 그의 치세는 중세 스리랑카의 정점으로 기억된다.",
+    "zh": "1153年至1186年在位的波罗迦罗摩巴忽一世重新统一全岛，把波隆纳鲁瓦建成宏伟的都城。他修建了包括波罗迦罗摩海在内的大型灌溉工程，统一了佛教僧团，并向南印度和缅甸派出远征军。他的统治被视为中世纪斯里兰卡的巅峰。",
+    "ja": "1153年から1186年まで在位したパラークラマバーフ1世は島を再統一し、ポロンナルワを壮麗な都とした。パラークラマ・サムドラをはじめとする巨大な灌漑施設を築き、仏教僧団を統合し、南インドとビルマに遠征軍を送った。その治世は中世スリランカの頂点として記憶されている。"
+   }
+  },
+  {
+   "year": 1187,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Nissanka Malla's monuments",
+    "ko": "니산카 말라의 기념물",
+    "zh": "尼散迦·摩罗的建筑",
+    "ja": "ニッサンカ・マッラの建造物"
+   },
+   "description": {
+    "en": "Nissanka Malla, who reigned from 1187 to 1196, adorned Polonnaruwa with buildings such as the Hatadage and the Nissanka Latha Mandapaya and recorded his deeds on the huge stone inscription known as the Gal Potha. After his reign the kingdom sank into instability and rival claimants.",
+    "ko": "1187년부터 1196년까지 재위한 니산카 말라는 하타다게와 니산카 라타 만다파야 같은 건물로 폴론나루와를 꾸미고, '갈 포타'로 알려진 거대한 석판 비문에 자신의 업적을 새겼다. 그의 치세 이후 왕국은 불안정과 왕위 경쟁에 빠져들었다.",
+    "zh": "1187年至1196年在位的尼散迦·摩罗以哈塔达格和尼散迦藤亭等建筑装点波隆纳鲁瓦，并将自己的功绩刻在名为“石书”的巨型石刻上。他死后，王国陷入动荡和王位争夺。",
+    "ja": "1187年から1196年まで在位したニッサンカ・マッラは、ハタダーゲやニッサンカ・ラター・マンダパヤなどの建物でポロンナルワを飾り、「ガル・ポタ（石の書）」と呼ばれる巨大な石碑に自らの事績を刻んだ。その治世の後、王国は不安定と王位争いに陥った。"
+   }
+  },
+  {
+   "year": 1215,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Invasion of Kalinga Magha",
+    "ko": "칼링가 마가의 침공",
+    "zh": "羯陵伽人摩伽入侵",
+    "ja": "カリンガ・マーガの侵攻"
+   },
+   "description": {
+    "en": "In 1215 an invader known as Magha of Kalinga seized Polonnaruwa with a large army; the chronicles describe his rule as brutal and hostile to Buddhist institutions. His invasion marked the end of the Polonnaruwa kingdom and began the abandonment of the dry-zone irrigation heartland as Sinhalese power moved south-west.",
+    "ko": "1215년 칼링가의 마가로 알려진 침입자가 대군을 이끌고 폴론나루와를 장악했으며, 연대기는 그의 통치를 잔혹하고 불교 제도에 적대적이었다고 묘사한다. 그의 침공으로 폴론나루와 왕국은 끝났고, 싱할라 권력이 남서부로 옮겨 가면서 건조 지대 관개 중심지의 방기가 시작되었다.",
+    "zh": "1215年，一位被称为羯陵伽人摩伽的入侵者率大军占领波隆纳鲁瓦；编年史称其统治残暴并敌视佛教机构。他的入侵标志着波隆纳鲁瓦王国的终结，随着僧伽罗政权向西南迁移，干燥区的灌溉中心地带逐渐被废弃。",
+    "ja": "1215年、カリンガのマーガとして知られる侵入者が大軍でポロンナルワを奪った。年代記はその支配を残虐で仏教施設に敵対的だったと描く。彼の侵攻はポロンナルワ王国の終わりを告げ、シンハラの権力が南西部へ移るにつれて乾燥地帯の灌漑中心地の放棄が始まった。"
+   }
+  },
+  {
+   "year": 1236,
+   "qid": "Q3136869",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Parakramabahu II at Dambadeniya",
+    "ko": "담바데니야의 파라크라마바후 2세",
+    "zh": "丹巴德尼亚的波罗迦罗摩巴忽二世",
+    "ja": "ダンバデニヤのパラークラマバーフ2世"
+   },
+   "description": {
+    "en": "Parakramabahu II, who ruled from Dambadeniya from 1236 to 1270, expelled Magha's forces from much of the island and briefly restored Polonnaruwa. A scholar-king, he wrote works in Sinhala and Pali, and his era saw a flowering of Sinhala prose literature.",
+    "ko": "1236년부터 1270년까지 담바데니야에서 통치한 파라크라마바후 2세는 섬 대부분에서 마가의 세력을 몰아내고 한때 폴론나루와를 복원했다. 학자 군주였던 그는 싱할라어와 팔리어로 저술했으며, 그의 시대에는 싱할라 산문 문학이 꽃피었다.",
+    "zh": "1236年至1270年在丹巴德尼亚统治的波罗迦罗摩巴忽二世将摩伽的势力逐出岛上大部分地区，并一度恢复了波隆纳鲁瓦。这位学者型国王用僧伽罗语和巴利语著书，他的时代僧伽罗语散文文学繁荣发展。",
+    "ja": "1236年から1270年までダンバデニヤから統治したパラークラマバーフ2世は、島の大部分からマーガの勢力を追い出し、一時ポロンナルワを復興した。学者王であった彼はシンハラ語とパーリ語で著作を残し、その時代にシンハラ語散文文学が花開いた。"
+   }
+  },
+  {
+   "year": 1247,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Invasion of Chandrabhanu",
+    "ko": "찬드라바누의 침공",
+    "zh": "旃陀罗婆努入侵",
+    "ja": "チャンドラバーヌの侵攻"
+   },
+   "description": {
+    "en": "In 1247 Chandrabhanu, a ruler from Tambralinga on the Malay Peninsula, invaded the island with a 'Javaka' army but was repulsed by Parakramabahu II. He later established himself in the north and invaded again, illustrating the island's links with Southeast Asia.",
+    "ko": "1247년 말레이반도 탐브라링가의 통치자 찬드라바누가 '자바카' 군대를 이끌고 섬을 침공했으나 파라크라마바후 2세에게 격퇴되었다. 그는 이후 북부에 자리 잡고 다시 침공했으며, 이는 섬과 동남아시아의 연결을 보여 준다.",
+    "zh": "1247年，马来半岛单马令的统治者旃陀罗婆努率领“爪哇迦”军队入侵该岛，被波罗迦罗摩巴忽二世击退。他后来在北部立足并再次入侵，体现了该岛与东南亚之间的联系。",
+    "ja": "1247年、マレー半島タンブラリンガの支配者チャンドラバーヌが「ジャーヴァカ」の軍を率いて島に侵攻したが、パラークラマバーフ2世に撃退された。彼は後に北部に拠点を築いて再び侵攻しており、島と東南アジアの結びつきを示している。"
+   }
+  },
+  {
+   "year": 1341,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Capital moves to Gampola",
+    "ko": "감폴라 천도",
+    "zh": "迁都甘波罗",
+    "ja": "ガンポラへの遷都"
+   },
+   "description": {
+    "en": "Around 1341 King Bhuvanaikabahu IV moved the Sinhalese capital to Gampola in the hill country near Kandy. The Gampola period produced fine temples such as Gadaladeniya and Lankatilaka, blending Sinhalese and South Indian styles, while real power often lay with the Alagakkonara family.",
+    "ko": "1341년경 부바나이카바후 4세는 싱할라의 수도를 캔디 근처 구릉지대의 감폴라로 옮겼다. 감폴라 시대에는 싱할라 양식과 남인도 양식을 융합한 가달라데니야와 랑카틸라카 같은 훌륭한 사원이 세워졌으며, 실권은 흔히 알라가코나라 가문이 쥐고 있었다.",
+    "zh": "约1341年，布伐奈迦巴忽四世将僧伽罗都城迁至康提附近丘陵地带的甘波罗。甘波罗时期修建了加达拉德尼亚寺和楞伽提拉卡寺等融合僧伽罗与南印度风格的精美寺庙，而实权常掌握在阿拉迦科纳拉家族手中。",
+    "ja": "1341年頃、ブヴァナイカバーフ4世はシンハラの都をキャンディ近くの丘陵地帯ガンポラへ移した。ガンポラ時代にはシンハラ様式と南インド様式を融合したガダラデニヤ寺院やランカティラカ寺院などの優れた寺院が建てられたが、実権はしばしばアラガッコーナーラ家が握っていた。"
+   }
+  },
+  {
+   "year": 1344,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ibn Battuta visits",
+    "ko": "이븐 바투타의 방문",
+    "zh": "伊本·白图泰到访",
+    "ja": "イブン・バットゥータの来訪"
+   },
+   "description": {
+    "en": "In 1344 the Moroccan traveller Ibn Battuta landed in the north, where the Aryacakravarti king of Jaffna received him and showed him his pearls. He then climbed Adam's Peak (Sri Pada), already a pilgrimage site sacred to Buddhists, Hindus and Muslims, and described the cinnamon-rich coast.",
+    "ko": "1344년 모로코 여행가 이븐 바투타는 북부에 상륙했으며, 자프나의 아리야차크라바르티 왕이 그를 맞아 진주를 보여 주었다. 그는 이어 불교도·힌두교도·무슬림 모두에게 이미 성지였던 아담스 피크(스리 파다)에 올랐고, 계피가 풍부한 해안을 묘사했다.",
+    "zh": "1344年，摩洛哥旅行家伊本·白图泰在北部登陆，贾夫纳的阿利耶·查克拉瓦蒂国王接见了他并展示珍珠。随后他登上了对佛教徒、印度教徒和穆斯林来说都已是圣地的亚当峰（圣足山），并描述了盛产肉桂的海岸。",
+    "ja": "1344年、モロッコの旅行家イブン・バットゥータは北部に上陸し、ジャフナのアーリヤチャクラヴァルティ王が彼を迎えて真珠を見せた。彼は続いて、仏教徒・ヒンドゥー教徒・ムスリムにとってすでに聖地であったアダムスピーク（スリー・パーダ）に登り、シナモンの豊かな海岸を描写した。"
+   }
+  },
+  {
+   "year": 1411,
+   "qid": "Q6864869",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ming–Kotte War",
+    "ko": "명-코테 전쟁",
+    "zh": "明朝与科特之战",
+    "ja": "明・コーッテ戦争"
+   },
+   "description": {
+    "en": "In 1411, during Admiral Zheng He's voyages, Ming Chinese forces clashed with the ruler Vira Alakeshvara and took him captive to Nanjing. Two years earlier Zheng He had left the trilingual Galle inscription in Chinese, Tamil and Persian; Ming China then supported a new ruler and received tribute for some decades.",
+    "ko": "1411년 정화 제독의 원정 중 명나라 군대는 통치자 비라 알라케슈바라와 충돌하여 그를 사로잡아 난징으로 데려갔다. 2년 전 정화는 중국어·타밀어·페르시아어로 된 골 삼개국어 비문을 남겼으며, 이후 명은 새 통치자를 지원하고 수십 년간 조공을 받았다.",
+    "zh": "1411年，郑和下西洋期间，明军与当地统治者亚烈苦奈儿（维拉·阿拉盖斯瓦拉）发生冲突，并将其俘至南京。两年前郑和在加勒留下了以汉文、泰米尔文和波斯文刻写的三语碑；此后明朝扶植新统治者，并在数十年间接受其朝贡。",
+    "ja": "1411年、鄭和の航海の途中で明軍は支配者ヴィーラ・アラケーシュヴァラと衝突し、彼を捕らえて南京へ連行した。その2年前、鄭和は漢文・タミル語・ペルシア語のゴール三言語碑文を残していた。明はその後新たな支配者を支持し、数十年にわたり朝貢を受けた。"
+   }
+  },
+  {
+   "year": 1450,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Parakramabahu VI reunites the island",
+    "ko": "파라크라마바후 6세의 섬 재통일",
+    "zh": "波罗迦罗摩巴忽六世重新统一全岛",
+    "ja": "パラークラマバーフ6世の島再統一"
+   },
+   "description": {
+    "en": "Parakramabahu VI of Kotte, who ruled from 1412 to 1467, subdued the hill country and, around 1450, his adopted son Sapumal Kumaraya conquered the Jaffna kingdom. For the last time before the colonial era, the whole island was under a single Sri Lankan ruler, and Kotte enjoyed a golden age of Sinhala poetry.",
+    "ko": "1412년부터 1467년까지 재위한 코테의 파라크라마바후 6세는 구릉지대를 복속시켰고, 1450년경 그의 양자 사푸말 쿠마라야가 자프나 왕국을 정복했다. 식민 시대 이전 마지막으로 섬 전체가 한 명의 스리랑카 통치자 아래 놓였으며, 코테는 싱할라 시문학의 황금기를 누렸다.",
+    "zh": "1412年至1467年在位的科特国王波罗迦罗摩巴忽六世征服了山区，约1450年他的养子萨普玛尔王子攻占贾夫纳王国。这是殖民时代之前全岛最后一次统一于一位斯里兰卡君主之下，科特也迎来僧伽罗语诗歌的黄金时代。",
+    "ja": "1412年から1467年まで在位したコーッテのパラークラマバーフ6世は丘陵地帯を服属させ、1450年頃には養子サプマル王子がジャフナ王国を征服した。植民地時代以前で最後に、島全体が一人のスリランカの支配者の下に置かれ、コーッテはシンハラ詩文の黄金期を迎えた。"
+   }
+  },
+  {
+   "year": 1469,
+   "qid": "Q1530762",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Kingdom of Kandy emerges",
+    "ko": "캔디 왕국의 성립",
+    "zh": "康提王国兴起",
+    "ja": "キャンディ王国の成立"
+   },
+   "description": {
+    "en": "In the later 15th century, as Kotte's power waned after Parakramabahu VI, the hill country around Senkadagala (Kandy) broke away under its own king. The Kingdom of Kandy, protected by mountains, would outlast all other Sri Lankan kingdoms and resist European powers for over three centuries.",
+    "ko": "15세기 후반 파라크라마바후 6세 이후 코테의 힘이 약해지자, 센카다갈라(캔디) 주변 구릉지대가 독자적인 왕 아래 떨어져 나갔다. 산악에 보호된 캔디 왕국은 다른 모든 스리랑카 왕국보다 오래 존속하며 3세기 넘게 유럽 열강에 저항하게 된다.",
+    "zh": "15世纪后期，波罗迦罗摩巴忽六世之后科特势力衰退，森卡达加拉（康提）周围的山区在自己的国王统治下脱离出来。受群山屏护的康提王国比其他所有斯里兰卡王国存续得更久，并抵抗欧洲列强长达三个多世纪。",
+    "ja": "15世紀後半、パラークラマバーフ6世の後にコーッテの力が衰えると、センカダガラ（キャンディ）周辺の丘陵地帯が独自の王の下で離脱した。山々に守られたキャンディ王国は他のどのスリランカの王国よりも長く存続し、3世紀以上にわたってヨーロッパ列強に抵抗することになる。"
+   }
+  },
+  {
+   "year": 1505,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Portuguese arrival",
+    "ko": "포르투갈인의 도래",
+    "zh": "葡萄牙人到来",
+    "ja": "ポルトガル人の到来"
+   },
+   "description": {
+    "en": "Portuguese ships under Lourenço de Almeida reached the island around 1505 and made contact with the king of Kotte near Colombo. The Portuguese later built a fort at Colombo (from 1517) and came to dominate the coastal lowlands and the lucrative cinnamon trade.",
+    "ko": "로렌수 드 알메이다가 이끄는 포르투갈 선박들이 1505년경 섬에 도착해 콜롬보 근처에서 코테 왕과 접촉했다. 포르투갈인은 이후 1517년부터 콜롬보에 요새를 짓고 해안 저지대와 수익성 높은 계피 무역을 장악하게 되었다.",
+    "zh": "约1505年，洛伦索·德阿尔梅达率领的葡萄牙船队抵达该岛，并在科伦坡附近与科特国王接触。葡萄牙人后来自1517年起在科伦坡修建要塞，逐步控制沿海低地和获利丰厚的肉桂贸易。",
+    "ja": "1505年頃、ロウレンソ・デ・アルメイダ率いるポルトガル船が島に到達し、コロンボ近くでコーッテの王と接触した。ポルトガル人はその後1517年からコロンボに砦を築き、沿岸低地と利益の大きいシナモン交易を支配するようになった。"
+   }
+  },
+  {
+   "year": 1521,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Partition of Kotte (Vijayaba Kollaya)",
+    "ko": "코테 분할 (비자야바 콜라야)",
+    "zh": "科特王国三分（维阇耶巴之劫）",
+    "ja": "コーッテの分裂（ヴィジャヤバー・コッラヤ）"
+   },
+   "description": {
+    "en": "In 1521 the sons of King Vijayabahu VI of Kotte killed their father in a palace coup known as the Vijayaba Kollaya and divided the kingdom into Kotte, Sitawaka and Raigama. The rivalry between Kotte and Sitawaka allowed the Portuguese to gain decisive influence by backing Kotte.",
+    "ko": "1521년 코테의 비자야바후 6세 왕의 아들들은 '비자야바 콜라야'로 알려진 궁정 쿠데타로 아버지를 죽이고 왕국을 코테·시타와카·라이가마로 나누었다. 코테와 시타와카의 경쟁은 코테를 지원한 포르투갈이 결정적인 영향력을 얻는 계기가 되었다.",
+    "zh": "1521年，科特国王维阇耶巴忽六世的儿子们发动宫廷政变弑父，史称“维阇耶巴之劫”，并将王国分为科特、悉多伐迦和赖加马三部分。科特与悉多伐迦之间的争斗使支持科特的葡萄牙人获得了决定性的影响力。",
+    "ja": "1521年、コーッテのヴィジャヤバーフ6世の息子たちは「ヴィジャヤバー・コッラヤ」と呼ばれる宮廷クーデターで父を殺し、王国をコーッテ、シーターワカ、ライガマに分けた。コーッテとシーターワカの対立は、コーッテを支援したポルトガルが決定的な影響力を得るきっかけとなった。"
+   }
+  },
+  {
+   "year": 1557,
+   "qid": "Q7510161",
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Dharmapala baptised; Kotte besieged",
+    "ko": "다르마팔라의 세례와 코테 포위",
+    "zh": "达摩波罗受洗与科特被围",
+    "ja": "ダルマパーラの受洗とコーッテ包囲"
+   },
+   "description": {
+    "en": "In 1557 King Dharmapala of Kotte, a Portuguese protégé, was baptised as Dom João, alienating many of his subjects, while Mayadunne of Sitawaka besieged Kotte. The Portuguese defended the city but eventually moved the court to Colombo, and Sitawaka became the main centre of Sinhalese resistance.",
+    "ko": "1557년 포르투갈의 보호를 받던 코테의 다르마팔라 왕이 '동 주앙'으로 세례를 받아 많은 백성의 반감을 샀고, 시타와카의 마야두네는 코테를 포위했다. 포르투갈은 도시를 지켰으나 결국 궁정을 콜롬보로 옮겼고, 시타와카는 싱할라 저항의 중심이 되었다.",
+    "zh": "1557年，受葡萄牙庇护的科特国王达摩波罗受洗，教名“唐·若昂”，引起许多臣民不满，与此同时悉多伐迦的摩耶杜奈围攻科特。葡萄牙人守住了城池，但最终将朝廷迁往科伦坡，悉多伐迦成为僧伽罗人抵抗的主要中心。",
+    "ja": "1557年、ポルトガルの庇護を受けたコーッテのダルマパーラ王はドン・ジョアンとして洗礼を受け、多くの臣民の反感を買った。一方シーターワカのマーヤードゥンネはコーッテを包囲した。ポルトガルは都市を守ったが最終的に宮廷をコロンボへ移し、シーターワカがシンハラの抵抗の中心となった。"
+   }
+  },
+  {
+   "year": 1594,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Danture",
+    "ko": "단투레 전투",
+    "zh": "丹图雷战役",
+    "ja": "ダントゥレの戦い"
+   },
+   "description": {
+    "en": "In 1594 a Portuguese army invaded the Kandyan highlands to install a puppet queen, but Vimaladharmasuriya I trapped and destroyed it at Danture, killing its commander Pedro Lopes de Sousa. The victory secured Kandy's independence and made it the centre of Sinhalese resistance.",
+    "ko": "1594년 포르투갈군이 꼭두각시 여왕을 세우려고 캔디 고원을 침공했으나, 비말라다르마수리야 1세는 단투레에서 이들을 포위 섬멸하고 지휘관 페드루 로페스 드 소자를 죽였다. 이 승리로 캔디의 독립이 확보되고 캔디는 싱할라 저항의 중심이 되었다.",
+    "zh": "1594年，葡萄牙军队入侵康提高地，企图扶植傀儡女王，但维摩罗达摩苏利耶一世在丹图雷围歼葡军，击毙其指挥官佩德罗·洛佩斯·德索萨。这场胜利确保了康提的独立，使其成为僧伽罗人抵抗的中心。",
+    "ja": "1594年、ポルトガル軍は傀儡の女王を立てるためキャンディ高地に侵攻したが、ヴィマラダルマスーリヤ1世はダントゥレでこれを包囲殲滅し、指揮官ペドロ・ロペス・デ・ソウザを討ち取った。この勝利でキャンディの独立は確保され、シンハラの抵抗の中心となった。"
+   }
+  },
+  {
+   "year": 1597,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Portugal inherits Kotte",
+    "ko": "포르투갈의 코테 상속",
+    "zh": "葡萄牙继承科特王国",
+    "ja": "ポルトガルによるコーッテ継承"
+   },
+   "description": {
+    "en": "When Dharmapala died in 1597, under a deed of 1580 his kingdom of Kotte passed to the King of Portugal. The Portuguese claimed sovereignty over the western and southern lowlands, ruling them as a colony with their capital at Colombo.",
+    "ko": "1597년 다르마팔라가 죽자 1580년의 유증 문서에 따라 코테 왕국은 포르투갈 국왕에게 넘어갔다. 포르투갈은 서부와 남부 저지대에 대한 주권을 주장하며 콜롬보를 수도로 삼아 이 지역을 식민지로 다스렸다.",
+    "zh": "1597年达摩波罗去世后，根据1580年的遗赠文书，科特王国转归葡萄牙国王所有。葡萄牙人宣称对西部和南部低地拥有主权，并以科伦坡为首府将其作为殖民地统治。",
+    "ja": "1597年にダルマパーラが没すると、1580年の遺贈証書に基づきコーッテ王国はポルトガル国王に渡った。ポルトガルは西部・南部の低地に対する主権を主張し、コロンボを首府として植民地として統治した。"
+   }
+  },
+  {
+   "year": 1619,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Portuguese annex Jaffna",
+    "ko": "포르투갈의 자프나 병합",
+    "zh": "葡萄牙吞并贾夫纳",
+    "ja": "ポルトガルのジャフナ併合"
+   },
+   "description": {
+    "en": "After decades of intervention, the Portuguese deposed and executed Cankili II, the last king of Jaffna, in 1619 and annexed the kingdom. Hindu temples in the north were destroyed and Catholic missions spread, ending the independent Tamil kingdom.",
+    "ko": "수십 년간의 개입 끝에 포르투갈은 1619년 자프나의 마지막 왕 칸킬리 2세를 폐위·처형하고 왕국을 병합했다. 북부의 힌두 사원들이 파괴되고 가톨릭 선교가 확산되면서 독립 타밀 왕국은 막을 내렸다.",
+    "zh": "经过数十年的干预，葡萄牙人于1619年废黜并处决贾夫纳末代国王坎基利二世，吞并了该王国。北部的印度教神庙被毁，天主教传教活动扩展，独立的泰米尔王国就此终结。",
+    "ja": "数十年の介入の末、ポルトガルは1619年にジャフナ最後の王チャンキリ2世を廃位・処刑し、王国を併合した。北部のヒンドゥー寺院は破壊されカトリックの布教が広がり、独立したタミル人の王国は終わった。"
+   }
+  },
+  {
+   "year": 1638,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Gannoruwa and Dutch alliance",
+    "ko": "가노루와 전투와 네덜란드 동맹",
+    "zh": "甘诺鲁瓦战役与荷兰结盟",
+    "ja": "ガンノルワの戦いとオランダとの同盟"
+   },
+   "description": {
+    "en": "In 1638 King Rajasinghe II of Kandy annihilated a Portuguese army at Gannoruwa near Kandy. The same year he signed a treaty with the Dutch East India Company to expel the Portuguese, in return for trade privileges, an alliance that eventually replaced one European power with another.",
+    "ko": "1638년 캔디의 라자싱헤 2세는 캔디 근처 가노루와에서 포르투갈군을 섬멸했다. 같은 해 그는 무역 특권을 주는 대가로 포르투갈을 몰아내기 위해 네덜란드 동인도회사와 조약을 맺었는데, 이 동맹은 결국 한 유럽 세력을 다른 유럽 세력으로 바꾸어 놓았다.",
+    "zh": "1638年，康提国王罗阇辛哈二世在康提附近的甘诺鲁瓦全歼葡萄牙军队。同年，他与荷兰东印度公司签约，以贸易特权换取对方协助驱逐葡萄牙人，结果这一联盟最终只是用一个欧洲强国取代了另一个。",
+    "ja": "1638年、キャンディのラージャシンハ2世はキャンディ近郊のガンノルワでポルトガル軍を殲滅した。同年、彼は交易特権と引き換えにポルトガル人を追い出すためオランダ東インド会社と条約を結んだが、この同盟は結局ある欧州勢力を別の欧州勢力に置き換える結果となった。"
+   }
+  },
+  {
+   "year": 1640,
+   "qid": "Q15277679",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Dutch capture Galle",
+    "ko": "네덜란드의 골 점령",
+    "zh": "荷兰攻占加勒",
+    "ja": "オランダによるゴール占領"
+   },
+   "description": {
+    "en": "In March 1640 Dutch forces stormed the Portuguese fort at Galle on the south coast. Galle became the main Dutch base until Colombo fell in 1656, and the fortifications they later rebuilt there are now a UNESCO World Heritage Site.",
+    "ko": "1640년 3월 네덜란드군은 남부 해안 골의 포르투갈 요새를 강습해 점령했다. 골은 1656년 콜롬보가 함락될 때까지 네덜란드의 주요 기지였으며, 그들이 이후 다시 쌓은 요새는 지금 유네스코 세계유산이다.",
+    "zh": "1640年3月，荷兰军队攻占南部海岸加勒的葡萄牙要塞。在1656年科伦坡陷落之前，加勒一直是荷兰人的主要基地，他们后来在此重建的要塞如今是联合国教科文组织世界遗产。",
+    "ja": "1640年3月、オランダ軍は南岸ゴールのポルトガルの砦を強襲して奪った。ゴールは1656年にコロンボが陥落するまでオランダの主要拠点であり、彼らが後に再建した要塞は現在ユネスコ世界遺産である。"
+   }
+  },
+  {
+   "year": 1658,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Dutch rule over the coasts",
+    "ko": "네덜란드의 해안 지배",
+    "zh": "荷兰统治沿海地区",
+    "ja": "オランダによる沿岸支配"
+   },
+   "description": {
+    "en": "After taking Colombo in 1656, the Dutch captured Jaffna and Mannar in 1658, expelling the Portuguese from the island. Rather than handing the coasts to their ally Kandy, they kept them, ruling the maritime provinces for nearly 140 years and leaving a legacy in Roman-Dutch law, architecture and the Burgher community.",
+    "ko": "1656년 콜롬보를 차지한 네덜란드는 1658년 자프나와 마나르를 점령해 포르투갈을 섬에서 몰아냈다. 그들은 해안을 동맹인 캔디에 넘기지 않고 차지하여 약 140년간 해안 지방을 다스렸으며, 로마-네덜란드법, 건축, 버거 공동체라는 유산을 남겼다.",
+    "zh": "1656年攻取科伦坡后，荷兰人于1658年占领贾夫纳和马纳尔，将葡萄牙人逐出该岛。他们并未把沿海地区交给盟友康提，而是自行占有，统治沿海诸省近140年，留下了罗马-荷兰法、建筑和伯格人群体等遗产。",
+    "ja": "1656年にコロンボを奪ったオランダは、1658年にジャフナとマンナールを占領してポルトガル人を島から追い出した。彼らは沿岸を同盟者キャンディに渡さず自ら保持し、約140年間沿岸州を統治して、ローマ・オランダ法、建築、バーガー人共同体という遺産を残した。"
+   }
+  },
+  {
+   "year": 1681,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Robert Knox's account of Ceylon",
+    "ko": "로버트 녹스의 실론 견문록",
+    "zh": "罗伯特·诺克斯的锡兰见闻",
+    "ja": "ロバート・ノックスのセイロン見聞録"
+   },
+   "description": {
+    "en": "The English sailor Robert Knox, held captive in the Kandyan kingdom from 1660 to 1679, published 'An Historical Relation of the Island Ceylon' in 1681. His detailed description of Kandyan society, government and customs became one of the most important European sources on the kingdom.",
+    "ko": "1660년부터 1679년까지 캔디 왕국에 포로로 잡혀 있던 영국 선원 로버트 녹스는 1681년 『실론섬에 관한 역사적 기술』을 출간했다. 캔디의 사회·정치·풍습에 대한 그의 상세한 묘사는 이 왕국에 관한 가장 중요한 유럽 측 자료 가운데 하나가 되었다.",
+    "zh": "英国水手罗伯特·诺克斯于1660年至1679年被扣留在康提王国，1681年出版了《锡兰岛历史纪实》。他对康提社会、政治和习俗的详细描述成为欧洲了解该王国最重要的资料之一。",
+    "ja": "1660年から1679年までキャンディ王国に捕らわれていた英国の船乗りロバート・ノックスは、1681年に『セイロン島誌』を出版した。キャンディの社会・政治・風習についての詳細な記述は、この王国に関する最も重要なヨーロッパ側の史料の一つとなった。"
+   }
+  },
+  {
+   "year": 1739,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nayak kings in Kandy",
+    "ko": "캔디의 나야크 왕조",
+    "zh": "康提的纳亚克王朝",
+    "ja": "キャンディのナーヤカ朝"
+   },
+   "description": {
+    "en": "When the last Sinhalese king of Kandy, Vira Narendrasinha, died in 1739, the throne passed to his queen's brother from the Madurai Nayak family, Sri Vijaya Rajasinha. The four Nayak kings who followed adopted Buddhism and Sinhalese court culture but relied on South Indian relatives at court.",
+    "ko": "1739년 캔디의 마지막 싱할라계 왕 비라 나렌드라싱하가 죽자, 왕위는 마두라이 나야크 가문 출신인 왕비의 오빠 스리 비자야 라자싱하에게 넘어갔다. 뒤이은 네 명의 나야크 왕들은 불교와 싱할라 궁정 문화를 받아들였지만, 궁정에서 남인도 친족에 의존했다.",
+    "zh": "1739年，康提最后一位僧伽罗族国王维拉·纳伦德拉辛哈去世，王位传给出身马杜赖纳亚克家族的王后之兄室利·维阇耶·罗阇辛哈。此后的四位纳亚克国王皈依佛教并接受僧伽罗宫廷文化，但在宫中依赖南印度亲族。",
+    "ja": "1739年にキャンディ最後のシンハラ系の王ヴィーラ・ナレーンドラシンハが没すると、王位はマドゥライのナーヤカ家出身の王妃の兄シュリー・ヴィジャヤ・ラージャシンハに渡った。続く4人のナーヤカ朝の王は仏教とシンハラの宮廷文化を受け入れたが、宮廷では南インドの親族に頼った。"
+   }
+  },
+  {
+   "year": 1753,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Siyam Nikaya founded",
+    "ko": "시암 니카야 창설",
+    "zh": "暹罗派成立",
+    "ja": "シャム派の成立"
+   },
+   "description": {
+    "en": "King Kirti Sri Rajasinha invited monks from Siam (Thailand) led by Upali Thera, who arrived in 1753 and restored the higher ordination of Buddhist monks, which had lapsed in Sri Lanka. The resulting Siyam Nikaya remains the largest monastic order on the island, and Kirti Sri's reign saw a revival of Buddhist art.",
+    "ko": "키르티 스리 라자싱하 왕은 시암(태국)의 승려들을 초청했고, 1753년 도착한 우팔리 테라 일행은 스리랑카에서 끊겼던 비구 구족계 전통을 되살렸다. 그렇게 생겨난 시암 니카야는 지금도 섬 최대의 승단이며, 키르티 스리의 치세에는 불교 미술이 부흥했다.",
+    "zh": "吉祥罗阇辛哈王邀请暹罗（泰国）僧团来岛，以优波离长老为首的僧人于1753年抵达，恢复了在斯里兰卡已中断的比丘具足戒传承。由此形成的暹罗派至今仍是岛上最大的僧团，吉祥罗阇辛哈在位期间佛教艺术也得以复兴。",
+    "ja": "キールティ・シュリー・ラージャシンハ王はシャム（タイ）から僧を招き、1753年に到着したウパーリ長老らはスリランカで途絶えていた比丘の具足戒を復興した。こうして生まれたシャム派は今も島最大の僧団であり、キールティ・シュリーの治世には仏教美術が復興した。"
+   }
+  },
+  {
+   "year": 1765,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Dutch sack Kandy",
+    "ko": "네덜란드의 캔디 약탈",
+    "zh": "荷兰人洗劫康提",
+    "ja": "オランダによるキャンディ略奪"
+   },
+   "description": {
+    "en": "During a war between Kandy and the Dutch that began in 1760, Dutch forces captured and sacked the city of Kandy in 1765. By the treaty of 1766 Kandy ceded the entire coastal belt to the Dutch, cutting the kingdom off from the sea.",
+    "ko": "1760년에 시작된 캔디와 네덜란드의 전쟁 중 네덜란드군은 1765년 캔디 시를 점령하고 약탈했다. 1766년 조약으로 캔디는 해안 지대 전체를 네덜란드에 넘겨 바다로부터 단절되었다.",
+    "zh": "在1760年爆发的康提与荷兰战争中，荷军于1765年攻占并洗劫康提城。根据1766年的条约，康提将整个沿海地带割让给荷兰，从此与海洋隔绝。",
+    "ja": "1760年に始まったキャンディとオランダの戦争の中で、オランダ軍は1765年にキャンディの町を占領・略奪した。1766年の条約でキャンディは沿岸地帯全体をオランダに割譲し、海から切り離された。"
+   }
+  },
+  {
+   "year": 1782,
+   "qid": "Q5037060",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Struggle for Trincomalee",
+    "ko": "트링코말리 쟁탈전",
+    "zh": "争夺亭可马里",
+    "ja": "トリンコマリー争奪戦"
+   },
+   "description": {
+    "en": "During the Fourth Anglo-Dutch War, the British captured the Dutch fort of Trincomalee in January 1782, prized for its great natural harbour. A French fleet under Admiral Suffren took it back later that year after fierce naval battles off the coast, and it was returned to the Dutch at the peace.",
+    "ko": "제4차 영국-네덜란드 전쟁 중 영국은 1782년 1월 거대한 천연 항구로 귀하게 여겨진 네덜란드의 트링코말리 요새를 점령했다. 그해 후반 쉬프랑 제독이 이끄는 프랑스 함대가 연안에서의 치열한 해전 끝에 이를 되찾았고, 강화 후 네덜란드에 반환되었다.",
+    "zh": "第四次英荷战争期间，英国于1782年1月攻占了因优良天然港而备受重视的荷兰亭可马里要塞。同年晚些时候，叙弗朗海军上将率领的法国舰队经过近海激烈海战将其夺回，和约签订后归还荷兰。",
+    "ja": "第四次英蘭戦争中の1782年1月、英国は優れた天然の良港として重視されたオランダのトリンコマリー要塞を奪った。同年後半、シュフラン提督率いるフランス艦隊が沖合での激しい海戦の末にこれを奪還し、講和後オランダに返還された。"
+   }
+  },
+  {
+   "year": 1796,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "British take the Dutch possessions",
+    "ko": "영국의 네덜란드령 장악",
+    "zh": "英国夺取荷兰属地",
+    "ja": "英国によるオランダ領の掌握"
+   },
+   "description": {
+    "en": "After the Netherlands fell under French revolutionary control, British forces from Madras occupied the Dutch maritime provinces, and Colombo surrendered in February 1796. The territory was initially administered by the East India Company from Madras before becoming a Crown colony.",
+    "ko": "네덜란드가 프랑스 혁명 세력의 통제 아래 들어가자 마드라스에서 온 영국군이 네덜란드의 해안 지방을 점령했고, 콜롬보는 1796년 2월 항복했다. 이 지역은 직할 식민지가 되기 전 처음에는 마드라스의 동인도회사가 관리했다.",
+    "zh": "荷兰落入法国革命势力控制后，英国从马德拉斯派兵占领荷兰的沿海诸省，科伦坡于1796年2月投降。这片领土在成为直辖殖民地之前，起初由东印度公司从马德拉斯管辖。",
+    "ja": "オランダがフランス革命勢力の支配下に入ると、マドラスから来た英国軍がオランダの沿岸州を占領し、コロンボは1796年2月に降伏した。この地域は直轄植民地となる前、当初はマドラスの東インド会社が管理した。"
+   }
+  },
+  {
+   "year": 1802,
+   "qid": "Q918153",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ceylon becomes a Crown colony",
+    "ko": "실론, 영국 직할 식민지가 되다",
+    "zh": "锡兰成为英国直辖殖民地",
+    "ja": "セイロン、英国直轄植民地となる"
+   },
+   "description": {
+    "en": "Ceylon's maritime provinces became a British Crown colony in 1802, separate from British India, and the Treaty of Amiens that year confirmed the Dutch cession. Governor Frederick North set up a colonial administration in Colombo.",
+    "ko": "실론의 해안 지방은 1802년 영국령 인도와 분리된 영국 직할 식민지가 되었으며, 같은 해 아미앵 조약으로 네덜란드의 할양이 확정되었다. 프레더릭 노스 총독은 콜롬보에 식민 행정을 세웠다.",
+    "zh": "1802年，锡兰沿海诸省成为独立于英属印度之外的英国直辖殖民地，同年的《亚眠条约》确认了荷兰的割让。总督弗雷德里克·诺斯在科伦坡建立了殖民行政机构。",
+    "ja": "セイロンの沿岸州は1802年、英領インドとは別の英国直轄植民地となり、同年のアミアン条約でオランダの割譲が確定した。フレデリック・ノース総督はコロンボに植民地行政を整えた。"
+   }
+  },
+  {
+   "year": 1803,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First Kandyan War",
+    "ko": "제1차 캔디 전쟁",
+    "zh": "第一次康提战争",
+    "ja": "第一次キャンディ戦争"
+   },
+   "description": {
+    "en": "In 1803 a British expedition occupied Kandy to install a puppet ruler, but disease and Kandyan resistance forced the garrison to surrender, and most of the retreating troops were killed. The disaster delayed British conquest of the kingdom for twelve years.",
+    "ko": "1803년 영국 원정군은 꼭두각시 통치자를 세우려고 캔디를 점령했으나, 질병과 캔디의 저항으로 수비대는 항복해야 했고 퇴각하던 병사 대부분이 살해되었다. 이 참패로 영국의 캔디 정복은 12년 늦춰졌다.",
+    "zh": "1803年，英国远征军占领康提，企图扶植傀儡统治者，但疾病和康提人的抵抗迫使守军投降，撤退的士兵大多被杀。这场惨败使英国征服康提推迟了十二年。",
+    "ja": "1803年、英国の遠征軍は傀儡の支配者を立てるためキャンディを占領したが、疫病とキャンディ側の抵抗により守備隊は降伏を余儀なくされ、撤退中の兵の大半が殺された。この惨敗により英国のキャンディ征服は12年遅れた。"
+   }
+  },
+  {
+   "year": 1815,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "The British take Kandy",
+    "ko": "영국의 캔디 점령",
+    "zh": "英国占领康提",
+    "ja": "英国によるキャンディ占領"
+   },
+   "description": {
+    "en": "Exploiting the hostility of Kandyan chiefs toward King Sri Vikrama Rajasinha, British troops entered Kandy in 1815 and the king was exiled to India. The Kandyan Convention of 2 March 1815, signed by the chiefs, ceded the kingdom to the British Crown while promising to protect Buddhism, bringing the whole island under a single power for the first time in centuries.",
+    "ko": "스리 비크라마 라자싱하 왕에 대한 캔디 귀족들의 적대감을 이용해 영국군은 1815년 캔디에 들어갔고, 왕은 인도로 유배되었다. 귀족들이 서명한 1815년 3월 2일 캔디 협정은 불교 보호를 약속하면서 왕국을 영국 왕실에 넘겼으며, 이로써 수 세기 만에 처음으로 섬 전체가 단일 세력 아래 놓였다.",
+    "zh": "英国利用康提贵族对国王室利·维克拉马·罗阇辛哈的敌意，于1815年进入康提，国王被流放到印度。由贵族们签署的1815年3月2日《康提协定》在承诺保护佛教的同时将王国割让给英国王室，使全岛数百年来首次处于单一政权之下。",
+    "ja": "シュリー・ヴィクラマ・ラージャシンハ王に対するキャンディの貴族の反感を利用し、英国軍は1815年にキャンディに入り、王はインドへ流された。貴族たちが署名した1815年3月2日のキャンディ協定は、仏教の保護を約束しつつ王国を英国王室に譲り渡し、数世紀ぶりに島全体が単一の勢力の下に置かれた。"
+   }
+  },
+  {
+   "year": 1817,
+   "qid": "Q3534806",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Uva Rebellion",
+    "ko": "우바 반란",
+    "zh": "乌沃起义",
+    "ja": "ウバの反乱"
+   },
+   "description": {
+    "en": "In 1817–18 Kandyan chiefs and villagers rose against British rule in the Uva region, in what became known as the Great Rebellion. The British crushed it with scorched-earth tactics that devastated Uva, executed or exiled leaders such as Keppetipola, and tightened control over the Kandyan provinces.",
+    "ko": "1817~18년 캔디의 귀족과 농민들이 우바 지역에서 영국 통치에 맞서 봉기했으며, 이는 '대반란'으로 알려졌다. 영국은 우바를 황폐화시킨 초토화 전술로 이를 진압하고 케페티폴라 등 지도자들을 처형하거나 추방했으며, 캔디 지방에 대한 통제를 강화했다.",
+    "zh": "1817至1818年，康提贵族和村民在乌沃地区起兵反抗英国统治，史称“大起义”。英国以焦土战术镇压起义，使乌沃满目疮痍，处决或流放了凯佩蒂波拉等领导人，并加强了对康提诸省的控制。",
+    "ja": "1817〜18年、キャンディの貴族と村人はウバ地方で英国の支配に対して蜂起し、「大反乱」と呼ばれた。英国はウバを荒廃させた焦土作戦でこれを鎮圧し、ケッペティポラら指導者を処刑・追放して、キャンディ諸州への統制を強めた。"
+   }
+  },
+  {
+   "year": 1833,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Colebrooke–Cameron reforms",
+    "ko": "콜브룩-캐머런 개혁",
+    "zh": "科尔布鲁克—卡梅伦改革",
+    "ja": "コールブルック＝キャメロン改革"
+   },
+   "description": {
+    "en": "Following a royal commission, the Colebrooke–Cameron reforms of 1833 unified the administration of the Kandyan and maritime provinces, created Executive and Legislative Councils, abolished compulsory labour service (rajakariya) and promoted English education. They laid the foundations of a modern colonial state and a westernised elite.",
+    "ko": "왕립 조사위원회의 권고에 따른 1833년 콜브룩-캐머런 개혁은 캔디 지방과 해안 지방의 행정을 통합하고, 행정평의회와 입법평의회를 만들었으며, 강제 노역(라자카리야)을 폐지하고 영어 교육을 장려했다. 이 개혁은 근대 식민 국가와 서구화된 엘리트의 토대를 놓았다.",
+    "zh": "根据皇家调查委员会的建议，1833年的科尔布鲁克—卡梅伦改革统一了康提诸省和沿海诸省的行政，设立行政会议和立法会议，废除强制劳役（王役），并推广英语教育。这些改革奠定了现代殖民国家和西化精英阶层的基础。",
+    "ja": "王立調査委員会の勧告に基づく1833年のコールブルック＝キャメロン改革は、キャンディ諸州と沿岸州の行政を統合し、行政評議会と立法評議会を設け、強制労役（ラージャカーリヤ）を廃止し、英語教育を奨励した。これらは近代的植民地国家と西洋化したエリートの基礎を築いた。"
+   }
+  },
+  {
+   "year": 1840,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Coffee boom and Indian Tamil labour",
+    "ko": "커피 붐과 인도 타밀 노동자",
+    "zh": "咖啡热潮与印度泰米尔劳工",
+    "ja": "コーヒー景気とインド・タミル人労働者"
+   },
+   "description": {
+    "en": "From the late 1830s British planters cleared highland forests for coffee estates, aided by the Crown Lands Encroachment Ordinance of 1840, which claimed uncultivated land for the Crown. Hundreds of thousands of Tamil labourers were recruited from South India to work the estates, creating the Indian Tamil (Malaiyaha Tamil) community.",
+    "ko": "1830년대 말부터 영국 농장주들은 경작되지 않은 땅을 왕실 소유로 간주한 1840년 왕령지 침범 조례의 도움을 받아 고원 숲을 개간해 커피 농장을 만들었다. 농장 노동을 위해 남인도에서 수십만 명의 타밀 노동자가 모집되었고, 이들이 인도 타밀(말라이야하 타밀) 공동체를 이루었다.",
+    "zh": "自1830年代末起，英国种植园主借助1840年将未耕地收归王室的《王室土地侵占条例》，砍伐高地森林开辟咖啡园。数十万泰米尔劳工从南印度被招募来种植园工作，形成了印度泰米尔人（山地泰米尔人）群体。",
+    "ja": "1830年代末から、英国の農園主は未耕作地を王領とみなす1840年の王領地侵害条例に助けられ、高地の森を切り開いてコーヒー農園を造った。農園で働くため南インドから数十万人のタミル人労働者が集められ、インド・タミル人（マライヤハ・タミル人）の共同体が生まれた。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Matale Rebellion",
+    "ko": "마탈레 반란",
+    "zh": "马特莱起义",
+    "ja": "マータレーの反乱"
+   },
+   "description": {
+    "en": "In 1848 peasants in the Kandyan region around Matale rebelled against new colonial taxes, led by figures such as Gongalegoda Banda and Puran Appu. The rising was quickly suppressed under martial law, but the harsh reprisals caused a scandal in Britain and the recall of Governor Torrington.",
+    "ko": "1848년 마탈레 주변 캔디 지역의 농민들은 공갈레고다 반다와 푸란 아푸 등의 지도 아래 새로운 식민지 세금에 반대해 봉기했다. 봉기는 계엄령 아래 곧 진압되었으나, 가혹한 보복은 영국에서 추문이 되어 토링턴 총독이 소환되었다.",
+    "zh": "1848年，马特莱周边康提地区的农民在贡加勒戈达·班达和普兰·阿普等人领导下起义，反对新的殖民税收。起义在戒严下迅速被镇压，但严酷的报复在英国引起丑闻，总督托林顿因此被召回。",
+    "ja": "1848年、マータレー周辺のキャンディ地方の農民は、ゴンガレーゴダ・バンダやプラン・アップらに率いられ、新たな植民地税に反対して蜂起した。蜂起は戒厳令の下で速やかに鎮圧されたが、苛烈な報復は英国で醜聞となり、トリントン総督は召還された。"
+   }
+  },
+  {
+   "year": 1867,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Tea planting begins",
+    "ko": "차 재배의 시작",
+    "zh": "开始种植茶叶",
+    "ja": "紅茶栽培の始まり"
+   },
+   "description": {
+    "en": "In 1867 the Scottish planter James Taylor established the first commercial tea plantation at Loolecondera estate near Kandy. When a leaf-rust disease destroyed the coffee industry from the 1870s, planters switched to tea, and 'Ceylon tea' became the colony's leading export and a world-famous brand.",
+    "ko": "1867년 스코틀랜드인 농장주 제임스 테일러는 캔디 근처 룰레콘데라 농장에 최초의 상업용 차 농장을 세웠다. 1870년대부터 잎녹병이 커피 산업을 무너뜨리자 농장주들은 차로 전환했고, '실론 티'는 식민지의 주요 수출품이자 세계적 브랜드가 되었다.",
+    "zh": "1867年，苏格兰种植园主詹姆斯·泰勒在康提附近的卢勒康德拉庄园建立了第一个商业茶园。1870年代起叶锈病摧毁了咖啡业，种植园主纷纷改种茶叶，“锡兰红茶”成为该殖民地的主要出口商品和举世闻名的品牌。",
+    "ja": "1867年、スコットランド人の農園主ジェームズ・テイラーはキャンディ近郊のルーレコンデラ農園に最初の商業的な茶園を開いた。1870年代からさび病がコーヒー産業を壊滅させると農園主は紅茶へ転換し、「セイロン・ティー」は植民地の主要輸出品かつ世界的なブランドとなった。"
+   }
+  },
+  {
+   "year": 1873,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Panadura debate and Buddhist revival",
+    "ko": "파나두라 논쟁과 불교 부흥",
+    "zh": "帕纳杜拉辩论与佛教复兴",
+    "ja": "パーナドゥラ論争と仏教復興"
+   },
+   "description": {
+    "en": "In 1873 the monk Mohottivatte Gunananda publicly debated Christian missionaries at Panadura, and reports of his performance spread internationally. Inspired by them, the American Theosophist Henry Steel Olcott came to Ceylon in 1880 and helped found Buddhist schools, strengthening a Buddhist revival that fed later nationalism.",
+    "ko": "1873년 승려 모호티바테 구나난다는 파나두라에서 기독교 선교사들과 공개 논쟁을 벌였고, 그 소식은 국제적으로 퍼졌다. 이에 고무된 미국의 신지학자 헨리 스틸 올콧은 1880년 실론에 와서 불교 학교 설립을 도왔으며, 이는 훗날 민족주의로 이어진 불교 부흥을 강화했다.",
+    "zh": "1873年，僧人莫霍蒂瓦特·古纳南达在帕纳杜拉与基督教传教士公开辩论，其表现的报道传播到海外。受此鼓舞，美国神智学者亨利·斯蒂尔·奥尔科特于1880年来到锡兰，协助创办佛教学校，推动了后来助长民族主义的佛教复兴。",
+    "ja": "1873年、僧モーホッティワッテ・グナーナンダはパーナドゥラでキリスト教宣教師と公開論争を行い、その様子は国際的に伝えられた。これに触発された米国の神智学者ヘンリー・スティール・オルコットは1880年にセイロンを訪れて仏教学校の設立を助け、後の民族主義につながる仏教復興を強めた。"
+   }
+  },
+  {
+   "year": 1915,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "1915 riots and martial law",
+    "ko": "1915년 폭동과 계엄령",
+    "zh": "1915年骚乱与戒严",
+    "ja": "1915年の暴動と戒厳令"
+   },
+   "description": {
+    "en": "In mid-1915 riots broke out between Sinhalese Buddhists and Muslim traders, spreading from Kandy to other areas. The colonial government declared martial law and responded harshly, arresting Sinhalese leaders such as D. S. Senanayake and executing Edward Henry Pedris; the overreaction galvanised the constitutional reform movement.",
+    "ko": "1915년 중반 싱할라 불교도와 무슬림 상인 사이에 폭동이 일어나 캔디에서 다른 지역으로 번졌다. 식민 정부는 계엄령을 선포하고 가혹하게 대응해 D. S. 세나나야케 등 싱할라 지도자들을 체포하고 에드워드 헨리 페드리스를 처형했다. 이 과잉 대응은 헌정 개혁 운동에 불을 붙였다.",
+    "zh": "1915年年中，僧伽罗佛教徒与穆斯林商人之间爆发骚乱，并从康提蔓延到其他地区。殖民政府宣布戒严并严厉镇压，逮捕了D·S·森纳那亚克等僧伽罗领袖，处决了爱德华·亨利·佩德里斯；这种过度反应激发了宪政改革运动。",
+    "ja": "1915年半ば、シンハラ人仏教徒とムスリム商人の間で暴動が起こり、キャンディから各地へ広がった。植民地政府は戒厳令を布告して苛烈に対応し、D・S・セーナーナーヤカらシンハラの指導者を逮捕し、エドワード・ヘンリー・ペドリスを処刑した。この過剰な対応は憲政改革運動を勢いづけた。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ceylon National Congress founded",
+    "ko": "실론 국민회의 창립",
+    "zh": "锡兰国民大会成立",
+    "ja": "セイロン国民会議の結成"
+   },
+   "description": {
+    "en": "In 1919 Sinhalese and Tamil reformers, led by Sir Ponnambalam Arunachalam, founded the Ceylon National Congress to press for constitutional reform and self-government. Disputes over communal representation soon led many Tamil leaders to leave, an early sign of the ethnic divisions that would shape national politics.",
+    "ko": "1919년 포남발람 아루나찰람 경이 이끄는 싱할라·타밀 개혁가들은 헌정 개혁과 자치를 요구하기 위해 실론 국민회의를 창립했다. 그러나 공동체별 대표권을 둘러싼 분쟁으로 많은 타밀 지도자가 곧 탈퇴했으며, 이는 이후 국가 정치를 좌우할 민족 분열의 초기 징후였다.",
+    "zh": "1919年，以波南巴拉姆·阿鲁纳恰兰爵士为首的僧伽罗族和泰米尔族改革者创立锡兰国民大会，要求宪政改革和自治。围绕族群代表权的争执很快使许多泰米尔领袖退出，这是后来主导国家政治的族群分裂的早期迹象。",
+    "ja": "1919年、ポンナンバラム・アルナーチャラム卿に率いられたシンハラ人とタミル人の改革派は、憲政改革と自治を求めてセイロン国民会議を結成した。しかし共同体別代表制をめぐる対立から多くのタミル人指導者がまもなく離脱し、後に国政を左右する民族対立の早い兆候となった。"
+   }
+  },
+  {
+   "year": 1931,
+   "qid": "Q5065808",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Universal suffrage under the Donoughmore Constitution",
+    "ko": "도너모어 헌법과 보통선거",
+    "zh": "多诺莫尔宪法与普选",
+    "ja": "ドナモア憲法と普通選挙"
+   },
+   "description": {
+    "en": "The Donoughmore Constitution of 1931 introduced universal adult suffrage, making Ceylon the first Asian colony, and one of the first places outside the West, where all adult men and women could vote. Elections to the new State Council, with its executive committees run by elected members, gave Ceylonese politicians real experience of government.",
+    "ko": "1931년 도너모어 헌법은 성인 보통선거를 도입하여, 실론을 모든 성인 남녀가 투표할 수 있는 아시아 최초의 식민지이자 서구 밖에서 가장 이른 사례 가운데 하나로 만들었다. 선출 의원이 운영하는 집행위원회를 둔 새 국가평의회 선거는 실론 정치인들에게 실질적인 통치 경험을 주었다.",
+    "zh": "1931年的《多诺莫尔宪法》实行成年人普选，使锡兰成为亚洲第一个、也是西方以外最早实现所有成年男女都可投票的殖民地之一。新设立的国务会议由民选议员主持各执行委员会，其选举使锡兰政治家获得了实际的执政经验。",
+    "ja": "1931年のドナモア憲法は成人普通選挙を導入し、セイロンを全成人男女が投票できるアジア初の植民地、かつ西洋以外で最も早い例の一つとした。選挙で選ばれた議員が執行委員会を運営する新たな国家評議会の選挙は、セイロンの政治家に実際の統治経験を与えた。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": "Q757871",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Japanese raid on Colombo",
+    "ko": "일본군의 콜롬보 공습",
+    "zh": "日军空袭科伦坡",
+    "ja": "日本軍のコロンボ空襲"
+   },
+   "description": {
+    "en": "On Easter Sunday, 5 April 1942, aircraft from a Japanese carrier fleet attacked Colombo harbour, and days later Trincomalee, during the Indian Ocean raid. The attacks sank British warships but failed to destroy the Eastern Fleet, and Ceylon remained a key Allied base and source of rubber for the rest of the war.",
+    "ko": "1942년 4월 5일 부활절 일요일, 인도양 습격 작전 중 일본 항공모함 함대의 항공기들이 콜롬보 항을, 며칠 뒤에는 트링코말리를 공격했다. 공격으로 영국 군함들이 격침되었으나 동양함대를 궤멸시키지는 못했고, 실론은 전쟁 기간 내내 연합군의 핵심 기지이자 고무 공급지로 남았다.",
+    "zh": "1942年4月5日复活节星期日，在印度洋袭击行动中，日本航母舰队的飞机空袭科伦坡港，几天后又袭击亭可马里。空袭击沉了数艘英国军舰，但未能摧毁东方舰队，锡兰在此后的战争中一直是盟军的重要基地和橡胶供应地。",
+    "ja": "1942年4月5日の復活祭の日曜日、インド洋作戦の一環として日本の空母艦隊の艦載機がコロンボ港を、数日後にはトリンコマリーを攻撃した。攻撃は英国の軍艦を沈めたが東洋艦隊を壊滅させるには至らず、セイロンは戦争中ずっと連合国の重要拠点かつゴムの供給地であり続けた。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": "Q2670092",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence as Ceylon",
+    "ko": "실론으로서의 독립",
+    "zh": "锡兰独立",
+    "ja": "セイロンとしての独立"
+   },
+   "description": {
+    "en": "On 4 February 1948 Ceylon became independent from Britain as a dominion, with D. S. Senanayake as its first prime minister. Independence came through peaceful constitutional negotiation rather than armed struggle, and the country inherited relatively strong social indicators and a plantation export economy.",
+    "ko": "1948년 2월 4일 실론은 D. S. 세나나야케를 초대 총리로 하여 자치령으로서 영국으로부터 독립했다. 독립은 무장 투쟁이 아니라 평화로운 헌정 협상을 통해 이루어졌으며, 나라는 비교적 양호한 사회 지표와 플랜테이션 수출 경제를 물려받았다.",
+    "zh": "1948年2月4日，锡兰以自治领身份脱离英国独立，D·S·森纳那亚克出任首任总理。独立是通过和平的宪政谈判而非武装斗争取得的，国家继承了相对较好的社会指标和以种植园出口为主的经济。",
+    "ja": "1948年2月4日、セイロンはD・S・セーナーナーヤカを初代首相として自治領として英国から独立した。独立は武装闘争ではなく平和的な憲政交渉によって達成され、国は比較的良好な社会指標とプランテーション輸出経済を受け継いだ。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Citizenship Act and the Indian Tamils",
+    "ko": "시민권법과 인도 타밀인",
+    "zh": "《公民法》与印度泰米尔人",
+    "ja": "市民権法とインド・タミル人"
+   },
+   "description": {
+    "en": "The Ceylon Citizenship Act of 1948, followed by a 1949 franchise law, denied citizenship and the vote to most plantation workers of Indian Tamil origin, leaving hundreds of thousands stateless. The measures weakened the left and Tamil representation and prompted the founding of S. J. V. Chelvanayakam's Federal Party.",
+    "ko": "1948년 실론 시민권법과 뒤이은 1949년 선거권법은 인도 타밀계 플랜테이션 노동자 대부분에게서 시민권과 투표권을 박탈해 수십만 명을 무국적자로 만들었다. 이 조치는 좌파와 타밀인의 정치적 대표성을 약화시켰고 S. J. V. 첼바나야감의 연방당 창당을 촉발했다.",
+    "zh": "1948年的《锡兰公民法》及1949年的选举权法剥夺了大多数印度泰米尔裔种植园工人的公民身份和投票权，使数十万人沦为无国籍者。这些措施削弱了左翼和泰米尔人的政治代表性，并促使S·J·V·切尔瓦纳亚加姆创立联邦党。",
+    "ja": "1948年のセイロン市民権法と続く1949年の選挙権法は、インド・タミル系のプランテーション労働者の大半から市民権と投票権を奪い、数十万人を無国籍とした。これらの措置は左派とタミル人の政治的代表を弱め、S・J・V・チェルヴァナヤガムの連邦党結成を促した。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Hartal of 1953",
+    "ko": "1953년 하르탈",
+    "zh": "1953年总罢工",
+    "ja": "1953年のハルタール"
+   },
+   "description": {
+    "en": "On 12 August 1953 left-wing parties led a nationwide hartal, a general strike and civil disobedience campaign, against the government's withdrawal of the rice subsidy. Several protesters were killed by police, and Prime Minister Dudley Senanayake resigned soon afterwards.",
+    "ko": "1953년 8월 12일 좌파 정당들은 정부의 쌀 보조금 폐지에 반대해 전국적인 하르탈, 곧 총파업과 시민 불복종 운동을 이끌었다. 경찰의 발포로 시위대 여러 명이 숨졌고, 더들리 세나나야케 총리는 얼마 뒤 사임했다.",
+    "zh": "1953年8月12日，左翼政党针对政府取消大米补贴，领导了一场全国性的“哈塔尔”，即总罢工和公民不服从运动。数名抗议者被警察打死，总理达德利·森纳那亚克不久后辞职。",
+    "ja": "1953年8月12日、左派政党は政府による米補助金の廃止に反対し、全国的なハルタール（ゼネストと市民的不服従運動）を主導した。警察の発砲で抗議者数人が死亡し、ダッドリー・セーナーナーヤカ首相はまもなく辞任した。"
+   }
+  },
+  {
+   "year": 1956,
+   "qid": "Q3534911",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Sinhala Only Act",
+    "ko": "싱할라어 단일 공용어법",
+    "zh": "《僧伽罗语唯一法》",
+    "ja": "シンハラ語公用語法"
+   },
+   "description": {
+    "en": "S. W. R. D. Bandaranaike's coalition won the 1956 election on a wave of Sinhalese Buddhist nationalism and passed the Official Language Act, making Sinhala the sole official language in place of English. Tamil speakers, who lost access to government jobs, protested, and anti-Tamil violence followed; the act is widely seen as a root of the ethnic conflict.",
+    "ko": "S. W. R. D. 반다라나이케의 연합은 싱할라 불교 민족주의의 물결을 타고 1956년 선거에서 승리했으며, 영어 대신 싱할라어를 유일한 공용어로 정한 공용어법을 통과시켰다. 공직 진출 길이 막힌 타밀어 사용자들이 항의했고 반타밀 폭력이 뒤따랐으며, 이 법은 민족 분쟁의 뿌리로 널리 여겨진다.",
+    "zh": "S·W·R·D·班达拉奈克的联盟借僧伽罗佛教民族主义浪潮赢得1956年大选，并通过《官方语言法》，以僧伽罗语取代英语作为唯一官方语言。失去公职机会的泰米尔语使用者提出抗议，随后发生了针对泰米尔人的暴力事件；该法被普遍视为族群冲突的根源之一。",
+    "ja": "S・W・R・D・バンダラナイケの連合はシンハラ仏教ナショナリズムの波に乗って1956年の選挙に勝ち、英語に代えてシンハラ語を唯一の公用語とする公用語法を成立させた。公職への道を閉ざされたタミル語話者は抗議し、反タミル暴力が続いた。この法は民族紛争の根源の一つと広くみなされている。"
+   }
+  },
+  {
+   "year": 1957,
+   "qid": "Q4854445",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Bandaranaike–Chelvanayakam Pact",
+    "ko": "반다라나이케-첼바나야감 협정",
+    "zh": "班达拉奈克—切尔瓦纳亚加姆协定",
+    "ja": "バンダラナイケ＝チェルヴァナヤガム協定"
+   },
+   "description": {
+    "en": "In July 1957 Prime Minister Bandaranaike and Federal Party leader S. J. V. Chelvanayakam agreed on regional councils and a recognised status for Tamil in the north and east. Under pressure from Buddhist monks and the opposition UNP, Bandaranaike abandoned the pact in 1958, a missed opportunity often cited in later history.",
+    "ko": "1957년 7월 반다라나이케 총리와 연방당 대표 S. J. V. 첼바나야감은 북부와 동부에 지역 평의회를 두고 타밀어의 지위를 인정하는 데 합의했다. 그러나 불교 승려들과 야당 통일국민당의 압력으로 반다라나이케는 1958년 협정을 폐기했으며, 이는 훗날 자주 언급되는 놓친 기회가 되었다.",
+    "zh": "1957年7月，班达拉奈克总理与联邦党领袖S·J·V·切尔瓦纳亚加姆就在北部和东部设立地区委员会、承认泰米尔语地位达成协议。在佛教僧侣和反对党统一国民党的压力下，班达拉奈克于1958年放弃了该协定，这被后人视为一次错失的机会。",
+    "ja": "1957年7月、バンダラナイケ首相と連邦党党首S・J・V・チェルヴァナヤガムは、北部と東部に地域評議会を設けタミル語の地位を認めることで合意した。しかし仏教僧と野党統一国民党の圧力により、バンダラナイケは1958年に協定を破棄し、後にしばしば語られる逸した機会となった。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "1958 riots",
+    "ko": "1958년 폭동",
+    "zh": "1958年骚乱",
+    "ja": "1958年の暴動"
+   },
+   "description": {
+    "en": "In May–June 1958 the first island-wide ethnic riots since independence broke out, in which mobs killed or attacked mostly Tamil civilians and many Tamils fled to the north and east. A state of emergency was declared, and the violence deepened mistrust between the communities.",
+    "ko": "1958년 5~6월 독립 이후 처음으로 섬 전역에 걸친 민족 폭동이 일어나, 폭도들이 주로 타밀 민간인을 살해하거나 공격했고 많은 타밀인이 북부와 동부로 피신했다. 비상사태가 선포되었으며, 폭력은 공동체 간 불신을 깊게 했다.",
+    "zh": "1958年5月至6月，独立以来首次全岛性族群骚乱爆发，暴徒杀害或袭击的对象主要是泰米尔平民，许多泰米尔人逃往北部和东部。政府宣布紧急状态，这场暴力加深了族群间的不信任。",
+    "ja": "1958年5〜6月、独立後初の島全体に及ぶ民族暴動が起こり、暴徒は主にタミル人民間人を殺害・襲撃し、多くのタミル人が北部と東部へ逃れた。非常事態が宣言され、暴力は共同体間の不信を深めた。"
+   }
+  },
+  {
+   "year": 1959,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of S. W. R. D. Bandaranaike",
+    "ko": "S. W. R. D. 반다라나이케 암살",
+    "zh": "S·W·R·D·班达拉奈克遇刺",
+    "ja": "S・W・R・D・バンダラナイケ暗殺"
+   },
+   "description": {
+    "en": "On 25 September 1959 Prime Minister Bandaranaike was shot at his home in Colombo by a Buddhist monk, Talduwe Somarama, and died the next day. The conspiracy, involving other monks and politicians, shocked the country and paved the way for his widow Sirimavo's entry into politics.",
+    "ko": "1959년 9월 25일 반다라나이케 총리는 콜롬보 자택에서 불교 승려 탈두웨 소마라마의 총에 맞아 다음 날 숨졌다. 다른 승려와 정치인이 연루된 이 음모는 나라에 충격을 주었고, 그의 미망인 시리마보가 정치에 뛰어드는 계기가 되었다.",
+    "zh": "1959年9月25日，班达拉奈克总理在科伦坡家中被佛教僧人塔尔杜维·索马拉马枪击，次日身亡。这起牵涉其他僧侣和政界人物的阴谋震惊全国，也为其遗孀西丽玛沃步入政坛铺平了道路。",
+    "ja": "1959年9月25日、バンダラナイケ首相はコロンボの自宅で仏教僧タルドゥウェ・ソーマーラーマに撃たれ、翌日死亡した。他の僧や政治家も関与したこの陰謀は国に衝撃を与え、未亡人シリマヴォの政界入りへの道を開いた。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "World's first female prime minister",
+    "ko": "세계 최초의 여성 총리",
+    "zh": "世界首位女总理",
+    "ja": "世界初の女性首相"
+   },
+   "description": {
+    "en": "In July 1960 Sirimavo Bandaranaike led the Sri Lanka Freedom Party to victory and became the world's first woman to be elected head of government. Her governments nationalised key industries, pursued non-alignment and strengthened the position of Sinhala and Buddhism; she served as prime minister three times.",
+    "ko": "1960년 7월 시리마보 반다라나이케는 스리랑카 자유당을 승리로 이끌고 선거로 선출된 세계 최초의 여성 정부 수반이 되었다. 그의 정부는 주요 산업을 국유화하고 비동맹 노선을 추구했으며 싱할라어와 불교의 지위를 강화했고, 그는 세 차례 총리를 지냈다.",
+    "zh": "1960年7月，西丽玛沃·班达拉奈克率领斯里兰卡自由党赢得大选，成为世界上第一位经选举产生的女性政府首脑。她的政府将重要产业国有化，奉行不结盟政策，并强化僧伽罗语和佛教的地位；她先后三度出任总理。",
+    "ja": "1960年7月、シリマヴォ・バンダラナイケはスリランカ自由党を勝利に導き、選挙で選ばれた世界初の女性の政府首脳となった。彼女の政権は主要産業を国有化し、非同盟路線をとり、シンハラ語と仏教の地位を強化した。彼女は3度首相を務めた。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Sirima–Shastri Pact",
+    "ko": "시리마-샤스트리 협정",
+    "zh": "西丽玛—夏斯特里协定",
+    "ja": "シリマ＝シャストリ協定"
+   },
+   "description": {
+    "en": "In October 1964 Sirimavo Bandaranaike and Indian Prime Minister Lal Bahadur Shastri agreed on the future of the stateless Indian Tamils: several hundred thousand were to be repatriated to India and a smaller number granted Ceylonese citizenship. Implementation was slow, and the last stateless plantation workers received citizenship only in the 2000s.",
+    "ko": "1964년 10월 시리마보 반다라나이케와 인도 총리 랄 바하두르 샤스트리는 무국적 인도 타밀인의 장래에 합의했다. 수십만 명은 인도로 송환되고 그보다 적은 수는 실론 시민권을 받기로 했다. 이행은 더디게 진행되어, 마지막 무국적 플랜테이션 노동자들은 2000년대에야 시민권을 받았다.",
+    "zh": "1964年10月，西丽玛沃·班达拉奈克与印度总理拉尔·巴哈杜尔·夏斯特里就无国籍印度泰米尔人的前途达成协议：数十万人将被遣返印度，较少的一部分则获得锡兰国籍。协议执行缓慢，最后一批无国籍种植园工人直到2000年代才获得公民身份。",
+    "ja": "1964年10月、シリマヴォ・バンダラナイケとインドのラール・バハードゥル・シャーストリー首相は無国籍のインド・タミル人の処遇で合意し、数十万人をインドへ送還し、それより少ない人数にセイロン市民権を与えることとした。実施は遅れ、最後の無国籍のプランテーション労働者が市民権を得たのは2000年代になってからであった。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "1971 JVP insurrection",
+    "ko": "1971년 JVP 봉기",
+    "zh": "1971年人民解放阵线起义",
+    "ja": "1971年のJVP蜂起"
+   },
+   "description": {
+    "en": "In April 1971 the Janatha Vimukthi Peramuna (JVP), a Marxist movement of mostly rural Sinhalese youth led by Rohana Wijeweera, launched an armed uprising against the government. It was crushed within weeks with foreign military assistance, and thousands of people were killed.",
+    "ko": "1971년 4월 로하나 위제위라가 이끄는, 주로 농촌 싱할라 청년들로 이루어진 마르크스주의 운동 인민해방전선(JVP)이 정부에 맞서 무장 봉기를 일으켰다. 봉기는 외국의 군사 지원을 받은 정부에 의해 몇 주 만에 진압되었고 수천 명이 목숨을 잃었다.",
+    "zh": "1971年4月，由罗哈纳·维杰维拉领导、主要由农村僧伽罗青年组成的马克思主义运动——人民解放阵线发动反政府武装起义。政府在外国军事援助下数周内将其镇压，数千人丧生。",
+    "ja": "1971年4月、ローハナ・ウィジェウィーラが率い、主に農村のシンハラ人青年からなるマルクス主義運動の人民解放戦線（JVP）が政府に対して武装蜂起した。蜂起は外国の軍事支援を受けた政府により数週間で鎮圧され、数千人が死亡した。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": "Q854",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Republic of Sri Lanka",
+    "ko": "스리랑카 공화국 수립",
+    "zh": "斯里兰卡共和国成立",
+    "ja": "スリランカ共和国の成立"
+   },
+   "description": {
+    "en": "On 22 May 1972 a new constitution made the country a republic within the Commonwealth, renamed it Sri Lanka and ended the role of the British monarch. It gave Buddhism the 'foremost place' and entrenched Sinhala as the official language, provisions that further alienated Tamil parties.",
+    "ko": "1972년 5월 22일 새 헌법으로 나라는 영연방 내 공화국이 되었고, 국명을 스리랑카로 바꾸며 영국 군주의 역할을 끝냈다. 헌법은 불교에 '최우선적 지위'를 부여하고 싱할라어를 공용어로 굳혔는데, 이 조항들은 타밀 정당들을 더욱 소외시켰다.",
+    "zh": "1972年5月22日，新宪法使该国成为英联邦内的共和国，更名为斯里兰卡，并终止了英国君主的角色。宪法赋予佛教“最重要地位”并确立僧伽罗语为官方语言，这些条款进一步疏远了泰米尔政党。",
+    "ja": "1972年5月22日、新憲法により国は英連邦内の共和国となり、国名をスリランカと改め、英国君主の役割を終わらせた。憲法は仏教に「最優先の地位」を与え、シンハラ語を公用語として固定したが、これらの規定はタミル系政党をさらに遠ざけた。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Executive presidency and open economy",
+    "ko": "집행 대통령제와 개방 경제",
+    "zh": "执行总统制与开放经济",
+    "ja": "執行大統領制と開放経済"
+   },
+   "description": {
+    "en": "After the UNP's landslide in 1977, J. R. Jayewardene liberalised the economy, opening it to foreign investment and launching the Mahaweli irrigation scheme. The 1978 constitution created a powerful executive presidency, with Jayewardene as the first executive president, and introduced proportional representation.",
+    "ko": "1977년 통일국민당의 압승 이후 J. R. 자야와르데네는 경제를 자유화하여 외국인 투자에 개방하고 마하웰리 관개 사업을 시작했다. 1978년 헌법은 강력한 집행 대통령제를 만들었으며, 자야와르데네가 초대 집행 대통령이 되었고 비례대표제가 도입되었다.",
+    "zh": "统一国民党在1977年大选中压倒性获胜后，J·R·贾亚瓦德纳推行经济自由化，向外资开放，并启动马哈韦利灌溉工程。1978年宪法设立了强有力的执行总统制，贾亚瓦德纳成为首任执行总统，并引入比例代表制。",
+    "ja": "1977年の統一国民党の圧勝の後、J・R・ジャヤワルダナは経済を自由化して外国投資に開放し、マハウェリ灌漑計画を始めた。1978年憲法は強力な執行大統領制を設け、ジャヤワルダナが初代執行大統領となり、比例代表制が導入された。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": "Q3535947",
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Burning of the Jaffna Public Library",
+    "ko": "자프나 공공도서관 방화",
+    "zh": "贾夫纳公共图书馆被焚",
+    "ja": "ジャフナ公共図書館焼き討ち"
+   },
+   "description": {
+    "en": "On the night of 31 May–1 June 1981, during district council elections, an organised mob that included police burned the Jaffna Public Library, one of the largest libraries in Asia, destroying tens of thousands of books and rare manuscripts. The destruction of this symbol of Tamil learning deeply embittered Tamils and fuelled militancy.",
+    "ko": "1981년 5월 31일 밤부터 6월 1일 사이, 지방 평의회 선거 기간 중 경찰이 포함된 조직적인 폭도가 아시아 최대급 도서관이던 자프나 공공도서관에 불을 질러 수만 권의 책과 희귀 필사본을 소실시켰다. 타밀 학문의 상징이 파괴된 이 사건은 타밀인들을 깊이 분노하게 했고 무장 투쟁을 부추겼다.",
+    "zh": "1981年5月31日夜至6月1日，在地区委员会选举期间，一伙包括警察在内的有组织暴徒焚烧了亚洲最大的图书馆之一——贾夫纳公共图书馆，数万册图书和珍贵手稿化为灰烬。这一泰米尔学术象征的毁灭令泰米尔人深感愤恨，助长了武装斗争。",
+    "ja": "1981年5月31日夜から6月1日にかけて、地区評議会選挙の最中に警官を含む組織的な暴徒がアジア最大級の図書館の一つであるジャフナ公共図書館に放火し、数万冊の書籍と貴重な写本を焼失させた。タミルの学問の象徴の破壊はタミル人を深く憤らせ、武装闘争を助長した。"
+   }
+  },
+  {
+   "year": 1983,
+   "qid": "Q213394",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Black July and the start of the civil war",
+    "ko": "검은 7월과 내전의 시작",
+    "zh": "“黑色七月”与内战爆发",
+    "ja": "黒い7月と内戦の始まり"
+   },
+   "description": {
+    "en": "After the LTTE killed thirteen soldiers in an ambush near Jaffna on 23 July 1983, anti-Tamil pogroms swept Colombo and other areas; estimates of the dead range from several hundred to around 3,000, and Tamil prisoners were killed in Welikada prison. Tens of thousands of Tamils fled abroad or to the north, and the violence marked the start of a 26-year civil war.",
+    "ko": "1983년 7월 23일 LTTE가 자프나 근처 매복 공격으로 군인 13명을 살해한 뒤, 콜롬보 등지에서 반타밀 학살이 휩쓸었다. 사망자 추정치는 수백 명에서 약 3,000명에 이르며, 웰리카다 교도소에서는 타밀인 수감자들이 살해되었다. 수만 명의 타밀인이 해외나 북부로 피신했고, 이 폭력은 26년 내전의 시작이 되었다.",
+    "zh": "1983年7月23日猛虎组织在贾夫纳附近伏击杀死13名士兵后，针对泰米尔人的屠杀席卷科伦坡等地；死亡人数估计从数百人到约3000人不等，韦利卡达监狱中的泰米尔囚犯也遭杀害。数以万计的泰米尔人逃往海外或北部，这场暴力标志着长达26年内战的开始。",
+    "ja": "1983年7月23日にLTTEがジャフナ近郊の待ち伏せで兵士13人を殺害すると、コロンボなどで反タミル暴動が吹き荒れた。死者の推計は数百人から約3000人に及び、ウェリカダ刑務所ではタミル人囚人が殺害された。数万人のタミル人が国外や北部へ逃れ、この暴力が26年に及ぶ内戦の始まりとなった。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": "Q4777890",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Anuradhapura massacre",
+    "ko": "아누라다푸라 학살",
+    "zh": "阿努拉德普勒屠杀",
+    "ja": "アヌラーダプラ虐殺"
+   },
+   "description": {
+    "en": "On 14 May 1985 LTTE gunmen attacked civilians in Anuradhapura, including Buddhist pilgrims at the Sri Maha Bodhi shrine, killing more than 140 people. It was one of the deadliest attacks on Sinhalese civilians in the war and was followed by reprisals against Tamils.",
+    "ko": "1985년 5월 14일 LTTE 무장대원들이 스리 마하 보디 성지의 불교 순례자를 포함한 아누라다푸라의 민간인들을 공격해 140명 넘게 살해했다. 이는 전쟁 중 싱할라 민간인에 대한 가장 참혹한 공격 가운데 하나였으며, 이후 타밀인에 대한 보복이 뒤따랐다.",
+    "zh": "1985年5月14日，猛虎组织武装人员袭击阿努拉德普勒的平民，包括圣菩提树圣地的佛教朝圣者，造成140余人死亡。这是战争中针对僧伽罗平民最血腥的袭击之一，随后发生了针对泰米尔人的报复。",
+    "ja": "1985年5月14日、LTTEの武装集団がスリー・マハー菩提樹の聖地の仏教巡礼者を含むアヌラーダプラの民間人を襲撃し、140人以上を殺害した。戦争中のシンハラ人民間人に対する最も凄惨な攻撃の一つであり、その後タミル人への報復が続いた。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": "Q6022577",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Indo-Sri Lanka Accord and the IPKF",
+    "ko": "인도-스리랑카 협정과 인도 평화유지군",
+    "zh": "印斯协议与印度维和部队",
+    "ja": "インド・スリランカ協定とインド平和維持軍"
+   },
+   "description": {
+    "en": "In July 1987 Rajiv Gandhi and J. R. Jayewardene signed the Indo-Sri Lanka Accord, which led to the Thirteenth Amendment creating provincial councils and made Tamil an official language. An Indian Peace Keeping Force was deployed to the north and east but was soon fighting the LTTE, which rejected disarmament; it withdrew in 1990 after heavy losses.",
+    "ko": "1987년 7월 라지브 간디와 J. R. 자야와르데네는 인도-스리랑카 협정에 서명했으며, 이에 따라 주 평의회를 만든 제13차 헌법 개정이 이루어지고 타밀어가 공용어가 되었다. 인도 평화유지군이 북부와 동부에 배치되었으나 곧 무장 해제를 거부한 LTTE와 싸우게 되었고, 큰 피해를 입은 뒤 1990년 철수했다.",
+    "zh": "1987年7月，拉吉夫·甘地与J·R·贾亚瓦德纳签署《印斯协议》，据此通过宪法第十三修正案设立省议会，并使泰米尔语成为官方语言。印度维和部队被派驻北部和东部，但很快就与拒绝解除武装的猛虎组织交战，在遭受重大伤亡后于1990年撤出。",
+    "ja": "1987年7月、ラジーヴ・ガンディーとJ・R・ジャヤワルダナはインド・スリランカ協定に署名し、これに基づき州評議会を設ける第13次憲法改正が行われ、タミル語が公用語となった。インド平和維持軍が北部と東部に派遣されたが、まもなく武装解除を拒むLTTEと戦うことになり、大きな損害を出して1990年に撤退した。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": "Q4584263",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Second JVP insurrection",
+    "ko": "제2차 JVP 봉기",
+    "zh": "第二次人民解放阵线起义",
+    "ja": "第二次JVP蜂起"
+   },
+   "description": {
+    "en": "Opposing the Indo-Sri Lanka Accord and the presence of Indian troops, the JVP launched a campaign of assassinations, strikes and intimidation across the south from 1987. The government's counter-insurgency, involving death squads and mass disappearances, crushed the movement by the end of 1989 with the killing of Rohana Wijeweera; tens of thousands of people died.",
+    "ko": "인도-스리랑카 협정과 인도군 주둔에 반대한 JVP는 1987년부터 남부 전역에서 암살·파업·협박 운동을 벌였다. 암살대와 대규모 실종을 동반한 정부의 대반란 작전은 1989년 말 로하나 위제위라를 살해하며 운동을 분쇄했고, 수만 명이 목숨을 잃었다.",
+    "zh": "人民解放阵线反对《印斯协议》和印度军队驻扎，自1987年起在南部各地发动暗杀、罢工和恐吓运动。政府的平叛行动伴随着行刑队和大规模失踪事件，于1989年底击毙罗哈纳·维杰维拉，镇压了该运动；数万人死亡。",
+    "ja": "インド・スリランカ協定とインド軍の駐留に反対したJVPは、1987年から南部全域で暗殺・ストライキ・脅迫の運動を展開した。暗殺部隊や大規模な失踪を伴う政府の対反乱作戦は、1989年末にローハナ・ウィジェウィーラを殺害して運動を鎮圧し、数万人が死亡した。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q11050383",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Eelam War II and expulsion of northern Muslims",
+    "ko": "제2차 엘람 전쟁과 북부 무슬림 추방",
+    "zh": "第二次伊拉姆战争与北部穆斯林被驱逐",
+    "ja": "第二次イーラム戦争と北部ムスリムの追放"
+   },
+   "description": {
+    "en": "After the Indian withdrawal, fighting between the government and the LTTE resumed in June 1990. In August the LTTE massacred Muslim worshippers at mosques in Kattankudy, and in October it expelled the entire Muslim population of the Northern Province, tens of thousands of people, giving them hours to leave.",
+    "ko": "인도군 철수 뒤 1990년 6월 정부와 LTTE 간 전투가 재개되었다. 8월 LTTE는 카탄쿠디의 모스크에서 예배하던 무슬림들을 학살했고, 10월에는 북부주의 무슬림 주민 수만 명 전원을 단 몇 시간의 말미만 주고 추방했다.",
+    "zh": "印度军队撤离后，政府与猛虎组织之间的战斗于1990年6月重新爆发。8月，猛虎组织在卡坦库迪的清真寺屠杀正在礼拜的穆斯林；10月，它又将北方省全部数万名穆斯林居民驱逐出境，只给他们几个小时离开。",
+    "ja": "インド軍の撤退後、1990年6月に政府とLTTEの戦闘が再開した。8月、LTTEはカッタンクディのモスクで礼拝中のムスリムを虐殺し、10月には北部州のムスリム住民数万人全員を、わずか数時間の猶予で追放した。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "President Premadasa assassinated",
+    "ko": "프레마다사 대통령 암살",
+    "zh": "普雷马达萨总统遇刺",
+    "ja": "プレマダーサ大統領暗殺"
+   },
+   "description": {
+    "en": "On 1 May 1993 President Ranasinghe Premadasa was killed by an LTTE suicide bomber during a May Day rally in Colombo. The LTTE had also assassinated former Indian Prime Minister Rajiv Gandhi in 1991, and its suicide attacks claimed many senior Sri Lankan politicians.",
+    "ko": "1993년 5월 1일 라나싱헤 프레마다사 대통령은 콜롬보의 노동절 집회에서 LTTE 자살 폭탄 공격으로 숨졌다. LTTE는 1991년 라지브 간디 전 인도 총리도 암살했으며, 그 자살 공격으로 스리랑카의 많은 고위 정치인이 목숨을 잃었다.",
+    "zh": "1993年5月1日，拉纳辛哈·普雷马达萨总统在科伦坡的五一集会上被猛虎组织的自杀式炸弹袭击者杀害。猛虎组织还于1991年刺杀了印度前总理拉吉夫·甘地，其自杀式袭击夺去了许多斯里兰卡高层政治人物的生命。",
+    "ja": "1993年5月1日、ラナシンハ・プレマダーサ大統領はコロンボのメーデー集会でLTTEの自爆攻撃により殺害された。LTTEは1991年にインドのラジーヴ・ガンディー元首相も暗殺しており、その自爆攻撃でスリランカの多くの政府高官が命を落とした。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": "Q11154636",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Army retakes Jaffna",
+    "ko": "정부군의 자프나 탈환",
+    "zh": "政府军收复贾夫纳",
+    "ja": "政府軍のジャフナ奪還"
+   },
+   "description": {
+    "en": "After President Chandrika Kumaratunga's peace talks with the LTTE collapsed in April 1995, Eelam War III began. In December 1995 the army captured Jaffna city, the LTTE's stronghold, as hundreds of thousands of civilians were displaced; the LTTE regrouped in the Vanni jungles.",
+    "ko": "1995년 4월 찬드리카 쿠마라퉁가 대통령과 LTTE의 평화 협상이 결렬되면서 제3차 엘람 전쟁이 시작되었다. 1995년 12월 정부군은 LTTE의 거점인 자프나 시를 점령했고 수십만 명의 민간인이 피란했으며, LTTE는 반니 정글에서 전열을 재정비했다.",
+    "zh": "1995年4月，钱德里卡·库马拉通加总统与猛虎组织的和谈破裂，第三次伊拉姆战争爆发。1995年12月，政府军攻占猛虎组织的据点贾夫纳市，数十万平民流离失所；猛虎组织则在万尼丛林中重整旗鼓。",
+    "ja": "1995年4月にチャンドリカ・クマーラトゥンガ大統領とLTTEの和平交渉が決裂し、第三次イーラム戦争が始まった。1995年12月、政府軍はLTTEの拠点ジャフナ市を制圧し、数十万人の民間人が避難した。LTTEはヴァンニのジャングルで態勢を立て直した。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": "Q5060415",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Central Bank bombing",
+    "ko": "중앙은행 폭탄 테러",
+    "zh": "中央银行爆炸案",
+    "ja": "中央銀行爆破事件"
+   },
+   "description": {
+    "en": "On 31 January 1996 LTTE suicide bombers drove a truck packed with explosives into the Central Bank in Colombo's business district, killing about 90 people and wounding well over a thousand. It was one of the deadliest attacks of the war on the capital.",
+    "ko": "1996년 1월 31일 LTTE 자살 폭탄 대원들이 폭발물을 가득 실은 트럭을 몰고 콜롬보 상업 지구의 중앙은행으로 돌진해 약 90명이 숨지고 1,000명을 훨씬 넘는 사람이 다쳤다. 이는 전쟁 중 수도에 대한 가장 참혹한 공격 가운데 하나였다.",
+    "zh": "1996年1月31日，猛虎组织自杀式袭击者驾驶满载炸药的卡车冲入科伦坡商业区的中央银行，造成约90人死亡、上千人受伤。这是战争期间首都遭受的最严重袭击之一。",
+    "ja": "1996年1月31日、LTTEの自爆攻撃者が爆発物を満載したトラックでコロンボのビジネス街にある中央銀行に突入し、約90人が死亡、千人をはるかに超える負傷者を出した。戦争中に首都が受けた最も凄惨な攻撃の一つである。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Cricket World Cup victory",
+    "ko": "크리켓 월드컵 우승",
+    "zh": "赢得板球世界杯",
+    "ja": "クリケット・ワールドカップ優勝"
+   },
+   "description": {
+    "en": "On 17 March 1996 Sri Lanka, captained by Arjuna Ranatunga, defeated Australia in the final in Lahore to win the Cricket World Cup. The victory, achieved with an innovative aggressive batting style, was a moment of national unity during the war and made cricket central to Sri Lankan identity.",
+    "ko": "1996년 3월 17일 아르주나 라나퉁가가 주장을 맡은 스리랑카는 라호르에서 열린 결승에서 오스트레일리아를 꺾고 크리켓 월드컵에서 우승했다. 혁신적인 공격형 타격으로 거둔 이 승리는 전쟁 중 국민 통합의 순간이었으며, 크리켓을 스리랑카 정체성의 중심에 올려놓았다.",
+    "zh": "1996年3月17日，由阿尔琼·拉纳通加任队长的斯里兰卡队在拉合尔决赛中击败澳大利亚，夺得板球世界杯冠军。这场以创新的进攻型击球风格取得的胜利，是战争期间举国团结的时刻，也使板球成为斯里兰卡认同的核心。",
+    "ja": "1996年3月17日、アルジュナ・ラナトゥンガ主将率いるスリランカはラホールでの決勝でオーストラリアを破り、クリケット・ワールドカップで優勝した。革新的な攻撃的打撃で得たこの勝利は戦時下の国民統合の瞬間となり、クリケットをスリランカのアイデンティティの中心に据えた。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": "Q4594025",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Attack on the Temple of the Tooth",
+    "ko": "불치사 공격",
+    "zh": "佛牙寺遇袭",
+    "ja": "仏歯寺への攻撃"
+   },
+   "description": {
+    "en": "On 25 January 1998 LTTE suicide bombers detonated a truck bomb at the entrance of the Temple of the Tooth in Kandy, the island's holiest Buddhist shrine, killing more than a dozen people. The government responded by formally banning the LTTE.",
+    "ko": "1998년 1월 25일 LTTE 자살 폭탄 대원들이 섬에서 가장 신성한 불교 성지인 캔디 불치사 입구에서 트럭 폭탄을 터뜨려 10여 명이 숨졌다. 정부는 이에 대응해 LTTE를 공식적으로 불법화했다.",
+    "zh": "1998年1月25日，猛虎组织自杀式袭击者在岛上最神圣的佛教圣地——康提佛牙寺入口引爆卡车炸弹，造成十余人死亡。政府随即正式宣布取缔猛虎组织。",
+    "ja": "1998年1月25日、LTTEの自爆攻撃者が島で最も神聖な仏教の聖地であるキャンディの仏歯寺入口でトラック爆弾を爆発させ、十数人が死亡した。政府はこれを受けてLTTEを正式に非合法化した。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Norwegian-brokered ceasefire",
+    "ko": "노르웨이 중재 휴전",
+    "zh": "挪威斡旋的停火",
+    "ja": "ノルウェー仲介の停戦"
+   },
+   "description": {
+    "en": "In February 2002 Prime Minister Ranil Wickremesinghe and LTTE leader Velupillai Prabhakaran signed a ceasefire agreement brokered by Norway, followed by rounds of peace talks. The truce brought several years of relative calm, but talks stalled, violations mounted, and full-scale war resumed in 2006.",
+    "ko": "2002년 2월 라닐 위크레메싱헤 총리와 LTTE 지도자 벨루필라이 프라바카란은 노르웨이의 중재로 휴전 협정에 서명했고, 여러 차례 평화 회담이 이어졌다. 휴전은 몇 년간 상대적 평온을 가져왔으나 회담은 교착되고 위반이 늘어나 2006년 전면전이 재개되었다.",
+    "zh": "2002年2月，总理拉尼尔·维克勒马辛哈与猛虎组织领导人韦卢皮莱·普拉巴卡兰在挪威斡旋下签署停火协议，随后举行了多轮和谈。停火带来了数年的相对平静，但谈判陷入僵局，违约事件增多，2006年全面战争再度爆发。",
+    "ja": "2002年2月、ラニル・ウィクラマシンハ首相とLTTE指導者ヴェルピライ・プラバカランはノルウェーの仲介で停戦協定に署名し、和平交渉が重ねられた。停戦は数年間の比較的な平穏をもたらしたが、交渉は行き詰まり違反が増え、2006年に全面戦争が再開した。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": "Q130754",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Indian Ocean tsunami",
+    "ko": "인도양 쓰나미",
+    "zh": "印度洋海啸",
+    "ja": "インド洋大津波"
+   },
+   "description": {
+    "en": "On 26 December 2004 the tsunami generated by the great Sumatra earthquake struck Sri Lanka's eastern, southern and western coasts, killing more than 35,000 people and displacing around half a million. Near Peraliya the waves overturned the crowded 'Queen of the Sea' train, killing well over a thousand passengers in the world's deadliest rail disaster.",
+    "ko": "2004년 12월 26일 수마트라 대지진으로 발생한 쓰나미가 스리랑카의 동부·남부·서부 해안을 덮쳐 3만 5천 명 넘게 숨지고 약 50만 명이 집을 잃었다. 페랄리야 근처에서는 파도가 승객으로 가득 찬 '바다의 여왕' 열차를 뒤집어 1,000명을 훨씬 넘는 승객이 숨지는, 세계 최악의 철도 참사가 일어났다.",
+    "zh": "2004年12月26日，苏门答腊大地震引发的海啸袭击斯里兰卡东部、南部和西部海岸，造成逾3.5万人死亡，约50万人流离失所。在佩拉利亚附近，海浪掀翻了满载乘客的“海洋女王”号列车，上千名乘客遇难，成为世界上死亡人数最多的铁路灾难。",
+    "ja": "2004年12月26日、スマトラ島沖大地震による津波がスリランカの東部・南部・西部の海岸を襲い、3万5千人以上が死亡し、約50万人が家を失った。ペラリヤ付近では波が満員の列車「クイーン・オブ・ザ・シー」号を転覆させ、千人をはるかに超える乗客が死亡する世界最悪の鉄道事故となった。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": "Q7586127",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mahinda Rajapaksa elected President",
+    "ko": "마힌다 라자팍사, 대통령 당선",
+    "zh": "马欣达·拉贾帕克萨当选总统",
+    "ja": "マヒンダ・ラージャパクサ、大統領に当選"
+   },
+   "description": {
+    "en": "In November 2005 Prime Minister Mahinda Rajapaksa narrowly won the presidential election, helped by an LTTE-enforced boycott of voting in Tamil areas. Months earlier, in August, Foreign Minister Lakshman Kadirgamar had been assassinated, and Rajapaksa adopted a harder line toward the LTTE.",
+    "ko": "2005년 11월 마힌다 라자팍사 총리는 LTTE가 강요한 타밀 지역의 투표 거부에 힘입어 근소한 차이로 대통령 선거에서 승리했다. 그보다 몇 달 앞선 8월에는 락슈만 카디르가마르 외무장관이 암살되었으며, 라자팍사는 LTTE에 대해 더 강경한 노선을 택했다.",
+    "zh": "2005年11月，总理马欣达·拉贾帕克萨在猛虎组织强迫泰米尔地区抵制投票的情况下以微弱优势赢得总统选举。数月前的8月，外交部长拉克什曼·卡迪尔加马尔遇刺，拉贾帕克萨对猛虎组织采取了更强硬的路线。",
+    "ja": "2005年11月、マヒンダ・ラージャパクサ首相は、LTTEがタミル地域で強いた投票ボイコットにも助けられ、僅差で大統領選挙に勝利した。その数か月前の8月にはラクシュマン・カディルガマル外相が暗殺されており、ラージャパクサはLTTEに対してより強硬な路線をとった。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": "Q16151540",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Eelam War IV begins",
+    "ko": "제4차 엘람 전쟁 개시",
+    "zh": "第四次伊拉姆战争爆发",
+    "ja": "第四次イーラム戦争の開始"
+   },
+   "description": {
+    "en": "In mid-2006 fighting resumed in earnest after the LTTE closed the Mavil Aru sluice gates near Trincomalee, and the ceasefire collapsed. The army captured the Eastern Province by 2007, and the government formally withdrew from the ceasefire agreement in January 2008 before its northern offensive.",
+    "ko": "2006년 중반 LTTE가 트링코말리 근처 마빌 아루 수문을 닫은 뒤 본격적인 전투가 재개되며 휴전은 무너졌다. 정부군은 2007년까지 동부주를 장악했고, 정부는 북부 공세에 앞서 2008년 1월 휴전 협정에서 공식 탈퇴했다.",
+    "zh": "2006年年中，猛虎组织关闭亭可马里附近的马维尔阿鲁水闸后，战事全面重启，停火协议破裂。政府军于2007年攻占东方省，政府在发动北部攻势之前于2008年1月正式退出停火协议。",
+    "ja": "2006年半ば、LTTEがトリンコマリー近郊のマーヴィル・アール水門を閉鎖した後に本格的な戦闘が再開し、停戦は崩壊した。政府軍は2007年までに東部州を制圧し、政府は北部攻勢に先立ち2008年1月に停戦協定から正式に離脱した。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "End of the civil war",
+    "ko": "내전의 종결",
+    "zh": "内战结束",
+    "ja": "内戦の終結"
+   },
+   "description": {
+    "en": "After capturing Kilinochchi in January 2009, government forces cornered the LTTE and hundreds of thousands of civilians in a narrow strip of the north-east. In May 2009 the army declared victory and LTTE leader Prabhakaran was killed, ending 26 years of war. A UN panel later cited credible allegations of serious violations by both sides and estimates of tens of thousands of civilian deaths in the final months; the government disputed these findings.",
+    "ko": "2009년 1월 킬리노치를 점령한 정부군은 LTTE와 수십만 명의 민간인을 북동부의 좁은 지대로 몰아넣었다. 2009년 5월 정부군은 승리를 선언했고 LTTE 지도자 프라바카란이 사망하면서 26년 전쟁이 끝났다. 유엔 전문가 패널은 이후 양측의 심각한 위반에 대한 신빙성 있는 의혹과 마지막 몇 달간 민간인 수만 명이 사망했다는 추정을 제시했으나, 정부는 이를 반박했다.",
+    "zh": "2009年1月攻占基利诺奇后，政府军将猛虎组织和数十万平民围困在东北部的狭长地带。2009年5月政府军宣布胜利，猛虎组织领导人普拉巴卡兰被击毙，长达26年的战争结束。联合国专家小组后来指出，有可信指控称双方均有严重违法行为，并有估计认为最后数月有数万平民死亡；政府对此表示异议。",
+    "ja": "2009年1月にキリノッチを制圧した政府軍は、LTTEと数十万人の民間人を北東部の狭い地帯に追い詰めた。2009年5月に政府軍は勝利を宣言し、LTTE指導者プラバカランが死亡して26年に及ぶ戦争は終わった。国連の専門家パネルは後に、双方による重大な違反の信頼できる申し立てと、最後の数か月に数万人の民間人が死亡したとの推計を示したが、政府はこれに異を唱えた。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q18363191",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Sirisena defeats Rajapaksa",
+    "ko": "시리세나, 라자팍사를 꺾다",
+    "zh": "西里塞纳击败拉贾帕克萨",
+    "ja": "シリセーナ、ラージャパクサを破る"
+   },
+   "description": {
+    "en": "In January 2015 Maithripala Sirisena, a defector from Rajapaksa's own party backed by a broad coalition, won the presidential election. His government passed the Nineteenth Amendment, which curbed presidential powers and restored independent commissions, and promised reconciliation and accountability.",
+    "ko": "2015년 1월 라자팍사 자신의 정당에서 이탈해 광범위한 연합의 지지를 받은 마이트리팔라 시리세나가 대통령 선거에서 승리했다. 그의 정부는 대통령 권한을 제한하고 독립 위원회를 복원한 제19차 헌법 개정을 통과시켰으며, 화해와 책임 규명을 약속했다.",
+    "zh": "2015年1月，从拉贾帕克萨所在政党出走、获得广泛联盟支持的迈特里帕拉·西里塞纳赢得总统选举。他的政府通过宪法第十九修正案，限制总统权力并恢复独立委员会，并承诺推进和解与问责。",
+    "ja": "2015年1月、ラージャパクサ自身の党から離反し幅広い連合に支えられたマイトリーパーラ・シリセーナが大統領選挙に勝利した。彼の政権は大統領権限を制限し独立委員会を復活させる第19次憲法改正を成立させ、和解と責任追及を約束した。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q57852068",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Constitutional crisis",
+    "ko": "헌정 위기",
+    "zh": "宪政危机",
+    "ja": "憲政危機"
+   },
+   "description": {
+    "en": "In October 2018 President Sirisena dismissed Prime Minister Ranil Wickremesinghe and appointed Mahinda Rajapaksa, then tried to dissolve Parliament. The Supreme Court ruled the dissolution unconstitutional, and after seven weeks of turmoil Wickremesinghe was reinstated in December.",
+    "ko": "2018년 10월 시리세나 대통령은 라닐 위크레메싱헤 총리를 해임하고 마힌다 라자팍사를 임명한 뒤 의회 해산을 시도했다. 대법원은 해산이 위헌이라고 판결했고, 7주간의 혼란 끝에 위크레메싱헤는 12월 복귀했다.",
+    "zh": "2018年10月，西里塞纳总统解除拉尼尔·维克勒马辛哈的总理职务并任命马欣达·拉贾帕克萨，随后试图解散议会。最高法院裁定解散议会违宪，经过七周的动荡，维克勒马辛哈于12月复职。",
+    "ja": "2018年10月、シリセーナ大統領はラニル・ウィクラマシンハ首相を解任してマヒンダ・ラージャパクサを任命し、さらに議会の解散を試みた。最高裁は解散を違憲と判断し、7週間の混乱の末、ウィクラマシンハは12月に復職した。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q63245644",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Easter Sunday bombings",
+    "ko": "부활절 연쇄 폭탄 테러",
+    "zh": "复活节连环爆炸案",
+    "ja": "イースター連続爆破テロ"
+   },
+   "description": {
+    "en": "On Easter Sunday, 21 April 2019, suicide bombers linked to a local Islamist group attacked three churches and three luxury hotels in Colombo, Negombo and Batticaloa, killing more than 250 people. The so-called Islamic State claimed responsibility; prior intelligence warnings had been ignored, and the attacks devastated tourism and fuelled anti-Muslim tensions.",
+    "ko": "2019년 4월 21일 부활절 일요일, 현지 이슬람주의 단체와 연계된 자살 폭탄 테러범들이 콜롬보·네곰보·바티칼로아의 교회 세 곳과 고급 호텔 세 곳을 공격해 250명 넘게 숨졌다. 이른바 이슬람국가(IS)가 배후를 자처했으며, 사전 정보 경고가 무시되었던 것으로 드러났다. 테러는 관광업을 무너뜨리고 반무슬림 긴장을 부추겼다.",
+    "zh": "2019年4月21日复活节星期日，与当地伊斯兰主义团体有关的自杀式袭击者袭击了科伦坡、尼甘布和拜蒂克洛的三座教堂和三家豪华酒店，造成250多人死亡。所谓“伊斯兰国”宣称负责；事前的情报预警曾被忽视，袭击重创旅游业并加剧了反穆斯林情绪。",
+    "ja": "2019年4月21日の復活祭の日曜日、地元のイスラム主義組織につながる自爆犯がコロンボ、ネゴンボ、バッティカロアの教会3か所と高級ホテル3か所を攻撃し、250人以上が死亡した。いわゆる「イスラム国」が犯行声明を出し、事前の情報警告が無視されていたことが判明した。攻撃は観光業に壊滅的打撃を与え、反ムスリム感情を煽った。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q60769314",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Gotabaya Rajapaksa elected President",
+    "ko": "고타바야 라자팍사, 대통령 당선",
+    "zh": "戈塔巴雅·拉贾帕克萨当选总统",
+    "ja": "ゴーターバヤ・ラージャパクサ、大統領に当選"
+   },
+   "description": {
+    "en": "In November 2019, months after the Easter attacks, former defence secretary Gotabaya Rajapaksa won the presidency on a national security platform, and his brother Mahinda became prime minister. His government's large tax cuts and later abrupt ban on chemical fertilisers contributed to the economic crisis that followed.",
+    "ko": "부활절 테러 몇 달 뒤인 2019년 11월, 전 국방차관 고타바야 라자팍사가 국가 안보 공약으로 대통령에 당선되었고 그의 형 마힌다가 총리가 되었다. 그의 정부의 대규모 감세와 이후 갑작스러운 화학비료 금지는 뒤이은 경제 위기의 원인이 되었다.",
+    "zh": "复活节袭击数月后的2019年11月，前国防部常务秘书戈塔巴雅·拉贾帕克萨以国家安全为竞选纲领当选总统，其兄马欣达出任总理。其政府的大规模减税以及后来突然禁止化肥的做法，促成了随后的经济危机。",
+    "ja": "イースターのテロから数か月後の2019年11月、元国防次官ゴーターバヤ・ラージャパクサが国家安全保障を掲げて大統領に当選し、兄マヒンダが首相となった。彼の政権の大幅減税と後の化学肥料の突然の禁止は、その後の経済危機の一因となった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q83889114",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic",
+    "ko": "코로나19 대유행",
+    "zh": "新冠疫情",
+    "ja": "新型コロナウイルスの流行"
+   },
+   "description": {
+    "en": "Sri Lanka recorded its first COVID-19 case in January 2020 and imposed curfews and lockdowns from March. The pandemic, coming soon after the Easter bombings, collapsed tourism and remittances and drained foreign reserves, deepening the country's debt problems.",
+    "ko": "스리랑카는 2020년 1월 첫 코로나19 환자를 기록했고 3월부터 통행금지와 봉쇄를 시행했다. 부활절 테러 직후 닥친 대유행은 관광 수입과 해외 송금을 무너뜨리고 외환 보유고를 고갈시켜 국가 부채 문제를 심화시켰다.",
+    "zh": "斯里兰卡于2020年1月出现首例新冠病例，并自3月起实施宵禁和封锁。紧随复活节爆炸案之后的疫情使旅游业和侨汇收入崩溃，外汇储备枯竭，加深了国家的债务问题。",
+    "ja": "スリランカは2020年1月に最初のCOVID-19感染者を確認し、3月から外出禁止令とロックダウンを実施した。イースターのテロ直後に襲った流行は観光と海外送金を崩壊させ、外貨準備を枯渇させて、国の債務問題を深刻化させた。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q112030660",
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Economic collapse and the Aragalaya",
+    "ko": "경제 붕괴와 아라갈라야",
+    "zh": "经济崩溃与“阿拉加拉亚”运动",
+    "ja": "経済崩壊とアラガラヤ"
+   },
+   "description": {
+    "en": "In 2022 Sri Lanka ran out of foreign exchange, causing severe shortages of fuel, food and medicine and record inflation; in April it defaulted on its foreign debt for the first time. Mass peaceful protests known as the Aragalaya ('struggle') culminated on 9 July when crowds occupied the President's House; Gotabaya Rajapaksa fled abroad and resigned, and Parliament elected Ranil Wickremesinghe as president.",
+    "ko": "2022년 스리랑카는 외환이 바닥나 연료·식량·의약품이 극심하게 부족해지고 기록적인 인플레이션을 겪었으며, 4월에는 사상 처음으로 대외 채무를 불이행했다. '아라갈라야(투쟁)'로 불린 대규모 평화 시위는 7월 9일 군중이 대통령 관저를 점거하며 절정에 달했고, 고타바야 라자팍사는 해외로 도피한 뒤 사임했으며 의회는 라닐 위크레메싱헤를 대통령으로 선출했다.",
+    "zh": "2022年，斯里兰卡外汇耗尽，燃料、粮食和药品严重短缺，通货膨胀创下纪录；4月，该国首次对外债违约。被称为“阿拉加拉亚”（斗争）的大规模和平抗议于7月9日达到高潮，民众占领总统府；戈塔巴雅·拉贾帕克萨逃往国外并辞职，议会选举拉尼尔·维克勒马辛哈为总统。",
+    "ja": "2022年、スリランカは外貨が尽き、燃料・食料・医薬品の深刻な不足と記録的なインフレに見舞われ、4月には史上初めて対外債務の不履行に陥った。「アラガラヤ（闘争）」と呼ばれる大規模な平和的抗議は、7月9日に群衆が大統領公邸を占拠して頂点に達した。ゴーターバヤ・ラージャパクサは国外へ逃れて辞任し、議会はラニル・ウィクラマシンハを大統領に選出した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "IMF programme and recovery",
+    "ko": "IMF 프로그램과 경제 회복",
+    "zh": "国际货币基金组织计划与经济复苏",
+    "ja": "IMFプログラムと経済回復"
+   },
+   "description": {
+    "en": "In March 2023 the IMF approved a four-year Extended Fund Facility of about US$3 billion for Sri Lanka, tied to tax increases, subsidy cuts and debt restructuring. Inflation fell sharply and shortages eased, but austerity left many households poorer and fuelled demands for political change.",
+    "ko": "2023년 3월 IMF는 증세·보조금 삭감·채무 재조정을 조건으로 스리랑카에 약 30억 달러 규모의 4년 확대신용제도(EFF)를 승인했다. 인플레이션은 급격히 떨어지고 물자 부족도 완화되었지만, 긴축으로 많은 가계가 더 가난해지면서 정치 변화 요구가 커졌다.",
+    "zh": "2023年3月，国际货币基金组织批准向斯里兰卡提供约30亿美元、为期四年的中期贷款，条件是增税、削减补贴和债务重组。通货膨胀大幅回落，物资短缺有所缓解，但紧缩使许多家庭更加贫困，推动了要求政治变革的呼声。",
+    "ja": "2023年3月、IMFは増税・補助金削減・債務再編を条件に、スリランカへの約30億ドル、4年間の拡大信用供与措置を承認した。インフレは急速に低下し物不足も和らいだが、緊縮で多くの世帯が貧しくなり、政治的変化を求める声が高まった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q113317674",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Anura Kumara Dissanayake elected President",
+    "ko": "아누라 쿠마라 디사나야케, 대통령 당선",
+    "zh": "阿努拉·库马拉·迪萨纳亚克当选总统",
+    "ja": "アヌラ・クマーラ・ディサナーヤカ、大統領に当選"
+   },
+   "description": {
+    "en": "In September 2024 Anura Kumara Dissanayake, leader of the JVP-led National People's Power alliance, won the presidential election, the first time a candidate from outside the long-dominant parties had done so. In parliamentary elections that November the NPP won a two-thirds majority, including seats in the Tamil-majority north.",
+    "ko": "2024년 9월 JVP가 주도하는 국민인민권력(NPP) 연합의 지도자 아누라 쿠마라 디사나야케가 대통령 선거에서 승리했는데, 오랫동안 정치를 지배해 온 정당 밖의 후보가 당선된 것은 처음이었다. 그해 11월 총선에서 NPP는 타밀인이 다수인 북부의 의석을 포함해 3분의 2 의석을 차지했다.",
+    "zh": "2024年9月，由人民解放阵线主导的全国人民力量联盟领袖阿努拉·库马拉·迪萨纳亚克赢得总统选举，这是长期主导政坛的政党以外的候选人首次当选。同年11月的议会选举中，全国人民力量赢得三分之二多数席位，其中包括泰米尔人占多数的北部议席。",
+    "ja": "2024年9月、JVPが主導する国民人民の力（NPP）連合の指導者アヌラ・クマーラ・ディサナーヤカが大統領選挙に勝利した。長く政治を支配してきた政党以外の候補の当選は初めてであった。同年11月の総選挙でNPPは、タミル人が多数を占める北部の議席を含めて3分の2の議席を獲得した。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclone Ditwah",
+    "ko": "사이클론 디트와",
+    "zh": "气旋“迪特瓦”",
+    "ja": "サイクロン・ディトワ"
+   },
+   "description": {
+    "en": "In late November 2025 Cyclone Ditwah brought torrential rain to Sri Lanka, triggering floods and landslides across much of the island, especially in the central hill country. Hundreds of people were killed and a state of emergency was declared, making it one of the country's worst natural disasters since the 2004 tsunami.",
+    "ko": "2025년 11월 말 사이클론 디트와가 스리랑카에 폭우를 쏟아부어 특히 중앙 구릉지대를 중심으로 섬 곳곳에서 홍수와 산사태가 일어났다. 수백 명이 숨지고 비상사태가 선포되어, 2004년 쓰나미 이후 최악의 자연재해 가운데 하나가 되었다.",
+    "zh": "2025年11月下旬，气旋“迪特瓦”给斯里兰卡带来暴雨，引发全岛大部分地区、尤其是中部山区的洪水和山体滑坡。数百人遇难，政府宣布紧急状态，这是2004年海啸以来该国最严重的自然灾害之一。",
+    "ja": "2025年11月下旬、サイクロン・ディトワがスリランカに豪雨をもたらし、特に中央丘陵地帯を中心に島の広い範囲で洪水と地すべりが発生した。数百人が死亡し非常事態が宣言され、2004年の津波以来最悪級の自然災害となった。"
+   }
+  }
+ ]
+}

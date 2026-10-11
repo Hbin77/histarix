@@ -1,0 +1,953 @@
+{
+ "iso": "BN",
+ "eras": [
+  {
+   "from": -8000,
+   "to": 499,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Prehistoric northwest Borneo",
+    "ko": "선사 시대의 북서 보르네오",
+    "zh": "史前时期的婆罗洲西北部",
+    "ja": "先史時代の北西ボルネオ"
+   },
+   "summary": {
+    "en": "Borneo has been inhabited by modern humans for tens of thousands of years, and from around the 3rd millennium BC Austronesian-speaking farmers and seafarers spread along its coasts and rivers. Archaeology within Brunei itself is limited, but the coastal communities of the Brunei Bay area lived from fishing, rice and sago cultivation and riverine trade. These peoples were the ancestors of the Malay, Kedayan, Dusun, Murut and other groups of the region.",
+    "ko": "보르네오섬에는 수만 년 전부터 현생 인류가 살았고, 기원전 3천년기 무렵부터 오스트로네시아어를 쓰는 농경민과 항해민이 해안과 강을 따라 퍼져 나갔다. 브루나이 영토 안의 고고학 조사는 제한적이지만, 브루나이만 일대의 해안 공동체는 어업과 벼·사고야자 재배, 강을 이용한 교역으로 생활했다. 이들은 이 지역 말레이인, 커다얀인, 두순인, 무룻인 등의 조상이 되었다.",
+    "zh": "婆罗洲数万年前便有现代人类居住，约自公元前三千纪起，说南岛语的农人和航海者沿其海岸和河流扩散。文莱境内的考古工作有限，但文莱湾一带的沿海社群以捕鱼、种植稻米和西谷椰以及河流贸易为生。他们是该地区马来人、格达岩人、杜顺人、姆律人等族群的祖先。",
+    "ja": "ボルネオ島には数万年前から現生人類が住み、紀元前3千年紀頃からオーストロネシア語を話す農耕民・航海民が海岸や川沿いに広がった。ブルネイ国内の考古学調査は限られているが、ブルネイ湾一帯の沿岸共同体は漁労、稲やサゴヤシの栽培、河川交易で暮らしていた。彼らはこの地域のマレー人、クダヤン人、ドゥスン人、ムルット人などの祖先となった。"
+   }
+  },
+  {
+   "from": 500,
+   "to": 1367,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early trading polities: Po-ni",
+    "ko": "초기 교역 국가 보니(渤泥)",
+    "zh": "早期贸易王国：渤泥",
+    "ja": "初期の交易国家・渤泥"
+   },
+   "summary": {
+    "en": "Chinese sources from the 6th century onward mention trading kingdoms on Borneo's northwest coast, such as Poli and later Po-ni (Boni), which many historians link to the forerunner of Brunei, though the identification is debated. Po-ni sent missions to Song China from 977 and traded camphor, tortoiseshell and forest products for Chinese ceramics and silk; sites such as Sungai Limau Manis attest to this commerce. In the 14th century the area appears in Javanese records as a tributary of Majapahit.",
+    "ko": "6세기 이후 중국 문헌에는 보르네오 북서 해안의 교역 왕국으로 파리(婆利), 뒤이어 보니(渤泥)가 등장하며, 많은 역사가가 이를 브루나이의 전신으로 보지만 동일성은 논쟁 중이다. 보니는 977년부터 송나라에 사절을 보내 장뇌·대모·임산물을 중국 도자기·비단과 교환했고, 숭아이 리마우 마니스 같은 유적이 이 교역을 증언한다. 14세기에는 자와의 기록에 마자파힛의 조공국으로 나타난다.",
+    "zh": "自6世纪起，中国史籍记载了婆罗洲西北岸的贸易王国，如婆利以及后来的渤泥，许多史家认为渤泥是文莱的前身，但这一比定仍有争议。渤泥自977年起遣使宋朝，以樟脑、玳瑁和林产换取中国瓷器和丝绸，双溪林茂马尼斯等遗址印证了这种贸易。14世纪时，该地在爪哇文献中被列为满者伯夷的属国。",
+    "ja": "6世紀以降の中国史料には、ボルネオ北西岸の交易国として婆利、のちに渤泥(ボニ)が現れ、多くの歴史家はこれをブルネイの前身とみなすが、同定には議論がある。渤泥は977年から宋に使節を送り、樟脳・べっ甲・林産物を中国の陶磁器や絹と交換した。スンガイ・リマウ・マニス遺跡などがこの交易を裏付ける。14世紀にはジャワの記録にマジャパヒトの朝貢国として登場する。"
+   }
+  },
+  {
+   "from": 1368,
+   "to": 1484,
+   "kind": "state",
+   "qid": "Q887803",
+   "polity": "Sultanate of Brunei",
+   "name": {
+    "en": "Founding of the Brunei Sultanate",
+    "ko": "브루나이 술탄국의 성립",
+    "zh": "文莱苏丹国的建立",
+    "ja": "ブルネイ・スルタン国の成立"
+   },
+   "summary": {
+    "en": "According to Brunei tradition, the ruler Awang Alak Betatar embraced Islam and became Sultan Muhammad Shah in the later 14th century, founding the dynasty that still rules today. The young state maintained tributary ties with Ming China, whose records describe visits by Bruneian kings, and gradually freed itself from Javanese overlordship. Islam spread among the coastal Malay population as Brunei joined the Muslim trading networks centred on Melaka.",
+    "ko": "브루나이 전승에 따르면 14세기 후반 통치자 아왕 알락 베타타르가 이슬람으로 개종해 술탄 무함마드 샤가 되었고, 오늘날까지 이어지는 왕조를 세웠다. 신생 국가는 명나라와 조공 관계를 유지했으며 명의 기록에는 브루나이 왕들의 방문이 남아 있고, 점차 자와의 종주권에서 벗어났다. 브루나이가 믈라카를 중심으로 한 무슬림 교역망에 합류하면서 해안 말레이인 사이에 이슬람이 퍼졌다.",
+    "zh": "据文莱传统，14世纪后期统治者阿旺·阿拉克·贝塔塔皈依伊斯兰教，成为苏丹穆罕默德·沙，开创了延续至今的王朝。新生的国家与明朝保持朝贡关系，明代文献记载了文莱国王的来访，文莱也逐渐摆脱了爪哇的宗主权。随着文莱加入以马六甲为中心的穆斯林贸易网络，伊斯兰教在沿海马来人中传播开来。",
+    "ja": "ブルネイの伝承によれば、14世紀後半に支配者アワン・アラク・ベタタールがイスラームに改宗してスルタン・ムハンマド・シャーとなり、今日まで続く王朝を開いた。新興国家は明と朝貢関係を保ち、明の記録にはブルネイ王の来訪が記されている。やがてジャワの宗主権から離れ、ムラカを中心とするムスリム交易網に加わる中で沿岸のマレー人にイスラームが広まった。"
+   }
+  },
+  {
+   "from": 1485,
+   "to": 1577,
+   "kind": "state",
+   "qid": "Q887803",
+   "polity": "Sultanate of Brunei",
+   "name": {
+    "en": "Golden age of the Bruneian Empire",
+    "ko": "브루나이 제국의 황금기",
+    "zh": "文莱帝国的黄金时代",
+    "ja": "ブルネイ帝国の黄金時代"
+   },
+   "summary": {
+    "en": "Under Sultan Bolkiah and his successors Brunei became a maritime power claiming influence over much of coastal Borneo and parts of the southern Philippines, including the area of Manila. After the Portuguese took Melaka in 1511, Muslim traders shifted to Brunei, boosting its role as an entrepôt. European visitors such as Magellan's expedition described a rich capital of stilt houses on the water.",
+    "ko": "술탄 볼키아와 그 후계자들 치하에서 브루나이는 보르네오 해안 대부분과 마닐라 일대를 포함한 필리핀 남부 일부에 영향력을 주장하는 해양 강국이 되었다. 1511년 포르투갈이 믈라카를 점령하자 무슬림 상인들이 브루나이로 옮겨 와 중계 무역항으로서의 위상이 높아졌다. 마젤란 원정대 같은 유럽 방문자들은 물 위에 세운 수상 가옥으로 이루어진 부유한 수도를 묘사했다.",
+    "zh": "在苏丹博尔基亚及其继任者治下，文莱成为海上强国，声称对婆罗洲大部分沿海地区以及包括马尼拉一带在内的菲律宾南部部分地区拥有影响力。1511年葡萄牙占领马六甲后，穆斯林商人转往文莱，提升了其转口港地位。麦哲伦船队等欧洲来访者描述了一座建在水上高脚屋中的富庶都城。",
+    "ja": "スルタン・ボルキアとその後継者の下でブルネイは海洋強国となり、ボルネオ沿岸の大半とマニラ周辺を含むフィリピン南部の一部に影響力を主張した。1511年にポルトガルがムラカを占領すると、ムスリム商人がブルネイに移り、中継港としての地位が高まった。マゼラン艦隊などのヨーロッパ人来訪者は、水上の高床式家屋が並ぶ豊かな都を描写している。"
+   }
+  },
+  {
+   "from": 1578,
+   "to": 1840,
+   "kind": "state",
+   "qid": "Q887803",
+   "polity": "Sultanate of Brunei",
+   "name": {
+    "en": "Wars, civil strife and slow decline",
+    "ko": "전쟁과 내분, 완만한 쇠퇴",
+    "zh": "战争、内乱与缓慢衰落",
+    "ja": "戦争・内紛と緩やかな衰退"
+   },
+   "summary": {
+    "en": "Spanish expansion from Manila, beginning with the Castilian War of 1578, cut Brunei off from its Philippine sphere. A succession war in 1660–1673 weakened the sultanate further, and the rising Sulu Sultanate came to claim the northeast of Borneo. By the early 19th century Brunei's authority over its outlying rivers was nominal, and local chiefs and piracy disrupted trade.",
+    "ko": "1578년 카스티야 전쟁을 시작으로 마닐라에서 뻗어 온 스페인의 팽창은 브루나이를 필리핀 세력권에서 단절시켰다. 1660~1673년의 왕위 계승 전쟁은 술탄국을 더욱 약화시켰고, 부상하던 술루 술탄국이 보르네오 북동부에 대한 권리를 주장하게 되었다. 19세기 초에 이르면 외곽 하천 지역에 대한 브루나이의 권위는 명목에 불과했고, 지방 수장들과 해적 행위가 교역을 어지럽혔다.",
+    "zh": "以1578年卡斯蒂利亚战争为开端，西班牙从马尼拉的扩张切断了文莱与其菲律宾势力范围的联系。1660—1673年的王位继承战争使苏丹国进一步衰弱，崛起的苏禄苏丹国开始声索婆罗洲东北部。到19世纪初，文莱对外围河流地区的统治已名存实亡，地方首领和海盗活动扰乱了贸易。",
+    "ja": "1578年のカスティーリャ戦争に始まるマニラからのスペインの拡張により、ブルネイはフィリピンの勢力圏から切り離された。1660～1673年の王位継承戦争はスルタン国をさらに弱め、台頭したスールー王国がボルネオ北東部への権利を主張するようになった。19世紀初めにはブルネイの外縁の河川地域への支配は名目的なものとなり、地方首長や海賊行為が交易を乱した。"
+   }
+  },
+  {
+   "from": 1841,
+   "to": 1887,
+   "kind": "state",
+   "qid": "Q887803",
+   "polity": "Sultanate of Brunei",
+   "name": {
+    "en": "Territorial losses to Sarawak and North Borneo",
+    "ko": "사라왁과 북보르네오에 영토 상실",
+    "zh": "领土相继割让给砂拉越与北婆罗洲",
+    "ja": "サラワクと北ボルネオへの領土喪失"
+   },
+   "summary": {
+    "en": "From 1841 the sultans ceded river after river to James Brooke's Raj of Sarawak, while Labuan went to Britain in 1846 and northern Borneo was leased to Western adventurers who formed the British North Borneo Company. Within half a century Brunei shrank from a regional power to a small enclave on Brunei Bay. Fear of total absorption drove the sultanate to seek British protection.",
+    "ko": "1841년부터 술탄들은 제임스 브룩의 사라왁 왕국에 강 유역을 하나씩 할양했고, 1846년에는 라부안이 영국에 넘어갔으며, 북보르네오는 서양 모험가들에게 조차되어 영국 북보르네오 회사가 설립되었다. 반세기 만에 브루나이는 지역 강국에서 브루나이만의 작은 영토로 축소되었다. 완전히 흡수될 것을 두려워한 술탄국은 영국의 보호를 구하게 되었다.",
+    "zh": "自1841年起，历任苏丹将一条条河流流域割让给詹姆斯·布鲁克的砂拉越王国，纳闽于1846年归属英国，北婆罗洲则被租给西方冒险家，后者组建了英属北婆罗洲公司。不到半个世纪，文莱便从地区强国缩小为文莱湾畔的一小块领土。为免被完全吞并，苏丹国转而寻求英国的保护。",
+    "ja": "1841年以降、スルタンたちはジェームズ・ブルックのサラワク王国に河川流域を次々と割譲し、1846年にはラブアンがイギリスに渡り、北ボルネオは西洋の冒険家に租借されてイギリス北ボルネオ会社が設立された。半世紀のうちにブルネイは地域大国からブルネイ湾の小さな領域へと縮小した。完全な併合を恐れたスルタン国はイギリスの保護を求めた。"
+   }
+  },
+  {
+   "from": 1888,
+   "to": 1941,
+   "kind": "colonial",
+   "qid": "Q8680",
+   "polity": "British Colonial Empire",
+   "name": {
+    "en": "British protectorate and the Residency",
+    "ko": "영국 보호령과 레지던트 제도",
+    "zh": "英国保护国与驻扎官制度",
+    "ja": "イギリス保護国と駐在官制度"
+   },
+   "summary": {
+    "en": "The 1888 treaty made Brunei a British protectorate, and agreements of 1905–1906 installed a British Resident whose advice the sultan had to accept on all matters except Islam and Malay custom. The loss of Limbang to Sarawak in 1890 split the country into two parts. The discovery of oil at Seria in 1929 began a transformation from a poor sago and rubber economy into a petroleum state.",
+    "ko": "1888년 조약으로 브루나이는 영국 보호령이 되었고, 1905~1906년 협정으로 영국인 레지던트가 파견되어 술탄은 이슬람과 말레이 관습을 제외한 모든 문제에서 그의 조언을 따라야 했다. 1890년 림방이 사라왁에 넘어가면서 국토는 둘로 나뉘었다. 1929년 세리아 유전의 발견은 가난한 사고·고무 경제를 석유 국가로 바꾸는 출발점이 되었다.",
+    "zh": "1888年的条约使文莱成为英国保护国，1905—1906年的协定又设立了英国驻扎官，苏丹除伊斯兰教和马来习俗事务外须听从其建议。1890年林梦被砂拉越吞并，文莱国土被一分为二。1929年诗里亚发现石油，开启了从贫穷的西谷米和橡胶经济向石油国家的转变。",
+    "ja": "1888年の条約でブルネイはイギリスの保護国となり、1905～1906年の協定でイギリス人駐在官が置かれ、スルタンはイスラームとマレー慣習を除くすべての事項でその助言に従うことになった。1890年にリンバンがサラワクに奪われ、国土は二つに分断された。1929年のセリア油田発見は、貧しいサゴ・ゴム経済から石油国家への転換の始まりとなった。"
+   }
+  },
+  {
+   "from": 1941,
+   "to": 1945,
+   "kind": "colonial",
+   "qid": "Q188712",
+   "polity": "Empire of Japan",
+   "name": {
+    "en": "Japanese occupation",
+    "ko": "일본 점령기",
+    "zh": "日本占领时期",
+    "ja": "日本占領期"
+   },
+   "summary": {
+    "en": "Japanese forces landed at Kuala Belait in December 1941 to seize the Seria oilfields, and Brunei was administered as part of occupied northern Borneo until 1945. The occupation brought forced labour and food shortages. Allied, chiefly Australian, forces retook the territory in June 1945, while the retreating Japanese set the oil wells ablaze.",
+    "ko": "일본군은 1941년 12월 세리아 유전을 장악하기 위해 쿠알라 블라이트에 상륙했고, 브루나이는 1945년까지 점령된 북보르네오의 일부로 통치되었다. 점령기에는 강제 노동과 식량난이 이어졌다. 1945년 6월 오스트레일리아군 중심의 연합군이 이 지역을 탈환했으며, 퇴각하던 일본군은 유정에 불을 질렀다.",
+    "zh": "1941年12月日军在马来奕登陆以夺取诗里亚油田，此后至1945年文莱作为被占领的北婆罗洲的一部分受其统治。占领期间强迫劳动和粮食短缺接踵而至。1945年6月，以澳大利亚军队为主的盟军收复该地，撤退的日军则纵火焚烧油井。",
+    "ja": "日本軍は1941年12月、セリア油田を奪うためクアラ・ブライトに上陸し、ブルネイは1945年まで占領下の北ボルネオの一部として統治された。占領期には強制労働と食糧不足が続いた。1945年6月、オーストラリア軍を主力とする連合軍が奪還し、撤退する日本軍は油井に火を放った。"
+   }
+  },
+  {
+   "from": 1945,
+   "to": 1983,
+   "kind": "colonial",
+   "qid": "Q8680",
+   "polity": "British Colonial Empire",
+   "name": {
+    "en": "Postwar protectorate and road to independence",
+    "ko": "전후 보호령과 독립으로의 길",
+    "zh": "战后保护国与独立之路",
+    "ja": "戦後の保護国と独立への道"
+   },
+   "summary": {
+    "en": "British administration returned in 1946, and Sultan Omar Ali Saifuddien III used oil revenues for development while negotiating greater autonomy, achieved with the 1959 constitution. The 1962 revolt led to a state of emergency and to Brunei staying out of Malaysia in 1963. Under Sultan Hassanal Bolkiah, a 1979 treaty with Britain set the date for full independence.",
+    "ko": "1946년 영국의 행정이 복귀했고, 술탄 오마르 알리 사이푸딘 3세는 석유 수입으로 개발을 추진하면서 더 큰 자치를 협상해 1959년 헌법으로 이를 얻어 냈다. 1962년 봉기는 비상사태 선포로 이어졌고, 브루나이는 1963년 말레이시아에 참여하지 않았다. 술탄 하사날 볼키아 치하인 1979년 영국과의 조약으로 완전 독립의 날짜가 정해졌다.",
+    "zh": "1946年英国恢复行政管理，苏丹奥马尔·阿里·赛福鼎三世利用石油收入推动发展，同时争取更大自治，并以1959年宪法实现这一目标。1962年起义导致紧急状态的实施，文莱也于1963年决定不加入马来西亚。苏丹哈桑纳尔·博尔基亚在位期间，1979年与英国签订的条约确定了完全独立的日期。",
+    "ja": "1946年にイギリスの行政が復帰し、スルタン・オマール・アリ・サイフディン3世は石油収入で開発を進めつつ自治拡大を交渉し、1959年憲法でそれを実現した。1962年の反乱は非常事態宣言を招き、ブルネイは1963年にマレーシアへの参加を見送った。スルタン・ハサナル・ボルキアの下、1979年のイギリスとの条約で完全独立の期日が定められた。"
+   }
+  },
+  {
+   "from": 1984,
+   "to": 2026,
+   "kind": "state",
+   "qid": null,
+   "polity": "Sultanate of Brunei",
+   "name": {
+    "en": "Independent Brunei Darussalam",
+    "ko": "독립국 브루나이 다루살람",
+    "zh": "独立的文莱达鲁萨兰国",
+    "ja": "独立国ブルネイ・ダルサラーム"
+   },
+   "summary": {
+    "en": "Since 1 January 1984 Brunei Darussalam has been a fully sovereign absolute monarchy under Sultan Hassanal Bolkiah, guided by the national philosophy of Melayu Islam Beraja (Malay Islamic Monarchy). Oil and gas wealth funds a generous welfare state with no personal income tax, while the government pursues economic diversification. Brunei is an active member of ASEAN and the Commonwealth, and has drawn international attention for introducing a Sharia penal code.",
+    "ko": "1984년 1월 1일 이후 브루나이 다루살람은 술탄 하사날 볼키아가 통치하는 완전한 주권의 절대 군주국으로, '믈라유 이슬람 브라자(말레이·이슬람·군주제)'를 국가 이념으로 삼는다. 석유와 천연가스의 부는 개인 소득세가 없는 후한 복지 국가를 떠받치며, 정부는 경제 다각화를 추진하고 있다. 브루나이는 아세안과 영연방의 활발한 회원국이며, 샤리아 형법 도입으로 국제적 주목을 받았다.",
+    "zh": "自1984年1月1日起，文莱达鲁萨兰国成为完全主权的绝对君主制国家，由苏丹哈桑纳尔·博尔基亚统治，以“马来伊斯兰君主制”为国家理念。石油和天然气财富支撑着不征个人所得税的优厚福利国家，政府则致力于经济多元化。文莱是东盟和英联邦的积极成员，并因推行伊斯兰刑法而受到国际关注。",
+    "ja": "1984年1月1日以降、ブルネイ・ダルサラームはスルタン・ハサナル・ボルキアが統治する完全な主権を持つ絶対君主国で、「マレー・イスラーム・君主制(MIB)」を国家理念とする。石油・天然ガスの富が個人所得税のない手厚い福祉国家を支え、政府は経済の多角化を進めている。ASEANと英連邦の積極的な加盟国であり、シャリーア刑法の導入で国際的な注目を集めた。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2500,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Austronesian settlers reach Borneo's coasts",
+    "ko": "오스트로네시아인의 보르네오 해안 정착",
+    "zh": "南岛语族移居婆罗洲沿海",
+    "ja": "オーストロネシア系の人々がボルネオ沿岸に定住"
+   },
+   "description": {
+    "en": "From around the mid-3rd millennium BC (dates are approximate), Austronesian-speaking peoples spreading south from Taiwan and the Philippines settled the coasts and rivers of Borneo. They brought rice farming, pottery and seafaring skills. Their descendants formed the linguistic and cultural base of the Brunei Bay region.",
+    "ko": "기원전 3천년기 중엽 무렵(연대는 추정)부터 타이완과 필리핀에서 남쪽으로 퍼져 온 오스트로네시아어 사용 집단이 보르네오의 해안과 강변에 정착했다. 이들은 벼농사와 토기, 항해 기술을 가져왔다. 그 후손들이 브루나이만 일대의 언어적·문화적 토대를 이루었다.",
+    "zh": "约自公元前三千纪中叶起（年代为估计），从台湾和菲律宾向南扩散的南岛语族定居于婆罗洲的海岸和河流沿岸。他们带来了稻作、陶器和航海技术。其后裔构成了文莱湾地区语言和文化的基础。",
+    "ja": "紀元前3千年紀半ば頃(年代は推定)から、台湾やフィリピンから南下したオーストロネシア語系の人々がボルネオの海岸や河川沿いに定住した。彼らは稲作、土器、航海技術をもたらした。その子孫が、ブルネイ湾地域の言語的・文化的基盤を形づくった。"
+   }
+  },
+  {
+   "year": 977,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The kingdom of Po-ni sends envoys to Song China",
+    "ko": "보니(渤泥), 송나라에 사절 파견",
+    "zh": "渤泥遣使宋朝",
+    "ja": "渤泥(ボニ)、宋に使節を派遣"
+   },
+   "description": {
+    "en": "Song dynasty records describe a mission in 977 from Po-ni, a trading kingdom on Borneo's northwest coast widely regarded as an early forerunner of Brunei. The envoys presented local products such as camphor and tortoiseshell. The mission reflects the region's long integration into the maritime trade of the South China Sea.",
+    "ko": "송나라 기록에는 977년 보르네오 북서 해안의 교역 왕국 보니가 보낸 사절이 기록되어 있으며, 보니는 브루나이의 초기 전신으로 널리 여겨진다. 사절은 장뇌와 대모 같은 토산물을 바쳤다. 이 사절은 이 지역이 일찍부터 남중국해 해상 교역에 편입되어 있었음을 보여 준다.",
+    "zh": "宋代史籍记载了977年渤泥遣使来朝之事。渤泥是婆罗洲西北岸的贸易王国，普遍被视为文莱的早期前身。使者进献了樟脑、玳瑁等土产。这次遣使反映了该地区很早便融入南海海上贸易。",
+    "ja": "宋代の記録には、977年にボルネオ北西岸の交易国・渤泥から使節が来たことが記されており、渤泥はブルネイの初期の前身と広くみなされている。使節は樟脳やべっ甲などの産物を献上した。この使節は、この地域が早くから南シナ海の海上交易に組み込まれていたことを示している。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Sungai Limau Manis trading settlement",
+    "ko": "숭아이 리마우 마니스 교역 거점",
+    "zh": "双溪林茂马尼斯贸易聚落",
+    "ja": "スンガイ・リマウ・マニスの交易集落"
+   },
+   "description": {
+    "en": "Excavations at Sungai Limau Manis in Brunei's interior uncovered a settlement active roughly from the 10th to the 13th centuries (c. 1000), rich in Chinese ceramics, beads and metal objects. The site shows that communities in Brunei were already linked to long-distance trade with China and Southeast Asia. It is one of the most important archaeological sites for Brunei's early history.",
+    "ko": "브루나이 내륙의 숭아이 리마우 마니스 발굴에서 대략 10~13세기(약 1000년 전후)에 번성한 취락이 확인되었으며, 중국 도자기와 구슬, 금속 유물이 다량 출토되었다. 이 유적은 브루나이의 공동체가 이미 중국 및 동남아시아와의 원거리 교역에 연결되어 있었음을 보여 준다. 브루나이 초기 역사를 밝히는 가장 중요한 고고학 유적 중 하나다.",
+    "zh": "在文莱内陆双溪林茂马尼斯的发掘揭示了一处约活跃于10至13世纪（约公元1000年前后）的聚落，出土大量中国瓷器、珠子和金属器物。该遗址表明，文莱的社群当时已与中国和东南亚建立了远程贸易联系。它是研究文莱早期历史最重要的考古遗址之一。",
+    "ja": "ブルネイ内陸のスンガイ・リマウ・マニスの発掘では、おおむね10～13世紀(1000年頃前後)に栄えた集落が確認され、中国陶磁器やビーズ、金属器が多数出土した。この遺跡は、ブルネイの共同体がすでに中国や東南アジアとの遠距離交易に結びついていたことを示す。ブルネイ初期史にとって最も重要な遺跡の一つである。"
+   }
+  },
+  {
+   "year": 1225,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Zhao Rugua describes Boni in the Zhufan zhi",
+    "ko": "조여괄의 『제번지』에 기록된 보니",
+    "zh": "赵汝适《诸蕃志》记载渤泥",
+    "ja": "趙汝适『諸蕃志』に記された渤泥"
+   },
+   "description": {
+    "en": "The Song official Zhao Rugua, an inspector of maritime trade at Quanzhou, completed his Zhufan zhi (Description of Foreign Peoples) in 1225. It describes Boni as a walled port kingdom with many ships and trade in camphor, beeswax and other goods. The account is one of the earliest detailed descriptions of the Brunei area.",
+    "ko": "취안저우의 시박사 관리였던 송나라의 조여괄은 1225년 『제번지』를 완성했다. 이 책은 보니를 성벽을 갖춘 항구 왕국으로 묘사하며 많은 선박과 장뇌·밀랍 등의 교역을 기록했다. 이는 브루나이 일대에 관한 가장 이른 상세한 기록 중 하나다.",
+    "zh": "南宋泉州市舶司官员赵汝适于1225年撰成《诸蕃志》。书中将渤泥描述为一个筑有城墙、船舶众多的港口王国，并记载了樟脑、黄蜡等货物的贸易。这是关于文莱一带最早的详细记述之一。",
+    "ja": "泉州の市舶司の官人であった南宋の趙汝适は、1225年に『諸蕃志』を完成させた。同書は渤泥を城壁をもつ港の王国として描き、多くの船と樟脳・蜜蝋などの交易を記録している。これはブルネイ一帯についての最も早い詳細な記述の一つである。"
+   }
+  },
+  {
+   "year": 1365,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Listed among Majapahit's tributaries",
+    "ko": "마자파힛의 조공국 목록에 오르다",
+    "zh": "被列为满者伯夷属国",
+    "ja": "マジャパヒトの朝貢国に列せられる"
+   },
+   "description": {
+    "en": "The Javanese court poem Nagarakretagama, composed in 1365, lists Buruneng among the lands owing tribute to the Majapahit empire. The claim reflects Majapahit's prestige across the archipelago, though the degree of real control over Borneo's northwest coast is uncertain. Brunei later broke away from Javanese overlordship.",
+    "ko": "1365년에 지어진 자와의 궁정 서사시 『나가라크르타가마』는 마자파힛 제국에 조공하는 지역으로 '부루능'을 열거한다. 이는 군도 전역에 미친 마자파힛의 위세를 보여 주지만, 보르네오 북서 해안을 실제로 얼마나 지배했는지는 불확실하다. 브루나이는 이후 자와의 종주권에서 벗어났다.",
+    "zh": "1365年成书的爪哇宫廷诗《爪哇史颂》将“布鲁能”列为向满者伯夷帝国朝贡的地区之一。这反映了满者伯夷在群岛中的威望，但其对婆罗洲西北岸实际控制的程度并不确定。文莱后来摆脱了爪哇的宗主权。",
+    "ja": "1365年に成立したジャワの宮廷詩『ナーガラクルターガマ』は、マジャパヒト王国に朝貢する地域として「ブルネン」を挙げている。これはマジャパヒトの群島全域での威信を示すが、ボルネオ北西岸を実際にどの程度支配していたかは不確かである。ブルネイはのちにジャワの宗主権から離脱した。"
+   }
+  },
+  {
+   "year": 1368,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Founding of the Brunei Sultanate",
+    "ko": "브루나이 술탄국의 성립",
+    "zh": "文莱苏丹国建立",
+    "ja": "ブルネイ・スルタン国の成立"
+   },
+   "description": {
+    "en": "According to tradition, around 1368 the ruler Awang Alak Betatar converted to Islam and took the name Sultan Muhammad Shah, becoming the first sultan of Brunei. The exact date is traditional and debated. His dynasty has ruled continuously ever since, making it one of the oldest reigning royal houses in the world, and Islam became central to Bruneian identity.",
+    "ko": "전승에 따르면 1368년경 통치자 아왕 알락 베타타르가 이슬람으로 개종하고 술탄 무함마드 샤라는 이름을 취해 브루나이의 초대 술탄이 되었다. 정확한 연대는 전승에 따른 것으로 논란이 있다. 그의 왕조는 이후 끊임없이 이어져 세계에서 가장 오래된 왕가 중 하나가 되었고, 이슬람은 브루나이 정체성의 중심이 되었다.",
+    "zh": "据传统说法，约1368年统治者阿旺·阿拉克·贝塔塔皈依伊斯兰教，取名苏丹穆罕默德·沙，成为文莱第一位苏丹。确切年份源自传统，尚有争议。他的王朝延续至今，是世界上最古老的在位王室之一，伊斯兰教也成为文莱认同的核心。",
+    "ja": "伝承によれば、1368年頃に支配者アワン・アラク・ベタタールがイスラームに改宗してスルタン・ムハンマド・シャーと名乗り、ブルネイ初代スルタンとなった。正確な年代は伝承によるもので議論がある。その王朝は以後途切れることなく続き、世界最古級の現存王家の一つとなり、イスラームはブルネイのアイデンティティの中核となった。"
+   }
+  },
+  {
+   "year": 1371,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Boni enters tributary relations with Ming China",
+    "ko": "보니, 명나라와 조공 관계를 맺다",
+    "zh": "渤泥与明朝建立朝贡关系",
+    "ja": "渤泥、明と朝貢関係を結ぶ"
+   },
+   "description": {
+    "en": "Shortly after the founding of the Ming dynasty, an envoy from the Hongwu Emperor visited Boni, and in 1371 its king sent a tribute mission to the Ming court. Ming records name this ruler Mahamosha, whom some historians identify with Brunei's first sultan, though this is uncertain. The relationship gave Brunei recognition and trade access in China.",
+    "ko": "명나라가 건국된 직후 홍무제의 사신이 보니를 방문했고, 1371년 보니 왕이 명 조정에 조공 사절을 보냈다. 명의 기록은 이 왕을 '마합모사(麻哈谟沙)'라 부르며, 일부 역사가는 그를 브루나이 초대 술탄과 동일시하지만 확실하지 않다. 이 관계로 브루나이는 중국에서 인정과 교역 기회를 얻었다.",
+    "zh": "明朝建立后不久，洪武帝派使臣出访渤泥，1371年渤泥国王遣使向明廷朝贡。明代文献称这位国王为“马合谟沙”，部分史家认为他即文莱第一位苏丹，但此说并不确定。这一关系使文莱在中国获得承认和贸易机会。",
+    "ja": "明の建国直後、洪武帝の使者が渤泥を訪れ、1371年に渤泥王が明の朝廷に朝貢使節を送った。明の記録はこの王を「馬合謨沙」と呼び、一部の歴史家はブルネイ初代スルタンと同一視するが、確かではない。この関係によりブルネイは中国での承認と交易の機会を得た。"
+   }
+  },
+  {
+   "year": 1408,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "King of Boni dies during a state visit to Nanjing",
+    "ko": "보니 왕, 난징 방문 중 서거",
+    "zh": "渤泥国王访问南京期间病逝",
+    "ja": "渤泥王、南京訪問中に客死"
+   },
+   "description": {
+    "en": "In 1408 the king of Boni travelled with his family to the Ming capital Nanjing to pay homage to the Yongle Emperor, but fell ill and died there. He was buried with honours outside Nanjing, and his tomb survives today as a symbol of China–Brunei relations. His young son succeeded him and returned home with Ming support.",
+    "ko": "1408년 보니 왕은 가족과 함께 명의 수도 난징으로 가 영락제를 알현했으나 그곳에서 병으로 세상을 떠났다. 그는 난징 교외에 예를 갖추어 묻혔고, 그 무덤은 오늘날 중국·브루나이 관계의 상징으로 남아 있다. 어린 아들이 왕위를 이어 명의 지원을 받으며 귀국했다.",
+    "zh": "1408年，渤泥国王携家眷前往明都南京朝见永乐帝，却在当地染病去世。他被以隆重礼仪安葬于南京城外，其墓保存至今，成为中国与文莱友好的象征。其年幼的儿子继位，并在明朝支持下归国。",
+    "ja": "1408年、渤泥王は家族を伴って明の都・南京に赴き永楽帝に謁見したが、同地で病に倒れ亡くなった。彼は南京郊外に礼をもって葬られ、その墓は今日も中国とブルネイの関係の象徴として残っている。幼い息子が王位を継ぎ、明の支援を受けて帰国した。"
+   }
+  },
+  {
+   "year": 1485,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Golden age under Sultan Bolkiah",
+    "ko": "술탄 볼키아 치세의 황금기",
+    "zh": "苏丹博尔基亚治下的黄金时代",
+    "ja": "スルタン・ボルキア治世の黄金時代"
+   },
+   "description": {
+    "en": "Under Sultan Bolkiah, the fifth sultan (r. c. 1485–1524), Brunei's maritime empire reached its peak, claiming influence over much of coastal Borneo and as far as the Sulu archipelago and Manila. Remembered as Nakhoda Ragam, the 'singing captain', he is celebrated in Bruneian tradition as a great seafaring ruler. The fall of Melaka to Portugal in 1511 further enriched Brunei as Muslim traders relocated there.",
+    "ko": "제5대 술탄 볼키아(재위 약 1485~1524년) 치하에서 브루나이 해양 제국은 절정에 이르러 보르네오 해안 대부분과 술루 제도, 마닐라에까지 영향력을 주장했다. '노래하는 선장' 나코다 라감으로도 기억되는 그는 브루나이 전승에서 위대한 항해 군주로 칭송된다. 1511년 믈라카가 포르투갈에 함락되자 무슬림 상인들이 옮겨 와 브루나이는 더욱 부유해졌다.",
+    "zh": "在第五任苏丹博尔基亚（约1485—1524年在位）治下，文莱海上帝国达到鼎盛，其影响力号称覆盖婆罗洲大部分沿海地区，远及苏禄群岛和马尼拉。他又被称为“歌唱的船长”纳科达·拉甘，在文莱传统中被颂扬为伟大的航海君主。1511年马六甲落入葡萄牙之手后，穆斯林商人迁往文莱，使其更加富庶。",
+    "ja": "第5代スルタン・ボルキア(在位1485頃～1524年)の下でブルネイの海洋帝国は最盛期を迎え、ボルネオ沿岸の大半からスールー諸島、マニラにまで影響力を主張した。「歌う船長」ナコダ・ラガムとしても知られ、ブルネイの伝承では偉大な航海王として讃えられる。1511年にムラカがポルトガルに陥落すると、ムスリム商人が移住してブルネイはいっそう繁栄した。"
+   }
+  },
+  {
+   "year": 1521,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Magellan's expedition visits Brunei",
+    "ko": "마젤란 원정대의 브루나이 방문",
+    "zh": "麦哲伦船队到访文莱",
+    "ja": "マゼラン艦隊のブルネイ来訪"
+   },
+   "description": {
+    "en": "In July 1521, after Magellan's death in the Philippines, the surviving ships of his expedition called at Brunei. The chronicler Antonio Pigafetta described a large city built over the water, a sultan's court with elephants and rich furnishings, and a busy trade. His account is a key European eyewitness description of Brunei at its height.",
+    "ko": "1521년 7월, 마젤란이 필리핀에서 사망한 뒤 살아남은 원정대의 배들이 브루나이에 기항했다. 기록자 안토니오 피가페타는 물 위에 세워진 큰 도시, 코끼리와 호화로운 장식을 갖춘 술탄의 궁정, 활발한 교역을 묘사했다. 그의 기록은 전성기 브루나이에 대한 유럽인의 핵심 목격담이다.",
+    "zh": "1521年7月，麦哲伦在菲律宾身亡后，船队幸存的船只停靠文莱。随行记录者安东尼奥·皮加费塔描述了一座建在水上的大城、拥有大象和华丽陈设的苏丹宫廷以及繁忙的贸易。他的记述是欧洲人对鼎盛时期文莱最重要的目击记录。",
+    "ja": "1521年7月、マゼランがフィリピンで死んだ後、生き残った艦隊の船がブルネイに寄港した。記録者アントニオ・ピガフェッタは、水上に築かれた大きな町、象と豪華な調度を備えたスルタンの宮廷、盛んな交易を描写した。彼の記録は最盛期のブルネイについてのヨーロッパ人による重要な目撃証言である。"
+   }
+  },
+  {
+   "year": 1578,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Castilian War with Spain",
+    "ko": "스페인과의 카스티야 전쟁",
+    "zh": "与西班牙的卡斯蒂利亚战争",
+    "ja": "スペインとのカスティーリャ戦争"
+   },
+   "description": {
+    "en": "In 1578 Spanish forces from Manila attacked Brunei and briefly occupied its capital, aided by rivalries within the Bruneian court. Disease forced the Spaniards to withdraw within weeks, and the sultanate recovered its capital. The war nonetheless ended Brunei's influence in Luzon and marked the beginning of its long retreat in the Philippines.",
+    "ko": "1578년 마닐라의 스페인군이 브루나이 궁정 내부의 대립을 틈타 브루나이를 공격해 수도를 잠시 점령했다. 질병 때문에 스페인군은 몇 주 만에 철수했고 술탄국은 수도를 되찾았다. 그러나 이 전쟁으로 루손에서의 브루나이 영향력은 끝났고, 필리핀에서의 긴 후퇴가 시작되었다.",
+    "zh": "1578年，马尼拉的西班牙军队利用文莱宫廷内部的争斗进攻文莱，一度占领其都城。疾病迫使西班牙人在数周内撤退，苏丹国收复了都城。然而这场战争终结了文莱在吕宋的影响力，标志着其在菲律宾长期退缩的开始。",
+    "ja": "1578年、マニラのスペイン軍はブルネイ宮廷内の対立に乗じて攻撃し、一時首都を占領した。疫病のためスペイン軍は数週間で撤退し、スルタン国は首都を回復した。しかしこの戦争でルソンにおけるブルネイの影響力は失われ、フィリピンでの長い後退が始まった。"
+   }
+  },
+  {
+   "year": 1660,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Brunei Civil War",
+    "ko": "브루나이 내전",
+    "zh": "文莱内战",
+    "ja": "ブルネイ内戦"
+   },
+   "description": {
+    "en": "A dispute over the throne between Sultan Abdul Hakkul Mubin and Muhyiddin led to a civil war from 1660 to 1673, ending with Muhyiddin's victory. The conflict exhausted the sultanate. According to Sulu tradition, the sultan of Sulu was promised northeastern Borneo for his help, the origin of a later territorial claim that Brunei sources dispute.",
+    "ko": "술탄 압둘 하쿨 무빈과 무히딘 사이의 왕위 분쟁은 1660년부터 1673년까지 내전으로 이어졌고, 무히딘의 승리로 끝났다. 이 분쟁은 술탄국을 크게 소진시켰다. 술루 측 전승에 따르면 술루의 술탄은 도움의 대가로 보르네오 북동부를 약속받았으며, 이것이 훗날 영유권 주장의 기원이 되었으나 브루나이 측 사료는 이를 인정하지 않는다.",
+    "zh": "苏丹阿卜杜勒·哈库尔·穆宾与穆希丁之间的王位之争引发了1660年至1673年的内战，最终穆希丁获胜。这场冲突使苏丹国元气大伤。据苏禄方面的传统，苏禄苏丹因出兵相助而获许婆罗洲东北部，这成为后来领土主张的起源，但文莱方面的史料对此有异议。",
+    "ja": "スルタン・アブドゥル・ハックル・ムビンとムヒディンの王位争いは1660年から1673年まで内戦となり、ムヒディンの勝利で終わった。この争いはスルタン国を疲弊させた。スールー側の伝承によれば、スールーのスルタンは援助の見返りにボルネオ北東部を約束されたとされ、のちの領有権主張の起源となったが、ブルネイ側の史料はこれに異を唱えている。"
+   }
+  },
+  {
+   "year": 1841,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Sarawak ceded to James Brooke",
+    "ko": "제임스 브룩에게 사라왁 할양",
+    "zh": "砂拉越割让给詹姆斯·布鲁克",
+    "ja": "ジェームズ・ブルックへのサラワク割譲"
+   },
+   "description": {
+    "en": "In 1841 Brunei's representative in Sarawak, Pengiran Muda Hashim, installed the English adventurer James Brooke as Rajah of Sarawak for helping suppress a local revolt, a grant later confirmed by the sultan. Brooke and his successors steadily expanded their state through further cessions of Bruneian rivers. This began the dismemberment of the sultanate's remaining territory.",
+    "ko": "1841년 사라왁의 브루나이 대표였던 픙이란 무다 하심은 현지 반란 진압을 도운 영국인 모험가 제임스 브룩을 사라왁의 라자로 세웠고, 이 양여는 뒤에 술탄의 승인을 받았다. 브룩과 그 후계자들은 브루나이의 하천 유역을 추가로 할양받으며 꾸준히 영토를 넓혔다. 이로써 술탄국에 남은 영토의 해체가 시작되었다.",
+    "zh": "1841年，文莱驻砂拉越的代表彭基兰·慕达·哈西姆因英国冒险家詹姆斯·布鲁克协助平定当地叛乱，立其为砂拉越拉惹，此后苏丹予以确认。布鲁克及其继承者通过进一步割让文莱的河流流域而不断扩张领土。苏丹国残余领土的瓦解由此开始。",
+    "ja": "1841年、サラワクにおけるブルネイの代表ペンギラン・ムダ・ハシムは、現地の反乱鎮圧を助けたイギリス人冒険家ジェームズ・ブルックをサラワクのラジャに据え、この授与はのちにスルタンにより承認された。ブルックとその後継者は、ブルネイの河川流域の割譲を重ねて着実に領土を広げた。こうしてスルタン国に残る領土の解体が始まった。"
+   }
+  },
+  {
+   "year": 1846,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "British attack on Brunei Town and cession of Labuan",
+    "ko": "영국의 브루나이 공격과 라부안 할양",
+    "zh": "英军进攻文莱城与割让纳闽",
+    "ja": "イギリスのブルネイ攻撃とラブアン割譲"
+   },
+   "description": {
+    "en": "After the pro-British Pengiran Muda Hashim and members of his family were killed in a court power struggle, a Royal Navy squadron attacked Brunei Town in 1846 and the sultan fled briefly. In the aftermath the sultan ceded the island of Labuan to Britain, which made it a crown colony and coaling station. A treaty of friendship and commerce with Britain followed in 1847.",
+    "ko": "친영파였던 픙이란 무다 하심과 그 일족이 궁정 권력 투쟁 속에 살해되자, 1846년 영국 해군 함대가 브루나이 타운을 공격했고 술탄은 잠시 피신했다. 그 여파로 술탄은 라부안섬을 영국에 할양했으며, 영국은 이를 직할 식민지이자 급탄 기지로 삼았다. 이어 1847년 영국과 우호 통상 조약이 체결되었다.",
+    "zh": "亲英的彭基兰·慕达·哈西姆及其家族成员在宫廷权力斗争中被杀后，1846年英国皇家海军舰队进攻文莱城，苏丹一度出逃。事后苏丹将纳闽岛割让给英国，英国将其辟为直辖殖民地和加煤站。1847年文莱又与英国签订了友好通商条约。",
+    "ja": "親英派のペンギラン・ムダ・ハシムとその一族が宮廷の権力闘争で殺害されると、1846年にイギリス海軍艦隊がブルネイ・タウンを攻撃し、スルタンは一時避難した。その後スルタンはラブアン島をイギリスに割譲し、イギリスはこれを直轄植民地兼給炭基地とした。1847年にはイギリスと友好通商条約が結ばれた。"
+   }
+  },
+  {
+   "year": 1877,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Northern Borneo leased to Overbeck and Dent",
+    "ko": "북보르네오, 오버베크와 덴트에게 조차",
+    "zh": "北婆罗洲租让给奥弗贝克与登特",
+    "ja": "北ボルネオをオーフェルベックとデントに租借"
+   },
+   "description": {
+    "en": "In 1877–1878 the sultan of Brunei granted extensive territories in northern Borneo to the Austrian-born Baron von Overbeck and the British merchant Alfred Dent, who also obtained a grant from the sultan of Sulu. Dent's interests became the British North Borneo Company, chartered in 1881, the forerunner of modern Sabah. Brunei thus lost its northern lands.",
+    "ko": "1877~1878년 브루나이 술탄은 오스트리아 출신의 오버베크 남작과 영국 상인 앨프리드 덴트에게 북보르네오의 광대한 영토를 넘겨주었고, 이들은 술루 술탄으로부터도 양여를 얻었다. 덴트의 권익은 1881년 특허를 받은 영국 북보르네오 회사가 되어 오늘날 사바의 전신이 되었다. 이로써 브루나이는 북부 영토를 잃었다.",
+    "zh": "1877—1878年，文莱苏丹将婆罗洲北部的大片领土授予奥地利出生的奥弗贝克男爵和英国商人阿尔弗雷德·登特，两人也从苏禄苏丹处获得了授权。登特的权益后来成为1881年获得特许状的英属北婆罗洲公司，即今日沙巴的前身。文莱由此失去了北部领土。",
+    "ja": "1877～1878年、ブルネイのスルタンはオーストリア出身のオーフェルベック男爵とイギリス商人アルフレッド・デントに北ボルネオの広大な領域を譲渡し、二人はスールーのスルタンからも譲渡を得た。デントの権益は1881年に特許状を得たイギリス北ボルネオ会社となり、今日のサバの前身となった。こうしてブルネイは北部の領土を失った。"
+   }
+  },
+  {
+   "year": 1888,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Brunei becomes a British protectorate",
+    "ko": "영국 보호령이 된 브루나이",
+    "zh": "文莱沦为英国保护国",
+    "ja": "イギリスの保護国となる"
+   },
+   "description": {
+    "en": "Threatened with absorption by Sarawak and North Borneo, Sultan Hashim Jalilul Alam Aqamaddin signed a treaty in 1888 placing Brunei's foreign affairs under British protection. The treaty did not stop further territorial losses at first, but it preserved the sultanate as a distinct state. It became the legal basis of the British relationship until 1984.",
+    "ko": "사라왁과 북보르네오에 흡수될 위기에 놓인 술탄 하심 잘릴룰 알람 아카마딘은 1888년 브루나이의 외교를 영국의 보호 아래 두는 조약에 서명했다. 이 조약이 당장 영토 상실을 막지는 못했지만 술탄국을 독자적인 국가로 보존했다. 이는 1984년까지 영국과의 관계를 규정하는 법적 근거가 되었다.",
+    "zh": "面对被砂拉越和北婆罗洲吞并的威胁，苏丹哈希姆·贾利鲁勒·阿拉姆·阿卡马丁于1888年签署条约，将文莱的外交置于英国保护之下。该条约起初并未阻止领土的进一步丧失，但保全了苏丹国作为独立国家的地位。它成为直至1984年文莱与英国关系的法律基础。",
+    "ja": "サラワクと北ボルネオに吸収される危機に直面したスルタン・ハシム・ジャリルル・アラム・アカマディンは、1888年にブルネイの外交をイギリスの保護下に置く条約に署名した。この条約はすぐに領土喪失を止めたわけではないが、スルタン国を独自の国家として存続させた。これは1984年までイギリスとの関係の法的基盤となった。"
+   }
+  },
+  {
+   "year": 1890,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Limbang annexed by Sarawak",
+    "ko": "사라왁의 림방 병합",
+    "zh": "砂拉越吞并林梦",
+    "ja": "サラワクによるリンバン併合"
+   },
+   "description": {
+    "en": "In 1890 Rajah Charles Brooke of Sarawak annexed the Limbang district after a local revolt against Brunei, over the sultan's protests. The loss split Brunei into two separate parts, with the Temburong district cut off from the rest of the country. Brunei never formally accepted the annexation, and the issue remained sensitive for over a century.",
+    "ko": "1890년 사라왁의 라자 찰스 브룩은 브루나이에 대한 현지 반란을 계기로 술탄의 항의를 무릅쓰고 림방 지역을 병합했다. 이로 인해 브루나이는 두 부분으로 나뉘었고, 템부롱 지역은 나머지 국토와 단절되었다. 브루나이는 이 병합을 공식적으로 인정하지 않았으며, 이 문제는 한 세기 넘게 민감한 사안으로 남았다.",
+    "zh": "1890年，砂拉越拉惹查尔斯·布鲁克趁当地反抗文莱的叛乱，不顾苏丹抗议吞并了林梦地区。此举使文莱被分割为两部分，淡布隆地区与国土其余部分隔开。文莱从未正式承认这一吞并，该问题在一个多世纪里一直十分敏感。",
+    "ja": "1890年、サラワクのラジャ・チャールズ・ブルックは、ブルネイに対する現地の反乱を機に、スルタンの抗議を押し切ってリンバン地域を併合した。これによりブルネイは二つに分断され、テンブロン地区は国土の他の部分から切り離された。ブルネイは併合を正式には認めず、この問題は1世紀以上にわたり微妙な懸案であり続けた。"
+   }
+  },
+  {
+   "year": 1906,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The British Residency system is introduced",
+    "ko": "영국 레지던트 제도 도입",
+    "zh": "引入英国驻扎官制度",
+    "ja": "イギリス駐在官制度の導入"
+   },
+   "description": {
+    "en": "Following a report by the British official Malcolm McArthur, a supplementary agreement of 1905–1906 placed a British Resident in Brunei. The sultan was bound to follow the Resident's advice on all matters except those concerning Islam and Malay custom. The arrangement halted further territorial losses and introduced modern administration, land registration and schools.",
+    "ko": "영국 관리 맬컴 맥아더의 보고서를 바탕으로 1905~1906년 보충 협정이 체결되어 브루나이에 영국인 레지던트가 주재하게 되었다. 술탄은 이슬람과 말레이 관습에 관한 문제를 제외한 모든 사안에서 레지던트의 조언을 따라야 했다. 이 체제는 추가적인 영토 상실을 막았고 근대적 행정과 토지 등기, 학교를 도입했다.",
+    "zh": "根据英国官员马尔科姆·麦克阿瑟的报告，1905—1906年签订的补充协定在文莱设立了英国驻扎官。苏丹除涉及伊斯兰教和马来习俗的事务外，须在一切事务上听从驻扎官的建议。这一安排阻止了领土的进一步丧失，并引入了近代行政、土地登记和学校。",
+    "ja": "イギリス人官吏マルコム・マッカーサーの報告を受け、1905～1906年の補足協定によりブルネイにイギリス人駐在官が置かれた。スルタンはイスラームとマレー慣習に関する事項を除くすべての事柄で駐在官の助言に従うことになった。この体制は領土のさらなる喪失を止め、近代的な行政や土地登記、学校を導入した。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Discovery of oil at Seria",
+    "ko": "세리아 유전의 발견",
+    "zh": "诗里亚发现石油",
+    "ja": "セリア油田の発見"
+   },
+   "description": {
+    "en": "In 1929 the British Malayan Petroleum Company, a Shell affiliate, struck commercial oil at Seria in the Belait district. Production grew rapidly in the following decades and petroleum, later joined by natural gas, became the foundation of the economy. The discovery turned one of the poorest territories of the region into one of the wealthiest states in Asia per capita.",
+    "ko": "1929년 셸 계열의 브리티시 말라얀 석유회사가 블라이트 지역의 세리아에서 상업성 있는 석유를 발견했다. 이후 수십 년간 생산이 빠르게 늘었고, 석유와 뒤이은 천연가스가 경제의 토대가 되었다. 이 발견으로 이 지역에서 가장 가난했던 영토가 1인당 소득 기준 아시아에서 가장 부유한 나라 중 하나로 변모했다.",
+    "zh": "1929年，壳牌旗下的英国马来亚石油公司在马来奕县诗里亚发现了具有商业价值的石油。此后数十年产量迅速增长，石油以及后来的天然气成为经济的基础。这一发现使该地区最贫穷的领地之一转变为按人均计算亚洲最富裕的国家之一。",
+    "ja": "1929年、シェル系のブリティッシュ・マラヤン石油会社がブライト地区のセリアで商業規模の石油を掘り当てた。その後数十年で生産は急増し、石油、のちには天然ガスが経済の基盤となった。この発見により、地域で最も貧しい領域の一つが、一人当たりでアジア有数の豊かな国へと変貌した。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Japanese invasion of Brunei",
+    "ko": "일본군의 브루나이 침공",
+    "zh": "日军入侵文莱",
+    "ja": "日本軍のブルネイ侵攻"
+   },
+   "description": {
+    "en": "On 16 December 1941 Japanese troops landed at Kuala Belait, quickly taking the Seria oilfields and Brunei Town. The British had already sabotaged some oil installations. Brunei remained under Japanese military administration until 1945, suffering forced labour, shortages and disruption of daily life.",
+    "ko": "1941년 12월 16일 일본군이 쿠알라 블라이트에 상륙해 세리아 유전과 브루나이 타운을 신속히 점령했다. 영국은 이미 일부 석유 시설을 파괴해 둔 상태였다. 브루나이는 1945년까지 일본 군정 아래 놓였으며 강제 노동과 물자 부족, 일상생활의 혼란을 겪었다.",
+    "zh": "1941年12月16日，日军在马来奕登陆，迅速占领诗里亚油田和文莱城。英国此前已破坏了部分石油设施。此后直至1945年文莱处于日本军政统治之下，饱受强迫劳动、物资短缺和日常生活混乱之苦。",
+    "ja": "1941年12月16日、日本軍がクアラ・ブライトに上陸し、セリア油田とブルネイ・タウンを速やかに占領した。イギリスはすでに一部の石油施設を破壊していた。ブルネイは1945年まで日本の軍政下に置かれ、強制労働や物資不足、日常生活の混乱に苦しんだ。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": "Q1934591",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of North Borneo: Allied liberation",
+    "ko": "북보르네오 전투와 연합군의 해방",
+    "zh": "北婆罗洲战役与盟军光复",
+    "ja": "北ボルネオの戦いと連合軍の解放"
+   },
+   "description": {
+    "en": "In June 1945 the Australian 9th Division landed in the Brunei Bay area as part of the Allied Borneo campaign, recapturing Brunei Town, Labuan and the oilfields. Retreating Japanese forces set dozens of oil wells at Seria on fire, and the fires took months to extinguish. A British Military Administration governed the territory until civil rule resumed in 1946.",
+    "ko": "1945년 6월 연합군 보르네오 작전의 일환으로 오스트레일리아 제9사단이 브루나이만 일대에 상륙해 브루나이 타운과 라부안, 유전 지대를 탈환했다. 퇴각하던 일본군은 세리아의 유정 수십 곳에 불을 질렀고, 불을 끄는 데 몇 달이 걸렸다. 1946년 민정이 재개될 때까지 영국 군정이 이 지역을 통치했다.",
+    "zh": "1945年6月，作为盟军婆罗洲战役的一部分，澳大利亚第9师在文莱湾一带登陆，收复了文莱城、纳闽和油田。撤退的日军点燃了诗里亚的数十口油井，大火历时数月才被扑灭。在1946年恢复民政之前，该地由英国军政府管理。",
+    "ja": "1945年6月、連合軍のボルネオ作戦の一環としてオーストラリア第9師団がブルネイ湾一帯に上陸し、ブルネイ・タウン、ラブアン、油田地帯を奪還した。撤退する日本軍はセリアの数十の油井に火を放ち、消火には数か月を要した。1946年に民政が再開されるまで、イギリス軍政がこの地を統治した。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Accession of Sultan Omar Ali Saifuddien III",
+    "ko": "술탄 오마르 알리 사이푸딘 3세 즉위",
+    "zh": "苏丹奥马尔·阿里·赛福鼎三世即位",
+    "ja": "スルタン・オマール・アリ・サイフディン3世即位"
+   },
+   "description": {
+    "en": "After the death of Sultan Ahmad Tajuddin in 1950, his brother Omar Ali Saifuddien III ascended the throne. Often called the architect of modern Brunei, he launched development plans funded by oil revenue, expanded education and infrastructure, and pushed for constitutional self-government. He also promoted Islam and the Malay language as pillars of national identity.",
+    "ko": "1950년 술탄 아흐마드 타주딘이 사망하자 그의 동생 오마르 알리 사이푸딘 3세가 즉위했다. '근대 브루나이의 설계자'로 불리는 그는 석유 수입으로 개발 계획을 시작하고 교육과 기반 시설을 확충했으며, 헌법에 따른 자치를 추진했다. 또한 이슬람과 말레이어를 국가 정체성의 기둥으로 장려했다.",
+    "zh": "1950年苏丹艾哈迈德·塔朱丁去世后，其弟奥马尔·阿里·赛福鼎三世继位。他常被称为“现代文莱的设计师”，以石油收入启动发展计划，扩大教育和基础设施，并推动宪政自治。他还将伊斯兰教和马来语作为国家认同的支柱加以弘扬。",
+    "ja": "1950年にスルタン・アフマド・タジュディンが死去すると、弟のオマール・アリ・サイフディン3世が即位した。「近代ブルネイの設計者」と呼ばれる彼は、石油収入による開発計画を始め、教育とインフラを拡充し、憲法に基づく自治を推し進めた。またイスラームとマレー語を国民的アイデンティティの柱として奨励した。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Omar Ali Saifuddien Mosque completed",
+    "ko": "오마르 알리 사이푸딘 모스크 완공",
+    "zh": "奥马尔·阿里·赛福鼎清真寺落成",
+    "ja": "オマール・アリ・サイフディン・モスク完成"
+   },
+   "description": {
+    "en": "The Omar Ali Saifuddien Mosque, with its golden dome rising beside an artificial lagoon near the water village of Kampong Ayer, was completed in 1958 in the capital. Named after the reigning sultan, it became the country's best-known landmark. It symbolized the central place of Islam in the modernizing state.",
+    "ko": "수상 마을 캄퐁 아에르 근처의 인공 석호 옆에 황금 돔을 세운 오마르 알리 사이푸딘 모스크가 1958년 수도에 완공되었다. 당시 재위 중인 술탄의 이름을 딴 이 모스크는 나라의 가장 유명한 상징물이 되었다. 이는 근대화하는 국가에서 이슬람이 차지하는 중심적 위치를 상징했다.",
+    "zh": "奥马尔·阿里·赛福鼎清真寺于1958年在首都落成，其金色穹顶矗立在水村甘榜亚逸附近的人工潟湖旁。清真寺以在位苏丹的名字命名，成为该国最著名的地标。它象征着伊斯兰教在走向现代化的国家中的核心地位。",
+    "ja": "水上集落カンポン・アイールの近くの人工池のほとりに黄金のドームを掲げるオマール・アリ・サイフディン・モスクが、1958年に首都に完成した。在位中のスルタンの名を冠したこのモスクは、国で最も有名なランドマークとなった。それは近代化する国家におけるイスラームの中心的地位を象徴した。"
+   }
+  },
+  {
+   "year": 1959,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First written constitution and self-government",
+    "ko": "헌법 제정과 내정 자치의 회복",
+    "zh": "颁布宪法，恢复内部自治",
+    "ja": "初の成文憲法と内政自治の回復"
+   },
+   "description": {
+    "en": "The constitution promulgated on 29 September 1959 restored internal self-government under Sultan Omar Ali Saifuddien III. Britain retained responsibility for defence and foreign affairs through a High Commissioner, replacing the Resident. The constitution declared Islam the official religion and created councils, including a partly elected Legislative Council.",
+    "ko": "1959년 9월 29일 공포된 헌법은 술탄 오마르 알리 사이푸딘 3세 아래 내정 자치를 회복시켰다. 영국은 레지던트 대신 고등판무관을 통해 국방과 외교에 대한 책임을 유지했다. 헌법은 이슬람을 국교로 선언하고 일부 선출직을 포함한 입법위원회 등 여러 위원회를 설치했다.",
+    "zh": "1959年9月29日颁布的宪法在苏丹奥马尔·阿里·赛福鼎三世治下恢复了内部自治。英国以高级专员取代驻扎官，继续负责国防和外交。宪法宣布伊斯兰教为国教，并设立了包括部分议员经选举产生的立法会在内的多个委员会。",
+    "ja": "1959年9月29日に公布された憲法は、スルタン・オマール・アリ・サイフディン3世の下で内政自治を回復した。イギリスは駐在官に代えて高等弁務官を置き、国防と外交の責任を保持した。憲法はイスラームを国教と定め、一部が選挙で選ばれる立法評議会などの評議会を設けた。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": "Q3299246",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Brunei Revolt",
+    "ko": "브루나이 봉기",
+    "zh": "文莱起义",
+    "ja": "ブルネイ動乱"
+   },
+   "description": {
+    "en": "On 8 December 1962 the North Kalimantan National Army, linked to A. M. Azahari's Brunei People's Party, launched an armed uprising aimed at a unified North Borneo state and opposed to the Malaysia plan. British and Gurkha troops flown in from Singapore suppressed it within days. A state of emergency was declared and has been renewed ever since, and the party was banned.",
+    "ko": "1962년 12월 8일, A. M. 아자하리의 브루나이 인민당과 연계된 북칼리만탄 국민군이 말레이시아 계획에 반대하고 통일된 북보르네오 국가를 목표로 무장 봉기를 일으켰다. 싱가포르에서 공수된 영국군과 구르카 부대가 며칠 만에 이를 진압했다. 비상사태가 선포되어 이후 계속 연장되었고 인민당은 금지되었다.",
+    "zh": "1962年12月8日，与阿扎哈里领导的文莱人民党有关的北加里曼丹国民军发动武装起义，反对马来西亚计划，谋求建立统一的北婆罗洲国家。从新加坡空运而来的英军和廓尔喀部队在数日内将其镇压。当局宣布紧急状态，此后一直延续，人民党遭到取缔。",
+    "ja": "1962年12月8日、A・M・アザハリのブルネイ人民党と結びついた北カリマンタン国民軍が、マレーシア構想に反対し統一北ボルネオ国家を目指して武装蜂起した。シンガポールから空輸されたイギリス軍とグルカ部隊が数日で鎮圧した。非常事態が宣言されて以後更新され続け、人民党は禁止された。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Brunei decides not to join Malaysia",
+    "ko": "브루나이, 말레이시아 불참 결정",
+    "zh": "文莱决定不加入马来西亚",
+    "ja": "ブルネイ、マレーシア不参加を決定"
+   },
+   "description": {
+    "en": "In July 1963 Sultan Omar Ali Saifuddien III withdrew from the negotiations to form Malaysia, which was established that September with Malaya, Singapore, Sarawak and Sabah. Disagreements over control of oil revenues and the sultan's precedence among the Malay rulers were key reasons. Brunei remained a British protectorate instead.",
+    "ko": "1963년 7월 술탄 오마르 알리 사이푸딘 3세는 말레이시아 결성 협상에서 물러났고, 말레이시아는 그해 9월 말라야·싱가포르·사라왁·사바로 출범했다. 석유 수입의 관리 문제와 말레이 통치자들 사이에서 술탄의 서열 문제를 둘러싼 이견이 주된 이유였다. 브루나이는 대신 영국 보호령으로 남았다.",
+    "zh": "1963年7月，苏丹奥马尔·阿里·赛福鼎三世退出组建马来西亚的谈判，马来西亚于当年9月由马来亚、新加坡、砂拉越和沙巴组成。在石油收入控制权以及苏丹在马来统治者中的排位问题上的分歧是主要原因。文莱则继续作为英国保护国。",
+    "ja": "1963年7月、スルタン・オマール・アリ・サイフディン3世はマレーシア結成交渉から離脱し、マレーシアは同年9月にマラヤ、シンガポール、サラワク、サバで発足した。石油収入の管理とマレー人統治者間でのスルタンの序列をめぐる対立が主な理由だった。ブルネイは引き続きイギリスの保護国にとどまった。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hassanal Bolkiah becomes the 29th Sultan",
+    "ko": "제29대 술탄 하사날 볼키아 즉위",
+    "zh": "第29任苏丹哈桑纳尔·博尔基亚即位",
+    "ja": "第29代スルタン、ハサナル・ボルキア即位"
+   },
+   "description": {
+    "en": "On 5 October 1967 Sultan Omar Ali Saifuddien III abdicated in favour of his eldest son, Hassanal Bolkiah, who was crowned in 1968. The former sultan remained influential behind the scenes until his death in 1986. Hassanal Bolkiah's reign has become one of the longest of any living monarch.",
+    "ko": "1967년 10월 5일 술탄 오마르 알리 사이푸딘 3세가 장남 하사날 볼키아에게 양위했고, 하사날 볼키아는 1968년 대관식을 치렀다. 전 술탄은 1986년 사망할 때까지 막후에서 영향력을 유지했다. 하사날 볼키아의 치세는 생존한 군주 가운데 가장 긴 것 중 하나가 되었다.",
+    "zh": "1967年10月5日，苏丹奥马尔·阿里·赛福鼎三世退位，传位于长子哈桑纳尔·博尔基亚，后者于1968年加冕。前苏丹在幕后保持影响力，直至1986年去世。哈桑纳尔·博尔基亚的在位时间已成为在世君主中最长者之一。",
+    "ja": "1967年10月5日、スルタン・オマール・アリ・サイフディン3世は長男ハサナル・ボルキアに譲位し、ハサナル・ボルキアは1968年に戴冠した。前スルタンは1986年に没するまで陰で影響力を保った。ハサナル・ボルキアの治世は、存命の君主の中で最も長いものの一つとなった。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Brunei Town renamed Bandar Seri Begawan",
+    "ko": "브루나이 타운, 반다르스리브가완으로 개칭",
+    "zh": "文莱城更名为斯里巴加湾市",
+    "ja": "ブルネイ・タウンをバンダルスリブガワンに改称"
+   },
+   "description": {
+    "en": "On 4 October 1970 the capital, Brunei Town, was renamed Bandar Seri Begawan in honour of the former sultan Omar Ali Saifuddien III, who had taken the title Seri Begawan after his abdication. The renaming reflected his status as the father of modern Brunei. The capital grew rapidly with oil-funded construction.",
+    "ko": "1970년 10월 4일 수도 브루나이 타운은 양위 후 '스리 브가완'이라는 칭호를 받은 전 술탄 오마르 알리 사이푸딘 3세를 기려 반다르스리브가완으로 이름을 바꾸었다. 이 개칭은 근대 브루나이의 아버지로서 그의 위상을 반영했다. 수도는 석유 자금에 힘입은 건설로 빠르게 성장했다.",
+    "zh": "1970年10月4日，首都文莱城更名为斯里巴加湾市，以纪念退位后获“斯里巴加湾”尊号的前苏丹奥马尔·阿里·赛福鼎三世。这次更名体现了他作为现代文莱之父的地位。首都借助石油资金的建设迅速发展。",
+    "ja": "1970年10月4日、首都ブルネイ・タウンは、譲位後に「スリ・ブガワン」の称号を得た前スルタン、オマール・アリ・サイフディン3世を讃えてバンダルスリブガワンと改称された。改称は近代ブルネイの父としての彼の地位を反映していた。首都は石油資金による建設で急速に発展した。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "LNG exports begin from the Lumut plant",
+    "ko": "루무트 LNG 플랜트 가동과 수출 개시",
+    "zh": "鲁穆特液化天然气厂投产",
+    "ja": "ルムットLNGプラント稼働"
+   },
+   "description": {
+    "en": "In 1972 Brunei began exporting liquefied natural gas from the plant at Lumut, then one of the largest in the world, mainly to Japan under long-term contracts. Natural gas joined oil as a pillar of state revenue. The long-standing energy partnership made Japan Brunei's most important trading partner for decades.",
+    "ko": "1972년 브루나이는 당시 세계 최대급이던 루무트 플랜트에서 액화천연가스 수출을 시작했으며, 주로 장기 계약을 통해 일본으로 보냈다. 천연가스는 석유와 함께 국가 재정의 기둥이 되었다. 오랜 에너지 협력으로 일본은 수십 년간 브루나이의 가장 중요한 교역 상대국이 되었다.",
+    "zh": "1972年，文莱开始从鲁穆特液化天然气厂出口液化天然气，该厂当时位居世界最大之列，产品主要通过长期合同销往日本。天然气与石油一同成为国家财政收入的支柱。这一长期能源伙伴关系使日本在数十年间一直是文莱最重要的贸易伙伴。",
+    "ja": "1972年、ブルネイは当時世界最大級だったルムットのプラントから液化天然ガスの輸出を開始し、主に長期契約で日本へ送った。天然ガスは石油とともに国家財政の柱となった。長年のエネルギー協力により、日本は数十年にわたりブルネイの最も重要な貿易相手国となった。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty with Britain sets independence date",
+    "ko": "영국과의 조약으로 독립 일정 확정",
+    "zh": "与英国签约确定独立日期",
+    "ja": "イギリスとの条約で独立期日が決定"
+   },
+   "description": {
+    "en": "On 7 January 1979 Brunei and the United Kingdom signed a Treaty of Friendship and Cooperation providing for Brunei to resume full sovereignty at the end of 1983. The sultan had been reluctant to lose British protection after the 1962 revolt and amid tensions with neighbours. The treaty set a five-year transition to independence.",
+    "ko": "1979년 1월 7일 브루나이와 영국은 1983년 말에 브루나이가 완전한 주권을 회복하도록 하는 우호 협력 조약에 서명했다. 술탄은 1962년 봉기와 이웃 나라들과의 긴장 속에서 영국의 보호를 잃는 데 소극적이었다. 이 조약으로 5년간의 독립 이행 기간이 정해졌다.",
+    "zh": "1979年1月7日，文莱与英国签订《友好合作条约》，规定文莱于1983年底恢复完全主权。在1962年起义之后以及与邻国关系紧张的背景下，苏丹此前并不情愿失去英国的保护。该条约确定了为期五年的独立过渡期。",
+    "ja": "1979年1月7日、ブルネイとイギリスは、1983年末にブルネイが完全な主権を回復することを定めた友好協力条約に署名した。スルタンは1962年の反乱や近隣諸国との緊張の中で、イギリスの保護を失うことに消極的だった。条約により独立までの5年間の移行期間が設けられた。"
+   }
+  },
+  {
+   "year": 1984,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Full independence from Britain",
+    "ko": "영국으로부터 완전 독립",
+    "zh": "脱离英国完全独立",
+    "ja": "イギリスからの完全独立"
+   },
+   "description": {
+    "en": "On 1 January 1984 Brunei Darussalam resumed full sovereignty, ending nearly a century as a British protectorate. Within days it joined ASEAN, and later that year it became a member of the United Nations and the Commonwealth. At independence the sultan proclaimed Melayu Islam Beraja (Malay Islamic Monarchy) as the guiding concept of the state.",
+    "ko": "1984년 1월 1일 브루나이 다루살람은 완전한 주권을 회복하며 약 한 세기에 걸친 영국 보호령 시대를 마감했다. 며칠 뒤 아세안에 가입했고, 그해 국제연합과 영연방의 회원국이 되었다. 독립과 함께 술탄은 '믈라유 이슬람 브라자(말레이·이슬람·군주제)'를 국가의 지도 이념으로 선포했다.",
+    "zh": "1984年1月1日，文莱达鲁萨兰国恢复完全主权，结束了近一个世纪的英国保护国时代。数日后文莱加入东盟，同年又成为联合国和英联邦成员。独立之际，苏丹宣布以“马来伊斯兰君主制”作为国家的指导理念。",
+    "ja": "1984年1月1日、ブルネイ・ダルサラームは完全な主権を回復し、1世紀近いイギリス保護国の時代に終止符を打った。数日後にASEANに加盟し、同年中に国際連合と英連邦の加盟国となった。独立に際しスルタンは「マレー・イスラーム・君主制」を国家の指導理念として宣言した。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Amedeo collapse and naming of the Crown Prince",
+    "ko": "아메데오 파산과 왕세자 책봉",
+    "zh": "阿梅迪奥公司倒闭与册立王储",
+    "ja": "アメデオ破綻と皇太子の冊立"
+   },
+   "description": {
+    "en": "In 1998, amid the Asian financial crisis, the Amedeo Development Corporation headed by the sultan's brother Prince Jefri collapsed with huge debts, prompting a government investigation and lengthy legal proceedings. The scandal exposed weaknesses in the management of state wealth. In the same year Prince Al-Muhtadee Billah was formally proclaimed Crown Prince.",
+    "ko": "1998년 아시아 금융 위기 속에서 술탄의 동생 제프리 왕자가 이끌던 아메데오 개발공사가 막대한 부채를 안고 파산하자 정부 조사와 긴 법적 분쟁이 이어졌다. 이 사건은 국부 관리의 허점을 드러냈다. 같은 해 알무타디 빌라 왕자가 공식적으로 왕세자로 책봉되었다.",
+    "zh": "1998年亚洲金融危机期间，由苏丹之弟杰弗里亲王掌管的阿梅迪奥开发公司背负巨额债务倒闭，引发政府调查和旷日持久的诉讼。这一丑闻暴露了国家财富管理的弊端。同年，穆赫塔迪·比拉亲王被正式册立为王储。",
+    "ja": "1998年、アジア通貨危機のさなか、スルタンの弟ジェフリー王子が率いたアメデオ開発公社が巨額の負債を抱えて破綻し、政府調査と長い法廷闘争が続いた。この不祥事は国家の富の管理の弱さを露呈した。同年、アル・ムタディ・ビラ王子が正式に皇太子に冊立された。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Brunei hosts the APEC summit",
+    "ko": "브루나이, APEC 정상회의 개최",
+    "zh": "文莱主办亚太经合组织峰会",
+    "ja": "ブルネイがAPEC首脳会議を開催"
+   },
+   "description": {
+    "en": "In November 2000 Bandar Seri Begawan hosted the Asia-Pacific Economic Cooperation leaders' meeting, attended by leaders including US President Bill Clinton and Chinese President Jiang Zemin. It was the largest international gathering the country had organized. The event raised Brunei's diplomatic profile in the Asia-Pacific region.",
+    "ko": "2000년 11월 반다르스리브가완에서 아시아태평양경제협력체 정상회의가 열려 빌 클린턴 미국 대통령과 장쩌민 중국 국가주석 등이 참석했다. 이는 브루나이가 개최한 국제 행사 중 최대 규모였다. 이 회의로 브루나이의 아시아태평양 지역 내 외교적 위상이 높아졌다.",
+    "zh": "2000年11月，亚太经合组织领导人非正式会议在斯里巴加湾市举行，美国总统克林顿和中国国家主席江泽民等领导人出席。这是文莱举办过的规模最大的国际会议。此次会议提升了文莱在亚太地区的外交地位。",
+    "ja": "2000年11月、バンダルスリブガワンでアジア太平洋経済協力の首脳会議が開かれ、クリントン米大統領や江沢民中国国家主席らが出席した。これはブルネイが主催した最大規模の国際会議だった。この会議によりブルネイのアジア太平洋地域での外交的存在感が高まった。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Legislative Council reconvened",
+    "ko": "입법위원회 재소집",
+    "zh": "立法会恢复召开",
+    "ja": "立法評議会の再開"
+   },
+   "description": {
+    "en": "In September 2004 the sultan reconvened the Legislative Council, which had not sat since 1984, and approved constitutional amendments. The amendments allowed for a partly elected council in the future, though all members have since continued to be appointed. The step was seen as a cautious move toward broader consultation within the absolute monarchy.",
+    "ko": "2004년 9월 술탄은 1984년 이후 열리지 않았던 입법위원회를 재소집하고 헌법 개정을 승인했다. 개정안은 장래에 일부 선출 의원을 둘 수 있도록 했지만, 이후에도 모든 의원은 계속 임명되었다. 이 조치는 절대 군주제 안에서 협의를 넓히려는 신중한 움직임으로 평가되었다.",
+    "zh": "2004年9月，苏丹恢复召开自1984年以来未曾开会的立法会，并批准了宪法修正案。修正案允许未来设立部分民选议席，但此后全体议员仍一直由任命产生。此举被视为绝对君主制下扩大咨询的谨慎步骤。",
+    "ja": "2004年9月、スルタンは1984年以来開かれていなかった立法評議会を再開し、憲法改正を承認した。改正により将来は一部議員を選挙で選ぶことが可能になったが、その後も議員は全員任命され続けている。この措置は絶対君主制の枠内で協議を広げる慎重な一歩とみなされた。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Exchange of Letters with Malaysia on boundaries",
+    "ko": "말레이시아와 경계에 관한 교환 서한",
+    "zh": "与马来西亚就边界问题换文",
+    "ja": "マレーシアとの境界に関する交換公文"
+   },
+   "description": {
+    "en": "On 16 March 2009 Brunei and Malaysia signed an Exchange of Letters settling several outstanding issues, including maritime boundaries and offshore oil and gas areas, and providing for the land boundary to be demarcated. Malaysian officials said the agreement ended Brunei's claim to Limbang, while Bruneian statements were more ambiguous. The deal opened the way to joint development of disputed offshore blocks.",
+    "ko": "2009년 3월 16일 브루나이와 말레이시아는 해양 경계와 해상 석유·가스 광구 등 여러 현안을 해결하고 육상 경계의 획정을 규정한 교환 서한에 서명했다. 말레이시아 측은 이로써 림방에 대한 브루나이의 주장이 종결되었다고 밝혔으나, 브루나이 측의 입장 표명은 보다 모호했다. 이 합의로 분쟁 해역 광구의 공동 개발이 가능해졌다.",
+    "zh": "2009年3月16日，文莱与马来西亚签署换文，解决了海上边界和近海油气区块等多项悬而未决的问题，并规定划定陆地边界。马来西亚官员称该协议终结了文莱对林梦的主张，而文莱方面的表态则较为模糊。这一协议为争议海域区块的共同开发铺平了道路。",
+    "ja": "2009年3月16日、ブルネイとマレーシアは、海洋境界や海上の石油・ガス鉱区など複数の懸案を解決し、陸上境界の画定を定めた交換公文に署名した。マレーシア側はこれでリンバンに対するブルネイの主張は終わったと述べたが、ブルネイ側の表明はより曖昧だった。この合意により係争海域の鉱区の共同開発への道が開かれた。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Brunei chairs ASEAN",
+    "ko": "브루나이, 아세안 의장국 수임",
+    "zh": "文莱担任东盟轮值主席国",
+    "ja": "ブルネイがASEAN議長国に"
+   },
+   "description": {
+    "en": "In 2013 Brunei held the rotating chairmanship of ASEAN, hosting the ASEAN summits and the East Asia Summit in Bandar Seri Begawan. It sought to advance talks on a code of conduct for the South China Sea, where Brunei also has overlapping maritime claims. Brunei chaired ASEAN again in 2021.",
+    "ko": "2013년 브루나이는 아세안 순회 의장국을 맡아 반다르스리브가완에서 아세안 정상회의와 동아시아 정상회의를 주최했다. 브루나이는 자국도 해양 영유권 주장이 겹치는 남중국해에서 행동 규범 협상을 진전시키려 했다. 브루나이는 2021년에 다시 아세안 의장국을 맡았다.",
+    "zh": "2013年文莱担任东盟轮值主席国，在斯里巴加湾市主办东盟峰会和东亚峰会。文莱力图推动“南海行为准则”的磋商，而它本身在南海也有重叠的海洋主张。2021年文莱再次担任东盟轮值主席国。",
+    "ja": "2013年、ブルネイはASEANの輪番議長国を務め、バンダルスリブガワンでASEAN首脳会議と東アジア首脳会議を主催した。自らも海洋権益の主張が重なる南シナ海について、行動規範の協議を前進させようとした。ブルネイは2021年にも再びASEAN議長国を務めた。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Phased introduction of a Sharia penal code",
+    "ko": "샤리아 형법의 단계적 도입",
+    "zh": "分阶段推行伊斯兰刑法",
+    "ja": "シャリーア刑法の段階的導入"
+   },
+   "description": {
+    "en": "In May 2014 Brunei began implementing the first phase of a Sharia penal code alongside its existing common-law based system, becoming the first East Asian state to do so at the national level. The first phase covered offences punishable by fines and imprisonment. The move drew criticism from human rights groups and some international boycotts of Brunei-owned hotels.",
+    "ko": "2014년 5월 브루나이는 기존의 보통법 기반 체계와 병행하여 샤리아 형법의 1단계 시행에 들어가, 동아시아에서 국가 차원으로 이를 시행한 첫 나라가 되었다. 1단계는 벌금과 징역에 해당하는 범죄를 다루었다. 이 조치는 인권 단체들의 비판과 브루나이 소유 호텔에 대한 일부 국제적 불매 운동을 불렀다.",
+    "zh": "2014年5月，文莱在现行以普通法为基础的体系之外开始实施伊斯兰刑法第一阶段，成为东亚首个在全国层面推行该刑法的国家。第一阶段涵盖可处以罚款和监禁的罪行。此举招致人权组织批评，并引发国际上对文莱所属酒店的部分抵制。",
+    "ja": "2014年5月、ブルネイは従来のコモン・ローに基づく制度と並行してシャリーア刑法の第1段階の施行を始め、東アジアで国家レベルでこれを実施した最初の国となった。第1段階は罰金や禁錮に当たる犯罪を対象とした。この措置は人権団体の批判と、ブルネイ系ホテルへの一部の国際的ボイコットを招いた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Golden Jubilee of Sultan Hassanal Bolkiah",
+    "ko": "술탄 하사날 볼키아 즉위 50주년",
+    "zh": "苏丹哈桑纳尔·博尔基亚登基50周年",
+    "ja": "スルタン・ハサナル・ボルキア即位50周年"
+   },
+   "description": {
+    "en": "In October 2017 Brunei celebrated the 50th anniversary of Sultan Hassanal Bolkiah's accession with ceremonies and a royal procession through Bandar Seri Begawan. The jubilee highlighted the monarchy's central role in national life. By then he was among the longest-reigning monarchs in the world.",
+    "ko": "2017년 10월 브루나이는 술탄 하사날 볼키아 즉위 50주년을 기념해 여러 의식과 반다르스리브가완 시내 왕실 행렬을 열었다. 이 기념행사는 국민 생활에서 군주제가 차지하는 중심적 역할을 부각했다. 당시 그는 세계에서 가장 오래 재위한 군주 중 한 명이었다.",
+    "zh": "2017年10月，文莱以多场典礼和斯里巴加湾市的皇家巡游庆祝苏丹哈桑纳尔·博尔基亚登基50周年。这一庆典凸显了君主制在国民生活中的核心作用。当时他已是世界上在位时间最长的君主之一。",
+    "ja": "2017年10月、ブルネイはスルタン・ハサナル・ボルキアの即位50周年を祝い、式典やバンダルスリブガワン市内での王室パレードを行った。この記念行事は国民生活における君主制の中心的役割を際立たせた。当時彼は世界で最も在位期間の長い君主の一人だった。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Full Sharia penal code takes effect",
+    "ko": "샤리아 형법 전면 시행",
+    "zh": "伊斯兰刑法全面生效",
+    "ja": "シャリーア刑法の全面施行"
+   },
+   "description": {
+    "en": "In April 2019 the remaining phases of Brunei's Sharia penal code came into force, including severe punishments for certain offences. The move provoked strong international criticism from the United Nations, governments, celebrities and businesses. In May 2019 the sultan stated that the existing de facto moratorium on the death penalty would also apply to the new code.",
+    "ko": "2019년 4월 브루나이 샤리아 형법의 나머지 단계가 발효되어 일부 범죄에 대한 가혹한 처벌이 포함되었다. 이는 국제연합과 각국 정부, 유명 인사와 기업들로부터 강한 국제적 비판을 불렀다. 2019년 5월 술탄은 기존의 사실상 사형 집행 유예가 새 형법에도 적용될 것이라고 밝혔다.",
+    "zh": "2019年4月，文莱伊斯兰刑法的其余阶段生效，其中包括对某些罪行的严厉刑罚。此举招致联合国、各国政府、名人和企业的强烈国际批评。2019年5月，苏丹表示现行事实上暂停执行死刑的做法同样适用于新刑法。",
+    "ja": "2019年4月、ブルネイのシャリーア刑法の残りの段階が発効し、一部の犯罪に対する厳しい刑罰が含まれた。これは国連や各国政府、著名人、企業から強い国際的批判を招いた。2019年5月、スルタンは事実上の死刑執行停止が新刑法にも適用されると表明した。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87412028",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic reaches Brunei",
+    "ko": "코로나19 범유행, 브루나이 도달",
+    "zh": "新冠疫情波及文莱",
+    "ja": "新型コロナウイルスのブルネイ流行"
+   },
+   "description": {
+    "en": "Brunei confirmed its first COVID-19 case in March 2020, linked to a religious gathering abroad. Strict border closures, testing and contact tracing kept infections low for more than a year. A larger outbreak from August 2021, driven by the Delta variant, caused the country's first significant wave of deaths before mass vaccination took hold.",
+    "ko": "브루나이는 2020년 3월 해외 종교 집회와 관련된 첫 코로나19 확진자를 확인했다. 엄격한 국경 봉쇄와 검사, 접촉자 추적으로 1년 넘게 감염을 낮은 수준으로 억제했다. 2021년 8월부터 델타 변이에 의한 대규모 확산이 일어나 대량 백신 접종이 자리 잡기 전까지 첫 번째 상당한 사망자 발생 파동이 있었다.",
+    "zh": "文莱于2020年3月确诊首例新冠病例，与境外一场宗教集会有关。严格的边境封锁、检测和接触者追踪使感染在一年多时间里维持在低水平。2021年8月起德尔塔变异株引发较大规模疫情，在大规模疫苗接种普及之前造成了该国首次较明显的死亡潮。",
+    "ja": "ブルネイは2020年3月、国外の宗教集会に関連する最初の新型コロナ感染者を確認した。厳格な国境封鎖や検査、接触者追跡により、1年以上にわたって感染を低く抑えた。2021年8月からデルタ株による大規模な流行が起こり、大規模接種が広がる前に初めてまとまった死者が出た。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Temburong Bridge opens",
+    "ko": "템부롱 대교 개통",
+    "zh": "淡布隆大桥通车",
+    "ja": "テンブロン橋開通"
+   },
+   "description": {
+    "en": "In March 2020 the Temburong Bridge, a roughly 30-kilometre road link across Brunei Bay, opened to traffic. It connected the exclave district of Temburong directly to the rest of the country for the first time without passing through Malaysian territory. The project, built with Chinese and South Korean contractors, was the largest infrastructure project in Brunei's history.",
+    "ko": "2020년 3월 브루나이만을 가로지르는 약 30킬로미터 길이의 템부롱 대교가 개통되었다. 이로써 월경지인 템부롱 지역이 말레이시아 영토를 거치지 않고 처음으로 나머지 국토와 직접 연결되었다. 중국과 한국 건설사들이 참여한 이 사업은 브루나이 역사상 최대의 인프라 사업이었다.",
+    "zh": "2020年3月，横跨文莱湾、全长约30公里的淡布隆大桥建成通车。它首次将飞地淡布隆县与国土其余部分直接相连，无需途经马来西亚领土。该项目由中国和韩国承包商参与建设，是文莱历史上规模最大的基础设施工程。",
+    "ja": "2020年3月、ブルネイ湾を横断する全長約30キロのテンブロン橋が開通した。これにより飛び地のテンブロン地区が、マレーシア領を通らずに初めて国土の他の部分と直接結ばれた。中国と韓国の建設会社が参加したこの事業は、ブルネイ史上最大のインフラ事業だった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q138314141",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Royal wedding of Prince Abdul Mateen",
+    "ko": "압둘 마틴 왕자의 왕실 결혼식",
+    "zh": "阿卜杜勒·马丁王子大婚",
+    "ja": "アブドゥル・マティーン王子の王室婚礼"
+   },
+   "description": {
+    "en": "In January 2024 Prince Abdul Mateen, a son of Sultan Hassanal Bolkiah, married Anisha Rosnah in ten days of ceremonies in Bandar Seri Begawan. The celebrations, including a royal procession through the capital, drew wide international media attention. The wedding showcased Brunei's Malay and Islamic court traditions.",
+    "ko": "2024년 1월 술탄 하사날 볼키아의 아들 압둘 마틴 왕자가 반다르스리브가완에서 열흘간의 의식 끝에 아니샤 로스나와 결혼했다. 수도를 도는 왕실 행렬을 포함한 축하 행사는 국제 언론의 큰 관심을 끌었다. 이 결혼식은 브루나이의 말레이·이슬람 궁정 전통을 보여 주었다.",
+    "zh": "2024年1月，苏丹哈桑纳尔·博尔基亚之子阿卜杜勒·马丁王子在斯里巴加湾市经过为期十天的仪式与安妮莎·罗斯娜成婚。包括首都皇家巡游在内的庆典受到国际媒体广泛关注。这场婚礼展示了文莱的马来和伊斯兰宫廷传统。",
+    "ja": "2024年1月、スルタン・ハサナル・ボルキアの息子アブドゥル・マティーン王子が、バンダルスリブガワンで10日間にわたる儀式を経てアニシャ・ロスナと結婚した。首都を巡る王室パレードを含む祝典は、国際メディアの大きな注目を集めた。この婚礼はブルネイのマレー・イスラーム宮廷の伝統を示すものだった。"
+   }
+  }
+ ]
+}

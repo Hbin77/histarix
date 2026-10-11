@@ -1,0 +1,1443 @@
+{
+ "iso": "MG",
+ "eras": [
+  {
+   "from": -8000,
+   "to": 400,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Madagascar before permanent settlement",
+    "ko": "영구 정착 이전의 마다가스카르",
+    "zh": "永久定居之前的马达加斯加",
+    "ja": "定住以前のマダガスカル"
+   },
+   "summary": {
+    "en": "Isolated from Africa for some 88 million years, Madagascar developed a unique fauna of lemurs, elephant birds, giant tortoises and pygmy hippopotamuses. Claims of very early human visits rest on a few cut-marked bones and remain debated among scientists. For most of this long period the island appears to have been uninhabited or only briefly visited by foragers and seafarers.",
+    "ko": "약 8,800만 년 동안 아프리카 대륙과 떨어져 있던 마다가스카르에서는 여우원숭이, 코끼리새, 거대 거북, 피그미하마 등 독특한 동물상이 발달했다. 아주 이른 시기의 인간 방문설은 소수의 절단 흔적이 남은 뼈에 근거하고 있어 학계에서 논쟁 중이다. 이 긴 기간 동안 섬은 대체로 무인도였거나 수렵채집민·항해자가 잠시 들르는 정도였던 것으로 보인다.",
+    "zh": "马达加斯加与非洲大陆分离约8800万年，孕育了狐猴、象鸟、巨型陆龟和侏儒河马等独特动物群。关于人类极早登岛的说法仅依据少量带切割痕迹的骨骼，学界仍有争论。在这一漫长时期里，该岛大体上无人定居，或仅有采集狩猎者和航海者短暂造访。",
+    "ja": "約8800万年にわたりアフリカ大陸から隔絶されたマダガスカルでは、キツネザル、エピオルニス（象鳥）、巨大リクガメ、コビトカバなど独自の動物相が育まれた。非常に早い時期の人類来訪説は切り傷のある少数の骨に基づくもので、学界でなお議論がある。この長い期間、島は概ね無人であったか、狩猟採集民や航海者が一時的に訪れる程度だったとみられる。"
+   }
+  },
+  {
+   "from": 400,
+   "to": 1000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Austronesian and African settlement",
+    "ko": "오스트로네시아인·아프리카인의 정착",
+    "zh": "南岛人与非洲人的定居",
+    "ja": "オーストロネシア系・アフリカ系の定住"
+   },
+   "summary": {
+    "en": "During the first millennium AD seafarers from island Southeast Asia, whose language is closest to Ma'anyan of southern Borneo, settled Madagascar, later joined by Bantu-speaking Africans from the mainland. Their fusion produced the Malagasy people, language and culture, combining rice cultivation and outrigger canoes with African cattle-keeping. Small coastal communities of fishers, farmers and herders spread around the island.",
+    "ko": "서기 1천년기 동안 보르네오섬 남부의 마아냔어와 가장 가까운 언어를 쓰던 동남아시아 도서부의 항해자들이 마다가스카르에 정착했고, 이후 아프리카 본토의 반투어계 사람들이 합류했다. 이들의 융합으로 벼농사와 아우트리거 카누, 아프리카식 소 목축이 어우러진 말라가시 민족·언어·문화가 형성되었다. 어로·농경·목축을 하는 작은 해안 공동체들이 섬 곳곳으로 퍼져 나갔다.",
+    "zh": "公元第一个千年间，来自东南亚海岛地区的航海者在马达加斯加定居，其语言与婆罗洲南部的马安延语最为接近；此后来自非洲大陆的班图语族群也加入进来。两者融合形成了马达加斯加民族、语言与文化，兼具水稻种植、舷外浮杆独木舟与非洲式养牛传统。以渔猎、农耕和放牧为生的沿海小社群逐渐遍布全岛。",
+    "ja": "紀元1千年紀の間、ボルネオ島南部のマアニャン語に最も近い言語を話す東南アジア島嶼部の航海者がマダガスカルに定住し、のちにアフリカ大陸のバントゥー系の人々が加わった。両者の融合から、稲作やアウトリガーカヌーとアフリカ的な牛牧を併せ持つマダガスカル人の民族・言語・文化が生まれた。漁労・農耕・牧畜を営む小さな沿岸共同体が島の各地に広がった。"
+   }
+  },
+  {
+   "from": 900,
+   "to": 1500,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Indian Ocean trade towns and early chiefdoms",
+    "ko": "인도양 교역 도시와 초기 수장국",
+    "zh": "印度洋贸易城镇与早期酋邦",
+    "ja": "インド洋交易都市と初期の首長制社会"
+   },
+   "summary": {
+    "en": "From around the 10th century trading towns such as Mahilaka in the northwest and the Vohémar (Iharana) settlements in the northeast linked Madagascar to Swahili, Arab and wider Indian Ocean commerce, exporting chlorite-schist vessels, rice and enslaved people. Islamized Antalaotra communities settled the coasts, while farming peoples, remembered in tradition as the Vazimba, occupied the central highlands. Local chiefdoms grew as rice, cattle and trade generated wealth.",
+    "ko": "10세기 무렵부터 북서부의 마힐라카, 북동부의 보에마르(이하라나) 등 교역 도시들이 마다가스카르를 스와힐리·아랍 및 인도양 전역의 상업망과 연결하며 녹니석 편암 그릇, 쌀, 노예 등을 수출했다. 이슬람화된 안탈라오트라 공동체가 해안에 자리 잡았고, 전승에서 바짐바로 기억되는 농경민이 중앙 고원에 살았다. 쌀과 소, 교역이 부를 낳으면서 지역 수장국들이 성장했다.",
+    "zh": "约自10世纪起，西北部的马希拉卡、东北部的沃埃马尔（伊哈拉纳）等贸易城镇将马达加斯加与斯瓦希里、阿拉伯乃至整个印度洋商业网络相连，输出绿泥片岩器皿、稻米和奴隶。伊斯兰化的安塔拉奥特拉人定居沿海，而传说中被称为“瓦津巴”的农耕民生活在中部高原。稻米、牛群与贸易带来财富，地方酋邦随之壮大。",
+    "ja": "10世紀頃から、北西部のマヒラカや北東部のヴォエマール（イハラナ）などの交易都市が、マダガスカルをスワヒリ・アラブ、さらにインド洋全域の商業網と結びつけ、緑泥片岩の器や米、奴隷などを輸出した。イスラーム化したアンタラウチャの共同体が沿岸に住み着き、伝承でヴァジンバとして記憶される農耕民が中央高地に暮らした。米と牛と交易が富を生み、各地の首長制社会が成長した。"
+   }
+  },
+  {
+   "from": 1500,
+   "to": 1700,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Rise of the Malagasy kingdoms",
+    "ko": "말라가시 왕국들의 등장",
+    "zh": "马达加斯加诸王国的兴起",
+    "ja": "マダガスカル諸王国の勃興"
+   },
+   "summary": {
+    "en": "From the 16th century chiefdoms across the island consolidated into kingdoms: the Antemoro in the southeast, keepers of the sorabe Arabic-script manuscripts, the Merina and Betsileo in the highlands, and the Maroserana-led Sakalava in the west. Portuguese, Dutch, English and French ships began to call, seeking provisions, slaves and bases on the route to India. Sacred kingship, ancestor veneration and the cattle and slave trades shaped political life.",
+    "ko": "16세기부터 섬 곳곳의 수장국들이 왕국으로 통합되었다. 남동부에는 아랍 문자 필사본 '소라베'를 전승한 안테모로, 고원에는 메리나와 베칠레오, 서부에는 마로세라나 왕가가 이끄는 사칼라바가 일어섰다. 포르투갈·네덜란드·영국·프랑스 선박이 인도 항로의 보급품과 노예, 거점을 찾아 기항하기 시작했다. 신성 왕권과 조상 숭배, 소와 노예 교역이 정치 생활을 규정했다.",
+    "zh": "自16世纪起，岛上各地的酋邦逐渐整合为王国：东南部有保存阿拉伯字母手稿“索拉贝”的安泰莫罗人，高原有梅里纳人和贝希略人，西部则有马罗塞拉纳王族领导的萨卡拉瓦人。葡萄牙、荷兰、英国和法国船只开始前来停靠，在通往印度的航线上寻求补给、奴隶和据点。神圣王权、祖先崇拜以及牛与奴隶贸易塑造了当时的政治生活。",
+    "ja": "16世紀以降、島の各地の首長制社会は王国へと統合されていった。南東部ではアラビア文字写本「ソラベ」を伝えるアンテモロ、高地ではメリナとベツィレオ、西部ではマロセラナ王家に率いられたサカラヴァが台頭した。ポルトガル・オランダ・イギリス・フランスの船がインド航路の補給や奴隷、拠点を求めて寄港し始めた。神聖王権と祖先崇拝、牛と奴隷の交易が政治生活を形づくった。"
+   }
+  },
+  {
+   "from": 1540,
+   "to": 1787,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Imerina kingdom",
+    "ko": "초기 이메리나 왕국",
+    "zh": "早期伊默里纳王国",
+    "ja": "初期イメリナ王国"
+   },
+   "summary": {
+    "en": "According to oral tradition, Merina rulers such as Andriamanelo, Ralambo and Andrianjaka built a kingdom in the central highlands from the 16th century, founding Antananarivo on the hill of Analamanga. Its economy rested on irrigated rice terraces, iron working and fortified hill villages. In the 18th century the realm split into rival kingdoms after the death of Andriamasinavalona.",
+    "ko": "구전에 따르면 안드리아마넬로, 랄람보, 안드리안자카 등 메리나 군주들이 16세기부터 중앙 고원에 왕국을 세우고 아날라망가 언덕에 안타나나리보를 건설했다. 경제는 관개 계단식 논, 제철, 요새화된 언덕 마을에 기반했다. 18세기에 안드리아마시나발로나가 죽은 뒤 왕국은 서로 경쟁하는 여러 왕국으로 분열했다.",
+    "zh": "据口述传统，安德里亚马内洛、拉兰博、安德里安扎卡等梅里纳君主自16世纪起在中部高原建立王国，并在阿纳拉曼加山上兴建了塔那那利佛。其经济以灌溉梯田稻作、冶铁和设防的山顶村落为基础。18世纪安德里亚马西纳瓦洛纳死后，王国分裂为数个相互竞争的小王国。",
+    "ja": "口承伝承によれば、アンドリアマネロ、ララムボ、アンドリアンジャカらメリナの君主が16世紀以降中央高地に王国を築き、アナラマンガの丘にアンタナナリボを建設した。経済は灌漑された棚田、製鉄、防備を固めた丘上の村落に支えられていた。18世紀、アンドリアマシナヴァルナの死後、王国は互いに争う複数の王国に分裂した。"
+   }
+  },
+  {
+   "from": 1643,
+   "to": 1674,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "French Fort-Dauphin",
+    "ko": "프랑스령 포르도팽",
+    "zh": "法国多凡堡",
+    "ja": "フランスのフォール・ドーファン"
+   },
+   "summary": {
+    "en": "In 1643 agents of the French Société de l'Orient founded Fort-Dauphin on the southeastern coast, France's first sustained foothold on the island. Governor Étienne de Flacourt wrote the first major European description of Madagascar there. Conflict with the Antanosy, disease and isolation weakened the post, and after a massacre in 1674 the survivors withdrew to Bourbon (Réunion).",
+    "ko": "1643년 프랑스 동방회사 관계자들이 남동부 해안에 포르도팽을 세웠는데, 이는 프랑스가 섬에 처음으로 오래 유지한 거점이었다. 총독 에티엔 드 플라쿠르는 이곳에서 마다가스카르에 관한 유럽 최초의 본격적인 기록을 남겼다. 안타노시족과의 충돌, 질병, 고립으로 거점은 약화되었고, 1674년 학살 이후 생존자들은 부르봉섬(레위니옹)으로 철수했다.",
+    "zh": "1643年，法国东方公司的人员在东南海岸建立多凡堡，这是法国在该岛第一个较长期的据点。总督艾蒂安·德·弗拉古在此写下了欧洲人对马达加斯加的第一部重要记述。与安塔诺西人的冲突、疾病和孤立使据点日益衰弱，1674年发生屠杀后，幸存者撤往波旁岛（留尼汪）。",
+    "ja": "1643年、フランス東方会社の関係者が南東海岸にフォール・ドーファンを建設し、これがフランスにとって島で初めての持続的な拠点となった。総督エティエンヌ・ド・フラクールはここでマダガスカルに関するヨーロッパ初の本格的な記述を著した。アンタノシ人との衝突、疫病、孤立によって拠点は衰え、1674年の虐殺の後、生存者はブルボン島（レユニオン）へ撤退した。"
+   }
+  },
+  {
+   "from": 1650,
+   "to": 1896,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Sakalava kingdoms of Menabe and Boina",
+    "ko": "사칼라바 왕국(메나베·보이나)",
+    "zh": "萨卡拉瓦王国（梅纳贝与博伊纳）",
+    "ja": "サカラヴァ王国（メナベ・ボイナ）"
+   },
+   "summary": {
+    "en": "Led by the Maroserana dynasty, the Sakalava built the kingdom of Menabe in the west in the 17th century and, by around 1700, the kingdom of Boina in the northwest, centered on the port of Mahajanga. Grown rich on cattle, firearms and the slave trade with Swahili, Arab and European merchants, they were for a time the island's strongest power. Boina fell to Merina expansion in the 1820s–1830s, while Menabe and the northern Antakarana resisted until French conquest.",
+    "ko": "마로세라나 왕조가 이끈 사칼라바는 17세기 서부에 메나베 왕국을, 1700년 무렵에는 마하장가 항구를 중심으로 북서부에 보이나 왕국을 세웠다. 소와 화기, 스와힐리·아랍·유럽 상인과의 노예 교역으로 부유해진 이들은 한때 섬에서 가장 강력한 세력이었다. 보이나는 1820~1830년대 메리나의 팽창으로 무너졌지만, 메나베와 북부의 안타카라나는 프랑스의 정복 때까지 저항했다.",
+    "zh": "在马罗塞拉纳王朝领导下，萨卡拉瓦人于17世纪在西部建立梅纳贝王国，约1700年又在西北部建立以马哈赞加港为中心的博伊纳王国。他们依靠牛群、火器以及与斯瓦希里、阿拉伯和欧洲商人的奴隶贸易而致富，一度是岛上最强大的势力。博伊纳在1820至1830年代被梅里纳扩张所吞并，而梅纳贝和北部的安塔卡拉纳则一直抵抗到法国征服。",
+    "ja": "マロセラナ王朝に率いられたサカラヴァは、17世紀に西部でメナベ王国を、1700年頃には北西部で港町マハジャンガを中心とするボイナ王国を築いた。牛と火器、スワヒリ・アラブ・ヨーロッパ商人との奴隷交易で富を蓄え、一時は島最強の勢力となった。ボイナは1820〜30年代にメリナの拡大で併合されたが、メナベと北部のアンタカラナはフランスの征服まで抵抗を続けた。"
+   }
+  },
+  {
+   "from": 1712,
+   "to": 1817,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Betsimisaraka confederation",
+    "ko": "베치미사라카 연합",
+    "zh": "贝齐米萨拉卡联盟",
+    "ja": "ベツィミサラカ連合"
+   },
+   "summary": {
+    "en": "In the early 18th century Ratsimilaho, said to be the son of an English pirate and a Malagasy princess, united the clans of the east coast into the Betsimisaraka confederation, centered on Fenoarivo. The coast traded rice, cattle and slaves with the French Mascarene islands. After his death in 1750 the confederation fragmented, and its ports later passed under Merina control under Radama I.",
+    "ko": "18세기 초 영국 해적과 말라가시 공주 사이에서 태어났다고 전해지는 라치밀라호가 동부 해안의 씨족들을 통합해 페노아리보를 중심으로 베치미사라카 연합을 세웠다. 해안 지역은 프랑스령 마스카렌 제도와 쌀·소·노예를 교역했다. 1750년 그가 죽은 뒤 연합은 분열했고, 그 항구들은 이후 라다마 1세 때 메리나의 지배로 넘어갔다.",
+    "zh": "18世纪初，据说是英国海盗与马达加斯加公主之子的拉齐米拉霍将东海岸各氏族联合起来，以费努阿里武为中心建立了贝齐米萨拉卡联盟。沿海地区与法属马斯克林群岛进行稻米、牛和奴隶贸易。1750年他去世后联盟分裂，其港口后来在拉达马一世时期落入梅里纳控制之下。",
+    "ja": "18世紀初め、イギリス人海賊とマダガスカル人の王女の子と伝えられるラツィミラフが東海岸の諸氏族を統合し、フェヌアリヴを中心にベツィミサラカ連合を築いた。沿岸部はフランス領マスカレン諸島と米・牛・奴隷を取引した。1750年に彼が死ぬと連合は分裂し、その港はのちにラダマ1世の下でメリナの支配に入った。"
+   }
+  },
+  {
+   "from": 1787,
+   "to": 1897,
+   "kind": "state",
+   "qid": "Q1071439",
+   "polity": "Merina Kingdom",
+   "name": {
+    "en": "Merina Kingdom (Kingdom of Madagascar)",
+    "ko": "메리나 왕국(마다가스카르 왕국)",
+    "zh": "梅里纳王国（马达加斯加王国）",
+    "ja": "メリナ王国（マダガスカル王国）"
+   },
+   "summary": {
+    "en": "Reunited by Andrianampoinimerina and expanded by Radama I, the Merina kingdom ruled from Antananarivo over roughly two-thirds of the island and was recognized abroad as the Kingdom of Madagascar. It developed a standing army, written Malagasy in Latin script, schools, codified laws and, after 1869, an official Protestant Christianity. Rivalry between Britain and France and two Franco-Merina wars ended in French conquest in 1895 and the abolition of the monarchy in 1897.",
+    "ko": "안드리아남포이니메리나가 재통일하고 라다마 1세가 확장한 메리나 왕국은 안타나나리보에서 섬의 약 3분의 2를 다스렸으며 대외적으로 '마다가스카르 왕국'으로 인정받았다. 상비군, 라틴 문자로 표기한 말라가시어, 학교, 성문 법전을 갖추었고 1869년 이후에는 개신교를 사실상 국교로 삼았다. 영국과 프랑스의 경쟁 속에서 두 차례의 프랑스-메리나 전쟁 끝에 1895년 프랑스에 정복되고 1897년 왕정이 폐지되었다.",
+    "zh": "梅里纳王国由安德里亚南普伊尼梅里纳重新统一、拉达马一世加以扩张，以塔那那利佛为都统治全岛约三分之二的地区，对外被承认为“马达加斯加王国”。它建立了常备军，用拉丁字母书写马达加斯加语，兴办学校、编纂法典，1869年后更以新教为官方宗教。在英法角逐中，经过两次法梅战争，王国于1895年被法国征服，1897年君主制被废除。",
+    "ja": "アンドリアナンポイニメリナが再統一し、ラダマ1世が拡大したメリナ王国は、アンタナナリボから島のおよそ3分の2を支配し、対外的には「マダガスカル王国」として承認された。常備軍、ラテン文字によるマダガスカル語表記、学校、成文法典を整え、1869年以降はプロテスタントを事実上の国教とした。英仏の対立の中で二度のフランス＝メリナ戦争を経て、1895年にフランスに征服され、1897年に王政は廃止された。"
+   }
+  },
+  {
+   "from": 1896,
+   "to": 1958,
+   "kind": "colonial",
+   "qid": "Q19951607",
+   "polity": "French Africa",
+   "name": {
+    "en": "French colony of Madagascar",
+    "ko": "프랑스령 마다가스카르",
+    "zh": "法属马达加斯加",
+    "ja": "フランス領マダガスカル"
+   },
+   "summary": {
+    "en": "France annexed Madagascar in 1896 and governed it as the Colony of Madagascar and Dependencies, with Antananarivo as capital. Governor-General Joseph Gallieni crushed resistance and imposed forced labor, head taxes and a policy favoring coastal peoples against the Merina elite, while railways, plantations and mission schools spread. Nationalism grew through the VVS secret society and the MDRM, culminating in the bloody 1947 uprising; in 1946 the island became an overseas territory of France.",
+    "ko": "프랑스는 1896년 마다가스카르를 병합해 안타나나리보를 수도로 하는 '마다가스카르 및 속령 식민지'로 통치했다. 조제프 갈리에니 총독은 저항을 진압하고 강제 노동과 인두세를 부과했으며 메리나 엘리트에 맞서 해안 민족을 우대하는 정책을 폈고, 철도·플랜테이션·선교 학교가 확산되었다. 민족주의는 비밀결사 VVS와 MDRM을 통해 성장해 1947년 유혈 봉기로 정점에 달했으며, 1946년 섬은 프랑스 해외 영토가 되었다.",
+    "zh": "法国于1896年吞并马达加斯加，将其作为“马达加斯加及属地殖民地”统治，首府为塔那那利佛。总督约瑟夫·加利埃尼镇压反抗，推行强迫劳动和人头税，并扶持沿海民族以牵制梅里纳精英，同时铁路、种植园和教会学校不断扩展。民族主义经由秘密社团VVS和马达加斯加民主革新运动（MDRM）发展壮大，最终酿成1947年的血腥起义；1946年该岛成为法国海外领地。",
+    "ja": "フランスは1896年にマダガスカルを併合し、アンタナナリボを首都とする「マダガスカルおよび属領植民地」として統治した。総督ジョゼフ・ガリエニは抵抗を鎮圧し、強制労働や人頭税を課し、メリナのエリートに対抗して沿岸諸民族を優遇する政策をとった一方、鉄道・プランテーション・ミッションスクールが広がった。民族主義は秘密結社VVSやMDRMを通じて高まり、1947年の流血の蜂起に至った。1946年、島はフランスの海外領土となった。"
+   }
+  },
+  {
+   "from": 1958,
+   "to": 1975,
+   "kind": "state",
+   "qid": "Q6740997",
+   "polity": null,
+   "name": {
+    "en": "Malagasy Republic (First Republic)",
+    "ko": "말라가시 공화국(제1공화국)",
+    "zh": "马尔加什共和国（第一共和国）",
+    "ja": "マラガシ共和国（第一共和政）"
+   },
+   "summary": {
+    "en": "Proclaimed an autonomous republic within the French Community in 1958, the Malagasy Republic became fully independent in 1960 under President Philibert Tsiranana of the Social Democratic Party. It kept close economic, military and cultural ties with France. Growing discontent among students and peasants, including the 1971 southern revolt and the May 1972 protests, brought the regime down.",
+    "ko": "1958년 프랑스 공동체 내 자치 공화국으로 선포된 말라가시 공화국은 1960년 사회민주당의 필리베르 치라나나 대통령 아래 완전한 독립을 이루었다. 프랑스와 경제·군사·문화적으로 긴밀한 관계를 유지했다. 1971년 남부 봉기와 1972년 5월 시위 등 학생과 농민의 불만이 커지면서 정권은 무너졌다.",
+    "zh": "1958年马尔加什共和国在法兰西共同体内宣布为自治共和国，1960年在社会民主党领袖菲利贝尔·齐拉纳纳总统领导下完全独立。它与法国保持着密切的经济、军事和文化联系。学生和农民的不满日益加深，包括1971年南部农民起义和1972年5月抗议，最终导致政权垮台。",
+    "ja": "1958年にフランス共同体内の自治共和国として宣言されたマラガシ共和国は、1960年、社会民主党のフィリベール・ツィラナナ大統領のもとで完全独立を果たした。フランスとは経済・軍事・文化面で緊密な関係を保った。1971年の南部農民蜂起や1972年5月の抗議運動など学生・農民の不満が高まり、政権は崩壊した。"
+   }
+  },
+  {
+   "from": 1975,
+   "to": 1992,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Democratic Republic of Madagascar (Second Republic)",
+    "ko": "마다가스카르 민주 공화국(제2공화국)",
+    "zh": "马达加斯加民主共和国（第二共和国）",
+    "ja": "マダガスカル民主共和国（第二共和政）"
+   },
+   "summary": {
+    "en": "Under Didier Ratsiraka, the Second Republic followed a socialist path set out in his 'Red Book', nationalizing banks, insurance and major industries and aligning with the Soviet bloc, North Korea and other socialist states. Economic decline and debt led to IMF-backed reforms in the 1980s. Mass protests in 1991 forced a negotiated transition to multiparty democracy.",
+    "ko": "디디에 라치라카가 이끈 제2공화국은 그의 '붉은 책'이 제시한 사회주의 노선을 따라 은행·보험·주요 산업을 국유화하고 소련 진영, 북한 등 사회주의 국가들과 가까워졌다. 경제 쇠퇴와 부채로 1980년대에는 IMF가 지원하는 개혁을 받아들였다. 1991년 대규모 시위로 다당제 민주주의로의 협상된 이행이 이루어졌다.",
+    "zh": "在迪迪埃·拉齐拉卡领导下，第二共和国遵循其《红皮书》所阐述的社会主义道路，将银行、保险和主要工业收归国有，并与苏联集团、朝鲜等社会主义国家结盟。经济衰退和债务问题使其在1980年代接受了国际货币基金组织支持的改革。1991年的大规模抗议迫使政权通过谈判向多党民主过渡。",
+    "ja": "ディディエ・ラツィラカ率いる第二共和政は、彼の「赤い本」に示された社会主義路線をとり、銀行・保険・主要産業を国有化し、ソ連圏や北朝鮮など社会主義諸国と接近した。経済の低迷と債務により、1980年代にはIMFの支援する改革を受け入れた。1991年の大規模な抗議運動によって、交渉による複数政党制民主主義への移行が実現した。"
+   }
+  },
+  {
+   "from": 1992,
+   "to": 2010,
+   "kind": "state",
+   "qid": "Q7784940",
+   "polity": null,
+   "name": {
+    "en": "Third Republic of Madagascar",
+    "ko": "마다가스카르 제3공화국",
+    "zh": "马达加斯加第三共和国",
+    "ja": "マダガスカル第三共和政"
+   },
+   "summary": {
+    "en": "The 1992 constitution created a multiparty Third Republic. Its presidents—Albert Zafy, a returning Didier Ratsiraka and businessman Marc Ravalomanana—oversaw liberalization, foreign investment and recurring political crises, notably the disputed 2001 election that split the country in 2002. The republic ended when protests and army support brought Andry Rajoelina to power in 2009.",
+    "ko": "1992년 헌법으로 다당제 제3공화국이 출범했다. 알베르트 자피, 복귀한 디디에 라치라카, 사업가 출신 마르크 라발로마나나 대통령 아래에서 자유화와 외국인 투자가 진행되었으나, 2002년 나라를 양분한 2001년 대선 분쟁 등 정치 위기가 되풀이되었다. 2009년 시위와 군의 지지로 안드리 라조엘리나가 권력을 잡으면서 이 공화국은 막을 내렸다.",
+    "zh": "1992年宪法建立了多党制的第三共和国。阿尔贝·扎菲、复出的迪迪埃·拉齐拉卡以及企业家出身的马克·拉瓦卢马纳纳先后任总统，推进经济自由化和吸引外资，但政治危机反复发生，尤以2001年选举争议导致2002年国家分裂为甚。2009年，抗议浪潮和军方支持使安德里·拉乔利纳上台，第三共和国就此终结。",
+    "ja": "1992年憲法により複数政党制の第三共和政が発足した。アルベール・ザフィ、返り咲いたディディエ・ラツィラカ、実業家出身のマルク・ラヴァルマナナの各大統領の下で自由化と外国投資が進んだが、2001年大統領選挙をめぐる争いが2002年に国を二分するなど政治危機が繰り返された。2009年、抗議運動と軍の支持でアンドリー・ラジョエリナが権力を握り、この共和政は終わった。"
+   }
+  },
+  {
+   "from": 2010,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q1019",
+   "polity": "Madagascar",
+   "name": {
+    "en": "Fourth Republic of Madagascar",
+    "ko": "마다가스카르 제4공화국",
+    "zh": "马达加斯加第四共和国",
+    "ja": "マダガスカル第四共和政"
+   },
+   "summary": {
+    "en": "A 2010 referendum adopted the constitution of the Fourth Republic, and internationally recognized elections in 2013 ended the post-2009 transition. Madagascar has faced deep poverty, cyclones, droughts in the south and plague outbreaks, alongside a growing mining and vanilla economy. Andry Rajoelina, elected in 2018 and re-elected in a contested 2023 vote, was removed in October 2025 after youth-led protests and a military takeover.",
+    "ko": "2010년 국민투표로 제4공화국 헌법이 채택되었고, 2013년 국제적으로 인정받은 선거로 2009년 이후의 과도기가 끝났다. 마다가스카르는 광업과 바닐라 경제가 성장하는 한편 심각한 빈곤, 사이클론, 남부의 가뭄, 페스트 유행에 시달려 왔다. 2018년 당선되고 논란 속의 2023년 선거에서 재선된 안드리 라조엘리나는 2025년 10월 청년 주도 시위와 군의 권력 장악으로 물러났다.",
+    "zh": "2010年的全民公投通过了第四共和国宪法，2013年获国际承认的选举结束了2009年以来的过渡期。马达加斯加的采矿业和香草经济有所发展，但也饱受严重贫困、气旋、南部干旱和鼠疫疫情之苦。2018年当选、并在备受争议的2023年选举中连任的安德里·拉乔利纳，于2025年10月在青年主导的抗议和军方夺权后下台。",
+    "ja": "2010年の国民投票で第四共和政の憲法が採択され、2013年に国際的に認められた選挙によって2009年以来の暫定期が終わった。マダガスカルでは鉱業やバニラ経済が伸びる一方、深刻な貧困、サイクロン、南部の干ばつ、ペストの流行に苦しんできた。2018年に当選し、論争の的となった2023年選挙で再選されたアンドリー・ラジョエリナは、2025年10月、若者主導の抗議と軍の権力掌握によって失脚した。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": 500,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Austronesian settlers reach Madagascar",
+    "ko": "오스트로네시아인의 마다가스카르 정착",
+    "zh": "南岛人抵达马达加斯加",
+    "ja": "オーストロネシア系移民のマダガスカル到達"
+   },
+   "description": {
+    "en": "Around the middle of the first millennium AD, seafarers from the Malay-Indonesian archipelago—ancestors of the Malagasy—settled Madagascar after one of history's longest ocean migrations. Their language is most closely related to Ma'anyan, spoken in southern Borneo. Bantu-speaking Africans from the mainland later joined them, and the mix of the two shaped Malagasy genes, language and culture.",
+    "ko": "서기 1천년기 중반 무렵, 말라가시인의 조상인 말레이·인도네시아 제도의 항해자들이 역사상 가장 긴 해양 이주 가운데 하나를 거쳐 마다가스카르에 정착했다. 이들의 언어는 보르네오섬 남부의 마아냔어와 가장 가깝다. 이후 아프리카 본토의 반투어계 사람들이 합류했으며, 두 집단의 융합이 말라가시인의 유전자·언어·문화를 형성했다.",
+    "zh": "约公元第一个千年中叶，马达加斯加人的祖先——来自马来-印度尼西亚群岛的航海者——经过人类历史上最漫长的海上迁徙之一，定居马达加斯加。他们的语言与婆罗洲南部的马安延语关系最为密切。后来，来自非洲大陆的班图语族群也加入其中，两者的融合塑造了马达加斯加人的基因、语言与文化。",
+    "ja": "紀元1千年紀の半ば頃、マダガスカル人の祖先であるマレー・インドネシア諸島の航海者が、史上最長級の海洋移住を経てマダガスカルに定住した。彼らの言語はボルネオ島南部のマアニャン語に最も近い。のちにアフリカ大陸のバントゥー系の人々が加わり、両者の融合がマダガスカル人の遺伝子・言語・文化を形づくった。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Indian Ocean trade links flourish",
+    "ko": "인도양 교역망과의 연결",
+    "zh": "融入印度洋贸易网络",
+    "ja": "インド洋交易網との結びつき"
+   },
+   "description": {
+    "en": "Around the turn of the second millennium, Swahili and Arab traders established posts on Madagascar's northern and western coasts, tying the island into Indian Ocean commerce. Islamized coastal communities, later called Antalaotra, mediated this trade in rice, cattle, stone vessels and slaves. Arabic influence left lasting traces in Malagasy vocabulary, astrology, the calendar and the later sorabe script.",
+    "ko": "2천년기가 시작될 무렵 스와힐리·아랍 상인들이 마다가스카르 북부와 서부 해안에 교역 거점을 세워 섬을 인도양 상업망에 편입시켰다. 훗날 안탈라오트라로 불린 이슬람화된 해안 공동체가 쌀, 소, 석제 그릇, 노예 교역을 중개했다. 아랍의 영향은 말라가시어 어휘, 점성술, 역법, 그리고 후대의 소라베 문자에 오래도록 흔적을 남겼다.",
+    "zh": "约在第二个千年之初，斯瓦希里和阿拉伯商人在马达加斯加北部和西部海岸设立商站，将该岛纳入印度洋商业网络。后来被称为安塔拉奥特拉人的伊斯兰化沿海社群居间经营稻米、牛、石器和奴隶贸易。阿拉伯文化的影响在马达加斯加语词汇、占星术、历法以及后来的索拉贝文字中留下了长久痕迹。",
+    "ja": "第2千年紀の初め頃、スワヒリやアラブの商人がマダガスカル北部・西部の沿岸に交易拠点を設け、島をインド洋の商業網に組み込んだ。のちにアンタラウチャと呼ばれるイスラーム化した沿岸共同体が、米・牛・石製容器・奴隷の取引を仲介した。アラブの影響はマダガスカル語の語彙、占星術、暦、そして後のソラベ文字に長く痕跡を残した。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Disappearance of Madagascar's megafauna",
+    "ko": "마다가스카르 거대 동물의 소멸",
+    "zh": "马达加斯加巨型动物的消失",
+    "ja": "マダガスカルの大型動物の消滅"
+   },
+   "description": {
+    "en": "Over the centuries after sustained human settlement, c. 700–1200 by most estimates, Madagascar's giant animals—elephant birds, giant lemurs, pygmy hippopotamuses and giant tortoises—died out. Scientists debate the relative roles of hunting, forest burning for pasture, livestock competition and climate change. The elephant bird, among the largest birds ever, survives in Malagasy memory and in finds of its enormous eggs.",
+    "ko": "인간이 지속적으로 정착한 뒤 수 세기에 걸쳐, 대체로 약 700~1200년 사이에 코끼리새, 거대 여우원숭이, 피그미하마, 거대 거북 등 마다가스카르의 거대 동물이 멸종했다. 사냥, 목초지를 위한 산림 소각, 가축과의 경쟁, 기후 변화가 각각 얼마나 작용했는지는 학계에서 논쟁 중이다. 역사상 가장 큰 새 가운데 하나인 코끼리새는 말라가시인의 기억과 거대한 알 화석으로 남아 있다.",
+    "zh": "在人类长期定居后的几个世纪里，大致在约700至1200年间，马达加斯加的巨型动物——象鸟、巨型狐猴、侏儒河马和巨型陆龟——相继灭绝。狩猎、为放牧而焚烧森林、家畜竞争和气候变化各自起了多大作用，学界仍有争论。象鸟是史上最大的鸟类之一，至今仍留存在马达加斯加人的记忆和出土的巨大蛋壳之中。",
+    "ja": "人類の定住が本格化してから数世紀の間、概ね700〜1200年頃に、エピオルニス（象鳥）、巨大キツネザル、コビトカバ、巨大リクガメなどマダガスカルの大型動物が絶滅した。狩猟、放牧のための森林の焼き払い、家畜との競合、気候変動がそれぞれどの程度影響したかは議論が続いている。史上最大級の鳥であるエピオルニスは、マダガスカルの人々の記憶と巨大な卵の化石の中に残っている。"
+   }
+  },
+  {
+   "year": 1100,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Mahilaka, a walled trading town",
+    "ko": "성곽 교역 도시 마힐라카",
+    "zh": "城墙环绕的贸易城镇马希拉卡",
+    "ja": "城壁に囲まれた交易都市マヒラカ"
+   },
+   "description": {
+    "en": "Mahilaka, on the northwest coast near Ambanja, flourished roughly from the 11th to the 14th century as one of the island's first towns. Excavations revealed stone walls, a mosque, houses and imported glass, ceramics and Chinese porcelain, alongside local chlorite-schist vessels. It shows Madagascar's integration into the Swahili and Islamic world of the western Indian Ocean.",
+    "ko": "북서부 해안 암반자 인근의 마힐라카는 대략 11세기부터 14세기까지 번성한 섬 최초의 도시 가운데 하나였다. 발굴을 통해 석조 성벽, 모스크, 가옥과 함께 수입 유리, 도자기, 중국 자기, 그리고 현지산 녹니석 편암 그릇이 발견되었다. 이는 마다가스카르가 서인도양의 스와힐리·이슬람 세계에 편입되어 있었음을 보여 준다.",
+    "zh": "位于西北海岸安班贾附近的马希拉卡大约从11世纪繁荣到14世纪，是岛上最早的城镇之一。考古发掘出土了石砌城墙、清真寺、房屋，以及进口玻璃、陶瓷、中国瓷器和本地绿泥片岩器皿。这表明马达加斯加已融入西印度洋的斯瓦希里与伊斯兰世界。",
+    "ja": "北西海岸のアンバンジャ近郊にあるマヒラカは、およそ11世紀から14世紀にかけて栄えた島最初期の都市の一つである。発掘では石造の城壁、モスク、家屋とともに、輸入されたガラス・陶器・中国磁器や地元産の緑泥片岩の器が見つかった。マダガスカルが西インド洋のスワヒリ・イスラーム世界に組み込まれていたことを示している。"
+   }
+  },
+  {
+   "year": 1250,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Settlement of the central highlands",
+    "ko": "중앙 고원의 정착",
+    "zh": "中部高原的开发定居",
+    "ja": "中央高地への定住"
+   },
+   "description": {
+    "en": "Archaeology indicates that the central highlands, long thinly populated, saw growing settlement from around the 13th century. Communities built fortified hilltop villages surrounded by ditches and began terracing valleys for rice. Later Merina tradition remembers the earlier inhabitants of the highlands as the Vazimba.",
+    "ko": "고고학 자료에 따르면 오랫동안 인구가 희박했던 중앙 고원에는 13세기 무렵부터 정착이 늘어났다. 공동체들은 해자로 둘러싼 요새화된 언덕 마을을 짓고 골짜기를 계단식 논으로 개간하기 시작했다. 후대 메리나 전승은 고원의 선주민을 바짐바로 기억한다.",
+    "zh": "考古资料显示，长期人烟稀少的中部高原约从13世纪起定居者日益增多。各社群修建了环绕壕沟的设防山顶村落，并开始在山谷中开辟梯田种植水稻。后来的梅里纳传说将高原的早期居民称为“瓦津巴人”。",
+    "ja": "考古学によれば、長く人口がまばらだった中央高地では、13世紀頃から定住が増えていった。人々は堀に囲まれた丘上の要塞村を築き、谷を棚田に開いて稲作を始めた。後のメリナの伝承は、高地の先住者をヴァジンバとして記憶している。"
+   }
+  },
+  {
+   "year": 1350,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Vohémar (Iharana) trading culture",
+    "ko": "보에마르(이하라나) 교역 문화",
+    "zh": "沃埃马尔（伊哈拉纳）贸易文化",
+    "ja": "ヴォエマール（イハラナ）交易文化"
+   },
+   "description": {
+    "en": "On the northeast coast around Vohémar, a Muslim trading community flourished roughly between the 14th and 16th centuries. Its cemeteries have yielded Chinese celadon and porcelain, Persian ceramics, glass beads and chlorite-schist bowls. The so-called Rasikajy culture illustrates the island's links to Asian goods through Indian Ocean networks.",
+    "ko": "북동부 해안 보에마르 일대에서는 대략 14세기부터 16세기 사이에 무슬림 교역 공동체가 번성했다. 이들의 묘지에서는 중국 청자와 자기, 페르시아 도기, 유리구슬, 녹니석 편암 그릇이 출토되었다. 이른바 라시카지 문화는 인도양 교역망을 통해 섬이 아시아 물품과 연결되어 있었음을 보여 준다.",
+    "zh": "在东北海岸的沃埃马尔一带，一个穆斯林贸易社群大约在14至16世纪间兴盛。其墓地出土了中国青瓷与瓷器、波斯陶器、玻璃珠和绿泥片岩碗。所谓“拉西卡吉文化”显示该岛通过印度洋网络与亚洲商品相连。",
+    "ja": "北東海岸のヴォエマール周辺では、およそ14世紀から16世紀にかけてムスリムの交易共同体が栄えた。その墓地からは中国の青磁や磁器、ペルシアの陶器、ガラス玉、緑泥片岩の鉢が出土している。いわゆるラシカジ文化は、インド洋交易網を通じて島がアジアの品々と結ばれていたことを示す。"
+   }
+  },
+  {
+   "year": 1450,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Antemoro and the sorabe script",
+    "ko": "안테모로와 소라베 문자",
+    "zh": "安泰莫罗人与索拉贝文字",
+    "ja": "アンテモロとソラベ文字"
+   },
+   "description": {
+    "en": "According to their own traditions, the Antemoro arrived on the southeast coast around the 15th century, claiming origins in Mecca or the Arab world. Their scholar-priests, the katibo, wrote Malagasy in Arabic script, known as sorabe, on locally made paper, recording genealogies, astrology and medicine. The sorabe manuscripts are the oldest writings in the Malagasy language.",
+    "ko": "안테모로인의 전승에 따르면 그들은 메카 또는 아랍 세계에서 기원해 15세기 무렵 남동부 해안에 도착했다. 학자이자 사제인 카티보는 현지에서 만든 종이에 아랍 문자로 말라가시어를 기록했는데 이를 소라베라 하며, 족보·점성술·의술 등을 담았다. 소라베 필사본은 말라가시어로 된 가장 오래된 문헌이다.",
+    "zh": "据安泰莫罗人自身的传说，他们约在15世纪来到东南海岸，自称源于麦加或阿拉伯世界。其学者兼祭司“卡蒂博”用阿拉伯字母在本地自制的纸上书写马达加斯加语，称为“索拉贝”，内容涉及谱系、占星和医术。索拉贝手稿是现存最古老的马达加斯加语文献。",
+    "ja": "アンテモロ人自身の伝承によれば、彼らは15世紀頃に南東海岸へ到来し、メッカあるいはアラブ世界に起源をもつと称した。学者兼祭司のカティボは、地元で漉いた紙にアラビア文字でマダガスカル語を記し、これをソラベと呼んで系譜・占星術・医術などを記録した。ソラベ写本はマダガスカル語による最古の文献である。"
+   }
+  },
+  {
+   "year": 1500,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First European sighting by Diogo Dias",
+    "ko": "디오구 디아스, 유럽인 최초 도달",
+    "zh": "迪奥戈·迪亚斯首次望见该岛",
+    "ja": "ディオゴ・ディアスによるヨーロッパ人初の到達"
+   },
+   "description": {
+    "en": "In August 1500 the Portuguese navigator Diogo Dias, separated from Pedro Álvares Cabral's fleet on the way to India, became the first European known to sight Madagascar. The Portuguese named it São Lourenço, and the name 'Madagascar', from Marco Polo's account, gradually prevailed on European maps. Portuguese and later European attempts to settle the island over the next centuries largely failed.",
+    "ko": "1500년 8월, 인도로 향하던 페드루 알바레스 카브랄 함대에서 떨어진 포르투갈 항해가 디오구 디아스가 유럽인으로서는 처음으로 마다가스카르를 목격했다. 포르투갈인은 이 섬을 '상로렌수'라 불렀고, 마르코 폴로의 기록에서 유래한 '마다가스카르'라는 이름이 점차 유럽 지도에 자리 잡았다. 이후 수 세기 동안 포르투갈과 다른 유럽인들의 정착 시도는 대부분 실패했다.",
+    "zh": "1500年8月，葡萄牙航海家迪奥戈·迪亚斯在前往印度途中与佩德罗·阿尔瓦雷斯·卡布拉尔的船队失散，成为已知第一位望见马达加斯加的欧洲人。葡萄牙人称之为“圣洛伦索岛”，而源自马可·波罗游记的“马达加斯加”之名逐渐在欧洲地图上通行。此后数百年间，葡萄牙人及其他欧洲人的殖民尝试大多失败。",
+    "ja": "1500年8月、インドへ向かうペドロ・アルヴァレス・カブラルの艦隊からはぐれたポルトガルの航海者ディオゴ・ディアスが、ヨーロッパ人として初めてマダガスカルを目撃した。ポルトガル人はこの島をサン・ロウレンソと名づけたが、マルコ・ポーロの記述に由来する「マダガスカル」の名が次第にヨーロッパの地図に定着した。その後数世紀、ポルトガル人をはじめとするヨーロッパ人の入植の試みはほとんど失敗した。"
+   }
+  },
+  {
+   "year": 1540,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Andriamanelo and the early Merina kingdom",
+    "ko": "안드리아마넬로와 초기 메리나 왕국",
+    "zh": "安德里亚马内洛与早期梅里纳王国",
+    "ja": "アンドリアマネロと初期メリナ王国"
+   },
+   "description": {
+    "en": "Merina oral tradition credits Andriamanelo, who reigned from around 1540, with founding the line of highland kings at Alasora. Tradition says he defeated the Vazimba with iron-tipped spears and introduced practices such as fortified hilltop settlements. His successors expanded the kingdom across the plains around later Antananarivo.",
+    "ko": "메리나 구전은 1540년 무렵부터 재위한 안드리아마넬로가 알라소라에서 고원 왕가의 계보를 열었다고 전한다. 전승에 따르면 그는 쇠 촉 창으로 바짐바를 물리치고 요새화된 언덕 마을 같은 관습을 도입했다. 그의 후계자들은 훗날 안타나나리보 주변 평원으로 왕국을 넓혔다.",
+    "zh": "梅里纳口述传统认为，约自1540年起在位的安德里亚马内洛在阿拉索拉开创了高原王系。传说他用铁矛击败了瓦津巴人，并推行了设防山顶聚落等制度。其继承者将王国扩展到后来塔那那利佛周围的平原。",
+    "ja": "メリナの口承伝承は、1540年頃から在位したアンドリアマネロがアラソラで高地の王統を開いたとする。伝承によれば、彼は鉄の穂先の槍でヴァジンバを破り、要塞化された丘上集落などの慣習を導入した。その後継者たちは、のちのアンタナナリボ周辺の平野へ王国を広げた。"
+   }
+  },
+  {
+   "year": 1610,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Antananarivo",
+    "ko": "안타나나리보 건설",
+    "zh": "塔那那利佛的建立",
+    "ja": "アンタナナリボの建設"
+   },
+   "description": {
+    "en": "According to tradition, King Andrianjaka seized the hill of Analamanga around 1610 and built a royal compound there, later called Antananarivo, 'City of the Thousand'. He is also credited with draining marshes for rice fields on the surrounding Betsimitatatra plain. Antananarivo became the Merina capital and is today the national capital.",
+    "ko": "전승에 따르면 안드리안자카 왕은 1610년 무렵 아날라망가 언덕을 차지하고 왕궁을 세웠는데, 이곳이 훗날 '천 명의 도시'라는 뜻의 안타나나리보가 되었다. 그는 주변 베치미타트라 평원의 습지를 논으로 개간한 인물로도 전해진다. 안타나나리보는 메리나의 수도가 되었고 오늘날에는 국가의 수도이다.",
+    "zh": "据传说，安德里安扎卡国王约在1610年夺取阿纳拉曼加山并在山上修建王宫，此地后来称为塔那那利佛，意为“千人之城”。他还被认为排干周围贝齐米塔特拉平原的沼泽，开辟稻田。塔那那利佛成为梅里纳都城，今天是马达加斯加首都。",
+    "ja": "伝承によれば、アンドリアンジャカ王は1610年頃アナラマンガの丘を奪って王宮を築き、そこはのちに「千人の町」を意味するアンタナナリボと呼ばれた。周囲のベツィミタトラ平野の湿地を水田に開いたのも彼の功績とされる。アンタナナリボはメリナの都となり、現在は国の首都である。"
+   }
+  },
+  {
+   "year": 1643,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "French found Fort-Dauphin",
+    "ko": "프랑스의 포르도팽 건설",
+    "zh": "法国建立多凡堡",
+    "ja": "フランスがフォール・ドーファンを建設"
+   },
+   "description": {
+    "en": "In 1643 Jacques Pronis, acting for the French Société de l'Orient, established Fort-Dauphin (today Tôlanaro) in the Anosy region of the southeast. It was France's first durable settlement on the island and an early step in its claims over Madagascar. The colonists depended on trade and alliances with the local Antanosy, relations that repeatedly broke down into violence.",
+    "ko": "1643년 프랑스 동방회사를 대리한 자크 프로니스가 남동부 아노시 지역에 포르도팽(오늘날 톨라나로)을 세웠다. 이는 프랑스가 섬에 세운 최초의 지속적인 정착지이자 훗날 마다가스카르 영유권 주장의 출발점이었다. 식민자들은 현지 안타노시족과의 교역과 동맹에 의존했으나 그 관계는 여러 차례 폭력으로 무너졌다.",
+    "zh": "1643年，代表法国东方公司的雅克·普罗尼斯在东南部阿诺西地区建立了多凡堡（今陶拉纳鲁）。这是法国在该岛第一个持久的定居点，也是其日后对马达加斯加提出主权要求的开端。殖民者依赖与当地安塔诺西人的贸易和结盟，但双方关系多次破裂并演变为暴力冲突。",
+    "ja": "1643年、フランス東方会社の代理人ジャック・プロニスが南東部アノシ地方にフォール・ドーファン（現トラニャロ）を建設した。これはフランスが島に築いた最初の持続的な入植地であり、のちのマダガスカル領有主張の出発点となった。入植者は現地のアンタノシ人との交易や同盟に頼ったが、その関係はたびたび暴力へと崩れた。"
+   }
+  },
+  {
+   "year": 1650,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Sakalava kingdoms",
+    "ko": "사칼라바 왕국의 흥기",
+    "zh": "萨卡拉瓦诸王国的兴起",
+    "ja": "サカラヴァ諸王国の台頭"
+   },
+   "description": {
+    "en": "In the 17th century the Maroserana dynasty built the Sakalava kingdom of Menabe in western Madagascar, and around 1700 a branch founded the kingdom of Boina in the northwest. Growing wealthy on cattle and on trade in slaves and firearms with European and Arab merchants, the Sakalava came to dominate the west. Their royal relic cult, the fanompoana, remains an important tradition today.",
+    "ko": "17세기 마로세라나 왕조는 마다가스카르 서부에 사칼라바의 메나베 왕국을 세웠고, 1700년 무렵 그 분파가 북서부에 보이나 왕국을 세웠다. 소와 함께 유럽·아랍 상인과의 노예·화기 교역으로 부를 쌓은 사칼라바는 서부를 지배하게 되었다. 이들의 왕실 유물 숭배 의례인 파놈포아나는 오늘날까지 중요한 전통으로 남아 있다.",
+    "zh": "17世纪，马罗塞拉纳王朝在马达加斯加西部建立萨卡拉瓦人的梅纳贝王国；约1700年，其一支又在西北部建立博伊纳王国。萨卡拉瓦人依靠牛群以及与欧洲、阿拉伯商人的奴隶和火器贸易致富，逐渐称霸西部。其王室圣物崇拜仪式“法农波阿纳”至今仍是重要传统。",
+    "ja": "17世紀、マロセラナ王朝はマダガスカル西部にサカラヴァのメナベ王国を築き、1700年頃にはその分派が北西部にボイナ王国を建てた。牛と、ヨーロッパ・アラブ商人との奴隷・火器の交易で富を得たサカラヴァは西部を支配するに至った。王の遺物を祀る儀礼ファノンプアナは今日も重要な伝統として残っている。"
+   }
+  },
+  {
+   "year": 1658,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Flacourt's History of Madagascar",
+    "ko": "플라쿠르의 『마다가스카르 대도사』",
+    "zh": "弗拉古《马达加斯加大岛志》",
+    "ja": "フラクールの『マダガスカル大島誌』"
+   },
+   "description": {
+    "en": "Étienne de Flacourt, governor of Fort-Dauphin from 1648 to 1655, published his 'Histoire de la grande isle Madagascar' in 1658. It described the island's peoples, plants, animals and customs, and included a Malagasy vocabulary. The book long remained Europe's main source on Madagascar and contains an early description of the elephant bird.",
+    "ko": "1648년부터 1655년까지 포르도팽 총독을 지낸 에티엔 드 플라쿠르는 1658년 『마다가스카르 대도사』를 출간했다. 이 책은 섬의 민족, 식물, 동물, 관습을 기술하고 말라가시어 어휘집을 수록했다. 이 책은 오랫동안 유럽에서 마다가스카르에 관한 주요 자료였으며 코끼리새에 대한 초기 기술도 담고 있다.",
+    "zh": "1648年至1655年任多凡堡总督的艾蒂安·德·弗拉古于1658年出版《马达加斯加大岛志》。书中记述了岛上的民族、植物、动物和风俗，并附有马达加斯加语词汇表。该书长期是欧洲了解马达加斯加的主要资料，其中还有关于象鸟的早期描述。",
+    "ja": "1648年から1655年までフォール・ドーファンの総督を務めたエティエンヌ・ド・フラクールは、1658年に『マダガスカル大島誌』を刊行した。島の民族・植物・動物・習俗を記述し、マダガスカル語の語彙集も収めている。この書は長くヨーロッパにおけるマダガスカルの主要な情報源であり、エピオルニスに関する初期の記述も含んでいる。"
+   }
+  },
+  {
+   "year": 1674,
+   "qid": "Q3297433",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Massacre of Fort-Dauphin",
+    "ko": "포르도팽 학살",
+    "zh": "多凡堡屠杀",
+    "ja": "フォール・ドーファンの虐殺"
+   },
+   "description": {
+    "en": "In 1674 tensions between the French garrison and the Antanosy erupted into a massacre in which many colonists were killed. The surviving settlers evacuated Fort-Dauphin and sailed to Bourbon (Réunion), ending the first French colony on Madagascar. France maintained its claims but did not attempt a lasting settlement on the main island for nearly a century.",
+    "ko": "1674년 프랑스 수비대와 안타노시족 사이의 긴장이 폭발해 많은 식민자가 살해되는 학살이 일어났다. 살아남은 정착민들은 포르도팽을 버리고 부르봉섬(레위니옹)으로 떠났고, 이로써 마다가스카르 최초의 프랑스 식민지는 끝났다. 프랑스는 영유권 주장을 유지했으나 거의 한 세기 동안 본섬에 지속적인 정착을 시도하지 않았다.",
+    "zh": "1674年，法国驻军与安塔诺西人之间的紧张关系爆发为一场屠杀，许多殖民者遇害。幸存者撤离多凡堡，乘船前往波旁岛（留尼汪），法国在马达加斯加的第一个殖民地就此终结。法国虽保留主权主张，但近一个世纪未再尝试在本岛建立持久定居点。",
+    "ja": "1674年、フランス守備隊とアンタノシ人の緊張が爆発し、多くの入植者が殺される虐殺が起きた。生き残った入植者はフォール・ドーファンを放棄してブルボン島（レユニオン）へ渡り、マダガスカル初のフランス植民地は終わった。フランスは領有の主張を維持したが、ほぼ1世紀にわたり本島での恒久的な入植を試みなかった。"
+   }
+  },
+  {
+   "year": 1691,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Pirate havens on Île Sainte-Marie",
+    "ko": "생트마리섬의 해적 소굴",
+    "zh": "圣玛丽岛的海盗巢穴",
+    "ja": "サントマリー島の海賊拠点"
+   },
+   "description": {
+    "en": "From the 1690s Île Sainte-Marie and the bays of Madagascar's northeast coast became bases for Atlantic pirates preying on shipping in the Indian Ocean and Red Sea. A trading post run by Adam Baldridge supplied pirate crews, and some pirates married into local families. Their descendants, the Zana-Malata, played a role in the rise of the Betsimisaraka confederation.",
+    "ko": "1690년대부터 생트마리섬과 마다가스카르 북동부 해안의 만들은 인도양과 홍해의 선박을 노리는 대서양 해적들의 근거지가 되었다. 애덤 볼드리지가 운영한 교역소가 해적들에게 물자를 공급했고, 일부 해적은 현지 가문과 혼인했다. 그 후손인 자나말라타는 베치미사라카 연합의 성립에 한몫을 했다.",
+    "zh": "自1690年代起，圣玛丽岛和马达加斯加东北海岸的海湾成为大西洋海盗劫掠印度洋和红海船只的基地。亚当·鲍德里奇经营的商站为海盗提供补给，部分海盗与当地家族通婚。他们的后裔“扎纳-马拉塔”在贝齐米萨拉卡联盟的兴起中发挥了作用。",
+    "ja": "1690年代からサントマリー島やマダガスカル北東海岸の湾は、インド洋や紅海の船舶を襲う大西洋の海賊の根拠地となった。アダム・ボールドリッジが営む交易所が海賊に物資を供給し、一部の海賊は現地の家系と婚姻を結んだ。その子孫ザナ・マラタは、ベツィミサラカ連合の成立に一役買った。"
+   }
+  },
+  {
+   "year": 1712,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ratsimilaho forms the Betsimisaraka confederation",
+    "ko": "라치밀라호의 베치미사라카 연합 결성",
+    "zh": "拉齐米拉霍建立贝齐米萨拉卡联盟",
+    "ja": "ラツィミラフがベツィミサラカ連合を結成"
+   },
+   "description": {
+    "en": "Around 1712 Ratsimilaho, by tradition the son of the English pirate Thomas White and a local princess, led east-coast clans against the Tsikoa coalition that had seized the ports. His victories united the coast from roughly Fenoarivo to Toamasina into the Betsimisaraka confederation. He ruled until his death in 1750, presiding over a flourishing trade with the French Mascarene islands.",
+    "ko": "1712년 무렵, 전승에 따르면 영국 해적 토머스 화이트와 현지 공주의 아들인 라치밀라호가 항구들을 장악한 치코아 연합에 맞서 동부 해안 씨족들을 이끌었다. 그의 승리로 대략 페노아리보에서 토아마시나에 이르는 해안이 베치미사라카 연합으로 통합되었다. 그는 1750년 죽을 때까지 다스리며 프랑스령 마스카렌 제도와의 교역 번영을 이끌었다.",
+    "zh": "约1712年，据传为英国海盗托马斯·怀特与当地公主之子的拉齐米拉霍，率领东海岸各氏族对抗占据港口的齐科阿联盟。他的胜利将大致从费努阿里武到图阿马西纳的海岸统一为贝齐米萨拉卡联盟。他一直统治到1750年去世，期间与法属马斯克林群岛的贸易十分兴旺。",
+    "ja": "1712年頃、伝承ではイギリス人海賊トマス・ホワイトと現地の王女の子とされるラツィミラフが、港を占拠したツィコア連合に対して東海岸の諸氏族を率いた。彼の勝利により、おおよそフェヌアリヴからトアマシナに至る沿岸がベツィミサラカ連合として統合された。彼は1750年に没するまで統治し、フランス領マスカレン諸島との交易の繁栄を導いた。"
+   }
+  },
+  {
+   "year": 1750,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "France acquires Île Sainte-Marie",
+    "ko": "프랑스의 생트마리섬 획득",
+    "zh": "法国获得圣玛丽岛",
+    "ja": "フランスがサントマリー島を獲得"
+   },
+   "description": {
+    "en": "After Ratsimilaho's death in 1750, his daughter Bety, married to a French corporal, ceded Île Sainte-Marie to the French East India Company. It became one of France's few permanent footholds off Madagascar. The Betsimisaraka confederation on the mainland meanwhile fragmented among rival chiefs.",
+    "ko": "1750년 라치밀라호가 죽은 뒤, 프랑스인 하사와 결혼한 그의 딸 베티가 생트마리섬을 프랑스 동인도회사에 양도했다. 이 섬은 마다가스카르 연안에서 프랑스가 확보한 몇 안 되는 항구적 거점 가운데 하나가 되었다. 한편 본섬의 베치미사라카 연합은 경쟁하는 수장들 사이에서 분열했다.",
+    "zh": "1750年拉齐米拉霍去世后，嫁给一名法国下士的女儿贝蒂将圣玛丽岛割让给法国东印度公司。该岛成为法国在马达加斯加近海为数不多的永久据点之一。与此同时，本岛上的贝齐米萨拉卡联盟在相互竞争的首领之间分裂。",
+    "ja": "1750年にラツィミラフが没すると、フランス人伍長と結婚していた娘ベティがサントマリー島をフランス東インド会社に割譲した。この島はマダガスカル沖でフランスが得た数少ない恒久的拠点の一つとなった。一方、本島のベツィミサラカ連合は対立する首長たちの間で分裂していった。"
+   }
+  },
+  {
+   "year": 1774,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Benyovszky's settlement at Antongil Bay",
+    "ko": "베뇨프스키의 앙통질만 정착지",
+    "zh": "贝尼奥夫斯基在安通吉尔湾的定居点",
+    "ja": "ベニョフスキーのアントンジル湾入植地"
+   },
+   "description": {
+    "en": "In 1774 the adventurer Maurice Benyovszky, commissioned by the French crown, founded the settlement of Louisbourg on Antongil Bay in the northeast. Disease, poor supplies and hostility from local people undermined the venture. Benyovszky later claimed to have been proclaimed a paramount ruler by Malagasy chiefs and was killed in 1786 fighting French forces on the island.",
+    "ko": "1774년 프랑스 왕실의 위임을 받은 모험가 모리스 베뇨프스키가 북동부 앙통질만에 루이부르 정착지를 세웠다. 질병과 보급 부족, 현지 주민의 적대로 사업은 흔들렸다. 베뇨프스키는 훗날 말라가시 수장들에게 최고 통치자로 추대되었다고 주장했으며, 1786년 섬에서 프랑스군과 싸우다 전사했다.",
+    "zh": "1774年，受法国王室委派的冒险家莫里斯·贝尼奥夫斯基在东北部安通吉尔湾建立了路易堡定居点。疾病、补给匮乏和当地居民的敌意使这一事业举步维艰。贝尼奥夫斯基后来声称被马达加斯加首领们推举为最高统治者，并于1786年在岛上与法军交战时身亡。",
+    "ja": "1774年、フランス王室の委任を受けた冒険家モーリツ・ベニョフスキーが北東部のアントンジル湾にルイブール入植地を築いた。疫病、補給不足、住民の敵意によって事業は行き詰まった。ベニョフスキーはのちにマダガスカルの首長たちから最高支配者に推戴されたと主張し、1786年に島でフランス軍と戦って戦死した。"
+   }
+  },
+  {
+   "year": 1787,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Andrianampoinimerina unifies Imerina",
+    "ko": "안드리아남포이니메리나의 이메리나 통일",
+    "zh": "安德里亚南普伊尼梅里纳统一伊默里纳",
+    "ja": "アンドリアナンポイニメリナのイメリナ統一"
+   },
+   "description": {
+    "en": "Starting from Ambohimanga around 1787, King Andrianampoinimerina reunited the divided Merina kingdoms and made Antananarivo his capital. He organized labor for irrigation and rice production, codified laws through public assemblies (kabary) and built a powerful state. His declared ambition that 'the sea will be the border of my rice field' set the goal of unifying the whole island, which his son pursued.",
+    "ko": "1787년 무렵 암보히망가에서 출발한 안드리아남포이니메리나 왕은 분열된 메리나 왕국들을 재통일하고 안타나나리보를 수도로 삼았다. 그는 관개와 벼농사를 위한 노동을 조직하고, 공개 연설 집회(카바리)를 통해 법을 정비하며 강력한 국가를 세웠다. '바다가 내 논의 경계가 되리라'는 그의 포부는 섬 전체 통일이라는 목표가 되었고, 아들이 이를 이어받았다.",
+    "zh": "约1787年，安德里亚南普伊尼梅里纳国王从安布希曼加起兵，重新统一了分裂的梅里纳诸王国，并定都塔那那利佛。他组织劳力兴修水利、发展稻作，通过公开集会（卡巴里）颁布法令，建立起强大的国家。他“大海将是我稻田的边界”的志向确立了统一全岛的目标，由其子继续推进。",
+    "ja": "1787年頃アンブヒマンガから出発したアンドリアナンポイニメリナ王は、分裂していたメリナ諸王国を再統一し、アンタナナリボを都とした。灌漑と稲作のために労働力を組織し、公開集会（カバリ）を通じて法を整え、強力な国家を築いた。「海がわが水田の境となる」という彼の抱負は全島統一の目標となり、息子に受け継がれた。"
+   }
+  },
+  {
+   "year": 1810,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Radama I becomes king",
+    "ko": "라다마 1세 즉위",
+    "zh": "拉达马一世即位",
+    "ja": "ラダマ1世の即位"
+   },
+   "description": {
+    "en": "On Andrianampoinimerina's death in 1810, his son Radama I, still a teenager, succeeded him. Ambitious and open to European ideas, Radama sought firearms, advisers and recognition from abroad. He soon began campaigns to bring the coastal peoples under Merina rule.",
+    "ko": "1810년 안드리아남포이니메리나가 죽자 아직 10대였던 아들 라다마 1세가 왕위를 이었다. 야심 차고 유럽의 사상에 열려 있던 라다마는 외국으로부터 화기와 고문, 승인을 얻으려 했다. 그는 곧 해안 민족들을 메리나의 지배 아래 두기 위한 원정에 나섰다.",
+    "zh": "1810年安德里亚南普伊尼梅里纳去世，尚未成年的儿子拉达马一世继位。雄心勃勃且乐于接受欧洲思想的拉达马积极寻求外国的火器、顾问与承认。他很快便开始征讨，力图将沿海各族纳入梅里纳统治之下。",
+    "ja": "1810年にアンドリアナンポイニメリナが没すると、まだ10代の息子ラダマ1世が王位を継いだ。野心的でヨーロッパの思想に開かれていたラダマは、外国から火器や顧問、承認を得ようとした。彼はまもなく沿岸諸民族をメリナの支配下に置くための遠征を始めた。"
+   }
+  },
+  {
+   "year": 1811,
+   "qid": "Q4872498",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Tamatave",
+    "ko": "타마타브 해전",
+    "zh": "塔马塔夫海战",
+    "ja": "タマタヴの海戦"
+   },
+   "description": {
+    "en": "On 20 May 1811, during the Napoleonic Wars, British and French frigate squadrons fought off Tamatave (Toamasina) on Madagascar's east coast. The British won, capturing French frigates and then the French trading post at Tamatave. Coming soon after Britain's capture of Mauritius in 1810, it ended French naval power in the region for a time.",
+    "ko": "나폴레옹 전쟁 중인 1811년 5월 20일, 영국과 프랑스의 프리깃 함대가 마다가스카르 동해안 타마타브(토아마시나) 앞바다에서 맞붙었다. 영국이 승리해 프랑스 프리깃을 나포하고 이어 타마타브의 프랑스 교역소를 점령했다. 1810년 영국의 모리셔스 점령 직후에 벌어진 이 전투로 이 지역에서 프랑스 해군력은 한동안 사라졌다.",
+    "zh": "拿破仑战争期间，1811年5月20日，英法两国的护卫舰分舰队在马达加斯加东海岸塔马塔夫（图阿马西纳）外海交战。英军获胜，俘获法国护卫舰，随后占领了塔马塔夫的法国商站。此战紧随1810年英国夺取毛里求斯之后，使法国在该地区的海军力量一度消失。",
+    "ja": "ナポレオン戦争中の1811年5月20日、英仏のフリゲート艦隊がマダガスカル東海岸のタマタヴ（トアマシナ）沖で交戦した。イギリスが勝利してフランスのフリゲートを拿捕し、続いてタマタヴのフランス交易所を占領した。1810年のイギリスによるモーリシャス占領の直後のこの戦いで、この地域のフランス海軍力は一時消滅した。"
+   }
+  },
+  {
+   "year": 1817,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Radama I recognized as King of Madagascar",
+    "ko": "라다마 1세, 마다가스카르 국왕으로 승인",
+    "zh": "拉达马一世获承认为马达加斯加国王",
+    "ja": "ラダマ1世、マダガスカル国王として承認"
+   },
+   "description": {
+    "en": "In 1817 Radama I concluded a treaty with Robert Farquhar, British governor of Mauritius: Britain recognized him as King of Madagascar and supplied arms, training and subsidies, and Radama agreed to end the export slave trade. With British-trained troops he extended Merina rule over most of the island. He also welcomed missionaries of the London Missionary Society, who opened schools and helped create written Malagasy.",
+    "ko": "1817년 라다마 1세는 영국령 모리셔스 총독 로버트 파쿼와 조약을 맺었다. 영국은 그를 마다가스카르 국왕으로 인정하고 무기·훈련·보조금을 제공했으며, 라다마는 노예 수출 무역을 중단하기로 했다. 영국식 훈련을 받은 군대로 그는 섬 대부분에 메리나 지배를 확장했다. 또한 런던 선교회 선교사들을 받아들였고, 이들은 학교를 열고 말라가시어 문자화를 도왔다.",
+    "zh": "1817年，拉达马一世与英国毛里求斯总督罗伯特·法夸尔缔约：英国承认他为马达加斯加国王，并提供武器、训练和津贴，拉达马则同意停止奴隶出口贸易。他凭借英式训练的军队将梅里纳统治扩展到全岛大部分地区。他还接纳了伦敦传道会的传教士，后者开办学校并协助创制马达加斯加语书面文字。",
+    "ja": "1817年、ラダマ1世はイギリス領モーリシャス総督ロバート・ファーカーと条約を結んだ。イギリスは彼をマダガスカル国王と認めて武器・訓練・補助金を提供し、ラダマは奴隷の輸出貿易を停止することに同意した。イギリス式の訓練を受けた軍隊で、彼は島の大部分にメリナの支配を広げた。またロンドン宣教協会の宣教師を受け入れ、彼らは学校を開き、マダガスカル語の文字化を助けた。"
+   }
+  },
+  {
+   "year": 1823,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Malagasy written in the Latin alphabet",
+    "ko": "말라가시어의 라틴 문자 표기",
+    "zh": "马达加斯加语采用拉丁字母",
+    "ja": "マダガスカル語のラテン文字表記"
+   },
+   "description": {
+    "en": "Working with Welsh missionaries David Jones and David Griffiths of the London Missionary Society, Radama I adopted a Latin-alphabet orthography for Malagasy in the early 1820s, replacing the limited use of Arabic-based sorabe. Mission schools spread literacy among the Merina elite, and the missionaries began translating the Bible. Literacy became a key tool of the Merina state's administration.",
+    "ko": "라다마 1세는 런던 선교회의 웨일스인 선교사 데이비드 존스, 데이비드 그리피스와 함께 1820년대 초 말라가시어의 라틴 문자 정서법을 채택해, 제한적으로 쓰이던 아랍 문자 기반 소라베를 대체했다. 선교 학교는 메리나 엘리트 사이에 문해력을 퍼뜨렸고, 선교사들은 성경 번역에 착수했다. 문자 해독 능력은 메리나 국가 행정의 핵심 도구가 되었다.",
+    "zh": "19世纪20年代初，拉达马一世与伦敦传道会的威尔士传教士戴维·琼斯和戴维·格里菲思合作，为马达加斯加语确立了拉丁字母拼写法，取代了使用范围有限的阿拉伯字母“索拉贝”。教会学校在梅里纳精英中普及读写，传教士也开始翻译《圣经》。读写能力成为梅里纳国家行政的重要工具。",
+    "ja": "ラダマ1世はロンドン宣教協会のウェールズ人宣教師デイヴィッド・ジョーンズ、デイヴィッド・グリフィスとともに、1820年代初めにマダガスカル語のラテン文字正書法を採用し、限られた範囲で使われていたアラビア文字系のソラベに取って代えた。ミッションスクールはメリナのエリート層に識字を広め、宣教師は聖書の翻訳に着手した。識字はメリナ国家の行政の重要な道具となった。"
+   }
+  },
+  {
+   "year": 1828,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ranavalona I takes the throne",
+    "ko": "라나발로나 1세 즉위",
+    "zh": "拉纳瓦洛纳一世登基",
+    "ja": "ラナヴァルナ1世の即位"
+   },
+   "description": {
+    "en": "Radama I died in 1828 without a designated heir, and his widow Ranavalona I was installed as queen by a faction of court officials, while rival claimants were killed. Her accession marked a shift of power toward conservative nobles and guardians of the royal talismans (sampy). She went on to rule for 33 years, until 1861.",
+    "ko": "1828년 라다마 1세가 후계자를 정하지 않고 죽자, 궁정 관료 일파가 그의 미망인 라나발로나 1세를 여왕으로 옹립했고 경쟁 왕위 계승자들은 살해되었다. 그의 즉위는 보수적 귀족과 왕실 수호 부적(삼피) 관리자들에게로 권력이 이동했음을 뜻했다. 그는 1861년까지 33년간 통치했다.",
+    "zh": "1828年拉达马一世去世而未指定继承人，宫廷官员中的一派拥立其遗孀拉纳瓦洛纳一世为女王，其他王位竞争者遭到杀害。她的即位标志着权力转向保守贵族和王室护符（“桑皮”）的守护者。她此后统治长达33年，直至1861年。",
+    "ja": "1828年、ラダマ1世が後継者を定めずに死去すると、宮廷官僚の一派が寡婦ラナヴァルナ1世を女王に擁立し、対立する王位請求者は殺害された。彼女の即位は、保守的な貴族や王家の守護呪物（サンピ）の守り手へと権力が移ったことを意味した。彼女は1861年まで33年間統治した。"
+   }
+  },
+  {
+   "year": 1835,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Ranavalona I turns against foreign influence",
+    "ko": "라나발로나 1세의 쇄국 정책",
+    "zh": "拉纳瓦洛纳一世排斥外来影响",
+    "ja": "ラナヴァルナ1世の排外政策"
+   },
+   "description": {
+    "en": "In 1835 Queen Ranavalona I banned the practice of Christianity among Malagasy subjects, and most missionaries left soon after, although the Malagasy Bible was completed and printed that year. Converts who persisted faced persecution and, in a number of cases, execution. Her long reign is remembered both for its fierce defense of independence and self-reliance and for harsh repression and forced labor.",
+    "ko": "1835년 라나발로나 1세 여왕은 말라가시 신민의 기독교 신앙을 금지했고 대부분의 선교사가 곧 섬을 떠났지만, 같은 해 말라가시어 성경은 완성되어 인쇄되었다. 신앙을 지킨 개종자들은 박해를 받았고 다수가 처형되기도 했다. 그의 긴 치세는 독립과 자립을 굳건히 지킨 시대이자 가혹한 탄압과 강제 노동의 시대로 함께 기억된다.",
+    "zh": "1835年，拉纳瓦洛纳一世女王禁止马达加斯加臣民信奉基督教，此后大多数传教士离开，但马达加斯加语《圣经》仍于同年完成并付印。坚持信仰的皈依者遭到迫害，一些人被处决。她的长期统治既被铭记为坚决捍卫独立与自力更生的时代，也被视为严酷镇压和强迫劳动的时代。",
+    "ja": "1835年、ラナヴァルナ1世女王はマダガスカル人臣民のキリスト教信仰を禁じ、宣教師の多くはまもなく島を去ったが、同年マダガスカル語聖書は完成し印刷された。信仰を守った改宗者は迫害を受け、処刑された者も少なくなかった。彼女の長い治世は、独立と自立を断固守った時代として、また過酷な弾圧と強制労働の時代として記憶されている。"
+   }
+  },
+  {
+   "year": 1837,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Jean Laborde's Mantasoa industrial complex",
+    "ko": "장 라보르드의 만타소아 공업 단지",
+    "zh": "让·拉博尔德的曼塔苏阿工业区",
+    "ja": "ジャン・ラボルドのマンタソア工業団地"
+   },
+   "description": {
+    "en": "The Frenchman Jean Laborde, shipwrecked on the coast in 1831, entered the service of Ranavalona I and from the late 1830s built a large industrial complex at Mantasoa east of Antananarivo. Using forced labor, it produced cannons, muskets, gunpowder, iron goods, glass and soap. It was one of the most ambitious early industrial projects in sub-Saharan Africa, serving the queen's goal of self-sufficiency.",
+    "ko": "1831년 해안에서 난파한 프랑스인 장 라보르드는 라나발로나 1세를 섬기며 1830년대 말부터 안타나나리보 동쪽 만타소아에 대규모 공업 단지를 세웠다. 강제 노동을 동원한 이 단지는 대포, 머스킷총, 화약, 철기, 유리, 비누를 생산했다. 이는 사하라 이남 아프리카에서 가장 야심 찬 초기 산업화 사업 가운데 하나로, 여왕의 자급자족 목표에 이바지했다.",
+    "zh": "法国人让·拉博尔德于1831年在海岸遭遇海难，后为拉纳瓦洛纳一世效力，自19世纪30年代末在塔那那利佛以东的曼塔苏阿兴建了大型工业区。该工业区使用强迫劳动，生产火炮、火枪、火药、铁器、玻璃和肥皂。这是撒哈拉以南非洲最具雄心的早期工业化项目之一，服务于女王自给自足的目标。",
+    "ja": "1831年に沿岸で難破したフランス人ジャン・ラボルドはラナヴァルナ1世に仕え、1830年代末からアンタナナリボ東方のマンタソアに大規模な工業団地を建設した。強制労働を用いて大砲、マスケット銃、火薬、鉄製品、ガラス、石鹸を生産した。これはサハラ以南アフリカで最も野心的な初期工業化事業の一つであり、女王の自給自足の目標に資した。"
+   }
+  },
+  {
+   "year": 1845,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Anglo-French bombardment of Tamatave",
+    "ko": "영국·프랑스의 타마타브 포격",
+    "zh": "英法炮击塔马塔夫",
+    "ja": "英仏艦隊のタマタヴ砲撃"
+   },
+   "description": {
+    "en": "In 1845, after Ranavalona I required foreign traders to submit to Malagasy law, a joint British and French squadron bombarded Tamatave and landed troops. The attack was repulsed with losses, and the heads of the fallen attackers were displayed on the shore. The queen responded by suspending trade with Britain and France, which resumed only in the 1850s.",
+    "ko": "1845년 라나발로나 1세가 외국 상인에게 말라가시 법을 따르도록 요구하자 영국·프랑스 연합 함대가 타마타브를 포격하고 병력을 상륙시켰다. 공격은 손실을 입고 격퇴되었으며, 전사한 공격군의 머리가 해안에 내걸렸다. 여왕은 영국·프랑스와의 교역을 중단했고, 교역은 1850년대에야 재개되었다.",
+    "zh": "1845年，拉纳瓦洛纳一世要求外国商人服从马达加斯加法律，英法联合舰队随即炮击塔马塔夫并派兵登陆。进攻被击退并遭受损失，阵亡进攻者的首级被悬挂在海岸上示众。女王随后中止了与英法的贸易，直到19世纪50年代才得以恢复。",
+    "ja": "1845年、ラナヴァルナ1世が外国商人にマダガスカルの法への服従を求めると、英仏連合艦隊がタマタヴを砲撃し兵を上陸させた。攻撃は損害を出して撃退され、戦死した攻撃側兵士の首が海岸にさらされた。女王は英仏との交易を停止し、交易が再開されたのは1850年代になってからであった。"
+   }
+  },
+  {
+   "year": 1861,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Radama II reopens Madagascar",
+    "ko": "라다마 2세의 개방 정책",
+    "zh": "拉达马二世重新开放",
+    "ja": "ラダマ2世の開国"
+   },
+   "description": {
+    "en": "On Ranavalona I's death in 1861 her son Radama II became king and reversed her policies, granting religious freedom, welcoming back missionaries and abolishing many harsh punishments. He also granted sweeping commercial concessions to the Frenchman Joseph-François Lambert, known as the Lambert Charter. His rapid liberalization alarmed the oligarchy of court nobles.",
+    "ko": "1861년 라나발로나 1세가 죽자 아들 라다마 2세가 즉위해 어머니의 정책을 뒤집었다. 그는 종교의 자유를 허용하고 선교사들을 다시 받아들였으며 가혹한 형벌 상당수를 폐지했다. 또한 프랑스인 조제프프랑수아 랑베르에게 '랑베르 특허장'으로 알려진 광범위한 상업 특권을 부여했다. 그의 급속한 자유화는 궁정 귀족 과두 세력을 불안하게 했다.",
+    "zh": "1861年拉纳瓦洛纳一世去世，其子拉达马二世即位，一改母亲的政策：允许宗教自由，重新接纳传教士，并废除许多严酷刑罚。他还以“朗贝尔特许状”授予法国人约瑟夫-弗朗索瓦·朗贝尔广泛的商业特权。他急速推行的开放令宫廷贵族寡头深感不安。",
+    "ja": "1861年にラナヴァルナ1世が没すると、息子ラダマ2世が即位して母の政策を覆した。信教の自由を認め、宣教師を再び受け入れ、多くの過酷な刑罰を廃止した。またフランス人ジョゼフ＝フランソワ・ランベールに「ランベール特許状」として知られる広範な商業特権を与えた。その急速な自由化は宮廷貴族の寡頭勢力を警戒させた。"
+   }
+  },
+  {
+   "year": 1863,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Radama II and rise of Rainilaiarivony",
+    "ko": "라다마 2세 암살과 라이닐라이아리보니의 부상",
+    "zh": "拉达马二世遇刺与赖尼莱阿里武尼崛起",
+    "ja": "ラダマ2世の暗殺とライニライアリヴニの台頭"
+   },
+   "description": {
+    "en": "In May 1863 court nobles opposed to Radama II's reforms killed the king, and his widow Rasoherina became queen under a new arrangement limiting royal power. From 1864 Prime Minister Rainilaiarivony became the real ruler, marrying three successive queens—Rasoherina, Ranavalona II and Ranavalona III. He dominated Merina politics for over three decades, until the French conquest of 1895.",
+    "ko": "1863년 5월 라다마 2세의 개혁에 반대한 궁정 귀족들이 왕을 살해했고, 그의 미망인 라소헤리나가 왕권을 제한하는 새로운 체제 아래 여왕이 되었다. 1864년부터는 총리 라이닐라이아리보니가 실권자가 되어 라소헤리나, 라나발로나 2세, 라나발로나 3세 등 세 여왕과 차례로 결혼했다. 그는 1895년 프랑스의 정복 때까지 30년 넘게 메리나 정치를 좌우했다.",
+    "zh": "1863年5月，反对拉达马二世改革的宫廷贵族杀害了国王，其遗孀拉索赫里纳在限制王权的新安排下成为女王。自1864年起，首相赖尼莱阿里武尼成为实际统治者，先后与拉索赫里纳、拉纳瓦洛纳二世和拉纳瓦洛纳三世三位女王结婚。他主导梅里纳政坛三十余年，直至1895年法国征服。",
+    "ja": "1863年5月、ラダマ2世の改革に反対する宮廷貴族が王を殺害し、寡婦ラソヘリナが王権を制限する新体制の下で女王となった。1864年からは首相ライニライアリヴニが実権を握り、ラソヘリナ、ラナヴァルナ2世、ラナヴァルナ3世の3人の女王と相次いで結婚した。彼は1895年のフランスの征服まで30年以上メリナの政治を支配した。"
+   }
+  },
+  {
+   "year": 1869,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Royal conversion to Christianity",
+    "ko": "왕실의 기독교 개종",
+    "zh": "王室皈依基督教",
+    "ja": "王室のキリスト教改宗"
+   },
+   "description": {
+    "en": "In February 1869 Queen Ranavalona II and Prime Minister Rainilaiarivony were baptized as Protestants, and later that year the royal talismans (sampy) were publicly burned. Mass conversions followed in Imerina and Betsileo, and churches and schools spread rapidly under state sponsorship. Christianity became closely tied to the Merina monarchy, reinforcing British influence.",
+    "ko": "1869년 2월 라나발로나 2세 여왕과 라이닐라이아리보니 총리가 개신교 세례를 받았고, 같은 해 왕실의 수호 부적(삼피)이 공개적으로 소각되었다. 이메리나와 베칠레오에서 집단 개종이 이어졌고, 국가 후원 아래 교회와 학교가 급속히 확산되었다. 기독교는 메리나 왕정과 긴밀히 결합해 영국의 영향력을 강화했다.",
+    "zh": "1869年2月，拉纳瓦洛纳二世女王和首相赖尼莱阿里武尼受洗成为新教徒，同年晚些时候王室护符（“桑皮”）被公开焚毁。伊默里纳和贝希略地区随即出现大规模皈依，教堂和学校在国家支持下迅速普及。基督教与梅里纳王权紧密结合，增强了英国的影响力。",
+    "ja": "1869年2月、ラナヴァルナ2世女王とライニライアリヴニ首相がプロテスタントの洗礼を受け、同年のうちに王家の守護呪物（サンピ）が公然と焼かれた。イメリナとベツィレオでは集団改宗が続き、国家の後援のもと教会と学校が急速に広がった。キリスト教はメリナ王政と密接に結びつき、イギリスの影響力を強めた。"
+   }
+  },
+  {
+   "year": 1881,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Code of 305 Articles",
+    "ko": "305조 법전 공포",
+    "zh": "《三百零五条法典》颁布",
+    "ja": "305条法典の公布"
+   },
+   "description": {
+    "en": "In 1881 Ranavalona II promulgated the Code of 305 Articles, a comprehensive legal code for the Merina kingdom. It reorganized government into ministries, regulated courts, land, marriage and trade, and banned practices such as polygamy and the sale of slaves abroad. The code reflected Rainilaiarivony's effort to modernize the state and strengthen its claim to be a sovereign kingdom.",
+    "ko": "1881년 라나발로나 2세는 메리나 왕국의 포괄적 법전인 '305조 법전'을 공포했다. 이 법전은 정부를 여러 부처로 재편하고 법원·토지·혼인·교역을 규정했으며, 일부다처제와 노예의 해외 매매 등을 금지했다. 이는 국가를 근대화하고 주권 왕국으로서의 지위를 강화하려는 라이닐라이아리보니의 노력을 보여 준다.",
+    "zh": "1881年，拉纳瓦洛纳二世颁布《三百零五条法典》，这是梅里纳王国的一部综合性法典。它将政府改组为各部，规范了法院、土地、婚姻和贸易，并禁止一夫多妻和向海外出售奴隶等做法。该法典体现了赖尼莱阿里武尼推进国家现代化、巩固其主权王国地位的努力。",
+    "ja": "1881年、ラナヴァルナ2世はメリナ王国の包括的な法典「305条法典」を公布した。政府を省庁に再編し、裁判所・土地・婚姻・交易を規定し、一夫多妻や奴隷の国外売却などを禁じた。この法典は、国家を近代化し主権国家としての立場を強めようとするライニライアリヴニの努力を反映している。"
+   }
+  },
+  {
+   "year": 1883,
+   "qid": "Q2638505",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "First Franco-Merina War begins",
+    "ko": "제1차 프랑스-메리나 전쟁 발발",
+    "zh": "第一次法梅战争爆发",
+    "ja": "第一次フランス＝メリナ戦争の勃発"
+   },
+   "description": {
+    "en": "In 1883 France, citing old claims on the northwest coast and disputes over property rights of French nationals, bombarded and occupied Mahajanga and Toamasina, opening the first of the Franco-Hova (Franco-Merina) wars. Queen Ranavalona II died that year and was succeeded by Ranavalona III. Merina forces held the interior, and the war became a stalemate.",
+    "ko": "1883년 프랑스는 북서부 해안에 대한 과거의 권리 주장과 자국민 재산권 분쟁을 내세워 마하장가와 토아마시나를 포격·점령했고, 이로써 첫 번째 프랑스-호바(프랑스-메리나) 전쟁이 시작되었다. 같은 해 라나발로나 2세 여왕이 죽고 라나발로나 3세가 즉위했다. 메리나군은 내륙을 지켜 냈고 전쟁은 교착 상태에 빠졌다.",
+    "zh": "1883年，法国以对西北海岸的旧有主张和法国侨民财产权纠纷为由，炮击并占领马哈赞加和图阿马西纳，第一次法国-霍瓦（法梅）战争由此爆发。同年拉纳瓦洛纳二世女王去世，拉纳瓦洛纳三世继位。梅里纳军队守住了内陆，战争陷入僵局。",
+    "ja": "1883年、フランスは北西海岸に対する旧来の権利主張と自国民の財産権をめぐる紛争を理由に、マハジャンガとトアマシナを砲撃・占領し、第一次フランス＝ホヴァ（フランス＝メリナ）戦争が始まった。同年ラナヴァルナ2世女王が没し、ラナヴァルナ3世が即位した。メリナ軍は内陸を守り抜き、戦争は膠着した。"
+   }
+  },
+  {
+   "year": 1885,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of 1885 and French protectorate claim",
+    "ko": "1885년 조약과 프랑스의 보호령 주장",
+    "zh": "1885年条约与法国的保护国主张",
+    "ja": "1885年条約とフランスの保護国主張"
+   },
+   "description": {
+    "en": "The war ended with a treaty in December 1885 under which Madagascar ceded Diego-Suarez (Antsiranana) to France, paid a large indemnity and accepted a French resident in Antananarivo to control foreign relations. France interpreted the treaty as establishing a protectorate, which the Merina government disputed. In 1890 Britain recognized French claims in exchange for French recognition of its protectorate over Zanzibar.",
+    "ko": "전쟁은 1885년 12월 조약으로 끝났다. 마다가스카르는 디에고수아레스(안치라나나)를 프랑스에 할양하고 거액의 배상금을 지불했으며, 대외 관계를 관장하는 프랑스 주재관을 안타나나리보에 받아들였다. 프랑스는 이 조약을 보호령 설정으로 해석했으나 메리나 정부는 이를 부인했다. 1890년 영국은 잔지바르 보호령에 대한 프랑스의 승인을 대가로 마다가스카르에 대한 프랑스의 주장을 인정했다.",
+    "zh": "战争以1885年12月的条约告终：马达加斯加将迪耶果-苏瓦雷斯（安齐拉纳纳）割让给法国，支付巨额赔款，并接受一名法国驻扎官常驻塔那那利佛掌管外交。法国将该条约解释为确立了保护关系，而梅里纳政府对此予以否认。1890年，英国以法国承认其对桑给巴尔的保护为交换，承认了法国对马达加斯加的主张。",
+    "ja": "戦争は1885年12月の条約で終結した。マダガスカルはディエゴ・スアレス（アンツィラナナ）をフランスに割譲し、多額の賠償金を支払い、対外関係を管掌するフランス人駐在官をアンタナナリボに受け入れた。フランスはこの条約を保護国化と解釈したが、メリナ政府はこれを否定した。1890年、イギリスはザンジバル保護領の承認と引き換えに、マダガスカルに対するフランスの主張を認めた。"
+   }
+  },
+  {
+   "year": 1895,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "French expedition captures Antananarivo",
+    "ko": "프랑스 원정군의 안타나나리보 점령",
+    "zh": "法国远征军攻占塔那那利佛",
+    "ja": "フランス遠征軍のアンタナナリボ占領"
+   },
+   "description": {
+    "en": "In 1895 France sent an expeditionary force under General Jacques Duchesne, which landed at Mahajanga and marched inland; far more French soldiers died of malaria and other diseases than in combat. On 30 September 1895, after a brief bombardment, Antananarivo surrendered and Queen Ranavalona III accepted a French protectorate. Prime Minister Rainilaiarivony was exiled to Algiers, and the Menalamba rebellion soon broke out against the French and the collaborating court.",
+    "ko": "1895년 프랑스는 자크 뒤셴 장군이 이끄는 원정군을 파견했고, 원정군은 마하장가에 상륙해 내륙으로 진군했다. 전투보다 말라리아 등 질병으로 죽은 프랑스 병사가 훨씬 많았다. 1895년 9월 30일 짧은 포격 끝에 안타나나리보가 항복했고 라나발로나 3세 여왕은 프랑스 보호령을 받아들였다. 라이닐라이아리보니 총리는 알제로 추방되었으며, 곧 프랑스와 협력 궁정에 맞선 메날람바 봉기가 일어났다.",
+    "zh": "1895年，法国派出由雅克·迪歇纳将军率领的远征军，在马哈赞加登陆后向内陆进军；死于疟疾等疾病的法国士兵远多于战死者。1895年9月30日，经过短暂炮击，塔那那利佛投降，拉纳瓦洛纳三世女王接受法国保护。首相赖尼莱阿里武尼被流放至阿尔及尔，不久反抗法国及合作宫廷的“梅纳兰巴”起义爆发。",
+    "ja": "1895年、フランスはジャック・デュシェーヌ将軍率いる遠征軍を派遣し、遠征軍はマハジャンガに上陸して内陸へ進軍した。戦闘よりもマラリアなどの病気で死んだフランス兵のほうがはるかに多かった。1895年9月30日、短い砲撃の後にアンタナナリボは降伏し、ラナヴァルナ3世女王はフランスの保護を受け入れた。ライニライアリヴニ首相はアルジェへ追放され、まもなくフランスと協力的な宮廷に対するメナランバの反乱が起こった。"
+   }
+  },
+  {
+   "year": 1896,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "France annexes Madagascar",
+    "ko": "프랑스의 마다가스카르 병합",
+    "zh": "法国吞并马达加斯加",
+    "ja": "フランスによるマダガスカル併合"
+   },
+   "description": {
+    "en": "By a law of August 1896, France declared Madagascar a colony, ending its brief protectorate status. Slavery was abolished the same year, and General Joseph Gallieni arrived as governor-general to crush the Menalamba uprising and other resistance. The annexation brought the whole island under one administration for the first time, under foreign rule.",
+    "ko": "1896년 8월 법률로 프랑스는 마다가스카르를 식민지로 선포해 짧았던 보호령 지위를 끝냈다. 같은 해 노예제가 폐지되었고, 조제프 갈리에니 장군이 총독으로 부임해 메날람바 봉기와 그 밖의 저항을 진압했다. 병합으로 섬 전체가 처음으로 하나의 행정 아래 놓였으나, 그것은 외세의 지배였다.",
+    "zh": "1896年8月，法国通过法律宣布马达加斯加为殖民地，结束了短暂的保护国地位。同年奴隶制被废除，约瑟夫·加利埃尼将军出任总督，镇压梅纳兰巴起义及其他反抗。吞并使全岛首次处于统一的行政管理之下，但这是外国的统治。",
+    "ja": "1896年8月の法律でフランスはマダガスカルを植民地と宣言し、短期間の保護国の地位を終わらせた。同年奴隷制が廃止され、ジョゼフ・ガリエニ将軍が総督として着任し、メナランバの反乱やその他の抵抗を鎮圧した。併合によって島全体が初めて一つの行政の下に置かれたが、それは外国による支配であった。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Abolition of the Merina monarchy",
+    "ko": "메리나 왕정 폐지",
+    "zh": "梅里纳君主制被废除",
+    "ja": "メリナ王政の廃止"
+   },
+   "description": {
+    "en": "On 28 February 1897 Gallieni abolished the Merina monarchy and sent Queen Ranavalona III into exile, first to Réunion and later to Algiers, where she died in 1917. Gallieni pursued a 'politique des races' that favored coastal peoples over the Merina elite and set up direct French administration. Her remains were returned to Madagascar in 1938.",
+    "ko": "1897년 2월 28일 갈리에니는 메리나 왕정을 폐지하고 라나발로나 3세 여왕을 처음에는 레위니옹으로, 이후 알제로 추방했으며 그는 1917년 그곳에서 사망했다. 갈리에니는 메리나 엘리트보다 해안 민족을 우대하는 '종족 정책'을 펴며 프랑스의 직접 통치 체제를 세웠다. 여왕의 유해는 1938년 마다가스카르로 돌아왔다.",
+    "zh": "1897年2月28日，加利埃尼废除梅里纳君主制，将拉纳瓦洛纳三世女王流放，先至留尼汪，后迁至阿尔及尔，她于1917年在那里去世。加利埃尼推行扶持沿海民族、压制梅里纳精英的“种族政策”，建立了法国直接统治体制。女王的遗骸于1938年运回马达加斯加。",
+    "ja": "1897年2月28日、ガリエニはメリナ王政を廃止し、ラナヴァルナ3世女王をまずレユニオンへ、のちにアルジェへ追放した。女王は1917年に同地で没した。ガリエニはメリナのエリートよりも沿岸諸民族を優遇する「人種政策」を進め、フランスによる直接統治体制を築いた。女王の遺骸は1938年にマダガスカルへ戻された。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": "Q109044502",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ambiky massacre",
+    "ko": "암비키 학살",
+    "zh": "安比基屠杀",
+    "ja": "アンビキの虐殺"
+   },
+   "description": {
+    "en": "In 1897 French colonial troops attacked Ambiky, the royal seat of the Sakalava kingdom of Menabe in the west, as they extended conquest beyond the highlands. King Toera was killed and many inhabitants died in the assault. Sakalava resistance in Menabe continued in the following years.",
+    "ko": "1897년 프랑스 식민군은 고원 너머로 정복을 넓히면서 서부 사칼라바 메나베 왕국의 왕도 암비키를 공격했다. 이 공격으로 토에라 왕이 살해되고 많은 주민이 목숨을 잃었다. 메나베의 사칼라바 저항은 이후 몇 년 동안 계속되었다.",
+    "zh": "1897年，法国殖民军在将征服扩展到高原以外时，进攻了西部萨卡拉瓦梅纳贝王国的王都安比基。国王托埃拉在进攻中被杀，许多居民遇难。此后数年，梅纳贝的萨卡拉瓦人继续抵抗。",
+    "ja": "1897年、フランス植民地軍は高地の外へ征服を広げる中で、西部のサカラヴァ・メナベ王国の王都アンビキを攻撃した。この攻撃でトエラ王が殺され、多くの住民が命を落とした。メナベのサカラヴァの抵抗はその後数年続いた。"
+   }
+  },
+  {
+   "year": 1913,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "VVS secret nationalist society",
+    "ko": "민족주의 비밀결사 VVS",
+    "zh": "民族主义秘密社团VVS",
+    "ja": "民族主義秘密結社VVS"
+   },
+   "description": {
+    "en": "Around 1913 students and young intellectuals in Antananarivo founded the Vy Vato Sakelika (VVS, 'Iron, Stone, Ramification'), a secret society inspired partly by Japan's modernization. It promoted Malagasy cultural identity and opposition to colonial rule. The French authorities uncovered it in 1915 and sentenced its leaders to forced labor, but it became a foundation of later nationalism.",
+    "ko": "1913년 무렵 안타나나리보의 학생과 젊은 지식인들은 일본의 근대화에 일부 영감을 받아 비밀결사 비바토사켈리카(VVS, '쇠·돌·가지')를 결성했다. 이 단체는 말라가시 문화 정체성과 식민 통치 반대를 내세웠다. 프랑스 당국은 1915년 이를 적발해 지도자들에게 강제 노동형을 선고했지만, VVS는 이후 민족주의의 토대가 되었다.",
+    "zh": "约1913年，塔那那利佛的学生和青年知识分子在一定程度上受日本现代化的启发，成立了秘密社团“维瓦托萨凯利卡”（VVS，意为“铁、石、分支”）。它弘扬马达加斯加文化认同，反对殖民统治。法国当局于1915年破获该组织，判处其领导人强迫劳动，但VVS成为后来民族主义运动的基础。",
+    "ja": "1913年頃、アンタナナリボの学生や若い知識人は、日本の近代化に一部触発されて秘密結社ヴィ・ヴァト・サケリカ（VVS、「鉄・石・分枝」）を結成した。マダガスカルの文化的アイデンティティと植民地支配への反対を掲げた。フランス当局は1915年にこれを摘発して指導者に強制労働刑を科したが、VVSはのちの民族主義の礎となった。"
+   }
+  },
+  {
+   "year": 1915,
+   "qid": "Q134700781",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sadiavahy rebellion",
+    "ko": "사디아바히 반란",
+    "zh": "萨迪亚瓦希起义",
+    "ja": "サディアヴァヒの反乱"
+   },
+   "description": {
+    "en": "From 1915 to 1917, during the First World War, the Sadiavahy rebellion broke out in southern Madagascar. Rural rebels resisted colonial taxation, requisitions and forced labor through raids on colonial posts and cattle. French forces suppressed the movement, one of several rural revolts against colonial burdens.",
+    "ko": "제1차 세계대전 중인 1915년부터 1917년까지 마다가스카르 남부에서 사디아바히 반란이 일어났다. 농촌 봉기군은 식민지 과세, 징발, 강제 노동에 맞서 식민 초소와 소 떼를 습격했다. 프랑스군은 이 운동을 진압했으며, 이는 식민지 부담에 맞선 여러 농촌 봉기 가운데 하나였다.",
+    "zh": "第一次世界大战期间，1915年至1917年，马达加斯加南部爆发了萨迪亚瓦希起义。农村起义者袭击殖民据点和牛群，反抗殖民税收、征用和强迫劳动。法军镇压了这场运动，这是反抗殖民负担的多次农村起义之一。",
+    "ja": "第一次世界大戦中の1915年から1917年にかけて、マダガスカル南部でサディアヴァヒの反乱が起こった。農村の反乱者は植民地の課税、徴発、強制労働に抵抗し、植民地の拠点や牛を襲撃した。フランス軍はこの運動を鎮圧したが、これは植民地の負担に抗う数々の農村反乱の一つであった。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": "Q1052651",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Madagascar",
+    "ko": "마다가스카르 전투",
+    "zh": "马达加斯加之战",
+    "ja": "マダガスカルの戦い"
+   },
+   "description": {
+    "en": "On 5 May 1942 British forces landed at Diego-Suarez in Operation Ironclad to prevent Japan from using the Vichy French-held island's harbors. After the north was secured, further landings in September advanced on Antananarivo, and the Vichy governor-general surrendered in November 1942. Administration then passed to Free French authorities; Malagasy soldiers and laborers bore heavy burdens during the war.",
+    "ko": "1942년 5월 5일 영국군은 비시 프랑스가 장악한 이 섬의 항구를 일본이 이용하지 못하도록 '아이언클래드 작전'으로 디에고수아레스에 상륙했다. 북부를 확보한 뒤 9월 추가 상륙으로 안타나나리보로 진격했고, 비시 측 총독은 1942년 11월 항복했다. 이후 행정권은 자유 프랑스 당국에 넘어갔으며, 전쟁 동안 말라가시 병사와 노동자들은 큰 부담을 졌다.",
+    "zh": "1942年5月5日，为防止日本利用维希法国控制下的该岛港口，英军发动“铁甲行动”，在迪耶果-苏瓦雷斯登陆。北部被控制后，英军于9月再次登陆并向塔那那利佛推进，维希方面的总督于1942年11月投降。此后行政权移交自由法国当局；战争期间马达加斯加士兵和劳工承受了沉重负担。",
+    "ja": "1942年5月5日、イギリス軍はヴィシー・フランス支配下のこの島の港を日本が利用するのを防ぐため、「アイアンクラッド作戦」でディエゴ・スアレスに上陸した。北部を確保した後、9月の追加上陸でアンタナナリボへ進撃し、ヴィシー側の総督は1942年11月に降伏した。その後行政は自由フランス当局に移り、戦争中マダガスカルの兵士や労働者は重い負担を負った。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "MDRM founded; Madagascar becomes an overseas territory",
+    "ko": "MDRM 창당과 해외 영토 편입",
+    "zh": "MDRM成立，马达加斯加成为海外领地",
+    "ja": "MDRM結成と海外領土化"
+   },
+   "description": {
+    "en": "In 1946 the Malagasy deputies to the French National Assembly—Joseph Raseta, Joseph Ravoahangy and later Jacques Rabemananjara—founded the Mouvement Démocratique de la Rénovation Malgache (MDRM), which sought independence by legal means. That same year the French Union constitution made Madagascar an overseas territory, ending the 'indigénat' regime and forced labor. The MDRM quickly won mass support across the island.",
+    "ko": "1946년 프랑스 국민의회의 말라가시 출신 의원 조제프 라세타, 조제프 라보아앙기, 그리고 뒤이어 자크 라베마난자라가 합법적 수단으로 독립을 추구하는 '말라가시 혁신 민주 운동'(MDRM)을 창당했다. 같은 해 프랑스 연합 헌법으로 마다가스카르는 해외 영토가 되었고, 원주민법(앵디제나)과 강제 노동이 폐지되었다. MDRM은 곧 섬 전역에서 대중적 지지를 얻었다.",
+    "zh": "1946年，法国国民议会中的马达加斯加籍议员约瑟夫·拉塞塔、约瑟夫·拉沃阿汉吉以及随后的雅克·拉贝马南扎拉创建了“马达加斯加民主革新运动”（MDRM），寻求以合法途径实现独立。同年，法兰西联盟宪法使马达加斯加成为海外领地，废除了“土著法”制度和强迫劳动。MDRM迅速在全岛获得广泛支持。",
+    "ja": "1946年、フランス国民議会のマダガスカル選出議員ジョゼフ・ラセタ、ジョゼフ・ラヴォアハンギ、続いてジャック・ラベマナンジャラが、合法的手段による独立をめざす「マダガスカル革新民主運動」（MDRM）を結成した。同年、フランス連合憲法によりマダガスカルは海外領土となり、原住民法（アンディジェナ）体制と強制労働が廃止された。MDRMはたちまち島全土で大衆的支持を得た。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": "Q2506639",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Malagasy Uprising against French rule",
+    "ko": "1947년 마다가스카르 봉기",
+    "zh": "1947年马达加斯加起义",
+    "ja": "1947年のマダガスカル蜂起"
+   },
+   "description": {
+    "en": "On the night of 29 March 1947 nationalist insurgents attacked French posts and plantations, and the revolt spread across much of eastern Madagascar. French forces, including colonial troops from Africa, suppressed it by 1948–49 with mass killings, torture and the burning of villages; estimates of the dead range widely, from tens of thousands to about 90,000 including famine and disease. The MDRM deputies were tried and condemned, and 29 March is now a national day of remembrance.",
+    "ko": "1947년 3월 29일 밤 민족주의 봉기군이 프랑스 초소와 플랜테이션을 공격했고, 반란은 마다가스카르 동부 상당 지역으로 번졌다. 아프리카 출신 식민지 부대를 포함한 프랑스군은 대량 학살, 고문, 마을 방화를 동원해 1948~1949년까지 이를 진압했다. 사망자 추정치는 기근과 질병을 포함해 수만 명에서 약 9만 명까지 큰 차이가 있다. MDRM 의원들은 재판에 회부되어 유죄 판결을 받았으며, 3월 29일은 오늘날 국가 추모일이다.",
+    "zh": "1947年3月29日夜，民族主义起义者袭击法国据点和种植园，起义迅速蔓延至马达加斯加东部大片地区。包括来自非洲殖民地部队在内的法军以大规模屠杀、酷刑和焚烧村庄等手段，至1948至1949年间将其镇压；死亡人数（含饥荒和疾病）估计差异很大，从数万人到约9万人不等。MDRM议员遭到审判和定罪，3月29日如今是全国纪念日。",
+    "ja": "1947年3月29日の夜、民族主義の蜂起勢力がフランスの拠点やプランテーションを襲撃し、反乱はマダガスカル東部の広い地域に広がった。アフリカ出身の植民地部隊を含むフランス軍は、大量殺害、拷問、村の焼き討ちによって1948〜49年までにこれを鎮圧した。飢饉や病気を含む死者数の推計は数万人から約9万人まで大きな幅がある。MDRMの議員は裁判にかけられて有罪とされ、3月29日は現在国の追悼の日となっている。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": "Q6740997",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Malagasy Republic proclaimed",
+    "ko": "말라가시 공화국 선포",
+    "zh": "马尔加什共和国成立",
+    "ja": "マラガシ共和国の宣言"
+   },
+   "description": {
+    "en": "After voters approved the constitution of the French Fifth Republic in September 1958, the Malagasy Republic was proclaimed on 14 October 1958 as an autonomous state within the French Community. Philibert Tsiranana, leader of the Social Democratic Party with strong support among coastal peoples, headed the government. The step paved the way for negotiated independence two years later.",
+    "ko": "1958년 9월 프랑스 제5공화국 헌법이 국민투표에서 승인된 뒤, 1958년 10월 14일 말라가시 공화국이 프랑스 공동체 내 자치국으로 선포되었다. 해안 민족들의 강한 지지를 받던 사회민주당 지도자 필리베르 치라나나가 정부를 이끌었다. 이로써 2년 뒤 협상에 의한 독립의 길이 열렸다.",
+    "zh": "1958年9月法兰西第五共和国宪法经公投通过后，马尔加什共和国于1958年10月14日宣告成立，成为法兰西共同体内的自治国家。在沿海民族中拥有广泛支持的社会民主党领袖菲利贝尔·齐拉纳纳出任政府首脑。这为两年后通过谈判实现独立铺平了道路。",
+    "ja": "1958年9月にフランス第五共和政憲法が国民投票で承認された後、1958年10月14日、マラガシ共和国がフランス共同体内の自治国家として宣言された。沿岸諸民族の強い支持を受けた社会民主党の指導者フィリベール・ツィラナナが政府を率いた。これにより2年後の交渉による独立への道が開かれた。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence from France",
+    "ko": "프랑스로부터 독립",
+    "zh": "脱离法国独立",
+    "ja": "フランスからの独立"
+   },
+   "description": {
+    "en": "On 26 June 1960 the Malagasy Republic became fully independent, with Philibert Tsiranana as its first president, restoring sovereignty after some 64 years of colonial rule. It joined the United Nations that year while keeping cooperation agreements with France covering defense, currency and education. The exiled MDRM deputies of 1947 were allowed to return home.",
+    "ko": "1960년 6월 26일 말라가시 공화국은 필리베르 치라나나를 초대 대통령으로 하여 완전한 독립을 이루었고, 약 64년간의 식민 통치 끝에 주권을 회복했다. 그해 국제연합에 가입했으며, 국방·통화·교육 분야에서 프랑스와 협력 협정을 유지했다. 1947년 봉기 이후 추방되었던 MDRM 의원들도 귀국이 허용되었다.",
+    "zh": "1960年6月26日，马尔加什共和国完全独立，菲利贝尔·齐拉纳纳任首任总统，在约64年的殖民统治后恢复主权。同年加入联合国，同时与法国保持防务、货币和教育方面的合作协定。1947年后被流放的MDRM议员获准回国。",
+    "ja": "1960年6月26日、マラガシ共和国はフィリベール・ツィラナナを初代大統領として完全独立を果たし、約64年に及ぶ植民地支配の後に主権を回復した。同年国際連合に加盟し、防衛・通貨・教育の分野でフランスとの協力協定を維持した。1947年以後追放されていたMDRMの議員にも帰国が認められた。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Peasant revolt in the south",
+    "ko": "남부 농민 봉기",
+    "zh": "南部农民起义",
+    "ja": "南部の農民蜂起"
+   },
+   "description": {
+    "en": "In April 1971 peasants in the southern province of Toliara, mobilized by the radical MONIMA party of Monja Jaona, rose against heavy taxes, drought and the hardships of rural life. The government crushed the revolt with considerable loss of life and arrested Monja Jaona. The uprising exposed the Tsiranana regime's weakness and foreshadowed its fall the next year.",
+    "ko": "1971년 4월, 몬자 자오나가 이끄는 급진 정당 MONIMA의 동원 아래 남부 톨리아라주의 농민들이 무거운 세금과 가뭄, 고된 농촌 생활에 맞서 봉기했다. 정부는 상당한 인명 피해를 내며 봉기를 진압하고 몬자 자오나를 체포했다. 이 봉기는 치라나나 정권의 취약성을 드러냈고 이듬해 정권 붕괴를 예고했다.",
+    "zh": "1971年4月，在蒙扎·乔纳领导的激进政党MONIMA的动员下，南部图利亚拉省的农民起来反抗重税、干旱和艰苦的农村生活。政府以造成大量人员伤亡的方式镇压了起义，并逮捕了蒙扎·乔纳。这场起义暴露了齐拉纳纳政权的虚弱，预示了其次年的垮台。",
+    "ja": "1971年4月、モンジャ・ジャオナ率いる急進政党MONIMAに動員された南部トリアラ州の農民が、重税、干ばつ、厳しい農村生活に抗して蜂起した。政府は多大な死者を出しつつ蜂起を鎮圧し、モンジャ・ジャオナを逮捕した。この蜂起はツィラナナ政権の弱さを露呈させ、翌年の政権崩壊を予告した。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "May 1972 revolution",
+    "ko": "1972년 5월 혁명",
+    "zh": "1972年5月革命",
+    "ja": "1972年5月革命"
+   },
+   "description": {
+    "en": "In May 1972 student strikes against a French-oriented education system grew into mass protests in Antananarivo; on 13 May security forces fired on demonstrators, killing dozens. President Tsiranana handed full powers to General Gabriel Ramanantsoa, who renegotiated the cooperation accords with France, withdrew from the franc zone and had French forces leave the island. The movement, known as rotaka, marked a decisive break with the post-colonial order.",
+    "ko": "1972년 5월 프랑스 중심의 교육 제도에 반대하는 학생 파업이 안타나나리보의 대규모 시위로 번졌고, 5월 13일 보안군이 시위대에 발포해 수십 명이 숨졌다. 치라나나 대통령은 가브리엘 라마난초아 장군에게 전권을 넘겼고, 라마난초아는 프랑스와의 협력 협정을 재협상하고 프랑 존에서 탈퇴했으며 프랑스군을 섬에서 철수시켰다. '로타카'로 불리는 이 운동은 탈식민 체제와의 결정적 단절을 의미했다.",
+    "zh": "1972年5月，反对以法国为导向的教育制度的学生罢课演变为塔那那利佛的大规模抗议；5月13日安全部队向示威者开枪，打死数十人。齐拉纳纳总统将全部权力移交给加布里埃尔·拉马南楚阿将军，后者重新谈判与法国的合作协定，退出法郎区，并使法军撤离该岛。这场被称为“罗塔卡”的运动标志着与后殖民秩序的决裂。",
+    "ja": "1972年5月、フランス志向の教育制度に反対する学生ストがアンタナナリボの大規模抗議へと発展し、5月13日には治安部隊がデモ隊に発砲して数十人が死亡した。ツィラナナ大統領はガブリエル・ラマナンツァ将軍に全権を委ね、ラマナンツァはフランスとの協力協定を再交渉し、フラン圏から離脱し、フランス軍を島から撤退させた。「ロタカ」と呼ばれるこの運動は、ポスト植民地体制との決定的な断絶を画した。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ratsiraka's socialist Second Republic",
+    "ko": "라치라카의 사회주의 제2공화국",
+    "zh": "拉齐拉卡的社会主义第二共和国",
+    "ja": "ラツィラカの社会主義第二共和政"
+   },
+   "description": {
+    "en": "In February 1975 Colonel Richard Ratsimandrava, who had just taken over from Ramanantsoa, was assassinated after less than a week in power. A military directorate then chose naval officer Didier Ratsiraka as head of state in June, and a December 1975 referendum approved his Charter of the Malagasy Socialist Revolution, creating the Democratic Republic of Madagascar. Banks, insurance and key industries were nationalized and the country moved closer to the socialist bloc.",
+    "ko": "1975년 2월 라마난초아로부터 막 권력을 넘겨받은 리샤르 라치만드라바 대령이 집권 일주일도 안 되어 암살되었다. 이후 군사 지도부는 6월 해군 장교 디디에 라치라카를 국가원수로 선택했고, 1975년 12월 국민투표로 그의 '말라가시 사회주의 혁명 헌장'이 승인되어 마다가스카르 민주 공화국이 수립되었다. 은행·보험·핵심 산업이 국유화되었고 나라는 사회주의 진영에 가까워졌다.",
+    "zh": "1975年2月，刚从拉马南楚阿手中接过权力的理查德·拉齐曼德拉瓦上校执政不到一周即遇刺身亡。随后军事领导机构于6月推举海军军官迪迪埃·拉齐拉卡为国家元首，1975年12月的公投通过了他的《马达加斯加社会主义革命宪章》，建立马达加斯加民主共和国。银行、保险和关键产业被收归国有，国家向社会主义阵营靠拢。",
+    "ja": "1975年2月、ラマナンツァから権力を引き継いだばかりのリシャール・ラツィマンドラヴァ大佐が、就任から1週間足らずで暗殺された。その後軍事指導部は6月に海軍将校ディディエ・ラツィラカを国家元首に選び、1975年12月の国民投票で彼の「マダガスカル社会主義革命憲章」が承認されて、マダガスカル民主共和国が成立した。銀行・保険・基幹産業が国有化され、国は社会主義陣営に接近した。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Pro-democracy protests and the Iavoloha shooting",
+    "ko": "민주화 시위와 이아볼로하 발포",
+    "zh": "民主化抗议与伊亚沃洛哈枪击事件",
+    "ja": "民主化運動とイアヴォロハ発砲事件"
+   },
+   "description": {
+    "en": "In 1991 an opposition coalition, the Forces Vives, led months of general strikes and mass rallies in Antananarivo demanding Ratsiraka's resignation. On 10 August 1991 the presidential guard fired on a march toward the Iavoloha palace, killing dozens. The crisis ended with the Panorama Convention of October 1991, which created a transitional government and opened the way to a new constitution.",
+    "ko": "1991년 야권 연합 '포르스 비브'는 수개월간 총파업과 안타나나리보의 대규모 집회를 이끌며 라치라카의 사임을 요구했다. 1991년 8월 10일 대통령 경호대가 이아볼로하 궁으로 향하던 행진에 발포해 수십 명이 숨졌다. 위기는 1991년 10월 과도 정부를 구성하고 새 헌법으로 가는 길을 연 '파노라마 협약'으로 일단락되었다.",
+    "zh": "1991年，反对派联盟“活力力量”在塔那那利佛领导了长达数月的总罢工和大规模集会，要求拉齐拉卡辞职。1991年8月10日，总统卫队向前往伊亚沃洛哈宫的游行队伍开枪，打死数十人。这场危机以1991年10月的《全景公约》告终，该公约组建了过渡政府，为新宪法开辟了道路。",
+    "ja": "1991年、野党連合「フォルス・ヴィーヴ」はアンタナナリボで数か月にわたるゼネストと大規模集会を主導し、ラツィラカの辞任を要求した。1991年8月10日、大統領警護隊がイアヴォロハ宮殿へ向かう行進に発砲し、数十人が死亡した。危機は1991年10月、暫定政府を設け新憲法への道を開いた「パノラマ協定」で収束した。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": "Q7784940",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Democratic Third Republic established",
+    "ko": "민주적 제3공화국 수립",
+    "zh": "民主的第三共和国成立",
+    "ja": "民主的な第三共和政の成立"
+   },
+   "description": {
+    "en": "A new constitution approved by referendum in August 1992 founded the multiparty Third Republic. In the presidential election that followed, opposition leader Albert Zafy defeated Didier Ratsiraka in the February 1993 runoff. The transition was one of the democratic openings that swept Africa in the early 1990s.",
+    "ko": "1992년 8월 국민투표로 승인된 새 헌법으로 다당제 제3공화국이 수립되었다. 이어진 대선에서 야권 지도자 알베르트 자피가 1993년 2월 결선 투표에서 디디에 라치라카를 꺾었다. 이 이행은 1990년대 초 아프리카를 휩쓴 민주화 물결의 하나였다.",
+    "zh": "1992年8月经公投通过的新宪法建立了多党制的第三共和国。在随后的总统选举中，反对派领袖阿尔贝·扎菲在1993年2月的第二轮投票中击败迪迪埃·拉齐拉卡。这一转型是1990年代初席卷非洲的民主化浪潮的一部分。",
+    "ja": "1992年8月の国民投票で承認された新憲法により、複数政党制の第三共和政が成立した。続く大統領選挙では、野党指導者アルベール・ザフィが1993年2月の決選投票でディディエ・ラツィラカを破った。この移行は1990年代初頭にアフリカを席巻した民主化の波の一つであった。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": "Q17089534",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Zafy impeached; Ratsiraka returns",
+    "ko": "자피 탄핵과 라치라카의 복귀",
+    "zh": "扎菲遭弹劾，拉齐拉卡复出",
+    "ja": "ザフィ弾劾とラツィラカの復帰"
+   },
+   "description": {
+    "en": "In 1996 the National Assembly impeached President Albert Zafy amid conflicts over his powers and economic policy, and the High Constitutional Court confirmed his removal. In the presidential election held at the end of the year, Didier Ratsiraka narrowly defeated Zafy and returned to power in early 1997. Ratsiraka now presented himself as a supporter of market reforms.",
+    "ko": "1996년 국민의회는 권한과 경제 정책을 둘러싼 갈등 속에서 알베르트 자피 대통령을 탄핵했고, 고등헌법재판소가 그의 해임을 확정했다. 연말에 치러진 대선에서 디디에 라치라카가 근소한 차이로 자피를 꺾고 1997년 초 권좌에 복귀했다. 라치라카는 이번에는 시장 개혁의 지지자로 자신을 내세웠다.",
+    "zh": "1996年，国民议会在围绕总统权力和经济政策的冲突中弹劾了阿尔贝·扎菲总统，最高宪法法院确认将其解职。在年底举行的总统选举中，迪迪埃·拉齐拉卡以微弱优势击败扎菲，于1997年初重新掌权。拉齐拉卡此时以市场改革支持者的形象出现。",
+    "ja": "1996年、国民議会は権限と経済政策をめぐる対立の中でアルベール・ザフィ大統領を弾劾し、高等憲法裁判所がその解任を確定した。年末の大統領選挙でディディエ・ラツィラカがわずかな差でザフィを破り、1997年初めに政権に復帰した。ラツィラカは今度は市場改革の支持者として自らを打ち出した。"
+   }
+  },
+  {
+   "year": 2001,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Royal Hill of Ambohimanga on UNESCO list",
+    "ko": "암보히망가 왕실 언덕, 세계유산 등재",
+    "zh": "安布希曼加皇家山丘列入世界遗产",
+    "ja": "アンブヒマンガの丘、世界遺産登録"
+   },
+   "description": {
+    "en": "In 2001 the Royal Hill of Ambohimanga, the fortified seat from which Andrianampoinimerina began unifying Imerina, was inscribed on the UNESCO World Heritage List. The site preserves royal residences, tombs, gates and sacred forest, and remains a place of pilgrimage and ancestral ritual. It joined the Tsingy de Bemaraha reserve (1990) as one of the country's World Heritage sites; the Rainforests of the Atsinanana followed in 2007.",
+    "ko": "2001년 안드리아남포이니메리나가 이메리나 통일을 시작한 요새화된 근거지 암보히망가 왕실 언덕이 유네스코 세계유산으로 등재되었다. 이곳에는 왕실 거처, 무덤, 성문, 신성한 숲이 남아 있으며 지금도 순례와 조상 의례의 장소이다. 이로써 칭기드베마라하 보호구(1990년)에 이어 세계유산이 되었고, 2007년에는 아치나나나 우림이 뒤를 이었다.",
+    "zh": "2001年，安德里亚南普伊尼梅里纳开始统一伊默里纳的设防据点——安布希曼加皇家山丘被列入联合国教科文组织世界遗产名录。该地保存着王室住所、陵墓、城门和圣林，至今仍是朝圣和祭祖仪式的场所。它继贝马拉哈石林自然保护区（1990年）之后成为该国的世界遗产，2007年阿钦安阿纳雨林也被列入。",
+    "ja": "2001年、アンドリアナンポイニメリナがイメリナ統一を始めた要塞化された拠点、アンブヒマンガの丘の王領地がユネスコ世界遺産に登録された。王の住居、墓、門、聖なる森が残り、今も巡礼と祖先儀礼の場となっている。ツィンギ・デ・ベマラ厳正自然保護区（1990年）に続く同国の世界遺産となり、2007年にはアツィナナナの雨林が加わった。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": "Q105560647",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "2002 political crisis",
+    "ko": "2002년 정치 위기",
+    "zh": "2002年政治危机",
+    "ja": "2002年の政治危機"
+   },
+   "description": {
+    "en": "After the December 2001 presidential election, Antananarivo mayor Marc Ravalomanana claimed an outright first-round victory over Didier Ratsiraka, and both men established rival governments. Ratsiraka's supporters blockaded the capital and blew up bridges, and violence claimed many lives over several months. After a recount, the High Constitutional Court declared Ravalomanana the winner in April 2002; Ratsiraka went into exile in France that July.",
+    "ko": "2001년 12월 대선 이후 안타나나리보 시장 마르크 라발로마나나는 1차 투표에서 디디에 라치라카를 꺾고 과반을 얻었다고 주장했고, 두 사람은 각각 경쟁 정부를 세웠다. 라치라카 지지 세력은 수도를 봉쇄하고 다리를 폭파했으며, 수개월간의 폭력으로 많은 사람이 목숨을 잃었다. 재검표 끝에 고등헌법재판소는 2002년 4월 라발로마나나의 승리를 선언했고, 라치라카는 그해 7월 프랑스로 망명했다.",
+    "zh": "2001年12月总统选举后，塔那那利佛市长马克·拉瓦卢马纳纳宣称在第一轮中击败迪迪埃·拉齐拉卡、直接胜选，两人各自建立对立政府。拉齐拉卡的支持者封锁首都并炸毁桥梁，数月的暴力冲突造成许多人死亡。重新计票后，最高宪法法院于2002年4月宣布拉瓦卢马纳纳获胜，拉齐拉卡于同年7月流亡法国。",
+    "ja": "2001年12月の大統領選挙後、アンタナナリボ市長マルク・ラヴァルマナナは第1回投票でディディエ・ラツィラカを破り過半数を得たと主張し、両者はそれぞれ対立政府を樹立した。ラツィラカ派は首都を封鎖して橋を爆破し、数か月にわたる暴力で多くの命が失われた。再集計の結果、高等憲法裁判所は2002年4月にラヴァルマナナの勝利を宣言し、ラツィラカは同年7月にフランスへ亡命した。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": "Q6741006",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "2007 constitutional referendum",
+    "ko": "2007년 개헌 국민투표",
+    "zh": "2007年修宪公投",
+    "ja": "2007年の憲法改正国民投票"
+   },
+   "description": {
+    "en": "In April 2007 voters approved constitutional amendments proposed by President Ravalomanana, re-elected in 2006. They strengthened presidential powers, replaced the six autonomous provinces with 22 regions as the main administrative units, and added English as an official language alongside Malagasy and French. Critics saw the changes as a concentration of power in the presidency.",
+    "ko": "2007년 4월 유권자들은 2006년 재선된 라발로마나나 대통령이 제안한 헌법 개정안을 승인했다. 개정안은 대통령 권한을 강화하고, 6개 자치주를 대신해 22개 지역을 주요 행정 단위로 삼았으며, 말라가시어·프랑스어에 더해 영어를 공용어로 추가했다. 비판자들은 이를 대통령에게 권력을 집중시키는 조치로 보았다.",
+    "zh": "2007年4月，选民批准了2006年连任的拉瓦卢马纳纳总统提出的宪法修正案。修正案加强了总统权力，以22个大区取代6个自治省作为主要行政单位，并在马达加斯加语和法语之外增设英语为官方语言。批评者认为这些变化使权力向总统集中。",
+    "ja": "2007年4月、有権者は2006年に再選されたラヴァルマナナ大統領の提案した憲法改正を承認した。改正は大統領権限を強化し、6つの自治州に代えて22の地域を主要な行政単位とし、マダガスカル語・フランス語に加えて英語を公用語とした。批判者はこれを大統領への権力集中とみなした。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": "Q1628984",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Political crisis of 2009",
+    "ko": "2009년 정치 위기",
+    "zh": "2009年政治危机",
+    "ja": "2009年の政治危機"
+   },
+   "description": {
+    "en": "In early 2009 protests led by Antananarivo mayor Andry Rajoelina against President Ravalomanana turned deadly, notably on 7 February when the presidential guard fired on marchers. In March, with key army units siding with the opposition, Ravalomanana handed power to the military, which transferred it to Rajoelina as head of a High Transitional Authority. The African Union and SADC suspended Madagascar, and donors cut aid until elections in 2013 restored constitutional rule.",
+    "ko": "2009년 초 안타나나리보 시장 안드리 라조엘리나가 이끈 라발로마나나 대통령 반대 시위는 유혈 사태로 번졌고, 특히 2월 7일 대통령 경호대가 행진 대열에 발포했다. 3월 주요 군부대가 야권 편에 서자 라발로마나나는 권력을 군에 넘겼고, 군은 이를 고등과도청 수반인 라조엘리나에게 이양했다. 아프리카연합과 남아프리카개발공동체(SADC)는 마다가스카르의 자격을 정지했고, 공여국들은 2013년 선거로 헌정 질서가 회복될 때까지 원조를 중단했다.",
+    "zh": "2009年初，塔那那利佛市长安德里·拉乔利纳领导的反对拉瓦卢马纳纳总统的抗议演变为流血冲突，尤其是2月7日总统卫队向游行者开枪。3月，主要军队单位倒向反对派，拉瓦卢马纳纳将权力交给军方，军方随即将其移交给出任“最高过渡当局”主席的拉乔利纳。非洲联盟和南部非洲发展共同体暂停马达加斯加成员资格，捐助方中止援助，直至2013年选举恢复宪政秩序。",
+    "ja": "2009年初め、アンタナナリボ市長アンドリー・ラジョエリナが率いたラヴァルマナナ大統領への抗議は流血の事態となり、とくに2月7日には大統領警護隊が行進に発砲した。3月、主要な軍部隊が野党側についたため、ラヴァルマナナは権力を軍に移譲し、軍はそれを高等暫定機構の議長となったラジョエリナに引き渡した。アフリカ連合と南部アフリカ開発共同体（SADC）はマダガスカルの資格を停止し、援助国は2013年の選挙で憲政が回復するまで援助を止めた。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": "Q2515541",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Fourth Republic constitution",
+    "ko": "제4공화국 헌법 채택",
+    "zh": "第四共和国宪法通过",
+    "ja": "第四共和政憲法の採択"
+   },
+   "description": {
+    "en": "In November 2010 a referendum organized by Rajoelina's transitional authority approved a new constitution, founding the Fourth Republic. Among other changes it lowered the minimum age for presidential candidates to 35, allowing Rajoelina to stand. Much of the opposition boycotted or rejected the vote, and the transition dragged on until internationally mediated elections.",
+    "ko": "2010년 11월 라조엘리나의 과도 당국이 실시한 국민투표에서 새 헌법이 승인되어 제4공화국이 출범했다. 여러 변화 가운데 대통령 후보의 최소 연령을 35세로 낮춰 라조엘리나의 출마를 가능하게 했다. 야권 상당수는 투표를 거부하거나 인정하지 않았고, 과도기는 국제 중재에 따른 선거 때까지 이어졌다.",
+    "zh": "2010年11月，拉乔利纳的过渡当局组织公投，批准了新宪法，第四共和国由此建立。新宪法的诸多变化之一是将总统候选人的最低年龄降至35岁，使拉乔利纳得以参选。许多反对派抵制或拒绝承认这次投票，过渡期一直延续到国际斡旋下的选举。",
+    "ja": "2010年11月、ラジョエリナの暫定当局が実施した国民投票で新憲法が承認され、第四共和政が発足した。変更点の一つとして大統領候補の最低年齢を35歳に引き下げ、ラジョエリナの出馬を可能にした。野党の多くは投票をボイコットまたは拒否し、暫定期は国際的な仲介による選挙まで長引いた。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Elections end the transition",
+    "ko": "선거로 과도기 종료",
+    "zh": "选举结束过渡期",
+    "ja": "選挙による暫定期の終結"
+   },
+   "description": {
+    "en": "Under a SADC-mediated roadmap, neither Rajoelina nor Ravalomanana stood in the 2013 presidential election. Hery Rajaonarimampianina, a former finance minister backed by Rajoelina's camp, won the December 2013 runoff and took office in January 2014. The vote was accepted internationally, and Madagascar's suspensions were lifted and aid resumed.",
+    "ko": "남아프리카개발공동체(SADC)가 중재한 로드맵에 따라 라조엘리나와 라발로마나나 모두 2013년 대선에 출마하지 않았다. 라조엘리나 진영의 지지를 받은 전 재무장관 에리 라자오나리마미아니나가 2013년 12월 결선 투표에서 승리해 2014년 1월 취임했다. 선거 결과는 국제적으로 인정받았고, 마다가스카르에 대한 자격 정지가 해제되고 원조가 재개되었다.",
+    "zh": "根据南部非洲发展共同体斡旋的路线图，拉乔利纳和拉瓦卢马纳纳均未参加2013年总统选举。获拉乔利纳阵营支持的前财政部长埃里·拉乔纳里马姆皮亚尼纳在2013年12月的第二轮投票中获胜，并于2014年1月就职。选举结果得到国际承认，对马达加斯加的制裁和暂停被解除，援助恢复。",
+    "ja": "南部アフリカ開発共同体（SADC）が仲介したロードマップにより、ラジョエリナもラヴァルマナナも2013年の大統領選挙に出馬しなかった。ラジョエリナ陣営の支援を受けた元財務相ヘリー・ラジャオナリマンピアニナが2013年12月の決選投票で勝利し、2014年1月に就任した。選挙は国際的に承認され、マダガスカルへの資格停止は解除され、援助が再開された。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q42405672",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "2017 plague outbreak",
+    "ko": "2017년 페스트 유행",
+    "zh": "2017年鼠疫疫情",
+    "ja": "2017年のペスト流行"
+   },
+   "description": {
+    "en": "Plague is endemic in Madagascar's highlands, but the 2017 outbreak was unusual: most cases were of the pneumonic form and spread in cities, including Antananarivo and Toamasina. Between August and November more than 2,000 cases and over 200 deaths were recorded. Schools were temporarily closed and public gatherings restricted while the WHO supported the response.",
+    "ko": "페스트는 마다가스카르 고원 지대의 풍토병이지만, 2017년 유행은 대부분이 폐페스트였고 안타나나리보와 토아마시나 등 도시에서 퍼졌다는 점에서 이례적이었다. 8월부터 11월 사이 2,000건이 넘는 사례와 200명이 넘는 사망자가 기록되었다. 세계보건기구의 지원 아래 학교가 일시 휴교하고 공공 집회가 제한되었다.",
+    "zh": "鼠疫在马达加斯加高原地区属地方性流行病，但2017年的疫情不同寻常：大多数病例为肺鼠疫，并在塔那那利佛、图阿马西纳等城市传播。8月至11月间记录了2000多例病例和200多例死亡。在世卫组织的支持下，学校暂时停课，公共集会受到限制。",
+    "ja": "ペストはマダガスカルの高地で風土病となっているが、2017年の流行は大半が肺ペストで、アンタナナリボやトアマシナなどの都市で広がった点で異例だった。8月から11月にかけて2000件を超える症例と200人を超える死者が記録された。世界保健機関の支援のもと、学校の一時休校や集会の制限が行われた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q28913856",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclone Enawo",
+    "ko": "사이클론 에나워",
+    "zh": "气旋埃纳沃",
+    "ja": "サイクロン・エナウォ"
+   },
+   "description": {
+    "en": "In March 2017 Intense Tropical Cyclone Enawo struck northeastern Madagascar near Antalaha, the heart of the vanilla-growing region, as one of the strongest storms to hit the island in years. Winds and floods destroyed homes and crops as the storm crossed the island toward Antananarivo. Dozens of people died and hundreds of thousands were affected.",
+    "ko": "2017년 3월 강력한 열대 사이클론 에나워가 바닐라 재배 지역의 중심인 북동부 안탈라하 부근에 상륙했으며, 이는 수년 만에 섬을 강타한 가장 강력한 폭풍 가운데 하나였다. 폭풍이 안타나나리보 방향으로 섬을 가로지르는 동안 강풍과 홍수가 가옥과 농작물을 파괴했다. 수십 명이 숨지고 수십만 명이 피해를 입었다.",
+    "zh": "2017年3月，强烈热带气旋埃纳沃在香草种植区中心——东北部安塔拉哈附近登陆，是多年来袭击该岛最强的风暴之一。风暴向塔那那利佛方向横穿全岛，狂风和洪水摧毁了房屋和庄稼。数十人死亡，数十万人受灾。",
+    "ja": "2017年3月、強い熱帯サイクロン・エナウォがバニラ産地の中心である北東部アンタラハ付近に上陸し、ここ数年で島を襲った最強級の嵐となった。嵐がアンタナナリボ方面へ島を横断する間、暴風と洪水が家屋や作物を破壊した。数十人が死亡し、数十万人が被害を受けた。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q50376541",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Rajoelina wins the 2018 election",
+    "ko": "라조엘리나, 2018년 대선 승리",
+    "zh": "拉乔利纳赢得2018年大选",
+    "ja": "ラジョエリナ、2018年大統領選挙に勝利"
+   },
+   "description": {
+    "en": "The 2018 presidential election pitted three former presidents—Andry Rajoelina, Marc Ravalomanana and Hery Rajaonarimampianina—against each other. Rajoelina defeated Ravalomanana in the December runoff and was inaugurated in January 2019. It was the first time the two rivals of the 2009 crisis faced each other at the ballot box.",
+    "ko": "2018년 대선에서는 안드리 라조엘리나, 마르크 라발로마나나, 에리 라자오나리마미아니나 등 전직 대통령 세 명이 맞붙었다. 라조엘리나는 12월 결선 투표에서 라발로마나나를 꺾고 2019년 1월 취임했다. 2009년 위기의 두 경쟁자가 투표로 맞대결한 것은 이때가 처음이었다.",
+    "zh": "2018年总统选举中，安德里·拉乔利纳、马克·拉瓦卢马纳纳和埃里·拉乔纳里马姆皮亚尼纳三位前总统同台竞争。拉乔利纳在12月的第二轮投票中击败拉瓦卢马纳纳，并于2019年1月就职。这是2009年危机中的两位对手首次在投票箱前正面交锋。",
+    "ja": "2018年の大統領選挙では、アンドリー・ラジョエリナ、マルク・ラヴァルマナナ、ヘリー・ラジャオナリマンピアニナの3人の元大統領が争った。ラジョエリナは12月の決選投票でラヴァルマナナを破り、2019年1月に就任した。2009年の危機の2人の対立者が投票で直接対決したのはこれが初めてだった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q88225303",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "COVID-19 and 'Covid-Organics'",
+    "ko": "코로나19와 '코비드 오가닉스'",
+    "zh": "新冠疫情与“新冠有机饮”",
+    "ja": "新型コロナと「コビッド・オーガニクス」"
+   },
+   "description": {
+    "en": "Madagascar recorded its first COVID-19 cases in March 2020 and imposed lockdowns in major cities. In April President Rajoelina launched 'Covid-Organics', an herbal drink based on artemisia, promoting it as a remedy and distributing it widely and to other African states. The WHO cautioned that it had not been proven effective in clinical trials.",
+    "ko": "마다가스카르는 2020년 3월 첫 코로나19 확진자를 기록하고 주요 도시에 봉쇄 조치를 내렸다. 4월 라조엘리나 대통령은 쑥속 식물(아르테미시아)을 원료로 한 약초 음료 '코비드 오가닉스'를 출시해 치료제로 홍보하며 국내와 다른 아프리카 국가에 널리 배포했다. 세계보건기구는 임상 시험으로 효과가 입증되지 않았다고 경고했다.",
+    "zh": "马达加斯加于2020年3月出现首批新冠病例，并在主要城市实施封锁。4月，拉乔利纳总统推出以青蒿属植物为原料的草药饮品“新冠有机饮”，将其宣传为疗法，在国内广泛分发并送往其他非洲国家。世卫组织提醒，其疗效未经临床试验证实。",
+    "ja": "マダガスカルは2020年3月に初の新型コロナウイルス感染者を確認し、主要都市でロックダウンを実施した。4月、ラジョエリナ大統領はヨモギ属（アルテミシア）を原料とする薬草飲料「コビッド・オーガニクス」を発表し、治療薬として宣伝して国内や他のアフリカ諸国に広く配布した。世界保健機関は臨床試験で効果が証明されていないと注意を促した。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": "Q107417684",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Food crisis in the Grand Sud",
+    "ko": "남부 대기근 위기",
+    "zh": "南部大饥荒危机",
+    "ja": "南部の食料危機"
+   },
+   "description": {
+    "en": "After successive years of drought, southern Madagascar suffered a severe food crisis in 2021–2022, with the UN warning of famine-like conditions in parts of the region. Sandstorms, failed harvests, poverty and insecurity compounded the hunger, and many families resorted to eating cactus fruit, leaves or locusts. Humanitarian agencies scaled up food aid, and the crisis drew attention to climate vulnerability in the arid south.",
+    "ko": "수년 연속된 가뭄 끝에 마다가스카르 남부는 2021~2022년 심각한 식량 위기를 겪었고, 국제연합은 일부 지역에서 기근에 준하는 상황이 벌어지고 있다고 경고했다. 모래 폭풍, 흉작, 빈곤, 치안 불안이 굶주림을 악화시켰고, 많은 가정이 선인장 열매나 나뭇잎, 메뚜기로 연명했다. 인도주의 기구들은 식량 원조를 확대했으며, 이 위기는 건조한 남부의 기후 취약성에 주목하게 했다.",
+    "zh": "连年干旱之后，马达加斯加南部在2021至2022年遭遇严重粮食危机，联合国警告部分地区出现类似饥荒的状况。沙尘暴、歉收、贫困和治安不靖加剧了饥饿，许多家庭只能靠仙人掌果、树叶或蝗虫果腹。人道主义机构扩大了粮食援助，这场危机也使人们关注干旱南部的气候脆弱性。",
+    "ja": "数年続いた干ばつの後、マダガスカル南部は2021〜22年に深刻な食料危機に見舞われ、国連は一部地域で飢饉に近い状況が生じていると警告した。砂嵐、不作、貧困、治安の悪化が飢えを深刻にし、多くの家族がサボテンの実や木の葉、イナゴで食いつないだ。人道支援機関は食料援助を拡大し、この危機は乾燥した南部の気候脆弱性に注目を集めた。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q110797740",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclone Batsirai",
+    "ko": "사이클론 밧시라이",
+    "zh": "气旋巴茨莱",
+    "ja": "サイクロン・バツィライ"
+   },
+   "description": {
+    "en": "In February 2022 Intense Tropical Cyclone Batsirai made landfall near Mananjary on the southeast coast, just two weeks after deadly storms and floods had hit the island. It destroyed or damaged tens of thousands of homes and caused severe crop losses. More than a hundred people were killed, making it one of the deadliest cyclones of a destructive season.",
+    "ko": "2022년 2월 강력한 열대 사이클론 밧시라이가 남동부 해안 마난자리 부근에 상륙했는데, 이는 치명적인 폭풍과 홍수가 섬을 강타한 지 불과 2주 만이었다. 수만 채의 가옥이 파괴되거나 손상되었고 농작물 피해도 컸다. 100명이 넘는 사람이 숨져 파괴적이었던 그해 사이클론 시즌에서 가장 치명적인 폭풍 가운데 하나가 되었다.",
+    "zh": "2022年2月，强烈热带气旋巴茨莱在东南海岸马南扎里附近登陆，距致命的风暴和洪水袭击该岛仅两周。它摧毁或损坏了数万所房屋，并造成严重的农作物损失。一百多人遇难，使其成为那个破坏性季节中最致命的气旋之一。",
+    "ja": "2022年2月、強い熱帯サイクロン・バツィライが南東海岸のマナンジャリ付近に上陸した。これは死者を出した嵐と洪水が島を襲ってからわずか2週間後のことだった。数万戸の家屋が全壊または損壊し、農作物にも大きな被害が出た。100人以上が死亡し、被害の大きかったこのシーズンで最も死者の多いサイクロンの一つとなった。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q83973489",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Contested re-election of Rajoelina",
+    "ko": "논란 속 라조엘리나 재선",
+    "zh": "拉乔利纳在争议中连任",
+    "ja": "論争の中のラジョエリナ再選"
+   },
+   "description": {
+    "en": "In November 2023 Andry Rajoelina was re-elected in the first round of a presidential election boycotted by most opposition candidates. The campaign was marked by protests, dispersed by security forces, and by controversy over his acquisition of French nationality, which critics argued should have disqualified him. Turnout was low, and the opposition rejected the result.",
+    "ko": "2023년 11월 안드리 라조엘리나는 야권 후보 대부분이 보이콧한 대선 1차 투표에서 재선되었다. 선거 운동 기간에는 보안군이 해산시킨 시위가 이어졌고, 비판자들이 후보 자격 박탈 사유라고 주장한 그의 프랑스 국적 취득 문제가 논란이 되었다. 투표율은 낮았으며 야권은 결과를 인정하지 않았다.",
+    "zh": "2023年11月，在大多数反对派候选人抵制的总统选举中，安德里·拉乔利纳在第一轮即获连任。竞选期间抗议不断并遭安全部队驱散，他取得法国国籍一事也引发争议，批评者认为他应因此丧失参选资格。投票率较低，反对派拒绝承认选举结果。",
+    "ja": "2023年11月、野党候補の大半がボイコットした大統領選挙で、アンドリー・ラジョエリナが第1回投票で再選された。選挙戦では治安部隊に解散させられる抗議が相次ぎ、批判者が失格事由だと主張した彼のフランス国籍取得も論争となった。投票率は低く、野党は結果を認めなかった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q136377386",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Gen Z protests over water and power cuts",
+    "ko": "물·전력 부족에 항의한 Z세대 시위",
+    "zh": "Z世代抗议断水断电",
+    "ja": "断水・停電に抗議するZ世代デモ"
+   },
+   "description": {
+    "en": "On 25 September 2025 youth-led protests, organized largely online under the banner 'Gen Z Madagascar', erupted in Antananarivo over chronic water and electricity outages. They quickly spread to other cities and widened into demands against corruption and for President Rajoelina's resignation; the UN reported that at least 22 people were killed in the early crackdown. Rajoelina dismissed his government at the end of September, but protests continued.",
+    "ko": "2025년 9월 25일 만성적인 단수와 정전에 항의해, 주로 온라인에서 'Z세대 마다가스카르'라는 이름으로 조직된 청년 주도 시위가 안타나나리보에서 일어났다. 시위는 곧 다른 도시로 번졌고 부패 척결과 라조엘리나 대통령 사임 요구로 확대되었으며, 국제연합은 초기 진압 과정에서 최소 22명이 사망했다고 밝혔다. 라조엘리나는 9월 말 내각을 해산했지만 시위는 계속되었다.",
+    "zh": "2025年9月25日，主要通过网络以“Z世代马达加斯加”名义组织的青年抗议在塔那那利佛爆发，起因是长期的断水断电。抗议很快蔓延至其他城市，并扩大为反腐和要求拉乔利纳总统辞职的诉求；联合国称早期镇压中至少22人死亡。拉乔利纳于9月底解散政府，但抗议仍在继续。",
+    "ja": "2025年9月25日、慢性的な断水と停電に抗議して、主にオンラインで「Z世代マダガスカル」の名のもとに組織された若者主導のデモがアンタナナリボで起こった。抗議はたちまち他の都市に広がり、汚職追及とラジョエリナ大統領の辞任要求へと拡大した。国連は初期の弾圧で少なくとも22人が死亡したと発表した。ラジョエリナは9月末に内閣を解散したが、抗議は続いた。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q136487699",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Military takeover ousts Rajoelina",
+    "ko": "군의 권력 장악과 라조엘리나 축출",
+    "zh": "军方夺权，拉乔利纳下台",
+    "ja": "軍の権力掌握とラジョエリナ失脚"
+   },
+   "description": {
+    "en": "On 11 October 2025 soldiers of the CAPSAT army unit, which had backed Rajoelina's rise in 2009, refused to fire on protesters and joined them in Antananarivo. Rajoelina left the country, and on 14 October the National Assembly voted to impeach him as CAPSAT commander Colonel Michael Randrianirina announced that the military was taking power. Randrianirina was sworn in as president by the High Constitutional Court on 17 October, promising a transition and eventual elections.",
+    "ko": "2025년 10월 11일, 2009년 라조엘리나의 집권을 지원했던 육군 부대 CAPSAT의 병사들이 시위대에 대한 발포를 거부하고 안타나나리보에서 시위대에 합류했다. 라조엘리나는 출국했고, 10월 14일 국민의회가 그의 탄핵을 의결한 가운데 CAPSAT 지휘관 미카엘 란드리아니리나 대령이 군의 권력 장악을 발표했다. 란드리아니리나는 10월 17일 고등헌법재판소 앞에서 대통령으로 취임하며 과도기와 향후 선거를 약속했다.",
+    "zh": "2025年10月11日，曾在2009年支持拉乔利纳上台的陆军部队CAPSAT的士兵拒绝向抗议者开枪，并在塔那那利佛加入抗议行列。拉乔利纳离开该国；10月14日国民议会投票弹劾他，CAPSAT指挥官米夏埃尔·兰德里亚尼里纳上校随即宣布军方接管政权。10月17日，兰德里亚尼里纳在最高宪法法院宣誓就任总统，承诺进行过渡并最终举行选举。",
+    "ja": "2025年10月11日、2009年にラジョエリナの政権掌握を支えた陸軍部隊CAPSATの兵士が抗議者への発砲を拒み、アンタナナリボで抗議に合流した。ラジョエリナは国外へ出て、10月14日に国民議会が弾劾を可決すると、CAPSAT司令官ミカエル・ランドリアニリナ大佐が軍による権力掌握を発表した。ランドリアニリナは10月17日、高等憲法裁判所で大統領に就任し、移行期間とその後の選挙を約束した。"
+   }
+  }
+ ]
+}

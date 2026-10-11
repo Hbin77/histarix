@@ -2,39 +2,43 @@
 
 import { useEffect, useRef, useState } from "react";
 import type { SelectedCountry } from "@/types/map";
-import { useCountryData } from "@/hooks/useCountryData";
+import { useChronicle, useCountryInfo } from "@/hooks/useCountryData";
 import { useI18n } from "@/lib/i18n";
 import { CountryInfo } from "./CountryInfo";
-import { CountryHistory } from "./CountryHistory";
-import { HistoryTimeline } from "./HistoryTimeline";
+import { YearHistory } from "./YearHistory";
+import { ChronicleTimeline } from "./ChronicleTimeline";
 
 interface CountryPanelProps {
   selectedCountry: SelectedCountry | null;
   onClose: () => void;
+  /** time-slider year the history tab describes */
+  year: number;
+  onYearChange: (year: number) => void;
 }
 
-type TabId = "info" | "history" | "timeline";
-const TAB_IDS: TabId[] = ["info", "history", "timeline"];
+type TabId = "history" | "chronicle" | "info";
+const TAB_IDS: TabId[] = ["history", "chronicle", "info"];
 
-export function CountryPanel({ selectedCountry, onClose }: CountryPanelProps) {
-  const [activeTab, setActiveTab] = useState<TabId>("info");
+export function CountryPanel({ selectedCountry, onClose, year, onYearChange }: CountryPanelProps) {
+  const [activeTab, setActiveTab] = useState<TabId>("history");
   const { t } = useI18n();
   const contentRef = useRef<HTMLDivElement>(null);
 
   const tabs = [
-    { id: "info" as const, label: t("info") },
     { id: "history" as const, label: t("history") },
-    { id: "timeline" as const, label: t("timeline") },
+    { id: "chronicle" as const, label: t("chronicle") },
+    { id: "info" as const, label: t("info") },
   ];
-  const { info, history, loading, error } = useCountryData(
-    selectedCountry?.iso_code ?? null
-  );
+  const iso = selectedCountry?.iso_code ?? null;
+  const info = useCountryInfo(iso);
+  const chronicle = useChronicle(iso);
+  const current = activeTab === "info" ? info : chronicle;
 
   const isOpen = selectedCountry !== null;
 
-  // fresh selection resets to the info tab and scrolls to top
+  // fresh selection opens on the slider year's history, scrolled to top
   useEffect(() => {
-    setActiveTab("info");
+    setActiveTab("history");
     contentRef.current?.scrollTo({ top: 0 });
   }, [selectedCountry?.iso_code]);
 
@@ -104,19 +108,21 @@ export function CountryPanel({ selectedCountry, onClose }: CountryPanelProps) {
       </div>
 
       {/* Content */}
-      <div ref={contentRef} className="h-full overflow-y-auto px-5 py-4 pb-28 text-[var(--on-surface)]">
-        {loading && <PanelSkeleton />}
-        {error && (
+      <div ref={contentRef} data-panel-scroll className="h-full overflow-y-auto px-5 py-4 pb-28 text-[var(--on-surface)]">
+        {current.loading && <PanelSkeleton />}
+        {current.error && (
           <div className="rounded-xl bg-[var(--error)]/10 p-4 text-sm text-[var(--error)]">
-            {error}
+            {activeTab === "info" ? current.error : t("noHistory")}
           </div>
         )}
-        {!loading && !error && (
-          <div key={`${selectedCountry?.iso_code}-${activeTab}`} className="stagger">
-            {activeTab === "info" && <CountryInfo info={info} />}
-            {activeTab === "history" && <CountryHistory history={history} />}
-            {activeTab === "timeline" && (
-              <HistoryTimeline events={history?.events ?? []} />
+        {!current.loading && !current.error && (
+          <div key={`${iso}-${activeTab}`} className="stagger">
+            {activeTab === "info" && <CountryInfo info={info.data} />}
+            {activeTab === "history" && chronicle.data && (
+              <YearHistory chronicle={chronicle.data} year={year} onSelectYear={onYearChange} />
+            )}
+            {activeTab === "chronicle" && chronicle.data && (
+              <ChronicleTimeline chronicle={chronicle.data} year={year} onSelectYear={onYearChange} />
             )}
           </div>
         )}

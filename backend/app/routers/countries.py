@@ -8,7 +8,8 @@ from app.cache import cached_or_fetch, COUNTRY_TTL, EVENT_TTL
 from app.database import async_session
 from app.models import HistoricalEvent as EventModel
 from app.schemas.country import CountryBasic, CountryInfo
-from app.schemas.history import CountryHistory, HistoricalEvent
+from app.schemas.history import Chronicle, CountryHistory, HistoricalEvent
+from app.services.chronicle import get_chronicle
 from app.services.history_dataset import get_dataset_events
 from app.services.rest_countries import get_country_by_code, search_countries
 from app.services.wikidata import get_country_events
@@ -88,6 +89,22 @@ async def get_country(request: Request, iso_code: str, lang: str = Query("en", m
         )
 
     return await cached_or_fetch("country", f"{code}:{lang}", fetch, COUNTRY_TTL)
+
+
+# plain def: file parsing on a cache miss runs in the threadpool, not the event loop
+@router.get("/{iso_code}/chronicle", response_model=Chronicle)
+def get_country_chronicle(
+    iso_code: str, lang: str = Query("en", max_length=5)
+) -> Chronicle:
+    """Eras + year-by-year events for the land of a modern country, 3000 BC–2026."""
+    code = iso_code.upper()
+    if not _ISO_PATTERN.match(code):
+        raise HTTPException(status_code=400, detail="Invalid ISO code")
+    lang = lang if lang in ("ko", "en", "zh", "ja") else "en"
+    chronicle = get_chronicle(code, lang)
+    if chronicle is None:
+        raise HTTPException(status_code=404, detail="No chronicle for this country")
+    return chronicle
 
 
 @router.get("/{iso_code}/history", response_model=CountryHistory)

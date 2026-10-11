@@ -1,0 +1,2590 @@
+{
+ "iso": "ME",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -2300,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Neolithic and Copper Age",
+    "ko": "신석기·동석기 시대",
+    "zh": "新石器与铜石并用时代",
+    "ja": "新石器・銅石器時代"
+   },
+   "summary": {
+    "en": "Cave sites such as Crvena Stijena and Odmut show that the rugged land of today's Montenegro was inhabited by hunter-gatherers long before farming arrived. Neolithic farmers and herders later settled the coast and the river valleys, leaving pottery of the Adriatic Impressed Ware tradition. By the Copper Age, contacts with the wider Balkans brought metalworking and new burial customs.",
+    "ko": "크르베나 스티예나, 오드무트 같은 동굴 유적은 오늘날 몬테네그로의 험준한 땅에 농경 이전부터 수렵채집민이 살았음을 보여 준다. 이후 신석기 농경·목축민이 해안과 강 유역에 정착해 아드리아해 압인문 토기 전통의 유물을 남겼다. 동석기 시대에는 발칸 각지와의 교류로 금속 가공과 새로운 장례 풍습이 들어왔다.",
+    "zh": "红岩(茨尔韦纳斯蒂耶纳)、奥德穆特等洞穴遗址表明,早在农业出现之前,今黑山的崎岖山地就已有狩猎采集者居住。新石器时代的农牧民随后定居于海岸和河谷,留下亚得里亚海压印纹陶器传统的遗物。铜石并用时代,与巴尔干各地的交流带来了金属加工和新的丧葬习俗。",
+    "ja": "ツルヴェナ・スティイェナやオドムトなどの洞窟遺跡は、現在のモンテネグロの険しい土地に農耕以前から狩猟採集民が暮らしていたことを示す。その後、新石器時代の農耕・牧畜民が海岸や河川流域に定住し、アドリア海押捺文土器の伝統に属する遺物を残した。銅石器時代にはバルカン各地との交流により金属加工や新しい埋葬習俗がもたらされた。"
+   }
+  },
+  {
+   "from": -2300,
+   "to": -800,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bronze Age",
+    "ko": "청동기 시대",
+    "zh": "青铜时代",
+    "ja": "青銅器時代"
+   },
+   "summary": {
+    "en": "During the Bronze Age, communities across the Montenegrin coast and uplands built burial mounds (tumuli), a custom spread widely along the eastern Adriatic. Rich graves such as those in the Tivat field reveal ties to the Aegean and the central Balkans. Over these centuries the population from which the later Illyrian tribes emerged took shape.",
+    "ko": "청동기 시대에 몬테네그로의 해안과 고원 곳곳의 공동체는 봉분(투물루스)을 쌓았는데, 이는 아드리아해 동부에 널리 퍼진 풍습이었다. 티바트 평야의 부유한 무덤 등은 에게해 및 발칸 중부와의 연결을 보여 준다. 이 시기에 훗날 일리리아 부족들로 이어지는 주민 집단이 형성되었다.",
+    "zh": "青铜时代,黑山沿海和高地各处的群落修筑坟丘(古冢),这是亚得里亚海东岸广泛流行的习俗。蒂瓦特平原等地的丰厚墓葬显示出与爱琴海和巴尔干中部的联系。在这几百年间,后来伊利里亚各部落的先民逐渐形成。",
+    "ja": "青銅器時代、モンテネグロの海岸や高地の共同体は墳丘墓(トゥムルス)を築いた。これはアドリア海東岸に広く見られる習俗である。ティヴァト平野などの豊かな墓はエーゲ海やバルカン中部とのつながりを示す。この時代に、のちのイリュリア諸部族へとつながる住民集団が形成された。"
+   }
+  },
+  {
+   "from": -800,
+   "to": -168,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Illyrian tribes",
+    "ko": "일리리아 부족 시대",
+    "zh": "伊利里亚部落",
+    "ja": "イリュリア諸部族"
+   },
+   "summary": {
+    "en": "In the Iron Age the land was home to Illyrian peoples such as the Ardiaei, Labeates and Docleatae. Coastal settlements like Butua (Budva) and Rhizon (Risan) traded with Greek merchants, while hillforts dominated the interior. These tribes formed the population base that Rome would later conquer.",
+    "ko": "철기 시대에 이 땅에는 아르디아이족, 라베아테스족, 도클레아타이족 등 일리리아계 민족이 살았다. 부투아(부드바)와 리존(리산) 같은 해안 정착지는 그리스 상인과 교역했고, 내륙은 산성 취락이 지배했다. 이 부족들은 훗날 로마가 정복하게 될 주민 기반을 이루었다.",
+    "zh": "铁器时代,这片土地上生活着阿尔迪埃伊人、拉贝阿特人、多克莱亚泰人等伊利里亚民族。布图阿(布德瓦)和里宗(里桑)等沿海聚落与希腊商人通商,内陆则遍布山地要塞。这些部落构成了后来被罗马征服的人口基础。",
+    "ja": "鉄器時代、この地にはアルディアエイ族、ラベアテス族、ドクレアタエ族などのイリュリア系の人々が住んでいた。ブトゥア(ブドヴァ)やリゾン(リサン)などの沿岸集落はギリシア商人と交易し、内陸には丘上の砦が点在した。これらの部族がのちにローマに征服される住民の基盤となった。"
+   }
+  },
+  {
+   "from": -260,
+   "to": -168,
+   "kind": "state",
+   "qid": "Q16084290",
+   "polity": "Illyrian Kingdom",
+   "name": {
+    "en": "Illyrian Kingdom of the Ardiaei",
+    "ko": "아르디아이 일리리아 왕국",
+    "zh": "阿尔迪埃伊伊利里亚王国",
+    "ja": "アルディアエイ朝イリュリア王国"
+   },
+   "summary": {
+    "en": "The Ardiaean dynasty built a powerful Illyrian kingdom on the eastern Adriatic, with strongholds at Rhizon in the Bay of Kotor and Scodra (Shkodër). Under King Agron and Queen Teuta its fleets clashed with Rome, provoking the Illyrian Wars. The kingdom fell when King Gentius was defeated by Rome in 168 BC.",
+    "ko": "아르디아이 왕조는 코토르만의 리존과 스코드라(슈코드라)를 거점으로 아드리아해 동부에 강력한 일리리아 왕국을 세웠다. 아그론 왕과 테우타 여왕 시기에 함대가 로마와 충돌해 일리리아 전쟁이 벌어졌다. 왕국은 기원전 168년 겐티우스 왕이 로마에 패하면서 멸망했다.",
+    "zh": "阿尔迪埃伊王朝以科托尔湾的里宗和斯科德拉(斯库台)为据点,在亚得里亚海东岸建立了强大的伊利里亚王国。在阿格隆国王和托伊塔女王时期,其舰队与罗马冲突,引发伊利里亚战争。公元前168年国王根修斯败于罗马,王国灭亡。",
+    "ja": "アルディアエイ朝はコトル湾のリゾンとスコドラ(シュコドラ)を拠点に、アドリア海東岸に強力なイリュリア王国を築いた。アグロン王と女王テウタの時代、その艦隊はローマと衝突しイリュリア戦争を招いた。紀元前168年、ゲンティウス王がローマに敗れて王国は滅んだ。"
+   }
+  },
+  {
+   "from": -168,
+   "to": -27,
+   "kind": "state",
+   "qid": "Q175881",
+   "polity": "Roman Republic",
+   "name": {
+    "en": "Roman Republic",
+    "ko": "로마 공화정",
+    "zh": "罗马共和国",
+    "ja": "ローマ共和政"
+   },
+   "summary": {
+    "en": "After the defeat of Gentius, Rome gradually extended its control over the eastern Adriatic coast and its hinterland, which became part of the province of Illyricum. Coastal towns grew as Roman trading posts, while mountain tribes resisted for generations. Octavian's campaigns in the 30s BC consolidated Roman power in the region.",
+    "ko": "겐티우스의 패배 이후 로마는 아드리아해 동부 해안과 내륙으로 점차 지배를 넓혔고, 이 지역은 일리리쿰 속주의 일부가 되었다. 해안 도시들은 로마의 교역 거점으로 성장했지만 산악 부족들은 여러 세대에 걸쳐 저항했다. 기원전 30년대 옥타비아누스의 원정으로 로마의 지배가 공고해졌다.",
+    "zh": "根修斯战败后,罗马逐步将统治扩展到亚得里亚海东岸及其腹地,该地成为伊利里库姆行省的一部分。沿海城镇发展为罗马的贸易据点,而山地部落则抵抗了数代人之久。公元前30年代屋大维的远征巩固了罗马在该地区的统治。",
+    "ja": "ゲンティウスの敗北後、ローマはアドリア海東岸とその後背地へ徐々に支配を広げ、この地域はイリュリクム属州の一部となった。沿岸の町はローマの交易拠点として発展したが、山岳部族は何世代にもわたり抵抗した。紀元前30年代のオクタウィアヌスの遠征でローマの支配が固まった。"
+   }
+  },
+  {
+   "from": -27,
+   "to": 395,
+   "kind": "state",
+   "qid": null,
+   "polity": "Roman Empire",
+   "name": {
+    "en": "Roman Empire: Dalmatia and Praevalitana",
+    "ko": "로마 제국: 달마티아와 프라이발리타나",
+    "zh": "罗马帝国:达尔马提亚与普雷瓦利塔纳",
+    "ja": "ローマ帝国:ダルマティアとプラエウァリタナ"
+   },
+   "summary": {
+    "en": "Under the empire the land belonged to the province of Dalmatia, and from Diocletian's reforms around 297 largely to the new province of Praevalitana with its capital at Scodra. The town of Doclea, near modern Podgorica, became a municipium with a forum, basilica and temples, and gave its name to the later Slavic principality of Duklja. Roman roads, villas and mosaics at Risan and elsewhere testify to centuries of Romanization.",
+    "ko": "제국 시대에 이 땅은 달마티아 속주에 속했으며, 297년경 디오클레티아누스의 개혁 이후 대부분 스코드라를 수도로 하는 새 속주 프라이발리타나에 편입되었다. 오늘날 포드고리차 인근의 도클레아는 포룸·바실리카·신전을 갖춘 자치도시가 되었고, 훗날 슬라브 공국 두클랴의 이름의 기원이 되었다. 리산 등지의 로마 도로·별장·모자이크는 수 세기에 걸친 로마화를 보여 준다.",
+    "zh": "帝国时期,这片土地属于达尔马提亚行省;约297年戴克里先改革后,其大部分划入以斯科德拉为首府的新行省普雷瓦利塔纳。今波德戈里察附近的多克莱亚成为拥有广场、会堂和神庙的自治市,其名称后来演变为斯拉夫公国杜克利亚。里桑等地的罗马道路、别墅和马赛克见证了数百年的罗马化。",
+    "ja": "帝政期、この地はダルマティア属州に属し、297年頃のディオクレティアヌスの改革以後は大部分がスコドラを州都とする新設のプラエウァリタナ属州に入った。現在のポドゴリツァ近郊のドクレアはフォルム、バシリカ、神殿を備えた自治都市となり、その名はのちのスラヴ人の公国ドゥクリャに受け継がれた。リサンなどに残るローマの道路、別荘、モザイクは数世紀にわたるローマ化を物語る。"
+   }
+  },
+  {
+   "from": 395,
+   "to": 640,
+   "kind": "state",
+   "qid": "Q12544",
+   "polity": "Eastern Roman Empire",
+   "name": {
+    "en": "Late Antiquity under the Eastern Roman Empire",
+    "ko": "동로마 제국 치하의 고대 후기",
+    "zh": "东罗马帝国治下的古典晚期",
+    "ja": "東ローマ帝国下の古代末期"
+   },
+   "summary": {
+    "en": "When the empire was divided in 395, Praevalitana fell to the eastern half, while the Dalmatian coast to the northwest belonged to the west and passed under Ostrogothic rule after 493. Justinian's Gothic War restored imperial control over the whole coast in the 530s. Christianity spread through bishoprics, but from the late 6th century Avar and Slavic incursions shattered Roman provincial life in the interior.",
+    "ko": "395년 제국이 분할되자 프라이발리타나는 동로마에 속했고, 북서쪽의 달마티아 해안은 서로마에 속했다가 493년 이후 동고트 왕국의 지배를 받았다. 530년대 유스티니아누스의 고트 전쟁으로 해안 전역이 다시 제국의 통제 아래 들어갔다. 주교구를 통해 그리스도교가 확산되었으나, 6세기 말부터 아바르족과 슬라브족의 침입으로 내륙의 로마 속주 생활은 무너졌다.",
+    "zh": "395年帝国分治时,普雷瓦利塔纳归属东罗马,而西北的达尔马提亚沿岸属西罗马,493年后受东哥特王国统治。530年代查士丁尼的哥特战争使整个海岸重归帝国控制。基督教通过各主教区传播,但从6世纪末起,阿瓦尔人和斯拉夫人的入侵摧毁了内陆的罗马行省生活。",
+    "ja": "395年に帝国が分割されると、プラエウァリタナは東の帝国に属し、北西のダルマティア沿岸は西の帝国に属したのち493年以降は東ゴート王国の支配を受けた。530年代のユスティニアヌスのゴート戦争により、海岸全域が再び帝国の支配下に戻った。司教区を通じてキリスト教が広まったが、6世紀末からはアヴァール人とスラヴ人の侵入により内陸のローマ属州の生活は崩壊した。"
+   }
+  },
+  {
+   "from": 493,
+   "to": 535,
+   "kind": "state",
+   "qid": "Q583038",
+   "polity": "Ostrogothic Kingdom",
+   "name": {
+    "en": "Ostrogothic rule on the Dalmatian coast",
+    "ko": "달마티아 해안의 동고트 지배",
+    "zh": "东哥特王国统治达尔马提亚沿岸",
+    "ja": "ダルマティア沿岸の東ゴート支配"
+   },
+   "summary": {
+    "en": "After Theoderic the Great took Italy in 493, the Ostrogothic Kingdom also held Dalmatia, including the northwestern coastal fringe of present-day Montenegro. Its rule lasted until Byzantine forces reconquered Dalmatia at the start of Justinian's Gothic War in 535. The interior province of Praevalitana remained Eastern Roman throughout.",
+    "ko": "493년 테오도리크 대왕이 이탈리아를 장악한 뒤 동고트 왕국은 오늘날 몬테네그로 북서 해안 일부를 포함한 달마티아도 지배했다. 이 지배는 535년 유스티니아누스의 고트 전쟁 초기에 비잔티움군이 달마티아를 탈환할 때까지 이어졌다. 내륙의 프라이발리타나 속주는 줄곧 동로마 영토로 남았다.",
+    "zh": "493年狄奥多里克大帝夺取意大利后,东哥特王国也控制了达尔马提亚,包括今黑山西北沿岸的一部分。这一统治持续到535年查士丁尼哥特战争之初拜占庭军队收复达尔马提亚为止。内陆的普雷瓦利塔纳行省始终属于东罗马。",
+    "ja": "493年にテオドリック大王がイタリアを掌握すると、東ゴート王国は現在のモンテネグロ北西沿岸の一部を含むダルマティアも支配した。この支配は、535年のゴート戦争開始時にビザンツ軍がダルマティアを奪回するまで続いた。内陸のプラエウァリタナ属州は一貫して東ローマ領であった。"
+   }
+  },
+  {
+   "from": 610,
+   "to": 1042,
+   "kind": "period",
+   "qid": null,
+   "polity": "Byzantine Empire",
+   "name": {
+    "en": "Slavic settlement and Byzantine Dioclea",
+    "ko": "슬라브인 정착과 비잔티움령 디오클레아",
+    "zh": "斯拉夫人定居与拜占庭治下的迪奥克莱亚",
+    "ja": "スラヴ人の定住とビザンツ領ディオクレア"
+   },
+   "summary": {
+    "en": "In the 7th century Slavs settled the interior and mixed with the Romanized population, while coastal towns such as Kotor, Budva and Ulcinj remained Byzantine outposts, later part of the theme of Dalmatia. A Slavic principality known to the Byzantines as Dioclea (Duklja) took shape around the old Roman town, under the suzerainty of Constantinople. In the late 10th century it was briefly subjected to Tsar Samuel of Bulgaria.",
+    "ko": "7세기에 슬라브인이 내륙에 정착해 로마화된 주민과 섞였고, 코토르·부드바·울치니 같은 해안 도시는 비잔티움의 거점으로 남아 훗날 달마티아 테마에 속했다. 옛 로마 도시를 중심으로 비잔티움인들이 디오클레아(두클랴)라고 부른 슬라브 공국이 콘스탄티노폴리스의 종주권 아래 형성되었다. 10세기 말에는 잠시 불가리아의 차르 사무일에게 복속되기도 했다.",
+    "zh": "7世纪,斯拉夫人定居内陆并与罗马化居民融合,而科托尔、布德瓦、乌尔齐尼等沿海城市仍是拜占庭的据点,后来隶属达尔马提亚军区。以旧罗马城市为中心,形成了一个被拜占庭人称为迪奥克莱亚(杜克利亚)的斯拉夫公国,奉君士坦丁堡为宗主。10世纪末,它一度臣服于保加利亚沙皇萨穆伊尔。",
+    "ja": "7世紀、スラヴ人が内陸に定住してローマ化した住民と混ざり合う一方、コトル、ブドヴァ、ウルツィニなどの沿岸都市はビザンツの拠点として残り、のちにダルマティア・テマに属した。旧ローマ都市を中心に、ビザンツ人がディオクレア(ドゥクリャ)と呼んだスラヴ人の公国がコンスタンティノープルの宗主権下で形成された。10世紀末には一時ブルガリアのツァーリ・サムイルに服属した。"
+   }
+  },
+  {
+   "from": 997,
+   "to": 1018,
+   "kind": "state",
+   "qid": "Q203817",
+   "polity": "First Bulgarian Empire",
+   "name": {
+    "en": "Bulgarian overlordship under Tsar Samuel",
+    "ko": "사무일 치하 불가리아의 종주권",
+    "zh": "萨穆伊尔治下的保加利亚宗主权",
+    "ja": "サムイル治下のブルガリア宗主権"
+   },
+   "summary": {
+    "en": "Around 997–998 Tsar Samuel of Bulgaria campaigned along the Adriatic and subjected Duklja, taking its prince Jovan Vladimir captive before restoring him as a vassal. Bulgarian overlordship ended when Emperor Basil II destroyed Samuel's state in 1018, returning the region to Byzantine control.",
+    "ko": "997~998년경 불가리아의 차르 사무일은 아드리아해 연안으로 원정해 두클랴를 복속시키고 그 군주 요반 블라디미르를 포로로 잡았다가 봉신으로 복위시켰다. 1018년 바실리오스 2세가 사무일의 국가를 멸망시키면서 불가리아의 종주권은 끝나고 이 지역은 다시 비잔티움의 통제로 돌아갔다.",
+    "zh": "约997至998年,保加利亚沙皇萨穆伊尔远征亚得里亚海沿岸,征服杜克利亚,俘虏其君主约万·弗拉迪米尔,后又让他以附庸身份复位。1018年拜占庭皇帝巴西尔二世灭亡萨穆伊尔的国家,保加利亚的宗主权随之结束,该地区重归拜占庭控制。",
+    "ja": "997〜998年頃、ブルガリアのツァーリ・サムイルはアドリア海沿岸に遠征してドゥクリャを服属させ、その君主ヨヴァン・ヴラディミルを捕虜にしたのち臣下として復位させた。1018年にビザンツ皇帝バシレイオス2世がサムイルの国家を滅ぼすと、ブルガリアの宗主権は終わり、この地域は再びビザンツの支配下に戻った。"
+   }
+  },
+  {
+   "from": 1042,
+   "to": 1186,
+   "kind": "state",
+   "qid": "Q1252942",
+   "polity": "Kingdom of Duklja",
+   "name": {
+    "en": "Duklja",
+    "ko": "두클랴",
+    "zh": "杜克利亚",
+    "ja": "ドゥクリャ"
+   },
+   "summary": {
+    "en": "Under the Vojislavljević dynasty, Duklja broke free of Byzantium after the Battle of Bar in 1042 and became a kingdom in 1077. Kings Mihailo and Constantine Bodin extended their influence over Raška, Bosnia and Zahumlje, and Bar became an archbishopric. After Bodin's death, dynastic strife and Byzantine pressure weakened the realm until Stefan Nemanja of Serbia conquered it.",
+    "ko": "보이슬라블레비치 왕조 치하의 두클랴는 1042년 바르 전투 이후 비잔티움에서 벗어났고, 1077년 왕국이 되었다. 미하일로 왕과 콘스탄틴 보딘 왕은 라슈카·보스니아·자훔리예로 영향력을 넓혔고, 바르는 대주교좌가 되었다. 보딘 사후 왕위 다툼과 비잔티움의 압박으로 쇠약해진 왕국은 세르비아의 스테판 네마냐에게 정복되었다.",
+    "zh": "在沃伊斯拉夫列维奇王朝统治下,杜克利亚于1042年巴尔战役后摆脱拜占庭,并于1077年成为王国。米哈伊洛国王和康斯坦丁·博丁国王将势力扩展到拉什卡、波斯尼亚和扎胡姆列,巴尔成为大主教区。博丁死后,王位纷争和拜占庭的压力削弱了王国,最终被塞尔维亚的斯特凡·尼曼雅征服。",
+    "ja": "ヴォイスラヴリェヴィチ朝のドゥクリャは1042年のバールの戦いの後ビザンツから自立し、1077年に王国となった。ミハイロ王とコンスタンティン・ボディン王はラシュカ、ボスニア、ザフムリェへ勢力を広げ、バールは大司教座となった。ボディンの死後、王位争いとビザンツの圧力で弱体化し、セルビアのステファン・ネマニャに征服された。"
+   }
+  },
+  {
+   "from": 1186,
+   "to": 1360,
+   "kind": "state",
+   "qid": "Q241748",
+   "polity": "Kingdom of Serbia",
+   "name": {
+    "en": "Zeta in Nemanjić Serbia",
+    "ko": "네마니치 세르비아의 제타",
+    "zh": "尼曼雅王朝塞尔维亚治下的泽塔",
+    "ja": "ネマニッチ朝セルビアのゼタ"
+   },
+   "summary": {
+    "en": "After Stefan Nemanja's conquest, the former Duklja, now increasingly called Zeta, became a province of the Serbian state, often governed by the heir to the throne. Saint Sava founded the Eparchy of Zeta in 1219, and monasteries such as Morača were built. Coastal Kotor flourished as an autonomous trading city under Serbian kings, and from 1346 the land was part of Stefan Dušan's Serbian Empire.",
+    "ko": "스테판 네마냐의 정복 이후 옛 두클랴는 점차 제타로 불리며 세르비아 국가의 한 지방이 되었고, 흔히 왕위 계승자가 다스렸다. 성 사바가 1219년 제타 주교구를 세웠고 모라차 수도원 등이 건립되었다. 해안의 코토르는 세르비아 왕들 아래 자치 교역 도시로 번영했으며, 1346년부터 이 땅은 스테판 두샨의 세르비아 제국에 속했다.",
+    "zh": "斯特凡·尼曼雅征服后,昔日的杜克利亚逐渐被称为泽塔,成为塞尔维亚国家的一个省份,常由王储治理。圣萨瓦于1219年设立泽塔主教区,莫拉察修道院等相继兴建。沿海的科托尔在塞尔维亚国王治下作为自治商业城市而繁荣;1346年起该地属于斯特凡·杜尚的塞尔维亚帝国。",
+    "ja": "ステファン・ネマニャの征服後、旧ドゥクリャは次第にゼタと呼ばれるようになり、セルビア国家の一地方として、しばしば王位継承者が統治した。聖サワは1219年にゼタ主教区を設け、モラチャ修道院などが建てられた。沿岸のコトルはセルビア王の下で自治的な交易都市として栄え、1346年からこの地はステファン・ドゥシャンのセルビア帝国に属した。"
+   }
+  },
+  {
+   "from": 1360,
+   "to": 1421,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Zeta under the Balšić dynasty",
+    "ko": "발시치 가문의 제타",
+    "zh": "巴尔希奇家族统治的泽塔",
+    "ja": "バルシッチ家のゼタ"
+   },
+   "summary": {
+    "en": "As the Serbian Empire fragmented after Dušan's death in 1355, the Balšić family made Zeta an independent lordship centered on the lands around Lake Skadar. Balša II was killed fighting the Ottomans at Savra in 1385, and his successors struggled between Ottoman pressure and Venetian ambitions on the coast. When Balša III died in 1421, Zeta passed to the Serbian Despotate.",
+    "ko": "1355년 두샨 사후 세르비아 제국이 분열하자 발시치 가문은 스카다르 호수 주변을 중심으로 제타를 독립 영지로 만들었다. 발샤 2세는 1385년 사브라에서 오스만군과 싸우다 전사했고, 후계자들은 오스만의 압박과 해안을 노리는 베네치아 사이에서 고투했다. 1421년 발샤 3세가 죽자 제타는 세르비아 전제공국으로 넘어갔다.",
+    "zh": "1355年杜尚去世后塞尔维亚帝国分裂,巴尔希奇家族以斯库台湖周边为中心,使泽塔成为独立领地。巴尔沙二世于1385年在萨夫拉与奥斯曼军作战时阵亡,其继承者在奥斯曼的压力和威尼斯对海岸的觊觎之间苦苦周旋。1421年巴尔沙三世去世,泽塔转归塞尔维亚专制公国。",
+    "ja": "1355年のドゥシャンの死後セルビア帝国が分裂すると、バルシッチ家はスカダル湖周辺を中心にゼタを独立した領国とした。バルシャ2世は1385年にサヴラでオスマン軍と戦って戦死し、後継者たちはオスマンの圧力と沿岸を狙うヴェネツィアの間で苦闘した。1421年にバルシャ3世が死ぬと、ゼタはセルビア専制公国に移った。"
+   }
+  },
+  {
+   "from": 1382,
+   "to": 1482,
+   "kind": "state",
+   "qid": "Q2980623",
+   "polity": "Kingdom of Bosnia",
+   "name": {
+    "en": "Bosnian and Kosača rule around Herceg Novi",
+    "ko": "헤르체그노비 일대의 보스니아·코사차 지배",
+    "zh": "波斯尼亚与科萨查家族统治新海尔采格一带",
+    "ja": "ヘルツェグ・ノヴィ周辺のボスニア・コサチャ支配"
+   },
+   "summary": {
+    "en": "King Tvrtko I of Bosnia founded a fortified town at the entrance of the Bay of Kotor in 1382, giving the Bosnian kingdom an Adriatic outlet. In the 15th century the town became the seat of Stjepan Vukčić Kosača, Herceg of Saint Sava, and took the name Herceg Novi. It fell to the Ottomans in 1482.",
+    "ko": "보스니아 왕 트브르트코 1세는 1382년 코토르만 입구에 요새 도시를 세워 보스니아 왕국에 아드리아해 출구를 마련했다. 15세기에 이 도시는 '성 사바의 헤르체그' 스테판 부크치치 코사차의 거점이 되면서 헤르체그노비라는 이름을 얻었다. 1482년 이 도시는 오스만 제국에 함락되었다.",
+    "zh": "波斯尼亚国王特夫尔特科一世于1382年在科托尔湾入口建立设防城镇,为波斯尼亚王国开辟了亚得里亚海出海口。15世纪,该城成为“圣萨瓦公爵”斯捷潘·武克契奇·科萨查的驻地,因而得名新海尔采格。1482年该城落入奥斯曼帝国之手。",
+    "ja": "ボスニア王トヴルトコ1世は1382年、コトル湾の入口に城塞都市を築き、ボスニア王国にアドリア海への出口をもたらした。15世紀、この町は「聖サワのヘルツェグ」ステパン・ヴクチッチ・コサチャの拠点となり、ヘルツェグ・ノヴィの名を得た。1482年、町はオスマン帝国に陥落した。"
+   }
+  },
+  {
+   "from": 1420,
+   "to": 1797,
+   "kind": "state",
+   "qid": "Q4948",
+   "polity": "Republic of Venice",
+   "name": {
+    "en": "Venetian Albania",
+    "ko": "베네치아령 알바니아",
+    "zh": "威尼斯阿尔巴尼亚",
+    "ja": "ヴェネツィア領アルバニア"
+   },
+   "summary": {
+    "en": "From 1420, when Kotor placed itself under Venice, the Republic held much of the Montenegrin coast as part of its 'Venetian Albania'. Bar and Ulcinj were lost to the Ottomans in 1571, but Kotor, Budva and Perast remained Venetian, and Herceg Novi was taken in 1687. Maritime trade, seafaring and baroque architecture flourished in the Bay of Kotor until the fall of the Republic in 1797.",
+    "ko": "1420년 코토르가 베네치아의 보호 아래 들어간 뒤, 베네치아 공화국은 몬테네그로 해안 상당 부분을 '베네치아령 알바니아'로 지배했다. 바르와 울치니는 1571년 오스만에 빼앗겼지만 코토르·부드바·페라스트는 베네치아령으로 남았고, 1687년에는 헤르체그노비도 차지했다. 1797년 공화국이 멸망할 때까지 코토르만에서는 해상 교역과 항해, 바로크 건축이 번성했다.",
+    "zh": "1420年科托尔归附威尼斯后,威尼斯共和国将黑山沿岸大部分地区作为“威尼斯阿尔巴尼亚”加以统治。巴尔和乌尔齐尼于1571年被奥斯曼夺走,但科托尔、布德瓦和佩拉斯特仍属威尼斯,1687年又夺取了新海尔采格。直到1797年共和国灭亡,科托尔湾的海上贸易、航海业和巴洛克建筑都十分繁荣。",
+    "ja": "1420年にコトルがヴェネツィアの庇護下に入って以来、ヴェネツィア共和国はモンテネグロ沿岸の多くを「ヴェネツィア領アルバニア」として支配した。バールとウルツィニは1571年にオスマンに奪われたが、コトル、ブドヴァ、ペラストはヴェネツィア領として残り、1687年にはヘルツェグ・ノヴィも獲得した。1797年の共和国滅亡まで、コトル湾では海上交易や航海業、バロック建築が栄えた。"
+   }
+  },
+  {
+   "from": 1421,
+   "to": 1499,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Zeta of the Crnojević dynasty",
+    "ko": "츠르노예비치 가문의 제타",
+    "zh": "茨尔诺耶维奇家族的泽塔",
+    "ja": "ツルノイェヴィチ家のゼタ"
+   },
+   "summary": {
+    "en": "After a period under the Serbian Despotate, local lords of the Crnojević family took over Zeta from the mid-15th century. Squeezed between the Ottomans and Venice, Ivan Crnojević withdrew to the mountains and founded Cetinje in 1482, and his son Đurađ ran the first South Slavic printing press. By 1496–1499 the Ottomans had absorbed the land, and the name Crna Gora (Montenegro) came into use for this mountainous core.",
+    "ko": "세르비아 전제공국의 지배를 거쳐 15세기 중엽부터 츠르노예비치 가문의 토착 영주들이 제타를 장악했다. 오스만과 베네치아 사이에 끼인 이반 츠르노예비치는 산지로 물러나 1482년 체티녜를 세웠고, 아들 주라지는 남슬라브 최초의 인쇄소를 운영했다. 1496~1499년 무렵 오스만이 이 땅을 병합했으며, 이 산악 중심부를 가리키는 츠르나고라(몬테네그로)라는 이름이 쓰이게 되었다.",
+    "zh": "经历塞尔维亚专制公国的统治后,茨尔诺耶维奇家族的本地领主从15世纪中叶起掌控泽塔。夹在奥斯曼和威尼斯之间的伊万·茨尔诺耶维奇退入山区,于1482年建立采蒂涅,其子久拉吉经营南部斯拉夫人的第一家印刷所。至1496至1499年,奥斯曼吞并了这片土地,而“茨尔纳戈拉”(黑山)之名开始用于指称这一山地核心区。",
+    "ja": "セルビア専制公国の支配を経て、15世紀半ばからツルノイェヴィチ家の在地領主がゼタを掌握した。オスマンとヴェネツィアに挟まれたイヴァン・ツルノイェヴィチは山地に退いて1482年にツェティニェを築き、息子ジュラジは南スラヴ初の印刷所を営んだ。1496〜1499年頃にオスマンがこの地を併合し、この山岳中心部を指すツルナ・ゴーラ(モンテネグロ)の名が用いられるようになった。"
+   }
+  },
+  {
+   "from": 1496,
+   "to": 1912,
+   "kind": "state",
+   "qid": "Q12560",
+   "polity": "Ottoman Empire",
+   "name": {
+    "en": "Ottoman rule",
+    "ko": "오스만 제국 지배",
+    "zh": "奥斯曼帝国统治",
+    "ja": "オスマン帝国の支配"
+   },
+   "summary": {
+    "en": "The Ottomans annexed Zeta in the 1490s and governed it within the Sanjak of Scutari, apart from a brief Sanjak of Montenegro (1514–1528). Towns such as Podgorica, Nikšić, Bar, Ulcinj and Pljevlja became Ottoman centers with mosques and Muslim communities, while the highland clans around Cetinje kept wide self-government. Ottoman rule receded step by step, with Montenegro's gains of 1878 and the Balkan Wars of 1912–1913 ending it.",
+    "ko": "오스만 제국은 1490년대에 제타를 병합하고, 잠시 존재한 몬테네그로 산자크(1514~1528)를 제외하면 스쿠타리 산자크에 편입해 다스렸다. 포드고리차·니크시치·바르·울치니·플레블랴 등은 모스크와 무슬림 공동체를 갖춘 오스만의 중심지가 되었고, 체티녜 주변 고지대 씨족들은 폭넓은 자치를 유지했다. 오스만 지배는 단계적으로 후퇴했으며 1878년의 영토 획득과 1912~1913년 발칸 전쟁으로 끝났다.",
+    "zh": "奥斯曼帝国于1490年代吞并泽塔,除短暂存在的黑山桑贾克(1514—1528年)外,将其纳入斯库台桑贾克治理。波德戈里察、尼克希奇、巴尔、乌尔齐尼、普列夫利亚等地成为拥有清真寺和穆斯林社群的奥斯曼中心,而采蒂涅周边的高地氏族则保持着广泛自治。奥斯曼统治逐步退缩,1878年黑山扩张领土以及1912至1913年的巴尔干战争最终将其终结。",
+    "ja": "オスマン帝国は1490年代にゼタを併合し、短期間のモンテネグロ県(1514〜1528年)を除きシュコドラ県に組み込んで統治した。ポドゴリツァ、ニクシッチ、バール、ウルツィニ、プリェヴリャなどはモスクとムスリム共同体をもつオスマンの中心地となる一方、ツェティニェ周辺の高地氏族は広い自治を保った。オスマンの支配は段階的に後退し、1878年の領土獲得と1912〜1913年のバルカン戦争で終わった。"
+   }
+  },
+  {
+   "from": 1697,
+   "to": 1852,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Prince-Bishopric of Montenegro",
+    "ko": "몬테네그로 주교공국",
+    "zh": "黑山主教公国",
+    "ja": "モンテネグロ主教公国"
+   },
+   "summary": {
+    "en": "From 1697 the Orthodox metropolitans (vladikas) of Cetinje from the Petrović-Njegoš family led the Montenegrin clans as both spiritual and political rulers, succession passing from uncle to nephew. Allied with Russia, they waged constant war against Ottoman pashas, defeating Kara Mahmud Bushati in 1796. Petar I and Petar II Njegoš introduced law codes, a senate, schools and printing, laying the foundations of a modern state.",
+    "ko": "1697년부터 페트로비치-녜고시 가문 출신의 체티녜 정교회 대주교(블라디카)들이 종교·정치 지도자로서 몬테네그로 씨족들을 이끌었으며, 지위는 삼촌에서 조카로 계승되었다. 이들은 러시아와 손잡고 오스만 파샤들과 끊임없이 싸웠고, 1796년에는 카라 마흐무드 부샤티를 격파했다. 페타르 1세와 페타르 2세 녜고시는 법전·원로원·학교·인쇄소를 도입해 근대 국가의 토대를 놓았다.",
+    "zh": "自1697年起,出身彼得罗维奇-涅戈什家族的采蒂涅东正教都主教(弗拉迪卡)作为宗教兼政治领袖统领黑山各氏族,职位由叔父传给侄子。他们联合俄国,不断与奥斯曼帕夏作战,并于1796年击败卡拉·马哈茂德·布沙蒂。彼得一世和彼得二世·涅戈什引入法典、元老院、学校和印刷业,奠定了近代国家的基础。",
+    "ja": "1697年以降、ペトロヴィチ=ニェゴシュ家出身のツェティニェ府主教(ヴラディカ)が宗教的・政治的指導者としてモンテネグロの諸氏族を率い、その地位は叔父から甥へと継承された。彼らはロシアと結んでオスマンのパシャたちと絶えず戦い、1796年にはカラ・マフムト・ブシャティを破った。ペタル1世とペタル2世ニェゴシュは法典、元老院、学校、印刷を導入し、近代国家の基礎を築いた。"
+   }
+  },
+  {
+   "from": 1797,
+   "to": 1918,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Habsburg Bay of Kotor",
+    "ko": "합스부르크령 코토르만",
+    "zh": "哈布斯堡治下的科托尔湾",
+    "ja": "ハプスブルク領コトル湾"
+   },
+   "summary": {
+    "en": "After the fall of Venice in 1797, the Bay of Kotor and Budva passed to Austria. Following a French interlude (1807–1813) and a brief union with Montenegro in 1813–1814, the Congress of Vienna returned the area to Austria, which ruled it as part of the Kingdom of Dalmatia until 1918. Austria-Hungary fortified the bay as a major naval base, and its conscription policies triggered the Krivošije uprisings.",
+    "ko": "1797년 베네치아가 멸망하자 코토르만과 부드바는 오스트리아로 넘어갔다. 프랑스 지배기(1807~1813)와 1813~1814년 몬테네그로와의 짧은 통합을 거친 뒤, 빈 회의는 이 지역을 오스트리아에 돌려주었고 오스트리아는 1918년까지 이곳을 달마티아 왕국의 일부로 다스렸다. 오스트리아-헝가리는 만을 주요 해군 기지로 요새화했으며, 징병 정책은 크리보시예 봉기를 불러왔다.",
+    "zh": "1797年威尼斯灭亡后,科托尔湾和布德瓦转归奥地利。经历法国统治时期(1807—1813年)以及1813至1814年与黑山的短暂合并后,维也纳会议将该地区归还奥地利,奥地利将其作为达尔马提亚王国的一部分统治至1918年。奥匈帝国把海湾建成重要的海军基地,其征兵政策引发了克里沃希耶起义。",
+    "ja": "1797年にヴェネツィアが滅亡すると、コトル湾とブドヴァはオーストリアに移った。フランス支配期(1807〜1813年)と1813〜1814年のモンテネグロとの短い統合を経て、ウィーン会議はこの地域をオーストリアに戻し、オーストリアは1918年までダルマティア王国の一部として統治した。オーストリア=ハンガリーは湾を主要な海軍基地として要塞化し、その徴兵政策はクリヴォシイェ蜂起を招いた。"
+   }
+  },
+  {
+   "from": 1807,
+   "to": 1813,
+   "kind": "colonial",
+   "qid": "Q71084",
+   "polity": "First French Empire",
+   "name": {
+    "en": "French rule in the Bay of Kotor",
+    "ko": "코토르만의 프랑스 지배",
+    "zh": "法国统治科托尔湾",
+    "ja": "コトル湾のフランス支配"
+   },
+   "summary": {
+    "en": "After the Treaty of Tilsit in 1807, Napoleon's forces took over the Bay of Kotor, which was later attached to the Illyrian Provinces. French rule introduced administrative reforms but faced local resistance. It ended in 1813–1814 when Montenegrin and Boka insurgents, aided by the British navy, besieged and took Kotor.",
+    "ko": "1807년 틸지트 조약 이후 나폴레옹군이 코토르만을 장악했고, 이곳은 뒤에 일리리아 주에 편입되었다. 프랑스 지배는 행정 개혁을 가져왔으나 현지의 저항에 부딪혔다. 이 지배는 1813~1814년 몬테네그로와 보카의 봉기군이 영국 해군의 지원을 받아 코토르를 포위·점령하면서 끝났다.",
+    "zh": "1807年蒂尔西特和约后,拿破仑军队接管科托尔湾,该地后来并入伊利里亚行省。法国统治带来了行政改革,但遭到当地人的抵抗。1813至1814年,黑山和博卡的起义者在英国海军支援下围攻并攻占科托尔,法国统治随之结束。",
+    "ja": "1807年のティルジット条約の後、ナポレオン軍がコトル湾を掌握し、この地はのちにイリュリア州に編入された。フランスの支配は行政改革をもたらしたが、現地の抵抗に直面した。1813〜1814年、モンテネグロとボカの蜂起軍がイギリス海軍の支援を受けてコトルを包囲・占領し、支配は終わった。"
+   }
+  },
+  {
+   "from": 1852,
+   "to": 1910,
+   "kind": "state",
+   "qid": "Q779011",
+   "polity": "Montenegro",
+   "name": {
+    "en": "Principality of Montenegro",
+    "ko": "몬테네그로 공국",
+    "zh": "黑山公国",
+    "ja": "モンテネグロ公国"
+   },
+   "summary": {
+    "en": "In 1852 Danilo I separated secular from church power and made Montenegro a hereditary principality. Victories such as Grahovac (1858) and the wars of 1876–1878 doubled its territory, and the Congress of Berlin recognized its independence in 1878, granting it the port of Bar. Under Prince Nikola I, Cetinje became a small European capital with legations, schools, a law code and, from 1905, a constitution.",
+    "ko": "1852년 다닐로 1세는 세속 권력을 교회 권력에서 분리하고 몬테네그로를 세습 공국으로 만들었다. 그라호바츠 전투(1858)와 1876~1878년 전쟁의 승리로 영토가 두 배로 늘었고, 1878년 베를린 회의는 독립을 승인하며 바르 항을 넘겨주었다. 니콜라 1세 치하에서 체티녜는 공사관·학교·법전을 갖추고 1905년부터 헌법까지 둔 작은 유럽 수도가 되었다.",
+    "zh": "1852年达尼洛一世将世俗权力与教会权力分离,使黑山成为世袭公国。格拉霍瓦茨战役(1858年)及1876至1878年战争的胜利使其领土扩大一倍,1878年柏林会议承认其独立并将巴尔港划归黑山。在尼古拉一世治下,采蒂涅成为一座拥有各国公使馆、学校和法典,并自1905年起实行宪法的小型欧洲首都。",
+    "ja": "1852年、ダニロ1世は世俗権力を教会から切り離し、モンテネグロを世襲の公国とした。グラホヴァツの戦い(1858年)や1876〜1878年の戦争の勝利で領土は倍増し、1878年のベルリン会議は独立を承認してバール港を与えた。ニコラ1世の下、ツェティニェは公使館や学校、法典を備え、1905年からは憲法も持つ小さなヨーロッパの首都となった。"
+   }
+  },
+  {
+   "from": 1910,
+   "to": 1918,
+   "kind": "state",
+   "qid": "Q386496",
+   "polity": "Montenegro",
+   "name": {
+    "en": "Kingdom of Montenegro",
+    "ko": "몬테네그로 왕국",
+    "zh": "黑山王国",
+    "ja": "モンテネグロ王国"
+   },
+   "summary": {
+    "en": "Nikola I raised Montenegro to a kingdom in 1910. In the Balkan Wars it won the northern towns of the former Sanjak and Metohija areas, but it was forced to abandon Shkodër in 1913. Overrun by Austria-Hungary in January 1916 after fighting alongside Serbia in World War I, the kingdom was merged into the new Yugoslav state in 1918.",
+    "ko": "니콜라 1세는 1910년 몬테네그로를 왕국으로 격상시켰다. 발칸 전쟁에서 옛 산자크와 메토히야 일대의 북부 도시들을 얻었으나 1913년 슈코드라는 포기해야 했다. 제1차 세계대전에서 세르비아와 함께 싸우다 1916년 1월 오스트리아-헝가리에 점령되었고, 1918년 새 유고슬라비아 국가에 병합되었다.",
+    "zh": "尼古拉一世于1910年将黑山升格为王国。在巴尔干战争中,黑山获得了原桑贾克和梅托希亚地区的北部城镇,但1913年被迫放弃斯库台。第一次世界大战中黑山与塞尔维亚并肩作战,1916年1月被奥匈帝国占领,1918年并入新的南斯拉夫国家。",
+    "ja": "ニコラ1世は1910年にモンテネグロを王国に昇格させた。バルカン戦争では旧サンジャクやメトヒヤ地方の北部の町々を獲得したが、1913年にシュコドラは放棄を強いられた。第一次世界大戦でセルビアとともに戦ったのち1916年1月にオーストリア=ハンガリーに占領され、1918年に新たなユーゴスラビア国家に併合された。"
+   }
+  },
+  {
+   "from": 1918,
+   "to": 1941,
+   "kind": "state",
+   "qid": null,
+   "polity": "Yugoslavia",
+   "name": {
+    "en": "Kingdom of Yugoslavia",
+    "ko": "유고슬라비아 왕국",
+    "zh": "南斯拉夫王国",
+    "ja": "ユーゴスラビア王国"
+   },
+   "summary": {
+    "en": "After the Podgorica Assembly of 1918, Montenegro became part of the Kingdom of Serbs, Croats and Slovenes, renamed Yugoslavia in 1929. Supporters of the deposed Petrović dynasty (the 'Greens') resisted union in the Christmas Uprising and a long guerrilla struggle, while unionists ('Whites') dominated politics. From 1929 the area formed the core of the Zeta Banovina with its seat at Cetinje.",
+    "ko": "1918년 포드고리차 의회 이후 몬테네그로는 세르브·크로아트·슬로벤 왕국의 일부가 되었고, 이 나라는 1929년 유고슬라비아로 개칭되었다. 폐위된 페트로비치 왕조 지지자('녹색파')는 크리스마스 봉기와 오랜 게릴라전으로 통합에 저항했고, 통합파('백색파')가 정치를 주도했다. 1929년부터 이 지역은 체티녜를 중심지로 하는 제타 바노비나의 핵심을 이루었다.",
+    "zh": "1918年波德戈里察议会之后,黑山成为塞尔维亚人、克罗地亚人和斯洛文尼亚人王国的一部分,该国于1929年更名为南斯拉夫。被废黜的彼得罗维奇王朝的支持者(“绿派”)以圣诞起义和长期游击战抵制合并,而主张统一的“白派”主导政局。1929年起该地区构成以采蒂涅为治所的泽塔省的核心。",
+    "ja": "1918年のポドゴリツァ議会の後、モンテネグロはセルブ・クロアート・スロヴェーン王国の一部となり、同国は1929年にユーゴスラビアと改称した。廃位されたペトロヴィチ家の支持者(「緑派」)はクリスマス蜂起や長いゲリラ闘争で統合に抵抗し、統合派(「白派」)が政治を主導した。1929年からこの地域はツェティニェを州都とするゼタ州の中核をなした。"
+   }
+  },
+  {
+   "from": 1941,
+   "to": 1944,
+   "kind": "state",
+   "qid": "Q616992",
+   "polity": "Kingdom of Italy",
+   "name": {
+    "en": "Axis occupation: Governorate of Montenegro",
+    "ko": "추축국 점령: 몬테네그로 총독령",
+    "zh": "轴心国占领:黑山总督辖区",
+    "ja": "枢軸国の占領:モンテネグロ総督領"
+   },
+   "summary": {
+    "en": "After the Axis invasion of Yugoslavia in April 1941, Italy occupied Montenegro and planned a puppet kingdom, which provoked the 13 July Uprising. The territory was then run as an Italian governorate, while the Bay of Kotor was annexed to Italy and eastern districts went to Italian-ruled Albania. After Italy's capitulation in 1943 Germany took over, and the land saw brutal fighting between Partisans, Chetniks and occupiers until liberation in late 1944.",
+    "ko": "1941년 4월 추축국이 유고슬라비아를 침공한 뒤 이탈리아는 몬테네그로를 점령하고 괴뢰 왕국을 세우려 했으며, 이것이 7월 13일 봉기를 불렀다. 이후 이 지역은 이탈리아 총독령으로 운영되었고, 코토르만은 이탈리아에 병합되었으며 동부 일부는 이탈리아 지배하의 알바니아에 넘어갔다. 1943년 이탈리아가 항복하자 독일이 점령을 이어받았고, 1944년 말 해방될 때까지 파르티잔·체트니크·점령군 사이에 참혹한 전투가 벌어졌다.",
+    "zh": "1941年4月轴心国入侵南斯拉夫后,意大利占领黑山并图谋建立傀儡王国,由此引发“7月13日起义”。此后该地由意大利总督辖区管理,科托尔湾被并入意大利,东部部分地区划归意大利控制下的阿尔巴尼亚。1943年意大利投降后德国接管,直到1944年底解放,游击队、切特尼克和占领军之间爆发了惨烈战斗。",
+    "ja": "1941年4月に枢軸国がユーゴスラビアに侵攻すると、イタリアはモンテネグロを占領して傀儡王国の樹立を図り、これが7月13日蜂起を招いた。その後この地はイタリアの総督領として統治され、コトル湾はイタリアに併合され、東部の一部はイタリア支配下のアルバニアに編入された。1943年にイタリアが降伏するとドイツが占領を引き継ぎ、1944年末の解放までパルチザン、チェトニク、占領軍の間で凄惨な戦闘が続いた。"
+   }
+  },
+  {
+   "from": 1944,
+   "to": 1992,
+   "kind": "state",
+   "qid": "Q838291",
+   "polity": "Socialist Federal Republic of Yugoslavia",
+   "name": {
+    "en": "Socialist Republic of Montenegro",
+    "ko": "몬테네그로 사회주의 공화국",
+    "zh": "黑山社会主义共和国",
+    "ja": "モンテネグロ社会主義共和国"
+   },
+   "summary": {
+    "en": "Liberated by the Partisans in late 1944, Montenegro became one of the six republics of socialist Yugoslavia, now including the Bay of Kotor, with Titograd (Podgorica) as its capital. The republic industrialized with the Nikšić steelworks, the Port of Bar, aluminium production and the Belgrade–Bar railway, and the Adriatic coast became a tourist destination. The 1979 earthquake and the crisis of the late 1980s marked its final decades.",
+    "ko": "1944년 말 파르티잔에 의해 해방된 몬테네그로는 코토르만을 포함한 사회주의 유고슬라비아의 6개 공화국 중 하나가 되었고, 티토그라드(포드고리차)가 수도가 되었다. 공화국은 니크시치 제철소, 바르 항, 알루미늄 생산, 베오그라드-바르 철도로 산업화되었고 아드리아해 연안은 관광지로 떠올랐다. 1979년 대지진과 1980년대 말의 위기가 그 마지막 수십 년을 특징지었다.",
+    "zh": "1944年底黑山被游击队解放,成为社会主义南斯拉夫六个共和国之一,版图包括科托尔湾,首都为铁托格勒(波德戈里察)。共和国依靠尼克希奇钢铁厂、巴尔港、铝业以及贝尔格莱德—巴尔铁路实现工业化,亚得里亚海沿岸成为旅游胜地。1979年大地震和1980年代末的危机标志着它最后的几十年。",
+    "ja": "1944年末にパルチザンによって解放されたモンテネグロは、コトル湾を含む社会主義ユーゴスラビアの6共和国の一つとなり、チトーグラード(ポドゴリツァ)が首都となった。共和国はニクシッチ製鉄所、バール港、アルミニウム生産、ベオグラード—バール鉄道によって工業化し、アドリア海沿岸は観光地となった。1979年の大地震と1980年代末の危機がその最後の数十年を特徴づけた。"
+   }
+  },
+  {
+   "from": 1992,
+   "to": 2006,
+   "kind": "state",
+   "qid": "Q37024",
+   "polity": "Serbia-Montenegro",
+   "name": {
+    "en": "Federal Republic of Yugoslavia / Serbia and Montenegro",
+    "ko": "유고슬라비아 연방공화국 / 세르비아 몬테네그로",
+    "zh": "南斯拉夫联盟共和国/塞尔维亚和黑山",
+    "ja": "ユーゴスラビア連邦共和国/セルビア・モンテネグロ"
+   },
+   "summary": {
+    "en": "After voters chose in 1992 to stay with Serbia, Montenegro formed the Federal Republic of Yugoslavia, which faced UN sanctions during the wars of the 1990s. From 1997 the Montenegrin leadership distanced itself from Slobodan Milošević, adopting the Deutsche Mark and later the euro. The federation was loosened into the State Union of Serbia and Montenegro in 2003, which ended with Montenegro's independence referendum in 2006.",
+    "ko": "1992년 유권자들이 세르비아와의 잔류를 택하자 몬테네그로는 유고슬라비아 연방공화국을 구성했고, 이 나라는 1990년대 전쟁 중 유엔 제재를 받았다. 1997년부터 몬테네그로 지도부는 슬로보단 밀로셰비치와 거리를 두며 독일 마르크를, 이어 유로를 도입했다. 연방은 2003년 느슨한 세르비아 몬테네그로 국가연합으로 바뀌었고, 2006년 몬테네그로의 독립 국민투표로 막을 내렸다.",
+    "zh": "1992年选民决定与塞尔维亚保持联合后,黑山与之组成南斯拉夫联盟共和国,该国在1990年代战争期间遭受联合国制裁。1997年起黑山领导层与斯洛博丹·米洛舍维奇拉开距离,先后采用德国马克和欧元。2003年联邦改组为较松散的塞尔维亚和黑山国家联盟,并随2006年黑山独立公投而解体。",
+    "ja": "1992年に有権者がセルビアとの残留を選ぶと、モンテネグロはユーゴスラビア連邦共和国を構成し、同国は1990年代の戦争中に国連制裁を受けた。1997年以降、モンテネグロ指導部はスロボダン・ミロシェヴィッチと距離を置き、ドイツ・マルク、次いでユーロを導入した。連邦は2003年に緩やかなセルビア・モンテネグロ国家連合へ改組され、2006年のモンテネグロ独立国民投票で終わった。"
+   }
+  },
+  {
+   "from": 2006,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q236",
+   "polity": "Montenegro",
+   "name": {
+    "en": "Independent Montenegro",
+    "ko": "독립 몬테네그로",
+    "zh": "独立的黑山",
+    "ja": "独立モンテネグロ"
+   },
+   "summary": {
+    "en": "Montenegro regained independence in June 2006 and adopted a new constitution in 2007. It joined NATO in 2017 and has been negotiating EU membership since 2012, while tourism along the Adriatic drives its economy. Domestic politics have been shaped by debates over national identity and the church, and by the end of three decades of DPS rule in 2020.",
+    "ko": "몬테네그로는 2006년 6월 독립을 회복하고 2007년 새 헌법을 채택했다. 2017년 나토에 가입했고 2012년부터 유럽연합 가입 협상을 벌이고 있으며, 아드리아해 연안 관광이 경제를 이끈다. 국내 정치는 민족 정체성과 교회를 둘러싼 논쟁, 그리고 2020년 30년에 걸친 사회민주당(DPS) 집권의 종식으로 특징지어진다.",
+    "zh": "黑山于2006年6月恢复独立,2007年通过新宪法。它于2017年加入北约,自2012年起进行加入欧盟的谈判,亚得里亚海沿岸的旅游业是经济支柱。国内政治深受民族认同和教会问题争论的影响,2020年社会主义者民主党(DPS)长达三十年的执政宣告结束。",
+    "ja": "モンテネグロは2006年6月に独立を回復し、2007年に新憲法を採択した。2017年にNATOに加盟し、2012年からEU加盟交渉を進めており、アドリア海沿岸の観光が経済を支えている。国内政治は民族的アイデンティティと教会をめぐる論争、そして2020年の社会主義者民主党(DPS)による30年に及ぶ政権の終焉に特徴づけられる。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2700,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Princely burials of the Tivat field",
+    "ko": "티바트 평야의 수장 무덤",
+    "zh": "蒂瓦特平原的首领墓葬",
+    "ja": "ティヴァト平野の首長墓"
+   },
+   "description": {
+    "en": "In the 3rd millennium BC, burial mounds such as Mala Gruda and Velika Gruda were raised in the Tivat field on the Bay of Kotor. Mala Gruda yielded a gold dagger and other precious goods, pointing to a wealthy elite with long-distance contacts. These tumuli are among the earliest signs of social hierarchy on the eastern Adriatic.",
+    "ko": "기원전 3천년기에 코토르만의 티바트 평야에 말라 그루다, 벨리카 그루다 같은 봉분이 조성되었다. 말라 그루다에서는 금 단검 등 귀중품이 출토되어 원거리 교류를 하던 부유한 엘리트의 존재를 보여 준다. 이 무덤들은 아드리아해 동부에서 사회적 위계가 나타난 가장 이른 흔적 가운데 하나이다.",
+    "zh": "公元前三千纪,科托尔湾的蒂瓦特平原上修筑了马拉格鲁达、韦利卡格鲁达等坟丘。马拉格鲁达出土了金匕首等珍贵物品,表明当时存在与远方交往的富裕上层。这些古冢是亚得里亚海东岸社会等级出现的最早迹象之一。",
+    "ja": "紀元前3千年紀、コトル湾のティヴァト平野にマラ・グルダやヴェリカ・グルダなどの墳丘墓が築かれた。マラ・グルダからは金の短剣などの貴重品が出土し、遠隔地と交流した富裕なエリートの存在を示している。これらの墳丘はアドリア海東岸で社会階層が現れた最も早い痕跡の一つである。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Iron Age Illyrian tribes take shape",
+    "ko": "철기 시대 일리리아 부족의 형성",
+    "zh": "铁器时代伊利里亚部落形成",
+    "ja": "鉄器時代のイリュリア諸部族の形成"
+   },
+   "description": {
+    "en": "By the early Iron Age, c. 800 BC, the peoples later known to Greek and Roman writers as Illyrians inhabited the land, living in hillforts and herding in the mountains. Tribes such as the Docleatae around the Zeta valley and the Labeates around Lake Skadar became the main groups of the region. Their tumuli and fortified settlements dot the Montenegrin landscape.",
+    "ko": "기원전 800년경 초기 철기 시대에 훗날 그리스·로마 저술가들이 일리리아인이라 부른 사람들이 이 땅에 살며 산성 취락을 이루고 산지에서 목축을 했다. 제타 계곡 주변의 도클레아타이족, 스카다르 호수 주변의 라베아테스족 등이 이 지역의 주요 집단이 되었다. 이들의 봉분과 요새 취락은 몬테네그로 곳곳에 남아 있다.",
+    "zh": "约公元前800年铁器时代早期,后来被希腊罗马作家称为伊利里亚人的族群生活在这片土地上,居住在山地要塞中并在山区放牧。泽塔河谷一带的多克莱亚泰人、斯库台湖周边的拉贝阿特人等成为该地区的主要群体。他们的坟丘和设防聚落遍布黑山各地。",
+    "ja": "紀元前800年頃の初期鉄器時代、のちにギリシア・ローマの著述家がイリュリア人と呼んだ人々がこの地に住み、丘上の砦に暮らし山地で牧畜を営んだ。ゼタ渓谷周辺のドクレアタエ族やスカダル湖周辺のラベアテス族などがこの地域の主要な集団となった。彼らの墳丘や城塞集落はモンテネグロ各地に残る。"
+   }
+  },
+  {
+   "year": -400,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Greek trade at Budva and Risan",
+    "ko": "부드바와 리산의 그리스 교역",
+    "zh": "布德瓦与里桑的希腊贸易",
+    "ja": "ブドヴァとリサンのギリシア交易"
+   },
+   "description": {
+    "en": "From around the 5th–4th centuries BC, coastal settlements such as Butua (Budva) and Rhizon (Risan) were drawn into Greek Adriatic trade, as rich finds of Greek and Hellenistic goods in the Budva necropolis show. According to legend, Budva was founded by the Theban hero Cadmus. These towns became gateways between the Mediterranean and the Illyrian interior.",
+    "ko": "기원전 5~4세기경부터 부투아(부드바)와 리존(리산) 같은 해안 정착지는 아드리아해의 그리스 교역망에 편입되었는데, 부드바 고분군에서 출토된 풍부한 그리스·헬레니즘 유물이 이를 보여 준다. 전설에 따르면 부드바는 테베의 영웅 카드모스가 세웠다고 한다. 이 도시들은 지중해와 일리리아 내륙을 잇는 관문이 되었다.",
+    "zh": "约从公元前5至4世纪起,布图阿(布德瓦)和里宗(里桑)等沿海聚落被纳入亚得里亚海的希腊贸易网络,布德瓦墓地出土的大量希腊及希腊化时期器物即为明证。传说布德瓦由底比斯英雄卡德摩斯所建。这些城镇成为连接地中海与伊利里亚内陆的门户。",
+    "ja": "紀元前5〜4世紀頃から、ブトゥア(ブドヴァ)やリゾン(リサン)などの沿岸集落はアドリア海のギリシア交易網に組み込まれた。ブドヴァの墓地から出土した豊富なギリシア・ヘレニズム期の遺物がそれを示している。伝説によればブドヴァはテーバイの英雄カドモスが創建したという。これらの町は地中海とイリュリア内陸を結ぶ玄関口となった。"
+   }
+  },
+  {
+   "year": -229,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "First Illyrian War: Queen Teuta and Rome",
+    "ko": "제1차 일리리아 전쟁: 테우타 여왕과 로마",
+    "zh": "第一次伊利里亚战争:托伊塔女王与罗马",
+    "ja": "第一次イリュリア戦争:女王テウタとローマ"
+   },
+   "description": {
+    "en": "Illyrian piracy against Italian merchants and Queen Teuta's treatment of Roman envoys led Rome to send its first military expedition across the Adriatic in 229 BC. Defeated, Teuta withdrew to her stronghold of Rhizon in the Bay of Kotor and accepted peace in 228 BC, paying tribute and limiting her fleet. The war marked Rome's first foothold on the eastern Adriatic.",
+    "ko": "이탈리아 상인을 노린 일리리아인의 해적질과 로마 사절에 대한 테우타 여왕의 처우를 계기로, 로마는 기원전 229년 처음으로 아드리아해 건너편에 군대를 보냈다. 패배한 테우타는 코토르만의 거점 리존으로 물러났고 기원전 228년 공납과 함대 제한을 받아들여 강화했다. 이 전쟁으로 로마는 아드리아해 동부에 처음 발판을 마련했다.",
+    "zh": "伊利里亚人劫掠意大利商人以及托伊塔女王对罗马使节的处置,促使罗马于公元前229年首次派军横渡亚得里亚海。战败的托伊塔退守科托尔湾的据点里宗,并于公元前228年接受和约,缴纳贡赋并限制舰队。此战使罗马首次在亚得里亚海东岸立足。",
+    "ja": "イタリア商人を狙うイリュリア人の海賊行為と、女王テウタによるローマ使節の扱いをきっかけに、ローマは紀元前229年に初めてアドリア海の対岸へ軍を送った。敗れたテウタはコトル湾の拠点リゾンに退き、紀元前228年に貢納と艦隊の制限を受け入れて講和した。この戦争でローマはアドリア海東岸に初めて足場を得た。"
+   }
+  },
+  {
+   "year": -219,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Second Illyrian War",
+    "ko": "제2차 일리리아 전쟁",
+    "zh": "第二次伊利里亚战争",
+    "ja": "第二次イリュリア戦争"
+   },
+   "description": {
+    "en": "When Demetrius of Pharos, who had become the leading power in Illyria, broke the terms imposed by Rome, the Romans attacked his strongholds in 219 BC. Demetrius fled to Macedon, and Rome reinforced its protectorate on the Adriatic coast. The conflict drew the Illyrian lands into the rivalry between Rome and Macedon.",
+    "ko": "일리리아의 실력자가 된 파로스의 데메트리오스가 로마가 부과한 조건을 어기자, 로마는 기원전 219년 그의 거점들을 공격했다. 데메트리오스는 마케도니아로 달아났고 로마는 아드리아해 연안의 보호령을 강화했다. 이 분쟁으로 일리리아 땅은 로마와 마케도니아의 대립에 휘말리게 되었다.",
+    "zh": "成为伊利里亚实权人物的法罗斯的德米特里乌斯违背罗马强加的条款,罗马遂于公元前219年进攻其据点。德米特里乌斯逃往马其顿,罗马加强了对亚得里亚海沿岸保护地的控制。这场冲突使伊利里亚地区卷入罗马与马其顿的争斗。",
+    "ja": "イリュリアの実力者となったファロスのデメトリオスがローマの課した条件を破ると、ローマは紀元前219年に彼の拠点を攻撃した。デメトリオスはマケドニアへ逃れ、ローマはアドリア海沿岸の保護領を強化した。この紛争によりイリュリアの地はローマとマケドニアの対立に巻き込まれた。"
+   }
+  },
+  {
+   "year": -168,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Rome defeats King Gentius",
+    "ko": "로마, 겐티우스 왕을 격파",
+    "zh": "罗马击败根修斯国王",
+    "ja": "ローマ、ゲンティウス王を破る"
+   },
+   "description": {
+    "en": "In the Third Illyrian War, King Gentius allied with Perseus of Macedon against Rome, but the praetor Lucius Anicius Gallus defeated him within weeks and captured him at Scodra in 168 BC. The Illyrian kingdom was dissolved and its territory divided into districts under Roman supervision. This opened the way for the gradual Roman takeover of present-day Montenegro.",
+    "ko": "제3차 일리리아 전쟁에서 겐티우스 왕은 마케도니아의 페르세우스와 손잡고 로마에 맞섰으나, 법무관 루키우스 아니키우스 갈루스가 몇 주 만에 그를 격파하고 기원전 168년 스코드라에서 사로잡았다. 일리리아 왕국은 해체되어 로마 감독 아래 여러 구역으로 나뉘었다. 이로써 오늘날 몬테네그로 지역이 점차 로마에 편입되는 길이 열렸다.",
+    "zh": "第三次伊利里亚战争中,根修斯国王与马其顿的珀尔修斯结盟对抗罗马,但裁判官卢基乌斯·阿尼基乌斯·加卢斯在数周内将其击败,并于公元前168年在斯科德拉将其俘获。伊利里亚王国被解散,其领土被划分为受罗马监管的若干区域。这为今黑山地区逐步并入罗马开辟了道路。",
+    "ja": "第三次イリュリア戦争でゲンティウス王はマケドニアのペルセウスと結んでローマに対抗したが、法務官ルキウス・アニキウス・ガッルスが数週間で彼を破り、紀元前168年にスコドラで捕らえた。イリュリア王国は解体され、領土はローマの監督下の複数の区域に分けられた。これにより現在のモンテネグロ地域が徐々にローマに組み込まれる道が開かれた。"
+   }
+  },
+  {
+   "year": -35,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Octavian's Illyrian campaigns",
+    "ko": "옥타비아누스의 일리리아 원정",
+    "zh": "屋大维的伊利里亚远征",
+    "ja": "オクタウィアヌスのイリュリア遠征"
+   },
+   "description": {
+    "en": "Between 35 and 33 BC Octavian, the future Augustus, led campaigns against the Illyrian and Pannonian tribes of the eastern Adriatic hinterland. The operations subdued many mountain peoples who had resisted Rome for over a century. They prepared the organization of the region into the province of Illyricum, later Dalmatia.",
+    "ko": "기원전 35~33년 훗날의 아우구스투스인 옥타비아누스는 아드리아해 동부 내륙의 일리리아·판노니아 부족을 상대로 원정을 벌였다. 이 작전으로 한 세기 넘게 로마에 저항하던 많은 산악 민족이 복속되었다. 이는 이 지역을 일리리쿰, 훗날의 달마티아 속주로 조직하는 토대가 되었다.",
+    "zh": "公元前35年至前33年,后来的奥古斯都屋大维对亚得里亚海东岸腹地的伊利里亚和潘诺尼亚部落发动远征。这些行动征服了许多抵抗罗马一个多世纪的山地民族,为将该地区组建为伊利里库姆行省(后来的达尔马提亚行省)做好了准备。",
+    "ja": "紀元前35〜33年、のちのアウグストゥスであるオクタウィアヌスは、アドリア海東岸後背地のイリュリア・パンノニア諸部族に対して遠征を行った。これにより1世紀以上ローマに抵抗してきた多くの山岳民族が服属した。この遠征は、地域をイリュリクム属州、のちのダルマティア属州として組織する下地となった。"
+   }
+  },
+  {
+   "year": 9,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Roman rule over Doclea",
+    "ko": "로마의 도클레아 지배",
+    "zh": "罗马统治多克莱亚",
+    "ja": "ローマによるドクレア支配"
+   },
+   "description": {
+    "en": "After Rome crushed the Great Illyrian Revolt (AD 6–9), the lands of present-day Montenegro were firmly incorporated into the Roman province of Dalmatia. The territory of the Docleatae, around the town of Doclea near modern Podgorica, became a regional center. Roman administration, roads and settlers began the long process of Romanization.",
+    "ko": "로마가 일리리아 대반란(서기 6~9년)을 진압한 뒤 오늘날 몬테네그로 지역은 로마의 달마티아 속주에 확고히 편입되었다. 현재의 포드고리차 인근 도클레아를 중심으로 한 도클레아타이족의 땅은 지역 중심지가 되었다. 로마의 행정과 도로, 이주민은 오랜 로마화 과정을 시작했다.",
+    "zh": "罗马镇压伊利里亚大起义(公元6—9年)后,今黑山地区被牢固纳入罗马的达尔马提亚行省。以今波德戈里察附近的多克莱亚城为中心的多克莱亚泰人领地成为地区中心。罗马的行政、道路和移民开启了漫长的罗马化进程。",
+    "ja": "ローマが大イリュリア反乱(後6〜9年)を鎮圧すると、現在のモンテネグロ一帯はローマのダルマティア属州に確実に組み込まれた。ポドゴリツァ近郊の町ドクレアを中心とするドクレアタエ族の地は地域の中心となった。ローマの行政や道路、入植者が長いローマ化の過程を始めた。"
+   }
+  },
+  {
+   "year": 75,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Doclea becomes a Roman municipium",
+    "ko": "도클레아, 로마 자치도시가 되다",
+    "zh": "多克莱亚成为罗马自治市",
+    "ja": "ドクレア、ローマの自治都市となる"
+   },
+   "description": {
+    "en": "In the later 1st century AD, under the Flavian emperors, Doclea at the confluence of the Zeta and Morača rivers received the status of a municipium. The town developed a forum, basilica, temples and baths, and became the most important Roman city in today's Montenegro. Its ruins near Podgorica remain the country's main Roman archaeological site.",
+    "ko": "서기 1세기 후반 플라비우스 황조 시기에 제타강과 모라차강 합류점의 도클레아는 자치도시(무니키피움) 지위를 얻었다. 도시에는 포룸·바실리카·신전·목욕장이 들어섰고, 오늘날 몬테네그로에서 가장 중요한 로마 도시가 되었다. 포드고리차 인근의 그 유적은 지금도 이 나라의 대표적인 로마 고고 유적이다.",
+    "zh": "公元1世纪后期弗拉维王朝时期,位于泽塔河与莫拉查河交汇处的多克莱亚获得自治市地位。城中建有广场、会堂、神庙和浴场,成为今黑山境内最重要的罗马城市。其位于波德戈里察附近的遗址至今仍是该国最主要的罗马考古遗址。",
+    "ja": "後1世紀後半のフラウィウス朝の時代、ゼタ川とモラチャ川の合流点にあるドクレアは自治都市(ムニキピウム)の地位を得た。町にはフォルム、バシリカ、神殿、浴場が建てられ、現在のモンテネグロで最も重要なローマ都市となった。ポドゴリツァ近郊のその遺跡は今も同国の代表的なローマ遺跡である。"
+   }
+  },
+  {
+   "year": 150,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Roman mosaics of Risinium",
+    "ko": "리시니움의 로마 모자이크",
+    "zh": "里西尼乌姆的罗马马赛克",
+    "ja": "リシニウムのローマ・モザイク"
+   },
+   "description": {
+    "en": "Around the 2nd century AD, wealthy residents of Risinium (Risan) on the Bay of Kotor decorated their villas with fine floor mosaics, including a well-known image of Hypnos, the god of sleep. The finds illustrate the prosperity of the Romanized Adriatic coast. They are among the best-preserved Roman mosaics on the eastern Adriatic.",
+    "ko": "서기 2세기경 코토르만의 리시니움(리산)의 부유한 주민들은 저택 바닥을 정교한 모자이크로 장식했는데, 잠의 신 히프노스를 묘사한 유명한 작품도 그중 하나이다. 이 유물은 로마화된 아드리아해 연안의 번영을 보여 준다. 아드리아해 동부에서 가장 잘 보존된 로마 모자이크로 꼽힌다.",
+    "zh": "约公元2世纪,科托尔湾畔里西尼乌姆(里桑)的富裕居民用精美的地面马赛克装饰别墅,其中包括著名的睡神修普诺斯像。这些遗存展现了罗马化亚得里亚海沿岸的繁荣,是亚得里亚海东岸保存最好的罗马马赛克之一。",
+    "ja": "後2世紀頃、コトル湾のリシニウム(リサン)の富裕な住民は邸宅の床を精巧なモザイクで飾った。眠りの神ヒュプノスを描いた有名な作品もその一つである。これらはローマ化したアドリア海沿岸の繁栄を示し、アドリア海東岸で最も保存状態のよいローマ・モザイクの一つとされる。"
+   }
+  },
+  {
+   "year": 297,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Diocletian creates Praevalitana",
+    "ko": "디오클레티아누스, 프라이발리타나 속주 신설",
+    "zh": "戴克里先设立普雷瓦利塔纳行省",
+    "ja": "ディオクレティアヌス、プラエウァリタナ属州を新設"
+   },
+   "description": {
+    "en": "Around 297, Emperor Diocletian's administrative reforms carved the province of Praevalitana out of southern Dalmatia, with its capital at Scodra; it included Doclea and most of today's Montenegro. Diocletian himself was a native of Dalmatia, and later tradition linked his origins to Doclea. The new province was later attached to the Diocese of Dacia in the eastern part of the empire.",
+    "ko": "297년경 디오클레티아누스 황제의 행정 개혁으로 달마티아 남부에서 스코드라를 수도로 하는 프라이발리타나 속주가 분리되었으며, 여기에는 도클레아와 오늘날 몬테네그로의 대부분이 포함되었다. 디오클레티아누스는 달마티아 출신으로, 후대의 전승은 그의 출신을 도클레아와 연결하기도 했다. 새 속주는 뒤에 제국 동부의 다키아 관구에 속하게 되었다.",
+    "zh": "约297年,戴克里先皇帝的行政改革从达尔马提亚南部划出以斯科德拉为首府的普雷瓦利塔纳行省,范围包括多克莱亚及今黑山大部分地区。戴克里先本人出生于达尔马提亚,后世传说将其出身与多克莱亚联系起来。新行省后来隶属帝国东部的达契亚管区。",
+    "ja": "297年頃、ディオクレティアヌス帝の行政改革により、ダルマティア南部からスコドラを州都とするプラエウァリタナ属州が分離され、ドクレアと現在のモンテネグロの大部分がこれに含まれた。ディオクレティアヌス自身はダルマティア出身で、後世の伝承は彼の出自をドクレアと結びつけた。新属州はのちに帝国東部のダキア管区に属した。"
+   }
+  },
+  {
+   "year": 395,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The division of the Roman Empire",
+    "ko": "로마 제국의 분할",
+    "zh": "罗马帝国分治",
+    "ja": "ローマ帝国の分割"
+   },
+   "description": {
+    "en": "On the death of Theodosius I in 395, the empire was permanently divided between his sons. The dividing line ran through the area of present-day Montenegro: Praevalitana went to the East, while the Dalmatian coast to the northwest stayed with the West. This boundary later echoed in the line between Latin and Greek Christian spheres in the region.",
+    "ko": "395년 테오도시우스 1세가 죽자 제국은 두 아들에게 영구적으로 분할되었다. 분할선은 오늘날 몬테네그로 지역을 지나, 프라이발리타나는 동로마에, 북서쪽의 달마티아 해안은 서로마에 속했다. 이 경계는 훗날 이 지역에서 라틴 그리스도교권과 그리스 그리스도교권을 가르는 선으로 이어졌다.",
+    "zh": "395年狄奥多西一世去世,帝国由其两子永久分治。分界线穿过今黑山地区:普雷瓦利塔纳归东罗马,西北的达尔马提亚沿岸则属西罗马。这条边界后来演变为该地区拉丁与希腊基督教势力范围的分界。",
+    "ja": "395年にテオドシウス1世が死ぬと、帝国は二人の息子の間で恒久的に分割された。分割線は現在のモンテネグロ地域を通り、プラエウァリタナは東の帝国に、北西のダルマティア沿岸は西の帝国に属した。この境界はのちにこの地域でラテン系とギリシア系のキリスト教圏を分ける線に受け継がれた。"
+   }
+  },
+  {
+   "year": 493,
+   "qid": "Q583038",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ostrogoths take Dalmatia",
+    "ko": "동고트족의 달마티아 장악",
+    "zh": "东哥特人控制达尔马提亚",
+    "ja": "東ゴート、ダルマティアを掌握"
+   },
+   "description": {
+    "en": "After Theoderic the Great defeated Odoacer and took Italy in 493, Dalmatia, including the northwestern coastal strip of present-day Montenegro, came under the Ostrogothic Kingdom. Gothic rule largely preserved Roman administration and town life. It lasted until the Byzantine reconquest in 535.",
+    "ko": "493년 테오도리크 대왕이 오도아케르를 무찌르고 이탈리아를 차지하자, 오늘날 몬테네그로 북서 해안 지대를 포함한 달마티아가 동고트 왕국의 지배를 받게 되었다. 고트족의 지배는 로마의 행정과 도시 생활을 대체로 유지했다. 이 지배는 535년 비잔티움의 재정복 때까지 이어졌다.",
+    "zh": "493年狄奥多里克大帝击败奥多亚塞并夺取意大利后,包括今黑山西北沿岸地带在内的达尔马提亚归东哥特王国统治。哥特人的统治大体保留了罗马的行政和城市生活,直到535年拜占庭收复为止。",
+    "ja": "493年にテオドリック大王がオドアケルを破ってイタリアを手に入れると、現在のモンテネグロ北西沿岸部を含むダルマティアは東ゴート王国の支配下に入った。ゴート人の支配はローマの行政と都市生活をおおむね維持した。この支配は535年のビザンツによる再征服まで続いた。"
+   }
+  },
+  {
+   "year": 535,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Justinian reconquers Dalmatia",
+    "ko": "유스티니아누스의 달마티아 재정복",
+    "zh": "查士丁尼收复达尔马提亚",
+    "ja": "ユスティニアヌス、ダルマティアを再征服"
+   },
+   "description": {
+    "en": "At the outbreak of the Gothic War in 535, Emperor Justinian I sent forces that seized Dalmatia from the Ostrogoths. The entire coast of present-day Montenegro was thus reunited under Constantinople. Justinian's era saw the building and repair of fortifications and churches along the Adriatic.",
+    "ko": "535년 고트 전쟁이 시작되자 유스티니아누스 1세 황제는 군대를 보내 동고트족으로부터 달마티아를 빼앗았다. 이로써 오늘날 몬테네그로 해안 전체가 다시 콘스탄티노폴리스 아래 통합되었다. 유스티니아누스 시대에는 아드리아해 연안을 따라 요새와 교회가 건설·보수되었다.",
+    "zh": "535年哥特战争爆发,查士丁尼一世皇帝派军从东哥特人手中夺取达尔马提亚,今黑山整个海岸由此重归君士坦丁堡统治。查士丁尼时代,亚得里亚海沿岸修建和修缮了大量要塞与教堂。",
+    "ja": "535年にゴート戦争が始まると、ユスティニアヌス1世は軍を送って東ゴートからダルマティアを奪った。これにより現在のモンテネグロの海岸全体が再びコンスタンティノープルの下に統合された。ユスティニアヌスの時代には、アドリア海沿岸に要塞や教会が建設・修復された。"
+   }
+  },
+  {
+   "year": 650,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Slavs settle the region",
+    "ko": "슬라브족의 정착",
+    "zh": "斯拉夫人定居该地区",
+    "ja": "スラヴ人の定住"
+   },
+   "description": {
+    "en": "In the 7th century, after Avar and Slavic raids had broken Roman rule in the interior, Slavic tribes settled the eastern Adriatic hinterland. They mixed with the Romanized and Illyrian population, while the coastal towns stayed Byzantine and Latin-speaking. This settlement laid the ethnic foundations of later Duklja and Montenegro.",
+    "ko": "7세기에 아바르족과 슬라브족의 약탈로 내륙의 로마 지배가 무너진 뒤, 슬라브 부족들이 아드리아해 동부 내륙에 정착했다. 이들은 로마화된 주민과 일리리아계 주민과 섞였고, 해안 도시들은 비잔티움령으로 라틴어를 쓰는 곳으로 남았다. 이 정착은 훗날 두클랴와 몬테네그로의 민족적 토대가 되었다.",
+    "zh": "7世纪,阿瓦尔人和斯拉夫人的劫掠瓦解了罗马在内陆的统治,斯拉夫部落随后定居亚得里亚海东岸腹地。他们与罗马化居民和伊利里亚后裔融合,而沿海城市仍属拜占庭并使用拉丁语。这次定居奠定了日后杜克利亚和黑山的民族基础。",
+    "ja": "7世紀、アヴァール人とスラヴ人の襲撃で内陸のローマ支配が崩れたのち、スラヴ諸部族がアドリア海東岸の内陸部に定住した。彼らはローマ化した住民やイリュリア系住民と混ざり合い、沿岸都市はビザンツ領のラテン語圏として残った。この定住が後のドゥクリャとモンテネグロの民族的基盤となった。"
+   }
+  },
+  {
+   "year": 732,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Illyricum transferred to Constantinople's church",
+    "ko": "일리리쿰 교회, 콘스탄티노폴리스 관할로",
+    "zh": "伊利里库姆教会改隶君士坦丁堡",
+    "ja": "イリュリクム教会、コンスタンティノープルの管轄へ"
+   },
+   "description": {
+    "en": "Around the 730s, according to the traditional dating, the Byzantine emperor Leo III removed the ecclesiastical provinces of eastern Illyricum, including Praevalitana, from papal jurisdiction and placed them under the Patriarch of Constantinople. The exact date is debated by historians. The change sharpened the rivalry of Rome and Constantinople over the churches of the region, which lay on the border of the two traditions.",
+    "ko": "전통적 연대에 따르면 730년대경 비잔티움 황제 레오 3세는 프라이발리타나를 포함한 동일리리쿰의 교회 관구를 교황 관할에서 떼어 콘스탄티노폴리스 총대주교 아래 두었다. 정확한 연대는 학자들 사이에 논란이 있다. 이 조치로 두 전통의 경계에 놓인 이 지역 교회를 둘러싼 로마와 콘스탄티노폴리스의 경쟁이 심해졌다.",
+    "zh": "按照传统说法,约730年代拜占庭皇帝利奥三世将包括普雷瓦利塔纳在内的东伊利里库姆教省从教宗管辖下划出,归君士坦丁堡牧首管辖。确切年代在史学界尚有争议。此举加剧了罗马与君士坦丁堡对这一地处两大传统交界地区教会的争夺。",
+    "ja": "伝統的な年代によれば、730年代頃ビザンツ皇帝レオン3世は、プラエウァリタナを含む東イリュリクムの教会管区を教皇の管轄から外し、コンスタンティノープル総主教の下に置いた。正確な年代は歴史家の間で議論がある。この措置により、両伝統の境界にあるこの地域の教会をめぐるローマとコンスタンティノープルの対立が深まった。"
+   }
+  },
+  {
+   "year": 809,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Relics of Saint Tryphon brought to Kotor",
+    "ko": "성 트리폰의 유해, 코토르로",
+    "zh": "圣特里丰遗骨迁至科托尔",
+    "ja": "聖トリフォンの聖遺物、コトルへ"
+   },
+   "description": {
+    "en": "According to tradition, in 809 the relics of the early Christian martyr Saint Tryphon were brought to Kotor, where a church was built to house them. Saint Tryphon became the patron saint of the city, and his cult shaped Kotor's civic identity for centuries. The later Romanesque cathedral dedicated to him was consecrated in 1166.",
+    "ko": "전승에 따르면 809년 초기 그리스도교 순교자 성 트리폰의 유해가 코토르로 옮겨져 이를 모시는 교회가 세워졌다. 성 트리폰은 도시의 수호성인이 되었고, 그에 대한 숭배는 수 세기 동안 코토르의 시민 정체성을 형성했다. 그에게 봉헌된 후대의 로마네스크 대성당은 1166년에 축성되었다.",
+    "zh": "据传统记载,809年早期基督教殉道者圣特里丰的遗骨被迁至科托尔,当地为此修建了教堂。圣特里丰成为该城的主保圣人,对他的崇拜数百年间塑造了科托尔的市民认同。后来献给他的罗马式大教堂于1166年祝圣。",
+    "ja": "伝承によれば、809年に初期キリスト教の殉教者聖トリフォンの聖遺物がコトルに運ばれ、それを納める教会が建てられた。聖トリフォンは町の守護聖人となり、その崇敬は何世紀にもわたってコトルの市民意識を形づくった。彼に献じられたのちのロマネスク様式の大聖堂は1166年に献堂された。"
+   }
+  },
+  {
+   "year": 841,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Arab raids on the Montenegrin coast",
+    "ko": "몬테네그로 해안에 대한 아랍인의 습격",
+    "zh": "阿拉伯人袭击黑山海岸",
+    "ja": "モンテネグロ沿岸へのアラブ人の襲撃"
+   },
+   "description": {
+    "en": "Around 840–841, Arab raiders operating from southern Italy sailed up the Adriatic and sacked Budva and Risan and attacked other coastal towns. The Byzantine emperor Constantine VII later recorded these raids. The attacks showed the vulnerability of Byzantium's Adriatic outposts and prompted later reorganization of their defense.",
+    "ko": "840~841년경 남이탈리아를 근거지로 한 아랍 약탈자들이 아드리아해를 거슬러 올라와 부드바와 리산을 약탈하고 다른 해안 도시들도 공격했다. 비잔티움 황제 콘스탄티노스 7세는 훗날 이 습격을 기록했다. 이 공격은 비잔티움의 아드리아해 거점들이 취약하다는 것을 드러냈고 이후 방어 재편을 촉진했다.",
+    "zh": "约840至841年,以意大利南部为基地的阿拉伯劫掠者沿亚得里亚海北上,洗劫了布德瓦和里桑,并袭击其他沿海城镇。拜占庭皇帝君士坦丁七世后来记载了这些袭击。这些攻击暴露了拜占庭亚得里亚海据点的脆弱,促使其日后重整防务。",
+    "ja": "840〜841年頃、南イタリアを拠点とするアラブ人の略奪者がアドリア海を北上し、ブドヴァとリサンを略奪し他の沿岸都市も攻撃した。ビザンツ皇帝コンスタンティノス7世はのちにこれらの襲撃を記録している。この攻撃はビザンツのアドリア海拠点の脆弱さを示し、その後の防衛再編を促した。"
+   }
+  },
+  {
+   "year": 870,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Byzantine theme of Dalmatia",
+    "ko": "비잔티움의 달마티아 테마",
+    "zh": "拜占庭达尔马提亚军区",
+    "ja": "ビザンツのダルマティア・テマ"
+   },
+   "description": {
+    "en": "Around 870, under Emperor Basil I, Byzantium reasserted its power in the Adriatic and organized its coastal cities into the theme of Dalmatia. Kotor, Budva and other towns of today's Montenegrin coast belonged to this Byzantine framework. Meanwhile the Slavic princes of the interior acknowledged imperial overlordship.",
+    "ko": "870년경 바실리오스 1세 황제 치하의 비잔티움은 아드리아해에서 세력을 다시 확립하고 해안 도시들을 달마티아 테마로 조직했다. 코토르·부드바 등 오늘날 몬테네그로 해안 도시들도 이 비잔티움 체제에 속했다. 한편 내륙의 슬라브 군주들은 황제의 종주권을 인정했다.",
+    "zh": "约870年,巴西尔一世皇帝治下的拜占庭重新确立其在亚得里亚海的势力,将沿海城市组建为达尔马提亚军区。科托尔、布德瓦等今黑山沿海城镇均属这一拜占庭体制。与此同时,内陆的斯拉夫诸侯承认帝国的宗主权。",
+    "ja": "870年頃、バシレイオス1世治下のビザンツはアドリア海で勢力を回復し、沿岸都市をダルマティア・テマとして組織した。コトルやブドヴァなど現在のモンテネグロ沿岸の町もこのビザンツの体制に属した。一方、内陸のスラヴ人君主たちは皇帝の宗主権を認めた。"
+   }
+  },
+  {
+   "year": 950,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Dioclea in 'De Administrando Imperio'",
+    "ko": "'제국 통치론' 속의 디오클레아",
+    "zh": "《帝国行政论》中的迪奥克莱亚",
+    "ja": "『帝国統治論』に記されたディオクレア"
+   },
+   "description": {
+    "en": "Around 950, Emperor Constantine VII Porphyrogennetos described the Slavic lands of the Adriatic in his treatise 'De Administrando Imperio'. He named Dioclea after the old Roman city and listed its settlements, presenting it as a Slavic principality under Byzantine authority. The work is a key source for the early history of the region.",
+    "ko": "950년경 콘스탄티노스 7세 포르피로옌니토스 황제는 저서 '제국 통치론'에서 아드리아해 연안의 슬라브 땅들을 서술했다. 그는 옛 로마 도시의 이름을 딴 디오클레아를 언급하고 그 정착지들을 열거하며, 이곳을 비잔티움 권위 아래의 슬라브 공국으로 묘사했다. 이 책은 이 지역 초기 역사의 핵심 사료이다.",
+    "zh": "约950年,君士坦丁七世皇帝在其著作《帝国行政论》中描述了亚得里亚海沿岸的斯拉夫地区。他以旧罗马城市之名称呼迪奥克莱亚,列举其聚落,并将其描述为处于拜占庭权威之下的斯拉夫公国。该书是研究这一地区早期历史的重要史料。",
+    "ja": "950年頃、皇帝コンスタンティノス7世ポルフュロゲネトスは著書『帝国統治論』でアドリア海沿岸のスラヴ人の地を記述した。彼は旧ローマ都市にちなむディオクレアの名を挙げてその集落を列挙し、ビザンツの権威下にあるスラヴ人の公国として描いた。同書はこの地域の初期史の重要な史料である。"
+   }
+  },
+  {
+   "year": 998,
+   "qid": "Q203817",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Tsar Samuel subjugates Duklja",
+    "ko": "차르 사무일의 두클랴 복속",
+    "zh": "沙皇萨穆伊尔征服杜克利亚",
+    "ja": "ツァーリ・サムイル、ドゥクリャを服属させる"
+   },
+   "description": {
+    "en": "Around 997–998, Tsar Samuel of Bulgaria invaded Duklja and captured its prince, Jovan Vladimir. The later Chronicle of the Priest of Duklja tells that Samuel's daughter Kosara fell in love with the captive and that Vladimir was restored as a vassal after marrying her, a story historians treat as partly legendary. Bulgarian overlordship lasted until Samuel's empire fell to Byzantium in 1018.",
+    "ko": "997~998년경 불가리아의 차르 사무일은 두클랴를 침공해 군주 요반 블라디미르를 사로잡았다. 후대의 '두클랴 사제 연대기'는 사무일의 딸 코사라가 포로와 사랑에 빠졌고 블라디미르가 그녀와 결혼한 뒤 봉신으로 복위되었다고 전하는데, 역사가들은 이를 부분적으로 전설로 본다. 불가리아의 종주권은 1018년 사무일의 제국이 비잔티움에 멸망할 때까지 이어졌다.",
+    "zh": "约997至998年,保加利亚沙皇萨穆伊尔入侵杜克利亚,俘虏了其君主约万·弗拉迪米尔。后世的《杜克利亚神父编年史》记载萨穆伊尔之女科萨拉爱上了这位俘虏,弗拉迪米尔与她成婚后以附庸身份复位,史学家认为此说部分带有传说色彩。保加利亚的宗主权一直持续到1018年萨穆伊尔的帝国被拜占庭灭亡。",
+    "ja": "997〜998年頃、ブルガリアのツァーリ・サムイルはドゥクリャに侵攻し、その君主ヨヴァン・ヴラディミルを捕らえた。後世の『ドゥクリャ司祭年代記』は、サムイルの娘コサラが捕虜に恋をし、ヴラディミルは彼女と結婚して臣下として復位したと伝えるが、歴史家はこれを部分的に伝説とみなしている。ブルガリアの宗主権は1018年にサムイルの帝国がビザンツに滅ぼされるまで続いた。"
+   }
+  },
+  {
+   "year": 1016,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Martyrdom of Jovan Vladimir",
+    "ko": "요반 블라디미르의 순교",
+    "zh": "约万·弗拉迪米尔殉难",
+    "ja": "ヨヴァン・ヴラディミルの殉教"
+   },
+   "description": {
+    "en": "In 1016 Prince Jovan Vladimir of Duklja was murdered at Prespa on the orders of the Bulgarian ruler Ivan Vladislav. Venerated as a saint and martyr, he became the earliest saint of the South Slavs from this region. His cross, traditionally carried in an annual procession on Mount Rumija near Bar, remains a cherished relic.",
+    "ko": "1016년 두클랴의 군주 요반 블라디미르는 불가리아 통치자 이반 블라디슬라프의 명령으로 프레스파에서 살해되었다. 성인이자 순교자로 공경받는 그는 이 지역 출신 남슬라브인 최초의 성인이 되었다. 그의 십자가는 전통적으로 바르 인근 루미야산에서 매년 행렬로 운반되며 소중한 성물로 남아 있다.",
+    "zh": "1016年,杜克利亚君主约万·弗拉迪米尔奉保加利亚统治者伊万·弗拉迪斯拉夫之命在普雷斯帕被杀。他被尊为圣人和殉道者,成为该地区南部斯拉夫人最早的圣徒。他的十字架按传统每年在巴尔附近的鲁米亚山上游行展示,至今仍是珍贵圣物。",
+    "ja": "1016年、ドゥクリャの君主ヨヴァン・ヴラディミルはブルガリアの支配者イヴァン・ヴラディスラフの命でプレスパにて殺害された。聖人・殉教者として崇敬される彼は、この地域出身の南スラヴ人最初の聖人となった。彼の十字架は伝統的にバール近郊のルミヤ山で毎年行列に担がれ、大切な聖遺物として受け継がれている。"
+   }
+  },
+  {
+   "year": 1042,
+   "qid": "Q3442989",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of Bar: Duklja wins independence",
+    "ko": "바르 전투와 두클랴의 독립",
+    "zh": "巴尔战役:杜克利亚赢得独立",
+    "ja": "バールの戦いとドゥクリャの独立"
+   },
+   "description": {
+    "en": "Prince Stefan Vojislav, who had rebelled against Byzantine rule, routed a large Byzantine army in the mountain passes near Bar in 1042. The victory secured the de facto independence of Duklja, the medieval predecessor of Montenegro, and founded the power of the Vojislavljević dynasty. Duklja soon expanded into neighboring Travunia and Zahumlje.",
+    "ko": "비잔티움의 지배에 반기를 든 스테판 보이슬라브 공은 1042년 바르 인근 산길에서 대규모 비잔티움군을 격파했다. 이 승리로 몬테네그로의 중세 전신인 두클랴는 사실상 독립을 확보했고 보이슬라블레비치 왕조의 권력이 확립되었다. 두클랴는 곧 이웃한 트라부니아와 자훔리예로 세력을 넓혔다.",
+    "zh": "起兵反抗拜占庭统治的斯特凡·沃伊斯拉夫公爵于1042年在巴尔附近的山口大败拜占庭大军。这场胜利使黑山的中世纪前身杜克利亚获得事实上的独立,奠定了沃伊斯拉夫列维奇王朝的权力基础。杜克利亚随即向邻近的特拉武尼亚和扎胡姆列扩张。",
+    "ja": "ビザンツの支配に反旗を翻したステファン・ヴォイスラヴ公は、1042年にバール近郊の山道で大規模なビザンツ軍を撃破した。この勝利でモンテネグロの中世の前身ドゥクリャは事実上の独立を確保し、ヴォイスラヴリェヴィチ朝の権力が確立した。ドゥクリャはまもなく隣接するトラヴニアやザフムリェへ勢力を広げた。"
+   }
+  },
+  {
+   "year": 1077,
+   "qid": "Q1252942",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Mihailo crowned King of Duklja",
+    "ko": "미하일로, 두클랴 국왕 즉위",
+    "zh": "米哈伊洛加冕为杜克利亚国王",
+    "ja": "ミハイロ、ドゥクリャ王に即位"
+   },
+   "description": {
+    "en": "In 1077 Mihailo Vojislavljević received royal insignia from Pope Gregory VII, and Duklja was elevated to a kingdom. Turning to Rome reflected Mihailo's effort to free himself from Byzantine claims after the Great Schism of 1054. The coronation is regarded as a milestone of medieval statehood on Montenegrin soil.",
+    "ko": "1077년 미하일로 보이슬라블레비치는 교황 그레고리오 7세로부터 왕의 표장을 받아 두클랴는 왕국으로 격상되었다. 로마로 향한 것은 1054년 동서 교회 분열 이후 비잔티움의 주장에서 벗어나려는 미하일로의 노력이었다. 이 대관은 몬테네그로 땅에서 중세 국가 성립의 이정표로 여겨진다.",
+    "zh": "1077年,米哈伊洛·沃伊斯拉夫列维奇获教宗格列高利七世授予王徽,杜克利亚升格为王国。转向罗马体现了米哈伊洛在1054年东西教会大分裂后摆脱拜占庭控制的努力。此次加冕被视为黑山土地上中世纪国家史的里程碑。",
+    "ja": "1077年、ミハイロ・ヴォイスラヴリェヴィチは教皇グレゴリウス7世から王の標章を授かり、ドゥクリャは王国に昇格した。ローマへの接近は、1054年の東西教会分裂後にビザンツの主張から自立しようとするミハイロの努力の表れであった。この戴冠はモンテネグロの地における中世国家の画期とされる。"
+   }
+  },
+  {
+   "year": 1081,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Constantine Bodin expands Duklja",
+    "ko": "콘스탄틴 보딘의 두클랴 확장",
+    "zh": "康斯坦丁·博丁扩张杜克利亚",
+    "ja": "コンスタンティン・ボディンのドゥクリャ拡大"
+   },
+   "description": {
+    "en": "Constantine Bodin, son of Mihailo, became king around 1081 and took advantage of Byzantium's war with the Normans to expand his realm. He installed his own appointees in Raška and Bosnia, making Duklja the leading Serbian land of its time. After his death around 1101, succession struggles among his relatives weakened the kingdom.",
+    "ko": "미하일로의 아들 콘스탄틴 보딘은 1081년경 왕이 되어 비잔티움과 노르만인의 전쟁을 틈타 영토를 넓혔다. 그는 라슈카와 보스니아에 자신이 임명한 통치자를 세워 두클랴를 당대 세르비아 땅의 맹주로 만들었다. 1101년경 그가 죽은 뒤 친족 간의 계승 분쟁으로 왕국은 약해졌다.",
+    "zh": "米哈伊洛之子康斯坦丁·博丁约于1081年即位,趁拜占庭与诺曼人交战之机扩张领土。他在拉什卡和波斯尼亚扶植自己任命的统治者,使杜克利亚成为当时塞尔维亚诸地的盟主。约1101年他去世后,亲族间的继承纷争削弱了王国。",
+    "ja": "ミハイロの子コンスタンティン・ボディンは1081年頃王となり、ビザンツとノルマン人の戦争に乗じて領土を広げた。彼はラシュカとボスニアに自ら任じた統治者を置き、ドゥクリャを当時のセルビア諸地域の盟主とした。1101年頃に彼が死ぬと、一族間の継承争いで王国は弱体化した。"
+   }
+  },
+  {
+   "year": 1089,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Archbishopric of Bar",
+    "ko": "바르 대주교좌 설치",
+    "zh": "巴尔大主教区设立",
+    "ja": "バール大司教座の設置"
+   },
+   "description": {
+    "en": "In 1089, at the request of King Constantine Bodin, the Diocese of Bar was raised to an archbishopric by the antipope Clement III. The archbishopric gave Duklja a church organization independent of neighboring Dubrovnik and Split, which contested its status for generations. The Catholic Archdiocese of Bar still exists today.",
+    "ko": "1089년 콘스탄틴 보딘 왕의 요청으로 대립교황 클레멘스 3세가 바르 교구를 대주교좌로 승격시켰다. 이로써 두클랴는 이웃 두브로브니크·스플리트와 독립된 교회 조직을 갖게 되었고, 두 도시는 여러 세대에 걸쳐 그 지위를 다투었다. 가톨릭 바르 대교구는 오늘날까지 존속한다.",
+    "zh": "1089年,应康斯坦丁·博丁国王请求,对立教宗克雷芒三世将巴尔教区升格为大主教区。这使杜克利亚拥有了独立于邻近杜布罗夫尼克和斯普利特的教会组织,两城长期对此地位提出异议。巴尔天主教总教区延续至今。",
+    "ja": "1089年、コンスタンティン・ボディン王の要請により、対立教皇クレメンス3世はバール司教区を大司教座に昇格させた。これによりドゥクリャは隣接するドゥブロヴニクやスプリトから独立した教会組織を得たが、両都市は何世代にもわたりその地位を争った。カトリックのバール大司教区は今日も存続している。"
+   }
+  },
+  {
+   "year": 1166,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Cathedral of Saint Tryphon consecrated",
+    "ko": "성 트리폰 대성당 축성",
+    "zh": "圣特里丰大教堂祝圣",
+    "ja": "聖トリフォン大聖堂の献堂"
+   },
+   "description": {
+    "en": "In 1166 the Romanesque Cathedral of Saint Tryphon in Kotor was consecrated, replacing an earlier church on the site. It became the spiritual center of Catholic Kotor and the seat of its bishop. Rebuilt after earthquakes, it remains a landmark of the medieval old town, part of a UNESCO World Heritage site.",
+    "ko": "1166년 코토르의 로마네스크 양식 성 트리폰 대성당이 이전 교회를 대신해 축성되었다. 이 성당은 가톨릭 도시 코토르의 영적 중심이자 주교좌가 되었다. 여러 차례 지진 후 재건된 이 성당은 유네스코 세계유산에 포함된 중세 구시가의 상징으로 남아 있다.",
+    "zh": "1166年,科托尔的罗马式圣特里丰大教堂取代原址上的旧教堂而祝圣。它成为天主教城市科托尔的精神中心和主教座堂。该教堂历经地震后多次重建,至今仍是联合国教科文组织世界遗产中世纪老城的地标。",
+    "ja": "1166年、コトルのロマネスク様式の聖トリフォン大聖堂が、同じ場所にあった以前の教会に代わって献堂された。大聖堂はカトリックの町コトルの精神的中心であり司教座となった。地震の後に再建されたこの建物は、ユネスコ世界遺産に含まれる中世旧市街の象徴として残っている。"
+   }
+  },
+  {
+   "year": 1186,
+   "qid": "Q241748",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Stefan Nemanja conquers Duklja",
+    "ko": "스테판 네마냐의 두클랴 정복",
+    "zh": "斯特凡·尼曼雅征服杜克利亚",
+    "ja": "ステファン・ネマニャ、ドゥクリャを征服"
+   },
+   "description": {
+    "en": "Around 1185–1186, Grand Župan Stefan Nemanja of Serbia conquered Duklja, taking its towns and ending the independent rule of its dynasty. The former kingdom, increasingly called Zeta, became a core province of the Nemanjić state, often entrusted to the heir to the throne. Coastal Kotor recognized Serbian sovereignty while keeping its own autonomy.",
+    "ko": "1185~1186년경 세르비아의 대주판 스테판 네마냐는 두클랴를 정복해 그 도시들을 차지하고 왕조의 독자적 지배를 끝냈다. 점차 제타로 불리게 된 옛 왕국은 네마니치 국가의 핵심 지방이 되었고, 흔히 왕위 계승자에게 맡겨졌다. 해안의 코토르는 자치를 유지하면서 세르비아의 주권을 인정했다.",
+    "zh": "约1185至1186年,塞尔维亚大茹潘斯特凡·尼曼雅征服杜克利亚,夺取其城镇,结束了当地王朝的独立统治。这个日益被称为泽塔的昔日王国成为尼曼雅王朝国家的核心省份,常交由王储治理。沿海的科托尔承认塞尔维亚主权,同时保持自治。",
+    "ja": "1185〜1186年頃、セルビアの大ジュパン、ステファン・ネマニャはドゥクリャを征服してその町々を奪い、同地の王朝の独立した支配を終わらせた。次第にゼタと呼ばれるようになった旧王国はネマニッチ朝国家の中核地方となり、しばしば王位継承者に委ねられた。沿岸のコトルは自治を保ちつつセルビアの主権を認めた。"
+   }
+  },
+  {
+   "year": 1219,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Saint Sava founds the Eparchy of Zeta",
+    "ko": "성 사바의 제타 주교구 설립",
+    "zh": "圣萨瓦设立泽塔主教区",
+    "ja": "聖サワ、ゼタ主教区を創設"
+   },
+   "description": {
+    "en": "After obtaining autocephaly for the Serbian Orthodox Church in 1219, Archbishop Sava established the Eparchy of Zeta, with its seat at the Monastery of Saint Michael on Prevlaka in the Bay of Kotor. The eparchy anchored Orthodox church life in the region. Its successor, the Metropolitanate of Cetinje, later became the center of Montenegrin statehood.",
+    "ko": "1219년 세르비아 정교회의 독립(자치독립교회)을 얻어 낸 사바 대주교는 코토르만 프레블라카의 성 미카엘 수도원을 주교좌로 하는 제타 주교구를 세웠다. 이 주교구는 이 지역 정교회 생활의 중심이 되었다. 그 후신인 체티녜 대주교구는 훗날 몬테네그로 국가의 중심이 되었다.",
+    "zh": "1219年萨瓦大主教为塞尔维亚东正教会争得自主地位后,设立了泽塔主教区,主教座位于科托尔湾普雷夫拉卡的圣米迦勒修道院。该主教区成为该地区东正教生活的支柱,其后继者采蒂涅都主教区后来成为黑山国家的核心。",
+    "ja": "1219年にセルビア正教会の独立(自治独立教会)を勝ち取った大主教サワは、コトル湾プレヴラカの聖ミカエル修道院を座とするゼタ主教区を設けた。この主教区は地域の正教会の拠り所となった。その後継であるツェティニェ府主教区は、のちにモンテネグロ国家の中心となった。"
+   }
+  },
+  {
+   "year": 1252,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Morača Monastery founded",
+    "ko": "모라차 수도원 건립",
+    "zh": "莫拉察修道院建立",
+    "ja": "モラチャ修道院の創建"
+   },
+   "description": {
+    "en": "In 1252 Stefan, son of Prince Vukan Nemanjić, founded the Monastery of Morača in the canyon of the Morača River. Its church of the Dormition, built in the Raška style, later received frescoes, including 13th-century works and 17th-century paintings. Morača is one of the most important medieval monuments of Montenegro.",
+    "ko": "1252년 부칸 네마니치 공의 아들 스테판이 모라차강 협곡에 모라차 수도원을 세웠다. 라슈카 양식으로 지어진 성모 안식 성당에는 13세기 작품과 17세기 그림을 포함한 프레스코화가 그려졌다. 모라차는 몬테네그로에서 가장 중요한 중세 기념물 가운데 하나이다.",
+    "zh": "1252年,武坎·尼曼雅王子之子斯特凡在莫拉察河峡谷建立莫拉察修道院。其拉什卡风格的圣母安息教堂后来绘有壁画,包括13世纪的作品和17世纪的画作。莫拉察是黑山最重要的中世纪古迹之一。",
+    "ja": "1252年、ヴカン・ネマニッチ公の子ステファンがモラチャ川の峡谷にモラチャ修道院を創建した。ラシュカ様式で建てられた生神女就寝聖堂には、13世紀の作品や17世紀の絵画を含むフレスコ画が描かれた。モラチャはモンテネグロで最も重要な中世の記念物の一つである。"
+   }
+  },
+  {
+   "year": 1360,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Balšić lords take Zeta",
+    "ko": "발시치 가문의 제타 장악",
+    "zh": "巴尔希奇家族掌控泽塔",
+    "ja": "バルシッチ家、ゼタを掌握"
+   },
+   "description": {
+    "en": "After the death of Emperor Stefan Dušan in 1355, central authority in the Serbian Empire weakened, and around 1360 the brothers Stracimir, Đurađ I and Balša II of the Balšić family seized control of Zeta. They expanded to the coast and into northern Albania, ruling as nearly independent lords. Their realm was the first state centered on the land of today's Montenegro since Duklja.",
+    "ko": "1355년 스테판 두샨 황제가 죽자 세르비아 제국의 중앙 권력이 약해졌고, 1360년경 발시치 가문의 스트라치미르·주라지 1세·발샤 2세 형제가 제타를 장악했다. 이들은 해안과 북부 알바니아로 세력을 넓히며 사실상 독립된 영주로 군림했다. 이들의 영역은 두클랴 이후 오늘날 몬테네그로 땅을 중심으로 한 첫 국가였다.",
+    "zh": "1355年斯特凡·杜尚皇帝去世后,塞尔维亚帝国中央权力衰弱,约1360年巴尔希奇家族的斯特拉齐米尔、久拉吉一世和巴尔沙二世三兄弟掌控了泽塔。他们向海岸和阿尔巴尼亚北部扩张,以近乎独立的领主身份统治。他们的领地是继杜克利亚之后首个以今黑山土地为中心的国家。",
+    "ja": "1355年に皇帝ステファン・ドゥシャンが死ぬとセルビア帝国の中央権力は弱まり、1360年頃バルシッチ家のストラツィミル、ジュラジ1世、バルシャ2世の兄弟がゼタを掌握した。彼らは海岸部や北アルバニアへ勢力を広げ、ほぼ独立した領主として君臨した。その領域はドゥクリャ以来、現在のモンテネグロの地を中心とした最初の国家であった。"
+   }
+  },
+  {
+   "year": 1382,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Tvrtko I founds Herceg Novi",
+    "ko": "트브르트코 1세의 헤르체그노비 건설",
+    "zh": "特夫尔特科一世建立新海尔采格",
+    "ja": "トヴルトコ1世、ヘルツェグ・ノヴィを建設"
+   },
+   "description": {
+    "en": "In 1382 King Tvrtko I of Bosnia founded a fortified town at the mouth of the Bay of Kotor, originally named Sveti Stefan, to give Bosnia a port for trade, especially in salt. In the 15th century it became the residence of Herceg Stjepan Vukčić Kosača and took the name Herceg Novi. The town remained Bosnian until the Ottoman conquest of 1482.",
+    "ko": "1382년 보스니아의 트브르트코 1세 왕은 특히 소금 교역을 위한 항구를 확보하려고 코토르만 입구에 처음에 스베티 스테판이라 불린 요새 도시를 세웠다. 15세기에 이곳은 헤르체그 스테판 부크치치 코사차의 거처가 되면서 헤르체그노비라는 이름을 얻었다. 도시는 1482년 오스만에 정복될 때까지 보스니아령으로 남았다.",
+    "zh": "1382年,波斯尼亚国王特夫尔特科一世在科托尔湾口建立了一座最初名为圣斯特凡的设防城镇,为波斯尼亚提供贸易(尤其是食盐贸易)港口。15世纪该城成为斯捷潘·武克契奇·科萨查公爵的驻地,改名新海尔采格。该城在1482年被奥斯曼征服前一直属于波斯尼亚。",
+    "ja": "1382年、ボスニア王トヴルトコ1世は、特に塩の交易のための港を得ようとコトル湾の入口に、当初スヴェティ・ステファンと呼ばれた城塞都市を築いた。15世紀にこの町はヘルツェグ、ステパン・ヴクチッチ・コサチャの居所となり、ヘルツェグ・ノヴィの名を得た。町は1482年のオスマンによる征服までボスニア領であった。"
+   }
+  },
+  {
+   "year": 1385,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Balša II killed at the Battle of Savra",
+    "ko": "사브라 전투와 발샤 2세의 전사",
+    "zh": "萨夫拉战役与巴尔沙二世阵亡",
+    "ja": "サヴラの戦いとバルシャ2世の戦死"
+   },
+   "description": {
+    "en": "In 1385 Balša II, lord of Zeta, was defeated and killed by an Ottoman army at Savra in present-day Albania, after he had seized Durrës. It was one of the first major Ottoman victories in the western Balkans. His successor Đurađ II Balšić had to accept Ottoman vassalage and maneuver between the Turks and Venice.",
+    "ko": "1385년 두러스를 차지했던 제타의 영주 발샤 2세는 오늘날 알바니아의 사브라에서 오스만군에게 패해 전사했다. 이는 서부 발칸에서 오스만이 거둔 최초의 큰 승리 가운데 하나였다. 후계자 주라지 2세 발시치는 오스만의 봉신이 되어 튀르크와 베네치아 사이에서 줄타기를 해야 했다.",
+    "zh": "1385年,曾夺取都拉斯的泽塔领主巴尔沙二世在今阿尔巴尼亚的萨夫拉被奥斯曼军击败并阵亡。这是奥斯曼在巴尔干西部取得的首批重大胜利之一。其继任者久拉吉二世·巴尔希奇被迫接受奥斯曼的附庸地位,在土耳其人与威尼斯之间周旋。",
+    "ja": "1385年、ドゥラスを奪っていたゼタの領主バルシャ2世は、現在のアルバニアのサヴラでオスマン軍に敗れて戦死した。これは西バルカンにおけるオスマンの最初の大きな勝利の一つであった。後継者ジュラジ2世バルシッチはオスマンの臣下となり、トルコとヴェネツィアの間で駆け引きを強いられた。"
+   }
+  },
+  {
+   "year": 1420,
+   "qid": "Q4948",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Kotor comes under Venice",
+    "ko": "코토르, 베네치아 지배로",
+    "zh": "科托尔归附威尼斯",
+    "ja": "コトル、ヴェネツィアの支配下に"
+   },
+   "description": {
+    "en": "Seeking protection from Ottoman and local threats, the city of Kotor placed itself under the Republic of Venice in 1420. Venice soon extended its rule to Budva and other parts of the coast, which it called 'Venetian Albania'. Under Venetian rule, which lasted until 1797, Kotor's massive walls were expanded and the bay's seafaring towns prospered.",
+    "ko": "오스만과 주변 세력의 위협에서 보호를 구하던 코토르는 1420년 베네치아 공화국의 지배 아래 들어갔다. 베네치아는 곧 부드바 등 해안의 다른 지역으로 지배를 넓히고 이를 '베네치아령 알바니아'라 불렀다. 1797년까지 이어진 베네치아 지배 아래 코토르의 거대한 성벽이 확장되었고 만의 항해 도시들은 번영했다.",
+    "zh": "为寻求保护以抵御奥斯曼及周边势力的威胁,科托尔于1420年归附威尼斯共和国。威尼斯随后将统治扩展到布德瓦等沿海地区,称之为“威尼斯阿尔巴尼亚”。在持续到1797年的威尼斯统治下,科托尔的宏伟城墙得到扩建,海湾的航海城镇日益繁荣。",
+    "ja": "オスマンや周辺勢力の脅威から保護を求めたコトルは、1420年にヴェネツィア共和国の支配下に入った。ヴェネツィアはまもなくブドヴァなど沿岸の他の地域にも支配を広げ、これを「ヴェネツィア領アルバニア」と呼んだ。1797年まで続いたヴェネツィア支配の下で、コトルの巨大な城壁は拡張され、湾の航海の町々は繁栄した。"
+   }
+  },
+  {
+   "year": 1421,
+   "qid": "Q878319",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Zeta passes to the Serbian Despotate",
+    "ko": "제타, 세르비아 전제공국으로",
+    "zh": "泽塔归属塞尔维亚专制公国",
+    "ja": "ゼタ、セルビア専制公国へ"
+   },
+   "description": {
+    "en": "When Balša III, the last of the Balšić line, died in 1421, he bequeathed Zeta to his uncle, Despot Stefan Lazarević of Serbia. The Despotate fought Venice for the coastal towns and governed Zeta through local nobles. As Serbian power waned, the Crnojević family rose to leadership in Zeta by the mid-15th century.",
+    "ko": "1421년 발시치 가문의 마지막 군주 발샤 3세가 죽으면서 제타를 외삼촌인 세르비아의 전제공 스테판 라자레비치에게 물려주었다. 전제공국은 해안 도시들을 두고 베네치아와 싸웠고 현지 귀족을 통해 제타를 다스렸다. 세르비아의 힘이 약해지자 15세기 중엽 츠르노예비치 가문이 제타의 지도자로 떠올랐다.",
+    "zh": "1421年,巴尔希奇家族最后一位统治者巴尔沙三世去世,将泽塔遗赠给其舅父塞尔维亚专制君主斯特凡·拉扎雷维奇。专制公国与威尼斯争夺沿海城镇,并通过当地贵族治理泽塔。随着塞尔维亚势力衰落,茨尔诺耶维奇家族在15世纪中叶成为泽塔的领导者。",
+    "ja": "1421年、バルシッチ家最後の君主バルシャ3世が死に、ゼタを母方の叔父であるセルビアの専制公ステファン・ラザレヴィチに遺贈した。専制公国は沿岸都市をめぐってヴェネツィアと争い、在地貴族を通じてゼタを統治した。セルビアの勢力が衰えると、15世紀半ばにはツルノイェヴィチ家がゼタの指導者として台頭した。"
+   }
+  },
+  {
+   "year": 1465,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ivan Crnojević becomes lord of Zeta",
+    "ko": "이반 츠르노예비치, 제타의 영주가 되다",
+    "zh": "伊万·茨尔诺耶维奇成为泽塔领主",
+    "ja": "イヴァン・ツルノイェヴィチ、ゼタの領主に"
+   },
+   "description": {
+    "en": "In 1465 Ivan Crnojević succeeded his father Stefan as lord of Zeta. He initially allied with Venice against the Ottomans, but after the Venetian–Ottoman peace of 1479 he had to face the Turks largely alone. Remembered in folk tradition as 'Ivan-beg', he became a founding figure of Montenegrin identity.",
+    "ko": "1465년 이반 츠르노예비치는 아버지 스테판의 뒤를 이어 제타의 영주가 되었다. 그는 처음에 베네치아와 손잡고 오스만에 맞섰지만, 1479년 베네치아와 오스만이 강화한 뒤로는 사실상 홀로 튀르크와 맞서야 했다. 민간 전승에서 '이반 베그'로 기억되는 그는 몬테네그로 정체성의 시조적 인물이 되었다.",
+    "zh": "1465年,伊万·茨尔诺耶维奇继其父斯特凡之后成为泽塔领主。他起初与威尼斯结盟对抗奥斯曼,但1479年威尼斯与奥斯曼媾和后,他基本上只能独自面对土耳其人。在民间传说中被称为“伊万贝格”的他,成为黑山认同的奠基性人物。",
+    "ja": "1465年、イヴァン・ツルノイェヴィチは父ステファンの跡を継いでゼタの領主となった。当初はヴェネツィアと結んでオスマンに対抗したが、1479年にヴェネツィアとオスマンが講和すると、ほぼ単独でトルコと向き合わざるをえなかった。民間伝承で「イヴァン・ベグ」として記憶される彼は、モンテネグロのアイデンティティの始祖的人物となった。"
+   }
+  },
+  {
+   "year": 1482,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ivan Crnojević founds Cetinje",
+    "ko": "이반 츠르노예비치의 체티녜 건설",
+    "zh": "伊万·茨尔诺耶维奇建立采蒂涅",
+    "ja": "イヴァン・ツルノイェヴィチ、ツェティニェを建設"
+   },
+   "description": {
+    "en": "Retreating before the Ottomans from his seat at Žabljak on Lake Skadar, Ivan Crnojević moved his court into the mountains and founded Cetinje in 1482, building a monastery there in 1484. Protected by the Lovćen massif, Cetinje became the historic capital and spiritual heart of Montenegro. It remained the seat of Montenegrin rulers until 1918.",
+    "ko": "오스만에 밀려 스카다르 호숫가의 거점 자블랴크에서 물러난 이반 츠르노예비치는 궁정을 산지로 옮겨 1482년 체티녜를 세웠고, 1484년 그곳에 수도원을 지었다. 로브첸 산괴에 보호받는 체티녜는 몬테네그로의 역사적 수도이자 정신적 중심이 되었다. 이곳은 1918년까지 몬테네그로 통치자들의 거처였다.",
+    "zh": "伊万·茨尔诺耶维奇在奥斯曼进逼下从斯库台湖畔的驻地扎布利亚克撤退,将宫廷迁入山区,于1482年建立采蒂涅,并于1484年在此修建修道院。受洛夫琴山保护的采蒂涅成为黑山的历史首都和精神中心,直到1918年一直是黑山统治者的驻地。",
+    "ja": "オスマンに押されてスカダル湖畔の拠点ジャブリャクから退いたイヴァン・ツルノイェヴィチは、宮廷を山地に移して1482年にツェティニェを築き、1484年にはそこに修道院を建てた。ロヴチェン山塊に守られたツェティニェはモンテネグロの歴史的首都かつ精神的中心となり、1918年まで歴代統治者の居所であった。"
+   }
+  },
+  {
+   "year": 1482,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ottomans take Herceg Novi",
+    "ko": "오스만의 헤르체그노비 점령",
+    "zh": "奥斯曼攻占新海尔采格",
+    "ja": "オスマン、ヘルツェグ・ノヴィを占領"
+   },
+   "description": {
+    "en": "In 1482 Ottoman forces captured Herceg Novi, the last stronghold of the Kosača family's Duchy of Saint Sava. The fall of the town completed the Ottoman conquest of Herzegovina and gave the empire a foothold at the mouth of the Bay of Kotor. Apart from a brief Spanish occupation in 1538–1539, it stayed Ottoman until 1687.",
+    "ko": "1482년 오스만군은 코사차 가문의 성 사바 공국의 마지막 거점인 헤르체그노비를 점령했다. 이로써 오스만의 헤르체고비나 정복이 완료되었고, 제국은 코토르만 입구에 발판을 얻었다. 1538~1539년의 짧은 에스파냐 점령을 제외하면 이 도시는 1687년까지 오스만령으로 남았다.",
+    "zh": "1482年,奥斯曼军攻占科萨查家族圣萨瓦公国的最后据点新海尔采格。该城陷落标志着奥斯曼对黑塞哥维那的征服完成,帝国由此在科托尔湾口取得立足点。除1538至1539年短暂被西班牙占领外,该城一直属于奥斯曼直至1687年。",
+    "ja": "1482年、オスマン軍はコサチャ家の聖サワ公国の最後の拠点ヘルツェグ・ノヴィを占領した。この陥落によりオスマンのヘルツェゴヴィナ征服は完了し、帝国はコトル湾の入口に足場を得た。1538〜1539年の短いスペインの占領を除き、町は1687年までオスマン領であった。"
+   }
+  },
+  {
+   "year": 1494,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Oktoih, first South Slavic printed book",
+    "ko": "남슬라브 최초의 인쇄본 '옥토이흐'",
+    "zh": "南斯拉夫地区首部印刷书《八调经》",
+    "ja": "南スラヴ初の印刷本『オクトイフ』"
+   },
+   "description": {
+    "en": "In 1494 the printing press of Đurađ Crnojević at Cetinje, run by the monk Makarije, completed the Oktoih (Octoechos), the first Cyrillic book printed among the South Slavs. It came only about four decades after Gutenberg's Bible. The press produced several liturgical books before Ottoman conquest ended its work, and it is a landmark of Montenegrin culture.",
+    "ko": "1494년 수도사 마카리예가 운영하던 체티녜의 주라지 츠르노예비치 인쇄소가 남슬라브권 최초의 키릴 문자 인쇄본인 '옥토이흐'(팔조경)를 완성했다. 구텐베르크 성경 이후 불과 약 40년 만의 일이었다. 이 인쇄소는 오스만의 정복으로 활동이 끝나기 전까지 여러 전례서를 펴냈으며, 몬테네그로 문화의 기념비로 꼽힌다.",
+    "zh": "1494年,由修士马卡里耶主持的采蒂涅久拉吉·茨尔诺耶维奇印刷所完成了《八调经》(奥克托伊赫),这是南部斯拉夫人首部西里尔字母印刷书,距古腾堡圣经问世仅约四十年。该印刷所在奥斯曼征服使其停业前印行了数部礼仪书籍,被视为黑山文化的里程碑。",
+    "ja": "1494年、修道士マカリイェが運営するツェティニェのジュラジ・ツルノイェヴィチの印刷所が、南スラヴ圏初のキリル文字印刷本『オクトイフ』(八調経)を完成させた。グーテンベルク聖書からわずか40年ほど後のことであった。印刷所はオスマンの征服で活動を終えるまでに複数の典礼書を刊行し、モンテネグロ文化の金字塔とされる。"
+   }
+  },
+  {
+   "year": 1496,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Ottoman conquest of Zeta",
+    "ko": "오스만의 제타 정복",
+    "zh": "奥斯曼征服泽塔",
+    "ja": "オスマンのゼタ征服"
+   },
+   "description": {
+    "en": "In 1496 Đurađ Crnojević, the last independent lord of Zeta, fled to Venice, and by 1499 the Ottomans had incorporated his lands into the Sanjak of Scutari. The end of the Crnojević state brought Montenegro under Ottoman sovereignty for centuries. Yet the poor, mountainous core around Cetinje proved hard to govern and kept a large degree of clan self-rule.",
+    "ko": "1496년 제타의 마지막 독립 영주 주라지 츠르노예비치는 베네치아로 망명했고, 1499년까지 오스만은 그의 땅을 스쿠타리 산자크에 편입했다. 츠르노예비치 국가의 종말로 몬테네그로는 수 세기 동안 오스만의 주권 아래 놓였다. 그러나 체티녜 주변의 척박한 산악 중심부는 통치하기 어려워 상당한 씨족 자치를 유지했다.",
+    "zh": "1496年,泽塔最后一位独立领主久拉吉·茨尔诺耶维奇流亡威尼斯,至1499年奥斯曼已将其领地并入斯库台桑贾克。茨尔诺耶维奇国家的终结使黑山在此后数百年间处于奥斯曼主权之下。然而采蒂涅周边贫瘠的山地核心区难以治理,保留了相当程度的氏族自治。",
+    "ja": "1496年、ゼタ最後の独立した領主ジュラジ・ツルノイェヴィチはヴェネツィアへ亡命し、1499年までにオスマンはその領地をシュコドラ県に編入した。ツルノイェヴィチ国家の終焉により、モンテネグロは何世紀にもわたりオスマンの主権下に置かれた。しかしツェティニェ周辺の貧しい山岳中心部は統治が難しく、氏族による自治が大きく保たれた。"
+   }
+  },
+  {
+   "year": 1514,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sanjak of Montenegro",
+    "ko": "몬테네그로 산자크 설치",
+    "zh": "设立黑山桑贾克",
+    "ja": "モンテネグロ県の設置"
+   },
+   "description": {
+    "en": "In 1514 the Ottomans detached Montenegro from the Sanjak of Scutari and made it a separate sanjak under Staniša Crnojević, a son of Ivan Crnojević who had converted to Islam and was known as Skenderbeg Crnojević. He governed the mountainous region until his death in 1528, after which it was reattached to Scutari. The arrangement reflected the difficulty of ruling the highland clans directly.",
+    "ko": "1514년 오스만은 몬테네그로를 스쿠타리 산자크에서 떼어 내 별도의 산자크로 삼고, 이슬람으로 개종해 스켄데르베그 츠르노예비치로 알려진 이반 츠르노예비치의 아들 스타니샤에게 맡겼다. 그는 1528년 죽을 때까지 이 산악 지역을 다스렸고, 그 후 이곳은 다시 스쿠타리에 편입되었다. 이 조치는 고지대 씨족을 직접 통치하기 어려웠음을 보여 준다.",
+    "zh": "1514年,奥斯曼将黑山从斯库台桑贾克中分出,另设桑贾克,交由伊万·茨尔诺耶维奇之子斯塔尼沙治理。他已皈依伊斯兰教,人称斯坎德贝格·茨尔诺耶维奇,统治这片山区直至1528年去世,此后该地重新并入斯库台。这一安排反映出直接统治高地氏族的困难。",
+    "ja": "1514年、オスマンはモンテネグロをシュコドラ県から切り離して独立した県とし、イスラームに改宗してスケンデルベグ・ツルノイェヴィチと呼ばれたイヴァン・ツルノイェヴィチの息子スタニシャに委ねた。彼は1528年に死ぬまでこの山岳地域を治め、その後同地は再びシュコドラ県に編入された。この措置は高地の氏族を直接統治することの難しさを示している。"
+   }
+  },
+  {
+   "year": 1539,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Siege of Castelnuovo",
+    "ko": "카스텔누오보 공방전",
+    "zh": "新堡围攻战",
+    "ja": "カステルヌオーヴォの包囲戦"
+   },
+   "description": {
+    "en": "In 1538 forces of the Holy League seized Herceg Novi (Castelnuovo) from the Ottomans, and a Spanish garrison was left to hold it. In 1539 the Ottoman fleet under Hayreddin Barbarossa besieged the town and destroyed the Spanish garrison after a fierce defense, restoring Ottoman control. The siege became one of the most famous episodes of the 16th-century Mediterranean wars.",
+    "ko": "1538년 신성동맹군은 오스만으로부터 헤르체그노비(카스텔누오보)를 빼앗았고, 에스파냐 수비대가 이곳을 지키게 되었다. 1539년 하이레딘 바르바로스가 이끄는 오스만 함대가 도시를 포위해 치열하게 저항한 에스파냐 수비대를 궤멸시키고 다시 장악했다. 이 공방전은 16세기 지중해 전쟁의 가장 유명한 사건 가운데 하나가 되었다.",
+    "zh": "1538年,神圣同盟军从奥斯曼手中夺取新海尔采格(新堡),由西班牙守军驻守。1539年,海雷丁·巴巴罗萨率领的奥斯曼舰队围攻该城,在守军顽强抵抗后将西班牙守军全歼,重新控制该城。这次围攻成为16世纪地中海战争中最著名的事件之一。",
+    "ja": "1538年、神聖同盟軍はオスマンからヘルツェグ・ノヴィ(カステルヌオーヴォ)を奪い、スペイン守備隊がこれを守ることになった。1539年、ハイレッディン・バルバロッサ率いるオスマン艦隊が町を包囲し、激しく抵抗したスペイン守備隊を壊滅させて支配を回復した。この包囲戦は16世紀地中海の戦争で最も有名な出来事の一つとなった。"
+   }
+  },
+  {
+   "year": 1571,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ottomans capture Bar and Ulcinj",
+    "ko": "오스만, 바르와 울치니 점령",
+    "zh": "奥斯曼攻占巴尔和乌尔齐尼",
+    "ja": "オスマン、バールとウルツィニを占領"
+   },
+   "description": {
+    "en": "During the war over Cyprus in 1571, the Ottomans took the Venetian-held ports of Ulcinj and Bar. Ulcinj became a notorious base for corsairs operating in the Adriatic, while Bar remained Ottoman until 1878. Venice kept only the Bay of Kotor and Budva on the Montenegrin coast.",
+    "ko": "키프로스를 둘러싼 전쟁 중이던 1571년 오스만은 베네치아령 항구 울치니와 바르를 점령했다. 울치니는 아드리아해에서 활동하는 해적의 악명 높은 근거지가 되었고, 바르는 1878년까지 오스만령으로 남았다. 베네치아는 몬테네그로 해안에서 코토르만과 부드바만 지켰다.",
+    "zh": "1571年塞浦路斯战争期间,奥斯曼夺取了威尼斯控制的港口乌尔齐尼和巴尔。乌尔齐尼成为在亚得里亚海活动的海盗的著名据点,巴尔则直到1878年都属于奥斯曼。威尼斯在黑山沿海只保住了科托尔湾和布德瓦。",
+    "ja": "キプロスをめぐる戦争中の1571年、オスマンはヴェネツィア領の港ウルツィニとバールを占領した。ウルツィニはアドリア海で活動する海賊の悪名高い根拠地となり、バールは1878年までオスマン領であった。ヴェネツィアはモンテネグロ沿岸ではコトル湾とブドヴァのみを保った。"
+   }
+  },
+  {
+   "year": 1667,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Great earthquake strikes Kotor",
+    "ko": "코토르 대지진",
+    "zh": "科托尔大地震",
+    "ja": "コトル大地震"
+   },
+   "description": {
+    "en": "On 6 April 1667 a powerful earthquake centered near Dubrovnik devastated the southern Adriatic coast, causing heavy damage and loss of life in Kotor and the towns of the bay. Much of Kotor, including its cathedral, had to be rebuilt. The reconstruction gave the old town many of the baroque features seen today.",
+    "ko": "1667년 4월 6일 두브로브니크 부근을 진앙으로 한 강진이 아드리아해 남부 연안을 휩쓸어 코토르와 만 연안 도시들에 큰 피해와 인명 손실을 낳았다. 대성당을 포함한 코토르의 많은 부분을 다시 지어야 했다. 이 재건으로 구시가는 오늘날 볼 수 있는 바로크적 특징을 많이 갖게 되었다.",
+    "zh": "1667年4月6日,一场以杜布罗夫尼克附近为震中的强烈地震重创亚得里亚海南岸,科托尔及海湾沿岸城镇损失惨重、伤亡众多。科托尔包括大教堂在内的大部分建筑不得不重建。这次重建赋予老城许多今日可见的巴洛克特色。",
+    "ja": "1667年4月6日、ドゥブロヴニク付近を震源とする強い地震がアドリア海南部沿岸を襲い、コトルと湾岸の町々に大きな被害と犠牲をもたらした。大聖堂を含むコトルの多くの部分が再建を余儀なくされた。この再建により旧市街は今日見られるバロック的な特徴を多く備えることになった。"
+   }
+  },
+  {
+   "year": 1676,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Sabbatai Zevi dies in exile in Ulcinj",
+    "ko": "사바타이 체비, 울치니 유배 중 사망",
+    "zh": "沙巴泰·泽维在乌尔齐尼流放中去世",
+    "ja": "サバタイ・ツヴィ、ウルツィニの流刑地で死去"
+   },
+   "description": {
+    "en": "Sabbatai Zevi, the self-proclaimed Jewish messiah who had converted to Islam under Ottoman pressure in 1666, was exiled by the sultan to Ulcinj in 1673. He died there in 1676. His movement, which had shaken Jewish communities across Europe and the Middle East, survived among followers such as the Dönmeh.",
+    "ko": "1666년 오스만의 압력으로 이슬람으로 개종한 자칭 유대교 메시아 사바타이 체비는 1673년 술탄에 의해 울치니로 유배되었다. 그는 1676년 그곳에서 사망했다. 유럽과 중동의 유대인 공동체를 뒤흔든 그의 운동은 된메 등 추종자들 사이에 살아남았다.",
+    "zh": "自称犹太弥赛亚的沙巴泰·泽维在1666年迫于奥斯曼压力皈依伊斯兰教,1673年被苏丹流放至乌尔齐尼,1676年在当地去世。他曾震动欧洲和中东犹太社群的运动,在东梅派等追随者中延续下来。",
+    "ja": "自らユダヤ教のメシアを称したサバタイ・ツヴィは、1666年にオスマンの圧力でイスラームに改宗し、1673年にスルタンによってウルツィニへ流された。彼は1676年にその地で死去した。ヨーロッパと中東のユダヤ人社会を揺るがした彼の運動は、デンメなどの信奉者の間で存続した。"
+   }
+  },
+  {
+   "year": 1687,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Venice takes Herceg Novi",
+    "ko": "베네치아의 헤르체그노비 점령",
+    "zh": "威尼斯攻占新海尔采格",
+    "ja": "ヴェネツィア、ヘルツェグ・ノヴィを奪取"
+   },
+   "description": {
+    "en": "During the Morean War between the Holy League and the Ottomans, Venetian forces supported by local fighters captured Herceg Novi in 1687. The whole Bay of Kotor was thus united under Venice. The Montenegrin highlanders took part in the war on the Venetian side, which brought Ottoman reprisals on Cetinje.",
+    "ko": "신성동맹과 오스만 사이의 모레아 전쟁 중, 현지 전사들의 지원을 받은 베네치아군은 1687년 헤르체그노비를 점령했다. 이로써 코토르만 전체가 베네치아 아래 통합되었다. 몬테네그로 고지대 주민들은 베네치아 편에서 전쟁에 참여했고, 이는 체티녜에 대한 오스만의 보복을 불렀다.",
+    "zh": "在神圣同盟与奥斯曼之间的摩里亚战争中,得到当地战士支援的威尼斯军于1687年攻占新海尔采格,整个科托尔湾由此统一于威尼斯治下。黑山高地居民站在威尼斯一方参战,招致奥斯曼对采蒂涅的报复。",
+    "ja": "神聖同盟とオスマンの間のモレア戦争中、現地の戦士に支援されたヴェネツィア軍は1687年にヘルツェグ・ノヴィを占領した。これによりコトル湾全体がヴェネツィアの下に統合された。モンテネグロの高地住民はヴェネツィア側で参戦し、それがツェティニェへのオスマンの報復を招いた。"
+   }
+  },
+  {
+   "year": 1692,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Cetinje Monastery destroyed",
+    "ko": "체티녜 수도원 파괴",
+    "zh": "采蒂涅修道院被毁",
+    "ja": "ツェティニェ修道院の破壊"
+   },
+   "description": {
+    "en": "In 1692, during the Morean War, an Ottoman army from Scutari attacked Cetinje, and the monastery founded by Ivan Crnojević was destroyed. The loss of the spiritual center was a severe blow to the Montenegrins. Vladika Danilo I later rebuilt the monastery on a new site in the early 18th century.",
+    "ko": "모레아 전쟁 중이던 1692년 스쿠타리의 오스만군이 체티녜를 공격했고, 이반 츠르노예비치가 세운 수도원은 파괴되었다. 정신적 중심을 잃은 것은 몬테네그로인에게 큰 타격이었다. 블라디카 다닐로 1세는 18세기 초 새 자리에 수도원을 재건했다.",
+    "zh": "1692年摩里亚战争期间,来自斯库台的奥斯曼军进攻采蒂涅,伊万·茨尔诺耶维奇所建的修道院被毁。精神中心的丧失对黑山人是沉重打击。弗拉迪卡达尼洛一世于18世纪初在新址重建了修道院。",
+    "ja": "モレア戦争中の1692年、シュコドラのオスマン軍がツェティニェを攻撃し、イヴァン・ツルノイェヴィチが建てた修道院は破壊された。精神的中心の喪失はモンテネグロ人にとって大きな打撃であった。ヴラディカのダニロ1世は18世紀初めに新たな場所に修道院を再建した。"
+   }
+  },
+  {
+   "year": 1697,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Danilo I begins Petrović-Njegoš rule",
+    "ko": "다닐로 1세와 페트로비치-녜고시 왕조의 시작",
+    "zh": "达尼洛一世开创彼得罗维奇-涅戈什王朝",
+    "ja": "ダニロ1世、ペトロヴィチ=ニェゴシュ朝を開く"
+   },
+   "description": {
+    "en": "In 1697 Danilo Petrović of Njeguši was chosen vladika (prince-bishop) of Cetinje, founding the Petrović-Njegoš dynasty. As celibate bishops, the vladikas passed power from uncle to nephew. The dynasty led Montenegro's theocratic state and its resistance to the Ottomans, and as secular princes and kings ruled until 1918.",
+    "ko": "1697년 녜구시 출신의 다닐로 페트로비치가 체티녜의 블라디카(주교공)로 선출되어 페트로비치-녜고시 왕조를 열었다. 독신 주교인 블라디카들은 권력을 삼촌에서 조카로 물려주었다. 이 왕조는 몬테네그로의 신정 국가와 반오스만 항쟁을 이끌었고, 세속 군주와 국왕으로서 1918년까지 다스렸다.",
+    "zh": "1697年,出身涅古希的达尼洛·彼得罗维奇被推选为采蒂涅的弗拉迪卡(主教公),开创彼得罗维奇-涅戈什王朝。由于主教须守独身,权位由叔父传给侄子。该王朝领导黑山的政教合一政权和反奥斯曼斗争,后又以世俗亲王和国王身份统治至1918年。",
+    "ja": "1697年、ニェグシ出身のダニロ・ペトロヴィチがツェティニェのヴラディカ(主教公)に選ばれ、ペトロヴィチ=ニェゴシュ朝を開いた。独身の主教であるヴラディカは、権力を叔父から甥へと継承した。この王朝はモンテネグロの神政国家と対オスマン闘争を率い、のちには世俗の公・国王として1918年まで統治した。"
+   }
+  },
+  {
+   "year": 1711,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Alliance with Peter the Great's Russia",
+    "ko": "표트르 대제의 러시아와 동맹",
+    "zh": "与彼得大帝的俄国结盟",
+    "ja": "ピョートル大帝のロシアとの同盟"
+   },
+   "description": {
+    "en": "In 1711, during his war against the Ottomans, Tsar Peter the Great called on the Balkan Christians to rise, and Vladika Danilo I led the Montenegrins into action against the Turks. Danilo later visited Russia, which began to provide subsidies to Montenegro. The bond with Russia became a pillar of Montenegrin policy for two centuries.",
+    "ko": "1711년 오스만과 전쟁 중이던 표트르 대제는 발칸의 그리스도교도에게 봉기를 호소했고, 블라디카 다닐로 1세는 몬테네그로인을 이끌고 튀르크에 맞서 싸웠다. 다닐로는 훗날 러시아를 방문했고, 러시아는 몬테네그로에 보조금을 지원하기 시작했다. 러시아와의 유대는 두 세기 동안 몬테네그로 정책의 기둥이 되었다.",
+    "zh": "1711年,彼得大帝在对奥斯曼作战期间号召巴尔干基督徒起义,弗拉迪卡达尼洛一世率领黑山人对土耳其人展开行动。达尼洛后来访问俄国,俄国开始向黑山提供资助。与俄国的纽带此后两百年间成为黑山政策的支柱。",
+    "ja": "1711年、オスマンと戦争中のピョートル大帝はバルカンのキリスト教徒に蜂起を呼びかけ、ヴラディカのダニロ1世はモンテネグロ人を率いてトルコに対して戦った。ダニロはのちにロシアを訪れ、ロシアはモンテネグロへの援助金を始めた。ロシアとの絆は2世紀にわたりモンテネグロの政策の柱となった。"
+   }
+  },
+  {
+   "year": 1714,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ottoman punitive expedition",
+    "ko": "오스만의 징벌 원정",
+    "zh": "奥斯曼的惩罚性远征",
+    "ja": "オスマンの懲罰遠征"
+   },
+   "description": {
+    "en": "In 1714, in retaliation for the Montenegrin uprising, an Ottoman army under Numan Pasha Köprülü invaded Montenegro, burned villages and again ravaged Cetinje. Many Montenegrins were killed or enslaved, and Danilo I had to take refuge abroad. The highlanders nevertheless recovered and resumed their resistance.",
+    "ko": "1714년 몬테네그로의 봉기에 대한 보복으로 누만 파샤 쾨프륄뤼가 이끄는 오스만군이 몬테네그로를 침공해 마을을 불태우고 체티녜를 다시 짓밟았다. 많은 몬테네그로인이 죽거나 노예로 끌려갔고 다닐로 1세는 국외로 피신해야 했다. 그래도 고지대 주민들은 회복해 저항을 이어 갔다.",
+    "zh": "1714年,为报复黑山起义,努曼帕夏·柯普吕律率领奥斯曼军入侵黑山,焚烧村庄并再次蹂躏采蒂涅。许多黑山人被杀或沦为奴隶,达尼洛一世被迫流亡国外。但高地居民很快恢复元气并继续抵抗。",
+    "ja": "1714年、モンテネグロの蜂起への報復として、ヌーマン・パシャ・キョプリュリュ率いるオスマン軍がモンテネグロに侵攻し、村々を焼き払い再びツェティニェを荒廃させた。多くのモンテネグロ人が殺されたり奴隷にされたりし、ダニロ1世は国外へ避難しなければならなかった。それでも高地の人々は立ち直り、抵抗を再開した。"
+   }
+  },
+  {
+   "year": 1767,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Šćepan Mali, the impostor tsar",
+    "ko": "가짜 차르 셰판 말리",
+    "zh": "冒牌沙皇小斯切潘",
+    "ja": "偽ツァーリ、シュチェパン・マリ"
+   },
+   "description": {
+    "en": "A mysterious stranger known as Šćepan Mali ('Stephen the Little'), who let it be believed that he was the murdered Russian emperor Peter III, was accepted as ruler by the Montenegrin clans in 1767. He strengthened central authority, curbed blood feuds and survived Ottoman and Venetian attacks. He was murdered in 1773, apparently at the instigation of the Pasha of Scutari.",
+    "ko": "자신이 살해된 러시아 황제 표트르 3세라고 믿게 만든 정체불명의 이방인 셰판 말리('작은 스테판')가 1767년 몬테네그로 씨족들에게 통치자로 받아들여졌다. 그는 중앙 권력을 강화하고 피의 복수를 억제했으며 오스만과 베네치아의 공격을 견뎌 냈다. 그는 1773년 스쿠타리 파샤의 사주로 보이는 암살로 생을 마쳤다.",
+    "zh": "一位人称“小斯切潘”的神秘外乡人让人相信他就是遇害的俄国皇帝彼得三世,于1767年被黑山各氏族奉为统治者。他加强中央权威、遏制血亲复仇,并顶住了奥斯曼和威尼斯的进攻。1773年他遇刺身亡,据信系斯库台帕夏所指使。",
+    "ja": "殺害されたロシア皇帝ピョートル3世だと人々に信じさせた謎の異邦人シュチェパン・マリ(「小さなステファン」)は、1767年にモンテネグロの諸氏族から統治者として受け入れられた。彼は中央権力を強化し、血讐を抑え、オスマンとヴェネツィアの攻撃をしのいだ。彼は1773年、シュコドラのパシャの差し金とみられる暗殺で命を落とした。"
+   }
+  },
+  {
+   "year": 1796,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Victories at Martinići and Krusi",
+    "ko": "마르티니치와 크루시의 승리",
+    "zh": "马蒂尼契与克鲁西大捷",
+    "ja": "マルティニチとクルシの勝利"
+   },
+   "description": {
+    "en": "In 1796 Montenegrins under Vladika Petar I Petrović-Njegoš defeated the powerful Pasha of Scutari, Kara Mahmud Bushati, at Martinići and then at Krusi, where the pasha himself was killed. The victories confirmed Montenegro's de facto independence. They also brought the Brda tribes, such as the Piperi and Bjelopavlići, into union with Old Montenegro.",
+    "ko": "1796년 블라디카 페타르 1세 페트로비치-녜고시가 이끄는 몬테네그로인들은 스쿠타리의 강력한 파샤 카라 마흐무드 부샤티를 마르티니치에서, 이어 크루시에서 격파했으며 크루시에서는 파샤 본인이 전사했다. 이 승리로 몬테네그로의 사실상 독립이 굳어졌다. 또한 피페리, 벨로파블리치 등 브르다 부족이 구 몬테네그로와 통합되었다.",
+    "zh": "1796年,弗拉迪卡彼得一世·彼得罗维奇-涅戈什率领黑山人先在马蒂尼契、后在克鲁西击败强大的斯库台帕夏卡拉·马哈茂德·布沙蒂,帕夏本人在克鲁西阵亡。这些胜利巩固了黑山事实上的独立,并使皮佩里、别洛帕夫利奇等布尔达部落与旧黑山联合。",
+    "ja": "1796年、ヴラディカのペタル1世ペトロヴィチ=ニェゴシュ率いるモンテネグロ人は、シュコドラの強大なパシャ、カラ・マフムト・ブシャティをマルティニチで、次いでクルシで破り、クルシではパシャ自身が戦死した。この勝利でモンテネグロの事実上の独立が固まった。またピペリやビェロパヴリチなどのブルダ諸部族が旧モンテネグロと統合された。"
+   }
+  },
+  {
+   "year": 1797,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fall of Venice: the Bay of Kotor goes to Austria",
+    "ko": "베네치아 멸망과 코토르만의 오스트리아 귀속",
+    "zh": "威尼斯灭亡,科托尔湾归奥地利",
+    "ja": "ヴェネツィア滅亡とコトル湾のオーストリア帰属"
+   },
+   "description": {
+    "en": "When Napoleon ended the Republic of Venice in 1797, the Treaty of Campo Formio assigned its eastern Adriatic possessions, including the Bay of Kotor and Budva, to Austria. Nearly four centuries of Venetian rule on the Montenegrin coast came to an end. The bay would change hands several times during the Napoleonic Wars.",
+    "ko": "1797년 나폴레옹이 베네치아 공화국을 끝장내자, 캄포포르미오 조약은 코토르만과 부드바를 포함한 아드리아해 동부의 베네치아령을 오스트리아에 넘겼다. 몬테네그로 해안에서 거의 4세기에 걸친 베네치아 지배가 끝났다. 이 만은 나폴레옹 전쟁 동안 여러 차례 주인이 바뀌게 된다.",
+    "zh": "1797年拿破仑终结威尼斯共和国,《坎波福尔米奥条约》将包括科托尔湾和布德瓦在内的威尼斯亚得里亚海东岸领地划归奥地利。威尼斯在黑山沿海近四百年的统治就此结束。在拿破仑战争期间,该海湾又数度易手。",
+    "ja": "1797年にナポレオンがヴェネツィア共和国を終わらせると、カンポ・フォルミオ条約はコトル湾とブドヴァを含むアドリア海東岸のヴェネツィア領をオーストリアに割り当てた。モンテネグロ沿岸における約4世紀のヴェネツィア支配は終わった。湾はナポレオン戦争の間に何度も支配者を変えることになる。"
+   }
+  },
+  {
+   "year": 1798,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Code of Petar I",
+    "ko": "페타르 1세 법전",
+    "zh": "彼得一世法典",
+    "ja": "ペタル1世法典"
+   },
+   "description": {
+    "en": "In 1798 an assembly of Montenegrin chiefs in Cetinje adopted the law code of Petar I, the first written legal code of the Montenegrin state, extended in 1803. It set penalties for crimes such as murder and theft and sought to limit blood feuds. A central court (kuluk) of clan chiefs was created to enforce it.",
+    "ko": "1798년 체티녜에 모인 몬테네그로 족장 회의는 몬테네그로 국가 최초의 성문 법전인 페타르 1세 법전을 채택했고, 이 법전은 1803년 보완되었다. 법전은 살인·절도 등의 범죄에 대한 형벌을 정하고 피의 복수를 억제하려 했다. 이를 집행하기 위해 족장들로 구성된 중앙 법정(쿨루크)이 설치되었다.",
+    "zh": "1798年,黑山各族首领在采蒂涅召开大会,通过了黑山国家第一部成文法典——彼得一世法典,并于1803年加以补充。该法典规定了对谋杀、盗窃等罪行的惩处,力图限制血亲复仇。为执行法典,设立了由氏族首领组成的中央法庭(库卢克)。",
+    "ja": "1798年、ツェティニェに集まったモンテネグロの首長会議は、モンテネグロ国家最初の成文法典であるペタル1世法典を採択し、1803年に補完された。法典は殺人や窃盗などの犯罪に対する刑罰を定め、血讐の抑制を図った。これを執行するため、首長たちからなる中央法廷(クルク)が設けられた。"
+   }
+  },
+  {
+   "year": 1806,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Montenegrins and Russians fight the French",
+    "ko": "몬테네그로·러시아군의 대프랑스 전투",
+    "zh": "黑山人与俄军抗击法军",
+    "ja": "モンテネグロ・ロシア軍の対仏戦"
+   },
+   "description": {
+    "en": "When the Bay of Kotor was assigned to Napoleon's France in 1805, a Russian squadron under Admiral Senyavin occupied it in 1806 with the support of Petar I's Montenegrins. Together they fought the French around Dubrovnik and in the bay. The Treaty of Tilsit in 1807 forced the Russians to withdraw and hand the bay to France.",
+    "ko": "1805년 코토르만이 나폴레옹의 프랑스에 할양되자, 1806년 세냐빈 제독이 이끄는 러시아 함대가 페타르 1세의 몬테네그로군의 지원을 받아 이곳을 점령했다. 이들은 두브로브니크 일대와 만에서 함께 프랑스군과 싸웠다. 1807년 틸지트 조약으로 러시아군은 철수하고 만을 프랑스에 넘겨야 했다.",
+    "zh": "1805年科托尔湾被划给拿破仑的法国,1806年谢尼亚文海军上将率领的俄国舰队在彼得一世麾下黑山人的支援下占领该湾。双方联手在杜布罗夫尼克一带和海湾内与法军作战。1807年《蒂尔西特和约》迫使俄军撤离并将海湾交给法国。",
+    "ja": "1805年にコトル湾がナポレオンのフランスに割譲されると、1806年にセニャーヴィン提督率いるロシア艦隊がペタル1世のモンテネグロ軍の支援を得てこれを占領した。彼らはドゥブロヴニク周辺や湾内でともにフランス軍と戦った。1807年のティルジット条約によりロシア軍は撤退し、湾をフランスに引き渡さざるをえなかった。"
+   }
+  },
+  {
+   "year": 1813,
+   "qid": "Q16259251",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siege of Kotor and short-lived union with the Boka",
+    "ko": "코토르 포위와 보카와의 짧은 통합",
+    "zh": "围攻科托尔与短暂合并博卡",
+    "ja": "コトル包囲とボカとの短い統合"
+   },
+   "description": {
+    "en": "As Napoleon's power collapsed in 1813, Montenegrins and insurgents of the Bay of Kotor rose against the French, and an assembly at Dobrota proclaimed the union of the Boka with Montenegro. With the help of a British naval force, they besieged the French garrison in Kotor, which surrendered in early 1814. The great powers, however, handed the bay to Austria, ending the union.",
+    "ko": "1813년 나폴레옹의 세력이 무너지자 몬테네그로인과 코토르만 봉기군이 프랑스에 맞서 일어났고, 도브로타 회의는 보카와 몬테네그로의 통합을 선포했다. 이들은 영국 해군의 도움으로 코토르의 프랑스 수비대를 포위했고, 수비대는 1814년 초 항복했다. 그러나 열강이 만을 오스트리아에 넘기면서 통합은 끝났다.",
+    "zh": "1813年拿破仑势力崩溃之际,黑山人和科托尔湾起义者起而反抗法国,多布罗塔大会宣布博卡与黑山合并。在英国海军协助下,他们围攻科托尔的法国守军,守军于1814年初投降。然而列强将海湾交给奥地利,合并随之告终。",
+    "ja": "1813年にナポレオンの勢力が崩れると、モンテネグロ人とコトル湾の蜂起軍がフランスに対して立ち上がり、ドブロタの会議はボカとモンテネグロの統合を宣言した。彼らはイギリス海軍の助けを得てコトルのフランス守備隊を包囲し、守備隊は1814年初めに降伏した。しかし列強が湾をオーストリアに引き渡し、統合は終わった。"
+   }
+  },
+  {
+   "year": 1831,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Njegoš creates the Senate",
+    "ko": "녜고시의 원로원 설치",
+    "zh": "涅戈什设立元老院",
+    "ja": "ニェゴシュ、元老院を設置"
+   },
+   "description": {
+    "en": "After Petar I's death in 1830, his young nephew Petar II Petrović-Njegoš became vladika and in 1831 established a Governing Senate of Montenegro and the Brda. He soon abolished the rival office of the civil governor, concentrating power in the vladika's hands. These steps, together with a guard and taxation, laid the groundwork of a centralized state.",
+    "ko": "1830년 페타르 1세가 죽자 그의 젊은 조카 페타르 2세 페트로비치-녜고시가 블라디카가 되어 1831년 몬테네그로·브르다 통치 원로원을 설치했다. 그는 곧 경쟁 관직이던 세속 총독직을 폐지해 블라디카에게 권력을 집중시켰다. 근위대와 조세 제도와 함께 이 조치들은 중앙집권 국가의 기초를 놓았다.",
+    "zh": "1830年彼得一世去世后,其年轻的侄子彼得二世·彼得罗维奇-涅戈什继任弗拉迪卡,并于1831年设立黑山和布尔达执政元老院。他随即废除与之抗衡的世俗总督一职,将权力集中于弗拉迪卡手中。这些措施连同卫队和税收制度,为中央集权国家奠定了基础。",
+    "ja": "1830年にペタル1世が死ぬと、若い甥のペタル2世ペトロヴィチ=ニェゴシュがヴラディカとなり、1831年にモンテネグロ・ブルダ統治元老院を設置した。彼はまもなく対抗する世俗の総督職を廃止し、権力をヴラディカに集中させた。これらの措置は親衛隊や課税制度とともに、中央集権国家の基礎を築いた。"
+   }
+  },
+  {
+   "year": 1834,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "First school and printing press in Cetinje",
+    "ko": "체티녜의 첫 학교와 인쇄소",
+    "zh": "采蒂涅首所学校与印刷所",
+    "ja": "ツェティニェ初の学校と印刷所"
+   },
+   "description": {
+    "en": "In 1834 Njegoš opened the first elementary school in Cetinje and set up a printing press brought from Russia, reviving printing in Montenegro for the first time since the Crnojević era. The press published schoolbooks, the almanac 'Grlica' and works of literature. These initiatives marked the start of modern education and publishing in the country.",
+    "ko": "1834년 녜고시는 체티녜에 첫 초등학교를 열고 러시아에서 들여온 인쇄기를 설치해, 츠르노예비치 시대 이후 처음으로 몬테네그로에서 인쇄를 되살렸다. 인쇄소는 교과서와 연감 '그를리차', 문학 작품을 펴냈다. 이는 이 나라 근대 교육과 출판의 출발점이 되었다.",
+    "zh": "1834年,涅戈什在采蒂涅开办第一所小学,并设立从俄国运来的印刷机,使黑山自茨尔诺耶维奇时代以来首次恢复印刷。印刷所出版了教科书、年鉴《斑鸠》和文学作品。这些举措标志着该国近代教育和出版业的开端。",
+    "ja": "1834年、ニェゴシュはツェティニェに最初の小学校を開き、ロシアから運んだ印刷機を設置して、ツルノイェヴィチ時代以来初めてモンテネグロで印刷を復活させた。印刷所は教科書や暦年鑑『グルリツァ』、文学作品を刊行した。これらは同国の近代教育と出版の始まりとなった。"
+   }
+  },
+  {
+   "year": 1847,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Njegoš publishes 'The Mountain Wreath'",
+    "ko": "녜고시, 서사시 '산의 화환' 발표",
+    "zh": "涅戈什发表史诗《山地花环》",
+    "ja": "ニェゴシュ、叙事詩『山の花環』を発表"
+   },
+   "description": {
+    "en": "In 1847 Prince-Bishop Petar II Petrović-Njegoš published 'The Mountain Wreath' in Vienna, a verse drama set in the time of Vladika Danilo and the struggle against the Ottomans. It is regarded as the pinnacle of Montenegrin literature and a defining work of South Slavic culture. Its portrayal of the conflict with converts to Islam has also made it the subject of continuing debate.",
+    "ko": "1847년 주교공 페타르 2세 페트로비치-녜고시는 빈에서 블라디카 다닐로 시대의 반오스만 투쟁을 배경으로 한 운문 극 '산의 화환'을 펴냈다. 이 작품은 몬테네그로 문학의 정점이자 남슬라브 문화를 대표하는 작품으로 평가된다. 이슬람 개종자와의 갈등을 그린 방식 때문에 지속적인 논쟁의 대상이 되기도 했다.",
+    "zh": "1847年,主教公彼得二世·彼得罗维奇-涅戈什在维也纳出版诗剧《山地花环》,以弗拉迪卡达尼洛时代抗击奥斯曼的斗争为背景。该作被誉为黑山文学的巅峰和南部斯拉夫文化的代表作。由于其对与伊斯兰皈依者冲突的描写,也一直引发争议。",
+    "ja": "1847年、主教公ペタル2世ペトロヴィチ=ニェゴシュはウィーンで、ヴラディカ・ダニロの時代の対オスマン闘争を背景とする韻文劇『山の花環』を刊行した。同作はモンテネグロ文学の頂点であり、南スラヴ文化を代表する作品と評価される。イスラームへの改宗者との対立の描き方から、議論の対象にもなり続けている。"
+   }
+  },
+  {
+   "year": 1852,
+   "qid": "Q779011",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Danilo I proclaims the Principality",
+    "ko": "다닐로 1세의 공국 선포",
+    "zh": "达尼洛一世宣布建立公国",
+    "ja": "ダニロ1世、公国を宣言"
+   },
+   "description": {
+    "en": "After Njegoš's death, his designated successor Danilo declined to become a bishop and in 1852, with Russian backing, proclaimed himself secular prince (knjaz) of Montenegro. The prince-bishopric was thus transformed into a hereditary principality, separating church and state leadership. Danilo pursued centralizing reforms and strengthened the army.",
+    "ko": "녜고시 사후 후계자로 지명된 다닐로는 주교가 되기를 거부하고 1852년 러시아의 지지 아래 스스로 몬테네그로의 세속 군주(크냐즈)를 선포했다. 이로써 주교공국은 세습 공국으로 바뀌어 교회와 국가의 지도권이 분리되었다. 다닐로는 중앙집권 개혁을 추진하고 군대를 강화했다.",
+    "zh": "涅戈什去世后,其指定的继承人达尼洛拒绝出任主教,于1852年在俄国支持下自立为黑山世俗亲王(克尼亚兹)。主教公国由此转变为世袭公国,教会与国家的领导权分离。达尼洛推行中央集权改革并加强军队。",
+    "ja": "ニェゴシュの死後、後継者に指名されたダニロは主教となることを拒み、1852年にロシアの支持を得て自らモンテネグロの世俗の公(クニャズ)を宣言した。これにより主教公国は世襲の公国へと変わり、教会と国家の指導権が分離された。ダニロは中央集権化の改革を進め、軍を強化した。"
+   }
+  },
+  {
+   "year": 1855,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Danilo's Code",
+    "ko": "다닐로 법전",
+    "zh": "达尼洛法典",
+    "ja": "ダニロ法典"
+   },
+   "description": {
+    "en": "In 1855 Prince Danilo promulgated a new general law code for Montenegro, building on the code of Petar I. It strengthened state authority, regulated property and the duties of subjects, and banned blood feud and raids into neighboring territories. The code was an important step in turning the clan society into a modern state.",
+    "ko": "1855년 다닐로 공은 페타르 1세 법전을 바탕으로 몬테네그로의 새 일반 법전을 공포했다. 법전은 국가 권위를 강화하고 재산과 신민의 의무를 규정했으며, 피의 복수와 이웃 지역에 대한 약탈을 금지했다. 이는 씨족 사회를 근대 국가로 바꾸는 중요한 한 걸음이었다.",
+    "zh": "1855年,达尼洛亲王在彼得一世法典基础上颁布黑山新的普通法典。法典强化国家权威,规范财产和臣民义务,并禁止血亲复仇和对邻近地区的劫掠。这是将氏族社会转变为近代国家的重要一步。",
+    "ja": "1855年、ダニロ公はペタル1世法典を土台にモンテネグロの新たな一般法典を公布した。法典は国家の権威を強化し、財産や臣民の義務を定め、血讐や近隣地域への略奪を禁じた。これは氏族社会を近代国家へと変える重要な一歩であった。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": "Q3545065",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Grahovac",
+    "ko": "그라호바츠 전투",
+    "zh": "格拉霍瓦茨战役",
+    "ja": "グラホヴァツの戦い"
+   },
+   "description": {
+    "en": "In May 1858 Montenegrin forces led by Grand Duke Mirko Petrović-Njegoš, the prince's brother, decisively defeated an Ottoman army at Grahovac. The victory drew the attention of the great powers, who in 1859 sent a commission to demarcate the Montenegrin–Ottoman border, granting Montenegro Grahovo and other areas. This amounted to de facto international recognition of the principality.",
+    "ko": "1858년 5월 다닐로 공의 형인 대공 미르코 페트로비치-녜고시가 이끄는 몬테네그로군은 그라호바츠에서 오스만군을 결정적으로 격파했다. 이 승리는 열강의 주목을 끌었고, 열강은 1859년 위원회를 보내 몬테네그로-오스만 국경을 획정하며 그라호보 등을 몬테네그로에 넘겼다. 이는 공국에 대한 사실상의 국제적 승인이었다.",
+    "zh": "1858年5月,由亲王之兄米尔科·彼得罗维奇-涅戈什大公率领的黑山军在格拉霍瓦茨决定性地击败奥斯曼军。这场胜利引起列强关注,列强于1859年派委员会勘定黑山与奥斯曼的边界,将格拉霍沃等地划归黑山,相当于事实上对该公国的国际承认。",
+    "ja": "1858年5月、公の兄である大公ミルコ・ペトロヴィチ=ニェゴシュ率いるモンテネグロ軍は、グラホヴァツでオスマン軍を決定的に破った。この勝利は列強の注目を集め、列強は1859年に委員会を派遣してモンテネグロ・オスマン国境を画定し、グラホヴォなどをモンテネグロに与えた。これは公国に対する事実上の国際的承認であった。"
+   }
+  },
+  {
+   "year": 1860,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Danilo; Nikola I succeeds",
+    "ko": "다닐로 암살과 니콜라 1세 즉위",
+    "zh": "达尼洛遇刺,尼古拉一世继位",
+    "ja": "ダニロ暗殺とニコラ1世の即位"
+   },
+   "description": {
+    "en": "In August 1860 Prince Danilo was shot in Kotor by a Montenegrin émigré and died of his wounds. He was succeeded by his nephew Nikola, son of Grand Duke Mirko, who ruled Montenegro for 58 years. Nikola I became the longest-reigning and best-known ruler of modern Montenegro.",
+    "ko": "1860년 8월 다닐로 공은 코토르에서 몬테네그로 망명자의 총격을 받아 숨졌다. 뒤를 이은 대공 미르코의 아들이자 조카인 니콜라는 58년 동안 몬테네그로를 다스렸다. 니콜라 1세는 근대 몬테네그로에서 가장 오래 재위하고 가장 잘 알려진 통치자가 되었다.",
+    "zh": "1860年8月,达尼洛亲王在科托尔遭一名黑山流亡者枪击,伤重身亡。继位的是其侄子、米尔科大公之子尼古拉,他统治黑山长达58年,成为近代黑山在位最久、最知名的统治者。",
+    "ja": "1860年8月、ダニロ公はコトルでモンテネグロ人の亡命者に撃たれ、その傷がもとで死去した。後を継いだのは大公ミルコの子で甥のニコラで、彼は58年にわたりモンテネグロを統治した。ニコラ1世は近代モンテネグロで最も長く在位し、最もよく知られた統治者となった。"
+   }
+  },
+  {
+   "year": 1861,
+   "qid": "Q16724471",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Montenegrin–Ottoman War of 1861–62",
+    "ko": "1861~62년 몬테네그로-오스만 전쟁",
+    "zh": "1861至1862年黑山-奥斯曼战争",
+    "ja": "1861〜62年のモンテネグロ・オスマン戦争"
+   },
+   "description": {
+    "en": "Montenegro's support for an uprising in neighboring Herzegovina led to war with the Ottoman Empire in 1861. In 1862 an Ottoman army under Omer Pasha Latas invaded and advanced toward Cetinje, forcing Montenegro to accept peace terms at Scutari. The war showed the limits of the small principality when facing the Ottoman army alone.",
+    "ko": "인접한 헤르체고비나의 봉기를 몬테네그로가 지원하면서 1861년 오스만 제국과 전쟁이 벌어졌다. 1862년 오메르 파샤 라타스가 이끄는 오스만군이 침공해 체티녜 쪽으로 진격하자 몬테네그로는 스쿠타리에서 강화 조건을 받아들여야 했다. 이 전쟁은 홀로 오스만군과 맞서는 소공국의 한계를 드러냈다.",
+    "zh": "黑山支持邻近黑塞哥维那的起义,导致1861年与奥斯曼帝国开战。1862年,奥梅尔帕夏·拉塔斯率奥斯曼军入侵并向采蒂涅推进,迫使黑山在斯库台接受和约条件。这场战争显示出小公国单独对抗奥斯曼军的局限。",
+    "ja": "隣接するヘルツェゴヴィナの蜂起をモンテネグロが支援したことで、1861年にオスマン帝国との戦争が起きた。1862年、オメル・パシャ・ラタス率いるオスマン軍が侵攻してツェティニェに迫り、モンテネグロはシュコドラで講和条件を受け入れざるをえなかった。この戦争は単独でオスマン軍に立ち向かう小国の限界を示した。"
+   }
+  },
+  {
+   "year": 1869,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Krivošije uprising",
+    "ko": "크리보시예 봉기",
+    "zh": "克里沃希耶起义",
+    "ja": "クリヴォシイェ蜂起"
+   },
+   "description": {
+    "en": "In 1869 the highlanders of Krivošije, above the Bay of Kotor, rose against Austria's attempt to impose military conscription on them. Austrian troops struggled in the rugged terrain, and in 1870 Vienna agreed to a settlement that suspended conscription. The uprising was renewed in 1882 when Austria-Hungary again introduced conscription.",
+    "ko": "1869년 코토르만 위쪽 크리보시예의 고지대 주민들은 오스트리아가 자신들에게 병역 의무를 부과하려 하자 봉기했다. 오스트리아군은 험준한 지형에서 고전했고, 1870년 빈 정부는 징병을 유보하는 타협에 동의했다. 1882년 오스트리아-헝가리가 다시 징병을 도입하자 봉기가 재발했다.",
+    "zh": "1869年,科托尔湾上方克里沃希耶的高地居民起来反抗奥地利对他们推行兵役的企图。奥地利军队在崎岖地形中陷入苦战,1870年维也纳同意妥协,暂停征兵。1882年奥匈帝国再次推行征兵时,起义再度爆发。",
+    "ja": "1869年、コトル湾を見下ろすクリヴォシイェの高地住民は、オーストリアが彼らに兵役を課そうとしたことに反発して蜂起した。オーストリア軍は険しい地形で苦戦し、1870年にウィーンは徴兵を見合わせる妥協に同意した。1882年にオーストリア=ハンガリーが再び徴兵を導入すると、蜂起が再発した。"
+   }
+  },
+  {
+   "year": 1876,
+   "qid": "Q4513932",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "War of 1876–78 against the Ottomans",
+    "ko": "1876~78년 대오스만 전쟁",
+    "zh": "1876至1878年对奥斯曼战争",
+    "ja": "1876〜78年の対オスマン戦争"
+   },
+   "description": {
+    "en": "In 1876, amid the uprising in Herzegovina, Montenegro and Serbia declared war on the Ottoman Empire. Montenegrin forces won notable victories, and after Russia joined the war in 1877 they captured Nikšić, Bar and other towns. The war resulted in a major enlargement of Montenegro and its international recognition in 1878.",
+    "ko": "1876년 헤르체고비나 봉기 와중에 몬테네그로와 세르비아는 오스만 제국에 선전포고했다. 몬테네그로군은 주목할 만한 승리를 거두었고, 1877년 러시아가 참전한 뒤에는 니크시치·바르 등의 도시를 점령했다. 이 전쟁으로 몬테네그로는 1878년 영토를 크게 넓히고 국제적 승인을 얻었다.",
+    "zh": "1876年,在黑塞哥维那起义之际,黑山与塞尔维亚对奥斯曼帝国宣战。黑山军取得多场重要胜利,1877年俄国参战后又攻占了尼克希奇、巴尔等城镇。这场战争使黑山在1878年大幅扩张领土并获得国际承认。",
+    "ja": "1876年、ヘルツェゴヴィナの蜂起のさなか、モンテネグロとセルビアはオスマン帝国に宣戦した。モンテネグロ軍は目覚ましい勝利を収め、1877年にロシアが参戦するとニクシッチやバールなどの町を占領した。この戦争の結果、モンテネグロは1878年に領土を大きく広げ、国際的承認を得た。"
+   }
+  },
+  {
+   "year": 1876,
+   "qid": "Q2586933",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Vučji Do",
+    "ko": "부치도 전투",
+    "zh": "武奇多战役",
+    "ja": "ヴチ・ドの戦い"
+   },
+   "description": {
+    "en": "In July 1876, at Vučji Do in Herzegovina, Montenegrin forces won one of the most celebrated victories of the war against the Ottoman army. The battle boosted Montenegrin morale and prestige in the early phase of the conflict. Together with the victory at Fundina in the east, it showed the effectiveness of the Montenegrin army.",
+    "ko": "1876년 7월 헤르체고비나의 부치도에서 몬테네그로군은 이 전쟁에서 가장 유명한 승리 가운데 하나를 오스만군에게서 거두었다. 이 전투는 전쟁 초기 몬테네그로의 사기와 위상을 높였다. 동부의 푼디나 승리와 함께 몬테네그로군의 역량을 보여 주었다.",
+    "zh": "1876年7月,黑山军在黑塞哥维那的武奇多击败奥斯曼军,取得此次战争中最著名的胜利之一。这场战役在战争初期提升了黑山的士气和声望,与东部的丰迪纳之胜一起展示了黑山军队的战斗力。",
+    "ja": "1876年7月、ヘルツェゴヴィナのヴチ・ドで、モンテネグロ軍はこの戦争で最も名高い勝利の一つをオスマン軍から収めた。この戦いは戦争初期のモンテネグロの士気と威信を高めた。東部のフンディナでの勝利とともに、モンテネグロ軍の力量を示した。"
+   }
+  },
+  {
+   "year": 1878,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Berlin Congress recognizes independence",
+    "ko": "베를린 회의, 몬테네그로 독립 승인",
+    "zh": "柏林会议承认黑山独立",
+    "ja": "ベルリン会議、モンテネグロ独立を承認"
+   },
+   "description": {
+    "en": "In July 1878 the Congress of Berlin formally recognized Montenegro as an independent state and roughly doubled its territory, including Nikšić, Podgorica, Kolašin and the port of Bar. Austria-Hungary, however, gained rights to police Montenegro's coast. The recognition crowned centuries of resistance to Ottoman rule and made Montenegro a member of the European state system.",
+    "ko": "1878년 7월 베를린 회의는 몬테네그로를 독립국으로 공식 승인하고 니크시치·포드고리차·콜라신과 바르 항을 포함해 영토를 약 두 배로 늘려 주었다. 다만 오스트리아-헝가리가 몬테네그로 연안의 감시권을 얻었다. 이 승인은 수 세기에 걸친 반오스만 항쟁의 결실이었고 몬테네그로를 유럽 국가 체제의 일원으로 만들었다.",
+    "zh": "1878年7月,柏林会议正式承认黑山为独立国家,并使其领土扩大约一倍,包括尼克希奇、波德戈里察、科拉欣和巴尔港。不过奥匈帝国获得了对黑山沿海的监管权。这一承认是数百年反抗奥斯曼统治的成果,使黑山成为欧洲国家体系的一员。",
+    "ja": "1878年7月、ベルリン会議はモンテネグロを独立国として正式に承認し、ニクシッチ、ポドゴリツァ、コラシン、バール港などを含めて領土をほぼ倍増させた。ただしオーストリア=ハンガリーはモンテネグロ沿岸の監視権を得た。この承認は数世紀にわたる対オスマン闘争の結実であり、モンテネグロをヨーロッパ国家体系の一員とした。"
+   }
+  },
+  {
+   "year": 1879,
+   "qid": "Q1001069",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Struggle for Plav and Gusinje",
+    "ko": "플라브·구시네를 둘러싼 전투",
+    "zh": "普拉夫和古西涅之争",
+    "ja": "プラヴとグシニェをめぐる戦い"
+   },
+   "description": {
+    "en": "The Congress of Berlin awarded Plav and Gusinje to Montenegro, but local Albanian and Muslim inhabitants, backed by the League of Prizren, refused to accept the transfer. In late 1879 they defeated Montenegrin forces at Novšiće. The great powers then arranged for Montenegro to receive Ulcinj instead, and Plav and Gusinje were only taken in 1912.",
+    "ko": "베를린 회의는 플라브와 구시네를 몬테네그로에 주었지만, 프리즈렌 연맹의 지원을 받은 현지 알바니아계·무슬림 주민들은 이양을 거부했다. 1879년 말 이들은 노브시체에서 몬테네그로군을 격파했다. 열강은 대신 울치니를 몬테네그로에 넘기도록 조정했고, 플라브와 구시네는 1912년에야 몬테네그로에 편입되었다.",
+    "zh": "柏林会议将普拉夫和古西涅划归黑山,但当地阿尔巴尼亚人和穆斯林居民在普里兹伦联盟支持下拒绝移交。1879年底,他们在诺夫希切击败黑山军。列强随后改为安排将乌尔齐尼交给黑山,普拉夫和古西涅直到1912年才被黑山取得。",
+    "ja": "ベルリン会議はプラヴとグシニェをモンテネグロに与えたが、プリズレン連盟に支援された現地のアルバニア系・ムスリム住民は引き渡しを拒んだ。1879年末、彼らはノヴシチェでモンテネグロ軍を破った。列強は代わりにウルツィニをモンテネグロに与えるよう調整し、プラヴとグシニェは1912年になってようやくモンテネグロ領となった。"
+   }
+  },
+  {
+   "year": 1880,
+   "qid": "Q27860380",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ulcinj handed to Montenegro",
+    "ko": "울치니의 몬테네그로 이양",
+    "zh": "乌尔齐尼移交黑山",
+    "ja": "ウルツィニ、モンテネグロへ引き渡し"
+   },
+   "description": {
+    "en": "As compensation for Plav and Gusinje, the great powers assigned the coastal town of Ulcinj to Montenegro, but Albanian forces of the League of Prizren resisted the handover. After a naval demonstration by the powers, Ottoman troops cleared the defenders and in November 1880 the town was transferred to Montenegro. Ulcinj gave Montenegro a second Adriatic port and a significant Albanian population.",
+    "ko": "열강은 플라브·구시네의 대가로 해안 도시 울치니를 몬테네그로에 배정했으나 프리즈렌 연맹의 알바니아인 세력이 이양에 저항했다. 열강의 해상 시위 뒤 오스만군이 저항 세력을 제거했고, 1880년 11월 도시는 몬테네그로에 넘어갔다. 울치니로 몬테네그로는 두 번째 아드리아해 항구와 상당한 알바니아계 인구를 갖게 되었다.",
+    "zh": "作为对普拉夫和古西涅的补偿,列强将沿海城镇乌尔齐尼划给黑山,但普里兹伦联盟的阿尔巴尼亚武装抵制移交。列强进行海上示威后,奥斯曼军队清除了抵抗者,1880年11月该城移交黑山。乌尔齐尼使黑山获得第二个亚得里亚海港口和相当数量的阿尔巴尼亚族人口。",
+    "ja": "プラヴとグシニェの代償として、列強は沿岸の町ウルツィニをモンテネグロに割り当てたが、プリズレン連盟のアルバニア人勢力が引き渡しに抵抗した。列強の海軍示威の後、オスマン軍が抵抗勢力を排除し、1880年11月に町はモンテネグロに引き渡された。ウルツィニによりモンテネグロは二つ目のアドリア海の港と、相当数のアルバニア系住民を得た。"
+   }
+  },
+  {
+   "year": 1888,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "General Property Code of Bogišić",
+    "ko": "보기시치의 일반재산법전",
+    "zh": "博吉希奇的普通财产法典",
+    "ja": "ボギシッチの一般財産法典"
+   },
+   "description": {
+    "en": "In 1888 Montenegro adopted the General Property Code drafted by the jurist Valtazar Bogišić, a native of Cavtat near Dubrovnik. Combining modern legal principles with Montenegrin customary law, it was admired across Europe for its clarity and originality. It was one of the most notable codifications of civil law in the Balkans.",
+    "ko": "1888년 몬테네그로는 두브로브니크 인근 차브타트 출신 법학자 발타자르 보기시치가 기초한 일반재산법전을 채택했다. 근대 법 원리와 몬테네그로 관습법을 결합한 이 법전은 명료함과 독창성으로 유럽 전역에서 찬사를 받았다. 이는 발칸에서 가장 주목할 만한 민법 법전화 가운데 하나였다.",
+    "zh": "1888年,黑山通过了由杜布罗夫尼克附近察夫塔特出身的法学家瓦尔塔扎尔·博吉希奇起草的普通财产法典。该法典将近代法律原则与黑山习惯法相结合,以其清晰和独创性在欧洲广受赞誉,是巴尔干地区最引人注目的民法编纂之一。",
+    "ja": "1888年、モンテネグロはドゥブロヴニク近郊ツァヴタト出身の法学者バルタザル・ボギシッチが起草した一般財産法典を採択した。近代的な法原理とモンテネグロの慣習法を組み合わせたこの法典は、その明快さと独創性でヨーロッパ中から称賛された。これはバルカンで最も注目すべき民法典編纂の一つであった。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First constitution and parliament",
+    "ko": "첫 헌법과 의회",
+    "zh": "首部宪法与议会",
+    "ja": "最初の憲法と議会"
+   },
+   "description": {
+    "en": "In December 1905 Prince Nikola granted Montenegro its first constitution, known as the Nikoljdan Constitution, establishing an elected national assembly. Elections followed in 1906, and political parties began to form. Nikola nonetheless retained strong powers, and conflicts with the opposition soon led to political trials.",
+    "ko": "1905년 12월 니콜라 공은 '니콜리단 헌법'으로 불리는 몬테네그로 최초의 헌법을 반포해 선출 의회를 설치했다. 1906년 선거가 치러졌고 정당들이 형성되기 시작했다. 그러나 니콜라는 강한 권한을 유지했고, 야당과의 갈등은 곧 정치 재판으로 이어졌다.",
+    "zh": "1905年12月,尼古拉亲王颁布黑山第一部宪法,即“尼科利日宪法”,设立民选国民议会。1906年举行选举,政党开始形成。然而尼古拉仍保有强大权力,与反对派的冲突很快导致政治审判。",
+    "ja": "1905年12月、ニコラ公は「ニコリダン憲法」と呼ばれるモンテネグロ最初の憲法を発布し、選挙による国民議会を設けた。1906年に選挙が行われ、政党が形成され始めた。しかしニコラは強い権限を保持し、野党との対立はまもなく政治裁判へと発展した。"
+   }
+  },
+  {
+   "year": 1910,
+   "qid": "Q386496",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Montenegro proclaimed a kingdom",
+    "ko": "몬테네그로 왕국 선포",
+    "zh": "黑山宣布成立王国",
+    "ja": "モンテネグロ王国の成立"
+   },
+   "description": {
+    "en": "In August 1910, on the 50th anniversary of his reign, Prince Nikola I proclaimed Montenegro a kingdom and took the title of king. The celebrations in Cetinje were attended by European royalty, reflecting the dynasty's marriage ties with Italy, Russia and Serbia. The move raised the small state's standing among Europe's monarchies.",
+    "ko": "1910년 8월 니콜라 1세 공은 재위 50주년을 맞아 몬테네그로를 왕국으로 선포하고 국왕에 올랐다. 체티녜의 기념식에는 유럽 왕족들이 참석했는데, 이는 왕가가 이탈리아·러시아·세르비아와 맺은 혼인 관계를 반영했다. 이로써 작은 나라 몬테네그로는 유럽 군주국 사이에서 위상을 높였다.",
+    "zh": "1910年8月,尼古拉一世亲王在执政五十周年之际宣布黑山为王国并称王。采蒂涅的庆典有欧洲各国王室出席,反映出该王朝与意大利、俄国和塞尔维亚的联姻关系。此举提升了这个小国在欧洲君主国中的地位。",
+    "ja": "1910年8月、ニコラ1世公は在位50周年を機にモンテネグロを王国とし、国王の称号を得た。ツェティニェの祝典にはヨーロッパの王族が出席し、王家がイタリア、ロシア、セルビアと結んだ婚姻関係を反映していた。これにより小国モンテネグロはヨーロッパの君主国の間で地位を高めた。"
+   }
+  },
+  {
+   "year": 1912,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Montenegro opens the First Balkan War",
+    "ko": "몬테네그로, 제1차 발칸 전쟁 개시",
+    "zh": "黑山打响第一次巴尔干战争",
+    "ja": "モンテネグロ、第一次バルカン戦争を開始"
+   },
+   "description": {
+    "en": "On 8 October 1912 Montenegro declared war on the Ottoman Empire, the first member of the Balkan League to do so. Montenegrin forces advanced into the Sanjak of Novi Pazar, Plav, Gusinje and Metohija and laid siege to Shkodër. The war ended centuries of Ottoman rule over the northern and eastern parts of today's Montenegro.",
+    "ko": "1912년 10월 8일 몬테네그로는 발칸 동맹국 가운데 가장 먼저 오스만 제국에 선전포고했다. 몬테네그로군은 노비파자르 산자크, 플라브, 구시네, 메토히야로 진격하고 슈코드라를 포위했다. 이 전쟁으로 오늘날 몬테네그로 북부와 동부에 대한 수 세기의 오스만 지배가 끝났다.",
+    "zh": "1912年10月8日,黑山在巴尔干同盟成员中率先对奥斯曼帝国宣战。黑山军向新帕扎尔桑贾克、普拉夫、古西涅和梅托希亚推进,并围攻斯库台。这场战争结束了奥斯曼对今黑山北部和东部数百年的统治。",
+    "ja": "1912年10月8日、モンテネグロはバルカン同盟の中で最初にオスマン帝国に宣戦した。モンテネグロ軍はノヴィ・パザル県、プラヴ、グシニェ、メトヒヤへ進撃し、シュコドラを包囲した。この戦争により、現在のモンテネグロ北部と東部に対する数世紀のオスマン支配が終わった。"
+   }
+  },
+  {
+   "year": 1913,
+   "qid": "Q116973707",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Capture and loss of Shkodër",
+    "ko": "슈코드라 점령과 상실",
+    "zh": "攻占与失去斯库台",
+    "ja": "シュコドラの占領と喪失"
+   },
+   "description": {
+    "en": "After a long and costly siege, the Ottoman garrison of Shkodër surrendered to Montenegro in April 1913. The great powers, intent on creating an Albanian state, imposed a naval blockade on Montenegro's coast and forced King Nikola to give the city up. The 1913 settlements nonetheless left Montenegro with large new territories, including Pljevlja, Bijelo Polje, Berane and Plav.",
+    "ko": "길고 희생이 큰 포위 끝에 1913년 4월 슈코드라의 오스만 수비대가 몬테네그로에 항복했다. 그러나 알바니아 국가 수립을 꾀한 열강은 몬테네그로 연안을 해상 봉쇄해 니콜라 왕이 이 도시를 포기하게 만들었다. 그래도 1913년의 강화로 몬테네그로는 플레블랴·비옐로폴레·베라네·플라브 등 넓은 새 영토를 얻었다.",
+    "zh": "经过漫长而代价高昂的围攻,斯库台的奥斯曼守军于1913年4月向黑山投降。然而意在建立阿尔巴尼亚国家的列强对黑山海岸实施海上封锁,迫使尼古拉国王放弃该城。尽管如此,1913年的和约仍使黑山获得了普列夫利亚、比耶洛波列、贝拉内、普拉夫等大片新领土。",
+    "ja": "長く犠牲の大きい包囲の末、1913年4月にシュコドラのオスマン守備隊はモンテネグロに降伏した。しかしアルバニア国家の創設を目指す列強はモンテネグロ沿岸を海上封鎖し、ニコラ王に町を放棄させた。それでも1913年の講和により、モンテネグロはプリェヴリャ、ビイェロ・ポリェ、ベラネ、プラヴなど広い新領土を得た。"
+   }
+  },
+  {
+   "year": 1914,
+   "qid": "Q1778176",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Montenegro enters World War I",
+    "ko": "몬테네그로의 제1차 세계대전 참전",
+    "zh": "黑山加入第一次世界大战",
+    "ja": "モンテネグロの第一次世界大戦参戦"
+   },
+   "description": {
+    "en": "In August 1914 Montenegro joined Serbia in the war against Austria-Hungary. Off Bar (Antivari), a French-led Allied fleet sank the Austro-Hungarian cruiser Zenta, which had been blockading the Montenegrin coast. Montenegrin troops fought on the Drina and in Herzegovina, while Austro-Hungarian guns in the Bay of Kotor faced Montenegrin positions on Mount Lovćen.",
+    "ko": "1914년 8월 몬테네그로는 세르비아와 함께 오스트리아-헝가리를 상대로 전쟁에 들어갔다. 바르(안티바리) 앞바다에서는 프랑스가 이끄는 연합국 함대가 몬테네그로 연안을 봉쇄하던 오스트리아-헝가리 순양함 첸타를 격침했다. 몬테네그로군은 드리나강과 헤르체고비나에서 싸웠고, 코토르만의 오스트리아-헝가리 포대는 로브첸산의 몬테네그로 진지와 대치했다.",
+    "zh": "1914年8月,黑山与塞尔维亚一同对奥匈帝国作战。在巴尔(安蒂瓦里)外海,法国领导的协约国舰队击沉了封锁黑山海岸的奥匈巡洋舰“岑塔”号。黑山军在德里纳河和黑塞哥维那作战,科托尔湾的奥匈炮台则与洛夫琴山上的黑山阵地对峙。",
+    "ja": "1914年8月、モンテネグロはセルビアとともにオーストリア=ハンガリーとの戦争に入った。バール(アンティヴァリ)沖では、フランス主導の連合国艦隊がモンテネグロ沿岸を封鎖していたオーストリア=ハンガリーの巡洋艦ゼンタを撃沈した。モンテネグロ軍はドリナ川やヘルツェゴヴィナで戦い、コトル湾のオーストリア=ハンガリーの砲台はロヴチェン山のモンテネグロ陣地と対峙した。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": "Q2451530",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Mojkovac",
+    "ko": "모이코바츠 전투",
+    "zh": "莫伊科瓦茨战役",
+    "ja": "モイコヴァツの戦い"
+   },
+   "description": {
+    "en": "On 6–7 January 1916, around Orthodox Christmas, the Montenegrin Sanjak Army under Serdar Janko Vukotić held off a much larger Austro-Hungarian force at Mojkovac. The stand helped cover the retreat of the Serbian army across Montenegro and Albania toward the Adriatic. It is remembered as one of the most heroic episodes in Montenegrin history.",
+    "ko": "1916년 1월 6~7일 정교회 성탄절 무렵, 세르다르 얀코 부코티치가 이끄는 몬테네그로 산자크군은 모이코바츠에서 훨씬 큰 오스트리아-헝가리군을 막아 냈다. 이 방어전은 몬테네그로와 알바니아를 가로질러 아드리아해로 퇴각하던 세르비아군을 엄호하는 데 기여했다. 이 전투는 몬테네그로 역사에서 가장 영웅적인 일화 가운데 하나로 기억된다.",
+    "zh": "1916年1月6日至7日东正教圣诞节前后,谢尔达尔·扬科·武科蒂奇率领的黑山桑贾克军团在莫伊科瓦茨顶住了兵力远胜于己的奥匈军队。这次坚守为塞尔维亚军队经黑山和阿尔巴尼亚向亚得里亚海撤退提供了掩护,被视为黑山历史上最英勇的篇章之一。",
+    "ja": "1916年1月6〜7日の正教会のクリスマスの頃、セルダル・ヤンコ・ヴコティッチ率いるモンテネグロのサンジャク軍は、モイコヴァツではるかに大きなオーストリア=ハンガリー軍を食い止めた。この防戦は、モンテネグロとアルバニアを越えてアドリア海へ退却するセルビア軍の援護に役立った。モンテネグロ史で最も英雄的な出来事の一つとして記憶されている。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": "Q129807813",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Fall of Lovćen and occupation",
+    "ko": "로브첸 함락과 점령",
+    "zh": "洛夫琴失守与被占领",
+    "ja": "ロヴチェン陥落と占領"
+   },
+   "description": {
+    "en": "In January 1916 Austro-Hungarian forces stormed Mount Lovćen from the Bay of Kotor and took Cetinje soon after. Montenegro's government sought terms, and King Nikola left for exile in Italy and France, while the country was placed under Austro-Hungarian military occupation. The circumstances of the capitulation and the king's departure were later used against the dynasty in the debate over union with Serbia.",
+    "ko": "1916년 1월 오스트리아-헝가리군은 코토르만에서 로브첸산을 공략했고 곧이어 체티녜를 점령했다. 몬테네그로 정부는 강화를 모색했고 니콜라 왕은 이탈리아와 프랑스로 망명했으며, 나라는 오스트리아-헝가리의 군사 점령 아래 놓였다. 항복과 국왕 출국의 경위는 훗날 세르비아와의 통합 논쟁에서 왕조를 공격하는 근거로 쓰였다.",
+    "zh": "1916年1月,奥匈军队从科托尔湾攻占洛夫琴山,随即占领采蒂涅。黑山政府寻求议和,尼古拉国王流亡意大利和法国,国家被置于奥匈帝国的军事占领之下。投降和国王出走的经过,后来在与塞尔维亚合并的争论中被用来攻击王朝。",
+    "ja": "1916年1月、オーストリア=ハンガリー軍はコトル湾からロヴチェン山を攻略し、まもなくツェティニェを占領した。モンテネグロ政府は講和を模索し、ニコラ王はイタリア、次いでフランスへ亡命し、国はオーストリア=ハンガリーの軍事占領下に置かれた。降伏と国王の出国の経緯は、のちにセルビアとの統合をめぐる論争で王朝を批判する材料とされた。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Podgorica Assembly: union with Serbia",
+    "ko": "포드고리차 의회, 세르비아와의 통합 결의",
+    "zh": "波德戈里察议会决议与塞尔维亚合并",
+    "ja": "ポドゴリツァ議会、セルビアとの統合を決議"
+   },
+   "description": {
+    "en": "In November 1918, after the liberation of the country by Serbian and Allied forces, the Podgorica Assembly voted to depose King Nikola and the Petrović-Njegoš dynasty and to unite Montenegro with Serbia. Montenegro then became part of the new Kingdom of Serbs, Croats and Slovenes. The legitimacy of the assembly's election and decisions remains disputed to this day.",
+    "ko": "1918년 11월 세르비아군과 연합군이 나라를 해방한 뒤, 포드고리차 의회는 니콜라 왕과 페트로비치-녜고시 왕조의 폐위 및 몬테네그로와 세르비아의 통합을 결의했다. 몬테네그로는 새로 수립된 세르브·크로아트·슬로벤 왕국의 일부가 되었다. 의회 선출과 결정의 정당성은 오늘날까지 논란이 되고 있다.",
+    "zh": "1918年11月,塞尔维亚军和协约国军解放黑山后,波德戈里察议会决议废黜尼古拉国王及彼得罗维奇-涅戈什王朝,并使黑山与塞尔维亚合并。黑山随后成为新成立的塞尔维亚人、克罗地亚人和斯洛文尼亚人王国的一部分。该议会的选举和决议的合法性至今仍有争议。",
+    "ja": "1918年11月、セルビア軍と連合軍が国を解放した後、ポドゴリツァ議会はニコラ王とペトロヴィチ=ニェゴシュ朝の廃位、およびモンテネグロとセルビアの統合を決議した。モンテネグロは新たに成立したセルブ・クロアート・スロヴェーン王国の一部となった。議会の選出と決定の正当性は今日まで議論の的となっている。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Christmas Uprising",
+    "ko": "크리스마스 봉기",
+    "zh": "圣诞起义",
+    "ja": "クリスマス蜂起"
+   },
+   "description": {
+    "en": "In early January 1919, around Orthodox Christmas, supporters of King Nikola and Montenegrin statehood, known as the 'Greens', rose against the decisions of the Podgorica Assembly and attacked Cetinje. The uprising was suppressed by unionist 'Whites' and Serbian troops. Green guerrilla resistance continued in the mountains into the 1920s.",
+    "ko": "1919년 1월 초 정교회 성탄절 무렵, '녹색파'로 불린 니콜라 왕과 몬테네그로 국가 지지자들이 포드고리차 의회의 결정에 반발해 봉기하고 체티녜를 공격했다. 봉기는 통합파 '백색파'와 세르비아군에 의해 진압되었다. 녹색파의 게릴라 저항은 1920년대까지 산지에서 이어졌다.",
+    "zh": "1919年1月初东正教圣诞节前后,被称为“绿派”的尼古拉国王及黑山国家地位的支持者起兵反对波德戈里察议会的决议,进攻采蒂涅。起义被主张统一的“白派”和塞尔维亚军队镇压,但绿派的游击抵抗在山区一直持续到1920年代。",
+    "ja": "1919年1月初めの正教会のクリスマスの頃、「緑派」と呼ばれたニコラ王とモンテネグロ国家の支持者たちは、ポドゴリツァ議会の決定に反発して蜂起し、ツェティニェを攻撃した。蜂起は統合派の「白派」とセルビア軍によって鎮圧された。緑派のゲリラ抵抗は1920年代まで山地で続いた。"
+   }
+  },
+  {
+   "year": 1924,
+   "qid": "Q12747413",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Šahovići massacre",
+    "ko": "샤호비치 학살",
+    "zh": "沙霍维奇屠杀",
+    "ja": "シャホヴィチ虐殺"
+   },
+   "description": {
+    "en": "In November 1924, following the killing of a local official, armed Orthodox Christians from the surrounding area attacked the Muslim inhabitants of Šahovići and nearby villages in northern Montenegro. Many Muslims were killed and others fled, many of them later emigrating to Turkey; estimates of the death toll vary. The massacre was one of the worst episodes of interethnic violence in interwar Yugoslavia.",
+    "ko": "1924년 11월 한 지역 관리가 살해된 뒤, 주변 지역의 무장한 정교회 신자들이 몬테네그로 북부 샤호비치와 인근 마을의 무슬림 주민들을 공격했다. 많은 무슬림이 살해되고 다른 이들은 피란했으며 상당수는 훗날 튀르키예로 이주했다. 희생자 수 추정치는 다양하다. 이 학살은 전간기 유고슬라비아의 최악의 민족 간 폭력 사건 가운데 하나였다.",
+    "zh": "1924年11月,一名地方官员遇害后,周边地区的武装东正教徒袭击了黑山北部沙霍维奇及附近村庄的穆斯林居民。许多穆斯林被杀,其他人逃离,其中不少人后来移居土耳其;遇难人数的估计不一。这次屠杀是两次大战之间南斯拉夫最严重的族群暴力事件之一。",
+    "ja": "1924年11月、地元の役人が殺害されたのを受けて、周辺地域の武装した正教徒がモンテネグロ北部のシャホヴィチと近隣の村々のムスリム住民を襲撃した。多くのムスリムが殺され、他の人々は逃れ、その多くはのちにトルコへ移住した。犠牲者数の推計はさまざまである。この虐殺は戦間期ユーゴスラビアで最悪の民族間暴力の一つであった。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Zeta Banovina created",
+    "ko": "제타 바노비나 설치",
+    "zh": "设立泽塔省",
+    "ja": "ゼタ州の設置"
+   },
+   "description": {
+    "en": "After King Alexander's dictatorship renamed the country the Kingdom of Yugoslavia in 1929, the state was reorganized into banovinas. Montenegro became the core of the Zeta Banovina, with its seat in Cetinje, which also included parts of Herzegovina, the Sanjak, Kosovo and the Dubrovnik area. The reform deliberately cut across historical borders.",
+    "ko": "1929년 알렉산다르 국왕의 독재 아래 나라 이름이 유고슬라비아 왕국으로 바뀌면서 국가는 바노비나(주)로 재편되었다. 몬테네그로는 체티녜를 중심지로 하는 제타 바노비나의 핵심이 되었는데, 여기에는 헤르체고비나·산자크·코소보·두브로브니크 일대 일부도 포함되었다. 이 개편은 의도적으로 역사적 경계를 가로질렀다.",
+    "zh": "1929年亚历山大国王实行独裁并将国名改为南斯拉夫王国后,国家被重组为若干省(巴诺维纳)。黑山成为以采蒂涅为治所的泽塔省的核心,该省还包括黑塞哥维那、桑贾克、科索沃和杜布罗夫尼克地区的部分地方。这一改革刻意打破了历史边界。",
+    "ja": "1929年、アレクサンダル国王の独裁下で国名がユーゴスラビア王国に改められると、国家はバノヴィナ(州)に再編された。モンテネグロはツェティニェを州都とするゼタ州の中核となり、同州にはヘルツェゴヴィナ、サンジャク、コソボ、ドゥブロヴニク地方の一部も含まれた。この改革は意図的に歴史的境界を横断するものであった。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q616992",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "13 July Uprising",
+    "ko": "7월 13일 봉기",
+    "zh": "七月十三日起义",
+    "ja": "7月13日蜂起"
+   },
+   "description": {
+    "en": "After the Axis conquest of Yugoslavia in April 1941, Italy occupied Montenegro, and on 12 July an assembly in Cetinje proclaimed a restored Montenegrin kingdom under Italian protection. The next day a mass uprising led by communists broke out across the country, and insurgents briefly liberated most of the territory. Italian reinforcements crushed the revolt with harsh reprisals, and Montenegro was placed under an Italian military governorate.",
+    "ko": "1941년 4월 추축국이 유고슬라비아를 정복한 뒤 이탈리아가 몬테네그로를 점령했고, 7월 12일 체티녜의 회의는 이탈리아의 보호를 받는 몬테네그로 왕국의 부활을 선포했다. 이튿날 공산주의자들이 이끄는 대중 봉기가 전국에서 일어나 봉기군은 한때 영토 대부분을 해방했다. 이탈리아 증원군은 가혹한 보복으로 봉기를 진압했고, 몬테네그로는 이탈리아 군사 총독령이 되었다.",
+    "zh": "1941年4月轴心国征服南斯拉夫后,意大利占领黑山,7月12日采蒂涅的一次会议宣布在意大利保护下恢复黑山王国。次日,由共产党人领导的群众起义在全国爆发,起义者一度解放了大部分国土。意大利增援部队以严厉报复镇压了起义,黑山被置于意大利军事总督辖区之下。",
+    "ja": "1941年4月に枢軸国がユーゴスラビアを征服すると、イタリアがモンテネグロを占領し、7月12日にツェティニェの会議はイタリアの保護下でのモンテネグロ王国の復活を宣言した。翌日、共産主義者が率いる大衆蜂起が全国で起こり、蜂起軍は一時領土の大部分を解放した。イタリアの増援部隊は過酷な報復で蜂起を鎮圧し、モンテネグロはイタリアの軍政総督領とされた。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q4087316",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Pljevlja",
+    "ko": "플레블랴 전투",
+    "zh": "普列夫利亚战役",
+    "ja": "プリェヴリャの戦い"
+   },
+   "description": {
+    "en": "On 1 December 1941 Partisan forces attacked the Italian garrison in Pljevlja in northern Montenegro. The assault failed with heavy Partisan casualties and became a turning point in the uprising. The setback, along with sectarian excesses against perceived enemies, contributed to the growth of the rival Chetnik movement and the bitter civil war in Montenegro.",
+    "ko": "1941년 12월 1일 파르티잔 부대가 몬테네그로 북부 플레블랴의 이탈리아 수비대를 공격했다. 공격은 파르티잔 측의 큰 희생 속에 실패했고 봉기의 전환점이 되었다. 이 패배는 적으로 간주된 이들에 대한 과격한 행동과 함께, 경쟁 세력인 체트니크 운동의 성장과 몬테네그로 내 처절한 내전의 한 원인이 되었다.",
+    "zh": "1941年12月1日,游击队进攻黑山北部普列夫利亚的意大利守军。进攻失败,游击队伤亡惨重,成为起义的转折点。这次挫败连同对被视为敌人者的过激行为,促成了敌对的切特尼克运动的壮大和黑山境内惨烈的内战。",
+    "ja": "1941年12月1日、パルチザン部隊はモンテネグロ北部プリェヴリャのイタリア守備隊を攻撃した。攻撃はパルチザン側の大きな犠牲を伴って失敗し、蜂起の転換点となった。この挫折は、敵とみなした人々への過激な行為とともに、対抗するチェトニク運動の伸長とモンテネグロでの凄惨な内戦の一因となった。"
+   }
+  },
+  {
+   "year": 1943,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of the Sutjeska",
+    "ko": "수트예스카 전투",
+    "zh": "苏捷斯卡战役",
+    "ja": "スチェスカの戦い"
+   },
+   "description": {
+    "en": "In May–June 1943 German-led Axis forces launched Operation Schwarz to destroy Tito's main Partisan army, encircling it in the mountains of northern Montenegro and eastern Bosnia around Durmitor and the Sutjeska river. The Partisans broke out at a very heavy cost in lives. Their survival, followed by Italy's capitulation in September 1943, strengthened the Partisan movement as Germany took over the occupation of Montenegro.",
+    "ko": "1943년 5~6월 독일이 주도하는 추축국군은 티토의 파르티잔 주력을 섬멸하려고 '슈바르츠 작전'을 펼쳐, 몬테네그로 북부와 보스니아 동부의 두르미토르와 수트예스카강 일대 산지에서 이들을 포위했다. 파르티잔은 막대한 인명 희생을 치르며 포위를 돌파했다. 이들의 생존과 1943년 9월 이탈리아의 항복으로 파르티잔 운동은 강화되었고, 독일이 몬테네그로 점령을 이어받았다.",
+    "zh": "1943年5月至6月,德国主导的轴心国军队发动“黑色行动”,企图消灭铁托的游击队主力,在黑山北部和波斯尼亚东部的杜米托尔山及苏捷斯卡河一带山区将其包围。游击队付出极其惨重的代价突出重围。他们的幸存以及1943年9月意大利投降,壮大了游击运动,而德国接管了对黑山的占领。",
+    "ja": "1943年5〜6月、ドイツ主導の枢軸軍はティトーのパルチザン主力を殲滅するため「シュヴァルツ作戦」を展開し、モンテネグロ北部とボスニア東部のドゥルミトルやスチェスカ川周辺の山地でこれを包囲した。パルチザンは甚大な犠牲を払って包囲を突破した。その生存と1943年9月のイタリアの降伏によりパルチザン運動は強化され、ドイツがモンテネグロの占領を引き継いだ。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Liberation of Podgorica",
+    "ko": "포드고리차 해방",
+    "zh": "波德戈里察解放",
+    "ja": "ポドゴリツァの解放"
+   },
+   "description": {
+    "en": "As German forces withdrew from the Balkans in late 1944, Partisan units liberated the towns of Montenegro one after another, with Podgorica freed on 19 December 1944. The town had been heavily damaged by Allied bombing during the war. The liberation brought the Communist-led movement to power in Montenegro.",
+    "ko": "1944년 말 독일군이 발칸에서 철수하자 파르티잔 부대가 몬테네그로의 도시들을 차례로 해방했고, 포드고리차는 1944년 12월 19일 해방되었다. 이 도시는 전쟁 중 연합군의 폭격으로 큰 피해를 입었다. 해방으로 공산당이 이끄는 운동이 몬테네그로에서 권력을 잡았다.",
+    "zh": "1944年底德军撤离巴尔干,游击队相继解放黑山各城镇,波德戈里察于1944年12月19日获得解放。该城在战争中曾遭盟军轰炸而严重受损。解放使共产党领导的运动在黑山掌握了政权。",
+    "ja": "1944年末にドイツ軍がバルカンから撤退すると、パルチザン部隊はモンテネグロの町々を次々に解放し、ポドゴリツァは1944年12月19日に解放された。この町は戦争中に連合軍の爆撃で大きな被害を受けていた。解放により共産党が率いる運動がモンテネグロで権力を握った。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": "Q838291",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Republic within socialist Yugoslavia",
+    "ko": "사회주의 유고슬라비아의 공화국",
+    "zh": "成为社会主义南斯拉夫的共和国",
+    "ja": "社会主義ユーゴスラビアの共和国に"
+   },
+   "description": {
+    "en": "After the Partisan victory in World War II, Montenegro became one of the six constituent republics of the new socialist Yugoslavia, and the Bay of Kotor was attached to it. The republic regained a distinct political identity for the first time since 1918, and the Montenegrins were recognized as a separate nation. Its capital was moved from Cetinje to Podgorica, renamed Titograd.",
+    "ko": "제2차 세계대전에서 파르티잔이 승리한 뒤 몬테네그로는 새 사회주의 유고슬라비아를 구성하는 6개 공화국 중 하나가 되었고, 코토르만이 이에 편입되었다. 공화국은 1918년 이후 처음으로 고유한 정치적 정체성을 되찾았으며 몬테네그로인은 별개의 민족으로 인정되었다. 수도는 체티녜에서 티토그라드로 개칭된 포드고리차로 옮겨졌다.",
+    "zh": "二战中游击队取得胜利后,黑山成为新的社会主义南斯拉夫六个组成共和国之一,科托尔湾也划归黑山。该共和国自1918年以来首次恢复了独立的政治身份,黑山人被承认为一个单独的民族。首都从采蒂涅迁至更名为铁托格勒的波德戈里察。",
+    "ja": "第二次世界大戦でパルチザンが勝利すると、モンテネグロは新たな社会主義ユーゴスラビアを構成する6共和国の一つとなり、コトル湾がこれに加えられた。共和国は1918年以来初めて独自の政治的アイデンティティを取り戻し、モンテネグロ人は独立した民族として認められた。首都はツェティニェから、チトーグラードと改称されたポドゴリツァへ移された。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": "Q3300974",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Bar massacre",
+    "ko": "바르 학살",
+    "zh": "巴尔屠杀",
+    "ja": "バールの虐殺"
+   },
+   "description": {
+    "en": "In spring 1945, ethnic Albanian conscripts from Kosovo being marched by Yugoslav Partisan units were shot in and around Bar. Yugoslav authorities described the events as a response to a revolt, while Albanian sources describe a massacre; the number of victims is disputed and estimates range widely. The killings remain a painful and contested memory.",
+    "ko": "1945년 봄 유고슬라비아 파르티잔 부대에 의해 이송되던 코소보 출신 알바니아계 징집병들이 바르와 그 주변에서 총살되었다. 유고슬라비아 당국은 이를 반란에 대한 대응이라고 설명했으나 알바니아 측 자료는 학살로 기술하며, 희생자 수는 논란이 있고 추정치의 폭도 넓다. 이 사건은 고통스럽고 논쟁적인 기억으로 남아 있다.",
+    "zh": "1945年春,由南斯拉夫游击队押送的来自科索沃的阿尔巴尼亚族应征士兵在巴尔及其周边遭枪杀。南斯拉夫当局称此事件系对叛乱的回应,而阿尔巴尼亚方面的资料则称之为屠杀;遇难人数存在争议,估计数字差距很大。这些杀戮至今仍是痛苦而有争议的记忆。",
+    "ja": "1945年春、ユーゴスラビアのパルチザン部隊に移送されていたコソボ出身のアルバニア系の徴集兵が、バールとその周辺で銃殺された。ユーゴスラビア当局はこれを反乱への対応と説明したが、アルバニア側の資料は虐殺と記述しており、犠牲者数には争いがあり推計の幅も大きい。この出来事は痛ましく論争的な記憶として残っている。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Podgorica renamed Titograd",
+    "ko": "포드고리차, 티토그라드로 개칭",
+    "zh": "波德戈里察更名为铁托格勒",
+    "ja": "ポドゴリツァ、チトーグラードに改称"
+   },
+   "description": {
+    "en": "In 1946 Podgorica, largely destroyed in the war, was renamed Titograd in honor of Josip Broz Tito and became the capital of the People's Republic of Montenegro instead of historic Cetinje. The city was rebuilt as a modern socialist capital with new industry and housing. It regained its old name, Podgorica, in 1992.",
+    "ko": "1946년 전쟁으로 크게 파괴된 포드고리차는 요시프 브로즈 티토를 기려 티토그라드로 개칭되었고, 역사적 수도 체티녜를 대신해 몬테네그로 인민공화국의 수도가 되었다. 도시는 새로운 산업과 주거 시설을 갖춘 근대적 사회주의 수도로 재건되었다. 1992년 옛 이름 포드고리차를 되찾았다.",
+    "zh": "1946年,在战争中几乎被摧毁的波德戈里察为纪念约瑟普·布罗兹·铁托更名为铁托格勒,取代历史名城采蒂涅成为黑山人民共和国首都。该市被重建为拥有新工业和住宅的现代社会主义首都,1992年恢复旧名波德戈里察。",
+    "ja": "1946年、戦争で大きく破壊されたポドゴリツァはヨシップ・ブロズ・ティトーにちなんでチトーグラードと改称され、歴史的首都ツェティニェに代わりモンテネグロ人民共和国の首都となった。町は新たな産業と住宅を備えた近代的な社会主義の首都として再建された。1992年に旧名ポドゴリツァに戻った。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Tito–Stalin split and the Cominformists",
+    "ko": "티토-스탈린 결별과 코민포름파",
+    "zh": "铁托与斯大林决裂及情报局派",
+    "ja": "ティトー・スターリン決裂とコミンフォルム派"
+   },
+   "description": {
+    "en": "When Yugoslavia broke with Stalin's Soviet Union in 1948, a notably large share of Montenegrin communists sided with the Cominform resolution. Thousands were purged, and many were sent to prison camps such as Goli Otok. The split deeply divided Montenegrin society and its strongly pro-Russian traditions.",
+    "ko": "1948년 유고슬라비아가 스탈린의 소련과 결별하자 몬테네그로 공산주의자들 가운데 두드러지게 많은 이들이 코민포름 결의를 지지했다. 수천 명이 숙청되었고 많은 이들이 골리오토크 같은 수용소로 보내졌다. 이 결별은 몬테네그로 사회와 그 강한 친러시아 전통을 깊이 분열시켰다.",
+    "zh": "1948年南斯拉夫与斯大林领导的苏联决裂时,黑山共产党人中有相当高比例的人支持共产党情报局决议。数以千计的人遭到清洗,许多人被送往戈利岛等劳改营。这次决裂深深撕裂了黑山社会及其浓厚的亲俄传统。",
+    "ja": "1948年にユーゴスラビアがスターリンのソ連と決裂すると、モンテネグロの共産主義者のうち際立って多くがコミンフォルム決議を支持した。数千人が粛清され、多くがゴリ・オトクなどの収容所に送られた。この決裂はモンテネグロ社会とその強い親ロシアの伝統を深く分断した。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Belgrade–Bar railway opens",
+    "ko": "베오그라드-바르 철도 개통",
+    "zh": "贝尔格莱德—巴尔铁路通车",
+    "ja": "ベオグラード—バール鉄道開通"
+   },
+   "description": {
+    "en": "In 1976 the Belgrade–Bar railway was completed, linking the Serbian capital with Montenegro's port of Bar through extremely difficult mountain terrain with numerous tunnels and bridges, including the Mala Rijeka viaduct. The line connected Montenegro's coast and interior to the Yugoslav rail network. It boosted the Port of Bar and the republic's industry and tourism.",
+    "ko": "1976년 세르비아 수도와 몬테네그로의 바르 항을 잇는 베오그라드-바르 철도가 완공되었다. 이 철도는 말라 리예카 고가교를 비롯한 수많은 터널과 교량으로 극히 험한 산악 지형을 관통했다. 철도는 몬테네그로의 해안과 내륙을 유고슬라비아 철도망에 연결했고, 바르 항과 공화국의 산업·관광을 활성화했다.",
+    "zh": "1976年,连接塞尔维亚首都与黑山巴尔港的贝尔格莱德—巴尔铁路建成。该线以众多隧道和桥梁(包括马拉里耶卡高架桥)穿越极其艰险的山区,把黑山沿海和内陆接入南斯拉夫铁路网,带动了巴尔港以及共和国的工业和旅游业。",
+    "ja": "1976年、セルビアの首都とモンテネグロのバール港を結ぶベオグラード—バール鉄道が完成した。路線はマラ・リイェカ高架橋をはじめ多数のトンネルと橋梁で極めて険しい山岳地帯を貫いた。鉄道はモンテネグロの沿岸と内陸をユーゴスラビアの鉄道網に結びつけ、バール港と共和国の産業・観光を後押しした。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q3505185",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "1979 Montenegro earthquake",
+    "ko": "1979년 몬테네그로 지진",
+    "zh": "1979年黑山地震",
+    "ja": "1979年モンテネグロ地震"
+   },
+   "description": {
+    "en": "On 15 April 1979 a powerful earthquake struck off the Montenegrin coast, killing more than a hundred people in Montenegro and causing further deaths in neighboring Albania. It devastated Budva, Ulcinj, Bar, Kotor and other coastal towns, damaging historic old towns and leaving many people homeless. Reconstruction took years and was supported across Yugoslavia and internationally.",
+    "ko": "1979년 4월 15일 몬테네그로 앞바다에서 강진이 발생해 몬테네그로에서 100명이 넘는 사람이 숨졌고 이웃 알바니아에서도 사망자가 나왔다. 지진은 부드바·울치니·바르·코토르 등 해안 도시를 휩쓸어 역사적 구시가를 훼손하고 많은 이재민을 낳았다. 복구에는 여러 해가 걸렸으며 유고슬라비아 전역과 국제사회의 지원을 받았다.",
+    "zh": "1979年4月15日,黑山近海发生强烈地震,在黑山造成一百多人死亡,邻国阿尔巴尼亚也有人遇难。地震重创布德瓦、乌尔齐尼、巴尔、科托尔等沿海城镇,破坏了历史老城,使许多人无家可归。重建工作历时多年,得到南斯拉夫各地及国际社会的支援。",
+    "ja": "1979年4月15日、モンテネグロ沖で強い地震が発生し、モンテネグロで100人を超える死者が出たほか、隣国アルバニアでも犠牲者が出た。地震はブドヴァ、ウルツィニ、バール、コトルなどの沿岸の町を襲い、歴史的な旧市街を損ない多くの人が家を失った。復興には何年もかかり、ユーゴスラビア全土と国際社会の支援を受けた。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Kotor inscribed as World Heritage",
+    "ko": "코토르, 세계유산 등재",
+    "zh": "科托尔列入世界遗产",
+    "ja": "コトル、世界遺産に登録"
+   },
+   "description": {
+    "en": "In 1979 the Natural and Culturo-Historical Region of Kotor was inscribed on the UNESCO World Heritage List, recognizing the medieval walled town and the bay's landscape and settlements. Because of the damage caused by the earthquake that year, it was also placed on the List of World Heritage in Danger. It was removed from that list in 2003 after restoration work.",
+    "ko": "1979년 '코토르의 자연·문화역사 지역'이 유네스코 세계유산 목록에 올라, 중세 성곽 도시와 만의 경관·정착지가 인정받았다. 같은 해 지진 피해로 이곳은 위험에 처한 세계유산 목록에도 올랐다. 복원 작업 끝에 2003년 그 목록에서 제외되었다.",
+    "zh": "1979年,“科托尔自然与文化历史区”被列入联合国教科文组织世界遗产名录,中世纪城墙古城及海湾的景观和聚落获得认可。由于同年地震造成的破坏,该地也被列入《濒危世界遗产名录》,经修复后于2003年移出该名录。",
+    "ja": "1979年、「コトルの自然と文化歴史地域」がユネスコの世界遺産リストに登録され、中世の城壁都市と湾の景観・集落が評価された。同年の地震による被害のため、危機遺産リストにも記載された。修復作業を経て2003年に危機遺産リストから外された。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Durmitor National Park a World Heritage site",
+    "ko": "두르미토르 국립공원, 세계유산 등재",
+    "zh": "杜米托尔国家公园列入世界遗产",
+    "ja": "ドゥルミトル国立公園、世界遺産に登録"
+   },
+   "description": {
+    "en": "In 1980 Durmitor National Park, established in 1952, was inscribed on the UNESCO World Heritage List for its glacial lakes, karst mountains and the deep canyon of the Tara River. The park became a symbol of Montenegro's natural heritage and a center of mountain tourism. Its protection also shaped later debates over hydropower and road projects in the area.",
+    "ko": "1952년 지정된 두르미토르 국립공원은 빙하호, 카르스트 산지, 타라강의 깊은 협곡을 인정받아 1980년 유네스코 세계유산 목록에 올랐다. 공원은 몬테네그로 자연유산의 상징이자 산악 관광의 중심이 되었다. 그 보호 문제는 이후 이 일대의 수력 발전과 도로 사업을 둘러싼 논쟁에도 영향을 주었다.",
+    "zh": "建于1952年的杜米托尔国家公园因其冰川湖、喀斯特山地和塔拉河深峡谷,于1980年列入联合国教科文组织世界遗产名录。公园成为黑山自然遗产的象征和山地旅游中心,其保护问题也影响了后来围绕该地区水电和道路项目的争论。",
+    "ja": "1952年に設立されたドゥルミトル国立公園は、氷河湖、カルスト山地、タラ川の深い峡谷が評価され、1980年にユネスコの世界遺産リストに登録された。公園はモンテネグロの自然遺産の象徴となり、山岳観光の中心となった。その保護はのちにこの地域の水力発電や道路計画をめぐる議論にも影響を与えた。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Anti-bureaucratic revolution in Montenegro",
+    "ko": "몬테네그로의 반관료 혁명",
+    "zh": "黑山的“反官僚革命”",
+    "ja": "モンテネグロの反官僚革命"
+   },
+   "description": {
+    "en": "In January 1989 mass protests in Titograd, part of the wave of rallies associated with Slobodan Milošević, forced the resignation of Montenegro's communist leadership. A new generation of leaders, including Momir Bulatović and Milo Đukanović, took power. The change aligned Montenegro closely with Serbia as Yugoslavia moved toward breakup.",
+    "ko": "1989년 1월 슬로보단 밀로셰비치와 연관된 집회 물결의 일환으로 티토그라드에서 대규모 시위가 일어나 몬테네그로 공산당 지도부가 사퇴했다. 모미르 불라토비치와 밀로 주카노비치 등 새 세대 지도자들이 권력을 잡았다. 이 변화로 유고슬라비아가 해체로 향하는 가운데 몬테네그로는 세르비아와 긴밀히 보조를 맞추게 되었다.",
+    "zh": "1989年1月,作为与斯洛博丹·米洛舍维奇相关的集会浪潮的一部分,铁托格勒爆发大规模抗议,迫使黑山共产党领导层辞职。莫米尔·布拉托维奇、米洛·久卡诺维奇等新一代领导人上台。这一变化使黑山在南斯拉夫走向解体之际与塞尔维亚紧密站在一起。",
+    "ja": "1989年1月、スロボダン・ミロシェヴィッチと結びついた集会の波の一環としてチトーグラードで大規模な抗議行動が起こり、モンテネグロの共産党指導部は辞任に追い込まれた。モミル・ブラトヴィッチやミロ・ジュカノヴィッチら新世代の指導者が権力を握った。この変化により、ユーゴスラビアが解体へ向かう中でモンテネグロはセルビアと緊密に歩調を合わせた。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Montenegrin units in the Dubrovnik campaign",
+    "ko": "두브로브니크 작전과 몬테네그로 부대",
+    "zh": "黑山部队参与杜布罗夫尼克战役",
+    "ja": "ドゥブロヴニク作戦とモンテネグロの部隊"
+   },
+   "description": {
+    "en": "In October 1991, during the war in Croatia, the Yugoslav People's Army, including many Montenegrin reservists, attacked the Dubrovnik area from Montenegro and Herzegovina and besieged the city. The siege and the looting of nearby villages drew international condemnation. In 2000 Montenegrin President Milo Đukanović publicly apologized to Croatia for the suffering caused.",
+    "ko": "1991년 10월 크로아티아 전쟁 중 많은 몬테네그로 예비군을 포함한 유고슬라비아 인민군이 몬테네그로와 헤르체고비나에서 두브로브니크 일대를 공격해 도시를 포위했다. 포위와 인근 마을 약탈은 국제적 비난을 받았다. 2000년 몬테네그로 대통령 밀로 주카노비치는 이로 인한 고통에 대해 크로아티아에 공개 사과했다.",
+    "zh": "1991年10月克罗地亚战争期间,包括大量黑山预备役人员在内的南斯拉夫人民军从黑山和黑塞哥维那进攻杜布罗夫尼克地区并围困该城。围城和对附近村庄的劫掠招致国际谴责。2000年,黑山总统米洛·久卡诺维奇就造成的苦难向克罗地亚公开道歉。",
+    "ja": "1991年10月、クロアチア紛争の最中、多くのモンテネグロ人予備役を含むユーゴスラビア人民軍がモンテネグロとヘルツェゴヴィナからドゥブロヴニク地域を攻撃し、町を包囲した。包囲と周辺の村々での略奪は国際的な非難を浴びた。2000年、モンテネグロのミロ・ジュカノヴィッチ大統領はもたらした苦しみについてクロアチアに公式に謝罪した。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": "Q37024",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Federal Republic of Yugoslavia formed",
+    "ko": "유고슬라비아 연방공화국 수립",
+    "zh": "南斯拉夫联盟共和国成立",
+    "ja": "ユーゴスラビア連邦共和国の成立"
+   },
+   "description": {
+    "en": "In a referendum on 1 March 1992, boycotted by much of the opposition and by minorities, an overwhelming majority of participating voters chose to keep Montenegro in a common state with Serbia. In April 1992 the two republics proclaimed the Federal Republic of Yugoslavia. The new state soon faced UN sanctions over the war in Bosnia and Herzegovina.",
+    "ko": "야당 상당수와 소수민족이 거부한 가운데 1992년 3월 1일 실시된 국민투표에서 참여한 유권자의 압도적 다수가 몬테네그로를 세르비아와의 공동 국가에 남기기로 선택했다. 1992년 4월 두 공화국은 유고슬라비아 연방공화국을 선포했다. 새 국가는 곧 보스니아 헤르체고비나 전쟁과 관련해 유엔 제재를 받았다.",
+    "zh": "1992年3月1日举行的公投遭到大部分反对派和少数民族抵制,参与投票者中的压倒性多数选择让黑山继续与塞尔维亚组成共同国家。1992年4月,两个共和国宣布成立南斯拉夫联盟共和国。新国家很快因波黑战争而遭到联合国制裁。",
+    "ja": "1992年3月1日の国民投票は野党の多くと少数民族によってボイコットされたが、投票者の圧倒的多数はモンテネグロをセルビアとの共同国家にとどめることを選んだ。1992年4月、両共和国はユーゴスラビア連邦共和国を宣言した。新国家はまもなくボスニア・ヘルツェゴヴィナ紛争をめぐり国連制裁を受けた。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": "Q3722566",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Split in the ruling party; Đukanović elected president",
+    "ko": "집권당 분열과 주카노비치의 대통령 당선",
+    "zh": "执政党分裂与久卡诺维奇当选总统",
+    "ja": "与党分裂とジュカノヴィッチの大統領当選"
+   },
+   "description": {
+    "en": "In 1997 the ruling Democratic Party of Socialists split between President Momir Bulatović, loyal to Milošević, and Prime Minister Milo Đukanović, who sought greater autonomy and Western ties. Đukanović narrowly won the presidential election that October. The split set Montenegro on a course away from Belgrade that eventually led to independence.",
+    "ko": "1997년 집권 사회주의자민주당(DPS)은 밀로셰비치에 충실한 모미르 불라토비치 대통령과 더 큰 자치와 서방과의 관계를 추구한 밀로 주카노비치 총리 사이에서 분열했다. 주카노비치는 그해 10월 대통령 선거에서 근소한 차로 승리했다. 이 분열로 몬테네그로는 베오그라드와 멀어지는 길에 들어섰고, 결국 독립으로 이어졌다.",
+    "zh": "1997年,执政的社会主义者民主党分裂为忠于米洛舍维奇的总统莫米尔·布拉托维奇和寻求更大自治及西方联系的总理米洛·久卡诺维奇两派。久卡诺维奇在当年10月的总统选举中以微弱优势获胜。这次分裂使黑山走上疏远贝尔格莱德的道路,最终通向独立。",
+    "ja": "1997年、与党の社会主義者民主党(DPS)は、ミロシェヴィッチに忠実なモミル・ブラトヴィッチ大統領と、より大きな自治と西側との関係を求めるミロ・ジュカノヴィッチ首相の間で分裂した。ジュカノヴィッチはその年10月の大統領選挙で僅差で勝利した。この分裂によりモンテネグロはベオグラードから離れる道を歩み始め、最終的に独立に至った。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Montenegro adopts the Deutsche Mark",
+    "ko": "몬테네그로, 독일 마르크 도입",
+    "zh": "黑山采用德国马克",
+    "ja": "モンテネグロ、ドイツ・マルクを導入"
+   },
+   "description": {
+    "en": "During the 1999 Kosovo war, NATO air strikes also hit military targets in Montenegro, which took in large numbers of refugees from Kosovo while its government distanced itself from Milošević. In November 1999 Montenegro introduced the Deutsche Mark as legal tender alongside the Yugoslav dinar, soon making it the sole currency. The move gave Montenegro a large degree of economic separation from Serbia.",
+    "ko": "1999년 코소보 전쟁 중 나토의 공습은 몬테네그로의 군사 목표물에도 가해졌고, 밀로셰비치와 거리를 둔 몬테네그로 정부는 코소보 난민을 대거 받아들였다. 1999년 11월 몬테네그로는 유고슬라비아 디나르와 함께 독일 마르크를 법정 통화로 도입했고, 곧 이를 단일 통화로 삼았다. 이로써 몬테네그로는 세르비아로부터 상당한 경제적 분리를 이루었다.",
+    "zh": "1999年科索沃战争期间,北约空袭也打击了黑山境内的军事目标,与米洛舍维奇保持距离的黑山政府接纳了大批科索沃难民。1999年11月,黑山引入德国马克作为与南斯拉夫第纳尔并行的法定货币,不久后使其成为唯一货币。此举使黑山在经济上与塞尔维亚大幅分离。",
+    "ja": "1999年のコソボ紛争中、NATOの空爆はモンテネグロの軍事目標にも及び、ミロシェヴィッチと距離を置くモンテネグロ政府はコソボからの難民を大量に受け入れた。1999年11月、モンテネグロはユーゴスラビア・ディナールと並ぶ法定通貨としてドイツ・マルクを導入し、まもなく唯一の通貨とした。これによりモンテネグロはセルビアから経済的にかなり分離した。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "The euro becomes Montenegro's currency",
+    "ko": "유로, 몬테네그로의 통화가 되다",
+    "zh": "欧元成为黑山货币",
+    "ja": "ユーロ、モンテネグロの通貨に"
+   },
+   "description": {
+    "en": "When the Deutsche Mark was replaced by the euro in 2002, Montenegro switched to the euro as well, although it was not a member of the European Union or the eurozone. The unilateral adoption gave the country a stable currency and closer economic ties with the EU. Montenegro has used the euro ever since.",
+    "ko": "2002년 독일 마르크가 유로로 대체되자 몬테네그로도 유럽연합이나 유로존 회원국이 아니었음에도 유로로 전환했다. 이 일방적 도입으로 나라는 안정된 통화와 유럽연합과의 긴밀한 경제 관계를 얻었다. 몬테네그로는 그 이후 줄곧 유로를 사용하고 있다.",
+    "zh": "2002年德国马克被欧元取代时,黑山虽非欧盟或欧元区成员,也随之改用欧元。这种单方面采用为该国带来了稳定的货币和与欧盟更紧密的经济联系。此后黑山一直使用欧元。",
+    "ja": "2002年にドイツ・マルクがユーロに置き換えられると、モンテネグロはEUやユーロ圏の加盟国ではなかったにもかかわらず、ユーロに切り替えた。この一方的な導入により、国は安定した通貨とEUとのより緊密な経済関係を得た。以来モンテネグロはユーロを使い続けている。"
+   }
+  },
+  {
+   "year": 2003,
+   "qid": "Q37024",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "State Union of Serbia and Montenegro",
+    "ko": "세르비아 몬테네그로 국가연합",
+    "zh": "塞尔维亚和黑山国家联盟",
+    "ja": "セルビア・モンテネグロ国家連合"
+   },
+   "description": {
+    "en": "In February 2003, under an EU-brokered agreement, the Federal Republic of Yugoslavia was transformed into the loose State Union of Serbia and Montenegro, ending the use of the name Yugoslavia. The constitutional charter allowed either member to hold an independence referendum after three years. The union had few common institutions and functioned largely as two separate states.",
+    "ko": "2003년 2월 유럽연합이 중재한 합의에 따라 유고슬라비아 연방공화국은 느슨한 세르비아 몬테네그로 국가연합으로 바뀌었고, 유고슬라비아라는 이름은 쓰이지 않게 되었다. 헌장은 3년 후 어느 구성국이든 독립 국민투표를 실시할 수 있도록 했다. 연합은 공동 기구가 거의 없어 사실상 두 개의 별개 국가처럼 운영되었다.",
+    "zh": "2003年2月,根据欧盟斡旋的协议,南斯拉夫联盟共和国改组为松散的塞尔维亚和黑山国家联盟,“南斯拉夫”这一国名就此停用。宪章规定三年后任一成员国均可举行独立公投。该联盟几乎没有共同机构,实际上如同两个独立国家运作。",
+    "ja": "2003年2月、EUの仲介による合意に基づき、ユーゴスラビア連邦共和国は緩やかなセルビア・モンテネグロ国家連合に改組され、ユーゴスラビアという名は使われなくなった。憲章は3年後にいずれの構成国も独立の国民投票を行えると定めていた。連合には共通の機関がほとんどなく、事実上二つの別々の国家として機能した。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": "Q268104",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Bioče train derailment",
+    "ko": "비오체 열차 탈선 사고",
+    "zh": "比奥切列车出轨事故",
+    "ja": "ビオチェ列車脱線事故"
+   },
+   "description": {
+    "en": "In January 2006 a passenger train on the Belgrade–Bar line derailed near Bioče, north of Podgorica, and plunged into the canyon of the Morača River. Dozens of passengers were killed and many injured, making it the deadliest rail accident in Montenegro's history. The disaster raised questions about the maintenance of the country's railway.",
+    "ko": "2006년 1월 베오그라드-바르 노선의 여객 열차가 포드고리차 북쪽 비오체 부근에서 탈선해 모라차강 협곡으로 추락했다. 수십 명의 승객이 숨지고 많은 이가 다쳐 몬테네그로 역사상 최악의 철도 사고가 되었다. 이 참사는 국가 철도의 유지 관리에 대한 의문을 불러일으켰다.",
+    "zh": "2006年1月,贝尔格莱德—巴尔线上的一列旅客列车在波德戈里察以北的比奥切附近出轨,坠入莫拉察河峡谷。数十名乘客遇难,多人受伤,成为黑山史上最严重的铁路事故。这场灾难引发了对该国铁路维护状况的质疑。",
+    "ja": "2006年1月、ベオグラード—バール線の旅客列車がポドゴリツァ北方のビオチェ付近で脱線し、モラチャ川の峡谷に転落した。数十人の乗客が死亡し多くが負傷し、モンテネグロ史上最悪の鉄道事故となった。この惨事は同国の鉄道の保守管理に疑問を投げかけた。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence restored by referendum",
+    "ko": "국민투표로 독립 회복",
+    "zh": "公投恢复独立",
+    "ja": "国民投票による独立回復"
+   },
+   "description": {
+    "en": "In a referendum on 21 May 2006, 55.5% of voters chose independence, just above the 55% threshold set by the European Union. Montenegro declared independence on 3 June 2006, Serbia accepted the result, and the country joined the United Nations at the end of June. It restored the independent statehood lost in 1918.",
+    "ko": "2006년 5월 21일 국민투표에서 유권자의 55.5%가 독립을 선택해 유럽연합이 정한 55% 기준을 근소하게 넘었다. 몬테네그로는 2006년 6월 3일 독립을 선언했고 세르비아는 결과를 수용했으며, 6월 말 유엔에 가입했다. 이로써 1918년에 잃었던 독립 국가 지위를 회복했다.",
+    "zh": "在2006年5月21日的公投中,55.5%的选民支持独立,略高于欧盟设定的55%门槛。黑山于2006年6月3日宣布独立,塞尔维亚接受了结果,黑山于6月底加入联合国,恢复了1918年失去的独立国家地位。",
+    "ja": "2006年5月21日の国民投票で55.5%の有権者が独立を選び、EUが設定した55%の基準をわずかに上回った。モンテネグロは2006年6月3日に独立を宣言し、セルビアは結果を受け入れ、6月末に国連に加盟した。これにより1918年に失った独立国家の地位を回復した。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Constitution of independent Montenegro",
+    "ko": "독립 몬테네그로의 헌법",
+    "zh": "独立黑山的宪法",
+    "ja": "独立モンテネグロの憲法"
+   },
+   "description": {
+    "en": "In October 2007 the parliament adopted the first constitution of independent Montenegro, defining it as a civic, democratic and ecological state. It declared Montenegrin the official language, while Serbian, Bosnian, Albanian and Croatian are also in official use. Podgorica was confirmed as the capital and Cetinje as the Old Royal Capital.",
+    "ko": "2007년 10월 의회는 독립 몬테네그로의 첫 헌법을 채택해 이 나라를 시민적·민주적·생태적 국가로 규정했다. 헌법은 몬테네그로어를 공용어로 정하고 세르비아어·보스니아어·알바니아어·크로아티아어도 공적으로 사용되도록 했다. 포드고리차는 수도로, 체티녜는 '옛 왕도'로 확인되었다.",
+    "zh": "2007年10月,议会通过独立黑山的第一部宪法,将国家定义为公民的、民主的和生态的国家。宪法规定黑山语为官方语言,塞尔维亚语、波斯尼亚语、阿尔巴尼亚语和克罗地亚语亦正式使用。波德戈里察被确认为首都,采蒂涅为“旧王都”。",
+    "ja": "2007年10月、議会は独立モンテネグロ最初の憲法を採択し、国を市民的・民主的・環境的国家と規定した。憲法はモンテネグロ語を公用語とし、セルビア語、ボスニア語、アルバニア語、クロアチア語も公的に使用されるとした。ポドゴリツァが首都、ツェティニェが「旧王都」と定められた。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "EU accession negotiations open",
+    "ko": "유럽연합 가입 협상 개시",
+    "zh": "开启入盟谈判",
+    "ja": "EU加盟交渉の開始"
+   },
+   "description": {
+    "en": "After applying for membership in 2008 and becoming a candidate in 2010, Montenegro opened accession negotiations with the European Union in June 2012. The talks focused heavily on the rule of law, organized crime and corruption. Montenegro became widely regarded as the frontrunner among the Western Balkan candidates.",
+    "ko": "2008년 가입을 신청하고 2010년 후보국이 된 몬테네그로는 2012년 6월 유럽연합과 가입 협상을 개시했다. 협상은 법치, 조직범죄, 부패 문제에 크게 초점을 맞추었다. 몬테네그로는 서발칸 후보국 가운데 선두 주자로 널리 평가되었다.",
+    "zh": "黑山于2008年申请加入欧盟,2010年成为候选国,并于2012年6月开启入盟谈判。谈判重点集中在法治、有组织犯罪和腐败问题上。黑山被普遍视为西巴尔干候选国中的领跑者。",
+    "ja": "2008年に加盟を申請し2010年に候補国となったモンテネグロは、2012年6月にEUとの加盟交渉を開始した。交渉は法の支配、組織犯罪、汚職の問題に大きな重点が置かれた。モンテネグロは西バルカンの候補国の中で先頭を走る国と広くみなされた。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q21206583",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Political crisis of 2015–2016",
+    "ko": "2015~2016년 정치 위기",
+    "zh": "2015—2016年政治危机",
+    "ja": "2015〜2016年の政治危機"
+   },
+   "description": {
+    "en": "In autumn 2015 opposition parties, led by the Democratic Front, staged protests in Podgorica demanding the resignation of Prime Minister Milo Đukanović and a transitional government before new elections. Some protests ended in clashes with the police. The crisis, which unfolded as Montenegro was being invited to join NATO, continued until the October 2016 elections.",
+    "ko": "2015년 가을 민주전선이 이끄는 야당들은 포드고리차에서 밀로 주카노비치 총리의 사임과 새 선거 전 과도 정부 구성을 요구하는 시위를 벌였다. 일부 시위는 경찰과의 충돌로 끝났다. 몬테네그로가 나토 가입 초청을 받던 시기에 벌어진 이 위기는 2016년 10월 선거까지 이어졌다.",
+    "zh": "2015年秋,以民主阵线为首的反对党在波德戈里察举行抗议,要求总理米洛·久卡诺维奇辞职并在新选举前组建过渡政府。部分抗议以与警方冲突告终。这场危机发生在黑山获邀加入北约之际,一直持续到2016年10月大选。",
+    "ja": "2015年秋、民主戦線が率いる野党はポドゴリツァで、ミロ・ジュカノヴィッチ首相の辞任と新選挙前の暫定政府の樹立を求める抗議行動を行った。一部の抗議は警察との衝突に終わった。モンテネグロがNATO加盟の招請を受ける時期に起きたこの危機は、2016年10月の選挙まで続いた。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q28669298",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Alleged coup plot on election day",
+    "ko": "선거일 쿠데타 모의 의혹",
+    "zh": "选举日政变阴谋指控",
+    "ja": "選挙日のクーデター計画疑惑"
+   },
+   "description": {
+    "en": "On the day of the October 2016 parliamentary elections, Montenegrin authorities announced the arrest of a group accused of planning to seize parliament and overturn the government. Prosecutors alleged involvement of Russian intelligence officers and opposition leaders, which Moscow and the accused denied. A first-instance court convicted the defendants in 2019, but an appeals court overturned the verdicts in 2021 and ordered a retrial.",
+    "ko": "2016년 10월 총선 당일 몬테네그로 당국은 의회를 장악하고 정부를 전복하려 한 혐의를 받는 일당을 체포했다고 발표했다. 검찰은 러시아 정보기관원과 야당 지도자들이 연루되었다고 주장했으나 러시아와 피고인들은 이를 부인했다. 1심 법원은 2019년 피고인들에게 유죄를 선고했으나, 항소법원은 2021년 판결을 파기하고 재심을 명령했다.",
+    "zh": "2016年10月议会选举当天,黑山当局宣布逮捕了一伙被指控图谋占领议会、推翻政府的人员。检方指称俄罗斯情报人员和反对党领导人涉案,俄方和被告均予以否认。一审法院于2019年判决被告有罪,但上诉法院于2021年撤销判决并下令重审。",
+    "ja": "2016年10月の議会選挙の当日、モンテネグロ当局は議会を占拠し政府を転覆しようとした疑いのある一団を逮捕したと発表した。検察はロシアの情報機関員と野党指導者の関与を主張したが、ロシアと被告はこれを否定した。一審裁判所は2019年に被告らに有罪判決を下したが、控訴裁判所は2021年にこれを破棄し再審を命じた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Montenegro joins NATO",
+    "ko": "북대서양조약기구(NATO) 가입",
+    "zh": "黑山加入北约",
+    "ja": "NATOに加盟"
+   },
+   "description": {
+    "en": "Montenegro became NATO's 29th member in June 2017, despite strong opposition from Russia and from a significant part of its own population, who recalled the 1999 bombing. Membership anchored the young state in Euro-Atlantic structures. It continued EU accession negotiations at the same time.",
+    "ko": "몬테네그로는 러시아와, 1999년 폭격을 기억하는 국내 상당수 주민의 강한 반대에도 2017년 6월 나토의 29번째 회원국이 되었다. 가입으로 신생 국가는 유럽·대서양 체제에 자리 잡게 되었다. 동시에 유럽연합 가입 협상도 이어 갔다.",
+    "zh": "尽管遭到俄罗斯以及国内记得1999年轰炸的相当一部分民众的强烈反对,黑山仍于2017年6月成为北约第29个成员国。入约使这个年轻国家融入欧洲-大西洋体系,同时继续推进加入欧盟的谈判。",
+    "ja": "ロシアや、1999年の空爆を記憶する国内のかなりの住民の強い反対にもかかわらず、モンテネグロは2017年6月にNATOの29番目の加盟国となった。加盟により若い国家は欧州・大西洋の枠組みに根を下ろした。同時にEU加盟交渉も続けた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Religion law protests and change of government",
+    "ko": "종교법 반대 시위와 정권 교체",
+    "zh": "宗教法抗议与政府更迭",
+    "ja": "宗教法抗議と政権交代"
+   },
+   "description": {
+    "en": "A law on freedom of religion adopted in December 2019, which the Serbian Orthodox Church saw as a threat to its property, triggered months of mass church-led processions. In the August 2020 parliamentary elections, opposition parties together won a narrow majority, ending three decades of rule by Milo Đukanović's DPS. A new government took office in December 2020, the first peaceful transfer of power since the introduction of multi-party politics.",
+    "ko": "2019년 12월 채택된 종교 자유법을 세르비아 정교회가 자신들의 재산에 대한 위협으로 여기면서, 교회가 이끄는 대규모 행렬 시위가 몇 달간 이어졌다. 2020년 8월 총선에서 야당들이 합쳐 근소한 과반을 차지해 밀로 주카노비치의 DPS가 30년간 이어 온 집권이 끝났다. 2020년 12월 새 정부가 출범했으며, 이는 다당제 도입 이후 첫 평화적 정권 교체였다.",
+    "zh": "2019年12月通过的宗教自由法被塞尔维亚东正教会视为对其财产的威胁,引发了持续数月、由教会主导的大规模游行。在2020年8月的议会选举中,各反对党合计赢得微弱多数,结束了米洛·久卡诺维奇的社会主义者民主党长达三十年的执政。新政府于2020年12月就职,这是实行多党制以来首次和平的政权交接。",
+    "ja": "2019年12月に採択された信教の自由に関する法律をセルビア正教会が自らの財産への脅威とみなしたことから、教会が主導する大規模な行進が何か月も続いた。2020年8月の議会選挙で野党が合わせてわずかな過半数を獲得し、ミロ・ジュカノヴィッチのDPSによる30年にわたる政権が終わった。2020年12月に新政府が発足し、複数政党制導入以来初の平和的な政権交代となった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87887813",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in Montenegro",
+    "ko": "몬테네그로의 코로나19 범유행",
+    "zh": "黑山的新冠疫情",
+    "ja": "モンテネグロの新型コロナ流行"
+   },
+   "description": {
+    "en": "Montenegro recorded its first COVID-19 cases in March 2020, later than most European countries, and imposed strict lockdown measures. After a period without active cases in spring, infections surged again in the summer and the country was hit hard over the following waves. The pandemic severely damaged the tourism-dependent economy.",
+    "ko": "몬테네그로는 대부분의 유럽 국가보다 늦은 2020년 3월 첫 코로나19 확진자를 기록하고 엄격한 봉쇄 조치를 시행했다. 봄에 활성 확진자가 없던 시기를 거친 뒤 여름에 감염이 다시 급증했고, 이후 여러 차례 유행으로 큰 타격을 입었다. 범유행은 관광 의존 경제에 심각한 피해를 주었다.",
+    "zh": "黑山于2020年3月出现首批新冠病例,晚于大多数欧洲国家,并实施了严格的封锁措施。春季一度没有现存病例,但夏季感染再次激增,此后数波疫情使该国遭受重创。疫情严重打击了依赖旅游业的经济。",
+    "ja": "モンテネグロでは多くのヨーロッパ諸国より遅い2020年3月に最初の新型コロナ感染者が確認され、厳しいロックダウン措置がとられた。春に活動中の感染者がいない時期を経た後、夏に感染が再び急増し、その後の複数の波で大きな打撃を受けた。パンデミックは観光に依存する経済に深刻な損害を与えた。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Cetinje enthronement protests",
+    "ko": "체티녜 착좌식 반대 시위",
+    "zh": "采蒂涅就职典礼抗议",
+    "ja": "ツェティニェ着座式をめぐる抗議"
+   },
+   "description": {
+    "en": "In September 2021 the enthronement of Joanikije as Serbian Orthodox Metropolitan of Montenegro and the Littoral at the Cetinje Monastery sparked protests by citizens who saw it as a provocation in the historic royal capital. Protesters erected barricades, and the metropolitan and the patriarch were flown in by military helicopter under heavy police protection. The events highlighted deep divisions over national and church identity.",
+    "ko": "2021년 9월 체티녜 수도원에서 열린 요아니키예의 세르비아 정교회 몬테네그로·연안 대주교 착좌식은 이를 역사적 왕도에 대한 도발로 여긴 시민들의 시위를 불렀다. 시위대는 바리케이드를 쳤고, 대주교와 총대주교는 삼엄한 경찰 경호 속에 군용 헬기로 이동했다. 이 사건은 민족·교회 정체성을 둘러싼 깊은 분열을 드러냈다.",
+    "zh": "2021年9月,约阿尼基耶在采蒂涅修道院就任塞尔维亚东正教会黑山与沿海都主教,引发了将其视为对历史王都之挑衅的民众抗议。抗议者设置路障,都主教和牧首在警方严密保护下乘军用直升机抵达。这一事件凸显了围绕民族和教会认同的深刻分歧。",
+    "ja": "2021年9月、ツェティニェ修道院でのヨアニキイェのセルビア正教会モンテネグロ・沿岸府主教への着座式は、これを歴史的王都への挑発とみなす市民の抗議を招いた。抗議者はバリケードを築き、府主教と総主教は厳重な警察の警護の下、軍用ヘリコプターで到着した。この出来事は民族と教会のアイデンティティをめぐる深い分断を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q113502850",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "2022 Cetinje shooting",
+    "ko": "2022년 체티녜 총격 사건",
+    "zh": "2022年采蒂涅枪击案",
+    "ja": "2022年ツェティニェ銃撃事件"
+   },
+   "description": {
+    "en": "In August 2022 a gunman killed several people, including children, in Cetinje before being shot dead by a passer-by. It was one of the deadliest mass shootings in Montenegro's history. The government declared national mourning, and the tragedy prompted debate about the widespread possession of firearms.",
+    "ko": "2022년 8월 체티녜에서 한 총격범이 어린이를 포함한 여러 명을 살해한 뒤 행인의 총에 맞아 숨졌다. 이는 몬테네그로 역사상 가장 많은 사망자를 낸 총기 난사 사건 가운데 하나였다. 정부는 국가 애도 기간을 선포했고, 이 비극은 널리 퍼진 총기 소지 문제에 대한 논의를 불러일으켰다.",
+    "zh": "2022年8月,一名枪手在采蒂涅杀害包括儿童在内的数人,随后被一名路人击毙。这是黑山历史上死亡人数最多的枪击案之一。政府宣布全国哀悼,这一悲剧引发了关于枪支普遍持有问题的讨论。",
+    "ja": "2022年8月、ツェティニェで銃撃犯が子どもを含む数人を殺害し、その後通行人に射殺された。これはモンテネグロ史上最も多くの死者を出した銃乱射事件の一つであった。政府は国家服喪を宣言し、この悲劇は広く普及した銃器所持をめぐる議論を呼んだ。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q84029128",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Milatović defeats Đukanović",
+    "ko": "밀라토비치, 주카노비치를 꺾다",
+    "zh": "米拉托维奇击败久卡诺维奇",
+    "ja": "ミラトヴィッチ、ジュカノヴィッチを破る"
+   },
+   "description": {
+    "en": "In the April 2023 presidential runoff, economist Jakov Milatović of the new Europe Now movement defeated incumbent Milo Đukanović, who had dominated Montenegrin politics as prime minister or president since 1991. Europe Now then came first in the June parliamentary elections, and Milojko Spajić became prime minister. The results marked a generational change in Montenegrin politics.",
+    "ko": "2023년 4월 대통령 선거 결선에서 신생 정당 '지금 유럽' 운동의 경제학자 야코프 밀라토비치가 1991년 이후 총리나 대통령으로 몬테네그로 정치를 지배해 온 현직 밀로 주카노비치를 꺾었다. 이어 6월 총선에서도 '지금 유럽'이 제1당이 되었고 밀로이코 스파이치가 총리가 되었다. 이 결과는 몬테네그로 정치의 세대교체를 보여 주었다.",
+    "zh": "在2023年4月的总统选举决选中,新兴政党“立即欧洲”运动的经济学家亚科夫·米拉托维奇击败了自1991年以来以总理或总统身份主导黑山政坛的现任总统米洛·久卡诺维奇。随后“立即欧洲”在6月议会选举中位居第一,米洛伊科·斯帕伊奇出任总理。这些结果标志着黑山政坛的代际更替。",
+    "ja": "2023年4月の大統領選挙決選投票で、新興の「ヨーロッパ・ナウ」運動の経済学者ヤコヴ・ミラトヴィッチが、1991年以来首相または大統領としてモンテネグロ政治を支配してきた現職のミロ・ジュカノヴィッチを破った。続く6月の議会選挙でも「ヨーロッパ・ナウ」が第一党となり、ミロイコ・スパイッチが首相に就任した。この結果はモンテネグロ政治の世代交代を示した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "EU interim benchmarks confirmed",
+    "ko": "유럽연합 중간 기준 충족 확인",
+    "zh": "欧盟确认达到中期基准",
+    "ja": "EU中間基準の達成確認"
+   },
+   "description": {
+    "en": "In June 2024 the European Union confirmed that Montenegro had met the interim benchmarks for the key rule-of-law chapters of its accession talks, the first candidate to reach this stage. The decision allowed Montenegro to move toward provisionally closing negotiating chapters. It renewed hopes that Montenegro could become the next member of the EU.",
+    "ko": "2024년 6월 유럽연합은 몬테네그로가 가입 협상의 핵심인 법치 분야 장(章)들의 중간 기준을 충족했다고 확인했으며, 이 단계에 이른 첫 후보국이 되었다. 이 결정으로 몬테네그로는 협상 장들을 잠정 종결하는 단계로 나아갈 수 있게 되었다. 이는 몬테네그로가 유럽연합의 다음 회원국이 될 수 있다는 기대를 높였다.",
+    "zh": "2024年6月,欧盟确认黑山已达到入盟谈判中关键法治章节的中期基准,成为首个达到这一阶段的候选国。这一决定使黑山得以推进临时关闭谈判章节的工作,重新燃起了黑山可能成为欧盟下一个成员国的希望。",
+    "ja": "2024年6月、EUはモンテネグロが加盟交渉の中核である法の支配に関する章の中間基準を満たしたことを確認し、この段階に達した最初の候補国となった。この決定によりモンテネグロは交渉章の暫定的な終了へと進めるようになった。モンテネグロがEUの次の加盟国になりうるとの期待が高まった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q131617247",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "2025 Cetinje shooting",
+    "ko": "2025년 체티녜 총격 사건",
+    "zh": "2025年采蒂涅枪击案",
+    "ja": "2025年ツェティニェ銃乱射事件"
+   },
+   "description": {
+    "en": "On New Year's Day 2025 a gunman killed multiple people, including children, in and around Cetinje, less than three years after the 2022 attack in the same town. The killings shocked the country, led to national mourning and renewed the debate over gun control.",
+    "ko": "2025년 새해 첫날 한 총격범이 체티녜와 그 주변에서 어린이를 포함한 여러 명을 살해했다. 같은 도시에서 2022년 총격이 일어난 지 3년도 채 지나지 않은 때였다. 이 사건은 나라에 충격을 주어 국가 애도로 이어졌고, 총기 규제 논의를 다시 불러일으켰다.",
+    "zh": "2025年元旦,一名枪手在采蒂涅及其周边杀害了包括儿童在内的多人,距同一城镇2022年的枪击案不到三年。这起事件震惊全国,引发全国哀悼,并再度掀起关于枪支管控的讨论。",
+    "ja": "2025年の元日、銃撃犯がツェティニェとその周辺で子どもを含む複数の人々を殺害した。同じ町で2022年に銃撃事件が起きてから3年も経たないうちのことであった。事件は国中に衝撃を与えて国家服喪につながり、銃規制をめぐる議論を再燃させた。"
+   }
+  }
+ ]
+}

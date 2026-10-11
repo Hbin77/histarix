@@ -1,0 +1,2388 @@
+{
+ "iso": "ET",
+ "eras": [
+  {
+   "from": -10000,
+   "to": -900,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Late Stone Age and early food production",
+    "ko": "후기 석기 시대와 초기 식량 생산",
+    "zh": "晚期石器时代与早期食物生产",
+    "ja": "後期石器時代と初期の食料生産"
+   },
+   "summary": {
+    "en": "Ethiopia's Rift Valley and highlands hold some of the world's richest records of human origins, and by the Holocene they were home to hunter-gatherers using obsidian tools. Over the following millennia herding of cattle, sheep and goats spread, and highland farmers domesticated native plants such as teff, noog and ensete, although the timing is still poorly known. These foundations shaped the agricultural societies of later Ethiopian states.",
+    "ko": "에티오피아의 리프트 밸리와 고원은 인류 기원에 관한 세계에서 가장 풍부한 기록을 간직하고 있으며, 홀로세에는 흑요석 도구를 쓰는 수렵채집민의 터전이었다. 이후 수천 년에 걸쳐 소·양·염소 목축이 퍼졌고, 고원의 농민들은 테프·누그·엔세테 같은 토착 식물을 작물화했으나 그 시기는 아직 잘 알려져 있지 않다. 이러한 토대는 후대 에티오피아 국가들의 농경 사회를 형성했다.",
+    "zh": "埃塞俄比亚的裂谷和高原保存着世界上最丰富的人类起源记录之一，全新世时期这里生活着使用黑曜石工具的狩猎采集者。此后数千年间，牛、绵羊和山羊的放牧逐渐传播，高原农民驯化了苔麸、尼日尔油菊和象腿蕉等本土植物，但具体时间仍不甚清楚。这些基础塑造了后来埃塞俄比亚国家的农业社会。",
+    "ja": "エチオピアのリフトバレーと高原は、人類の起源に関する世界有数の豊かな記録を残しており、完新世には黒曜石の石器を使う狩猟採集民が暮らしていた。その後数千年の間に牛・羊・ヤギの牧畜が広がり、高原の農民はテフ、ヌグ、エンセーテなどの在来植物を栽培化したが、その時期はまだよく分かっていない。こうした基盤が、のちのエチオピア諸国家の農耕社会を形づくった。"
+   }
+  },
+  {
+   "from": -980,
+   "to": -400,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Kingdom of D'mt",
+    "ko": "다맛 왕국",
+    "zh": "达阿马特王国",
+    "ja": "ダアマト王国"
+   },
+   "summary": {
+    "en": "D'mt, centred at Yeha in today's Tigray, was the earliest known kingdom of the northern Ethiopian highlands, flourishing from around the 10th to the 5th century BC (c.). Its rulers used a South Arabian script and built monumental temples in a Sabaean-influenced style, reflecting close ties across the Red Sea. The kingdom practised plough agriculture and ironworking, preparing the ground for Aksum.",
+    "ko": "오늘날 티그라이의 예하를 중심으로 한 다맛은 에티오피아 북부 고원에서 알려진 가장 이른 왕국으로, 기원전 10세기경부터 5세기경(약)까지 번영했다. 지배층은 남아라비아 문자를 사용하고 사바 양식의 영향을 받은 기념비적 신전을 세웠는데, 이는 홍해 건너편과의 긴밀한 관계를 보여 준다. 왕국은 쟁기 농업과 철기 제작을 했으며 악숨의 토대를 마련했다.",
+    "zh": "以今提格雷的耶哈为中心的达阿马特是埃塞俄比亚北部高原已知最早的王国，约繁荣于公元前10世纪至前5世纪。其统治者使用南阿拉伯文字，修建受萨巴风格影响的宏伟神庙，反映出与红海对岸的密切联系。王国从事犁耕农业和冶铁，为阿克苏姆奠定了基础。",
+    "ja": "現在のティグライのイェハを中心とするダアマトは、エチオピア北部高原で知られる最古の王国で、紀元前10世紀頃から前5世紀頃まで栄えた。支配層は南アラビア文字を用い、サバ様式の影響を受けた壮大な神殿を建てており、紅海対岸との密接な関係を物語る。王国は犂耕農業と製鉄を行い、アクスムの基礎を築いた。"
+   }
+  },
+  {
+   "from": -400,
+   "to": -50,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Proto-Aksumite period",
+    "ko": "원(原)악숨 시대",
+    "zh": "原阿克苏姆时期",
+    "ja": "原アクスム期"
+   },
+   "summary": {
+    "en": "After the decline of D'mt, the northern highlands were divided among smaller polities whose names are mostly unknown. In these centuries a distinctive local culture emerged around the Aksum area, with growing settlements, elite burials and the first funerary stelae. This period laid the foundations for the rise of the Aksumite kingdom.",
+    "ko": "다맛이 쇠퇴한 뒤 북부 고원은 이름이 대부분 알려지지 않은 작은 정치체들로 나뉘었다. 이 몇 세기 동안 악숨 일대에서는 취락의 성장, 엘리트 무덤, 최초의 장례용 석주와 함께 독자적인 지역 문화가 형성되었다. 이 시기는 악숨 왕국이 일어설 토대를 마련했다.",
+    "zh": "达阿马特衰落后，北部高原分裂为若干名称大多不详的小政治体。在这几个世纪里，阿克苏姆一带形成了独特的地方文化，聚落不断扩大，出现了精英墓葬和最早的墓葬石碑。这一时期为阿克苏姆王国的兴起奠定了基础。",
+    "ja": "ダアマトの衰退後、北部高原は名前のほとんど分からない小規模な勢力に分かれた。この数世紀の間にアクスム周辺では、集落の拡大やエリートの墓、最初の葬送用石碑とともに独自の地域文化が形成された。この時代がアクスム王国興隆の基盤となった。"
+   }
+  },
+  {
+   "from": -50,
+   "to": 960,
+   "kind": "state",
+   "qid": "Q139377",
+   "polity": "Kingdom of Axum",
+   "name": {
+    "en": "Kingdom of Aksum",
+    "ko": "악숨 왕국",
+    "zh": "阿克苏姆王国",
+    "ja": "アクスム王国"
+   },
+   "summary": {
+    "en": "From its capital at Aksum in Tigray, the Aksumite kingdom became a major Red Sea power, trading ivory and gold with Rome, Arabia and India, minting its own coins and raising giant stone stelae. Under King Ezana it adopted Christianity in the 4th century, and in the 6th century it briefly ruled South Arabia. Losing its sea trade after the rise of Islam, it declined and its political centre shifted south, but its legacy of Ge'ez writing and Orthodox Christianity endured.",
+    "ko": "티그라이의 수도 악숨을 중심으로 한 악숨 왕국은 로마·아라비아·인도와 상아·금을 교역하고 자체 화폐를 주조하며 거대한 석주를 세운 홍해의 강국이 되었다. 4세기 에자나 왕 때 기독교를 받아들였고 6세기에는 한동안 남아라비아를 지배했다. 이슬람의 대두 이후 해상 교역을 잃으면서 쇠퇴하고 정치 중심이 남쪽으로 옮겨 갔으나, 게에즈 문자와 정교회 신앙이라는 유산은 이어졌다.",
+    "zh": "以提格雷的阿克苏姆为都城的阿克苏姆王国成为红海强国，与罗马、阿拉伯和印度进行象牙和黄金贸易，自铸钱币，竖立巨大的石碑。4世纪埃扎纳国王时期接受基督教，6世纪一度统治南阿拉伯。伊斯兰教兴起后失去海上贸易，王国衰落，政治中心南移，但吉兹文字和东正教的遗产延续了下来。",
+    "ja": "ティグライの都アクスムを中心とするアクスム王国は、ローマ、アラビア、インドと象牙や金を交易し、独自の貨幣を鋳造し、巨大な石碑を建てた紅海の強国となった。4世紀のエザナ王の時代にキリスト教を受け入れ、6世紀には一時南アラビアを支配した。イスラームの興隆後に海上交易を失って衰退し、政治の中心は南へ移ったが、ゲエズ文字と正教という遺産は受け継がれた。"
+   }
+  },
+  {
+   "from": 900,
+   "to": 1285,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Sultanate of Shewa",
+    "ko": "셰와 술탄국",
+    "zh": "绍阿苏丹国",
+    "ja": "シェワ・スルタン国"
+   },
+   "summary": {
+    "en": "A Muslim sultanate ruled by the Makhzumi dynasty existed in eastern Shewa, according to a later Arabic chronicle that dates its foundation to the late 9th century; these early dates are uncertain. It was one of the first Muslim states in the Ethiopian interior, tied to trade routes leading to the port of Zeila. It was absorbed by the Walashma rulers of Ifat in the late 13th century.",
+    "ko": "후대의 아랍어 연대기에 따르면 동부 셰와에는 마흐주미 왕조가 다스리는 이슬람 술탄국이 있었고, 그 건국은 9세기 말로 기록되어 있으나 이러한 초기 연대는 불확실하다. 이는 제일라 항으로 이어지는 교역로와 연결된 에티오피아 내륙 최초의 이슬람 국가 가운데 하나였다. 13세기 말 이파트의 왈라쉬마 왕조에 흡수되었다.",
+    "zh": "据后世一部阿拉伯文编年史记载，绍阿东部存在一个由马赫祖米王朝统治的穆斯林苏丹国，其建立时间被定在9世纪末，但这些早期年代并不确定。它是埃塞俄比亚内陆最早的穆斯林国家之一，与通往泽拉港的商路相连。13世纪末它被伊法特的瓦拉什马王朝吞并。",
+    "ja": "後世のアラビア語年代記によれば、東部シェワにはマフズーム朝が治めるムスリムのスルタン国があり、その建国は9世紀末とされるが、こうした初期の年代は不確かである。これはゼイラ港へ通じる交易路と結びついた、エチオピア内陸最初期のムスリム国家の一つであった。13世紀末にイファトのワラシュマ朝に吸収された。"
+   }
+  },
+  {
+   "from": 960,
+   "to": 1137,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Post-Aksumite period",
+    "ko": "후기 악숨 시대",
+    "zh": "后阿克苏姆时期",
+    "ja": "アクスム後期"
+   },
+   "summary": {
+    "en": "The 10th and 11th centuries are among the most obscure in Ethiopian history. Tradition tells of a destructive queen, Gudit (Yodit), who devastated the Christian kingdom, while the remnant Christian state continued further south in regions such as Lasta and Amhara. Contacts with the Coptic Church in Egypt, which supplied Ethiopia's bishops, are among the few documented threads of continuity.",
+    "ko": "10~11세기는 에티오피아 역사에서 가장 모호한 시기 중 하나이다. 전승은 기독교 왕국을 황폐화한 파괴적인 여왕 구디트(요디트)를 이야기하며, 남은 기독교 국가는 라스타와 암하라 같은 더 남쪽 지역에서 명맥을 이었다. 에티오피아의 주교를 보내 준 이집트 콥트 교회와의 접촉은 기록으로 확인되는 몇 안 되는 연속성의 실마리이다.",
+    "zh": "10至11世纪是埃塞俄比亚历史上最模糊的时期之一。传说中有一位毁灭性的女王古迪特（尤迪特）摧残了基督教王国，残存的基督教国家则在更南方的拉斯塔和阿姆哈拉等地区延续。与为埃塞俄比亚派遣主教的埃及科普特教会的联系，是少数有据可查的延续线索之一。",
+    "ja": "10〜11世紀はエチオピア史で最も不明瞭な時代の一つである。伝承はキリスト教王国を荒廃させた破壊的な女王グディト（ヨディト）を語り、残ったキリスト教国家はラスタやアムハラなど、より南の地域で存続した。エチオピアの主教を派遣したエジプトのコプト教会との接触は、記録で確かめられる数少ない連続性の糸口である。"
+   }
+  },
+  {
+   "from": 1100,
+   "to": 1317,
+   "kind": "state",
+   "qid": "Q2902588",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Damot",
+    "ko": "다모트 왕국",
+    "zh": "达莫特王国",
+    "ja": "ダモト王国"
+   },
+   "summary": {
+    "en": "Damot was a powerful non-Christian kingdom located south of the Abay (Blue Nile), remembered in Ethiopian traditions and chronicles as a rival of the Christian state. Its history is known only from fragmentary and partly legendary sources, which describe its rulers' wars against Shewa and the Christian kings. It was subdued by Emperor Amda Seyon in the early 14th century, and the name later shifted to a province in Gojjam.",
+    "ko": "다모트는 아바이(청나일)강 남쪽에 있던 강력한 비기독교 왕국으로, 에티오피아 전승과 연대기에 기독교 국가의 경쟁자로 기억된다. 그 역사는 단편적이고 일부 전설적인 사료로만 알려져 있으며, 그 지배자들이 셰와와 기독교 왕들에 맞서 싸운 일을 전한다. 14세기 초 아므다 세욘 황제에게 복속되었고, 그 이름은 이후 고잠의 한 지방을 가리키게 되었다.",
+    "zh": "达莫特是位于阿拜河（青尼罗河）以南的一个强大的非基督教王国，在埃塞俄比亚的传说和编年史中被视为基督教国家的对手。其历史仅见于零散且部分带有传说色彩的史料，这些史料记述了其统治者与绍阿和基督教国王的战争。14世纪初它被阿姆达·塞永皇帝征服，其名称后来转指戈贾姆的一个省份。",
+    "ja": "ダモトはアバイ川（青ナイル）以南にあった強力な非キリスト教王国で、エチオピアの伝承や年代記にはキリスト教国家の競争相手として記憶されている。その歴史は断片的で一部伝説的な史料からしか知られず、支配者たちがシェワやキリスト教徒の王と戦ったことを伝えている。14世紀初めに皇帝アムダ・セヨンに服属し、その名はのちにゴッジャムの一地方を指すようになった。"
+   }
+  },
+  {
+   "from": 1137,
+   "to": 1270,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Zagwe dynasty",
+    "ko": "자그웨 왕조",
+    "zh": "扎格维王朝",
+    "ja": "ザグウェ朝"
+   },
+   "summary": {
+    "en": "The Zagwe dynasty, of Agaw origin, ruled the Christian kingdom from its centre at Roha (later Lalibela) in Lasta from around the 12th century (c.). Its kings are best remembered for the monolithic rock-hewn churches of Lalibela, conceived as a 'New Jerusalem'. Later Solomonic writers portrayed the Zagwe as usurpers, but they maintained links with the Coptic Church and with Jerusalem.",
+    "ko": "아가우계인 자그웨 왕조는 12세기경(약)부터 라스타의 로하(훗날 랄리벨라)를 중심으로 기독교 왕국을 다스렸다. 그 왕들은 '새 예루살렘'으로 구상된 랄리벨라의 암굴 교회군으로 가장 잘 기억된다. 후대 솔로몬 왕조의 저술가들은 자그웨를 찬탈자로 그렸지만, 이들은 콥트 교회 및 예루살렘과의 관계를 유지했다.",
+    "zh": "阿高人出身的扎格维王朝约从12世纪起以拉斯塔的罗哈（后称拉利贝拉）为中心统治基督教王国。其国王最为人称道的是被构想为“新耶路撒冷”的拉利贝拉整块岩石凿成的教堂群。后来的所罗门王朝作者把扎格维描绘为篡位者，但他们与科普特教会和耶路撒冷都保持着联系。",
+    "ja": "アガウ系のザグウェ朝は12世紀頃から、ラスタのロハ（のちのラリベラ）を中心にキリスト教王国を治めた。その王たちは「新しいエルサレム」として構想されたラリベラの一枚岩の岩窟教会群で最もよく知られている。後世のソロモン朝の著述家はザグウェを簒奪者として描いたが、彼らはコプト教会やエルサレムとの関係を保っていた。"
+   }
+  },
+  {
+   "from": 1270,
+   "to": 1974,
+   "kind": "state",
+   "qid": "Q207521",
+   "polity": "Ethiopian Empire",
+   "name": {
+    "en": "Ethiopian Empire (Solomonic dynasty)",
+    "ko": "에티오피아 제국(솔로몬 왕조)",
+    "zh": "埃塞俄比亚帝国（所罗门王朝）",
+    "ja": "エチオピア帝国（ソロモン朝）"
+   },
+   "summary": {
+    "en": "From 1270 the Solomonic dynasty, claiming descent from Solomon and the Queen of Sheba, ruled the Christian highland empire, at first with mobile royal camps and later from Gondar and Addis Ababa. The empire expanded under Amda Seyon and Zara Yaqob, was nearly destroyed by Adal in the 16th century, and fragmented during the Era of the Princes before being reunited in the 19th century. Under Menelik II it reached roughly its modern borders and defeated Italy at Adwa, and it lasted until the revolution of 1974.",
+    "ko": "1270년부터 솔로몬과 시바 여왕의 후손을 자처한 솔로몬 왕조가 고원의 기독교 제국을 다스렸는데, 처음에는 이동식 왕실 진영에서, 이후에는 곤다르와 아디스아바바에서 통치했다. 제국은 아므다 세욘과 자라 야콥 시대에 확장되었고, 16세기 아달에 의해 거의 무너졌으며, '제후들의 시대'에 분열되었다가 19세기에 재통일되었다. 메넬리크 2세 때 대체로 오늘날의 국경에 이르고 아드와에서 이탈리아를 물리쳤으며, 1974년 혁명 때까지 존속했다.",
+    "zh": "自1270年起，自称所罗门与示巴女王后裔的所罗门王朝统治着高原基督教帝国，起初以流动的王营为中心，后来定都贡德尔和亚的斯亚贝巴。帝国在阿姆达·塞永和扎拉·雅各布时期扩张，16世纪几乎被阿达尔摧毁，在“诸侯时代”陷入分裂，19世纪重新统一。在孟尼利克二世治下，帝国大致达到今天的疆域并在阿杜瓦击败意大利，一直延续到1974年革命。",
+    "ja": "1270年から、ソロモンとシバの女王の子孫を称するソロモン朝が高原のキリスト教帝国を治め、当初は移動する王の陣営から、のちにはゴンダールやアディスアベバから統治した。帝国はアムダ・セヨンとザラ・ヤコブの時代に拡大し、16世紀にはアダルによりほぼ壊滅し、「諸侯の時代」に分裂した後、19世紀に再統一された。メネリク2世の下でほぼ現在の国境に達してアドワでイタリアを破り、1974年の革命まで続いた。"
+   }
+  },
+  {
+   "from": 1285,
+   "to": 1415,
+   "kind": "state",
+   "qid": "Q157727",
+   "polity": "Ifat Sultanate",
+   "name": {
+    "en": "Ifat Sultanate",
+    "ko": "이파트 술탄국",
+    "zh": "伊法特苏丹国",
+    "ja": "イファト・スルタン国"
+   },
+   "summary": {
+    "en": "Ifat was a Muslim sultanate founded in eastern Shewa in the late 13th century by the Walashma dynasty, which took over the older Sultanate of Shewa. Controlling trade routes from the highlands to Zeila, it became the main Muslim rival of the Christian empire. Repeatedly defeated by Amda Seyon and his successors, it collapsed in the early 15th century and its rulers re-established their state as Adal.",
+    "ko": "이파트는 13세기 말 왈라쉬마 왕조가 이전의 셰와 술탄국을 넘겨받아 동부 셰와에 세운 이슬람 술탄국이다. 고원에서 제일라로 이어지는 교역로를 장악하며 기독교 제국의 주된 이슬람 경쟁자가 되었다. 아므다 세욘과 그 후계자들에게 거듭 패한 끝에 15세기 초 무너졌고, 그 지배자들은 아달로 국가를 재건했다.",
+    "zh": "伊法特是13世纪末瓦拉什马王朝接管较早的绍阿苏丹国后在绍阿东部建立的穆斯林苏丹国。它控制着从高原通往泽拉的商路，成为基督教帝国的主要穆斯林对手。在屡次败于阿姆达·塞永及其继任者之后，它于15世纪初崩溃，其统治者以阿达尔之名重建国家。",
+    "ja": "イファトは、13世紀末にワラシュマ朝が先行するシェワ・スルタン国を引き継いで東部シェワに建てたムスリムのスルタン国である。高原からゼイラへ至る交易路を押さえ、キリスト教帝国の主要なムスリムの競争相手となった。アムダ・セヨンとその後継者に繰り返し敗れて15世紀初めに崩壊し、その支配者はアダルとして国家を再建した。"
+   }
+  },
+  {
+   "from": 1300,
+   "to": 1500,
+   "kind": "state",
+   "qid": "Q558596",
+   "polity": null,
+   "name": {
+    "en": "Hadiya",
+    "ko": "하디야 왕국",
+    "zh": "哈迪亚王国",
+    "ja": "ハディヤ王国"
+   },
+   "summary": {
+    "en": "Hadiya was a state in the southern part of the central Ethiopian highlands, mentioned in Christian chronicles from the reign of Amda Seyon, when it became a tributary of the empire. Its people were partly Muslim, and it lay on trade routes linking the south to the Muslim sultanates of the east. The Hadiya princess Eleni married Emperor Zara Yaqob and later became an influential figure at the imperial court.",
+    "ko": "하디야는 에티오피아 중부 고원 남쪽에 있던 국가로, 아므다 세욘 시대부터 기독교 연대기에 등장하며 이때 제국의 조공국이 되었다. 주민 일부는 무슬림이었고, 남부와 동부 이슬람 술탄국들을 잇는 교역로 위에 있었다. 하디야의 공주 엘레니는 자라 야콥 황제와 혼인했고 이후 제국 궁정의 영향력 있는 인물이 되었다.",
+    "zh": "哈迪亚是位于埃塞俄比亚中部高原南部的一个国家，自阿姆达·塞永时期起见于基督教编年史，当时成为帝国的属国。其居民部分信奉伊斯兰教，地处连接南方与东部穆斯林苏丹国的商路上。哈迪亚公主埃莱尼嫁给扎拉·雅各布皇帝，后来成为帝国宫廷中颇具影响力的人物。",
+    "ja": "ハディヤはエチオピア中部高原の南部にあった国家で、アムダ・セヨンの時代からキリスト教の年代記に現れ、この時に帝国の朝貢国となった。住民の一部はムスリムで、南部と東部のムスリムのスルタン国を結ぶ交易路上にあった。ハディヤの王女エレニは皇帝ザラ・ヤコブと結婚し、のちに帝国宮廷の有力者となった。"
+   }
+  },
+  {
+   "from": 1390,
+   "to": 1897,
+   "kind": "state",
+   "qid": "Q1462877",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Kaffa",
+    "ko": "카파 왕국",
+    "zh": "卡法王国",
+    "ja": "カッファ王国"
+   },
+   "summary": {
+    "en": "Kaffa was a kingdom of the forested southwestern highlands, traditionally founded around the late 14th century (c.), with a sacred king and a well-organized administration. Protected by dense forests and defensive ditches, it remained independent for centuries and traded in slaves, ivory, musk and the wild coffee native to the region. It was conquered by Menelik II's forces in 1897.",
+    "ko": "카파는 남서부 삼림 고원의 왕국으로, 전승에 따르면 14세기 말경(약) 세워졌으며 신성한 왕과 잘 조직된 행정을 갖추고 있었다. 울창한 숲과 방어용 해자로 보호받으며 수백 년 동안 독립을 유지했고, 노예·상아·사향과 이 지역 원산의 야생 커피를 교역했다. 1897년 메넬리크 2세의 군대에 정복되었다.",
+    "zh": "卡法是西南部森林高原上的王国，据传约建于14世纪末，拥有神圣国王和组织严密的行政体系。在茂密森林和防御壕沟的保护下，它保持独立达数百年，并从事奴隶、象牙、麝香以及该地区原产野生咖啡的贸易。1897年被孟尼利克二世的军队征服。",
+    "ja": "カッファは南西部の森林高原の王国で、伝承では14世紀末頃に建てられ、神聖王と整った行政組織を備えていた。深い森と防御用の堀に守られて何世紀も独立を保ち、奴隷、象牙、麝香、そしてこの地域原産の野生コーヒーを交易した。1897年にメネリク2世の軍に征服された。"
+   }
+  },
+  {
+   "from": 1415,
+   "to": 1577,
+   "kind": "state",
+   "qid": "Q2365048",
+   "polity": "Adal Sultanate",
+   "name": {
+    "en": "Adal Sultanate",
+    "ko": "아달 술탄국",
+    "zh": "阿达尔苏丹国",
+    "ja": "アダル・スルタン国"
+   },
+   "summary": {
+    "en": "Adal was a Muslim sultanate of the eastern lowlands and the Harar plateau, founded in the early 15th century by the Walashma dynasty after the fall of Ifat, with its centre later at Harar. Under Imam Ahmad ibn Ibrahim it invaded and overran much of the Christian empire between 1529 and 1543. Exhausted by war and by the Oromo migrations, it moved its capital to Aussa in 1577 and soon declined.",
+    "ko": "아달은 이파트가 무너진 뒤 15세기 초 왈라쉬마 왕조가 세운 동부 저지대와 하라르 고원의 이슬람 술탄국으로, 이후 하라르가 중심지가 되었다. 이맘 아흐마드 이븐 이브라힘의 지휘 아래 1529년부터 1543년까지 기독교 제국의 대부분을 침공해 휩쓸었다. 전쟁과 오로모의 이주로 지친 아달은 1577년 수도를 아우사로 옮긴 뒤 곧 쇠퇴했다.",
+    "zh": "阿达尔是伊法特灭亡后瓦拉什马王朝于15世纪初在东部低地和哈勒尔高原建立的穆斯林苏丹国，后来以哈勒尔为中心。在伊玛目艾哈迈德·伊本·易卜拉欣领导下，它于1529年至1543年间入侵并占领了基督教帝国的大部分地区。因战争和奥罗莫人迁徙而精疲力竭的阿达尔于1577年迁都奥萨，不久即衰落。",
+    "ja": "アダルはイファト滅亡後の15世紀初めにワラシュマ朝が東部低地とハラール高原に建てたムスリムのスルタン国で、のちにハラールが中心となった。イマーム、アフマド・イブン・イブラーヒームの下で1529年から1543年にかけてキリスト教帝国の大半に侵攻し席巻した。戦争とオロモの移動で疲弊したアダルは1577年に首都をアウサへ移し、まもなく衰退した。"
+   }
+  },
+  {
+   "from": 1550,
+   "to": 1700,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Oromo migrations",
+    "ko": "오로모의 대이주",
+    "zh": "奥罗莫人大迁徙",
+    "ja": "オロモの大移動"
+   },
+   "summary": {
+    "en": "From the mid-16th century Oromo groups, organized by the gadaa age-grade system, expanded from the southern highlands into large areas of central, western and eastern Ethiopia weakened by the Adal–Ethiopian war. The movement transformed the population and political map of the region. Over time many Oromo communities settled as farmers, adopted Christianity or Islam, and became central actors in Ethiopian politics.",
+    "ko": "16세기 중엽부터 가다 연령 등급 제도로 조직된 오로모 집단들은 남부 고원에서 아달·에티오피아 전쟁으로 약해진 중부·서부·동부 에티오피아의 넓은 지역으로 퍼져 나갔다. 이 이동은 지역의 인구와 정치 지형을 바꾸어 놓았다. 시간이 흐르며 많은 오로모 공동체가 농민으로 정착해 기독교나 이슬람을 받아들였고 에티오피아 정치의 핵심 주체가 되었다.",
+    "zh": "从16世纪中叶起，以“加达”年龄组制度组织起来的奥罗莫人群体从南部高原扩展到因阿达尔—埃塞俄比亚战争而衰弱的埃塞俄比亚中部、西部和东部广大地区。这一迁徙改变了该地区的人口和政治版图。随着时间推移，许多奥罗莫社群定居务农，接受基督教或伊斯兰教，成为埃塞俄比亚政治的核心力量。",
+    "ja": "16世紀半ばから、ガダ年齢階梯制で組織されたオロモの諸集団は、南部高原から、アダル・エチオピア戦争で弱体化した中部・西部・東部エチオピアの広い地域へ拡大した。この移動は地域の人口と政治地図を一変させた。やがて多くのオロモ共同体が農民として定住し、キリスト教やイスラームを受け入れ、エチオピア政治の中心的な担い手となった。"
+   }
+  },
+  {
+   "from": 1632,
+   "to": 1769,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Gondarine period",
+    "ko": "곤다르 시대",
+    "zh": "贡德尔时期",
+    "ja": "ゴンダール時代"
+   },
+   "summary": {
+    "en": "After the expulsion of the Jesuits and the restoration of Orthodoxy, emperors from Fasilides onward ruled from the permanent capital of Gondar north of Lake Tana. The period saw a flowering of architecture, church painting and Ge'ez literature, alongside growing power of regional nobles. It ended in 1769 when Ras Mikael Sehul killed Emperor Iyoas, opening the Era of the Princes.",
+    "ko": "예수회 추방과 정교회 복원 이후 파실리데스부터 황제들은 타나호 북쪽의 영구 수도 곤다르에서 통치했다. 이 시기에는 건축과 교회 회화, 게에즈 문학이 꽃피는 한편 지방 귀족의 세력도 커졌다. 1769년 라스 미카엘 세훌이 이요아스 황제를 살해하면서 끝나고 '제후들의 시대'가 열렸다.",
+    "zh": "在驱逐耶稣会士、恢复东正教之后，从法西利德斯起的历代皇帝都以塔纳湖北面的永久首都贡德尔为统治中心。这一时期建筑、教堂绘画和吉兹文学繁荣发展，同时地方贵族的势力日益增强。1769年拉斯·米卡埃尔·塞胡勒杀死皇帝约阿斯，该时期结束，“诸侯时代”开始。",
+    "ja": "イエズス会の追放と正教の復興の後、ファシリデス以降の皇帝はタナ湖北方の恒久的な首都ゴンダールから統治した。この時代には建築、教会絵画、ゲエズ文学が花開く一方、地方貴族の力も強まった。1769年にラス・ミカエル・セフルが皇帝イヨアスを殺害して終わり、「諸侯の時代」が始まった。"
+   }
+  },
+  {
+   "from": 1647,
+   "to": 1875,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Emirate of Harar",
+    "ko": "하라르 에미르국",
+    "zh": "哈勒尔埃米尔国",
+    "ja": "ハラール首長国"
+   },
+   "summary": {
+    "en": "After the decline of Adal, Harar became an independent emirate in 1647 under Emir Ali ibn Daud, a walled city-state and centre of Islamic learning and trade in the eastern highlands. Surrounded by Oromo farmers and pastoralists, it relied on commerce linking the interior to the Gulf of Aden. It was occupied by Egypt in 1875 and annexed by Menelik II in 1887.",
+    "ko": "아달이 쇠퇴한 뒤 하라르는 1647년 에미르 알리 이븐 다우드 아래 독립 에미르국이 되었으며, 동부 고원의 이슬람 학문과 교역의 중심인 성곽 도시국가였다. 오로모 농민과 목축민에 둘러싸인 하라르는 내륙과 아덴만을 잇는 상업에 의지했다. 1875년 이집트에 점령되었고 1887년 메넬리크 2세에게 병합되었다.",
+    "zh": "阿达尔衰落后，哈勒尔于1647年在埃米尔阿里·伊本·达乌德治下成为独立的埃米尔国，是东部高原一座设防的城邦，也是伊斯兰学术和贸易中心。它被奥罗莫农民和牧民包围，依靠连接内陆与亚丁湾的商业生存。1875年被埃及占领，1887年被孟尼利克二世吞并。",
+    "ja": "アダルの衰退後、ハラールは1647年にアミール、アリー・イブン・ダーウードの下で独立した首長国となった。城壁に囲まれた都市国家であり、東部高原のイスラーム学問と交易の中心であった。オロモの農民や牧畜民に囲まれ、内陸とアデン湾を結ぶ商業に依存した。1875年にエジプトに占領され、1887年にメネリク2世に併合された。"
+   }
+  },
+  {
+   "from": 1734,
+   "to": 1936,
+   "kind": "state",
+   "qid": "Q791787",
+   "polity": null,
+   "name": {
+    "en": "Aussa Sultanate",
+    "ko": "아우사 술탄국",
+    "zh": "奥萨苏丹国",
+    "ja": "アウサ・スルタン国"
+   },
+   "summary": {
+    "en": "The Aussa Sultanate was the leading Afar state in the lower Awash valley, ruled from the 1730s (c.) by the Mudaito dynasty. It controlled caravan routes between the highlands and the Red Sea coast and kept considerable autonomy even after accepting Ethiopian overlordship under Menelik II. Its autonomy ended with the Italian invasion and occupation in the 1930s.",
+    "ko": "아우사 술탄국은 아와시강 하류 계곡의 대표적인 아파르 국가로, 1730년대경(약)부터 무다이토 왕조가 다스렸다. 고원과 홍해 연안을 잇는 대상로를 장악했고, 메넬리크 2세 때 에티오피아의 종주권을 인정한 뒤에도 상당한 자치를 유지했다. 그 자치는 1930년대 이탈리아의 침공과 점령으로 끝났다.",
+    "zh": "奥萨苏丹国是阿瓦什河下游河谷主要的阿法尔人国家，约自18世纪30年代起由穆代托王朝统治。它控制着高原与红海沿岸之间的商队路线，即使在孟尼利克二世时期承认埃塞俄比亚的宗主权后仍保持相当的自治。其自治在20世纪30年代意大利入侵和占领时终结。",
+    "ja": "アウサ・スルタン国はアワシュ川下流域を代表するアファールの国家で、1730年代頃からムダイト朝が治めた。高原と紅海沿岸を結ぶ隊商路を押さえ、メネリク2世の時代にエチオピアの宗主権を認めた後もかなりの自治を保った。その自治は1930年代のイタリアの侵攻と占領によって終わった。"
+   }
+  },
+  {
+   "from": 1769,
+   "to": 1855,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Zemene Mesafint (Era of the Princes)",
+    "ko": "제메네 메사핀트(제후들의 시대)",
+    "zh": "诸侯时代（泽梅内·梅萨芬特）",
+    "ja": "ゼメネ・メサフィント（諸侯の時代）"
+   },
+   "summary": {
+    "en": "Between 1769 and 1855 the Solomonic emperors in Gondar became figureheads while regional lords of Tigray, Begemder, Gojjam, Shewa and the Yejju dynasty fought for supremacy. Central authority collapsed and warfare was frequent, though regional courts and churches continued to flourish. The period ended when Kassa Hailu defeated his rivals and was crowned Tewodros II.",
+    "ko": "1769년부터 1855년까지 곤다르의 솔로몬 왕조 황제들은 허수아비가 되었고, 티그라이·베게므데르·고잠·셰와의 지방 영주들과 예주 왕조가 패권을 다투었다. 중앙 권력은 붕괴하고 전쟁이 잦았지만 지방 궁정과 교회는 계속 번성했다. 이 시기는 카사 하일루가 경쟁자들을 물리치고 테워드로스 2세로 즉위하면서 끝났다.",
+    "zh": "1769年至1855年间，贡德尔的所罗门王朝皇帝沦为傀儡，提格雷、贝格姆德尔、戈贾姆、绍阿的地方领主以及耶朱王朝争夺霸权。中央权威瓦解，战争频繁，但地方宫廷和教会仍持续繁荣。卡萨·海卢击败对手并加冕为特沃德罗斯二世后，这一时期宣告结束。",
+    "ja": "1769年から1855年まで、ゴンダールのソロモン朝皇帝は名目的な存在となり、ティグライ、ベゲムデル、ゴッジャム、シェワの地方領主やイェジュ朝が覇権を争った。中央権力は崩壊し戦争が絶えなかったが、地方の宮廷や教会は引き続き栄えた。カサ・ハイルが競争相手を破りテオドロス2世として即位したことで、この時代は終わった。"
+   }
+  },
+  {
+   "from": 1790,
+   "to": 1932,
+   "kind": "state",
+   "qid": "Q1759078",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Jimma and the Gibe states",
+    "ko": "짐마 왕국과 기베 국가들",
+    "zh": "吉马王国与吉贝诸国",
+    "ja": "ジンマ王国とギベ諸国"
+   },
+   "summary": {
+    "en": "In the Gibe river region of the southwest, several Oromo monarchies arose in the late 18th and 19th centuries, including Jimma, Limmu-Ennarea, Gumma and Gera. Jimma, the most powerful, adopted Islam as its court religion and prospered from trade in coffee, ivory and other goods. Its ruler Abba Jifar II submitted peacefully to Menelik II in 1882 and kept internal autonomy until 1932.",
+    "ko": "남서부 기베강 유역에서는 18세기 말과 19세기에 짐마, 림무엔나레아, 굼마, 게라 등 여러 오로모 왕국이 일어났다. 가장 강력했던 짐마는 이슬람을 궁정 종교로 받아들이고 커피·상아 등의 교역으로 번영했다. 그 군주 아바 지파르 2세는 1882년 메넬리크 2세에게 평화적으로 복속했고 1932년까지 내정 자치를 유지했다.",
+    "zh": "在西南部吉贝河流域，18世纪末至19世纪兴起了吉马、利穆—恩纳雷亚、古马和格拉等多个奥罗莫君主国。其中最强大的吉马以伊斯兰教为宫廷宗教，凭借咖啡、象牙等贸易而繁荣。其君主阿巴·吉法尔二世于1882年和平归顺孟尼利克二世，并保持内部自治至1932年。",
+    "ja": "南西部のギベ川流域では、18世紀末から19世紀にかけてジンマ、リンム・エンナレア、グンマ、ゲラなど複数のオロモの王国が興った。最も有力なジンマはイスラームを宮廷の宗教とし、コーヒーや象牙などの交易で繁栄した。その君主アバ・ジファル2世は1882年にメネリク2世に平和的に服属し、1932年まで内政の自治を保った。"
+   }
+  },
+  {
+   "from": 1936,
+   "to": 1941,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "Italian Africa",
+   "name": {
+    "en": "Italian occupation (Italian East Africa)",
+    "ko": "이탈리아 점령기(이탈리아령 동아프리카)",
+    "zh": "意大利占领时期（意属东非）",
+    "ja": "イタリア占領期（イタリア領東アフリカ）"
+   },
+   "summary": {
+    "en": "After invading in 1935 and taking Addis Ababa in May 1936, Fascist Italy merged Ethiopia with Eritrea and Italian Somaliland into Italian East Africa. The occupation was marked by brutal repression, including mass killings after the 1937 attempt on Viceroy Graziani, while Ethiopian patriots (arbegnoch) kept up resistance in the countryside. Italian rule ended in 1941 when British, Commonwealth and Ethiopian forces liberated the country.",
+    "ko": "1935년 침공해 1936년 5월 아디스아바바를 점령한 파시스트 이탈리아는 에티오피아를 에리트레아, 이탈리아령 소말릴란드와 합쳐 이탈리아령 동아프리카로 만들었다. 점령은 1937년 그라치아니 총독 암살 미수 이후의 대량 학살을 비롯한 잔혹한 탄압으로 얼룩졌고, 에티오피아 애국자(아르베뇨치)들은 농촌에서 저항을 이어 갔다. 이탈리아의 통치는 1941년 영국·영연방·에티오피아군이 나라를 해방하면서 끝났다.",
+    "zh": "法西斯意大利于1935年入侵、1936年5月攻占亚的斯亚贝巴后，将埃塞俄比亚与厄立特里亚和意属索马里兰合并为意属东非。占领期间镇压极为残酷，包括1937年格拉齐亚尼总督遇刺未遂后的大屠杀，而埃塞俄比亚爱国者（阿尔贝诺奇）在乡村坚持抵抗。1941年英国、英联邦和埃塞俄比亚部队解放该国，意大利统治结束。",
+    "ja": "1935年に侵攻し1936年5月にアディスアベバを占領したファシスト・イタリアは、エチオピアをエリトリア、イタリア領ソマリランドと統合してイタリア領東アフリカとした。占領は1937年のグラツィアーニ総督暗殺未遂後の大量殺害を含む残虐な弾圧に彩られ、エチオピアの愛国者（アルベニョチ）は農村で抵抗を続けた。イタリアの支配は1941年、イギリス・英連邦軍とエチオピア軍が国を解放して終わった。"
+   }
+  },
+  {
+   "from": 1952,
+   "to": 1962,
+   "kind": "state",
+   "qid": "Q2603305",
+   "polity": null,
+   "name": {
+    "en": "Federation of Ethiopia and Eritrea",
+    "ko": "에티오피아·에리트레아 연방",
+    "zh": "埃塞俄比亚—厄立特里亚联邦",
+    "ja": "エチオピア・エリトリア連邦"
+   },
+   "summary": {
+    "en": "Under a 1950 UN resolution, the former Italian colony of Eritrea was federated with Ethiopia in 1952 as an autonomous unit under the Ethiopian crown. The arrangement gave Ethiopia access to the Red Sea ports of Massawa and Assab. Haile Selassie's government steadily undermined Eritrean autonomy and dissolved the federation in 1962, annexing Eritrea outright.",
+    "ko": "1950년 유엔 결의에 따라 옛 이탈리아 식민지 에리트레아는 1952년 에티오피아 왕관 아래의 자치 단위로서 에티오피아와 연방을 이루었다. 이 체제로 에티오피아는 홍해의 마사와와 아사브 항구에 접근할 수 있게 되었다. 하일레 셀라시에 정부는 에리트레아의 자치를 꾸준히 훼손했고 1962년 연방을 해체해 에리트레아를 완전히 병합했다.",
+    "zh": "根据1950年联合国决议，前意大利殖民地厄立特里亚于1952年作为埃塞俄比亚王室之下的自治单位与埃塞俄比亚组成联邦。这一安排使埃塞俄比亚获得了红海港口马萨瓦和阿萨布的出海通道。海尔·塞拉西政府不断削弱厄立特里亚的自治，并于1962年解散联邦，彻底吞并厄立特里亚。",
+    "ja": "1950年の国連決議に基づき、旧イタリア植民地エリトリアは1952年、エチオピア帝冠の下の自治単位としてエチオピアと連邦を形成した。この体制によりエチオピアは紅海のマッサワ港とアッサブ港への出口を得た。ハイレ・セラシエ政府はエリトリアの自治を着実に損ない、1962年に連邦を解消してエリトリアを完全に併合した。"
+   }
+  },
+  {
+   "from": 1974,
+   "to": 1991,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Derg and the People's Democratic Republic",
+    "ko": "데르그와 인민민주공화국",
+    "zh": "德尔格与人民民主共和国",
+    "ja": "デルグとエチオピア人民民主共和国"
+   },
+   "summary": {
+    "en": "In 1974 a military committee, the Derg, overthrew Haile Selassie and, under Mengistu Haile Mariam, proclaimed a Marxist-Leninist state, nationalizing land and businesses. Its rule was marked by the Red Terror, war with Somalia, insurgencies in Eritrea, Tigray and elsewhere, and the catastrophic famine of 1983–1985. A civilian People's Democratic Republic was declared in 1987, but the regime collapsed in 1991 as rebel forces advanced on Addis Ababa.",
+    "ko": "1974년 군사위원회인 데르그가 하일레 셀라시에를 축출했고, 멩기스투 하일레 마리암 아래 마르크스·레닌주의 국가를 선포하며 토지와 기업을 국유화했다. 그 통치는 붉은 테러, 소말리아와의 전쟁, 에리트레아·티그라이 등지의 반란, 1983~1985년의 참혹한 기근으로 얼룩졌다. 1987년 민간 형식의 인민민주공화국이 선포되었으나 정권은 반군이 아디스아바바로 진격한 1991년에 무너졌다.",
+    "zh": "1974年，军事委员会德尔格推翻海尔·塞拉西，在门格斯图·海尔·马里亚姆领导下宣布建立马克思列宁主义国家，将土地和企业收归国有。其统治伴随着“红色恐怖”、与索马里的战争、厄立特里亚和提格雷等地的叛乱以及1983—1985年的灾难性饥荒。1987年宣布成立文官形式的人民民主共和国，但随着反政府武装向亚的斯亚贝巴推进，政权于1991年崩溃。",
+    "ja": "1974年、軍事委員会デルグがハイレ・セラシエを退位させ、メンギスツ・ハイレ・マリアムの下でマルクス・レーニン主義国家を宣言し、土地と企業を国有化した。その支配は赤色テロ、ソマリアとの戦争、エリトリアやティグライなどでの反乱、1983〜1985年の破滅的な飢饉に彩られた。1987年に文民形式の人民民主共和国が宣言されたが、反政府勢力がアディスアベバに迫った1991年に政権は崩壊した。"
+   }
+  },
+  {
+   "from": 1991,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q115",
+   "polity": "Ethiopia",
+   "name": {
+    "en": "Federal Democratic Republic of Ethiopia",
+    "ko": "에티오피아 연방민주공화국",
+    "zh": "埃塞俄比亚联邦民主共和国",
+    "ja": "エチオピア連邦民主共和国"
+   },
+   "summary": {
+    "en": "After the fall of the Derg, the EPRDF coalition led by Meles Zenawi established a federal system based on ethnically defined regions under the 1995 constitution. Ethiopia achieved rapid economic growth and major infrastructure projects but faced authoritarian rule, mass protests and a border war with Eritrea. Since 2018 Prime Minister Abiy Ahmed's reforms and peace with Eritrea have been followed by the devastating Tigray War of 2020–2022 and continuing conflicts in Amhara and Oromia.",
+    "ko": "데르그가 무너진 뒤 멜레스 제나위가 이끄는 EPRDF 연합은 1995년 헌법에 따라 민족 단위 지역에 기초한 연방제를 수립했다. 에티오피아는 빠른 경제 성장과 대형 기반 시설 사업을 이루었지만 권위주의 통치, 대규모 시위, 에리트레아와의 국경 전쟁을 겪었다. 2018년 이후 아비 아머드 총리의 개혁과 에리트레아와의 평화 뒤에는 2020~2022년의 참혹한 티그라이 전쟁과 암하라·오로미아에서의 계속되는 분쟁이 이어졌다.",
+    "zh": "德尔格垮台后，梅莱斯·泽纳维领导的埃革阵联盟根据1995年宪法建立了以民族划分地区为基础的联邦制度。埃塞俄比亚实现了经济快速增长并兴建了大型基础设施项目，但也经历了威权统治、大规模抗议以及与厄立特里亚的边境战争。2018年以来，阿比·艾哈迈德总理的改革以及与厄立特里亚的和解之后，接踵而至的是2020—2022年惨烈的提格雷战争以及阿姆哈拉和奥罗米亚持续的冲突。",
+    "ja": "デルグの崩壊後、メレス・ゼナウィ率いるEPRDF連合は1995年憲法の下で、民族を単位とする州に基づく連邦制を築いた。エチオピアは急速な経済成長と大型インフラ事業を実現したが、権威主義的な統治、大規模な抗議運動、エリトリアとの国境戦争を経験した。2018年以降、アビィ・アハメド首相の改革とエリトリアとの和平に続き、2020〜2022年の悲惨なティグライ戦争と、アムハラやオロミアでの紛争の継続が起きている。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2000,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Domestication of native Ethiopian crops",
+    "ko": "에티오피아 토착 작물의 작물화",
+    "zh": "埃塞俄比亚本土作物的驯化",
+    "ja": "エチオピア在来作物の栽培化"
+   },
+   "description": {
+    "en": "The Ethiopian highlands are one of the world's independent centres of plant domestication, giving rise to crops such as teff, noog, ensete (false banana) and coffee. Exactly when these plants were first cultivated remains uncertain, but farming with native and introduced crops was established in prehistory, well before the first states. Teff and ensete are still staple foods for millions of Ethiopians.",
+    "ko": "에티오피아 고원은 세계에서 독자적으로 식물을 작물화한 중심지 가운데 하나로, 테프·누그·엔세테(가짜 바나나)·커피 같은 작물이 이곳에서 나왔다. 이 식물들이 언제 처음 재배되었는지는 여전히 불확실하지만, 토착 작물과 외래 작물을 이용한 농경은 최초의 국가가 등장하기 훨씬 전인 선사 시대에 이미 자리 잡았다. 테프와 엔세테는 지금도 수백만 에티오피아인의 주식이다.",
+    "zh": "埃塞俄比亚高原是世界上独立的植物驯化中心之一，苔麸、尼日尔油菊、象腿蕉（假香蕉）和咖啡等作物都源自这里。这些植物最早何时被栽培尚不确定，但利用本土和外来作物的农业早在最早的国家出现之前的史前时期就已确立。苔麸和象腿蕉至今仍是数百万埃塞俄比亚人的主食。",
+    "ja": "エチオピア高原は世界でも独立した植物栽培化の中心地の一つで、テフ、ヌグ、エンセーテ（偽バナナ）、コーヒーなどの作物を生み出した。これらがいつ初めて栽培されたかはなお不確かだが、在来作物と外来作物による農耕は、最初の国家が現れるはるか以前の先史時代に確立していた。テフとエンセーテは今も数百万人のエチオピア人の主食である。"
+   }
+  },
+  {
+   "year": -980,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Kingdom of D'mt rises at Yeha",
+    "ko": "예하를 중심으로 다맛 왕국 성립",
+    "zh": "达阿马特王国在耶哈兴起",
+    "ja": "イェハを中心にダアマト王国が成立"
+   },
+   "description": {
+    "en": "Around the 10th century BCE the Kingdom of D'mt emerged in the northern highlands, centered at Yeha, whose great stone temple still stands. It developed irrigation, ironworking and ties with South Arabia.",
+    "ko": "기원전 10세기경 북부 고원지대에 다맛 왕국이 등장했다. 중심지 예하에는 지금도 거대한 석조 신전이 남아 있으며, 관개 농업과 철기 문화, 남아라비아와의 교류가 발달했다.",
+    "zh": "约公元前10世纪,达阿马特王国在北部高原兴起,其中心耶哈至今仍保存着宏伟的石砌神庙。王国发展了灌溉农业与冶铁技术,并与南阿拉伯保持交流。",
+    "ja": "紀元前10世紀頃、北部高原にダアマト王国が興った。中心地イェハには今も壮大な石造神殿が残る。灌漑農業や製鉄技術が発達し、南アラビアとの交流も盛んだった。"
+   }
+  },
+  {
+   "year": -700,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Great Temple of Yeha",
+    "ko": "예하의 대신전",
+    "zh": "耶哈大神庙",
+    "ja": "イェハの大神殿"
+   },
+   "description": {
+    "en": "Around the 7th century BC (c.) the Great Temple of Yeha was built of finely dressed limestone blocks, closely resembling Sabaean temples in Yemen. Dedicated to the South Arabian moon god Almaqah, it is the oldest standing building in Ethiopia. Its roofless walls still rise next to a later Orthodox church on the same site.",
+    "ko": "기원전 7세기경(약) 정교하게 다듬은 석회암 블록으로 예멘의 사바 신전과 매우 닮은 예하의 대신전이 세워졌다. 남아라비아의 달의 신 알마카에게 바쳐진 이 신전은 에티오피아에서 현존하는 가장 오래된 건축물이다. 지붕 없는 벽체는 지금도 같은 터의 후대 정교회 교회 옆에 서 있다.",
+    "zh": "约公元前7世纪，耶哈大神庙以精心修整的石灰岩块建成，与也门的萨巴神庙极为相似。它供奉南阿拉伯月神阿尔马卡，是埃塞俄比亚现存最古老的建筑。其无顶的墙体至今仍矗立在同一地点一座后建的东正教堂旁。",
+    "ja": "紀元前7世紀頃、丁寧に加工された石灰岩のブロックで、イエメンのサバの神殿によく似たイェハの大神殿が建てられた。南アラビアの月神アルマカに捧げられたこの神殿は、エチオピアに現存する最古の建造物である。屋根のない壁は今も、同じ敷地に後世建てられた正教会の教会の隣にそびえている。"
+   }
+  },
+  {
+   "year": 100,
+   "qid": "Q139377",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "The Kingdom of Aksum becomes a great power",
+    "ko": "악숨 왕국, 강대국으로 부상",
+    "zh": "阿克苏姆王国崛起为强国",
+    "ja": "アクスム王国が大国として台頭"
+   },
+   "description": {
+    "en": "By the 1st century CE Aksum had grown into a major trading empire linking Rome and India, minting its own coins and raising monumental obelisks. Contemporaries counted it among the great powers of the ancient world.",
+    "ko": "1세기경 악숨 왕국은 로마와 인도를 잇는 대교역 제국으로 성장해 독자적 주화를 발행하고 거대한 오벨리스크를 세웠다. 당대에 고대 세계의 강대국 중 하나로 꼽혔다.",
+    "zh": "公元1世纪,阿克苏姆发展为连接罗马与印度的贸易大国,铸造自己的钱币并竖立巨型方尖碑,被时人视为古代世界的强国之一。",
+    "ja": "1世紀頃、アクスム王国はローマとインドを結ぶ一大交易帝国へと成長し、独自の貨幣を鋳造して巨大なオベリスクを建立した。当時の人々から古代世界の強国の一つに数えられた。"
+   }
+  },
+  {
+   "year": 250,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mani counts Aksum among the four great kingdoms",
+    "ko": "마니, 악숨을 세계 4대 왕국으로 꼽다",
+    "zh": "摩尼将阿克苏姆列为四大王国之一",
+    "ja": "マニ、アクスムを四大王国の一つに数える"
+   },
+   "description": {
+    "en": "In the 3rd century the Persian prophet Mani, founder of Manichaeism, is recorded as naming Aksum as one of the four great kingdoms of the world, alongside Rome, Persia and China. The remark reflects Aksum's prominence in Red Sea and Indian Ocean trade. Aksum's international reach was also shown by its use of Greek in inscriptions and coins.",
+    "ko": "3세기 마니교의 창시자인 페르시아의 예언자 마니는 로마·페르시아·중국과 함께 악숨을 세계 4대 왕국 가운데 하나로 꼽았다고 기록되어 있다. 이 언급은 홍해와 인도양 교역에서 악숨이 차지한 위상을 반영한다. 악숨의 국제적 영향력은 비문과 화폐에 그리스어를 사용한 데서도 드러난다.",
+    "zh": "据记载，3世纪摩尼教创始人、波斯先知摩尼将阿克苏姆与罗马、波斯和中国并列为世界四大王国。这一说法反映了阿克苏姆在红海和印度洋贸易中的显赫地位。阿克苏姆在铭文和钱币上使用希腊文，也显示了它的国际影响力。",
+    "ja": "3世紀、マニ教の創始者であるペルシアの預言者マニは、ローマ、ペルシア、中国と並んでアクスムを世界の四大王国の一つに数えたと記録されている。この言葉は紅海・インド洋交易におけるアクスムの地位を反映している。碑文や貨幣にギリシア語を用いたことも、アクスムの国際的な広がりを示している。"
+   }
+  },
+  {
+   "year": 300,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Giant stelae of Aksum",
+    "ko": "악숨의 거대 석주",
+    "zh": "阿克苏姆巨型石碑",
+    "ja": "アクスムの巨大石碑"
+   },
+   "description": {
+    "en": "Around the 3rd–4th centuries (c.) Aksum's rulers erected monumental granite stelae carved to imitate multi-storey buildings with false doors and windows, marking royal tombs. The largest, the Great Stele, probably collapsed during or soon after erection. The obelisk taken to Rome by Italy in 1937 was returned to Aksum in 2005, and the site is a UNESCO World Heritage Site.",
+    "ko": "3~4세기경(약) 악숨의 지배자들은 거짓 문과 창이 새겨진 여러 층 건물을 본뜬 기념비적 화강암 석주를 세워 왕릉을 표시했다. 가장 큰 '대석주'는 세우는 도중이나 직후 쓰러진 것으로 보인다. 1937년 이탈리아가 로마로 가져간 오벨리스크는 2005년 악숨에 반환되었으며, 이 유적은 유네스코 세계유산이다.",
+    "zh": "约3至4世纪，阿克苏姆的统治者竖立起雕刻成多层建筑模样、带有假门假窗的巨大花岗岩石碑，用来标示王陵。最大的“大石碑”很可能在竖立过程中或不久后倒塌。1937年被意大利运往罗马的方尖碑于2005年归还阿克苏姆，该遗址已列入联合国教科文组织世界遗产。",
+    "ja": "3〜4世紀頃、アクスムの支配者たちは偽の扉や窓を刻んで多層建築を模した巨大な花崗岩の石碑を建て、王墓の目印とした。最大の「大石碑」は建立中かその直後に倒れたとみられる。1937年にイタリアがローマへ持ち去ったオベリスクは2005年にアクスムへ返還され、遺跡はユネスコの世界遺産となっている。"
+   }
+  },
+  {
+   "year": 330,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "King Ezana makes Christianity the state religion",
+    "ko": "에자나 왕, 기독교를 국교로 수용",
+    "zh": "埃扎纳国王定基督教为国教",
+    "ja": "エザナ王、キリスト教を国教とする"
+   },
+   "description": {
+    "en": "Around 330 CE King Ezana of Aksum converted to Christianity under the influence of Frumentius, making Ethiopia one of the world's oldest Christian nations and founding the Ethiopian Orthodox tradition.",
+    "ko": "330년경 악숨의 에자나 왕이 프루멘티우스의 영향으로 기독교로 개종했다. 이로써 에티오피아는 세계에서 가장 오래된 기독교 국가 중 하나가 되었고 에티오피아 정교회의 전통이 시작되었다.",
+    "zh": "约330年,阿克苏姆国王埃扎纳在弗鲁门修斯的影响下皈依基督教,埃塞俄比亚由此成为世界上最古老的基督教国家之一,埃塞俄比亚正教会的传统亦发端于此。",
+    "ja": "330年頃、アクスム王エザナはフルメンティウスの感化を受けてキリスト教に改宗した。エチオピアは世界最古級のキリスト教国となり、エチオピア正教会の伝統がここに始まった。"
+   }
+  },
+  {
+   "year": 350,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ezana's campaign against the Noba",
+    "ko": "에자나 왕의 노바 원정",
+    "zh": "埃扎纳征讨诺巴人",
+    "ja": "エザナ王のノバ遠征"
+   },
+   "description": {
+    "en": "Around 350 (c.), according to his own inscription, King Ezana led a campaign westward against the Noba people along the Nile and Atbara rivers in the former lands of Meroe. The inscription, written in Ge'ez, invokes the Christian God, showing the new faith of the court. The expedition illustrates Aksum's reach toward Nubia after the decline of Meroe.",
+    "ko": "350년경(약) 에자나 왕은 자신의 비문에 따르면 옛 메로에 땅의 나일강과 아트바라강 유역에 사는 노바족을 치기 위해 서쪽으로 원정했다. 게에즈어로 쓴 이 비문은 기독교의 하느님을 부르고 있어 궁정의 새로운 신앙을 보여 준다. 이 원정은 메로에 쇠퇴 이후 누비아 쪽으로 뻗친 악숨의 영향력을 보여 준다.",
+    "zh": "约350年，据埃扎纳国王本人的铭文记载，他向西远征居住在原麦罗埃领土上尼罗河与阿特巴拉河沿岸的诺巴人。这篇吉兹文铭文祈求基督教的上帝，显示了宫廷的新信仰。这次远征说明麦罗埃衰落后阿克苏姆的势力已伸向努比亚。",
+    "ja": "350年頃、エザナ王は自らの碑文によれば、旧メロエ領のナイル川とアトバラ川沿いに住むノバ人を討つため西方へ遠征した。ゲエズ語で書かれたこの碑文はキリスト教の神に祈っており、宮廷の新しい信仰を示している。この遠征はメロエ衰退後、ヌビア方面に及んだアクスムの勢力を物語る。"
+   }
+  },
+  {
+   "year": 480,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Arrival of the Nine Saints",
+    "ko": "아홉 성인의 도래",
+    "zh": "“九圣徒”的到来",
+    "ja": "九聖人の到来"
+   },
+   "description": {
+    "en": "According to tradition, in the late 5th century (c.) nine monks from the eastern Roman world, known as the Nine Saints, arrived in Aksum. They are credited with spreading Christianity into the countryside, founding monasteries such as Debre Damo, and translating religious texts into Ge'ez. They strengthened the Miaphysite (non-Chalcedonian) orientation of the Ethiopian church.",
+    "ko": "전승에 따르면 5세기 말경(약) 동로마 세계에서 '아홉 성인'으로 알려진 아홉 명의 수도사가 악숨에 왔다. 이들은 농촌에 기독교를 퍼뜨리고 데브레 다모 같은 수도원을 세우며 종교 문헌을 게에즈어로 번역한 것으로 전해진다. 이들은 에티오피아 교회의 합성론(비칼케돈파) 성향을 강화했다.",
+    "zh": "据传统说法，5世纪末，九位来自东罗马世界、被称为“九圣徒”的修士来到阿克苏姆。人们认为他们把基督教传播到乡村，创建了德布雷达莫等修道院，并将宗教典籍译成吉兹文。他们强化了埃塞俄比亚教会的合性论（非卡尔西顿派）取向。",
+    "ja": "伝承によれば、5世紀末頃、東ローマ世界から「九聖人」と呼ばれる9人の修道士がアクスムにやって来た。彼らは農村部にキリスト教を広め、デブレ・ダモなどの修道院を創建し、宗教文献をゲエズ語に翻訳したとされる。彼らはエチオピア教会の合性論（非カルケドン派）的な方向性を強めた。"
+   }
+  },
+  {
+   "year": 525,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "King Kaleb conquers Himyar",
+    "ko": "칼렙 왕의 힘야르 정복",
+    "zh": "卡莱布国王征服希木叶尔",
+    "ja": "カレブ王、ヒムヤルを征服"
+   },
+   "description": {
+    "en": "Around 525 King Kaleb of Aksum sent a large expedition across the Red Sea against the Himyarite king Dhu Nuwas, who had massacred Christians at Najran. The victory placed Yemen under Aksumite-backed rulers, among them Abraha, for about half a century. Kaleb is venerated as a saint, and the campaign marked the height of Aksum's international power.",
+    "ko": "525년경 악숨의 칼렙 왕은 나지란에서 기독교인을 학살한 힘야르 왕 두 누와스를 치기 위해 홍해 건너로 대규모 원정군을 보냈다. 이 승리로 예멘은 약 반세기 동안 아브라하 등 악숨이 후원하는 통치자들 아래 놓였다. 칼렙은 성인으로 공경받으며, 이 원정은 악숨의 국제적 위세가 절정에 이른 순간이었다.",
+    "zh": "约525年，阿克苏姆国王卡莱布派遣大军渡过红海，讨伐在纳季兰屠杀基督徒的希木叶尔国王杜·努瓦斯。这场胜利使也门在约半个世纪里处于阿布拉哈等阿克苏姆支持的统治者之下。卡莱布被尊为圣人，这次远征标志着阿克苏姆国际势力的顶峰。",
+    "ja": "525年頃、アクスムのカレブ王は、ナジュラーンでキリスト教徒を虐殺したヒムヤル王ズー・ヌワースを討つため、紅海の対岸へ大軍を送った。この勝利によりイエメンは約半世紀にわたり、アブラハらアクスムの後ろ盾を得た支配者の下に置かれた。カレブは聖人として崇敬され、この遠征はアクスムの国際的勢力の頂点を示すものであった。"
+   }
+  },
+  {
+   "year": 570,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Persians end Aksumite influence in Yemen",
+    "ko": "페르시아, 예멘에서 악숨 세력 축출",
+    "zh": "波斯终结阿克苏姆在也门的势力",
+    "ja": "ペルシア、イエメンからアクスム勢力を駆逐"
+   },
+   "description": {
+    "en": "Around 570 (c.) the Sasanian Persian Empire intervened in Yemen at the request of local opponents and overthrew the Aksumite-backed dynasty founded by Abraha. Aksum lost its foothold in South Arabia and its dominance of Red Sea trade began to weaken. The rise of Islam in the following decades further transformed the region's commerce.",
+    "ko": "570년경(약) 사산조 페르시아는 현지 반대 세력의 요청으로 예멘에 개입해 아브라하가 세운 악숨 후원 왕조를 무너뜨렸다. 악숨은 남아라비아의 거점을 잃었고 홍해 교역에서의 우위도 약해지기 시작했다. 이어진 수십 년 동안 이슬람의 대두는 이 지역의 상업을 더욱 크게 바꾸어 놓았다.",
+    "zh": "约570年，萨珊波斯帝国应当地反对派的请求干预也门，推翻了阿布拉哈建立的、受阿克苏姆支持的王朝。阿克苏姆失去了在南阿拉伯的立足点，其在红海贸易中的优势开始削弱。此后数十年伊斯兰教的兴起进一步改变了该地区的商业格局。",
+    "ja": "570年頃、ササン朝ペルシアは現地の反対勢力の要請でイエメンに介入し、アブラハが築いたアクスム寄りの王朝を倒した。アクスムは南アラビアの足場を失い、紅海交易での優位も揺らぎ始めた。続く数十年のイスラームの興隆は、この地域の商業をさらに大きく変えた。"
+   }
+  },
+  {
+   "year": 615,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "The First Hijra: Muslims find refuge in Aksum",
+    "ko": "제1차 히즈라: 무슬림의 악숨 피난",
+    "zh": "第一次希吉拉：穆斯林避难阿克苏姆",
+    "ja": "第一次ヒジュラ：ムスリムがアクスムに避難"
+   },
+   "description": {
+    "en": "Around 615 a group of the Prophet Muhammad's early followers, persecuted in Mecca, crossed the Red Sea and were sheltered by the Christian king of Aksum, known in Islamic tradition as the Najashi. Islamic sources praise the king's justice in refusing to hand them over to the Meccans. The village of Negash in Tigray, with a mosque associated with this tradition, is regarded as an early centre of Islam in Africa.",
+    "ko": "615년경 메카에서 박해받던 무함마드 예언자의 초기 추종자 일부가 홍해를 건너 악숨의 기독교 왕의 보호를 받았는데, 이 왕은 이슬람 전승에서 '나자시'로 알려져 있다. 이슬람 사료는 그가 메카 측에 그들을 넘겨주지 않은 정의로움을 칭송한다. 이 전승과 관련된 모스크가 있는 티그라이의 네가시 마을은 아프리카 이슬람의 초기 중심지로 여겨진다.",
+    "zh": "约615年，先知穆罕默德的一批早期追随者在麦加受到迫害，渡过红海，得到阿克苏姆基督教国王的庇护，伊斯兰传统称这位国王为“纳贾希”。伊斯兰史料称赞他拒绝将他们交给麦加人的公正。提格雷的内加什村有一座与这一传统相关的清真寺，被视为非洲伊斯兰教的早期中心。",
+    "ja": "615年頃、メッカで迫害されていた預言者ムハンマドの初期の信徒の一団が紅海を渡り、アクスムのキリスト教徒の王に保護された。この王はイスラームの伝承で「ナジャーシー」として知られる。イスラームの史料は、彼がメッカ側への引き渡しを拒んだ公正さを称えている。この伝承にゆかりのあるモスクを持つティグライのネガシュ村は、アフリカにおけるイスラームの初期の中心地とされる。"
+   }
+  },
+  {
+   "year": 800,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Aksum declines and the kingdom shifts south",
+    "ko": "악숨의 쇠퇴와 왕국 중심의 남하",
+    "zh": "阿克苏姆衰落，王国中心南移",
+    "ja": "アクスムの衰退と王国の南遷"
+   },
+   "description": {
+    "en": "By the 8th and 9th centuries (c.) Aksum had lost its Red Sea trade and stopped minting coins, and the city itself declined. The Christian kingdom's centre of gravity moved southward into the interior highlands, possibly also due to environmental degradation around Aksum. Written sources for this transition are very scarce.",
+    "ko": "8~9세기경(약) 악숨은 홍해 교역을 잃고 화폐 주조를 중단했으며 도시 자체도 쇠퇴했다. 기독교 왕국의 중심은 내륙 고원 남쪽으로 옮겨 갔는데, 악숨 주변의 환경 악화도 원인이었을 가능성이 있다. 이 전환기에 관한 문헌 사료는 매우 드물다.",
+    "zh": "约8至9世纪，阿克苏姆失去了红海贸易，停止铸币，城市本身也衰落了。基督教王国的重心向南转移到内陆高原，这可能也与阿克苏姆周边环境恶化有关。关于这一转变的文字史料极为稀少。",
+    "ja": "8〜9世紀頃までに、アクスムは紅海交易を失って貨幣の鋳造をやめ、都市そのものも衰えた。キリスト教王国の重心は内陸の高原へと南下したが、アクスム周辺の環境悪化も一因だった可能性がある。この移行期についての文献史料はきわめて乏しい。"
+   }
+  },
+  {
+   "year": 896,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Founding of the Sultanate of Shewa (tradition)",
+    "ko": "셰와 술탄국 건국(전승)",
+    "zh": "绍阿苏丹国建立（传说）",
+    "ja": "シェワ・スルタン国の建国（伝承）"
+   },
+   "description": {
+    "en": "According to a later Arabic chronicle, the Makhzumi dynasty founded a Muslim sultanate in eastern Shewa in 896. The date and early history come from a single tradition and are uncertain. The sultanate nonetheless reflects the spread of Islam into the Ethiopian interior along trade routes from the Gulf of Aden coast.",
+    "ko": "후대의 아랍어 연대기에 따르면 마흐주미 왕조가 896년 동부 셰와에 이슬람 술탄국을 세웠다. 이 연대와 초기 역사는 단일 전승에 근거하므로 불확실하다. 그럼에도 이 술탄국은 아덴만 연안에서 이어지는 교역로를 따라 이슬람이 에티오피아 내륙으로 퍼졌음을 보여 준다.",
+    "zh": "据后世一部阿拉伯文编年史记载，马赫祖米王朝于896年在绍阿东部建立了一个穆斯林苏丹国。这一年代和早期历史仅出自单一传说，并不确定。但该苏丹国仍反映了伊斯兰教沿着来自亚丁湾沿岸的商路向埃塞俄比亚内陆传播的情况。",
+    "ja": "後世のアラビア語年代記によれば、マフズーム朝は896年に東部シェワにムスリムのスルタン国を建てた。この年代と初期の歴史は単一の伝承に基づくもので不確かである。それでもこのスルタン国は、アデン湾沿岸からの交易路に沿ってイスラームがエチオピア内陸へ広まったことを示している。"
+   }
+  },
+  {
+   "year": 960,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Queen Gudit devastates the Christian kingdom (tradition)",
+    "ko": "구디트 여왕의 기독교 왕국 파괴(전승)",
+    "zh": "古迪特女王摧毁基督教王国（传说）",
+    "ja": "女王グディトによるキリスト教王国の破壊（伝承）"
+   },
+   "description": {
+    "en": "Ethiopian tradition tells of a queen named Gudit or Yodit who, around the 10th century (c.), sacked Aksum, burned churches and killed members of the royal family. A contemporary Arabic geographer mentions a queen ruling in Ethiopia at about this time, but her identity and origins are much debated. The episode symbolizes the obscure collapse of the old Aksumite order.",
+    "ko": "에티오피아 전승은 10세기경(약) 구디트 또는 요디트라는 여왕이 악숨을 약탈하고 교회를 불태우며 왕족을 살해했다고 전한다. 동시대 아랍 지리학자도 이 무렵 에티오피아를 다스린 여왕을 언급하지만, 그 정체와 출신은 논란이 많다. 이 일화는 옛 악숨 질서의 불분명한 붕괴를 상징한다.",
+    "zh": "埃塞俄比亚传说称，约10世纪，一位名叫古迪特（或尤迪特）的女王洗劫阿克苏姆，焚烧教堂，杀害王室成员。同时代的一位阿拉伯地理学家也提到大约此时有一位女王统治埃塞俄比亚，但她的身份和来历争议很大。这一事件象征着古老的阿克苏姆秩序晦暗不明的崩溃。",
+    "ja": "エチオピアの伝承は、10世紀頃、グディトまたはヨディトという女王がアクスムを略奪し、教会を焼き、王族を殺害したと伝える。同時代のアラブの地理学者もこの頃エチオピアを治めた女王に言及しているが、その正体と出自については議論が多い。この出来事は、古いアクスムの秩序の不明瞭な崩壊を象徴している。"
+   }
+  },
+  {
+   "year": 1137,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Zagwe dynasty and the churches of Lalibela",
+    "ko": "자그웨 왕조와 랄리벨라 암굴 교회",
+    "zh": "扎格维王朝与拉利贝拉岩石教堂",
+    "ja": "ザグウェ朝とラリベラの岩窟教会群"
+   },
+   "description": {
+    "en": "The Zagwe dynasty, ruling from around 1137, created a new sacred center: under King Lalibela eleven monolithic churches were carved from solid rock, a 'New Jerusalem' now recognized as a UNESCO World Heritage site.",
+    "ko": "1137년경부터 집권한 자그웨 왕조는 새로운 성지를 조성했다. 랄리벨라 왕 치세에 11개의 암굴 교회가 통바위를 깎아 만들어졌으며, '새 예루살렘'이라 불린 이곳은 유네스코 세계유산으로 등재되어 있다.",
+    "zh": "约1137年起执政的扎格维王朝营建了新的圣地:在拉利贝拉国王时期,十一座教堂由整块岩石凿成。这座\"新耶路撒冷\"如今已列入联合国教科文组织世界遗产。",
+    "ja": "1137年頃から続いたザグウェ朝は新たな聖地を築いた。ラリベラ王の治世には11の教会が一枚岩から彫り出され、「新しいエルサレム」と呼ばれたこの地は現在ユネスコ世界遺産に登録されている。"
+   }
+  },
+  {
+   "year": 1270,
+   "qid": "Q207521",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Yekuno Amlak restores the Solomonic dynasty",
+    "ko": "예쿠노 암라크의 솔로몬 왕조 복원",
+    "zh": "耶库诺·阿姆拉克复兴所罗门王朝",
+    "ja": "イクノ・アムラクによるソロモン朝の復興"
+   },
+   "description": {
+    "en": "In 1270 Yekuno Amlak overthrew the Zagwe and founded the Solomonic dynasty, claiming descent from King Solomon and the Queen of Sheba. The line ruled Ethiopia, with interruptions, until 1974.",
+    "ko": "1270년 예쿠노 암라크가 자그웨 왕조를 무너뜨리고 솔로몬 왕조를 세웠다. 솔로몬 왕과 시바 여왕의 후손임을 표방한 이 왕조는 중단기를 거치면서도 1974년까지 에티오피아를 통치했다.",
+    "zh": "1270年,耶库诺·阿姆拉克推翻扎格维王朝,建立所罗门王朝,自称是所罗门王与示巴女王的后裔。该王朝虽有中断,但一直统治埃塞俄比亚至1974年。",
+    "ja": "1270年、イクノ・アムラクがザグウェ朝を倒してソロモン朝を開いた。ソロモン王とシバの女王の末裔を称したこの王朝は、中断を挟みながらも1974年までエチオピアを統治した。"
+   }
+  },
+  {
+   "year": 1285,
+   "qid": "Q157727",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Walashma dynasty founds the Ifat Sultanate",
+    "ko": "왈라쉬마 왕조의 이파트 술탄국 건국",
+    "zh": "瓦拉什马王朝建立伊法特苏丹国",
+    "ja": "ワラシュマ朝がイファト・スルタン国を建国"
+   },
+   "description": {
+    "en": "Around 1285 (c.) Umar Walashma conquered the old Sultanate of Shewa and founded the Ifat Sultanate, controlling the trade route from the highlands to the port of Zeila. Ifat became the most powerful Muslim state of the region. Its rivalry with the newly established Solomonic dynasty shaped the history of the following century.",
+    "ko": "1285년경(약) 우마르 왈라쉬마는 옛 셰와 술탄국을 정복하고 이파트 술탄국을 세워 고원에서 제일라 항으로 가는 교역로를 장악했다. 이파트는 이 지역에서 가장 강력한 이슬람 국가가 되었다. 새로 들어선 솔로몬 왕조와의 경쟁은 이후 한 세기의 역사를 좌우했다.",
+    "zh": "约1285年，乌马尔·瓦拉什马征服了古老的绍阿苏丹国，建立伊法特苏丹国，控制了从高原通往泽拉港的商路。伊法特成为该地区最强大的穆斯林国家。它与新建立的所罗门王朝之间的竞争主导了此后一个世纪的历史。",
+    "ja": "1285年頃、ウマル・ワラシュマは旧シェワ・スルタン国を征服してイファト・スルタン国を建て、高原からゼイラ港への交易路を押さえた。イファトは地域で最も強力なムスリム国家となった。新たに成立したソロモン朝との対抗が、その後1世紀の歴史を方向づけた。"
+   }
+  },
+  {
+   "year": 1320,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "The Kebra Nagast is compiled",
+    "ko": "『케브라 나가스트』 편찬",
+    "zh": "《国王的荣耀》成书",
+    "ja": "『ケブラ・ナガスト』の編纂"
+   },
+   "description": {
+    "en": "In the early 14th century (c.) the Kebra Nagast ('Glory of the Kings') was compiled in Ge'ez, according to its colophon by Yeshaq, a church official of Aksum. It tells how Menelik I, son of King Solomon and the Queen of Sheba, brought the Ark of the Covenant to Ethiopia. The work provided the ideological foundation for the Solomonic dynasty's legitimacy for over six centuries.",
+    "ko": "14세기 초(약) 『케브라 나가스트』('왕들의 영광')가 게에즈어로 편찬되었는데, 그 간기에 따르면 악숨의 교회 관리 예샤크가 편찬했다. 이 책은 솔로몬 왕과 시바 여왕의 아들 메넬리크 1세가 언약궤를 에티오피아로 가져온 이야기를 전한다. 이 작품은 600여 년 동안 솔로몬 왕조의 정통성을 뒷받침하는 이념적 토대가 되었다.",
+    "zh": "约14世纪初，《国王的荣耀》（Kebra Nagast）以吉兹文编成，据其题跋，编者是阿克苏姆的教会官员伊沙克。书中讲述所罗门王与示巴女王之子孟尼利克一世如何将约柜带到埃塞俄比亚。这部作品在六百多年里为所罗门王朝的合法性提供了思想基础。",
+    "ja": "14世紀初め頃、『ケブラ・ナガスト』（「王たちの栄光」）がゲエズ語で編纂された。奥書によれば編者はアクスムの教会役職者イェシャクである。同書は、ソロモン王とシバの女王の子メネリク1世が契約の箱をエチオピアにもたらした物語を伝える。この作品は600年以上にわたりソロモン朝の正統性を支える思想的基盤となった。"
+   }
+  },
+  {
+   "year": 1332,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Amda Seyon's campaigns against Ifat",
+    "ko": "아므다 세욘의 이파트 원정",
+    "zh": "阿姆达·塞永征讨伊法特",
+    "ja": "アムダ・セヨンのイファト遠征"
+   },
+   "description": {
+    "en": "In 1332 Emperor Amda Seyon (r. 1314–1344) defeated a coalition of Muslim states led by Ifat, after earlier campaigns that brought Damot, Hadiya and other regions under his control. A detailed royal chronicle celebrating his 'glorious victories' is one of the earliest of its kind. His reign transformed the Solomonic state into a powerful regional empire.",
+    "ko": "1332년 아므다 세욘 황제(재위 1314~1344)는 앞서 다모트·하디야 등 여러 지역을 복속시킨 데 이어, 이파트가 이끄는 이슬람 국가 연합을 격파했다. 그의 '영광스러운 승리'를 찬양하는 상세한 왕실 연대기는 이런 종류로는 가장 이른 것 가운데 하나이다. 그의 치세로 솔로몬 왕조 국가는 강력한 지역 제국으로 탈바꿈했다.",
+    "zh": "1332年，阿姆达·塞永皇帝（1314—1344年在位）在此前已将达莫特、哈迪亚等地区纳入控制之后，又击败了以伊法特为首的穆斯林国家联盟。一部颂扬其“光荣胜利”的详细王室编年史是同类作品中最早的之一。他的统治使所罗门王朝国家转变为强大的地区帝国。",
+    "ja": "1332年、皇帝アムダ・セヨン（在位1314〜1344年）は、それまでの遠征でダモトやハディヤなどを支配下に置いたのに続き、イファトが率いるムスリム諸国の連合を破った。彼の「輝かしい勝利」を称える詳細な王の年代記は、この種のものとして最古級である。彼の治世によりソロモン朝国家は強力な地域帝国へと変貌した。"
+   }
+  },
+  {
+   "year": 1415,
+   "qid": "Q2365048",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fall of Ifat and rise of Adal",
+    "ko": "이파트의 몰락과 아달의 부상",
+    "zh": "伊法特灭亡与阿达尔兴起",
+    "ja": "イファトの滅亡とアダルの興隆"
+   },
+   "description": {
+    "en": "In the early 15th century Ethiopian forces pursued Sultan Sa'ad ad-Din II of Ifat to Zeila, where he was killed. His sons, who had taken refuge in Yemen, returned around 1415 and re-established the Walashma state further east as the Adal Sultanate. Adal continued the conflict with the Christian empire for more than a century.",
+    "ko": "15세기 초 에티오피아군은 이파트의 술탄 사아드 앗딘 2세를 제일라까지 추격해 살해했다. 예멘으로 피신했던 그의 아들들은 1415년경 돌아와 더 동쪽에서 왈라쉬마 국가를 아달 술탄국으로 재건했다. 아달은 이후 한 세기 넘게 기독교 제국과의 분쟁을 이어 갔다.",
+    "zh": "15世纪初，埃塞俄比亚军队追击伊法特苏丹萨阿德丁二世至泽拉，并将其杀死。他逃往也门避难的儿子们约于1415年返回，在更东边以阿达尔苏丹国之名重建了瓦拉什马国家。阿达尔与基督教帝国的冲突又持续了一个多世纪。",
+    "ja": "15世紀初め、エチオピア軍はイファトのスルタン、サアドッディーン2世をゼイラまで追撃して殺害した。イエメンに逃れていた息子たちは1415年頃に戻り、さらに東方でワラシュマ朝の国家をアダル・スルタン国として再建した。アダルはその後1世紀以上にわたりキリスト教帝国との抗争を続けた。"
+   }
+  },
+  {
+   "year": 1434,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Reign of Zara Yaqob",
+    "ko": "자라 야콥의 치세",
+    "zh": "扎拉·雅各布的统治",
+    "ja": "ザラ・ヤコブの治世"
+   },
+   "description": {
+    "en": "Zara Yaqob (r. 1434–1468) centralized imperial power, founded Debre Berhan as a royal residence and defeated Adal at the Battle of Gomit in 1445. A devout reformer, he enforced religious uniformity, resolved the Sabbath controversy at a church council in 1450 and wrote theological works in Ge'ez. During his reign Ethiopian monks from Jerusalem attended the Council of Florence, a sign of growing contacts with Europe.",
+    "ko": "자라 야콥(재위 1434~1468)은 황제 권력을 중앙집권화하고 데브레 베르한을 왕실 거처로 세웠으며 1445년 고미트 전투에서 아달을 격파했다. 독실한 개혁가였던 그는 종교적 통일을 강제하고 1450년 공의회에서 안식일 논쟁을 해결했으며 게에즈어로 신학 저작을 남겼다. 그의 치세에 예루살렘의 에티오피아 수도사들이 피렌체 공의회에 참석했는데, 이는 유럽과의 접촉이 늘어났음을 보여 준다.",
+    "zh": "扎拉·雅各布（1434—1468年在位）加强中央集权，建立德布雷伯汉作为王室驻地，并于1445年在戈米特战役中击败阿达尔。他是一位虔诚的改革者，强制推行宗教统一，在1450年的宗教会议上解决了安息日之争，并用吉兹文撰写神学著作。在他统治期间，来自耶路撒冷的埃塞俄比亚修士出席了佛罗伦萨大公会议，显示出与欧洲的联系日益增多。",
+    "ja": "ザラ・ヤコブ（在位1434〜1468年）は皇帝権力を中央集権化し、デブレ・ベルハンを王の居所として築き、1445年のゴミトの戦いでアダルを破った。敬虔な改革者であった彼は宗教的統一を強制し、1450年の教会会議で安息日論争を解決し、ゲエズ語で神学書を著した。彼の治世には、エルサレムのエチオピア人修道士がフィレンツェ公会議に出席しており、ヨーロッパとの接触の深まりを示している。"
+   }
+  },
+  {
+   "year": 1493,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Pêro da Covilhã reaches the imperial court",
+    "ko": "페루 다 코빌랴, 황궁에 도착",
+    "zh": "佩罗·达·科维良抵达皇廷",
+    "ja": "ペロ・ダ・コヴィリャン、宮廷に到着"
+   },
+   "description": {
+    "en": "Around 1493 (c.) the Portuguese envoy Pêro da Covilhã, sent by King John II to find the Christian ruler known in Europe as 'Prester John', reached the Ethiopian court. He was treated with honour but never allowed to leave, and he was still living there when a Portuguese embassy arrived in 1520. His mission opened direct relations between Ethiopia and Portugal.",
+    "ko": "1493년경(약) 유럽에서 '프레스터 존'으로 알려진 기독교 군주를 찾기 위해 주앙 2세가 보낸 포르투갈 사절 페루 다 코빌랴가 에티오피아 궁정에 도착했다. 그는 정중한 대우를 받았으나 끝내 떠나는 것을 허락받지 못했고, 1520년 포르투갈 사절단이 왔을 때도 그곳에 살고 있었다. 그의 임무는 에티오피아와 포르투갈의 직접 관계를 열었다.",
+    "zh": "约1493年，葡萄牙国王若昂二世派去寻找欧洲所称的基督教君主“祭司王约翰”的使者佩罗·达·科维良抵达埃塞俄比亚宫廷。他受到礼遇，却始终未获准离开，1520年葡萄牙使团到达时他仍住在那里。他的使命开启了埃塞俄比亚与葡萄牙的直接关系。",
+    "ja": "1493年頃、ヨーロッパで「プレスター・ジョン」として知られたキリスト教君主を探すためジョアン2世が派遣したポルトガルの使者ペロ・ダ・コヴィリャンが、エチオピアの宮廷に到着した。彼は丁重に遇されたが出国は許されず、1520年にポルトガル使節団が来た時もそこで暮らしていた。彼の使命はエチオピアとポルトガルの直接の関係を開いた。"
+   }
+  },
+  {
+   "year": 1529,
+   "qid": "Q2915203",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "War with the Adal Sultanate devastates the empire",
+    "ko": "아달 술탄국과의 전쟁",
+    "zh": "与阿达尔苏丹国的战争重创帝国",
+    "ja": "アダル・スルタン国との戦争で帝国が疲弊"
+   },
+   "description": {
+    "en": "From 1529 Imam Ahmad ibn Ibrahim of Adal overran much of the Christian highlands. With Portuguese help Ethiopia defeated Adal by 1543, but the long war left both states exhausted and transformed the region.",
+    "ko": "1529년부터 아달의 이맘 아흐마드 이븐 이브라힘이 기독교 고원지대 대부분을 석권했다. 에티오피아는 포르투갈의 지원을 받아 1543년 아달을 물리쳤으나, 장기전으로 양측 모두 피폐해졌고 지역 판도가 크게 바뀌었다.",
+    "zh": "1529年起,阿达尔的伊玛目艾哈迈德·伊本·易卜拉欣攻占了基督教高原的大部分地区。埃塞俄比亚在葡萄牙援助下于1543年击败阿达尔,但旷日持久的战争令双方元气大伤,地区格局随之改变。",
+    "ja": "1529年以降、アダルのイマーム、アフマド・イブン・イブラーヒームがキリスト教高原地帯の大半を制圧した。エチオピアはポルトガルの支援を得て1543年にアダルを破ったが、長期の戦乱で双方とも疲弊し、地域の勢力図は大きく変わった。"
+   }
+  },
+  {
+   "year": 1543,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Wayna Daga: Imam Ahmad killed",
+    "ko": "와이나 다가 전투: 이맘 아흐마드 전사",
+    "zh": "瓦伊纳达加战役：伊玛目艾哈迈德阵亡",
+    "ja": "ワイナ・ダガの戦い：イマーム・アフマド戦死"
+   },
+   "description": {
+    "en": "In February 1543 Emperor Gelawdewos, supported by surviving Portuguese musketeers, defeated the army of Adal at Wayna Daga near Lake Tana, and Imam Ahmad ibn Ibrahim was killed in the battle. Adal's occupation of the highlands collapsed soon afterwards. The war left both states devastated and opened the way for the Oromo migrations.",
+    "ko": "1543년 2월 겔라우데워스 황제는 살아남은 포르투갈 머스킷 총병의 지원을 받아 타나호 부근 와이나 다가에서 아달군을 격파했고, 이맘 아흐마드 이븐 이브라힘은 이 전투에서 전사했다. 아달의 고원 점령은 곧 무너졌다. 전쟁은 양국을 황폐화했고 오로모 이주의 길을 열었다.",
+    "zh": "1543年2月，加拉德沃斯皇帝在幸存的葡萄牙火枪手支援下，于塔纳湖附近的瓦伊纳达加击败阿达尔军队，伊玛目艾哈迈德·伊本·易卜拉欣在战斗中阵亡。阿达尔对高原的占领随即瓦解。这场战争使双方都遭受重创，并为奥罗莫人的迁徙打开了道路。",
+    "ja": "1543年2月、皇帝ゲラウデウォスは生き残ったポルトガル銃兵の支援を受け、タナ湖近くのワイナ・ダガでアダル軍を破り、イマーム・アフマド・イブン・イブラーヒームは戦死した。アダルによる高原の占領はまもなく崩壊した。戦争は両国を荒廃させ、オロモの移動への道を開いた。"
+   }
+  },
+  {
+   "year": 1560,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Oromo expansion transforms the region",
+    "ko": "오로모의 확산과 지역의 변화",
+    "zh": "奥罗莫人扩张改变地区格局",
+    "ja": "オロモの拡大と地域の変容"
+   },
+   "description": {
+    "en": "From around the mid-16th century (c.), Oromo groups organized in the gadaa system moved north and east from the southern highlands into areas exhausted by the Adal–Ethiopian war. Within a few decades they settled across large parts of Shewa, Wollo, the Gibe region, Harar and beyond. Their expansion permanently changed the ethnic and political make-up of Ethiopia.",
+    "ko": "16세기 중엽경(약)부터 가다 제도로 조직된 오로모 집단들이 남부 고원에서 아달·에티오피아 전쟁으로 지친 북쪽과 동쪽 지역으로 이동했다. 수십 년 만에 이들은 셰와·월로·기베 지역·하라르 등 넓은 지역에 정착했다. 이들의 확산은 에티오피아의 민족적·정치적 구성을 영구히 바꾸어 놓았다.",
+    "zh": "约从16世纪中叶起，以加达制度组织起来的奥罗莫人群体从南部高原向北和向东迁入因阿达尔—埃塞俄比亚战争而疲敝的地区。数十年间，他们定居在绍阿、沃洛、吉贝地区、哈勒尔等广大地区。他们的扩张永久地改变了埃塞俄比亚的民族和政治构成。",
+    "ja": "16世紀半ば頃から、ガダ制で組織されたオロモの諸集団は、南部高原から、アダル・エチオピア戦争で疲弊した北方と東方の地域へ移動した。数十年のうちに彼らはシェワ、ウォロ、ギベ地方、ハラールなど広い地域に定住した。その拡大はエチオピアの民族的・政治的構成を永続的に変えた。"
+   }
+  },
+  {
+   "year": 1577,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Adal moves its capital to Aussa",
+    "ko": "아달, 아우사로 천도",
+    "zh": "阿达尔迁都奥萨",
+    "ja": "アダル、アウサへ遷都"
+   },
+   "description": {
+    "en": "In 1577 Emperor Sarsa Dengel defeated the forces of Adal, and the weakened sultanate, also pressed by Oromo expansion, moved its capital from Harar to Aussa in the Afar lowlands. Adal soon fragmented and lost its importance. Harar later re-emerged as an independent emirate.",
+    "ko": "1577년 사르사 덴겔 황제는 아달군을 격파했고, 오로모의 확산에도 압박받던 약해진 술탄국은 수도를 하라르에서 아파르 저지대의 아우사로 옮겼다. 아달은 곧 분열해 영향력을 잃었다. 하라르는 이후 독립 에미르국으로 다시 등장했다.",
+    "zh": "1577年，萨尔萨·登格尔皇帝击败阿达尔军队，同时受到奥罗莫人扩张压迫的衰弱苏丹国将都城从哈勒尔迁到阿法尔低地的奥萨。阿达尔很快分裂并失去重要地位。哈勒尔后来重新崛起为独立的埃米尔国。",
+    "ja": "1577年、皇帝サルサ・デンゲルはアダル軍を破り、オロモの拡大にも圧迫されて弱体化したスルタン国は、首都をハラールからアファール低地のアウサへ移した。アダルはまもなく分裂し重要性を失った。ハラールはのちに独立した首長国として再び台頭した。"
+   }
+  },
+  {
+   "year": 1593,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Bahrey writes the History of the Galla",
+    "ko": "바흐레이의 『갈라의 역사』",
+    "zh": "巴赫雷撰写《加拉人史》",
+    "ja": "バフレイの『ガラ人の歴史』"
+   },
+   "description": {
+    "en": "In 1593 the monk Bahrey wrote a Ge'ez account of the Oromo (then called 'Galla') and their gadaa age-grade system. Though written from a hostile Christian highland perspective, it is the most important early source on Oromo society and expansion. It is also notable as one of the first ethnographic works produced in Africa.",
+    "ko": "1593년 수도사 바흐레이는 오로모(당시 '갈라'로 불림)와 그 가다 연령 등급 제도에 관한 기록을 게에즈어로 남겼다. 기독교 고원의 적대적인 관점에서 쓰였지만, 오로모 사회와 확산에 관한 가장 중요한 초기 사료이다. 또한 아프리카에서 만들어진 최초의 민족지적 저작 가운데 하나로 주목된다.",
+    "zh": "1593年，修士巴赫雷用吉兹文撰写了关于奥罗莫人（当时称“加拉人”）及其加达年龄组制度的记述。尽管它是从敌对的基督教高原视角写成的，却是关于奥罗莫社会及其扩张最重要的早期史料。它也是非洲最早的民族志著作之一。",
+    "ja": "1593年、修道士バフレイはオロモ（当時は「ガラ」と呼ばれた）とそのガダ年齢階梯制についての記録をゲエズ語で書いた。敵対的なキリスト教徒の高原の視点から書かれているが、オロモ社会とその拡大に関する最も重要な初期史料である。またアフリカで書かれた最初期の民族誌的著作の一つとしても注目される。"
+   }
+  },
+  {
+   "year": 1622,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Emperor Susenyos converts to Catholicism",
+    "ko": "수세뇨스 황제의 가톨릭 개종",
+    "zh": "苏森约斯皇帝改宗天主教",
+    "ja": "皇帝ススネヨス、カトリックに改宗"
+   },
+   "description": {
+    "en": "Influenced by the Spanish Jesuit Pedro Páez, Emperor Susenyos publicly embraced Roman Catholicism in 1622 and later proclaimed it the state religion. Attempts to impose Latin practices on the Orthodox church provoked revolts and bloody civil war. In 1632 Susenyos restored freedom of the Orthodox faith and abdicated in favour of his son Fasilides.",
+    "ko": "스페인 출신 예수회 신부 페드로 파에스의 영향을 받은 수세뇨스 황제는 1622년 공개적으로 로마 가톨릭을 받아들였고 이후 이를 국교로 선포했다. 정교회에 라틴 관습을 강요하려는 시도는 반란과 유혈 내전을 불렀다. 1632년 수세뇨스는 정교 신앙의 자유를 회복시키고 아들 파실리데스에게 양위했다.",
+    "zh": "在西班牙耶稣会士佩德罗·派斯的影响下，苏森约斯皇帝于1622年公开皈依罗马天主教，后来又宣布其为国教。强迫东正教会接受拉丁礼仪的企图引发了叛乱和血腥内战。1632年苏森约斯恢复东正教信仰自由，并让位于其子法西利德斯。",
+    "ja": "スペイン人イエズス会士ペドロ・パエスの影響を受けた皇帝ススネヨスは、1622年に公にローマ・カトリックを受け入れ、のちにこれを国教と宣言した。正教会にラテン式の慣行を押しつけようとする試みは反乱と血なまぐさい内戦を招いた。1632年、ススネヨスは正教信仰の自由を回復し、息子ファシリデスに譲位した。"
+   }
+  },
+  {
+   "year": 1632,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Fasilides restores Orthodoxy and expels the Jesuits",
+    "ko": "파실리데스의 정교회 복원과 예수회 추방",
+    "zh": "法西利德斯恢复东正教并驱逐耶稣会",
+    "ja": "ファシリデス、正教を復興しイエズス会を追放"
+   },
+   "description": {
+    "en": "On becoming emperor in 1632, Fasilides reaffirmed Orthodox Christianity, and soon afterwards he expelled the Catholic patriarch and the Jesuit missionaries. He limited contacts with Catholic Europe for generations. The decision reinforced the identity of the Ethiopian Orthodox Tewahedo Church as a pillar of the state.",
+    "ko": "1632년 황제가 된 파실리데스는 정교회 신앙을 재확인했고 곧이어 가톨릭 총대주교와 예수회 선교사들을 추방했다. 그는 이후 여러 세대 동안 가톨릭 유럽과의 접촉을 제한했다. 이 결정은 국가의 기둥으로서 에티오피아 정교회 테와헤도 교회의 정체성을 강화했다.",
+    "zh": "1632年法西利德斯即位后重申东正教信仰，不久便驱逐了天主教宗主教和耶稣会传教士。此后数代人期间，他限制了与天主教欧洲的接触。这一决定强化了埃塞俄比亚正教台瓦西多教会作为国家支柱的地位。",
+    "ja": "1632年に皇帝となったファシリデスは正教信仰を再確認し、まもなくカトリックの総大司教とイエズス会宣教師を追放した。彼はその後何世代にもわたりカトリック・ヨーロッパとの接触を制限した。この決定は、国家の柱としてのエチオピア正教会テワヘド教会のアイデンティティを強めた。"
+   }
+  },
+  {
+   "year": 1636,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Fasilides founds Gondar as imperial capital",
+    "ko": "파실리데스 황제, 곤다르 천도",
+    "zh": "法西利德斯定都贡德尔",
+    "ja": "ファシリデス帝、ゴンダールに遷都"
+   },
+   "description": {
+    "en": "Emperor Fasilides established Gondar as a permanent capital in 1636. Its castles and churches, blending Ethiopian, Portuguese and Indian styles, flourished for two centuries and are now a UNESCO World Heritage site.",
+    "ko": "1636년 파실리데스 황제가 곤다르를 상설 수도로 삼았다. 에티오피아·포르투갈·인도 양식이 어우러진 성채와 교회들이 200년간 번영했으며, 오늘날 유네스코 세계유산으로 지정되어 있다.",
+    "zh": "1636年,法西利德斯皇帝将贡德尔定为固定首都。融合埃塞俄比亚、葡萄牙与印度风格的城堡和教堂在此繁荣两个世纪,如今被列为联合国教科文组织世界遗产。",
+    "ja": "1636年、ファシリデス帝はゴンダールを常設の首都と定めた。エチオピア・ポルトガル・インドの様式が融合した城郭や教会群は2世紀にわたって栄え、現在はユネスコ世界遺産に登録されている。"
+   }
+  },
+  {
+   "year": 1647,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Emirate of Harar becomes independent",
+    "ko": "하라르 에미르국의 독립",
+    "zh": "哈勒尔埃米尔国独立",
+    "ja": "ハラール首長国の独立"
+   },
+   "description": {
+    "en": "In 1647 Emir Ali ibn Daud established an independent emirate at Harar, a walled city that had been the centre of Adal. Harar flourished as a hub of Islamic scholarship and of trade between the interior and the Gulf of Aden coast, with its own coinage. Its walled old town, Harar Jugol, is today a UNESCO World Heritage Site.",
+    "ko": "1647년 에미르 알리 이븐 다우드는 아달의 중심지였던 성곽 도시 하라르에 독립 에미르국을 세웠다. 하라르는 이슬람 학문의 중심이자 내륙과 아덴만 연안을 잇는 교역의 거점으로 번영했고 자체 화폐도 발행했다. 성곽으로 둘러싸인 구시가 하라르 주골은 오늘날 유네스코 세계유산이다.",
+    "zh": "1647年，埃米尔阿里·伊本·达乌德在曾为阿达尔中心的设防城市哈勒尔建立了独立的埃米尔国。哈勒尔作为伊斯兰学术中心和内陆与亚丁湾沿岸之间的贸易枢纽而繁荣，并发行自己的钱币。其城墙环绕的老城哈勒尔古城如今是联合国教科文组织世界遗产。",
+    "ja": "1647年、アミール、アリー・イブン・ダーウードは、アダルの中心であった城壁都市ハラールに独立した首長国を建てた。ハラールはイスラーム学問の中心、そして内陸とアデン湾沿岸を結ぶ交易の拠点として栄え、独自の貨幣も発行した。城壁に囲まれた旧市街ハラール・ジュゴルは、今日ユネスコの世界遺産である。"
+   }
+  },
+  {
+   "year": 1682,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Reign of Iyasu I the Great",
+    "ko": "대제 이야수 1세의 치세",
+    "zh": "伊亚苏一世大帝的统治",
+    "ja": "イヤス1世大帝の治世"
+   },
+   "description": {
+    "en": "Iyasu I (r. 1682–1706), often called 'the Great', was the last strong ruler of the Gondarine period. He reorganized the administration, convened church councils to settle theological disputes and campaigned widely, while adding to Gondar's palaces and churches. After his murder in 1706 the monarchy steadily weakened.",
+    "ko": "'대제'로 불리는 이야수 1세(재위 1682~1706)는 곤다르 시대의 마지막 강력한 군주였다. 그는 행정을 재정비하고 신학 논쟁을 해결하기 위해 공의회를 소집했으며 널리 원정을 벌이는 한편 곤다르의 궁전과 교회를 증축했다. 1706년 그가 살해된 뒤 왕권은 꾸준히 약해졌다.",
+    "zh": "被称为“大帝”的伊亚苏一世（1682—1706年在位）是贡德尔时期最后一位强有力的统治者。他整顿行政，召开宗教会议解决神学争端，四处征战，同时扩建了贡德尔的宫殿和教堂。1706年他遇刺身亡后，王权逐渐衰弱。",
+    "ja": "「大帝」と呼ばれるイヤス1世（在位1682〜1706年）は、ゴンダール時代最後の強力な君主であった。彼は行政を再編し、神学論争を収めるために教会会議を召集し、各地に遠征する一方、ゴンダールの宮殿や教会を増築した。1706年に彼が殺害された後、王権は着実に弱まった。"
+   }
+  },
+  {
+   "year": 1730,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Empress Mentewab's regency",
+    "ko": "멘테와브 황후의 섭정",
+    "zh": "门特瓦布皇后摄政",
+    "ja": "皇后メンテワブの摂政"
+   },
+   "description": {
+    "en": "When the young Iyasu II became emperor in 1730, his mother Mentewab was crowned co-ruler and dominated the court at Gondar for decades. She was a major patron of the arts and built the palace and church complex of Qusquam near Gondar. Her reliance on her own Qwara relatives and on Oromo allies sharpened rivalries among the nobility.",
+    "ko": "1730년 어린 이야수 2세가 황제가 되자 그의 어머니 멘테와브는 공동 통치자로 즉위해 수십 년 동안 곤다르 궁정을 주도했다. 그녀는 예술의 주요 후원자였고 곤다르 근처에 쿠스쿠암 궁전·교회 단지를 세웠다. 자신의 크와라 친족과 오로모 동맹 세력에 기댄 그녀의 통치는 귀족 간의 경쟁을 격화시켰다.",
+    "zh": "1730年年幼的伊亚苏二世即位后，其母门特瓦布加冕为共治者，数十年间主导贡德尔宫廷。她是艺术的重要赞助人，在贡德尔附近修建了库斯夸姆宫殿和教堂建筑群。她倚重自己的夸拉亲族和奥罗莫盟友，加剧了贵族之间的争斗。",
+    "ja": "1730年に幼いイヤス2世が皇帝になると、母メンテワブが共同統治者として戴冠し、数十年にわたりゴンダールの宮廷を主導した。彼女は芸術の大パトロンであり、ゴンダール近郊にクスクアムの宮殿・教会群を建てた。自らのクワラの親族やオロモの同盟者に依存したことは、貴族間の対立を激化させた。"
+   }
+  },
+  {
+   "year": 1769,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Murder of Iyoas opens the Era of the Princes",
+    "ko": "이요아스 살해와 '제후들의 시대' 개막",
+    "zh": "约阿斯遇害，“诸侯时代”开始",
+    "ja": "イヨアス殺害と「諸侯の時代」の始まり"
+   },
+   "description": {
+    "en": "In 1769 Ras Mikael Sehul of Tigray had Emperor Iyoas I killed and installed a puppet ruler, making himself the real power at Gondar. This marked the beginning of the Zemene Mesafint, the Era of the Princes, during which emperors were figureheads controlled by regional warlords. The period of fragmentation lasted until 1855.",
+    "ko": "1769년 티그라이의 라스 미카엘 세훌은 이요아스 1세 황제를 살해하고 꼭두각시 군주를 세워 곤다르의 실권자가 되었다. 이것이 황제가 지방 군벌에게 조종되는 허수아비였던 '제메네 메사핀트', 곧 제후들의 시대의 시작이었다. 이 분열기는 1855년까지 이어졌다.",
+    "zh": "1769年，提格雷的拉斯·米卡埃尔·塞胡勒杀死皇帝约阿斯一世，扶植傀儡君主，自己成为贡德尔的实际掌权者。这标志着“诸侯时代”（泽梅内·梅萨芬特）的开始，在此期间皇帝成为受地方军阀操纵的傀儡。这一分裂时期一直持续到1855年。",
+    "ja": "1769年、ティグライのラス・ミカエル・セフルは皇帝イヨアス1世を殺害して傀儡の君主を立て、自らゴンダールの実権を握った。これが、皇帝が地方の軍閥に操られる名目的な存在となった「ゼメネ・メサフィント（諸侯の時代）」の始まりである。この分裂の時代は1855年まで続いた。"
+   }
+  },
+  {
+   "year": 1790,
+   "qid": "Q1759078",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Kingdom of Jimma",
+    "ko": "짐마 왕국의 성립",
+    "zh": "吉马王国兴起",
+    "ja": "ジンマ王国の成立"
+   },
+   "description": {
+    "en": "Around the end of the 18th century (c.), Oromo communities in the Gibe valley of the southwest formed monarchies, of which Jimma Abba Jifar became the strongest. Its rulers adopted Islam in the 19th century and grew rich from trade in coffee, ivory and other goods passing through the market at Hirmata. Jimma became a centre of Islamic learning in the southwest.",
+    "ko": "18세기 말경(약) 남서부 기베 계곡의 오로모 공동체들은 왕국을 이루었는데, 그중 짐마 아바 지파르가 가장 강력해졌다. 그 지배자들은 19세기에 이슬람을 받아들였고, 히르마타 시장을 거치는 커피·상아 등의 교역으로 부를 쌓았다. 짐마는 남서부 이슬람 학문의 중심지가 되었다.",
+    "zh": "约18世纪末，西南部吉贝河谷的奥罗莫社群建立了若干君主国，其中吉马·阿巴吉法尔最为强大。其统治者在19世纪皈依伊斯兰教，并通过经由希尔马塔集市的咖啡、象牙等贸易致富。吉马成为西南部的伊斯兰学术中心。",
+    "ja": "18世紀末頃、南西部ギベ渓谷のオロモ共同体は王国を形成し、その中でジンマ・アバ・ジファルが最も強力となった。その支配者は19世紀にイスラームを受け入れ、ヒルマタの市場を通るコーヒーや象牙などの交易で富を築いた。ジンマは南西部におけるイスラーム学問の中心となった。"
+   }
+  },
+  {
+   "year": 1855,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Tewodros II reunifies the empire",
+    "ko": "테워드로스 2세의 제국 재통일",
+    "zh": "特沃德罗斯二世重新统一帝国",
+    "ja": "テオドロス2世による帝国の再統一"
+   },
+   "description": {
+    "en": "Crowned in 1855, Tewodros II ended the 'Era of the Princes', a long period of fragmented warlord rule, and began modernizing the army and the state, laying the foundation of modern Ethiopia.",
+    "ko": "1855년 즉위한 테워드로스 2세는 군웅이 할거하던 '제후들의 시대'를 끝내고 군대와 국가의 근대화에 착수했다. 근대 에티오피아의 출발점으로 평가된다.",
+    "zh": "1855年加冕的特沃德罗斯二世结束了诸侯割据的\"王侯时代\",着手推进军队与国家的现代化,被视为现代埃塞俄比亚的开端。",
+    "ja": "1855年に即位したテオドロス2世は、群雄が割拠した「諸侯の時代」を終わらせ、軍と国家の近代化に着手した。近代エチオピアの出発点と評価されている。"
+   }
+  },
+  {
+   "year": 1868,
+   "qid": "Q947667",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "British expedition and the fall of Magdala",
+    "ko": "영국 원정군과 막달라 함락",
+    "zh": "英国远征与马格达拉陷落",
+    "ja": "イギリス遠征とマグダラ陥落"
+   },
+   "description": {
+    "en": "After Tewodros II imprisoned British envoys and other Europeans, Britain sent a large expedition under General Robert Napier from India. In April 1868 it stormed the emperor's mountain fortress of Magdala, and Tewodros took his own life rather than be captured. The British looted manuscripts and treasures, many still held in British collections, and then withdrew.",
+    "ko": "테워드로스 2세가 영국 사절과 다른 유럽인들을 투옥하자 영국은 로버트 네이피어 장군이 이끄는 대규모 원정군을 인도에서 파견했다. 1868년 4월 원정군은 황제의 산악 요새 막달라를 공략했고, 테워드로스는 포로가 되는 대신 스스로 목숨을 끊었다. 영국군은 필사본과 보물을 약탈했는데 그중 다수가 지금도 영국 소장품으로 남아 있으며, 이후 철수했다.",
+    "zh": "特沃德罗斯二世囚禁了英国使节和其他欧洲人后，英国从印度派出由罗伯特·纳皮尔将军率领的大规模远征军。1868年4月，远征军攻破皇帝的山地要塞马格达拉，特沃德罗斯宁死不屈，自尽身亡。英军掠走了大量手抄本和珍宝，其中许多至今仍藏于英国，随后撤军。",
+    "ja": "テオドロス2世がイギリスの使節や他のヨーロッパ人を投獄すると、イギリスはロバート・ネーピア将軍率いる大規模な遠征軍をインドから派遣した。1868年4月、遠征軍は皇帝の山岳要塞マグダラを攻略し、テオドロスは捕らわれるよりも自ら命を絶つことを選んだ。イギリス軍は写本や財宝を略奪し、その多くは今もイギリスの所蔵品となっており、その後撤退した。"
+   }
+  },
+  {
+   "year": 1872,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Yohannes IV crowned emperor",
+    "ko": "요하네스 4세 즉위",
+    "zh": "约翰尼斯四世加冕",
+    "ja": "ヨハンネス4世の戴冠"
+   },
+   "description": {
+    "en": "In January 1872 Kassa Mercha of Tigray, who had been armed by the departing British, was crowned Emperor Yohannes IV at Aksum. He ruled as a strong defender of Orthodox Christianity and of the empire's borders, while recognizing the autonomy of powerful regional kings such as Menelik of Shewa. He spent much of his reign fighting Egyptian, Italian and Mahdist incursions.",
+    "ko": "1872년 1월 철수하는 영국군에게서 무기를 얻은 티그라이의 카사 메르차가 악숨에서 요하네스 4세 황제로 즉위했다. 그는 정교회 신앙과 제국 국경의 강력한 수호자로 통치하면서도, 셰와의 메넬리크 같은 유력 지방 왕들의 자치를 인정했다. 그는 재위 대부분을 이집트·이탈리아·마흐디 세력의 침입과 싸우며 보냈다.",
+    "zh": "1872年1月，从撤离的英军那里获得武器的提格雷人卡萨·梅尔查在阿克苏姆加冕为约翰尼斯四世皇帝。他作为东正教信仰和帝国边界的坚定捍卫者进行统治，同时承认绍阿的孟尼利克等强大地方国王的自治。他在位期间的大部分时间都在抵抗埃及、意大利和马赫迪派的入侵。",
+    "ja": "1872年1月、撤退するイギリス軍から武器を得ていたティグライのカサ・メルチャが、アクスムで皇帝ヨハンネス4世として戴冠した。彼は正教信仰と帝国の国境の強力な守護者として統治しつつ、シェワのメネリクら有力な地方王の自治を認めた。治世の大半を、エジプト、イタリア、マフディー派の侵入との戦いに費やした。"
+   }
+  },
+  {
+   "year": 1876,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Victory over Egypt at Gura",
+    "ko": "구라에서 이집트에 승리",
+    "zh": "古拉战役击败埃及",
+    "ja": "グラでエジプトに勝利"
+   },
+   "description": {
+    "en": "Egypt's Khedive Isma'il sought to expand from the Red Sea coast into the Ethiopian highlands. Yohannes IV destroyed one Egyptian army at Gundet in November 1875 and defeated a larger expedition at Gura in March 1876. The victories ended Egypt's ambitions in the highlands and greatly raised the emperor's prestige.",
+    "ko": "이집트의 헤디브 이스마일은 홍해 연안에서 에티오피아 고원으로 세력을 넓히려 했다. 요하네스 4세는 1875년 11월 군데트에서 이집트군 하나를 섬멸하고 1876년 3월 구라에서 더 큰 원정군을 격파했다. 이 승리로 이집트의 고원 진출 야망은 끝났고 황제의 위신은 크게 높아졌다.",
+    "zh": "埃及赫迪夫伊斯梅尔企图从红海沿岸向埃塞俄比亚高原扩张。约翰尼斯四世于1875年11月在贡德特全歼一支埃及军队，又于1876年3月在古拉击败一支规模更大的远征军。这些胜利终结了埃及对高原的野心，大大提高了皇帝的威望。",
+    "ja": "エジプトのヘディーヴ、イスマーイールは紅海沿岸からエチオピア高原への拡大を図った。ヨハンネス4世は1875年11月にグンデトでエジプト軍を壊滅させ、1876年3月にはグラでより大規模な遠征軍を破った。これらの勝利でエジプトの高原進出の野望は潰え、皇帝の威信は大いに高まった。"
+   }
+  },
+  {
+   "year": 1882,
+   "qid": "Q2887945",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Embabo",
+    "ko": "엠바보 전투",
+    "zh": "恩巴博战役",
+    "ja": "エンバボの戦い"
+   },
+   "description": {
+    "en": "In June 1882 King Menelik of Shewa defeated King Tekle Haymanot of Gojjam at Embabo, as both competed to control the rich lands to the south and west. The victory gave Menelik the upper hand in the southwest, where Jimma and other Gibe states soon submitted. It was a key step in the expansion that would create the borders of modern Ethiopia.",
+    "ko": "1882년 6월 셰와의 메넬리크 왕은 남쪽과 서쪽의 풍요로운 땅을 두고 경쟁하던 고잠의 테클레 하이마노트 왕을 엠바보에서 격파했다. 이 승리로 메넬리크는 남서부에서 우위를 차지했고, 짐마를 비롯한 기베 국가들이 곧 복속했다. 이는 근대 에티오피아의 국경을 만들어 낸 팽창의 핵심 단계였다.",
+    "zh": "1882年6月，绍阿国王孟尼利克在恩巴博击败了戈贾姆国王特克莱·海马诺特，双方当时都在争夺南部和西部的富饶土地。这场胜利使孟尼利克在西南部占据上风，吉马等吉贝诸国随即归顺。这是塑造现代埃塞俄比亚疆域的扩张进程中的关键一步。",
+    "ja": "1882年6月、シェワの王メネリクは、南方と西方の豊かな土地をめぐって争っていたゴッジャムの王テクレ・ハイマノトをエンバボで破った。この勝利でメネリクは南西部で優位に立ち、ジンマなどのギベ諸国がまもなく服属した。これは近代エチオピアの国境を形づくる拡大の重要な一歩であった。"
+   }
+  },
+  {
+   "year": 1886,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Founding of Addis Ababa",
+    "ko": "아디스아바바 건설",
+    "zh": "亚的斯亚贝巴建城",
+    "ja": "アディスアベバの建設"
+   },
+   "description": {
+    "en": "In 1886 Menelik and his consort Taytu Betul founded Addis Ababa ('New Flower') near the hot springs of Finfinne, below the earlier mountain capital of Entoto. The town grew rapidly into the political centre of the expanding state and became the imperial capital. Today it is Ethiopia's largest city and the seat of the African Union.",
+    "ko": "1886년 메넬리크와 그의 배우자 타이투 베툴은 이전의 산악 수도 엔토토 아래 핀피네 온천 근처에 아디스아바바('새로운 꽃')를 세웠다. 이 도시는 팽창하는 국가의 정치 중심지로 빠르게 성장해 제국의 수도가 되었다. 오늘날 아디스아바바는 에티오피아 최대 도시이자 아프리카 연합의 본부 소재지이다.",
+    "zh": "1886年，孟尼利克与其配偶泰图·贝图尔在早先的山地都城恩托托下方、芬芬内温泉附近建立了亚的斯亚贝巴（意为“新花”）。这座城市迅速发展为扩张中的国家的政治中心，并成为帝国首都。如今它是埃塞俄比亚最大的城市和非洲联盟总部所在地。",
+    "ja": "1886年、メネリクとその妃タイトゥ・ベトゥルは、以前の山上の都エントトの麓、フィンフィンネの温泉の近くにアディスアベバ（「新しい花」）を築いた。町は拡大する国家の政治的中心として急速に成長し、帝国の首都となった。今日ではエチオピア最大の都市であり、アフリカ連合の本部所在地である。"
+   }
+  },
+  {
+   "year": 1887,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Menelik conquers Harar",
+    "ko": "메넬리크의 하라르 정복",
+    "zh": "孟尼利克征服哈勒尔",
+    "ja": "メネリクがハラールを征服"
+   },
+   "description": {
+    "en": "After Egypt withdrew from Harar in 1885, Emir Abdullahi ruled the city independently. In January 1887 Menelik's army defeated the emir at the Battle of Chelenqo and took Harar, which became the base for Ethiopian expansion into the east. Menelik's cousin Ras Makonnen, father of the future Haile Selassie, was appointed governor.",
+    "ko": "1885년 이집트가 하라르에서 철수한 뒤 에미르 압둘라히가 도시를 독자적으로 다스렸다. 1887년 1월 메넬리크의 군대는 첼렌코 전투에서 에미르를 격파하고 하라르를 차지했으며, 하라르는 에티오피아의 동부 진출 기지가 되었다. 훗날 하일레 셀라시에의 아버지가 되는 메넬리크의 사촌 라스 마콘넨이 총독으로 임명되었다.",
+    "zh": "1885年埃及撤出哈勒尔后，埃米尔阿卜杜拉希独立统治该城。1887年1月，孟尼利克的军队在切伦科战役中击败埃米尔，攻占哈勒尔，使之成为埃塞俄比亚向东扩张的基地。孟尼利克的堂兄弟、后来海尔·塞拉西的父亲拉斯·马康南被任命为总督。",
+    "ja": "1885年にエジプトがハラールから撤退した後、アミール、アブドゥッラーヒが町を独立して治めた。1887年1月、メネリクの軍はチェレンコの戦いでアミールを破ってハラールを占領し、ハラールはエチオピアの東方進出の拠点となった。のちのハイレ・セラシエの父である、メネリクのいとこラス・マコンネンが総督に任命された。"
+   }
+  },
+  {
+   "year": 1888,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "The Great Famine (Kifu Qen)",
+    "ko": "대기근(키푸 켄)",
+    "zh": "大饥荒（“凶年”）",
+    "ja": "大飢饉（キフ・ケン）"
+   },
+   "description": {
+    "en": "From 1888 an epidemic of rinderpest, introduced into the Horn of Africa, killed the great majority of Ethiopia's cattle, and drought and crop pests followed. The resulting famine, remembered as Kifu Qen ('evil days'), lasted until about 1892 and killed a large part of the population in some regions. It weakened resistance in many areas to Menelik's southern conquests.",
+    "ko": "1888년부터 아프리카의 뿔에 유입된 우역(牛疫)이 에티오피아 소의 대부분을 죽였고, 가뭄과 병충해가 뒤따랐다. '나쁜 날들'이라는 뜻의 키푸 켄으로 기억되는 이 기근은 1892년경까지 이어졌으며 일부 지역에서는 인구의 상당 부분이 목숨을 잃었다. 이는 많은 지역에서 메넬리크의 남부 정복에 대한 저항을 약화시켰다.",
+    "zh": "从1888年起，传入非洲之角的牛瘟导致埃塞俄比亚绝大多数牛只死亡，随后又发生干旱和虫害。由此引发的饥荒被称为“凶年”（Kifu Qen），一直持续到约1892年，部分地区有很大一部分人口死亡。它削弱了许多地区对孟尼利克南征的抵抗。",
+    "ja": "1888年から、アフリカの角に持ち込まれた牛疫がエチオピアの牛の大多数を死なせ、続いて干ばつと虫害が起きた。「悪い日々」を意味するキフ・ケンとして記憶されるこの飢饉は1892年頃まで続き、一部の地域では人口の大きな部分が命を落とした。これは多くの地域でメネリクの南方征服への抵抗を弱めた。"
+   }
+  },
+  {
+   "year": 1889,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Death of Yohannes IV; Menelik II becomes emperor",
+    "ko": "요하네스 4세 전사와 메넬리크 2세 즉위",
+    "zh": "约翰尼斯四世阵亡，孟尼利克二世称帝",
+    "ja": "ヨハンネス4世の戦死とメネリク2世の即位"
+   },
+   "description": {
+    "en": "In March 1889 Yohannes IV was mortally wounded at the Battle of Metemma against the Mahdists of Sudan. Menelik of Shewa claimed the throne, signed the Treaty of Wuchale with Italy in May and was crowned emperor later that year. The treaty's disputed article on foreign relations, which Italy read as a protectorate, soon led to conflict.",
+    "ko": "1889년 3월 요하네스 4세는 수단 마흐디 세력과의 메템마 전투에서 치명상을 입고 숨졌다. 셰와의 메넬리크가 제위를 주장하며 5월 이탈리아와 우찰레 조약을 맺었고 그해 말 황제로 즉위했다. 이탈리아가 보호국 규정으로 해석한 조약의 대외 관계 조항을 둘러싼 논란은 곧 분쟁으로 이어졌다.",
+    "zh": "1889年3月，约翰尼斯四世在与苏丹马赫迪派作战的梅特玛战役中受致命伤身亡。绍阿的孟尼利克宣称继承皇位，5月与意大利签订《乌查利条约》，并于同年晚些时候加冕为皇帝。条约中有关对外关系的条款被意大利解读为保护国条款，由此产生的争议很快导致冲突。",
+    "ja": "1889年3月、ヨハンネス4世はスーダンのマフディー派とのメテンマの戦いで致命傷を負い死去した。シェワのメネリクが帝位を主張し、5月にイタリアとウッチャリ条約を結び、同年後半に皇帝として戴冠した。イタリアが保護国化の規定と解釈した条約の対外関係条項をめぐる争いは、まもなく紛争へとつながった。"
+   }
+  },
+  {
+   "year": 1894,
+   "qid": "Q109534069",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Conquest of Wolaita",
+    "ko": "월라이타 정복",
+    "zh": "征服沃莱塔",
+    "ja": "ウォライタの征服"
+   },
+   "description": {
+    "en": "In 1894 Menelik II led a large army against the Kingdom of Wolaita in the south, which had long resisted Shewan expansion. After fierce fighting with heavy casualties, the kingdom's last ruler, Kawo Tona, was captured. Wolaita was incorporated into the empire, one of many southern conquests that doubled Ethiopia's territory.",
+    "ko": "1894년 메넬리크 2세는 오랫동안 셰와의 팽창에 저항해 온 남부의 월라이타 왕국을 치기 위해 대군을 이끌었다. 큰 희생이 따른 격전 끝에 왕국의 마지막 군주 카워 토나가 사로잡혔다. 월라이타는 제국에 편입되었는데, 이는 에티오피아 영토를 두 배로 넓힌 여러 남부 정복 가운데 하나였다.",
+    "zh": "1894年，孟尼利克二世亲率大军征讨长期抵抗绍阿扩张的南部沃莱塔王国。经过伤亡惨重的激战，王国末代君主卡沃·托纳被俘。沃莱塔被并入帝国，这是使埃塞俄比亚领土扩大一倍的众多南征之一。",
+    "ja": "1894年、メネリク2世は長くシェワの拡大に抵抗してきた南部のウォライタ王国に大軍を率いて向かった。多大な犠牲を伴う激戦の末、王国最後の君主カウォ・トナが捕らえられた。ウォライタは帝国に編入されたが、これはエチオピアの領土を倍増させた数多くの南方征服の一つであった。"
+   }
+  },
+  {
+   "year": 1896,
+   "qid": "Q302519",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Ethiopia defeats Italy at the Battle of Adwa",
+    "ko": "아드와 전투의 승리",
+    "zh": "阿杜瓦战役:埃塞俄比亚击败意大利",
+    "ja": "アドワの戦いでイタリアに勝利"
+   },
+   "description": {
+    "en": "On 1 March 1896 Emperor Menelik II's army crushed Italian forces at Adwa, securing recognition of Ethiopian independence. It was a rare African victory over a European power and a symbol for anti-colonial movements.",
+    "ko": "1896년 3월 1일 메넬리크 2세의 군대가 아드와에서 이탈리아군을 대파해 에티오피아의 독립을 국제적으로 인정받았다. 유럽 열강에 맞선 아프리카의 보기 드문 승리로, 반식민주의 운동의 상징이 되었다.",
+    "zh": "1896年3月1日,孟尼利克二世的军队在阿杜瓦大败意军,使埃塞俄比亚的独立获得国际承认。这是非洲国家战胜欧洲列强的罕见胜利,成为反殖民运动的象征。",
+    "ja": "1896年3月1日、メネリク2世の軍がアドワでイタリア軍を撃破し、エチオピアの独立は国際的に承認された。ヨーロッパ列強に対するアフリカの数少ない勝利であり、反植民地運動の象徴となった。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": "Q1462877",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Conquest of Kaffa",
+    "ko": "카파 정복",
+    "zh": "征服卡法",
+    "ja": "カッファの征服"
+   },
+   "description": {
+    "en": "In 1897 imperial forces conquered the Kingdom of Kaffa in the southwest and captured its last king, Gaki Sherocho. The conquest, accompanied by great destruction and enslavement, ended centuries of Kaffa's independence. By the end of the decade Menelik's campaigns had brought the empire roughly to its modern borders.",
+    "ko": "1897년 제국군은 남서부의 카파 왕국을 정복하고 마지막 왕 가키 셰로초를 사로잡았다. 큰 파괴와 노예화를 동반한 이 정복으로 수백 년에 걸친 카파의 독립은 끝났다. 1890년대 말까지 메넬리크의 원정으로 제국은 대체로 오늘날의 국경에 이르렀다.",
+    "zh": "1897年，帝国军队征服西南部的卡法王国，俘获其末代国王加基·谢罗乔。这次征服伴随着严重的破坏和奴役，结束了卡法数百年的独立。到19世纪90年代末，孟尼利克的征战已使帝国大致达到今天的疆界。",
+    "ja": "1897年、帝国軍は南西部のカッファ王国を征服し、最後の王ガキ・シェロチョを捕らえた。大きな破壊と奴隷化を伴ったこの征服により、何世紀にもわたるカッファの独立は終わった。1890年代末までに、メネリクの遠征によって帝国はほぼ現在の国境に達した。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": "Q1567243",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Anglo-Ethiopian Treaty",
+    "ko": "영국·에티오피아 조약",
+    "zh": "英埃（塞俄比亚）条约",
+    "ja": "英・エチオピア条約"
+   },
+   "description": {
+    "en": "After Adwa, European powers sent missions to Addis Ababa to establish relations with Menelik. In May 1897 a British mission under Rennell Rodd concluded a treaty that defined part of the border between Ethiopia and British Somaliland. Similar agreements with France and Italy confirmed Ethiopia's status as an independent state recognized by the colonial powers.",
+    "ko": "아드와 전투 이후 유럽 열강은 메넬리크와 관계를 맺기 위해 아디스아바바에 사절단을 보냈다. 1897년 5월 레넬 로드가 이끄는 영국 사절단은 에티오피아와 영국령 소말릴란드 사이 국경의 일부를 정한 조약을 체결했다. 프랑스·이탈리아와의 유사한 협정들은 에티오피아가 식민 열강에게 인정받는 독립국임을 확인했다.",
+    "zh": "阿杜瓦战役后，欧洲列强纷纷派使团到亚的斯亚贝巴与孟尼利克建立关系。1897年5月，伦内尔·罗德率领的英国使团缔结条约，划定了埃塞俄比亚与英属索马里兰之间的部分边界。与法国和意大利达成的类似协议确认了埃塞俄比亚作为受殖民列强承认的独立国家的地位。",
+    "ja": "アドワの戦いの後、ヨーロッパ列強はメネリクとの関係を築くためアディスアベバに使節団を送った。1897年5月、レンネル・ロッド率いるイギリス使節団は、エチオピアとイギリス領ソマリランドの国境の一部を定める条約を結んだ。フランスやイタリアとの同様の協定は、エチオピアが植民地列強に承認された独立国であることを確認した。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Menelik's modernizing reforms",
+    "ko": "메넬리크의 근대화 개혁",
+    "zh": "孟尼利克的现代化改革",
+    "ja": "メネリクの近代化改革"
+   },
+   "description": {
+    "en": "In the first decade of the 20th century Menelik II introduced a series of modern institutions: the Bank of Abyssinia was founded in 1905, a council of ministers was created in 1907 and the first modern government school opened in Addis Ababa in 1908. Telegraph and telephone lines linked the capital to the provinces. These reforms laid the groundwork for a modern central state.",
+    "ko": "20세기 첫 10년 동안 메넬리크 2세는 일련의 근대적 제도를 도입했다. 1905년 아비시니아 은행이 설립되었고, 1907년 각료 회의가 만들어졌으며, 1908년 아디스아바바에 최초의 근대식 공립학교가 문을 열었다. 전신·전화선이 수도와 지방을 연결했다. 이러한 개혁은 근대 중앙 국가의 기틀을 마련했다.",
+    "zh": "20世纪头十年，孟尼利克二世引入了一系列现代制度：1905年成立阿比西尼亚银行，1907年设立部长会议，1908年在亚的斯亚贝巴开办第一所现代公立学校。电报和电话线路将首都与各省连接起来。这些改革为现代中央国家奠定了基础。",
+    "ja": "20世紀の最初の10年間に、メネリク2世は一連の近代的制度を導入した。1905年にアビシニア銀行が設立され、1907年に閣僚会議が設けられ、1908年にはアディスアベバに最初の近代的な公立学校が開校した。電信・電話線が首都と地方を結んだ。これらの改革は近代的な中央国家の基礎を築いた。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Lij Iyasu deposed; Zewditu and Ras Tafari take power",
+    "ko": "리즈 이야수 폐위, 자우디투와 라스 타파리 집권",
+    "zh": "里吉·伊亚苏被废黜，佐迪图与拉斯·塔法里掌权",
+    "ja": "リジ・イヤスの廃位とザウディトゥ、ラス・タファリの台頭"
+   },
+   "description": {
+    "en": "Menelik II's grandson and designated heir, Lij Iyasu, was never crowned and alienated the Shewan nobility and the church, partly through his overtures to Muslims. In September 1916 he was deposed; Menelik's daughter Zewditu became empress, and Ras Tafari Makonnen, the future Haile Selassie, became regent and heir. Tafari gradually gathered power and pursued cautious modernization.",
+    "ko": "메넬리크 2세의 손자이자 지명된 후계자 리즈 이야수는 끝내 대관하지 못했고, 무슬림에게 접근한 일 등으로 셰와 귀족과 교회의 반발을 샀다. 1916년 9월 그는 폐위되었고, 메넬리크의 딸 자우디투가 여제가 되었으며 훗날의 하일레 셀라시에인 라스 타파리 마콘넨이 섭정 겸 후계자가 되었다. 타파리는 점차 권력을 모으며 신중한 근대화를 추진했다.",
+    "zh": "孟尼利克二世的孙子和指定继承人里吉·伊亚苏始终未加冕，并因亲近穆斯林等举动疏远了绍阿贵族和教会。1916年9月他被废黜；孟尼利克之女佐迪图成为女皇，拉斯·塔法里·马康南（即后来的海尔·塞拉西）成为摄政和皇储。塔法里逐渐集中权力，推行审慎的现代化。",
+    "ja": "メネリク2世の孫で指名された後継者リジ・イヤスは戴冠せず、ムスリムへの接近などによりシェワの貴族と教会の反発を買った。1916年9月に彼は廃位され、メネリクの娘ザウディトゥが女帝となり、のちのハイレ・セラシエであるラス・タファリ・マコンネンが摂政兼皇位継承者となった。タファリは次第に権力を集め、慎重な近代化を進めた。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": "Q219725",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Railway from Djibouti reaches Addis Ababa",
+    "ko": "지부티발 철도, 아디스아바바 도달",
+    "zh": "吉布提铁路通到亚的斯亚贝巴",
+    "ja": "ジブチからの鉄道がアディスアベバに到達"
+   },
+   "description": {
+    "en": "The Franco-Ethiopian railway, begun under a concession granted by Menelik in 1894, reached Addis Ababa in 1917. Linking the capital to the port of Djibouti, it became Ethiopia's main route for foreign trade, especially coffee exports. In 2016 it was replaced by a new electrified standard-gauge line built with Chinese financing.",
+    "ko": "1894년 메넬리크가 부여한 특허로 시작된 프랑스·에티오피아 철도가 1917년 아디스아바바에 도달했다. 수도와 지부티 항을 잇는 이 철도는 특히 커피 수출을 비롯한 에티오피아 대외 무역의 주요 경로가 되었다. 2016년 이 철도는 중국의 자금으로 건설된 새 전철화 표준궤 노선으로 대체되었다.",
+    "zh": "根据孟尼利克于1894年授予的特许权修建的法国—埃塞俄比亚铁路于1917年通到亚的斯亚贝巴。这条铁路连接首都与吉布提港，成为埃塞俄比亚对外贸易特别是咖啡出口的主要通道。2016年它被一条由中国融资建设的新电气化标准轨铁路所取代。",
+    "ja": "1894年にメネリクが与えた特許に基づいて建設が始まったフランス・エチオピア鉄道は、1917年にアディスアベバに到達した。首都とジブチ港を結ぶこの鉄道は、とりわけコーヒー輸出をはじめとするエチオピアの対外貿易の主要ルートとなった。2016年には中国の融資で建設された新しい電化標準軌の路線に置き換えられた。"
+   }
+  },
+  {
+   "year": 1923,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ethiopia joins the League of Nations",
+    "ko": "에티오피아, 국제연맹 가입",
+    "zh": "埃塞俄比亚加入国际联盟",
+    "ja": "エチオピア、国際連盟に加盟"
+   },
+   "description": {
+    "en": "In September 1923, with Ras Tafari's backing, Ethiopia was admitted to the League of Nations, one of very few African members. Admission required commitments to suppress the slave trade, and in 1924 Tafari issued a decree for the gradual abolition of slavery. Tafari then made a celebrated tour of European capitals in 1924.",
+    "ko": "1923년 9월 라스 타파리의 주도로 에티오피아는 국제연맹에 가입했는데, 이는 극소수의 아프리카 회원국 가운데 하나였다. 가입에는 노예 무역 근절 약속이 필요했고, 1924년 타파리는 노예제의 점진적 폐지를 위한 칙령을 내렸다. 이어 타파리는 1924년 유럽 각국 수도를 순방해 큰 주목을 받았다.",
+    "zh": "1923年9月，在拉斯·塔法里的推动下，埃塞俄比亚加入国际联盟，成为极少数非洲会员国之一。入盟需要承诺取缔奴隶贸易，1924年塔法里颁布了逐步废除奴隶制的法令。随后塔法里于1924年出访欧洲各国首都，引起广泛关注。",
+    "ja": "1923年9月、ラス・タファリの主導でエチオピアは国際連盟に加盟し、ごく少数のアフリカの加盟国の一つとなった。加盟には奴隷貿易の禁圧を約束する必要があり、1924年にタファリは奴隷制の段階的廃止の布告を出した。続いてタファリは1924年にヨーロッパ各国の首都を歴訪し、大きな注目を集めた。"
+   }
+  },
+  {
+   "year": 1928,
+   "qid": "Q5403603",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Failed palace coup strengthens Ras Tafari",
+    "ko": "실패한 궁정 쿠데타와 라스 타파리의 권력 강화",
+    "zh": "宫廷政变失败，拉斯·塔法里地位巩固",
+    "ja": "宮廷クーデター未遂とラス・タファリの権力強化"
+   },
+   "description": {
+    "en": "In 1928 conservatives at court loyal to Empress Zewditu attempted to remove Ras Tafari from power. The attempt failed, and Tafari forced the empress to crown him negus (king) in October 1928, making him the dominant figure in the state. When Zewditu died in 1930, he succeeded her as emperor.",
+    "ko": "1928년 자우디투 여제에게 충성하는 궁정 보수파가 라스 타파리를 권좌에서 몰아내려 했다. 이 시도는 실패했고, 타파리는 1928년 10월 여제가 자신을 네구스(왕)로 즉위시키도록 해 국가의 실권자가 되었다. 1930년 자우디투가 사망하자 그는 황제로 그 뒤를 이었다.",
+    "zh": "1928年，忠于佐迪图女皇的宫廷保守派企图将拉斯·塔法里赶下台。政变失败，塔法里迫使女皇于1928年10月为他加冕为“尼格斯”（国王），从而成为国家的主导人物。1930年佐迪图去世后，他继位为皇帝。",
+    "ja": "1928年、女帝ザウディトゥに忠実な宮廷の保守派がラス・タファリを権力の座から追おうとした。この試みは失敗し、タファリは1928年10月に女帝に自らをネグス（王）として戴冠させ、国家の実力者となった。1930年にザウディトゥが死去すると、彼は皇帝として後を継いだ。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Haile Selassie crowned emperor",
+    "ko": "하일레 셀라시에 황제 즉위",
+    "zh": "海尔·塞拉西加冕称帝",
+    "ja": "ハイレ・セラシエ皇帝の戴冠"
+   },
+   "description": {
+    "en": "Crowned in 1930, Haile Selassie I promulgated Ethiopia's first written constitution in 1931 and pursued modernization. Revered abroad, he became the central figure of the Rastafari movement.",
+    "ko": "1930년 즉위한 하일레 셀라시에 1세는 이듬해 에티오피아 최초의 성문 헌법을 공포하고 근대화를 추진했다. 국외에서는 라스타파리 운동이 그를 중심 인물로 숭앙했다.",
+    "zh": "1930年,海尔·塞拉西一世加冕,翌年颁布埃塞俄比亚第一部成文宪法并推行现代化。他在海外备受尊崇,成为拉斯特法里运动的核心人物。",
+    "ja": "1930年に即位したハイレ・セラシエ1世は、翌年エチオピア初の成文憲法を公布し近代化を進めた。国外ではラスタファリ運動が彼を中心的存在として崇めた。"
+   }
+  },
+  {
+   "year": 1934,
+   "qid": "Q3149889",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Walwal incident",
+    "ko": "왈왈 사건",
+    "zh": "瓦尔瓦尔事件",
+    "ja": "ワルワル事件"
+   },
+   "description": {
+    "en": "In December 1934 Ethiopian troops clashed with Italian colonial forces at the wells of Walwal in the Ogaden, a site inside Ethiopian territory that Italy had occupied. Mussolini used the incident as a pretext for war, while the League of Nations' arbitration proved ineffective. The crisis led directly to the Italian invasion of 1935.",
+    "ko": "1934년 12월 에티오피아군은 이탈리아가 점령하고 있던 에티오피아 영내 오가덴의 왈왈 우물에서 이탈리아 식민군과 충돌했다. 무솔리니는 이 사건을 전쟁의 구실로 삼았고 국제연맹의 중재는 무력했다. 이 위기는 1935년 이탈리아의 침공으로 곧장 이어졌다.",
+    "zh": "1934年12月，埃塞俄比亚军队与意大利殖民军在欧加登的瓦尔瓦尔水井发生冲突，该地位于埃塞俄比亚境内，却被意大利占据。墨索里尼以此事件为战争借口，而国际联盟的仲裁毫无成效。这场危机直接导致了1935年意大利的入侵。",
+    "ja": "1934年12月、エチオピア軍はオガデンのワルワルの井戸で、イタリアが占拠していたエチオピア領内の地においてイタリア植民地軍と衝突した。ムッソリーニはこの事件を戦争の口実とし、国際連盟の仲裁は無力であった。この危機は1935年のイタリア侵攻へと直結した。"
+   }
+  },
+  {
+   "year": 1935,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Italy invades Ethiopia",
+    "ko": "이탈리아의 에티오피아 침공",
+    "zh": "意大利入侵埃塞俄比亚",
+    "ja": "イタリアのエチオピア侵攻"
+   },
+   "description": {
+    "en": "On 3 October 1935 Italian armies invaded from Eritrea and Italian Somaliland without a declaration of war. Using aircraft and poison gas against soldiers and civilians, they defeated the Ethiopian armies at battles such as Amba Aradam and Maychew in early 1936. The League of Nations imposed only limited sanctions, a failure that damaged its credibility.",
+    "ko": "1935년 10월 3일 이탈리아군은 선전 포고 없이 에리트레아와 이탈리아령 소말릴란드에서 침공했다. 이탈리아군은 군인과 민간인에게 항공기와 독가스를 사용하며 1936년 초 암바 아라담과 마이추 등의 전투에서 에티오피아군을 격파했다. 국제연맹은 제한적인 제재만 부과했고, 이 실패는 연맹의 신뢰를 무너뜨렸다.",
+    "zh": "1935年10月3日，意大利军队不宣而战，从厄立特里亚和意属索马里兰入侵。意军对士兵和平民使用飞机和毒气，于1936年初在安巴阿拉达姆和迈丘等战役中击败埃塞俄比亚军队。国际联盟只实施了有限的制裁，这一失败损害了它的信誉。",
+    "ja": "1935年10月3日、イタリア軍は宣戦布告なしにエリトリアとイタリア領ソマリランドから侵攻した。兵士と民間人に対して航空機と毒ガスを用い、1936年初めにアンバ・アラダムやマイチューなどの戦いでエチオピア軍を破った。国際連盟は限定的な制裁しか科さず、この失敗は連盟の信頼を損なった。"
+   }
+  },
+  {
+   "year": 1936,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Italian occupation, 1936-1941",
+    "ko": "이탈리아의 점령 (1936-1941)",
+    "zh": "意大利占领时期(1936-1941)",
+    "ja": "イタリアによる占領(1936-1941)"
+   },
+   "description": {
+    "en": "Fascist Italy invaded in 1935, using poison gas, and occupied Ethiopia from 1936. Haile Selassie appealed to the League of Nations in vain; resistance continued until British and patriot forces restored him in 1941.",
+    "ko": "1935년 파시스트 이탈리아는 독가스까지 동원해 침공했고 1936년부터 에티오피아를 점령했다. 하일레 셀라시에의 국제연맹 호소는 외면당했으나 저항은 계속되었고, 1941년 영국군과 애국군이 황제를 복위시켰다.",
+    "zh": "1935年,法西斯意大利动用毒气入侵,并于1936年起占领埃塞俄比亚。海尔·塞拉西向国际联盟的呼吁未获回应;抵抗运动持续不断,1941年英军与爱国军收复国土,皇帝复位。",
+    "ja": "1935年、ファシスト・イタリアは毒ガスまで用いて侵攻し、1936年からエチオピアを占領した。ハイレ・セラシエの国際連盟への訴えは実らなかったが抵抗は続き、1941年に英軍と愛国軍が皇帝を復位させた。"
+   }
+  },
+  {
+   "year": 1937,
+   "qid": "Q39280777",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Yekatit 12 and the Debre Libanos massacre",
+    "ko": "예카티트 12일 학살과 데브레 리바노스 학살",
+    "zh": "“二月十二日”屠杀与德布雷·利巴诺斯屠杀",
+    "ja": "イェカティト12日の虐殺とデブレ・リバノスの虐殺"
+   },
+   "description": {
+    "en": "After two young Eritreans attempted to assassinate Viceroy Rodolfo Graziani in Addis Ababa on 19 February 1937 (Yekatit 12 in the Ethiopian calendar), Italian forces and Fascist militias killed thousands of residents of the city over several days. In May 1937 Italian troops massacred monks and pilgrims at the monastery of Debre Libanos, which Graziani suspected of supporting the attack. These atrocities are commemorated each year in Ethiopia.",
+    "ko": "1937년 2월 19일(에티오피아력 예카티트 12일) 두 명의 에리트레아 청년이 아디스아바바에서 로돌포 그라치아니 총독 암살을 시도하자, 이탈리아군과 파시스트 민병대는 며칠에 걸쳐 수천 명의 시민을 살해했다. 1937년 5월 이탈리아군은 그라치아니가 공격을 지원했다고 의심한 데브레 리바노스 수도원에서 수도사와 순례자들을 학살했다. 이 만행은 에티오피아에서 매년 추모되고 있다.",
+    "zh": "1937年2月19日（埃塞俄比亚历“二月十二日”），两名厄立特里亚青年在亚的斯亚贝巴行刺鲁道夫·格拉齐亚尼总督未遂，此后数日内意大利军队和法西斯民兵杀害了该市数千名居民。1937年5月，意军在格拉齐亚尼怀疑支持这次行刺的德布雷·利巴诺斯修道院屠杀了修士和朝圣者。埃塞俄比亚每年都纪念这些暴行。",
+    "ja": "1937年2月19日（エチオピア暦イェカティト12日）、2人のエリトリア人青年がアディスアベバでロドルフォ・グラツィアーニ総督の暗殺を図ると、イタリア軍とファシスト民兵は数日にわたり市民数千人を殺害した。1937年5月には、グラツィアーニが襲撃を支援したと疑ったデブレ・リバノス修道院で、イタリア軍が修道士と巡礼者を虐殺した。これらの残虐行為はエチオピアで毎年追悼されている。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q1970141",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Liberation and the return of Haile Selassie",
+    "ko": "해방과 하일레 셀라시에의 귀환",
+    "zh": "解放与海尔·塞拉西回国",
+    "ja": "解放とハイレ・セラシエの帰還"
+   },
+   "description": {
+    "en": "In 1941 British and Commonwealth forces, together with Ethiopian patriots and the Gideon Force, defeated the Italians in East Africa. Haile Selassie re-entered Addis Ababa on 5 May 1941, five years to the day after the Italians had taken the city. The last Italian stronghold at Gondar surrendered in November 1941, completing the liberation.",
+    "ko": "1941년 영국·영연방군은 에티오피아 애국자들, 기드온 부대와 함께 동아프리카의 이탈리아군을 격파했다. 하일레 셀라시에는 이탈리아군이 수도를 점령한 지 정확히 5년 만인 1941년 5월 5일 아디스아바바로 귀환했다. 이탈리아의 마지막 거점 곤다르가 1941년 11월 항복하면서 해방이 완료되었다.",
+    "zh": "1941年，英国和英联邦军队与埃塞俄比亚爱国者及“基甸部队”一起击败了东非的意大利军队。1941年5月5日，即意军攻占首都整整五年之后，海尔·塞拉西重返亚的斯亚贝巴。1941年11月意军最后的据点贡德尔投降，解放宣告完成。",
+    "ja": "1941年、イギリス・英連邦軍はエチオピアの愛国者やギデオン部隊とともに東アフリカのイタリア軍を破った。ハイレ・セラシエは、イタリア軍が首都を占領してからちょうど5年後の1941年5月5日にアディスアベバへ帰還した。イタリア最後の拠点ゴンダールが1941年11月に降伏し、解放が完了した。"
+   }
+  },
+  {
+   "year": 1943,
+   "qid": "Q8037478",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Woyane rebellion in Tigray",
+    "ko": "티그라이의 워야네 반란",
+    "zh": "提格雷的“沃亚内”起义",
+    "ja": "ティグライのウォヤネの反乱"
+   },
+   "description": {
+    "en": "In 1943 peasants and local leaders in eastern Tigray rose against the restored imperial government's taxation and the abuses of its appointed officials. The revolt was suppressed with the help of British aircraft that bombed Mekelle and other areas. The memory of the 'first Woyane' later inspired the Tigray People's Liberation Front.",
+    "ko": "1943년 티그라이 동부의 농민과 지역 지도자들은 복귀한 제국 정부의 과세와 임명된 관리들의 횡포에 맞서 봉기했다. 반란은 메켈레 등지를 폭격한 영국 항공기의 도움으로 진압되었다. '제1차 워야네'의 기억은 훗날 티그라이 인민해방전선에 영감을 주었다.",
+    "zh": "1943年，提格雷东部的农民和地方领袖起来反抗复辟的帝国政府的赋税以及其委任官员的苛政。起义在英国飞机轰炸默克莱等地的协助下被镇压。“第一次沃亚内”的记忆后来激励了提格雷人民解放阵线。",
+    "ja": "1943年、ティグライ東部の農民と地方指導者は、復帰した帝国政府の課税と任命された役人の横暴に反発して蜂起した。反乱はメケレなどを爆撃したイギリス機の助けを得て鎮圧された。「第一次ウォヤネ」の記憶はのちにティグライ人民解放戦線を鼓舞した。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Ethiopian Airlines founded",
+    "ko": "에티오피아 항공 설립",
+    "zh": "埃塞俄比亚航空成立",
+    "ja": "エチオピア航空の設立"
+   },
+   "description": {
+    "en": "In December 1945 the imperial government founded Ethiopian Air Lines with technical assistance from the American company TWA, and regular flights began in 1946. The state-owned carrier steadily expanded its network across Africa and beyond. It grew into the largest airline in Africa and a major source of foreign exchange.",
+    "ko": "1945년 12월 제국 정부는 미국 TWA사의 기술 지원을 받아 에티오피아 항공을 설립했고 1946년 정기 운항을 시작했다. 이 국영 항공사는 아프리카 전역과 그 밖으로 노선망을 꾸준히 넓혔다. 이 항공사는 아프리카 최대의 항공사이자 주요 외화 수입원으로 성장했다.",
+    "zh": "1945年12月，帝国政府在美国环球航空公司的技术援助下成立了埃塞俄比亚航空，1946年开始定期航班。这家国有航空公司不断将航线网络扩展到整个非洲及其他地区。它发展成为非洲最大的航空公司和重要的外汇来源。",
+    "ja": "1945年12月、帝国政府はアメリカのTWA社の技術支援を受けてエチオピア航空を設立し、1946年に定期便の運航を開始した。この国営航空会社はアフリカ全域とその外へ路線網を着実に広げた。同社はアフリカ最大の航空会社、そして重要な外貨獲得源へと成長した。"
+   }
+  },
+  {
+   "year": 1951,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Kagnew Battalion fights in the Korean War",
+    "ko": "강뉴 대대, 한국전쟁 참전",
+    "zh": "卡格纽营参加朝鲜战争",
+    "ja": "カグニュー大隊、朝鮮戦争に参戦"
+   },
+   "description": {
+    "en": "In 1951 Haile Selassie sent the Kagnew Battalion, drawn from the Imperial Bodyguard, to fight under the United Nations Command in the Korean War. Rotating battalions served until the end of the war and gained a reputation for discipline. Ethiopia's participation reflected the emperor's commitment to collective security after the League of Nations' failure in 1935–1936.",
+    "ko": "1951년 하일레 셀라시에는 황실 근위대에서 차출한 강뉴 대대를 유엔군 사령부 휘하에서 한국전쟁에 싸우도록 파병했다. 교대로 파견된 대대들은 전쟁이 끝날 때까지 복무하며 규율 있는 부대로 명성을 얻었다. 에티오피아의 참전은 1935~1936년 국제연맹의 실패를 겪은 황제가 집단 안보를 중시했음을 보여 준다.",
+    "zh": "1951年，海尔·塞拉西派遣从皇家卫队中抽调组成的卡格纽营，在联合国军司令部麾下参加朝鲜战争。轮换派出的各营一直服役到战争结束，以纪律严明著称。埃塞俄比亚的参战反映了皇帝在经历1935—1936年国际联盟的失败之后对集体安全的坚持。",
+    "ja": "1951年、ハイレ・セラシエは皇帝親衛隊から選抜したカグニュー大隊を、国連軍司令部の下で朝鮮戦争に派遣した。交代で派遣された大隊は終戦まで任務に就き、規律正しい部隊として評判を得た。エチオピアの参戦は、1935〜1936年の国際連盟の失敗を経験した皇帝が集団安全保障を重視したことを示している。"
+   }
+  },
+  {
+   "year": 1952,
+   "qid": "Q2603305",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Federation with Eritrea",
+    "ko": "에리트레아와의 연방",
+    "zh": "与厄立特里亚组成联邦",
+    "ja": "エリトリアとの連邦"
+   },
+   "description": {
+    "en": "In September 1952, following UN Resolution 390 (V), the former Italian colony of Eritrea was federated with Ethiopia as an autonomous unit, giving Ethiopia access to the sea. The imperial government steadily eroded Eritrean autonomy, and in November 1962 the federation was dissolved and Eritrea annexed as a province. The annexation fuelled a thirty-year Eritrean war of independence.",
+    "ko": "1952년 9월 유엔 결의 390(V)호에 따라 옛 이탈리아 식민지 에리트레아가 자치 단위로서 에티오피아와 연방을 이루어, 에티오피아는 바다로 나가는 길을 얻었다. 제국 정부는 에리트레아의 자치를 꾸준히 잠식했고, 1962년 11월 연방을 해체해 에리트레아를 한 주로 병합했다. 이 병합은 30년에 걸친 에리트레아 독립전쟁의 불씨가 되었다.",
+    "zh": "1952年9月，根据联合国第390（五）号决议，前意大利殖民地厄立特里亚作为自治单位与埃塞俄比亚组成联邦，使埃塞俄比亚获得了出海口。帝国政府不断蚕食厄立特里亚的自治，并于1962年11月解散联邦，将厄立特里亚吞并为一个省。这次吞并引发了长达三十年的厄立特里亚独立战争。",
+    "ja": "1952年9月、国連決議390(V)に基づき、旧イタリア植民地エリトリアが自治単位としてエチオピアと連邦を形成し、エチオピアは海への出口を得た。帝国政府はエリトリアの自治を着実に侵食し、1962年11月に連邦を解消してエリトリアを一州として併合した。この併合は30年に及ぶエリトリア独立戦争の火種となった。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Revised imperial constitution",
+    "ko": "개정 제국 헌법",
+    "zh": "修订帝国宪法",
+    "ja": "改正帝国憲法"
+   },
+   "description": {
+    "en": "In 1955 Haile Selassie promulgated a revised constitution that replaced the 1931 charter. It introduced an elected lower house of parliament and a bill of rights, while confirming the emperor's sacred status and broad powers. Political parties remained absent, and real authority stayed with the throne.",
+    "ko": "1955년 하일레 셀라시에는 1931년 헌장을 대체하는 개정 헌법을 공포했다. 이 헌법은 선출직 하원과 권리 장전을 도입했으나 황제의 신성한 지위와 광범위한 권한을 재확인했다. 정당은 여전히 존재하지 않았고 실권은 왕좌에 남아 있었다.",
+    "zh": "1955年，海尔·塞拉西颁布了取代1931年宪章的修订宪法。它设立了民选的下议院并规定了权利法案，同时确认皇帝的神圣地位和广泛权力。政党依然不存在，实权仍掌握在皇帝手中。",
+    "ja": "1955年、ハイレ・セラシエは1931年の憲章に代わる改正憲法を公布した。この憲法は選挙で選ばれる下院と権利章典を導入したが、皇帝の神聖な地位と広範な権限を確認した。政党は依然として存在せず、実権は帝位にとどまった。"
+   }
+  },
+  {
+   "year": 1959,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Ethiopian Orthodox Church gains its own patriarch",
+    "ko": "에티오피아 정교회, 독자적 총대주교 획득",
+    "zh": "埃塞俄比亚正教会获得自己的宗主教",
+    "ja": "エチオピア正教会が独自の総主教を得る"
+   },
+   "description": {
+    "en": "For some 1,600 years the head of the Ethiopian church had been an Egyptian bishop appointed by the Coptic patriarch of Alexandria. After negotiations led by Haile Selassie, the church became autocephalous, and in 1959 Abuna Basilios was enthroned as the first Ethiopian patriarch. The change gave the national church full independence in its leadership.",
+    "ko": "약 1,600년 동안 에티오피아 교회의 수장은 알렉산드리아 콥트 총대주교가 임명한 이집트인 주교였다. 하일레 셀라시에가 주도한 협상 끝에 교회는 독립 교회가 되었고, 1959년 아부나 바실리오스가 최초의 에티오피아인 총대주교로 즉위했다. 이 변화로 국가 교회는 지도부에서 완전한 독립을 얻었다.",
+    "zh": "大约1600年来，埃塞俄比亚教会的首领一直是由亚历山大科普特宗主教任命的埃及籍主教。经海尔·塞拉西主导的谈判，教会获得自主地位，1959年阿布纳·巴西利奥斯就任首位埃塞俄比亚籍宗主教。这一变化使国家教会在领导层上获得完全独立。",
+    "ja": "約1600年にわたり、エチオピア教会の長はアレクサンドリアのコプト総主教が任命するエジプト人主教であった。ハイレ・セラシエ主導の交渉の結果、教会は独立教会となり、1959年にアブナ・バシリオスが初のエチオピア人総主教に即位した。この変化により国の教会は指導者の面で完全な独立を得た。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Abebe Bikila wins Olympic gold barefoot",
+    "ko": "아베베 비킬라, 맨발로 올림픽 금메달",
+    "zh": "阿贝贝·比基拉赤脚夺得奥运金牌",
+    "ja": "アベベ・ビキラ、裸足で五輪金メダル"
+   },
+   "description": {
+    "en": "In September 1960 Abebe Bikila, a soldier of the Imperial Bodyguard, won the marathon at the Rome Olympics running barefoot, becoming the first black African Olympic champion. He won the marathon again at the 1964 Tokyo Olympics. His victories launched Ethiopia's long tradition of world-class distance runners.",
+    "ko": "1960년 9월 황실 근위대 병사 아베베 비킬라는 로마 올림픽 마라톤에서 맨발로 달려 우승하며 흑인 아프리카인 최초의 올림픽 챔피언이 되었다. 그는 1964년 도쿄 올림픽 마라톤에서도 다시 우승했다. 그의 승리는 세계적인 장거리 선수를 배출하는 에티오피아의 오랜 전통을 열었다.",
+    "zh": "1960年9月，皇家卫队士兵阿贝贝·比基拉在罗马奥运会上赤脚跑完马拉松并夺冠，成为首位获得奥运冠军的非洲黑人。他在1964年东京奥运会上再次赢得马拉松金牌。他的胜利开创了埃塞俄比亚涌现世界级长跑选手的悠久传统。",
+    "ja": "1960年9月、皇帝親衛隊の兵士アベベ・ビキラはローマ五輪のマラソンを裸足で走って優勝し、黒人アフリカ人初のオリンピック王者となった。彼は1964年の東京五輪のマラソンでも再び優勝した。その勝利は、世界的な長距離ランナーを輩出するエチオピアの長い伝統の始まりとなった。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Failed coup of December 1960",
+    "ko": "1960년 12월 쿠데타 실패",
+    "zh": "1960年12月政变失败",
+    "ja": "1960年12月のクーデター未遂"
+   },
+   "description": {
+    "en": "In December 1960, while Haile Selassie was abroad, the commander of the Imperial Bodyguard Mengistu Neway and his brother Germame seized the capital and proclaimed a reformist government. Loyal army and air force units crushed the coup within days, and hostages were killed by the plotters. Although it failed, the coup broke the aura of the monarchy and inspired student radicalism.",
+    "ko": "1960년 12월 하일레 셀라시에가 해외에 있는 동안 황실 근위대 사령관 멩기스투 네웨이와 그의 동생 게르마메가 수도를 장악하고 개혁 정부를 선포했다. 충성파 육군과 공군 부대가 며칠 만에 쿠데타를 진압했고, 주모자들은 인질들을 살해했다. 실패했음에도 이 쿠데타는 왕정의 권위를 무너뜨리고 학생 급진주의에 영감을 주었다.",
+    "zh": "1960年12月，趁海尔·塞拉西出访国外之际，皇家卫队司令门格斯图·内韦及其弟格尔马梅控制了首都，宣布成立改革政府。忠于皇帝的陆军和空军部队在数日内镇压了政变，政变者杀害了人质。政变虽告失败，却打破了君主制的光环，激发了学生的激进主义。",
+    "ja": "1960年12月、ハイレ・セラシエの外遊中に、皇帝親衛隊司令官メンギスツ・ネウァイとその弟ゲルマメが首都を掌握し、改革派政府を宣言した。皇帝に忠実な陸軍と空軍の部隊が数日でクーデターを鎮圧し、首謀者たちは人質を殺害した。失敗に終わったものの、このクーデターは君主制の権威を揺るがし、学生の急進主義に影響を与えた。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Organisation of African Unity founded in Addis Ababa",
+    "ko": "아디스아바바에서 아프리카 단결기구 창설",
+    "zh": "非洲统一组织在亚的斯亚贝巴成立",
+    "ja": "アディスアベバでアフリカ統一機構が発足"
+   },
+   "description": {
+    "en": "On 25 May 1963 leaders of 32 independent African states met in Addis Ababa and founded the Organisation of African Unity, with Haile Selassie playing a leading role. Addis Ababa became the organization's headquarters. Its successor, the African Union, established in 2002, is also based in the city.",
+    "ko": "1963년 5월 25일 32개 독립 아프리카 국가의 지도자들이 아디스아바바에 모여 아프리카 단결기구(OAU)를 창설했으며, 하일레 셀라시에가 주도적 역할을 했다. 아디스아바바는 이 기구의 본부가 되었다. 2002년 출범한 후속 기구 아프리카 연합 역시 이 도시에 본부를 두고 있다.",
+    "zh": "1963年5月25日，32个独立非洲国家的领导人齐聚亚的斯亚贝巴，成立非洲统一组织，海尔·塞拉西在其中发挥了主导作用。亚的斯亚贝巴成为该组织总部所在地。2002年成立的继承组织非洲联盟总部也设在这座城市。",
+    "ja": "1963年5月25日、32の独立アフリカ諸国の指導者がアディスアベバに集まり、アフリカ統一機構（OAU）を設立した。ハイレ・セラシエは主導的な役割を果たした。アディスアベバは同機構の本部となった。2002年に発足した後継組織アフリカ連合も、この都市に本部を置いている。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": "Q29075204",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Wollo famine and growing unrest",
+    "ko": "월로 기근과 확산되는 불안",
+    "zh": "沃洛饥荒与社会动荡加剧",
+    "ja": "ウォロの飢饉と広がる不安"
+   },
+   "description": {
+    "en": "In 1972–1973 drought and crop failure caused a severe famine in Wollo and Tigray, killing many tens of thousands while the government sought to hide the disaster. Foreign television reports exposed the famine in 1973 and discredited the imperial regime. In the same year the Oromo Liberation Front was formed, beginning an armed Oromo movement that has continued in various forms since.",
+    "ko": "1972~1973년 가뭄과 흉작으로 월로와 티그라이에 극심한 기근이 발생해 수만 명이 목숨을 잃었으나 정부는 재난을 숨기려 했다. 1973년 외국 텔레비전 보도가 기근을 폭로하면서 제국 정권은 신뢰를 잃었다. 같은 해 오로모 해방전선이 결성되어, 이후 여러 형태로 이어진 오로모 무장 운동이 시작되었다.",
+    "zh": "1972—1973年，干旱和歉收在沃洛和提格雷造成严重饥荒，数以万计的人死亡，而政府却试图掩盖灾情。1973年外国电视报道揭露了这场饥荒，使帝国政权威信扫地。同年奥罗莫解放阵线成立，开启了此后以各种形式延续的奥罗莫武装运动。",
+    "ja": "1972〜1973年、干ばつと不作によりウォロとティグライで深刻な飢饉が起き、数万人が死亡したが、政府は災害を隠そうとした。1973年に外国のテレビ報道が飢饉を暴露し、帝国政権の信用は失墜した。同じ年にオロモ解放戦線が結成され、以後さまざまな形で続くオロモの武装運動が始まった。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Revolution ends the monarchy; the Derg seizes power",
+    "ko": "혁명으로 제정 붕괴, 데르그 집권",
+    "zh": "革命终结帝制,德尔格掌权",
+    "ja": "革命により帝政が崩壊、デルグが権力を掌握"
+   },
+   "description": {
+    "en": "Amid famine and unrest, a military committee known as the Derg deposed Haile Selassie in September 1974, ending the ancient monarchy. Mengistu's Marxist regime followed, marked by the violent Red Terror.",
+    "ko": "기근과 소요 속에 1974년 9월 데르그로 불린 군부 위원회가 하일레 셀라시에를 폐위하며 유서 깊은 제정이 막을 내렸다. 이후 멩기스투의 마르크스주의 정권이 들어섰고 '적색 테러'로 많은 희생자가 발생했다.",
+    "zh": "1974年9月,在饥荒与动荡之中,被称为德尔格的军事委员会废黜海尔·塞拉西,古老的帝制就此终结。随后门格斯图建立马克思主义政权,\"红色恐怖\"造成大量伤亡。",
+    "ja": "飢饉と騒乱のさなかの1974年9月、デルグと呼ばれる軍事委員会がハイレ・セラシエを廃位し、長い歴史を持つ帝政は幕を閉じた。続くメンギスツのマルクス主義政権下では「赤色テロ」により多くの犠牲者が出た。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Discovery of 'Lucy' at Hadar",
+    "ko": "하다르에서 '루시' 발견",
+    "zh": "在哈达尔发现“露西”",
+    "ja": "ハダールで「ルーシー」を発見"
+   },
+   "description": {
+    "en": "In November 1974 an international team led by Donald Johanson discovered at Hadar in the Afar region a partial skeleton of Australopithecus afarensis, about 3.2 million years old, nicknamed 'Lucy' (Dinkinesh in Amharic). It was then the most complete early hominin skeleton known and showed that upright walking preceded large brains. Later finds such as Ardipithecus ramidus made Ethiopia a central region for the study of human origins.",
+    "ko": "1974년 11월 도널드 조핸슨이 이끄는 국제 조사단이 아파르 지역 하다르에서 약 320만 년 전의 오스트랄로피테쿠스 아파렌시스 부분 골격을 발견했고, '루시'(암하라어로 딩키네시)라는 별명이 붙었다. 이는 당시 알려진 가장 완전한 초기 호미닌 골격으로, 직립 보행이 큰 뇌보다 먼저 나타났음을 보여 주었다. 이후 아르디피테쿠스 라미두스 등의 발견으로 에티오피아는 인류 기원 연구의 중심 지역이 되었다.",
+    "zh": "1974年11月，唐纳德·约翰森领导的国际考察队在阿法尔地区的哈达尔发现了一具距今约320万年的南方古猿阿法种部分骨架，昵称“露西”（阿姆哈拉语称丁基内什）。这是当时已知最完整的早期人族骨架，表明直立行走先于大脑增大出现。此后地猿始祖种等发现使埃塞俄比亚成为人类起源研究的核心地区。",
+    "ja": "1974年11月、ドナルド・ジョハンソン率いる国際調査隊が、アファール地方のハダールで約320万年前のアウストラロピテクス・アファレンシスの部分骨格を発見し、「ルーシー」（アムハラ語でディンキネシュ）と名づけた。これは当時知られた最も完全な初期人類の骨格で、直立二足歩行が脳の大型化に先行したことを示した。その後のアルディピテクス・ラミドゥスなどの発見により、エチオピアは人類起源研究の中心地となった。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Derg nationalizes all rural land",
+    "ko": "데르그의 농지 전면 국유화",
+    "zh": "德尔格将全部农村土地收归国有",
+    "ja": "デルグが全農村の土地を国有化"
+   },
+   "description": {
+    "en": "In March 1975 the Derg proclaimed the nationalization of all rural land, abolishing the old landlord and tenancy system and distributing usage rights to peasant associations. Urban land and rental housing were nationalized soon afterwards, along with banks and major industries. Emperor Haile Selassie died in custody in August 1975.",
+    "ko": "1975년 3월 데르그는 모든 농촌 토지의 국유화를 선포해 기존의 지주·소작 제도를 폐지하고 농민 조합에 사용권을 분배했다. 곧이어 도시 토지와 임대 주택, 은행과 주요 산업도 국유화되었다. 하일레 셀라시에 황제는 1975년 8월 구금 중 사망했다.",
+    "zh": "1975年3月，德尔格宣布将全部农村土地收归国有，废除旧有的地主租佃制度，并把土地使用权分配给农民协会。随后城市土地、出租房屋以及银行和主要工业也相继国有化。海尔·塞拉西皇帝于1975年8月在羁押中去世。",
+    "ja": "1975年3月、デルグはすべての農村の土地の国有化を宣言し、旧来の地主・小作制度を廃止して農民組合に使用権を分配した。まもなく都市の土地と賃貸住宅、銀行や主要産業も国有化された。皇帝ハイレ・セラシエは1975年8月に拘束中に死去した。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Tigray People's Liberation Front founded",
+    "ko": "티그라이 인민해방전선 결성",
+    "zh": "提格雷人民解放阵线成立",
+    "ja": "ティグライ人民解放戦線の結成"
+   },
+   "description": {
+    "en": "In February 1975 a group of mostly student activists founded the Tigray People's Liberation Front (TPLF) to fight the Derg. Starting with a handful of fighters, it built a mass base among the Tigrayan peasantry over the following years. The TPLF became the core of the coalition that overthrew the Derg in 1991 and dominated Ethiopian politics until 2018.",
+    "ko": "1975년 2월 주로 학생 운동가들로 이루어진 집단이 데르그에 맞서 싸우기 위해 티그라이 인민해방전선(TPLF)을 결성했다. 소수의 전사로 출발한 TPLF는 이후 몇 년 동안 티그라이 농민 사이에 대중적 기반을 다졌다. TPLF는 1991년 데르그를 무너뜨린 연합의 핵심이 되었고 2018년까지 에티오피아 정치를 주도했다.",
+    "zh": "1975年2月，一批以学生为主的活动人士成立了提格雷人民解放阵线，以对抗德尔格。它从寥寥几名战士起步，在此后几年里在提格雷农民中建立了广泛的群众基础。提人阵成为1991年推翻德尔格的联盟的核心，并主导埃塞俄比亚政治直至2018年。",
+    "ja": "1975年2月、おもに学生活動家からなるグループが、デルグと戦うためにティグライ人民解放戦線（TPLF）を結成した。少数の戦士から出発したTPLFは、その後数年でティグライの農民の間に大衆的基盤を築いた。TPLFは1991年にデルグを倒した連合の中核となり、2018年までエチオピア政治を主導した。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": "Q2610662",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Red Terror",
+    "ko": "붉은 테러",
+    "zh": "红色恐怖",
+    "ja": "赤色テロ"
+   },
+   "description": {
+    "en": "From 1976 to 1978 the Derg under Mengistu Haile Mariam waged a campaign of mass violence, the Red Terror, against the Ethiopian People's Revolutionary Party and other opponents, who had themselves carried out assassinations. Tens of thousands of people, many of them young, were killed, tortured or imprisoned, and bodies were often left in the streets. After 1991 Ethiopian courts tried Mengistu, who had fled to Zimbabwe, in absentia.",
+    "ko": "1976년부터 1978년까지 멩기스투 하일레 마리암이 이끄는 데르그는 에티오피아 인민혁명당과 다른 반대 세력을 상대로 대규모 폭력 캠페인인 '붉은 테러'를 벌였는데, 반대 세력 역시 암살을 자행했다. 젊은이를 포함한 수만 명이 살해되거나 고문·투옥되었고 시신이 길거리에 방치되는 일이 많았다. 1991년 이후 에티오피아 법원은 짐바브웨로 도피한 멩기스투를 궐석 재판했다.",
+    "zh": "1976年至1978年，门格斯图·海尔·马里亚姆领导的德尔格对埃塞俄比亚人民革命党及其他反对者（他们自己也实施过暗杀）发动了大规模暴力运动，即“红色恐怖”。数以万计的人（其中许多是年轻人）被杀害、拷打或监禁，尸体常被弃于街头。1991年后，埃塞俄比亚法院对逃往津巴布韦的门格斯图进行了缺席审判。",
+    "ja": "1976年から1978年にかけて、メンギスツ・ハイレ・マリアム率いるデルグは、エチオピア人民革命党などの反対派（彼ら自身も暗殺を行っていた）に対して大規模な暴力の運動「赤色テロ」を展開した。若者を中心に数万人が殺害・拷問・投獄され、遺体はしばしば路上に放置された。1991年以降、エチオピアの裁判所はジンバブエに逃れたメンギスツを欠席裁判にかけた。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": "Q318250",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ogaden War with Somalia",
+    "ko": "소말리아와의 오가덴 전쟁",
+    "zh": "与索马里的欧加登战争",
+    "ja": "ソマリアとのオガデン戦争"
+   },
+   "description": {
+    "en": "In July 1977 Somalia invaded the Ogaden, a region of eastern Ethiopia inhabited mainly by Somalis, and quickly took most of it. The Soviet Union switched its support from Somalia to the Derg, and with massive Soviet arms and Cuban troops Ethiopia drove the Somali army out by March 1978. The war cemented Ethiopia's alignment with the Soviet bloc.",
+    "ko": "1977년 7월 소말리아는 주로 소말리인이 사는 에티오피아 동부 오가덴 지역을 침공해 대부분을 빠르게 점령했다. 소련은 소말리아에서 데르그로 지원 대상을 바꾸었고, 에티오피아는 소련의 대규모 무기와 쿠바군의 도움으로 1978년 3월까지 소말리아군을 몰아냈다. 이 전쟁으로 에티오피아는 소련 진영과의 결속을 굳혔다.",
+    "zh": "1977年7月，索马里入侵主要居住着索马里人的埃塞俄比亚东部欧加登地区，并迅速占领了其大部分。苏联将支持对象从索马里转向德尔格，埃塞俄比亚在苏联大量武器和古巴部队的帮助下，于1978年3月将索马里军队逐出。这场战争巩固了埃塞俄比亚与苏联阵营的结盟。",
+    "ja": "1977年7月、ソマリアはおもにソマリ人が住むエチオピア東部のオガデン地方に侵攻し、その大半を素早く占領した。ソ連は支援先をソマリアからデルグに切り替え、エチオピアはソ連の大量の兵器とキューバ軍の支援を得て1978年3月までにソマリア軍を撃退した。この戦争によりエチオピアとソ連圏の結びつきが固まった。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "First World Heritage Sites inscribed",
+    "ko": "첫 세계유산 등재",
+    "zh": "首批世界遗产列入名录",
+    "ja": "最初の世界遺産登録"
+   },
+   "description": {
+    "en": "In 1978 UNESCO's first World Heritage List included two Ethiopian sites: the Rock-Hewn Churches of Lalibela and the Simien Mountains National Park. Other Ethiopian sites, including Aksum, Gondar's Fasil Ghebbi, the Lower Awash and Omo valleys and Tiya, followed in subsequent years. Ethiopia today has one of the largest numbers of World Heritage Sites in Africa.",
+    "ko": "1978년 유네스코의 첫 세계유산 목록에는 랄리벨라 암굴 교회군과 시미엔산 국립공원 등 두 곳의 에티오피아 유산이 포함되었다. 이후 악숨, 곤다르의 파실 게비, 아와시강 하류와 오모강 하류 계곡, 티야 등 다른 유산들이 잇따라 등재되었다. 에티오피아는 오늘날 아프리카에서 세계유산이 가장 많은 나라 가운데 하나이다.",
+    "zh": "1978年，联合国教科文组织首批《世界遗产名录》收录了埃塞俄比亚的两处遗产：拉利贝拉岩石教堂和塞米恩山国家公园。此后阿克苏姆、贡德尔的法西尔盖比、阿瓦什河下游和奥莫河下游河谷以及蒂亚等遗址相继入选。如今埃塞俄比亚是非洲世界遗产数量最多的国家之一。",
+    "ja": "1978年、ユネスコ最初の世界遺産リストには、ラリベラの岩窟教会群とシミエン国立公園というエチオピアの2件が含まれた。その後アクスム、ゴンダールのファシル・ゲビ、アワシュ川下流域とオモ川下流域、ティヤなどが続いて登録された。エチオピアは今日、アフリカで最も多くの世界遺産を持つ国の一つである。"
+   }
+  },
+  {
+   "year": 1984,
+   "qid": "Q1637896",
+   "importance": 1,
+   "category": "disaster",
+   "title": {
+    "en": "Famine of 1983–1985",
+    "ko": "1983~1985년 대기근",
+    "zh": "1983—1985年大饥荒",
+    "ja": "1983〜1985年の大飢饉"
+   },
+   "description": {
+    "en": "Drought, war and the Derg's policies combined to produce a catastrophic famine in northern Ethiopia, especially in Tigray and Wollo, from 1983 to 1985. Hundreds of thousands of people died, and televised images in late 1984 triggered a worldwide relief effort including Band Aid and Live Aid. The government's forced resettlement programmes added to the suffering.",
+    "ko": "가뭄과 전쟁, 데르그의 정책이 겹쳐 1983년부터 1985년까지 에티오피아 북부, 특히 티그라이와 월로에 참혹한 기근이 닥쳤다. 수십만 명이 사망했으며, 1984년 말 방영된 영상은 밴드 에이드와 라이브 에이드를 비롯한 세계적 구호 활동을 촉발했다. 정부의 강제 이주 정책은 고통을 더욱 키웠다.",
+    "zh": "干旱、战争和德尔格的政策共同导致1983年至1985年埃塞俄比亚北部（尤其是提格雷和沃洛）发生灾难性饥荒。数十万人死亡，1984年底播出的电视画面引发了包括“乐队援助”和“拯救生命”演唱会在内的全球救援行动。政府的强制移民计划进一步加深了苦难。",
+    "ja": "干ばつ、戦争、そしてデルグの政策が重なり、1983年から1985年にかけてエチオピア北部、とくにティグライとウォロで破滅的な飢饉が起きた。数十万人が死亡し、1984年末に放映された映像はバンド・エイドやライブ・エイドを含む世界的な救援活動を引き起こした。政府の強制移住政策は苦しみをさらに深めた。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": "Q2602690",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "People's Democratic Republic of Ethiopia proclaimed",
+    "ko": "에티오피아 인민민주공화국 선포",
+    "zh": "埃塞俄比亚人民民主共和国成立",
+    "ja": "エチオピア人民民主共和国の宣言"
+   },
+   "description": {
+    "en": "In February 1987 a referendum approved a new constitution modelled on Soviet-style socialist states, and in September 1987 the People's Democratic Republic of Ethiopia was proclaimed, with Mengistu Haile Mariam as president. Power was formally transferred from the military Derg to the Workers' Party of Ethiopia. In practice Mengistu's rule continued unchanged amid intensifying civil wars.",
+    "ko": "1987년 2월 국민투표로 소련식 사회주의 국가를 본뜬 새 헌법이 승인되었고, 1987년 9월 멩기스투 하일레 마리암을 대통령으로 하는 에티오피아 인민민주공화국이 선포되었다. 권력은 형식상 군사 기구인 데르그에서 에티오피아 노동자당으로 넘어갔다. 실제로는 내전이 격화되는 가운데 멩기스투의 통치가 그대로 이어졌다.",
+    "zh": "1987年2月，全民公决通过了一部仿照苏联式社会主义国家的新宪法，1987年9月宣布成立埃塞俄比亚人民民主共和国，门格斯图·海尔·马里亚姆任总统。权力在形式上由军事机构德尔格移交给埃塞俄比亚工人党。实际上，在内战日益激烈的情况下，门格斯图的统治依旧不变。",
+    "ja": "1987年2月の国民投票でソ連型の社会主義国家にならった新憲法が承認され、同年9月にメンギスツ・ハイレ・マリアムを大統領とするエチオピア人民民主共和国が宣言された。権力は形式上、軍事機関デルグからエチオピア労働者党に移された。実際には内戦が激化する中でメンギスツの支配がそのまま続いた。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "EPRDF coalition formed",
+    "ko": "EPRDF 연합 결성",
+    "zh": "埃革阵联盟成立",
+    "ja": "EPRDF連合の結成"
+   },
+   "description": {
+    "en": "In 1989 the TPLF joined with the Ethiopian People's Democratic Movement to form the Ethiopian People's Revolutionary Democratic Front (EPRDF), later adding Oromo and southern parties. The same year a coup attempt by senior officers against Mengistu failed, and the TPLF drove government forces out of Tigray. The new coalition prepared to advance on Addis Ababa.",
+    "ko": "1989년 TPLF는 에티오피아 인민민주운동과 손잡고 에티오피아 인민혁명민주전선(EPRDF)을 결성했고, 이후 오로모와 남부 정당들이 합류했다. 같은 해 고위 장교들의 멩기스투 축출 쿠데타 시도가 실패했고, TPLF는 정부군을 티그라이에서 몰아냈다. 새 연합은 아디스아바바로 진격할 준비를 갖추었다.",
+    "zh": "1989年，提人阵与埃塞俄比亚人民民主运动联合组成埃塞俄比亚人民革命民主阵线（埃革阵），后来奥罗莫和南方政党也加入其中。同年，高级军官推翻门格斯图的政变未遂，提人阵将政府军逐出提格雷。新联盟开始准备向亚的斯亚贝巴进军。",
+    "ja": "1989年、TPLFはエチオピア人民民主運動と組んでエチオピア人民革命民主戦線（EPRDF）を結成し、のちにオロモや南部の政党も加わった。同じ年、高級将校によるメンギスツ打倒のクーデター未遂が失敗し、TPLFは政府軍をティグライから追い出した。新たな連合はアディスアベバへの進撃に備えた。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "The Derg falls; a federal republic is born",
+    "ko": "데르그 정권 붕괴와 연방공화국 수립",
+    "zh": "德尔格政权垮台,联邦共和国建立",
+    "ja": "デルグ政権の崩壊と連邦共和国の成立"
+   },
+   "description": {
+    "en": "In May 1991 EPRDF forces took Addis Ababa, toppling Mengistu's regime. Eritrea separated in 1993, and Ethiopia adopted a constitution of ethnic federalism in 1995, becoming the Federal Democratic Republic.",
+    "ko": "1991년 5월 에티오피아 인민혁명민주전선(EPRDF)이 아디스아바바를 장악해 멩기스투 정권을 무너뜨렸다. 1993년 에리트레아가 분리 독립했고, 1995년 민족 연방주의 헌법에 따라 연방민주공화국이 출범했다.",
+    "zh": "1991年5月,埃塞俄比亚人民革命民主阵线攻入亚的斯亚贝巴,推翻门格斯图政权。1993年厄立特里亚分离独立;1995年,埃塞俄比亚依据民族联邦制宪法成立联邦民主共和国。",
+    "ja": "1991年5月、エチオピア人民革命民主戦線(EPRDF)がアディスアベバを制圧し、メンギスツ政権を打倒した。1993年にはエリトリアが分離独立し、1995年、民族連邦制の憲法の下で連邦民主共和国が発足した。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q1351498",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Operation Solomon airlifts Beta Israel",
+    "ko": "솔로몬 작전, 베타 이스라엘 공수",
+    "zh": "“所罗门行动”空运贝塔以色列人",
+    "ja": "ソロモン作戦でベタ・イスラエルを空輸"
+   },
+   "description": {
+    "en": "On 24–25 May 1991, as rebel forces closed in on Addis Ababa, Israel airlifted more than 14,000 Ethiopian Jews (Beta Israel) to Israel in about a day and a half. The operation followed the earlier Operation Moses of 1984–1985 through Sudan. It brought most of the remaining Beta Israel community of the Gondar region to Israel.",
+    "ko": "1991년 5월 24~25일 반군이 아디스아바바로 다가오는 가운데 이스라엘은 약 하루 반 만에 1만 4천 명이 넘는 에티오피아 유대인(베타 이스라엘)을 이스라엘로 공수했다. 이 작전은 수단을 거친 1984~1985년의 모세 작전에 뒤이은 것이었다. 이로써 곤다르 지역에 남아 있던 베타 이스라엘 공동체 대부분이 이스라엘로 옮겨 갔다.",
+    "zh": "1991年5月24日至25日，在反政府武装逼近亚的斯亚贝巴之际，以色列在大约一天半的时间里将一万四千多名埃塞俄比亚犹太人（贝塔以色列人）空运到以色列。这次行动是继1984—1985年经苏丹进行的“摩西行动”之后的又一次行动。贡德尔地区剩余的贝塔以色列社群大部分由此迁往以色列。",
+    "ja": "1991年5月24〜25日、反政府勢力がアディスアベバに迫る中、イスラエルは約1日半で1万4000人を超えるエチオピアのユダヤ人（ベタ・イスラエル）をイスラエルへ空輸した。この作戦は、スーダン経由で行われた1984〜1985年のモーセ作戦に続くものであった。これにより、ゴンダール地方に残っていたベタ・イスラエル共同体の大部分がイスラエルへ移った。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Eritrea becomes independent",
+    "ko": "에리트레아의 독립",
+    "zh": "厄立特里亚独立",
+    "ja": "エリトリアの独立"
+   },
+   "description": {
+    "en": "After a UN-monitored referendum in April 1993, Eritrea became formally independent on 24 May 1993 with the consent of Ethiopia's transitional government. Ethiopia became a landlocked country, relying increasingly on the port of Djibouti. Ethiopia's acceptance of the separation was praised at the time but later debated, and relations soured into war in 1998.",
+    "ko": "1993년 4월 유엔이 감시한 국민투표를 거쳐 에리트레아는 에티오피아 과도정부의 동의 아래 1993년 5월 24일 공식 독립했다. 에티오피아는 내륙국이 되었고 점점 지부티 항에 의존하게 되었다. 분리를 수용한 에티오피아의 결정은 당시 높이 평가되었으나 이후 논쟁의 대상이 되었고, 양국 관계는 1998년 전쟁으로 악화되었다.",
+    "zh": "1993年4月，在联合国监督的公投之后，经埃塞俄比亚过渡政府同意，厄立特里亚于1993年5月24日正式独立。埃塞俄比亚成为内陆国，日益依赖吉布提港。埃塞俄比亚接受分离的决定在当时受到赞扬，但后来引发争论，两国关系也于1998年恶化为战争。",
+    "ja": "1993年4月の国連監視下の住民投票を経て、エリトリアはエチオピア暫定政府の同意のもと1993年5月24日に正式に独立した。エチオピアは内陸国となり、ジブチ港への依存を強めた。分離を受け入れたエチオピアの判断は当時称賛されたが、のちに議論の的となり、両国関係は1998年に戦争へと悪化した。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": "Q1135135",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Federal constitution takes effect",
+    "ko": "연방 헌법 발효",
+    "zh": "联邦宪法生效",
+    "ja": "連邦憲法の施行"
+   },
+   "description": {
+    "en": "The constitution adopted in December 1994 came into force on 21 August 1995, establishing the Federal Democratic Republic of Ethiopia with regional states largely defined by ethnicity and language. Its Article 39 grants every 'nation, nationality and people' the right to self-determination, including secession. Meles Zenawi became prime minister, and the EPRDF dominated subsequent elections.",
+    "ko": "1994년 12월 채택된 헌법이 1995년 8월 21일 발효되면서 주로 민족과 언어에 따라 구획된 지역 주들로 이루어진 에티오피아 연방민주공화국이 수립되었다. 헌법 제39조는 모든 '민족·민족체·인민'에게 분리 독립을 포함한 자결권을 보장한다. 멜레스 제나위가 총리가 되었고 EPRDF는 이후 선거들을 장악했다.",
+    "zh": "1994年12月通过的宪法于1995年8月21日生效，建立了以主要按民族和语言划分的地区州为基础的埃塞俄比亚联邦民主共和国。宪法第39条赋予每个“民族、部族和人民”包括分离权在内的自决权。梅莱斯·泽纳维出任总理，埃革阵主导了此后的历次选举。",
+    "ja": "1994年12月に採択された憲法が1995年8月21日に施行され、おもに民族と言語で区分された州からなるエチオピア連邦民主共和国が成立した。憲法第39条はすべての「民族・民族体・人民」に分離を含む自決権を認めている。メレス・ゼナウィが首相となり、EPRDFがその後の選挙を支配した。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": "Q832273",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "War with Eritrea",
+    "ko": "에리트레아와의 전쟁",
+    "zh": "与厄立特里亚的战争",
+    "ja": "エリトリアとの戦争"
+   },
+   "description": {
+    "en": "In May 1998 a clash over the border town of Badme escalated into a full-scale war between Ethiopia and Eritrea, fought largely with trench warfare and costing tens of thousands of lives. A major Ethiopian offensive in May 2000 pushed into Eritrea before the Algiers Agreement of December 2000 ended the war. Ethiopia's refusal to implement the 2002 boundary ruling left a tense standoff until 2018.",
+    "ko": "1998년 5월 국경 도시 바드메를 둘러싼 충돌이 에티오피아와 에리트레아 사이의 전면전으로 번졌고, 주로 참호전으로 치러진 이 전쟁에서 수만 명이 목숨을 잃었다. 2000년 5월 에티오피아의 대공세가 에리트레아 영내로 진격한 뒤, 2000년 12월 알제 협정으로 전쟁이 끝났다. 에티오피아가 2002년 국경 판정의 이행을 거부하면서 2018년까지 긴장된 대치가 이어졌다.",
+    "zh": "1998年5月，围绕边境城镇巴德梅的冲突升级为埃塞俄比亚与厄立特里亚之间的全面战争，战事多以堑壕战形式进行，造成数万人死亡。2000年5月埃塞俄比亚发动大规模攻势攻入厄立特里亚境内，随后2000年12月的《阿尔及尔协定》结束了战争。由于埃塞俄比亚拒绝执行2002年的边界裁决，紧张对峙一直持续到2018年。",
+    "ja": "1998年5月、国境の町バドメをめぐる衝突がエチオピアとエリトリアの全面戦争に発展し、おもに塹壕戦で戦われたこの戦争で数万人が命を落とした。2000年5月のエチオピア軍の大攻勢がエリトリア領内に進撃した後、2000年12月のアルジェ合意で戦争は終わった。エチオピアが2002年の国境裁定の履行を拒んだため、緊張した対峙が2018年まで続いた。"
+   }
+  },
+  {
+   "year": 2003,
+   "qid": "Q109236567",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Killings of Anuak in Gambela",
+    "ko": "감벨라의 아누아크인 살해",
+    "zh": "甘贝拉阿努亚克人遭杀害事件",
+    "ja": "ガンベラのアヌアク人殺害"
+   },
+   "description": {
+    "en": "In December 2003, after an ambush on government officials, Ethiopian soldiers and armed civilians attacked members of the Anuak community in the town of Gambela, killing many people. Human rights organizations documented further abuses against the Anuak in the following months. The events highlighted ethnic tensions over land and power in the western lowlands.",
+    "ko": "2003년 12월 정부 관리들이 매복 공격을 받은 뒤, 에티오피아 군인들과 무장한 민간인들이 감벨라 시에서 아누아크 공동체 구성원들을 공격해 많은 사람이 숨졌다. 인권 단체들은 이후 몇 달 동안 아누아크인에 대한 추가적인 인권 침해를 기록했다. 이 사건은 서부 저지대에서 토지와 권력을 둘러싼 민족 간 긴장을 드러냈다.",
+    "zh": "2003年12月，在政府官员遭伏击之后，埃塞俄比亚士兵和武装平民在甘贝拉镇袭击阿努亚克社群成员，造成多人死亡。人权组织记录了此后数月里针对阿努亚克人的更多侵害行为。这些事件凸显了西部低地围绕土地和权力的民族紧张关系。",
+    "ja": "2003年12月、政府関係者が待ち伏せ攻撃を受けた後、エチオピア兵と武装した民間人がガンベラの町でアヌアク人共同体の人々を襲撃し、多くの人が殺害された。人権団体はその後数か月にわたるアヌアク人へのさらなる人権侵害を記録した。これらの事件は、西部低地における土地と権力をめぐる民族間の緊張を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": "Q4604220",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Disputed election and post-election killings",
+    "ko": "논란의 선거와 선거 후 유혈 사태",
+    "zh": "争议选举与选后流血事件",
+    "ja": "争われた選挙と選挙後の殺害"
+   },
+   "description": {
+    "en": "Ethiopia's May 2005 elections saw unprecedented opposition gains, especially in Addis Ababa, but the opposition disputed the official results. Security forces killed protesters in June and November 2005, and an official inquiry later reported that nearly 200 civilians had died. Opposition leaders and journalists were arrested, and the political space narrowed sharply in the following years.",
+    "ko": "2005년 5월 에티오피아 총선에서 야당은 특히 아디스아바바에서 전례 없는 약진을 보였으나 공식 결과에 이의를 제기했다. 보안군은 2005년 6월과 11월 시위대를 살해했고, 이후 정부 조사위원회는 민간인 약 200명이 숨졌다고 보고했다. 야당 지도자와 언론인들이 체포되었고 이후 몇 년 동안 정치적 공간은 급격히 좁아졌다.",
+    "zh": "在2005年5月的埃塞俄比亚选举中，反对派取得了前所未有的进展，尤其是在亚的斯亚贝巴，但反对派对官方结果提出异议。安全部队在2005年6月和11月杀害了抗议者，官方调查后来报告称近200名平民死亡。反对派领导人和记者遭到逮捕，此后数年政治空间急剧收窄。",
+    "ja": "2005年5月のエチオピア総選挙では、とくにアディスアベバで野党がかつてない躍進を見せたが、野党は公式結果に異議を唱えた。治安部隊は2005年6月と11月に抗議者を殺害し、のちの政府の調査委員会は民間人約200人が死亡したと報告した。野党指導者やジャーナリストが逮捕され、その後数年で政治的空間は急速に狭まった。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Intervention in Somalia",
+    "ko": "소말리아 개입",
+    "zh": "出兵索马里",
+    "ja": "ソマリアへの介入"
+   },
+   "description": {
+    "en": "In December 2006 Ethiopian forces intervened in Somalia in support of the Transitional Federal Government and ousted the Islamic Courts Union from Mogadishu. The occupation provoked a prolonged insurgency in which the militant group al-Shabaab rose to prominence. Ethiopian troops withdrew in early 2009, though Ethiopia later returned to Somalia, including as part of African Union missions.",
+    "ko": "2006년 12월 에티오피아군은 과도연방정부를 지원하기 위해 소말리아에 개입해 이슬람 법정 연합을 모가디슈에서 몰아냈다. 이 점령은 장기적인 반란을 불러일으켰고, 그 과정에서 무장 단체 알샤바브가 세력을 키웠다. 에티오피아군은 2009년 초 철수했으나 이후 아프리카 연합 임무의 일원으로 다시 소말리아에 들어갔다.",
+    "zh": "2006年12月，埃塞俄比亚军队为支持过渡联邦政府出兵索马里，将伊斯兰法院联盟逐出摩加迪沙。这次占领引发了旷日持久的叛乱，激进组织青年党在其中坐大。埃塞俄比亚军队于2009年初撤出，但后来又重返索马里，包括作为非洲联盟特派团的一部分。",
+    "ja": "2006年12月、エチオピア軍は暫定連邦政府を支援してソマリアに介入し、イスラム法廷連合をモガディシュから追い出した。この占領は長期の反乱を招き、その中で武装組織アッシャバーブが台頭した。エチオピア軍は2009年初めに撤退したが、のちにアフリカ連合のミッションの一員などとして再びソマリアに入った。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": "Q3290442",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Crackdown in the Ogaden",
+    "ko": "오가덴 탄압",
+    "zh": "欧加登镇压行动",
+    "ja": "オガデンでの弾圧"
+   },
+   "description": {
+    "en": "In April 2007 the Ogaden National Liberation Front attacked a Chinese-run oil exploration site at Abole in the Somali Region, killing Ethiopian and Chinese workers. The government responded with a harsh counter-insurgency campaign and restrictions on trade and aid, and human rights groups reported widespread abuses against civilians. The ONLF later signed a peace agreement with the government in 2018.",
+    "ko": "2007년 4월 오가덴 민족해방전선(ONLF)은 소말리 주 아볼레에 있는 중국계 석유 탐사 현장을 공격해 에티오피아인과 중국인 노동자들을 살해했다. 정부는 가혹한 대반란 작전과 교역·원조 제한으로 대응했고, 인권 단체들은 민간인에 대한 광범위한 인권 침해를 보고했다. ONLF는 이후 2018년 정부와 평화 협정을 맺었다.",
+    "zh": "2007年4月，欧加登民族解放阵线袭击了索马里州阿博勒一处由中国公司经营的石油勘探点，杀害了埃塞俄比亚和中国工人。政府以严厉的反叛乱行动以及对贸易和援助的限制作为回应，人权组织报告了针对平民的大范围侵害。欧加登民族解放阵线后来于2018年与政府签署和平协议。",
+    "ja": "2007年4月、オガデン民族解放戦線（ONLF）はソマリ州アボレの中国系企業が運営する石油探査現場を襲撃し、エチオピア人と中国人の労働者を殺害した。政府は苛烈な対反乱作戦と交易・援助の制限で応じ、人権団体は民間人への広範な人権侵害を報告した。ONLFはその後2018年に政府と和平協定を結んだ。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Construction of the Grand Ethiopian Renaissance Dam begins",
+    "ko": "그랜드 에티오피아 르네상스 댐 착공",
+    "zh": "埃塞俄比亚复兴大坝开工",
+    "ja": "グランド・エチオピア・ルネサンス・ダムの着工"
+   },
+   "description": {
+    "en": "In April 2011 Ethiopia launched construction of the Grand Ethiopian Renaissance Dam on the Blue Nile near the Sudanese border, financed largely by domestic funds and bonds. Designed to be Africa's largest hydroelectric project, it caused long diplomatic disputes with Egypt and Sudan over Nile water. The reservoir began filling in 2020, and the dam was officially inaugurated in September 2025.",
+    "ko": "2011년 4월 에티오피아는 수단 국경 근처 청나일강에 그랜드 에티오피아 르네상스 댐 건설을 시작했으며, 자금은 주로 국내 재원과 채권으로 조달했다. 아프리카 최대의 수력 발전 사업으로 설계된 이 댐은 나일강 물을 둘러싸고 이집트·수단과 오랜 외교 분쟁을 일으켰다. 저수지는 2020년 담수를 시작했고, 댐은 2025년 9월 공식 준공되었다.",
+    "zh": "2011年4月，埃塞俄比亚在靠近苏丹边境的青尼罗河上开工建设埃塞俄比亚复兴大坝，资金主要来自国内资金和债券。作为非洲最大的水电项目，它因尼罗河水资源问题引发了与埃及和苏丹的长期外交争端。水库于2020年开始蓄水，大坝于2025年9月正式落成。",
+    "ja": "2011年4月、エチオピアはスーダン国境近くの青ナイル川でグランド・エチオピア・ルネサンス・ダムの建設を開始し、資金はおもに国内資金と債券で賄われた。アフリカ最大の水力発電事業として設計されたこのダムは、ナイル川の水をめぐってエジプトやスーダンとの長い外交紛争を引き起こした。貯水は2020年に始まり、ダムは2025年9月に正式に竣工した。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Death of Meles Zenawi",
+    "ko": "멜레스 제나위 사망",
+    "zh": "梅莱斯·泽纳维去世",
+    "ja": "メレス・ゼナウィの死去"
+   },
+   "description": {
+    "en": "Prime Minister Meles Zenawi, who had led Ethiopia since 1991, died in August 2012. His 'developmental state' model had produced rapid economic growth and expanded infrastructure but kept tight political control. He was succeeded by his deputy Hailemariam Desalegn, the first leader from the southern region, while the TPLF retained strong influence.",
+    "ko": "1991년부터 에티오피아를 이끌어 온 멜레스 제나위 총리가 2012년 8월 사망했다. 그의 '개발 국가' 모델은 빠른 경제 성장과 기반 시설 확충을 이루었으나 엄격한 정치 통제를 유지했다. 그의 뒤는 남부 지역 출신으로는 처음인 부총리 하일레마리암 데살렌이 이었으나, TPLF는 여전히 강한 영향력을 유지했다.",
+    "zh": "自1991年起领导埃塞俄比亚的总理梅莱斯·泽纳维于2012年8月去世。他的“发展型国家”模式带来了经济的快速增长和基础设施的扩展，但也保持着严密的政治控制。其副手、首位来自南方地区的领导人海尔马里亚姆·德萨莱尼接任，而提人阵仍保持着强大影响力。",
+    "ja": "1991年からエチオピアを率いてきたメレス・ゼナウィ首相が2012年8月に死去した。彼の「開発国家」モデルは急速な経済成長とインフラの拡充をもたらしたが、厳しい政治統制を維持した。後任には南部地域出身として初の指導者である副首相ハイレマリアム・デサレンが就いたが、TPLFは依然として強い影響力を保った。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Addis Ababa Light Rail opens",
+    "ko": "아디스아바바 경전철 개통",
+    "zh": "亚的斯亚贝巴轻轨开通",
+    "ja": "アディスアベバ・ライトレール開業"
+   },
+   "description": {
+    "en": "In September 2015 the Addis Ababa Light Rail opened, the first modern light-rail transit system in sub-Saharan Africa, built by a Chinese company with Chinese financing. It was part of a wave of infrastructure projects that included new roads, industrial parks and the electrified railway to Djibouti opened in 2016. These projects symbolized the government's ambition to transform Ethiopia into a middle-income country.",
+    "ko": "2015년 9월 사하라 이남 아프리카 최초의 현대식 경전철인 아디스아바바 경전철이 개통했으며, 중국 기업이 중국 자금으로 건설했다. 이는 새 도로와 산업 단지, 2016년 개통한 지부티행 전철화 철도 등을 포함한 기반 시설 사업 물결의 일부였다. 이러한 사업은 에티오피아를 중소득국으로 바꾸려는 정부의 야심을 상징했다.",
+    "zh": "2015年9月，亚的斯亚贝巴轻轨开通，这是撒哈拉以南非洲第一个现代轻轨交通系统，由中国企业以中国融资建设。它是一系列基础设施项目的一部分，其中包括新的道路、工业园区以及2016年开通的通往吉布提的电气化铁路。这些项目象征着政府将埃塞俄比亚建设成中等收入国家的雄心。",
+    "ja": "2015年9月、サハラ以南アフリカ初の近代的なライトレール交通システムであるアディスアベバ・ライトレールが開業した。中国企業が中国の融資で建設したものである。これは新しい道路、工業団地、2016年開業のジブチへの電化鉄道などを含むインフラ事業の波の一部であった。これらの事業は、エチオピアを中所得国に変えようとする政府の野心を象徴していた。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q26237347",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Oromo and Amhara protests and state of emergency",
+    "ko": "오로모·암하라 시위와 비상사태",
+    "zh": "奥罗莫和阿姆哈拉抗议与紧急状态",
+    "ja": "オロモ・アムハラの抗議と非常事態"
+   },
+   "description": {
+    "en": "Protests that began in Oromia in late 2015 against a plan to expand Addis Ababa's boundaries grew in 2016 into broad demonstrations against political marginalization, spreading to the Amhara region. Security forces killed many protesters, and a deadly stampede at the Irreecha festival in October 2016 led to more unrest and a state of emergency. The crisis led to Hailemariam Desalegn's resignation in February 2018.",
+    "ko": "2015년 말 아디스아바바의 경계를 확장하려는 계획에 반대해 오로미아에서 시작된 시위는 2016년 정치적 소외에 항의하는 광범위한 시위로 커졌고 암하라 지역으로 번졌다. 보안군은 많은 시위대를 살해했고, 2016년 10월 이레차 축제에서 일어난 압사 참사는 더 큰 소요와 비상사태 선포로 이어졌다. 이 위기는 2018년 2월 하일레마리암 데살렌의 사임을 불렀다.",
+    "zh": "2015年底，奥罗米亚因反对扩大亚的斯亚贝巴辖区的计划而爆发抗议，2016年发展为反对政治边缘化的大规模示威，并蔓延到阿姆哈拉地区。安全部队杀害了许多抗议者，2016年10月伊雷查节上发生的致命踩踏事件引发了更多动荡并导致实施紧急状态。这场危机最终导致海尔马里亚姆·德萨莱尼于2018年2月辞职。",
+    "ja": "2015年末、アディスアベバの市域拡大計画に反対してオロミアで始まった抗議は、2016年には政治的疎外に抗議する広範なデモへと拡大し、アムハラ地方にも広がった。治安部隊は多くの抗議者を殺害し、2016年10月のイレッチャ祭での死者を出した群衆事故はさらなる騒乱と非常事態宣言につながった。この危機は2018年2月のハイレマリアム・デサレンの辞任を招いた。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Abiy Ahmed's reforms and peace with Eritrea",
+    "ko": "아비 총리의 개혁과 에리트레아 평화",
+    "zh": "阿比·艾哈迈德的改革与厄立特里亚和解",
+    "ja": "アビィ首相の改革とエリトリアとの和平"
+   },
+   "description": {
+    "en": "Becoming prime minister in 2018, Abiy Ahmed freed political prisoners and made peace with Eritrea, earning the 2019 Nobel Peace Prize. From 2020, however, the Tigray conflict brought renewed war until a 2022 accord.",
+    "ko": "2018년 총리가 된 아비 아머드는 정치범을 석방하고 에리트레아와 평화를 이뤄 2019년 노벨평화상을 받았다. 그러나 2020년부터 티그라이 분쟁이 발발했고, 2022년 평화 합의로 전투가 종식되었다.",
+    "zh": "2018年出任总理的阿比·艾哈迈德释放政治犯,并与厄立特里亚实现和解,获2019年诺贝尔和平奖。然而2020年起提格雷冲突爆发,战事直至2022年和平协议方告平息。",
+    "ja": "2018年に首相となったアビィ・アハメドは政治犯を釈放し、エリトリアとの和平を実現して2019年のノーベル平和賞を受賞した。しかし2020年からはティグレ紛争が勃発し、2022年の和平合意まで戦闘が続いた。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q57771852",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sahle-Work Zewde becomes the first woman president",
+    "ko": "사흘레워크 제우데, 첫 여성 대통령 취임",
+    "zh": "萨赫勒-沃克·祖德成为首位女总统",
+    "ja": "サーレワーク・ゼウデが初の女性大統領に"
+   },
+   "description": {
+    "en": "In October 2018 parliament elected the diplomat Sahle-Work Zewde as president of Ethiopia, the first woman to hold the largely ceremonial post. Prime Minister Abiy Ahmed also appointed a cabinet in which half of the ministers were women. These appointments were part of the wave of reforms that marked his first year in office.",
+    "ko": "2018년 10월 의회는 외교관 사흘레워크 제우데를 에티오피아 대통령으로 선출했는데, 그녀는 주로 의전적인 이 직위에 오른 첫 여성이다. 아비 아머드 총리는 장관의 절반을 여성으로 채운 내각도 구성했다. 이러한 인선은 그의 집권 첫해를 특징지은 개혁 물결의 일부였다.",
+    "zh": "2018年10月，议会选举外交官萨赫勒-沃克·祖德为埃塞俄比亚总统，她是首位担任这一以礼仪性为主的职位的女性。阿比·艾哈迈德总理还组建了半数部长为女性的内阁。这些任命是其执政第一年改革浪潮的一部分。",
+    "ja": "2018年10月、議会は外交官サーレワーク・ゼウデをエチオピア大統領に選出した。おもに儀礼的なこの職に就いた初の女性である。アビィ・アハメド首相は閣僚の半数を女性とする内閣も組織した。これらの人事は、彼の就任1年目を特徴づけた改革の波の一環であった。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q62018034",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Ethiopian Airlines Flight 302 crash",
+    "ko": "에티오피아 항공 302편 추락",
+    "zh": "埃塞俄比亚航空302航班空难",
+    "ja": "エチオピア航空302便墜落事故"
+   },
+   "description": {
+    "en": "On 10 March 2019 Ethiopian Airlines Flight 302, a Boeing 737 MAX 8 bound for Nairobi, crashed shortly after take-off from Addis Ababa, killing all 157 people on board. It was the second fatal 737 MAX crash in five months, after Lion Air Flight 610 in Indonesia. The disaster led to the worldwide grounding of the 737 MAX and investigations into its flight-control system.",
+    "ko": "2019년 3월 10일 나이로비행 보잉 737 MAX 8 기종인 에티오피아 항공 302편이 아디스아바바에서 이륙 직후 추락해 탑승자 157명 전원이 사망했다. 이는 인도네시아 라이언 에어 610편에 이어 5개월 만에 발생한 두 번째 737 MAX 사망 사고였다. 이 참사로 전 세계에서 737 MAX의 운항이 중단되고 비행 제어 시스템에 대한 조사가 이루어졌다.",
+    "zh": "2019年3月10日，飞往内罗毕的埃塞俄比亚航空302航班（波音737 MAX 8型）从亚的斯亚贝巴起飞后不久坠毁，机上157人全部遇难。这是继印度尼西亚狮航610航班之后五个月内第二起737 MAX致命空难。这场灾难导致737 MAX在全球停飞，并引发对其飞行控制系统的调查。",
+    "ja": "2019年3月10日、ナイロビ行きのボーイング737 MAX 8型機エチオピア航空302便がアディスアベバを離陸直後に墜落し、乗っていた157人全員が死亡した。インドネシアのライオン・エア610便に続き、5か月で2件目の737 MAXの死亡事故であった。この惨事により737 MAXは世界中で運航停止となり、その飛行制御システムの調査が行われた。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q74139476",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sidama referendum creates a new region",
+    "ko": "시다마 주민투표와 새 주 창설",
+    "zh": "锡达马公投设立新州",
+    "ja": "シダマ住民投票と新州の創設"
+   },
+   "description": {
+    "en": "In November 2019 voters in the Sidama Zone overwhelmingly approved the creation of a separate regional state, the first new region formed under the 1995 constitution's provisions. The Sidama Region was formally established in 2020, splitting from the Southern Nations, Nationalities and Peoples' Region. Further referendums in 2021 and 2023 created the South West, South and Central Ethiopia regions.",
+    "ko": "2019년 11월 시다마 지역 유권자들은 압도적 찬성으로 별도의 주 창설을 승인했는데, 이는 1995년 헌법 조항에 따라 만들어진 첫 새 주였다. 시다마 주는 2020년 남부 민족·민족체·인민 주에서 분리되어 공식 출범했다. 2021년과 2023년의 추가 주민투표로 남서 에티오피아, 남부 에티오피아, 중부 에티오피아 주가 만들어졌다.",
+    "zh": "2019年11月，锡达马地区的选民以压倒性多数赞成设立一个独立的地区州，这是根据1995年宪法条款设立的第一个新州。锡达马州于2020年从南方各族州分离并正式成立。2021年和2023年的进一步公投又设立了西南埃塞俄比亚州、南埃塞俄比亚州和中埃塞俄比亚州。",
+    "ja": "2019年11月、シダマ県の有権者は圧倒的多数で独立した州の創設を承認した。これは1995年憲法の規定に基づいて作られた最初の新しい州であった。シダマ州は2020年に南部諸民族州から分離して正式に発足した。2021年と2023年のさらなる住民投票により、南西エチオピア州、南エチオピア州、中央エチオピア州が設けられた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q97176252",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Killing of Hachalu Hundessa and unrest",
+    "ko": "하찰루 훈데사 피살과 소요",
+    "zh": "哈查卢·洪德萨遇害与骚乱",
+    "ja": "ハチャル・フンデサ殺害と騒乱"
+   },
+   "description": {
+    "en": "On 29 June 2020 the popular Oromo singer and activist Hachalu Hundessa was shot dead in Addis Ababa. His killing set off violent unrest across Oromia and the capital in which many people were killed and property destroyed, and the government arrested opposition figures including Jawar Mohammed. The events reflected deepening ethnic and political tensions under Abiy Ahmed.",
+    "ko": "2020년 6월 29일 인기 있는 오로모 가수이자 활동가인 하찰루 훈데사가 아디스아바바에서 총격으로 사망했다. 그의 피살은 오로미아와 수도 전역에서 많은 사람이 죽고 재산이 파괴된 폭력 사태를 촉발했으며, 정부는 자와르 모하메드 등 야권 인사들을 체포했다. 이 사건은 아비 아머드 정부 아래 깊어지던 민족적·정치적 긴장을 반영했다.",
+    "zh": "2020年6月29日，深受欢迎的奥罗莫歌手和活动人士哈查卢·洪德萨在亚的斯亚贝巴遭枪杀。他的遇害在奥罗米亚和首都各地引发暴力骚乱，造成许多人死亡和财产损毁，政府逮捕了贾瓦尔·穆罕默德等反对派人士。这些事件反映了阿比·艾哈迈德执政下日益加深的民族和政治紧张局势。",
+    "ja": "2020年6月29日、人気のあるオロモの歌手で活動家のハチャル・フンデサがアディスアベバで射殺された。彼の殺害はオロミアと首都の各地で暴力的な騒乱を引き起こし、多くの人が死亡し財産が破壊された。政府はジャワル・モハメッドら野党関係者を逮捕した。これらの出来事は、アビィ・アハメド政権下で深まる民族的・政治的緊張を反映していた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Outbreak of the Tigray War",
+    "ko": "티그라이 전쟁 발발",
+    "zh": "提格雷战争爆发",
+    "ja": "ティグライ戦争の勃発"
+   },
+   "description": {
+    "en": "After months of tension, including Tigray's holding of regional elections against federal wishes, fighting broke out in November 2020 when Tigrayan forces attacked federal army bases and the government launched an offensive. Federal forces, supported by Eritrean troops and Amhara regional forces, captured Mekelle later that month. The war was marked by grave atrocities against civilians by multiple parties, including massacres at Mai Kadra and Axum, and by severe famine conditions.",
+    "ko": "연방 정부의 뜻에 반한 티그라이의 지역 선거 강행 등 수개월에 걸친 긴장 끝에, 2020년 11월 티그라이 세력이 연방군 기지를 공격하고 정부가 공세를 개시하면서 전쟁이 일어났다. 에리트레아군과 암하라 지역군의 지원을 받은 연방군은 그달 말 메켈레를 점령했다. 이 전쟁은 마이카드라와 악숨에서의 학살 등 여러 당사자에 의한 민간인 대상 중대 잔학 행위와 극심한 기근 상황으로 얼룩졌다.",
+    "zh": "经过数月的紧张局势（包括提格雷不顾联邦意愿举行地区选举），2020年11月提格雷武装袭击联邦军队基地，政府随即发动攻势，战争爆发。在厄立特里亚军队和阿姆哈拉地方部队的支持下，联邦军队于当月下旬攻占默克莱。这场战争中多方对平民犯下严重暴行，包括在迈卡德拉和阿克苏姆发生的屠杀，并出现了严重的饥荒状况。",
+    "ja": "連邦政府の意向に反するティグライの州選挙実施など数か月にわたる緊張の末、2020年11月、ティグライ勢力が連邦軍の基地を攻撃し、政府が攻勢を開始して戦争が始まった。エリトリア軍とアムハラ州の部隊の支援を受けた連邦軍は、同月下旬にメケレを制圧した。この戦争は、マイカドラやアクスムでの虐殺を含む複数の当事者による民間人への重大な残虐行為と、深刻な飢饉状態に彩られた。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": "Q65057098",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "General election amid war",
+    "ko": "전쟁 중 치러진 총선",
+    "zh": "战争中的大选",
+    "ja": "戦時下の総選挙"
+   },
+   "description": {
+    "en": "In June 2021 Ethiopia held a general election, delayed from 2020 because of the COVID-19 pandemic, in which Abiy Ahmed's Prosperity Party, formed in 2019 from the former EPRDF parties without the TPLF, won a large majority. Voting did not take place in Tigray and was postponed or disrupted in several other areas. Abiy was sworn in for a new five-year term in October 2021.",
+    "ko": "2021년 6월 에티오피아는 코로나19 대유행으로 2020년에서 연기된 총선을 치렀고, 2019년 TPLF를 제외한 옛 EPRDF 정당들로 결성된 아비 아머드의 번영당이 압도적 다수를 차지했다. 티그라이에서는 투표가 실시되지 않았고 다른 여러 지역에서도 연기되거나 차질을 빚었다. 아비는 2021년 10월 5년 임기의 새 정부 수반으로 취임했다.",
+    "zh": "2021年6月，埃塞俄比亚举行了因新冠疫情从2020年推迟的大选，阿比·艾哈迈德领导的繁荣党（2019年由除提人阵外的原埃革阵各党组建）赢得压倒性多数。提格雷没有举行投票，其他若干地区的投票也被推迟或受到干扰。阿比于2021年10月宣誓就任新一届五年任期。",
+    "ja": "2021年6月、エチオピアは新型コロナウイルスの流行で2020年から延期されていた総選挙を実施し、2019年にTPLFを除く旧EPRDF諸党から結成されたアビィ・アハメドの繁栄党が圧倒的多数を獲得した。ティグライでは投票が行われず、他のいくつかの地域でも延期されたり混乱したりした。アビィは2021年10月に新たな5年の任期で就任した。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Tigrayan forces retake Mekelle; war spreads",
+    "ko": "티그라이군의 메켈레 탈환과 전쟁 확산",
+    "zh": "提格雷武装夺回默克莱，战火蔓延",
+    "ja": "ティグライ勢力のメケレ奪還と戦争拡大"
+   },
+   "description": {
+    "en": "In June 2021 Tigrayan forces recaptured Mekelle and then advanced into the Amhara and Afar regions, coming within a few hundred kilometres of Addis Ababa by November. The government declared a nationwide state of emergency, and a federal counter-offensive in December pushed the Tigrayan forces back. Tigray remained under a severe blockade that cut off food, fuel, banking and communications.",
+    "ko": "2021년 6월 티그라이군은 메켈레를 탈환한 뒤 암하라와 아파르 지역으로 진격해 11월에는 아디스아바바에서 수백 킬로미터 거리까지 다가왔다. 정부는 전국 비상사태를 선포했고, 12월 연방군의 반격으로 티그라이군은 밀려났다. 티그라이는 식량·연료·금융·통신이 끊긴 극심한 봉쇄 아래 놓였다.",
+    "zh": "2021年6月，提格雷武装夺回默克莱，随后向阿姆哈拉州和阿法尔州推进，到11月已逼近距亚的斯亚贝巴数百公里处。政府宣布全国进入紧急状态，12月联邦军队发动反攻，将提格雷武装击退。提格雷仍处于严厉封锁之下，粮食、燃料、银行服务和通信均被切断。",
+    "ja": "2021年6月、ティグライ勢力はメケレを奪還し、続いてアムハラ州とアファール州へ進撃して、11月にはアディスアベバから数百キロの地点まで迫った。政府は全国に非常事態を宣言し、12月の連邦軍の反攻でティグライ勢力は押し戻された。ティグライは食料、燃料、金融、通信が断たれる厳しい封鎖下に置かれた。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q115124248",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Pretoria peace agreement",
+    "ko": "프리토리아 평화 협정",
+    "zh": "《比勒陀利亚和平协议》",
+    "ja": "プレトリア和平合意"
+   },
+   "description": {
+    "en": "On 2 November 2022, after talks mediated by the African Union in Pretoria, the Ethiopian government and the TPLF signed an agreement for a permanent cessation of hostilities. It provided for disarmament of Tigrayan forces, restoration of federal authority and services in Tigray, and humanitarian access. The war had caused a very large number of deaths, though estimates vary widely.",
+    "ko": "2022년 11월 2일 프리토리아에서 아프리카 연합의 중재로 열린 회담 끝에 에티오피아 정부와 TPLF는 영구적 적대 행위 중단 협정에 서명했다. 협정은 티그라이 무장 세력의 무장 해제, 티그라이에서의 연방 권한과 공공 서비스 복원, 인도적 접근을 규정했다. 이 전쟁은 매우 많은 사망자를 냈으나 추정치는 크게 엇갈린다.",
+    "zh": "2022年11月2日，在非洲联盟于比勒陀利亚斡旋的谈判之后，埃塞俄比亚政府与提人阵签署了永久停止敌对行动的协议。协议规定提格雷武装解除武装、恢复联邦在提格雷的权力和公共服务，并保障人道主义准入。这场战争造成了非常多的死亡，但各方估计数字差别很大。",
+    "ja": "2022年11月2日、プレトリアでのアフリカ連合の仲介による協議の末、エチオピア政府とTPLFは恒久的な敵対行為停止の合意に署名した。合意はティグライ勢力の武装解除、ティグライにおける連邦の権限と公共サービスの回復、人道支援の受け入れを定めた。この戦争は非常に多くの死者を出したが、推計は大きく分かれている。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q116713486",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Southern region reorganized",
+    "ko": "남부 주의 재편",
+    "zh": "南方州重组",
+    "ja": "南部州の再編"
+   },
+   "description": {
+    "en": "In February 2023 a referendum in several zones of the former Southern Nations, Nationalities and Peoples' Region approved the creation of a new South Ethiopia Region, and a Central Ethiopia Region was formed later that year. The reorganization completed the break-up of the multi-ethnic southern region that had existed since 1995. Ethiopia now has a larger number of regional states than under the original federal map.",
+    "ko": "2023년 2월 옛 남부 민족·민족체·인민 주의 여러 지역에서 치러진 주민투표로 새 남부 에티오피아 주 창설이 승인되었고, 같은 해 말 중부 에티오피아 주가 만들어졌다. 이 재편으로 1995년부터 존재해 온 다민족 남부 주의 해체가 완료되었다. 에티오피아는 이제 원래의 연방 구도보다 더 많은 주를 갖게 되었다.",
+    "zh": "2023年2月，原南方各族州若干地区举行公投，批准设立新的南埃塞俄比亚州，同年晚些时候又设立了中埃塞俄比亚州。这次重组完成了自1995年以来存在的多民族南方州的解体。埃塞俄比亚现有的地区州数量多于最初的联邦版图。",
+    "ja": "2023年2月、旧南部諸民族州のいくつかの県で行われた住民投票により新たな南エチオピア州の創設が承認され、同年後半には中央エチオピア州が設けられた。この再編により、1995年以来存在した多民族の南部州の解体が完了した。エチオピアは現在、当初の連邦の区分よりも多くの州を持つ。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q121160319",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "War in Amhara",
+    "ko": "암하라 전쟁",
+    "zh": "阿姆哈拉战争",
+    "ja": "アムハラ戦争"
+   },
+   "description": {
+    "en": "In 2023, after the federal government moved to integrate regional special forces into the national army, fighting broke out between government forces and Fano, an Amhara nationalist militia that had fought alongside the federal army in Tigray. In August 2023 Fano briefly seized towns including parts of Gondar and Lalibela, and the government declared a state of emergency in the region. The conflict, along with the insurgency of the Oromo Liberation Army in Oromia, has continued since.",
+    "ko": "2023년 연방 정부가 지역 특수부대를 국군에 통합하려 하자, 티그라이 전쟁에서 연방군과 함께 싸웠던 암하라 민족주의 민병대 파노와 정부군 사이에 전투가 벌어졌다. 2023년 8월 파노는 곤다르와 랄리벨라 일부를 포함한 도시들을 잠시 장악했고, 정부는 이 지역에 비상사태를 선포했다. 이 분쟁은 오로미아의 오로모 해방군 반란과 함께 이후로도 이어지고 있다.",
+    "zh": "2023年，联邦政府着手将地区特种部队整编入国防军后，政府军与曾在提格雷与联邦军队并肩作战的阿姆哈拉民族主义民兵“法诺”之间爆发战斗。2023年8月，法诺一度占领包括贡德尔和拉利贝拉部分地区在内的城镇，政府宣布该地区进入紧急状态。这场冲突与奥罗米亚的奥罗莫解放军叛乱一样，此后一直持续。",
+    "ja": "2023年、連邦政府が州の特殊部隊を国軍に統合しようとすると、ティグライで連邦軍とともに戦ったアムハラ民族主義の民兵ファノと政府軍の間で戦闘が始まった。2023年8月、ファノはゴンダールやラリベラの一部を含む町を一時制圧し、政府は同州に非常事態を宣言した。この紛争は、オロミアでのオロモ解放軍の反乱とともに、その後も続いている。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q124213558",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Memorandum of understanding with Somaliland",
+    "ko": "소말릴란드와의 양해각서",
+    "zh": "与索马里兰签署谅解备忘录",
+    "ja": "ソマリランドとの覚書"
+   },
+   "description": {
+    "en": "On 1 January 2024 Ethiopia signed a memorandum of understanding with the self-declared republic of Somaliland that would give Ethiopia access to the Red Sea coast for a naval base and commercial port. Somalia condemned the deal as a violation of its sovereignty, causing a sharp diplomatic crisis. In December 2024 Ethiopia and Somalia agreed in the Turkish-mediated Ankara Declaration to work toward a commercial arrangement for sea access instead.",
+    "ko": "2024년 1월 1일 에티오피아는 스스로 독립을 선언한 소말릴란드 공화국과 해군 기지와 상업 항구를 위해 홍해 연안 접근권을 얻는 양해각서를 체결했다. 소말리아는 이를 주권 침해라고 규탄했고 심각한 외교 위기가 일어났다. 2024년 12월 에티오피아와 소말리아는 튀르키예가 중재한 앙카라 선언에서 대신 해양 접근을 위한 상업적 협정을 추진하기로 합의했다.",
+    "zh": "2024年1月1日，埃塞俄比亚与自行宣布独立的索马里兰共和国签署谅解备忘录，将使埃塞俄比亚获得红海沿岸用于建设海军基地和商业港口的通道。索马里谴责该协议侵犯其主权，引发严重外交危机。2024年12月，埃塞俄比亚与索马里在土耳其斡旋的《安卡拉宣言》中同意转而寻求关于出海通道的商业安排。",
+    "ja": "2024年1月1日、エチオピアは独立を宣言しているソマリランド共和国と、海軍基地と商業港のための紅海沿岸へのアクセスを得る覚書に署名した。ソマリアはこれを主権の侵害として非難し、深刻な外交危機が生じた。2024年12月、エチオピアとソマリアはトルコの仲介によるアンカラ宣言で、代わりに海へのアクセスに関する商業的取り決めを目指すことで合意した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ethiopia joins BRICS",
+    "ko": "에티오피아, 브릭스 가입",
+    "zh": "埃塞俄比亚加入金砖国家",
+    "ja": "エチオピア、BRICSに加盟"
+   },
+   "description": {
+    "en": "On 1 January 2024 Ethiopia formally became a member of the BRICS group of emerging economies, following an invitation extended at the group's 2023 summit in Johannesburg. Membership reflected Ethiopia's diplomatic weight as Africa's second most populous country and the seat of the African Union. Ethiopia joined alongside Egypt and several other new members.",
+    "ko": "2024년 1월 1일 에티오피아는 2023년 요하네스버그 정상회의에서 받은 초청에 따라 신흥 경제국 협의체 브릭스(BRICS)의 정식 회원국이 되었다. 이는 아프리카에서 두 번째로 인구가 많고 아프리카 연합 본부가 있는 에티오피아의 외교적 위상을 반영한 것이었다. 에티오피아는 이집트 등 다른 신규 회원국들과 함께 가입했다.",
+    "zh": "2024年1月1日，埃塞俄比亚根据2023年约翰内斯堡峰会发出的邀请，正式成为新兴经济体集团金砖国家的成员。这反映了埃塞俄比亚作为非洲人口第二多的国家和非洲联盟总部所在地的外交分量。埃塞俄比亚与埃及等其他新成员一同加入。",
+    "ja": "2024年1月1日、エチオピアは2023年のヨハネスブルク首脳会議での招待を受け、新興経済国グループBRICSの正式な加盟国となった。これは、アフリカで2番目に人口が多くアフリカ連合の本部を擁するエチオピアの外交的重みを反映していた。エチオピアはエジプトなど他の新加盟国とともに加わった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q127777382",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Gofa landslides",
+    "ko": "고파 산사태",
+    "zh": "戈法山体滑坡",
+    "ja": "ゴファの地滑り"
+   },
+   "description": {
+    "en": "In July 2024 heavy rains triggered two successive landslides in the Gofa Zone of southern Ethiopia, burying villagers, including many who had rushed to help after the first slide. More than two hundred people were killed, making it one of the deadliest landslides in the country's recorded history. The disaster drew attention to the vulnerability of densely settled highland slopes to extreme rainfall.",
+    "ko": "2024년 7월 폭우로 에티오피아 남부 고파 지역에서 산사태가 잇따라 두 차례 일어나, 첫 산사태 후 구조를 위해 달려간 많은 사람을 포함한 주민들이 매몰되었다. 200명이 넘는 사람이 숨져 이 나라 기록상 가장 치명적인 산사태 가운데 하나가 되었다. 이 재해는 인구가 밀집한 고원 경사지가 극한 강우에 취약하다는 점에 관심을 모았다.",
+    "zh": "2024年7月，暴雨在埃塞俄比亚南部戈法地区引发两次接连发生的山体滑坡，掩埋了村民，其中包括许多在第一次滑坡后赶去救援的人。两百多人遇难，成为该国有记录以来最致命的山体滑坡之一。这场灾难使人们关注到人口稠密的高原山坡在极端降雨面前的脆弱性。",
+    "ja": "2024年7月、大雨によりエチオピア南部のゴファ県で地滑りが2度続けて発生し、最初の地滑りの後に救助に駆けつけた多くの人々を含む住民が生き埋めになった。200人以上が死亡し、同国の記録上最悪級の地滑りの一つとなった。この災害は、人口の密集した高原の斜面が極端な降雨に弱いことに注目を集めた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Birr floated in major economic reform",
+    "ko": "비르화 변동환율제 전환",
+    "zh": "比尔汇率自由浮动的重大经济改革",
+    "ja": "ビルの変動相場制移行"
+   },
+   "description": {
+    "en": "In July 2024 the National Bank of Ethiopia allowed the birr to float, ending decades of a tightly controlled exchange rate, as part of a reform programme agreed with the International Monetary Fund. The currency lost much of its official value, while the government sought new financing and debt restructuring after defaulting on a Eurobond payment in December 2023. The reforms aimed to ease chronic foreign-currency shortages.",
+    "ko": "2024년 7월 에티오피아 국립은행은 국제통화기금(IMF)과 합의한 개혁 프로그램의 일환으로 비르화를 변동환율제로 전환해 수십 년에 걸친 엄격한 환율 통제를 끝냈다. 비르화의 공식 가치는 크게 떨어졌고, 정부는 2023년 12월 유로본드 이자 지급 불이행 이후 새로운 자금 조달과 채무 재조정을 모색했다. 이 개혁은 만성적인 외화 부족을 완화하려는 것이었다.",
+    "zh": "2024年7月，作为与国际货币基金组织商定的改革计划的一部分，埃塞俄比亚国家银行允许比尔自由浮动，结束了数十年来严格管控的汇率制度。比尔的官方价值大幅下跌，而政府在2023年12月一笔欧洲债券付款违约后，寻求新的融资和债务重组。这些改革旨在缓解长期的外汇短缺。",
+    "ja": "2024年7月、エチオピア国立銀行は国際通貨基金（IMF）と合意した改革プログラムの一環としてビルを変動相場制に移行させ、数十年にわたる厳格な為替管理を終えた。ビルの公式価値は大きく下落し、政府は2023年12月のユーロ債の支払い不履行の後、新たな資金調達と債務再編を模索した。改革は慢性的な外貨不足の緩和を目指すものだった。"
+   }
+  }
+ ]
+}

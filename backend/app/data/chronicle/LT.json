@@ -1,0 +1,2184 @@
+{
+ "iso": "LT",
+ "eras": [
+  {
+   "from": -5000,
+   "to": -1800,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Neolithic Narva and Corded Ware cultures",
+    "ko": "신석기 나르바 문화와 승문토기 문화",
+    "zh": "新石器时代纳尔瓦文化与绳纹陶文化",
+    "ja": "新石器時代のナルヴァ文化と縄目文土器文化"
+   },
+   "summary": {
+    "en": "In the Neolithic, hunter-fisher-gatherers of the Narva culture lived along the lakes, rivers and lagoons of what is now Lithuania, making pottery and working amber. From the early 3rd millennium BC, Corded Ware groups, including the coastal Pamariu (Rzucewo) culture, brought stock-raising and new burial customs. Many scholars link this Corded Ware horizon with the arrival of the Indo-European speech from which the Baltic languages later developed.",
+    "ko": "신석기 시대에는 나르바 문화의 수렵·어로·채집민이 오늘날 리투아니아의 호수와 강, 석호를 따라 살며 토기를 만들고 호박을 가공했다. 기원전 3천년기 초부터는 해안의 파마리우(제체보) 문화를 포함한 승문토기 집단이 목축과 새로운 장례 풍습을 들여왔다. 많은 학자는 이 승문토기 문화권을 훗날 발트어로 발전한 인도유럽어의 유입과 연결한다.",
+    "zh": "新石器时代，纳尔瓦文化的渔猎采集者沿今立陶宛的湖泊、河流和潟湖生活，制作陶器并加工琥珀。自公元前3千纪初起，包括沿海帕马里乌（热采沃）文化在内的绳纹陶人群带来了畜牧业和新的葬俗。许多学者将这一绳纹陶文化圈与印欧语的传入联系起来，波罗的诸语言后来即由此发展而成。",
+    "ja": "新石器時代には、ナルヴァ文化の狩猟漁労採集民が現在のリトアニアの湖や川、潟湖に沿って暮らし、土器を作り琥珀を加工した。紀元前3千年紀初めからは、沿岸のパマリウ（ジェツェヴォ）文化を含む縄目文土器の集団が牧畜と新しい葬制をもたらした。多くの研究者は、この縄目文土器文化圏を、のちにバルト諸語へと発展するインド・ヨーロッパ語の到来と結びつけている。"
+   }
+  },
+  {
+   "from": -1800,
+   "to": -500,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bronze Age of the Proto-Balts",
+    "ko": "원시 발트인의 청동기 시대",
+    "zh": "原始波罗的人的青铜时代",
+    "ja": "原バルト人の青銅器時代"
+   },
+   "summary": {
+    "en": "During the Bronze Age the ancestors of the Balts lived in small farming and herding communities across Lithuania. Bronze had to be imported, so it remained rare and stone tools stayed in common use, while amber was traded southward. In the late Bronze Age the first fortified hilltop settlements appeared, a tradition that would shape the landscape for two thousand years.",
+    "ko": "청동기 시대에 발트인의 조상들은 리투아니아 곳곳에서 소규모 농경·목축 공동체를 이루고 살았다. 청동은 수입해야 했기에 드물었고 석기가 여전히 널리 쓰였으며, 호박은 남쪽으로 교역되었다. 청동기 후기에는 최초의 방어용 언덕 취락이 나타나, 이후 2천 년 동안 이 땅의 풍경을 이루는 전통이 시작되었다.",
+    "zh": "青铜时代，波罗的人的祖先在立陶宛各地组成小型农牧社群。青铜需要输入，因而十分稀少，石器仍被普遍使用，琥珀则向南方输出。青铜时代晚期出现了最早的设防山丘聚落，这一传统此后两千年间塑造了当地的景观。",
+    "ja": "青銅器時代、バルト人の祖先はリトアニア各地で小規模な農耕・牧畜共同体を営んだ。青銅は輸入に頼ったため乏しく、石器が引き続き広く使われ、琥珀は南方へ交易された。青銅器時代後期には最初の防御された丘上集落が現れ、その後2000年にわたって景観を形づくる伝統が始まった。"
+   }
+  },
+  {
+   "from": -500,
+   "to": 400,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Iron Age: Brushed Pottery and West Baltic barrow cultures",
+    "ko": "초기 철기 시대: 빗질무늬 토기 문화와 서발트 봉분 문화",
+    "zh": "早期铁器时代：刷纹陶文化与西波罗的坟丘文化",
+    "ja": "初期鉄器時代：刷毛目土器文化と西バルト墳丘文化"
+   },
+   "summary": {
+    "en": "Iron smelted from local bog ore spread slowly in the second half of the 1st millennium BC. Eastern Lithuania belonged to the Brushed (Striated) Pottery culture of fortified hillforts, while the west and the coast belonged to the West Baltic barrow culture. In the Roman period the amber trade linked the region with the Roman Empire, and Roman writers described the amber-gathering Aestii on the Baltic shore.",
+    "ko": "기원전 1천년기 후반에 현지 늪철광으로 철을 제련하는 기술이 서서히 퍼졌다. 리투아니아 동부는 방어 성채 취락을 이룬 빗질무늬 토기 문화권에, 서부와 해안은 서발트 봉분 문화권에 속했다. 로마 시대에는 호박 교역이 이 지역을 로마 제국과 이어 주었고, 로마 저술가들은 발트 해안에서 호박을 모으는 아이스티족을 기록했다.",
+    "zh": "公元前1千纪后半叶，以当地沼铁矿冶铁的技术逐渐传播开来。立陶宛东部属于修筑设防山城的刷纹陶文化，西部和沿海地区则属于西波罗的坟丘文化。罗马时代，琥珀贸易把这一地区与罗马帝国联系起来，罗马作家记载了在波罗的海岸采集琥珀的埃斯蒂人。",
+    "ja": "紀元前1千年紀後半、地元の沼鉄鉱から鉄を製錬する技術がゆっくりと広まった。リトアニア東部は防御された丘砦を築く刷毛目土器文化に、西部と沿岸は西バルト墳丘文化に属した。ローマ時代には琥珀交易がこの地域をローマ帝国と結び、ローマの著述家はバルト海岸で琥珀を集めるアエスティ族について記した。"
+   }
+  },
+  {
+   "from": 400,
+   "to": 1000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Formation of the Baltic tribes",
+    "ko": "발트 부족들의 형성기",
+    "zh": "波罗的部族形成时期",
+    "ja": "バルト諸部族の形成期"
+   },
+   "summary": {
+    "en": "After the Migration Period, distinct Baltic tribal groups took shape on the land: Aukštaitians and Lithuanians in the east, Samogitians in the west, Curonians on the coast, Semigallians and Selonians in the north and Yotvingians (Sudovians) in the south. Archaeologists trace them through burial customs such as the East Lithuanian barrows. Hillforts served as tribal centers, and contacts with Scandinavians and the Slavic East grew during the Viking Age.",
+    "ko": "민족 대이동기 이후 이 땅에는 뚜렷이 구분되는 발트 부족 집단들이 자리 잡았다. 동부의 아우크슈타이티아인과 리투아니아인, 서부의 사모기티아인, 해안의 쿠로니아인, 북부의 젬갈레인과 셀로니아인, 남부의 요트빙기아인(수도비아인)이다. 고고학자들은 동리투아니아 봉분 같은 장례 풍습으로 이들을 구별하며, 언덕 성채가 부족의 중심 역할을 했다. 바이킹 시대에는 스칸디나비아인 및 동쪽 슬라브 세계와의 접촉이 늘었다.",
+    "zh": "民族大迁徙之后，这片土地上形成了各具特色的波罗的部族：东部的奥克什泰特人和立陶宛人、西部的萨莫吉希亚人、沿海的库尔人、北部的瑟米加利亚人和塞洛尼亚人，以及南部的约特温吉亚人（苏多维亚人）。考古学家通过东立陶宛坟丘等葬俗来辨识这些部族，山丘城堡则是部族的中心。维京时代，他们与斯堪的纳维亚人及东方斯拉夫世界的往来日益增多。",
+    "ja": "民族移動期の後、この地には特色あるバルト系部族が形成された。東部のアウクシュタイティヤ人とリトアニア人、西部のジェマイティヤ人、沿岸のクルシュー人、北部のゼムガレ人とセロニア人、南部のヨトヴィンギア人（スドヴィア人）である。考古学者は東リトアニア墳丘群などの葬制から彼らを識別し、丘砦が部族の中心となった。ヴァイキング時代にはスカンディナヴィア人や東方のスラヴ世界との接触が増えた。"
+   }
+  },
+  {
+   "from": 1000,
+   "to": 1240,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Emergence of the Lithuanian state",
+    "ko": "리투아니아 국가의 출현",
+    "zh": "立陶宛国家的形成",
+    "ja": "リトアニア国家の形成"
+   },
+   "summary": {
+    "en": "Lithuania entered written history in 1009, and by the late 12th century Lithuanian warbands were raiding the neighboring Rus' principalities and Livonia. A confederation of dukes, recorded in a treaty with Galicia-Volhynia in 1219, gradually gave way to the authority of a single ruler. Under pressure from the crusading orders in Prussia and Livonia, the Lithuanian lands were unified by Mindaugas in the 1230s and 1240s.",
+    "ko": "리투아니아는 1009년에 처음 문헌에 등장했고, 12세기 말에는 리투아니아 전사 집단이 이웃 루스 공국들과 리보니아를 습격하고 있었다. 1219년 갈리치아-볼히니아와의 조약에 기록된 공(公)들의 연합체는 점차 한 명의 통치자 아래로 모였다. 프로이센과 리보니아의 십자군 기사단의 압박 속에서 민다우가스가 1230~1240년대에 리투아니아 땅을 통일했다.",
+    "zh": "立陶宛于1009年首次见于文献，到12世纪末，立陶宛武士集团已在袭扰邻近的罗斯诸公国和利沃尼亚。1219年与加利西亚-沃里尼亚所订条约中记载的诸公联盟，逐渐让位于单一统治者的权威。在普鲁士和利沃尼亚十字军骑士团的压力下，明道加斯于13世纪30至40年代统一了立陶宛各地。",
+    "ja": "リトアニアは1009年に初めて文献に現れ、12世紀末にはリトアニアの戦士団が近隣のルーシ諸公国やリヴォニアを襲撃していた。1219年のガーリチ・ヴォルィーニとの条約に記された諸公の連合は、しだいに一人の支配者の権威へと移っていった。プロイセンとリヴォニアの十字軍騎士団の圧力のもと、ミンダウガスが1230～40年代にリトアニアの地を統一した。"
+   }
+  },
+  {
+   "from": 1236,
+   "to": 1795,
+   "kind": "state",
+   "qid": "Q49683",
+   "polity": "Grand Duchy of Lithuania",
+   "name": {
+    "en": "Grand Duchy of Lithuania",
+    "ko": "리투아니아 대공국",
+    "zh": "立陶宛大公国",
+    "ja": "リトアニア大公国"
+   },
+   "summary": {
+    "en": "The Grand Duchy of Lithuania grew from Mindaugas's realm into one of the largest states of medieval Europe, stretching under Gediminas, Algirdas and Vytautas from the Baltic to near the Black Sea and ruling vast Ruthenian lands. Pagan until 1387, it resisted the Teutonic and Livonian Orders for over a century. Its capital Vilnius became a multi-faith city, and the state kept its own laws, army and treasury even after the 1569 union with Poland, until the partitions ended it in 1795.",
+    "ko": "리투아니아 대공국은 민다우가스의 영토에서 출발해 게디미나스, 알기르다스, 비타우타스 시대에 발트해에서 흑해 근처까지 뻗은 중세 유럽 최대급 국가로 성장했으며 광대한 루테니아 땅을 지배했다. 1387년까지 이교 국가였던 대공국은 한 세기 넘게 튜턴 기사단과 리보니아 기사단에 맞섰다. 수도 빌뉴스는 여러 종교가 공존하는 도시가 되었고, 1569년 폴란드와 연합한 뒤에도 고유한 법·군대·재정을 유지하다가 1795년 분할로 소멸했다.",
+    "zh": "立陶宛大公国从明道加斯的领地发展为中世纪欧洲最大的国家之一，在格迪米纳斯、阿尔吉尔达斯和维陶塔斯时期从波罗的海延伸至黑海附近，统治着广大的鲁塞尼亚土地。它直到1387年仍信奉多神教，与条顿骑士团和利沃尼亚骑士团对抗了一个多世纪。首都维尔纽斯成为多宗教并存的城市；1569年与波兰联合后，大公国仍保有自己的法律、军队和财政，直至1795年被瓜分而亡。",
+    "ja": "リトアニア大公国はミンダウガスの領土から発展し、ゲディミナス、アルギルダス、ヴィタウタスの時代にはバルト海から黒海近くまで広がる中世ヨーロッパ最大級の国家となり、広大なルーシの地を支配した。1387年まで異教国家であり、1世紀以上にわたってドイツ騎士団とリヴォニア騎士団に抵抗した。首都ヴィリニュスは多宗教の都市となり、1569年のポーランドとの合同後も独自の法・軍・財政を保ったが、1795年の分割で消滅した。"
+   }
+  },
+  {
+   "from": 1251,
+   "to": 1263,
+   "kind": "state",
+   "qid": "Q1656775",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Lithuania under Mindaugas",
+    "ko": "민다우가스의 리투아니아 왕국",
+    "zh": "明道加斯的立陶宛王国",
+    "ja": "ミンダウガスのリトアニア王国"
+   },
+   "summary": {
+    "en": "After accepting baptism in 1251, Mindaugas was crowned king in 1253 with the approval of Pope Innocent IV, making Lithuania a recognized Christian kingdom. To secure peace with the Livonian Order he granted it lands, including parts of Samogitia. The kingdom ended with his assassination in 1263, after which Lithuania returned to paganism and its rulers took the title of grand duke.",
+    "ko": "1251년 세례를 받은 민다우가스는 1253년 교황 인노첸시오 4세의 승인 아래 국왕으로 즉위하여 리투아니아를 공인된 기독교 왕국으로 만들었다. 그는 리보니아 기사단과의 평화를 위해 사모기티아 일부를 포함한 땅을 기사단에 넘겼다. 왕국은 1263년 그가 암살되면서 끝났고, 이후 리투아니아는 이교로 돌아갔으며 통치자들은 대공 칭호를 사용했다.",
+    "zh": "明道加斯于1251年受洗，1253年在教宗英诺森四世的认可下加冕为王，使立陶宛成为受承认的基督教王国。为与利沃尼亚骑士团媾和，他把包括萨莫吉希亚部分地区在内的土地让给了骑士团。1263年他遇刺身亡，王国随之终结，此后立陶宛重归多神教，统治者改称大公。",
+    "ja": "ミンダウガスは1251年に洗礼を受け、1253年に教皇インノケンティウス4世の承認のもとで国王に戴冠し、リトアニアを公認のキリスト教王国とした。リヴォニア騎士団との和平のため、ジェマイティヤの一部を含む土地を騎士団に与えた。王国は1263年の彼の暗殺で終わり、その後リトアニアは異教に戻り、支配者は大公の称号を用いた。"
+   }
+  },
+  {
+   "from": 1252,
+   "to": 1923,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Memel (Klaipėda) region under the Teutonic Order and Prussia",
+    "ko": "튜턴 기사단·프로이센 치하의 메멜(클라이페다) 지역",
+    "zh": "条顿骑士团与普鲁士治下的梅梅尔（克莱佩达）地区",
+    "ja": "ドイツ騎士団・プロイセン支配下のメーメル（クライペダ）地方"
+   },
+   "summary": {
+    "en": "The Livonian Order founded Memel castle at the mouth of the Curonian Lagoon in 1252, and the town and its hinterland passed to the Teutonic Order's Prussian state. The 1422 Treaty of Melno fixed a border that left the Memel area outside Lithuania for nearly five centuries, as part of Ducal Prussia, the Kingdom of Prussia and the German Empire. Known as Lithuania Minor, this region with its Lithuanian-speaking Lutheran population printed the first Lithuanian book and later supplied banned books to the Russian-ruled lands, until Lithuania took the Memel Territory in 1923.",
+    "ko": "리보니아 기사단은 1252년 쿠로니아 석호 어귀에 메멜성을 세웠고, 도시와 배후지는 튜턴 기사단의 프로이센 국가로 넘어갔다. 1422년 멜노 조약으로 정해진 국경에 따라 메멜 지역은 거의 5세기 동안 리투아니아 밖에 남아 프로이센 공국, 프로이센 왕국, 독일 제국의 일부가 되었다. '소리투아니아'로 불린 이 지역은 리투아니아어를 쓰는 루터교 주민이 살며 최초의 리투아니아어 책을 펴냈고, 훗날 러시아 지배 지역에 금서를 공급했다. 1923년 리투아니아가 메멜 지역을 차지하면서 이 시기가 끝났다.",
+    "zh": "1252年利沃尼亚骑士团在库尔斯潟湖口修建了梅梅尔城堡，该城及其腹地随后归属条顿骑士团的普鲁士国家。1422年《梅尔诺条约》划定的边界使梅梅尔地区在近五个世纪里留在立陶宛之外，先后属于普鲁士公国、普鲁士王国和德意志帝国。这一被称为“小立陶宛”的地区居住着讲立陶宛语的路德宗信徒，出版了第一本立陶宛语书籍，后来又向俄国统治区输送禁书，直到1923年立陶宛取得梅梅尔地区。",
+    "ja": "リヴォニア騎士団は1252年にクルシュー潟の入口にメーメル城を築き、町と後背地はドイツ騎士団のプロイセン国家に帰属した。1422年のメルノ条約で定められた国境により、メーメル地方はほぼ5世紀にわたってリトアニアの外にとどまり、プロイセン公国、プロイセン王国、ドイツ帝国の一部となった。「小リトアニア」と呼ばれたこの地方にはリトアニア語を話すルター派住民が暮らし、最初のリトアニア語の本を刊行し、のちにはロシア支配地域へ禁書を送り込んだ。1923年にリトアニアがメーメル地方を獲得してこの時代は終わった。"
+   }
+  },
+  {
+   "from": 1386,
+   "to": 1569,
+   "kind": "state",
+   "qid": "Q194355",
+   "polity": "House of Jagiellon",
+   "name": {
+    "en": "Jagiellonian union with Poland",
+    "ko": "야기에우워 왕조와 폴란드와의 연합",
+    "zh": "雅盖洛王朝与波兰的联合",
+    "ja": "ヤギェウォ朝とポーランドとの連合"
+   },
+   "summary": {
+    "en": "From 1386, when Jogaila became King of Poland, Lithuania and Poland were usually ruled by members of the same Jagiellonian dynasty while remaining separate states. The period brought Christianization, the victory over the Teutonic Order and the territorial peak under Vytautas, followed by the growing privileges of the Lithuanian nobility. The Lithuanian Statutes of 1529 and 1566 codified the law, while wars with Muscovy steadily cost the Grand Duchy its eastern lands.",
+    "ko": "요가일라가 폴란드 국왕이 된 1386년부터 리투아니아와 폴란드는 별개의 국가로 남으면서도 대개 같은 야기에우워 왕조 사람이 다스렸다. 이 시기에는 기독교 개종, 튜턴 기사단에 대한 승리, 비타우타스 치하의 영토 절정이 있었고, 이어 리투아니아 귀족의 특권이 확대되었다. 1529년과 1566년의 리투아니아 법령집이 법을 집대성했으며, 모스크바 대공국과의 전쟁으로 대공국은 동부 영토를 점차 잃었다.",
+    "zh": "自1386年约加伊拉成为波兰国王起，立陶宛和波兰虽仍为两个独立国家，但通常由雅盖洛王朝的同一成员统治。这一时期立陶宛皈依基督教，战胜条顿骑士团，并在维陶塔斯治下达到疆域顶峰，随后立陶宛贵族的特权不断扩大。1529年和1566年的《立陶宛法典》编纂了法律，而与莫斯科大公国的战争则使大公国逐渐失去东部领土。",
+    "ja": "ヨガイラがポーランド王となった1386年以降、リトアニアとポーランドは別個の国家でありながら、多くの場合ヤギェウォ朝の同じ人物によって統治された。この時代にはキリスト教化、ドイツ騎士団に対する勝利、ヴィタウタスのもとでの領土の最盛期があり、続いてリトアニア貴族の特権が拡大した。1529年と1566年のリトアニア法典が法を集成する一方、モスクワ大公国との戦争で大公国は東部の領土をしだいに失った。"
+   }
+  },
+  {
+   "from": 1569,
+   "to": 1795,
+   "kind": "state",
+   "qid": "Q172107",
+   "polity": "Polish-Lithuanian Commonwealth",
+   "name": {
+    "en": "Polish–Lithuanian Commonwealth",
+    "ko": "폴란드-리투아니아 연방",
+    "zh": "波兰立陶宛联邦",
+    "ja": "ポーランド・リトアニア共和国"
+   },
+   "summary": {
+    "en": "The Union of Lublin joined the Kingdom of Poland and the Grand Duchy of Lithuania into a single Commonwealth with an elected king and a common Sejm, while Lithuania kept its own administration, army, treasury and law. The Lithuanian nobility became increasingly Polish in language and culture, and magnate families such as the Radziwiłłs and Sapiehas dominated politics. Devastating wars with Muscovy and Sweden in the 17th and early 18th centuries, followed by plague, weakened the state until Russia, Prussia and Austria partitioned it out of existence.",
+    "ko": "루블린 연합으로 폴란드 왕국과 리투아니아 대공국은 선출 국왕과 공동 의회(세임)를 둔 하나의 연방이 되었지만, 리투아니아는 고유한 행정·군대·재정·법을 유지했다. 리투아니아 귀족은 언어와 문화에서 점점 폴란드화되었고, 라지비우·사피에하 같은 대귀족 가문이 정치를 좌우했다. 17세기와 18세기 초 모스크바·스웨덴과의 파괴적인 전쟁과 역병으로 국가가 쇠약해졌고, 결국 러시아·프로이센·오스트리아가 연방을 분할해 소멸시켰다.",
+    "zh": "卢布林联合使波兰王国与立陶宛大公国合并为一个拥有选举君主和共同议会（瑟姆）的联邦，但立陶宛保留了自己的行政、军队、财政和法律。立陶宛贵族在语言和文化上日益波兰化，拉齐维尔、萨皮耶哈等大贵族家族左右政局。17世纪和18世纪初与莫斯科国和瑞典的毁灭性战争以及随后的瘟疫削弱了国家，最终俄国、普鲁士和奥地利将联邦瓜分殆尽。",
+    "ja": "ルブリン合同によりポーランド王国とリトアニア大公国は、選挙王制と共通の議会（セイム）をもつ一つの共和国となったが、リトアニアは独自の行政・軍・財政・法を保った。リトアニア貴族は言語と文化の面でしだいにポーランド化し、ラジヴィウ家やサピエハ家などの大貴族が政治を左右した。17世紀から18世紀初めのモスクワ国・スウェーデンとの壊滅的な戦争と疫病で国家は弱体化し、ついにロシア・プロイセン・オーストリアによって分割され消滅した。"
+   }
+  },
+  {
+   "from": 1795,
+   "to": 1915,
+   "kind": "state",
+   "qid": "Q34266",
+   "polity": "Russian Empire",
+   "name": {
+    "en": "Rule of the Russian Empire",
+    "ko": "러시아 제국의 지배",
+    "zh": "俄罗斯帝国统治时期",
+    "ja": "ロシア帝国の支配"
+   },
+   "summary": {
+    "en": "After the Third Partition most of Lithuania became part of the Russian Empire, divided into the Vilna and Kovno governorates, while the southwestern Suvalkija region passed through Prussian and Napoleonic rule before joining Russian-ruled Congress Poland. Uprisings in 1830–1831 and 1863–1864 were crushed and followed by Russification, including a 40-year ban on Lithuanian printing in the Latin alphabet. Serfdom was abolished in 1861, and a Lithuanian national revival led by peasants' sons and the clergy grew around underground newspapers such as Aušra and Varpas.",
+    "ko": "제3차 분할 이후 리투아니아 대부분은 러시아 제국에 편입되어 빌나주와 코브노주로 나뉘었고, 남서부 수발키야 지역은 프로이센과 나폴레옹의 지배를 거쳐 러시아가 다스리는 폴란드 회의왕국에 들어갔다. 1830~1831년과 1863~1864년의 봉기는 진압되었고, 이후 라틴 문자로 된 리투아니아어 출판을 40년간 금지하는 등 러시아화 정책이 이어졌다. 1861년 농노제가 폐지되었고, 농민 출신 지식인과 성직자가 이끄는 민족 부흥 운동이 『아우슈라』, 『바르파스』 같은 지하 신문을 중심으로 성장했다.",
+    "zh": "第三次瓜分后，立陶宛大部分并入俄罗斯帝国，分属维尔纳省和科夫诺省；西南部的苏瓦尔基亚地区先后经历普鲁士和拿破仑的统治，后归入俄国治下的波兰会议王国。1830—1831年和1863—1864年的起义均遭镇压，随后是俄罗斯化政策，包括长达40年禁止以拉丁字母印刷立陶宛语书籍。1861年农奴制被废除，由农民子弟和神职人员领导的民族复兴运动围绕《黎明》《钟》等地下报刊发展壮大。",
+    "ja": "第三次分割の後、リトアニアの大部分はロシア帝国に編入され、ヴィリナ県とコヴノ県に分けられた。南西部のスヴァルキヤ地方はプロイセンとナポレオンの支配を経て、ロシア支配下のポーランド立憲王国に組み込まれた。1830～31年と1863～64年の蜂起は鎮圧され、ラテン文字によるリトアニア語出版を40年間禁じるなどのロシア化政策が続いた。1861年に農奴制が廃止され、農民出身の知識人や聖職者が率いる民族復興運動が『アウシュラ』『ヴァルパス』などの地下新聞を中心に広がった。"
+   }
+  },
+  {
+   "from": 1915,
+   "to": 1918,
+   "kind": "state",
+   "qid": "Q43287",
+   "polity": "German Empire",
+   "name": {
+    "en": "German occupation in the First World War (Ober Ost)",
+    "ko": "제1차 세계대전기 독일 점령(오버 오스트)",
+    "zh": "第一次世界大战中的德国占领（东方总司令部辖区）",
+    "ja": "第一次世界大戦中のドイツ占領（オーバー・オスト）"
+   },
+   "summary": {
+    "en": "In 1915 German armies drove the Russians out of Lithuania and placed the land under the military administration known as Ober Ost. The occupation brought requisitions, forced labor and strict censorship, but also allowed Lithuanian political life to organize. In 1917 the Vilnius Conference elected the Council of Lithuania, which declared independence on 16 February 1918 while German troops were still present.",
+    "ko": "1915년 독일군은 러시아군을 리투아니아에서 몰아내고 이 땅을 '오버 오스트'라 불린 군정 아래 두었다. 점령은 징발, 강제 노동, 엄격한 검열을 가져왔지만 리투아니아인의 정치 활동이 조직될 여지도 주었다. 1917년 빌뉴스 회의가 리투아니아 평의회를 선출했고, 평의회는 독일군이 주둔한 가운데 1918년 2월 16일 독립을 선언했다.",
+    "zh": "1915年德军把俄军逐出立陶宛，将这片土地置于称为“东方总司令部辖区”（Ober Ost）的军政管理之下。占领带来了征用、强迫劳动和严格的审查，但也使立陶宛人的政治活动得以组织起来。1917年维尔纽斯会议选出立陶宛理事会，该理事会在德军仍驻扎的情况下于1918年2月16日宣布独立。",
+    "ja": "1915年、ドイツ軍はロシア軍をリトアニアから駆逐し、この地を「オーバー・オスト」と呼ばれる軍政下に置いた。占領は徴発や強制労働、厳しい検閲をもたらしたが、リトアニア人の政治活動が組織される余地も生んだ。1917年のヴィリニュス会議でリトアニア評議会が選出され、評議会はドイツ軍が駐留するなか1918年2月16日に独立を宣言した。"
+   }
+  },
+  {
+   "from": 1918,
+   "to": 1940,
+   "kind": "state",
+   "qid": null,
+   "polity": "Kingdom of Lithuania",
+   "name": {
+    "en": "Interwar Republic of Lithuania",
+    "ko": "전간기 리투아니아 공화국",
+    "zh": "两次大战间的立陶宛共和国",
+    "ja": "戦間期のリトアニア共和国"
+   },
+   "summary": {
+    "en": "Independent Lithuania defended itself in 1918–1920 against Soviet Russia, the West Russian Volunteer Army and Poland, but lost Vilnius to Poland in 1920 and made Kaunas its temporary capital. It gained the Memel (Klaipėda) Territory in 1923, carried out land reform and introduced its own currency, the litas. After the 1926 coup Antanas Smetona ruled as an authoritarian president; in 1939 Germany took back Klaipėda, while the Soviet Union handed Vilnius to Lithuania in exchange for military bases that preceded the 1940 occupation.",
+    "ko": "독립 리투아니아는 1918~1920년 소비에트 러시아, 서러시아 의용군, 폴란드에 맞서 싸웠지만 1920년 빌뉴스를 폴란드에 빼앗기고 카우나스를 임시 수도로 삼았다. 1923년 메멜(클라이페다) 지역을 획득하고 토지 개혁을 단행했으며 자국 통화 리타스를 도입했다. 1926년 쿠데타 이후 안타나스 스메토나가 권위주의적 대통령으로 통치했고, 1939년 독일이 클라이페다를 되가져간 반면 소련은 군사 기지를 얻는 대가로 빌뉴스를 리투아니아에 넘겼는데, 이 기지가 1940년 점령의 발판이 되었다.",
+    "zh": "独立的立陶宛在1918—1920年间抵御了苏俄、西俄罗斯志愿军和波兰，但1920年失去维尔纽斯，被迫以考纳斯为临时首都。1923年它取得梅梅尔（克莱佩达）地区，推行土地改革，并发行本国货币立特。1926年政变后，安塔纳斯·斯梅托纳以威权总统身份执政；1939年德国收回克莱佩达，苏联则以获得军事基地为条件把维尔纽斯交给立陶宛，这些基地成为1940年占领的前奏。",
+    "ja": "独立したリトアニアは1918～20年にソビエト・ロシア、西ロシア義勇軍、ポーランドと戦ったが、1920年にヴィリニュスをポーランドに奪われ、カウナスを臨時首都とした。1923年にメーメル（クライペダ）地方を獲得し、土地改革を行い、独自通貨リタスを導入した。1926年のクーデター後はアンタナス・スメトナが権威主義的な大統領として統治した。1939年にドイツがクライペダを取り戻す一方、ソ連は軍事基地と引き換えにヴィリニュスをリトアニアに引き渡し、この基地が1940年の占領の足がかりとなった。"
+   }
+  },
+  {
+   "from": 1920,
+   "to": 1939,
+   "kind": "state",
+   "qid": "Q207272",
+   "polity": "Second Polish Republic",
+   "name": {
+    "en": "Vilnius region under Polish rule",
+    "ko": "폴란드 지배하의 빌뉴스 지역",
+    "zh": "波兰统治下的维尔纽斯地区",
+    "ja": "ポーランド支配下のヴィリニュス地方"
+   },
+   "summary": {
+    "en": "In October 1920 Polish forces under General Lucjan Żeligowski seized Vilnius and its region, which were formally incorporated into Poland in 1922 after a contested vote. Lithuania never recognized the loss, and the two countries had no diplomatic relations until a Polish ultimatum in 1938. The city, with a largely Polish- and Yiddish-speaking population, remained part of the Second Polish Republic until the Soviet invasion of Poland in September 1939.",
+    "ko": "1920년 10월 루찬 젤리고프스키 장군이 이끄는 폴란드군이 빌뉴스와 그 주변 지역을 점령했고, 이 지역은 논란이 된 투표를 거쳐 1922년 공식적으로 폴란드에 편입되었다. 리투아니아는 이를 끝내 인정하지 않았고, 두 나라는 1938년 폴란드의 최후통첩 때까지 외교 관계가 없었다. 폴란드어와 이디시어 사용 주민이 많았던 이 도시는 1939년 9월 소련의 폴란드 침공 때까지 폴란드 제2공화국의 일부로 남았다.",
+    "zh": "1920年10月，卢茨扬·热利戈夫斯基将军率领的波兰军队占领了维尔纽斯及其周边地区，1922年经过一次有争议的投票后正式并入波兰。立陶宛始终不承认这一损失，两国直到1938年波兰发出最后通牒前都没有外交关系。这座以讲波兰语和意第绪语的居民为主的城市一直属于波兰第二共和国，直到1939年9月苏联入侵波兰。",
+    "ja": "1920年10月、ルツヤン・ジェリゴフスキ将軍率いるポーランド軍がヴィリニュスとその周辺を占領し、この地域は異論のある投票を経て1922年に正式にポーランドへ編入された。リトアニアはこれを決して認めず、両国は1938年のポーランドの最後通牒まで外交関係をもたなかった。ポーランド語とイディッシュ語を話す住民の多いこの都市は、1939年9月のソ連のポーランド侵攻までポーランド第二共和国の一部であった。"
+   }
+  },
+  {
+   "from": 1940,
+   "to": 1990,
+   "kind": "state",
+   "qid": "Q15180",
+   "polity": "Union of Soviet Socialist Republics",
+   "name": {
+    "en": "Soviet occupation: the Lithuanian SSR",
+    "ko": "소련 점령기: 리투아니아 소비에트 사회주의 공화국",
+    "zh": "苏联占领时期：立陶宛苏维埃社会主义共和国",
+    "ja": "ソ連占領期：リトアニア・ソビエト社会主義共和国"
+   },
+   "summary": {
+    "en": "The Soviet Union occupied Lithuania in June 1940 and annexed it as the Lithuanian SSR; after the German occupation of 1941–1944 Soviet rule returned. Mass deportations, collectivization and an armed partisan resistance that lasted into the early 1950s marked the first postwar decade, followed by industrialization and immigration from other Soviet republics. Most Western countries never recognized the annexation de jure, and from 1988 the Sąjūdis movement led the peaceful drive to restore independence.",
+    "ko": "소련은 1940년 6월 리투아니아를 점령하고 리투아니아 소비에트 사회주의 공화국으로 병합했으며, 1941~1944년 독일 점령이 끝난 뒤 소련 지배가 돌아왔다. 전후 첫 10년은 대규모 강제 이주, 농업 집단화, 1950년대 초까지 이어진 무장 파르티잔 저항으로 점철되었고, 이후 공업화와 다른 소련 공화국으로부터의 이주가 뒤따랐다. 대부분의 서방 국가는 병합을 법적으로 인정하지 않았으며, 1988년부터 사유디스 운동이 독립 회복을 위한 평화적 운동을 이끌었다.",
+    "zh": "1940年6月苏联占领立陶宛，并将其吞并为立陶宛苏维埃社会主义共和国；在1941—1944年的德国占领之后，苏联统治卷土重来。战后头十年充满了大规模流放、农业集体化以及持续到50年代初的武装游击抵抗，随后是工业化和来自其他苏联加盟共和国的移民。大多数西方国家从未在法律上承认这一吞并，1988年起“萨尤季斯”运动领导了恢复独立的和平运动。",
+    "ja": "ソ連は1940年6月にリトアニアを占領し、リトアニア・ソビエト社会主義共和国として併合した。1941～44年のドイツ占領の後、ソ連支配が戻った。戦後最初の10年は大規模な強制移送、農業集団化、1950年代初めまで続いた武装パルチザンの抵抗に彩られ、その後は工業化と他のソ連構成国からの移住が続いた。西側の多くの国は併合を法的に承認せず、1988年からはサーユディス運動が独立回復への平和的な運動を主導した。"
+   }
+  },
+  {
+   "from": 1941,
+   "to": 1944,
+   "kind": "state",
+   "qid": "Q7318",
+   "polity": "Nazi Germany",
+   "name": {
+    "en": "Nazi German occupation",
+    "ko": "나치 독일의 점령",
+    "zh": "纳粹德国占领时期",
+    "ja": "ナチス・ドイツによる占領"
+   },
+   "summary": {
+    "en": "Germany invaded in June 1941 and ruled Lithuania as a general district of the Reichskommissariat Ostland. The occupation brought the Holocaust, in which the great majority of Lithuania's Jews were murdered by German units and local collaborators, at Paneriai, Kaunas's Ninth Fort and hundreds of other sites. The Red Army retook most of the country in July–October 1944, though fighting around Klaipėda continued until January 1945.",
+    "ko": "독일은 1941년 6월 침공해 리투아니아를 오스틀란트 제국판무관부의 한 일반관구로 통치했다. 점령기에 홀로코스트가 일어나 리투아니아 유대인의 대다수가 독일 부대와 현지 협력자들에 의해 파네리아이, 카우나스 제9요새를 비롯한 수백 곳에서 살해되었다. 붉은 군대는 1944년 7~10월 국토 대부분을 되찾았으나, 클라이페다 주변의 전투는 1945년 1월까지 이어졌다.",
+    "zh": "德国于1941年6月入侵，将立陶宛作为“东方总督辖区”的一个总区进行统治。占领期间发生了犹太人大屠杀，立陶宛绝大多数犹太人在帕内里艾、考纳斯第九要塞等数百处地点被德国部队及当地合作者杀害。红军于1944年7月至10月收复了大部分国土，但克莱佩达周围的战斗一直持续到1945年1月。",
+    "ja": "ドイツは1941年6月に侵攻し、リトアニアをオストラント帝国弁務官区の一般管区として統治した。占領下でホロコーストが起こり、リトアニアのユダヤ人の大多数がドイツの部隊と現地の協力者によって、パネリアイやカウナス第九要塞をはじめ数百か所で殺害された。赤軍は1944年7～10月に国土の大部分を奪回したが、クライペダ周辺の戦闘は1945年1月まで続いた。"
+   }
+  },
+  {
+   "from": 1990,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q37",
+   "polity": "Republic of Lithuania",
+   "name": {
+    "en": "Restored Republic of Lithuania",
+    "ko": "독립을 회복한 리투아니아 공화국",
+    "zh": "恢复独立的立陶宛共和国",
+    "ja": "独立を回復したリトアニア共和国"
+   },
+   "summary": {
+    "en": "Lithuania declared the restoration of independence on 11 March 1990 and won international recognition in 1991 after resisting Soviet military pressure. It adopted a democratic constitution in 1992, saw the last Russian troops leave in 1993 and carried out market reforms. Lithuania joined NATO and the European Union in 2004 and the eurozone in 2015, and since 2014, and especially since 2022, has made defense and energy independence from Russia central priorities.",
+    "ko": "리투아니아는 1990년 3월 11일 독립 회복을 선언했고, 소련의 군사적 압박에 맞선 끝에 1991년 국제적 승인을 얻었다. 1992년 민주 헌법을 채택하고 1993년 마지막 러시아군 철수를 맞았으며 시장 개혁을 추진했다. 2004년 NATO와 유럽연합에, 2015년 유로존에 가입했고, 2014년 이후, 특히 2022년 이후에는 국방과 러시아로부터의 에너지 독립을 핵심 과제로 삼아 왔다.",
+    "zh": "立陶宛于1990年3月11日宣布恢复独立，顶住苏联的军事压力后于1991年获得国际承认。1992年它通过民主宪法，1993年最后一批俄军撤离，并推行市场改革。立陶宛于2004年加入北约和欧盟，2015年加入欧元区；2014年以来，尤其是2022年以后，国防和摆脱对俄能源依赖成为其核心任务。",
+    "ja": "リトアニアは1990年3月11日に独立回復を宣言し、ソ連の軍事的圧力に耐えて1991年に国際的承認を得た。1992年に民主的な憲法を採択し、1993年に最後のロシア軍が撤退し、市場改革を進めた。2004年にNATOとEU、2015年にユーロ圏に加わり、2014年以降、とりわけ2022年以降は国防とロシアからのエネルギー自立を最重要課題としてきた。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Amber workshops at Šventoji",
+    "ko": "슈벤토이의 호박 공방",
+    "zh": "圣托伊的琥珀作坊",
+    "ja": "シュヴェントイの琥珀工房"
+   },
+   "description": {
+    "en": "Around the late 4th and 3rd millennia BC, Neolithic settlements at Šventoji on the Lithuanian coast processed large quantities of amber into beads, pendants and small figurines. Waterlogged peat preserved wooden tools, fishing gear and even an idol, making these sites a rare window into Stone Age life on the Baltic shore.",
+    "ko": "기원전 4천년기 말에서 3천년기 무렵, 리투아니아 해안 슈벤토이의 신석기 취락에서는 많은 양의 호박을 구슬, 펜던트, 작은 조각상으로 가공했다. 물에 잠긴 이탄층 덕분에 나무 도구와 어구, 심지어 우상까지 보존되어, 이 유적은 발트 해안 석기 시대 생활을 엿볼 수 있는 드문 창이 되었다.",
+    "zh": "约公元前4千纪末至前3千纪，立陶宛沿海圣托伊的新石器时代聚落将大量琥珀加工成珠子、垂饰和小雕像。饱水泥炭层保存了木器、渔具甚至一尊偶像，使这些遗址成为了解波罗的海岸石器时代生活的难得窗口。",
+    "ja": "紀元前4千年紀末から3千年紀頃、リトアニア沿岸シュヴェントイの新石器時代集落では大量の琥珀がビーズやペンダント、小さな像に加工された。水に浸かった泥炭層のおかげで木製の道具や漁具、さらには偶像までが残り、これらの遺跡はバルト海岸の石器時代の暮らしを知る貴重な手がかりとなっている。"
+   }
+  },
+  {
+   "year": -2700,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Corded Ware groups arrive",
+    "ko": "승문토기 집단의 도래",
+    "zh": "绳纹陶人群到来",
+    "ja": "縄目文土器集団の到来"
+   },
+   "description": {
+    "en": "In the first half of the 3rd millennium BC, groups of the Corded Ware culture spread into the eastern Baltic, mixing with the local Narva population; on the coast they formed the Pamariu (Rzucewo) culture. They introduced stock-raising and individual graves with cord-decorated pots and stone battle-axes. Many researchers see this as the arrival of the Indo-European ancestors of the Balts.",
+    "ko": "기원전 3천년기 전반, 승문토기 문화 집단이 동부 발트 지역으로 퍼져 현지 나르바 주민과 섞였고, 해안에서는 파마리우(제체보) 문화를 이루었다. 이들은 목축과 함께 끈무늬 토기와 돌 전투도끼를 부장한 개인 무덤을 들여왔다. 많은 연구자는 이를 발트인의 인도유럽계 조상이 도래한 것으로 본다.",
+    "zh": "公元前3千纪上半叶，绳纹陶文化人群扩展到波罗的海东岸，与当地纳尔瓦居民融合，在沿海形成了帕马里乌（热采沃）文化。他们带来了畜牧业以及随葬绳纹陶罐和石战斧的单人墓。许多研究者认为这标志着波罗的人的印欧语祖先的到来。",
+    "ja": "紀元前3千年紀前半、縄目文土器文化の集団が東バルト地域に広がって在地のナルヴァ住民と混じり合い、沿岸ではパマリウ（ジェツェヴォ）文化を形成した。彼らは牧畜とともに、縄目文の土器や石の戦斧を副葬する個人墓をもたらした。多くの研究者はこれをバルト人のインド・ヨーロッパ系の祖先の到来とみている。"
+   }
+  },
+  {
+   "year": -1800,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Bronze Age begins in Lithuania",
+    "ko": "리투아니아의 청동기 시대 시작",
+    "zh": "立陶宛进入青铜时代",
+    "ja": "リトアニアの青銅器時代の始まり"
+   },
+   "description": {
+    "en": "From around 1800 BC the first bronze objects reached Lithuania through trade, mostly axes and ornaments from Central Europe and Scandinavia. Bronze stayed scarce for centuries, and local smiths later cast items from imported metal. Amber from the Baltic shore became an important export item along routes to the south.",
+    "ko": "기원전 1800년 무렵부터 주로 중부 유럽과 스칸디나비아의 도끼와 장신구 같은 최초의 청동 제품이 교역을 통해 리투아니아에 들어왔다. 청동은 수 세기 동안 귀했고, 현지 장인들은 나중에야 수입 금속으로 물건을 주조했다. 발트 해안의 호박은 남쪽으로 향하는 교역로의 중요한 수출품이 되었다.",
+    "zh": "约从公元前1800年起，最早的青铜器通过贸易传入立陶宛，主要是来自中欧和斯堪的纳维亚的斧和饰物。此后数百年青铜一直稀缺，本地工匠后来才用输入的金属铸造器物。波罗的海岸的琥珀成为南向商路上的重要出口品。",
+    "ja": "紀元前1800年頃から、主に中央ヨーロッパやスカンディナヴィア産の斧や装身具といった最初の青銅製品が交易によってリトアニアに入った。青銅は何世紀も貴重であり、在地の工人はのちに輸入金属で製品を鋳造するようになった。バルト海岸の琥珀は南へ向かう交易路の重要な輸出品となった。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "First fortified hillforts",
+    "ko": "최초의 방어용 언덕 성채",
+    "zh": "最早的设防山城",
+    "ja": "最初の防御された丘砦"
+   },
+   "description": {
+    "en": "In the late Bronze Age, around the early 1st millennium BC, communities in eastern Lithuania began fortifying hilltop settlements with ramparts and wooden palisades, as at Narkūnai and Nevieriškė. These hillforts were centers of bronze casting and farming and mark the start of the Brushed Pottery culture associated with the eastern Balts.",
+    "ko": "청동기 후기인 기원전 1천년기 초 무렵, 리투아니아 동부 공동체들은 나르쿠나이와 네비에리슈케처럼 언덕 위 취락에 토루와 나무 목책을 둘러 방어하기 시작했다. 이 언덕 성채들은 청동 주조와 농경의 중심지였으며, 동발트인과 연결되는 빗질무늬 토기 문화의 시작을 알린다.",
+    "zh": "青铜时代晚期、约公元前1千纪初，立陶宛东部的社群开始以土垒和木栅加固山顶聚落，如纳尔库奈和涅维耶里什凯。这些山城是青铜铸造和农耕的中心，标志着与东波罗的人相关的刷纹陶文化的开端。",
+    "ja": "青銅器時代後期の紀元前1千年紀初め頃、リトアニア東部の共同体は、ナルクーナイやネヴィエリシュケのように丘上の集落を土塁と木柵で守り始めた。これらの丘砦は青銅鋳造と農耕の中心であり、東バルト人と結びつく刷毛目土器文化の始まりを示している。"
+   }
+  },
+  {
+   "year": -300,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Iron working from bog ore",
+    "ko": "늪철광을 이용한 철기 제작",
+    "zh": "利用沼铁矿冶铁",
+    "ja": "沼鉄鉱による鉄器づくり"
+   },
+   "description": {
+    "en": "During the second half of the 1st millennium BC, local smiths learned to smelt iron from the bog ore abundant in Lithuania's wetlands. Iron tools gradually replaced stone and bronze, allowing more forest to be cleared for fields and strengthening the hillfort communities.",
+    "ko": "기원전 1천년기 후반, 현지 대장장이들은 리투아니아 습지에 풍부한 늪철광에서 철을 제련하는 법을 익혔다. 철제 도구가 차츰 석기와 청동기를 대체하면서 더 많은 숲을 개간해 밭을 일굴 수 있게 되었고, 언덕 성채 공동체가 더욱 강해졌다.",
+    "zh": "公元前1千纪后半叶，本地工匠学会了用立陶宛湿地中丰富的沼铁矿冶炼铁。铁制工具逐渐取代石器和青铜器，使更多森林得以开垦为农田，山城社群也随之壮大。",
+    "ja": "紀元前1千年紀後半、在地の鍛冶は、リトアニアの湿地に豊富な沼鉄鉱から鉄を製錬する技術を身につけた。鉄製の道具がしだいに石器や青銅器に取って代わり、より多くの森を切り開いて畑にできるようになり、丘砦の共同体は力を増した。"
+   }
+  },
+  {
+   "year": 98,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Tacitus describes the amber-gathering Aestii",
+    "ko": "타키투스가 호박을 모으는 아이스티족을 기록",
+    "zh": "塔西佗记载采集琥珀的埃斯蒂人",
+    "ja": "タキトゥスが琥珀を集めるアエスティ族を記録"
+   },
+   "description": {
+    "en": "In his Germania, written around AD 98, the Roman historian Tacitus described the Aestii, a people on the shore of the Suebian (Baltic) Sea who gathered amber and worshipped a mother goddess. The Aestii are generally identified with Baltic peoples. Roman coins and goods found in Lithuanian graves show that the amber trade connected the region to the Roman world.",
+    "ko": "로마 역사가 타키투스는 서기 98년 무렵 쓴 『게르마니아』에서 수에비해(발트해) 연안에 살며 호박을 모으고 어머니 여신을 섬기는 아이스티족을 묘사했다. 아이스티족은 대체로 발트계 민족으로 여겨진다. 리투아니아 무덤에서 발견된 로마 주화와 물품은 호박 교역이 이 지역을 로마 세계와 이어 주었음을 보여 준다.",
+    "zh": "罗马史学家塔西佗在约公元98年写成的《日耳曼尼亚志》中，描述了居住在苏维比海（波罗的海）沿岸、采集琥珀并崇拜母神的埃斯蒂人。埃斯蒂人一般被认为是波罗的民族。立陶宛墓葬中出土的罗马钱币和器物表明，琥珀贸易把这一地区与罗马世界联系在一起。",
+    "ja": "ローマの歴史家タキトゥスは、紀元98年頃に著した『ゲルマニア』で、スエビ海（バルト海）の岸辺に住み、琥珀を集め母神を崇めるアエスティ族を描いた。アエスティ族は一般にバルト系の民族とみなされる。リトアニアの墓から出土するローマの貨幣や品々は、琥珀交易がこの地域をローマ世界と結びつけていたことを示している。"
+   }
+  },
+  {
+   "year": 150,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ptolemy names the Galindians and Sudovians",
+    "ko": "프톨레마이오스가 갈린드인과 수도비아인을 언급",
+    "zh": "托勒密记载加林迪亚人和苏多维亚人",
+    "ja": "プトレマイオスがガリンド人とスドヴィア人を記す"
+   },
+   "description": {
+    "en": "Around the mid-2nd century AD, the geographer Ptolemy listed peoples of the eastern Baltic including the Galindai and Soudinoi. These names are usually connected with the later Baltic Galindians and the Sudovians (Yotvingians), the latter living in what is now southern Lithuania and northeastern Poland.",
+    "ko": "서기 2세기 중엽 무렵, 지리학자 프톨레마이오스는 동부 발트 지역의 민족으로 갈린다이와 수디노이 등을 꼽았다. 이 이름들은 대개 후대 발트계 갈린드인, 그리고 오늘날 리투아니아 남부와 폴란드 북동부에 살던 수도비아인(요트빙기아인)과 연결된다.",
+    "zh": "约公元2世纪中叶，地理学家托勒密列举了波罗的海东岸的民族，其中包括加林代人和苏迪诺伊人。这些名称通常被认为对应后来的波罗的系加林迪亚人和苏多维亚人（约特温吉亚人），后者居住在今立陶宛南部和波兰东北部。",
+    "ja": "2世紀半ば頃、地理学者プトレマイオスは東バルト地域の民族としてガリンダイやソウディノイなどを挙げた。これらの名はふつう、後世のバルト系ガリンド人や、現在のリトアニア南部とポーランド北東部に住んだスドヴィア人（ヨトヴィンギア人）と結びつけられる。"
+   }
+  },
+  {
+   "year": 500,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "East Lithuanian barrows and tribal formation",
+    "ko": "동리투아니아 봉분과 부족 형성",
+    "zh": "东立陶宛坟丘与部族形成",
+    "ja": "東リトアニア墳丘群と部族の形成"
+   },
+   "description": {
+    "en": "From around the 4th–5th centuries, communities in eastern Lithuania buried their dead in clusters of low earthen mounds known as the East Lithuanian barrows, while western groups kept distinct burial customs. Archaeologists see in these regional traditions the formation of the historical Baltic tribes, including the Lithuanians, Samogitians and Curonians.",
+    "ko": "4~5세기 무렵부터 리투아니아 동부 공동체들은 '동리투아니아 봉분'으로 알려진 낮은 흙무덤 무리에 죽은 이를 묻었고, 서부 집단은 이와 다른 장례 풍습을 유지했다. 고고학자들은 이러한 지역별 전통에서 리투아니아인, 사모기티아인, 쿠로니아인 등 역사 속 발트 부족의 형성을 본다.",
+    "zh": "约从4至5世纪起，立陶宛东部的社群将死者葬于成群的低矮土冢中，即所谓东立陶宛坟丘，而西部人群则保持着不同的葬俗。考古学家从这些地域传统中看到了立陶宛人、萨莫吉希亚人和库尔人等历史上波罗的部族的形成。",
+    "ja": "4～5世紀頃から、リトアニア東部の共同体は「東リトアニア墳丘群」と呼ばれる低い土饅頭の群れに死者を葬り、西部の集団はそれとは異なる葬制を保った。考古学者は、こうした地域ごとの伝統にリトアニア人、ジェマイティヤ人、クルシュー人などの歴史上のバルト諸部族の形成をみている。"
+   }
+  },
+  {
+   "year": 854,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Swedish siege of Apuolė",
+    "ko": "스웨덴의 아푸올레 포위",
+    "zh": "瑞典人围攻阿普奥莱",
+    "ja": "スウェーデン人のアプオレ包囲"
+   },
+   "description": {
+    "en": "The Life of Saint Ansgar, written by Rimbert, records that around 854 the Swedish king Olof attacked the Curonians and besieged a stronghold called Apulia, identified with the Apuolė hillfort in northwestern Lithuania. After several days the defenders agreed to pay tribute. It is the earliest written reference to a place in present-day Lithuania.",
+    "ko": "림베르트가 쓴 『성 안스가르 전기』에 따르면 854년 무렵 스웨덴 왕 올로프가 쿠로니아인을 공격해 '아풀리아'라는 요새를 포위했는데, 이는 리투아니아 북서부의 아푸올레 언덕 성채로 비정된다. 며칠 뒤 수비자들은 공물을 바치기로 했다. 이는 오늘날 리투아니아 땅의 지명이 등장하는 가장 이른 기록이다.",
+    "zh": "据林贝特所著《圣安斯加尔传》记载，约854年瑞典国王奥洛夫进攻库尔人，围攻一座名为“阿普利亚”的要塞，此地被认定为立陶宛西北部的阿普奥莱山城。数日后守军同意纳贡。这是今立陶宛境内地名的最早文字记载。",
+    "ja": "リンベルトの『聖アンスガル伝』によれば、854年頃スウェーデン王オーロフがクルシュー人を攻め、「アプリア」という砦を包囲した。これはリトアニア北西部のアプオレ丘砦に比定される。数日後、守備側は貢納を約束した。現在のリトアニアの地名が現れる最古の記録である。"
+   }
+  },
+  {
+   "year": 1009,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "First written mention of Lithuania",
+    "ko": "리투아니아, 문헌에 처음 등장",
+    "zh": "立陶宛之名首见于文献",
+    "ja": "リトアニアの名が文献に初登場"
+   },
+   "description": {
+    "en": "The Annals of Quedlinburg recorded that in 1009 the missionary Bruno of Querfurt was killed with his companions 'on the border of Russia and Lithuania' ('Litua'). This is the first known appearance of the name Lithuania in written sources, and the date is commemorated as the millennium of the name in 2009.",
+    "ko": "크베들린부르크 연대기는 1009년 선교사 크베르푸르트의 브루노가 동료들과 함께 '루스와 리투아니아(리투아)의 경계'에서 살해되었다고 기록했다. 이는 리투아니아라는 이름이 문헌에 등장한 최초의 사례로, 2009년에는 이름 등장 1000주년이 기념되었다.",
+    "zh": "《奎德林堡编年史》记载，1009年传教士奎尔富特的布鲁诺与同伴在“罗斯与立陶宛（Litua）的边界”遇害。这是“立陶宛”之名在文献中的最早记载，2009年立陶宛为此举行了名称千年纪念。",
+    "ja": "『クヴェードリンブルク年代記』は、1009年に宣教師クヴェアフルトのブルーノが仲間とともに「ルーシとリトアニア（リトゥア）の境」で殺害されたと記している。これはリトアニアという名が文献に現れる最初の例であり、2009年には名称の千年が記念された。"
+   }
+  },
+  {
+   "year": 1219,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty with Galicia–Volhynia lists 21 dukes",
+    "ko": "갈리치아-볼히니아와의 조약, 21명의 공 기록",
+    "zh": "与加利西亚-沃里尼亚订约，载有21位公爵",
+    "ja": "ガーリチ・ヴォルィーニとの条約に21人の公が記される"
+   },
+   "description": {
+    "en": "According to the Galician-Volhynian Chronicle, in 1219 Lithuanian dukes concluded a peace treaty with the rulers of Galicia–Volhynia. The chronicle lists 21 dukes, five of them as senior, including Živinbudas and the brothers Dausprungas and Mindaugas. The treaty shows a confederation of dukes acting together, a step toward a unified Lithuanian state.",
+    "ko": "갈리치아-볼히니아 연대기에 따르면 1219년 리투아니아의 공들이 갈리치아-볼히니아의 통치자들과 평화 조약을 맺었다. 연대기는 21명의 공을 열거하며 그중 지빈부다스, 그리고 다우스프룽가스와 민다우가스 형제를 포함한 5명을 연장자로 기록한다. 이 조약은 공들의 연합체가 공동으로 행동했음을 보여 주며, 통일된 리투아니아 국가로 가는 한 걸음이었다.",
+    "zh": "据《加利西亚-沃里尼亚编年史》记载，1219年立陶宛诸公与加利西亚-沃里尼亚的统治者缔结和约。编年史列出了21位公爵，其中5位为年长者，包括日温布达斯以及道斯普龙加斯和明道加斯兄弟。这一条约表明诸公已结成联盟共同行动，是迈向统一立陶宛国家的一步。",
+    "ja": "『ガーリチ・ヴォルィーニ年代記』によれば、1219年にリトアニアの諸公がガーリチ・ヴォルィーニの支配者と和平条約を結んだ。年代記は21人の公を列挙し、そのうちジヴィンブダスやダウスプルンガスとミンダウガスの兄弟を含む5人を年長者としている。この条約は諸公の連合が共同で行動したことを示し、統一リトアニア国家への一歩であった。"
+   }
+  },
+  {
+   "year": 1236,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Saule",
+    "ko": "사울레 전투",
+    "zh": "绍勒战役",
+    "ja": "サウレの戦い"
+   },
+   "description": {
+    "en": "In September 1236 Samogitians and Semigallians routed the Livonian Brothers of the Sword returning from a raid, killing the order's master Volquin and many knights. The battlefield is usually placed near Šiauliai, though some historians locate it in Latvia. The defeat forced the remnants of the Sword Brothers to merge into the Teutonic Order in 1237.",
+    "ko": "1236년 9월 사모기티아인과 젬갈레인은 약탈을 마치고 돌아가던 리보니아 검의 형제 기사단을 격파하고 기사단장 폴크빈과 많은 기사를 죽였다. 전장은 대개 샤울레이 근처로 보지만 라트비아에 있었다고 보는 역사가도 있다. 이 패배로 검의 형제 기사단의 잔존 세력은 1237년 튜턴 기사단에 흡수되었다.",
+    "zh": "1236年9月，萨莫吉希亚人和瑟米加利亚人击溃了劫掠归来的利沃尼亚宝剑骑士团，杀死团长福尔奎因及众多骑士。战场一般认为在希奥利艾附近，但也有历史学家认为在拉脱维亚境内。此役惨败迫使宝剑骑士团残部于1237年并入条顿骑士团。",
+    "ja": "1236年9月、ジェマイティヤ人とゼムガレ人は略奪から帰る途中のリヴォニア帯剣騎士団を撃破し、騎士団長フォルクヴィンと多くの騎士を討ち取った。戦場はふつうシャウレイ近郊とされるが、ラトビア領内とみる歴史家もいる。この敗北により帯剣騎士団の残存勢力は1237年にドイツ騎士団へ吸収された。"
+   }
+  },
+  {
+   "year": 1251,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Baptism of Mindaugas",
+    "ko": "민다우가스의 세례",
+    "zh": "明道加斯受洗",
+    "ja": "ミンダウガスの洗礼"
+   },
+   "description": {
+    "en": "Facing a coalition of rival dukes backed by the Livonian Order, Mindaugas allied with the order and accepted Catholic baptism in 1251. In return Pope Innocent IV agreed to his coronation and placed Lithuania under the protection of the Holy See. The conversion was largely political and did not spread among the population.",
+    "ko": "리보니아 기사단의 지원을 받는 경쟁 공들의 연합에 맞닥뜨린 민다우가스는 기사단과 동맹을 맺고 1251년 가톨릭 세례를 받았다. 그 대가로 교황 인노첸시오 4세는 그의 대관을 승인하고 리투아니아를 교황청의 보호 아래 두었다. 이 개종은 주로 정치적인 것이어서 백성들 사이로 퍼지지는 않았다.",
+    "zh": "面对利沃尼亚骑士团支持的敌对诸公联盟，明道加斯与骑士团结盟，并于1251年接受天主教洗礼。作为回报，教宗英诺森四世同意为他加冕，并将立陶宛置于圣座保护之下。这次皈依主要出于政治考虑，并未在民众中传播开来。",
+    "ja": "リヴォニア騎士団の支援を受けた対立諸公の連合に直面したミンダウガスは、騎士団と同盟して1251年にカトリックの洗礼を受けた。その見返りに教皇インノケンティウス4世は彼の戴冠を認め、リトアニアを教皇庁の保護下に置いた。この改宗は主に政治的なもので、民衆には広まらなかった。"
+   }
+  },
+  {
+   "year": 1252,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Memel castle founded",
+    "ko": "메멜성 건설",
+    "zh": "梅梅尔城堡建立",
+    "ja": "メーメル城の建設"
+   },
+   "description": {
+    "en": "In 1252 the Livonian Order and the Bishop of Courland built a castle called Memelburg at the mouth of the Curonian Lagoon, the origin of the city of Klaipėda. The castle linked the orders' territories in Livonia and Prussia and became the base of German rule over the coastal Curonian lands for nearly seven centuries.",
+    "ko": "1252년 리보니아 기사단과 쿠를란트 주교는 쿠로니아 석호 어귀에 메멜부르크라는 성을 쌓았는데, 이것이 클라이페다시의 기원이다. 이 성은 리보니아와 프로이센에 있는 기사단 영토를 잇는 고리였으며, 거의 7세기 동안 해안 쿠로니아 땅에 대한 독일인 지배의 거점이 되었다.",
+    "zh": "1252年，利沃尼亚骑士团和库尔兰主教在库尔斯潟湖口修建了名为梅梅尔堡的城堡，这就是克莱佩达城的起源。城堡连接了骑士团在利沃尼亚和普鲁士的领地，并在近七个世纪里成为德意志人统治沿海库尔人土地的据点。",
+    "ja": "1252年、リヴォニア騎士団とクールラント司教はクルシュー潟の入口にメーメルブルクという城を築いた。これがクライペダ市の起源である。城はリヴォニアとプロイセンにある騎士団領を結び、ほぼ7世紀にわたって沿岸のクルシュー人の地に対するドイツ人支配の拠点となった。"
+   }
+  },
+  {
+   "year": 1253,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Mindaugas crowned King of Lithuania",
+    "ko": "민다우가스, 리투아니아 국왕으로 대관",
+    "zh": "明道加斯加冕为立陶宛国王",
+    "ja": "ミンダウガスがリトアニア王に戴冠"
+   },
+   "description": {
+    "en": "In the summer of 1253 Mindaugas, who had united the Lithuanian lands, was crowned the first and only King of Lithuania with papal approval. The coronation gave Lithuania recognition as a Christian kingdom in Europe. Lithuanians celebrate 6 July as Statehood Day, the traditional date of the coronation.",
+    "ko": "1253년 여름, 리투아니아 땅을 통일한 민다우가스가 교황의 승인 아래 리투아니아 최초이자 유일한 국왕으로 즉위했다. 이 대관으로 리투아니아는 유럽에서 기독교 왕국으로 인정받았다. 리투아니아인은 대관식의 전통적 날짜인 7월 6일을 '국가의 날'로 기념한다.",
+    "zh": "1253年夏，统一了立陶宛各地的明道加斯在教宗认可下加冕，成为立陶宛首位也是唯一一位国王。加冕使立陶宛作为基督教王国获得欧洲承认。立陶宛人把传统上的加冕日7月6日定为“国家日”加以纪念。",
+    "ja": "1253年夏、リトアニアの地を統一したミンダウガスが教皇の承認のもとで、リトアニア最初にして唯一の国王に戴冠した。この戴冠によってリトアニアはヨーロッパでキリスト教王国として認められた。リトアニアの人々は伝統的な戴冠の日である7月6日を「国家の日」として祝っている。"
+   }
+  },
+  {
+   "year": 1263,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Mindaugas",
+    "ko": "민다우가스 암살",
+    "zh": "明道加斯遇刺",
+    "ja": "ミンダウガスの暗殺"
+   },
+   "description": {
+    "en": "In 1263 King Mindaugas and two of his sons were murdered in a conspiracy led by his nephew Treniota and Duke Daumantas. The kingdom dissolved, Lithuania reverted to paganism, and years of internal strife followed until stronger grand dukes such as Traidenis consolidated power again.",
+    "ko": "1263년 민다우가스 왕과 두 아들은 조카 트레니오타와 다우만타스 공이 이끈 음모로 살해되었다. 왕국은 해체되고 리투아니아는 이교로 돌아갔으며, 트라이데니스 같은 강력한 대공이 다시 권력을 다질 때까지 수년간 내분이 이어졌다.",
+    "zh": "1263年，明道加斯国王及其两个儿子在其外甥特雷尼奥塔和道曼塔斯公爵策划的阴谋中被杀。王国随之瓦解，立陶宛重归多神教，内乱持续多年，直到特赖德尼斯等强势大公重新巩固权力。",
+    "ja": "1263年、ミンダウガス王と2人の息子は、甥のトレニオタとダウマンタス公が主導した陰謀によって殺害された。王国は解体し、リトアニアは異教に戻り、トライデニスのような有力な大公が再び権力を固めるまで数年にわたる内紛が続いた。"
+   }
+  },
+  {
+   "year": 1320,
+   "qid": "Q3920750",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Medininkai",
+    "ko": "메디닌카이 전투",
+    "zh": "梅迪宁凯战役",
+    "ja": "メディニンカイの戦い"
+   },
+   "description": {
+    "en": "In 1320 Samogitians ambushed and destroyed a Teutonic Order force raiding the Medininkai area in Samogitia, killing the marshal of the order and many knights. The battle was one of many episodes in the long war over Samogitia, the land bridge between the order's Prussian and Livonian territories.",
+    "ko": "1320년 사모기티아인은 사모기티아의 메디닌카이 일대를 약탈하던 튜턴 기사단 부대를 매복 공격해 섬멸하고 기사단 원수와 많은 기사를 죽였다. 이 전투는 기사단의 프로이센 영토와 리보니아 영토를 잇는 육교 지대인 사모기티아를 둘러싼 긴 전쟁의 한 장면이었다.",
+    "zh": "1320年，萨莫吉希亚人伏击并歼灭了在萨莫吉希亚梅迪宁凯一带劫掠的条顿骑士团部队，杀死骑士团元帅及众多骑士。这场战斗是围绕萨莫吉希亚的长期战争中的一幕——萨莫吉希亚是连接骑士团普鲁士与利沃尼亚领地的陆桥。",
+    "ja": "1320年、ジェマイティヤ人はジェマイティヤのメディニンカイ一帯を略奪していたドイツ騎士団の部隊を待ち伏せして壊滅させ、騎士団の元帥と多くの騎士を討ち取った。この戦いは、騎士団のプロイセン領とリヴォニア領をつなぐ陸橋であるジェマイティヤをめぐる長い戦争の一場面であった。"
+   }
+  },
+  {
+   "year": 1323,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Gediminas's letters and Vilnius as capital",
+    "ko": "게디미나스의 서한과 수도 빌뉴스",
+    "zh": "格迪米纳斯的书信与首都维尔纽斯",
+    "ja": "ゲディミナスの書簡と首都ヴィリニュス"
+   },
+   "description": {
+    "en": "In 1323 Grand Duke Gediminas sent letters to the pope and to Hanseatic towns inviting merchants, craftsmen and clergy to settle in his lands, promising freedom of religion. The letters, dated from Vilnius, are the first written mention of the city as his capital. According to legend, Gediminas founded Vilnius after dreaming of an iron wolf howling on the hill.",
+    "ko": "1323년 게디미나스 대공은 교황과 한자 도시들에 서한을 보내 상인·장인·성직자를 자신의 영토로 초청하고 신앙의 자유를 약속했다. 빌뉴스에서 작성된 이 서한들은 이 도시가 그의 수도로 언급된 최초의 기록이다. 전설에 따르면 게디미나스는 언덕 위에서 울부짖는 쇠 늑대의 꿈을 꾼 뒤 빌뉴스를 세웠다고 한다.",
+    "zh": "1323年，格迪米纳斯大公致信教宗和汉萨城市，邀请商人、工匠和神职人员到他的领地定居，并承诺宗教自由。这些落款于维尔纽斯的书信是该城作为其首都的最早文字记载。传说格迪米纳斯梦见山上有一只铁狼嗥叫，随后建立了维尔纽斯。",
+    "ja": "1323年、ゲディミナス大公は教皇やハンザ都市に書簡を送り、商人・職人・聖職者を自領に招いて信仰の自由を約束した。ヴィリニュスで書かれたこれらの書簡は、この町が彼の首都として言及される最初の記録である。伝説では、ゲディミナスは丘の上で鉄の狼が吠える夢を見てヴィリニュスを築いたという。"
+   }
+  },
+  {
+   "year": 1336,
+   "qid": "Q7194564",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Defense of Pilėnai",
+    "ko": "필레나이 방어전",
+    "zh": "皮列奈保卫战",
+    "ja": "ピレナイの防衛"
+   },
+   "description": {
+    "en": "In 1336 the Teutonic Order besieged the hillfort of Pilėnai. According to the order's chroniclers, when defense became hopeless the defenders under Duke Margiris burned their property and killed themselves rather than surrender. The episode became a powerful symbol of resistance in Lithuanian literature and art, though the fort's exact location is still debated.",
+    "ko": "1336년 튜턴 기사단이 필레나이 언덕 성채를 포위했다. 기사단 연대기 작가들에 따르면 방어가 절망적이 되자 마르기리스 공이 이끄는 수비자들은 항복 대신 재산을 불태우고 스스로 목숨을 끊었다. 이 일화는 리투아니아 문학과 예술에서 저항의 강력한 상징이 되었지만, 성채의 정확한 위치는 아직도 논쟁 중이다.",
+    "zh": "1336年，条顿骑士团围攻皮列奈山城。据骑士团编年史家记载，当防守已无希望时，马尔吉里斯公爵率领的守军焚毁财物并集体自尽，拒不投降。这一事件成为立陶宛文学和艺术中强有力的抵抗象征，但城堡的确切位置至今仍有争议。",
+    "ja": "1336年、ドイツ騎士団はピレナイの丘砦を包囲した。騎士団の年代記作者によれば、防衛が絶望的になると、マルギリス公率いる守備兵は降伏せずに財産を焼き払い自ら命を絶った。この出来事はリトアニアの文学や芸術で抵抗の強い象徴となったが、砦の正確な位置はいまも議論されている。"
+   }
+  },
+  {
+   "year": 1362,
+   "qid": "Q12660036",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Teutonic Order destroys Kaunas castle",
+    "ko": "튜턴 기사단, 카우나스성 파괴",
+    "zh": "条顿骑士团摧毁考纳斯城堡",
+    "ja": "ドイツ騎士団がカウナス城を破壊"
+   },
+   "description": {
+    "en": "In the spring of 1362 a large Teutonic Order army besieged the stone castle of Kaunas at the confluence of the Nemunas and Neris. After weeks of siege the castle fell and was destroyed despite relief attempts by Kęstutis and Algirdas. It was later rebuilt and remained a key fortress on the Nemunas frontier.",
+    "ko": "1362년 봄, 튜턴 기사단의 대군이 네무나스강과 네리스강 합류점에 있는 카우나스 석성을 포위했다. 케스투티스와 알기르다스의 구원 시도에도 불구하고 몇 주간의 포위 끝에 성은 함락되어 파괴되었다. 성은 이후 재건되어 네무나스 국경의 핵심 요새로 남았다.",
+    "zh": "1362年春，条顿骑士团大军围攻位于涅里斯河与涅曼河交汇处的考纳斯石堡。尽管凯斯图蒂斯和阿尔吉尔达斯设法救援，城堡在数周围攻后仍告陷落并被摧毁。此后城堡得以重建，一直是涅曼河边境的关键要塞。",
+    "ja": "1362年春、ドイツ騎士団の大軍がネムナス川とネリス川の合流点にあるカウナスの石造の城を包囲した。ケーストゥティスとアルギルダスによる救援の試みにもかかわらず、数週間の包囲の末に城は陥落し破壊された。城はのちに再建され、ネムナス国境の要の要塞であり続けた。"
+   }
+  },
+  {
+   "year": 1385,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Union of Krewo",
+    "ko": "크레보 연합",
+    "zh": "克列沃联合",
+    "ja": "クレヴォ合同"
+   },
+   "description": {
+    "en": "In the Act of Krewo of August 1385, Grand Duke Jogaila agreed to marry the young Queen Jadwiga of Poland, accept Catholic baptism for himself and his pagan subjects, and join his lands to the Polish Crown. Crowned King of Poland in 1386 as Władysław II Jagiełło, he founded the Jagiellonian dynasty and began four centuries of close union between Poland and Lithuania.",
+    "ko": "1385년 8월 크레보 협약에서 요가일라 대공은 폴란드의 젊은 여왕 야드비가와 결혼하고, 자신과 이교도 백성이 가톨릭 세례를 받으며, 자신의 영토를 폴란드 왕관에 결합하기로 약속했다. 1386년 브와디스와프 2세 야기에우워로 폴란드 국왕에 즉위한 그는 야기에우워 왕조를 열고 폴란드와 리투아니아의 4세기에 걸친 긴밀한 연합을 시작했다.",
+    "zh": "在1385年8月的《克列沃协定》中，约加伊拉大公同意迎娶年轻的波兰女王雅德维加，本人及其信奉多神教的臣民皈依天主教，并将其领地与波兰王冠相联合。1386年他以瓦迪斯瓦夫二世·雅盖沃之名加冕为波兰国王，开创雅盖洛王朝，开启了波兰与立陶宛长达四个世纪的紧密联合。",
+    "ja": "1385年8月のクレヴォ協定で、ヨガイラ大公はポーランドの若き女王ヤドヴィガと結婚し、自らと異教の臣民がカトリックの洗礼を受け、自領をポーランド王冠に結びつけることを約束した。1386年にヴワディスワフ2世ヤギェウォとしてポーランド王に戴冠した彼はヤギェウォ朝を開き、ポーランドとリトアニアの4世紀にわたる緊密な連合が始まった。"
+   }
+  },
+  {
+   "year": 1387,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Christianization of Lithuania",
+    "ko": "리투아니아의 기독교 개종",
+    "zh": "立陶宛皈依基督教",
+    "ja": "リトアニアのキリスト教化"
+   },
+   "description": {
+    "en": "In 1387 Jogaila returned to Vilnius, where mass baptisms of Lithuanians were held and the Diocese of Vilnius was founded. Lithuania, the last pagan state in Europe, thus formally adopted Catholic Christianity, drawing the country into Western Christendom. Samogitia, then contested with the Teutonic Order, was converted only in 1413–1417.",
+    "ko": "1387년 요가일라는 빌뉴스로 돌아와 리투아니아인의 집단 세례를 거행하고 빌뉴스 교구를 세웠다. 이렇게 유럽 최후의 이교 국가였던 리투아니아는 공식적으로 가톨릭을 받아들여 서방 기독교 세계에 편입되었다. 당시 튜턴 기사단과 영유를 다투던 사모기티아는 1413~1417년에야 개종했다.",
+    "zh": "1387年约加伊拉回到维尔纽斯，在此为立陶宛人举行集体洗礼并设立维尔纽斯教区。欧洲最后一个多神教国家立陶宛由此正式接受天主教，融入西方基督教世界。当时与条顿骑士团争夺的萨莫吉希亚直到1413—1417年才皈依。",
+    "ja": "1387年、ヨガイラはヴィリニュスに戻り、リトアニア人の集団洗礼を行ってヴィリニュス司教区を設けた。こうしてヨーロッパ最後の異教国家リトアニアは正式にカトリックを受け入れ、西方キリスト教世界に組み込まれた。当時ドイツ騎士団と領有を争っていたジェマイティヤの改宗は1413～1417年になってからであった。"
+   }
+  },
+  {
+   "year": 1392,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Vytautas becomes ruler of Lithuania",
+    "ko": "비타우타스, 리투아니아의 통치자가 되다",
+    "zh": "维陶塔斯成为立陶宛统治者",
+    "ja": "ヴィタウタスがリトアニアの統治者に"
+   },
+   "description": {
+    "en": "After years of civil war with his cousin Jogaila, Vytautas reached the Ostrów Agreement in 1392, which made him ruler of Lithuania under Jogaila's nominal overlordship. Vytautas the Great went on to centralize power, replace appanage princes with loyal governors and pursue an ambitious eastern policy that brought the Grand Duchy to its greatest extent.",
+    "ko": "사촌 요가일라와 수년간 내전을 벌인 비타우타스는 1392년 오스트루프 협정을 맺어 요가일라의 명목상 종주권 아래 리투아니아의 통치자가 되었다. '대공' 비타우타스는 권력을 중앙에 집중하고 분령 공들을 충성스러운 총독으로 교체했으며, 야심 찬 동방 정책으로 대공국을 최대 판도로 이끌었다.",
+    "zh": "与堂兄约加伊拉经历多年内战后，维陶塔斯于1392年达成《奥斯特鲁夫协议》，在约加伊拉名义宗主权下成为立陶宛统治者。“大帝”维陶塔斯随后集中权力，以忠诚的总督取代封地诸公，并推行雄心勃勃的东方政策，使大公国达到最大版图。",
+    "ja": "従兄ヨガイラとの数年にわたる内戦の末、ヴィタウタスは1392年にオストルフ協定を結び、ヨガイラの名目的な宗主権のもとでリトアニアの統治者となった。「大公」ヴィタウタスはその後権力を集中させ、分領諸公を忠実な代官に置き換え、野心的な東方政策によって大公国を最大版図へと導いた。"
+   }
+  },
+  {
+   "year": 1398,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Salynas cedes Samogitia",
+    "ko": "살리나스 조약으로 사모기티아 할양",
+    "zh": "《萨利纳斯条约》割让萨莫吉希亚",
+    "ja": "サリナス条約でジェマイティヤを割譲"
+   },
+   "description": {
+    "en": "To secure his western flank for a campaign against the Golden Horde, Vytautas signed the Treaty of Salynas with the Teutonic Order in 1398 on an island in the Nemunas, ceding Samogitia up to the Nevėžis River. The Samogitians rose against the order's rule in 1401 and again in 1409, and the latter revolt led directly to the Great War of 1409–1411.",
+    "ko": "황금 군단 원정을 위해 서쪽 측면을 안정시키려던 비타우타스는 1398년 네무나스강의 한 섬에서 튜턴 기사단과 살리나스 조약을 맺고 네베지스강까지의 사모기티아를 넘겼다. 사모기티아인은 1401년과 1409년 기사단 지배에 맞서 봉기했으며, 후자는 1409~1411년 대전쟁으로 곧장 이어졌다.",
+    "zh": "为了在征讨金帐汗国时稳住西翼，维陶塔斯于1398年在涅曼河的一座小岛上与条顿骑士团签订《萨利纳斯条约》，将涅韦日斯河以西的萨莫吉希亚割让给骑士团。萨莫吉希亚人于1401年和1409年两度起义反抗骑士团统治，后一次起义直接引发了1409—1411年的大战。",
+    "ja": "黄金のオルダへの遠征に備えて西側を固めるため、ヴィタウタスは1398年にネムナス川の島でドイツ騎士団とサリナス条約を結び、ネヴェジス川までのジェマイティヤを割譲した。ジェマイティヤ人は1401年と1409年に騎士団の支配に対して蜂起し、後者は1409～11年の大戦争へと直結した。"
+   }
+  },
+  {
+   "year": 1410,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Victory at the Battle of Grunwald",
+    "ko": "그룬발트 전투의 대승",
+    "zh": "格伦瓦德之战大捷",
+    "ja": "グルンヴァルトの戦いでの大勝"
+   },
+   "description": {
+    "en": "On 15 July 1410 the combined armies of Poland and Lithuania under King Jogaila and Grand Duke Vytautas crushed the Teutonic Order at Grunwald (Žalgiris), killing Grand Master Ulrich von Jungingen. The battle, one of the largest of medieval Europe, broke the order's military power and ended its expansion into Lithuania. Žalgiris remains a central symbol of Lithuanian national memory.",
+    "ko": "1410년 7월 15일 요가일라 국왕과 비타우타스 대공이 이끄는 폴란드·리투아니아 연합군은 그룬발트(잘기리스)에서 튜턴 기사단을 격파하고 기사단장 울리히 폰 융잉겐을 전사시켰다. 중세 유럽 최대 규모의 전투 중 하나였던 이 싸움으로 기사단의 군사력은 꺾였고 리투아니아로의 팽창도 멈췄다. 잘기리스는 지금도 리투아니아 민족 기억의 핵심 상징이다.",
+    "zh": "1410年7月15日，约加伊拉国王和维陶塔斯大公率领的波兰-立陶宛联军在格伦瓦德（扎尔吉里斯）大败条顿骑士团，骑士团大团长乌尔里希·冯·容金根阵亡。这是中世纪欧洲规模最大的战役之一，摧毁了骑士团的军事力量，终结了其向立陶宛的扩张。扎尔吉里斯至今仍是立陶宛民族记忆的核心象征。",
+    "ja": "1410年7月15日、ヨガイラ王とヴィタウタス大公が率いるポーランド・リトアニア連合軍はグルンヴァルト（ジャルギリス）でドイツ騎士団を撃破し、総長ウルリッヒ・フォン・ユンギンゲンを戦死させた。中世ヨーロッパ最大級のこの戦いで騎士団の軍事力は打ち砕かれ、リトアニアへの拡大は止まった。ジャルギリスはいまもリトアニアの民族的記憶の中心的な象徴である。"
+   }
+  },
+  {
+   "year": 1411,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First Peace of Thorn",
+    "ko": "제1차 토룬 조약",
+    "zh": "第一次托伦和约",
+    "ja": "第一次トルンの和約"
+   },
+   "description": {
+    "en": "The First Peace of Thorn in February 1411 ended the Great War with the Teutonic Order. Samogitia was returned to Lithuania for the lifetimes of Jogaila and Vytautas, and the order paid a large indemnity. Although the terms were modest compared with the scale of Grunwald, the order never recovered its former strength.",
+    "ko": "1411년 2월 제1차 토룬 조약으로 튜턴 기사단과의 대전쟁이 끝났다. 사모기티아는 요가일라와 비타우타스의 생전 동안 리투아니아에 반환되었고 기사단은 막대한 배상금을 지불했다. 그룬발트의 규모에 비하면 조건은 소박했지만, 기사단은 다시는 예전의 힘을 회복하지 못했다.",
+    "zh": "1411年2月的第一次托伦和约结束了与条顿骑士团的大战。萨莫吉希亚在约加伊拉和维陶塔斯在世期间归还立陶宛，骑士团支付了巨额赔款。与格伦瓦德之战的规模相比，条款较为温和，但骑士团从此再未恢复昔日的实力。",
+    "ja": "1411年2月の第一次トルンの和約によりドイツ騎士団との大戦争が終わった。ジェマイティヤはヨガイラとヴィタウタスの存命中に限ってリトアニアに返還され、騎士団は多額の賠償金を支払った。グルンヴァルトの規模に比べて条件は控えめだったが、騎士団がかつての力を取り戻すことはなかった。"
+   }
+  },
+  {
+   "year": 1413,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Union of Horodło and the baptism of Samogitia",
+    "ko": "호로드워 연합과 사모기티아의 세례",
+    "zh": "霍罗德沃联合与萨莫吉希亚受洗",
+    "ja": "ホロドウォ合同とジェマイティヤの洗礼"
+   },
+   "description": {
+    "en": "The Union of Horodło in 1413 reaffirmed the Polish–Lithuanian union, kept a separate grand duke for Lithuania and granted Polish coats of arms and privileges to Catholic Lithuanian boyars. In the same year Jogaila and Vytautas began the baptism of the Samogitians, and in 1417 the Diocese of Medininkai (Samogitia) was founded.",
+    "ko": "1413년 호로드워 연합은 폴란드-리투아니아 연합을 재확인하면서 리투아니아에 별도의 대공을 두기로 하고, 가톨릭 신자인 리투아니아 귀족에게 폴란드 문장과 특권을 부여했다. 같은 해 요가일라와 비타우타스는 사모기티아인의 세례를 시작했고, 1417년 메디닌카이(사모기티아) 교구가 설립되었다.",
+    "zh": "1413年的霍罗德沃联合重申了波兰-立陶宛联合，保留立陶宛单独的大公，并授予信奉天主教的立陶宛贵族以波兰纹章和特权。同年，约加伊拉和维陶塔斯开始为萨莫吉希亚人施洗，1417年设立了梅迪宁凯（萨莫吉希亚）教区。",
+    "ja": "1413年のホロドウォ合同はポーランド・リトアニア連合を再確認し、リトアニアに独自の大公を置くことを定め、カトリックのリトアニア貴族にポーランドの紋章と特権を与えた。同年ヨガイラとヴィタウタスはジェマイティヤ人の洗礼を始め、1417年にはメディニンカイ（ジェマイティヤ）司教区が設けられた。"
+   }
+  },
+  {
+   "year": 1422,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Melno fixes the western border",
+    "ko": "멜노 조약, 서부 국경 확정",
+    "zh": "《梅尔诺条约》确定西部边界",
+    "ja": "メルノ条約で西部国境が確定"
+   },
+   "description": {
+    "en": "After the brief Gollub War, the Treaty of Melno in 1422 permanently confirmed Samogitia as part of Lithuania, while the Memel (Klaipėda) area remained with the Teutonic Order. The border it established between Lithuania and Prussia remained essentially unchanged until 1919, making it one of the most stable frontiers in European history.",
+    "ko": "짧은 골루프 전쟁 후 1422년 멜노 조약은 사모기티아를 리투아니아의 영토로 영구 확정했고, 메멜(클라이페다) 지역은 튜턴 기사단령으로 남았다. 이 조약이 정한 리투아니아와 프로이센의 국경은 1919년까지 사실상 변하지 않아, 유럽 역사상 가장 안정적인 국경 중 하나가 되었다.",
+    "zh": "短暂的戈卢布战争之后，1422年的《梅尔诺条约》永久确认萨莫吉希亚属于立陶宛，梅梅尔（克莱佩达）地区则留在条顿骑士团手中。该条约划定的立陶宛与普鲁士边界直到1919年基本未变，是欧洲历史上最稳定的边界之一。",
+    "ja": "短いゴルブ戦争の後、1422年のメルノ条約はジェマイティヤをリトアニア領として恒久的に確定し、メーメル（クライペダ）地方はドイツ騎士団領に残った。この条約が定めたリトアニアとプロイセンの国境は1919年まで実質的に変わらず、ヨーロッパ史上もっとも安定した国境の一つとなった。"
+   }
+  },
+  {
+   "year": 1430,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Coronation crisis and death of Vytautas",
+    "ko": "대관 위기와 비타우타스의 죽음",
+    "zh": "加冕危机与维陶塔斯之死",
+    "ja": "戴冠危機とヴィタウタスの死"
+   },
+   "description": {
+    "en": "Emperor Sigismund offered Vytautas a royal crown, but Polish lords, fearing the end of the union, intercepted the crown on its way to Lithuania in 1430. Vytautas died at Trakai in October 1430 without being crowned. His death opened a struggle for the throne between Švitrigaila and Sigismund Kęstutaitis that split the Grand Duchy.",
+    "ko": "지기스문트 황제가 비타우타스에게 왕관을 제안했지만, 연합이 끝날 것을 우려한 폴란드 귀족들이 1430년 리투아니아로 오던 왕관을 가로챘다. 비타우타스는 대관하지 못한 채 1430년 10월 트라카이에서 세상을 떠났다. 그의 죽음으로 슈비트리가일라와 지기스만타스 케스투타이티스 사이의 왕위 다툼이 벌어져 대공국이 분열되었다.",
+    "zh": "神圣罗马皇帝西吉斯蒙德向维陶塔斯许以王冠，但担心联合终结的波兰贵族于1430年在王冠运往立陶宛途中将其截获。维陶塔斯于1430年10月在特拉凯去世，终未加冕。他的去世引发了什维特里盖拉与齐格蒙特·凯斯图泰蒂斯之间的王位之争，使大公国陷入分裂。",
+    "ja": "皇帝ジギスムントはヴィタウタスに王冠を提供したが、合同の解消を恐れたポーランドの貴族たちが1430年、リトアニアへ運ばれる途中の王冠を差し押さえた。ヴィタウタスは戴冠を果たせないまま1430年10月にトラカイで亡くなった。彼の死はシュヴィトリガイラとジギマンタス・ケーストゥタイティスの間の王位争いを招き、大公国を分裂させた。"
+   }
+  },
+  {
+   "year": 1435,
+   "qid": "Q1411508",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Pabaiskas (Wiłkomierz)",
+    "ko": "파바이스카스(빌코미에시) 전투",
+    "zh": "帕拜斯卡斯（维尔科梅日）战役",
+    "ja": "パバイスカスの戦い"
+   },
+   "description": {
+    "en": "On 1 September 1435, near Ukmergė, the forces of Grand Duke Sigismund Kęstutaitis and their Polish allies decisively defeated Švitrigaila and his Livonian Order allies. The battle effectively ended the Lithuanian civil war and dealt the Livonian Order a blow from which it never fully recovered.",
+    "ko": "1435년 9월 1일 우크메르게 근처에서 지기스만타스 케스투타이티스 대공의 군대와 폴란드 동맹군이 슈비트리가일라와 그를 도운 리보니아 기사단을 결정적으로 격파했다. 이 전투로 리투아니아 내전은 사실상 끝났고, 리보니아 기사단은 끝내 완전히 회복하지 못할 타격을 입었다.",
+    "zh": "1435年9月1日，在乌克梅尔盖附近，齐格蒙特·凯斯图泰蒂斯大公的军队及其波兰盟军决定性地击败了什维特里盖拉及其利沃尼亚骑士团盟军。此役实际上结束了立陶宛内战，并使利沃尼亚骑士团遭受了此后再未完全恢复的打击。",
+    "ja": "1435年9月1日、ウクメルゲ近郊でジギマンタス・ケーストゥタイティス大公の軍とポーランドの同盟軍が、シュヴィトリガイラとその同盟者リヴォニア騎士団を決定的に破った。この戦いでリトアニアの内戦は事実上終わり、リヴォニア騎士団は二度と完全には立ち直れない打撃を受けた。"
+   }
+  },
+  {
+   "year": 1440,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Casimir Jagiellon becomes Grand Duke",
+    "ko": "카지미에시 야기에우워, 대공에 즉위",
+    "zh": "卡齐米日·雅盖隆契克成为大公",
+    "ja": "カジミェシュ・ヤギェロンチクが大公に"
+   },
+   "description": {
+    "en": "After Sigismund Kęstutaitis was murdered in 1440, the Lithuanian lords raised Jogaila's 13-year-old son Casimir to the grand ducal throne. In 1447 he also became King of Poland and issued a privilege guaranteeing the rights and property of the Lithuanian nobility, strengthening the lords' council that increasingly governed the Grand Duchy.",
+    "ko": "1440년 지기스만타스 케스투타이티스가 살해되자 리투아니아 귀족들은 요가일라의 13세 아들 카지미에시를 대공으로 추대했다. 그는 1447년 폴란드 국왕도 되었고, 리투아니아 귀족의 권리와 재산을 보장하는 특권장을 발표하여 대공국 통치를 점점 주도하게 된 귀족 평의회의 힘을 강화했다.",
+    "zh": "1440年齐格蒙特·凯斯图泰蒂斯遇害后，立陶宛贵族拥立约加伊拉13岁的儿子卡齐米日为大公。1447年他又成为波兰国王，并颁布特权令保障立陶宛贵族的权利和财产，加强了日益主导大公国治理的贵族议事会。",
+    "ja": "1440年にジギマンタス・ケーストゥタイティスが殺害されると、リトアニアの貴族たちはヨガイラの13歳の息子カジミェシュを大公に推戴した。彼は1447年にポーランド王にもなり、リトアニア貴族の権利と財産を保障する特権状を発布して、大公国の統治をしだいに担う貴族評議会の力を強めた。"
+   }
+  },
+  {
+   "year": 1499,
+   "qid": "Q653379",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Union of Kraków and Vilnius",
+    "ko": "크라쿠프-빌뉴스 연합",
+    "zh": "克拉科夫-维尔纽斯联合",
+    "ja": "クラクフ・ヴィリニュス合同"
+   },
+   "description": {
+    "en": "In 1499 the Polish and Lithuanian estates renewed their union, agreeing that neither state would elect a ruler without consulting the other and pledging mutual aid. Facing pressure from Muscovy, which was seizing the Grand Duchy's eastern lands, the agreement tied the two states more closely while preserving Lithuania's separate statehood.",
+    "ko": "1499년 폴란드와 리투아니아의 신분 대표들은 연합을 갱신하여 어느 쪽도 상대와 협의 없이 통치자를 선출하지 않고 서로 돕기로 약속했다. 대공국의 동부 영토를 빼앗고 있던 모스크바 대공국의 압박 속에서 이 협정은 리투아니아의 독자적 국가 지위를 유지하면서 두 나라를 더 긴밀히 묶었다.",
+    "zh": "1499年，波兰和立陶宛的等级代表续订联合，约定任何一方未与对方协商不得选举君主，并承诺相互援助。面对正在蚕食大公国东部领土的莫斯科大公国的压力，这一协议在保持立陶宛独立国家地位的同时把两国联系得更加紧密。",
+    "ja": "1499年、ポーランドとリトアニアの身分代表は合同を更新し、いずれも相手と協議せずに君主を選ばないこと、互いに援助することを約した。大公国の東部領を奪いつつあったモスクワ大公国の圧力を受け、この協定はリトアニアの独自の国家性を保ちつつ両国をより緊密に結びつけた。"
+   }
+  },
+  {
+   "year": 1503,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Vilnius city wall built",
+    "ko": "빌뉴스 성벽 축조",
+    "zh": "修建维尔纽斯城墙",
+    "ja": "ヴィリニュス市壁の建設"
+   },
+   "description": {
+    "en": "Fearing attacks by the Crimean Tatars, Grand Duke Alexander granted permission in 1503 to build a defensive wall around Vilnius, completed by about 1522 with several gates. The only surviving gate, the Gate of Dawn, later became a renowned Catholic shrine housing an icon of the Virgin Mary.",
+    "ko": "크림 타타르의 공격을 우려한 알렉산데르 대공은 1503년 빌뉴스를 둘러싸는 방어 성벽 건설을 허가했고, 여러 성문을 갖춘 성벽은 1522년 무렵 완공되었다. 유일하게 남은 '새벽의 문'은 훗날 성모 이콘을 모신 이름난 가톨릭 성지가 되었다.",
+    "zh": "因担心克里米亚鞑靼人的袭击，亚历山大大公于1503年批准环绕维尔纽斯修建防御城墙，城墙约于1522年建成，设有多座城门。唯一保存下来的“黎明之门”后来成为供奉圣母像的著名天主教圣地。",
+    "ja": "クリミア・タタールの襲撃を恐れたアレクサンデル大公は、1503年にヴィリニュスを囲む防御壁の建設を許可し、いくつもの門をもつ市壁は1522年頃に完成した。唯一残る「夜明けの門」は、のちに聖母のイコンを祀る名高いカトリックの巡礼地となった。"
+   }
+  },
+  {
+   "year": 1529,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First Statute of Lithuania",
+    "ko": "제1차 리투아니아 법령집",
+    "zh": "第一部《立陶宛法典》",
+    "ja": "第一リトアニア法典"
+   },
+   "description": {
+    "en": "In 1529 the Grand Duchy adopted the First Statute of Lithuania, a comprehensive code of law written in Ruthenian, the chancery language of the state. Revised in 1566 and 1588, the Statutes were among the most advanced legal codes of their time in Europe and remained in force in Lithuanian lands under Russian rule until 1840.",
+    "ko": "1529년 대공국은 국가 행정 언어였던 루테니아어로 쓰인 포괄적 법전인 제1차 리투아니아 법령집을 채택했다. 1566년과 1588년에 개정된 법령집은 당대 유럽에서 가장 앞선 법전 중 하나였으며, 러시아 지배하의 리투아니아 땅에서 1840년까지 효력을 유지했다.",
+    "zh": "1529年大公国通过了第一部《立陶宛法典》，这是一部以国家公文语言鲁塞尼亚语写成的综合性法典。该法典于1566年和1588年两度修订，是当时欧洲最先进的法典之一，在俄国统治下的立陶宛地区一直沿用到1840年。",
+    "ja": "1529年、大公国は国家の官庁語であったルーシ語で書かれた包括的な法典、第一リトアニア法典を採択した。1566年と1588年に改訂されたリトアニア法典は当時のヨーロッパで最も先進的な法典の一つであり、ロシア支配下のリトアニアの地で1840年まで効力を保った。"
+   }
+  },
+  {
+   "year": 1547,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "First book in Lithuanian",
+    "ko": "최초의 리투아니아어 책",
+    "zh": "第一本立陶宛语书籍",
+    "ja": "最初のリトアニア語の本"
+   },
+   "description": {
+    "en": "In 1547 Martynas Mažvydas published a Lutheran catechism in Königsberg, the first printed book in the Lithuanian language. It contained a primer of the alphabet, hymns and a short preface in verse addressed to Lithuanians. Ducal Prussia, with its Lithuanian-speaking population, became an early center of Lithuanian writing.",
+    "ko": "1547년 마르티나스 마주비다스는 쾨니히스베르크에서 루터교 교리문답서를 펴냈는데, 이것이 리투아니아어로 인쇄된 최초의 책이다. 이 책에는 알파벳 입문, 찬송가, 그리고 리투아니아인에게 바치는 짧은 운문 서문이 담겼다. 리투아니아어 사용 주민이 살던 프로이센 공국은 리투아니아어 문필 활동의 초기 중심지가 되었다.",
+    "zh": "1547年，马尔蒂纳斯·马日维达斯在柯尼斯堡出版了一本路德宗教理问答，这是第一本以立陶宛语印刷的书。书中包含字母启蒙、赞美诗以及一篇致立陶宛人的简短诗体序言。居住着讲立陶宛语居民的普鲁士公国成为立陶宛语著述的早期中心。",
+    "ja": "1547年、マルティナス・マジュヴィダスはケーニヒスベルクでルター派の教理問答書を出版した。これがリトアニア語で印刷された最初の本である。アルファベットの手引き、賛美歌、リトアニア人に宛てた短い韻文の序文が収められていた。リトアニア語を話す住民のいたプロイセン公国は、リトアニア語著述の初期の中心地となった。"
+   }
+  },
+  {
+   "year": 1557,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Wallach (Volok) land reform",
+    "ko": "볼로크 토지 개혁",
+    "zh": "沃洛克土地改革",
+    "ja": "ヴォローカ土地改革"
+   },
+   "description": {
+    "en": "Queen Bona Sforza and King Sigismund II Augustus carried out the Wallach (volok) reform, formalized in the statute of 1557, which surveyed royal estates into standard plots and reorganized villages into regular street layouts. The reform raised revenues and spread the three-field system, but it also tied peasants more firmly to labor obligations, entrenching serfdom.",
+    "ko": "보나 스포르차 왕비와 지그문트 2세 아우구스트 왕은 1557년 법령으로 공식화된 볼로크 개혁을 시행해, 왕령지를 표준 필지로 측량하고 마을을 규칙적인 가로형 배치로 재편했다. 개혁은 수입을 늘리고 삼포식 농법을 확산시켰지만, 농민을 노역 의무에 더 단단히 묶어 농노제를 고착시켰다.",
+    "zh": "博娜·斯福尔扎王后和西吉斯蒙德二世·奥古斯特国王推行沃洛克改革，并以1557年的法令加以规范：把王室庄园丈量为标准地块，将村庄改建为规整的街道式布局。改革增加了收入并推广了三圃制，但也把农民更牢固地束缚于劳役义务，使农奴制根深蒂固。",
+    "ja": "ボナ・スフォルツァ王妃とジグムント2世アウグスト王はヴォローカ改革を実施し、1557年の法令で制度化した。王領地を標準区画に測量し、村を規則的な街路型の配置に再編したのである。改革は歳入を増やし三圃制を広めたが、農民を賦役義務により強く縛りつけ、農奴制を定着させた。"
+   }
+  },
+  {
+   "year": 1561,
+   "qid": "Q1267481",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Vilnius: Livonia submits",
+    "ko": "빌뉴스 조약: 리보니아의 복속",
+    "zh": "《维尔纽斯条约》：利沃尼亚归附",
+    "ja": "ヴィリニュス条約：リヴォニアの服属"
+   },
+   "description": {
+    "en": "Under attack by Ivan the Terrible during the Livonian War, the last Master of the Livonian Order, Gotthard Kettler, signed the Treaty of Vilnius in November 1561. The order was dissolved, its lands came under the Grand Duchy of Lithuania and Poland, and Kettler became the first Duke of Courland and Semigallia.",
+    "ko": "리보니아 전쟁에서 이반 뇌제의 공격을 받던 리보니아 기사단의 마지막 단장 고트하르트 케틀러는 1561년 11월 빌뉴스 조약에 서명했다. 기사단은 해체되고 그 영토는 리투아니아 대공국과 폴란드의 지배 아래 들어갔으며, 케틀러는 초대 쿠를란트-젬갈렌 공작이 되었다.",
+    "zh": "在利沃尼亚战争中遭伊凡雷帝进攻的利沃尼亚骑士团末代团长戈特哈德·凯特勒于1561年11月签订《维尔纽斯条约》。骑士团解散，其领地归立陶宛大公国和波兰管辖，凯特勒成为首任库尔兰和瑟米加利亚公爵。",
+    "ja": "リヴォニア戦争でイヴァン雷帝の攻撃を受けていたリヴォニア騎士団最後の団長ゴットハルト・ケトラーは、1561年11月にヴィリニュス条約に調印した。騎士団は解散し、その領土はリトアニア大公国とポーランドの支配下に入り、ケトラーは初代クールラント・ゼムガレン公となった。"
+   }
+  },
+  {
+   "year": 1569,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Union of Lublin creates the Commonwealth",
+    "ko": "루블린 연합으로 연방 탄생",
+    "zh": "卢布林联合缔造波兰-立陶宛联邦",
+    "ja": "ルブリン合同で共和国が成立"
+   },
+   "description": {
+    "en": "Weakened by the Livonian War against Muscovy, Lithuania agreed under heavy pressure to the Union of Lublin in July 1569, which merged it with Poland into the Polish–Lithuanian Commonwealth, one of Europe's largest states. The two shared an elected monarch and a common Sejm, while Lithuania kept its own laws, army, treasury and offices. Shortly before the union, Poland annexed the Grand Duchy's Ukrainian lands.",
+    "ko": "모스크바와의 리보니아 전쟁으로 약해진 리투아니아는 강한 압박 속에 1569년 7월 루블린 연합에 동의했고, 이로써 폴란드와 합쳐 유럽 최대급 국가인 폴란드-리투아니아 연방이 되었다. 두 나라는 선출 군주와 공동 의회를 공유했지만, 리투아니아는 고유한 법·군대·재정·관직을 유지했다. 연합 직전 폴란드는 대공국의 우크라이나 지역을 병합했다.",
+    "zh": "在与莫斯科国的利沃尼亚战争中受到削弱的立陶宛，在巨大压力下于1569年7月接受卢布林联合，与波兰合并为欧洲最大国家之一的波兰-立陶宛联邦。两国共享选举产生的君主和共同议会，而立陶宛保留了自己的法律、军队、财政和官职。联合前不久，波兰兼并了大公国的乌克兰领土。",
+    "ja": "モスクワとのリヴォニア戦争で弱体化したリトアニアは、強い圧力のもと1569年7月にルブリン合同に同意し、ポーランドと合わさってヨーロッパ最大級の国家ポーランド・リトアニア共和国となった。両国は選挙王と共通議会を共有したが、リトアニアは独自の法・軍・財政・官職を保った。合同の直前、ポーランドは大公国のウクライナ地域を併合した。"
+   }
+  },
+  {
+   "year": 1579,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Vilnius University founded",
+    "ko": "빌뉴스 대학교 설립",
+    "zh": "维尔纽斯大学创立",
+    "ja": "ヴィリニュス大学の創立"
+   },
+   "description": {
+    "en": "In 1579 King Stephen Báthory raised the Jesuit college in Vilnius to the rank of a university, with the approval of Pope Gregory XIII. Vilnius University became one of the oldest universities in Eastern Europe and a center of Counter-Reformation learning, and later of Lithuanian, Polish and Belarusian intellectual life.",
+    "ko": "1579년 스테판 바토리 국왕은 교황 그레고리오 13세의 승인 아래 빌뉴스의 예수회 학원을 대학으로 승격시켰다. 빌뉴스 대학교는 동유럽에서 가장 오래된 대학 중 하나로 반종교개혁 학문의 중심이 되었고, 훗날 리투아니아·폴란드·벨라루스 지성계의 중심지가 되었다.",
+    "zh": "1579年，斯特凡·巴托里国王在教宗格列高利十三世的批准下，将维尔纽斯的耶稣会学院升格为大学。维尔纽斯大学成为东欧最古老的大学之一，是反宗教改革学术的中心，后来又成为立陶宛、波兰和白俄罗斯思想生活的中心。",
+    "ja": "1579年、ステファン・バートリ王は教皇グレゴリウス13世の承認を得て、ヴィリニュスのイエズス会学院を大学に昇格させた。ヴィリニュス大学は東ヨーロッパ最古級の大学の一つとして対抗宗教改革の学問の中心となり、のちにはリトアニア・ポーランド・ベラルーシの知的生活の中心地となった。"
+   }
+  },
+  {
+   "year": 1588,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Third Statute of Lithuania",
+    "ko": "제3차 리투아니아 법령집",
+    "zh": "第三部《立陶宛法典》",
+    "ja": "第三リトアニア法典"
+   },
+   "description": {
+    "en": "The Third Statute of Lithuania, confirmed in 1588 and printed in Ruthenian, defended the Grand Duchy's separate legal order within the Commonwealth and, in places, ignored the terms of the Union of Lublin. It became the most famous of the three Statutes, was later translated into Polish and remained in force until 1840.",
+    "ko": "1588년 확정되어 루테니아어로 인쇄된 제3차 리투아니아 법령집은 연방 안에서 대공국의 독자적 법질서를 지켰고, 일부 조항은 루블린 연합의 조건을 무시하기도 했다. 세 법령집 가운데 가장 유명한 이 법전은 이후 폴란드어로도 번역되었고 1840년까지 효력을 유지했다.",
+    "zh": "1588年批准并以鲁塞尼亚语印行的第三部《立陶宛法典》捍卫了大公国在联邦内的独立法律秩序，某些条款甚至无视卢布林联合的规定。它是三部法典中最著名的一部，后被译成波兰语，一直沿用到1840年。",
+    "ja": "1588年に承認されルーシ語で印刷された第三リトアニア法典は、共和国内での大公国独自の法秩序を守り、一部ではルブリン合同の条件を無視さえした。三つの法典のうち最も名高いもので、のちにポーランド語にも訳され、1840年まで効力を保った。"
+   }
+  },
+  {
+   "year": 1599,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Daukša's Postil defends the Lithuanian language",
+    "ko": "다우크샤의 설교집, 리투아니아어를 옹호",
+    "zh": "道克沙的《讲道集》捍卫立陶宛语",
+    "ja": "ダウクシャの説教集がリトアニア語を擁護"
+   },
+   "description": {
+    "en": "In 1599 the canon Mikalojus Daukša published in Vilnius a Lithuanian translation of a Catholic book of sermons, the Postil. In its Polish-language preface he urged the nobility to use and cultivate Lithuanian, arguing that a nation lives through its own language, at a time when the elite was adopting Polish.",
+    "ko": "1599년 참사회원 미칼로유스 다우크샤는 빌뉴스에서 가톨릭 설교집 『포스틸레』의 리투아니아어 번역본을 펴냈다. 그는 엘리트층이 폴란드어를 받아들이던 시기에, 폴란드어로 쓴 서문에서 민족은 자신의 언어를 통해 살아간다며 귀족들에게 리투아니아어를 사용하고 가꾸라고 촉구했다.",
+    "zh": "1599年，教士米卡洛尤斯·道克沙在维尔纽斯出版了天主教讲道集《讲道集》（Postilė）的立陶宛语译本。当时上层社会正日益采用波兰语，他在以波兰语写的序言中敦促贵族使用和培育立陶宛语，认为一个民族靠自己的语言而存续。",
+    "ja": "1599年、聖堂参事会員ミカロユス・ダウクシャはヴィリニュスでカトリックの説教集『ポスティレ』のリトアニア語訳を出版した。エリート層がポーランド語を取り入れつつあった時代に、彼はポーランド語で書いた序文で、民族は自らの言語によって生きると説き、貴族たちにリトアニア語を用い育てるよう訴えた。"
+   }
+  },
+  {
+   "year": 1655,
+   "qid": "Q4087367",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Muscovite capture of Vilnius and the Union of Kėdainiai",
+    "ko": "모스크바군의 빌뉴스 점령과 케다이니아이 연합",
+    "zh": "莫斯科军攻占维尔纽斯与凯代尼艾联合",
+    "ja": "モスクワ軍のヴィリニュス占領とケダイニャイ合同"
+   },
+   "description": {
+    "en": "In August 1655 Russian and Cossack forces captured Vilnius, the first time the capital fell to a foreign army; the city was looted and burned. At the same time, as Sweden invaded the Commonwealth, the magnate Janusz Radziwiłł signed the Union of Kėdainiai placing Lithuania under Swedish protection. The 'Deluge' of wars that followed devastated the country.",
+    "ko": "1655년 8월 러시아군과 코사크군이 빌뉴스를 점령했는데, 수도가 외국 군대에 함락된 것은 처음이었으며 도시는 약탈당하고 불탔다. 같은 시기 스웨덴이 연방을 침공하자 대귀족 야누시 라지비우는 리투아니아를 스웨덴의 보호 아래 두는 케다이니아이 연합에 서명했다. 이어진 전쟁의 '대홍수'는 나라를 황폐화했다.",
+    "zh": "1655年8月，俄军和哥萨克军攻占维尔纽斯，这是首都首次落入外国军队之手，城市遭到洗劫和焚毁。与此同时，在瑞典入侵联邦之际，大贵族雅努什·拉齐维尔签订《凯代尼艾联合》，将立陶宛置于瑞典保护之下。随后的“大洪水”战争使国家满目疮痍。",
+    "ja": "1655年8月、ロシア軍とコサック軍がヴィリニュスを占領した。首都が外国軍の手に落ちたのは初めてで、町は略奪され焼かれた。同じ頃スウェーデンが共和国に侵攻すると、大貴族ヤヌシュ・ラジヴィウはリトアニアをスウェーデンの保護下に置くケダイニャイ合同に調印した。続く戦争の「大洪水」は国土を荒廃させた。"
+   }
+  },
+  {
+   "year": 1656,
+   "qid": "Q1502680",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Truce of Vilnius",
+    "ko": "빌뉴스 휴전",
+    "zh": "维尔纽斯停战协定",
+    "ja": "ヴィリニュス休戦"
+   },
+   "description": {
+    "en": "In November 1656 the Commonwealth and the Tsardom of Russia concluded the Truce of Vilnius, suspending their war in order to turn against Sweden. Russian troops nevertheless continued to hold Vilnius until the city was retaken by Commonwealth forces in 1661.",
+    "ko": "1656년 11월 연방과 러시아 차르국은 빌뉴스 휴전을 맺고 스웨덴에 맞서기 위해 서로의 전쟁을 중단했다. 그럼에도 러시아군은 1661년 연방군이 도시를 탈환할 때까지 빌뉴스를 계속 점령했다.",
+    "zh": "1656年11月，波兰立陶宛联邦与俄罗斯沙皇国签订《维尔纽斯停战协定》，暂停双方战争以共同对付瑞典。然而俄军仍继续占据维尔纽斯，直到1661年该城被联邦军队收复。",
+    "ja": "1656年11月、共和国とロシア・ツァーリ国はヴィリニュス休戦を結び、スウェーデンに対抗するため互いの戦争を停止した。それでもロシア軍は、1661年に共和国軍が町を奪回するまでヴィリニュスを占拠し続けた。"
+   }
+  },
+  {
+   "year": 1700,
+   "qid": "Q4871943",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Olkieniki ends Sapieha dominance",
+    "ko": "올키에니키 전투, 사피에하 가문의 지배 종식",
+    "zh": "奥尔基耶尼基战役终结萨皮耶哈家族的支配",
+    "ja": "オルキェニキの戦いでサピエハ家の支配が終わる"
+   },
+   "description": {
+    "en": "In November 1700, at Valkininkai (Olkieniki), an alliance of Lithuanian nobles defeated the forces of the powerful Sapieha family, which had dominated the Grand Duchy. The civil war weakened Lithuania on the eve of the Great Northern War, which soon brought Swedish, Saxon and Russian armies onto its soil.",
+    "ko": "1700년 11월 발키닌카이(올키에니키)에서 리투아니아 귀족 동맹군이 대공국을 좌우하던 유력 가문 사피에하의 군대를 격파했다. 이 내전은 대북방 전쟁 직전 리투아니아를 약화시켰고, 곧 스웨덴·작센·러시아 군대가 이 땅에 들어왔다.",
+    "zh": "1700年11月，立陶宛贵族联盟在瓦尔基宁凯（奥尔基耶尼基）击败了长期支配大公国的萨皮耶哈家族军队。这场内战在大北方战争前夕削弱了立陶宛，不久瑞典、萨克森和俄国军队相继开进这片土地。",
+    "ja": "1700年11月、ヴァルキニンカイ（オルキェニキ）でリトアニア貴族の同盟軍が、大公国を牛耳っていた有力家門サピエハ家の軍を破った。この内戦は大北方戦争の直前にリトアニアを弱体化させ、まもなくスウェーデン・ザクセン・ロシアの軍がこの地に入った。"
+   }
+  },
+  {
+   "year": 1710,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Great Northern War plague",
+    "ko": "대북방 전쟁기의 페스트",
+    "zh": "大北方战争时期的鼠疫",
+    "ja": "大北方戦争期のペスト"
+   },
+   "description": {
+    "en": "Between about 1709 and 1711, amid the devastation of the Great Northern War, a plague epidemic swept through Lithuania and neighboring Prussia, killing a large part of the population. Together with famine and war, it left many villages empty, especially in Lithuania Minor, where colonists were later brought in to resettle the land.",
+    "ko": "1709년부터 1711년 무렵까지 대북방 전쟁의 참화 속에 페스트가 리투아니아와 이웃 프로이센을 휩쓸어 인구의 상당 부분이 목숨을 잃었다. 기근과 전쟁이 겹쳐 많은 마을이 텅 비었으며, 특히 소리투아니아에서는 이후 땅을 다시 채우기 위해 이주민이 들어왔다.",
+    "zh": "约1709年至1711年间，在大北方战争的浩劫中，一场鼠疫席卷立陶宛和邻近的普鲁士，夺去了大部分人口的生命。加上饥荒和战乱，许多村庄人去村空，尤其是小立陶宛，后来当局引入移民重新开发这片土地。",
+    "ja": "1709年から1711年頃にかけて、大北方戦争の惨禍のなかでペストがリトアニアと隣接するプロイセンを襲い、人口の大きな部分が失われた。飢饉と戦争も重なって多くの村が無人となり、とりわけ小リトアニアでは、のちに土地を再び開くため入植者が呼び込まれた。"
+   }
+  },
+  {
+   "year": 1773,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Commission of National Education",
+    "ko": "국민교육위원회 설립",
+    "zh": "国民教育委员会成立",
+    "ja": "国民教育委員会の設立"
+   },
+   "description": {
+    "en": "After the dissolution of the Jesuit order in 1773, the Commonwealth created the Commission of National Education, often described as Europe's first ministry of education. It took over Jesuit schools and Vilnius University, which in 1781 became the Main School of the Grand Duchy of Lithuania, modernizing teaching in the sciences and in the national language.",
+    "ko": "1773년 예수회가 해산된 뒤 연방은 흔히 유럽 최초의 교육부로 일컬어지는 국민교육위원회를 설립했다. 위원회는 예수회 학교와 빌뉴스 대학교를 인수했고, 대학교는 1781년 리투아니아 대공국 중앙학교가 되어 과학과 자국어 교육을 근대화했다.",
+    "zh": "1773年耶稣会被解散后，联邦设立了国民教育委员会，常被称为欧洲第一个教育部。委员会接管了耶稣会学校和维尔纽斯大学，后者于1781年改为立陶宛大公国中央学校，推动了自然科学和本国语言教学的现代化。",
+    "ja": "1773年にイエズス会が解散されると、共和国はしばしばヨーロッパ初の文部省といわれる国民教育委員会を設けた。委員会はイエズス会の学校とヴィリニュス大学を引き継ぎ、大学は1781年にリトアニア大公国中央学校となって、自然科学や自国語の教育を近代化した。"
+   }
+  },
+  {
+   "year": 1791,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Constitution of 3 May and the Reciprocal Guarantee",
+    "ko": "5월 3일 헌법과 양국 상호 보장",
+    "zh": "《五三宪法》与《两国相互保证》",
+    "ja": "5月3日憲法と両国相互保証"
+   },
+   "description": {
+    "en": "The Constitution of 3 May 1791, one of the first modern written constitutions in Europe, reformed the Commonwealth into a hereditary constitutional monarchy. In October 1791 the Reciprocal Guarantee of Two Nations confirmed that Lithuania remained an equal partner with its own institutions. Opposed by Russia and conservative magnates, the reforms provoked the war of 1792 and the Second Partition.",
+    "ko": "1791년 5월 3일 헌법은 유럽 최초의 근대 성문 헌법 중 하나로, 연방을 세습 입헌 군주제로 개혁했다. 1791년 10월 '양국 상호 보장'은 리투아니아가 고유한 기구를 가진 대등한 동반자임을 확인했다. 러시아와 보수 대귀족의 반대 속에 이 개혁은 1792년 전쟁과 제2차 분할을 불러왔다.",
+    "zh": "1791年5月3日的宪法是欧洲最早的现代成文宪法之一，将联邦改革为世袭君主立宪制。1791年10月的《两国相互保证》确认立陶宛仍是拥有自身机构的平等伙伴。由于俄国和保守大贵族的反对，这些改革引发了1792年的战争和第二次瓜分。",
+    "ja": "1791年5月3日憲法はヨーロッパ最初期の近代成文憲法の一つで、共和国を世襲の立憲君主制に改革した。1791年10月の「両国相互保証」は、リトアニアが独自の機関をもつ対等な構成国であることを確認した。ロシアと保守的な大貴族の反対を受け、改革は1792年の戦争と第二次分割を招いた。"
+   }
+  },
+  {
+   "year": 1794,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Kościuszko Uprising in Lithuania",
+    "ko": "리투아니아의 코시치우슈코 봉기",
+    "zh": "立陶宛的科希丘什科起义",
+    "ja": "リトアニアにおけるコシチュシュコ蜂起"
+   },
+   "description": {
+    "en": "In April 1794 insurgents led by Jakub Jasiński seized Vilnius from its Russian garrison, joining the uprising led by Tadeusz Kościuszko against the partitioning powers. Fighting spread across Lithuania, but Russian forces retook Vilnius in August, and the defeat of the uprising led directly to the Third Partition.",
+    "ko": "1794년 4월 야쿠프 야신스키가 이끄는 봉기군이 러시아 수비대로부터 빌뉴스를 장악하며 타데우시 코시치우슈코가 주도한 분할 열강에 대한 봉기에 합류했다. 전투는 리투아니아 전역으로 번졌지만 러시아군이 8월 빌뉴스를 탈환했고, 봉기의 실패는 곧바로 제3차 분할로 이어졌다.",
+    "zh": "1794年4月，雅库布·亚辛斯基率领的起义者从俄国守军手中夺取维尔纽斯，加入塔德乌什·科希丘什科领导的反抗瓜分列强的起义。战斗蔓延到立陶宛各地，但俄军于8月收复维尔纽斯，起义失败直接导致了第三次瓜分。",
+    "ja": "1794年4月、ヤクプ・ヤシンスキ率いる蜂起軍がロシアの守備隊からヴィリニュスを奪い、タデウシュ・コシチュシュコが率いる分割列強への蜂起に加わった。戦闘はリトアニア全土に広がったが、ロシア軍が8月にヴィリニュスを奪回し、蜂起の失敗は第三次分割に直結した。"
+   }
+  },
+  {
+   "year": 1795,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Third Partition: Lithuania absorbed by Russia",
+    "ko": "제3차 분할 — 러시아 제국에 병합",
+    "zh": "第三次瓜分：立陶宛并入俄国",
+    "ja": "第三次分割でロシア領に"
+   },
+   "description": {
+    "en": "In the Third Partition of 1795, Russia, Prussia and Austria divided the remains of the Polish–Lithuanian Commonwealth. Almost all of Lithuania was annexed by the Russian Empire, while the lands west of the Nemunas (Suvalkija) went to Prussia. The Grand Duchy of Lithuania ceased to exist after more than five centuries, beginning some 120 years of Russian rule.",
+    "ko": "1795년 제3차 분할에서 러시아·프로이센·오스트리아는 폴란드-리투아니아 연방의 남은 영토를 나눠 가졌다. 리투아니아 거의 전역이 러시아 제국에 병합되었고, 네무나스강 서쪽 땅(수발키야)은 프로이센에 넘어갔다. 5세기 넘게 존속한 리투아니아 대공국은 사라졌고, 약 120년에 걸친 러시아 지배가 시작되었다.",
+    "zh": "在1795年的第三次瓜分中，俄国、普鲁士和奥地利瓜分了波兰立陶宛联邦的残余领土。立陶宛几乎全境并入俄罗斯帝国，涅曼河以西地区（苏瓦尔基亚）则归普鲁士。存续五个多世纪的立陶宛大公国就此消亡，约120年的俄国统治由此开始。",
+    "ja": "1795年の第三次分割で、ロシア・プロイセン・オーストリアはポーランド・リトアニア共和国の残りを分け合った。リトアニアのほぼ全域がロシア帝国に併合され、ネムナス川以西の地（スヴァルキヤ）はプロイセン領となった。5世紀以上続いたリトアニア大公国は消滅し、約120年にわたるロシア支配が始まった。"
+   }
+  },
+  {
+   "year": 1812,
+   "qid": "Q126088555",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Napoleon's army in Lithuania",
+    "ko": "리투아니아의 나폴레옹 군대",
+    "zh": "拿破仑大军在立陶宛",
+    "ja": "リトアニアのナポレオン軍"
+   },
+   "description": {
+    "en": "In June 1812 Napoleon's Grande Armée crossed the Nemunas near Kaunas to invade Russia and entered Vilnius, where Napoleon set up a provisional government of Lithuania. Many local nobles hoped for the restoration of the Grand Duchy. In December the starving remnants of the army retreated back through Vilnius, where thousands of soldiers died of cold and disease.",
+    "ko": "1812년 6월 나폴레옹의 대육군은 러시아를 침공하기 위해 카우나스 근처에서 네무나스강을 건너 빌뉴스에 입성했고, 나폴레옹은 그곳에 리투아니아 임시 정부를 세웠다. 많은 현지 귀족은 대공국의 부활을 기대했다. 12월 굶주린 대육군의 잔존 병력이 빌뉴스를 거쳐 퇴각했고, 수천 명의 병사가 추위와 질병으로 그곳에서 죽었다.",
+    "zh": "1812年6月，拿破仑的大军在考纳斯附近渡过涅曼河入侵俄国，并进入维尔纽斯，拿破仑在此设立了立陶宛临时政府。许多当地贵族期望大公国得以复国。12月，饥寒交迫的残军经维尔纽斯撤退，数以千计的士兵死于严寒和疾病。",
+    "ja": "1812年6月、ナポレオンの大陸軍はロシア侵攻のためカウナス近くでネムナス川を渡ってヴィリニュスに入り、ナポレオンはそこにリトアニア臨時政府を置いた。多くの地元貴族は大公国の復活を期待した。12月、飢えた大陸軍の残兵がヴィリニュスを通って退却し、数千人の兵士が寒さと病でそこで命を落とした。"
+   }
+  },
+  {
+   "year": 1818,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Donelaitis's The Seasons published",
+    "ko": "도넬라이티스의 『사계』 출간",
+    "zh": "多内拉伊蒂斯的《四季》出版",
+    "ja": "ドネライティスの『四季』刊行"
+   },
+   "description": {
+    "en": "In 1818 Ludwig Rhesa published in Königsberg The Seasons (Metai), a long poem written in the 18th century by Kristijonas Donelaitis, a Lutheran pastor in Lithuania Minor. Depicting the yearly life of Lithuanian peasants in hexameter verse, it is regarded as the first classic of Lithuanian literature.",
+    "ko": "1818년 루트비히 레자는 쾨니히스베르크에서 소리투아니아의 루터교 목사 크리스티요나스 도넬라이티스가 18세기에 쓴 장시 『사계(메타이)』를 출간했다. 리투아니아 농민의 한 해 생활을 육보격 운율로 그린 이 작품은 리투아니아 문학 최초의 고전으로 평가된다.",
+    "zh": "1818年，路德维希·雷萨在柯尼斯堡出版了小立陶宛路德宗牧师克里斯蒂约纳斯·多内拉伊蒂斯于18世纪写成的长诗《四季》（Metai）。这部以六步格诗体描绘立陶宛农民一年生活的作品被视为立陶宛文学的第一部经典。",
+    "ja": "1818年、ルートヴィヒ・レーザはケーニヒスベルクで、小リトアニアのルター派牧師クリスティヨナス・ドネライティスが18世紀に書いた長詩『四季（メタイ）』を刊行した。リトアニア農民の一年の暮らしを六脚韻で描いたこの作品は、リトアニア文学最初の古典とされる。"
+   }
+  },
+  {
+   "year": 1831,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "November Uprising spreads to Lithuania",
+    "ko": "11월 봉기가 리투아니아로 확산",
+    "zh": "十一月起义蔓延至立陶宛",
+    "ja": "十一月蜂起がリトアニアに波及"
+   },
+   "description": {
+    "en": "The uprising that broke out in Warsaw in November 1830 spread to Lithuania in the spring of 1831, when peasants and nobles rose in Samogitia and other regions; Emilija Pliaterytė (Emilia Plater) became a legendary figure. Russian troops crushed the revolt by the autumn, and repressions followed, including the closure of Vilnius University in 1832.",
+    "ko": "1830년 11월 바르샤바에서 일어난 봉기는 1831년 봄 리투아니아로 번져 사모기티아 등지에서 농민과 귀족이 들고일어났고, 에밀리야 플랴테리테(에밀리아 플라테르)는 전설적인 인물이 되었다. 러시아군은 가을까지 봉기를 진압했고, 1832년 빌뉴스 대학교 폐쇄를 비롯한 탄압이 뒤따랐다.",
+    "zh": "1830年11月在华沙爆发的起义于1831年春蔓延到立陶宛，萨莫吉希亚等地的农民和贵族纷纷起事，埃米莉亚·普利亚泰里泰（艾米莉亚·普拉特尔）成为传奇人物。俄军到秋天镇压了起义，随后实施镇压措施，包括1832年关闭维尔纽斯大学。",
+    "ja": "1830年11月にワルシャワで起きた蜂起は1831年春にリトアニアへ広がり、ジェマイティヤなどで農民と貴族が立ち上がった。エミリヤ・プリャテリテ（エミリア・プラテル）は伝説的な人物となった。ロシア軍は秋までに蜂起を鎮圧し、1832年のヴィリニュス大学閉鎖をはじめとする弾圧が続いた。"
+   }
+  },
+  {
+   "year": 1861,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Abolition of serfdom",
+    "ko": "농노제 폐지",
+    "zh": "废除农奴制",
+    "ja": "農奴制の廃止"
+   },
+   "description": {
+    "en": "Tsar Alexander II's emancipation reform of 1861 abolished serfdom across the Russian Empire, including Lithuania. Peasants gained personal freedom but had to pay for their land through redemption payments. The emergence of a free peasantry able to educate its children laid the social foundation of the Lithuanian national revival.",
+    "ko": "1861년 알렉산드르 2세의 해방 개혁으로 리투아니아를 포함한 러시아 제국 전역에서 농노제가 폐지되었다. 농민은 인신의 자유를 얻었지만 토지에 대해서는 상환금을 내야 했다. 자녀를 교육시킬 수 있는 자유로운 농민층의 등장은 리투아니아 민족 부흥의 사회적 토대가 되었다.",
+    "zh": "1861年沙皇亚历山大二世的解放改革在包括立陶宛在内的整个俄罗斯帝国废除了农奴制。农民获得了人身自由，但须以赎金购买土地。能够让子女受教育的自由农民阶层的出现，奠定了立陶宛民族复兴的社会基础。",
+    "ja": "1861年、皇帝アレクサンドル2世の解放改革により、リトアニアを含むロシア帝国全土で農奴制が廃止された。農民は人格的自由を得たが、土地については買い戻し金を払わねばならなかった。子どもに教育を受けさせられる自由な農民層の登場は、リトアニア民族復興の社会的基盤となった。"
+   }
+  },
+  {
+   "year": 1863,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "January Uprising in Lithuania",
+    "ko": "리투아니아의 1월 봉기",
+    "zh": "立陶宛的一月起义",
+    "ja": "リトアニアにおける一月蜂起"
+   },
+   "description": {
+    "en": "In 1863 the January Uprising against Russian rule spread from Poland to Lithuania, where it was led by figures such as the priest Antanas Mackevičius and Konstanty Kalinowski and gained wide peasant support. The governor-general Mikhail Muravyov suppressed it brutally with executions and deportations, and launched an intensive policy of Russification.",
+    "ko": "1863년 러시아 지배에 맞선 1월 봉기가 폴란드에서 리투아니아로 번졌다. 이곳에서는 안타나스 마츠케비치우스 신부와 콘스탄티 칼리노프스키 등이 봉기를 이끌었고 농민의 폭넓은 지지를 얻었다. 미하일 무라비요프 총독은 처형과 유배로 봉기를 잔혹하게 진압하고 강도 높은 러시아화 정책을 시작했다.",
+    "zh": "1863年，反抗俄国统治的一月起义从波兰蔓延到立陶宛，由神父安塔纳斯·马茨凯维丘斯和康斯坦丁·卡利诺夫斯基等人领导，得到农民的广泛支持。总督米哈伊尔·穆拉维约夫以处决和流放残酷镇压了起义，并开始推行强力的俄罗斯化政策。",
+    "ja": "1863年、ロシア支配に対する一月蜂起がポーランドからリトアニアへ広がった。ここでは司祭アンタナス・マツケヴィチュスやコンスタンティ・カリノフスキらが指導し、農民の幅広い支持を得た。総督ミハイル・ムラヴィヨフは処刑と流刑で蜂起を苛烈に鎮圧し、強力なロシア化政策を開始した。"
+   }
+  },
+  {
+   "year": 1864,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Lithuanian press ban and the book smugglers",
+    "ko": "리투아니아어 출판 금지와 '책 밀수꾼'",
+    "zh": "立陶宛语出版禁令与“运书人”",
+    "ja": "リトアニア語出版禁止と「本の密輸人」"
+   },
+   "description": {
+    "en": "After the 1863 uprising, Russian authorities banned the printing of Lithuanian books in the Latin alphabet, demanding Cyrillic instead. For four decades, until 1904, knygnešiai (book smugglers) carried Lithuanian books printed in East Prussia across the border, often risking prison or exile. Secret home schools and the smuggling network kept literacy and national identity alive.",
+    "ko": "1863년 봉기 이후 러시아 당국은 라틴 문자로 된 리투아니아어 책의 인쇄를 금지하고 키릴 문자를 강요했다. 1904년까지 40년 동안 크니그네샤이(책 밀수꾼)들은 동프로이센에서 인쇄된 리투아니아어 책을 투옥이나 유배를 무릅쓰고 국경 너머로 날랐다. 비밀 가정 학교와 밀수망이 문해력과 민족 정체성을 지켜 냈다.",
+    "zh": "1863年起义后，俄国当局禁止以拉丁字母印刷立陶宛语书籍，强行要求使用西里尔字母。直到1904年的四十年间，被称为“运书人”的人们冒着入狱或流放的危险，把在东普鲁士印刷的立陶宛语书籍偷运过境。秘密家庭学校和走私网络维系了识字率和民族认同。",
+    "ja": "1863年の蜂起後、ロシア当局はラテン文字によるリトアニア語書籍の印刷を禁じ、キリル文字を強制した。1904年までの40年間、クニグネシャイ（本の密輸人）たちは投獄や流刑の危険を冒して、東プロイセンで印刷されたリトアニア語の本を国境越しに運んだ。秘密の家庭学校と密輸網が識字と民族意識を守り抜いた。"
+   }
+  },
+  {
+   "year": 1883,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Aušra, the first Lithuanian national newspaper",
+    "ko": "최초의 민족 신문 『아우슈라』",
+    "zh": "首份立陶宛民族报纸《黎明》",
+    "ja": "初の民族新聞『アウシュラ』"
+   },
+   "description": {
+    "en": "In 1883 Jonas Basanavičius and other activists began publishing Aušra (The Dawn) in Ragnit and Tilsit in East Prussia, smuggling it into Russian-ruled Lithuania. Although it appeared only until 1886, the newspaper gave the national movement a voice, promoting pride in Lithuania's history and language among the emerging educated class.",
+    "ko": "1883년 요나스 바사나비치우스 등 활동가들은 동프로이센의 라그니트와 틸지트에서 『아우슈라(새벽)』를 발행하기 시작해 러시아 지배하의 리투아니아로 몰래 들여왔다. 1886년까지만 나왔지만 이 신문은 민족 운동의 목소리가 되어 새로 성장하던 지식층 사이에 리투아니아 역사와 언어에 대한 자긍심을 북돋웠다.",
+    "zh": "1883年，约纳斯·巴萨纳维丘斯等活动家在东普鲁士的拉格尼特和蒂尔西特创办《黎明》（Aušra），并将其偷运到俄国统治下的立陶宛。该报虽只出版到1886年，却为民族运动发出了声音，在新兴知识阶层中激发了对立陶宛历史和语言的自豪感。",
+    "ja": "1883年、ヨナス・バサナヴィチュスらの活動家は東プロイセンのラグニートとティルジットで『アウシュラ（夜明け）』の発行を始め、ロシア支配下のリトアニアへ密かに持ち込んだ。1886年までしか続かなかったが、この新聞は民族運動の声となり、成長しつつあった知識層にリトアニアの歴史と言語への誇りを育んだ。"
+   }
+  },
+  {
+   "year": 1889,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Varpas and the national anthem",
+    "ko": "『바르파스』와 국가(國歌)",
+    "zh": "《钟》报与国歌",
+    "ja": "『ヴァルパス』と国歌"
+   },
+   "description": {
+    "en": "In 1889 Vincas Kudirka and fellow students founded the newspaper Varpas (The Bell), which became the leading voice of the liberal wing of the national movement. In 1898 Kudirka published in it his poem 'Tautiška giesmė', which later became the national anthem of Lithuania.",
+    "ko": "1889년 빈차스 쿠디르카와 동료 학생들은 신문 『바르파스(종)』를 창간했고, 이 신문은 민족 운동 자유주의 진영의 대표적 목소리가 되었다. 1898년 쿠디르카는 이 신문에 시 「민족의 노래(타우티슈카 기에스메)」를 발표했는데, 이 노래는 훗날 리투아니아의 국가가 되었다.",
+    "zh": "1889年，温察斯·库迪尔卡与同学创办了《钟》（Varpas）报，该报成为民族运动自由派的主要喉舌。1898年库迪尔卡在报上发表了诗作《民族之歌》，后来成为立陶宛国歌。",
+    "ja": "1889年、ヴィンツァス・クディルカと学友たちは新聞『ヴァルパス（鐘）』を創刊し、同紙は民族運動の自由主義派を代表する声となった。1898年、クディルカは同紙に詩「民族の歌（タウティシュカ・ギェスメ）」を発表し、これはのちにリトアニア国歌となった。"
+   }
+  },
+  {
+   "year": 1904,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Press ban lifted",
+    "ko": "출판 금지 해제",
+    "zh": "出版禁令解除",
+    "ja": "出版禁止の解除"
+   },
+   "description": {
+    "en": "In 1904, having failed to impose Cyrillic, the Russian government lifted the 40-year ban on Lithuanian printing in the Latin alphabet. The first legal Lithuanian daily newspaper, Vilniaus žinios, began appearing in Vilnius in December 1904, and Lithuanian publishing, theater and societies flourished in the following years.",
+    "ko": "키릴 문자 강요에 실패한 러시아 정부는 1904년 라틴 문자 리투아니아어 출판에 대한 40년간의 금지를 해제했다. 1904년 12월 빌뉴스에서 최초의 합법 리투아니아어 일간지 『빌니아우스 지니오스』가 발행되기 시작했고, 이후 리투아니아어 출판과 연극, 각종 단체가 꽃을 피웠다.",
+    "zh": "强推西里尔字母失败后，俄国政府于1904年解除了长达40年的拉丁字母立陶宛语出版禁令。1904年12月，第一份合法的立陶宛语日报《维尔纽斯新闻》在维尔纽斯创刊，此后立陶宛语出版、戏剧和各类社团蓬勃发展。",
+    "ja": "キリル文字の強制に失敗したロシア政府は、1904年にラテン文字によるリトアニア語出版の40年に及ぶ禁止を解除した。1904年12月には最初の合法的なリトアニア語日刊紙『ヴィルニャウス・ジニオス』がヴィリニュスで創刊され、その後リトアニア語の出版、演劇、各種団体が花開いた。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Great Seimas of Vilnius",
+    "ko": "빌뉴스 대의회",
+    "zh": "维尔纽斯大议会",
+    "ja": "ヴィリニュス大セイマス"
+   },
+   "description": {
+    "en": "During the Russian Revolution of 1905, about 2,000 delegates from across Lithuania gathered in Vilnius in December at the Great Seimas. They demanded broad political autonomy for Lithuania within its ethnographic borders, with a parliament elected by universal suffrage, and called for boycotts of tsarist institutions. It was the first modern national congress of Lithuanians.",
+    "ko": "1905년 러시아 혁명 와중인 12월, 리투아니아 전역에서 약 2천 명의 대표가 빌뉴스 대의회에 모였다. 이들은 민족지적 경계 안에서 보통선거로 뽑힌 의회를 갖춘 리투아니아의 폭넓은 정치적 자치를 요구했고, 차르 체제 기관에 대한 보이콧을 촉구했다. 이는 리투아니아인 최초의 근대적 민족 대회였다.",
+    "zh": "1905年俄国革命期间，约2000名来自立陶宛各地的代表于12月聚集在维尔纽斯召开大议会。他们要求立陶宛在其民族地域范围内实行广泛的政治自治，设立由普选产生的议会，并号召抵制沙皇政权机构。这是立陶宛人的第一次现代民族大会。",
+    "ja": "1905年のロシア革命のさなか、12月にリトアニア各地から約2000人の代表がヴィリニュス大セイマスに集まった。彼らは民族誌的な境界内でのリトアニアの広範な政治的自治と普通選挙による議会を要求し、帝政機関のボイコットを呼びかけた。これはリトアニア人による最初の近代的な民族会議であった。"
+   }
+  },
+  {
+   "year": 1915,
+   "qid": "Q115819774",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Kaunas fortress and German occupation",
+    "ko": "카우나스 요새 함락과 독일 점령",
+    "zh": "考纳斯要塞陷落与德国占领",
+    "ja": "カウナス要塞の陥落とドイツ占領"
+   },
+   "description": {
+    "en": "In August 1915 the German army captured the heavily fortified Kaunas (Kovno) fortress after a short siege, and in September took Vilnius. All of Lithuania came under German military administration in the Ober Ost territory. Hundreds of thousands of residents had been evacuated or had fled into Russia.",
+    "ko": "1915년 8월 독일군은 짧은 포위 끝에 견고하게 요새화된 카우나스(코브노) 요새를 함락시켰고, 9월에는 빌뉴스를 점령했다. 리투아니아 전역이 오버 오스트 지역의 독일 군정 아래 들어갔다. 수십만 명의 주민이 이미 러시아로 소개되거나 피란한 상태였다.",
+    "zh": "1915年8月，德军经过短暂围攻攻克了防御坚固的考纳斯（科夫诺）要塞，9月又占领维尔纽斯。立陶宛全境被置于德国“东方总司令部辖区”的军政管理之下。数十万居民此前已被疏散或逃往俄国。",
+    "ja": "1915年8月、ドイツ軍は短い包囲の末に堅固に要塞化されたカウナス（コヴノ）要塞を陥落させ、9月にはヴィリニュスを占領した。リトアニア全域がオーバー・オスト地域のドイツ軍政下に入った。数十万人の住民はすでにロシアへ疎開または避難していた。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Vilnius Conference elects the Council of Lithuania",
+    "ko": "빌뉴스 회의, 리투아니아 평의회 선출",
+    "zh": "维尔纽斯会议选出立陶宛理事会",
+    "ja": "ヴィリニュス会議がリトアニア評議会を選出"
+   },
+   "description": {
+    "en": "In September 1917, with German permission, about 200 Lithuanian delegates met at the Vilnius Conference and elected the 20-member Council of Lithuania (Taryba), chaired by Antanas Smetona. The conference called for an independent Lithuanian state, and the Council became the body that would declare independence.",
+    "ko": "1917년 9월 독일의 허가 아래 약 200명의 리투아니아 대표가 빌뉴스 회의에 모여 안타나스 스메토나를 의장으로 하는 20명의 리투아니아 평의회(타리바)를 선출했다. 회의는 독립 리투아니아 국가 수립을 요구했고, 평의회는 독립을 선언할 기구가 되었다.",
+    "zh": "1917年9月，经德国许可，约200名立陶宛代表召开维尔纽斯会议，选出了以安塔纳斯·斯梅托纳为主席的20人立陶宛理事会（塔里巴）。会议呼吁建立独立的立陶宛国家，理事会日后成为宣布独立的机构。",
+    "ja": "1917年9月、ドイツの許可のもと約200人のリトアニア代表がヴィリニュス会議に集まり、アンタナス・スメトナを議長とする20人のリトアニア評議会（タリバ）を選出した。会議は独立リトアニア国家の樹立を求め、評議会は独立を宣言する機関となった。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": "Q166981",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Act of Independence restores Lithuanian statehood",
+    "ko": "독립법으로 국가 재건 선포",
+    "zh": "《独立法案》恢复立陶宛国家地位",
+    "ja": "独立法によって国家を再興"
+   },
+   "description": {
+    "en": "On 16 February 1918 the twenty members of the Council of Lithuania, meeting in Vilnius under German occupation, signed the Act of Independence proclaiming the restoration of an independent, democratic Lithuanian state with Vilnius as its capital. 16 February is celebrated as the Day of Restoration of the State of Lithuania.",
+    "ko": "1918년 2월 16일 독일 점령하의 빌뉴스에 모인 리투아니아 평의회 위원 20명은 빌뉴스를 수도로 하는 독립 민주 리투아니아 국가의 재건을 선포하는 독립법에 서명했다. 2월 16일은 '리투아니아 국가 재건의 날'로 기념된다.",
+    "zh": "1918年2月16日，在德国占领下的维尔纽斯，立陶宛理事会的20名成员签署《独立法案》，宣布恢复以维尔纽斯为首都的独立民主的立陶宛国家。2月16日被定为“立陶宛国家恢复日”。",
+    "ja": "1918年2月16日、ドイツ占領下のヴィリニュスに集まったリトアニア評議会の20人の委員は、ヴィリニュスを首都とする独立した民主的リトアニア国家の再建を宣言する独立法に署名した。2月16日は「リトアニア国家再建の日」として祝われている。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": "Q612359",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Brief Kingdom of Lithuania",
+    "ko": "단명한 리투아니아 왕국",
+    "zh": "短暂的立陶宛王国",
+    "ja": "短命のリトアニア王国"
+   },
+   "description": {
+    "en": "Seeking to escape annexation by Germany, the Council of Lithuania in July 1918 offered the throne to the German Duke Wilhelm of Urach, who was elected as King Mindaugas II. He never came to Lithuania, and in November 1918, after Germany's defeat, the Council revoked the decision and chose a republican form of government.",
+    "ko": "독일에 병합되는 것을 피하려던 리투아니아 평의회는 1918년 7월 독일의 우라흐 공작 빌헬름에게 왕위를 제안했고, 그는 민다우가스 2세로 선출되었다. 그는 리투아니아에 오지 않았으며, 1918년 11월 독일이 패전하자 평의회는 결정을 철회하고 공화정을 택했다.",
+    "zh": "为避免被德国吞并，立陶宛理事会于1918年7月把王位献给德国的乌拉赫公爵威廉，他被选为国王明道加斯二世。他从未到过立陶宛；1918年11月德国战败后，理事会撤销了这一决定，选择了共和政体。",
+    "ja": "ドイツへの併合を避けようとしたリトアニア評議会は、1918年7月にドイツのウラッハ公ヴィルヘルムに王位を提供し、彼はミンダウガス2世として選ばれた。彼はリトアニアに来ることはなく、1918年11月のドイツ敗戦後、評議会は決定を撤回して共和制を選んだ。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": "Q16469345",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Republic of Perloja",
+    "ko": "페를로야 공화국",
+    "zh": "佩尔洛亚共和国",
+    "ja": "ペルロヤ共和国"
+   },
+   "description": {
+    "en": "In the chaotic period after the First World War, villagers of Perloja in southern Lithuania declared their own self-governing republic, with a militia and administration, to resist Polish and other forces. The village micro-republic is usually dated 1918–1923 and is remembered as a colorful episode of local resistance in the contested borderland.",
+    "ko": "제1차 세계대전 후의 혼란기에 리투아니아 남부 페를로야 마을 주민들은 폴란드군 등에 맞서기 위해 민병대와 행정 조직을 갖춘 자치 공화국을 선포했다. 이 마을 공화국은 대개 1918~1923년으로 보며, 분쟁 국경 지대의 지역 저항을 보여 주는 이색적인 일화로 기억된다.",
+    "zh": "第一次世界大战后的混乱时期，立陶宛南部佩尔洛亚村的村民宣布成立拥有民兵和行政机构的自治共和国，以抵抗波兰等方面的武装。这一村庄微型共和国通常被认为存在于1918—1923年，是争议边境地区地方抵抗的一段别具特色的插曲。",
+    "ja": "第一次世界大戦後の混乱期、リトアニア南部ペルロヤ村の住民は、ポーランド軍などに抵抗するため、民兵と行政組織をもつ自治共和国を宣言した。この村の小共和国はふつう1918～1923年とされ、係争の国境地帯における地域的抵抗の異色の一幕として記憶されている。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": "Q2742886",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Lithuanian Wars of Independence",
+    "ko": "리투아니아 독립 전쟁",
+    "zh": "立陶宛独立战争",
+    "ja": "リトアニア独立戦争"
+   },
+   "description": {
+    "en": "From late 1918 to 1920 the newly formed Lithuanian army, aided by volunteers, fought the Red Army, the West Russian Volunteer Army (Bermontians) and Poland. Lithuanian forces pushed back the Soviets in 1919, including at Radviliškis and Kėdainiai, and defeated the Bermontians that autumn, securing the core of the state.",
+    "ko": "1918년 말부터 1920년까지 새로 창설된 리투아니아군은 의용병의 도움을 받아 붉은 군대, 서러시아 의용군(베르몬트군), 폴란드와 싸웠다. 리투아니아군은 1919년 라드빌리슈키스와 케다이니아이 등에서 소련군을 밀어냈고 그해 가을 베르몬트군을 격파하여 국가의 중심부를 지켜 냈다.",
+    "zh": "1918年底至1920年，新组建的立陶宛军队在志愿者的协助下，先后与红军、西俄罗斯志愿军（贝尔蒙特军）和波兰作战。1919年立陶宛军队在拉德维利什基斯和凯代尼艾等地击退苏军，同年秋又击败贝尔蒙特军，保住了国家的核心地区。",
+    "ja": "1918年末から1920年にかけて、新たに創設されたリトアニア軍は義勇兵の助けを得て、赤軍、西ロシア義勇軍（ベルモント軍）、ポーランドと戦った。リトアニア軍は1919年にラドヴィリシュキスやケダイニャイなどでソビエト軍を押し返し、同年秋にはベルモント軍を破って国家の中核を守った。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Treaty of Moscow and the loss of Vilnius",
+    "ko": "모스크바 조약과 빌뉴스 상실",
+    "zh": "《莫斯科和约》与失去维尔纽斯",
+    "ja": "モスクワ条約とヴィリニュスの喪失"
+   },
+   "description": {
+    "en": "In July 1920 Soviet Russia recognized Lithuania's independence in the Treaty of Moscow, including its claim to Vilnius. But in October 1920 Polish troops under General Żeligowski, staging a 'mutiny' approved by Józef Piłsudski, seized Vilnius and created the Republic of Central Lithuania, later annexed by Poland. Lithuania moved its capital to Kaunas and the Vilnius question poisoned relations with Poland for two decades.",
+    "ko": "1920년 7월 소비에트 러시아는 모스크바 조약에서 빌뉴스에 대한 권리를 포함해 리투아니아의 독립을 인정했다. 그러나 1920년 10월 유제프 피우수트스키의 승인 아래 '반란'을 연출한 젤리고프스키 장군의 폴란드군이 빌뉴스를 점령해 중부 리투아니아 공화국을 세웠고, 이는 훗날 폴란드에 병합되었다. 리투아니아는 수도를 카우나스로 옮겼고, 빌뉴스 문제는 20년간 폴란드와의 관계를 해쳤다.",
+    "zh": "1920年7月，苏俄在《莫斯科和约》中承认立陶宛独立，包括其对维尔纽斯的主权。但1920年10月，热利戈夫斯基将军的波兰军队在约瑟夫·毕苏斯基的默许下上演“兵变”，占领维尔纽斯并建立“中立陶宛共和国”，后被波兰吞并。立陶宛将首都迁至考纳斯，维尔纽斯问题此后二十年一直毒化两国关系。",
+    "ja": "1920年7月、ソビエト・ロシアはモスクワ条約でヴィリニュスへの権利を含むリトアニアの独立を承認した。しかし1920年10月、ユゼフ・ピウスツキの承認のもとで「反乱」を演出したジェリゴフスキ将軍のポーランド軍がヴィリニュスを占領して中部リトアニア共和国を作り、のちにポーランドに併合された。リトアニアは首都をカウナスに移し、ヴィリニュス問題は20年にわたってポーランドとの関係を損なった。"
+   }
+  },
+  {
+   "year": 1922,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Constitution, land reform and the litas",
+    "ko": "헌법, 토지 개혁, 리타스",
+    "zh": "宪法、土地改革与立特",
+    "ja": "憲法・土地改革・リタス"
+   },
+   "description": {
+    "en": "In 1922 the Constituent Assembly adopted a democratic constitution and a land reform law that broke up large estates, many owned by Polish-speaking nobles, and distributed land to peasants and veterans. The same year Lithuania introduced its own currency, the litas, which remained stable through most of the interwar period.",
+    "ko": "1922년 제헌의회는 민주 헌법과 함께, 상당수가 폴란드어 사용 귀족 소유였던 대농장을 해체해 농민과 참전 군인에게 토지를 나눠 주는 토지 개혁법을 채택했다. 같은 해 리투아니아는 자국 통화 리타스를 도입했는데, 리타스는 전간기 대부분 동안 안정을 유지했다.",
+    "zh": "1922年，立宪会议通过了民主宪法和土地改革法，拆分了许多属于讲波兰语贵族的大庄园，把土地分配给农民和退伍军人。同年立陶宛发行本国货币立特，该货币在两次大战之间的大部分时期保持稳定。",
+    "ja": "1922年、制憲議会は民主的な憲法と、ポーランド語を話す貴族の所有が多かった大所領を解体して農民や退役軍人に土地を分配する土地改革法を採択した。同年リトアニアは独自通貨リタスを導入し、リタスは戦間期の大半を通じて安定を保った。"
+   }
+  },
+  {
+   "year": 1923,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Klaipėda Revolt and the Memel Territory",
+    "ko": "클라이페다 봉기와 메멜 지역 편입",
+    "zh": "克莱佩达起义与梅梅尔地区并入",
+    "ja": "クライペダ蜂起とメーメル地方の編入"
+   },
+   "description": {
+    "en": "Detached from Germany by the Treaty of Versailles and administered by France for the Allies, the Memel Territory was seized in January 1923 by Lithuanian volunteers and local insurgents in an operation covertly organized by the Lithuanian government. The Allies accepted the fait accompli, and the 1924 Klaipėda Convention made it an autonomous region of Lithuania, giving the country its only major seaport.",
+    "ko": "베르사유 조약으로 독일에서 분리되어 연합국을 대신해 프랑스가 관리하던 메멜 지역은, 1923년 1월 리투아니아 정부가 은밀히 조직한 작전으로 리투아니아 의용병과 현지 봉기 세력에 의해 장악되었다. 연합국은 기정사실을 받아들였고, 1924년 클라이페다 협약으로 이 지역은 리투아니아의 자치 지역이 되어 리투아니아는 유일한 주요 항구를 얻었다.",
+    "zh": "根据《凡尔赛和约》从德国分离出来、由法国代表协约国管理的梅梅尔地区，于1923年1月被立陶宛志愿者和当地起义者占领，这一行动由立陶宛政府秘密策划。协约国接受了既成事实，1924年的《克莱佩达公约》使其成为立陶宛的自治区，立陶宛由此获得唯一的重要海港。",
+    "ja": "ヴェルサイユ条約でドイツから切り離され、連合国に代わってフランスが管理していたメーメル地方は、1923年1月、リトアニア政府がひそかに組織した作戦によってリトアニアの義勇兵と現地の蜂起勢力に掌握された。連合国は既成事実を受け入れ、1924年のクライペダ協定でこの地は自治地域としてリトアニアに属し、リトアニアは唯一の主要港を得た。"
+   }
+  },
+  {
+   "year": 1926,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Coup d'état brings Smetona to power",
+    "ko": "쿠데타로 스메토나 집권",
+    "zh": "政变使斯梅托纳上台",
+    "ja": "クーデターでスメトナが政権に"
+   },
+   "description": {
+    "en": "In December 1926 army officers overthrew the elected left-of-center government of President Kazys Grinius. Antanas Smetona of the Nationalist Union became president and gradually established an authoritarian regime, dissolving parliament in 1927 and ruling until the Soviet occupation in 1940.",
+    "ko": "1926년 12월 군 장교들이 카지스 그리니우스 대통령의 선출된 중도좌파 정부를 전복했다. 민족주의 연합의 안타나스 스메토나가 대통령이 되어 점차 권위주의 체제를 구축했고, 1927년 의회를 해산한 뒤 1940년 소련 점령 때까지 통치했다.",
+    "zh": "1926年12月，军官推翻了卡济斯·格里纽斯总统领导的经选举产生的中左翼政府。民族主义联盟的安塔纳斯·斯梅托纳出任总统，逐步建立威权政权，1927年解散议会，一直执政到1940年苏联占领。",
+    "ja": "1926年12月、軍の将校たちがカジス・グリニュス大統領の選挙で選ばれた中道左派政府を倒した。民族主義者連合のアンタナス・スメトナが大統領となって徐々に権威主義体制を築き、1927年に議会を解散して、1940年のソ連占領まで統治した。"
+   }
+  },
+  {
+   "year": 1933,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "The Lituanica transatlantic flight",
+    "ko": "대서양 횡단 비행 '리투아니카'",
+    "zh": "“立陶宛尼卡号”跨大西洋飞行",
+    "ja": "大西洋横断飛行「リトゥアニカ」"
+   },
+   "description": {
+    "en": "In July 1933 the Lithuanian-American pilots Steponas Darius and Stasys Girėnas attempted a nonstop flight from New York to Kaunas in the airplane Lituanica. After crossing the Atlantic, they crashed in Germany and were killed. Their flight became a powerful symbol of national pride, and their portraits later appeared on the 10-litas banknote.",
+    "ko": "1933년 7월 리투아니아계 미국인 조종사 스테포나스 다리우스와 스타시스 기레나스는 비행기 '리투아니카'로 뉴욕에서 카우나스까지 무착륙 비행을 시도했다. 대서양을 건넌 뒤 이들은 독일에서 추락해 숨졌다. 이 비행은 민족적 자긍심의 강력한 상징이 되었고, 두 사람의 초상은 훗날 10리타스 지폐에 실렸다.",
+    "zh": "1933年7月，立陶宛裔美国飞行员斯特波纳斯·达柳斯和斯塔西斯·吉雷纳斯驾驶“立陶宛尼卡号”尝试从纽约直飞考纳斯。飞越大西洋后，他们在德国坠机身亡。这次飞行成为民族自豪感的有力象征，两人的肖像后来印上了10立特纸币。",
+    "ja": "1933年7月、リトアニア系アメリカ人の飛行士ステポナス・ダリュスとスタシス・ギレナスは、飛行機「リトゥアニカ」でニューヨークからカウナスへの無着陸飛行に挑んだ。大西洋を越えた後、二人はドイツで墜落して死亡した。この飛行は民族の誇りの強い象徴となり、二人の肖像はのちに10リタス紙幣に描かれた。"
+   }
+  },
+  {
+   "year": 1937,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "European basketball champions",
+    "ko": "유럽 농구 선수권 우승",
+    "zh": "夺得欧洲篮球锦标赛冠军",
+    "ja": "欧州バスケットボール選手権で優勝"
+   },
+   "description": {
+    "en": "Lithuania, whose team included Lithuanian-American players, won the European Basketball Championship in Riga in 1937 and won again at home in Kaunas in 1939, for which the Kaunas Sports Hall was built. These victories made basketball Lithuania's national sport and a lasting part of its identity.",
+    "ko": "리투아니아계 미국인 선수들이 포함된 리투아니아 대표팀은 1937년 리가에서 열린 유럽 농구 선수권 대회에서 우승했고, 1939년에는 이를 위해 카우나스 체육관을 지은 홈 대회에서 다시 우승했다. 이 승리들로 농구는 리투아니아의 국민 스포츠이자 정체성의 일부가 되었다.",
+    "zh": "立陶宛队（阵中有立陶宛裔美国球员）于1937年在里加夺得欧洲篮球锦标赛冠军，1939年又在考纳斯主场卫冕，考纳斯体育馆正是为此而建。这些胜利使篮球成为立陶宛的国民运动和民族认同的一部分。",
+    "ja": "リトアニア系アメリカ人選手を含むリトアニア代表は1937年にリガで開かれた欧州バスケットボール選手権で優勝し、1939年にはそのためにカウナス・スポーツホールが建てられた地元大会でも再び優勝した。これらの勝利によりバスケットボールはリトアニアの国民的スポーツとなり、アイデンティティの一部となった。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Polish ultimatum restores relations",
+    "ko": "폴란드의 최후통첩과 국교 수립",
+    "zh": "波兰最后通牒迫使建交",
+    "ja": "ポーランドの最後通牒と国交樹立"
+   },
+   "description": {
+    "en": "After a border incident in March 1938, Poland issued an ultimatum demanding that Lithuania establish diplomatic relations, which it had refused since the loss of Vilnius. Lithuania accepted within 48 hours, effectively, though not formally, abandoning its demand for the return of Vilnius in the short term.",
+    "ko": "1938년 3월 국경 사건 이후 폴란드는 빌뉴스 상실 이래 거부해 온 외교 관계 수립을 요구하는 최후통첩을 리투아니아에 보냈다. 리투아니아는 48시간 안에 이를 수락했고, 공식적이지는 않지만 사실상 당분간 빌뉴스 반환 요구를 접게 되었다.",
+    "zh": "1938年3月发生边境事件后，波兰向立陶宛发出最后通牒，要求建立自失去维尔纽斯以来立陶宛一直拒绝的外交关系。立陶宛在48小时内接受，虽未正式但实际上在短期内放弃了收回维尔纽斯的要求。",
+    "ja": "1938年3月の国境事件の後、ポーランドはヴィリニュス喪失以来リトアニアが拒んできた外交関係の樹立を求める最後通牒を発した。リトアニアは48時間以内にこれを受け入れ、正式ではないものの当面はヴィリニュス返還要求を事実上取り下げることになった。"
+   }
+  },
+  {
+   "year": 1939,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Loss of Klaipėda, return of Vilnius",
+    "ko": "클라이페다 상실과 빌뉴스 반환",
+    "zh": "失去克莱佩达，收回维尔纽斯",
+    "ja": "クライペダの喪失とヴィリニュスの返還"
+   },
+   "description": {
+    "en": "In March 1939 Nazi Germany forced Lithuania by ultimatum to cede the Klaipėda Region. After the Soviet invasion of Poland, the Soviet–Lithuanian Mutual Assistance Treaty of October 1939 transferred Vilnius and part of its region to Lithuania, but obliged the country to accept some 20,000 Soviet troops on its soil.",
+    "ko": "1939년 3월 나치 독일은 최후통첩으로 리투아니아에 클라이페다 지역의 할양을 강요했다. 소련이 폴란드를 침공한 뒤 1939년 10월 소련-리투아니아 상호 원조 조약으로 빌뉴스와 그 주변 일부가 리투아니아에 넘어왔지만, 리투아니아는 약 2만 명의 소련군 주둔을 받아들여야 했다.",
+    "zh": "1939年3月，纳粹德国以最后通牒迫使立陶宛割让克莱佩达地区。苏联入侵波兰后，1939年10月的《苏立互助条约》把维尔纽斯及其部分周边地区移交给立陶宛，但立陶宛必须接受约2万名苏军驻扎境内。",
+    "ja": "1939年3月、ナチス・ドイツは最後通牒によってリトアニアにクライペダ地方の割譲を強いた。ソ連のポーランド侵攻後、1939年10月のソ連・リトアニア相互援助条約でヴィリニュスとその周辺の一部がリトアニアに移されたが、リトアニアは約2万人のソ連軍の駐留を受け入れねばならなかった。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": "Q58473",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Soviet occupation and annexation",
+    "ko": "소련의 점령과 병합",
+    "zh": "苏联占领并吞并立陶宛",
+    "ja": "ソ連による占領と併合"
+   },
+   "description": {
+    "en": "Under the secret protocols of the Molotov–Ribbentrop Pact, the Soviet Union issued an ultimatum on 14 June 1940 and the Red Army occupied Lithuania the next day. After staged elections, a puppet 'People's Seimas' requested admission to the USSR, and Lithuania was annexed in August 1940. Arrests of political, military and civic leaders began at once, and most Western states never recognized the annexation.",
+    "ko": "몰로토프-리벤트로프 조약의 비밀 의정서에 따라 소련은 1940년 6월 14일 최후통첩을 보냈고, 이튿날 붉은 군대가 리투아니아를 점령했다. 연출된 선거 뒤 괴뢰 '인민 의회'가 소련 가입을 요청했고, 리투아니아는 1940년 8월 병합되었다. 정치·군사·시민 지도자에 대한 체포가 곧바로 시작되었으며, 대부분의 서방 국가는 이 병합을 인정하지 않았다.",
+    "zh": "根据《苏德互不侵犯条约》的秘密议定书，苏联于1940年6月14日发出最后通牒，次日红军占领立陶宛。经过一场操纵的选举，傀儡“人民议会”申请加入苏联，立陶宛于1940年8月被吞并。对政治、军事和社会领袖的逮捕随即展开，大多数西方国家从未承认这一吞并。",
+    "ja": "独ソ不可侵条約の秘密議定書に基づき、ソ連は1940年6月14日に最後通牒を突きつけ、翌日赤軍がリトアニアを占領した。演出された選挙の後、傀儡の「人民議会」がソ連への加盟を要請し、リトアニアは1940年8月に併合された。政治・軍事・市民の指導者の逮捕がただちに始まり、西側の多くの国はこの併合を承認しなかった。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Sugihara's 'visas for life' in Kaunas",
+    "ko": "카우나스에서 스기하라의 '생명의 비자'",
+    "zh": "杉原千亩在考纳斯发放“生命签证”",
+    "ja": "カウナスでの杉原千畝の「命のビザ」"
+   },
+   "description": {
+    "en": "In July and August 1940 the Japanese vice-consul in Kaunas, Chiune Sugihara, together with the Dutch honorary consul Jan Zwartendijk, issued transit visas to Jewish refugees, many of whom had fled from Poland, contrary to his government's instructions. Thousands were able to escape via the Soviet Union and Japan. Sugihara was later recognized by Israel as Righteous Among the Nations.",
+    "ko": "1940년 7~8월 카우나스 주재 일본 부영사 스기하라 지우네는 네덜란드 명예영사 얀 즈바르텐데이크와 함께, 본국 정부의 지시에 반해 상당수가 폴란드에서 피란 온 유대인 난민들에게 통과 비자를 발급했다. 수천 명이 소련과 일본을 거쳐 탈출할 수 있었다. 스기하라는 훗날 이스라엘로부터 '열방의 의인'으로 인정받았다.",
+    "zh": "1940年7月至8月，日本驻考纳斯副领事杉原千亩与荷兰名誉领事扬·兹瓦滕代克一道，违背本国政府的指示，向许多从波兰逃来的犹太难民发放过境签证。数千人得以经苏联和日本逃生。杉原后来被以色列授予“国际义人”称号。",
+    "ja": "1940年7～8月、在カウナス日本領事館の杉原千畝領事代理は、オランダ名誉領事ヤン・ズヴァルテンダイクとともに、本国政府の指示に反して、多くがポーランドから逃れてきたユダヤ人難民に通過ビザを発給した。数千人がソ連と日本を経由して脱出できた。杉原はのちにイスラエルから「諸国民の中の正義の人」と認定された。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q4205775",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "June deportations and the June Uprising",
+    "ko": "6월 강제 이주와 6월 봉기",
+    "zh": "六月流放与六月起义",
+    "ja": "六月の強制移送と六月蜂起"
+   },
+   "description": {
+    "en": "On 14 June 1941 Soviet authorities began mass deportations of 'anti-Soviet elements', sending more than 17,000 people from Lithuania to Siberia and other remote regions. When Germany attacked the USSR on 22 June, Lithuanian insurgents rose against the retreating Soviets and proclaimed a Provisional Government, which the German authorities did not recognize and forced to dissolve in August.",
+    "ko": "1941년 6월 14일 소련 당국은 '반소 분자'에 대한 대규모 강제 이주를 시작해 리투아니아에서 1만 7천 명 이상을 시베리아 등 오지로 보냈다. 6월 22일 독일이 소련을 공격하자 리투아니아 봉기군은 퇴각하는 소련군에 맞서 일어나 임시 정부를 선포했지만, 독일 당국은 이를 인정하지 않았고 8월에 해산을 강요했다.",
+    "zh": "1941年6月14日，苏联当局开始大规模流放“反苏分子”，将17000多名立陶宛人送往西伯利亚等边远地区。6月22日德国进攻苏联后，立陶宛起义者向撤退中的苏军发动起义并宣布成立临时政府，但德国当局不予承认，并于8月迫使其解散。",
+    "ja": "1941年6月14日、ソ連当局は「反ソ分子」の大規模な強制移送を開始し、リトアニアから1万7000人以上をシベリアなどの遠隔地へ送った。6月22日にドイツがソ連を攻撃すると、リトアニアの蜂起勢力は退却するソ連軍に対して立ち上がり臨時政府を宣言したが、ドイツ当局はこれを認めず、8月に解散を強いた。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q2083668",
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Nazi occupation and the Holocaust in Lithuania",
+    "ko": "나치 점령과 리투아니아의 홀로코스트",
+    "zh": "纳粹占领与立陶宛的犹太人大屠杀",
+    "ja": "ナチス占領とリトアニアのホロコースト"
+   },
+   "description": {
+    "en": "Following the German invasion in June 1941, Einsatzgruppen units and Lithuanian collaborators carried out mass shootings of Jews across the country, at Paneriai near Vilnius, Kaunas's Ninth Fort and hundreds of towns. By 1944 around 195,000 Lithuanian Jews, over 90 percent of the prewar community, had been murdered, destroying the centuries-old world of the 'Jerusalem of the North'.",
+    "ko": "1941년 6월 독일의 침공 이후 특무기동대(아인자츠그루펜)와 리투아니아인 협력자들은 빌뉴스 근처 파네리아이, 카우나스 제9요새, 수백 개 마을에서 유대인을 대량 총살했다. 1944년까지 전쟁 전 공동체의 90% 이상인 약 19만 5천 명의 리투아니아 유대인이 살해되어, '북방의 예루살렘'으로 불린 수백 년 된 세계가 파괴되었다.",
+    "zh": "1941年6月德国入侵后，特别行动队和立陶宛合作者在全国各地大规模枪杀犹太人，地点包括维尔纽斯附近的帕内里艾、考纳斯第九要塞及数百座城镇。到1944年，约19.5万名立陶宛犹太人——占战前犹太社群的90%以上——遇害，被誉为“北方耶路撒冷”的数百年犹太世界被摧毁。",
+    "ja": "1941年6月のドイツ侵攻後、アインザッツグルッペンとリトアニア人協力者は、ヴィリニュス近郊のパネリアイ、カウナス第九要塞、数百の町で国中のユダヤ人を大量に銃殺した。1944年までに戦前のユダヤ人社会の90％以上にあたる約19万5000人のリトアニアのユダヤ人が殺害され、「北のエルサレム」と呼ばれた数世紀来の世界が失われた。"
+   }
+  },
+  {
+   "year": 1943,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Liquidation of the Vilna Ghetto",
+    "ko": "빌뉴스 게토의 해체",
+    "zh": "维尔纽斯隔都被清除",
+    "ja": "ヴィリニュス・ゲットーの解体"
+   },
+   "description": {
+    "en": "In September 1943 the Germans liquidated the Vilna Ghetto, sending its remaining inhabitants to camps in Estonia and Latvia or to death at Paneriai and Majdanek. Before the end, members of the ghetto's underground resistance organization tried to resist, and some escaped to join partisans in the surrounding forests.",
+    "ko": "1943년 9월 독일군은 빌뉴스 게토를 해체하고 남은 주민을 에스토니아·라트비아의 수용소로 보내거나 파네리아이와 마이다네크에서 죽음으로 내몰았다. 그 직전 게토 지하 저항 조직원들은 저항을 시도했고, 일부는 탈출해 주변 숲의 파르티잔에 합류했다.",
+    "zh": "1943年9月，德军清除了维尔纽斯隔都，将剩余居民送往爱沙尼亚和拉脱维亚的集中营，或送至帕内里艾和马伊达内克处死。在此之前，隔都地下抵抗组织成员曾试图反抗，部分人逃入周边森林加入游击队。",
+    "ja": "1943年9月、ドイツ軍はヴィリニュス・ゲットーを解体し、残る住民をエストニアやラトビアの収容所へ送り、あるいはパネリアイやマイダネクで死に追いやった。その直前、ゲットーの地下抵抗組織のメンバーは抵抗を試み、一部は脱出して周囲の森のパルチザンに加わった。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": "Q2661048",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Red Army retakes Lithuania",
+    "ko": "붉은 군대의 리투아니아 재점령",
+    "zh": "红军重占立陶宛",
+    "ja": "赤軍がリトアニアを再占領"
+   },
+   "description": {
+    "en": "In July 1944 the Red Army captured Vilnius after heavy fighting in which the Polish Home Army also took part, and then advanced through Kaunas and Šiauliai. By October most of Lithuania was again under Soviet control, and Klaipėda fell in January 1945. Tens of thousands of Lithuanians fled west ahead of the returning Soviet regime.",
+    "ko": "1944년 7월 붉은 군대는 폴란드 국내군도 참여한 격전 끝에 빌뉴스를 점령하고 카우나스와 샤울레이를 거쳐 진격했다. 10월까지 리투아니아 대부분이 다시 소련의 통제 아래 들어갔고, 클라이페다는 1945년 1월에 함락되었다. 수만 명의 리투아니아인이 되돌아오는 소련 체제를 피해 서방으로 피란했다.",
+    "zh": "1944年7月，红军在波兰本土军也参与的激战后攻占维尔纽斯，随后经考纳斯和希奥利艾推进。到10月，立陶宛大部分地区重新落入苏联控制，克莱佩达于1945年1月失守。数万名立陶宛人在苏联政权卷土重来之前逃往西方。",
+    "ja": "1944年7月、赤軍はポーランド国内軍も加わった激戦の末にヴィリニュスを占領し、カウナス、シャウレイを経て進撃した。10月までにリトアニアの大部分が再びソ連の支配下に入り、クライペダは1945年1月に陥落した。数万人のリトアニア人が戻ってくるソ連体制を逃れて西へ避難した。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": "Q5614871",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Forest Brothers: armed resistance begins",
+    "ko": "숲의 형제들: 무장 저항의 시작",
+    "zh": "“森林兄弟”：武装抵抗开始",
+    "ja": "「森の兄弟」：武装抵抗の始まり"
+   },
+   "description": {
+    "en": "As Soviet rule returned, tens of thousands of Lithuanians took to the forests to fight as partisans, known as the Forest Brothers. The armed resistance was strongest in 1944–1948 and continued in diminishing form until 1953. It was one of the largest and longest guerrilla movements in postwar Europe, and many thousands of partisans and civilians were killed.",
+    "ko": "소련 지배가 돌아오자 수만 명의 리투아니아인이 숲으로 들어가 '숲의 형제들'로 불린 파르티잔으로 싸웠다. 무장 저항은 1944~1948년에 가장 거셌고 점차 약해지면서 1953년까지 이어졌다. 이는 전후 유럽에서 가장 크고 오래 지속된 게릴라 운동 중 하나였으며, 수많은 파르티잔과 민간인이 목숨을 잃었다.",
+    "zh": "随着苏联统治的恢复，数万名立陶宛人遁入森林，作为被称为“森林兄弟”的游击队员进行战斗。武装抵抗在1944—1948年最为激烈，此后逐渐减弱，一直持续到1953年。这是战后欧洲规模最大、持续最久的游击运动之一，数以千计的游击队员和平民丧生。",
+    "ja": "ソ連支配が戻ると、数万人のリトアニア人が森に入り、「森の兄弟」と呼ばれるパルチザンとして戦った。武装抵抗は1944～48年に最も激しく、しだいに弱まりながら1953年まで続いた。これは戦後ヨーロッパで最大かつ最長のゲリラ運動の一つであり、多数のパルチザンと民間人が命を落とした。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Operation Vesna deportations",
+    "ko": "'봄' 작전 강제 이주",
+    "zh": "“春天行动”大流放",
+    "ja": "「春」作戦による強制移送"
+   },
+   "description": {
+    "en": "In May 1948, in Operation Vesna ('Spring'), Soviet security forces deported about 40,000 Lithuanians, mostly rural families accused of supporting the partisans or labeled kulaks, to Siberia. Together with the deportations of 1941 and 1949–1951, it broke rural resistance and cleared the way for forced collectivization of agriculture.",
+    "ko": "1948년 5월 '봄(베스나)' 작전에서 소련 보안군은 파르티잔을 지원했다는 혐의를 받거나 부농으로 낙인찍힌 농촌 가족을 중심으로 약 4만 명의 리투아니아인을 시베리아로 강제 이주시켰다. 1941년과 1949~1951년의 강제 이주와 함께 이 작전은 농촌의 저항을 무너뜨리고 강제적인 농업 집단화의 길을 열었다.",
+    "zh": "1948年5月，苏联安全部队在“春天行动”中将约4万名立陶宛人流放到西伯利亚，他们大多是被指控支持游击队或被扣上富农帽子的农村家庭。与1941年和1949—1951年的流放一起，这一行动摧毁了农村的抵抗，为强制农业集体化扫清了道路。",
+    "ja": "1948年5月、「春（ヴェスナ）」作戦でソ連の治安部隊は、パルチザン支援の嫌疑をかけられたり富農とされたりした農村の家族を中心に、約4万人のリトアニア人をシベリアへ強制移送した。1941年と1949～51年の移送とあわせて、この作戦は農村の抵抗を打ち砕き、強制的な農業集団化への道を開いた。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Partisan Declaration of 16 February 1949",
+    "ko": "1949년 2월 16일 파르티잔 선언",
+    "zh": "1949年2月16日游击队宣言",
+    "ja": "1949年2月16日のパルチザン宣言"
+   },
+   "description": {
+    "en": "On 16 February 1949 the leaders of the partisan Union of Lithuanian Freedom Fighters, meeting in a bunker in Minaičiai, adopted a declaration proclaiming the movement the highest political authority in occupied Lithuania and committing a restored state to democracy. In 1999 the Lithuanian parliament recognized it as a legal act of the state.",
+    "ko": "1949년 2월 16일 파르티잔 조직 '리투아니아 자유 투쟁 운동' 지도자들은 미나이치아이의 벙커에 모여, 이 운동을 점령된 리투아니아의 최고 정치 권위로 선포하고 회복될 국가가 민주주의를 따를 것을 약속하는 선언을 채택했다. 1999년 리투아니아 의회는 이를 국가의 법적 행위로 인정했다.",
+    "zh": "1949年2月16日，游击队组织“立陶宛自由斗争运动”的领导人在米奈恰伊的一座地堡中开会，通过宣言宣布该运动为被占领立陶宛的最高政治权力机构，并承诺复国后实行民主。1999年立陶宛议会承认该宣言为国家的法律文件。",
+    "ja": "1949年2月16日、パルチザン組織「リトアニア自由闘争運動」の指導者たちはミナイチャイの地下壕に集まり、この運動を占領下リトアニアの最高政治権威と宣言し、回復される国家が民主主義に立つことを誓う宣言を採択した。1999年、リトアニア議会はこれを国家の法的文書として認めた。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "End of organized partisan resistance",
+    "ko": "조직적 파르티잔 저항의 종식",
+    "zh": "有组织游击抵抗的终结",
+    "ja": "組織的パルチザン抵抗の終わり"
+   },
+   "description": {
+    "en": "In 1953 Soviet security forces captured Jonas Žemaitis, chairman of the partisan movement, who was executed in Moscow in 1954. Organized armed resistance came to an end, although isolated partisans hid in the forests for years; Adolfas Ramanauskas-Vanagas was captured in 1956 and executed in 1957. After Stalin's death, many surviving deportees were gradually allowed to return.",
+    "ko": "1953년 소련 보안군은 파르티잔 운동의 의장 요나스 제마이티스를 체포했고, 그는 1954년 모스크바에서 처형되었다. 고립된 파르티잔들은 그 후로도 수년간 숲에 숨어 지냈지만 조직적 무장 저항은 막을 내렸다. 아돌파스 라마나우스카스-바나가스는 1956년 체포되어 1957년 처형되었다. 스탈린 사후 살아남은 유형자들 다수가 점차 귀환을 허락받았다.",
+    "zh": "1953年苏联安全部队逮捕了游击运动主席约纳斯·热迈蒂斯，他于1954年在莫斯科被处决。有组织的武装抵抗就此结束，但零星游击队员仍在森林中藏匿多年；阿道尔法斯·拉马瑙斯卡斯-瓦纳加斯于1956年被捕，1957年被处决。斯大林死后，许多幸存的被流放者逐渐获准返回。",
+    "ja": "1953年、ソ連の治安部隊はパルチザン運動の議長ヨナス・ジェマイティスを逮捕し、彼は1954年にモスクワで処刑された。孤立したパルチザンはその後も何年も森に潜んだが、組織的な武装抵抗は終わった。アドルファス・ラマナウスカス＝ヴァナガスは1956年に逮捕され1957年に処刑された。スターリンの死後、生き残った流刑者の多くが徐々に帰還を許された。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Romas Kalanta and the Chronicle of the Catholic Church",
+    "ko": "로마스 칼란타와 『가톨릭교회 연대기』",
+    "zh": "罗马斯·卡兰塔与《天主教会纪事》",
+    "ja": "ロマス・カランタと『カトリック教会年代記』"
+   },
+   "description": {
+    "en": "In May 1972 the 19-year-old student Romas Kalanta set himself on fire in Kaunas in protest against Soviet rule, and his funeral sparked street demonstrations that were dispersed by force. The same year Catholic dissidents began the underground Chronicle of the Catholic Church in Lithuania, which documented religious persecution and was smuggled to the West until 1989.",
+    "ko": "1972년 5월 19세 학생 로마스 칼란타가 소련 지배에 항의하여 카우나스에서 분신했고, 그의 장례식은 거리 시위로 번졌으나 무력으로 해산되었다. 같은 해 가톨릭 반체제 인사들은 지하 출판물 『리투아니아 가톨릭교회 연대기』를 시작해 종교 박해를 기록했고, 이는 1989년까지 서방으로 몰래 전해졌다.",
+    "zh": "1972年5月，19岁的学生罗马斯·卡兰塔在考纳斯自焚，抗议苏联统治，他的葬礼引发了街头示威，遭到武力驱散。同年，天主教异见人士开始秘密出版《立陶宛天主教会纪事》，记录宗教迫害，并一直被偷运到西方，直到1989年。",
+    "ja": "1972年5月、19歳の学生ロマス・カランタがソ連支配に抗議してカウナスで焼身自殺し、彼の葬儀は街頭デモに発展したが力で解散させられた。同年、カトリックの異論派は地下出版物『リトアニア・カトリック教会年代記』を始め、宗教迫害を記録して1989年まで西側へ密かに伝えた。"
+   }
+  },
+  {
+   "year": 1983,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Ignalina Nuclear Power Plant starts up",
+    "ko": "이그날리나 원자력 발전소 가동",
+    "zh": "伊格纳利纳核电站投运",
+    "ja": "イグナリナ原子力発電所の運転開始"
+   },
+   "description": {
+    "en": "The first unit of the Ignalina Nuclear Power Plant, built near the new town of Visaginas, began operating in 1983, followed by a second unit in 1987. Its RBMK reactors, of the same type as Chernobyl's, were among the most powerful in the world and supplied most of Lithuania's electricity for two decades.",
+    "ko": "신도시 비사기나스 근처에 건설된 이그날리나 원자력 발전소 1호기가 1983년 가동을 시작했고, 1987년에는 2호기가 뒤를 이었다. 체르노빌과 같은 RBMK형 원자로는 세계에서 가장 출력이 큰 원자로에 속했으며, 20년 동안 리투아니아 전력의 대부분을 공급했다.",
+    "zh": "伊格纳利纳核电站建于新城维萨吉纳斯附近，其第一台机组于1983年投入运行，第二台机组于1987年投运。电站采用与切尔诺贝利同型的RBMK反应堆，属于世界上功率最大的反应堆之列，二十年间供应了立陶宛大部分电力。",
+    "ja": "新しい町ヴィサギナスの近くに建設されたイグナリナ原子力発電所の1号機は1983年に運転を開始し、1987年には2号機が続いた。チェルノブイリと同型のRBMK炉は世界でも最大級の出力をもち、20年にわたってリトアニアの電力の大部分を供給した。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Sąjūdis",
+    "ko": "사유디스 창립",
+    "zh": "“萨尤季斯”成立",
+    "ja": "サーユディスの結成"
+   },
+   "description": {
+    "en": "On 3 June 1988, in the climate of Gorbachev's perestroika, intellectuals in Vilnius founded the Reform Movement of Lithuania, Sąjūdis. Mass rallies followed, the national flag and anthem were restored, and Lithuanian was made the state language. Led by Vytautas Landsbergis, Sąjūdis evolved from a reform movement into the driving force of the independence campaign.",
+    "ko": "1988년 6월 3일 고르바초프의 페레스트로이카 분위기 속에서 빌뉴스의 지식인들이 리투아니아 개혁 운동 '사유디스'를 창립했다. 대규모 집회가 이어졌고, 국기와 국가가 복원되었으며 리투아니아어가 국어로 지정되었다. 비타우타스 란즈베르기스가 이끈 사유디스는 개혁 운동에서 독립 운동의 원동력으로 발전했다.",
+    "zh": "1988年6月3日，在戈尔巴乔夫改革的氛围中，维尔纽斯的知识分子成立了立陶宛改革运动“萨尤季斯”。此后大规模集会接连举行，国旗和国歌得以恢复，立陶宛语被定为国语。在维陶塔斯·兰茨贝吉斯的领导下，萨尤季斯从改革运动发展为独立运动的主导力量。",
+    "ja": "1988年6月3日、ゴルバチョフのペレストロイカの空気のなかで、ヴィリニュスの知識人がリトアニア改革運動「サーユディス」を結成した。大規模な集会が続き、国旗と国歌が復活し、リトアニア語が国語とされた。ヴィータウタス・ランズベルギスに率いられたサーユディスは、改革運動から独立運動の原動力へと発展した。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Baltic Way human chain",
+    "ko": "발트의 길 인간 사슬",
+    "zh": "“波罗的海之路”人链",
+    "ja": "「バルトの道」人間の鎖"
+   },
+   "description": {
+    "en": "On 23 August 1989, the 50th anniversary of the Molotov–Ribbentrop Pact, about two million people joined hands in a human chain of some 600 km from Vilnius through Riga to Tallinn. The peaceful protest drew world attention to the Soviet occupation of the Baltic states and their demand for independence.",
+    "ko": "몰로토프-리벤트로프 조약 50주년인 1989년 8월 23일, 약 200만 명이 손을 맞잡고 빌뉴스에서 리가를 거쳐 탈린까지 약 600km에 이르는 인간 사슬을 만들었다. 이 평화 시위는 발트 3국에 대한 소련의 점령과 이들의 독립 요구에 세계의 관심을 모았다.",
+    "zh": "1989年8月23日，即《苏德互不侵犯条约》签订50周年之际，约200万人手拉手，组成从维尔纽斯经里加直到塔林、长约600公里的人链。这一和平抗议使世界关注苏联对波罗的海三国的占领及三国的独立诉求。",
+    "ja": "独ソ不可侵条約から50年にあたる1989年8月23日、約200万人が手をつなぎ、ヴィリニュスからリガを経てタリンまで約600kmに及ぶ人間の鎖を作った。この平和的な抗議は、バルト三国に対するソ連の占領と独立の要求に世界の注目を集めた。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q2823577",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "First Soviet republic to declare independence",
+    "ko": "소련 최초로 독립 회복 선언",
+    "zh": "首个宣布独立的苏联加盟共和国",
+    "ja": "ソ連構成国で最初に独立回復を宣言"
+   },
+   "description": {
+    "en": "On 11 March 1990 the newly elected Supreme Council, chaired by Vytautas Landsbergis, adopted the Act of the Re-Establishment of the State of Lithuania, making Lithuania the first Soviet republic to declare independence. Moscow responded with an economic blockade from April to June 1990, but Lithuania refused to revoke the declaration.",
+    "ko": "1990년 3월 11일 비타우타스 란즈베르기스가 의장인 새로 선출된 최고회의는 '리투아니아 국가 재건법'을 채택했고, 리투아니아는 소련 공화국 가운데 최초로 독립을 선언했다. 모스크바는 1990년 4월부터 6월까지 경제 봉쇄로 대응했지만 리투아니아는 선언 철회를 거부했다.",
+    "zh": "1990年3月11日，以维陶塔斯·兰茨贝吉斯为主席的新选最高委员会通过《立陶宛国家重建法》，立陶宛由此成为第一个宣布独立的苏联加盟共和国。莫斯科于1990年4月至6月实施经济封锁作为回应，但立陶宛拒绝撤回宣言。",
+    "ja": "1990年3月11日、ヴィータウタス・ランズベルギスを議長とする新たに選出された最高会議は「リトアニア国家再建法」を採択し、リトアニアはソ連の構成共和国として初めて独立を宣言した。モスクワは1990年4月から6月まで経済封鎖で応じたが、リトアニアは宣言の撤回を拒んだ。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q1540695",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "January Events in Vilnius",
+    "ko": "빌뉴스의 1월 사건",
+    "zh": "维尔纽斯“一月事件”",
+    "ja": "ヴィリニュスの一月事件"
+   },
+   "description": {
+    "en": "On the night of 13 January 1991 Soviet troops and tanks attacked the Vilnius TV Tower and the radio and television building, killing 14 unarmed civilians and injuring hundreds. Thousands of people defended the parliament building with barricades, and the bloodshed provoked international condemnation, strengthening Lithuania's resolve and support abroad.",
+    "ko": "1991년 1월 13일 밤 소련군과 탱크가 빌뉴스 TV 타워와 방송 건물을 공격해 비무장 민간인 14명이 숨지고 수백 명이 다쳤다. 수천 명의 시민이 바리케이드를 쌓아 의회 건물을 지켰고, 이 유혈 사태는 국제적 규탄을 불러 리투아니아의 결의와 해외의 지지를 강화했다.",
+    "zh": "1991年1月13日夜，苏军和坦克袭击了维尔纽斯电视塔和广播电视大楼，造成14名手无寸铁的平民死亡、数百人受伤。数千民众筑起路障保卫议会大楼，这场流血事件招致国际谴责，增强了立陶宛的决心和国际支持。",
+    "ja": "1991年1月13日夜、ソ連軍と戦車がヴィリニュスのテレビ塔と放送局を攻撃し、非武装の市民14人が死亡、数百人が負傷した。数千人の市民がバリケードを築いて議会の建物を守り、この流血は国際的な非難を呼んで、リトアニアの決意と国外の支持を強めた。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q3736097",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Medininkai border post massacre",
+    "ko": "메디닌카이 국경 초소 학살",
+    "zh": "梅迪宁凯边境哨所屠杀",
+    "ja": "メディニンカイ国境検問所の虐殺"
+   },
+   "description": {
+    "en": "Throughout 1990–1991 Soviet OMON special police attacked the customs and border posts set up by the Lithuanian government. On 31 July 1991, at the Medininkai post on the Belarusian border, seven Lithuanian officers were shot dead and one was severely wounded, the deadliest of these assaults.",
+    "ko": "1990~1991년 내내 소련 OMON 특수경찰은 리투아니아 정부가 설치한 세관과 국경 초소를 공격했다. 1991년 7월 31일 벨라루스 국경의 메디닌카이 초소에서 리투아니아 관리 7명이 총살되고 1명이 중상을 입었는데, 이는 그 공격들 가운데 가장 많은 사망자를 낸 사건이었다.",
+    "zh": "1990—1991年间，苏联特警（OMON）不断袭击立陶宛政府设立的海关和边境哨所。1991年7月31日，在与白俄罗斯交界的梅迪宁凯哨所，7名立陶宛官员被枪杀，1人重伤，这是此类袭击中死亡人数最多的一次。",
+    "ja": "1990～91年を通じて、ソ連のOMON特殊警察はリトアニア政府が設けた税関や国境検問所を襲撃した。1991年7月31日、ベラルーシとの国境のメディニンカイ検問所でリトアニアの職員7人が射殺され1人が重傷を負い、これら襲撃のうち最も多くの死者を出した。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "International recognition and UN membership",
+    "ko": "국제적 승인과 유엔 가입",
+    "zh": "获得国际承认并加入联合国",
+    "ja": "国際的承認と国連加盟"
+   },
+   "description": {
+    "en": "Iceland recognized Lithuania's independence in February 1991. After the failed August coup in Moscow, recognition followed from dozens of states, and on 6 September 1991 the Soviet Union itself recognized the independence of the three Baltic states. Lithuania was admitted to the United Nations on 17 September 1991.",
+    "ko": "아이슬란드는 1991년 2월 리투아니아의 독립을 승인했다. 8월 모스크바 쿠데타가 실패한 뒤 수십 개국의 승인이 이어졌고, 1991년 9월 6일에는 소련 자신도 발트 3국의 독립을 인정했다. 리투아니아는 1991년 9월 17일 유엔에 가입했다.",
+    "zh": "冰岛于1991年2月承认立陶宛独立。8月莫斯科政变失败后，数十个国家相继承认，1991年9月6日苏联本身也承认了波罗的海三国的独立。立陶宛于1991年9月17日加入联合国。",
+    "ja": "アイスランドは1991年2月にリトアニアの独立を承認した。8月のモスクワでのクーデター失敗後、数十か国の承認が相次ぎ、1991年9月6日にはソ連自身もバルト三国の独立を認めた。リトアニアは1991年9月17日に国際連合に加盟した。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": "Q4140034",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "New constitution adopted by referendum",
+    "ko": "국민투표로 새 헌법 채택",
+    "zh": "全民公投通过新宪法",
+    "ja": "国民投票で新憲法を採択"
+   },
+   "description": {
+    "en": "On 25 October 1992 voters approved a new constitution establishing Lithuania as a democratic parliamentary republic with a directly elected president. In elections held at the same time, the Democratic Labour Party, the successor of the Lithuanian Communist Party led by Algirdas Brazauskas, won a majority, reflecting discontent with economic hardship.",
+    "ko": "1992년 10월 25일 유권자들은 리투아니아를 직선 대통령을 둔 민주 의회공화국으로 규정한 새 헌법을 승인했다. 동시에 치러진 선거에서는 알기르다스 브라자우스카스가 이끄는 리투아니아 공산당의 후신 민주노동당이 과반을 차지해 경제난에 대한 불만을 드러냈다.",
+    "zh": "1992年10月25日，选民批准了新宪法，确立立陶宛为设有直选总统的民主议会制共和国。在同期举行的选举中，由阿尔吉尔达斯·布拉藻斯卡斯领导的立陶宛共产党的继承者民主劳动党赢得多数，反映了民众对经济困境的不满。",
+    "ja": "1992年10月25日、有権者は、リトアニアを直接選挙の大統領をもつ民主的な議会制共和国とする新憲法を承認した。同時に行われた選挙では、アルギルダス・ブラザウスカスが率いるリトアニア共産党の後継政党・民主労働党が過半数を得て、経済的困窮への不満を示した。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Last Russian troops leave; the litas returns",
+    "ko": "러시아군 철수 완료와 리타스 재도입",
+    "zh": "俄军全部撤离，立特重新发行",
+    "ja": "ロシア軍の撤退完了とリタスの復活"
+   },
+   "description": {
+    "en": "On 31 August 1993 the last Russian army units left Lithuania, the first of the Baltic states to see the withdrawal completed. Earlier that summer the national currency, the litas, was reintroduced, and it was pegged to the US dollar in 1994 and later to the euro, providing a base for economic stabilization.",
+    "ko": "1993년 8월 31일 마지막 러시아군 부대가 리투아니아를 떠났는데, 발트 3국 가운데 가장 먼저 철수가 완료된 것이었다. 그해 여름에는 자국 통화 리타스가 다시 도입되었고, 1994년 미국 달러에, 이후 유로에 고정되어 경제 안정의 토대가 되었다.",
+    "zh": "1993年8月31日，最后一批俄军部队撤离立陶宛，这是波罗的海三国中最早完成撤军的。同年夏天，本国货币立特重新发行，1994年与美元挂钩，后来又与欧元挂钩，为经济稳定奠定了基础。",
+    "ja": "1993年8月31日、最後のロシア軍部隊がリトアニアを去り、バルト三国のなかで最初に撤退が完了した。その夏には自国通貨リタスが再導入され、1994年に米ドルに、のちにユーロに固定されて、経済安定の土台となった。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": "Q2824361",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Lithuania joins NATO and the European Union",
+    "ko": "NATO와 유럽연합 가입",
+    "zh": "立陶宛加入北约和欧盟",
+    "ja": "NATOとEUに加盟"
+   },
+   "description": {
+    "en": "Lithuania joined NATO on 29 March 2004 and the European Union on 1 May 2004, after a 2003 referendum in which over 90 percent of voters supported EU membership. Membership anchored the country in Western security and economic structures and opened the way to large EU investment and to the emigration of many Lithuanians to other member states.",
+    "ko": "리투아니아는 2003년 국민투표에서 90% 이상이 EU 가입을 지지한 뒤, 2004년 3월 29일 NATO에, 5월 1일 유럽연합에 가입했다. 가입으로 리투아니아는 서방의 안보·경제 체제에 확고히 자리 잡았고, EU의 대규모 투자와 함께 많은 리투아니아인이 다른 회원국으로 이주하는 길도 열렸다.",
+    "zh": "在2003年全民公投中90%以上的选民支持入盟后，立陶宛于2004年3月29日加入北约，5月1日加入欧盟。成员资格使立陶宛牢牢融入西方安全和经济体系，带来了大量欧盟投资，也使许多立陶宛人移居其他成员国。",
+    "ja": "2003年の国民投票で90％以上がEU加盟を支持した後、リトアニアは2004年3月29日にNATO、5月1日にEUに加盟した。加盟によって国は西側の安全保障・経済体制にしっかりと組み込まれ、EUからの大規模な投資とともに、多くのリトアニア人が他の加盟国へ移住する道も開かれた。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Impeachment of President Paksas",
+    "ko": "팍사스 대통령 탄핵",
+    "zh": "帕克萨斯总统遭弹劾",
+    "ja": "パクサス大統領の弾劾"
+   },
+   "description": {
+    "en": "In April 2004 the Seimas removed President Rolandas Paksas from office through impeachment, after the Constitutional Court found that he had grossly violated the constitution, notably by granting citizenship to a Russian businessman who had financed his campaign. He was the first European head of state to be removed by impeachment.",
+    "ko": "2004년 4월 의회(세이마스)는 탄핵을 통해 롤란다스 팍사스 대통령을 파면했다. 헌법재판소는 그가 선거 자금을 댄 러시아 사업가에게 시민권을 부여한 것 등으로 헌법을 중대하게 위반했다고 판단했다. 그는 탄핵으로 물러난 유럽 최초의 국가원수가 되었다.",
+    "zh": "2004年4月，议会（塞伊马斯）通过弹劾罢免了罗兰达斯·帕克萨斯总统。宪法法院此前认定他严重违宪，特别是向资助其竞选的一名俄罗斯商人授予公民身份。他是欧洲第一位遭弹劾罢免的国家元首。",
+    "ja": "2004年4月、議会（セイマス）は弾劾によってロランダス・パクサス大統領を罷免した。憲法裁判所は、選挙資金を提供したロシア人実業家に市民権を与えたことなどで彼が憲法に重大に違反したと判断していた。彼は弾劾で罷免されたヨーロッパ初の国家元首となった。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Ignalina nuclear plant closed",
+    "ko": "이그날리나 원전 폐쇄",
+    "zh": "伊格纳利纳核电站关闭",
+    "ja": "イグナリナ原発の閉鎖"
+   },
+   "description": {
+    "en": "As a condition of EU membership, Lithuania shut down the first Ignalina reactor in 2004 and the second on 31 December 2009. The closure turned Lithuania from an electricity exporter into an importer heavily dependent on Russian energy, prompting later investment in power links with Sweden and Poland and in a liquefied natural gas terminal.",
+    "ko": "EU 가입 조건에 따라 리투아니아는 2004년 이그날리나 1호기를, 2009년 12월 31일 2호기를 폐쇄했다. 폐쇄로 리투아니아는 전력 수출국에서 러시아 에너지에 크게 의존하는 수입국이 되었고, 이는 이후 스웨덴·폴란드와의 송전망 연결과 액화천연가스 터미널에 대한 투자를 촉진했다.",
+    "zh": "作为加入欧盟的条件，立陶宛于2004年关闭伊格纳利纳核电站一号机组，并于2009年12月31日关闭二号机组。关闭使立陶宛从电力出口国变成高度依赖俄罗斯能源的进口国，促使其后来投资建设与瑞典和波兰的电网互联以及液化天然气接收站。",
+    "ja": "EU加盟の条件として、リトアニアは2004年にイグナリナ1号機を、2009年12月31日に2号機を停止した。閉鎖によりリトアニアは電力輸出国からロシアのエネルギーに大きく依存する輸入国となり、のちのスウェーデン・ポーランドとの送電網連系や液化天然ガス基地への投資を促した。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Klaipėda LNG terminal ends gas monopoly",
+    "ko": "클라이페다 LNG 터미널, 가스 독점 종식",
+    "zh": "克莱佩达液化天然气接收站打破垄断",
+    "ja": "クライペダLNG基地がガス独占を打破"
+   },
+   "description": {
+    "en": "In late 2014 the floating storage and regasification unit 'Independence' arrived in Klaipėda, giving Lithuania its own liquefied natural gas terminal. It ended the country's total dependence on Russian pipeline gas and strengthened its bargaining position; in 2022 Lithuania stopped importing Russian gas altogether.",
+    "ko": "2014년 말 부유식 저장·재기화 설비 '인디펜던스'가 클라이페다에 도착하면서 리투아니아는 자체 액화천연가스 터미널을 갖게 되었다. 이로써 러시아 파이프라인 가스에 대한 전적인 의존이 끝나고 협상력이 강화되었으며, 2022년 리투아니아는 러시아산 가스 수입을 완전히 중단했다.",
+    "zh": "2014年底，浮式储存及再气化装置“独立号”抵达克莱佩达，立陶宛由此拥有了自己的液化天然气接收站。这结束了该国对俄罗斯管道天然气的完全依赖，增强了其谈判地位；2022年立陶宛彻底停止进口俄罗斯天然气。",
+    "ja": "2014年末、浮体式貯蔵再ガス化設備「インディペンデンス」がクライペダに到着し、リトアニアは独自の液化天然ガス基地をもつことになった。これによりロシアのパイプラインガスへの全面的な依存が終わって交渉力が強まり、2022年にはロシア産ガスの輸入を完全に停止した。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Lithuania adopts the euro",
+    "ko": "유로화 도입",
+    "zh": "立陶宛采用欧元",
+    "ja": "ユーロの導入"
+   },
+   "description": {
+    "en": "On 1 January 2015 Lithuania replaced the litas with the euro, becoming the 19th member of the eurozone and the last of the three Baltic states to do so. The move completed the country's integration into the core institutions of the European Union.",
+    "ko": "2015년 1월 1일 리투아니아는 리타스를 유로로 대체하여 유로존의 19번째 회원국이 되었으며, 발트 3국 가운데 마지막으로 유로를 도입했다. 이로써 리투아니아는 유럽연합 핵심 제도로의 통합을 완성했다.",
+    "zh": "2015年1月1日，立陶宛以欧元取代立特，成为欧元区第19个成员国，也是波罗的海三国中最后一个加入的。此举完成了该国融入欧盟核心机制的进程。",
+    "ja": "2015年1月1日、リトアニアはリタスをユーロに切り替え、ユーロ圏19番目の加盟国となり、バルト三国のなかで最後の導入国となった。これにより欧州連合の中核的な制度への統合が完了した。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87250838",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in Lithuania",
+    "ko": "리투아니아의 코로나19 팬데믹",
+    "zh": "立陶宛的新冠疫情",
+    "ja": "リトアニアの新型コロナウイルス流行"
+   },
+   "description": {
+    "en": "The first COVID-19 case in Lithuania was confirmed in late February 2020, and in March the government declared a nationwide quarantine and closed borders. A severe second wave in the winter of 2020–2021 strained hospitals before vaccination campaigns gradually brought the epidemic under control.",
+    "ko": "2020년 2월 말 리투아니아에서 첫 코로나19 확진자가 확인되었고, 3월 정부는 전국 격리 조치를 선포하고 국경을 닫았다. 2020~2021년 겨울의 심각한 2차 유행은 병원에 큰 부담을 주었으며, 이후 백신 접종이 점차 확산되며 유행이 진정되었다.",
+    "zh": "2020年2月底，立陶宛确诊首例新冠病例，3月政府宣布全国隔离并关闭边境。2020—2021年冬季严重的第二波疫情使医院不堪重负，随后疫苗接种的推进逐步控制了疫情。",
+    "ja": "2020年2月末にリトアニアで最初の新型コロナウイルス感染者が確認され、3月に政府は全国的な隔離措置を宣言し国境を閉じた。2020～21年冬の深刻な第2波は病院に大きな負担をかけ、その後ワクチン接種の進展で流行は徐々に抑えられた。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Migrant crisis on the Belarus border",
+    "ko": "벨라루스 국경의 이주민 위기",
+    "zh": "白俄罗斯边境移民危机",
+    "ja": "ベラルーシ国境の移民危機"
+   },
+   "description": {
+    "en": "In the summer of 2021 thousands of migrants, many flown to Minsk from the Middle East, crossed from Belarus into Lithuania. Lithuania and the EU accused the Lukashenko government of deliberately orchestrating the influx in retaliation for sanctions. Lithuania declared a state of emergency and built a fence along much of the border.",
+    "ko": "2021년 여름, 상당수가 중동에서 민스크로 항공편을 타고 온 수천 명의 이주민이 벨라루스에서 리투아니아로 넘어왔다. 리투아니아와 EU는 루카셴코 정부가 제재에 대한 보복으로 이주민 유입을 의도적으로 조장했다고 비난했다. 리투아니아는 비상사태를 선포하고 국경 대부분에 장벽을 세웠다.",
+    "zh": "2021年夏，数千名移民（其中许多人从中东乘飞机抵达明斯克）从白俄罗斯越境进入立陶宛。立陶宛和欧盟指责卢卡申科政府为报复制裁而蓄意策划移民潮。立陶宛宣布进入紧急状态，并沿大部分边界修建了围栏。",
+    "ja": "2021年夏、その多くが中東からミンスクへ空路で運ばれた数千人の移民が、ベラルーシからリトアニアへ越境した。リトアニアとEUは、ルカシェンコ政権が制裁への報復として流入を意図的に仕組んだと非難した。リトアニアは非常事態を宣言し、国境の大部分にフェンスを築いた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q116954207",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "NATO summit in Vilnius",
+    "ko": "빌뉴스 NATO 정상회의",
+    "zh": "北约维尔纽斯峰会",
+    "ja": "NATOヴィリニュス首脳会議"
+   },
+   "description": {
+    "en": "In July 2023 Vilnius hosted the NATO summit, at which the alliance discussed support for Ukraine and Sweden's path to membership was cleared by Turkey on its eve. During the summit Germany's earlier pledge to station a brigade permanently in Lithuania was a major theme for the host country.",
+    "ko": "2023년 7월 빌뉴스에서 NATO 정상회의가 열려 우크라이나 지원 문제가 논의되었고, 회의 전날 튀르키예가 스웨덴의 가입에 동의해 길이 열렸다. 개최국 리투아니아에게는 독일이 앞서 약속한 리투아니아 내 여단 상시 주둔 문제가 주요 의제였다.",
+    "zh": "2023年7月，北约峰会在维尔纽斯举行，会议讨论了援助乌克兰问题，峰会前夕土耳其同意了瑞典的入约进程。对东道主立陶宛而言，德国此前承诺在立陶宛常驻一个旅是重要议题。",
+    "ja": "2023年7月、ヴィリニュスでNATO首脳会議が開かれ、ウクライナ支援が協議され、会議前夜にはトルコがスウェーデンの加盟に同意して道が開かれた。開催国リトアニアにとっては、ドイツが先に約束したリトアニアへの旅団常駐が大きなテーマであった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q84028744",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nausėda re-elected president",
+    "ko": "나우세다 대통령 재선",
+    "zh": "瑙塞达连任总统",
+    "ja": "ナウセーダ大統領が再選"
+   },
+   "description": {
+    "en": "In the presidential election of May 2024, Gitanas Nausėda won a second five-year term, defeating Prime Minister Ingrida Šimonytė in the runoff by a wide margin. Defense spending and security in the face of Russia's war against Ukraine dominated the campaign.",
+    "ko": "2024년 5월 대통령 선거에서 기타나스 나우세다는 결선 투표에서 잉그리다 시모니테 총리를 큰 차이로 누르고 5년 임기의 재선에 성공했다. 러시아의 우크라이나 전쟁에 따른 국방비와 안보 문제가 선거의 주된 쟁점이었다.",
+    "zh": "在2024年5月的总统选举中，吉塔纳斯·瑙塞达在第二轮投票中以较大优势击败总理英格丽达·希莫尼特，赢得第二个五年任期。面对俄罗斯对乌克兰的战争，国防开支和安全问题成为竞选的主要议题。",
+    "ja": "2024年5月の大統領選挙で、ギタナス・ナウセーダは決選投票でイングリダ・シモニーテ首相に大差をつけて勝利し、5年の2期目を得た。ロシアのウクライナ侵略戦争を背景に、国防費と安全保障が選挙戦の主な争点となった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Baltic power grid joins continental Europe",
+    "ko": "발트 전력망, 유럽 대륙망과 동기화",
+    "zh": "波罗的海电网并入欧洲大陆电网",
+    "ja": "バルトの電力網が欧州大陸網と同期"
+   },
+   "description": {
+    "en": "In February 2025 Lithuania, Latvia and Estonia disconnected their electricity grids from the Russian-controlled BRELL system, inherited from the Soviet era, and synchronized them with the continental European network via Poland. The long-planned move ended the last major Soviet-era infrastructure dependence on Russia.",
+    "ko": "2025년 2월 리투아니아·라트비아·에스토니아는 소련 시대부터 이어진 러시아 통제의 BRELL 전력 체계에서 전력망을 분리하고, 폴란드를 통해 유럽 대륙 전력망과 동기화했다. 오랫동안 준비된 이 조치로 러시아에 대한 소련 시대의 마지막 주요 기반 시설 의존이 끝났다.",
+    "zh": "2025年2月，立陶宛、拉脱维亚和爱沙尼亚将本国电网从苏联时代遗留、由俄罗斯控制的BRELL系统中断开，并经由波兰与欧洲大陆电网同步运行。这一筹划多年的举措终结了对俄罗斯最后一项重大的苏联时代基础设施依赖。",
+    "ja": "2025年2月、リトアニア・ラトビア・エストニアは、ソ連時代から引き継いだロシア管理下のBRELL系統から電力網を切り離し、ポーランド経由で欧州大陸の電力網と同期させた。長く準備されてきたこの措置により、ロシアへのソ連時代の最後の主要なインフラ依存が終わった。"
+   }
+  }
+ ]
+}

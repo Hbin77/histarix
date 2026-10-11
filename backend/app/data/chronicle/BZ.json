@@ -1,0 +1,1222 @@
+{
+ "iso": "BZ",
+ "eras": [
+  {
+   "from": -9000,
+   "to": -1200,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Paleoindian and Archaic Belize",
+    "ko": "벨리즈의 고인디언기와 아케익기",
+    "zh": "伯利兹的古印第安时期与古代期",
+    "ja": "ベリーズの古インディアン期とアルカイック期"
+   },
+   "summary": {
+    "en": "The first people in Belize were mobile hunter-gatherers who arrived by the end of the last Ice Age, leaving stone tools such as fluted and fishtail points. During the long Archaic period they exploited forests, rivers and coastal wetlands, and in northern Belize pollen and other evidence point to forest clearance and the early cultivation of maize and manioc. These communities laid the groundwork for the settled farming villages of the Maya.",
+    "ko": "벨리즈에 처음 살았던 사람들은 마지막 빙하기 말엽에 도착한 이동성 수렵채집민으로, 홈이 파인 찌르개와 물고기꼬리형 찌르개 같은 석기를 남겼다. 오랜 아케익기 동안 이들은 숲과 강, 해안 습지의 자원을 이용했으며, 북부 벨리즈의 꽃가루 등 증거는 숲 개간과 옥수수·마니오크의 초기 재배를 보여 준다. 이 공동체들은 마야인의 정착 농경 마을의 토대를 놓았다.",
+    "zh": "最早生活在伯利兹的是末次冰期末期到来的流动狩猎采集者，他们留下了凹槽尖状器和鱼尾形尖状器等石器。在漫长的古代期，他们利用森林、河流和沿海湿地的资源；伯利兹北部的花粉等证据显示出森林开垦以及玉米和木薯的早期种植。这些群体为玛雅人定居农业村落奠定了基础。",
+    "ja": "ベリーズに最初に住んだのは、最終氷期の終わり頃に到来した移動性の狩猟採集民で、溝付き尖頭器や魚尾形尖頭器などの石器を残した。長いアルカイック期の間、彼らは森林や川、沿岸湿地の資源を利用し、ベリーズ北部の花粉などの証拠は森林の開墾とトウモロコシやキャッサバの初期栽培を示している。これらの共同体がマヤの定住農耕村落の基盤を築いた。"
+   }
+  },
+  {
+   "from": -1200,
+   "to": 250,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Preclassic Maya of Belize",
+    "ko": "벨리즈의 전고전기 마야",
+    "zh": "伯利兹的前古典期玛雅",
+    "ja": "ベリーズの先古典期マヤ"
+   },
+   "summary": {
+    "en": "From around 1200–1000 BC, farming villages appeared at sites such as Cuello, Cahal Pech and Blackman Eddy, among the earliest Maya settlements in the lowlands. Over the following centuries communities built plazas and temple platforms, and by the Late Preclassic centers such as Lamanai and Cerros had monumental temples decorated with great stucco masks. Trade along rivers and the coast linked Belize to the wider Maya world.",
+    "ko": "기원전 1200~1000년경부터 쿠에요, 카할페치, 블랙먼에디 등에 저지대에서 가장 이른 마야 정착지에 속하는 농경 마을이 나타났다. 이후 수백 년 동안 공동체들은 광장과 신전 기단을 쌓았고, 후기 전고전기에는 라마나이와 세로스 같은 중심지에 거대한 회반죽 가면으로 장식된 기념비적 신전이 세워졌다. 강과 해안을 따라 이어진 교역은 벨리즈를 더 넓은 마야 세계와 연결했다.",
+    "zh": "约从公元前1200至前1000年起，奎略、卡哈尔佩奇、布莱克曼埃迪等地出现了农业村落，属于低地最早的玛雅聚落。此后数百年间，社群修建广场和神庙台基；到前古典期晚期，拉马奈和塞罗斯等中心已建起饰有巨大灰泥面具的宏伟神庙。沿河流和海岸的贸易将伯利兹与更广阔的玛雅世界联系起来。",
+    "ja": "紀元前1200～1000年頃から、クエヨ、カハル・ペチ、ブラックマン・エディなどに低地で最も古いマヤの集落に数えられる農耕村落が現れた。その後数百年の間に共同体は広場や神殿の基壇を築き、先古典期後期にはラマナイやセロスなどの中心地に巨大な漆喰の仮面で飾られた記念碑的な神殿が建てられた。川や海岸沿いの交易がベリーズをより広いマヤ世界と結びつけた。"
+   }
+  },
+  {
+   "from": -250,
+   "to": 900,
+   "kind": "state",
+   "qid": "Q28567",
+   "polity": "Mayan City-States",
+   "name": {
+    "en": "Classic Maya city-states",
+    "ko": "고전기 마야 도시국가",
+    "zh": "古典期玛雅城邦",
+    "ja": "古典期マヤ都市国家"
+   },
+   "summary": {
+    "en": "In the Classic period Belize was densely populated and divided among Maya kingdoms and towns, including Caracol in the Maya Mountains, Xunantunich and Cahal Pech in the Belize River valley, Lamanai, Altun Ha and Lubaantun. Caracol, whose rulers recorded their history in hieroglyphic inscriptions, became a regional power after a victory over Tikal in 562 and grew into one of the largest Maya cities. Between the 8th and 10th centuries most of these centers declined and were abandoned.",
+    "ko": "고전기에 벨리즈는 인구가 조밀했고, 마야 산지의 카라콜, 벨리즈강 유역의 슈난투니치와 카할페치, 라마나이, 알툰하, 루반툰 등 여러 마야 왕국과 도시로 나뉘어 있었다. 통치자들이 상형문자 비문에 역사를 남긴 카라콜은 562년 티칼에 승리한 뒤 지역 강국이 되어 가장 큰 마야 도시 가운데 하나로 성장했다. 8세기에서 10세기 사이 이 중심지들 대부분은 쇠퇴하여 버려졌다.",
+    "zh": "古典期的伯利兹人口稠密，分属多个玛雅王国和城镇，包括玛雅山脉的卡拉科尔、伯利兹河谷的苏南图尼奇和卡哈尔佩奇，以及拉马奈、阿尔顿哈和卢班顿等。卡拉科尔的统治者以象形文字铭文记录其历史，该城在562年战胜蒂卡尔后成为地区强权，并发展为最大的玛雅城市之一。8至10世纪间，这些中心大多衰落并被废弃。",
+    "ja": "古典期のベリーズは人口が密集し、マヤ山地のカラコル、ベリーズ川流域のシュナントゥニッチやカハル・ペチ、ラマナイ、アルトゥン・ハ、ルバアントゥンなど多くのマヤの王国や町に分かれていた。支配者が象形文字の碑文に歴史を記したカラコルは、562年にティカルに勝利した後に地域大国となり、最大級のマヤ都市へと成長した。8世紀から10世紀にかけて、これらの中心地の多くは衰退し放棄された。"
+   }
+  },
+  {
+   "from": 900,
+   "to": 1544,
+   "kind": "state",
+   "qid": "Q28567",
+   "polity": "Later Mayan City-States",
+   "name": {
+    "en": "Postclassic Maya provinces",
+    "ko": "후고전기 마야 지방 국가",
+    "zh": "后古典期玛雅诸省",
+    "ja": "後古典期マヤの諸地方国家"
+   },
+   "summary": {
+    "en": "Although the great Classic cities emptied, Maya life continued in Belize, especially along rivers, lagoons and the coast. Lamanai remained occupied without interruption, and in the Late Postclassic northern Belize formed part of the province of Chetumal, whose capital is thought to have been at or near Santa Rita Corozal, while the area to the south belonged to Dzuluinicob. These coastal provinces traded cacao, honey and other goods by canoe around the Yucatán peninsula.",
+    "ko": "고전기의 대도시들은 비었지만 벨리즈에서 마야인의 삶은 특히 강과 석호, 해안을 따라 계속되었다. 라마나이는 끊임없이 사람이 살았고, 후기 후고전기에 북부 벨리즈는 산타리타코로살이나 그 부근에 수도가 있었던 것으로 여겨지는 체투말 지방에 속했으며, 그 남쪽 지역은 술루이니코브에 속했다. 이 해안 지방들은 카카오와 꿀 등을 카누로 유카탄반도 일대에 교역했다.",
+    "zh": "虽然古典期的大城市人去楼空，但玛雅人的生活在伯利兹仍在延续，尤其是沿河流、潟湖和海岸地区。拉马奈一直有人居住；后古典期晚期，伯利兹北部属于切图马尔省，其首府被认为位于圣丽塔科罗萨尔或其附近，而南部地区属于祖卢伊尼科布。这些沿海省份以独木舟沿尤卡坦半岛贩运可可、蜂蜜等货物。",
+    "ja": "古典期の大都市は無人となったが、ベリーズではとりわけ川や潟湖、海岸沿いでマヤの暮らしが続いた。ラマナイは途切れることなく人が住み、後古典期後期のベリーズ北部はサンタ・リタ・コロサルかその付近に首都があったとされるチェトゥマル地方に属し、その南の地域はスルイニコブに属した。これらの沿岸地方はカカオや蜂蜜などをカヌーでユカタン半島一帯と交易した。"
+   }
+  },
+  {
+   "from": 1544,
+   "to": 1707,
+   "kind": "state",
+   "qid": null,
+   "polity": "Itza Mayans",
+   "name": {
+    "en": "Maya resistance and Spanish frontier",
+    "ko": "마야의 저항과 스페인 변경",
+    "zh": "玛雅人的抵抗与西班牙边疆",
+    "ja": "マヤの抵抗とスペインの辺境"
+   },
+   "summary": {
+    "en": "After the violent Spanish conquest of Chetumal in 1544, Belize became a remote frontier of Spanish Yucatán. Missions were founded at Lamanai and Tipu, but Maya communities repeatedly rebelled or fled into the forests, and the independent Itza kingdom centered at Nojpetén in Petén held sway over much of the interior. Spanish control remained weak until the conquest of Nojpetén in 1697, after which many Maya of western Belize were forcibly relocated.",
+    "ko": "1544년 스페인이 체투말을 폭력적으로 정복한 뒤 벨리즈는 스페인령 유카탄의 외딴 변경이 되었다. 라마나이와 티푸에 선교 거점이 세워졌으나 마야 공동체는 거듭 반란을 일으키거나 숲으로 피신했고, 페텐의 노흐페텐을 중심으로 한 독립 이차 왕국이 내륙 대부분에 영향력을 행사했다. 스페인의 지배는 1697년 노흐페텐 정복 전까지 미약했으며, 정복 이후 서부 벨리즈의 많은 마야인이 강제로 이주되었다.",
+    "zh": "1544年西班牙以暴力征服切图马尔后，伯利兹成为西属尤卡坦的偏远边疆。西班牙在拉马奈和蒂普建立了传教点，但玛雅社群屡次起义或逃入森林，而以佩滕的诺赫佩滕为中心的独立伊察王国在内陆大部分地区保持影响。直到1697年诺赫佩滕被征服之前，西班牙的控制一直薄弱；此后伯利兹西部的许多玛雅人被强制迁徙。",
+    "ja": "1544年にスペインがチェトゥマルを暴力的に征服すると、ベリーズはスペイン領ユカタンの辺境となった。ラマナイやティプに伝道所が置かれたが、マヤの共同体は繰り返し反乱を起こしたり森へ逃れたりし、ペテンのノフペテンを中心とする独立したイツァ王国が内陸の大部分に影響力を及ぼした。スペインの支配は1697年のノフペテン征服まで弱く、征服後は西部ベリーズの多くのマヤ人が強制的に移住させられた。"
+   }
+  },
+  {
+   "from": 1638,
+   "to": 1708,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "English Colonial Empire",
+   "name": {
+    "en": "Early Baymen settlement",
+    "ko": "초기 베이멘 정착지",
+    "zh": "早期“海湾人”定居点",
+    "ja": "初期ベイメン入植地"
+   },
+   "summary": {
+    "en": "From the mid-17th century English buccaneers and logwood cutters, known as Baymen, began to frequent the coast and the mouth of the Belize River, which lay within territory claimed by Spain. Logwood, used to make dyes for the European textile industry, was the basis of their economy. The settlement had no formal government and was exposed to repeated Spanish attacks.",
+    "ko": "17세기 중엽부터 '베이멘'이라 불린 잉글랜드 해적과 로그우드 벌목꾼들이 스페인이 영유권을 주장하던 지역인 해안과 벨리즈강 하구를 드나들기 시작했다. 유럽 섬유 산업의 염료 원료인 로그우드가 이들 경제의 기반이었다. 정착지에는 공식 정부가 없었고 거듭된 스페인의 공격에 노출되어 있었다.",
+    "zh": "从17世纪中叶起，被称为“海湾人”的英格兰海盗和洋苏木伐木工开始出没于西班牙主张主权的海岸和伯利兹河口。用于为欧洲纺织业制造染料的洋苏木是他们的经济基础。该定居点没有正式政府，屡遭西班牙攻击。",
+    "ja": "17世紀半ばから、「ベイメン」と呼ばれたイングランドの海賊やログウッド伐採者たちが、スペインが領有を主張する地域である海岸やベリーズ川河口に出入りするようになった。ヨーロッパの織物産業向け染料の原料であるログウッドが彼らの経済の基盤であった。入植地には正式な政府がなく、度重なるスペインの攻撃にさらされた。"
+   }
+  },
+  {
+   "from": 1709,
+   "to": 1861,
+   "kind": "colonial",
+   "qid": "Q8680",
+   "polity": "British Colonial Empire",
+   "name": {
+    "en": "British settlement in the Bay of Honduras",
+    "ko": "온두라스만의 영국인 정착지",
+    "zh": "洪都拉斯湾英国定居点",
+    "ja": "ホンジュラス湾のイギリス人入植地"
+   },
+   "summary": {
+    "en": "Through the 18th century the settlement at Belize grew under British protection but without British sovereignty, its rights to cut logwood and later mahogany recognized by Spain in treaties of 1763, 1783 and 1786. Its economy depended on enslaved Africans working in remote timber camps, and settlers governed themselves through a Public Meeting and elected magistrates. After repelling a Spanish attack in 1798 the settlement was effectively British, and slavery ended in 1838.",
+    "ko": "18세기 내내 벨리즈 정착지는 영국의 보호를 받았으나 영국의 주권 아래 있지는 않았으며, 로그우드와 이후 마호가니 벌목권은 1763년, 1783년, 1786년 조약에서 스페인의 인정을 받았다. 경제는 외딴 벌목 캠프에서 일하는 아프리카인 노예에 의존했고, 정착민은 공공회의와 선출된 치안판사를 통해 스스로 다스렸다. 1798년 스페인의 공격을 물리친 뒤 정착지는 사실상 영국령이 되었고, 노예제는 1838년에 폐지되었다.",
+    "zh": "整个18世纪，伯利兹定居点在英国保护下发展，但并不处于英国主权之下；其砍伐洋苏木以及后来桃花心木的权利在1763年、1783年和1786年的条约中得到西班牙承认。经济依赖在偏远伐木营地劳作的非洲奴隶，定居者通过公众大会和选举产生的治安官实行自治。1798年击退西班牙进攻后，定居点实际上成为英国领地，奴隶制于1838年结束。",
+    "ja": "18世紀を通じてベリーズの入植地はイギリスの保護下で成長したが、イギリスの主権下にはなく、ログウッドやのちのマホガニーの伐採権は1763年・1783年・1786年の条約でスペインに認められた。経済は奥地の伐採キャンプで働くアフリカ人奴隷に依存し、入植者は公会と選挙で選ばれた治安判事によって自治を行った。1798年にスペインの攻撃を退けた後、入植地は事実上イギリス領となり、奴隷制は1838年に廃止された。"
+   }
+  },
+  {
+   "from": 1862,
+   "to": 1981,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "British Honduras",
+    "ko": "영국령 온두라스",
+    "zh": "英属洪都拉斯",
+    "ja": "イギリス領ホンジュラス"
+   },
+   "summary": {
+    "en": "In 1862 the settlement became the Colony of British Honduras, subordinate to Jamaica until 1884. Forestry companies dominated the economy, while Maya, Mestizo refugees from Yucatán's Caste War, Garifuna, Creoles and later Mennonites shaped a diverse society. Labor protests in the 1930s and the founding of the People's United Party in 1950 launched the independence movement; the colony gained self-government in 1964, was renamed Belize in 1973, and became independent in 1981 despite Guatemala's territorial claim.",
+    "ko": "1862년 정착지는 영국령 온두라스 식민지가 되었고 1884년까지 자메이카의 관할 아래 있었다. 임업 회사들이 경제를 지배했으며, 마야인과 유카탄 카스트 전쟁을 피해 온 메스티소 난민, 가리푸나인, 크리올, 그리고 훗날 메노나이트가 다양한 사회를 이루었다. 1930년대의 노동 투쟁과 1950년 인민통일당 창당으로 독립운동이 시작되었고, 식민지는 1964년 자치권을 얻고 1973년 벨리즈로 개칭된 뒤 과테말라의 영토 주장에도 불구하고 1981년 독립했다.",
+    "zh": "1862年该定居点成为英属洪都拉斯殖民地，至1884年前隶属牙买加。林业公司主导经济，玛雅人、逃离尤卡坦种姓战争的梅斯蒂索难民、加里富纳人、克里奥尔人以及后来的门诺派教徒共同构成了多元社会。20世纪30年代的劳工抗争和1950年人民统一党的成立开启了独立运动；殖民地于1964年获得自治，1973年更名为伯利兹，并在危地马拉提出领土主张的情况下于1981年独立。",
+    "ja": "1862年に入植地はイギリス領ホンジュラス植民地となり、1884年までジャマイカの管轄下に置かれた。林業会社が経済を支配し、マヤ人、ユカタンのカースト戦争を逃れたメスティーソ難民、ガリフナ人、クレオール、のちにはメノナイトが多様な社会を形づくった。1930年代の労働運動と1950年の人民統一党の結成で独立運動が始まり、植民地は1964年に自治を得て1973年にベリーズと改称し、グアテマラの領有権主張にもかかわらず1981年に独立した。"
+   }
+  },
+  {
+   "from": 1981,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q242",
+   "polity": "Belize",
+   "name": {
+    "en": "Independent Belize",
+    "ko": "독립 벨리즈",
+    "zh": "独立的伯利兹",
+    "ja": "独立ベリーズ"
+   },
+   "summary": {
+    "en": "Belize became independent on 21 September 1981 as a parliamentary democracy within the Commonwealth, with the British monarch as head of state. Power has alternated between the People's United Party and the United Democratic Party, while tourism centered on the barrier reef and Maya sites, agriculture and services drive the economy. Guatemala's long-standing territorial claim was submitted to the International Court of Justice after referendums in both countries in 2018 and 2019.",
+    "ko": "벨리즈는 1981년 9월 21일 영국 군주를 국가원수로 하는 영연방 내 의회 민주주의 국가로 독립했다. 인민통일당과 연합민주당이 번갈아 정권을 잡았으며, 산호초와 마야 유적을 중심으로 한 관광, 농업, 서비스업이 경제를 이끌고 있다. 과테말라의 오랜 영토 주장은 2018년과 2019년 양국의 국민투표를 거쳐 국제사법재판소에 회부되었다.",
+    "zh": "伯利兹于1981年9月21日独立，成为英联邦内以英国君主为国家元首的议会民主制国家。人民统一党和联合民主党轮流执政，以堡礁和玛雅遗址为中心的旅游业、农业和服务业是经济支柱。危地马拉长期的领土主张在两国于2018年和2019年分别举行公投后被提交国际法院。",
+    "ja": "ベリーズは1981年9月21日、イギリス君主を国家元首とするイギリス連邦内の議会制民主主義国として独立した。人民統一党と統一民主党が交互に政権を担い、バリアリーフとマヤ遺跡を中心とする観光、農業、サービス業が経済を支えている。グアテマラの長年の領有権主張は、2018年と2019年の両国での国民投票を経て国際司法裁判所に付託された。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2500,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Archaic foragers begin cultivating crops",
+    "ko": "작물 재배를 시작한 아케익기 수렵채집민",
+    "zh": "古代期采集者开始种植作物",
+    "ja": "作物栽培を始めたアルカイック期の採集民"
+   },
+   "description": {
+    "en": "Pollen cores and other environmental evidence from wetlands in northern Belize indicate that, by around the 3rd millennium BC, Archaic-period people were clearing forest and growing maize and manioc alongside hunting, fishing and gathering. Stone tools from this period have been found at numerous sites across the country. This gradual shift toward farming prepared the way for the permanent villages of the Preclassic Maya.",
+    "ko": "북부 벨리즈 습지에서 채취한 꽃가루 시료와 기타 환경 증거는 대략 기원전 3천년기까지 아케익기 사람들이 수렵·어로·채집과 함께 숲을 개간하고 옥수수와 마니오크를 재배했음을 보여 준다. 이 시기의 석기는 전국 여러 유적에서 발견되었다. 농경으로의 이러한 점진적 전환은 전고전기 마야의 영구 마을이 등장할 길을 열었다.",
+    "zh": "伯利兹北部湿地的花粉岩芯和其他环境证据表明，大约到公元前三千纪，古代期的人们在狩猎、捕鱼和采集之外已开始开垦森林、种植玉米和木薯。全国许多遗址都发现了这一时期的石器。这种向农业的逐步转变为前古典期玛雅人的永久村落铺平了道路。",
+    "ja": "ベリーズ北部の湿地で採取された花粉コアなどの環境証拠は、紀元前3千年紀頃までにアルカイック期の人々が狩猟・漁撈・採集と並行して森林を切り開き、トウモロコシやキャッサバを栽培していたことを示している。この時期の石器は国内の多くの遺跡で見つかっている。農耕へのこうした段階的な移行が、先古典期マヤの恒久的な村落への道を開いた。"
+   }
+  },
+  {
+   "year": -1200,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "First Maya farming villages at Cuello",
+    "ko": "쿠에요의 첫 마야 농경 마을",
+    "zh": "奎略的最早玛雅农业村落",
+    "ja": "クエヨにおける最初のマヤ農耕村落"
+   },
+   "description": {
+    "en": "At Cuello in northern Belize archaeologists found one of the earliest known sequences of Maya village life, with houses, pottery and burials beginning around 1200–1000 BC; earlier, older dates proposed for the site were later revised. Comparable early villages appeared at Cahal Pech and Blackman Eddy in the Belize River valley. These communities farmed maize and other crops and gradually built ceremonial platforms.",
+    "ko": "북부 벨리즈의 쿠에요에서 고고학자들은 기원전 1200~1000년경에 시작되는 가옥, 토기, 매장 유구 등 알려진 가장 이른 마야 마을 생활의 연속층 가운데 하나를 발견했다. 이 유적에 대해 처음 제시된 더 이른 연대는 이후 수정되었다. 벨리즈강 유역의 카할페치와 블랙먼에디에도 비슷한 초기 마을이 나타났으며, 이 공동체들은 옥수수 등을 재배하며 점차 의례용 기단을 쌓았다.",
+    "zh": "考古学家在伯利兹北部的奎略发现了已知最早的玛雅村落生活序列之一，房屋、陶器和墓葬始于约公元前1200至前1000年；该遗址最初提出的更早年代后来被修正。伯利兹河谷的卡哈尔佩奇和布莱克曼埃迪也出现了类似的早期村落。这些社群种植玉米等作物，并逐步修建礼仪性台基。",
+    "ja": "ベリーズ北部のクエヨで考古学者は、紀元前1200～1000年頃に始まる住居や土器、埋葬など、知られる限り最古級のマヤの村落生活の連続層を発見した。当初この遺跡に提示されたより古い年代は、のちに修正された。ベリーズ川流域のカハル・ペチやブラックマン・エディにも同様の初期村落が現れ、これらの共同体はトウモロコシなどを栽培しながら次第に儀礼用の基壇を築いた。"
+   }
+  },
+  {
+   "year": -1000,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Early Maya settlements flourish",
+    "ko": "초기 마야 정착지의 번성",
+    "zh": "早期玛雅聚落兴起",
+    "ja": "初期マヤの集落が栄える"
+   },
+   "description": {
+    "en": "During the Middle Preclassic, Maya communities spread across northern and central Belize, and Lamanai on the New River lagoon began a history of occupation that would last more than two thousand years. Villagers developed agriculture, distinctive pottery and early ceremonial architecture. Jade and other exotic goods in burials show that Belize was already part of long-distance exchange networks.",
+    "ko": "전고전기 중기에 마야 공동체는 북부와 중부 벨리즈 전역으로 퍼졌고, 뉴강 석호 변의 라마나이는 2천 년 넘게 이어질 거주의 역사를 시작했다. 마을 사람들은 농업과 독특한 토기, 초기 의례 건축을 발전시켰다. 무덤에서 나온 비취 등 외래 물품은 벨리즈가 이미 원거리 교환망의 일부였음을 보여 준다.",
+    "zh": "前古典期中期，玛雅社群遍布伯利兹北部和中部，位于新河潟湖畔的拉马奈开始了长达两千多年的居住史。村民发展了农业、独特的陶器和早期礼仪建筑。墓葬中的玉器等外来物品表明，伯利兹当时已是远距离交换网络的一部分。",
+    "ja": "先古典期中期にマヤの共同体はベリーズ北部と中部に広がり、ニュー川の潟湖に面したラマナイは2000年以上続く居住の歴史を歩み始めた。村人たちは農業や特色ある土器、初期の儀礼建築を発展させた。墓から出土したヒスイなどの外来品は、ベリーズがすでに遠距離交換網の一部であったことを示している。"
+   }
+  },
+  {
+   "year": -100,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Mask temples of Lamanai and Cerros",
+    "ko": "라마나이와 세로스의 가면 신전",
+    "zh": "拉马奈与塞罗斯的面具神庙",
+    "ja": "ラマナイとセロスの仮面神殿"
+   },
+   "description": {
+    "en": "In the Late Preclassic, around the last centuries BC, Maya builders at Lamanai and at Cerros on Corozal Bay raised large temple-pyramids adorned with monumental stucco masks of deities and rulers. Cerros, a coastal trading center, was largely built in a short burst of construction before it declined. These buildings reflect the emergence of divine kingship in the Maya lowlands.",
+    "ko": "후기 전고전기인 기원전 마지막 몇 세기 무렵, 라마나이와 코로살만의 세로스에서 마야 건축가들은 신과 통치자를 형상화한 거대한 회반죽 가면으로 장식한 대형 신전 피라미드를 세웠다. 해안 교역 중심지였던 세로스는 짧은 기간의 집중적인 건설로 대부분 지어졌다가 쇠퇴했다. 이 건축물들은 마야 저지대에서 신성 왕권이 등장했음을 보여 준다.",
+    "zh": "前古典期晚期，约在公元前最后几个世纪，拉马奈和科罗萨尔湾畔塞罗斯的玛雅建造者修建了饰有神祇和统治者巨型灰泥面具的大型神庙金字塔。沿海贸易中心塞罗斯的大部分建筑是在短期集中建造中完成的，随后便告衰落。这些建筑反映出玛雅低地神圣王权的兴起。",
+    "ja": "先古典期後期、紀元前最後の数世紀頃、ラマナイとコロサル湾岸のセロスでマヤの建設者たちは、神々や支配者をかたどった巨大な漆喰の仮面で飾った大型の神殿ピラミッドを築いた。沿岸の交易拠点セロスは短期間の集中的な建設でほぼ造られたのち衰退した。これらの建造物はマヤ低地における神聖王権の出現を物語っている。"
+   }
+  },
+  {
+   "year": 331,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Caracol's royal dynasty",
+    "ko": "카라콜 왕조의 창시",
+    "zh": "卡拉科尔王朝的建立",
+    "ja": "カラコル王朝の創始"
+   },
+   "description": {
+    "en": "Later hieroglyphic inscriptions at Caracol, in the Maya Mountains of western Belize, name Te' K'ab Chaak as the founder of its ruling dynasty and associate him with a date in AD 331. Over the following centuries Caracol's kings erected stelae and altars recording accessions, rituals and wars. The city's inscriptions are among the richest historical sources for Classic-period Belize.",
+    "ko": "서부 벨리즈 마야 산지에 있는 카라콜의 후대 상형문자 비문은 테크아브차크를 왕조의 창시자로 기록하며 그를 서기 331년의 날짜와 연관 짓는다. 이후 수 세기 동안 카라콜의 왕들은 즉위, 의례, 전쟁을 기록한 석비와 제단을 세웠다. 이 도시의 비문은 고전기 벨리즈에 관한 가장 풍부한 역사 자료 가운데 하나이다.",
+    "zh": "位于伯利兹西部玛雅山脉的卡拉科尔，其后来的象形文字铭文将特克阿布查克记为王朝创始人，并将他与公元331年的日期相联系。此后数百年间，卡拉科尔的国王们竖立石碑和祭坛，记录即位、仪式和战争。该城的铭文是古典期伯利兹最丰富的历史资料之一。",
+    "ja": "ベリーズ西部のマヤ山地にあるカラコルの後代の象形文字碑文は、テ・カブ・チャークを王朝の創始者とし、彼を紀元331年の日付と結びつけている。その後数世紀にわたり、カラコルの王たちは即位や儀礼、戦争を記録した石碑や祭壇を建てた。この都市の碑文は古典期ベリーズに関する最も豊かな歴史資料の一つである。"
+   }
+  },
+  {
+   "year": 553,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Yajaw Te' K'inich II takes the throne of Caracol",
+    "ko": "카라콜의 야하우 테 키니치 2세 즉위",
+    "zh": "亚豪·特·基尼奇二世登上卡拉科尔王位",
+    "ja": "カラコル王ヤハウ・テ・キニチ2世の即位"
+   },
+   "description": {
+    "en": "According to Caracol's inscriptions, Yajaw Te' K'inich II acceded to the throne in 553 under the auspices of the king of Tikal, indicating that Caracol was then within Tikal's sphere. Within a few years the relationship broke down, and Caracol aligned itself with Tikal's great rival, the Kaanul (Snake) kingdom based at Dzibanche and later Calakmul. This realignment set the stage for the war of 562.",
+    "ko": "카라콜의 비문에 따르면 야하우 테 키니치 2세는 553년 티칼 왕의 후원 아래 즉위했는데, 이는 당시 카라콜이 티칼의 세력권에 있었음을 보여 준다. 몇 년 만에 관계가 깨지면서 카라콜은 티칼의 강력한 경쟁자로 지반체와 이후 칼락물을 근거지로 한 카눌(뱀) 왕국 편에 섰다. 이러한 재편은 562년 전쟁의 무대를 마련했다.",
+    "zh": "据卡拉科尔铭文记载，亚豪·特·基尼奇二世于553年在蒂卡尔国王的支持下即位，表明卡拉科尔当时处于蒂卡尔的势力范围内。数年后两者关系破裂，卡拉科尔转而投向蒂卡尔的强大对手——以济班切、后以卡拉克穆尔为中心的卡努尔（蛇）王国。这一转向为562年的战争埋下伏笔。",
+    "ja": "カラコルの碑文によれば、ヤハウ・テ・キニチ2世は553年にティカル王の後ろ盾のもとで即位しており、当時カラコルがティカルの勢力圏にあったことを示している。数年のうちに関係は崩れ、カラコルはティカルの強大なライバルで、ジバンチェ、のちにカラクムルを本拠としたカーヌル（蛇）王国の側についた。この再編が562年の戦争の舞台を整えた。"
+   }
+  },
+  {
+   "year": 562,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Caracol defeats Tikal",
+    "ko": "카라콜, 티칼을 격파하다",
+    "zh": "卡拉科尔击败蒂卡尔",
+    "ja": "カラコルがティカルを破る"
+   },
+   "description": {
+    "en": "In 562 Tikal, the dominant city of the central Maya lowlands, suffered a major defeat recorded on Caracol's Altar 21. Caracol is credited in the inscriptions, though many scholars think the Kaanul kingdom was the leading power behind the victory. Tikal entered a long hiatus without monuments, while Caracol prospered and grew into one of the largest Classic Maya cities, with a population estimated in the tens of thousands or more at its peak.",
+    "ko": "562년 중부 마야 저지대의 패권 도시 티칼은 카라콜의 제단 21에 기록된 큰 패배를 당했다. 비문은 카라콜의 승리로 기록하지만, 많은 학자는 카눌 왕국이 이 승리를 주도한 세력이었다고 본다. 티칼은 기념비가 세워지지 않는 긴 공백기에 들어간 반면, 카라콜은 번영하여 전성기 인구가 수만 명 이상으로 추산되는 고전기 최대급 마야 도시로 성장했다.",
+    "zh": "562年，中部玛雅低地的霸主城市蒂卡尔遭受重大失败，此事记录在卡拉科尔的21号祭坛上。铭文将胜利归于卡拉科尔，但许多学者认为卡努尔王国才是这场胜利背后的主导力量。蒂卡尔此后进入长期不立纪念碑的空白期，而卡拉科尔则繁荣起来，成为古典期最大的玛雅城市之一，鼎盛时期人口估计达数万乃至更多。",
+    "ja": "562年、中部マヤ低地の覇権都市ティカルは、カラコルの祭壇21に記録された大敗を喫した。碑文はカラコルの勝利としているが、多くの研究者はカーヌル王国がこの勝利を主導したと考えている。ティカルは記念碑が建てられない長い空白期に入り、一方のカラコルは繁栄し、最盛期の人口が数万人以上と推定される古典期最大級のマヤ都市へと成長した。"
+   }
+  },
+  {
+   "year": 600,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Altun Ha flourishes as a trading center",
+    "ko": "교역 중심지로 번성한 알툰하",
+    "zh": "阿尔顿哈作为贸易中心繁荣",
+    "ja": "交易拠点として栄えたアルトゥン・ハ"
+   },
+   "description": {
+    "en": "Altun Ha, near the Caribbean coast north of present-day Belize City, flourished in the Early and Late Classic as a center linking coastal trade with the interior. In one of its temples archaeologists in 1968 found a large carved jade head of the sun god K'inich Ajaw, dated to around the 7th century AD. The object is among the largest carved jades known from the Maya world and has become a national symbol of Belize.",
+    "ko": "오늘날 벨리즈시티 북쪽 카리브해 연안 근처의 알툰하는 고전기 전기와 후기에 해안 교역과 내륙을 잇는 중심지로 번성했다. 1968년 고고학자들은 이곳의 한 신전에서 서기 7세기경의 것으로 보이는 태양신 키니치 아하우의 커다란 비취 조각 두상을 발견했다. 이 유물은 마야 세계에서 알려진 가장 큰 비취 조각품 가운데 하나로, 벨리즈의 국가적 상징이 되었다.",
+    "zh": "阿尔顿哈位于今伯利兹城以北的加勒比海岸附近，在古典期早期和晚期作为连接沿海贸易与内陆的中心而繁荣。1968年，考古学家在其一座神庙中发现了一尊大型太阳神基尼奇·阿豪玉雕头像，年代约为公元7世纪。这件文物是玛雅世界已知最大的玉雕之一，已成为伯利兹的国家象征。",
+    "ja": "現在のベリーズシティ北方のカリブ海岸近くにあるアルトゥン・ハは、古典期前期から後期にかけて沿岸交易と内陸を結ぶ拠点として栄えた。1968年、考古学者はその神殿の一つで、紀元7世紀頃のものとされる太陽神キニチ・アハウの大きなヒスイ彫刻の頭部を発見した。この遺物はマヤ世界で知られる最大級のヒスイ彫刻であり、ベリーズの国家的象徴となっている。"
+   }
+  },
+  {
+   "year": 631,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Caracol wars against Naranjo",
+    "ko": "카라콜과 나란호의 전쟁",
+    "zh": "卡拉科尔与纳兰霍之战",
+    "ja": "カラコルとナランホの戦争"
+   },
+   "description": {
+    "en": "Under K'an II, who came to the throne in 618, Caracol and its Kaanul allies waged war on the neighboring kingdom of Naranjo in present-day Guatemala, and inscriptions record Naranjo's defeat in the early 630s. K'an II's reign was a high point of Caracol's power and building activity. Decades later, Naranjo recovered and struck back against Caracol.",
+    "ko": "618년 즉위한 칸 2세 치하에서 카라콜과 그 동맹 카눌은 오늘날 과테말라에 있는 이웃 왕국 나란호와 전쟁을 벌였으며, 비문은 630년대 초 나란호의 패배를 기록하고 있다. 칸 2세의 치세는 카라콜의 국력과 건설 활동이 정점에 이른 시기였다. 수십 년 뒤 나란호는 세력을 회복해 카라콜에 반격했다.",
+    "zh": "在618年即位的坎二世统治下，卡拉科尔及其盟友卡努尔向今危地马拉境内的邻国纳兰霍开战，铭文记载纳兰霍在630年代初战败。坎二世在位期间是卡拉科尔国力和建设活动的鼎盛时期。数十年后，纳兰霍恢复元气并反击卡拉科尔。",
+    "ja": "618年に即位したカン2世のもとで、カラコルと同盟者カーヌルは現在のグアテマラにある隣国ナランホと戦い、碑文は630年代初めのナランホの敗北を記録している。カン2世の治世はカラコルの国力と建設活動の頂点であった。数十年後、ナランホは勢力を回復してカラコルに反撃した。"
+   }
+  },
+  {
+   "year": 730,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Lubaantun rises in southern Belize",
+    "ko": "남부 벨리즈에서 일어난 루반툰",
+    "zh": "伯利兹南部卢班顿兴起",
+    "ja": "ベリーズ南部におけるルバアントゥンの興隆"
+   },
+   "description": {
+    "en": "In the Late Classic, from roughly the 8th century, the city of Lubaantun was built in the Toledo district of southern Belize, distinguished by terraced platforms of finely cut stone laid without mortar. Together with nearby Nim Li Punit, it controlled the cacao-rich foothills of the Maya Mountains. Lubaantun flourished briefly before being abandoned in the 9th century.",
+    "ko": "고전기 후기인 대략 8세기부터 남부 벨리즈 톨레도 지구에 루반툰이 건설되었는데, 이 도시는 회반죽 없이 정교하게 다듬은 돌을 쌓은 계단식 기단으로 유명하다. 이웃한 님리푸닛과 함께 루반툰은 카카오가 풍부한 마야 산지 구릉 지대를 장악했다. 루반툰은 짧은 번영 끝에 9세기에 버려졌다.",
+    "zh": "古典期晚期，约从8世纪起，伯利兹南部托莱多区建起了卢班顿城，其特色是以精细切割、不用灰浆砌成的阶梯式台基。卢班顿与附近的尼姆利普尼特一起控制着玛雅山脉盛产可可的山麓地带。该城短暂繁荣后于9世纪被废弃。",
+    "ja": "古典期後期、おおよそ8世紀から、ベリーズ南部トレド地区にルバアントゥンが築かれた。この都市はモルタルを使わず精巧に切った石を積んだ段状の基壇で知られる。近くのニム・リ・プニットとともに、カカオに富むマヤ山地の山麓を支配した。ルバアントゥンは短い繁栄の後、9世紀に放棄された。"
+   }
+  },
+  {
+   "year": 800,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Xunantunich at its height",
+    "ko": "전성기의 슈난투니치",
+    "zh": "鼎盛时期的苏南图尼奇",
+    "ja": "最盛期のシュナントゥニッチ"
+   },
+   "description": {
+    "en": "Overlooking the Mopan River in western Belize, Xunantunich reached its peak in the Late and Terminal Classic, when its main temple, El Castillo, was enlarged and decorated with an elaborate stucco frieze. The city appears to have grown in importance while neighboring centers declined, possibly with ties to Naranjo. It was largely abandoned during the 10th century as the Classic Maya order collapsed.",
+    "ko": "서부 벨리즈의 모판강을 내려다보는 슈난투니치는 고전기 후기와 종말기에 전성기를 맞았으며, 이때 주신전 엘카스티요가 증축되고 정교한 회반죽 프리즈로 장식되었다. 이 도시는 주변 중심지들이 쇠퇴하는 동안 오히려 중요성이 커졌던 것으로 보이며, 나란호와의 연관 가능성도 제기된다. 고전기 마야 질서가 무너지면서 10세기 중 대부분 버려졌다.",
+    "zh": "苏南图尼奇俯瞰伯利兹西部的莫潘河，在古典期晚期和终末期达到鼎盛，其主神庙“城堡”在此期间被扩建，并饰以精美的灰泥横饰带。在周边中心衰落之际，这座城市的地位似乎反而上升，可能与纳兰霍存在联系。随着古典期玛雅秩序崩溃，该城在10世纪基本被废弃。",
+    "ja": "ベリーズ西部のモパン川を見下ろすシュナントゥニッチは古典期後期から終末期に最盛期を迎え、主神殿エル・カスティーヨが増築されて精巧な漆喰のフリーズで飾られた。周辺の中心地が衰える中でこの都市はむしろ重要性を増したとみられ、ナランホとの関係も指摘されている。古典期マヤの秩序が崩壊するなか、10世紀中にほぼ放棄された。"
+   }
+  },
+  {
+   "year": 900,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Classic Maya collapse",
+    "ko": "고전기 마야 문명의 붕괴",
+    "zh": "古典玛雅文明衰落",
+    "ja": "古典期マヤ文明の崩壊"
+   },
+   "description": {
+    "en": "Between the late 8th and 10th centuries the great Maya cities of the region, including Caracol, Xunantunich and Lubaantun, were gradually abandoned. Scholars attribute the collapse to a combination of drought, environmental strain, endemic warfare and the breakdown of royal authority. Some communities, notably Lamanai on the New River lagoon, remained inhabited for centuries afterward.",
+    "ko": "8세기 말부터 10세기 사이 카라콜, 슈난투니치, 루반툰을 비롯한 이 지역의 대도시들이 점차 버려졌다. 학자들은 가뭄, 환경 압박, 고질적인 전쟁, 왕권의 붕괴가 복합적으로 작용해 붕괴가 일어났다고 본다. 뉴강 석호 변의 라마나이 같은 일부 공동체는 이후로도 수 세기 동안 사람이 살았다.",
+    "zh": "8世纪末至10世纪间，该地区的大型玛雅城市，包括卡拉科尔、苏南图尼奇和卢班顿，逐渐被废弃。学者们认为，这一崩溃是干旱、环境压力、频繁战争和王权瓦解共同作用的结果。一些社群，尤其是新河潟湖畔的拉马奈，此后数百年仍有人居住。",
+    "ja": "8世紀末から10世紀にかけて、カラコル、シュナントゥニッチ、ルバアントゥンなどこの地域の大都市は次第に放棄された。研究者は干ばつ、環境への負荷、絶え間ない戦争、王権の崩壊が複合的に作用したと考えている。ニュー川の潟湖に面したラマナイなど一部の共同体は、その後も数世紀にわたって人が住み続けた。"
+   }
+  },
+  {
+   "year": 1200,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Lamanai thrives in the Postclassic",
+    "ko": "후고전기에 번영한 라마나이",
+    "zh": "后古典期繁荣的拉马奈",
+    "ja": "後古典期に栄えたラマナイ"
+   },
+   "description": {
+    "en": "Unlike most Classic cities, Lamanai continued to be occupied and to build after the collapse, and in the Postclassic it remained an active community engaged in trade. Excavations have uncovered Postclassic houses, burials and metal objects, including copper items obtained through long-distance exchange. Lamanai's unbroken occupation from the Preclassic to the Spanish colonial period is exceptional in the Maya world.",
+    "ko": "대부분의 고전기 도시와 달리 라마나이는 붕괴 이후에도 계속 사람이 살며 건축 활동을 이어 갔고, 후고전기에도 교역에 종사하는 활발한 공동체로 남았다. 발굴에서는 후고전기의 가옥과 무덤, 그리고 원거리 교환으로 얻은 구리 제품을 포함한 금속 유물이 드러났다. 전고전기부터 스페인 식민 시기까지 끊김 없이 이어진 라마나이의 거주는 마야 세계에서 예외적이다.",
+    "zh": "与大多数古典期城市不同，拉马奈在崩溃后仍有人居住并继续营建，在后古典期依然是一个从事贸易的活跃社群。发掘出土了后古典期的房屋、墓葬和金属器物，其中包括通过远距离交换获得的铜器。拉马奈从前古典期到西班牙殖民时期从未中断的居住史在玛雅世界中十分罕见。",
+    "ja": "多くの古典期都市と異なり、ラマナイは崩壊後も人が住み建設を続け、後古典期にも交易に携わる活発な共同体であり続けた。発掘では後古典期の住居や墓、遠距離交換で得た銅製品を含む金属遺物が見つかっている。先古典期からスペイン植民地期まで途切れることのないラマナイの居住は、マヤ世界でも例外的である。"
+   }
+  },
+  {
+   "year": 1350,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Santa Rita Corozal and the province of Chetumal",
+    "ko": "산타리타코로살과 체투말 지방",
+    "zh": "圣丽塔科罗萨尔与切图马尔省",
+    "ja": "サンタ・リタ・コロサルとチェトゥマル地方"
+   },
+   "description": {
+    "en": "In the Late Postclassic, Santa Rita Corozal on Chetumal Bay grew into a large center, and many scholars identify it with the capital of the Maya province of Chetumal. Its buildings were decorated with polychrome murals in the international Mixteca-Puebla style, showing ties to wider Mesoamerican trade networks. The province exported cacao and honey and was a political power on the eve of Spanish contact.",
+    "ko": "후기 후고전기에 체투말만의 산타리타코로살은 큰 중심지로 성장했으며, 많은 학자는 이곳을 마야 체투말 지방의 수도로 본다. 건물들은 국제적인 믹스테카-푸에블라 양식의 다색 벽화로 장식되어 더 넓은 메소아메리카 교역망과의 연계를 보여 준다. 체투말 지방은 카카오와 꿀을 수출했고, 스페인과 접촉하기 직전 정치적 강국이었다.",
+    "zh": "后古典期晚期，切图马尔湾畔的圣丽塔科罗萨尔发展为大型中心，许多学者认为它就是玛雅切图马尔省的首府。其建筑饰有国际性的米斯特克-普埃布拉风格彩色壁画，显示出与更广阔的中美洲贸易网络的联系。该省出口可可和蜂蜜，在与西班牙人接触前夕是一方政治强权。",
+    "ja": "後古典期後期、チェトゥマル湾岸のサンタ・リタ・コロサルは大きな中心地に成長し、多くの研究者はここをマヤのチェトゥマル地方の首都とみている。建物は国際的なミシュテカ・プエブラ様式の多色壁画で飾られ、より広いメソアメリカの交易網とのつながりを示している。この地方はカカオや蜂蜜を輸出し、スペイン人との接触の直前には政治的な強国であった。"
+   }
+  },
+  {
+   "year": 1511,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Gonzalo Guerrero joins the Maya of Chetumal",
+    "ko": "체투말 마야에 합류한 곤살로 게레로",
+    "zh": "贡萨洛·格雷罗投身切图马尔玛雅人",
+    "ja": "チェトゥマルのマヤに加わったゴンサロ・ゲレロ"
+   },
+   "description": {
+    "en": "In 1511 a Spanish ship was wrecked off the Yucatán coast, and survivors were captured by the Maya. One of them, Gonzalo Guerrero, came to live in Chetumal, a province that included northern Belize, where he married into the local elite and, according to Spanish chroniclers, refused to rejoin his countrymen. He is said to have advised the Maya on resisting the Spanish, and he is remembered in Mexico as a symbol of mestizaje.",
+    "ko": "1511년 스페인 선박이 유카탄 해안에서 난파했고, 생존자들은 마야인에게 붙잡혔다. 그중 곤살로 게레로는 북부 벨리즈를 포함한 체투말 지방에 살게 되어 현지 지배층과 혼인했으며, 스페인 연대기 작가들에 따르면 동포에게 돌아가기를 거부했다. 그는 마야인에게 스페인에 맞서는 방법을 조언했다고 전해지며, 멕시코에서는 메스티사헤(혼혈)의 상징으로 기억된다.",
+    "zh": "1511年，一艘西班牙船在尤卡坦海岸附近失事，幸存者被玛雅人俘获。其中的贡萨洛·格雷罗来到包括伯利兹北部在内的切图马尔省生活，与当地贵族联姻；据西班牙编年史家记载，他拒绝回到同胞之中。据说他曾为玛雅人出谋划策抵抗西班牙人，在墨西哥被视为混血融合的象征。",
+    "ja": "1511年、スペイン船がユカタン沖で難破し、生存者はマヤ人に捕らえられた。その一人ゴンサロ・ゲレロは、ベリーズ北部を含むチェトゥマル地方で暮らすようになって地元の支配層と結婚し、スペインの年代記作者によれば同胞のもとへ戻ることを拒んだ。彼はマヤ人にスペインへの抵抗法を助言したと伝えられ、メキシコではメスティサーヘ（混血）の象徴として記憶されている。"
+   }
+  },
+  {
+   "year": 1531,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Dávila's failed attempt to settle Chetumal",
+    "ko": "다빌라의 체투말 정착 시도 실패",
+    "zh": "达维拉在切图马尔殖民失败",
+    "ja": "ダビラによるチェトゥマル入植の失敗"
+   },
+   "description": {
+    "en": "As part of Francisco de Montejo's conquest of Yucatán, Alonso Dávila led an expedition to Chetumal in 1531 and founded a Spanish town, Villa Real, in the area. Maya resistance and lack of supplies forced the Spaniards to abandon it, and Dávila's men retreated south by canoe along the coast. The episode delayed Spanish control of the region for more than a decade.",
+    "ko": "프란시스코 데 몬테호의 유카탄 정복의 일환으로 알론소 다빌라는 1531년 체투말로 원정해 그 일대에 스페인 도시 비야레알을 세웠다. 마야인의 저항과 보급 부족으로 스페인인은 이곳을 포기해야 했고, 다빌라 일행은 카누를 타고 해안을 따라 남쪽으로 퇴각했다. 이 일로 이 지역에 대한 스페인의 지배는 10여 년 늦춰졌다.",
+    "zh": "作为弗朗西斯科·德·蒙特霍征服尤卡坦的一部分，阿隆索·达维拉于1531年率远征队前往切图马尔，并在当地建立西班牙城镇比利亚雷亚尔。由于玛雅人的抵抗和补给匮乏，西班牙人被迫放弃该城，达维拉的部下乘独木舟沿海岸南撤。这一事件使西班牙对该地区的控制推迟了十余年。",
+    "ja": "フランシスコ・デ・モンテホによるユカタン征服の一環として、アロンソ・ダビラは1531年にチェトゥマルへ遠征し、その一帯にスペイン人の町ビジャ・レアルを建てた。マヤ人の抵抗と補給不足のためスペイン人は町を放棄せざるを得ず、ダビラの一行はカヌーで海岸沿いに南へ退却した。この出来事により、この地域へのスペインの支配は10年以上遅れた。"
+   }
+  },
+  {
+   "year": 1544,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Spanish conquest of Chetumal",
+    "ko": "스페인의 체투말 정복",
+    "zh": "西班牙征服切图马尔",
+    "ja": "スペインによるチェトゥマル征服"
+   },
+   "description": {
+    "en": "In 1544 Spanish forces under Gaspar and Melchor Pacheco campaigned through the province of Chetumal, including northern Belize, with notorious brutality, killing and enslaving many Maya and destroying crops. The conquest brought the area nominally under Spanish Yucatán and the encomienda system. Population decline from violence and European diseases devastated Maya communities in the following decades.",
+    "ko": "1544년 가스파르 파체코와 멜초르 파체코가 이끄는 스페인군은 북부 벨리즈를 포함한 체투말 지방을 휩쓸며 악명 높은 잔혹 행위를 벌여 많은 마야인을 죽이거나 노예로 삼고 농작물을 파괴했다. 이 정복으로 이 지역은 명목상 스페인령 유카탄과 엥코미엔다 제도 아래 들어갔다. 폭력과 유럽에서 온 질병으로 인한 인구 감소는 이후 수십 년간 마야 공동체를 황폐하게 했다.",
+    "zh": "1544年，加斯帕尔·帕切科和梅尔乔·帕切科率领的西班牙军队扫荡了包括伯利兹北部在内的切图马尔省，其暴行臭名昭著，大量玛雅人被杀或沦为奴隶，庄稼遭毁。此次征服使该地区在名义上归入西属尤卡坦和监护征赋制。此后数十年间，暴力和欧洲传入的疾病导致人口锐减，玛雅社群遭受重创。",
+    "ja": "1544年、ガスパル・パチェコとメルチョル・パチェコの率いるスペイン軍はベリーズ北部を含むチェトゥマル地方を転戦し、悪名高い残虐さで多くのマヤ人を殺害・奴隷化し、作物を破壊した。この征服でこの地域は名目上スペイン領ユカタンとエンコミエンダ制のもとに入った。暴力とヨーロッパから持ち込まれた疫病による人口減少は、その後数十年にわたりマヤの共同体を荒廃させた。"
+   }
+  },
+  {
+   "year": 1570,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Spanish missions at Lamanai and Tipu",
+    "ko": "라마나이와 티푸의 스페인 선교 거점",
+    "zh": "西班牙在拉马奈和蒂普的传教点",
+    "ja": "ラマナイとティプのスペイン伝道所"
+   },
+   "description": {
+    "en": "In the second half of the 16th century Franciscan friars from Yucatán established visita missions among the Maya of Belize, building churches at Lamanai and at Tipu on the Macal River. The ruins of Lamanai's colonial churches still stand beside the ancient Maya temples. The missions were remote and poorly supported, and Maya Christianity there blended with older traditions.",
+    "ko": "16세기 후반 유카탄의 프란치스코회 수사들은 벨리즈의 마야인 사이에 순회 선교 거점을 세우고, 라마나이와 마칼강 변의 티푸에 교회를 지었다. 라마나이의 식민지 시대 교회 유적은 지금도 고대 마야 신전 옆에 남아 있다. 이 선교 거점들은 외지고 지원이 빈약했으며, 그곳 마야인의 그리스도교는 오랜 전통과 뒤섞였다.",
+    "zh": "16世纪下半叶，来自尤卡坦的方济各会修士在伯利兹的玛雅人中设立巡回传教点，在拉马奈和马卡尔河畔的蒂普修建了教堂。拉马奈殖民时期教堂的遗迹至今仍矗立在古代玛雅神庙旁。这些传教点地处偏远、支持匮乏，当地玛雅人的基督教信仰与古老传统相互交融。",
+    "ja": "16世紀後半、ユカタンのフランシスコ会修道士はベリーズのマヤ人の間に巡回伝道所を設け、ラマナイとマカル川沿いのティプに教会を建てた。ラマナイの植民地時代の教会跡は今も古代マヤの神殿の傍らに残っている。これらの伝道所は辺境にあって支援も乏しく、現地のマヤ人のキリスト教は古い伝統と融合した。"
+   }
+  },
+  {
+   "year": 1618,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Friars Fuensalida and Orbita at Tipu",
+    "ko": "티푸의 푸엔살리다와 오르비타 수사",
+    "zh": "富恩萨利达和奥尔维塔修士在蒂普",
+    "ja": "ティプのフエンサリダとオルビタ両修道士"
+   },
+   "description": {
+    "en": "In 1618 the Franciscan friars Bartolomé de Fuensalida and Juan de Orbita traveled through Tipu in western Belize, the frontier Maya town on the route to the independent Itza capital of Nojpetén. They visited the Itza king Kan Ek' in an attempt to convert him, but were rebuffed. Tipu remained a crucial intermediary between Spanish Yucatán and the unconquered Itza.",
+    "ko": "1618년 프란치스코회 수사 바르톨로메 데 푸엔살리다와 후안 데 오르비타는 독립 이차 왕국의 수도 노흐페텐으로 가는 길목에 있는 서부 벨리즈의 변경 마야 마을 티푸를 거쳐 갔다. 이들은 이차 왕 칸 에크를 찾아가 개종시키려 했으나 거절당했다. 티푸는 스페인령 유카탄과 정복되지 않은 이차 사이의 중요한 중개지로 남았다.",
+    "zh": "1618年，方济各会修士巴托洛梅·德·富恩萨利达和胡安·德·奥尔维塔途经伯利兹西部的边疆玛雅城镇蒂普，该镇位于通往独立的伊察首都诺赫佩滕的路上。他们拜访伊察国王坎·埃克，试图使其皈依，但遭到拒绝。蒂普一直是西属尤卡坦与未被征服的伊察人之间的重要中介。",
+    "ja": "1618年、フランシスコ会の修道士バルトロメ・デ・フエンサリダとフアン・デ・オルビタは、独立したイツァの首都ノフペテンへの途上にある西部ベリーズの辺境のマヤの町ティプを通った。彼らはイツァ王カン・エクを訪ねて改宗させようとしたが拒まれた。ティプはスペイン領ユカタンと未征服のイツァとの重要な仲介地であり続けた。"
+   }
+  },
+  {
+   "year": 1638,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Maya revolt drives out the Spanish",
+    "ko": "스페인을 몰아낸 마야인의 반란",
+    "zh": "玛雅人起义驱逐西班牙人",
+    "ja": "スペイン人を追い出したマヤ人の反乱"
+   },
+   "description": {
+    "en": "Around 1638 the Maya of Tipu and other communities in the Belize missions rose against Spanish authority, abandoning the mission towns and expelling or ignoring Spanish clergy. For several decades the region slipped out of effective Spanish control, with Tipu aligning itself more closely with the Itza. The revolt left the coast of Belize largely unguarded, a gap later exploited by English logwood cutters.",
+    "ko": "1638년경 티푸를 비롯한 벨리즈 선교 지역의 마야 공동체들이 스페인 당국에 맞서 봉기해 선교 마을을 버리고 스페인 성직자를 내쫓거나 무시했다. 이후 수십 년 동안 이 지역은 스페인의 실효적 통제에서 벗어났고, 티푸는 이차와 더 가까워졌다. 이 반란으로 벨리즈 해안은 사실상 무방비 상태가 되었고, 훗날 잉글랜드 로그우드 벌목꾼들이 그 틈을 파고들었다.",
+    "zh": "约1638年，蒂普等伯利兹传教区的玛雅社群起来反抗西班牙当局，放弃传教村镇，驱逐或无视西班牙神职人员。此后数十年间，该地区脱离了西班牙的有效控制，蒂普与伊察人的关系更加密切。这次起义使伯利兹海岸几乎无人设防，后来被英格兰洋苏木伐木工乘虚而入。",
+    "ja": "1638年頃、ティプをはじめベリーズの伝道区のマヤの共同体がスペイン当局に対して蜂起し、伝道村を捨て、スペイン人聖職者を追放あるいは無視した。その後数十年間、この地域はスペインの実効支配を離れ、ティプはイツァとの結びつきを強めた。この反乱でベリーズの海岸は事実上無防備となり、のちにイングランドのログウッド伐採者がその隙を突いた。"
+   }
+  },
+  {
+   "year": 1638,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "British Baymen settle the Belize coast",
+    "ko": "영국 '베이멘'의 벨리즈 해안 정착",
+    "zh": "英国伐木者定居伯利兹海岸",
+    "ja": "イギリス人「ベイメン」がベリーズ沿岸に定住"
+   },
+   "description": {
+    "en": "Belizean tradition dates the first English settlement to 1638, though firm evidence of a permanent settlement at the mouth of the Belize River comes from later in the 17th century. Buccaneers who had raided Spanish shipping turned to cutting logwood, a source of valuable textile dyes, and came to be known as Baymen. Their camps were the origin of the British settlement that became Belize.",
+    "ko": "벨리즈의 전승은 잉글랜드인의 첫 정착을 1638년으로 보지만, 벨리즈강 하구에 영구 정착지가 있었다는 확실한 증거는 17세기 후반의 것이다. 스페인 선박을 약탈하던 해적들은 귀중한 섬유 염료의 원료인 로그우드 벌목으로 생업을 바꾸었고, '베이멘'으로 불리게 되었다. 이들의 캠프가 훗날 벨리즈가 되는 영국 정착지의 기원이 되었다.",
+    "zh": "伯利兹传统说法将英格兰人的首次定居定于1638年，但伯利兹河口存在永久定居点的确凿证据则来自17世纪后期。曾劫掠西班牙船只的海盗转而砍伐洋苏木——一种珍贵纺织染料的原料，并被称为“海湾人”。他们的营地成为后来伯利兹这一英国定居点的起源。",
+    "ja": "ベリーズの伝承はイングランド人の最初の入植を1638年とするが、ベリーズ川河口に恒久的な入植地があったことを示す確かな証拠は17世紀後半のものである。スペイン船を襲っていた海賊たちは、貴重な織物染料の原料であるログウッドの伐採に転じ、「ベイメン」と呼ばれるようになった。彼らのキャンプが、のちにベリーズとなるイギリス人入植地の起源となった。"
+   }
+  },
+  {
+   "year": 1697,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of the Itza capital Nojpetén",
+    "ko": "이차의 수도 노흐페텐 함락",
+    "zh": "伊察首都诺赫佩滕陷落",
+    "ja": "イツァの首都ノフペテンの陥落"
+   },
+   "description": {
+    "en": "In March 1697 a Spanish force under Martín de Urzúa y Arizmendi stormed Nojpetén, the island capital of the Itza kingdom on Lake Petén Itzá, ending the last independent Maya kingdom. The Itza had long held influence over the interior of what is now Belize. After the conquest Spain moved to consolidate the Petén frontier and resettle the Maya of the borderlands.",
+    "ko": "1697년 3월 마르틴 데 우르수아 이 아리스멘디가 이끄는 스페인군은 페텐이차호의 섬에 있던 이차 왕국의 수도 노흐페텐을 함락해 마지막 독립 마야 왕국을 끝냈다. 이차는 오랫동안 오늘날 벨리즈 내륙에 영향력을 행사해 왔다. 정복 이후 스페인은 페텐 변경을 확고히 하고 접경 지대의 마야인을 재정착시키려 했다.",
+    "zh": "1697年3月，马丁·德·乌尔苏亚·伊·阿里斯门迪率领的西班牙军队攻陷了位于佩滕伊察湖岛上的伊察王国首都诺赫佩滕，终结了最后一个独立的玛雅王国。伊察人长期对今伯利兹内陆地区具有影响力。征服之后，西班牙着手巩固佩滕边疆，并迁移边境地区的玛雅人。",
+    "ja": "1697年3月、マルティン・デ・ウルスア・イ・アリスメンディの率いるスペイン軍は、ペテン・イツァ湖の島にあったイツァ王国の首都ノフペテンを攻略し、最後の独立したマヤ王国を滅ぼした。イツァは長く現在のベリーズ内陸に影響力を及ぼしていた。征服後、スペインはペテンの辺境を固め、国境地帯のマヤ人を移住させようとした。"
+   }
+  },
+  {
+   "year": 1707,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Tipu's Maya relocated to Petén",
+    "ko": "페텐으로 이주당한 티푸의 마야인",
+    "zh": "蒂普的玛雅人被迁往佩滕",
+    "ja": "ペテンへ移住させられたティプのマヤ人"
+   },
+   "description": {
+    "en": "In 1707 Spanish authorities forcibly removed the remaining population of Tipu and nearby communities in western Belize to the shores of Lake Petén Itzá. The relocation emptied much of the Belizean interior of its long-established Maya towns. The depopulated region later became the domain of British woodcutters, while Maya groups from Yucatán and Guatemala would resettle parts of it in the 19th century.",
+    "ko": "1707년 스페인 당국은 서부 벨리즈의 티푸와 인근 공동체에 남아 있던 주민을 페텐이차호 연안으로 강제 이주시켰다. 이 이주로 벨리즈 내륙에 오래 자리 잡았던 마야 마을들이 대부분 비게 되었다. 인구가 사라진 이 지역은 이후 영국 벌목꾼의 영역이 되었고, 19세기에는 유카탄과 과테말라의 마야 집단이 일부 지역에 다시 정착했다.",
+    "zh": "1707年，西班牙当局将伯利兹西部蒂普及附近社群的剩余居民强制迁往佩滕伊察湖畔。这次迁徙使伯利兹内陆由来已久的玛雅城镇大多人去楼空。人口流失的地区后来成为英国伐木者的天地，19世纪又有来自尤卡坦和危地马拉的玛雅群体重新定居其中部分地区。",
+    "ja": "1707年、スペイン当局は西部ベリーズのティプと近隣の共同体に残っていた住民を、ペテン・イツァ湖畔へ強制移住させた。これによりベリーズ内陸に古くからあったマヤの町の多くが無人となった。人口を失った地域はその後イギリス人伐採者の領域となり、19世紀にはユカタンやグアテマラのマヤ集団が一部に再び定住した。"
+   }
+  },
+  {
+   "year": 1763,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Paris grants logging rights",
+    "ko": "파리 조약으로 벌목권 인정",
+    "zh": "《巴黎条约》承认英国伐木权",
+    "ja": "パリ条約で伐採権が認められる"
+   },
+   "description": {
+    "en": "The Treaty of Paris that ended the Seven Years' War obliged Spain to allow British subjects to cut logwood in the Bay of Honduras, while Britain agreed to demolish fortifications there and Spain retained sovereignty. The compromise gave the Baymen legal standing for the first time but no defined territory. Disputes over its interpretation shaped decades of Anglo-Spanish tension.",
+    "ko": "7년 전쟁을 끝낸 파리 조약에 따라 스페인은 영국인이 온두라스만에서 로그우드를 벌목하도록 허용해야 했으며, 영국은 그곳의 요새를 허물기로 하고 스페인은 주권을 유지했다. 이 타협으로 베이멘은 처음으로 법적 지위를 얻었지만 경계가 정해진 영토는 없었다. 조약 해석을 둘러싼 분쟁은 수십 년에 걸친 영국·스페인 간 긴장을 낳았다.",
+    "zh": "结束七年战争的《巴黎条约》规定，西班牙须允许英国臣民在洪都拉斯湾砍伐洋苏木，英国则同意拆除当地防御工事，西班牙保留主权。这一妥协首次赋予“海湾人”合法地位，但并未划定领土。围绕条约解释的争议造成了英西之间数十年的紧张关系。",
+    "ja": "七年戦争を終結させたパリ条約により、スペインはイギリス臣民がホンジュラス湾でログウッドを伐採することを認めざるを得ず、イギリスはその地の要塞を撤去することに同意し、スペインは主権を保持した。この妥協でベイメンは初めて法的な地位を得たが、範囲の定まった領土はなかった。条約の解釈をめぐる対立は、数十年にわたる英西間の緊張を生んだ。"
+   }
+  },
+  {
+   "year": 1765,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Burnaby's Code",
+    "ko": "버나비 법전",
+    "zh": "《伯纳比法典》",
+    "ja": "バーナビー法典"
+   },
+   "description": {
+    "en": "In 1765 Rear Admiral Sir William Burnaby, commander of the Royal Navy's Jamaica station, visited the settlement and drew up a set of regulations for its government. Known as Burnaby's Code, it provided for elected magistrates and rules on trade, crime and conduct. The code formalized the settlers' tradition of self-government through the Public Meeting.",
+    "ko": "1765년 영국 해군 자메이카 기지 사령관 윌리엄 버나비 해군 소장은 정착지를 방문해 그 통치를 위한 규정을 마련했다. '버나비 법전'으로 알려진 이 규정은 선출직 치안판사와 교역·범죄·행동에 관한 규칙을 담았다. 이 법전은 공공회의를 통한 정착민의 자치 전통을 공식화했다.",
+    "zh": "1765年，英国皇家海军牙买加基地司令威廉·伯纳比海军少将访问该定居点，制定了一套治理章程。这套被称为《伯纳比法典》的规章规定了选举产生的治安官以及有关贸易、犯罪和行为的规则。该法典使定居者通过公众大会实行自治的传统正式化。",
+    "ja": "1765年、イギリス海軍ジャマイカ基地司令官ウィリアム・バーナビー少将は入植地を訪れ、その統治のための規則を定めた。「バーナビー法典」として知られるこの規則は、選挙で選ばれる治安判事や、交易・犯罪・行動に関する規定を設けた。この法典は公会を通じた入植者の自治の伝統を正式なものにした。"
+   }
+  },
+  {
+   "year": 1779,
+   "qid": "Q5036996",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Spanish capture of St. George's Caye",
+    "ko": "스페인의 세인트조지스케이 점령",
+    "zh": "西班牙攻占圣乔治礁",
+    "ja": "スペインによるセント・ジョージズ・キー占領"
+   },
+   "description": {
+    "en": "When Spain entered the American Revolutionary War against Britain in 1779, Spanish forces from Bacalar raided St. George's Caye, then the settlement's main town. Settlers and enslaved people were captured and taken to Mérida and Havana. The settlement was largely abandoned until the peace of 1783 allowed the Baymen to return.",
+    "ko": "1779년 스페인이 미국 독립전쟁에 영국의 적으로 참전하자, 바칼라르에서 출동한 스페인군은 당시 정착지의 중심 마을이던 세인트조지스케이를 습격했다. 정착민과 노예들은 붙잡혀 메리다와 아바나로 끌려갔다. 정착지는 1783년 강화로 베이멘이 돌아올 수 있게 될 때까지 대부분 버려졌다.",
+    "zh": "1779年西班牙加入美国独立战争与英国为敌，来自巴卡拉尔的西班牙军队袭击了当时定居点的主要城镇圣乔治礁。定居者和奴隶被俘并押往梅里达和哈瓦那。在1783年和约允许“海湾人”返回之前，定居点基本被废弃。",
+    "ja": "1779年にスペインがアメリカ独立戦争にイギリスの敵として参戦すると、バカラルから出撃したスペイン軍は、当時入植地の中心の町であったセント・ジョージズ・キーを襲撃した。入植者と奴隷は捕らえられ、メリダやハバナへ連行された。入植地は、1783年の講和でベイメンの帰還が認められるまで、ほぼ放棄された。"
+   }
+  },
+  {
+   "year": 1783,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Versailles defines the logging area",
+    "ko": "벌목 구역을 정한 베르사유 조약",
+    "zh": "《凡尔赛条约》划定伐木区",
+    "ja": "伐採区域を定めたヴェルサイユ条約"
+   },
+   "description": {
+    "en": "The 1783 Treaty of Versailles between Britain and Spain allowed the Baymen to return and, for the first time, defined an area between the Hondo and Belize rivers where they could cut logwood. Spain retained sovereignty and prohibited agriculture and fortifications. The settlers resettled on the Belize River, where Belize Town grew into the main settlement.",
+    "ko": "1783년 영국과 스페인 간의 베르사유 조약은 베이멘의 귀환을 허용하고, 처음으로 온도강과 벨리즈강 사이에 로그우드를 벌목할 수 있는 구역을 정했다. 스페인은 주권을 유지하며 농업과 요새 건설을 금지했다. 정착민은 벨리즈강 변에 다시 자리 잡았고, 벨리즈 타운이 주요 정착지로 성장했다.",
+    "zh": "1783年英西两国签订的《凡尔赛条约》允许“海湾人”返回，并首次在翁多河与伯利兹河之间划定了可砍伐洋苏木的区域。西班牙保留主权，禁止农耕和修筑工事。定居者重新在伯利兹河畔安顿，伯利兹镇发展成为主要定居点。",
+    "ja": "1783年のイギリスとスペインのヴェルサイユ条約は、ベイメンの帰還を認め、初めてオンド川とベリーズ川の間にログウッドを伐採できる区域を定めた。スペインは主権を保持し、農業と要塞の建設を禁じた。入植者はベリーズ川沿いに再び住み、ベリーズ・タウンが主要な入植地へと成長した。"
+   }
+  },
+  {
+   "year": 1786,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Convention of London extends the settlement",
+    "ko": "정착지를 넓힌 런던 협약",
+    "zh": "《伦敦公约》扩大定居区",
+    "ja": "入植地を拡大したロンドン協定"
+   },
+   "description": {
+    "en": "The 1786 Convention of London extended the British woodcutting area south to the Sibun River and permitted the cutting of mahogany, which was becoming more valuable than logwood. In return Britain evacuated its settlers from the Mosquito Shore of Nicaragua and Honduras, many of whom moved to Belize in 1787 with enslaved people. Mahogany cutting in remote forest camps dominated the economy for the next century.",
+    "ko": "1786년 런던 협약은 영국의 벌목 구역을 남쪽의 시분강까지 넓히고, 로그우드보다 값어치가 높아지던 마호가니 벌목을 허용했다. 그 대가로 영국은 니카라과와 온두라스의 모스키토 해안에서 정착민을 철수시켰고, 그들 다수는 1787년 노예들을 데리고 벨리즈로 옮겨 왔다. 이후 한 세기 동안 외딴 숲 캠프에서의 마호가니 벌목이 경제를 지배했다.",
+    "zh": "1786年的《伦敦公约》将英国的伐木区向南扩展到西本河，并允许砍伐价值日益超过洋苏木的桃花心木。作为交换，英国从尼加拉瓜和洪都拉斯的莫斯基托海岸撤出定居者，其中许多人于1787年携奴隶迁至伯利兹。此后一个世纪，偏远林区营地的桃花心木采伐主导了经济。",
+    "ja": "1786年のロンドン協定は、イギリスの伐採区域を南のシブン川まで広げ、ログウッドより価値が高まっていたマホガニーの伐採を認めた。その見返りにイギリスはニカラグアとホンジュラスのモスキート海岸から入植者を撤退させ、その多くは1787年に奴隷を連れてベリーズへ移った。以後1世紀にわたり、奥地の森林キャンプでのマホガニー伐採が経済を支配した。"
+   }
+  },
+  {
+   "year": 1798,
+   "qid": "Q2890055",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of St. George's Caye",
+    "ko": "세인트조지스케이 해전",
+    "zh": "圣乔治礁海战",
+    "ja": "セント・ジョージズ・キーの海戦"
+   },
+   "description": {
+    "en": "In September 1798 a Spanish flotilla from Yucatán attempted to expel the settlement, but was repulsed near St. George's Caye by settlers, enslaved Africans and a British naval sloop. The victory ended Spanish attempts to remove the Baymen and was later seen as the moment the settlement became effectively British. The battle is commemorated on 10 September as a national holiday, though its meaning is debated because of the role of slavery.",
+    "ko": "1798년 9월 유카탄에서 온 스페인 함대가 정착지를 몰아내려 했으나, 세인트조지스케이 부근에서 정착민과 아프리카인 노예, 영국 해군 슬루프함에 의해 격퇴되었다. 이 승리로 베이멘을 몰아내려는 스페인의 시도는 끝났고, 이후 정착지가 사실상 영국령이 된 순간으로 여겨졌다. 이 전투는 9월 10일 국경일로 기념되지만, 노예제와 관련된 측면 때문에 그 의미를 두고 논쟁이 있다.",
+    "zh": "1798年9月，一支来自尤卡坦的西班牙船队企图驱逐该定居点，但在圣乔治礁附近被定居者、非洲奴隶和一艘英国海军单桅战船击退。这场胜利终结了西班牙驱逐“海湾人”的企图，后来被视为定居点实际成为英国领地的时刻。每年9月10日作为国定假日纪念这场战役，但由于涉及奴隶制，其意义存在争议。",
+    "ja": "1798年9月、ユカタンから来たスペイン艦隊が入植地の駆逐を試みたが、セント・ジョージズ・キー付近で入植者とアフリカ人奴隷、イギリス海軍のスループ艦によって撃退された。この勝利でベイメンを排除しようとするスペインの試みは終わり、のちに入植地が事実上イギリス領となった瞬間とみなされた。この戦いは9月10日の祝日として記念されているが、奴隷制が関わるためその意味については議論がある。"
+   }
+  },
+  {
+   "year": 1820,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Slave revolt on the Belize River",
+    "ko": "벨리즈강의 노예 반란",
+    "zh": "伯利兹河奴隶起义",
+    "ja": "ベリーズ川の奴隷反乱"
+   },
+   "description": {
+    "en": "In 1820 enslaved woodcutters in the timber camps along the Belize and Sibun rivers rose in revolt, protesting harsh treatment. The authorities declared martial law and sent troops from Belize Town against the rebels. It was the largest of several uprisings and escapes, since enslaved people could flee to Spanish-speaking territories where they might find freedom.",
+    "ko": "1820년 벨리즈강과 시분강을 따라 늘어선 벌목 캠프의 노예 벌목꾼들이 가혹한 대우에 항의하며 반란을 일으켰다. 당국은 계엄령을 선포하고 벨리즈 타운에서 반란자들을 향해 군대를 보냈다. 노예들이 자유를 얻을 수 있는 스페인어권 지역으로 도망칠 수 있었기에 여러 차례 봉기와 탈출이 있었고, 이는 그중 가장 큰 사건이었다.",
+    "zh": "1820年，伯利兹河和西本河沿岸伐木营地的奴隶伐木工因不堪虐待而起义。当局宣布戒严，并从伯利兹镇派兵镇压起义者。由于奴隶可以逃往可能获得自由的西班牙语地区，当地曾发生多次起义和逃亡，这是其中规模最大的一次。",
+    "ja": "1820年、ベリーズ川とシブン川沿いの伐採キャンプの奴隷の伐採労働者たちが、過酷な扱いに抗議して反乱を起こした。当局は戒厳令を布告し、ベリーズ・タウンから反乱者に向けて軍隊を送った。奴隷は自由を得られる可能性のあるスペイン語圏へ逃げることができたため、蜂起や逃亡はたびたび起き、これはその中で最大のものであった。"
+   }
+  },
+  {
+   "year": 1832,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Garifuna settle in southern Belize",
+    "ko": "남부 벨리즈에 정착한 가리푸나인",
+    "zh": "加里富纳人定居伯利兹南部",
+    "ja": "ベリーズ南部に定住したガリフナ人"
+   },
+   "description": {
+    "en": "The Garifuna, descendants of Africans and Indigenous Caribs deported by the British from St. Vincent to the Bay Islands of Honduras in 1797, spread along the Central American coast and settled in southern Belize in the early 19th century. Belizean tradition marks 19 November 1832 as the date of a major arrival at Stann Creek, now Dangriga, celebrated as Garifuna Settlement Day. Garifuna language, music and dance are recognized by UNESCO as intangible cultural heritage.",
+    "ko": "1797년 영국에 의해 세인트빈센트에서 온두라스 베이제도로 추방된 아프리카인과 원주민 카리브인의 후손인 가리푸나인은 중앙아메리카 해안을 따라 퍼졌고, 19세기 초 남부 벨리즈에 정착했다. 벨리즈 전승은 1832년 11월 19일을 오늘날 당그리가인 스탠크리크에 대규모로 도착한 날로 기리며, 이날은 '가리푸나 정착의 날'로 기념된다. 가리푸나의 언어, 음악, 춤은 유네스코 인류무형문화유산으로 인정받았다.",
+    "zh": "加里富纳人是非洲人与原住民加勒比人的后裔，1797年被英国人从圣文森特驱逐到洪都拉斯的海湾群岛，此后沿中美洲海岸扩散，并于19世纪初定居伯利兹南部。伯利兹传统将1832年11月19日定为他们大批抵达斯坦溪（今丹格里加）的日子，并作为“加里富纳定居日”加以庆祝。加里富纳的语言、音乐和舞蹈被联合国教科文组织列为人类非物质文化遗产。",
+    "ja": "ガリフナ人は、1797年にイギリスによってセントビンセントからホンジュラスのバイア諸島へ追放されたアフリカ人と先住カリブ人の子孫で、中米の海岸沿いに広がり、19世紀初めにベリーズ南部に定住した。ベリーズの伝承は1832年11月19日を、現在のダングリガであるスタン・クリークに大規模に到着した日とし、「ガリフナ入植記念日」として祝っている。ガリフナの言語・音楽・舞踊はユネスコの無形文化遺産に登録されている。"
+   }
+  },
+  {
+   "year": 1838,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Emancipation of enslaved people",
+    "ko": "노예 해방",
+    "zh": "奴隶获得解放",
+    "ja": "奴隷解放"
+   },
+   "description": {
+    "en": "Under the British Slavery Abolition Act of 1833, slavery in the settlement ended in 1834, but the formerly enslaved were bound to an apprenticeship system that ended on 1 August 1838, bringing full emancipation. Slave owners were compensated, while the freed received nothing and were kept dependent through control of land and advance-payment systems in the mahogany camps. The Creole population of African descent became the core of Belize Town's society.",
+    "ko": "1833년 영국 노예제 폐지법에 따라 정착지의 노예제는 1834년에 끝났지만, 해방된 이들은 견습 제도에 묶여 있었고 1838년 8월 1일 이 제도가 끝나며 완전한 해방이 이루어졌다. 노예 소유주는 보상을 받았으나 해방된 이들은 아무것도 받지 못했고, 토지 통제와 마호가니 캠프의 선불 제도를 통해 계속 종속 상태에 놓였다. 아프리카계 크리올 주민은 벨리즈 타운 사회의 중심이 되었다.",
+    "zh": "根据1833年英国《废除奴隶制法案》，定居点的奴隶制于1834年终结，但获释者仍受学徒制约束，直到1838年8月1日学徒制结束才获得完全解放。奴隶主得到了补偿，获释者却一无所获，并因土地控制和桃花心木营地的预付工资制度而继续处于依附地位。非洲裔克里奥尔人成为伯利兹镇社会的核心。",
+    "ja": "1833年のイギリス奴隷制度廃止法により入植地の奴隷制は1834年に終わったが、解放された人々は徒弟制度に縛られ、1838年8月1日にこの制度が終わって完全な解放が実現した。奴隷所有者は補償を受けたが、解放された人々は何も得られず、土地の支配やマホガニーキャンプの前貸し制度によって従属状態に置かれ続けた。アフリカ系のクレオール住民がベリーズ・タウンの社会の中核となった。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Caste War refugees arrive from Yucatán",
+    "ko": "유카탄 카스트 전쟁 난민의 유입",
+    "zh": "尤卡坦种姓战争难民涌入",
+    "ja": "ユカタンのカースト戦争難民の流入"
+   },
+   "description": {
+    "en": "The Caste War of Yucatán, a Maya uprising against the Mexican state that began in 1847, sent thousands of Mestizo and Maya refugees south into northern Belize from 1848. They founded or expanded towns such as Corozal and Orange Walk and introduced sugarcane cultivation on a larger scale. Their descendants make up much of the Mestizo population of northern Belize today.",
+    "ko": "1847년에 시작된 멕시코 국가에 대한 마야인의 봉기인 유카탄 카스트 전쟁으로, 1848년부터 수천 명의 메스티소와 마야 난민이 남쪽의 북부 벨리즈로 피난했다. 이들은 코로살과 오렌지워크 같은 마을을 세우거나 넓혔으며, 사탕수수 재배를 대규모로 들여왔다. 그 후손은 오늘날 북부 벨리즈 메스티소 인구의 상당 부분을 이룬다.",
+    "zh": "1847年爆发的尤卡坦种姓战争是一场玛雅人反抗墨西哥国家的起义，自1848年起，数千名梅斯蒂索人和玛雅难民南逃至伯利兹北部。他们建立或扩大了科罗萨尔和奥兰治沃克等城镇，并引入了较大规模的甘蔗种植。他们的后代构成了今日伯利兹北部梅斯蒂索人口的主体。",
+    "ja": "1847年に始まった、メキシコ国家に対するマヤ人の蜂起であるユカタンのカースト戦争により、1848年から数千人のメスティーソとマヤ人の難民が南のベリーズ北部へ逃れた。彼らはコロサルやオレンジ・ウォークなどの町を建設・拡大し、サトウキビ栽培を大規模に導入した。その子孫は今日のベリーズ北部のメスティーソ人口の多くを占めている。"
+   }
+  },
+  {
+   "year": 1859,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Anglo-Guatemalan Treaty of 1859",
+    "ko": "1859년 영국·과테말라 조약",
+    "zh": "1859年英国—危地马拉条约",
+    "ja": "1859年の英・グアテマラ条約"
+   },
+   "description": {
+    "en": "In 1859 Britain and Guatemala signed a treaty recognizing the boundaries of the British settlement, extending south to the Sarstoon River. Article 7 provided for the two parties jointly to build a road from Guatemala City to the Caribbean coast, but the road was never built. Guatemala later argued that this failure voided the treaty, the basis of its long-running claim to Belizean territory.",
+    "ko": "1859년 영국과 과테말라는 남쪽 사르스툰강까지 이르는 영국 정착지의 경계를 인정하는 조약을 체결했다. 제7조는 양측이 공동으로 과테말라시티에서 카리브해 연안까지 도로를 건설한다고 규정했으나, 도로는 끝내 건설되지 않았다. 과테말라는 이후 이 불이행으로 조약이 무효가 되었다고 주장했으며, 이것이 벨리즈 영토에 대한 오랜 영유권 주장의 근거가 되었다.",
+    "zh": "1859年，英国与危地马拉签订条约，承认英国定居点向南延伸至萨斯通河的边界。条约第七条规定双方共同修建一条从危地马拉城通往加勒比海岸的道路，但这条路始终未建。危地马拉后来主张，这一未履行使条约失效，这成为其对伯利兹领土长期主张的依据。",
+    "ja": "1859年、イギリスとグアテマラは、南はサースタン川に至るイギリス人入植地の境界を認める条約を結んだ。第7条は両者が共同でグアテマラ市からカリブ海岸までの道路を建設すると定めていたが、道路は結局建設されなかった。グアテマラはのちにこの不履行で条約は無効になったと主張し、これがベリーズ領土に対する長年の領有権主張の根拠となった。"
+   }
+  },
+  {
+   "year": 1862,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Colony of British Honduras established",
+    "ko": "영국령 온두라스 식민지 성립",
+    "zh": "正式成为英属洪都拉斯殖民地",
+    "ja": "イギリス領ホンジュラス植民地の成立"
+   },
+   "description": {
+    "en": "In 1862 the settlement was formally declared a British colony named British Honduras, with a lieutenant governor subordinate to the governor of Jamaica. In 1871 the settlers' legislative assembly gave up its powers and the territory became a crown colony governed directly by Britain. It became a separate colony, independent of Jamaica, in 1884.",
+    "ko": "1862년 정착지는 영국령 온두라스라는 영국 식민지로 공식 선포되었으며, 자메이카 총독의 관할을 받는 부총독이 다스렸다. 1871년 정착민의 입법의회가 권한을 포기하면서 이 영토는 영국이 직접 통치하는 직할 식민지가 되었다. 1884년에는 자메이카에서 분리된 별도의 식민지가 되었다.",
+    "zh": "1862年，该定居点被正式宣布为英国殖民地，称为英属洪都拉斯，由隶属牙买加总督的副总督管理。1871年定居者的立法议会放弃权力，该领地成为英国直接统治的直辖殖民地。1884年，它脱离牙买加，成为单独的殖民地。",
+    "ja": "1862年、入植地はイギリス領ホンジュラスという名のイギリス植民地として正式に宣言され、ジャマイカ総督の管轄下にある副総督が統治した。1871年に入植者の立法議会が権限を放棄し、領土はイギリスが直接統治する直轄植民地となった。1884年にはジャマイカから分離した独立の植民地となった。"
+   }
+  },
+  {
+   "year": 1866,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Icaiché Maya clash with colonial forces",
+    "ko": "이카이체 마야와 식민지군의 충돌",
+    "zh": "伊凯切玛雅人与殖民军冲突",
+    "ja": "イカイチェ・マヤと植民地軍の衝突"
+   },
+   "description": {
+    "en": "In the 1860s Icaiché Maya led by Marcos Canul, who disputed British claims in the northwest, raided mahogany camps and villages. In December 1866 a colonial detachment was routed near the village of San Pedro, alarming the colonial authorities. In 1872 Canul attacked the barracks at Orange Walk and was mortally wounded, after which the Icaiché raids subsided.",
+    "ko": "1860년대 북서부에 대한 영국의 영유권 주장에 이의를 제기한 마르코스 카눌이 이끄는 이카이체 마야인은 마호가니 캠프와 마을을 습격했다. 1866년 12월 산페드로 마을 부근에서 식민지 파견대가 패주하면서 식민 당국은 크게 긴장했다. 1872년 카눌은 오렌지워크의 병영을 공격했다가 치명상을 입었고, 이후 이카이체의 습격은 잦아들었다.",
+    "zh": "19世纪60年代，由马科斯·卡努尔领导、对英国在西北部的领土主张提出异议的伊凯切玛雅人袭击了桃花心木营地和村庄。1866年12月，一支殖民地分遣队在圣佩德罗村附近溃败，令殖民当局深感震惊。1872年卡努尔进攻奥兰治沃克的兵营时受了致命伤，此后伊凯切人的袭击逐渐平息。",
+    "ja": "1860年代、北西部に対するイギリスの領有権主張に異議を唱えたマルコス・カヌル率いるイカイチェ・マヤは、マホガニーキャンプや村を襲撃した。1866年12月にはサン・ペドロ村付近で植民地の分遣隊が敗走し、植民地当局を驚かせた。1872年、カヌルはオレンジ・ウォークの兵営を攻撃して致命傷を負い、その後イカイチェの襲撃は収まった。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Ex-servicemen's riot",
+    "ko": "제대 군인 폭동",
+    "zh": "退伍军人骚乱",
+    "ja": "復員兵の暴動"
+   },
+   "description": {
+    "en": "In July 1919 Black soldiers of the British Honduras contingent, returning from service in the First World War during which they had faced racial discrimination, rioted in Belize Town together with civilians angered by poverty and colonial inequality. The disturbances were suppressed, but they reflected the spread of new ideas of racial pride, including Marcus Garvey's Universal Negro Improvement Association. The riot is seen as an early stirring of Belizean nationalism.",
+    "ko": "1919년 7월, 제1차 세계대전에 참전해 인종 차별을 겪고 돌아온 영국령 온두라스 파견대의 흑인 병사들이 빈곤과 식민지 불평등에 분노한 시민들과 함께 벨리즈 타운에서 폭동을 일으켰다. 소요는 진압되었지만, 마커스 가비의 세계흑인향상협회를 비롯한 새로운 인종적 자긍심 사상이 퍼지고 있었음을 보여 주었다. 이 폭동은 벨리즈 민족주의의 초기 움직임으로 여겨진다.",
+    "zh": "1919年7月，曾在第一次世界大战中服役并遭受种族歧视的英属洪都拉斯分遣队黑人士兵归国后，与因贫困和殖民不平等而愤怒的平民一起在伯利兹镇发动骚乱。骚乱被镇压，但反映出包括马库斯·加维的“世界黑人进步协会”在内的种族自豪新思想的传播。这次骚乱被视为伯利兹民族主义的早期萌动。",
+    "ja": "1919年7月、第一次世界大戦に従軍して人種差別を受けたイギリス領ホンジュラス派遣隊の黒人兵士たちが帰還後、貧困や植民地の不平等に怒る市民とともにベリーズ・タウンで暴動を起こした。騒乱は鎮圧されたが、マーカス・ガーベイの世界黒人向上協会をはじめとする新たな人種的誇りの思想が広がっていたことを示した。この暴動はベリーズ民族主義の初期の胎動とみなされている。"
+   }
+  },
+  {
+   "year": 1931,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Hurricane devastates Belize Town",
+    "ko": "허리케인, 벨리즈 시가지를 강타",
+    "zh": "飓风重创伯利兹城",
+    "ja": "ハリケーンがベリーズの町を直撃"
+   },
+   "description": {
+    "en": "On 10 September 1931, during the St. George's Caye Day celebrations, a powerful hurricane struck Belize Town with little warning, and its storm surge flooded the low-lying capital. Estimates of the dead range from about 1,000 to 2,500, a large share of the town's population. Slow and inadequate relief during the Great Depression exposed colonial neglect and fueled the labor movement of the 1930s.",
+    "ko": "1931년 9월 10일 세인트조지스케이 기념일 행사 도중, 강력한 허리케인이 거의 예고 없이 벨리즈 타운을 강타했고 폭풍 해일이 저지대의 수도를 덮쳤다. 사망자 추정치는 약 1,000명에서 2,500명에 이르며, 이는 도시 인구의 상당 부분이었다. 대공황기의 느리고 불충분한 구호는 식민 당국의 방치를 드러내며 1930년대 노동 운동에 불을 붙였다.",
+    "zh": "1931年9月10日圣乔治礁纪念日庆祝活动期间，一场强飓风几乎毫无预警地袭击伯利兹镇，风暴潮淹没了地势低洼的首府。死亡人数估计在约1000至2500人之间，占该镇人口的很大比例。大萧条时期救援迟缓且不足，暴露出殖民当局的漠视，并助长了20世纪30年代的劳工运动。",
+    "ja": "1931年9月10日、セント・ジョージズ・キー記念日の祝賀のさなか、強力なハリケーンがほとんど予告なくベリーズ・タウンを直撃し、高潮が低地の首都を浸水させた。死者は約1000人から2500人と推定され、町の人口の大きな割合を占めた。大恐慌期の遅く不十分な救援は植民地の怠慢を露呈し、1930年代の労働運動に火をつけた。"
+   }
+  },
+  {
+   "year": 1934,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Labor protests led by Antonio Soberanis",
+    "ko": "안토니오 소베라니스가 이끈 노동 투쟁",
+    "zh": "安东尼奥·索韦拉尼斯领导的劳工抗议",
+    "ja": "アントニオ・ソベラニスが率いた労働運動"
+   },
+   "description": {
+    "en": "In 1934, amid unemployment and hardship after the hurricane and the Depression, Antonio Soberanis Gómez founded the Labourers and Unemployed Association and led mass meetings, petitions and strikes. Clashes with police and the arrest of Soberanis drew wide attention. The movement pushed the colonial government to legalize trade unions in the early 1940s and laid foundations for later nationalist politics.",
+    "ko": "허리케인과 대공황 이후 실업과 궁핍이 이어지던 1934년, 안토니오 소베라니스 고메스는 노동자·실업자협회를 결성하고 대중 집회와 청원, 파업을 이끌었다. 경찰과의 충돌과 소베라니스의 체포는 큰 관심을 불러일으켰다. 이 운동은 식민 정부가 1940년대 초 노동조합을 합법화하도록 압박했고, 훗날 민족주의 정치의 토대를 놓았다.",
+    "zh": "1934年，在飓风和大萧条之后的失业与困苦中，安东尼奥·索韦拉尼斯·戈麦斯创立了劳工与失业者协会，领导群众集会、请愿和罢工。与警察的冲突以及索韦拉尼斯被捕引起广泛关注。该运动促使殖民政府在20世纪40年代初将工会合法化，并为后来的民族主义政治奠定了基础。",
+    "ja": "ハリケーンと大恐慌の後、失業と困窮が続いた1934年、アントニオ・ソベラニス・ゴメスは労働者・失業者協会を結成し、大衆集会や請願、ストライキを率いた。警察との衝突やソベラニスの逮捕は大きな注目を集めた。この運動は植民地政府に1940年代初めの労働組合の合法化を促し、のちの民族主義政治の基礎を築いた。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "People's United Party founded",
+    "ko": "인민통일당 창당",
+    "zh": "人民统一党成立",
+    "ja": "人民統一党の結成"
+   },
+   "description": {
+    "en": "After the colonial governor devalued the British Honduras dollar at the end of 1949 against popular opposition, protest leaders founded the People's United Party on 29 September 1950. Led by figures including George Price, the PUP demanded constitutional reform, self-government and eventually independence. It became the dominant force in Belizean politics for decades.",
+    "ko": "1949년 말 식민지 총독이 대중의 반대를 무릅쓰고 영국령 온두라스 달러를 평가절하하자, 항의 운동 지도자들은 1950년 9월 29일 인민통일당(PUP)을 창당했다. 조지 프라이스 등이 이끈 PUP는 헌법 개혁과 자치, 궁극적으로는 독립을 요구했다. 이 당은 이후 수십 년 동안 벨리즈 정치의 지배적인 세력이 되었다.",
+    "zh": "1949年底，殖民地总督不顾民众反对将英属洪都拉斯元贬值，抗议运动领袖们于1950年9月29日成立了人民统一党。在乔治·普赖斯等人的领导下，该党要求宪政改革、自治并最终独立。此后数十年间，它一直是伯利兹政坛的主导力量。",
+    "ja": "1949年末に植民地総督が民衆の反対を押し切ってイギリス領ホンジュラス・ドルを切り下げると、抗議運動の指導者たちは1950年9月29日に人民統一党（PUP）を結成した。ジョージ・プライスらが率いたPUPは憲法改革と自治、そして最終的な独立を要求した。同党はその後数十年にわたりベリーズ政治の支配的勢力となった。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First elections under universal adult suffrage",
+    "ko": "보통선거에 의한 첫 선거",
+    "zh": "首次普选",
+    "ja": "初の普通選挙"
+   },
+   "description": {
+    "en": "A new constitution introduced universal adult suffrage and an elected majority in the Legislative Assembly, and in the 1954 elections the People's United Party won a large majority of seats. The result confirmed the PUP as the voice of the nationalist movement. Over the following decade Britain conceded further steps toward ministerial government.",
+    "ko": "새 헌법으로 성인 보통선거와 선출직 의원이 다수를 차지하는 입법의회가 도입되었고, 1954년 선거에서 인민통일당이 의석 대부분을 차지했다. 이 결과로 PUP는 민족주의 운동의 대변자로 확고히 자리 잡았다. 이후 10년 동안 영국은 장관 책임 정부를 향한 추가 조치를 허용했다.",
+    "zh": "新宪法引入了成年人普选权，并使立法议会中民选议员占多数。在1954年的选举中，人民统一党赢得了绝大多数席位。这一结果确立了该党作为民族主义运动代言人的地位。此后十年间，英国进一步让步，逐步推行部长负责制政府。",
+    "ja": "新憲法により成人の普通選挙権と、選挙で選ばれる議員が多数を占める立法議会が導入され、1954年の選挙で人民統一党が議席の大多数を獲得した。この結果、PUPは民族主義運動の代弁者としての地位を固めた。その後10年間に、イギリスは大臣責任制の政府に向けたさらなる措置を認めた。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Mennonite communities settle in Belize",
+    "ko": "벨리즈에 정착한 메노나이트 공동체",
+    "zh": "门诺派社区在伯利兹定居",
+    "ja": "ベリーズに定住したメノナイト共同体"
+   },
+   "description": {
+    "en": "In 1958 Mennonite farmers, mostly of Low German-speaking descent, began arriving from Mexico and Canada after the colonial government granted them land, exemption from military service and freedom to run their own schools. They founded communities such as Spanish Lookout, Blue Creek and Shipyard. Mennonite farms became leading producers of poultry, dairy, grain and furniture for the country.",
+    "ko": "1958년 식민 정부가 토지와 병역 면제, 자체 학교 운영의 자유를 보장하자, 대부분 저지 독일어를 쓰는 혈통의 메노나이트 농민들이 멕시코와 캐나다에서 이주해 오기 시작했다. 이들은 스패니시룩아웃, 블루크릭, 십야드 같은 공동체를 세웠다. 메노나이트 농장은 이 나라의 가금류, 유제품, 곡물, 가구의 주요 생산자가 되었다.",
+    "zh": "1958年，殖民政府授予门诺派教徒土地、免服兵役和自办学校的自由后，大多为低地德语后裔的门诺派农民开始从墨西哥和加拿大迁来。他们建立了西班牙瞭望、蓝溪和船坞等社区。门诺派农场成为该国禽肉、乳制品、粮食和家具的主要生产者。",
+    "ja": "1958年、植民地政府が土地と兵役免除、独自の学校運営の自由を認めると、主に低地ドイツ語系のメノナイトの農民がメキシコやカナダから移住し始めた。彼らはスパニッシュ・ルックアウト、ブルー・クリーク、シップヤードなどの共同体を築いた。メノナイトの農場は、国内の鶏肉、乳製品、穀物、家具の主要な生産者となった。"
+   }
+  },
+  {
+   "year": 1961,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Hurricane Hattie strikes",
+    "ko": "허리케인 해티 내습",
+    "zh": "飓风哈蒂来袭",
+    "ja": "ハリケーン・ハティが襲来"
+   },
+   "description": {
+    "en": "On 31 October 1961 Hurricane Hattie devastated Belize City with violent winds and a storm surge, killing hundreds of people in the colony and destroying much of the city. The disaster revealed the vulnerability of the coastal capital. It prompted the decision to build a new inland capital, Belmopan, which was inaugurated in 1970.",
+    "ko": "1961년 10월 31일 허리케인 해티는 맹렬한 바람과 폭풍 해일로 벨리즈시티를 초토화해 식민지에서 수백 명의 목숨을 앗아 가고 도시 대부분을 파괴했다. 이 재난은 해안 수도의 취약성을 드러냈다. 그 결과 내륙에 새 수도 벨모판을 건설하기로 결정되었고, 벨모판은 1970년에 출범했다.",
+    "zh": "1961年10月31日，飓风哈蒂以狂风和风暴潮重创伯利兹城，殖民地数百人遇难，城市大部分被毁。这场灾难暴露了沿海首府的脆弱性，促使当局决定在内陆兴建新首都贝尔莫潘，新首都于1970年启用。",
+    "ja": "1961年10月31日、ハリケーン・ハティは猛烈な風と高潮でベリーズシティを壊滅させ、植民地で数百人の命を奪い、市の大部分を破壊した。この災害は沿岸の首都の脆弱さを明らかにした。これを受けて内陸に新首都ベルモパンを建設することが決まり、ベルモパンは1970年に発足した。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Internal self-government granted",
+    "ko": "내부 자치권 획득",
+    "zh": "获得内部自治权",
+    "ja": "内政自治権を獲得"
+   },
+   "description": {
+    "en": "In 1964 a new constitution gave British Honduras full internal self-government, with George Price as premier, while Britain retained responsibility for defense, foreign affairs and internal security. Independence was delayed mainly by Guatemala's territorial claim and fears of invasion. The territory was renamed Belize in June 1973.",
+    "ko": "1964년 새 헌법으로 영국령 온두라스는 조지 프라이스를 총리로 하는 완전한 내부 자치를 얻었고, 영국은 국방·외교·국내 치안에 대한 책임을 유지했다. 독립은 주로 과테말라의 영유권 주장과 침공 우려 때문에 늦어졌다. 1973년 6월 이 영토는 벨리즈로 개칭되었다.",
+    "zh": "1964年，新宪法使英属洪都拉斯获得完全的内部自治，由乔治·普赖斯出任总理，英国则保留国防、外交和内部安全的责任。独立主要因危地马拉的领土主张和对入侵的担忧而推迟。1973年6月该领地更名为伯利兹。",
+    "ja": "1964年、新憲法によりイギリス領ホンジュラスはジョージ・プライスを首相とする完全な内政自治を得て、イギリスは防衛・外交・国内治安の責任を保持した。独立は主にグアテマラの領有権主張と侵攻への懸念のために遅れた。1973年6月、領土はベリーズと改称された。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Belmopan becomes the capital",
+    "ko": "수도가 된 벨모판",
+    "zh": "贝尔莫潘成为首都",
+    "ja": "首都となったベルモパン"
+   },
+   "description": {
+    "en": "In 1970 the seat of government moved from Belize City to Belmopan, a new planned capital built about 80 kilometers inland after Hurricane Hattie. The government hoped it would be safe from hurricanes and encourage development of the interior. Belize City nevertheless remained the country's largest city and commercial center.",
+    "ko": "1970년 정부 소재지는 허리케인 해티 이후 내륙으로 약 80㎞ 들어간 곳에 새로 건설된 계획 수도 벨모판으로 벨리즈시티에서 옮겨졌다. 정부는 새 수도가 허리케인으로부터 안전하고 내륙 개발을 촉진하기를 기대했다. 그럼에도 벨리즈시티는 나라 최대의 도시이자 상업 중심지로 남았다.",
+    "zh": "1970年，政府所在地从伯利兹城迁至贝尔莫潘。这座新规划的首都是在飓风哈蒂之后于内陆约80公里处兴建的。政府希望新首都免受飓风威胁并带动内陆发展。尽管如此，伯利兹城仍是该国最大的城市和商业中心。",
+    "ja": "1970年、政府の所在地はベリーズシティから、ハリケーン・ハティ後に内陸約80キロの地に建設された計画首都ベルモパンへ移された。政府は新首都がハリケーンから安全で、内陸の開発を促すことを期待した。それでもベリーズシティは国内最大の都市であり商業の中心であり続けた。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "British reinforcements deter Guatemala",
+    "ko": "과테말라를 억제한 영국군 증원",
+    "zh": "英国增兵威慑危地马拉",
+    "ja": "グアテマラを抑止したイギリス軍の増派"
+   },
+   "description": {
+    "en": "Amid Guatemalan troop movements near the border in 1975 and again in 1977, Britain reinforced its garrison in Belize, including with Harrier jump jets. The deployments were intended to deter any attempt to seize the territory by force. A British military presence remained after independence to guarantee Belize's security.",
+    "ko": "1975년과 1977년 국경 부근에서 과테말라군의 움직임이 포착되자, 영국은 해리어 수직 이착륙기를 포함해 벨리즈 주둔군을 증강했다. 이 배치는 무력으로 영토를 점령하려는 어떤 시도도 억제하기 위한 것이었다. 영국군은 독립 이후에도 벨리즈의 안전을 보장하기 위해 주둔했다.",
+    "zh": "1975年及1977年，危地马拉军队在边境附近调动，英国随即增强驻伯利兹部队，包括部署“鹞”式垂直起降战斗机。此举旨在威慑任何以武力夺取该领土的企图。独立后英国军队仍继续驻扎，以保障伯利兹的安全。",
+    "ja": "1975年と1977年に国境付近でグアテマラ軍の動きが見られると、イギリスはハリアー垂直離着陸機を含めてベリーズの駐留軍を増強した。この展開は、武力で領土を奪おうとするいかなる試みも抑止するためであった。独立後もイギリス軍はベリーズの安全を保障するため駐留を続けた。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "UN backs Belizean independence",
+    "ko": "벨리즈 독립을 지지한 국제연합",
+    "zh": "联合国支持伯利兹独立",
+    "ja": "ベリーズ独立を支持した国際連合"
+   },
+   "description": {
+    "en": "In November 1980 the United Nations General Assembly passed a resolution calling for Belize's independence with its territory intact, after Belizean leaders had campaigned internationally, winning support from Latin American and non-aligned states. The resolution isolated Guatemala diplomatically. Britain then moved to set a date for independence.",
+    "ko": "1980년 11월 국제연합 총회는 벨리즈 지도자들이 국제적으로 활동해 라틴아메리카와 비동맹 국가들의 지지를 얻어 낸 끝에, 영토를 온전히 유지한 채 벨리즈가 독립해야 한다는 결의안을 통과시켰다. 이 결의로 과테말라는 외교적으로 고립되었다. 이어 영국은 독립 일정을 정하는 절차에 들어갔다.",
+    "zh": "1980年11月，在伯利兹领导人积极开展国际游说、赢得拉丁美洲和不结盟国家支持之后，联合国大会通过决议，呼吁伯利兹在领土完整的前提下实现独立。该决议使危地马拉在外交上陷入孤立。英国随即着手确定独立日期。",
+    "ja": "1980年11月、ベリーズの指導者が国際的な働きかけを行い、ラテンアメリカ諸国や非同盟諸国の支持を得たのを受けて、国際連合総会は領土を保全したままでのベリーズ独立を求める決議を採択した。この決議でグアテマラは外交的に孤立した。イギリスはその後、独立の日程を定める手続きに入った。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence of Belize",
+    "ko": "벨리즈 독립",
+    "zh": "伯利兹独立",
+    "ja": "ベリーズ独立"
+   },
+   "description": {
+    "en": "Belize became an independent nation within the Commonwealth on 21 September 1981, with George Price as first prime minister and Queen Elizabeth II as head of state. Guatemala refused to recognize the new state, and British troops remained to deter aggression. Belize joined the United Nations the same year.",
+    "ko": "벨리즈는 1981년 9월 21일 조지 프라이스를 초대 총리로, 엘리자베스 2세 여왕을 국가원수로 하여 영연방 내 독립국이 되었다. 과테말라는 새 국가의 승인을 거부했고, 영국군은 침략을 억제하기 위해 주둔을 계속했다. 벨리즈는 같은 해 국제연합에 가입했다.",
+    "zh": "1981年9月21日，伯利兹成为英联邦内的独立国家，乔治·普赖斯出任首任总理，伊丽莎白二世女王为国家元首。危地马拉拒绝承认这个新国家，英国军队继续驻扎以防范侵略。伯利兹于同年加入联合国。",
+    "ja": "ベリーズは1981年9月21日、ジョージ・プライスを初代首相、エリザベス2世女王を国家元首としてイギリス連邦内の独立国となった。グアテマラは新国家の承認を拒み、イギリス軍は侵略を抑止するため駐留を続けた。ベリーズは同年、国際連合に加盟した。"
+   }
+  },
+  {
+   "year": 1984,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First change of government after independence",
+    "ko": "독립 후 첫 정권 교체",
+    "zh": "独立后首次政府更迭",
+    "ja": "独立後初の政権交代"
+   },
+   "description": {
+    "en": "In the December 1984 general election the United Democratic Party under Manuel Esquivel defeated the People's United Party, ending more than three decades of PUP dominance. The peaceful transfer of power established a pattern of alternation between the two main parties. Esquivel's government emphasized private enterprise and closer ties with the United States.",
+    "ko": "1984년 12월 총선에서 마누엘 에스키벨이 이끈 연합민주당(UDP)이 인민통일당을 꺾으며 30여 년에 걸친 PUP의 지배를 끝냈다. 평화로운 정권 이양은 두 주요 정당이 번갈아 집권하는 전통을 세웠다. 에스키벨 정부는 민간 기업 육성과 미국과의 긴밀한 관계를 강조했다.",
+    "zh": "在1984年12月的大选中，曼努埃尔·埃斯基韦尔领导的联合民主党击败人民统一党，结束了后者三十多年的主导地位。这次和平的政权交接确立了两大政党轮流执政的模式。埃斯基韦尔政府重视私营企业，并加强与美国的关系。",
+    "ja": "1984年12月の総選挙で、マヌエル・エスキベル率いる統一民主党（UDP）が人民統一党を破り、30年余りにわたるPUPの支配に終止符を打った。平和的な政権移譲は、二大政党が交互に政権を担う慣行を確立した。エスキベル政権は民間企業の振興とアメリカとの緊密な関係を重視した。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Guatemala recognizes Belize",
+    "ko": "벨리즈를 승인한 과테말라",
+    "zh": "危地马拉承认伯利兹",
+    "ja": "ベリーズを承認したグアテマラ"
+   },
+   "description": {
+    "en": "In September 1991 Guatemalan President Jorge Serrano recognized Belize's independence and the two countries established diplomatic relations. Guatemala did not, however, renounce its territorial claim, which remained unresolved. The recognition reduced the threat of conflict and allowed Britain to scale back its garrison, most of which withdrew in 1994.",
+    "ko": "1991년 9월 과테말라의 호르헤 세라노 대통령은 벨리즈의 독립을 승인했고, 두 나라는 외교 관계를 수립했다. 그러나 과테말라는 영토 주장을 포기하지 않았고, 이 문제는 미해결로 남았다. 이 승인으로 분쟁 위험이 줄어들자 영국은 주둔군을 축소할 수 있었으며, 대부분은 1994년에 철수했다.",
+    "zh": "1991年9月，危地马拉总统豪尔赫·塞拉诺承认伯利兹独立，两国建立外交关系。不过，危地马拉并未放弃其领土主张，该问题依然悬而未决。这一承认降低了冲突风险，使英国得以缩减驻军，大部分驻军于1994年撤离。",
+    "ja": "1991年9月、グアテマラのホルヘ・セラノ大統領はベリーズの独立を承認し、両国は外交関係を樹立した。ただしグアテマラは領有権主張を放棄せず、問題は未解決のまま残った。承認によって紛争の危険が減り、イギリスは駐留軍を縮小でき、その大部分は1994年に撤退した。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Belize Barrier Reef named a UNESCO World Heritage Site",
+    "ko": "벨리즈 산호초 보호구, 유네스코 세계유산 등재",
+    "zh": "伯利兹堡礁列入联合国教科文组织世界遗产",
+    "ja": "ベリーズ珊瑚礁保護区が世界遺産に登録"
+   },
+   "description": {
+    "en": "In 1996 the Belize Barrier Reef Reserve System, part of the largest barrier reef in the Northern Hemisphere, was inscribed as a UNESCO World Heritage Site. The property includes atolls, mangrove cayes and seven protected areas, among them the Blue Hole, a large marine sinkhole. The reef is central to Belize's tourism industry and fisheries.",
+    "ko": "1996년 북반구 최대 보초의 일부인 벨리즈 산호초 보호구 체계가 유네스코 세계유산으로 등재되었다. 이 유산에는 환초와 맹그로브 섬, 그리고 거대한 해저 싱크홀인 블루홀을 포함한 7개 보호구역이 들어 있다. 산호초는 벨리즈의 관광 산업과 어업의 핵심이다.",
+    "zh": "1996年，作为北半球最大堡礁一部分的伯利兹堡礁保护区系统被列入联合国教科文组织世界遗产。该遗产包括环礁、红树林小岛以及七个保护区，其中有巨大的海洋天坑“大蓝洞”。堡礁是伯利兹旅游业和渔业的核心。",
+    "ja": "1996年、北半球最大のバリアリーフの一部であるベリーズ珊瑚礁保護区がユネスコ世界遺産に登録された。資産には環礁やマングローブの小島、そして巨大な海中陥没穴ブルーホールを含む7つの保護区が含まれる。珊瑚礁はベリーズの観光業と漁業の中核である。"
+   }
+  },
+  {
+   "year": 2001,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Hurricane Iris strikes southern Belize",
+    "ko": "남부 벨리즈를 강타한 허리케인 아이리스",
+    "zh": "飓风艾里斯袭击伯利兹南部",
+    "ja": "ベリーズ南部を襲ったハリケーン・アイリス"
+   },
+   "description": {
+    "en": "In October 2001 Hurricane Iris, a small but intense storm, made landfall near Monkey River Town in southern Belize. It destroyed thousands of homes in Maya and Garifuna villages of the Toledo and Stann Creek districts. Among the dead were about twenty visiting divers and crew aboard a dive boat that capsized while sheltering at Big Creek.",
+    "ko": "2001년 10월 작지만 강력한 폭풍인 허리케인 아이리스가 남부 벨리즈의 멍키리버타운 부근에 상륙했다. 이 허리케인은 톨레도와 스탠크리크 지구의 마야·가리푸나 마을에서 수천 채의 가옥을 파괴했다. 사망자 중에는 빅크리크에 피항해 있다가 전복된 다이빙 선박의 다이버와 선원 약 20명도 있었다.",
+    "zh": "2001年10月，规模虽小但强度很大的飓风艾里斯在伯利兹南部的蒙基河镇附近登陆。飓风摧毁了托莱多区和斯坦溪区玛雅和加里富纳村庄的数千栋房屋。遇难者中包括一艘在大溪避风时倾覆的潜水船上约20名游客潜水者和船员。",
+    "ja": "2001年10月、小型ながら強力なハリケーン・アイリスがベリーズ南部のモンキー・リバー・タウン付近に上陸した。トレド地区とスタン・クリーク地区のマヤやガリフナの村で数千戸の家屋が破壊された。死者の中には、ビッグ・クリークに避難中に転覆したダイビング船の観光客ダイバーと乗員約20人も含まれていた。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": "Q1149912",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Protests over tax increases",
+    "ko": "증세에 항의한 시위",
+    "zh": "反对加税的抗议",
+    "ja": "増税に抗議するデモ"
+   },
+   "description": {
+    "en": "In January 2005 the PUP government of Said Musa introduced a budget with new taxes to address a heavy public debt, triggering protests, strikes by trade unions and riots in Belize City. Public-sector workers and opposition supporters demanded the government's resignation. The unrest reflected anger over debt, alleged mismanagement and corruption, and contributed to the PUP's defeat in 2008.",
+    "ko": "2005년 1월 사이드 무사의 PUP 정부가 막대한 공공 부채에 대처하기 위해 새로운 세금을 담은 예산안을 내놓자, 벨리즈시티에서 시위와 노동조합 파업, 폭동이 일어났다. 공공 부문 노동자와 야당 지지자들은 정부의 사퇴를 요구했다. 이 소요는 부채와 실정, 부패 의혹에 대한 분노를 반영했으며 2008년 PUP의 패배에 영향을 주었다.",
+    "zh": "2005年1月，赛义德·穆萨领导的人民统一党政府为应对沉重的公共债务，提出含有新税的预算案，引发伯利兹城的抗议、工会罢工和骚乱。公共部门雇员和反对派支持者要求政府下台。这场动荡反映了民众对债务、施政不当和腐败指控的愤怒，并促成了人民统一党在2008年的败选。",
+    "ja": "2005年1月、サイード・ムーサのPUP政権が巨額の公的債務に対処するため新税を盛り込んだ予算案を出すと、ベリーズシティで抗議行動や労働組合のストライキ、暴動が起きた。公共部門の労働者や野党支持者は政府の退陣を求めた。この騒乱は債務や失政、汚職疑惑への怒りを反映しており、2008年のPUP敗北の一因となった。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Dean Barrow becomes prime minister",
+    "ko": "딘 배로의 총리 취임",
+    "zh": "迪恩·巴罗出任总理",
+    "ja": "ディーン・バローの首相就任"
+   },
+   "description": {
+    "en": "In the February 2008 general election the United Democratic Party under Dean Barrow won a large majority, and Barrow became the first Black prime minister of Belize. His government nationalized the main telecommunications company and later the electricity company. Barrow went on to win re-election in 2012 and 2015.",
+    "ko": "2008년 2월 총선에서 딘 배로가 이끄는 연합민주당이 큰 차이로 승리했고, 배로는 벨리즈 최초의 흑인 총리가 되었다. 그의 정부는 주요 통신 회사를, 이후에는 전력 회사를 국유화했다. 배로는 2012년과 2015년에도 재선에 성공했다.",
+    "zh": "在2008年2月的大选中，迪恩·巴罗领导的联合民主党以大比数获胜，巴罗成为伯利兹首位黑人总理。他的政府将主要电信公司、后来又将电力公司收归国有。巴罗在2012年和2015年再次胜选连任。",
+    "ja": "2008年2月の総選挙でディーン・バロー率いる統一民主党が大勝し、バローはベリーズ初の黒人首相となった。彼の政権は主要な通信会社を、のちには電力会社を国有化した。バローは2012年と2015年にも再選された。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Barrier reef placed on the endangered list",
+    "ko": "위험에 처한 유산 목록에 오른 산호초",
+    "zh": "堡礁被列入濒危遗产名录",
+    "ja": "危機遺産リストに載った珊瑚礁"
+   },
+   "description": {
+    "en": "In 2009 UNESCO placed the Belize Barrier Reef Reserve System on its List of World Heritage in Danger, citing mangrove clearance, unregulated coastal development and the prospect of offshore oil exploration. After Belize introduced a moratorium on offshore oil activity and strengthened mangrove protection, the reef was removed from the list in 2018. The case was hailed as a conservation success.",
+    "ko": "2009년 유네스코는 맹그로브 벌채와 무분별한 해안 개발, 해상 석유 탐사 가능성을 이유로 벨리즈 산호초 보호구 체계를 '위험에 처한 세계유산' 목록에 올렸다. 벨리즈가 해상 석유 활동을 일시 중단하고 맹그로브 보호를 강화하자, 산호초는 2018년 이 목록에서 해제되었다. 이 사례는 보전의 성공으로 평가받았다.",
+    "zh": "2009年，联合国教科文组织以红树林砍伐、无序的沿海开发以及可能进行海上石油勘探为由，将伯利兹堡礁保护区系统列入《濒危世界遗产名录》。伯利兹暂停海上石油活动并加强红树林保护后，堡礁于2018年被移出该名录。此案被誉为保护工作的成功范例。",
+    "ja": "2009年、ユネスコはマングローブの伐採や無秩序な沿岸開発、海底石油探査の可能性を理由に、ベリーズ珊瑚礁保護区を危機遺産リストに記載した。ベリーズが海底石油活動の一時停止を導入しマングローブの保護を強化すると、珊瑚礁は2018年にリストから外された。この事例は保全の成功例として称賛された。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q48782261",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Referendum sends the Guatemala dispute to the ICJ",
+    "ko": "과테말라 분쟁의 국제사법재판소 회부를 결정한 국민투표",
+    "zh": "公投决定将危地马拉争端提交国际法院",
+    "ja": "グアテマラ紛争の国際司法裁判所付託を決めた国民投票"
+   },
+   "description": {
+    "en": "On 8 May 2019 Belizean voters approved submitting Guatemala's territorial, insular and maritime claim to the International Court of Justice, following a similar vote in Guatemala in 2018. Both countries had agreed in a 2008 special agreement to seek a binding ruling through referendums. The case was formally brought before the court in 2019.",
+    "ko": "2019년 5월 8일 벨리즈 유권자들은 2018년 과테말라에서 치러진 비슷한 투표에 이어, 과테말라의 영토·도서·해양 영유권 주장을 국제사법재판소에 회부하는 안을 승인했다. 두 나라는 2008년 특별 협정에서 국민투표를 거쳐 구속력 있는 판결을 구하기로 합의한 바 있었다. 사건은 2019년 재판소에 공식 제소되었다.",
+    "zh": "2019年5月8日，继危地马拉于2018年举行类似公投之后，伯利兹选民批准将危地马拉的领土、岛屿和海洋主张提交国际法院。两国曾在2008年的特别协定中约定通过公投寻求具有约束力的裁决。该案于2019年正式提交国际法院。",
+    "ja": "2019年5月8日、ベリーズの有権者は、2018年にグアテマラで行われた同様の投票に続き、グアテマラの領土・島嶼・海洋に関する主張を国際司法裁判所に付託することを承認した。両国は2008年の特別合意で、国民投票を経て拘束力のある判決を求めることで合意していた。事件は2019年に正式に裁判所へ付託された。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "PUP returns to power under Johnny Briceño",
+    "ko": "조니 브리세뇨가 이끈 PUP의 정권 복귀",
+    "zh": "布里塞尼奥领导人民统一党重新执政",
+    "ja": "ブリセーニョ率いるPUPの政権復帰"
+   },
+   "description": {
+    "en": "In the November 2020 general election the People's United Party, led by Johnny Briceño, won a decisive victory, ending twelve years of UDP government. Briceño took office as the COVID-19 pandemic devastated the tourism-dependent economy. His government sought debt relief, and in 2021 Belize restructured its external commercial debt through a debt-for-nature swap tied to marine conservation.",
+    "ko": "2020년 11월 총선에서 조니 브리세뇨가 이끄는 인민통일당이 결정적인 승리를 거두며 12년간의 UDP 정부를 끝냈다. 브리세뇨는 코로나19 범유행이 관광 의존 경제를 강타하던 시기에 취임했다. 그의 정부는 부채 경감을 추진했고, 2021년 벨리즈는 해양 보전과 연계한 '부채-자연 스와프'로 대외 상업 부채를 재조정했다.",
+    "zh": "在2020年11月的大选中，约翰尼·布里塞尼奥领导的人民统一党大获全胜，结束了联合民主党长达12年的执政。布里塞尼奥就任时，新冠疫情正重创依赖旅游业的经济。他的政府寻求债务减免，2021年伯利兹通过与海洋保护挂钩的“债务换自然”安排重组了对外商业债务。",
+    "ja": "2020年11月の総選挙でジョニー・ブリセーニョ率いる人民統一党が決定的な勝利を収め、12年間のUDP政権に終止符を打った。ブリセーニョは新型コロナウイルスの流行が観光依存の経済を直撃する中で就任した。政権は債務軽減を図り、2021年にベリーズは海洋保全と結びつけた「債務・自然スワップ」によって対外商業債務を再編した。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q114979604",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Hurricane Lisa hits Belize City",
+    "ko": "벨리즈시티를 강타한 허리케인 리사",
+    "zh": "飓风丽莎袭击伯利兹城",
+    "ja": "ベリーズシティを襲ったハリケーン・リサ"
+   },
+   "description": {
+    "en": "On 2 November 2022 Hurricane Lisa made landfall near Belize City as a Category 1 storm, bringing strong winds, flooding and storm surge. It damaged homes, power lines and infrastructure in and around Belize City. Recovery efforts were supported by international aid.",
+    "ko": "2022년 11월 2일 허리케인 리사가 1등급 폭풍으로 벨리즈시티 부근에 상륙해 강풍과 홍수, 폭풍 해일을 몰고 왔다. 벨리즈시티와 그 주변의 주택, 전력선, 기반 시설이 피해를 입었다. 복구 작업에는 국제 원조가 뒷받침되었다.",
+    "zh": "2022年11月2日，飓风丽莎以一级飓风强度在伯利兹城附近登陆，带来强风、洪水和风暴潮。伯利兹城及其周边的房屋、电力线路和基础设施受损。国际援助为灾后恢复提供了支持。",
+    "ja": "2022年11月2日、ハリケーン・リサがカテゴリー1の勢力でベリーズシティ付近に上陸し、強風や洪水、高潮をもたらした。ベリーズシティとその周辺の住宅、送電線、インフラが被害を受けた。復旧作業は国際援助に支えられた。"
+   }
+  }
+ ]
+}

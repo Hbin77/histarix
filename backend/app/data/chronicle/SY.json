@@ -1,0 +1,3466 @@
+{
+ "iso": "SY",
+ "eras": [
+  {
+   "from": -10000,
+   "to": -3000,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Neolithic and Chalcolithic Syria",
+    "ko": "시리아의 신석기·동석기 시대",
+    "zh": "叙利亚的新石器与铜石并用时代",
+    "ja": "シリアの新石器・銅石器時代"
+   },
+   "summary": {
+    "en": "Syria lies at the heart of the Fertile Crescent, where some of the world's earliest farming villages appeared; sites such as Tell Abu Hureyra and Jerf el-Ahmar on the Euphrates record the shift from foraging to cultivating cereals and herding. Later the Halaf culture spread its painted pottery across the north, and in the fourth millennium BC towns such as Tell Brak grew into early urban centres linked to Mesopotamia's Uruk world.",
+    "ko": "시리아는 세계 최초의 농경 마을들이 나타난 '비옥한 초승달 지대'의 한가운데에 있다. 유프라테스강 유역의 텔 아부 후레이라와 제르프 엘아흐마르 유적은 수렵채집에서 곡물 재배와 가축 사육으로 넘어가는 과정을 보여 준다. 이후 할라프 문화의 채색 토기가 북부 전역에 퍼졌고, 기원전 4천년기에는 텔 브라크 같은 마을이 메소포타미아 우루크 세계와 연결된 초기 도시로 성장했다.",
+    "zh": "叙利亚位于“新月沃地”的中心，世界上最早的一批农耕村落就出现在这里。幼发拉底河畔的阿布胡赖拉丘、杰尔夫·艾哈迈尔等遗址记录了人类从采集狩猎转向种植谷物和驯养牲畜的过程。此后哈拉夫文化的彩陶遍布北部，公元前四千纪，布拉克丘等聚落发展为与美索不达米亚乌鲁克文明相联系的早期城市。",
+    "ja": "シリアは世界最古級の農耕村落が現れた「肥沃な三日月地帯」の中心に位置する。ユーフラテス川流域のテル・アブ・フレイラやジェルフ・エル・アハマル遺跡は、狩猟採集から穀物栽培・家畜飼育への移行を伝えている。その後ハラフ文化の彩文土器が北部一帯に広まり、紀元前4千年紀にはテル・ブラクなどがメソポタミアのウルク世界と結びついた初期都市へと成長した。"
+   }
+  },
+  {
+   "from": -3000,
+   "to": -2000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Bronze Age city-states",
+    "ko": "초기 청동기 시대의 도시국가",
+    "zh": "早期青铜时代城邦",
+    "ja": "前期青銅器時代の都市国家"
+   },
+   "summary": {
+    "en": "In the third millennium BC walled cities and kingdoms flourished across Syria: Mari on the middle Euphrates, Nagar (Tell Brak) and Urkesh in the Khabur basin, and Ebla in the west. They traded timber, metals and textiles with Mesopotamia and Egypt, wrote in cuneiform, and competed fiercely, until the Akkadian kings and later a period of drought and upheaval around 2200 BC transformed the region.",
+    "ko": "기원전 3천년기에 시리아 곳곳에서 성벽을 갖춘 도시와 왕국이 번영했다. 유프라테스강 중류의 마리, 하부르 분지의 나가르(텔 브라크)와 우르케시, 서부의 에블라가 대표적이다. 이들은 메소포타미아·이집트와 목재·금속·직물을 교역하고 쐐기문자를 사용하며 치열하게 경쟁했으나, 아카드 왕들의 정복과 기원전 2200년경의 가뭄·격변을 거치며 큰 변화를 겪었다.",
+    "zh": "公元前三千纪，叙利亚各地兴起了筑有城墙的城市与王国：幼发拉底河中游的马里、哈布尔河流域的纳加尔（布拉克丘）和乌尔凯什，以及西部的埃卜拉。它们与美索不达米亚和埃及交易木材、金属和纺织品，使用楔形文字，彼此激烈竞争。阿卡德诸王的征服以及约公元前2200年的干旱与动荡，最终深刻改变了这一地区。",
+    "ja": "紀元前3千年紀、シリア各地に城壁をもつ都市や王国が栄えた。ユーフラテス川中流のマリ、ハブール川流域のナガル（テル・ブラク）とウルケシュ、そして西部のエブラである。これらはメソポタミアやエジプトと木材・金属・織物を交易し、楔形文字を用いて激しく競い合ったが、アッカドの王たちの征服と紀元前2200年頃の乾燥化・動乱を経て大きく変容した。"
+   }
+  },
+  {
+   "from": -2600,
+   "to": -2250,
+   "kind": "state",
+   "qid": "Q5743",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Ebla",
+    "ko": "에블라 왕국",
+    "zh": "埃卜拉王国",
+    "ja": "エブラ王国"
+   },
+   "summary": {
+    "en": "Ebla (Tell Mardikh, south of Aleppo) was one of the most powerful kingdoms of third-millennium Syria, ruling a network of towns and vassals in the north. The royal palace archive of some 17,000 cuneiform tablets and fragments, written in Sumerian and the Semitic Eblaite language, documents its administration, textile trade and diplomacy with Mari and other states. The palace was destroyed in a conquest around the 23rd century BC.",
+    "ko": "에블라(알레포 남쪽의 텔 마르디크)는 기원전 3천년기 시리아에서 가장 강력한 왕국 중 하나로, 북부의 여러 도시와 속국을 거느렸다. 수메르어와 셈계 에블라어로 기록된 약 1만 7천 점의 쐐기문자 점토판·파편으로 이루어진 왕궁 문서고는 행정, 직물 교역, 마리 등과의 외교를 상세히 전한다. 왕궁은 기원전 23세기경 정복 과정에서 파괴되었다.",
+    "zh": "埃卜拉（阿勒颇以南的马尔迪赫丘）是公元前三千纪叙利亚最强大的王国之一，统辖北部众多城镇与附庸。王宫档案中约有一万七千块楔形文字泥板及残片，以苏美尔语和闪米特语族的埃卜拉语书写，详细记录了其行政、纺织品贸易以及与马里等国的外交。约公元前23世纪，王宫在一次征服中被毁。",
+    "ja": "エブラ（アレッポ南方のテル・マルディーフ）は紀元前3千年紀のシリアで最も有力な王国の一つで、北部の多くの町や属国を支配した。シュメール語とセム系のエブラ語で記された約1万7千点の楔形文字粘土板・断片からなる王宮文書庫は、行政、織物交易、マリなどとの外交を詳しく伝える。王宮は紀元前23世紀頃の征服で破壊された。"
+   }
+  },
+  {
+   "from": -2334,
+   "to": -2154,
+   "kind": "state",
+   "qid": "Q4461035",
+   "polity": "Akkadian Empire",
+   "name": {
+    "en": "Akkadian Empire",
+    "ko": "아카드 제국",
+    "zh": "阿卡德帝国",
+    "ja": "アッカド帝国"
+   },
+   "summary": {
+    "en": "Sargon of Akkad and his successors created the first empire of Mesopotamia and claimed campaigns up the Euphrates to Mari, Ebla and the 'Cedar Forest'. Naram-Sin built a fortified administrative palace at Tell Brak (Nagar) to control the Khabur plains. Akkadian power in Syria faded as the empire collapsed in the 22nd century BC.",
+    "ko": "아카드의 사르곤과 후계자들은 메소포타미아 최초의 제국을 세우고, 유프라테스강을 거슬러 마리·에블라와 '삼나무 숲'까지 원정했다고 주장했다. 나람신은 하부르 평원을 통제하기 위해 텔 브라크(나가르)에 요새화된 행정 궁전을 세웠다. 기원전 22세기 제국이 붕괴하면서 시리아에 대한 아카드의 지배도 사라졌다.",
+    "zh": "阿卡德的萨尔贡及其继承者建立了美索不达米亚第一个帝国，并宣称曾沿幼发拉底河远征马里、埃卜拉直至“雪松林”。纳拉姆辛在布拉克丘（纳加尔）修建了设防的行政宫殿，以控制哈布尔平原。公元前22世纪帝国崩溃后，阿卡德在叙利亚的势力随之消退。",
+    "ja": "アッカドのサルゴンとその後継者たちはメソポタミア最初の帝国を築き、ユーフラテス川をさかのぼってマリやエブラ、「杉の森」まで遠征したと称した。ナラム・シンはハブール平原を支配するためテル・ブラク（ナガル）に要塞化した行政宮殿を建てた。紀元前22世紀に帝国が崩壊すると、シリアにおけるアッカドの支配も消えた。"
+   }
+  },
+  {
+   "from": -2000,
+   "to": -1595,
+   "kind": "state",
+   "qid": "Q617218",
+   "polity": null,
+   "name": {
+    "en": "Amorite kingdoms: Yamhad, Mari and Qatna",
+    "ko": "아모리인 왕국들: 얌하드·마리·카트나",
+    "zh": "亚摩利诸王国：延哈德、马里与卡特纳",
+    "ja": "アモリ人の王国群：ヤムハド・マリ・カトナ"
+   },
+   "summary": {
+    "en": "In the Middle Bronze Age, Amorite dynasties ruled Syria. Yamhad, centred on Halab (Aleppo), became the leading 'great kingdom' of the north, while Mari on the Euphrates and Qatna near Homs were major powers whose palace archives reveal an intense world of diplomacy and trade. Hammurabi of Babylon destroyed Mari in the 18th century BC, and the Hittite king Mursili I overthrew Yamhad around 1600 BC.",
+    "ko": "중기 청동기 시대에는 아모리인 왕조들이 시리아를 다스렸다. 할라브(알레포)를 중심으로 한 얌하드는 북부의 으뜸가는 '대왕국'이 되었고, 유프라테스강의 마리와 홈스 인근의 카트나도 강국으로서 왕궁 문서고를 통해 활발한 외교·교역의 세계를 보여 준다. 기원전 18세기 바빌론의 함무라비가 마리를 멸망시켰고, 기원전 1600년경 히타이트 왕 무르실리 1세가 얌하드를 무너뜨렸다.",
+    "zh": "中期青铜时代，亚摩利人诸王朝统治着叙利亚。以哈拉卜（阿勒颇）为中心的延哈德成为北方首屈一指的“大王国”，幼发拉底河畔的马里和霍姆斯附近的卡特纳也是强国，其王宫档案展现了频繁的外交与贸易往来。公元前18世纪巴比伦的汉谟拉比摧毁马里，约公元前1600年赫梯国王穆尔西里一世推翻了延哈德。",
+    "ja": "中期青銅器時代、シリアはアモリ人の諸王朝に支配された。ハラブ（アレッポ）を中心とするヤムハドは北部随一の「大王国」となり、ユーフラテス川のマリやホムス近郊のカトナも有力国家として、その王宮文書庫から活発な外交と交易の世界がうかがえる。紀元前18世紀にバビロンのハンムラビがマリを滅ぼし、紀元前1600年頃にはヒッタイト王ムルシリ1世がヤムハドを倒した。"
+   }
+  },
+  {
+   "from": -1595,
+   "to": -1260,
+   "kind": "state",
+   "qid": "Q178665",
+   "polity": "Mitanni",
+   "name": {
+    "en": "Kingdom of Mitanni",
+    "ko": "미탄니 왕국",
+    "zh": "米坦尼王国",
+    "ja": "ミタンニ王国"
+   },
+   "summary": {
+    "en": "Mitanni, a Hurrian-speaking kingdom with an Indo-Aryan-named elite and its capital Washukanni probably in the Khabur basin of northeastern Syria, dominated northern Syria and northern Mesopotamia in the 15th–14th centuries BC. It rivalled Egypt before becoming its ally through diplomatic marriages. Hittite attacks under Suppiluliuma I broke Mitanni in the 14th century BC, and Assyria absorbed its remnants.",
+    "ko": "미탄니는 후르리어를 사용하고 인도·아리아계 이름을 지닌 지배층이 다스린 왕국으로, 수도 와슈칸니는 시리아 북동부 하부르 분지에 있었던 것으로 추정된다. 기원전 15~14세기에 시리아 북부와 메소포타미아 북부를 지배하며 이집트와 겨루다가 혼인 외교를 통해 동맹이 되었다. 기원전 14세기 히타이트 수필룰리우마 1세의 공격으로 무너졌고, 잔존 세력은 아시리아에 흡수되었다.",
+    "zh": "米坦尼是一个讲胡里安语、统治阶层带有印度-雅利安名字的王国，其首都瓦舒卡尼可能位于叙利亚东北部的哈布尔河流域。公元前15至14世纪，它称霸叙利亚北部和美索不达米亚北部，先与埃及争雄，后通过联姻结为盟友。公元前14世纪，赫梯国王苏庇路里乌玛一世的进攻使其瓦解，残余势力被亚述吞并。",
+    "ja": "ミタンニはフルリ語を話し、インド・アーリア系の名をもつ支配層が率いた王国で、首都ワシュカンニはシリア北東部ハブール川流域にあったと考えられている。紀元前15～14世紀にシリア北部と北メソポタミアを支配し、エジプトと争った後に婚姻外交で同盟を結んだ。紀元前14世紀にヒッタイトのシュッピルリウマ1世の攻撃で崩れ、残存勢力はアッシリアに吸収された。"
+   }
+  },
+  {
+   "from": -1450,
+   "to": -1185,
+   "kind": "state",
+   "qid": "Q191369",
+   "polity": null,
+   "name": {
+    "en": "Ugarit and the Late Bronze Age Levant",
+    "ko": "우가리트와 후기 청동기 시대 레반트",
+    "zh": "乌加里特与晚期青铜时代黎凡特",
+    "ja": "ウガリットと後期青銅器時代のレヴァント"
+   },
+   "summary": {
+    "en": "The port kingdom of Ugarit (Ras Shamra, near Latakia) was a cosmopolitan hub linking the Aegean, Cyprus, Egypt, Anatolia and Mesopotamia. Its archives in Akkadian, Ugaritic, Hurrian and other languages include the earliest known alphabetic cuneiform and rich mythological texts. Like Qatna, Kadesh and Amurru, Ugarit was a vassal of Egypt or the Hittites, and it was destroyed around 1185 BC during the Late Bronze Age collapse.",
+    "ko": "항구 왕국 우가리트(라타키아 인근 라스 샴라)는 에게해·키프로스·이집트·아나톨리아·메소포타미아를 잇는 국제적 중심지였다. 아카드어·우가리트어·후르리어 등으로 된 문서고에는 가장 오래된 쐐기문자 알파벳과 풍부한 신화 문헌이 담겨 있다. 카트나·카데시·아무루처럼 우가리트도 이집트나 히타이트의 속국이었으며, 기원전 1185년경 후기 청동기 시대 붕괴 속에 파괴되었다.",
+    "zh": "港口王国乌加里特（拉塔基亚附近的拉斯沙姆拉）是连接爱琴海、塞浦路斯、埃及、安纳托利亚和美索不达米亚的国际枢纽。其档案以阿卡德语、乌加里特语、胡里安语等写成，包括已知最早的楔形字母和丰富的神话文本。与卡特纳、卡迭石、阿穆鲁一样，乌加里特先后臣属埃及或赫梯，约公元前1185年在晚期青铜时代崩溃中被毁。",
+    "ja": "港湾王国ウガリット（ラタキア近郊のラス・シャムラ）は、エーゲ海・キプロス・エジプト・アナトリア・メソポタミアを結ぶ国際的な拠点だった。アッカド語・ウガリット語・フルリ語などによる文書庫には、最古の楔形アルファベットや豊かな神話文書が含まれる。カトナ、カデシュ、アムルと同様にエジプトやヒッタイトの属国であったが、紀元前1185年頃、後期青銅器時代の崩壊の中で滅んだ。"
+   }
+  },
+  {
+   "from": -1344,
+   "to": -1180,
+   "kind": "state",
+   "qid": "Q5406",
+   "polity": "Hittites",
+   "name": {
+    "en": "Hittite domination of northern Syria",
+    "ko": "히타이트의 북시리아 지배",
+    "zh": "赫梯对叙利亚北部的统治",
+    "ja": "ヒッタイトの北シリア支配"
+   },
+   "summary": {
+    "en": "After Suppiluliuma I defeated Mitanni, the Hittite kingdom of Anatolia ruled northern and central Syria through viceroys at Carchemish and Aleppo and vassal kings at Ugarit, Amurru and elsewhere. The Hittites confronted Egypt at Kadesh in 1274 BC and later made peace, fixing a border in southern Syria. Hittite rule ended with the collapse of the empire around 1180 BC, but 'Neo-Hittite' states survived at Carchemish and Hamath.",
+    "ko": "수필룰리우마 1세가 미탄니를 격파한 뒤 아나톨리아의 히타이트 왕국은 카르케미시와 알레포의 부왕, 우가리트·아무루 등의 속국 왕을 통해 시리아 북부와 중부를 다스렸다. 히타이트는 기원전 1274년 카데시에서 이집트와 맞섰고 이후 평화 조약으로 시리아 남부에 경계를 정했다. 기원전 1180년경 제국이 붕괴하며 지배는 끝났지만, 카르케미시와 하마에는 '신히타이트' 국가들이 살아남았다.",
+    "zh": "苏庇路里乌玛一世击败米坦尼后，安纳托利亚的赫梯王国通过驻卡赫美士和阿勒颇的副王，以及乌加里特、阿穆鲁等地的附庸国王统治叙利亚北部和中部。赫梯于公元前1274年在卡迭石与埃及交战，后缔结和约，在叙利亚南部划定边界。约公元前1180年帝国崩溃，统治随之结束，但卡赫美士和哈马等地延续着“新赫梯”诸国。",
+    "ja": "シュッピルリウマ1世がミタンニを破った後、アナトリアのヒッタイト王国はカルケミシュとアレッポの副王、ウガリットやアムルなどの属国王を通じてシリア北部・中部を支配した。紀元前1274年にはカデシュでエジプトと戦い、後に和平を結んでシリア南部に境界を定めた。紀元前1180年頃の帝国崩壊で支配は終わったが、カルケミシュやハマには「新ヒッタイト」諸国が存続した。"
+   }
+  },
+  {
+   "from": -1200,
+   "to": -720,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Aramaean and Neo-Hittite kingdoms",
+    "ko": "아람인·신히타이트 왕국들",
+    "zh": "亚兰人与新赫梯诸王国",
+    "ja": "アラム人・新ヒッタイト諸王国"
+   },
+   "summary": {
+    "en": "After the Bronze Age collapse, Aramaean tribes founded kingdoms across Syria — Bit Adini on the Euphrates, Bit Bahiani at Guzana (Tell Halaf), Bit Agusi around Arpad, and above all Aram-Damascus — while Luwian-speaking Neo-Hittite dynasties ruled Carchemish and Hamath. These small states fought each other and resisted Assyria, sometimes in coalitions, until the Assyrians annexed them one by one in the 9th–8th centuries BC. Their Aramaic language and alphabet outlived them.",
+    "ko": "청동기 시대 붕괴 이후 아람인 부족들이 시리아 전역에 왕국을 세웠다. 유프라테스강의 비트 아디니, 구자나(텔 할라프)의 비트 바히아니, 아르파드 일대의 비트 아구시, 그리고 무엇보다 아람 다마스쿠스가 대표적이며, 카르케미시와 하마는 루비어를 쓰는 신히타이트 왕조가 다스렸다. 이 소국들은 서로 싸우거나 연합해 아시리아에 맞섰으나 기원전 9~8세기에 차례로 병합되었다. 그러나 아람어와 그 문자는 국가보다 오래 살아남았다.",
+    "zh": "青铜时代崩溃后，亚兰人部落在叙利亚各地建立王国：幼发拉底河畔的比特·阿迪尼、古扎纳（哈拉夫丘）的比特·巴希亚尼、阿尔帕德一带的比特·阿古西，以及最重要的亚兰-大马士革；而说卢维语的新赫梯王朝则统治卡赫美士和哈马。这些小国彼此征战，有时结盟抵抗亚述，最终在公元前9至8世纪被亚述逐一吞并，但亚兰语及其字母比这些国家流传得更久。",
+    "ja": "青銅器時代の崩壊後、アラム人の部族がシリア各地に王国を築いた。ユーフラテス川のビト・アディニ、グザナ（テル・ハラフ）のビト・バヒアニ、アルパド周辺のビト・アグシ、そして何よりアラム・ダマスカスである。一方、カルケミシュやハマはルウィ語を話す新ヒッタイト王朝が治めた。これら小国は互いに争い、ときに連合してアッシリアに抵抗したが、紀元前9～8世紀に次々と併合された。それでもアラム語とその文字は国家より長く生き残った。"
+   }
+  },
+  {
+   "from": -1200,
+   "to": -732,
+   "kind": "state",
+   "qid": "Q625649",
+   "polity": null,
+   "name": {
+    "en": "Aram-Damascus",
+    "ko": "아람 다마스쿠스",
+    "zh": "亚兰-大马士革",
+    "ja": "アラム・ダマスカス"
+   },
+   "summary": {
+    "en": "Aram-Damascus was the strongest Aramaean kingdom, centred on the Damascus oasis. Under kings such as Hadadezer and Hazael in the 9th century BC it led coalitions against Assyria and dominated much of the southern Levant, appearing frequently in the Hebrew Bible. It fell to Tiglath-Pileser III of Assyria in 732 BC.",
+    "ko": "아람 다마스쿠스는 다마스쿠스 오아시스를 중심으로 한 가장 강력한 아람 왕국이었다. 기원전 9세기 하닷에셀과 하사엘 같은 왕들의 치하에서 아시리아에 맞선 연합을 이끌고 레반트 남부 상당 부분을 지배했으며, 히브리 성서에도 자주 등장한다. 기원전 732년 아시리아의 티글라트 필레세르 3세에게 멸망했다.",
+    "zh": "亚兰-大马士革是以大马士革绿洲为中心的最强大的亚兰王国。公元前9世纪，在哈大底谢和哈薛等国王统治下，它领导反亚述联盟并控制黎凡特南部大片地区，在希伯来圣经中屡被提及。公元前732年，被亚述的提革拉·毗列色三世所灭。",
+    "ja": "アラム・ダマスカスはダマスカスのオアシスを中心とする最強のアラム人王国だった。紀元前9世紀のハダドエゼルやハザエルらの治世には反アッシリア連合を率いてレヴァント南部の広い範囲を支配し、ヘブライ語聖書にもたびたび登場する。紀元前732年、アッシリアのティグラト・ピレセル3世に滅ぼされた。"
+   }
+  },
+  {
+   "from": -856,
+   "to": -609,
+   "kind": "state",
+   "qid": "Q10914393",
+   "polity": "Neo-Assyrian Empire",
+   "name": {
+    "en": "Neo-Assyrian Empire",
+    "ko": "신아시리아 제국",
+    "zh": "新亚述帝国",
+    "ja": "新アッシリア帝国"
+   },
+   "summary": {
+    "en": "From the mid-9th century BC Assyria pushed west across the Euphrates, annexing Bit Adini in 856 BC and, under Tiglath-Pileser III and Sargon II, turning the Syrian kingdoms into provinces. Assyria deported populations and governed from centres such as Til Barsip, Guzana and Damascus, while Aramaic became an administrative language of the empire. Assyrian power in Syria ended when Babylon and the Medes destroyed the empire in 612–609 BC.",
+    "ko": "기원전 9세기 중반부터 아시리아는 유프라테스강을 건너 서쪽으로 진출해 기원전 856년 비트 아디니를 병합했고, 티글라트 필레세르 3세와 사르곤 2세 때 시리아의 왕국들을 속주로 바꾸었다. 아시리아는 주민을 강제 이주시키고 틸 바르시프·구자나·다마스쿠스 등을 거점으로 통치했으며, 아람어는 제국의 행정 언어가 되었다. 기원전 612~609년 바빌로니아와 메디아가 제국을 무너뜨리며 시리아 지배도 끝났다.",
+    "zh": "自公元前9世纪中叶起，亚述越过幼发拉底河西进，于公元前856年吞并比特·阿迪尼，并在提革拉·毗列色三世和萨尔贡二世时期将叙利亚诸王国改为行省。亚述大规模迁徙人口，以提尔巴尔西普、古扎纳和大马士革等地为统治中心，亚兰语也成为帝国的行政语言。公元前612至609年，巴比伦与米底摧毁帝国，亚述在叙利亚的统治随之终结。",
+    "ja": "紀元前9世紀半ばからアッシリアはユーフラテス川を越えて西進し、紀元前856年にビト・アディニを併合、ティグラト・ピレセル3世とサルゴン2世の時代にはシリアの諸王国を属州に変えた。住民の強制移住を行い、ティル・バルシプ、グザナ、ダマスカスなどを拠点に統治し、アラム語は帝国の行政言語となった。紀元前612～609年にバビロニアとメディアが帝国を滅ぼし、シリア支配も終わった。"
+   }
+  },
+  {
+   "from": -609,
+   "to": -539,
+   "kind": "state",
+   "qid": "Q624887",
+   "polity": "Neo-Babylonian Empire",
+   "name": {
+    "en": "Neo-Babylonian Empire",
+    "ko": "신바빌로니아 제국",
+    "zh": "新巴比伦帝国",
+    "ja": "新バビロニア"
+   },
+   "summary": {
+    "en": "After defeating Egypt at Carchemish in 605 BC, Nebuchadnezzar II brought Syria under Babylonian control. Babylon fought repeated campaigns in the Levant against Egypt and rebellious vassals, but its rule over Syria was relatively brief, ending when Cyrus the Great of Persia took Babylon in 539 BC.",
+    "ko": "기원전 605년 카르케미시에서 이집트를 물리친 네부카드네자르 2세는 시리아를 바빌로니아의 지배 아래 두었다. 바빌론은 레반트에서 이집트와 반란을 일으킨 속국들을 상대로 거듭 원정했으나, 시리아 지배는 비교적 짧아 기원전 539년 페르시아의 키루스 대왕이 바빌론을 점령하며 끝났다.",
+    "zh": "公元前605年在卡赫美士击败埃及后，尼布甲尼撒二世将叙利亚纳入巴比伦的控制。巴比伦在黎凡特多次征讨埃及和叛乱的附庸，但其对叙利亚的统治较为短暂，公元前539年波斯居鲁士大帝攻占巴比伦后即告终结。",
+    "ja": "紀元前605年にカルケミシュでエジプトを破ったネブカドネザル2世は、シリアをバビロニアの支配下に置いた。バビロンはレヴァントでエジプトや反乱する属国に対し繰り返し遠征したが、シリア支配は比較的短く、紀元前539年にペルシアのキュロス大王がバビロンを占領して終わった。"
+   }
+  },
+  {
+   "from": -539,
+   "to": -333,
+   "kind": "state",
+   "qid": "Q389688",
+   "polity": "Achaemenid Empire",
+   "name": {
+    "en": "Achaemenid Persian rule",
+    "ko": "아케메네스 페르시아의 지배",
+    "zh": "阿契美尼德波斯统治",
+    "ja": "アケメネス朝ペルシアの支配"
+   },
+   "summary": {
+    "en": "Under the Persian Achaemenid Empire, Syria formed part of the satrapy 'Beyond the River' (Eber-Nari), with Damascus as an important centre. Imperial Aramaic served as the chancery language from Egypt to India, and Phoenician cities on the nearby coast supplied the Persian fleet. Persian rule lasted two centuries until Alexander the Great's conquest.",
+    "ko": "페르시아 아케메네스 제국 아래에서 시리아는 '강 건너편'(에베르 나리) 태수령의 일부였고 다마스쿠스가 중요한 중심지였다. 제국 아람어는 이집트에서 인도까지 행정 언어로 쓰였고, 인근 해안의 페니키아 도시들은 페르시아 함대를 제공했다. 페르시아의 지배는 알렉산드로스 대왕의 정복까지 두 세기 동안 이어졌다.",
+    "zh": "在波斯阿契美尼德帝国治下，叙利亚属于“河外”（埃伯尔-纳里）行省，大马士革是其重要中心。帝国阿拉米语成为从埃及到印度的官方文书语言，附近沿海的腓尼基城市为波斯提供舰队。波斯统治持续了两个世纪，直到亚历山大大帝的征服。",
+    "ja": "ペルシアのアケメネス朝のもとで、シリアは「川向こう」（エベル・ナーリ）州の一部となり、ダマスカスが重要な中心地であった。帝国アラム語はエジプトからインドまで行政言語として用いられ、近隣沿岸のフェニキア諸都市はペルシア艦隊を担った。ペルシアの支配はアレクサンドロス大王の征服まで2世紀にわたって続いた。"
+   }
+  },
+  {
+   "from": -333,
+   "to": -301,
+   "kind": "state",
+   "qid": "Q83958",
+   "polity": "Macedonian Empire",
+   "name": {
+    "en": "Alexander and the Diadochi",
+    "ko": "알렉산드로스와 후계자들",
+    "zh": "亚历山大与继业者",
+    "ja": "アレクサンドロスとディアドコイ"
+   },
+   "summary": {
+    "en": "Alexander the Great's victory at Issus in 333 BC opened Syria to Macedonian rule. After his death in 323 BC his generals fought over the region; Syria passed among Laomedon, Ptolemy and Antigonus until the Battle of Ipsus in 301 BC left the north to Seleucus and the south (Coele-Syria) to Ptolemy.",
+    "ko": "기원전 333년 이소스 전투에서 알렉산드로스 대왕이 승리하면서 시리아는 마케도니아의 지배를 받게 되었다. 기원전 323년 그가 죽자 장군들이 이 지역을 두고 다투어 시리아는 라오메돈·프톨레마이오스·안티고노스의 손을 거쳤고, 기원전 301년 입소스 전투 후 북부는 셀레우코스에게, 남부(코일레 시리아)는 프톨레마이오스에게 돌아갔다.",
+    "zh": "公元前333年亚历山大大帝在伊苏斯获胜，叙利亚由此归于马其顿统治。公元前323年他去世后，部将们争夺这一地区，叙利亚先后落入拉俄墨冬、托勒密和安提柯之手，直到公元前301年伊普苏斯之战后，北部归塞琉古，南部（柯里叙利亚）归托勒密。",
+    "ja": "紀元前333年のイッソスの戦いでアレクサンドロス大王が勝利し、シリアはマケドニアの支配下に入った。紀元前323年に大王が没すると将軍たちがこの地を争い、シリアはラオメドン、プトレマイオス、アンティゴノスの手を経て、紀元前301年のイプソスの戦い後、北部はセレウコス、南部（コイレ・シリア）はプトレマイオスのものとなった。"
+   }
+  },
+  {
+   "from": -301,
+   "to": -64,
+   "kind": "state",
+   "qid": "Q705904",
+   "polity": "Seleucid Empire",
+   "name": {
+    "en": "Seleucid Empire",
+    "ko": "셀레우코스 제국",
+    "zh": "塞琉古帝国",
+    "ja": "セレウコス朝"
+   },
+   "summary": {
+    "en": "The Seleucid dynasty made northern Syria the core of its vast Hellenistic empire, founding Antioch, Seleucia Pieria, Apamea and Laodicea (Latakia) and spreading Greek urban life alongside Aramaic culture. It fought six 'Syrian Wars' with Ptolemaic Egypt for the south, winning Coele-Syria in 200 BC. Dynastic strife and Parthian and Armenian pressure weakened the kingdom until Pompey made Syria a Roman province in 64 BC.",
+    "ko": "셀레우코스 왕조는 북부 시리아를 광대한 헬레니즘 제국의 중심지로 삼아 안티오키아, 셀레우키아 피에리아, 아파메아, 라오디케아(라타키아)를 건설하고 아람 문화와 더불어 그리스식 도시 생활을 퍼뜨렸다. 남부를 둘러싸고 프톨레마이오스 이집트와 여섯 차례 '시리아 전쟁'을 벌여 기원전 200년 코일레 시리아를 차지했다. 왕위 분쟁과 파르티아·아르메니아의 압박으로 약해진 왕국은 기원전 64년 폼페이우스에 의해 로마 속주가 되었다.",
+    "zh": "塞琉古王朝以叙利亚北部为其庞大希腊化帝国的核心，建立了安条克、皮埃里亚的塞琉西亚、阿帕米亚和劳迪西亚（拉塔基亚），在亚兰文化之外传播希腊式城市生活。它为争夺南部与托勒密埃及进行了六次“叙利亚战争”，于公元前200年夺得柯里叙利亚。王位纷争以及帕提亚和亚美尼亚的压力削弱了王国，公元前64年庞培将叙利亚设为罗马行省。",
+    "ja": "セレウコス朝は北シリアを広大なヘレニズム帝国の中核とし、アンティオキア、セレウキア・ピエリア、アパメア、ラオディケイア（ラタキア）を建設して、アラム文化と並んでギリシア的都市生活を広めた。南部をめぐりプトレマイオス朝エジプトと6度の「シリア戦争」を戦い、紀元前200年にコイレ・シリアを獲得した。王位争いとパルティア・アルメニアの圧迫で弱体化し、紀元前64年にポンペイウスによってローマの属州とされた。"
+   }
+  },
+  {
+   "from": -301,
+   "to": -200,
+   "kind": "state",
+   "qid": "Q2320005",
+   "polity": "Ptolemaic Kingdom",
+   "name": {
+    "en": "Ptolemaic Coele-Syria",
+    "ko": "프톨레마이오스령 코일레 시리아",
+    "zh": "托勒密治下的柯里叙利亚",
+    "ja": "プトレマイオス朝領コイレ・シリア"
+   },
+   "summary": {
+    "en": "For a century after Ipsus, southern Syria — including Damascus, the Hauran and the Golan — was held by Ptolemaic Egypt as part of 'Coele-Syria'. The Ptolemies and Seleucids fought repeatedly over this frontier until Antiochus III's victory at Panium in 200 BC brought it under Seleucid rule.",
+    "ko": "입소스 전투 후 한 세기 동안 다마스쿠스·하우란·골란을 포함한 시리아 남부는 '코일레 시리아'의 일부로 프톨레마이오스 이집트가 차지했다. 프톨레마이오스 왕조와 셀레우코스 왕조는 이 변경을 두고 거듭 싸웠고, 기원전 200년 파니움 전투에서 안티오코스 3세가 승리하면서 셀레우코스의 지배로 넘어갔다.",
+    "zh": "伊普苏斯之战后的一个世纪里，叙利亚南部——包括大马士革、豪兰和戈兰——作为“柯里叙利亚”的一部分由托勒密埃及控制。托勒密与塞琉古两朝为这一边疆反复交战，直到公元前200年安条克三世在帕尼昂获胜，该地区才归入塞琉古统治。",
+    "ja": "イプソスの戦い後の1世紀間、ダマスカス、ハウラン、ゴランを含むシリア南部は「コイレ・シリア」の一部としてプトレマイオス朝エジプトが領有した。両王朝はこの辺境をめぐって繰り返し戦い、紀元前200年のパニオンの戦いでアンティオコス3世が勝利してセレウコス朝の支配下に入った。"
+   }
+  },
+  {
+   "from": -64,
+   "to": 395,
+   "kind": "state",
+   "qid": null,
+   "polity": "Roman Empire",
+   "name": {
+    "en": "Roman Syria",
+    "ko": "로마령 시리아",
+    "zh": "罗马叙利亚",
+    "ja": "ローマ領シリア"
+   },
+   "summary": {
+    "en": "As a Roman province governed from Antioch, Syria became one of the empire's richest regions, guarding the Euphrates frontier against Parthia and later Sasanian Persia. Cities such as Apamea, Bosra, Palmyra and Damascus flourished with colonnaded streets and temples, and Syrians rose to the throne itself — the Severan empresses from Emesa (Homs) and Philip the Arab from the Hauran. Christianity spread early, and by the 4th century it had become the dominant faith of the province.",
+    "ko": "안티오키아에서 통치된 로마 속주 시리아는 제국에서 가장 부유한 지역 중 하나가 되어 파르티아와 이후 사산 페르시아에 맞서 유프라테스 국경을 지켰다. 아파메아·보스라·팔미라·다마스쿠스 같은 도시는 열주 도로와 신전으로 번영했고, 에메사(홈스) 출신 세베루스 왕조의 황후들과 하우란 출신 필리푸스 아라브스처럼 시리아인이 황제 자리에까지 올랐다. 그리스도교가 일찍 전파되어 4세기에는 이 지역의 주된 신앙이 되었다.",
+    "zh": "叙利亚作为以安条克为治所的罗马行省，成为帝国最富庶的地区之一，守卫着面对帕提亚和后来萨珊波斯的幼发拉底河边境。阿帕米亚、布斯拉、帕尔米拉和大马士革等城市以柱廊大道和神庙闻名，叙利亚人甚至登上帝位——如出身埃梅萨（霍姆斯）的塞维鲁王朝皇后们，以及出身豪兰的“阿拉伯人”菲利普。基督教很早便传入此地，到4世纪已成为该地区的主要信仰。",
+    "ja": "アンティオキアを州都とするローマの属州シリアは帝国有数の豊かな地域となり、パルティア、のちにはサーサーン朝ペルシアに対するユーフラテス国境を守った。アパメア、ボスラ、パルミラ、ダマスカスなどの都市は列柱道路や神殿で栄え、エメサ（ホムス）出身のセウェルス朝の皇后たちやハウラン出身のフィリップス・アラブスのように、シリア人が皇帝の座にまで上った。キリスト教は早くから広まり、4世紀にはこの地の主要な信仰となった。"
+   }
+  },
+  {
+   "from": 260,
+   "to": 273,
+   "kind": "state",
+   "qid": "Q877875",
+   "polity": "Palmyrene Empire",
+   "name": {
+    "en": "Palmyrene Empire",
+    "ko": "팔미라 제국",
+    "zh": "帕尔米拉帝国",
+    "ja": "パルミラ帝国"
+   },
+   "summary": {
+    "en": "The caravan city of Palmyra, enriched by trade between the Roman world and the Persian Gulf, rose to power when its ruler Odaenathus repelled the Persians after 260. His widow Zenobia, ruling for her son Vaballathus, seized Egypt and much of Anatolia, creating a short-lived breakaway empire. Emperor Aurelian defeated her in 272 and destroyed Palmyra after a revolt in 273.",
+    "ko": "로마 세계와 페르시아만을 잇는 교역으로 부를 쌓은 대상 도시 팔미라는 260년 이후 통치자 오다에나투스가 페르시아군을 격퇴하면서 강국으로 떠올랐다. 그의 미망인 제노비아는 아들 바발라투스를 대신해 통치하며 이집트와 아나톨리아 대부분을 장악해 단명한 분리 제국을 세웠다. 아우렐리아누스 황제는 272년 그녀를 격파했고, 273년 반란이 일어나자 팔미라를 파괴했다.",
+    "zh": "商队城市帕尔米拉因罗马世界与波斯湾之间的贸易而致富，260年后其统治者奥登纳图斯击退波斯人，由此崛起。他的遗孀芝诺比娅代其子瓦巴拉图斯执政，夺取埃及和安纳托利亚大部，建立了短暂的分离帝国。272年奥勒良皇帝击败了她，273年又在平定叛乱后摧毁了帕尔米拉。",
+    "ja": "ローマ世界とペルシア湾を結ぶ交易で富を築いた隊商都市パルミラは、260年以降、支配者オダエナトゥスがペルシア軍を撃退したことで台頭した。その未亡人ゼノビアは息子ウァバッラトゥスに代わって統治し、エジプトとアナトリアの大半を奪って短命な分離帝国を築いた。アウレリアヌス帝は272年に彼女を破り、273年の反乱後にパルミラを破壊した。"
+   }
+  },
+  {
+   "from": 395,
+   "to": 637,
+   "kind": "state",
+   "qid": "Q12544",
+   "polity": "Eastern Roman Empire",
+   "name": {
+    "en": "Byzantine (Eastern Roman) Syria",
+    "ko": "비잔티움(동로마) 시리아",
+    "zh": "拜占庭（东罗马）叙利亚",
+    "ja": "ビザンツ（東ローマ）領シリア"
+   },
+   "summary": {
+    "en": "After the division of the Roman Empire, Syria was ruled from Constantinople. It was a land of prosperous villages — the 'Dead Cities' of the limestone massif — great pilgrimage churches such as that of St Simeon Stylites, and vigorous Syriac Christian scholarship, though deeply divided after the Council of Chalcedon in 451. Long wars with Sasanian Persia, plague and earthquakes in the 6th century, and a Persian occupation in 613–628 left the province exhausted on the eve of the Arab conquest.",
+    "ko": "로마 제국이 분열된 뒤 시리아는 콘스탄티노폴리스의 지배를 받았다. 석회암 산지의 '죽은 도시들'로 대표되는 번영한 마을들, 성 시메온 주상 성자 교회 같은 대순례 성당, 활발한 시리아어 그리스도교 학문이 꽃피었으나, 451년 칼케돈 공의회 이후 교회는 깊이 분열했다. 6세기 사산 페르시아와의 오랜 전쟁, 역병과 지진, 613~628년 페르시아의 점령으로 이 지역은 아랍 정복 직전 크게 피폐해졌다.",
+    "zh": "罗马帝国分裂后，叙利亚由君士坦丁堡统治。这里有石灰岩山地上繁荣的村落——即所谓“死城”，有圣西门柱头修士教堂等大型朝圣教堂，叙利亚语基督教学术也十分兴盛，但451年迦克墩公会议后教会陷入深刻分裂。6世纪与萨珊波斯的长期战争、瘟疫和地震，以及613至628年波斯的占领，使这一地区在阿拉伯征服前夕已精疲力竭。",
+    "ja": "ローマ帝国の分裂後、シリアはコンスタンティノープルから統治された。石灰岩山地の「死の都市群」に代表される豊かな村々、柱頭行者聖シメオン教会のような大巡礼聖堂、活発なシリア語キリスト教学術が栄えたが、451年のカルケドン公会議後、教会は深く分裂した。6世紀のサーサーン朝との長い戦争、疫病と地震、613～628年のペルシア占領により、アラブの征服前夜には疲弊しきっていた。"
+   }
+  },
+  {
+   "from": 500,
+   "to": 636,
+   "kind": "state",
+   "qid": "Q733668",
+   "polity": "Ghassanids",
+   "name": {
+    "en": "Ghassanids",
+    "ko": "가산 왕조",
+    "zh": "加萨尼王国",
+    "ja": "ガッサーン朝"
+   },
+   "summary": {
+    "en": "The Ghassanids were Arab Christian allies of Byzantium who guarded the desert frontier of Syria and the Hauran against Persia's Lakhmid clients. Justinian recognised their chief al-Harith ibn Jabala as supreme phylarch around 529, and they patronised the Miaphysite (Syriac Orthodox) church. Their federation broke up in the late 6th century, and most of them fought on the Byzantine side during the Arab conquest.",
+    "ko": "가산 왕조는 비잔티움과 동맹한 아랍 그리스도교 세력으로, 시리아 사막 변경과 하우란을 지키며 페르시아의 속국 라흠 왕조와 맞섰다. 유스티니아누스는 529년경 그들의 수장 알하리스 이븐 자발라를 최고 필라르크로 인정했고, 그들은 단성론(시리아 정교회) 교회를 후원했다. 연합은 6세기 말 해체되었고, 아랍 정복 때 대부분 비잔티움 편에서 싸웠다.",
+    "zh": "加萨尼人是与拜占庭结盟的阿拉伯基督徒，守卫叙利亚沙漠边境和豪兰地区，对抗波斯的附庸莱赫米王国。约529年，查士丁尼承认其首领哈里斯·伊本·贾巴拉为最高部族首领，加萨尼人还庇护一性论（叙利亚正教会）教会。其联盟于6世纪末瓦解，阿拉伯征服时多数人站在拜占庭一方作战。",
+    "ja": "ガッサーン朝はビザンツと同盟したアラブ人キリスト教徒の勢力で、シリアの砂漠辺境とハウランを守り、ペルシアの従属国ラフム朝と対峙した。ユスティニアヌスは529年頃、その首長ハーリス・イブン・ジャバラを最高族長（フュラルコス）と認め、彼らは単性論派（シリア正教会）の教会を保護した。連合は6世紀末に解体し、アラブの征服時には多くがビザンツ側で戦った。"
+   }
+  },
+  {
+   "from": 634,
+   "to": 661,
+   "kind": "state",
+   "qid": "Q12490507",
+   "polity": "Rashidun Caliphate",
+   "name": {
+    "en": "Rashidun Caliphate",
+    "ko": "정통 칼리파국",
+    "zh": "正统哈里发国",
+    "ja": "正統カリフ時代"
+   },
+   "summary": {
+    "en": "Arab Muslim armies under commanders such as Khalid ibn al-Walid and Abu Ubayda conquered Syria from Byzantium between 634 and 638, the decisive victory coming at the Yarmouk in 636. Bilad al-Sham was organised into military districts (ajnad), and most cities surrendered on terms that protected Christian and Jewish communities. Mu'awiya, governor of Syria, built a powerful base there and challenged Caliph Ali in the First Fitna.",
+    "ko": "할리드 이븐 알왈리드와 아부 우바이다 등이 이끈 아랍 무슬림 군대는 634~638년 비잔티움으로부터 시리아를 정복했으며, 636년 야르무크 전투가 결정적이었다. 빌라드 알샴은 군관구(준드)로 편성되었고, 대부분의 도시는 그리스도교도와 유대교도 공동체를 보호하는 조건으로 항복했다. 시리아 총독 무아위야는 이곳에 강력한 기반을 쌓고 제1차 내란에서 칼리파 알리에 맞섰다.",
+    "zh": "在哈立德·伊本·瓦利德和阿布·乌拜达等将领率领下，阿拉伯穆斯林军队于634至638年间从拜占庭手中征服叙利亚，636年的雅尔穆克之战起了决定作用。沙姆地区被划分为若干军区（准德），多数城市以保护基督徒和犹太人社群为条件投降。叙利亚总督穆阿维叶在此建立强大根基，并在第一次内战中与哈里发阿里抗衡。",
+    "ja": "ハーリド・イブン・アル＝ワリードやアブー・ウバイダらが率いるアラブ・ムスリム軍は、634～638年にビザンツからシリアを征服し、636年のヤルムークの戦いが決定打となった。ビラード・アッシャームは軍管区（ジュンド）に編成され、多くの都市はキリスト教徒・ユダヤ教徒の共同体を保護する条件で降伏した。シリア総督ムアーウィヤはここに強固な基盤を築き、第一次内乱でカリフ・アリーと対立した。"
+   }
+  },
+  {
+   "from": 661,
+   "to": 750,
+   "kind": "state",
+   "qid": "Q8575586",
+   "polity": "Umayyad Caliphate",
+   "name": {
+    "en": "Umayyad Caliphate",
+    "ko": "우마이야 칼리파국",
+    "zh": "倭马亚王朝",
+    "ja": "ウマイヤ朝"
+   },
+   "summary": {
+    "en": "With Damascus as its capital, the Umayyad Caliphate ruled an empire from al-Andalus to Central Asia. Syria was its heartland: the caliphs Arabised the administration and coinage, built the Great Mosque of Damascus and desert palaces such as Qasr al-Hayr, and relied on Syrian Arab armies. The dynasty fell to the Abbasid revolution in 750, ending Damascus's role as imperial capital.",
+    "ko": "다마스쿠스를 수도로 한 우마이야 칼리파국은 알안달루스에서 중앙아시아까지 이르는 제국을 다스렸다. 시리아는 그 심장부로서, 칼리파들은 행정과 화폐를 아랍화하고 다마스쿠스 대모스크와 카스르 알하이르 같은 사막 궁전을 지었으며 시리아 아랍 군대에 의존했다. 750년 아바스 혁명으로 왕조가 무너지면서 다마스쿠스는 제국 수도의 지위를 잃었다.",
+    "zh": "倭马亚王朝以大马士革为首都，统治着从安达卢斯到中亚的庞大帝国。叙利亚是其核心地带：哈里发们推行行政与货币的阿拉伯化，修建大马士革大清真寺和海尔堡等沙漠宫殿，并倚重叙利亚阿拉伯军队。750年王朝在阿拔斯革命中覆灭，大马士革从此失去帝国首都地位。",
+    "ja": "ダマスカスを都とするウマイヤ朝は、アンダルスから中央アジアに及ぶ帝国を支配した。シリアはその中心地で、カリフたちは行政と貨幣をアラブ化し、ダマスカスの大モスクやカスル・アル＝ハイルなどの砂漠の宮殿を建設し、シリアのアラブ軍に依拠した。750年のアッバース革命で王朝は倒れ、ダマスカスは帝都の地位を失った。"
+   }
+  },
+  {
+   "from": 750,
+   "to": 970,
+   "kind": "state",
+   "qid": "Q12536",
+   "polity": "Abbasid Caliphate",
+   "name": {
+    "en": "Abbasid Caliphate and its successors",
+    "ko": "아바스 칼리파국과 지방 왕조",
+    "zh": "阿拔斯王朝及其后继政权",
+    "ja": "アッバース朝と地方政権"
+   },
+   "summary": {
+    "en": "Under the Abbasids, ruling from Baghdad, Syria became a provincial frontier facing Byzantium; Harun al-Rashid resided at Raqqa for years. From the late 9th century real power passed to regional dynasties: the Tulunids and later the Ikhshidids of Egypt held much of Syria, while the Hamdanids ruled Aleppo. The period ended as the Fatimids took Damascus in 970.",
+    "ko": "바그다드에서 통치한 아바스 왕조 아래 시리아는 비잔티움과 맞닿은 지방 변경이 되었고, 하룬 알라시드는 여러 해 동안 락까에 머물렀다. 9세기 후반부터 실권은 지방 왕조로 넘어가 이집트의 툴룬 왕조와 이후 이흐시드 왕조가 시리아 대부분을, 함단 왕조가 알레포를 다스렸다. 970년 파티마 왕조가 다마스쿠스를 차지하며 이 시대는 끝났다.",
+    "zh": "在定都巴格达的阿拔斯王朝治下，叙利亚成为面对拜占庭的边疆行省，哈伦·拉希德曾多年驻跸拉卡。自9世纪后期起，实权落入地方王朝之手：埃及的图伦王朝及其后的伊赫什德王朝控制叙利亚大部，哈姆丹王朝则统治阿勒颇。970年法蒂玛王朝夺取大马士革，这一时期随之结束。",
+    "ja": "バグダードを都とするアッバース朝のもとで、シリアはビザンツと接する地方辺境となり、ハールーン・アッラシードは長年ラッカに滞在した。9世紀後半からは実権が地方政権に移り、エジプトのトゥールーン朝、のちにイフシード朝がシリアの大部分を、ハムダーン朝がアレッポを支配した。970年にファーティマ朝がダマスカスを奪い、この時代は終わった。"
+   }
+  },
+  {
+   "from": 944,
+   "to": 1004,
+   "kind": "state",
+   "qid": "Q837187",
+   "polity": "Hamdanid Emirates",
+   "name": {
+    "en": "Hamdanid Emirate of Aleppo",
+    "ko": "알레포의 함단 왕조",
+    "zh": "阿勒颇的哈姆丹王朝",
+    "ja": "アレッポのハムダーン朝"
+   },
+   "summary": {
+    "en": "The Arab Hamdanid dynasty ruled northern Syria from Aleppo after Sayf al-Dawla took the city in 944. His court was a brilliant centre of Arabic culture, home to the poet al-Mutanabbi, while he waged constant frontier war against Byzantium. After Byzantine counter-offensives, including the sack of Aleppo in 962, the emirate survived as a buffer between Byzantium and the Fatimids until 1004.",
+    "ko": "아랍계 함단 왕조는 944년 사이프 알다울라가 알레포를 차지한 뒤 그곳을 중심으로 북부 시리아를 다스렸다. 그의 궁정은 시인 알무타나비가 활동한 아랍 문화의 빛나는 중심지였고, 그는 비잔티움과 끊임없이 국경 전쟁을 벌였다. 962년 알레포 약탈 등 비잔티움의 반격 이후 토후국은 1004년까지 비잔티움과 파티마 왕조 사이의 완충국으로 존속했다.",
+    "zh": "944年赛福·道莱夺取阿勒颇后，阿拉伯人的哈姆丹王朝便以此为中心统治叙利亚北部。他的宫廷是阿拉伯文化的璀璨中心，诗人穆太奈比曾在此效力，而他本人则与拜占庭连年征战。在包括962年阿勒颇遭洗劫在内的拜占庭反攻之后，这个埃米尔国作为拜占庭与法蒂玛王朝之间的缓冲国一直延续到1004年。",
+    "ja": "アラブ系のハムダーン朝は、944年にサイフ・アッダウラがアレッポを奪って以降、同地を中心に北シリアを治めた。彼の宮廷は詩人ムタナッビーが活躍したアラブ文化の輝かしい中心で、彼自身はビザンツと絶え間なく国境戦争を続けた。962年のアレッポ略奪などビザンツの反攻を経て、首長国は1004年までビザンツとファーティマ朝の間の緩衝国として存続した。"
+   }
+  },
+  {
+   "from": 970,
+   "to": 1076,
+   "kind": "state",
+   "qid": "Q160307",
+   "polity": "Fatimid Caliphate",
+   "name": {
+    "en": "Fatimid Caliphate and the Mirdasids",
+    "ko": "파티마 칼리파국과 미르다스 왕조",
+    "zh": "法蒂玛王朝与米尔达斯王朝",
+    "ja": "ファーティマ朝とミルダース朝"
+   },
+   "summary": {
+    "en": "The Ismaili Fatimid caliphs of Cairo took Damascus in 970 and contested central and northern Syria with Byzantium, local Bedouin powers and the Hamdanids. In the north the Arab Mirdasid dynasty ruled Aleppo from 1024 to 1080, often balancing between Cairo and Constantinople. Fatimid control of Syria crumbled as Turkmen forces arrived in the 1070s.",
+    "ko": "카이로의 이스마일파 파티마 칼리파들은 970년 다마스쿠스를 차지하고, 비잔티움·지역 베두인 세력·함단 왕조와 시리아 중북부를 놓고 다투었다. 북부에서는 아랍계 미르다스 왕조가 1024년부터 1080년까지 알레포를 다스리며 카이로와 콘스탄티노폴리스 사이에서 줄타기를 했다. 1070년대 투르크멘 세력이 들어오면서 파티마 왕조의 시리아 지배는 무너졌다.",
+    "zh": "开罗的伊斯玛仪派法蒂玛哈里发于970年夺取大马士革，并与拜占庭、当地贝都因势力和哈姆丹王朝争夺叙利亚中北部。在北方，阿拉伯人的米尔达斯王朝于1024至1080年统治阿勒颇，常在开罗与君士坦丁堡之间周旋。11世纪70年代突厥蛮势力到来后，法蒂玛王朝对叙利亚的控制随之瓦解。",
+    "ja": "カイロのイスマーイール派ファーティマ朝カリフは970年にダマスカスを奪い、ビザンツや地元のベドウィン勢力、ハムダーン朝とシリア中北部を争った。北部ではアラブ系のミルダース朝が1024年から1080年までアレッポを支配し、カイロとコンスタンティノープルの間で均衡を図った。1070年代にトルクメン勢力が到来すると、ファーティマ朝のシリア支配は崩れた。"
+   }
+  },
+  {
+   "from": 1076,
+   "to": 1154,
+   "kind": "state",
+   "qid": "Q3708094",
+   "polity": "Great Seljuk Empire",
+   "name": {
+    "en": "Seljuk Syria",
+    "ko": "셀주크 시대의 시리아",
+    "zh": "塞尔柱时期的叙利亚",
+    "ja": "セルジューク朝期のシリア"
+   },
+   "summary": {
+    "en": "Turkmen commanders loyal to the Great Seljuk sultans seized Damascus and Aleppo in the 1070s–1080s, and Tutush I founded a Seljuk principality in Syria. After his death in 1095 Syria fragmented among his sons and atabegs — notably the Burid dynasty of Damascus — leaving it divided when the First Crusade arrived in 1097–1098. Sunni madrasas spread under Turkish patronage in this period.",
+    "ko": "대셀주크 술탄에게 충성하는 투르크멘 지휘관들이 1070~1080년대에 다마스쿠스와 알레포를 차지했고, 투투시 1세가 시리아 셀주크 공국을 세웠다. 1095년 그가 죽자 시리아는 아들들과 아타베그들—특히 다마스쿠스의 부리 왕조—사이에 분열되어, 1097~1098년 제1차 십자군이 도착했을 때 분열 상태였다. 이 시기 튀르크 지배층의 후원으로 수니파 마드라사가 확산되었다.",
+    "zh": "效忠大塞尔柱苏丹的突厥蛮将领于11世纪70至80年代夺取大马士革和阿勒颇，突突什一世建立了叙利亚塞尔柱政权。1095年他死后，叙利亚在其诸子和阿塔伯克之间四分五裂——其中以大马士革的布里王朝最为著名——因此当1097至1098年第一次十字军到来时，叙利亚处于分裂状态。这一时期，逊尼派经学院在突厥统治者的资助下广泛兴起。",
+    "ja": "大セルジューク朝のスルタンに仕えるトルクメンの指揮官たちが1070～80年代にダマスカスとアレッポを奪い、トゥトゥシュ1世がシリア・セルジューク政権を樹立した。1095年に彼が没するとシリアは息子たちやアタベク（特にダマスカスのブーリー朝）の間で分裂し、1097～98年に第1回十字軍が到来したとき分裂状態にあった。この時期、トルコ系支配者の後援でスンナ派のマドラサが広まった。"
+   }
+  },
+  {
+   "from": 1098,
+   "to": 1302,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Crusader states in western Syria",
+    "ko": "서부 시리아의 십자군 국가",
+    "zh": "叙利亚西部的十字军国家",
+    "ja": "西シリアの十字軍国家"
+   },
+   "summary": {
+    "en": "After the First Crusade, the Principality of Antioch and the County of Tripoli held parts of western Syria, including the coast around Latakia and Tartus, the Orontes valley fringes and great castles such as Krak des Chevaliers and Marqab, held by the military orders. Muslim rulers from Zengi to Baybars gradually reconquered these lands; Latakia fell in 1287 and the island of Arwad (Ruad), the last Crusader foothold, in 1302.",
+    "ko": "제1차 십자군 이후 안티오키아 공국과 트리폴리 백국은 라타키아와 타르투스 일대 해안, 오론테스 계곡 가장자리, 그리고 기사단이 지킨 크라크 데 슈발리에와 마르카브 같은 거대한 성채 등 서부 시리아 일부를 차지했다. 장기에서 바이바르스에 이르는 무슬림 통치자들이 이 땅을 차례로 되찾았으며, 라타키아는 1287년, 마지막 거점인 아르와드(루아드)섬은 1302년에 함락되었다.",
+    "zh": "第一次十字军东征后，安条克公国和的黎波里伯国占据了叙利亚西部部分地区，包括拉塔基亚和塔尔图斯一带海岸、奥龙特斯河谷边缘，以及由骑士团把守的骑士堡和马尔卡布堡等巨大城堡。从赞吉到拜巴尔斯，穆斯林统治者逐步收复这些地区，拉塔基亚于1287年陷落，十字军最后的据点阿尔瓦德岛（鲁阿德）于1302年失守。",
+    "ja": "第1回十字軍の後、アンティオキア公国とトリポリ伯国は、ラタキアやタルトゥス周辺の沿岸、オロンテス川流域の周縁部、そして騎士修道会が守るクラック・デ・シュヴァリエやマルカブなどの巨大な城塞を含む西シリアの一部を領有した。ザンギーからバイバルスに至るムスリムの支配者がこれらを次第に奪回し、ラタキアは1287年、最後の拠点アルワード（ルアド）島は1302年に陥落した。"
+   }
+  },
+  {
+   "from": 1128,
+   "to": 1174,
+   "kind": "state",
+   "qid": "Q189545",
+   "polity": "Zengid dynasty",
+   "name": {
+    "en": "Zengid dynasty",
+    "ko": "장기 왕조",
+    "zh": "赞吉王朝",
+    "ja": "ザンギー朝"
+   },
+   "summary": {
+    "en": "Imad al-Din Zengi, Seljuk atabeg of Mosul, took Aleppo in 1128 and made it the base of a counter-crusade, capturing Edessa in 1144. His son Nur al-Din united Muslim Syria by taking Damascus in 1154, promoted Sunni learning with madrasas and hospitals such as the Bimaristan of Nur al-Din, and sent forces that brought Egypt under his authority.",
+    "ko": "모술의 셀주크 아타베그 이마드 앗딘 장기는 1128년 알레포를 차지해 반십자군 투쟁의 거점으로 삼고 1144년 에데사를 점령했다. 그의 아들 누르 앗딘은 1154년 다마스쿠스를 차지해 무슬림 시리아를 통일했고, 마드라사와 누르 앗딘 병원(비마리스탄) 등을 세워 수니파 학문을 진흥했으며, 군대를 보내 이집트를 자신의 권위 아래 두었다.",
+    "zh": "摩苏尔的塞尔柱阿塔伯克伊马德丁·赞吉于1128年夺取阿勒颇，以此为反十字军的基地，并于1144年攻占埃德萨。其子努尔丁于1154年夺取大马士革，统一了穆斯林治下的叙利亚，兴建经学院和努尔丁医院等设施以弘扬逊尼派学术，并派兵将埃及纳入其权威之下。",
+    "ja": "モースルのセルジューク朝アタベク、イマードゥッディーン・ザンギーは1128年にアレッポを得て対十字軍の拠点とし、1144年にエデッサを攻略した。その子ヌールッディーンは1154年にダマスカスを得てムスリムのシリアを統一し、マドラサやヌールッディーン病院（ビーマーリスターン）を建ててスンナ派の学問を振興し、軍を送ってエジプトを自らの権威下に置いた。"
+   }
+  },
+  {
+   "from": 1174,
+   "to": 1260,
+   "kind": "state",
+   "qid": "Q180114",
+   "polity": "Ayyubid Sultanate",
+   "name": {
+    "en": "Ayyubid dynasty",
+    "ko": "아이유브 왕조",
+    "zh": "阿尤布王朝",
+    "ja": "アイユーブ朝"
+   },
+   "summary": {
+    "en": "Saladin, founder of the Ayyubid dynasty, united Egypt and Syria after Nur al-Din's death and defeated the Crusaders at Hattin in 1187. After him the realm was shared among Ayyubid princes ruling Damascus, Aleppo, Hama and Homs, who sponsored a flowering of architecture and scholarship. The Ayyubid principalities of Syria were swept away by the Mongol invasion and the rise of the Mamluks in 1260.",
+    "ko": "아이유브 왕조의 창시자 살라딘은 누르 앗딘 사후 이집트와 시리아를 통합하고 1187년 하틴에서 십자군을 격파했다. 그 뒤 영토는 다마스쿠스·알레포·하마·홈스를 다스리는 아이유브 왕족들에게 나뉘었고, 이들은 건축과 학문의 개화를 후원했다. 시리아의 아이유브 공국들은 1260년 몽골 침입과 맘루크의 부상으로 사라졌다.",
+    "zh": "阿尤布王朝的创立者萨拉丁在努尔丁死后统一埃及和叙利亚，并于1187年在哈丁击败十字军。其后疆土由统治大马士革、阿勒颇、哈马和霍姆斯的阿尤布王族分治，他们推动了建筑与学术的繁荣。1260年，叙利亚的阿尤布诸公国在蒙古入侵和马穆鲁克崛起中覆灭。",
+    "ja": "アイユーブ朝の創始者サラディンはヌールッディーンの死後エジプトとシリアを統合し、1187年にヒッティーンで十字軍を破った。その後、領土はダマスカス、アレッポ、ハマ、ホムスを治めるアイユーブ家の諸侯に分けられ、彼らは建築と学問の開花を後援した。シリアのアイユーブ朝諸侯国は1260年のモンゴル侵攻とマムルークの台頭によって消滅した。"
+   }
+  },
+  {
+   "from": 1260,
+   "to": 1516,
+   "kind": "state",
+   "qid": "Q282428",
+   "polity": "Mamluk Sultanate",
+   "name": {
+    "en": "Mamluk Sultanate",
+    "ko": "맘루크 술탄국",
+    "zh": "马穆鲁克苏丹国",
+    "ja": "マムルーク朝"
+   },
+   "summary": {
+    "en": "After defeating the Mongols at Ain Jalut in 1260, the Mamluk sultans of Cairo ruled Syria through provincial governors at Damascus, Aleppo, Tripoli, Hama and other centres. They expelled the last Crusaders, repelled further Ilkhanid invasions and endowed Syrian cities with mosques, madrasas and markets. Plague from 1348, Timur's devastating invasion of 1400–1401 and economic strain weakened the regime before the Ottomans destroyed it in 1516.",
+    "ko": "1260년 아인잘루트에서 몽골을 물리친 카이로의 맘루크 술탄들은 다마스쿠스·알레포·트리폴리·하마 등의 총독을 통해 시리아를 다스렸다. 그들은 마지막 십자군을 몰아내고 일한국의 침입을 거듭 막아 냈으며, 시리아 도시들에 모스크·마드라사·시장을 세웠다. 1348년 이후의 흑사병, 1400~1401년 티무르의 파괴적 침입, 경제난으로 약해진 정권은 1516년 오스만 제국에 의해 무너졌다.",
+    "zh": "1260年在艾因札鲁特击败蒙古后，开罗的马穆鲁克苏丹通过驻大马士革、阿勒颇、的黎波里、哈马等地的总督统治叙利亚。他们驱逐了最后的十字军，多次击退伊儿汗国的入侵，并在叙利亚各城修建清真寺、经学院和市场。1348年起的黑死病、1400至1401年帖木儿的毁灭性入侵以及经济困境削弱了政权，1516年奥斯曼帝国将其推翻。",
+    "ja": "1260年にアイン・ジャールートでモンゴルを破ったカイロのマムルーク朝スルタンは、ダマスカス、アレッポ、トリポリ、ハマなどの総督を通じてシリアを統治した。彼らは最後の十字軍を追放し、イルハン朝の侵攻を繰り返し退け、シリアの都市にモスクやマドラサ、市場を寄進した。1348年以降のペスト、1400～01年のティムールの破壊的侵攻、経済の疲弊で弱体化し、1516年にオスマン帝国に滅ぼされた。"
+   }
+  },
+  {
+   "from": 1516,
+   "to": 1918,
+   "kind": "state",
+   "qid": "Q3076765",
+   "polity": "Ottoman Empire",
+   "name": {
+    "en": "Ottoman Syria",
+    "ko": "오스만 시리아",
+    "zh": "奥斯曼叙利亚",
+    "ja": "オスマン帝国領シリア"
+   },
+   "summary": {
+    "en": "For four centuries Syria belonged to the Ottoman Empire, governed through the eyalets of Damascus and Aleppo (later also Raqqa and Sidon) and, from 1865, the Vilayet of Syria. Aleppo was a great hub of the silk and spice trade with Europe, and Damascus organised the annual Hajj caravan to Mecca. The 19th century brought Egyptian occupation (1831–1840), Tanzimat reforms, sectarian violence in 1860 and the rise of Arab nationalism, before Ottoman rule ended in 1918.",
+    "ko": "4세기 동안 시리아는 오스만 제국에 속해 다마스쿠스와 알레포 주(이후 락까·시돈 주 포함), 1865년부터는 시리아 주를 통해 통치되었다. 알레포는 유럽과의 비단·향신료 교역의 거점이었고, 다마스쿠스는 해마다 메카로 향하는 하지 순례 대상을 조직했다. 19세기에는 이집트의 점령(1831~1840), 탄지마트 개혁, 1860년의 종파 폭력, 아랍 민족주의의 대두가 이어졌으며, 오스만 지배는 1918년에 끝났다.",
+    "zh": "四个世纪里，叙利亚隶属奥斯曼帝国，先后通过大马士革和阿勒颇两省（后又有拉卡省和赛达省）以及1865年设立的叙利亚州进行治理。阿勒颇是与欧洲进行丝绸和香料贸易的重要枢纽，大马士革则每年组织前往麦加的朝觐商队。19世纪经历了埃及占领（1831—1840）、坦齐马特改革、1860年的教派暴力和阿拉伯民族主义的兴起，奥斯曼统治于1918年结束。",
+    "ja": "4世紀にわたりシリアはオスマン帝国に属し、ダマスカス州とアレッポ州（のちにラッカ州、サイダ州も）、1865年からはシリア州を通じて統治された。アレッポはヨーロッパとの絹・香辛料交易の一大拠点となり、ダマスカスは毎年メッカへのハッジ巡礼隊を組織した。19世紀にはエジプトの占領（1831～40年）、タンズィマート改革、1860年の宗派暴力、アラブ民族主義の高まりが続き、1918年にオスマン支配は終わった。"
+   }
+  },
+  {
+   "from": 1831,
+   "to": 1840,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Egyptian occupation under Ibrahim Pasha",
+    "ko": "이브라힘 파샤의 이집트 점령",
+    "zh": "易卜拉欣帕夏的埃及占领",
+    "ja": "イブラーヒーム・パシャのエジプト占領"
+   },
+   "summary": {
+    "en": "Muhammad Ali of Egypt sent his son Ibrahim Pasha to conquer Syria from the Ottoman sultan in 1831–1832. Ibrahim's centralising administration introduced conscription, disarmament and new taxes, along with greater equality for non-Muslims and openness to European trade, provoking revolts. European intervention in the Oriental Crisis forced the Egyptians out in 1840.",
+    "ko": "이집트의 무함마드 알리는 1831~1832년 아들 이브라힘 파샤를 보내 오스만 술탄으로부터 시리아를 정복했다. 이브라힘의 중앙집권적 행정은 징병제·무장해제·신규 세금과 함께 비무슬림의 지위 향상과 유럽 교역 개방을 도입해 반란을 불렀다. 동방 위기에 유럽 열강이 개입하면서 이집트군은 1840년 철수했다.",
+    "zh": "埃及的穆罕默德·阿里于1831至1832年派其子易卜拉欣帕夏从奥斯曼苏丹手中夺取叙利亚。易卜拉欣推行中央集权式治理，实行征兵、收缴武器和新税，同时提高非穆斯林地位并向欧洲贸易开放，由此引发叛乱。在东方危机中欧洲列强出面干预，迫使埃及人于1840年撤出。",
+    "ja": "エジプトのムハンマド・アリーは1831～32年、息子イブラーヒーム・パシャを送ってオスマン帝国のスルタンからシリアを奪った。イブラーヒームの中央集権的な統治は徴兵、武装解除、新税を導入し、非ムスリムの地位向上やヨーロッパ貿易への開放も進めたため反乱を招いた。東方問題をめぐる列強の介入により、エジプト軍は1840年に撤退した。"
+   }
+  },
+  {
+   "from": 1918,
+   "to": 1920,
+   "kind": "state",
+   "qid": "Q146600",
+   "polity": null,
+   "name": {
+    "en": "Arab Kingdom of Syria",
+    "ko": "시리아 아랍 왕국",
+    "zh": "叙利亚阿拉伯王国",
+    "ja": "シリア・アラブ王国"
+   },
+   "summary": {
+    "en": "After Ottoman forces withdrew in 1918, Emir Faisal ibn Husayn set up an Arab government in Damascus under Allied military administration. In March 1920 the Syrian National Congress proclaimed him king of an independent Syria, but France, holding a League of Nations mandate, defeated the Syrian army at Maysalun in July 1920 and ended the kingdom.",
+    "ko": "1918년 오스만군이 물러난 뒤 아미르 파이살 이븐 후사인은 연합국 군정 아래 다마스쿠스에 아랍 정부를 세웠다. 1920년 3월 시리아 국민회의는 그를 독립 시리아의 국왕으로 선포했으나, 국제연맹 위임통치권을 얻은 프랑스가 1920년 7월 마이살룬에서 시리아군을 격파하며 왕국을 끝냈다.",
+    "zh": "1918年奥斯曼军队撤离后，埃米尔费萨尔·伊本·侯赛因在协约国军事管制下于大马士革建立阿拉伯政府。1920年3月，叙利亚国民大会拥立他为独立叙利亚的国王，但取得国际联盟委任统治权的法国于1920年7月在迈萨隆击败叙利亚军队，王国就此终结。",
+    "ja": "1918年にオスマン軍が撤退すると、アミール・ファイサル・イブン・フサインは連合国の軍政下でダマスカスにアラブ政府を樹立した。1920年3月、シリア国民会議は彼を独立シリアの国王と宣言したが、国際連盟の委任統治権を得たフランスが1920年7月にマイサルーンでシリア軍を破り、王国は終わった。"
+   }
+  },
+  {
+   "from": 1920,
+   "to": 1946,
+   "kind": "colonial",
+   "qid": "Q139708",
+   "polity": "French Mandate for Syria and Lebanon",
+   "name": {
+    "en": "French Mandate for Syria and Lebanon",
+    "ko": "프랑스의 시리아·레바논 위임통치",
+    "zh": "法国对叙利亚和黎巴嫩的委任统治",
+    "ja": "フランス委任統治領シリア・レバノン"
+   },
+   "summary": {
+    "en": "France governed Syria under a League of Nations mandate, dividing it into the States of Damascus and Aleppo, an Alawite State and a Jabal Druze State, and detaching Greater Lebanon. Nationalist resistance culminated in the Great Syrian Revolt of 1925–1927; a Syrian Republic with its own constitution was set up in 1930, but France retained control and ceded the Sanjak of Alexandretta to Turkey in 1939. Independence came with the withdrawal of French troops in April 1946.",
+    "ko": "프랑스는 국제연맹 위임통치에 따라 시리아를 다마스쿠스국·알레포국·알라위국·자발 드루즈국으로 나누고 대레바논을 분리해 통치했다. 민족주의 저항은 1925~1927년 시리아 대반란으로 정점에 달했고, 1930년 헌법을 갖춘 시리아 공화국이 세워졌으나 실권은 프랑스가 쥐었으며 1939년에는 알렉산드레타 산자크를 튀르키예에 넘겼다. 1946년 4월 프랑스군이 철수하며 독립이 이루어졌다.",
+    "zh": "法国依据国际联盟委任统治管理叙利亚，将其划分为大马士革国、阿勒颇国、阿拉维国和德鲁兹山国，并分出大黎巴嫩。民族主义抵抗在1925至1927年的叙利亚大起义中达到高潮；1930年建立了拥有宪法的叙利亚共和国，但实权仍在法国手中，1939年法国还将亚历山大勒塔区割让给土耳其。1946年4月法军撤离，叙利亚实现独立。",
+    "ja": "フランスは国際連盟の委任統治に基づきシリアを統治し、ダマスカス国、アレッポ国、アラウィー国、ジャバル・ドルーズ国に分け、大レバノンを切り離した。民族主義の抵抗は1925～27年のシリア大反乱で頂点に達し、1930年には憲法をもつシリア共和国が発足したが実権はフランスが握り、1939年にはアレクサンドレッタ地区をトルコに割譲した。1946年4月のフランス軍撤退で独立が実現した。"
+   }
+  },
+  {
+   "from": 1946,
+   "to": 1958,
+   "kind": "state",
+   "qid": "Q146885",
+   "polity": "Second Syrian Republic",
+   "name": {
+    "en": "Early independent Syrian Republic",
+    "ko": "독립 초기의 시리아 공화국",
+    "zh": "独立初期的叙利亚共和国",
+    "ja": "独立初期のシリア共和国"
+   },
+   "summary": {
+    "en": "Independent Syria was a parliamentary republic dominated by urban notable families and new ideological parties such as the Ba'ath and the Communists. Defeat in the 1948 war against Israel discredited the old elite, and a series of military coups from 1949 brought Husni al-Za'im, Sami al-Hinnawi and Adib Shishakli to power before civilian rule returned in 1954. Cold War pressures and fear of communism drove the government to seek union with Egypt in 1958.",
+    "ko": "독립 시리아는 도시 명망가 가문과 바트당·공산당 같은 신흥 이념 정당이 주도하는 의회 공화국이었다. 1948년 이스라엘과의 전쟁 패배로 구 엘리트의 권위가 실추되었고, 1949년부터 잇따른 군사 쿠데타로 후스니 알자임, 사미 알힌나위, 아디브 시샤클리가 집권한 뒤 1954년 민정이 복귀했다. 냉전의 압력과 공산주의에 대한 우려 속에 정부는 1958년 이집트와의 통합을 추진했다.",
+    "zh": "独立后的叙利亚是议会制共和国，由城市名门望族以及复兴党、共产党等新兴意识形态政党主导。1948年对以色列战争的失败使旧精英威信扫地，自1949年起接连发生军事政变，胡斯尼·扎伊姆、萨米·欣纳维和阿迪卜·希沙克利先后掌权，直到1954年恢复文官统治。在冷战压力和对共产主义的担忧下，政府于1958年寻求与埃及合并。",
+    "ja": "独立後のシリアは、都市の名望家とバアス党や共産党などの新しい思想政党が主導する議会制共和国であった。1948年の対イスラエル戦争の敗北で旧エリートの権威は失墜し、1949年以降相次ぐ軍事クーデターでフスニー・ザイーム、サーミー・ヒンナーウィー、アディーブ・シーシャクリーが政権を握った後、1954年に民政が復活した。冷戦の圧力と共産主義への警戒から、政府は1958年にエジプトとの合邦を求めた。"
+   }
+  },
+  {
+   "from": 1958,
+   "to": 1961,
+   "kind": "state",
+   "qid": "Q170468",
+   "polity": "United Arab Republic",
+   "name": {
+    "en": "United Arab Republic",
+    "ko": "아랍 연합 공화국",
+    "zh": "阿拉伯联合共和国",
+    "ja": "アラブ連合共和国"
+   },
+   "summary": {
+    "en": "In February 1958 Syria merged with Egypt under President Gamal Abdel Nasser to form the United Arab Republic, a landmark of pan-Arabism. Syrian parties were dissolved and power concentrated in Cairo, while land reform and nationalisations alienated Syrian elites and officers. A coup in Damascus in September 1961 ended the union.",
+    "ko": "1958년 2월 시리아는 가말 압델 나세르 대통령 아래 이집트와 합쳐 범아랍주의의 상징인 아랍 연합 공화국을 이루었다. 시리아의 정당들은 해산되고 권력은 카이로에 집중되었으며, 토지 개혁과 국유화는 시리아 엘리트와 장교들의 반발을 샀다. 1961년 9월 다마스쿠스의 쿠데타로 연합은 끝났다.",
+    "zh": "1958年2月，叙利亚与埃及在贾迈勒·阿卜杜勒·纳赛尔总统领导下合并为阿拉伯联合共和国，成为泛阿拉伯主义的标志。叙利亚各政党被解散，权力集中于开罗，土地改革和国有化又引起叙利亚精英和军官的不满。1961年9月大马士革发生政变，联合宣告结束。",
+    "ja": "1958年2月、シリアはガマール・アブドゥル＝ナーセル大統領のもとでエジプトと合邦し、汎アラブ主義の象徴であるアラブ連合共和国を形成した。シリアの政党は解散させられ権力はカイロに集中し、農地改革や国有化はシリアのエリートや将校の反発を招いた。1961年9月のダマスカスでのクーデターで連合は終わった。"
+   }
+  },
+  {
+   "from": 1961,
+   "to": 1963,
+   "kind": "state",
+   "qid": null,
+   "polity": "Republic of Syria",
+   "name": {
+    "en": "Syrian Arab Republic after secession",
+    "ko": "분리 이후의 시리아 아랍 공화국",
+    "zh": "脱离联合后的阿拉伯叙利亚共和国",
+    "ja": "分離後のシリア・アラブ共和国"
+   },
+   "summary": {
+    "en": "After leaving the union with Egypt, Syria became the Syrian Arab Republic under a conservative civilian government led by figures such as Nazim al-Qudsi. The 'secession' regime was weakened by army factionalism and pressure from Nasserists and Ba'athists, and was overthrown by the Ba'athist military coup of 8 March 1963.",
+    "ko": "이집트와의 연합에서 이탈한 시리아는 나짐 알쿠드시 등이 이끄는 보수적 민간 정부 아래 시리아 아랍 공화국이 되었다. '분리' 정권은 군부 파벌 다툼과 나세르주의자·바트주의자의 압력으로 약화되었고, 1963년 3월 8일 바트당 계열의 군사 쿠데타로 무너졌다.",
+    "zh": "退出与埃及的联合后，叙利亚成为阿拉伯叙利亚共和国，由纳齐姆·库德西等人领导的保守文官政府执政。这一“分离”政权因军队派系斗争以及纳赛尔派和复兴党人的压力而日渐虚弱，最终在1963年3月8日复兴党人的军事政变中被推翻。",
+    "ja": "エジプトとの連合から離脱したシリアは、ナーズィム・クドスィーらが率いる保守的な文民政府のもとでシリア・アラブ共和国となった。「分離」政権は軍の派閥抗争とナーセル派・バアス派の圧力で弱体化し、1963年3月8日のバアス党系軍事クーデターで倒された。"
+   }
+  },
+  {
+   "from": 1963,
+   "to": 2024,
+   "kind": "state",
+   "qid": "Q131404661",
+   "polity": "Ba'athist Syria",
+   "name": {
+    "en": "Ba'athist Syria",
+    "ko": "바트당 시리아",
+    "zh": "复兴党统治下的叙利亚",
+    "ja": "バアス党政権下のシリア"
+   },
+   "summary": {
+    "en": "The Arab Socialist Ba'ath Party seized power in 1963 and ruled as a one-party state under emergency law. After internal coups in 1966 and 1970, Hafez al-Assad built a durable authoritarian regime resting on the army, security services and a strong presidency, and was succeeded by his son Bashar in 2000. Syria fought Israel in 1967 and 1973, losing the Golan Heights, intervened in Lebanon, and from 2011 descended into a devastating civil war; the regime fell in December 2024.",
+    "ko": "아랍 사회주의 바트당은 1963년 권력을 잡고 비상사태법 아래 일당 국가로 통치했다. 1966년과 1970년의 당내 쿠데타 뒤 하페즈 알아사드는 군·정보기관·강력한 대통령제에 기반한 견고한 권위주의 체제를 세웠고, 2000년 아들 바샤르가 뒤를 이었다. 시리아는 1967년과 1973년 이스라엘과 싸워 골란고원을 잃었고 레바논에 개입했으며, 2011년부터 참혹한 내전에 빠졌다. 정권은 2024년 12월 무너졌다.",
+    "zh": "阿拉伯复兴社会党于1963年夺取政权，在紧急状态法下实行一党统治。经过1966年和1970年的党内政变，哈菲兹·阿萨德建立起依托军队、安全机构和强势总统制的稳固威权体制，2000年由其子巴沙尔继位。叙利亚在1967年和1973年与以色列交战并失去戈兰高地，曾出兵干预黎巴嫩，并自2011年起陷入惨烈内战。该政权于2024年12月垮台。",
+    "ja": "アラブ社会主義バアス党は1963年に政権を握り、非常事態法のもとで一党支配を敷いた。1966年と1970年の党内クーデターを経て、ハーフィズ・アル＝アサドは軍・治安機関・強力な大統領制に支えられた強固な権威主義体制を築き、2000年に息子バッシャールが後を継いだ。シリアは1967年と1973年にイスラエルと戦ってゴラン高原を失い、レバノンに介入し、2011年からは悲惨な内戦に陥った。政権は2024年12月に崩壊した。"
+   }
+  },
+  {
+   "from": 2024,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q858",
+   "polity": null,
+   "name": {
+    "en": "Post-Assad transitional Syria",
+    "ko": "아사드 이후 과도기의 시리아",
+    "zh": "后阿萨德时代的过渡期叙利亚",
+    "ja": "アサド後の移行期シリア"
+   },
+   "summary": {
+    "en": "After the fall of Bashar al-Assad in December 2024, a transitional authority led by Ahmed al-Sharaa, former leader of Hayat Tahrir al-Sham, took power in Damascus. The new government has sought international recognition, sanctions relief and reconstruction, while facing deadly sectarian violence, Israeli military operations in the south, and unresolved questions over Kurdish-led autonomy in the northeast and the place of Druze and Alawite communities.",
+    "ko": "2024년 12월 바샤르 알아사드가 몰락한 뒤 하야트 타흐리르 알샴의 전 지도자 아흐마드 알샤라가 이끄는 과도 정부가 다마스쿠스에서 권력을 잡았다. 새 정부는 국제적 승인, 제재 완화, 재건을 추구하는 한편, 치명적인 종파 폭력, 남부에서의 이스라엘 군사 작전, 북동부 쿠르드 주도 자치 문제와 드루즈·알라위 공동체의 지위라는 난제에 직면해 있다.",
+    "zh": "2024年12月巴沙尔·阿萨德倒台后，由“沙姆解放组织”前领导人艾哈迈德·沙拉领导的过渡当局在大马士革掌权。新政府寻求国际承认、解除制裁和战后重建，同时面临致命的教派暴力、以色列在南部的军事行动，以及东北部库尔德人主导的自治和德鲁兹、阿拉维派社群地位等悬而未决的问题。",
+    "ja": "2024年12月にバッシャール・アル＝アサドが失脚した後、シャーム解放機構（HTS）の元指導者アフマド・アル＝シャラアが率いる暫定政権がダマスカスで権力を握った。新政府は国際的承認、制裁解除、復興を目指す一方、多数の死者を出す宗派間暴力、南部でのイスラエルの軍事行動、北東部のクルド主導自治やドルーズ派・アラウィー派共同体の地位という未解決の課題に直面している。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2900,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Mari on the Euphrates",
+    "ko": "유프라테스강의 마리 건설",
+    "zh": "幼发拉底河畔马里城的建立",
+    "ja": "ユーフラテス河畔のマリ建設"
+   },
+   "description": {
+    "en": "Around 2900 BC the city of Mari (Tell Hariri, near today's Abu Kamal) was laid out as a planned circular town on the middle Euphrates. Controlling river traffic between Mesopotamia and Syria, it became one of the richest Bronze Age cities of the region.",
+    "ko": "기원전 2900년경 유프라테스강 중류(오늘날 아부카말 인근 텔 하리리)에 원형으로 계획된 도시 마리가 세워졌다. 메소포타미아와 시리아를 잇는 강 교통을 장악한 마리는 이 지역에서 가장 부유한 청동기 도시 중 하나가 되었다.",
+    "zh": "约公元前2900年，马里城（今阿布卡迈勒附近的哈里里丘）作为一座规划成圆形的城市在幼发拉底河中游建立。它控制着美索不达米亚与叙利亚之间的河运，成为该地区最富庶的青铜时代城市之一。",
+    "ja": "紀元前2900年頃、ユーフラテス川中流（現在のアブ・カマル近郊のテル・ハリリ）に円形に計画された都市マリが築かれた。メソポタミアとシリアを結ぶ河川交通を押さえたマリは、この地域で最も豊かな青銅器時代都市の一つとなった。"
+   }
+  },
+  {
+   "year": -2400,
+   "qid": "Q5743",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Kingdom of Ebla flourishes",
+    "ko": "에블라 왕국의 번영",
+    "zh": "埃卜拉王国的繁荣",
+    "ja": "エブラ王国の繁栄"
+   },
+   "description": {
+    "en": "The Bronze Age city-state of Ebla near modern Idlib became a major commercial power; its archive of thousands of cuneiform tablets is among the oldest state records ever found.",
+    "ko": "청동기 시대 도시국가 에블라(현 이들리브 인근)는 강력한 상업 국가로 성장했다. 수천 점의 쐐기문자 점토판 문서고는 현존하는 가장 오래된 국가 기록물에 속한다.",
+    "zh": "青铜时代城邦埃卜拉（今伊德利卜附近）发展为强大的商业强国，其数千块楔形文字泥板档案是迄今发现最古老的国家档案之一。",
+    "ja": "青銅器時代の都市国家エブラ（現イドリブ近郊）は有力な商業国家として栄えた。数千枚に及ぶ楔形文字粘土板の文書庫は、現存する最古級の国家記録である。"
+   }
+  },
+  {
+   "year": -2250,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Akkadian conquests and the fall of Ebla",
+    "ko": "아카드의 정복과 에블라의 몰락",
+    "zh": "阿卡德的征服与埃卜拉的陷落",
+    "ja": "アッカドの征服とエブラの陥落"
+   },
+   "description": {
+    "en": "Naram-Sin of Akkad boasted of conquering Ebla and built a fortress-palace at Tell Brak to control the Khabur plains. Ebla's royal palace was burned in this era, which preserved its clay archive, although historians still debate whether Sargon, Naram-Sin or Mari destroyed the city.",
+    "ko": "아카드의 나람신은 에블라를 정복했다고 자랑했고, 하부르 평원을 장악하기 위해 텔 브라크에 요새 궁전을 지었다. 이 무렵 에블라 왕궁이 불타면서 오히려 점토판 문서고가 보존되었으나, 도시를 파괴한 것이 사르곤인지 나람신인지 혹은 마리인지는 여전히 논쟁 중이다.",
+    "zh": "阿卡德的纳拉姆辛自称征服了埃卜拉，并在布拉克丘修建要塞宫殿以控制哈布尔平原。埃卜拉王宫在这一时期被焚毁，泥板档案反而因此得以保存；不过究竟是萨尔贡、纳拉姆辛还是马里摧毁了该城，史学界仍有争论。",
+    "ja": "アッカドのナラム・シンはエブラ征服を誇り、ハブール平原支配のためテル・ブラクに要塞宮殿を築いた。この頃エブラの王宮が焼け落ち、かえって粘土板文書庫が保存されたが、都市を滅ぼしたのがサルゴンかナラム・シンか、あるいはマリかは今も議論が続いている。"
+   }
+  },
+  {
+   "year": -1761,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Hammurabi destroys Mari",
+    "ko": "함무라비의 마리 파괴",
+    "zh": "汉谟拉比摧毁马里",
+    "ja": "ハンムラビによるマリ破壊"
+   },
+   "description": {
+    "en": "Under Zimri-Lim, Mari was a wealthy kingdom whose archive of more than 20,000 tablets illuminates the politics of the age. Around 1761 BC (middle chronology) his former ally Hammurabi of Babylon conquered Mari and later razed its great palace, and the city never recovered its power.",
+    "ko": "짐리림 치하의 마리는 부유한 왕국이었고, 2만 점이 넘는 점토판 문서고는 당대 정치를 생생히 보여 준다. 기원전 1761년경(중기 연대) 옛 동맹이던 바빌론의 함무라비가 마리를 정복하고 이후 거대한 왕궁을 파괴했으며, 도시는 다시는 세력을 회복하지 못했다.",
+    "zh": "在齐姆里-利姆统治下，马里是一个富庶的王国，其两万余块泥板的档案生动展现了当时的政治。约公元前1761年（中年代学），其昔日盟友巴比伦的汉谟拉比征服马里，后又夷平其宏伟王宫，该城此后再未恢复往日实力。",
+    "ja": "ジムリ・リム治下のマリは豊かな王国で、2万点を超える粘土板文書は当時の政治を生き生きと伝える。紀元前1761年頃（中年代）、かつての同盟者バビロンのハンムラビがマリを征服し、のちに大王宮を破壊した。都市は二度と勢力を取り戻さなかった。"
+   }
+  },
+  {
+   "year": -1595,
+   "qid": "Q617218",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Hittites overthrow Yamhad",
+    "ko": "히타이트의 얌하드 정복",
+    "zh": "赫梯推翻延哈德",
+    "ja": "ヒッタイトによるヤムハド征服"
+   },
+   "description": {
+    "en": "The Hittite kings Hattusili I and Mursili I campaigned repeatedly against Yamhad, the great kingdom of Aleppo. Mursili I captured Aleppo around 1600 BC (c. 1595 BC in the middle chronology) before raiding Babylon, ending Yamhad's dominance of northern Syria.",
+    "ko": "히타이트의 왕 하투실리 1세와 무르실리 1세는 알레포의 대왕국 얌하드를 거듭 공격했다. 무르실리 1세는 기원전 1600년경(중기 연대 기준 약 기원전 1595년) 알레포를 점령한 뒤 바빌론까지 습격했고, 이로써 얌하드의 북시리아 패권은 끝났다.",
+    "zh": "赫梯国王哈图西里一世和穆尔西里一世多次征讨阿勒颇的大王国延哈德。约公元前1600年（按中年代学约为公元前1595年），穆尔西里一世攻陷阿勒颇，随后又远袭巴比伦，延哈德对叙利亚北部的霸权由此终结。",
+    "ja": "ヒッタイトの王ハットゥシリ1世とムルシリ1世は、アレッポの大王国ヤムハドを繰り返し攻撃した。ムルシリ1世は紀元前1600年頃（中年代で紀元前1595年頃）にアレッポを攻略し、さらにバビロンを襲撃した。これによりヤムハドの北シリアにおける覇権は終わった。"
+   }
+  },
+  {
+   "year": -1500,
+   "qid": "Q178665",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mitanni dominates northern Syria",
+    "ko": "미탄니의 북시리아 지배",
+    "zh": "米坦尼称霸叙利亚北部",
+    "ja": "ミタンニの北シリア支配"
+   },
+   "description": {
+    "en": "By about 1500 BC the Hurrian kingdom of Mitanni had become the leading power between the Euphrates and the Mediterranean, holding Aleppo, Alalakh and other vassal kingdoms. Its rulers bred and trained chariot horses, and a later Mitannian horse-training manual by Kikkuli survives in Hittite translation.",
+    "ko": "기원전 1500년경 후르리인의 왕국 미탄니는 알레포·알랄라흐 등 속국을 거느리며 유프라테스강과 지중해 사이의 최강국이 되었다. 미탄니는 전차용 말을 기르고 훈련하는 데 뛰어났으며, 미탄니인 키쿨리의 말 조련 지침서가 히타이트어 번역본으로 전한다.",
+    "zh": "约公元前1500年，胡里安人的米坦尼王国已成为幼发拉底河与地中海之间的头号强国，控制阿勒颇、阿拉拉赫等附庸王国。米坦尼人擅长培育和训练战车马匹，一部出自米坦尼人基库里的驯马手册以赫梯文译本流传至今。",
+    "ja": "紀元前1500年頃、フルリ人の王国ミタンニはアレッポやアララハなどの属国を従え、ユーフラテス川と地中海の間で最強の勢力となった。ミタンニは戦車用の馬の飼育・調教に長け、ミタンニ人キックリの馬の調教書がヒッタイト語訳で伝わっている。"
+   }
+  },
+  {
+   "year": -1450,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Thutmose III's Syrian campaigns",
+    "ko": "투트모세 3세의 시리아 원정",
+    "zh": "图特摩斯三世的叙利亚远征",
+    "ja": "トトメス3世のシリア遠征"
+   },
+   "description": {
+    "en": "The Egyptian pharaoh Thutmose III led repeated campaigns into Syria, besieging Kadesh on the Orontes and crossing the Euphrates to attack Mitanni around the middle of the 15th century BC. Egypt thereafter claimed overlordship over the city-states of southern and central Syria.",
+    "ko": "이집트 파라오 투트모세 3세는 시리아로 여러 차례 원정해 오론테스강의 카데시를 공략하고, 기원전 15세기 중반경 유프라테스강을 건너 미탄니를 공격했다. 이후 이집트는 시리아 남부와 중부 도시국가들에 대한 종주권을 주장했다.",
+    "zh": "埃及法老图特摩斯三世多次远征叙利亚，进攻奥龙特斯河畔的卡迭石，并于公元前15世纪中叶渡过幼发拉底河攻击米坦尼。此后埃及宣称对叙利亚南部和中部诸城邦拥有宗主权。",
+    "ja": "エジプトのファラオ、トトメス3世はシリアへ繰り返し遠征し、オロンテス川のカデシュを攻め、紀元前15世紀中頃にはユーフラテス川を渡ってミタンニを攻撃した。以後エジプトはシリア南部・中部の都市国家に対する宗主権を主張した。"
+   }
+  },
+  {
+   "year": -1400,
+   "qid": "Q191369",
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Ugarit and the early alphabet",
+    "ko": "우가리트와 초기 알파벳",
+    "zh": "乌加里特与早期字母文字",
+    "ja": "ウガリットと初期アルファベット"
+   },
+   "description": {
+    "en": "The port city of Ugarit on the Mediterranean coast prospered through trade and developed a 30-sign cuneiform alphabet, one of the earliest alphabetic writing systems in history.",
+    "ko": "지중해 연안의 항구 도시 우가리트는 교역으로 번영하며 30자 내외의 쐐기문자 알파벳을 발전시켰다. 이는 역사상 가장 이른 알파벳 문자 체계 중 하나다.",
+    "zh": "地中海沿岸港口城市乌加里特因贸易而繁荣，发展出约三十个符号的楔形字母文字，是历史上最早的字母书写体系之一。",
+    "ja": "地中海沿岸の港湾都市ウガリットは交易で栄え、約30文字の楔形アルファベットを生み出した。史上最初期のアルファベット文字体系の一つである。"
+   }
+  },
+  {
+   "year": -1344,
+   "qid": "Q5406",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Suppiluliuma I conquers Syria",
+    "ko": "수필룰리우마 1세의 시리아 정복",
+    "zh": "苏庇路里乌玛一世征服叙利亚",
+    "ja": "シュッピルリウマ1世のシリア征服"
+   },
+   "description": {
+    "en": "In the mid-14th century BC the Hittite king Suppiluliuma I defeated Mitanni and took over its Syrian vassals, installing his sons as viceroys at Aleppo and Carchemish. The Amarna letters, written by Syrian and Levantine rulers to the pharaohs in the same period, record the turmoil as local kings shifted allegiance.",
+    "ko": "기원전 14세기 중반 히타이트 왕 수필룰리우마 1세는 미탄니를 격파하고 그 시리아 속국들을 차지해, 아들들을 알레포와 카르케미시의 부왕으로 앉혔다. 같은 시기 시리아·레반트의 통치자들이 파라오에게 보낸 아마르나 서신은 지역 왕들이 충성의 대상을 바꾸던 혼란상을 전한다.",
+    "zh": "公元前14世纪中叶，赫梯国王苏庇路里乌玛一世击败米坦尼，接管其在叙利亚的附庸国，并立其子为阿勒颇和卡赫美士的副王。同一时期叙利亚和黎凡特统治者写给法老的阿马尔奈书信，记录了当地诸王改换效忠对象时的动荡局面。",
+    "ja": "紀元前14世紀半ば、ヒッタイト王シュッピルリウマ1世はミタンニを破ってそのシリアの属国を奪い、息子たちをアレッポとカルケミシュの副王に据えた。同時期にシリア・レヴァントの支配者がファラオに送ったアマルナ文書は、在地の王たちが忠誠先を変えた混乱を伝えている。"
+   }
+  },
+  {
+   "year": -1274,
+   "qid": "Q203729",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of Kadesh",
+    "ko": "카데시 전투",
+    "zh": "卡迭石之战",
+    "ja": "カデシュの戦い"
+   },
+   "description": {
+    "en": "Near Kadesh on the Orontes, south of modern Homs, Ramesses II of Egypt fought the Hittite king Muwatalli II in one of the largest chariot battles of antiquity. Both sides claimed victory, but Kadesh stayed under Hittite control and the frontier between the two empires remained in Syria.",
+    "ko": "오늘날 홈스 남쪽 오론테스강 변의 카데시 부근에서 이집트의 람세스 2세와 히타이트 왕 무와탈리 2세가 고대 최대 규모의 전차전 가운데 하나를 벌였다. 양측 모두 승리를 주장했으나 카데시는 히타이트의 지배 아래 남았고, 두 제국의 경계는 시리아에 머물렀다.",
+    "zh": "在今霍姆斯以南奥龙特斯河畔的卡迭石附近，埃及的拉美西斯二世与赫梯国王穆瓦塔利二世展开了古代规模最大的战车会战之一。双方都宣称获胜，但卡迭石仍归赫梯控制，两大帝国的边界依旧位于叙利亚境内。",
+    "ja": "現在のホムス南方、オロンテス川沿いのカデシュ近郊で、エジプトのラムセス2世とヒッタイト王ムワタリ2世が古代最大級の戦車戦を繰り広げた。双方が勝利を主張したが、カデシュはヒッタイトの支配下にとどまり、両帝国の境界はシリアに残った。"
+   }
+  },
+  {
+   "year": -1185,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Destruction of Ugarit",
+    "ko": "우가리트의 멸망",
+    "zh": "乌加里特的毁灭",
+    "ja": "ウガリットの滅亡"
+   },
+   "description": {
+    "en": "Around 1185 BC Ugarit was sacked and abandoned amid the upheavals of the Late Bronze Age collapse. Letters found in the ruins speak of enemy ships attacking the coast, often linked to the 'Sea Peoples', and the city was never reoccupied as a kingdom.",
+    "ko": "기원전 1185년경 우가리트는 후기 청동기 시대 붕괴의 격변 속에 약탈당하고 버려졌다. 폐허에서 발견된 서신은 적선이 해안을 공격했다고 전하는데, 이는 흔히 '바다 민족'과 연결된다. 도시는 다시는 왕국으로 재건되지 않았다.",
+    "zh": "约公元前1185年，乌加里特在晚期青铜时代崩溃的动荡中遭劫掠并被废弃。废墟中发现的书信提到敌方船只袭击海岸，人们常将其与“海上民族”联系起来。此后该城再未作为王国复兴。",
+    "ja": "紀元前1185年頃、ウガリットは後期青銅器時代の崩壊の混乱の中で略奪され、放棄された。廃墟から見つかった書簡は敵の船団が沿岸を襲ったことを伝え、しばしば「海の民」と結びつけられる。都市が王国として再興されることはなかった。"
+   }
+  },
+  {
+   "year": -1100,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Rise of the Aramaeans",
+    "ko": "아람인의 대두",
+    "zh": "亚兰人的崛起",
+    "ja": "アラム人の台頭"
+   },
+   "description": {
+    "en": "Around 1100 BC the Assyrian king Tiglath-Pileser I recorded repeated campaigns against the 'Ahlamu-Aramaeans' along the Euphrates. Over the next two centuries Aramaean groups settled across Syria and founded kingdoms whose language would spread throughout the Near East.",
+    "ko": "기원전 1100년경 아시리아 왕 티글라트 필레세르 1세는 유프라테스강 변의 '아흘라무 아람인'을 상대로 거듭 원정했다고 기록했다. 이후 두 세기 동안 아람인 집단은 시리아 전역에 정착해 왕국을 세웠고, 그들의 언어는 근동 전역으로 퍼져 나갔다.",
+    "zh": "约公元前1100年，亚述国王提革拉·毗列色一世记载了他沿幼发拉底河多次征讨“阿赫拉姆-亚兰人”的经过。此后两个世纪里，亚兰人群体定居叙利亚各地并建立王国，其语言后来传遍整个近东。",
+    "ja": "紀元前1100年頃、アッシリア王ティグラト・ピレセル1世はユーフラテス川沿いの「アフラム・アラム人」に対する度重なる遠征を記録した。その後2世紀の間にアラム人の集団はシリア各地に定住して王国を建て、その言語は近東全域へ広がっていった。"
+   }
+  },
+  {
+   "year": -856,
+   "qid": "Q878717",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Assyria annexes Bit Adini",
+    "ko": "아시리아의 비트 아디니 병합",
+    "zh": "亚述吞并比特·阿迪尼",
+    "ja": "アッシリアのビト・アディニ併合"
+   },
+   "description": {
+    "en": "Shalmaneser III of Assyria captured Til Barsip (Tell Ahmar), capital of the Aramaean state of Bit Adini on the Euphrates, in 856 BC and renamed it Kar-Shalmaneser. The annexation gave Assyria a permanent bridgehead for campaigns into western Syria.",
+    "ko": "아시리아의 샬마네세르 3세는 기원전 856년 유프라테스강 변 아람 국가 비트 아디니의 수도 틸 바르시프(텔 아흐마르)를 점령하고 카르 샬마네세르로 개칭했다. 이 병합으로 아시리아는 서부 시리아 원정을 위한 영구 교두보를 확보했다.",
+    "zh": "公元前856年，亚述的沙尔马那塞尔三世攻占幼发拉底河畔亚兰国家比特·阿迪尼的都城提尔巴尔西普（艾哈迈尔丘），并将其改名为卡尔-沙尔马那塞尔。这次吞并使亚述获得了向叙利亚西部用兵的永久桥头堡。",
+    "ja": "アッシリアのシャルマネセル3世は紀元前856年、ユーフラテス川沿いのアラム人国家ビト・アディニの都ティル・バルシプ（テル・アフマル）を攻略し、カル・シャルマネセルと改名した。この併合でアッシリアは西シリア遠征のための恒久的な橋頭堡を得た。"
+   }
+  },
+  {
+   "year": -853,
+   "qid": "Q849474",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Qarqar",
+    "ko": "카르카르 전투",
+    "zh": "卡尔卡尔战役",
+    "ja": "カルカルの戦い"
+   },
+   "description": {
+    "en": "At Qarqar on the Orontes, Shalmaneser III fought a coalition of Levantine kings led by Hadadezer of Damascus and Irhuleni of Hamath, joined by Ahab of Israel. Assyria claimed victory, but the coalition halted its advance for years; the battle's Assyrian record also contains the earliest known mention of Arabs.",
+    "ko": "오론테스강 변 카르카르에서 샬마네세르 3세는 다마스쿠스의 하닷에셀과 하마의 이르훌레니가 이끌고 이스라엘의 아합이 가담한 레반트 왕들의 연합군과 싸웠다. 아시리아는 승리를 주장했으나 연합군은 수년간 그 진격을 막아 냈으며, 이 전투에 관한 아시리아 기록에는 아랍인에 대한 가장 오래된 언급이 담겨 있다.",
+    "zh": "在奥龙特斯河畔的卡尔卡尔，沙尔马那塞尔三世与大马士革的哈大底谢、哈马的伊尔胡莱尼所率、以色列的亚哈也参与的黎凡特诸王联军交战。亚述宣称获胜，但联军使其进军停滞多年；关于此战的亚述记载还包含了已知最早提到阿拉伯人的文字。",
+    "ja": "オロンテス川沿いのカルカルで、シャルマネセル3世はダマスカスのハダドエゼルとハマのイルフレニが率い、イスラエルのアハブも加わったレヴァント諸王の連合軍と戦った。アッシリアは勝利を主張したが連合軍はその進撃を数年間食い止めた。この戦いのアッシリア側記録には、アラブ人に関する最古の言及も含まれる。"
+   }
+  },
+  {
+   "year": -841,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Shalmaneser III besieges Damascus",
+    "ko": "샬마네세르 3세의 다마스쿠스 포위",
+    "zh": "沙尔马那塞尔三世围攻大马士革",
+    "ja": "シャルマネセル3世のダマスカス包囲"
+   },
+   "description": {
+    "en": "In 841 BC Shalmaneser III defeated Hazael, the new king of Aram-Damascus, and besieged Damascus, ravaging its orchards, but could not take the city. Hazael went on to make Damascus the dominant power of the southern Levant in the late 9th century BC.",
+    "ko": "기원전 841년 샬마네세르 3세는 아람 다마스쿠스의 새 왕 하사엘을 격파하고 다마스쿠스를 포위해 과수원을 짓밟았으나 도시를 함락하지는 못했다. 하사엘은 이후 기원전 9세기 후반 다마스쿠스를 레반트 남부의 패권 국가로 만들었다.",
+    "zh": "公元前841年，沙尔马那塞尔三世击败亚兰-大马士革的新王哈薛，围攻大马士革并毁坏其果园，却未能攻克该城。此后哈薛使大马士革在公元前9世纪后期成为黎凡特南部的霸主。",
+    "ja": "紀元前841年、シャルマネセル3世はアラム・ダマスカスの新王ハザエルを破ってダマスカスを包囲し果樹園を荒らしたが、都市を落とすことはできなかった。ハザエルはその後、紀元前9世紀後半にダマスカスをレヴァント南部の覇者とした。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Zakkur of Hamath and his stele",
+    "ko": "하마의 왕 자쿠르와 그의 비문",
+    "zh": "哈马王扎库尔及其石碑",
+    "ja": "ハマ王ザックルとその碑文"
+   },
+   "description": {
+    "en": "Around 800 BC Zakkur, king of Hamath and Lu'ash, withstood a siege of Hazrach by a coalition led by Bar-Hadad of Damascus. His Old Aramaic victory stele, which credits the god Baalshamin for his rescue, is a key source for the history and religion of the Aramaean kingdoms.",
+    "ko": "기원전 800년경 하마와 루아시의 왕 자쿠르는 다마스쿠스의 바르하닷이 이끈 연합군의 하즈라크 포위를 견뎌 냈다. 바알샤민 신이 자신을 구했다고 새긴 그의 고대 아람어 전승비는 아람 왕국들의 역사와 종교를 알려 주는 핵심 사료다.",
+    "zh": "约公元前800年，哈马和卢阿什之王扎库尔顶住了大马士革的便哈达所率联军对哈兹拉克的围攻。他用古亚兰语刻写的纪功碑将获救归功于巴力沙民神，是研究亚兰诸王国历史和宗教的重要史料。",
+    "ja": "紀元前800年頃、ハマとルアシュの王ザックルはダマスカスのベン・ハダドが率いる連合軍によるハズラク包囲に耐え抜いた。神バアルシャミンの救いを讃える彼の古アラム語の戦勝碑は、アラム人諸王国の歴史と宗教を知る重要史料である。"
+   }
+  },
+  {
+   "year": -740,
+   "qid": "Q11909456",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fall of Arpad",
+    "ko": "아르파드의 함락",
+    "zh": "阿尔帕德的陷落",
+    "ja": "アルパドの陥落"
+   },
+   "description": {
+    "en": "After a three-year siege, Tiglath-Pileser III of Assyria captured Arpad, capital of the Aramaean kingdom of Bit Agusi north of Aleppo, in 740 BC. The kingdom became an Assyrian province, a major step in the empire's absorption of northern Syria.",
+    "ko": "아시리아의 티글라트 필레세르 3세는 3년간의 포위 끝에 기원전 740년 알레포 북쪽의 아람 왕국 비트 아구시의 수도 아르파드를 함락했다. 이 왕국은 아시리아의 속주가 되었고, 이는 제국이 북부 시리아를 흡수하는 중요한 단계였다.",
+    "zh": "经过三年围攻，亚述的提革拉·毗列色三世于公元前740年攻陷阿勒颇以北的亚兰王国比特·阿古西的都城阿尔帕德。该王国被改为亚述行省，这是帝国吞并叙利亚北部的重要一步。",
+    "ja": "3年に及ぶ包囲の末、アッシリアのティグラト・ピレセル3世は紀元前740年、アレッポ北方のアラム人王国ビト・アグシの都アルパドを陥落させた。王国はアッシリアの属州となり、帝国による北シリア吸収の大きな一歩となった。"
+   }
+  },
+  {
+   "year": -732,
+   "qid": "Q625649",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Assyria conquers Aram-Damascus",
+    "ko": "아시리아, 아람 다마스쿠스 정복",
+    "zh": "亚述征服亚兰大马士革",
+    "ja": "アッシリアによるアラム・ダマスカス征服"
+   },
+   "description": {
+    "en": "The Aramaean kingdom centred on Damascus fell to the Assyrian king Tiglath-Pileser III. Aramaic nonetheless spread to become the common language of the Near East for centuries.",
+    "ko": "다마스쿠스를 중심으로 한 아람 왕국이 아시리아의 티글라트 필레세르 3세에게 정복되었다. 그러나 아람어는 이후 수 세기 동안 근동의 공용어로 퍼져 나갔다.",
+    "zh": "以大马士革为中心的亚兰王国被亚述王提革拉·毗列色三世征服。然而亚兰语此后数百年间不断传播，成为近东的通用语言。",
+    "ja": "ダマスカスを中心とするアラム人の王国はアッシリア王ティグラト・ピレセル3世に征服された。しかしアラム語はその後数世紀にわたり近東の共通語として広まった。"
+   }
+  },
+  {
+   "year": -720,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sargon II crushes the revolt of Hamath",
+    "ko": "사르곤 2세의 하마 반란 진압",
+    "zh": "萨尔贡二世镇压哈马叛乱",
+    "ja": "サルゴン2世のハマ反乱鎮圧"
+   },
+   "description": {
+    "en": "In 720 BC Yau-bi'di of Hamath led Arpad, Damascus and other former states in revolt against Assyria. Sargon II defeated the rebels at Qarqar, executed their leader and turned Hamath into a province, ending the last independent kingdoms of inland Syria.",
+    "ko": "기원전 720년 하마의 야우비디는 아르파드·다마스쿠스 등 옛 국가들을 이끌고 아시리아에 반기를 들었다. 사르곤 2세는 카르카르에서 반란군을 격파하고 지도자를 처형한 뒤 하마를 속주로 만들어, 내륙 시리아의 마지막 독립 왕국들을 끝냈다.",
+    "zh": "公元前720年，哈马的亚乌-比迪率领阿尔帕德、大马士革等旧邦起兵反抗亚述。萨尔贡二世在卡尔卡尔击溃叛军，处死其首领，并将哈马改为行省，叙利亚内陆最后的独立王国就此终结。",
+    "ja": "紀元前720年、ハマのヤウ・ビディはアルパドやダマスカスなど旧国家を率いてアッシリアに反旗を翻した。サルゴン2世はカルカルで反乱軍を破り指導者を処刑してハマを属州とし、内陸シリア最後の独立王国を終わらせた。"
+   }
+  },
+  {
+   "year": -605,
+   "qid": "Q2401276",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battles of Carchemish and Hamath",
+    "ko": "카르케미시·하마 전투",
+    "zh": "卡赫美士与哈马之战",
+    "ja": "カルケミシュとハマの戦い"
+   },
+   "description": {
+    "en": "In 605 BC the Babylonian crown prince Nebuchadnezzar defeated the Egyptian army of Necho II at Carchemish on the Euphrates and pursued its survivors to Hamath, where he destroyed them. The victories transferred Syria from Egyptian to Babylonian control.",
+    "ko": "기원전 605년 바빌로니아의 왕세자 네부카드네자르는 유프라테스강 변 카르케미시에서 네코 2세의 이집트군을 격파하고, 하마까지 패잔병을 추격해 섬멸했다. 이 승리로 시리아는 이집트에서 바빌로니아의 지배로 넘어갔다.",
+    "zh": "公元前605年，巴比伦王储尼布甲尼撒在幼发拉底河畔的卡赫美士击败尼科二世的埃及军队，并追击残部至哈马将其歼灭。这些胜利使叙利亚从埃及控制转入巴比伦之手。",
+    "ja": "紀元前605年、バビロニアの皇太子ネブカドネザルはユーフラテス川沿いのカルケミシュでネコ2世のエジプト軍を破り、残兵をハマまで追撃して殲滅した。この勝利によりシリアはエジプトからバビロニアの支配へと移った。"
+   }
+  },
+  {
+   "year": -539,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Syria passes to Persia",
+    "ko": "시리아, 페르시아의 지배로",
+    "zh": "叙利亚归属波斯",
+    "ja": "シリア、ペルシアの支配下へ"
+   },
+   "description": {
+    "en": "When Cyrus the Great captured Babylon in 539 BC, Syria passed to the Achaemenid Persian Empire. It was later organised as the satrapy of Eber-Nari ('Beyond the River'), and Aramaic remained the language of administration.",
+    "ko": "기원전 539년 키루스 대왕이 바빌론을 점령하자 시리아는 아케메네스 페르시아 제국의 영토가 되었다. 이후 에베르 나리('강 건너편') 태수령으로 편성되었고, 아람어는 계속 행정 언어로 쓰였다.",
+    "zh": "公元前539年居鲁士大帝攻占巴比伦后，叙利亚归入阿契美尼德波斯帝国。此后该地被编为“河外”（埃伯尔-纳里）行省，亚兰语继续作为行政语言使用。",
+    "ja": "紀元前539年にキュロス大王がバビロンを占領すると、シリアはアケメネス朝ペルシア帝国の領土となった。のちにエベル・ナーリ（「川向こう」）州として編成され、アラム語は引き続き行政言語として用いられた。"
+   }
+  },
+  {
+   "year": -401,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Cyrus the Younger marches through Syria",
+    "ko": "소 키루스의 시리아 행군",
+    "zh": "小居鲁士行军穿越叙利亚",
+    "ja": "小キュロスのシリア行軍"
+   },
+   "description": {
+    "en": "In 401 BC the Persian prince Cyrus the Younger led an army including Greek mercenaries through northern Syria, crossing the Euphrates at Thapsacus, to challenge his brother Artaxerxes II. Xenophon's Anabasis, written by one of the mercenaries, describes the route and the Syrian countryside of the time.",
+    "ko": "기원전 401년 페르시아 왕자 소 키루스는 그리스 용병을 포함한 군대를 이끌고 북부 시리아를 지나 탑사쿠스에서 유프라테스강을 건너 형 아르타크세르크세스 2세에게 도전했다. 용병 중 한 명인 크세노폰이 쓴 『아나바시스』는 그 행로와 당시 시리아의 풍경을 전한다.",
+    "zh": "公元前401年，波斯王子小居鲁士率领包括希腊雇佣兵在内的军队穿越叙利亚北部，在塔普萨库斯渡过幼发拉底河，向其兄阿尔塔薛西斯二世发起挑战。雇佣兵之一色诺芬所著的《长征记》记述了这条行军路线和当时叙利亚的风貌。",
+    "ja": "紀元前401年、ペルシアの王子小キュロスはギリシア人傭兵を含む軍を率いて北シリアを通過し、タプサコスでユーフラテス川を渡って兄アルタクセルクセス2世に挑んだ。傭兵の一人クセノフォンの『アナバシス』は、その行軍路と当時のシリアの様子を伝えている。"
+   }
+  },
+  {
+   "year": -333,
+   "qid": "Q83958",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Alexander the Great takes Syria",
+    "ko": "알렉산드로스 대왕의 시리아 장악",
+    "zh": "亚历山大大帝夺取叙利亚",
+    "ja": "アレクサンドロス大王のシリア制圧"
+   },
+   "description": {
+    "en": "After defeating Darius III at Issus in 333 BC, Alexander the Great sent his general Parmenion to seize Damascus, where the Persian king's treasure and baggage had been left. Syria passed under Macedonian rule, opening three centuries of Hellenistic influence.",
+    "ko": "기원전 333년 이소스에서 다리우스 3세를 격파한 알렉산드로스 대왕은 장군 파르메니온을 보내 페르시아 왕의 재물과 수송대가 남겨진 다마스쿠스를 장악했다. 시리아는 마케도니아의 지배 아래 들어가 3세기에 걸친 헬레니즘 시대를 맞았다.",
+    "zh": "公元前333年在伊苏斯击败大流士三世后，亚历山大大帝派部将帕曼纽夺取存放着波斯王财宝和辎重的大马士革。叙利亚由此归于马其顿统治，开启了长达三个世纪的希腊化时代。",
+    "ja": "紀元前333年にイッソスでダレイオス3世を破ったアレクサンドロス大王は、将軍パルメニオンを派遣し、ペルシア王の財宝と輜重が残されていたダマスカスを押さえた。シリアはマケドニアの支配下に入り、3世紀にわたるヘレニズムの時代が始まった。"
+   }
+  },
+  {
+   "year": -301,
+   "qid": "Q705904",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Battle of Ipsus divides Syria",
+    "ko": "입소스 전투와 시리아의 분할",
+    "zh": "伊普苏斯之战与叙利亚的分割",
+    "ja": "イプソスの戦いとシリアの分割"
+   },
+   "description": {
+    "en": "The victory of Seleucus and his allies over Antigonus at Ipsus in 301 BC gave northern Syria to Seleucus, while Ptolemy had occupied the south. The unresolved claim to Coele-Syria set off a century of 'Syrian Wars' between the two dynasties.",
+    "ko": "기원전 301년 입소스에서 셀레우코스와 동맹군이 안티고노스를 꺾으면서 북부 시리아는 셀레우코스에게 돌아갔고, 남부는 이미 프톨레마이오스가 점령하고 있었다. 코일레 시리아를 둘러싼 미해결 분쟁은 두 왕조 사이에 한 세기에 걸친 '시리아 전쟁'을 불러왔다.",
+    "zh": "公元前301年，塞琉古及其盟友在伊普苏斯击败安提柯，叙利亚北部归于塞琉古，而南部已被托勒密占据。围绕柯里叙利亚的悬而未决之争，引发了两大王朝之间长达一个世纪的“叙利亚战争”。",
+    "ja": "紀元前301年、イプソスでセレウコスと同盟軍がアンティゴノスを破り、北シリアはセレウコスのものとなったが、南部はすでにプトレマイオスが占領していた。コイレ・シリアをめぐる未解決の争いは、両王朝の間で1世紀にわたる「シリア戦争」を引き起こした。"
+   }
+  },
+  {
+   "year": -300,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Seleucus founds the Syrian cities",
+    "ko": "셀레우코스의 시리아 도시 건설",
+    "zh": "塞琉古建立叙利亚诸城",
+    "ja": "セレウコスによるシリア諸都市の建設"
+   },
+   "description": {
+    "en": "Around 300 BC Seleucus I founded the 'tetrapolis' of northern Syria — Antioch, Seleucia Pieria, Apamea and Laodicea (today's Latakia). Laid out on Greek grid plans and settled with Macedonian and Greek colonists, these cities became the backbone of Hellenistic and later Roman Syria.",
+    "ko": "기원전 300년경 셀레우코스 1세는 북부 시리아의 '네 도시'—안티오키아, 셀레우키아 피에리아, 아파메아, 라오디케아(오늘날의 라타키아)—를 건설했다. 그리스식 격자형으로 설계되고 마케도니아·그리스 이주민이 정착한 이 도시들은 헬레니즘과 이후 로마 시대 시리아의 근간이 되었다.",
+    "zh": "约公元前300年，塞琉古一世在叙利亚北部建立了“四城”——安条克、皮埃里亚的塞琉西亚、阿帕米亚和劳迪西亚（今拉塔基亚）。这些城市按希腊式棋盘格局规划，由马其顿和希腊移民定居，成为希腊化时期乃至罗马时期叙利亚的骨干。",
+    "ja": "紀元前300年頃、セレウコス1世は北シリアの「四都市」—アンティオキア、セレウキア・ピエリア、アパメア、ラオディケイア（現ラタキア）—を建設した。ギリシア式の格子状に設計され、マケドニア人・ギリシア人の植民者が住んだこれらの都市は、ヘレニズム期からローマ期のシリアの中核となった。"
+   }
+  },
+  {
+   "year": -246,
+   "qid": "Q34145",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Third Syrian War",
+    "ko": "제3차 시리아 전쟁",
+    "zh": "第三次叙利亚战争",
+    "ja": "第三次シリア戦争"
+   },
+   "description": {
+    "en": "The Third Syrian War (246–241 BC) began when Ptolemy III invaded the Seleucid realm to support his sister, the widowed queen Berenice. Ptolemaic forces briefly reached deep into Seleucid territory and won the port of Seleucia Pieria, which Egypt held for over two decades.",
+    "ko": "제3차 시리아 전쟁(기원전 246~241년)은 프톨레마이오스 3세가 과부가 된 누이 베레니케 왕비를 지원하려 셀레우코스 왕국을 침공하면서 시작되었다. 프톨레마이오스군은 한때 셀레우코스 영토 깊숙이 진격했고, 항구 셀레우키아 피에리아를 얻어 20여 년간 보유했다.",
+    "zh": "第三次叙利亚战争（公元前246—前241年）始于托勒密三世为支援其寡居的姐妹贝勒尼基王后而入侵塞琉古王国。托勒密军一度深入塞琉古腹地，并夺得港口皮埃里亚的塞琉西亚，此后埃及据有该港二十余年。",
+    "ja": "第三次シリア戦争（紀元前246～241年）は、プトレマイオス3世が未亡人となった姉妹ベレニケ王妃を支援するためセレウコス朝に侵攻して始まった。プトレマイオス軍は一時セレウコス領の奥深くまで進み、港市セレウキア・ピエリアを獲得して20年余り保持した。"
+   }
+  },
+  {
+   "year": -217,
+   "qid": "Q1418062",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fourth Syrian War and the Battle of Raphia",
+    "ko": "제4차 시리아 전쟁과 라피아 전투",
+    "zh": "第四次叙利亚战争与拉菲亚战役",
+    "ja": "第四次シリア戦争とラフィアの戦い"
+   },
+   "description": {
+    "en": "In the Fourth Syrian War (219–217 BC) Antiochus III invaded Ptolemaic Coele-Syria, but was defeated by Ptolemy IV at Raphia in 217 BC, a huge battle in which both sides used war elephants. The south of Syria remained Egyptian for the moment.",
+    "ko": "제4차 시리아 전쟁(기원전 219~217년)에서 안티오코스 3세는 프톨레마이오스령 코일레 시리아를 침공했으나, 기원전 217년 양측이 전투 코끼리를 동원한 대규모 라피아 전투에서 프톨레마이오스 4세에게 패했다. 시리아 남부는 당분간 이집트령으로 남았다.",
+    "zh": "在第四次叙利亚战争（公元前219—前217年）中，安条克三世入侵托勒密治下的柯里叙利亚，但于公元前217年在拉菲亚被托勒密四世击败，这是一场双方都动用战象的大规模会战。叙利亚南部暂时仍归埃及。",
+    "ja": "第四次シリア戦争（紀元前219～217年）でアンティオコス3世はプトレマイオス朝領コイレ・シリアに侵攻したが、紀元前217年、双方が戦象を投入した大会戦ラフィアの戦いでプトレマイオス4世に敗れた。シリア南部はひとまずエジプト領にとどまった。"
+   }
+  },
+  {
+   "year": -200,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Panium",
+    "ko": "파니움 전투",
+    "zh": "帕尼昂之战",
+    "ja": "パニオンの戦い"
+   },
+   "description": {
+    "en": "In 200 BC Antiochus III defeated the Ptolemaic army at Panium, near the springs of Banias in the Golan. The victory gave the Seleucids Coele-Syria, uniting Syria under one Hellenistic dynasty for the first time.",
+    "ko": "기원전 200년 안티오코스 3세는 골란 지역 바니아스 샘 부근의 파니움에서 프톨레마이오스군을 격파했다. 이 승리로 셀레우코스 왕조는 코일레 시리아를 얻어 처음으로 시리아 전역을 하나의 헬레니즘 왕조 아래 통합했다.",
+    "zh": "公元前200年，安条克三世在戈兰地区巴尼亚斯泉附近的帕尼昂击败托勒密军队。此役使塞琉古王朝取得柯里叙利亚，叙利亚首次统一于同一个希腊化王朝之下。",
+    "ja": "紀元前200年、アンティオコス3世はゴラン地方のバニアスの泉近くのパニオンでプトレマイオス軍を破った。この勝利でセレウコス朝はコイレ・シリアを獲得し、シリアは初めて一つのヘレニズム王朝のもとに統一された。"
+   }
+  },
+  {
+   "year": -150,
+   "qid": "Q19845460",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Seleucid dynastic wars",
+    "ko": "셀레우코스 왕조의 왕위 계승 전쟁",
+    "zh": "塞琉古王朝的王位继承战争",
+    "ja": "セレウコス朝の王位継承戦争"
+   },
+   "description": {
+    "en": "From the mid-2nd century BC rival claimants — Demetrius I, the pretender Alexander Balas and their successors — fought repeated civil wars for the Seleucid throne, often backed by Rome, Egypt or Pergamon. The strife drained the kingdom as Parthia seized its eastern provinces, shrinking it to Syria itself.",
+    "ko": "기원전 2세기 중반부터 데메트리오스 1세, 참칭자 알렉산드로스 발라스와 그 후계자들 같은 왕위 주장자들이 로마·이집트·페르가몬의 후원을 받으며 셀레우코스 왕위를 놓고 거듭 내전을 벌였다. 이 분쟁은 왕국을 소진시켰고, 파르티아가 동방 속주를 빼앗으면서 왕국은 시리아 본토로 축소되었다.",
+    "zh": "自公元前2世纪中叶起，德米特里一世、僭位者亚历山大·巴拉斯及其后继者等王位争夺者在罗马、埃及或帕加马的支持下，为塞琉古王位反复内战。纷争耗尽了国力，帕提亚趁机夺取东方诸省，王国缩小到仅剩叙利亚本土。",
+    "ja": "紀元前2世紀半ばから、デメトリオス1世や僭称者アレクサンドロス・バラスらとその後継者たちが、ローマ・エジプト・ペルガモンの後押しを受けてセレウコス朝の王位をめぐり内戦を繰り返した。この抗争で王国は疲弊し、パルティアに東方諸州を奪われてシリア本土にまで縮小した。"
+   }
+  },
+  {
+   "year": -83,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Tigranes the Great rules Syria",
+    "ko": "티그라네스 대왕의 시리아 지배",
+    "zh": "提格兰大帝统治叙利亚",
+    "ja": "ティグラネス大王のシリア支配"
+   },
+   "description": {
+    "en": "Around 83 BC, with the Seleucid dynasty exhausted by civil war, King Tigranes II of Armenia took over Syria and ruled it for about fourteen years. His rule ended when the Romans under Lucullus defeated him in 69 BC, after which the last Seleucid kings briefly returned.",
+    "ko": "기원전 83년경 내전으로 지친 셀레우코스 왕조를 대신해 아르메니아 왕 티그라네스 2세가 시리아를 차지하고 약 14년간 다스렸다. 그의 지배는 기원전 69년 루쿨루스가 이끈 로마군에게 패하며 끝났고, 이후 마지막 셀레우코스 왕들이 잠시 복귀했다.",
+    "zh": "约公元前83年，在塞琉古王朝因内战而衰竭之际，亚美尼亚国王提格兰二世接管叙利亚，统治了约十四年。公元前69年他被卢库卢斯率领的罗马军击败，统治告终，此后最后几位塞琉古国王短暂复辟。",
+    "ja": "紀元前83年頃、内戦で疲弊したセレウコス朝に代わってアルメニア王ティグラネス2世がシリアを支配し、約14年間統治した。紀元前69年にルクルス率いるローマ軍に敗れて支配は終わり、その後最後のセレウコス朝の王たちが一時復帰した。"
+   }
+  },
+  {
+   "year": -64,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Rome annexes Syria",
+    "ko": "로마의 시리아 병합",
+    "zh": "罗马吞并叙利亚",
+    "ja": "ローマによるシリア併合"
+   },
+   "description": {
+    "en": "Pompey the Great ended Seleucid rule and made Syria a Roman province. Antioch grew into one of the largest cities of the Roman world, and Syrian cities flourished for centuries.",
+    "ko": "폼페이우스가 셀레우코스 왕조의 지배를 끝내고 시리아를 로마 속주로 삼았다. 안티오키아는 로마 세계 최대급 도시로 성장했고 시리아의 도시들은 수 세기 동안 번영했다.",
+    "zh": "庞培终结了塞琉古王朝的统治，将叙利亚设为罗马行省。安条克发展为罗马世界最大的城市之一，叙利亚各城此后数百年间繁荣兴盛。",
+    "ja": "ポンペイウスがセレウコス朝の支配を終わらせ、シリアをローマの属州とした。アンティオキアはローマ世界有数の大都市に成長し、シリアの諸都市は長く繁栄した。"
+   }
+  },
+  {
+   "year": -38,
+   "qid": "Q3498428",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Mount Gindarus",
+    "ko": "긴다루스산 전투",
+    "zh": "金达鲁斯山之战",
+    "ja": "ギンダロス山の戦い"
+   },
+   "description": {
+    "en": "After a Parthian invasion overran Roman Syria in 40 BC, the Roman general Publius Ventidius Bassus defeated the Parthian prince Pacorus at Mount Gindarus, northeast of Antioch, in 38 BC. Pacorus was killed and the Parthians withdrew beyond the Euphrates.",
+    "ko": "기원전 40년 파르티아의 침입으로 로마령 시리아가 유린된 뒤, 로마 장군 푸블리우스 벤티디우스 바수스는 기원전 38년 안티오키아 북동쪽 긴다루스산에서 파르티아 왕자 파코루스를 격파했다. 파코루스는 전사했고 파르티아군은 유프라테스강 너머로 물러났다.",
+    "zh": "公元前40年帕提亚入侵席卷罗马叙利亚后，罗马将领普布利乌斯·文提狄乌斯·巴苏斯于公元前38年在安条克东北的金达鲁斯山击败帕提亚王子帕科鲁斯。帕科鲁斯阵亡，帕提亚军退回幼发拉底河以东。",
+    "ja": "紀元前40年のパルティアの侵攻でローマ領シリアが蹂躙された後、ローマの将軍プブリウス・ウェンティディウス・バッススは紀元前38年、アンティオキア北東のギンダロス山でパルティア王子パコロスを破った。パコロスは戦死し、パルティア軍はユーフラテス川の彼方へ退いた。"
+   }
+  },
+  {
+   "year": 32,
+   "qid": "Q797481",
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Temple of Bel dedicated at Palmyra",
+    "ko": "팔미라 벨 신전 봉헌",
+    "zh": "帕尔米拉贝尔神庙落成",
+    "ja": "パルミラのベル神殿奉献"
+   },
+   "description": {
+    "en": "In AD 32 the great Temple of Bel was dedicated at Palmyra, blending Mesopotamian, Greek and local Semitic traditions in honour of the city's chief god. It stood for nearly two thousand years, serving later as a church and a mosque, until it was blown up by the Islamic State group in 2015.",
+    "ko": "서기 32년 팔미라에서 도시의 주신을 모신 거대한 벨 신전이 봉헌되었다. 메소포타미아·그리스·현지 셈족 전통이 어우러진 이 신전은 이후 교회와 모스크로도 쓰이며 2천 년 가까이 서 있었으나, 2015년 이슬람국가(IS)에 의해 폭파되었다.",
+    "zh": "公元32年，帕尔米拉供奉城市主神的宏伟贝尔神庙落成，融合了美索不达米亚、希腊和当地闪米特传统。它屹立近两千年，后来还曾用作教堂和清真寺，直到2015年被“伊斯兰国”组织炸毁。",
+    "ja": "西暦32年、パルミラで都市の主神を祀る壮大なベル神殿が奉献された。メソポタミア、ギリシア、在地セム系の伝統を融合したこの神殿は、のちに教会やモスクとしても使われながら2千年近く立ち続けたが、2015年に過激派組織「イスラム国」によって爆破された。"
+   }
+  },
+  {
+   "year": 34,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Paul's conversion near Damascus",
+    "ko": "다마스쿠스 인근에서의 바울의 회심",
+    "zh": "保罗在大马士革附近皈依",
+    "ja": "ダマスカス近郊でのパウロの回心"
+   },
+   "description": {
+    "en": "According to the Acts of the Apostles, Saul of Tarsus was converted to Christianity on the road to Damascus around AD 34–36 and was baptised in the city, later escaping over its walls. The episode shows that a Christian community existed in Damascus within a few years of Jesus' death.",
+    "ko": "사도행전에 따르면 다르소의 사울은 서기 34~36년경 다마스쿠스로 가는 길에서 그리스도교로 회심하고 그 도시에서 세례를 받았으며, 훗날 성벽을 넘어 탈출했다. 이 일화는 예수 사후 몇 년 만에 다마스쿠스에 그리스도교 공동체가 존재했음을 보여 준다.",
+    "zh": "据《使徒行传》记载，约公元34至36年，大数人扫罗在前往大马士革的路上皈依基督教，并在该城受洗，后来越过城墙逃离。这段经历表明，在耶稣死后数年之内，大马士革已有基督徒群体。",
+    "ja": "『使徒言行録』によれば、タルソスのサウロは西暦34～36年頃、ダマスカスへ向かう途上でキリスト教に回心し、同市で洗礼を受け、のちに城壁を越えて脱出した。この逸話は、イエスの死後数年のうちにダマスカスにキリスト教共同体が存在していたことを示している。"
+   }
+  },
+  {
+   "year": 67,
+   "qid": "Q11794865",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siege of Gamla",
+    "ko": "가믈라 포위전",
+    "zh": "加姆拉之围",
+    "ja": "ガムラ包囲戦"
+   },
+   "description": {
+    "en": "During the First Jewish–Roman War, Roman legions under Vespasian besieged and stormed the Jewish town of Gamla on a ridge in the Golan in AD 67, as described by Josephus. The site lies in the Golan Heights, Syrian territory occupied by Israel since 1967.",
+    "ko": "제1차 유대–로마 전쟁 중이던 서기 67년, 베스파시아누스가 이끈 로마 군단은 골란 지역 능선 위의 유대인 도시 가믈라를 포위해 함락했으며, 그 경위는 요세푸스가 전한다. 유적은 1967년 이후 이스라엘이 점령하고 있는 시리아 영토 골란고원에 있다.",
+    "zh": "第一次犹太-罗马战争期间，公元67年韦斯巴芗率领的罗马军团围攻并攻陷了戈兰山脊上的犹太城镇加姆拉，约瑟夫斯对此有所记述。该遗址位于戈兰高地，即1967年以来被以色列占领的叙利亚领土。",
+    "ja": "第一次ユダヤ・ローマ戦争中の西暦67年、ウェスパシアヌス率いるローマ軍団はゴランの尾根上にあるユダヤ人の町ガムラを包囲・攻略し、その経緯はヨセフスが伝えている。遺跡は1967年以来イスラエルが占領するシリア領ゴラン高原にある。"
+   }
+  },
+  {
+   "year": 106,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Bosra becomes capital of Roman Arabia",
+    "ko": "보스라, 로마 아라비아 속주의 수도로",
+    "zh": "布斯拉成为罗马阿拉伯行省首府",
+    "ja": "ボスラ、ローマ属州アラビアの州都に"
+   },
+   "description": {
+    "en": "In 106 Emperor Trajan annexed the Nabataean kingdom and created the province of Arabia Petraea with Bostra (Bosra) in southern Syria as its capital. Bosra prospered as a legionary base and caravan city; its well-preserved Roman theatre is a UNESCO World Heritage site.",
+    "ko": "106년 트라야누스 황제는 나바테아 왕국을 병합해 아라비아 페트라이아 속주를 만들고 남부 시리아의 보스트라(보스라)를 수도로 삼았다. 보스라는 군단 기지이자 대상 도시로 번영했으며, 잘 보존된 로마 극장은 유네스코 세계유산이다.",
+    "zh": "106年，图拉真皇帝吞并纳巴泰王国，设立佩特拉阿拉伯行省，以叙利亚南部的博斯特拉（布斯拉）为首府。布斯拉作为军团驻地和商队城市而繁荣，其保存完好的罗马剧场已列入联合国教科文组织世界遗产。",
+    "ja": "106年、トラヤヌス帝はナバテア王国を併合してアラビア・ペトラエア属州を設け、南シリアのボストラ（ボスラ）を州都とした。ボスラは軍団基地・隊商都市として繁栄し、保存状態の良いローマ劇場はユネスコ世界遺産となっている。"
+   }
+  },
+  {
+   "year": 194,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Septimius Severus divides Syria",
+    "ko": "셉티미우스 세베루스의 시리아 분할",
+    "zh": "塞普蒂米乌斯·塞维鲁分割叙利亚",
+    "ja": "セプティミウス・セウェルスのシリア分割"
+   },
+   "description": {
+    "en": "After defeating his rival Pescennius Niger, governor of Syria, Septimius Severus split the province around 194 into Syria Coele in the north and Syria Phoenice in the south, to prevent any future governor from commanding too many legions. Severus's wife, Julia Domna, came from a priestly family of Emesa (Homs).",
+    "ko": "시리아 총독이던 경쟁자 페스켄니우스 니게르를 물리친 셉티미우스 세베루스는 194년경 이 속주를 북쪽의 시리아 코일레와 남쪽의 시리아 포이니케로 나누어, 한 총독이 너무 많은 군단을 거느리지 못하게 했다. 세베루스의 아내 율리아 돔나는 에메사(홈스)의 사제 가문 출신이었다.",
+    "zh": "塞普蒂米乌斯·塞维鲁击败了身为叙利亚总督的对手佩森尼乌斯·尼格尔后，约于194年将该行省分为北部的柯里叙利亚和南部的腓尼基叙利亚，以防任何总督掌握过多军团。塞维鲁的妻子尤利娅·多姆娜出身于埃梅萨（霍姆斯）的祭司家族。",
+    "ja": "シリア総督だった対立者ペスケンニウス・ニゲルを破ったセプティミウス・セウェルスは、194年頃この属州を北のシリア・コエレと南のシリア・フェニケに分け、一人の総督が多数の軍団を握らないようにした。セウェルスの妻ユリア・ドムナはエメサ（ホムス）の神官家の出身であった。"
+   }
+  },
+  {
+   "year": 218,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Elagabalus, a priest of Emesa, becomes emperor",
+    "ko": "에메사의 사제 엘라가발루스의 즉위",
+    "zh": "埃梅萨祭司埃拉伽巴路斯即位",
+    "ja": "エメサの神官ヘリオガバルスの即位"
+   },
+   "description": {
+    "en": "In 218 the teenage Varius Avitus, hereditary priest of the sun god Elagabal at Emesa and great-nephew of Julia Domna, was proclaimed emperor by legions in Syria. As Emperor Elagabalus he brought the god's sacred black stone to Rome, and his religious innovations scandalised the Roman elite until his murder in 222.",
+    "ko": "218년 에메사의 태양신 엘라가발의 세습 사제이자 율리아 돔나의 종손인 10대 소년 바리우스 아비투스가 시리아 주둔 군단에 의해 황제로 추대되었다. 엘라가발루스 황제가 된 그는 신의 성스러운 검은 돌을 로마로 가져갔고, 그의 종교적 혁신은 222년 살해될 때까지 로마 엘리트를 경악하게 했다.",
+    "zh": "218年，埃梅萨太阳神埃拉伽巴尔的世袭祭司、尤利娅·多姆娜的甥孙、少年瓦里乌斯·阿维图斯被叙利亚驻军拥立为皇帝。即位为埃拉伽巴路斯后，他将神的圣黑石迎往罗马，其宗教革新令罗马精英震惊，直到222年他被杀。",
+    "ja": "218年、エメサの太陽神エラガバルの世襲神官でユリア・ドムナの姪孫にあたる10代のウァリウス・アウィトゥスが、シリア駐留軍団によって皇帝に推戴された。ヘリオガバルス帝となった彼は神の聖なる黒石をローマに運び、その宗教改革は222年に殺害されるまでローマのエリートを驚かせた。"
+   }
+  },
+  {
+   "year": 244,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Philip the Arab becomes emperor",
+    "ko": "필리푸스 아라브스의 황제 즉위",
+    "zh": "“阿拉伯人”菲利普成为皇帝",
+    "ja": "フィリップス・アラブスの皇帝即位"
+   },
+   "description": {
+    "en": "Philip, born in the Hauran village of Shahba in southern Syria, became Roman emperor in 244. He rebuilt his birthplace as the city of Philippopolis and presided over Rome's millennium celebrations in 248 before being killed in 249.",
+    "ko": "남부 시리아 하우란 지방의 샤흐바 마을 출신 필리푸스가 244년 로마 황제가 되었다. 그는 고향을 필리포폴리스라는 도시로 재건했고, 248년 로마 건국 천년제를 주관한 뒤 249년 살해되었다.",
+    "zh": "出生于叙利亚南部豪兰地区沙赫巴村的菲利普于244年成为罗马皇帝。他将故乡重建为菲利波波利斯城，并于248年主持了罗马建城千年庆典，249年被杀。",
+    "ja": "南シリア・ハウラン地方のシャフバ村出身のフィリップスが244年にローマ皇帝となった。彼は故郷をフィリッポポリスという都市に造り替え、248年にローマ建国千年祭を主宰したが、249年に殺害された。"
+   }
+  },
+  {
+   "year": 252,
+   "qid": "Q2665461",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Barbalissos",
+    "ko": "바르발리소스 전투",
+    "zh": "巴尔巴利索斯之战",
+    "ja": "バルバリッソスの戦い"
+   },
+   "description": {
+    "en": "The Sasanian king Shapur I destroyed a large Roman army at Barbalissos on the Euphrates around 252–253, then swept through Syria and sacked Antioch. The invasion exposed how vulnerable Rome's eastern frontier had become in the crisis of the third century.",
+    "ko": "사산 왕조의 샤푸르 1세는 252~253년경 유프라테스강 변 바르발리소스에서 로마 대군을 궤멸시킨 뒤 시리아를 휩쓸고 안티오키아를 약탈했다. 이 침공은 3세기의 위기 속에서 로마 동부 국경이 얼마나 취약해졌는지를 드러냈다.",
+    "zh": "约252至253年，萨珊国王沙普尔一世在幼发拉底河畔的巴尔巴利索斯歼灭一支罗马大军，随后横扫叙利亚并洗劫安条克。这次入侵暴露出三世纪危机中罗马东部边境的脆弱。",
+    "ja": "サーサーン朝のシャープール1世は252～253年頃、ユーフラテス川沿いのバルバリッソスでローマの大軍を壊滅させ、シリアを席巻してアンティオキアを略奪した。この侵攻は、3世紀の危機の中でローマの東方国境がいかに脆弱になっていたかを露わにした。"
+   }
+  },
+  {
+   "year": 256,
+   "qid": "Q1125035",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Dura-Europos",
+    "ko": "두라 에우로포스의 함락",
+    "zh": "杜拉欧罗普斯的陷落",
+    "ja": "ドゥラ・エウロポスの陥落"
+   },
+   "description": {
+    "en": "The Roman frontier fortress of Dura-Europos on the Euphrates fell to a Sasanian siege around 256 and was abandoned. Buried under its defensive embankments were remarkably preserved buildings, including a synagogue with painted biblical scenes and one of the earliest known Christian house churches.",
+    "ko": "유프라테스강 변의 로마 국경 요새 두라 에우로포스는 256년경 사산 왕조의 포위로 함락되어 버려졌다. 방어용 토루 아래 묻힌 건물들은 놀라울 만큼 잘 보존되었는데, 성서 장면이 그려진 회당과 가장 오래된 그리스도교 가정 교회 중 하나가 포함되어 있다.",
+    "zh": "幼发拉底河畔的罗马边境要塞杜拉欧罗普斯约于256年被萨珊军围攻攻陷，随后被废弃。埋在防御土堤下的建筑保存得极为完好，其中包括绘有圣经故事壁画的犹太会堂，以及已知最早的基督教家庭教会之一。",
+    "ja": "ユーフラテス川沿いのローマの国境要塞ドゥラ・エウロポスは256年頃にサーサーン朝の包囲で陥落し、放棄された。防御用の土塁の下に埋もれた建物は驚くほど良好に保存され、聖書の場面を描いたシナゴーグや、知られる限り最古級のキリスト教の家の教会が含まれる。"
+   }
+  },
+  {
+   "year": 260,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Odaenathus of Palmyra defends the East",
+    "ko": "팔미라의 오다에나투스, 동방을 지키다",
+    "zh": "帕尔米拉的奥登纳图斯保卫东方",
+    "ja": "パルミラのオダエナトゥス、東方を守る"
+   },
+   "description": {
+    "en": "After Shapur I captured Emperor Valerian in 260, Odaenathus, lord of Palmyra, attacked the withdrawing Persians and restored Roman control in the East. Rome rewarded him with high titles, and Palmyra became the effective power of the region, laying the ground for Zenobia's empire.",
+    "ko": "260년 샤푸르 1세가 발레리아누스 황제를 사로잡자 팔미라의 영주 오다에나투스는 철수하는 페르시아군을 공격해 동방에서 로마의 통제를 되살렸다. 로마는 그에게 높은 칭호를 내렸고, 팔미라는 이 지역의 실질적 패권 세력이 되어 제노비아 제국의 토대를 놓았다.",
+    "zh": "260年沙普尔一世俘虏瓦勒良皇帝后，帕尔米拉领主奥登纳图斯攻击撤退中的波斯军，恢复了罗马在东方的控制。罗马授予他崇高头衔，帕尔米拉由此成为该地区的实际强权，为芝诺比娅的帝国奠定了基础。",
+    "ja": "260年にシャープール1世がウァレリアヌス帝を捕らえると、パルミラの領主オダエナトゥスは撤退するペルシア軍を攻撃し、東方におけるローマの支配を回復した。ローマは彼に高い称号を与え、パルミラは地域の事実上の覇権勢力となって、ゼノビアの帝国の基礎を築いた。"
+   }
+  },
+  {
+   "year": 270,
+   "qid": "Q877875",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Zenobia's Palmyrene Empire",
+    "ko": "제노비아의 팔미라 제국",
+    "zh": "芝诺比娅的帕尔米拉帝国",
+    "ja": "ゼノビアのパルミラ帝国"
+   },
+   "description": {
+    "en": "Queen Zenobia of the caravan city of Palmyra broke away from Rome and briefly conquered Egypt and much of Anatolia before Emperor Aurelian defeated her in 272 and sacked Palmyra.",
+    "ko": "대상 도시 팔미라의 여왕 제노비아가 로마에서 이탈해 이집트와 아나톨리아 대부분을 일시 정복했으나, 272년 아우렐리아누스 황제에게 패했고 팔미라는 약탈당했다.",
+    "zh": "商队城市帕尔米拉的女王芝诺比娅脱离罗马，一度征服埃及和安纳托利亚大部，272年被奥勒良皇帝击败，帕尔米拉城遭到洗劫。",
+    "ja": "隊商都市パルミラの女王ゼノビアはローマから離反し、一時エジプトとアナトリア大半を征服したが、272年にアウレリアヌス帝に敗れ、パルミラは略奪された。"
+   }
+  },
+  {
+   "year": 272,
+   "qid": "Q2530973",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Emesa",
+    "ko": "에메사 전투",
+    "zh": "埃梅萨之战",
+    "ja": "エメサの戦い"
+   },
+   "description": {
+    "en": "Emperor Aurelian defeated Zenobia's Palmyrene army near Emesa (Homs) in 272, then besieged Palmyra and captured the queen as she tried to flee toward Persia. When Palmyra revolted again in 273, Aurelian's troops sacked the city, ending its era of greatness.",
+    "ko": "272년 아우렐리아누스 황제는 에메사(홈스) 부근에서 제노비아의 팔미라군을 격파하고 팔미라를 포위했으며, 페르시아로 달아나려던 여왕을 사로잡았다. 273년 팔미라가 다시 반란을 일으키자 아우렐리아누스의 군대는 도시를 약탈했고 팔미라의 전성기는 끝났다.",
+    "zh": "272年，奥勒良皇帝在埃梅萨（霍姆斯）附近击败芝诺比娅的帕尔米拉军队，随后围攻帕尔米拉，并俘获了企图逃往波斯的女王。273年帕尔米拉再度叛乱，奥勒良的军队洗劫该城，结束了它的辉煌时代。",
+    "ja": "272年、アウレリアヌス帝はエメサ（ホムス）近郊でゼノビアのパルミラ軍を破ってパルミラを包囲し、ペルシアへ逃れようとした女王を捕らえた。273年にパルミラが再び反乱を起こすとアウレリアヌスの軍は都市を略奪し、その栄華の時代は終わった。"
+   }
+  },
+  {
+   "year": 391,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Temple of Jupiter in Damascus becomes a church",
+    "ko": "다마스쿠스 유피테르 신전의 교회 전환",
+    "zh": "大马士革朱庇特神庙改为教堂",
+    "ja": "ダマスカスのユピテル神殿の教会化"
+   },
+   "description": {
+    "en": "Under Emperor Theodosius I, who outlawed pagan sacrifice, the great Temple of Jupiter in Damascus was converted around 391 into a church dedicated to St John the Baptist. The same sacred precinct, earlier the site of the Aramaean temple of Hadad, later became the Umayyad Mosque.",
+    "ko": "이교 제사를 금지한 테오도시우스 1세 치하인 391년경, 다마스쿠스의 거대한 유피테르 신전은 세례자 요한에게 봉헌된 교회로 바뀌었다. 일찍이 아람인의 하닷 신전이 있던 이 성역은 훗날 우마이야 모스크가 되었다.",
+    "zh": "在禁止异教献祭的狄奥多西一世统治下，约391年，大马士革宏伟的朱庇特神庙被改建为供奉施洗约翰的教堂。这片圣域此前曾是亚兰人的哈达德神庙所在地，后来又成为倭马亚清真寺。",
+    "ja": "異教の供犠を禁じたテオドシウス1世の治下、391年頃、ダマスカスの壮大なユピテル神殿は洗礼者ヨハネに捧げる教会に改められた。かつてアラム人のハダド神殿があったこの聖域は、のちにウマイヤ・モスクとなった。"
+   }
+  },
+  {
+   "year": 459,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Death of Simeon Stylites",
+    "ko": "주상 성자 시메온의 죽음",
+    "zh": "柱头修士西门去世",
+    "ja": "柱頭行者シメオンの死"
+   },
+   "description": {
+    "en": "Simeon Stylites, who spent decades living on top of a pillar near Aleppo, died in 459 after drawing pilgrims from across the Christian world. Around his column the vast church of Qal'at Sim'an was built in the late 5th century, one of the most important early Byzantine monuments in Syria.",
+    "ko": "알레포 인근의 기둥 꼭대기에서 수십 년을 살며 그리스도교 세계 곳곳의 순례자를 끌어모은 주상 성자 시메온이 459년 세상을 떠났다. 5세기 후반 그의 기둥을 둘러싸고 거대한 칼라트 심안 교회가 세워졌으며, 이는 시리아의 가장 중요한 초기 비잔티움 유적 중 하나다.",
+    "zh": "在阿勒颇附近的石柱顶上生活了数十年、吸引了整个基督教世界朝圣者的柱头修士西门于459年去世。5世纪后期，人们围绕他的石柱修建了宏大的西蒙堡教堂，这是叙利亚最重要的早期拜占庭建筑之一。",
+    "ja": "アレッポ近郊の柱の上で数十年を過ごし、キリスト教世界の各地から巡礼者を集めた柱頭行者シメオンが459年に没した。5世紀後半、彼の柱を囲んで壮大なカラアト・シムアーン教会が建てられ、シリアで最も重要な初期ビザンツ建築の一つとなった。"
+   }
+  },
+  {
+   "year": 529,
+   "qid": "Q733668",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Justinian elevates the Ghassanids",
+    "ko": "유스티니아누스, 가산 왕조를 높이다",
+    "zh": "查士丁尼提升加萨尼王朝地位",
+    "ja": "ユスティニアヌスとガッサーン朝"
+   },
+   "description": {
+    "en": "Around 529 Emperor Justinian I made the Ghassanid chief al-Harith ibn Jabala supreme phylarch of Rome's Arab allies, giving him authority over the desert frontier of Syria. The Ghassanids became Byzantium's shield against Persia's Lakhmid clients and patrons of the Miaphysite church.",
+    "ko": "529년경 유스티니아누스 1세 황제는 가산 왕조의 수장 알하리스 이븐 자발라를 로마의 아랍 동맹 부족들을 통솔하는 최고 필라르크로 임명해 시리아 사막 변경을 맡겼다. 가산 왕조는 페르시아의 속국 라흠 왕조에 맞선 비잔티움의 방패이자 단성론 교회의 후원자가 되었다.",
+    "zh": "约529年，查士丁尼一世皇帝任命加萨尼首领哈里斯·伊本·贾巴拉为罗马阿拉伯盟友的最高部族首领，授权其管辖叙利亚沙漠边境。加萨尼人成为拜占庭抵御波斯附庸莱赫米王国的屏障，也是一性论教会的庇护者。",
+    "ja": "529年頃、ユスティニアヌス1世はガッサーン朝の首長ハーリス・イブン・ジャバラをローマのアラブ同盟諸部族を統べる最高族長に任じ、シリアの砂漠辺境を委ねた。ガッサーン朝はペルシアの従属国ラフム朝に対するビザンツの盾となり、単性論派教会の保護者となった。"
+   }
+  },
+  {
+   "year": 531,
+   "qid": "Q1265750",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Callinicum",
+    "ko": "칼리니쿰 전투",
+    "zh": "卡利尼库斯之战",
+    "ja": "カリニクムの戦い"
+   },
+   "description": {
+    "en": "At Callinicum on the Euphrates (modern Raqqa), a Persian army defeated the Byzantine general Belisarius in 531 during the Iberian War. The costly battle was followed by the 'Eternal Peace' of 532 between Justinian and the new Persian king Khosrow I.",
+    "ko": "531년 이베리아 전쟁 중 유프라테스강 변의 칼리니쿰(오늘날 락까)에서 페르시아군이 비잔티움 장군 벨리사리우스를 격파했다. 피해가 컸던 이 전투 이후 532년 유스티니아누스와 페르시아의 새 왕 호스로 1세 사이에 '영구 평화'가 맺어졌다.",
+    "zh": "531年伊比利亚战争期间，波斯军队在幼发拉底河畔的卡利尼库斯（今拉卡）击败拜占庭将领贝利撒留。这场代价高昂的战役之后，查士丁尼与波斯新王库思老一世于532年签订了“永久和平”条约。",
+    "ja": "531年のイベリア戦争中、ユーフラテス川沿いのカリニクム（現ラッカ）でペルシア軍がビザンツの将軍ベリサリウスを破った。多大な犠牲を伴ったこの戦いの後、532年にユスティニアヌスとペルシアの新王ホスロー1世の間で「永久平和」が結ばれた。"
+   }
+  },
+  {
+   "year": 540,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Khosrow I invades Syria",
+    "ko": "호스로 1세의 시리아 침공",
+    "zh": "库思老一世入侵叙利亚",
+    "ja": "ホスロー1世のシリア侵攻"
+   },
+   "description": {
+    "en": "Breaking the Eternal Peace in 540, Khosrow I marched up the Euphrates into Syria, extorting ransoms from cities such as Hierapolis and Apamea and sacking Antioch, the region's capital. Coming just before the Plague of Justinian reached the region in 542, the invasion marked the start of Byzantine Syria's long decline.",
+    "ko": "540년 영구 평화를 깬 호스로 1세는 유프라테스강을 따라 시리아로 진군해 히에라폴리스와 아파메아 등에서 몸값을 받아 내고 이 지역의 수도 안티오키아를 약탈했다. 542년 유스티니아누스 역병이 이 지역을 덮치기 직전에 일어난 이 침공은 비잔티움 시리아의 긴 쇠퇴의 시작이었다.",
+    "zh": "540年，库思老一世撕毁永久和平条约，沿幼发拉底河进军叙利亚，向希拉波利斯、阿帕米亚等城勒索赎金，并洗劫了该地区首府安条克。这次入侵发生在542年查士丁尼瘟疫波及该地区之前不久，标志着拜占庭叙利亚漫长衰落的开始。",
+    "ja": "540年に永久平和を破ったホスロー1世はユーフラテス川沿いにシリアへ進軍し、ヒエラポリスやアパメアなどから身代金を取り立て、地域の首府アンティオキアを略奪した。542年にユスティニアヌスのペストがこの地域に達する直前のこの侵攻は、ビザンツ領シリアの長い衰退の始まりとなった。"
+   }
+  },
+  {
+   "year": 543,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Jacob Baradaeus organises the Syriac Orthodox Church",
+    "ko": "야코브 바라데우스와 시리아 정교회의 조직",
+    "zh": "雅各·巴拉德乌斯组建叙利亚正教会",
+    "ja": "ヤコブ・バラダイオスとシリア正教会の組織化"
+   },
+   "description": {
+    "en": "Around 543, with the support of the Ghassanid ruler al-Harith and Empress Theodora, the monk Jacob Baradaeus was consecrated bishop and began ordaining clergy for the Miaphysite Christians who rejected the Council of Chalcedon. The independent church he organised, the Syriac Orthodox Church, was long known as 'Jacobite' after him.",
+    "ko": "543년경 가산 왕조의 알하리스와 황후 테오도라의 지원으로 수도사 야코브 바라데우스가 주교로 서품되어, 칼케돈 공의회를 거부한 단성론 그리스도교도를 위해 성직자를 서품하기 시작했다. 그가 조직한 독립 교회인 시리아 정교회는 그의 이름을 따 오랫동안 '야코브파'로 불렸다.",
+    "zh": "约543年，在加萨尼统治者哈里斯和皇后狄奥多拉的支持下，修士雅各·巴拉德乌斯被祝圣为主教，开始为拒绝迦克墩公会议的一性论基督徒按立神职人员。他所组建的独立教会——叙利亚正教会——长期以他的名字被称为“雅各派”。",
+    "ja": "543年頃、ガッサーン朝のハーリスと皇后テオドラの支援を受けて修道士ヤコブ・バラダイオスが主教に叙階され、カルケドン公会議を拒む単性論派キリスト教徒のために聖職者の叙階を始めた。彼が組織した独立教会シリア正教会は、彼の名にちなみ長く「ヤコブ派」と呼ばれた。"
+   }
+  },
+  {
+   "year": 554,
+   "qid": "Q22066401",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Day of Halima",
+    "ko": "할리마의 날 전투",
+    "zh": "哈利玛之日战役",
+    "ja": "ハリーマの日の戦い"
+   },
+   "description": {
+    "en": "In 554 the Ghassanid king al-Harith ibn Jabala defeated and killed his great rival, the Lakhmid king al-Mundhir III, near Chalcis (Qinnasrin) in northern Syria. The battle, remembered in Arabic tradition as Yawm Halima, was a high point of Ghassanid power.",
+    "ko": "554년 가산 왕조의 알하리스 이븐 자발라는 북부 시리아 칼키스(킨나스린) 부근에서 숙적인 라흠 왕조의 알문디르 3세를 격파하고 죽였다. 아랍 전승에서 '할리마의 날'로 기억되는 이 전투는 가산 왕조 세력의 절정이었다.",
+    "zh": "554年，加萨尼国王哈里斯·伊本·贾巴拉在叙利亚北部的卡尔基斯（肯奈斯林）附近击败并杀死宿敌莱赫米国王蒙齐尔三世。这场在阿拉伯传统中被称为“哈利玛之日”的战役，标志着加萨尼势力的巅峰。",
+    "ja": "554年、ガッサーン朝のハーリス・イブン・ジャバラは北シリアのカルキス（キンナスリーン）近郊で宿敵ラフム朝のムンズィル3世を破って殺した。アラブの伝承で「ハリーマの日」として記憶されるこの戦いは、ガッサーン朝の勢力の頂点であった。"
+   }
+  },
+  {
+   "year": 613,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Persians capture Damascus",
+    "ko": "페르시아의 다마스쿠스 점령",
+    "zh": "波斯攻占大马士革",
+    "ja": "ペルシアのダマスカス占領"
+   },
+   "description": {
+    "en": "During the last great Byzantine–Sasanian war, the armies of Khosrow II overran Syria, taking Antioch and in 613 Damascus, before seizing Jerusalem in 614. Syria remained under Persian occupation for some fifteen years.",
+    "ko": "비잔티움과 사산 왕조의 마지막 대전쟁 중 호스로 2세의 군대는 시리아를 휩쓸어 안티오키아에 이어 613년 다마스쿠스를 점령했고, 614년에는 예루살렘을 빼앗았다. 시리아는 약 15년간 페르시아의 점령 아래 있었다.",
+    "zh": "在拜占庭与萨珊的最后一场大战中，库思老二世的军队席卷叙利亚，攻占安条克后于613年夺取大马士革，614年又攻陷耶路撒冷。叙利亚此后被波斯占领约十五年。",
+    "ja": "ビザンツとサーサーン朝の最後の大戦争の中で、ホスロー2世の軍はシリアを席巻し、アンティオキアに続いて613年にダマスカスを奪い、614年にはエルサレムを占領した。シリアはその後約15年間ペルシアの占領下に置かれた。"
+   }
+  },
+  {
+   "year": 628,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Heraclius recovers Syria",
+    "ko": "헤라클리우스의 시리아 수복",
+    "zh": "希拉克略收复叙利亚",
+    "ja": "ヘラクレイオスのシリア回復"
+   },
+   "description": {
+    "en": "After Emperor Heraclius's victorious campaigns deep into Persia, the peace of 628 forced the Sasanians to evacuate Syria and the other occupied provinces. Byzantine rule was restored, but both empires were exhausted just as the Arab Muslim armies were about to emerge.",
+    "ko": "헤라클리우스 황제가 페르시아 깊숙이 원정해 승리한 뒤 628년 평화 조약으로 사산 왕조는 시리아 등 점령지에서 철수해야 했다. 비잔티움의 지배는 회복되었으나, 아랍 무슬림 군대가 등장하기 직전 두 제국은 모두 기진맥진한 상태였다.",
+    "zh": "希拉克略皇帝深入波斯腹地取得胜利后，628年的和约迫使萨珊人撤出叙利亚等被占领行省。拜占庭的统治得以恢复，但就在阿拉伯穆斯林军队即将崛起之际，两大帝国都已精疲力竭。",
+    "ja": "ヘラクレイオス帝がペルシア奥地への遠征で勝利すると、628年の講和でサーサーン朝はシリアなどの占領地から撤退した。ビザンツの支配は回復したが、アラブ・ムスリム軍が現れる直前に両帝国はともに疲弊しきっていた。"
+   }
+  },
+  {
+   "year": 634,
+   "qid": "Q639827",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Muslim conquest of Bosra and Damascus",
+    "ko": "무슬림군의 보스라·다마스쿠스 정복",
+    "zh": "穆斯林攻取布斯拉与大马士革",
+    "ja": "ムスリム軍のボスラ・ダマスカス征服"
+   },
+   "description": {
+    "en": "In 634 Rashidun armies, joined by Khalid ibn al-Walid after his famous desert march from Iraq, took Bosra and then besieged Damascus, which surrendered on terms guaranteeing its inhabitants' lives, property and churches. The city was briefly abandoned before the Yarmouk campaign and retaken afterwards.",
+    "ko": "634년 이라크에서 유명한 사막 행군을 거쳐 합류한 할리드 이븐 알왈리드와 정통 칼리파군은 보스라를 차지한 뒤 다마스쿠스를 포위했고, 도시는 주민의 생명·재산·교회를 보장하는 조건으로 항복했다. 무슬림군은 야르무크 전역 직전 잠시 도시를 비웠다가 이후 다시 차지했다.",
+    "zh": "634年，在从伊拉克经历著名的沙漠行军后赶来会合的哈立德·伊本·瓦利德的参与下，正统哈里发军队攻取布斯拉，继而围攻大马士革，该城以保障居民生命、财产和教堂为条件投降。雅尔穆克战役前穆斯林军曾短暂撤出该城，战后再度收复。",
+    "ja": "634年、イラクから有名な砂漠行軍を経て合流したハーリド・イブン・アル＝ワリードとともに正統カリフ軍はボスラを奪い、続いてダマスカスを包囲した。都市は住民の生命・財産・教会を保障する条件で降伏した。ヤルムーク戦役の直前に一時放棄されたが、戦後に再び占領された。"
+   }
+  },
+  {
+   "year": 636,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of the Yarmouk",
+    "ko": "야르무크 전투",
+    "zh": "雅尔穆克战役",
+    "ja": "ヤルムークの戦い"
+   },
+   "description": {
+    "en": "Arab Muslim forces decisively defeated the Byzantine army at the Yarmouk River, opening Syria to Islamic rule. Damascus and the region rapidly became a heartland of the new faith.",
+    "ko": "아랍 무슬림 군대가 야르무크강에서 비잔티움군을 결정적으로 격파하며 시리아가 이슬람의 지배 아래 들어갔다. 다마스쿠스와 그 일대는 곧 이슬람 세계의 중심지가 되었다.",
+    "zh": "阿拉伯穆斯林军队在雅尔穆克河畔决定性地击败拜占庭军队，叙利亚自此进入伊斯兰统治时代，大马士革及周边地区迅速成为伊斯兰世界的核心地带。",
+    "ja": "アラブ・ムスリム軍がヤルムーク川の戦いでビザンツ軍に決定的勝利を収め、シリアはイスラームの支配下に入った。ダマスカス一帯はまもなくイスラーム世界の中心地となった。"
+   }
+  },
+  {
+   "year": 637,
+   "qid": "Q2563208",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Aleppo and northern Syria fall",
+    "ko": "알레포와 북부 시리아의 함락",
+    "zh": "阿勒颇与叙利亚北部陷落",
+    "ja": "アレッポと北シリアの陥落"
+   },
+   "description": {
+    "en": "After the Yarmouk, Muslim forces under Abu Ubayda advanced north, capturing Homs, Hama, Qinnasrin and, in 637, Aleppo after a siege, followed by Antioch. Emperor Heraclius withdrew to Anatolia, and Byzantine rule in Syria came to an end.",
+    "ko": "야르무크 전투 후 아부 우바이다가 이끄는 무슬림군은 북진해 홈스·하마·킨나스린을 차지하고, 637년 포위 끝에 알레포를, 이어 안티오키아를 함락했다. 헤라클리우스 황제는 아나톨리아로 물러났고 시리아에서 비잔티움의 지배는 끝났다.",
+    "zh": "雅尔穆克之战后，阿布·乌拜达率领穆斯林军北进，相继攻取霍姆斯、哈马、肯奈斯林，并于637年经围攻拿下阿勒颇，继而攻占安条克。希拉克略皇帝退往安纳托利亚，拜占庭在叙利亚的统治宣告结束。",
+    "ja": "ヤルムークの戦いの後、アブー・ウバイダ率いるムスリム軍は北上してホムス、ハマ、キンナスリーンを奪い、637年には包囲の末にアレッポを、続いてアンティオキアを攻略した。ヘラクレイオス帝はアナトリアへ退き、シリアにおけるビザンツの支配は終わった。"
+   }
+  },
+  {
+   "year": 657,
+   "qid": "Q735876",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Siffin",
+    "ko": "시핀 전투",
+    "zh": "隋芬之战",
+    "ja": "スィッフィーンの戦い"
+   },
+   "description": {
+    "en": "During the First Fitna, Caliph Ali and Mu'awiya, governor of Syria, fought an inconclusive battle at Siffin on the Euphrates near Raqqa in 657. The agreement to settle the dispute by arbitration weakened Ali, split his supporters with the emergence of the Kharijites, and strengthened Mu'awiya's claim to the caliphate.",
+    "ko": "제1차 내란 중이던 657년, 칼리파 알리와 시리아 총독 무아위야는 락까 인근 유프라테스강 변 시핀에서 결판이 나지 않는 전투를 벌였다. 분쟁을 중재로 해결하기로 한 합의는 알리를 약화시키고 하와리즈파의 출현으로 지지 세력을 분열시켰으며, 무아위야의 칼리파위 주장을 강화했다.",
+    "zh": "第一次内战期间，657年哈里发阿里与叙利亚总督穆阿维叶在拉卡附近幼发拉底河畔的隋芬进行了一场胜负未分的战役。双方同意以仲裁解决争端，这削弱了阿里，使其支持者因哈瓦利吉派的出现而分裂，同时加强了穆阿维叶对哈里发之位的主张。",
+    "ja": "第一次内乱中の657年、カリフ・アリーとシリア総督ムアーウィヤはラッカ近くのユーフラテス河畔スィッフィーンで決着のつかない戦いを交えた。紛争を調停で解決するという合意はアリーを弱め、ハワーリジュ派の出現で支持者を分裂させ、ムアーウィヤのカリフ位への主張を強めた。"
+   }
+  },
+  {
+   "year": 661,
+   "qid": "Q8575586",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Damascus, capital of the Umayyad Caliphate",
+    "ko": "우마이야 왕조의 수도 다마스쿠스",
+    "zh": "大马士革成为倭马亚王朝首都",
+    "ja": "ウマイヤ朝の都ダマスカス"
+   },
+   "description": {
+    "en": "Muawiya I founded the Umayyad Caliphate with Damascus as its capital. For nearly a century the city ruled an empire stretching from Spain to Central Asia; the Umayyad Mosque endures as its landmark.",
+    "ko": "무아위야 1세가 다마스쿠스를 수도로 우마이야 왕조를 열었다. 약 한 세기 동안 이 도시는 스페인에서 중앙아시아에 이르는 제국을 다스렸으며, 우마이야 모스크가 그 상징으로 남아 있다.",
+    "zh": "穆阿维叶一世建立倭马亚王朝，定都大马士革。此后近一个世纪，这座城市统治着从西班牙延伸至中亚的大帝国，倭马亚清真寺至今仍是其象征。",
+    "ja": "ムアーウィヤ1世がダマスカスを都としてウマイヤ朝を開いた。以後約1世紀、この都はスペインから中央アジアに及ぶ大帝国を統治し、ウマイヤ・モスクがその象徴として今に残る。"
+   }
+  },
+  {
+   "year": 696,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Abd al-Malik's Arabisation reforms",
+    "ko": "압드 알말리크의 아랍화 개혁",
+    "zh": "阿卜杜勒-马利克的阿拉伯化改革",
+    "ja": "アブドゥルマリクのアラブ化改革"
+   },
+   "description": {
+    "en": "In the 690s Caliph Abd al-Malik replaced Byzantine-style coins with purely epigraphic Islamic gold dinars (from about 696–697) and ordered government registers in Syria to be kept in Arabic instead of Greek. The reforms gave the caliphate a distinct Islamic identity and spread Arabic as the language of power.",
+    "ko": "690년대 칼리파 압드 알말리크는 비잔티움식 주화를 문자만 새긴 이슬람식 디나르 금화(696~697년경부터)로 바꾸고, 시리아의 정부 장부를 그리스어 대신 아랍어로 기록하게 했다. 이 개혁은 칼리파국에 뚜렷한 이슬람적 정체성을 부여하고 아랍어를 권력의 언어로 확산시켰다.",
+    "zh": "7世纪90年代，哈里发阿卜杜勒-马利克以仅铸铭文的伊斯兰金第纳尔（约自696至697年起）取代拜占庭式钱币，并下令叙利亚的政府簿册改用阿拉伯语而非希腊语记录。这些改革赋予哈里发国鲜明的伊斯兰特征，也使阿拉伯语成为权力的语言。",
+    "ja": "690年代、カリフ・アブドゥルマリクはビザンツ式の貨幣を銘文のみのイスラーム式ディーナール金貨（696～697年頃から）に改め、シリアの行政台帳をギリシア語ではなくアラビア語で記させた。この改革はカリフ国に明確なイスラーム的性格を与え、アラビア語を権力の言語として広めた。"
+   }
+  },
+  {
+   "year": 706,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Building of the Umayyad Mosque",
+    "ko": "우마이야 모스크 건립",
+    "zh": "倭马亚清真寺的兴建",
+    "ja": "ウマイヤ・モスクの建設"
+   },
+   "description": {
+    "en": "Caliph al-Walid I demolished the Church of St John the Baptist and from about 706 to 715 built the Great Mosque of Damascus on the ancient temple precinct. Decorated with golden mosaics of paradisiacal landscapes, it became a model for mosque architecture across the Islamic world and still houses a shrine of John the Baptist.",
+    "ko": "칼리파 알왈리드 1세는 세례자 요한 교회를 헐고 706년경부터 715년까지 고대 신전 성역 위에 다마스쿠스 대모스크를 지었다. 낙원 풍경을 묘사한 황금 모자이크로 장식된 이 모스크는 이슬람 세계 모스크 건축의 본보기가 되었으며, 지금도 세례자 요한의 성소를 품고 있다.",
+    "zh": "哈里发瓦利德一世拆除施洗约翰教堂，约从706年至715年在古老的神庙圣域上建造了大马士革大清真寺。它以描绘天堂景象的金色马赛克装饰，成为整个伊斯兰世界清真寺建筑的典范，至今仍保存着施洗约翰的圣龛。",
+    "ja": "カリフ・ワリード1世は洗礼者ヨハネ教会を取り壊し、706年頃から715年にかけて古代の神殿聖域にダマスカスの大モスクを建てた。楽園の風景を描いた金色のモザイクで飾られたこのモスクはイスラーム世界のモスク建築の手本となり、今も洗礼者ヨハネの廟を擁している。"
+   }
+  },
+  {
+   "year": 727,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Hisham's desert palaces",
+    "ko": "히샴의 사막 궁전",
+    "zh": "希沙姆的沙漠宫殿",
+    "ja": "ヒシャームの砂漠の宮殿"
+   },
+   "description": {
+    "en": "Caliph Hisham (r. 724–743) ruled largely from Rusafa near the Euphrates and sponsored desert estates such as Qasr al-Hayr al-Gharbi, built in 727 according to its inscription, and Qasr al-Hayr al-Sharqi. These palaces with baths, frescoes and irrigation works show the Umayyad elite's lifestyle and agricultural investment in the Syrian steppe.",
+    "ko": "칼리파 히샴(재위 724~743)은 주로 유프라테스강 인근 루사파에서 통치했으며, 명문에 따르면 727년에 지어진 카스르 알하이르 알가르비와 카스르 알하이르 알샤르키 같은 사막 영지를 후원했다. 목욕장·프레스코·관개 시설을 갖춘 이 궁전들은 우마이야 엘리트의 생활 방식과 시리아 초원에 대한 농업 투자를 보여 준다.",
+    "zh": "哈里发希沙姆（724—743年在位）主要在幼发拉底河附近的鲁萨法理政，并兴建了沙漠庄园，如据铭文建于727年的西海尔堡和东海尔堡。这些设有浴室、壁画和灌溉工程的宫殿，反映了倭马亚精英的生活方式及其对叙利亚草原农业的投入。",
+    "ja": "カリフ・ヒシャーム（在位724～743年）は主にユーフラテス川近くのルサーファで統治し、碑文によれば727年に建てられたカスル・アル＝ハイル・アル＝ガルビーや、カスル・アル＝ハイル・アッ＝シャルキーなどの砂漠の荘園を造営した。浴場、フレスコ画、灌漑施設を備えたこれらの宮殿は、ウマイヤ朝エリートの生活様式とシリア草原への農業投資を示している。"
+   }
+  },
+  {
+   "year": 750,
+   "qid": "Q12536",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Abbasid revolution ends Umayyad rule",
+    "ko": "아바스 혁명과 우마이야 왕조의 종말",
+    "zh": "阿拔斯革命终结倭马亚统治",
+    "ja": "アッバース革命とウマイヤ朝の終焉"
+   },
+   "description": {
+    "en": "After defeating the last Umayyad caliph Marwan II at the Zab in 750, Abbasid forces took Damascus and massacred much of the Umayyad family. The caliphate's centre moved to Iraq, reducing Syria to a province, while the surviving prince Abd al-Rahman fled to Spain and founded the Umayyad emirate of Córdoba.",
+    "ko": "750년 자브 전투에서 마지막 우마이야 칼리파 마르완 2세를 물리친 아바스군은 다마스쿠스를 점령하고 우마이야 가문 상당수를 학살했다. 칼리파국의 중심이 이라크로 옮겨 가 시리아는 한 지방으로 격하되었고, 살아남은 왕자 압드 알라흐만은 스페인으로 도망쳐 코르도바의 후우마이야 토후국을 세웠다.",
+    "zh": "750年在大扎卜河击败倭马亚末代哈里发马尔万二世后，阿拔斯军队攻占大马士革，屠杀了倭马亚家族的大部分成员。哈里发国的中心移往伊拉克，叙利亚沦为一个行省；幸存的王子阿卜杜勒-拉赫曼逃往西班牙，建立了科尔多瓦的后倭马亚埃米尔国。",
+    "ja": "750年にザーブ河畔の戦いでウマイヤ朝最後のカリフ、マルワーン2世を破ったアッバース軍はダマスカスを占領し、ウマイヤ家の多くを殺害した。カリフ国の中心はイラクへ移ってシリアは一地方となり、生き延びた王子アブドゥッラフマーンはスペインへ逃れて後ウマイヤ朝を開いた。"
+   }
+  },
+  {
+   "year": 796,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Harun al-Rashid at Raqqa",
+    "ko": "락까의 하룬 알라시드",
+    "zh": "哈伦·拉希德驻跸拉卡",
+    "ja": "ラッカのハールーン・アッラシード"
+   },
+   "description": {
+    "en": "From 796 to 808 Caliph Harun al-Rashid made al-Raqqa on the Euphrates his main residence, closer to the Byzantine frontier than Baghdad. The city grew into a vast palace complex and industrial centre, making it for a time the effective capital of the Abbasid Caliphate.",
+    "ko": "796년부터 808년까지 칼리파 하룬 알라시드는 바그다드보다 비잔티움 국경에 가까운 유프라테스강 변의 락까를 주 거처로 삼았다. 도시는 거대한 궁전 단지이자 산업 중심지로 성장해 한동안 아바스 칼리파국의 실질적 수도 역할을 했다.",
+    "zh": "796年至808年，哈里发哈伦·拉希德以比巴格达更接近拜占庭边境的幼发拉底河畔拉卡为主要驻地。该城发展为庞大的宫殿群和手工业中心，一度成为阿拔斯王朝事实上的首都。",
+    "ja": "796年から808年まで、カリフ・ハールーン・アッラシードはバグダードよりビザンツ国境に近いユーフラテス河畔のラッカを主な居所とした。都市は巨大な宮殿群と手工業の中心地へと成長し、一時アッバース朝の事実上の首都となった。"
+   }
+  },
+  {
+   "year": 878,
+   "qid": "Q726798",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Tulunids take Syria",
+    "ko": "툴룬 왕조의 시리아 장악",
+    "zh": "图伦王朝夺取叙利亚",
+    "ja": "トゥールーン朝のシリア掌握"
+   },
+   "description": {
+    "en": "Ahmad ibn Tulun, the autonomous Turkish governor of Egypt, occupied Syria in 878 and ruled it from Fustat, inaugurating a long pattern in which Syria was contested between Egypt-based and Iraq-based powers. The Abbasids reconquered Syria and Egypt in 905.",
+    "ko": "이집트의 자치적 튀르크계 총독 아흐마드 이븐 툴룬은 878년 시리아를 점령해 푸스타트에서 통치했다. 이로써 이집트 세력과 이라크 세력이 시리아를 두고 다투는 오랜 구도가 시작되었으며, 아바스 왕조는 905년 시리아와 이집트를 되찾았다.",
+    "zh": "埃及的自治突厥总督艾哈迈德·伊本·图伦于878年占领叙利亚，并从福斯塔特进行统治，由此开启了以埃及为基地的势力与以伊拉克为基地的势力长期争夺叙利亚的格局。阿拔斯王朝于905年收复叙利亚和埃及。",
+    "ja": "エジプトの自立的なトルコ系総督アフマド・イブン・トゥールーンは878年にシリアを占領し、フスタートから統治した。これにより、エジプトを拠点とする勢力とイラクを拠点とする勢力がシリアを争う長い構図が始まった。アッバース朝は905年にシリアとエジプトを奪回した。"
+   }
+  },
+  {
+   "year": 944,
+   "qid": "Q837187",
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Sayf al-Dawla's court at Aleppo",
+    "ko": "사이프 알다울라의 알레포 궁정",
+    "zh": "赛福·道莱的阿勒颇宫廷",
+    "ja": "サイフ・アッダウラのアレッポ宮廷"
+   },
+   "description": {
+    "en": "The Hamdanid prince Sayf al-Dawla took Aleppo in 944 and made it the capital of a northern Syrian emirate. His court attracted the poet al-Mutanabbi, whose panegyrics of the prince are classics of Arabic poetry, and the philosopher al-Farabi spent his final years under his patronage.",
+    "ko": "함단 왕조의 왕자 사이프 알다울라는 944년 알레포를 차지해 북부 시리아 토후국의 수도로 삼았다. 그의 궁정에는 시인 알무타나비가 모여들어 아랍 시의 고전이 된 찬가를 남겼고, 철학자 알파라비도 그의 후원 아래 말년을 보냈다.",
+    "zh": "哈姆丹王子赛福·道莱于944年夺取阿勒颇，并以之为叙利亚北部埃米尔国的首都。他的宫廷吸引了诗人穆太奈比，后者为他创作的颂诗成为阿拉伯诗歌的经典；哲学家法拉比也在他的庇护下度过晚年。",
+    "ja": "ハムダーン朝の王子サイフ・アッダウラは944年にアレッポを奪い、北シリアの首長国の都とした。その宮廷には詩人ムタナッビーが集い、彼を讃えた頌詩はアラビア詩の古典となった。哲学者ファーラービーも彼の庇護のもとで晩年を過ごした。"
+   }
+  },
+  {
+   "year": 962,
+   "qid": "Q28717575",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Byzantines sack Aleppo",
+    "ko": "비잔티움의 알레포 약탈",
+    "zh": "拜占庭洗劫阿勒颇",
+    "ja": "ビザンツのアレッポ略奪"
+   },
+   "description": {
+    "en": "In December 962 the Byzantine general Nikephoros Phokas, soon to become emperor, stormed Aleppo while Sayf al-Dawla was away, sacking the city and its palace. Byzantium went on to retake Antioch in 969 and reduce Hamdanid Aleppo to a tributary.",
+    "ko": "962년 12월 곧 황제가 될 비잔티움 장군 니케포로스 포카스는 사이프 알다울라가 자리를 비운 사이 알레포를 급습해 도시와 궁전을 약탈했다. 비잔티움은 969년 안티오키아를 되찾고 함단 왕조의 알레포를 조공국으로 만들었다.",
+    "zh": "962年12月，即将登基为帝的拜占庭将领尼基弗鲁斯·福卡斯趁赛福·道莱不在之机攻入阿勒颇，洗劫了城市和宫殿。拜占庭随后于969年收复安条克，并使哈姆丹王朝的阿勒颇沦为纳贡国。",
+    "ja": "962年12月、まもなく皇帝となるビザンツの将軍ニケフォロス・フォカスはサイフ・アッダウラの不在を突いてアレッポを急襲し、都市と宮殿を略奪した。ビザンツは969年にアンティオキアを奪回し、ハムダーン朝のアレッポを朝貢国とした。"
+   }
+  },
+  {
+   "year": 970,
+   "qid": "Q160307",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Fatimids take Damascus",
+    "ko": "파티마 왕조의 다마스쿠스 점령",
+    "zh": "法蒂玛王朝攻占大马士革",
+    "ja": "ファーティマ朝のダマスカス占領"
+   },
+   "description": {
+    "en": "Having conquered Egypt in 969, the Ismaili Fatimid Caliphate sent its general Ja'far ibn Falah into Syria, where he took Damascus in 970. Fatimid control remained contested for decades by local factions, Bedouin tribes, the Qarmatians and Byzantium.",
+    "ko": "969년 이집트를 정복한 이스마일파 파티마 칼리파국은 장군 자파르 이븐 팔라흐를 시리아로 보내 970년 다마스쿠스를 차지했다. 그러나 파티마 왕조의 지배는 이후 수십 년간 지역 파벌, 베두인 부족, 카르마트파, 비잔티움의 도전을 받았다.",
+    "zh": "伊斯玛仪派的法蒂玛王朝于969年征服埃及后，派将领贾法尔·伊本·法拉赫进入叙利亚，于970年攻占大马士革。此后数十年间，法蒂玛的统治不断受到当地派系、贝都因部落、卡尔马特派和拜占庭的挑战。",
+    "ja": "969年にエジプトを征服したイスマーイール派のファーティマ朝は将軍ジャアファル・イブン・ファラーフをシリアに送り、970年にダマスカスを占領した。しかしその支配は数十年にわたり、在地の諸派、ベドウィン部族、カルマト派、ビザンツの挑戦を受け続けた。"
+   }
+  },
+  {
+   "year": 998,
+   "qid": "Q20054768",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Apamea",
+    "ko": "아파메아 전투",
+    "zh": "阿帕米亚之战",
+    "ja": "アパメアの戦い"
+   },
+   "description": {
+    "en": "In 998 a Fatimid army defeated the Byzantine forces of Damian Dalassenos, governor of Antioch, near Apamea on the Orontes; Dalassenos was killed. The victory confirmed Fatimid power in central Syria and led to a ten-year truce with Emperor Basil II in 1000/1001.",
+    "ko": "998년 파티마군은 오론테스강 변 아파메아 부근에서 안티오키아 총독 다미아노스 달라세노스의 비잔티움군을 격파했고, 달라세노스는 전사했다. 이 승리로 시리아 중부에서 파티마 왕조의 세력이 확고해졌고, 1000/1001년 바실리오스 2세 황제와 10년 휴전이 맺어졌다.",
+    "zh": "998年，法蒂玛军队在奥龙特斯河畔的阿帕米亚附近击败安条克总督达米安·达拉森诺斯率领的拜占庭军，达拉森诺斯阵亡。此役巩固了法蒂玛在叙利亚中部的势力，并促成1000/1001年与巴西尔二世皇帝缔结十年停战协定。",
+    "ja": "998年、ファーティマ朝軍はオロンテス川沿いのアパメア近郊で、アンティオキア総督ダミアノス・ダラセノスのビザンツ軍を破り、ダラセノスは戦死した。この勝利で中部シリアにおけるファーティマ朝の勢力が固まり、1000/1001年には皇帝バシレイオス2世との10年間の休戦が結ばれた。"
+   }
+  },
+  {
+   "year": 1024,
+   "qid": "Q3175929",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mirdasids take Aleppo",
+    "ko": "미르다스 왕조의 알레포 장악",
+    "zh": "米尔达斯王朝夺取阿勒颇",
+    "ja": "ミルダース朝のアレッポ掌握"
+   },
+   "description": {
+    "en": "Salih ibn Mirdas, chief of the Arab Banu Kilab, seized Aleppo from the Fatimids in 1024–1025 and founded the Mirdasid emirate. His family ruled northern Syria for most of the next half-century, balancing between the Fatimid caliphs and the Byzantine emperors.",
+    "ko": "아랍 바누 킬라브 부족의 수장 살리흐 이븐 미르다스는 1024~1025년 파티마 왕조로부터 알레포를 빼앗아 미르다스 토후국을 세웠다. 그의 가문은 이후 반세기 대부분 동안 파티마 칼리파와 비잔티움 황제 사이에서 균형을 잡으며 북부 시리아를 다스렸다.",
+    "zh": "阿拉伯基拉卜部落首领萨利赫·伊本·米尔达斯于1024至1025年从法蒂玛王朝手中夺取阿勒颇，建立米尔达斯埃米尔国。此后半个世纪的大部分时间里，他的家族在法蒂玛哈里发与拜占庭皇帝之间周旋，统治着叙利亚北部。",
+    "ja": "アラブ系キラーブ族の首長サーリフ・イブン・ミルダースは1024～25年にファーティマ朝からアレッポを奪い、ミルダース朝を開いた。その一族はその後半世紀の大半にわたり、ファーティマ朝カリフとビザンツ皇帝の間で均衡を取りながら北シリアを治めた。"
+   }
+  },
+  {
+   "year": 1057,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Death of Abu al-Ala al-Ma'arri",
+    "ko": "아부 알알라 알마아리의 죽음",
+    "zh": "阿布·阿拉·麦阿里去世",
+    "ja": "アブー・アル＝アラー・アル＝マアッリーの死"
+   },
+   "description": {
+    "en": "The blind poet and freethinker Abu al-Ala al-Ma'arri died in 1057 in his hometown of Ma'arrat al-Nu'man. His sceptical, ascetic verse collection Luzum ma la yalzam and the Epistle of Forgiveness, an imaginative journey through the afterlife, made him one of the great figures of classical Arabic literature.",
+    "ko": "맹인 시인이자 자유사상가 아부 알알라 알마아리가 1057년 고향 마아랏 알누만에서 세상을 떠났다. 회의적이고 금욕적인 시집 『불필요한 것의 필요』와 내세를 상상으로 여행하는 『용서의 서한』으로 그는 고전 아랍 문학의 거장이 되었다.",
+    "zh": "盲人诗人、自由思想家阿布·阿拉·麦阿里于1057年在故乡麦阿赖努阿曼去世。他充满怀疑与禁欲色彩的诗集《不必要的必要》和想象游历来世的《宽恕书》，使他成为古典阿拉伯文学的大家之一。",
+    "ja": "盲目の詩人で自由思想家のアブー・アル＝アラー・アル＝マアッリーは、1057年に故郷マアッラト・アン＝ヌウマーンで没した。懐疑的で禁欲的な詩集『不必要なものの必要』や来世を想像の中で旅する『赦しの書簡』により、彼は古典アラビア文学の巨匠となった。"
+   }
+  },
+  {
+   "year": 1076,
+   "qid": "Q3708094",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Seljuk Turks take Damascus",
+    "ko": "셀주크 튀르크의 다마스쿠스 점령",
+    "zh": "塞尔柱突厥人攻占大马士革",
+    "ja": "セルジューク朝のダマスカス占領"
+   },
+   "description": {
+    "en": "The Turkmen commander Atsiz ibn Uvaq captured Damascus from the Fatimids in 1076. Soon afterwards the Seljuk prince Tutush I, brother of Sultan Malik-Shah, took over the city and went on to make himself master of Syria, ending a century of Fatimid rule there.",
+    "ko": "투르크멘 지휘관 아트시즈 이븐 우바크가 1076년 파티마 왕조로부터 다마스쿠스를 빼앗았다. 곧이어 술탄 말리크샤의 동생인 셀주크 왕자 투투시 1세가 도시를 넘겨받아 시리아의 지배자가 되었고, 이로써 이곳에서 한 세기 동안 이어진 파티마 왕조의 지배가 끝났다.",
+    "zh": "突厥蛮将领阿特西兹·伊本·乌瓦克于1076年从法蒂玛王朝手中夺取大马士革。不久，苏丹马立克沙的弟弟、塞尔柱王子突突什一世接管该城，进而成为叙利亚的主人，法蒂玛王朝在此长达一个世纪的统治宣告终结。",
+    "ja": "トルクメンの指揮官アトスズ・イブン・ウヴァクは1076年にファーティマ朝からダマスカスを奪った。まもなくスルタン・マリクシャーの弟であるセルジューク家のトゥトゥシュ1世が同市を引き継いでシリアの支配者となり、ここでの1世紀に及ぶファーティマ朝の支配は終わった。"
+   }
+  },
+  {
+   "year": 1098,
+   "qid": "Q2503775",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "First Crusade: siege of Ma'arra",
+    "ko": "제1차 십자군: 마아라 포위",
+    "zh": "第一次十字军：麦阿赖之围",
+    "ja": "第1回十字軍：マアッラ包囲"
+   },
+   "description": {
+    "en": "After taking Antioch in 1098, the armies of the First Crusade stormed Ma'arrat al-Nu'man in December, massacring many inhabitants; both Latin and Arabic chroniclers reported that starving crusaders resorted to cannibalism. The crusaders then marched south along the Syrian coast toward Jerusalem.",
+    "ko": "1098년 안티오키아를 점령한 제1차 십자군은 같은 해 12월 마아랏 알누만을 습격해 많은 주민을 학살했으며, 라틴과 아랍 연대기 작가 모두 굶주린 십자군이 식인을 했다고 기록했다. 십자군은 이어 시리아 해안을 따라 예루살렘으로 남하했다.",
+    "zh": "1098年攻占安条克后，第一次十字军于同年12月攻破麦阿赖努阿曼，屠杀了大量居民；拉丁和阿拉伯的编年史家都记载了饥饿的十字军食人的情况。十字军随后沿叙利亚海岸南下，向耶路撒冷进发。",
+    "ja": "1098年にアンティオキアを攻略した第1回十字軍は、同年12月にマアッラト・アン＝ヌウマーンを攻め落とし多くの住民を虐殺した。ラテン側とアラブ側の年代記はいずれも、飢えた十字軍兵士が人肉食に及んだと記している。十字軍はその後シリア沿岸を南下してエルサレムへ向かった。"
+   }
+  },
+  {
+   "year": 1119,
+   "qid": "Q622184",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of the Field of Blood",
+    "ko": "피의 들판 전투",
+    "zh": "血地之战",
+    "ja": "血の野の戦い"
+   },
+   "description": {
+    "en": "On 28 June 1119 Ilghazi, the Artuqid ruler of Mardin, annihilated the army of the Principality of Antioch near Sarmada, west of Aleppo, killing its regent Roger of Salerno. The crusaders called it Ager Sanguinis, the 'Field of Blood'; it relieved the pressure on Aleppo for a time.",
+    "ko": "1119년 6월 28일 마르딘의 아르투크 왕조 통치자 일가지는 알레포 서쪽 사르마다 부근에서 안티오키아 공국군을 전멸시키고 섭정 살레르노의 로제르를 죽였다. 십자군은 이를 '피의 들판(아게르 상귀니스)'이라 불렀으며, 이 승리로 알레포에 대한 압박이 한동안 완화되었다.",
+    "zh": "1119年6月28日，马尔丁的阿尔图格王朝统治者伊尔加齐在阿勒颇以西的萨尔马达附近全歼安条克公国军队，杀死摄政萨勒诺的罗杰。十字军称之为“血地”，此战一度缓解了阿勒颇所受的压力。",
+    "ja": "1119年6月28日、マルディンのアルトゥク朝の君主イルガーズィーはアレッポ西方のサルマダ付近でアンティオキア公国軍を全滅させ、摂政サレルノのルッジェーロを討ち取った。十字軍はこれを「血の野（アゲル・サングイニス）」と呼び、この勝利でアレッポへの圧力は一時和らいだ。"
+   }
+  },
+  {
+   "year": 1128,
+   "qid": "Q189545",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Zengi takes Aleppo",
+    "ko": "장기의 알레포 장악",
+    "zh": "赞吉夺取阿勒颇",
+    "ja": "ザンギーのアレッポ掌握"
+   },
+   "description": {
+    "en": "In 1128 Imad al-Din Zengi, atabeg of Mosul, took control of Aleppo, uniting it with Mosul. The Zengid state became the main Muslim counterweight to the Crusader states, and Zengi's capture of Edessa in 1144 provoked the Second Crusade.",
+    "ko": "1128년 모술의 아타베그 이마드 앗딘 장기가 알레포를 장악해 모술과 통합했다. 장기 왕조는 십자군 국가들에 맞서는 주된 무슬림 세력이 되었고, 1144년 장기의 에데사 점령은 제2차 십자군을 불러왔다.",
+    "zh": "1128年，摩苏尔的阿塔伯克伊马德丁·赞吉控制阿勒颇，将其与摩苏尔合并。赞吉王朝成为抗衡十字军国家的主要穆斯林力量，1144年赞吉攻占埃德萨更引发了第二次十字军东征。",
+    "ja": "1128年、モースルのアタベク、イマードゥッディーン・ザンギーがアレッポを掌握し、モースルと統合した。ザンギー朝は十字軍国家に対抗する主要なムスリム勢力となり、1144年のザンギーによるエデッサ攻略は第2回十字軍を招いた。"
+   }
+  },
+  {
+   "year": 1142,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Hospitallers receive Krak des Chevaliers",
+    "ko": "구호기사단의 크라크 데 슈발리에 인수",
+    "zh": "医院骑士团接管骑士堡",
+    "ja": "聖ヨハネ騎士団、クラック・デ・シュヴァリエを得る"
+   },
+   "description": {
+    "en": "In 1142 Count Raymond II of Tripoli granted the castle of Hisn al-Akrad, overlooking the Homs Gap, to the Knights Hospitaller. They rebuilt it into Krak des Chevaliers, perhaps the finest surviving crusader castle, now a UNESCO World Heritage site together with the Qal'at Salah al-Din.",
+    "ko": "1142년 트리폴리 백작 레몽 2세는 홈스 협곡을 내려다보는 히슨 알아크라드 성을 구호기사단에 넘겼다. 기사단은 이를 크라크 데 슈발리에로 재건했으며, 현존하는 가장 훌륭한 십자군 성채로 꼽히는 이 성은 살라흐 앗딘 성채와 함께 유네스코 세계유산이다.",
+    "zh": "1142年，的黎波里伯爵雷蒙德二世将俯瞰霍姆斯山口的希斯恩·阿克拉德城堡授予医院骑士团。骑士团将其重建为骑士堡，它或许是现存最精美的十字军城堡，如今与萨拉丁城堡一同被列为联合国教科文组织世界遗产。",
+    "ja": "1142年、トリポリ伯レーモン2世はホムス峡谷を見下ろすヒスン・アル＝アクラード城を聖ヨハネ騎士団に与えた。騎士団はこれをクラック・デ・シュヴァリエとして再建し、現存する最も見事な十字軍の城とされるこの城は、サラーフッディーン城とともにユネスコ世界遺産となっている。"
+   }
+  },
+  {
+   "year": 1148,
+   "qid": "Q382967",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Second Crusade fails at Damascus",
+    "ko": "제2차 십자군의 다마스쿠스 공격 실패",
+    "zh": "第二次十字军围攻大马士革失败",
+    "ja": "第2回十字軍のダマスカス攻撃失敗"
+   },
+   "description": {
+    "en": "In July 1148 the kings Conrad III of Germany and Louis VII of France, with Baldwin III of Jerusalem, besieged Damascus, previously a frequent ally of Jerusalem. The siege collapsed after only four days, ending the Second Crusade in failure and pushing Damascus toward Nur al-Din.",
+    "ko": "1148년 7월 독일 왕 콘라트 3세와 프랑스 왕 루이 7세는 예루살렘 왕 보두앵 3세와 함께 그때까지 예루살렘의 잦은 동맹이던 다마스쿠스를 포위했다. 포위는 불과 나흘 만에 무너져 제2차 십자군은 실패로 끝났고, 다마스쿠스는 누르 앗딘 쪽으로 기울었다.",
+    "zh": "1148年7月，德意志国王康拉德三世和法国国王路易七世与耶路撒冷国王鲍德温三世一道围攻大马士革，而该城此前常是耶路撒冷的盟友。围城仅四天便告瓦解，第二次十字军以失败告终，大马士革也转而倒向努尔丁。",
+    "ja": "1148年7月、ドイツ王コンラート3世とフランス王ルイ7世はエルサレム王ボードゥアン3世とともに、それまでエルサレムとしばしば同盟していたダマスカスを包囲した。包囲はわずか4日で崩れて第2回十字軍は失敗に終わり、ダマスカスはヌールッディーンに傾いた。"
+   }
+  },
+  {
+   "year": 1149,
+   "qid": "Q1328380",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Inab",
+    "ko": "이나브 전투",
+    "zh": "伊纳卜之战",
+    "ja": "イナブの戦い"
+   },
+   "description": {
+    "en": "On 29 June 1149 Nur al-Din destroyed the army of Prince Raymond of Antioch at Inab, south of Aleppo; Raymond was killed and his head sent to the caliph in Baghdad. The victory stripped Antioch of its lands east of the Orontes.",
+    "ko": "1149년 6월 29일 누르 앗딘은 알레포 남쪽 이나브에서 안티오키아 공 레몽의 군대를 궤멸시켰다. 레몽은 전사했고 그의 머리는 바그다드의 칼리파에게 보내졌다. 이 승리로 안티오키아는 오론테스강 동쪽 영토를 잃었다.",
+    "zh": "1149年6月29日，努尔丁在阿勒颇以南的伊纳卜歼灭安条克亲王雷蒙德的军队，雷蒙德阵亡，首级被送往巴格达的哈里发。此役使安条克丧失了奥龙特斯河以东的领土。",
+    "ja": "1149年6月29日、ヌールッディーンはアレッポ南方のイナブでアンティオキア公レーモンの軍を壊滅させた。レーモンは戦死し、その首はバグダードのカリフに送られた。この勝利でアンティオキアはオロンテス川以東の領土を失った。"
+   }
+  },
+  {
+   "year": 1154,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Nur al-Din unites Muslim Syria",
+    "ko": "누르 앗딘의 무슬림 시리아 통일",
+    "zh": "努尔丁统一穆斯林叙利亚",
+    "ja": "ヌールッディーンによるムスリム・シリアの統一"
+   },
+   "description": {
+    "en": "In 1154 Nur al-Din took Damascus from the Burid dynasty with the support of its population, uniting Aleppo and Damascus for the first time in decades. He made Damascus his capital, building madrasas, a famous hospital and fortifications, and championed jihad against the Crusaders.",
+    "ko": "1154년 누르 앗딘은 주민들의 지지를 받아 부리 왕조로부터 다마스쿠스를 차지하며 수십 년 만에 처음으로 알레포와 다마스쿠스를 통일했다. 그는 다마스쿠스를 수도로 삼아 마드라사·유명한 병원·성채를 세웠고, 십자군에 맞선 지하드를 앞장서 내세웠다.",
+    "zh": "1154年，努尔丁在当地民众支持下从布里王朝手中夺取大马士革，使阿勒颇与大马士革数十年来首次统一。他以大马士革为都，兴建经学院、著名医院和防御工事，并大力倡导对十字军的圣战。",
+    "ja": "1154年、ヌールッディーンは住民の支持を得てブーリー朝からダマスカスを奪い、数十年ぶりにアレッポとダマスカスを統一した。彼はダマスカスを都とし、マドラサや名高い病院、城塞を建設し、十字軍に対するジハードを掲げた。"
+   }
+  },
+  {
+   "year": 1170,
+   "qid": "Q55600341",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "1170 Syria earthquake",
+    "ko": "1170년 시리아 대지진",
+    "zh": "1170年叙利亚大地震",
+    "ja": "1170年シリア地震"
+   },
+   "description": {
+    "en": "On 29 June 1170 one of the most destructive earthquakes in Syrian history struck the region, heavily damaging Aleppo, Hama, Homs, Shaizar and crusader-held Antioch and Tripoli. Nur al-Din and the crusader rulers alike had to rebuild walls and citadels, and the quake briefly paused their wars.",
+    "ko": "1170년 6월 29일 시리아 역사상 가장 파괴적인 지진 가운데 하나가 일어나 알레포·하마·홈스·샤이자르와 십자군령 안티오키아·트리폴리가 큰 피해를 입었다. 누르 앗딘과 십자군 군주들 모두 성벽과 성채를 재건해야 했고, 지진으로 전쟁은 잠시 멈추었다.",
+    "zh": "1170年6月29日，叙利亚历史上最具破坏性的地震之一袭击该地区，阿勒颇、哈马、霍姆斯、沙伊扎尔以及十字军控制的安条克和的黎波里均遭重创。努尔丁和十字军统治者都不得不重建城墙与城堡，战事也因此一度中断。",
+    "ja": "1170年6月29日、シリア史上最も破壊的な地震の一つが起こり、アレッポ、ハマ、ホムス、シャイザル、そして十字軍領のアンティオキアとトリポリが大きな被害を受けた。ヌールッディーンも十字軍の君主たちも城壁や城塞の再建を迫られ、戦争は一時中断した。"
+   }
+  },
+  {
+   "year": 1174,
+   "qid": "Q180114",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Saladin takes Damascus",
+    "ko": "살라딘의 다마스쿠스 입성",
+    "zh": "萨拉丁进入大马士革",
+    "ja": "サラディンのダマスカス入城"
+   },
+   "description": {
+    "en": "Saladin entered Damascus and united Syria with Egypt under Ayyubid rule. From this base he recaptured Jerusalem from the Crusaders in 1187, and Damascus flourished as a political centre.",
+    "ko": "살라딘이 다마스쿠스에 입성해 시리아와 이집트를 아이유브 왕조 아래 통합했다. 그는 이를 기반으로 1187년 십자군에게서 예루살렘을 탈환했고, 다마스쿠스는 정치 중심지로 번영했다.",
+    "zh": "萨拉丁进入大马士革，将叙利亚与埃及统一于阿尤布王朝之下。他以此为根基，于1187年从十字军手中收复耶路撒冷，大马士革作为政治中心再度繁荣。",
+    "ja": "サラディンがダマスカスに入城し、シリアとエジプトをアイユーブ朝の下に統一した。これを基盤に1187年、十字軍からエルサレムを奪回し、ダマスカスは政治の中心として栄えた。"
+   }
+  },
+  {
+   "year": 1193,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Saladin in Damascus",
+    "ko": "다마스쿠스에서 살라딘 서거",
+    "zh": "萨拉丁在大马士革去世",
+    "ja": "サラディン、ダマスカスに没す"
+   },
+   "description": {
+    "en": "Saladin died in Damascus in March 1193, months after concluding the Treaty of Jaffa with Richard I of England. He was buried in a mausoleum beside the Umayyad Mosque, and his empire was divided among his sons and brother al-Adil.",
+    "ko": "살라딘은 잉글랜드의 리처드 1세와 야파 조약을 맺은 지 몇 달 뒤인 1193년 3월 다마스쿠스에서 세상을 떠났다. 그는 우마이야 모스크 옆 영묘에 묻혔고, 그의 제국은 아들들과 동생 알아딜에게 나뉘었다.",
+    "zh": "1193年3月，萨拉丁在与英格兰的理查一世签订雅法条约数月后于大马士革去世。他被安葬于倭马亚清真寺旁的陵墓中，其帝国则由诸子和弟弟阿迪勒分治。",
+    "ja": "サラディンはイングランドのリチャード1世とヤッファ条約を結んだ数か月後の1193年3月、ダマスカスで没した。彼はウマイヤ・モスクの傍らの霊廟に葬られ、その帝国は息子たちと弟アーディルの間で分けられた。"
+   }
+  },
+  {
+   "year": 1260,
+   "qid": "Q7509797",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Mongol invasion and the rise of the Mamluks",
+    "ko": "몽골 침입과 맘루크의 부상",
+    "zh": "蒙古入侵与马穆鲁克崛起",
+    "ja": "モンゴルの侵攻とマムルークの台頭"
+   },
+   "description": {
+    "en": "In January 1260 Hulagu's Mongol army stormed Aleppo after a short siege and massacred many of its people; Damascus surrendered soon after, ending Ayyubid rule. In September the Mamluks of Egypt defeated the Mongols at Ain Jalut in Palestine and took over Syria, beating off a further Mongol raid at Homs in December.",
+    "ko": "1260년 1월 훌라구의 몽골군은 짧은 포위 끝에 알레포를 함락하고 많은 주민을 학살했으며, 곧이어 다마스쿠스도 항복해 아이유브 왕조의 지배가 끝났다. 같은 해 9월 이집트의 맘루크군은 팔레스타인의 아인잘루트에서 몽골군을 무찌르고 시리아를 장악했으며, 12월에는 홈스에서 몽골의 재침을 물리쳤다.",
+    "zh": "1260年1月，旭烈兀的蒙古军经短暂围攻攻陷阿勒颇，屠杀了大量居民；大马士革随即投降，阿尤布王朝的统治宣告结束。同年9月，埃及马穆鲁克军在巴勒斯坦的艾因札鲁特击败蒙古军并接管叙利亚，12月又在霍姆斯击退蒙古的再次进犯。",
+    "ja": "1260年1月、フレグのモンゴル軍は短い包囲の末にアレッポを攻略して多くの住民を虐殺し、まもなくダマスカスも降伏してアイユーブ朝の支配は終わった。同年9月、エジプトのマムルーク軍はパレスチナのアイン・ジャールートでモンゴル軍を破ってシリアを掌握し、12月にはホムスでモンゴルの再侵攻を退けた。"
+   }
+  },
+  {
+   "year": 1271,
+   "qid": "Q264915",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Baybars takes Krak des Chevaliers",
+    "ko": "바이바르스의 크라크 데 슈발리에 점령",
+    "zh": "拜巴尔斯攻占骑士堡",
+    "ja": "バイバルスのクラック・デ・シュヴァリエ攻略"
+   },
+   "description": {
+    "en": "In April 1271 the Mamluk sultan Baybars captured the Hospitaller fortress of Krak des Chevaliers after a siege of about a month, using a forged letter to persuade the garrison to surrender. Its fall crippled the County of Tripoli's inland defences.",
+    "ko": "1271년 4월 맘루크 술탄 바이바르스는 한 달가량의 포위 끝에 구호기사단의 요새 크라크 데 슈발리에를 함락했는데, 위조 서신으로 수비대의 항복을 유도했다. 성의 함락으로 트리폴리 백국의 내륙 방어선은 무너졌다.",
+    "zh": "1271年4月，马穆鲁克苏丹拜巴尔斯围攻约一个月后攻占医院骑士团的要塞骑士堡，他利用一封伪造的信件诱使守军投降。城堡的陷落使的黎波里伯国的内陆防线土崩瓦解。",
+    "ja": "1271年4月、マムルーク朝のスルタン・バイバルスは約1か月の包囲の末、偽造書簡で守備隊を降伏に導いて聖ヨハネ騎士団の要塞クラック・デ・シュヴァリエを攻略した。その陥落でトリポリ伯国の内陸防衛線は崩壊した。"
+   }
+  },
+  {
+   "year": 1281,
+   "qid": "Q2726734",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Second Battle of Homs",
+    "ko": "제2차 홈스 전투",
+    "zh": "第二次霍姆斯战役",
+    "ja": "第二次ホムスの戦い"
+   },
+   "description": {
+    "en": "In October 1281 the Mamluk sultan Qalawun defeated a large Ilkhanid Mongol army led by Möngke Temür near Homs. The hard-fought victory secured Mamluk control of Syria against the Mongol khanate of Iran.",
+    "ko": "1281년 10월 맘루크 술탄 칼라운은 홈스 부근에서 뭉케 테무르가 이끄는 일한국의 대군을 격파했다. 치열했던 이 승리로 맘루크는 이란의 몽골 칸국에 맞서 시리아 지배를 지켜 냈다.",
+    "zh": "1281年10月，马穆鲁克苏丹嘉拉温在霍姆斯附近击败蒙哥帖木儿率领的伊儿汗国大军。这场艰苦的胜利确保了马穆鲁克对叙利亚的控制，抵御住了伊朗的蒙古汗国。",
+    "ja": "1281年10月、マムルーク朝のスルタン・カラーウーンはホムス付近でメングテムル率いるイルハン朝の大軍を破った。激戦の末のこの勝利により、マムルーク朝はイランのモンゴル政権からシリアの支配を守った。"
+   }
+  },
+  {
+   "year": 1299,
+   "qid": "Q2290814",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ghazan occupies Damascus",
+    "ko": "가잔의 다마스쿠스 점령",
+    "zh": "合赞占领大马士革",
+    "ja": "ガザン、ダマスカスを占領"
+   },
+   "description": {
+    "en": "In December 1299 the Ilkhan Ghazan defeated the Mamluks at Wadi al-Khaznadar near Homs and occupied Damascus, though its citadel held out. The Mongols withdrew within months, and the Mamluks soon regained Syria.",
+    "ko": "1299년 12월 일한국의 가잔은 홈스 부근 와디 알카즈나다르에서 맘루크군을 격파하고 다마스쿠스를 점령했으나 성채는 끝까지 버텼다. 몽골군은 몇 달 만에 철수했고 맘루크는 곧 시리아를 되찾았다.",
+    "zh": "1299年12月，伊儿汗合赞在霍姆斯附近的哈兹纳达尔谷击败马穆鲁克军并占领大马士革，但城堡始终坚守未降。蒙古军数月内即撤退，马穆鲁克随即收复叙利亚。",
+    "ja": "1299年12月、イルハン朝のガザンはホムス近郊のワーディー・アル＝ハズナダールでマムルーク軍を破りダマスカスを占領したが、城塞は持ちこたえた。モンゴル軍は数か月で撤退し、マムルーク朝はまもなくシリアを回復した。"
+   }
+  },
+  {
+   "year": 1302,
+   "qid": "Q815114",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fall of Ruad",
+    "ko": "루아드의 함락",
+    "zh": "鲁阿德陷落",
+    "ja": "ルアド陥落"
+   },
+   "description": {
+    "en": "In 1302 the Mamluks captured the small island of Arwad (Ruad) off Tartus, held by the Knights Templar. It was the last crusader foothold on the Syrian coast, and its loss ended the crusader presence in the Levant.",
+    "ko": "1302년 맘루크는 타르투스 앞바다에서 성전기사단이 지키던 작은 섬 아르와드(루아드)를 점령했다. 이곳은 시리아 해안에 남은 마지막 십자군 거점이었으며, 그 상실로 레반트에서 십자군의 존재는 막을 내렸다.",
+    "zh": "1302年，马穆鲁克攻占了塔尔图斯外海由圣殿骑士团据守的小岛阿尔瓦德（鲁阿德）。这是十字军在叙利亚海岸的最后据点，它的失守标志着十字军在黎凡特存在的终结。",
+    "ja": "1302年、マムルーク朝はタルトゥス沖でテンプル騎士団が守っていた小島アルワード（ルアド）を攻略した。そこはシリア沿岸に残る最後の十字軍の拠点で、その喪失によりレヴァントにおける十字軍の存在は終わった。"
+   }
+  },
+  {
+   "year": 1303,
+   "qid": "Q2732255",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Marj al-Saffar",
+    "ko": "마르지 알사파르 전투",
+    "zh": "马尔吉萨法尔之战",
+    "ja": "マルジュ・アッ＝サッファルの戦い"
+   },
+   "description": {
+    "en": "In April 1303 the Mamluks decisively defeated an Ilkhanid invasion at Marj al-Saffar south of Damascus; the theologian Ibn Taymiyya famously urged the defenders to fight. It was the last major Mongol attempt to conquer Syria.",
+    "ko": "1303년 4월 맘루크는 다마스쿠스 남쪽 마르지 알사파르에서 일한국의 침입군을 결정적으로 격파했다. 신학자 이븐 타이미야가 수비군에게 싸울 것을 촉구한 일로 유명하다. 이는 몽골이 시리아 정복을 시도한 마지막 대규모 공세였다.",
+    "zh": "1303年4月，马穆鲁克在大马士革以南的马尔吉萨法尔决定性地击败伊儿汗国的入侵，神学家伊本·泰米叶曾激励守军奋战一事广为人知。这是蒙古人征服叙利亚的最后一次大规模尝试。",
+    "ja": "1303年4月、マムルーク朝はダマスカス南方のマルジュ・アッ＝サッファルでイルハン朝の侵攻軍を決定的に破った。神学者イブン・タイミーヤが守備軍に戦いを促したことで知られる。これはモンゴルによるシリア征服の最後の大規模な試みであった。"
+   }
+  },
+  {
+   "year": 1348,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "The Black Death reaches Syria",
+    "ko": "흑사병의 시리아 도래",
+    "zh": "黑死病传入叙利亚",
+    "ja": "黒死病のシリア到来"
+   },
+   "description": {
+    "en": "The Black Death struck Syria in 1348–1349, killing a large part of the population of Damascus, Aleppo and the countryside. The Aleppan scholar Ibn al-Wardi described the epidemic before himself dying of it in 1349, and recurring plague weakened Mamluk Syria for the next century and a half.",
+    "ko": "1348~1349년 흑사병이 시리아를 덮쳐 다마스쿠스와 알레포, 농촌 인구의 상당 부분이 목숨을 잃었다. 알레포의 학자 이븐 알와르디는 역병을 기록한 뒤 1349년 그 자신도 희생되었으며, 반복되는 역병은 이후 150년 동안 맘루크 시리아를 약화시켰다.",
+    "zh": "1348至1349年，黑死病袭击叙利亚，大马士革、阿勒颇及乡村的大量人口死亡。阿勒颇学者伊本·瓦尔迪记录了这场瘟疫，随后于1349年自己也死于此疫。此后一个半世纪里反复爆发的瘟疫不断削弱马穆鲁克治下的叙利亚。",
+    "ja": "1348～49年、黒死病がシリアを襲い、ダマスカスやアレッポ、農村の人口の大きな部分が失われた。アレッポの学者イブン・アル＝ワルディーはこの疫病を記録した後、1349年に自らも犠牲となった。繰り返すペストはその後150年にわたりマムルーク朝のシリアを弱らせた。"
+   }
+  },
+  {
+   "year": 1400,
+   "qid": "Q9389452",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Timur sacks Aleppo and Damascus",
+    "ko": "티무르의 알레포·다마스쿠스 약탈",
+    "zh": "帖木儿洗劫阿勒颇与大马士革",
+    "ja": "ティムールのアレッポ・ダマスカス略奪"
+   },
+   "description": {
+    "en": "In 1400 Timur invaded Syria, sacking Aleppo, and in early 1401 he took Damascus, which was plundered and burned; many of its craftsmen were deported to Samarkand. The historian Ibn Khaldun, caught in the siege, met Timur outside the city and left an account of their conversations.",
+    "ko": "1400년 티무르는 시리아를 침공해 알레포를 약탈했고, 1401년 초에는 다마스쿠스를 점령해 약탈하고 불태웠으며, 많은 장인을 사마르칸트로 끌고 갔다. 포위 속에 갇혔던 역사가 이븐 할둔은 성 밖에서 티무르를 만나 그 대화를 기록으로 남겼다.",
+    "zh": "1400年帖木儿入侵叙利亚，洗劫阿勒颇；1401年初又攻占大马士革，该城遭劫掠焚毁，许多工匠被掳往撒马尔罕。被困城中的历史学家伊本·赫勒敦在城外会见了帖木儿，并留下了二人交谈的记述。",
+    "ja": "1400年、ティムールはシリアに侵攻してアレッポを略奪し、1401年初めにはダマスカスを占領して略奪・焼き払い、多くの職人をサマルカンドへ連れ去った。包囲に巻き込まれた歴史家イブン・ハルドゥーンは城外でティムールと会見し、その対話の記録を残した。"
+   }
+  },
+  {
+   "year": 1516,
+   "qid": "Q971248",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Ottoman conquest of Syria",
+    "ko": "오스만 제국의 시리아 정복",
+    "zh": "奥斯曼帝国征服叙利亚",
+    "ja": "オスマン帝国のシリア征服"
+   },
+   "description": {
+    "en": "Sultan Selim I crushed the Mamluks at Marj Dabiq north of Aleppo, bringing Syria under Ottoman rule that lasted four centuries. Damascus became a key staging post on the pilgrimage route to Mecca.",
+    "ko": "셀림 1세가 알레포 북쪽 마르지 다비크에서 맘루크군을 격파하며 시리아는 이후 4세기 동안 오스만 제국의 지배를 받았다. 다마스쿠스는 메카 순례길의 요충지가 되었다.",
+    "zh": "塞利姆一世在阿勒颇以北的马尔季达比克大败马穆鲁克军，叙利亚自此进入长达四个世纪的奥斯曼统治时期，大马士革成为麦加朝觐之路上的重镇。",
+    "ja": "セリム1世がアレッポ北方のマルジュ・ダービクでマムルーク軍を撃破し、シリアは以後4世紀にわたりオスマン帝国の支配下に置かれた。ダマスカスはメッカ巡礼路の要衝となった。"
+   }
+  },
+  {
+   "year": 1554,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Sinan's Tekkiye in Damascus",
+    "ko": "다마스쿠스의 시난 작 테키예",
+    "zh": "锡南设计的大马士革苏莱曼清真寺建筑群",
+    "ja": "ダマスカスのスィナン作テッキエ"
+   },
+   "description": {
+    "en": "Between 1554 and 1559 Sultan Suleiman the Magnificent had the architect Mimar Sinan build the Tekkiye al-Sulaymaniyya in Damascus, a mosque and hostel complex serving pilgrims on the Hajj route. With its slender Ottoman minarets, it marked the arrival of imperial Ottoman architecture in Syria.",
+    "ko": "1554년부터 1559년까지 술레이만 대제는 건축가 미마르 시난을 시켜 다마스쿠스에 하지 순례자를 위한 모스크·숙소 복합 시설인 술레이마니예 테키예를 짓게 했다. 날렵한 오스만식 미너렛을 갖춘 이 건물은 오스만 제국 양식 건축이 시리아에 들어왔음을 알렸다.",
+    "zh": "1554年至1559年，苏莱曼大帝命建筑师米马尔·锡南在大马士革修建苏莱曼尼耶道堂建筑群，这是一处为麦加朝觐者服务的清真寺和客舍。其纤细的奥斯曼式宣礼塔标志着奥斯曼帝国建筑风格进入叙利亚。",
+    "ja": "1554年から1559年にかけて、スレイマン1世は建築家ミマール・スィナンにダマスカスのスレイマニエ・テッキエを建てさせた。ハッジ巡礼者のためのモスクと宿泊施設の複合体で、細身のオスマン式ミナレットを備え、オスマン帝国の建築様式のシリア到来を告げた。"
+   }
+  },
+  {
+   "year": 1600,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Aleppo, emporium of the Levant trade",
+    "ko": "레반트 교역의 중심지 알레포",
+    "zh": "黎凡特贸易中心阿勒颇",
+    "ja": "レヴァント交易の中心地アレッポ"
+   },
+   "description": {
+    "en": "Around 1600 Aleppo was one of the Ottoman Empire's greatest commercial cities, where caravans brought Iranian silk and Indian goods to Venetian, French, English and Dutch merchants who maintained consuls and trading houses in its vast covered souks and khans.",
+    "ko": "1600년경 알레포는 오스만 제국 최대의 상업 도시 가운데 하나로, 대상들이 이란산 비단과 인도 상품을 실어 오면 거대한 지붕 덮인 수크와 칸에 영사관과 상관을 둔 베네치아·프랑스·잉글랜드·네덜란드 상인들이 이를 사들였다.",
+    "zh": "约1600年，阿勒颇是奥斯曼帝国最重要的商业城市之一。商队将伊朗丝绸和印度货物运抵此地，威尼斯、法国、英国和荷兰商人在其宏大的有顶市场和商馆中设有领事馆和商行。",
+    "ja": "1600年頃、アレッポはオスマン帝国有数の商業都市で、隊商がイランの絹やインドの物産を運び込み、広大な屋根付きスークやハーンに領事館や商館を置くヴェネツィア、フランス、イングランド、オランダの商人たちがそれを買い付けた。"
+   }
+  },
+  {
+   "year": 1708,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Governors of Damascus lead the Hajj",
+    "ko": "다마스쿠스 총독의 하지 순례단 지휘",
+    "zh": "大马士革总督统领朝觐",
+    "ja": "ダマスカス総督のハッジ指揮"
+   },
+   "description": {
+    "en": "From 1708 the Ottoman governors of Damascus were regularly given command of the annual pilgrimage caravan to Mecca. Securing and supplying the Hajj became their chief duty, raising the political importance of Damascus within the empire.",
+    "ko": "1708년부터 오스만 제국의 다마스쿠스 총독은 정기적으로 매년 메카로 향하는 순례 대상의 지휘권을 맡았다. 하지 순례의 안전과 보급이 총독의 가장 중요한 임무가 되면서 제국 안에서 다마스쿠스의 정치적 위상이 높아졌다.",
+    "zh": "自1708年起，奥斯曼帝国的大马士革总督通常被授予每年前往麦加的朝觐商队的指挥权。保障朝觐的安全与补给成为其首要职责，大马士革在帝国中的政治地位也随之提升。",
+    "ja": "1708年以降、オスマン帝国のダマスカス総督は毎年メッカへ向かう巡礼隊の指揮を任されるのが通例となった。ハッジの安全と補給が総督の最重要任務となり、帝国内でのダマスカスの政治的地位は高まった。"
+   }
+  },
+  {
+   "year": 1749,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Azm Palace built in Damascus",
+    "ko": "다마스쿠스 아즘 궁전 건립",
+    "zh": "大马士革阿兹姆宫落成",
+    "ja": "ダマスカスのアズム宮殿建設"
+   },
+   "description": {
+    "en": "As'ad Pasha al-Azm, governor of Damascus from a powerful local dynasty of Ottoman governors, built the Azm Palace in 1749. Its courtyards of striped stone, fountains and painted wooden rooms make it a masterpiece of Damascene domestic architecture, today a museum of popular traditions.",
+    "ko": "오스만 제국 총독을 배출한 유력 현지 가문 출신의 다마스쿠스 총독 아사드 파샤 알아즘이 1749년 아즘 궁전을 지었다. 줄무늬 석재로 꾸민 안뜰, 분수, 채색 목조 방을 갖춘 이 궁전은 다마스쿠스 주거 건축의 걸작으로, 오늘날 민속 박물관으로 쓰인다.",
+    "zh": "出身于一个世代出任奥斯曼总督的地方望族、时任大马士革总督的阿萨德帕夏·阿兹姆于1749年建造了阿兹姆宫。其条纹石砌庭院、喷泉和彩绘木制厅堂使之成为大马士革宅邸建筑的杰作，如今是民俗博物馆。",
+    "ja": "オスマン帝国の総督を輩出した有力な在地一族出身のダマスカス総督アスアド・パシャ・アル＝アズムが、1749年にアズム宮殿を建てた。縞模様の石の中庭、噴水、彩色された木造の部屋を備えたこの宮殿はダマスカスの邸宅建築の傑作で、現在は民俗博物館となっている。"
+   }
+  },
+  {
+   "year": 1759,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "1759 Levant earthquakes",
+    "ko": "1759년 레반트 지진",
+    "zh": "1759年黎凡特地震",
+    "ja": "1759年レヴァント地震"
+   },
+   "description": {
+    "en": "In October and November 1759 two strong earthquakes struck the Levant, damaging Damascus, including the Umayyad Mosque, and devastating Baalbek and Safed. They were among the most destructive earthquakes of the Ottoman period in the region.",
+    "ko": "1759년 10월과 11월 두 차례의 강진이 레반트를 강타해 우마이야 모스크를 비롯한 다마스쿠스 곳곳이 피해를 입었고 바알베크와 사페드는 폐허가 되었다. 이는 오스만 시대 이 지역에서 가장 파괴적인 지진에 속한다.",
+    "zh": "1759年10月和11月，两次强烈地震袭击黎凡特，大马士革包括倭马亚清真寺在内多处受损，巴勒贝克和采法特则遭到严重破坏。这是奥斯曼时期该地区最具破坏性的地震之一。",
+    "ja": "1759年10月と11月に2度の強い地震がレヴァントを襲い、ウマイヤ・モスクを含むダマスカス各所が損壊し、バールベックとサフェドは壊滅的な被害を受けた。オスマン時代のこの地域で最も破壊的な地震の一つである。"
+   }
+  },
+  {
+   "year": 1822,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Aleppo earthquake",
+    "ko": "알레포 대지진",
+    "zh": "阿勒颇大地震",
+    "ja": "アレッポ地震"
+   },
+   "description": {
+    "en": "On 13 August 1822 a powerful earthquake devastated Aleppo and nearby towns such as Antioch and Jisr al-Shughur, killing a large share of their inhabitants and destroying much of Aleppo's historic housing. Aftershocks continued for months, and the city took decades to recover.",
+    "ko": "1822년 8월 13일 강력한 지진이 알레포와 안티오키아·지스르 알슈구르 등 인근 도시를 덮쳐 주민 상당수가 목숨을 잃고 알레포의 역사적 주택 다수가 무너졌다. 여진은 몇 달간 이어졌고 도시는 회복에 수십 년이 걸렸다.",
+    "zh": "1822年8月13日，一场强烈地震摧毁了阿勒颇以及安条克、吉斯尔舒古尔等周边城镇，造成大量居民死亡，阿勒颇的许多历史民居倒塌。余震持续数月，城市花了数十年才得以恢复。",
+    "ja": "1822年8月13日、強い地震がアレッポとアンティオキアやジスル・アッ＝シュグールなど近隣の町を襲い、住民の多くが命を落とし、アレッポの歴史的住宅の多くが倒壊した。余震は数か月続き、都市の復興には数十年を要した。"
+   }
+  },
+  {
+   "year": 1832,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ibrahim Pasha conquers Syria",
+    "ko": "이브라힘 파샤의 시리아 정복",
+    "zh": "易卜拉欣帕夏征服叙利亚",
+    "ja": "イブラーヒーム・パシャのシリア征服"
+   },
+   "description": {
+    "en": "In 1831–1832 Ibrahim Pasha, son of Egypt's Muhammad Ali, invaded Syria, took Acre and Damascus and defeated Ottoman armies at Homs and beyond. Under the Convention of Kütahya (1833) the sultan left Syria to Egyptian administration, which modernised government but provoked revolts against conscription.",
+    "ko": "1831~1832년 이집트 무함마드 알리의 아들 이브라힘 파샤는 시리아를 침공해 아크레와 다마스쿠스를 점령하고 홈스 등지에서 오스만군을 격파했다. 퀴타히아 협정(1833)으로 술탄은 시리아를 이집트의 통치에 맡겼고, 이집트 행정은 통치를 근대화했으나 징병에 반대하는 반란을 불렀다.",
+    "zh": "1831至1832年，埃及穆罕默德·阿里之子易卜拉欣帕夏入侵叙利亚，攻占阿卡和大马士革，并在霍姆斯等地击败奥斯曼军队。根据屈塔希亚协定（1833年），苏丹将叙利亚交由埃及管理，埃及的治理推动了行政现代化，却也因征兵引发叛乱。",
+    "ja": "1831～32年、エジプトのムハンマド・アリーの息子イブラーヒーム・パシャはシリアに侵攻してアッコとダマスカスを奪い、ホムスなどでオスマン軍を破った。キュタヒヤ協定（1833年）でスルタンはシリアをエジプトの統治に委ね、その行政は統治を近代化したが徴兵に反発する反乱を招いた。"
+   }
+  },
+  {
+   "year": 1860,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Damascus massacre of 1860",
+    "ko": "1860년 다마스쿠스 학살",
+    "zh": "1860年大马士革屠杀",
+    "ja": "1860年ダマスカス虐殺"
+   },
+   "description": {
+    "en": "In July 1860, following civil war between Druze and Maronites in Mount Lebanon, mobs attacked the Christian quarter of Damascus, killing thousands and burning churches and homes. The exiled Algerian leader Emir Abd al-Qadir sheltered many Christians; the Ottomans executed officials held responsible, and France sent an expedition to the region.",
+    "ko": "1860년 7월 레바논산에서 드루즈와 마론파 사이에 내전이 벌어진 뒤 폭도들이 다마스쿠스의 그리스도교 구역을 습격해 수천 명을 죽이고 교회와 가옥을 불태웠다. 망명 중이던 알제리 지도자 아미르 압델카데르는 많은 그리스도교도를 보호했고, 오스만 정부는 책임 있는 관리들을 처형했으며 프랑스는 원정군을 파견했다.",
+    "zh": "1860年7月，继黎巴嫩山区德鲁兹派与马龙派之间爆发内战后，暴民袭击大马士革的基督徒街区，杀害数千人，焚毁教堂和民宅。流亡于此的阿尔及利亚领袖埃米尔阿卜杜·卡迪尔庇护了许多基督徒；奥斯曼当局处决了负有责任的官员，法国也向该地区派出远征军。",
+    "ja": "1860年7月、レバノン山地でのドルーズ派とマロン派の内戦に続き、暴徒がダマスカスのキリスト教徒地区を襲い、数千人を殺害し教会や家屋を焼いた。亡命中のアルジェリアの指導者アミール・アブドゥルカーディルは多くのキリスト教徒を保護し、オスマン政府は責任ある官吏を処刑し、フランスは遠征軍を派遣した。"
+   }
+  },
+  {
+   "year": 1865,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Creation of the Vilayet of Syria",
+    "ko": "시리아 주의 설치",
+    "zh": "叙利亚州的设立",
+    "ja": "シリア州の設置"
+   },
+   "description": {
+    "en": "Under the Ottoman Vilayet Law of 1864, the province of Damascus was reorganised in 1865 as the Vilayet of Syria. Tanzimat reforms brought new courts, land registration, schools and telegraph lines, while Beirut and Aleppo became the centres of their own vilayets.",
+    "ko": "1864년 오스만 주법에 따라 다마스쿠스 주는 1865년 시리아 주(빌라예트)로 개편되었다. 탄지마트 개혁으로 새로운 법원·토지 등기·학교·전신선이 들어섰고, 베이루트와 알레포는 각각 별도 주의 중심지가 되었다.",
+    "zh": "根据1864年奥斯曼州法，大马士革省于1865年改组为叙利亚州。坦齐马特改革带来了新式法院、土地登记、学校和电报线路，而贝鲁特和阿勒颇则各自成为独立州的首府。",
+    "ja": "1864年のオスマン州法に基づき、ダマスカス州は1865年にシリア州（ヴィラーエト）に再編された。タンズィマート改革で新しい法廷、土地登記、学校、電信線が整備され、ベイルートとアレッポはそれぞれ別の州の中心となった。"
+   }
+  },
+  {
+   "year": 1908,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Hejaz Railway reaches Medina",
+    "ko": "히자즈 철도의 메디나 개통",
+    "zh": "汉志铁路通达麦地那",
+    "ja": "ヒジャーズ鉄道、メディナに到達"
+   },
+   "description": {
+    "en": "Begun in 1900 under Sultan Abdulhamid II, the Hejaz Railway ran from Damascus through the Hauran and Transjordan to Medina, which it reached in 1908. Financed partly by donations from Muslims worldwide, it shortened the Hajj journey and strengthened Ottoman control, until it was sabotaged during the Arab Revolt.",
+    "ko": "술탄 압뒬하미트 2세 때인 1900년에 착공된 히자즈 철도는 다마스쿠스에서 하우란과 트란스요르단을 거쳐 메디나까지 이어졌으며 1908년 개통되었다. 전 세계 무슬림의 기부로 일부 재원을 마련한 이 철도는 순례 여정을 단축하고 오스만의 통제를 강화했으나, 아랍 반란 때 파괴 공작의 표적이 되었다.",
+    "zh": "汉志铁路于1900年在苏丹阿卜杜勒-哈米德二世时期动工，从大马士革经豪兰和外约旦通往麦地那，1908年全线通车。铁路部分资金来自世界各地穆斯林的捐款，它缩短了朝觐旅程并加强了奥斯曼的控制，直到在阿拉伯起义中遭到破坏。",
+    "ja": "スルタン・アブデュルハミト2世のもと1900年に着工したヒジャーズ鉄道は、ダマスカスからハウランとトランスヨルダンを経てメディナまで延び、1908年に開通した。世界中のムスリムの寄付で一部資金を賄ったこの鉄道は巡礼の旅を短縮しオスマンの支配を強めたが、アラブ反乱の際に破壊工作の標的となった。"
+   }
+  },
+  {
+   "year": 1909,
+   "qid": "Q5682791",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Hauran Druze Rebellion",
+    "ko": "하우란 드루즈 반란",
+    "zh": "豪兰德鲁兹起义",
+    "ja": "ハウラン・ドルーズ反乱"
+   },
+   "description": {
+    "en": "In 1909–1910 Druze clans of the Jabal Hauran rose against Ottoman attempts to impose conscription, taxation and disarmament. The Ottoman army under Sami Pasha al-Farouqi crushed the revolt in 1910, but the mountain's tradition of armed autonomy persisted.",
+    "ko": "1909~1910년 자발 하우란의 드루즈 씨족들은 징병·과세·무장해제를 강요하려는 오스만의 시도에 맞서 봉기했다. 사미 파샤 알파루키가 이끈 오스만군이 1910년 반란을 진압했으나, 이 산악 지대의 무장 자치 전통은 계속 이어졌다.",
+    "zh": "1909至1910年，豪兰山区的德鲁兹氏族起而反抗奥斯曼强行推行征兵、征税和收缴武器的企图。萨米帕夏·法鲁基率领的奥斯曼军队于1910年镇压了起义，但该山区武装自治的传统依然延续。",
+    "ja": "1909～10年、ジャバル・ハウランのドルーズ派諸氏族は、徴兵・課税・武装解除を強いるオスマン帝国の試みに対して蜂起した。サーミー・パシャ・アル＝ファールーキー率いるオスマン軍が1910年に反乱を鎮圧したが、この山地の武装自治の伝統は続いた。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Executions of Arab nationalists",
+    "ko": "아랍 민족주의자 처형",
+    "zh": "处决阿拉伯民族主义者",
+    "ja": "アラブ民族主義者の処刑"
+   },
+   "description": {
+    "en": "On 6 May 1916 the Ottoman governor Jamal Pasha had Arab nationalist leaders publicly hanged in Damascus and Beirut, after earlier executions in 1915; the day is still commemorated as Martyrs' Day in Syria and Lebanon. That year the secret Sykes–Picot agreement assigned Syria to French influence, and the Arab Revolt broke out in the Hejaz.",
+    "ko": "1916년 5월 6일 오스만 총독 제말 파샤는 1915년의 처형에 이어 다마스쿠스와 베이루트에서 아랍 민족주의 지도자들을 공개 교수형에 처했다. 이날은 지금도 시리아와 레바논에서 '순교자의 날'로 기념된다. 같은 해 비밀 협정인 사이크스–피코 협정은 시리아를 프랑스의 영향권으로 정했고, 히자즈에서는 아랍 반란이 일어났다.",
+    "zh": "1916年5月6日，继1915年的处决之后，奥斯曼总督杰马尔帕夏在大马士革和贝鲁特公开绞死了一批阿拉伯民族主义领袖，这一天至今在叙利亚和黎巴嫩被纪念为“烈士日”。同年，秘密的赛克斯-皮科协定将叙利亚划入法国势力范围，汉志则爆发了阿拉伯起义。",
+    "ja": "1916年5月6日、オスマン帝国の総督ジェマル・パシャは1915年の処刑に続き、ダマスカスとベイルートでアラブ民族主義の指導者たちを公開で絞首刑にした。この日は今もシリアとレバノンで「殉教者の日」として記念されている。同年、秘密協定サイクス・ピコ協定はシリアをフランスの勢力圏とし、ヒジャーズではアラブ反乱が勃発した。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": "Q5037002",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Capture of Damascus",
+    "ko": "다마스쿠스 점령",
+    "zh": "攻占大马士革",
+    "ja": "ダマスカス占領"
+   },
+   "description": {
+    "en": "On 1 October 1918 British Empire forces and Arab troops of the Arab Revolt entered Damascus as the Ottoman army retreated; Emir Faisal arrived days later and formed an Arab administration. Aleppo fell later in October, ending four centuries of Ottoman rule in Syria.",
+    "ko": "1918년 10월 1일 오스만군이 퇴각하는 가운데 영국 제국군과 아랍 반란군이 다마스쿠스에 입성했고, 며칠 뒤 도착한 아미르 파이살이 아랍 행정부를 구성했다. 같은 달 하순 알레포도 함락되며 시리아에서 4세기에 걸친 오스만 지배가 끝났다.",
+    "zh": "1918年10月1日，随着奥斯曼军队撤退，英帝国军队和阿拉伯起义部队进入大马士革；数日后埃米尔费萨尔抵达并组建阿拉伯行政当局。10月下旬阿勒颇亦告陷落，奥斯曼在叙利亚长达四个世纪的统治宣告结束。",
+    "ja": "1918年10月1日、オスマン軍が退却する中、大英帝国軍とアラブ反乱軍がダマスカスに入城し、数日後に到着したアミール・ファイサルがアラブ行政府を組織した。10月下旬にはアレッポも陥落し、シリアにおける4世紀に及ぶオスマン支配は終わった。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": "Q994316",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Arab Kingdom of Syria and the French Mandate",
+    "ko": "시리아 아랍 왕국과 프랑스 위임통치",
+    "zh": "叙利亚阿拉伯王国与法国委任统治",
+    "ja": "シリア・アラブ王国とフランス委任統治"
+   },
+   "description": {
+    "en": "Syrians proclaimed an independent Arab kingdom under Faisal, but French troops defeated its forces at Maysalun and imposed a League of Nations mandate, dividing the territory into statelets.",
+    "ko": "시리아인들은 파이살을 국왕으로 독립 아랍 왕국을 선포했으나, 프랑스군이 마이살룬 전투에서 이를 무너뜨리고 국제연맹 위임통치를 실시하며 영토를 여러 소국으로 분할했다.",
+    "zh": "叙利亚人拥立费萨尔为王，宣布成立独立的阿拉伯王国，但法军在迈萨隆战役中将其击败，随后实行国际联盟委任统治，并将领土分割为若干小邦。",
+    "ja": "シリア人はファイサルを国王に独立アラブ王国を宣言したが、フランス軍はマイサルーンの戦いでこれを打倒し、国際連盟の委任統治を敷いて領土を複数の小国家に分割した。"
+   }
+  },
+  {
+   "year": 1925,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Great Syrian Revolt",
+    "ko": "시리아 대반란",
+    "zh": "叙利亚大起义",
+    "ja": "シリア大反乱"
+   },
+   "description": {
+    "en": "In July 1925 Druze fighters under Sultan al-Atrash rose against French rule in Jabal al-Druze, defeating French columns at al-Kafr and al-Mazraa; the revolt spread to Damascus, Hama and the countryside. French forces bombarded Damascus in October 1925 and crushed the uprising by 1927, but it became a founding moment of Syrian nationalism.",
+    "ko": "1925년 7월 술탄 알아트라시가 이끄는 드루즈 전사들이 자발 알드루즈에서 프랑스 지배에 맞서 봉기해 알카프르와 알마즈라아에서 프랑스군을 격파했고, 반란은 다마스쿠스·하마와 농촌으로 번졌다. 프랑스군은 1925년 10월 다마스쿠스를 포격하고 1927년까지 봉기를 진압했으나, 이 반란은 시리아 민족주의의 출발점이 되었다.",
+    "zh": "1925年7月，苏尔坦·阿特拉什率领德鲁兹战士在德鲁兹山起义反抗法国统治，在卡夫尔和马兹拉阿击败法军纵队，起义随即蔓延至大马士革、哈马和乡村。法军于1925年10月炮轰大马士革，至1927年将起义镇压，但这场起义成为叙利亚民族主义的奠基时刻。",
+    "ja": "1925年7月、スルターン・アル＝アトラシュ率いるドルーズ派の戦士がジャバル・アッ＝ドルーズでフランスの支配に対して蜂起し、カフルとマズラアでフランス軍部隊を破った。反乱はダマスカスやハマ、農村部に広がった。フランス軍は1925年10月にダマスカスを砲撃し、1927年までに鎮圧したが、この反乱はシリア民族主義の原点となった。"
+   }
+  },
+  {
+   "year": 1936,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Franco-Syrian Treaty of Independence",
+    "ko": "프랑스–시리아 독립 조약",
+    "zh": "法叙独立条约",
+    "ja": "仏シリア独立条約"
+   },
+   "description": {
+    "en": "After a 50-day general strike in early 1936, the French government negotiated a treaty promising Syrian independence within a few years, and nationalist leader Hashim al-Atassi was elected president. The French parliament never ratified the treaty, deepening Syrian distrust of the mandate.",
+    "ko": "1936년 초 50일간의 총파업 끝에 프랑스 정부는 몇 년 안에 시리아의 독립을 약속하는 조약을 협상했고, 민족주의 지도자 하심 알아타시가 대통령에 선출되었다. 그러나 프랑스 의회는 끝내 조약을 비준하지 않아 위임통치에 대한 시리아인의 불신이 깊어졌다.",
+    "zh": "1936年初经过50天的总罢工，法国政府谈判达成一项承诺数年内让叙利亚独立的条约，民族主义领袖哈希姆·阿塔西当选总统。但法国议会始终没有批准该条约，加深了叙利亚人对委任统治的不信任。",
+    "ja": "1936年初めの50日間のゼネストを経て、フランス政府は数年以内のシリア独立を約束する条約を交渉し、民族主義指導者ハーシム・アル＝アターシーが大統領に選ばれた。しかしフランス議会は条約を批准せず、委任統治へのシリア人の不信は深まった。"
+   }
+  },
+  {
+   "year": 1939,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Alexandretta ceded to Turkey",
+    "ko": "알렉산드레타의 튀르키예 할양",
+    "zh": "亚历山大勒塔割让给土耳其",
+    "ja": "アレクサンドレッタのトルコへの割譲"
+   },
+   "description": {
+    "en": "In 1938 the Sanjak of Alexandretta became the autonomous Hatay State, and in June 1939 France allowed Turkey to annex it, hoping to secure Turkish neutrality on the eve of the Second World War. Syrian nationalists condemned the cession, and Syrian governments long refused to recognise it, making the province of Hatay a lasting point of contention.",
+    "ko": "1938년 알렉산드레타 산자크는 자치 하타이국이 되었고, 1939년 6월 프랑스는 제2차 세계대전 직전 튀르키예의 중립을 확보하려 튀르키예의 병합을 허용했다. 시리아 민족주의자들은 이 할양을 규탄했고 시리아 정부들은 오랫동안 이를 인정하지 않아, 하타이 지방은 지속적인 논쟁거리가 되었다.",
+    "zh": "1938年亚历山大勒塔区成为自治的哈塔伊国，1939年6月法国为在二战前夕争取土耳其中立，允许土耳其将其吞并。叙利亚民族主义者谴责此次割让，历届叙利亚政府长期不予承认，使哈塔伊省成为持久的争议焦点。",
+    "ja": "1938年、アレクサンドレッタ県は自治的なハタイ国となり、1939年6月、フランスは第二次世界大戦前夜にトルコの中立を確保しようとトルコによる併合を認めた。シリアの民族主義者はこの割譲を非難し、歴代シリア政府は長くこれを承認せず、ハタイ地方は根強い係争点となった。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q4671621",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Allied campaign in Syria",
+    "ko": "연합군의 시리아 전역",
+    "zh": "盟军叙利亚战役",
+    "ja": "連合軍のシリア作戦"
+   },
+   "description": {
+    "en": "In June–July 1941 British, Commonwealth and Free French forces invaded Vichy French-controlled Syria and Lebanon to deny them to Germany, taking Damascus on 21 June. In September the Free French formally proclaimed Syrian independence, though real power remained with France until 1946.",
+    "ko": "1941년 6~7월 영국·영연방·자유 프랑스군은 독일의 이용을 막기 위해 비시 프랑스가 장악한 시리아와 레바논을 침공해 6월 21일 다마스쿠스를 점령했다. 같은 해 9월 자유 프랑스는 시리아의 독립을 공식 선포했지만, 실권은 1946년까지 프랑스에 있었다.",
+    "zh": "1941年6月至7月，英国、英联邦和自由法国军队为阻止德国利用叙利亚和黎巴嫩，进攻维希法国控制下的两地，并于6月21日攻占大马士革。同年9月，自由法国正式宣布叙利亚独立，但实权直到1946年仍掌握在法国手中。",
+    "ja": "1941年6～7月、イギリス・英連邦・自由フランス軍は、ドイツによる利用を阻むためヴィシー・フランス支配下のシリアとレバノンに侵攻し、6月21日にダマスカスを占領した。同年9月、自由フランスはシリアの独立を正式に宣言したが、実権は1946年までフランスが握り続けた。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Arab League, United Nations and the Levant Crisis",
+    "ko": "아랍 연맹·유엔 가입과 레반트 위기",
+    "zh": "阿拉伯联盟、联合国与黎凡特危机",
+    "ja": "アラブ連盟・国連とレヴァント危機"
+   },
+   "description": {
+    "en": "In 1945 Syria became a founding member of both the Arab League and the United Nations. When France tried to keep special privileges, protests erupted and French forces shelled Damascus, including the parliament building, in May 1945; British intervention and international pressure forced France to agree to withdraw.",
+    "ko": "1945년 시리아는 아랍 연맹과 유엔의 창립 회원국이 되었다. 프랑스가 특권을 유지하려 하자 시위가 일어났고, 1945년 5월 프랑스군은 의사당을 포함한 다마스쿠스를 포격했다. 영국의 개입과 국제적 압력으로 프랑스는 철수에 동의할 수밖에 없었다.",
+    "zh": "1945年，叙利亚成为阿拉伯联盟和联合国的创始会员国。法国企图保留特权，引发抗议，1945年5月法军炮轰大马士革，连议会大楼也遭波及；在英国干预和国际压力下，法国被迫同意撤军。",
+    "ja": "1945年、シリアはアラブ連盟と国際連合の原加盟国となった。フランスが特権を維持しようとすると抗議が起こり、1945年5月にフランス軍は議事堂を含むダマスカスを砲撃した。イギリスの介入と国際的圧力により、フランスは撤退に同意せざるを得なかった。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence of Syria",
+    "ko": "시리아 독립",
+    "zh": "叙利亚独立",
+    "ja": "シリア独立"
+   },
+   "description": {
+    "en": "The last French troops withdrew on 17 April 1946, completing Syria's independence. Evacuation Day remains the national holiday of the Syrian republic.",
+    "ko": "1946년 4월 17일 마지막 프랑스군이 철수하며 시리아의 독립이 완성되었다. 이날은 '철군 기념일'로서 시리아의 국경일로 지켜지고 있다.",
+    "zh": "1946年4月17日，最后一批法军撤离，叙利亚正式完成独立。这一天被定为“撤军日”，至今仍是叙利亚的国庆纪念日。",
+    "ja": "1946年4月17日、最後のフランス軍が撤退し、シリアの独立が完成した。この日は「撤退記念日」としてシリアの国民的祝日となっている。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the Ba'ath Party",
+    "ko": "바트당 창당",
+    "zh": "复兴党成立",
+    "ja": "バアス党の結成"
+   },
+   "description": {
+    "en": "In April 1947 the Arab Ba'ath ('Renaissance') Party held its founding congress in Damascus under the Damascene schoolteachers Michel Aflaq and Salah al-Din al-Bitar. Its creed of Arab unity, freedom and socialism attracted students, officers and minorities, and the party later merged with Akram al-Hawrani's Arab Socialist Party.",
+    "ko": "1947년 4월 다마스쿠스 출신 교사 미셸 아플라크와 살라흐 앗딘 알비타르가 이끄는 아랍 바트('부흥')당이 다마스쿠스에서 창당 대회를 열었다. 아랍 통일·자유·사회주의를 내건 이 당은 학생·장교·소수 집단의 지지를 얻었고, 훗날 아크람 알하우라니의 아랍 사회당과 통합했다.",
+    "zh": "1947年4月，由大马士革教师米歇尔·阿弗拉克和萨拉赫丁·比塔尔领导的阿拉伯复兴党在大马士革召开成立大会。该党以阿拉伯统一、自由和社会主义为信条，吸引了学生、军官和少数群体，后来又与阿克拉姆·胡拉尼的阿拉伯社会党合并。",
+    "ja": "1947年4月、ダマスカス出身の教師ミシェル・アフラクとサラーフッディーン・ビータールが率いるアラブ・バアス（「復興」）党がダマスカスで結党大会を開いた。アラブの統一・自由・社会主義を掲げた同党は学生、将校、少数派の支持を集め、のちにアクラム・ハウラーニーのアラブ社会党と合同した。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "1948 Arab–Israeli War",
+    "ko": "1948년 아랍–이스라엘 전쟁",
+    "zh": "1948年阿以战争",
+    "ja": "1948年第一次中東戦争"
+   },
+   "description": {
+    "en": "Syria joined other Arab states in attacking the newly declared State of Israel in May 1948. Its army made only limited gains near the Sea of Galilee, and the 1949 armistice created demilitarised zones along the border. The defeat discredited Syria's civilian leaders and opened the way for military coups.",
+    "ko": "1948년 5월 시리아는 다른 아랍 국가들과 함께 갓 독립을 선포한 이스라엘을 공격했다. 시리아군은 갈릴리호 부근에서 제한적인 성과를 거두는 데 그쳤고, 1949년 휴전 협정으로 국경을 따라 비무장지대가 설정되었다. 패배는 시리아 민간 지도자들의 권위를 실추시키고 군사 쿠데타의 길을 열었다.",
+    "zh": "1948年5月，叙利亚与其他阿拉伯国家一道进攻刚刚宣布建国的以色列。叙军仅在加利利海附近取得有限进展，1949年的停战协定沿边界划定了非军事区。这场失败使叙利亚文官领导人威信扫地，为军事政变打开了大门。",
+    "ja": "1948年5月、シリアは他のアラブ諸国とともに独立を宣言したばかりのイスラエルを攻撃した。シリア軍はガリラヤ湖付近で限られた戦果を挙げたにとどまり、1949年の休戦協定で国境沿いに非武装地帯が設けられた。敗北はシリアの文民指導者の権威を失墜させ、軍事クーデターへの道を開いた。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Three military coups",
+    "ko": "세 차례의 군사 쿠데타",
+    "zh": "三次军事政变",
+    "ja": "3度の軍事クーデター"
+   },
+   "description": {
+    "en": "In 1949 Syria experienced three coups: Colonel Husni al-Za'im overthrew President al-Quwatli in March, Sami al-Hinnawi ousted and executed Za'im in August, and Adib Shishakli seized power in December. The army thereby became the decisive force in Syrian politics.",
+    "ko": "1949년 시리아에서는 세 차례 쿠데타가 일어났다. 3월 후스니 알자임 대령이 쿠와틀리 대통령을 몰아냈고, 8월 사미 알힌나위가 자임을 축출해 처형했으며, 12월 아디브 시샤클리가 권력을 잡았다. 이로써 군부는 시리아 정치의 결정적 세력이 되었다.",
+    "zh": "1949年叙利亚接连发生三次政变：3月胡斯尼·扎伊姆上校推翻库阿特利总统，8月萨米·欣纳维推翻并处决扎伊姆，12月阿迪卜·希沙克利夺取权力。军队由此成为叙利亚政治中的决定性力量。",
+    "ja": "1949年、シリアでは3度のクーデターが起きた。3月にフスニー・ザイーム大佐がクワトリー大統領を倒し、8月にサーミー・ヒンナーウィーがザイームを追放・処刑し、12月にはアディーブ・シーシャクリーが権力を握った。こうして軍はシリア政治の決定的な勢力となった。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": "Q3604457",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Fall of Shishakli",
+    "ko": "시샤클리의 몰락",
+    "zh": "希沙克利倒台",
+    "ja": "シーシャクリーの失脚"
+   },
+   "description": {
+    "en": "Facing a Druze revolt, opposition parties and army mutinies, the military ruler Adib Shishakli resigned and fled the country in February 1954. Parliamentary government was restored, and the following years saw growing influence of the Ba'athists and Communists amid Cold War rivalry.",
+    "ko": "드루즈 반란과 야당, 군 내부 반란에 직면한 군사 통치자 아디브 시샤클리는 1954년 2월 사임하고 국외로 도피했다. 의회 정치가 회복되었고, 이후 냉전 경쟁 속에서 바트당과 공산당의 영향력이 커졌다.",
+    "zh": "面对德鲁兹起义、反对党和军队哗变，军事统治者阿迪卜·希沙克利于1954年2月辞职出逃。议会政治得以恢复，此后数年间，在冷战角逐中复兴党人和共产党人的影响力不断扩大。",
+    "ja": "ドルーズ派の反乱、野党、軍内の反乱に直面した軍事支配者アディーブ・シーシャクリーは1954年2月に辞任して国外へ逃れた。議会政治が回復し、その後の冷戦下の競合の中でバアス党と共産党の影響力が強まった。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": "Q170468",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Union with Egypt: the United Arab Republic",
+    "ko": "이집트와의 통합: 아랍 연합 공화국",
+    "zh": "与埃及合并：阿拉伯联合共和国",
+    "ja": "エジプトとの合邦：アラブ連合共和国"
+   },
+   "description": {
+    "en": "On 1 February 1958 Syria and Egypt proclaimed the United Arab Republic under Gamal Abdel Nasser, after Syrian officers and the Ba'ath Party sought union to counter communist influence and foreign pressure. Syria became the 'Northern Region' of a centralised state run from Cairo.",
+    "ko": "1958년 2월 1일, 공산주의 세력과 외세의 압력에 맞서려는 시리아 장교들과 바트당의 요청으로 시리아와 이집트는 가말 압델 나세르 아래 아랍 연합 공화국을 선포했다. 시리아는 카이로가 통치하는 중앙집권 국가의 '북부 지역'이 되었다.",
+    "zh": "1958年2月1日，在叙利亚军官和复兴党为抵御共产主义影响和外部压力而寻求合并之后，叙利亚与埃及在纳赛尔领导下宣布成立阿拉伯联合共和国。叙利亚成为由开罗统治的中央集权国家的“北方区”。",
+    "ja": "1958年2月1日、共産主義の影響と外圧に対抗するため合邦を求めたシリア将校団とバアス党の働きかけで、シリアとエジプトはナーセルのもとにアラブ連合共和国を宣言した。シリアはカイロが統治する中央集権国家の「北部地域」となった。"
+   }
+  },
+  {
+   "year": 1961,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Syria secedes from the UAR",
+    "ko": "시리아의 아랍 연합 공화국 탈퇴",
+    "zh": "叙利亚退出阿联",
+    "ja": "シリアのアラブ連合共和国離脱"
+   },
+   "description": {
+    "en": "On 28 September 1961 Syrian army officers in Damascus staged a coup and declared Syria's secession from the United Arab Republic. Resentment at Egyptian domination, nationalisations and the suppression of Syrian parties had eroded support for the union.",
+    "ko": "1961년 9월 28일 다마스쿠스의 시리아 장교들이 쿠데타를 일으켜 아랍 연합 공화국 탈퇴를 선언했다. 이집트의 지배, 국유화, 시리아 정당 탄압에 대한 반감이 연합에 대한 지지를 무너뜨린 결과였다.",
+    "zh": "1961年9月28日，大马士革的叙利亚军官发动政变，宣布叙利亚退出阿拉伯联合共和国。对埃及主导、国有化政策和压制叙利亚政党的不满，早已侵蚀了民众对联合的支持。",
+    "ja": "1961年9月28日、ダマスカスのシリア軍将校がクーデターを起こし、アラブ連合共和国からの離脱を宣言した。エジプトの支配や国有化、シリアの政党弾圧への反発が、連合への支持を失わせていた。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Ba'athist coup of 8 March",
+    "ko": "3월 8일 바트당 쿠데타",
+    "zh": "“三八”复兴党政变",
+    "ja": "3月8日のバアス党クーデター"
+   },
+   "description": {
+    "en": "On 8 March 1963 a military committee of Ba'athist, Nasserist and independent officers seized power in Damascus. The Ba'athists soon purged their partners, declared a state of emergency that would last until 2011, and established one-party rule.",
+    "ko": "1963년 3월 8일 바트당·나세르주의·무소속 장교들로 구성된 군사위원회가 다마스쿠스에서 권력을 장악했다. 바트당은 곧 협력 세력을 숙청하고 2011년까지 이어질 비상사태를 선포했으며 일당 지배 체제를 세웠다.",
+    "zh": "1963年3月8日，由复兴党人、纳赛尔派和无党派军官组成的军事委员会在大马士革夺取政权。复兴党人随即清洗了合作伙伴，宣布实施一直持续到2011年的紧急状态，并建立一党统治。",
+    "ja": "1963年3月8日、バアス党系・ナーセル派・無所属の将校からなる軍事委員会がダマスカスで権力を掌握した。バアス党はまもなく協力者を粛清し、2011年まで続く非常事態を宣言して一党支配を確立した。"
+   }
+  },
+  {
+   "year": 1966,
+   "qid": "Q3560385",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Neo-Ba'athist coup",
+    "ko": "신바트파 쿠데타",
+    "zh": "新复兴党人政变",
+    "ja": "ネオ・バアス派のクーデター"
+   },
+   "description": {
+    "en": "In February 1966 a radical military faction led by Salah Jadid, with Hafez al-Assad as an ally, overthrew the party's founding leadership. Michel Aflaq and Salah al-Bitar went into exile, splitting the Ba'ath movement into rival Syrian and Iraqi branches.",
+    "ko": "1966년 2월 하페즈 알아사드와 손잡은 살라흐 자디드 중심의 급진 군부 파벌이 당의 창립 지도부를 무너뜨렸다. 미셸 아플라크와 살라흐 알비타르는 망명했고, 바트 운동은 서로 적대하는 시리아파와 이라크파로 갈라졌다.",
+    "zh": "1966年2月，以萨拉赫·贾迪德为首、哈菲兹·阿萨德为盟友的激进军人派系推翻了复兴党的创党领导层。米歇尔·阿弗拉克和萨拉赫·比塔尔流亡海外，复兴党运动由此分裂为相互敌对的叙利亚派和伊拉克派。",
+    "ja": "1966年2月、ハーフィズ・アル＝アサドと組んだサラーフ・ジャディード中心の急進的な軍人派閥が党の創設指導部を倒した。ミシェル・アフラクとサラーフッディーン・ビータールは亡命し、バアス運動は対立するシリア派とイラク派に分裂した。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Six-Day War and the loss of the Golan",
+    "ko": "6일 전쟁과 골란고원 상실",
+    "zh": "六日战争与失去戈兰高地",
+    "ja": "第三次中東戦争とゴラン高原の喪失"
+   },
+   "description": {
+    "en": "In June 1967 Israel defeated Egypt, Jordan and Syria, and in the final days of the war captured the Golan Heights, including the town of Quneitra. Most of the Syrian population of the area was displaced. The Golan has remained under Israeli control ever since, while the UN and most states regard it as occupied Syrian territory.",
+    "ko": "1967년 6월 이스라엘은 이집트·요르단·시리아를 격파하고 전쟁 막바지에 쿠네이트라를 포함한 골란고원을 점령했다. 이 지역 시리아 주민 대부분이 삶의 터전을 잃었다. 골란고원은 이후 줄곧 이스라엘의 통제 아래 있으며, 유엔과 대다수 국가는 이를 점령된 시리아 영토로 본다.",
+    "zh": "1967年6月，以色列击败埃及、约旦和叙利亚，并在战争最后几天占领包括库奈特拉镇在内的戈兰高地，当地大部分叙利亚居民流离失所。此后戈兰高地一直处于以色列控制之下，而联合国和大多数国家视其为被占领的叙利亚领土。",
+    "ja": "1967年6月、イスラエルはエジプト、ヨルダン、シリアを破り、戦争の最終盤にクネイトラの町を含むゴラン高原を占領した。この地域のシリア人住民の大半は住まいを追われた。ゴラン高原はそれ以来イスラエルの支配下にあり、国連と大多数の国はこれを占領されたシリア領とみなしている。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hafez al-Assad seizes power",
+    "ko": "하페즈 알아사드 집권",
+    "zh": "哈菲兹·阿萨德掌权",
+    "ja": "ハーフィズ・アル=アサドの権力掌握"
+   },
+   "description": {
+    "en": "Defence minister Hafez al-Assad took power in a bloodless coup within the ruling Ba'ath Party, beginning three decades of authoritarian rule. His son Bashar succeeded him in 2000.",
+    "ko": "국방장관 하페즈 알아사드가 집권 바트당 내 무혈 쿠데타로 권력을 장악하며 30년에 걸친 권위주의 통치를 시작했다. 2000년에는 아들 바샤르가 권력을 승계했다.",
+    "zh": "国防部长哈菲兹·阿萨德通过执政复兴党内部的不流血政变夺取政权，开始了长达三十年的威权统治。2000年，其子巴沙尔继任总统。",
+    "ja": "国防相ハーフィズ・アル=アサドが与党バアス党内の無血クーデターで実権を握り、30年に及ぶ権威主義体制を敷いた。2000年には息子のバッシャールが権力を継承した。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "October War",
+    "ko": "10월 전쟁(욤 키푸르 전쟁)",
+    "zh": "十月战争（赎罪日战争）",
+    "ja": "第四次中東戦争"
+   },
+   "description": {
+    "en": "On 6 October 1973 Syria and Egypt launched a coordinated attack on Israel. Syrian forces initially advanced deep into the Golan and seized the Israeli post on Mount Hermon, but Israeli counter-attacks pushed them back beyond the 1967 lines toward Damascus before a ceasefire. Assad's regime nonetheless presented the war as a restoration of Arab honour.",
+    "ko": "1973년 10월 6일 시리아와 이집트는 이스라엘을 동시에 공격했다. 시리아군은 처음에 골란고원 깊숙이 진격하고 헤르몬산의 이스라엘 초소를 빼앗았으나, 이스라엘의 반격으로 휴전 전까지 1967년 선 너머 다마스쿠스 방향으로 밀려났다. 그럼에도 아사드 정권은 이 전쟁을 아랍의 명예 회복으로 선전했다.",
+    "zh": "1973年10月6日，叙利亚和埃及对以色列发动协同进攻。叙军起初深入戈兰高地并夺取以军在黑门山的据点，但以色列的反击在停火前将其逼退至1967年停火线以东、向大马士革方向推进。尽管如此，阿萨德政权仍将这场战争宣传为恢复阿拉伯荣誉之战。",
+    "ja": "1973年10月6日、シリアとエジプトはイスラエルに同時攻撃をかけた。シリア軍は当初ゴラン高原深くまで進撃しヘルモン山のイスラエル拠点を奪ったが、イスラエルの反撃で停戦までに1967年の線を越えてダマスカス方面へ押し戻された。それでもアサド政権はこの戦争をアラブの名誉回復として宣伝した。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Golan disengagement agreement",
+    "ko": "골란 병력 분리 협정",
+    "zh": "戈兰脱离接触协议",
+    "ja": "ゴラン兵力引き離し協定"
+   },
+   "description": {
+    "en": "Through US Secretary of State Henry Kissinger's shuttle diplomacy, Syria and Israel signed a disengagement agreement in May 1974. Israel withdrew from the territory taken in 1973 and from the largely destroyed town of Quneitra, and a UN force (UNDOF) was deployed in a buffer zone that held for decades.",
+    "ko": "미국 국무장관 헨리 키신저의 왕복 외교로 시리아와 이스라엘은 1974년 5월 병력 분리 협정을 맺었다. 이스라엘은 1973년 점령지와 거의 파괴된 쿠네이트라에서 철수했고, 유엔군(UNDOF)이 완충지대에 배치되어 수십 년간 유지되었다.",
+    "zh": "在美国国务卿基辛格的穿梭外交下，叙利亚与以色列于1974年5月签署脱离接触协议。以色列撤出1973年占领的地区和几乎被毁的库奈特拉镇，联合国部队（观察员部队）进驻缓冲区，此后数十年保持稳定。",
+    "ja": "アメリカのキッシンジャー国務長官のシャトル外交により、シリアとイスラエルは1974年5月に兵力引き離し協定を結んだ。イスラエルは1973年の占領地とほぼ破壊されたクネイトラの町から撤退し、国連兵力引き離し監視軍（UNDOF）が緩衝地帯に展開して、その状態は数十年続いた。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Syrian intervention in Lebanon",
+    "ko": "시리아의 레바논 개입",
+    "zh": "叙利亚出兵黎巴嫩",
+    "ja": "シリアのレバノン介入"
+   },
+   "description": {
+    "en": "In 1976 Syrian troops entered Lebanon during its civil war, later forming the bulk of an Arab Deterrent Force. Syria remained the dominant military and political power in Lebanon for nearly three decades, until its withdrawal in 2005.",
+    "ko": "1976년 시리아군은 내전 중인 레바논에 진입했고, 이후 아랍 억지군의 주력을 이루었다. 시리아는 2005년 철수할 때까지 약 30년 동안 레바논에서 지배적인 군사·정치 세력으로 남았다.",
+    "zh": "1976年，叙利亚军队在黎巴嫩内战期间进入黎巴嫩，后来构成阿拉伯威慑部队的主力。此后近三十年，叙利亚一直是黎巴嫩占主导地位的军事和政治力量，直到2005年撤军。",
+    "ja": "1976年、シリア軍は内戦下のレバノンに進駐し、のちにアラブ抑止軍の主力となった。シリアは2005年に撤退するまで約30年間、レバノンで支配的な軍事・政治勢力であり続けた。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q4716189",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Aleppo Artillery School massacre",
+    "ko": "알레포 포병학교 학살",
+    "zh": "阿勒颇炮兵学校屠杀",
+    "ja": "アレッポ砲兵学校虐殺"
+   },
+   "description": {
+    "en": "In June 1979 Islamist gunmen killed dozens of cadets, most of them Alawites, at the Aleppo Artillery School. The attack escalated an armed Islamist insurgency against the Ba'athist government, which responded in 1980 by making membership of the Muslim Brotherhood a capital offence.",
+    "ko": "1979년 6월 이슬람주의 무장대원들이 알레포 포병학교에서 대부분 알라위파인 생도 수십 명을 살해했다. 이 공격은 바트당 정부에 대한 이슬람주의 무장 봉기를 격화시켰고, 정부는 1980년 무슬림 형제단 가입을 사형에 처할 수 있는 범죄로 규정하며 대응했다.",
+    "zh": "1979年6月，伊斯兰主义枪手在阿勒颇炮兵学校杀害了数十名学员，其中大多数为阿拉维派。此次袭击使针对复兴党政府的伊斯兰主义武装叛乱升级，政府则于1980年将加入穆斯林兄弟会定为死罪作为回应。",
+    "ja": "1979年6月、イスラム主義の武装集団がアレッポ砲兵学校で、大半がアラウィー派の士官候補生数十人を殺害した。この襲撃はバアス党政府に対するイスラム主義の武装蜂起を激化させ、政府は1980年にムスリム同胞団への加入を死刑に値する罪とすることで応じた。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Israel's Golan Heights Law",
+    "ko": "이스라엘의 골란고원법",
+    "zh": "以色列《戈兰高地法》",
+    "ja": "イスラエルのゴラン高原法"
+   },
+   "description": {
+    "en": "In December 1981 Israel's Knesset passed a law applying Israeli law and administration to the Golan Heights, amounting to de facto annexation. The UN Security Council declared the move 'null and void' in Resolution 497; most states continue to regard the Golan as occupied Syrian territory, although the United States recognised Israeli sovereignty in 2019.",
+    "ko": "1981년 12월 이스라엘 크네세트는 골란고원에 이스라엘의 법률과 행정을 적용하는 법을 통과시켜 사실상 병합했다. 유엔 안전보장이사회는 결의 497호로 이 조치를 '무효'로 선언했으며, 대다수 국가는 여전히 골란을 점령된 시리아 영토로 보지만 미국은 2019년 이스라엘의 주권을 인정했다.",
+    "zh": "1981年12月，以色列议会通过法律，将以色列的法律和行政管辖扩展至戈兰高地，实际上将其吞并。联合国安理会第497号决议宣布此举“无效”；大多数国家仍视戈兰为被占领的叙利亚领土，但美国于2019年承认了以色列的主权。",
+    "ja": "1981年12月、イスラエル国会はゴラン高原にイスラエルの法と行政を適用する法律を可決し、事実上併合した。国連安全保障理事会は決議497でこれを「無効」と宣言し、大多数の国は今もゴランを占領下のシリア領とみなしているが、アメリカは2019年にイスラエルの主権を承認した。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": "Q730878",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Hama massacre",
+    "ko": "하마 학살",
+    "zh": "哈马屠杀",
+    "ja": "ハマー虐殺"
+   },
+   "description": {
+    "en": "In February 1982 the Muslim Brotherhood launched an uprising in Hama, and the government responded with a month-long siege and bombardment by army and special forces. Large parts of the old city were destroyed and thousands were killed — estimates range from several thousand to tens of thousands — crushing organised Islamist opposition for a generation.",
+    "ko": "1982년 2월 무슬림 형제단이 하마에서 봉기하자 정부는 군과 특수부대를 동원해 한 달간 포위·포격으로 대응했다. 구시가지 상당 부분이 파괴되고 수천 명—추정치는 수천에서 수만 명까지 다양하다—이 목숨을 잃었으며, 조직적 이슬람주의 반대 세력은 한 세대 동안 궤멸되었다.",
+    "zh": "1982年2月，穆斯林兄弟会在哈马发动起义，政府出动军队和特种部队进行长达一个月的围困和轰炸。老城大片被毁，数千人遇难——估计从数千到数万不等——有组织的伊斯兰主义反对派在此后一代人的时间里被彻底压制。",
+    "ja": "1982年2月、ムスリム同胞団がハマーで蜂起すると、政府は軍と特殊部隊による1か月に及ぶ包囲と砲撃で応じた。旧市街の大部分が破壊され、数千人（推計は数千人から数万人まで幅がある）が死亡し、組織的なイスラム主義反対勢力は一世代にわたり壊滅した。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": "Q4116857",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Bashar al-Assad succeeds his father",
+    "ko": "바샤르 알아사드의 권력 승계",
+    "zh": "巴沙尔·阿萨德继承父位",
+    "ja": "バッシャール・アル＝アサドの権力継承"
+   },
+   "description": {
+    "en": "After Hafez al-Assad died in June 2000, parliament lowered the constitutional minimum age for the presidency so that his son Bashar could succeed him, and he was confirmed in a referendum. A brief 'Damascus Spring' of political salons and calls for reform was suppressed in 2001.",
+    "ko": "2000년 6월 하페즈 알아사드가 사망하자 의회는 아들 바샤르가 뒤를 이을 수 있도록 헌법상 대통령 최소 연령을 낮췄고, 바샤르는 국민투표로 승인되었다. 정치 살롱과 개혁 요구가 꽃핀 짧은 '다마스쿠스의 봄'은 2001년 탄압되었다.",
+    "zh": "2000年6月哈菲兹·阿萨德去世后，议会降低了宪法规定的总统最低年龄，使其子巴沙尔得以继位，并经全民公投确认。以政治沙龙和改革呼声为标志的短暂“大马士革之春”于2001年遭到压制。",
+    "ja": "2000年6月にハーフィズ・アル＝アサドが死去すると、議会は息子バッシャールが後継できるよう憲法上の大統領の最低年齢を引き下げ、彼は国民投票で承認された。政治サロンや改革要求が花開いた短い「ダマスカスの春」は2001年に弾圧された。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Withdrawal from Lebanon",
+    "ko": "레바논에서의 철수",
+    "zh": "从黎巴嫩撤军",
+    "ja": "レバノンからの撤退"
+   },
+   "description": {
+    "en": "The assassination of former Lebanese prime minister Rafic Hariri in February 2005, which many Lebanese blamed on Damascus, triggered mass protests known as the Cedar Revolution and strong international pressure. Syria withdrew its remaining troops from Lebanon by April 2005, ending 29 years of military presence.",
+    "ko": "2005년 2월 많은 레바논인이 시리아의 소행으로 지목한 라피크 하리리 전 레바논 총리 암살 사건은 '백향목 혁명'으로 불린 대규모 시위와 강력한 국제적 압력을 불러왔다. 시리아는 2005년 4월까지 레바논에 남아 있던 병력을 철수해 29년간의 군사 주둔을 끝냈다.",
+    "zh": "2005年2月，黎巴嫩前总理拉菲克·哈里里遇刺，许多黎巴嫩人将矛头指向大马士革，由此引发被称为“雪松革命”的大规模抗议和强大的国际压力。叙利亚于2005年4月前撤出驻黎巴嫩的剩余部队，结束了长达29年的军事存在。",
+    "ja": "2005年2月、多くのレバノン人がシリアの関与を疑ったラフィーク・ハリーリー元首相の暗殺は、「杉の革命」と呼ばれる大規模デモと強い国際的圧力を引き起こした。シリアは2005年4月までにレバノンに残る部隊を撤退させ、29年に及ぶ軍事駐留を終えた。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Israeli strike on the Al Kibar facility",
+    "ko": "이스라엘의 알키바르 시설 공습",
+    "zh": "以色列空袭基巴尔设施",
+    "ja": "イスラエルによるアル・キバール施設空爆"
+   },
+   "description": {
+    "en": "In September 2007 Israeli aircraft destroyed a building at Al Kibar in Deir ez-Zor province that the International Atomic Energy Agency later assessed was very likely a nuclear reactor under construction. Syria denied it was a nuclear site; Israel officially acknowledged the strike only in 2018.",
+    "ko": "2007년 9월 이스라엘 공군기가 데리조르주 알키바르의 한 건물을 파괴했는데, 국제원자력기구는 이후 이것이 건설 중인 원자로였을 가능성이 매우 높다고 평가했다. 시리아는 핵 시설임을 부인했고, 이스라엘은 2018년에야 공습을 공식 인정했다.",
+    "zh": "2007年9月，以色列战机摧毁了代尔祖尔省基巴尔的一座建筑，国际原子能机构后来评估认为它很可能是一座在建的核反应堆。叙利亚否认那是核设施，以色列直到2018年才正式承认实施了空袭。",
+    "ja": "2007年9月、イスラエル軍機はデリゾール県アル・キバールの建物を破壊した。国際原子力機関はのちに、それが建設中の原子炉であった可能性が非常に高いと評価した。シリアは核施設であることを否定し、イスラエルが空爆を公式に認めたのは2018年になってからだった。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q178810",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Syrian civil war begins",
+    "ko": "시리아 내전 발발",
+    "zh": "叙利亚内战爆发",
+    "ja": "シリア内戦の勃発"
+   },
+   "description": {
+    "en": "Protests during the Arab Spring were met with force and escalated into a devastating civil war involving many outside powers. Hundreds of thousands died and over half the population was displaced.",
+    "ko": "'아랍의 봄' 당시의 시위가 무력 진압되면서 여러 외부 세력이 개입하는 참혹한 내전으로 번졌다. 수십만 명이 목숨을 잃었고 인구의 절반 이상이 삶의 터전을 떠나야 했다.",
+    "zh": "“阿拉伯之春”期间的抗议遭到武力镇压，演变为多方外部势力介入的惨烈内战。数十万人丧生，超过半数人口流离失所。",
+    "ja": "「アラブの春」の抗議行動が武力で弾圧され、多くの外部勢力が介入する凄惨な内戦へと拡大した。数十万人が命を落とし、人口の半数以上が家を追われた。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q1842866",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Aleppo begins",
+    "ko": "알레포 전투 개시",
+    "zh": "阿勒颇战役爆发",
+    "ja": "アレッポの戦いの始まり"
+   },
+   "description": {
+    "en": "In July 2012 rebel forces entered Aleppo, Syria's largest city, which became divided between opposition-held east and government-held west. Four years of fighting, sieges and aerial bombardment devastated the city, including its UNESCO-listed old city and medieval souks.",
+    "ko": "2012년 7월 반군이 시리아 최대 도시 알레포에 진입하면서 도시는 반군이 장악한 동부와 정부가 장악한 서부로 나뉘었다. 4년에 걸친 전투·포위·공습으로 유네스코 세계유산인 구시가지와 중세 수크를 포함한 도시가 황폐해졌다.",
+    "zh": "2012年7月，反对派武装进入叙利亚最大城市阿勒颇，该城由此分裂为反对派控制的东区和政府控制的西区。四年的战斗、围困和空袭使这座城市满目疮痍，列入联合国教科文组织名录的古城和中世纪市场也未能幸免。",
+    "ja": "2012年7月、反体制派武装勢力がシリア最大の都市アレッポに進入し、都市は反体制派支配の東部と政府支配の西部に分断された。4年に及ぶ戦闘、包囲、空爆により、ユネスコ世界遺産の旧市街や中世のスークを含む都市は荒廃した。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q2384201",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Kurdish self-rule in the north",
+    "ko": "북부의 쿠르드 자치",
+    "zh": "北部库尔德人自治",
+    "ja": "北部のクルド人自治"
+   },
+   "description": {
+    "en": "In mid-2012 government forces withdrew from much of the Kurdish-majority north, and the Democratic Union Party (PYD) and its YPG militia took control. They built a self-governing administration, later the Autonomous Administration of North and East Syria, which Turkey regards as linked to the PKK.",
+    "ko": "2012년 중반 정부군이 쿠르드인이 다수인 북부 대부분에서 철수하자 민주연합당(PYD)과 그 민병대 YPG가 통제권을 장악했다. 이들은 자치 행정 체제를 세웠고 이는 훗날 북동시리아 자치행정청으로 발전했으며, 튀르키예는 이를 PKK와 연계된 조직으로 본다.",
+    "zh": "2012年年中，政府军从库尔德人占多数的北部大部分地区撤出，民主联盟党（PYD）及其民兵组织人民保护部队（YPG）接管了控制权。他们建立了自治行政体系，后来发展为北叙利亚和东叙利亚自治当局，土耳其则认为其与库尔德工人党（PKK）有关联。",
+    "ja": "2012年半ば、政府軍がクルド人が多数を占める北部の大半から撤退すると、民主統一党（PYD）とその民兵組織YPGが支配権を握った。彼らは自治行政を築き、のちに北・東シリア自治行政府へと発展したが、トルコはこれをPKKと結びついた組織とみなしている。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q14626794",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ghouta chemical attack",
+    "ko": "구타 화학무기 공격",
+    "zh": "古塔化学武器袭击",
+    "ja": "グータ化学兵器攻撃"
+   },
+   "description": {
+    "en": "On 21 August 2013 rockets carrying sarin struck opposition-held suburbs of Damascus in the Ghouta, killing hundreds of people. A UN investigation confirmed the use of sarin; under a US–Russian agreement Syria joined the Chemical Weapons Convention and handed over its declared chemical arsenal for destruction.",
+    "ko": "2013년 8월 21일 사린을 탑재한 로켓이 반군이 장악한 다마스쿠스 교외 구타 지역을 강타해 수백 명이 숨졌다. 유엔 조사로 사린 사용이 확인되었고, 미국과 러시아의 합의에 따라 시리아는 화학무기금지협약에 가입해 신고한 화학무기를 폐기용으로 넘겼다.",
+    "zh": "2013年8月21日，载有沙林毒剂的火箭弹袭击了大马士革郊区反对派控制的古塔地区，造成数百人死亡。联合国调查证实使用了沙林；根据美俄协议，叙利亚加入《禁止化学武器公约》，并交出其申报的化学武器库存予以销毁。",
+    "ja": "2013年8月21日、サリンを搭載したロケット弾が反体制派支配下のダマスカス郊外グータを襲い、数百人が死亡した。国連の調査でサリンの使用が確認され、米露合意に基づきシリアは化学兵器禁止条約に加盟し、申告した化学兵器を廃棄のため引き渡した。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Islamic State proclaims a caliphate",
+    "ko": "이슬람국가의 칼리파국 선포",
+    "zh": "“伊斯兰国”宣布建立哈里发国",
+    "ja": "「イスラム国」のカリフ制宣言"
+   },
+   "description": {
+    "en": "The jihadist Islamic State group seized Raqqa and large parts of eastern Syria and, in June 2014, proclaimed a 'caliphate' straddling Syria and Iraq with Raqqa as its de facto capital. Its rule brought mass executions, the enslavement of Yazidi women, the destruction of heritage sites and attacks abroad.",
+    "ko": "지하드주의 조직 이슬람국가(IS)는 락까와 시리아 동부 상당 지역을 장악하고, 2014년 6월 락까를 사실상의 수도로 시리아와 이라크에 걸친 '칼리파국'을 선포했다. 그 지배는 대량 처형, 야지디 여성 노예화, 문화유산 파괴, 해외 테러로 이어졌다.",
+    "zh": "圣战组织“伊斯兰国”夺取拉卡和叙利亚东部大片地区，并于2014年6月宣布建立横跨叙利亚和伊拉克的“哈里发国”，以拉卡为实际首都。其统治带来了大规模处决、对雅兹迪妇女的奴役、文化遗产的破坏以及在海外的袭击。",
+    "ja": "ジハード主義組織「イスラム国」（IS）はラッカとシリア東部の広い地域を制圧し、2014年6月、ラッカを事実上の首都としてシリアとイラクにまたがる「カリフ国」を宣言した。その支配は大量処刑、ヤズィーディー女性の奴隷化、文化遺産の破壊、国外でのテロをもたらした。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q18071930",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siege of Kobanî",
+    "ko": "코바니 포위전",
+    "zh": "科巴尼之围",
+    "ja": "コバニ包囲戦"
+   },
+   "description": {
+    "en": "From September 2014 Islamic State forces besieged the Kurdish border town of Kobanî. Kurdish YPG fighters, backed by US-led coalition airstrikes that had begun over Syria that month, held the town and drove the jihadists out by early 2015, a turning point in the war against IS.",
+    "ko": "2014년 9월부터 이슬람국가 세력은 국경의 쿠르드 도시 코바니를 포위했다. 같은 달 시리아 상공에서 시작된 미국 주도 연합군의 공습 지원을 받은 쿠르드 YPG 전사들은 도시를 지켜 내고 2015년 초 지하드주의자들을 몰아냈으며, 이는 IS와의 전쟁의 전환점이 되었다.",
+    "zh": "自2014年9月起，“伊斯兰国”武装围攻库尔德边境城镇科巴尼。在当月开始于叙利亚上空的美国主导联军空袭支援下，库尔德人民保护部队守住了城镇，并于2015年初将圣战分子驱逐出去，成为对“伊斯兰国”作战的转折点。",
+    "ja": "2014年9月から「イスラム国」の勢力は国境のクルド人の町コバニを包囲した。同月シリア上空で始まった米主導の有志連合の空爆に支えられたクルド人のYPG戦闘員は町を守り抜き、2015年初めまでにジハード主義者を撃退した。これはIS掃討戦の転換点となった。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q19926256",
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Islamic State seizes Palmyra",
+    "ko": "이슬람국가의 팔미라 점령",
+    "zh": "“伊斯兰国”占领帕尔米拉",
+    "ja": "「イスラム国」のパルミラ占領"
+   },
+   "description": {
+    "en": "In May 2015 Islamic State fighters captured Palmyra. In August they murdered the retired antiquities chief Khaled al-Asaad and blew up the temples of Baalshamin and Bel, later destroying other monuments. Government forces retook the city in 2016, lost it again, and recaptured it in 2017.",
+    "ko": "2015년 5월 이슬람국가 전투원들이 팔미라를 점령했다. 8월에는 퇴임한 유적 관리 책임자 칼리드 알아사드를 살해하고 바알샤민 신전과 벨 신전을 폭파했으며, 이후 다른 유적들도 파괴했다. 정부군은 2016년 도시를 탈환했다가 다시 잃은 뒤 2017년 재탈환했다.",
+    "zh": "2015年5月，“伊斯兰国”武装分子占领帕尔米拉。8月，他们杀害了已退休的文物主管哈立德·阿萨德，炸毁巴尔夏明神庙和贝尔神庙，随后又摧毁了其他古迹。政府军于2016年收复该城，后又失守，2017年再次夺回。",
+    "ja": "2015年5月、「イスラム国」の戦闘員がパルミラを占領した。8月には退職した遺跡管理責任者ハーリド・アル＝アスアドを殺害し、バールシャミン神殿とベル神殿を爆破し、その後ほかの遺跡も破壊した。政府軍は2016年に奪回したが再び失い、2017年に再奪回した。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Russian military intervention",
+    "ko": "러시아의 군사 개입",
+    "zh": "俄罗斯军事干预",
+    "ja": "ロシアの軍事介入"
+   },
+   "description": {
+    "en": "On 30 September 2015 Russia began air strikes in Syria at the request of the Assad government, alongside Iranian forces and Hezbollah already fighting on its side. The intervention turned the tide of the war, enabling government offensives that recaptured most major cities over the next few years.",
+    "ko": "2015년 9월 30일 러시아는 아사드 정부의 요청으로 시리아에서 공습을 시작했으며, 이미 정부 편에서 싸우던 이란군·헤즈볼라와 함께했다. 이 개입은 전세를 뒤집어 이후 몇 년간 정부군이 주요 도시 대부분을 탈환하는 공세를 가능하게 했다.",
+    "zh": "2015年9月30日，俄罗斯应阿萨德政府请求开始在叙利亚实施空袭，与早已站在政府一方作战的伊朗部队和真主党并肩作战。此次干预扭转了战局，使政府军在此后几年的攻势中收复了大多数主要城市。",
+    "ja": "2015年9月30日、ロシアはアサド政権の要請によりシリアで空爆を開始し、すでに政権側で戦っていたイラン部隊やヒズボラと共闘した。この介入は戦局を一変させ、その後数年間に政府軍が主要都市の大半を奪還する攻勢を可能にした。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q27894014",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Government retakes Aleppo",
+    "ko": "정부군의 알레포 탈환",
+    "zh": "政府军收复阿勒颇",
+    "ja": "政府軍のアレッポ奪還"
+   },
+   "description": {
+    "en": "In late 2016 government forces, backed by Russian air power and Iranian-backed militias, besieged and overran rebel-held eastern Aleppo. In December the remaining fighters and tens of thousands of civilians were evacuated, ending the four-year battle with the government's most important victory of the war.",
+    "ko": "2016년 말 러시아 공군과 이란이 지원하는 민병대의 지원을 받은 정부군은 반군이 장악한 동부 알레포를 포위해 함락했다. 12월 남은 전투원과 수만 명의 민간인이 철수하면서 4년간의 전투는 전쟁 중 정부의 가장 중요한 승리로 끝났다.",
+    "zh": "2016年底，在俄罗斯空中力量和伊朗支持的民兵配合下，政府军围困并攻占了反对派控制的阿勒颇东区。12月，剩余的武装人员和数万名平民被疏散撤离，历时四年的战役以政府在战争中最重要的一场胜利告终。",
+    "ja": "2016年末、ロシア空軍とイランが支援する民兵の後押しを受けた政府軍は、反体制派支配下の東アレッポを包囲・制圧した。12月に残る戦闘員と数万人の民間人が退避し、4年に及んだ戦いは政府にとって戦争中最も重要な勝利で幕を閉じた。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q26690015",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Operation Euphrates Shield",
+    "ko": "유프라테스 방패 작전",
+    "zh": "“幼发拉底河之盾”行动",
+    "ja": "ユーフラテスの盾作戦"
+   },
+   "description": {
+    "en": "In August 2016 Turkey sent troops into northern Syria with allied Syrian rebel factions, taking Jarabulus and later al-Bab from the Islamic State while blocking the westward advance of Kurdish-led forces. It began a lasting Turkish military presence and zone of control in the north.",
+    "ko": "2016년 8월 튀르키예는 동맹 시리아 반군 세력과 함께 북부 시리아에 군대를 투입해 이슬람국가로부터 자라블루스와 이후 알바브를 빼앗는 한편, 쿠르드 주도 세력의 서진을 막았다. 이로써 북부에서 튀르키예의 지속적인 군사 주둔과 통제 지역이 시작되었다.",
+    "zh": "2016年8月，土耳其与盟友叙利亚反对派武装一同出兵叙利亚北部，从“伊斯兰国”手中夺取杰拉布卢斯及后来的巴卜，同时阻止库尔德人主导的武装向西推进。土耳其由此开始在北部长期驻军并形成控制区。",
+    "ja": "2016年8月、トルコは同盟するシリア反体制派勢力とともに北シリアへ部隊を送り、「イスラム国」からジャラブルス、のちにバーブを奪うと同時に、クルド主導勢力の西進を阻んだ。これにより北部でのトルコの長期的な軍事駐留と支配地域が始まった。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q29154471",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Khan Shaykhun chemical attack",
+    "ko": "칸 셰이쿤 화학무기 공격",
+    "zh": "汉谢洪化学武器袭击",
+    "ja": "ハーン・シャイフーン化学兵器攻撃"
+   },
+   "description": {
+    "en": "On 4 April 2017 a sarin attack on the town of Khan Shaykhun in Idlib province killed dozens of civilians; a UN–OPCW investigative mechanism later attributed it to the Syrian government. Three days later the United States fired cruise missiles at Shayrat air base in its first direct strike on the Syrian government.",
+    "ko": "2017년 4월 4일 이들리브주 칸 셰이쿤에 대한 사린 공격으로 민간인 수십 명이 숨졌으며, 유엔–화학무기금지기구 공동조사기구는 이후 시리아 정부를 책임자로 지목했다. 사흘 뒤 미국은 샤이라트 공군기지에 순항미사일을 발사해 시리아 정부를 처음으로 직접 타격했다.",
+    "zh": "2017年4月4日，伊德利卜省汉谢洪镇遭沙林毒剂袭击，数十名平民死亡；联合国与禁止化学武器组织的联合调查机制后来认定叙利亚政府应负责任。三天后，美国向沙伊拉特空军基地发射巡航导弹，这是其首次直接打击叙利亚政府。",
+    "ja": "2017年4月4日、イドリブ県ハーン・シャイフーンへのサリン攻撃で民間人数十人が死亡し、国連と化学兵器禁止機関の合同調査メカニズムはのちにシリア政府の責任を認定した。3日後、アメリカはシャイラート空軍基地に巡航ミサイルを撃ち込み、シリア政府への初の直接攻撃を行った。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q30140821",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Raqqa",
+    "ko": "락까 함락",
+    "zh": "拉卡陷落",
+    "ja": "ラッカ陥落"
+   },
+   "description": {
+    "en": "In October 2017 the Kurdish-led Syrian Democratic Forces, supported by US-led coalition air power, captured Raqqa, the Islamic State's self-declared capital, after a four-month battle that left much of the city in ruins.",
+    "ko": "2017년 10월 쿠르드 주도의 시리아 민주군(SDF)은 미국 주도 연합군의 공중 지원을 받아 4개월간의 전투 끝에 이슬람국가가 수도로 내세운 락까를 점령했다. 이 전투로 도시 대부분이 폐허가 되었다.",
+    "zh": "2017年10月，库尔德人主导的叙利亚民主力量在美国主导联军的空中支援下，经过四个月的战斗攻占了“伊斯兰国”自封的首都拉卡，该城大部分地区沦为废墟。",
+    "ja": "2017年10月、クルド主導のシリア民主軍（SDF）は米主導の有志連合の航空支援を受け、4か月の戦闘の末に「イスラム国」が首都と称したラッカを制圧した。戦闘で都市の大部分が廃墟と化した。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q47465940",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Turkish offensive in Afrin",
+    "ko": "튀르키예의 아프린 공세",
+    "zh": "土耳其进攻阿夫林",
+    "ja": "トルコのアフリン攻勢"
+   },
+   "description": {
+    "en": "In January–March 2018 Turkey and allied Syrian factions launched 'Operation Olive Branch' against the Kurdish YPG in the Afrin region of northwest Syria and captured the town of Afrin. Many Kurdish inhabitants fled, and the area came under Turkish-backed control.",
+    "ko": "2018년 1~3월 튀르키예와 동맹 시리아 세력은 시리아 북서부 아프린 지역의 쿠르드 YPG를 상대로 '올리브 가지 작전'을 벌여 아프린 시를 점령했다. 많은 쿠르드 주민이 피란했고 이 지역은 튀르키예가 지원하는 세력의 통제 아래 들어갔다.",
+    "zh": "2018年1月至3月，土耳其及其盟友叙利亚武装针对叙利亚西北部阿夫林地区的库尔德人民保护部队发动“橄榄枝行动”，攻占了阿夫林镇。许多库尔德居民出逃，该地区落入土耳其支持的势力控制之下。",
+    "ja": "2018年1～3月、トルコと同盟するシリア諸勢力は北西シリアのアフリン地域でクルド人のYPGに対し「オリーブの枝作戦」を行い、アフリンの町を制圧した。多くのクルド人住民が避難し、地域はトルコが支援する勢力の支配下に入った。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q51629486",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Eastern Ghouta offensive and Douma attack",
+    "ko": "동구타 공세와 두마 공격",
+    "zh": "东古塔攻势与杜马袭击",
+    "ja": "東グータ攻勢とドゥーマ攻撃"
+   },
+   "description": {
+    "en": "In February–April 2018 government forces retook Eastern Ghouta after a five-year siege. A chemical attack on Douma on 7 April, which an OPCW investigation later attributed to the Syrian Air Force, prompted US, British and French missile strikes on Syrian government sites.",
+    "ko": "2018년 2~4월 정부군은 5년간의 포위 끝에 동구타를 탈환했다. 4월 7일 두마에 대한 화학무기 공격—화학무기금지기구 조사는 이후 시리아 공군의 소행으로 결론지었다—은 미국·영국·프랑스의 시리아 정부 시설에 대한 미사일 공격을 불러왔다.",
+    "zh": "2018年2月至4月，政府军在长达五年的围困后收复东古塔。4月7日杜马遭化学武器袭击——禁止化学武器组织的调查后来认定系叙利亚空军所为——随即引发美、英、法对叙利亚政府设施的导弹打击。",
+    "ja": "2018年2～4月、政府軍は5年に及ぶ包囲の末に東グータを奪還した。4月7日のドゥーマへの化学兵器攻撃（化学兵器禁止機関の調査はのちにシリア空軍によるものと結論づけた）は、米英仏によるシリア政府施設へのミサイル攻撃を招いた。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q61843818",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "End of the Islamic State's territorial rule",
+    "ko": "이슬람국가 영토 지배의 종식",
+    "zh": "“伊斯兰国”领土统治的终结",
+    "ja": "「イスラム国」の領域支配の終焉"
+   },
+   "description": {
+    "en": "In March 2019 the Syrian Democratic Forces captured Baghuz on the Euphrates, the last village held by the Islamic State, ending its territorial 'caliphate'. In October its leader Abu Bakr al-Baghdadi was killed during a US raid in Idlib province.",
+    "ko": "2019년 3월 시리아 민주군은 이슬람국가가 장악한 마지막 마을인 유프라테스강 변 바구즈를 점령해 그 영토적 '칼리파국'을 끝냈다. 같은 해 10월 IS 지도자 아부 바크르 알바그다디는 이들리브주에서 미군의 급습 작전 중 사망했다.",
+    "zh": "2019年3月，叙利亚民主力量攻占“伊斯兰国”控制的最后一个村庄——幼发拉底河畔的巴古兹，终结了其领土意义上的“哈里发国”。同年10月，其头目阿布·贝克尔·巴格达迪在伊德利卜省的美军突袭行动中毙命。",
+    "ja": "2019年3月、シリア民主軍は「イスラム国」が支配する最後の村、ユーフラテス河畔のバグーズを制圧し、領域的な「カリフ国」を終わらせた。同年10月、ISの指導者アブー・バクル・アル＝バグダーディーはイドリブ県での米軍の急襲作戦中に死亡した。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q86832624",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Idlib escalation and ceasefire",
+    "ko": "이들리브 확전과 휴전",
+    "zh": "伊德利卜冲突升级与停火",
+    "ja": "イドリブの戦闘激化と停戦"
+   },
+   "description": {
+    "en": "A government offensive in Idlib, the last major opposition-held province, displaced around a million people in the winter of 2019–2020. After an air strike killed dozens of Turkish soldiers, Turkey launched Operation Spring Shield, and a Russian–Turkish ceasefire in March 2020 froze the front lines for several years.",
+    "ko": "반군이 장악한 마지막 주요 지역인 이들리브에 대한 정부군 공세로 2019~2020년 겨울 약 100만 명이 피란했다. 공습으로 튀르키예 군인 수십 명이 숨지자 튀르키예는 '봄의 방패 작전'을 개시했고, 2020년 3월 러시아–튀르키예 휴전으로 전선은 몇 년간 고착되었다.",
+    "zh": "政府军对最后一个主要反对派控制省份伊德利卜发动攻势，2019至2020年冬季约有一百万人流离失所。一次空袭造成数十名土耳其士兵死亡后，土耳其发起“春季之盾”行动；2020年3月俄土达成停火，战线此后冻结数年。",
+    "ja": "最後の主要な反体制派支配地域イドリブへの政府軍の攻勢で、2019～20年の冬に約100万人が避難を強いられた。空爆でトルコ兵数十人が死亡するとトルコは「春の盾作戦」を開始し、2020年3月の露土停戦で前線はその後数年間固定された。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q116691303",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Turkey–Syria earthquakes",
+    "ko": "튀르키예–시리아 대지진",
+    "zh": "土耳其-叙利亚大地震",
+    "ja": "トルコ・シリア地震"
+   },
+   "description": {
+    "en": "On 6 February 2023 two powerful earthquakes centred in southern Turkey devastated northwestern Syria, killing thousands of people in Aleppo, Idlib, Latakia and Hama provinces and leaving many more homeless. Relief to opposition-held areas was hampered by the divided state of the country and limited border crossings.",
+    "ko": "2023년 2월 6일 튀르키예 남부에서 발생한 두 차례의 강진이 시리아 북서부를 강타해 알레포·이들리브·라타키아·하마주에서 수천 명이 숨지고 훨씬 많은 사람이 집을 잃었다. 국토가 분열된 상황과 제한된 국경 통로로 인해 반군 지역에 대한 구호는 어려움을 겪었다.",
+    "zh": "2023年2月6日，以土耳其南部为震中的两次强烈地震重创叙利亚西北部，阿勒颇、伊德利卜、拉塔基亚和哈马等省数千人遇难，更多人无家可归。由于国家处于分裂状态且过境通道有限，对反对派控制区的救援受到阻碍。",
+    "ja": "2023年2月6日、トルコ南部を震源とする2度の強い地震がシリア北西部を襲い、アレッポ、イドリブ、ラタキア、ハマの各県で数千人が死亡し、さらに多くの人が家を失った。国土の分断と限られた国境通過点のため、反体制派地域への救援は困難を極めた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q131405504",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Israeli incursion after Assad's fall",
+    "ko": "아사드 몰락 후 이스라엘의 진입",
+    "zh": "阿萨德倒台后以色列的进入",
+    "ja": "アサド政権崩壊後のイスラエルの進入"
+   },
+   "description": {
+    "en": "Immediately after the fall of the Assad government in December 2024, Israel moved troops into the UN-monitored buffer zone on the Golan and beyond, including the Syrian side of Mount Hermon, and carried out extensive air strikes on Syrian military assets. The new Syrian authorities and many states condemned the incursion as a violation of the 1974 agreement.",
+    "ko": "2024년 12월 아사드 정부가 무너진 직후 이스라엘은 골란의 유엔 감시 완충지대와 그 너머, 헤르몬산 시리아 측까지 병력을 진입시키고 시리아의 군사 자산에 대규모 공습을 가했다. 시리아 새 당국과 많은 국가는 이를 1974년 협정 위반이라고 규탄했다.",
+    "zh": "2024年12月阿萨德政府倒台后，以色列立即派兵进入戈兰高地联合国监督的缓冲区及其以外地区，包括黑门山叙利亚一侧，并对叙利亚军事设施实施大规模空袭。叙利亚新当局和许多国家谴责此举违反1974年协议。",
+    "ja": "2024年12月にアサド政権が崩壊した直後、イスラエルはゴランの国連監視下の緩衝地帯とその先、ヘルモン山のシリア側にまで部隊を進め、シリアの軍事資産に大規模な空爆を行った。シリアの新当局と多くの国は、これを1974年協定違反として非難した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q131401087",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Fall of the Assad government",
+    "ko": "아사드 정권의 붕괴",
+    "zh": "阿萨德政权垮台",
+    "ja": "アサド政権の崩壊"
+   },
+   "description": {
+    "en": "A rapid opposition offensive took Damascus in December 2024, ending more than five decades of Assad family rule. A transitional government was formed to steer the country's post-war future.",
+    "ko": "2024년 12월 반정부군의 전격 공세로 다마스쿠스가 함락되며 50여 년에 걸친 아사드 일가의 통치가 막을 내렸다. 이후 전후 국가 재건을 이끌 과도 정부가 수립되었다.",
+    "zh": "2024年12月，反对派武装迅速攻入大马士革，结束了阿萨德家族五十余年的统治。随后成立过渡政府，引领国家走向战后重建。",
+    "ja": "2024年12月、反体制派の電撃的攻勢によりダマスカスが陥落し、50年余りに及ぶアサド家の支配が終わった。その後、戦後の国家再建を担う暫定政府が発足した。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Transitional government under Ahmed al-Sharaa",
+    "ko": "아흐마드 알샤라의 과도 정부",
+    "zh": "艾哈迈德·沙拉领导的过渡政府",
+    "ja": "アフマド・アル＝シャラアの暫定政権"
+   },
+   "description": {
+    "en": "In January 2025 Ahmed al-Sharaa was named president for the transitional period, and in March he signed a constitutional declaration setting out a five-year transition. In May the United States announced it would lift sanctions on Syria, opening the way for reconstruction investment, though deep political and sectarian divisions remained.",
+    "ko": "2025년 1월 아흐마드 알샤라가 과도기 대통령으로 지명되었고, 3월에는 5년간의 과도기를 규정한 헌법 선언에 서명했다. 5월 미국은 시리아에 대한 제재 해제를 발표해 재건 투자의 길을 열었으나, 깊은 정치적·종파적 분열은 여전히 남았다.",
+    "zh": "2025年1月，艾哈迈德·沙拉被任命为过渡时期总统，3月他签署了规定五年过渡期的宪法宣言。5月美国宣布将解除对叙利亚的制裁，为重建投资开辟了道路，但深刻的政治和教派分歧依然存在。",
+    "ja": "2025年1月、アフマド・アル＝シャラアが移行期の大統領に指名され、3月には5年間の移行期間を定めた憲法宣言に署名した。5月にアメリカはシリアへの制裁解除を発表し復興投資への道を開いたが、深い政治的・宗派的な分断は残った。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q133187598",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Coastal violence against Alawites",
+    "ko": "해안 지역 알라위파 대상 폭력",
+    "zh": "沿海地区针对阿拉维派的暴力",
+    "ja": "沿岸部でのアラウィー派への暴力"
+   },
+   "description": {
+    "en": "In March 2025 an insurgent attack by Assad loyalists on security forces in the coastal provinces of Latakia and Tartus was followed by a government counter-offensive during which government-aligned fighters and other armed groups killed large numbers of mostly Alawite civilians. The killings drew international condemnation, and the government set up a commission of inquiry.",
+    "ko": "2025년 3월 아사드 잔존 세력이 라타키아·타르투스 해안 지역에서 보안군을 공격하자 정부군이 반격에 나섰고, 그 과정에서 정부 측 전투원과 기타 무장 세력이 대부분 알라위파인 민간인을 대거 살해했다. 이 학살은 국제적 비난을 받았고 정부는 진상조사위원회를 설치했다.",
+    "zh": "2025年3月，阿萨德残余势力在沿海的拉塔基亚省和塔尔图斯省袭击安全部队，政府随即展开反攻，期间亲政府武装人员和其他武装团体杀害了大批平民，其中多数为阿拉维派。杀戮招致国际谴责，政府成立了调查委员会。",
+    "ja": "2025年3月、沿岸部のラタキア県とタルトゥス県でアサド派残存勢力が治安部隊を襲撃し、政府が反撃に出る中で、政府側の戦闘員やその他の武装集団が多数の民間人、主にアラウィー派の人々を殺害した。殺戮は国際的な非難を浴び、政府は調査委員会を設置した。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q135319143",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Suwayda clashes",
+    "ko": "수와이다 충돌",
+    "zh": "苏韦达冲突",
+    "ja": "スワイダ衝突"
+   },
+   "description": {
+    "en": "In July 2025 fighting between Druze militias and Bedouin tribal fighters in Suwayda province escalated when government forces intervened, with reports of grave abuses against civilians. Israel, citing the protection of the Druze, struck government forces and targets in Damascus before a ceasefire was brokered.",
+    "ko": "2025년 7월 수와이다주에서 드루즈 민병대와 베두인 부족 전사들 사이의 전투가 정부군 개입으로 격화되었고, 민간인에 대한 심각한 인권 침해가 보고되었다. 이스라엘은 드루즈 보호를 명분으로 정부군과 다마스쿠스의 목표물을 공습했으며, 이후 휴전이 중재되었다.",
+    "zh": "2025年7月，苏韦达省德鲁兹民兵与贝都因部落武装之间的冲突因政府军介入而升级，并有严重侵害平民的报道。以色列以保护德鲁兹人为由空袭政府军和大马士革的目标，随后在斡旋下达成停火。",
+    "ja": "2025年7月、スワイダ県でのドルーズ派民兵とベドウィン部族戦闘員の戦闘が政府軍の介入で激化し、民間人への深刻な人権侵害が報告された。イスラエルはドルーズ派保護を理由に政府軍とダマスカスの標的を空爆し、その後停戦が仲介された。"
+   }
+  }
+ ]
+}

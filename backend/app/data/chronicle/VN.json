@@ -1,0 +1,3391 @@
+{
+ "iso": "VN",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -2001,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Neolithic Vietnam (Hòa Bình, Bắc Sơn, Đa Bút)",
+    "ko": "베트남 신석기 시대(호아빈·박선·다붓)",
+    "zh": "越南新石器时代（和平、北山、多笔文化）",
+    "ja": "ベトナムの新石器時代（ホアビン・バクソン・ダブット）"
+   },
+   "summary": {
+    "en": "Hunter-gatherers of the Hòa Bình and Bắc Sơn traditions lived in the limestone caves of northern Vietnam, and coastal shell-midden cultures such as Đa Bút and Quỳnh Văn appeared in Thanh Hóa and Nghệ An. These communities made pottery and polished stone tools and gradually adopted more settled ways of life. Rice farming spread into the region toward the end of this period.",
+    "ko": "호아빈 문화와 박선 문화의 수렵채집민이 베트남 북부 석회암 동굴에 살았고, 타인호아와 응에안 해안에는 다붓·꾸인반 같은 패총 문화가 나타났다. 이들은 토기와 간석기를 만들며 점차 정착 생활로 옮겨 갔다. 이 시기 말엽에 벼농사가 이 지역으로 전해졌다.",
+    "zh": "和平文化与北山文化的狩猎采集者生活在越南北部的石灰岩洞穴中，清化、乂安沿海则出现了多笔、琼文等贝丘文化。这些人群制作陶器和磨制石器，逐渐走向定居生活。到这一时期末，稻作农业传入该地区。",
+    "ja": "ホアビン文化とバクソン文化の狩猟採集民がベトナム北部の石灰岩洞窟に暮らし、タインホア・ゲアンの海岸にはダブット文化やクインヴァン文化などの貝塚文化が現れた。人々は土器や磨製石器を作り、次第に定住生活へと移っていった。この時代の終わり頃、稲作がこの地域に広まった。"
+   }
+  },
+  {
+   "from": -4500,
+   "to": -2500,
+   "kind": "culture",
+   "qid": "Q1156336",
+   "polity": null,
+   "name": {
+    "en": "Đa Bút culture",
+    "ko": "다붓 문화",
+    "zh": "多笔文化",
+    "ja": "ダブット文化"
+   },
+   "summary": {
+    "en": "The Đa Bút culture, named after a site in Thanh Hóa province, is one of the earliest pottery-making Neolithic cultures of northern Vietnam. Its people lived near the coast and estuaries, buried their dead in shell middens and exploited marine and forest resources. It is a key witness to the transition from foraging to settled life in the region.",
+    "ko": "타인호아성의 유적에서 이름을 딴 다붓 문화는 베트남 북부에서 가장 이른 토기 제작 신석기 문화 가운데 하나다. 사람들은 해안과 하구 가까이에 살며 패총에 죽은 이를 묻고 바다와 숲의 자원을 이용했다. 이 문화는 이 지역에서 수렵채집에서 정착 생활로 넘어가는 과정을 보여 주는 중요한 증거다.",
+    "zh": "多笔文化得名于清化省的一处遗址，是越南北部最早制作陶器的新石器文化之一。其居民生活在海岸和河口附近，在贝丘中埋葬死者，利用海洋和森林资源。它是该地区由采集狩猎向定居生活过渡的重要见证。",
+    "ja": "タインホア省の遺跡にちなむダブット文化は、ベトナム北部で最も早く土器を作った新石器文化の一つである。人々は海岸や河口の近くに住み、貝塚に死者を葬り、海と森の資源を利用した。この地域で採集狩猟から定住生活への移行を示す重要な証拠となっている。"
+   }
+  },
+  {
+   "from": -2000,
+   "to": -1001,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Phùng Nguyên and Đồng Đậu cultures",
+    "ko": "풍응우옌·동더우 문화",
+    "zh": "冯原文化与铜豆文化",
+    "ja": "フングエン文化とドンダウ文化"
+   },
+   "summary": {
+    "en": "In the middle Red River valley the Phùng Nguyên culture (c. 2000–1500 BC) developed rice-farming villages with fine incised pottery and jade-like stone ornaments. It was followed by the Đồng Đậu culture, in which bronze casting became established. Vietnamese archaeology regards these cultures as the direct forerunners of Đông Sơn.",
+    "ko": "홍강 중류 유역에서는 풍응우옌 문화(기원전 약 2000~1500년)가 벼농사 마을을 이루고 정교한 새김무늬 토기와 옥 같은 석제 장신구를 남겼다. 그 뒤를 이은 동더우 문화에서 청동 주조가 자리 잡았다. 베트남 고고학은 이 문화들을 동선 문화의 직접적인 선행 문화로 본다.",
+    "zh": "在红河中游，冯原文化（约公元前2000—前1500年）形成了稻作村落，留下精美的刻划纹陶器和玉质石饰。随后的铜豆文化中，青铜铸造技术逐渐确立。越南考古学将这些文化视为东山文化的直接前身。",
+    "ja": "紅河中流域では、フングエン文化（紀元前2000〜1500年頃）が稲作集落を営み、精巧な刻線文土器や玉のような石製装身具を残した。続くドンダウ文化では青銅の鋳造が定着した。ベトナム考古学はこれらをドンソン文化の直接の前身とみなしている。"
+   }
+  },
+  {
+   "from": -1000,
+   "to": 43,
+   "kind": "culture",
+   "qid": "Q996912",
+   "polity": null,
+   "name": {
+    "en": "Đông Sơn culture",
+    "ko": "동선 문화",
+    "zh": "东山文化",
+    "ja": "ドンソン文化"
+   },
+   "summary": {
+    "en": "The Đông Sơn culture of the Red, Mã and Cả river valleys was a Bronze-to-Iron Age society famous for its large decorated bronze drums, which were traded across Southeast Asia. It is associated with the Lạc Việt peoples and the traditional kingdoms of Văn Lang and Âu Lạc. Its material culture persisted well into the early centuries of Chinese rule.",
+    "ko": "홍강·마강·까강 유역의 동선 문화는 청동기에서 철기로 넘어가는 사회로, 동남아시아 전역에 교역된 장식 청동북으로 유명하다. 락비엣 사람들과 전승 속 반랑·어우락 왕국과 연결된다. 그 물질문화는 중국 지배 초기 몇 세기까지도 이어졌다.",
+    "zh": "东山文化分布于红河、马江和蓝江流域，是由青铜时代向铁器时代过渡的社会，以装饰华丽、流传于整个东南亚的大型铜鼓闻名。它与雒越人以及传说中的文郎、瓯雒国相联系。其物质文化一直延续到中国统治的最初几个世纪。",
+    "ja": "紅河・マー川・カー川流域のドンソン文化は青銅器から鉄器への移行期の社会で、東南アジア一帯に交易された装飾銅鼓で名高い。雒越の人々や伝承上の文郎国・甌雒国と結びつけられる。その物質文化は中国支配の初期数世紀まで存続した。"
+   }
+  },
+  {
+   "from": -1000,
+   "to": 200,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Sa Huỳnh culture",
+    "ko": "사후인 문화",
+    "zh": "沙萤文化",
+    "ja": "サフィン文化"
+   },
+   "summary": {
+    "en": "Along the central and south-central coast, the Sa Huỳnh culture buried its dead in large ceramic jars and produced distinctive ornaments such as double-headed animal earrings of nephrite. Its people were part of a maritime trade network reaching the Philippines, Taiwan and Thailand. Many scholars see the Sa Huỳnh as ancestral to the Austronesian-speaking Cham.",
+    "ko": "중부와 중남부 해안의 사후인 문화는 큰 토기 항아리에 죽은 이를 묻었고, 연옥으로 만든 쌍두 동물 귀걸이 같은 독특한 장신구를 남겼다. 이들은 필리핀·타이완·태국까지 이어지는 해상 교역망의 일원이었다. 많은 학자는 사후인 사람들을 오스트로네시아어를 쓰는 참족의 조상으로 본다.",
+    "zh": "沙萤文化分布于越南中部和中南部沿海，以大型陶瓮葬和软玉制双头兽形耳饰等独特饰物著称。其居民属于一个远及菲律宾、台湾和泰国的海上贸易网络。许多学者认为沙萤人是说南岛语的占族的祖先。",
+    "ja": "中部および中南部の海岸に広がったサフィン文化は、大きな土器の甕に死者を葬り、軟玉製の双頭獣形耳飾りなど独特の装身具を残した。人々はフィリピン・台湾・タイに及ぶ海上交易網の一員だった。多くの研究者はサフィンの人々をオーストロネシア語系のチャム人の祖先とみている。"
+   }
+  },
+  {
+   "from": -700,
+   "to": -258,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Văn Lang and the Hùng kings (tradition)",
+    "ko": "반랑과 흥왕(전승)",
+    "zh": "文郎国与雄王（传说）",
+    "ja": "文郎国と雄王（伝承）"
+   },
+   "summary": {
+    "en": "According to Vietnamese tradition, eighteen Hùng kings ruled the realm of Văn Lang in the Red River plain from Phong Châu; tradition places its foundation in 2879 BC, a date historians regard as legendary. Historically, the period corresponds to the chiefdoms of the Đông Sơn culture of the first millennium BC. The Hùng kings remain central to Vietnamese national identity and are honoured at the Hùng Temples in Phú Thọ.",
+    "ko": "베트남 전승에 따르면 18대의 흥왕이 퐁쩌우를 도읍으로 홍강 평야의 반랑을 다스렸으며, 건국은 기원전 2879년이라고 하나 역사학자들은 이를 전설로 본다. 역사적으로 이 시기는 기원전 1천년기 동선 문화의 수장 사회에 해당한다. 흥왕은 지금도 베트남 민족 정체성의 중심이며 푸토성의 흥왕 사당에서 기려진다.",
+    "zh": "据越南传说，十八代雄王以峰州为中心统治红河平原的文郎国，传说其建国于公元前2879年，史学界视之为传说年代。从史实看，这一时期对应公元前一千纪东山文化的酋邦社会。雄王至今仍是越南民族认同的核心，在富寿省的雄王庙受到祭祀。",
+    "ja": "ベトナムの伝承では、18代の雄王が峰州を拠点に紅河平野の文郎国を治め、建国は紀元前2879年とされるが、歴史家はこれを伝説上の年代とみる。史実としては紀元前1千年紀のドンソン文化の首長制社会にあたる。雄王はいまもベトナムの民族的アイデンティティの中心で、フート省の雄王廟に祀られている。"
+   }
+  },
+  {
+   "from": -257,
+   "to": -180,
+   "kind": "state",
+   "qid": "Q867227",
+   "polity": "Âu Lạc",
+   "name": {
+    "en": "Âu Lạc",
+    "ko": "어우락",
+    "zh": "瓯雒国",
+    "ja": "甌雒国"
+   },
+   "summary": {
+    "en": "Âu Lạc was the kingdom traditionally founded in 257 BC by Thục Phán (An Dương Vương), who united the Âu Việt and Lạc Việt peoples after overthrowing the last Hùng king. Its capital was the spiral citadel of Cổ Loa near modern Hanoi, whose massive ramparts survive. The kingdom fell to Zhao Tuo of Nanyue around 179 BC.",
+    "ko": "어우락은 전승에 따르면 기원전 257년 툭판(안즈엉브엉)이 마지막 흥왕을 무너뜨리고 어우비엣과 락비엣을 통합해 세운 왕국이다. 도읍은 오늘날 하노이 근처의 소용돌이 모양 성곽 꼬로아였으며, 거대한 성벽이 지금도 남아 있다. 기원전 179년 무렵 남월의 조타에게 멸망했다.",
+    "zh": "瓯雒国相传由蜀泮（安阳王）于公元前257年推翻末代雄王、统一瓯越与雒越而建立。其都城为今河内附近呈螺旋形的古螺城，巨大的城墙遗迹至今尚存。约公元前179年，瓯雒为南越国赵佗所灭。",
+    "ja": "甌雒国は伝承によれば、紀元前257年に蜀泮（安陽王）が最後の雄王を倒し、甌越と雒越を統合して建てた国である。都は現在のハノイ近郊にある渦巻き状の城郭・古螺城で、巨大な城壁が今も残る。紀元前179年頃、南越の趙佗に滅ぼされた。"
+   }
+  },
+  {
+   "from": -204,
+   "to": -111,
+   "kind": "state",
+   "qid": "Q827040",
+   "polity": "Nanyue",
+   "name": {
+    "en": "Nanyue (Nam Việt)",
+    "ko": "남월(남비엣)",
+    "zh": "南越国",
+    "ja": "南越国"
+   },
+   "summary": {
+    "en": "Nanyue was founded by the former Qin general Zhao Tuo (Triệu Đà) with its capital at Panyu (modern Guangzhou). After annexing Âu Lạc it ruled the Red River delta through local Lạc lords, organised as the commanderies of Jiaozhi and Jiuzhen. Vietnamese historiography long treated the Triệu as a native dynasty, though modern historians view it as a southern Chinese kingdom. The Han dynasty conquered it in 111 BC.",
+    "ko": "남월은 진나라 장수 출신 조타(찌에우다)가 판위(오늘날 광저우)를 도읍으로 세운 나라다. 어우락을 병합한 뒤 교지·구진군을 두고 현지의 락 수장들을 통해 홍강 삼각주를 다스렸다. 베트남 전통 사학은 오랫동안 조씨 왕조를 자국 왕조로 여겼으나, 현대 역사학자들은 이를 중국 남부의 왕국으로 본다. 기원전 111년 한나라에 정복되었다.",
+    "zh": "南越国由原秦将赵佗创建，都城番禺（今广州）。吞并瓯雒后，南越设交趾、九真二郡，通过当地雒将统治红河三角洲。越南传统史学长期将赵氏视为本国王朝，而现代史学家多将其视为华南王国。公元前111年，南越为汉朝所灭。",
+    "ja": "南越国は秦の元将軍・趙佗が番禺（現在の広州）を都に建てた国である。甌雒を併合したのち交趾・九真の二郡を置き、現地の雒将を通じて紅河デルタを支配した。ベトナムの伝統史学は長く趙氏を自国の王朝とみなしてきたが、現代の歴史家は華南の王国とみている。紀元前111年に漢に征服された。"
+   }
+  },
+  {
+   "from": -111,
+   "to": 938,
+   "kind": "colonial",
+   "qid": "Q403827",
+   "polity": null,
+   "name": {
+    "en": "Northern domination (Bắc thuộc)",
+    "ko": "북속 시대(박투옥)",
+    "zh": "北属时期",
+    "ja": "北属期（中国支配期）"
+   },
+   "summary": {
+    "en": "For over a thousand years the Red River delta and the coast to the Hoành Sơn range were provinces of successive Chinese empires, known as Jiaozhi, Jiaozhou and later Annan. Chinese writing, Confucian administration and Buddhism took root, while local elites repeatedly rose in revolt. Rule passed through the Han, Wu, Jin, the Southern Dynasties, Sui, Tang and Southern Han, ending with Ngô Quyền's victory in 938.",
+    "ko": "천여 년 동안 홍강 삼각주와 호앙선 산맥까지의 해안은 교지·교주, 이후 안남이라 불리며 역대 중국 왕조의 영토였다. 한자, 유교식 행정, 불교가 뿌리내렸고 현지 세력은 거듭 봉기했다. 지배권은 한·오·진·남조·수·당·남한으로 넘어갔으며 938년 응오꾸옌의 승리로 끝났다.",
+    "zh": "在一千多年间，红河三角洲及至横山的沿海地区先后被称为交趾、交州和安南，是历代中原王朝的辖地。汉字、儒家式行政和佛教在此扎根，而当地豪族屡屡起兵反抗。统治权历经汉、吴、晋、南朝、隋、唐及南汉，最终以938年吴权的胜利告终。",
+    "ja": "千年以上にわたり、紅河デルタと横山山脈までの沿岸部は交趾・交州、のちに安南と呼ばれ、歴代中国王朝の領域であった。漢字、儒教的行政、仏教が根付く一方、在地勢力は繰り返し反乱を起こした。支配は漢・呉・晋・南朝・隋・唐・南漢と移り、938年の呉権の勝利で終わった。"
+   }
+  },
+  {
+   "from": 1,
+   "to": 550,
+   "kind": "state",
+   "qid": "Q867782",
+   "polity": "Funan",
+   "name": {
+    "en": "Funan",
+    "ko": "부남",
+    "zh": "扶南",
+    "ja": "扶南"
+   },
+   "summary": {
+    "en": "Funan, known from Chinese records, was an Indianised polity centred on the lower Mekong whose port of Óc Eo in today's An Giang province traded with India, China and the Roman world. Its rulers adopted Sanskrit titles, Hindu and Buddhist cults and extensive canal networks. In the sixth century it was absorbed by its former vassal Chenla.",
+    "ko": "중국 기록에 전하는 부남은 메콩강 하류를 중심으로 한 인도화된 국가로, 오늘날 안장성의 외항 옥에오는 인도·중국·로마 세계와 교역했다. 지배자들은 산스크리트 칭호와 힌두교·불교 신앙을 받아들이고 광범위한 운하망을 건설했다. 6세기에 이전의 속국 진랍에 흡수되었다.",
+    "zh": "扶南见于中国史籍，是以湄公河下游为中心的印度化国家，其位于今安江省的港口奥埃奥与印度、中国乃至罗马世界通商。统治者采用梵文称号，信奉印度教与佛教，并修建了庞大的运河网。六世纪时被其旧属国真腊吞并。",
+    "ja": "中国史料に記される扶南は、メコン川下流域を中心とするインド化された国家で、現アンザン省の港オケオはインド・中国・ローマ世界と交易した。支配者はサンスクリットの称号やヒンドゥー教・仏教を受け入れ、大規模な運河網を築いた。6世紀にかつての属国真臘に吸収された。"
+   }
+  },
+  {
+   "from": 40,
+   "to": 43,
+   "kind": "state",
+   "qid": "Q1207428",
+   "polity": "Trưng sisters",
+   "name": {
+    "en": "Realm of the Trưng sisters",
+    "ko": "쯩 자매의 정권",
+    "zh": "二征夫人政权",
+    "ja": "徴姉妹の政権"
+   },
+   "summary": {
+    "en": "In AD 40 the sisters Trưng Trắc and Trưng Nhị led the Lạc lords against the Han governor Su Ding and ruled from Mê Linh over some sixty-five citadels. The Han general Ma Yuan crushed the movement in 42–43. The sisters are venerated as national heroines in Vietnam.",
+    "ko": "서기 40년 쯩짝과 쯩니 자매는 락 수장들을 이끌고 한나라 태수 소정에 맞서 봉기하여 메린을 중심으로 65개 성을 다스렸다. 한나라 장군 마원이 42~43년에 이 운동을 진압했다. 두 자매는 베트남에서 민족 영웅으로 추앙받는다.",
+    "zh": "公元40年，征侧、征贰姐妹率雒将起兵反抗汉朝太守苏定，以麋泠为中心统领六十五城。汉将马援于42至43年镇压了这场运动。二征夫人在越南被尊为民族女英雄。",
+    "ja": "西暦40年、徴側・徴弐の姉妹が雒将を率いて漢の太守蘇定に反旗を翻し、麊泠を拠点に65城を治めた。漢の将軍馬援が42〜43年にこれを鎮圧した。姉妹はベトナムで民族の英雄として崇敬されている。"
+   }
+  },
+  {
+   "from": 192,
+   "to": 757,
+   "kind": "state",
+   "qid": "Q5507706",
+   "polity": null,
+   "name": {
+    "en": "Lâm Ấp (Linyi)",
+    "ko": "임읍(럼업)",
+    "zh": "林邑",
+    "ja": "林邑"
+   },
+   "summary": {
+    "en": "Lâm Ấp, the Chinese name for the earliest Cham kingdom, arose around 192 when Khu Liên (Ou Lian) broke away from Han rule in Xianglin county, near modern Huế. It fought frequent wars with the Chinese province of Jiaozhou and adopted Hindu kingship, building the first sanctuaries at Mỹ Sơn. After the mid-eighth century Chinese sources call the Cham state Huanwang and later Zhancheng.",
+    "ko": "임읍은 최초의 참족 왕국을 가리키는 중국식 이름으로, 192년경 구련(쿠리엔)이 오늘날 후에 근처 상림현에서 한나라 지배를 벗어나며 성립했다. 중국의 교주와 자주 전쟁을 벌였고 힌두식 왕권을 받아들여 미선에 최초의 성소를 세웠다. 8세기 중엽 이후 중국 기록은 참족 나라를 환왕, 이어 점성이라 불렀다.",
+    "zh": "林邑是中国对最早的占族王国的称呼，约192年区连在象林县（今顺化附近）脱离汉朝统治而建国。林邑与交州屡有战事，接受印度教王权观念，并在美山修建了最早的圣所。八世纪中叶以后，中国史籍改称占族国家为环王，后又称占城。",
+    "ja": "林邑は最初のチャム人の王国を指す中国側の呼称で、192年頃に区連が象林県（現在のフエ付近）で漢の支配から離れて成立した。交州とたびたび戦い、ヒンドゥー的王権を受け入れてミーソンに最初の聖域を築いた。8世紀半ば以降、中国史料はチャム人の国を環王、のちに占城と呼んだ。"
+   }
+  },
+  {
+   "from": 544,
+   "to": 602,
+   "kind": "state",
+   "qid": "Q2441129",
+   "polity": "Early Lý Dynasty",
+   "name": {
+    "en": "Vạn Xuân (Early Lý dynasty)",
+    "ko": "반쑤언(전리 왕조)",
+    "zh": "万春国（前李朝）",
+    "ja": "万春国（前李朝）"
+   },
+   "summary": {
+    "en": "In 544 Lý Bí, having driven out the Liang governor, proclaimed himself emperor of Vạn Xuân ('Ten Thousand Springs'). Despite his defeat by Chen Baxian, his successors Triệu Quang Phục and Lý Phật Tử held out for decades. The Sui dynasty reconquered the territory in 602.",
+    "ko": "544년 리비는 양나라 자사를 몰아내고 반쑤언(만춘)의 황제를 칭했다. 그는 진패선에게 패했지만 후계자 찌에우꽝푹과 리펏뜨가 수십 년 동안 버텼다. 602년 수나라가 이 땅을 다시 정복했다.",
+    "zh": "544年，李贲驱逐梁朝刺史，自称万春国皇帝。他虽败于陈霸先，但其继承者赵光复、李佛子坚持了数十年。602年，隋朝重新征服了这一地区。",
+    "ja": "544年、李賁は梁の刺史を追放して万春国の皇帝を称した。彼は陳霸先に敗れたものの、後継者の趙光復と李仏子は数十年にわたり抵抗を続けた。602年、隋がこの地を再び征服した。"
+   }
+  },
+  {
+   "from": 550,
+   "to": 801,
+   "kind": "state",
+   "qid": "Q1057118",
+   "polity": "Chenla",
+   "name": {
+    "en": "Chenla in the Mekong Delta",
+    "ko": "메콩 삼각주의 진랍",
+    "zh": "湄公河三角洲的真腊",
+    "ja": "メコンデルタの真臘"
+   },
+   "summary": {
+    "en": "Chenla, a Khmer kingdom originally based further up the Mekong, supplanted Funan in the sixth century and took over the delta lands of today's southern Vietnam. In the eighth century Chinese sources describe it as split into 'Land Chenla' and 'Water Chenla', the latter covering the delta. Khmer temples and inscriptions of this period are found in the Mekong provinces.",
+    "ko": "메콩강 상류에 기반을 둔 크메르 왕국 진랍은 6세기에 부남을 대신해 오늘날 베트남 남부의 삼각주를 차지했다. 8세기 중국 기록은 진랍이 '육진랍'과 삼각주를 포함하는 '수진랍'으로 나뉘었다고 전한다. 메콩 지방에는 이 시기의 크메르 사원과 비문이 남아 있다.",
+    "zh": "真腊是原本位于湄公河上游的高棉王国，六世纪取代扶南，占有今越南南部的三角洲地区。八世纪的中国史籍记载真腊分裂为“陆真腊”和包括三角洲在内的“水真腊”。湄公河各省至今留有这一时期的高棉寺庙和碑铭。",
+    "ja": "真臘はメコン川上流を本拠とするクメール人の王国で、6世紀に扶南に取って代わり、現在のベトナム南部のデルタ地帯を支配した。8世紀の中国史料は真臘が「陸真臘」とデルタを含む「水真臘」に分かれたと伝える。メコン地方にはこの時期のクメールの寺院や碑文が残る。"
+   }
+  },
+  {
+   "from": 758,
+   "to": 1832,
+   "kind": "state",
+   "qid": "Q216786",
+   "polity": "Chámpa",
+   "name": {
+    "en": "Champa",
+    "ko": "참파",
+    "zh": "占婆（占城）",
+    "ja": "チャンパ"
+   },
+   "summary": {
+    "en": "Champa was a federation of Cham principalities — Indrapura, Amaravati, Vijaya, Kauthara and Panduranga — along the central coast, enriched by maritime trade and famed for brick temples such as Mỹ Sơn and Po Nagar. It fought long wars with Đại Việt and the Khmer Empire. Vietnamese southward expansion took Vijaya in 1471, and the last Cham principality, Panduranga, was annexed in 1832.",
+    "ko": "참파는 중부 해안의 인드라푸라·아마라바티·비자야·카우타라·판두랑가 등 참족 공국들의 연합체로, 해상 교역으로 번영했으며 미선과 포나가르 같은 벽돌 사원으로 유명하다. 다이비엣 및 크메르 제국과 오랜 전쟁을 벌였다. 베트남의 남진으로 1471년 비자야가 함락되었고, 마지막 참족 공국 판두랑가는 1832년 병합되었다.",
+    "zh": "占婆是中部沿海因陀罗补罗、阿摩罗波胝、毗阇耶、古笪罗、宾童龙等占族诸邦的联合体，因海上贸易而富庶，以美山、婆那加等砖砌神庙闻名。它与大越及高棉帝国长期交战。随着越南南进，毗阇耶于1471年陷落，最后的占族邦宾童龙于1832年被吞并。",
+    "ja": "チャンパは中部海岸のインドラプラ、アマラーヴァティー、ヴィジャヤ、カウターラ、パーンドゥランガなどチャム人諸侯国の連合で、海上交易で栄え、ミーソンやポーナガルなどの煉瓦造寺院で名高い。大越やクメール帝国と長く戦った。ベトナムの南進により1471年にヴィジャヤが陥落し、最後のチャム人の国パーンドゥランガは1832年に併合された。"
+   }
+  },
+  {
+   "from": 802,
+   "to": 1697,
+   "kind": "state",
+   "qid": "Q201705",
+   "polity": "Khmer Empire",
+   "name": {
+    "en": "Khmer rule in the Mekong Delta",
+    "ko": "메콩 삼각주의 크메르 지배",
+    "zh": "高棉王国治下的湄公河三角洲",
+    "ja": "メコンデルタのクメール支配"
+   },
+   "summary": {
+    "en": "From the founding of the Angkorian state in 802 the Mekong Delta — known to Khmers as Kampuchea Krom — lay within the Khmer realm, though sparsely settled and largely marshland. After the decline of Angkor, post-Angkorian Cambodian kings retained nominal control. From the seventeenth century Vietnamese settlers moved in, and in 1698 the Nguyễn lords organised Gia Định around Saigon (Prey Nokor).",
+    "ko": "802년 앙코르 왕조가 성립한 이후 메콩 삼각주(크메르어로 캄푸치아 끄롬)는 크메르 영역에 속했으나, 대부분 습지로 인구가 희박했다. 앙코르 쇠퇴 후에도 캄보디아 왕들이 명목상 지배를 유지했다. 17세기부터 베트남 이주민이 들어왔고, 1698년 응우옌 영주가 사이공(프레이노꼬르) 일대에 자딘부를 설치했다.",
+    "zh": "自802年吴哥王朝建立起，湄公河三角洲（高棉人称“下柬埔寨”）便属于高棉疆域，但当地多为沼泽，人烟稀少。吴哥衰落后，柬埔寨诸王仍维持名义统治。十七世纪起越南移民不断迁入，1698年阮主在西贡（普利安哥）一带设立嘉定府。",
+    "ja": "802年のアンコール朝成立以来、メコンデルタ（クメール語でカンプチア・クロム）はクメールの領域に属したが、多くは湿地で人口は希薄だった。アンコール衰退後もカンボジア王が名目上の支配を保った。17世紀からベトナム人移住者が入り、1698年に阮氏がサイゴン（プレイノコール）一帯に嘉定府を置いた。"
+   }
+  },
+  {
+   "from": 939,
+   "to": 967,
+   "kind": "state",
+   "qid": "Q703919",
+   "polity": "Ngô Dynasty",
+   "name": {
+    "en": "Ngô dynasty",
+    "ko": "응오 왕조",
+    "zh": "吴朝",
+    "ja": "呉朝"
+   },
+   "summary": {
+    "en": "After his victory at Bạch Đằng, Ngô Quyền proclaimed himself king in 939 and established his capital at the old citadel of Cổ Loa. Following his death in 944 the court weakened, and by 965 the country fragmented among the Twelve Warlords. The dynasty is regarded as the beginning of Vietnam's era of independence.",
+    "ko": "바익당 전투에서 승리한 응오꾸옌은 939년 왕을 칭하고 옛 성곽 꼬로아에 도읍을 정했다. 944년 그가 죽은 뒤 조정은 약해졌고, 965년에는 나라가 12사군으로 분열했다. 이 왕조는 베트남 독립 시대의 시작으로 여겨진다.",
+    "zh": "白藤江大捷后，吴权于939年称王，定都古螺旧城。944年吴权去世后朝廷衰弱，至965年国家分裂为十二使君割据。吴朝被视为越南独立时代的开端。",
+    "ja": "白藤江の勝利後、呉権は939年に王を称し、古螺の旧城に都を置いた。944年に彼が死去すると朝廷は弱体化し、965年には国は十二使君に分裂した。呉朝はベトナム独立時代の始まりとされる。"
+   }
+  },
+  {
+   "from": 968,
+   "to": 1009,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Đại Cồ Việt (Đinh and Early Lê dynasties)",
+    "ko": "다이꼬비엣(딘·전레 왕조)",
+    "zh": "大瞿越（丁朝与前黎朝）",
+    "ja": "大瞿越（丁朝・前黎朝）"
+   },
+   "summary": {
+    "en": "Đinh Bộ Lĩnh reunified the country in 968, named it Đại Cồ Việt and ruled from Hoa Lư in Ninh Bình. After his assassination, the general Lê Hoàn took the throne in 980, repelled a Song invasion and campaigned against Champa. The two short dynasties consolidated the independent state.",
+    "ko": "딘보린은 968년 나라를 다시 통일하고 국호를 다이꼬비엣이라 하며 닌빈의 호아르에서 다스렸다. 그가 암살된 뒤 장군 레호안이 980년 즉위하여 송나라의 침공을 물리치고 참파를 공격했다. 두 단명 왕조는 독립 국가의 기반을 다졌다.",
+    "zh": "丁部领于968年重新统一国家，定国号为大瞿越，以宁平的华闾为都。丁部领遇刺后，大将黎桓于980年即位，击退宋军入侵并出兵占城。这两个短暂的王朝巩固了独立国家的基础。",
+    "ja": "丁部領は968年に国を再統一して国号を大瞿越とし、ニンビンの華閭を都とした。彼が暗殺されると将軍黎桓が980年に即位し、宋の侵攻を退けてチャンパに遠征した。この二つの短命王朝が独立国家の基礎を固めた。"
+   }
+  },
+  {
+   "from": 1009,
+   "to": 1225,
+   "kind": "state",
+   "qid": "Q430309",
+   "polity": null,
+   "name": {
+    "en": "Lý dynasty (Đại Việt)",
+    "ko": "리 왕조(다이비엣)",
+    "zh": "李朝（大越）",
+    "ja": "李朝（大越）"
+   },
+   "summary": {
+    "en": "Founded by Lý Công Uẩn, the Lý dynasty moved the capital to Thăng Long (Hanoi), renamed the country Đại Việt in 1054 and built a centralised monarchy patronising Buddhism and Confucian learning. It established the Temple of Literature and the first civil examinations, and defeated a Song invasion in 1077. It pushed the border south at Champa's expense.",
+    "ko": "리꽁우언이 세운 리 왕조는 수도를 탕롱(하노이)으로 옮기고, 1054년 국호를 다이비엣으로 바꾸었으며, 불교와 유학을 후원하는 중앙집권적 왕정을 이루었다. 문묘와 최초의 과거 시험을 세웠고 1077년 송나라의 침공을 물리쳤다. 참파를 희생시키며 국경을 남쪽으로 넓혔다.",
+    "zh": "李公蕴建立的李朝迁都升龙（今河内），1054年改国号为大越，建立崇奉佛教、兼重儒学的中央集权君主制。李朝设立文庙并开科取士，1077年击退宋军入侵，并以占城为代价向南拓展疆界。",
+    "ja": "李公蘊が興した李朝は都を昇竜（ハノイ）に移し、1054年に国号を大越と改め、仏教と儒学を保護する中央集権的王政を築いた。文廟と最初の科挙を設け、1077年には宋の侵攻を退けた。チャンパを犠牲に国境を南へ広げた。"
+   }
+  },
+  {
+   "from": 1225,
+   "to": 1400,
+   "kind": "state",
+   "qid": "Q3111454",
+   "polity": null,
+   "name": {
+    "en": "Trần dynasty",
+    "ko": "쩐 왕조",
+    "zh": "陈朝",
+    "ja": "陳朝"
+   },
+   "summary": {
+    "en": "The Trần clan took power from the Lý in 1225. Under leaders such as Trần Hưng Đạo the kingdom repelled three Mongol-Yuan invasions (1258, 1285, 1287–88). The era saw the Trúc Lâm school of Zen, the first national history and growing literature in chữ Nôm, but late in the fourteenth century Champa's raids and internal decline weakened the dynasty.",
+    "ko": "쩐씨는 1225년 리 왕조로부터 권력을 넘겨받았다. 쩐흥다오 같은 지도자 아래 왕국은 몽골·원나라의 세 차례 침공(1258, 1285, 1287~88)을 물리쳤다. 쭉럼 선종, 최초의 국사 편찬, 쯔놈 문학의 성장이 이 시대에 이루어졌으나, 14세기 후반 참파의 침입과 내부 쇠퇴로 왕조가 약해졌다.",
+    "zh": "陈氏于1225年从李朝手中夺得政权。在陈兴道等人的领导下，陈朝三次击退蒙古元朝的入侵（1258年、1285年、1287—1288年）。这一时期诞生了竹林禅派、第一部国史，喃字文学也日渐兴盛；但十四世纪后期，占城的侵袭和内部衰败削弱了王朝。",
+    "ja": "陳氏は1225年に李朝から政権を奪った。陳興道らの指導のもと、モンゴル・元の三度の侵攻（1258年、1285年、1287〜88年）を撃退した。竹林禅派、最初の国史編纂、字喃文学の発展がこの時代に見られたが、14世紀後半にはチャンパの侵攻と内部の衰退で王朝は弱体化した。"
+   }
+  },
+  {
+   "from": 1400,
+   "to": 1407,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Hồ dynasty (Đại Ngu)",
+    "ko": "호 왕조(다이응우)",
+    "zh": "胡朝（大虞）",
+    "ja": "胡朝（大虞）"
+   },
+   "summary": {
+    "en": "Hồ Quý Ly deposed the last Trần ruler in 1400, renamed the country Đại Ngu and attempted radical reforms including paper currency, land limits and a new capital at Tây Đô in Thanh Hóa. His usurpation gave the Ming dynasty a pretext to invade in 1406. The Hồ were captured in 1407, ending the dynasty.",
+    "ko": "호꾸이리는 1400년 쩐 왕조의 마지막 왕을 폐위하고 국호를 다이응우라 바꾸었으며, 지폐 발행, 토지 소유 제한, 타인호아의 새 수도 떠이도 건설 등 급진적 개혁을 시도했다. 그의 찬탈은 명나라에 1406년 침공의 구실을 주었다. 1407년 호씨 일가가 붙잡히면서 왕조가 끝났다.",
+    "zh": "胡季犛于1400年废黜陈朝末帝，改国号为大虞，推行发行纸币、限田、在清化营建新都西都等激进改革。其篡位为明朝1406年出兵提供了借口。1407年胡氏父子被俘，胡朝灭亡。",
+    "ja": "胡季犛は1400年に陳朝最後の君主を廃して国号を大虞と改め、紙幣の発行、土地所有の制限、タインホアの新都西都の建設など急進的な改革を試みた。この簒奪は明に1406年の侵攻の口実を与えた。1407年に胡氏が捕らえられ、王朝は終わった。"
+   }
+  },
+  {
+   "from": 1407,
+   "to": 1427,
+   "kind": "colonial",
+   "qid": "Q9903",
+   "polity": "Ming Dynasty",
+   "name": {
+    "en": "Ming occupation (Jiaozhi province)",
+    "ko": "명나라 점령기(교지포정사)",
+    "zh": "明属时期（交趾布政使司）",
+    "ja": "明の支配（交趾布政使司）"
+   },
+   "summary": {
+    "en": "The Ming annexed the country as Jiaozhi province, imposing Chinese administration, removing books and craftsmen to China and promoting assimilation. Resistance continued through the Later Trần movement and then Lê Lợi's Lam Sơn uprising from 1418. Ming forces withdrew in 1427.",
+    "ko": "명나라는 이 땅을 교지포정사로 병합하고 중국식 행정을 강요했으며, 서적과 장인을 중국으로 옮기고 동화를 추진했다. 저항은 후쩐 운동에 이어 1418년부터 레러이의 람선 봉기로 이어졌다. 명군은 1427년 철수했다.",
+    "zh": "明朝将其地并为交趾布政使司，推行中原式行政，将典籍和工匠迁往中国，推动同化。反抗先有后陈朝的运动，1418年起又有黎利领导的蓝山起义。明军于1427年撤出。",
+    "ja": "明はこの地を交趾布政使司として併合し、中国式の行政を敷き、書籍や職人を中国へ移して同化を進めた。抵抗は後陳朝の運動を経て、1418年からの黎利による藍山蜂起へと続いた。明軍は1427年に撤退した。"
+   }
+  },
+  {
+   "from": 1428,
+   "to": 1527,
+   "kind": "state",
+   "qid": "Q878276",
+   "polity": "Lê Dynasty",
+   "name": {
+    "en": "Later Lê dynasty (early period)",
+    "ko": "후레 왕조(전기)",
+    "zh": "后黎朝（前期）",
+    "ja": "後黎朝（前期）"
+   },
+   "summary": {
+    "en": "Lê Lợi founded the Later Lê dynasty after expelling the Ming, restoring the name Đại Việt. Under Lê Thánh Tông (1460–1497) the state reached a classical peak with the Hồng Đức legal code, an expanded Confucian examination system and the conquest of the Cham capital Vijaya in 1471. Weak rulers in the early sixteenth century led to factional strife.",
+    "ko": "레러이는 명나라를 몰아낸 뒤 후레 왕조를 세우고 다이비엣이라는 국호를 되살렸다. 레타인똥(1460~1497) 시기에 국가는 홍득 법전, 확대된 유교 과거제, 1471년 참파의 수도 비자야 정복으로 고전적 전성기를 맞았다. 16세기 초 무능한 군주들이 이어지면서 파벌 다툼이 벌어졌다.",
+    "zh": "黎利驱逐明军后建立后黎朝，恢复大越国号。黎圣宗在位期间（1460—1497年），国家凭借《洪德法典》、扩充的儒学科举制度以及1471年攻克占城都城毗阇耶而达到鼎盛。十六世纪初君主孱弱，朝中派系纷争不断。",
+    "ja": "黎利は明を駆逐して後黎朝を興し、大越の国号を回復した。黎聖宗（在位1460〜1497年）の時代、洪徳法典、拡充された儒学の科挙、1471年のチャンパの都ヴィジャヤ攻略により古典的な最盛期を迎えた。16世紀初めには暗愚な君主が続き、派閥抗争が起きた。"
+   }
+  },
+  {
+   "from": 1527,
+   "to": 1592,
+   "kind": "state",
+   "qid": "Q1317991",
+   "polity": "Đại Việt",
+   "name": {
+    "en": "Mạc dynasty",
+    "ko": "막 왕조",
+    "zh": "莫朝",
+    "ja": "莫朝"
+   },
+   "summary": {
+    "en": "The general Mạc Đăng Dung seized the throne in 1527 and ruled from Thăng Long. Lê loyalists led by Nguyễn Kim and then the Trịnh restored a rival Lê court in Thanh Hóa from 1533, starting a long north–south civil war. The Mạc lost Thăng Long in 1592 but survived in Cao Bằng until 1677.",
+    "ko": "장군 막당중이 1527년 왕위를 빼앗고 탕롱에서 다스렸다. 응우옌낌과 뒤이은 찐씨가 이끄는 레 왕조 지지 세력은 1533년부터 타인호아에 레 왕실을 다시 세워 오랜 남북 내전이 시작되었다. 막 왕조는 1592년 탕롱을 잃었지만 1677년까지 까오방에서 존속했다.",
+    "zh": "大将莫登庸于1527年篡位，以升龙为都。阮淦及其后的郑氏率领拥黎势力，自1533年起在清化另立黎朝朝廷，引发长期的南北朝内战。莫朝于1592年失去升龙，但在高平延续至1677年。",
+    "ja": "将軍莫登庸が1527年に王位を奪い、昇竜で統治した。阮淦、続いて鄭氏が率いる黎朝支持派は1533年からタインホアに黎朝の朝廷を再興し、長い南北朝の内戦が始まった。莫朝は1592年に昇竜を失ったが、高平で1677年まで存続した。"
+   }
+  },
+  {
+   "from": 1533,
+   "to": 1788,
+   "kind": "state",
+   "qid": "Q2267508",
+   "polity": "Trịnh lords",
+   "name": {
+    "en": "Restored Lê and the Trịnh lords (Đàng Ngoài)",
+    "ko": "레 왕조 중흥과 찐 영주(당응오아이)",
+    "zh": "后黎朝中兴与郑主（北河）",
+    "ja": "黎朝中興と鄭氏（タンゴアイ）"
+   },
+   "summary": {
+    "en": "After 1533 the restored Lê emperors reigned as figureheads while the Trịnh family held real power in the north (Đàng Ngoài, called Tonkin by Europeans). The Trịnh fought the Mạc and then the southern Nguyễn lords, ran the bureaucracy from Thăng Long and traded with Dutch and English merchants. The Tây Sơn ended Trịnh power in 1786, and the last Lê emperor fled to China in 1789.",
+    "ko": "1533년 이후 다시 세워진 레 왕조의 황제는 허수아비였고, 북부(당응오아이, 유럽인들이 통킹이라 부른 곳)의 실권은 찐씨 가문이 쥐었다. 찐씨는 막씨에 이어 남부의 응우옌 영주와 싸웠고, 탕롱에서 관료제를 운영하며 네덜란드·영국 상인과 교역했다. 떠이선이 1786년 찐씨의 권력을 끝냈고, 마지막 레 황제는 1789년 중국으로 달아났다.",
+    "zh": "1533年以后，复辟的黎朝皇帝仅为傀儡，北方（北河，欧洲人称东京）的实权掌握在郑氏手中。郑主先后与莫氏和南方阮主作战，在升龙主持官僚机构，并与荷兰、英国商人通商。1786年西山军终结了郑氏政权，末代黎帝于1789年逃往中国。",
+    "ja": "1533年以後、再興された黎朝の皇帝は名目的な存在となり、北部（タンゴアイ、ヨーロッパ人のいうトンキン）の実権は鄭氏が握った。鄭氏は莫氏、ついで南の阮氏と戦い、昇竜で官僚機構を運営し、オランダ・イギリス商人と交易した。1786年に西山朝が鄭氏政権を終わらせ、最後の黎朝皇帝は1789年に中国へ逃れた。"
+   }
+  },
+  {
+   "from": 1558,
+   "to": 1777,
+   "kind": "state",
+   "qid": "Q2301908",
+   "polity": "Nguyễn lords",
+   "name": {
+    "en": "Nguyễn lords (Đàng Trong)",
+    "ko": "응우옌 영주(당쫑)",
+    "zh": "阮主（广南国）",
+    "ja": "広南阮氏（ダンチョン）"
+   },
+   "summary": {
+    "en": "In 1558 Nguyễn Hoàng was sent to govern Thuận Hóa and built an autonomous southern realm (Đàng Trong, known to foreigners as Cochinchina or Quảng Nam). The Nguyễn lords resisted the Trịnh, absorbed the remaining Cham lands and opened the Mekong Delta to Vietnamese settlement. Their capital became Phú Xuân (Huế), and Hội An flourished as an international port.",
+    "ko": "1558년 응우옌호앙이 투언호아 통치를 맡아 내려가 남부에 자치 영역(당쫑, 외국인들이 코친차이나 또는 꽝남이라 부른 곳)을 세웠다. 응우옌 영주들은 찐씨에 맞서는 한편, 남은 참족 땅을 흡수하고 메콩 삼각주를 베트남인의 정착지로 개척했다. 도읍은 푸쑤언(후에)이 되었고, 호이안은 국제 무역항으로 번성했다.",
+    "zh": "1558年，阮潢受命镇守顺化，在南方建立起自治政权（广南国，外国人称“交趾支那”）。阮主一面抵御郑主，一面吞并残余的占族领土，并开拓湄公河三角洲供越南人定居。其都城定于富春（顺化），会安则作为国际港口而繁荣。",
+    "ja": "1558年に阮潢が順化の統治に赴き、南部に自立した領域（ダンチョン、外国人のいうコーチシナまたは広南国）を築いた。阮氏は鄭氏に対抗しつつ、残るチャム人の地を吸収し、メコンデルタをベトナム人の入植地として開いた。都は富春（フエ）に置かれ、ホイアンは国際貿易港として栄えた。"
+   }
+  },
+  {
+   "from": 1771,
+   "to": 1802,
+   "kind": "state",
+   "qid": "Q1034173",
+   "polity": "Tây Sơn dynasty",
+   "name": {
+    "en": "Tây Sơn dynasty",
+    "ko": "떠이선 왕조",
+    "zh": "西山朝",
+    "ja": "西山朝"
+   },
+   "summary": {
+    "en": "The Tây Sơn uprising, led by the brothers Nguyễn Nhạc, Nguyễn Huệ and Nguyễn Lữ from Bình Định, overthrew both the Nguyễn and Trịnh lords. Nguyễn Huệ, as Emperor Quang Trung, defeated Siamese and Qing armies and promoted chữ Nôm. After his death in 1792 the regime weakened and fell to Nguyễn Ánh in 1802.",
+    "ko": "빈딘 출신의 응우옌냑·응우옌후에·응우옌르 형제가 이끈 떠이선 봉기는 응우옌 영주와 찐 영주를 모두 무너뜨렸다. 꽝쭝 황제가 된 응우옌후에는 시암군과 청군을 격파하고 쯔놈을 장려했다. 1792년 그가 죽은 뒤 정권은 약해졌고 1802년 응우옌아인에게 멸망했다.",
+    "zh": "西山起义由平定的阮岳、阮惠、阮侣三兄弟领导，先后推翻了阮主和郑主。阮惠称光中帝，击败暹罗和清朝军队，并提倡使用喃字。1792年阮惠去世后，西山政权日渐衰弱，1802年为阮映所灭。",
+    "ja": "ビンディン出身の阮岳・阮恵・阮侶の三兄弟が率いた西山の反乱は、阮氏と鄭氏の双方を打倒した。光中帝となった阮恵はシャム軍と清軍を破り、字喃を奨励した。1792年に彼が死去すると政権は弱体化し、1802年に阮福暎に滅ぼされた。"
+   }
+  },
+  {
+   "from": 1802,
+   "to": 1945,
+   "kind": "state",
+   "qid": "Q6500483",
+   "polity": "Nguyễn dynasty",
+   "name": {
+    "en": "Nguyễn dynasty",
+    "ko": "응우옌 왕조",
+    "zh": "阮朝",
+    "ja": "阮朝"
+   },
+   "summary": {
+    "en": "Founded by Gia Long, the Nguyễn dynasty ruled a unified Vietnam from Huế, adopting the name Việt Nam in 1804 and Đại Nam under Minh Mạng. It built a Qing-style bureaucracy and citadels, and suppressed Christianity, which France used as a pretext for conquest from 1858. From 1883–84 the emperors reigned under French protectorate until Bảo Đại abdicated in 1945.",
+    "ko": "자롱제가 세운 응우옌 왕조는 후에를 도읍으로 통일 베트남을 다스렸으며, 1804년 비엣남, 민망제 때 다이남이라는 국호를 썼다. 청나라식 관료제와 성곽을 갖추고 기독교를 탄압했는데, 프랑스는 이를 구실로 1858년부터 정복에 나섰다. 1883~84년부터 황제들은 프랑스 보호령 아래 재위했고, 1945년 바오다이가 퇴위했다.",
+    "zh": "嘉隆帝建立的阮朝以顺化为都统治统一的越南，1804年定国号为越南，明命帝时又改称大南。阮朝仿照清朝建立官僚体制、修筑城池，并镇压天主教，法国则以此为借口于1858年起发动征服。1883至1884年后，阮朝皇帝在法国保护下在位，直至1945年保大帝退位。",
+    "ja": "嘉隆帝が興した阮朝はフエを都に統一ベトナムを治め、1804年に越南、明命帝のときに大南を国号とした。清に倣った官僚制と城郭を整え、キリスト教を弾圧したが、フランスはこれを口実に1858年から征服に乗り出した。1883〜84年以降、皇帝はフランスの保護下で在位し、1945年に保大帝が退位した。"
+   }
+  },
+  {
+   "from": 1858,
+   "to": 1954,
+   "kind": "colonial",
+   "qid": "Q185682",
+   "polity": "French Indochina",
+   "name": {
+    "en": "French colonial rule (French Indochina)",
+    "ko": "프랑스 식민 지배(프랑스령 인도차이나)",
+    "zh": "法国殖民统治（法属印度支那）",
+    "ja": "フランスの植民地支配（仏領インドシナ）"
+   },
+   "summary": {
+    "en": "France conquered Cochinchina between 1858 and 1867 as a colony and imposed protectorates over Annam and Tonkin in 1883–84. From 1887 these were joined with Cambodia, and later Laos, in the Indochinese Union. Colonial rule built railways, rubber plantations and rice exports, while heavy taxation and land concentration fuelled nationalist and communist movements.",
+    "ko": "프랑스는 1858~1867년 코친차이나를 정복해 직할 식민지로 삼고, 1883~84년 안남과 통킹을 보호령으로 만들었다. 1887년부터 이들은 캄보디아, 이후 라오스와 함께 인도차이나 연방으로 묶였다. 식민 통치는 철도, 고무 농장, 쌀 수출을 발전시켰지만, 무거운 세금과 토지 집중이 민족주의와 공산주의 운동을 키웠다.",
+    "zh": "法国于1858至1867年间征服交趾支那并设为直辖殖民地，1883至1884年又将安南和东京置于保护之下。1887年起，这些地区与柬埔寨（后又加入老挝）合并为印度支那联邦。殖民统治修建了铁路、橡胶种植园并扩大大米出口，但沉重的赋税和土地集中催生了民族主义和共产主义运动。",
+    "ja": "フランスは1858〜1867年にコーチシナを征服して直轄植民地とし、1883〜84年にアンナンとトンキンを保護国とした。1887年からはカンボジア、のちにラオスとともにインドシナ連邦にまとめられた。植民地支配は鉄道、ゴム農園、米輸出を発展させたが、重税と土地の集中が民族主義・共産主義運動を育てた。"
+   }
+  },
+  {
+   "from": 1940,
+   "to": 1945,
+   "kind": "colonial",
+   "qid": "Q188712",
+   "polity": "Empire of Japan",
+   "name": {
+    "en": "Japanese occupation",
+    "ko": "일본 점령기",
+    "zh": "日本占领时期",
+    "ja": "日本の進駐・占領"
+   },
+   "summary": {
+    "en": "From September 1940 Japanese forces were stationed in Indochina under agreements with Vichy France, which kept administering the colony. On 9 March 1945 Japan overthrew the French administration and sponsored the short-lived Empire of Vietnam under Bảo Đại. The period coincided with the catastrophic famine of 1944–45 in the north.",
+    "ko": "1940년 9월부터 일본군은 비시 프랑스와의 협정에 따라 인도차이나에 주둔했으며, 식민지 행정은 프랑스가 계속 맡았다. 1945년 3월 9일 일본은 프랑스 행정을 무너뜨리고 바오다이를 내세운 단명한 베트남 제국을 후원했다. 이 시기는 1944~45년 북부의 참혹한 대기근과 겹쳤다.",
+    "zh": "1940年9月起，日军根据与维希法国的协定进驻印度支那，殖民地行政仍由法国负责。1945年3月9日，日本推翻法国殖民当局，扶植以保大为首的短命越南帝国。这一时期恰逢1944至1945年北方的惨烈大饥荒。",
+    "ja": "1940年9月から日本軍はヴィシー政権との協定に基づきインドシナに進駐し、植民地行政はフランスが引き続き担った。1945年3月9日、日本は仏印処理でフランスの行政を打倒し、保大を戴く短命のベトナム帝国を後援した。この時期は1944〜45年の北部の悲惨な大飢饉と重なった。"
+   }
+  },
+  {
+   "from": 1945,
+   "to": 1976,
+   "kind": "state",
+   "qid": "Q172640",
+   "polity": "Democratic Republic of Vietnam",
+   "name": {
+    "en": "Democratic Republic of Vietnam",
+    "ko": "베트남 민주공화국",
+    "zh": "越南民主共和国",
+    "ja": "ベトナム民主共和国"
+   },
+   "summary": {
+    "en": "Proclaimed by Hồ Chí Minh on 2 September 1945, the Democratic Republic of Vietnam fought France in the First Indochina War and, after the 1954 Geneva Accords, governed the north from Hanoi as a communist state. It backed the insurgency in the south and fought the United States and the Republic of Vietnam until 1975. It merged with the south into the Socialist Republic of Vietnam in 1976.",
+    "ko": "1945년 9월 2일 호찌민이 선포한 베트남 민주공화국은 제1차 인도차이나 전쟁에서 프랑스와 싸웠고, 1954년 제네바 협정 이후 하노이를 수도로 북부를 공산주의 국가로 통치했다. 남부의 무장 투쟁을 지원하며 1975년까지 미국과 베트남 공화국에 맞서 싸웠다. 1976년 남부와 합쳐 베트남 사회주의공화국이 되었다.",
+    "zh": "越南民主共和国由胡志明于1945年9月2日宣布成立，在第一次印度支那战争中与法国作战，1954年日内瓦协议后以河内为首都，在北方建立共产主义政权。它支持南方的武装斗争，与美国和越南共和国作战直至1975年。1976年与南方合并为越南社会主义共和国。",
+    "ja": "1945年9月2日にホー・チ・ミンが宣言したベトナム民主共和国は、第一次インドシナ戦争でフランスと戦い、1954年のジュネーヴ協定後はハノイを首都に北部を共産主義国家として統治した。南部の武装闘争を支援し、1975年までアメリカおよびベトナム共和国と戦った。1976年に南部と統合してベトナム社会主義共和国となった。"
+   }
+  },
+  {
+   "from": 1949,
+   "to": 1955,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "State of Vietnam",
+    "ko": "베트남국",
+    "zh": "越南国",
+    "ja": "ベトナム国"
+   },
+   "summary": {
+    "en": "Created by the 1949 Élysée Accords, the State of Vietnam was an associated state within the French Union headed by former emperor Bảo Đại, intended as a non-communist alternative to the Viet Minh. It controlled much of the south after the 1954 partition. In 1955 Prime Minister Ngô Đình Diệm deposed Bảo Đại in a referendum and proclaimed the Republic of Vietnam.",
+    "ko": "1949년 엘리제 협정으로 세워진 베트남국은 전 황제 바오다이를 수반으로 한 프랑스 연합 내 협동국으로, 베트민에 대한 비공산주의 대안으로 구상되었다. 1954년 분단 이후 남부 대부분을 통치했다. 1955년 응오딘지엠 총리는 국민투표로 바오다이를 폐위하고 베트남 공화국을 선포했다.",
+    "zh": "越南国根据1949年《爱丽舍协定》成立，是法兰西联邦内的联系邦，由前皇帝保大任国家元首，旨在作为越盟之外的非共产主义选择。1954年分治后，越南国控制南方大部分地区。1955年，总理吴廷琰通过公民投票废黜保大，宣布成立越南共和国。",
+    "ja": "1949年のエリゼ協定によって生まれたベトナム国は、元皇帝保大を元首とするフランス連合内の協同国で、ベトミンに対する非共産主義の選択肢として構想された。1954年の分断後は南部の大部分を統治した。1955年、ゴ・ディン・ジエム首相は国民投票で保大を廃し、ベトナム共和国を宣言した。"
+   }
+  },
+  {
+   "from": 1955,
+   "to": 1975,
+   "kind": "state",
+   "qid": "Q180573",
+   "polity": "Republic of Vietnam",
+   "name": {
+    "en": "Republic of Vietnam (South Vietnam)",
+    "ko": "베트남 공화국(남베트남)",
+    "zh": "越南共和国（南越）",
+    "ja": "ベトナム共和国（南ベトナム）"
+   },
+   "summary": {
+    "en": "The Republic of Vietnam, with its capital at Saigon, governed the territory south of the 17th parallel with extensive American support. It was led by Ngô Đình Diệm until his overthrow in 1963, then by military juntas and from 1967 by Nguyễn Văn Thiệu. It fought the National Liberation Front and North Vietnam and collapsed when Saigon fell on 30 April 1975.",
+    "ko": "사이공을 수도로 한 베트남 공화국은 미국의 대규모 지원을 받으며 북위 17도선 이남을 통치했다. 1963년 쿠데타로 축출될 때까지 응오딘지엠이 이끌었고, 이후 군사 정권을 거쳐 1967년부터 응우옌반티에우가 집권했다. 민족해방전선 및 북베트남과 싸웠으며 1975년 4월 30일 사이공 함락으로 붕괴했다.",
+    "zh": "越南共和国以西贡为首都，在美国大力支持下统治北纬17度线以南地区。1963年被政变推翻前由吴廷琰领导，此后经历军人执政，1967年起由阮文绍执政。越南共和国与民族解放阵线及北越作战，1975年4月30日随西贡陷落而覆灭。",
+    "ja": "サイゴンを首都とするベトナム共和国は、アメリカの大規模な支援のもと北緯17度線以南を統治した。1963年のクーデターで倒されるまでゴ・ディン・ジエムが率い、その後の軍事政権を経て1967年からはグエン・ヴァン・ティエウが政権を握った。民族解放戦線と北ベトナムと戦い、1975年4月30日のサイゴン陥落で崩壊した。"
+   }
+  },
+  {
+   "from": 1976,
+   "to": 1986,
+   "kind": "period",
+   "qid": "Q16481442",
+   "polity": null,
+   "name": {
+    "en": "Subsidy period (Bao cấp)",
+    "ko": "배급 경제 시대(바오껍)",
+    "zh": "包给时期（计划配给时期）",
+    "ja": "バオカップ時代"
+   },
+   "summary": {
+    "en": "After reunification the state extended central planning, agricultural collectivisation and ration-based distribution to the whole country. Combined with war, the loss of Western aid and a US embargo, the system produced severe shortages and runaway inflation. The hardships of this period led directly to the Đổi Mới reforms.",
+    "ko": "통일 이후 국가는 중앙 계획 경제, 농업 집단화, 배급제를 전국으로 확대했다. 전쟁, 서방 원조의 단절, 미국의 금수 조치와 겹쳐 이 체제는 심각한 물자 부족과 극심한 인플레이션을 낳았다. 이 시기의 고난은 도이머이 개혁으로 곧장 이어졌다.",
+    "zh": "统一后，国家将计划经济、农业集体化和凭票配给制推广到全国。再加上战争、西方援助中断和美国禁运，这一体制造成了严重的物资短缺和恶性通货膨胀。这一时期的困境直接促成了革新开放。",
+    "ja": "統一後、国家は中央計画経済、農業の集団化、配給制を全国に広げた。戦争、西側援助の途絶、アメリカの禁輸と重なり、この体制は深刻な物不足と激しいインフレを招いた。この時期の困窮がドイモイ改革に直結した。"
+   }
+  },
+  {
+   "from": 1976,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q881",
+   "polity": "Socialist Republic of Vietnam",
+   "name": {
+    "en": "Socialist Republic of Vietnam",
+    "ko": "베트남 사회주의공화국",
+    "zh": "越南社会主义共和国",
+    "ja": "ベトナム社会主義共和国"
+   },
+   "summary": {
+    "en": "Reunified on 2 July 1976, the Socialist Republic of Vietnam is a one-party state led by the Communist Party of Vietnam. After a decade of war with Cambodia and China, economic crisis and mass emigration, the Đổi Mới reforms of 1986 opened the economy. Vietnam has since become one of Asia's fastest-growing economies and an active member of ASEAN and the WTO.",
+    "ko": "1976년 7월 2일 통일된 베트남 사회주의공화국은 베트남 공산당이 이끄는 일당 국가다. 캄보디아·중국과의 전쟁, 경제 위기, 대규모 해외 탈출로 이어진 10년 뒤 1986년 도이머이 개혁으로 경제를 개방했다. 이후 베트남은 아시아에서 가장 빠르게 성장하는 경제 가운데 하나가 되었고 아세안과 WTO에서 활발히 활동하고 있다.",
+    "zh": "越南社会主义共和国于1976年7月2日实现统一，是由越南共产党领导的一党制国家。在经历了与柬埔寨和中国的战争、经济危机和大规模外逃的十年之后，1986年的革新开放政策使经济走向开放。此后越南成为亚洲增长最快的经济体之一，并积极参与东盟和世贸组织事务。",
+    "ja": "1976年7月2日に統一されたベトナム社会主義共和国は、ベトナム共産党が指導する一党制国家である。カンボジア・中国との戦争、経済危機、大量の国外脱出が続いた10年を経て、1986年のドイモイ改革で経済を開放した。以来ベトナムはアジアで最も成長の速い経済の一つとなり、ASEANやWTOで積極的に活動している。"
+   }
+  },
+  {
+   "from": 1986,
+   "to": 2026,
+   "kind": "period",
+   "qid": "Q342587",
+   "polity": null,
+   "name": {
+    "en": "Đổi Mới era",
+    "ko": "도이머이 시대",
+    "zh": "革新开放时期",
+    "ja": "ドイモイの時代"
+   },
+   "summary": {
+    "en": "The Đổi Mới ('renovation') policy adopted in December 1986 introduced a socialist-oriented market economy, decollectivised agriculture and welcomed foreign investment. Vietnam became a major rice and coffee exporter and a manufacturing hub for electronics and textiles. Poverty fell sharply, though concerns over inequality, corruption and the environment grew.",
+    "ko": "1986년 12월 채택된 도이머이('쇄신') 정책은 사회주의 지향 시장경제를 도입하고 농업 집단화를 해제했으며 외국인 투자를 받아들였다. 베트남은 주요 쌀·커피 수출국이자 전자·섬유 제조 거점이 되었다. 빈곤은 크게 줄었지만 불평등, 부패, 환경 문제에 대한 우려도 커졌다.",
+    "zh": "1986年12月通过的革新开放政策引入了社会主义定向的市场经济，解散农业集体化并欢迎外国投资。越南成为重要的大米和咖啡出口国，以及电子和纺织制造业基地。贫困率大幅下降，但对不平等、腐败和环境问题的担忧也随之上升。",
+    "ja": "1986年12月に採択されたドイモイ（刷新）政策は社会主義志向市場経済を導入し、農業の集団化を解き、外国投資を受け入れた。ベトナムは主要な米・コーヒー輸出国となり、電子機器や繊維の製造拠点となった。貧困は大幅に減ったが、格差、汚職、環境への懸念も強まった。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2879,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Traditional founding of the Hồng Bàng dynasty",
+    "ko": "전승 속 홍방 왕조의 건국",
+    "zh": "传说中的鸿庞氏建国",
+    "ja": "伝承上の鴻龐氏の建国"
+   },
+   "description": {
+    "en": "According to Vietnamese tradition, recorded in medieval chronicles such as the Đại Việt sử ký toàn thư, Kinh Dương Vương founded the Hồng Bàng line in 2879 BC, and the Hùng kings later ruled the realm of Văn Lang. The legend of Lạc Long Quân and Âu Cơ, whose hundred children became the ancestors of the Viet, belongs to this cycle. Historians treat the date as legendary rather than historical.",
+    "ko": "『대월사기전서』 같은 중세 사서에 실린 베트남 전승에 따르면, 낀즈엉브엉이 기원전 2879년 홍방 왕조를 열었고 이후 흥왕들이 반랑을 다스렸다. 락롱꾸언과 어우꺼의 백 명의 자식이 비엣족의 조상이 되었다는 설화도 이 전승에 속한다. 역사학자들은 이 연대를 역사적 사실이 아닌 전설로 본다.",
+    "zh": "据《大越史记全书》等中世纪史籍所载的越南传说，泾阳王于公元前2879年开创鸿庞氏，其后雄王统治文郎国。貉龙君与妪姬所生百子成为越人祖先的传说也属于这一体系。史学家将这一年代视为传说而非信史。",
+    "ja": "『大越史記全書』など中世の史書に記されたベトナムの伝承では、涇陽王が紀元前2879年に鴻龐氏を開き、のちに雄王が文郎国を治めたとされる。貉龍君と嫗姫の百人の子がベトナム人の祖となったという説話もこの伝承に属する。歴史家はこの年代を史実ではなく伝説とみている。"
+   }
+  },
+  {
+   "year": -2000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Phùng Nguyên farming villages",
+    "ko": "풍응우옌 문화의 농경 마을",
+    "zh": "冯原文化的农耕村落",
+    "ja": "フングエン文化の農耕集落"
+   },
+   "description": {
+    "en": "Around 2000 BC the Phùng Nguyên culture appeared in the middle Red River region, with permanent villages, rice cultivation and finely incised pottery. Its people produced polished stone axes and ornaments of nephrite-like stone, and bronze working began to appear toward its end. Vietnamese archaeologists regard it as the starting point of the cultural sequence that led to Đông Sơn.",
+    "ko": "기원전 2000년경 홍강 중류 지역에 풍응우옌 문화가 나타나 상설 마을, 벼농사, 정교한 새김무늬 토기를 남겼다. 사람들은 간 돌도끼와 연옥 같은 돌로 만든 장신구를 만들었고, 말기에는 청동 가공이 나타나기 시작했다. 베트남 고고학자들은 이 문화를 동선 문화로 이어지는 문화 계열의 출발점으로 본다.",
+    "zh": "约公元前2000年，冯原文化出现在红河中游地区，形成了定居村落，种植水稻，制作精美的刻划纹陶器。其居民制作磨制石斧和类软玉石饰，晚期开始出现青铜加工。越南考古学家将其视为通向东山文化的文化序列的起点。",
+    "ja": "紀元前2000年頃、紅河中流域にフングエン文化が現れ、恒常的な集落、稲作、精巧な刻線文土器を残した。人々は磨製石斧や軟玉のような石の装身具を作り、末期には青銅加工が現れ始めた。ベトナムの考古学者はこれをドンソン文化へと続く文化系列の出発点とみている。"
+   }
+  },
+  {
+   "year": -1000,
+   "qid": "Q996912",
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Rise of the Đông Sơn bronze culture",
+    "ko": "동선 청동 문화의 성립",
+    "zh": "东山青铜文化兴起",
+    "ja": "ドンソン青銅文化の成立"
+   },
+   "description": {
+    "en": "From the early first millennium BC the Đông Sơn culture flourished in the Red, Mã and Cả river valleys. Its craftsmen cast large bronze drums decorated with boats, birds, dancers and a central star, which spread as prestige goods across mainland and island Southeast Asia. The culture is linked with wet-rice farming chiefdoms that Vietnamese tradition identifies with Văn Lang and Âu Lạc.",
+    "ko": "기원전 1천년기 초부터 동선 문화가 홍강·마강·까강 유역에서 번성했다. 장인들은 배·새·춤추는 사람·중앙의 별 무늬로 장식한 큰 청동북을 주조했는데, 이것은 위세품으로 동남아시아 대륙과 섬 지역 전역에 퍼졌다. 이 문화는 베트남 전승이 반랑·어우락과 동일시하는 논농사 수장 사회와 연결된다.",
+    "zh": "公元前一千纪初起，东山文化在红河、马江和蓝江流域兴盛。工匠铸造饰有舟船、飞鸟、舞人和中心太阳纹的大型铜鼓，作为威望物品传播到东南亚大陆和海岛各地。该文化与水稻农耕酋邦相联系，越南传统将其认同为文郎和瓯雒。",
+    "ja": "紀元前1千年紀の初めから、ドンソン文化が紅河・マー川・カー川流域で栄えた。職人たちは舟・鳥・踊り手・中央の星文で飾った大型銅鼓を鋳造し、それは威信財として東南アジアの大陸部・島嶼部に広まった。この文化は、ベトナムの伝承が文郎・甌雒と同一視する水稲耕作の首長制社会と結びつく。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Sa Huỳnh maritime trade network",
+    "ko": "사후인 문화의 해상 교역망",
+    "zh": "沙萤文化的海上贸易网络",
+    "ja": "サフィン文化の海上交易網"
+   },
+   "description": {
+    "en": "By the mid-first millennium BC the Sa Huỳnh people of the central coast were burying their dead in large urns with iron tools, glass beads and carnelian and nephrite ornaments. Identical lingling-o earrings found in the Philippines, Taiwan and Thailand show that they took part in a South China Sea trade network. Some goods reached them from as far as India.",
+    "ko": "기원전 1천년기 중엽 무렵 중부 해안의 사후인 사람들은 철기, 유리구슬, 홍옥수와 연옥 장신구를 큰 옹관에 넣어 죽은 이를 묻었다. 필리핀·타이완·태국에서 똑같은 링링오 귀걸이가 발견되는 것은 이들이 남중국해 교역망에 참여했음을 보여 준다. 일부 물품은 멀리 인도에서 왔다.",
+    "zh": "到公元前一千纪中叶，中部沿海的沙萤人以大型瓮棺埋葬死者，随葬铁器、玻璃珠以及玛瑙和软玉饰品。在菲律宾、台湾和泰国发现的同类玲玲坠耳饰表明，他们参与了南海贸易网络。部分物品甚至来自遥远的印度。",
+    "ja": "紀元前1千年紀半ばまでに、中部海岸のサフィンの人々は鉄器、ガラス玉、紅玉髄や軟玉の装身具とともに大甕に死者を葬っていた。フィリピン・台湾・タイで同じ形のリンリンオー耳飾りが見つかっていることは、彼らが南シナ海の交易網に加わっていたことを示す。一部の品は遠くインドからもたらされた。"
+   }
+  },
+  {
+   "year": -257,
+   "qid": "Q867227",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "An Dương Vương founds Âu Lạc and builds Cổ Loa",
+    "ko": "안즈엉브엉의 어우락 건국과 꼬로아 성 축조",
+    "zh": "安阳王建立瓯雒国，修筑古螺城",
+    "ja": "安陽王による甌雒国建国と古螺城の築造"
+   },
+   "description": {
+    "en": "According to tradition, in 257 BC Thục Phán overthrew the last Hùng king, united the Âu Việt and Lạc Việt and took the title An Dương Vương. He built the spiral citadel of Cổ Loa, whose concentric earthen ramparts and finds of thousands of bronze arrowheads attest to a powerful early state. The legend of the magic crossbow given by the golden turtle is attached to this kingdom.",
+    "ko": "전승에 따르면 기원전 257년 툭판이 마지막 흥왕을 무너뜨리고 어우비엣과 락비엣을 통합해 안즈엉브엉을 칭했다. 그는 소용돌이 모양의 꼬로아 성을 쌓았는데, 겹겹의 토성과 수천 점의 청동 화살촉 출토는 강력한 초기 국가의 존재를 보여 준다. 황금 거북이 준 신비한 쇠뇌 전설이 이 왕국과 얽혀 있다.",
+    "zh": "相传公元前257年，蜀泮推翻末代雄王，统一瓯越与雒越，号安阳王。他修建了螺旋形的古螺城，其多重夯土城墙和出土的数千枚铜箭镞证明当时已存在强大的早期国家。金龟授神弩的传说即与该国相关。",
+    "ja": "伝承によれば紀元前257年、蜀泮が最後の雄王を倒し、甌越と雒越を統合して安陽王を称した。彼は渦巻き状の古螺城を築き、幾重もの土塁と数千点に及ぶ青銅の鏃の出土は強力な初期国家の存在を物語る。金亀が授けた神弩の伝説はこの国にまつわるものである。"
+   }
+  },
+  {
+   "year": -179,
+   "qid": "Q827040",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Nanyue annexes Âu Lạc",
+    "ko": "남월의 어우락 병합",
+    "zh": "南越吞并瓯雒",
+    "ja": "南越による甌雒の併合"
+   },
+   "description": {
+    "en": "Zhao Tuo, ruler of Nanyue, conquered Âu Lạc around 179 BC (some sources give earlier dates) and incorporated the Red River delta as the commanderies of Jiaozhi and Jiuzhen. The famous legend of Princess Mỵ Châu and Zhao Tuo's son Trọng Thủy, who stole the secret of the magic crossbow, explains the fall in Vietnamese tradition. Local Lạc lords continued to govern under Nanyue overlordship.",
+    "ko": "남월의 지배자 조타는 기원전 179년 무렵(더 이른 연대를 전하는 기록도 있다) 어우락을 정복하고 홍강 삼각주를 교지·구진 두 군으로 편입했다. 베트남 전승은 미쩌우 공주와 조타의 아들 쫑투이가 신비한 쇠뇌의 비밀을 훔친 유명한 설화로 멸망을 설명한다. 현지 락 수장들은 남월의 종주권 아래에서 계속 다스렸다.",
+    "zh": "南越王赵佗约于公元前179年（亦有史料记为更早）征服瓯雒，将红河三角洲纳为交趾、九真二郡。越南传统以媚珠公主与赵佗之子仲始盗走神弩秘密的著名传说来解释瓯雒的灭亡。当地雒将在南越宗主权下继续治理。",
+    "ja": "南越の趙佗は紀元前179年頃（より早い年代を伝える史料もある）に甌雒を征服し、紅河デルタを交趾・九真の二郡に編入した。ベトナムの伝承は、媚珠姫と趙佗の子仲始が神弩の秘密を盗んだという有名な説話でその滅亡を語る。在地の雒将は南越の宗主権のもとで統治を続けた。"
+   }
+  },
+  {
+   "year": -111,
+   "qid": "Q403827",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Han Conquest and the Era of Northern Domination",
+    "ko": "한나라의 남비엣 정복과 북속 시대의 시작",
+    "zh": "汉朝灭南越，北属时期开始",
+    "ja": "漢による南越征服と北属期の始まり"
+   },
+   "description": {
+    "en": "In 111 BC the armies of Emperor Wu of Han conquered the kingdom of Nanyue, including its southern commanderies of Jiaozhi and Jiuzhen in the Red River and Mã River plains. This began roughly a thousand years of Chinese rule, known in Vietnamese as Bắc thuộc ('northern domination'). Chinese administration, writing and Confucian and Buddhist culture deeply shaped the region, while local resistance kept a separate identity alive.",
+    "ko": "기원전 111년 한 무제의 군대가 남월국을 정복하면서, 홍강과 마강 평야에 있던 교지·구진군도 한나라의 지배 아래 들어갔다. 이로써 베트남어로 '박투옥(북속)'이라 부르는 약 천 년의 중국 지배가 시작되었다. 중국식 행정, 한자, 유교·불교 문화가 이 지역을 깊이 형성했지만, 현지의 저항은 독자적 정체성을 지켜 냈다.",
+    "zh": "公元前111年，汉武帝的军队攻灭南越国，位于红河和马江平原的交趾、九真二郡随之归入汉朝统治。由此开始了越南人称为“北属”的约一千年中国统治时期。中国式行政、汉字以及儒家和佛教文化深刻塑造了这一地区，而当地的反抗则使独立的身份认同得以延续。",
+    "ja": "紀元前111年、漢の武帝の軍が南越国を征服し、紅河とマー川の平野にあった交趾・九真の両郡も漢の支配下に入った。こうしてベトナム語で「北属」と呼ばれる約千年に及ぶ中国支配が始まった。中国式の行政、漢字、儒教・仏教文化がこの地域を深く形づくる一方、在地の抵抗は独自のアイデンティティを保ち続けた。"
+   }
+  },
+  {
+   "year": 40,
+   "qid": "Q1207428",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Revolt of the Trung Sisters",
+    "ko": "쯩 자매의 봉기",
+    "zh": "二征夫人起义",
+    "ja": "チュン姉妹（徴姉妹）の反乱"
+   },
+   "description": {
+    "en": "In AD 40 Trưng Trắc, whose husband had reportedly been executed by the Han governor Su Ding, and her sister Trưng Nhị led the Lạc lords in a major uprising. The rebels drove out the governor and took some sixty-five citadels, and Trưng Trắc ruled from Mê Linh. The Han general Ma Yuan suppressed the rising in 42–43, but the sisters remain enduring national symbols of Vietnamese resistance.",
+    "ko": "서기 40년, 남편이 한나라 태수 소정에게 처형되었다고 전하는 쯩짝과 그 동생 쯩니가 락 수장들을 이끌고 대규모 봉기를 일으켰다. 봉기군은 태수를 몰아내고 65개 성을 차지했으며, 쯩짝은 메린을 도읍으로 다스렸다. 한나라 장군 마원이 42~43년 봉기를 진압했지만, 두 자매는 지금도 베트남 저항의 상징으로 남아 있다.",
+    "zh": "公元40年，据载丈夫被汉朝交趾太守苏定所杀的征侧与其妹征贰率领雒将发动大规模起义。起义军赶走太守，攻占六十五城，征侧以麋泠为都称王。汉将马援于42至43年镇压了起义，但二征夫人至今仍是越南抗争精神的永恒象征。",
+    "ja": "西暦40年、夫が漢の交趾太守蘇定に処刑されたと伝えられる徴側と、その妹徴弐が雒将を率いて大規模な反乱を起こした。反乱軍は太守を追い出して65の城を奪い、徴側は麊泠を都に王となった。漢の将軍馬援が42〜43年に鎮圧したが、姉妹はいまもベトナムの抵抗の不朽の象徴である。"
+   }
+  },
+  {
+   "year": 43,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ma Yuan suppresses the Trưng rising",
+    "ko": "마원의 쯩 자매 봉기 진압",
+    "zh": "马援平定二征起义",
+    "ja": "馬援による徴姉妹の乱の鎮圧"
+   },
+   "description": {
+    "en": "The Han general Ma Yuan defeated the Trưng sisters' forces in 42–43, and the sisters died, according to Vietnamese tradition by drowning themselves in the Hát River. Ma Yuan then reorganised the administration, replacing the hereditary Lạc lords with Han-appointed officials. This marked a decisive shift toward direct Chinese rule in the Red River delta.",
+    "ko": "한나라 장군 마원이 42~43년 쯩 자매의 군대를 격파했고, 자매는 숨졌는데 베트남 전승에 따르면 핫강에 몸을 던졌다고 한다. 마원은 이어 행정을 개편하여 세습 락 수장을 한나라가 임명한 관리로 대체했다. 이로써 홍강 삼각주는 중국의 직접 지배로 결정적으로 옮겨 갔다.",
+    "zh": "汉将马援于42至43年击败二征夫人的军队，二征身亡，越南传说称她们投喝江自尽。马援随后整顿行政，以汉廷任命的官员取代世袭的雒将。这标志着红河三角洲决定性地转向中国的直接统治。",
+    "ja": "漢の将軍馬援は42〜43年に徴姉妹の軍を破り、姉妹は死んだ。ベトナムの伝承ではハット川に身を投げたとされる。馬援はその後行政を再編し、世襲の雒将を漢が任命した官吏に置き換えた。これにより紅河デルタは決定的に中国の直接支配へと移った。"
+   }
+  },
+  {
+   "year": 150,
+   "qid": "Q867782",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Óc Eo, port of Funan",
+    "ko": "부남의 항구 옥에오",
+    "zh": "扶南港口奥埃奥",
+    "ja": "扶南の港オケオ"
+   },
+   "description": {
+    "en": "In the early centuries AD the port city of Óc Eo in the western Mekong Delta became a hub of trade between India, China and the wider Indian Ocean. Excavations have uncovered Roman gold medallions, including one of Antoninus Pius, alongside Indian seals, Chinese mirrors and local jewellery workshops. The site illustrates Funan's role as a pivot of early maritime Asia.",
+    "ko": "서기 초기 몇 세기 동안 메콩 삼각주 서부의 항구 도시 옥에오는 인도와 중국, 그리고 넓은 인도양 세계를 잇는 교역 중심지였다. 발굴에서는 안토니누스 피우스의 것을 포함한 로마 금 메달이 인도 인장, 중국 거울, 현지 장신구 공방과 함께 나왔다. 이 유적은 초기 해상 아시아에서 부남이 맡은 중추적 역할을 보여 준다.",
+    "zh": "公元初年的几个世纪里，湄公河三角洲西部的港口城市奥埃奥成为连接印度、中国和整个印度洋世界的贸易枢纽。考古发掘出土了包括安敦宁·毕尤在内的罗马金质徽章，以及印度印章、中国铜镜和当地的首饰作坊。该遗址展示了扶南在早期海上亚洲中的枢纽地位。",
+    "ja": "紀元後の初期数世紀、メコンデルタ西部の港市オケオはインド・中国・インド洋世界を結ぶ交易の拠点となった。発掘ではアントニヌス・ピウスのものを含むローマの金メダルが、インドの印章、中国の鏡、在地の装身具工房とともに見つかっている。この遺跡は初期海洋アジアにおける扶南の中枢的役割を示す。"
+   }
+  },
+  {
+   "year": 187,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Shi Xie governs Jiaozhi",
+    "ko": "사섭의 교지 통치",
+    "zh": "士燮治理交趾",
+    "ja": "士燮の交趾統治"
+   },
+   "description": {
+    "en": "Around 187 Shi Xie (Sĩ Nhiếp) became administrator of Jiaozhi and governed it for some four decades while the Han empire disintegrated. His court at Luy Lâu attracted Chinese scholars fleeing the turmoil and became an early centre of Buddhism and Confucian learning. Later Vietnamese historians honoured him as a promoter of learning, though he served Chinese rulers.",
+    "ko": "187년경 사섭(시녑)이 교지 태수가 되어, 한나라가 무너지는 동안 약 40년간 이곳을 다스렸다. 루이러우에 있던 그의 관청에는 전란을 피해 온 중국 학자들이 모여들었고, 이곳은 불교와 유학의 초기 중심지가 되었다. 후대 베트남 사가들은 그가 중국 왕조를 섬겼음에도 학문을 일으킨 인물로 기렸다.",
+    "zh": "约187年，士燮出任交趾太守，在汉朝瓦解期间统治该地约四十年。他在羸𨻻的治所吸引了躲避战乱的中原士人，成为早期佛教和儒学的中心。后世越南史家虽知其效力于中原王朝，仍尊其为兴学之人。",
+    "ja": "187年頃、士燮が交趾太守となり、漢帝国が崩壊するなか約40年にわたりこの地を治めた。羸𨻻にあった彼の役所には戦乱を逃れた中国の学者が集まり、仏教と儒学の初期の中心地となった。後世のベトナムの史家は、彼が中国王朝に仕えたにもかかわらず学問を興した人物として称えた。"
+   }
+  },
+  {
+   "year": 192,
+   "qid": "Q5507706",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Foundation of Lâm Ấp",
+    "ko": "임읍의 건국",
+    "zh": "林邑建国",
+    "ja": "林邑の建国"
+   },
+   "description": {
+    "en": "Around 192 Khu Liên (Ou Lian), a local official in Xianglin county at the southern edge of Han territory, killed the magistrate and proclaimed himself king. The resulting kingdom, called Linyi (Lâm Ấp) by the Chinese, is regarded as the earliest form of Champa. It repeatedly raided the Chinese provinces to its north over the following centuries.",
+    "ko": "192년경 한나라 영토의 남쪽 끝 상림현의 현지 관리였던 구련(쿠리엔)이 현령을 죽이고 스스로 왕이 되었다. 중국인이 임읍(럼업)이라 부른 이 왕국은 참파의 가장 이른 형태로 여겨진다. 이후 몇 세기 동안 임읍은 북쪽의 중국 군현을 거듭 공격했다.",
+    "zh": "约192年，汉朝南境象林县的当地人区连杀死县令，自立为王。中国人称之为林邑的这一王国被视为占婆的最早形态。在此后的几个世纪里，林邑屡次侵扰其北面的中国郡县。",
+    "ja": "192年頃、漢の領域の南端にあたる象林県の在地の役人区連が県令を殺して自ら王を称した。中国人が林邑と呼んだこの王国は、チャンパの最も早い形態とみなされる。その後数世紀にわたり林邑は北方の中国の郡県をたびたび襲った。"
+   }
+  },
+  {
+   "year": 245,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Wu envoys visit Funan",
+    "ko": "오나라 사신의 부남 방문",
+    "zh": "东吴使臣出访扶南",
+    "ja": "呉の使節の扶南訪問"
+   },
+   "description": {
+    "en": "Around the 240s the Eastern Wu envoys Kang Tai and Zhu Ying travelled to Funan and its neighbours. Their reports, preserved in later Chinese histories, describe walled cities, a king with Indian connections, taxes paid in gold and pearls, and the legend of the kingdom's founding by Hun Tian and Liuye. These are among the earliest written accounts of the lands of southern Vietnam.",
+    "ko": "240년대 무렵 오나라 사신 강태와 주응이 부남과 그 주변 나라를 방문했다. 후대 중국 사서에 전하는 그들의 보고는 성곽 도시, 인도와 연결된 왕, 금과 진주로 내는 세금, 그리고 혼전과 유엽이 나라를 세웠다는 전설을 기록하고 있다. 이것은 베트남 남부 지역에 관한 가장 이른 문헌 기록 가운데 하나다.",
+    "zh": "约在240年代，东吴使臣康泰、朱应出使扶南及其邻国。他们的报告保存在后来的中国史书中，记述了城郭、与印度有渊源的国王、以金、银、珍珠缴纳的赋税，以及混填与柳叶立国的传说。这是关于越南南部地区最早的文字记载之一。",
+    "ja": "240年代頃、呉の使節康泰と朱応が扶南とその周辺諸国を訪れた。後代の中国の史書に残る彼らの報告は、城郭都市、インドと結びつく王、金や真珠で納める税、混塡と柳葉による建国伝説を伝えている。これはベトナム南部の地に関する最も古い文字記録の一つである。"
+   }
+  },
+  {
+   "year": 248,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Uprising of Lady Triệu",
+    "ko": "바찌에우의 봉기",
+    "zh": "赵妪起义",
+    "ja": "趙嫗（バー・チエウ）の蜂起"
+   },
+   "description": {
+    "en": "In 248 Triệu Thị Trinh, remembered as Lady Triệu (Bà Triệu), led an uprising against Eastern Wu in Jiuzhen (modern Thanh Hóa). The revolt was suppressed by the Wu general Lu Yin within months. Vietnamese tradition celebrates her as a heroine, and many legendary details are attached to her story.",
+    "ko": "248년 바찌에우로 기억되는 찌에우티찐이 구진(오늘날 타인호아)에서 오나라에 맞서 봉기했다. 이 반란은 오나라 장군 육윤에게 몇 달 만에 진압되었다. 베트남 전승은 그녀를 여성 영웅으로 기리며, 그녀의 이야기에는 전설적인 내용이 많이 덧붙여져 있다.",
+    "zh": "248年，被尊称为“赵妪”（婆赵）的赵氏贞在九真（今清化）起兵反抗东吴。起义在数月内被吴将陆胤镇压。越南传统将她颂为女英雄，其事迹附有许多传说色彩。",
+    "ja": "248年、バー・チエウ（趙嫗）として記憶される趙氏貞が九真（現在のタインホア）で呉に対して蜂起した。反乱は呉の将軍陸胤によって数か月で鎮圧された。ベトナムの伝承は彼女を女性英雄として称え、その物語には多くの伝説的要素が付け加えられている。"
+   }
+  },
+  {
+   "year": 380,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Bhadravarman founds the Mỹ Sơn sanctuary",
+    "ko": "바드라바르만의 미선 성소 건립",
+    "zh": "跋陀罗跋摩创建美山圣地",
+    "ja": "バドラヴァルマンによるミーソン聖域の創建"
+   },
+   "description": {
+    "en": "In the late fourth century King Bhadravarman of Champa dedicated a sanctuary to Shiva as Bhadreśvara in the Mỹ Sơn valley, according to Sanskrit inscriptions found there. Mỹ Sơn remained the kingdom's chief religious centre for nearly a millennium, with dozens of brick temples added by later kings. It became a UNESCO World Heritage Site in 1999.",
+    "ko": "현지에서 발견된 산스크리트 비문에 따르면 4세기 후반 참파의 바드라바르만 왕이 미선 계곡에 시바를 바드레슈바라로 모시는 성소를 봉헌했다. 미선은 거의 천 년 동안 왕국의 으뜸 종교 중심지였고, 후대 왕들이 수십 채의 벽돌 사원을 더했다. 1999년 유네스코 세계유산으로 등재되었다.",
+    "zh": "据当地发现的梵文碑铭记载，四世纪后期占婆国王跋陀罗跋摩在美山谷地建立了供奉湿婆（跋陀罗首罗）的圣所。此后近千年间，美山一直是占婆的首要宗教中心，历代国王在此增建了数十座砖砌神庙。1999年，美山被列入世界遗产。",
+    "ja": "現地で見つかったサンスクリット碑文によれば、4世紀後半にチャンパのバドラヴァルマン王がミーソンの谷にシヴァをバドレーシュヴァラとして祀る聖域を奉献した。ミーソンはほぼ千年にわたり王国の最大の宗教中心地であり続け、歴代の王が数十の煉瓦造寺院を加えた。1999年にユネスコ世界遺産に登録された。"
+   }
+  },
+  {
+   "year": 446,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Liu Song expedition sacks the Linyi capital",
+    "ko": "유송의 임읍 수도 함락",
+    "zh": "刘宋远征攻破林邑都城",
+    "ja": "劉宋の遠征による林邑王都の攻略"
+   },
+   "description": {
+    "en": "After repeated Linyi raids on Jiaozhou, the Liu Song governor Tan Hezhi led an expedition south in 446, defeated the Cham army and captured their capital. Chinese sources record that he carried off a large quantity of gold and melted down temple statues. The campaign weakened Linyi only temporarily.",
+    "ko": "임읍이 교주를 거듭 침범하자 유송의 자사 단화지가 446년 남쪽으로 원정해 참족 군대를 격파하고 수도를 점령했다. 중국 기록은 그가 막대한 금을 빼앗고 사원의 신상을 녹였다고 전한다. 이 원정은 임읍을 일시적으로만 약화시켰다.",
+    "zh": "因林邑屡犯交州，刘宋交州刺史檀和之于446年率军南征，击败占军并攻占其都城。中国史籍记载他掳获大量黄金，并熔毁了神庙中的金像。此役只是暂时削弱了林邑。",
+    "ja": "林邑が交州をたびたび侵したため、劉宋の交州刺史檀和之は446年に南征し、チャム軍を破ってその都を攻略した。中国史料は、彼が大量の金を奪い、寺院の神像を溶かしたと記す。この遠征は林邑を一時的に弱めたにすぎなかった。"
+   }
+  },
+  {
+   "year": 544,
+   "qid": "Q2441129",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Lý Bí proclaims the kingdom of Vạn Xuân",
+    "ko": "리비의 반쑤언 건국",
+    "zh": "李贲建立万春国",
+    "ja": "李賁による万春国の建国"
+   },
+   "description": {
+    "en": "Having expelled the Liang governor in 541–542, Lý Bí declared himself Emperor Lý Nam Đế in 544 and named his state Vạn Xuân. It was the first time a ruler in the Red River delta claimed the imperial title since Chinese rule began. Although Chen Baxian defeated him in 545, resistance under his successors kept the delta largely autonomous until 602.",
+    "ko": "541~542년 양나라 자사를 몰아낸 리비는 544년 리남데(남제)를 칭하고 국호를 반쑤언이라 했다. 중국 지배가 시작된 이래 홍강 삼각주의 지배자가 황제를 칭한 것은 이것이 처음이었다. 545년 진패선에게 패했지만, 후계자들의 저항으로 삼각주는 602년까지 대체로 자치를 유지했다.",
+    "zh": "李贲于541至542年驱逐梁朝刺史后，于544年自称“南帝”，国号万春。这是自中国统治开始以来，红河三角洲的统治者首次称帝。尽管李贲于545年为陈霸先所败，但在其继承者的抵抗下，三角洲直到602年基本保持自治。",
+    "ja": "541〜542年に梁の刺史を追放した李賁は、544年に南帝を称し国号を万春とした。中国の支配が始まって以来、紅河デルタの支配者が皇帝を称したのはこれが初めてであった。545年に陳霸先に敗れたものの、後継者たちの抵抗によりデルタは602年まで概ね自立を保った。"
+   }
+  },
+  {
+   "year": 602,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Sui reconquest of the Red River delta",
+    "ko": "수나라의 홍강 삼각주 재정복",
+    "zh": "隋朝重新征服红河三角洲",
+    "ja": "隋による紅河デルタの再征服"
+   },
+   "description": {
+    "en": "In 602 the Sui general Liu Fang marched south and forced Lý Phật Tử, the last ruler of Vạn Xuân, to surrender. The delta was reincorporated as Jiaozhou under the reunified Chinese empire. Three years later Liu Fang went on to attack Linyi.",
+    "ko": "602년 수나라 장군 유방이 남하해 반쑤언의 마지막 지배자 리펏뜨의 항복을 받아 냈다. 삼각주는 다시 통일된 중국 제국의 교주로 편입되었다. 3년 뒤 유방은 이어서 임읍을 공격했다.",
+    "zh": "602年，隋将刘方率军南下，迫使万春国最后的统治者李佛子投降。三角洲重新作为交州并入统一后的中华帝国。三年后，刘方又进攻林邑。",
+    "ja": "602年、隋の将軍劉方が南下し、万春国最後の支配者李仏子を降伏させた。デルタは再統一された中国帝国の交州として再び編入された。3年後、劉方はさらに林邑を攻撃した。"
+   }
+  },
+  {
+   "year": 605,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sui invasion of Linyi",
+    "ko": "수나라의 임읍 침공",
+    "zh": "隋军进攻林邑",
+    "ja": "隋の林邑侵攻"
+   },
+   "description": {
+    "en": "Seeking the legendary wealth of Linyi, the Sui sent Liu Fang against the Cham kingdom in 605. His troops defeated a Cham war-elephant force and sacked the capital, seizing gold tablets of former kings, but many soldiers, including Liu Fang himself, died of disease on the return march. The Cham kingdom soon recovered.",
+    "ko": "임읍의 전설적인 부를 노린 수나라는 605년 유방을 보내 참족 왕국을 쳤다. 그의 군대는 참족의 전투 코끼리 부대를 물리치고 수도를 약탈해 역대 왕의 금패를 빼앗았지만, 돌아오는 길에 유방 자신을 포함한 많은 병사가 병으로 죽었다. 참족 왕국은 곧 회복했다.",
+    "zh": "为夺取林邑传说中的财富，隋朝于605年派刘方进攻占族王国。隋军击败占族象兵，攻掠都城，夺走历代国王的金牌位，但在回师途中，包括刘方本人在内的许多士兵死于疫病。林邑不久便恢复了元气。",
+    "ja": "林邑の伝説的な富を求めて、隋は605年に劉方をチャム人の王国に差し向けた。隋軍はチャムの象兵を破って都を略奪し、歴代王の金の位牌を奪ったが、帰途に劉方自身を含む多くの兵が病死した。チャムの王国はほどなく回復した。"
+   }
+  },
+  {
+   "year": 679,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Tang establishes the Protectorate of Annan",
+    "ko": "당나라의 안남도호부 설치",
+    "zh": "唐朝设置安南都护府",
+    "ja": "唐による安南都護府の設置"
+   },
+   "description": {
+    "en": "In 679 the Tang dynasty reorganised its southernmost territories as the Protectorate General to Pacify the South (Annan). The name 'Annan' was used by Chinese courts for the region for centuries afterward, and later for the independent Vietnamese kingdom. Tang rule brought heavier taxation that provoked repeated revolts.",
+    "ko": "679년 당나라는 최남단 영토를 '남쪽을 평안케 한다'는 뜻의 안남도호부로 개편했다. '안남'이라는 이름은 이후 수 세기 동안 중국 조정이 이 지역을, 나중에는 독립한 베트남 왕국을 부르는 이름으로 쓰였다. 당의 통치는 무거운 세금을 가져와 거듭된 반란을 불렀다.",
+    "zh": "679年，唐朝将其最南端的辖地改设为安南都护府。此后数百年间，中国朝廷一直以“安南”称呼这一地区，后来也用以称呼独立的越南王国。唐朝统治带来的沉重赋税屡屡激起反抗。",
+    "ja": "679年、唐は最南端の領域を安南都護府に改編した。「安南」という名はその後数世紀にわたって中国の朝廷がこの地域を、のちには独立したベトナムの王国を呼ぶ名として用いられた。唐の支配は重税をもたらし、反乱が繰り返された。"
+   }
+  },
+  {
+   "year": 722,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Revolt of Mai Thúc Loan",
+    "ko": "마이툭로안의 봉기",
+    "zh": "梅叔鸾起义",
+    "ja": "梅叔鸞の反乱"
+   },
+   "description": {
+    "en": "In 722 Mai Thúc Loan, a leader from Hoan province (modern Nghệ An–Hà Tĩnh), raised a large rebellion against Tang rule and proclaimed himself emperor, remembered as the 'Black Emperor' (Mai Hắc Đế). Chinese sources say he allied with Linyi and other southern peoples. The Tang general Yang Sixu crushed the revolt.",
+    "ko": "722년 환주(오늘날 응에안·하띤)의 지도자 마이툭로안이 당의 지배에 맞서 대규모 반란을 일으키고 황제를 칭했으며, '검은 황제'(마이하인데)로 기억된다. 중국 기록에 따르면 그는 임읍 등 남방 세력과 손을 잡았다. 당나라 장군 양사욱이 반란을 진압했다.",
+    "zh": "722年，驩州（今乂安、河静）首领梅叔鸾起兵反唐，自称皇帝，人称“黑帝”（梅黑帝）。据中国史籍记载，他联合了林邑等南方势力。唐将杨思勖镇压了这次起义。",
+    "ja": "722年、驩州（現在のゲアン・ハティン）の指導者梅叔鸞が唐の支配に対して大規模な反乱を起こし皇帝を称し、「黒帝」（梅黒帝）として記憶される。中国史料によれば、彼は林邑など南方勢力と結んだ。唐の将軍楊思勗が反乱を鎮圧した。"
+   }
+  },
+  {
+   "year": 774,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Seaborne raiders burn the Po Nagar temple",
+    "ko": "해상 침입자들의 포나가르 사원 방화",
+    "zh": "海上来敌焚毁婆那加神庙",
+    "ja": "海からの襲撃者によるポーナガル寺院の焼き討ち"
+   },
+   "description": {
+    "en": "Cham inscriptions record that in 774 raiders arriving by sea, generally identified as coming from Java, plundered and burned the Po Nagar temple at Kauthara (Nha Trang). A further raid in 787 struck Panduranga. The Cham kings rebuilt the sanctuaries, and Po Nagar remains one of the most important Cham temple complexes.",
+    "ko": "참족 비문에 따르면 774년 일반적으로 자와에서 온 것으로 여겨지는 해상 침입자들이 카우타라(냐짱)의 포나가르 사원을 약탈하고 불태웠다. 787년에도 판두랑가가 습격을 받았다. 참족 왕들은 성소를 다시 세웠고, 포나가르는 지금도 가장 중요한 참족 사원군의 하나다.",
+    "zh": "据占族碑铭记载，774年，一般认为来自爪哇的海上入侵者劫掠并焚毁了古笪罗（芽庄）的婆那加神庙。787年宾童龙又遭袭击。占族国王重建了这些圣所，婆那加至今仍是最重要的占族寺庙群之一。",
+    "ja": "チャム碑文によれば、774年に海から来た襲撃者——一般にジャワから来たとされる——がカウターラ（ニャチャン）のポーナガル寺院を略奪し焼き払った。787年にはパーンドゥランガも襲われた。チャムの王たちは聖域を再建し、ポーナガルは今も最も重要なチャム寺院群の一つである。"
+   }
+  },
+  {
+   "year": 791,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Phùng Hưng's uprising",
+    "ko": "풍흥의 봉기",
+    "zh": "冯兴起义",
+    "ja": "馮興の蜂起"
+   },
+   "description": {
+    "en": "Around 791 Phùng Hưng, a local leader from Đường Lâm west of modern Hanoi, rose against the Tang protector-general and seized the administrative centre at Tống Bình. He ruled briefly until his death, and Vietnamese tradition honours him as Bố Cái Đại Vương. Tang authority was restored soon afterward.",
+    "ko": "791년 무렵 오늘날 하노이 서쪽 드엉럼의 지도자 풍흥이 당나라 도호에 맞서 봉기하여 행정 중심지 송평을 장악했다. 그는 죽을 때까지 잠시 통치했으며, 베트남 전승은 그를 보까이다이브엉으로 기린다. 당의 지배는 곧 회복되었다.",
+    "zh": "约791年，今河内以西唐林的地方首领冯兴起兵反抗唐朝都护，攻占治所宋平。他短暂统治直至去世，越南传统尊其为“布盖大王”。不久唐朝便恢复了统治。",
+    "ja": "791年頃、現在のハノイ西方の唐林の指導者馮興が唐の都護に対して蜂起し、行政の中心宋平を占拠した。彼は死ぬまで短期間統治し、ベトナムの伝承は彼を布蓋大王として称える。唐の支配はまもなく回復した。"
+   }
+  },
+  {
+   "year": 802,
+   "qid": "Q201705",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Angkorian Khmer state and the Mekong Delta",
+    "ko": "앙코르 크메르 국가와 메콩 삼각주",
+    "zh": "吴哥王朝与湄公河三角洲",
+    "ja": "アンコール朝とメコンデルタ"
+   },
+   "description": {
+    "en": "In 802 Jayavarman II proclaimed himself universal monarch in the Kulen hills, founding the Angkorian Khmer state. For the next centuries the sparsely settled Mekong Delta of today's southern Vietnam lay at the edge of this Khmer realm. Khmer communities in the delta, the Khmer Krom, remain a significant minority in Vietnam today.",
+    "ko": "802년 자야바르만 2세가 쿨렌산에서 전륜성왕을 선포하며 앙코르 크메르 국가를 세웠다. 이후 수 세기 동안 오늘날 베트남 남부의 인구가 희박한 메콩 삼각주는 이 크메르 영역의 변두리에 있었다. 삼각주의 크메르 공동체, 곧 크메르 끄롬은 지금도 베트남의 중요한 소수민족이다.",
+    "zh": "802年，阇耶跋摩二世在荔枝山宣布自己为转轮王，建立吴哥高棉王朝。此后数百年间，今越南南部人烟稀少的湄公河三角洲处于这一高棉疆域的边缘。三角洲的高棉人群体（下高棉人）至今仍是越南重要的少数民族。",
+    "ja": "802年、ジャヤーヴァルマン2世がクーレン丘陵で転輪聖王を宣言し、アンコールのクメール国家を興した。その後数世紀、現在のベトナム南部の人口希薄なメコンデルタはこのクメール領域の辺縁にあった。デルタのクメール人社会（クメール・クロム）は今もベトナムの重要な少数民族である。"
+   }
+  },
+  {
+   "year": 863,
+   "qid": "Q1045322",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Nanzhao captures the Annan capital",
+    "ko": "남조의 안남 수부 함락",
+    "zh": "南诏攻陷安南",
+    "ja": "南詔による安南都城の攻略"
+   },
+   "description": {
+    "en": "Armies of Nanzhao, a kingdom based in Yunnan, invaded Annan in the early 860s and captured its capital in 863, causing heavy loss of life. The Tang general Gao Pian recaptured the region in 866 and rebuilt the citadel of Đại La on the site of later Hanoi. The episode exposed the fragility of late Tang control in the south.",
+    "ko": "윈난을 근거지로 한 남조의 군대가 860년대 초 안남을 침공해 863년 수부를 함락했고, 많은 인명 피해가 났다. 당나라 장군 고변이 866년 이 지역을 되찾고 훗날 하노이가 되는 자리에 대라성을 다시 쌓았다. 이 사건은 당 말기 남방 지배의 취약함을 드러냈다.",
+    "zh": "以云南为根据地的南诏于860年代初入侵安南，863年攻陷其治所，造成大量伤亡。866年唐将高骈收复该地，在后来河内所在地重筑大罗城。这一事件暴露了唐末南方统治的脆弱。",
+    "ja": "雲南を本拠とする南詔の軍が860年代初めに安南に侵攻し、863年に都城を攻略して多くの犠牲を出した。唐の将軍高駢が866年にこの地を奪回し、のちのハノイの地に大羅城を再建した。この出来事は唐末の南方支配の脆さを露呈した。"
+   }
+  },
+  {
+   "year": 875,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Indrapura and the Đồng Dương Buddhist monastery",
+    "ko": "인드라푸라와 동즈엉 불교 사원",
+    "zh": "因陀罗补罗与东阳佛寺",
+    "ja": "インドラプラとドンズオン仏教僧院"
+   },
+   "description": {
+    "en": "In 875 King Indravarman II of Champa established a new capital at Indrapura in today's Quảng Nam province and founded the great Mahayana Buddhist monastery of Đồng Dương. Its sculptures form a distinctive style of Cham art. The monastery's ruins were largely destroyed during the twentieth-century wars.",
+    "ko": "875년 참파의 인드라바르만 2세는 오늘날 꽝남성의 인드라푸라에 새 수도를 세우고 대승불교의 큰 사원 동즈엉을 창건했다. 이 사원의 조각은 참족 미술의 독특한 양식을 이룬다. 사원 유적은 20세기 전쟁 중 대부분 파괴되었다.",
+    "zh": "875年，占婆国王因陀罗跋摩二世在今广南省的因陀罗补罗建立新都，并创建了大乘佛教的大寺院东阳寺。其雕塑形成了占族艺术的独特风格。寺院遗址在二十世纪的战争中大多被毁。",
+    "ja": "875年、チャンパのインドラヴァルマン2世は現在のクアンナム省にあるインドラプラに新都を置き、大乗仏教の大僧院ドンズオンを創建した。その彫刻はチャム美術の独特の様式をなす。僧院の遺構は20世紀の戦争で大部分が破壊された。"
+   }
+  },
+  {
+   "year": 905,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Khúc Thừa Dụ takes control of Annan",
+    "ko": "곡승유의 안남 장악",
+    "zh": "曲承裕自主安南",
+    "ja": "曲承裕の安南掌握"
+   },
+   "description": {
+    "en": "As the Tang court collapsed, Khúc Thừa Dụ, a powerful landowner from Hồng Châu, occupied the seat of government in 905 and was confirmed as military governor. It was the first time in centuries that a native leader governed the whole delta, even under a Chinese title. His son Khúc Hạo carried out administrative and tax reforms.",
+    "ko": "당 조정이 무너지자 홍주의 유력 지주 곡승유(쿡트어주)가 905년 관아를 점거하고 절도사로 인정받았다. 중국의 관직 아래에서였지만 현지인이 삼각주 전체를 다스린 것은 수 세기 만에 처음이었다. 그의 아들 곡호(쿡하오)는 행정과 조세 개혁을 단행했다.",
+    "zh": "唐廷崩溃之际，鸿州豪族曲承裕于905年占据治所，并获封节度使。这是数百年来首次由本地人治理整个三角洲，尽管仍顶着中原官衔。其子曲颢推行了行政与赋税改革。",
+    "ja": "唐の朝廷が崩壊すると、鴻州の有力地主曲承裕が905年に政庁を占拠し、節度使として認められた。中国の官職のもとではあったが、在地の人物がデルタ全体を治めたのは数世紀ぶりのことであった。その子曲顥は行政と税制の改革を行った。"
+   }
+  },
+  {
+   "year": 931,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Dương Đình Nghệ expels the Southern Han",
+    "ko": "즈엉딘응에의 남한군 축출",
+    "zh": "杨廷艺驱逐南汉军",
+    "ja": "楊廷芸による南漢軍の駆逐"
+   },
+   "description": {
+    "en": "After the Southern Han, based in Guangzhou, seized the region in 930, the general Dương Đình Nghệ raised an army and drove out its garrison in 931, taking the title of military governor. He was murdered in 937 by his subordinate Kiều Công Tiễn, who appealed to the Southern Han for help. This provoked Ngô Quyền, Dương Đình Nghệ's son-in-law, to take up arms.",
+    "ko": "광저우를 근거지로 한 남한이 930년 이 지역을 차지하자, 장군 즈엉딘응에가 군대를 일으켜 931년 남한 수비군을 몰아내고 절도사를 칭했다. 그는 937년 부하 끼에우꽁띠엔에게 살해되었고, 끼에우꽁띠엔은 남한에 도움을 청했다. 이에 즈엉딘응에의 사위 응오꾸옌이 군사를 일으켰다.",
+    "zh": "以广州为都的南汉于930年夺取该地后，将领杨廷艺起兵，于931年驱逐南汉守军，自称节度使。937年他被部将矫公羡杀害，矫公羡向南汉求援。这促使杨廷艺的女婿吴权起兵。",
+    "ja": "広州を都とする南漢が930年にこの地を奪うと、将軍楊廷芸が兵を挙げて931年に南漢の守備軍を追い出し、節度使を称した。937年に彼は部下の矯公羨に殺され、矯公羨は南漢に援軍を求めた。これが楊廷芸の娘婿呉権の挙兵を招いた。"
+   }
+  },
+  {
+   "year": 938,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of Bach Dang: Independence from China",
+    "ko": "바익당 전투와 독립 회복",
+    "zh": "白藤江之战，越南脱离中国统治",
+    "ja": "白藤江の戦いと独立の回復"
+   },
+   "description": {
+    "en": "In 938 the Southern Han sent a fleet under Prince Liu Hongcao to intervene in Annan. Ngô Quyền planted iron-tipped stakes in the bed of the Bạch Đằng River, lured the fleet in at high tide and attacked as the tide fell, impaling and destroying the ships; Liu Hongcao was killed. The victory ended about a thousand years of Chinese domination and opened the era of independent Vietnamese dynasties.",
+    "ko": "938년 남한은 왕자 유홍조가 이끄는 함대를 보내 안남에 개입했다. 응오꾸옌은 바익당강 바닥에 쇠끝 말뚝을 박아 두고 밀물 때 함대를 끌어들인 뒤 썰물에 맞춰 공격해 배들을 말뚝에 걸리게 해 격파했으며, 유홍조는 전사했다. 이 승리로 약 천 년의 중국 지배가 끝나고 독립 베트남 왕조의 시대가 열렸다.",
+    "zh": "938年，南汉派皇子刘弘操率舰队干预安南。吴权在白藤江河床中打下包铁木桩，趁涨潮诱敌深入，待退潮时发起攻击，敌舰触桩搁浅而被歼灭，刘弘操战死。这场胜利结束了约一千年的中国统治，开启了越南独立王朝的时代。",
+    "ja": "938年、南漢は皇子劉弘操の率いる艦隊を送り安南に介入した。呉権は白藤江の川底に鉄の穂先をつけた杭を打ち込み、満潮時に艦隊を誘い込んで引き潮に合わせて攻撃し、杭に掛かった船を撃破した。劉弘操は戦死した。この勝利で約千年の中国支配が終わり、独立したベトナム王朝の時代が開かれた。"
+   }
+  },
+  {
+   "year": 939,
+   "qid": "Q703919",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ngô Quyền proclaims himself king",
+    "ko": "응오꾸옌의 칭왕",
+    "zh": "吴权称王",
+    "ja": "呉権の称王"
+   },
+   "description": {
+    "en": "In 939, following his victory at Bạch Đằng, Ngô Quyền declared himself king and chose the ancient citadel of Cổ Loa as his capital, symbolically linking his rule to An Dương Vương. He organised a court and administration independent of China. Vietnamese historians from the medieval period onward mark his reign as the start of the independent monarchy.",
+    "ko": "바익당에서 승리한 응오꾸옌은 939년 왕을 칭하고 옛 성곽 꼬로아를 도읍으로 삼아 자신의 통치를 안즈엉브엉과 상징적으로 연결했다. 그는 중국에서 독립된 조정과 행정 체계를 갖추었다. 중세 이래 베트남 사가들은 그의 치세를 독립 왕조의 시작으로 본다.",
+    "zh": "939年，吴权在白藤江大捷后称王，选择古螺旧城为都，在象征意义上将其统治与安阳王相连。他建立了独立于中国的朝廷和行政体系。自中世纪起，越南史家便将其统治视为独立王朝的开端。",
+    "ja": "939年、白藤江で勝利した呉権は王を称し、古螺の旧城を都として自らの統治を安陽王に象徴的に結びつけた。彼は中国から独立した朝廷と行政を整えた。中世以来、ベトナムの史家は彼の治世を独立王朝の始まりとしている。"
+   }
+  },
+  {
+   "year": 965,
+   "qid": "Q1154466",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Anarchy of the Twelve Warlords",
+    "ko": "12사군의 난",
+    "zh": "十二使君之乱",
+    "ja": "十二使君の乱"
+   },
+   "description": {
+    "en": "After the death of Ngô Xương Văn around 965, central authority collapsed and the country was divided among twelve regional strongmen known as the Twelve Warlords (Thập nhị sứ quân). Their rivalries plunged the delta into several years of civil war. Đinh Bộ Lĩnh of Hoa Lư defeated or won over the warlords one by one.",
+    "ko": "965년 무렵 응오쓰엉반이 죽은 뒤 중앙 권력이 무너지고, 나라는 12사군(텁니스꾸언)이라 불리는 지방 세력가 12명에게 나뉘었다. 이들의 경쟁으로 삼각주는 몇 년간 내전에 빠졌다. 호아르의 딘보린이 이들을 하나씩 격파하거나 회유했다.",
+    "zh": "约965年吴昌文死后，中央权力瓦解，国家被称为“十二使君”的十二个地方豪强割据。他们相互争斗，使三角洲陷入数年内战。华闾的丁部领逐一击败或收服了各使君。",
+    "ja": "965年頃に呉昌文が死ぬと中央の権力は崩れ、国は十二使君と呼ばれる12人の地方豪族に分割された。彼らの抗争でデルタは数年間の内戦に陥った。華閭の丁部領が使君たちを一人ずつ打ち破り、あるいは帰順させた。"
+   }
+  },
+  {
+   "year": 968,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Đinh Bộ Lĩnh unifies Đại Cồ Việt",
+    "ko": "딘보린의 다이꼬비엣 통일",
+    "zh": "丁部领统一大瞿越",
+    "ja": "丁部領による大瞿越の統一"
+   },
+   "description": {
+    "en": "In 968 Đinh Bộ Lĩnh ended the anarchy, took the title emperor (Đinh Tiên Hoàng) and named the country Đại Cồ Việt, with its capital at Hoa Lư in Ninh Bình. He established a court hierarchy, a standing army and harsh laws to secure order, and opened relations with the Song dynasty. His reign is seen as the founding of a self-proclaimed Vietnamese empire.",
+    "ko": "968년 딘보린은 혼란을 끝내고 황제(딘띠엔호앙)를 칭하며 국호를 다이꼬비엣, 수도를 닌빈의 호아르로 정했다. 그는 질서를 확립하기 위해 조정의 위계, 상비군, 엄격한 법을 마련했고 송나라와 외교 관계를 열었다. 그의 치세는 베트남 황제국 체제의 출발로 평가된다.",
+    "zh": "968年，丁部领平定割据，称帝（丁先皇），定国号为大瞿越，建都于宁平的华闾。他建立朝廷等级、常备军和严刑峻法以维持秩序，并与宋朝建立关系。其统治被视为越南帝制国家的开端。",
+    "ja": "968年、丁部領は混乱を終わらせて皇帝（丁先皇）を称し、国号を大瞿越、都をニンビンの華閭と定めた。秩序を確立するため朝廷の位階、常備軍、厳しい法を整え、宋との関係を開いた。その治世はベトナムの帝国体制の始まりとされる。"
+   }
+  },
+  {
+   "year": 981,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Lê Hoàn repels the Song invasion",
+    "ko": "레호안의 송군 격퇴",
+    "zh": "黎桓击退宋军",
+    "ja": "黎桓による宋軍の撃退"
+   },
+   "description": {
+    "en": "Exploiting the turmoil after Đinh Tiên Hoàng's assassination, the Song dynasty invaded in 980–981. Lê Hoàn, who had taken the throne in 980 and founded the Early Lê dynasty, defeated the Song forces on land and on the Bạch Đằng River. The Song subsequently recognised him, securing Đại Cồ Việt's independence.",
+    "ko": "딘띠엔호앙 암살 후의 혼란을 틈타 송나라가 980~981년 침공했다. 980년 즉위해 전레 왕조를 연 레호안은 육지와 바익당강에서 송군을 격파했다. 이후 송나라는 그를 인정했고, 다이꼬비엣의 독립이 확고해졌다.",
+    "zh": "宋朝趁丁先皇遇刺后的混乱于980至981年入侵。980年即位、开创前黎朝的黎桓在陆上和白藤江上击败宋军。此后宋朝承认了他，大瞿越的独立得以巩固。",
+    "ja": "丁先皇暗殺後の混乱に乗じ、宋が980〜981年に侵攻した。980年に即位して前黎朝を開いた黎桓は、陸上と白藤江で宋軍を破った。その後宋は彼を承認し、大瞿越の独立は確固たるものとなった。"
+   }
+  },
+  {
+   "year": 982,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Lê Hoàn's campaign against Champa",
+    "ko": "레호안의 참파 원정",
+    "zh": "黎桓征伐占城",
+    "ja": "黎桓のチャンパ遠征"
+   },
+   "description": {
+    "en": "After Champa detained his envoys, Lê Hoàn invaded in 982, killed the Cham king and sacked the capital at Indrapura. The defeat contributed to a shift of the Cham political centre southward to Vijaya in today's Bình Định province over the following decades. It began a long series of conflicts between Đại Việt and Champa.",
+    "ko": "참파가 사신을 억류하자 레호안은 982년 침공하여 참파 왕을 죽이고 수도 인드라푸라를 약탈했다. 이 패배는 이후 수십 년에 걸쳐 참파의 정치 중심이 오늘날 빈딘성의 비자야로 남하하는 데 영향을 주었다. 이로써 다이비엣과 참파 사이의 오랜 분쟁이 시작되었다.",
+    "zh": "因占城扣留使臣，黎桓于982年出兵，杀死占城国王并洗劫都城因陀罗补罗。此后数十年间，占城的政治中心逐渐南移至今平定省的毗阇耶。此役开启了大越与占城之间长期的冲突。",
+    "ja": "チャンパが使節を拘留したため、黎桓は982年に侵攻し、チャム王を殺して都インドラプラを略奪した。この敗北は、その後数十年のうちにチャンパの政治の中心が現在のビンディン省のヴィジャヤへ南下する一因となった。これにより大越とチャンパの長い抗争が始まった。"
+   }
+  },
+  {
+   "year": 1010,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ly Dynasty Moves the Capital to Thang Long",
+    "ko": "리 왕조의 탕롱 천도",
+    "zh": "李朝迁都升龙",
+    "ja": "李朝、タンロンへ遷都"
+   },
+   "description": {
+    "en": "In 1010 Lý Thái Tổ (Lý Công Uẩn), founder of the Lý dynasty, issued the Edict on the Transfer of the Capital and moved the court from Hoa Lư to Đại La, which he renamed Thăng Long ('Ascending Dragon'), present-day Hanoi. The city remained the principal capital for most of the next eight centuries. The Lý dynasty consolidated Buddhism, law and administration, laying the foundations of the classical Vietnamese state.",
+    "ko": "1010년 리 왕조의 창건자 리타이또(리꽁우언)는 「천도조」를 내려 조정을 호아르에서 대라로 옮기고 이곳을 탕롱('승천하는 용'), 곧 오늘날의 하노이라 이름 지었다. 이 도시는 이후 8세기 대부분 동안 주된 수도였다. 리 왕조는 불교, 법률, 행정을 정비해 고전적 베트남 국가의 기초를 놓았다.",
+    "zh": "1010年，李朝开国君主李太祖（李公蕴）颁布《迁都诏》，将朝廷从华闾迁至大罗，并改名升龙，即今日的河内。此后八百年中的大部分时间里，升龙一直是主要都城。李朝巩固了佛教、法律和行政制度，奠定了古典越南国家的基础。",
+    "ja": "1010年、李朝の創始者李太祖（李公蘊）は「遷都詔」を発して朝廷を華閭から大羅に移し、昇竜（現在のハノイ）と改名した。この都はその後8世紀の大半にわたり主要な首都であり続けた。李朝は仏教、法、行政を整え、古典的ベトナム国家の基礎を築いた。"
+   }
+  },
+  {
+   "year": 1042,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Lý Thái Tông issues the Hình thư code",
+    "ko": "리타이똥의 형서 반포",
+    "zh": "李太宗颁布《刑书》",
+    "ja": "李太宗による『刑書』の公布"
+   },
+   "description": {
+    "en": "In 1042 Emperor Lý Thái Tông promulgated the Hình thư (Book of Penalties), the first codified law of the independent Vietnamese state. It aimed to replace arbitrary punishment with fixed rules and allowed some penalties to be redeemed by payment. The text itself has not survived, but chronicles record its issuance.",
+    "ko": "1042년 리타이똥 황제는 독립 베트남 국가 최초의 성문 법전인 『형서』를 반포했다. 이 법전은 자의적인 처벌을 정해진 규칙으로 대체하고 일부 형벌은 속전으로 대신할 수 있게 했다. 원문은 전하지 않지만 사서에 반포 사실이 기록되어 있다.",
+    "zh": "1042年，李太宗颁布《刑书》，这是越南独立国家的第一部成文法典。它旨在以明确的规则取代任意刑罚，并允许部分刑罚以钱赎免。法典原文已失传，但史籍记载了其颁布。",
+    "ja": "1042年、李太宗は独立ベトナム国家最初の成文法典『刑書』を公布した。恣意的な処罰を定まった規則に置き換え、一部の刑罰は贖銭で代えることを認めた。原文は伝わらないが、史書にその公布が記録されている。"
+   }
+  },
+  {
+   "year": 1054,
+   "qid": "Q430309",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The country is renamed Đại Việt",
+    "ko": "국호를 다이비엣으로 변경",
+    "zh": "改国号为大越",
+    "ja": "国号を大越と改める"
+   },
+   "description": {
+    "en": "On his accession in 1054, Emperor Lý Thánh Tông renamed the country Đại Việt ('Great Viet'). With brief interruptions, the name remained in use until the early nineteenth century. It expressed the claim of an imperial state equal in standing to China's.",
+    "ko": "1054년 즉위한 리타인똥 황제는 국호를 다이비엣(대월)으로 바꾸었다. 이 국호는 잠깐의 중단을 제외하면 19세기 초까지 쓰였다. 이는 중국과 대등한 황제국이라는 자의식을 드러낸 것이었다.",
+    "zh": "1054年李圣宗即位时，将国号改为大越。除短暂中断外，这一国号一直沿用到十九世纪初。它体现了与中国地位对等的帝国意识。",
+    "ja": "1054年に即位した李聖宗は国号を大越と改めた。短い中断を除き、この国号は19世紀初めまで用いられた。これは中国と対等な帝国であるという自負を示すものであった。"
+   }
+  },
+  {
+   "year": 1069,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Lý campaign against Champa",
+    "ko": "리 왕조의 참파 원정",
+    "zh": "李朝征伐占城",
+    "ja": "李朝のチャンパ遠征"
+   },
+   "description": {
+    "en": "In 1069 Lý Thánh Tông and his general Lý Thường Kiệt invaded Champa, captured Vijaya and took King Rudravarman III prisoner. To obtain his release, the Cham king ceded three districts north of the Hải Vân pass, roughly today's Quảng Bình and Quảng Trị. It was an early step in Đại Việt's southward advance.",
+    "ko": "1069년 리타인똥과 장군 리트엉끼엣은 참파를 침공해 비자야를 함락하고 루드라바르만 3세를 사로잡았다. 참파 왕은 풀려나기 위해 하이번 고개 북쪽의 세 지역, 대략 오늘날의 꽝빈과 꽝찌를 할양했다. 이는 다이비엣 남진의 초기 단계였다.",
+    "zh": "1069年，李圣宗与大将李常杰出兵占城，攻克毗阇耶，俘获国王律陀罗跋摩三世。占城国王为求获释，割让海云关以北三州，大致相当于今广平、广治一带。这是大越南进的早期步骤。",
+    "ja": "1069年、李聖宗と将軍李常傑はチャンパに侵攻してヴィジャヤを落とし、ルドラヴァルマン3世を捕らえた。チャム王は釈放と引き換えにハイヴァン峠以北の三州、ほぼ現在のクアンビン・クアンチを割譲した。これは大越の南進の初期の一歩であった。"
+   }
+  },
+  {
+   "year": 1070,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Founding of the Temple of Literature",
+    "ko": "문묘 창건",
+    "zh": "创建文庙",
+    "ja": "文廟の創建"
+   },
+   "description": {
+    "en": "In 1070 the Lý court built the Temple of Literature (Văn Miếu) in Thăng Long to honour Confucius and his disciples. In 1076 the Imperial Academy (Quốc Tử Giám), Vietnam's first institution of higher learning, was established beside it. The stone stelae later erected there record the names of successful doctoral candidates from the fifteenth to the eighteenth century.",
+    "ko": "1070년 리 왕조는 탕롱에 공자와 제자들을 기리는 문묘를 세웠다. 1076년에는 그 옆에 베트남 최초의 고등 교육 기관인 국자감이 설치되었다. 이후 세워진 석비에는 15세기부터 18세기까지 진사 급제자의 이름이 새겨져 있다.",
+    "zh": "1070年，李朝在升龙修建文庙，祭祀孔子及其弟子。1076年又在其旁设立国子监，这是越南第一所高等学府。后来在此竖立的石碑记载了十五至十八世纪历科进士的姓名。",
+    "ja": "1070年、李朝は昇竜に孔子とその弟子を祀る文廟を建てた。1076年にはその傍らにベトナム最初の高等教育機関である国子監が置かれた。のちに建てられた石碑には15世紀から18世紀までの進士合格者の名が刻まれている。"
+   }
+  },
+  {
+   "year": 1075,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "First civil service examination",
+    "ko": "최초의 과거 시험",
+    "zh": "首次开科取士",
+    "ja": "最初の科挙"
+   },
+   "description": {
+    "en": "In 1075 the Lý court held the first recorded examination to select officials on the basis of classical learning. Over the following centuries the examination system expanded and became the main route into the bureaucracy. Vietnam continued to hold Confucian examinations until 1919.",
+    "ko": "1075년 리 왕조는 고전 학문을 바탕으로 관리를 뽑는 최초의 과거 시험을 치렀다. 이후 수 세기 동안 과거제는 확대되어 관료가 되는 주된 통로가 되었다. 베트남의 유교식 과거는 1919년까지 이어졌다.",
+    "zh": "1075年，李朝举行了史载第一次以经学选拔官员的考试。此后数百年间，科举制度不断扩展，成为进入官僚体系的主要途径。越南的儒学科举一直持续到1919年。",
+    "ja": "1075年、李朝は古典の学識によって官吏を選ぶ最初の試験を実施した。その後数世紀のうちに科挙は拡充され、官僚となる主要な道となった。ベトナムの儒教的科挙は1919年まで続いた。"
+   }
+  },
+  {
+   "year": 1077,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Lý Thường Kiệt halts the Song at the Như Nguyệt River",
+    "ko": "리트엉끼엣, 느엉우옛강에서 송군을 저지하다",
+    "zh": "李常杰于如月江阻击宋军",
+    "ja": "李常傑、如月江で宋軍を阻む"
+   },
+   "description": {
+    "en": "After Lý Thường Kiệt launched a pre-emptive strike into Song territory in 1075–76, the Song invaded Đại Việt. In 1077 his forces held the line of the Như Nguyệt (Cầu) River, and a negotiated withdrawal followed. Tradition associates the poem 'Nam quốc sơn hà', often called Vietnam's first declaration of independence, with this war, though its authorship is debated.",
+    "ko": "리트엉끼엣이 1075~76년 송나라 영토로 선제 공격을 감행한 뒤, 송나라가 다이비엣을 침공했다. 1077년 그의 군대는 느엉우옛강(꺼우강) 방어선을 지켜 냈고, 협상을 통해 송군이 철수했다. 흔히 베트남 최초의 독립 선언문이라 불리는 시 '남국산하'가 전승상 이 전쟁과 연결되지만, 작자에 대해서는 논란이 있다.",
+    "zh": "李常杰于1075至1076年先发制人攻入宋境后，宋朝出兵大越。1077年，他率军坚守如月江（求江）防线，此后双方议和，宋军撤退。传统上将常被称为越南第一篇独立宣言的诗作《南国山河》与此战联系在一起，但其作者尚有争议。",
+    "ja": "李常傑が1075〜76年に宋の領内へ先制攻撃をかけると、宋は大越に侵攻した。1077年、彼の軍は如月江（カウ川）の防衛線を守り抜き、交渉の末に宋軍は撤退した。しばしばベトナム最初の独立宣言と呼ばれる詩『南国山河』は伝統的にこの戦いと結びつけられるが、作者については議論がある。"
+   }
+  },
+  {
+   "year": 1174,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Song recognises the 'Kingdom of Annan'",
+    "ko": "송나라의 '안남국' 인정",
+    "zh": "宋朝册封“安南国王”",
+    "ja": "宋による「安南国王」の冊封"
+   },
+   "description": {
+    "en": "In 1174 the Song court granted the Lý ruler the title 'King of Annan', replacing the earlier designation of a Chinese prefecture of Jiaozhi. The change marked formal Chinese acknowledgement of Đại Việt as a separate tributary kingdom. Vietnamese rulers used the title in relations with China while calling themselves emperors at home.",
+    "ko": "1174년 송 조정은 리 왕조의 군주에게 '안남국왕' 칭호를 주어, 그때까지 중국의 한 군으로 취급하던 교지군왕 칭호를 대신했다. 이 변화는 중국이 다이비엣을 별개의 조공국으로 공식 인정했음을 뜻했다. 베트남 군주들은 대외적으로 이 칭호를 쓰면서 국내에서는 황제를 칭했다.",
+    "zh": "1174年，宋廷册封李朝君主为“安南国王”，取代此前带有中国郡县意味的“交趾郡王”称号。这一变化标志着中国正式承认大越为独立的朝贡王国。越南君主对中国使用这一封号，对内则自称皇帝。",
+    "ja": "1174年、宋の朝廷は李朝の君主に「安南国王」の称号を与え、従来の中国の一郡を思わせる交趾郡王の称号に代えた。この変化は中国が大越を別個の朝貢国として正式に認めたことを意味した。ベトナムの君主は対中関係でこの称号を用い、国内では皇帝を称した。"
+   }
+  },
+  {
+   "year": 1177,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Champa sacks the Khmer capital",
+    "ko": "참파의 크메르 수도 약탈",
+    "zh": "占城攻陷吴哥",
+    "ja": "チャンパによるクメールの都の略奪"
+   },
+   "description": {
+    "en": "In 1177 a Cham fleet sailed up the Mekong and the Tonlé Sap and sacked the Khmer capital Yaśodharapura (Angkor). The Khmer king Jayavarman VII later expelled the invaders and in turn occupied Champa from 1203 to about 1220. These wars show the Cham kingdom of central Vietnam as a major regional power.",
+    "ko": "1177년 참파 함대가 메콩강과 톤레삽을 거슬러 올라가 크메르의 수도 야쇼다라푸라(앙코르)를 약탈했다. 크메르 왕 자야바르만 7세는 뒤에 침입자를 몰아내고, 반대로 1203년부터 1220년경까지 참파를 점령했다. 이 전쟁들은 베트남 중부의 참파 왕국이 지역 강국이었음을 보여 준다.",
+    "zh": "1177年，占城舰队沿湄公河和洞里萨湖北上，攻陷高棉都城耶输陀罗补罗（吴哥）。高棉国王阇耶跋摩七世后来驱逐了入侵者，并反过来于1203年至约1220年占领占城。这些战争表明，越南中部的占婆王国是一个重要的地区强国。",
+    "ja": "1177年、チャンパの艦隊がメコン川とトンレサップ湖を遡り、クメールの都ヤショーダラプラ（アンコール）を略奪した。クメール王ジャヤーヴァルマン7世はのちに侵入者を退け、逆に1203年から1220年頃までチャンパを占領した。これらの戦争は、ベトナム中部のチャンパ王国が地域の強国であったことを示している。"
+   }
+  },
+  {
+   "year": 1225,
+   "qid": "Q3111454",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Trần dynasty replaces the Lý",
+    "ko": "쩐 왕조의 성립",
+    "zh": "陈朝取代李朝",
+    "ja": "陳朝の成立"
+   },
+   "description": {
+    "en": "In 1225 the child empress Lý Chiêu Hoàng, the last Lý ruler, was married to the young Trần Cảnh and transferred the throne to him, an arrangement engineered by the powerful Trần Thủ Độ. Trần Cảnh became Emperor Trần Thái Tông. The Trần kept power within the clan through intermarriage and the practice of senior emperors abdicating to guide their successors.",
+    "ko": "1225년 리 왕조의 마지막 군주인 어린 여황 리찌에우호앙이 어린 쩐까인과 혼인하고 그에게 왕위를 넘겼는데, 이는 실력자 쩐투도가 꾸민 일이었다. 쩐까인은 쩐타이똥 황제가 되었다. 쩐씨는 족내혼과 상황이 일찍 양위해 후계자를 이끄는 관행으로 권력을 일족 안에 유지했다.",
+    "zh": "1225年，李朝末代君主、年幼的女皇李昭皇与少年陈煚成婚并将皇位让给他，这一安排出自权臣陈守度之手。陈煚即位为陈太宗。陈氏通过族内通婚和太上皇提前退位辅佐新君的做法，将权力牢牢掌握在家族之内。",
+    "ja": "1225年、李朝最後の君主である幼い女帝李昭皇が少年の陳煚と結婚して帝位を譲った。これは実力者陳守度が仕組んだものであった。陳煚は陳太宗となった。陳氏は一族内の婚姻と、上皇が早めに退位して後継者を導く慣行によって権力を一族内に保った。"
+   }
+  },
+  {
+   "year": 1258,
+   "qid": "Q89930532",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "First Mongol invasion: Bình Lệ Nguyên",
+    "ko": "몽골 1차 침공과 빈레응우옌 전투",
+    "zh": "蒙古第一次入侵与平厉源之战",
+    "ja": "モンゴルの第一次侵攻と平厲源の戦い"
+   },
+   "description": {
+    "en": "In the winter of 1257–58 a Mongol army under Uriyangkhadai advanced from Yunnan and defeated the Trần at Bình Lệ Nguyên, then occupied Thăng Long. The Trần court withdrew, and the Mongols, suffering from the climate and harassment, left within weeks. Đại Việt agreed to send tribute, but the episode prepared it for the larger invasions of the 1280s.",
+    "ko": "1257~58년 겨울 우량카다이가 이끄는 몽골군이 윈난에서 남하해 빈레응우옌에서 쩐 왕조 군대를 격파하고 탕롱을 점령했다. 쩐 조정은 물러났고, 기후와 기습에 시달린 몽골군은 몇 주 만에 철수했다. 다이비엣은 조공을 약속했지만, 이 경험은 1280년대의 더 큰 침공에 대비하는 계기가 되었다.",
+    "zh": "1257至1258年冬，兀良合台率蒙古军从云南南下，在平厉源击败陈军，随后占领升龙。陈朝朝廷撤离，蒙古军因水土不服和不断袭扰，数周后便撤走。大越同意入贡，而这次经历也为抵御1280年代更大规模的入侵做了准备。",
+    "ja": "1257〜58年の冬、ウリヤンカダイ率いるモンゴル軍が雲南から南下し、平厲源で陳朝軍を破って昇竜を占領した。陳の朝廷は退き、気候とゲリラ的攻撃に苦しんだモンゴル軍は数週間で撤退した。大越は朝貢を約したが、この経験は1280年代のより大規模な侵攻への備えとなった。"
+   }
+  },
+  {
+   "year": 1272,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Lê Văn Hưu completes the Đại Việt sử ký",
+    "ko": "레반흐우의 『대월사기』 완성",
+    "zh": "黎文休完成《大越史记》",
+    "ja": "黎文休『大越史記』の完成"
+   },
+   "description": {
+    "en": "In 1272 the court historian Lê Văn Hưu presented the Đại Việt sử ký, the first comprehensive history of the Vietnamese state, covering events from Zhao Tuo to the end of the Lý. The work itself is lost, but much of it, including the historian's commentaries, was incorporated into later chronicles. It established a tradition of state historiography modelled on Chinese practice.",
+    "ko": "1272년 사관 레반흐우가 조타부터 리 왕조 말까지를 다룬 최초의 포괄적인 베트남 국사 『대월사기』를 바쳤다. 원본은 전하지 않지만 사관의 논평을 포함한 상당 부분이 후대 사서에 수록되었다. 이로써 중국식 관찬 사서 편찬의 전통이 확립되었다.",
+    "zh": "1272年，史官黎文休进呈《大越史记》，这是第一部系统记述越南国家历史的史书，记事从赵佗至李朝末年。原书已失传，但包括史官评论在内的大部分内容被后来的史书收录。它开创了仿照中国做法的官修史书传统。",
+    "ja": "1272年、史官黎文休が趙佗から李朝末までを扱った最初の包括的なベトナム国史『大越史記』を献上した。原本は失われたが、史官の論評を含む多くの部分が後代の史書に取り込まれた。これにより中国に倣った官撰史書の伝統が確立した。"
+   }
+  },
+  {
+   "year": 1285,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Second Mongol invasion repelled",
+    "ko": "몽골 2차 침공 격퇴",
+    "zh": "击退元军第二次入侵",
+    "ja": "元の第二次侵攻の撃退"
+   },
+   "description": {
+    "en": "In 1285 a large Yuan army under Prince Toghan invaded from the north while another force under Sogetu advanced from Champa. Led by Trần Hưng Đạo, the Vietnamese abandoned Thăng Long, waged a war of attrition and counter-attacked at Hàm Tử, Chương Dương and Tây Kết, killing Sogetu. Trần Hưng Đạo's 'Proclamation to the Officers' (Hịch tướng sĩ) is traditionally dated to the eve of this war.",
+    "ko": "1285년 토곤 왕자가 이끄는 원나라 대군이 북쪽에서 침공하고, 소게투의 군대는 참파 방면에서 진격했다. 쩐흥다오의 지휘 아래 베트남군은 탕롱을 비우고 소모전을 벌이다 함뜨·쯔엉즈엉·떠이껫에서 반격하여 소게투를 전사시켰다. 쩐흥다오의 「격장사문(히치트엉시)」은 전통적으로 이 전쟁 직전에 쓰인 것으로 본다.",
+    "zh": "1285年，脱欢率元朝大军自北入侵，唆都率另一路军从占城方向北上。在陈兴道的指挥下，越军放弃升龙，展开消耗战，并在咸子、章阳、西结反攻，击杀唆都。陈兴道的《檄将士文》传统上被认为写于此战前夕。",
+    "ja": "1285年、トガン率いる元の大軍が北から侵攻し、ソゲトゥの別軍がチャンパ方面から進撃した。陳興道の指揮のもと、ベトナム軍は昇竜を放棄して消耗戦を行い、鹹子・章陽・西結で反撃してソゲトゥを戦死させた。陳興道の『檄将士文』は伝統的にこの戦争の直前に書かれたとされる。"
+   }
+  },
+  {
+   "year": 1288,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Tran Hung Dao Defeats the Mongol Invasion",
+    "ko": "쩐흥다오, 몽골 침공 격퇴",
+    "zh": "陈兴道击退蒙古大军",
+    "ja": "陳興道、元軍の侵攻を撃退"
+   },
+   "description": {
+    "en": "During the third Yuan invasion of 1287–88, Trần Hưng Đạo first cut off the Mongol supply fleet and then, in April 1288, lured the retreating Yuan fleet into the Bạch Đằng River, where it was trapped on stakes driven into the riverbed, recalling Ngô Quyền's tactic of 938. The Yuan fleet was destroyed and its commanders captured. The victory preserved Đại Việt's independence, and Trần Hưng Đạo is revered as one of Vietnam's greatest military leaders.",
+    "ko": "1287~88년 원나라의 3차 침공 때 쩐흥다오는 먼저 몽골의 보급 선단을 끊고, 1288년 4월 퇴각하는 원나라 함대를 바익당강으로 끌어들여 938년 응오꾸옌처럼 강바닥에 박은 말뚝에 걸리게 했다. 원나라 함대는 궤멸했고 지휘관들은 사로잡혔다. 이 승리로 다이비엣의 독립이 지켜졌으며, 쩐흥다오는 베트남 최고의 명장으로 추앙받는다.",
+    "zh": "在1287至1288年元朝第三次入侵期间，陈兴道先截断了元军的运粮船队，又于1288年4月将撤退的元朝水军诱入白藤江，仿效938年吴权的战法，使其困于河床木桩之上。元军水师全军覆没，将领被俘。这一胜利保全了大越的独立，陈兴道被尊为越南历史上最伟大的军事统帅之一。",
+    "ja": "1287〜88年の元の第三次侵攻の際、陳興道はまずモンゴルの補給船団を断ち、1288年4月には撤退する元の艦隊を白藤江に誘い込み、938年の呉権に倣って川底に打った杭に掛けた。元の艦隊は壊滅し、指揮官たちは捕らえられた。この勝利で大越の独立は守られ、陳興道はベトナム最大の名将の一人として崇敬されている。"
+   }
+  },
+  {
+   "year": 1299,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Trần Nhân Tông founds Trúc Lâm Zen",
+    "ko": "쩐년똥의 쭉럼 선종 창시",
+    "zh": "陈仁宗开创竹林禅派",
+    "ja": "陳仁宗による竹林禅の創始"
+   },
+   "description": {
+    "en": "After abdicating, the former emperor Trần Nhân Tông, who had led the country during the Mongol wars, became a monk on Mount Yên Tử around 1299. He founded the Trúc Lâm ('Bamboo Grove') school, a distinctively Vietnamese form of Zen Buddhism. Yên Tử remains a major pilgrimage site.",
+    "ko": "몽골 전쟁 동안 나라를 이끌었던 쩐년똥은 양위한 뒤 1299년 무렵 옌뜨산에서 출가했다. 그는 베트남 고유의 선불교인 쭉럼(죽림) 선종을 창시했다. 옌뜨산은 지금도 중요한 순례지다.",
+    "zh": "曾在抗元战争中领导国家的陈仁宗退位后，约于1299年在安子山出家。他开创了具有越南特色的禅宗流派竹林禅派。安子山至今仍是重要的朝圣地。",
+    "ja": "モンゴル戦争の間国を率いた陳仁宗は譲位後、1299年頃に安子山で出家した。彼はベトナム独自の禅仏教である竹林禅派を開いた。安子山は今も重要な巡礼地である。"
+   }
+  },
+  {
+   "year": 1306,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Princess Huyền Trân marries the king of Champa",
+    "ko": "현진 공주와 참파 왕의 혼인",
+    "zh": "玄珍公主下嫁占城国王",
+    "ja": "玄珍公主のチャンパ王への降嫁"
+   },
+   "description": {
+    "en": "In 1306 the Trần princess Huyền Trân was married to the Cham king Jaya Simhavarman III (Chế Mân), who in return ceded the districts of Ô and Lý, around today's Huế. After the king's death in 1307 the Trần brought the princess back to Đại Việt. The ceded lands became the provinces of Thuận and Hóa, a further step in the southward expansion.",
+    "ko": "1306년 쩐 왕조의 현진 공주가 참파 왕 자야 심하바르만 3세(쩨만)와 혼인했고, 그 대가로 참파는 오늘날 후에 일대의 오주와 리주를 넘겼다. 1307년 왕이 죽자 쩐 왕조는 공주를 다이비엣으로 데려왔다. 할양된 땅은 투언주와 화주가 되어 남진의 또 한 걸음이 되었다.",
+    "zh": "1306年，陈朝玄珍公主下嫁占城国王阇耶僧伽跋摩三世（制旻），占城则割让今顺化一带的乌、里二州作为聘礼。1307年国王去世后，陈朝将公主接回大越。所割之地改为顺州、化州，成为南进的又一步。",
+    "ja": "1306年、陳朝の玄珍公主がチャンパ王ジャヤ・シンハヴァルマン3世（制旻）に嫁ぎ、その見返りにチャンパは現在のフエ周辺の烏州・里州を割譲した。1307年に王が死ぬと、陳朝は公主を大越へ連れ戻した。割譲地は順州・化州となり、南進のさらなる一歩となった。"
+   }
+  },
+  {
+   "year": 1371,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Chế Bồng Nga sacks Thăng Long",
+    "ko": "쩨봉응아의 탕롱 약탈",
+    "zh": "制蓬峨攻掠升龙",
+    "ja": "制蓬峨による昇竜の略奪"
+   },
+   "description": {
+    "en": "The Cham king Chế Bồng Nga (Po Binasuor) launched repeated invasions of Đại Việt and in 1371 captured and plundered the capital Thăng Long. His campaigns exposed the weakness of the late Trần court. He was killed in battle in 1390, after which Champa's power declined.",
+    "ko": "참파 왕 쩨봉응아(포 비나수오르)는 다이비엣을 거듭 침공했고, 1371년 수도 탕롱을 점령해 약탈했다. 그의 원정은 쩐 왕조 말기 조정의 약점을 드러냈다. 그는 1390년 전사했고, 이후 참파의 힘은 기울었다.",
+    "zh": "占城国王制蓬峨屡次进犯大越，1371年攻入并洗劫都城升龙。他的征战暴露了陈朝末期朝廷的虚弱。1390年他战死沙场，此后占城国力日衰。",
+    "ja": "チャンパ王制蓬峨（ポー・ビナスオール）は大越に繰り返し侵攻し、1371年には都の昇竜を占領・略奪した。その遠征は陳朝末期の朝廷の弱さを露呈した。彼が1390年に戦死すると、チャンパの勢力は衰えた。"
+   }
+  },
+  {
+   "year": 1397,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Building of the Hồ citadel (Tây Đô)",
+    "ko": "호 왕조 성채(떠이도) 축조",
+    "zh": "修筑胡朝城（西都）",
+    "ja": "胡朝城（西都）の築造"
+   },
+   "description": {
+    "en": "In 1397 Hồ Quý Ly, then the dominant minister of the Trần court, built a new capital, Tây Đô, in Thanh Hóa and forced the court to move there. Its walls of huge cut stone blocks were completed in a few months. The Citadel of the Hồ Dynasty was inscribed as a UNESCO World Heritage Site in 2011.",
+    "ko": "1397년 쩐 조정의 실권자였던 호꾸이리는 타인호아에 새 수도 떠이도를 쌓고 조정을 그곳으로 옮기게 했다. 거대한 다듬은 돌로 된 성벽은 몇 달 만에 완공되었다. 호 왕조 성채는 2011년 유네스코 세계유산으로 등재되었다.",
+    "zh": "1397年，时任陈朝权臣的胡季犛在清化修建新都西都，并迫使朝廷迁往该地。其城墙由巨大的方形条石砌成，数月之内即告完工。胡朝城于2011年被列入世界遗产。",
+    "ja": "1397年、陳朝の実権を握っていた胡季犛はタインホアに新都西都を築き、朝廷を移させた。巨大な切石を積んだ城壁は数か月で完成した。胡朝城塞は2011年にユネスコ世界遺産に登録された。"
+   }
+  },
+  {
+   "year": 1400,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hồ Quý Ly founds the Hồ dynasty",
+    "ko": "호꾸이리의 호 왕조 창건",
+    "zh": "胡季犛建立胡朝",
+    "ja": "胡季犛による胡朝の創始"
+   },
+   "description": {
+    "en": "In 1400 Hồ Quý Ly deposed the child emperor Trần Thiếu Đế and took the throne, renaming the country Đại Ngu. He pursued bold reforms, including issuing paper money, limiting landholdings and slave ownership, and reforming the examinations. His usurpation alienated much of the elite and gave the Ming a pretext for intervention.",
+    "ko": "1400년 호꾸이리는 어린 황제 쩐티에우데를 폐위하고 즉위하여 국호를 다이응우로 바꾸었다. 그는 지폐 발행, 토지와 노비 소유 제한, 과거 개혁 등 과감한 개혁을 추진했다. 그러나 찬탈은 많은 지배층의 반발을 샀고 명나라에 개입의 구실을 주었다.",
+    "zh": "1400年，胡季犛废黜幼帝陈少帝，自立为帝，改国号为大虞。他推行大胆改革，包括发行纸币、限制占田和蓄奴、改革科举。其篡位疏远了许多士族，并为明朝干预提供了借口。",
+    "ja": "1400年、胡季犛は幼帝陳少帝を廃して即位し、国号を大虞と改めた。紙幣の発行、土地と奴婢所有の制限、科挙の改革など大胆な改革を進めた。しかしその簒奪は多くの支配層の反発を招き、明に介入の口実を与えた。"
+   }
+  },
+  {
+   "year": 1407,
+   "qid": "Q9903",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Ming conquest of Đại Ngu",
+    "ko": "명나라의 다이응우 정복",
+    "zh": "明朝灭胡朝",
+    "ja": "明による大虞の征服"
+   },
+   "description": {
+    "en": "Claiming to restore the Trần, the Yongle Emperor sent a large army that invaded in late 1406 and captured Hồ Quý Ly and his son in 1407. Instead of restoring the Trần, the Ming annexed the country as the province of Jiaozhi. Ming rule brought systematic sinicisation and heavy exactions, provoking continual resistance.",
+    "ko": "쩐 왕조 복위를 명분으로 영락제는 대군을 보내 1406년 말 침공했고, 1407년 호꾸이리 부자를 사로잡았다. 명나라는 쩐 왕조를 복위시키는 대신 이 나라를 교지포정사로 병합했다. 명의 지배는 체계적인 중국화와 가혹한 수탈을 가져와 끊임없는 저항을 불렀다.",
+    "zh": "永乐帝以恢复陈朝为名，派大军于1406年底入侵，1407年俘获胡季犛父子。明朝并未恢复陈朝，而是将其地并为交趾布政使司。明朝统治推行系统的汉化并横征暴敛，激起持续不断的反抗。",
+    "ja": "永楽帝は陳朝の復興を名目に大軍を送り、1406年末に侵攻して1407年に胡季犛父子を捕らえた。明は陳朝を復興させず、この地を交趾布政使司として併合した。明の支配は体系的な中国化と過酷な収奪をもたらし、絶え間ない抵抗を招いた。"
+   }
+  },
+  {
+   "year": 1418,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Lê Lợi launches the Lam Sơn uprising",
+    "ko": "레러이의 람선 봉기",
+    "zh": "黎利发动蓝山起义",
+    "ja": "黎利の藍山蜂起"
+   },
+   "description": {
+    "en": "In 1418 Lê Lợi, a landowner from Lam Sơn in Thanh Hóa, proclaimed himself Bình Định Vương ('Pacifying King') and began a guerrilla war against the Ming. Advised by the scholar Nguyễn Trãi, he combined military pressure with appeals to the population. After years of hardship in the mountains the movement broke out southward and then north toward Đông Quan (Hanoi).",
+    "ko": "1418년 타인호아 람선의 지주 레러이가 평정왕을 칭하며 명나라에 맞선 유격전을 시작했다. 학자 응우옌짜이의 조언을 받아 군사적 압박과 민심 수습을 함께 펼쳤다. 산악 지대에서 수년간 고난을 겪은 끝에 봉기군은 남쪽으로 진출했고, 이어 북쪽의 동관(하노이)으로 향했다.",
+    "zh": "1418年，清化蓝山的地主黎利自称“平定王”，开始对明军展开游击战。在学者阮廌的辅佐下，他兼用军事压力与争取民心的策略。在山区历经数年艰苦斗争后，起义军先向南发展，再北上进逼东关（河内）。",
+    "ja": "1418年、タインホアの藍山の地主黎利が平定王を称し、明に対するゲリラ戦を始めた。学者阮廌の助言を受け、軍事的圧力と民心の獲得を組み合わせた。山地で数年の苦難を経たのち、蜂起軍は南へ進出し、さらに北の東関（ハノイ）へ向かった。"
+   }
+  },
+  {
+   "year": 1428,
+   "qid": "Q878276",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Le Loi Expels the Ming and Founds the Le Dynasty",
+    "ko": "레러이의 명군 축출과 후레 왕조 창건",
+    "zh": "黎利驱逐明军，建立后黎朝",
+    "ja": "黎利が明軍を駆逐し後黎朝を建国"
+   },
+   "description": {
+    "en": "After a ten-year resistance war, Lê Lợi defeated the Ming relief armies at Chi Lăng and Xương Giang in late 1427 and allowed the remaining Ming forces to withdraw. In 1428 he proclaimed himself emperor of the Later Lê dynasty, and Nguyễn Trãi's 'Great Proclamation upon the Pacification of the Wu' (Bình Ngô đại cáo) celebrated the victory as a declaration of Đại Việt's independence. Tradition links Lê Lợi to the legend of the returned sword at Hoàn Kiếm Lake in Hanoi.",
+    "ko": "10년에 걸친 항전 끝에 레러이는 1427년 말 찌랑과 쓰엉장에서 명나라 구원군을 격파하고 남은 명군의 철수를 허락했다. 1428년 그는 후레 왕조의 황제로 즉위했고, 응우옌짜이의 「평오대고(빈응오다이까오)」는 이 승리를 다이비엣 독립 선언으로 노래했다. 전승은 하노이 호안끼엠 호수의 '돌려준 검' 전설을 레러이와 연결한다.",
+    "zh": "经过十年抗战，黎利于1427年底在支棱和昌江击败明朝援军，并允许残余明军撤回。1428年他即位为后黎朝皇帝，阮廌所作《平吴大诰》将这一胜利颂扬为大越独立的宣言。传说河内还剑湖的“还剑”故事即与黎利有关。",
+    "ja": "10年に及ぶ抗戦の末、黎利は1427年末に支稜と昌江で明の援軍を破り、残る明軍の撤退を認めた。1428年に後黎朝の皇帝として即位し、阮廌の『平呉大誥』はこの勝利を大越の独立宣言として謳い上げた。伝承はハノイの還剣湖の「剣を返す」伝説を黎利と結びつけている。"
+   }
+  },
+  {
+   "year": 1442,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Execution of Nguyễn Trãi (Lệ Chi Viên case)",
+    "ko": "응우옌짜이 처형(레찌비엔 사건)",
+    "zh": "阮廌被处死（荔枝园案）",
+    "ja": "阮廌の処刑（茘枝園事件）"
+   },
+   "description": {
+    "en": "In 1442 the young emperor Lê Thái Tông died suddenly after visiting Nguyễn Trãi's residence at Lệ Chi Viên, and the court accused Nguyễn Trãi of regicide. He and his extended family were executed. Emperor Lê Thánh Tông rehabilitated him in 1464, and he is honoured as a statesman and one of the greatest poets in Vietnamese history.",
+    "ko": "1442년 젊은 황제 레타이똥이 레찌비엔의 응우옌짜이 거처를 방문한 뒤 급사하자, 조정은 응우옌짜이를 시해죄로 몰았다. 그와 일족이 처형되었다. 레타인똥 황제가 1464년 그의 명예를 회복시켰으며, 그는 정치가이자 베트남 역사상 가장 위대한 시인의 한 사람으로 기려진다.",
+    "zh": "1442年，年轻的黎太宗在到访阮廌位于荔枝园的居所后猝死，朝廷指控阮廌弑君。阮廌及其族人被处死。1464年黎圣宗为其平反，他被尊为越南历史上的政治家和最伟大的诗人之一。",
+    "ja": "1442年、若い皇帝黎太宗が茘枝園にある阮廌の屋敷を訪れた後に急死し、朝廷は阮廌を弑逆の罪に問うた。彼とその一族は処刑された。黎聖宗が1464年に名誉を回復し、彼は政治家であり、ベトナム史上最も偉大な詩人の一人として称えられている。"
+   }
+  },
+  {
+   "year": 1471,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Lê Thánh Tông conquers Vijaya",
+    "ko": "레타인똥의 비자야 정복",
+    "zh": "黎圣宗攻灭毗阇耶",
+    "ja": "黎聖宗によるヴィジャヤ攻略"
+   },
+   "description": {
+    "en": "In 1471 Lê Thánh Tông led a massive expedition against Champa, captured its capital Vijaya (in modern Bình Định) and took King Trà Toàn prisoner. Đại Việt annexed the northern Cham lands as Quảng Nam, while the remaining southern Cham principalities survived as tributaries. The conquest permanently shifted the balance on the central coast and opened the way for further southward expansion.",
+    "ko": "1471년 레타인똥은 대규모 원정군을 이끌고 참파를 공격해 수도 비자야(오늘날 빈딘)를 함락하고 짜또안 왕을 사로잡았다. 다이비엣은 참파 북부를 꽝남으로 병합했고, 남부의 나머지 참족 공국들은 조공국으로 살아남았다. 이 정복은 중부 해안의 세력 균형을 영구히 바꾸고 더 남쪽으로 진출하는 길을 열었다.",
+    "zh": "1471年，黎圣宗亲率大军征伐占城，攻克其都城毗阇耶（今平定），俘获国王槃罗茶全。大越将占城北部并为广南道，南部残存的占族诸邦则作为藩属保存下来。这次征服永久改变了中部沿海的力量对比，并为进一步南进开辟了道路。",
+    "ja": "1471年、黎聖宗は大遠征軍を率いてチャンパを攻め、都ヴィジャヤ（現在のビンディン）を落とし、槃羅茶全王を捕らえた。大越はチャンパ北部を広南として併合し、南部に残ったチャム人の諸国は朝貢国として存続した。この征服は中部海岸の勢力均衡を恒久的に変え、さらなる南進への道を開いた。"
+   }
+  },
+  {
+   "year": 1479,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ngô Sĩ Liên compiles the Đại Việt sử ký toàn thư",
+    "ko": "응오시리엔의 『대월사기전서』 편찬",
+    "zh": "吴士连编成《大越史记全书》",
+    "ja": "呉士連『大越史記全書』の編纂"
+   },
+   "description": {
+    "en": "In 1479 the historian Ngô Sĩ Liên completed the Đại Việt sử ký toàn thư (Complete Annals of Đại Việt), building on earlier works by Lê Văn Hưu and Phan Phu Tiên. Expanded by later historians and printed in 1697, it is the most important surviving chronicle of pre-modern Vietnam. It begins with the legendary Hồng Bàng and frames Vietnamese history as that of a southern empire parallel to China.",
+    "ko": "1479년 사학자 응오시리엔은 레반흐우와 판푸띠엔의 앞선 저작을 바탕으로 『대월사기전서』를 완성했다. 후대 사가들이 증보하여 1697년 간행한 이 책은 전근대 베트남에 관한 가장 중요한 현존 사서다. 전설 속 홍방씨에서 시작하여 베트남 역사를 중국과 나란한 남방 제국의 역사로 서술한다.",
+    "zh": "1479年，史学家吴士连在黎文休、潘孚先等前人著作的基础上编成《大越史记全书》。该书经后人续补，于1697年刊行，是现存最重要的越南前近代史书。它从传说中的鸿庞氏写起，将越南历史塑造为与中国并立的南方帝国的历史。",
+    "ja": "1479年、史家呉士連は黎文休や潘孚先の先行著作をもとに『大越史記全書』を完成させた。後代の史家が増補し1697年に刊行されたこの書は、前近代ベトナムに関する現存最重要の史書である。伝説上の鴻龐氏から書き起こし、ベトナム史を中国と並び立つ南方の帝国の歴史として描く。"
+   }
+  },
+  {
+   "year": 1483,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Hồng Đức legal code",
+    "ko": "홍득 법전",
+    "zh": "《洪德法典》",
+    "ja": "洪徳法典"
+   },
+   "description": {
+    "en": "During the Hồng Đức era (1470–1497) of Lê Thánh Tông, the Lê court compiled the code later known as the Quốc triều hình luật or Hồng Đức code. Based on Chinese models but adapted to Vietnamese customs, it notably protected women's rights to inherit and hold property. It remained the basis of Vietnamese law until the early nineteenth century.",
+    "ko": "레타인똥의 홍득 연간(1470~1497)에 레 조정은 훗날 『국조형률』 또는 홍득 법전으로 알려진 법전을 편찬했다. 중국 법을 본보기로 삼았지만 베트남 관습에 맞게 고쳤으며, 특히 여성의 상속권과 재산권을 보호했다. 이 법전은 19세기 초까지 베트남 법의 근간이었다.",
+    "zh": "黎圣宗洪德年间（1470—1497年），黎朝编纂了后来称为《国朝刑律》或《洪德法典》的法典。它以中国法律为蓝本，又结合越南习俗加以调整，尤其保护了女性继承和拥有财产的权利。该法典直到十九世纪初一直是越南法律的基础。",
+    "ja": "黎聖宗の洪徳年間（1470〜1497年）に、黎朝はのちに『国朝刑律』あるいは洪徳法典と呼ばれる法典を編纂した。中国の法をモデルとしつつベトナムの慣習に合わせて改め、とりわけ女性の相続権や財産権を保護した。この法典は19世紀初めまでベトナム法の基礎であった。"
+   }
+  },
+  {
+   "year": 1527,
+   "qid": "Q1317991",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Mạc Đăng Dung seizes the throne",
+    "ko": "막당중의 왕위 찬탈",
+    "zh": "莫登庸篡位",
+    "ja": "莫登庸の簒奪"
+   },
+   "description": {
+    "en": "Amid the chaos of the late Lê court, the general Mạc Đăng Dung forced the Lê emperor to abdicate in 1527 and founded the Mạc dynasty. To avert a Ming invasion, he submitted to the Ming in 1540 and accepted a reduced title. Lê loyalists refused to recognise him, starting a long civil war.",
+    "ko": "레 왕조 말기의 혼란 속에서 장군 막당중은 1527년 레 황제를 강제로 퇴위시키고 막 왕조를 세웠다. 그는 명나라의 침공을 피하려고 1540년 명에 굴복하고 격하된 칭호를 받았다. 레 왕조 지지 세력은 그를 인정하지 않았고, 오랜 내전이 시작되었다.",
+    "zh": "在黎朝末期的混乱中，大将莫登庸于1527年逼迫黎帝退位，建立莫朝。为避免明军入侵，他于1540年向明朝屈服，接受了降格的封号。拥黎势力拒不承认莫朝，由此开始了长期内战。",
+    "ja": "黎朝末期の混乱のなか、将軍莫登庸は1527年に黎の皇帝を退位させて莫朝を開いた。明の侵攻を避けるため1540年に明に服属し、格下げされた称号を受け入れた。黎朝を支持する勢力は彼を認めず、長い内戦が始まった。"
+   }
+  },
+  {
+   "year": 1533,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Restoration of the Lê court in Thanh Hóa",
+    "ko": "타인호아에서 레 왕실 재건",
+    "zh": "黎朝在清化复辟",
+    "ja": "黎朝の清化での再興"
+   },
+   "description": {
+    "en": "In 1533 the Lê loyalist general Nguyễn Kim enthroned a Lê prince as Lê Trang Tông, establishing a rival court that soon controlled Thanh Hóa and the south. After Nguyễn Kim's death in 1545, his son-in-law Trịnh Kiểm took control of the movement. The resulting conflict is known as the Southern and Northern Dynasties period of Vietnam.",
+    "ko": "1533년 레 왕조를 지지하는 장군 응우옌낌이 레 왕족을 레짱똥으로 옹립해, 곧 타인호아와 그 남쪽을 장악하는 경쟁 조정을 세웠다. 1545년 응우옌낌이 죽은 뒤 사위 찐끼엠이 운동의 주도권을 잡았다. 이 분쟁은 베트남의 남북조 시대로 불린다.",
+    "zh": "1533年，拥黎将领阮淦拥立黎朝宗室为黎庄宗，建立起很快控制清化及其以南地区的对立朝廷。1545年阮淦去世后，其女婿郑检掌握了大权。这场冲突被称为越南的南北朝时期。",
+    "ja": "1533年、黎朝を支持する将軍阮淦が黎の王族を黎荘宗として擁立し、まもなくタインホア以南を支配する対立朝廷を樹立した。1545年に阮淦が死ぬと、娘婿の鄭検が実権を握った。この抗争はベトナムの南北朝時代と呼ばれる。"
+   }
+  },
+  {
+   "year": 1558,
+   "qid": "Q2301908",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Nguyễn Hoàng goes south to Thuận Hóa",
+    "ko": "응우옌호앙의 투언호아 진출",
+    "zh": "阮潢南下镇守顺化",
+    "ja": "阮潢の順化への南下"
+   },
+   "description": {
+    "en": "Fearing his brother-in-law Trịnh Kiểm, Nguyễn Hoàng, son of Nguyễn Kim, obtained appointment as governor of the remote frontier of Thuận Hóa in 1558. He gradually built an autonomous power base there, later adding Quảng Nam. This was the origin of the southern realm of the Nguyễn lords and, ultimately, of the Nguyễn dynasty.",
+    "ko": "응우옌낌의 아들 응우옌호앙은 매부 찐끼엠을 두려워해 1558년 먼 변경 투언호아의 진수로 임명받았다. 그는 그곳에 점차 자치적 세력 기반을 쌓고 나중에 꽝남까지 더했다. 이것이 응우옌 영주의 남부 영역, 나아가 응우옌 왕조의 기원이 되었다.",
+    "zh": "阮淦之子阮潢因畏惧姐夫郑检，于1558年请求出镇偏远的边地顺化。他在那里逐步建立起自治的权力基础，后来又兼领广南。这便是阮主南方政权乃至后来阮朝的起源。",
+    "ja": "阮淦の子阮潢は義兄の鄭検を恐れ、1558年に辺境の順化の鎮守に任じられた。彼はそこで次第に自立した勢力基盤を築き、のちに広南も加えた。これが阮氏の南部政権、ひいては阮朝の起源となった。"
+   }
+  },
+  {
+   "year": 1592,
+   "qid": "Q2267508",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Trịnh forces recapture Thăng Long",
+    "ko": "찐씨 군대의 탕롱 탈환",
+    "zh": "郑军收复升龙",
+    "ja": "鄭氏軍の昇竜奪還"
+   },
+   "description": {
+    "en": "In 1592 the army of Trịnh Tùng captured Thăng Long and executed the Mạc emperor Mạc Mậu Hợp, restoring the Lê court to the capital. The Mạc family retreated to Cao Bằng on the Chinese border, where they survived under Ming and Qing protection until 1677. The Trịnh thereafter dominated the north as hereditary lords.",
+    "ko": "1592년 찐뚱의 군대가 탕롱을 점령하고 막 왕조의 황제 막머우헙을 처형하여 레 조정을 수도로 복귀시켰다. 막씨 일족은 중국 국경의 까오방으로 물러나 명·청의 보호 아래 1677년까지 존속했다. 이후 찐씨는 세습 영주로서 북부를 지배했다.",
+    "zh": "1592年，郑松率军攻克升龙，处死莫朝皇帝莫茂洽，使黎朝重返京城。莫氏退守中越边境的高平，在明、清的庇护下延续至1677年。此后郑氏作为世袭的郑主统治北方。",
+    "ja": "1592年、鄭松の軍が昇竜を攻略して莫朝の皇帝莫茂洽を処刑し、黎の朝廷を都に戻した。莫氏は中国国境の高平に退き、明・清の保護のもとで1677年まで存続した。以後鄭氏は世襲の領主として北部を支配した。"
+   }
+  },
+  {
+   "year": 1615,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Jesuit mission at Hội An and Đà Nẵng",
+    "ko": "호이안·다낭의 예수회 선교",
+    "zh": "耶稣会在会安、岘港传教",
+    "ja": "ホイアン・ダナンでのイエズス会の宣教"
+   },
+   "description": {
+    "en": "In 1615 Jesuit missionaries expelled from Japan established a mission in Nguyễn territory around Đà Nẵng and Hội An. Hội An was then a thriving port where Japanese, Chinese and European merchants traded silk, sugar and aloeswood. Catholicism spread steadily in both the Nguyễn and Trịnh realms over the following decades.",
+    "ko": "1615년 일본에서 추방된 예수회 선교사들이 응우옌 영역의 다낭과 호이안 일대에 선교 거점을 세웠다. 당시 호이안은 일본·중국·유럽 상인들이 비단, 설탕, 침향을 거래하던 번성한 항구였다. 이후 수십 년 동안 가톨릭은 응우옌과 찐 양쪽 영역에서 꾸준히 퍼졌다.",
+    "zh": "1615年，被逐出日本的耶稣会传教士在阮主辖境的岘港、会安一带建立传教点。当时会安是繁荣的港口，日本、中国和欧洲商人在此交易丝绸、蔗糖和沉香。此后数十年间，天主教在阮主和郑主的辖地稳步传播。",
+    "ja": "1615年、日本から追放されたイエズス会の宣教師が阮氏領のダナン・ホイアン一帯に宣教拠点を設けた。当時ホイアンは日本・中国・ヨーロッパの商人が生糸、砂糖、沈香を取引する繁栄した港であった。その後数十年のうちにカトリックは阮氏・鄭氏双方の領域で着実に広まった。"
+   }
+  },
+  {
+   "year": 1627,
+   "qid": "Q7849268",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Outbreak of the Trịnh–Nguyễn War",
+    "ko": "찐-응우옌 전쟁 발발",
+    "zh": "郑阮纷争爆发",
+    "ja": "鄭阮戦争の勃発"
+   },
+   "description": {
+    "en": "In 1627 the Trịnh lord attacked the Nguyễn after they refused to pay taxes to the Lê court, opening a war that lasted, with intervals, until 1672. The Nguyễn defended themselves behind the great walls of Đồng Hới, built with the help of the strategist Đào Duy Từ, and acquired European cannon through Portuguese contacts. The war effectively split the country into two states.",
+    "ko": "1627년 응우옌씨가 레 조정에 세금 납부를 거부하자 찐 영주가 공격하여 간헐적으로 1672년까지 이어진 전쟁이 시작되었다. 응우옌씨는 전략가 다오주이뜨의 도움으로 쌓은 동허이의 장성 뒤에서 방어했고, 포르투갈인을 통해 유럽식 대포를 들여왔다. 이 전쟁으로 나라는 사실상 두 국가로 갈라졌다.",
+    "zh": "1627年，因阮主拒绝向黎廷纳税，郑主出兵进攻，由此爆发了断续持续到1672年的战争。阮主依托谋士陶维慈协助修筑的洞海长垒坚守，并通过葡萄牙人获得欧洲火炮。这场战争使国家实际上分裂为两个国家。",
+    "ja": "1627年、阮氏が黎朝廷への納税を拒むと鄭氏が攻撃し、断続的に1672年まで続く戦争が始まった。阮氏は軍師陶維慈の助けで築いた洞海の長塁に拠って防戦し、ポルトガル人を通じてヨーロッパの大砲を手に入れた。この戦争で国は事実上二つの国家に分かれた。"
+   }
+  },
+  {
+   "year": 1651,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Alexandre de Rhodes publishes his dictionary",
+    "ko": "알렉상드르 드 로드의 사전 출간",
+    "zh": "罗历山出版越葡拉词典",
+    "ja": "アレクサンドル・ド・ロードの辞書刊行"
+   },
+   "description": {
+    "en": "In 1651 the French Jesuit Alexandre de Rhodes published in Rome a Vietnamese–Portuguese–Latin dictionary and a catechism. Building on the work of Portuguese missionaries, they systematised a Latin-alphabet script for Vietnamese. This script, chữ Quốc ngữ, became the national writing system in the twentieth century.",
+    "ko": "1651년 프랑스 예수회 선교사 알렉상드르 드 로드는 로마에서 베트남어-포르투갈어-라틴어 사전과 교리서를 출간했다. 포르투갈 선교사들의 작업을 바탕으로 한 이 책들은 베트남어의 로마자 표기를 체계화했다. 이 문자, 곧 쯔꾸옥응으는 20세기에 국가 문자가 되었다.",
+    "zh": "1651年，法国耶稣会士罗历山（亚历山大·德·罗德）在罗马出版了《越南语-葡萄牙语-拉丁语词典》和一部教理书。这些著作在葡萄牙传教士工作的基础上，将越南语的拉丁字母拼写系统化。这种文字即“国语字”，在二十世纪成为越南的国家文字。",
+    "ja": "1651年、フランスのイエズス会士アレクサンドル・ド・ロードはローマでベトナム語・ポルトガル語・ラテン語辞典と教理書を刊行した。ポルトガル人宣教師の成果を基にしたこれらは、ベトナム語のラテン文字表記を体系化した。この文字クオック・グー（国語字）は20世紀に国家の文字となった。"
+   }
+  },
+  {
+   "year": 1672,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Truce along the Gianh River",
+    "ko": "자인강을 경계로 한 휴전",
+    "zh": "以争江为界休战",
+    "ja": "ザイン川を境とする休戦"
+   },
+   "description": {
+    "en": "After a final unsuccessful Trịnh offensive in 1672, the two sides ceased major hostilities, leaving the Gianh River in Quảng Bình as the de facto border. The peace lasted about a century. Freed from the northern threat, the Nguyễn concentrated on expansion southward into Cham and Khmer lands.",
+    "ko": "1672년 찐씨의 마지막 공세가 실패한 뒤 양측은 큰 전투를 멈추었고, 꽝빈의 자인강이 사실상의 경계가 되었다. 이 평화는 약 한 세기 동안 이어졌다. 북쪽의 위협에서 벗어난 응우옌씨는 참족과 크메르 땅으로의 남진에 힘을 쏟았다.",
+    "zh": "1672年郑军最后一次进攻失败后，双方停止大规模战事，广平的争江成为事实上的边界。这一和平维持了约一个世纪。摆脱北方威胁后，阮主专注于向南方的占族和高棉地区扩张。",
+    "ja": "1672年に鄭氏の最後の攻勢が失敗すると、両者は大規模な戦闘をやめ、クアンビンのザイン川が事実上の境界となった。この平和は約1世紀続いた。北の脅威から解放された阮氏は、チャム人とクメール人の地への南進に力を注いだ。"
+   }
+  },
+  {
+   "year": 1698,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Nguyễn Hữu Cảnh organises Gia Định",
+    "ko": "응우옌흐우까인의 자딘부 설치",
+    "zh": "阮有镜设立嘉定府",
+    "ja": "阮有鏡による嘉定府の設置"
+   },
+   "description": {
+    "en": "In 1698 the Nguyễn lord sent Nguyễn Hữu Cảnh to organise the area around Saigon, already settled by Vietnamese migrants and Ming loyalist refugees from China, as Gia Định prefecture. Formal Vietnamese administration was thus established in former Khmer territory. Saigon grew into the commercial centre of the south.",
+    "ko": "1698년 응우옌 영주는 응우옌흐우까인을 보내, 이미 베트남 이주민과 중국에서 온 명 유민들이 정착해 있던 사이공 일대를 자딘부로 편성하게 했다. 이로써 옛 크메르 영토에 베트남의 공식 행정이 세워졌다. 사이공은 남부의 상업 중심지로 성장했다.",
+    "zh": "1698年，阮主派阮有镜将西贡一带编设为嘉定府；此地此前已有越南移民和来自中国的明朝遗民定居。越南由此在原高棉领土上建立了正式行政机构。西贡逐渐发展为南方的商业中心。",
+    "ja": "1698年、阮氏は阮有鏡を派遣し、すでにベトナム人移民や中国から来た明の遺民が住み着いていたサイゴン一帯を嘉定府として編成させた。これにより旧クメール領にベトナムの正式な行政が置かれた。サイゴンは南部の商業の中心へと成長した。"
+   }
+  },
+  {
+   "year": 1708,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mạc Cửu places Hà Tiên under the Nguyễn",
+    "ko": "막끄우의 하띠엔 귀부",
+    "zh": "鄚玖以河仙归附阮主",
+    "ja": "鄚玖、河仙を阮氏に帰属させる"
+   },
+   "description": {
+    "en": "Mạc Cửu, a Chinese émigré from Guangdong who had built the trading port of Hà Tiên on the Gulf of Thailand, placed his territory under Nguyễn suzerainty in 1708. He and his son Mạc Thiên Tứ governed it as a semi-autonomous, cosmopolitan port. Hà Tiên later became part of Vietnam's Mekong Delta provinces.",
+    "ko": "광둥 출신 화교로 타이만 연안에 무역항 하띠엔을 건설한 막끄우는 1708년 자신의 영지를 응우옌씨의 종주권 아래 두었다. 그와 아들 막티엔뜨는 이곳을 반자치적인 국제 항구로 다스렸다. 하띠엔은 훗날 베트남 메콩 삼각주 지방의 일부가 되었다.",
+    "zh": "来自广东的华人移民鄚玖在暹罗湾沿岸建立了贸易港河仙，并于1708年将其领地归附阮主。他和儿子鄚天赐将河仙治理成半自治的国际港口。河仙后来成为越南湄公河三角洲地区的一部分。",
+    "ja": "広東出身の華人移民鄚玖はタイ湾岸に交易港河仙を築き、1708年にその領地を阮氏の宗主権下に置いた。彼と子の鄚天賜はここを半自立的な国際港として治めた。河仙はのちにベトナムのメコンデルタ地方の一部となった。"
+   }
+  },
+  {
+   "year": 1771,
+   "qid": "Q1034173",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Tây Sơn rebellion begins",
+    "ko": "떠이선 봉기 시작",
+    "zh": "西山起义爆发",
+    "ja": "西山党の蜂起"
+   },
+   "description": {
+    "en": "In 1771 the brothers Nguyễn Nhạc, Nguyễn Huệ and Nguyễn Lữ of Tây Sơn in Bình Định rose against the corrupt regime of the Nguyễn lords, drawing support from peasants, merchants and highland peoples. Exploiting the conflict, the Trịnh seized Phú Xuân in 1775. Within a few years the Tây Sơn controlled most of the south.",
+    "ko": "1771년 빈딘 떠이선의 응우옌냑·응우옌후에·응우옌르 형제가 부패한 응우옌 영주 정권에 맞서 봉기했고, 농민·상인·고원 민족의 지지를 얻었다. 이 분쟁을 틈타 찐씨가 1775년 푸쑤언을 점령했다. 몇 년 사이에 떠이선은 남부 대부분을 장악했다.",
+    "zh": "1771年，平定西山的阮岳、阮惠、阮侣三兄弟起兵反抗腐败的阮主政权，得到农民、商人和山地民族的支持。郑主趁机于1775年攻占富春。数年之内，西山军控制了南方大部分地区。",
+    "ja": "1771年、ビンディンの西山の阮岳・阮恵・阮侶の三兄弟が腐敗した阮氏政権に反旗を翻し、農民・商人・高地民族の支持を得た。この混乱に乗じて鄭氏は1775年に富春を占領した。数年のうちに西山党は南部の大部分を掌握した。"
+   }
+  },
+  {
+   "year": 1777,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Tây Sơn destroy the Nguyễn lords; Nguyễn Ánh survives",
+    "ko": "떠이선의 응우옌 영주 타도와 응우옌아인의 생존",
+    "zh": "西山军灭阮主，阮映幸存",
+    "ja": "西山党による阮氏の滅亡と阮福暎の生存"
+   },
+   "description": {
+    "en": "In 1777 Tây Sơn forces captured Gia Định and killed most members of the Nguyễn ruling family. The fifteen-year-old Nguyễn Ánh escaped and began a long struggle to recover his family's domain. He would eventually draw on Siamese help and French volunteers.",
+    "ko": "1777년 떠이선군은 자딘을 점령하고 응우옌 지배 가문의 대부분을 죽였다. 열다섯 살의 응우옌아인은 탈출해 가문의 영토를 되찾기 위한 긴 투쟁을 시작했다. 그는 훗날 시암의 도움과 프랑스인 지원병을 활용하게 된다.",
+    "zh": "1777年，西山军攻占嘉定，杀死阮氏统治家族的大部分成员。十五岁的阮映逃出，开始了收复祖业的漫长斗争。他后来借助了暹罗的援助和法国志愿人员。",
+    "ja": "1777年、西山軍は嘉定を攻略し、阮氏一族の大半を殺害した。15歳の阮福暎は逃れ、一族の領地を取り戻すための長い戦いを始めた。彼はのちにシャムの援助とフランス人の義勇兵を頼ることになる。"
+   }
+  },
+  {
+   "year": 1782,
+   "qid": "Q104879093",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Massacre of the Chinese in Saigon",
+    "ko": "사이공 화교 학살",
+    "zh": "西贡屠杀华人事件",
+    "ja": "サイゴン華人虐殺"
+   },
+   "description": {
+    "en": "When Tây Sơn forces retook Saigon in 1782, they massacred large numbers of ethnic Chinese residents, many of whom had supported the Nguyễn. The killings, centred on the Chinese settlement that later became Chợ Lớn, devastated the city's commercial community. Contemporary estimates of the death toll vary widely.",
+    "ko": "1782년 떠이선군은 사이공을 다시 점령하면서 응우옌씨를 지지했던 이들이 많았던 화교 주민을 대거 학살했다. 훗날 쩌런이 되는 화교 거주지를 중심으로 한 이 학살은 도시의 상업 공동체를 황폐하게 만들었다. 당시의 사망자 추산은 크게 엇갈린다.",
+    "zh": "1782年西山军再次攻占西贡时，大规模屠杀了当地华人居民，其中许多人曾支持阮主。屠杀集中在后来成为堤岸的华人聚居区，使该城的商业群体遭受重创。当时对死亡人数的估计差异很大。",
+    "ja": "1782年に西山軍がサイゴンを再び攻略した際、阮氏を支持していた者が多かった華人住民を大量に殺害した。のちのチョロンとなる華人居住地を中心とするこの虐殺は、都市の商業社会に壊滅的打撃を与えた。当時の死者数の推計は大きく食い違っている。"
+   }
+  },
+  {
+   "year": 1785,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Rạch Gầm–Xoài Mút",
+    "ko": "락감-쏘아이못 전투",
+    "zh": "叻涔-吹蔑之战",
+    "ja": "ラックガム・ソアイムットの戦い"
+   },
+   "description": {
+    "en": "In January 1785 Nguyễn Huệ ambushed a Siamese army and fleet, invited by Nguyễn Ánh, on the Mekong branches at Rạch Gầm and Xoài Mút in today's Tiền Giang province. The Siamese force was destroyed, and Nguyễn Ánh fled to Bangkok. The victory confirmed Tây Sơn control of the south for several years.",
+    "ko": "1785년 1월 응우옌후에는 응우옌아인이 끌어들인 시암 육군과 함대를 오늘날 띠엔장성의 메콩강 지류 락감과 쏘아이못에서 매복 공격했다. 시암군은 궤멸했고 응우옌아인은 방콕으로 달아났다. 이 승리로 떠이선은 몇 년간 남부 지배를 굳혔다.",
+    "zh": "1785年1月，阮惠在今前江省湄公河支流的叻涔和吹蔑伏击了应阮映之邀而来的暹罗军队和舰队。暹罗军全军覆没，阮映逃往曼谷。这场胜利巩固了西山军在南方数年的统治。",
+    "ja": "1785年1月、阮恵は阮福暎が招いたシャムの陸軍と艦隊を、現在のティエンザン省のメコン支流ラックガムとソアイムットで待ち伏せした。シャム軍は壊滅し、阮福暎はバンコクへ逃れた。この勝利により西山党は数年間南部の支配を固めた。"
+   }
+  },
+  {
+   "year": 1786,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nguyễn Huệ ends Trịnh rule in the north",
+    "ko": "응우옌후에의 찐씨 정권 종식",
+    "zh": "阮惠终结郑主统治",
+    "ja": "阮恵による鄭氏政権の打倒"
+   },
+   "description": {
+    "en": "In 1786 Nguyễn Huệ marched north under the slogan of supporting the Lê, took Phú Xuân and then Thăng Long, ending more than two centuries of Trịnh rule. He married a daughter of the Lê emperor before withdrawing south. Factional strife in the north soon prompted the last Lê emperor, Lê Chiêu Thống, to seek help from the Qing.",
+    "ko": "1786년 응우옌후에는 '레 왕조를 받든다'는 명분으로 북진해 푸쑤언과 탕롱을 차례로 점령하여 2세기 넘게 이어진 찐씨 지배를 끝냈다. 그는 레 황제의 딸과 혼인한 뒤 남쪽으로 돌아갔다. 북부의 파벌 다툼으로 마지막 레 황제 레찌에우통은 곧 청나라에 도움을 청했다.",
+    "zh": "1786年，阮惠以“扶黎”为号挥师北上，先后攻占富春和升龙，结束了郑氏两百多年的统治。他迎娶黎帝之女后南返。北方派系纷争不久便促使末代黎帝黎愍帝（昭统帝）向清朝求援。",
+    "ja": "1786年、阮恵は「黎朝を扶ける」を名目に北上し、富春と昇竜を相次いで攻略して200年以上続いた鄭氏の支配を終わらせた。彼は黎の皇帝の娘を娶った後、南へ引き揚げた。北部の派閥抗争により、最後の黎の皇帝昭統帝はまもなく清に救援を求めた。"
+   }
+  },
+  {
+   "year": 1789,
+   "qid": "Q3539853",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Quang Trung defeats the Qing at Ngọc Hồi–Đống Đa",
+    "ko": "꽝쭝, 응옥호이-동다에서 청군 격파",
+    "zh": "光中帝在玉回—栋多大败清军",
+    "ja": "光中帝、玉回・棟多で清軍を撃破"
+   },
+   "description": {
+    "en": "After a Qing army entered Thăng Long in late 1788 to restore Lê Chiêu Thống, Nguyễn Huệ proclaimed himself Emperor Quang Trung and marched north at speed. Over the Lunar New Year of early 1789 his forces stormed the Qing positions at Ngọc Hồi and Đống Đa and retook the capital, routing the invaders. Quang Trung then reached an accommodation with the Qianlong Emperor, who recognised him as king.",
+    "ko": "1788년 말 청군이 레찌에우통을 복위시키려 탕롱에 들어오자, 응우옌후에는 꽝쭝 황제를 칭하고 빠르게 북진했다. 1789년 초 설날 무렵 그의 군대는 응옥호이와 동다의 청군 진지를 급습하고 수도를 되찾아 침략군을 패주시켰다. 이후 꽝쭝은 건륭제와 타협했고, 건륭제는 그를 국왕으로 인정했다.",
+    "zh": "1788年底，清军为扶立黎昭统帝进入升龙，阮惠随即称帝（光中帝）并急速北上。1789年初春节期间，其军队猛攻玉回和栋多的清军营垒，收复京城，击溃入侵者。此后光中帝与乾隆帝达成和解，乾隆册封其为安南国王。",
+    "ja": "1788年末、黎昭統帝の復位のため清軍が昇竜に入ると、阮恵は光中帝を称して急速に北上した。1789年初めのテト（旧正月）の頃、その軍は玉回と棟多の清軍陣地を急襲して都を奪還し、侵攻軍を敗走させた。その後光中帝は乾隆帝と和解し、乾隆帝は彼を国王に封じた。"
+   }
+  },
+  {
+   "year": 1802,
+   "qid": "Q6500483",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Gia Long Unifies Vietnam under the Nguyen Dynasty",
+    "ko": "자롱제의 통일과 응우옌 왕조 수립",
+    "zh": "嘉隆帝统一越南，建立阮朝",
+    "ja": "嘉隆帝によるベトナム統一と阮朝の成立"
+   },
+   "description": {
+    "en": "After a quarter-century of war against the Tây Sơn, Nguyễn Ánh took Phú Xuân in 1801 and Thăng Long in 1802, ending the Tây Sơn dynasty. Crowned as Emperor Gia Long, he unified the country from the Chinese border to the Gulf of Thailand for the first time in centuries and made Huế his capital. He founded Vietnam's last imperial dynasty, which ruled until 1945.",
+    "ko": "떠이선과 25년에 걸친 전쟁 끝에 응우옌아인은 1801년 푸쑤언, 1802년 탕롱을 점령해 떠이선 왕조를 끝냈다. 자롱 황제로 즉위한 그는 수 세기 만에 처음으로 중국 국경에서 타이만까지 나라를 통일하고 후에를 수도로 삼았다. 그는 1945년까지 이어진 베트남 마지막 왕조를 열었다.",
+    "zh": "阮映经过与西山军长达二十五年的战争，于1801年攻占富春，1802年攻占升龙，西山朝灭亡。他即位为嘉隆帝，数百年来首次将从中国边境到暹罗湾的国土统一起来，并定都顺化。他开创的越南最后一个王朝一直延续到1945年。",
+    "ja": "西山朝との四半世紀に及ぶ戦いの末、阮福暎は1801年に富春、1802年に昇竜を攻略して西山朝を滅ぼした。嘉隆帝として即位した彼は、数世紀ぶりに中国国境からタイ湾までを統一し、フエを都とした。彼が開いたベトナム最後の王朝は1945年まで続いた。"
+   }
+  },
+  {
+   "year": 1804,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The name 'Việt Nam' is adopted",
+    "ko": "'비엣남' 국호 채택",
+    "zh": "定国号为“越南”",
+    "ja": "国号「越南」の採用"
+   },
+   "description": {
+    "en": "Gia Long asked the Qing to recognise his state as 'Nam Việt', but the Jiaqing Emperor, wary of the old kingdom of Nanyue, reversed the words. The name Việt Nam was officially adopted in 1804. Although Minh Mạng later used Đại Nam, 'Việt Nam' was revived in the twentieth century and became the country's name.",
+    "ko": "자롱제는 청나라에 '남월(남비엣)'이라는 국호의 승인을 요청했으나, 옛 남월국을 경계한 가경제가 두 글자의 순서를 바꾸었다. 이렇게 1804년 '비엣남(월남)'이 공식 국호가 되었다. 민망제가 뒤에 다이남을 썼지만 '비엣남'은 20세기에 되살아나 나라 이름이 되었다.",
+    "zh": "嘉隆帝请求清朝以“南越”册封其国，但嘉庆帝顾忌古代南越国，将两字颠倒。“越南”遂于1804年成为正式国号。虽然明命帝后来改用“大南”，但“越南”在二十世纪重新启用并成为国名。",
+    "ja": "嘉隆帝は清に「南越」の国号での冊封を求めたが、古の南越国を警戒した嘉慶帝が二字を入れ替えた。こうして1804年に「越南」が正式な国号となった。明命帝はのちに大南を用いたが、「越南」は20世紀に復活して国名となった。"
+   }
+  },
+  {
+   "year": 1805,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Construction of the Huế citadel begins",
+    "ko": "후에 성 건설 시작",
+    "zh": "顺化京城开始修建",
+    "ja": "フエ王城の建設開始"
+   },
+   "description": {
+    "en": "In 1805 Gia Long began building a vast new citadel at Huế, combining the layout of a Chinese imperial city with Vauban-style bastioned walls. The Imperial City and Purple Forbidden City inside it housed the Nguyễn court until 1945. The Complex of Huế Monuments became Vietnam's first UNESCO World Heritage Site in 1993.",
+    "ko": "1805년 자롱제는 후에에 거대한 새 성곽을 쌓기 시작했는데, 중국식 황성의 배치와 보방식 능보 성벽을 결합했다. 그 안의 황성과 자금성은 1945년까지 응우옌 조정의 거처였다. 후에 기념물 집합체는 1993년 베트남 최초의 유네스코 세계유산이 되었다.",
+    "zh": "1805年，嘉隆帝开始在顺化修建规模宏大的新京城，将中国式皇城布局与沃邦式棱堡城墙相结合。城内的皇城和紫禁城直到1945年一直是阮朝宫廷所在地。顺化古迹群于1993年成为越南第一处世界遗产。",
+    "ja": "1805年、嘉隆帝はフエに巨大な新城郭の建設を始め、中国式の皇城の配置とヴォーバン式の稜堡城壁を組み合わせた。その内部の皇城と紫禁城は1945年まで阮朝の宮廷の所在地であった。フエの建造物群は1993年にベトナム初のユネスコ世界遺産となった。"
+   }
+  },
+  {
+   "year": 1820,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Nguyễn Du's Tale of Kiều",
+    "ko": "응우옌주의 『쭈옌 끼에우』",
+    "zh": "阮攸《金云翘传》",
+    "ja": "阮攸『金雲翹』"
+   },
+   "description": {
+    "en": "In the early nineteenth century the poet and mandarin Nguyễn Du (1766–1820) wrote the Truyện Kiều (Tale of Kiều), a verse narrative of 3,254 lines in chữ Nôm based on a Chinese novel; its exact date of composition is uncertain. It tells of a talented woman who sacrifices herself for her family and endures years of suffering. It is regarded as the masterpiece of Vietnamese literature.",
+    "ko": "19세기 초 시인이자 관리였던 응우옌주(1766~1820)는 중국 소설을 바탕으로 쯔놈으로 3,254행의 운문 서사 『쭈옌 끼에우』를 지었다. 정확한 창작 연대는 확실하지 않다. 가족을 위해 자신을 희생하고 오랜 고난을 견디는 재능 있는 여인의 이야기로, 베트남 문학의 최고 걸작으로 꼽힌다.",
+    "zh": "十九世纪初，诗人兼官员阮攸（1766—1820年）以中国小说为蓝本，用喃字写成长达3254行的叙事诗《金云翘传》（《翘传》），确切创作年代不详。诗作讲述一位才女为家庭牺牲自我、历经多年苦难的故事，被视为越南文学的最高杰作。",
+    "ja": "19世紀初め、詩人で官僚の阮攸（1766〜1820年）は中国の小説をもとに字喃で3254行の韻文物語『金雲翹』（チュエン・キエウ）を書いた。正確な成立年は不明である。家族のために身を犠牲にし長い苦難に耐える才媛の物語で、ベトナム文学の最高傑作とされる。"
+   }
+  },
+  {
+   "year": 1832,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Minh Mạng annexes the last Cham principality",
+    "ko": "민망제의 마지막 참족 공국 병합",
+    "zh": "明命帝吞并最后的占族邦国",
+    "ja": "明命帝による最後のチャム人国家の併合"
+   },
+   "description": {
+    "en": "In 1832 Emperor Minh Mạng abolished the autonomy of Panduranga (Thuận Thành), the last remnant of Champa, and incorporated it into Bình Thuận province. In the same year he ended the semi-autonomous viceroyalty of Gia Định after the death of its governor Lê Văn Duyệt. These moves completed the centralisation of the Nguyễn state and the end of Champa as a polity.",
+    "ko": "1832년 민망제는 참파의 마지막 잔존 세력인 판두랑가(투언타인)의 자치를 폐지하고 빈투언성에 편입했다. 같은 해 그는 총독 레반주옛이 죽자 반자치적이던 자딘 총진도 폐지했다. 이 조치들로 응우옌 왕조의 중앙집권화가 완성되고 참파는 정치체로서 소멸했다.",
+    "zh": "1832年，明命帝废除占婆最后残余宾童龙（顺城镇）的自治，将其并入平顺省。同年，在嘉定总镇黎文悦去世后，他又废除了半自治的嘉定城总镇。这些举措完成了阮朝的中央集权，占婆作为政治实体至此终结。",
+    "ja": "1832年、明命帝はチャンパ最後の残存勢力パーンドゥランガ（順城鎮）の自治を廃してビントゥアン省に編入した。同年、総鎮黎文悦の死後、半自立的だった嘉定城総鎮も廃止した。これらの措置により阮朝の中央集権化が完成し、チャンパは政治体として消滅した。"
+   }
+  },
+  {
+   "year": 1833,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Lê Văn Khôi revolt",
+    "ko": "레반코이의 반란",
+    "zh": "黎文𠐤起义",
+    "ja": "黎文𠐤の反乱"
+   },
+   "description": {
+    "en": "In 1833 Lê Văn Khôi, adopted son of Lê Văn Duyệt, rebelled in Gia Định after Minh Mạng's officials posthumously punished his patron. The rebels held the Saigon citadel for two years, with support from some Catholics and Siamese intervention in the south. After the citadel fell in 1835 Minh Mạng had it demolished and intensified persecution of Christians.",
+    "ko": "1833년 레반주옛의 양자 레반코이는 민망제의 관리들이 죽은 양부를 사후 처벌하자 자딘에서 반란을 일으켰다. 반란군은 일부 가톨릭 신자의 지원과 남부에 대한 시암의 개입 속에 2년 동안 사이공 성을 지켰다. 1835년 성이 함락되자 민망제는 성을 허물게 하고 기독교 탄압을 강화했다.",
+    "zh": "1833年，黎文悦的养子黎文𠐤在明命帝的官员对其已故养父追加惩处后，于嘉定起兵反叛。在部分天主教徒的支持和暹罗对南方的干预下，起义军坚守西贡城达两年。1835年城破后，明命帝下令拆毁城池，并加紧迫害基督徒。",
+    "ja": "1833年、黎文悦の養子黎文𠐤は、明命帝の官吏が亡き養父を死後に処罰したことに反発し、嘉定で反乱を起こした。反乱軍は一部のカトリック信徒の支援と南部へのシャムの介入のなか、2年間サイゴン城を守った。1835年に城が落ちると、明命帝は城を取り壊させ、キリスト教徒への迫害を強めた。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": "Q5361929",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Franco-Spanish attack on Đà Nẵng",
+    "ko": "프랑스·스페인군의 다낭 공격",
+    "zh": "法西联军进攻岘港",
+    "ja": "仏西連合軍のダナン攻撃"
+   },
+   "description": {
+    "en": "In September 1858 a French and Spanish expedition under Admiral Rigault de Genouilly attacked Tourane (Đà Nẵng), citing the persecution of Catholic missionaries. The invaders were pinned down by Vietnamese defences and disease and could not advance on Huế. The siege marked the start of the French conquest of Vietnam.",
+    "ko": "1858년 9월 리고 드 주누이 제독이 이끄는 프랑스·스페인 원정군은 가톨릭 선교사 박해를 구실로 투란(다낭)을 공격했다. 침략군은 베트남군의 방어와 질병에 막혀 후에로 진격하지 못했다. 이 포위전은 프랑스의 베트남 정복의 시작이었다.",
+    "zh": "1858年9月，黎峨（里戈·德·热努伊）海军上将率领的法国和西班牙远征军以天主教传教士遭迫害为由进攻土伦（岘港）。侵略军受阻于越军的防御和疾病，未能向顺化推进。这次围攻标志着法国征服越南的开始。",
+    "ja": "1858年9月、リゴー・ド・ジュヌイィ提督率いるフランス・スペイン遠征軍は、カトリック宣教師の迫害を口実にトゥーラン（ダナン）を攻撃した。侵攻軍はベトナム側の防御と疫病に阻まれ、フエへ進むことができなかった。この包囲戦がフランスのベトナム征服の始まりとなった。"
+   }
+  },
+  {
+   "year": 1859,
+   "qid": "Q1998999",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "French capture Saigon",
+    "ko": "프랑스의 사이공 점령",
+    "zh": "法军攻占西贡",
+    "ja": "フランス軍のサイゴン占領"
+   },
+   "description": {
+    "en": "Shifting their effort south, the French captured the Saigon citadel in February 1859 and then held the city through a long Vietnamese siege. In 1861 reinforcements under Admiral Charner broke the siege at Kỳ Hòa and went on to take Mỹ Tho and Biên Hòa. Saigon became the base of French colonial power.",
+    "ko": "공격 방향을 남쪽으로 돌린 프랑스군은 1859년 2월 사이공 성을 점령했고, 이후 베트남군의 오랜 포위를 버텼다. 1861년 샤르네 제독의 증원군이 끼호아에서 포위를 깨뜨리고 미토와 비엔호아까지 점령했다. 사이공은 프랑스 식민 권력의 거점이 되었다.",
+    "zh": "法军将进攻重点转向南方，于1859年2月攻占西贡城，此后顶住了越军的长期围困。1861年，沙内海军上将率援军在祈和突破包围，并相继攻占美荻和边和。西贡成为法国殖民势力的据点。",
+    "ja": "攻撃の矛先を南へ転じたフランス軍は1859年2月にサイゴン城を攻略し、その後ベトナム軍の長い包囲に耐えた。1861年、シャルネ提督の増援軍がキーホアで包囲を破り、さらにミトーとビエンホアを占領した。サイゴンはフランス植民地権力の拠点となった。"
+   }
+  },
+  {
+   "year": 1862,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Saigon cedes eastern Cochinchina",
+    "ko": "사이공 조약과 코친차이나 동부 할양",
+    "zh": "《西贡条约》割让南圻东三省",
+    "ja": "サイゴン条約と東部コーチシナの割譲"
+   },
+   "description": {
+    "en": "Facing a northern rebellion and French pressure, Emperor Tự Đức signed the Treaty of Saigon in June 1862. It ceded the three eastern southern provinces of Biên Hòa, Gia Định and Định Tường and the island of Côn Lôn to France, opened ports and allowed Catholic missionary activity, and imposed a large indemnity. Local resistance continued under leaders such as Trương Định.",
+    "ko": "북부의 반란과 프랑스의 압박에 직면한 뜨득 황제는 1862년 6월 사이공 조약에 서명했다. 이 조약으로 남부 동쪽의 비엔호아·자딘·딘뜨엉 3성과 꼰론섬이 프랑스에 할양되고, 항구 개방과 가톨릭 선교가 허용되었으며 막대한 배상금이 부과되었다. 쯔엉딘 등이 이끄는 현지 저항은 계속되었다.",
+    "zh": "面对北方叛乱和法国的压力，嗣德帝于1862年6月签订《西贡条约》，将南圻东部的边和、嘉定、定祥三省及昆仑岛割让给法国，开放港口，准许天主教传教，并支付巨额赔款。张定等人领导的当地抵抗仍在继续。",
+    "ja": "北部の反乱とフランスの圧力に直面した嗣徳帝は、1862年6月にサイゴン条約に調印した。南部東側のビエンホア・ザーディン・ディントゥオンの3省とコンロン島をフランスに割譲し、港の開放とカトリックの布教を認め、多額の賠償金を課された。張定らが率いる現地の抵抗は続いた。"
+   }
+  },
+  {
+   "year": 1867,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "France seizes western Cochinchina",
+    "ko": "프랑스의 코친차이나 서부 점령",
+    "zh": "法国占领南圻西三省",
+    "ja": "フランスによる西部コーチシナの占領"
+   },
+   "description": {
+    "en": "In June 1867 Admiral de La Grandière occupied the three western provinces of Vĩnh Long, An Giang and Hà Tiên without a fight. The viceroy Phan Thanh Giản, who had negotiated the 1862 treaty, surrendered the citadels and then took his own life. All of southern Vietnam was now the French colony of Cochinchina.",
+    "ko": "1867년 6월 라 그랑디에르 제독이 빈롱·안장·하띠엔 서부 3성을 싸움 없이 점령했다. 1862년 조약을 협상했던 경략사 판타인잔은 성을 넘겨준 뒤 스스로 목숨을 끊었다. 이로써 베트남 남부 전체가 프랑스 식민지 코친차이나가 되었다.",
+    "zh": "1867年6月，拉格朗迪埃尔海军上将未经战斗便占领了永隆、安江、河仙西三省。曾主持1862年条约谈判的经略大臣潘清简交出城池后自尽。至此，越南南部全境成为法国殖民地交趾支那。",
+    "ja": "1867年6月、ラ・グランディエール提督はヴィンロン・アンザン・ハティエンの西部3省を戦わずに占領した。1862年の条約を交渉した潘清簡は城を明け渡したのち自ら命を絶った。こうしてベトナム南部全体がフランスの植民地コーチシナとなった。"
+   }
+  },
+  {
+   "year": 1873,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Francis Garnier's attack on Hanoi",
+    "ko": "프랑시스 가르니에의 하노이 공격",
+    "zh": "安邺进攻河内",
+    "ja": "フランシス・ガルニエのハノイ攻撃"
+   },
+   "description": {
+    "en": "In November 1873 the French officer Francis Garnier, sent to settle a dispute involving the trader Jean Dupuis, seized the Hanoi citadel and several delta towns. In December he was killed in an ambush by the Black Flag Army of Liu Yongfu near Hanoi. France withdrew in 1874 in exchange for a treaty recognising its sovereignty over Cochinchina.",
+    "ko": "1873년 11월 상인 장 뒤퓌와 관련된 분쟁을 해결하라는 명령을 받은 프랑스 장교 프랑시스 가르니에가 하노이 성과 삼각주의 여러 도시를 점령했다. 12월 그는 하노이 근처에서 유영복의 흑기군 매복에 걸려 전사했다. 프랑스는 1874년 코친차이나에 대한 주권을 인정받는 조약을 대가로 철수했다.",
+    "zh": "1873年11月，奉命处理商人堵布益纠纷的法国军官安邺攻占河内城及三角洲多座城镇。同年12月，他在河内附近遭刘永福黑旗军伏击身亡。1874年法国以签订承认其对交趾支那主权的条约为条件撤军。",
+    "ja": "1873年11月、商人ジャン・デュピュイをめぐる紛争の解決を命じられたフランス人将校フランシス・ガルニエがハノイ城とデルタの諸都市を占領した。12月、彼はハノイ近郊で劉永福の黒旗軍の待ち伏せに遭い戦死した。フランスは1874年、コーチシナの主権を認める条約と引き換えに撤退した。"
+   }
+  },
+  {
+   "year": 1883,
+   "qid": "Q4870828",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Cầu Giấy and the Harmand Treaty",
+    "ko": "꺼우저이 전투와 아르망 조약",
+    "zh": "纸桥之战与《顺化条约》",
+    "ja": "紙橋の戦いとアルマン条約"
+   },
+   "description": {
+    "en": "In May 1883 Henri Rivière, who had seized Hanoi the previous year, was killed by the Black Flags at Cầu Giấy. France responded with a full-scale campaign, attacking the approaches to Huế, and in August 1883 imposed the Harmand Treaty, which made the Vietnamese kingdom a French protectorate. China, which still claimed suzerainty, contested the outcome.",
+    "ko": "1883년 5월 전년에 하노이를 점령했던 앙리 리비에르가 꺼우저이에서 흑기군에게 전사했다. 프랑스는 전면 원정으로 맞서 후에의 관문을 공격했고, 1883년 8월 베트남 왕국을 프랑스 보호국으로 만드는 아르망 조약을 강요했다. 여전히 종주권을 주장하던 청나라는 이 결과에 반발했다.",
+    "zh": "1883年5月，前一年攻占河内的李维业在纸桥被黑旗军击毙。法国随即发动全面进攻，攻击顺化门户，并于1883年8月强迫越南签订《何罗芒条约》（第一次顺化条约），使越南成为法国保护国。仍主张宗主权的清朝对此提出异议。",
+    "ja": "1883年5月、前年にハノイを占領していたアンリ・リヴィエールが紙橋（カウザイ）で黒旗軍に討たれた。フランスは本格的な遠征で応じ、フエの入口を攻撃して、1883年8月にベトナム王国をフランスの保護国とするアルマン条約を押しつけた。なお宗主権を主張していた清はこの結果に異議を唱えた。"
+   }
+  },
+  {
+   "year": 1884,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Patenôtre Treaty and the Sino-French War",
+    "ko": "파트노트르 조약과 청불 전쟁",
+    "zh": "《巴德诺条约》与中法战争",
+    "ja": "パトノートル条約と清仏戦争"
+   },
+   "description": {
+    "en": "The Patenôtre Treaty of June 1884 confirmed the French protectorate over Annam and Tonkin; in a symbolic act, the Qing-conferred seal of investiture was melted down. Fighting with Chinese forces in Tonkin escalated into the Sino-French War of 1884–85. The 1885 Treaty of Tientsin ended it, with China renouncing its suzerainty over Vietnam.",
+    "ko": "1884년 6월 파트노트르 조약은 안남과 통킹에 대한 프랑스의 보호권을 확정했고, 상징적으로 청나라가 내린 책봉 인장을 녹여 없앴다. 통킹에서 청군과의 충돌은 1884~85년 청불 전쟁으로 확대되었다. 1885년 톈진 조약으로 전쟁이 끝났고, 청은 베트남에 대한 종주권을 포기했다.",
+    "zh": "1884年6月的《巴德诺条约》（第二次顺化条约）确认了法国对安南和东京的保护权，清朝颁授的册封金印被当众熔毁，具有象征意义。法军与清军在北圻的冲突升级为1884至1885年的中法战争。1885年《中法新约》（天津条约）结束战争，中国放弃对越南的宗主权。",
+    "ja": "1884年6月のパトノートル条約はアンナンとトンキンに対するフランスの保護権を確定し、象徴的に清から授けられた冊封の印璽が溶かされた。トンキンでの清軍との衝突は1884〜85年の清仏戦争に発展した。1885年の天津条約で戦争は終わり、清はベトナムに対する宗主権を放棄した。"
+   }
+  },
+  {
+   "year": 1885,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Cần Vương movement",
+    "ko": "근왕 운동",
+    "zh": "勤王运动",
+    "ja": "勤王運動"
+   },
+   "description": {
+    "en": "In July 1885 the regent Tôn Thất Thuyết launched a failed attack on the French garrison in Huế and fled with the young Emperor Hàm Nghi, who issued an edict calling on the people to 'aid the king' (Cần Vương). Scholar-gentry across the country rose in resistance for more than a decade. Hàm Nghi was captured in 1888 and exiled to Algeria, and the movement was largely suppressed by the 1890s.",
+    "ko": "1885년 7월 섭정 똔텃투옛은 후에의 프랑스 수비대를 공격했다가 실패하자 어린 함응이 황제와 함께 탈출했고, 함응이는 백성에게 '왕을 도우라'(근왕)는 조서를 내렸다. 전국의 유생과 향신이 10년 넘게 저항에 나섰다. 함응이는 1888년 붙잡혀 알제리로 유배되었고, 운동은 1890년대에 대부분 진압되었다.",
+    "zh": "1885年7月，辅政大臣尊室说袭击顺化的法军失败后，带着年幼的咸宜帝出逃，咸宜帝颁布诏书号召百姓“勤王”。全国各地的文绅纷纷起兵，抗争持续十余年。咸宜帝于1888年被俘并流放阿尔及利亚，运动在1890年代基本被镇压。",
+    "ja": "1885年7月、輔政の尊室説はフエのフランス軍守備隊への攻撃に失敗し、幼い咸宜帝を連れて脱出した。咸宜帝は民に「王を助けよ」（勤王）と呼びかける詔を発した。全国の文紳が10年以上にわたり抵抗に立ち上がった。咸宜帝は1888年に捕らえられてアルジェリアへ流され、運動は1890年代までにほぼ鎮圧された。"
+   }
+  },
+  {
+   "year": 1887,
+   "qid": "Q185682",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "French Indochina Established",
+    "ko": "프랑스령 인도차이나 성립",
+    "zh": "法属印度支那成立",
+    "ja": "フランス領インドシナの成立"
+   },
+   "description": {
+    "en": "In October 1887 France grouped the colony of Cochinchina and the protectorates of Annam, Tonkin and Cambodia into the Indochinese Union under a governor-general; Laos was added in 1899. The Nguyễn emperors retained only ceremonial authority. Colonial rule transformed the economy through plantations, mines, railways and rice exports, while heavy taxation and land dispossession sparked nationalist movements.",
+    "ko": "1887년 10월 프랑스는 코친차이나 식민지와 안남·통킹·캄보디아 보호령을 총독 아래 인도차이나 연방으로 묶었고, 1899년에는 라오스를 더했다. 응우옌 왕조 황제는 의례적 권한만 유지했다. 식민 통치는 플랜테이션, 광산, 철도, 쌀 수출로 경제를 바꾸었지만, 무거운 세금과 토지 수탈은 민족주의 운동을 불러일으켰다.",
+    "zh": "1887年10月，法国将交趾支那殖民地与安南、东京、柬埔寨三个保护国合并为由总督统辖的印度支那联邦，1899年又并入老挝。阮朝皇帝只保留礼仪性的权力。殖民统治通过种植园、矿山、铁路和大米出口改变了经济面貌，但沉重的赋税和土地掠夺激起了民族主义运动。",
+    "ja": "1887年10月、フランスはコーチシナ植民地とアンナン・トンキン・カンボジアの保護国を総督のもとインドシナ連邦にまとめ、1899年にはラオスを加えた。阮朝の皇帝は儀礼的な権限しか残されなかった。植民地支配はプランテーション、鉱山、鉄道、米輸出によって経済を変えたが、重税と土地の収奪が民族主義運動を引き起こした。"
+   }
+  },
+  {
+   "year": 1888,
+   "qid": "Q2096935",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The 'Kingdom of Sedang'",
+    "ko": "'세당 왕국'",
+    "zh": "“色当王国”",
+    "ja": "「セダン王国」"
+   },
+   "description": {
+    "en": "In 1888 the French adventurer Marie-Charles David de Mayréna persuaded some Bahnar and Sedang communities of the Central Highlands to accept him as 'King Marie I' of Sedang. French colonial authorities refused to recognise the venture, and Mayréna died in 1890 without returning. The episode reflects the colonial scramble for the highlands, which had remained largely outside Vietnamese state control.",
+    "ko": "1888년 프랑스 모험가 마리샤를 다비드 드 마이레나는 중부 고원의 일부 바나·세당 공동체를 설득해 자신을 세당의 '마리 1세'로 받들게 했다. 프랑스 식민 당국은 이를 인정하지 않았고, 마이레나는 돌아오지 못한 채 1890년 사망했다. 이 사건은 그때까지 베트남 국가 통제 밖에 있던 고원을 둘러싼 식민지 쟁탈을 보여 준다.",
+    "zh": "1888年，法国冒险家马里-夏尔·大卫·德·梅雷纳说服中部高原部分巴拿族和色当族群体拥立他为色当“马里一世”。法国殖民当局拒绝承认此事，梅雷纳于1890年客死他乡。这一插曲反映了殖民者对此前基本不受越南国家管辖的高原地区的争夺。",
+    "ja": "1888年、フランス人冒険家マリー＝シャルル・ダヴィッド・ド・メレナは中部高原のバナ人・セダン人の一部の共同体を説得し、自らをセダンの「マリー1世」として認めさせた。フランス植民地当局はこれを認めず、メレナは戻ることなく1890年に死去した。この出来事は、それまでベトナム国家の支配がほとんど及ばなかった高原をめぐる植民地的争奪を映している。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Phan Bội Châu launches the Đông Du movement",
+    "ko": "판보이쩌우의 동유 운동",
+    "zh": "潘佩珠发起东游运动",
+    "ja": "潘佩珠の東遊運動"
+   },
+   "description": {
+    "en": "Inspired by Japan's victory over Russia, the nationalist Phan Bội Châu travelled to Japan in 1905 and launched the Đông Du ('Go East') movement, sending young Vietnamese to study there. Under French pressure, Japan expelled the students in 1908–09. The movement marked the transition from royalist resistance to modern nationalism.",
+    "ko": "러일 전쟁에서 일본이 승리한 데 자극받은 민족주의자 판보이쩌우는 1905년 일본으로 건너가 베트남 청년들을 유학 보내는 동유('동쪽으로 가자') 운동을 시작했다. 프랑스의 압력으로 일본은 1908~09년 유학생들을 추방했다. 이 운동은 근왕적 저항에서 근대 민족주의로 넘어가는 전환점이었다.",
+    "zh": "受日本战胜俄国的鼓舞，民族主义者潘佩珠于1905年东渡日本，发起“东游运动”，组织越南青年赴日留学。在法国施压下，日本于1908至1909年驱逐了这些留学生。东游运动标志着越南从勤王式抗争向近代民族主义的转变。",
+    "ja": "日露戦争での日本の勝利に触発された民族主義者潘佩珠は1905年に日本へ渡り、ベトナムの若者を留学させる東遊運動を始めた。フランスの圧力により日本は1908〜09年に留学生を追放した。この運動は勤王的抵抗から近代民族主義への転換点となった。"
+   }
+  },
+  {
+   "year": 1907,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Tonkin Free School (Đông Kinh Nghĩa Thục)",
+    "ko": "동낀의숙",
+    "zh": "东京义塾",
+    "ja": "東京義塾"
+   },
+   "description": {
+    "en": "In 1907 reform-minded scholars opened the Đông Kinh Nghĩa Thục in Hanoi, a free school teaching modern subjects and promoting the Latin-alphabet Quốc ngữ script. It was inspired by Japan's Keiō Gijuku and by the reformist ideas of Phan Châu Trinh. The French closed it within the year, but it helped spread Quốc ngữ and modern ideas.",
+    "ko": "1907년 개혁 성향의 지식인들이 하노이에 동낀의숙을 열어 근대 학문을 무상으로 가르치고 로마자 꾸옥응으 보급에 힘썼다. 이 학교는 일본의 게이오기주쿠와 판쩌우찐의 개혁 사상에서 영감을 받았다. 프랑스는 그해 안에 학교를 폐쇄했지만, 학교는 꾸옥응으와 근대 사상의 확산에 기여했다.",
+    "zh": "1907年，主张改革的士人在河内创办东京义塾，免费讲授新学，推广拉丁字母的国语字。该校受日本庆应义塾和潘周桢改良思想的启发。法国当局在当年即将其关闭，但它推动了国语字和新思想的传播。",
+    "ja": "1907年、改革志向の知識人がハノイに東京義塾を開き、近代的な学問を無償で教え、ラテン文字のクオック・グーの普及に努めた。日本の慶應義塾と潘周楨の改革思想に触発された学校であった。フランスはその年のうちに閉鎖したが、クオック・グーと近代思想の普及に貢献した。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Petition to the Paris Peace Conference",
+    "ko": "파리 강화 회의 청원서",
+    "zh": "向巴黎和会递交请愿书",
+    "ja": "パリ講和会議への請願書"
+   },
+   "description": {
+    "en": "In June 1919 a group of Vietnamese patriots in Paris, signing as Nguyễn Ái Quốc ('Nguyễn the Patriot'), submitted the 'Demands of the Annamite People' to the Allied leaders at the Versailles conference, asking for civil rights and equality. The petition was ignored. Nguyễn Ái Quốc, the future Hồ Chí Minh, soon turned to communism, joining the French Communist Party at its founding in 1920.",
+    "ko": "1919년 6월 파리의 베트남 애국자들은 응우옌아이꾸옥('애국자 응우옌')이라는 이름으로 베르사유 회의의 연합국 지도자들에게 시민권과 평등을 요구하는 「안남 인민의 요구」를 제출했다. 청원은 무시되었다. 훗날의 호찌민인 응우옌아이꾸옥은 곧 공산주의로 기울어 1920년 프랑스 공산당 창당에 참여했다.",
+    "zh": "1919年6月，一批在巴黎的越南爱国者以“阮爱国”之名向凡尔赛会议上的协约国领导人递交《安南人民的要求》，要求公民权利和平等。请愿遭到漠视。阮爱国即后来的胡志明，不久便转向共产主义，并于1920年参与创建法国共产党。",
+    "ja": "1919年6月、パリのベトナム人愛国者たちはグエン・アイ・クォック（阮愛国）の名で、ヴェルサイユ会議の連合国指導者に市民権と平等を求める「安南人民の要求」を提出した。請願は無視された。のちのホー・チ・ミンであるグエン・アイ・クォックはまもなく共産主義に傾き、1920年のフランス共産党の結成に加わった。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Yên Bái mutiny",
+    "ko": "옌바이 봉기",
+    "zh": "安沛起义",
+    "ja": "イェンバイ蜂起"
+   },
+   "description": {
+    "en": "On the night of 9–10 February 1930 the Vietnamese Nationalist Party (VNQDĐ) led Vietnamese colonial soldiers in a mutiny at Yên Bái. The rising was quickly crushed, and the French executed the party leader Nguyễn Thái Học and a number of comrades. The VNQDĐ never fully recovered, leaving the communists as the leading anti-colonial force.",
+    "ko": "1930년 2월 9~10일 밤 베트남 국민당(VNQDĐ)이 옌바이에서 베트남인 식민지 병사들을 이끌고 봉기했다. 봉기는 곧 진압되었고, 프랑스는 당 지도자 응우옌타이혹과 여러 동지를 처형했다. 국민당은 끝내 회복하지 못했고, 공산주의자들이 반식민 운동의 주도 세력이 되었다.",
+    "zh": "1930年2月9日至10日夜，越南国民党率领越籍殖民地士兵在安沛发动起义。起义很快被镇压，法国当局处决了该党领导人阮太学及其多名同志。越南国民党此后再未完全恢复，共产党人遂成为反殖民运动的主导力量。",
+    "ja": "1930年2月9日から10日にかけての夜、ベトナム国民党（VNQDĐ）がイェンバイでベトナム人植民地兵を率いて蜂起した。蜂起はすぐに鎮圧され、フランスは党指導者グエン・タイ・ホックと多くの同志を処刑した。国民党はついに立ち直れず、共産主義者が反植民地運動の主導勢力となった。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the Communist Party and the Nghệ-Tĩnh soviets",
+    "ko": "공산당 창당과 응에띤 소비에트",
+    "zh": "共产党成立与乂静苏维埃运动",
+    "ja": "共産党の結成とゲティン・ソヴィエト"
+   },
+   "description": {
+    "en": "In February 1930 Nguyễn Ái Quốc united rival communist groups at a meeting in Hong Kong into the Communist Party of Vietnam, renamed the Indochinese Communist Party later that year. Amid the Great Depression, peasants in Nghệ An and Hà Tĩnh rose up and formed local 'soviets' in 1930–31. French forces suppressed the movement with mass arrests and aerial bombing.",
+    "ko": "1930년 2월 응우옌아이꾸옥은 홍콩의 회의에서 경쟁하던 공산주의 단체들을 베트남 공산당으로 통합했고, 같은 해 말 당명은 인도차이나 공산당으로 바뀌었다. 대공황 속에서 응에안과 하띤의 농민들이 1930~31년 봉기해 지역 '소비에트'를 세웠다. 프랑스군은 대량 체포와 공중 폭격으로 이 운동을 진압했다.",
+    "zh": "1930年2月，阮爱国在香港召开会议，将几个相互竞争的共产主义组织统一为越南共产党，同年晚些时候更名为印度支那共产党。在大萧条背景下，乂安和河静的农民于1930至1931年举行起义，建立地方“苏维埃”。法国当局以大规模逮捕和空中轰炸镇压了这一运动。",
+    "ja": "1930年2月、グエン・アイ・クォックは香港での会議で対立していた共産主義団体をベトナム共産党に統合し、同年のうちにインドシナ共産党と改称された。世界恐慌のなか、ゲアンとハティンの農民が1930〜31年に蜂起し、地方の「ソヴィエト」を樹立した。フランス軍は大量逮捕と空爆でこの運動を鎮圧した。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Japanese troops enter Indochina",
+    "ko": "일본군의 인도차이나 진주",
+    "zh": "日军进驻印度支那",
+    "ja": "日本軍の北部仏印進駐"
+   },
+   "description": {
+    "en": "After France's defeat in Europe, Japan pressed the Vichy colonial government to close supply routes to China and, in September 1940, moved troops into northern Indochina after brief fighting at Lạng Sơn. In 1941 Japanese forces also occupied the south. France retained its administration, creating a dual colonial regime.",
+    "ko": "유럽에서 프랑스가 패한 뒤 일본은 비시 식민 정부에 중국으로 가는 보급로 차단을 요구했고, 1940년 9월 랑선에서 짧은 전투를 벌인 뒤 북부 인도차이나에 군대를 진주시켰다. 1941년에는 남부도 점령했다. 프랑스는 행정을 유지해 이중의 식민 지배 체제가 만들어졌다.",
+    "zh": "法国在欧洲战败后，日本迫使维希殖民政府封锁通往中国的补给线，并于1940年9月在谅山短暂交战后进驻印度支那北部。1941年日军又进驻南部。法国保留了行政权，形成双重殖民统治体制。",
+    "ja": "フランスがヨーロッパで敗れると、日本はヴィシー政権下の植民地政府に中国への補給路の遮断を迫り、1940年9月、ランソンでの短い戦闘の後に北部仏印に進駐した。1941年には南部にも進駐した。フランスは行政を維持し、二重の植民地支配体制が生まれた。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": "Q10779797",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Cochinchina uprising (Nam Kỳ khởi nghĩa)",
+    "ko": "남끼 봉기",
+    "zh": "南圻起义",
+    "ja": "南圻蜂起"
+   },
+   "description": {
+    "en": "In November 1940 the southern branch of the Indochinese Communist Party launched an armed uprising in Cochinchina. The French crushed it within weeks, executing or imprisoning many party members. The flag with a yellow star on a red field, later the national flag, is associated with this uprising.",
+    "ko": "1940년 11월 인도차이나 공산당 남부 조직이 코친차이나에서 무장 봉기를 일으켰다. 프랑스는 몇 주 만에 이를 진압하고 많은 당원을 처형하거나 투옥했다. 훗날 국기가 되는 붉은 바탕에 노란 별 깃발이 이 봉기와 관련되어 있다.",
+    "zh": "1940年11月，印度支那共产党南方组织在交趾支那发动武装起义。法国在数周内将其镇压，处决或监禁了大批党员。后来成为国旗的红底黄星旗与此次起义相关。",
+    "ja": "1940年11月、インドシナ共産党の南部組織がコーチシナで武装蜂起を起こした。フランスは数週間でこれを鎮圧し、多くの党員を処刑または投獄した。のちに国旗となる赤地に黄色の星の旗はこの蜂起と結びついている。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Formation of the Việt Minh",
+    "ko": "베트민 결성",
+    "zh": "越盟成立",
+    "ja": "ベトミンの結成"
+   },
+   "description": {
+    "en": "In May 1941, at Pác Bó near the Chinese border, Hồ Chí Minh, recently returned after thirty years abroad, presided over a party conference that founded the League for the Independence of Vietnam (Việt Minh). Presented as a broad national front against both France and Japan, it was led by communists. Under Võ Nguyên Giáp it built guerrilla bases in the northern mountains.",
+    "ko": "1941년 5월 30년 만에 귀국한 호찌민은 중국 국경 근처 박보에서 당 회의를 주재해 베트남 독립동맹(베트민)을 결성했다. 프랑스와 일본 모두에 맞서는 폭넓은 민족 전선을 표방했지만 공산주의자가 주도했다. 보응우옌잡의 지휘 아래 북부 산악 지대에 유격 근거지를 세웠다.",
+    "zh": "1941年5月，在海外漂泊三十年后回国的胡志明在中越边境附近的北坡主持党的会议，成立越南独立同盟（越盟）。越盟以反法反日的广泛民族阵线为号召，实际由共产党人领导。在武元甲的指挥下，它在北部山区建立了游击根据地。",
+    "ja": "1941年5月、30年ぶりに帰国したホー・チ・ミンは中国国境近くのパクボーで党会議を主宰し、ベトナム独立同盟（ベトミン）を結成した。フランスと日本の双方に対抗する幅広い民族戦線を掲げたが、主導したのは共産主義者であった。ヴォー・グエン・ザップの指揮のもと、北部山地にゲリラ拠点を築いた。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Famine in northern Vietnam",
+    "ko": "베트남 북부 대기근",
+    "zh": "越南北部大饥荒",
+    "ja": "ベトナム北部の大飢饉"
+   },
+   "description": {
+    "en": "In late 1944 and the first half of 1945 a catastrophic famine struck Tonkin and northern Annam. Crop failures and flooding combined with wartime requisitioning of rice by French and Japanese authorities, forced cultivation of industrial crops and disrupted transport. Estimates of the dead range from about 400,000 to two million; the Việt Minh's campaigns to seize rice stores helped build its popular support.",
+    "ko": "1944년 말부터 1945년 상반기까지 통킹과 안남 북부에 참혹한 기근이 덮쳤다. 흉작과 홍수에 프랑스·일본 당국의 전시 쌀 징발, 공업 작물 재배 강요, 교통 마비가 겹쳤다. 사망자 추정치는 약 40만 명에서 200만 명까지 다양하며, 쌀 창고를 여는 베트민의 활동은 대중적 지지를 넓히는 데 도움이 되었다.",
+    "zh": "1944年底至1945年上半年，北圻和中圻北部遭遇惨烈饥荒。歉收和洪水，叠加法日当局的战时征粮、强迫改种工业作物以及交通中断，酿成灾难。死亡人数估计从约40万到200万不等；越盟开仓分粮的行动帮助其赢得了民众支持。",
+    "ja": "1944年末から1945年前半にかけ、トンキンとアンナン北部を悲惨な飢饉が襲った。凶作と洪水に、仏日当局による戦時の米の徴発、工芸作物の強制栽培、交通の途絶が重なった。死者の推計は約40万人から200万人まで幅があり、米倉を開放するベトミンの活動は民衆の支持拡大につながった。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": "Q701337",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Japanese coup and the Empire of Vietnam",
+    "ko": "일본의 쿠데타와 베트남 제국",
+    "zh": "日本发动政变与越南帝国",
+    "ja": "明号作戦（仏印処理）とベトナム帝国"
+   },
+   "description": {
+    "en": "On 9 March 1945 Japanese forces overthrew the French colonial administration throughout Indochina. Emperor Bảo Đại declared the 1884 treaty with France void and proclaimed the Empire of Vietnam, with Trần Trọng Kim as prime minister. The government had little real power and collapsed during the August Revolution.",
+    "ko": "1945년 3월 9일 일본군은 인도차이나 전역에서 프랑스 식민 행정을 무너뜨렸다. 바오다이 황제는 1884년 프랑스와 맺은 조약의 무효를 선언하고 쩐쫑낌을 총리로 하는 베트남 제국을 선포했다. 이 정부는 실권이 거의 없었고 8월 혁명 와중에 무너졌다.",
+    "zh": "1945年3月9日，日军在整个印度支那推翻法国殖民当局。保大帝宣布1884年与法国签订的条约无效，宣布成立越南帝国，由陈仲金任总理。该政府几乎没有实权，在八月革命中垮台。",
+    "ja": "1945年3月9日、日本軍はインドシナ全域でフランスの植民地行政を打倒した。保大帝は1884年のフランスとの条約の無効を宣言し、チャン・チョン・キムを首相とするベトナム帝国を宣言した。この政府はほとんど実権を持たず、八月革命のなかで崩壊した。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": "Q769960",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "August Revolution and Bảo Đại's abdication",
+    "ko": "8월 혁명과 바오다이의 퇴위",
+    "zh": "八月革命与保大退位",
+    "ja": "八月革命と保大帝の退位"
+   },
+   "description": {
+    "en": "After Japan's surrender, the Việt Minh called a general uprising and took power in Hanoi on 19 August 1945, followed by Huế and Saigon. On 30 August Emperor Bảo Đại abdicated, handing the imperial seal and sword to Việt Minh representatives and ending the Nguyễn dynasty. The rapid seizure of power set the stage for the declaration of independence on 2 September.",
+    "ko": "일본이 항복하자 베트민은 총봉기를 호소해 1945년 8월 19일 하노이에서 권력을 잡았고, 이어 후에와 사이공에서도 권력을 장악했다. 8월 30일 바오다이 황제는 옥새와 검을 베트민 대표에게 넘기고 퇴위해 응우옌 왕조가 끝났다. 이 신속한 권력 장악은 9월 2일 독립 선언의 무대를 마련했다.",
+    "zh": "日本投降后，越盟号召总起义，于1945年8月19日在河内夺取政权，随后在顺化和西贡掌权。8月30日，保大帝退位，将玉玺和宝剑交给越盟代表，阮朝至此终结。迅速夺取政权为9月2日的独立宣言铺平了道路。",
+    "ja": "日本の降伏後、ベトミンは総蜂起を呼びかけ、1945年8月19日にハノイで権力を握り、続いてフエとサイゴンでも政権を掌握した。8月30日、保大帝は玉璽と剣をベトミンの代表に渡して退位し、阮朝は終わった。この迅速な権力掌握が9月2日の独立宣言への舞台を整えた。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Ho Chi Minh Declares Independence",
+    "ko": "호찌민의 독립 선언",
+    "zh": "胡志明宣布越南独立",
+    "ja": "ホー・チ・ミンの独立宣言"
+   },
+   "description": {
+    "en": "On 2 September 1945, before a large crowd in Ba Đình Square in Hanoi, Hồ Chí Minh read the Declaration of Independence proclaiming the Democratic Republic of Vietnam. The text opened by quoting the US Declaration of Independence and the French Declaration of the Rights of Man. The proclamation ended the monarchy and challenged France's plans to restore colonial rule, which led to war the following year.",
+    "ko": "1945년 9월 2일 하노이 바딘 광장에 모인 많은 군중 앞에서 호찌민은 베트남 민주공화국 수립을 선포하는 독립 선언문을 낭독했다. 선언문은 미국 독립 선언과 프랑스 인권 선언을 인용하며 시작했다. 이 선포로 군주제가 끝났고, 식민 지배를 되살리려는 프랑스의 계획에 도전하여 이듬해 전쟁으로 이어졌다.",
+    "zh": "1945年9月2日，胡志明在河内巴亭广场面对大批群众宣读《独立宣言》，宣告越南民主共和国成立。宣言开篇引用了美国《独立宣言》和法国《人权宣言》。这一宣告结束了君主制，挑战了法国恢复殖民统治的图谋，并导致次年战争爆发。",
+    "ja": "1945年9月2日、ハノイのバーディン広場に集まった大群衆の前で、ホー・チ・ミンはベトナム民主共和国の成立を宣言する独立宣言を読み上げた。宣言はアメリカ独立宣言とフランス人権宣言の引用から始まった。この宣言は君主制を終わらせ、植民地支配の復活を図るフランスに挑戦するもので、翌年の戦争につながった。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": "Q962370",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Outbreak of the First Indochina War",
+    "ko": "제1차 인도차이나 전쟁 발발",
+    "zh": "第一次印度支那战争爆发",
+    "ja": "第一次インドシナ戦争の勃発"
+   },
+   "description": {
+    "en": "Negotiations between France and the Democratic Republic of Vietnam broke down during 1946. In November a customs dispute led French forces to bombard Haiphong, killing many civilians, and on 19 December 1946 fighting erupted in Hanoi, where Việt Minh forces held out for about two months before withdrawing to the countryside. Hồ Chí Minh issued a call for nationwide resistance, beginning an eight-year war.",
+    "ko": "1946년 프랑스와 베트남 민주공화국의 협상은 결렬되었다. 11월 세관 분쟁을 계기로 프랑스군이 하이퐁을 포격해 많은 민간인이 죽었고, 1946년 12월 19일 하노이에서 전투가 터져 베트민군은 약 두 달을 버틴 뒤 농촌으로 물러났다. 호찌민은 전국 항전을 호소했고, 8년에 걸친 전쟁이 시작되었다.",
+    "zh": "1946年，法国与越南民主共和国的谈判破裂。11月，因海关纠纷，法军炮击海防，造成大量平民死亡；1946年12月19日河内爆发战斗，越盟部队坚守约两个月后撤往农村。胡志明发出全国抗战号召，长达八年的战争由此开始。",
+    "ja": "1946年、フランスとベトナム民主共和国の交渉は決裂した。11月、税関をめぐる紛争からフランス軍がハイフォンを砲撃して多くの民間人が死亡し、1946年12月19日にはハノイで戦闘が始まり、ベトミン軍は約2か月持ちこたえた後に農村へ退いた。ホー・チ・ミンは全国抗戦を呼びかけ、8年に及ぶ戦争が始まった。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Creation of the State of Vietnam",
+    "ko": "베트남국 수립",
+    "zh": "越南国成立",
+    "ja": "ベトナム国の成立"
+   },
+   "description": {
+    "en": "Through the Élysée Accords of March 1949, France agreed to create the State of Vietnam, including Cochinchina, under former emperor Bảo Đại as head of state. It was meant to rally non-communist nationalists, but France retained control over defence and foreign affairs. The United States and Britain recognised it in 1950, internationalising the conflict.",
+    "ko": "1949년 3월 엘리제 협정에 따라 프랑스는 코친차이나를 포함하고 전 황제 바오다이를 국가 원수로 하는 베트남국 수립에 동의했다. 비공산주의 민족주의자들을 결집하려는 의도였으나 국방과 외교는 프랑스가 쥐고 있었다. 1950년 미국과 영국이 베트남국을 승인하면서 분쟁은 국제화되었다.",
+    "zh": "根据1949年3月的《爱丽舍协定》，法国同意成立包括交趾支那在内的越南国，由前皇帝保大任国家元首。此举意在团结非共产主义的民族主义者，但国防和外交仍由法国掌握。1950年美英承认越南国，冲突由此国际化。",
+    "ja": "1949年3月のエリゼ協定により、フランスはコーチシナを含み元皇帝保大を国家元首とするベトナム国の創設に同意した。非共産主義の民族主義者を結集する狙いだったが、国防と外交はフランスが握り続けた。1950年に米英がこれを承認し、紛争は国際化した。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": "Q2748355",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Border Campaign on Route Coloniale 4",
+    "ko": "4번 식민 도로 국경 전역",
+    "zh": "边界战役（四号公路之战）",
+    "ja": "国境作戦（植民地道路4号線の戦い）"
+   },
+   "description": {
+    "en": "In autumn 1950, with weapons and advisers from the newly established People's Republic of China, the Việt Minh attacked French posts along Route Coloniale 4 near the Chinese border. The French evacuation of Cao Bằng turned into a disaster, with heavy losses at Đông Khê and in the surrounding hills. The victory opened a supply line to China and turned the war into a conventional conflict.",
+    "ko": "1950년 가을 새로 수립된 중화인민공화국에서 무기와 고문단을 지원받은 베트민은 중국 국경 근처 4번 식민 도로를 따라 프랑스군 거점을 공격했다. 프랑스군의 까오방 철수는 동케와 주변 고지에서 큰 손실을 입으며 참사로 끝났다. 이 승리로 중국과의 보급로가 열리고 전쟁은 정규전 양상으로 바뀌었다.",
+    "zh": "1950年秋，在新成立的中华人民共和国提供武器和顾问的支持下，越盟进攻中越边境附近四号殖民公路沿线的法军据点。法军从高平撤退时在东溪及周边山地损失惨重，演变成一场灾难。此役打通了通往中国的补给线，使战争转入正规战阶段。",
+    "ja": "1950年秋、成立したばかりの中華人民共和国から武器と顧問の支援を受けたベトミンは、中国国境近くの植民地道路4号線沿いのフランス軍拠点を攻撃した。フランス軍のカオバン撤退はドンケーと周辺の丘陵で大損害を出す惨事となった。この勝利で中国との補給路が開け、戦争は正規戦の様相を帯びた。"
+   }
+  },
+  {
+   "year": 1951,
+   "qid": "Q4872690",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Vĩnh Yên",
+    "ko": "빈옌 전투",
+    "zh": "永安战役",
+    "ja": "ヴィンイェンの戦い"
+   },
+   "description": {
+    "en": "In January 1951 Võ Nguyên Giáp launched a large conventional offensive at Vĩnh Yên, northwest of Hanoi. General Jean de Lattre de Tassigny rushed in reinforcements and used massed air power, including napalm, to inflict heavy losses on the attackers. The defeat persuaded the Việt Minh to return to more cautious tactics for a time.",
+    "ko": "1951년 1월 보응우옌잡은 하노이 북서쪽 빈옌에서 대규모 정규전 공세를 펼쳤다. 장 드 라트르 드 타시니 장군은 증원군을 급파하고 네이팜탄을 포함한 대규모 공군력을 동원해 공격군에게 큰 손실을 입혔다. 이 패배로 베트민은 한동안 더 신중한 전술로 돌아갔다.",
+    "zh": "1951年1月，武元甲在河内西北的永安发动大规模正规攻势。法军司令德拉特尔·德塔西尼紧急调来援军，并动用包括凝固汽油弹在内的大规模空中力量，使进攻方损失惨重。这次失利促使越盟一度回到较为谨慎的战术。",
+    "ja": "1951年1月、ヴォー・グエン・ザップはハノイ北西のヴィンイェンで大規模な正規戦の攻勢をかけた。ド・ラトル・ド・タシニー将軍は増援を急派し、ナパーム弾を含む大量の航空戦力で攻撃側に大損害を与えた。この敗北でベトミンはしばらく慎重な戦術に戻った。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Land reform in the North",
+    "ko": "북부의 토지 개혁",
+    "zh": "北方土地改革",
+    "ja": "北部の土地改革"
+   },
+   "description": {
+    "en": "From 1953 the Democratic Republic of Vietnam carried out a radical land reform in the areas it controlled, redistributing land from landlords to poor peasants through mass denunciation campaigns modelled on Chinese practice. Many people classified as landlords were executed or imprisoned; the number of deaths is disputed among historians. In 1956 the party publicly admitted serious errors, and Hồ Chí Minh apologised in a 'rectification of errors' campaign.",
+    "ko": "1953년부터 베트남 민주공화국은 통치 지역에서 중국의 방식을 본뜬 대중 고발 운동을 통해 지주의 토지를 빈농에게 재분배하는 급진적 토지 개혁을 실시했다. 지주로 분류된 많은 사람이 처형되거나 투옥되었으며, 사망자 수에 대해서는 역사학자들 사이에 논란이 있다. 1956년 당은 심각한 과오를 공개적으로 인정했고, 호찌민은 '오류 시정' 운동 속에서 사과했다.",
+    "zh": "1953年起，越南民主共和国在其控制区内仿照中国做法，通过群众诉苦斗争运动推行激进的土地改革，将地主的土地分给贫农。许多被划为地主的人遭处决或监禁，死亡人数在史学界存在争议。1956年，党公开承认犯有严重错误，胡志明在“纠偏”运动中表示道歉。",
+    "ja": "1953年からベトナム民主共和国は支配地域で、中国に倣った大衆的な糾弾運動を通じて地主の土地を貧農に再分配する急進的な土地改革を実施した。地主と分類された多くの人々が処刑・投獄され、死者数については歴史家の間で議論がある。1956年、党は重大な誤りを公に認め、ホー・チ・ミンは「誤りの是正」運動のなかで謝罪した。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Exodus from North to South after partition",
+    "ko": "분단 후 북에서 남으로의 대이동",
+    "zh": "分治后的南迁潮",
+    "ja": "分断後の北から南への大移動"
+   },
+   "description": {
+    "en": "The Geneva Accords allowed civilians 300 days to move between the two zones. Hundreds of thousands of northerners, most of them Catholics, moved south, many carried by French and US Navy ships, while a much smaller number of Việt Minh fighters and supporters went north. The migration strengthened the Catholic base of the southern regime.",
+    "ko": "제네바 협정은 민간인이 300일 동안 두 지역 사이를 이동할 수 있게 했다. 대부분 가톨릭 신자인 수십만 명의 북부 주민이 남쪽으로 이주했는데, 상당수는 프랑스와 미 해군 함정으로 수송되었다. 반면 그보다 훨씬 적은 베트민 전투원과 지지자가 북쪽으로 갔다. 이 이주는 남부 정권의 가톨릭 기반을 강화했다.",
+    "zh": "日内瓦协议给予平民300天时间在两个区域间迁移。数十万北方民众南迁，其中大多数是天主教徒，许多人搭乘法国和美国海军舰船南下；而北上的越盟战士及其支持者人数则少得多。这次迁徙增强了南方政权的天主教基础。",
+    "ja": "ジュネーヴ協定は民間人に300日間、両地域間の移動を認めた。その多くがカトリック信徒である数十万人の北部住民が南へ移り、その多くはフランスとアメリカ海軍の艦船で運ばれた。一方、北へ向かったベトミンの戦闘員と支持者ははるかに少なかった。この移住は南部政権のカトリック基盤を強めた。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": "Q604897",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Victory at Dien Bien Phu and the Geneva Accords",
+    "ko": "디엔비엔푸 승리와 제네바 협정",
+    "zh": "奠边府大捷与日内瓦协议",
+    "ja": "ディエンビエンフーの勝利とジュネーヴ協定"
+   },
+   "description": {
+    "en": "From March to May 1954 the Việt Minh under Võ Nguyên Giáp besieged the French fortified camp at Điện Biên Phủ, hauling artillery onto the surrounding hills; the garrison surrendered on 7 May. The defeat ended French rule in Indochina. The Geneva Accords of July 1954 then divided Vietnam at the 17th parallel, with nationwide elections promised for 1956 that were never held.",
+    "ko": "1954년 3월부터 5월까지 보응우옌잡이 이끄는 베트민은 주변 산 위로 대포를 끌어올려 디엔비엔푸의 프랑스군 요새 진지를 포위했고, 수비대는 5월 7일 항복했다. 이 패배로 프랑스의 인도차이나 지배가 끝났다. 1954년 7월 제네바 협정은 베트남을 북위 17도선에서 나누고 1956년 전국 선거를 약속했지만, 선거는 끝내 실시되지 않았다.",
+    "zh": "1954年3月至5月，武元甲指挥的越盟将火炮拖上周围山头，围困奠边府的法军要塞营地，守军于5月7日投降。这场失败结束了法国在印度支那的统治。1954年7月的日内瓦协议以北纬17度线划分越南，并承诺1956年举行全国选举，但选举始终未能举行。",
+    "ja": "1954年3月から5月にかけ、ヴォー・グエン・ザップ率いるベトミンは周囲の山上に大砲を引き上げてディエンビエンフーのフランス軍要塞陣地を包囲し、守備隊は5月7日に降伏した。この敗北でフランスのインドシナ支配は終わった。1954年7月のジュネーヴ協定はベトナムを北緯17度線で分け、1956年の全国選挙を約束したが、選挙は結局実施されなかった。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": "Q3380491",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ngô Đình Diệm proclaims the Republic of Vietnam",
+    "ko": "응오딘지엠의 베트남 공화국 선포",
+    "zh": "吴廷琰宣布成立越南共和国",
+    "ja": "ゴ・ディン・ジエムによるベトナム共和国の宣言"
+   },
+   "description": {
+    "en": "In spring 1955 Prime Minister Ngô Đình Diệm defeated the Bình Xuyên armed group in the Battle of Saigon and brought the politico-religious sects under control. In October he deposed Bảo Đại in a referendum widely regarded as rigged and proclaimed the Republic of Vietnam, with himself as president. With US backing he refused to hold the nationwide reunification elections foreseen for 1956.",
+    "ko": "1955년 봄 응오딘지엠 총리는 사이공 전투에서 빈쑤옌 무장 집단을 격파하고 정치·종교 종파들을 장악했다. 10월에는 조작되었다는 평가가 널리 받아들여지는 국민투표로 바오다이를 폐위하고 베트남 공화국을 선포해 대통령이 되었다. 그는 미국의 지지 아래 1956년으로 예정된 전국 통일 선거를 거부했다.",
+    "zh": "1955年春，总理吴廷琰在西贡战役中击败平川派武装，并控制了各政治宗教派别。同年10月，他通过一场普遍被认为舞弊的公民投票废黜保大，宣布成立越南共和国并自任总统。在美国支持下，他拒绝举行原定于1956年的全国统一选举。",
+    "ja": "1955年春、ゴ・ディン・ジエム首相はサイゴンの戦いでビンスエン派の武装集団を破り、政治・宗教諸派を制圧した。10月には不正があったと広くみなされる国民投票で保大を廃し、ベトナム共和国を宣言して大統領となった。彼はアメリカの支持のもと、1956年に予定されていた全国統一選挙を拒否した。"
+   }
+  },
+  {
+   "year": 1959,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Hồ Chí Minh Trail is opened",
+    "ko": "호찌민 루트 개설",
+    "zh": "开辟胡志明小道",
+    "ja": "ホーチミン・ルートの開設"
+   },
+   "description": {
+    "en": "In 1959 the North Vietnamese leadership approved armed struggle in the South and created Group 559 to build a supply route through the mountains of Laos and Cambodia. This network of trails and roads, known as the Hồ Chí Minh Trail (Trường Sơn route), carried troops and materiel south throughout the war. Despite intense US bombing, it was never cut.",
+    "ko": "1959년 북베트남 지도부는 남부에서의 무장 투쟁을 승인하고, 라오스와 캄보디아의 산악 지대를 지나는 보급로를 건설하기 위해 559부대를 만들었다. 호찌민 루트(쯔엉선 루트)로 알려진 이 오솔길과 도로망은 전쟁 내내 병력과 물자를 남쪽으로 날랐다. 미국의 집중 폭격에도 이 길은 끊기지 않았다.",
+    "zh": "1959年，北越领导层批准在南方开展武装斗争，并组建559团，修建穿越老挝和柬埔寨山区的补给线。这一被称为胡志明小道（长山路）的道路网在整个战争期间向南输送兵员和物资。尽管遭到美军猛烈轰炸，它始终未被切断。",
+    "ja": "1959年、北ベトナム指導部は南部での武装闘争を承認し、ラオスとカンボジアの山地を抜ける補給路を建設するため559部隊を創設した。ホーチミン・ルート（チュオンソン・ルート）として知られる小道と道路の網は、戦争を通じて兵員と物資を南へ運んだ。アメリカの激しい爆撃にもかかわらず、断ち切られることはなかった。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the National Liberation Front",
+    "ko": "민족해방전선 결성",
+    "zh": "南方民族解放阵线成立",
+    "ja": "南ベトナム解放民族戦線の結成"
+   },
+   "description": {
+    "en": "In December 1960 the National Front for the Liberation of South Vietnam was founded, uniting communists and other opponents of the Diệm government under the direction of the northern party. Its armed forces, called 'Viet Cong' by their opponents, expanded rapidly in the countryside. In 1969 it formed the Provisional Revolutionary Government.",
+    "ko": "1960년 12월 남베트남 민족해방전선이 결성되어, 북부 공산당의 지도 아래 공산주의자와 지엠 정부의 다른 반대 세력을 결집했다. 반대편이 '베트콩'이라 부른 그 무장 세력은 농촌에서 빠르게 확대되었다. 1969년에는 임시혁명정부를 구성했다.",
+    "zh": "1960年12月，南方民族解放阵线成立，在北方党的领导下团结共产党人和其他反对吴廷琰政府的力量。其武装力量被对手称为“越共”，在农村迅速壮大。1969年，该阵线组建了临时革命政府。",
+    "ja": "1960年12月、南ベトナム解放民族戦線が結成され、北の党の指導のもとで共産主義者やジエム政権に反対する諸勢力を結集した。敵対者から「ベトコン」と呼ばれたその武装勢力は農村で急速に拡大した。1969年には臨時革命政府を組織した。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Buddhist crisis and the overthrow of Diệm",
+    "ko": "불교도 위기와 지엠 정권 붕괴",
+    "zh": "佛教危机与吴廷琰政权被推翻",
+    "ja": "仏教徒危機とジエム政権の崩壊"
+   },
+   "description": {
+    "en": "In 1963 protests by Buddhists against discrimination by the Catholic-dominated Diệm government escalated after government forces fired on a crowd in Huế in May. The self-immolation of the monk Thích Quảng Đức in Saigon in June drew worldwide attention, and raids on pagodas followed in August. On 1–2 November, with tacit US approval, generals overthrew Diệm, who was killed with his brother Ngô Đình Nhu, ushering in years of political instability.",
+    "ko": "1963년 5월 후에에서 정부군이 군중에게 발포한 뒤, 가톨릭 중심의 지엠 정부의 차별에 맞선 불교도의 시위가 확산되었다. 6월 사이공에서 틱꽝득 스님의 소신공양은 세계의 이목을 끌었고, 8월에는 사원 습격이 이어졌다. 11월 1~2일 미국의 묵인 아래 장군들이 쿠데타를 일으켜 지엠과 그의 동생 응오딘뉴가 살해되었고, 이후 수년간 정치 불안이 이어졌다.",
+    "zh": "1963年5月，政府军在顺化向人群开枪后，佛教徒反对天主教主导的吴廷琰政府歧视的抗议不断升级。6月，释广德法师在西贡自焚，震惊世界；8月政府又突袭各地寺院。11月1日至2日，在美国默许下，将领们发动政变推翻吴廷琰，吴廷琰与其弟吴廷瑈被杀，此后南越陷入多年政局动荡。",
+    "ja": "1963年5月にフエで政府軍が群衆に発砲すると、カトリック中心のジエム政権による差別に抗議する仏教徒の運動が激化した。6月のサイゴンでの僧ティック・クアン・ドックの焼身は世界の注目を集め、8月には寺院への襲撃が続いた。11月1〜2日、アメリカの黙認のもと将軍たちがクーデターを起こし、ジエムは弟ゴ・ディン・ヌーとともに殺害され、その後数年にわたる政治的混乱が始まった。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Gulf of Tonkin incident",
+    "ko": "통킹만 사건",
+    "zh": "北部湾事件",
+    "ja": "トンキン湾事件"
+   },
+   "description": {
+    "en": "In August 1964 North Vietnamese patrol boats clashed with the US destroyer Maddox in the Gulf of Tonkin; a second reported attack two days later is now known not to have occurred. The US Congress passed the Gulf of Tonkin Resolution, giving President Lyndon Johnson broad authority to use military force. It became the legal basis for the massive American escalation that followed.",
+    "ko": "1964년 8월 통킹만에서 북베트남 초계정이 미 구축함 매덕스호와 교전했다. 이틀 뒤 보고된 두 번째 공격은 오늘날 실제로 일어나지 않은 것으로 밝혀졌다. 미 의회는 린든 존슨 대통령에게 폭넓은 무력 사용 권한을 주는 통킹만 결의를 통과시켰고, 이는 이후 미국의 대규모 확전의 법적 근거가 되었다.",
+    "zh": "1964年8月，北越巡逻艇在北部湾与美国驱逐舰“马多克斯”号交火；两天后报告的第二次袭击，如今已知并未发生。美国国会通过《东京湾决议》，授予约翰逊总统广泛的动武权力，成为此后美国大规模升级战争的法律依据。",
+    "ja": "1964年8月、北ベトナムの哨戒艇がトンキン湾で米駆逐艦マドックスと交戦した。2日後に報告された2度目の攻撃は、現在では起きていなかったことがわかっている。米議会はジョンソン大統領に広範な武力行使の権限を与えるトンキン湾決議を可決し、これがその後のアメリカの大規模な軍事介入拡大の法的根拠となった。"
+   }
+  },
+  {
+   "year": 1965,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "American combat troops and Operation Rolling Thunder",
+    "ko": "미군 전투 부대 투입과 롤링 선더 작전",
+    "zh": "美军地面部队参战与“滚雷行动”",
+    "ja": "米地上部隊の投入とローリング・サンダー作戦"
+   },
+   "description": {
+    "en": "In March 1965 the United States began the sustained bombing of North Vietnam (Operation Rolling Thunder) and landed Marines at Đà Nẵng, the first American ground combat units. US troop levels rose to over half a million by 1968, joined by forces from South Korea, Australia, New Zealand, Thailand and the Philippines. The war became a full-scale international conflict fought largely on Vietnamese soil.",
+    "ko": "1965년 3월 미국은 북베트남에 대한 지속적인 폭격(롤링 선더 작전)을 시작하고, 최초의 미 지상 전투 부대인 해병대를 다낭에 상륙시켰다. 미군 병력은 1968년 50만 명을 넘었고, 한국·오스트레일리아·뉴질랜드·태국·필리핀 군도 참전했다. 전쟁은 주로 베트남 땅에서 벌어지는 전면적인 국제 분쟁이 되었다.",
+    "zh": "1965年3月，美国开始对北越实施持续轰炸（“滚雷行动”），并派海军陆战队在岘港登陆，这是首批美国地面作战部队。到1968年，美军人数超过50万，韩国、澳大利亚、新西兰、泰国和菲律宾也派兵参战。战争演变为一场主要在越南土地上进行的全面国际冲突。",
+    "ja": "1965年3月、アメリカは北ベトナムへの継続的な爆撃（ローリング・サンダー作戦）を開始し、最初の米地上戦闘部隊として海兵隊をダナンに上陸させた。米軍兵力は1968年までに50万人を超え、韓国・オーストラリア・ニュージーランド・タイ・フィリピンの軍も参戦した。戦争は主にベトナムの地で戦われる全面的な国際紛争となった。"
+   }
+  },
+  {
+   "year": 1965,
+   "qid": "Q714749",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Ia Drang",
+    "ko": "이아드랑 전투",
+    "zh": "德浪河谷战役",
+    "ja": "イア・ドラン渓谷の戦い"
+   },
+   "description": {
+    "en": "In November 1965 the US 1st Cavalry Division, using helicopters on a large scale for the first time, fought North Vietnamese regulars in the Ia Drang valley of the Central Highlands. Both sides suffered heavy casualties, especially at Landing Zone X-Ray and Albany. Each side drew lessons that shaped the war of attrition that followed.",
+    "ko": "1965년 11월 헬리콥터를 처음으로 대규모 투입한 미 제1기병사단이 중부 고원 이아드랑 계곡에서 북베트남 정규군과 싸웠다. 특히 X-레이와 올버니 착륙 지대에서 양측 모두 큰 사상자를 냈다. 양측은 이 전투에서 이후 소모전의 성격을 결정한 교훈을 얻었다.",
+    "zh": "1965年11月，首次大规模使用直升机的美军第1骑兵师在中部高原的德浪河谷与北越正规军交战。双方均伤亡惨重，尤其是在X光着陆区和奥尔巴尼着陆区。双方都从中总结出影响此后消耗战的经验。",
+    "ja": "1965年11月、初めてヘリコプターを大規模に用いた米第1騎兵師団が中部高原のイア・ドラン渓谷で北ベトナム正規軍と戦った。とくにLZエックスレイとLZオールバニーで双方が大きな損害を出した。双方ともこの戦いから、その後の消耗戦を形作る教訓を引き出した。"
+   }
+  },
+  {
+   "year": 1968,
+   "qid": "Q697053",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Tết Offensive and the Battle of Huế",
+    "ko": "뗏 공세와 후에 전투",
+    "zh": "春节攻势与顺化战役",
+    "ja": "テト攻勢とフエの戦い"
+   },
+   "description": {
+    "en": "During the Tết holiday truce of January–February 1968, communist forces attacked more than a hundred cities and towns across South Vietnam, including the US Embassy compound in Saigon. Most attacks were repulsed with heavy losses, but in Huế fighting lasted nearly a month, destroying much of the old city, and mass graves of civilians executed during the communist occupation were later found. Though a military setback for the attackers, the offensive shattered American public confidence and led to de-escalation and negotiations.",
+    "ko": "1968년 1~2월 뗏 휴전 기간에 공산군은 사이공의 미국 대사관 구역을 포함해 남베트남 전역의 100여 개 도시와 마을을 공격했다. 대부분의 공격은 큰 손실과 함께 격퇴되었지만, 후에에서는 전투가 거의 한 달간 이어져 옛 도심의 상당 부분이 파괴되었고, 공산군 점령 기간에 처형된 민간인의 집단 매장지가 뒤에 발견되었다. 공격 측에게는 군사적 좌절이었으나, 이 공세는 미국 여론의 신뢰를 무너뜨려 전쟁 축소와 협상으로 이어졌다.",
+    "zh": "1968年1月至2月春节休战期间，共产党武装对南越一百多个城镇发动进攻，包括西贡的美国大使馆。大部分进攻在付出惨重代价后被击退，但顺化的战斗持续近一个月，古城大部被毁，事后还发现了占领期间被处决平民的集体墓葬。尽管对进攻方而言是军事挫折，这次攻势却动摇了美国民众的信心，促成了战争降级和谈判。",
+    "ja": "1968年1〜2月のテト休戦中、共産側の部隊はサイゴンのアメリカ大使館を含む南ベトナム全土の100以上の都市や町を攻撃した。攻撃の大半は大きな損失とともに撃退されたが、フエでは戦闘がほぼ1か月続いて旧市街の多くが破壊され、占領中に処刑された民間人の集団墓地がのちに見つかった。攻撃側にとって軍事的には挫折だったが、この攻勢はアメリカ世論の信頼を打ち砕き、戦争の縮小と交渉につながった。"
+   }
+  },
+  {
+   "year": 1968,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Mỹ Lai massacre",
+    "ko": "미라이 학살",
+    "zh": "美莱村屠杀",
+    "ja": "ソンミ村虐殺（ミライ虐殺）"
+   },
+   "description": {
+    "en": "On 16 March 1968 US Army soldiers of Charlie Company killed hundreds of unarmed villagers, including women, children and the elderly, in the hamlets of Mỹ Lai and Mỹ Khê in Quảng Ngãi province. The massacre was covered up until it was exposed in 1969, and only one officer, Lieutenant William Calley, was convicted. It became a symbol of the war's brutality toward civilians and intensified opposition to the war.",
+    "ko": "1968년 3월 16일 미 육군 찰리 중대 병사들이 꽝응아이성 미라이와 미케 마을에서 여성·어린이·노인을 포함한 비무장 주민 수백 명을 살해했다. 학살은 1969년 폭로될 때까지 은폐되었고, 유죄 판결을 받은 것은 윌리엄 캘리 중위 한 명뿐이었다. 이 사건은 민간인에 대한 전쟁의 잔혹성을 상징하게 되었고 반전 여론을 키웠다.",
+    "zh": "1968年3月16日，美军C连士兵在广义省美莱和美溪村庄杀害了数百名手无寸铁的村民，其中包括妇女、儿童和老人。屠杀被掩盖，直到1969年才被揭露，最终只有一名军官威廉·卡利中尉被定罪。这一事件成为战争中平民遭受暴行的象征，并加剧了反战情绪。",
+    "ja": "1968年3月16日、米陸軍C中隊の兵士がクアンガイ省のミライとミーケーの集落で、女性・子ども・老人を含む非武装の村民数百人を殺害した。虐殺は1969年に暴露されるまで隠蔽され、有罪となったのはウィリアム・カリー中尉一人だけであった。この事件は民間人に対する戦争の残虐性の象徴となり、反戦の声を強めた。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Death of Hồ Chí Minh",
+    "ko": "호찌민 사망",
+    "zh": "胡志明逝世",
+    "ja": "ホー・チ・ミンの死去"
+   },
+   "description": {
+    "en": "Hồ Chí Minh died in Hanoi on 2 September 1969, the anniversary of the declaration of independence. Leadership passed to a collective led by First Secretary Lê Duẩn. Contrary to Hồ's wishes for cremation expressed in his testament, his body was embalmed and placed in a mausoleum in Ba Đình Square, and Saigon was renamed in his honour in 1976.",
+    "ko": "호찌민은 독립 선언 기념일인 1969년 9월 2일 하노이에서 사망했다. 지도권은 레주언 제1서기가 이끄는 집단 지도 체제로 넘어갔다. 유언장에서 화장을 원했던 호찌민의 뜻과 달리 그의 시신은 방부 처리되어 바딘 광장의 묘에 안치되었고, 1976년 사이공은 그를 기려 이름이 바뀌었다.",
+    "zh": "胡志明于1969年9月2日，即独立宣言纪念日，在河内逝世。领导权移交给以第一书记黎笋为首的集体领导。与胡志明在遗嘱中表达的火葬愿望相反，其遗体经防腐处理后安放在巴亭广场的陵墓中；1976年西贡改以他的名字命名。",
+    "ja": "ホー・チ・ミンは独立宣言の記念日である1969年9月2日にハノイで死去した。指導権はレ・ズアン第一書記を中心とする集団指導体制に移った。遺書で火葬を望んだ本人の意思に反して遺体は防腐処理され、バーディン広場の廟に安置された。1976年にはサイゴンが彼の名にちなんで改名された。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": "Q486866",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Easter Offensive and the Christmas Bombing",
+    "ko": "부활절 공세와 크리스마스 폭격",
+    "zh": "复活节攻势与圣诞轰炸",
+    "ja": "イースター攻勢とクリスマス爆撃"
+   },
+   "description": {
+    "en": "In spring 1972 North Vietnam launched a conventional invasion of the South, the Easter Offensive, with heavy fighting at Quảng Trị, Kon Tum and An Lộc; South Vietnamese forces, backed by US air power, held most of their territory. When peace talks stalled in December, the US launched Operation Linebacker II, an intense B-52 bombing of Hanoi and Haiphong. Talks resumed shortly afterward.",
+    "ko": "1972년 봄 북베트남은 남부에 대한 정규군 침공인 부활절 공세를 펼쳐 꽝찌·꼰뚬·안록에서 격전이 벌어졌고, 미국 공군력의 지원을 받은 남베트남군은 대부분의 영토를 지켰다. 12월 평화 협상이 교착되자 미국은 하노이와 하이퐁에 대한 대규모 B-52 폭격인 라인배커 II 작전을 감행했다. 협상은 곧 재개되었다.",
+    "zh": "1972年春，北越对南方发动正规入侵，即复活节攻势，在广治、昆嵩和安禄爆发激战；在美国空中力量支援下，南越军队守住了大部分领土。12月和谈陷入僵局后，美国发动“后卫II”行动，以B-52轰炸机对河内和海防进行猛烈轰炸。不久谈判恢复。",
+    "ja": "1972年春、北ベトナムは南部への正規軍侵攻であるイースター攻勢を開始し、クアンチ・コントゥム・アンロクで激戦となった。アメリカの航空戦力に支えられた南ベトナム軍は領土の大半を守った。12月に和平交渉が行き詰まると、アメリカはハノイとハイフォンへのB-52による猛爆撃、ラインバッカーII作戦を実施した。交渉はほどなく再開された。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Paris Peace Accords",
+    "ko": "파리 평화 협정",
+    "zh": "巴黎和平协定",
+    "ja": "パリ和平協定"
+   },
+   "description": {
+    "en": "On 27 January 1973 the United States, North Vietnam, South Vietnam and the Provisional Revolutionary Government signed the Paris Peace Accords. US forces withdrew by the end of March and American prisoners of war were released, but North Vietnamese troops remained in the South. The ceasefire soon broke down, and fighting between Vietnamese forces continued.",
+    "ko": "1973년 1월 27일 미국, 북베트남, 남베트남, 임시혁명정부가 파리 평화 협정에 서명했다. 미군은 3월 말까지 철수했고 미군 포로가 석방되었지만, 북베트남군은 남부에 그대로 남았다. 휴전은 곧 무너졌고 베트남인들 사이의 전투는 계속되었다.",
+    "zh": "1973年1月27日，美国、北越、南越和临时革命政府签署《巴黎和平协定》。美军于3月底前撤出，美国战俘获释，但北越军队仍留在南方。停火很快破裂，越南各方之间的战斗仍在继续。",
+    "ja": "1973年1月27日、アメリカ、北ベトナム、南ベトナム、臨時革命政府がパリ和平協定に調印した。米軍は3月末までに撤退し、米兵捕虜が解放されたが、北ベトナム軍は南部に留まった。停戦はまもなく崩れ、ベトナム人同士の戦闘が続いた。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "China seizes the Paracel Islands",
+    "ko": "중국의 파라셀 제도 점령",
+    "zh": "中国控制西沙群岛",
+    "ja": "中国による西沙諸島の占領"
+   },
+   "description": {
+    "en": "In January 1974 Chinese naval and ground forces fought South Vietnamese ships and garrisons in the Paracel Islands (Hoàng Sa) and took control of the whole archipelago. Vietnam continues to claim the islands. The dispute remains a central issue in Sino-Vietnamese relations and in the wider South China Sea dispute.",
+    "ko": "1974년 1월 중국 해군과 지상군은 파라셀 제도(호앙사)에서 남베트남 함정 및 수비대와 교전한 뒤 제도 전체를 장악했다. 베트남은 지금도 이 섬들에 대한 영유권을 주장한다. 이 분쟁은 중국-베트남 관계와 남중국해 분쟁의 핵심 쟁점으로 남아 있다.",
+    "zh": "1974年1月，中国海军和地面部队在西沙群岛（越南称黄沙群岛）与南越舰船及守军交战，控制了整个群岛。越南至今仍主张对这些岛屿的主权。该争端至今仍是中越关系及南海争端中的核心问题。",
+    "ja": "1974年1月、中国の海軍と地上部隊は西沙諸島（ベトナム名ホアンサ）で南ベトナムの艦艇・守備隊と交戦し、諸島全体を支配下に置いた。ベトナムは今もこれらの島々の領有権を主張している。この紛争は中越関係と南シナ海紛争の中心的な争点であり続けている。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q2888227",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fall of Buôn Ma Thuột and collapse of the Highlands",
+    "ko": "부온마투옷 함락과 중부 고원 붕괴",
+    "zh": "邦美蜀陷落与中部高原崩溃",
+    "ja": "バンメトート陥落と中部高原の崩壊"
+   },
+   "description": {
+    "en": "In March 1975 North Vietnamese forces captured Buôn Ma Thuột in the Central Highlands. President Thiệu's order to abandon the Highlands turned into a chaotic retreat, and Huế and Đà Nẵng fell within weeks. The collapse opened the way for the final Hồ Chí Minh Campaign against Saigon.",
+    "ko": "1975년 3월 북베트남군은 중부 고원의 부온마투옷을 점령했다. 고원을 포기하라는 티에우 대통령의 명령은 혼란스러운 퇴각으로 바뀌었고, 몇 주 사이에 후에와 다낭이 함락되었다. 이 붕괴로 사이공을 향한 마지막 호찌민 작전의 길이 열렸다.",
+    "zh": "1975年3月，北越军队攻占中部高原的邦美蜀。阮文绍总统放弃高原的命令演变成混乱的大撤退，顺化和岘港在数周内相继陷落。这一崩溃为进攻西贡的最后的胡志明战役打开了道路。",
+    "ja": "1975年3月、北ベトナム軍は中部高原のバンメトートを攻略した。高原を放棄せよというティエウ大統領の命令は混乱した敗走となり、フエとダナンが数週間のうちに陥落した。この崩壊によりサイゴンへの最終的なホーチミン作戦への道が開かれた。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q482456",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Fall of Saigon Ends the Vietnam War",
+    "ko": "사이공 함락과 베트남 전쟁 종결",
+    "zh": "西贡陷落，越南战争结束",
+    "ja": "サイゴン陥落とベトナム戦争の終結"
+   },
+   "description": {
+    "en": "After the collapse of the South Vietnamese army in the spring offensive, North Vietnamese tanks broke through the gates of the Independence Palace on 30 April 1975, and President Dương Văn Minh announced the surrender. In the final days the United States evacuated its remaining personnel and many Vietnamese by helicopter. The fall of Saigon ended two decades of war that had devastated the country and drawn in the United States, and paved the way for reunification.",
+    "ko": "봄 공세로 남베트남군이 무너진 뒤, 1975년 4월 30일 북베트남군 전차가 독립궁 정문을 부수고 들어갔고 즈엉반민 대통령이 항복을 발표했다. 마지막 며칠 동안 미국은 남은 인원과 많은 베트남인을 헬리콥터로 철수시켰다. 사이공 함락으로 나라를 황폐하게 하고 미국까지 끌어들인 20년 전쟁이 끝났고 통일의 길이 열렸다.",
+    "zh": "南越军队在春季攻势中崩溃后，1975年4月30日北越坦克冲破独立宫大门，杨文明总统宣布投降。在最后几天里，美国用直升机撤离了剩余人员和大批越南人。西贡陷落结束了蹂躏越南并将美国卷入其中的二十年战争，为国家统一铺平了道路。",
+    "ja": "春季攻勢で南ベトナム軍が崩壊した後、1975年4月30日に北ベトナム軍の戦車が独立宮殿の門を突破し、ズオン・ヴァン・ミン大統領が降伏を発表した。最後の数日間、アメリカは残る要員と多くのベトナム人をヘリコプターで脱出させた。サイゴン陥落により、国土を荒廃させアメリカをも巻き込んだ20年の戦争が終わり、統一への道が開かれた。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": "Q881",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Reunification: Socialist Republic of Vietnam",
+    "ko": "남북 통일과 베트남 사회주의공화국 출범",
+    "zh": "南北统一，越南社会主义共和国成立",
+    "ja": "南北統一とベトナム社会主義共和国の成立"
+   },
+   "description": {
+    "en": "Following nationwide elections in April 1976, the newly elected National Assembly proclaimed the reunification of North and South as the Socialist Republic of Vietnam on 2 July 1976. Hanoi became the capital and Saigon was renamed Hồ Chí Minh City. The new state extended the northern socialist system to the south, including collectivisation and the nationalisation of private business.",
+    "ko": "1976년 4월 전국 총선거에 이어 새로 선출된 국회는 1976년 7월 2일 남북을 베트남 사회주의공화국으로 통일한다고 선포했다. 하노이가 수도가 되었고 사이공은 호찌민시로 개칭되었다. 새 국가는 집단화와 민간 기업 국유화 등 북부의 사회주의 체제를 남부로 확대했다.",
+    "zh": "1976年4月举行全国大选后，新选出的国会于1976年7月2日宣布南北统一为越南社会主义共和国。河内成为首都，西贡改名为胡志明市。新国家将北方的社会主义制度推广到南方，包括农业集体化和私营工商业国有化。",
+    "ja": "1976年4月の全国選挙を経て、新たに選ばれた国会は1976年7月2日、南北をベトナム社会主義共和国として統一すると宣言した。ハノイが首都となり、サイゴンはホーチミン市と改称された。新国家は集団化や民間企業の国有化など、北部の社会主義体制を南部に広げた。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Vietnam joins the United Nations",
+    "ko": "베트남의 유엔 가입",
+    "zh": "越南加入联合国",
+    "ja": "ベトナムの国連加盟"
+   },
+   "description": {
+    "en": "In September 1977 the Socialist Republic of Vietnam was admitted to the United Nations after the United States dropped its veto. In the same period the government sent many former South Vietnamese officers and officials to 're-education camps', where some were held for years. Relations with neighbouring Democratic Kampuchea were deteriorating amid border attacks.",
+    "ko": "1977년 9월 미국이 거부권 행사를 철회하면서 베트남 사회주의공화국이 유엔에 가입했다. 같은 시기 정부는 많은 옛 남베트남 장교와 관리를 '재교육 수용소'로 보냈고, 일부는 수년 동안 억류되었다. 국경 공격이 잇따르면서 이웃 민주 캄푸치아와의 관계는 악화되고 있었다.",
+    "zh": "1977年9月，在美国放弃否决后，越南社会主义共和国加入联合国。同一时期，政府将大批前南越军官和官员送入“改造营”，其中一些人被关押多年。随着边境袭击不断，越南与邻国民主柬埔寨的关系日益恶化。",
+    "ja": "1977年9月、アメリカが拒否権行使を取り下げたことで、ベトナム社会主義共和国は国際連合に加盟した。同じ頃、政府は多くの旧南ベトナムの将校や官吏を「再教育キャンプ」に送り、一部は何年も拘束された。国境での攻撃が相次ぐなか、隣国民主カンプチアとの関係は悪化していた。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": "Q635533",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Invasion of Cambodia and fall of the Khmer Rouge",
+    "ko": "캄보디아 침공과 크메르 루주 정권 붕괴",
+    "zh": "越南出兵柬埔寨，红色高棉政权倒台",
+    "ja": "カンボジア侵攻とクメール・ルージュ政権の崩壊"
+   },
+   "description": {
+    "en": "After repeated Khmer Rouge cross-border raids, including the massacre of villagers at Ba Chúc in An Giang in April 1978, Vietnam invaded Cambodia on 25 December 1978. Vietnamese forces captured Phnom Penh on 7 January 1979, ending the Khmer Rouge regime and installing the People's Republic of Kampuchea. Vietnam then faced a decade-long occupation, guerrilla war and international isolation.",
+    "ko": "1978년 4월 안장성 바쭉 마을 주민 학살을 비롯해 크메르 루주의 국경 공격이 거듭되자, 베트남은 1978년 12월 25일 캄보디아를 침공했다. 베트남군은 1979년 1월 7일 프놈펜을 점령해 크메르 루주 정권을 끝내고 캄푸치아 인민공화국을 세웠다. 이후 베트남은 10년에 걸친 점령, 게릴라전, 국제적 고립에 직면했다.",
+    "zh": "在红色高棉多次越境袭击（包括1978年4月在安江省巴春屠杀村民）之后，越南于1978年12月25日出兵柬埔寨。越军于1979年1月7日攻占金边，结束了红色高棉政权，扶植建立柬埔寨人民共和国。此后越南面临长达十年的占领、游击战和国际孤立。",
+    "ja": "1978年4月のアンザン省バーチュックでの村民虐殺をはじめとするクメール・ルージュの越境攻撃が繰り返された後、ベトナムは1978年12月25日にカンボジアへ侵攻した。ベトナム軍は1979年1月7日にプノンペンを攻略してクメール・ルージュ政権を終わらせ、カンプチア人民共和国を樹立した。以後ベトナムは10年に及ぶ占領、ゲリラ戦、国際的孤立に直面した。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q23020687",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Sino-Vietnamese War",
+    "ko": "중국-베트남 전쟁",
+    "zh": "中越战争",
+    "ja": "中越戦争"
+   },
+   "description": {
+    "en": "On 17 February 1979 China invaded Vietnam's northern border provinces, declaring it a punitive response to the invasion of Cambodia and the treatment of ethnic Chinese. After capturing Cao Bằng, Lào Cai and Lạng Sơn amid heavy losses on both sides, Chinese forces withdrew in March. Border clashes continued through the 1980s, and both sides claimed victory.",
+    "ko": "1979년 2월 17일 중국은 캄보디아 침공과 화교 처우에 대한 응징이라며 베트남 북부 국경 지방을 침공했다. 양측 모두 큰 손실을 입는 가운데 까오방·라오까이·랑선을 점령한 중국군은 3월에 철수했다. 국경 충돌은 1980년대 내내 이어졌고 양측 모두 승리를 주장했다.",
+    "zh": "1979年2月17日，中国以惩罚越南入侵柬埔寨和对待华人问题为由，进攻越南北部边境省份。在双方均伤亡惨重的情况下，中国军队攻占高平、老街和谅山后于3月撤军。此后边境冲突持续整个1980年代，双方都宣称取得了胜利。",
+    "ja": "1979年2月17日、中国はカンボジア侵攻と華人の処遇への懲罰を掲げてベトナム北部の国境諸省に侵攻した。双方に大きな損害が出るなか、カオバン・ラオカイ・ランソンを攻略した中国軍は3月に撤退した。国境での衝突は1980年代を通じて続き、双方とも勝利を主張した。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "The boat people crisis",
+    "ko": "보트피플 위기",
+    "zh": "船民危机",
+    "ja": "ボート・ピープル危機"
+   },
+   "description": {
+    "en": "From the late 1970s large numbers of Vietnamese, many of them ethnic Chinese, fled by sea to escape persecution, re-education, economic hardship and conflict. Many died from storms and pirate attacks. A UN conference in Geneva in July 1979 arranged resettlement of refugees in Western countries, and departures continued, later through the Orderly Departure Program, into the 1990s.",
+    "ko": "1970년대 후반부터 화교를 포함한 많은 베트남인이 박해, 재교육, 경제난, 분쟁을 피해 바다로 탈출했다. 많은 이가 폭풍과 해적의 공격으로 목숨을 잃었다. 1979년 7월 제네바의 유엔 회의는 난민의 서방 국가 정착을 주선했고, 탈출은 이후 합법 출국 계획을 통하는 방식으로도 1990년대까지 이어졌다.",
+    "zh": "从1970年代后期起，大批越南人（其中许多是华人）为躲避迫害、改造营、经济困境和战乱而乘船出逃。许多人死于风暴和海盗袭击。1979年7月在日内瓦召开的联合国会议安排难民到西方国家定居，此后出逃（后来也通过有序离境计划）一直持续到1990年代。",
+    "ja": "1970年代後半から、華人を含む多くのベトナム人が迫害、再教育、経済的困窮、紛争を逃れて海路で国を脱出した。多くが嵐や海賊の襲撃で命を落とした。1979年7月のジュネーヴでの国連会議は難民の西側諸国への定住を取り決め、脱出は合法出国計画を通じたものも含めて1990年代まで続いた。"
+   }
+  },
+  {
+   "year": 1986,
+   "qid": "Q342587",
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Doi Moi Economic Reforms",
+    "ko": "도이머이 개혁 개방",
+    "zh": "推行“革新开放”政策",
+    "ja": "ドイモイ（刷新）政策の開始"
+   },
+   "description": {
+    "en": "Facing hyperinflation, food shortages and the failure of central planning, the Sixth Party Congress in December 1986 launched Đổi Mới ('renovation') under the new general secretary Nguyễn Văn Linh. The reforms shifted Vietnam to a 'socialist-oriented market economy', returning farmland to household use, legalising private enterprise and welcoming foreign investment. They drove decades of rapid growth and a dramatic fall in poverty.",
+    "ko": "극심한 인플레이션, 식량 부족, 중앙 계획 경제의 실패에 직면한 공산당은 1986년 12월 제6차 당대회에서 새 총비서 응우옌반린의 지도 아래 도이머이('쇄신')를 시작했다. 개혁은 농지를 농가 단위 경영으로 돌려주고 민간 기업을 합법화하며 외국인 투자를 받아들여, 베트남을 '사회주의 지향 시장경제'로 전환시켰다. 이 개혁은 수십 년에 걸친 고도성장과 빈곤의 극적인 감소를 이끌었다.",
+    "zh": "面对恶性通货膨胀、粮食短缺和计划经济的失败，1986年12月召开的越共六大在新任总书记阮文灵的领导下启动了“革新开放”。改革将越南转向“社会主义定向的市场经济”，把土地交还农户经营，承认私营经济合法，并欢迎外国投资。改革带来了数十年的高速增长和贫困的大幅减少。",
+    "ja": "ハイパーインフレ、食糧不足、中央計画経済の失敗に直面し、1986年12月の第6回党大会は新書記長グエン・ヴァン・リンのもとでドイモイ（刷新）を開始した。改革は農地を農家の経営に戻し、民間企業を合法化し、外国投資を受け入れて、ベトナムを「社会主義志向市場経済」へ転換させた。これが数十年にわたる高成長と貧困の劇的な減少をもたらした。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": "Q175767",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Johnson South Reef skirmish",
+    "ko": "존슨 남초 충돌",
+    "zh": "赤瓜礁海战",
+    "ja": "ジョンソン南礁の衝突"
+   },
+   "description": {
+    "en": "On 14 March 1988 Chinese and Vietnamese naval forces clashed at Johnson South Reef in the Spratly Islands (Trường Sa). Chinese ships opened fire on Vietnamese personnel and transport vessels, killing dozens of Vietnamese sailors and sinking ships. China subsequently occupied several reefs, and the incident remains a symbol of the South China Sea disputes in Vietnam.",
+    "ko": "1988년 3월 14일 스프래틀리 제도(쯔엉사)의 존슨 남초에서 중국과 베트남 해군이 충돌했다. 중국 함정은 베트남 병력과 수송선에 발포해 수십 명의 베트남 수병을 죽이고 선박을 침몰시켰다. 이후 중국은 여러 암초를 점거했고, 이 사건은 베트남에서 남중국해 분쟁의 상징으로 남아 있다.",
+    "zh": "1988年3月14日，中越海军在南沙群岛（越南称长沙群岛）的赤瓜礁发生冲突。中方舰船向越方人员和运输船开火，数十名越南海军人员死亡，船只被击沉。此后中国占据了数个礁石，这一事件在越南至今仍是南海争端的象征。",
+    "ja": "1988年3月14日、南沙諸島（ベトナム名チュオンサ）のジョンソン南礁で中国とベトナムの海軍が衝突した。中国艦艇はベトナムの要員と輸送船に発砲し、数十人のベトナム兵を死なせ船を沈めた。その後中国は複数の岩礁を占拠し、この事件はベトナムで南シナ海紛争の象徴となっている。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Withdrawal from Cambodia",
+    "ko": "캄보디아 철군",
+    "zh": "越南从柬埔寨撤军",
+    "ja": "カンボジアからの撤兵"
+   },
+   "description": {
+    "en": "Under economic strain and with Soviet support declining, Vietnam completed the withdrawal of its troops from Cambodia in September 1989. The move paved the way for the 1991 Paris Agreements on Cambodia and the end of Vietnam's diplomatic isolation. It also allowed resources to be redirected to economic reform.",
+    "ko": "경제적 압박과 소련 지원의 감소 속에서 베트남은 1989년 9월 캄보디아 주둔군의 철수를 마쳤다. 이 조치는 1991년 캄보디아에 관한 파리 협정과 베트남의 외교적 고립 종식의 길을 열었다. 또한 자원을 경제 개혁으로 돌릴 수 있게 했다.",
+    "zh": "在经济压力和苏联援助减少的背景下，越南于1989年9月完成从柬埔寨撤军。此举为1991年关于柬埔寨问题的《巴黎协定》和越南结束外交孤立铺平了道路，也使资源得以转向经济改革。",
+    "ja": "経済的圧迫とソ連の支援減少のなか、ベトナムは1989年9月にカンボジアからの撤兵を完了した。これは1991年のカンボジア和平パリ協定とベトナムの外交的孤立の終わりへの道を開いた。また資源を経済改革へ振り向けることを可能にした。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Normalisation of relations with China",
+    "ko": "중국과의 관계 정상화",
+    "zh": "中越关系正常化",
+    "ja": "中越関係の正常化"
+   },
+   "description": {
+    "en": "In November 1991, after the Cambodian settlement, Vietnam and China normalised relations, ending more than a decade of hostility. The two communist neighbours later concluded agreements on their land border (1999) and on the Gulf of Tonkin (2000). Disputes over the South China Sea remained unresolved.",
+    "ko": "캄보디아 문제가 타결된 뒤인 1991년 11월 베트남과 중국은 관계를 정상화하여 10년 넘게 이어진 적대를 끝냈다. 두 공산주의 이웃 국가는 이후 육상 국경(1999)과 통킹만(2000)에 관한 협정을 맺었다. 남중국해 분쟁은 해결되지 않은 채 남았다.",
+    "zh": "柬埔寨问题解决后，越中两国于1991年11月实现关系正常化，结束了十余年的敌对。此后两个社会主义邻国又签订了陆地边界条约（1999年）和北部湾划界协定（2000年）。南海争端仍悬而未决。",
+    "ja": "カンボジア問題の解決後、1991年11月にベトナムと中国は関係を正常化し、10年以上の敵対に終止符を打った。両国はその後、陸上国境（1999年）とトンキン湾（2000年）に関する協定を結んだ。南シナ海の紛争は未解決のまま残った。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The 1992 Constitution",
+    "ko": "1992년 헌법",
+    "zh": "1992年宪法",
+    "ja": "1992年憲法"
+   },
+   "description": {
+    "en": "In April 1992 the National Assembly adopted a new constitution that enshrined the market-oriented reforms of Đổi Mới while confirming the leading role of the Communist Party. It recognised a multi-sector economy and the rights of private business. It remained in force, with amendments, until the 2013 Constitution.",
+    "ko": "1992년 4월 국회는 공산당의 영도적 역할을 확인하면서 도이머이의 시장 지향 개혁을 명문화한 새 헌법을 채택했다. 이 헌법은 다부문 경제와 민간 기업의 권리를 인정했다. 개정을 거치며 2013년 헌법 제정 때까지 효력을 유지했다.",
+    "zh": "1992年4月，国会通过新宪法，在确认共产党领导地位的同时，将革新开放的市场化改革写入宪法。宪法承认多种经济成分并存和私营企业的权利。该宪法经修订后一直沿用到2013年新宪法颁布。",
+    "ja": "1992年4月、国会は共産党の指導的役割を確認しつつドイモイの市場志向の改革を明記した新憲法を採択した。多セクター経済と民間企業の権利を認めた。改正を経て2013年憲法の制定まで効力を保った。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "ASEAN Membership and Normalization with the US",
+    "ko": "아세안 가입과 미국과의 국교 정상화",
+    "zh": "加入东盟并与美国关系正常化",
+    "ja": "ASEAN加盟とアメリカとの国交正常化"
+   },
+   "description": {
+    "en": "In July 1995 Vietnam joined the Association of Southeast Asian Nations, an organisation originally formed partly to contain communist expansion. In the same month, following the lifting of the US trade embargo in 1994, President Bill Clinton announced the normalisation of diplomatic relations with Vietnam. These steps marked Vietnam's full return to the regional and international community.",
+    "ko": "1995년 7월 베트남은 본래 공산주의 확산을 견제하려는 목적도 있었던 동남아시아국가연합(아세안)에 가입했다. 같은 달, 1994년 미국의 무역 금수 해제에 이어 빌 클린턴 대통령이 베트남과의 국교 정상화를 발표했다. 이로써 베트남은 지역 사회와 국제 무대로의 복귀를 마무리했다.",
+    "zh": "1995年7月，越南加入东南亚国家联盟，而该组织成立之初的目的之一正是遏制共产主义扩张。同月，继1994年美国解除对越贸易禁运之后，克林顿总统宣布与越南实现外交关系正常化。这些举措标志着越南全面重返地区与国际社会。",
+    "ja": "1995年7月、ベトナムは当初共産主義の拡大を抑える目的も持っていた東南アジア諸国連合（ASEAN）に加盟した。同じ月、1994年のアメリカの禁輸解除に続き、ビル・クリントン大統領がベトナムとの国交正常化を発表した。これによりベトナムは地域社会と国際社会への完全な復帰を果たした。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": "Q4595223",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Catastrophic floods in central Vietnam",
+    "ko": "중부 베트남 대홍수",
+    "zh": "越南中部特大洪灾",
+    "ja": "ベトナム中部の大洪水"
+   },
+   "description": {
+    "en": "In early November 1999 torrential rains caused some of the worst floods in a century in central Vietnam, inundating Huế and surrounding provinces. Hundreds of people died and many homes and crops were destroyed. The disaster highlighted the vulnerability of the narrow central coast to typhoons and floods, a recurring theme in the following decades.",
+    "ko": "1999년 11월 초 폭우로 중부 베트남에 한 세기 만의 최악급 홍수가 나서 후에와 주변 성들이 물에 잠겼다. 수백 명이 숨지고 많은 가옥과 농작물이 파괴되었다. 이 재해는 좁은 중부 해안이 태풍과 홍수에 취약하다는 사실을 드러냈고, 이는 이후 수십 년간 되풀이되었다.",
+    "zh": "1999年11月初，暴雨在越南中部引发百年来最严重的洪灾之一，顺化及周边省份被淹。数百人遇难，大量房屋和农作物被毁。这场灾难凸显了狭长的中部沿海地区面对台风和洪水的脆弱性，这一问题在此后数十年间反复出现。",
+    "ja": "1999年11月初め、豪雨によりベトナム中部で1世紀で最悪級の洪水が起き、フエと周辺の省が水没した。数百人が死亡し、多くの家屋と作物が失われた。この災害は細長い中部海岸の台風・洪水への脆弱さを浮き彫りにし、その後数十年にわたり繰り返される課題となった。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "US–Vietnam Bilateral Trade Agreement",
+    "ko": "미국-베트남 양자 무역 협정",
+    "zh": "美越双边贸易协定",
+    "ja": "米越二国間通商協定"
+   },
+   "description": {
+    "en": "In July 2000 Vietnam and the United States signed a Bilateral Trade Agreement, and in November Bill Clinton became the first US president to visit Hanoi since the war. The agreement, in force from 2001, sharply reduced tariffs on Vietnamese goods. Exports to the US surged, laying the foundation for Vietnam's later export-led growth.",
+    "ko": "2000년 7월 베트남과 미국은 양자 무역 협정을 체결했고, 11월에는 빌 클린턴이 전쟁 이후 처음으로 하노이를 방문한 미국 대통령이 되었다. 2001년 발효된 이 협정은 베트남 상품에 대한 관세를 크게 낮추었다. 대미 수출이 급증하며 이후 베트남의 수출 주도 성장의 토대가 마련되었다.",
+    "zh": "2000年7月，越美签署双边贸易协定；同年11月，克林顿成为战后首位访问河内的美国总统。该协定于2001年生效，大幅降低了越南商品的关税。越南对美出口激增，为此后的出口导向型增长奠定了基础。",
+    "ja": "2000年7月、ベトナムとアメリカは二国間通商協定に調印し、11月にはビル・クリントンが戦後初めてハノイを訪れたアメリカ大統領となった。2001年に発効した協定はベトナム製品への関税を大幅に引き下げた。対米輸出は急増し、その後のベトナムの輸出主導型成長の基礎が築かれた。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": "Q10772297",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Hanoi hosts the APEC summit",
+    "ko": "하노이 APEC 정상회의 개최",
+    "zh": "河内举办APEC峰会",
+    "ja": "ハノイでのAPEC首脳会議"
+   },
+   "description": {
+    "en": "In November 2006 Vietnam hosted the Asia-Pacific Economic Cooperation summit in Hanoi, attended by leaders including US President George W. Bush and Chinese President Hu Jintao. The meeting showcased Vietnam's reintegration into the regional economy. It came weeks after Vietnam concluded its negotiations to join the World Trade Organization.",
+    "ko": "2006년 11월 베트남은 하노이에서 아시아태평양경제협력체(APEC) 정상회의를 개최했으며, 조지 W. 부시 미국 대통령과 후진타오 중국 국가주석 등이 참석했다. 이 회의는 베트남이 지역 경제에 다시 통합되었음을 보여 주었다. 회의는 베트남이 세계무역기구 가입 협상을 마무리한 지 몇 주 뒤에 열렸다.",
+    "zh": "2006年11月，越南在河内主办亚太经合组织（APEC）领导人会议，美国总统布什、中国国家主席胡锦涛等出席。会议展示了越南重新融入地区经济的成果。会议召开时，越南刚刚在数周前结束加入世界贸易组织的谈判。",
+    "ja": "2006年11月、ベトナムはハノイでアジア太平洋経済協力（APEC）首脳会議を開催し、ジョージ・W・ブッシュ米大統領や胡錦濤中国国家主席らが出席した。この会議はベトナムの地域経済への再統合を示した。会議はベトナムが世界貿易機関加盟交渉を終えた数週間後に開かれた。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Vietnam joins the World Trade Organization",
+    "ko": "베트남의 WTO 가입",
+    "zh": "越南加入世界贸易组织",
+    "ja": "ベトナムのWTO加盟"
+   },
+   "description": {
+    "en": "On 11 January 2007 Vietnam became the 150th member of the World Trade Organization after more than a decade of negotiations. Membership required wide-ranging legal and tariff reforms and opened the economy further to foreign competition and investment. Foreign direct investment and exports grew rapidly in the following years.",
+    "ko": "2007년 1월 11일 베트남은 10년 넘는 협상 끝에 세계무역기구의 150번째 회원국이 되었다. 가입을 위해 광범위한 법률·관세 개혁이 필요했으며, 경제는 외국과의 경쟁과 투자에 더욱 개방되었다. 이후 몇 년 동안 외국인 직접 투자와 수출이 빠르게 늘었다.",
+    "zh": "2007年1月11日，经过十余年的谈判，越南成为世界贸易组织第150个成员。入世要求进行广泛的法律和关税改革，使经济进一步向外国竞争和投资开放。此后数年间，外国直接投资和出口迅速增长。",
+    "ja": "2007年1月11日、ベトナムは10年以上の交渉を経て世界貿易機関の150番目の加盟国となった。加盟には幅広い法制度と関税の改革が必要で、経済は外国との競争と投資にいっそう開かれた。その後数年で外国直接投資と輸出は急速に伸びた。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Millennium of Thăng Long–Hanoi",
+    "ko": "탕롱-하노이 천년 기념",
+    "zh": "升龙—河内建都一千年",
+    "ja": "昇竜・ハノイ千年祭"
+   },
+   "description": {
+    "en": "In October 2010 Hanoi celebrated the thousandth anniversary of Lý Thái Tổ's move of the capital to Thăng Long in 1010. In the same year the central sector of the Imperial Citadel of Thăng Long was inscribed as a UNESCO World Heritage Site, and the city hosted the Fifth East Asia Summit as chair of ASEAN. The celebrations emphasised the continuity of Vietnamese statehood.",
+    "ko": "2010년 10월 하노이는 1010년 리타이또가 탕롱으로 천도한 지 천 년이 된 것을 기념했다. 같은 해 탕롱 황성 중심 구역이 유네스코 세계유산으로 등재되었고, 하노이는 아세안 의장국으로서 제5차 동아시아 정상회의를 개최했다. 기념행사는 베트남 국가의 연속성을 강조했다.",
+    "zh": "2010年10月，河内隆重纪念李太祖于1010年迁都升龙一千周年。同年，升龙皇城中心区被列入世界遗产，河内还以东盟轮值主席国身份主办了第五届东亚峰会。庆典着重强调了越南国家的历史延续性。",
+    "ja": "2010年10月、ハノイは1010年に李太祖が昇竜へ遷都してから千年を祝った。同年、昇竜皇城の中心区域がユネスコ世界遺産に登録され、ハノイはASEAN議長国として第5回東アジア首脳会議を主催した。祝典はベトナム国家の連続性を強調した。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q16889824",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Haiyang Shiyou 981 oil rig standoff",
+    "ko": "하이양스유 981 석유 시추선 대치",
+    "zh": "“海洋石油981”钻井平台对峙",
+    "ja": "海洋石油981掘削リグをめぐる対峙"
+   },
+   "description": {
+    "en": "In May 2014 China moved the oil rig Haiyang Shiyou 981 into waters near the Paracel Islands claimed by Vietnam, escorted by numerous vessels. Vietnamese and Chinese ships clashed through water cannon and ramming, and anti-China protests in Vietnam turned into riots that attacked foreign-owned factories. China withdrew the rig in July, but the episode deepened Vietnamese distrust of Beijing.",
+    "ko": "2014년 5월 중국은 다수의 선박을 거느리고 석유 시추선 하이양스유 981을 베트남이 영유권을 주장하는 파라셀 제도 인근 해역에 배치했다. 양국 선박은 물대포와 충돌로 맞섰고, 베트남의 반중 시위는 외국계 공장을 공격하는 폭동으로 번졌다. 중국은 7월 시추선을 철수했지만, 이 사건은 베트남의 대중국 불신을 깊게 했다.",
+    "zh": "2014年5月，中国在大批船只护航下，将“海洋石油981”钻井平台部署到越南主张主权的西沙群岛附近海域。越中船只以水炮和冲撞相互对峙，越南国内的反华示威演变为冲击外资工厂的骚乱。中国于7月撤走钻井平台，但这一事件加深了越南对中国的不信任。",
+    "ja": "2014年5月、中国は多数の船舶に護衛させて掘削リグ「海洋石油981」をベトナムが領有権を主張する西沙諸島付近の海域に配置した。両国の船は放水や体当たりで対峙し、ベトナム国内の反中デモは外資系工場を襲う暴動に発展した。中国は7月にリグを撤収したが、この出来事はベトナムの対中不信を深めた。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Formosa marine pollution disaster",
+    "ko": "포모사 해양 오염 사태",
+    "zh": "台塑河静钢厂海洋污染事件",
+    "ja": "フォルモサ製鉄所の海洋汚染事件"
+   },
+   "description": {
+    "en": "In April 2016 mass fish deaths struck the coast of four central provinces from Hà Tĩnh to Thừa Thiên–Huế, devastating fishing and tourism. In June the government announced that toxic discharge from the Taiwanese-owned Formosa Hà Tĩnh steel plant was responsible, and the company pledged US$500 million in compensation. The disaster prompted rare public protests over environmental issues.",
+    "ko": "2016년 4월 하띤에서 트어티엔후에까지 중부 4개 성의 해안에서 물고기가 대량 폐사해 어업과 관광이 큰 타격을 입었다. 6월 정부는 타이완계 포모사 하띤 제철소의 독성 폐수 배출이 원인이라고 발표했고, 회사는 5억 달러의 배상을 약속했다. 이 사태는 환경 문제를 둘러싼 이례적인 대중 시위를 불러일으켰다.",
+    "zh": "2016年4月，从河静到承天顺化的中部四省沿海出现大规模死鱼现象，渔业和旅游业遭受重创。6月，政府宣布台资台塑河静钢厂排放有毒废水为事故原因，该公司承诺赔偿5亿美元。这场灾难引发了罕见的环保抗议活动。",
+    "ja": "2016年4月、ハティンからトゥアティエン・フエまで中部4省の海岸で魚の大量死が起き、漁業と観光が大打撃を受けた。6月、政府は台湾系のフォルモサ・ハティン製鉄所の有毒排水が原因だと発表し、同社は5億ドルの賠償を約束した。この災害は環境問題をめぐる異例の市民の抗議を引き起こした。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Hanoi hosts the US–North Korea summit",
+    "ko": "하노이 북미 정상회담",
+    "zh": "河内举行美朝首脑会晤",
+    "ja": "ハノイでの米朝首脳会談"
+   },
+   "description": {
+    "en": "In February 2019 Hanoi hosted the second summit between US President Donald Trump and North Korean leader Kim Jong Un. The meeting ended early without an agreement on denuclearisation and sanctions relief. Vietnam's selection as host reflected its good relations with both countries and its image as a model of post-war reconciliation and reform.",
+    "ko": "2019년 2월 하노이에서 도널드 트럼프 미국 대통령과 김정은 북한 국무위원장의 두 번째 정상회담이 열렸다. 회담은 비핵화와 제재 완화에 관한 합의 없이 일찍 끝났다. 베트남이 개최지로 선정된 것은 양국과의 좋은 관계와 전후 화해 및 개혁의 모범이라는 이미지를 반영했다.",
+    "zh": "2019年2月，美国总统特朗普与朝鲜领导人金正恩在河内举行第二次会晤。会晤提前结束，未能就无核化和放宽制裁达成协议。越南被选为东道国，反映出它与两国的良好关系，以及其作为战后和解与改革典范的形象。",
+    "ja": "2019年2月、ハノイでドナルド・トランプ米大統領と北朝鮮の金正恩国務委員長による2回目の首脳会談が開かれた。会談は非核化と制裁緩和で合意できないまま早めに打ち切られた。ベトナムが開催地に選ばれたのは、両国との良好な関係と、戦後の和解と改革の模範というイメージを反映していた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q83873057",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in Vietnam",
+    "ko": "베트남의 코로나19 팬데믹",
+    "zh": "越南新冠疫情",
+    "ja": "ベトナムの新型コロナウイルス流行"
+   },
+   "description": {
+    "en": "Vietnam detected its first COVID-19 cases in January 2020 and responded with early border closures, aggressive contact tracing and quarantine, keeping infections and deaths very low through 2020. The Delta variant in 2021 caused a severe wave, especially in Hồ Chí Minh City, prompting strict lockdowns. A rapid vaccination drive allowed the country to reopen from late 2021.",
+    "ko": "베트남은 2020년 1월 첫 코로나19 환자를 확인한 뒤 신속한 국경 폐쇄, 적극적인 접촉자 추적과 격리로 대응하여 2020년 내내 감염자와 사망자를 매우 적게 유지했다. 2021년 델타 변이는 특히 호찌민시에서 심각한 유행을 일으켜 엄격한 봉쇄가 시행되었다. 빠른 백신 접종 덕분에 2021년 말부터 나라가 다시 개방되었다.",
+    "zh": "越南于2020年1月发现首批新冠病例，随即采取及早封锁边境、积极追踪接触者和隔离等措施，使2020年全年感染和死亡人数保持在很低水平。2021年德尔塔变异株引发严重疫情，胡志明市尤甚，政府实施严格封控。迅速推进的疫苗接种使国家自2021年底起逐步重新开放。",
+    "ja": "ベトナムは2020年1月に最初の新型コロナ感染者を確認すると、早期の国境閉鎖、徹底した接触者追跡と隔離で対応し、2020年を通じて感染者・死者を非常に少なく抑えた。2021年にはデルタ株がとくにホーチミン市で深刻な流行を引き起こし、厳格なロックダウンが敷かれた。迅速なワクチン接種により、2021年末から国は再開に向かった。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Comprehensive Strategic Partnership with the United States",
+    "ko": "미국과의 포괄적 전략 동반자 관계",
+    "zh": "越美建立全面战略伙伴关系",
+    "ja": "米国との包括的戦略パートナーシップ"
+   },
+   "description": {
+    "en": "During US President Joe Biden's visit to Hanoi in September 2023, Vietnam and the United States upgraded their relations to a Comprehensive Strategic Partnership, Vietnam's highest diplomatic tier. The move came less than three decades after normalisation and placed the US on the same level as China, Russia, India and South Korea in Vietnam's diplomacy. It reflected Vietnam's 'bamboo diplomacy' of balancing among major powers.",
+    "ko": "2023년 9월 조 바이든 미국 대통령의 하노이 방문 때 베트남과 미국은 관계를 베트남 외교의 최고 단계인 포괄적 전략 동반자 관계로 격상했다. 국교 정상화 후 30년도 안 되어 이루어진 이 조치로 미국은 베트남 외교에서 중국·러시아·인도·한국과 같은 위치에 올랐다. 이는 강대국 사이에서 균형을 잡는 베트남의 '대나무 외교'를 반영했다.",
+    "zh": "2023年9月美国总统拜登访问河内期间，越美将双边关系提升为越南外交中最高级别的全面战略伙伴关系。此举距两国关系正常化不到三十年，使美国在越南外交中与中国、俄罗斯、印度和韩国处于同一层级。这体现了越南在大国之间寻求平衡的“竹子外交”。",
+    "ja": "2023年9月のジョー・バイデン米大統領のハノイ訪問の際、ベトナムとアメリカは関係をベトナム外交の最高位である包括的戦略パートナーシップに格上げした。国交正常化から30年足らずで、アメリカはベトナム外交において中国・ロシア・インド・韓国と同列に並んだ。これは大国間で均衡を取るベトナムの「竹の外交」を反映していた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q130974521",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Death of Nguyễn Phú Trọng and leadership transition",
+    "ko": "응우옌푸쫑 사망과 지도부 교체",
+    "zh": "阮富仲逝世与领导层更替",
+    "ja": "グエン・フー・チョンの死去と指導部の交代"
+   },
+   "description": {
+    "en": "General Secretary Nguyễn Phú Trọng, architect of the sweeping 'blazing furnace' anti-corruption campaign that had forced out two state presidents, died on 19 July 2024. Tô Lâm, who had become state president in May, was elected party general secretary in August, and in October the National Assembly chose General Lương Cường as state president. The new leadership pledged to accelerate administrative reform and growth.",
+    "ko": "두 명의 국가주석을 물러나게 한 대대적인 '불타는 용광로' 반부패 운동을 이끈 응우옌푸쫑 총비서가 2024년 7월 19일 사망했다. 5월 국가주석이 된 또럼이 8월 당 총비서로 선출되었고, 10월 국회는 르엉끄엉 장군을 국가주석으로 선출했다. 새 지도부는 행정 개혁과 성장의 가속을 약속했다.",
+    "zh": "曾主导迫使两位国家主席下台的大规模“熔炉”反腐运动的越共中央总书记阮富仲于2024年7月19日逝世。5月出任国家主席的苏林于8月当选党中央总书记，10月国会选举梁强大将为国家主席。新领导层承诺加快行政改革和经济增长。",
+    "ja": "2人の国家主席を辞任に追い込んだ大規模な「燃え盛る炉」反汚職運動を主導したグエン・フー・チョン書記長が2024年7月19日に死去した。5月に国家主席となっていたトー・ラムが8月に党書記長に選ばれ、10月には国会がルオン・クオン大将を国家主席に選出した。新指導部は行政改革と成長の加速を約束した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q130214931",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Typhoon Yagi",
+    "ko": "태풍 야기",
+    "zh": "台风“摩羯”",
+    "ja": "台風ヤギ"
+   },
+   "description": {
+    "en": "In September 2024 Typhoon Yagi, one of the strongest storms to strike northern Vietnam in decades, made landfall near Quảng Ninh and Hải Phòng. Its winds and the floods and landslides that followed killed hundreds of people, swept away a village in Lào Cai province and caused a bridge over the Red River in Phú Thọ to collapse. Economic losses were severe across the north.",
+    "ko": "2024년 9월 수십 년 만에 베트남 북부를 강타한 가장 강력한 태풍 가운데 하나인 태풍 야기가 꽝닌과 하이퐁 부근에 상륙했다. 강풍과 뒤이은 홍수·산사태로 수백 명이 숨졌고, 라오까이성의 한 마을이 휩쓸려 갔으며 푸토성에서는 홍강을 건너는 다리가 무너졌다. 북부 전역의 경제적 피해가 컸다.",
+    "zh": "2024年9月，数十年来袭击越南北部最强的台风之一“摩羯”在广宁和海防附近登陆。狂风及随之而来的洪水、山体滑坡造成数百人死亡，老街省一个村庄被冲毁，富寿省一座横跨红河的大桥坍塌。北部各地经济损失惨重。",
+    "ja": "2024年9月、ここ数十年でベトナム北部を襲った最強級の台風の一つである台風ヤギがクアンニンとハイフォン付近に上陸した。暴風とその後の洪水・土砂崩れで数百人が死亡し、ラオカイ省の村が押し流され、フート省では紅河に架かる橋が崩落した。北部全域で経済的被害は甚大であった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Sweeping reorganisation of provinces",
+    "ko": "대대적인 성급 행정 구역 개편",
+    "zh": "大规模省级行政区划调整",
+    "ja": "省の大規模再編"
+   },
+   "description": {
+    "en": "In 2025 the government carried out the most extensive administrative restructuring in decades, merging ministries and, from 1 July 2025, reducing the number of provinces and centrally governed cities from 63 to 34 while abolishing the district level. The reform aimed to streamline the state apparatus and cut costs. The same year Vietnam marked the 50th anniversary of reunification with a large parade in Hồ Chí Minh City.",
+    "ko": "2025년 정부는 수십 년 만에 가장 광범위한 행정 개편을 단행해 부처를 통폐합하고, 2025년 7월 1일부터 성과 중앙직할시를 63개에서 34개로 줄이며 현급 행정 단위를 폐지했다. 이 개혁은 국가 기구를 간소화하고 비용을 줄이려는 것이었다. 같은 해 베트남은 호찌민시에서 대규모 퍼레이드를 열어 통일 50주년을 기념했다.",
+    "zh": "2025年，政府推行数十年来最大规模的行政改革，合并政府部门，并自2025年7月1日起将省和中央直辖市由63个减少到34个，同时取消县级行政单位。改革旨在精简国家机构、削减开支。同年，越南在胡志明市举行盛大阅兵，纪念国家统一50周年。",
+    "ja": "2025年、政府はここ数十年で最も大規模な行政改革を行い、省庁を統合するとともに、2025年7月1日から省・中央直轄市を63から34に減らし、県級の行政単位を廃止した。改革は国家機構の簡素化と経費削減を目的とした。同年、ベトナムはホーチミン市で大規模なパレードを行い、統一50周年を記念した。"
+   }
+  }
+ ]
+}

@@ -1,0 +1,3428 @@
+{
+ "iso": "PS",
+ "eras": [
+  {
+   "from": -9000,
+   "to": -3300,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Neolithic and Chalcolithic Palestine",
+    "ko": "신석기·금석병용기 팔레스타인",
+    "zh": "新石器与铜石并用时代的巴勒斯坦",
+    "ja": "新石器・銅石器時代のパレスチナ"
+   },
+   "summary": {
+    "en": "Jericho in the Jordan Valley became one of the world's earliest walled settlements around 8000 BC, with a famous stone tower. Farming villages spread through the hills, and in the Chalcolithic period (c. 4500–3300 BC) the Ghassulian culture produced painted shrines and early copper metallurgy.",
+    "ko": "요르단 계곡의 예리코는 기원전 8000년경 유명한 돌탑을 갖춘 세계 최초의 성벽 정착지 가운데 하나가 되었다. 농경 마을이 구릉 지대로 퍼졌고, 금석병용기(기원전 4500~3300년경)에는 가술 문화가 채색 성소와 초기 구리 야금술을 남겼다.",
+    "zh": "约旦河谷的杰里科在约公元前8000年成为世界上最早的设防聚落之一，以其著名的石塔闻名。农耕村落遍布山地；铜石并用时代（约公元前4500—前3300年）的加苏勒文化留下了彩绘圣所和早期铜冶金遗存。",
+    "ja": "ヨルダン渓谷のエリコは前8000年頃、有名な石の塔を備えた世界最古級の城壁集落となった。農耕村落が丘陵地に広がり、銅石器時代（前4500〜前3300年頃）にはガッスール文化が彩色の聖所や初期の銅冶金を残した。"
+   }
+  },
+  {
+   "from": -3300,
+   "to": -2000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Bronze Age Canaan",
+    "ko": "초기 청동기 시대 가나안",
+    "zh": "早期青铜时代的迦南",
+    "ja": "前期青銅器時代のカナン"
+   },
+   "summary": {
+    "en": "Walled towns such as Jericho, together with settlements around Shechem and Hebron, emerged and traded with Egypt. Around 2500–2300 BC most of these towns were abandoned, and an age of villages and pastoralism followed until about 2000 BC.",
+    "ko": "예리코 등 성벽 도시와 셰켐·헤브론 일대의 정착지가 나타나 이집트와 교역했다. 기원전 2500~2300년경 이 도시들 대부분이 버려졌고, 기원전 2000년경까지 마을과 목축 중심의 시대가 이어졌다.",
+    "zh": "杰里科等设防城镇以及示剑、希伯伦一带的聚落兴起，并与埃及开展贸易。约公元前2500至前2300年，这些城镇大多被废弃，此后直至约公元前2000年进入以村落和游牧为主的时期。",
+    "ja": "エリコなどの城壁都市や、シケム・ヘブロン周辺の集落が現れ、エジプトと交易した。前2500〜前2300年頃にこれらの都市の多くは放棄され、前2000年頃まで村落と牧畜の時代が続いた。"
+   }
+  },
+  {
+   "from": -2000,
+   "to": -1550,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Middle Bronze Age Canaanite city-states",
+    "ko": "중기 청동기 가나안 도시국가",
+    "zh": "中期青铜时代的迦南城邦",
+    "ja": "中期青銅器時代のカナン都市国家"
+   },
+   "summary": {
+    "en": "Urban life revived: Shechem, Jericho, Jerusalem and the cities of the southern coast near Gaza were ringed with massive earthen ramparts and gates. Egyptian texts begin to name some of these cities, and Canaanite culture spread into the Nile Delta.",
+    "ko": "도시 생활이 되살아나 셰켐, 예리코, 예루살렘과 가자 인근 남부 해안 도시들이 거대한 토성과 성문으로 둘러싸였다. 이집트 문헌이 이 도시들의 이름을 기록하기 시작했고, 가나안 문화는 나일 삼각주까지 퍼졌다.",
+    "zh": "城市生活复兴：示剑、杰里科、耶路撒冷以及加沙附近南部沿海的城市修筑了巨大的土垒和城门。埃及文献开始记载其中一些城市的名称，迦南文化也传播到尼罗河三角洲。",
+    "ja": "都市生活が復活し、シケム、エリコ、エルサレム、ガザ近郊の南部海岸の都市が巨大な土塁と城門で囲まれた。エジプトの文書がこれらの都市名を記し始め、カナン文化はナイル・デルタにまで広がった。"
+   }
+  },
+  {
+   "from": -1650,
+   "to": -1550,
+   "kind": "state",
+   "qid": "Q192319",
+   "polity": "Hyksos",
+   "name": {
+    "en": "Hyksos period",
+    "ko": "힉소스 시대",
+    "zh": "喜克索斯时期",
+    "ja": "ヒクソス時代"
+   },
+   "summary": {
+    "en": "The Hyksos, rulers of West Asian origin, governed northern Egypt from Avaris, and the Canaanite cities of the southern Levant were closely tied to them. After the Egyptians expelled the Hyksos around 1550 BC, they pursued them into southern Canaan.",
+    "ko": "서아시아계 지배자인 힉소스가 아바리스를 중심으로 이집트 북부를 다스렸고, 남부 레반트의 가나안 도시들은 이들과 긴밀히 연결되어 있었다. 기원전 1550년경 이집트인이 힉소스를 몰아낸 뒤 남부 가나안까지 추격했다.",
+    "zh": "源自西亚的喜克索斯人以阿瓦里斯为中心统治下埃及，黎凡特南部的迦南城邦与其关系密切。约公元前1550年埃及人驱逐喜克索斯人后，一路追击至迦南南部。",
+    "ja": "西アジア系の支配者ヒクソスがアヴァリスを拠点に北部エジプトを治め、南レヴァントのカナン諸都市は彼らと密接に結びついていた。前1550年頃にエジプト人がヒクソスを追放すると、南カナンまで追撃した。"
+   }
+  },
+  {
+   "from": -1550,
+   "to": -1130,
+   "kind": "state",
+   "qid": "Q180568",
+   "polity": "New Kingdom of Egypt",
+   "name": {
+    "en": "Egyptian New Kingdom rule",
+    "ko": "이집트 신왕국의 지배",
+    "zh": "埃及新王国的统治",
+    "ja": "エジプト新王国の支配"
+   },
+   "summary": {
+    "en": "Pharaohs of the New Kingdom made Canaan a province of vassal city-states, with Gaza as their main administrative base. The Amarna letters show local kings of Jerusalem and Shechem competing for Egyptian favour, until Egyptian control faded in the 12th century BC.",
+    "ko": "신왕국의 파라오들은 가나안을 속국 도시국가들의 지방으로 삼았고, 가자를 주요 행정 거점으로 두었다. 아마르나 서신은 예루살렘과 셰켐의 왕들이 이집트의 환심을 사려 경쟁하던 모습을 보여 주며, 이집트의 지배는 기원전 12세기에 약해졌다.",
+    "zh": "新王国的法老把迦南变为由附庸城邦组成的行省，并以加沙为主要行政据点。阿马尔奈书信显示耶路撒冷和示剑的君主争相讨好埃及；公元前12世纪埃及的控制逐渐衰退。",
+    "ja": "新王国のファラオたちはカナンを属国都市国家からなる州とし、ガザを主要な行政拠点とした。アマルナ文書はエルサレムやシケムの王がエジプトの歓心を競った様子を伝え、エジプトの支配は前12世紀に衰えた。"
+   }
+  },
+  {
+   "from": -1200,
+   "to": -1000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Iron Age I highland villages",
+    "ko": "철기 시대 I 고지대 마을",
+    "zh": "铁器时代早期的山地村落",
+    "ja": "鉄器時代Iの高地村落"
+   },
+   "summary": {
+    "en": "After the Late Bronze Age collapse, hundreds of small farming villages appeared in the central hills between Jerusalem and Jenin. Many archaeologists link them to the emergence of early Israel, while Canaanite towns persisted in the lowlands.",
+    "ko": "후기 청동기 붕괴 이후 예루살렘과 제닌 사이 중부 구릉 지대에 수백 개의 작은 농경 마을이 나타났다. 많은 고고학자는 이를 초기 이스라엘의 형성과 연결하며, 저지대에는 가나안 도시들이 계속 존속했다.",
+    "zh": "青铜时代晚期崩溃之后，耶路撒冷与杰宁之间的中部山地出现了数百个小型农耕村落。许多考古学家将其与早期以色列的形成联系起来，而低地的迦南城镇仍延续存在。",
+    "ja": "後期青銅器時代の崩壊後、エルサレムとジェニンの間の中央丘陵に数百の小さな農村が現れた。多くの考古学者はこれを初期イスラエルの形成と結びつけ、低地ではカナンの町が存続した。"
+   }
+  },
+  {
+   "from": -1175,
+   "to": -604,
+   "kind": "state",
+   "qid": "Q7185566",
+   "polity": "Philistia",
+   "name": {
+    "en": "Philistia (Gaza)",
+    "ko": "블레셋(가자)",
+    "zh": "非利士（加沙）",
+    "ja": "ペリシテ（ガザ）"
+   },
+   "summary": {
+    "en": "The Philistines, linked to the Sea Peoples of the Aegean world, settled the southern coastal plain around 1175 BC and formed a league of five cities, of which Gaza was the southernmost. Gaza thrived on the incense and caravan trade until the Babylonian conquest at the end of the 7th century BC.",
+    "ko": "에게 세계의 '바다 민족'과 관련된 블레셋인은 기원전 1175년경 남부 해안 평야에 정착해 다섯 도시 동맹을 이루었고, 가자는 그 최남단 도시였다. 가자는 유향과 대상 교역으로 번영하다가 기원전 7세기 말 바빌로니아에 정복되었다.",
+    "zh": "与爱琴海世界“海上民族”有关的非利士人约于公元前1175年定居南部沿海平原，组成五城联盟，加沙是其中最南端的城市。加沙凭借乳香和商队贸易繁荣，直到公元前7世纪末被巴比伦征服。",
+    "ja": "エーゲ世界の「海の民」と関わるペリシテ人は前1175年頃に南部海岸平野に定住して五都市同盟を作り、ガザはその最南端の都市だった。ガザは乳香と隊商交易で栄えたが、前7世紀末にバビロニアに征服された。"
+   }
+  },
+  {
+   "from": -1000,
+   "to": -930,
+   "kind": "state",
+   "qid": "Q3185305",
+   "polity": "Kingdom of Israel",
+   "name": {
+    "en": "United Monarchy (David and Solomon)",
+    "ko": "통일 왕국(다윗과 솔로몬)",
+    "zh": "统一王国（大卫与所罗门）",
+    "ja": "統一王国（ダビデとソロモン）"
+   },
+   "summary": {
+    "en": "According to the Bible, David made Jerusalem the capital of a united Israelite kingdom and Solomon built the First Temple there. The scale of this kingdom is debated by archaeologists, but a dynasty called the 'House of David' is attested in a 9th-century BC inscription.",
+    "ko": "성서에 따르면 다윗은 예루살렘을 통일 이스라엘 왕국의 수도로 삼았고 솔로몬이 그곳에 제1성전을 지었다. 이 왕국의 규모는 고고학자들 사이에서 논쟁 중이지만, '다윗의 집'이라는 왕조는 기원전 9세기 비문에서 확인된다.",
+    "zh": "据《圣经》记载，大卫以耶路撒冷为统一以色列王国的都城，所罗门在那里建造了第一圣殿。考古学界对该王国的规模仍有争论，但公元前9世纪的铭文已证实存在名为“大卫家”的王朝。",
+    "ja": "聖書によれば、ダビデはエルサレムを統一イスラエル王国の都とし、ソロモンがそこに第一神殿を建てた。この王国の規模は考古学者の間で議論があるが、「ダビデの家」という王朝は前9世紀の碑文で確認されている。"
+   }
+  },
+  {
+   "from": -930,
+   "to": -720,
+   "kind": "state",
+   "qid": "Q230407",
+   "polity": "Kingdom of Israel",
+   "name": {
+    "en": "Kingdom of Israel (Samaria)",
+    "ko": "이스라엘 왕국(사마리아)",
+    "zh": "以色列王国（撒马利亚）",
+    "ja": "イスラエル王国（サマリア）"
+   },
+   "summary": {
+    "en": "The northern Israelite kingdom held the hill country around Shechem and, from the reign of Omri, its capital Samaria (modern Sebastia near Nablus). It was a regional power under the Omride kings before the Assyrians destroyed it in 722–720 BC and deported much of its population.",
+    "ko": "북이스라엘 왕국은 셰켐 주변 구릉 지대를 차지했고, 오므리 시대부터 사마리아(나블루스 인근 오늘날의 세바스티아)를 수도로 삼았다. 오므리 왕조 때 지역 강국이었으나 기원전 722~720년 아시리아에 멸망하고 주민 상당수가 강제 이주되었다.",
+    "zh": "北方以色列王国占据示剑周围的山地，自暗利王起以撒马利亚（今纳布卢斯附近的塞巴斯蒂亚）为都。它在暗利王朝时期是地区强国，公元前722至前720年被亚述所灭，大批居民被迁徙。",
+    "ja": "北イスラエル王国はシケム周辺の丘陵地を領し、オムリの治世からサマリア（ナーブルス近郊の現セバスティア）を都とした。オムリ王朝期には地域の強国だったが、前722〜前720年にアッシリアに滅ぼされ、住民の多くが強制移住させられた。"
+   }
+  },
+  {
+   "from": -930,
+   "to": -586,
+   "kind": "state",
+   "qid": "Q48685",
+   "polity": "Kingdom of Judah",
+   "name": {
+    "en": "Kingdom of Judah",
+    "ko": "유다 왕국",
+    "zh": "犹大王国",
+    "ja": "ユダ王国"
+   },
+   "summary": {
+    "en": "Ruled by the House of David from Jerusalem, Judah held the southern hills including Bethlehem and Hebron. It survived as an Assyrian vassal after 701 BC, but rebelled against Babylon and was destroyed in 587/586 BC, when the First Temple was burned.",
+    "ko": "다윗 왕가가 예루살렘에서 다스린 유다는 베들레헴과 헤브론을 포함한 남부 구릉 지대를 차지했다. 기원전 701년 이후 아시리아의 속국으로 살아남았으나, 바빌로니아에 반란을 일으켰다가 기원전 587/586년 멸망하고 제1성전이 불탔다.",
+    "zh": "由大卫家族在耶路撒冷统治的犹大王国占有包括伯利恒和希伯伦在内的南部山地。公元前701年后它作为亚述附庸得以存续，但后来反抗巴比伦，于公元前587/586年灭亡，第一圣殿被焚毁。",
+    "ja": "ダビデ家がエルサレムから治めたユダは、ベツレヘムやヘブロンを含む南部丘陵を領した。前701年以降はアッシリアの属国として存続したが、バビロニアに反旗を翻し、前587/586年に滅亡して第一神殿が焼かれた。"
+   }
+  },
+  {
+   "from": -732,
+   "to": -609,
+   "kind": "state",
+   "qid": "Q10914393",
+   "polity": "Neo-Assyrian Empire",
+   "name": {
+    "en": "Neo-Assyrian rule",
+    "ko": "신아시리아 제국의 지배",
+    "zh": "新亚述帝国的统治",
+    "ja": "新アッシリア帝国の支配"
+   },
+   "summary": {
+    "en": "From the campaigns of Tiglath-pileser III, Assyria annexed the north as provinces such as Samerina (Samaria) and made Judah and the Philistine cities, including Gaza, into tribute-paying vassals. Assyria resettled deportees from other lands in Samaria, shaping its later population.",
+    "ko": "티글라트필레세르 3세의 원정 이후 아시리아는 북부를 사메리나(사마리아) 등 속주로 병합하고, 유다와 가자를 비롯한 블레셋 도시들을 조공을 바치는 속국으로 삼았다. 아시리아는 다른 지역의 이주민을 사마리아에 정착시켜 이후 이 지역 주민 구성에 영향을 주었다.",
+    "zh": "自提格拉特帕拉沙尔三世的征战起，亚述把北方吞并为撒马利亚（萨梅里纳）等行省，并使犹大和包括加沙在内的非利士城邦成为纳贡附庸。亚述把其他地区的被迁徙者安置在撒马利亚，影响了此后的人口构成。",
+    "ja": "ティグラト・ピレセル3世の遠征以来、アッシリアは北部をサメリナ（サマリア）などの州として併合し、ユダやガザを含むペリシテ諸都市を貢納する属国とした。アッシリアは他地域からの移住者をサマリアに入植させ、後の住民構成に影響を与えた。"
+   }
+  },
+  {
+   "from": -605,
+   "to": -539,
+   "kind": "state",
+   "qid": "Q624887",
+   "polity": "Neo-Babylonian Empire",
+   "name": {
+    "en": "Neo-Babylonian rule",
+    "ko": "신바빌로니아 제국의 지배",
+    "zh": "新巴比伦帝国的统治",
+    "ja": "新バビロニアの支配"
+   },
+   "summary": {
+    "en": "Nebuchadnezzar II took the Levant from Egypt, crushed the Philistine cities and Judah, and destroyed Jerusalem in 587/586 BC. Much of Judah's elite was carried into exile in Babylon, while the rest of the population remained under Babylonian governors.",
+    "ko": "네부카드네자르 2세는 이집트로부터 레반트를 빼앗고 블레셋 도시들과 유다를 무너뜨렸으며, 기원전 587/586년 예루살렘을 파괴했다. 유다 지배층 상당수가 바빌론으로 끌려갔고, 나머지 주민은 바빌로니아 총독 아래 남았다.",
+    "zh": "尼布甲尼撒二世从埃及手中夺取黎凡特，摧毁了非利士城邦和犹大，并于公元前587/586年毁灭耶路撒冷。犹大的大批上层人士被掳往巴比伦，其余居民留在巴比伦总督治下。",
+    "ja": "ネブカドネザル2世はエジプトからレヴァントを奪い、ペリシテ諸都市とユダを打ち破って前587/586年にエルサレムを破壊した。ユダの支配層の多くがバビロンに連行され、残る住民はバビロニアの総督の下に置かれた。"
+   }
+  },
+  {
+   "from": -539,
+   "to": -332,
+   "kind": "state",
+   "qid": "Q389688",
+   "polity": "Achaemenid Empire",
+   "name": {
+    "en": "Achaemenid Persian rule",
+    "ko": "아케메네스 페르시아의 지배",
+    "zh": "阿契美尼德波斯的统治",
+    "ja": "アケメネス朝ペルシアの支配"
+   },
+   "summary": {
+    "en": "Under Persian rule the land formed part of the satrapy 'Beyond the River', with the small provinces of Yehud (Judah) and Samaria. Exiles were allowed to return and rebuild the Temple in Jerusalem, and a rival Samaritan sanctuary was built on Mount Gerizim; Gaza became a major trading port for Arabian incense.",
+    "ko": "페르시아 지배 아래 이 땅은 '강 건너편' 태수령의 일부가 되었고, 작은 속주인 예후드(유다)와 사마리아가 있었다. 포로민의 귀환과 예루살렘 성전 재건이 허용되었고, 그리심 산에는 사마리아인의 성소가 세워졌으며, 가자는 아라비아 유향 교역의 주요 항구가 되었다.",
+    "zh": "在波斯统治下，这片土地属于“河西”总督辖区，设有耶胡德（犹大）和撒马利亚两个小行省。被掳者获准返回并重建耶路撒冷圣殿，撒马利亚人则在基利心山修建了自己的圣所；加沙成为阿拉伯乳香贸易的重要港口。",
+    "ja": "ペルシアの支配下でこの地は「川向こう」州の一部となり、小州イェフド（ユダ）とサマリアが置かれた。捕囚民の帰還とエルサレム神殿の再建が許され、ゲリジム山にはサマリア人の聖所が築かれ、ガザはアラビアの乳香交易の主要港となった。"
+   }
+  },
+  {
+   "from": -516,
+   "to": 70,
+   "kind": "period",
+   "qid": "Q2911414",
+   "polity": null,
+   "name": {
+    "en": "Second Temple period",
+    "ko": "제2성전기",
+    "zh": "第二圣殿时期",
+    "ja": "第二神殿時代"
+   },
+   "summary": {
+    "en": "The era between the rebuilding of the Temple in Jerusalem (c. 516 BC) and its destruction by Rome in AD 70. It saw the formation of much of the Hebrew Bible, the rise of Jewish sects such as the Pharisees, Sadducees and Essenes, and the life of Jesus of Nazareth.",
+    "ko": "예루살렘 성전 재건(기원전 516년경)부터 서기 70년 로마에 의한 파괴까지의 시대이다. 히브리어 성서의 상당 부분이 형성되었고, 바리새파·사두개파·에세네파 같은 유대교 분파가 등장했으며, 나사렛 예수가 활동했다.",
+    "zh": "指从耶路撒冷圣殿重建（约公元前516年）到公元70年被罗马摧毁之间的时代。这一时期《希伯来圣经》的大部分内容成形，法利赛派、撒都该派、艾赛尼派等犹太教派兴起，拿撒勒人耶稣也生活于此时。",
+    "ja": "エルサレム神殿の再建（前516年頃）から後70年のローマによる破壊までの時代。ヘブライ語聖書の多くが成立し、ファリサイ派・サドカイ派・エッセネ派などのユダヤ教諸派が興り、ナザレのイエスが活動した。"
+   }
+  },
+  {
+   "from": -332,
+   "to": -200,
+   "kind": "state",
+   "qid": "Q2320005",
+   "polity": "Ptolemaic Kingdom",
+   "name": {
+    "en": "Alexander and Ptolemaic rule",
+    "ko": "알렉산드로스와 프톨레마이오스 왕조",
+    "zh": "亚历山大与托勒密王朝",
+    "ja": "アレクサンドロスとプトレマイオス朝"
+   },
+   "summary": {
+    "en": "Alexander the Great conquered the region in 332 BC, besieging Gaza. After his death the Ptolemies of Egypt held it for most of the 3rd century BC, fighting five 'Syrian Wars' against the Seleucids; Greek cities and Hellenistic culture spread.",
+    "ko": "알렉산드로스 대왕은 기원전 332년 가자를 포위하며 이 지역을 정복했다. 그의 사후 이집트의 프톨레마이오스 왕조가 기원전 3세기 대부분 동안 이곳을 지배하며 셀레우코스 왕조와 다섯 차례의 '시리아 전쟁'을 벌였고, 그리스 도시와 헬레니즘 문화가 퍼졌다.",
+    "zh": "亚历山大大帝于公元前332年围攻加沙，征服了这一地区。他死后，埃及托勒密王朝在公元前3世纪大部分时间里统治此地，与塞琉古王朝进行了五次“叙利亚战争”，希腊式城市和希腊化文化随之传播。",
+    "ja": "アレクサンドロス大王は前332年にガザを包囲してこの地域を征服した。彼の死後、エジプトのプトレマイオス朝が前3世紀の大半を通じて支配し、セレウコス朝と5度の「シリア戦争」を戦い、ギリシア風都市とヘレニズム文化が広まった。"
+   }
+  },
+  {
+   "from": -200,
+   "to": -141,
+   "kind": "state",
+   "qid": "Q705904",
+   "polity": "Seleucid Empire",
+   "name": {
+    "en": "Seleucid rule",
+    "ko": "셀레우코스 왕조의 지배",
+    "zh": "塞琉古王朝的统治",
+    "ja": "セレウコス朝の支配"
+   },
+   "summary": {
+    "en": "After the Battle of Panium (200 BC) the Seleucid kings of Syria took the land. Antiochus IV's suppression of Jewish worship in Jerusalem provoked the Maccabean revolt in 167 BC, which eventually ended Seleucid control of Judea.",
+    "ko": "파니온 전투(기원전 200년) 이후 시리아의 셀레우코스 왕들이 이 땅을 차지했다. 안티오코스 4세가 예루살렘에서 유대교 예배를 억압하자 기원전 167년 마카베오 항쟁이 일어났고, 결국 유대에 대한 셀레우코스의 지배가 끝났다.",
+    "zh": "帕尼翁之战（公元前200年）后，叙利亚的塞琉古诸王取得此地。安条克四世在耶路撒冷压制犹太教崇拜，引发公元前167年的马加比起义，最终结束了塞琉古对犹地亚的控制。",
+    "ja": "パニオンの戦い（前200年）の後、シリアのセレウコス朝の王たちがこの地を得た。アンティオコス4世がエルサレムでユダヤ教の礼拝を弾圧すると前167年にマカバイ戦争が起こり、やがてユダヤに対するセレウコス朝の支配は終わった。"
+   }
+  },
+  {
+   "from": -141,
+   "to": -37,
+   "kind": "state",
+   "qid": "Q10359001",
+   "polity": "Judea",
+   "name": {
+    "en": "Hasmonean kingdom",
+    "ko": "하스몬 왕국",
+    "zh": "哈斯蒙尼王国",
+    "ja": "ハスモン朝"
+   },
+   "summary": {
+    "en": "The Maccabee family founded the Hasmonean dynasty, which won independence around 141 BC and expanded over Samaria, Idumea and the coast, destroying the Samaritan temple on Mount Gerizim and the city of Gaza. Civil war between Hasmonean brothers invited Roman intervention in 63 BC, and the dynasty ended when Herod took Jerusalem in 37 BC.",
+    "ko": "마카베오 가문은 하스몬 왕조를 세워 기원전 141년경 독립을 쟁취했고, 사마리아·이두매·해안 지역으로 확장하며 그리심 산의 사마리아 성전과 가자를 파괴했다. 형제간 내전은 기원전 63년 로마의 개입을 불렀고, 기원전 37년 헤롯이 예루살렘을 장악하며 왕조가 끝났다.",
+    "zh": "马加比家族建立哈斯蒙尼王朝，约公元前141年赢得独立，并向撒马利亚、以土买和沿海扩张，摧毁了基利心山的撒马利亚圣殿和加沙城。王室兄弟内战招致公元前63年罗马的干预，公元前37年希律攻占耶路撒冷，王朝告终。",
+    "ja": "マカバイ家はハスモン朝を開き、前141年頃に独立を勝ち取って、サマリア・イドマヤ・海岸部へ拡大し、ゲリジム山のサマリア神殿とガザ市を破壊した。兄弟間の内戦は前63年にローマの介入を招き、前37年にヘロデがエルサレムを奪って王朝は終わった。"
+   }
+  },
+  {
+   "from": -63,
+   "to": 395,
+   "kind": "state",
+   "qid": null,
+   "polity": "Roman Empire",
+   "name": {
+    "en": "Roman Judaea and Syria Palaestina",
+    "ko": "로마령 유대와 시리아 팔라이스티나",
+    "zh": "罗马犹地亚与叙利亚-巴勒斯坦",
+    "ja": "ローマ領ユダヤとシリア・パレスティナ"
+   },
+   "summary": {
+    "en": "Rome dominated the land from Pompey's conquest in 63 BC, first through client kings and from AD 6 as the province of Judaea. Two great Jewish revolts were crushed (AD 66–73 and 132–135); Jerusalem was destroyed in 70 and refounded as Aelia Capitolina, and the province was renamed Syria Palaestina. Christianity emerged here in the 1st century.",
+    "ko": "기원전 63년 폼페이우스의 정복 이후 로마가 이 땅을 지배했으며, 처음에는 종속 왕을 통해, 서기 6년부터는 유대 속주로 다스렸다. 두 차례의 대규모 유대인 반란(66~73년, 132~135년)이 진압되었고, 예루살렘은 70년에 파괴된 뒤 아일리아 카피톨리나로 재건되었으며 속주 이름은 시리아 팔라이스티나로 바뀌었다. 기독교가 1세기에 이곳에서 탄생했다.",
+    "zh": "自公元前63年庞培征服起，罗马先通过附庸王、自公元6年起以犹地亚行省的形式统治此地。两次大规模犹太起义（66—73年、132—135年）均被镇压；耶路撒冷于70年被毁，后重建为埃利亚·卡皮托利纳，行省更名为叙利亚-巴勒斯坦。基督教于1世纪在此诞生。",
+    "ja": "前63年のポンペイウスによる征服以来ローマがこの地を支配し、初めは従属王を通じて、後6年からはユダヤ属州として統治した。2度のユダヤ大反乱（66〜73年、132〜135年）は鎮圧され、エルサレムは70年に破壊された後アエリア・カピトリナとして再建され、属州名はシリア・パレスティナに改められた。キリスト教は1世紀にこの地で生まれた。"
+   }
+  },
+  {
+   "from": -37,
+   "to": -4,
+   "kind": "state",
+   "qid": "Q16000109",
+   "polity": null,
+   "name": {
+    "en": "Herodian kingdom",
+    "ko": "헤롯 왕국",
+    "zh": "希律王国",
+    "ja": "ヘロデ王国"
+   },
+   "summary": {
+    "en": "Herod the Great ruled as a Roman client king, launching vast building projects: the rebuilt Temple in Jerusalem, the fortress-palace of Herodium near Bethlehem and the enclosure over the Cave of the Patriarchs in Hebron. After his death in 4 BC his kingdom was divided among his sons.",
+    "ko": "헤롯 대왕은 로마의 종속 왕으로 통치하며 예루살렘 성전 재건, 베들레헴 인근 헤로디움 요새 궁전, 헤브론 막벨라 굴 위의 성벽 건축 등 대규모 건설 사업을 벌였다. 기원전 4년 그가 죽은 뒤 왕국은 아들들에게 분할되었다.",
+    "zh": "大希律作为罗马的附庸王进行统治，开展大规模建设：重建耶路撒冷圣殿，在伯利恒附近修建希律堡要塞宫殿，并在希伯伦的列祖之墓上方修筑围墙。公元前4年他去世后，王国被分给其诸子。",
+    "ja": "ヘロデ大王はローマの従属王として統治し、エルサレム神殿の改築、ベツレヘム近郊のヘロディオン要塞宮殿、ヘブロンの族長の墓を囲む建造物など大規模な建設事業を進めた。前4年に彼が死ぬと、王国は息子たちに分割された。"
+   }
+  },
+  {
+   "from": 395,
+   "to": 638,
+   "kind": "state",
+   "qid": "Q12544",
+   "polity": "Eastern Roman Empire",
+   "name": {
+    "en": "Byzantine Palaestina",
+    "ko": "비잔티움령 팔라이스티나",
+    "zh": "拜占庭巴勒斯坦",
+    "ja": "ビザンツ領パレスティナ"
+   },
+   "summary": {
+    "en": "As part of the Eastern Roman Empire, Palestine became the Christian Holy Land, filled with churches, monasteries such as Mar Saba and pilgrims; Jerusalem became a patriarchate in 451. Gaza was a prosperous city famous for its school of rhetoric. Samaritan revolts and the Persian occupation of 614–629 weakened Byzantine rule before the Arab conquest.",
+    "ko": "동로마 제국의 일부로서 팔레스타인은 교회와 마르 사바 같은 수도원, 순례자로 가득한 기독교 성지가 되었고, 예루살렘은 451년 총대주교구가 되었다. 가자는 수사학 학파로 유명한 번영 도시였다. 사마리아인의 반란과 614~629년 페르시아 점령으로 약화된 비잔티움 지배는 아랍 정복으로 끝났다.",
+    "zh": "作为东罗马帝国的一部分，巴勒斯坦成为基督教圣地，教堂、玛尔萨巴等修道院和朝圣者遍布各地；耶路撒冷于451年成为宗主教区。加沙是以修辞学派闻名的繁荣城市。撒马利亚人起义和614—629年的波斯占领削弱了拜占庭统治，随后阿拉伯人征服此地。",
+    "ja": "東ローマ帝国の一部としてパレスチナは教会やマル・サバなどの修道院、巡礼者で満ちたキリスト教の聖地となり、エルサレムは451年に総主教座となった。ガザは修辞学校で名高い繁栄都市だった。サマリア人の反乱と614〜629年のペルシア占領で弱体化したビザンツ支配は、アラブの征服で終わった。"
+   }
+  },
+  {
+   "from": 614,
+   "to": 629,
+   "kind": "state",
+   "qid": null,
+   "polity": "Sasanian Empire",
+   "name": {
+    "en": "Sasanian occupation",
+    "ko": "사산 왕조의 점령",
+    "zh": "萨珊王朝的占领",
+    "ja": "サーサーン朝の占領"
+   },
+   "summary": {
+    "en": "During the last great war between Byzantium and Persia, Sasanian forces captured Jerusalem in 614 and carried off the relic of the True Cross. Emperor Heraclius regained the region by treaty in 628–629 and restored the relic to Jerusalem.",
+    "ko": "비잔티움과 페르시아의 마지막 대전쟁 중 사산 왕조 군대가 614년 예루살렘을 함락하고 '참십자가' 성유물을 가져갔다. 헤라클리우스 황제는 628~629년 조약으로 이 지역을 되찾고 성유물을 예루살렘에 돌려놓았다.",
+    "zh": "在拜占庭与波斯最后一场大战中，萨珊军队于614年攻陷耶路撒冷并掠走“真十字架”圣物。皇帝希拉克略于628—629年通过和约收复该地区，并将圣物送回耶路撒冷。",
+    "ja": "ビザンツとペルシアの最後の大戦争の中で、サーサーン朝軍は614年にエルサレムを攻略し「聖十字架」の聖遺物を持ち去った。皇帝ヘラクレイオスは628〜629年に講和でこの地域を回復し、聖遺物をエルサレムに戻した。"
+   }
+  },
+  {
+   "from": 634,
+   "to": 661,
+   "kind": "state",
+   "qid": "Q12490507",
+   "polity": "Rashidun Caliphate",
+   "name": {
+    "en": "Rashidun Caliphate",
+    "ko": "정통 칼리파 시대",
+    "zh": "正统哈里发国",
+    "ja": "正統カリフ時代"
+   },
+   "summary": {
+    "en": "Arab Muslim armies entered Palestine in 634, defeating Byzantine forces near Gaza and at Ajnadayn, and took Jerusalem by capitulation around 637–638. The province of Filastin was organised as a military district (jund), and Christians, Jews and Samaritans were granted protected status.",
+    "ko": "아랍 무슬림 군대는 634년 팔레스타인에 들어와 가자 인근과 아즈나다인에서 비잔티움군을 무찌르고, 637~638년경 항복 협정으로 예루살렘을 얻었다. 필라스틴 주는 군관구(준드)로 조직되었고, 기독교인·유대인·사마리아인은 보호민 지위를 받았다.",
+    "zh": "阿拉伯穆斯林军队于634年进入巴勒斯坦，在加沙附近和阿杰纳迪恩击败拜占庭军，约637—638年通过受降协议取得耶路撒冷。菲拉斯丁省被设为军区（准德），基督徒、犹太人和撒马利亚人获得受保护民身份。",
+    "ja": "アラブ・ムスリム軍は634年にパレスチナに入り、ガザ近郊とアジュナーダインでビザンツ軍を破り、637〜638年頃に降伏協定でエルサレムを得た。フィラスティーン州は軍管区（ジュンド）として組織され、キリスト教徒・ユダヤ教徒・サマリア人は庇護民の地位を与えられた。"
+   }
+  },
+  {
+   "from": 661,
+   "to": 750,
+   "kind": "state",
+   "qid": "Q8575586",
+   "polity": "Umayyad Caliphate",
+   "name": {
+    "en": "Umayyad Caliphate",
+    "ko": "우마이야 칼리파국",
+    "zh": "倭马亚王朝",
+    "ja": "ウマイヤ朝"
+   },
+   "summary": {
+    "en": "Ruling from Damascus, the Umayyads lavished attention on Jerusalem, building the Dome of the Rock and the al-Aqsa Mosque on the Haram al-Sharif. Near Jericho the caliphs built the palace of Khirbat al-Mafjar; Arabic and Islam gradually spread among the population.",
+    "ko": "다마스쿠스에서 통치한 우마이야 왕조는 예루살렘에 큰 관심을 기울여 하람 알샤리프에 바위의 돔과 알아크사 모스크를 세웠다. 예리코 인근에는 칼리파들의 궁전 히르바트 알마프자르가 지어졌고, 아랍어와 이슬람이 점차 주민 사이에 퍼졌다.",
+    "zh": "以大马士革为都的倭马亚王朝十分重视耶路撒冷，在尊贵禁地（哈拉姆谢里夫）上修建了岩石圆顶和阿克萨清真寺。哈里发们在杰里科附近建造了希尔拜特·迈夫杰尔宫，阿拉伯语和伊斯兰教逐渐在居民中传播。",
+    "ja": "ダマスカスから統治したウマイヤ朝はエルサレムを重視し、ハラム・アッシャリーフに岩のドームとアクサー・モスクを建てた。エリコ近郊にはカリフの宮殿ヒルバト・アル・マフジャルが築かれ、アラビア語とイスラームが次第に住民に広まった。"
+   }
+  },
+  {
+   "from": 750,
+   "to": 970,
+   "kind": "state",
+   "qid": "Q12536",
+   "polity": "Abbasid Caliphate",
+   "name": {
+    "en": "Abbasid Caliphate and Egyptian dynasties",
+    "ko": "아바스 칼리파국과 이집트 왕조들",
+    "zh": "阿拔斯王朝与埃及诸王朝",
+    "ja": "アッバース朝とエジプト諸王朝"
+   },
+   "summary": {
+    "en": "Under the Abbasids, ruling from Baghdad, Palestine became a provincial backwater, often contested by Egypt-based dynasties: the Tulunids (878–905) and later the Ikhshidids (935–969). The jurist al-Shafi'i, born in Gaza, was among its notable figures.",
+    "ko": "바그다드에서 통치한 아바스 왕조 아래 팔레스타인은 변방 속주가 되었고, 툴룬 왕조(878~905)와 이후 이흐시드 왕조(935~969) 등 이집트 기반 왕조들과 자주 각축의 대상이 되었다. 가자 출신의 법학자 알샤피이가 대표적 인물이다.",
+    "zh": "在以巴格达为都的阿拔斯王朝统治下，巴勒斯坦沦为边缘行省，常遭以埃及为基地的王朝争夺，如图伦王朝（878—905年）和后来的伊赫什德王朝（935—969年）。出生于加沙的法学家沙斐仪是这一时期的著名人物。",
+    "ja": "バグダードから統治したアッバース朝の下でパレスチナは辺境の州となり、トゥールーン朝（878〜905年）や後のイフシード朝（935〜969年）などエジプトを拠点とする王朝としばしば争奪された。ガザ生まれの法学者シャーフィイーがこの時代の代表的人物である。"
+   }
+  },
+  {
+   "from": 878,
+   "to": 905,
+   "kind": "state",
+   "qid": "Q726798",
+   "polity": "Tulunids",
+   "name": {
+    "en": "Tulunid rule",
+    "ko": "툴룬 왕조의 지배",
+    "zh": "图伦王朝的统治",
+    "ja": "トゥールーン朝の支配"
+   },
+   "summary": {
+    "en": "Ahmad ibn Tulun, the autonomous governor of Egypt, extended his rule over Palestine and Syria in 878. His dynasty held the region until the Abbasids restored direct control in 905.",
+    "ko": "이집트의 자치 총독 아흐마드 이븐 툴룬은 878년 팔레스타인과 시리아로 지배를 넓혔다. 그의 왕조는 905년 아바스 왕조가 직접 지배를 회복할 때까지 이 지역을 다스렸다.",
+    "zh": "埃及的自治总督艾哈迈德·伊本·图伦于878年将统治扩展到巴勒斯坦和叙利亚。其王朝统治该地区，直到905年阿拔斯王朝恢复直接控制。",
+    "ja": "エジプトの自立総督アフマド・イブン・トゥールーンは878年にパレスチナとシリアへ支配を広げた。その王朝は905年にアッバース朝が直接支配を回復するまでこの地域を治めた。"
+   }
+  },
+  {
+   "from": 970,
+   "to": 1099,
+   "kind": "state",
+   "qid": "Q160307",
+   "polity": "Fatimid Caliphate",
+   "name": {
+    "en": "Fatimid Caliphate",
+    "ko": "파티마 칼리파국",
+    "zh": "法蒂玛王朝",
+    "ja": "ファーティマ朝"
+   },
+   "summary": {
+    "en": "The Ismaili Fatimid caliphs of Cairo conquered Palestine around 970 and held it, with interruptions, for over a century. Their rule saw the destruction of the Church of the Holy Sepulchre under al-Hakim in 1009, Bedouin revolts and devastating earthquakes, before Seljuk Turks seized much of the region in the 1070s.",
+    "ko": "카이로의 이스마일파 파티마 칼리파들은 970년경 팔레스타인을 정복하고 중단을 겪으며 한 세기 넘게 지배했다. 이 시기에 1009년 알하킴의 성묘 교회 파괴, 베두인 반란, 큰 지진이 있었고, 1070년대에는 셀주크 튀르크가 지역 대부분을 차지했다.",
+    "zh": "开罗的伊斯玛仪派法蒂玛哈里发约于970年征服巴勒斯坦，断续统治了一个多世纪。期间发生了1009年哈基姆下令摧毁圣墓教堂、贝都因人叛乱和破坏性地震；11世纪70年代塞尔柱突厥人夺取了该地区大部分。",
+    "ja": "カイロのイスマーイール派ファーティマ朝カリフは970年頃にパレスチナを征服し、中断を挟みつつ1世紀以上支配した。この間、1009年のハーキムによる聖墳墓教会の破壊、ベドウィンの反乱、大地震があり、1070年代にはセルジューク・トルコが地域の大半を奪った。"
+   }
+  },
+  {
+   "from": 1073,
+   "to": 1098,
+   "kind": "state",
+   "qid": "Q3708094",
+   "polity": "Great Seljuk Empire",
+   "name": {
+    "en": "Seljuk Turkmen rule",
+    "ko": "셀주크 튀르크멘의 지배",
+    "zh": "塞尔柱突厥的统治",
+    "ja": "セルジューク・トルクメンの支配"
+   },
+   "summary": {
+    "en": "Turkmen commanders allied to the Seljuk sultans, beginning with Atsiz ibn Uvaq, took Jerusalem in 1073 and much of inland Palestine. The Fatimids recaptured Jerusalem in 1098, only a year before the Crusaders arrived.",
+    "ko": "셀주크 술탄과 연합한 튀르크멘 지휘관들은 아트시즈 이븐 우바크를 시작으로 1073년 예루살렘과 팔레스타인 내륙 대부분을 장악했다. 파티마 왕조는 십자군 도착 1년 전인 1098년 예루살렘을 되찾았다.",
+    "zh": "以阿特西兹·伊本·乌瓦克为首、与塞尔柱苏丹结盟的突厥蛮将领于1073年夺取耶路撒冷和巴勒斯坦内陆大部分地区。法蒂玛王朝于1098年收复耶路撒冷，仅一年后十字军便兵临城下。",
+    "ja": "セルジューク朝スルタンと結んだトルクメンの指揮官たちは、アトスズ・イブン・ウヴァクを皮切りに1073年にエルサレムとパレスチナ内陸の大半を奪った。ファーティマ朝は十字軍到来のわずか1年前の1098年にエルサレムを奪回した。"
+   }
+  },
+  {
+   "from": 1099,
+   "to": 1244,
+   "kind": "state",
+   "qid": "Q55502",
+   "polity": "Kingdom of Jerusalem",
+   "name": {
+    "en": "Crusader Kingdom of Jerusalem",
+    "ko": "십자군 예루살렘 왕국",
+    "zh": "十字军耶路撒冷王国",
+    "ja": "十字軍エルサレム王国"
+   },
+   "summary": {
+    "en": "Founded after the First Crusade took Jerusalem in 1099, the Latin kingdom ruled the inland hills, Hebron, Bethlehem and Gaza until Saladin's conquest in 1187. Afterwards it survived mainly on the coast, briefly regaining Jerusalem by treaty from 1229 until the city was sacked in 1244.",
+    "ko": "1099년 제1차 십자군이 예루살렘을 점령한 뒤 세워진 라틴 왕국은 1187년 살라딘의 정복 때까지 내륙 구릉 지대와 헤브론·베들레헴·가자를 지배했다. 이후 주로 해안 지역에서 존속했으며, 1229년 조약으로 예루살렘을 잠시 되찾았으나 1244년 도시가 약탈당했다.",
+    "zh": "第一次十字军于1099年攻占耶路撒冷后建立的拉丁王国统治内陆山地、希伯伦、伯利恒和加沙，直至1187年萨拉丁征服。此后它主要在沿海存续，1229年曾依条约短暂收回耶路撒冷，直到1244年该城遭洗劫。",
+    "ja": "1099年に第1回十字軍がエルサレムを占領した後に建てられたラテン王国は、1187年のサラディンの征服まで内陸の丘陵、ヘブロン、ベツレヘム、ガザを支配した。その後は主に海岸部で存続し、1229年に条約でエルサレムを一時回復したが、1244年に同市は略奪された。"
+   }
+  },
+  {
+   "from": 1187,
+   "to": 1250,
+   "kind": "state",
+   "qid": "Q180114",
+   "polity": "Ayyubid Sultanate",
+   "name": {
+    "en": "Ayyubid Sultanate",
+    "ko": "아이유브 왕조",
+    "zh": "阿尤布王朝",
+    "ja": "アイユーブ朝"
+   },
+   "summary": {
+    "en": "Saladin's victory at Hattin in 1187 brought Jerusalem and most of Palestine under the Ayyubid dynasty. His successors quarrelled among themselves and briefly ceded Jerusalem to Frederick II, but crushed the Crusaders and their allies at La Forbie near Gaza in 1244.",
+    "ko": "1187년 하틴 전투에서 살라딘이 승리하면서 예루살렘과 팔레스타인 대부분이 아이유브 왕조의 지배에 들어갔다. 그의 후계자들은 서로 다투며 예루살렘을 프리드리히 2세에게 잠시 넘기기도 했으나, 1244년 가자 인근 라포르비 전투에서 십자군과 동맹군을 격파했다.",
+    "zh": "1187年萨拉丁在哈丁之战获胜，使耶路撒冷和巴勒斯坦大部分归于阿尤布王朝。其继承者内斗不休，一度把耶路撒冷让给腓特烈二世，但在1244年于加沙附近的拉福比之战大败十字军及其盟友。",
+    "ja": "1187年のヒッティーンの戦いでサラディンが勝利し、エルサレムとパレスチナの大半がアイユーブ朝の支配下に入った。後継者たちは内紛を続け、エルサレムを一時フリードリヒ2世に譲ったが、1244年にガザ近郊のラ・フォルビーの戦いで十字軍とその同盟軍を撃破した。"
+   }
+  },
+  {
+   "from": 1250,
+   "to": 1516,
+   "kind": "state",
+   "qid": "Q282428",
+   "polity": "Mamluk Sultanate",
+   "name": {
+    "en": "Mamluk Sultanate",
+    "ko": "맘루크 술탄국",
+    "zh": "马穆鲁克苏丹国",
+    "ja": "マムルーク朝"
+   },
+   "summary": {
+    "en": "The Mamluk sultans of Cairo expelled the last Crusaders and ruled Palestine for over 250 years, dividing it among districts governed from Gaza, Jerusalem, Nablus and Safed. They endowed Jerusalem and Hebron with madrasas, markets and hospices, much of which still shapes the Old City today.",
+    "ko": "카이로의 맘루크 술탄들은 마지막 십자군을 몰아내고 250년 넘게 팔레스타인을 지배했으며, 가자·예루살렘·나블루스·사파드에서 다스리는 구역으로 나누었다. 이들은 예루살렘과 헤브론에 마드라사·시장·순례자 숙소를 세웠고, 그 상당 부분이 오늘날 구시가지의 모습을 이룬다.",
+    "zh": "开罗的马穆鲁克苏丹驱逐了最后的十字军，统治巴勒斯坦逾250年，把它划分为由加沙、耶路撒冷、纳布卢斯和萨法德管辖的区域。他们在耶路撒冷和希伯伦兴建了经学院、市场和客栈，其中许多至今仍塑造着老城的面貌。",
+    "ja": "カイロのマムルーク朝スルタンは最後の十字軍を追放し、250年以上パレスチナを支配して、ガザ・エルサレム・ナーブルス・サファドから治める地区に分けた。彼らはエルサレムとヘブロンにマドラサや市場、巡礼宿を寄進し、その多くがいまも旧市街の姿を形づくっている。"
+   }
+  },
+  {
+   "from": 1516,
+   "to": 1917,
+   "kind": "state",
+   "qid": "Q12560",
+   "polity": "Ottoman Empire",
+   "name": {
+    "en": "Ottoman Palestine",
+    "ko": "오스만 제국령 팔레스타인",
+    "zh": "奥斯曼巴勒斯坦",
+    "ja": "オスマン帝国領パレスチナ"
+   },
+   "summary": {
+    "en": "For four centuries Palestine was part of the Ottoman Empire, organised into sanjaks of Jerusalem, Gaza, Nablus and others. Local families such as the Ridwans of Gaza and the notables of Jabal Nablus wielded great power; 19th-century Tanzimat reforms, the autonomous Mutasarrifate of Jerusalem and growing European involvement transformed the country.",
+    "ko": "4세기 동안 팔레스타인은 오스만 제국의 일부로서 예루살렘·가자·나블루스 등의 산자크로 나뉘었다. 가자의 리드완 가문과 자발 나블루스의 명문가 같은 지역 세력이 큰 힘을 가졌으며, 19세기 탄지마트 개혁과 자치적인 예루살렘 무타사리플릭, 유럽의 관여 확대가 이 땅을 변화시켰다.",
+    "zh": "四个世纪里，巴勒斯坦是奥斯曼帝国的一部分，划分为耶路撒冷、加沙、纳布卢斯等桑贾克。加沙的里德万家族、纳布卢斯山地的显贵等地方势力权势显赫；19世纪的坦齐马特改革、享有特殊地位的耶路撒冷独立州以及欧洲日益深入的介入改变了这片土地。",
+    "ja": "4世紀にわたりパレスチナはオスマン帝国の一部として、エルサレム・ガザ・ナーブルスなどの県（サンジャク）に分けられた。ガザのリドワーン家やジャバル・ナーブルスの名望家などの地方勢力が大きな力を持ち、19世紀のタンジマート改革、自立的なエルサレム特別県、ヨーロッパの関与の拡大がこの地を変えた。"
+   }
+  },
+  {
+   "from": 1831,
+   "to": 1840,
+   "kind": "state",
+   "qid": null,
+   "polity": "Muhammad Ali dynasty",
+   "name": {
+    "en": "Egyptian occupation under Ibrahim Pasha",
+    "ko": "이브라힘 파샤의 이집트 점령",
+    "zh": "易卜拉欣帕夏的埃及占领",
+    "ja": "イブラーヒーム・パシャのエジプト占領"
+   },
+   "summary": {
+    "en": "Ibrahim Pasha, son of Muhammad Ali of Egypt, seized Palestine and Syria from the Ottomans in 1831. His centralising reforms, conscription and disarmament provoked the 1834 peasants' revolt, which he crushed; European powers forced the Egyptians to withdraw in 1840.",
+    "ko": "이집트 무함마드 알리의 아들 이브라힘 파샤는 1831년 오스만 제국으로부터 팔레스타인과 시리아를 빼앗았다. 그의 중앙집권 개혁과 징병, 무장 해제는 1834년 농민 반란을 불렀고 그는 이를 진압했으나, 1840년 유럽 열강의 압력으로 이집트군은 철수했다.",
+    "zh": "埃及穆罕默德·阿里之子易卜拉欣帕夏于1831年从奥斯曼手中夺取巴勒斯坦和叙利亚。他推行中央集权改革、征兵和收缴武器，引发1834年农民起义并将其镇压；1840年欧洲列强迫使埃及军撤出。",
+    "ja": "エジプトのムハンマド・アリーの息子イブラーヒーム・パシャは1831年にオスマン帝国からパレスチナとシリアを奪った。中央集権的改革や徴兵、武装解除は1834年の農民反乱を招き、彼はこれを鎮圧したが、1840年に欧州列強の圧力でエジプト軍は撤退した。"
+   }
+  },
+  {
+   "from": 1917,
+   "to": 1948,
+   "kind": "colonial",
+   "qid": "Q8680",
+   "polity": "British Colonial Empire",
+   "name": {
+    "en": "British Mandate for Palestine",
+    "ko": "영국 위임통치령 팔레스타인",
+    "zh": "英属巴勒斯坦托管地",
+    "ja": "イギリス委任統治領パレスチナ"
+   },
+   "summary": {
+    "en": "British forces conquered Palestine in 1917–1918, and the League of Nations confirmed a British Mandate in 1922 that incorporated the Balfour Declaration's promise of a Jewish national home. Jewish immigration and land purchases grew while Palestinian Arabs demanded independence, leading to riots in 1920 and 1929, the Arab revolt of 1936–39 and, after the Second World War, the collapse of the Mandate.",
+    "ko": "영국군은 1917~1918년 팔레스타인을 정복했고, 국제연맹은 1922년 밸푸어 선언의 유대인 민족 고향 약속을 담은 영국 위임통치를 승인했다. 유대인 이민과 토지 매입이 늘어나는 한편 팔레스타인 아랍인은 독립을 요구했고, 이는 1920년과 1929년의 폭동, 1936~39년 아랍 반란, 그리고 제2차 세계 대전 이후 위임통치의 붕괴로 이어졌다.",
+    "zh": "英军于1917—1918年征服巴勒斯坦，国际联盟于1922年确认英国委任统治，其中纳入了《贝尔福宣言》关于犹太民族家园的承诺。犹太移民和土地购买不断增加，巴勒斯坦阿拉伯人则要求独立，由此引发1920年和1929年的骚乱、1936—1939年阿拉伯大起义，并在二战后导致委任统治崩溃。",
+    "ja": "英軍は1917〜1918年にパレスチナを征服し、国際連盟は1922年、バルフォア宣言のユダヤ民族郷土の約束を盛り込んだイギリス委任統治を承認した。ユダヤ人の移民と土地購入が増える一方、パレスチナのアラブ人は独立を求め、1920年と1929年の暴動、1936〜39年のアラブ大反乱、第二次世界大戦後の委任統治の崩壊へとつながった。"
+   }
+  },
+  {
+   "from": 1948,
+   "to": 1967,
+   "kind": "state",
+   "qid": "Q810",
+   "polity": "Kingdom of Jordan",
+   "name": {
+    "en": "Jordanian West Bank",
+    "ko": "요르단령 요르단강 서안",
+    "zh": "约旦治下的约旦河西岸",
+    "ja": "ヨルダン統治下のヨルダン川西岸"
+   },
+   "summary": {
+    "en": "After the 1948 war, Transjordan's Arab Legion held the West Bank and East Jerusalem, including the Old City. Jordan formally annexed the territory in 1950, a step recognised by few states, and granted Jordanian citizenship to its Palestinian residents, including many refugees.",
+    "ko": "1948년 전쟁 이후 트란스요르단의 아랍 군단이 구시가지를 포함한 요르단강 서안과 동예루살렘을 장악했다. 요르단은 1950년 이 지역을 공식 병합했으나 이를 인정한 국가는 소수였으며, 다수의 난민을 포함한 팔레스타인 주민에게 요르단 시민권을 부여했다.",
+    "zh": "1948年战争后，外约旦的阿拉伯军团控制了约旦河西岸和包括老城在内的东耶路撒冷。约旦于1950年正式吞并该地区，但承认此举的国家寥寥无几；约旦向包括大量难民在内的巴勒斯坦居民授予了约旦国籍。",
+    "ja": "1948年の戦争後、トランスヨルダンのアラブ軍団が旧市街を含むヨルダン川西岸と東エルサレムを掌握した。ヨルダンは1950年にこの地域を正式に併合したが、承認した国はわずかであり、多くの難民を含むパレスチナ住民にヨルダン国籍を与えた。"
+   }
+  },
+  {
+   "from": 1948,
+   "to": 1967,
+   "kind": "state",
+   "qid": null,
+   "polity": "Palestinians",
+   "name": {
+    "en": "Egyptian-administered Gaza Strip",
+    "ko": "이집트 관할 가자 지구",
+    "zh": "埃及管辖下的加沙地带",
+    "ja": "エジプト管理下のガザ地区"
+   },
+   "summary": {
+    "en": "The 1948 war left a narrow coastal strip around Gaza under Egyptian control, its population swollen by some 200,000 refugees. The All-Palestine Government proclaimed in Gaza in 1948 had little real power; Egypt administered the Strip directly, apart from a brief Israeli occupation in 1956–57.",
+    "ko": "1948년 전쟁으로 가자 주변의 좁은 해안 지대가 이집트의 관할 아래 남았고, 약 20만 명의 난민이 몰려들어 인구가 크게 늘었다. 1948년 가자에서 선포된 전팔레스타인 정부는 실권이 거의 없었으며, 1956~57년의 짧은 이스라엘 점령을 제외하면 이집트가 이 지구를 직접 관리했다.",
+    "zh": "1948年战争使加沙周围的狭长沿海地带处于埃及控制之下，约20万难民涌入使人口激增。1948年在加沙宣布成立的全巴勒斯坦政府几乎没有实权；除1956—1957年短暂被以色列占领外，埃及直接管理该地带。",
+    "ja": "1948年の戦争でガザ周辺の細長い海岸地帯はエジプトの管理下に残り、約20万人の難民の流入で人口が急増した。1948年にガザで宣言された全パレスチナ政府には実権がほとんどなく、1956〜57年の短いイスラエル占領を除き、エジプトがこの地区を直接管理した。"
+   }
+  },
+  {
+   "from": 1967,
+   "to": 2026,
+   "kind": "period",
+   "qid": "Q139720970",
+   "polity": "State of Israel",
+   "name": {
+    "en": "Israeli occupation of the Palestinian territories",
+    "ko": "이스라엘의 팔레스타인 영토 점령",
+    "zh": "以色列对巴勒斯坦领土的占领",
+    "ja": "イスラエルによるパレスチナ領の占領"
+   },
+   "summary": {
+    "en": "Since the 1967 war Israel has occupied the West Bank, East Jerusalem and the Gaza Strip; it annexed East Jerusalem, a move not recognised internationally, and built settlements that most of the world regards as illegal under international law, a view Israel disputes. It withdrew its settlers and troops from Gaza in 2005 but kept control of its borders, airspace and coast, and its forces re-entered Gaza in the war that began in 2023.",
+    "ko": "1967년 전쟁 이후 이스라엘은 요르단강 서안, 동예루살렘, 가자 지구를 점령해 왔다. 동예루살렘을 병합했으나 국제적으로 인정받지 못했고, 국제 사회 대부분이 국제법상 불법으로 보는(이스라엘은 이에 이의를 제기) 정착촌을 건설했다. 2005년 가자에서 정착민과 군대를 철수했으나 국경·영공·해안 통제는 유지했고, 2023년 시작된 전쟁에서 다시 가자에 진입했다.",
+    "zh": "自1967年战争以来，以色列占领了约旦河西岸、东耶路撒冷和加沙地带；它吞并东耶路撒冷，此举未获国际承认，并修建了被国际社会大多数视为违反国际法的定居点（以色列对此有异议）。2005年以色列从加沙撤出定居者和军队，但仍控制其边界、领空和海岸；在2023年爆发的战争中，以军再度进入加沙。",
+    "ja": "1967年の戦争以来、イスラエルはヨルダン川西岸、東エルサレム、ガザ地区を占領してきた。東エルサレムを併合したが国際的には承認されておらず、国際社会の大半が国際法違反とみなす（イスラエルは異議を唱える）入植地を建設した。2005年にガザから入植者と軍を撤退させたが国境・領空・海岸の管理は維持し、2023年に始まった戦争で再びガザに進攻した。"
+   }
+  },
+  {
+   "from": 1994,
+   "to": 2026,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Palestinian Authority and State of Palestine",
+    "ko": "팔레스타인 자치정부와 팔레스타인국",
+    "zh": "巴勒斯坦民族权力机构与巴勒斯坦国",
+    "ja": "パレスチナ自治政府とパレスチナ国"
+   },
+   "summary": {
+    "en": "Created under the Oslo Accords, the Palestinian Authority gained limited self-rule in Gaza and parts of the West Bank from 1994. After Hamas won the 2006 elections and seized Gaza in 2007, Palestinian governance split between the PA in the West Bank and Hamas in Gaza. The State of Palestine, proclaimed in 1988, became a UN non-member observer state in 2012 and is recognised by a large majority of UN members.",
+    "ko": "오슬로 협정으로 수립된 팔레스타인 자치정부는 1994년부터 가자와 요르단강 서안 일부에서 제한적 자치를 얻었다. 2006년 선거에서 하마스가 승리하고 2007년 가자를 장악한 뒤, 팔레스타인 통치는 서안의 자치정부와 가자의 하마스로 분열되었다. 1988년 선포된 팔레스타인국은 2012년 유엔 비회원 옵서버 국가가 되었으며 유엔 회원국 대다수의 승인을 받고 있다.",
+    "zh": "根据奥斯陆协议成立的巴勒斯坦民族权力机构自1994年起在加沙和约旦河西岸部分地区获得有限自治。2006年哈马斯赢得选举并于2007年夺取加沙后，巴勒斯坦的治理分裂为西岸的民族权力机构和加沙的哈马斯。1988年宣布成立的巴勒斯坦国于2012年成为联合国非会员观察员国，获得绝大多数联合国会员国承认。",
+    "ja": "オスロ合意で設立されたパレスチナ自治政府は1994年からガザとヨルダン川西岸の一部で限定的な自治を得た。2006年の選挙でハマスが勝利し2007年にガザを掌握すると、パレスチナの統治は西岸の自治政府とガザのハマスに分裂した。1988年に宣言されたパレスチナ国は2012年に国連の非加盟オブザーバー国家となり、国連加盟国の大多数に承認されている。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Canaanite cities of the Bronze Age",
+    "ko": "청동기 시대의 가나안 도시들",
+    "zh": "青铜时代的迦南城邦",
+    "ja": "青銅器時代のカナン都市"
+   },
+   "description": {
+    "en": "Bronze Age Canaanite city-states flourished across Palestine. Jericho, already millennia old by this time, ranks among the oldest continuously inhabited settlements on Earth.",
+    "ko": "청동기시대 팔레스타인 곳곳에서 가나안 도시국가들이 번성했다. 이 무렵 이미 수천 년의 역사를 지녔던 예리코는 지구상에서 가장 오래도록 사람이 살아온 정착지 중 하나로 꼽힌다.",
+    "zh": "青铜时代，迦南城邦在巴勒斯坦各地兴起。此时已有数千年历史的杰里科，是地球上持续有人居住时间最长的聚落之一。",
+    "ja": "青銅器時代、パレスチナ各地でカナン人の都市国家が栄えた。この頃すでに数千年の歴史を持っていたエリコは、世界で最も古くから人が住み続ける集落の一つに数えられる。"
+   }
+  },
+  {
+   "year": -2300,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Collapse of the Early Bronze Age towns",
+    "ko": "초기 청동기 도시의 쇠퇴",
+    "zh": "早期青铜时代城镇的衰落",
+    "ja": "前期青銅器時代の都市の衰退"
+   },
+   "description": {
+    "en": "Around 2500–2300 BC most walled towns of the southern Levant, including Jericho, were abandoned, for reasons still debated such as climate change and disrupted trade. For roughly three centuries people lived in small villages or as pastoralists, burying their dead in rock-cut shaft tombs.",
+    "ko": "기원전 2500~2300년경 예리코를 포함한 남부 레반트의 성벽 도시 대부분이 버려졌는데, 기후 변화와 교역 단절 등 원인은 여전히 논쟁 중이다. 이후 약 3세기 동안 사람들은 작은 마을이나 유목 생활을 하며 바위를 판 수직갱 무덤에 죽은 이를 묻었다.",
+    "zh": "约公元前2500至前2300年，包括杰里科在内的黎凡特南部大多数设防城镇被废弃，原因仍有争议，可能包括气候变化和贸易中断。此后约三个世纪，人们生活在小村落或以游牧为生，并以凿岩竖穴墓埋葬死者。",
+    "ja": "前2500〜前2300年頃、エリコを含む南レヴァントの城壁都市の多くが放棄された。原因は気候変動や交易の途絶などが挙げられるが、いまも議論がある。その後約3世紀、人々は小村落や牧畜生活を営み、岩を掘った竪坑墓に死者を葬った。"
+   }
+  },
+  {
+   "year": -1850,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Shechem in Egyptian records",
+    "ko": "이집트 기록 속의 셰켐",
+    "zh": "埃及记载中的示剑",
+    "ja": "エジプト記録に見るシケム"
+   },
+   "description": {
+    "en": "A stele of the Egyptian officer Sebek-khu records a campaign of Pharaoh Senusret III against a place called Sekmem, generally identified with Shechem near modern Nablus, around 1850 BC. Egyptian 'Execration Texts' of the same era curse the rulers of Canaanite towns, and many scholars read one of the names as Jerusalem.",
+    "ko": "이집트 관리 세베크쿠의 비석에는 기원전 1850년경 파라오 세누스레트 3세가 '세크멤'이라는 곳을 원정한 기록이 있는데, 이는 대체로 오늘날 나블루스 인근의 셰켐으로 비정된다. 같은 시기 이집트의 '저주 문서'는 가나안 도시의 지배자들을 저주하며, 많은 학자들은 그중 한 이름을 예루살렘으로 읽는다.",
+    "zh": "埃及军官塞贝克库的石碑记载，约公元前1850年法老辛努塞尔特三世曾远征一个名为“塞克梅姆”的地方，一般认为即今纳布卢斯附近的示剑。同期埃及的“诅咒文书”诅咒迦南诸城的统治者，许多学者认为其中一个地名就是耶路撒冷。",
+    "ja": "エジプトの官吏セベクフの碑には、前1850年頃にファラオのセンウセレト3世が「セクメム」という地に遠征した記録があり、一般に現在のナーブルス近郊のシケムに比定される。同時代のエジプトの「呪詛文書」はカナンの町の支配者を呪っており、多くの学者はその一つをエルサレムと読む。"
+   }
+  },
+  {
+   "year": -1550,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Egypt drives out the Hyksos into Canaan",
+    "ko": "이집트, 힉소스를 가나안으로 축출",
+    "zh": "埃及将喜克索斯人逐入迦南",
+    "ja": "エジプト、ヒクソスをカナンへ駆逐"
+   },
+   "description": {
+    "en": "After expelling the Hyksos from Egypt around 1550 BC, Pharaoh Ahmose besieged their stronghold of Sharuhen in southern Canaan for three years; the site is usually placed near Gaza, though its exact identification is debated. The campaign opened three centuries of Egyptian domination over Canaan.",
+    "ko": "기원전 1550년경 힉소스를 이집트에서 몰아낸 파라오 아흐모세는 남부 가나안에 있던 그들의 거점 샤루헨을 3년간 포위했다. 샤루헨은 대개 가자 인근으로 보지만 정확한 위치는 논쟁 중이다. 이 원정으로 이집트의 가나안 지배 3세기가 시작되었다.",
+    "zh": "约公元前1550年，法老雅赫摩斯将喜克索斯人逐出埃及后，围攻其在迦南南部的据点沙鲁亨长达三年；该地通常被认为位于加沙附近，但确切位置仍有争议。这次征战开启了埃及支配迦南的三个世纪。",
+    "ja": "前1550年頃にヒクソスをエジプトから追放したファラオ・イアフメスは、南カナンにあった彼らの拠点シャルヘンを3年間包囲した。シャルヘンは通常ガザ近郊とされるが、正確な比定には議論がある。この遠征によりエジプトによる3世紀にわたるカナン支配が始まった。"
+   }
+  },
+  {
+   "year": -1457,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Gaza becomes Egypt's base in Canaan",
+    "ko": "가자, 이집트의 가나안 거점이 되다",
+    "zh": "加沙成为埃及在迦南的据点",
+    "ja": "ガザ、エジプトのカナン拠点に"
+   },
+   "description": {
+    "en": "On his first Asian campaign, traditionally dated to about 1457 BC, Thutmose III marched from the Nile Delta to Gaza before defeating a Canaanite coalition at Megiddo. Gaza thereafter served as the chief Egyptian garrison and administrative centre in Canaan.",
+    "ko": "전통적으로 기원전 1457년경으로 보는 첫 아시아 원정에서 투트모세 3세는 나일 삼각주에서 가자로 진군한 뒤 므깃도에서 가나안 연합군을 물리쳤다. 이후 가자는 가나안에서 이집트의 주요 주둔지이자 행정 중심지가 되었다.",
+    "zh": "在传统上定于约公元前1457年的第一次亚洲远征中，图特摩斯三世从尼罗河三角洲进军加沙，随后在米吉多击败迦南联军。此后加沙成为埃及在迦南的主要驻军和行政中心。",
+    "ja": "伝統的に前1457年頃とされる最初のアジア遠征で、トトメス3世はナイル・デルタからガザへ進軍し、メギドでカナン連合軍を破った。以後ガザはカナンにおけるエジプトの主要な駐屯地兼行政中心となった。"
+   }
+  },
+  {
+   "year": -1350,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Amarna letters from Jerusalem and Shechem",
+    "ko": "예루살렘과 셰켐에서 온 아마르나 서신",
+    "zh": "来自耶路撒冷和示剑的阿马尔奈书信",
+    "ja": "エルサレムとシケムからのアマルナ文書"
+   },
+   "description": {
+    "en": "Clay tablets found at Amarna in Egypt preserve letters written around 1350 BC by Canaanite vassal rulers to the pharaoh, including Abdi-Heba of Jerusalem and complaints about Labayu of Shechem. They describe rivalries between city-states and unrest caused by groups called Habiru, and are the earliest texts written by rulers of Jerusalem.",
+    "ko": "이집트 아마르나에서 발견된 점토판에는 기원전 1350년경 가나안 속국 지배자들이 파라오에게 보낸 편지가 남아 있으며, 예루살렘의 아브디헤바의 편지와 셰켐의 라바유에 대한 불평이 포함되어 있다. 도시국가 간 경쟁과 '하비루' 집단의 소요를 전하며, 예루살렘 지배자가 쓴 가장 오래된 문서이다.",
+    "zh": "在埃及阿马尔奈出土的泥板保存了约公元前1350年迦南附庸统治者写给法老的书信，其中有耶路撒冷的阿卜迪-赫巴的来信以及对示剑的拉巴尤的控诉。它们描述了城邦间的争斗和被称为“哈比鲁”的群体造成的动荡，是耶路撒冷统治者留下的最早文字。",
+    "ja": "エジプトのアマルナで見つかった粘土板には、前1350年頃にカナンの属国支配者がファラオに宛てた書簡が残り、エルサレムのアブディ・ヘバの手紙やシケムのラバユへの苦情が含まれる。都市国家間の抗争や「ハビル」と呼ばれる集団の騒乱を伝え、エルサレムの支配者が記した最古の文書である。"
+   }
+  },
+  {
+   "year": -1175,
+   "qid": "Q7185566",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Philistines settle Gaza and the southern coast",
+    "ko": "블레셋인, 가자와 남부 해안에 정착",
+    "zh": "非利士人定居加沙与南部沿海",
+    "ja": "ペリシテ人、ガザと南部海岸に定住"
+   },
+   "description": {
+    "en": "After Ramesses III repelled the Sea Peoples around 1177 BC, one of these groups, the Philistines, settled the southern coastal plain. Their pentapolis of Gaza, Ashkelon, Ashdod, Ekron and Gath brought Aegean-style pottery and customs, and Gaza remained a major city for the rest of antiquity.",
+    "ko": "람세스 3세가 기원전 1177년경 '바다 민족'을 격퇴한 뒤 그중 한 집단인 블레셋인이 남부 해안 평야에 정착했다. 가자·아슈켈론·아슈도드·에크론·가드의 다섯 도시는 에게풍 토기와 관습을 들여왔으며, 가자는 고대 내내 주요 도시로 남았다.",
+    "zh": "拉美西斯三世约于公元前1177年击退“海上民族”后，其中的非利士人定居于南部沿海平原。加沙、阿什凯隆、阿什杜德、以革伦和迦特五城带来了爱琴风格的陶器和习俗，加沙在整个古代一直是重要城市。",
+    "ja": "ラムセス3世が前1177年頃に「海の民」を撃退した後、その一派のペリシテ人が南部海岸平野に定住した。ガザ・アシュケロン・アシュドド・エクロン・ガトの五都市はエーゲ風の土器や習俗をもたらし、ガザは古代を通じて主要都市であり続けた。"
+   }
+  },
+  {
+   "year": -1000,
+   "qid": "Q3185305",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "David takes Jerusalem (tradition)",
+    "ko": "다윗의 예루살렘 정복(전승)",
+    "zh": "大卫攻取耶路撒冷（传说）",
+    "ja": "ダビデのエルサレム征服（伝承）"
+   },
+   "description": {
+    "en": "According to the Hebrew Bible, around 1000 BC David captured the Jebusite city of Jerusalem and made it the capital of a united kingdom of Israel and Judah. The extent of David's realm is debated by archaeologists, but the 'House of David' is named in the Tel Dan inscription of the 9th century BC.",
+    "ko": "히브리어 성서에 따르면 기원전 1000년경 다윗은 여부스인의 도시 예루살렘을 정복해 이스라엘과 유다 통일 왕국의 수도로 삼았다. 다윗 왕국의 규모는 고고학자들 사이에서 논쟁 중이지만, 기원전 9세기 텔단 비문에 '다윗의 집'이 언급된다.",
+    "zh": "据《希伯来圣经》记载，约公元前1000年大卫攻取耶布斯人的城市耶路撒冷，以之为以色列与犹大统一王国的都城。大卫王国的范围在考古学界存在争论，但公元前9世纪的但丘石碑提到了“大卫家”。",
+    "ja": "ヘブライ語聖書によれば、前1000年頃ダビデはエブス人の町エルサレムを征服し、イスラエルとユダの統一王国の都とした。ダビデの王国の規模は考古学者の間で議論があるが、前9世紀のテル・ダン碑文に「ダビデの家」の名が見える。"
+   }
+  },
+  {
+   "year": -957,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Solomon's Temple (tradition)",
+    "ko": "솔로몬 성전(전승)",
+    "zh": "所罗门圣殿（传说）",
+    "ja": "ソロモン神殿（伝承）"
+   },
+   "description": {
+    "en": "Biblical tradition credits King Solomon with building the First Temple on Mount Moriah in Jerusalem in the mid-10th century BC; the date of about 957 BC is a traditional reckoning. No remains of the building have been excavated, as the site lies beneath the Haram al-Sharif/Temple Mount, which remains central to Judaism and Islam.",
+    "ko": "성서 전승은 솔로몬 왕이 기원전 10세기 중엽 예루살렘 모리아 산에 제1성전을 지었다고 전하며, 기원전 957년경이라는 연대는 전통적 계산이다. 그 터가 오늘날 하람 알샤리프/성전산 아래에 있어 건물 유적은 발굴되지 않았으며, 이곳은 지금도 유대교와 이슬람 모두의 중심 성지이다.",
+    "zh": "按照《圣经》传统，所罗门王于公元前10世纪中叶在耶路撒冷摩利亚山上建造第一圣殿，约公元前957年是传统推算的年代。由于遗址位于今尊贵禁地/圣殿山之下，建筑遗迹从未被发掘，该地至今仍是犹太教和伊斯兰教的核心圣地。",
+    "ja": "聖書の伝承では、ソロモン王が前10世紀半ばにエルサレムのモリヤの山に第一神殿を建てたとされ、前957年頃という年代は伝統的な算定である。その場所は現在のハラム・アッシャリーフ／神殿の丘の下にあるため遺構は発掘されておらず、今もユダヤ教とイスラームの中心的聖地である。"
+   }
+  },
+  {
+   "year": -925,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Campaign of Pharaoh Shoshenq I",
+    "ko": "파라오 쇼센크 1세의 원정",
+    "zh": "法老舍顺克一世的远征",
+    "ja": "ファラオ・シェションク1世の遠征"
+   },
+   "description": {
+    "en": "Around 925 BC Pharaoh Shoshenq I, the biblical Shishak, raided the southern Levant; his relief at Karnak lists dozens of conquered places, and Gaza served as his staging point. The Bible records that Jerusalem paid him a heavy tribute from the Temple treasury.",
+    "ko": "기원전 925년경 성서의 시삭인 파라오 쇼센크 1세가 남부 레반트를 원정했다. 카르나크의 부조에는 정복지 수십 곳이 열거되어 있으며 가자가 출발 거점이었다. 성서는 예루살렘이 성전 보물로 막대한 공물을 바쳤다고 기록한다.",
+    "zh": "约公元前925年，《圣经》中称为示撒的法老舍顺克一世袭击黎凡特南部；他在卡纳克的浮雕列出了数十个被征服的地方，加沙是其出发据点。《圣经》记载耶路撒冷以圣殿宝库向他缴纳了大量贡品。",
+    "ja": "前925年頃、聖書のシシャクにあたるファラオ・シェションク1世が南レヴァントに遠征した。カルナクの浮彫には征服地数十か所が列挙され、ガザが出撃拠点となった。聖書はエルサレムが神殿の宝物で多額の貢納をしたと記す。"
+   }
+  },
+  {
+   "year": -880,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Omri founds Samaria",
+    "ko": "오므리, 사마리아를 세우다",
+    "zh": "暗利建立撒马利亚城",
+    "ja": "オムリ、サマリアを建設"
+   },
+   "description": {
+    "en": "King Omri of Israel founded a new capital at Samaria, on a hill northwest of Shechem, in the early 9th century BC. Excavations at modern Sebastia have revealed a royal acropolis and carved ivories; Assyrian texts later called the kingdom the 'House of Omri'.",
+    "ko": "이스라엘 왕 오므리는 기원전 9세기 초 셰켐 북서쪽 언덕에 새 수도 사마리아를 세웠다. 오늘날 세바스티아의 발굴에서 왕궁 아크로폴리스와 상아 조각이 드러났으며, 아시리아 문헌은 훗날 이 왕국을 '오므리의 집'이라 불렀다.",
+    "zh": "以色列王暗利于公元前9世纪初在示剑西北的山丘上建立新都撒马利亚。今塞巴斯蒂亚的发掘揭示了王宫卫城和象牙雕刻；亚述文献后来称该王国为“暗利家”。",
+    "ja": "イスラエル王オムリは前9世紀初め、シケム北西の丘に新しい都サマリアを建設した。現在のセバスティアの発掘で王宮のアクロポリスや象牙細工が見つかり、アッシリアの文書は後にこの王国を「オムリの家」と呼んだ。"
+   }
+  },
+  {
+   "year": -722,
+   "qid": "Q230407",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Fall of Samaria to Assyria",
+    "ko": "사마리아, 아시리아에 함락",
+    "zh": "撒马利亚陷落于亚述",
+    "ja": "サマリア、アッシリアに陥落"
+   },
+   "description": {
+    "en": "After a siege begun by Shalmaneser V, Samaria fell to the Assyrians in 722–720 BC, ending the northern Kingdom of Israel. Sargon II claimed to have deported 27,290 inhabitants and resettled people from other lands there, a mixing later linked in tradition to the origins of the Samaritans.",
+    "ko": "샬마네세르 5세가 시작한 포위 끝에 사마리아는 기원전 722~720년 아시리아에 함락되었고 북이스라엘 왕국은 멸망했다. 사르곤 2세는 주민 27,290명을 강제 이주시키고 다른 지역 사람들을 이주시켰다고 주장했으며, 이 혼합은 전승에서 사마리아인의 기원과 연결된다.",
+    "zh": "撒缦以色五世发起围城后，撒马利亚于公元前722至前720年陷于亚述，北方以色列王国灭亡。萨尔贡二世声称迁走了27,290名居民，并将其他地方的人迁入此地；这种人口混合在传统中被与撒马利亚人的起源联系在一起。",
+    "ja": "シャルマネセル5世が始めた包囲の末、サマリアは前722〜前720年にアッシリアに陥落し、北イスラエル王国は滅んだ。サルゴン2世は住民2万7290人を連れ去り、他地域の人々を入植させたと主張しており、この混住は伝承でサマリア人の起源と結びつけられている。"
+   }
+  },
+  {
+   "year": -701,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Sennacherib's campaign against Judah",
+    "ko": "산헤립의 유다 원정",
+    "zh": "西拿基立征伐犹大",
+    "ja": "センナケリブのユダ遠征"
+   },
+   "description": {
+    "en": "When King Hezekiah of Judah rebelled, the Assyrian king Sennacherib ravaged Judah in 701 BC, destroying many towns and besieging Jerusalem, which he boasted of shutting up 'like a bird in a cage'. Jerusalem was not taken, and Hezekiah submitted and paid heavy tribute.",
+    "ko": "유다 왕 히스기야가 반란을 일으키자 아시리아 왕 산헤립은 기원전 701년 유다를 유린해 많은 도시를 파괴하고 예루살렘을 포위했으며, 히스기야를 '새장 속의 새처럼' 가두었다고 자랑했다. 예루살렘은 함락되지 않았고, 히스기야는 굴복해 막대한 공물을 바쳤다.",
+    "zh": "犹大王希西家反叛后，亚述王西拿基立于公元前701年蹂躏犹大，摧毁众多城镇并围困耶路撒冷，夸口把希西家困得“如笼中之鸟”。耶路撒冷未被攻破，希西家最终屈服并缴纳重贡。",
+    "ja": "ユダ王ヒゼキヤが反乱すると、アッシリア王センナケリブは前701年にユダを荒らし多くの町を破壊してエルサレムを包囲し、ヒゼキヤを「籠の中の鳥のように」閉じ込めたと誇った。エルサレムは陥落せず、ヒゼキヤは服属して重い貢納を払った。"
+   }
+  },
+  {
+   "year": -700,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Hezekiah's Tunnel and the Siloam inscription",
+    "ko": "히스기야 터널과 실로암 비문",
+    "zh": "希西家隧道与西罗亚铭文",
+    "ja": "ヒゼキヤのトンネルとシロアム碑文"
+   },
+   "description": {
+    "en": "Around 700 BC a tunnel more than 500 metres long was cut through the rock beneath Jerusalem's City of David to bring water from the Gihon spring to the Pool of Siloam. A Hebrew inscription found inside in 1880 describes the moment the two teams of diggers met; it is now in Istanbul.",
+    "ko": "기원전 700년경 예루살렘 다윗성 아래 바위를 뚫어 기혼 샘의 물을 실로암 못으로 끌어오는 500미터가 넘는 터널이 만들어졌다. 1880년 내부에서 발견된 히브리어 비문은 양쪽에서 파 들어온 일꾼들이 만나는 순간을 묘사하며, 현재 이스탄불에 있다.",
+    "zh": "约公元前700年，人们在耶路撒冷大卫城下的岩石中开凿了一条长500多米的隧道，将基训泉的水引到西罗亚池。1880年在隧道内发现的希伯来文铭文描述了两队挖掘者会合的时刻，现藏于伊斯坦布尔。",
+    "ja": "前700年頃、エルサレムのダビデの町の下の岩盤を掘り抜き、ギホンの泉の水をシロアムの池へ引く500メートル以上のトンネルが造られた。1880年に内部で見つかったヘブライ語碑文は両側から掘り進んだ作業員が出会う瞬間を記しており、現在はイスタンブールにある。"
+   }
+  },
+  {
+   "year": -622,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Reform of King Josiah",
+    "ko": "요시야 왕의 개혁",
+    "zh": "约西亚王的宗教改革",
+    "ja": "ヨシヤ王の改革"
+   },
+   "description": {
+    "en": "According to the Bible, in about 622 BC King Josiah of Judah centralised worship in the Temple of Jerusalem after a 'book of the law' was found there, and destroyed rival shrines, including the altar at Bethel. Many scholars connect this reform with the composition of Deuteronomy.",
+    "ko": "성서에 따르면 기원전 622년경 유다 왕 요시야는 예루살렘 성전에서 '율법책'이 발견된 뒤 예배를 성전으로 집중시키고 베델의 제단을 비롯한 경쟁 성소를 파괴했다. 많은 학자들은 이 개혁을 신명기의 성립과 연결한다.",
+    "zh": "据《圣经》记载，约公元前622年，在耶路撒冷圣殿发现“律法书”后，犹大王约西亚将崇拜集中于圣殿，并摧毁了包括伯特利祭坛在内的其他圣所。许多学者把这次改革与《申命记》的成书联系起来。",
+    "ja": "聖書によれば、前622年頃エルサレム神殿で「律法の書」が見つかった後、ユダ王ヨシヤは礼拝を神殿に集中させ、ベテルの祭壇を含む他の聖所を破壊した。多くの学者はこの改革を申命記の成立と結びつけている。"
+   }
+  },
+  {
+   "year": -604,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Babylon conquers the Philistine cities",
+    "ko": "바빌로니아의 블레셋 도시 정복",
+    "zh": "巴比伦征服非利士诸城",
+    "ja": "バビロニア、ペリシテ諸都市を征服"
+   },
+   "description": {
+    "en": "After defeating Egypt at Carchemish in 605 BC, Nebuchadnezzar II swept down the coast and destroyed Ashkelon in 604 BC; Gaza and the other Philistine cities also fell under Babylonian control. Philistine identity faded thereafter, though Gaza itself survived as a city.",
+    "ko": "기원전 605년 카르케미시에서 이집트를 꺾은 네부카드네자르 2세는 해안을 따라 내려와 기원전 604년 아슈켈론을 파괴했고, 가자와 다른 블레셋 도시들도 바빌로니아의 지배에 들어갔다. 이후 블레셋인의 정체성은 사라졌지만 가자는 도시로 살아남았다.",
+    "zh": "公元前605年在卡尔凯美什击败埃及后，尼布甲尼撒二世沿海岸南下，于公元前604年摧毁阿什凯隆，加沙等非利士城市也落入巴比伦控制。此后非利士人的身份认同逐渐消失，但加沙作为城市延续下来。",
+    "ja": "前605年にカルケミシュでエジプトを破ったネブカドネザル2世は海岸を南下し、前604年にアシュケロンを破壊した。ガザなどペリシテの諸都市もバビロニアの支配下に入った。以後ペリシテ人としての独自性は薄れたが、ガザは都市として存続した。"
+   }
+  },
+  {
+   "year": -597,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First Babylonian capture of Jerusalem",
+    "ko": "바빌로니아의 첫 예루살렘 함락",
+    "zh": "巴比伦首次攻陷耶路撒冷",
+    "ja": "バビロニアによる最初のエルサレム攻略"
+   },
+   "description": {
+    "en": "The Babylonian Chronicle records that Nebuchadnezzar II captured Jerusalem in early 597 BC and installed a new king. King Jehoiachin and thousands of Judah's elite and craftsmen were deported to Babylon.",
+    "ko": "바빌로니아 연대기는 네부카드네자르 2세가 기원전 597년 초 예루살렘을 함락하고 새 왕을 세웠다고 기록한다. 여호야긴 왕과 수천 명의 유다 지배층·장인들이 바빌론으로 끌려갔다.",
+    "zh": "《巴比伦编年史》记载，尼布甲尼撒二世于公元前597年初攻陷耶路撒冷并另立新王。约雅斤王和数千名犹大上层人士及工匠被掳往巴比伦。",
+    "ja": "バビロニア年代記は、ネブカドネザル2世が前597年初めにエルサレムを攻略し新王を立てたと記す。ヨヤキン王と数千人のユダの支配層や職人がバビロンへ連行された。"
+   }
+  },
+  {
+   "year": -586,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Destruction of Jerusalem and the First Temple",
+    "ko": "예루살렘과 제1성전의 파괴",
+    "zh": "耶路撒冷与第一圣殿被毁",
+    "ja": "エルサレムと第一神殿の破壊"
+   },
+   "description": {
+    "en": "After Judah rebelled again, a Babylonian army besieged Jerusalem and destroyed the city and Solomon's Temple in 587 or 586 BC. Much of the population was exiled to Babylon, an event that profoundly shaped Jewish religion and identity.",
+    "ko": "유다가 다시 반란을 일으키자 바빌로니아군은 예루살렘을 포위해 기원전 587년 또는 586년에 도시와 솔로몬 성전을 파괴했다. 주민 상당수가 바빌론으로 포로로 끌려갔고, 이는 유대교와 유대인 정체성에 깊은 영향을 남겼다.",
+    "zh": "犹大再次反叛后，巴比伦军队围攻耶路撒冷，于公元前587年或586年摧毁全城和所罗门圣殿。大批居民被掳往巴比伦，这一事件深刻塑造了犹太宗教与民族认同。",
+    "ja": "ユダが再び反乱すると、バビロニア軍はエルサレムを包囲し、前587年または前586年に都市とソロモン神殿を破壊した。住民の多くがバビロンへ捕囚として連行され、この出来事はユダヤ教とユダヤ人のアイデンティティに深い影響を与えた。"
+   }
+  },
+  {
+   "year": -538,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Cyrus allows the exiles to return",
+    "ko": "키루스, 포로민의 귀환을 허락",
+    "zh": "居鲁士允许被掳者返回",
+    "ja": "キュロス、捕囚民の帰還を許可"
+   },
+   "description": {
+    "en": "After conquering Babylon in 539 BC, the Persian king Cyrus the Great allowed deported peoples to return home; according to the Book of Ezra, he authorised the Judean exiles to rebuild the Temple in Jerusalem. Returnees resettled the small Persian province of Yehud around Jerusalem.",
+    "ko": "기원전 539년 바빌론을 정복한 페르시아 왕 키루스 대왕은 강제 이주된 민족들의 귀향을 허락했으며, 에스라서에 따르면 유대 포로민에게 예루살렘 성전 재건을 허가했다. 귀환민들은 예루살렘 주변의 작은 페르시아 속주 예후드에 다시 정착했다.",
+    "zh": "公元前539年征服巴比伦后，波斯王居鲁士大帝允许被迁徙的民族返回故土；据《以斯拉记》记载，他准许犹大被掳者重建耶路撒冷圣殿。归回者重新定居在耶路撒冷周围的波斯小行省耶胡德。",
+    "ja": "前539年にバビロンを征服したペルシア王キュロス大王は強制移住させられた諸民族の帰郷を認め、エズラ記によればユダの捕囚民にエルサレム神殿の再建を許した。帰還民はエルサレム周辺の小さなペルシアの州イェフドに再定住した。"
+   }
+  },
+  {
+   "year": -516,
+   "qid": "Q2911414",
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Second Temple dedicated",
+    "ko": "제2성전 봉헌",
+    "zh": "第二圣殿落成",
+    "ja": "第二神殿の奉献"
+   },
+   "description": {
+    "en": "According to the Book of Ezra, the rebuilt Temple in Jerusalem was completed in the sixth year of Darius I, around 516–515 BC. Its dedication opened the Second Temple period, which lasted until the Roman destruction in AD 70.",
+    "ko": "에스라서에 따르면 재건된 예루살렘 성전은 다리우스 1세 6년, 기원전 516~515년경에 완공되었다. 이 봉헌으로 서기 70년 로마에 파괴될 때까지 이어진 제2성전기가 시작되었다.",
+    "zh": "据《以斯拉记》记载，重建的耶路撒冷圣殿于大流士一世第六年，即约公元前516—前515年完工。它的落成开启了一直延续到公元70年被罗马摧毁的第二圣殿时期。",
+    "ja": "エズラ記によれば、再建されたエルサレム神殿はダレイオス1世の第6年、前516〜前515年頃に完成した。その奉献により、後70年のローマによる破壊まで続く第二神殿時代が始まった。"
+   }
+  },
+  {
+   "year": -450,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Samaritan temple on Mount Gerizim",
+    "ko": "그리심 산의 사마리아 성전",
+    "zh": "基利心山上的撒马利亚圣殿",
+    "ja": "ゲリジム山のサマリア神殿"
+   },
+   "description": {
+    "en": "Excavations on Mount Gerizim above Nablus indicate that a sanctuary was built there around the mid-5th century BC. It became the central temple of the Samaritans, who regard Gerizim rather than Jerusalem as the holy mountain; a small Samaritan community still lives on the mountain today.",
+    "ko": "나블루스 위 그리심 산의 발굴 결과 기원전 5세기 중엽경 그곳에 성소가 세워졌음이 드러났다. 이는 예루살렘이 아닌 그리심 산을 성산으로 여기는 사마리아인의 중심 성전이 되었으며, 오늘날에도 작은 사마리아인 공동체가 이 산에 살고 있다.",
+    "zh": "纳布卢斯上方基利心山的考古发掘表明，约公元前5世纪中叶山上建起了一座圣所。它成为撒马利亚人的中心圣殿；撒马利亚人视基利心山而非耶路撒冷为圣山，至今仍有一个小型撒马利亚社区居住在山上。",
+    "ja": "ナーブルスを見下ろすゲリジム山の発掘から、前5世紀半ば頃にそこに聖所が築かれたことがわかっている。これはエルサレムではなくゲリジム山を聖なる山とするサマリア人の中心神殿となり、今日も小さなサマリア人共同体がこの山に暮らしている。"
+   }
+  },
+  {
+   "year": -445,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nehemiah rebuilds Jerusalem's walls",
+    "ko": "느헤미야의 예루살렘 성벽 재건",
+    "zh": "尼希米重建耶路撒冷城墙",
+    "ja": "ネヘミヤ、エルサレムの城壁を再建"
+   },
+   "description": {
+    "en": "Nehemiah, a Jewish official at the Persian court, came to Jerusalem as governor of Yehud around 445 BC and rebuilt the city walls despite opposition from Sanballat, governor of Samaria. Together with the scribe Ezra, he is remembered for reforms that strengthened Jewish religious law.",
+    "ko": "페르시아 궁정의 유대인 관리 느헤미야는 기원전 445년경 예후드 총독으로 예루살렘에 와서 사마리아 총독 산발랏의 반대를 무릅쓰고 성벽을 재건했다. 그는 서기관 에스라와 함께 유대 율법을 강화한 개혁으로 기억된다.",
+    "zh": "波斯宫廷的犹太官员尼希米约于公元前445年以耶胡德总督身份来到耶路撒冷，不顾撒马利亚总督参巴拉的反对重建城墙。他与文士以斯拉一道，以强化犹太律法的改革而为后人所铭记。",
+    "ja": "ペルシア宮廷のユダヤ人官吏ネヘミヤは前445年頃イェフドの総督としてエルサレムに来て、サマリア総督サンバラトの反対を押し切って城壁を再建した。書記官エズラとともに、ユダヤの律法を強化した改革で記憶されている。"
+   }
+  },
+  {
+   "year": -332,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Alexander the Great besieges Gaza",
+    "ko": "알렉산드로스 대왕의 가자 포위",
+    "zh": "亚历山大大帝围攻加沙",
+    "ja": "アレクサンドロス大王のガザ包囲"
+   },
+   "description": {
+    "en": "On his way to Egypt in 332 BC, Alexander the Great besieged Gaza, whose commander Batis refused to surrender, for about two months before storming it. According to ancient historians the men of Gaza were killed and the women and children enslaved; the city was then resettled.",
+    "ko": "기원전 332년 이집트로 향하던 알렉산드로스 대왕은 항복을 거부한 지휘관 바티스가 지키던 가자를 약 두 달간 포위한 끝에 함락했다. 고대 역사가들에 따르면 가자의 남자들은 죽임을 당하고 여자와 아이들은 노예가 되었으며, 도시에는 새로 사람들이 이주했다.",
+    "zh": "公元前332年，亚历山大大帝在前往埃及途中围攻加沙，守将巴提斯拒绝投降，围城约两个月后城破。据古代史家记载，加沙的男子被杀，妇孺沦为奴隶，随后城市重新移民。",
+    "ja": "前332年、エジプトへ向かうアレクサンドロス大王は、降伏を拒む指揮官バティスが守るガザを約2か月包囲して攻略した。古代の歴史家によれば、ガザの男たちは殺され女性と子どもは奴隷にされ、その後都市には新たな住民が入植した。"
+   }
+  },
+  {
+   "year": -301,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ptolemies take Palestine",
+    "ko": "프톨레마이오스 왕조의 팔레스타인 장악",
+    "zh": "托勒密王朝取得巴勒斯坦",
+    "ja": "プトレマイオス朝、パレスチナを掌握"
+   },
+   "description": {
+    "en": "After the Battle of Ipsus in 301 BC divided Alexander's empire, Ptolemy I of Egypt occupied southern Syria, including Palestine. For a century the region was disputed between the Ptolemies and Seleucids, while Greek administrators, tax farmers and settlers spread Hellenistic culture.",
+    "ko": "기원전 301년 입소스 전투로 알렉산드로스 제국이 분할된 뒤 이집트의 프톨레마이오스 1세가 팔레스타인을 포함한 남부 시리아를 차지했다. 이후 한 세기 동안 이 지역은 프톨레마이오스와 셀레우코스 왕조의 각축장이 되었고, 그리스인 관리·징세 청부인·이주민이 헬레니즘 문화를 퍼뜨렸다.",
+    "zh": "公元前301年伊普苏斯之战瓜分了亚历山大帝国后，埃及的托勒密一世占领包括巴勒斯坦在内的南叙利亚。此后一个世纪，该地区为托勒密与塞琉古两王朝争夺，希腊官员、包税人和移民传播了希腊化文化。",
+    "ja": "前301年のイプソスの戦いでアレクサンドロスの帝国が分割されると、エジプトのプトレマイオス1世がパレスチナを含む南シリアを占領した。以後1世紀にわたりこの地域はプトレマイオス朝とセレウコス朝の係争地となり、ギリシア人の役人・徴税請負人・入植者がヘレニズム文化を広めた。"
+   }
+  },
+  {
+   "year": -217,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Raphia",
+    "ko": "라피아 전투",
+    "zh": "拉菲亚战役",
+    "ja": "ラフィアの戦い"
+   },
+   "description": {
+    "en": "In 217 BC Ptolemy IV defeated the Seleucid king Antiochus III at Raphia, modern Rafah on the southern edge of the Gaza Strip. One of the largest battles of the Hellenistic world, it featured war elephants on both sides and preserved Ptolemaic rule over Palestine for another generation.",
+    "ko": "기원전 217년 프톨레마이오스 4세는 가자 지구 남단의 오늘날 라파에 해당하는 라피아에서 셀레우코스 왕 안티오코스 3세를 무찔렀다. 양측 모두 전투 코끼리를 동원한 헬레니즘 세계 최대 규모의 전투 가운데 하나로, 프톨레마이오스의 팔레스타인 지배를 한 세대 더 유지시켰다.",
+    "zh": "公元前217年，托勒密四世在拉菲亚（今加沙地带南端的拉法）击败塞琉古国王安条克三世。这是希腊化世界规模最大的战役之一，双方都动用了战象，使托勒密王朝对巴勒斯坦的统治又延续了一代人。",
+    "ja": "前217年、プトレマイオス4世はガザ地区南端の現ラファにあたるラフィアでセレウコス朝のアンティオコス3世を破った。双方が戦象を投入したヘレニズム世界最大級の戦いの一つであり、プトレマイオス朝のパレスチナ支配をさらに一世代延ばした。"
+   }
+  },
+  {
+   "year": -200,
+   "qid": "Q705904",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Panium: Seleucids take Palestine",
+    "ko": "파니온 전투: 셀레우코스의 팔레스타인 획득",
+    "zh": "帕尼翁之战：塞琉古取得巴勒斯坦",
+    "ja": "パニオンの戦い：セレウコス朝がパレスチナを獲得"
+   },
+   "description": {
+    "en": "Antiochus III defeated the Ptolemaic army at Panium near the sources of the Jordan in 200 BC, and by 198 BC the whole of Palestine, including Gaza and Jerusalem, had passed to the Seleucid Empire. Antiochus initially confirmed the privileges of the Jerusalem Temple.",
+    "ko": "안티오코스 3세는 기원전 200년 요르단강 수원 근처 파니온에서 프톨레마이오스군을 격파했고, 기원전 198년까지 가자와 예루살렘을 포함한 팔레스타인 전역이 셀레우코스 제국에 넘어갔다. 안티오코스는 처음에는 예루살렘 성전의 특권을 인정했다.",
+    "zh": "安条克三世于公元前200年在约旦河源头附近的帕尼翁击败托勒密军队，到公元前198年，包括加沙和耶路撒冷在内的整个巴勒斯坦都归于塞琉古帝国。安条克起初确认了耶路撒冷圣殿的特权。",
+    "ja": "アンティオコス3世は前200年にヨルダン川の源流近くのパニオンでプトレマイオス朝軍を破り、前198年までにガザとエルサレムを含むパレスチナ全域がセレウコス朝の手に渡った。アンティオコスは当初エルサレム神殿の特権を認めた。"
+   }
+  },
+  {
+   "year": -167,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Antiochus IV and the Maccabean revolt",
+    "ko": "안티오코스 4세와 마카베오 항쟁",
+    "zh": "安条克四世与马加比起义",
+    "ja": "アンティオコス4世とマカバイ戦争"
+   },
+   "description": {
+    "en": "In 167 BC Antiochus IV Epiphanes banned Jewish practices and turned the Jerusalem Temple into a sanctuary of Zeus. The priest Mattathias and his sons, led by Judah Maccabee, launched a guerrilla revolt from the hills northwest of Jerusalem that grew into a war of independence.",
+    "ko": "기원전 167년 안티오코스 4세 에피파네스는 유대교 관습을 금지하고 예루살렘 성전을 제우스의 성소로 바꾸었다. 제사장 마타티아스와 유다 마카베오가 이끈 그의 아들들은 예루살렘 북서쪽 구릉에서 게릴라 항쟁을 일으켰고, 이는 독립 전쟁으로 발전했다.",
+    "zh": "公元前167年，安条克四世（神显者）禁止犹太教习俗，并把耶路撒冷圣殿改为宙斯的圣所。祭司玛他提亚及其以犹大·马加比为首的儿子们在耶路撒冷西北的山地发动游击起义，后来发展为独立战争。",
+    "ja": "前167年、アンティオコス4世エピファネスはユダヤ教の慣習を禁じ、エルサレム神殿をゼウスの聖所に変えた。祭司マタティアとユダ・マカバイ率いるその息子たちはエルサレム北西の丘陵でゲリラ的反乱を起こし、それは独立戦争へと発展した。"
+   }
+  },
+  {
+   "year": -164,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Rededication of the Temple (Hanukkah)",
+    "ko": "성전 재봉헌(하누카)",
+    "zh": "圣殿重献（光明节）",
+    "ja": "神殿の再奉献（ハヌカ）"
+   },
+   "description": {
+    "en": "Judah Maccabee retook Jerusalem in 164 BC, purified the Temple and restored Jewish worship. The event is commemorated in the Jewish festival of Hanukkah, though the Seleucid garrison in the Akra fortress held out for two more decades.",
+    "ko": "유다 마카베오는 기원전 164년 예루살렘을 되찾아 성전을 정화하고 유대교 예배를 복원했다. 이 사건은 유대교 명절 하누카로 기념되지만, 아크라 요새의 셀레우코스 수비대는 그 뒤로도 20년간 버텼다.",
+    "zh": "犹大·马加比于公元前164年收复耶路撒冷，洁净圣殿并恢复犹太教礼拜。犹太节日光明节即纪念此事，不过驻守阿克拉堡的塞琉古守军又坚持了二十年。",
+    "ja": "ユダ・マカバイは前164年にエルサレムを奪回し、神殿を清めてユダヤ教の礼拝を回復した。この出来事はユダヤ教の祭りハヌカで記念されるが、アクラ要塞のセレウコス朝守備隊はその後20年間持ちこたえた。"
+   }
+  },
+  {
+   "year": -141,
+   "qid": "Q10359001",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hasmonean independence",
+    "ko": "하스몬 왕조의 독립",
+    "zh": "哈斯蒙尼王朝独立",
+    "ja": "ハスモン朝の独立"
+   },
+   "description": {
+    "en": "In 141 BC Simon, the last surviving Maccabee brother, expelled the Seleucid garrison from the Akra in Jerusalem, and a popular assembly confirmed him as high priest and leader. This marked the effective independence of Judea under the Hasmonean dynasty.",
+    "ko": "기원전 141년 마카베오 형제 중 마지막으로 남은 시몬이 예루살렘 아크라에서 셀레우코스 수비대를 몰아냈고, 민회는 그를 대제사장이자 지도자로 승인했다. 이로써 하스몬 왕조 아래 유대가 사실상 독립했다.",
+    "zh": "公元前141年，马加比兄弟中最后在世的西门将塞琉古守军逐出耶路撒冷的阿克拉堡，民众大会确认他为大祭司和领袖。这标志着犹地亚在哈斯蒙尼王朝治下实际上获得独立。",
+    "ja": "前141年、マカバイ兄弟の最後の生き残りシモンがエルサレムのアクラからセレウコス朝の守備隊を追い出し、民会は彼を大祭司兼指導者として承認した。これによりハスモン朝の下でユダヤは事実上独立した。"
+   }
+  },
+  {
+   "year": -111,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "John Hyrcanus destroys the Gerizim temple",
+    "ko": "요한 히르카노스, 그리심 성전 파괴",
+    "zh": "约翰·许尔堪摧毁基利心圣殿",
+    "ja": "ヨハネ・ヒルカノス、ゲリジム神殿を破壊"
+   },
+   "description": {
+    "en": "The Hasmonean ruler John Hyrcanus conquered Samaria and destroyed the Samaritan temple and town on Mount Gerizim; coins found at the site point to about 111–110 BC. He later razed the city of Samaria as well, deepening the lasting rift between Jews and Samaritans.",
+    "ko": "하스몬 왕조의 통치자 요한 히르카노스는 사마리아를 정복하고 그리심 산의 사마리아 성전과 마을을 파괴했다. 유적에서 나온 주화는 기원전 111~110년경을 가리킨다. 그는 이후 사마리아 성까지 허물어 유대인과 사마리아인 사이의 오랜 반목을 깊게 했다.",
+    "zh": "哈斯蒙尼统治者约翰·许尔堪征服撒马利亚，摧毁了基利心山上的撒马利亚圣殿和城镇；遗址出土的钱币指向约公元前111—前110年。他后来又夷平撒马利亚城，加深了犹太人与撒马利亚人之间长久的隔阂。",
+    "ja": "ハスモン朝の支配者ヨハネ・ヒルカノスはサマリアを征服し、ゲリジム山のサマリア神殿と町を破壊した。遺跡出土の硬貨は前111〜前110年頃を示す。彼はのちにサマリア市も破壊し、ユダヤ人とサマリア人の長い対立を深めた。"
+   }
+  },
+  {
+   "year": -96,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Alexander Jannaeus destroys Gaza",
+    "ko": "알렉산드로스 얀나이오스의 가자 파괴",
+    "zh": "亚历山大·詹尼亚斯摧毁加沙",
+    "ja": "アレクサンドロス・ヤンナイオス、ガザを破壊"
+   },
+   "description": {
+    "en": "The Hasmonean king Alexander Jannaeus besieged Gaza for about a year and, around 96 BC, captured and destroyed it, according to Josephus. The city was refounded after the Roman general Gabinius restored the coastal cities in the 50s BC.",
+    "ko": "요세푸스에 따르면 하스몬 왕 알렉산드로스 얀나이오스는 약 1년간 가자를 포위한 끝에 기원전 96년경 함락해 파괴했다. 도시는 기원전 50년대 로마 장군 가비니우스가 해안 도시들을 복구한 뒤 재건되었다.",
+    "zh": "据约瑟夫斯记载，哈斯蒙尼国王亚历山大·詹尼亚斯围攻加沙约一年，约于公元前96年攻陷并摧毁该城。公元前50年代罗马将领加比尼乌斯重建沿海城市后，加沙得以复兴。",
+    "ja": "ヨセフスによれば、ハスモン朝の王アレクサンドロス・ヤンナイオスは約1年ガザを包囲し、前96年頃に攻略して破壊した。前50年代にローマの将軍ガビニウスが海岸諸都市を復興すると、ガザも再建された。"
+   }
+  },
+  {
+   "year": -63,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Pompey captures Jerusalem",
+    "ko": "폼페이우스의 예루살렘 점령",
+    "zh": "庞培攻占耶路撒冷",
+    "ja": "ポンペイウス、エルサレムを占領"
+   },
+   "description": {
+    "en": "Intervening in a civil war between the Hasmonean brothers Hyrcanus II and Aristobulus II, the Roman general Pompey besieged and took the Temple Mount in 63 BC. Judea became a Roman client state, beginning seven centuries of Roman and Byzantine dominance.",
+    "ko": "하스몬 형제 히르카노스 2세와 아리스토불로스 2세의 내전에 개입한 로마 장군 폼페이우스는 기원전 63년 성전산을 포위해 점령했다. 유대는 로마의 종속국이 되었고, 7세기에 걸친 로마·비잔티움 지배가 시작되었다.",
+    "zh": "罗马将领庞培介入哈斯蒙尼兄弟许尔堪二世与阿里斯托布鲁斯二世之间的内战，于公元前63年围攻并攻占圣殿山。犹地亚成为罗马的附庸国，由此开始了长达七个世纪的罗马和拜占庭统治。",
+    "ja": "ハスモン家の兄弟ヒルカノス2世とアリストブロス2世の内戦に介入したローマの将軍ポンペイウスは、前63年に神殿の丘を包囲して占領した。ユダヤはローマの従属国となり、7世紀に及ぶローマ・ビザンツ支配が始まった。"
+   }
+  },
+  {
+   "year": -37,
+   "qid": "Q16000109",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Herod the Great takes Jerusalem",
+    "ko": "헤롯 대왕의 예루살렘 장악",
+    "zh": "大希律攻取耶路撒冷",
+    "ja": "ヘロデ大王、エルサレムを奪取"
+   },
+   "description": {
+    "en": "Appointed king of Judea by the Roman Senate in 40 BC, Herod captured Jerusalem with Roman help in 37 BC, ending Hasmonean rule. His long reign brought stability, heavy taxation and harsh repression of rivals.",
+    "ko": "기원전 40년 로마 원로원에 의해 유대 왕으로 임명된 헤롯은 기원전 37년 로마의 도움으로 예루살렘을 장악해 하스몬 왕조를 끝냈다. 그의 긴 통치는 안정과 함께 무거운 세금, 경쟁자들에 대한 가혹한 탄압을 가져왔다.",
+    "zh": "公元前40年被罗马元老院册封为犹地亚国王的希律，于公元前37年在罗马协助下攻取耶路撒冷，终结了哈斯蒙尼王朝。他漫长的统治带来了稳定，也伴随着重税和对对手的残酷镇压。",
+    "ja": "前40年にローマ元老院からユダヤ王に任じられたヘロデは、前37年にローマの助けでエルサレムを奪い、ハスモン朝を終わらせた。その長い治世は安定をもたらす一方、重税と競争相手への苛烈な弾圧を伴った。"
+   }
+  },
+  {
+   "year": -19,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Herod rebuilds the Temple",
+    "ko": "헤롯의 성전 재건",
+    "zh": "希律重建圣殿",
+    "ja": "ヘロデの神殿改築"
+   },
+   "description": {
+    "en": "Around 20–19 BC Herod began a vast reconstruction of the Jerusalem Temple and expanded the Temple Mount platform with massive retaining walls, of which the Western Wall is a surviving part. He also built Herodium near Bethlehem, where his tomb was identified in 2007, and the monumental enclosure over the Cave of the Patriarchs in Hebron.",
+    "ko": "기원전 20~19년경 헤롯은 예루살렘 성전의 대규모 재건에 착수하고 거대한 옹벽으로 성전산 기단을 확장했는데, 서쪽 벽(통곡의 벽)이 그 일부로 남아 있다. 그는 또한 2007년 그의 무덤이 확인된 베들레헴 인근 헤로디움과 헤브론 막벨라 굴 위의 웅장한 담장을 지었다.",
+    "zh": "约公元前20—前19年，希律开始大规模重建耶路撒冷圣殿，并以巨大的挡土墙扩建圣殿山平台，西墙（哭墙）即其遗存部分。他还在伯利恒附近修建了希律堡（2007年在此确认了他的陵墓），并在希伯伦的列祖之墓上方建造了宏伟的围墙。",
+    "ja": "前20〜前19年頃、ヘロデはエルサレム神殿の大改築に着手し、巨大な擁壁で神殿の丘の基壇を拡張した。西の壁（嘆きの壁）はその現存部分である。彼はまた、2007年に墓が確認されたベツレヘム近郊のヘロディオンと、ヘブロンの族長の墓を囲む壮大な周壁を築いた。"
+   }
+  },
+  {
+   "year": -5,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Birth of Jesus in Bethlehem (tradition)",
+    "ko": "베들레헴에서 예수 탄생(전승)",
+    "zh": "耶稣降生于伯利恒（传统）",
+    "ja": "ベツレヘムでのイエスの誕生（伝承）"
+   },
+   "description": {
+    "en": "According to the Gospels of Matthew and Luke, Jesus was born in Bethlehem during the reign of Herod the Great, which most historians place around 6–4 BC. Bethlehem became one of the holiest sites of Christianity, marked from the 4th century by the Church of the Nativity.",
+    "ko": "마태복음과 누가복음에 따르면 예수는 헤롯 대왕 치세에 베들레헴에서 태어났으며, 대부분의 역사가는 이를 기원전 6~4년경으로 본다. 베들레헴은 기독교 최고 성지 가운데 하나가 되었고, 4세기부터 예수 탄생 교회가 그 자리를 표시해 왔다.",
+    "zh": "据《马太福音》和《路加福音》记载，耶稣生于大希律在位期间的伯利恒，多数史家将此定在约公元前6至前4年。伯利恒由此成为基督教最神圣的地点之一，4世纪起建有圣诞教堂以资纪念。",
+    "ja": "マタイとルカの福音書によれば、イエスはヘロデ大王の治世にベツレヘムで生まれ、多くの歴史家はそれを前6〜前4年頃とする。ベツレヘムはキリスト教の最も神聖な地の一つとなり、4世紀以来、聖誕教会がその場所を示している。"
+   }
+  },
+  {
+   "year": -4,
+   "qid": "Q1613773",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Herod's kingdom divided",
+    "ko": "헤롯 왕국의 분할",
+    "zh": "希律王国被分割",
+    "ja": "ヘロデ王国の分割"
+   },
+   "description": {
+    "en": "After Herod died in 4 BC, Augustus divided his kingdom: Archelaus received Judea, Samaria and Idumea, Antipas Galilee and Perea, and Philip the northeast. Archelaus proved so unpopular that Rome deposed him in AD 6 and placed Judea and Samaria under a Roman prefect.",
+    "ko": "기원전 4년 헤롯이 죽자 아우구스투스는 그의 왕국을 나누어 아르켈라오스에게 유대·사마리아·이두매를, 안티파스에게 갈릴리와 베레아를, 필리포스에게 북동부를 주었다. 아르켈라오스는 인심을 잃어 서기 6년 로마에 의해 폐위되었고, 유대와 사마리아는 로마 총독의 통치를 받게 되었다.",
+    "zh": "公元前4年希律去世后，奥古斯都将其王国一分为三：亚基老得到犹地亚、撒马利亚和以土买，安提帕得到加利利和比利亚，腓力得到东北部。亚基老极不得人心，公元6年被罗马废黜，犹地亚和撒马利亚改由罗马长官治理。",
+    "ja": "前4年にヘロデが死ぬと、アウグストゥスはその王国を分け、アルケラオスにユダヤ・サマリア・イドマヤを、アンティパスにガリラヤとペレアを、フィリッポスに北東部を与えた。アルケラオスは人心を失い後6年にローマに廃位され、ユダヤとサマリアはローマの総督の統治下に置かれた。"
+   }
+  },
+  {
+   "year": 30,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Crucifixion of Jesus in Jerusalem",
+    "ko": "예루살렘에서 예수의 십자가 처형",
+    "zh": "耶稣在耶路撒冷被钉十字架",
+    "ja": "エルサレムでのイエスの磔刑"
+   },
+   "description": {
+    "en": "Jesus of Nazareth, a Jewish preacher from Galilee, was crucified in Jerusalem on the orders of the Roman prefect Pontius Pilate, around AD 30–33. His followers proclaimed his resurrection, and the movement they founded in Jerusalem grew into Christianity.",
+    "ko": "갈릴리 출신의 유대인 설교자 나사렛 예수는 서기 30~33년경 로마 총독 본디오 빌라도의 명령으로 예루살렘에서 십자가에 처형되었다. 그의 추종자들은 부활을 선포했고, 이들이 예루살렘에서 시작한 운동은 기독교로 성장했다.",
+    "zh": "来自加利利的犹太传道者拿撒勒人耶稣约于公元30—33年间，在罗马总督本丢·彼拉多的命令下于耶路撒冷被钉死在十字架上。他的追随者宣扬其复活，他们在耶路撒冷开创的运动后来发展为基督教。",
+    "ja": "ガリラヤ出身のユダヤ人説教者ナザレのイエスは、後30〜33年頃、ローマ総督ポンティウス・ピラトゥスの命によりエルサレムで十字架刑に処された。弟子たちはその復活を宣べ伝え、彼らがエルサレムで始めた運動はキリスト教へと成長した。"
+   }
+  },
+  {
+   "year": 66,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "First Jewish–Roman War begins",
+    "ko": "제1차 유대-로마 전쟁 발발",
+    "zh": "第一次犹太-罗马战争爆发",
+    "ja": "第一次ユダヤ戦争の勃発"
+   },
+   "description": {
+    "en": "Tensions over taxation, Roman misrule and religious affronts exploded into open revolt in AD 66, when rebels expelled the Roman garrison from Jerusalem. Vespasian and then his son Titus reconquered the country district by district.",
+    "ko": "과세와 로마의 실정, 종교적 모욕을 둘러싼 긴장은 서기 66년 반란군이 예루살렘에서 로마 수비대를 몰아내면서 공개 반란으로 폭발했다. 베스파시아누스와 그의 아들 티투스가 지역별로 다시 정복해 나갔다.",
+    "zh": "围绕赋税、罗马暴政和宗教冒犯的紧张局势于公元66年爆发为公开起义，起义者将罗马守军逐出耶路撒冷。韦斯巴芗及其子提图斯逐区重新征服了这片土地。",
+    "ja": "課税やローマの失政、宗教的侮辱をめぐる緊張は後66年、反乱者がエルサレムからローマ守備隊を追い出したことで公然たる反乱となった。ウェスパシアヌスとその子ティトゥスが地域ごとに再征服していった。"
+   }
+  },
+  {
+   "year": 70,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Destruction of the Second Temple",
+    "ko": "제2성전의 파괴",
+    "zh": "第二圣殿被毁",
+    "ja": "第二神殿の破壊"
+   },
+   "description": {
+    "en": "After a months-long siege, Roman legions under Titus stormed Jerusalem in AD 70 and burned the Temple. The city was largely destroyed and many inhabitants killed or enslaved; Judaism reorganised around the synagogue and rabbinic learning, while the Arch of Titus in Rome celebrated the victory.",
+    "ko": "수개월에 걸친 포위 끝에 티투스가 이끄는 로마 군단은 서기 70년 예루살렘을 함락하고 성전을 불태웠다. 도시는 대부분 파괴되고 많은 주민이 죽거나 노예가 되었으며, 유대교는 회당과 랍비 학문 중심으로 재편되었고 로마의 티투스 개선문이 승리를 기념했다.",
+    "zh": "经过数月围城，提图斯率领的罗马军团于公元70年攻入耶路撒冷并焚毁圣殿。城市大部被毁，许多居民遇害或沦为奴隶；犹太教转而以会堂和拉比学术为中心重组，罗马的提图斯凯旋门则纪念了这场胜利。",
+    "ja": "数か月の包囲の末、ティトゥス率いるローマ軍団は後70年にエルサレムを陥落させ神殿を焼いた。都市の大半は破壊され多くの住民が殺されるか奴隷にされた。ユダヤ教はシナゴーグとラビの学問を中心に再編され、ローマのティトゥス凱旋門がこの勝利を記念した。"
+   }
+  },
+  {
+   "year": 135,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Bar Kokhba revolt crushed; Syria Palaestina",
+    "ko": "바르 코크바 반란 진압과 시리아 팔라이스티나",
+    "zh": "巴尔·科赫巴起义被镇压与叙利亚-巴勒斯坦",
+    "ja": "バル・コクバの乱の鎮圧とシリア・パレスティナ"
+   },
+   "description": {
+    "en": "A second great revolt led by Simon bar Kosiba (Bar Kokhba) broke out in 132 and was crushed in 135 with the fall of Betar, southwest of Jerusalem. Hadrian refounded Jerusalem as the Roman colony Aelia Capitolina, barred Jews from entering it, and the province was renamed Syria Palaestina.",
+    "ko": "시몬 바르 코시바(바르 코크바)가 이끈 두 번째 대반란이 132년에 일어났으나 135년 예루살렘 남서쪽 베타르가 함락되며 진압되었다. 하드리아누스는 예루살렘을 로마 식민시 아일리아 카피톨리나로 재건하고 유대인의 출입을 금지했으며, 속주 이름은 시리아 팔라이스티나로 바뀌었다.",
+    "zh": "由西门·巴尔·科西巴（巴尔·科赫巴）领导的第二次大起义于132年爆发，135年随着耶路撒冷西南的贝塔尔陷落而被镇压。哈德良将耶路撒冷重建为罗马殖民城市埃利亚·卡皮托利纳，禁止犹太人进入，行省也更名为叙利亚-巴勒斯坦。",
+    "ja": "シモン・バル・コシバ（バル・コクバ）率いる第2の大反乱が132年に起こったが、135年にエルサレム南西のベタルが陥落して鎮圧された。ハドリアヌスはエルサレムをローマ植民市アエリア・カピトリナとして再建してユダヤ人の立ち入りを禁じ、属州名はシリア・パレスティナに改められた。"
+   }
+  },
+  {
+   "year": 270,
+   "qid": "Q877875",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Palmyrene interlude",
+    "ko": "팔미라 제국의 일시 지배",
+    "zh": "帕尔米拉帝国的短暂统治",
+    "ja": "パルミラ帝国の一時支配"
+   },
+   "description": {
+    "en": "During the crisis of the 3rd century, Queen Zenobia of Palmyra seized the Roman East, including Palestine and Egypt, around 270. Emperor Aurelian reconquered the region in 272, restoring direct Roman rule.",
+    "ko": "3세기의 위기 속에서 팔미라의 여왕 제노비아는 270년경 팔레스타인과 이집트를 포함한 로마 동방을 장악했다. 아우렐리아누스 황제가 272년 이 지역을 재정복해 로마의 직접 지배를 회복했다.",
+    "zh": "在三世纪危机中，帕尔米拉女王芝诺比娅约于270年夺取了包括巴勒斯坦和埃及在内的罗马东方。皇帝奥勒良于272年收复该地区，恢复了罗马的直接统治。",
+    "ja": "3世紀の危機の中、パルミラの女王ゼノビアは270年頃にパレスチナやエジプトを含むローマ東方を掌握した。皇帝アウレリアヌスは272年にこの地域を再征服し、ローマの直接支配を回復した。"
+   }
+  },
+  {
+   "year": 335,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Constantine's churches in Jerusalem and Bethlehem",
+    "ko": "콘스탄티누스의 예루살렘·베들레헴 교회",
+    "zh": "君士坦丁在耶路撒冷和伯利恒修建教堂",
+    "ja": "コンスタンティヌスのエルサレム・ベツレヘム教会"
+   },
+   "description": {
+    "en": "After Emperor Constantine embraced Christianity, his mother Helena visited the Holy Land around 326, and imperial churches were built over sites associated with Jesus. The Church of the Holy Sepulchre in Jerusalem was dedicated in 335, and the Church of the Nativity in Bethlehem was built in the same period, launching Christian pilgrimage on a large scale.",
+    "ko": "콘스탄티누스 황제가 기독교를 받아들인 뒤 그의 어머니 헬레나가 326년경 성지를 방문했고, 예수와 관련된 장소마다 황실 교회가 세워졌다. 예루살렘 성묘 교회는 335년 봉헌되었으며, 베들레헴 예수 탄생 교회도 같은 시기에 지어져 대규모 기독교 순례가 시작되었다.",
+    "zh": "君士坦丁大帝皈依基督教后，其母海伦娜约于326年访问圣地，在与耶稣相关的地点修建了皇家教堂。耶路撒冷圣墓教堂于335年祝圣，伯利恒圣诞教堂也建于同一时期，由此开启了大规模的基督教朝圣。",
+    "ja": "皇帝コンスタンティヌスがキリスト教を受け入れると、母ヘレナが326年頃に聖地を訪れ、イエスゆかりの地に皇帝の教会が建てられた。エルサレムの聖墳墓教会は335年に献堂され、ベツレヘムの聖誕教会も同時期に建てられて、大規模なキリスト教巡礼が始まった。"
+   }
+  },
+  {
+   "year": 444,
+   "qid": "Q115049558",
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Byzantine church of Jabalia",
+    "ko": "자발리아의 비잔티움 교회",
+    "zh": "贾巴利亚的拜占庭教堂",
+    "ja": "ジャバリヤのビザンツ教会"
+   },
+   "description": {
+    "en": "A Byzantine church at Jabalia in the northern Gaza Strip, dated by its inscriptions to the 5th century, was decorated with extensive mosaic floors depicting animals, hunting scenes and vines. Uncovered in the late 1990s, it is one of the best-preserved witnesses to the prosperous Christian Gaza of late antiquity.",
+    "ko": "가자 지구 북부 자발리아의 비잔티움 교회는 비문에 따라 5세기로 연대가 매겨지며, 동물·사냥 장면·포도 덩굴을 그린 넓은 모자이크 바닥으로 장식되었다. 1990년대 말에 발굴된 이 교회는 고대 후기 번영한 기독교 도시 가자를 가장 잘 보여 주는 유적 가운데 하나이다.",
+    "zh": "位于加沙地带北部贾巴利亚的一座拜占庭教堂，据铭文可定年于5世纪，地面铺有大面积马赛克，描绘动物、狩猎场景和葡萄藤。它于20世纪90年代末被发现，是古代晚期繁荣的基督教加沙保存最好的见证之一。",
+    "ja": "ガザ地区北部ジャバリヤのビザンツ教会は碑文から5世紀のものとされ、動物や狩猟の場面、ブドウの蔓を描いた広いモザイク床で飾られていた。1990年代末に発掘されたこの教会は、古代末期の繁栄したキリスト教都市ガザを最もよく伝える遺跡の一つである。"
+   }
+  },
+  {
+   "year": 451,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Jerusalem becomes a patriarchate",
+    "ko": "예루살렘 총대주교구 승격",
+    "zh": "耶路撒冷升为宗主教区",
+    "ja": "エルサレム、総主教座となる"
+   },
+   "description": {
+    "en": "The Council of Chalcedon in 451 raised the bishop of Jerusalem to the rank of patriarch, one of the five great sees of the Christian world. The council's doctrinal decisions also provoked a revolt among Palestinian monks, showing the region's importance in church politics.",
+    "ko": "451년 칼케돈 공의회는 예루살렘 주교를 기독교 세계 5대 총대주교 가운데 하나로 승격시켰다. 공의회의 교리 결정은 팔레스타인 수도사들의 반발을 불러, 교회 정치에서 이 지역이 지닌 중요성을 보여 주었다.",
+    "zh": "451年的卡尔西顿公会议将耶路撒冷主教提升为宗主教，使其跻身基督教世界五大宗主教区之列。公会议的教义决定也引发了巴勒斯坦修士的反抗，显示出该地区在教会政治中的重要地位。",
+    "ja": "451年のカルケドン公会議はエルサレム主教を総主教に昇格させ、キリスト教世界の五大総主教座の一つとした。公会議の教義決定はパレスチナの修道士の反発も招き、教会政治におけるこの地域の重要性を示した。"
+   }
+  },
+  {
+   "year": 483,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Mar Saba monastery founded",
+    "ko": "마르 사바 수도원 창건",
+    "zh": "玛尔萨巴修道院创建",
+    "ja": "マル・サバ修道院の創建"
+   },
+   "description": {
+    "en": "In 483 the monk Sabbas founded a lavra in the Kidron Valley gorge in the Judean Desert east of Bethlehem. Mar Saba became one of the great centres of Eastern monasticism and later home to John of Damascus; it is still inhabited by Greek Orthodox monks.",
+    "ko": "483년 수도사 사바스는 베들레헴 동쪽 유대 광야의 키드론 계곡 협곡에 라브라를 세웠다. 마르 사바는 동방 수도원 운동의 큰 중심지가 되었고 훗날 다마스쿠스의 요한이 머물렀으며, 지금도 그리스 정교회 수도사들이 살고 있다.",
+    "zh": "483年，修士撒巴在伯利恒以东犹大荒野的汲沦谷峡谷中创建了一座修道院（拉夫拉）。玛尔萨巴成为东方修道运动的重要中心，后来大马士革的约翰曾居于此，至今仍有希腊东正教修士居住。",
+    "ja": "483年、修道士サバスはベツレヘム東方のユダの荒野、キドロンの谷の峡谷にラヴラを開いた。マル・サバは東方修道制の大中心地となり、のちにダマスコのイオアンネスも住み、現在もギリシア正教の修道士が暮らしている。"
+   }
+  },
+  {
+   "year": 500,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "The school of Gaza",
+    "ko": "가자 학파",
+    "zh": "加沙学派",
+    "ja": "ガザ学派"
+   },
+   "description": {
+    "en": "Around 500, Gaza was home to a renowned school of rhetoric and Christian learning led by figures such as Procopius of Gaza and his pupil Choricius. Their speeches and letters describe a wealthy port city with churches, festivals and a thriving wine trade.",
+    "ko": "500년경 가자에는 가자의 프로코피오스와 그의 제자 코리키오스 같은 인물이 이끈 이름난 수사학·기독교 학문의 학파가 있었다. 그들의 연설과 서신은 교회와 축제, 활발한 포도주 교역을 갖춘 부유한 항구 도시를 묘사한다.",
+    "zh": "约公元500年，加沙有一个著名的修辞学与基督教学术学派，代表人物有加沙的普罗科匹厄斯及其弟子科里修斯。他们的演说和书信描绘了一座拥有教堂、节庆和繁荣葡萄酒贸易的富庶港口城市。",
+    "ja": "500年頃のガザには、ガザのプロコピオスとその弟子コリキオスらが率いる名高い修辞学とキリスト教学問の学派があった。彼らの演説や書簡は、教会や祭り、盛んなワイン交易を備えた豊かな港町を描いている。"
+   }
+  },
+  {
+   "year": 529,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Samaritan revolts",
+    "ko": "사마리아인의 반란",
+    "zh": "撒马利亚人起义",
+    "ja": "サマリア人の反乱"
+   },
+   "description": {
+    "en": "Resentment of Byzantine restrictions led the Samaritans of the Nablus region to rebel in 484 and again in 529 under Julianus ben Sabar. Both revolts were crushed with great loss of life, and the Samaritan community, once numerous, declined sharply.",
+    "ko": "비잔티움의 제약에 대한 반감으로 나블루스 지역의 사마리아인들은 484년, 그리고 529년 율리아누스 벤 사바르의 지휘 아래 다시 반란을 일으켰다. 두 반란 모두 많은 인명 피해 속에 진압되었고, 한때 많던 사마리아인 공동체는 급격히 쇠퇴했다.",
+    "zh": "出于对拜占庭限制政策的不满，纳布卢斯一带的撒马利亚人于484年起义，529年又在尤利安努斯·本·萨巴尔领导下再次起义。两次起义均遭血腥镇压，曾经人数众多的撒马利亚社群急剧衰落。",
+    "ja": "ビザンツの規制への反発から、ナーブルス地方のサマリア人は484年に、さらに529年にはユリアヌス・ベン・サバルのもとで再び反乱を起こした。いずれも多大な犠牲を出して鎮圧され、かつて多数を誇ったサマリア人共同体は急速に衰退した。"
+   }
+  },
+  {
+   "year": 614,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Persians capture Jerusalem",
+    "ko": "페르시아의 예루살렘 함락",
+    "zh": "波斯攻陷耶路撒冷",
+    "ja": "ペルシア、エルサレムを攻略"
+   },
+   "description": {
+    "en": "During the Byzantine–Sasanian war, a Persian army under Shahrbaraz took Jerusalem in 614 after a short siege. Churches were burned, many inhabitants killed or deported, and the relic of the True Cross carried off to Ctesiphon.",
+    "ko": "비잔티움-사산 전쟁 중 샤흐르바라즈가 이끈 페르시아군은 짧은 포위 끝에 614년 예루살렘을 함락했다. 교회들이 불타고 많은 주민이 죽거나 끌려갔으며, '참십자가' 성유물은 크테시폰으로 옮겨졌다.",
+    "zh": "在拜占庭-萨珊战争中，沙赫尔巴拉兹率领的波斯军队经短暂围城于614年攻占耶路撒冷。教堂被焚，许多居民被杀或被掳，“真十字架”圣物被运往泰西封。",
+    "ja": "ビザンツ・サーサーン戦争の中、シャフルバラーズ率いるペルシア軍は短い包囲の後614年にエルサレムを攻略した。教会は焼かれ多くの住民が殺害・連行され、「聖十字架」の聖遺物はクテシフォンへ運ばれた。"
+   }
+  },
+  {
+   "year": 630,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Heraclius returns the True Cross",
+    "ko": "헤라클리우스의 참십자가 반환",
+    "zh": "希拉克略送还真十字架",
+    "ja": "ヘラクレイオス、聖十字架を返還"
+   },
+   "description": {
+    "en": "Having defeated Persia, Emperor Heraclius entered Jerusalem in 630 and restored the True Cross to the Church of the Holy Sepulchre. The triumph was short-lived: within a few years Arab Muslim armies arrived in Palestine.",
+    "ko": "페르시아를 물리친 헤라클리우스 황제는 630년 예루살렘에 입성해 참십자가를 성묘 교회에 돌려놓았다. 그러나 승리는 오래가지 못했고, 몇 년 뒤 아랍 무슬림 군대가 팔레스타인에 도착했다.",
+    "zh": "击败波斯后，皇帝希拉克略于630年进入耶路撒冷，把真十字架送回圣墓教堂。但这一胜利转瞬即逝：数年之内阿拉伯穆斯林军队就来到了巴勒斯坦。",
+    "ja": "ペルシアを破った皇帝ヘラクレイオスは630年にエルサレムに入城し、聖十字架を聖墳墓教会に戻した。だが勝利は束の間で、数年のうちにアラブ・ムスリム軍がパレスチナに到来した。"
+   }
+  },
+  {
+   "year": 634,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Arab conquest begins near Gaza",
+    "ko": "가자 인근에서 아랍 정복 시작",
+    "zh": "阿拉伯人在加沙附近开始征服",
+    "ja": "ガザ近郊でアラブの征服始まる"
+   },
+   "description": {
+    "en": "In February 634 a Muslim army under Amr ibn al-As defeated Byzantine forces at Dathin near Gaza, and in July Khalid ibn al-Walid's combined armies won the Battle of Ajnadayn. These victories opened Palestine to the Rashidun Caliphate.",
+    "ko": "634년 2월 아므르 이븐 알아스가 이끈 무슬림 군대는 가자 인근 다신에서 비잔티움군을 격파했고, 7월에는 할리드 이븐 알왈리드의 연합군이 아즈나다인 전투에서 승리했다. 이 승리로 팔레스타인이 정통 칼리파국에 열렸다.",
+    "zh": "634年2月，阿慕尔·本·阿斯率领的穆斯林军队在加沙附近的达辛击败拜占庭军；7月，哈立德·本·瓦利德的联军赢得阿杰纳迪恩之战。这些胜利为正统哈里发国打开了巴勒斯坦的大门。",
+    "ja": "634年2月、アムル・イブン・アルアース率いるムスリム軍がガザ近郊のダーシンでビザンツ軍を破り、7月にはハーリド・イブン・アルワリードの連合軍がアジュナーダインの戦いに勝利した。これらの勝利で正統カリフ国にパレスチナへの道が開かれた。"
+   }
+  },
+  {
+   "year": 638,
+   "qid": "Q12490507",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Caliph Umar and the Muslim conquest of Jerusalem",
+    "ko": "칼리파 우마르와 이슬람 세력의 예루살렘 입성",
+    "zh": "哈里发欧麦尔与穆斯林进入耶路撒冷",
+    "ja": "カリフ・ウマルとイスラーム勢力のエルサレム入城"
+   },
+   "description": {
+    "en": "The Rashidun caliphate took Jerusalem from the Byzantines. Caliph Umar guaranteed the safety of its inhabitants, and Palestine entered a long era of largely Muslim rule.",
+    "ko": "정통 칼리파조가 비잔티움 제국으로부터 예루살렘을 차지했다. 칼리파 우마르는 주민의 안전을 보장했고, 이후 팔레스타인은 오랫동안 이슬람 세력의 지배를 받았다.",
+    "zh": "正统哈里发国从拜占庭帝国手中夺取耶路撒冷。哈里发欧麦尔保障了城中居民的安全，此后巴勒斯坦进入了长期的伊斯兰统治时代。",
+    "ja": "正統カリフ時代のイスラーム軍がビザンツ帝国からエルサレムを奪った。カリフ・ウマルは住民の安全を保障し、以後パレスチナは長くイスラーム勢力の支配下に置かれた。"
+   }
+  },
+  {
+   "year": 691,
+   "qid": "Q8575586",
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Dome of the Rock completed",
+    "ko": "바위의 돔 완공",
+    "zh": "岩石圆顶清真寺建成",
+    "ja": "岩のドーム完成"
+   },
+   "description": {
+    "en": "The Umayyad caliph Abd al-Malik completed the Dome of the Rock in Jerusalem, one of the earliest masterpieces of Islamic architecture and an enduring symbol of the city.",
+    "ko": "우마이야 왕조의 칼리파 아브드 알말리크가 예루살렘에 '바위의 돔'을 완공했다. 초기 이슬람 건축의 걸작으로, 오늘날까지 예루살렘을 상징하는 건축물이다.",
+    "zh": "倭马亚王朝哈里发阿卜杜勒-马利克在耶路撒冷建成岩石圆顶清真寺。它是伊斯兰建筑最早的杰作之一，至今仍是这座城市的象征。",
+    "ja": "ウマイヤ朝のカリフ、アブド・アルマリクがエルサレムに「岩のドーム」を完成させた。初期イスラーム建築の傑作であり、今日までこの都市の象徴となっている。"
+   }
+  },
+  {
+   "year": 705,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Umayyad al-Aqsa Mosque",
+    "ko": "우마이야 왕조의 알아크사 모스크",
+    "zh": "倭马亚王朝的阿克萨清真寺",
+    "ja": "ウマイヤ朝のアクサー・モスク"
+   },
+   "description": {
+    "en": "Around the early 8th century, under Abd al-Malik and his son al-Walid I, a great congregational mosque was built at the southern end of the Haram al-Sharif, the al-Aqsa Mosque. Rebuilt several times after earthquakes, it is regarded in Islam as the third holiest mosque.",
+    "ko": "8세기 초 무렵 아브드 알말리크와 그의 아들 알왈리드 1세 치하에서 하람 알샤리프 남쪽 끝에 대모스크인 알아크사 모스크가 세워졌다. 지진 이후 여러 차례 재건된 이 모스크는 이슬람에서 세 번째로 성스러운 모스크로 여겨진다.",
+    "zh": "约8世纪初，在阿卜杜勒·马利克及其子瓦利德一世治下，尊贵禁地南端建起了一座大清真寺，即阿克萨清真寺。它在地震后多次重建，被伊斯兰教视为第三大圣寺。",
+    "ja": "8世紀初め頃、アブド・アルマリクとその子ワリード1世のもとで、ハラム・アッシャリーフの南端に大モスクのアクサー・モスクが建てられた。地震の後に何度も再建され、イスラームでは三番目に神聖なモスクとされる。"
+   }
+  },
+  {
+   "year": 749,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Earthquake of 749 and Hisham's Palace",
+    "ko": "749년 지진과 히샴 궁전",
+    "zh": "749年地震与希沙姆宫",
+    "ja": "749年の地震とヒシャーム宮殿"
+   },
+   "description": {
+    "en": "A powerful earthquake struck the Jordan Valley region in January 749, devastating towns across Palestine and Transjordan. It ruined the unfinished Umayyad palace of Khirbat al-Mafjar (Hisham's Palace) near Jericho, whose spectacular 'Tree of Life' mosaic survives.",
+    "ko": "749년 1월 요르단 계곡 일대를 강진이 덮쳐 팔레스타인과 트란스요르단 전역의 도시가 큰 피해를 입었다. 예리코 인근의 미완성 우마이야 궁전 히르바트 알마프자르(히샴 궁전)도 무너졌으며, 화려한 '생명의 나무' 모자이크가 남아 있다.",
+    "zh": "749年1月，一场强烈地震袭击约旦河谷地区，巴勒斯坦和外约旦各地城镇遭受重创。杰里科附近尚未完工的倭马亚宫殿希尔拜特·迈夫杰尔（希沙姆宫）因此毁坏，其壮丽的“生命之树”马赛克保存至今。",
+    "ja": "749年1月、強い地震がヨルダン渓谷一帯を襲い、パレスチナとトランスヨルダン各地の町が壊滅的な被害を受けた。エリコ近郊の未完成のウマイヤ朝宮殿ヒルバト・アル・マフジャル（ヒシャーム宮殿）も倒壊したが、見事な「生命の樹」のモザイクが残っている。"
+   }
+  },
+  {
+   "year": 767,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Birth of al-Shafi'i in Gaza",
+    "ko": "가자에서 알샤피이 탄생",
+    "zh": "沙斐仪生于加沙",
+    "ja": "ガザでシャーフィイー誕生"
+   },
+   "description": {
+    "en": "Muhammad ibn Idris al-Shafi'i, founder of one of the four Sunni schools of law, was born in 767, in Gaza according to most accounts. His systematic method of legal reasoning shaped Islamic jurisprudence, and the Shafi'i school became dominant in Palestine and much of the Islamic world.",
+    "ko": "수니파 4대 법학파 가운데 하나를 세운 무함마드 이븐 이드리스 알샤피이는 767년, 대부분의 기록에 따르면 가자에서 태어났다. 그의 체계적인 법적 추론 방법은 이슬람 법학을 형성했고, 샤피이 학파는 팔레스타인과 이슬람 세계 상당 지역에서 주류가 되었다.",
+    "zh": "逊尼派四大法学派之一的创始人穆罕默德·伊本·伊德里斯·沙斐仪生于767年，据多数记载出生于加沙。他系统化的法律推理方法塑造了伊斯兰法学，沙斐仪派成为巴勒斯坦及伊斯兰世界许多地区的主流学派。",
+    "ja": "スンナ派四大法学派の一つを開いたムハンマド・イブン・イドリース・シャーフィイーは、767年に多くの伝承によればガザで生まれた。その体系的な法推論の方法はイスラーム法学を形づくり、シャーフィイー派はパレスチナとイスラーム世界の多くで主流となった。"
+   }
+  },
+  {
+   "year": 878,
+   "qid": "Q726798",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Tulunids take Palestine",
+    "ko": "툴룬 왕조의 팔레스타인 장악",
+    "zh": "图伦王朝取得巴勒斯坦",
+    "ja": "トゥールーン朝、パレスチナを掌握"
+   },
+   "description": {
+    "en": "Ahmad ibn Tulun, the Abbasid governor of Egypt who had made himself virtually independent, occupied Palestine and Syria in 878. For the next three decades the region was ruled from Egypt, a pattern that would recur under later dynasties.",
+    "ko": "사실상 독립한 아바스 왕조의 이집트 총독 아흐마드 이븐 툴룬은 878년 팔레스타인과 시리아를 점령했다. 이후 30년 가까이 이 지역은 이집트에서 통치되었고, 이러한 양상은 이후 왕조들 아래에서도 되풀이되었다.",
+    "zh": "实际上已自立的阿拔斯王朝埃及总督艾哈迈德·伊本·图伦于878年占领巴勒斯坦和叙利亚。此后近三十年，该地区由埃及统治，这种格局在后来的王朝中反复出现。",
+    "ja": "事実上独立していたアッバース朝のエジプト総督アフマド・イブン・トゥールーンは878年にパレスチナとシリアを占領した。以後30年近くこの地域はエジプトから統治され、この構図は後の諸王朝でも繰り返された。"
+   }
+  },
+  {
+   "year": 970,
+   "qid": "Q160307",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fatimid conquest of Palestine",
+    "ko": "파티마 왕조의 팔레스타인 정복",
+    "zh": "法蒂玛王朝征服巴勒斯坦",
+    "ja": "ファーティマ朝のパレスチナ征服"
+   },
+   "description": {
+    "en": "After taking Egypt in 969, the Fatimid general Ja'far ibn Fallah advanced into Palestine and Syria in 970. Fatimid control was repeatedly challenged by Qarmatians, Bedouin tribes and Byzantine raids, making the late 10th and 11th centuries a turbulent time for the country.",
+    "ko": "969년 이집트를 차지한 파티마 왕조의 장군 자으파르 이븐 팔라흐는 970년 팔레스타인과 시리아로 진격했다. 파티마의 지배는 카르마트파, 베두인 부족, 비잔티움의 습격에 거듭 도전받아 10세기 말과 11세기는 혼란의 시대가 되었다.",
+    "zh": "969年取得埃及后，法蒂玛将领贾法尔·伊本·法拉赫于970年进军巴勒斯坦和叙利亚。法蒂玛的统治屡遭卡尔马特派、贝都因部落和拜占庭袭扰的挑战，使10世纪末至11世纪成为动荡时期。",
+    "ja": "969年にエジプトを得たファーティマ朝の将軍ジャアファル・イブン・ファラーフは970年にパレスチナとシリアへ進軍した。ファーティマ朝の支配はカルマト派やベドウィン諸部族、ビザンツの侵攻に繰り返し脅かされ、10世紀末から11世紀は混乱の時代となった。"
+   }
+  },
+  {
+   "year": 1009,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Al-Hakim destroys the Holy Sepulchre",
+    "ko": "알하킴의 성묘 교회 파괴",
+    "zh": "哈基姆摧毁圣墓教堂",
+    "ja": "ハーキム、聖墳墓教会を破壊"
+   },
+   "description": {
+    "en": "In 1009 the Fatimid caliph al-Hakim ordered the demolition of the Church of the Holy Sepulchre in Jerusalem as part of a wider persecution of Christians and Jews. The church was partly rebuilt by agreement with Byzantium in the following decades, and the destruction later fed European calls for crusade.",
+    "ko": "1009년 파티마 칼리파 알하킴은 기독교인과 유대인에 대한 광범위한 박해의 일환으로 예루살렘 성묘 교회의 철거를 명했다. 교회는 이후 수십 년간 비잔티움과의 협약으로 일부 재건되었으며, 이 파괴는 훗날 유럽의 십자군 요구를 부추겼다.",
+    "zh": "1009年，法蒂玛哈里发哈基姆下令拆毁耶路撒冷圣墓教堂，这是他广泛迫害基督徒和犹太人的一部分。此后数十年间，经与拜占庭达成协议，教堂得到部分重建；这一破坏后来助长了欧洲发动十字军的呼声。",
+    "ja": "1009年、ファーティマ朝カリフのハーキムはキリスト教徒とユダヤ教徒への広範な迫害の一環として、エルサレムの聖墳墓教会の破壊を命じた。教会はその後数十年でビザンツとの協定により一部再建されたが、この破壊は後にヨーロッパの十字軍の呼びかけを後押しした。"
+   }
+  },
+  {
+   "year": 1033,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Earthquake damages al-Aqsa",
+    "ko": "지진으로 알아크사 손상",
+    "zh": "地震损毁阿克萨清真寺",
+    "ja": "地震でアクサー・モスク損壊"
+   },
+   "description": {
+    "en": "A major earthquake in 1033 damaged Jerusalem and other towns of Palestine, bringing down much of the al-Aqsa Mosque. The Fatimid caliph al-Zahir rebuilt it in a smaller form, and much of his structure, including mosaics of the 1030s, survives in today's mosque.",
+    "ko": "1033년 큰 지진이 예루살렘과 팔레스타인의 다른 도시들을 덮쳐 알아크사 모스크의 상당 부분이 무너졌다. 파티마 칼리파 알자히르가 더 작은 규모로 재건했으며, 1030년대의 모자이크를 포함한 그의 건축 상당 부분이 오늘날 모스크에 남아 있다.",
+    "zh": "1033年的一场大地震破坏了耶路撒冷和巴勒斯坦其他城镇，阿克萨清真寺大部分倒塌。法蒂玛哈里发查希尔以较小规模将其重建，他的建筑（包括11世纪30年代的马赛克）大多保存在今天的清真寺中。",
+    "ja": "1033年の大地震がエルサレムとパレスチナの他の町を襲い、アクサー・モスクの大部分が倒壊した。ファーティマ朝カリフのザーヒルが規模を縮小して再建し、1030年代のモザイクを含むその建物の多くが今日のモスクに残っている。"
+   }
+  },
+  {
+   "year": 1073,
+   "qid": "Q3708094",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Seljuk Turkmen take Jerusalem",
+    "ko": "셀주크 튀르크멘의 예루살렘 장악",
+    "zh": "塞尔柱突厥人夺取耶路撒冷",
+    "ja": "セルジューク・トルクメン、エルサレムを奪取"
+   },
+   "description": {
+    "en": "The Turkmen commander Atsiz ibn Uvaq, acting under Seljuk suzerainty, captured Jerusalem from the Fatimids in 1073 and soon controlled much of inland Palestine. After a revolt in 1077 he retook the city violently; the Fatimids only regained it in 1098.",
+    "ko": "셀주크의 종주권 아래 활동한 튀르크멘 지휘관 아트시즈 이븐 우바크는 1073년 파티마 왕조로부터 예루살렘을 빼앗고 곧 팔레스타인 내륙 대부분을 장악했다. 1077년 반란이 일어나자 그는 도시를 무력으로 되찾았으며, 파티마 왕조는 1098년에야 다시 차지했다.",
+    "zh": "在塞尔柱宗主权下行事的突厥蛮将领阿特西兹·伊本·乌瓦克于1073年从法蒂玛王朝手中夺取耶路撒冷，不久控制了巴勒斯坦内陆大部分地区。1077年当地起义后他以武力重夺该城；法蒂玛王朝直到1098年才将其收复。",
+    "ja": "セルジューク朝の宗主権のもとで動いたトルクメンの指揮官アトスズ・イブン・ウヴァクは1073年にファーティマ朝からエルサレムを奪い、まもなくパレスチナ内陸の大半を支配した。1077年に反乱が起きると武力で同市を奪い返し、ファーティマ朝は1098年になってようやく奪回した。"
+   }
+  },
+  {
+   "year": 1099,
+   "qid": "Q55502",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Crusaders capture Jerusalem",
+    "ko": "십자군의 예루살렘 점령",
+    "zh": "十字军攻占耶路撒冷",
+    "ja": "十字軍のエルサレム占領"
+   },
+   "description": {
+    "en": "The First Crusade stormed Jerusalem, massacring much of its Muslim and Jewish population, and established the Latin Kingdom of Jerusalem in Palestine.",
+    "ko": "제1차 십자군이 예루살렘을 함락하고 무슬림과 유대인 주민 다수를 학살한 뒤, 팔레스타인에 예루살렘 왕국을 세웠다.",
+    "zh": "第一次十字军攻陷耶路撒冷，屠杀了大批穆斯林和犹太居民，并在巴勒斯坦建立了耶路撒冷拉丁王国。",
+    "ja": "第1回十字軍がエルサレムを陥落させ、ムスリムやユダヤ教徒の住民多数を虐殺した後、パレスチナにエルサレム王国を樹立した。"
+   }
+  },
+  {
+   "year": 1119,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Knights Templar founded at al-Aqsa",
+    "ko": "알아크사에서 성전 기사단 창설",
+    "zh": "圣殿骑士团在阿克萨创立",
+    "ja": "アクサーでテンプル騎士団創設"
+   },
+   "description": {
+    "en": "Around 1119–1120 the French knight Hugues de Payens and companions formed a religious order to protect pilgrims, and King Baldwin II gave them quarters in the al-Aqsa Mosque, which the Crusaders called the 'Temple of Solomon'. The Knights Templar became one of the most powerful institutions of medieval Christendom.",
+    "ko": "1119~1120년경 프랑스 기사 위그 드 파앵과 동료들이 순례자 보호를 위한 수도회를 결성했고, 보두앵 2세 왕은 십자군이 '솔로몬의 성전'이라 부른 알아크사 모스크에 그들의 숙소를 내주었다. 성전 기사단은 중세 기독교 세계에서 가장 강력한 기관의 하나가 되었다.",
+    "zh": "约1119—1120年，法国骑士于格·德·帕英及其同伴组建保护朝圣者的修会，国王鲍德温二世把被十字军称为“所罗门圣殿”的阿克萨清真寺拨给他们居住。圣殿骑士团成为中世纪基督教世界最有权势的机构之一。",
+    "ja": "1119〜1120年頃、フランスの騎士ユーグ・ド・パイヤンと仲間たちは巡礼者を守る修道会を結成し、国王ボードゥアン2世は十字軍が「ソロモンの神殿」と呼んだアクサー・モスクを彼らの宿舎として与えた。テンプル騎士団は中世キリスト教世界で最も強力な組織の一つとなった。"
+   }
+  },
+  {
+   "year": 1187,
+   "qid": "Q180114",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Saladin retakes Jerusalem",
+    "ko": "살라딘의 예루살렘 탈환",
+    "zh": "萨拉丁收复耶路撒冷",
+    "ja": "サラディンのエルサレム奪回"
+   },
+   "description": {
+    "en": "After his victory at the Battle of Hattin, Saladin recaptured Jerusalem from the Crusaders, restoring Muslim rule over most of Palestine.",
+    "ko": "살라딘은 하틴 전투에서 승리한 뒤 십자군으로부터 예루살렘을 되찾아 팔레스타인 대부분에 이슬람 지배를 회복했다.",
+    "zh": "萨拉丁在哈丁战役获胜后从十字军手中收复耶路撒冷，恢复了穆斯林对巴勒斯坦大部分地区的统治。",
+    "ja": "サラディンはヒッティーンの戦いに勝利した後、十字軍からエルサレムを奪回し、パレスチナの大部分にムスリムの支配を回復した。"
+   }
+  },
+  {
+   "year": 1192,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Jaffa between Saladin and Richard",
+    "ko": "살라딘과 리처드의 야파 조약",
+    "zh": "萨拉丁与理查的雅法条约",
+    "ja": "サラディンとリチャードのヤッファ条約"
+   },
+   "description": {
+    "en": "The Third Crusade ended in 1192 with a truce between Saladin and Richard the Lionheart. Jerusalem and the interior stayed under Ayyubid rule, while unarmed Christian pilgrims were allowed to visit the holy places.",
+    "ko": "제3차 십자군은 1192년 살라딘과 사자왕 리처드 사이의 휴전으로 끝났다. 예루살렘과 내륙은 아이유브 왕조의 지배에 남았고, 무장하지 않은 기독교 순례자들의 성지 방문이 허용되었다.",
+    "zh": "第三次十字军以1192年萨拉丁与狮心王理查签订停战协定告终。耶路撒冷和内陆仍归阿尤布王朝统治，非武装的基督教朝圣者获准参访圣地。",
+    "ja": "第3回十字軍は1192年、サラディンと獅子心王リチャードの休戦で終わった。エルサレムと内陸はアイユーブ朝の支配下に残り、武装していないキリスト教巡礼者の聖地訪問が認められた。"
+   }
+  },
+  {
+   "year": 1229,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Frederick II regains Jerusalem by treaty",
+    "ko": "프리드리히 2세, 조약으로 예루살렘 회복",
+    "zh": "腓特烈二世依约收回耶路撒冷",
+    "ja": "フリードリヒ2世、条約でエルサレム回復"
+   },
+   "description": {
+    "en": "In 1229 the Holy Roman Emperor Frederick II negotiated a ten-year treaty with the Ayyubid sultan al-Kamil that returned Jerusalem, Bethlehem and a corridor to the coast to the Crusaders without a battle. The Haram al-Sharif remained in Muslim hands, and the deal was denounced by many on both sides.",
+    "ko": "1229년 신성 로마 황제 프리드리히 2세는 아이유브 술탄 알카밀과 10년 조약을 맺어 전투 없이 예루살렘·베들레헴과 해안으로 가는 통로를 십자군에 돌려받았다. 하람 알샤리프는 무슬림의 손에 남았고, 이 협정은 양측 모두에서 많은 비난을 받았다.",
+    "zh": "1229年，神圣罗马皇帝腓特烈二世与阿尤布苏丹卡米勒谈判签订十年条约，未经一战便将耶路撒冷、伯利恒及通往海岸的走廊交还十字军。尊贵禁地仍由穆斯林掌管，这项协议受到双方许多人的谴责。",
+    "ja": "1229年、神聖ローマ皇帝フリードリヒ2世はアイユーブ朝スルタンのカーミルと10年の条約を結び、戦わずしてエルサレム・ベツレヘムと海岸への回廊を十字軍に取り戻した。ハラム・アッシャリーフはムスリムの手に残り、この取り決めは双方の多くから非難された。"
+   }
+  },
+  {
+   "year": 1244,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Sack of Jerusalem and Battle of La Forbie",
+    "ko": "예루살렘 약탈과 라포르비 전투",
+    "zh": "耶路撒冷遭洗劫与拉福比之战",
+    "ja": "エルサレム略奪とラ・フォルビーの戦い"
+   },
+   "description": {
+    "en": "In 1244 Khwarazmian horsemen allied with the Ayyubid sultan of Egypt sacked Jerusalem, ending Crusader rule there for good. In October they and an Egyptian army under Baybars crushed the Crusaders and their Syrian allies at La Forbie (Harbiyya) northeast of Gaza.",
+    "ko": "1244년 이집트 아이유브 술탄과 동맹한 호라즘 기병이 예루살렘을 약탈해 이곳의 십자군 지배를 영구히 끝냈다. 10월에는 이들과 바이바르스가 이끄는 이집트군이 가자 북동쪽 라포르비(하르비야)에서 십자군과 시리아 동맹군을 격파했다.",
+    "zh": "1244年，与埃及阿尤布苏丹结盟的花剌子模骑兵洗劫耶路撒冷，永久终结了十字军在此的统治。同年10月，他们与拜巴尔斯率领的埃及军队在加沙东北的拉福比（哈尔比亚）大败十字军及其叙利亚盟军。",
+    "ja": "1244年、エジプトのアイユーブ朝スルタンと結んだホラズムの騎兵がエルサレムを略奪し、同地の十字軍支配に終止符を打った。10月には彼らとバイバルス率いるエジプト軍が、ガザ北東のラ・フォルビー（ハルビーヤ）で十字軍とシリアの同盟軍を撃破した。"
+   }
+  },
+  {
+   "year": 1269,
+   "qid": "Q282428",
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Baybars builds the Nabi Musa shrine",
+    "ko": "바이바르스의 나비 무사 성소 건립",
+    "zh": "拜巴尔斯修建先知穆萨圣陵",
+    "ja": "バイバルス、ナビー・ムーサー廟を建立"
+   },
+   "description": {
+    "en": "The Mamluk sultan Baybars built a shrine around 1269–1270 in the desert between Jerusalem and Jericho, at a site venerated by Muslims as the tomb of Moses (Nabi Musa). The annual Nabi Musa pilgrimage and festival grew into one of the most important popular celebrations of Palestinian Muslims.",
+    "ko": "맘루크 술탄 바이바르스는 1269~1270년경 예루살렘과 예리코 사이 광야에 무슬림이 모세(나비 무사)의 무덤으로 숭배하는 곳에 성소를 세웠다. 매년 열리는 나비 무사 순례와 축제는 팔레스타인 무슬림의 가장 중요한 민중 축제 가운데 하나로 성장했다.",
+    "zh": "马穆鲁克苏丹拜巴尔斯约于1269—1270年在耶路撒冷与杰里科之间的荒野中，于穆斯林尊为摩西（先知穆萨）陵墓之处修建了圣陵。一年一度的先知穆萨朝圣与节庆逐渐成为巴勒斯坦穆斯林最重要的民间庆典之一。",
+    "ja": "マムルーク朝スルタンのバイバルスは1269〜1270年頃、エルサレムとエリコの間の荒野で、ムスリムがモーセ（ナビー・ムーサー）の墓として崇める場所に廟を建てた。毎年のナビー・ムーサー巡礼と祭りは、パレスチナのムスリムの最も重要な民衆的祝祭の一つに成長した。"
+   }
+  },
+  {
+   "year": 1336,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Mamluk Jerusalem flourishes",
+    "ko": "맘루크 시대 예루살렘의 번영",
+    "zh": "马穆鲁克时代耶路撒冷的繁荣",
+    "ja": "マムルーク朝期エルサレムの繁栄"
+   },
+   "description": {
+    "en": "Under the powerful Mamluk governor of Syria, Tankiz, Jerusalem was embellished with new buildings, including the Tankiziyya madrasa and the Cotton Merchants' Market (Suq al-Qattanin), completed in the mid-1330s. Mamluk patrons endowed dozens of madrasas and hospices around the Haram, giving the Old City much of its present character.",
+    "ko": "맘루크 왕조의 시리아 총독 탄키즈 치하에서 예루살렘은 탄키지야 마드라사와 1330년대 중반에 완성된 면직물 상인 시장(수크 알카타닌) 등 새 건물로 꾸며졌다. 맘루크 후원자들은 하람 주변에 수십 개의 마드라사와 숙소를 기증해 구시가지의 오늘날 모습을 상당 부분 만들었다.",
+    "zh": "在马穆鲁克王朝强势的叙利亚总督坦基兹治下，耶路撒冷增添了许多新建筑，包括坦基兹经学院和于14世纪30年代中期完工的棉商市场（卡塔宁市场）。马穆鲁克的资助者在禁地周围捐建了数十座经学院和客栈，塑造了老城今日的大部分面貌。",
+    "ja": "マムルーク朝の有力なシリア総督タンキズのもとで、エルサレムにはタンキズィーヤ学院や1330年代半ばに完成した綿商人市場（スーク・アル・カッターニーン）などの新しい建物が加えられた。マムルーク朝の寄進者たちはハラムの周囲に数十のマドラサや宿を建て、旧市街の現在の姿の多くを形づくった。"
+   }
+  },
+  {
+   "year": 1348,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Black Death reaches Palestine",
+    "ko": "흑사병, 팔레스타인에 도달",
+    "zh": "黑死病传入巴勒斯坦",
+    "ja": "黒死病、パレスチナに到達"
+   },
+   "description": {
+    "en": "The Black Death spread from Egypt along the coastal road in 1348, striking Gaza, Jerusalem and other towns. The traveller Ibn Battuta, passing through Gaza that year, reported a very high daily death toll there; repeated plague outbreaks weakened the Mamluk economy for generations.",
+    "ko": "흑사병은 1348년 이집트에서 해안 도로를 따라 퍼져 가자와 예루살렘 등 여러 도시를 덮쳤다. 그해 가자를 지나던 여행가 이븐 바투타는 그곳의 하루 사망자가 매우 많았다고 기록했으며, 반복된 전염병 유행은 여러 세대에 걸쳐 맘루크 경제를 약화시켰다.",
+    "zh": "1348年，黑死病从埃及沿海岸大道传播，袭击加沙、耶路撒冷等城镇。当年途经加沙的旅行家伊本·白图泰记载，当地每日死亡人数极多；此后瘟疫反复暴发，数代人间持续削弱马穆鲁克经济。",
+    "ja": "黒死病は1348年にエジプトから海岸道路沿いに広がり、ガザやエルサレムなどの町を襲った。その年ガザを通った旅行家イブン・バットゥータはそこで日々おびただしい死者が出ていると記しており、繰り返す疫病の流行は数世代にわたりマムルーク朝の経済を弱めた。"
+   }
+  },
+  {
+   "year": 1495,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Mujir al-Din's history of Jerusalem and Hebron",
+    "ko": "무지르 앗딘의 예루살렘·헤브론 역사서",
+    "zh": "穆吉尔丁的耶路撒冷与希伯伦史",
+    "ja": "ムジール・アッディーンのエルサレム・ヘブロン史"
+   },
+   "description": {
+    "en": "Around 1495 the Jerusalem judge Mujir al-Din completed his chronicle 'The Glorious History of Jerusalem and Hebron'. It describes the monuments, scholars and politics of late Mamluk Palestine in detail and remains a key source for the period.",
+    "ko": "1495년경 예루살렘의 법관 무지르 앗딘은 연대기 『예루살렘과 헤브론의 영광스러운 역사』를 완성했다. 이 책은 맘루크 말기 팔레스타인의 건축물·학자·정치를 상세히 기록해 이 시기의 핵심 사료로 남아 있다.",
+    "zh": "约1495年，耶路撒冷法官穆吉尔丁完成了编年史《耶路撒冷与希伯伦的光辉历史》。该书详细记述了马穆鲁克晚期巴勒斯坦的建筑、学者和政治，至今仍是研究这一时期的重要史料。",
+    "ja": "1495年頃、エルサレムの裁判官ムジール・アッディーンは年代記『エルサレムとヘブロンの輝かしい歴史』を完成させた。マムルーク朝末期パレスチナの建造物、学者、政治を詳しく記しており、この時代の重要な史料である。"
+   }
+  },
+  {
+   "year": 1516,
+   "qid": "Q12560",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Ottoman rule begins",
+    "ko": "오스만 제국의 지배 시작",
+    "zh": "奥斯曼统治开始",
+    "ja": "オスマン帝国の支配始まる"
+   },
+   "description": {
+    "en": "The Ottoman Empire defeated the Mamluks and incorporated Palestine, governing the region for four centuries. Suleiman the Magnificent rebuilt Jerusalem's city walls.",
+    "ko": "오스만 제국이 맘루크 왕조를 물리치고 팔레스타인을 병합해 약 400년간 다스렸다. 술레이만 대제는 예루살렘 성벽을 재건했다.",
+    "zh": "奥斯曼帝国击败马穆鲁克王朝，将巴勒斯坦纳入版图并统治约四百年。苏莱曼大帝重修了耶路撒冷城墙。",
+    "ja": "オスマン帝国がマムルーク朝を破ってパレスチナを併合し、約400年間統治した。スレイマン大帝はエルサレムの城壁を再建した。"
+   }
+  },
+  {
+   "year": 1537,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Suleiman rebuilds the walls of Jerusalem",
+    "ko": "술레이만의 예루살렘 성벽 재건",
+    "zh": "苏莱曼重建耶路撒冷城墙",
+    "ja": "スレイマン、エルサレムの城壁を再建"
+   },
+   "description": {
+    "en": "Sultan Suleiman the Magnificent ordered the reconstruction of Jerusalem's walls, built between about 1537 and 1541 with gates such as the Damascus Gate. He also restored the Dome of the Rock's exterior with tiles and improved the city's water supply; the walls still enclose the Old City today.",
+    "ko": "술레이만 대제는 예루살렘 성벽의 재건을 명했고, 다마스쿠스 문 등 성문을 갖춘 성벽이 1537~1541년경 세워졌다. 그는 바위의 돔 외벽을 타일로 복원하고 도시의 급수 시설도 개선했으며, 이 성벽은 오늘날에도 구시가지를 감싸고 있다.",
+    "zh": "苏莱曼大帝下令重建耶路撒冷城墙，约于1537至1541年间建成，设有大马士革门等城门。他还以彩色瓷砖修复了岩石圆顶的外墙并改善了城市供水；这些城墙至今仍环绕着老城。",
+    "ja": "スレイマン大帝はエルサレムの城壁の再建を命じ、ダマスカス門などの門を備えた城壁が1537〜1541年頃に築かれた。彼は岩のドームの外壁をタイルで修復し、都市の給水も改善した。この城壁は今も旧市街を囲んでいる。"
+   }
+  },
+  {
+   "year": 1662,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The Ridwan governors of Gaza",
+    "ko": "가자의 리드완 총독 가문",
+    "zh": "加沙的里德万总督家族",
+    "ja": "ガザのリドワーン総督家"
+   },
+   "description": {
+    "en": "From the later 16th century the Ridwan family governed the sanjak of Gaza almost hereditarily, and under Husayn Pasha in the mid-17th century Gaza flourished as a regional centre. His dismissal in 1662 and execution soon after marked the decline of the dynasty and of Gaza's prominence.",
+    "ko": "16세기 후반부터 리드완 가문은 가자 산자크를 거의 세습적으로 다스렸고, 17세기 중엽 후사인 파샤 시대에 가자는 지역 중심지로 번영했다. 1662년 그가 해임되고 곧 처형되면서 가문과 가자의 위상은 쇠퇴했다.",
+    "zh": "自16世纪后期起，里德万家族几乎世袭地统治加沙桑贾克；17世纪中叶在侯赛因帕夏治下，加沙作为地区中心而繁荣。1662年他被免职并随即被处决，标志着这一家族和加沙地位的衰落。",
+    "ja": "16世紀後半からリドワーン家はガザ県をほぼ世襲的に治め、17世紀半ばのフサイン・パシャの時代にガザは地域の中心として栄えた。1662年の彼の罷免とまもない処刑は、一族とガザの地位の衰退を示した。"
+   }
+  },
+  {
+   "year": 1771,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Zahir al-Umar besieges Nablus",
+    "ko": "자히르 알우마르의 나블루스 포위",
+    "zh": "扎希尔·欧麦尔围攻纳布卢斯",
+    "ja": "ザーヒル・アルウマル、ナーブルスを包囲"
+   },
+   "description": {
+    "en": "Zahir al-Umar, the autonomous ruler of Galilee, allied with Ali Bey of Egypt against the Ottoman governors and besieged Nablus in 1771, but failed to take it. Jabal Nablus remained under its own local clans, a semi-autonomous hill country that resisted outside control well into the 19th century.",
+    "ko": "갈릴리의 자치 통치자 자히르 알우마르는 이집트의 알리 베이와 손잡고 오스만 총독들에 맞섰으며 1771년 나블루스를 포위했으나 함락하지 못했다. 자발 나블루스는 지역 씨족들의 지배 아래 반자치 산악 지대로 남아 19세기까지 외부 통제에 저항했다.",
+    "zh": "加利利的自治统治者扎希尔·欧麦尔与埃及的阿里贝伊联手对抗奥斯曼总督，于1771年围攻纳布卢斯，但未能攻克。纳布卢斯山地仍由当地氏族掌控，作为半自治的山区，直到19世纪仍抗拒外部控制。",
+    "ja": "ガリラヤの自立的支配者ザーヒル・アルウマルはエジプトのアリー・ベイと結んでオスマンの総督たちに対抗し、1771年にナーブルスを包囲したが攻略できなかった。ジャバル・ナーブルスは地元の氏族の支配下にある半自治の山地として、19世紀まで外部の統制に抵抗した。"
+   }
+  },
+  {
+   "year": 1799,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Napoleon's campaign through Gaza",
+    "ko": "나폴레옹의 가자 경유 원정",
+    "zh": "拿破仑途经加沙的远征",
+    "ja": "ナポレオンのガザ経由の遠征"
+   },
+   "description": {
+    "en": "In February 1799 Napoleon Bonaparte marched from Egypt into Palestine, taking El Arish and Gaza before storming Jaffa, where thousands of prisoners were executed. His siege of Acre failed, and plague and defeat forced his retreat to Egypt within months.",
+    "ko": "1799년 2월 나폴레옹 보나파르트는 이집트에서 팔레스타인으로 진군해 엘아리시와 가자를 차지한 뒤 야파를 습격했으며, 그곳에서 수천 명의 포로가 처형되었다. 아크레 포위에 실패하고 역병까지 겹치자 그는 몇 달 만에 이집트로 후퇴했다.",
+    "zh": "1799年2月，拿破仑·波拿巴从埃及进军巴勒斯坦，先后攻取阿里什和加沙，继而攻破雅法，数千名俘虏在那里被处决。他围攻阿卡失败，加上瘟疫肆虐，数月后被迫撤回埃及。",
+    "ja": "1799年2月、ナポレオン・ボナパルトはエジプトからパレスチナへ進軍し、エル・アリーシュとガザを奪ってヤッファを攻略し、そこで数千人の捕虜が処刑された。アッコ包囲に失敗し疫病にも見舞われ、数か月でエジプトへ撤退した。"
+   }
+  },
+  {
+   "year": 1834,
+   "qid": "Q4554399",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Peasants' revolt against Egyptian rule",
+    "ko": "이집트 지배에 맞선 농민 반란",
+    "zh": "反抗埃及统治的农民起义",
+    "ja": "エジプト支配に対する農民反乱"
+   },
+   "description": {
+    "en": "In 1834 rural notables and peasants of the Nablus, Jerusalem and Hebron hills rose against Ibrahim Pasha's conscription and disarmament orders. Ibrahim crushed the revolt, storming and sacking Hebron in the Battle of Hebron and executing or exiling many leaders; some historians see the revolt as an early expression of collective Palestinian action.",
+    "ko": "1834년 나블루스·예루살렘·헤브론 구릉 지대의 농촌 유력자와 농민들이 이브라힘 파샤의 징병과 무장 해제 명령에 맞서 봉기했다. 이브라힘은 헤브론 전투에서 도시를 공략·약탈하고 많은 지도자를 처형하거나 추방하며 반란을 진압했으며, 일부 역사가는 이 반란을 팔레스타인 집단 행동의 초기 표현으로 본다.",
+    "zh": "1834年，纳布卢斯、耶路撒冷和希伯伦山地的乡村显贵与农民起来反抗易卜拉欣帕夏的征兵和缴械命令。易卜拉欣镇压了起义，在希伯伦之战中攻破并洗劫希伯伦，处决或流放了许多首领；一些史学家将此次起义视为巴勒斯坦集体行动的早期表现。",
+    "ja": "1834年、ナーブルス・エルサレム・ヘブロンの丘陵の農村名望家と農民がイブラーヒーム・パシャの徴兵と武装解除の命令に反旗を翻した。イブラーヒームはヘブロンの戦いで同市を攻略・略奪し、多くの指導者を処刑・追放して反乱を鎮圧した。一部の歴史家はこれをパレスチナの集団的行動の初期の表れとみる。"
+   }
+  },
+  {
+   "year": 1840,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ottoman rule restored",
+    "ko": "오스만 지배의 회복",
+    "zh": "奥斯曼统治恢复",
+    "ja": "オスマン支配の回復"
+   },
+   "description": {
+    "en": "During the Oriental Crisis of 1840, Britain, Austria and other powers intervened against Muhammad Ali, and Egyptian troops withdrew from Syria and Palestine. Restored Ottoman rule brought Tanzimat reforms, while European consulates opened in Jerusalem, beginning with Britain's in 1838–39.",
+    "ko": "1840년 동방 위기 때 영국·오스트리아 등 열강이 무함마드 알리에 맞서 개입했고, 이집트군은 시리아와 팔레스타인에서 철수했다. 회복된 오스만 지배는 탄지마트 개혁을 가져왔으며, 1838~39년 영국을 시작으로 유럽 영사관들이 예루살렘에 문을 열었다.",
+    "zh": "在1840年的东方危机中，英国、奥地利等列强出面对抗穆罕默德·阿里，埃及军队撤出叙利亚和巴勒斯坦。恢复的奥斯曼统治带来了坦齐马特改革，而欧洲各国领事馆也相继在耶路撒冷开设，英国于1838—1839年率先设馆。",
+    "ja": "1840年の東方危機でイギリス・オーストリアなどの列強がムハンマド・アリーに対抗して介入し、エジプト軍はシリアとパレスチナから撤退した。回復したオスマン支配はタンジマート改革をもたらし、1838〜39年のイギリスを皮切りにヨーロッパ諸国の領事館がエルサレムに開設された。"
+   }
+  },
+  {
+   "year": 1852,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "The Status Quo of the holy places",
+    "ko": "성지의 현상 유지(스테이터스 쿠오)",
+    "zh": "圣地“现状”协定",
+    "ja": "聖地の「現状維持」"
+   },
+   "description": {
+    "en": "Ottoman decrees of 1757 and 1852 fixed the rights of the various Christian denominations in the Church of the Holy Sepulchre, the Church of the Nativity in Bethlehem and other shrines. Disputes over these rights helped trigger the Crimean War, and the 'Status Quo' arrangement still governs the holy places.",
+    "ko": "1757년과 1852년의 오스만 칙령은 성묘 교회, 베들레헴 예수 탄생 교회 등 성지에서 여러 기독교 교파의 권리를 고정했다. 이 권리를 둘러싼 분쟁은 크림 전쟁의 한 계기가 되었으며, '현상 유지' 체제는 지금도 성지를 규율하고 있다.",
+    "zh": "1757年和1852年的奥斯曼敕令确定了各基督教派在圣墓教堂、伯利恒圣诞教堂等圣所中的权利。围绕这些权利的争端成为克里米亚战争的导火索之一，“现状”安排至今仍规范着这些圣地。",
+    "ja": "1757年と1852年のオスマン勅令は、聖墳墓教会やベツレヘムの聖誕教会などの聖所における各キリスト教派の権利を定めた。これらの権利をめぐる争いはクリミア戦争の一因となり、「現状維持」の取り決めは今も聖地を規律している。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Ottoman Land Code",
+    "ko": "오스만 토지법",
+    "zh": "奥斯曼土地法",
+    "ja": "オスマン土地法"
+   },
+   "description": {
+    "en": "The Ottoman Land Code of 1858 required the registration of land titles in individual names. Many Palestinian peasants, wary of taxes and conscription, registered land under the names of urban notables, concentrating ownership and later enabling large sales of land to outside buyers.",
+    "ko": "1858년 오스만 토지법은 토지 소유권을 개인 명의로 등록하도록 했다. 세금과 징병을 경계한 많은 팔레스타인 농민이 도시 유력자 명의로 토지를 등록하면서 소유가 집중되었고, 이는 훗날 외부 구매자에게 대규모 토지가 매각되는 길을 열었다.",
+    "zh": "1858年的奥斯曼土地法要求以个人名义登记地契。许多巴勒斯坦农民因担心赋税和兵役，将土地登记在城市显贵名下，导致土地所有权集中，并为后来大批土地出售给外来买家创造了条件。",
+    "ja": "1858年のオスマン土地法は土地の権利を個人名義で登記することを求めた。税や徴兵を警戒した多くのパレスチナ農民は都市の名望家の名義で登記したため所有が集中し、のちに外部の買い手への大規模な土地売却を可能にした。"
+   }
+  },
+  {
+   "year": 1872,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mutasarrifate of Jerusalem",
+    "ko": "예루살렘 무타사리플릭 설치",
+    "zh": "耶路撒冷独立州设立",
+    "ja": "エルサレム特別県の設置"
+   },
+   "description": {
+    "en": "In 1872 the Ottomans made Jerusalem the centre of a special district, including Hebron, Bethlehem, Jaffa, Gaza and Beersheba, answering directly to Istanbul rather than to Damascus. The district roughly prefigured the southern part of later Mandate Palestine and raised Jerusalem's administrative standing.",
+    "ko": "1872년 오스만 제국은 헤브론·베들레헴·야파·가자·베르셰바를 포함하는 특별 구역의 중심으로 예루살렘을 지정하고, 다마스쿠스가 아닌 이스탄불에 직속시켰다. 이 구역은 훗날 위임통치령 팔레스타인 남부의 윤곽을 대략 예고했으며 예루살렘의 행정적 위상을 높였다.",
+    "zh": "1872年，奥斯曼帝国以耶路撒冷为中心设立特别行政区，辖希伯伦、伯利恒、雅法、加沙和贝尔谢巴，直接隶属伊斯坦布尔而非大马士革。该区大致预示了后来委任统治巴勒斯坦南部的轮廓，并提升了耶路撒冷的行政地位。",
+    "ja": "1872年、オスマン帝国はヘブロン・ベツレヘム・ヤッファ・ガザ・ベエルシェバを含む特別県の中心にエルサレムを据え、ダマスカスではなくイスタンブールに直属させた。この県は後の委任統治領パレスチナ南部の輪郭をおおむね先取りし、エルサレムの行政的地位を高めた。"
+   }
+  },
+  {
+   "year": 1882,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "First wave of Zionist immigration",
+    "ko": "시온주의 이민의 첫 물결",
+    "zh": "第一波犹太复国主义移民",
+    "ja": "シオニスト移民の第一波"
+   },
+   "description": {
+    "en": "From 1882, Jewish immigrants fleeing pogroms in the Russian Empire founded agricultural colonies in Ottoman Palestine, the beginning of the First Aliyah. With the rise of political Zionism after 1897, land purchases and settlement grew, and local Arab opposition began to form.",
+    "ko": "1882년부터 러시아 제국의 포그롬을 피해 온 유대인 이민자들이 오스만 팔레스타인에 농업 정착촌을 세웠는데, 이것이 제1차 알리야의 시작이다. 1897년 이후 정치적 시온주의가 대두하면서 토지 매입과 정착이 늘었고, 현지 아랍인의 반대가 형성되기 시작했다.",
+    "zh": "自1882年起，逃离俄罗斯帝国集体迫害的犹太移民在奥斯曼巴勒斯坦建立农业定居点，这是第一次阿利亚的开端。1897年后政治犹太复国主义兴起，土地购买和定居日益增加，当地阿拉伯人的反对也开始形成。",
+    "ja": "1882年から、ロシア帝国のポグロムを逃れたユダヤ人移民がオスマン領パレスチナに農業入植地を築き、第一次アリヤーが始まった。1897年以降に政治的シオニズムが台頭すると土地購入と入植が増え、現地アラブ人の反対が形成され始めた。"
+   }
+  },
+  {
+   "year": 1911,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "The newspaper Filastin",
+    "ko": "신문 『필라스틴』 창간",
+    "zh": "《巴勒斯坦报》创刊",
+    "ja": "新聞『フィラスティーン』創刊"
+   },
+   "description": {
+    "en": "In 1911 the cousins Isa and Yusuf al-Isa founded the newspaper Filastin in Jaffa. Together with other papers of the post-1908 Ottoman press boom, it voiced concern about Zionist land purchases and helped shape a distinct Palestinian Arab identity.",
+    "ko": "1911년 사촌지간인 이사 알이사와 유수프 알이사가 야파에서 신문 『필라스틴』을 창간했다. 1908년 이후 오스만 언론 붐 속에 등장한 다른 신문들과 함께, 이 신문은 시온주의자의 토지 매입에 대한 우려를 표명하고 팔레스타인 아랍인의 독자적 정체성 형성에 기여했다.",
+    "zh": "1911年，表兄弟伊萨·伊萨和优素福·伊萨在雅法创办《巴勒斯坦报》。它与1908年后奥斯曼报业繁荣中涌现的其他报刊一道，表达了对犹太复国主义者购地的忧虑，并促进了独特的巴勒斯坦阿拉伯认同的形成。",
+    "ja": "1911年、いとこ同士のイーサー・アルイーサーとユースフ・アルイーサーがヤッファで新聞『フィラスティーン』を創刊した。1908年以降のオスマン報道ブームの中で生まれた他紙とともに、シオニストの土地購入への懸念を表明し、独自のパレスチナ・アラブ人意識の形成に寄与した。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battles of Gaza",
+    "ko": "가자 전투",
+    "zh": "加沙战役",
+    "ja": "ガザの戦い"
+   },
+   "description": {
+    "en": "British Empire forces advancing from Egypt were repulsed by Ottoman and German troops at Gaza in March and April 1917. After a change of command under General Allenby, the British outflanked the Gaza–Beersheba line in the Third Battle of Gaza (October–November 1917) and went on to take Jerusalem in December.",
+    "ko": "이집트에서 진격한 영국 제국군은 1917년 3월과 4월 가자에서 오스만·독일군에 격퇴되었다. 앨런비 장군으로 지휘관이 바뀐 뒤 영국군은 제3차 가자 전투(1917년 10~11월)에서 가자-베르셰바 방어선을 우회했고, 12월에는 예루살렘을 점령했다.",
+    "zh": "从埃及推进的大英帝国军队于1917年3月和4月在加沙被奥斯曼和德国军队击退。改由艾伦比将军指挥后，英军在第三次加沙战役（1917年10—11月）中迂回突破加沙—贝尔谢巴防线，并于12月攻占耶路撒冷。",
+    "ja": "エジプトから進撃した大英帝国軍は1917年3月と4月にガザでオスマン・ドイツ軍に撃退された。アレンビー将軍に指揮官が代わると、英軍は第三次ガザの戦い（1917年10〜11月）でガザ＝ベエルシェバ線を迂回突破し、12月にエルサレムを占領した。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Balfour Declaration and British occupation",
+    "ko": "밸푸어 선언과 영국의 점령",
+    "zh": "《贝尔福宣言》与英军占领",
+    "ja": "バルフォア宣言とイギリスの占領"
+   },
+   "description": {
+    "en": "Britain declared support for a 'national home for the Jewish people' in Palestine while pledging to protect the rights of existing communities. British forces took Jerusalem that year.",
+    "ko": "영국은 팔레스타인에 '유대 민족의 국가적 고향' 수립을 지지하는 밸푸어 선언을 발표하는 한편, 기존 주민의 권리 보호를 약속했다. 같은 해 영국군이 예루살렘을 점령했다.",
+    "zh": "英国发表《贝尔福宣言》，支持在巴勒斯坦建立“犹太民族之家”，同时承诺保护当地原有居民的权利。同年英军占领耶路撒冷。",
+    "ja": "イギリスはパレスチナにおける「ユダヤ人の民族的郷土」建設への支持を表明する一方、既存住民の権利保護を約束するバルフォア宣言を発表した。同年、英軍がエルサレムを占領した。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Nebi Musa riots",
+    "ko": "나비 무사 폭동",
+    "zh": "先知穆萨骚乱",
+    "ja": "ナビー・ムーサー暴動"
+   },
+   "description": {
+    "en": "In April 1920, during the Nabi Musa festival in Jerusalem, nationalist speeches against Zionism were followed by deadly riots against the Jewish community of the Old City. The violence, the first major clash of the British period, coincided with the San Remo conference that assigned Palestine to Britain as a mandate.",
+    "ko": "1920년 4월 예루살렘의 나비 무사 축제 중 시온주의에 반대하는 민족주의 연설에 이어 구시가지 유대인 공동체를 겨냥한 유혈 폭동이 일어났다. 영국 통치기 첫 대규모 충돌인 이 사건은 팔레스타인을 영국의 위임통치령으로 배정한 산레모 회의와 같은 시기에 일어났다.",
+    "zh": "1920年4月，耶路撒冷先知穆萨节期间，反犹太复国主义的民族主义演说之后，发生了针对老城犹太社区的流血骚乱。这是英国统治时期第一次重大冲突，恰与将巴勒斯坦委任给英国的圣雷莫会议同时发生。",
+    "ja": "1920年4月、エルサレムのナビー・ムーサー祭の最中に反シオニズムの民族主義的演説が行われ、旧市街のユダヤ人共同体に対する死者を伴う暴動が続いた。英国統治期最初の大規模な衝突であるこの事件は、パレスチナをイギリスの委任統治領としたサンレモ会議と同じ時期に起きた。"
+   }
+  },
+  {
+   "year": 1922,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "British Mandate for Palestine",
+    "ko": "영국 위임통치령 팔레스타인",
+    "zh": "英属巴勒斯坦托管地",
+    "ja": "イギリス委任統治領パレスチナ"
+   },
+   "description": {
+    "en": "The League of Nations formally approved the British Mandate for Palestine. Rising Jewish immigration and Arab opposition fueled tensions that led to the 1936-39 Arab revolt.",
+    "ko": "국제연맹이 팔레스타인에 대한 영국의 위임통치를 승인했다. 유대인 이주 증가와 아랍 주민의 반발로 긴장이 고조되어 1936-39년 아랍 대봉기로 이어졌다.",
+    "zh": "国际联盟正式批准英国对巴勒斯坦的委任统治。犹太移民增加与阿拉伯居民的反对使局势日趋紧张，并引发1936-1939年阿拉伯大起义。",
+    "ja": "国際連盟がパレスチナに対するイギリスの委任統治を正式に承認した。ユダヤ人移民の増加とアラブ住民の反発で緊張が高まり、1936-39年のアラブ大反乱に至った。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "1929 riots and the Hebron massacre",
+    "ko": "1929년 폭동과 헤브론 학살",
+    "zh": "1929年骚乱与希伯伦屠杀",
+    "ja": "1929年暴動とヘブロンの虐殺"
+   },
+   "description": {
+    "en": "A dispute over Jewish and Muslim rights at the Western Wall (al-Buraq Wall) escalated in August 1929 into riots across Palestine; 133 Jews and 116 Arabs were killed, most Arabs by British forces. In Hebron 67 Jews were massacred, although many others were sheltered by Arab neighbours, and the ancient Jewish community left the city.",
+    "ko": "서쪽 벽(알부라크 벽)에서의 유대인과 무슬림의 권리를 둘러싼 분쟁이 1929년 8월 팔레스타인 전역의 폭동으로 번져 유대인 133명과 아랍인 116명이 숨졌으며, 아랍인 사망자 대부분은 영국군에 의해 죽었다. 헤브론에서는 유대인 67명이 학살되었으나 다른 많은 이들은 아랍 이웃들의 보호를 받았고, 오래된 유대인 공동체는 도시를 떠났다.",
+    "zh": "围绕西墙（布拉克墙）犹太人与穆斯林权利的争端在1929年8月升级为席卷巴勒斯坦的骚乱，133名犹太人和116名阿拉伯人丧生，阿拉伯死者大多死于英军之手。在希伯伦，67名犹太人遇害，但也有许多人受到阿拉伯邻居的庇护；当地古老的犹太社区随后离开了该城。",
+    "ja": "西の壁（ブラークの壁）でのユダヤ教徒とムスリムの権利をめぐる争いは1929年8月にパレスチナ全土の暴動に発展し、ユダヤ人133人とアラブ人116人が死亡した。アラブ人の死者の多くは英軍によるものだった。ヘブロンではユダヤ人67人が虐殺されたが、多くはアラブ人の隣人にかくまわれた。古くからのユダヤ人共同体は町を去った。"
+   }
+  },
+  {
+   "year": 1935,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Death of Izz ad-Din al-Qassam",
+    "ko": "이즈 앗딘 알카삼의 죽음",
+    "zh": "伊兹丁·卡桑之死",
+    "ja": "イッズッディーン・アル・カッサームの死"
+   },
+   "description": {
+    "en": "The Syrian-born preacher Izz ad-Din al-Qassam, who had organised armed cells against British rule and Zionist settlement, was killed by British police near Ya'bad in the Jenin area in November 1935. His death made him a nationalist martyr and helped ignite the Arab revolt of the following year.",
+    "ko": "영국 통치와 시온주의 정착에 맞서 무장 조직을 꾸렸던 시리아 출신 설교자 이즈 앗딘 알카삼은 1935년 11월 제닌 지역 야바드 근처에서 영국 경찰에게 사살되었다. 그의 죽음은 그를 민족주의 순교자로 만들었고, 이듬해 아랍 반란의 도화선이 되었다.",
+    "zh": "出生于叙利亚的传教士伊兹丁·卡桑曾组织武装小组反抗英国统治和犹太复国主义定居，1935年11月在杰宁地区的亚巴德附近被英国警察击毙。他的死使他成为民族主义烈士，并促成了次年阿拉伯大起义的爆发。",
+    "ja": "英国統治とシオニストの入植に対抗する武装組織を作ったシリア生まれの説教師イッズッディーン・アル・カッサームは、1935年11月にジェニン地方のヤアバド近郊で英警察に射殺された。その死は彼を民族主義の殉教者とし、翌年のアラブ大反乱の導火線となった。"
+   }
+  },
+  {
+   "year": 1936,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Arab revolt of 1936–1939",
+    "ko": "1936~1939년 아랍 대반란",
+    "zh": "1936—1939年阿拉伯大起义",
+    "ja": "1936〜1939年のアラブ大反乱"
+   },
+   "description": {
+    "en": "In April 1936 Palestinian Arabs launched a six-month general strike demanding an end to Jewish immigration and land sales and the establishment of representative government, followed by an armed rebellion centred in the hills of Nablus, Jenin and Hebron. Britain suppressed it by 1939 with large military forces, collective punishments and executions, leaving Palestinian leadership exiled and weakened.",
+    "ko": "1936년 4월 팔레스타인 아랍인은 유대인 이민과 토지 매각 중단, 대의 정부 수립을 요구하며 6개월간 총파업을 벌였고, 이어 나블루스·제닌·헤브론 구릉을 중심으로 무장 반란이 일어났다. 영국은 대규모 병력과 집단 처벌, 처형으로 1939년까지 이를 진압했고, 팔레스타인 지도부는 망명하거나 약화되었다.",
+    "zh": "1936年4月，巴勒斯坦阿拉伯人发动为期六个月的总罢工，要求停止犹太移民和土地出售并建立代议制政府，随后以纳布卢斯、杰宁和希伯伦山区为中心爆发武装起义。英国动用大量军队、集体惩罚和处决，到1939年将其镇压，巴勒斯坦领导层被流放、力量削弱。",
+    "ja": "1936年4月、パレスチナのアラブ人はユダヤ人移民と土地売却の停止、代表制政府の樹立を求めて6か月のゼネストを行い、続いてナーブルス・ジェニン・ヘブロンの丘陵を中心に武装反乱が起きた。イギリスは大兵力と集団懲罰、処刑によって1939年までにこれを鎮圧し、パレスチナの指導部は亡命し弱体化した。"
+   }
+  },
+  {
+   "year": 1937,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Peel Commission proposes partition",
+    "ko": "필 위원회의 분할 제안",
+    "zh": "皮尔委员会提出分治方案",
+    "ja": "ピール委員会が分割を提案"
+   },
+   "description": {
+    "en": "Sent to investigate the revolt, the British Peel Commission concluded in July 1937 that the Mandate was unworkable and proposed partitioning Palestine into a small Jewish state and an Arab area joined to Transjordan, with population transfers. Arab leaders rejected the plan, Zionist leaders were divided, and Britain later abandoned it.",
+    "ko": "반란을 조사하기 위해 파견된 영국의 필 위원회는 1937년 7월 위임통치가 실행 불가능하다고 결론짓고, 팔레스타인을 작은 유대 국가와 트란스요르단에 합쳐질 아랍 지역으로 나누고 주민을 이주시키자고 제안했다. 아랍 지도자들은 이를 거부했고 시온주의 지도자들은 의견이 갈렸으며, 영국은 결국 이 안을 폐기했다.",
+    "zh": "受命调查起义的英国皮尔委员会于1937年7月得出结论，认为委任统治难以为继，建议将巴勒斯坦分为一个小型犹太国和一个并入外约旦的阿拉伯地区，并进行人口迁移。阿拉伯领导人拒绝该方案，犹太复国主义领导人意见分歧，英国后来放弃了这一计划。",
+    "ja": "反乱調査のため派遣されたイギリスのピール委員会は1937年7月、委任統治は機能しないと結論し、パレスチナを小さなユダヤ国家とトランスヨルダンに併合されるアラブ地域に分割し、住民を移送する案を示した。アラブ指導者は拒否し、シオニスト指導者は意見が割れ、イギリスは後にこの案を放棄した。"
+   }
+  },
+  {
+   "year": 1939,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "British White Paper of 1939",
+    "ko": "1939년 영국 백서",
+    "zh": "1939年英国白皮书",
+    "ja": "1939年のイギリス白書"
+   },
+   "description": {
+    "en": "In May 1939 Britain issued a White Paper limiting Jewish immigration to 75,000 over five years, restricting land sales and envisaging an independent Palestine within ten years. Zionists bitterly opposed it as the Nazi persecution of Jews intensified, while Palestinian Arab leaders also rejected it as insufficient.",
+    "ko": "1939년 5월 영국은 백서를 발표해 5년간 유대인 이민을 7만 5천 명으로 제한하고 토지 매각을 규제하며 10년 내 독립 팔레스타인을 구상했다. 나치의 유대인 박해가 격화되던 때라 시온주의자들은 격렬히 반대했고, 팔레스타인 아랍 지도자들도 불충분하다며 거부했다.",
+    "zh": "1939年5月，英国发表白皮书，规定五年内犹太移民以7.5万人为限，限制土地出售，并设想在十年内建立独立的巴勒斯坦。由于纳粹对犹太人的迫害日益加剧，犹太复国主义者强烈反对；巴勒斯坦阿拉伯领导人也认为其不够充分而予以拒绝。",
+    "ja": "1939年5月、イギリスは白書を発表し、ユダヤ人移民を5年間で7万5000人に制限し、土地売却を規制して10年以内の独立パレスチナを構想した。ナチスのユダヤ人迫害が激化する中でシオニストは強く反対し、パレスチナのアラブ指導者も不十分として拒否した。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": "Q223399",
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Dead Sea Scrolls found at Qumran",
+    "ko": "쿰란에서 사해 문서 발견",
+    "zh": "库姆兰发现死海古卷",
+    "ja": "クムランで死海文書発見"
+   },
+   "description": {
+    "en": "In 1946–47 Bedouin shepherds found ancient scrolls in a cave near Qumran on the northwestern shore of the Dead Sea, in today's West Bank. Excavations of eleven caves yielded fragments of some 900 manuscripts from about the 3rd century BC to the 1st century AD, including the oldest known copies of the Hebrew Bible.",
+    "ko": "1946~47년 베두인 목동들이 오늘날 요르단강 서안에 속한 사해 북서쪽 기슭 쿰란 근처 동굴에서 고대 두루마리를 발견했다. 11개 동굴의 조사에서 기원전 3세기부터 서기 1세기경까지의 사본 약 900점의 조각이 나왔으며, 여기에는 현존 최고(最古)의 히브리어 성서 사본이 포함된다.",
+    "zh": "1946—1947年，贝都因牧人在今约旦河西岸境内、死海西北岸库姆兰附近的洞穴中发现了古代经卷。对十一个洞穴的发掘出土了约900部手稿的残片，年代约为公元前3世纪至公元1世纪，其中包括已知最古老的希伯来圣经抄本。",
+    "ja": "1946〜47年、ベドウィンの羊飼いが現在のヨルダン川西岸、死海北西岸のクムラン近くの洞窟で古代の巻物を発見した。11の洞窟の調査から前3世紀頃から後1世紀にかけての写本約900点の断片が見つかり、現存最古のヘブライ語聖書写本が含まれていた。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "UN partition plan for Palestine",
+    "ko": "유엔 팔레스타인 분할안",
+    "zh": "联合国巴勒斯坦分治决议",
+    "ja": "国連パレスチナ分割決議"
+   },
+   "description": {
+    "en": "UN General Assembly Resolution 181 proposed dividing Palestine into Arab and Jewish states, with Jerusalem under international control. Arab leaders rejected the plan and fighting broke out.",
+    "ko": "유엔 총회 결의 181호는 팔레스타인을 아랍 국가와 유대 국가로 나누고 예루살렘을 국제 관리하에 두는 안을 제시했다. 아랍 측이 이를 거부하면서 무력 충돌이 시작되었다.",
+    "zh": "联合国大会第181号决议提议将巴勒斯坦分为阿拉伯国和犹太国，耶路撒冷实行国际共管。阿拉伯方面拒绝该方案，冲突随之爆发。",
+    "ja": "国連総会決議181号は、パレスチナをアラブ国家とユダヤ国家に分割し、エルサレムを国際管理下に置く案を示した。アラブ側はこれを拒否し、武力衝突が始まった。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": "Q1929123",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Hadassah medical convoy attack",
+    "ko": "하다사 의료 수송대 공격",
+    "zh": "哈达萨医疗车队遇袭",
+    "ja": "ハダサ医療車列襲撃"
+   },
+   "description": {
+    "en": "On 13 April 1948 Arab fighters ambushed a convoy carrying doctors, nurses, patients and armed escorts to the Hadassah hospital on Mount Scopus in Jerusalem, killing about 78 people. It came days after the killing of Arab villagers at Deir Yassin and was part of the escalating cycle of attacks in the civil war phase of the 1948 war.",
+    "ko": "1948년 4월 13일 아랍 전투원들이 예루살렘 스코푸스 산의 하다사 병원으로 향하던 의사·간호사·환자와 무장 호위대의 수송대를 매복 공격해 약 78명을 죽였다. 이는 데이르 야신에서 아랍 주민들이 살해된 지 며칠 뒤의 일로, 1948년 전쟁 내전 단계에서 고조되던 보복 공격의 일부였다.",
+    "zh": "1948年4月13日，阿拉伯武装人员伏击了一支前往耶路撒冷斯科普斯山哈达萨医院的车队，车上有医生、护士、病人和武装护卫，约78人遇难。此事发生在代尔亚辛村阿拉伯村民遭杀害数日之后，是1948年战争内战阶段不断升级的冤冤相报式攻击的一部分。",
+    "ja": "1948年4月13日、アラブ人戦闘員がエルサレムのスコープス山のハダサ病院へ向かう医師・看護師・患者と武装護衛の車列を待ち伏せし、約78人を殺害した。デイル・ヤーシーンでアラブ人村民が殺害された数日後のことで、1948年戦争の内戦段階で激化した攻撃の応酬の一部だった。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "All-Palestine Government in Gaza",
+    "ko": "가자의 전팔레스타인 정부",
+    "zh": "加沙的全巴勒斯坦政府",
+    "ja": "ガザの全パレスチナ政府"
+   },
+   "description": {
+    "en": "In September 1948 the Arab League backed the creation of an All-Palestine Government in Gaza, and on 1 October a Palestinian National Council there declared the independence of all of Palestine. Dependent on Egypt and opposed by Jordan, it had authority only in the Gaza Strip and was dissolved in 1959.",
+    "ko": "1948년 9월 아랍 연맹은 가자에 전팔레스타인 정부를 세우는 것을 지지했고, 10월 1일 그곳의 팔레스타인 국민회의가 팔레스타인 전역의 독립을 선포했다. 이집트에 의존하고 요르단의 반대를 받은 이 정부는 가자 지구에서만 권한을 가졌으며 1959년 해산되었다.",
+    "zh": "1948年9月，阿拉伯联盟支持在加沙成立全巴勒斯坦政府，10月1日当地的巴勒斯坦国民议会宣布整个巴勒斯坦独立。该政府依赖埃及并遭约旦反对，仅在加沙地带有管辖权，于1959年解散。",
+    "ja": "1948年9月、アラブ連盟はガザに全パレスチナ政府を樹立することを支持し、10月1日に同地のパレスチナ国民評議会がパレスチナ全土の独立を宣言した。エジプトに依存しヨルダンに反対されたこの政府はガザ地区でのみ権限を持ち、1959年に解消された。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": "Q6182154",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Jericho Conference",
+    "ko": "예리코 회의",
+    "zh": "杰里科会议",
+    "ja": "エリコ会議"
+   },
+   "description": {
+    "en": "In December 1948 West Bank notables meeting in Jericho called for the union of Arab Palestine with Transjordan under King Abdullah I. The conference provided a basis for Jordan's annexation of the West Bank in 1950.",
+    "ko": "1948년 12월 예리코에 모인 서안의 유력자들은 압둘라 1세 국왕 아래 아랍 팔레스타인과 트란스요르단의 통합을 촉구했다. 이 회의는 1950년 요르단의 서안 병합의 근거가 되었다.",
+    "zh": "1948年12月，约旦河西岸显贵在杰里科集会，呼吁阿拉伯巴勒斯坦与外约旦在国王阿卜杜拉一世治下合并。这次会议为约旦1950年吞并西岸提供了依据。",
+    "ja": "1948年12月、エリコに集まったヨルダン川西岸の名望家たちは、アブドゥッラー1世国王のもとでのアラブ・パレスチナとトランスヨルダンの統合を求めた。この会議は1950年のヨルダンによる西岸併合の基盤となった。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "The 1948 war and the Nakba",
+    "ko": "1948년 전쟁과 나크바",
+    "zh": "1948年战争与“纳克巴”",
+    "ja": "1948年戦争とナクバ"
+   },
+   "description": {
+    "en": "During the war surrounding Israel's establishment, about 700,000 Palestinians fled or were expelled, an exodus known as the Nakba ('catastrophe'). The West Bank came under Jordanian and Gaza under Egyptian administration.",
+    "ko": "이스라엘 수립을 둘러싼 전쟁 속에서 약 70만 명의 팔레스타인인이 고향을 떠나거나 추방되었다. 팔레스타인인들은 이를 '나크바(대재앙)'라 부른다. 서안지구는 요르단, 가자지구는 이집트의 관할이 되었다.",
+    "zh": "在围绕以色列建国的战争中，约70万巴勒斯坦人逃离家园或遭驱逐，巴勒斯坦人称之为“纳克巴”(大灾难)。此后约旦河西岸由约旦管辖，加沙地带由埃及管辖。",
+    "ja": "イスラエル建国をめぐる戦争のなかで、約70万人のパレスチナ人が故郷を離れ、あるいは追放された。パレスチナ人はこれを「ナクバ(大破局)」と呼ぶ。ヨルダン川西岸はヨルダン、ガザはエジプトの管理下に入った。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": "Q2037471",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Armistice lines and the refugee camps",
+    "ko": "휴전선과 난민 캠프",
+    "zh": "停战线与难民营",
+    "ja": "休戦ラインと難民キャンプ"
+   },
+   "description": {
+    "en": "The 1949 armistice agreements fixed the 'Green Line', leaving the West Bank under Jordan and the Gaza Strip under Egypt. Hundreds of thousands of refugees lived in camps such as Rafah, Jabalia, Balata and Dheisheh, and in December 1949 the UN created UNRWA to provide them with relief, schools and health care.",
+    "ko": "1949년 휴전 협정으로 '그린 라인'이 확정되어 요르단강 서안은 요르단, 가자 지구는 이집트의 관할 아래 남았다. 수십만 명의 난민이 라파·자발리아·발라타·데이셰 등의 캠프에서 살았고, 1949년 12월 유엔은 이들에게 구호와 교육, 보건을 제공하기 위해 UNRWA를 설립했다.",
+    "zh": "1949年的停战协定划定了“绿线”，约旦河西岸归约旦、加沙地带归埃及管辖。数十万难民居住在拉法、贾巴利亚、巴拉塔、代赫舍等难民营中；1949年12月联合国设立近东救济工程处（UNRWA），为他们提供救济、教育和医疗。",
+    "ja": "1949年の休戦協定で「グリーンライン」が確定し、ヨルダン川西岸はヨルダン、ガザ地区はエジプトの管理下に残った。数十万人の難民がラファ、ジャバリヤ、バラータ、ドヘイシェなどのキャンプで暮らし、1949年12月、国連は彼らに救援・教育・医療を提供するためUNRWAを設立した。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": "Q810",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Jordan annexes the West Bank",
+    "ko": "요르단의 서안 병합",
+    "zh": "约旦吞并约旦河西岸",
+    "ja": "ヨルダン、ヨルダン川西岸を併合"
+   },
+   "description": {
+    "en": "In April 1950 the Jordanian parliament, with West Bank representatives, approved the annexation of the West Bank and East Jerusalem. The step was recognised by very few states, but Palestinians there became Jordanian citizens; King Abdullah I was assassinated at the al-Aqsa Mosque in 1951.",
+    "ko": "1950년 4월 서안 대표를 포함한 요르단 의회는 요르단강 서안과 동예루살렘의 병합을 승인했다. 이를 인정한 국가는 극소수였으나 그곳의 팔레스타인인은 요르단 시민이 되었으며, 압둘라 1세 국왕은 1951년 알아크사 모스크에서 암살되었다.",
+    "zh": "1950年4月，有西岸代表参加的约旦议会批准吞并约旦河西岸和东耶路撒冷。承认此举的国家极少，但当地巴勒斯坦人成为约旦公民；国王阿卜杜拉一世于1951年在阿克萨清真寺遇刺身亡。",
+    "ja": "1950年4月、西岸代表を含むヨルダン議会はヨルダン川西岸と東エルサレムの併合を承認した。これを承認した国はごくわずかだったが、現地のパレスチナ人はヨルダン国民となった。アブドゥッラー1世国王は1951年にアクサー・モスクで暗殺された。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": "Q1139615",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Qibya raid",
+    "ko": "키비야 습격",
+    "zh": "基比亚袭击",
+    "ja": "キビヤ襲撃"
+   },
+   "description": {
+    "en": "In October 1953, in reprisal for a deadly infiltrator attack inside Israel, an Israeli unit commanded by Ariel Sharon blew up dozens of houses in the West Bank village of Qibya, killing about 69 villagers, many of them women and children. The raid was condemned by the UN Security Council and drew wide international criticism.",
+    "ko": "1953년 10월 이스라엘 내 침투 공격으로 사망자가 발생하자 보복으로 아리엘 샤론이 지휘한 이스라엘 부대가 서안 마을 키비야의 가옥 수십 채를 폭파해, 여성과 아이들을 포함한 주민 약 69명이 숨졌다. 이 습격은 유엔 안전보장이사회의 규탄과 광범위한 국제적 비판을 받았다.",
+    "zh": "1953年10月，为报复一次在以色列境内造成人员死亡的渗透袭击，阿里埃勒·沙龙指挥的以色列部队炸毁了西岸村庄基比亚的数十所房屋，约69名村民丧生，其中许多是妇女和儿童。此次袭击受到联合国安理会谴责，并招致广泛的国际批评。",
+    "ja": "1953年10月、イスラエル国内での死者を出した侵入攻撃への報復として、アリエル・シャロン指揮のイスラエル部隊が西岸の村キビヤの家屋数十棟を爆破し、女性や子どもを含む村民約69人が死亡した。この襲撃は国連安全保障理事会に非難され、広い国際的批判を招いた。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": "Q7096817",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Operation Black Arrow in Gaza",
+    "ko": "가자의 '검은 화살' 작전",
+    "zh": "加沙“黑箭行动”",
+    "ja": "ガザでの「黒い矢」作戦"
+   },
+   "description": {
+    "en": "In February 1955 Israeli paratroopers attacked an Egyptian army base near Gaza City, killing dozens of Egyptian soldiers. The raid pushed Egypt's Gamal Abdel Nasser to seek Soviet-bloc arms and to sponsor fedayeen raids from Gaza, steps on the road to the 1956 war.",
+    "ko": "1955년 2월 이스라엘 공수부대는 가자시 인근의 이집트군 기지를 공격해 이집트 군인 수십 명을 죽였다. 이 습격은 이집트의 가말 압델 나세르가 소련 진영의 무기를 구하고 가자에서의 페다인 습격을 후원하게 만들었으며, 1956년 전쟁으로 가는 길이 되었다.",
+    "zh": "1955年2月，以色列伞兵袭击加沙城附近的埃及军营，打死数十名埃及士兵。此次袭击促使埃及的纳赛尔寻求苏联集团的武器，并支持从加沙发动的“敢死队”袭击，成为通往1956年战争的步骤。",
+    "ja": "1955年2月、イスラエルの空挺部隊はガザ市近郊のエジプト軍基地を攻撃し、エジプト兵数十人を殺害した。この襲撃はエジプトのナセルにソ連圏の武器を求めさせ、ガザからのフェダーイーンの襲撃を後押しさせることになり、1956年戦争への道となった。"
+   }
+  },
+  {
+   "year": 1956,
+   "qid": "Q139624954",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Suez war and occupation of Gaza",
+    "ko": "수에즈 전쟁과 가자 점령",
+    "zh": "苏伊士战争与加沙被占",
+    "ja": "スエズ戦争とガザ占領"
+   },
+   "description": {
+    "en": "During the Suez Crisis of October–November 1956, Israel occupied the Gaza Strip and Sinai. Hundreds of Palestinians were killed in Khan Yunis and Rafah during the occupation, according to UN reports; under US and UN pressure Israel withdrew in March 1957, and a UN Emergency Force was stationed along the Gaza border.",
+    "ko": "1956년 10~11월 수에즈 위기 중 이스라엘은 가자 지구와 시나이를 점령했다. 유엔 보고서에 따르면 점령 기간 칸유니스와 라파에서 팔레스타인인 수백 명이 숨졌으며, 미국과 유엔의 압력으로 이스라엘은 1957년 3월 철수했고 가자 경계에는 유엔 긴급군이 배치되었다.",
+    "zh": "在1956年10—11月的苏伊士危机中，以色列占领了加沙地带和西奈半岛。据联合国报告，占领期间汗尤尼斯和拉法有数百名巴勒斯坦人遇害；在美国和联合国压力下，以色列于1957年3月撤军，联合国紧急部队随即进驻加沙边界。",
+    "ja": "1956年10〜11月のスエズ危機の際、イスラエルはガザ地区とシナイ半島を占領した。国連の報告によれば占領中にハーン・ユーニスとラファで数百人のパレスチナ人が殺害された。米国と国連の圧力でイスラエルは1957年3月に撤退し、ガザの境界には国連緊急軍が駐留した。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "PLO founded in Jerusalem",
+    "ko": "예루살렘에서 PLO 창설",
+    "zh": "巴勒斯坦解放组织在耶路撒冷成立",
+    "ja": "エルサレムでPLO創設"
+   },
+   "description": {
+    "en": "In May 1964 the first Palestinian National Council, meeting in East Jerusalem under Arab League auspices, founded the Palestine Liberation Organization with Ahmad Shukeiri as chairman and adopted the Palestinian National Charter. After 1967, guerrilla groups led by Fatah took over the PLO, which became the main representative of the Palestinian national movement.",
+    "ko": "1964년 5월 아랍 연맹의 후원 아래 동예루살렘에서 열린 제1차 팔레스타인 국민회의는 아흐마드 슈케이리를 의장으로 팔레스타인 해방기구(PLO)를 창설하고 팔레스타인 국민헌장을 채택했다. 1967년 이후 파타가 이끄는 게릴라 조직들이 PLO를 장악했고, PLO는 팔레스타인 민족 운동의 주요 대표 기구가 되었다.",
+    "zh": "1964年5月，在阿拉伯联盟主持下于东耶路撒冷召开的第一届巴勒斯坦国民议会成立了巴勒斯坦解放组织，由艾哈迈德·舒凯里任主席，并通过了《巴勒斯坦国民宪章》。1967年后，以法塔赫为首的游击组织掌握了巴解组织，使其成为巴勒斯坦民族运动的主要代表。",
+    "ja": "1964年5月、アラブ連盟の後援で東エルサレムで開かれた第1回パレスチナ国民評議会は、アフマド・シュケイリを議長としてパレスチナ解放機構（PLO）を創設し、パレスチナ国民憲章を採択した。1967年以後、ファタハ率いるゲリラ組織がPLOを掌握し、PLOはパレスチナ民族運動の主要な代表機関となった。"
+   }
+  },
+  {
+   "year": 1966,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Samu raid",
+    "ko": "사무 습격",
+    "zh": "萨穆袭击",
+    "ja": "サムー襲撃"
+   },
+   "description": {
+    "en": "In November 1966, after a Fatah mine killed Israeli soldiers, Israeli forces raided the Jordanian-ruled village of as-Samu south of Hebron, destroying many houses and clashing with the Jordanian army. The raid, condemned by the UN Security Council, sparked protests across the West Bank and contributed to the tensions that led to the 1967 war.",
+    "ko": "1966년 11월 파타의 지뢰로 이스라엘 군인들이 숨지자 이스라엘군은 헤브론 남쪽 요르단 통치하의 마을 아스사무를 습격해 많은 가옥을 파괴하고 요르단군과 교전했다. 유엔 안전보장이사회가 규탄한 이 습격은 서안 전역의 시위를 촉발했고 1967년 전쟁으로 이어진 긴장을 높였다.",
+    "zh": "1966年11月，法塔赫的地雷炸死以色列士兵后，以军突袭希伯伦以南约旦治下的萨穆村，摧毁大量房屋并与约旦军队交火。此次袭击受到联合国安理会谴责，引发西岸各地抗议，并加剧了导致1967年战争的紧张局势。",
+    "ja": "1966年11月、ファタハの地雷でイスラエル兵が死亡すると、イスラエル軍はヘブロン南方のヨルダン統治下の村アッサムーを襲撃し、多くの家屋を破壊してヨルダン軍と交戦した。国連安全保障理事会が非難したこの襲撃は西岸各地で抗議を引き起こし、1967年戦争につながる緊張を高めた。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": "Q582706",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Israeli settlements begin",
+    "ko": "이스라엘 정착촌 건설 시작",
+    "zh": "以色列定居点建设开始",
+    "ja": "イスラエル入植地の建設開始"
+   },
+   "description": {
+    "en": "Within months of the 1967 war, Israel began building settlements in the occupied territories, starting with Kfar Etzion and, in 1968, a settler presence in Hebron. By the 2020s several hundred thousand settlers lived in the West Bank and East Jerusalem; most of the international community regards the settlements as illegal under international law, which Israel disputes.",
+    "ko": "1967년 전쟁 후 몇 달 만에 이스라엘은 크파르 에치온을 시작으로 점령지에 정착촌을 짓기 시작했고, 1968년에는 헤브론에도 정착민이 들어왔다. 2020년대에는 수십만 명의 정착민이 요르단강 서안과 동예루살렘에 살고 있으며, 국제 사회 대부분은 정착촌을 국제법상 불법으로 보지만 이스라엘은 이에 이의를 제기한다.",
+    "zh": "1967年战争后数月内，以色列开始在被占领土上修建定居点，首先是克法尔埃齐翁，1968年希伯伦也出现了定居者。到2020年代，已有数十万定居者生活在约旦河西岸和东耶路撒冷；国际社会大多数认为定居点违反国际法，以色列对此有异议。",
+    "ja": "1967年戦争から数か月のうちに、イスラエルはクファル・エツィオンを皮切りに占領地に入植地を建設し始め、1968年にはヘブロンにも入植者が入った。2020年代には数十万人の入植者がヨルダン川西岸と東エルサレムに暮らしている。国際社会の大半は入植地を国際法違反とみなすが、イスラエルは異議を唱えている。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": "Q139720970",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Six-Day War and occupation of the territories",
+    "ko": "6일 전쟁과 팔레스타인 영토 점령",
+    "zh": "六日战争与领土被占",
+    "ja": "第三次中東戦争と占領"
+   },
+   "description": {
+    "en": "In the June 1967 war, Israel captured the West Bank, East Jerusalem and the Gaza Strip. UN Security Council Resolution 242 called for withdrawal from occupied territories, framing later diplomacy.",
+    "ko": "1967년 6월 전쟁에서 이스라엘이 서안지구, 동예루살렘, 가자지구를 점령했다. 유엔 안보리 결의 242호는 점령지 철수를 촉구했고, 이는 이후 외교 협상의 기본 틀이 되었다.",
+    "zh": "在1967年六日战争中，以色列占领了约旦河西岸、东耶路撒冷和加沙地带。联合国安理会第242号决议要求撤出所占领土，成为此后外交谈判的基础。",
+    "ja": "1967年の第三次中東戦争でイスラエルはヨルダン川西岸、東エルサレム、ガザ地区を占領した。国連安保理決議242号は占領地からの撤退を求め、その後の外交交渉の枠組みとなった。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": "Q12406927",
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Arson at the al-Aqsa Mosque",
+    "ko": "알아크사 모스크 방화",
+    "zh": "阿克萨清真寺纵火案",
+    "ja": "アクサー・モスク放火事件"
+   },
+   "description": {
+    "en": "On 21 August 1969 an Australian Christian extremist, Denis Michael Rohan, set fire to the al-Aqsa Mosque, destroying the famous 12th-century minbar donated by Saladin. The attack caused outrage across the Muslim world and led directly to the founding of the Organisation of the Islamic Conference that year.",
+    "ko": "1969년 8월 21일 오스트레일리아 출신 기독교 극단주의자 데니스 마이클 로언이 알아크사 모스크에 불을 질러, 살라딘이 기증한 12세기의 유명한 민바르가 소실되었다. 이 사건은 이슬람 세계 전역에 분노를 불러일으켰고, 그해 이슬람 회의 기구 창설로 직접 이어졌다.",
+    "zh": "1969年8月21日，澳大利亚籍基督教极端分子丹尼斯·迈克尔·罗汉在阿克萨清真寺纵火，烧毁了萨拉丁捐赠的著名12世纪敏拜尔（讲坛）。此事激起整个伊斯兰世界的愤怒，并直接促成了同年伊斯兰会议组织的成立。",
+    "ja": "1969年8月21日、オーストラリア人のキリスト教過激主義者デニス・マイケル・ローハンがアクサー・モスクに放火し、サラディンが寄進した12世紀の名高いミンバル（説教壇）が焼失した。事件はイスラーム世界全体に怒りを呼び、同年のイスラーム諸国会議機構の創設に直結した。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "PLO recognised as representative of the Palestinians",
+    "ko": "PLO, 팔레스타인인의 대표로 인정",
+    "zh": "巴解组织被承认为巴勒斯坦人民代表",
+    "ja": "PLO、パレスチナ人の代表と認められる"
+   },
+   "description": {
+    "en": "In October 1974 the Arab League summit in Rabat recognised the PLO as the 'sole legitimate representative of the Palestinian people'. The following month Yasser Arafat addressed the UN General Assembly, which affirmed Palestinian rights to self-determination and granted the PLO observer status.",
+    "ko": "1974년 10월 라바트 아랍 정상회의는 PLO를 '팔레스타인 인민의 유일한 합법적 대표'로 인정했다. 이듬달 야세르 아라파트는 유엔 총회에서 연설했고, 총회는 팔레스타인인의 자결권을 확인하고 PLO에 옵서버 지위를 부여했다.",
+    "zh": "1974年10月，拉巴特阿拉伯首脑会议承认巴解组织为“巴勒斯坦人民的唯一合法代表”。次月，亚西尔·阿拉法特在联合国大会发表演讲，联大确认巴勒斯坦人民的自决权，并给予巴解组织观察员地位。",
+    "ja": "1974年10月、ラバトのアラブ首脳会議はPLOを「パレスチナ人民の唯一の正当な代表」と認めた。翌月ヤーセル・アラファトが国連総会で演説し、総会はパレスチナ人の自決権を確認してPLOにオブザーバーの地位を与えた。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "West Bank municipal elections",
+    "ko": "서안 지방 선거",
+    "zh": "约旦河西岸市政选举",
+    "ja": "ヨルダン川西岸の市長選挙"
+   },
+   "description": {
+    "en": "In April 1976 Israel held municipal elections in the West Bank, and candidates aligned with the PLO won control of most major towns, including Nablus, Hebron and Ramallah. The result showed the PLO's popular support inside the territories; several of the elected mayors were later deported or injured in attacks.",
+    "ko": "1976년 4월 이스라엘이 요르단강 서안에서 지방 선거를 실시하자, PLO 계열 후보들이 나블루스·헤브론·라말라 등 주요 도시 대부분에서 승리했다. 이 결과는 점령지 내부에서 PLO가 지닌 민중적 지지를 보여 주었으며, 당선된 시장 가운데 몇몇은 훗날 추방되거나 공격으로 부상을 입었다.",
+    "zh": "1976年4月，以色列在约旦河西岸举行市政选举，亲巴解组织的候选人赢得了纳布卢斯、希伯伦、拉姆安拉等大多数主要城镇。结果显示了巴解组织在被占领土内的民众支持；数位当选市长后来遭驱逐或在袭击中受伤。",
+    "ja": "1976年4月、イスラエルがヨルダン川西岸で市長選挙を実施すると、PLO系の候補がナーブルス・ヘブロン・ラーマッラーなど主要都市の大半で勝利した。結果は占領地内でのPLOへの民衆の支持を示し、当選した市長の何人かは後に追放されたり襲撃で負傷したりした。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Camp David Accords and the autonomy plan",
+    "ko": "캠프 데이비드 협정과 자치 구상",
+    "zh": "戴维营协议与自治方案",
+    "ja": "キャンプ・デービッド合意と自治案"
+   },
+   "description": {
+    "en": "The September 1978 Camp David Accords between Egypt and Israel included a framework for Palestinian 'autonomy' in the West Bank and Gaza. Palestinians and the PLO, which were not consulted, rejected it; the autonomy talks collapsed, though the Egypt–Israel peace treaty followed in 1979.",
+    "ko": "1978년 9월 이집트와 이스라엘의 캠프 데이비드 협정에는 서안과 가자에서의 팔레스타인 '자치' 틀이 포함되었다. 협의 대상에서 배제된 팔레스타인인과 PLO는 이를 거부했고, 자치 협상은 무산되었으나 1979년 이집트-이스라엘 평화 조약은 체결되었다.",
+    "zh": "1978年9月埃及与以色列签署的戴维营协议包含一个在西岸和加沙实行巴勒斯坦“自治”的框架。未被征询意见的巴勒斯坦人和巴解组织拒绝了这一方案，自治谈判最终破裂，但埃以和约仍于1979年签订。",
+    "ja": "1978年9月のエジプトとイスラエルのキャンプ・デービッド合意には、西岸とガザでのパレスチナ「自治」の枠組みが含まれていた。協議されなかったパレスチナ人とPLOはこれを拒否し自治交渉は頓挫したが、1979年にはエジプト・イスラエル平和条約が結ばれた。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "First Intifada begins",
+    "ko": "제1차 인티파다 발발",
+    "zh": "第一次因提法达爆发",
+    "ja": "第一次インティファーダの勃発"
+   },
+   "description": {
+    "en": "In December 1987, after an Israeli truck collided with cars carrying Palestinian workers near the Jabalia refugee camp in Gaza, protests spread across the occupied territories. The uprising, largely led by local committees, used mass demonstrations, strikes, boycotts and stone-throwing, and lasted until the early 1990s, bringing the Palestinian cause to world attention.",
+    "ko": "1987년 12월 가자 자발리아 난민 캠프 인근에서 이스라엘 트럭이 팔레스타인 노동자들을 태운 차량과 충돌한 사건 이후, 시위가 점령지 전역으로 퍼졌다. 주로 지역 위원회들이 이끈 이 봉기는 대중 시위, 파업, 불매 운동, 투석을 동원하며 1990년대 초까지 이어져 팔레스타인 문제를 세계에 알렸다.",
+    "zh": "1987年12月，一辆以色列卡车在加沙贾巴利亚难民营附近与载有巴勒斯坦工人的汽车相撞，此后抗议蔓延至整个被占领土。这场主要由地方委员会领导的起义采用大规模示威、罢工、抵制和投掷石块等方式，一直持续到20世纪90年代初，使巴勒斯坦问题受到全世界关注。",
+    "ja": "1987年12月、ガザのジャバリヤ難民キャンプ近くでイスラエルのトラックがパレスチナ人労働者を乗せた車に衝突した事件の後、抗議が占領地全体に広がった。主に地域委員会が主導したこの蜂起は、大規模デモ、ストライキ、ボイコット、投石を用いて1990年代初めまで続き、パレスチナ問題を世界に知らしめた。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hamas founded",
+    "ko": "하마스 창설",
+    "zh": "哈马斯成立",
+    "ja": "ハマス結成"
+   },
+   "description": {
+    "en": "At the start of the First Intifada, Sheikh Ahmed Yassin and other leaders of the Muslim Brotherhood in Gaza founded the Islamic Resistance Movement, Hamas. Its 1988 charter rejected Israel's existence, and it became the main Islamist rival to the PLO and Fatah; Israel, the US and the EU designate it a terrorist organisation.",
+    "ko": "제1차 인티파다 초기에 셰이크 아흐마드 야신 등 가자의 무슬림 형제단 지도자들은 이슬람 저항 운동, 하마스를 창설했다. 1988년 헌장은 이스라엘의 존재를 거부했으며, 하마스는 PLO와 파타의 주요 이슬람주의 경쟁자가 되었다. 이스라엘·미국·EU는 하마스를 테러 조직으로 지정하고 있다.",
+    "zh": "第一次因提法达初期，谢赫艾哈迈德·亚辛等加沙穆斯林兄弟会领导人创建了伊斯兰抵抗运动（哈马斯）。其1988年宪章拒绝承认以色列的存在，哈马斯成为巴解组织和法塔赫的主要伊斯兰主义对手；以色列、美国和欧盟将其列为恐怖组织。",
+    "ja": "第一次インティファーダの初めに、シェイク・アフマド・ヤーシーンらガザのムスリム同胞団の指導者がイスラーム抵抗運動ハマスを結成した。1988年の憲章はイスラエルの存在を否定し、ハマスはPLOとファタハの主要なイスラーム主義の対抗勢力となった。イスラエル・米国・EUはハマスをテロ組織に指定している。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": "Q1816561",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Palestinian Declaration of Independence",
+    "ko": "팔레스타인 독립 선언",
+    "zh": "巴勒斯坦独立宣言",
+    "ja": "パレスチナ独立宣言"
+   },
+   "description": {
+    "en": "Amid the First Intifada, the Palestine National Council meeting in Algiers proclaimed the State of Palestine with Jerusalem as its capital. Over 100 countries recognized it within months.",
+    "ko": "제1차 인티파다가 한창이던 때, 팔레스타인 민족평의회가 알제에서 예루살렘을 수도로 하는 팔레스타인국 수립을 선포했다. 수개월 만에 100개국 이상이 이를 승인했다.",
+    "zh": "在第一次因提法达(起义)进行之际，巴勒斯坦全国委员会在阿尔及尔宣告成立以耶路撒冷为首都的巴勒斯坦国，数月内获得100多个国家承认。",
+    "ja": "第1次インティファーダのさなか、パレスチナ民族評議会はアルジェで、エルサレムを首都とするパレスチナ国家の樹立を宣言した。数か月で100か国以上が承認した。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": "Q131765225",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Beit Sahour tax strike",
+    "ko": "베이트 사후르 납세 거부",
+    "zh": "贝特萨胡尔抗税行动",
+    "ja": "ベイト・サフールの納税拒否"
+   },
+   "description": {
+    "en": "In 1989 residents of Beit Sahour, a largely Christian town near Bethlehem, refused to pay taxes to the Israeli military administration under the slogan 'no taxation without representation'. Israel imposed a curfew and confiscated property; the strike became a symbol of the non-violent side of the First Intifada.",
+    "ko": "1989년 베들레헴 인근 기독교인이 많은 도시 베이트 사후르의 주민들은 '대표 없이 과세 없다'는 구호 아래 이스라엘 군정에 대한 납세를 거부했다. 이스라엘은 통행금지를 내리고 재산을 압류했으며, 이 파업은 제1차 인티파다의 비폭력적 측면을 상징하게 되었다.",
+    "zh": "1989年，伯利恒附近以基督徒为主的小城贝特萨胡尔的居民以“无代表不纳税”为口号，拒绝向以色列军政当局纳税。以色列实施宵禁并没收财产；这次抗税成为第一次因提法达非暴力面向的象征。",
+    "ja": "1989年、ベツレヘム近郊のキリスト教徒の多い町ベイト・サフールの住民は「代表なくして課税なし」を掲げ、イスラエル軍政への納税を拒否した。イスラエルは外出禁止令を出し財産を差し押さえたが、このストライキは第一次インティファーダの非暴力的側面の象徴となった。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Madrid Peace Conference",
+    "ko": "마드리드 평화 회의",
+    "zh": "马德里和会",
+    "ja": "マドリード中東和平会議"
+   },
+   "description": {
+    "en": "In October 1991 the United States and the Soviet Union convened the Madrid Conference, where Palestinians from the occupied territories, led by Haidar Abdel-Shafi of Gaza, negotiated as part of a joint Jordanian–Palestinian delegation. It was the first time Israel and the Palestinians sat at the same table in public peace talks.",
+    "ko": "1991년 10월 미국과 소련이 소집한 마드리드 회의에서 가자의 하이다르 압델샤피가 이끄는 점령지 팔레스타인인들이 요르단-팔레스타인 합동 대표단의 일원으로 협상에 참여했다. 이스라엘과 팔레스타인이 공개 평화 회담에서 처음으로 같은 테이블에 앉은 것이었다.",
+    "zh": "1991年10月，美国和苏联召集马德里和会，由加沙的海达尔·阿卜杜勒·沙菲率领的被占领土巴勒斯坦人作为约旦—巴勒斯坦联合代表团的一部分参加谈判。这是以色列与巴勒斯坦人首次在公开和谈中同桌而坐。",
+    "ja": "1991年10月、米国とソ連がマドリード会議を招集し、ガザのハイダル・アブデル・シャーフィー率いる占領地のパレスチナ人がヨルダン・パレスチナ合同代表団の一員として交渉に臨んだ。イスラエルとパレスチナ人が公開の和平交渉で初めて同じテーブルについた。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": "Q49107",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Oslo Accords",
+    "ko": "오슬로 협정",
+    "zh": "奥斯陆协议",
+    "ja": "オスロ合意"
+   },
+   "description": {
+    "en": "The PLO and Israel signed the Oslo Accords, exchanging mutual recognition and creating the Palestinian Authority, with limited self-rule in parts of the West Bank and Gaza.",
+    "ko": "팔레스타인해방기구(PLO)와 이스라엘이 오슬로 협정에 서명해 상호 승인을 교환했다. 이에 따라 서안지구와 가자지구 일부에서 제한적 자치를 행사하는 팔레스타인 자치정부가 수립되었다.",
+    "zh": "巴勒斯坦解放组织与以色列签署《奥斯陆协议》，实现相互承认，并成立在约旦河西岸和加沙部分地区行使有限自治的巴勒斯坦民族权力机构。",
+    "ja": "パレスチナ解放機構(PLO)とイスラエルはオスロ合意に調印して相互承認を交わした。これによりヨルダン川西岸とガザの一部で限定的な自治を行うパレスチナ自治政府が発足した。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Cave of the Patriarchs massacre",
+    "ko": "막벨라 굴(이브라히미 모스크) 학살",
+    "zh": "列祖之墓（易卜拉欣清真寺）屠杀",
+    "ja": "族長の墓（イブラーヒーム・モスク）虐殺"
+   },
+   "description": {
+    "en": "On 25 February 1994 Baruch Goldstein, an Israeli settler from Kiryat Arba, opened fire on Muslim worshippers at the Ibrahimi Mosque in the Cave of the Patriarchs in Hebron, killing 29 before he was beaten to death. The massacre sparked riots, Hamas's first suicide bombings inside Israel followed, and the shrine was divided into separate Muslim and Jewish sections.",
+    "ko": "1994년 2월 25일 키르야트 아르바의 이스라엘 정착민 바루크 골드스타인이 헤브론 막벨라 굴의 이브라히미 모스크에서 기도하던 무슬림들에게 총을 난사해 29명을 죽이고 맞아 숨졌다. 학살은 폭동을 불렀고 이후 하마스의 이스라엘 내 첫 자살 폭탄 공격이 이어졌으며, 성소는 무슬림 구역과 유대인 구역으로 분리되었다.",
+    "zh": "1994年2月25日，来自基利亚特阿尔巴的以色列定居者巴鲁克·戈尔茨坦向希伯伦列祖之墓易卜拉欣清真寺内礼拜的穆斯林开枪，打死29人，随后被人殴打致死。屠杀引发骚乱，随后哈马斯首次在以色列境内发动自杀式爆炸，该圣地也被划分为穆斯林和犹太人两个区域。",
+    "ja": "1994年2月25日、キルヤット・アルバのイスラエル人入植者バルーフ・ゴールドシュテインがヘブロンの族長の墓にあるイブラーヒーム・モスクで礼拝中のムスリムに発砲して29人を殺害し、殴り殺された。虐殺は暴動を招き、その後ハマスによるイスラエル国内初の自爆攻撃が続き、聖所はムスリム区画とユダヤ教区画に分割された。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Palestinian Authority established; Arafat returns",
+    "ko": "팔레스타인 자치정부 수립과 아라파트 귀환",
+    "zh": "巴勒斯坦民族权力机构成立与阿拉法特归来",
+    "ja": "パレスチナ自治政府発足とアラファトの帰還"
+   },
+   "description": {
+    "en": "Under the Gaza–Jericho Agreement of May 1994, Israeli forces withdrew from most of the Gaza Strip and from Jericho, and the Palestinian Authority took over. On 1 July Yasser Arafat returned to Gaza after decades in exile; in December he, Yitzhak Rabin and Shimon Peres shared the Nobel Peace Prize.",
+    "ko": "1994년 5월 가자-예리코 협정에 따라 이스라엘군이 가자 지구 대부분과 예리코에서 철수하고 팔레스타인 자치정부가 이를 넘겨받았다. 7월 1일 야세르 아라파트는 수십 년의 망명 끝에 가자로 돌아왔고, 12월에는 이츠하크 라빈, 시몬 페레스와 함께 노벨 평화상을 받았다.",
+    "zh": "根据1994年5月的《加沙—杰里科协议》，以军撤出加沙地带大部分地区和杰里科，由巴勒斯坦民族权力机构接管。7月1日，流亡数十年的亚西尔·阿拉法特回到加沙；同年12月，他与伊扎克·拉宾、西蒙·佩雷斯共同获得诺贝尔和平奖。",
+    "ja": "1994年5月のガザ・エリコ合意によりイスラエル軍はガザ地区の大半とエリコから撤退し、パレスチナ自治政府が引き継いだ。7月1日、ヤーセル・アラファトは数十年の亡命を経てガザに戻り、12月にはイツハク・ラビン、シモン・ペレスとともにノーベル平和賞を受賞した。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Oslo II: Areas A, B and C",
+    "ko": "오슬로 II 협정: A·B·C 구역",
+    "zh": "奥斯陆第二阶段协议：A、B、C区",
+    "ja": "オスロII合意：A・B・C地区"
+   },
+   "description": {
+    "en": "The Interim Agreement signed in September 1995 extended Palestinian self-rule to the main West Bank cities and divided the territory into Areas A (Palestinian control), B (shared) and C (Israeli control, eventually about 60% of the land). Weeks later Prime Minister Rabin was assassinated by an Israeli opponent of the accords.",
+    "ko": "1995년 9월 서명된 잠정 협정은 팔레스타인 자치를 서안의 주요 도시로 확대하고, 서안을 A구역(팔레스타인 통제), B구역(공동 통제), C구역(이스라엘 통제, 최종적으로 면적의 약 60%)으로 나누었다. 몇 주 뒤 라빈 총리는 협정에 반대한 이스라엘인에게 암살되었다.",
+    "zh": "1995年9月签署的《临时协议》将巴勒斯坦自治扩展到西岸主要城市，并把西岸划分为A区（巴方控制）、B区（共同控制）和C区（以方控制，最终约占土地60%）。数周后，拉宾总理被反对协议的以色列人刺杀。",
+    "ja": "1995年9月に調印された暫定合意は、パレスチナ自治を西岸の主要都市に広げ、西岸をA地区（パレスチナ管理）、B地区（共同管理）、C地区（イスラエル管理、最終的に面積の約60%）に分けた。数週間後、ラビン首相は合意に反対するイスラエル人に暗殺された。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First Palestinian general elections",
+    "ko": "첫 팔레스타인 총선",
+    "zh": "首次巴勒斯坦大选",
+    "ja": "初のパレスチナ総選挙"
+   },
+   "description": {
+    "en": "In January 1996 Palestinians in the West Bank, East Jerusalem and Gaza elected Yasser Arafat as president of the Palestinian Authority and chose an 88-member Legislative Council dominated by Fatah. Hamas boycotted the vote.",
+    "ko": "1996년 1월 요르단강 서안·동예루살렘·가자의 팔레스타인인들은 야세르 아라파트를 자치정부 수반으로 선출하고, 파타가 다수를 차지한 88석의 입법위원회를 구성했다. 하마스는 선거를 보이콧했다.",
+    "zh": "1996年1月，约旦河西岸、东耶路撒冷和加沙的巴勒斯坦人选举亚西尔·阿拉法特为巴勒斯坦民族权力机构主席，并选出由法塔赫占多数的88席立法委员会。哈马斯抵制了这次选举。",
+    "ja": "1996年1月、ヨルダン川西岸・東エルサレム・ガザのパレスチナ人はヤーセル・アラファトを自治政府の長に選び、ファタハが多数を占める88議席の立法評議会を選出した。ハマスは選挙をボイコットした。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Hebron Protocol",
+    "ko": "헤브론 의정서",
+    "zh": "希伯伦议定书",
+    "ja": "ヘブロン議定書"
+   },
+   "description": {
+    "en": "The January 1997 Hebron Protocol divided Hebron into H1, about 80% of the city under Palestinian control, and H2, including the Old City and the Cave of the Patriarchs, where Israel kept control to protect several hundred settlers living among Palestinian residents.",
+    "ko": "1997년 1월 헤브론 의정서는 헤브론을 도시의 약 80%에 해당하는 팔레스타인 통제 구역 H1과, 구시가지와 막벨라 굴을 포함해 팔레스타인 주민 사이에 사는 수백 명의 정착민을 보호하기 위해 이스라엘이 통제를 유지하는 H2로 나누었다.",
+    "zh": "1997年1月的《希伯伦议定书》把希伯伦分为H1区和H2区：H1约占城市80%，由巴方控制；H2包括老城和列祖之墓，以色列保留控制权，以保护居住在巴勒斯坦居民之间的数百名定居者。",
+    "ja": "1997年1月のヘブロン議定書は、ヘブロンを市の約80%にあたるパレスチナ管理のH1と、旧市街と族長の墓を含み、パレスチナ住民の間に住む数百人の入植者を守るためにイスラエルが管理を続けるH2に分けた。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Gaza International Airport opens",
+    "ko": "가자 국제공항 개항",
+    "zh": "加沙国际机场启用",
+    "ja": "ガザ国際空港の開港"
+   },
+   "description": {
+    "en": "In November 1998 the Yasser Arafat International Airport opened near Rafah, with US President Bill Clinton visiting Gaza weeks later. It was a symbol of hoped-for statehood, but it was closed after the outbreak of the Second Intifada and its runway was destroyed by Israeli forces in 2001–2002.",
+    "ko": "1998년 11월 라파 인근에 야세르 아라파트 국제공항이 개항했고, 몇 주 뒤 빌 클린턴 미국 대통령이 가자를 방문했다. 공항은 기대되던 국가 수립의 상징이었으나 제2차 인티파다 발발 후 폐쇄되었고, 활주로는 2001~2002년 이스라엘군에 의해 파괴되었다.",
+    "zh": "1998年11月，亚西尔·阿拉法特国际机场在拉法附近启用，数周后美国总统克林顿访问加沙。机场是人们所期盼的建国象征，但第二次因提法达爆发后被关闭，跑道于2001—2002年被以军摧毁。",
+    "ja": "1998年11月、ラファ近郊にヤーセル・アラファト国際空港が開港し、数週間後にはクリントン米大統領がガザを訪れた。空港は待望の国家樹立の象徴だったが、第二次インティファーダの勃発後に閉鎖され、滑走路は2001〜2002年にイスラエル軍に破壊された。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": "Q2746536",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Camp David summit fails; Second Intifada",
+    "ko": "캠프 데이비드 정상회담 결렬과 제2차 인티파다",
+    "zh": "戴维营峰会失败与第二次因提法达",
+    "ja": "キャンプ・デービッド会談決裂と第二次インティファーダ"
+   },
+   "description": {
+    "en": "Final-status talks between Arafat and Ehud Barak at Camp David collapsed in July 2000. After Ariel Sharon's visit to the Haram al-Sharif/Temple Mount in late September, protests turned into the Second (al-Aqsa) Intifada; the televised killing of 12-year-old Muhammad al-Durrah in Gaza became an iconic image. Over the following years thousands of Palestinians and around a thousand Israelis were killed, many in suicide bombings and military operations.",
+    "ko": "2000년 7월 캠프 데이비드에서 열린 아라파트와 에후드 바라크의 최종 지위 협상이 결렬되었다. 9월 말 아리엘 샤론이 하람 알샤리프/성전산을 방문한 뒤 시위가 제2차(알아크사) 인티파다로 번졌고, 가자에서 12세 무함마드 알두라가 숨지는 장면이 방송되어 상징적 이미지가 되었다. 이후 수년간 수천 명의 팔레스타인인과 약 1천 명의 이스라엘인이 자살 폭탄 공격과 군사 작전 등으로 숨졌다.",
+    "zh": "2000年7月，阿拉法特与埃胡德·巴拉克在戴维营进行的最终地位谈判破裂。9月底阿里埃勒·沙龙造访尊贵禁地/圣殿山后，抗议演变为第二次（阿克萨）因提法达；电视画面中加沙12岁男孩穆罕默德·杜拉中枪身亡，成为标志性影像。此后数年，数千名巴勒斯坦人和约一千名以色列人在自杀式爆炸和军事行动等中丧生。",
+    "ja": "2000年7月、キャンプ・デービッドでのアラファトとエフード・バラクの最終地位交渉が決裂した。9月末にアリエル・シャロンがハラム・アッシャリーフ／神殿の丘を訪れると抗議は第二次（アクサー）インティファーダとなり、ガザで12歳のムハンマド・アッドゥッラが撃たれる映像は象徴的な光景となった。その後数年で数千人のパレスチナ人と約1000人のイスラエル人が自爆攻撃や軍事作戦などで死亡した。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": "Q4871330",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Operation Defensive Shield and the Battle of Jenin",
+    "ko": "방어의 방패 작전과 제닌 전투",
+    "zh": "防御盾行动与杰宁之战",
+    "ja": "防衛の盾作戦とジェニンの戦い"
+   },
+   "description": {
+    "en": "After a wave of suicide bombings, Israel launched Operation Defensive Shield in March–April 2002, reoccupying the West Bank cities and besieging Arafat's compound in Ramallah. Heavy fighting in the Jenin refugee camp killed 52 Palestinians, about half of them civilians according to a UN report, and 23 Israeli soldiers.",
+    "ko": "자살 폭탄 공격이 잇따르자 이스라엘은 2002년 3~4월 '방어의 방패' 작전을 개시해 서안 도시들을 재점령하고 라말라의 아라파트 관저를 포위했다. 제닌 난민 캠프에서의 격전으로 팔레스타인인 52명(유엔 보고서에 따르면 그 절반가량이 민간인)과 이스라엘 군인 23명이 숨졌다.",
+    "zh": "在一连串自杀式爆炸之后，以色列于2002年3—4月发动“防御盾行动”，重新占领西岸各城市并围困阿拉法特在拉姆安拉的官邸。杰宁难民营的激烈战斗造成52名巴勒斯坦人（据联合国报告约半数为平民）和23名以色列士兵死亡。",
+    "ja": "自爆攻撃が相次いだ後、イスラエルは2002年3〜4月に「防衛の盾」作戦を開始し、西岸の都市を再占領してラーマッラーのアラファトの官邸を包囲した。ジェニン難民キャンプでの激戦でパレスチナ人52人（国連報告によれば約半数が民間人）とイスラエル兵23人が死亡した。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": "Q524253",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Construction of the West Bank barrier",
+    "ko": "서안 분리 장벽 건설",
+    "zh": "约旦河西岸隔离墙的修建",
+    "ja": "ヨルダン川西岸分離壁の建設"
+   },
+   "description": {
+    "en": "In 2002 Israel began building a barrier of fences and concrete walls, which it says is needed to stop attacks. Much of its route runs inside the West Bank rather than along the Green Line, cutting Palestinian communities off from farmland, Jerusalem and each other; Palestinians call it the 'apartheid wall'.",
+    "ko": "2002년 이스라엘은 공격을 막기 위해 필요하다며 철책과 콘크리트 벽으로 된 장벽 건설을 시작했다. 경로의 상당 부분이 그린 라인을 따르지 않고 서안 안쪽을 지나 팔레스타인 공동체를 농지와 예루살렘, 그리고 서로로부터 단절시켰으며, 팔레스타인인은 이를 '아파르트헤이트 장벽'이라 부른다.",
+    "zh": "2002年，以色列开始修建由铁丝网和混凝土墙组成的隔离屏障，称其为阻止袭击所必需。屏障路线大部分深入西岸而非沿绿线修建，把巴勒斯坦社区与农田、耶路撒冷以及彼此隔开；巴勒斯坦人称之为“种族隔离墙”。",
+    "ja": "2002年、イスラエルは攻撃を防ぐために必要だとして、フェンスとコンクリート壁からなる分離壁の建設を始めた。その経路の多くはグリーンラインではなく西岸の内側を通り、パレスチナの共同体を農地やエルサレム、また互いから切り離した。パレスチナ人はこれを「アパルトヘイト・ウォール」と呼ぶ。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "ICJ opinion on the barrier",
+    "ko": "분리 장벽에 대한 ICJ 권고적 의견",
+    "zh": "国际法院关于隔离墙的咨询意见",
+    "ja": "分離壁に関するICJ勧告的意見"
+   },
+   "description": {
+    "en": "In July 2004 the International Court of Justice advised that the parts of the barrier built inside the occupied West Bank and East Jerusalem were contrary to international law and should be dismantled. The UN General Assembly endorsed the opinion, but Israel rejected it and construction continued.",
+    "ko": "2004년 7월 국제사법재판소는 점령된 서안과 동예루살렘 안에 세워진 장벽 부분이 국제법에 위배되며 철거되어야 한다는 권고적 의견을 냈다. 유엔 총회는 이를 지지했으나 이스라엘은 거부했고 건설은 계속되었다.",
+    "zh": "2004年7月，国际法院发表咨询意见，认为在被占领的西岸和东耶路撒冷境内修建的隔离墙部分违反国际法，应予拆除。联合国大会认可了这一意见，但以色列予以拒绝，修建工程仍在继续。",
+    "ja": "2004年7月、国際司法裁判所は、占領下の西岸と東エルサレム内に建設された分離壁の部分は国際法に反し撤去されるべきだとする勧告的意見を出した。国連総会はこれを支持したが、イスラエルは拒否し建設は続いた。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": "Q123139694",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Killing of Sheikh Ahmed Yassin",
+    "ko": "셰이크 아흐마드 야신 살해",
+    "zh": "谢赫艾哈迈德·亚辛遇害",
+    "ja": "シェイク・アフマド・ヤーシーンの殺害"
+   },
+   "description": {
+    "en": "On 22 March 2004 an Israeli helicopter strike killed Hamas founder Sheikh Ahmed Yassin, a quadriplegic cleric, as he left a mosque in Gaza City. His successor Abdel Aziz al-Rantisi was killed in another strike less than a month later.",
+    "ko": "2004년 3월 22일 이스라엘 헬기 공격으로 하마스 창설자인 사지마비 성직자 셰이크 아흐마드 야신이 가자시의 모스크를 나서다 숨졌다. 그의 후계자 압델 아지즈 알란티시도 한 달이 채 안 되어 또 다른 공습으로 사망했다.",
+    "zh": "2004年3月22日，以色列直升机发动袭击，打死了刚从加沙城一座清真寺出来的哈马斯创始人、四肢瘫痪的教士谢赫艾哈迈德·亚辛。不到一个月后，其继任者阿卜杜勒·阿齐兹·兰提西也在另一次空袭中身亡。",
+    "ja": "2004年3月22日、イスラエルのヘリコプター攻撃により、四肢麻痺の聖職者でハマス創設者のシェイク・アフマド・ヤーシーンがガザ市のモスクを出たところで殺害された。後継者のアブデル・アジーズ・ランティーシーも1か月足らずで別の空爆により死亡した。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Death of Yasser Arafat",
+    "ko": "야세르 아라파트 사망",
+    "zh": "亚西尔·阿拉法特去世",
+    "ja": "ヤーセル・アラファトの死"
+   },
+   "description": {
+    "en": "Yasser Arafat, confined for years by Israel to his Ramallah compound, fell ill and died in a French military hospital near Paris on 11 November 2004. He was buried in Ramallah; the cause of his death remains disputed among investigators.",
+    "ko": "수년간 이스라엘에 의해 라말라 관저에 갇혀 지내던 야세르 아라파트는 병을 얻어 2004년 11월 11일 파리 인근의 프랑스 군 병원에서 숨졌다. 그는 라말라에 묻혔으며, 사인은 조사자들 사이에서 여전히 논쟁 중이다.",
+    "zh": "多年被以色列困于拉姆安拉官邸的亚西尔·阿拉法特患病，于2004年11月11日在巴黎附近的一家法国军队医院去世。他被安葬在拉姆安拉，其死因在调查者之间仍有争议。",
+    "ja": "長年イスラエルによってラーマッラーの官邸に閉じ込められていたヤーセル・アラファトは病に倒れ、2004年11月11日にパリ近郊のフランス軍病院で死去した。ラーマッラーに埋葬され、死因については調査者の間でなお議論がある。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": "Q1965086",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Abbas elected; Israel leaves Gaza",
+    "ko": "아바스 당선과 이스라엘의 가자 철수",
+    "zh": "阿巴斯当选与以色列撤出加沙",
+    "ja": "アッバース当選とイスラエルのガザ撤退"
+   },
+   "description": {
+    "en": "In January 2005 Mahmoud Abbas was elected president of the Palestinian Authority. In August–September Israel unilaterally evacuated all 21 settlements in the Gaza Strip and four in the northern West Bank and withdrew its troops from Gaza, while retaining control of Gaza's airspace, coastline and most border crossings.",
+    "ko": "2005년 1월 마흐무드 아바스가 팔레스타인 자치정부 수반으로 선출되었다. 8~9월 이스라엘은 가자 지구의 정착촌 21곳 전부와 서안 북부의 4곳을 일방적으로 철거하고 가자에서 군대를 철수했으나, 가자의 영공·해안선과 대부분의 국경 통로에 대한 통제는 유지했다.",
+    "zh": "2005年1月，马哈茂德·阿巴斯当选巴勒斯坦民族权力机构主席。8—9月，以色列单方面撤除加沙地带全部21个定居点和西岸北部的4个定居点，并从加沙撤军，但仍控制加沙的领空、海岸线和大部分边境口岸。",
+    "ja": "2005年1月、マフムード・アッバースがパレスチナ自治政府の長に選ばれた。8〜9月、イスラエルはガザ地区の全21入植地と西岸北部の4入植地を一方的に撤去してガザから軍を撤退させたが、ガザの領空・海岸線と大半の境界検問所の管理は維持した。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hamas wins legislative elections",
+    "ko": "하마스, 입법 선거 승리",
+    "zh": "哈马斯赢得立法选举",
+    "ja": "ハマス、立法評議会選挙で勝利"
+   },
+   "description": {
+    "en": "In January 2006 Hamas won a majority of seats in the Palestinian Legislative Council, defeating Fatah in elections judged broadly free by international observers. Israel, the US and the EU cut aid to the Hamas-led government, which refused to recognise Israel or renounce violence, and Fatah–Hamas tensions escalated.",
+    "ko": "2006년 1월 하마스는 국제 감시단이 대체로 자유롭다고 평가한 선거에서 파타를 꺾고 팔레스타인 입법위원회의 과반 의석을 차지했다. 이스라엘·미국·EU는 이스라엘 인정과 폭력 포기를 거부한 하마스 주도 정부에 대한 원조를 끊었고, 파타와 하마스의 갈등이 격화되었다.",
+    "zh": "2006年1月，哈马斯在被国际观察员普遍认为自由的选举中击败法塔赫，赢得巴勒斯坦立法委员会多数席位。以色列、美国和欧盟切断了对拒绝承认以色列、拒绝放弃暴力的哈马斯政府的援助，法塔赫与哈马斯的矛盾随之激化。",
+    "ja": "2006年1月、ハマスは国際監視団がおおむね自由と評価した選挙でファタハを破り、パレスチナ立法評議会の過半数を獲得した。イスラエル・米国・EUは、イスラエルの承認や暴力の放棄を拒むハマス主導政府への援助を停止し、ファタハとハマスの対立が激化した。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": "Q373655",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Hamas takes over Gaza; blockade imposed",
+    "ko": "하마스의 가자 장악과 봉쇄",
+    "zh": "哈马斯接管加沙与封锁",
+    "ja": "ハマスのガザ掌握と封鎖"
+   },
+   "description": {
+    "en": "In June 2007 fighting between Hamas and Fatah ended with Hamas seizing full control of the Gaza Strip, while President Abbas dismissed the unity government and ruled the West Bank through a new cabinet. Israel, with Egypt, imposed a tight blockade on Gaza, restricting the movement of people and goods and devastating its economy.",
+    "ko": "2007년 6월 하마스와 파타의 교전은 하마스가 가자 지구를 완전히 장악하는 것으로 끝났고, 아바스 대통령은 통합 정부를 해산하고 새 내각을 통해 서안을 통치했다. 이스라엘은 이집트와 함께 가자를 강력히 봉쇄해 사람과 물자의 이동을 제한했고, 가자 경제는 큰 타격을 입었다.",
+    "zh": "2007年6月，哈马斯与法塔赫的战斗以哈马斯完全控制加沙地带告终，阿巴斯总统解散联合政府，通过新内阁治理西岸。以色列与埃及一道对加沙实施严密封锁，限制人员和货物流动，使其经济遭受重创。",
+    "ja": "2007年6月、ハマスとファタハの戦闘はハマスがガザ地区を完全に掌握して終わり、アッバース大統領は統一政府を解散して新内閣で西岸を統治した。イスラエルはエジプトとともにガザを厳しく封鎖して人と物資の移動を制限し、その経済は大打撃を受けた。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q170682",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Gaza War of 2008–2009",
+    "ko": "2008~2009년 가자 전쟁",
+    "zh": "2008—2009年加沙战争",
+    "ja": "2008〜2009年のガザ戦争"
+   },
+   "description": {
+    "en": "In response to rocket fire, Israel launched Operation Cast Lead on 27 December 2008, a three-week air and ground offensive in Gaza. Around 1,400 Palestinians, many of them civilians, and 13 Israelis were killed, and a UN fact-finding mission accused both sides of violations of the laws of war.",
+    "ko": "로켓 공격에 대응해 이스라엘은 2008년 12월 27일 가자에서 3주간의 공중·지상 공세인 '캐스트 리드' 작전을 개시했다. 민간인 다수를 포함한 팔레스타인인 약 1,400명과 이스라엘인 13명이 숨졌으며, 유엔 진상조사단은 양측 모두의 전쟁법 위반을 지적했다.",
+    "zh": "为回应火箭弹袭击，以色列于2008年12月27日发动“铸铅行动”，在加沙进行为期三周的空中和地面攻势。约1,400名巴勒斯坦人（其中许多是平民）和13名以色列人丧生，联合国实况调查团指责双方均违反战争法。",
+    "ja": "ロケット攻撃への対応として、イスラエルは2008年12月27日に「キャスト・レッド」作戦を開始し、ガザで3週間にわたる空と地上からの攻勢を行った。多くの民間人を含むパレスチナ人約1400人とイスラエル人13人が死亡し、国連の事実調査団は双方の戦争法違反を指摘した。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": "Q205512",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Gaza flotilla raid",
+    "ko": "가자 구호 선단 습격",
+    "zh": "加沙救援船队遇袭事件",
+    "ja": "ガザ支援船団襲撃事件"
+   },
+   "description": {
+    "en": "On 31 May 2010 Israeli naval commandos boarded a flotilla trying to break the blockade of Gaza in international waters; nine Turkish activists aboard the Mavi Marmara were killed, and a tenth died later. The raid caused a deep crisis in Turkish–Israeli relations and led Israel and Egypt to ease some restrictions on Gaza.",
+    "ko": "2010년 5월 31일 이스라엘 해군 특공대가 공해상에서 가자 봉쇄를 뚫으려던 선단에 승선했고, 마비 마르마라호에 탄 튀르키예 활동가 9명이 숨지고 1명이 뒤에 사망했다. 이 사건은 튀르키예-이스라엘 관계에 깊은 위기를 불렀고, 이스라엘과 이집트가 가자에 대한 일부 제한을 완화하는 계기가 되었다.",
+    "zh": "2010年5月31日，以色列海军突击队在公海登上一支试图打破加沙封锁的船队，“马尔马拉号”上9名土耳其活动人士被打死，另有1人后来身亡。事件导致土以关系陷入严重危机，并促使以色列和埃及放宽了对加沙的部分限制。",
+    "ja": "2010年5月31日、イスラエル海軍の特殊部隊が公海上でガザ封鎖を破ろうとした船団に乗り込み、マーヴィ・マルマラ号のトルコ人活動家9人が死亡し、のちに1人が亡くなった。事件はトルコとイスラエルの関係に深い危機をもたらし、イスラエルとエジプトがガザへの一部制限を緩める契機となった。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Palestine joins UNESCO",
+    "ko": "팔레스타인의 유네스코 가입",
+    "zh": "巴勒斯坦加入联合国教科文组织",
+    "ja": "パレスチナ、ユネスコに加盟"
+   },
+   "description": {
+    "en": "In October 2011 UNESCO admitted Palestine as a full member, the first UN agency to do so, after a bid for full UN membership stalled in the Security Council. Bethlehem's Church of the Nativity became Palestine's first World Heritage Site in 2012, followed by Battir (2014) and Hebron's Old City (2017).",
+    "ko": "2011년 10월 유엔 정회원 가입 시도가 안전보장이사회에서 막힌 뒤, 유네스코는 유엔 기구로는 처음으로 팔레스타인을 정회원으로 받아들였다. 2012년 베들레헴 예수 탄생 교회가 팔레스타인 최초의 세계 유산이 되었고, 이어 바티르(2014)와 헤브론 구시가지(2017)가 등재되었다.",
+    "zh": "2011年10月，在申请成为联合国正式会员国于安理会受阻后，联合国教科文组织接纳巴勒斯坦为正式成员，成为首个这样做的联合国机构。2012年伯利恒圣诞教堂成为巴勒斯坦首个世界遗产，此后巴蒂尔（2014年）和希伯伦老城（2017年）也相继列入。",
+    "ja": "2011年10月、国連正式加盟の試みが安全保障理事会で止まった後、ユネスコは国連機関として初めてパレスチナを正式加盟国として認めた。2012年にベツレヘムの聖誕教会がパレスチナ初の世界遺産となり、バッティール（2014年）、ヘブロン旧市街（2017年）が続いた。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "UN non-member observer state",
+    "ko": "유엔 비회원 옵서버 국가 지위 획득",
+    "zh": "成为联合国观察员国",
+    "ja": "国連オブザーバー国家に"
+   },
+   "description": {
+    "en": "The UN General Assembly voted to grant Palestine non-member observer state status, an important step in its pursuit of broader international recognition.",
+    "ko": "유엔 총회가 팔레스타인에 비회원 옵서버 국가 지위를 부여하는 결의를 가결했다. 국제적 승인 확대를 향한 중요한 진전으로 평가된다.",
+    "zh": "联合国大会表决通过，赋予巴勒斯坦非会员观察员国地位，这是其争取更广泛国际承认进程中的重要一步。",
+    "ja": "国連総会はパレスチナに非加盟オブザーバー国家の地位を与える決議を採択した。より広い国際的承認を求める歩みにおける重要な一歩となった。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q17387592",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Gaza War of 2014",
+    "ko": "2014년 가자 전쟁",
+    "zh": "2014年加沙战争",
+    "ja": "2014年のガザ紛争"
+   },
+   "description": {
+    "en": "After the kidnapping and murder of three Israeli teenagers in the West Bank and the revenge murder of Palestinian teenager Mohammed Abu Khdeir in Jerusalem, rocket fire and Israeli strikes escalated into a 50-day war in July–August 2014. More than 2,200 Palestinians, a majority of them civilians according to the UN, and 73 people in Israel were killed; the Shuja'iyya district of Gaza City was among the worst-hit areas.",
+    "ko": "서안에서 이스라엘 10대 3명이 납치·살해되고, 그 보복으로 예루살렘에서 팔레스타인 소년 무함마드 아부 크데이르가 살해된 뒤, 로켓 공격과 이스라엘 공습이 2014년 7~8월 50일간의 전쟁으로 확대되었다. 팔레스타인인 2,200명 이상(유엔에 따르면 과반이 민간인)과 이스라엘 쪽 73명이 숨졌으며, 가자시 슈자이야 지구가 가장 큰 피해를 입은 곳 가운데 하나였다.",
+    "zh": "西岸三名以色列青少年遭绑架杀害、巴勒斯坦少年穆罕默德·阿布·赫戴尔在耶路撒冷被报复杀害之后，火箭弹袭击与以色列空袭升级为2014年7—8月为期50天的战争。2,200多名巴勒斯坦人（据联合国统计多数为平民）和以色列方面73人丧生；加沙城的舒贾伊耶区是受创最严重的地区之一。",
+    "ja": "西岸でイスラエル人の10代3人が誘拐・殺害され、報復としてエルサレムでパレスチナ人少年ムハンマド・アブー・フデイルが殺害された後、ロケット攻撃とイスラエルの空爆は2014年7〜8月の50日間の戦争に拡大した。パレスチナ人2200人以上（国連によれば過半数が民間人）とイスラエル側73人が死亡し、ガザ市のシュジャイーヤ地区は最も被害の大きかった地域の一つだった。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Palestine joins the International Criminal Court",
+    "ko": "팔레스타인, 국제형사재판소 가입",
+    "zh": "巴勒斯坦加入国际刑事法院",
+    "ja": "パレスチナ、国際刑事裁判所に加盟"
+   },
+   "description": {
+    "en": "Palestine acceded to the Rome Statute, becoming a member of the International Criminal Court on 1 April 2015. In 2021 the ICC prosecutor opened an investigation into alleged crimes in the occupied Palestinian territories since 2014, which Israel, not a member, rejects as outside the court's jurisdiction.",
+    "ko": "팔레스타인은 로마 규정에 가입해 2015년 4월 1일 국제형사재판소 회원국이 되었다. 2021년 ICC 검사는 2014년 이후 점령된 팔레스타인 영토에서 벌어진 범죄 혐의에 대한 수사를 개시했으며, 비회원국인 이스라엘은 이것이 재판소의 관할 밖이라며 거부한다.",
+    "zh": "巴勒斯坦加入《罗马规约》，于2015年4月1日成为国际刑事法院成员。2021年，国际刑事法院检察官就2014年以来在被占巴勒斯坦领土上涉嫌犯下的罪行展开调查；非成员国以色列认为此事不属该院管辖而予以拒绝。",
+    "ja": "パレスチナはローマ規程に加入し、2015年4月1日に国際刑事裁判所の締約国となった。2021年、ICCの検察官は2014年以降の占領下パレスチナ領での犯罪容疑の捜査を開始したが、非締約国のイスラエルは裁判所の管轄外だとして拒否している。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Great March of Return",
+    "ko": "귀환 대행진",
+    "zh": "“伟大回归游行”",
+    "ja": "帰還の大行進"
+   },
+   "description": {
+    "en": "Beginning on 30 March 2018, tens of thousands of Gazans held weekly protests near the boundary fence with Israel, demanding the return of refugees and an end to the blockade. Israeli troops opened fire, killing more than 200 Palestinians by the end of 2019; a UN commission found most of those shot were not posing an imminent threat, a finding Israel rejected. The protests coincided with the US moving its embassy to Jerusalem in May 2018.",
+    "ko": "2018년 3월 30일부터 수만 명의 가자 주민이 이스라엘과의 경계 철책 근처에서 매주 시위를 벌이며 난민 귀환과 봉쇄 해제를 요구했다. 이스라엘군의 발포로 2019년 말까지 팔레스타인인 200명 이상이 숨졌으며, 유엔 위원회는 총에 맞은 이들 대부분이 임박한 위협이 아니었다고 판단했으나 이스라엘은 이를 거부했다. 시위는 2018년 5월 미국의 예루살렘 대사관 이전과 맞물렸다.",
+    "zh": "自2018年3月30日起，数万名加沙民众每周在与以色列的边界围栏附近抗议，要求难民回归和解除封锁。以军开枪，到2019年底造成200多名巴勒斯坦人死亡；联合国调查委员会认定大多数中枪者并未构成迫在眉睫的威胁，以色列拒绝这一结论。抗议恰逢2018年5月美国将大使馆迁至耶路撒冷。",
+    "ja": "2018年3月30日から、数万人のガザ住民がイスラエルとの境界フェンス付近で毎週抗議を行い、難民の帰還と封鎖の解除を求めた。イスラエル軍が発砲し、2019年末までにパレスチナ人200人以上が死亡した。国連の調査委員会は撃たれた人の大半が差し迫った脅威ではなかったと結論したが、イスラエルはこれを拒否した。抗議は2018年5月の米国大使館のエルサレム移転と重なった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87199320",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in Palestine",
+    "ko": "팔레스타인의 코로나19 대유행",
+    "zh": "新冠疫情在巴勒斯坦",
+    "ja": "パレスチナの新型コロナ流行"
+   },
+   "description": {
+    "en": "The first COVID-19 cases in Palestine were confirmed in Bethlehem in March 2020, leading to lockdowns across the West Bank. The virus later spread in densely populated Gaza, straining a health system already weakened by the blockade.",
+    "ko": "2020년 3월 베들레헴에서 팔레스타인 첫 코로나19 확진자가 확인되어 서안 전역에 봉쇄 조치가 내려졌다. 바이러스는 이후 인구가 밀집한 가자로 퍼져, 봉쇄로 이미 약해진 보건 체계에 큰 부담을 주었다.",
+    "zh": "2020年3月，巴勒斯坦首批新冠病例在伯利恒确诊，西岸各地随即实施封锁。病毒后来在人口稠密的加沙传播，使本已因封锁而薄弱的医疗体系不堪重负。",
+    "ja": "2020年3月、パレスチナ初の新型コロナ感染者がベツレヘムで確認され、西岸全域でロックダウンが実施された。ウイルスはその後人口密集地のガザにも広がり、封鎖ですでに弱っていた医療体制を圧迫した。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": "Q106775117",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "May 2021 crisis",
+    "ko": "2021년 5월 위기",
+    "zh": "2021年5月危机",
+    "ja": "2021年5月の危機"
+   },
+   "description": {
+    "en": "Planned evictions of Palestinian families in the Sheikh Jarrah neighbourhood of East Jerusalem and police raids at the al-Aqsa Mosque during Ramadan sparked protests in May 2021. Hamas fired rockets at Jerusalem, and an 11-day war followed in which more than 250 Palestinians in Gaza and 13 people in Israel were killed; the same spring President Abbas postponed planned Palestinian elections indefinitely.",
+    "ko": "동예루살렘 셰이크 자라 지구의 팔레스타인 가족 퇴거 계획과 라마단 기간 알아크사 모스크에서의 경찰 진입이 2021년 5월 시위를 촉발했다. 하마스가 예루살렘을 향해 로켓을 발사하면서 11일간의 전쟁이 이어져 가자의 팔레스타인인 250명 이상과 이스라엘 쪽 13명이 숨졌으며, 같은 해 봄 아바스 대통령은 예정된 팔레스타인 선거를 무기한 연기했다.",
+    "zh": "东耶路撒冷谢赫贾拉社区计划驱逐巴勒斯坦家庭，以及斋月期间警察突入阿克萨清真寺，引发了2021年5月的抗议。哈马斯向耶路撒冷发射火箭弹，随后爆发为期11天的战争，加沙250多名巴勒斯坦人和以色列方面13人丧生；同年春天，阿巴斯总统无限期推迟了原定的巴勒斯坦选举。",
+    "ja": "東エルサレムのシェイク・ジャッラ地区でのパレスチナ人家族の立ち退き計画と、ラマダン中の警察によるアクサー・モスクへの突入が2021年5月の抗議を引き起こした。ハマスがエルサレムに向けてロケットを発射し、11日間の戦争でガザのパレスチナ人250人以上とイスラエル側13人が死亡した。同じ春、アッバース大統領は予定されていたパレスチナ選挙を無期限延期した。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q111968653",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Killing of journalist Shireen Abu Akleh",
+    "ko": "언론인 시린 아부 아클레 피살",
+    "zh": "记者希琳·阿布·阿克勒遇害",
+    "ja": "記者シリーン・アブー・アークレ殺害"
+   },
+   "description": {
+    "en": "On 11 May 2022 the veteran Al Jazeera correspondent Shireen Abu Akleh, a Palestinian-American, was shot dead while covering an Israeli raid in Jenin. Several independent investigations concluded she was most likely shot by Israeli forces; Israel later acknowledged a 'high possibility' that a soldier had accidentally killed her.",
+    "ko": "2022년 5월 11일 팔레스타인계 미국인으로 알자지라의 베테랑 특파원인 시린 아부 아클레가 제닌에서 이스라엘군의 급습을 취재하던 중 총에 맞아 숨졌다. 여러 독립 조사는 그녀가 이스라엘군의 총격에 맞았을 가능성이 가장 높다고 결론지었고, 이스라엘은 이후 군인이 우발적으로 그녀를 죽였을 '가능성이 높다'고 인정했다.",
+    "zh": "2022年5月11日，巴勒斯坦裔美国人、半岛电视台资深记者希琳·阿布·阿克勒在杰宁报道以军突袭行动时中枪身亡。多项独立调查得出结论，她极可能是被以军射杀；以色列后来承认“很有可能”是一名士兵误杀了她。",
+    "ja": "2022年5月11日、パレスチナ系米国人でアルジャジーラのベテラン特派員シリーン・アブー・アークレが、ジェニンでのイスラエル軍の急襲を取材中に撃たれて死亡した。複数の独立調査は彼女がイスラエル軍に撃たれた可能性が最も高いと結論し、イスラエルは後に兵士が誤って殺害した「可能性が高い」と認めた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q120201630",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Israeli operation in the Jenin camp",
+    "ko": "제닌 캠프에서의 이스라엘 작전",
+    "zh": "以色列在杰宁难民营的军事行动",
+    "ja": "ジェニン・キャンプでのイスラエル軍作戦"
+   },
+   "description": {
+    "en": "In July 2023 Israel launched its largest West Bank operation in two decades against armed groups in the Jenin refugee camp, using drones and hundreds of troops. Twelve Palestinians and one Israeli soldier were killed and thousands of residents fled temporarily, amid a year of escalating West Bank violence.",
+    "ko": "2023년 7월 이스라엘은 드론과 수백 명의 병력을 동원해 제닌 난민 캠프의 무장 단체를 겨냥한, 20년 만에 가장 큰 규모의 서안 작전을 벌였다. 팔레스타인인 12명과 이스라엘 군인 1명이 숨졌고 수천 명의 주민이 일시적으로 피란했으며, 이해 서안의 폭력은 계속 격화되었다.",
+    "zh": "2023年7月，以色列出动无人机和数百名士兵，针对杰宁难民营的武装团体发动了二十年来规模最大的西岸军事行动。12名巴勒斯坦人和1名以色列士兵死亡，数千名居民暂时出逃；这一年西岸暴力持续升级。",
+    "ja": "2023年7月、イスラエルはドローンと数百人の兵力を投入し、ジェニン難民キャンプの武装組織に対してこの20年で最大規模の西岸作戦を行った。パレスチナ人12人とイスラエル兵1人が死亡し、数千人の住民が一時避難した。この年、西岸の暴力は激化を続けた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q122962941",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "7 October attack and the Gaza war",
+    "ko": "10월 7일 공격과 가자 전쟁",
+    "zh": "10月7日袭击与加沙战争",
+    "ja": "10月7日の攻撃とガザ戦争"
+   },
+   "description": {
+    "en": "On 7 October 2023 Hamas-led militants from Gaza attacked southern Israel, killing about 1,200 people, most of them civilians, and taking about 250 hostages into Gaza. Israel declared war and launched a massive air and ground campaign; by mid-2025 more than 60,000 Palestinians had been killed according to Gaza's health ministry, most of the population was displaced and much of the Strip was destroyed. South Africa brought a genocide case against Israel at the International Court of Justice, which Israel strongly denies.",
+    "ko": "2023년 10월 7일 하마스가 이끄는 가자의 무장대원들이 이스라엘 남부를 공격해 민간인을 중심으로 약 1,200명을 죽이고 약 250명을 인질로 가자에 끌고 갔다. 이스라엘은 전쟁을 선포하고 대규모 공중·지상 작전을 펼쳤으며, 가자 보건부에 따르면 2025년 중반까지 팔레스타인인 6만 명 이상이 숨졌고 주민 대부분이 피란했으며 가자 지구 상당 부분이 파괴되었다. 남아프리카공화국은 국제사법재판소에 이스라엘을 상대로 제노사이드 소송을 제기했고, 이스라엘은 이를 강하게 부인한다.",
+    "zh": "2023年10月7日，以哈马斯为首的加沙武装人员袭击以色列南部，造成约1,200人死亡（多数为平民），并将约250人劫持到加沙作为人质。以色列宣战并发动大规模空中和地面攻势；据加沙卫生部统计，到2025年中已有6万多名巴勒斯坦人丧生，大部分居民流离失所，加沙地带大部被毁。南非在国际法院起诉以色列犯有种族灭绝罪，以色列强烈否认。",
+    "ja": "2023年10月7日、ハマス主導のガザの武装勢力がイスラエル南部を攻撃し、民間人を中心に約1200人を殺害し、約250人を人質としてガザへ連れ去った。イスラエルは戦争を宣言して大規模な空と地上の作戦を展開し、ガザ保健省によれば2025年半ばまでにパレスチナ人6万人以上が死亡し、住民の大半が避難を強いられ、地区の大部分が破壊された。南アフリカは国際司法裁判所にイスラエルをジェノサイドで提訴し、イスラエルはこれを強く否定している。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q123509933",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "November 2023 truce and hostage exchange",
+    "ko": "2023년 11월 휴전과 인질 교환",
+    "zh": "2023年11月停火与人质交换",
+    "ja": "2023年11月の休戦と人質交換"
+   },
+   "description": {
+    "en": "A truce mediated by Qatar, Egypt and the United States paused the fighting from 24 November to 1 December 2023. During it 105 hostages held in Gaza were released in exchange for 240 Palestinian prisoners held by Israel, and more aid entered Gaza, before hostilities resumed.",
+    "ko": "카타르·이집트·미국이 중재한 휴전으로 2023년 11월 24일부터 12월 1일까지 전투가 멈췄다. 이 기간 가자에 억류된 인질 105명이 풀려나고 이스라엘에 수감된 팔레스타인 수감자 240명이 석방되었으며, 더 많은 구호품이 가자에 들어간 뒤 전투가 재개되었다.",
+    "zh": "在卡塔尔、埃及和美国斡旋下，战斗于2023年11月24日至12月1日暂停。其间，加沙扣押的105名人质获释，以换取以色列关押的240名巴勒斯坦囚犯，更多援助物资进入加沙，随后战事重启。",
+    "ja": "カタール・エジプト・米国の仲介による休戦で、2023年11月24日から12月1日まで戦闘が止まった。この間、ガザで拘束されていた人質105人が解放され、イスラエルに収監されていたパレスチナ人240人が釈放され、より多くの支援物資がガザに入った後、戦闘は再開された。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "ICJ rulings on Gaza and the occupation",
+    "ko": "가자와 점령에 관한 ICJ 결정",
+    "zh": "国际法院关于加沙和占领的裁决",
+    "ja": "ガザと占領に関するICJの判断"
+   },
+   "description": {
+    "en": "In January 2024 the International Court of Justice ordered provisional measures in South Africa's case, requiring Israel to prevent genocidal acts and enable humanitarian aid in Gaza. In July 2024 the court issued an advisory opinion that Israel's continued presence in the occupied Palestinian territory is unlawful and should end as rapidly as possible; Israel rejected both.",
+    "ko": "2024년 1월 국제사법재판소는 남아프리카공화국이 제기한 사건에서 이스라엘에 가자에서 제노사이드 행위를 방지하고 인도적 지원을 허용하라는 잠정 조치를 명령했다. 2024년 7월에는 이스라엘의 점령된 팔레스타인 영토 내 계속된 주둔이 불법이며 가능한 한 신속히 끝나야 한다는 권고적 의견을 냈으며, 이스라엘은 둘 다 거부했다.",
+    "zh": "2024年1月，国际法院在南非提起的案件中下达临时措施，要求以色列防止灭绝种族行为并允许人道援助进入加沙。2024年7月，法院发表咨询意见，认定以色列继续存在于被占巴勒斯坦领土是非法的，应尽快结束；以色列对两者均予以拒绝。",
+    "ja": "2024年1月、国際司法裁判所は南アフリカが提起した事件で、イスラエルにガザでのジェノサイド行為の防止と人道支援の確保を求める暫定措置を命じた。2024年7月には、占領下パレスチナ領へのイスラエルの継続的駐留は違法でありできる限り速やかに終わらせるべきだとする勧告的意見を出した。イスラエルはいずれも拒否した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Spain, Ireland and Norway recognise Palestine",
+    "ko": "스페인·아일랜드·노르웨이의 팔레스타인 승인",
+    "zh": "西班牙、爱尔兰和挪威承认巴勒斯坦",
+    "ja": "スペイン・アイルランド・ノルウェー、パレスチナを承認"
+   },
+   "description": {
+    "en": "On 28 May 2024 Spain, Ireland and Norway formally recognised the State of Palestine, followed by Slovenia and Armenia in June. The coordinated move, made amid the Gaza war, broke with the earlier Western European practice of waiting for a negotiated settlement.",
+    "ko": "2024년 5월 28일 스페인·아일랜드·노르웨이가 팔레스타인국을 공식 승인했고, 6월에는 슬로베니아와 아르메니아가 뒤를 이었다. 가자 전쟁 중 이루어진 이 공조 행보는 협상 타결을 기다리던 기존 서유럽의 관행에서 벗어난 것이었다.",
+    "zh": "2024年5月28日，西班牙、爱尔兰和挪威正式承认巴勒斯坦国，斯洛文尼亚和亚美尼亚于6月跟进。这一在加沙战争期间协调采取的举动，打破了西欧此前等待谈判解决的惯例。",
+    "ja": "2024年5月28日、スペイン・アイルランド・ノルウェーがパレスチナ国を正式に承認し、6月にはスロベニアとアルメニアが続いた。ガザ戦争の最中に行われたこの協調的な動きは、交渉による解決を待つという従来の西欧の慣行を破るものだった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q130549291",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Killing of Yahya Sinwar",
+    "ko": "야히야 신와르 사망",
+    "zh": "叶海亚·辛瓦尔被击毙",
+    "ja": "ヤヒヤ・シンワルの死"
+   },
+   "description": {
+    "en": "On 16 October 2024 Israeli troops killed Hamas leader Yahya Sinwar, regarded by Israel as the chief planner of the 7 October attack, in an encounter in Rafah. His death did not end the war, which continued into 2025.",
+    "ko": "2024년 10월 16일 이스라엘군은 라파에서 벌어진 교전에서 이스라엘이 10월 7일 공격의 주모자로 지목한 하마스 지도자 야히야 신와르를 사살했다. 그의 죽음으로 전쟁이 끝나지는 않았고, 전쟁은 2025년까지 이어졌다.",
+    "zh": "2024年10月16日，以军在拉法的一次交火中击毙了被以色列视为10月7日袭击主要策划者的哈马斯领导人叶海亚·辛瓦尔。他的死并未结束战争，战事一直持续到2025年。",
+    "ja": "2024年10月16日、イスラエル軍はラファでの遭遇戦で、イスラエルが10月7日攻撃の首謀者とみなすハマス指導者ヤヒヤ・シンワルを殺害した。その死によって戦争は終わらず、2025年まで続いた。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q131760224",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "January 2025 ceasefire and its collapse",
+    "ko": "2025년 1월 휴전과 그 붕괴",
+    "zh": "2025年1月停火及其破裂",
+    "ja": "2025年1月の停戦とその崩壊"
+   },
+   "description": {
+    "en": "A phased ceasefire took effect on 19 January 2025, during which hostages were exchanged for Palestinian prisoners and displaced Gazans returned to the ruined north. Talks on a second phase stalled, and on 18 March 2025 Israel resumed large-scale strikes, followed by a renewed ground offensive; Israel had already halted all aid deliveries on 2 March, a blockade that lasted until late May.",
+    "ko": "2025년 1월 19일 단계적 휴전이 발효되어 인질과 팔레스타인 수감자가 교환되었고, 피란했던 가자 주민들이 폐허가 된 북부로 돌아갔다. 2단계 협상이 교착되자 이스라엘은 2025년 3월 18일 대규모 공습을 재개했고, 이어 지상 공세가 다시 시작되었다. 이스라엘은 이미 3월 2일부터 모든 구호품 반입을 막았으며, 이 봉쇄는 5월 하순까지 이어졌다.",
+    "zh": "分阶段停火于2025年1月19日生效，期间人质与巴勒斯坦囚犯进行交换，流离失所的加沙民众返回已成废墟的北部。第二阶段谈判陷入僵局，以色列于2025年3月18日恢复大规模空袭，随后重启地面攻势；以色列早在3月2日就已停止一切援助物资运入，这一封锁持续到5月下旬。",
+    "ja": "段階的な停戦が2025年1月19日に発効し、人質とパレスチナ人収監者が交換され、避難していたガザ住民が廃墟となった北部に戻った。第2段階の交渉が行き詰まると、イスラエルは2025年3月18日に大規模空爆を再開し、続いて地上攻勢も再開された。イスラエルはすでに3月2日から支援物資の搬入をすべて止めており、この封鎖は5月下旬まで続いた。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q124302798",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Famine confirmed in Gaza",
+    "ko": "가자 기근 확인",
+    "zh": "加沙饥荒获确认",
+    "ja": "ガザの飢饉を確認"
+   },
+   "description": {
+    "en": "In August 2025 the Integrated Food Security Phase Classification (IPC), the UN-backed hunger monitor, confirmed famine in the Gaza Governorate, the first such determination in the Middle East. Aid agencies blamed restrictions on aid deliveries and the fighting; Israel disputed the finding.",
+    "ko": "2025년 8월 유엔이 지원하는 기아 감시 체계인 통합식량안보단계분류(IPC)는 가자 주(州)에서 기근을 확인했으며, 이는 중동에서 처음 내려진 판정이었다. 구호 기관들은 구호품 반입 제한과 전투를 원인으로 지목했고, 이스라엘은 이 판정에 이의를 제기했다.",
+    "zh": "2025年8月，联合国支持的饥饿监测机制“粮食安全阶段综合分类”（IPC）确认加沙省出现饥荒，这是中东地区首次作出此类判定。援助机构将其归咎于援助运送受限和战事；以色列对此结论提出异议。",
+    "ja": "2025年8月、国連が支援する飢餓監視の枠組み「総合的食料安全保障レベル分類（IPC）」はガザ県での飢饉を確認した。中東で初めての判定だった。支援機関は援助搬入の制限と戦闘を原因に挙げ、イスラエルはこの判定に異議を唱えた。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Wave of Western recognition of Palestine",
+    "ko": "서방 국가들의 잇따른 팔레스타인 승인",
+    "zh": "西方国家相继承认巴勒斯坦",
+    "ja": "西側諸国による相次ぐパレスチナ承認"
+   },
+   "description": {
+    "en": "In September 2025, around the UN General Assembly, the United Kingdom, Canada, Australia, Portugal and France, among others, formally recognised the State of Palestine. With these steps, about three-quarters of UN member states recognised Palestine, though the United States and Israel remained opposed.",
+    "ko": "2025년 9월 유엔 총회를 전후해 영국·캐나다·오스트레일리아·포르투갈·프랑스 등이 팔레스타인국을 공식 승인했다. 이로써 유엔 회원국의 약 4분의 3이 팔레스타인을 승인하게 되었으나, 미국과 이스라엘은 여전히 반대했다.",
+    "zh": "2025年9月联合国大会前后，英国、加拿大、澳大利亚、葡萄牙、法国等国正式承认巴勒斯坦国。至此，约四分之三的联合国会员国承认巴勒斯坦，但美国和以色列仍表示反对。",
+    "ja": "2025年9月の国連総会の前後に、イギリス・カナダ・オーストラリア・ポルトガル・フランスなどがパレスチナ国を正式に承認した。これにより国連加盟国の約4分の3がパレスチナを承認することになったが、米国とイスラエルは反対を続けた。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "October 2025 ceasefire",
+    "ko": "2025년 10월 휴전",
+    "zh": "2025年10月停火",
+    "ja": "2025年10月の停戦"
+   },
+   "description": {
+    "en": "Under a plan put forward by US President Donald Trump and mediated with Egypt, Qatar and Turkey, a ceasefire in Gaza took effect on 10 October 2025. Days later the remaining living Israeli hostages were released in exchange for nearly 2,000 Palestinian prisoners and detainees, while questions over Hamas's disarmament, Gaza's governance and reconstruction remained unresolved.",
+    "ko": "도널드 트럼프 미국 대통령이 제시하고 이집트·카타르·튀르키예와 함께 중재한 계획에 따라 2025년 10월 10일 가자에서 휴전이 발효되었다. 며칠 뒤 생존한 이스라엘 인질 전원이 풀려나고 팔레스타인 수감자·구금자 2천 명 가까이가 석방되었으나, 하마스의 무장 해제와 가자 통치, 재건 문제는 해결되지 않은 채 남았다.",
+    "zh": "根据美国总统唐纳德·特朗普提出、并与埃及、卡塔尔和土耳其共同斡旋的方案，加沙停火于2025年10月10日生效。数日后，剩余在世的以色列人质获释，以换取近2,000名巴勒斯坦囚犯和被拘留者；但哈马斯解除武装、加沙治理和重建等问题仍悬而未决。",
+    "ja": "ドナルド・トランプ米大統領が示し、エジプト・カタール・トルコとともに仲介した計画に基づき、2025年10月10日にガザで停戦が発効した。数日後、生存していたイスラエル人の人質全員が解放され、パレスチナ人の収監者・拘束者2000人近くが釈放されたが、ハマスの武装解除、ガザの統治、復興の問題は未解決のまま残った。"
+   }
+  }
+ ]
+}

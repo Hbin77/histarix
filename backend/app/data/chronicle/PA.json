@@ -1,0 +1,1788 @@
+{
+ "iso": "PA",
+ "eras": [
+  {
+   "from": -12000,
+   "to": -2501,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Paleoindian and Archaic Isthmus",
+    "ko": "파나마 지협의 고인디언·아케익 시대",
+    "zh": "巴拿马地峡的古印第安与古代期",
+    "ja": "パナマ地峡の古インディアン期・アルカイック期"
+   },
+   "summary": {
+    "en": "The first people crossed the isthmus at the end of the Ice Age, leaving fluted spear points near Parita Bay. Over the following millennia foragers in the Pacific lowlands and foothills of central Panama began to tend and cultivate plants such as manioc, arrowroot, squash and maize, among the earliest such experiments in lower Central America.",
+    "ko": "빙하기 말 최초의 인류가 지협을 건너 파리타만 부근에 홈이 파인 창끝을 남겼다. 이후 수천 년 동안 중부 파나마 태평양 쪽 저지대와 구릉지의 수렵채집민은 마니옥·애로루트·호박·옥수수 등을 돌보고 재배하기 시작했으며, 이는 중앙아메리카 남부에서 가장 이른 농경 시도 가운데 하나였다.",
+    "zh": "冰期末，最早的人类穿越地峡，在帕里塔湾附近留下了带凹槽的矛头。此后数千年间，巴拿马中部太平洋一侧低地和丘陵的采集者开始照料并栽培木薯、竹芋、南瓜和玉米等作物，这是中美洲南部最早的农业尝试之一。",
+    "ja": "氷期の終わりに最初の人々が地峡を渡り、パリタ湾付近に樋状剥離のある尖頭器を残した。その後数千年のあいだに、パナマ中部太平洋側の低地や丘陵の狩猟採集民はキャッサバ、クズウコン、カボチャ、トウモロコシなどを育て始めた。これは中米南部で最も早い栽培の試みの一つである。"
+   }
+  },
+  {
+   "from": -2500,
+   "to": 300,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Monagrillo and early village farmers",
+    "ko": "모나그리요 문화와 초기 농경 마을",
+    "zh": "莫纳格里约文化与早期农耕村落",
+    "ja": "モナグリーリョ文化と初期農耕村落"
+   },
+   "summary": {
+    "en": "Around 2500 BC shell-midden dwellers at Monagrillo on Parita Bay made some of the earliest pottery in Central America. In later centuries maize-based farming villages spread across the Pacific plains of central Panama, laying the foundations for the chiefdoms that followed.",
+    "ko": "기원전 2500년경 파리타만의 모나그리요 패총 주민들은 중앙아메리카에서 가장 이른 토기 가운데 하나를 만들었다. 이후 수 세기에 걸쳐 옥수수 농경 마을이 중부 파나마 태평양 연안 평야에 퍼지면서 뒤이은 수장 사회의 토대가 마련되었다.",
+    "zh": "约公元前2500年，帕里塔湾莫纳格里约贝丘的居民制作出中美洲最早的陶器之一。此后数百年间，以玉米为主的农耕村落遍布巴拿马中部的太平洋沿岸平原，为后来的酋邦社会奠定了基础。",
+    "ja": "紀元前2500年頃、パリタ湾のモナグリーリョ貝塚の住民は中米で最古級の土器を作った。その後数世紀にわたりトウモロコシ農耕の村落がパナマ中部の太平洋岸平野に広がり、のちの首長制社会の基盤となった。"
+   }
+  },
+  {
+   "from": 200,
+   "to": 1520,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Gran Coclé chiefdoms",
+    "ko": "그란 코클레 수장 사회",
+    "zh": "大科克莱酋邦",
+    "ja": "グラン・コクレの首長制社会"
+   },
+   "summary": {
+    "en": "In central Panama, ranked chiefdoms of the Gran Coclé cultural area produced brilliant polychrome pottery and cast and hammered gold ornaments. Elite cemeteries such as Sitio Conte and El Caño reveal powerful leaders buried with warriors' regalia and gold, and the chiefdoms the Spaniards met in 1515–1520, such as Natá and Parita, were their heirs.",
+    "ko": "중부 파나마의 그란 코클레 문화권에서는 계층화된 수장 사회들이 화려한 다채색 토기와 주조·단조 황금 장신구를 만들었다. 시티오 콘테와 엘 카뇨 같은 엘리트 묘역에는 전사의 장신구와 황금을 함께 묻은 강력한 지도자들이 잠들어 있으며, 1515~1520년 에스파냐인이 만난 나타·파리타 등의 수장국이 그 후예였다.",
+    "zh": "在巴拿马中部的大科克莱文化区，等级分明的酋邦制作出绚丽的彩陶以及铸造和锤揲的黄金饰品。锡蒂奥孔特和埃尔卡尼奥等精英墓地中，强大的首领与战士装饰和黄金一同下葬；1515—1520年西班牙人遇到的纳塔、帕里塔等酋邦正是其后继者。",
+    "ja": "パナマ中部のグラン・コクレ文化圏では、階層化した首長制社会が華麗な多彩色土器と鋳造・打ち出しの黄金装身具を生み出した。シティオ・コンテやエル・カニョなどの墓域には戦士の装具や黄金とともに有力者が葬られており、1515～1520年にスペイン人が出会ったナタやパリタの首長国はその後継であった。"
+   }
+  },
+  {
+   "from": 300,
+   "to": 1520,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Gran Chiriquí and Gran Darién",
+    "ko": "그란 치리키와 그란 다리엔",
+    "zh": "大奇里基与大达连",
+    "ja": "グラン・チリキとグラン・ダリエン"
+   },
+   "summary": {
+    "en": "Western Panama belonged to the Gran Chiriquí cultural area, shared with southern Costa Rica, known for the stone statues and carved metates of Barriles and for later goldwork. The eastern isthmus formed the Gran Darién area, home at contact to the Cueva-speaking chiefdoms that the Spaniards first conquered, and ancestral to later peoples of the Darién frontier.",
+    "ko": "서부 파나마는 코스타리카 남부와 함께 그란 치리키 문화권에 속했으며, 바리예스 유적의 석상과 조각된 맷돌, 후대의 황금 세공으로 알려져 있다. 동부 지협은 그란 다리엔 문화권으로, 유럽인과 접촉할 당시 에스파냐인이 가장 먼저 정복한 쿠에바어 사용 수장 사회들이 자리하고 있었다.",
+    "zh": "巴拿马西部与哥斯达黎加南部同属大奇里基文化区，以巴里耶斯遗址的石雕人像、雕刻石磨盘和后来的金器而闻名。地峡东部属于大达连文化区，接触时期这里分布着说库埃瓦语的酋邦，它们是西班牙人最早征服的对象。",
+    "ja": "パナマ西部はコスタリカ南部とともにグラン・チリキ文化圏に属し、バリーレス遺跡の石像や彫刻されたメタテ、後代の金細工で知られる。地峡東部はグラン・ダリエン文化圏で、接触期にはスペイン人が最初に征服したクエバ語系の首長制社会が広がっていた。"
+   }
+  },
+  {
+   "from": 1501,
+   "to": 1538,
+   "kind": "colonial",
+   "qid": "Q217196",
+   "polity": "Crown of Castile",
+   "name": {
+    "en": "Castilla de Oro: the Spanish conquest",
+    "ko": "카스티야 델 오로: 에스파냐의 정복",
+    "zh": "黄金卡斯蒂利亚：西班牙征服",
+    "ja": "カスティーリャ・デル・オロ：スペインの征服"
+   },
+   "summary": {
+    "en": "From 1501 Spanish explorers sailed the Caribbean coast of the isthmus, and the Crown of Castile organized the region as Castilla de Oro. Balboa's crossing to the Pacific in 1513 and the founding of Panama City in 1519 turned the isthmus into the springboard for the conquest of Peru, while war, enslavement and epidemics devastated the indigenous chiefdoms.",
+    "ko": "1501년부터 에스파냐 탐험가들이 지협의 카리브해 연안을 항해했고, 카스티야 왕실은 이 지역을 '카스티야 델 오로(황금의 카스티야)'로 편제했다. 1513년 발보아의 태평양 도달과 1519년 파나마시티 건설로 지협은 페루 정복의 발판이 되었으며, 전쟁과 노예화, 전염병이 원주민 수장 사회를 황폐화했다.",
+    "zh": "自1501年起，西班牙探险者沿地峡的加勒比海岸航行，卡斯蒂利亚王室将该地区设为“黄金卡斯蒂利亚”。1513年巴尔沃亚抵达太平洋、1519年巴拿马城建立，使地峡成为征服秘鲁的跳板，而战争、奴役和瘟疫使原住民酋邦遭到毁灭性打击。",
+    "ja": "1501年以降スペインの探検者が地峡のカリブ海岸を航行し、カスティーリャ王室はこの地域を「カスティーリャ・デル・オロ（黄金のカスティーリャ）」として編成した。1513年のバルボアの太平洋到達と1519年のパナマ市建設により地峡はペルー征服の足場となり、戦争・奴隷化・疫病が先住民の首長制社会を壊滅させた。"
+   }
+  },
+  {
+   "from": 1538,
+   "to": 1739,
+   "kind": "colonial",
+   "qid": "Q80702",
+   "polity": "Spanish Empire",
+   "name": {
+    "en": "Spanish Isthmus: Audiencia and treasure route",
+    "ko": "에스파냐령 지협: 아우디엔시아와 보물 수송로",
+    "zh": "西班牙地峡：检审庭与财宝之路",
+    "ja": "スペイン領地峡：アウディエンシアと財宝の道"
+   },
+   "summary": {
+    "en": "Under the Spanish Empire the isthmus was the bottleneck of the silver route from Peru to Spain: bullion was carried by mule trains across the Camino Real and Camino de Cruces to Nombre de Dios and later Portobelo, where the great fairs met the treasure fleets. A Real Audiencia sat in Panama City for much of the period, and the route drew English, Dutch and French raiders as well as resistance by escaped African cimarrones.",
+    "ko": "에스파냐 제국 아래에서 지협은 페루의 은을 본국으로 보내는 수송로의 병목이었다. 은괴는 노새 행렬로 카미노 레알과 카미노 데 크루세스를 따라 놈브레 데 디오스, 이후 포르토벨로로 운반되었고, 그곳의 대시장에서 보물 선단과 만났다. 이 시기 대부분 파나마시티에는 왕립 아우디엔시아가 설치되었고, 수송로는 잉글랜드·네덜란드·프랑스 약탈자와 도망 노예 시마론의 저항을 불러왔다.",
+    "zh": "在西班牙帝国治下，地峡是秘鲁白银运往西班牙的咽喉：银锭由骡队沿王家大道和十字架大道运到农布雷德迪奥斯、后来的波托韦洛，在那里的大集市与运宝船队交接。这一时期大部分时间巴拿马城设有皇家检审庭，这条通道也招来了英格兰、荷兰和法国的劫掠者，以及逃亡非洲奴隶“西马隆”的反抗。",
+    "ja": "スペイン帝国のもとで地峡はペルー銀を本国へ送るルートの要衝であった。銀はラバの隊列でカミノ・レアルやカミノ・デ・クルセスを通ってノンブレ・デ・ディオス、のちにポルトベロへ運ばれ、そこの大市で財宝船団に積み込まれた。この時代の大半、パナマ市には王立アウディエンシアが置かれ、ルートはイングランド・オランダ・フランスの襲撃者や逃亡アフリカ人シマロンの抵抗を招いた。"
+   }
+  },
+  {
+   "from": 1739,
+   "to": 1821,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "Spanish Empire",
+   "name": {
+    "en": "Panama in the Viceroyalty of New Granada",
+    "ko": "누에바그라나다 부왕령의 파나마",
+    "zh": "新格拉纳达总督辖区的巴拿马",
+    "ja": "ヌエバ・グラナダ副王領のパナマ"
+   },
+   "summary": {
+    "en": "In 1739 Panama was attached to the Viceroyalty of New Granada, governed from Bogotá. After Vernon's capture of Portobelo and Spain's shift to individual register ships sailing around Cape Horn, the fairs ended and the isthmus entered a long economic decline, while its Audiencia was abolished in 1751.",
+    "ko": "1739년 파나마는 보고타에서 통치하는 누에바그라나다 부왕령에 편입되었다. 버넌의 포르토벨로 점령과 에스파냐가 케이프혼을 도는 개별 허가선 체제로 전환한 뒤 대시장은 끝났고, 지협은 오랜 경제 쇠퇴기에 들어갔다. 파나마 아우디엔시아도 1751년 폐지되었다.",
+    "zh": "1739年巴拿马被并入由波哥大统治的新格拉纳达总督辖区。弗农攻占波托韦洛、西班牙改用绕行合恩角的单独注册船后，大集市停办，地峡陷入长期经济衰退，巴拿马检审庭也于1751年被撤销。",
+    "ja": "1739年、パナマはボゴタから統治されるヌエバ・グラナダ副王領に編入された。ヴァーノンによるポルトベロ占領と、スペインがホーン岬回りの個別登録船へ切り替えたことで大市は終わり、地峡は長い経済的衰退期に入った。パナマのアウディエンシアも1751年に廃止された。"
+   }
+  },
+  {
+   "from": 1821,
+   "to": 1831,
+   "kind": "state",
+   "qid": "Q199821",
+   "polity": "Gran Colombia",
+   "name": {
+    "en": "Gran Colombia",
+    "ko": "그란콜롬비아",
+    "zh": "大哥伦比亚",
+    "ja": "大コロンビア"
+   },
+   "summary": {
+    "en": "After declaring independence from Spain in November 1821, Panama joined Simón Bolívar's Gran Colombia as the Department of the Isthmus. Bolívar convened the Congress of Panama there in 1826, but the union dissolved in 1830–1831 and Panama remained attached to New Granada.",
+    "ko": "1821년 11월 에스파냐로부터 독립을 선언한 파나마는 지협 주로서 시몬 볼리바르의 그란콜롬비아에 합류했다. 볼리바르는 1826년 이곳에서 파나마 회의를 소집했으나 연합은 1830~1831년 해체되었고, 파나마는 누에바그라나다에 남았다.",
+    "zh": "1821年11月宣布脱离西班牙独立后，巴拿马以地峡省的身份加入西蒙·玻利瓦尔的大哥伦比亚。玻利瓦尔于1826年在此召开巴拿马大会，但联盟在1830—1831年解体，巴拿马仍归属新格拉纳达。",
+    "ja": "1821年11月にスペインからの独立を宣言したパナマは、地峡県としてシモン・ボリバルの大コロンビアに加わった。ボリバルは1826年にここでパナマ会議を招集したが、連合は1830～1831年に解体し、パナマはヌエバ・グラナダにとどまった。"
+   }
+  },
+  {
+   "from": 1831,
+   "to": 1858,
+   "kind": "state",
+   "qid": "Q630882",
+   "polity": "Republic of New Granada",
+   "name": {
+    "en": "Republic of New Granada",
+    "ko": "누에바그라나다 공화국",
+    "zh": "新格拉纳达共和国",
+    "ja": "ヌエバ・グラナダ共和国"
+   },
+   "summary": {
+    "en": "Within the Republic of New Granada, Panama briefly broke away as the Free State of the Isthmus in 1840–1841. The California Gold Rush and the Panama Railroad made the isthmus a busy transit route under a US guarantee of neutrality, and in 1855 it became a self-governing federal state.",
+    "ko": "누에바그라나다 공화국 시기 파나마는 1840~1841년 '지협 자유국'으로 잠시 분리되었다. 캘리포니아 골드러시와 파나마 철도로 지협은 미국의 중립 보장 아래 분주한 통과 경로가 되었고, 1855년에는 자치권을 가진 연방주가 되었다.",
+    "zh": "在新格拉纳达共和国时期，巴拿马曾于1840—1841年短暂分离为“地峡自由邦”。加利福尼亚淘金热和巴拿马铁路使地峡在美国中立担保下成为繁忙的过境通道，1855年巴拿马成为享有自治权的联邦州。",
+    "ja": "ヌエバ・グラナダ共和国の時代、パナマは1840～1841年に「地峡自由国」として一時分離した。カリフォルニア・ゴールドラッシュとパナマ鉄道により地峡は米国の中立保障のもとで賑わう通過路となり、1855年には自治権をもつ連邦州となった。"
+   }
+  },
+  {
+   "from": 1840,
+   "to": 1841,
+   "kind": "state",
+   "qid": "Q8842943",
+   "polity": null,
+   "name": {
+    "en": "Free State of the Isthmus",
+    "ko": "지협 자유국",
+    "zh": "地峡自由邦",
+    "ja": "地峡自由国"
+   },
+   "summary": {
+    "en": "During New Granada's civil war, Panamanian leaders under Tomás Herrera proclaimed the Free State of the Isthmus in November 1840. It functioned as a separate state for about a year before rejoining New Granada at the end of 1841, an early expression of isthmian separatism.",
+    "ko": "누에바그라나다 내전 중이던 1840년 11월, 토마스 에레라가 이끄는 파나마 지도자들이 '지협 자유국'을 선포했다. 이 나라는 약 1년간 독립 국가로 기능하다가 1841년 말 누에바그라나다에 복귀했으며, 지협 분리주의의 초기 표현이었다.",
+    "zh": "新格拉纳达内战期间，以托马斯·埃雷拉为首的巴拿马领袖于1840年11月宣布成立“地峡自由邦”。该国作为独立国家运作约一年，于1841年底重新并入新格拉纳达，是地峡分离主义的早期体现。",
+    "ja": "ヌエバ・グラナダの内戦中の1840年11月、トマス・エレーラ率いるパナマの指導者たちが「地峡自由国」を宣言した。約1年間独立国として機能したのち1841年末にヌエバ・グラナダへ復帰したが、地峡の分離主義の早い表れであった。"
+   }
+  },
+  {
+   "from": 1858,
+   "to": 1863,
+   "kind": "state",
+   "qid": "Q1141215",
+   "polity": "Granadine Confederation",
+   "name": {
+    "en": "Granadine Confederation",
+    "ko": "그라나다 연합",
+    "zh": "格拉纳达联邦",
+    "ja": "グラナダ連合"
+   },
+   "summary": {
+    "en": "Under the federal Granadine Confederation, Panama kept its status as a self-governing state. The period was marked by civil war in the wider republic and by the steady traffic of the Panama Railroad between Colón and Panama City.",
+    "ko": "연방제 그라나다 연합 아래 파나마는 자치주의 지위를 유지했다. 이 시기는 공화국 전역의 내전과, 콜론과 파나마시티를 잇는 파나마 철도의 꾸준한 운송으로 특징지어진다.",
+    "zh": "在联邦制的格拉纳达联邦之下，巴拿马保持自治州地位。这一时期，整个共和国内战不断，而连接科隆与巴拿马城的巴拿马铁路运输持续繁忙。",
+    "ja": "連邦制のグラナダ連合のもとでパナマは自治州の地位を保った。この時期は共和国全体の内戦と、コロンとパナマ市を結ぶパナマ鉄道の盛んな輸送が特徴である。"
+   }
+  },
+  {
+   "from": 1863,
+   "to": 1886,
+   "kind": "state",
+   "qid": "Q1061488",
+   "polity": "United States of Colombia",
+   "name": {
+    "en": "Sovereign State of Panama (United States of Colombia)",
+    "ko": "파나마 주권주(콜롬비아 합중국)",
+    "zh": "巴拿马主权州（哥伦比亚合众国）",
+    "ja": "パナマ主権州（コロンビア合衆国）"
+   },
+   "summary": {
+    "en": "The Rionegro constitution of 1863 made Panama one of the sovereign states of the United States of Colombia, with wide autonomy but chronic political instability. The French canal company began work in 1881, bringing thousands of workers, many from the Caribbean, before its collapse.",
+    "ko": "1863년 리오네그로 헌법으로 파나마는 콜롬비아 합중국의 주권주 가운데 하나가 되어 폭넓은 자치를 누렸으나 정치적 불안이 만성화되었다. 1881년 프랑스 운하 회사가 공사를 시작해 카리브해 출신을 비롯한 수천 명의 노동자를 불러들였으나 결국 파산했다.",
+    "zh": "1863年的里奥内格罗宪法使巴拿马成为哥伦比亚合众国的主权州之一，享有广泛自治，但政局长期动荡。1881年法国运河公司开工，引来数千名工人（许多来自加勒比地区），最终却以破产告终。",
+    "ja": "1863年のリオネグロ憲法によりパナマはコロンビア合衆国の主権州の一つとなり、広い自治を得たが政治的不安定が慢性化した。1881年にはフランスの運河会社が工事を始め、カリブ海出身者を含む数千人の労働者を呼び寄せたが、のちに破綻した。"
+   }
+  },
+  {
+   "from": 1886,
+   "to": 1903,
+   "kind": "state",
+   "qid": "Q739",
+   "polity": "Republic of Colombia",
+   "name": {
+    "en": "Department of Panama (Republic of Colombia)",
+    "ko": "파나마 주(콜롬비아 공화국)",
+    "zh": "巴拿马省（哥伦比亚共和国）",
+    "ja": "パナマ県（コロンビア共和国）"
+   },
+   "summary": {
+    "en": "The centralist constitution of 1886 reduced Panama to a department ruled from Bogotá, fuelling resentment. The Thousand Days' War (1899–1902) was fought partly on the isthmus, and Colombia's rejection of the Hay–Herrán canal treaty in 1903 set the stage for separation.",
+    "ko": "1886년 중앙집권 헌법으로 파나마는 보고타가 직접 통치하는 주(데파르타멘토)로 격하되어 반감이 커졌다. 천일 전쟁(1899~1902)의 일부가 지협에서 벌어졌고, 1903년 콜롬비아 의회가 헤이-에란 운하 조약을 거부하면서 분리의 무대가 마련되었다.",
+    "zh": "1886年的中央集权宪法将巴拿马降为由波哥大直接管辖的省，引发强烈不满。千日战争（1899—1902）部分在地峡进行，1903年哥伦比亚否决《海-埃兰运河条约》，为巴拿马分离埋下伏笔。",
+    "ja": "1886年の中央集権的憲法によりパナマはボゴタが直轄する県に格下げされ、不満が募った。千日戦争（1899～1902年）の一部は地峡で戦われ、1903年にコロンビアがヘイ＝エラン運河条約を拒否したことが分離への道を開いた。"
+   }
+  },
+  {
+   "from": 1903,
+   "to": 1968,
+   "kind": "state",
+   "qid": "Q804",
+   "polity": "Republic of Panama",
+   "name": {
+    "en": "Early Republic of Panama",
+    "ko": "초기 파나마 공화국",
+    "zh": "早期巴拿马共和国",
+    "ja": "初期パナマ共和国"
+   },
+   "summary": {
+    "en": "Independent from November 1903, the Republic of Panama was dominated by an urban commercial elite and, until the 1936 Hull–Alfaro Treaty, by a US right to intervene. Politics swung between civilian leaders, the populist Arnulfo Arias and the growing power of the National Police and later National Guard, while nationalist pressure over the Canal Zone mounted.",
+    "ko": "1903년 11월 독립한 파나마 공화국은 도시 상업 엘리트가 주도했고, 1936년 헐-알파로 조약 이전까지는 미국의 개입권 아래 있었다. 정치는 문민 지도자, 포퓰리스트 아르눌포 아리아스, 그리고 국가경찰과 이후 국가방위대의 커져 가는 권력 사이를 오갔으며, 운하 지대를 둘러싼 민족주의 압력이 고조되었다.",
+    "zh": "巴拿马共和国自1903年11月独立，由城市商业精英主导，直到1936年《赫尔-阿尔法罗条约》前美国一直保有干预权。政局在文人领袖、民粹主义者阿努尔福·阿里亚斯以及日益强大的国家警察（后为国民警卫队）之间摇摆，围绕运河区的民族主义压力不断上升。",
+    "ja": "1903年11月に独立したパナマ共和国は都市の商業エリートが主導し、1936年のハル＝アルファロ条約までは米国の干渉権のもとにあった。政治は文民指導者、ポピュリストのアルヌルフォ・アリアス、そして国家警察（のち国家警備隊）の台頭のあいだを揺れ動き、運河地帯をめぐる民族主義の圧力が高まった。"
+   }
+  },
+  {
+   "from": 1903,
+   "to": 1979,
+   "kind": "colonial",
+   "qid": "Q498979",
+   "polity": null,
+   "name": {
+    "en": "Panama Canal Zone",
+    "ko": "파나마 운하 지대",
+    "zh": "巴拿马运河区",
+    "ja": "パナマ運河地帯"
+   },
+   "summary": {
+    "en": "Under the 1903 Hay–Bunau-Varilla Treaty the United States governed a ten-mile-wide strip across the isthmus 'as if it were sovereign', building the canal and running the Zone with its own government, courts, police and segregated pay system. The Zone split the young republic in two and became the central grievance of Panamanian nationalism until it was abolished in 1979.",
+    "ko": "1903년 헤이-뷔노바리야 조약에 따라 미국은 지협을 가로지르는 폭 10마일의 띠 모양 지역을 '주권자인 것처럼' 통치하며 운하를 건설하고, 독자적인 정부·법원·경찰과 차별적 급여 체계로 운하 지대를 운영했다. 운하 지대는 신생 공화국을 둘로 갈랐고, 1979년 폐지될 때까지 파나마 민족주의의 핵심 불만이었다.",
+    "zh": "根据1903年的《海-布诺-瓦里亚条约》，美国“如同拥有主权一般”管辖横贯地峡、宽十英里的狭长地带，在此修建运河，并以自己的政府、法院、警察和带有种族区分的工资制度管理运河区。运河区将年轻的共和国一分为二，直到1979年撤销前一直是巴拿马民族主义的核心诉求。",
+    "ja": "1903年のヘイ＝ビュノー・バリヤ条約により、米国は地峡を横切る幅10マイルの帯状地域を「主権者であるかのように」統治し、運河を建設するとともに独自の政府・裁判所・警察と差別的な賃金制度で運河地帯を運営した。運河地帯は若い共和国を二分し、1979年に廃止されるまでパナマ民族主義の最大の不満であった。"
+   }
+  },
+  {
+   "from": 1968,
+   "to": 1989,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Military rule: Torrijos and Noriega",
+    "ko": "군부 통치: 토리호스와 노리에가",
+    "zh": "军人统治：托里霍斯与诺列加",
+    "ja": "軍政：トリホスとノリエガ"
+   },
+   "summary": {
+    "en": "The National Guard's 1968 coup brought General Omar Torrijos to power; he combined authoritarian rule with social reforms and won the 1977 treaties returning the canal. After his death in 1981 Manuel Noriega took control of the renamed Panama Defense Forces, ruling through fraud and repression until the US invasion of December 1989.",
+    "ko": "1968년 국가방위대의 쿠데타로 오마르 토리호스 장군이 집권했다. 그는 권위주의 통치와 사회 개혁을 병행했으며 1977년 운하 반환 조약을 얻어냈다. 1981년 그가 사망한 뒤 마누엘 노리에가가 파나마 방위군으로 개칭된 군을 장악하고 부정선거와 탄압으로 통치하다가 1989년 12월 미국의 침공으로 축출되었다.",
+    "zh": "1968年国民警卫队发动政变，奥马尔·托里霍斯将军上台。他将威权统治与社会改革相结合，并于1977年争取到归还运河的条约。1981年他去世后，曼努埃尔·诺列加掌控改名后的巴拿马国防军，以舞弊和镇压维持统治，直至1989年12月美国入侵。",
+    "ja": "1968年の国家警備隊のクーデターでオマル・トリホス将軍が権力を握った。彼は権威主義的統治と社会改革を組み合わせ、1977年に運河返還条約を勝ち取った。1981年の彼の死後、マヌエル・ノリエガがパナマ国防軍と改称された軍を掌握し、不正選挙と弾圧で支配したが、1989年12月の米軍侵攻で排除された。"
+   }
+  },
+  {
+   "from": 1990,
+   "to": 2026,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Democratic Panama and the canal era",
+    "ko": "민주화된 파나마와 운하 시대",
+    "zh": "民主巴拿马与运河时代",
+    "ja": "民主化パナマと運河の時代"
+   },
+   "summary": {
+    "en": "Since 1990 Panama has held regular competitive elections and abolished its army in 1994. Full control of the canal from 1999, its expansion in 2016, banking, logistics and the Colón Free Zone drove rapid growth, though inequality, corruption scandals and disputes over mining, water and migration through the Darién Gap remain pressing issues.",
+    "ko": "1990년 이후 파나마는 정기적인 경쟁 선거를 치러 왔고 1994년 군대를 폐지했다. 1999년 운하의 완전한 관할권 확보와 2016년 확장, 금융·물류업과 콜론 자유무역지대가 빠른 성장을 이끌었지만, 불평등과 부패 스캔들, 광산·물·다리엔 갭을 통한 이주를 둘러싼 갈등은 여전히 과제로 남아 있다.",
+    "zh": "1990年以来，巴拿马定期举行竞争性选举，并于1994年废除军队。1999年全面接管运河、2016年运河扩建，以及银行、物流和科隆自由贸易区推动了快速增长，但不平等、腐败丑闻以及围绕采矿、水资源和经达连隘口移民的争议仍是紧迫问题。",
+    "ja": "1990年以降、パナマは定期的に競争的選挙を実施し、1994年には軍隊を廃止した。1999年の運河の完全管理、2016年の拡張、金融・物流業とコロン・フリーゾーンが急成長を支えたが、格差や汚職スキャンダル、鉱山・水資源・ダリエン地峡経由の移民をめぐる問題は依然として大きな課題である。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Early plant cultivation in central Panama",
+    "ko": "중부 파나마의 초기 작물 재배",
+    "zh": "巴拿马中部的早期作物栽培",
+    "ja": "パナマ中部の初期栽培"
+   },
+   "description": {
+    "en": "By around 3000 BC, and in some cases much earlier, people living in rock shelters and small camps in the foothills of central Panama, such as at Aguadulce and Cueva de los Ladrones, were using cultivated maize, manioc, squash and arrowroot, as starch grains and phytoliths on their stone tools show. Slash-and-burn clearing of the tropical forest began to reshape the landscape.",
+    "ko": "기원전 3000년경, 그리고 일부는 그보다 훨씬 이전부터 아과둘세와 쿠에바 데 로스 라드로네스 등 중부 파나마 구릉지의 바위 그늘과 소규모 야영지에 살던 사람들은 재배한 옥수수·마니옥·호박·애로루트를 이용했다. 석기에 남은 전분 입자와 식물규소체가 이를 보여 준다. 화전으로 열대림을 개간하면서 경관도 바뀌기 시작했다.",
+    "zh": "大约公元前3000年，有些甚至更早，生活在巴拿马中部丘陵岩棚和小型营地（如阿瓜杜尔塞、拉德罗内斯洞穴）的人们已在利用栽培的玉米、木薯、南瓜和竹芋，石器上残留的淀粉粒和植硅体证明了这一点。刀耕火种开始改变热带森林景观。",
+    "ja": "紀元前3000年頃、ところによってはさらに早くから、アグアドゥルセやクエバ・デ・ロス・ラドロネスなどパナマ中部丘陵の岩陰や小規模な野営地に暮らす人々は、栽培されたトウモロコシ・キャッサバ・カボチャ・クズウコンを利用していた。石器に残るデンプン粒やプラント・オパールがそれを示す。焼畑による熱帯林の開墾が景観を変え始めた。"
+   }
+  },
+  {
+   "year": -2500,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Monagrillo pottery",
+    "ko": "모나그리요 토기",
+    "zh": "莫纳格里约陶器",
+    "ja": "モナグリーリョ土器"
+   },
+   "description": {
+    "en": "Around 2500 BC people living at the shell midden of Monagrillo on Parita Bay began making simple pottery, among the earliest ceramics in Central America. The Monagrillo tradition, which lasted until about 1200 BC, marks the beginning of settled village life on the Pacific coast of the isthmus.",
+    "ko": "기원전 2500년경 파리타만 모나그리요 패총에 살던 사람들이 단순한 토기를 만들기 시작했는데, 이는 중앙아메리카에서 가장 이른 토기 가운데 하나다. 기원전 1200년경까지 이어진 모나그리요 전통은 지협 태평양 연안 정주 마을 생활의 시작을 알린다.",
+    "zh": "约公元前2500年，帕里塔湾莫纳格里约贝丘的居民开始制作简单的陶器，这是中美洲最早的陶器之一。莫纳格里约传统一直延续到约公元前1200年，标志着地峡太平洋沿岸定居村落生活的开端。",
+    "ja": "紀元前2500年頃、パリタ湾のモナグリーリョ貝塚に暮らす人々が簡素な土器を作り始めた。中米で最古級の土器である。紀元前1200年頃まで続いたモナグリーリョ伝統は、地峡太平洋岸における定住村落生活の始まりを示す。"
+   }
+  },
+  {
+   "year": 400,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Barriles and the Gran Chiriquí tradition",
+    "ko": "바리예스와 그란 치리키 전통",
+    "zh": "巴里耶斯与大奇里基传统",
+    "ja": "バリーレスとグラン・チリキ伝統"
+   },
+   "description": {
+    "en": "In the highlands of Chiriquí near the Barú volcano, the village of Barriles flourished in the first millennium AD. It is famous for life-size stone statues showing one figure carried on the shoulders of another, and for large carved grinding stones, evidence of a ranked society in western Panama.",
+    "ko": "치리키 고원의 바루 화산 인근에서는 서기 1천년기에 바리예스 마을이 번성했다. 이곳은 한 인물이 다른 인물의 어깨 위에 올라탄 모습의 실물 크기 석상과 크게 조각된 맷돌로 유명하며, 서부 파나마에 계층 사회가 존재했음을 보여 준다.",
+    "zh": "在奇里基高原巴鲁火山附近，巴里耶斯村落在公元一千纪繁荣一时。它以一人骑坐在另一人肩上的真人大小石像和大型雕刻石磨盘闻名，证明巴拿马西部存在等级社会。",
+    "ja": "チリキ高地のバル火山近くでは、紀元1千年紀にバリーレスの集落が栄えた。一人がもう一人の肩に乗る等身大の石像や大型の彫刻されたメタテで知られ、パナマ西部に階層社会が存在したことを示している。"
+   }
+  },
+  {
+   "year": 700,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Gran Coclé goldworking cultures flourish",
+    "ko": "그란 코클레 문화의 황금 세공",
+    "zh": "大科克莱文化的黄金工艺",
+    "ja": "グラン・コクレ文化の黄金細工"
+   },
+   "description": {
+    "en": "Chiefdoms of the Gran Coclé tradition on the isthmus produced sophisticated polychrome pottery and gold ornaments, as seen in the rich burials of Sitio Conte.",
+    "ko": "파나마 지협의 그란 코클레 전통에 속한 수장 사회들은 정교한 다채색 토기와 황금 장신구를 제작했으며, 시티오 콘테의 화려한 무덤 유적이 이를 잘 보여준다.",
+    "zh": "巴拿马地峡上属于大科克莱传统的酋邦社会制作出精美的彩陶和黄金饰品,锡蒂奥孔特遗址的豪华墓葬便是明证。",
+    "ja": "パナマ地峡のグラン・コクレ伝統に属する首長制社会は、精巧な多彩色土器や黄金装身具を生み出した。シティオ・コンテ遺跡の豪華な墓がその証しである。"
+   }
+  },
+  {
+   "year": 900,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Elite burials at El Caño",
+    "ko": "엘 카뇨의 엘리트 매장",
+    "zh": "埃尔卡尼奥的精英墓葬",
+    "ja": "エル・カニョの首長墓"
+   },
+   "description": {
+    "en": "At El Caño in Coclé, a necropolis used roughly between AD 700 and 1000 held the tombs of powerful chiefs buried with gold breastplates, bells and other ornaments together with sacrificed attendants. Excavations in the 2000s confirmed it as one of the richest funerary sites of the Gran Coclé tradition, alongside nearby Sitio Conte.",
+    "ko": "코클레주 엘 카뇨에서는 대략 서기 700~1000년에 쓰인 묘역에 황금 흉갑과 방울 등 장신구, 그리고 희생된 수행원과 함께 묻힌 강력한 수장들의 무덤이 있었다. 2000년대 발굴로 이곳은 인근 시티오 콘테와 더불어 그란 코클레 전통에서 가장 풍부한 매장 유적 가운데 하나로 확인되었다.",
+    "zh": "在科克莱省的埃尔卡尼奥，一处大约使用于公元700至1000年间的墓地中埋葬着强大的酋长，随葬有金胸甲、金铃等饰品以及殉葬的随从。2000年代的发掘证实，它与附近的锡蒂奥孔特同为大科克莱传统中最丰富的墓葬遗址之一。",
+    "ja": "コクレ県のエル・カニョでは、おおむね700～1000年に使われた墓域に、黄金の胸当てや鈴などの装身具、殉葬された従者とともに有力な首長が葬られていた。2000年代の発掘で、近くのシティオ・コンテと並ぶグラン・コクレ伝統屈指の豊かな墓域であることが確かめられた。"
+   }
+  },
+  {
+   "year": 1300,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Chiefdoms on the eve of contact",
+    "ko": "접촉 직전의 수장 사회",
+    "zh": "接触前夕的酋邦",
+    "ja": "接触前夜の首長国"
+   },
+   "description": {
+    "en": "In the centuries before European arrival the isthmus was divided among many competing chiefdoms linked by trade in gold, salt, dried fish, cotton cloth and captives. Spanish chroniclers later described rulers such as Comogre and Careta in the east and Natá, París and Escoria on the Pacific plains, whose territories were fixed by rivers and whose wars were frequent.",
+    "ko": "유럽인이 오기 전 수 세기 동안 지협은 황금·소금·건어물·면직물·포로 교역으로 연결된 여러 경쟁 수장국으로 나뉘어 있었다. 훗날 에스파냐 연대기 작가들은 동부의 코모그레·카레타, 태평양 평야의 나타·파리스·에스코리아 같은 수장들을 기록했는데, 이들의 영역은 강을 경계로 했고 전쟁이 잦았다.",
+    "zh": "在欧洲人到来前的几个世纪里，地峡分属许多相互竞争的酋邦，它们通过黄金、盐、干鱼、棉布和俘虏的贸易相连。后来的西班牙编年史家记载了东部的科莫格雷、卡雷塔以及太平洋平原上的纳塔、帕里斯、埃斯科里亚等首领，其领地以河流为界，彼此征战频繁。",
+    "ja": "ヨーロッパ人到来前の数世紀、地峡は黄金・塩・干し魚・綿布・捕虜の交易で結ばれた多くの首長国に分かれて競い合っていた。のちのスペインの年代記作者は、東部のコモグレやカレタ、太平洋岸平野のナタ、パリス、エスコリアといった首長を記録しており、その領域は川で区切られ、戦争が頻発した。"
+   }
+  },
+  {
+   "year": 1501,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Bastidas reaches the isthmus",
+    "ko": "바스티다스의 지협 도달",
+    "zh": "巴斯蒂达斯抵达地峡",
+    "ja": "バスティダスの地峡到達"
+   },
+   "description": {
+    "en": "In 1501 the Spanish notary-turned-explorer Rodrigo de Bastidas, accompanied by the pilot Juan de la Cosa and the young Vasco Núñez de Balboa, sailed along the Caribbean coast of what is now eastern Panama. It was the first recorded European visit to the isthmus.",
+    "ko": "1501년 공증인 출신 에스파냐 탐험가 로드리고 데 바스티다스가 항해사 후안 데 라 코사, 젊은 바스코 누녜스 데 발보아와 함께 오늘날 파나마 동부의 카리브해 연안을 항해했다. 이는 기록에 남은 유럽인의 첫 지협 방문이었다.",
+    "zh": "1501年，由公证人转为探险家的西班牙人罗德里戈·德·巴斯蒂达斯在领航员胡安·德拉科萨和年轻的巴斯克·努涅斯·德·巴尔沃亚陪同下，沿今巴拿马东部的加勒比海岸航行。这是有记载的欧洲人首次到访地峡。",
+    "ja": "1501年、公証人から探検家に転じたスペイン人ロドリゴ・デ・バスティダスが、水先案内人フアン・デ・ラ・コサや若きバスコ・ヌーニェス・デ・バルボアを伴い、現在のパナマ東部のカリブ海岸を航行した。記録に残るヨーロッパ人初の地峡訪問である。"
+   }
+  },
+  {
+   "year": 1502,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Columbus explores the coast of Veragua",
+    "ko": "콜럼버스의 베라과 연안 탐사",
+    "zh": "哥伦布探索贝拉瓜海岸",
+    "ja": "コロンブスのベラグア沿岸探検"
+   },
+   "description": {
+    "en": "On his fourth voyage (1502–1503) Christopher Columbus sailed the Caribbean coast of Panama, naming Portobelo and attempting to found a settlement, Santa María de Belén, near the Belén River in Veragua. Local resistance led by the quibián (chief) forced the Spaniards to abandon it in 1503.",
+    "ko": "네 번째 항해(1502~1503)에서 크리스토퍼 콜럼버스는 파나마 카리브해 연안을 항해하며 포르토벨로라는 이름을 붙였고, 베라과의 벨렌강 부근에 산타마리아 데 벨렌 정착지를 세우려 했다. 그러나 키비안(수장)이 이끄는 현지 주민의 저항으로 에스파냐인은 1503년 이곳을 포기했다.",
+    "zh": "在第四次航行（1502—1503年）中，克里斯托弗·哥伦布沿巴拿马加勒比海岸航行，为波托韦洛命名，并试图在贝拉瓜的贝伦河附近建立定居点圣玛丽亚-德贝伦。当地酋长“基比安”领导的抵抗迫使西班牙人于1503年放弃该地。",
+    "ja": "第4回航海（1502～1503年）でクリストファー・コロンブスはパナマのカリブ海岸を航行してポルトベロと名づけ、ベラグアのベレン川近くにサンタ・マリア・デ・ベレン入植地を築こうとした。しかしキビアン（首長）率いる住民の抵抗により、スペイン人は1503年にこれを放棄した。"
+   }
+  },
+  {
+   "year": 1513,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Balboa crosses the isthmus to the Pacific",
+    "ko": "발보아의 지협 횡단과 태평양 도달",
+    "zh": "巴尔沃亚横越地峡发现太平洋",
+    "ja": "バルボアの地峡横断と太平洋到達"
+   },
+   "description": {
+    "en": "Vasco Núñez de Balboa crossed the isthmus of Panama and became the first European to sight the Pacific from the Americas, fixing Panama's destiny as a route between two oceans.",
+    "ko": "바스코 누녜스 데 발보아가 파나마 지협을 횡단해 아메리카에서 태평양을 목격한 최초의 유럽인이 되었고, 이로써 파나마는 두 대양을 잇는 통로라는 운명을 갖게 되었다.",
+    "zh": "巴斯克·努涅斯·德·巴尔沃亚横越巴拿马地峡,成为首位从美洲望见太平洋的欧洲人,巴拿马作为连接两大洋通道的命运就此确立。",
+    "ja": "バスコ・ヌーニェス・デ・バルボアがパナマ地峡を横断し、アメリカ大陸から太平洋を望んだ最初のヨーロッパ人となった。二つの大洋を結ぶ回廊というパナマの宿命がここに定まった。"
+   }
+  },
+  {
+   "year": 1514,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Pedrarias Dávila governs Castilla de Oro",
+    "ko": "페드라리아스 다빌라의 카스티야 델 오로 통치",
+    "zh": "佩德拉里亚斯·达维拉治理黄金卡斯蒂利亚",
+    "ja": "ペドラリアス・ダビラのカスティーリャ・デル・オロ統治"
+   },
+   "description": {
+    "en": "In 1514 a large fleet brought Pedro Arias de Ávila, known as Pedrarias Dávila, as governor of Castilla de Oro. His captains launched brutal raiding expeditions (entradas) across the isthmus in search of gold and slaves, devastating the indigenous chiefdoms, and his rivalry with Balboa ended in Balboa's execution in 1519.",
+    "ko": "1514년 대규모 선단이 페드라리아스 다빌라로 알려진 페드로 아리아스 데 아빌라를 카스티야 델 오로 총독으로 실어 왔다. 그의 부하들은 황금과 노예를 찾아 지협 전역에서 잔혹한 약탈 원정(엔트라다)을 벌여 원주민 수장 사회를 황폐화했고, 발보아와의 경쟁은 1519년 발보아의 처형으로 끝났다.",
+    "zh": "1514年，一支庞大船队将人称佩德拉里亚斯·达维拉的佩德罗·阿里亚斯·德阿维拉送来担任黄金卡斯蒂利亚总督。他的部将为搜寻黄金和奴隶在地峡各地发动残酷的劫掠远征，使原住民酋邦惨遭破坏；他与巴尔沃亚的争斗以1519年巴尔沃亚被处决告终。",
+    "ja": "1514年、大艦隊がペドラリアス・ダビラの名で知られるペドロ・アリアス・デ・アビラをカスティーリャ・デル・オロ総督として送り込んだ。部下たちは黄金と奴隷を求めて地峡各地で残虐な略奪遠征（エントラーダ）を行い先住民の首長国を荒廃させ、バルボアとの対立は1519年のバルボア処刑で終わった。"
+   }
+  },
+  {
+   "year": 1519,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Execution of Balboa",
+    "ko": "발보아의 처형",
+    "zh": "巴尔沃亚被处决",
+    "ja": "バルボアの処刑"
+   },
+   "description": {
+    "en": "In January 1519 Vasco Núñez de Balboa, the discoverer of the 'South Sea', was tried on charges of treason brought by Governor Pedrarias Dávila and beheaded at Acla on the Caribbean coast. His death removed Pedrarias's main rival shortly before the governor shifted the colony's centre to the new Pacific city of Panama.",
+    "ko": "1519년 1월, '남해(태평양)'의 발견자 바스코 누녜스 데 발보아는 페드라리아스 다빌라 총독이 제기한 반역 혐의로 재판을 받고 카리브해 연안의 아클라에서 참수되었다. 그의 죽음으로 페드라리아스는 최대의 경쟁자를 제거했고, 얼마 뒤 식민지의 중심을 태평양 쪽 신도시 파나마로 옮겼다.",
+    "zh": "1519年1月，“南海”的发现者巴斯克·努涅斯·德·巴尔沃亚因总督佩德拉里亚斯·达维拉指控其叛国而受审，在加勒比海岸的阿克拉被斩首。他的死使佩德拉里亚斯除去了主要对手，不久后总督便把殖民地中心迁到太平洋岸的新城巴拿马。",
+    "ja": "1519年1月、「南の海」の発見者バスコ・ヌーニェス・デ・バルボアはペドラリアス・ダビラ総督による反逆罪の告発で裁かれ、カリブ海岸のアクラで斬首された。その死でペドラリアスは最大の競争相手を除き、まもなく植民地の中心を太平洋側の新都市パナマへ移した。"
+   }
+  },
+  {
+   "year": 1519,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Founding of Panama City",
+    "ko": "파나마시티 건설",
+    "zh": "巴拿马城的建立",
+    "ja": "パナマ市の建設"
+   },
+   "description": {
+    "en": "Pedrarias Dávila founded Panama City, the first permanent European settlement on the Pacific coast of the Americas and the base for Spanish expeditions, including the conquest of Peru.",
+    "ko": "페드라리아스 다빌라가 아메리카 태평양 연안 최초의 유럽인 정주 도시인 파나마시티를 세웠고, 이곳은 페루 정복을 비롯한 에스파냐 원정의 거점이 되었다.",
+    "zh": "佩德拉里亚斯·达维拉建立巴拿马城,这是欧洲人在美洲太平洋沿岸的第一个永久定居点,也是包括征服秘鲁在内的西班牙远征的基地。",
+    "ja": "ペドラリアス・ダビラがパナマ市を建設した。アメリカ大陸太平洋岸で最初のヨーロッパ人恒久都市であり、ペルー征服をはじめとするスペイン遠征の拠点となった。"
+   }
+  },
+  {
+   "year": 1520,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Urracá resists the conquest in Veraguas",
+    "ko": "베라과스에서 우라카의 저항",
+    "zh": "乌拉卡在贝拉瓜斯抵抗征服",
+    "ja": "ベラグアスでのウラカの抵抗"
+   },
+   "description": {
+    "en": "In the 1520s the chief Urracá united peoples of the mountains of Veraguas and fought the Spaniards for years, defeating several expeditions. Captured by treachery and sent to Nombre de Dios, he escaped and resisted until his death, and is honoured in modern Panama as a symbol of indigenous resistance; his image appears on the one-centésimo coin.",
+    "ko": "1520년대 수장 우라카는 베라과스 산지의 부족들을 규합해 수년간 에스파냐인과 싸우며 여러 원정대를 물리쳤다. 계략에 걸려 붙잡혀 놈브레 데 디오스로 보내졌으나 탈출해 죽을 때까지 저항했다. 오늘날 파나마에서는 원주민 저항의 상징으로 기려지며, 1센테시모 동전에 그의 모습이 새겨져 있다.",
+    "zh": "16世纪20年代，酋长乌拉卡联合贝拉瓜斯山区各族，与西班牙人作战多年，多次击败远征队。他曾遭诱捕被押往农布雷德迪奥斯，后逃脱并抵抗至死。在现代巴拿马，他被尊为原住民抵抗的象征，其头像出现在1分硬币上。",
+    "ja": "1520年代、首長ウラカはベラグアス山地の人々をまとめて長年スペイン人と戦い、いくつもの遠征隊を退けた。謀略で捕らえられノンブレ・デ・ディオスへ送られたが脱走し、死ぬまで抵抗を続けた。現代パナマでは先住民抵抗の象徴とされ、1センテシモ硬貨にその肖像が刻まれている。"
+   }
+  },
+  {
+   "year": 1524,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Pizarro sails from Panama toward Peru",
+    "ko": "피사로의 파나마 출항과 페루 원정",
+    "zh": "皮萨罗从巴拿马启航远征秘鲁",
+    "ja": "ピサロのパナマ出航とペルー遠征"
+   },
+   "description": {
+    "en": "In November 1524 Francisco Pizarro, a Panama City settler, sailed south with Diego de Almagro's support on the first of the expeditions that would lead to the conquest of the Inca Empire. Panama became the logistical base of the conquest of Peru and, afterwards, the transit point for Peruvian silver.",
+    "ko": "1524년 11월 파나마시티 정착민 프란시스코 피사로가 디에고 데 알마그로의 지원을 받아 남쪽으로 출항했다. 이는 잉카 제국 정복으로 이어진 원정의 시작이었다. 파나마는 페루 정복의 병참 기지가 되었고, 이후에는 페루산 은의 중계지가 되었다.",
+    "zh": "1524年11月，巴拿马城的移民弗朗西斯科·皮萨罗在迭戈·德阿尔马格罗的支持下南下航行，这是最终征服印加帝国的系列远征的第一次。巴拿马成为征服秘鲁的后勤基地，随后又成为秘鲁白银的转运站。",
+    "ja": "1524年11月、パナマ市の入植者フランシスコ・ピサロがディエゴ・デ・アルマグロの支援を得て南へ出航した。これがインカ帝国征服へとつながる遠征の始まりである。パナマはペルー征服の兵站基地となり、その後はペルー銀の中継地となった。"
+   }
+  },
+  {
+   "year": 1538,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Real Audiencia of Panama established",
+    "ko": "파나마 왕립 아우디엔시아 설치",
+    "zh": "设立巴拿马皇家检审庭",
+    "ja": "パナマ王立アウディエンシアの設置"
+   },
+   "description": {
+    "en": "In 1538 the Spanish Crown created the Real Audiencia of Panama, a high court and governing body with jurisdiction at first stretching from Nicaragua to the Río de la Plata. Abolished in 1543 and re-established in 1564, it gave the isthmus administrative weight until its final suppression in 1751.",
+    "ko": "1538년 에스파냐 왕실은 처음에는 니카라과에서 라플라타강에 이르는 관할권을 가진 고등법원 겸 통치 기관인 파나마 왕립 아우디엔시아를 설치했다. 1543년 폐지되었다가 1564년 재설치된 이 기관은 1751년 최종 폐지될 때까지 지협에 행정적 무게를 부여했다.",
+    "zh": "1538年，西班牙王室设立巴拿马皇家检审庭，这是一个兼具司法与行政职能的机构，最初管辖范围从尼加拉瓜一直延伸到拉普拉塔河。该机构1543年被撤销，1564年重建，直到1751年最终废除，一直赋予地峡重要的行政地位。",
+    "ja": "1538年、スペイン王室はパナマ王立アウディエンシアを設置した。司法と行政を担う機関で、当初の管轄はニカラグアからラ・プラタ川にまで及んだ。1543年に廃止され1564年に再設置されたこの機関は、1751年の最終廃止まで地峡に行政上の重みを与えた。"
+   }
+  },
+  {
+   "year": 1556,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Bayano and the cimarrón wars",
+    "ko": "바야노와 시마론 전쟁",
+    "zh": "巴亚诺与西马隆战争",
+    "ja": "バヤノとシマロン戦争"
+   },
+   "description": {
+    "en": "Enslaved Africans who escaped from the transit route formed free palenque communities in the forests. In the 1550s a leader known as Bayano headed a large cimarrón community east of Panama City and fought Spanish forces for several years before being captured; the Bayano River and region still bear his name.",
+    "ko": "수송로에서 탈출한 아프리카 노예들은 숲속에 자유로운 팔렝케 공동체를 이루었다. 1550년대 바야노라는 지도자가 파나마시티 동쪽의 큰 시마론 공동체를 이끌며 수년간 에스파냐군과 싸우다 붙잡혔으며, 바야노강과 그 지역에는 지금도 그의 이름이 남아 있다.",
+    "zh": "从运输通道逃离的非洲奴隶在森林中建立了自由的“帕伦克”社区。16世纪50年代，一位名叫巴亚诺的首领领导巴拿马城以东的大型西马隆社区，与西班牙军队周旋多年后被俘；巴亚诺河及其所在地区至今仍以他的名字命名。",
+    "ja": "輸送路から逃亡したアフリカ人奴隷は森の中に自由なパレンケ共同体を築いた。1550年代、バヤノと呼ばれる指導者がパナマ市東方の大規模なシマロン共同体を率い、数年間スペイン軍と戦ったのち捕らえられた。バヤノ川とその地域には今も彼の名が残る。"
+   }
+  },
+  {
+   "year": 1572,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Francis Drake raids Nombre de Dios",
+    "ko": "프랜시스 드레이크의 놈브레 데 디오스 습격",
+    "zh": "弗朗西斯·德雷克袭击农布雷德迪奥斯",
+    "ja": "ドレークのノンブレ・デ・ディオス襲撃"
+   },
+   "description": {
+    "en": "In 1572 the English captain Francis Drake attacked Nombre de Dios, the Caribbean terminus of the silver route. Allied with cimarrón communities, he went on in 1573 to ambush a mule train carrying Peruvian silver near the town, a raid that made his fortune and exposed the vulnerability of the isthmus.",
+    "ko": "1572년 잉글랜드 선장 프랜시스 드레이크가 은 수송로의 카리브해 쪽 종착지인 놈브레 데 디오스를 공격했다. 그는 시마론 공동체와 손잡고 1573년 마을 인근에서 페루산 은을 실은 노새 행렬을 기습했다. 이 습격으로 그는 큰 부를 얻었고 지협의 취약성이 드러났다.",
+    "zh": "1572年，英格兰船长弗朗西斯·德雷克袭击了白银运输线在加勒比海一端的终点农布雷德迪奥斯。他与西马隆社区结盟，1573年又在镇附近伏击了运送秘鲁白银的骡队。这次劫掠使他发了大财，也暴露了地峡防御的脆弱。",
+    "ja": "1572年、イングランドの船長フランシス・ドレークが銀輸送路のカリブ海側終点ノンブレ・デ・ディオスを襲撃した。彼はシマロン共同体と手を結び、1573年には町の近くでペルー銀を運ぶラバ隊を待ち伏せした。この襲撃で彼は巨富を得、地峡の脆さが露呈した。"
+   }
+  },
+  {
+   "year": 1597,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Portobelo replaces Nombre de Dios",
+    "ko": "포르토벨로의 건설",
+    "zh": "波托韦洛取代农布雷德迪奥斯",
+    "ja": "ポルトベロの建設"
+   },
+   "description": {
+    "en": "In 1597 the Spaniards founded San Felipe de Portobelo on a deep, defensible bay to replace the unhealthy and exposed port of Nombre de Dios. Protected by a chain of forts, Portobelo hosted the great trade fairs where Peruvian silver was exchanged for European goods brought by the galleons; its fortifications are now a UNESCO World Heritage site.",
+    "ko": "1597년 에스파냐인은 비위생적이고 방어에 취약한 놈브레 데 디오스 항을 대체하기 위해 깊고 방어하기 좋은 만에 산펠리페 데 포르토벨로를 세웠다. 요새들로 보호된 포르토벨로에서는 페루산 은과 갤리언선이 싣고 온 유럽 상품을 교환하는 대시장이 열렸으며, 그 요새들은 오늘날 유네스코 세계유산이다.",
+    "zh": "1597年，西班牙人在一处水深且易守的海湾建立圣费利佩-德波托韦洛，取代不卫生且易受攻击的农布雷德迪奥斯港。在一系列要塞的保护下，波托韦洛举办大型集市，用秘鲁白银交换大帆船运来的欧洲货物；其防御工事如今是联合国教科文组织世界遗产。",
+    "ja": "1597年、スペイン人は不衛生で守りにくいノンブレ・デ・ディオス港に代えて、深く防御に適した湾にサン・フェリペ・デ・ポルトベロを建設した。要塞群に守られたポルトベロでは、ペルー銀とガレオン船が運ぶヨーロッパ商品を交換する大市が開かれ、その要塞群は現在ユネスコ世界遺産となっている。"
+   }
+  },
+  {
+   "year": 1601,
+   "qid": "Q16253717",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "English raid on Portobelo",
+    "ko": "잉글랜드의 포르토벨로 습격",
+    "zh": "英格兰人袭击波托韦洛",
+    "ja": "イングランドのポルトベロ襲撃"
+   },
+   "description": {
+    "en": "In February 1601 the English privateer William Parker surprised and briefly captured the newly built town of Portobelo, plundering it before withdrawing. The raid showed that the new port was still vulnerable and prompted further work on its fortifications.",
+    "ko": "1601년 2월 잉글랜드 사략선장 윌리엄 파커가 새로 건설된 포르토벨로를 기습해 잠시 점령하고 약탈한 뒤 물러났다. 이 습격은 새 항구가 여전히 취약함을 보여 주었고, 요새 보강 공사를 촉진했다.",
+    "zh": "1601年2月，英格兰私掠船长威廉·帕克突袭新建的波托韦洛，短暂占领并洗劫后撤离。这次袭击表明新港口仍然脆弱，促使西班牙人进一步加固防御工事。",
+    "ja": "1601年2月、イングランドの私掠船長ウィリアム・パーカーが新設のポルトベロを奇襲して一時占領し、略奪して引き揚げた。この襲撃は新港がなお脆弱であることを示し、要塞強化を促した。"
+   }
+  },
+  {
+   "year": 1621,
+   "qid": "Q19370856",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "1621 Panama earthquake",
+    "ko": "1621년 파나마 지진",
+    "zh": "1621年巴拿马地震",
+    "ja": "1621年パナマ地震"
+   },
+   "description": {
+    "en": "In 1621 a strong earthquake struck Panama City, damaging churches, houses and other buildings of the colonial capital. It is one of the earliest recorded earthquakes on the isthmus, a reminder that the region lies near active plate boundaries.",
+    "ko": "1621년 강한 지진이 파나마시티를 덮쳐 식민지 수도의 교회와 가옥 등 건물들이 피해를 입었다. 이는 지협에서 기록된 가장 이른 지진 가운데 하나로, 이 지역이 활동적인 판 경계 가까이에 있음을 일깨운다.",
+    "zh": "1621年，一场强烈地震袭击巴拿马城，殖民地首府的教堂、房屋等建筑受损。这是地峡有记录的最早地震之一，提醒人们该地区靠近活跃的板块边界。",
+    "ja": "1621年、強い地震がパナマ市を襲い、植民地首都の教会や家屋などが被害を受けた。地峡で記録された最も早い地震の一つであり、この地域が活発なプレート境界に近いことを物語る。"
+   }
+  },
+  {
+   "year": 1668,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Henry Morgan captures Portobelo",
+    "ko": "헨리 모건의 포르토벨로 점령",
+    "zh": "亨利·摩根攻占波托韦洛",
+    "ja": "ヘンリー・モーガンのポルトベロ占領"
+   },
+   "description": {
+    "en": "In 1668 Henry Morgan and a force of buccaneers from Jamaica stormed the forts of Portobelo, held the town for weeks and extracted a large ransom from the governor of Panama. The success emboldened Morgan to attack Panama City itself three years later.",
+    "ko": "1668년 헨리 모건과 자메이카에서 온 버커니어 무리가 포르토벨로 요새들을 급습해 몇 주 동안 도시를 점거하고 파나마 총독에게서 막대한 몸값을 받아냈다. 이 성공에 고무된 모건은 3년 뒤 파나마시티 자체를 공격했다.",
+    "zh": "1668年，亨利·摩根率领来自牙买加的海盗攻破波托韦洛要塞，占据该城数周，并向巴拿马总督勒索巨额赎金。这次成功使摩根胆子更大，三年后直接进攻巴拿马城。",
+    "ja": "1668年、ヘンリー・モーガン率いるジャマイカのバッカニアがポルトベロの要塞を急襲して数週間町を占拠し、パナマ総督から多額の身代金を取り立てた。この成功に勢いづいたモーガンは、3年後にパナマ市そのものを攻撃した。"
+   }
+  },
+  {
+   "year": 1671,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Henry Morgan sacks Panama City",
+    "ko": "헨리 모건의 파나마시티 약탈",
+    "zh": "亨利·摩根洗劫巴拿马城",
+    "ja": "ヘンリー・モーガンによるパナマ市略奪"
+   },
+   "description": {
+    "en": "The privateer Henry Morgan crossed the isthmus and destroyed Panama City; the settlement was rebuilt at a new site, today's Casco Viejo, a UNESCO World Heritage district.",
+    "ko": "사략선장 헨리 모건이 지협을 넘어 파나마시티를 파괴했다. 도시는 새 자리에 재건되었으며, 그곳이 오늘날 유네스코 세계유산 지구인 카스코 비에호이다.",
+    "zh": "私掠船长亨利·摩根越过地峡摧毁了巴拿马城。城市随后在新址重建,即今日被列为联合国教科文组织世界遗产的老城区(卡斯科维耶霍)。",
+    "ja": "私掠船長ヘンリー・モーガンが地峡を越えてパナマ市を破壊した。都市は新たな場所に再建され、それが今日ユネスコ世界遺産のカスコ・ビエホ地区である。"
+   }
+  },
+  {
+   "year": 1673,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "New Panama City founded on a new site",
+    "ko": "새 자리에 건설된 파나마시티",
+    "zh": "巴拿马城在新址重建",
+    "ja": "新たな地へのパナマ市再建"
+   },
+   "description": {
+    "en": "On 21 January 1673 the new Panama City was officially founded on a rocky peninsula a few kilometres west of the ruined old city, surrounded by walls to resist attack. This walled city is today's Casco Viejo, while the ruins of the first city, Panamá Viejo, survive as an archaeological site; both are UNESCO World Heritage.",
+    "ko": "1673년 1월 21일 폐허가 된 옛 도시에서 서쪽으로 몇 킬로미터 떨어진 바위 반도에 새 파나마시티가 공식 건설되었고, 공격에 대비해 성벽이 둘러졌다. 이 성곽 도시가 오늘날의 카스코 비에호이며, 최초의 도시 파나마 비에호의 폐허는 고고 유적으로 남아 둘 다 유네스코 세계유산이다.",
+    "zh": "1673年1月21日，新的巴拿马城在旧城废墟以西数公里处的一个岩石半岛上正式建立，并修筑城墙以抵御进攻。这座城墙环绕的城市就是今天的老城区（卡斯科维耶霍），而第一座城市“旧巴拿马”的废墟作为考古遗址保存下来，两者均为世界遗产。",
+    "ja": "1673年1月21日、廃墟となった旧市街から数キロ西の岩がちな半島に新しいパナマ市が正式に建設され、攻撃に備えて城壁で囲まれた。この城壁都市が今日のカスコ・ビエホであり、最初の都市パナマ・ビエホの廃墟は遺跡として残り、ともに世界遺産となっている。"
+   }
+  },
+  {
+   "year": 1698,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "The Scottish Darien scheme",
+    "ko": "스코틀랜드의 다리엔 계획",
+    "zh": "苏格兰的达连计划",
+    "ja": "スコットランドのダリエン計画"
+   },
+   "description": {
+    "en": "In 1698 the Company of Scotland landed settlers on the Caribbean coast of Darién to found the colony of New Caledonia, hoping to control a trade route between the oceans. Disease, poor supplies, English hostility and Spanish attacks destroyed the venture by 1700; the loss of much of Scotland's capital helped push the country toward the 1707 union with England.",
+    "ko": "1698년 스코틀랜드 회사는 대양 간 무역로를 장악하려는 목적으로 다리엔의 카리브해 연안에 정착민을 상륙시켜 뉴칼레도니아 식민지를 세웠다. 질병, 보급 부족, 잉글랜드의 적대와 에스파냐의 공격으로 사업은 1700년까지 무너졌고, 스코틀랜드 자본의 상당 부분을 잃은 것은 1707년 잉글랜드와의 연합을 앞당기는 요인이 되었다.",
+    "zh": "1698年，苏格兰公司在达连的加勒比海岸登陆移民，建立“新喀里多尼亚”殖民地，希望控制两洋之间的贸易通道。疾病、补给不足、英格兰的敌视和西班牙的进攻使计划在1700年前彻底失败；苏格兰大量资本损失，推动其走向1707年与英格兰的合并。",
+    "ja": "1698年、スコットランド会社は両大洋を結ぶ交易路を押さえようと、ダリエンのカリブ海岸に入植者を上陸させてニュー・カレドニア植民地を築いた。疫病、補給不足、イングランドの敵意、スペインの攻撃によって事業は1700年までに崩壊し、スコットランド資本の多くが失われたことは1707年のイングランドとの合同を後押しした。"
+   }
+  },
+  {
+   "year": 1726,
+   "qid": "Q4927235",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "British blockade of Portobelo",
+    "ko": "영국의 포르토벨로 봉쇄",
+    "zh": "英国封锁波托韦洛",
+    "ja": "英国のポルトベロ封鎖"
+   },
+   "description": {
+    "en": "In 1726–1727 a British squadron under Admiral Francis Hosier blockaded Portobelo to prevent the sailing of Spanish treasure. The blockade achieved little militarily, while yellow fever and other diseases killed thousands of British sailors, including Hosier himself.",
+    "ko": "1726~1727년 프랜시스 호지어 제독이 이끄는 영국 함대가 에스파냐 보물선의 출항을 막기 위해 포르토벨로를 봉쇄했다. 봉쇄는 군사적으로 별 성과가 없었고, 황열병 등 질병으로 호지어 자신을 포함한 수천 명의 영국 수병이 목숨을 잃었다.",
+    "zh": "1726—1727年，弗朗西斯·霍齐尔海军上将率领的英国舰队封锁波托韦洛，阻止西班牙运宝船出航。封锁在军事上收效甚微，而黄热病等疾病却夺去了数千名英国水兵的生命，霍齐尔本人也在其中。",
+    "ja": "1726～1727年、フランシス・ホージャー提督率いる英艦隊がスペインの財宝船の出航を阻むためポルトベロを封鎖した。封鎖は軍事的にはほとんど成果がなく、黄熱病などでホージャー本人を含む数千人の英水兵が死亡した。"
+   }
+  },
+  {
+   "year": 1739,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Vernon captures Portobelo; end of the fairs",
+    "ko": "버넌의 포르토벨로 점령과 대시장의 종말",
+    "zh": "弗农攻占波托韦洛与集市的终结",
+    "ja": "ヴァーノンのポルトベロ占領と大市の終焉"
+   },
+   "description": {
+    "en": "In November 1739, early in the War of Jenkins' Ear, British Admiral Edward Vernon captured Portobelo and demolished its forts. Spain soon replaced the fleet-and-fair system with individual register ships sailing around Cape Horn, and the same year Panama was placed under the Viceroyalty of New Granada, beginning a long decline of the transit economy.",
+    "ko": "1739년 11월 '젱킨스의 귀 전쟁' 초기에 영국 제독 에드워드 버넌이 포르토벨로를 점령하고 요새들을 파괴했다. 에스파냐는 곧 선단·대시장 체제를 케이프혼을 도는 개별 허가선 체제로 바꾸었고, 같은 해 파나마는 누에바그라나다 부왕령에 편입되어 통과 경제는 오랜 쇠퇴에 들어갔다.",
+    "zh": "1739年11月，詹金斯之耳战争初期，英国海军上将爱德华·弗农攻占波托韦洛并拆毁其要塞。西班牙随即以绕行合恩角的单独注册船取代船队-集市制度；同年巴拿马被划归新格拉纳达总督辖区，过境经济由此长期衰落。",
+    "ja": "1739年11月、ジェンキンスの耳戦争の初期に英提督エドワード・ヴァーノンがポルトベロを占領し要塞を破壊した。スペインはまもなく船団・大市方式をホーン岬回りの個別登録船に切り替え、同年パナマはヌエバ・グラナダ副王領に編入されて、通過経済は長い衰退期に入った。"
+   }
+  },
+  {
+   "year": 1751,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Audiencia of Panama abolished",
+    "ko": "파나마 아우디엔시아 폐지",
+    "zh": "巴拿马检审庭被撤销",
+    "ja": "パナマ・アウディエンシアの廃止"
+   },
+   "description": {
+    "en": "In 1751 the Spanish Crown abolished the Audiencia of Panama for good, placing the isthmus fully under the authorities of New Granada in Bogotá. The decision reflected the region's diminished importance after the end of the Portobelo fairs and reinforced its subordinate status within the viceroyalty.",
+    "ko": "1751년 에스파냐 왕실은 파나마 아우디엔시아를 영구 폐지하고 지협을 보고타의 누에바그라나다 당국 아래에 완전히 두었다. 이 결정은 포르토벨로 대시장 종료 후 줄어든 지역의 중요성을 반영했으며, 부왕령 내에서 파나마의 종속적 지위를 굳혔다.",
+    "zh": "1751年，西班牙王室永久撤销巴拿马检审庭，将地峡完全置于波哥大新格拉纳达当局之下。这一决定反映出波托韦洛集市停办后该地区地位的下降，也巩固了其在总督辖区内的从属地位。",
+    "ja": "1751年、スペイン王室はパナマのアウディエンシアを最終的に廃止し、地峡をボゴタのヌエバ・グラナダ当局の完全な管轄下に置いた。ポルトベロの大市終了後の地域の重要性低下を反映した決定であり、副王領内での従属的地位を固めた。"
+   }
+  },
+  {
+   "year": 1821,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Cry of La Villa de Los Santos",
+    "ko": "라비야 데 로스산토스의 외침",
+    "zh": "洛斯桑托斯镇的呼声",
+    "ja": "ラ・ビリャ・デ・ロス・サントスの叫び"
+   },
+   "description": {
+    "en": "On 10 November 1821 the townspeople of La Villa de Los Santos on the Azuero peninsula proclaimed their break with Spain, a gesture remembered as the 'Cry of Independence'. It pushed the elites of Panama City toward the formal Independence Act of 28 November 1821; both dates are national holidays.",
+    "ko": "1821년 11월 10일 아수에로 반도의 라비야 데 로스산토스 주민들이 에스파냐와의 단절을 선포했는데, 이는 '독립의 외침'으로 기억된다. 이 사건은 파나마시티 엘리트들을 1821년 11월 28일의 공식 독립 선언으로 이끌었으며, 두 날짜 모두 국경일이다.",
+    "zh": "1821年11月10日，阿苏埃罗半岛洛斯桑托斯镇的居民宣布与西班牙决裂，这一举动被称为“独立的呼声”。它推动巴拿马城的精英于1821年11月28日正式发表独立法案，这两个日子都是国家节日。",
+    "ja": "1821年11月10日、アスエロ半島のラ・ビリャ・デ・ロス・サントスの住民がスペインとの決別を宣言し、「独立の叫び」として記憶されている。これがパナマ市のエリートを1821年11月28日の正式な独立宣言へと動かし、両日とも国民の祝日である。"
+   }
+  },
+  {
+   "year": 1821,
+   "qid": "Q5656901",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Independence from Spain and union with Gran Colombia",
+    "ko": "에스파냐로부터의 독립과 그란콜롬비아 합류",
+    "zh": "脱离西班牙独立并加入大哥伦比亚",
+    "ja": "スペインからの独立と大コロンビア加入"
+   },
+   "description": {
+    "en": "Panama declared independence from Spain without major fighting and voluntarily joined Simón Bolívar's Gran Colombia, later remaining a province of Colombia.",
+    "ko": "파나마는 큰 전투 없이 에스파냐로부터 독립을 선언하고 시몬 볼리바르의 그란콜롬비아에 자발적으로 합류했으며, 이후 콜롬비아의 한 주로 남았다.",
+    "zh": "巴拿马几乎未经战斗便宣布脱离西班牙独立,自愿加入西蒙·玻利瓦尔的大哥伦比亚,其后长期作为哥伦比亚的一个省。",
+    "ja": "パナマは大きな戦闘を経ずにスペインからの独立を宣言し、シモン・ボリバルの大コロンビアに自ら加わった。その後はコロンビアの一州であり続けた。"
+   }
+  },
+  {
+   "year": 1826,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Congress of Panama",
+    "ko": "파나마 회의",
+    "zh": "巴拿马大会",
+    "ja": "パナマ会議"
+   },
+   "description": {
+    "en": "In June–July 1826 Simón Bolívar convened the Congress of Panama, inviting the new Spanish American republics to form a league for mutual defence. Only a few states attended and the resulting treaty was ratified only by Gran Colombia, but the meeting is remembered as a forerunner of Pan-Americanism.",
+    "ko": "1826년 6~7월 시몬 볼리바르는 새로 독립한 에스파냐계 아메리카 공화국들을 초청해 상호 방위 동맹 결성을 논의하는 파나마 회의를 소집했다. 참석국은 소수에 그쳤고 조약은 그란콜롬비아만 비준했지만, 이 회의는 범아메리카주의의 선구로 기억된다.",
+    "zh": "1826年6月至7月，西蒙·玻利瓦尔召开巴拿马大会，邀请新独立的西属美洲各共和国组建共同防御联盟。与会国家寥寥，所签条约也只获大哥伦比亚批准，但这次会议被视为泛美主义的先声。",
+    "ja": "1826年6～7月、シモン・ボリバルはパナマ会議を招集し、新生スペイン系アメリカ諸共和国に相互防衛同盟の結成を呼びかけた。参加国は少なく、条約を批准したのも大コロンビアだけだったが、この会議は汎米主義の先駆けとして記憶されている。"
+   }
+  },
+  {
+   "year": 1840,
+   "qid": "Q8842943",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Free State of the Isthmus proclaimed",
+    "ko": "지협 자유국 선포",
+    "zh": "宣布成立地峡自由邦",
+    "ja": "地峡自由国の宣言"
+   },
+   "description": {
+    "en": "Amid civil war in New Granada, a popular assembly in Panama City in November 1840 proclaimed the Free State of the Isthmus, with Colonel Tomás Herrera as head of state. The state adopted a constitution and functioned for about a year, rejoining New Granada on 31 December 1841 after negotiations.",
+    "ko": "누에바그라나다 내전 와중인 1840년 11월 파나마시티의 민회가 '지협 자유국'을 선포하고 토마스 에레라 대령을 국가원수로 세웠다. 이 국가는 헌법을 채택하고 약 1년간 존속했으나, 협상 끝에 1841년 12월 31일 누에바그라나다에 복귀했다.",
+    "zh": "新格拉纳达内战期间，1840年11月巴拿马城的民众大会宣布成立“地峡自由邦”，由托马斯·埃雷拉上校任国家元首。该国制定了宪法并存续约一年，经谈判于1841年12月31日重新并入新格拉纳达。",
+    "ja": "ヌエバ・グラナダの内戦のさなか、1840年11月にパナマ市の住民集会が「地峡自由国」を宣言し、トマス・エレーラ大佐を国家元首とした。同国は憲法を制定して約1年存続したが、交渉の末1841年12月31日にヌエバ・グラナダへ復帰した。"
+   }
+  },
+  {
+   "year": 1846,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Mallarino–Bidlack Treaty",
+    "ko": "말라리노-비들랙 조약",
+    "zh": "《马拉里诺-比德拉克条约》",
+    "ja": "マラリーノ＝ビッドラック条約"
+   },
+   "description": {
+    "en": "In 1846 New Granada and the United States signed the Mallarino–Bidlack Treaty, under which the US guaranteed the neutrality of the isthmus and New Granada's sovereignty over it in return for free transit rights. The treaty later served as the legal basis for repeated US military landings in Panama.",
+    "ko": "1846년 누에바그라나다와 미국은 말라리노-비들랙 조약을 체결해, 미국이 자유 통행권을 얻는 대가로 지협의 중립과 누에바그라나다의 주권을 보장하기로 했다. 이 조약은 훗날 미군이 파나마에 거듭 상륙하는 법적 근거가 되었다.",
+    "zh": "1846年，新格拉纳达与美国签订《马拉里诺-比德拉克条约》，美国以获得自由过境权为交换，保证地峡的中立及新格拉纳达对其的主权。该条约后来成为美军多次在巴拿马登陆的法律依据。",
+    "ja": "1846年、ヌエバ・グラナダと米国はマラリーノ＝ビッドラック条約を結び、米国は自由通行権と引き換えに地峡の中立とヌエバ・グラナダの主権を保障した。この条約はのちに米軍が繰り返しパナマに上陸する法的根拠となった。"
+   }
+  },
+  {
+   "year": 1850,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Gold Rush traffic and railroad construction",
+    "ko": "골드러시 통행과 철도 건설",
+    "zh": "淘金热客流与铁路建设",
+    "ja": "ゴールドラッシュの通行と鉄道建設"
+   },
+   "description": {
+    "en": "After gold was found in California, tens of thousands of travellers crossed the isthmus by canoe and mule, transforming Panama City and the Caribbean coast. In 1850 the US-owned Panama Railroad Company began building a line through swamps and jungle, founding the port city of Colón; thousands of workers died of disease during construction.",
+    "ko": "캘리포니아에서 금이 발견된 뒤 수만 명의 여행자가 카누와 노새로 지협을 건너면서 파나마시티와 카리브해 연안이 크게 바뀌었다. 1850년 미국 소유의 파나마 철도회사가 늪지와 밀림을 관통하는 철도 건설을 시작해 항구 도시 콜론을 세웠고, 공사 중 수천 명의 노동자가 질병으로 숨졌다.",
+    "zh": "加利福尼亚发现黄金后，数以万计的旅客乘独木舟、骑骡子穿越地峡，巴拿马城和加勒比海岸面貌一新。1850年，美国人拥有的巴拿马铁路公司开始在沼泽和丛林中修建铁路，并建立港口城市科隆；施工期间数千名工人死于疾病。",
+    "ja": "カリフォルニアで金が発見されると、数万人の旅行者がカヌーとラバで地峡を渡り、パナマ市とカリブ海岸は一変した。1850年には米国資本のパナマ鉄道会社が沼地と密林を貫く鉄道の建設を始め、港湾都市コロンを築いたが、工事中に数千人の労働者が病死した。"
+   }
+  },
+  {
+   "year": 1855,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Completion of the Panama Railroad",
+    "ko": "파나마 철도 완공",
+    "zh": "巴拿马铁路建成",
+    "ja": "パナマ鉄道の完成"
+   },
+   "description": {
+    "en": "The world's first transcontinental railroad opened across the isthmus, carrying California Gold Rush traffic and confirming Panama's role as a global transit corridor.",
+    "ko": "세계 최초의 대륙 횡단 철도가 지협을 가로질러 개통되어 캘리포니아 골드러시의 인파와 물자를 실어 날랐고, 파나마는 세계적 통과 회랑으로서의 위상을 굳혔다.",
+    "zh": "世界上第一条跨大陆铁路在地峡通车,承载了加利福尼亚淘金热的客流与物资,巴拿马作为全球过境走廊的地位由此确立。",
+    "ja": "世界初の大陸横断鉄道が地峡を横断して開通し、カリフォルニア・ゴールドラッシュの人と物資を運んだ。パナマは世界的な通過回廊としての地位を固めた。"
+   }
+  },
+  {
+   "year": 1856,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "The Watermelon Riot",
+    "ko": "수박 폭동",
+    "zh": "西瓜骚乱",
+    "ja": "スイカ暴動"
+   },
+   "description": {
+    "en": "On 15 April 1856 a quarrel between a drunken American traveller and a Panamanian fruit seller over a slice of watermelon escalated into a riot in Panama City in which at least fifteen Americans and two Panamanians died. The United States demanded compensation and briefly landed troops, an early sign of the tensions around foreign transit.",
+    "ko": "1856년 4월 15일 술 취한 미국인 여행자와 파나마인 과일 상인 사이에 수박 한 조각을 두고 벌어진 다툼이 파나마시티의 폭동으로 번져 미국인 최소 15명과 파나마인 2명이 숨졌다. 미국은 배상을 요구하고 잠시 군대를 상륙시켰는데, 이는 외국인 통행을 둘러싼 긴장의 초기 징후였다.",
+    "zh": "1856年4月15日，一名醉酒的美国旅客与巴拿马水果小贩因一块西瓜发生争执，演变为巴拿马城的骚乱，至少15名美国人和2名巴拿马人死亡。美国要求赔偿并短暂派兵登陆，这是外国过境引发紧张关系的早期迹象。",
+    "ja": "1856年4月15日、酔った米国人旅行者とパナマ人の果物売りとのスイカ一切れをめぐる口論がパナマ市の暴動に発展し、少なくとも米国人15人とパナマ人2人が死亡した。米国は賠償を要求し一時軍を上陸させたが、外国人の通行をめぐる緊張の早い兆しであった。"
+   }
+  },
+  {
+   "year": 1863,
+   "qid": "Q1061488",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sovereign State of Panama",
+    "ko": "파나마 주권주 성립",
+    "zh": "巴拿马主权州成立",
+    "ja": "パナマ主権州の成立"
+   },
+   "description": {
+    "en": "The federalist Rionegro constitution of 1863 created the United States of Colombia, in which Panama became a sovereign state with its own constitution and president. The arrangement gave the isthmus broad autonomy but coincided with frequent coups and local revolts.",
+    "ko": "1863년 연방주의 리오네그로 헌법으로 콜롬비아 합중국이 수립되었고, 파나마는 독자적 헌법과 대통령을 가진 주권주가 되었다. 이 체제는 지협에 폭넓은 자치를 주었지만 잦은 정변과 지역 반란이 뒤따랐다.",
+    "zh": "1863年联邦主义的里奥内格罗宪法建立了哥伦比亚合众国，巴拿马成为拥有自己宪法和总统的主权州。这一安排赋予地峡广泛自治，但同时政变和地方叛乱频仍。",
+    "ja": "1863年の連邦主義的なリオネグロ憲法によりコロンビア合衆国が成立し、パナマは独自の憲法と大統領をもつ主権州となった。この体制は地峡に広い自治を与えたが、クーデターや地方反乱が頻発した。"
+   }
+  },
+  {
+   "year": 1881,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "French canal project begins and fails",
+    "ko": "프랑스의 운하 건설 착수와 좌절",
+    "zh": "法国开凿运河的尝试与失败",
+    "ja": "フランスによる運河建設の着手と挫折"
+   },
+   "description": {
+    "en": "Ferdinand de Lesseps's company began digging a sea-level canal, but tropical disease and engineering failures killed some 20,000 workers and bankrupted the project by 1889.",
+    "ko": "페르디낭 드 레셉스의 회사가 해수면 운하 굴착에 착수했으나 열대 질병과 공학적 난관으로 약 2만 명의 노동자가 목숨을 잃었고, 사업은 1889년 파산으로 끝났다.",
+    "zh": "费迪南·德·雷赛布的公司开始开凿海平面运河,但热带疾病和工程难题夺去了约两万名工人的生命,工程于1889年以破产告终。",
+    "ja": "フェルディナン・ド・レセップスの会社が海面式運河の掘削に着手したが、熱帯病と技術的難題で約2万人の労働者が命を落とし、事業は1889年に破産で終わった。"
+   }
+  },
+  {
+   "year": 1882,
+   "qid": "Q16639131",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "1882 Panama earthquake",
+    "ko": "1882년 파나마 지진",
+    "zh": "1882年巴拿马地震",
+    "ja": "1882年パナマ地震"
+   },
+   "description": {
+    "en": "On 7 September 1882 a powerful earthquake with its epicentre off the Caribbean coast struck the isthmus, the largest recorded in Panamanian history. It damaged buildings in Panama City and Colón and the Panama Railroad, and generated a tsunami along the coast of the San Blas region.",
+    "ko": "1882년 9월 7일 카리브해 연안 앞바다를 진앙으로 하는 강력한 지진이 지협을 강타했는데, 이는 파나마 역사상 기록된 가장 큰 지진이었다. 파나마시티와 콜론의 건물, 파나마 철도가 피해를 입었고 산블라스 지역 해안에는 쓰나미가 일었다.",
+    "zh": "1882年9月7日，一场震中位于加勒比海岸外海的强烈地震袭击地峡，是巴拿马历史上有记录的最大地震。巴拿马城、科隆的建筑和巴拿马铁路受损，圣布拉斯一带沿海还发生了海啸。",
+    "ja": "1882年9月7日、カリブ海沖を震源とする強い地震が地峡を襲った。パナマ史上記録された最大の地震で、パナマ市やコロンの建物、パナマ鉄道が被害を受け、サン・ブラス地方の沿岸には津波が押し寄せた。"
+   }
+  },
+  {
+   "year": 1885,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Prestán uprising and the burning of Colón",
+    "ko": "프레스탄 봉기와 콜론 화재",
+    "zh": "普雷斯坦起义与科隆大火",
+    "ja": "プレスタンの蜂起とコロン焼失"
+   },
+   "description": {
+    "en": "During a Colombian civil war in 1885, the Liberal rebel Pedro Prestán seized Colón; when US marines landed to protect the railroad, fighting broke out and most of the city burned. Prestán was blamed and hanged, though responsibility for the fire remains debated.",
+    "ko": "1885년 콜롬비아 내전 중 자유당 반군 지도자 페드로 프레스탄이 콜론을 장악했다. 미 해병대가 철도 보호를 위해 상륙하자 전투가 벌어졌고 도시 대부분이 불탔다. 프레스탄은 그 책임을 지고 교수형에 처해졌으나, 화재의 책임 소재는 지금도 논란이다.",
+    "zh": "1885年哥伦比亚内战期间，自由派叛军首领佩德罗·普雷斯坦占领科隆；美国海军陆战队为保护铁路登陆后爆发战斗，城市大部分被烧毁。普雷斯坦被归咎并处以绞刑，但火灾责任至今仍有争议。",
+    "ja": "1885年のコロンビア内戦中、自由党の反乱指導者ペドロ・プレスタンがコロンを掌握した。米海兵隊が鉄道防護のため上陸すると戦闘となり、町の大半が焼失した。プレスタンは責任を問われ絞首刑となったが、火災の責任は今も議論がある。"
+   }
+  },
+  {
+   "year": 1886,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Panama reduced to a department",
+    "ko": "파나마의 주(데파르타멘토) 격하",
+    "zh": "巴拿马降为省",
+    "ja": "パナマの県への格下げ"
+   },
+   "description": {
+    "en": "Colombia's centralist constitution of 1886, the product of the Regeneration movement, abolished the sovereign states and turned Panama into a department governed directly from Bogotá. Loss of autonomy deepened isthmian grievances against the distant capital.",
+    "ko": "재건 운동의 산물인 1886년 콜롬비아 중앙집권 헌법은 주권주를 폐지하고 파나마를 보고타가 직접 통치하는 주(데파르타멘토)로 바꾸었다. 자치권 상실은 먼 수도에 대한 지협 주민의 불만을 키웠다.",
+    "zh": "作为“复兴运动”产物的1886年哥伦比亚中央集权宪法废除了各主权州，把巴拿马变为由波哥大直接管辖的省。自治权的丧失加深了地峡居民对遥远首都的不满。",
+    "ja": "「再生運動」の産物である1886年のコロンビア中央集権憲法は主権州を廃止し、パナマをボゴタ直轄の県とした。自治の喪失は遠い首都に対する地峡住民の不満を深めた。"
+   }
+  },
+  {
+   "year": 1902,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Thousand Days' War ends on the USS Wisconsin",
+    "ko": "위스콘신호에서 끝난 천일 전쟁",
+    "zh": "千日战争在“威斯康星号”上结束",
+    "ja": "千日戦争、ウィスコンシン号上で終結"
+   },
+   "description": {
+    "en": "Colombia's Thousand Days' War between Liberals and Conservatives (1899–1902) was fought partly on the isthmus, where the Liberal guerrilla leader Victoriano Lorenzo, of indigenous origin, rallied rural fighters. The war ended in Panama with the Treaty of Wisconsin, signed in November 1902 aboard a US battleship in Panama Bay; Lorenzo was executed in 1903.",
+    "ko": "콜롬비아 자유당과 보수당 사이의 천일 전쟁(1899~1902)은 일부가 지협에서 벌어졌으며, 원주민 출신 자유당 게릴라 지도자 빅토리아노 로렌소가 농촌 전사들을 규합했다. 전쟁은 1902년 11월 파나마만의 미국 전함 위에서 체결된 위스콘신 조약으로 끝났고, 로렌소는 1903년 처형되었다.",
+    "zh": "哥伦比亚自由党与保守党之间的千日战争（1899—1902）部分在地峡进行，原住民出身的自由派游击领袖维多利亚诺·洛伦索在此聚集农村战士。1902年11月，双方在巴拿马湾一艘美国战舰上签订《威斯康星条约》，战争结束；洛伦索于1903年被处决。",
+    "ja": "コロンビアの自由党と保守党による千日戦争（1899～1902年）の一部は地峡で戦われ、先住民出身の自由党ゲリラ指導者ビクトリアーノ・ロレンソが農村の戦士を率いた。戦争は1902年11月、パナマ湾の米戦艦上で結ばれたウィスコンシン条約で終結し、ロレンソは1903年に処刑された。"
+   }
+  },
+  {
+   "year": 1903,
+   "qid": "Q498979",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Hay–Bunau-Varilla Treaty creates the Canal Zone",
+    "ko": "헤이-뷔노바리야 조약과 운하 지대",
+    "zh": "《海-布诺-瓦里亚条约》与运河区",
+    "ja": "ヘイ＝ビュノー・バリヤ条約と運河地帯"
+   },
+   "description": {
+    "en": "Signed in Washington on 18 November 1903 by Secretary of State John Hay and the Frenchman Philippe Bunau-Varilla, acting for Panama without consulting its leaders, the treaty granted the United States a zone ten miles wide 'in perpetuity' with rights 'as if it were sovereign'. Panama received a payment and annuity; the terms became a lasting national grievance.",
+    "ko": "1903년 11월 18일 워싱턴에서 존 헤이 국무장관과, 파나마 지도자들과 상의 없이 파나마를 대리한 프랑스인 필리프 뷔노바리야가 조약에 서명했다. 조약은 미국에 폭 10마일의 지대를 '영구히', '주권자인 것처럼' 행사할 권리와 함께 부여했고, 파나마는 일시금과 연금을 받았다. 이 조건은 오랜 국민적 불만이 되었다.",
+    "zh": "1903年11月18日，美国国务卿约翰·海与未经巴拿马领导人同意便代表巴拿马的法国人菲利普·布诺-瓦里亚在华盛顿签署条约，将一条宽十英里的地带“永久”授予美国，并赋予其“如同拥有主权”的权利。巴拿马获得一笔款项和年金；这些条款成为长期的民族积怨。",
+    "ja": "1903年11月18日、ワシントンでジョン・ヘイ国務長官と、パナマの指導者に諮らずにパナマを代表したフランス人フィリップ・ビュノー・バリヤが条約に調印した。条約は幅10マイルの地帯を「永久に」、「主権者であるかのような」権利とともに米国に与え、パナマは一時金と年金を得た。この条件は長く国民的な不満となった。"
+   }
+  },
+  {
+   "year": 1903,
+   "qid": "Q3089201",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Separation from Colombia and the canal treaty",
+    "ko": "콜롬비아로부터의 분리 독립과 운하 조약",
+    "zh": "脱离哥伦比亚独立与运河条约",
+    "ja": "コロンビアからの分離独立と運河条約"
+   },
+   "description": {
+    "en": "With US naval backing, Panama separated from Colombia; the Hay–Bunau-Varilla Treaty then granted the United States perpetual control of a canal zone, a source of lasting dispute.",
+    "ko": "미국 해군의 지원 속에 파나마는 콜롬비아에서 분리 독립했다. 곧이어 체결된 헤이-뷔노바리야 조약은 미국에 운하 지대의 영구적 통제권을 부여했고, 이는 오랜 갈등의 씨앗이 되었다.",
+    "zh": "在美国海军的支持下,巴拿马脱离哥伦比亚独立。随后签订的《海-布诺-瓦里亚条约》将运河区的永久控制权授予美国,成为日后长期争端的根源。",
+    "ja": "米海軍の後押しを受けてパナマはコロンビアから分離独立した。続くヘイ=ビュノー・バリヤ条約は米国に運河地帯の恒久的支配権を与え、長年の紛争の火種となった。"
+   }
+  },
+  {
+   "year": 1904,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "US canal construction and Gorgas's sanitation campaign",
+    "ko": "미국의 운하 공사와 고가스의 위생 캠페인",
+    "zh": "美国开工建设运河与戈加斯的卫生运动",
+    "ja": "米国の運河建設とゴーガスの衛生対策"
+   },
+   "description": {
+    "en": "In 1904 the United States bought the French company's assets and began construction. Army physician William C. Gorgas led a campaign against mosquitoes, draining standing water, fumigating and installing screens, which eliminated yellow fever from the isthmus by 1906 and sharply reduced malaria, making the project feasible.",
+    "ko": "1904년 미국은 프랑스 회사의 자산을 사들여 공사를 시작했다. 군의관 윌리엄 C. 고가스는 고인 물을 없애고 훈증 소독과 방충망 설치를 하는 모기 퇴치 캠페인을 이끌어 1906년까지 지협에서 황열병을 근절하고 말라리아를 크게 줄였으며, 이로써 공사가 가능해졌다.",
+    "zh": "1904年，美国购得法国公司的资产并开工建设。军医威廉·C·戈加斯领导灭蚊运动，排干积水、熏蒸消毒并安装纱窗，到1906年在地峡根除了黄热病，疟疾也大幅减少，工程由此才得以推进。",
+    "ja": "1904年、米国はフランス会社の資産を買い取り工事を開始した。軍医ウィリアム・C・ゴーガスは溜まり水の除去、燻蒸、網戸の設置などの蚊対策を進め、1906年までに地峡から黄熱病を一掃しマラリアも大幅に減らして、工事を可能にした。"
+   }
+  },
+  {
+   "year": 1914,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Opening of the Panama Canal",
+    "ko": "파나마 운하 개통",
+    "zh": "巴拿马运河通航",
+    "ja": "パナマ運河の開通"
+   },
+   "description": {
+    "en": "The Panama Canal opened, linking the Atlantic and Pacific and reshaping world shipping; its construction cost thousands of lives, many of them Caribbean laborers.",
+    "ko": "파나마 운하가 개통되어 대서양과 태평양을 잇고 세계 해운의 판도를 바꾸었다. 건설 과정에서 카리브해 출신 노동자를 포함해 수천 명이 목숨을 잃었다.",
+    "zh": "巴拿马运河正式通航,连接大西洋与太平洋,重塑了世界航运格局。工程夺去数千人的生命,其中许多是加勒比劳工。",
+    "ja": "パナマ運河が開通して大西洋と太平洋を結び、世界の海運を一変させた。建設ではカリブ海出身労働者を中心に数千人が命を落とした。"
+   }
+  },
+  {
+   "year": 1921,
+   "qid": "Q7795915",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Coto War and Colombian recognition",
+    "ko": "코토 전쟁과 콜롬비아의 승인",
+    "zh": "科托战争与哥伦比亚的承认",
+    "ja": "コト戦争とコロンビアの承認"
+   },
+   "description": {
+    "en": "In February 1921 a border dispute over the Coto region on the Pacific side flared into a brief war with Costa Rica; under US pressure Panama withdrew from the disputed area, and the border was settled only in 1941. The same year Colombia's ratification of the Thomson–Urrutia Treaty, in which the US paid compensation, led Colombia to recognize Panama's independence.",
+    "ko": "1921년 2월 태평양 쪽 코토 지역을 둘러싼 국경 분쟁이 코스타리카와의 짧은 전쟁으로 번졌다. 미국의 압력으로 파나마는 분쟁 지역에서 물러났고 국경은 1941년에야 확정되었다. 같은 해 미국이 배상금을 지급하는 톰슨-우루티아 조약이 비준되면서 콜롬비아는 파나마의 독립을 승인했다.",
+    "zh": "1921年2月，太平洋一侧科托地区的边界争端演变为与哥斯达黎加的短暂战争；在美国压力下巴拿马撤出争议地区，边界直到1941年才确定。同年，由美国支付补偿的《汤姆森-乌鲁蒂亚条约》获得批准，哥伦比亚随之承认巴拿马独立。",
+    "ja": "1921年2月、太平洋側のコト地方をめぐる国境紛争がコスタリカとの短い戦争に発展した。米国の圧力でパナマは係争地から撤退し、国境は1941年にようやく確定した。同年、米国が補償金を支払うトムソン＝ウルティア条約が批准され、コロンビアはパナマの独立を承認した。"
+   }
+  },
+  {
+   "year": 1925,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Guna Revolution",
+    "ko": "구나 혁명",
+    "zh": "古纳革命",
+    "ja": "グナ革命"
+   },
+   "description": {
+    "en": "In February 1925 Guna (Kuna) people of the San Blas islands, led by Nele Kantule and Simral Colman, rose against Panamanian police who were forcibly suppressing their customs, killing a number of officers. US mediation ended the fighting, and the Guna later won recognition of their autonomous territory, now the comarca of Guna Yala.",
+    "ko": "1925년 2월 산블라스 제도의 구나(쿠나)족이 넬레 칸툴레와 심랄 콜만의 지도 아래, 자신들의 관습을 강제로 억압하던 파나마 경찰에 맞서 봉기해 다수의 경관을 살해했다. 미국의 중재로 전투가 끝났고, 구나족은 이후 오늘날 구나 얄라 자치구(코마르카)로 이어지는 자치 영역을 인정받았다.",
+    "zh": "1925年2月，圣布拉斯群岛的古纳（库纳）人在内莱·坎图莱和西姆拉尔·科尔曼领导下起义，反抗强行压制其习俗的巴拿马警察，杀死了一批警员。经美国调停战斗结束，古纳人后来获得自治领地的承认，即今天的古纳亚拉特区。",
+    "ja": "1925年2月、サン・ブラス諸島のグナ（クナ）の人々がネレ・カントゥレとシムラル・コルマンの指導のもと、慣習を力ずくで抑圧していたパナマ警察に対して蜂起し、多数の警官を殺害した。米国の仲介で戦闘は終わり、グナはのちに現在のグナ・ヤラ自治区（コマルカ）につながる自治領域を認められた。"
+   }
+  },
+  {
+   "year": 1931,
+   "qid": "Q5882529",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Acción Comunal coup",
+    "ko": "악시온 코무날 쿠데타",
+    "zh": "“社区行动”政变",
+    "ja": "アクシオン・コムナルのクーデター"
+   },
+   "description": {
+    "en": "On 2 January 1931 members of the nationalist movement Acción Comunal, including the brothers Harmodio and Arnulfo Arias, seized the presidential palace and forced President Florencio Harmodio Arosemena to resign. It was the first successful coup in the republic's history and launched Arnulfo Arias's political career.",
+    "ko": "1931년 1월 2일 아르모디오와 아르눌포 아리아스 형제 등 민족주의 운동 '악시온 코무날' 회원들이 대통령궁을 장악하고 플로렌시오 아르모디오 아로세메나 대통령을 사임시켰다. 공화국 역사상 첫 성공한 쿠데타로, 아르눌포 아리아스의 정치 경력이 여기서 시작되었다.",
+    "zh": "1931年1月2日，包括阿莫迪奥与阿努尔福·阿里亚斯兄弟在内的民族主义运动“社区行动”成员占领总统府，迫使弗洛伦西奥·阿莫迪奥·阿罗塞梅纳总统辞职。这是共和国历史上第一次成功的政变，也开启了阿努尔福·阿里亚斯的政治生涯。",
+    "ja": "1931年1月2日、アルモディオとアルヌルフォのアリアス兄弟を含む民族主義運動「アクシオン・コムナル」のメンバーが大統領府を占拠し、フロレンシオ・アルモディオ・アロセメナ大統領を辞任させた。共和国史上初めて成功したクーデターで、アルヌルフォ・アリアスの政治経歴の出発点となった。"
+   }
+  },
+  {
+   "year": 1936,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hull–Alfaro Treaty",
+    "ko": "헐-알파로 조약",
+    "zh": "《赫尔-阿尔法罗条约》",
+    "ja": "ハル＝アルファロ条約"
+   },
+   "description": {
+    "en": "Signed in 1936 and ratified by the US Senate in 1939, the Hull–Alfaro Treaty ended Panama's status as a US protectorate by abolishing the US right to intervene in Panamanian affairs and to seize land outside the Zone, and raised the canal annuity. It reflected Franklin Roosevelt's Good Neighbor Policy.",
+    "ko": "1936년 서명되어 1939년 미국 상원이 비준한 헐-알파로 조약은 미국이 파나마 내정에 개입하고 운하 지대 밖의 토지를 수용할 권리를 폐지해 파나마의 보호국 지위를 끝냈으며, 운하 연금도 인상했다. 이는 프랭클린 루스벨트의 선린 외교 정책을 반영한 것이었다.",
+    "zh": "《赫尔-阿尔法罗条约》于1936年签署、1939年获美国参议院批准，废除了美国干预巴拿马内政和征用运河区以外土地的权利，结束了巴拿马的“保护国”地位，并提高了运河年金。这体现了富兰克林·罗斯福的睦邻政策。",
+    "ja": "1936年に調印され1939年に米上院が批准したハル＝アルファロ条約は、米国によるパナマ内政への干渉権と運河地帯外の土地収用権を廃止して保護国状態を終わらせ、運河の年金も引き上げた。フランクリン・ルーズベルトの善隣外交を反映したものである。"
+   }
+  },
+  {
+   "year": 1939,
+   "qid": "Q17013362",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Panama Conference and the neutrality zone",
+    "ko": "파나마 회의와 중립 수역",
+    "zh": "巴拿马会议与中立区",
+    "ja": "パナマ会議と中立水域"
+   },
+   "description": {
+    "en": "Weeks after the outbreak of the Second World War, foreign ministers of the American republics met in Panama City in September–October 1939. Their Declaration of Panama proclaimed a security zone hundreds of miles wide around the Americas south of Canada, within which belligerents were asked to refrain from hostilities.",
+    "ko": "제2차 세계대전 발발 몇 주 뒤인 1939년 9~10월, 아메리카 공화국들의 외무장관들이 파나마시티에 모였다. 이들의 '파나마 선언'은 캐나다 이남 아메리카 대륙 주변에 폭 수백 마일의 안전 수역을 선포하고, 교전국들에게 그 안에서 적대 행위를 삼가도록 요청했다.",
+    "zh": "第二次世界大战爆发数周后，美洲各共和国外长于1939年9月至10月在巴拿马城集会。他们发表的《巴拿马宣言》宣布在加拿大以南的美洲周围设立宽达数百英里的安全区，要求交战国在区内避免敌对行动。",
+    "ja": "第二次世界大戦勃発の数週間後、1939年9～10月に米州諸共和国の外相がパナマ市に集まった。「パナマ宣言」はカナダ以南の南北アメリカ周囲に幅数百マイルの安全水域を設定し、交戦国にその内側での戦闘行為を控えるよう求めた。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Arnulfo Arias's constitution and overthrow",
+    "ko": "아르눌포 아리아스의 헌법과 실각",
+    "zh": "阿努尔福·阿里亚斯的宪法与下台",
+    "ja": "アルヌルフォ・アリアスの憲法と失脚"
+   },
+   "description": {
+    "en": "Elected in 1940, Arnulfo Arias pushed through a new constitution in 1941 that extended presidential terms, gave women the vote in some elections and contained nationalist and racially discriminatory provisions against certain immigrants. Seen as sympathetic to the Axis and resistant to US base demands, he was deposed in October 1941 while abroad.",
+    "ko": "1940년 당선된 아르눌포 아리아스는 1941년 대통령 임기를 연장하고 일부 선거에서 여성에게 투표권을 부여하는 한편, 특정 이민자를 차별하는 민족주의적·인종차별적 조항을 담은 새 헌법을 밀어붙였다. 추축국에 우호적이며 미국의 기지 요구에 저항한다고 여겨진 그는 1941년 10월 해외 체류 중 축출되었다.",
+    "zh": "1940年当选的阿努尔福·阿里亚斯于1941年强行通过新宪法，延长总统任期，赋予妇女部分选举的投票权，同时包含针对某些移民的民族主义和种族歧视条款。由于被视为同情轴心国并抵制美国的基地要求，他于1941年10月出国期间被推翻。",
+    "ja": "1940年に当選したアルヌルフォ・アリアスは1941年に新憲法を成立させ、大統領任期を延長し一部の選挙で女性に投票権を与える一方、特定の移民を差別する民族主義的・人種差別的条項を盛り込んだ。枢軸国寄りで米国の基地要求に抵抗するとみなされた彼は、1941年10月に外遊中に追放された。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Rejection of the Filós–Hines bases agreement",
+    "ko": "필로스-하인스 기지 협정 거부",
+    "zh": "否决《菲洛斯-海因斯基地协定》",
+    "ja": "フィロス＝ハインズ基地協定の否決"
+   },
+   "description": {
+    "en": "In December 1947, after mass protests led by students and nationalist groups, Panama's National Assembly unanimously rejected the Filós–Hines agreement that would have allowed the United States to keep military bases outside the Canal Zone after the war. The US withdrew from the sites, a landmark victory for Panamanian sovereignty movements.",
+    "ko": "1947년 12월 학생과 민족주의 단체가 주도한 대규모 시위 끝에, 파나마 국민의회는 전후에도 미국이 운하 지대 밖에 군사기지를 유지하도록 허용하는 필로스-하인스 협정을 만장일치로 거부했다. 미국은 해당 기지에서 철수했으며, 이는 파나마 주권 운동의 이정표적 승리였다.",
+    "zh": "1947年12月，在学生和民族主义团体领导的大规模抗议之后，巴拿马国民议会一致否决了允许美国战后继续在运河区以外保留军事基地的《菲洛斯-海因斯协定》。美国随即撤出这些基地，这是巴拿马主权运动的一次里程碑式胜利。",
+    "ja": "1947年12月、学生や民族主義団体が主導した大規模な抗議の末、パナマ国民議会は、戦後も米国が運河地帯外に軍事基地を保持することを認めるフィロス＝ハインズ協定を全会一致で否決した。米国はこれらの基地から撤退し、パナマの主権運動にとって画期的な勝利となった。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Colón Free Zone created",
+    "ko": "콜론 자유무역지대 설치",
+    "zh": "设立科隆自由贸易区",
+    "ja": "コロン・フリーゾーンの創設"
+   },
+   "description": {
+    "en": "A law of 1948 established the Colón Free Zone at the Caribbean entrance of the canal, allowing goods to be imported, stored and re-exported free of customs duties. It grew into one of the largest free-trade zones in the world and a pillar of Panama's service economy.",
+    "ko": "1948년 제정된 법률로 운하 카리브해 입구에 콜론 자유무역지대가 설치되어 상품을 관세 없이 수입·보관·재수출할 수 있게 되었다. 이곳은 세계 최대급 자유무역지대로 성장해 파나마 서비스 경제의 기둥이 되었다.",
+    "zh": "1948年的一项法律在运河加勒比海入口设立科隆自由贸易区，允许货物免关税进口、储存和转口。它发展成为世界上最大的自由贸易区之一，成为巴拿马服务型经济的支柱。",
+    "ja": "1948年の法律により運河のカリブ海側入口にコロン・フリーゾーンが設けられ、商品を関税なしで輸入・保管・再輸出できるようになった。世界有数の自由貿易地域へと成長し、パナマのサービス経済の柱となった。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Remón and the 1955 treaty",
+    "ko": "레몬 암살과 1955년 조약",
+    "zh": "雷蒙遇刺与1955年条约",
+    "ja": "レモン暗殺と1955年条約"
+   },
+   "description": {
+    "en": "President José Antonio Remón Cantera, a former police commander, was assassinated at a Panama City racetrack on 2 January 1955. Days later the Remón–Eisenhower Treaty he had negotiated was signed, raising the canal annuity and improving conditions for Panamanian workers in the Zone, though it left sovereignty untouched.",
+    "ko": "경찰 사령관 출신인 호세 안토니오 레몬 칸테라 대통령이 1955년 1월 2일 파나마시티의 경마장에서 암살되었다. 며칠 뒤 그가 협상한 레몬-아이젠하워 조약이 서명되어 운하 연금이 인상되고 운하 지대 내 파나마인 노동자의 처우가 개선되었으나, 주권 문제는 그대로 남았다.",
+    "zh": "前警察司令何塞·安东尼奥·雷蒙·坎特拉总统于1955年1月2日在巴拿马城赛马场遇刺身亡。几天后他谈判达成的《雷蒙-艾森豪威尔条约》签署，提高了运河年金并改善了运河区巴拿马工人的待遇，但主权问题未获触及。",
+    "ja": "警察司令官出身のホセ・アントニオ・レモン・カンテラ大統領が1955年1月2日、パナマ市の競馬場で暗殺された。数日後、彼が交渉したレモン＝アイゼンハワー条約が調印され、運河年金の引き上げと運河地帯のパナマ人労働者の待遇改善が実現したが、主権問題は手つかずだった。"
+   }
+  },
+  {
+   "year": 1959,
+   "qid": "Q114766453",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Cuban expedition and the flag marches",
+    "ko": "쿠바 원정대 상륙과 국기 행진",
+    "zh": "古巴远征与国旗游行",
+    "ja": "キューバ遠征隊と国旗行進"
+   },
+   "description": {
+    "en": "In April 1959 a small armed expedition of Cubans and Panamanians, launched from Cuba shortly after Fidel Castro's revolution, landed at Nombre de Dios but surrendered within days. Later that year Panamanian students staged marches to plant the national flag inside the Canal Zone, leading to clashes that foreshadowed the 1964 crisis.",
+    "ko": "1959년 4월 피델 카스트로의 혁명 직후 쿠바에서 출발한 쿠바인·파나마인 소규모 무장 원정대가 놈브레 데 디오스에 상륙했으나 며칠 만에 항복했다. 같은 해 말 파나마 학생들은 운하 지대 안에 국기를 꽂기 위한 행진을 벌였고, 이로 인한 충돌은 1964년 위기의 전조가 되었다.",
+    "zh": "1959年4月，菲德尔·卡斯特罗革命后不久，一支从古巴出发、由古巴人和巴拿马人组成的小规模武装远征队在农布雷德迪奥斯登陆，但数日内即投降。同年晚些时候，巴拿马学生发起游行，要在运河区内插上国旗，由此引发的冲突预示了1964年的危机。",
+    "ja": "1959年4月、カストロ革命直後にキューバから出発したキューバ人とパナマ人の小規模な武装遠征隊がノンブレ・デ・ディオスに上陸したが、数日で降伏した。同年後半にはパナマの学生が運河地帯内に国旗を立てる行進を行い、それに伴う衝突は1964年の危機の前触れとなった。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Martyrs' Day riots over the Canal Zone",
+    "ko": "'순교자의 날' 운하 지대 소요",
+    "zh": "运河区“烈士日”骚乱",
+    "ja": "運河地帯をめぐる「殉難者の日」暴動"
+   },
+   "description": {
+    "en": "Clashes over flying the Panamanian flag in the US-controlled Canal Zone left more than 20 Panamanians dead, galvanizing national demands for sovereignty over the canal.",
+    "ko": "미국이 관할하던 운하 지대에서 파나마 국기 게양을 둘러싸고 벌어진 충돌로 파나마인 20여 명이 사망했고, 운하 주권 회복을 요구하는 국민적 열망이 거세졌다.",
+    "zh": "在美国控制的运河区,围绕悬挂巴拿马国旗爆发冲突,二十余名巴拿马人丧生,举国上下收回运河主权的呼声由此高涨。",
+    "ja": "米国管理下の運河地帯でパナマ国旗掲揚をめぐる衝突が起き、20人余りのパナマ人が死亡した。運河主権の回復を求める国民的要求が一気に高まった。"
+   }
+  },
+  {
+   "year": 1968,
+   "qid": "Q5882533",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "National Guard coup",
+    "ko": "국가방위대 쿠데타",
+    "zh": "国民警卫队政变",
+    "ja": "国家警備隊のクーデター"
+   },
+   "description": {
+    "en": "On 11 October 1968, only eleven days after Arnulfo Arias took office for the third time, the National Guard overthrew him. Lieutenant Colonel Omar Torrijos soon emerged as the strongman of a military regime that suspended party politics and would rule, directly or indirectly, until 1989.",
+    "ko": "1968년 10월 11일 아르눌포 아리아스가 세 번째로 취임한 지 불과 11일 만에 국가방위대가 그를 축출했다. 곧 오마르 토리호스 중령이 군사 정권의 실력자로 떠올랐으며, 이 정권은 정당 정치를 중단시키고 1989년까지 직간접적으로 통치했다.",
+    "zh": "1968年10月11日，阿努尔福·阿里亚斯第三次就任总统仅11天，国民警卫队便将其推翻。奥马尔·托里霍斯中校很快成为军政权的强人，该政权暂停政党政治，直接或间接统治至1989年。",
+    "ja": "1968年10月11日、アルヌルフォ・アリアスが3度目の大統領就任からわずか11日で国家警備隊に打倒された。まもなくオマル・トリホス中佐が軍事政権の実力者として台頭し、政党政治を停止したこの政権は1989年まで直接・間接に支配を続けた。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "1972 constitution and Torrijos's reforms",
+    "ko": "1972년 헌법과 토리호스의 개혁",
+    "zh": "1972年宪法与托里霍斯的改革",
+    "ja": "1972年憲法とトリホスの改革"
+   },
+   "description": {
+    "en": "A new constitution in 1972 formally recognized General Torrijos as 'Maximum Leader of the Panamanian Revolution' and created an assembly of community representatives. His government pursued land reform, labour legislation, rural schools and health posts, and banking-secrecy laws that helped build Panama into an international financial centre.",
+    "ko": "1972년 새 헌법은 토리호스 장군을 '파나마 혁명의 최고 지도자'로 공식 인정하고 지역 대표들로 구성된 의회를 만들었다. 그의 정부는 토지 개혁, 노동 입법, 농촌 학교와 보건소 확충을 추진했고, 은행 비밀 보장법으로 파나마를 국제 금융 중심지로 키우는 데 기여했다.",
+    "zh": "1972年新宪法正式承认托里霍斯将军为“巴拿马革命最高领袖”，并设立由社区代表组成的议会。他的政府推行土地改革、劳动立法，兴建农村学校和卫生站，并通过银行保密法，助推巴拿马成为国际金融中心。",
+    "ja": "1972年の新憲法はトリホス将軍を「パナマ革命の最高指導者」と公式に認め、地域代表からなる議会を設けた。彼の政府は農地改革や労働立法、農村の学校・保健所の整備を進め、銀行秘密法によってパナマを国際金融センターへと育てる一助となった。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": "Q277343",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Torrijos–Carter Treaties",
+    "ko": "토리호스-카터 조약",
+    "zh": "《托里霍斯-卡特条约》",
+    "ja": "トリホス=カーター条約"
+   },
+   "description": {
+    "en": "General Omar Torrijos and President Jimmy Carter signed treaties providing for the transfer of the canal to Panama by the end of 1999 and guaranteeing its permanent neutrality.",
+    "ko": "오마르 토리호스 장군과 지미 카터 미국 대통령이 조약에 서명하여 1999년 말까지 운하를 파나마에 반환하고 그 영구 중립을 보장하기로 합의했다.",
+    "zh": "奥马尔·托里霍斯将军与美国总统吉米·卡特签署条约,规定在1999年底前将运河移交巴拿马,并保证运河的永久中立。",
+    "ja": "オマル・トリホス将軍とカーター米大統領が条約に調印し、1999年末までの運河返還とその永世中立の保障が定められた。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Canal Zone abolished",
+    "ko": "운하 지대 폐지",
+    "zh": "运河区撤销",
+    "ja": "運河地帯の廃止"
+   },
+   "description": {
+    "en": "On 1 October 1979, when the Torrijos–Carter Treaties entered into force, the Panama Canal Zone ceased to exist and most of its land returned to Panamanian jurisdiction. The canal itself passed to a binational Panama Canal Commission for a twenty-year transition, while US bases remained until 1999.",
+    "ko": "1979년 10월 1일 토리호스-카터 조약이 발효되면서 파나마 운하 지대는 소멸했고 대부분의 토지가 파나마 관할로 돌아왔다. 운하 자체는 20년 과도기 동안 양국 공동의 파나마 운하 위원회로 넘어갔고, 미군 기지는 1999년까지 남았다.",
+    "zh": "1979年10月1日，《托里霍斯-卡特条约》生效，巴拿马运河区不复存在，其大部分土地重归巴拿马管辖。运河本身移交两国共管的巴拿马运河委员会，进入二十年过渡期，美军基地则保留至1999年。",
+    "ja": "1979年10月1日、トリホス＝カーター条約の発効によりパナマ運河地帯は消滅し、その土地の大半がパナマの管轄に戻った。運河そのものは20年の移行期間、両国共同のパナマ運河委員会に移され、米軍基地は1999年まで残った。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": "Q4579944",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Death of Omar Torrijos",
+    "ko": "오마르 토리호스의 죽음",
+    "zh": "奥马尔·托里霍斯之死",
+    "ja": "オマル・トリホスの死"
+   },
+   "description": {
+    "en": "On 31 July 1981 General Omar Torrijos was killed when a Panamanian Air Force de Havilland Canada Twin Otter carrying him crashed in bad weather in the mountains of Coclé. His death opened a power struggle within the National Guard that Manuel Noriega eventually won; speculation about sabotage has never been substantiated.",
+    "ko": "1981년 7월 31일 오마르 토리호스 장군을 태운 파나마 공군의 드 하빌랜드 캐나다 트윈 오터기가 악천후 속에 코클레의 산악 지대에 추락해 그가 사망했다. 그의 죽음은 국가방위대 내부의 권력 투쟁을 불렀고 결국 마누엘 노리에가가 승리했다. 사보타주설은 입증된 적이 없다.",
+    "zh": "1981年7月31日，搭载奥马尔·托里霍斯将军的巴拿马空军德哈维兰加拿大“双水獭”飞机在恶劣天气中坠毁于科克莱山区，托里霍斯遇难。他的死引发国民警卫队内部的权力斗争，最终曼努埃尔·诺列加胜出；有关蓄意破坏的猜测从未得到证实。",
+    "ja": "1981年7月31日、オマル・トリホス将軍を乗せたパナマ空軍のデ・ハビランド・カナダ製ツイン・オッター機が悪天候のなかコクレの山中に墜落し、彼は死亡した。その死は国家警備隊内部の権力闘争を招き、最終的にマヌエル・ノリエガが勝ち残った。破壊工作説は立証されていない。"
+   }
+  },
+  {
+   "year": 1983,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Noriega takes command of the armed forces",
+    "ko": "노리에가의 군 장악",
+    "zh": "诺列加掌控军队",
+    "ja": "ノリエガの軍掌握"
+   },
+   "description": {
+    "en": "In August 1983 Manuel Noriega, the former head of military intelligence, became commander of the National Guard, which he soon reorganized as the Panama Defense Forces. As de facto ruler he installed and removed civilian presidents while maintaining ties with US intelligence and with drug traffickers.",
+    "ko": "1983년 8월 군 정보기관 수장 출신 마누엘 노리에가가 국가방위대 사령관이 되었고, 곧 이를 파나마 방위군으로 개편했다. 그는 실질적 통치자로서 문민 대통령을 세우고 갈아치웠으며, 미국 정보기관 및 마약 밀매 조직과 동시에 관계를 유지했다.",
+    "zh": "1983年8月，前军事情报主管曼努埃尔·诺列加出任国民警卫队司令，随即将其改组为巴拿马国防军。作为实际统治者，他随意扶植和撤换文人总统，同时与美国情报机构和毒品贩子保持联系。",
+    "ja": "1983年8月、軍情報部門の元責任者マヌエル・ノリエガが国家警備隊司令官となり、まもなくパナマ国防軍に再編した。事実上の支配者として文民大統領を据えては替え、米情報機関とも麻薬密売組織ともつながりを保った。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Murder of Hugo Spadafora",
+    "ko": "우고 스파다포라 살해",
+    "zh": "乌戈·斯帕达福拉遇害",
+    "ja": "ウーゴ・スパダフォラ殺害"
+   },
+   "description": {
+    "en": "In September 1985 the decapitated body of Hugo Spadafora, a physician, former government official and outspoken critic who had accused Noriega of drug trafficking, was found near the Costa Rican border. The killing, widely attributed to the military, provoked national outrage and the resignation of President Nicolás Ardito Barletta.",
+    "ko": "1985년 9월 노리에가의 마약 밀매를 고발했던 의사이자 전직 정부 관리, 거침없는 비판자 우고 스파다포라의 참수된 시신이 코스타리카 국경 부근에서 발견되었다. 군부의 소행으로 널리 여겨진 이 살인은 전국적 분노를 일으켰고 니콜라스 아르디토 바를레타 대통령의 사임으로 이어졌다.",
+    "zh": "1985年9月，曾指控诺列加贩毒的医生、前政府官员、直言不讳的批评者乌戈·斯帕达福拉的无头尸体在哥斯达黎加边境附近被发现。这起普遍被认为是军方所为的谋杀激起全国愤慨，并导致尼古拉斯·阿迪托·巴尔莱塔总统辞职。",
+    "ja": "1985年9月、ノリエガの麻薬密売を告発していた医師で元政府高官、率直な批判者ウーゴ・スパダフォラの首のない遺体がコスタリカ国境付近で見つかった。軍の犯行と広く見なされたこの殺害は全国的な憤激を呼び、ニコラス・アルディト・バルレタ大統領の辞任につながった。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Civic Crusade against Noriega",
+    "ko": "노리에가 반대 시민 십자군",
+    "zh": "反诺列加“公民十字军”",
+    "ja": "反ノリエガの市民十字軍"
+   },
+   "description": {
+    "en": "In June 1987 the former deputy commander Roberto Díaz Herrera publicly accused Noriega of electoral fraud and murder, triggering mass middle-class protests organized by the National Civic Crusade. The regime responded with repression; in 1988 US federal courts indicted Noriega for drug trafficking and Washington imposed economic sanctions.",
+    "ko": "1987년 6월 전 부사령관 로베르토 디아스 에레라가 노리에가를 부정선거와 살인 혐의로 공개 고발하자, '국민 시민 십자군'이 조직한 중산층 중심의 대규모 시위가 일어났다. 정권은 탄압으로 대응했고, 1988년 미국 연방 법원은 노리에가를 마약 밀매 혐의로 기소했으며 미국은 경제 제재를 가했다.",
+    "zh": "1987年6月，前副司令罗伯托·迪亚斯·埃雷拉公开指控诺列加选举舞弊和谋杀，引发由“全国公民十字军”组织、以中产阶级为主的大规模抗议。政权以镇压回应；1988年美国联邦法院以贩毒罪起诉诺列加，华盛顿实施经济制裁。",
+    "ja": "1987年6月、元副司令官ロベルト・ディアス・エレーラがノリエガを選挙不正と殺人で公然と告発し、「国民市民十字軍」が組織した中間層中心の大規模抗議が起きた。政権は弾圧で応じ、1988年には米連邦裁判所がノリエガを麻薬密売で起訴し、米国は経済制裁を科した。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Annulled elections of May 1989",
+    "ko": "1989년 5월 선거 무효화",
+    "zh": "1989年5月选举被宣布无效",
+    "ja": "1989年5月選挙の無効化"
+   },
+   "description": {
+    "en": "In the May 1989 elections the opposition candidate Guillermo Endara won clearly according to independent counts, but the Noriega regime annulled the results. Paramilitary 'Dignity Battalions' beat opposition leaders in the streets, including vice-presidential candidate Guillermo Ford, deepening the crisis that led to the US invasion in December.",
+    "ko": "1989년 5월 선거에서 독립적인 집계에 따르면 야당 후보 기예르모 엔다라가 확실히 승리했으나, 노리에가 정권은 결과를 무효화했다. 준군사 조직 '존엄 대대'는 부통령 후보 기예르모 포드 등 야당 지도자들을 거리에서 폭행했고, 위기는 12월 미국의 침공으로 이어졌다.",
+    "zh": "在1989年5月的选举中，根据独立计票，反对派候选人吉列尔莫·恩达拉明显获胜，但诺列加政权宣布选举结果无效。准军事组织“尊严营”在街头殴打反对派领袖，包括副总统候选人吉列尔莫·福特，危机加深，最终导致12月美国入侵。",
+    "ja": "1989年5月の選挙では、独立した集計によれば野党候補ギジェルモ・エンダラが明確に勝利したが、ノリエガ政権は結果を無効とした。準軍事組織「尊厳大隊」は副大統領候補ギジェルモ・フォードら野党指導者を路上で殴打し、危機は12月の米軍侵攻へとつながった。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": "Q459282",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "US invasion and the fall of Noriega",
+    "ko": "미국의 침공과 노리에가 정권 붕괴",
+    "zh": "美国入侵与诺列加政权垮台",
+    "ja": "米軍侵攻とノリエガ政権の崩壊"
+   },
+   "description": {
+    "en": "US forces invaded Panama and removed military ruler Manuel Noriega, who was later convicted of drug trafficking; the operation caused hundreds of deaths and restored civilian government.",
+    "ko": "미군이 파나마를 침공해 군사 통치자 마누엘 노리에가를 축출했다. 노리에가는 이후 마약 밀매 혐의로 유죄 판결을 받았으며, 이 작전으로 수백 명이 희생된 끝에 민간 정부가 복원되었다.",
+    "zh": "美军入侵巴拿马,推翻军事统治者曼努埃尔·诺列加,后者其后因贩毒罪被定罪。行动造成数百人死亡,文人政府随之恢复。",
+    "ja": "米軍がパナマに侵攻し、軍事支配者マヌエル・ノリエガを排除した。ノリエガは後に麻薬密売で有罪となった。作戦では数百人が犠牲となり、文民政権が復活した。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Panama abolishes its army",
+    "ko": "파나마의 군대 폐지",
+    "zh": "巴拿马废除军队",
+    "ja": "パナマの軍隊廃止"
+   },
+   "description": {
+    "en": "After the invasion the Panama Defense Forces were dissolved and replaced by civilian police services. In 1994 a constitutional reform formally prohibited a standing army, while the same year's elections brought a peaceful transfer of power to Ernesto Pérez Balladares of the Democratic Revolutionary Party, the party founded by Torrijos.",
+    "ko": "침공 이후 파나마 방위군은 해체되고 민간 경찰 조직으로 대체되었다. 1994년 헌법 개정으로 상비군 보유가 공식 금지되었고, 같은 해 선거에서는 토리호스가 창당한 민주혁명당의 에르네스토 페레스 바야다레스에게 평화적으로 정권이 이양되었다.",
+    "zh": "入侵之后，巴拿马国防军被解散，由文职警察机构取代。1994年宪法修正案正式禁止设立常备军；同年选举中，政权和平移交给托里霍斯创建的民主革命党的埃内斯托·佩雷斯·巴利亚达雷斯。",
+    "ja": "侵攻後、パナマ国防軍は解体され文民の警察組織に置き換えられた。1994年の憲法改正で常備軍の保持が正式に禁止され、同年の選挙ではトリホスが創設した民主革命党のエルネスト・ペレス・バジャダレスへ平和的に政権が移った。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": "Q4708406",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Bombing of Alas Chiricanas Flight 901",
+    "ko": "알라스 치리카나스 901편 폭파",
+    "zh": "奇里基之翼航空901号班机爆炸",
+    "ja": "アラス・チリカナス901便爆破"
+   },
+   "description": {
+    "en": "On 19 July 1994 a commuter plane of Alas Chiricanas exploded shortly after take-off from Colón, killing all 21 people aboard, many of them Jewish businessmen. The blast is believed to have been caused by a bomb, and investigators have suspected links to the attack on the AMIA centre in Buenos Aires the day before, but the case remains unsolved.",
+    "ko": "1994년 7월 19일 알라스 치리카나스의 통근 여객기가 콜론에서 이륙한 직후 폭발해 탑승자 21명 전원이 숨졌으며, 희생자 다수는 유대인 사업가였다. 폭탄에 의한 것으로 여겨지며 수사 당국은 전날 부에노스아이레스 AMIA 센터 테러와의 연관성을 의심했지만, 사건은 미해결로 남아 있다.",
+    "zh": "1994年7月19日，奇里基之翼航空的一架通勤客机从科隆起飞后不久爆炸，机上21人全部遇难，其中许多是犹太商人。爆炸被认为由炸弹引起，调查人员怀疑与前一天布宜诺斯艾利斯AMIA中心爆炸案有关，但此案至今未破。",
+    "ja": "1994年7月19日、アラス・チリカナスの近距離旅客機がコロンを離陸した直後に爆発し、搭乗者21人全員が死亡した。犠牲者の多くはユダヤ系の実業家であった。爆弾によるものとみられ、前日のブエノスアイレスのAMIAセンター爆破事件との関連が疑われたが、事件は未解決のままである。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Panama takes control of the canal",
+    "ko": "운하 주권의 완전 회복",
+    "zh": "巴拿马收回运河主权",
+    "ja": "運河の完全返還"
+   },
+   "description": {
+    "en": "On 31 December 1999 the United States transferred the Panama Canal and the former Canal Zone to Panama, completing the process agreed in the Torrijos–Carter Treaties.",
+    "ko": "1999년 12월 31일 미국이 파나마 운하와 옛 운하 지대를 파나마에 이양함으로써 토리호스-카터 조약에서 합의된 반환 절차가 완결되었다.",
+    "zh": "1999年12月31日,美国将巴拿马运河及原运河区移交巴拿马,《托里霍斯-卡特条约》所约定的移交进程宣告完成。",
+    "ja": "1999年12月31日、米国はパナマ運河と旧運河地帯をパナマに引き渡し、トリホス=カーター条約で合意された返還手続きが完了した。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": "Q3454904",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Referendum approves canal expansion",
+    "ko": "운하 확장 국민투표 가결",
+    "zh": "全民公投批准运河扩建",
+    "ja": "運河拡張の国民投票可決"
+   },
+   "description": {
+    "en": "On 22 October 2006 Panamanian voters approved by a large majority the plan of the Panama Canal Authority to build a third set of larger locks. Construction began in 2007 and, despite cost disputes with the contractor consortium, the expanded canal opened in 2016.",
+    "ko": "2006년 10월 22일 파나마 유권자들은 파나마 운하청이 더 큰 제3갑문을 건설하는 계획을 압도적 다수로 승인했다. 공사는 2007년 시작되었고, 시공 컨소시엄과의 비용 분쟁에도 불구하고 확장 운하는 2016년 개통되었다.",
+    "zh": "2006年10月22日，巴拿马选民以压倒性多数批准巴拿马运河管理局修建第三组更大船闸的计划。工程于2007年开工，尽管与承建财团存在成本纠纷，扩建后的运河仍于2016年通航。",
+    "ja": "2006年10月22日、パナマの有権者は運河庁が第三のより大きな閘門を建設する計画を大差で承認した。工事は2007年に始まり、施工企業連合との費用紛争はあったものの、拡張運河は2016年に開通した。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q4644196",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Summit of the Americas in Panama City",
+    "ko": "파나마시티 미주 정상회의",
+    "zh": "巴拿马城美洲峰会",
+    "ja": "パナマ市での米州首脳会議"
+   },
+   "description": {
+    "en": "In April 2015 Panama hosted the 7th Summit of the Americas, the first attended by Cuba. On its sidelines US President Barack Obama and Cuban President Raúl Castro held the first formal meeting between the two countries' leaders in decades, a milestone in the US–Cuban rapprochement.",
+    "ko": "2015년 4월 파나마는 쿠바가 처음으로 참가한 제7차 미주 정상회의를 개최했다. 회의 기간 중 버락 오바마 미국 대통령과 라울 카스트로 쿠바 국가평의회 의장이 수십 년 만에 처음으로 공식 정상회담을 가져, 미·쿠바 관계 개선의 이정표가 되었다.",
+    "zh": "2015年4月，巴拿马主办第七届美洲峰会，古巴首次与会。会议期间，美国总统巴拉克·奥巴马与古巴领导人劳尔·卡斯特罗举行了两国领导人数十年来的首次正式会晤，成为美古关系缓和的里程碑。",
+    "ja": "2015年4月、パナマはキューバが初めて参加した第7回米州首脳会議を開催した。その場でオバマ米大統領とラウル・カストロ・キューバ議長が数十年ぶりとなる両国首脳の正式会談を行い、米・キューバ関係改善の節目となった。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "The Panama Papers",
+    "ko": "파나마 페이퍼스",
+    "zh": "巴拿马文件",
+    "ja": "パナマ文書"
+   },
+   "description": {
+    "en": "In April 2016 an international consortium of journalists published the 'Panama Papers', millions of leaked documents from the Panama City law firm Mossack Fonseca detailing offshore companies used by politicians, celebrities and businesspeople worldwide. The leak triggered resignations abroad and pushed Panama to tighten financial transparency rules; the firm closed in 2018.",
+    "ko": "2016년 4월 국제 탐사보도 언론인 협회는 파나마시티의 법률회사 모색 폰세카에서 유출된 수백만 건의 문서, 이른바 '파나마 페이퍼스'를 공개해 세계 각국 정치인·유명인·기업인이 이용한 역외 회사들을 폭로했다. 이로 인해 해외에서 사임이 잇따랐고 파나마는 금융 투명성 규정을 강화하게 되었으며, 이 회사는 2018년 문을 닫았다.",
+    "zh": "2016年4月，国际调查记者同盟公布“巴拿马文件”，即巴拿马城莫萨克·冯赛卡律师事务所泄露的数百万份文件，揭示了世界各地政要、名人和商人使用的离岸公司。此事引发多国官员辞职，并促使巴拿马收紧金融透明度规则；该律所于2018年关闭。",
+    "ja": "2016年4月、国際調査報道ジャーナリスト連合がパナマ市の法律事務所モサック・フォンセカから流出した数百万件の文書「パナマ文書」を公表し、世界の政治家・著名人・実業家が利用したオフショア会社を明るみに出した。各国で辞任が相次ぎ、パナマは金融透明性の規則強化を迫られ、同事務所は2018年に閉鎖された。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Expanded canal opens",
+    "ko": "확장 운하 개통",
+    "zh": "运河扩建工程竣工通航",
+    "ja": "拡張運河の開通"
+   },
+   "description": {
+    "en": "A third set of locks opened after a nine-year expansion, allowing far larger Neopanamax ships to transit and reinforcing the canal's central role in Panama's economy and world trade.",
+    "ko": "9년에 걸친 확장 공사 끝에 제3갑문이 개통되어 훨씬 큰 네오파나맥스급 선박의 통항이 가능해졌고, 운하는 파나마 경제와 세계 무역에서의 중심적 역할을 한층 굳혔다.",
+    "zh": "历时九年的扩建工程完成,第三组船闸启用,可通行更大型的新巴拿马型船舶,进一步巩固了运河在巴拿马经济和世界贸易中的核心地位。",
+    "ja": "9年に及ぶ拡張工事を経て第三閘門が開通し、はるかに大型のネオパナマックス船の通航が可能となった。運河はパナマ経済と世界貿易における中心的役割を一段と強めた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Diplomatic switch from Taiwan to the PRC",
+    "ko": "대만과 단교, 중국과 수교",
+    "zh": "与台湾断交并与中华人民共和国建交",
+    "ja": "台湾と断交し中国と国交樹立"
+   },
+   "description": {
+    "en": "In June 2017 Panama ended its long-standing diplomatic relations with the Republic of China (Taiwan) and established relations with the People's Republic of China. The switch reflected China's growing role as a user of the canal and investor in ports and infrastructure around it.",
+    "ko": "2017년 6월 파나마는 오랜 외교 관계를 맺어 온 중화민국(대만)과 단교하고 중화인민공화국과 수교했다. 이는 운하의 주요 이용국이자 운하 주변 항만·기반시설 투자국으로서 중국의 비중이 커진 것을 반영했다.",
+    "zh": "2017年6月，巴拿马与长期保持外交关系的中华民国（台湾）断交，与中华人民共和国建交。这一转变反映出中国作为运河主要使用国以及运河周边港口和基础设施投资者的地位日益上升。",
+    "ja": "2017年6月、パナマは長年外交関係を結んできた中華民国（台湾）と断交し、中華人民共和国と国交を樹立した。運河の主要利用国であり周辺の港湾・インフラへの投資国として中国の存在感が高まったことを反映している。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q26203131",
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "World Youth Day in Panama",
+    "ko": "파나마 세계청년대회",
+    "zh": "巴拿马世界青年节",
+    "ja": "パナマでの世界青年の日"
+   },
+   "description": {
+    "en": "In January 2019 Panama City hosted the Catholic Church's World Youth Day, the first held in Central America, with Pope Francis presiding over its final Mass before hundreds of thousands of pilgrims. Many participants came from across Latin America.",
+    "ko": "2019년 1월 파나마시티에서 중앙아메리카 최초로 가톨릭 세계청년대회가 열렸고, 프란치스코 교황이 수십만 명의 순례자 앞에서 폐막 미사를 집전했다. 참가자 상당수는 라틴아메리카 각지에서 왔다.",
+    "zh": "2019年1月，巴拿马城举办天主教世界青年节，这是该活动首次在中美洲举行，教宗方济各在数十万朝圣者面前主持闭幕弥撒。许多参与者来自拉丁美洲各地。",
+    "ja": "2019年1月、パナマ市で中米初となるカトリックの世界青年の日が開かれ、教皇フランシスコが数十万人の巡礼者を前に閉会ミサを司式した。参加者の多くはラテンアメリカ各地から訪れた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87477841",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in Panama",
+    "ko": "파나마의 코로나19 범유행",
+    "zh": "新冠疫情在巴拿马",
+    "ja": "パナマの新型コロナ流行"
+   },
+   "description": {
+    "en": "Panama confirmed its first COVID-19 case in March 2020 and imposed one of the strictest lockdowns in the Americas, including curfews and movement restrictions by gender. The pandemic caused a sharp economic contraction in a service-based economy, although canal operations continued throughout.",
+    "ko": "파나마는 2020년 3월 첫 코로나19 확진자를 확인하고, 통행 금지와 성별에 따른 외출 제한 등 미주에서 가장 엄격한 봉쇄 조치 가운데 하나를 시행했다. 범유행은 서비스업 중심 경제에 급격한 위축을 가져왔지만, 운하는 내내 운영되었다.",
+    "zh": "巴拿马于2020年3月确诊首例新冠病例，随即实施美洲最严格的封锁措施之一，包括宵禁和按性别限制出行。疫情使以服务业为主的经济急剧萎缩，但运河始终保持运营。",
+    "ja": "パナマは2020年3月に最初の新型コロナ感染者を確認し、夜間外出禁止や性別による外出制限など、米州で最も厳しい部類のロックダウンを実施した。サービス業中心の経済は急激に縮小したが、運河の運航は続けられた。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Nationwide protests over cost of living",
+    "ko": "생활비 상승에 항의한 전국 시위",
+    "zh": "反对生活成本上涨的全国抗议",
+    "ja": "生活費高騰をめぐる全国的抗議"
+   },
+   "description": {
+    "en": "In July 2022 teachers' unions, workers and indigenous groups launched weeks of protests and road blockades across Panama against soaring fuel and food prices and corruption. The government agreed to freeze fuel prices and cap the prices of basic goods after church-mediated talks.",
+    "ko": "2022년 7월 교원노조와 노동자, 원주민 단체들이 치솟는 연료·식품 가격과 부패에 항의해 파나마 전역에서 몇 주간 시위와 도로 봉쇄를 벌였다. 정부는 교회의 중재로 열린 협상 끝에 연료 가격을 동결하고 생필품 가격 상한을 두기로 합의했다.",
+    "zh": "2022年7月，教师工会、工人和原住民团体在巴拿马全国发起持续数周的抗议和道路封锁，反对燃油和食品价格飞涨以及腐败。经教会调解谈判，政府同意冻结燃油价格并对基本商品设定价格上限。",
+    "ja": "2022年7月、教員組合や労働者、先住民団体が燃料・食料価格の高騰と汚職に抗議し、パナマ全土で数週間にわたるデモと道路封鎖を行った。政府は教会の仲介による協議の末、燃料価格の凍結と生活必需品の価格上限設定に合意した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Mining protests and closure of Cobre Panamá",
+    "ko": "광산 반대 시위와 코브레 파나마 폐쇄",
+    "zh": "反矿抗议与巴拿马铜矿关闭",
+    "ja": "鉱山反対デモとコブレ・パナマ閉鎖"
+   },
+   "description": {
+    "en": "In October 2023 a new contract for the giant Cobre Panamá copper mine, operated by a subsidiary of First Quantum Minerals, sparked the largest protests in decades over environmental damage and sovereignty. On 28 November 2023 the Supreme Court declared the contract unconstitutional, and the mine, a significant share of exports, halted operations.",
+    "ko": "2023년 10월 퍼스트 퀀텀 미네랄스 자회사가 운영하는 대형 구리 광산 코브레 파나마의 신규 계약이 환경 피해와 주권 문제를 둘러싸고 수십 년 만의 최대 규모 시위를 촉발했다. 2023년 11월 28일 대법원은 계약을 위헌으로 판결했고, 수출의 상당 부분을 차지하던 광산은 가동을 멈췄다.",
+    "zh": "2023年10月，第一量子矿业公司子公司经营的巨型巴拿马铜矿签订新合同，因环境破坏和主权问题引发数十年来规模最大的抗议。2023年11月28日，最高法院裁定该合同违宪，这座占出口相当比重的矿山随即停产。",
+    "ja": "2023年10月、ファースト・クォンタム・ミネラルズの子会社が運営する巨大銅山コブレ・パナマの新契約が、環境破壊と主権の問題をめぐって数十年来最大の抗議を引き起こした。2023年11月28日、最高裁は契約を違憲と判断し、輸出の大きな割合を占めていた鉱山は操業を停止した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Drought restricts canal traffic",
+    "ko": "가뭄으로 인한 운하 통항 제한",
+    "zh": "干旱限制运河通航",
+    "ja": "干ばつによる運河通航制限"
+   },
+   "description": {
+    "en": "A severe drought linked to El Niño lowered Gatún Lake, the reservoir that feeds the canal's locks, forcing the Panama Canal Authority in 2023 to cut daily transits and limit ship drafts. The crisis highlighted the competition between canal operations and drinking water for Panama's cities.",
+    "ko": "엘니뇨와 관련된 극심한 가뭄으로 운하 갑문에 물을 공급하는 가툰 호수의 수위가 낮아지자, 파나마 운하청은 2023년 하루 통항 횟수를 줄이고 선박 흘수를 제한했다. 이 위기는 운하 운영과 도시 식수 사이의 물 경쟁을 부각시켰다.",
+    "zh": "与厄尔尼诺有关的严重干旱使为运河船闸供水的加通湖水位下降，巴拿马运河管理局于2023年被迫削减每日通航次数并限制船舶吃水。这场危机凸显了运河运营与城市饮用水之间的用水竞争。",
+    "ja": "エルニーニョに関連した深刻な干ばつで運河の閘門に水を供給するガトゥン湖の水位が下がり、パナマ運河庁は2023年に1日の通航数を減らし船舶の喫水を制限した。この危機は運河運営と都市の飲料水との水の競合を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Record migration through the Darién Gap",
+    "ko": "다리엔 갭 통과 이주의 급증",
+    "zh": "经达连隘口的移民创纪录",
+    "ja": "ダリエン地峡経由の移民が過去最多に"
+   },
+   "description": {
+    "en": "In 2023 more than half a million migrants, many from Venezuela, Ecuador, Haiti and beyond, crossed the roadless jungle of the Darién Gap from Colombia into Panama on their way north, a record number. The dangerous journey, marked by drownings and assaults, made Panama a focal point of the hemisphere's migration crisis.",
+    "ko": "2023년 베네수엘라·에콰도르·아이티 등지에서 온 50만 명이 넘는 이주민이 북쪽으로 향하며 콜롬비아에서 도로 없는 다리엔 갭 밀림을 지나 파나마로 넘어와 사상 최대를 기록했다. 익사와 폭행이 잇따른 이 위험한 여정으로 파나마는 미주 이주 위기의 초점이 되었다.",
+    "zh": "2023年，超过50万移民（许多来自委内瑞拉、厄瓜多尔、海地等地）为北上从哥伦比亚穿越没有道路的达连隘口丛林进入巴拿马，人数创下纪录。这段充满溺亡和袭击的危险旅程使巴拿马成为西半球移民危机的焦点。",
+    "ja": "2023年、ベネズエラやエクアドル、ハイチなどから来た50万人を超える移民が北を目指し、コロンビアから道路のないダリエン地峡の密林を越えてパナマに入り、過去最多となった。溺死や暴行が相次ぐ危険な旅により、パナマは米州の移民危機の焦点となった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Election of José Raúl Mulino",
+    "ko": "호세 라울 물리노 당선",
+    "zh": "何塞·劳尔·穆利诺当选",
+    "ja": "ホセ・ラウル・ムリーノの当選"
+   },
+   "description": {
+    "en": "In May 2024 José Raúl Mulino won the presidential election after replacing former president Ricardo Martinelli, who had been barred from running following a money-laundering conviction, as the candidate of the Realizando Metas party. He took office in July 2024 promising economic growth and to curb migration through the Darién.",
+    "ko": "2024년 5월 호세 라울 물리노가 대통령 선거에서 승리했다. 그는 돈세탁 유죄 판결로 출마가 금지된 리카르도 마르티넬리 전 대통령을 대신해 '목표 실현당(RM)' 후보가 되었다. 2024년 7월 취임한 그는 경제 성장과 다리엔을 통한 이주 억제를 공약했다.",
+    "zh": "2024年5月，何塞·劳尔·穆利诺赢得总统选举。前总统里卡多·马丁内利因洗钱罪被定罪而被禁止参选，穆利诺接替他成为“实现目标党”候选人。他于2024年7月就职，承诺推动经济增长并遏制经达连的移民。",
+    "ja": "2024年5月、ホセ・ラウル・ムリーノが大統領選挙に勝利した。資金洗浄で有罪となり出馬を禁じられたリカルド・マルティネリ元大統領に代わり、「目標実現党（RM）」の候補となった人物である。2024年7月に就任し、経済成長とダリエン経由の移民抑制を掲げた。"
+   }
+  }
+ ]
+}

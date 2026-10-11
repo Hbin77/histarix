@@ -1,0 +1,1191 @@
+{
+ "iso": "GL",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -2501,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Greenland before human settlement",
+    "ko": "인류 정착 이전의 그린란드",
+    "zh": "人类定居之前的格陵兰",
+    "ja": "人類定住以前のグリーンランド"
+   },
+   "summary": {
+    "en": "After the last Ice Age the vast ice sheet retreated from Greenland's coastal margins, opening ice-free land, fjords and rich marine hunting grounds. No archaeological traces of people older than the mid-third millennium BC have been found, so the island appears to have remained uninhabited while hunters spread across Arctic Canada to the west.",
+    "ko": "마지막 빙하기 이후 거대한 빙상이 그린란드 해안 지대에서 물러나며 얼음 없는 땅과 피오르, 풍부한 해양 수렵지가 드러났다. 기원전 3천년기 중반보다 오래된 인류의 고고학적 흔적은 발견되지 않아, 서쪽 캐나다 북극권에 수렵민이 퍼져 가는 동안에도 이 섬은 무인도로 남아 있었던 것으로 보인다.",
+    "zh": "末次冰期之后，巨大的冰盖从格陵兰沿海边缘退缩，露出无冰陆地、峡湾和丰富的海洋猎场。迄今未发现早于公元前三千纪中叶的人类遗迹，因此当狩猎者在西边的加拿大北极地区扩散时，这座岛屿似乎仍无人居住。",
+    "ja": "最終氷期の後、巨大な氷床がグリーンランドの沿岸部から後退し、氷のない陸地やフィヨルド、豊かな海の狩猟場が現れた。紀元前3千年紀半ばより古い人類の考古学的痕跡は見つかっておらず、西のカナダ北極圏に狩猟民が広がる間も、この島は無人のままだったと考えられている。"
+   }
+  },
+  {
+   "from": -2500,
+   "to": -800,
+   "kind": "culture",
+   "qid": "Q666758",
+   "polity": null,
+   "name": {
+    "en": "Saqqaq culture",
+    "ko": "사카크 문화",
+    "zh": "萨卡克文化",
+    "ja": "サカク文化"
+   },
+   "summary": {
+    "en": "The Saqqaq people were the first known inhabitants of southern and western Greenland, Paleo-Inuit hunters who arrived from Arctic Canada around 2500 BC. They hunted seals, caribou and seabirds with finely made stone tools and lived in small seasonal camps along the coast. Their culture persisted for some 1,700 years before fading around 800 BC.",
+    "ko": "사카크인은 기원전 2500년경 캐나다 북극권에서 건너온 고(古)이누이트 수렵민으로, 그린란드 남부와 서부의 최초로 알려진 주민이다. 이들은 정교한 석기로 바다표범과 순록, 바닷새를 사냥하며 해안을 따라 작은 계절 야영지에서 살았다. 이 문화는 약 1700년 동안 이어지다 기원전 800년경 사라졌다.",
+    "zh": "萨卡克人是约公元前2500年从加拿大北极地区迁来的古因纽特狩猎者，也是格陵兰南部和西部已知最早的居民。他们用精制石器猎取海豹、驯鹿和海鸟，沿海岸分散居住在季节性小营地中。这一文化延续约1700年，约在公元前800年前后消失。",
+    "ja": "サカク人は紀元前2500年頃にカナダ北極圏から渡ってきた古イヌイットの狩猟民で、グリーンランド南部・西部で知られる最初の住民である。精巧な石器でアザラシやカリブー、海鳥を狩り、海岸沿いの小さな季節キャンプで暮らした。この文化は約1700年続き、紀元前800年頃に姿を消した。"
+   }
+  },
+  {
+   "from": -2400,
+   "to": -1000,
+   "kind": "culture",
+   "qid": "Q641154",
+   "polity": null,
+   "name": {
+    "en": "Independence I culture",
+    "ko": "인디펜던스 I 문화",
+    "zh": "独立一号文化",
+    "ja": "インデペンデンスI文化"
+   },
+   "summary": {
+    "en": "In the far north, around Peary Land and Independence Fjord, small bands of the Independence I culture lived in one of the harshest environments ever settled by humans. They hunted musk oxen and seals and used distinctive oval tent rings with central hearths. Their sites are contemporary with the Saqqaq culture to the south.",
+    "ko": "최북단 피어리랜드와 인디펜던스 피오르 일대에서는 인디펜던스 I 문화의 소규모 무리가 인류가 정착한 곳 가운데 가장 혹독한 환경에서 살았다. 이들은 사향소와 바다표범을 사냥했고, 중앙에 화덕이 있는 독특한 타원형 천막 터를 남겼다. 그 유적은 남쪽의 사카크 문화와 같은 시기에 속한다.",
+    "zh": "在极北的皮里地和独立峡湾一带，独立一号文化的小群体生活在人类曾定居过的最严酷环境之一。他们猎取麝牛和海豹，留下中央设有火塘的独特椭圆形帐篷圈遗迹。其遗址与南方的萨卡克文化处于同一时期。",
+    "ja": "最北部のピアリーランドやインデペンデンス・フィヨルド周辺では、インデペンデンスI文化の小集団が、人類が住んだ中でも最も過酷な環境で暮らした。彼らはジャコウウシやアザラシを狩り、中央に炉を持つ独特の楕円形テントリングを残した。その遺跡は南のサカク文化と同時代に属する。"
+   }
+  },
+  {
+   "from": -800,
+   "to": 1,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early (Greenlandic) Dorset",
+    "ko": "초기 도싯(그린란드 도싯) 문화",
+    "zh": "早期多塞特文化（格陵兰多塞特）",
+    "ja": "前期ドーセット（グリーンランド・ドーセット）文化"
+   },
+   "summary": {
+    "en": "After the Saqqaq culture faded, new Paleo-Inuit groups related to the early Dorset traditions of Arctic Canada lived along parts of Greenland's west and east coasts. Their sites are fewer than those of the Saqqaq, and around the turn of the era they too disappear from the archaeological record.",
+    "ko": "사카크 문화가 사라진 뒤, 캐나다 북극권의 초기 도싯 전통과 관련된 새로운 고이누이트 집단이 그린란드 서해안과 동해안 일부에 살았다. 이들의 유적은 사카크 문화보다 적으며, 기원 전후 무렵 이들 역시 고고학 기록에서 자취를 감춘다.",
+    "zh": "萨卡克文化消失后，与加拿大北极地区早期多塞特传统相关的新一批古因纽特群体生活在格陵兰西海岸和东海岸的部分地区。他们的遗址少于萨卡克文化，约在公元纪元前后，他们也从考古记录中消失。",
+    "ja": "サカク文化が消えた後、カナダ北極圏の前期ドーセット伝統と関係する新たな古イヌイット集団が、グリーンランド西岸と東岸の一部に暮らした。その遺跡はサカク文化より少なく、紀元前後には彼らも考古学的記録から姿を消す。"
+   }
+  },
+  {
+   "from": -700,
+   "to": -80,
+   "kind": "culture",
+   "qid": "Q2268108",
+   "polity": null,
+   "name": {
+    "en": "Independence II culture",
+    "ko": "인디펜던스 II 문화",
+    "zh": "独立二号文化",
+    "ja": "インデペンデンスII文化"
+   },
+   "summary": {
+    "en": "A second wave of Paleo-Inuit hunters, known as Independence II, occupied northeastern Greenland on both sides of Independence Fjord from about 700 to 80 BC. Their tools resemble early Dorset types, and like their predecessors they relied on musk oxen, seals and fish in a high-Arctic desert.",
+    "ko": "인디펜던스 II로 불리는 두 번째 고이누이트 수렵민 집단이 기원전 700년경부터 80년경까지 인디펜던스 피오르 양안의 그린란드 북동부에 살았다. 이들의 도구는 초기 도싯 유형과 닮았으며, 앞선 주민처럼 고위도 북극 사막에서 사향소와 바다표범, 물고기에 의존했다.",
+    "zh": "被称为独立二号的第二波古因纽特狩猎者，约在公元前700年至前80年间居住于独立峡湾两岸的格陵兰东北部。他们的工具与早期多塞特类型相似，并像前人一样在高纬度北极荒漠中依靠麝牛、海豹和鱼类为生。",
+    "ja": "インデペンデンスIIと呼ばれる第二波の古イヌイット狩猟民が、紀元前700年頃から前80年頃まで、インデペンデンス・フィヨルド両岸のグリーンランド北東部に住んだ。道具は前期ドーセット型に似ており、先人と同様に高緯度北極の砂漠でジャコウウシやアザラシ、魚に頼って暮らした。"
+   }
+  },
+  {
+   "from": 1,
+   "to": 800,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Centuries without known settlement",
+    "ko": "알려진 정착 흔적이 없는 시기",
+    "zh": "缺乏定居遗迹的数百年",
+    "ja": "居住の痕跡が乏しい数世紀"
+   },
+   "summary": {
+    "en": "For roughly eight centuries after the early Dorset groups vanished, archaeologists have found few or no reliable traces of human occupation in Greenland. The island may have been largely or entirely empty of people until Late Dorset hunters moved in from Canada.",
+    "ko": "초기 도싯 집단이 사라진 뒤 약 800년 동안 그린란드에서는 믿을 만한 인류 거주 흔적이 거의 혹은 전혀 발견되지 않았다. 후기 도싯 수렵민이 캐나다에서 들어오기 전까지 이 섬은 대부분 또는 완전히 비어 있었을 가능성이 있다.",
+    "zh": "早期多塞特群体消失后的大约八百年间，考古学家在格陵兰几乎没有发现可靠的人类居住痕迹。在晚期多塞特狩猎者从加拿大迁入之前，这座岛屿可能大部分甚至完全无人居住。",
+    "ja": "前期ドーセット集団が消えた後の約800年間、グリーンランドでは信頼できる人類居住の痕跡がほとんど見つかっていない。後期ドーセットの狩猟民がカナダから移ってくるまで、島の大部分あるいは全体が無人だった可能性がある。"
+   }
+  },
+  {
+   "from": 800,
+   "to": 1300,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Late Dorset culture",
+    "ko": "후기 도싯 문화",
+    "zh": "晚期多塞特文化",
+    "ja": "後期ドーセット文化"
+   },
+   "summary": {
+    "en": "Late Dorset Paleo-Inuit reached northwestern Greenland around the Smith Sound region, and some groups moved down the east and northeast coasts. They were skilled carvers in ivory and antler but did not use dog sleds or bows in the way the later Thule Inuit did. They disappeared after the Thule arrived, and their relationship with the newcomers is still debated.",
+    "ko": "후기 도싯 고이누이트는 스미스 해협 일대의 그린란드 북서부에 도달했고, 일부는 동해안과 북동 해안을 따라 내려갔다. 이들은 상아와 뿔 조각에 능했으나 뒤이은 툴레 이누이트처럼 개썰매나 활을 사용하지는 않았다. 툴레인이 도래한 뒤 이들은 사라졌으며, 두 집단의 관계는 지금도 논쟁 중이다.",
+    "zh": "晚期多塞特古因纽特人抵达史密斯海峡一带的格陵兰西北部，部分群体沿东海岸和东北海岸南下。他们擅长象牙和鹿角雕刻，但不像后来的图勒因纽特人那样使用狗拉雪橇和弓箭。图勒人到来后他们便消失了，两者之间的关系至今仍有争议。",
+    "ja": "後期ドーセットの古イヌイットはスミス海峡周辺のグリーンランド北西部に到達し、一部は東岸や北東岸を南下した。象牙や角の彫刻に優れていたが、後のチューレ・イヌイットのように犬ぞりや弓を用いることはなかった。チューレ人の到来後に姿を消し、両者の関係は今も議論が続いている。"
+   }
+  },
+  {
+   "from": 985,
+   "to": 1450,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Norse Greenland",
+    "ko": "노르드인의 그린란드",
+    "zh": "北欧人的格陵兰",
+    "ja": "ノルド人のグリーンランド"
+   },
+   "summary": {
+    "en": "Norse settlers from Iceland led by Erik the Red founded the Eastern and Western Settlements in the fjords of the southwest around 985. They farmed livestock, hunted walrus for ivory traded to Europe, built churches and from the 12th century had their own bishop at Gardar. From 1261 they owed allegiance to the Norwegian crown. The Western Settlement was abandoned in the 14th century and the Eastern Settlement fell silent after the early 15th century.",
+    "ko": "붉은 에이리크가 이끈 아이슬란드의 노르드인 정착민은 985년경 남서부 피오르에 동부 정착지와 서부 정착지를 세웠다. 이들은 가축을 기르고 바다코끼리를 사냥해 상아를 유럽에 팔았으며, 교회를 세우고 12세기부터는 가르다르에 주교좌를 두었다. 1261년부터는 노르웨이 왕권에 복속했다. 서부 정착지는 14세기에 버려졌고, 동부 정착지도 15세기 초 이후 기록에서 사라졌다.",
+    "zh": "约985年，红发埃里克率领来自冰岛的北欧移民在西南部峡湾建立了东定居点和西定居点。他们饲养牲畜，猎捕海象并把象牙卖到欧洲，修建教堂，并自12世纪起在加达设立主教座。1261年起他们臣服于挪威王室。西定居点在14世纪被废弃，东定居点在15世纪初以后也不再见于记载。",
+    "ja": "985年頃、赤毛のエイリークに率いられたアイスランドのノルド人入植者が、南西部のフィヨルドに東入植地と西入植地を築いた。彼らは家畜を飼い、セイウチを狩って象牙をヨーロッパに輸出し、教会を建て、12世紀からはガルザルに司教座を置いた。1261年からはノルウェー王権に服属した。西入植地は14世紀に放棄され、東入植地も15世紀初め以降記録から消えた。"
+   }
+  },
+  {
+   "from": 1200,
+   "to": 1721,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Thule culture and Inuit Greenland",
+    "ko": "툴레 문화와 이누이트의 그린란드",
+    "zh": "图勒文化与因纽特人的格陵兰",
+    "ja": "チューレ文化とイヌイットのグリーンランド"
+   },
+   "summary": {
+    "en": "Around the 13th century the Thule people, ancestors of today's Greenlandic Inuit, crossed from Arctic Canada into northwestern Greenland and spread down both coasts. With dog sleds, kayaks, umiaks and toggling harpoons they hunted seals, walrus and whales, adapting successfully to the cooling climate of the Little Ice Age. By the time Europeans returned in the 16th to 18th centuries, Inuit were the island's only inhabitants.",
+    "ko": "13세기 무렵 오늘날 그린란드 이누이트의 조상인 툴레인이 캐나다 북극권에서 그린란드 북서부로 건너와 양쪽 해안을 따라 퍼졌다. 이들은 개썰매와 카약, 우미악, 회전식 작살을 이용해 바다표범과 바다코끼리, 고래를 사냥하며 소빙기의 한랭한 기후에 성공적으로 적응했다. 16~18세기에 유럽인이 다시 찾아왔을 때 섬의 주민은 이누이트뿐이었다.",
+    "zh": "约13世纪，今日格陵兰因纽特人的祖先图勒人从加拿大北极地区进入格陵兰西北部，并沿两侧海岸扩散。他们凭借狗拉雪橇、皮划艇、乌米亚克大船和活动倒钩鱼叉猎取海豹、海象和鲸，成功适应了小冰期的寒冷气候。到16至18世纪欧洲人重新到来时，岛上的居民只有因纽特人。",
+    "ja": "13世紀頃、現在のグリーンランド・イヌイットの祖先であるチューレ人がカナダ北極圏からグリーンランド北西部に渡り、両岸に沿って広がった。犬ぞりやカヤック、ウミアク、回転式銛を用いてアザラシやセイウチ、クジラを狩り、小氷期の寒冷な気候にうまく適応した。16〜18世紀にヨーロッパ人が再来した時、島の住民はイヌイットだけだった。"
+   }
+  },
+  {
+   "from": 1721,
+   "to": 1953,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "Greenland",
+   "name": {
+    "en": "Danish colonial Greenland",
+    "ko": "덴마크 식민지 그린란드",
+    "zh": "丹麦殖民地格陵兰",
+    "ja": "デンマーク植民地時代のグリーンランド"
+   },
+   "summary": {
+    "en": "Beginning with Hans Egede's Lutheran mission in 1721, Denmark-Norway built a chain of mission stations and trading posts along the west coast. From 1776 the Royal Greenland Trade held a state trade monopoly, and the colony was kept largely closed to outsiders. After 1814 Greenland remained with Denmark; Danish sovereignty over the whole island was confirmed internationally in 1933. Greenlanders were Christianized and literate in their own language, but political power lay in Copenhagen.",
+    "ko": "1721년 한스 에게데의 루터교 선교를 시작으로 덴마크-노르웨이는 서해안을 따라 선교 거점과 교역소를 잇달아 세웠다. 1776년부터 왕립 그린란드 무역회사가 국가 무역 독점권을 가졌고, 식민지는 외부에 거의 닫혀 있었다. 1814년 이후 그린란드는 덴마크령으로 남았으며, 섬 전체에 대한 덴마크 주권은 1933년 국제적으로 확인되었다. 그린란드인은 기독교화되고 자국어로 문자를 익혔지만 정치 권력은 코펜하겐에 있었다.",
+    "zh": "自1721年汉斯·埃格德的路德宗传教开始，丹麦—挪威沿西海岸陆续建立传教站和贸易站。1776年起皇家格陵兰贸易公司享有国家贸易垄断权，殖民地基本对外封闭。1814年后格陵兰仍归丹麦，丹麦对全岛的主权于1933年获得国际确认。格陵兰人皈依基督教并能用母语读写，但政治权力掌握在哥本哈根手中。",
+    "ja": "1721年のハンス・エーゲデによるルター派布教に始まり、デンマーク＝ノルウェーは西岸に沿って伝道拠点や交易所を次々と設けた。1776年からは王立グリーンランド商事会社が国家の交易独占権を持ち、植民地は外部にほぼ閉ざされた。1814年以降もグリーンランドはデンマーク領にとどまり、島全体へのデンマーク主権は1933年に国際的に確認された。グリーンランド人はキリスト教化され母語での読み書きを身につけたが、政治権力はコペンハーゲンにあった。"
+   }
+  },
+  {
+   "from": 1940,
+   "to": 1945,
+   "kind": "period",
+   "qid": null,
+   "polity": "United States of America",
+   "name": {
+    "en": "Second World War and US protection",
+    "ko": "제2차 세계대전과 미국의 보호",
+    "zh": "第二次世界大战与美国保护",
+    "ja": "第二次世界大戦とアメリカの保護"
+   },
+   "summary": {
+    "en": "When Germany occupied Denmark in April 1940, Greenland was cut off from Copenhagen and administered by its local governors. A 1941 agreement signed by the Danish envoy in Washington allowed the United States to build bases and defend the island. American airfields and weather stations made Greenland a link in the North Atlantic air route, while small sledge patrols hunted German weather stations on the east coast.",
+    "ko": "1940년 4월 독일이 덴마크를 점령하자 그린란드는 코펜하겐과 단절되어 현지 총독들이 통치했다. 1941년 워싱턴 주재 덴마크 공사가 서명한 협정으로 미국은 섬에 기지를 짓고 방어를 맡게 되었다. 미국의 비행장과 기상 관측소는 그린란드를 북대서양 항로의 거점으로 만들었고, 동해안에서는 소규모 썰매 순찰대가 독일 기상 관측소를 추적했다.",
+    "zh": "1940年4月德国占领丹麦后，格陵兰与哥本哈根的联系中断，由当地总督自行管理。1941年丹麦驻华盛顿公使签署协定，允许美国在岛上修建基地并负责防务。美国的机场和气象站使格陵兰成为北大西洋航线的中转站，而东海岸的小型雪橇巡逻队则搜寻德国的气象站。",
+    "ja": "1940年4月にドイツがデンマークを占領すると、グリーンランドはコペンハーゲンから切り離され、現地の総督たちが統治した。1941年、ワシントン駐在のデンマーク公使が署名した協定により、アメリカが島に基地を建設し防衛を担うことになった。アメリカの飛行場や気象観測所はグリーンランドを北大西洋航路の中継地とし、東岸では小規模なそり巡察隊がドイツの気象観測所を追跡した。"
+   }
+  },
+  {
+   "from": 1953,
+   "to": 1979,
+   "kind": "period",
+   "qid": null,
+   "polity": "Denmark",
+   "name": {
+    "en": "Greenland as a Danish county",
+    "ko": "덴마크의 한 주(州)가 된 그린란드",
+    "zh": "作为丹麦一个郡的格陵兰",
+    "ja": "デンマークの一県としてのグリーンランド"
+   },
+   "summary": {
+    "en": "The 1953 Danish constitution ended Greenland's colonial status and made it a county of Denmark with seats in the Folketing. A rapid modernization program concentrated people in larger towns, built housing, hospitals and schools, and brought many Danish workers north. Living standards rose, but the speed of change, Danish dominance in jobs and language, and social problems fed a growing Greenlandic national movement.",
+    "ko": "1953년 덴마크 헌법은 그린란드의 식민지 지위를 끝내고 덴마크 의회에 의석을 가진 한 주로 편입했다. 급속한 근대화 계획으로 주민을 큰 도시로 모으고 주택과 병원, 학교를 지었으며 많은 덴마크인 노동자가 북쪽으로 왔다. 생활 수준은 높아졌지만 급격한 변화와 일자리·언어에서의 덴마크인 우위, 사회 문제가 그린란드 민족 운동의 성장을 부추겼다.",
+    "zh": "1953年丹麦宪法结束了格陵兰的殖民地地位，使其成为在丹麦议会拥有议席的一个郡。快速现代化计划把居民集中到较大的城镇，兴建住房、医院和学校，大批丹麦工人北上。生活水平随之提高，但变化过快、丹麦人在就业和语言上的主导地位以及各种社会问题，推动了格陵兰民族运动的壮大。",
+    "ja": "1953年のデンマーク憲法はグリーンランドの植民地としての地位を終わらせ、国会に議席を持つデンマークの一県とした。急速な近代化計画により住民はより大きな町に集められ、住宅や病院、学校が建てられ、多くのデンマーク人労働者が北へ渡った。生活水準は向上したが、変化の速さや雇用・言語面でのデンマーク人優位、社会問題がグリーンランド民族運動の高まりを招いた。"
+   }
+  },
+  {
+   "from": 1979,
+   "to": 2008,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Home Rule era",
+    "ko": "자치정부(홈룰) 시대",
+    "zh": "地方自治时期",
+    "ja": "自治政府（ホームルール）時代"
+   },
+   "summary": {
+    "en": "Home Rule, introduced in 1979, gave Greenland its own parliament, the Landsting, and a government responsible for most domestic affairs, while Denmark kept foreign policy, defense and the justice system. Greenland left the European Communities in 1985, adopted its own flag and gradually took over education, health and fisheries. Politics was long dominated by the Siumut party.",
+    "ko": "1979년 도입된 홈룰로 그린란드는 자체 의회(란스팅)와 대부분의 내정을 담당하는 정부를 갖게 되었고, 덴마크는 외교·국방·사법을 유지했다. 그린란드는 1985년 유럽공동체에서 탈퇴하고 고유의 국기를 채택했으며 교육·보건·어업 권한을 차례로 넘겨받았다. 정치는 오랫동안 시우무트당이 주도했다.",
+    "zh": "1979年实行的地方自治使格陵兰拥有了自己的议会和负责大部分内政的政府，丹麦则保留外交、国防和司法权。格陵兰于1985年退出欧洲共同体，采用了自己的旗帜，并逐步接管教育、卫生和渔业事务。政坛长期由前进党主导。",
+    "ja": "1979年に導入されたホームルールにより、グリーンランドは独自の議会（ランスティング）とほとんどの内政を担う政府を持ち、デンマークは外交・防衛・司法を保持した。グリーンランドは1985年に欧州共同体を離脱し、独自の旗を採用して、教育・保健・漁業の権限を順次引き継いだ。政治は長くシウムット党が主導した。"
+   }
+  },
+  {
+   "from": 2009,
+   "to": 2026,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Self-government era",
+    "ko": "확대 자치 시대",
+    "zh": "扩大自治时期",
+    "ja": "自治拡大時代"
+   },
+   "summary": {
+    "en": "The 2009 Self-Government Act recognized Greenlanders as a people under international law, made Greenlandic the sole official language and allowed Greenland to take over further fields, including control of mineral resources, with a path to independence if its people choose it. Greenland's minerals, strategic location and melting ice drew rising international attention, including repeated American interest in acquiring the island.",
+    "ko": "2009년 자치정부법은 그린란드인을 국제법상 하나의 인민으로 인정하고 그린란드어를 유일한 공용어로 삼았으며, 광물 자원 관할 등 더 많은 분야를 넘겨받을 수 있게 하고 주민이 원할 경우 독립으로 가는 길을 열었다. 광물 자원과 전략적 위치, 녹아내리는 얼음으로 국제적 관심이 높아졌고, 미국의 섬 매입 의사가 거듭 제기되기도 했다.",
+    "zh": "2009年的《自治法》承认格陵兰人是国际法意义上的一个民族，将格陵兰语定为唯一官方语言，允许格陵兰接管包括矿产资源在内的更多领域，并为其人民选择独立开辟了道路。格陵兰的矿产、战略位置和融化的冰盖引起越来越多的国际关注，美国也多次表示有意获取该岛。",
+    "ja": "2009年の自治法はグリーンランド人を国際法上の人民と認め、グリーンランド語を唯一の公用語とし、鉱物資源の管轄などさらなる分野の移管を可能にして、住民が望めば独立へ進む道を開いた。鉱物資源や戦略的位置、解けゆく氷によって国際的な関心が高まり、アメリカが島の取得に関心を示すことも繰り返された。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2500,
+   "qid": "Q666758",
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "First peoples: the Saqqaq culture",
+    "ko": "최초의 정착민, 사카크 문화",
+    "zh": "最早的居民：萨卡克文化",
+    "ja": "最初の住民サカク文化"
+   },
+   "description": {
+    "en": "Around 2500 BC Paleo-Inuit hunters of the Saqqaq culture crossed from Arctic Canada and settled Greenland's southern and western coasts, becoming the island's earliest known inhabitants. They lived by hunting seals, caribou and birds with small, finely flaked stone tools. Their culture lasted until about 800 BC.",
+    "ko": "기원전 2500년경 사카크 문화의 고이누이트 수렵민이 캐나다 북극권에서 건너와 그린란드 남부와 서부 해안에 정착하면서 섬의 최초로 알려진 주민이 되었다. 이들은 작고 정교하게 떼어 낸 석기로 바다표범과 순록, 새를 사냥하며 살았다. 이 문화는 기원전 800년경까지 이어졌다.",
+    "zh": "约公元前2500年，萨卡克文化的古因纽特狩猎者从加拿大北极地区迁来，定居在格陵兰南部和西部沿海，成为该岛已知最早的居民。他们以精细打制的小型石器猎取海豹、驯鹿和鸟类为生。这一文化一直延续到约公元前800年。",
+    "ja": "紀元前2500年頃、サカク文化の古イヌイット狩猟民がカナダ北極圏から渡り、グリーンランド南部・西部の沿岸に定住して、島で知られる最初の住民となった。彼らは小さく精巧に剥離した石器でアザラシやカリブー、鳥を狩って暮らした。この文化は紀元前800年頃まで続いた。"
+   }
+  },
+  {
+   "year": -2400,
+   "qid": "Q641154",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Independence I hunters reach the far north",
+    "ko": "인디펜던스 I 수렵민, 최북단에 도달",
+    "zh": "独立一号文化的狩猎者抵达极北",
+    "ja": "インデペンデンスIの狩猟民が最北部に到達"
+   },
+   "description": {
+    "en": "Around 2400 BC small groups of the Independence I culture settled Peary Land and the Independence Fjord region of northernmost Greenland. Living by musk-ox and seal hunting in a polar desert, they left oval tent rings with central hearths that are among the northernmost human traces on Earth.",
+    "ko": "기원전 2400년경 인디펜던스 I 문화의 소집단이 그린란드 최북단의 피어리랜드와 인디펜던스 피오르 지역에 정착했다. 극지 사막에서 사향소와 바다표범을 사냥하며 살았던 이들은 중앙에 화덕이 있는 타원형 천막 터를 남겼는데, 이는 지구상 가장 북쪽에 있는 인류 흔적 가운데 하나다.",
+    "zh": "约公元前2400年，独立一号文化的小群体定居在格陵兰最北端的皮里地和独立峡湾地区。他们在极地荒漠中靠猎取麝牛和海豹为生，留下了中央设有火塘的椭圆形帐篷圈，是地球上最北的人类遗迹之一。",
+    "ja": "紀元前2400年頃、インデペンデンスI文化の小集団がグリーンランド最北部のピアリーランドとインデペンデンス・フィヨルド地域に住み着いた。極地の砂漠でジャコウウシやアザラシを狩って暮らした彼らは、中央に炉を持つ楕円形のテントリングを残しており、地球上で最も北にある人類の痕跡の一つとなっている。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Early Dorset groups follow the Saqqaq",
+    "ko": "사카크 이후의 초기 도싯 집단",
+    "zh": "萨卡克之后的早期多塞特群体",
+    "ja": "サカクに続く前期ドーセット集団"
+   },
+   "description": {
+    "en": "As the Saqqaq culture faded around 800 BC, Paleo-Inuit groups related to the early Dorset traditions of Arctic Canada appeared in parts of western and eastern Greenland. Their settlements were fewer and smaller, and by about the turn of the era they too had vanished from the record.",
+    "ko": "기원전 800년경 사카크 문화가 쇠퇴하자 캐나다 북극권의 초기 도싯 전통과 관련된 고이누이트 집단이 그린란드 서부와 동부 일부에 나타났다. 이들의 정착지는 더 적고 작았으며, 기원 전후 무렵에는 이들 역시 기록에서 사라졌다.",
+    "zh": "约公元前800年萨卡克文化衰落时，与加拿大北极地区早期多塞特传统相关的古因纽特群体出现在格陵兰西部和东部的部分地区。他们的聚落更少也更小，约在公元纪元前后，他们也从考古记录中消失了。",
+    "ja": "紀元前800年頃にサカク文化が衰えると、カナダ北極圏の前期ドーセット伝統と関わる古イヌイット集団がグリーンランド西部と東部の一部に現れた。集落はより少なく小さく、紀元前後には彼らも記録から消えた。"
+   }
+  },
+  {
+   "year": -700,
+   "qid": "Q2268108",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Independence II culture in the northeast",
+    "ko": "북동부의 인디펜던스 II 문화",
+    "zh": "东北部的独立二号文化",
+    "ja": "北東部のインデペンデンスII文化"
+   },
+   "description": {
+    "en": "From about 700 BC a new wave of Paleo-Inuit, the Independence II culture, occupied the coasts on both sides of Independence Fjord in northeastern Greenland. They lived there until roughly 80 BC, using tools similar to early Dorset types.",
+    "ko": "기원전 700년경부터 새로운 고이누이트 집단인 인디펜던스 II 문화가 그린란드 북동부 인디펜던스 피오르 양안의 해안에 살았다. 이들은 초기 도싯 유형과 비슷한 도구를 쓰며 대략 기원전 80년경까지 그곳에 머물렀다.",
+    "zh": "约从公元前700年起，新一波古因纽特人即独立二号文化占据了格陵兰东北部独立峡湾两岸的海岸。他们使用与早期多塞特类型相似的工具，在那里一直生活到约公元前80年。",
+    "ja": "紀元前700年頃から、新たな古イヌイットの波であるインデペンデンスII文化がグリーンランド北東部のインデペンデンス・フィヨルド両岸に住んだ。前期ドーセット型に似た道具を用い、紀元前80年頃までそこで暮らした。"
+   }
+  },
+  {
+   "year": 800,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Late Dorset people enter northwestern Greenland",
+    "ko": "후기 도싯인, 그린란드 북서부에 진입",
+    "zh": "晚期多塞特人进入格陵兰西北部",
+    "ja": "後期ドーセット人がグリーンランド北西部へ"
+   },
+   "description": {
+    "en": "Around the 8th to 9th centuries, after a long period with few traces of people, Late Dorset hunters from Arctic Canada settled the Smith Sound region of northwestern Greenland and later parts of the northeast. Known for delicate ivory carvings, they were the last Paleo-Inuit in Greenland and disappeared soon after the Thule Inuit arrived.",
+    "ko": "사람의 흔적이 드문 오랜 시기가 지난 뒤 8~9세기 무렵, 캐나다 북극권의 후기 도싯 수렵민이 그린란드 북서부 스미스 해협 일대와 이후 북동부 일부에 정착했다. 섬세한 상아 조각으로 유명한 이들은 그린란드의 마지막 고이누이트였으며, 툴레 이누이트가 도래한 직후 사라졌다.",
+    "zh": "在长时间几乎没有人类痕迹之后，约8至9世纪，来自加拿大北极地区的晚期多塞特狩猎者定居于格陵兰西北部史密斯海峡一带，后又到达东北部部分地区。他们以精致的象牙雕刻闻名，是格陵兰最后的古因纽特人，在图勒因纽特人到来后不久便消失了。",
+    "ja": "人の痕跡が乏しい長い時期を経て、8〜9世紀頃、カナダ北極圏の後期ドーセット狩猟民がグリーンランド北西部のスミス海峡周辺に、のちに北東部の一部にも住み着いた。繊細な象牙彫刻で知られる彼らはグリーンランド最後の古イヌイットで、チューレ・イヌイットの到来後まもなく姿を消した。"
+   }
+  },
+  {
+   "year": 982,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Erik the Red explores Greenland in exile",
+    "ko": "추방된 붉은 에이리크의 그린란드 탐사",
+    "zh": "被放逐的红发埃里克探索格陵兰",
+    "ja": "追放された赤毛のエイリークのグリーンランド探検"
+   },
+   "description": {
+    "en": "According to the Icelandic sagas, Erik the Red was outlawed from Iceland for three years around 982 and spent his exile exploring the fjords of southwestern Greenland, a land earlier sighted by Gunnbjörn Ulfsson. On his return he promoted the new country to settlers.",
+    "ko": "아이슬란드 사가에 따르면 붉은 에이리크는 982년경 살인 사건으로 3년간 아이슬란드에서 추방되었고, 앞서 군비외르든 울프손이 목격했던 땅인 그린란드 남서부의 피오르를 탐사하며 그 기간을 보냈다. 돌아온 그는 이 새 땅을 정착민에게 널리 알렸다.",
+    "zh": "据冰岛萨迦记载，红发埃里克约在982年因杀人被逐出冰岛三年，他利用流放期间探索了格陵兰西南部的峡湾，这片土地此前已被贡比约恩·乌尔夫松望见。回国后他向移民大力宣传这片新土地。",
+    "ja": "アイスランドのサガによれば、赤毛のエイリークは982年頃に殺人の罪で3年間アイスランドから追放され、その間、以前グンビョルン・ウルフソンが目撃していたグリーンランド南西部のフィヨルドを探検した。帰還後、彼はこの新天地を入植者たちに盛んに宣伝した。"
+   }
+  },
+  {
+   "year": 985,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Erik the Red founds the Norse settlements",
+    "ko": "붉은 에이리크의 노르드인 정착",
+    "zh": "红发埃里克建立北欧人定居点",
+    "ja": "赤毛のエイリークによる入植"
+   },
+   "description": {
+    "en": "Around 985, by saga tradition, Erik the Red led a fleet of settlers from Iceland to Greenland, choosing the name to attract colonists. They founded the Eastern Settlement around Erik's farm at Brattahlid and the Western Settlement near today's Nuuk. The Norse colony would last for more than four centuries.",
+    "ko": "사가의 전승에 따르면 985년경 붉은 에이리크는 이주민을 끌어들이려 '푸른 땅'이라는 이름을 붙이고 아이슬란드에서 정착민 선단을 이끌고 그린란드로 왔다. 이들은 에이리크의 농장 브라타흘리드를 중심으로 동부 정착지를, 오늘날 누크 근처에 서부 정착지를 세웠다. 노르드인 식민지는 4세기 넘게 존속했다.",
+    "zh": "按照萨迦传统，约985年红发埃里克率领一支移民船队从冰岛来到格陵兰，并以“绿色之地”之名吸引移民。他们以埃里克的布拉塔赫利德农庄为中心建立东定居点，又在今努克附近建立西定居点。北欧人殖民地延续了四个多世纪。",
+    "ja": "サガの伝承によれば、985年頃、赤毛のエイリークは入植者を引きつけるため「緑の地」と名づけ、アイスランドから移民船団を率いてグリーンランドに渡った。彼らはエイリークの農場ブラッタフリーズを中心に東入植地を、現在のヌーク近くに西入植地を築いた。ノルド人の植民地は4世紀以上続いた。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Christianity and the voyages to Vinland",
+    "ko": "기독교 전래와 빈란드 항해",
+    "zh": "基督教传入与文兰航行",
+    "ja": "キリスト教の伝来とヴィンランド航海"
+   },
+   "description": {
+    "en": "Around 1000, according to the sagas, Leif Erikson, Erik the Red's son, sailed from Greenland to lands he called Vinland on the North American coast, a voyage confirmed by the Norse site at L'Anse aux Meadows in Newfoundland. In the same period Christianity reached Norse Greenland, and a small early church associated with Erik's wife Thjodhild was built at Brattahlid.",
+    "ko": "사가에 따르면 1000년경 붉은 에이리크의 아들 레이프 에이릭손은 그린란드에서 출항해 북아메리카 해안에 있는 그가 빈란드라고 부른 땅에 다다랐으며, 이 항해는 뉴펀들랜드의 랑스 오 메도즈 노르드인 유적으로 뒷받침된다. 같은 무렵 기독교가 노르드인 그린란드에 전해져, 브라타흘리드에 에이리크의 아내 티오드힐드와 관련된 작은 초기 교회가 세워졌다.",
+    "zh": "据萨迦记载，约1000年，红发埃里克之子莱夫·埃里克松从格陵兰出发，抵达北美海岸一片他称为“文兰”的土地，纽芬兰的兰塞奥兹牧草地北欧遗址证实了这次航行。同一时期基督教传入北欧人的格陵兰，布拉塔赫利德建起一座与埃里克之妻约希尔德有关的小型早期教堂。",
+    "ja": "サガによれば、1000年頃、赤毛のエイリークの息子レイフ・エリクソンはグリーンランドから出航し、北アメリカ沿岸の彼がヴィンランドと呼んだ土地に到達した。この航海はニューファンドランドのランス・オ・メドーのノルド人遺跡によって裏付けられている。同じ頃キリスト教がノルド人のグリーンランドに伝わり、ブラッタフリーズにはエイリークの妻ショーズヒルドゆかりの小さな初期教会が建てられた。"
+   }
+  },
+  {
+   "year": 1126,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Bishopric of Gardar established",
+    "ko": "가르다르 주교좌 설치",
+    "zh": "加达主教座设立",
+    "ja": "ガルザル司教座の設置"
+   },
+   "description": {
+    "en": "In the 1120s the Norse Greenlanders obtained their own bishop, and Arnaldur, the first resident bishop, arrived at Gardar (today's Igaliku) around 1126. The cathedral seat linked the colony to the Church in Norway and Rome, and tithes were paid partly in walrus ivory.",
+    "ko": "1120년대에 그린란드의 노르드인은 독자적인 주교를 얻었고, 첫 상주 주교 아르날두르가 1126년경 가르다르(오늘날 이갈리쿠)에 도착했다. 주교좌는 식민지를 노르웨이와 로마 교회에 연결했으며, 십일조의 일부는 바다코끼리 상아로 납부되었다.",
+    "zh": "12世纪20年代，格陵兰的北欧人获得了自己的主教，首位驻地主教阿纳尔杜尔约于1126年抵达加达（今伊加利库）。主教座将殖民地与挪威和罗马教会联系起来，什一税部分以海象牙缴纳。",
+    "ja": "1120年代、グリーンランドのノルド人は独自の司教を得て、最初の常駐司教アルナルドゥルが1126年頃ガルザル（現在のイガリク）に着任した。司教座は植民地をノルウェーとローマの教会に結びつけ、十分の一税の一部はセイウチの牙で納められた。"
+   }
+  },
+  {
+   "year": 1200,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Arrival of the Thule Inuit",
+    "ko": "툴레 이누이트의 도래",
+    "zh": "图勒因纽特人的到来",
+    "ja": "チューレ・イヌイットの到来"
+   },
+   "description": {
+    "en": "Around the 13th century the Thule people, ancestors of today's Greenlandic Inuit, crossed from Arctic Canada into northwestern Greenland. Equipped with dog sleds, kayaks, large skin boats and advanced harpoons for whaling, they spread south along both coasts and eventually met the Norse in the southwest.",
+    "ko": "13세기 무렵 오늘날 그린란드 이누이트의 조상인 툴레인이 캐나다 북극권에서 그린란드 북서부로 건너왔다. 개썰매와 카약, 큰 가죽배, 고래잡이용 정교한 작살을 갖춘 이들은 양쪽 해안을 따라 남하했고, 마침내 남서부에서 노르드인과 마주쳤다.",
+    "zh": "约13世纪，今日格陵兰因纽特人的祖先图勒人从加拿大北极地区进入格陵兰西北部。他们拥有狗拉雪橇、皮划艇、大型皮船和先进的捕鲸鱼叉，沿两侧海岸南下，最终在西南部与北欧人相遇。",
+    "ja": "13世紀頃、現在のグリーンランド・イヌイットの祖先であるチューレ人がカナダ北極圏からグリーンランド北西部へ渡ってきた。犬ぞりやカヤック、大型の皮舟、捕鯨用の高度な銛を備えた彼らは両岸に沿って南下し、やがて南西部でノルド人と出会った。"
+   }
+  },
+  {
+   "year": 1261,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Norse Greenland submits to Norway",
+    "ko": "노르웨이 왕권에 복속",
+    "zh": "北欧殖民地臣服挪威王室",
+    "ja": "ノルウェー王権への服属"
+   },
+   "description": {
+    "en": "In 1261 the Norse Greenlanders accepted the overlordship of King Haakon IV of Norway, agreeing to pay tribute in return for promised trade. The tie to the Norwegian crown later passed through the Kalmar Union to Denmark-Norway, forming the legal basis of Danish claims to Greenland.",
+    "ko": "1261년 그린란드의 노르드인은 노르웨이 왕 호콘 4세의 종주권을 받아들이고 교역을 보장받는 대가로 공납을 약속했다. 노르웨이 왕권과의 이 연결은 이후 칼마르 동맹을 거쳐 덴마크-노르웨이로 이어져, 그린란드에 대한 덴마크의 권리 주장의 법적 근거가 되었다.",
+    "zh": "1261年，格陵兰的北欧人接受挪威国王哈康四世的宗主权，同意纳贡以换取贸易保障。这种与挪威王室的联系后来经由卡尔马联盟传给丹麦—挪威，成为丹麦主张格陵兰主权的法律依据。",
+    "ja": "1261年、グリーンランドのノルド人はノルウェー王ホーコン4世の宗主権を受け入れ、交易の保証と引き換えに貢納を約束した。ノルウェー王権とのこの結びつきは、のちにカルマル同盟を経てデンマーク＝ノルウェーへ受け継がれ、デンマークによるグリーンランド領有の法的根拠となった。"
+   }
+  },
+  {
+   "year": 1350,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Western Settlement abandoned",
+    "ko": "서부 정착지의 소멸",
+    "zh": "西定居点被废弃",
+    "ja": "西入植地の放棄"
+   },
+   "description": {
+    "en": "By the mid-14th century the Western Settlement near today's Nuuk had been abandoned. The Norwegian cleric Ivar Bardarson later reported that an expedition found farms empty and livestock running wild. Colder climate, declining walrus-ivory trade and other pressures are among the explanations proposed.",
+    "ko": "14세기 중반 무렵 오늘날 누크 근처의 서부 정착지는 버려졌다. 노르웨이 성직자 이바르 바르다르손은 뒤에 원정대가 텅 빈 농장과 야생화된 가축만을 발견했다고 전했다. 한랭화된 기후, 바다코끼리 상아 교역의 쇠퇴 등이 원인으로 제시된다.",
+    "zh": "到14世纪中叶，今努克附近的西定居点已被废弃。挪威神职人员伊瓦尔·巴达尔松后来记述，一支探险队只发现了空无一人的农庄和野化的牲畜。气候变冷、海象牙贸易衰落等都是被提出的原因。",
+    "ja": "14世紀半ばまでに、現在のヌーク近くの西入植地は放棄されていた。ノルウェーの聖職者イーヴァル・バールダルソンは、のちに調査隊が無人の農場と野生化した家畜を見つけたと伝えている。寒冷化や象牙交易の衰退などが原因として挙げられている。"
+   }
+  },
+  {
+   "year": 1408,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Wedding at Hvalsey: last written record",
+    "ko": "흐발세이 교회의 결혼식, 마지막 기록",
+    "zh": "赫瓦尔塞教堂婚礼：最后的文字记载",
+    "ja": "フヴァルセー教会の結婚式、最後の記録"
+   },
+   "description": {
+    "en": "In September 1408 the Icelanders Thorstein Olafsson and Sigrid Bjornsdottir were married at Hvalsey church in the Eastern Settlement. Letters documenting the wedding are the last surviving written record of the Norse Greenlanders, whose stone church at Hvalsey still stands.",
+    "ko": "1408년 9월 아이슬란드인 토르스테인 올라프손과 시그리드 비외른스도티르가 동부 정착지의 흐발세이 교회에서 결혼했다. 이 결혼을 증명하는 서한은 그린란드 노르드인에 관한 현존 마지막 문자 기록이며, 흐발세이의 석조 교회는 지금도 남아 있다.",
+    "zh": "1408年9月，冰岛人托尔斯泰因·奥拉夫松与西格丽德·比约恩斯多蒂尔在东定居点的赫瓦尔塞教堂成婚。记载这场婚礼的信件是格陵兰北欧人现存最后的文字记录，赫瓦尔塞的石砌教堂至今仍在。",
+    "ja": "1408年9月、アイスランド人のソルステイン・オーラフソンとシグリーズ・ビョルンスドッティルが東入植地のフヴァルセー教会で結婚した。この結婚を証する書簡はグリーンランドのノルド人に関する現存最後の文字記録であり、フヴァルセーの石造教会は今も残っている。"
+   }
+  },
+  {
+   "year": 1450,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Disappearance of the Norse colonies",
+    "ko": "노르드인 정착지의 소멸",
+    "zh": "北欧殖民地的消亡",
+    "ja": "ノルド人入植地の消滅"
+   },
+   "description": {
+    "en": "The Eastern Settlement died out around the middle of the 15th century, probably through a combination of the cooling Little Ice Age, isolation as ships from Norway stopped coming, falling demand for walrus ivory and emigration. The Inuit, better adapted to Arctic conditions, remained the island's only inhabitants.",
+    "ko": "동부 정착지는 15세기 중반 무렵 소멸했는데, 소빙기의 한랭화, 노르웨이 선박의 왕래 단절에 따른 고립, 바다코끼리 상아 수요 감소, 이주 등이 복합적으로 작용했을 것으로 보인다. 북극 환경에 더 잘 적응한 이누이트가 섬의 유일한 주민으로 남았다.",
+    "zh": "东定居点约在15世纪中叶消亡，原因可能是小冰期降温、挪威船只不再前来导致的孤立、海象牙需求下降以及人口外迁等因素的叠加。更适应北极环境的因纽特人成为岛上唯一的居民。",
+    "ja": "東入植地は15世紀半ば頃に消滅した。小氷期の寒冷化、ノルウェーからの船が途絶えたことによる孤立、セイウチ象牙の需要減少、移住などが重なったとみられる。北極の環境により適応したイヌイットが島の唯一の住民として残った。"
+   }
+  },
+  {
+   "year": 1585,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "John Davis explores the west coast",
+    "ko": "존 데이비스의 서해안 탐사",
+    "zh": "约翰·戴维斯探索西海岸",
+    "ja": "ジョン・デイヴィスの西岸探検"
+   },
+   "description": {
+    "en": "Searching for a Northwest Passage, the English navigator John Davis reached Greenland's west coast in 1585 and returned in the following two years, meeting Inuit near today's Nuuk. The strait between Greenland and Baffin Island now bears his name. His voyages followed Martin Frobisher's sighting of Greenland in 1576.",
+    "ko": "북서항로를 찾던 영국 항해가 존 데이비스는 1585년 그린란드 서해안에 이르렀고 이후 두 해 동안 다시 찾아와 오늘날 누크 근처에서 이누이트와 만났다. 그린란드와 배핀섬 사이의 해협은 그의 이름을 따 데이비스 해협이라 불린다. 그의 항해는 1576년 마틴 프로비셔가 그린란드를 목격한 뒤에 이루어졌다.",
+    "zh": "为寻找西北航道，英国航海家约翰·戴维斯于1585年抵达格陵兰西海岸，并在随后两年再次前来，在今努克附近与因纽特人相遇。格陵兰与巴芬岛之间的海峡因此被称为戴维斯海峡。他的航行晚于1576年马丁·弗罗比舍望见格陵兰。",
+    "ja": "北西航路を探していたイングランドの航海者ジョン・デイヴィスは1585年にグリーンランド西岸に達し、その後2年続けて再訪して現在のヌーク付近でイヌイットと出会った。グリーンランドとバフィン島の間の海峡は彼の名からデイヴィス海峡と呼ばれる。彼の航海は1576年のマーティン・フロビッシャーによるグリーンランド目撃に続くものだった。"
+   }
+  },
+  {
+   "year": 1605,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Christian IV's Greenland expeditions",
+    "ko": "크리스티안 4세의 그린란드 원정",
+    "zh": "克里斯蒂安四世的格陵兰远征",
+    "ja": "クリスチャン4世のグリーンランド遠征"
+   },
+   "description": {
+    "en": "King Christian IV of Denmark-Norway sent expeditions to Greenland in 1605, 1606 and 1607 to search for the lost Norse colonists and reassert the crown's old claim. They found no Norse survivors, and some Inuit were taken back to Copenhagen, but the voyages kept the Danish-Norwegian claim alive.",
+    "ko": "덴마크-노르웨이의 크리스티안 4세는 사라진 노르드인 정착민을 찾고 왕실의 옛 권리를 재확인하기 위해 1605·1606·1607년 그린란드에 원정대를 보냈다. 노르드인 생존자는 찾지 못했고 일부 이누이트가 코펜하겐으로 끌려갔지만, 이 원정으로 덴마크-노르웨이의 영유권 주장은 유지되었다.",
+    "zh": "丹麦—挪威国王克里斯蒂安四世于1605、1606和1607年派遣远征队前往格陵兰，寻找失踪的北欧移民并重申王室的旧有主张。远征队没有找到北欧人幸存者，还把一些因纽特人带回哥本哈根，但这些航行使丹麦—挪威的主权主张得以延续。",
+    "ja": "デンマーク＝ノルウェー王クリスチャン4世は、行方不明のノルド人入植者を探し王室の古い権利を再確認するため、1605年・1606年・1607年にグリーンランドへ遠征隊を送った。ノルド人の生存者は見つからず、一部のイヌイットがコペンハーゲンへ連れ去られたが、これらの航海によってデンマーク＝ノルウェーの領有主張は保たれた。"
+   }
+  },
+  {
+   "year": 1721,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Hans Egede and Danish colonization",
+    "ko": "한스 에게데와 덴마크 식민화",
+    "zh": "汉斯·埃格德与丹麦殖民",
+    "ja": "ハンス・エーゲデとデンマークの植民地化"
+   },
+   "description": {
+    "en": "In 1721 the Norwegian Lutheran missionary Hans Egede landed near present-day Nuuk, hoping to find Norse descendants. Finding only Inuit, he began a mission among them, learned Greenlandic and started a trading venture backed by the Danish-Norwegian crown. His arrival marks the start of Danish colonial rule and the Christianization of Greenland.",
+    "ko": "1721년 노르웨이의 루터교 선교사 한스 에게데는 노르드인 후손을 찾으려는 희망을 품고 오늘날 누크 근처에 상륙했다. 이누이트만 있음을 알게 된 그는 그들을 대상으로 선교를 시작하고 그린란드어를 배웠으며, 덴마크-노르웨이 왕실의 후원을 받는 교역 사업을 열었다. 그의 도착은 덴마크 식민 통치와 그린란드 기독교화의 출발점이 되었다.",
+    "zh": "1721年，挪威路德宗传教士汉斯·埃格德希望寻找北欧人后裔，在今努克附近登陆。他发现这里只有因纽特人，便开始向他们传教，学习格陵兰语，并在丹麦—挪威王室支持下开展贸易。他的到来标志着丹麦殖民统治和格陵兰基督教化的开端。",
+    "ja": "1721年、ノルウェーのルター派宣教師ハンス・エーゲデは、ノルド人の子孫を見つけることを望んで現在のヌーク近くに上陸した。そこにイヌイットしかいないと知ると、彼は彼らへの布教を始めてグリーンランド語を学び、デンマーク＝ノルウェー王室の後援を受けた交易事業を始めた。彼の到着はデンマークの植民地支配とグリーンランドのキリスト教化の始まりとされる。"
+   }
+  },
+  {
+   "year": 1728,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Godthåb (Nuuk)",
+    "ko": "고트호브(누크) 건설",
+    "zh": "戈特霍布（努克）建立",
+    "ja": "ゴットホープ（ヌーク）の建設"
+   },
+   "description": {
+    "en": "In 1728 a royal expedition under Claus Paarss moved Egede's mission to a new site, founding the colony of Godthåb, today's capital Nuuk. A plan to build a fort and settle soldiers and colonists largely failed, but Godthåb became the administrative center of the west coast.",
+    "ko": "1728년 클라우스 파르스가 이끈 왕실 원정대가 에게데의 선교 거점을 새 장소로 옮겨 오늘날의 수도 누크인 고트호브 식민지를 세웠다. 요새를 짓고 군인과 이주민을 정착시키려던 계획은 대부분 실패했지만, 고트호브는 서해안의 행정 중심지가 되었다.",
+    "zh": "1728年，克劳斯·帕尔斯率领的王室远征队把埃格德的传教点迁往新址，建立了戈特霍布殖民地，即今天的首府努克。修建要塞、安置士兵和移民的计划大多失败，但戈特霍布成为西海岸的行政中心。",
+    "ja": "1728年、クラウス・パースの率いる王室遠征隊がエーゲデの伝道拠点を新たな場所に移し、現在の首都ヌークであるゴットホープ植民地を建設した。要塞を築き兵士や移民を定住させる計画はほぼ失敗したが、ゴットホープは西岸の行政の中心となった。"
+   }
+  },
+  {
+   "year": 1733,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Moravian mission and the smallpox epidemic",
+    "ko": "모라비아 선교회와 천연두 유행",
+    "zh": "摩拉维亚传教团与天花流行",
+    "ja": "モラヴィア兄弟団の伝道と天然痘の流行"
+   },
+   "description": {
+    "en": "In 1733 missionaries of the Moravian Church arrived and founded the station of Neu-Herrnhut near Godthåb, beginning a long rivalry with the Lutheran mission. The same year a Greenlander returning from Copenhagen brought smallpox, and the epidemic of 1733-1734 killed a large share of the Inuit population around the colony.",
+    "ko": "1733년 모라비아 교회 선교사들이 도착해 고트호브 근처에 노이헤른후트 선교 거점을 세우면서 루터교 선교회와 오랜 경쟁이 시작되었다. 같은 해 코펜하겐에서 돌아온 그린란드인이 천연두를 옮겨, 1733~1734년의 유행으로 식민지 주변 이누이트 인구의 상당수가 목숨을 잃었다.",
+    "zh": "1733年，摩拉维亚教会的传教士抵达并在戈特霍布附近建立新赫恩胡特传教站，由此与路德宗传教团展开长期竞争。同年一名从哥本哈根返回的格陵兰人带来天花，1733至1734年的疫情夺去了殖民地周边大量因纽特人的生命。",
+    "ja": "1733年、モラヴィア兄弟団の宣教師が到着してゴットホープ近くにノイヘルンフート伝道所を設け、ルター派伝道との長い競合が始まった。同じ年、コペンハーゲンから戻ったグリーンランド人が天然痘を持ち込み、1733〜1734年の流行で植民地周辺のイヌイット人口の大きな部分が失われた。"
+   }
+  },
+  {
+   "year": 1776,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Royal Greenland Trade monopoly",
+    "ko": "왕립 그린란드 무역회사의 독점",
+    "zh": "皇家格陵兰贸易公司的垄断",
+    "ja": "王立グリーンランド商事会社の独占"
+   },
+   "description": {
+    "en": "In 1776 the Danish state's Royal Greenland Trade (KGH) was granted a monopoly on all trade with Greenland. For nearly two centuries it bought seal blubber and skins and supplied goods, while the colony was kept closed to foreign ships and most outsiders. The monopoly shaped Greenland's economy and isolation until after the Second World War.",
+    "ko": "1776년 덴마크 국영 왕립 그린란드 무역회사(KGH)가 그린란드와의 모든 교역에 대한 독점권을 얻었다. 이 회사는 약 두 세기 동안 바다표범 기름과 가죽을 사들이고 물품을 공급했으며, 식민지는 외국 선박과 대부분의 외부인에게 닫혀 있었다. 이 독점은 제2차 세계대전 이후까지 그린란드의 경제와 고립을 규정했다.",
+    "zh": "1776年，丹麦国营的皇家格陵兰贸易公司获得与格陵兰一切贸易的垄断权。在近两个世纪里，它收购海豹油脂和毛皮并供应商品，殖民地则对外国船只和大多数外来者关闭。这一垄断直到第二次世界大战之后一直塑造着格陵兰的经济和封闭状态。",
+    "ja": "1776年、デンマーク国営の王立グリーンランド商事会社（KGH）がグリーンランドとの全交易の独占権を得た。同社はほぼ2世紀にわたりアザラシの脂肪や毛皮を買い付け物資を供給し、植民地は外国船や大半の部外者に閉ざされた。この独占は第二次世界大戦後までグリーンランドの経済と孤立を形づくった。"
+   }
+  },
+  {
+   "year": 1814,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Kiel: Greenland stays with Denmark",
+    "ko": "킬 조약, 덴마크령으로 남다",
+    "zh": "《基尔条约》：格陵兰归属丹麦",
+    "ja": "キール条約とデンマーク領としての存続"
+   },
+   "description": {
+    "en": "When Denmark ceded Norway to Sweden in the Treaty of Kiel after the Napoleonic Wars, Greenland, Iceland and the Faroe Islands, historically Norwegian dependencies, remained under the Danish crown. Norway later disputed this outcome for parts of Greenland, leading to the case decided in 1933.",
+    "ko": "나폴레옹 전쟁 후 킬 조약으로 덴마크가 노르웨이를 스웨덴에 넘겨줄 때, 역사적으로 노르웨이의 속령이던 그린란드와 아이슬란드, 페로 제도는 덴마크 왕권 아래 남았다. 노르웨이는 뒤에 그린란드 일부에 대해 이 결과에 이의를 제기했고, 이는 1933년 판결로 이어졌다.",
+    "zh": "拿破仑战争后，丹麦根据《基尔条约》将挪威割让给瑞典，而历史上属于挪威的格陵兰、冰岛和法罗群岛则继续归丹麦王室所有。挪威后来对格陵兰部分地区的这一结果提出异议，最终导致1933年的判决。",
+    "ja": "ナポレオン戦争後のキール条約でデンマークがノルウェーをスウェーデンに割譲した際、歴史的にノルウェーの属領だったグリーンランド、アイスランド、フェロー諸島はデンマーク王権下に残った。ノルウェーはのちにグリーンランドの一部についてこの結果に異議を唱え、1933年の判決につながった。"
+   }
+  },
+  {
+   "year": 1818,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "John Ross meets the Inughuit",
+    "ko": "존 로스와 이누구이트의 만남",
+    "zh": "约翰·罗斯与伊努古伊特人相遇",
+    "ja": "ジョン・ロスとイヌグイトの出会い"
+   },
+   "description": {
+    "en": "In 1818 a British naval expedition under John Ross encountered the Inughuit (Polar Inuit) of the Thule region in far northwestern Greenland, the northernmost people in the world. They had lived for generations without contact with other Inuit groups, and the meeting began their long relationship with European whalers and explorers.",
+    "ko": "1818년 존 로스가 이끈 영국 해군 원정대가 그린란드 극북서부 툴레 지역의 이누구이트(극지 이누이트)와 마주쳤다. 세계 최북단의 주민인 이들은 여러 세대 동안 다른 이누이트 집단과 접촉 없이 살아왔으며, 이 만남으로 유럽 포경선원·탐험가와의 오랜 관계가 시작되었다.",
+    "zh": "1818年，约翰·罗斯率领的英国海军探险队在格陵兰极西北的图勒地区遇到了伊努古伊特人（极地因纽特人），他们是世界上居住最北的民族。他们数代与其他因纽特群体隔绝，这次相遇开启了他们与欧洲捕鲸者和探险家的长期往来。",
+    "ja": "1818年、ジョン・ロス率いるイギリス海軍の探検隊が、グリーンランド最北西部チューレ地方のイヌグイト（極地イヌイット）と出会った。世界最北の住民である彼らは何世代も他のイヌイット集団と接触せずに暮らしており、この出会いがヨーロッパの捕鯨者や探検家との長い関わりの始まりとなった。"
+   }
+  },
+  {
+   "year": 1861,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "First Greenlandic newspaper, Atuagagdliutit",
+    "ko": "최초의 그린란드어 신문 「아투아가그들리우티트」",
+    "zh": "第一份格陵兰语报纸《阿图阿加格德利乌蒂特》",
+    "ja": "初のグリーンランド語新聞「アトゥアガグドリウティト」"
+   },
+   "description": {
+    "en": "In 1861 the Danish administrator and scientist Hinrich Rink launched Atuagagdliutit, a Greenlandic-language newspaper illustrated by Greenlandic artists. Together with Rink's local councils of Greenlanders, it helped create a reading public and a sense of shared Greenlandic identity. The paper still exists today.",
+    "ko": "1861년 덴마크인 행정관이자 과학자인 힌리크 링크가 그린란드 화가들의 삽화를 실은 그린란드어 신문 「아투아가그들리우티트」를 창간했다. 링크가 만든 그린란드인 지방 협의회와 함께 이 신문은 독자층과 그린란드인 공동체 의식을 형성하는 데 기여했으며, 지금도 발행되고 있다.",
+    "zh": "1861年，丹麦行政官兼科学家欣里希·林克创办了由格陵兰画家配插图的格陵兰语报纸《阿图阿加格德利乌蒂特》。它与林克设立的格陵兰人地方议事会一道，培育了读者群体和共同的格陵兰认同。该报至今仍在发行。",
+    "ja": "1861年、デンマーク人の行政官で科学者のヒンリク・リンクが、グリーンランド人画家の挿絵入りのグリーンランド語新聞「アトゥアガグドリウティト」を創刊した。リンクが設けたグリーンランド人の地方評議会とともに、新聞は読者層と共通のグリーンランド人意識を育てた。同紙は現在も発行されている。"
+   }
+  },
+  {
+   "year": 1884,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Contact with the Inuit of East Greenland",
+    "ko": "동그린란드 이누이트와의 접촉",
+    "zh": "与东格陵兰因纽特人的接触",
+    "ja": "東グリーンランドのイヌイットとの接触"
+   },
+   "description": {
+    "en": "In 1884 the Danish naval officer Gustav Holm, travelling by umiak along the ice-bound east coast, reached the Ammassalik region and met its Inuit, who had lived largely isolated from Europeans. A Danish mission and trading station followed at Tasiilaq in 1894, bringing East Greenland into the colony.",
+    "ko": "1884년 덴마크 해군 장교 구스타브 홀름은 우미악을 타고 얼음에 갇힌 동해안을 따라 암마살리크 지역에 이르러, 유럽인과 거의 단절되어 살아온 그곳 이누이트를 만났다. 1894년 타실라크에 덴마크 선교·교역 거점이 세워지며 동그린란드도 식민지에 편입되었다.",
+    "zh": "1884年，丹麦海军军官古斯塔夫·霍尔姆乘乌米亚克皮船沿冰封的东海岸航行，抵达阿马萨利克地区，见到了基本与欧洲人隔绝的当地因纽特人。1894年丹麦在塔西拉克设立传教站和贸易站，东格陵兰由此并入殖民地。",
+    "ja": "1884年、デンマーク海軍士官グスタフ・ホルムはウミアクで氷に閉ざされた東岸を進み、アマサリク地方に到達して、ヨーロッパ人とほとんど接触なく暮らしてきたイヌイットと出会った。1894年にタシーラクにデンマークの伝道・交易拠点が置かれ、東グリーンランドも植民地に組み込まれた。"
+   }
+  },
+  {
+   "year": 1888,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Nansen's first crossing of the ice sheet",
+    "ko": "난센의 첫 빙상 횡단",
+    "zh": "南森首次横越冰盖",
+    "ja": "ナンセンによる初の氷床横断"
+   },
+   "description": {
+    "en": "In 1888 the Norwegian explorer Fridtjof Nansen and five companions made the first known crossing of the Greenland ice sheet on skis, travelling from the east coast to the west and arriving at Godthåb. The expedition proved the interior was a continuous ice cap and made Nansen famous.",
+    "ko": "1888년 노르웨이 탐험가 프리드쇼프 난센과 일행 다섯 명이 스키를 타고 동해안에서 서해안으로 그린란드 빙상을 처음 횡단해 고트호브에 도착했다. 이 원정은 내륙이 하나로 이어진 빙관임을 증명했고 난센을 유명하게 만들었다.",
+    "zh": "1888年，挪威探险家弗里乔夫·南森与五名同伴踩着滑雪板，从东海岸到西海岸首次横越格陵兰冰盖，最终抵达戈特霍布。这次探险证明内陆是一整块连续的冰盖，也使南森声名大噪。",
+    "ja": "1888年、ノルウェーの探検家フリチョフ・ナンセンと5人の仲間はスキーで東岸から西岸へと初めてグリーンランド氷床を横断し、ゴットホープに到着した。この遠征は内陸が連続した氷帽であることを示し、ナンセンを一躍有名にした。"
+   }
+  },
+  {
+   "year": 1910,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Knud Rasmussen founds the Thule station",
+    "ko": "크누드 라스무센의 툴레 교역소 설립",
+    "zh": "克努兹·拉斯穆森建立图勒贸易站",
+    "ja": "クヌート・ラスムッセンのチューレ交易所設立"
+   },
+   "description": {
+    "en": "In 1910 the Greenland-born explorer Knud Rasmussen and Peter Freuchen founded a trading station in the Inughuit region of the far northwest, naming it Thule. Its profits financed the Thule expeditions, including the Fifth Thule Expedition of 1921-1924 that crossed Arctic North America and documented Inuit culture.",
+    "ko": "1910년 그린란드 태생 탐험가 크누드 라스무센과 페테르 프로이헨은 극북서부 이누구이트 지역에 교역소를 세우고 툴레라고 이름 붙였다. 그 수익은 북아메리카 북극권을 횡단하며 이누이트 문화를 기록한 1921~1924년 제5차 툴레 원정을 비롯한 툴레 원정의 자금이 되었다.",
+    "zh": "1910年，出生于格陵兰的探险家克努兹·拉斯穆森与彼得·弗罗伊兴在极西北的伊努古伊特人地区建立贸易站，命名为图勒。其利润资助了历次图勒探险，包括1921至1924年横穿北美北极地区、记录因纽特文化的第五次图勒探险。",
+    "ja": "1910年、グリーンランド生まれの探検家クヌート・ラスムッセンとペーター・フロイヘンは、最北西部のイヌグイトの地に交易所を設けチューレと名づけた。その収益は、北アメリカ北極圏を横断してイヌイット文化を記録した1921〜1924年の第5次チューレ探検をはじめとする探検の資金となった。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "United States recognizes Danish claims",
+    "ko": "미국, 덴마크의 그린란드 권리 인정",
+    "zh": "美国承认丹麦对格陵兰的主张",
+    "ja": "アメリカがデンマークの権利を承認"
+   },
+   "description": {
+    "en": "When Denmark agreed in 1916 to sell the Danish West Indies to the United States, the US government declared that it would not object to Denmark extending its political and economic interests to the whole of Greenland. The declaration removed a potential rival claim based on American Arctic exploration.",
+    "ko": "1916년 덴마크가 덴마크령 서인도 제도를 미국에 매각하기로 합의하면서, 미국 정부는 덴마크가 그린란드 전역으로 정치·경제적 이익을 확장하는 데 반대하지 않겠다고 선언했다. 이 선언으로 미국의 북극 탐험에 근거한 잠재적 경쟁 주장이 사라졌다.",
+    "zh": "1916年丹麦同意将丹属西印度群岛出售给美国时，美国政府宣布不反对丹麦将其政治和经济利益扩展到整个格陵兰。这一声明消除了基于美国北极探险而可能提出的竞争性主张。",
+    "ja": "1916年にデンマークがデンマーク領西インド諸島をアメリカに売却することに合意した際、アメリカ政府はデンマークが政治的・経済的利益をグリーンランド全域に広げることに異議を唱えないと宣言した。これにより、アメリカの北極探検に基づく潜在的な対抗主張が取り除かれた。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": "Q1319457",
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Alfred Wegener and the Eismitte station",
+    "ko": "알프레트 베게너와 아이스미테 기지",
+    "zh": "阿尔弗雷德·魏格纳与冰盖中心站",
+    "ja": "アルフレート・ヴェーゲナーとアイスミッテ基地"
+   },
+   "description": {
+    "en": "In 1930-1931 a German expedition led by Alfred Wegener, the scientist known for continental drift theory, maintained Eismitte, a research station in the center of the ice sheet, recording winter weather and ice thickness. Wegener died on the ice in November 1930 while returning from a supply journey to the station.",
+    "ko": "1930~1931년 대륙 이동설로 유명한 과학자 알프레트 베게너가 이끈 독일 원정대는 빙상 한가운데에 연구 기지 아이스미테를 운영하며 겨울 기상과 얼음 두께를 기록했다. 베게너는 1930년 11월 기지에 보급품을 전달하고 돌아오던 길에 빙상 위에서 숨졌다.",
+    "zh": "1930至1931年，以大陆漂移学说闻名的科学家阿尔弗雷德·魏格纳率领德国探险队，在冰盖中心设立“冰盖中心站”，记录冬季气象和冰层厚度。1930年11月，魏格纳在为该站运送补给后返回途中死于冰原。",
+    "ja": "1930〜1931年、大陸移動説で知られる科学者アルフレート・ヴェーゲナー率いるドイツの遠征隊は、氷床の中央に研究基地アイスミッテを設け、冬の気象や氷の厚さを観測した。ヴェーゲナーは1930年11月、基地への補給の帰途に氷上で亡くなった。"
+   }
+  },
+  {
+   "year": 1933,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "World Court confirms Danish sovereignty",
+    "ko": "국제재판소, 덴마크 주권 확인",
+    "zh": "国际法院确认丹麦主权",
+    "ja": "国際司法によるデンマーク主権の確認"
+   },
+   "description": {
+    "en": "In 1931 Norwegian hunters, backed by their government, proclaimed a stretch of uninhabited East Greenland as Erik the Red's Land. In April 1933 the Permanent Court of International Justice ruled that Denmark held sovereignty over all of Greenland, and Norway accepted the judgment.",
+    "ko": "1931년 노르웨이 사냥꾼들이 자국 정부의 지지를 받아 사람이 살지 않는 동그린란드 일부를 '붉은 에이리크의 땅'으로 선포했다. 1933년 4월 상설국제사법재판소는 덴마크가 그린란드 전체에 대한 주권을 가진다고 판결했고, 노르웨이는 판결을 수용했다.",
+    "zh": "1931年，挪威猎人在本国政府支持下宣布东格陵兰一片无人地带为“红发埃里克之地”。1933年4月，常设国际法院裁定丹麦对整个格陵兰拥有主权，挪威接受了这一判决。",
+    "ja": "1931年、ノルウェーの猟師たちが政府の後押しを受け、東グリーンランドの無人地帯を「赤毛のエイリークの地」と宣言した。1933年4月、常設国際司法裁判所はデンマークがグリーンランド全体の主権を持つと判決し、ノルウェーはこれを受け入れた。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Wartime agreement with the United States",
+    "ko": "제2차 세계대전과 미국의 방위 협정",
+    "zh": "二战期间与美国的协定",
+    "ja": "第二次世界大戦とアメリカとの防衛協定"
+   },
+   "description": {
+    "en": "With Denmark under German occupation, the Danish envoy in Washington, Henrik Kauffmann, signed an agreement on 9 April 1941 placing Greenland under US protection, without the approval of the government in Copenhagen. The United States built airfields such as Bluie West One at Narsarsuaq and weather stations, and Greenland's cryolite mine supplied the Allied aluminum industry.",
+    "ko": "덴마크가 독일 점령하에 있던 1941년 4월 9일, 워싱턴 주재 덴마크 공사 헨리크 카우프만은 코펜하겐 정부의 승인 없이 그린란드를 미국의 보호 아래 두는 협정에 서명했다. 미국은 나르사르수아크의 블루이 웨스트 원 같은 비행장과 기상 관측소를 지었고, 그린란드의 빙정석 광산은 연합국 알루미늄 산업에 원료를 공급했다.",
+    "zh": "在丹麦被德国占领期间，丹麦驻华盛顿公使亨里克·考夫曼于1941年4月9日未经哥本哈根政府批准，签署协定将格陵兰置于美国保护之下。美国在纳萨尔苏瓦克修建了“蓝西一号”等机场和气象站，格陵兰的冰晶石矿则为盟国铝工业提供原料。",
+    "ja": "デンマークがドイツ占領下にあった1941年4月9日、ワシントン駐在のデンマーク公使ヘンリク・カウフマンは、コペンハーゲン政府の承認なしにグリーンランドをアメリカの保護下に置く協定に署名した。アメリカはナルサルスアークのブルーイ・ウェスト・ワンなどの飛行場や気象観測所を建設し、グリーンランドの氷晶石鉱山は連合国のアルミニウム産業に原料を供給した。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "US offer to buy Greenland",
+    "ko": "미국의 그린란드 매입 제안",
+    "zh": "美国提出购买格陵兰",
+    "ja": "アメリカによるグリーンランド買収の提案"
+   },
+   "description": {
+    "en": "In 1946 the Truman administration secretly offered Denmark 100 million dollars in gold for Greenland, reflecting the island's new strategic value at the start of the Cold War. Denmark declined, but the episode foreshadowed lasting American military interest in the island.",
+    "ko": "1946년 트루먼 행정부는 냉전 초입에 새롭게 부각된 섬의 전략적 가치를 반영해 덴마크에 금 1억 달러로 그린란드를 사겠다고 비밀리에 제안했다. 덴마크는 거절했지만, 이 일은 섬에 대한 미국의 지속적인 군사적 관심을 예고했다.",
+    "zh": "1946年，杜鲁门政府秘密提出以价值1亿美元的黄金向丹麦购买格陵兰，反映出冷战伊始该岛新的战略价值。丹麦拒绝了，但此事预示了美国对该岛长期的军事兴趣。",
+    "ja": "1946年、トルーマン政権は冷戦の始まりに伴う島の新たな戦略的価値を背景に、金1億ドルでグリーンランドを買い取ることをデンマークに秘密裏に提案した。デンマークは拒否したが、この出来事は島に対するアメリカの長期的な軍事的関心を予告するものだった。"
+   }
+  },
+  {
+   "year": 1951,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Defense agreement and Thule Air Base",
+    "ko": "방위 협정과 툴레 공군기지",
+    "zh": "防务协定与图勒空军基地",
+    "ja": "防衛協定とチューレ空軍基地"
+   },
+   "description": {
+    "en": "After Denmark joined NATO, a 1951 defense agreement allowed the United States to maintain bases in Greenland. In a vast secret construction effort the US built Thule Air Base in the far northwest in 1951-1953, which became a key site for bombers and later for ballistic-missile early warning radar.",
+    "ko": "덴마크가 나토에 가입한 뒤 1951년 방위 협정으로 미국은 그린란드에 기지를 유지할 수 있게 되었다. 미국은 1951~1953년 대규모 비밀 공사로 극북서부에 툴레 공군기지를 건설했으며, 이곳은 폭격기 기지이자 이후 탄도미사일 조기경보 레이더의 핵심 거점이 되었다.",
+    "zh": "丹麦加入北约后，1951年的防务协定允许美国在格陵兰维持基地。1951至1953年，美国通过大规模秘密工程在极西北修建图勒空军基地，该基地成为轰炸机的重要据点，后来又成为弹道导弹预警雷达的关键站点。",
+    "ja": "デンマークのNATO加盟後、1951年の防衛協定によりアメリカはグリーンランドに基地を維持できるようになった。アメリカは1951〜1953年に大規模な秘密工事で最北西部にチューレ空軍基地を建設し、ここは爆撃機の拠点、のちには弾道ミサイル早期警戒レーダーの要衝となった。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Colonial status abolished",
+    "ko": "식민지 지위 폐지",
+    "zh": "殖民地地位的终结",
+    "ja": "植民地としての地位の廃止"
+   },
+   "description": {
+    "en": "Denmark's new constitution of 5 June 1953 ended Greenland's status as a colony and made it an integral county of the Kingdom, with two seats in the Folketing. The change came as Denmark faced UN scrutiny of non-self-governing territories, and it launched an era of rapid, Danish-led modernization.",
+    "ko": "1953년 6월 5일 덴마크의 새 헌법은 그린란드의 식민지 지위를 끝내고 덴마크 의회에 두 석을 가진 왕국의 한 주로 편입했다. 이 변화는 덴마크가 비자치지역에 대한 유엔의 감시를 받던 상황에서 이루어졌으며, 덴마크 주도의 급속한 근대화 시대를 열었다.",
+    "zh": "1953年6月5日丹麦新宪法终结了格陵兰的殖民地地位，使其成为王国的一个组成郡，在丹麦议会拥有两个议席。这一变化发生在丹麦面临联合国对非自治领土审查之际，并开启了由丹麦主导的快速现代化时代。",
+    "ja": "1953年6月5日のデンマーク新憲法はグリーンランドの植民地としての地位を終わらせ、国会に2議席を持つ王国の一県とした。この変化はデンマークが非自治地域をめぐる国連の監視を受ける中で行われ、デンマーク主導の急速な近代化の時代を開いた。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Relocation of the Inughuit to Qaanaaq",
+    "ko": "이누구이트의 카나크 강제 이주",
+    "zh": "伊努古伊特人被迁往卡纳克",
+    "ja": "イヌグイトのカナックへの移住"
+   },
+   "description": {
+    "en": "In 1953, as Thule Air Base expanded, Danish authorities moved the Inughuit community of Uummannaq near the base to a new settlement at Qaanaaq, more than 100 kilometers to the north, on short notice. Decades later Danish courts found the relocation to have been unlawful and awarded compensation, and the Danish government apologized.",
+    "ko": "1953년 툴레 공군기지가 확장되자 덴마크 당국은 기지 근처 우마나크의 이누구이트 공동체를 짧은 통보만으로 100km 이상 북쪽의 새 정착지 카나크로 옮겼다. 수십 년 뒤 덴마크 법원은 이 이주를 불법으로 판단하고 보상을 명령했으며, 덴마크 정부는 사과했다.",
+    "zh": "1953年，随着图勒空军基地扩建，丹麦当局在短时间通知后，将基地附近乌马纳克的伊努古伊特社区迁往以北一百多公里的新定居点卡纳克。数十年后，丹麦法院认定此次搬迁违法并判予赔偿，丹麦政府也作出道歉。",
+    "ja": "1953年、チューレ空軍基地の拡張に伴い、デンマーク当局は基地近くのウマナックに住むイヌグイトの共同体を、短い通告で100キロ以上北の新集落カナックへ移した。数十年後、デンマークの裁判所はこの移住を違法と判断して補償を命じ、デンマーク政府は謝罪した。"
+   }
+  },
+  {
+   "year": 1966,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Coil (IUD) campaign begins",
+    "ko": "자궁 내 피임장치(코일) 캠페인 시작",
+    "zh": "宫内节育器（“线圈”）运动开始",
+    "ja": "子宮内避妊具（コイル）キャンペーンの開始"
+   },
+   "description": {
+    "en": "From the mid-1960s into the 1970s, Danish health authorities fitted intrauterine devices to thousands of Greenlandic women and girls to curb population growth, in many cases without informed consent. The campaign became widely known only in 2022, prompting a joint Danish-Greenlandic investigation and lawsuits by affected women.",
+    "ko": "1960년대 중반부터 1970년대까지 덴마크 보건 당국은 인구 증가를 억제하려고 수천 명의 그린란드 여성과 소녀에게 자궁 내 피임장치를 삽입했으며, 많은 경우 충분한 설명에 근거한 동의가 없었다. 이 캠페인은 2022년에야 널리 알려져 덴마크와 그린란드의 공동 조사와 피해 여성들의 소송으로 이어졌다.",
+    "zh": "从20世纪60年代中期到70年代，丹麦卫生当局为抑制人口增长，给数千名格陵兰妇女和少女放置宫内节育器，许多情况下未经知情同意。这一运动直到2022年才广为人知，促成了丹麦与格陵兰的联合调查以及受害妇女的诉讼。",
+    "ja": "1960年代半ばから1970年代にかけて、デンマークの保健当局は人口増加を抑えるため、数千人のグリーンランドの女性や少女に子宮内避妊具を装着し、その多くは十分な説明に基づく同意を欠いていた。この施策は2022年になって広く知られ、デンマークとグリーンランドの合同調査や被害女性による訴訟につながった。"
+   }
+  },
+  {
+   "year": 1968,
+   "qid": "Q346847",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Thule B-52 nuclear accident",
+    "ko": "툴레 B-52 핵폭탄 탑재기 추락 사고",
+    "zh": "图勒B-52核事故",
+    "ja": "チューレ空軍基地B-52墜落事故"
+   },
+   "description": {
+    "en": "On 21 January 1968 a US Air Force B-52 bomber carrying four hydrogen bombs crashed onto the sea ice near Thule Air Base. The conventional explosives detonated without a nuclear explosion, spreading radioactive contamination that required a large clean-up involving Greenlandic and Danish workers. The accident later revealed tensions with Denmark's official nuclear-free policy.",
+    "ko": "1968년 1월 21일 수소폭탄 네 발을 실은 미 공군 B-52 폭격기가 툴레 공군기지 근처 해빙 위에 추락했다. 핵폭발은 없었으나 재래식 기폭 장약이 폭발해 방사성 물질이 퍼졌고, 그린란드인과 덴마크인 노동자가 참여한 대규모 정화 작업이 필요했다. 이 사고는 훗날 덴마크의 공식 비핵 정책과의 모순을 드러냈다.",
+    "zh": "1968年1月21日，一架携带四枚氢弹的美国空军B-52轰炸机坠毁在图勒空军基地附近的海冰上。常规炸药引爆但未发生核爆炸，放射性物质随之扩散，需要格陵兰和丹麦工人参与大规模清理。此事故后来暴露了与丹麦官方无核政策之间的矛盾。",
+    "ja": "1968年1月21日、水素爆弾4発を搭載したアメリカ空軍のB-52爆撃機がチューレ空軍基地近くの海氷上に墜落した。核爆発は起きなかったが通常爆薬が爆発して放射性物質が飛散し、グリーンランド人とデンマーク人の作業員による大規模な除染が必要となった。この事故は後に、デンマークの公式な非核政策との矛盾を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": "Q1639009",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Joining the European Communities against its will",
+    "ko": "반대에도 유럽공동체 가입",
+    "zh": "违背意愿加入欧洲共同体",
+    "ja": "反対多数のまま欧州共同体へ"
+   },
+   "description": {
+    "en": "In the 1972 Danish referendum on joining the European Communities, a clear majority of Greenlanders voted no, but because Greenland was then part of Denmark it entered the EC with Denmark in 1973. Resentment over European control of fishing waters fueled the push for home rule.",
+    "ko": "1972년 유럽공동체 가입을 묻는 덴마크 국민투표에서 그린란드 유권자 다수가 반대했지만, 당시 덴마크의 일부였던 그린란드는 1973년 덴마크와 함께 유럽공동체에 들어갔다. 어장에 대한 유럽의 통제에 대한 반감은 자치 요구를 부채질했다.",
+    "zh": "在1972年丹麦关于加入欧洲共同体的公投中，格陵兰选民多数投了反对票，但由于格陵兰当时是丹麦的一部分，仍于1973年随丹麦加入欧共体。对欧洲控制其渔业水域的不满推动了自治诉求。",
+    "ja": "1972年の欧州共同体加盟を問うデンマークの国民投票で、グリーンランドの有権者は明確な多数で反対したが、当時デンマークの一部だったため1973年にデンマークとともにECに加盟した。漁業水域をヨーロッパが管理することへの反発が自治要求を後押しした。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q5604241",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Home Rule established",
+    "ko": "자치정부(홈룰) 수립",
+    "zh": "实行地方自治",
+    "ja": "自治政府（ホームルール）の発足"
+   },
+   "description": {
+    "en": "After a referendum in January 1979 approved Home Rule, Greenland gained its own parliament and government on 1 May 1979, taking over most domestic affairs from Copenhagen. Jonathan Motzfeldt of the Siumut party became the first premier, and Greenlandic place names such as Nuuk came into official use.",
+    "ko": "1979년 1월 주민투표로 홈룰이 승인된 뒤, 그린란드는 1979년 5월 1일 자체 의회와 정부를 갖추고 코펜하겐으로부터 대부분의 내정을 넘겨받았다. 시우무트당의 요나탄 모츠펠트가 초대 총리가 되었고, 누크 같은 그린란드어 지명이 공식적으로 쓰이기 시작했다.",
+    "zh": "1979年1月公投批准地方自治后，格陵兰于1979年5月1日拥有了自己的议会和政府，从哥本哈根接管大部分内政。前进党的乔纳森·莫茨费尔特成为首任总理，努克等格陵兰语地名开始正式使用。",
+    "ja": "1979年1月の住民投票でホームルールが承認され、グリーンランドは1979年5月1日に独自の議会と政府を持ち、コペンハーゲンからほとんどの内政を引き継いだ。シウムット党のヨナタン・モッツフェルトが初代首相となり、ヌークなどのグリーンランド語地名が公式に使われるようになった。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": "Q3931599",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Referendum to leave the European Communities",
+    "ko": "유럽공동체 탈퇴 주민투표",
+    "zh": "退出欧洲共同体的公投",
+    "ja": "欧州共同体離脱の住民投票"
+   },
+   "description": {
+    "en": "In February 1982 Greenlanders voted narrowly to leave the European Communities, mainly to regain control over their fisheries. The vote opened negotiations that led to Greenland's withdrawal three years later.",
+    "ko": "1982년 2월 그린란드 주민들은 주로 어업 통제권을 되찾기 위해 근소한 차이로 유럽공동체 탈퇴를 결정했다. 이 투표로 협상이 시작되어 3년 뒤 그린란드의 탈퇴로 이어졌다.",
+    "zh": "1982年2月，格陵兰人以微弱多数投票决定退出欧洲共同体，主要是为了重新掌控本地渔业。此次投票开启了谈判，三年后格陵兰正式退出。",
+    "ja": "1982年2月、グリーンランドの住民は主に漁業の管理権を取り戻すため、僅差で欧州共同体からの離脱を決めた。この投票を機に交渉が始まり、3年後の離脱につながった。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": "Q24191955",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Withdrawal from the European Communities",
+    "ko": "유럽공동체 탈퇴",
+    "zh": "退出欧洲共同体",
+    "ja": "欧州共同体からの離脱"
+   },
+   "description": {
+    "en": "On 1 February 1985 Greenland became the first territory to leave the European Communities, while remaining part of the Danish Realm. It became an associated overseas country and territory and concluded a fisheries agreement with the EC, a precedent often cited in later debates about leaving the EU.",
+    "ko": "1985년 2월 1일 그린란드는 덴마크 왕국의 일부로 남은 채 유럽공동체를 떠난 최초의 영토가 되었다. 그린란드는 해외 국가·영토(OCT)로서 연합 관계를 맺고 유럽공동체와 어업 협정을 체결했으며, 이는 훗날 EU 탈퇴 논의에서 자주 언급되는 선례가 되었다.",
+    "zh": "1985年2月1日，格陵兰在仍属丹麦王国的情况下，成为第一个退出欧洲共同体的领土。它转为联系海外国家和领地，并与欧共体签订渔业协定，这一先例在后来关于退出欧盟的讨论中常被提及。",
+    "ja": "1985年2月1日、グリーンランドはデンマーク王国の一部にとどまりつつ、欧州共同体を離脱した最初の領域となった。海外国・領域として連合関係を結び、ECと漁業協定を締結したこの例は、のちのEU離脱をめぐる議論でしばしば引き合いに出された。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Greenland adopts its own flag",
+    "ko": "그린란드 국기 채택",
+    "zh": "格陵兰采用自己的旗帜",
+    "ja": "グリーンランド旗の採用"
+   },
+   "description": {
+    "en": "On 21 June 1985 Greenland adopted its own flag, designed by Thue Christiansen: a red and white disc on a bicolor field, evoking the sun over the ice and sea. Known in Greenlandic as Erfalasorput, it became a key symbol of national identity.",
+    "ko": "1985년 6월 21일 그린란드는 투에 크리스티안센이 디자인한 고유의 국기를 채택했다. 흰색과 빨간색의 두 띠 위에 빨강·흰색 원을 둔 이 깃발은 얼음과 바다 위의 해를 떠올리게 한다. 그린란드어로 '에르팔라소르푸트'라 불리며 민족 정체성의 핵심 상징이 되었다.",
+    "zh": "1985年6月21日，格陵兰采用由图厄·克里斯蒂安森设计的旗帜：在白红双色底上置一红白圆盘，象征冰海之上的太阳。这面旗在格陵兰语中称为“埃尔法拉索尔普特”，成为民族认同的重要象征。",
+    "ja": "1985年6月21日、グリーンランドはトゥーエ・クリスチャンセンがデザインした独自の旗を採用した。白と赤の二色の地に赤白の円を配し、氷と海の上の太陽を思わせる。グリーンランド語で「エアファラソルプト」と呼ばれ、民族的アイデンティティの重要な象徴となった。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ilulissat Icefjord becomes World Heritage",
+    "ko": "일루리사트 아이스피오르, 세계유산 등재",
+    "zh": "伊卢利萨特冰峡湾列入世界遗产",
+    "ja": "イルリサット・アイスフィヨルドが世界遺産に"
+   },
+   "description": {
+    "en": "In 2004 the Ilulissat Icefjord, where the fast-flowing Sermeq Kujalleq glacier calves huge icebergs into Disko Bay, was inscribed on the UNESCO World Heritage List. The site became a focus of research and tourism linked to the retreat of the Greenland ice sheet.",
+    "ko": "2004년 빠르게 흐르는 세르메크 쿠잘레크 빙하가 디스코만으로 거대한 빙산을 쏟아내는 일루리사트 아이스피오르가 유네스코 세계유산에 등재되었다. 이곳은 그린란드 빙상의 후퇴와 관련된 연구와 관광의 중심지가 되었다.",
+    "zh": "2004年，快速流动的瑟梅克库亚莱克冰川向迪斯科湾崩解出巨大冰山的伊卢利萨特冰峡湾被列入联合国教科文组织世界遗产名录。该地成为与格陵兰冰盖退缩相关的研究和旅游重点。",
+    "ja": "2004年、流れの速いセルメク・クジャレク氷河がディスコ湾へ巨大な氷山を分離させるイルリサット・アイスフィヨルドが、ユネスコ世界遺産に登録された。この地はグリーンランド氷床の後退に関わる研究と観光の拠点となった。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q1777483",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Arctic Ocean Conference and Ilulissat Declaration",
+    "ko": "북극해 회의와 일루리사트 선언",
+    "zh": "北冰洋会议与《伊卢利萨特宣言》",
+    "ja": "北極海会議とイルリサット宣言"
+   },
+   "description": {
+    "en": "In May 2008 ministers of the five Arctic Ocean coastal states, Canada, Denmark, Norway, Russia and the United States, met in Ilulissat. Their Ilulissat Declaration affirmed that the law of the sea would govern claims in the Arctic Ocean and that they would settle overlapping claims in an orderly way.",
+    "ko": "2008년 5월 북극해 연안 5개국인 캐나다·덴마크·노르웨이·러시아·미국의 장관들이 일루리사트에 모였다. 이들의 일루리사트 선언은 북극해에 대한 권리 주장에 해양법이 적용되며 중첩되는 주장을 질서 있게 해결하겠다고 확인했다.",
+    "zh": "2008年5月，北冰洋沿岸五国加拿大、丹麦、挪威、俄罗斯和美国的部长在伊卢利萨特会晤。会上通过的《伊卢利萨特宣言》确认北冰洋的权利主张受海洋法规范，各方将有序解决重叠主张。",
+    "ja": "2008年5月、北極海沿岸5か国（カナダ、デンマーク、ノルウェー、ロシア、アメリカ）の閣僚がイルリサットに集まった。採択されたイルリサット宣言は、北極海の権利主張には海洋法が適用され、重複する主張を秩序立てて解決することを確認した。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q153052",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Self-government referendum",
+    "ko": "확대 자치 주민투표",
+    "zh": "扩大自治公投",
+    "ja": "自治拡大の住民投票"
+   },
+   "description": {
+    "en": "In November 2008 about three-quarters of Greenlandic voters approved a plan for expanded self-government negotiated with Denmark. It transferred more powers, gave Greenland revenue from its mineral resources and set out a procedure by which Greenland could choose independence.",
+    "ko": "2008년 11월 그린란드 유권자의 약 4분의 3이 덴마크와 협상한 확대 자치안을 승인했다. 이 안은 더 많은 권한을 이양하고 광물 자원 수입을 그린란드에 귀속시켰으며, 그린란드가 독립을 선택할 수 있는 절차를 마련했다.",
+    "zh": "2008年11月，约四分之三的格陵兰选民批准了与丹麦谈判达成的扩大自治方案。该方案移交了更多权力，使格陵兰获得矿产资源收入，并规定了格陵兰选择独立的程序。",
+    "ja": "2008年11月、グリーンランドの有権者の約4分の3が、デンマークと交渉した自治拡大案を承認した。これにより権限の移譲が進み、鉱物資源の収入がグリーンランドに帰属し、独立を選択するための手続きが定められた。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Self-Government Act takes effect",
+    "ko": "확대 자치(자치정부법) 발효",
+    "zh": "扩大自治法生效",
+    "ja": "自治拡大法の施行"
+   },
+   "description": {
+    "en": "On 21 June 2009, Greenland's national day, the Self-Government Act came into force. It recognized Greenlanders as a people under international law, made Greenlandic the sole official language and allowed Greenland to assume control of policing, courts and natural resources, while opening a path toward possible independence.",
+    "ko": "그린란드의 국경일인 2009년 6월 21일 자치정부법이 발효되었다. 이 법은 그린란드인을 국제법상 하나의 인민으로 인정하고 그린란드어를 유일한 공용어로 정했으며, 경찰·사법·천연자원 관할을 넘겨받을 수 있게 하는 동시에 독립 가능성으로 가는 길을 열었다.",
+    "zh": "2009年6月21日即格陵兰国庆日，《自治法》正式生效。它承认格陵兰人是国际法意义上的民族，将格陵兰语定为唯一官方语言，允许格陵兰接管警察、司法和自然资源事务，同时为可能的独立开辟了道路。",
+    "ja": "グリーンランドの国民の祝日である2009年6月21日、自治法が施行された。同法はグリーンランド人を国際法上の人民と認め、グリーンランド語を唯一の公用語とし、警察・司法・天然資源の管轄を引き継げるようにするとともに、将来の独立への道を開いた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Kujataa inscribed as World Heritage",
+    "ko": "쿠야타, 세계유산 등재",
+    "zh": "库雅塔列入世界遗产",
+    "ja": "クヤータが世界遺産に"
+   },
+   "description": {
+    "en": "In 2017 Kujataa, a subarctic farming landscape in southern Greenland, was inscribed on the UNESCO World Heritage List. It preserves Norse ruins such as Brattahlid, Gardar and Hvalsey alongside Inuit hunting traditions and modern sheep farming, illustrating the earliest farming in the Arctic. In 2018 the Inuit hunting landscape of Aasivissuit-Nipisat was also inscribed.",
+    "ko": "2017년 그린란드 남부의 아북극 농경 경관인 쿠야타가 유네스코 세계유산에 등재되었다. 이곳에는 브라타흘리드, 가르다르, 흐발세이 같은 노르드인 유적과 이누이트의 수렵 전통, 현대의 양 목축이 함께 남아 북극권 최초의 농경을 보여 준다. 2018년에는 이누이트 수렵 경관인 아시비수이트-니피사트도 등재되었다.",
+    "zh": "2017年，格陵兰南部的亚北极农耕景观库雅塔被列入联合国教科文组织世界遗产名录。这里保存着布拉塔赫利德、加达、赫瓦尔塞等北欧遗址，以及因纽特狩猎传统和现代养羊业，展现了北极地区最早的农耕。2018年，因纽特狩猎景观阿西维苏伊特—尼皮萨特也被列入。",
+    "ja": "2017年、グリーンランド南部の亜北極農耕景観クヤータがユネスコ世界遺産に登録された。ブラッタフリーズ、ガルザル、フヴァルセーなどのノルド人遺跡とイヌイットの狩猟伝統、現代の牧羊が共存し、北極圏最初の農耕を伝えている。2018年にはイヌイットの狩猟景観アシヴィスイト＝ニピサットも登録された。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q86750805",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "US president floats buying Greenland",
+    "ko": "미국 대통령의 그린란드 매입 구상",
+    "zh": "美国总统提出购买格陵兰",
+    "ja": "アメリカ大統領によるグリーンランド買収構想"
+   },
+   "description": {
+    "en": "In August 2019 US President Donald Trump confirmed his interest in purchasing Greenland. Greenland's and Denmark's governments replied that the island was not for sale, and Trump called off a planned state visit to Denmark. He revived the idea more forcefully after returning to office in 2025, prompting firm rejections from Nuuk and Copenhagen.",
+    "ko": "2019년 8월 도널드 트럼프 미국 대통령은 그린란드 매입에 관심이 있다고 확인했다. 그린란드와 덴마크 정부는 섬은 팔 물건이 아니라고 답했고, 트럼프는 예정되었던 덴마크 국빈 방문을 취소했다. 그는 2025년 재집권 후 이 구상을 더 강하게 다시 꺼냈고, 누크와 코펜하겐은 단호히 거부했다.",
+    "zh": "2019年8月，美国总统唐纳德·特朗普证实有意购买格陵兰。格陵兰和丹麦政府回应称该岛不卖，特朗普随即取消了原定对丹麦的国事访问。2025年再次执政后，他更强硬地重提此议，遭到努克和哥本哈根的坚决拒绝。",
+    "ja": "2019年8月、アメリカのドナルド・トランプ大統領はグリーンランド購入に関心があることを認めた。グリーンランドとデンマークの政府は島は売り物ではないと応じ、トランプは予定していたデンマーク公式訪問を取りやめた。2025年の政権復帰後、彼はこの構想をより強く持ち出し、ヌークとコペンハーゲンは断固拒否した。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Election halts uranium mining",
+    "ko": "선거 결과와 우라늄 채굴 중단",
+    "zh": "选举叫停铀矿开采",
+    "ja": "選挙とウラン採掘の停止"
+   },
+   "description": {
+    "en": "In the April 2021 snap election the left-wing Inuit Ataqatigiit party, campaigning against the Kvanefjeld rare-earth and uranium project near Narsaq, won the most votes, and Múte B. Egede became premier. Later that year parliament passed a law banning uranium mining and exploration, effectively blocking the project.",
+    "ko": "2021년 4월 조기 총선에서 나르사크 근처의 크바네피엘 희토류·우라늄 사업에 반대한 좌파 정당 이누이트 아타카티기트가 최다 득표를 했고, 무테 B. 에게데가 총리가 되었다. 그해 말 의회는 우라늄 채굴과 탐사를 금지하는 법을 통과시켜 사실상 이 사업을 막았다.",
+    "zh": "在2021年4月的提前选举中，反对纳尔萨克附近克瓦内山稀土和铀矿项目的左翼政党因纽特人共同体党得票最多，穆特·B·埃格德出任总理。同年晚些时候议会通过禁止铀矿开采和勘探的法律，实际上阻止了该项目。",
+    "ja": "2021年4月の解散総選挙で、ナルサック近郊のクヴァーネフィエルド・レアアース・ウラン開発に反対した左派政党イヌイット・アタカティギートが最多得票を得て、ムーテ・B・エーゲデが首相となった。同年後半、議会はウランの採掘と探査を禁止する法律を可決し、事業は事実上阻止された。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Thule Air Base renamed Pituffik Space Base",
+    "ko": "툴레 공군기지, 피투피크 우주기지로 개칭",
+    "zh": "图勒空军基地更名为皮图菲克太空基地",
+    "ja": "チューレ空軍基地がピトゥフィク宇宙基地に改称"
+   },
+   "description": {
+    "en": "In April 2023 the US military renamed Thule Air Base as Pituffik Space Base, adopting the Greenlandic name of the site. The renaming reflected the base's role in missile warning and space surveillance and a wish to acknowledge Greenlandic heritage.",
+    "ko": "2023년 4월 미군은 툴레 공군기지를 그 장소의 그린란드어 이름을 딴 피투피크 우주기지로 개칭했다. 이는 기지의 미사일 경보·우주 감시 역할과 그린란드의 유산을 존중하려는 뜻을 반영한 것이었다.",
+    "zh": "2023年4月，美军将图勒空军基地更名为皮图菲克太空基地，采用了该地的格陵兰语名称。此举反映了该基地在导弹预警和太空监视方面的作用，也体现出对格陵兰文化遗产的尊重。",
+    "ja": "2023年4月、アメリカ軍はチューレ空軍基地を、その土地のグリーンランド語名を用いたピトゥフィク宇宙基地に改称した。基地のミサイル警戒・宇宙監視の役割と、グリーンランドの遺産に敬意を示す意図を反映したものだった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Nuuk's new international airport opens",
+    "ko": "누크 신국제공항 개항",
+    "zh": "努克新国际机场启用",
+    "ja": "ヌーク新国際空港の開港"
+   },
+   "description": {
+    "en": "In November 2024 a new airport with a longer runway opened in Nuuk, allowing direct jet flights to the capital for the first time. Previously most international travelers had to transfer at Kangerlussuaq, a former US base far from the main towns. The airport was part of a wider plan to boost tourism and connectivity.",
+    "ko": "2024년 11월 누크에 더 긴 활주로를 갖춘 새 공항이 문을 열어 처음으로 수도에 제트기 직항편이 가능해졌다. 그전까지 대부분의 국제 여행객은 주요 도시에서 멀리 떨어진 옛 미군 기지 캉에를루수아크에서 환승해야 했다. 이 공항은 관광과 연결성을 높이려는 더 큰 계획의 일부였다.",
+    "zh": "2024年11月，努克一座拥有更长跑道的新机场启用，首都首次可以直航喷气式客机。此前大多数国际旅客必须在远离主要城镇的前美军基地康克鲁斯瓦格转机。新机场是促进旅游和交通联系的更大计划的一部分。",
+    "ja": "2024年11月、より長い滑走路を持つ新空港がヌークに開港し、首都へのジェット機の直行便が初めて可能になった。それまで国際線の旅客の多くは、主要な町から遠い旧米軍基地カンゲルルススアークで乗り換える必要があった。新空港は観光と交通の利便性を高める広い計画の一環だった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Demokraatit wins the 2025 election",
+    "ko": "2025년 총선, 데모크라티트 승리",
+    "zh": "民主党赢得2025年选举",
+    "ja": "2025年総選挙で民主党が勝利"
+   },
+   "description": {
+    "en": "In the March 2025 parliamentary election, held amid renewed US pressure to acquire the island, the business-friendly Demokraatit party, which favors a gradual approach to independence, won the most votes. Its leader Jens-Frederik Nielsen became premier at the head of a broad coalition that stressed national unity.",
+    "ko": "미국이 섬 획득 압박을 다시 높이던 가운데 치러진 2025년 3월 총선에서, 점진적 독립을 지향하는 친기업 성향의 데모크라티트당이 최다 득표를 했다. 당 대표 옌스-프레데리크 닐센은 국민 통합을 강조하는 대연정을 이끌며 총리가 되었다.",
+    "zh": "在美国再度施压欲取得该岛之际举行的2025年3月议会选举中，主张渐进走向独立、亲商的民主党得票最多。党首延斯－弗雷德里克·尼尔森出任总理，领导一个强调民族团结的广泛联合政府。",
+    "ja": "アメリカが島の取得に向けて圧力を強める中で行われた2025年3月の議会選挙で、段階的な独立を志向する経済重視の民主党（デモクラーティット）が最多得票を得た。党首イェンス＝フレデリク・ニールセンが、国民の結束を重視する幅広い連立政権を率いて首相に就任した。"
+   }
+  }
+ ]
+}

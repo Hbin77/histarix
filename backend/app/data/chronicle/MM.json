@@ -1,0 +1,2660 @@
+{
+ "iso": "MM",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -1501,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Stone Age of Myanmar",
+    "ko": "미얀마의 석기 시대",
+    "zh": "缅甸石器时代",
+    "ja": "ミャンマーの石器時代"
+   },
+   "summary": {
+    "en": "Hunter-gatherers lived along the Irrawaddy valley and in the limestone caves of the Shan hills, leaving tools of the so-called Anyathian tradition and the cave deposits of Padah-lin. Polished stone tools and early pottery mark a gradual shift toward settled life. Rice farming and domesticated animals spread into the river valleys toward the end of this long period.",
+    "ko": "수렵채집민이 에야와디강 유역과 샨 고원의 석회암 동굴에 살며 이른바 안야트 문화의 석기와 파달린 동굴 유적을 남겼다. 간석기와 초기 토기는 점진적인 정착 생활로의 전환을 보여 준다. 이 긴 시기의 끝 무렵 벼농사와 가축 사육이 강 유역으로 퍼졌다.",
+    "zh": "狩猎采集者生活在伊洛瓦底江流域和掸邦高原的石灰岩洞穴中，留下了所谓安雅特文化的石器和帕达林洞穴遗存。磨制石器和早期陶器标志着人们逐渐走向定居生活。在这一漫长时期的末期，稻作农业和家畜饲养传入河谷地带。",
+    "ja": "狩猟採集民がエーヤワディー川流域やシャン高原の石灰岩洞窟に暮らし、いわゆるアニャティアン文化の石器やパダリン洞窟の遺物を残した。磨製石器や初期の土器は定住生活への緩やかな移行を示す。この長い時代の終わり頃、稲作と家畜飼育が河谷に広がった。"
+   }
+  },
+  {
+   "from": -1500,
+   "to": -501,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bronze Age of the Irrawaddy valley (Nyaunggan)",
+    "ko": "에야와디 유역의 청동기 시대(냐웅간)",
+    "zh": "伊洛瓦底江流域青铜时代（良甘）",
+    "ja": "エーヤワディー流域の青銅器時代（ニャウンガン）"
+   },
+   "summary": {
+    "en": "From around 1500 BC farming communities in central Myanmar began to use bronze, as shown by the cemetery of Nyaunggan near Monywa with its bronze tools, stone ornaments and pottery. Villages grew rice, kept cattle and traded with neighbouring regions of mainland Southeast Asia and Yunnan. These communities formed the background to the later Iron Age cultures of the dry zone.",
+    "ko": "기원전 1500년경부터 미얀마 중부의 농경 공동체는 청동을 쓰기 시작했는데, 모니와 인근 냐웅간 묘지의 청동 도구·석제 장신구·토기가 이를 보여 준다. 마을들은 벼를 재배하고 소를 기르며 동남아시아 본토와 윈난의 인접 지역과 교류했다. 이들은 훗날 건조 지대 철기 문화의 바탕이 되었다.",
+    "zh": "约公元前1500年起，缅甸中部的农耕社群开始使用青铜，蒙育瓦附近良甘墓地出土的青铜工具、石饰和陶器即为明证。村落种植稻米、饲养牛群，并与东南亚大陆及云南的邻近地区交流。这些社群构成了后来干旱地带铁器时代文化的基础。",
+    "ja": "前1500年頃から、ミャンマー中部の農耕集落は青銅を使い始めた。モンユワ近郊ニャウンガンの墓地から出土した青銅器・石製装身具・土器がそれを示す。村々は稲を作り牛を飼い、東南アジア大陸部や雲南の近隣地域と交流した。これらの集団が、のちの乾燥地帯の鉄器文化の土台となった。"
+   }
+  },
+  {
+   "from": -500,
+   "to": -201,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Iron Age Samon Valley culture",
+    "ko": "철기 시대 사몬 계곡 문화",
+    "zh": "铁器时代萨蒙河谷文化",
+    "ja": "鉄器時代のサモン渓谷文化"
+   },
+   "summary": {
+    "en": "In the Samon river valley south of Mandalay, Iron Age communities buried their dead with iron tools, bronze ornaments, glass and stone beads and distinctive pottery, from around the 5th century BC. Beads and other imports show contact with India and China. Social differentiation in these burials foreshadows the rise of the first walled Pyu cities in the same region.",
+    "ko": "만달레이 남쪽 사몬강 유역의 철기 시대 공동체는 기원전 5세기경부터 철기, 청동 장신구, 유리·돌 구슬, 독특한 토기를 무덤에 함께 묻었다. 구슬과 수입품은 인도·중국과의 접촉을 보여 준다. 무덤에 나타난 사회 분화는 같은 지역에서 등장할 최초의 성곽 도시 쀼 국가들을 예고한다.",
+    "zh": "约自公元前5世纪起，曼德勒以南萨蒙河谷的铁器时代社群以铁器、青铜饰品、玻璃珠和石珠以及特色陶器随葬。珠饰等舶来品显示出与印度和中国的接触。墓葬中呈现的社会分化预示着同一地区首批骠人城邑的兴起。",
+    "ja": "マンダレー南方のサモン川流域では、前5世紀頃から鉄器時代の人々が鉄器・青銅の装身具・ガラスや石のビーズ・特徴的な土器を副葬した。ビーズなどの輸入品はインドや中国との接触を示す。墓に見られる社会の階層化は、同じ地域に現れる最初の城壁都市ピューの成立を予告している。"
+   }
+  },
+  {
+   "from": -200,
+   "to": 1050,
+   "kind": "state",
+   "qid": "Q1627675",
+   "polity": "Pyu City-States",
+   "name": {
+    "en": "Pyu city-states",
+    "ko": "쀼 도시국가",
+    "zh": "骠国（骠人城邦）",
+    "ja": "ピュー都市国家群"
+   },
+   "summary": {
+    "en": "The Tibeto-Burman-speaking Pyu built large walled, moated cities such as Beikthano, Halin and Sri Ksetra in the dry zone of the Irrawaddy valley. They adopted Buddhism and Indian scripts, practised irrigated rice farming, and were known to Tang China as Piao. Their cities declined after Nanzhao raids in the 9th century, and the Pyu were absorbed into the Burman Pagan kingdom; three Pyu ancient cities are now a UNESCO World Heritage Site.",
+    "ko": "티베트·버마어계의 쀼족은 에야와디강 유역의 건조 지대에 베익타노, 할린, 스리크셰트라 같은 성벽과 해자를 두른 대도시를 세웠다. 이들은 불교와 인도계 문자를 받아들이고 관개 벼농사를 했으며 당나라에는 '표국'으로 알려졌다. 9세기 남조의 침입 이후 도시들은 쇠퇴했고 쀼족은 버마족의 버간 왕국에 흡수되었으며, 세 고대 쀼 도시는 오늘날 유네스코 세계유산이다.",
+    "zh": "操藏缅语的骠人在伊洛瓦底江干旱地带修建了毗湿奴城（贝克达诺）、汉林、室利差呾罗等筑有城墙和护城河的大城。他们信奉佛教、使用源自印度的文字，从事灌溉稻作，唐朝称之为骠国。9世纪南诏入侵后诸城衰落，骠人逐渐融入缅族的蒲甘王国；三座骠国古城现为联合国教科文组织世界遗产。",
+    "ja": "チベット・ビルマ系のピュー人は、エーヤワディー流域の乾燥地帯にベイタノー、ハリン、シュリークシェートラなど城壁と濠をめぐらした大都市を築いた。仏教とインド系文字を受け入れ、灌漑稲作を営み、唐には「驃国」として知られた。9世紀の南詔の侵攻後に諸都市は衰え、ピュー人はビルマ族のパガン王朝に吸収された。三つのピュー古代都市は現在ユネスコ世界遺産である。"
+   }
+  },
+  {
+   "from": 300,
+   "to": 1057,
+   "kind": "state",
+   "qid": "Q1651832",
+   "polity": null,
+   "name": {
+    "en": "Mon kingdoms of Lower Burma (Thaton)",
+    "ko": "하부 버마의 몬 왕국들(따톤)",
+    "zh": "下缅甸孟人诸国（直通）",
+    "ja": "下ビルマのモン人諸国（タトン）"
+   },
+   "summary": {
+    "en": "Mon-speaking peoples settled the coastal plains of Lower Burma, where Burmese and Mon tradition places the kingdom of Thaton, often identified with the 'Suvannabhumi' of Buddhist legend. Mon centres traded across the Bay of Bengal and were early bearers of Theravada Buddhism. The scale and dates of Thaton are debated by historians, but its conquest by Pagan in 1057 is a central episode of Burmese tradition.",
+    "ko": "몬어를 쓰는 사람들이 하부 버마의 해안 평야에 정착했으며, 버마와 몬의 전승은 이곳에 따톤 왕국을 두고 이를 불교 전설의 '수완나부미'와 동일시하곤 한다. 몬족 중심지들은 벵골만 너머와 교역했고 일찍부터 상좌부 불교를 받아들였다. 따톤의 규모와 연대는 학자들 사이에서 논쟁 중이지만, 1057년 버간에 의한 정복은 버마 전승의 핵심 사건이다.",
+    "zh": "操孟语的人群定居在下缅甸沿海平原，缅族和孟族传统将直通王国置于此地，并常将其视为佛教传说中的“金地”（素万那普）。孟人中心跨越孟加拉湾开展贸易，较早接受了上座部佛教。直通的规模和年代在史学界尚有争议，但1057年被蒲甘征服是缅甸传统中的核心事件。",
+    "ja": "モン語を話す人々が下ビルマの沿岸平野に住み、ビルマとモンの伝承はここにタトン王国を置き、仏教伝説の「スヴァンナブーミ（黄金の地）」と同一視することが多い。モン人の拠点はベンガル湾をまたいで交易し、早くから上座部仏教を受け入れた。タトンの規模や年代には議論があるが、1057年のパガンによる征服はビルマの伝承の中心的な出来事である。"
+   }
+  },
+  {
+   "from": 300,
+   "to": 1429,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early kingdoms of Arakan (Dhanyawadi, Waithali, Lemro)",
+    "ko": "초기 아라칸 왕국들(다냐와디·웨탈리·레므로)",
+    "zh": "早期阿拉干诸国（丹耶瓦底、韦沙里、莱茂河诸城）",
+    "ja": "初期アラカン諸王国（ダニャワディ・ウェタリ・レームロー）"
+   },
+   "summary": {
+    "en": "On the Bay of Bengal coast west of the Arakan Yoma, Indianized kingdoms centred on Dhanyawadi and then Waithali (Vesali) ruled the Kaladan valley, issuing coins and Sanskrit inscriptions. From the 11th century a series of small capitals along the Lemro river, such as Pyinsa, Parein and Launggyet, followed, at times paying tribute to Pagan. These centres laid the foundations of later Rakhine culture and the Mrauk U kingdom.",
+    "ko": "아라칸산맥 서쪽 벵골만 연안에서는 다냐와디, 이어 웨탈리(베살리)를 중심으로 한 인도화된 왕국들이 칼라단강 유역을 다스리며 화폐와 산스크리트 비문을 남겼다. 11세기부터는 레므로강을 따라 핀사, 파레인, 라웅지에 같은 작은 수도들이 이어졌고 때로 버간에 조공했다. 이 중심지들은 훗날 라카인 문화와 므라우우 왕국의 토대가 되었다.",
+    "zh": "在阿拉干山脉以西的孟加拉湾沿岸，以丹耶瓦底及其后的韦沙里为中心的印度化王国统治着加拉丹河谷，铸造钱币并留下梵文碑铭。11世纪起，莱茂河沿岸先后出现宾萨、帕雷因、朗杰等小型都城，有时向蒲甘朝贡。这些中心奠定了后来若开文化和妙乌王国的基础。",
+    "ja": "アラカン山脈の西、ベンガル湾岸では、ダニャワディ、次いでウェタリ（ヴェーサーリー）を中心とするインド化した王国がカラダン川流域を治め、貨幣やサンスクリット碑文を残した。11世紀からはレームロー川沿いにピンサ、パレイン、ラウンジェッなどの小さな都が続き、時にパガンに朝貢した。これらの中心地がのちのラカイン文化とミャウー王国の基礎となった。"
+   }
+  },
+  {
+   "from": 849,
+   "to": 1297,
+   "kind": "state",
+   "qid": "Q888574",
+   "polity": "Pagan Kingdom",
+   "name": {
+    "en": "Pagan Kingdom",
+    "ko": "버간 왕국",
+    "zh": "蒲甘王国",
+    "ja": "パガン王朝"
+   },
+   "summary": {
+    "en": "Burman (Bamar) settlers who entered the Irrawaddy valley in the 9th century built Pagan into the first kingdom to unite most of present-day Myanmar under King Anawrahta (r. 1044–1077). Theravada Buddhism, the Burmese script and a vast irrigated agrarian economy took shape, and over two thousand temples and stupas still stand on the plain of Bagan. Weakened by the growth of tax-exempt religious land and by Mongol invasions, the kingdom fragmented in the late 13th century.",
+    "ko": "9세기 에야와디 유역으로 들어온 버마족(바마족)은 버간을 키워 아노라타 왕(재위 1044~1077) 때 오늘날 미얀마 대부분을 통일한 최초의 왕국을 세웠다. 상좌부 불교, 버마 문자, 대규모 관개 농업 경제가 자리 잡았고, 버간 평원에는 지금도 2천여 기의 사원과 불탑이 남아 있다. 면세 사원 토지의 증가와 몽골 침입으로 약해진 왕국은 13세기 말 분열했다.",
+    "zh": "9世纪进入伊洛瓦底江流域的缅族（巴玛族）将蒲甘发展壮大，在阿奴律陀王（1044—1077年在位）时首次统一了今缅甸大部分地区。上座部佛教、缅文和庞大的灌溉农业经济在此成形，蒲甘平原至今仍矗立着两千多座佛寺和佛塔。由于免税寺院土地膨胀和蒙古入侵，王国在13世纪末分崩离析。",
+    "ja": "9世紀にエーヤワディー流域に入ったビルマ族（バマー）はパガンを発展させ、アノーヤター王（在位1044～1077年）のもとで現在のミャンマーの大半を初めて統一した。上座部仏教、ビルマ文字、大規模な灌漑農業経済が形づくられ、バガン平原には今も二千を超える寺院や仏塔が残る。免税の寺領の膨張とモンゴルの侵攻で弱体化し、13世紀末に分裂した。"
+   }
+  },
+  {
+   "from": 1287,
+   "to": 1539,
+   "kind": "state",
+   "qid": "Q1572529",
+   "polity": "Hanthawaddy Kingdom",
+   "name": {
+    "en": "Hanthawaddy Kingdom (Mon kingdom of Pegu)",
+    "ko": "한타와디 왕국(바고의 몬 왕국)",
+    "zh": "勃固王朝（汉达瓦底）",
+    "ja": "ハンターワディー王国（ペグーのモン王国）"
+   },
+   "summary": {
+    "en": "Founded by Wareru at Martaban in 1287 as Pagan disintegrated, this Mon kingdom ruled the three Mon-speaking provinces of Lower Burma, moving its capital to Pegu (Bago) in 1369. It fought the Forty Years' War against Ava and later prospered from Indian Ocean trade under rulers such as Queen Shin Sawbu and King Dhammazedi. It fell to the Toungoo dynasty in 1539, though Mon revolts revived the name later.",
+    "ko": "버간이 해체되던 1287년 와레루가 마르타반(모타마)에 세운 몬족 왕국으로, 하부 버마의 몬어권 세 지방을 다스렸으며 1369년 수도를 바고(페구)로 옮겼다. 아와와 40년 전쟁을 치렀고, 이후 신소부 여왕과 담마제디 왕 시대에 인도양 교역으로 번영했다. 1539년 따웅우 왕조에 정복되었지만 이후 몬족 봉기로 그 이름이 부활했다.",
+    "zh": "1287年蒲甘瓦解之际，伐丽流在马达班建立了这个孟族王国，统治下缅甸三个孟语地区，1369年迁都勃固。它与阿瓦进行了四十年战争，后在信修浮女王和达摩悉提王时期凭借印度洋贸易而繁荣。1539年被东吁王朝攻灭，但后来孟族起义又复兴了这一国号。",
+    "ja": "パガンが解体する1287年、ワレルがマルタバン（モッタマ）に建てたモン人の王国で、下ビルマのモン語圏三地方を治め、1369年に都をペグー（バゴー）へ移した。アヴァと四十年戦争を戦い、のちシンソープ女王やダンマゼーディー王の時代にインド洋交易で繁栄した。1539年にタウングー朝に滅ぼされたが、その名はのちのモン人の反乱で復活した。"
+   }
+  },
+  {
+   "from": 1287,
+   "to": 1563,
+   "kind": "state",
+   "qid": "Q4765854",
+   "polity": "Shan States",
+   "name": {
+    "en": "Shan states and Mong Mao",
+    "ko": "샨 국가들과 몽마오",
+    "zh": "掸族诸邦与麓川（勐卯）",
+    "ja": "シャン諸国とモン・マオ"
+   },
+   "summary": {
+    "en": "After Pagan's collapse, Tai-speaking Shan rulers (saophas) established numerous principalities across the northern and eastern hills, such as Mohnyin, Mogaung, Hsipaw and Yawnghwe, while the Mong Mao (Luchuan) power on the Yunnan frontier challenged both the Burmese and Ming China. Shan lords raided and at times controlled Upper Burma, culminating in the Confederation of Shan States that held Ava from 1527. Bayinnaung brought most Shan states under Toungoo overlordship in the 1550s, but their hereditary rulers survived until the mid-20th century.",
+    "ko": "버간 붕괴 이후 타이어계 샨족 군주(소파)들이 북부와 동부 산지에 모닌, 모가웅, 시포, 야웅훼 등 수많은 소국을 세웠고, 윈난 변경의 몽마오(녹천) 세력은 버마와 명나라 모두에 도전했다. 샨 영주들은 상부 버마를 침공하고 때로 지배했으며, 1527년에는 샨 연합이 아와를 장악했다. 1550년대 버인나웅이 대부분의 샨 국가를 따웅우의 종주권 아래 두었으나, 세습 군주들은 20세기 중엽까지 존속했다.",
+    "zh": "蒲甘崩溃后，操傣语的掸族土司（召帕）在北部和东部山区建立了孟养、孟拱、昔卜、良瑞等众多邦国，云南边境的麓川（勐卯）势力则同时挑战缅族和明朝。掸族首领屡次侵扰并一度控制上缅甸，1527年掸族联盟攻占阿瓦。16世纪50年代莽应龙使大多数掸邦臣服于东吁，但世袭土司一直延续到20世纪中叶。",
+    "ja": "パガン崩壊後、タイ系のシャン人首長（ソーボワ）が北部・東部の山地にモーニン、モーガウン、シーポー、ヤウンフエなど多数の小国を建て、雲南辺境のモン・マオ（麓川）勢力はビルマと明の双方に挑んだ。シャンの首長たちは上ビルマに侵入し、時に支配し、1527年にはシャン連合がアヴァを握った。1550年代にバインナウンが大半のシャン諸国をタウングーの宗主権下に置いたが、世襲首長は20世紀半ばまで存続した。"
+   }
+  },
+  {
+   "from": 1297,
+   "to": 1313,
+   "kind": "state",
+   "qid": "Q3446205",
+   "polity": "Myinsaing Kingdom",
+   "name": {
+    "en": "Myinsaing Kingdom",
+    "ko": "민사잉 왕국",
+    "zh": "敏象王国",
+    "ja": "ミンザイン王国"
+   },
+   "summary": {
+    "en": "Three brothers of Shan-Burman descent, Athinkhaya, Yazathingyan and Thihathu, became the dominant power in central Burma after Pagan's collapse, ruling from the Kyaukse irrigation district. They deposed the Yuan vassal king Kyawswa in 1297 and withstood a Mongol siege of Myinsaing in 1300–1301. Their joint rule gave way to Thihathu's kingdom of Pinya.",
+    "ko": "샨·버마계 혈통의 세 형제 아틴카야, 야자팅얀, 띠하투는 버간 붕괴 후 짜욱세 관개 지대를 근거로 버마 중부의 지배 세력이 되었다. 이들은 1297년 원나라의 봉신 왕 짜스와를 폐위하고 1300~1301년 몽골군의 민사잉 포위를 버텨 냈다. 이들의 공동 통치는 띠하투의 핀야 왕국으로 이어졌다.",
+    "zh": "具有掸、缅血统的三兄弟阿散哥也、耶娑丁坚和僧哥速在蒲甘崩溃后以皎克西灌溉区为根据地，成为缅甸中部的主导势力。他们于1297年废黜了元朝册封的国王加苏瓦，并在1300—1301年抵挡住了元军对敏象的围攻。三兄弟的共治后来由僧哥速的彬牙王国所继承。",
+    "ja": "シャン・ビルマ系の三兄弟アティンカヤー、ヤーザティンヂャン、ティハトゥは、パガン崩壊後チャウセーの灌漑地帯を拠点に中部ビルマの支配勢力となった。1297年に元の臣下となった王チョーズワーを廃し、1300～1301年のモンゴル軍によるミンザイン包囲に耐えた。三兄弟の共同統治はティハトゥのピンヤ王国へと引き継がれた。"
+   }
+  },
+  {
+   "from": 1313,
+   "to": 1364,
+   "kind": "state",
+   "qid": "Q3446213",
+   "polity": "Kingdom of Pinya",
+   "name": {
+    "en": "Pinya and Sagaing kingdoms",
+    "ko": "핀야·사가잉 왕국",
+    "zh": "彬牙与实皆王国",
+    "ja": "ピンヤ朝とザガイン朝"
+   },
+   "summary": {
+    "en": "Thihathu founded Pinya in 1313 as the successor of Pagan in central Burma, but in 1315 his son Saw Yun set up a rival court at Sagaing across the Irrawaddy. The two small kingdoms competed for the Kyaukse rice lands while Shan raids grew. In 1364 Shan forces sacked both capitals, opening the way for the unified kingdom of Ava.",
+    "ko": "띠하투는 1313년 버마 중부에서 버간을 계승하는 핀야를 세웠으나, 1315년 그의 아들 소윤이 에야와디강 건너 사가잉에 경쟁 왕실을 세웠다. 두 소왕국은 짜욱세 곡창 지대를 두고 다투었고 샨족의 침입은 거세졌다. 1364년 샨군이 두 수도를 모두 약탈하면서 통일 왕국 아와가 들어설 길이 열렸다.",
+    "zh": "僧哥速于1313年建立彬牙，作为蒲甘在缅甸中部的继承者，但其子梭云于1315年在伊洛瓦底江对岸的实皆另立朝廷。两个小王国争夺皎克西粮仓，而掸族入侵日益加剧。1364年掸族军队洗劫了两座都城，为统一的阿瓦王国开辟了道路。",
+    "ja": "ティハトゥは1313年、パガンの後継として中部ビルマにピンヤ朝を開いたが、1315年に息子ソーユンがエーヤワディー川対岸のザガインに対抗する王廷を立てた。二つの小王国はチャウセーの穀倉地帯を争い、シャン人の侵入は激しさを増した。1364年にシャン軍が両都を略奪し、統一王国アヴァの誕生への道が開かれた。"
+   }
+  },
+  {
+   "from": 1364,
+   "to": 1555,
+   "kind": "state",
+   "qid": "Q2500952",
+   "polity": "Ava Kingdom",
+   "name": {
+    "en": "Ava Kingdom",
+    "ko": "아와 왕국",
+    "zh": "阿瓦王国",
+    "ja": "アヴァ王朝"
+   },
+   "summary": {
+    "en": "Founded by Thado Minbya at Ava (Inwa) in 1365, this kingdom reunited central Burma and saw itself as Pagan's heir. It fought the Forty Years' War against the Mon kingdom of Hanthawaddy and struggled to hold its vassals at Prome, Toungoo and in the Shan hills. Burmese literature flourished at its court, but from 1527 Ava was ruled by Shan lords until Bayinnaung took it in 1555.",
+    "ko": "1365년 타도민바가 아와(잉와)에 세운 이 왕국은 버마 중부를 다시 통합하고 스스로 버간의 계승자로 여겼다. 몬족 한타와디 왕국과 40년 전쟁을 치렀고, 쁘롬·따웅우·샨 고원의 봉신들을 붙잡아 두기 위해 애썼다. 궁정에서는 버마 문학이 꽃피었으나, 1527년부터 샨 영주들이 아와를 다스리다 1555년 버인나웅이 이를 차지했다.",
+    "zh": "1365年他拖弥波耶在阿瓦（因瓦）建立该王国，重新统一缅甸中部，并自视为蒲甘的继承者。它与孟族的勃固王朝进行了四十年战争，并努力控制卑谬、东吁和掸邦山区的藩属。宫廷中缅文文学繁荣，但自1527年起阿瓦由掸族首领统治，直至1555年被莽应龙攻占。",
+    "ja": "1365年にタドーミンビャーがアヴァ（インワ）に建てた王国で、中部ビルマを再統一し、パガンの後継を自任した。モン人のハンターワディー王国と四十年戦争を戦い、プローム、タウングー、シャン高原の属国をつなぎとめるのに苦心した。宮廷ではビルマ文学が栄えたが、1527年からはシャン人首長が支配し、1555年にバインナウンが攻略した。"
+   }
+  },
+  {
+   "from": 1429,
+   "to": 1785,
+   "kind": "state",
+   "qid": "Q10791211",
+   "polity": "Kingdom of Mrauk U",
+   "name": {
+    "en": "Kingdom of Mrauk U (Arakan)",
+    "ko": "므라우우 왕국(아라칸)",
+    "zh": "妙乌王国（阿拉干）",
+    "ja": "ミャウー王国（アラカン）"
+   },
+   "summary": {
+    "en": "King Min Saw Mon, restored with help from the Bengal Sultanate, founded the city of Mrauk U in 1430 as the capital of a revived Arakanese kingdom. Under rulers such as Min Bin, Arakan became a maritime power that controlled Chittagong for long periods, employed Portuguese mercenaries and raided the Bengal delta, while its temples blended Buddhist and Islamic-influenced court culture. The kingdom declined in the 18th century and was conquered by the Konbaung dynasty in 1784–85.",
+    "ko": "벵골 술탄국의 도움으로 복위한 민소몬 왕은 1430년 부흥한 아라칸 왕국의 수도로 므라우우를 세웠다. 민빈 같은 군주 아래 아라칸은 오랫동안 치타공을 지배한 해상 강국이 되어 포르투갈 용병을 고용하고 벵골 삼각주를 습격했으며, 불교와 이슬람의 영향이 섞인 궁정 문화를 꽃피웠다. 18세기에 쇠퇴한 왕국은 1784~85년 꼰바웅 왕조에 정복되었다.",
+    "zh": "借助孟加拉苏丹国复位的敏修蒙王于1430年建立妙乌城，作为复兴的阿拉干王国都城。在敏宾等君主治下，阿拉干成为长期控制吉大港的海上强国，雇用葡萄牙雇佣兵并袭扰孟加拉三角洲，宫廷文化融合了佛教与伊斯兰影响。王国在18世纪衰落，于1784—1785年被贡榜王朝征服。",
+    "ja": "ベンガル・スルターン朝の助けで復位したミンソーモン王は、1430年に再興したアラカン王国の都としてミャウーを築いた。ミンビン王らのもとでアラカンはチッタゴンを長く支配する海上勢力となり、ポルトガル人傭兵を雇ってベンガル・デルタを襲撃し、仏教とイスラームの影響が混じる宮廷文化を育んだ。18世紀に衰え、1784～85年にコンバウン朝に征服された。"
+   }
+  },
+  {
+   "from": 1510,
+   "to": 1599,
+   "kind": "state",
+   "qid": "Q23039102",
+   "polity": "First Toungoo Empire",
+   "name": {
+    "en": "First Toungoo Empire",
+    "ko": "제1 따웅우 제국",
+    "zh": "东吁王朝（第一东吁帝国）",
+    "ja": "第一次タウングー帝国"
+   },
+   "summary": {
+    "en": "From the small principality of Toungoo, King Tabinshwehti conquered the Mon kingdom of Hanthawaddy and made Pegu his capital, and his successor Bayinnaung (r. 1550–1581) subdued Ava, the Shan states, Manipur, Lan Na and Ayutthaya. The result was briefly the largest empire in the history of mainland Southeast Asia, held together by personal oaths of vassals. It collapsed under Nanda Bayin, and Pegu was sacked in 1599.",
+    "ko": "작은 공국 따웅우에서 일어난 따빈쉐티 왕은 몬족 한타와디 왕국을 정복하고 바고를 수도로 삼았으며, 후계자 버인나웅(재위 1550~1581)은 아와, 샨 국가들, 마니푸르, 란나, 아유타야를 복속시켰다. 그 결과 동남아시아 본토 역사상 가장 큰 제국이 잠시 등장했으나, 봉신들의 개인적 충성 서약으로 유지되는 구조였다. 제국은 난다 버인 시대에 무너졌고 1599년 바고가 약탈당했다.",
+    "zh": "莽瑞体从东吁小邦起家，征服了孟族的勃固王朝并以勃固为都，其继承者莽应龙（1550—1581年在位）又征服了阿瓦、掸邦、曼尼普尔、兰纳和阿瑜陀耶。由此短暂形成了东南亚大陆史上最大的帝国，但它依靠藩属的个人效忠维系。帝国在莽应里时期崩溃，勃固于1599年遭到洗劫。",
+    "ja": "小国タウングーから出たタビンシュエーティー王はモン人のハンターワディー王国を征服してペグーを都とし、後継のバインナウン（在位1550～1581年）はアヴァ、シャン諸国、マニプル、ラーンナー、アユタヤを服属させた。こうして東南アジア大陸部史上最大の帝国が一時現れたが、それは属国の王たちの個人的な忠誠で支えられていた。帝国はナンダバインの代に崩れ、1599年にペグーは略奪された。"
+   }
+  },
+  {
+   "from": 1599,
+   "to": 1752,
+   "kind": "state",
+   "qid": "Q519718",
+   "polity": null,
+   "name": {
+    "en": "Restored Toungoo (Nyaungyan) dynasty",
+    "ko": "복원 따웅우(냥얀) 왕조",
+    "zh": "复兴东吁王朝（良渊王朝）",
+    "ja": "復興タウングー朝（ニャウンヤン朝）"
+   },
+   "summary": {
+    "en": "Nyaungyan Min and his son Anaukpetlun rebuilt the kingdom from Upper Burma, retaking Lower Burma and the Shan states by the 1610s. King Thalun moved the capital back to Ava in 1635 and the dynasty governed a more compact, agrarian state with a strong Buddhist monastic establishment. In the 18th century, Manipuri raids and Mon rebellion weakened it until Ava fell in 1752.",
+    "ko": "냥얀 왕과 그 아들 아나욱펫룬은 상부 버마를 기반으로 왕국을 재건해 1610년대까지 하부 버마와 샨 국가들을 되찾았다. 탈룬 왕은 1635년 수도를 다시 아와로 옮겼고, 왕조는 강력한 불교 승단을 지닌 보다 압축적인 농업 국가를 다스렸다. 18세기 마니푸르의 침입과 몬족 반란으로 약해진 왕조는 1752년 아와 함락으로 끝났다.",
+    "zh": "良渊王及其子阿那毕隆以上缅甸为基础重建王国，到17世纪10年代收复了下缅甸和掸邦。他隆王于1635年迁都回阿瓦，王朝统治着一个更加紧凑、以农业为本、佛教僧团强大的国家。18世纪曼尼普尔的侵袭和孟族叛乱使王朝衰弱，直至1752年阿瓦陷落。",
+    "ja": "ニャウンヤン王とその子アナウッペッルンは上ビルマを拠点に王国を再建し、1610年代までに下ビルマとシャン諸国を取り戻した。タールン王は1635年に都をアヴァへ戻し、王朝は強力な仏教僧団をもつ、よりまとまった農業国家を治めた。18世紀にはマニプルの侵攻とモン人の反乱で弱体化し、1752年のアヴァ陥落で終わった。"
+   }
+  },
+  {
+   "from": 1740,
+   "to": 1757,
+   "kind": "state",
+   "qid": "Q3302610",
+   "polity": null,
+   "name": {
+    "en": "Restored Hanthawaddy Kingdom",
+    "ko": "복원 한타와디 왕국",
+    "zh": "复兴勃固王国",
+    "ja": "復興ハンターワディー王国"
+   },
+   "summary": {
+    "en": "A rebellion in Lower Burma in 1740 revived the Mon kingdom of Hanthawaddy with its capital at Pegu. With French support its armies marched north and captured Ava in 1752, ending the Toungoo dynasty. Alaungpaya's counter-offensive destroyed the kingdom with the sack of Pegu in 1757.",
+    "ko": "1740년 하부 버마의 반란으로 바고를 수도로 하는 몬족 한타와디 왕국이 부활했다. 프랑스의 지원을 받은 군대는 북진해 1752년 아와를 점령하고 따웅우 왕조를 끝냈다. 그러나 알라웅파야의 반격으로 1757년 바고가 함락되며 왕국은 멸망했다.",
+    "zh": "1740年下缅甸爆发起义，复兴了以勃固为都的孟族汉达瓦底王国。其军队在法国支持下北上，于1752年攻占阿瓦，终结了东吁王朝。雍籍牙发动反攻，1757年攻陷勃固，王国随之覆灭。",
+    "ja": "1740年の下ビルマでの反乱により、ペグーを都とするモン人のハンターワディー王国が復活した。フランスの支援を受けた軍は北上して1752年にアヴァを占領し、タウングー朝を滅ぼした。アラウンパヤーの反攻により1757年にペグーが陥落し、王国は滅亡した。"
+   }
+  },
+  {
+   "from": 1752,
+   "to": 1885,
+   "kind": "state",
+   "qid": "Q1062422",
+   "polity": "Konbaung Dynasty",
+   "name": {
+    "en": "Konbaung dynasty",
+    "ko": "꼰바웅 왕조",
+    "zh": "贡榜王朝",
+    "ja": "コンバウン王朝"
+   },
+   "summary": {
+    "en": "Founded by Alaungpaya in 1752, the last Burmese royal dynasty reunified the country, destroyed Ayutthaya in 1767, repelled four Qing invasions and annexed Arakan, Manipur and Assam. Expansion westward brought conflict with British India, and three Anglo-Burmese wars (1824–26, 1852, 1885) progressively stripped the kingdom of its territory. Under Mindon Min the court at Mandalay pursued modernization and Buddhist revival before King Thibaw was deposed in 1885.",
+    "ko": "1752년 알라웅파야가 세운 버마 최후의 왕조는 나라를 재통일하고 1767년 아유타야를 파괴했으며, 청나라의 네 차례 침입을 물리치고 아라칸·마니푸르·아삼을 병합했다. 서쪽으로의 팽창은 영국령 인도와의 충돌을 불렀고, 세 차례 영국-버마 전쟁(1824~26, 1852, 1885)으로 영토를 차례로 잃었다. 민돈 왕 시대 만달레이 궁정은 근대화와 불교 부흥을 추진했으나 1885년 띠보 왕이 폐위되었다.",
+    "zh": "雍籍牙于1752年建立的缅甸最后一个王朝重新统一全国，1767年摧毁阿瑜陀耶，击退清军四次进攻，并吞并了阿拉干、曼尼普尔和阿萨姆。向西扩张导致与英属印度冲突，三次英缅战争（1824—1826、1852、1885年）使王国领土不断丧失。敏东王时期曼德勒朝廷推行现代化与佛教复兴，但锡袍王于1885年被废黜。",
+    "ja": "1752年にアラウンパヤーが開いたビルマ最後の王朝は国土を再統一し、1767年にアユタヤを破壊、清の四度の侵攻を退け、アラカン・マニプル・アッサムを併合した。西方への拡大は英領インドとの衝突を招き、三度の英緬戦争（1824～26年、1852年、1885年）で領土を次々に失った。ミンドン王の時代、マンダレーの宮廷は近代化と仏教復興を進めたが、1885年にティーボー王が廃位された。"
+   }
+  },
+  {
+   "from": 1824,
+   "to": 1937,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "British Raj",
+   "name": {
+    "en": "British Burma as a province of British India",
+    "ko": "영국령 인도의 한 주로서의 버마",
+    "zh": "作为英属印度一省的缅甸",
+    "ja": "英領インドの一州としてのビルマ"
+   },
+   "summary": {
+    "en": "Britain annexed Arakan and Tenasserim in 1826, Lower Burma in 1852 and the rest of the kingdom in 1885, governing Burma as a province of British India. The Irrawaddy delta was turned into one of the world's largest rice-exporting regions, drawing large numbers of Indian migrants, while hill peoples were administered separately from 'Ministerial Burma'. The loss of the monarchy and the sidelining of Buddhism fuelled a nationalist movement led first by Buddhist associations and students.",
+    "ko": "영국은 1826년 아라칸과 떠닌다이, 1852년 하부 버마, 1885년 나머지 왕국을 병합하고 버마를 영국령 인도의 한 주로 통치했다. 에야와디 삼각주는 세계 최대급의 쌀 수출 지역으로 바뀌어 많은 인도인 이주민을 끌어들였고, 산지 민족은 '본토 버마'와 분리되어 통치되었다. 왕정의 소멸과 불교의 소외는 불교 단체와 학생들이 이끈 민족주의 운동을 불러일으켰다.",
+    "zh": "英国于1826年吞并阿拉干和丹那沙林，1852年吞并下缅甸，1885年吞并王国其余部分，将缅甸作为英属印度的一个省加以统治。伊洛瓦底江三角洲成为世界最大的稻米出口地区之一，吸引了大量印度移民，山地民族则与“本部缅甸”分开管理。君主制的终结与佛教地位的边缘化，激发了最初由佛教团体和学生领导的民族主义运动。",
+    "ja": "イギリスは1826年にアラカンとテナセリム、1852年に下ビルマ、1885年に残る王国を併合し、ビルマを英領インドの一州として統治した。エーヤワディー・デルタは世界有数の米輸出地帯となって多くのインド系移民を引き寄せ、山地民族は「管区ビルマ」とは別に統治された。王政の消滅と仏教の軽視は、仏教団体や学生が率いる民族運動を生んだ。"
+   }
+  },
+  {
+   "from": 1937,
+   "to": 1948,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "British Burma as a separate colony and the Second World War",
+    "ko": "분리된 식민지 버마와 제2차 세계 대전",
+    "zh": "单独殖民地时期的缅甸与第二次世界大战",
+    "ja": "分離植民地ビルマと第二次世界大戦"
+   },
+   "summary": {
+    "en": "In 1937 Burma was separated from India and given its own constitution with an elected prime minister, though the British governor retained key powers. From 1942 to 1945 Japan occupied the country and created a nominally independent State of Burma, and the land became a major battlefield of the Allied Burma campaign. After the war, Aung San's Anti-Fascist People's Freedom League negotiated independence from Britain.",
+    "ko": "1937년 버마는 인도에서 분리되어 선출된 총리를 둔 독자 헌법을 갖게 되었으나, 영국 총독은 핵심 권한을 유지했다. 1942~1945년 일본이 나라를 점령해 명목상 독립국인 버마국을 세웠고, 이 땅은 연합군 버마 전역의 주요 전장이 되었다. 전후 아웅산의 반파시스트 인민자유연맹이 영국과 독립을 협상했다.",
+    "zh": "1937年缅甸从印度分离，获得设民选总理的独立宪法，但英国总督仍保有关键权力。1942至1945年日本占领缅甸并扶植名义上独立的“缅甸国”，这片土地成为盟军缅甸战役的主战场。战后，昂山领导的反法西斯人民自由同盟与英国谈判独立。",
+    "ja": "1937年にビルマはインドから分離され、選挙で選ばれた首相をもつ独自の憲法を得たが、英国総督が重要な権限を保持した。1942～1945年には日本が占領して名目上独立した「ビルマ国」を作り、この地は連合軍のビルマ戦線の主戦場となった。戦後、アウンサンの反ファシスト人民自由連盟がイギリスと独立を交渉した。"
+   }
+  },
+  {
+   "from": 1942,
+   "to": 1945,
+   "kind": "colonial",
+   "qid": "Q704358",
+   "polity": "Empire of Japan",
+   "name": {
+    "en": "Japanese occupation and the State of Burma",
+    "ko": "일본 점령과 버마국",
+    "zh": "日本占领与“缅甸国”",
+    "ja": "日本占領とビルマ国"
+   },
+   "summary": {
+    "en": "Japanese forces, accompanied by Aung San's Burma Independence Army, drove the British out of most of Burma in 1942. On 1 August 1943 Japan proclaimed the State of Burma under Ba Maw, but real power stayed with the Japanese military. Disillusioned nationalists turned against Japan in March 1945 as British and Allied forces reconquered the country.",
+    "ko": "아웅산의 버마독립군과 함께 진격한 일본군은 1942년 영국군을 버마 대부분에서 몰아냈다. 1943년 8월 1일 일본은 바모를 수반으로 한 버마국을 선포했지만 실권은 일본군에 있었다. 환멸을 느낀 민족주의자들은 영국과 연합군이 나라를 탈환하던 1945년 3월 일본에 맞서 봉기했다.",
+    "zh": "1942年，日军与昂山的缅甸独立军一道进军，将英军逐出缅甸大部分地区。1943年8月1日日本宣布成立以巴莫为首的“缅甸国”，但实权仍掌握在日军手中。幻想破灭的民族主义者在英国及盟军收复缅甸之际，于1945年3月起兵反日。",
+    "ja": "1942年、アウンサンのビルマ独立義勇軍を伴った日本軍はイギリス軍をビルマの大部分から駆逐した。1943年8月1日、日本はバー・モウを元首とするビルマ国を宣言したが、実権は日本軍が握った。幻滅した民族主義者は、英軍など連合軍が国土を奪回しつつあった1945年3月に日本に対して蜂起した。"
+   }
+  },
+  {
+   "from": 1948,
+   "to": 1962,
+   "kind": "state",
+   "qid": "Q7233551",
+   "polity": "Burma",
+   "name": {
+    "en": "Union of Burma (parliamentary era)",
+    "ko": "버마 연방(의회 민주주의 시기)",
+    "zh": "缅甸联邦（议会民主时期）",
+    "ja": "ビルマ連邦（議会制時代）"
+   },
+   "summary": {
+    "en": "Burma became independent on 4 January 1948 as a federal parliamentary republic outside the Commonwealth, with U Nu as prime minister. The new state immediately faced communist and ethnic insurgencies, notably by the Karen, and Chinese Nationalist troops in the Shan hills. A military caretaker government ruled in 1958–60, and parliamentary rule ended with General Ne Win's coup in 1962.",
+    "ko": "버마는 1948년 1월 4일 영연방에 속하지 않는 연방 의회 공화국으로 독립했고 우누가 총리가 되었다. 신생 국가는 곧바로 공산주의 세력과 카렌족 등 소수민족의 봉기, 샨 고원의 중국 국민당군 문제에 직면했다. 1958~60년에는 군 과도 정부가 통치했고, 1962년 네윈 장군의 쿠데타로 의회 정치가 막을 내렸다.",
+    "zh": "1948年1月4日缅甸作为英联邦以外的联邦议会制共和国独立，吴努出任总理。新国家立即面临共产党和克伦族等少数民族的武装叛乱，以及掸邦山区的中国国民党残军问题。1958—1960年由军人看守政府执政，1962年奈温将军发动政变，议会政治宣告终结。",
+    "ja": "ビルマは1948年1月4日、英連邦に属さない連邦議会制共和国として独立し、ウー・ヌが首相となった。新国家は直ちに共産党やカレン人などの民族武装反乱、シャン高原の中国国民党軍の問題に直面した。1958～60年には軍の選挙管理内閣が統治し、1962年のネ・ウィン将軍のクーデターで議会政治は終わった。"
+   }
+  },
+  {
+   "from": 1962,
+   "to": 1988,
+   "kind": "state",
+   "qid": "Q13072974",
+   "polity": "Burma",
+   "name": {
+    "en": "Military socialist rule (Burmese Way to Socialism)",
+    "ko": "군부 사회주의 통치(버마식 사회주의)",
+    "zh": "军人社会主义统治（缅甸式社会主义）",
+    "ja": "軍部社会主義体制（ビルマ式社会主義）"
+   },
+   "summary": {
+    "en": "After the 1962 coup Ne Win's Revolutionary Council, and from 1974 the one-party Socialist Republic of the Union of Burma under the Burma Socialist Programme Party, nationalized the economy and closed the country to the outside world. Ethnic insurgencies and the Communist Party of Burma controlled large border areas. Economic decline, culminating in the 1987 demonetization and least-developed-country status, set the stage for the 1988 uprising.",
+    "ko": "1962년 쿠데타 이후 네윈의 혁명평의회와 1974년부터 버마 사회주의 계획당 일당 체제의 버마 연방 사회주의 공화국은 경제를 국유화하고 나라를 외부 세계에 닫았다. 소수민족 반군과 버마 공산당은 넓은 국경 지대를 장악했다. 1987년 화폐 폐지와 최빈국 지정으로 정점에 이른 경제 쇠퇴는 1988년 봉기의 배경이 되었다.",
+    "zh": "1962年政变后，奈温的革命委员会以及1974年起由缅甸社会主义纲领党一党执政的缅甸联邦社会主义共和国将经济国有化，使国家与外界隔绝。少数民族武装和缅甸共产党控制着大片边境地区。经济持续衰退，1987年废钞和被列为最不发达国家使之达到顶点，为1988年的起义埋下伏笔。",
+    "ja": "1962年のクーデター後、ネ・ウィンの革命評議会と、1974年からはビルマ社会主義計画党の一党制によるビルマ連邦社会主義共和国が経済を国有化し、国を外部世界に閉ざした。民族武装勢力とビルマ共産党が広い国境地帯を支配した。1987年の廃貨と後発開発途上国認定に至る経済の衰退が、1988年の民主化蜂起の背景となった。"
+   }
+  },
+  {
+   "from": 1988,
+   "to": 2011,
+   "kind": "state",
+   "qid": null,
+   "polity": "Union of Myanmar",
+   "name": {
+    "en": "Military junta (SLORC / SPDC)",
+    "ko": "군사 정권(SLORC·SPDC)",
+    "zh": "军政府（国家恢复法律与秩序委员会／国家和平与发展委员会）",
+    "ja": "軍事政権（SLORC・SPDC）"
+   },
+   "summary": {
+    "en": "The army crushed the 1988 uprising and ruled through the State Law and Order Restoration Council, renamed the State Peace and Development Council in 1997. It renamed the country Myanmar in 1989, ignored the National League for Democracy's victory in the 1990 election and kept Aung San Suu Kyi under house arrest for long periods. The junta signed ceasefires with many armed groups, moved the capital to Naypyidaw and imposed a new constitution in 2008 guaranteeing the military's political role.",
+    "ko": "군부는 1988년 봉기를 진압하고 국가법질서회복평의회(SLORC)를 통해 통치했으며, 이 기구는 1997년 국가평화발전평의회(SPDC)로 개칭되었다. 군정은 1989년 국호를 미얀마로 바꾸고, 1990년 총선에서 민주주의민족동맹(NLD)의 승리를 무시했으며, 아웅산 수치를 오랫동안 가택 연금했다. 많은 무장 단체와 휴전을 맺고 수도를 네피도로 옮겼으며 2008년 군의 정치적 역할을 보장하는 새 헌법을 도입했다.",
+    "zh": "军队镇压了1988年起义，通过国家恢复法律与秩序委员会进行统治，该机构于1997年改名为国家和平与发展委员会。军政府于1989年将国名英文改为Myanmar，无视全国民主联盟在1990年大选中的胜利，并长期软禁昂山素季。它与许多武装组织签订停火协议，迁都内比都，并在2008年推行保障军队政治地位的新宪法。",
+    "ja": "軍は1988年の蜂起を鎮圧し、国家法秩序回復評議会（SLORC）を通じて統治し、1997年に国家平和発展評議会（SPDC）と改称した。1989年に国名の英語表記をミャンマーに改め、1990年総選挙での国民民主連盟（NLD）の勝利を無視し、アウンサンスーチーを長期間自宅軟禁した。多くの武装勢力と停戦を結び、首都をネピドーに移し、2008年には軍の政治的役割を保障する新憲法を導入した。"
+   }
+  },
+  {
+   "from": 2011,
+   "to": 2021,
+   "kind": "state",
+   "qid": null,
+   "polity": "Union of Myanmar",
+   "name": {
+    "en": "Republic of the Union of Myanmar: the reform decade",
+    "ko": "미얀마 연방 공화국: 개혁의 10년",
+    "zh": "缅甸联邦共和国：改革十年",
+    "ja": "ミャンマー連邦共和国：改革の10年"
+   },
+   "summary": {
+    "en": "A nominally civilian government under former general Thein Sein took office in 2011, released political prisoners, eased censorship and opened the economy. Aung San Suu Kyi's National League for Democracy won the 2015 election and governed alongside a military that kept a quarter of parliamentary seats and key ministries. The decade was also marked by anti-Muslim violence and the mass expulsion of the Rohingya from Rakhine State in 2017.",
+    "ko": "2011년 전직 장군 테인세인이 이끄는 명목상 민간 정부가 출범해 정치범을 석방하고 검열을 완화하며 경제를 개방했다. 아웅산 수치의 민주주의민족동맹은 2015년 총선에서 승리해, 의회 의석의 4분의 1과 핵심 부처를 계속 장악한 군부와 함께 통치했다. 이 10년은 반무슬림 폭력과 2017년 라카인주 로힝야족의 대규모 축출로도 얼룩졌다.",
+    "zh": "2011年，前将军登盛领导的名义上的文官政府上台，释放政治犯、放松新闻审查并开放经济。昂山素季领导的全国民主联盟赢得2015年大选，与仍掌握四分之一议席和关键部委的军方共同执政。这十年也伴随着反穆斯林暴力以及2017年罗兴亚人被大规模逐出若开邦的事件。",
+    "ja": "2011年、元将軍テインセインが率いる名目上の文民政府が発足し、政治犯を釈放し、検閲を緩め、経済を開放した。アウンサンスーチーの国民民主連盟は2015年総選挙で勝利し、議席の4分の1と主要省庁を握り続けた軍と並んで統治した。この10年は反ムスリム暴力と、2017年のラカイン州からのロヒンギャの大規模な追放にも彩られた。"
+   }
+  },
+  {
+   "from": 2021,
+   "to": 2026,
+   "kind": "period",
+   "qid": null,
+   "polity": "Union of Myanmar",
+   "name": {
+    "en": "Military coup and civil war",
+    "ko": "군사 쿠데타와 내전",
+    "zh": "军事政变与内战",
+    "ja": "軍事クーデターと内戦"
+   },
+   "summary": {
+    "en": "On 1 February 2021 the military seized power, detained Aung San Suu Kyi and elected leaders, and met mass protests with lethal force. Opponents formed the National Unity Government and People's Defence Forces, which joined long-established ethnic armed organizations in a nationwide armed conflict. Since 2023 resistance offensives have taken large areas of the borderlands, while the population suffers from displacement, airstrikes and economic collapse.",
+    "ko": "2021년 2월 1일 군부가 권력을 장악하고 아웅산 수치와 선출된 지도자들을 구금했으며, 대규모 시위를 무력으로 진압했다. 반대 세력은 국민통합정부와 시민방위군을 결성해 오래된 소수민족 무장 조직들과 함께 전국적인 무력 분쟁에 나섰다. 2023년 이후 저항 세력의 공세로 국경 지대 상당 부분이 군정의 통제에서 벗어났고, 주민들은 피란, 공습, 경제 붕괴로 고통받고 있다.",
+    "zh": "2021年2月1日军方夺取政权，拘押昂山素季及民选领导人，并以致命武力镇压大规模抗议。反对派组建了民族团结政府和人民防卫军，与历史悠久的少数民族武装组织一道投入全国性武装冲突。2023年以来，抵抗力量的攻势夺取了大片边境地区，而民众则饱受流离失所、空袭和经济崩溃之苦。",
+    "ja": "2021年2月1日、軍が権力を掌握してアウンサンスーチーや選出された指導者を拘束し、大規模な抗議を武力で弾圧した。反対派は国民統一政府と国民防衛隊を結成し、古くからの少数民族武装組織とともに全国的な武力紛争に加わった。2023年以降、抵抗勢力の攻勢で国境地帯の広い範囲が軍の支配を離れ、住民は避難、空爆、経済崩壊に苦しんでいる。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -1500,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Bronze Age burials at Nyaunggan",
+    "ko": "냐웅간의 청동기 시대 무덤",
+    "zh": "良甘青铜时代墓葬",
+    "ja": "ニャウンガンの青銅器時代墓地"
+   },
+   "description": {
+    "en": "Around 1500 BC communities in the Chindwin–Irrawaddy region near present-day Monywa buried their dead with bronze axes and spearheads, stone rings and pottery at the Nyaunggan cemetery. The site is among the earliest evidence of metalworking in Myanmar. It shows that the dry zone was home to settled farming villages long before the first cities.",
+    "ko": "기원전 1500년경 오늘날 모니와 인근 친드윈강·에야와디강 지역의 공동체는 냐웅간 묘지에 청동 도끼와 창끝, 돌 고리, 토기를 함께 묻었다. 이 유적은 미얀마 금속 가공의 가장 이른 증거 가운데 하나이다. 최초의 도시가 나타나기 훨씬 전부터 건조 지대에 정착 농경 마을이 있었음을 보여 준다.",
+    "zh": "约公元前1500年，今蒙育瓦附近亲敦江与伊洛瓦底江一带的社群在良甘墓地以青铜斧、矛头、石环和陶器随葬。该遗址是缅甸金属加工的最早证据之一。它表明早在最初的城市出现之前，干旱地带就已存在定居的农耕村落。",
+    "ja": "前1500年頃、現在のモンユワ近郊、チンドウィン川とエーヤワディー川の地域の人々は、ニャウンガン墓地に青銅の斧や槍先、石の環、土器を副葬した。この遺跡はミャンマーにおける金属加工の最古級の証拠である。最初の都市が現れるはるか以前から、乾燥地帯に定住農耕村落があったことを示している。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Iron Age culture of the Samon valley",
+    "ko": "사몬 계곡의 철기 문화",
+    "zh": "萨蒙河谷的铁器文化",
+    "ja": "サモン渓谷の鉄器文化"
+   },
+   "description": {
+    "en": "From about the 5th century BC, cemeteries in the Samon valley south of Mandalay contain iron tools, bronze bowls and ornaments, and carnelian and glass beads. Some beads were made in or inspired by South Asia, pointing to long-distance exchange. These Iron Age communities were the direct forerunners of the Pyu urban culture.",
+    "ko": "기원전 5세기경부터 만달레이 남쪽 사몬 계곡의 묘지에는 철제 도구, 청동 그릇과 장신구, 홍옥수·유리 구슬이 묻혔다. 일부 구슬은 남아시아에서 만들어졌거나 그 영향을 받은 것으로 원거리 교류를 보여 준다. 이 철기 공동체는 쀼 도시 문화의 직접적인 선구자였다.",
+    "zh": "约自公元前5世纪起，曼德勒以南萨蒙河谷的墓地中出土了铁器、青铜碗和饰品以及红玉髓珠和玻璃珠。部分珠子产自南亚或受其影响，显示出远程交流。这些铁器时代社群是骠人城市文化的直接先驱。",
+    "ja": "前5世紀頃から、マンダレー南方のサモン渓谷の墓地には鉄器、青銅の鉢や装身具、紅玉髄やガラスのビーズが副葬された。一部のビーズは南アジア製か、その影響を受けたもので、遠距離交流を示す。これらの鉄器時代の人々はピュー都市文化の直接の先駆けであった。"
+   }
+  },
+  {
+   "year": -250,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Tradition of Ashoka's mission to Suvannabhumi",
+    "ko": "아소카의 수완나부미 포교 전승",
+    "zh": "阿育王遣使金地的传说",
+    "ja": "アショーカ王のスヴァンナブーミ布教伝承"
+   },
+   "description": {
+    "en": "According to the Sri Lankan chronicles, after the Third Buddhist Council the Mauryan emperor Ashoka sent the monks Sona and Uttara to preach in 'Suvannabhumi', the Land of Gold. Mon and Burmese tradition identifies this land with Thaton in Lower Burma, though historians debate its location. The story became a cornerstone of Myanmar's sense of an ancient Theravada heritage.",
+    "ko": "스리랑카 연대기에 따르면 제3차 불전 결집 이후 마우리아의 아소카 왕은 승려 소나와 웃타라를 '황금의 땅' 수완나부미로 보내 포교하게 했다. 몬족과 버마의 전승은 이곳을 하부 버마의 따톤으로 보지만, 그 위치는 학자들 사이에서 논란이 있다. 이 이야기는 미얀마가 오래된 상좌부 불교 전통을 지녔다는 인식의 초석이 되었다.",
+    "zh": "据斯里兰卡编年史记载，第三次佛经结集之后，孔雀王朝的阿育王派遣须那与郁多罗两位僧人前往“金地”（素万那普）弘法。孟族和缅族传统认为此地即下缅甸的直通，但其具体位置在史学界仍有争议。这一故事成为缅甸自认拥有古老上座部佛教传统的基石。",
+    "ja": "スリランカの年代記によれば、第三結集の後、マウリヤ朝のアショーカ王は僧ソーナとウッタラを「黄金の地」スヴァンナブーミに派遣して布教させた。モンとビルマの伝承はこれを下ビルマのタトンとするが、その所在地は学者の間で議論がある。この物語は、ミャンマーが古い上座部仏教の伝統をもつという意識の礎となった。"
+   }
+  },
+  {
+   "year": -200,
+   "qid": "Q1627675",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Pyu city-states emerge along the Irrawaddy",
+    "ko": "에야와디강 유역에 쀼 도시국가 등장",
+    "zh": "骠人城邦在伊洛瓦底江畔兴起",
+    "ja": "エーヤワディー川流域にピュー都市国家が誕生"
+   },
+   "description": {
+    "en": "From around the 2nd century BC Pyu-speaking peoples founded walled cities such as Beikthano and Halin in the dry zone of the Irrawaddy valley, later joined by Sri Ksetra near present-day Pyay. Brick walls, moats, reservoirs and burial urns show a sophisticated urban culture based on irrigated rice. These were the earliest cities in what is now Myanmar.",
+    "ko": "기원전 2세기경부터 쀼어를 쓰는 사람들은 에야와디강 유역 건조 지대에 베익타노, 할린 같은 성곽 도시를 세웠고, 이후 오늘날 퓨 근처의 스리크셰트라가 더해졌다. 벽돌 성벽, 해자, 저수지, 골호(유골 항아리)는 관개 벼농사를 기반으로 한 발달된 도시 문화를 보여 준다. 이들은 오늘날 미얀마 땅에서 가장 오래된 도시였다.",
+    "zh": "约自公元前2世纪起，操骠语的人群在伊洛瓦底江干旱地带建立了毗湿奴城（贝克达诺）、汉林等城邑，此后又出现了今卑谬附近的室利差呾罗。砖砌城墙、护城河、蓄水池和骨灰瓮显示出以灌溉稻作为基础的发达城市文化。它们是今缅甸境内最早的城市。",
+    "ja": "前2世紀頃から、ピュー語を話す人々はエーヤワディー流域の乾燥地帯にベイタノーやハリンなどの城郭都市を築き、のちに現在のピイ近郊のシュリークシェートラが加わった。煉瓦の城壁、濠、貯水池、骨壺は灌漑稲作に基づく洗練された都市文化を示す。これらは現在のミャンマーの地で最古の都市であった。"
+   }
+  },
+  {
+   "year": 100,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Beikthano and Halin flourish",
+    "ko": "베익타노와 할린의 번영",
+    "zh": "毗湿奴城与汉林的繁荣",
+    "ja": "ベイタノーとハリンの繁栄"
+   },
+   "description": {
+    "en": "In the first centuries AD the Pyu cities of Beikthano ('City of Vishnu') and Halin grew into large enclosed settlements covering several square kilometres. Excavations revealed brick monasteries, stupa-like structures, gold and silver ornaments and silver coins bearing symbols such as the conch and srivatsa. Their layout and religious buildings reflect early contact with Indian Buddhism and Hinduism.",
+    "ko": "서기 초 몇 세기 동안 쀼족의 도시 베익타노('비슈누의 도시')와 할린은 수 제곱킬로미터에 이르는 대규모 성곽 취락으로 성장했다. 발굴에서는 벽돌 승원, 탑 모양 구조물, 금은 장신구, 소라와 슈리바트사 같은 상징이 새겨진 은화가 나왔다. 이들의 배치와 종교 건축은 인도 불교·힌두교와의 이른 접촉을 반영한다.",
+    "zh": "公元最初几个世纪，骠人的毗湿奴城和汉林发展为占地数平方公里的大型围城聚落。考古发掘出土了砖砌寺院、塔状建筑、金银饰品以及刻有海螺、吉祥结等符号的银币。其布局和宗教建筑反映出与印度佛教和印度教的早期接触。",
+    "ja": "紀元後の最初の数世紀、ピューの都市ベイタノー（「ヴィシュヌの都」）とハリンは数平方キロに及ぶ大規模な囲郭集落に成長した。発掘では煉瓦造りの僧院、仏塔状の建造物、金銀の装身具、法螺貝やシュリーヴァトサなどの記号を刻んだ銀貨が見つかった。その配置と宗教建築は、インドの仏教・ヒンドゥー教との早い接触を物語る。"
+   }
+  },
+  {
+   "year": 400,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Early Arakanese kingdoms of Dhanyawadi and Waithali",
+    "ko": "다냐와디와 웨탈리의 초기 아라칸 왕국",
+    "zh": "早期阿拉干的丹耶瓦底与韦沙里王国",
+    "ja": "初期アラカンのダニャワディとウェタリ"
+   },
+   "description": {
+    "en": "By around the 4th century AD Indianized kingdoms had arisen in the Kaladan valley of Arakan (Rakhine), first centred on Dhanyawadi and then on Waithali. Rakhine tradition places the casting of the revered Mahamuni Buddha image at Dhanyawadi in the Buddha's own lifetime, a legendary account. Archaeological remains and coins bearing the conch and Sanskrit legends show strong links with eastern India.",
+    "ko": "서기 4세기경 아라칸(라카인)의 칼라단 계곡에는 처음에는 다냐와디, 이후 웨탈리를 중심으로 한 인도화된 왕국들이 일어났다. 라카인 전승은 존숭받는 마하무니 불상이 부처 생전에 다냐와디에서 주조되었다고 전하는데, 이는 전설적인 이야기이다. 고고 유물과 소라 문양 및 산스크리트 명문이 새겨진 화폐는 인도 동부와의 강한 연결을 보여 준다.",
+    "zh": "约至公元4世纪，阿拉干（若开）的加拉丹河谷已兴起印度化王国，先以丹耶瓦底、后以韦沙里为中心。若开传统称备受尊崇的摩诃牟尼佛像系佛陀在世时于丹耶瓦底铸造，这属于传说。考古遗存及铸有海螺纹样和梵文铭文的钱币显示出与印度东部的密切联系。",
+    "ja": "4世紀頃までに、アラカン（ラカイン）のカラダン川流域には、まずダニャワディ、次いでウェタリを中心とするインド化した王国が興った。ラカインの伝承は、崇敬されるマハームニ仏が仏陀在世中にダニャワディで鋳造されたと伝えるが、これは伝説である。遺跡や法螺貝文とサンスクリット銘をもつ貨幣は、インド東部との強い結びつきを示す。"
+   }
+  },
+  {
+   "year": 500,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Pali scriptures on gold leaves at Sri Ksetra",
+    "ko": "스리크셰트라의 금판 팔리어 경전",
+    "zh": "室利差呾罗的金叶巴利文佛经",
+    "ja": "シュリークシェートラの金板パーリ語経典"
+   },
+   "description": {
+    "en": "Sri Ksetra, the largest Pyu city near present-day Pyay, flourished from about the 5th to the 9th centuries, with great cylindrical stupas such as the Bawbawgyi. A manuscript of twenty gold leaves inscribed with Pali Buddhist texts, found at nearby Khin Ba mound, is among the oldest surviving evidence of Pali Buddhism anywhere. It shows that Theravada traditions were established among the Pyu centuries before Pagan.",
+    "ko": "오늘날 퓨 근처에 있던 가장 큰 쀼 도시 스리크셰트라는 5세기경부터 9세기까지 번영했으며, 보보지 같은 거대한 원통형 불탑을 세웠다. 인근 킨바 언덕에서 발견된 팔리어 불경을 새긴 20장의 금판 사본은 세계적으로 가장 오래된 팔리 불교 자료 가운데 하나이다. 이는 버간보다 수 세기 앞서 쀼족 사이에 상좌부 전통이 자리 잡았음을 보여 준다.",
+    "zh": "室利差呾罗是今卑谬附近最大的骠人城市，约从5世纪繁荣至9世纪，建有包包枝塔等巨大的圆柱形佛塔。在附近的钦巴丘出土了一部刻有巴利文佛经的二十页金叶经，是世界上现存最古老的巴利佛教证据之一。这表明上座部传统早在蒲甘之前数百年就已在骠人中扎根。",
+    "ja": "現在のピイ近郊にあった最大のピュー都市シュリークシェートラは、5世紀頃から9世紀まで栄え、ボーボージーなどの巨大な円筒形仏塔を築いた。近くのキンバ遺丘で見つかった、パーリ語仏典を刻む20枚の金板写本は、世界で現存最古級のパーリ仏教資料である。これはパガンより何世紀も前に、ピュー人の間に上座部の伝統が根づいていたことを示す。"
+   }
+  },
+  {
+   "year": 638,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Epoch of the Burmese calendar",
+    "ko": "버마력의 기원",
+    "zh": "缅历纪元的开始",
+    "ja": "ビルマ暦の紀元"
+   },
+   "description": {
+    "en": "The Burmese era (Kawza Thekkarit) begins in AD 638, an epoch traditionally associated with the Pyu kingdom of Sri Ksetra. The lunisolar calendar it anchors was later used by Pagan and spread to Arakan, the Shan states and the Tai kingdoms of Lan Na and Siam as the Chula Sakarat. It remains the basis of Myanmar's traditional calendar and festivals today.",
+    "ko": "버마력(꼬자 떽까릿)은 서기 638년을 기원으로 하며, 전통적으로 쀼족의 스리크셰트라 왕국과 연관된다. 이를 기준으로 한 태음태양력은 이후 버간에서 쓰였고, 아라칸, 샨 국가들, 란나와 시암의 타이 왕국들에 '쭐라 삭까랏'으로 전해졌다. 이 역법은 오늘날에도 미얀마 전통 달력과 축제의 기초이다.",
+    "zh": "缅历（小历）以公元638年为纪元，传统上与骠人的室利差呾罗王国相联系。以此为基准的阴阳历后来为蒲甘所采用，并作为“小历”（朱拉历）传播到阿拉干、掸邦以及兰纳和暹罗的傣泰王国。它至今仍是缅甸传统历法和节日的基础。",
+    "ja": "ビルマ暦（小暦）は西暦638年を紀元とし、伝統的にピューのシュリークシェートラ王国と結びつけられる。これを基準とする太陰太陽暦はのちにパガンで用いられ、アラカン、シャン諸国、ラーンナーやシャムのタイ系王国に「チュンラサッカラート」として広まった。今日もミャンマーの伝統暦と祭礼の基礎となっている。"
+   }
+  },
+  {
+   "year": 729,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Anandacandra inscription of Waithali",
+    "ko": "웨탈리의 아난다찬드라 비문",
+    "zh": "韦沙里的阿难陀旃陀罗碑铭",
+    "ja": "ウェタリのアーナンダチャンドラ碑文"
+   },
+   "description": {
+    "en": "Around 729 King Anandacandra of Waithali in Arakan had a long Sanskrit inscription carved on a stone pillar, now kept at the Shitthaung temple in Mrauk U. It lists generations of earlier Arakanese rulers and records the king's support for Buddhism and Brahmanical traditions. It is the most important written source for early Arakanese history.",
+    "ko": "729년경 아라칸 웨탈리의 아난다찬드라 왕은 돌기둥에 긴 산스크리트 비문을 새기게 했으며, 이 기둥은 지금 므라우우의 시타웅 사원에 보존되어 있다. 비문은 앞선 아라칸 군주들의 계보를 열거하고 왕의 불교 및 브라만 전통 후원을 기록한다. 이는 초기 아라칸 역사의 가장 중요한 문헌 자료이다.",
+    "zh": "约729年，阿拉干韦沙里的阿难陀旃陀罗王命人在石柱上刻下长篇梵文碑铭，该石柱现存于妙乌的西突塔寺。碑文列举了此前历代阿拉干君主的世系，并记载了国王对佛教和婆罗门传统的扶持。它是早期阿拉干历史最重要的文字史料。",
+    "ja": "729年頃、アラカンのウェタリのアーナンダチャンドラ王は石柱に長いサンスクリット碑文を刻ませた。この石柱は現在ミャウーのシッタウン寺院に保存されている。碑文はそれ以前のアラカン王の系譜を列挙し、王が仏教とバラモン教の伝統を保護したことを記す。初期アラカン史の最も重要な文字史料である。"
+   }
+  },
+  {
+   "year": 802,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Pyu musicians at the Tang court",
+    "ko": "당 궁정에 간 쀼의 악단",
+    "zh": "骠国乐团入唐献乐",
+    "ja": "驃国の楽団が唐の宮廷へ"
+   },
+   "description": {
+    "en": "In 802 a Pyu embassy accompanied by a troupe of musicians and dancers reached the Tang capital Chang'an, travelling via the kingdom of Nanzhao. Chinese records describe their instruments and songs in detail, and the poet Bai Juyi wrote a poem on 'the music of Piao'. The mission is a key source on Pyu culture at its height.",
+    "ko": "802년 악사와 무용수를 대동한 쀼의 사절단이 남조를 거쳐 당의 수도 장안에 도착했다. 중국 기록은 그들의 악기와 노래를 자세히 묘사했고, 시인 백거이는 '표국악'이라는 시를 지었다. 이 사절은 전성기 쀼 문화에 관한 핵심 자료이다.",
+    "zh": "802年，骠国使团携乐工舞者经南诏抵达唐都长安。中国史籍详细记载了他们的乐器与歌曲，诗人白居易还作有《骠国乐》一诗。这次遣使是了解鼎盛时期骠国文化的重要史料。",
+    "ja": "802年、楽人と舞人を伴う驃国の使節団が南詔を経て唐の都長安に到着した。中国の記録はその楽器や歌を詳しく描写し、詩人白居易は「驃国楽」を詠んだ。この使節は最盛期のピュー文化を知る重要な史料である。"
+   }
+  },
+  {
+   "year": 832,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Nanzhao raids the Pyu",
+    "ko": "남조의 쀼 침공",
+    "zh": "南诏攻掠骠国",
+    "ja": "南詔のピュー侵攻"
+   },
+   "description": {
+    "en": "Chinese sources record that in 832 the armies of Nanzhao, the kingdom based in Yunnan, sacked a Pyu city and carried off some three thousand captives to their capital. The raids marked the end of Pyu political power in the dry zone. In the following decades Burman (Bamar) groups, possibly associated with Nanzhao's expansion, settled in the region around Pagan.",
+    "ko": "중국 기록에 따르면 832년 윈난을 근거로 한 남조의 군대가 쀼의 한 도시를 약탈하고 약 3천 명의 포로를 수도로 끌고 갔다. 이 침공으로 건조 지대에서 쀼의 정치 권력은 끝을 맞았다. 이후 수십 년 동안 남조의 팽창과 연관되었을 가능성이 있는 버마족(바마족) 집단이 버간 일대에 정착했다.",
+    "zh": "据中国史籍记载，832年以云南为根据地的南诏军队攻掠骠国一城，掳走约三千人至其都城。这次袭击标志着骠人在干旱地带政治力量的终结。此后数十年间，可能与南诏扩张有关的缅族（巴玛族）群体定居于蒲甘一带。",
+    "ja": "中国の史料によれば、832年に雲南を本拠とする南詔の軍がピューの都市を略奪し、約三千人の捕虜を都へ連れ去った。この侵攻で乾燥地帯におけるピューの政治権力は終わった。その後数十年の間に、南詔の拡大と関係した可能性のあるビルマ族（バマー）の集団がパガン周辺に定住した。"
+   }
+  },
+  {
+   "year": 849,
+   "qid": "Q888574",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Traditional founding of Pagan",
+    "ko": "버간 건설의 전승 연대",
+    "zh": "蒲甘建城的传统年代",
+    "ja": "パガン建設の伝承年"
+   },
+   "description": {
+    "en": "According to the Burmese chronicles, King Pyinbya fortified the city of Pagan (Bagan) on the middle Irrawaddy in 849; the date is traditional, though the Tharabha Gate and city walls are thought to date from around this period. Burman settlers made Pagan the centre of a growing principality on the fertile Kyaukse and Minbu irrigation lands. Over the next two centuries it became the dominant power of the dry zone.",
+    "ko": "버마 연대기에 따르면 핀비아 왕이 849년 에야와디강 중류의 버간(파간)에 성을 쌓았다고 하는데, 이 연대는 전승이지만 따라바 문과 성벽은 대략 이 무렵의 것으로 여겨진다. 버마족 정착민은 버간을 비옥한 짜욱세·민부 관개 지대에 기반한 성장하는 소국의 중심으로 만들었다. 이후 두 세기 동안 버간은 건조 지대의 지배 세력이 되었다.",
+    "zh": "据缅甸编年史记载，频比亚王于849年在伊洛瓦底江中游修筑蒲甘城；这一年代属于传统说法，但塔拉巴城门和城墙被认为大约建于这一时期。缅族移民使蒲甘成为依托肥沃的皎克西和敏巫灌溉区而不断壮大的邦国中心。此后两个世纪里，蒲甘成为干旱地带的主导力量。",
+    "ja": "ビルマの年代記によれば、ピンビャー王が849年にエーヤワディー中流のパガン（バガン）に城壁を築いたという。この年は伝承だが、ターラバー門と城壁はおおむねこの時期のものと考えられている。ビルマ族の入植者は、肥沃なチャウセーやミンブーの灌漑地を背景に、パガンを発展する小国の中心とした。その後二世紀の間に、パガンは乾燥地帯の覇者となった。"
+   }
+  },
+  {
+   "year": 1044,
+   "qid": "Q888574",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Anawrahta founds the Pagan Empire",
+    "ko": "아노라타, 버간 제국을 세우다",
+    "zh": "阿奴律陀建立蒲甘帝国",
+    "ja": "アノーヤターがパガン帝国を建てる"
+   },
+   "description": {
+    "en": "King Anawrahta ascended the throne of Pagan in 1044 and over the following decades unified the Irrawaddy valley and its periphery for the first time, creating the first Burmese empire. He organized irrigation works in the Kyaukse district, the kingdom's rice bowl, and campaigned as far as Arakan and the Shan hills. Burmese historiography regards him as the founder of the Myanmar state.",
+    "ko": "아노라타 왕은 1044년 버간의 왕위에 올라 이후 수십 년에 걸쳐 에야와디 유역과 주변 지역을 처음으로 통일하고 최초의 버마 제국을 세웠다. 그는 왕국의 곡창인 짜욱세 지구의 관개 사업을 정비하고 아라칸과 샨 고원까지 원정했다. 버마 사학은 그를 미얀마 국가의 창건자로 여긴다.",
+    "zh": "阿奴律陀王于1044年登上蒲甘王位，在其后数十年间首次统一了伊洛瓦底江流域及其周边地区，建立了第一个缅甸帝国。他整治了王国粮仓皎克西地区的灌溉工程，并远征至阿拉干和掸邦山区。缅甸史学视他为缅甸国家的奠基者。",
+    "ja": "アノーヤター王は1044年にパガンの王位に就き、その後数十年をかけてエーヤワディー流域とその周辺を初めて統一し、最初のビルマ帝国を築いた。王国の穀倉チャウセー地方の灌漑を整え、アラカンやシャン高原にまで遠征した。ビルマの歴史叙述は彼をミャンマー国家の創始者とみなす。"
+   }
+  },
+  {
+   "year": 1057,
+   "qid": "Q1651832",
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Conquest of Thaton spreads Theravada Buddhism",
+    "ko": "따톤 정복과 상좌부 불교의 확산",
+    "zh": "征服直通，上座部佛教传播",
+    "ja": "タトン征服と上座部仏教の広まり"
+   },
+   "description": {
+    "en": "According to the chronicles, Anawrahta conquered the Mon kingdom of Thaton in 1057 after its king Manuha refused to share Buddhist scriptures, bringing Mon texts, monks and artisans to Pagan. Guided by the monk Shin Arahan, Theravada Buddhism became the state religion and Mon script and art shaped early Pagan culture. Some modern historians question the scale of the story, but the shift toward Theravada in this period is not in doubt.",
+    "ko": "연대기에 따르면 아노라타는 따톤의 마누하 왕이 불경을 나누어 주기를 거부하자 1057년 이 몬 왕국을 정복하고 몬족의 경전, 승려, 장인들을 버간으로 데려왔다. 승려 신아라한의 지도 아래 상좌부 불교가 국교가 되었고, 몬 문자와 미술은 초기 버간 문화를 형성했다. 일부 현대 학자들은 이야기의 규모를 의심하지만, 이 시기 상좌부로의 전환 자체는 의심의 여지가 없다.",
+    "zh": "据编年史记载，直通国王摩奴诃拒绝分享佛经，阿奴律陀遂于1057年征服这个孟族王国，将孟族经典、僧侣和工匠迁至蒲甘。在高僧信阿罗汉的引导下，上座部佛教成为国教，孟文和孟族艺术塑造了早期蒲甘文化。部分现代史家对这一故事的规模存疑，但此时期转向上座部佛教是确定无疑的。",
+    "ja": "年代記によれば、タトンの王マヌハが仏典の分与を拒んだため、アノーヤターは1057年にこのモン人の王国を征服し、モンの経典・僧・工人をパガンへ連れてきた。僧シン・アラハンの導きで上座部仏教が国教となり、モン文字と美術が初期パガン文化を形づくった。現代の歴史家には物語の規模を疑う者もいるが、この時期の上座部への転換自体は疑いない。"
+   }
+  },
+  {
+   "year": 1084,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Kyansittha's reign and the Ananda Temple",
+    "ko": "짠시타의 치세와 아난다 사원",
+    "zh": "江喜陀的统治与阿南达寺",
+    "ja": "チャンシッター王の治世とアーナンダ寺院"
+   },
+   "description": {
+    "en": "Kyansittha became king of Pagan in 1084 after suppressing a Mon rebellion, and reigned until 1112/13 as a conciliator between Burmans and Mons. He built the Ananda Temple, one of the masterpieces of Pagan architecture, and completed the Shwezigon Pagoda begun by Anawrahta. His Mon-language inscriptions present him as a Buddhist king and bodhisattva.",
+    "ko": "짠시타는 몬족 반란을 진압한 뒤 1084년 버간의 왕이 되어 1112/13년까지 다스리며 버마족과 몬족을 화합시켰다. 그는 버간 건축의 걸작인 아난다 사원을 세우고 아노라타가 시작한 쉐지곤 탑을 완성했다. 그의 몬어 비문은 그를 불교 군주이자 보살로 묘사한다.",
+    "zh": "江喜陀平定孟人叛乱后于1084年成为蒲甘国王，在位至1112/13年，致力于调和缅族与孟族的关系。他修建了蒲甘建筑杰作之一的阿南达寺，并完成了阿奴律陀开工的瑞喜宫佛塔。他的孟文碑铭把自己描绘为佛教君主和菩萨。",
+    "ja": "チャンシッターはモン人の反乱を鎮めて1084年にパガン王となり、1112/13年まで在位してビルマ人とモン人の融和に努めた。パガン建築の傑作アーナンダ寺院を建て、アノーヤターが着工したシュエズィーゴン・パゴダを完成させた。モン語の碑文は彼を仏教の王であり菩薩として描いている。"
+   }
+  },
+  {
+   "year": 1113,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "The four-language Myazedi inscription",
+    "ko": "4개 언어의 먀제디 비문",
+    "zh": "四种文字的妙齐提碑铭",
+    "ja": "四言語のミャゼーディ碑文"
+   },
+   "description": {
+    "en": "Around 1112–1113 Prince Yazakumar, son of Kyansittha, set up a stone pillar recording his dedication of a gilded Buddha image in four languages: Pyu, Mon, Old Burmese and Pali. Known as the Myazedi inscription, it is one of the earliest dated texts in the Burmese language. It was also the key to deciphering the extinct Pyu language.",
+    "ko": "1112~1113년경 짠시타의 아들 야자쿠마르 왕자는 금박 불상 봉헌을 쀼어, 몬어, 고대 버마어, 팔리어 네 언어로 기록한 돌기둥을 세웠다. 먀제디 비문으로 알려진 이 기둥은 연대가 확인되는 가장 오래된 버마어 문헌 가운데 하나이다. 또한 사라진 쀼어를 해독하는 열쇠가 되었다.",
+    "zh": "约1112—1113年，江喜陀之子亚扎古曼王子立石柱，以骠文、孟文、古缅文和巴利文四种文字记载其供奉镀金佛像之事。这块被称为“妙齐提碑”的石柱是年代可考的最早缅文文献之一。它也是破译已消亡的骠语的关键。",
+    "ja": "1112～1113年頃、チャンシッターの子ヤーザクマー王子は、金箔の仏像の寄進をピュー語・モン語・古ビルマ語・パーリ語の四言語で記した石柱を建てた。ミャゼーディ碑文として知られ、年代の明らかな最古級のビルマ語文献である。また、消滅したピュー語解読の鍵ともなった。"
+   }
+  },
+  {
+   "year": 1174,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Narapatisithu and the Sinhalese Buddhist order",
+    "ko": "나라파띠시투와 스리랑카계 승단",
+    "zh": "那罗波帝悉都与僧伽罗僧团",
+    "ja": "ナラパティシードゥーとシンハラ系僧団"
+   },
+   "description": {
+    "en": "Narapatisithu (r. 1174–1211) presided over Pagan at its height, building temples such as the Sulamani and Gawdawpalin. During his reign monks returning from Sri Lanka, led by Shin Chapata, introduced the Mahavihara ordination lineage, which became a separate monastic fraternity in Pagan. Burmese culture and the Burmese script increasingly replaced Mon influence at court.",
+    "ko": "나라파띠시투(재위 1174~1211)는 전성기의 버간을 다스리며 술라마니, 가도팔린 같은 사원을 세웠다. 그의 치세에 신차파타가 이끄는 스리랑카 유학승들이 돌아와 마하위하라 계통의 수계를 전했고, 이는 버간에서 별도의 승단을 이루었다. 궁정에서는 버마 문화와 버마 문자가 점차 몬족의 영향을 대체했다.",
+    "zh": "那罗波帝悉都（1174—1211年在位）统治鼎盛时期的蒲甘，修建了苏拉马尼寺和瑞古基寺等佛寺。其在位期间，以信车波多为首的僧人从斯里兰卡归来，引入大寺派戒统，在蒲甘形成独立的僧团。宫廷中缅族文化和缅文逐渐取代了孟族的影响。",
+    "ja": "ナラパティシードゥー（在位1174～1211年）は最盛期のパガンを治め、スラマニ寺院やゴードーパリン寺院などを建てた。その治世に、シン・チャパタ率いるスリランカ帰りの僧たちがマハーヴィハーラ派の受戒系統を伝え、パガンに独立した僧団を形成した。宮廷ではビルマ文化とビルマ文字がしだいにモンの影響に取って代わった。"
+   }
+  },
+  {
+   "year": 1277,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Ngasaunggyan against the Mongols",
+    "ko": "몽골과의 응아사웅잔 전투",
+    "zh": "与元军的牙嵩羌之战",
+    "ja": "モンゴルとのガサウンジャンの戦い"
+   },
+   "description": {
+    "en": "In 1277 Pagan troops advancing into the Yunnan frontier region clashed with Yuan (Mongol) forces at Ngasaunggyan, recorded by Marco Polo as the battle of Vochan. The Mongol cavalry and archers defeated Pagan's war elephants. The defeat opened Pagan's northern frontier to further Mongol incursions.",
+    "ko": "1277년 윈난 변경 지대로 진격한 버간군은 응아사웅잔에서 원(몽골)군과 충돌했는데, 마르코 폴로는 이를 '보찬 전투'로 기록했다. 몽골의 기병과 궁수는 버간의 전투 코끼리 부대를 물리쳤다. 이 패배로 버간의 북쪽 국경은 몽골의 추가 침입에 노출되었다.",
+    "zh": "1277年，进入云南边境地区的蒲甘军队在牙嵩羌与元（蒙古）军交战，马可·波罗将此战记为“永昌之战”。蒙古骑兵和弓箭手击败了蒲甘的战象部队。这场失败使蒲甘北部边境向蒙古的进一步入侵敞开。",
+    "ja": "1277年、雲南の辺境に進出したパガン軍はガサウンジャンで元（モンゴル）軍と衝突した。マルコ・ポーロはこれを「ヴォチャンの戦い」として記している。モンゴルの騎兵と弓兵はパガンの戦象部隊を破った。この敗北でパガンの北辺はモンゴルのさらなる侵入にさらされた。"
+   }
+  },
+  {
+   "year": 1287,
+   "qid": "Q2744133",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Mongol invasions bring down the Pagan Empire",
+    "ko": "몽골 침입과 버간 제국의 붕괴",
+    "zh": "蒙古入侵导致蒲甘帝国崩溃",
+    "ja": "モンゴルの侵攻とパガン帝国の崩壊"
+   },
+   "description": {
+    "en": "After King Narathihapate fled south and was assassinated in 1287, Kublai Khan's Yuan armies advanced down the Irrawaddy toward Pagan. Combined with internal strains, including vast tax-free religious estates, the invasions caused the empire to collapse. Burma fragmented into Burman, Mon, Shan and Arakanese successor states for more than two centuries.",
+    "ko": "1287년 나라티하파테 왕이 남쪽으로 달아났다가 암살된 뒤, 쿠빌라이 칸의 원나라 군대는 에야와디강을 따라 버간으로 진격했다. 막대한 면세 사원 토지 등 내부 모순과 겹친 침입으로 제국은 붕괴했다. 이후 두 세기 넘게 버마는 버마족, 몬족, 샨족, 아라칸의 후계 국가들로 분열되었다.",
+    "zh": "1287年国王那罗梯诃波帝南逃后遇刺，忽必烈的元军沿伊洛瓦底江向蒲甘推进。入侵与大量免税寺院土地等内部矛盾相叠加，导致帝国崩溃。此后两个多世纪，缅甸分裂为缅族、孟族、掸族和阿拉干等多个继承国家。",
+    "ja": "1287年にナラティーハパテ王が南へ逃れて暗殺されると、クビライの元軍はエーヤワディー川を下ってパガンへ進んだ。膨大な免税寺領などの内部矛盾と重なり、侵攻によって帝国は崩壊した。以後二世紀以上、ビルマはビルマ人・モン人・シャン人・アラカンの後継国家に分裂した。"
+   }
+  },
+  {
+   "year": 1287,
+   "qid": "Q1572529",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Wareru founds the Mon kingdom at Martaban",
+    "ko": "와레루, 마르타반에 몬 왕국을 세우다",
+    "zh": "伐丽流在马达班建立孟族王国",
+    "ja": "ワレルがマルタバンにモン王国を建てる"
+   },
+   "description": {
+    "en": "As Pagan's authority collapsed, Wareru, a commoner of Shan or Mon background, made himself king at Martaban (Mottama) in 1287 with Mon support. His kingdom, later known as Hanthawaddy, brought the Mon-speaking provinces of Lower Burma under one ruler. A law code compiled under his name, the Wareru dhammathat, was influential for centuries.",
+    "ko": "버간의 권위가 무너지자 샨족 또는 몬족 출신의 평민 와레루가 몬족의 지지를 받아 1287년 마르타반(모타마)에서 왕을 칭했다. 훗날 한타와디로 알려진 그의 왕국은 하부 버마의 몬어권 지방을 한 군주 아래 묶었다. 그의 이름으로 편찬된 법전 '와레루 담마탓'은 수 세기 동안 영향을 미쳤다.",
+    "zh": "蒲甘权威瓦解之际，出身掸族或孟族的平民伐丽流在孟人支持下于1287年在马达班（莫塔马）称王。他的王国后来被称为汉达瓦底，将下缅甸各孟语地区统一于一位君主之下。以他之名编纂的《伐丽流法典》影响了数百年。",
+    "ja": "パガンの権威が崩れると、シャン系またはモン系の平民ワレルがモン人の支持を得て1287年にマルタバン（モッタマ）で王を称した。のちにハンターワディーと呼ばれる彼の王国は、下ビルマのモン語圏を一人の君主のもとにまとめた。彼の名で編まれた法典『ワレル・ダンマタット』は何世紀にもわたり影響を与えた。"
+   }
+  },
+  {
+   "year": 1297,
+   "qid": "Q3446205",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The Myinsaing brothers depose Kyawswa",
+    "ko": "민사잉 형제, 짜스와 폐위",
+    "zh": "敏象三兄弟废黜加苏瓦",
+    "ja": "ミンザインの三兄弟がチョーズワーを廃位"
+   },
+   "description": {
+    "en": "In 1297 King Kyawswa of Pagan accepted vassal status from the Yuan court, prompting the three Myinsaing brothers, his own commanders, to depose him and seize power in central Burma. Kyawswa was executed soon afterward. Pagan's dynasty thus ended, and the brothers ruled from the Kyaukse district.",
+    "ko": "1297년 버간의 짜스와 왕이 원나라 조정의 봉신 지위를 받아들이자, 그의 지휘관이던 민사잉의 세 형제가 그를 폐위하고 버마 중부의 권력을 장악했다. 짜스와는 곧 처형되었다. 이로써 버간 왕조는 끝났고 형제들은 짜욱세 지구에서 통치했다.",
+    "zh": "1297年蒲甘国王加苏瓦接受元朝的藩属册封，其麾下将领敏象三兄弟随即将他废黜，夺取了缅甸中部的权力。加苏瓦不久被处死。蒲甘王朝由此终结，三兄弟以皎克西地区为根据地进行统治。",
+    "ja": "1297年、パガンのチョーズワー王が元の朝廷から臣属の地位を受け入れると、配下の将軍であったミンザインの三兄弟が彼を廃し、中部ビルマの権力を握った。チョーズワーはまもなく処刑された。こうしてパガン王朝は終わり、三兄弟はチャウセー地方から統治した。"
+   }
+  },
+  {
+   "year": 1300,
+   "qid": "Q16933803",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Second Mongol invasion fails at Myinsaing",
+    "ko": "제2차 몽골 침입, 민사잉에서 실패",
+    "zh": "元军第二次入侵敏象失败",
+    "ja": "第二次モンゴル侵攻、ミンザインで失敗"
+   },
+   "description": {
+    "en": "In response to Kyawswa's deposition, Yuan forces from Yunnan invaded central Burma in 1300 and besieged the fortress of Myinsaing in early 1301. The siege failed, and the Mongol commanders withdrew after receiving payments, for which they were later punished in China. The Yuan soon gave up direct involvement in central Burma.",
+    "ko": "짜스와 폐위에 대응해 윈난의 원나라 군대는 1300년 버마 중부를 침공하고 1301년 초 민사잉 요새를 포위했다. 포위는 실패했고 몽골 지휘관들은 금품을 받고 철수했다가 훗날 중국에서 처벌받았다. 원나라는 곧 버마 중부에 대한 직접 개입을 포기했다.",
+    "zh": "为回应加苏瓦被废，云南元军于1300年入侵缅甸中部，并于1301年初围攻敏象城堡。围攻未能奏效，蒙古将领收受财物后撤军，后来在中国受到惩处。元朝不久便放弃了对缅甸中部的直接干预。",
+    "ja": "チョーズワー廃位への報復として、雲南の元軍は1300年に中部ビルマに侵攻し、1301年初めにミンザインの城塞を包囲した。包囲は失敗し、モンゴルの指揮官たちは金品を受け取って撤退し、のちに中国で処罰された。元はまもなく中部ビルマへの直接介入を断念した。"
+   }
+  },
+  {
+   "year": 1313,
+   "qid": "Q3446213",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Thihathu founds the Pinya kingdom",
+    "ko": "띠하투, 핀야 왕국을 세우다",
+    "zh": "僧哥速建立彬牙王国",
+    "ja": "ティハトゥがピンヤ朝を開く"
+   },
+   "description": {
+    "en": "In 1313 Thihathu, the youngest and most powerful of the Myinsaing brothers, founded a new capital at Pinya and claimed to be the heir of the Pagan kings. Two years later his son Saw Yun established a rival seat at Sagaing, splitting central Burma. The rivalry between Pinya and Sagaing lasted until both were sacked by Shan raiders in 1364.",
+    "ko": "1313년 민사잉 형제 중 막내이자 가장 강력했던 띠하투는 핀야에 새 수도를 세우고 버간 왕들의 계승자를 자처했다. 2년 뒤 그의 아들 소윤이 사가잉에 경쟁 근거지를 세워 버마 중부가 갈라졌다. 핀야와 사가잉의 대립은 1364년 샨족 침입자들이 두 곳을 모두 약탈할 때까지 이어졌다.",
+    "zh": "1313年，敏象三兄弟中最年轻也最强大的僧哥速在彬牙建立新都，自称蒲甘诸王的继承人。两年后其子梭云在实皆另立据点，缅甸中部由此分裂。彬牙与实皆的对立一直持续到1364年两地均遭掸族侵略者洗劫为止。",
+    "ja": "1313年、ミンザイン三兄弟の末弟で最有力者のティハトゥはピンヤに新しい都を築き、パガン王の後継を称した。二年後、息子ソーユンがザガインに対抗拠点を設け、中部ビルマは分裂した。ピンヤとザガインの対立は、1364年に両都がシャン人に略奪されるまで続いた。"
+   }
+  },
+  {
+   "year": 1365,
+   "qid": "Q2500952",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Thado Minbya founds Ava",
+    "ko": "타도민바, 아와를 세우다",
+    "zh": "他拖弥波耶建立阿瓦",
+    "ja": "タドーミンビャーがアヴァを建てる"
+   },
+   "description": {
+    "en": "After Shan forces from Mong Mao sacked Pinya and Sagaing in 1364, the young prince Thado Minbya reunited central Burma and in 1365 founded a new capital at Ava (Inwa), at the confluence of the Irrawaddy and Myitnge rivers. Ava remained, with interruptions, the principal royal city of Upper Burma for nearly five centuries. The name 'Ava' became Europeans' common term for the Burmese kingdom.",
+    "ko": "1364년 몽마오의 샨군이 핀야와 사가잉을 약탈한 뒤, 젊은 왕자 타도민바는 버마 중부를 다시 통합하고 1365년 에야와디강과 밋응에강의 합류점에 새 수도 아와(잉와)를 세웠다. 아와는 간헐적인 공백을 제외하면 거의 5세기 동안 상부 버마의 주요 왕도였다. '아와'라는 이름은 유럽인들이 버마 왕국을 부르는 통칭이 되었다.",
+    "zh": "1364年麓川（勐卯）的掸族军队洗劫彬牙和实皆之后，年轻的王子他拖弥波耶重新统一缅甸中部，并于1365年在伊洛瓦底江与密埃河交汇处建立新都阿瓦（因瓦）。此后近五个世纪里，阿瓦虽有中断，始终是上缅甸的主要王都。“阿瓦”之名也成为欧洲人对缅甸王国的通称。",
+    "ja": "1364年にモン・マオのシャン軍がピンヤとザガインを略奪した後、若い王子タドーミンビャーは中部ビルマを再統一し、1365年にエーヤワディー川とミッンゲ川の合流点に新都アヴァ（インワ）を築いた。アヴァは中断を挟みつつ約五世紀にわたり上ビルマの主要な王都であり続けた。「アヴァ」の名はヨーロッパ人がビルマ王国を呼ぶ通称となった。"
+   }
+  },
+  {
+   "year": 1385,
+   "qid": "Q3119006",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Forty Years' War between Ava and Hanthawaddy",
+    "ko": "아와와 한타와디의 40년 전쟁",
+    "zh": "阿瓦与勃固的四十年战争",
+    "ja": "アヴァとハンターワディーの四十年戦争"
+   },
+   "description": {
+    "en": "From 1385 to 1424 the Burman kingdom of Ava and the Mon kingdom of Hanthawaddy fought an intermittent series of wars for control of the Irrawaddy valley. The rivalry between King Minkhaung of Ava, his heroic son Minyekyawswa and the Mon king Razadarit became the subject of celebrated chronicles and dramas. Neither side won, and the war confirmed the division between Upper and Lower Burma.",
+    "ko": "1385년부터 1424년까지 버마족의 아와 왕국과 몬족의 한타와디 왕국은 에야와디 유역의 패권을 놓고 간헐적인 전쟁을 벌였다. 아와의 민카웅 왕, 그의 영웅적인 아들 민예짜스와, 몬족의 라자다릿 왕의 대결은 유명한 연대기와 연극의 소재가 되었다. 어느 쪽도 이기지 못했고, 전쟁은 상부와 하부 버마의 분단을 굳혔다.",
+    "zh": "1385至1424年间，缅族的阿瓦王国与孟族的勃固王朝为争夺伊洛瓦底江流域而断续交战。阿瓦国王明康、其英勇的王子明耶觉苏瓦与孟族国王亚扎底律之间的较量，成为著名编年史和戏剧的题材。双方均未取胜，战争巩固了上、下缅甸的分立格局。",
+    "ja": "1385年から1424年まで、ビルマ人のアヴァ王国とモン人のハンターワディー王国は、エーヤワディー流域の覇権をめぐって断続的に戦った。アヴァのミンカウン王、その勇猛な王子ミンイェーチョーズワー、モンのラーザダリット王の対決は、名高い年代記や劇の題材となった。どちらも勝てず、戦争は上ビルマと下ビルマの分立を固めた。"
+   }
+  },
+  {
+   "year": 1386,
+   "qid": "Q30682205",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ming China fights the Mong Mao",
+    "ko": "명나라와 몽마오의 전쟁",
+    "zh": "明朝与麓川之战",
+    "ja": "明とモン・マオの戦い"
+   },
+   "description": {
+    "en": "From 1386 the Ming dynasty fought the Tai Mong Mao (Luchuan) polity, which had expanded across the Shweli valley on today's Myanmar–China border and raided Burmese lands. Ming armies defeated the Mong Mao by 1388, and further Ming campaigns in the 1440s broke its power. The decline of Mong Mao reshaped the network of Shan principalities in northern Myanmar.",
+    "ko": "1386년부터 명나라는 오늘날 미얀마-중국 국경의 쉐리강 유역에 걸쳐 세력을 넓히고 버마 지역을 침입하던 타이계 몽마오(녹천)와 싸웠다. 명군은 1388년까지 몽마오를 격파했고, 1440년대의 추가 원정으로 그 세력을 무너뜨렸다. 몽마오의 쇠퇴는 미얀마 북부 샨 소국들의 판도를 바꾸어 놓았다.",
+    "zh": "自1386年起，明朝与扩张至今中缅边境瑞丽江流域并侵扰缅地的傣族麓川（勐卯）政权交战。明军至1388年击败麓川，15世纪40年代的再度征讨（三征麓川）彻底摧毁其势力。麓川的衰落重塑了缅甸北部掸族诸邦的格局。",
+    "ja": "1386年から明は、現在のミャンマー・中国国境のシュエリー川流域に勢力を広げビルマの地を侵していたタイ系のモン・マオ（麓川）と戦った。明軍は1388年までにモン・マオを破り、1440年代の再度の遠征でその勢力を砕いた。モン・マオの衰退はミャンマー北部のシャン諸国の勢力図を塗り替えた。"
+   }
+  },
+  {
+   "year": 1430,
+   "qid": "Q10791211",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Min Saw Mon founds Mrauk U",
+    "ko": "민소몬, 므라우우를 세우다",
+    "zh": "敏修蒙建立妙乌",
+    "ja": "ミンソーモンがミャウーを建設"
+   },
+   "description": {
+    "en": "King Min Saw Mon of Arakan, driven out by Ava's armies in 1406, spent over two decades in exile in the Bengal Sultanate before regaining his throne in 1429 with Bengali military help. In 1430 he founded the city of Mrauk U, which became the capital of a powerful Arakanese kingdom for over three centuries. Early Mrauk U kings used Islamic titles and coins, reflecting their ties with Bengal.",
+    "ko": "1406년 아와군에게 쫓겨난 아라칸의 민소몬 왕은 벵골 술탄국에서 20여 년 망명 생활을 한 뒤 1429년 벵골의 군사 지원으로 왕위를 되찾았다. 그는 1430년 므라우우를 세웠고, 이곳은 3세기 넘게 강력한 아라칸 왕국의 수도가 되었다. 초기 므라우우의 왕들은 벵골과의 관계를 반영해 이슬람식 칭호와 화폐를 사용했다.",
+    "zh": "阿拉干国王敏修蒙于1406年被阿瓦军队逐出，在孟加拉苏丹国流亡二十余年，1429年借助孟加拉的军事援助复位。1430年他建立了妙乌城，此后三个多世纪它一直是强大的阿拉干王国的都城。早期妙乌诸王使用伊斯兰式称号和钱币，反映出与孟加拉的密切关系。",
+    "ja": "1406年にアヴァ軍に追われたアラカンのミンソーモン王は、ベンガル・スルターン朝で二十年余り亡命生活を送り、1429年にベンガルの軍事支援で王位を回復した。1430年にミャウーを建設し、以後三世紀以上にわたり強力なアラカン王国の都となった。初期のミャウー王はベンガルとの関係を反映してイスラーム風の称号や貨幣を用いた。"
+   }
+  },
+  {
+   "year": 1454,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Queen Shin Sawbu rules Hanthawaddy",
+    "ko": "신소부 여왕의 한타와디 통치",
+    "zh": "信修浮女王治理勃固",
+    "ja": "シンソープ女王のハンターワディー統治"
+   },
+   "description": {
+    "en": "Shin Sawbu, a daughter of King Razadarit, became ruler of the Mon kingdom of Hanthawaddy in 1454, one of the few reigning queens in Burmese history. Her reign was remembered as peaceful and prosperous, and she enlarged and gilded the Shwedagon Pagoda in Dagon, raising it close to its present height. In 1471 she handed the throne to the learned monk Dhammazedi.",
+    "ko": "라자다릿 왕의 딸 신소부는 1454년 몬족 한타와디 왕국의 통치자가 되었으며, 버마 역사상 드문 재위 여왕 가운데 한 명이다. 그녀의 치세는 평화롭고 번영한 시대로 기억되며, 다곤의 쉐다곤 파고다를 증축하고 금으로 입혀 오늘날에 가까운 높이로 올렸다. 1471년 그녀는 학식 높은 승려 담마제디에게 왕위를 넘겼다.",
+    "zh": "亚扎底律王之女信修浮于1454年成为孟族勃固王朝的统治者，是缅甸历史上少有的在位女王之一。她的统治被铭记为和平繁荣的时期，她扩建并为大光的瑞光大金塔贴金，使其接近今日的高度。1471年她将王位传给博学的僧人达摩悉提。",
+    "ja": "ラーザダリット王の娘シンソープは1454年にモン人のハンターワディー王国の君主となった。ビルマ史上数少ない女王の一人である。その治世は平和で繁栄した時代として記憶され、ダゴンのシュエダゴン・パゴダを増築して金で覆い、現在に近い高さにした。1471年、彼女は学識ある僧ダンマゼーディーに王位を譲った。"
+   }
+  },
+  {
+   "year": 1479,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Dhammazedi's Kalyani inscriptions",
+    "ko": "담마제디의 칼야니 비문",
+    "zh": "达摩悉提的迦耶尼碑铭",
+    "ja": "ダンマゼーディーのカルヤーニー碑文"
+   },
+   "description": {
+    "en": "King Dhammazedi of Hanthawaddy sent monks to Sri Lanka for reordination and in 1479 recorded his reform of the Buddhist order in the Kalyani inscriptions at Pegu. The ten stone slabs, in Pali and Mon, set out the history of Theravada in the region and the rules for a valid ordination hall (sima). The reform unified the Mon sangha and influenced Buddhism across Burma and Siam.",
+    "ko": "한타와디의 담마제디 왕은 승려들을 스리랑카에 보내 재수계를 받게 하고, 1479년 바고의 칼야니 비문에 불교 승단 개혁을 기록했다. 팔리어와 몬어로 된 열 개의 석판은 이 지역 상좌부 불교의 역사와 올바른 계단(시마)의 규정을 담고 있다. 이 개혁은 몬족 승가를 통합하고 버마와 시암 불교 전반에 영향을 주었다.",
+    "zh": "勃固王朝的达摩悉提王派遣僧侣赴斯里兰卡重新受戒，并于1479年在勃固的迦耶尼碑铭中记录了他对僧团的改革。这十块以巴利文和孟文刻成的石碑叙述了该地区上座部佛教的历史及合法戒坛（结界）的规定。这次改革统一了孟族僧团，并影响了整个缅甸和暹罗的佛教。",
+    "ja": "ハンターワディーのダンマゼーディー王は僧をスリランカへ派遣して再受戒させ、1479年にペグーのカルヤーニー碑文に僧団改革を記した。パーリ語とモン語による十枚の石板は、この地域の上座部仏教の歴史と正しい戒壇（シーマー）の規定を述べる。この改革はモン人の僧団を統一し、ビルマとシャムの仏教全体に影響を与えた。"
+   }
+  },
+  {
+   "year": 1510,
+   "qid": "Q519718",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Toungoo breaks away from Ava",
+    "ko": "따웅우, 아와로부터 독립",
+    "zh": "东吁脱离阿瓦独立",
+    "ja": "タウングーがアヴァから自立"
+   },
+   "description": {
+    "en": "Mingyi Nyo, governor of the small frontier town of Toungoo in the Sittaung valley, declared his independence from Ava in 1510. Protected by mountains and swollen by refugees fleeing Shan raids in Upper Burma, Toungoo grew in strength. His son Tabinshwehti would use this base to build a new empire.",
+    "ko": "시타웅 계곡의 작은 변경 도시 따웅우의 영주 민지뇨는 1510년 아와로부터 독립을 선언했다. 산에 둘러싸여 보호받았고 상부 버마의 샨족 침입을 피해 온 피란민으로 인구가 불어난 따웅우는 세력을 키웠다. 그의 아들 따빈쉐티는 이 기반을 이용해 새로운 제국을 건설하게 된다.",
+    "zh": "锡当河谷边境小城东吁的领主明吉瑜于1510年宣布脱离阿瓦独立。东吁有群山屏障，又因躲避上缅甸掸族侵扰的难民涌入而人口大增，实力日益增强。他的儿子莽瑞体后来以此为基地建立了新的帝国。",
+    "ja": "シッタン川流域の辺境の小都市タウングーの領主ミンジーニョーは、1510年にアヴァからの独立を宣言した。山々に守られ、上ビルマのシャン人の襲撃から逃れた避難民で人口が増えたタウングーは力をつけた。その子タビンシュエーティーはこの拠点をもとに新しい帝国を築くことになる。"
+   }
+  },
+  {
+   "year": 1527,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Shan confederation captures Ava",
+    "ko": "샨 연합, 아와를 점령하다",
+    "zh": "掸族联盟攻占阿瓦",
+    "ja": "シャン連合がアヴァを占領"
+   },
+   "description": {
+    "en": "In 1527 a confederation of Shan states led by Sawlon of Mohnyin captured Ava and killed its king, ending the old Burman dynasty there. Shan rulers held Ava until 1555, and many Burman officials and soldiers fled south to Toungoo. The period is remembered in Burmese chronicles for attacks on monasteries, though modern historians treat these accounts cautiously.",
+    "ko": "1527년 모닌의 소론이 이끄는 샨 국가 연합은 아와를 점령하고 왕을 살해해 그곳의 오랜 버마족 왕조를 끝냈다. 샨족 군주들은 1555년까지 아와를 지배했고 많은 버마족 관리와 병사가 남쪽 따웅우로 피신했다. 버마 연대기는 이 시기를 사원 공격의 시대로 기억하지만, 현대 학자들은 이 기록을 신중히 다룬다.",
+    "zh": "1527年，由孟养的思伦率领的掸族联盟攻占阿瓦并杀死国王，终结了当地的缅族旧王朝。掸族统治者占据阿瓦直到1555年，许多缅族官员和士兵南逃东吁。缅甸编年史记载这一时期寺院屡遭破坏，但现代史家对这些记载持审慎态度。",
+    "ja": "1527年、モーニンのソーロン率いるシャン諸国の連合がアヴァを占領して王を殺し、そこにあった古いビルマ人の王朝を終わらせた。シャンの支配者は1555年までアヴァを保持し、多くのビルマ人の官僚や兵士が南のタウングーへ逃れた。ビルマの年代記はこの時期を僧院が襲われた時代として記すが、現代の歴史家はこうした記述を慎重に扱う。"
+   }
+  },
+  {
+   "year": 1534,
+   "qid": "Q7828916",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Toungoo–Hanthawaddy War",
+    "ko": "따웅우-한타와디 전쟁",
+    "zh": "东吁—勃固战争",
+    "ja": "タウングー・ハンターワディー戦争"
+   },
+   "description": {
+    "en": "Beginning in 1534, King Tabinshwehti of Toungoo launched annual campaigns against the wealthy Mon kingdom of Hanthawaddy. Pegu fell in 1539 and the great port of Martaban in 1541, after which Tabinshwehti moved his capital to Pegu and adopted Mon customs to win over his new subjects. The war united Lower Burma with the Toungoo heartland and created the core of a new empire.",
+    "ko": "1534년부터 따웅우의 따빈쉐티 왕은 부유한 몬족 한타와디 왕국을 상대로 해마다 원정을 벌였다. 바고는 1539년, 대항구 마르타반은 1541년에 함락되었고, 따빈쉐티는 수도를 바고로 옮기고 새 신민을 얻기 위해 몬족 관습을 받아들였다. 이 전쟁으로 하부 버마와 따웅우 본거지가 통합되어 새 제국의 핵심이 만들어졌다.",
+    "zh": "自1534年起，东吁国王莽瑞体每年出兵进攻富庶的孟族勃固王朝。勃固于1539年陷落，大港马达班于1541年失守，莽瑞体随后迁都勃固，并采纳孟族习俗以争取新臣民。这场战争把下缅甸与东吁本土联为一体，形成了新帝国的核心。",
+    "ja": "1534年から、タウングーのタビンシュエーティー王は豊かなモン人のハンターワディー王国に毎年遠征した。ペグーは1539年、大港マルタバンは1541年に陥落し、タビンシュエーティーは都をペグーへ移し、新たな臣民の心をつかむためモンの慣習を取り入れた。この戦争で下ビルマとタウングーの本拠地が統合され、新しい帝国の中核ができた。"
+   }
+  },
+  {
+   "year": 1535,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Min Bin builds the Shittaung Temple at Mrauk U",
+    "ko": "민빈, 므라우우에 시타웅 사원을 세우다",
+    "zh": "敏宾在妙乌修建西突塔寺",
+    "ja": "ミンビン王がミャウーにシッタウン寺院を建立"
+   },
+   "description": {
+    "en": "King Min Bin of Mrauk U (r. 1531–1554) strengthened Arakan with Portuguese mercenaries and fortifications and repelled an invasion by Tabinshwehti in 1546–47. In 1535 he began the Shittaung Temple, a fortress-like shrine whose corridors hold tens of thousands of Buddha images and reliefs. Under him Mrauk U became a major regional power and trading city.",
+    "ko": "므라우우의 민빈 왕(재위 1531~1554)은 포르투갈 용병과 요새로 아라칸을 강화하고 1546~47년 따빈쉐티의 침공을 물리쳤다. 1535년 그는 요새 같은 사원인 시타웅 사원을 짓기 시작했으며, 그 회랑에는 수만 기의 불상과 부조가 있다. 그의 치세에 므라우우는 주요 지역 강국이자 교역 도시가 되었다.",
+    "zh": "妙乌国王敏宾（1531—1554年在位）借助葡萄牙雇佣兵和防御工事加强阿拉干，并于1546—1547年击退莽瑞体的入侵。1535年他开始修建西突塔寺，这座堡垒般的寺庙回廊中有数以万计的佛像和浮雕。在他治下，妙乌成为重要的地区强国和贸易城市。",
+    "ja": "ミャウーのミンビン王（在位1531～1554年）はポルトガル人傭兵と要塞でアラカンを強化し、1546～47年のタビンシュエーティーの侵攻を退けた。1535年には要塞のような寺院シッタウン寺院の建設を始め、その回廊には数万の仏像やレリーフが並ぶ。彼の治世にミャウーは有力な地域大国、交易都市となった。"
+   }
+  },
+  {
+   "year": 1548,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First Burmese–Siamese War",
+    "ko": "제1차 버마-시암 전쟁",
+    "zh": "第一次缅暹战争",
+    "ja": "第一次ビルマ・シャム戦争"
+   },
+   "description": {
+    "en": "In 1547–49 Tabinshwehti invaded Siam and in 1548 laid siege to its capital Ayutthaya, but failed to take the city and withdrew. Thai tradition remembers Queen Suriyothai, who died fighting on elephant-back during this campaign. It was the first of a long series of wars between Burmese and Siamese kingdoms that lasted into the 19th century.",
+    "ko": "1547~49년 따빈쉐티는 시암을 침공해 1548년 수도 아유타야를 포위했으나 함락시키지 못하고 철수했다. 태국 전승은 이 원정 중 코끼리를 타고 싸우다 전사한 수리요타이 왕비를 기억한다. 이는 19세기까지 이어진 버마와 시암 왕국 간의 긴 전쟁의 첫 번째였다.",
+    "zh": "1547至1549年，莽瑞体入侵暹罗，并于1548年围攻其都城阿瑜陀耶，但未能攻克而撤军。泰国传统纪念在此役中骑象作战牺牲的素丽瑶泰王后。这是缅甸与暹罗诸王国之间一直延续到19世纪的长期战争中的第一场。",
+    "ja": "1547～49年、タビンシュエーティーはシャムに侵攻し、1548年に都アユタヤを包囲したが、攻略できずに撤退した。タイの伝承は、この戦いで象に乗って戦死したスリヨータイ王妃を語り継ぐ。これは19世紀まで続くビルマとシャムの諸王国間の長い戦争の最初のものであった。"
+   }
+  },
+  {
+   "year": 1551,
+   "qid": "Q23039102",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Bayinnaung builds the Toungoo Empire",
+    "ko": "버인나웅, 따웅우 제국을 건설하다",
+    "zh": "莽应龙缔造东吁帝国",
+    "ja": "バインナウンがタウングー帝国を築く"
+   },
+   "description": {
+    "en": "After Tabinshwehti was assassinated in 1550, his general and brother-in-law Bayinnaung reconquered Pegu in 1551 and went on to take Ava (1555), the Shan states, Manipur, Lan Na (1558) and Ayutthaya (1564, 1569). For a time his realm was the largest empire in the history of mainland Southeast Asia. Bayinnaung also standardized weights and measures, compiled law books and endowed Buddhist monuments across his domains.",
+    "ko": "1550년 따빈쉐티가 암살된 뒤 그의 장군이자 매부인 버인나웅은 1551년 바고를 재정복하고, 이어 아와(1555), 샨 국가들, 마니푸르, 란나(1558), 아유타야(1564, 1569)를 차지했다. 한때 그의 영토는 동남아시아 본토 역사상 가장 큰 제국이었다. 버인나웅은 도량형을 통일하고 법전을 편찬했으며 영토 곳곳에 불교 기념물을 봉헌했다.",
+    "zh": "1550年莽瑞体遇刺后，其大将兼妹夫莽应龙于1551年重新攻取勃固，继而夺取阿瓦（1555年）、掸邦、曼尼普尔、兰纳（1558年）和阿瑜陀耶（1564年、1569年）。他的疆域一度是东南亚大陆史上最大的帝国。莽应龙还统一度量衡、编纂法典，并在各地捐建佛教建筑。",
+    "ja": "1550年にタビンシュエーティーが暗殺されると、その将軍で義兄弟のバインナウンは1551年にペグーを再征服し、続いてアヴァ（1555年）、シャン諸国、マニプル、ラーンナー（1558年）、アユタヤ（1564年、1569年）を手中に収めた。一時その版図は東南アジア大陸部史上最大の帝国となった。バインナウンは度量衡を統一し、法典を編纂し、領内各地に仏教建築を寄進した。"
+   }
+  },
+  {
+   "year": 1569,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Bayinnaung captures Ayutthaya",
+    "ko": "버인나웅, 아유타야를 함락하다",
+    "zh": "莽应龙攻陷阿瑜陀耶",
+    "ja": "バインナウンがアユタヤを攻略"
+   },
+   "description": {
+    "en": "After a long siege, Bayinnaung's armies took the Siamese capital Ayutthaya in 1569, installing a vassal king and carrying off members of the royal family, including the young prince Naresuan, as hostages. Siam remained a Toungoo vassal until Naresuan declared independence in 1584. The conquest marked the peak of Toungoo power, but the empire proved impossible to hold after Bayinnaung's death in 1581.",
+    "ko": "오랜 포위 끝에 버인나웅의 군대는 1569년 시암의 수도 아유타야를 함락하고, 봉신 왕을 세우며 어린 나레수안 왕자를 비롯한 왕족을 인질로 데려갔다. 시암은 1584년 나레수안이 독립을 선언할 때까지 따웅우의 봉신국이었다. 이 정복은 따웅우 세력의 정점이었으나, 제국은 1581년 버인나웅이 죽은 뒤 유지될 수 없었다.",
+    "zh": "经过长期围城，莽应龙的军队于1569年攻陷暹罗都城阿瑜陀耶，扶立藩属国王，并将包括年幼的纳黎萱王子在内的王族成员掳为人质。暹罗一直是东吁的藩属，直到1584年纳黎萱宣布独立。这次征服标志着东吁国力的顶峰，但莽应龙于1581年去世后帝国难以为继。",
+    "ja": "長い包囲の末、バインナウンの軍は1569年にシャムの都アユタヤを攻略し、属国王を立て、幼いナレースワン王子を含む王族を人質として連れ去った。シャムは1584年にナレースワンが独立を宣言するまでタウングーの属国であった。この征服はタウングーの国力の頂点であったが、1581年にバインナウンが没すると帝国は維持できなくなった。"
+   }
+  },
+  {
+   "year": 1599,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall and sack of Pegu",
+    "ko": "바고의 함락과 약탈",
+    "zh": "勃固陷落遭劫",
+    "ja": "ペグーの陥落と略奪"
+   },
+   "description": {
+    "en": "Exhausted by Nanda Bayin's failed wars against Siam, the Toungoo empire disintegrated as vassals rebelled. In 1599 the forces of Arakan and of the Toungoo viceroy captured Pegu, carried off its treasures and burned the city; Nanda Bayin was killed soon afterward. The once-great imperial capital lay in ruins, and Lower Burma fell into disorder.",
+    "ko": "난다 버인의 실패한 대시암 전쟁으로 지친 따웅우 제국은 봉신들의 반란 속에 해체되었다. 1599년 아라칸군과 따웅우 부왕의 군대가 바고를 점령해 보물을 약탈하고 도시를 불태웠으며, 난다 버인은 곧 살해되었다. 한때 위대했던 제국의 수도는 폐허가 되었고 하부 버마는 혼란에 빠졌다.",
+    "zh": "莽应里对暹罗屡战屡败，东吁帝国国力耗竭，藩属纷纷叛离，帝国随之瓦解。1599年阿拉干军队与东吁副王的部队攻占勃固，掠走财宝并焚毁城市，莽应里不久被杀。昔日辉煌的帝国都城沦为废墟，下缅甸陷入混乱。",
+    "ja": "ナンダバインの対シャム戦争の失敗で疲弊したタウングー帝国は、属国の反乱で解体した。1599年、アラカン軍とタウングー副王の軍がペグーを占領して財宝を奪い、町を焼き払い、ナンダバインはまもなく殺された。かつての偉大な帝都は廃墟となり、下ビルマは混乱に陥った。"
+   }
+  },
+  {
+   "year": 1613,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Anaukpetlun retakes Syriam from de Brito",
+    "ko": "아나욱펫룬, 데브리투로부터 탄린을 탈환",
+    "zh": "阿那毕隆从德·布里托手中收复沙廉",
+    "ja": "アナウッペッルンがデ・ブリトからシリアムを奪回"
+   },
+   "description": {
+    "en": "After the fall of Pegu, the Portuguese adventurer Filipe de Brito e Nicote, originally in Arakanese service, made himself master of the port of Syriam (Thanlyin) near modern Yangon. In 1613 King Anaukpetlun of the restored Toungoo dynasty besieged and captured Syriam and executed de Brito. Anaukpetlun went on to reunite Lower Burma and the Shan states, ending European ambitions to control the coast.",
+    "ko": "바고 함락 이후 원래 아라칸을 섬기던 포르투갈 모험가 필리프 드 브리투 이 니코트는 오늘날 양곤 근처의 항구 탄린(시리암)을 장악했다. 1613년 복원 따웅우 왕조의 아나욱펫룬 왕은 탄린을 포위해 함락하고 데브리투를 처형했다. 아나욱펫룬은 이어 하부 버마와 샨 국가들을 재통합해 해안을 장악하려던 유럽인의 야망을 꺾었다.",
+    "zh": "勃固陷落后，原为阿拉干效力的葡萄牙冒险家菲利普·德·布里托·伊·尼科特占据了今仰光附近的港口沙廉（丁茵）。1613年复兴东吁王朝的阿那毕隆王围攻并攻克沙廉，处死了德·布里托。阿那毕隆随后重新统一下缅甸和掸邦，粉碎了欧洲人控制沿海的企图。",
+    "ja": "ペグー陥落後、もとはアラカンに仕えたポルトガル人冒険家フィリペ・デ・ブリト・エ・ニコテは、現在のヤンゴン近くの港シリアム（タンリン）を支配した。1613年、復興タウングー朝のアナウッペッルン王はシリアムを包囲攻略し、デ・ブリトを処刑した。アナウッペッルンはさらに下ビルマとシャン諸国を再統合し、沿岸支配を狙うヨーロッパ人の野望をくじいた。"
+   }
+  },
+  {
+   "year": 1635,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Thalun returns the capital to Ava",
+    "ko": "탈룬, 수도를 아와로 되돌리다",
+    "zh": "他隆王迁都回阿瓦",
+    "ja": "タールン王が都をアヴァへ戻す"
+   },
+   "description": {
+    "en": "King Thalun moved the royal capital from Pegu back to Ava in 1635, shifting the kingdom's centre of gravity to the agrarian heartland of Upper Burma. He reorganized the administration and in 1638 ordered a comprehensive revenue inquest (sittan) recording land, population and obligations. His reforms gave the restored Toungoo state over a century of relative stability.",
+    "ko": "탈룬 왕은 1635년 왕도를 바고에서 다시 아와로 옮겨 왕국의 중심을 상부 버마의 농업 중심지로 이동시켰다. 그는 행정을 재편하고 1638년 토지·인구·의무를 기록하는 대대적인 세입 조사(싯탄)를 명했다. 그의 개혁은 복원 따웅우 국가에 한 세기 넘는 상대적 안정을 가져다주었다.",
+    "zh": "他隆王于1635年将王都从勃固迁回阿瓦，使王国的重心转回上缅甸的农业腹地。他整顿行政，并于1638年下令进行全面的税收清查（户籍调查），登记土地、人口和赋役。他的改革使复兴的东吁国家获得了一个多世纪的相对稳定。",
+    "ja": "タールン王は1635年に王都をペグーからアヴァへ戻し、王国の重心を上ビルマの農業中心地へ移した。行政を再編し、1638年には土地・人口・負担を記録する大規模な歳入調査（シッタン）を命じた。その改革は復興タウングー国家に一世紀以上の相対的安定をもたらした。"
+   }
+  },
+  {
+   "year": 1661,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mughal prince Shah Shuja dies in Arakan",
+    "ko": "무굴 왕자 샤 슈자, 아라칸에서 죽다",
+    "zh": "莫卧儿王子沙·舒贾死于阿拉干",
+    "ja": "ムガル皇子シャー・シュジャーがアラカンで死去"
+   },
+   "description": {
+    "en": "Defeated in the Mughal war of succession by his brother Aurangzeb, Prince Shah Shuja fled with his family to Mrauk U in 1660 and sought refuge with the Arakanese king Sanda Thudhamma. Relations broke down and Shah Shuja and most of his family were killed in 1661. The episode embittered relations with the Mughal Empire, which soon struck back at Arakan's position in Chittagong.",
+    "ko": "무굴 계승 전쟁에서 동생 아우랑제브에게 패한 샤 슈자 왕자는 1660년 가족과 함께 므라우우로 달아나 아라칸의 산다 투담마 왕에게 의탁했다. 관계가 틀어지면서 1661년 샤 슈자와 대부분의 가족이 살해되었다. 이 사건은 무굴 제국과의 관계를 악화시켰고, 무굴은 곧 치타공의 아라칸 세력을 공격했다.",
+    "zh": "在莫卧儿王位争夺战中败给弟弟奥朗则布的沙·舒贾王子，于1660年携家眷逃往妙乌，投奔阿拉干国王山达·苏达摩。双方关系破裂，1661年沙·舒贾及其大多数家人被杀。此事使阿拉干与莫卧儿帝国的关系恶化，后者不久便对阿拉干在吉大港的势力发动反击。",
+    "ja": "ムガルの継承戦争で弟アウラングゼーブに敗れたシャー・シュジャー皇子は、1660年に一族とともにミャウーへ逃れ、アラカンのサンダトゥダンマ王を頼った。関係は決裂し、1661年にシャー・シュジャーと一族の大半が殺された。この事件はムガル帝国との関係を悪化させ、ムガルはまもなくチッタゴンのアラカン勢力に反撃した。"
+   }
+  },
+  {
+   "year": 1662,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Yongli Emperor handed over to the Qing",
+    "ko": "영력제, 청에 넘겨지다",
+    "zh": "永历帝被交给清军",
+    "ja": "永暦帝が清に引き渡される"
+   },
+   "description": {
+    "en": "The Yongli Emperor, last ruler of the Southern Ming, fled from Yunnan into Burma in 1659 and was given refuge near Ava. When a Qing army under Wu Sangui advanced to the capital, the Burmese court under King Pye Min handed him over in early 1662, and he was executed in Kunming. The episode brought Ming loyalist bands and Qing troops into Upper Burma and caused turmoil at the Burmese court.",
+    "ko": "남명의 마지막 황제 영력제는 1659년 윈난에서 버마로 피신해 아와 근처에 머물렀다. 오삼계가 이끄는 청군이 수도로 진격하자 삐에민 왕의 버마 조정은 1662년 초 그를 넘겨주었고, 그는 쿤밍에서 처형되었다. 이 사건으로 명 유신 무리와 청군이 상부 버마에 들어와 버마 궁정은 혼란에 빠졌다.",
+    "zh": "南明最后一位皇帝永历帝于1659年自云南逃入缅甸，被安置在阿瓦附近。吴三桂率清军进逼缅都时，莽白王的缅甸朝廷于1662年初将其交出，永历帝随后在昆明被处死。此事使明朝遗部和清军进入上缅甸，并引起缅甸宫廷动荡。",
+    "ja": "南明最後の皇帝永暦帝は1659年に雲南からビルマへ逃れ、アヴァ近くに身を寄せた。呉三桂率いる清軍が都に迫ると、ピイェ王のビルマ宮廷は1662年初めに彼を引き渡し、永暦帝は昆明で処刑された。この出来事で明の遺臣の集団と清軍が上ビルマに入り込み、ビルマの宮廷は混乱した。"
+   }
+  },
+  {
+   "year": 1666,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Arakan loses Chittagong to the Mughals",
+    "ko": "아라칸, 치타공을 무굴에 빼앗기다",
+    "zh": "阿拉干失吉大港于莫卧儿",
+    "ja": "アラカンがチッタゴンをムガルに奪われる"
+   },
+   "description": {
+    "en": "In 1666 Mughal forces sent by Shaista Khan, governor of Bengal, captured Chittagong, which Arakan had held for long periods and used as a base for raids, with Portuguese allies, on the Bengal delta. The loss deprived Mrauk U of revenue and manpower. It marked the beginning of a long decline of the Arakanese kingdom.",
+    "ko": "1666년 벵골 총독 샤이스타 칸이 보낸 무굴군은 치타공을 점령했다. 아라칸은 오랫동안 이곳을 차지하고 포르투갈 동맹 세력과 함께 벵골 삼각주를 습격하는 기지로 써 왔다. 이 상실로 므라우우는 세입과 인력을 잃었고, 아라칸 왕국의 오랜 쇠퇴가 시작되었다.",
+    "zh": "1666年，孟加拉总督沙伊斯塔汗派遣的莫卧儿军队攻占吉大港。阿拉干长期占据此地，并与葡萄牙盟友以其为基地袭扰孟加拉三角洲。失去吉大港使妙乌丧失了财源和人力，标志着阿拉干王国长期衰落的开始。",
+    "ja": "1666年、ベンガル総督シャーイスタ・ハーンが派遣したムガル軍はチッタゴンを攻略した。アラカンは長くこの地を保持し、ポルトガル人の同盟者とともにベンガル・デルタ襲撃の基地としていた。その喪失でミャウーは財源と人的資源を失い、アラカン王国の長い衰退が始まった。"
+   }
+  },
+  {
+   "year": 1740,
+   "qid": "Q3302610",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Mon revolt restores Hanthawaddy",
+    "ko": "몬족 봉기와 한타와디의 부활",
+    "zh": "孟族起义复兴勃固王国",
+    "ja": "モン人の反乱とハンターワディーの復興"
+   },
+   "description": {
+    "en": "In 1740, as the Toungoo court at Ava weakened under Manipuri raids, the people of Lower Burma rebelled and proclaimed Smim Htaw Buddhaketi king at Pegu, reviving the Hanthawaddy kingdom. The revolt drew on Mon identity but was supported by a mixed population. The new kingdom soon took the offensive against Ava.",
+    "ko": "1740년 아와의 따웅우 조정이 마니푸르의 침입으로 약해지자, 하부 버마 주민들이 봉기해 바고에서 스밈토 붓다케티를 왕으로 추대하고 한타와디 왕국을 부활시켰다. 이 봉기는 몬족 정체성에 기대었지만 다양한 주민의 지지를 받았다. 새 왕국은 곧 아와를 향해 공세에 나섰다.",
+    "zh": "1740年，阿瓦的东吁朝廷因曼尼普尔的侵袭而衰弱，下缅甸民众起义，在勃固拥立斯明陶佛陀羯帝为王，复兴了汉达瓦底王国。起义虽借助孟族认同，但得到了多元居民的支持。新王国很快向阿瓦发起攻势。",
+    "ja": "1740年、アヴァのタウングー朝廷がマニプルの襲撃で弱まると、下ビルマの住民が反乱を起こし、ペグーでスミン・ドー・ブッダケーティを王に立ててハンターワディー王国を復活させた。反乱はモン人のアイデンティティに依拠したが、多様な住民に支持された。新王国はまもなくアヴァへの攻勢に出た。"
+   }
+  },
+  {
+   "year": 1752,
+   "qid": "Q519718",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Ava ends the Toungoo dynasty",
+    "ko": "아와 함락과 따웅우 왕조의 종말",
+    "zh": "阿瓦陷落，东吁王朝终结",
+    "ja": "アヴァ陥落とタウングー朝の終焉"
+   },
+   "description": {
+    "en": "In March 1752 the armies of the Restored Hanthawaddy kingdom captured and burned Ava, taking the last Toungoo king Mahadhammaraza Dipadi captive to Pegu. The dynasty that had ruled since the early 16th century came to an end. The power vacuum in Upper Burma prompted local leaders to resist the southern conquerors.",
+    "ko": "1752년 3월 복원 한타와디 왕국의 군대는 아와를 점령해 불태우고, 따웅우의 마지막 왕 마하담마라자 디파디를 포로로 바고에 끌고 갔다. 16세기 초부터 이어진 왕조는 막을 내렸다. 상부 버마의 권력 공백은 지역 지도자들이 남쪽 정복자에 맞서 일어나게 했다.",
+    "zh": "1752年3月，复兴勃固王国的军队攻占并焚毁阿瓦，将东吁末代国王摩诃达摩耶沙底波帝俘往勃固。这个自16世纪初便统治缅甸的王朝就此终结。上缅甸出现的权力真空促使当地首领起而反抗南方的征服者。",
+    "ja": "1752年3月、復興ハンターワディー王国の軍はアヴァを占領して焼き払い、タウングー朝最後の王マハーダンマヤーザディパティを捕虜としてペグーへ連行した。16世紀初めから続いた王朝はここに終わった。上ビルマの権力の空白は、各地の指導者を南からの征服者への抵抗に駆り立てた。"
+   }
+  },
+  {
+   "year": 1752,
+   "qid": "Q1062422",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Alaungpaya founds the Konbaung dynasty",
+    "ko": "알라웅파야, 꼰바웅 왕조를 세우다",
+    "zh": "雍籍牙建立贡榜王朝",
+    "ja": "アラウンパヤーがコンバウン朝を開く"
+   },
+   "description": {
+    "en": "In 1752 Aung Zeya, headman of the village of Moksobo (Shwebo), refused to submit to Hanthawaddy, proclaimed himself king as Alaungpaya and rallied Upper Burma. Within a few years he reconquered Ava and the whole Irrawaddy valley, founding the Konbaung dynasty, the country's last royal house. He died in 1760 during a campaign against Siam.",
+    "ko": "1752년 목소보(쉐보) 마을의 촌장 아웅제야는 한타와디에 굴복하기를 거부하고 알라웅파야라는 이름으로 왕을 칭하며 상부 버마를 결집했다. 그는 몇 년 안에 아와와 에야와디 유역 전체를 재정복해 이 나라의 마지막 왕조인 꼰바웅 왕조를 세웠다. 그는 1760년 시암 원정 중에 죽었다.",
+    "zh": "1752年，木梳村（瑞波）的村长昂泽亚拒绝向勃固称臣，以雍籍牙之名自立为王，号召上缅甸起兵。数年之内他重新征服阿瓦和整个伊洛瓦底江流域，建立了缅甸最后一个王朝——贡榜王朝。他于1760年在征讨暹罗途中去世。",
+    "ja": "1752年、モッソーボ（シュエボー）村の村長アウンゼーヤはハンターワディーへの服従を拒み、アラウンパヤーと名乗って王を称し、上ビルマを結集した。数年のうちにアヴァとエーヤワディー流域全体を再征服し、この国最後の王朝コンバウン朝を開いた。1760年、シャム遠征の途中で没した。"
+   }
+  },
+  {
+   "year": 1755,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Alaungpaya renames Dagon as Yangon",
+    "ko": "알라웅파야, 다곤을 양곤으로 개명",
+    "zh": "雍籍牙将大光改名为仰光",
+    "ja": "アラウンパヤーがダゴンをヤンゴンと改名"
+   },
+   "description": {
+    "en": "After capturing the settlement of Dagon around the Shwedagon Pagoda in 1755, Alaungpaya renamed it Yangon, meaning 'end of strife'. He developed it as a port to replace Mon-held Syriam, which he took in 1756 after a siege. Yangon (Rangoon) later became the colonial capital and the country's largest city.",
+    "ko": "1755년 쉐다곤 파고다 주변의 다곤 마을을 점령한 알라웅파야는 그 이름을 '다툼의 끝'을 뜻하는 양곤으로 바꾸었다. 그는 몬족이 장악한 탄린(시리암)을 대체할 항구로 이곳을 키웠고, 탄린은 1756년 포위 끝에 함락되었다. 양곤(랑군)은 훗날 식민지 수도이자 나라 최대 도시가 되었다.",
+    "zh": "1755年，雍籍牙攻占瑞光大金塔周围的大光（达贡）聚落，将其改名为意为“战争终结”的仰光。他把仰光建设为港口，以取代孟族控制的沙廉，后者于1756年经围攻后被攻克。仰光后来成为殖民地首府和全国最大的城市。",
+    "ja": "1755年、シュエダゴン・パゴダ周辺の集落ダゴンを占領したアラウンパヤーは、これを「戦いの終わり」を意味するヤンゴンと改名した。モン人の支配するシリアムに代わる港として発展させ、シリアムは1756年に包囲の末に陥落した。ヤンゴン（ラングーン）はのちに植民地の首都、国内最大の都市となった。"
+   }
+  },
+  {
+   "year": 1757,
+   "qid": "Q3302610",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Alaungpaya conquers Pegu",
+    "ko": "알라웅파야, 바고를 정복하다",
+    "zh": "雍籍牙攻陷勃固",
+    "ja": "アラウンパヤーがペグーを征服"
+   },
+   "description": {
+    "en": "In May 1757, after a long siege, Alaungpaya's army captured and sacked Pegu, ending the Restored Hanthawaddy kingdom. Many Mon people were killed or fled to Siam, and Burman settlement in the delta increased. The conquest ended the long-standing political division between Upper and Lower Burma.",
+    "ko": "1757년 5월 오랜 포위 끝에 알라웅파야의 군대는 바고를 점령해 약탈하고 복원 한타와디 왕국을 끝냈다. 많은 몬족이 죽거나 시암으로 피신했고, 삼각주에는 버마족의 정착이 늘어났다. 이 정복으로 상부와 하부 버마 사이의 오랜 정치적 분열이 끝났다.",
+    "zh": "1757年5月，经过长期围城，雍籍牙的军队攻陷并洗劫勃固，复兴勃固王国就此灭亡。许多孟族人被杀或逃往暹罗，缅族向三角洲的移居随之增加。这次征服结束了上、下缅甸之间长期的政治分裂。",
+    "ja": "1757年5月、長い包囲の末にアラウンパヤーの軍はペグーを占領して略奪し、復興ハンターワディー王国を滅ぼした。多くのモン人が殺されるかシャムへ逃れ、デルタへのビルマ人の入植が進んだ。この征服で上ビルマと下ビルマの長年の政治的分裂は終わった。"
+   }
+  },
+  {
+   "year": 1765,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Sino-Burmese War",
+    "ko": "청-버마 전쟁",
+    "zh": "清缅战争",
+    "ja": "清緬戦争"
+   },
+   "description": {
+    "en": "Disputes over the Shan border states led the Qing dynasty to invade Burma four times between 1765 and 1769. The Burmese army under generals such as Maha Thiha Thura defeated the Qing forces, notably at Maymyo in 1768, and the war ended with the Kaungton truce in December 1769. Burma preserved its independence, though formal relations with China were only restored decades later.",
+    "ko": "샨 변경 소국들을 둘러싼 분쟁으로 청나라는 1765년부터 1769년까지 네 차례 버마를 침공했다. 마하 띠하 뚜라 등이 이끈 버마군은 1768년 메이묘 등지에서 청군을 격파했고, 전쟁은 1769년 12월 까웅톤 휴전으로 끝났다. 버마는 독립을 지켰으나 중국과의 정식 관계는 수십 년 뒤에야 회복되었다.",
+    "zh": "因掸邦边境土司归属之争，清朝于1765至1769年间四次出兵缅甸。缅甸军队在摩诃梯诃苏拉等将领指挥下击败清军，尤以1768年眉苗之战为著，战争于1769年12月以老官屯议和告终。缅甸保住了独立，但与中国的正式关系直到数十年后才恢复。",
+    "ja": "シャンの国境諸国をめぐる紛争から、清は1765年から1769年にかけて四度ビルマに侵攻した。マハー・ティハトゥラらが率いるビルマ軍は1768年のメイミョーなどで清軍を破り、戦争は1769年12月のカウントン和議で終わった。ビルマは独立を守ったが、中国との正式な関係が回復したのは数十年後であった。"
+   }
+  },
+  {
+   "year": 1767,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Konbaung armies destroy Ayutthaya",
+    "ko": "꼰바웅군, 아유타야를 파괴하다",
+    "zh": "贡榜军队摧毁阿瑜陀耶",
+    "ja": "コンバウン軍がアユタヤを破壊"
+   },
+   "description": {
+    "en": "Under King Hsinbyushin, Burmese armies besieged Ayutthaya for over a year and took the Siamese capital in April 1767, ending the Ayutthaya kingdom after four centuries. The city was sacked and many inhabitants, artisans and members of the royal family were deported to Burma. The Burmese soon withdrew to face the Qing invasions, and Siam recovered under Taksin.",
+    "ko": "신뷰신 왕 아래 버마군은 1년 넘게 아유타야를 포위한 끝에 1767년 4월 시암의 수도를 함락해 4세기에 걸친 아유타야 왕국을 끝냈다. 도시는 약탈당했고 많은 주민, 장인, 왕족이 버마로 끌려갔다. 버마군은 곧 청의 침공에 대응하기 위해 철수했고, 시암은 딱신 아래 재기했다.",
+    "zh": "在孟驳王统治下，缅军围攻阿瑜陀耶一年有余，于1767年4月攻陷暹罗都城，延续四个世纪的阿瑜陀耶王国就此灭亡。城市遭洗劫，大批居民、工匠和王族成员被掳往缅甸。缅军不久撤回以应对清军入侵，暹罗在郑信领导下复兴。",
+    "ja": "シンビューシン王のもと、ビルマ軍は一年以上アユタヤを包囲し、1767年4月にシャムの都を攻略して四世紀続いたアユタヤ王朝を終わらせた。町は略奪され、多くの住民・職人・王族がビルマへ連行された。ビルマ軍は清の侵攻に備えてまもなく撤退し、シャムはタークシンのもとで復興した。"
+   }
+  },
+  {
+   "year": 1785,
+   "qid": "Q10791211",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Konbaung conquest of Arakan",
+    "ko": "꼰바웅의 아라칸 정복",
+    "zh": "贡榜王朝征服阿拉干",
+    "ja": "コンバウン朝のアラカン征服"
+   },
+   "description": {
+    "en": "King Bodawpaya sent an army under his son that overran Arakan in late 1784 and took Mrauk U in early 1785, ending more than three and a half centuries of Arakanese independence. The revered Mahamuni Buddha image was carried across the mountains to Amarapura, where it remains in Mandalay's Mahamuni Pagoda. Heavy demands for labour and Arakanese resistance sent refugees into British Bengal, creating tensions on the new frontier.",
+    "ko": "보도파야 왕은 아들이 이끄는 군대를 보내 1784년 말 아라칸을 휩쓸고 1785년 초 므라우우를 점령해 3세기 반이 넘는 아라칸의 독립을 끝냈다. 존숭받던 마하무니 불상은 산맥을 넘어 아마라푸라로 옮겨졌고, 지금도 만달레이의 마하무니 파고다에 있다. 과중한 노역 요구와 아라칸인의 저항으로 난민이 영국령 벵골로 흘러가 새 국경에 긴장이 생겼다.",
+    "zh": "孟云王派其子率军于1784年底横扫阿拉干，并于1785年初攻占妙乌，结束了阿拉干三个半多世纪的独立。备受尊崇的摩诃牟尼佛像被翻山运往阿摩罗补罗，至今供奉在曼德勒的摩诃牟尼寺。繁重的劳役和阿拉干人的反抗使难民涌入英属孟加拉，在新边界上造成紧张局势。",
+    "ja": "ボードーパヤー王は息子率いる軍を送り、1784年末にアラカンを席巻し、1785年初めにミャウーを攻略して、三世紀半以上続いたアラカンの独立を終わらせた。崇敬されるマハームニ仏は山脈を越えてアマラプラへ運ばれ、今もマンダレーのマハームニ・パゴダにある。過酷な労役とアラカン人の抵抗により難民が英領ベンガルへ流れ、新しい国境に緊張が生じた。"
+   }
+  },
+  {
+   "year": 1790,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Bodawpaya begins the Mingun Pagoda",
+    "ko": "보도파야, 밍군 파고다 착공",
+    "zh": "孟云王开建敏贡佛塔",
+    "ja": "ボードーパヤー王がミングォン・パゴダを着工"
+   },
+   "description": {
+    "en": "In 1790 King Bodawpaya began building the Mingun Pahtodawgyi on the west bank of the Irrawaddy, intended to be the largest stupa in the world. The project was abandoned unfinished after his death, and an earthquake in 1839 cracked the massive brick base. The giant bronze Mingun Bell, cast for the pagoda in the early 19th century, is among the heaviest functioning bells in the world.",
+    "ko": "1790년 보도파야 왕은 에야와디강 서안에 세계 최대의 불탑을 목표로 밍군 파토도지를 짓기 시작했다. 공사는 그가 죽은 뒤 미완성으로 중단되었고, 1839년 지진으로 거대한 벽돌 기단에 균열이 생겼다. 19세기 초 이 탑을 위해 주조된 거대한 밍군 청동 종은 현재 울리는 종 가운데 세계에서 가장 무거운 축에 속한다.",
+    "zh": "1790年，孟云王在伊洛瓦底江西岸动工修建敏贡大佛塔，意在建成世界最大的佛塔。他去世后工程半途而废，1839年的地震又使巨大的砖砌塔基开裂。19世纪初为该塔铸造的敏贡大铜钟，是世界上最重的仍可敲响的大钟之一。",
+    "ja": "1790年、ボードーパヤー王はエーヤワディー川西岸に世界最大の仏塔を目指してミングォン・パトードージーの建設を始めた。工事は王の死後未完のまま放棄され、1839年の地震で巨大な煉瓦の基壇に亀裂が入った。19世紀初めにこの塔のために鋳造された巨大なミングォンの鐘は、現役の鐘として世界有数の重さを誇る。"
+   }
+  },
+  {
+   "year": 1817,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Burmese invasions of Assam",
+    "ko": "버마의 아삼 침공",
+    "zh": "缅甸入侵阿萨姆",
+    "ja": "ビルマのアッサム侵攻"
+   },
+   "description": {
+    "en": "Intervening in the succession struggles of the Ahom kingdom, Konbaung armies invaded Assam from 1817 and by 1821 had brought it under Burmese control, while Manipur was also occupied. These conquests extended Burma's frontier directly up against British-ruled Bengal. Border incidents and refugee flows on this frontier led directly to war with Britain.",
+    "ko": "아홈 왕국의 왕위 다툼에 개입한 꼰바웅군은 1817년부터 아삼을 침공해 1821년까지 버마의 통제 아래 두었고, 마니푸르도 점령했다. 이 정복으로 버마의 국경은 영국이 지배하는 벵골과 직접 맞닿게 되었다. 이 국경의 분쟁과 난민 유입은 곧바로 영국과의 전쟁으로 이어졌다.",
+    "zh": "贡榜军队介入阿洪王国的王位之争，自1817年起入侵阿萨姆，至1821年将其置于缅甸控制之下，同时占领了曼尼普尔。这些征服使缅甸边界直接与英国统治的孟加拉接壤。边境冲突和难民潮直接导致了与英国的战争。",
+    "ja": "アーホム王国の王位争いに介入したコンバウン軍は、1817年からアッサムに侵攻して1821年までにビルマの支配下に置き、マニプルも占領した。これらの征服によってビルマの国境は英領ベンガルと直接接することになった。この国境での紛争と難民の流入が、イギリスとの戦争に直結した。"
+   }
+  },
+  {
+   "year": 1824,
+   "qid": "Q2248139",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "First Anglo-Burmese War begins",
+    "ko": "제1차 영국-버마 전쟁 발발",
+    "zh": "第一次英缅战争爆发",
+    "ja": "第一次英緬戦争の勃発"
+   },
+   "description": {
+    "en": "Clashes on the Arakan and Assam frontiers led British India to declare war on Burma in 1824. British forces landed at Rangoon, and the Burmese general Maha Bandula, who had advanced into Bengal, was killed defending Danubyu in 1825. It was one of the longest and most expensive wars of British India, with heavy losses from disease on both sides.",
+    "ko": "아라칸과 아삼 국경의 충돌로 영국령 인도는 1824년 버마에 선전 포고했다. 영국군은 랑군에 상륙했고, 벵골로 진격했던 버마의 장군 마하 반둘라는 1825년 다누뷰를 지키다 전사했다. 이 전쟁은 영국령 인도에서 가장 길고 비용이 많이 든 전쟁 가운데 하나로, 양측 모두 질병으로 큰 손실을 입었다.",
+    "zh": "阿拉干和阿萨姆边境的冲突导致英属印度于1824年对缅宣战。英军在仰光登陆，曾挺进孟加拉的缅甸名将摩诃班都拉于1825年在达努漂守城时阵亡。这是英属印度历时最长、耗费最巨的战争之一，双方都因疾病损失惨重。",
+    "ja": "アラカンとアッサムの国境での衝突から、英領インドは1824年にビルマに宣戦した。イギリス軍はラングーンに上陸し、ベンガルへ進撃していたビルマの名将マハー・バンドゥーラは1825年にダヌビュー防衛戦で戦死した。英領インドで最も長く費用のかかった戦争の一つで、双方が疫病で大きな損失を出した。"
+   }
+  },
+  {
+   "year": 1826,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Yandabo",
+    "ko": "얀다보 조약",
+    "zh": "杨达波条约",
+    "ja": "ヤンダボー条約"
+   },
+   "description": {
+    "en": "With British troops approaching Ava, the Burmese court signed the Treaty of Yandabo in February 1826. Burma ceded Arakan and Tenasserim, renounced claims to Assam, Manipur and neighbouring areas, and agreed to pay a large indemnity and accept a British resident. The humiliating peace began the dismemberment of the Konbaung kingdom.",
+    "ko": "영국군이 아와에 다가오자 버마 조정은 1826년 2월 얀다보 조약에 서명했다. 버마는 아라칸과 떠닌다이를 할양하고, 아삼·마니푸르와 인근 지역에 대한 권리를 포기했으며, 막대한 배상금 지불과 영국 주재관 수용에 동의했다. 이 굴욕적인 강화는 꼰바웅 왕국 해체의 시작이었다.",
+    "zh": "英军逼近阿瓦，缅甸朝廷于1826年2月签订《杨达波条约》。缅甸割让阿拉干和丹那沙林，放弃对阿萨姆、曼尼普尔及邻近地区的主张，并同意支付巨额赔款、接受英国驻扎官。这一屈辱的和约开启了贡榜王国被肢解的进程。",
+    "ja": "イギリス軍がアヴァに迫ると、ビルマの宮廷は1826年2月にヤンダボー条約に調印した。ビルマはアラカンとテナセリムを割譲し、アッサム・マニプルなどへの主張を放棄し、多額の賠償金の支払いと英国駐在官の受け入れに同意した。この屈辱的な講和がコンバウン王国解体の始まりとなった。"
+   }
+  },
+  {
+   "year": 1852,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Second Anglo-Burmese War and the loss of Lower Burma",
+    "ko": "제2차 영국-버마 전쟁과 하부 버마 상실",
+    "zh": "第二次英缅战争与下缅甸的丧失",
+    "ja": "第二次英緬戦争と下ビルマの喪失"
+   },
+   "description": {
+    "en": "A dispute over the treatment of British merchants in Rangoon escalated into a second war in 1852. British forces seized Rangoon and Pegu, and Britain annexed the province of Pegu, cutting the kingdom off from the sea. The defeat prompted a palace revolt that brought Mindon Min to the throne in 1853.",
+    "ko": "랑군에서 영국 상인들에 대한 처우를 둘러싼 분쟁이 1852년 두 번째 전쟁으로 번졌다. 영국군은 랑군과 바고를 점령하고 바고 지방을 병합해 왕국을 바다로부터 차단했다. 이 패배는 궁정 정변을 불러 1853년 민돈 왕이 즉위했다.",
+    "zh": "仰光英国商人待遇问题引发的争端于1852年升级为第二次战争。英军攻占仰光和勃固，英国吞并勃固省，切断了王国的出海口。战败引发宫廷政变，敏东王于1853年即位。",
+    "ja": "ラングーンでの英国商人の扱いをめぐる紛争が1852年に二度目の戦争へと発展した。イギリス軍はラングーンとペグーを占領し、ペグー州を併合して王国を海から切り離した。敗戦は宮廷政変を招き、1853年にミンドン王が即位した。"
+   }
+  },
+  {
+   "year": 1857,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Mindon Min founds Mandalay",
+    "ko": "민돈 왕, 만달레이를 세우다",
+    "zh": "敏东王建立曼德勒",
+    "ja": "ミンドン王がマンダレーを建設"
+   },
+   "description": {
+    "en": "In 1857 King Mindon began building a new royal capital at the foot of Mandalay Hill, fulfilling a prophecy attributed to the Buddha, and the court moved there in 1859. Mindon sought to modernize the remaining kingdom by sending students abroad, introducing coinage, telegraphs and steamers, and reforming taxation. Mandalay became the last royal capital of Burma and a centre of Buddhist learning.",
+    "ko": "1857년 민돈 왕은 부처의 예언을 실현한다는 뜻을 담아 만달레이 언덕 기슭에 새 왕도를 짓기 시작했고, 1859년 궁정이 그곳으로 옮겼다. 민돈은 유학생을 해외에 보내고, 주화·전신·증기선을 도입하며, 세제를 개혁해 남은 왕국을 근대화하려 했다. 만달레이는 버마의 마지막 왕도이자 불교 학문의 중심지가 되었다.",
+    "zh": "1857年，敏东王为应验相传出自佛陀的预言，在曼德勒山脚下兴建新王都，1859年朝廷迁入。敏东派遣留学生出国，引进铸币、电报和轮船，并改革税制，力图使残存的王国走向现代化。曼德勒成为缅甸最后的王都和佛学中心。",
+    "ja": "1857年、ミンドン王は仏陀の予言を実現するとして、マンダレー・ヒルの麓に新しい王都の建設を始め、1859年に宮廷が移った。ミンドンは留学生を海外に送り、貨幣・電信・汽船を導入し、税制を改革して残された王国の近代化を図った。マンダレーはビルマ最後の王都となり、仏教学の中心地となった。"
+   }
+  },
+  {
+   "year": 1871,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Fifth Buddhist Council at Mandalay",
+    "ko": "만달레이 제5차 불전 결집",
+    "zh": "曼德勒第五次佛经结集",
+    "ja": "マンダレーの第五結集"
+   },
+   "description": {
+    "en": "In 1871 King Mindon convened what Burmese Buddhists count as the Fifth Buddhist Council, at which some 2,400 monks recited and checked the Pali canon. The authoritative text had been inscribed on 729 marble slabs, each housed in its own small shrine at the Kuthodaw Pagoda in Mandalay, often called 'the world's largest book'. The council presented Mindon as a protector of Buddhism as British power grew.",
+    "ko": "1871년 민돈 왕은 버마 불교도들이 제5차 결집으로 꼽는 회의를 소집했고, 약 2,400명의 승려가 팔리 삼장을 독송하고 교정했다. 정본은 729개의 대리석판에 새겨져 만달레이 꾸도도 파고다의 작은 당우 하나하나에 안치되었으며, 흔히 '세계에서 가장 큰 책'으로 불린다. 이 결집은 영국의 세력이 커지는 가운데 민돈을 불교의 수호자로 내세웠다.",
+    "zh": "1871年，敏东王召集了缅甸佛教徒所称的第五次佛经结集，约2400名僧人诵读并校勘巴利三藏。定本被刻在729块大理石碑上，分别安置于曼德勒固都陶佛塔的一座座小佛龛中，常被称为“世界上最大的书”。在英国势力日益扩张之际，这次结集彰显了敏东作为佛教护持者的形象。",
+    "ja": "1871年、ミンドン王はビルマの仏教徒が第五結集とみなす会議を召集し、約2,400人の僧がパーリ三蔵を誦出・校訂した。定本は729枚の大理石板に刻まれ、マンダレーのクトードー・パゴダの小堂に一枚ずつ納められており、「世界最大の本」と呼ばれる。結集は、英国の勢力が強まるなかでミンドンを仏教の守護者として示した。"
+   }
+  },
+  {
+   "year": 1878,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Thibaw becomes the last king of Burma",
+    "ko": "띠보, 버마의 마지막 왕이 되다",
+    "zh": "锡袍成为缅甸末代国王",
+    "ja": "ティーボーがビルマ最後の王となる"
+   },
+   "description": {
+    "en": "After Mindon's death in 1878, the young prince Thibaw was placed on the throne through palace intrigue centred on Queen Supayalat and her mother. In early 1879 dozens of royal relatives were killed in a purge, an event that shocked British opinion. Thibaw's government tried to balance British pressure by courting France, which alarmed British India.",
+    "ko": "1878년 민돈이 죽은 뒤 젊은 왕자 띠보는 수파야랏 왕비와 그 어머니를 중심으로 한 궁정 음모를 통해 왕위에 올랐다. 1879년 초 숙청으로 수십 명의 왕족이 살해되어 영국 여론에 충격을 주었다. 띠보 정부는 프랑스에 접근해 영국의 압력을 견제하려 했고, 이는 영국령 인도를 긴장시켰다.",
+    "zh": "1878年敏东去世后，年轻的王子锡袍在以素帕耶拉王后及其母亲为中心的宫廷阴谋中被扶上王位。1879年初的一场清洗中数十名王室成员被杀，震动了英国舆论。锡袍政府试图拉拢法国以抗衡英国压力，引起英属印度的警觉。",
+    "ja": "1878年にミンドンが没すると、若い王子ティーボーがスパヤーラット王妃とその母を中心とする宮廷の陰謀により即位した。1879年初めの粛清で数十人の王族が殺され、英国世論に衝撃を与えた。ティーボー政府はフランスに接近して英国の圧力に対抗しようとし、英領インドを警戒させた。"
+   }
+  },
+  {
+   "year": 1885,
+   "qid": "Q1209946",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Britain annexes Burma after the Third Anglo-Burmese War",
+    "ko": "제3차 영국-버마 전쟁과 영국의 버마 병합",
+    "zh": "第三次英缅战争后英国吞并缅甸",
+    "ja": "第三次英緬戦争とイギリスによる併合"
+   },
+   "description": {
+    "en": "A dispute over a fine imposed on the Bombay Burmah Trading Corporation, together with fears of French influence, led Britain to invade Upper Burma in November 1885. British forces occupied Mandalay within weeks and exiled King Thibaw and Queen Supayalat to Ratnagiri in India, ending the Konbaung dynasty. Burma's monarchy, which had existed for some eight centuries, was abolished.",
+    "ko": "봄베이 버마 무역회사에 부과된 벌금을 둘러싼 분쟁과 프랑스 영향력에 대한 우려로 영국은 1885년 11월 상부 버마를 침공했다. 영국군은 몇 주 만에 만달레이를 점령하고 띠보 왕과 수파야랏 왕비를 인도의 라트나기리로 유배 보내 꼰바웅 왕조를 끝냈다. 약 8세기 동안 이어진 버마의 군주제는 폐지되었다.",
+    "zh": "因孟买缅甸贸易公司被处罚款引发的纠纷，加之对法国影响的担忧，英国于1885年11月入侵上缅甸。英军数周内占领曼德勒，将锡袍王和素帕耶拉王后流放到印度的勒德纳吉里，贡榜王朝灭亡。延续约八个世纪的缅甸君主制被废除。",
+    "ja": "ボンベイ・ビルマ貿易会社に科された罰金をめぐる紛争とフランスの影響力への懸念から、イギリスは1885年11月に上ビルマに侵攻した。イギリス軍は数週間でマンダレーを占領し、ティーボー王とスパヤーラット王妃をインドのラトナギリへ流してコンバウン朝を終わらせた。約八世紀続いたビルマの王政は廃止された。"
+   }
+  },
+  {
+   "year": 1886,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Burma becomes a province of British India",
+    "ko": "버마, 영국령 인도의 주가 되다",
+    "zh": "缅甸成为英属印度的一个省",
+    "ja": "ビルマが英領インドの一州となる"
+   },
+   "description": {
+    "en": "On 1 January 1886 Britain formally annexed Upper Burma, and the whole country was administered as a province of British India. Widespread armed resistance by former royal officials, princes and local leaders took years of military 'pacification' to suppress. The British dismantled the traditional system of local headmen and royal patronage of the Buddhist order, transforming Burmese society.",
+    "ko": "1886년 1월 1일 영국은 상부 버마를 공식 병합하고 나라 전체를 영국령 인도의 한 주로 통치했다. 옛 왕실 관리, 왕자, 지역 지도자들의 광범위한 무장 저항은 수년간의 군사적 '평정'을 거쳐서야 진압되었다. 영국은 전통적인 지방 수장 체제와 불교 승단에 대한 왕실 후원을 해체해 버마 사회를 변모시켰다.",
+    "zh": "1886年1月1日英国正式吞并上缅甸，全境作为英属印度的一个省进行统治。前王室官员、王子和地方首领广泛的武装抵抗，经过数年军事“平定”才被镇压。英国废除了传统的地方头人制度和王室对佛教僧团的护持，深刻改变了缅甸社会。",
+    "ja": "1886年1月1日、イギリスは上ビルマを正式に併合し、全土を英領インドの一州として統治した。旧王室の役人、王子、地方指導者による広範な武装抵抗は、数年にわたる軍事的「平定」でようやく鎮圧された。イギリスは伝統的な村落首長制度と仏教僧団への王室の保護を解体し、ビルマ社会を変貌させた。"
+   }
+  },
+  {
+   "year": 1906,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Young Men's Buddhist Association founded",
+    "ko": "청년불교협회(YMBA) 창립",
+    "zh": "青年佛教协会成立",
+    "ja": "青年仏教協会（YMBA）の創設"
+   },
+   "description": {
+    "en": "In 1906 Western-educated Burmese founded the Young Men's Buddhist Association in Rangoon, modelled partly on the YMCA. Initially focused on religion and culture, it campaigned from 1916 against Europeans wearing shoes in pagodas, a powerful symbol of national dignity. The YMBA gave rise to the General Council of Burmese Associations, the first mass nationalist organization.",
+    "ko": "1906년 서구식 교육을 받은 버마인들은 YMCA를 일부 본떠 랑군에서 청년불교협회를 창립했다. 처음에는 종교와 문화에 집중했으나, 1916년부터 유럽인이 신발을 신고 파고다에 들어가는 것에 반대하는 운동을 벌여 민족적 존엄의 강력한 상징이 되었다. YMBA는 최초의 대중 민족주의 조직인 버마인단체총평의회(GCBA)로 이어졌다.",
+    "zh": "1906年，受过西式教育的缅甸人部分仿照基督教青年会在仰光创立青年佛教协会。该会起初专注于宗教和文化，1916年起开展反对欧洲人穿鞋进入佛塔的运动，使之成为民族尊严的有力象征。青年佛教协会后来发展为第一个群众性民族主义组织——缅甸人民团体总会。",
+    "ja": "1906年、西洋式教育を受けたビルマ人はYMCAを一部手本として、ラングーンで青年仏教協会を設立した。当初は宗教と文化に重点を置いたが、1916年からヨーロッパ人が靴のままパゴダに入ることに反対する運動を展開し、民族の尊厳の強力な象徴となった。YMBAは最初の大衆的民族主義組織であるビルマ人団体総評議会（GCBA）へと発展した。"
+   }
+  },
+  {
+   "year": 1912,
+   "qid": "Q5874034",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "1912 Maymyo earthquake",
+    "ko": "1912년 메이묘 지진",
+    "zh": "1912年眉苗地震",
+    "ja": "1912年メイミョー地震"
+   },
+   "description": {
+    "en": "On 23 May 1912 a powerful earthquake struck the Shan plateau east of Mandalay, near the hill station of Maymyo (Pyin Oo Lwin). It was one of the strongest earthquakes recorded in Myanmar in the 20th century and caused damage across a wide area of Upper Burma. It is associated with the Kyaukkyan fault on the western edge of the Shan plateau.",
+    "ko": "1912년 5월 23일 만달레이 동쪽 샨 고원의 고원 휴양지 메이묘(삔우린) 부근에서 강력한 지진이 일어났다. 20세기 미얀마에서 기록된 가장 강한 지진 가운데 하나로, 상부 버마의 넓은 지역에 피해를 주었다. 이 지진은 샨 고원 서쪽 가장자리의 짜욱짠 단층과 관련된 것으로 여겨진다.",
+    "zh": "1912年5月23日，曼德勒以东掸邦高原上的避暑胜地眉苗（彬乌伦）附近发生强烈地震。这是20世纪缅甸有记录的最强地震之一，上缅甸大片地区受损。该地震被认为与掸邦高原西缘的皎坚断层有关。",
+    "ja": "1912年5月23日、マンダレー東方のシャン高原、避暑地メイミョー（ピンウールウィン）付近を強い地震が襲った。20世紀のミャンマーで記録された最大級の地震の一つで、上ビルマの広い範囲に被害を与えた。シャン高原西縁のチャウチャン断層に関連するとされる。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "University boycott launches student nationalism",
+    "ko": "대학 보이콧과 학생 민족주의의 시작",
+    "zh": "大学罢课开启学生民族主义运动",
+    "ja": "大学ボイコットと学生民族運動の始まり"
+   },
+   "description": {
+    "en": "In December 1920 students walked out of the newly founded University of Rangoon in protest against the University Act, which they saw as elitist and colonial. The boycott spread into a movement for 'national schools' and is commemorated in Myanmar as National Day. It made students a leading force in Burmese nationalism for decades to come.",
+    "ko": "1920년 12월 학생들은 엘리트주의적이고 식민적이라고 여긴 대학법에 항의해 새로 세워진 랑군 대학교에서 집단 퇴장했다. 이 보이콧은 '민족 학교' 운동으로 확산되었고, 미얀마에서는 국경일로 기념된다. 이후 수십 년 동안 학생들은 버마 민족주의의 선도 세력이 되었다.",
+    "zh": "1920年12月，学生们为抗议他们认为具有精英主义和殖民色彩的《大学法》，集体退出新成立的仰光大学。罢课扩展为兴办“民族学校”的运动，在缅甸被作为“民族节”纪念。此后数十年，学生成为缅甸民族主义的先锋力量。",
+    "ja": "1920年12月、学生たちはエリート主義的で植民地的とみなした大学法に抗議し、新設のラングーン大学から一斉に退出した。ボイコットは「国民学校」運動へと広がり、ミャンマーでは「ナショナル・デー」として記念されている。以後数十年、学生はビルマ民族主義の先導役となった。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Saya San rebellion",
+    "ko": "사야산 반란",
+    "zh": "萨耶山起义",
+    "ja": "サヤー・サンの反乱"
+   },
+   "description": {
+    "en": "In December 1930, amid the collapse of rice prices in the Great Depression, the former monk Saya San led a peasant uprising in Tharrawaddy district against colonial taxes. Drawing on traditional symbols of kingship and protective tattoos, the revolt spread across Lower Burma and parts of the Shan states. It was crushed by 1932 and Saya San was hanged, but the rebellion became a landmark of anti-colonial resistance.",
+    "ko": "1930년 12월 대공황으로 쌀값이 폭락하는 가운데, 전직 승려 사야산은 따야와디 지구에서 식민지 세금에 반대하는 농민 봉기를 이끌었다. 전통적인 왕권 상징과 호신 문신에 기댄 반란은 하부 버마와 샨 지역 일부로 퍼졌다. 반란은 1932년까지 진압되고 사야산은 교수형에 처해졌지만, 반식민 저항의 이정표가 되었다.",
+    "zh": "1930年12月，大萧条中稻米价格暴跌，前僧人萨耶山在沙耶瓦底县领导农民起义，反抗殖民地税收。起义借助传统的王权象征和护身文身，蔓延至下缅甸及部分掸族地区。至1932年起义被镇压，萨耶山被处以绞刑，但这场起义成为反殖民抗争的里程碑。",
+    "ja": "1930年12月、世界恐慌で米価が暴落するなか、元僧侶サヤー・サンはターヤーワディー県で植民地の税に抗する農民反乱を率いた。伝統的な王権の象徴や護身の入れ墨に依拠した反乱は、下ビルマとシャン地方の一部に広がった。1932年までに鎮圧されサヤー・サンは絞首刑となったが、反植民地闘争の画期となった。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Dobama Asiayone founded",
+    "ko": "도바마 아시아요네 창립",
+    "zh": "“我缅人协会”成立",
+    "ja": "我らビルマ人協会の結成"
+   },
+   "description": {
+    "en": "In 1930 young nationalists founded the Dobama Asiayone ('We Burmans Association'), whose members called themselves 'Thakin' ('master') to assert that Burmese, not the British, were masters of their country. Its song later became the basis of the national anthem. Many leaders of the independence struggle, including Aung San and U Nu, came from the Thakin movement.",
+    "ko": "1930년 젊은 민족주의자들은 도바마 아시아요네('우리 버마인 협회')를 결성했고, 회원들은 영국인이 아니라 버마인이 나라의 주인임을 내세우려 스스로를 '타킨'(주인)이라 불렀다. 이 단체의 노래는 훗날 국가의 바탕이 되었다. 아웅산과 우누를 비롯한 독립 투쟁의 많은 지도자가 타킨 운동 출신이었다.",
+    "zh": "1930年，年轻的民族主义者成立了“我缅人协会”，成员自称“德钦”（意为“主人”），以宣示缅甸人而非英国人才是国家的主人。该会的会歌后来成为国歌的基础。昂山、吴努等许多独立运动领袖都出自德钦运动。",
+    "ja": "1930年、若い民族主義者たちは「我らビルマ人協会」（ドバマー・アスィーアヨン）を結成し、会員はイギリス人ではなくビルマ人こそが国の主人だと示すため「タキン」（主人）と名乗った。その会歌はのちに国歌の基となった。アウンサンやウー・ヌなど独立運動の多くの指導者がタキン党出身であった。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Bago earthquake topples the Shwemawdaw",
+    "ko": "바고 지진과 쉐모도 탑의 붕괴",
+    "zh": "勃固地震震塌瑞摩屠塔",
+    "ja": "バゴー地震でシュエモードー・パゴダが倒壊"
+   },
+   "description": {
+    "en": "On 5 May 1930 a strong earthquake struck near Pegu (Bago), killing several hundred people and causing damage in Rangoon. The great Shwemawdaw Pagoda of Pegu, an ancient Mon stupa, collapsed and was later rebuilt even taller after independence. A second destructive earthquake struck the region later the same year.",
+    "ko": "1930년 5월 5일 바고(페구) 부근에서 강한 지진이 일어나 수백 명이 숨지고 랑군에도 피해가 발생했다. 바고의 오래된 몬족 불탑인 쉐모도 파고다가 무너졌으며, 독립 이후 더 높게 재건되었다. 같은 해 말 이 지역에는 또 한 차례 파괴적인 지진이 일어났다.",
+    "zh": "1930年5月5日，勃固附近发生强烈地震，造成数百人死亡，仰光也受到破坏。勃固古老的孟族佛塔瑞摩屠塔倒塌，独立后重建得更加高大。同年晚些时候，该地区又发生了一次破坏性地震。",
+    "ja": "1930年5月5日、ペグー（バゴー）付近で強い地震が起こり、数百人が死亡し、ラングーンでも被害が出た。ペグーの古いモン人の仏塔シュエモードー・パゴダが倒壊し、独立後にさらに高く再建された。同じ年の後半にも、この地域を破壊的な地震が襲った。"
+   }
+  },
+  {
+   "year": 1937,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Burma separated from British India",
+    "ko": "버마, 영국령 인도에서 분리",
+    "zh": "缅甸脱离英属印度",
+    "ja": "ビルマが英領インドから分離"
+   },
+   "description": {
+    "en": "Under the Government of Burma Act 1935, Burma was separated from India on 1 April 1937 and became a distinct British colony with an elected House of Representatives and a Burmese premier, the first being Ba Maw. The governor kept control of defence, foreign affairs and the hill areas. Separation had been debated bitterly among Burmese nationalists in the preceding years.",
+    "ko": "1935년 버마 정부법에 따라 버마는 1937년 4월 1일 인도에서 분리되어, 선출된 하원과 버마인 총리를 둔 별도의 영국 식민지가 되었으며 초대 총리는 바모였다. 총독은 국방, 외교, 산지 지역에 대한 통제권을 유지했다. 분리 문제는 그 이전 몇 년 동안 버마 민족주의자들 사이에서 격렬한 논쟁거리였다.",
+    "zh": "根据《1935年缅甸政府法》，缅甸于1937年4月1日脱离印度，成为单独的英国殖民地，设有民选众议院和缅甸人总理，首任总理为巴莫。总督仍掌控国防、外交和山区事务。此前数年，是否分治一直是缅甸民族主义者激烈争论的问题。",
+    "ja": "1935年ビルマ統治法により、ビルマは1937年4月1日にインドから分離され、選挙による下院とビルマ人首相をもつ独立した英国植民地となった。初代首相はバー・モウである。総督は国防・外交・山地地域の権限を保持した。分離の是非はそれ以前の数年間、ビルマの民族主義者の間で激しく議論されていた。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": "Q19740708",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "The '1300 Revolution' strikes",
+    "ko": "'1300년 혁명' 파업",
+    "zh": "“1300革命”罢工",
+    "ja": "「1300年革命」のストライキ"
+   },
+   "description": {
+    "en": "In 1938, the year 1300 of the Burmese calendar, oilfield workers at Chauk and Yenangyaung struck and marched to Rangoon, joined by students and Thakin activists. The movement grew into a wave of strikes and protests, and a student, Aung Kyaw, was killed by police in Rangoon. It became known as the '1300 Revolution' and radicalized the nationalist movement.",
+    "ko": "버마력 1300년인 1938년 짜욱과 예난자웅 유전의 노동자들이 파업하고 랑군으로 행진했으며, 학생과 타킨 활동가들이 합류했다. 운동은 파업과 시위의 물결로 커졌고, 랑군에서는 학생 아웅짜우가 경찰에 의해 숨졌다. 이 운동은 '1300년 혁명'으로 불리며 민족주의 운동을 급진화했다.",
+    "zh": "1938年即缅历1300年，稍埠和仁安羌油田工人罢工并游行前往仰光，学生和德钦党人纷纷加入。运动发展为一波罢工和抗议浪潮，学生昂觉在仰光被警察打死。这场运动被称为“1300革命”，使民族主义运动更加激进。",
+    "ja": "ビルマ暦1300年にあたる1938年、チャウとイェナンジャウンの油田労働者がストライキを起こしてラングーンへ行進し、学生やタキン党員が合流した。運動はストライキと抗議の波へと拡大し、ラングーンでは学生アウンチョーが警察に殺された。「1300年革命」と呼ばれ、民族運動を急進化させた。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Thirty Comrades and the Burma Independence Army",
+    "ko": "30인의 동지와 버마독립군",
+    "zh": "“三十志士”与缅甸独立军",
+    "ja": "三十人志士とビルマ独立義勇軍"
+   },
+   "description": {
+    "en": "In 1941 Aung San and other young nationalists, known as the Thirty Comrades, received military training from the Japanese on Hainan Island. In December 1941 in Bangkok they formed the Burma Independence Army, which entered Burma alongside the Japanese invasion. Among the comrades was Ne Win, who would later rule the country.",
+    "ko": "1941년 '30인의 동지'로 알려진 아웅산과 젊은 민족주의자들은 하이난섬에서 일본의 군사 훈련을 받았다. 1941년 12월 그들은 방콕에서 버마독립군을 창설했고, 이 군대는 일본의 침공과 함께 버마에 들어왔다. 동지들 가운데에는 훗날 나라를 통치할 네윈도 있었다.",
+    "zh": "1941年，昂山等被称为“三十志士”的年轻民族主义者在海南岛接受日本的军事训练。1941年12月，他们在曼谷组建缅甸独立军，随日军入侵进入缅甸。“三十志士”中包括日后统治缅甸的奈温。",
+    "ja": "1941年、「三十人志士」と呼ばれるアウンサンら若い民族主義者は、海南島で日本の軍事訓練を受けた。1941年12月、彼らはバンコクでビルマ独立義勇軍を結成し、日本軍の侵攻とともにビルマへ入った。志士の中には、のちに国を支配するネ・ウィンもいた。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Japanese conquest of Burma",
+    "ko": "일본의 버마 점령",
+    "zh": "日军攻占缅甸",
+    "ja": "日本軍のビルマ攻略"
+   },
+   "description": {
+    "en": "Japanese forces invaded from Thailand in January 1942, took Rangoon in March and Mandalay in May, driving British, Indian and Chinese troops back to India and Yunnan. Hundreds of thousands of Indian residents fled overland to India in harrowing conditions. The Burma Road supply route to China was cut, making Burma a key theatre of the war in Asia.",
+    "ko": "일본군은 1942년 1월 태국에서 침공해 3월 랑군, 5월 만달레이를 점령하고 영국·인도·중국군을 인도와 윈난으로 몰아냈다. 수십만 명의 인도계 주민이 처참한 상황 속에 육로로 인도로 피란했다. 중국으로 가는 보급로인 버마 공로가 끊기면서 버마는 아시아 전쟁의 핵심 전장이 되었다.",
+    "zh": "1942年1月日军从泰国入侵，3月攻占仰光，5月攻占曼德勒，将英军、印度军和中国远征军逐回印度和云南。数十万印度裔居民在极其艰苦的条件下经陆路逃往印度。通往中国的补给线滇缅公路被切断，缅甸成为亚洲战争的关键战场。",
+    "ja": "日本軍は1942年1月にタイから侵攻し、3月にラングーン、5月にマンダレーを占領して、英・インド・中国軍をインドと雲南へ退却させた。数十万人のインド系住民が過酷な状況の中、陸路でインドへ逃れた。中国への補給路ビルマ公路が断たれ、ビルマはアジアの戦争の重要な戦場となった。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": "Q2890419",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Yenangyaung",
+    "ko": "예난자웅 전투",
+    "zh": "仁安羌战役",
+    "ja": "イェナンジャウンの戦い"
+   },
+   "description": {
+    "en": "In April 1942 British and Indian troops retreating through the central oilfields were trapped by Japanese forces at Yenangyaung after demolishing the oil installations. A Chinese expeditionary force under Sun Li-jen counter-attacked and helped the encircled British troops break out. The battle became a celebrated episode of Allied cooperation during the retreat from Burma.",
+    "ko": "1942년 4월 중부 유전 지대를 통해 퇴각하던 영국·인도군은 석유 시설을 폭파한 뒤 예난자웅에서 일본군에게 포위되었다. 쑨리런이 이끄는 중국 원정군이 반격해 포위된 영국군의 탈출을 도왔다. 이 전투는 버마 철수 과정에서 연합군 협력의 유명한 일화가 되었다.",
+    "zh": "1942年4月，经中部油田撤退的英印军队在炸毁油田设施后于仁安羌被日军包围。孙立人率领的中国远征军发起反击，协助被围英军突围。这场战斗成为缅甸大撤退中盟军合作的著名事件。",
+    "ja": "1942年4月、中部油田地帯を通って退却していた英印軍は、石油施設を爆破した後イェナンジャウンで日本軍に包囲された。孫立人率いる中国遠征軍が反撃し、包囲された英軍の脱出を助けた。この戦いはビルマからの撤退における連合軍協力の有名な一幕となった。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": "Q7359741",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Communal violence in Arakan",
+    "ko": "아라칸의 공동체 간 폭력",
+    "zh": "阿拉干的族群暴力",
+    "ja": "アラカンでの宗派間暴力"
+   },
+   "description": {
+    "en": "As British administration collapsed in 1942, violence broke out in Arakan between Buddhist Rakhine and Muslim communities, with armed groups on each side aligned respectively with the Japanese and the British. Many villages were destroyed and populations separated into a largely Muslim north and Buddhist south. The killings left lasting distrust that shaped later conflict in Rakhine State.",
+    "ko": "1942년 영국 행정이 무너지자 아라칸에서는 불교도 라카인인과 무슬림 공동체 사이에 폭력이 일어났고, 양측 무장 집단은 각각 일본과 영국 편에 섰다. 많은 마을이 파괴되었고 주민들은 무슬림이 많은 북부와 불교도 중심의 남부로 나뉘었다. 이 학살은 이후 라카인주 분쟁을 형성한 깊은 불신을 남겼다.",
+    "zh": "1942年英国行政体系崩溃之际，阿拉干的若开族佛教徒与穆斯林社群之间爆发暴力冲突，双方武装分别倒向日本和英国。许多村庄被毁，人口分化为以穆斯林为主的北部和以佛教徒为主的南部。这些杀戮留下了长期的不信任，影响了后来若开邦的冲突。",
+    "ja": "1942年にイギリスの行政が崩壊すると、アラカンでは仏教徒のラカイン人とムスリム共同体の間で暴力が発生し、双方の武装集団はそれぞれ日本とイギリスに与した。多くの村が破壊され、住民はムスリムの多い北部と仏教徒の多い南部に分かれた。この殺戮は根深い不信を残し、のちのラカイン州の紛争を形づくった。"
+   }
+  },
+  {
+   "year": 1943,
+   "qid": "Q704358",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Japan proclaims the State of Burma",
+    "ko": "일본, 버마국을 선포",
+    "zh": "日本宣布成立“缅甸国”",
+    "ja": "日本がビルマ国を宣言"
+   },
+   "description": {
+    "en": "On 1 August 1943 Japan granted nominal independence to Burma as the State of Burma, with Ba Maw as head of state and Aung San as minister of defence. The new state declared war on Britain and the United States, but the Japanese army retained real control and requisitioned labour and resources. Disillusionment with Japanese rule led nationalists to organize secret resistance.",
+    "ko": "1943년 8월 1일 일본은 버마에 명목상 독립을 부여해 버마국을 세웠고, 바모가 국가 원수, 아웅산이 국방 장관이 되었다. 새 국가는 영국과 미국에 선전 포고했으나 실권은 일본군이 쥐고 노동력과 자원을 징발했다. 일본 통치에 대한 환멸 속에 민족주의자들은 비밀 저항 조직을 꾸렸다.",
+    "zh": "1943年8月1日，日本给予缅甸名义上的独立，成立“缅甸国”，巴莫任国家元首，昂山任国防部长。新国家向英美宣战，但实权仍由日军掌握，并大量征用劳力和资源。对日本统治的幻灭促使民族主义者秘密组织抵抗。",
+    "ja": "1943年8月1日、日本はビルマに名目上の独立を与えてビルマ国とし、バー・モウが国家元首、アウンサンが国防相となった。新国家は英米に宣戦したが、実権は日本軍が握り、労働力と資源を徴発した。日本の支配への幻滅から、民族主義者は秘密の抵抗組織をつくった。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": "Q19840798",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siege of Myitkyina",
+    "ko": "미치나 포위전",
+    "zh": "密支那围攻战",
+    "ja": "ミッチーナ包囲戦"
+   },
+   "description": {
+    "en": "From May to August 1944 Allied forces under General Joseph Stilwell, including Chinese divisions, American 'Merrill's Marauders' and Kachin irregulars, besieged the Japanese-held town of Myitkyina in northern Burma. Its capture after a costly siege secured the airfield and opened the way for the Ledo Road to link India with China. In the same period the Japanese offensive against Imphal and Kohima in India ended in disastrous defeat.",
+    "ko": "1944년 5월부터 8월까지 조지프 스틸웰 장군이 이끄는 중국 사단, 미군 '메릴의 약탈자', 카친족 비정규군 등 연합군은 버마 북부의 일본군 점령지 미치나를 포위했다. 막대한 희생을 치른 끝에 이곳을 점령함으로써 비행장을 확보하고, 인도와 중국을 잇는 레도 공로의 길을 열었다. 같은 시기 인도 임팔과 코히마를 노린 일본군의 공세는 참패로 끝났다.",
+    "zh": "1944年5月至8月，史迪威将军指挥的盟军，包括中国师团、美国“梅里尔突击队”和克钦族非正规部队，围攻缅北日军据守的密支那。经过代价高昂的围攻，盟军夺取该城，控制了机场，并为连接印度与中国的中印公路（雷多公路）打开通道。同一时期，日军对印度英帕尔和科希马的进攻以惨败告终。",
+    "ja": "1944年5月から8月にかけて、スティルウェル将軍率いる中国師団、米軍の「メリル襲撃隊」、カチン人の不正規兵などの連合軍が、北ビルマの日本軍拠点ミッチーナを包囲した。大きな犠牲を払って攻略したことで飛行場を確保し、インドと中国を結ぶレド公路への道を開いた。同じ頃、インドのインパールとコヒマを狙った日本軍の攻勢は惨敗に終わった。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Burmese uprising against Japan and the Allied reconquest",
+    "ko": "버마의 대일 봉기와 연합군의 탈환",
+    "zh": "缅甸抗日起义与盟军光复",
+    "ja": "ビルマの抗日蜂起と連合軍の奪回"
+   },
+   "description": {
+    "en": "On 27 March 1945 the Burma National Army under Aung San, together with the Anti-Fascist Organisation, rose against the Japanese; the date is commemorated as Armed Forces Day. British Fourteenth Army forces under General William Slim, having retaken Mandalay and Meiktila, recaptured Rangoon in May 1945. The war left much of the country's infrastructure and towns devastated.",
+    "ko": "1945년 3월 27일 아웅산이 이끄는 버마국민군은 반파시스트 조직과 함께 일본에 맞서 봉기했으며, 이날은 국군의 날로 기념된다. 윌리엄 슬림 장군 휘하의 영국 제14군은 만달레이와 멕틸라를 탈환한 뒤 1945년 5월 랑군을 되찾았다. 전쟁으로 나라의 기반 시설과 도시 상당 부분이 황폐해졌다.",
+    "zh": "1945年3月27日，昂山领导的缅甸国民军与反法西斯组织一道起兵反日，这一天后来被定为建军节。斯利姆将军指挥的英国第十四集团军在收复曼德勒和密铁拉后，于1945年5月光复仰光。战争使全国大量基础设施和城镇遭到严重破坏。",
+    "ja": "1945年3月27日、アウンサン率いるビルマ国民軍は反ファシスト組織とともに日本に対して蜂起した。この日は国軍記念日として記念されている。スリム将軍率いる英第14軍はマンダレーとメイッティーラを奪回した後、1945年5月にラングーンを取り戻した。戦争で国内のインフラや町の多くが荒廃した。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": "Q15232829",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Kalagong massacre",
+    "ko": "칼라공 학살",
+    "zh": "卡拉贡屠杀",
+    "ja": "カラゴン虐殺"
+   },
+   "description": {
+    "en": "On 7 July 1945 Japanese troops killed several hundred villagers at Kalagong in Mon State, suspecting them of aiding Allied forces and resistance fighters. The massacre was one of the worst atrocities against civilians in Burma during the war. It was later examined in a British war crimes trial.",
+    "ko": "1945년 7월 7일 일본군은 연합군과 저항군을 도왔다는 의심으로 몬주 칼라공 마을에서 수백 명의 주민을 학살했다. 이 학살은 전쟁 중 버마 민간인에 대한 가장 참혹한 만행 가운데 하나였다. 이 사건은 이후 영국의 전범 재판에서 다루어졌다.",
+    "zh": "1945年7月7日，日军怀疑孟邦卡拉贡村民协助盟军和抵抗力量，杀害了数百名村民。这是战争期间缅甸平民遭受的最严重暴行之一。该事件后来在英国的战争罪审判中受到审理。",
+    "ja": "1945年7月7日、日本軍は連合軍や抵抗勢力を助けたと疑い、モン州カラゴン村で数百人の村人を殺害した。この虐殺は戦時中ビルマの民間人に対する最も残虐な行為の一つであった。事件はのちにイギリスの戦犯裁判で審理された。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": "Q3042513",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Panglong Conference",
+    "ko": "팡롱 회의",
+    "zh": "彬龙会议",
+    "ja": "パンロン会議"
+   },
+   "description": {
+    "en": "In February 1947 Aung San met leaders of the Shan, Kachin and Chin peoples at Panglong in the Shan states. The Panglong Agreement of 12 February secured their cooperation in forming a united independent Burma in return for promises of internal autonomy and equal rights. 12 February is celebrated as Union Day, but unfulfilled expectations of Panglong remain central to ethnic grievances.",
+    "ko": "1947년 2월 아웅산은 샨주 팡롱에서 샨, 카친, 친족 지도자들과 만났다. 2월 12일의 팡롱 협정은 내부 자치와 평등한 권리를 약속하는 대가로 통일된 독립 버마 수립에 대한 이들의 협력을 확보했다. 2월 12일은 연방의 날로 기념되지만, 팡롱의 이행되지 않은 기대는 소수민족 불만의 핵심으로 남아 있다.",
+    "zh": "1947年2月，昂山在掸邦彬龙与掸族、克钦族和钦族领袖会晤。2月12日签订的《彬龙协议》以承诺内部自治和平等权利为条件，换取了他们对建立统一独立缅甸的合作。2月12日被定为联邦节，但彬龙未兑现的期望至今仍是少数民族不满的核心。",
+    "ja": "1947年2月、アウンサンはシャン州パンロンでシャン、カチン、チンの指導者と会談した。2月12日のパンロン協定は、内部自治と平等な権利の約束と引き換えに、統一された独立ビルマの樹立への協力を取り付けた。2月12日は連邦記念日とされるが、果たされなかったパンロンの期待は少数民族の不満の核心であり続けている。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Independence hero Aung San assassinated",
+    "ko": "독립 영웅 아웅산 암살",
+    "zh": "独立英雄昂山遇刺",
+    "ja": "独立の英雄アウンサン暗殺"
+   },
+   "description": {
+    "en": "On 19 July 1947 gunmen sent by the rival politician U Saw burst into a meeting of the Executive Council in Rangoon and killed General Aung San and six of his cabinet colleagues, along with others present. Aung San, who had negotiated independence with Britain, was only 32. U Saw was tried and hanged, U Nu took over leadership, and 19 July is commemorated as Martyrs' Day.",
+    "ko": "1947년 7월 19일 경쟁 정치인 우소가 보낸 총잡이들이 랑군의 행정 평의회 회의장에 난입해 아웅산 장군과 각료 동료 6명, 그리고 그 자리에 있던 다른 이들을 살해했다. 영국과 독립을 협상한 아웅산은 겨우 32세였다. 우소는 재판을 받고 교수형에 처해졌으며, 우누가 지도권을 이어받았고 7월 19일은 순국자의 날로 기념된다.",
+    "zh": "1947年7月19日，政敌吴素派遣的枪手闯入仰光行政委员会会场，杀害了昂山将军及其六名内阁同僚和其他在场人员。与英国谈判独立的昂山年仅32岁。吴素受审后被处以绞刑，吴努接过领导权，7月19日被定为烈士节。",
+    "ja": "1947年7月19日、対立する政治家ウー・ソオが送った銃撃犯がラングーンの行政参事会の会議に乱入し、アウンサン将軍と6人の閣僚、その場にいた他の人々を殺害した。イギリスと独立を交渉したアウンサンはまだ32歳であった。ウー・ソオは裁判で絞首刑となり、ウー・ヌが指導権を引き継ぎ、7月19日は殉難者の日として記念されている。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": "Q13076194",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Burma gains independence from Britain",
+    "ko": "버마, 영국으로부터 독립",
+    "zh": "缅甸脱离英国独立",
+    "ja": "ビルマがイギリスから独立"
+   },
+   "description": {
+    "en": "At an astrologically chosen time early on 4 January 1948, Burma became an independent republic, the Union of Burma, with Sao Shwe Thaik as president and U Nu as prime minister. Unlike India and Pakistan, it chose not to join the Commonwealth. The 1947 constitution created a federal structure with states for some ethnic minorities.",
+    "ko": "1948년 1월 4일 점성술로 택한 이른 시각에 버마는 독립 공화국 버마 연방이 되었고, 사오쉐타익이 대통령, 우누가 총리를 맡았다. 인도·파키스탄과 달리 영연방에 가입하지 않기로 했다. 1947년 헌법은 일부 소수민족을 위한 주를 둔 연방 구조를 만들었다.",
+    "zh": "1948年1月4日凌晨，在占星选定的吉时，缅甸成为独立的共和国——缅甸联邦，苏瑞泰任总统，吴努任总理。与印度和巴基斯坦不同，缅甸选择不加入英联邦。1947年宪法建立了为部分少数民族设邦的联邦结构。",
+    "ja": "1948年1月4日未明、占星術で選ばれた時刻に、ビルマは独立共和国ビルマ連邦となり、サオ・シュエタイッが大統領、ウー・ヌが首相となった。インドやパキスタンと異なり、英連邦には加盟しなかった。1947年憲法は一部の少数民族に州を設ける連邦制をつくった。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": "Q852088",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Insurgencies engulf the new state",
+    "ko": "신생 국가를 뒤덮은 반란",
+    "zh": "叛乱席卷新生国家",
+    "ja": "新国家を覆う武装反乱"
+   },
+   "description": {
+    "en": "Within months of independence the Communist Party of Burma went underground and launched an armed revolt in March 1948, followed by army mutinies and, in January 1949, the Karen National Union's insurrection, which reached Insein on the outskirts of Rangoon. U Nu's government, sometimes mocked as the 'Rangoon government', survived with the help of loyal army units. These conflicts began the world's longest-running civil wars.",
+    "ko": "독립 몇 달 만인 1948년 3월 버마 공산당이 지하로 들어가 무장 봉기를 일으켰고, 이어 군대 반란과 1949년 1월 카렌민족연합(KNU)의 봉기가 일어나 랑군 외곽 인세인까지 이르렀다. '랑군 정부'라는 조롱을 받기도 한 우누 정부는 충성스러운 군 부대의 도움으로 살아남았다. 이 분쟁들은 세계에서 가장 오래 지속된 내전의 시작이었다.",
+    "zh": "独立仅数月，缅甸共产党便于1948年3月转入地下并发动武装起义，随后发生军队哗变，1949年1月克伦民族联盟起事，战火一度烧到仰光郊区的永盛。吴努政府一度被讥为“仰光政府”，依靠忠诚的军队得以幸存。这些冲突开启了世界上持续时间最长的内战。",
+    "ja": "独立から数か月後の1948年3月、ビルマ共産党は地下に潜って武装蜂起し、続いて軍の反乱、1949年1月にはカレン民族同盟（KNU）の蜂起が起こり、戦火はラングーン郊外のインセインに達した。「ラングーン政府」と揶揄されたウー・ヌ政権は忠実な軍部隊の助けで生き延びた。これらの紛争は世界で最も長く続く内戦の始まりとなった。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Chinese Nationalist troops in the Shan States",
+    "ko": "샨주의 중국 국민당군",
+    "zh": "国民党残军盘踞掸邦",
+    "ja": "シャン州の中国国民党軍"
+   },
+   "description": {
+    "en": "After the Communist victory in China, thousands of Kuomintang soldiers retreated from Yunnan into the Shan States from 1950, establishing bases and engaging in the opium trade with covert foreign support. Burma brought the issue to the United Nations in 1953, and partial evacuations to Taiwan followed. The KMT presence fuelled militarization and the drug economy of the borderlands.",
+    "ko": "중국에서 공산당이 승리한 뒤 1950년부터 수천 명의 국민당 군인이 윈난에서 샨주로 퇴각해 기지를 세우고, 은밀한 외국의 지원을 받으며 아편 무역에 손댔다. 버마는 1953년 이 문제를 유엔에 제기했고, 이후 일부가 대만으로 철수했다. 국민당군의 주둔은 국경 지대의 군사화와 마약 경제를 부추겼다.",
+    "zh": "中国共产党取得胜利后，自1950年起数千名国民党士兵从云南撤入掸邦，建立基地，并在外国秘密支持下从事鸦片贸易。缅甸于1953年将此问题提交联合国，随后部分人员撤往台湾。国民党军的存在加剧了边境地区的军事化和毒品经济。",
+    "ja": "中国で共産党が勝利した後、1950年から数千人の国民党軍兵士が雲南からシャン州へ退却して基地を築き、外国の秘密支援を受けつつアヘン取引に関わった。ビルマは1953年にこの問題を国連に提起し、一部は台湾へ撤退した。国民党軍の存在は国境地帯の軍事化と麻薬経済を助長した。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Sixth Buddhist Council",
+    "ko": "제6차 불전 결집",
+    "zh": "第六次佛经结集",
+    "ja": "第六結集"
+   },
+   "description": {
+    "en": "From 1954 to 1956 U Nu's government hosted the Sixth Buddhist Council at the specially built Kaba Aye Pagoda and Great Cave in Rangoon. Monks from Theravada countries recited and edited the Pali canon, and the council closed in 1956, marking 2,500 years since the Buddha's passing according to Theravada reckoning. The event reflected U Nu's vision of Buddhism as central to national identity.",
+    "ko": "1954년부터 1956년까지 우누 정부는 랑군에 특별히 세운 까바에 파고다와 대동굴에서 제6차 불전 결집을 주최했다. 상좌부 국가들의 승려들이 팔리 삼장을 독송하고 편집했으며, 결집은 상좌부 계산법으로 부처 입멸 2,500주년인 1956년에 끝났다. 이 행사는 불교를 민족 정체성의 중심에 둔 우누의 구상을 반영했다.",
+    "zh": "1954至1956年，吴努政府在仰光专门修建的世界和平塔（卡巴艾塔）及大石窟主办第六次佛经结集。来自上座部佛教国家的僧侣诵读并编订巴利三藏，结集于1956年闭幕，按上座部算法正值佛陀涅槃2500周年。这一盛事体现了吴努以佛教为民族认同核心的理念。",
+    "ja": "1954年から1956年にかけて、ウー・ヌ政府はラングーンに特別に建てたカバーエー・パゴダと大洞窟で第六結集を主催した。上座部諸国の僧がパーリ三蔵を誦出・編集し、結集は上座部の数え方で仏滅2500年にあたる1956年に閉幕した。この行事は、仏教を民族アイデンティティの中心とするウー・ヌの構想を反映していた。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ne Win's caretaker government",
+    "ko": "네윈의 과도 정부",
+    "zh": "奈温看守政府",
+    "ja": "ネ・ウィンの選挙管理内閣"
+   },
+   "description": {
+    "en": "A split in the ruling AFPFL in 1958 led Prime Minister U Nu to hand power to army chief General Ne Win, who headed a caretaker government until elections in 1960. The military restored order in Rangoon, reduced insurgent activity and persuaded the Shan and Karenni hereditary rulers to give up their powers. U Nu returned to office after winning the 1960 election.",
+    "ko": "1958년 집권 반파시스트 인민자유연맹(AFPFL)이 분열하자 우누 총리는 육군 사령관 네윈 장군에게 권력을 넘겼고, 네윈은 1960년 선거까지 과도 정부를 이끌었다. 군은 랑군의 질서를 회복하고 반군 활동을 줄였으며, 샨과 카렌니의 세습 군주들이 권한을 포기하도록 했다. 우누는 1960년 선거에서 승리해 복귀했다.",
+    "zh": "1958年执政的反法西斯人民自由同盟分裂，吴努总理将权力移交给陆军总司令奈温将军，由其领导看守政府直至1960年大选。军方恢复了仰光的秩序，削弱了叛军活动，并促使掸族和克耶族世袭土司放弃权力。吴努在1960年大选中获胜后重新执政。",
+    "ja": "1958年に与党AFPFLが分裂すると、ウー・ヌ首相は陸軍司令官ネ・ウィン将軍に権力を委ね、ネ・ウィンは1960年の選挙まで選挙管理内閣を率いた。軍はラングーンの秩序を回復し、反乱活動を抑え、シャンとカレンニーの世襲首長に権限を放棄させた。ウー・ヌは1960年の選挙に勝って復帰した。"
+   }
+  },
+  {
+   "year": 1961,
+   "qid": "Q2652686",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Kachin Independence Army founded",
+    "ko": "카친독립군 창설",
+    "zh": "克钦独立军成立",
+    "ja": "カチン独立軍の結成"
+   },
+   "description": {
+    "en": "In February 1961 the Kachin Independence Organisation and its army were founded in northern Burma, partly in reaction to U Nu's move to make Buddhism the state religion, which alarmed the largely Christian Kachin. The Kachin conflict became one of the country's largest and longest ethnic insurgencies. A ceasefire signed in 1994 broke down in 2011.",
+    "ko": "1961년 2월 버마 북부에서 카친독립기구와 그 군대가 창설되었는데, 이는 대부분 기독교도인 카친족을 불안하게 한 우누의 불교 국교화 추진에 대한 반발이기도 했다. 카친 분쟁은 이 나라에서 가장 크고 오래된 소수민족 반란 가운데 하나가 되었다. 1994년 체결된 휴전은 2011년 깨졌다.",
+    "zh": "1961年2月，克钦独立组织及其军队在缅北成立，部分原因是吴努推动将佛教定为国教，令以基督徒为主的克钦族感到不安。克钦冲突成为缅甸规模最大、持续最久的民族武装冲突之一。1994年签订的停火协议于2011年破裂。",
+    "ja": "1961年2月、北ビルマでカチン独立機構とその軍が結成された。その一因は、キリスト教徒の多いカチン人を不安にさせたウー・ヌの仏教国教化の動きであった。カチン紛争は国内で最大かつ最長の民族紛争の一つとなった。1994年に結ばれた停戦は2011年に崩れた。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": "Q4350095",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Ne Win's coup begins military rule",
+    "ko": "네윈의 쿠데타와 군부 통치의 시작",
+    "zh": "奈温政变开启军人统治",
+    "ja": "ネ・ウィンのクーデターと軍政の始まり"
+   },
+   "description": {
+    "en": "On 2 March 1962 General Ne Win seized power, arresting U Nu and other leaders amid federalist demands from the Shan and other minorities. A Revolutionary Council abolished parliament and the federal constitution, and in July soldiers suppressed student protests at Rangoon University and blew up the Students' Union building. The coup began more than five decades of military domination of Burmese politics.",
+    "ko": "1962년 3월 2일 네윈 장군은 샨족 등 소수민족의 연방제 요구가 높아지던 가운데 권력을 장악하고 우누 등 지도자들을 체포했다. 혁명평의회는 의회와 연방 헌법을 폐지했고, 7월 군인들은 랑군 대학교의 학생 시위를 진압하고 학생회관을 폭파했다. 이 쿠데타로 50년 넘게 이어진 군부의 버마 정치 지배가 시작되었다.",
+    "zh": "1962年3月2日，在掸族等少数民族提出联邦制诉求之际，奈温将军夺取政权，逮捕了吴努等领导人。革命委员会废除了议会和联邦宪法，同年7月军队镇压仰光大学学生抗议，并炸毁学生会大楼。这次政变开启了军方主导缅甸政治逾半个世纪的历史。",
+    "ja": "1962年3月2日、シャン人など少数民族の連邦制要求が高まるなか、ネ・ウィン将軍は権力を掌握し、ウー・ヌら指導者を逮捕した。革命評議会は議会と連邦憲法を廃止し、7月には兵士がラングーン大学の学生の抗議を鎮圧して学生会館を爆破した。このクーデターから半世紀以上にわたる軍のビルマ政治支配が始まった。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": "Q1192817",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Nationalization under the Burmese Way to Socialism",
+    "ko": "버마식 사회주의와 국유화",
+    "zh": "缅甸式社会主义下的国有化",
+    "ja": "ビルマ式社会主義と国有化"
+   },
+   "description": {
+    "en": "Guided by the Revolutionary Council's ideology of the 'Burmese Way to Socialism', the government nationalized banks, trade and industry from 1963. Hundreds of thousands of Indians and many Chinese whose businesses were seized left the country. Burma withdrew into isolation, and the once-leading rice exporter entered a long economic decline.",
+    "ko": "혁명평의회의 이념인 '버마식 사회주의'에 따라 정부는 1963년부터 은행, 무역, 산업을 국유화했다. 사업체를 몰수당한 수십만 명의 인도계와 많은 중국계 주민이 나라를 떠났다. 버마는 고립으로 들어갔고, 한때 최대 쌀 수출국이던 나라는 긴 경제 쇠퇴에 빠졌다.",
+    "zh": "在革命委员会“缅甸式社会主义”意识形态指导下，政府自1963年起将银行、贸易和工业收归国有。数十万印度裔和许多华人因产业被没收而离开缅甸。缅甸走向闭关自守，这个曾经的稻米出口大国陷入长期经济衰退。",
+    "ja": "革命評議会の「ビルマ式社会主義」の理念のもと、政府は1963年から銀行・商業・工業を国有化した。事業を接収された数十万人のインド系住民と多くの中国系住民が国を去った。ビルマは孤立に向かい、かつての米輸出大国は長い経済的衰退に陥った。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Anti-Chinese riots in Rangoon",
+    "ko": "랑군의 반중국인 폭동",
+    "zh": "仰光排华骚乱",
+    "ja": "ラングーンの反華人暴動"
+   },
+   "description": {
+    "en": "In June 1967, as Cultural Revolution activism spread among Chinese students wearing Mao badges, anti-Chinese riots broke out in Rangoon, and many Chinese residents were killed and properties burned. Relations with the People's Republic of China sharply deteriorated, and Beijing increased its support for the Communist Party of Burma. The CPB soon seized large base areas along the Chinese border.",
+    "ko": "1967년 6월 마오쩌둥 배지를 단 중국계 학생들 사이에 문화대혁명식 활동이 퍼지자 랑군에서 반중국인 폭동이 일어나 많은 화교가 살해되고 재산이 불탔다. 중화인민공화국과의 관계는 급격히 악화되었고 베이징은 버마 공산당에 대한 지원을 늘렸다. 버마 공산당은 곧 중국 국경을 따라 넓은 근거지를 장악했다.",
+    "zh": "1967年6月，佩戴毛泽东像章的华人学生中兴起文化大革命式的活动，仰光随即爆发排华骚乱，许多华人被杀，财产被焚。缅中关系急剧恶化，北京加大了对缅甸共产党的支持。缅共不久便在中缅边境占据了大片根据地。",
+    "ja": "1967年6月、毛沢東バッジをつけた華人学生の間で文化大革命風の活動が広がると、ラングーンで反華人暴動が起こり、多くの華人が殺され財産が焼かれた。中華人民共和国との関係は急速に悪化し、北京はビルマ共産党への支援を強めた。共産党はまもなく中国国境沿いに広い根拠地を確保した。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": "Q4352137",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Referendum approves a one-party socialist constitution",
+    "ko": "일당제 사회주의 헌법 국민투표",
+    "zh": "公投通过一党制社会主义宪法",
+    "ja": "一党制社会主義憲法の国民投票"
+   },
+   "description": {
+    "en": "In December 1973 a referendum approved a new constitution, which came into force in January 1974 and created the Socialist Republic of the Union of Burma. The Burma Socialist Programme Party became the sole legal party, and Ne Win, now a civilian, became president. The constitution created seven ethnic states and seven Burman-majority divisions, a structure that largely survives today.",
+    "ko": "1973년 12월 국민투표로 승인된 새 헌법이 1974년 1월 발효되어 버마 연방 사회주의 공화국이 수립되었다. 버마 사회주의 계획당이 유일한 합법 정당이 되었고, 민간인 신분이 된 네윈이 대통령이 되었다. 헌법은 7개의 소수민족 주와 버마족 다수의 7개 지방 구역을 만들었으며, 이 구조는 오늘날까지 대체로 유지된다.",
+    "zh": "1973年12月公投通过新宪法，宪法于1974年1月生效，建立了缅甸联邦社会主义共和国。缅甸社会主义纲领党成为唯一合法政党，已转为文职的奈温出任总统。宪法设立了七个少数民族邦和七个以缅族为主的省，这一结构基本沿用至今。",
+    "ja": "1973年12月の国民投票で承認された新憲法が1974年1月に施行され、ビルマ連邦社会主義共和国が成立した。ビルマ社会主義計画党が唯一の合法政党となり、文民となったネ・ウィンが大統領に就いた。憲法は七つの民族州とビルマ族多数の七つの管区を設け、この枠組みは今日もおおむね残っている。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "U Thant funeral crisis",
+    "ko": "우탄트 장례 사태",
+    "zh": "吴丹葬礼风波",
+    "ja": "ウ・タント葬儀事件"
+   },
+   "description": {
+    "en": "When former UN Secretary-General U Thant died in New York in November 1974, the Ne Win government, which had fallen out with him, refused him an official funeral. In December students seized his coffin in Rangoon and buried it on the grounds of the former Students' Union, demanding a fitting memorial. The army stormed the site, killing and arresting protesters, and declared martial law in Rangoon.",
+    "ko": "1974년 11월 전 유엔 사무총장 우탄트가 뉴욕에서 사망하자, 그와 사이가 틀어졌던 네윈 정부는 공식 장례를 거부했다. 12월 학생들은 랑군에서 그의 관을 탈취해 옛 학생회관 부지에 묻고 걸맞은 추모를 요구했다. 군은 현장을 급습해 시위대를 살상·체포하고 랑군에 계엄령을 선포했다.",
+    "zh": "1974年11月前联合国秘书长吴丹在纽约逝世，与他交恶的奈温政府拒绝为其举行官方葬礼。12月，学生在仰光夺走他的灵柩，将其安葬在原学生会旧址，要求给予应有的纪念。军队冲入现场，打死并逮捕抗议者，并在仰光实施戒严。",
+    "ja": "1974年11月、元国連事務総長ウ・タントがニューヨークで死去すると、彼と不仲だったネ・ウィン政府は公式の葬儀を拒んだ。12月、学生たちはラングーンで棺を奪い、旧学生会館の跡地に埋葬してふさわしい追悼を求めた。軍は現場を急襲して抗議者を殺害・逮捕し、ラングーンに戒厳令を敷いた。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Operation Nagamin and the first Rohingya exodus",
+    "ko": "나가민 작전과 첫 로힝야 대탈출",
+    "zh": "“龙王行动”与首次罗兴亚人出逃",
+    "ja": "ナガーミン作戦と最初のロヒンギャ大量流出"
+   },
+   "description": {
+    "en": "In 1978 the government launched Operation Nagamin ('Dragon King'), a nationwide check of citizenship registration that in northern Arakan was accompanied by widespread abuses. Around 200,000 Muslims, known as Rohingya, fled to Bangladesh. Most were repatriated under an agreement between the two countries, but the episode foreshadowed later crises.",
+    "ko": "1978년 정부는 전국적 시민권 등록 점검인 나가민('용왕') 작전을 벌였는데, 아라칸 북부에서는 광범위한 인권 침해가 뒤따랐다. 로힝야로 알려진 무슬림 약 20만 명이 방글라데시로 피신했다. 대부분은 양국 협정에 따라 송환되었지만, 이 사건은 이후 위기의 전조였다.",
+    "zh": "1978年，政府发起全国性的公民登记核查行动“龙王行动”，在阿拉干北部伴随着大规模侵害。约20万被称为罗兴亚人的穆斯林逃往孟加拉国。多数人根据两国协议被遣返，但这一事件预示了日后的危机。",
+    "ja": "1978年、政府は全国的な国籍登録の点検であるナガーミン（「竜王」）作戦を実施し、アラカン北部では広範な人権侵害を伴った。ロヒンギャとして知られるムスリム約20万人がバングラデシュへ逃れた。多くは両国の合意で帰還したが、この出来事はのちの危機の前兆となった。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "1982 Citizenship Law",
+    "ko": "1982년 시민권법",
+    "zh": "1982年公民法",
+    "ja": "1982年国籍法"
+   },
+   "description": {
+    "en": "The 1982 Citizenship Law defined full citizenship mainly by membership of 'national races' deemed present before British colonization in 1823, creating lesser categories of associate and naturalized citizens. The Rohingya were not recognized as a national race, and the law left most of them effectively stateless. Human rights organizations have long criticized the law as discriminatory.",
+    "ko": "1982년 시민권법은 1823년 영국 식민화 이전부터 거주했다고 간주되는 '국민 민족'에 속하는지를 중심으로 완전한 시민권을 규정하고, 준시민과 귀화 시민이라는 하위 범주를 만들었다. 로힝야는 국민 민족으로 인정되지 않았고, 이 법으로 대부분이 사실상 무국적 상태가 되었다. 인권 단체들은 오랫동안 이 법을 차별적이라고 비판해 왔다.",
+    "zh": "1982年《公民法》主要以是否属于被认为在1823年英国殖民之前即已存在的“原住民族”来界定完全公民身份，并设立了“准公民”和“归化公民”等次级类别。罗兴亚人未被承认为原住民族，该法使他们中的大多数实际上处于无国籍状态。人权组织长期批评该法具有歧视性。",
+    "ja": "1982年国籍法は、1823年の英国による植民地化以前から存在したとされる「土着民族」への帰属を主な基準に完全な国籍を定め、準国民や帰化国民という下位区分を設けた。ロヒンギャは土着民族と認められず、この法律によって大半が事実上の無国籍状態となった。人権団体は長くこの法律を差別的だと批判してきた。"
+   }
+  },
+  {
+   "year": 1983,
+   "qid": "Q494418",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Rangoon bombing",
+    "ko": "아웅산 묘소 폭탄 테러",
+    "zh": "仰光爆炸案",
+    "ja": "ラングーン事件"
+   },
+   "description": {
+    "en": "On 9 October 1983 North Korean agents detonated a bomb at the Martyrs' Mausoleum in Rangoon during a visit by South Korean President Chun Doo-hwan, who escaped because he was delayed. The blast killed 21 people, among them several South Korean cabinet ministers. Burma broke off relations with North Korea, restoring them only in 2007.",
+    "ko": "1983년 10월 9일 북한 공작원들은 전두환 한국 대통령의 방문 중 랑군의 아웅산 묘소(순국자 묘역)에서 폭탄을 터뜨렸으며, 전 대통령은 도착이 늦어져 화를 면했다. 폭발로 한국 각료 여러 명을 포함한 21명이 숨졌다. 버마는 북한과 단교했고 2007년에야 관계를 회복했다.",
+    "zh": "1983年10月9日，韩国总统全斗焕访问期间，朝鲜特工在仰光烈士陵引爆炸弹，全斗焕因迟到幸免于难。爆炸造成21人死亡，其中包括数名韩国内阁部长。缅甸随即与朝鲜断交，直到2007年才恢复关系。",
+    "ja": "1983年10月9日、韓国の全斗煥大統領の訪問中に、北朝鮮の工作員がラングーンの殉難者廟（アウンサン廟）で爆弾を爆発させた。大統領は到着が遅れて難を逃れた。爆発で韓国の閣僚数人を含む21人が死亡した。ビルマは北朝鮮と断交し、関係回復は2007年であった。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Demonetization and least-developed status",
+    "ko": "화폐 폐지와 최빈국 지정",
+    "zh": "废钞与最不发达国家地位",
+    "ja": "廃貨と後発開発途上国認定"
+   },
+   "description": {
+    "en": "In September 1987 the government suddenly declared the 25, 35 and 75 kyat notes worthless without compensation, wiping out much of the population's savings. Students protested and universities were closed. In December Burma applied for and received least-developed-country status at the United Nations, a stark admission of economic failure that fuelled the unrest of 1988.",
+    "ko": "1987년 9월 정부는 보상 없이 25, 35, 75짯 지폐를 갑자기 무효화해 국민 상당수의 저축을 날려 버렸다. 학생들이 항의했고 대학들은 문을 닫았다. 12월 버마는 유엔에 최빈국 지위를 신청해 인정받았는데, 이는 경제 실패를 노골적으로 인정한 것으로 1988년 소요를 부채질했다.",
+    "zh": "1987年9月，政府突然宣布面额25、35和75缅元的纸币作废且不予补偿，使大量民众的积蓄化为乌有。学生发起抗议，大学被关闭。同年12月缅甸向联合国申请并获得最不发达国家地位，这一对经济失败的公开承认加剧了1988年的动荡。",
+    "ja": "1987年9月、政府は補償なしに25・35・75チャット紙幣の無効を突然宣言し、国民の多くの貯蓄を消し去った。学生が抗議し、大学は閉鎖された。12月にビルマは国連に後発開発途上国の地位を申請して認められ、経済の失敗をあからさまに認めたことが1988年の騒乱を助長した。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": "Q274365",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "The 8888 nationwide uprising",
+    "ko": "8888 민주화 항쟁",
+    "zh": "8888民主运动",
+    "ja": "8888民主化運動"
+   },
+   "description": {
+    "en": "Student protests in Rangoon grew into nationwide pro-democracy demonstrations that peaked in a general strike beginning on 8 August 1988. Ne Win resigned as party chairman in July, and Aung San Suu Kyi, daughter of Aung San, emerged as a leader when she addressed a huge crowd at the Shwedagon Pagoda. The military suppressed the movement at great human cost, with thousands killed by many estimates.",
+    "ko": "랑군의 학생 시위는 전국적인 민주화 시위로 커져 1988년 8월 8일 시작된 총파업에서 정점에 이르렀다. 네윈은 7월 당 의장직에서 물러났고, 아웅산의 딸 아웅산 수치는 쉐다곤 파고다에서 대규모 군중 앞에서 연설하며 지도자로 떠올랐다. 군부는 큰 인명 피해를 내며 운동을 진압했고, 많은 추정에 따르면 수천 명이 숨졌다.",
+    "zh": "仰光的学生抗议发展为全国性民主示威，并在1988年8月8日开始的总罢工中达到高潮。奈温于7月辞去党主席职务，昂山之女昂山素季在瑞光大金塔向大批民众发表演讲，成为运动领袖。军方以巨大的人员代价镇压了运动，据许多估计有数千人遇难。",
+    "ja": "ラングーンの学生の抗議は全国的な民主化デモへと拡大し、1988年8月8日に始まったゼネストで頂点に達した。ネ・ウィンは7月に党議長を辞任し、アウンサンの娘アウンサンスーチーがシュエダゴン・パゴダで大群衆を前に演説して指導者として登場した。軍は多大な人命の犠牲を伴って運動を鎮圧し、多くの推計では数千人が死亡した。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "SLORC seizes power",
+    "ko": "국가법질서회복평의회의 권력 장악",
+    "zh": "国家恢复法律与秩序委员会夺权",
+    "ja": "国家法秩序回復評議会の権力掌握"
+   },
+   "description": {
+    "en": "On 18 September 1988 the armed forces formally took power, setting up the State Law and Order Restoration Council under General Saw Maung and abolishing the socialist one-party state. The junta opened the economy to private and foreign trade while promising multiparty elections. Thousands of students fled to the border regions to join ethnic armed groups.",
+    "ko": "1988년 9월 18일 군은 공식적으로 권력을 장악해 소마웅 장군을 수반으로 한 국가법질서회복평의회를 세우고 사회주의 일당 국가를 폐지했다. 군정은 다당제 선거를 약속하면서 경제를 민간 및 대외 교역에 개방했다. 수천 명의 학생이 국경 지대로 피신해 소수민족 무장 단체에 합류했다.",
+    "zh": "1988年9月18日，军队正式接管政权，成立以苏貌将军为首的国家恢复法律与秩序委员会，废除了社会主义一党制国家。军政府在承诺举行多党选举的同时，向私营和对外贸易开放经济。数千名学生逃往边境地区，加入少数民族武装。",
+    "ja": "1988年9月18日、国軍は正式に権力を掌握し、ソウ・マウン将軍を議長とする国家法秩序回復評議会を設置して社会主義一党制国家を廃止した。軍政は複数政党制選挙を約束しつつ、経済を民間・対外貿易に開放した。数千人の学生が国境地帯へ逃れ、民族武装勢力に加わった。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Burma renamed Myanmar; Aung San Suu Kyi detained",
+    "ko": "국호 미얀마로 변경, 아웅산 수치 연금",
+    "zh": "缅甸改英文国名，昂山素季遭软禁",
+    "ja": "国名をミャンマーに変更、アウンサンスーチー軟禁"
+   },
+   "description": {
+    "en": "In June 1989 the junta changed the country's official English name from Burma to Myanmar and renamed Rangoon as Yangon, among other place names; the change remains politically contested. In July 1989 Aung San Suu Kyi, leader of the National League for Democracy, was placed under house arrest. She would spend about 15 of the next 21 years in detention.",
+    "ko": "1989년 6월 군정은 나라의 공식 영어 국호를 버마에서 미얀마로, 랑군을 양곤으로 바꾸는 등 여러 지명을 변경했으며, 이 변경은 지금도 정치적 논란이 있다. 1989년 7월 민주주의민족동맹 지도자 아웅산 수치는 가택 연금되었다. 그녀는 이후 21년 가운데 약 15년을 구금 상태로 보내게 된다.",
+    "zh": "1989年6月，军政府将国家的官方英文名称由Burma改为Myanmar，并将Rangoon改为Yangon等多个地名，这一更改至今仍有政治争议。1989年7月，全国民主联盟领导人昂山素季遭到软禁。在此后21年中，她约有15年处于被拘禁状态。",
+    "ja": "1989年6月、軍政は国の公式英語名をビルマからミャンマーに、ラングーンをヤンゴンにするなど多くの地名を改めた。この変更は今も政治的に議論がある。1989年7月、国民民主連盟の指導者アウンサンスーチーは自宅軟禁に置かれた。彼女はその後21年のうち約15年を拘束下で過ごすことになる。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "NLD wins the 1990 election",
+    "ko": "1990년 총선, 민주주의민족동맹 압승",
+    "zh": "全国民主联盟赢得1990年大选",
+    "ja": "1990年総選挙で国民民主連盟が圧勝"
+   },
+   "description": {
+    "en": "In the general election of 27 May 1990, the National League for Democracy won about 80 percent of the seats despite its leaders being detained. The junta refused to transfer power, arguing that a new constitution had to be drafted first, and arrested many elected representatives. The ignored result became the central grievance of the democracy movement for two decades.",
+    "ko": "1990년 5월 27일 총선에서 민주주의민족동맹은 지도자들이 구금된 상태에서도 의석의 약 80%를 차지했다. 군정은 먼저 새 헌법을 만들어야 한다며 권력 이양을 거부하고 많은 당선자를 체포했다. 무시된 선거 결과는 20년 동안 민주화 운동의 핵심 불만이 되었다.",
+    "zh": "在1990年5月27日的大选中，全国民主联盟在领导人遭拘押的情况下仍赢得约80%的议席。军政府以须先制定新宪法为由拒绝移交政权，并逮捕了许多当选代表。被无视的选举结果成为此后二十年民主运动的核心诉求。",
+    "ja": "1990年5月27日の総選挙で、国民民主連盟は指導者が拘束されていたにもかかわらず約8割の議席を獲得した。軍政は新憲法の起草が先だとして政権移譲を拒み、多くの当選者を逮捕した。無視された選挙結果は、その後20年にわたり民主化運動の中心的な訴えとなった。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Aung San Suu Kyi awarded the Nobel Peace Prize",
+    "ko": "아웅산 수치, 노벨 평화상 수상",
+    "zh": "昂山素季获诺贝尔和平奖",
+    "ja": "アウンサンスーチーがノーベル平和賞を受賞"
+   },
+   "description": {
+    "en": "In October 1991 Aung San Suu Kyi, then under house arrest, was awarded the Nobel Peace Prize for her non-violent struggle for democracy and human rights. Her sons accepted the prize on her behalf in Oslo. The award made her an international symbol of peaceful resistance and increased pressure on the junta.",
+    "ko": "1991년 10월 가택 연금 중이던 아웅산 수치는 민주주의와 인권을 위한 비폭력 투쟁으로 노벨 평화상을 받았다. 그녀의 아들들이 오슬로에서 대리 수상했다. 이 수상으로 그녀는 평화적 저항의 국제적 상징이 되었고 군정에 대한 압박이 커졌다.",
+    "zh": "1991年10月，仍处于软禁中的昂山素季因其争取民主与人权的非暴力斗争获得诺贝尔和平奖。她的儿子们在奥斯陆代为领奖。这一奖项使她成为和平抵抗的国际象征，并加大了对军政府的压力。",
+    "ja": "1991年10月、自宅軟禁中のアウンサンスーチーは、民主主義と人権のための非暴力の闘いによりノーベル平和賞を受賞した。息子たちがオスロで代理受賞した。受賞によって彼女は平和的抵抗の国際的象徴となり、軍政への圧力が強まった。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Myanmar joins ASEAN",
+    "ko": "미얀마의 아세안 가입",
+    "zh": "缅甸加入东盟",
+    "ja": "ミャンマーのASEAN加盟"
+   },
+   "description": {
+    "en": "In July 1997 Myanmar was admitted to the Association of Southeast Asian Nations together with Laos, despite Western objections to its human rights record. ASEAN argued for 'constructive engagement' rather than isolation. In November the same year the junta renamed itself the State Peace and Development Council.",
+    "ko": "1997년 7월 미얀마는 서방의 인권 문제 제기에도 불구하고 라오스와 함께 동남아시아국가연합(아세안)에 가입했다. 아세안은 고립 대신 '건설적 관여'를 주장했다. 같은 해 11월 군정은 이름을 국가평화발전평의회로 바꾸었다.",
+    "zh": "1997年7月，尽管西方国家就人权问题提出反对，缅甸仍与老挝一同加入东南亚国家联盟。东盟主张以“建设性接触”取代孤立。同年11月，军政府改名为国家和平与发展委员会。",
+    "ja": "1997年7月、ミャンマーは人権状況への欧米の反対にもかかわらず、ラオスとともに東南アジア諸国連合（ASEAN）に加盟した。ASEANは孤立ではなく「建設的関与」を主張した。同年11月、軍政は国家平和発展評議会に改称した。"
+   }
+  },
+  {
+   "year": 2003,
+   "qid": "Q5260602",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Depayin massacre",
+    "ko": "드페인 학살",
+    "zh": "德帕因屠杀",
+    "ja": "ディペイン事件"
+   },
+   "description": {
+    "en": "On 30 May 2003 a convoy carrying Aung San Suu Kyi and NLD supporters was attacked near Depayin in Sagaing Region by a mob linked to the regime-backed Union Solidarity and Development Association. An unknown number of people were killed; opposition sources reported far more deaths than the government's figure. Suu Kyi was detained again and returned to house arrest.",
+    "ko": "2003년 5월 30일 사가잉 지역 드페인 부근에서 아웅산 수치와 민주주의민족동맹 지지자들을 태운 차량 행렬이 정권이 후원하는 연방단결발전협회와 연계된 무리의 습격을 받았다. 정확한 사망자 수는 알려지지 않았으며, 야권은 정부 발표보다 훨씬 많은 사망자를 주장했다. 수치는 다시 구금되어 가택 연금 상태로 돌아갔다.",
+    "zh": "2003年5月30日，载有昂山素季和全国民主联盟支持者的车队在实皆省德帕因附近遭到与政府扶持的联邦巩固与发展协会有关的暴徒袭击。遇难人数至今不明，反对派公布的死亡人数远高于政府数字。昂山素季再次被拘押，重新遭到软禁。",
+    "ja": "2003年5月30日、アウンサンスーチーとNLD支持者を乗せた車列が、ザガイン地方ディペイン付近で、政権が後押しする連邦団結発展協会と関係する集団に襲撃された。死者数は不明で、野党側は政府発表をはるかに上回る犠牲を報告した。スーチーは再び拘束され、自宅軟禁に戻された。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Capital moved to Naypyidaw",
+    "ko": "수도를 네피도로 이전",
+    "zh": "迁都内比都",
+    "ja": "首都をネピドーに移転"
+   },
+   "description": {
+    "en": "In November 2005 government ministries began moving from Yangon to a newly built administrative capital near Pyinmana in central Myanmar, officially named Naypyidaw ('abode of kings') in 2006. The junta gave little public explanation; analysts cited strategic security and the symbolism of royal capital-building. The sprawling, sparsely populated city became the seat of government and parliament.",
+    "ko": "2005년 11월 정부 부처들이 양곤에서 미얀마 중부 핀마나 인근에 새로 지은 행정 수도로 옮기기 시작했으며, 이곳은 2006년 공식적으로 네피도('왕의 거처')로 명명되었다. 군정은 공개적인 설명을 거의 하지 않았고, 분석가들은 전략적 안보와 왕도 건설의 상징성을 이유로 꼽았다. 넓고 인구가 희박한 이 도시는 정부와 의회의 소재지가 되었다.",
+    "zh": "2005年11月，政府各部开始从仰光迁往缅甸中部彬马那附近新建的行政首都，2006年正式定名为内比都（意为“王都”）。军政府几乎未作公开解释，分析人士认为原因在于战略安全以及历代君主营建新都的象征意义。这座广阔而人口稀少的城市成为政府和议会所在地。",
+    "ja": "2005年11月、政府の省庁はヤンゴンから中部ミャンマーのピンマナ近郊に新たに建設された行政首都へ移り始め、2006年に正式にネピドー（「王の都」）と命名された。軍政はほとんど公式な説明をせず、専門家は戦略的な安全保障と王都建設の象徴性を理由に挙げた。広大で人口の少ないこの都市は政府と議会の所在地となった。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": "Q843962",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Saffron Revolution",
+    "ko": "사프란 혁명",
+    "zh": "番红花革命",
+    "ja": "サフラン革命"
+   },
+   "description": {
+    "en": "A sudden fuel price rise in August 2007 sparked protests that in September were led by tens of thousands of Buddhist monks marching through Yangon and other cities. Security forces cracked down, raiding monasteries and firing on crowds; among those killed was Japanese journalist Kenji Nagai. Images smuggled out by citizen journalists drew worldwide attention.",
+    "ko": "2007년 8월 갑작스러운 연료 가격 인상으로 시작된 시위는 9월 수만 명의 승려가 양곤과 여러 도시를 행진하며 이끌었다. 보안군은 사원을 급습하고 군중에게 발포하며 진압했고, 사망자 가운데에는 일본인 기자 나가이 겐지도 있었다. 시민 기자들이 몰래 내보낸 영상은 세계의 주목을 받았다.",
+    "zh": "2007年8月燃油价格骤涨引发抗议，9月数万名佛教僧侣在仰光等城市游行，成为运动的主导力量。安全部队突袭寺院、向人群开枪进行镇压，日本记者长井健司也在遇难者之列。公民记者秘密传出的影像引起全世界关注。",
+    "ja": "2007年8月の突然の燃料値上げをきっかけに抗議が起こり、9月には数万人の僧侶がヤンゴンなどの都市を行進して運動を主導した。治安部隊は僧院を急襲し群衆に発砲して鎮圧し、死者の中には日本人ジャーナリスト長井健司もいた。市民記者がひそかに送り出した映像は世界の注目を集めた。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclone Nargis devastates the delta",
+    "ko": "사이클론 나르기스, 삼각주를 휩쓸다",
+    "zh": "热带气旋纳尔吉斯重创三角洲",
+    "ja": "サイクロン・ナルギスがデルタを襲う"
+   },
+   "description": {
+    "en": "Cyclone Nargis struck the Irrawaddy delta and Yangon on 2–3 May 2008, its storm surge flooding low-lying villages. An estimated 138,000 people died or went missing, making it the deadliest natural disaster in the country's recorded history. The junta initially restricted foreign aid workers, provoking international criticism, before an ASEAN-led mechanism eased access.",
+    "ko": "사이클론 나르기스는 2008년 5월 2~3일 에야와디 삼각주와 양곤을 강타했고, 폭풍 해일이 저지대 마을을 덮쳤다. 약 13만 8천 명이 사망하거나 실종된 것으로 추정되어 이 나라 기록 역사상 최악의 자연재해가 되었다. 군정은 처음에 외국 구호 요원의 입국을 제한해 국제적 비판을 받았고, 이후 아세안 주도의 체계를 통해 접근이 완화되었다.",
+    "zh": "2008年5月2日至3日，热带气旋纳尔吉斯袭击伊洛瓦底江三角洲和仰光，风暴潮淹没了低洼村庄。估计约13.8万人死亡或失踪，成为缅甸有记录以来最惨重的自然灾害。军政府起初限制外国救援人员入境，招致国际批评，后经东盟主导的机制才放宽准入。",
+    "ja": "2008年5月2～3日、サイクロン・ナルギスがエーヤワディー・デルタとヤンゴンを直撃し、高潮が低地の村々をのみ込んだ。死者・行方不明者は推定約13万8千人に上り、同国の記録史上最悪の自然災害となった。軍政は当初外国の援助要員を制限して国際的批判を浴び、ASEAN主導の枠組みで受け入れが緩和された。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q3179218",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Referendum on the 2008 constitution",
+    "ko": "2008년 헌법 국민투표",
+    "zh": "2008年宪法公投",
+    "ja": "2008年憲法の国民投票"
+   },
+   "description": {
+    "en": "Only days after Cyclone Nargis, the junta held a referendum on a new constitution and announced approval by more than 90 percent, a result widely criticized as not free or fair. The constitution reserves a quarter of parliamentary seats for the military, gives it control of the defence, home affairs and border ministries, and bars anyone with a foreign spouse or children from the presidency. It provided the framework for the controlled transition of 2010–11.",
+    "ko": "사이클론 나르기스 직후 며칠 만에 군정은 새 헌법에 대한 국민투표를 실시해 90% 이상의 찬성을 발표했으나, 이 결과는 자유롭지도 공정하지도 않았다는 비판을 널리 받았다. 헌법은 의회 의석의 4분의 1을 군에 할당하고, 국방·내무·국경 담당 부처를 군이 통제하게 하며, 외국인 배우자나 자녀를 둔 사람의 대통령 취임을 금지한다. 이 헌법은 2010~11년 통제된 이행의 틀이 되었다.",
+    "zh": "纳尔吉斯气旋过后仅数日，军政府便就新宪法举行公投，并宣布赞成票超过90%，这一结果被普遍批评为既不自由也不公正。宪法为军方保留四分之一议席，使其掌控国防、内政和边境事务部，并禁止配偶或子女为外国人者出任总统。它为2010—2011年受控的政治过渡提供了框架。",
+    "ja": "サイクロン・ナルギスのわずか数日後、軍政は新憲法の国民投票を実施し、9割以上の賛成と発表したが、その結果は自由でも公正でもないと広く批判された。憲法は議席の4分の1を軍に割り当て、国防・内務・国境の各省を軍の管轄とし、外国籍の配偶者や子をもつ者の大統領就任を禁じている。これが2010～11年の管理された移行の枠組みとなった。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Elections and Aung San Suu Kyi's release",
+    "ko": "총선과 아웅산 수치 석방",
+    "zh": "大选与昂山素季获释",
+    "ja": "総選挙とアウンサンスーチー解放"
+   },
+   "description": {
+    "en": "In November 2010 Myanmar held its first general election in twenty years, boycotted by the NLD and won overwhelmingly by the military-backed Union Solidarity and Development Party amid widespread fraud allegations. Days later, on 13 November, Aung San Suu Kyi was released from house arrest. The election opened the way for the junta's dissolution and a nominally civilian government.",
+    "ko": "2010년 11월 미얀마는 20년 만에 첫 총선을 치렀는데, 민주주의민족동맹은 이를 보이콧했고 부정 의혹이 널리 제기된 가운데 군부가 지원하는 연방단결발전당이 압승했다. 며칠 뒤인 11월 13일 아웅산 수치가 가택 연금에서 풀려났다. 이 선거로 군정 해산과 명목상의 민간 정부 출범의 길이 열렸다.",
+    "zh": "2010年11月，缅甸举行二十年来首次大选，全国民主联盟予以抵制，军方支持的联邦巩固与发展党在广泛的舞弊指控中大获全胜。数日后的11月13日，昂山素季解除软禁。此次选举为军政府解散和名义上的文官政府上台铺平了道路。",
+    "ja": "2010年11月、ミャンマーは20年ぶりの総選挙を実施した。NLDはボイコットし、不正の訴えが広がるなか軍の支援する連邦団結発展党が圧勝した。数日後の11月13日、アウンサンスーチーが自宅軟禁から解放された。この選挙により軍政の解散と名目上の文民政府誕生への道が開かれた。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q110363008",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Thein Sein government begins reforms",
+    "ko": "테인세인 정부의 개혁 착수",
+    "zh": "登盛政府启动改革",
+    "ja": "テインセイン政権の改革開始"
+   },
+   "description": {
+    "en": "In March 2011 the junta dissolved itself and former general Thein Sein was sworn in as president of a nominally civilian government. He released political prisoners, relaxed press censorship, legalized trade unions and, in September 2011, suspended the Chinese-backed Myitsone dam in response to public opposition. The reforms led to the easing of Western sanctions and the NLD's return to electoral politics.",
+    "ko": "2011년 3월 군정은 스스로 해산했고 전직 장군 테인세인이 명목상 민간 정부의 대통령으로 취임했다. 그는 정치범을 석방하고 언론 검열을 완화했으며 노동조합을 합법화하고, 2011년 9월에는 여론의 반대에 따라 중국이 지원하는 밋손 댐 건설을 중단시켰다. 이 개혁으로 서방의 제재가 완화되고 민주주의민족동맹이 선거 정치로 복귀했다.",
+    "zh": "2011年3月军政府自行解散，前将军登盛宣誓就任名义上的文官政府总统。他释放政治犯、放松新闻审查、使工会合法化，并于2011年9月顺应民意搁置了中国支持的密松水电站项目。这些改革使西方逐步放宽制裁，全国民主联盟也重返选举政治。",
+    "ja": "2011年3月、軍政は自ら解散し、元将軍テインセインが名目上の文民政府の大統領に就任した。政治犯を釈放し、報道検閲を緩め、労働組合を合法化し、2011年9月には世論の反対を受けて中国が支援するミッソン・ダムの建設を凍結した。改革により欧米の制裁が緩和され、NLDは選挙政治に復帰した。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Communal violence in Rakhine State",
+    "ko": "라카인주의 공동체 간 폭력",
+    "zh": "若开邦族群暴力",
+    "ja": "ラカイン州の宗派間暴力"
+   },
+   "description": {
+    "en": "In June and October 2012 violence between Buddhist Rakhine and Muslim communities, most of them Rohingya, swept Rakhine State, with homes burned and many killed. Over a hundred thousand people, mostly Rohingya, were confined to displacement camps with severe restrictions on movement. Anti-Muslim sentiment spread nationally in the following years, fuelled by nationalist monk-led movements.",
+    "ko": "2012년 6월과 10월 라카인주에서 불교도 라카인인과 대부분 로힝야인 무슬림 공동체 사이의 폭력이 휩쓸어 가옥이 불타고 많은 사람이 숨졌다. 대부분 로힝야인 십만 명 이상이 이동이 심하게 제한된 난민 수용소에 갇혔다. 이후 몇 년 동안 민족주의 승려들이 이끄는 운동에 힘입어 반무슬림 정서가 전국으로 퍼졌다.",
+    "zh": "2012年6月和10月，若开族佛教徒与以罗兴亚人为主的穆斯林社群之间的暴力席卷若开邦，大量房屋被焚，多人遇难。十多万人（多数为罗兴亚人）被限制在流离失所者营地中，行动受到严格限制。此后数年，在民族主义僧侣领导的运动推动下，反穆斯林情绪蔓延全国。",
+    "ja": "2012年6月と10月、仏教徒のラカイン人と、大半がロヒンギャであるムスリム共同体との間の暴力がラカイン州を席巻し、家屋が焼かれ多くが死亡した。主にロヒンギャから成る十万人以上が、移動を厳しく制限された避難民キャンプに閉じ込められた。その後数年、民族主義的な僧侶が率いる運動に煽られ、反ムスリム感情が全国に広がった。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "NLD landslide in the 2015 election",
+    "ko": "2015년 총선, 민주주의민족동맹 압승",
+    "zh": "全国民主联盟在2015年大选中大胜",
+    "ja": "2015年総選挙でNLDが圧勝"
+   },
+   "description": {
+    "en": "In the general election of 8 November 2015, regarded as the most credible in decades, the National League for Democracy won an outright majority in both houses of parliament. The military and the ruling USDP accepted the result. A month earlier, the government had signed a Nationwide Ceasefire Agreement with eight ethnic armed organizations, though many of the largest groups stayed out.",
+    "ko": "수십 년 만에 가장 신뢰할 만한 선거로 평가된 2015년 11월 8일 총선에서 민주주의민족동맹은 양원 모두에서 과반을 차지했다. 군부와 집권 연방단결발전당은 결과를 받아들였다. 그 한 달 전 정부는 8개 소수민족 무장 조직과 전국 휴전 협정에 서명했지만, 가장 큰 단체들 상당수는 참여하지 않았다.",
+    "zh": "在被视为数十年来最可信的2015年11月8日大选中，全国民主联盟在议会两院均赢得绝对多数。军方和执政的联邦巩固与发展党接受了选举结果。一个月前，政府与八个少数民族武装组织签署了《全国停火协议》，但许多最大的武装组织未加入。",
+    "ja": "数十年来で最も信頼できる選挙とされた2015年11月8日の総選挙で、NLDは上下両院で単独過半数を獲得した。軍と与党USDPは結果を受け入れた。その一か月前、政府は八つの民族武装組織と全国停戦協定に署名したが、最大級の組織の多くは加わらなかった。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q109021943",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "NLD government takes office",
+    "ko": "민주주의민족동맹 정부 출범",
+    "zh": "全国民主联盟政府上台",
+    "ja": "NLD政権の発足"
+   },
+   "description": {
+    "en": "In March 2016 parliament elected Htin Kyaw, a close ally of Aung San Suu Kyi, as the first president since 1962 not drawn from the military. Barred from the presidency by the constitution, Suu Kyi became foreign minister and the newly created State Counsellor, the de facto head of government. The military retained control of security ministries and a veto over constitutional change.",
+    "ko": "2016년 3월 의회는 아웅산 수치의 측근 틴쩌를 1962년 이후 처음으로 군 출신이 아닌 대통령으로 선출했다. 헌법상 대통령이 될 수 없었던 수치는 외무 장관과 새로 만든 국가 고문을 맡아 사실상의 정부 수반이 되었다. 군은 안보 부처와 개헌 거부권을 계속 쥐었다.",
+    "zh": "2016年3月，议会选举昂山素季的亲信廷觉为总统，他是1962年以来首位非军人出身的总统。因宪法限制无法出任总统的昂山素季担任外交部长和新设的国务资政，成为事实上的政府首脑。军方仍掌控安全部门，并对修宪拥有否决权。",
+    "ja": "2016年3月、議会はアウンサンスーチーの側近ティンチョーを、1962年以来初めて軍出身でない大統領に選出した。憲法により大統領になれないスーチーは外相と新設の国家顧問に就き、事実上の政府首班となった。軍は治安関係の省と憲法改正への拒否権を保持し続けた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q28136551",
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Mass expulsion of the Rohingya",
+    "ko": "로힝야의 대규모 축출",
+    "zh": "罗兴亚人遭大规模驱逐",
+    "ja": "ロヒンギャの大規模な追放"
+   },
+   "description": {
+    "en": "After attacks by the Arakan Rohingya Salvation Army on security posts in October 2016 and August 2017, the military launched 'clearance operations' in northern Rakhine State marked by mass killings, sexual violence and the burning of villages. More than 700,000 Rohingya fled to Bangladesh in the months after August 2017. A UN fact-finding mission called for senior generals to be investigated for genocide; Myanmar's government and military rejected the accusations.",
+    "ko": "2016년 10월과 2017년 8월 아라칸 로힝야 구원군(ARSA)이 보안 초소를 공격하자, 군은 라카인주 북부에서 대량 학살, 성폭력, 마을 방화가 동반된 '소탕 작전'을 벌였다. 2017년 8월 이후 몇 달 동안 70만 명이 넘는 로힝야가 방글라데시로 피신했다. 유엔 진상조사단은 고위 장성들을 집단 학살 혐의로 조사할 것을 촉구했고, 미얀마 정부와 군은 이 혐의를 부인했다.",
+    "zh": "2016年10月和2017年8月“若开罗兴亚救世军”袭击安全哨所后，军方在若开邦北部展开“清剿行动”，伴随大规模杀戮、性暴力和焚烧村庄。2017年8月后的数月内，逾70万罗兴亚人逃往孟加拉国。联合国实况调查团呼吁就种族灭绝罪调查高级将领，缅甸政府和军方否认这些指控。",
+    "ja": "2016年10月と2017年8月にアラカン・ロヒンギャ救世軍（ARSA）が治安拠点を襲撃すると、軍はラカイン州北部で大量殺害、性暴力、村の焼き討ちを伴う「掃討作戦」を行った。2017年8月以降の数か月で70万人を超えるロヒンギャがバングラデシュへ逃れた。国連事実調査団は軍高官をジェノサイドの容疑で捜査するよう求め、ミャンマー政府と軍は非難を否定した。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q48734865",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Inn Din massacre and the Reuters journalists",
+    "ko": "인딘 학살과 로이터 기자 사건",
+    "zh": "因丁村屠杀与路透社记者案",
+    "ja": "インディン虐殺とロイター記者事件"
+   },
+   "description": {
+    "en": "In September 2017 ten Rohingya men were killed at Inn Din village in Rakhine State by soldiers and local villagers. Reuters journalists Wa Lone and Kyaw Soe Oo, who investigated the killings, were arrested in December 2017 and sentenced to seven years in prison, before being freed by presidential amnesty in 2019. The military admitted the killings and jailed several soldiers, who were released early.",
+    "ko": "2017년 9월 라카인주 인딘 마을에서 로힝야 남성 10명이 군인과 현지 주민들에게 살해되었다. 이 사건을 취재한 로이터 기자 와론과 짜소우는 2017년 12월 체포되어 징역 7년을 선고받았다가 2019년 대통령 사면으로 풀려났다. 군은 살해를 인정하고 군인 몇 명을 수감했으나 이들은 조기 석방되었다.",
+    "zh": "2017年9月，若开邦因丁村10名罗兴亚男子被军人和当地村民杀害。调查此案的路透社记者瓦隆和觉梭乌于2017年12月被捕，被判处七年徒刑，2019年获总统特赦出狱。军方承认了杀戮并将数名士兵判刑入狱，但他们被提前释放。",
+    "ja": "2017年9月、ラカイン州インディン村でロヒンギャの男性10人が兵士と地元住民に殺害された。この事件を取材したロイターのワ・ローン記者とチョー・ソウ・ウー記者は2017年12月に逮捕され禁錮7年の判決を受けたが、2019年に大統領恩赦で釈放された。軍は殺害を認めて兵士数人を収監したが、彼らは早期に釈放された。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Genocide case at the International Court of Justice",
+    "ko": "국제사법재판소의 집단 학살 소송",
+    "zh": "国际法院受理种族灭绝案",
+    "ja": "国際司法裁判所のジェノサイド訴訟"
+   },
+   "description": {
+    "en": "In November 2019 The Gambia, backed by the Organisation of Islamic Cooperation, brought a case against Myanmar at the International Court of Justice under the Genocide Convention over the treatment of the Rohingya. Aung San Suu Kyi personally defended Myanmar at the hearings in The Hague in December. In January 2020 the court ordered provisional measures requiring Myanmar to prevent genocidal acts.",
+    "ko": "2019년 11월 감비아는 이슬람 협력 기구의 지지를 받아 로힝야 문제와 관련해 집단살해방지협약에 근거해 국제사법재판소에 미얀마를 제소했다. 아웅산 수치는 12월 헤이그 심리에서 직접 미얀마를 변호했다. 2020년 1월 재판소는 미얀마에 집단 학살 행위를 방지하도록 하는 잠정 조치를 명령했다.",
+    "zh": "2019年11月，冈比亚在伊斯兰合作组织支持下，依据《防止及惩治灭绝种族罪公约》就罗兴亚人问题向国际法院起诉缅甸。12月昂山素季亲自出席海牙庭审为缅甸辩护。2020年1月，法院下令采取临时措施，要求缅甸防止种族灭绝行为。",
+    "ja": "2019年11月、ガンビアはイスラム協力機構の支持を受け、ロヒンギャ問題についてジェノサイド条約に基づき国際司法裁判所にミャンマーを提訴した。アウンサンスーチーは12月のハーグでの審理で自らミャンマーを弁護した。2020年1月、裁判所はミャンマーにジェノサイド行為の防止を求める仮保全措置を命じた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q96788795",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Hpakant jade mine landslide",
+    "ko": "파칸트 옥 광산 산사태",
+    "zh": "帕敢玉石矿山滑坡",
+    "ja": "パカン翡翠鉱山の地滑り"
+   },
+   "description": {
+    "en": "On 2 July 2020 a huge mound of mining waste collapsed into a lake at a jade mine in Hpakant, Kachin State, burying informal miners in mud; more than 170 died. Hpakant produces most of the world's high-quality jadeite, in an industry long criticized for unsafe conditions and links to military and armed-group revenues. Deadly landslides there have recurred repeatedly, including in 2015.",
+    "ko": "2020년 7월 2일 카친주 파칸트의 옥 광산에서 거대한 폐석 더미가 호수로 무너져 비공식 광부들을 진흙 속에 묻었고, 170명 이상이 숨졌다. 파칸트는 세계 고품질 비취 대부분을 생산하는데, 이 산업은 열악한 안전 상황과 군·무장 단체의 수입원이라는 점에서 오랫동안 비판받아 왔다. 이곳에서는 2015년을 비롯해 치명적인 산사태가 거듭 일어났다.",
+    "zh": "2020年7月2日，克钦邦帕敢一处玉石矿的巨大废土堆坍塌入湖，将非正式矿工埋入泥中，170余人遇难。帕敢出产世界上大部分高品质翡翠，这一行业长期因安全条件恶劣及与军方和武装组织财源相关而受到批评。当地包括2015年在内多次发生致命滑坡。",
+    "ja": "2020年7月2日、カチン州パカンの翡翠鉱山で巨大なずり山が湖へ崩れ落ち、非正規の採掘者を泥に埋め、170人以上が死亡した。パカンは世界の高品質ヒスイの大半を産出するが、この産業は劣悪な安全環境や軍・武装勢力の資金源との関わりで長く批判されてきた。同地では2015年をはじめ、死者を出す地滑りが繰り返し起きている。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": "Q105180889",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Military coup ends democratic transition",
+    "ko": "군사 쿠데타로 민주적 이행 종식",
+    "zh": "军事政变终结民主转型",
+    "ja": "軍事クーデターで民主化移行が終焉"
+   },
+   "description": {
+    "en": "On 1 February 2021, the day the newly elected parliament was to convene, the armed forces under Senior General Min Aung Hlaing detained Aung San Suu Kyi, President Win Myint and other elected leaders. Citing unproven claims of fraud in the November 2020 election won by the NLD, the military declared a state of emergency and formed the State Administration Council. The coup ended a decade of partial democratic reform.",
+    "ko": "새로 선출된 의회가 소집될 예정이던 2021년 2월 1일, 민아웅흘라잉 총사령관 휘하의 군은 아웅산 수치, 윈민 대통령 등 선출된 지도자들을 구금했다. 군은 민주주의민족동맹이 승리한 2020년 11월 총선의 부정을 입증되지 않은 채 주장하며 비상사태를 선포하고 국가행정평의회를 구성했다. 이 쿠데타로 10년간의 부분적 민주 개혁이 끝났다.",
+    "zh": "2021年2月1日，即新当选议会召开之日，敏昂莱大将率领的军队拘押了昂山素季、温敏总统及其他民选领导人。军方以未经证实的所谓2020年11月大选（全国民主联盟获胜）存在舞弊为由，宣布进入紧急状态并成立国家管理委员会。这场政变终结了十年的部分民主改革。",
+    "ja": "新たに選出された議会が招集される予定だった2021年2月1日、ミン・アウン・フライン総司令官率いる国軍はアウンサンスーチー、ウィンミン大統領ら選出された指導者を拘束した。軍はNLDが勝利した2020年11月総選挙に不正があったと根拠なく主張して非常事態を宣言し、国家行政評議会を設置した。クーデターは十年にわたる部分的な民主化改革を終わらせた。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": "Q105367670",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Mass protests and the Civil Disobedience Movement",
+    "ko": "대규모 시위와 시민 불복종 운동",
+    "zh": "大规模抗议与公民不服从运动",
+    "ja": "大規模抗議と市民不服従運動"
+   },
+   "description": {
+    "en": "Millions of people joined street protests against the coup, using the three-finger salute and nightly pot-banging, while doctors, teachers, railway workers and civil servants walked out in the Civil Disobedience Movement. Security forces responded with live ammunition, killing hundreds of protesters in the following months. Elected lawmakers formed the National Unity Government in April 2021 to challenge the junta's legitimacy.",
+    "ko": "수백만 명이 세 손가락 경례와 밤마다 냄비 두드리기로 쿠데타 반대 거리 시위에 나섰고, 의사·교사·철도 노동자·공무원들은 시민 불복종 운동으로 일손을 놓았다. 보안군은 실탄으로 대응해 이후 몇 달 동안 수백 명의 시위대를 살해했다. 선출된 의원들은 2021년 4월 군정의 정당성에 맞서기 위해 국민통합정부를 구성했다.",
+    "zh": "数以百万计的民众走上街头反对政变，行三指礼、每晚敲锅抗议，医生、教师、铁路工人和公务员则以“公民不服从运动”集体罢工。安全部队以实弹回应，此后数月杀害了数百名抗议者。当选议员于2021年4月组建民族团结政府，挑战军政府的合法性。",
+    "ja": "数百万人が三本指の敬礼や毎夜の鍋たたきでクーデターに反対する街頭抗議に加わり、医師・教師・鉄道員・公務員は市民不服従運動で職場を放棄した。治安部隊は実弾で応じ、その後数か月で数百人の抗議者を殺害した。選出された議員たちは2021年4月、軍政の正統性に対抗するため国民統一政府を樹立した。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": "Q110613097",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Armed resistance and the Myanmar civil war",
+    "ko": "무장 저항과 미얀마 내전",
+    "zh": "武装抵抗与缅甸内战",
+    "ja": "武装抵抗とミャンマー内戦"
+   },
+   "description": {
+    "en": "As peaceful protest was crushed, many young people joined People's Defence Forces formed under the National Unity Government from May 2021, often trained by ethnic armed organizations such as the Kachin and Karen. The NUG declared a 'people's defensive war' in September 2021, and fighting spread to Burman-majority regions such as Sagaing and Magway. The military responded with airstrikes and the burning of villages, displacing hundreds of thousands.",
+    "ko": "평화적 시위가 진압되자 많은 젊은이가 2021년 5월부터 국민통합정부 산하에 결성된 시민방위군에 합류했으며, 이들은 흔히 카친·카렌 등 소수민족 무장 조직의 훈련을 받았다. 국민통합정부는 2021년 9월 '인민 방어 전쟁'을 선포했고, 전투는 사가잉과 마궤 같은 버마족 다수 지역으로 번졌다. 군은 공습과 마을 방화로 대응해 수십만 명이 피란했다.",
+    "zh": "和平抗议遭到镇压后，许多年轻人加入2021年5月起在民族团结政府领导下组建的人民防卫军，他们往往接受克钦、克伦等少数民族武装的训练。民族团结政府于2021年9月宣布发动“人民防卫战争”，战火蔓延到实皆、马圭等缅族聚居地区。军方以空袭和焚烧村庄作为回应，致使数十万人流离失所。",
+    "ja": "平和的な抗議が弾圧されると、多くの若者が2021年5月から国民統一政府のもとで結成された国民防衛隊に加わり、しばしばカチンやカレンなどの民族武装組織から訓練を受けた。国民統一政府は2021年9月に「人民防衛戦争」を宣言し、戦闘はザガインやマグウェーなどビルマ族の多い地域に広がった。軍は空爆と村の焼き討ちで応じ、数十万人が避難を強いられた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q117595454",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Airstrike on Pazigyi village",
+    "ko": "파지지 마을 공습",
+    "zh": "帕集基村空袭",
+    "ja": "パズィジー村空爆"
+   },
+   "description": {
+    "en": "On 11 April 2023 military aircraft bombed a crowd gathered for the opening of a local resistance administration office at Pazigyi village in Sagaing Region's Kanbalu Township. Well over a hundred people were killed, including many children, in one of the deadliest single attacks of the civil war. The strike drew condemnation from the United Nations and many governments.",
+    "ko": "2023년 4월 11일 군용기가 사가잉 지역 깐발루 군구 파지지 마을에서 지역 저항 세력 행정 사무소 개소식에 모인 군중을 폭격했다. 어린이 다수를 포함해 백 명을 훨씬 넘는 사람이 숨져, 내전 중 단일 공격으로는 가장 참혹한 사례 가운데 하나가 되었다. 이 공습은 유엔과 여러 정부의 규탄을 받았다.",
+    "zh": "2023年4月11日，军机轰炸了实皆省甘巴卢镇区帕集基村为当地抵抗力量行政办公室揭幕而聚集的人群。百余人遇难，其中包括许多儿童，这是内战中伤亡最惨重的单次袭击之一。此次空袭遭到联合国和许多国家政府的谴责。",
+    "ja": "2023年4月11日、軍用機がザガイン地方カンバル郡区パズィジー村で、地元抵抗勢力の行政事務所の開所式に集まった群衆を爆撃した。多くの子どもを含む百人を優に超える人々が死亡し、内戦中の単独の攻撃として最悪級となった。空爆は国連や多くの政府から非難された。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q118289190",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclone Mocha strikes Rakhine",
+    "ko": "사이클론 모카, 라카인 강타",
+    "zh": "热带气旋摩卡袭击若开",
+    "ja": "サイクロン・モカがラカインを直撃"
+   },
+   "description": {
+    "en": "On 14 May 2023 Cyclone Mocha, one of the strongest cyclones recorded in the Bay of Bengal, made landfall near Sittwe in Rakhine State. Its winds and storm surge destroyed homes, displacement camps and infrastructure, with Rohingya camp residents among the worst affected. Restrictions on humanitarian access by the military authorities hampered relief efforts.",
+    "ko": "2023년 5월 14일 벵골만에서 기록된 가장 강한 사이클론 가운데 하나인 모카가 라카인주 싯트웨 부근에 상륙했다. 강풍과 폭풍 해일이 주택, 난민 수용소, 기반 시설을 파괴했으며, 로힝야 수용소 주민들이 가장 큰 피해를 입었다. 군 당국의 인도적 접근 제한은 구호 활동을 어렵게 했다.",
+    "zh": "2023年5月14日，孟加拉湾有记录以来最强的气旋之一摩卡在若开邦实兑附近登陆。狂风和风暴潮摧毁了房屋、流离失所者营地和基础设施，罗兴亚营地居民受灾最为严重。军方当局对人道主义准入的限制阻碍了救援工作。",
+    "ja": "2023年5月14日、ベンガル湾で記録された最強級のサイクロン・モカがラカイン州シットウェ付近に上陸した。強風と高潮が家屋や避難民キャンプ、インフラを破壊し、ロヒンギャのキャンプの住民が最も深刻な被害を受けた。軍当局による人道支援の立ち入り制限が救援を妨げた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q123291016",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Operation 1027",
+    "ko": "1027 작전",
+    "zh": "1027行动",
+    "ja": "1027作戦"
+   },
+   "description": {
+    "en": "On 27 October 2023 the Three Brotherhood Alliance of the Myanmar National Democratic Alliance Army, the Ta'ang National Liberation Army and the Arakan Army launched a coordinated offensive in northern Shan State. Within weeks they seized hundreds of military posts, several towns and key border crossings with China. The offensive marked a turning point, revealing the military's weakness and encouraging resistance attacks elsewhere.",
+    "ko": "2023년 10월 27일 미얀마민족민주동맹군, 따앙민족해방군, 아라칸군으로 이루어진 '삼형제 동맹'이 샨주 북부에서 합동 공세를 개시했다. 몇 주 만에 이들은 수백 개의 군 초소와 여러 도시, 중국과의 주요 국경 통로를 장악했다. 이 공세는 군의 약점을 드러내고 다른 지역의 저항 공격을 고무한 전환점이 되었다.",
+    "zh": "2023年10月27日，由缅甸民族民主同盟军、德昂民族解放军和若开军组成的“三兄弟联盟”在掸邦北部发起联合攻势。数周之内，他们攻占了数百个军事据点、多座城镇以及通往中国的重要边境口岸。这次攻势成为转折点，暴露了军方的虚弱，并鼓舞了其他地区的抵抗行动。",
+    "ja": "2023年10月27日、ミャンマー民族民主同盟軍、タアン民族解放軍、アラカン軍から成る「三兄弟同盟」がシャン州北部で一斉攻勢を開始した。数週間で数百の軍拠点、複数の町、中国との主要な国境検問所を制圧した。この攻勢は軍の弱さを露呈させ、他地域での抵抗勢力の攻撃を勢いづける転換点となった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q124254474",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Laukkai and resistance advances",
+    "ko": "라우까이 함락과 저항 세력의 진격",
+    "zh": "老街失守与抵抗力量推进",
+    "ja": "ラウッカイ陥落と抵抗勢力の進撃"
+   },
+   "description": {
+    "en": "In January 2024 the Myanmar National Democratic Alliance Army captured Laukkai, capital of the Kokang region, where hundreds of government troops surrendered; China then brokered a ceasefire in northern Shan State. Facing manpower shortages, the military began enforcing a conscription law in February 2024. During the year resistance forces made further gains: the MNDAA took Lashio in August, and by December the Arakan Army controlled most of Rakhine State, including the military's Western Command headquarters at Ann.",
+    "ko": "2024년 1월 미얀마민족민주동맹군은 꼬깡 지역의 중심지 라우까이를 점령했고 수백 명의 정부군이 투항했으며, 이후 중국이 샨주 북부의 휴전을 중재했다. 병력 부족에 직면한 군은 2024년 2월 징병법 시행에 들어갔다. 이해 저항 세력은 더 진격해 미얀마민족민주동맹군이 8월 라시오를 점령했고, 12월에는 아라칸군이 안의 군 서부사령부를 포함해 라카인주 대부분을 장악했다.",
+    "zh": "2024年1月，缅甸民族民主同盟军攻占果敢地区首府老街，数百名政府军投降，随后中国斡旋促成掸邦北部停火。面对兵源短缺，军方于2024年2月开始实施征兵法。这一年抵抗力量继续推进：同盟军于8月攻占腊戌，至12月若开军已控制若开邦大部分地区，包括位于安镇的军方西部军区司令部。",
+    "ja": "2024年1月、ミャンマー民族民主同盟軍はコーカン地域の中心ラウッカイを攻略し、数百人の政府軍が投降した。その後、中国がシャン州北部の停戦を仲介した。兵力不足に直面した軍は2024年2月に徴兵法の施行を開始した。この年、抵抗勢力はさらに前進し、同盟軍は8月にラーショーを制圧、12月までにアラカン軍がアンの国軍西部軍管区司令部を含むラカイン州の大半を支配した。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q133574091",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "2025 Myanmar earthquake",
+    "ko": "2025년 미얀마 지진",
+    "zh": "2025年缅甸地震",
+    "ja": "2025年ミャンマー地震"
+   },
+   "description": {
+    "en": "On 28 March 2025 a magnitude 7.7 earthquake on the Sagaing Fault struck central Myanmar, with its epicentre near Mandalay and Sagaing. Thousands of people were killed, and buildings, monasteries, bridges and historic sites collapsed across Mandalay, Sagaing and Naypyidaw; the shaking also brought down a high-rise under construction in Bangkok. Relief efforts were complicated by the ongoing civil war.",
+    "ko": "2025년 3월 28일 사가잉 단층에서 규모 7.7의 지진이 미얀마 중부를 강타했으며, 진앙은 만달레이와 사가잉 부근이었다. 수천 명이 숨졌고 만달레이, 사가잉, 네피도 곳곳에서 건물, 사원, 다리, 유적이 무너졌으며, 진동은 방콕에서 건설 중이던 고층 건물까지 무너뜨렸다. 계속되는 내전으로 구호 활동은 어려움을 겪었다.",
+    "zh": "2025年3月28日，实皆断层发生7.7级地震，袭击缅甸中部，震中位于曼德勒和实皆附近。数千人遇难，曼德勒、实皆和内比都各地的建筑、寺院、桥梁和古迹倒塌；地震还震塌了曼谷一座在建的高楼。持续的内战使救援工作更加复杂。",
+    "ja": "2025年3月28日、ザガイン断層でマグニチュード7.7の地震が発生し、震源はマンダレーとザガインの近くであった。数千人が死亡し、マンダレー、ザガイン、ネピドーの各地で建物・僧院・橋・史跡が倒壊し、揺れはバンコクで建設中の高層ビルも崩壊させた。続く内戦が救援活動を困難にした。"
+   }
+  }
+ ]
+}

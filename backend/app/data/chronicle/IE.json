@@ -1,0 +1,2725 @@
+{
+ "iso": "IE",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -3800,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Mesolithic Ireland",
+    "ko": "중석기 시대 아일랜드",
+    "zh": "爱尔兰中石器时代",
+    "ja": "中石器時代のアイルランド"
+   },
+   "summary": {
+    "en": "The first known people reached Ireland around 8000 BC, after the last Ice Age. These hunter-gatherers lived by fishing, fowling and gathering along rivers, lakes and coasts, leaving camps such as Lough Boora in County Offaly. They used small flint tools and moved with the seasons.",
+    "ko": "마지막 빙하기가 끝난 뒤 기원전 8000년경 처음으로 사람들이 아일랜드에 들어왔다. 이 수렵채집민은 강·호수·해안에서 고기잡이와 새 사냥, 채집으로 살았으며 오펄리주의 러프 부라 같은 야영지 유적을 남겼다. 그들은 작은 부싯돌 도구를 쓰며 계절에 따라 이동했다.",
+    "zh": "末次冰期结束后，约公元前8000年，最早的人类来到爱尔兰。这些狩猎采集者沿河流、湖泊和海岸捕鱼、猎鸟和采集为生，留下了奥法利郡博拉湖等营地遗址。他们使用细小的燧石工具，并随季节迁徙。",
+    "ja": "最終氷期の後、紀元前8000年頃に最初の人々がアイルランドに到達した。狩猟採集民である彼らは川・湖・海岸で漁労や鳥猟、採集を営み、オファリー県のラフ・ブーラなどの野営地跡を残した。小型の燧石器を用い、季節ごとに移動して暮らした。"
+   }
+  },
+  {
+   "from": -3800,
+   "to": -2500,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Neolithic Ireland",
+    "ko": "신석기 시대 아일랜드",
+    "zh": "爱尔兰新石器时代",
+    "ja": "新石器時代のアイルランド"
+   },
+   "summary": {
+    "en": "Farming arrived around 3800 BC, bringing cattle, sheep, cereals and permanent houses. Neolithic communities laid out field systems such as the Céide Fields in Mayo and raised more than a thousand megalithic tombs, culminating in the passage tombs of Brú na Bóinne (Newgrange, Knowth, Dowth). These monuments are among the oldest and most sophisticated in Europe.",
+    "ko": "기원전 3800년경 농경이 전해지며 소·양·곡물과 정착 가옥이 등장했다. 신석기 공동체는 메이오주의 케이드 필즈 같은 경작지 구획을 만들고 천 기가 넘는 거석 무덤을 세웠으며, 그 정점이 뉴그레인지·노스·다우스로 이루어진 브루 나 보냐의 연도분이다. 이 기념물들은 유럽에서 가장 오래되고 정교한 유적에 속한다.",
+    "zh": "约公元前3800年，农业传入爱尔兰，带来了牛、羊、谷物和固定房屋。新石器时代的社群在梅奥郡开辟了塞德田野等田地系统，修建了一千多座巨石墓，其巅峰是博因河曲的纽格莱奇、诺斯和道斯通道墓。这些遗迹是欧洲最古老、最精巧的史前建筑之一。",
+    "ja": "紀元前3800年頃に農耕が伝わり、牛・羊・穀物と定住家屋がもたらされた。新石器時代の共同体はメイヨー県のケイド・フィールズのような耕地区画を築き、千基を超える巨石墓を造った。その頂点がブルー・ナ・ボーニャのニューグレンジ、ノウス、ダウスの羨道墳で、ヨーロッパ最古級かつ最も精緻な遺跡である。"
+   }
+  },
+  {
+   "from": -2500,
+   "to": -500,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bronze Age Ireland",
+    "ko": "청동기 시대 아일랜드",
+    "zh": "爱尔兰青铜时代",
+    "ja": "青銅器時代のアイルランド"
+   },
+   "summary": {
+    "en": "Metalworking arrived with Beaker-using groups around 2500 BC; copper was mined at Ross Island in Kerry and later on Mount Gabriel in Cork. Ireland became one of Europe's richest sources of gold ornaments, from early lunulae to the great hoards of the Late Bronze Age. Wedge tombs, stone circles and hilltop enclosures mark the landscape of the period.",
+    "ko": "기원전 2500년경 비커 토기를 쓰는 집단과 함께 금속 가공이 전해졌고, 케리주 로스섬과 이후 코크주 가브리엘산에서 구리가 채굴되었다. 아일랜드는 초기의 반달형 목걸이(루눌라)부터 후기 청동기의 대형 매장 보물에 이르기까지 유럽에서 가장 풍부한 금 장신구 산지가 되었다. 쐐기형 무덤과 환상열석, 언덕 위 울타리 유적이 이 시대의 풍경을 이룬다.",
+    "zh": "约公元前2500年，金属加工技术随使用宽口陶器的人群传入；克里郡的罗斯岛及后来科克郡的加布里埃尔山开采铜矿。从早期的新月形金项饰到青铜时代晚期的大型窖藏，爱尔兰成为欧洲金饰最丰富的产地之一。楔形墓、石圈和山顶围场构成了这一时期的景观。",
+    "ja": "紀元前2500年頃、ビーカー土器を用いる集団とともに金属加工が伝わり、ケリー県ロス島や後にコーク県ガブリエル山で銅が採掘された。初期の三日月形首飾り（ルヌラ）から後期青銅器時代の大埋蔵宝に至るまで、アイルランドはヨーロッパ屈指の金製装身具の産地となった。楔形墓、ストーンサークル、丘上の囲い地がこの時代の景観を形づくる。"
+   }
+  },
+  {
+   "from": -500,
+   "to": 400,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Iron Age Ireland",
+    "ko": "철기 시대 아일랜드",
+    "zh": "爱尔兰铁器时代",
+    "ja": "鉄器時代のアイルランド"
+   },
+   "summary": {
+    "en": "From around 500 BC iron technology spread, and La Tène-style art appeared on objects such as the Turoe Stone. Society was organised into small kingdoms (túatha) speaking an early form of Irish, with ceremonial royal sites such as Tara, Rathcroghan and Dún Ailinne. Ireland lay outside the Roman Empire but traded with Roman Britain.",
+    "ko": "기원전 500년경부터 철기 기술이 퍼졌고, 투로 스톤 같은 유물에 라텐 양식 미술이 나타났다. 사회는 초기 아일랜드어를 쓰는 작은 왕국(투어허)들로 나뉘었으며 타라·라스크로건·둔 알리네 같은 의례적 왕도가 있었다. 아일랜드는 로마 제국 밖에 있었으나 로마령 브리타니아와 교역했다.",
+    "zh": "约公元前500年起，铁器技术传播开来，图罗石等器物上出现了拉坦诺风格的艺术。社会由说早期爱尔兰语的众多小王国（图阿赫）构成，塔拉、拉斯克罗根和敦艾利内等是举行仪式的王家圣地。爱尔兰未被纳入罗马帝国，但与罗马治下的不列颠有贸易往来。",
+    "ja": "紀元前500年頃から鉄器技術が広まり、トゥーローの石などにラ・テーヌ様式の美術が現れた。社会は初期アイルランド語を話す小王国（トゥアハ）に分かれ、タラ、ラスクロハン、ドゥーン・アリーニャなどの儀礼的な王の聖地があった。アイルランドはローマ帝国の外にあったが、ローマ支配下のブリタニアと交易した。"
+   }
+  },
+  {
+   "from": 400,
+   "to": 795,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Christian Ireland",
+    "ko": "초기 기독교 시대 아일랜드",
+    "zh": "爱尔兰早期基督教时代",
+    "ja": "初期キリスト教時代のアイルランド"
+   },
+   "summary": {
+    "en": "Christianity arrived in the 5th century through missionaries such as Palladius and Patrick, and writing in Latin and Ogham spread. Great monasteries such as Clonmacnoise, Glendalough and Kildare became centres of learning, art and trade. Irish monks like Columba and Columbanus carried Christianity and scholarship to Britain and continental Europe.",
+    "ko": "5세기 팔라디우스와 패트릭 같은 선교사들을 통해 기독교가 전해졌고, 라틴어와 오검 문자 기록이 퍼졌다. 클론맥노이즈·글렌달로·킬데어 같은 대수도원은 학문·예술·교역의 중심지가 되었다. 콜룸바와 콜룸바누스 같은 아일랜드 수도사들은 브리튼과 유럽 대륙에 기독교와 학문을 전했다.",
+    "zh": "5世纪，基督教经帕拉狄乌斯和帕特里克等传教士传入，拉丁文和欧甘文字的书写随之普及。克朗麦克诺伊斯、格伦达洛和基尔代尔等大修道院成为学术、艺术和贸易中心。科伦巴和科伦班等爱尔兰修士把基督教和学问带到不列颠和欧洲大陆。",
+    "ja": "5世紀、パラディウスやパトリックら宣教師によってキリスト教が伝わり、ラテン語とオガム文字による記録が広まった。クロンマクノイズ、グレンダーロッホ、キルデアなどの大修道院は学問・芸術・交易の中心となった。コルンバやコルンバヌスらアイルランドの修道士は、ブリテンやヨーロッパ大陸にキリスト教と学問を伝えた。"
+   }
+  },
+  {
+   "from": 400,
+   "to": 1603,
+   "kind": "state",
+   "qid": "Q3327860",
+   "polity": null,
+   "name": {
+    "en": "Gaelic Ireland",
+    "ko": "게일 아일랜드",
+    "zh": "盖尔爱尔兰",
+    "ja": "ゲール人のアイルランド"
+   },
+   "summary": {
+    "en": "For over a thousand years Ireland was a patchwork of Gaelic kingdoms bound by Brehon law, hereditary learned classes and a shared Irish language and culture. Provincial kings of Ulster, Connacht, Leinster, Munster and Meath competed for the high kingship of Tara. Even after the Anglo-Norman invasion, Gaelic lordships held much of the island until the Tudor conquest ended the old order in the early 1600s.",
+    "ko": "천 년 넘게 아일랜드는 브레혼 법과 세습 학자 계층, 공통의 아일랜드어와 문화로 묶인 게일 왕국들의 연합체였다. 얼스터·코노트·렌스터·먼스터·미데의 지방 왕들은 타라의 상급왕 자리를 놓고 경쟁했다. 앵글로노르만 침공 이후에도 게일 영주들은 섬의 상당 부분을 지켰으나, 1600년대 초 튜더 왕조의 정복으로 옛 질서는 막을 내렸다.",
+    "zh": "一千多年间，爱尔兰由众多盖尔王国组成，它们共同遵循布雷亨法，拥有世袭的学者阶层以及共同的爱尔兰语和文化。阿尔斯特、康诺特、伦斯特、芒斯特和米斯的诸省国王争夺塔拉至高王之位。即使在盎格鲁-诺曼人入侵之后，盖尔领主仍控制着岛上大片地区，直到17世纪初都铎王朝的征服终结了旧秩序。",
+    "ja": "千年以上にわたり、アイルランドはブレホン法、世襲の学者階級、共通のアイルランド語と文化で結ばれたゲール系諸王国の集まりであった。アルスター、コナハト、レンスター、マンスター、ミースの地方王たちはタラの上王位を争った。アングロ・ノルマン侵攻後もゲール系領主は島の大部分を保ったが、17世紀初頭のテューダー朝による征服で旧秩序は終わった。"
+   }
+  },
+  {
+   "from": 500,
+   "to": 1172,
+   "kind": "state",
+   "qid": "Q2089487",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Meath (Mide)",
+    "ko": "미데 왕국",
+    "zh": "米斯王国",
+    "ja": "ミース王国"
+   },
+   "summary": {
+    "en": "Mide, the 'middle' kingdom around the royal hill of Tara, was ruled mainly by the Clann Cholmáin branch of the Southern Uí Néill. Its kings, such as Máel Sechnaill II, often held the high kingship of Ireland. The kingdom declined in the 11th–12th centuries and was granted to the Anglo-Norman Hugh de Lacy in 1172.",
+    "ko": "타라 왕도 언덕을 중심으로 한 '가운데' 왕국 미데는 주로 남부 위 닐 가문의 클란 콜만 계열이 다스렸다. 마엘 세흐나일 2세 같은 미데의 왕들은 종종 아일랜드 상급왕 자리를 차지했다. 왕국은 11~12세기에 쇠퇴했고 1172년 앵글로노르만인 휴 드 레이시에게 수여되었다.",
+    "zh": "米斯意为“中部”王国，以塔拉王山为中心，主要由南方乌伊·尼尔家族的科尔曼支系统治。其国王如马埃尔·塞赫奈尔二世常常身兼爱尔兰至高王。该王国在11至12世纪衰落，1172年被授予盎格鲁-诺曼贵族休·德莱西。",
+    "ja": "ミデは王の丘タラを中心とする「中央」の王国で、主に南ウィ・ネール家のクラン・コルマーン系が支配した。マエル・セフナル2世ら同国の王はしばしばアイルランド上王を兼ねた。王国は11〜12世紀に衰え、1172年にアングロ・ノルマン貴族ヒュー・ド・レイシーに与えられた。"
+   }
+  },
+  {
+   "from": 795,
+   "to": 1170,
+   "kind": "period",
+   "qid": null,
+   "polity": "Viking settlements",
+   "name": {
+    "en": "Viking Age Ireland",
+    "ko": "바이킹 시대 아일랜드",
+    "zh": "爱尔兰维京时代",
+    "ja": "ヴァイキング時代のアイルランド"
+   },
+   "summary": {
+    "en": "Norse raids began in 795, and Vikings soon founded fortified ports at Dublin, Wexford, Waterford, Cork and Limerick, Ireland's first towns. The Norse-Gaelic towns became trading hubs integrated into Irish politics, while Irish kings fought for supremacy. Brian Boru of Munster broke the old Uí Néill dominance and was killed at Clontarf in 1014.",
+    "ko": "795년 노르드인의 습격이 시작되었고, 바이킹은 곧 더블린·웩스퍼드·워터퍼드·코크·리머릭에 요새화된 항구를 세웠다. 이것이 아일랜드 최초의 도시들이다. 노르드-게일 도시들은 아일랜드 정치에 편입된 교역 중심지가 되었고, 아일랜드 왕들은 패권을 다투었다. 먼스터의 브라이언 보루는 위 닐 가문의 오랜 우위를 깨뜨렸으나 1014년 클론타프에서 전사했다.",
+    "zh": "795年北欧人开始袭扰，维京人随即在都柏林、韦克斯福德、沃特福德、科克和利默里克建立设防港口，成为爱尔兰最早的城镇。这些北欧-盖尔城镇发展为融入爱尔兰政治的贸易中心，而爱尔兰诸王则争夺霸权。芒斯特的布赖恩·博鲁打破了乌伊·尼尔家族的长期优势，并于1014年在克朗塔夫阵亡。",
+    "ja": "795年にノルド人の襲撃が始まり、ヴァイキングはまもなくダブリン、ウェックスフォード、ウォーターフォード、コーク、リムリックに要塞港を築いた。これがアイルランド最初の都市である。ノルド・ゲール系の都市はアイルランドの政治に組み込まれた交易拠点となり、諸王は覇権を争った。マンスターのブライアン・ボルはウィ・ネール家の長い優位を崩したが、1014年クロンターフで戦死した。"
+   }
+  },
+  {
+   "from": 1169,
+   "to": 1542,
+   "kind": "colonial",
+   "qid": "Q844250",
+   "polity": null,
+   "name": {
+    "en": "Lordship of Ireland",
+    "ko": "아일랜드 영주령",
+    "zh": "爱尔兰领地",
+    "ja": "アイルランド卿領"
+   },
+   "summary": {
+    "en": "After the Anglo-Norman invasion of 1169–71, the English king ruled Ireland as 'Lord of Ireland', initially as part of the Angevin dominions. Norman barons built castles, towns and manors across the east and south, but from the 14th century Gaelic lordships recovered ground and many settlers adopted Irish ways. By the late 1400s direct royal control had shrunk to the Pale around Dublin, while magnates such as the Earls of Kildare governed in the king's name.",
+    "ko": "1169~71년 앵글로노르만 침공 이후 잉글랜드 왕은 처음에는 앙주 왕가 영토의 일부로서 '아일랜드 영주'의 자격으로 아일랜드를 다스렸다. 노르만 귀족들은 동부와 남부에 성·도시·장원을 세웠으나, 14세기부터 게일 영주들이 세력을 회복했고 많은 정착민이 아일랜드 풍습을 받아들였다. 1400년대 말에는 왕의 직접 통치가 더블린 주변의 '페일'로 줄어들었고, 킬데어 백작 같은 대귀족이 왕의 이름으로 통치했다.",
+    "zh": "1169至1171年盎格鲁-诺曼人入侵后，英格兰国王以“爱尔兰领主”身份统治爱尔兰，最初是安茹王朝领地的一部分。诺曼贵族在东部和南部修建城堡、城镇和庄园，但自14世纪起盖尔领主收复失地，许多移民也接受了爱尔兰习俗。到15世纪末，王室直接控制的范围缩小到都柏林周边的“佩尔”地区，基尔代尔伯爵等大贵族以国王名义执政。",
+    "ja": "1169〜71年のアングロ・ノルマン侵攻後、イングランド王は当初アンジュー家の領土の一部として「アイルランド卿」の名でアイルランドを支配した。ノルマン貴族は東部と南部に城・町・荘園を築いたが、14世紀からゲール系領主が勢力を回復し、多くの入植者がアイルランドの慣習を取り入れた。1400年代末には王の直接支配はダブリン周辺の「ペイル」に縮小し、キルデア伯などの大貴族が王の名で統治した。"
+   }
+  },
+  {
+   "from": 1329,
+   "to": 1583,
+   "kind": "state",
+   "qid": null,
+   "polity": "Earldom of Desmond",
+   "name": {
+    "en": "Earldom of Desmond",
+    "ko": "데스먼드 백작령",
+    "zh": "德斯蒙德伯爵领",
+    "ja": "デズモンド伯爵領"
+   },
+   "summary": {
+    "en": "The FitzGerald Earls of Desmond, created in 1329, ruled a vast semi-independent lordship across Munster, largely Gaelicised in language and custom. Their rivalry with the Butler Earls of Ormond shaped southern Irish politics for two centuries. Two Desmond Rebellions against Elizabeth I ended in 1583 with the earl's death, the confiscation of his lands and the Plantation of Munster.",
+    "ko": "1329년에 창설된 피츠제럴드 가문의 데스먼드 백작들은 먼스터 전역에 걸친 광대한 반독립 영지를 다스렸으며, 언어와 관습에서 크게 게일화되었다. 오먼드 백작 버틀러 가문과의 경쟁은 두 세기 동안 남부 아일랜드 정치를 좌우했다. 엘리자베스 1세에 맞선 두 차례의 데스먼드 반란은 1583년 백작의 죽음과 영지 몰수, 먼스터 식민으로 끝났다.",
+    "zh": "菲茨杰拉德家族的德斯蒙德伯爵始封于1329年，统治着横跨芒斯特的广大半独立领地，其语言和习俗已高度盖尔化。他们与奥蒙德伯爵巴特勒家族的竞争主导了爱尔兰南部两个世纪的政局。两次反抗伊丽莎白一世的德斯蒙德叛乱于1583年以伯爵被杀、领地被没收和芒斯特殖民告终。",
+    "ja": "1329年に創設されたフィッツジェラルド家のデズモンド伯は、マンスター全域に広がる半独立の広大な領地を支配し、言語や慣習の面で大きくゲール化した。オーモンド伯バトラー家との対立は2世紀にわたり南部アイルランドの政治を左右した。エリザベス1世に対する2度のデズモンドの反乱は、1583年の伯の死と所領没収、マンスター植民で終わった。"
+   }
+  },
+  {
+   "from": 1542,
+   "to": 1800,
+   "kind": "state",
+   "qid": "Q215530",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Ireland",
+    "ko": "아일랜드 왕국",
+    "zh": "爱尔兰王国",
+    "ja": "アイルランド王国"
+   },
+   "summary": {
+    "en": "In 1541–42 Henry VIII was declared King of Ireland, and over the next century the Tudor and Stuart crowns conquered the whole island, ending Gaelic autonomy. Plantations, the Cromwellian and Williamite land confiscations and the Penal Laws placed power and most land in the hands of a Protestant Ascendancy, while the Catholic majority was excluded. The Irish Parliament gained legislative independence in 1782 but was abolished after the 1798 rebellion.",
+    "ko": "1541~42년 헨리 8세가 아일랜드 국왕으로 선포되었고, 이후 한 세기 동안 튜더·스튜어트 왕조가 섬 전체를 정복해 게일의 자치를 끝냈다. 식민 정책, 크롬웰과 윌리엄 시대의 토지 몰수, 형법(가톨릭 차별법)으로 권력과 토지 대부분은 프로테스탄트 지배층에게 넘어갔고 가톨릭 다수파는 배제되었다. 아일랜드 의회는 1782년 입법 독립을 얻었으나 1798년 반란 이후 폐지되었다.",
+    "zh": "1541至1542年，亨利八世被宣布为爱尔兰国王。此后一个世纪里，都铎和斯图亚特王室征服了全岛，终结了盖尔人的自治。殖民垦殖、克伦威尔和威廉时期的土地没收以及刑法典，使权力和大部分土地落入新教优势阶层手中，天主教多数派则被排斥在外。爱尔兰议会于1782年获得立法独立，但在1798年起义后被废除。",
+    "ja": "1541〜42年にヘンリー8世がアイルランド王と宣言され、その後1世紀の間にテューダー朝・ステュアート朝が島全体を征服してゲールの自治を終わらせた。植民、クロムウェル期とウィリアム期の土地没収、刑罰法によって権力と土地の大半はプロテスタント支配層に渡り、カトリックの多数派は排除された。アイルランド議会は1782年に立法上の独立を得たが、1798年の反乱後に廃止された。"
+   }
+  },
+  {
+   "from": 1642,
+   "to": 1652,
+   "kind": "state",
+   "qid": "Q1407718",
+   "polity": "Irish Catholic Confederation",
+   "name": {
+    "en": "Confederate Ireland",
+    "ko": "아일랜드 가톨릭 동맹",
+    "zh": "爱尔兰天主教联盟",
+    "ja": "アイルランド・カトリック同盟"
+   },
+   "summary": {
+    "en": "After the 1641 rising, Irish Catholic lords, clergy and gentry formed a self-governing Confederation based at Kilkenny, controlling most of the island. It fought Scottish Covenanter and English Parliamentarian forces while negotiating with Charles I. Divided between royalist and clerical factions, it collapsed under Cromwell's invasion.",
+    "ko": "1641년 봉기 이후 아일랜드 가톨릭 귀족·성직자·젠트리는 킬케니에 근거지를 둔 자치 동맹을 결성해 섬의 대부분을 장악했다. 동맹은 찰스 1세와 협상하면서 스코틀랜드 서약파와 잉글랜드 의회파 군대와 싸웠다. 왕당파와 성직자파로 분열된 동맹은 크롬웰의 침공으로 붕괴했다.",
+    "zh": "1641年起义后，爱尔兰天主教贵族、教士和乡绅以基尔肯尼为中心组成自治联盟，控制了岛上大部分地区。联盟一面与查理一世谈判，一面同苏格兰誓约派和英格兰议会派军队作战。因保王派与教士派分裂，联盟在克伦威尔入侵下瓦解。",
+    "ja": "1641年の蜂起後、アイルランドのカトリック貴族・聖職者・ジェントリはキルケニーを拠点とする自治の同盟を結成し、島の大半を支配した。同盟はチャールズ1世と交渉しつつ、スコットランドの盟約派やイングランド議会派の軍と戦った。王党派と聖職者派に分裂した同盟は、クロムウェルの侵攻により崩壊した。"
+   }
+  },
+  {
+   "from": 1649,
+   "to": 1660,
+   "kind": "colonial",
+   "qid": "Q330362",
+   "polity": "Commonwealth of England",
+   "name": {
+    "en": "Cromwellian Ireland",
+    "ko": "크롬웰 통치기 아일랜드",
+    "zh": "克伦威尔统治下的爱尔兰",
+    "ja": "クロムウェル統治下のアイルランド"
+   },
+   "summary": {
+    "en": "Between 1649 and 1653 Oliver Cromwell's New Model Army conquered Ireland for the English Commonwealth, with heavy loss of life from war, famine and plague. Under the Act of Settlement of 1652, Catholic landowners were dispossessed and many were transplanted to Connacht. The land transfer created the Protestant landed class that dominated Ireland for two centuries.",
+    "ko": "1649년부터 1653년까지 올리버 크롬웰의 신형군은 잉글랜드 공화국을 위해 아일랜드를 정복했으며, 전쟁·기근·역병으로 막대한 인명 피해가 났다. 1652년 정착법에 따라 가톨릭 지주들은 토지를 빼앗기고 다수가 코노트로 강제 이주되었다. 이 토지 이전은 이후 두 세기 동안 아일랜드를 지배한 프로테스탄트 지주 계급을 만들었다.",
+    "zh": "1649年至1653年，奥利弗·克伦威尔的新模范军为英格兰共和国征服了爱尔兰，战争、饥荒和瘟疫造成大量人员死亡。根据1652年的《定居法》，天主教地主被剥夺土地，许多人被强制迁往康诺特。这次土地转移造就了此后两个世纪主宰爱尔兰的新教地主阶层。",
+    "ja": "1649年から1653年にかけて、オリバー・クロムウェルのニューモデル軍はイングランド共和国のためにアイルランドを征服し、戦争・飢饉・疫病で多くの命が失われた。1652年の植民法によりカトリック地主は土地を奪われ、多くがコナハトへ強制移住させられた。この土地移転が、その後2世紀にわたりアイルランドを支配したプロテスタント地主層を生んだ。"
+   }
+  },
+  {
+   "from": 1801,
+   "to": 1921,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Ireland in the United Kingdom",
+    "ko": "연합왕국 속의 아일랜드",
+    "zh": "联合王国治下的爱尔兰",
+    "ja": "連合王国下のアイルランド"
+   },
+   "summary": {
+    "en": "From 1801 Ireland was part of the United Kingdom of Great Britain and Ireland, governed from Westminster and Dublin Castle. The century saw Catholic Emancipation, the catastrophic Great Famine of 1845–49 and mass emigration, the Land War and the rise of the Home Rule movement. Cultural revival and growing nationalism culminated in the revolutionary struggle of 1916–21.",
+    "ko": "1801년부터 아일랜드는 그레이트브리튼 아일랜드 연합왕국의 일부로서 웨스트민스터와 더블린 성의 통치를 받았다. 이 세기에는 가톨릭 해방, 1845~49년의 참혹한 대기근과 대규모 이민, 토지 전쟁, 자치(홈룰) 운동의 부상이 이어졌다. 문화 부흥과 고조된 민족주의는 1916~21년의 혁명 투쟁으로 이어졌다.",
+    "zh": "自1801年起，爱尔兰成为大不列颠及爱尔兰联合王国的一部分，由威斯敏斯特和都柏林城堡管辖。这一世纪经历了天主教解放、1845至1849年的惨烈大饥荒与大规模移民、土地战争以及地方自治运动的兴起。文化复兴与日益高涨的民族主义最终汇成1916至1921年的革命斗争。",
+    "ja": "1801年からアイルランドはグレートブリテン及びアイルランド連合王国の一部となり、ウェストミンスターとダブリン城によって統治された。この世紀にはカトリック解放、1845〜49年の大飢饉と大量移民、土地戦争、自治（ホームルール）運動の台頭があった。文化復興と高まる民族主義は、1916〜21年の革命闘争へと結実した。"
+   }
+  },
+  {
+   "from": 1912,
+   "to": 1923,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Irish Revolutionary Period",
+    "ko": "아일랜드 혁명기",
+    "zh": "爱尔兰革命时期",
+    "ja": "アイルランド革命期"
+   },
+   "summary": {
+    "en": "The Home Rule crisis, the 1913 Lockout and the First World War radicalised Irish politics. The 1916 Easter Rising, Sinn Féin's 1918 election victory and the War of Independence (1919–21) led to the Anglo-Irish Treaty. Partition and the Treaty's terms then split nationalists, leading to the Civil War of 1922–23.",
+    "ko": "자치법 위기, 1913년 직장 폐쇄, 제1차 세계대전은 아일랜드 정치를 급진화했다. 1916년 부활절 봉기, 1918년 신페인의 선거 압승, 독립전쟁(1919~21)을 거쳐 영국-아일랜드 조약이 체결되었다. 이후 분단과 조약의 조건을 둘러싸고 민족주의 진영이 분열하여 1922~23년 내전이 일어났다.",
+    "zh": "地方自治危机、1913年大罢工与第一次世界大战使爱尔兰政治走向激进。1916年复活节起义、1918年新芬党大选胜利以及独立战争（1919—1921年）最终促成了《英爱条约》。随后，围绕分治和条约条款，民族主义阵营分裂，爆发了1922至1923年的内战。",
+    "ja": "自治法危機、1913年のロックアウト、第一次世界大戦はアイルランド政治を急進化させた。1916年のイースター蜂起、1918年のシン・フェイン党の選挙圧勝、独立戦争（1919〜21年）を経て英愛条約が結ばれた。その後、分割と条約の内容をめぐって民族主義陣営が分裂し、1922〜23年の内戦に至った。"
+   }
+  },
+  {
+   "from": 1922,
+   "to": 1937,
+   "kind": "state",
+   "qid": "Q31747",
+   "polity": "Irish Free State",
+   "name": {
+    "en": "Irish Free State",
+    "ko": "아일랜드 자유국",
+    "zh": "爱尔兰自由邦",
+    "ja": "アイルランド自由国"
+   },
+   "summary": {
+    "en": "The Irish Free State was established on 6 December 1922 as a self-governing dominion of the British Commonwealth covering 26 of Ireland's 32 counties. Under W. T. Cosgrave and then Éamon de Valera, it built new state institutions, the Garda Síochána and the Shannon hydroelectric scheme, and steadily loosened ties with Britain. It was replaced by the state of Ireland (Éire) under the 1937 Constitution.",
+    "ko": "아일랜드 자유국은 1922년 12월 6일 아일랜드 32개 주 가운데 26개 주를 영역으로 하는 영연방 자치령으로 수립되었다. W. T. 코즈그레이브와 이어 에이먼 데 벌레라 정부 아래에서 새 국가 기관, 경찰(가르다 시오커나), 섀넌 수력발전 사업을 세우고 영국과의 관계를 점차 느슨하게 했다. 1937년 헌법으로 아일랜드(에이레)라는 국가로 대체되었다.",
+    "zh": "爱尔兰自由邦于1922年12月6日成立，是英联邦的自治领，管辖爱尔兰32个郡中的26个。在科斯格雷夫和随后的德瓦莱拉领导下，它建立了新的国家机构、国家警察（加尔达）和香农水电工程，并逐步松动与英国的联系。1937年宪法颁布后，它由爱尔兰国（Éire）取代。",
+    "ja": "アイルランド自由国は1922年12月6日、アイルランド32県のうち26県を領域とする英連邦の自治領として成立した。W・T・コスグレイブ、続いてエイモン・デ・ヴァレラの下で新たな国家機関、警察（ガルダ）、シャノン水力発電計画を整え、英国との結びつきを段階的に弱めた。1937年憲法によりアイルランド（エール）に取って代わられた。"
+   }
+  },
+  {
+   "from": 1937,
+   "to": 2026,
+   "kind": "state",
+   "qid": null,
+   "polity": "Éire",
+   "name": {
+    "en": "Ireland (Éire)",
+    "ko": "아일랜드 (에이레)",
+    "zh": "爱尔兰（Éire）",
+    "ja": "アイルランド（エール）"
+   },
+   "summary": {
+    "en": "The 1937 Constitution created the sovereign state of Ireland (Éire), which stayed neutral in the Second World War and declared itself a republic in 1949. After decades of protectionism and emigration, it opened its economy, joined the European Communities in 1973 and became a high-income, export-led economy. Since the 1990s a series of referendums has transformed Irish society, while the 1998 Good Friday Agreement reshaped relations with Northern Ireland and Britain.",
+    "ko": "1937년 헌법으로 주권 국가 아일랜드(에이레)가 탄생했으며, 이 나라는 제2차 세계대전에서 중립을 지키고 1949년 공화국을 선언했다. 수십 년간의 보호무역과 이민 유출 끝에 경제를 개방하고 1973년 유럽 공동체에 가입하여 수출 주도형 고소득 국가가 되었다. 1990년대 이후 일련의 국민투표가 아일랜드 사회를 바꾸었고, 1998년 성금요일 협정은 북아일랜드 및 영국과의 관계를 새로 짰다.",
+    "zh": "1937年宪法创建了主权国家爱尔兰（Éire）。它在第二次世界大战中保持中立，并于1949年宣布成为共和国。经过数十年的贸易保护和人口外流，爱尔兰开放经济，于1973年加入欧洲共同体，成为以出口为导向的高收入经济体。1990年代以来，一系列公投改变了爱尔兰社会，1998年的《耶稣受难日协议》则重塑了它与北爱尔兰和英国的关系。",
+    "ja": "1937年憲法により主権国家アイルランド（エール）が誕生した。同国は第二次世界大戦で中立を保ち、1949年に共和国を宣言した。数十年にわたる保護主義と移民流出の後、経済を開放して1973年に欧州共同体に加盟し、輸出主導の高所得国となった。1990年代以降の一連の国民投票はアイルランド社会を大きく変え、1998年のベルファスト合意は北アイルランドおよび英国との関係を作り直した。"
+   }
+  },
+  {
+   "from": 1994,
+   "to": 2007,
+   "kind": "period",
+   "qid": "Q855736",
+   "polity": null,
+   "name": {
+    "en": "Celtic Tiger",
+    "ko": "켈틱 타이거",
+    "zh": "凯尔特之虎",
+    "ja": "ケルトの虎"
+   },
+   "summary": {
+    "en": "From the mid-1990s Ireland experienced exceptionally rapid growth driven by foreign direct investment, low corporate tax, EU membership and a young educated workforce. Emigration reversed into immigration and living standards rose to among the highest in Europe. In its later years growth became dependent on a property and credit bubble that collapsed in 2008.",
+    "ko": "1990년대 중반부터 아일랜드는 외국인 직접투자, 낮은 법인세, 유럽연합 회원국 지위, 젊고 교육 수준 높은 노동력에 힘입어 유례없는 고속 성장을 이루었다. 이민 유출은 이민 유입으로 바뀌었고 생활 수준은 유럽 최고 수준으로 올랐다. 그러나 후반기의 성장은 부동산·신용 거품에 의존했고 이 거품은 2008년에 붕괴했다.",
+    "zh": "自1990年代中期起，在外国直接投资、低公司税率、欧盟成员身份和年轻高素质劳动力的推动下，爱尔兰经历了异常迅猛的增长。人口外流转为移民流入，生活水平跃居欧洲前列。但后期的增长依赖于房地产和信贷泡沫，该泡沫于2008年破裂。",
+    "ja": "1990年代半ばから、アイルランドは海外直接投資、低い法人税、EU加盟、若く教育水準の高い労働力に支えられ、異例の高成長を遂げた。人口流出は移民流入に転じ、生活水準はヨーロッパ最高水準となった。しかし後半の成長は不動産・信用バブルに依存しており、それは2008年に崩壊した。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3500,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Céide Fields laid out",
+    "ko": "케이드 필즈 경작지 조성",
+    "zh": "塞德田野田地系统形成",
+    "ja": "ケイド・フィールズの造成"
+   },
+   "description": {
+    "en": "Around 3500 BC Neolithic farmers in north Mayo divided the land with long stone walls into fields for cattle grazing. Later buried beneath blanket bog, the Céide Fields are among the oldest known enclosed field systems in the world.",
+    "ko": "기원전 3500년경 메이오주 북부의 신석기 농민들은 긴 돌담으로 땅을 나누어 소를 방목하는 경작지를 만들었다. 훗날 담요 이탄층 아래에 묻힌 케이드 필즈는 세계에서 가장 오래된 울타리 경작지 체계 가운데 하나로 알려져 있다.",
+    "zh": "约公元前3500年，梅奥郡北部的新石器时代农民用长长的石墙划分土地，形成放牧牛群的田块。这些田地后来被覆盖性泥炭沼掩埋，塞德田野是世界上已知最古老的围合田地系统之一。",
+    "ja": "紀元前3500年頃、メイヨー県北部の新石器時代の農民は長い石垣で土地を区切り、牛を放牧する耕地とした。後にブランケット泥炭に埋もれたケイド・フィールズは、世界最古級の囲い込み耕地として知られる。"
+   }
+  },
+  {
+   "year": -3200,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Newgrange passage tomb built",
+    "ko": "뉴그레인지 연도분 건설",
+    "zh": "纽格莱奇通道墓建成",
+    "ja": "ニューグレンジ羨道墳の築造"
+   },
+   "description": {
+    "en": "Around 3200 BC Neolithic farmers built the great passage tomb of Newgrange in the Boyne Valley; at the winter solstice the rising sun shines through a 'roof-box' into its inner chamber. Together with Knowth and Dowth it forms Brú na Bóinne, a UNESCO World Heritage Site older than Stonehenge's great stones and the Giza pyramids.",
+    "ko": "기원전 3200년경 신석기 농경민이 보인 계곡에 대형 연도분 뉴그레인지를 세웠다. 동짓날 아침 해가 입구 위의 '지붕 창'을 통해 내부 묘실까지 비춘다. 노스·다우스와 함께 브루 나 보냐 유적군을 이루며, 스톤헨지의 거석이나 기자 피라미드보다 오래된 유네스코 세계유산이다.",
+    "zh": "约公元前3200年，新石器时代农民在博因河谷修建了宏伟的纽格莱奇通道墓；冬至日出时，阳光会穿过入口上方的“顶窗”照进内室。它与诺斯、道斯共同组成博因河曲遗址群，比巨石阵的大石和吉萨金字塔更古老，现为联合国教科文组织世界遗产。",
+    "ja": "紀元前3200年頃、新石器時代の農民がボイン渓谷に大型羨道墳ニューグレンジを築いた。冬至の朝日は入口上部の「ルーフボックス」から奥の玄室まで差し込む。ノウス、ダウスとともにブルー・ナ・ボーニャを構成し、ストーンヘンジの巨石やギザのピラミッドより古いユネスコ世界遺産である。"
+   }
+  },
+  {
+   "year": -2400,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Copper mining at Ross Island",
+    "ko": "로스섬의 구리 채굴",
+    "zh": "罗斯岛铜矿开采",
+    "ja": "ロス島での銅採掘"
+   },
+   "description": {
+    "en": "From about 2400 BC copper ore was mined and smelted at Ross Island on the Lakes of Killarney, the earliest known copper mine in Ireland and Britain. Metalworkers associated with Beaker pottery made axes and daggers, opening the Irish Bronze Age.",
+    "ko": "기원전 2400년경부터 킬라니 호수의 로스섬에서 구리 광석을 캐내 제련했는데, 이는 아일랜드와 브리튼에서 알려진 가장 오래된 구리 광산이다. 비커 토기와 관련된 금속 장인들이 도끼와 단검을 만들며 아일랜드 청동기 시대가 열렸다.",
+    "zh": "约公元前2400年起，人们在基拉尼湖的罗斯岛开采并冶炼铜矿，这是爱尔兰和不列颠已知最早的铜矿。与宽口陶器文化相关的金属工匠制造斧头和匕首，开启了爱尔兰青铜时代。",
+    "ja": "紀元前2400年頃から、キラーニー湖のロス島で銅鉱石が採掘・製錬された。これはアイルランドとブリテンで知られる最古の銅山である。ビーカー土器に関連する金属工人が斧や短剣を作り、アイルランドの青銅器時代が始まった。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Late Bronze Age gold hoards",
+    "ko": "후기 청동기의 금 매장 보물",
+    "zh": "青铜时代晚期的黄金窖藏",
+    "ja": "後期青銅器時代の金の埋蔵宝"
+   },
+   "description": {
+    "en": "Around 800 BC Irish goldsmiths were producing gorgets, dress-fasteners and bracelets in great quantity. The Mooghaun hoard in County Clare, deposited around this time, is one of the largest finds of prehistoric gold in western Europe and shows the wealth of Late Bronze Age Ireland.",
+    "ko": "기원전 800년경 아일랜드 금세공인들은 목가리개(고짓), 옷 여밈 장식, 팔찌를 대량으로 만들었다. 이 무렵 묻힌 클레어주의 무간 보물은 서유럽 최대 규모의 선사 시대 금 유물 가운데 하나로, 후기 청동기 아일랜드의 부를 보여 준다.",
+    "zh": "约公元前800年，爱尔兰金匠大量制作项圈、衣扣和手镯。约在此时埋藏的克莱尔郡穆冈窖藏是西欧已知规模最大的史前黄金发现之一，展现了青铜时代晚期爱尔兰的富庶。",
+    "ja": "紀元前800年頃、アイルランドの金細工師は胸飾り（ゴーゲット）、衣服留め、腕輪を大量に作っていた。この頃埋められたクレア県のムーガーン埋蔵宝は西ヨーロッパ最大級の先史時代の金の発見の一つで、後期青銅器時代のアイルランドの豊かさを物語る。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Iron Age begins in Ireland",
+    "ko": "아일랜드 철기 시대 시작",
+    "zh": "爱尔兰进入铁器时代",
+    "ja": "アイルランドの鉄器時代の始まり"
+   },
+   "description": {
+    "en": "From around 500 BC iron gradually replaced bronze for tools and weapons in Ireland. Over the following centuries La Tène art appeared on objects such as the Broighter-style metalwork and the carved Turoe Stone, and royal ceremonial centres such as Tara and Dún Ailinne flourished.",
+    "ko": "기원전 500년경부터 아일랜드에서는 도구와 무기에서 철이 점차 청동을 대체했다. 이후 수 세기 동안 금속 공예품과 투로 스톤 같은 조각에 라텐 양식 미술이 나타났고, 타라와 둔 알리네 같은 왕실 의례 중심지가 번성했다.",
+    "zh": "约公元前500年起，爱尔兰的工具和武器中铁逐渐取代青铜。此后数百年间，拉坦诺艺术出现在金属器物和雕刻的图罗石等物品上，塔拉、敦艾利内等王家仪式中心兴盛起来。",
+    "ja": "紀元前500年頃から、アイルランドでは道具や武器で鉄が次第に青銅に取って代わった。その後の数世紀、金属工芸品や彫刻されたトゥーローの石などにラ・テーヌ美術が現れ、タラやドゥーン・アリーニャのような王の儀礼の中心地が栄えた。"
+   }
+  },
+  {
+   "year": -148,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Corlea Trackway built",
+    "ko": "코얼리 목도 건설",
+    "zh": "科尔莱亚木道修建",
+    "ja": "コーリア木道の建設"
+   },
+   "description": {
+    "en": "Tree-ring dating shows that the oak timbers of the Corlea Trackway in County Longford were felled in 148 BC. The wide plank road crossed a bog for about a kilometre and is one of the largest Iron Age structures of its kind found in Europe.",
+    "ko": "나이테 연대 측정에 따르면 롱퍼드주 코얼리 목도의 참나무 목재는 기원전 148년에 벌채되었다. 늪지를 약 1킬로미터 가로지르는 넓은 판자길로, 유럽에서 발견된 같은 종류의 철기 시대 구조물 가운데 가장 큰 것 중 하나다.",
+    "zh": "树轮年代测定表明，朗福德郡科尔莱亚木道所用的橡木伐于公元前148年。这条宽阔的木板路横跨沼泽约一公里，是欧洲已发现的同类铁器时代建筑中规模最大者之一。",
+    "ja": "年輪年代測定によれば、ロングフォード県コーリア木道のオーク材は紀元前148年に伐採された。湿原を約1キロにわたって横切る幅広い板の道で、ヨーロッパで見つかった同種の鉄器時代の構造物として最大級である。"
+   }
+  },
+  {
+   "year": 82,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Rome eyes Ireland",
+    "ko": "로마가 아일랜드를 넘보다",
+    "zh": "罗马觊觎爱尔兰",
+    "ja": "ローマ、アイルランドをうかがう"
+   },
+   "description": {
+    "en": "According to the historian Tacitus, around AD 82 the Roman governor of Britain, Agricola, believed Ireland could be conquered and held with a single legion. No invasion took place, and Ireland remained outside the Roman Empire, though Roman goods reached it through trade.",
+    "ko": "역사가 타키투스에 따르면 서기 82년경 브리타니아 총독 아그리콜라는 군단 하나로 아일랜드를 정복하고 유지할 수 있다고 여겼다. 그러나 침공은 일어나지 않았고 아일랜드는 로마 제국 밖에 남았으며, 로마 물품은 교역을 통해 들어왔다.",
+    "zh": "据史学家塔西佗记载，约公元82年，罗马不列颠总督阿古利可拉认为只需一个军团就能征服并控制爱尔兰。但入侵并未发生，爱尔兰始终在罗马帝国之外，罗马商品则通过贸易传入。",
+    "ja": "歴史家タキトゥスによれば、紀元82年頃、ブリタニア総督アグリコラは1個軍団でアイルランドを征服・維持できると考えた。しかし侵攻は行われず、アイルランドはローマ帝国の外にとどまり、ローマの品々は交易によってもたらされた。"
+   }
+  },
+  {
+   "year": 400,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ogham inscriptions",
+    "ko": "오검 문자 비문",
+    "zh": "欧甘铭文",
+    "ja": "オガム碑文"
+   },
+   "description": {
+    "en": "From around the 4th and 5th centuries the Irish carved memorial stones in Ogham, an alphabet of notches and strokes along a stone's edge recording names in Primitive Irish. Most of the several hundred surviving stones are in the south-west, in Kerry, Cork and Waterford, and they are the earliest written form of the Irish language.",
+    "ko": "4~5세기경부터 아일랜드인은 돌 모서리를 따라 새긴 홈과 획으로 이루어진 오검 문자로 원시 아일랜드어 이름을 기록한 기념비를 세웠다. 남아 있는 수백 개의 비석 대부분은 케리·코크·워터퍼드 등 남서부에 있으며, 아일랜드어의 가장 오래된 기록이다.",
+    "zh": "约4至5世纪起，爱尔兰人用欧甘字母在石碑上刻字纪念逝者，这种字母由沿石棱刻出的凹槽和笔画组成，记录原始爱尔兰语的人名。现存数百块石碑大多位于西南部的克里、科克和沃特福德，是爱尔兰语最早的书面形式。",
+    "ja": "4〜5世紀頃から、アイルランドの人々は石の稜に沿って刻んだ刻み目と線からなるオガム文字で、原始アイルランド語の人名を記した記念碑を建てた。現存する数百基の大半はケリー、コーク、ウォーターフォードなど南西部にあり、アイルランド語の最古の文字記録である。"
+   }
+  },
+  {
+   "year": 431,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Palladius sent as first bishop",
+    "ko": "팔라디우스, 첫 주교로 파견",
+    "zh": "帕拉狄乌斯受派为首任主教",
+    "ja": "パラディウス、最初の司教として派遣"
+   },
+   "description": {
+    "en": "The chronicler Prosper of Aquitaine records that in 431 Pope Celestine I sent Palladius as the first bishop 'to the Irish believing in Christ'. This shows that Christian communities already existed in Ireland before Patrick's better-known mission.",
+    "ko": "연대기 작가 아키텐의 프로스페르는 431년 교황 첼레스티노 1세가 팔라디우스를 '그리스도를 믿는 아일랜드인들에게' 첫 주교로 보냈다고 기록했다. 이는 더 잘 알려진 패트릭의 선교 이전에 이미 아일랜드에 기독교 공동체가 있었음을 보여 준다.",
+    "zh": "编年史家阿基坦的普罗斯珀记载，431年教宗塞莱斯廷一世派遣帕拉狄乌斯作为首任主教，前往“信奉基督的爱尔兰人”中间。这表明在更为人熟知的帕特里克传教之前，爱尔兰已存在基督徒群体。",
+    "ja": "年代記作者アキテーヌのプロスペルは、431年に教皇ケレスティヌス1世がパラディウスを「キリストを信じるアイルランド人」への最初の司教として派遣したと記している。これは、よく知られるパトリックの布教以前にアイルランドに既にキリスト教共同体があったことを示す。"
+   }
+  },
+  {
+   "year": 432,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Saint Patrick's mission",
+    "ko": "성 패트릭의 선교",
+    "zh": "圣帕特里克的传教",
+    "ja": "聖パトリックの布教"
+   },
+   "description": {
+    "en": "According to tradition, Saint Patrick, a Briton once enslaved in Ireland, returned as a missionary bishop in 432; modern historians place his work loosely in the 5th century. His mission spread Christianity across the island, and he became Ireland's patron saint, with the new faith reshaping Irish society, learning and art.",
+    "ko": "전승에 따르면 한때 아일랜드에서 노예 생활을 했던 브리튼인 성 패트릭은 432년 선교 주교로 돌아왔다. 현대 역사가들은 그의 활동을 대략 5세기로 본다. 그의 선교로 기독교가 섬 전역에 퍼졌으며, 그는 아일랜드의 수호성인이 되었고 새 신앙은 아일랜드의 사회·학문·예술을 바꾸어 놓았다.",
+    "zh": "据传统说法，曾在爱尔兰为奴的不列颠人圣帕特里克于432年作为传教主教重返爱尔兰；现代史学家则将其活动大致定在5世纪。他的传教使基督教传遍全岛，他也成为爱尔兰的主保圣人，新信仰重塑了爱尔兰的社会、学术和艺术。",
+    "ja": "伝承によれば、かつてアイルランドで奴隷だったブリトン人の聖パトリックは432年に宣教司教として戻った。現代の歴史家は彼の活動をおおよそ5世紀に位置づける。彼の布教によってキリスト教は島全体に広まり、彼はアイルランドの守護聖人となり、新たな信仰は社会・学問・芸術を大きく変えた。"
+   }
+  },
+  {
+   "year": 544,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Clonmacnoise founded",
+    "ko": "클론맥노이즈 수도원 창건",
+    "zh": "克朗麦克诺伊斯修道院创建",
+    "ja": "クロンマクノイズ修道院の創建"
+   },
+   "description": {
+    "en": "Around 544, by tradition, Saint Ciarán founded a monastery at Clonmacnoise on the River Shannon. It grew into one of the greatest centres of learning, craftsmanship and trade in early medieval Ireland, and its high crosses and round tower still stand.",
+    "ko": "전승에 따르면 544년경 성 키아란이 섀넌강 가의 클론맥노이즈에 수도원을 세웠다. 이곳은 중세 초 아일랜드에서 가장 큰 학문·공예·교역 중심지 가운데 하나로 성장했으며, 그 높은 십자가들과 원탑은 지금도 남아 있다.",
+    "zh": "据传统说法，约544年圣基兰在香农河畔的克朗麦克诺伊斯创建修道院。它发展为中世纪早期爱尔兰最重要的学术、工艺和贸易中心之一，院内的高十字架和圆塔至今犹存。",
+    "ja": "伝承によれば、544年頃に聖キアランがシャノン川沿いのクロンマクノイズに修道院を創建した。ここは中世初期アイルランド有数の学問・工芸・交易の中心地へと成長し、そのハイクロスや円塔は今も残っている。"
+   }
+  },
+  {
+   "year": 563,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Columba sails to Iona",
+    "ko": "콜룸바, 아이오나로 떠나다",
+    "zh": "科伦巴航向艾奥纳岛",
+    "ja": "コルンバ、アイオナへ渡る"
+   },
+   "description": {
+    "en": "Colum Cille (Columba), a monk of the northern Uí Néill dynasty from Donegal, left Ireland in 563 and founded the monastery of Iona off western Scotland. Iona became the hub of a monastic network that converted the Picts and Northumbrians and spread Irish learning in Britain.",
+    "ko": "도니골 출신으로 북부 위 닐 왕가에 속한 수도사 콜름 킬레(콜룸바)는 563년 아일랜드를 떠나 스코틀랜드 서쪽의 아이오나섬에 수도원을 세웠다. 아이오나는 픽트인과 노섬브리아인을 개종시키고 브리튼에 아일랜드 학문을 전한 수도원 네트워크의 중심이 되었다.",
+    "zh": "出身于多尼戈尔北方乌伊·尼尔王族的修士科伦·基尔（科伦巴）于563年离开爱尔兰，在苏格兰西部外海的艾奥纳岛创建修道院。艾奥纳成为修道院网络的中心，使皮克特人和诺森布里亚人皈依基督教，并在不列颠传播爱尔兰学问。",
+    "ja": "ドニゴール出身で北ウィ・ネール王家に属する修道士コルム・キレ（コルンバ）は563年にアイルランドを離れ、スコットランド西方のアイオナ島に修道院を建てた。アイオナはピクト人やノーサンブリア人を改宗させ、ブリテンにアイルランドの学問を広めた修道院網の中心となった。"
+   }
+  },
+  {
+   "year": 590,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Columbanus goes to the Continent",
+    "ko": "콜룸바누스의 대륙 선교",
+    "zh": "科伦班前往欧洲大陆",
+    "ja": "コルンバヌスの大陸布教"
+   },
+   "description": {
+    "en": "Around 590 the monk Columbanus left Bangor with companions for Gaul, where he founded Luxeuil and later Bobbio in Italy. His mission began a wave of Irish peregrini whose monasteries and scholarship influenced Frankish and Italian Christianity.",
+    "ko": "590년경 수도사 콜룸바누스는 동료들과 함께 뱅거를 떠나 갈리아로 가서 뤽쇠유 수도원을, 뒤에는 이탈리아의 보비오 수도원을 세웠다. 그의 선교는 아일랜드 순례 수도사들의 물결을 일으켰고, 그들의 수도원과 학문은 프랑크와 이탈리아 기독교에 영향을 주었다.",
+    "zh": "约590年，修士科伦班与同伴离开班戈前往高卢，创建吕克瑟伊修道院，后又在意大利创建博比奥修道院。他的传教开启了一波爱尔兰“漂泊修士”的浪潮，他们的修道院和学问影响了法兰克和意大利的基督教。",
+    "ja": "590年頃、修道士コルンバヌスは仲間とともにバンガーを発ってガリアへ渡り、リュクスイユ修道院、後にイタリアのボッビオ修道院を建てた。彼の布教はアイルランドの遍歴修道士の波を生み、その修道院と学問はフランクやイタリアのキリスト教に影響を与えた。"
+   }
+  },
+  {
+   "year": 697,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Law of the Innocents",
+    "ko": "무고한 자들의 법",
+    "zh": "《无辜者法》",
+    "ja": "無辜の者の法"
+   },
+   "description": {
+    "en": "At the Synod of Birr in 697, Adomnán, abbot of Iona, persuaded kings and churchmen to guarantee the Cáin Adomnáin. This law protected women, children and clergy from violence in war and is regarded as one of the earliest European laws for the protection of non-combatants.",
+    "ko": "697년 비르 교회 회의에서 아이오나 수도원장 아돔난은 왕들과 성직자들을 설득해 '카인 아돔나인'을 보증하게 했다. 이 법은 전쟁 중 여성·어린이·성직자를 폭력으로부터 보호했으며, 비전투원 보호를 위한 유럽 최초의 법 가운데 하나로 평가된다.",
+    "zh": "697年的比尔宗教会议上，艾奥纳修道院院长阿当南说服诸王和教士共同担保《阿当南法》。该法保护妇女、儿童和教士免受战争暴力，被视为欧洲最早保护非战斗人员的法律之一。",
+    "ja": "697年のビル教会会議で、アイオナ修道院長アドムナーンは王や聖職者を説得してカーン・アドムナーンを保証させた。この法は戦争における暴力から女性・子ども・聖職者を守るもので、非戦闘員保護を定めたヨーロッパ最初期の法の一つとされる。"
+   }
+  },
+  {
+   "year": 795,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "First Viking raids",
+    "ko": "최초의 바이킹 습격",
+    "zh": "维京人首次袭击",
+    "ja": "最初のヴァイキング襲撃"
+   },
+   "description": {
+    "en": "In 795 Norse raiders attacked the island monastery of Rechru, probably Lambay off Dublin, in the first recorded Viking raid on Ireland. Over the following decades coastal and river monasteries were repeatedly plundered for treasure and captives.",
+    "ko": "795년 노르드 습격자들이 더블린 앞바다의 램베이섬으로 추정되는 레크루의 섬 수도원을 공격했는데, 이것이 기록상 아일랜드 최초의 바이킹 습격이다. 이후 수십 년 동안 해안과 강변의 수도원들은 보물과 포로를 노린 약탈에 거듭 시달렸다.",
+    "zh": "795年，北欧袭击者攻击了雷赫鲁（可能是都柏林外海的兰贝岛）上的修道院，这是史载维京人对爱尔兰的首次袭击。此后数十年间，沿海和沿河的修道院屡遭劫掠，财宝和人口被掳走。",
+    "ja": "795年、ノルド人の襲撃者がダブリン沖のランベイ島と考えられるレフルの島の修道院を襲った。これが記録に残るアイルランドへの最初のヴァイキング襲撃である。その後数十年、沿岸や川沿いの修道院は財宝と捕虜を狙う略奪を繰り返し受けた。"
+   }
+  },
+  {
+   "year": 800,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Book of Kells and the monastic golden age",
+    "ko": "켈스의 서와 수도원 황금기",
+    "zh": "《凯尔经》与修道院黄金时代",
+    "ja": "『ケルズの書』と修道院文化の黄金期"
+   },
+   "description": {
+    "en": "Around 800 Irish monks, probably working at Iona and later at Kells, produced the Book of Kells, a lavishly illuminated Gospel book now kept at Trinity College Dublin. Together with metalwork such as the Ardagh Chalice, it represents the peak of Insular art in Ireland, the 'island of saints and scholars'.",
+    "ko": "800년경 아일랜드 수도사들은 아이오나와 이후 켈스에서 작업한 것으로 추정되는 화려한 채식 복음서 '켈스의 서'를 만들었으며, 지금은 더블린 트리니티 칼리지에 보관되어 있다. 아다 성배 같은 금속 공예품과 함께 '성인과 학자의 섬' 아일랜드에서 꽃핀 인슐라 미술의 정점을 보여 준다.",
+    "zh": "约公元800年，爱尔兰修士（可能先在艾奥纳、后在凯尔斯）制作了装饰华丽的福音书《凯尔经》，现藏于都柏林圣三一学院。它与阿达圣杯等金属工艺品一道，代表了“圣徒与学者之岛”爱尔兰海岛艺术的巅峰。",
+    "ja": "800年頃、アイルランドの修道士たちは、おそらくアイオナと後にケルズで、豪華な装飾福音書『ケルズの書』を制作した。現在ダブリンのトリニティ・カレッジに所蔵されている。アーダの聖杯などの金属工芸とともに、「聖人と学者の島」アイルランドにおけるインシュラー美術の頂点を示す。"
+   }
+  },
+  {
+   "year": 841,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Vikings found Dublin",
+    "ko": "바이킹의 더블린 건설",
+    "zh": "维京人建立都柏林",
+    "ja": "ヴァイキングによるダブリン建設"
+   },
+   "description": {
+    "en": "In 841 Norse raiders established a fortified ship base (longphort) at Dublin on the River Liffey. It grew into a major Viking trading town linked to Scandinavia and Britain, and much later became Ireland's capital and largest city.",
+    "ko": "841년 노르드 습격자들은 리피강 가의 더블린에 요새화된 선박 기지(롱포트)를 세웠다. 이곳은 스칸디나비아·브리튼과 연결된 주요 바이킹 교역 도시로 성장했고, 훨씬 뒤에는 아일랜드의 수도이자 최대 도시가 되었다.",
+    "zh": "841年，北欧袭击者在利菲河畔的都柏林建立设防船营（长船营地）。它发展为连接斯堪的纳维亚和不列颠的重要维京贸易城镇，后来成为爱尔兰的首都和最大城市。",
+    "ja": "841年、ノルド人はリフィー川沿いのダブリンに要塞化された船の基地（ロングフォルト）を築いた。ここはスカンディナヴィアやブリテンと結ばれた重要なヴァイキング交易都市に成長し、ずっと後にアイルランドの首都かつ最大の都市となった。"
+   }
+  },
+  {
+   "year": 902,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Norse expelled from Dublin",
+    "ko": "노르드인, 더블린에서 축출",
+    "zh": "北欧人被逐出都柏林",
+    "ja": "ノルド人のダブリン追放"
+   },
+   "description": {
+    "en": "In 902 the kings of Brega and Leinster drove the Norse out of Dublin, and many of them moved to north-west England. The Vikings returned in force in 917, re-founding Dublin as a powerful kingdom.",
+    "ko": "902년 브레가와 렌스터의 왕들이 노르드인을 더블린에서 몰아냈고, 그중 다수가 잉글랜드 북서부로 옮겨 갔다. 바이킹은 917년 대군을 이끌고 돌아와 더블린을 강력한 왕국으로 다시 세웠다.",
+    "zh": "902年，布雷加和伦斯特的国王将北欧人逐出都柏林，其中许多人迁往英格兰西北部。917年维京人卷土重来，重建都柏林并使之成为强大的王国。",
+    "ja": "902年、ブレガとレンスターの王たちはノルド人をダブリンから追い出し、その多くはイングランド北西部へ移った。ヴァイキングは917年に大挙して戻り、ダブリンを強力な王国として再建した。"
+   }
+  },
+  {
+   "year": 919,
+   "qid": "Q19611623",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Islandbridge",
+    "ko": "아일랜드브리지 전투",
+    "zh": "艾兰布里奇战役",
+    "ja": "アイランドブリッジの戦い"
+   },
+   "description": {
+    "en": "In 919 the high king Niall Glúndub led an army against the re-established Norse of Dublin but was defeated and killed at Islandbridge near the city. The victory secured the Viking kingdom of Dublin for decades.",
+    "ko": "919년 상급왕 니얼 글룬두브는 다시 세워진 더블린의 노르드인을 치러 군대를 이끌었으나, 도시 근처 아일랜드브리지에서 패배하고 전사했다. 이 승리로 더블린의 바이킹 왕국은 수십 년 동안 안정을 누렸다.",
+    "zh": "919年，至高王尼尔·格伦杜布率军进攻重建的都柏林北欧人，但在城郊的艾兰布里奇战败身亡。这场胜利使都柏林维京王国在此后数十年间得以稳固。",
+    "ja": "919年、上王ニーアル・グルーンドゥヴは再建されたダブリンのノルド人に向けて軍を率いたが、市近郊のアイランドブリッジで敗れて戦死した。この勝利によりダブリンのヴァイキング王国は数十年にわたり安泰となった。"
+   }
+  },
+  {
+   "year": 980,
+   "qid": "Q4562817",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Tara",
+    "ko": "타라 전투",
+    "zh": "塔拉战役",
+    "ja": "タラの戦い"
+   },
+   "description": {
+    "en": "In 980 Máel Sechnaill mac Domnaill, king of Mide, defeated the Dublin Norse under Olaf Cuarán's sons at Tara. Olaf abdicated, Dublin became tributary to the Irish, and Máel Sechnaill became high king.",
+    "ko": "980년 미데의 왕 마엘 세흐나일 막 돔나일이 타라에서 올라프 쿠아란의 아들들이 이끄는 더블린 노르드군을 격파했다. 올라프는 퇴위했고 더블린은 아일랜드 왕에게 공물을 바치게 되었으며, 마엘 세흐나일은 상급왕이 되었다.",
+    "zh": "980年，米斯国王马埃尔·塞赫奈尔在塔拉击败由奥拉夫·夸兰之子率领的都柏林北欧军。奥拉夫退位，都柏林沦为爱尔兰人的纳贡国，马埃尔·塞赫奈尔随即成为至高王。",
+    "ja": "980年、ミデ王マエル・セフナル・マク・ドムネイルはタラでオーラヴ・クアランの息子たちが率いるダブリンのノルド軍を破った。オーラヴは退位し、ダブリンはアイルランド側への貢納国となり、マエル・セフナルは上王となった。"
+   }
+  },
+  {
+   "year": 999,
+   "qid": "Q1992706",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Glenmama",
+    "ko": "글렌마마 전투",
+    "zh": "格伦马马战役",
+    "ja": "グレンママの戦い"
+   },
+   "description": {
+    "en": "At the end of 999 Brian Boru of Munster and Máel Sechnaill defeated the combined forces of Leinster and Viking Dublin at Glenmama. Brian then occupied Dublin, a key step in his rise to supremacy over Ireland.",
+    "ko": "999년 말 먼스터의 브라이언 보루와 마엘 세흐나일은 글렌마마에서 렌스터와 바이킹 더블린의 연합군을 격파했다. 브라이언은 이어 더블린을 점령했는데, 이는 그가 아일랜드의 패자로 올라서는 중요한 발판이 되었다.",
+    "zh": "999年底，芒斯特的布赖恩·博鲁与马埃尔·塞赫奈尔在格伦马马击败伦斯特与维京都柏林的联军。随后布赖恩占领都柏林，这是他称霸爱尔兰的关键一步。",
+    "ja": "999年末、マンスターのブライアン・ボルとマエル・セフナルはグレンママでレンスターとヴァイキングのダブリンの連合軍を破った。ブライアンは続いてダブリンを占領し、これがアイルランドの覇者へと上る重要な一歩となった。"
+   }
+  },
+  {
+   "year": 1002,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Brian Boru becomes High King",
+    "ko": "브라이언 보루, 상급왕 즉위",
+    "zh": "布赖恩·博鲁成为至高王",
+    "ja": "ブライアン・ボル、上王となる"
+   },
+   "description": {
+    "en": "In 1002 Máel Sechnaill submitted to Brian Boru, ending centuries of Uí Néill monopoly over the high kingship. Brian, styled 'Emperor of the Irish' in the Book of Armagh, came closer than any earlier king to ruling the whole island.",
+    "ko": "1002년 마엘 세흐나일이 브라이언 보루에게 복속하면서 수 세기에 걸친 위 닐 가문의 상급왕 독점이 끝났다. '아마의 서'에 '아일랜드인의 황제'로 기록된 브라이언은 이전 어느 왕보다 섬 전체의 통치에 가까이 다가갔다.",
+    "zh": "1002年，马埃尔·塞赫奈尔向布赖恩·博鲁臣服，结束了乌伊·尼尔家族数百年来对至高王位的垄断。在《阿马书》中被称为“爱尔兰人的皇帝”的布赖恩，比以往任何国王都更接近统治全岛。",
+    "ja": "1002年、マエル・セフナルがブライアン・ボルに服属し、数世紀にわたるウィ・ネール家の上王位独占が終わった。『アーマーの書』に「アイルランド人の皇帝」と記されたブライアンは、それ以前のどの王よりも島全体の支配に近づいた。"
+   }
+  },
+  {
+   "year": 1014,
+   "qid": "Q868027",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Clontarf",
+    "ko": "클론타프 전투",
+    "zh": "克朗塔夫战役",
+    "ja": "クロンターフの戦い"
+   },
+   "description": {
+    "en": "On Good Friday 1014 Brian Boru's army defeated a coalition of Leinster and the Norse of Dublin, with allies from Orkney and Man, at Clontarf near Dublin. Brian was killed during the battle, and Ireland returned to rivalry between provincial kings, though Norse political power in Ireland never recovered.",
+    "ko": "1014년 성금요일 브라이언 보루의 군대는 더블린 근처 클론타프에서 렌스터와 더블린 노르드인, 그리고 오크니와 맨섬에서 온 동맹군의 연합을 격파했다. 브라이언은 전투 중 전사했고 아일랜드는 다시 지방 왕들의 경쟁 구도로 돌아갔지만, 노르드인의 정치적 힘은 회복되지 못했다.",
+    "zh": "1014年耶稣受难日，布赖恩·博鲁的军队在都柏林附近的克朗塔夫击败了伦斯特与都柏林北欧人及来自奥克尼、马恩岛援军的联盟。布赖恩在战斗中阵亡，爱尔兰重回诸省国王争雄的局面，但北欧人在爱尔兰的政治势力再未恢复。",
+    "ja": "1014年の聖金曜日、ブライアン・ボルの軍はダブリン近郊のクロンターフで、レンスターとダブリンのノルド人、およびオークニーやマン島からの援軍の連合を破った。ブライアンは戦闘中に死亡し、アイルランドは再び地方王の抗争に戻ったが、ノルド人の政治的勢力は二度と回復しなかった。"
+   }
+  },
+  {
+   "year": 1111,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Synod of Ráth Breasail",
+    "ko": "라스 브레샤일 교회 회의",
+    "zh": "拉斯布雷赛尔宗教会议",
+    "ja": "ラース・ブレシャル教会会議"
+   },
+   "description": {
+    "en": "The Synod of Ráth Breasail in 1111 replaced the old monastic organisation of the Irish Church with territorial dioceses under archbishops of Armagh and Cashel. Together with the Synod of Kells in 1152, which added Dublin and Tuam, it created the diocesan structure that largely survives today.",
+    "ko": "1111년 라스 브레샤일 교회 회의는 아일랜드 교회의 오래된 수도원 중심 조직을 아마와 캐셜 대주교 아래의 지역 교구 체제로 바꾸었다. 더블린과 튜엄을 추가한 1152년 켈스 교회 회의와 함께, 오늘날까지 대체로 이어지는 교구 구조를 만들었다.",
+    "zh": "1111年的拉斯布雷赛尔宗教会议以阿马和卡舍尔大主教统辖下的地域教区取代了爱尔兰教会旧有的修道院组织。它与1152年增设都柏林和图厄姆大主教区的凯尔斯宗教会议一起，奠定了基本延续至今的教区结构。",
+    "ja": "1111年のラース・ブレシャル教会会議は、アイルランド教会の古い修道院中心の組織を、アーマーとキャシェルの大司教の下の地域司教区制に改めた。ダブリンとテュアムを加えた1152年のケルズ教会会議とともに、今日まで大筋で残る司教区構造をつくった。"
+   }
+  },
+  {
+   "year": 1142,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Mellifont Abbey founded",
+    "ko": "멜리폰트 수도원 창건",
+    "zh": "梅利方特修道院创建",
+    "ja": "メリフォント修道院の創建"
+   },
+   "description": {
+    "en": "In 1142 Saint Malachy brought Cistercian monks from Clairvaux to found Mellifont Abbey in County Louth, the first Cistercian house in Ireland. The order spread rapidly and introduced continental architecture and monastic discipline.",
+    "ko": "1142년 성 말라키는 클레르보에서 시토회 수도사들을 데려와 라우스주에 아일랜드 최초의 시토회 수도원인 멜리폰트 수도원을 세웠다. 시토회는 빠르게 퍼지며 대륙의 건축 양식과 수도 규율을 들여왔다.",
+    "zh": "1142年，圣马拉基从明谷请来西多会修士，在劳斯郡创建梅利方特修道院，这是爱尔兰第一座西多会修院。该修会迅速传播，引入了欧洲大陆的建筑风格和修道纪律。",
+    "ja": "1142年、聖マラキはクレルヴォーからシトー会修道士を招き、ラウス県にアイルランド初のシトー会修道院メリフォント修道院を創建した。同会は急速に広まり、大陸の建築様式と修道規律をもたらした。"
+   }
+  },
+  {
+   "year": 1169,
+   "qid": "Q7510516",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Anglo-Norman invasion",
+    "ko": "앵글로노르만 침공",
+    "zh": "盎格鲁-诺曼人入侵",
+    "ja": "アングロ・ノルマン人の侵攻"
+   },
+   "description": {
+    "en": "Diarmait Mac Murchada, the exiled king of Leinster, recruited Cambro-Norman knights, who landed in Wexford in May 1169 and took the town. Richard de Clare ('Strongbow') followed in 1170, capturing Waterford and Dublin, beginning eight centuries of English involvement in Ireland.",
+    "ko": "추방된 렌스터 왕 디어머드 막 머로가 캄브리아-노르만 기사들을 끌어들였고, 이들은 1169년 5월 웩스퍼드에 상륙해 도시를 점령했다. 1170년 리처드 드 클레어('스트롱보')가 뒤따라 워터퍼드와 더블린을 장악하면서 8세기에 걸친 잉글랜드의 아일랜드 개입이 시작되었다.",
+    "zh": "被流放的伦斯特国王迪尔梅德·麦克默罗招募了威尔士-诺曼骑士，他们于1169年5月在韦克斯福德登陆并攻占该城。1170年理查德·德克莱尔（“强弓”）随后而至，夺取沃特福德和都柏林，开启了英格兰介入爱尔兰长达八个世纪的历史。",
+    "ja": "追放されたレンスター王ディアルミド・マク・マルハダはカンブロ・ノルマン騎士を招き、彼らは1169年5月にウェックスフォードに上陸して町を奪った。1170年にはリチャード・ド・クレア（「ストロングボウ」）が続いてウォーターフォードとダブリンを占領し、8世紀に及ぶイングランドのアイルランド関与が始まった。"
+   }
+  },
+  {
+   "year": 1171,
+   "qid": "Q844250",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Henry II lands in Ireland",
+    "ko": "헨리 2세의 아일랜드 상륙",
+    "zh": "亨利二世登陆爱尔兰",
+    "ja": "ヘンリー2世のアイルランド上陸"
+   },
+   "description": {
+    "en": "Wary of Strongbow building an independent realm, Henry II of England landed at Waterford in October 1171 with a large army. Norman barons and many Irish kings submitted to him, establishing the Lordship of Ireland under the English crown.",
+    "ko": "스트롱보가 독자적인 영지를 세울 것을 경계한 잉글랜드 왕 헨리 2세는 1171년 10월 대군을 이끌고 워터퍼드에 상륙했다. 노르만 귀족과 많은 아일랜드 왕들이 그에게 복속하면서 잉글랜드 왕관 아래 아일랜드 영주령이 성립했다.",
+    "zh": "英格兰国王亨利二世担心“强弓”自立为王，于1171年10月率大军在沃特福德登陆。诺曼贵族和许多爱尔兰国王向他臣服，由此确立了英格兰王室治下的爱尔兰领地。",
+    "ja": "ストロングボウが独立した領国を築くことを警戒したイングランド王ヘンリー2世は、1171年10月に大軍を率いてウォーターフォードに上陸した。ノルマン貴族と多くのアイルランド王が臣従し、イングランド王冠の下にアイルランド卿領が成立した。"
+   }
+  },
+  {
+   "year": 1175,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Windsor",
+    "ko": "윈저 조약",
+    "zh": "温莎条约",
+    "ja": "ウィンザー条約"
+   },
+   "description": {
+    "en": "In 1175 Henry II and Ruaidrí Ua Conchobair, the last high king of Ireland, agreed the Treaty of Windsor. Ruaidrí kept Connacht and overlordship of unconquered Irish areas in return for tribute, but the settlement broke down as Norman expansion continued.",
+    "ko": "1175년 헨리 2세와 아일랜드의 마지막 상급왕 루어리 우어 콘호바르가 윈저 조약을 맺었다. 루어리는 공물을 바치는 대가로 코노트와 정복되지 않은 아일랜드 지역에 대한 종주권을 유지했으나, 노르만의 확장이 계속되면서 이 합의는 무너졌다.",
+    "zh": "1175年，亨利二世与爱尔兰最后一位至高王鲁艾德里·奥康纳签订《温莎条约》。鲁艾德里以纳贡为条件保留康诺特以及对未被征服的爱尔兰地区的宗主权，但随着诺曼人继续扩张，这一安排很快瓦解。",
+    "ja": "1175年、ヘンリー2世とアイルランド最後の上王ルアドリ・ウア・コンホヴァルはウィンザー条約を結んだ。ルアドリは貢納と引き換えにコナハトと未征服地域への宗主権を保持したが、ノルマン人の拡大が続いたため取り決めは崩れた。"
+   }
+  },
+  {
+   "year": 1204,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Dublin Castle ordered",
+    "ko": "더블린 성 건설 명령",
+    "zh": "下令修建都柏林城堡",
+    "ja": "ダブリン城の建設命令"
+   },
+   "description": {
+    "en": "In 1204 King John ordered a strong castle to be built at Dublin to defend the city and hold the king's treasure. Dublin Castle became the seat of English and later British administration in Ireland until it was handed over to the Provisional Government in 1922.",
+    "ko": "1204년 존 왕은 도시를 방어하고 왕실 재물을 보관하기 위해 더블린에 견고한 성을 지으라고 명령했다. 더블린 성은 1922년 임시정부에 인도될 때까지 아일랜드에서 잉글랜드, 이후 영국 행정의 중심이었다.",
+    "zh": "1204年，约翰王下令在都柏林修建坚固的城堡，以保卫城市并存放王室财宝。都柏林城堡此后一直是英格兰及后来英国在爱尔兰的统治中心，直到1922年移交给临时政府。",
+    "ja": "1204年、ジョン王は都市を守り王の財宝を保管するため、ダブリンに堅固な城を築くよう命じた。ダブリン城は1922年に臨時政府へ引き渡されるまで、アイルランドにおけるイングランド、のちには英国の統治の中心であった。"
+   }
+  },
+  {
+   "year": 1249,
+   "qid": "Q5452500",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First Battle of Athenry",
+    "ko": "제1차 애선리 전투",
+    "zh": "第一次阿森赖战役",
+    "ja": "第一次アセンリーの戦い"
+   },
+   "description": {
+    "en": "On 15 August 1249 the Anglo-Norman garrison of Athenry in Galway defeated an attack by Toirdelbach Ó Conchobair and Connacht forces. The fight reflected the struggle between the Ó Conchobair kings and the de Burgh lords over Connacht.",
+    "ko": "1249년 8월 15일 골웨이주 애선리의 앵글로노르만 수비대는 토어델바흐 오 콘호바르와 코노트군의 공격을 물리쳤다. 이 전투는 코노트를 둘러싼 오 콘호바르 왕가와 드 버그 영주들의 다툼을 보여 준다.",
+    "zh": "1249年8月15日，戈尔韦郡阿森赖的盎格鲁-诺曼守军击退了托尔德尔巴赫·奥康纳率领的康诺特军队的进攻。这场战斗反映了奥康纳王族与德伯格领主争夺康诺特的斗争。",
+    "ja": "1249年8月15日、ゴールウェイ県アセンリーのアングロ・ノルマン守備隊は、トールデルバハ・オコナー率いるコナハト軍の攻撃を退けた。この戦いは、コナハトをめぐるオコナー王家とド・バーグ家の争いを反映している。"
+   }
+  },
+  {
+   "year": 1261,
+   "qid": "Q4870614",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Callann",
+    "ko": "캘런 전투",
+    "zh": "卡兰战役",
+    "ja": "カラーンの戦い"
+   },
+   "description": {
+    "en": "In 1261 Fínghin Mac Carthaigh of Desmond routed the Geraldine FitzGerald forces at Callann in County Kerry, killing John FitzThomas and his son. The victory halted Norman expansion into south-west Munster for generations.",
+    "ko": "1261년 데스먼드의 피닌 막 카르허는 케리주 캘런에서 제럴딘(피츠제럴드) 세력을 격파하고 존 피츠토머스 부자를 죽였다. 이 승리로 먼스터 남서부로의 노르만 확장은 여러 세대 동안 멈추었다.",
+    "zh": "1261年，德斯蒙德的芬金·麦卡锡在克里郡卡兰大败杰拉尔丁（菲茨杰拉德）家族军队，杀死约翰·菲茨托马斯父子。这场胜利使诺曼人向芒斯特西南部的扩张停滞了数代之久。",
+    "ja": "1261年、デズモンドのフィーニン・マッカーシーはケリー県カラーンでジェラルディン（フィッツジェラルド）家の軍を破り、ジョン・フィッツトーマス父子を討ち取った。この勝利により、マンスター南西部へのノルマン人の拡大は数世代にわたって止まった。"
+   }
+  },
+  {
+   "year": 1297,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Parliament with elected representatives",
+    "ko": "선출 대표가 참여한 의회",
+    "zh": "有民选代表的议会",
+    "ja": "選出代表を含む議会"
+   },
+   "description": {
+    "en": "In 1297 the justiciar John Wogan summoned a parliament in Dublin that included elected representatives of the counties and liberties of the colony. It is often regarded as the first representative parliament of Ireland, though it served only the English settler community.",
+    "ko": "1297년 사법장관 존 워건은 식민지의 각 주와 특권령에서 선출된 대표들이 참여하는 의회를 더블린에 소집했다. 이는 흔히 아일랜드 최초의 대의제 의회로 여겨지지만, 잉글랜드계 정착민 사회만을 대표했다.",
+    "zh": "1297年，政法官约翰·沃根在都柏林召集议会，与会者包括殖民地各郡和特许领地选出的代表。它常被视为爱尔兰第一个代议制议会，但只代表英格兰移民群体。",
+    "ja": "1297年、ジャスティシア（総督）ジョン・ウォーガンは、植民地の各州と特権領から選ばれた代表を含む議会をダブリンに召集した。これはしばしばアイルランド初の代議制議会とみなされるが、イングランド系入植者社会のみを代表するものであった。"
+   }
+  },
+  {
+   "year": 1315,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Bruce invasion of Ireland",
+    "ko": "브루스의 아일랜드 침공",
+    "zh": "布鲁斯入侵爱尔兰",
+    "ja": "ブルースのアイルランド侵攻"
+   },
+   "description": {
+    "en": "In 1315 Edward Bruce, brother of King Robert I of Scotland, landed in Ulster with a Scottish army, was proclaimed King of Ireland by Irish allies and won battles such as Kells. His three-year campaign, coinciding with the Great Famine of 1315–17, devastated the colony.",
+    "ko": "1315년 스코틀랜드 왕 로버트 1세의 동생 에드워드 브루스가 스코틀랜드군을 이끌고 얼스터에 상륙해 아일랜드 동맹 세력에 의해 아일랜드 왕으로 추대되었고, 켈스 전투 등에서 승리했다. 1315~17년 대기근과 겹친 그의 3년간의 원정은 식민지를 황폐하게 만들었다.",
+    "zh": "1315年，苏格兰国王罗伯特一世之弟爱德华·布鲁斯率苏格兰军登陆阿尔斯特，被爱尔兰盟友拥立为爱尔兰国王，并在凯尔斯等战役中获胜。他历时三年的征战恰逢1315至1317年的大饥荒，使殖民地遭到严重破坏。",
+    "ja": "1315年、スコットランド王ロバート1世の弟エドワード・ブルースはスコットランド軍を率いてアルスターに上陸し、アイルランドの同盟者によりアイルランド王に推戴され、ケルズの戦いなどで勝利した。1315〜17年の大飢饉と重なった3年間の遠征は植民地を荒廃させた。"
+   }
+  },
+  {
+   "year": 1316,
+   "qid": "Q4141460",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Second Battle of Athenry",
+    "ko": "제2차 애선리 전투",
+    "zh": "第二次阿森赖战役",
+    "ja": "第二次アセンリーの戦い"
+   },
+   "description": {
+    "en": "In August 1316 an Anglo-Norman army under William Liath de Burgh and Richard de Bermingham crushed the forces of Fedlimid Ó Conchobair, king of Connacht, at Athenry. Fedlimid, who had joined the Bruce cause, was killed, a heavy blow to Gaelic resurgence in Connacht.",
+    "ko": "1316년 8월 윌리엄 리어 드 버그와 리처드 드 버밍엄이 이끄는 앵글로노르만군이 애선리에서 코노트 왕 페들리미드 오 콘호바르의 군대를 격파했다. 브루스 편에 섰던 페들리미드는 전사했고, 이는 코노트에서의 게일 부흥에 큰 타격이었다.",
+    "zh": "1316年8月，威廉·利亚斯·德伯格和理查德·德伯明翰率领的盎格鲁-诺曼军队在阿森赖击溃康诺特国王费德利米德·奥康纳的军队。投身布鲁斯阵营的费德利米德阵亡，这对康诺特的盖尔复兴是沉重打击。",
+    "ja": "1316年8月、ウィリアム・リアス・ド・バーグとリチャード・ド・バーミンガム率いるアングロ・ノルマン軍がアセンリーでコナハト王フェドリミド・オコナーの軍を壊滅させた。ブルース側についていたフェドリミドは戦死し、コナハトにおけるゲール勢力の復興に大打撃となった。"
+   }
+  },
+  {
+   "year": 1318,
+   "qid": "Q2011697",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Faughart",
+    "ko": "포가트 전투",
+    "zh": "福加特战役",
+    "ja": "フォハートの戦い"
+   },
+   "description": {
+    "en": "On 14 October 1318 Edward Bruce was defeated and killed by an Anglo-Irish army at Faughart near Dundalk. His death ended the Scottish attempt to create a Gaelic kingdom of Ireland, but the colony emerged badly weakened.",
+    "ko": "1318년 10월 14일 에드워드 브루스는 던독 근처 포가트에서 앵글로아이리시군에게 패해 전사했다. 그의 죽음으로 게일 아일랜드 왕국을 세우려던 스코틀랜드의 시도는 끝났지만, 식민지는 크게 약해진 상태였다.",
+    "zh": "1318年10月14日，爱德华·布鲁斯在邓多克附近的福加特被盎格鲁-爱尔兰军队击败并阵亡。他的死亡终结了苏格兰人建立盖尔爱尔兰王国的尝试，但殖民地也因此元气大伤。",
+    "ja": "1318年10月14日、エドワード・ブルースはダンドーク近郊のフォハートでアングロ・アイリッシュ軍に敗れて戦死した。彼の死でゲール的なアイルランド王国を築くスコットランドの試みは終わったが、植民地は大きく弱体化した。"
+   }
+  },
+  {
+   "year": 1348,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Black Death reaches Ireland",
+    "ko": "흑사병의 아일랜드 상륙",
+    "zh": "黑死病传入爱尔兰",
+    "ja": "黒死病のアイルランド到来"
+   },
+   "description": {
+    "en": "The Black Death arrived in Ireland in 1348, probably through the ports of Dublin and Drogheda. It struck the crowded towns of the English colony hardest, as the friar John Clyn of Kilkenny recorded, accelerating the colony's decline relative to Gaelic lordships.",
+    "ko": "흑사병은 1348년 아마도 더블린과 드로이다 항구를 통해 아일랜드에 들어왔다. 킬케니의 수사 존 클린이 기록했듯 잉글랜드 식민지의 밀집된 도시들이 가장 큰 타격을 입었고, 이는 게일 영주들에 비해 식민지의 쇠퇴를 앞당겼다.",
+    "zh": "1348年，黑死病很可能经都柏林和德罗赫达港传入爱尔兰。正如基尔肯尼修士约翰·克林所记载，英格兰殖民地人口稠密的城镇受害最重，加速了殖民地相对于盖尔领主的衰落。",
+    "ja": "黒死病は1348年、おそらくダブリンとドロヘダの港を通じてアイルランドに到来した。キルケニーの修道士ジョン・クリンが記したように、イングランド植民地の密集した町々が最も大きな打撃を受け、ゲール系領主に対する植民地の衰退を早めた。"
+   }
+  },
+  {
+   "year": 1366,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Statutes of Kilkenny",
+    "ko": "킬케니 법령",
+    "zh": "《基尔肯尼法令》",
+    "ja": "キルケニー法"
+   },
+   "description": {
+    "en": "The Statutes of Kilkenny, passed in 1366 under Lionel of Antwerp, forbade English settlers to marry the Irish, speak Irish, use Brehon law or adopt Irish dress and customs. They showed how far the colonists had become Gaelicised, and proved largely unenforceable outside the Pale.",
+    "ko": "1366년 앤트워프의 라이어널 아래에서 제정된 킬케니 법령은 잉글랜드계 정착민이 아일랜드인과 결혼하거나, 아일랜드어를 쓰거나, 브레혼 법을 따르거나, 아일랜드식 복장과 관습을 받아들이는 것을 금지했다. 이는 정착민이 얼마나 게일화되었는지를 보여 주며, 페일 밖에서는 거의 집행되지 못했다.",
+    "zh": "1366年在安特卫普的莱昂内尔主持下通过的《基尔肯尼法令》，禁止英格兰移民与爱尔兰人通婚、说爱尔兰语、采用布雷亨法或爱尔兰服饰与习俗。这反映出移民已高度盖尔化，而该法令在佩尔地区以外基本无法执行。",
+    "ja": "1366年、アントワープのライオネルの下で制定されたキルケニー法は、イングランド系入植者がアイルランド人と結婚すること、アイルランド語を話すこと、ブレホン法に従うこと、アイルランドの服装や習慣を取り入れることを禁じた。入植者のゲール化の深さを示すものであり、ペイルの外ではほとんど施行できなかった。"
+   }
+  },
+  {
+   "year": 1394,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Richard II's expedition",
+    "ko": "리처드 2세의 원정",
+    "zh": "理查二世远征爱尔兰",
+    "ja": "リチャード2世の遠征"
+   },
+   "description": {
+    "en": "In October 1394 Richard II became the first English king since John to come to Ireland, leading a large army. Many Gaelic lords, including Art Mac Murchadha of Leinster, submitted, but the settlement collapsed and his second expedition in 1399 contributed to his overthrow in England.",
+    "ko": "1394년 10월 리처드 2세는 존 왕 이후 처음으로 대군을 이끌고 아일랜드에 온 잉글랜드 왕이 되었다. 렌스터의 아트 막 머로를 비롯한 많은 게일 영주가 복속했으나 합의는 무너졌고, 1399년 두 번째 원정은 잉글랜드에서 그가 폐위되는 원인이 되었다.",
+    "zh": "1394年10月，理查二世率大军来到爱尔兰，成为自约翰王以来首位亲临爱尔兰的英格兰国王。伦斯特的阿特·麦克默罗等许多盖尔领主臣服，但这一安排随即瓦解，而他1399年的第二次远征则促成了他在英格兰被推翻。",
+    "ja": "1394年10月、リチャード2世は大軍を率いてアイルランドに渡り、ジョン王以来初めて来島したイングランド王となった。レンスターのアート・マク・マルハダをはじめ多くのゲール系領主が臣従したが、取り決めは崩れ、1399年の2度目の遠征はイングランドでの彼の廃位の一因となった。"
+   }
+  },
+  {
+   "year": 1462,
+   "qid": "Q56064435",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Piltown",
+    "ko": "필타운 전투",
+    "zh": "皮尔敦战役",
+    "ja": "ピルタウンの戦い"
+   },
+   "description": {
+    "en": "In 1462, during the Wars of the Roses, the Yorkist FitzGeralds of Desmond defeated the Lancastrian Butlers of Ormond at Piltown in County Kilkenny. It was the only battle of the Wars of the Roses fought in Ireland and confirmed Geraldine dominance in Irish politics.",
+    "ko": "1462년 장미 전쟁 중 요크파인 데스먼드 피츠제럴드 가문이 킬케니주 필타운에서 랭커스터파인 오먼드 버틀러 가문을 격파했다. 이는 아일랜드에서 벌어진 유일한 장미 전쟁 전투였으며, 아일랜드 정치에서 제럴딘 가문의 우위를 굳혔다.",
+    "zh": "1462年玫瑰战争期间，支持约克家族的德斯蒙德菲茨杰拉德家族在基尔肯尼郡皮尔敦击败支持兰开斯特家族的奥蒙德巴特勒家族。这是玫瑰战争中唯一一场发生在爱尔兰的战役，巩固了杰拉尔丁家族在爱尔兰政坛的优势。",
+    "ja": "1462年、薔薇戦争のさなか、ヨーク派のデズモンド・フィッツジェラルド家がキルケニー県ピルタウンでランカスター派のオーモンド・バトラー家を破った。これはアイルランドで戦われた唯一の薔薇戦争の戦いであり、アイルランド政治におけるジェラルディン家の優位を確かなものにした。"
+   }
+  },
+  {
+   "year": 1494,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Poynings' Law",
+    "ko": "포이닝스 법",
+    "zh": "《波伊宁斯法》",
+    "ja": "ポイニングス法"
+   },
+   "description": {
+    "en": "In 1494–95 the Lord Deputy Sir Edward Poynings had the Irish Parliament at Drogheda pass a law requiring that it could meet, and its bills be introduced, only with the prior approval of the English king and council. Poynings' Law subordinated the Irish Parliament to England until its modification in 1782.",
+    "ko": "1494~95년 총독 에드워드 포이닝스 경은 드로이다의 아일랜드 의회에서, 의회의 소집과 법안 상정은 잉글랜드 국왕과 추밀원의 사전 승인을 받아야 한다는 법을 통과시켰다. 포이닝스 법은 1782년 개정될 때까지 아일랜드 의회를 잉글랜드에 종속시켰다.",
+    "zh": "1494至1495年，总督爱德华·波伊宁斯爵士促使在德罗赫达召开的爱尔兰议会通过一项法律，规定议会召开及法案提出须事先获得英格兰国王和枢密院批准。《波伊宁斯法》使爱尔兰议会从属于英格兰，直到1782年修改为止。",
+    "ja": "1494〜95年、総督エドワード・ポイニングス卿はドロヘダのアイルランド議会に、議会の開催と法案提出にはイングランド国王と枢密院の事前承認を要するとの法律を可決させた。ポイニングス法は1782年に修正されるまでアイルランド議会をイングランドに従属させた。"
+   }
+  },
+  {
+   "year": 1534,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Silken Thomas rebellion",
+    "ko": "실큰 토머스의 반란",
+    "zh": "“丝绸托马斯”叛乱",
+    "ja": "シルケン・トマスの反乱"
+   },
+   "description": {
+    "en": "In 1534 Thomas FitzGerald, 'Silken Thomas', heir of the Earl of Kildare, rebelled against Henry VIII after rumours that his father had been executed in London. The rising was crushed, and the execution of Thomas and his uncles in 1537 ended the Kildare ascendancy and opened the way to direct Tudor rule.",
+    "ko": "1534년 킬데어 백작의 후계자 '실큰 토머스' 토머스 피츠제럴드는 아버지가 런던에서 처형되었다는 소문을 듣고 헨리 8세에 맞서 반란을 일으켰다. 반란은 진압되었고 1537년 토머스와 숙부들이 처형되면서 킬데어 가문의 우위는 끝났으며, 튜더 왕조의 직접 통치로 가는 길이 열렸다.",
+    "zh": "1534年，基尔代尔伯爵的继承人“丝绸托马斯”托马斯·菲茨杰拉德听闻父亲在伦敦被处决的传言后，起兵反抗亨利八世。叛乱被镇压，1537年托马斯及其叔父们被处决，基尔代尔家族的优势地位就此终结，为都铎王朝的直接统治铺平了道路。",
+    "ja": "1534年、キルデア伯の後継者「シルケン・トマス」ことトマス・フィッツジェラルドは、父がロンドンで処刑されたとの噂を受けてヘンリー8世に反旗を翻した。反乱は鎮圧され、1537年にトマスと叔父たちが処刑されてキルデア家の優位は終わり、テューダー朝の直接支配への道が開かれた。"
+   }
+  },
+  {
+   "year": 1541,
+   "qid": "Q215530",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Henry VIII becomes King of Ireland",
+    "ko": "헨리 8세, 아일랜드 국왕 즉위",
+    "zh": "亨利八世成为爱尔兰国王",
+    "ja": "ヘンリー8世、アイルランド王となる"
+   },
+   "description": {
+    "en": "In June 1541 the Irish Parliament passed the Crown of Ireland Act, making Henry VIII and his successors Kings of Ireland instead of Lords. The change accompanied the dissolution of the monasteries and the policy of 'surrender and regrant', by which Gaelic lords gave up their lands and received them back with English titles.",
+    "ko": "1541년 6월 아일랜드 의회는 아일랜드 왕관법을 통과시켜 헨리 8세와 그 후계자들을 '영주'가 아닌 '아일랜드 국왕'으로 삼았다. 이 변화는 수도원 해산, 그리고 게일 영주들이 토지를 바친 뒤 잉글랜드식 작위와 함께 돌려받는 '항복과 재수여' 정책과 함께 진행되었다.",
+    "zh": "1541年6月，爱尔兰议会通过《爱尔兰王位法》，使亨利八世及其继承人由“爱尔兰领主”改称“爱尔兰国王”。这一变化伴随着解散修道院以及“交出再封”政策，即盖尔领主交出土地，再以英格兰式爵位领回。",
+    "ja": "1541年6月、アイルランド議会はアイルランド王冠法を可決し、ヘンリー8世とその後継者を「卿」ではなく「アイルランド王」とした。この変化は修道院解散や、ゲール系領主が土地を差し出し英国式の爵位とともに再授与される「降伏と再授与」政策と並行して進められた。"
+   }
+  },
+  {
+   "year": 1565,
+   "qid": "Q474399",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Affane",
+    "ko": "아판 전투",
+    "zh": "阿凡战役",
+    "ja": "アファーンの戦い"
+   },
+   "description": {
+    "en": "In 1565 the forces of Gerald FitzGerald, Earl of Desmond, and Thomas Butler, Earl of Ormond, fought at Affane in County Waterford. Often called the last private battle between feudal magnates in the British Isles, it led Elizabeth I to summon both earls to London and tighten royal control in Munster.",
+    "ko": "1565년 데스먼드 백작 제럴드 피츠제럴드와 오먼드 백작 토머스 버틀러의 군대가 워터퍼드주 아판에서 맞붙었다. 흔히 영국 제도에서 봉건 대귀족 사이에 벌어진 마지막 사적 전투로 불리며, 엘리자베스 1세는 두 백작을 런던으로 불러들이고 먼스터에 대한 왕권 통제를 강화했다.",
+    "zh": "1565年，德斯蒙德伯爵杰拉尔德·菲茨杰拉德与奥蒙德伯爵托马斯·巴特勒的军队在沃特福德郡阿凡交战。这常被称为不列颠群岛封建大贵族之间的最后一场私战，伊丽莎白一世随后将两位伯爵召至伦敦，并加强了对芒斯特的王室控制。",
+    "ja": "1565年、デズモンド伯ジェラルド・フィッツジェラルドとオーモンド伯トマス・バトラーの軍がウォーターフォード県アファーンで戦った。ブリテン諸島における封建大貴族同士の最後の私闘とよく呼ばれ、エリザベス1世は両伯をロンドンに召喚し、マンスターへの王権統制を強めた。"
+   }
+  },
+  {
+   "year": 1580,
+   "qid": "Q1431771",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Glenmalure and Smerwick",
+    "ko": "글렌멀루어 전투와 스머윅 학살",
+    "zh": "格伦马卢尔战役与斯默威克屠杀",
+    "ja": "グレンマルアの戦いとスマーウィックの虐殺"
+   },
+   "description": {
+    "en": "During the Second Desmond Rebellion, Fiach MacHugh O'Byrne ambushed and routed an English army under Lord Grey de Wilton at Glenmalure in the Wicklow Mountains in August 1580. In November Grey's forces besieged a papal expeditionary force of Italian and Spanish soldiers at Smerwick in Kerry and massacred them after their surrender.",
+    "ko": "제2차 데스먼드 반란 중이던 1580년 8월, 피아크 막 휴 오번은 위클로 산지의 글렌멀루어에서 그레이 드 윌턴 경이 이끄는 잉글랜드군을 매복 공격해 궤멸시켰다. 같은 해 11월 그레이의 군대는 케리주 스머윅에서 이탈리아·스페인 병사로 이루어진 교황 원정군을 포위했고, 항복한 그들을 학살했다.",
+    "zh": "第二次德斯蒙德叛乱期间，1580年8月，菲亚克·麦克休·奥伯恩在威克洛山区的格伦马卢尔伏击并击溃了格雷·德威尔顿勋爵率领的英格兰军队。同年11月，格雷的部队在克里郡斯默威克围困了一支由意大利和西班牙士兵组成的教皇远征军，并在其投降后进行了屠杀。",
+    "ja": "第二次デズモンドの反乱中の1580年8月、フィアク・マク・ヒュー・オバーンはウィックロー山地のグレンマルアでグレイ・ド・ウィルトン卿率いるイングランド軍を待ち伏せして壊滅させた。同年11月、グレイの軍はケリー県スマーウィックでイタリア・スペイン兵からなる教皇派遣軍を包囲し、降伏後に虐殺した。"
+   }
+  },
+  {
+   "year": 1586,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Plantation of Munster",
+    "ko": "먼스터 식민",
+    "zh": "芒斯特殖民",
+    "ja": "マンスター植民"
+   },
+   "description": {
+    "en": "After the Desmond Rebellions ended in 1583, the Crown confiscated about 300,000 acres of Desmond lands and from 1586 granted them to English 'undertakers' such as Walter Raleigh, who were to settle English tenants. The plantation was only partly successful and was overrun during the Nine Years' War, but set a model for later plantations.",
+    "ko": "1583년 데스먼드 반란이 끝난 뒤 왕실은 데스먼드 가문의 토지 약 30만 에이커를 몰수했고, 1586년부터 월터 롤리 같은 잉글랜드인 '청부인'에게 나누어 주어 잉글랜드 소작인을 정착시키게 했다. 이 식민은 부분적으로만 성공했고 9년 전쟁 중 휩쓸렸지만, 이후 식민 정책의 모델이 되었다.",
+    "zh": "1583年德斯蒙德叛乱结束后，王室没收了德斯蒙德家族约30万英亩土地，并自1586年起将其分给沃尔特·雷利等英格兰“承办人”，由他们安置英格兰佃农。这次殖民只取得部分成功，并在九年战争中被冲垮，但为后来的殖民垦殖提供了范本。",
+    "ja": "1583年にデズモンドの反乱が終わると、王室はデズモンド家の土地約30万エーカーを没収し、1586年からウォルター・ローリーらイングランド人の「請負人」に与えてイングランド人小作人を入植させた。この植民は部分的にしか成功せず九年戦争中に蹂躙されたが、後の植民の手本となった。"
+   }
+  },
+  {
+   "year": 1588,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Spanish Armada wrecked on Irish coasts",
+    "ko": "스페인 무적함대의 아일랜드 해안 난파",
+    "zh": "西班牙无敌舰队在爱尔兰沿海失事",
+    "ja": "スペイン無敵艦隊のアイルランド沿岸での難破"
+   },
+   "description": {
+    "en": "In September 1588 storms drove around two dozen ships of the retreating Spanish Armada onto the coasts of Ireland, from Donegal to Kerry. Thousands of sailors drowned, and many survivors who reached land were killed on the orders of the English authorities, though some were sheltered by Gaelic lords and escaped to Scotland.",
+    "ko": "1588년 9월 폭풍으로 퇴각하던 스페인 무적함대의 배 20여 척이 도니골에서 케리에 이르는 아일랜드 해안에 좌초했다. 수천 명의 선원이 익사했고, 해안에 닿은 생존자 다수는 잉글랜드 당국의 명령으로 살해되었지만, 일부는 게일 영주들의 보호를 받아 스코틀랜드로 탈출했다.",
+    "zh": "1588年9月，风暴将撤退中的西班牙无敌舰队约二十余艘船只吹到从多尼戈尔到克里的爱尔兰海岸。数千名水手溺亡，许多登岸的幸存者遭英格兰当局下令杀害，但也有人得到盖尔领主庇护，逃往苏格兰。",
+    "ja": "1588年9月、嵐により撤退中のスペイン無敵艦隊の船およそ20数隻がドニゴールからケリーに至るアイルランド沿岸に打ち上げられた。数千人の水兵が溺死し、上陸した生存者の多くはイングランド当局の命令で殺されたが、一部はゲール系領主にかくまわれスコットランドへ逃れた。"
+   }
+  },
+  {
+   "year": 1592,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Trinity College Dublin founded",
+    "ko": "더블린 트리니티 칼리지 설립",
+    "zh": "都柏林圣三一学院创立",
+    "ja": "ダブリン大学トリニティ・カレッジ創立"
+   },
+   "description": {
+    "en": "Elizabeth I chartered Trinity College Dublin in 1592 on the site of a dissolved priory, to educate a Protestant clergy and elite. Ireland's oldest university, it later counted Jonathan Swift, Edmund Burke and Samuel Beckett among its students and houses the Book of Kells.",
+    "ko": "엘리자베스 1세는 1592년 해산된 수도원 터에 더블린 트리니티 칼리지를 설립하는 칙허를 내려 프로테스탄트 성직자와 엘리트를 양성하게 했다. 아일랜드에서 가장 오래된 이 대학은 훗날 조너선 스위프트·에드먼드 버크·사뮈엘 베케트 등을 배출했으며 '켈스의 서'를 소장하고 있다.",
+    "zh": "1592年，伊丽莎白一世颁发特许状，在一座被解散的修道院旧址上创立都柏林圣三一学院，以培养新教神职人员和精英。这所爱尔兰最古老的大学后来培养了斯威夫特、伯克和贝克特等人，并收藏着《凯尔经》。",
+    "ja": "エリザベス1世は1592年、解散された修道院の跡地にダブリンのトリニティ・カレッジを設立する勅許を与え、プロテスタントの聖職者とエリートを育成させた。アイルランド最古の大学であり、後にジョナサン・スウィフト、エドマンド・バーク、サミュエル・ベケットらが学び、『ケルズの書』を所蔵している。"
+   }
+  },
+  {
+   "year": 1599,
+   "qid": "Q1459058",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Curlew Pass",
+    "ko": "컬루 고개 전투",
+    "zh": "柯卢山口战役",
+    "ja": "カーリュー峠の戦い"
+   },
+   "description": {
+    "en": "During the Nine Years' War led by Hugh O'Neill of Tyrone and Hugh Roe O'Donnell, O'Donnell's forces ambushed an English army under Sir Conyers Clifford in the Curlew Mountains of County Roscommon in August 1599. Clifford was killed, one of several defeats that undermined the Earl of Essex's campaign in Ireland.",
+    "ko": "티론의 휴 오닐과 휴 로 오도넬이 이끈 9년 전쟁 중, 1599년 8월 오도넬의 군대는 로스커먼주 컬루 산지에서 코니어스 클리퍼드 경이 이끄는 잉글랜드군을 매복 공격했다. 클리퍼드는 전사했으며, 이는 에식스 백작의 아일랜드 원정을 무너뜨린 여러 패배 중 하나였다.",
+    "zh": "在蒂龙的休·奥尼尔和休·罗·奥唐奈领导的九年战争中，1599年8月奥唐奈的军队在罗斯康芒郡的柯卢山伏击了康耶斯·克利福德爵士率领的英格兰军。克利福德阵亡，这是使埃塞克斯伯爵爱尔兰战役受挫的数次败仗之一。",
+    "ja": "ティロンのヒュー・オニールとヒュー・ロー・オドネルが率いた九年戦争中の1599年8月、オドネル軍はロスコモン県のカーリュー山地でコニャーズ・クリフォード卿率いるイングランド軍を待ち伏せした。クリフォードは戦死し、エセックス伯のアイルランド遠征を挫いた敗北の一つとなった。"
+   }
+  },
+  {
+   "year": 1601,
+   "qid": "Q491255",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Siege and Battle of Kinsale",
+    "ko": "킨세일 포위전과 전투",
+    "zh": "金塞尔围城与战役",
+    "ja": "キンセールの包囲戦と戦い"
+   },
+   "description": {
+    "en": "In 1601 a Spanish army landed at Kinsale in County Cork to support the Irish rebels and was besieged by Lord Mountjoy. O'Neill and O'Donnell marched the length of Ireland to relieve it, but were defeated on 24 December 1601 (Old Style). The defeat broke the Gaelic confederacy; the Spanish surrendered in January 1602 and O'Neill submitted in 1603.",
+    "ko": "1601년 스페인군이 아일랜드 반란군을 돕기 위해 코크주 킨세일에 상륙했다가 마운트조이 경에게 포위되었다. 오닐과 오도넬은 이를 구하려고 아일랜드를 종단해 진군했으나 1601년 12월 24일(구력) 패배했다. 이 패배로 게일 동맹은 무너졌고, 스페인군은 1602년 1월 항복했으며 오닐은 1603년 복속했다.",
+    "zh": "1601年，一支西班牙军队为支援爱尔兰起义者在科克郡金塞尔登陆，随即被芒乔伊勋爵围困。奥尼尔和奥唐奈纵贯爱尔兰南下救援，却于1601年12月24日（旧历）战败。这次失败瓦解了盖尔联盟；西班牙军于1602年1月投降，奥尼尔于1603年归顺。",
+    "ja": "1601年、アイルランドの反乱軍を支援するためスペイン軍がコーク県キンセールに上陸し、マウントジョイ卿に包囲された。オニールとオドネルは救援のためアイルランドを縦断して進軍したが、1601年12月24日（旧暦）に敗れた。この敗北でゲール系同盟は崩壊し、スペイン軍は1602年1月に降伏、オニールは1603年に服属した。"
+   }
+  },
+  {
+   "year": 1607,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Flight of the Earls",
+    "ko": "백작들의 도피",
+    "zh": "伯爵出逃",
+    "ja": "伯爵たちの逃亡"
+   },
+   "description": {
+    "en": "In September 1607 Hugh O'Neill, Earl of Tyrone, and Rory O'Donnell, Earl of Tyrconnell, sailed from Rathmullan on Lough Swilly into exile on the Continent with their followers. Their departure marked the end of the old Gaelic aristocratic order and opened their confiscated lands to the Plantation of Ulster.",
+    "ko": "1607년 9월 티론 백작 휴 오닐과 티어코넬 백작 로리 오도넬은 추종자들과 함께 스윌리 호 연안의 래스멀런에서 배를 타고 유럽 대륙으로 망명했다. 그들의 떠남은 오래된 게일 귀족 질서의 종말을 뜻했고, 몰수된 그들의 땅은 얼스터 식민에 열렸다.",
+    "zh": "1607年9月，蒂龙伯爵休·奥尼尔与蒂尔康奈尔伯爵罗里·奥唐奈率随从从斯威利湖畔的拉斯穆伦乘船流亡欧洲大陆。他们的离去标志着古老盖尔贵族秩序的终结，其被没收的土地随后被用于阿尔斯特殖民。",
+    "ja": "1607年9月、ティロン伯ヒュー・オニールとティアコネル伯ローリー・オドネルは従者とともにスウィリー湾のラスマランから船出し、大陸へ亡命した。彼らの出国は古いゲール貴族秩序の終わりを意味し、没収された所領はアルスター植民に開放された。"
+   }
+  },
+  {
+   "year": 1609,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Plantation of Ulster",
+    "ko": "얼스터 식민",
+    "zh": "阿尔斯特殖民",
+    "ja": "アルスター植民"
+   },
+   "description": {
+    "en": "From 1609 the Crown systematically settled English and Scottish Protestants on confiscated land in six Ulster counties, including Donegal and Cavan in today's Republic. The plantation transformed the religious and political geography of the north and laid the roots of the later partition of Ireland.",
+    "ko": "1609년부터 왕실은 오늘날 아일랜드 공화국에 속한 도니골과 캐번을 포함한 얼스터 6개 주의 몰수 토지에 잉글랜드·스코틀랜드 프로테스탄트를 체계적으로 정착시켰다. 이 식민은 북부의 종교·정치 지형을 바꾸어 놓았고 훗날 아일랜드 분단의 뿌리가 되었다.",
+    "zh": "自1609年起，王室有计划地将英格兰和苏格兰新教徒安置在阿尔斯特六郡被没收的土地上，其中包括今属爱尔兰共和国的多尼戈尔和卡文。这次殖民改变了北方的宗教和政治格局，埋下了日后爱尔兰分治的根源。",
+    "ja": "1609年から王室は、今日のアイルランド共和国に属するドニゴールとキャヴァンを含むアルスター6県の没収地に、イングランド人とスコットランド人のプロテスタントを計画的に入植させた。この植民は北部の宗教・政治地図を変え、後のアイルランド分割の根を生んだ。"
+   }
+  },
+  {
+   "year": 1641,
+   "qid": "Q1461147",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Irish Rebellion of 1641",
+    "ko": "1641년 아일랜드 반란",
+    "zh": "1641年爱尔兰起义",
+    "ja": "1641年アイルランド反乱"
+   },
+   "description": {
+    "en": "In October 1641 Catholic Irish gentry, led by Phelim O'Neill, attempted to seize power, and the rising spread into widespread attacks on Protestant settlers, especially in Ulster. Exaggerated reports of massacres inflamed opinion in Britain, and the rebellion began over a decade of war in Ireland that was part of the Wars of the Three Kingdoms.",
+    "ko": "1641년 10월 펠림 오닐이 이끄는 아일랜드 가톨릭 젠트리가 권력 장악을 시도했고, 봉기는 특히 얼스터에서 프로테스탄트 정착민에 대한 광범위한 공격으로 번졌다. 과장된 학살 보도는 브리튼의 여론을 자극했으며, 이 반란은 삼왕국 전쟁의 일부로서 아일랜드에서 10년 넘게 이어진 전쟁의 시작이 되었다.",
+    "zh": "1641年10月，费利姆·奥尼尔领导的爱尔兰天主教乡绅试图夺权，起义随即演变为对新教移民的大规模袭击，尤以阿尔斯特为甚。被夸大的屠杀报道激起了不列颠舆论，这场起义开启了爱尔兰长达十余年的战争，成为三王国战争的一部分。",
+    "ja": "1641年10月、フェリム・オニール率いるアイルランドのカトリック系ジェントリが権力奪取を試み、蜂起は特にアルスターでプロテスタント入植者への広範な攻撃へと拡大した。誇張された虐殺の報道はブリテンの世論を激昂させ、この反乱は三王国戦争の一部として10年以上続くアイルランドでの戦争の始まりとなった。"
+   }
+  },
+  {
+   "year": 1642,
+   "qid": "Q1407718",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Confederation of Kilkenny",
+    "ko": "킬케니 동맹 결성",
+    "zh": "基尔肯尼联盟成立",
+    "ja": "キルケニー同盟の結成"
+   },
+   "description": {
+    "en": "In 1642 Catholic bishops, Old Irish lords and Old English gentry formed the Confederation at Kilkenny, with a General Assembly and Supreme Council, under the motto 'Irishmen united for God, King and Country'. It governed most of Ireland for seven years, but internal divisions weakened its negotiations with Charles I.",
+    "ko": "1642년 가톨릭 주교, 게일계 영주, 구잉글랜드계 젠트리는 '신과 국왕과 조국을 위해 단결한 아일랜드인'이라는 표어 아래 총회와 최고평의회를 갖춘 동맹을 킬케니에서 결성했다. 동맹은 7년 동안 아일랜드 대부분을 통치했으나, 내부 분열로 찰스 1세와의 협상력이 약해졌다.",
+    "zh": "1642年，天主教主教、盖尔旧贵族和老英格兰裔乡绅在基尔肯尼组成联盟，设有全体大会和最高委员会，口号为“爱尔兰人为上帝、国王和国家团结起来”。联盟统治爱尔兰大部分地区达七年之久，但内部分歧削弱了它与查理一世谈判的地位。",
+    "ja": "1642年、カトリック司教、ゲール系旧領主、オールド・イングリッシュのジェントリは「神と王と祖国のために団結したアイルランド人」を標語に、総会と最高評議会を備えた同盟をキルケニーで結成した。同盟は7年間アイルランドの大半を統治したが、内部対立がチャールズ1世との交渉力を弱めた。"
+   }
+  },
+  {
+   "year": 1649,
+   "qid": "Q1860257",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Cromwellian conquest of Ireland",
+    "ko": "크롬웰의 아일랜드 정복",
+    "zh": "克伦威尔征服爱尔兰",
+    "ja": "クロムウェルのアイルランド征服"
+   },
+   "description": {
+    "en": "Oliver Cromwell landed at Dublin in August 1649 and stormed Drogheda in September and Wexford in October, killing garrisons and many civilians. The campaign, completed by his successors by 1653, crushed Confederate and royalist resistance amid war, famine and plague that sharply reduced Ireland's population.",
+    "ko": "올리버 크롬웰은 1649년 8월 더블린에 상륙해 9월 드로이다, 10월 웩스퍼드를 습격하여 수비대와 많은 민간인을 죽였다. 1653년 그의 후임자들이 완수한 이 원정은 동맹군과 왕당파의 저항을 분쇄했으며, 전쟁·기근·역병으로 아일랜드 인구는 크게 줄었다.",
+    "zh": "奥利弗·克伦威尔于1649年8月在都柏林登陆，9月攻陷德罗赫达，10月攻陷韦克斯福德，屠杀守军和大批平民。这场由其继任者于1653年完成的征服粉碎了联盟和保王派的抵抗，战争、饥荒和瘟疫使爱尔兰人口锐减。",
+    "ja": "オリバー・クロムウェルは1649年8月にダブリンに上陸し、9月にドロヘダ、10月にウェックスフォードを強襲して守備隊と多くの民間人を殺した。後継者たちが1653年までに完了したこの遠征は同盟軍と王党派の抵抗を打ち砕き、戦争・飢饉・疫病によりアイルランドの人口は激減した。"
+   }
+  },
+  {
+   "year": 1652,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Act of Settlement and transplantation",
+    "ko": "정착법과 강제 이주",
+    "zh": "《定居法》与强制迁移",
+    "ja": "植民法と強制移住"
+   },
+   "description": {
+    "en": "The English Parliament's Act for the Settlement of Ireland of 1652 confiscated the estates of those who had fought against Parliament. Many Catholic landowners were transplanted to Connacht and Clare, and their land was given to soldiers and investors. The Catholic share of land fell from about three-fifths before 1641 to a small minority.",
+    "ko": "1652년 잉글랜드 의회의 아일랜드 정착법은 의회에 맞서 싸운 이들의 영지를 몰수했다. 많은 가톨릭 지주가 코노트와 클레어로 강제 이주되었고, 그들의 땅은 군인과 투자자에게 넘어갔다. 가톨릭이 소유한 토지 비율은 1641년 이전 약 5분의 3에서 소수로 떨어졌다.",
+    "zh": "1652年英格兰议会通过的《爱尔兰定居法》没收了曾与议会作战者的地产。许多天主教地主被强制迁往康诺特和克莱尔，他们的土地被分给士兵和投资者。天主教徒所占土地比例从1641年前的约五分之三降至少数。",
+    "ja": "1652年のイングランド議会によるアイルランド植民法は、議会に敵対して戦った者の所領を没収した。多くのカトリック地主がコナハトやクレアへ強制移住させられ、その土地は兵士や出資者に与えられた。カトリックの土地所有割合は1641年以前の約5分の3から少数へと落ち込んだ。"
+   }
+  },
+  {
+   "year": 1690,
+   "qid": "Q644960",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of the Boyne",
+    "ko": "보인강 전투",
+    "zh": "博因河战役",
+    "ja": "ボイン川の戦い"
+   },
+   "description": {
+    "en": "On 1 July 1690 (Old Style) William III defeated the Catholic James II at the River Boyne near Drogheda. James fled to France, and William's victory secured the Protestant succession in Britain and Ireland; the battle remains a powerful symbol in Irish and Ulster politics.",
+    "ko": "1690년 7월 1일(구력) 윌리엄 3세는 드로이다 근처 보인강에서 가톨릭 군주 제임스 2세를 격파했다. 제임스는 프랑스로 달아났고 윌리엄의 승리로 브리튼과 아일랜드에서 프로테스탄트 왕위 계승이 확고해졌으며, 이 전투는 지금도 아일랜드와 얼스터 정치에서 강력한 상징으로 남아 있다.",
+    "zh": "1690年7月1日（旧历），威廉三世在德罗赫达附近的博因河击败信奉天主教的詹姆斯二世。詹姆斯逃往法国，威廉的胜利确保了不列颠和爱尔兰的新教王位继承；这场战役至今仍是爱尔兰和阿尔斯特政治中的有力象征。",
+    "ja": "1690年7月1日（旧暦）、ウィリアム3世はドロヘダ近郊のボイン川でカトリックのジェームズ2世を破った。ジェームズはフランスへ逃れ、ウィリアムの勝利はブリテンとアイルランドにおけるプロテスタントの王位継承を確実にした。この戦いは今もアイルランドとアルスターの政治で強い象徴となっている。"
+   }
+  },
+  {
+   "year": 1691,
+   "qid": "Q2887916",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Aughrim",
+    "ko": "오그림 전투",
+    "zh": "奥格里姆战役",
+    "ja": "オーグリムの戦い"
+   },
+   "description": {
+    "en": "On 12 July 1691 (Old Style) the Williamite army under Godert de Ginkel defeated the Jacobites at Aughrim in County Galway, after the French general Saint-Ruth was killed by a cannonball. With several thousand dead, it was the bloodiest battle ever fought in Ireland and decided the Williamite War.",
+    "ko": "1691년 7월 12일(구력) 고더트 드 깅켈이 이끄는 윌리엄군은 프랑스 장군 생루트가 포탄에 맞아 전사한 뒤 골웨이주 오그림에서 자코바이트군을 격파했다. 수천 명이 전사한 이 전투는 아일랜드에서 벌어진 가장 참혹한 전투였으며 윌리엄 전쟁의 승패를 결정지었다.",
+    "zh": "1691年7月12日（旧历），在法国将领圣鲁斯被炮弹击毙后，金克尔率领的威廉派军队在戈尔韦郡奥格里姆击败詹姆斯党人。这场战役死亡数千人，是爱尔兰历史上最血腥的战斗，决定了威廉战争的胜负。",
+    "ja": "1691年7月12日（旧暦）、フランスの将軍サン・ルトが砲弾で戦死した後、ギンケル率いるウィリアム軍はゴールウェイ県オーグリムでジャコバイト軍を破った。数千人が戦死したこの戦いはアイルランド史上最も血なまぐさい戦闘であり、ウィリアム戦争の帰趨を決した。"
+   }
+  },
+  {
+   "year": 1691,
+   "qid": "Q1860162",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Limerick",
+    "ko": "리머릭 조약",
+    "zh": "利默里克条约",
+    "ja": "リムリック条約"
+   },
+   "description": {
+    "en": "The Treaty of Limerick of October 1691 ended the Williamite War in Ireland. Jacobite soldiers could leave for France, and well over 10,000 did so in the 'Flight of the Wild Geese', while Catholics were promised religious toleration; the Irish Parliament's failure to honour these terms became a lasting grievance.",
+    "ko": "1691년 10월 리머릭 조약으로 아일랜드의 윌리엄 전쟁이 끝났다. 자코바이트 병사들은 프랑스로 떠날 수 있었고 1만 명이 훨씬 넘는 병사가 '야생 거위의 도피'로 떠났으며, 가톨릭교도에게는 종교적 관용이 약속되었다. 그러나 아일랜드 의회가 이 조건을 지키지 않은 것은 오랜 불만이 되었다.",
+    "zh": "1691年10月的《利默里克条约》结束了爱尔兰的威廉战争。詹姆斯党士兵获准前往法国，逾万人随之离去，史称“野鹅出走”；条约还承诺给予天主教徒宗教宽容，但爱尔兰议会未能兑现，成为长久的积怨。",
+    "ja": "1691年10月のリムリック条約により、アイルランドにおけるウィリアム戦争は終結した。ジャコバイト兵はフランスへ渡ることを認められ、1万人をはるかに超える兵が「ワイルド・ギースの逃亡」として去った。カトリックには信仰の寛容が約束されたが、アイルランド議会がこれを守らなかったことは長く続く不満となった。"
+   }
+  },
+  {
+   "year": 1695,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Penal Laws",
+    "ko": "형법(가톨릭 차별법)",
+    "zh": "刑法典（惩治天主教徒法）",
+    "ja": "刑罰法"
+   },
+   "description": {
+    "en": "From 1695 the Protestant Irish Parliament passed a series of Penal Laws that barred Catholics from bearing arms, sending children abroad for education, buying land, holding public office and, from 1728, voting. The laws entrenched the Protestant Ascendancy, and most were repealed only between the 1770s and Catholic Emancipation in 1829.",
+    "ko": "1695년부터 프로테스탄트가 장악한 아일랜드 의회는 가톨릭교도의 무기 소지, 자녀의 해외 유학, 토지 매입, 공직 취임, 그리고 1728년부터는 투표까지 금지하는 일련의 형법을 제정했다. 이 법들은 프로테스탄트 지배층의 우위를 굳혔으며, 대부분 1770년대부터 1829년 가톨릭 해방 사이에야 폐지되었다.",
+    "zh": "自1695年起，新教徒控制的爱尔兰议会通过一系列刑法，禁止天主教徒持有武器、送子女出国受教育、购买土地、担任公职，1728年起更剥夺其投票权。这些法律巩固了新教优势阶层的统治，大多直到18世纪70年代至1829年天主教解放之间才被废除。",
+    "ja": "1695年からプロテスタントが支配するアイルランド議会は、カトリックの武器所持、子女の国外留学、土地購入、公職就任、さらに1728年からは投票を禁じる一連の刑罰法を制定した。これらの法はプロテスタント支配層の優位を固め、その多くは1770年代から1829年のカトリック解放までの間にようやく廃止された。"
+   }
+  },
+  {
+   "year": 1740,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Famine of 1740–41",
+    "ko": "1740~41년 기근",
+    "zh": "1740—1741年大饥荒",
+    "ja": "1740〜41年の飢饉"
+   },
+   "description": {
+    "en": "An extreme cold spell in the winter of 1739–40, followed by drought and crop failure, caused a famine known in Irish as Bliain an Áir, 'the year of slaughter'. Historians estimate that a substantial share of the population died, proportionally comparable to or greater than the Great Famine of the 1840s.",
+    "ko": "1739~40년 겨울의 극심한 한파와 뒤이은 가뭄·흉작으로 아일랜드어로 '블리언 언 아르'(살육의 해)라 불리는 기근이 일어났다. 역사가들은 인구의 상당 부분이 사망했다고 추정하며, 비율로는 1840년대 대기근에 버금가거나 그 이상이었다고 본다.",
+    "zh": "1739至1740年冬季的极端严寒以及随后的干旱和歉收引发了一场饥荒，爱尔兰语称为“屠戮之年”。史学家估计相当一部分人口死亡，按比例可与1840年代大饥荒相当甚至更甚。",
+    "ja": "1739〜40年冬の極端な寒波とそれに続く干ばつ・凶作は、アイルランド語で「殺戮の年」と呼ばれる飢饉を引き起こした。歴史家は人口のかなりの部分が死亡したと推定しており、比率では1840年代の大飢饉に匹敵するかそれ以上だったとされる。"
+   }
+  },
+  {
+   "year": 1742,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Premiere of Handel's Messiah",
+    "ko": "헨델 '메시아' 초연",
+    "zh": "亨德尔《弥赛亚》首演",
+    "ja": "ヘンデル『メサイア』初演"
+   },
+   "description": {
+    "en": "George Frideric Handel's oratorio Messiah was first performed in Dublin's Fishamble Street music hall on 13 April 1742, as a charity concert. The premiere reflected Georgian Dublin's standing as the second city of the British Isles, a centre of music, architecture and publishing.",
+    "ko": "게오르크 프리드리히 헨델의 오라토리오 '메시아'는 1742년 4월 13일 더블린 피셤블 거리의 음악당에서 자선 음악회로 초연되었다. 이 초연은 음악·건축·출판의 중심지로서 영국 제도 제2의 도시였던 조지 왕조 시대 더블린의 위상을 보여 준다.",
+    "zh": "1742年4月13日，亨德尔的清唱剧《弥赛亚》在都柏林菲尚布尔街音乐厅以慈善音乐会的形式首演。这次首演反映了乔治王朝时期都柏林作为不列颠群岛第二大城市及音乐、建筑和出版中心的地位。",
+    "ja": "ヘンデルのオラトリオ『メサイア』は1742年4月13日、ダブリンのフィッシャンブル通りの音楽堂で慈善演奏会として初演された。この初演は、音楽・建築・出版の中心でありブリテン諸島第2の都市であったジョージ王朝期ダブリンの地位を示している。"
+   }
+  },
+  {
+   "year": 1759,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Guinness brewery founded",
+    "ko": "기네스 양조장 설립",
+    "zh": "健力士酒厂创立",
+    "ja": "ギネス醸造所の創業"
+   },
+   "description": {
+    "en": "In 1759 Arthur Guinness took a 9,000-year lease on the St. James's Gate brewery in Dublin. Guinness became one of the world's largest breweries and its stout an enduring symbol of Ireland, while the company was a major employer and philanthropist in Dublin.",
+    "ko": "1759년 아서 기네스는 더블린의 세인트 제임스 게이트 양조장을 9천 년 임대 계약으로 빌렸다. 기네스는 세계 최대급의 양조장이 되었고 그 흑맥주는 아일랜드의 상징이 되었으며, 회사는 더블린의 주요 고용주이자 자선가였다.",
+    "zh": "1759年，亚瑟·健力士以9000年租期租下都柏林圣詹姆斯门酿酒厂。健力士成为世界最大的啤酒厂之一，其黑啤酒成为爱尔兰的经久象征，公司也是都柏林重要的雇主和慈善者。",
+    "ja": "1759年、アーサー・ギネスはダブリンのセント・ジェームズ・ゲート醸造所を9000年の賃借契約で借りた。ギネスは世界有数の醸造所となり、そのスタウトはアイルランドの象徴となった。同社はダブリンの主要な雇用主であり慈善家でもあった。"
+   }
+  },
+  {
+   "year": 1782,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Legislative independence ('Grattan's Parliament')",
+    "ko": "입법 독립('그래턴 의회')",
+    "zh": "立法独立（“格拉顿议会”）",
+    "ja": "立法上の独立（「グラタン議会」）"
+   },
+   "description": {
+    "en": "Backed by the armed Irish Volunteers, Henry Grattan and the Patriot party won the modification of Poynings' Law and the repeal of the Declaratory Act in 1782. The Irish Parliament gained legislative independence, though power stayed with the Protestant elite and the executive remained under London's control.",
+    "ko": "무장한 아일랜드 의용군의 지원을 받은 헨리 그래턴과 애국파는 1782년 포이닝스 법의 개정과 선언법 폐지를 얻어 냈다. 아일랜드 의회는 입법 독립을 얻었지만, 권력은 여전히 프로테스탄트 엘리트에게 있었고 행정부는 런던의 통제 아래 남았다.",
+    "zh": "在武装的爱尔兰志愿军支持下，亨利·格拉顿和爱国党于1782年争取到修改《波伊宁斯法》并废除《宣示法》。爱尔兰议会获得立法独立，但权力仍掌握在新教精英手中，行政机构也仍受伦敦控制。",
+    "ja": "武装したアイルランド義勇軍に支えられ、ヘンリー・グラタンと愛国派は1782年にポイニングス法の修正と宣言法の廃止を勝ち取った。アイルランド議会は立法上の独立を得たが、権力は依然プロテスタントのエリートにあり、行政府はロンドンの統制下に残った。"
+   }
+  },
+  {
+   "year": 1791,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Society of United Irishmen founded",
+    "ko": "아일랜드 연합회 결성",
+    "zh": "爱尔兰人联合会成立",
+    "ja": "ユナイテッド・アイリッシュメン結成"
+   },
+   "description": {
+    "en": "Inspired by the French Revolution, Theobald Wolfe Tone and others founded the Society of United Irishmen in Belfast and Dublin in 1791 to unite Catholics, Protestants and Dissenters in pursuit of parliamentary reform. Suppressed by the government, it turned into a secret revolutionary movement seeking an independent republic with French help.",
+    "ko": "프랑스 혁명에 고무된 시어볼드 울프 톤 등은 1791년 벨파스트와 더블린에서 가톨릭·프로테스탄트·비국교도를 단결시켜 의회 개혁을 이루려는 아일랜드 연합회를 결성했다. 정부의 탄압을 받자 이 단체는 프랑스의 도움으로 독립 공화국을 세우려는 비밀 혁명 운동으로 바뀌었다.",
+    "zh": "受法国大革命鼓舞，西奥博尔德·沃尔夫·托恩等人于1791年在贝尔法斯特和都柏林创立爱尔兰人联合会，旨在团结天主教徒、新教徒和不从国教者，推动议会改革。遭政府镇压后，它转变为寻求借助法国力量建立独立共和国的秘密革命运动。",
+    "ja": "フランス革命に触発され、シオボルド・ウルフ・トーンらは1791年、カトリック、プロテスタント、非国教徒を団結させて議会改革を目指すユナイテッド・アイリッシュメンをベルファストとダブリンで結成した。政府に弾圧されると、フランスの助けで独立共和国を目指す秘密の革命運動へと変わった。"
+   }
+  },
+  {
+   "year": 1795,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "St Patrick's College, Maynooth",
+    "ko": "메이누스 성 패트릭 대학 설립",
+    "zh": "梅努斯圣帕特里克学院创立",
+    "ja": "メイヌースの聖パトリック・カレッジ創立"
+   },
+   "description": {
+    "en": "In 1795 the government funded the founding of St Patrick's College at Maynooth to train Catholic priests at home rather than in revolutionary France. It became one of the largest seminaries in the world and a pillar of the Irish Catholic Church.",
+    "ko": "1795년 정부는 혁명기 프랑스가 아닌 국내에서 가톨릭 사제를 양성하도록 메이누스에 성 패트릭 대학 설립 자금을 지원했다. 이곳은 세계 최대급 신학교 가운데 하나이자 아일랜드 가톨릭교회의 기둥이 되었다.",
+    "zh": "1795年，政府出资在梅努斯创办圣帕特里克学院，使天主教神父在国内而非革命中的法国接受培训。它后来成为世界上规模最大的神学院之一，也是爱尔兰天主教会的支柱。",
+    "ja": "1795年、政府は革命下のフランスではなく国内でカトリック司祭を養成するため、メイヌースに聖パトリック・カレッジを設立する資金を出した。同校は世界最大級の神学校となり、アイルランド・カトリック教会の柱となった。"
+   }
+  },
+  {
+   "year": 1798,
+   "qid": "Q944941",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Rebellion of 1798",
+    "ko": "1798년 반란",
+    "zh": "1798年起义",
+    "ja": "1798年の反乱"
+   },
+   "description": {
+    "en": "In May 1798 the United Irishmen rose against British rule, with the fiercest fighting in Wexford, where rebels held the county for weeks before defeat at Vinegar Hill on 21 June. A French force under General Humbert landed at Killala in August and briefly proclaimed a Republic of Connacht. Perhaps 10,000–30,000 people died, and the rising led directly to the Act of Union.",
+    "ko": "1798년 5월 아일랜드 연합회가 영국 통치에 맞서 봉기했으며, 가장 격렬했던 웩스퍼드에서는 반란군이 몇 주간 주를 장악했다가 6월 21일 비니거 힐에서 패배했다. 8월에는 위베르 장군이 이끄는 프랑스군이 킬랄라에 상륙해 잠시 코노트 공화국을 선포했다. 약 1만~3만 명이 사망한 것으로 추정되며, 이 봉기는 곧바로 연합법으로 이어졌다.",
+    "zh": "1798年5月，爱尔兰人联合会起兵反抗英国统治，战斗以韦克斯福德最为激烈，起义者控制该郡数周，6月21日在醋山战败。8月，安贝尔将军率领的法军在基拉拉登陆，一度宣布成立康诺特共和国。据估计约有一万至三万人死亡，这场起义直接导致了《联合法案》。",
+    "ja": "1798年5月、ユナイテッド・アイリッシュメンは英国の支配に対して蜂起した。最も激しかったウェックスフォードでは反乱軍が数週間県を掌握したが、6月21日にヴィネガー・ヒルで敗れた。8月にはアンベール将軍率いるフランス軍がキララに上陸し、一時コナハト共和国を宣言した。死者は1万〜3万人と推定され、蜂起は直接合同法へとつながった。"
+   }
+  },
+  {
+   "year": 1801,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Act of Union",
+    "ko": "연합법 발효",
+    "zh": "《联合法案》生效",
+    "ja": "合同法の発効"
+   },
+   "description": {
+    "en": "The Acts of Union abolished the Irish Parliament and merged the Kingdom of Ireland with Great Britain into the United Kingdom of Great Britain and Ireland from 1 January 1801. Ireland sent 100 MPs to Westminster, but the promised Catholic Emancipation was blocked by George III, leaving the Union unpopular with many Catholics.",
+    "ko": "연합법으로 아일랜드 의회가 폐지되고, 1801년 1월 1일부터 아일랜드 왕국은 그레이트브리튼과 합쳐져 그레이트브리튼 아일랜드 연합왕국이 되었다. 아일랜드는 웨스트민스터에 의원 100명을 보냈지만, 약속된 가톨릭 해방이 조지 3세의 반대로 무산되면서 연합은 많은 가톨릭교도에게 인기가 없었다.",
+    "zh": "《联合法案》废除了爱尔兰议会，自1801年1月1日起将爱尔兰王国与大不列颠合并为大不列颠及爱尔兰联合王国。爱尔兰向威斯敏斯特派出100名议员，但承诺的天主教解放遭乔治三世阻挠，联合因而在许多天主教徒中不得人心。",
+    "ja": "合同法によりアイルランド議会は廃止され、1801年1月1日からアイルランド王国はグレートブリテンと合併してグレートブリテン及びアイルランド連合王国となった。アイルランドはウェストミンスターに100人の議員を送ったが、約束されたカトリック解放はジョージ3世に阻まれ、連合は多くのカトリック教徒に不評であった。"
+   }
+  },
+  {
+   "year": 1803,
+   "qid": "Q4197178",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Robert Emmet's rising",
+    "ko": "로버트 에밋의 봉기",
+    "zh": "罗伯特·埃米特起义",
+    "ja": "ロバート・エメットの蜂起"
+   },
+   "description": {
+    "en": "On 23 July 1803 the young United Irishman Robert Emmet launched a rising in Dublin that quickly collapsed into street fighting. Emmet was captured and executed in September; his speech from the dock made him one of the most celebrated figures of Irish republicanism.",
+    "ko": "1803년 7월 23일 젊은 아일랜드 연합회 회원 로버트 에밋은 더블린에서 봉기를 일으켰으나 곧 시가전으로 흐트러지며 실패했다. 에밋은 체포되어 9월에 처형되었으며, 법정 최후 진술로 아일랜드 공화주의의 가장 유명한 인물 가운데 하나가 되었다.",
+    "zh": "1803年7月23日，年轻的爱尔兰人联合会成员罗伯特·埃米特在都柏林发动起义，但很快沦为零星巷战而失败。埃米特被捕并于9月被处决，他在被告席上的演说使他成为爱尔兰共和主义最著名的人物之一。",
+    "ja": "1803年7月23日、若きユナイテッド・アイリッシュメンのロバート・エメットはダブリンで蜂起したが、すぐに市街戦へと崩れて失敗した。エメットは捕らえられ9月に処刑されたが、法廷での演説により彼はアイルランド共和主義で最も名高い人物の一人となった。"
+   }
+  },
+  {
+   "year": 1829,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Catholic Emancipation",
+    "ko": "가톨릭 해방",
+    "zh": "天主教解放",
+    "ja": "カトリック解放"
+   },
+   "description": {
+    "en": "Daniel O'Connell's mass Catholic Association, and his election for County Clare in 1828, forced the Wellington government to pass the Roman Catholic Relief Act of 1829. Catholics could now sit in Parliament and hold most public offices, a landmark victory for peaceful mass politics.",
+    "ko": "대니얼 오코널의 대중 조직 가톨릭 협회와 1828년 클레어주 선거에서의 그의 당선은 웰링턴 정부가 1829년 가톨릭 구제법을 통과시키도록 만들었다. 이제 가톨릭교도는 의회에 들어가고 대부분의 공직을 맡을 수 있게 되었으며, 이는 평화적 대중 정치의 이정표적 승리였다.",
+    "zh": "丹尼尔·奥康奈尔领导的大规模群众组织天主教协会，以及他在1828年克莱尔郡选举中的胜选，迫使威灵顿政府于1829年通过《天主教徒解放法》。天主教徒从此可以进入议会并担任大多数公职，这是和平群众政治的里程碑式胜利。",
+    "ja": "ダニエル・オコンネルの大衆組織カトリック協会と、1828年のクレア県選挙での彼の当選は、ウェリントン政権に1829年のカトリック救済法を可決させた。カトリック教徒は議会に議席を持ち大半の公職に就けるようになり、平和的な大衆政治の画期的な勝利となった。"
+   }
+  },
+  {
+   "year": 1831,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "National school system",
+    "ko": "국민학교 제도 도입",
+    "zh": "国民学校制度建立",
+    "ja": "国民学校制度の導入"
+   },
+   "description": {
+    "en": "In 1831 the government established a state-funded system of national primary schools in Ireland, decades before England. Teaching was in English, which together with emigration and economic pressure accelerated the decline of the Irish language over the 19th century.",
+    "ko": "1831년 정부는 잉글랜드보다 수십 년 앞서 아일랜드에 국비로 운영되는 국민 초등학교 제도를 세웠다. 수업은 영어로 이루어졌고, 이는 이민과 경제적 압력과 더불어 19세기 동안 아일랜드어의 쇠퇴를 가속했다.",
+    "zh": "1831年，政府在爱尔兰建立了由国家出资的国民小学制度，比英格兰早了几十年。教学使用英语，这与移民潮和经济压力一道，加速了爱尔兰语在19世纪的衰落。",
+    "ja": "1831年、政府はイングランドより数十年早く、アイルランドに国費による国民初等学校制度を設けた。授業は英語で行われ、移民や経済的圧力とあいまって19世紀を通じてアイルランド語の衰退を加速させた。"
+   }
+  },
+  {
+   "year": 1834,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Dublin and Kingstown Railway opens",
+    "ko": "더블린-킹스타운 철도 개통",
+    "zh": "都柏林—金斯敦铁路通车",
+    "ja": "ダブリン・アンド・キングスタウン鉄道開通"
+   },
+   "description": {
+    "en": "Ireland's first railway, the Dublin and Kingstown Railway, opened in December 1834 between Dublin and the harbour at Kingstown (Dún Laoghaire). It was one of the world's earliest commuter railways, and a national network spread across Ireland over the following decades.",
+    "ko": "아일랜드 최초의 철도인 더블린-킹스타운 철도가 1834년 12월 더블린과 킹스타운(던리어리) 항구 사이에 개통되었다. 이는 세계 최초기의 통근 철도 가운데 하나였으며, 이후 수십 년 동안 전국 철도망이 아일랜드 전역으로 퍼졌다.",
+    "zh": "爱尔兰第一条铁路——都柏林至金斯敦铁路于1834年12月在都柏林和金斯敦（邓莱里）港之间通车。它是世界上最早的通勤铁路之一，此后数十年间全国铁路网遍布爱尔兰。",
+    "ja": "アイルランド初の鉄道であるダブリン・アンド・キングスタウン鉄道が1834年12月、ダブリンとキングスタウン（ダン・レアリー）港の間で開通した。世界最初期の通勤鉄道の一つであり、その後数十年で全国的な鉄道網がアイルランド中に広がった。"
+   }
+  },
+  {
+   "year": 1839,
+   "qid": "Q2747635",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Night of the Big Wind",
+    "ko": "큰바람의 밤",
+    "zh": "大风之夜",
+    "ja": "大風の夜"
+   },
+   "description": {
+    "en": "On the night of 6–7 January 1839 a violent windstorm swept across Ireland, damaging or destroying tens of thousands of houses and killing a few hundred people. Known as Oíche na Gaoithe Móire, it remained so memorable that later pension officials used it to test the ages of elderly applicants.",
+    "ko": "1839년 1월 6일 밤부터 7일까지 맹렬한 폭풍이 아일랜드 전역을 휩쓸어 수만 채의 가옥을 파손하거나 무너뜨리고 수백 명의 목숨을 앗아 갔다. '오이헤 너 기혜 모르'로 불린 이 폭풍은 매우 강렬한 기억으로 남아, 훗날 연금 담당 관리들이 고령 신청자의 나이를 확인하는 데 쓰였다.",
+    "zh": "1839年1月6日至7日夜间，一场猛烈的风暴席卷爱尔兰，数万栋房屋受损或被毁，数百人丧生。这场被称为“大风之夜”的风暴令人记忆深刻，后来养老金官员甚至以此来核实老年申请人的年龄。",
+    "ja": "1839年1月6日から7日にかけての夜、猛烈な暴風がアイルランド全土を襲い、数万戸の家屋が損壊・倒壊し、数百人が死亡した。「大風の夜」と呼ばれたこの嵐は強く記憶され、のちに年金担当官が高齢申請者の年齢確認に用いたほどであった。"
+   }
+  },
+  {
+   "year": 1845,
+   "qid": null,
+   "importance": 1,
+   "category": "disaster",
+   "title": {
+    "en": "The Great Famine",
+    "ko": "아일랜드 대기근",
+    "zh": "爱尔兰大饥荒",
+    "ja": "アイルランド大飢饉"
+   },
+   "description": {
+    "en": "Potato blight, first seen in Ireland in September 1845, destroyed the staple food of the rural poor in successive years until about 1849. Roughly one million people died of starvation and disease and more than a million emigrated, while food exports continued and relief was inadequate. Ireland's population, about 8.5 million in 1845, kept falling for a century, and the famine deeply shaped Irish memory and politics.",
+    "ko": "1845년 9월 아일랜드에서 처음 발견된 감자 역병은 1849년경까지 해마다 농촌 빈민의 주식을 파괴했다. 약 100만 명이 굶주림과 질병으로 숨지고 100만 명 이상이 이민을 떠났으나, 식량 수출은 계속되었고 구호는 불충분했다. 1845년 약 850만 명이던 아일랜드 인구는 이후 한 세기 동안 줄어들었으며, 대기근은 아일랜드인의 기억과 정치에 깊은 흔적을 남겼다.",
+    "zh": "1845年9月爱尔兰首次发现马铃薯晚疫病，此后直到约1849年，它年复一年地摧毁农村贫民的主粮。约一百万人死于饥饿和疾病，逾百万人移居海外，而粮食出口仍在继续，救济却严重不足。爱尔兰人口在1845年约850万，此后一个世纪持续下降，大饥荒深刻影响了爱尔兰人的记忆和政治。",
+    "ja": "1845年9月にアイルランドで初めて確認されたジャガイモ疫病は、1849年頃まで毎年農村貧困層の主食を壊滅させた。約100万人が飢えと病で死亡し、100万人以上が国外へ移住したが、食料輸出は続き救済は不十分だった。1845年に約850万人だった人口はその後1世紀にわたって減り続け、大飢饉はアイルランド人の記憶と政治に深い影響を残した。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Young Irelander Rebellion",
+    "ko": "청년 아일랜드당 봉기",
+    "zh": "青年爱尔兰起义",
+    "ja": "青年アイルランド党の蜂起"
+   },
+   "description": {
+    "en": "In July 1848, during the famine and amid revolutions across Europe, the Young Ireland movement under William Smith O'Brien attempted a rising. It ended after a skirmish at Ballingarry in County Tipperary, and its leaders were transported to Australia, but it inspired later generations of nationalists.",
+    "ko": "대기근과 유럽 각지의 혁명이 이어지던 1848년 7월, 윌리엄 스미스 오브라이언이 이끄는 청년 아일랜드 운동이 봉기를 시도했다. 봉기는 티퍼레리주 밸린개리에서의 소규모 교전 뒤 끝났고 지도자들은 오스트레일리아로 유형을 갔지만, 후대 민족주의자들에게 영감을 주었다.",
+    "zh": "1848年7月，在饥荒和欧洲各地革命的背景下，威廉·史密斯·奥布莱恩领导的青年爱尔兰运动试图起义。起义在蒂珀雷里郡巴林加里的一场小规模冲突后结束，领导人被流放到澳大利亚，但它激励了后世的民族主义者。",
+    "ja": "飢饉とヨーロッパ各地の革命のさなかの1848年7月、ウィリアム・スミス・オブライエン率いる青年アイルランド運動が蜂起を試みた。蜂起はティペラリー県バリンギャリーでの小競り合いの後に終わり、指導者たちはオーストラリアへ流刑となったが、後の世代の民族主義者を鼓舞した。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Irish Republican Brotherhood founded",
+    "ko": "아일랜드 공화주의 형제단 결성",
+    "zh": "爱尔兰共和兄弟会成立",
+    "ja": "アイルランド共和主義同盟の結成"
+   },
+   "description": {
+    "en": "On St Patrick's Day 1858 James Stephens founded the Irish Republican Brotherhood in Dublin, a secret oath-bound society dedicated to an independent democratic republic; its American counterpart was the Fenian Brotherhood. The IRB staged the failed Fenian Rising of 1867 and later planned the Easter Rising of 1916.",
+    "ko": "1858년 성 패트릭의 날, 제임스 스티븐스는 더블린에서 독립 민주 공화국을 목표로 하는 서약 비밀결사인 아일랜드 공화주의 형제단(IRB)을 결성했다. 미국 쪽 자매 조직은 페니언 형제단이었다. IRB는 실패로 끝난 1867년 페니언 봉기를 일으켰고, 훗날 1916년 부활절 봉기를 계획했다.",
+    "zh": "1858年圣帕特里克节，詹姆斯·斯蒂芬斯在都柏林创立爱尔兰共和兄弟会，这是一个以宣誓结社、致力于建立独立民主共和国的秘密组织，其美国分支为芬尼亚兄弟会。该会发动了失败的1867年芬尼亚起义，后来又策划了1916年复活节起义。",
+    "ja": "1858年の聖パトリックの日、ジェームズ・スティーヴンスはダブリンで、独立した民主共和国を目指す宣誓制の秘密結社アイルランド共和主義同盟（IRB）を結成した。米国の姉妹組織はフィニアン同盟である。IRBは失敗に終わった1867年のフィニアン蜂起を起こし、後に1916年のイースター蜂起を計画した。"
+   }
+  },
+  {
+   "year": 1869,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Disestablishment of the Church of Ireland",
+    "ko": "아일랜드 국교회 폐지",
+    "zh": "爱尔兰圣公会的国教地位被废除",
+    "ja": "アイルランド国教会の国教廃止"
+   },
+   "description": {
+    "en": "Gladstone's Irish Church Act of 1869, effective from 1871, disestablished the Anglican Church of Ireland, ending its status as the state church of a mainly Catholic country and the tithes paid to it. It was the first of Gladstone's reforms aimed at 'pacifying Ireland'.",
+    "ko": "1871년부터 시행된 글래드스턴의 1869년 아일랜드 교회법은 주로 가톨릭 국가에서 국교 지위를 누리던 성공회계 아일랜드 국교회의 국교 지위와 십일조를 폐지했다. 이는 '아일랜드 안정'을 목표로 한 글래드스턴 개혁의 첫걸음이었다.",
+    "zh": "格莱斯顿推动的1869年《爱尔兰教会法》自1871年起生效，废除了圣公会爱尔兰教会的国教地位，结束了它在一个以天主教徒为主的国家作为国家教会并收取什一税的局面。这是格莱斯顿旨在“安抚爱尔兰”的首项改革。",
+    "ja": "グラッドストンによる1869年のアイルランド教会法（1871年施行）は、聖公会系のアイルランド国教会の国教としての地位を廃止し、主にカトリックの国における国家教会としての地位と十分の一税を終わらせた。これは「アイルランドの鎮静化」を掲げたグラッドストンの改革の最初のものであった。"
+   }
+  },
+  {
+   "year": 1879,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Land League and the Land War",
+    "ko": "토지 연맹과 토지 전쟁",
+    "zh": "土地联盟与土地战争",
+    "ja": "土地同盟と土地戦争"
+   },
+   "description": {
+    "en": "Amid agricultural depression and threatened evictions, Michael Davitt founded the Irish National Land League in October 1879, with Charles Stewart Parnell as president. Its campaign of rent strikes and social ostracism, which gave the word 'boycott' to English, won land acts that eventually transferred most farmland from landlords to tenants.",
+    "ko": "농업 불황과 퇴거 위협 속에서 마이클 대빗은 1879년 10월 찰스 스튜어트 파넬을 의장으로 하는 아일랜드 국민 토지 연맹을 창설했다. 지대 납부 거부와 사회적 배척 운동은 영어에 '보이콧'이라는 단어를 남겼으며, 일련의 토지법을 이끌어 결국 대부분의 농지가 지주에게서 소작인에게 넘어가게 했다.",
+    "zh": "在农业萧条和驱逐威胁之下，迈克尔·达维特于1879年10月创立爱尔兰全国土地联盟，由查尔斯·斯图尔特·帕内尔任主席。联盟发起抗租和社会孤立运动，使“抵制”（boycott）一词进入英语，并促成一系列土地法，最终使大部分农地从地主手中转到佃农手里。",
+    "ja": "農業不況と立ち退きの脅威の中、マイケル・ダヴィットは1879年10月、チャールズ・スチュワート・パーネルを総裁とするアイルランド国民土地同盟を設立した。地代不払いと社会的排斥の運動は英語に「ボイコット」という語を残し、一連の土地法を勝ち取って最終的に農地の大半を地主から小作人へ移した。"
+   }
+  },
+  {
+   "year": 1879,
+   "qid": "Q93378206",
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Apparition at Knock",
+    "ko": "노크의 성모 발현",
+    "zh": "诺克圣母显现",
+    "ja": "ノックの聖母出現"
+   },
+   "description": {
+    "en": "On 21 August 1879 villagers in Knock, County Mayo, reported seeing an apparition of the Virgin Mary, Saint Joseph and Saint John at the gable of the parish church. Knock became Ireland's national Marian shrine, visited by Pope John Paul II in 1979 and by hundreds of thousands of pilgrims each year.",
+    "ko": "1879년 8월 21일 메이오주 노크 마을 주민들은 본당 성당 박공벽에 성모 마리아와 성 요셉, 성 요한이 나타났다고 증언했다. 노크는 아일랜드의 국가적 성모 성지가 되었으며, 1979년 교황 요한 바오로 2세가 방문했고 해마다 수십만 명의 순례자가 찾는다.",
+    "zh": "1879年8月21日，梅奥郡诺克村的村民称在堂区教堂山墙上看到圣母玛利亚、圣约瑟和圣约翰显现。诺克成为爱尔兰全国性的圣母朝圣地，1979年教宗若望·保禄二世曾到访，每年有数十万朝圣者前往。",
+    "ja": "1879年8月21日、メイヨー県ノック村の住民は、教区教会の切妻壁に聖母マリア、聖ヨセフ、聖ヨハネが現れたと証言した。ノックはアイルランドの国民的な聖母巡礼地となり、1979年には教皇ヨハネ・パウロ2世が訪れ、毎年数十万人の巡礼者が訪れている。"
+   }
+  },
+  {
+   "year": 1884,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Gaelic Athletic Association founded",
+    "ko": "게일 체육 협회 설립",
+    "zh": "盖尔运动协会成立",
+    "ja": "ゲーリック体育協会の設立"
+   },
+   "description": {
+    "en": "Michael Cusack and others founded the Gaelic Athletic Association at Hayes' Hotel in Thurles in November 1884 to revive and codify hurling, Gaelic football and other native sports. Organised in every parish, the GAA became the largest sporting and community organisation in Ireland and a force in the cultural revival.",
+    "ko": "마이클 큐색 등은 1884년 11월 서얼스의 헤이스 호텔에서 헐링·게일릭 풋볼 등 전통 스포츠를 부흥하고 규칙을 정비하기 위해 게일 체육 협회(GAA)를 설립했다. 모든 본당 단위로 조직된 GAA는 아일랜드 최대의 스포츠·지역 공동체 조직이자 문화 부흥의 한 축이 되었다.",
+    "zh": "1884年11月，迈克尔·库萨克等人在瑟勒斯的海斯酒店创立盖尔运动协会，以复兴并规范爱尔兰式曲棍球、盖尔式足球等本土运动。该协会在每个堂区都有组织，成为爱尔兰最大的体育和社区组织，也是文化复兴的重要力量。",
+    "ja": "マイケル・キューザックらは1884年11月、サーリスのヘイズ・ホテルで、ハーリングやゲーリック・フットボールなど伝統競技の復興と規則整備のためにゲーリック体育協会（GAA）を設立した。全教区に組織されたGAAはアイルランド最大のスポーツ・地域組織となり、文化復興の一翼を担った。"
+   }
+  },
+  {
+   "year": 1886,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First Home Rule Bill",
+    "ko": "제1차 자치법안",
+    "zh": "第一次地方自治法案",
+    "ja": "第一次自治法案"
+   },
+   "description": {
+    "en": "Persuaded by Parnell's Irish Parliamentary Party, which held the balance of power, Gladstone introduced the first Government of Ireland Bill in 1886 to create a devolved Irish parliament. It was defeated in the Commons and split the Liberal Party; a second bill passed the Commons in 1893 but was rejected by the House of Lords.",
+    "ko": "캐스팅보트를 쥔 파넬의 아일랜드 의회당에 설득된 글래드스턴은 1886년 아일랜드 자치 의회를 세우는 첫 아일랜드 통치 법안을 제출했다. 법안은 하원에서 부결되고 자유당을 분열시켰으며, 1893년 두 번째 법안은 하원을 통과했으나 상원에서 거부되었다.",
+    "zh": "在掌握关键票的帕内尔爱尔兰议会党推动下，格莱斯顿于1886年提出第一个《爱尔兰政府法案》，拟设立爱尔兰自治议会。法案在下院被否决并导致自由党分裂；1893年第二个法案虽在下院通过，却遭上院否决。",
+    "ja": "キャスティングボートを握るパーネルのアイルランド議会党に促され、グラッドストンは1886年、自治議会を設ける最初のアイルランド統治法案を提出した。法案は下院で否決され自由党を分裂させた。1893年の第二次法案は下院を通過したが貴族院で否決された。"
+   }
+  },
+  {
+   "year": 1893,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Gaelic League founded",
+    "ko": "게일 연맹 창립",
+    "zh": "盖尔语联盟成立",
+    "ja": "ゲール語連盟の設立"
+   },
+   "description": {
+    "en": "Douglas Hyde and Eoin MacNeill founded Conradh na Gaeilge, the Gaelic League, in 1893 to keep Irish alive as a spoken language. Its classes, publications and festivals fuelled the Gaelic Revival and educated many future revolutionaries; Hyde later became the first President of Ireland.",
+    "ko": "더글러스 하이드와 오인 맥닐은 1893년 아일랜드어를 살아 있는 구어로 지키기 위해 게일 연맹(콘라 너 게일러)을 창립했다. 연맹의 강좌·출판·축제는 게일 부흥을 이끌었고 미래의 많은 혁명가를 길러 냈으며, 하이드는 훗날 아일랜드의 초대 대통령이 되었다.",
+    "zh": "道格拉斯·海德和约恩·麦克尼尔于1893年创立盖尔语联盟，致力于使爱尔兰语作为口语延续下去。联盟的语言班、出版物和节庆推动了盖尔复兴，培养了许多未来的革命者；海德后来成为爱尔兰首任总统。",
+    "ja": "ダグラス・ハイドとエオイン・マクニールは1893年、アイルランド語を話し言葉として存続させるためにゲール語連盟（コンラ・ナ・ゲールゲ）を設立した。その講座・出版・祭典はゲール復興を推し進め、多くの将来の革命家を育てた。ハイドはのちにアイルランド初代大統領となった。"
+   }
+  },
+  {
+   "year": 1903,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Wyndham Land Act",
+    "ko": "윈덤 토지법",
+    "zh": "《温德姆土地法》",
+    "ja": "ウィンダム土地法"
+   },
+   "description": {
+    "en": "The Land Purchase Act of 1903, sponsored by Chief Secretary George Wyndham, offered state loans for tenants to buy their holdings and a bonus to landlords who sold whole estates. Together with earlier and later acts, it transferred most Irish farmland to owner-occupiers, ending the landlord system.",
+    "ko": "수석장관 조지 윈덤이 추진한 1903년 토지 매입법은 소작인이 자신의 농지를 살 수 있도록 국가 대출을 제공하고, 영지 전체를 매각하는 지주에게는 장려금을 주었다. 앞뒤의 다른 토지법과 함께 이 법은 아일랜드 농지 대부분을 자작농에게 넘겨 지주 제도를 끝냈다.",
+    "zh": "1903年由首席大臣乔治·温德姆推动的《土地购买法》为佃农购买所耕土地提供国家贷款，并向整片出售地产的地主发放奖励金。它与前后的其他土地法一起，使爱尔兰大部分农地转为自耕农所有，终结了地主制度。",
+    "ja": "首席大臣ジョージ・ウィンダムが推進した1903年の土地購入法は、小作人が保有地を買い取るための国家融資と、所領全体を売却する地主への奨励金を定めた。前後の土地法とあわせ、アイルランドの農地の大半を自作農に移し、地主制度を終わらせた。"
+   }
+  },
+  {
+   "year": 1904,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Abbey Theatre opens",
+    "ko": "애비 극장 개관",
+    "zh": "阿比剧院开幕",
+    "ja": "アビー劇場の開場"
+   },
+   "description": {
+    "en": "W. B. Yeats, Lady Gregory and colleagues opened the Abbey Theatre in Dublin in December 1904 as a national theatre for Irish plays. It staged works by J. M. Synge and later Seán O'Casey, some of which provoked riots, and became a centre of the Irish Literary Revival.",
+    "ko": "W. B. 예이츠와 그레고리 부인 등은 1904년 12월 아일랜드 희곡을 위한 국민 극장으로 더블린에 애비 극장을 열었다. 극장은 J. M. 싱과 훗날 숀 오케이시의 작품을 무대에 올렸는데 일부는 소동을 일으키기도 했으며, 아일랜드 문예 부흥의 중심지가 되었다.",
+    "zh": "1904年12月，叶芝、格雷戈里夫人等人在都柏林开办阿比剧院，作为上演爱尔兰戏剧的国家剧院。剧院上演了辛格及后来奥凯西的作品，其中一些曾引发骚乱，它成为爱尔兰文艺复兴的中心。",
+    "ja": "W・B・イェイツ、グレゴリー夫人らは1904年12月、アイルランドの戯曲のための国民劇場としてダブリンにアビー劇場を開いた。J・M・シングや後のショーン・オケイシーの作品を上演し、一部は騒動を引き起こしたが、アイルランド文芸復興の中心となった。"
+   }
+  },
+  {
+   "year": 1913,
+   "qid": "Q448920",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Dublin Lockout",
+    "ko": "더블린 직장 폐쇄",
+    "zh": "都柏林大停工",
+    "ja": "ダブリン・ロックアウト"
+   },
+   "description": {
+    "en": "From August 1913 to early 1914 around 20,000 workers in Dublin were locked out by employers led by William Martin Murphy for refusing to leave Jim Larkin's Irish Transport and General Workers' Union. The dispute exposed the city's appalling slums and led to the founding of the Irish Citizen Army.",
+    "ko": "1913년 8월부터 1914년 초까지 더블린의 노동자 약 2만 명이 짐 라킨의 아일랜드 운수·일반노동자 노조 탈퇴를 거부했다는 이유로 윌리엄 마틴 머피가 이끄는 고용주들에 의해 직장에서 쫓겨났다. 이 분쟁은 도시의 참혹한 빈민가 실태를 드러냈고 아일랜드 시민군 창설로 이어졌다.",
+    "zh": "1913年8月至1914年初，约两万名都柏林工人因拒绝退出吉姆·拉金领导的爱尔兰运输与一般工人工会，被以威廉·马丁·墨菲为首的雇主们关在厂门之外。这场劳资冲突暴露了城市贫民窟的悲惨状况，并促成了爱尔兰公民军的成立。",
+    "ja": "1913年8月から1914年初めにかけて、ダブリンの労働者約2万人が、ジム・ラーキンのアイルランド運輸一般労働組合からの脱退を拒んだとして、ウィリアム・マーティン・マーフィー率いる雇用主によって締め出された。この争議は市の悲惨なスラムの実態を暴き、アイルランド市民軍の創設につながった。"
+   }
+  },
+  {
+   "year": 1914,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Home Rule passed and suspended",
+    "ko": "자치법 통과와 시행 연기",
+    "zh": "地方自治法通过并被搁置",
+    "ja": "自治法の成立と施行延期"
+   },
+   "description": {
+    "en": "Amid armed Unionist resistance in Ulster and the rise of the Irish Volunteers, the Government of Ireland Act became law in September 1914 but was suspended for the duration of the First World War. John Redmond's call for Volunteers to fight for Britain split the movement, and tens of thousands of Irishmen served in the war.",
+    "ko": "얼스터 연합주의자들의 무장 저항과 아일랜드 의용군의 등장 속에 아일랜드 통치법은 1914년 9월 법률이 되었으나 제1차 세계대전 기간 동안 시행이 연기되었다. 의용군에게 영국을 위해 싸우라는 존 레드먼드의 호소는 운동을 분열시켰고, 수만 명의 아일랜드인이 전쟁에 참전했다.",
+    "zh": "在阿尔斯特联合派的武装抵制和爱尔兰志愿军兴起的背景下，《爱尔兰政府法》于1914年9月成为法律，但在第一次世界大战期间暂停实施。约翰·雷德蒙号召志愿军为英国而战，导致运动分裂，数以万计的爱尔兰人投身战争。",
+    "ja": "アルスターのユニオニストの武装抵抗とアイルランド義勇軍の台頭の中、アイルランド統治法は1914年9月に成立したが、第一次世界大戦の期間中は施行が延期された。義勇軍に英国のために戦うよう求めたジョン・レドモンドの呼びかけは運動を分裂させ、数万人のアイルランド人が従軍した。"
+   }
+  },
+  {
+   "year": 1915,
+   "qid": "Q5551560",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sinking of the Lusitania",
+    "ko": "루시타니아호 침몰",
+    "zh": "卢西塔尼亚号沉没",
+    "ja": "ルシタニア号の撃沈"
+   },
+   "description": {
+    "en": "On 7 May 1915 a German U-boat torpedoed the Cunard liner Lusitania off the Old Head of Kinsale in County Cork, and nearly 1,200 people died. Survivors and bodies were brought to Queenstown (Cobh), and the sinking helped turn American opinion against Germany.",
+    "ko": "1915년 5월 7일 독일 잠수함이 코크주 킨세일 올드 헤드 앞바다에서 커나드 여객선 루시타니아호를 어뢰로 격침해 1,200명 가까이 숨졌다. 생존자와 시신은 퀸스타운(코브)으로 옮겨졌으며, 이 사건은 미국 여론을 반독일로 돌리는 데 영향을 주었다.",
+    "zh": "1915年5月7日，一艘德国潜艇在科克郡金塞尔老岬外海用鱼雷击沉丘纳德公司的邮轮卢西塔尼亚号，近1200人遇难。幸存者和遇难者遗体被运往昆士敦（科夫），这一事件促使美国舆论转向反德。",
+    "ja": "1915年5月7日、ドイツのUボートがコーク県キンセール岬沖でキュナード社の客船ルシタニア号を雷撃し、1200人近くが死亡した。生存者と遺体はクイーンズタウン（コーヴ）に運ばれ、この撃沈は米国の世論を反独へと傾けた。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": "Q193689",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Easter Rising",
+    "ko": "부활절 봉기",
+    "zh": "复活节起义",
+    "ja": "イースター蜂起"
+   },
+   "description": {
+    "en": "On Easter Monday, 24 April 1916, the Irish Volunteers and Irish Citizen Army seized the General Post Office and other sites in Dublin, and Patrick Pearse read the Proclamation of the Irish Republic. The rising was crushed within a week, but the execution of fifteen men, including its leaders, in May turned public opinion toward separatism.",
+    "ko": "1916년 4월 24일 부활절 월요일, 아일랜드 의용군과 아일랜드 시민군이 더블린 중앙우체국 등을 점거하고 패트릭 피어스가 아일랜드 공화국 선언문을 낭독했다. 봉기는 일주일 만에 진압되었지만, 5월에 지도자들을 포함한 15명이 처형되면서 여론은 분리 독립 쪽으로 돌아섰다.",
+    "zh": "1916年4月24日复活节星期一，爱尔兰志愿军和爱尔兰公民军占领都柏林邮政总局等地，帕特里克·皮尔斯宣读《爱尔兰共和国宣言》。起义在一周内被镇压，但5月包括领导人在内的15人遭处决，使民意转向支持脱离英国。",
+    "ja": "1916年4月24日のイースター・マンデー、アイルランド義勇軍とアイルランド市民軍はダブリン中央郵便局などを占拠し、パトリック・ピアースがアイルランド共和国宣言を読み上げた。蜂起は1週間で鎮圧されたが、5月に指導者を含む15人が処刑されたことで世論は分離独立へと傾いた。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Sinn Féin landslide",
+    "ko": "신페인의 압승",
+    "zh": "新芬党大胜",
+    "ja": "シン・フェイン党の圧勝"
+   },
+   "description": {
+    "en": "After Britain's attempt to extend conscription to Ireland in 1918 provoked mass resistance, Sinn Féin won 73 of Ireland's 105 seats in the December 1918 general election. The Irish Parliamentary Party collapsed, and the new Sinn Féin MPs refused to sit at Westminster.",
+    "ko": "1918년 영국이 아일랜드에 징병제를 확대하려 하자 대중적 저항이 일어났고, 이어 12월 총선에서 신페인은 아일랜드 105개 의석 가운데 73석을 차지했다. 아일랜드 의회당은 몰락했으며, 신페인 의원들은 웨스트민스터 등원을 거부했다.",
+    "zh": "1918年英国试图在爱尔兰推行征兵制，激起大规模抵制。在同年12月的大选中，新芬党赢得爱尔兰105个议席中的73席。爱尔兰议会党随之崩溃，新当选的新芬党议员拒绝前往威斯敏斯特就职。",
+    "ja": "1918年に英国がアイルランドへの徴兵制拡大を図ると大規模な抵抗が起き、12月の総選挙でシン・フェイン党はアイルランドの105議席中73議席を獲得した。アイルランド議会党は崩壊し、シン・フェインの議員たちはウェストミンスターへの登院を拒否した。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "First Dáil and War of Independence",
+    "ko": "제1대 하원과 독립전쟁",
+    "zh": "第一届众议院与独立战争",
+    "ja": "第一次ドイルと独立戦争"
+   },
+   "description": {
+    "en": "On 21 January 1919 Sinn Féin's elected members met in Dublin's Mansion House as Dáil Éireann and declared independence; the same day IRA volunteers killed two policemen at Soloheadbeg. The guerrilla War of Independence followed, with Michael Collins directing intelligence and the IRA's flying columns fighting the RIC, Black and Tans and Auxiliaries until the truce of July 1921.",
+    "ko": "1919년 1월 21일 신페인 당선자들은 더블린 맨션 하우스에서 아일랜드 하원(다일 에런)으로 모여 독립을 선언했고, 같은 날 IRA 대원들이 솔로헤드베그에서 경찰관 두 명을 살해했다. 이어 게릴라 독립전쟁이 벌어져, 마이클 콜린스가 정보전을 지휘하고 IRA 기동대가 왕립 아일랜드 경찰대, 블랙 앤드 탠스, 보조대와 싸웠으며 1921년 7월 휴전으로 끝났다.",
+    "zh": "1919年1月21日，新芬党当选议员在都柏林市长官邸以爱尔兰众议院名义集会并宣布独立；同日，爱尔兰共和军成员在索洛黑德贝格打死两名警察。随后爆发游击式独立战争，迈克尔·柯林斯指挥情报战，共和军机动纵队与皇家爱尔兰警队、“黑棕部队”及辅助部队作战，直到1921年7月停火。",
+    "ja": "1919年1月21日、シン・フェインの当選者たちはダブリンのマンション・ハウスにドイル・エアランとして集まり独立を宣言した。同日、IRAの隊員がソロヘッドベグで警官2人を殺害した。続いてゲリラ式の独立戦争が起こり、マイケル・コリンズが情報戦を指揮し、IRAの遊撃隊が王立アイルランド警察隊、ブラック・アンド・タンズ、補助部隊と戦い、1921年7月の休戦に至った。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": "Q886799",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Bloody Sunday",
+    "ko": "피의 일요일",
+    "zh": "血腥星期日",
+    "ja": "血の日曜日事件"
+   },
+   "description": {
+    "en": "On 21 November 1920 Michael Collins' 'Squad' killed British intelligence agents and officers across Dublin in the morning. That afternoon Crown forces opened fire on the crowd at a Gaelic football match in Croke Park, killing fourteen people. The day marked a peak of violence in the War of Independence.",
+    "ko": "1920년 11월 21일 아침, 마이클 콜린스의 '분대'가 더블린 곳곳에서 영국 정보 요원과 장교들을 살해했다. 그날 오후 영국 왕실 군경은 크로크 파크의 게일릭 풋볼 경기장 관중에게 발포해 14명을 죽였다. 이날은 독립전쟁 폭력의 정점이었다.",
+    "zh": "1920年11月21日上午，迈克尔·柯林斯的“小队”在都柏林各处刺杀英国情报人员和军官。当天下午，英国王室军警向克罗克公园盖尔式足球赛的观众开枪，打死14人。这一天成为独立战争暴力的顶峰。",
+    "ja": "1920年11月21日朝、マイケル・コリンズの「スクワッド」はダブリン各地で英国の情報部員や将校を殺害した。同日午後、英国の治安部隊はクローク・パークのゲーリック・フットボールの試合観客に発砲し、14人を殺した。この日は独立戦争における暴力の頂点となった。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": "Q6408028",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Kilmichael Ambush and Burning of Cork",
+    "ko": "킬마이클 매복과 코크 방화",
+    "zh": "基尔迈克尔伏击与科克焚城",
+    "ja": "キルマイケルの待ち伏せとコーク焼き討ち"
+   },
+   "description": {
+    "en": "On 28 November 1920 Tom Barry's IRA flying column ambushed a patrol of Auxiliaries at Kilmichael in County Cork, killing seventeen. Martial law was declared in Munster, and on 11 December Crown forces burned much of Cork city centre in reprisal.",
+    "ko": "1920년 11월 28일 톰 배리가 이끄는 IRA 기동대가 코크주 킬마이클에서 보조대 순찰대를 매복 공격해 17명을 죽였다. 먼스터에 계엄령이 선포되었고, 12월 11일 영국 왕실 군경은 보복으로 코크 시내 중심부의 상당 부분을 불태웠다.",
+    "zh": "1920年11月28日，汤姆·巴里率领的爱尔兰共和军机动纵队在科克郡基尔迈克尔伏击辅助部队巡逻队，打死17人。芒斯特随即实行戒严，12月11日英国王室军警为报复焚毁了科克市中心的大片地区。",
+    "ja": "1920年11月28日、トム・バリー率いるIRA遊撃隊はコーク県キルマイケルで補助部隊の巡回隊を待ち伏せし、17人を殺害した。マンスターには戒厳令が敷かれ、12月11日には英国の治安部隊が報復としてコーク市中心部の大部分を焼き払った。"
+   }
+  },
+  {
+   "year": 1921,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Anglo-Irish Treaty",
+    "ko": "영국-아일랜드 조약",
+    "zh": "英爱条约",
+    "ja": "英愛条約"
+   },
+   "description": {
+    "en": "After the Government of Ireland Act 1920 created Northern Ireland, a truce in July 1921 led to negotiations in London. On 6 December 1921 Irish delegates including Michael Collins and Arthur Griffith signed the Treaty creating an Irish Free State as a dominion with an oath to the Crown; the Dáil narrowly approved it in January 1922, splitting Sinn Féin.",
+    "ko": "1920년 아일랜드 통치법으로 북아일랜드가 생긴 뒤, 1921년 7월 휴전을 거쳐 런던에서 협상이 열렸다. 1921년 12월 6일 마이클 콜린스와 아서 그리피스 등 아일랜드 대표단은 국왕에 대한 충성 서약을 포함한 자치령 아일랜드 자유국 수립 조약에 서명했고, 하원은 1922년 1월 근소한 차이로 이를 승인했으나 신페인은 분열했다.",
+    "zh": "1920年《爱尔兰政府法》设立北爱尔兰后，1921年7月双方停火并在伦敦举行谈判。1921年12月6日，包括迈克尔·柯林斯和阿瑟·格里菲斯在内的爱尔兰代表签署条约，以宣誓效忠王室为条件成立自治领爱尔兰自由邦；众议院于1922年1月以微弱多数批准条约，新芬党因此分裂。",
+    "ja": "1920年のアイルランド統治法で北アイルランドが設けられた後、1921年7月の休戦を経てロンドンで交渉が行われた。1921年12月6日、マイケル・コリンズやアーサー・グリフィスらアイルランド代表は、国王への忠誠宣誓を伴う自治領アイルランド自由国の創設条約に署名した。ドイルは1922年1月に僅差で承認したが、シン・フェインは分裂した。"
+   }
+  },
+  {
+   "year": 1922,
+   "qid": "Q31747",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Irish Free State established",
+    "ko": "아일랜드 자유국 수립",
+    "zh": "爱尔兰自由邦成立",
+    "ja": "アイルランド自由国の成立"
+   },
+   "description": {
+    "en": "British forces handed over Dublin Castle in January 1922, and on 6 December 1922 the Irish Free State formally came into being with its own constitution, covering 26 counties. Northern Ireland immediately opted out and remained in the United Kingdom.",
+    "ko": "1922년 1월 영국군은 더블린 성을 넘겨주었고, 1922년 12월 6일 26개 주를 영역으로 하는 아일랜드 자유국이 자체 헌법과 함께 공식 출범했다. 북아일랜드는 즉시 이탈을 선택해 연합왕국에 남았다.",
+    "zh": "1922年1月英国移交都柏林城堡，1922年12月6日，管辖26个郡的爱尔兰自由邦依据自己的宪法正式成立。北爱尔兰随即选择退出，留在联合王国内。",
+    "ja": "1922年1月に英国はダブリン城を引き渡し、1922年12月6日、26県を領域とするアイルランド自由国が独自の憲法とともに正式に発足した。北アイルランドは直ちに離脱を選び、連合王国にとどまった。"
+   }
+  },
+  {
+   "year": 1922,
+   "qid": "Q748042",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Irish Civil War",
+    "ko": "아일랜드 내전",
+    "zh": "爱尔兰内战",
+    "ja": "アイルランド内戦"
+   },
+   "description": {
+    "en": "In June 1922 Free State forces shelled anti-Treaty IRA men occupying the Four Courts in Dublin, starting a civil war between supporters and opponents of the Treaty. Michael Collins was killed in an ambush at Béal na Bláth in August, and the Free State's executions of prisoners left lasting bitterness. The anti-Treaty side ended its campaign in May 1923.",
+    "ko": "1922년 6월 자유국군이 더블린 포 코츠를 점거한 조약 반대파 IRA를 포격하면서 조약 찬성파와 반대파 사이의 내전이 시작되었다. 8월 마이클 콜린스는 벨 나 블라에서 매복 공격으로 숨졌고, 자유국 정부의 포로 처형은 오랜 원한을 남겼다. 조약 반대파는 1923년 5월 전투를 중단했다.",
+    "zh": "1922年6月，自由邦军队炮击占据都柏林四法院的反条约派共和军，条约支持者与反对者之间的内战由此爆发。8月迈克尔·柯林斯在贝尔纳布拉遭伏击身亡，自由邦处决俘虏的做法留下了长久的怨恨。反条约派于1923年5月停止作战。",
+    "ja": "1922年6月、自由国軍がダブリンのフォー・コーツを占拠した条約反対派IRAを砲撃し、条約賛成派と反対派の内戦が始まった。8月にマイケル・コリンズはベール・ナ・ブラーで待ち伏せにより死亡し、自由国による捕虜処刑は長く続く遺恨を残した。条約反対派は1923年5月に戦闘を停止した。"
+   }
+  },
+  {
+   "year": 1923,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Yeats wins Nobel Prize",
+    "ko": "예이츠, 노벨 문학상 수상",
+    "zh": "叶芝获诺贝尔文学奖",
+    "ja": "イェイツ、ノーベル文学賞受賞"
+   },
+   "description": {
+    "en": "In 1923 W. B. Yeats became the first Irish winner of the Nobel Prize in Literature, the same year the new Free State joined the League of Nations. Yeats was also a senator of the Free State, and Ireland later produced further laureates including George Bernard Shaw, Samuel Beckett and Seamus Heaney.",
+    "ko": "1923년 W. B. 예이츠는 아일랜드인 최초로 노벨 문학상을 받았으며, 같은 해 신생 자유국은 국제연맹에 가입했다. 예이츠는 자유국 상원의원이기도 했으며, 아일랜드는 이후 조지 버나드 쇼·사뮈엘 베케트·셰이머스 히니 등 수상자를 더 배출했다.",
+    "zh": "1923年，叶芝成为首位获得诺贝尔文学奖的爱尔兰人；同年，新生的自由邦加入国际联盟。叶芝也是自由邦参议员，此后爱尔兰又出现了萧伯纳、贝克特和希尼等获奖者。",
+    "ja": "1923年、W・B・イェイツはアイルランド人として初めてノーベル文学賞を受賞し、同年、新生の自由国は国際連盟に加盟した。イェイツは自由国の上院議員でもあり、アイルランドはその後もバーナード・ショー、サミュエル・ベケット、シェイマス・ヒーニーらの受賞者を生んだ。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Shannon Scheme at Ardnacrusha",
+    "ko": "아드나크러셔 섀넌 수력발전",
+    "zh": "阿德纳克鲁沙香农水电工程",
+    "ja": "アードナクラシャのシャノン水力発電"
+   },
+   "description": {
+    "en": "The Ardnacrusha hydroelectric station on the River Shannon, built by the German firm Siemens, began generating in 1929. It was then one of the largest hydroelectric plants in the world and, with the new Electricity Supply Board, became a symbol of the young state's ambition to modernise.",
+    "ko": "독일 지멘스사가 건설한 섀넌강의 아드나크러셔 수력발전소가 1929년 가동을 시작했다. 당시 세계 최대급의 수력발전소였던 이 시설은 새로 설립된 전력공급청과 함께 신생 국가의 근대화 의지를 상징했다.",
+    "zh": "由德国西门子公司承建的香农河阿德纳克鲁沙水电站于1929年开始发电。它当时是世界上最大的水电站之一，与新成立的电力供应局一起，成为年轻国家致力于现代化的象征。",
+    "ja": "ドイツのシーメンス社が建設したシャノン川のアードナクラシャ水力発電所は1929年に発電を開始した。当時世界最大級の水力発電所であり、新設の電力供給公社とともに、若い国家の近代化への意欲の象徴となった。"
+   }
+  },
+  {
+   "year": 1932,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fianna Fáil takes power; Economic War",
+    "ko": "피어너 펄 집권과 경제 전쟁",
+    "zh": "共和党执政与经济战争",
+    "ja": "フィアナ・フォイルの政権獲得と経済戦争"
+   },
+   "description": {
+    "en": "Éamon de Valera's Fianna Fáil, founded by anti-Treaty republicans in 1926, won the 1932 election, a peaceful transfer of power only a decade after the Civil War. His government withheld land annuities owed to Britain, setting off a six-year 'Economic War' of tariffs that hit Irish cattle exports hard. The same year Dublin hosted the Eucharistic Congress.",
+    "ko": "1926년 조약 반대파 공화주의자들이 창당한 에이먼 데 벌레라의 피어너 펄은 1932년 선거에서 승리했으며, 이는 내전이 끝난 지 10년 만의 평화적 정권 교체였다. 그의 정부가 영국에 지불하던 토지 연부금을 보류하자 6년에 걸친 관세 '경제 전쟁'이 벌어져 아일랜드의 소 수출이 큰 타격을 입었다. 같은 해 더블린에서는 성체 대회가 열렸다.",
+    "zh": "1926年由反条约派共和主义者创立的德瓦莱拉的共和党（芬尼亚党）赢得1932年大选，这是内战结束仅十年后的一次和平政权交接。其政府停止向英国支付土地年金，引发长达六年的关税“经济战争”，使爱尔兰的牛只出口遭受重创。同年都柏林举办了圣体大会。",
+    "ja": "1926年に条約反対派の共和主義者が結成したエイモン・デ・ヴァレラのフィアナ・フォイルは1932年の選挙で勝利し、内戦終結からわずか10年での平和的な政権交代となった。政府が英国への土地年賦金の支払いを停止したことで6年に及ぶ関税の「経済戦争」が起こり、アイルランドの牛の輸出は大打撃を受けた。同年ダブリンでは聖体大会が開かれた。"
+   }
+  },
+  {
+   "year": 1937,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Constitution of Ireland",
+    "ko": "아일랜드 헌법 제정",
+    "zh": "《爱尔兰宪法》颁布",
+    "ja": "アイルランド憲法の制定"
+   },
+   "description": {
+    "en": "Drafted under de Valera, the Constitution of Ireland (Bunreacht na hÉireann) was approved by referendum on 1 July 1937 and came into force on 29 December. It renamed the state Éire, or Ireland in English, created the office of President, and recognised the 'special position' of the Catholic Church, a clause removed in 1973.",
+    "ko": "데 벌레라 주도로 기초된 아일랜드 헌법(분러흐트 너 헤런)은 1937년 7월 1일 국민투표로 승인되어 12월 29일 발효되었다. 헌법은 국호를 에이레(영어로 아일랜드)로 바꾸고 대통령직을 신설했으며, 가톨릭교회의 '특별한 지위'를 인정했는데 이 조항은 1973년에 삭제되었다.",
+    "zh": "在德瓦莱拉主持下起草的《爱尔兰宪法》于1937年7月1日经公投通过，12月29日生效。宪法将国名定为Éire（英文为Ireland），设立总统职位，并承认天主教会的“特殊地位”，该条款于1973年被删除。",
+    "ja": "デ・ヴァレラの主導で起草されたアイルランド憲法（ブンレフト・ナ・ヘーレン）は1937年7月1日の国民投票で承認され、12月29日に施行された。憲法は国名をエール（英語ではアイルランド）とし、大統領職を設け、カトリック教会の「特別な地位」を認めたが、この条項は1973年に削除された。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty Ports returned; first President",
+    "ko": "조약 항구 반환과 초대 대통령",
+    "zh": "条约港归还与首任总统",
+    "ja": "条約港の返還と初代大統領"
+   },
+   "description": {
+    "en": "The Anglo-Irish Trade Agreement of April 1938 ended the Economic War and returned the three 'Treaty Ports' still held by the Royal Navy. In June the Gaelic scholar Douglas Hyde, a Protestant, was inaugurated as the first President of Ireland. Control of the ports made neutrality in the coming war possible.",
+    "ko": "1938년 4월 영국-아일랜드 무역 협정으로 경제 전쟁이 끝나고 영국 해군이 보유하던 세 개의 '조약 항구'가 반환되었다. 6월에는 프로테스탄트인 게일어 학자 더글러스 하이드가 아일랜드 초대 대통령으로 취임했다. 항구의 회수는 다가올 전쟁에서 중립을 가능하게 했다.",
+    "zh": "1938年4月的《英爱贸易协定》结束了经济战争，并归还了皇家海军仍占据的三个“条约港”。6月，新教徒出身的盖尔语学者道格拉斯·海德就任爱尔兰首任总统。收回港口使爱尔兰在即将到来的战争中保持中立成为可能。",
+    "ja": "1938年4月の英愛貿易協定で経済戦争は終わり、英国海軍が保持していた3つの「条約港」が返還された。6月にはプロテスタントのゲール語学者ダグラス・ハイドが初代大統領に就任した。港の回復は、迫る戦争での中立を可能にした。"
+   }
+  },
+  {
+   "year": 1939,
+   "qid": "Q2337549",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Emergency: wartime neutrality",
+    "ko": "비상사태: 전시 중립",
+    "zh": "“紧急状态”：战时中立",
+    "ja": "非常事態：戦時中立"
+   },
+   "description": {
+    "en": "When the Second World War began in September 1939, Ireland declared neutrality and a state of emergency known simply as 'The Emergency', with censorship and rationing. German bombs fell on Dublin's North Strand in 1941, while many thousands of Irish citizens served in the British forces or worked in British industry.",
+    "ko": "1939년 9월 제2차 세계대전이 시작되자 아일랜드는 중립과 함께 흔히 '비상사태'로 불리는 국가 비상을 선포하고 검열과 배급제를 시행했다. 1941년 독일 폭탄이 더블린 노스 스트랜드에 떨어졌고, 수많은 아일랜드 시민이 영국군에 복무하거나 영국 산업에서 일했다.",
+    "zh": "1939年9月第二次世界大战爆发后，爱尔兰宣布中立，并实施被简称为“紧急状态”的国家紧急状态，实行审查和配给制度。1941年德国炸弹落在都柏林北斯特兰德，同时成千上万的爱尔兰公民在英军服役或在英国工厂工作。",
+    "ja": "1939年9月に第二次世界大戦が始まると、アイルランドは中立と、単に「非常事態」と呼ばれる国家緊急事態を宣言し、検閲と配給制を実施した。1941年にはドイツの爆弾がダブリンのノース・ストランドに落ち、一方で何千人ものアイルランド市民が英軍に従軍し、英国の工場で働いた。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Republic of Ireland Act",
+    "ko": "아일랜드 공화국법 발효",
+    "zh": "《爱尔兰共和国法》生效",
+    "ja": "アイルランド共和国法の施行"
+   },
+   "description": {
+    "en": "The Republic of Ireland Act, passed by John A. Costello's inter-party government in 1948, came into force on Easter Monday, 18 April 1949. It declared the state a republic and removed the last functions of the British king, taking Ireland out of the Commonwealth.",
+    "ko": "존 A. 코스텔로의 연립 정부가 1948년에 통과시킨 아일랜드 공화국법은 1949년 4월 18일 부활절 월요일에 발효되었다. 이 법은 국가를 공화국으로 선언하고 영국 국왕의 마지막 기능을 없애 아일랜드를 영연방에서 탈퇴시켰다.",
+    "zh": "约翰·A·科斯特洛的多党联合政府于1948年通过《爱尔兰共和国法》，该法于1949年4月18日复活节星期一生效。它宣布国家为共和国，取消了英国国王的最后职能，使爱尔兰退出英联邦。",
+    "ja": "ジョン・A・コステロの連立政権が1948年に可決したアイルランド共和国法は、1949年4月18日のイースター・マンデーに施行された。同法は国家を共和国と宣言し、英国王の最後の機能を廃止して、アイルランドを英連邦から離脱させた。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ireland joins the United Nations",
+    "ko": "아일랜드 유엔 가입",
+    "zh": "爱尔兰加入联合国",
+    "ja": "アイルランドの国連加盟"
+   },
+   "description": {
+    "en": "After years of Soviet vetoes, Ireland was admitted to the United Nations on 14 December 1955. Irish troops have served in UN peacekeeping missions continuously since 1958, notably in the Congo and Lebanon, making peacekeeping a cornerstone of Irish foreign policy.",
+    "ko": "수년간 소련의 거부권에 막혔던 아일랜드는 1955년 12월 14일 유엔에 가입했다. 아일랜드군은 1958년부터 콩고와 레바논 등에서 끊임없이 유엔 평화유지 활동에 참여해 왔으며, 평화유지는 아일랜드 외교 정책의 초석이 되었다.",
+    "zh": "在苏联多年否决之后，爱尔兰于1955年12月14日加入联合国。自1958年起，爱尔兰军队持续参加联合国维和行动，尤其是在刚果和黎巴嫩，维和成为爱尔兰外交政策的基石。",
+    "ja": "長年ソ連の拒否権に阻まれた後、アイルランドは1955年12月14日に国連に加盟した。アイルランド軍は1958年以来、コンゴやレバノンなどで途切れることなく国連平和維持活動に参加しており、平和維持はアイルランド外交の柱となっている。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Whitaker and the turn to free trade",
+    "ko": "휘태커와 자유무역으로의 전환",
+    "zh": "惠特克与转向自由贸易",
+    "ja": "ウィテカーと自由貿易への転換"
+   },
+   "description": {
+    "en": "Facing stagnation and heavy emigration in the 1950s, civil servant T. K. Whitaker produced the study 'Economic Development' in 1958, which became the basis of Seán Lemass's First Programme for Economic Expansion. Ireland abandoned protectionism, courted foreign investment with tax incentives and grew rapidly in the 1960s.",
+    "ko": "1950년대 침체와 대규모 이민 유출에 직면한 공무원 T. K. 휘태커는 1958년 보고서 '경제 개발'을 내놓았고, 이는 숀 러매스의 제1차 경제 확장 계획의 토대가 되었다. 아일랜드는 보호무역주의를 버리고 세제 혜택으로 외국인 투자를 유치하며 1960년대에 빠르게 성장했다.",
+    "zh": "面对1950年代的经济停滞和大规模移民，公务员T·K·惠特克于1958年发表《经济发展》研究报告，成为肖恩·莱马斯《第一个经济扩张计划》的基础。爱尔兰放弃贸易保护主义，以税收优惠吸引外资，在1960年代实现快速增长。",
+    "ja": "1950年代の停滞と大量の移民流出に直面し、官僚T・K・ウィテカーは1958年に報告書『経済開発』をまとめ、これがショーン・レマスの第一次経済拡大計画の基礎となった。アイルランドは保護主義を捨て、税制優遇で外国投資を誘致し、1960年代に急成長した。"
+   }
+  },
+  {
+   "year": 1961,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Irish television begins",
+    "ko": "아일랜드 텔레비전 방송 개시",
+    "zh": "爱尔兰电视开播",
+    "ja": "アイルランドのテレビ放送開始"
+   },
+   "description": {
+    "en": "The national broadcaster's television service, Telefís Éireann, went on air on 31 December 1961. Programmes such as 'The Late Late Show', first broadcast in 1962, opened public debate on topics long avoided and helped modernise Irish society.",
+    "ko": "국영 방송의 텔레비전 서비스 텔레피시 에런이 1961년 12월 31일 방송을 시작했다. 1962년 처음 방송된 '레이트 레이트 쇼' 같은 프로그램은 오랫동안 금기시되던 주제에 대한 공개 토론의 장을 열며 아일랜드 사회의 근대화에 기여했다.",
+    "zh": "国家广播机构的电视服务——爱尔兰电视台于1961年12月31日开播。1962年首播的《深夜秀》等节目开启了对长期回避话题的公开讨论，推动了爱尔兰社会的现代化。",
+    "ja": "国営放送局のテレビ放送テレフィス・エアランは1961年12月31日に開局した。1962年に始まった『レイト・レイト・ショー』などの番組は、長く避けられてきた話題について公の議論を開き、アイルランド社会の近代化を促した。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "John F. Kennedy visits Ireland",
+    "ko": "존 F. 케네디의 아일랜드 방문",
+    "zh": "约翰·F·肯尼迪访问爱尔兰",
+    "ja": "ジョン・F・ケネディのアイルランド訪問"
+   },
+   "description": {
+    "en": "In June 1963 US President John F. Kennedy, great-grandson of a Famine emigrant from County Wexford, made a triumphant four-day visit to Ireland and addressed the Oireachtas. The visit symbolised the success of the Irish diaspora and the country's new international confidence.",
+    "ko": "1963년 6월 웩스퍼드주 출신 대기근 이민자의 증손자인 미국 대통령 존 F. 케네디가 4일간 아일랜드를 방문해 열렬한 환영을 받고 의회에서 연설했다. 이 방문은 아일랜드 이민 사회의 성공과 국가의 새로운 국제적 자신감을 상징했다.",
+    "zh": "1963年6月，祖上是韦克斯福德郡大饥荒移民的美国总统约翰·F·肯尼迪对爱尔兰进行了为期四天、备受欢迎的访问，并在议会发表演讲。这次访问象征着爱尔兰海外移民的成功和国家新的国际自信。",
+    "ja": "1963年6月、ウェックスフォード県出身の大飢饉移民のひ孫である米大統領ジョン・F・ケネディは4日間アイルランドを訪問して熱烈な歓迎を受け、議会で演説した。この訪問はアイルランド系移民の成功と国の新たな国際的自信を象徴した。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Free secondary education",
+    "ko": "중등교육 무상화",
+    "zh": "免费中等教育",
+    "ja": "中等教育の無償化"
+   },
+   "description": {
+    "en": "Announced by Education Minister Donogh O'Malley in 1966, free secondary education and school transport were introduced in September 1967. Participation in second-level schooling rose sharply, creating the educated workforce that later attracted foreign investment.",
+    "ko": "1966년 도너 오멀리 교육부 장관이 발표한 중등교육 무상화와 통학 버스 지원이 1967년 9월 시행되었다. 중등학교 진학률이 크게 높아져, 훗날 외국인 투자를 끌어들인 교육받은 노동력이 형성되었다.",
+    "zh": "教育部长多诺·奥马利于1966年宣布的免费中等教育及校车服务于1967年9月开始实施。中学入学率大幅上升，培养出后来吸引外国投资的高素质劳动力。",
+    "ja": "1966年にドナー・オマリー教育相が発表した中等教育の無償化とスクールバスは、1967年9月に導入された。中等教育への進学率は急上昇し、後に外国投資を引きつける教育を受けた労働力が生まれた。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": "Q1726693",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Arms Crisis",
+    "ko": "무기 위기",
+    "zh": "武器危机",
+    "ja": "武器危機"
+   },
+   "description": {
+    "en": "As violence erupted in Northern Ireland, Taoiseach Jack Lynch dismissed ministers Charles Haughey and Neil Blaney in May 1970 over an alleged plot to import arms for northern nationalists. Both were cleared or acquitted, but the affair split Fianna Fáil and shaped the Republic's cautious stance toward the Troubles.",
+    "ko": "북아일랜드에서 폭력 사태가 분출하던 1970년 5월, 잭 린치 총리는 북부 민족주의자들을 위한 무기 반입 음모 의혹으로 찰스 호히와 닐 블레이니 장관을 해임했다. 두 사람은 혐의를 벗거나 무죄 판결을 받았지만, 이 사건은 피어너 펄을 분열시키고 북아일랜드 분쟁에 대한 공화국의 신중한 입장을 형성했다.",
+    "zh": "随着北爱尔兰暴力事件爆发，1970年5月总理杰克·林奇以涉嫌密谋为北方民族主义者进口武器为由，解除了查尔斯·霍伊和尼尔·布兰尼的部长职务。两人后来或被撤销指控或被判无罪，但此事导致共和党分裂，也塑造了爱尔兰共和国对北爱冲突的谨慎立场。",
+    "ja": "北アイルランドで暴力が噴出する中、1970年5月、ジャック・リンチ首相は北部の民族主義者のための武器輸入計画の疑いで、チャールズ・ホーヒーとニール・ブレイニーの両大臣を解任した。2人は訴追を取り下げられるか無罪となったが、事件はフィアナ・フォイルを分裂させ、北アイルランド紛争に対する共和国の慎重な姿勢を形づくった。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Ireland joins the European Communities",
+    "ko": "유럽 공동체 가입",
+    "zh": "加入欧洲共同体",
+    "ja": "欧州共同体への加盟"
+   },
+   "description": {
+    "en": "After 83% voted in favour in a 1972 referendum, Ireland joined the European Economic Community on 1 January 1973, together with the UK and Denmark. Membership brought agricultural subsidies, regional funds and access to a large market, reducing dependence on Britain and later underpinning the Celtic Tiger.",
+    "ko": "1972년 국민투표에서 83%의 찬성을 얻은 뒤 아일랜드는 1973년 1월 1일 영국·덴마크와 함께 유럽경제공동체(EEC)에 가입했다. 가입으로 농업 보조금, 지역 개발 기금, 거대 시장 접근이 가능해져 영국 의존도가 줄었고, 훗날 켈틱 타이거의 토대가 되었다.",
+    "zh": "在1972年公投中以83%的赞成票通过后，爱尔兰于1973年1月1日与英国、丹麦一同加入欧洲经济共同体。入盟带来了农业补贴、地区发展基金和广阔市场，减少了对英国的依赖，也为后来的“凯尔特之虎”奠定了基础。",
+    "ja": "1972年の国民投票で83%が賛成した後、アイルランドは1973年1月1日に英国・デンマークとともに欧州経済共同体に加盟した。加盟は農業補助金、地域基金、巨大市場へのアクセスをもたらして英国への依存を減らし、後のケルトの虎の土台となった。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Dublin and Monaghan bombings",
+    "ko": "더블린·모너핸 폭탄 테러",
+    "zh": "都柏林与莫纳汉爆炸案",
+    "ja": "ダブリン・モナハン爆弾事件"
+   },
+   "description": {
+    "en": "On 17 May 1974 car bombs exploded in Dublin city centre during the evening rush hour and in Monaghan town, killing 33 civilians and an unborn child. It was the deadliest attack of the Troubles; the loyalist Ulster Volunteer Force claimed responsibility in 1993, and allegations of British security force collusion remain disputed.",
+    "ko": "1974년 5월 17일 저녁 퇴근 시간에 더블린 도심과 모너핸 읍에서 차량 폭탄이 터져 민간인 33명과 태아 한 명이 숨졌다. 북아일랜드 분쟁 기간 중 가장 많은 사망자를 낸 공격이었다. 왕당파 무장 조직 얼스터 의용군(UVF)이 1993년 범행을 인정했으며, 영국 보안 당국의 공모 의혹은 여전히 논쟁 중이다.",
+    "zh": "1974年5月17日傍晚高峰时段，都柏林市中心和莫纳汉镇发生汽车炸弹爆炸，造成33名平民和一名未出生婴儿死亡。这是北爱冲突期间死亡人数最多的袭击；效忠派组织阿尔斯特志愿军于1993年承认责任，而有关英国安全部门共谋的指控至今仍有争议。",
+    "ja": "1974年5月17日夕方のラッシュ時、ダブリン中心部とモナハンの町で自動車爆弾が爆発し、民間人33人と胎児1人が死亡した。北アイルランド紛争で最も死者の多い攻撃であった。ロイヤリスト武装組織アルスター義勇軍（UVF）が1993年に犯行を認め、英国治安当局の共謀疑惑は今も争われている。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q17984806",
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Pope John Paul II visits Ireland",
+    "ko": "교황 요한 바오로 2세 방문",
+    "zh": "教宗若望·保禄二世访问爱尔兰",
+    "ja": "教皇ヨハネ・パウロ2世の訪問"
+   },
+   "description": {
+    "en": "From 29 September to 1 October 1979 Pope John Paul II made the first papal visit to Ireland, celebrating Mass for over a million people in Dublin's Phoenix Park and visiting Drogheda, Galway, Knock and Limerick. The visit marked a high point of Catholic influence before rapid secularisation in later decades.",
+    "ko": "1979년 9월 29일부터 10월 1일까지 교황 요한 바오로 2세는 교황으로서 처음 아일랜드를 방문해 더블린 피닉스 파크에서 100만 명이 넘는 신자와 미사를 봉헌하고 드로이다·골웨이·노크·리머릭을 찾았다. 이 방문은 이후 수십 년간의 급속한 세속화 이전, 가톨릭 영향력의 정점이었다.",
+    "zh": "1979年9月29日至10月1日，教宗若望·保禄二世首次以教宗身份访问爱尔兰，在都柏林凤凰公园为逾百万人主持弥撒，并访问德罗赫达、戈尔韦、诺克和利默里克。这次访问标志着天主教影响力的高峰，此后数十年社会迅速世俗化。",
+    "ja": "1979年9月29日から10月1日にかけて、教皇ヨハネ・パウロ2世は教皇として初めてアイルランドを訪れ、ダブリンのフェニックス・パークで100万人を超える人々とミサを行い、ドロヘダ、ゴールウェイ、ノック、リムリックを訪問した。この訪問は、その後数十年の急速な世俗化に先立つカトリックの影響力の頂点であった。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q113213574",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Assassination of Lord Mountbatten",
+    "ko": "마운트배튼 경 암살",
+    "zh": "蒙巴顿勋爵遇刺",
+    "ja": "マウントバッテン卿暗殺"
+   },
+   "description": {
+    "en": "On 27 August 1979 the Provisional IRA killed Lord Louis Mountbatten, a cousin of Queen Elizabeth II, with a bomb on his fishing boat at Mullaghmore, County Sligo; two boys and an elderly woman also died. The same day the IRA killed eighteen British soldiers at Warrenpoint in Northern Ireland.",
+    "ko": "1979년 8월 27일 IRA 임시파는 슬라이고주 멀러모어에서 엘리자베스 2세 여왕의 사촌인 루이스 마운트배튼 경의 낚싯배에 폭탄을 터뜨려 그를 살해했으며, 소년 두 명과 노부인 한 명도 숨졌다. 같은 날 IRA는 북아일랜드 워런포인트에서 영국군 18명을 살해했다.",
+    "zh": "1979年8月27日，爱尔兰共和军临时派在斯莱戈郡马拉莫尔用炸弹炸毁伊丽莎白二世女王的表亲路易斯·蒙巴顿勋爵的渔船，将其杀害，两名少年和一位老妇人也同时遇难。同一天，共和军在北爱尔兰沃伦波因特杀死18名英军士兵。",
+    "ja": "1979年8月27日、IRA暫定派はスライゴ県マラモアでエリザベス2世女王のいとこルイス・マウントバッテン卿の釣り船に仕掛けた爆弾で彼を殺害し、少年2人と老婦人1人も死亡した。同じ日、IRAは北アイルランドのウォレンポイントで英兵18人を殺害した。"
+   }
+  },
+  {
+   "year": 1983,
+   "qid": "Q4126745",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Eighth Amendment",
+    "ko": "제8차 헌법 개정",
+    "zh": "宪法第八修正案",
+    "ja": "憲法第8次改正"
+   },
+   "description": {
+    "en": "In September 1983 voters approved the Eighth Amendment, which recognised the right to life of the unborn equally with that of the mother and entrenched a near-total ban on abortion in the Constitution. It shaped decades of legal and political controversy until its repeal in 2018.",
+    "ko": "1983년 9월 유권자들은 태아의 생명권을 산모의 생명권과 동등하게 인정하여 헌법에 낙태의 거의 전면적 금지를 명시한 제8차 개정안을 승인했다. 이 조항은 2018년 폐지될 때까지 수십 년간 법적·정치적 논란을 낳았다.",
+    "zh": "1983年9月，选民批准宪法第八修正案，承认未出生者与母亲享有同等生命权，将近乎全面的堕胎禁令写入宪法。在2018年被废除之前，它引发了数十年的法律和政治争议。",
+    "ja": "1983年9月、有権者は胎児の生命権を母親のそれと同等に認め、人工妊娠中絶のほぼ全面禁止を憲法に定める第8次改正を承認した。この条項は2018年に廃止されるまで、数十年にわたる法的・政治的論争を生んだ。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": "Q2708643",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Anglo-Irish Agreement",
+    "ko": "영국-아일랜드 협정",
+    "zh": "英爱协定",
+    "ja": "英愛協定"
+   },
+   "description": {
+    "en": "Signed at Hillsborough on 15 November 1985 by Garret FitzGerald and Margaret Thatcher, the Anglo-Irish Agreement gave the Irish government a consultative role in Northern Ireland affairs through an intergovernmental conference. Fiercely opposed by unionists, it laid groundwork for the later peace process.",
+    "ko": "1985년 11월 15일 개럿 피츠제럴드와 마거릿 대처가 힐즈버러에서 서명한 영국-아일랜드 협정은 정부 간 회의를 통해 아일랜드 정부에 북아일랜드 문제에 대한 협의 역할을 부여했다. 연합주의자들의 격렬한 반대에도 이 협정은 훗날 평화 프로세스의 토대를 놓았다.",
+    "zh": "1985年11月15日，加勒特·菲茨杰拉德与玛格丽特·撒切尔在希尔斯伯勒签署《英爱协定》，通过政府间会议赋予爱尔兰政府在北爱尔兰事务上的咨询角色。尽管遭到联合派强烈反对，它为后来的和平进程奠定了基础。",
+    "ja": "1985年11月15日にギャレット・フィッツジェラルドとマーガレット・サッチャーがヒルズバラで署名した英愛協定は、政府間会議を通じてアイルランド政府に北アイルランド問題での協議的役割を与えた。ユニオニストの激しい反対を受けたが、後の和平プロセスの基礎を築いた。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q4376802",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Mary Robinson elected President",
+    "ko": "메리 로빈슨, 대통령 당선",
+    "zh": "玛丽·罗宾逊当选总统",
+    "ja": "メアリー・ロビンソン、大統領に当選"
+   },
+   "description": {
+    "en": "In November 1990 the human rights lawyer Mary Robinson was elected the first woman President of Ireland, defeating the Fianna Fáil candidate. Her presidency, reaching out to the diaspora and to marginalised groups, became a symbol of a more liberal and outward-looking Ireland.",
+    "ko": "1990년 11월 인권 변호사 메리 로빈슨은 피어너 펄 후보를 꺾고 아일랜드 최초의 여성 대통령으로 선출되었다. 해외 이민 사회와 소외 계층에 손을 내민 그의 재임은 더 자유롭고 개방적인 아일랜드의 상징이 되었다.",
+    "zh": "1990年11月，人权律师玛丽·罗宾逊击败共和党候选人，当选爱尔兰首位女总统。她在任期间积极联系海外侨民和边缘群体，成为一个更加自由、开放的爱尔兰的象征。",
+    "ja": "1990年11月、人権弁護士メアリー・ロビンソンはフィアナ・フォイルの候補を破り、アイルランド初の女性大統領に選ばれた。在外アイルランド人や周縁化された人々に手を差し伸べたその任期は、よりリベラルで外向きのアイルランドの象徴となった。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": "Q855736",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "The Celtic Tiger",
+    "ko": "켈틱 타이거",
+    "zh": "“凯尔特之虎”",
+    "ja": "ケルトの虎"
+   },
+   "description": {
+    "en": "From the mid-1990s Ireland's economy grew at rates far above the European average, driven by US technology and pharmaceutical investment attracted by low corporate tax, EU funds and social partnership agreements. Unemployment fell sharply and net emigration turned into immigration, but later growth relied on a property bubble.",
+    "ko": "1990년대 중반부터 아일랜드 경제는 낮은 법인세에 이끌린 미국 기술·제약 기업의 투자, EU 기금, 사회적 협약에 힘입어 유럽 평균을 훨씬 웃도는 속도로 성장했다. 실업률은 급감했고 이민 유출은 유입으로 바뀌었지만, 후기의 성장은 부동산 거품에 의존했다.",
+    "zh": "1990年代中期起，在低公司税吸引的美国科技和制药投资、欧盟资金以及社会伙伴协议的推动下，爱尔兰经济增速远超欧洲平均水平。失业率大幅下降，人口净流出转为净流入，但后期的增长依赖于房地产泡沫。",
+    "ja": "1990年代半ばから、低い法人税に引かれた米国のIT・製薬企業の投資、EU基金、社会的パートナーシップ協定に支えられ、アイルランド経済は欧州平均をはるかに上回る速度で成長した。失業率は急減し、人口の純流出は流入に転じたが、後期の成長は不動産バブルに依存していた。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Divorce referendum",
+    "ko": "이혼 허용 국민투표",
+    "zh": "离婚公投",
+    "ja": "離婚を認める国民投票"
+   },
+   "description": {
+    "en": "In November 1995 voters narrowly approved the Fifteenth Amendment, removing the constitutional ban on divorce by a margin of well under one percentage point. After a 1986 proposal had been heavily defeated, the result marked a turning point in the relationship between church, state and society.",
+    "ko": "1995년 11월 유권자들은 1%포인트에도 한참 못 미치는 근소한 차이로 헌법상 이혼 금지를 없애는 제15차 개정안을 승인했다. 1986년 제안이 큰 차이로 부결되었던 것과 비교해, 이 결과는 교회·국가·사회 관계의 전환점이었다.",
+    "zh": "1995年11月，选民以远不到一个百分点的微弱优势通过宪法第十五修正案，取消了宪法中的离婚禁令。与1986年同类提案以大比分遭否决相比，这一结果标志着教会、国家与社会关系的转折点。",
+    "ja": "1995年11月、有権者は1ポイントにも遠く及ばない僅差で、憲法上の離婚禁止を撤廃する第15次改正を承認した。1986年の提案が大差で否決されていたことと比べ、この結果は教会・国家・社会の関係の転換点となった。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Good Friday Agreement",
+    "ko": "성금요일 협정",
+    "zh": "《耶稣受难日协议》",
+    "ja": "ベルファスト合意（聖金曜日協定）"
+   },
+   "description": {
+    "en": "Signed on 10 April 1998, the Good Friday (Belfast) Agreement set up power-sharing government in Northern Ireland and new north–south and British–Irish institutions. In simultaneous referendums in May, 94% of voters in the Republic approved it and agreed to replace the territorial claim in Articles 2 and 3 with an aspiration to unity by consent, largely ending three decades of the Troubles.",
+    "ko": "1998년 4월 10일 서명된 성금요일(벨파스트) 협정은 북아일랜드에 권력 분점 정부를, 그리고 남북 간·영국-아일랜드 간 새로운 기구를 설치했다. 5월 동시 국민투표에서 아일랜드 공화국 유권자의 94%가 협정을 승인하고, 헌법 제2·3조의 영토 주장을 동의에 의한 통일 염원으로 바꾸는 데 동의했으며, 이로써 30년에 걸친 분쟁이 대체로 끝났다.",
+    "zh": "1998年4月10日签署的《耶稣受难日（贝尔法斯特）协议》在北爱尔兰建立了权力分享政府以及南北之间和英爱之间的新机构。在5月同时举行的公投中，爱尔兰共和国94%的选民批准该协议，并同意将宪法第二、三条中的领土主张改为以民意同意为前提的统一愿望，基本结束了长达三十年的北爱冲突。",
+    "ja": "1998年4月10日に署名されたベルファスト合意（聖金曜日協定）は、北アイルランドに権力分担政府を、さらに南北間・英愛間の新たな機関を設けた。5月の同時住民投票で共和国の有権者の94%が合意を承認し、憲法第2・3条の領土主張を同意による統一の願望へと改めることに賛成した。これにより30年に及ぶ紛争はおおむね終結した。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Euro notes and coins introduced",
+    "ko": "유로 지폐·동전 도입",
+    "zh": "欧元纸币和硬币启用",
+    "ja": "ユーロ紙幣・硬貨の導入"
+   },
+   "description": {
+    "en": "Ireland adopted the euro as a founding member of the eurozone in 1999, and on 1 January 2002 euro notes and coins replaced the Irish pound. The move broke the currency's historic link with sterling and tied Irish monetary policy to the European Central Bank.",
+    "ko": "아일랜드는 1999년 유로존 창립 회원국으로 유로를 채택했고, 2002년 1월 1일 유로 지폐와 동전이 아일랜드 파운드를 대체했다. 이로써 통화와 영국 파운드의 역사적 연결이 끊기고 아일랜드의 통화 정책은 유럽중앙은행에 묶이게 되었다.",
+    "zh": "爱尔兰作为欧元区创始成员国于1999年采用欧元，2002年1月1日欧元纸币和硬币取代了爱尔兰镑。此举切断了本国货币与英镑的历史联系，使爱尔兰的货币政策与欧洲中央银行挂钩。",
+    "ja": "アイルランドは1999年にユーロ圏の創設メンバーとしてユーロを採用し、2002年1月1日にユーロ紙幣と硬貨がアイルランド・ポンドに取って代わった。これにより通貨と英ポンドの歴史的な結びつきは断たれ、金融政策は欧州中央銀行に委ねられた。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Workplace smoking ban",
+    "ko": "직장 내 흡연 금지",
+    "zh": "工作场所禁烟",
+    "ja": "職場での喫煙禁止"
+   },
+   "description": {
+    "en": "On 29 March 2004 Ireland became the first country in the world to introduce a comprehensive nationwide ban on smoking in enclosed workplaces, including pubs and restaurants. Despite initial opposition the ban was widely obeyed and was copied by many other countries.",
+    "ko": "2004년 3월 29일 아일랜드는 펍과 식당을 포함한 실내 작업장에서의 흡연을 전국적으로 전면 금지한 세계 최초의 나라가 되었다. 초기의 반발에도 금지 조치는 널리 지켜졌으며 많은 나라가 이를 본받았다.",
+    "zh": "2004年3月29日，爱尔兰成为世界上第一个在包括酒吧和餐馆在内的所有室内工作场所全面禁烟的国家。尽管起初遭到反对，禁令得到广泛遵守，并被许多国家效仿。",
+    "ja": "2004年3月29日、アイルランドはパブやレストランを含む屋内の職場での喫煙を全国的に全面禁止した世界初の国となった。当初の反発にもかかわらず禁止は広く守られ、多くの国がこれに倣った。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q4613071",
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Banking crisis and the bank guarantee",
+    "ko": "은행 위기와 은행 보증",
+    "zh": "银行危机与银行担保",
+    "ja": "銀行危機と銀行保証"
+   },
+   "description": {
+    "en": "As the property bubble burst amid the global financial crisis, the government on 30 September 2008 guaranteed almost all liabilities of the main Irish banks. Losses at Anglo Irish Bank and others overwhelmed public finances, unemployment soared and emigration returned. The same year voters rejected the EU's Lisbon Treaty.",
+    "ko": "세계 금융 위기 속에 부동산 거품이 꺼지자 정부는 2008년 9월 30일 아일랜드 주요 은행들의 부채를 사실상 전액 보증했다. 앵글로 아이리시 은행 등의 막대한 손실은 공공 재정을 압도했고, 실업률이 치솟았으며 이민 유출이 다시 시작되었다. 같은 해 유권자들은 EU 리스본 조약을 부결시켰다.",
+    "zh": "在全球金融危机中房地产泡沫破裂，政府于2008年9月30日为爱尔兰主要银行几乎全部负债提供担保。盎格鲁爱尔兰银行等机构的巨额亏损压垮了公共财政，失业率飙升，移民外流再度出现。同年，选民否决了欧盟《里斯本条约》。",
+    "ja": "世界金融危機の中で不動産バブルがはじけると、政府は2008年9月30日、アイルランドの主要銀行のほぼすべての債務を保証した。アングロ・アイリッシュ銀行などの巨額損失は財政を圧倒し、失業率は急上昇して移民流出が再び始まった。同年、有権者はEUのリスボン条約を否決した。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": "Q2720006",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Lisbon Treaty approved",
+    "ko": "리스본 조약 승인",
+    "zh": "《里斯本条约》获批",
+    "ja": "リスボン条約の承認"
+   },
+   "description": {
+    "en": "In October 2009, after receiving guarantees on neutrality, taxation and social issues, Irish voters approved the Lisbon Treaty in a second referendum. Ireland was the only EU member to put the treaty to a popular vote, allowing it to enter into force across the Union.",
+    "ko": "2009년 10월 중립·조세·사회 문제에 관한 보장을 받은 뒤 아일랜드 유권자들은 두 번째 국민투표에서 리스본 조약을 승인했다. 아일랜드는 이 조약을 국민투표에 부친 유일한 EU 회원국이었으며, 이 승인으로 조약은 EU 전체에서 발효될 수 있었다.",
+    "zh": "2009年10月，在获得关于中立、税收和社会问题的保证后，爱尔兰选民在第二次公投中批准了《里斯本条约》。爱尔兰是唯一将该条约交付全民公投的欧盟成员国，此次批准使条约得以在全欧盟生效。",
+    "ja": "2009年10月、中立・税制・社会問題に関する保証を得た後、アイルランドの有権者は2度目の国民投票でリスボン条約を承認した。アイルランドは条約を国民投票にかけた唯一のEU加盟国であり、この承認により条約はEU全体で発効できた。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "EU–IMF bailout",
+    "ko": "EU·IMF 구제금융",
+    "zh": "欧盟—国际货币基金组织救助",
+    "ja": "EU・IMFによる金融支援"
+   },
+   "description": {
+    "en": "In November 2010 Ireland accepted an €85 billion rescue programme from the EU, the IMF and bilateral lenders, with strict austerity conditions. Public anger led to the collapse of Fianna Fáil in the 2011 election; Ireland exited the programme in December 2013.",
+    "ko": "2010년 11월 아일랜드는 엄격한 긴축 조건이 붙은 850억 유로 규모의 구제금융을 EU, IMF, 양자 대출국으로부터 받아들였다. 대중의 분노는 2011년 총선에서 피어너 펄의 몰락으로 이어졌으며, 아일랜드는 2013년 12월 구제금융 프로그램을 졸업했다.",
+    "zh": "2010年11月，爱尔兰接受了欧盟、国际货币基金组织及双边贷款方提供的850亿欧元救助计划，并附带严格的紧缩条件。民众的愤怒导致共和党在2011年大选中惨败；爱尔兰于2013年12月退出救助计划。",
+    "ja": "2010年11月、アイルランドはEU、IMF、二国間の貸し手から厳しい緊縮条件付きの850億ユーロの救済策を受け入れた。国民の怒りは2011年の総選挙でのフィアナ・フォイルの大敗につながり、アイルランドは2013年12月に支援プログラムを終えた。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Queen Elizabeth II's state visit",
+    "ko": "엘리자베스 2세 여왕의 국빈 방문",
+    "zh": "伊丽莎白二世国事访问",
+    "ja": "エリザベス2世の国賓訪問"
+   },
+   "description": {
+    "en": "In May 2011 Elizabeth II became the first reigning British monarch to visit the independent Irish state, laying a wreath at the Garden of Remembrance for those who died fighting for Irish freedom and visiting Croke Park. The visit was widely seen as sealing reconciliation between the two countries.",
+    "ko": "2011년 5월 엘리자베스 2세는 독립 아일랜드 국가를 방문한 최초의 재위 중인 영국 군주가 되었으며, 아일랜드 독립을 위해 싸우다 숨진 이들을 기리는 추모 정원에 헌화하고 크로크 파크를 찾았다. 이 방문은 두 나라 간 화해를 확인한 사건으로 널리 평가되었다.",
+    "zh": "2011年5月，伊丽莎白二世成为首位访问独立后的爱尔兰的在位英国君主，她在纪念为爱尔兰自由而牺牲者的纪念花园献花圈，并参观了克罗克公园。这次访问被普遍视为两国和解的标志。",
+    "ja": "2011年5月、エリザベス2世は独立後のアイルランドを訪れた初の在位中の英国君主となり、アイルランドの自由のために戦って死んだ人々を追悼する記念庭園に献花し、クローク・パークを訪れた。この訪問は両国の和解を確かなものにしたと広く受け止められた。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q19876154",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Marriage equality referendum",
+    "ko": "동성혼 국민투표",
+    "zh": "同性婚姻公投",
+    "ja": "同性婚の国民投票"
+   },
+   "description": {
+    "en": "On 22 May 2015 Irish voters approved the Thirty-fourth Amendment by about 62%, allowing marriage between two persons regardless of sex. Ireland became the first country in the world to legalise same-sex marriage by popular vote, a striking sign of social change.",
+    "ko": "2015년 5월 22일 아일랜드 유권자들은 약 62%의 찬성으로 성별과 관계없이 두 사람의 혼인을 허용하는 제34차 헌법 개정안을 승인했다. 아일랜드는 국민투표로 동성혼을 합법화한 세계 최초의 나라가 되었으며, 이는 사회 변화의 뚜렷한 상징이었다.",
+    "zh": "2015年5月22日，爱尔兰选民以约62%的赞成票通过宪法第三十四修正案，允许不论性别的两人缔结婚姻。爱尔兰成为世界上第一个通过全民公投使同性婚姻合法化的国家，这是社会变迁的显著标志。",
+    "ja": "2015年5月22日、アイルランドの有権者は約62%の賛成で、性別にかかわらず二人の婚姻を認める第34次憲法改正を承認した。アイルランドは国民投票で同性婚を合法化した世界初の国となり、社会変化の際立った象徴となった。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Brexit and the Irish border",
+    "ko": "브렉시트와 아일랜드 국경",
+    "zh": "英国脱欧与爱尔兰边界",
+    "ja": "ブレグジットとアイルランド国境"
+   },
+   "description": {
+    "en": "The UK's vote in June 2016 to leave the European Union raised the prospect of a hard border with Northern Ireland, threatening the peace settlement and the all-island economy. Ireland, backed by the EU, insisted on avoiding border checks, leading to the Northern Ireland Protocol in the 2020 Withdrawal Agreement and the 2023 Windsor Framework.",
+    "ko": "2016년 6월 영국의 유럽연합 탈퇴 국민투표 결과는 북아일랜드와의 '하드 보더' 가능성을 낳아 평화 체제와 섬 전체 경제를 위협했다. 아일랜드는 EU의 지지를 받아 국경 검문을 피해야 한다고 고수했고, 이는 2020년 탈퇴 협정의 북아일랜드 의정서와 2023년 윈저 프레임워크로 이어졌다.",
+    "zh": "2016年6月英国公投决定脱离欧盟，使与北爱尔兰之间出现“硬边界”的可能性浮现，威胁和平安排和全岛经济。爱尔兰在欧盟支持下坚持避免边境检查，最终促成2020年《脱欧协议》中的《北爱尔兰议定书》以及2023年的《温莎框架》。",
+    "ja": "2016年6月の英国のEU離脱決定は、北アイルランドとの「ハード・ボーダー」の可能性を生み、和平体制と全島経済を脅かした。アイルランドはEUの支持を得て国境検問の回避を求め、これが2020年離脱協定の北アイルランド議定書と2023年のウィンザー枠組みにつながった。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q54327853",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Repeal of the Eighth Amendment",
+    "ko": "제8차 개정 조항 폐지",
+    "zh": "废除宪法第八修正案",
+    "ja": "憲法第8次改正の廃止"
+   },
+   "description": {
+    "en": "On 25 May 2018 about 66% of voters approved the Thirty-sixth Amendment, repealing the constitutional ban on abortion introduced in 1983. Legislation allowing abortion on request up to twelve weeks of pregnancy took effect in January 2019.",
+    "ko": "2018년 5월 25일 유권자의 약 66%가 1983년 도입된 헌법상 낙태 금지를 폐지하는 제36차 개정안을 승인했다. 임신 12주까지 요청에 따른 낙태를 허용하는 법률이 2019년 1월 시행되었다.",
+    "zh": "2018年5月25日，约66%的选民批准宪法第三十六修正案，废除了1983年写入宪法的堕胎禁令。允许在妊娠12周内应要求堕胎的法律于2019年1月生效。",
+    "ja": "2018年5月25日、有権者の約66%が1983年に導入された憲法上の中絶禁止を撤廃する第36次改正を承認した。妊娠12週までの求めに応じた中絶を認める法律が2019年1月に施行された。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87186365",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic",
+    "ko": "코로나19 대유행",
+    "zh": "新冠疫情",
+    "ja": "新型コロナウイルスの流行"
+   },
+   "description": {
+    "en": "Ireland confirmed its first COVID-19 case on 29 February 2020 and imposed one of Europe's longest series of lockdowns. The same year a general election in which Sinn Féin won the most first-preference votes led to a historic coalition of the old Civil War rivals Fianna Fáil and Fine Gael with the Green Party.",
+    "ko": "아일랜드는 2020년 2월 29일 첫 코로나19 확진자를 확인했고 유럽에서 가장 긴 축에 드는 봉쇄를 잇달아 시행했다. 같은 해 총선에서 신페인이 1순위 득표 1위를 차지했으며, 이는 내전 시절의 숙적 피어너 펄과 피너 게일이 녹색당과 함께 구성한 역사적인 연립 정부로 이어졌다.",
+    "zh": "爱尔兰于2020年2月29日确诊首例新冠病例，随后实施了欧洲持续时间最长的一系列封锁措施之一。同年大选中新芬党获得最多第一优先票，最终促成内战时期的宿敌共和党与统一党联合绿党组成历史性的联合政府。",
+    "ja": "アイルランドは2020年2月29日に最初のCOVID-19感染者を確認し、ヨーロッパで最も長い部類の一連のロックダウンを実施した。同年の総選挙ではシン・フェインが第一選好票で最多となり、内戦時代の宿敵フィアナ・フォイルとフィナ・ゲールが緑の党と組む歴史的な連立政権が生まれた。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": "Q106832741",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Health Service Executive cyberattack",
+    "ko": "보건청(HSE) 사이버 공격",
+    "zh": "卫生服务执行局遭网络攻击",
+    "ja": "保健サービス庁へのサイバー攻撃"
+   },
+   "description": {
+    "en": "In May 2021 a ransomware attack, attributed to the Conti criminal group, shut down the IT systems of Ireland's Health Service Executive. Hospitals reverted to paper records for weeks, making it one of the most serious cyberattacks on a national health system.",
+    "ko": "2021년 5월 범죄 조직 콘티의 소행으로 지목된 랜섬웨어 공격으로 아일랜드 보건청(HSE)의 IT 시스템이 마비되었다. 병원들은 몇 주 동안 종이 기록으로 돌아가야 했으며, 이는 국가 보건 체계에 대한 가장 심각한 사이버 공격 가운데 하나였다.",
+    "zh": "2021年5月，一次被归咎于犯罪团伙Conti的勒索软件攻击导致爱尔兰卫生服务执行局的信息系统瘫痪。医院在数周内被迫改用纸质记录，这是针对国家医疗体系最严重的网络攻击之一。",
+    "ja": "2021年5月、犯罪集団コンティによるとされるランサムウェア攻撃で、アイルランド保健サービス庁のITシステムが停止した。病院は数週間紙の記録に戻らざるを得ず、国家医療制度に対する最も深刻なサイバー攻撃の一つとなった。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Dublin riot",
+    "ko": "더블린 폭동",
+    "zh": "都柏林骚乱",
+    "ja": "ダブリン暴動"
+   },
+   "description": {
+    "en": "On 23 November 2023, after a knife attack on children outside a school on Parnell Square, rioters set vehicles alight and looted shops in Dublin city centre, fuelled by anti-immigrant online messaging. It was the worst civil disorder in the city in decades and intensified debate over immigration and policing.",
+    "ko": "2023년 11월 23일 파넬 광장의 한 학교 앞에서 어린이들을 노린 흉기 공격이 일어난 뒤, 온라인 반이민 메시지에 자극받은 폭도들이 더블린 도심에서 차량에 불을 지르고 상점을 약탈했다. 수십 년 만의 최악의 소요 사태로, 이민과 치안을 둘러싼 논쟁이 격화되었다.",
+    "zh": "2023年11月23日，帕内尔广场一所学校外发生针对儿童的持刀袭击事件后，受网络反移民信息煽动的暴徒在都柏林市中心焚烧车辆、洗劫商店。这是该市数十年来最严重的骚乱，加剧了有关移民和治安的争论。",
+    "ja": "2023年11月23日、パーネル広場の学校前で子どもを狙った刃物による襲撃事件が起きた後、ネット上の反移民的な言説に煽られた暴徒がダブリン中心部で車両に放火し商店を略奪した。数十年来最悪の騒乱であり、移民と治安をめぐる議論を激化させた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Apple state aid ruling",
+    "ko": "애플 국가 보조금 판결",
+    "zh": "苹果国家援助案判决",
+    "ja": "アップル国家補助判決"
+   },
+   "description": {
+    "en": "On 10 September 2024 the EU Court of Justice upheld the European Commission's 2016 finding that Ireland had granted Apple illegal tax advantages, ordering the recovery of around €13 billion plus interest. The windfall highlighted Ireland's reliance on multinational corporate tax revenue.",
+    "ko": "2024년 9월 10일 유럽사법재판소는 아일랜드가 애플에 불법적인 세제 혜택을 주었다는 2016년 유럽연합 집행위원회의 결정을 확정하고, 약 130억 유로와 이자를 환수하도록 했다. 이 뜻밖의 세수는 다국적 기업 법인세에 대한 아일랜드의 의존도를 부각시켰다.",
+    "zh": "2024年9月10日，欧盟法院维持欧盟委员会2016年的裁定，认定爱尔兰给予苹果公司非法税收优惠，须追回约130亿欧元及利息。这笔意外收入凸显了爱尔兰对跨国公司企业税收入的依赖。",
+    "ja": "2024年9月10日、EU司法裁判所は、アイルランドがアップルに違法な税優遇を与えたとする2016年の欧州委員会の決定を支持し、約130億ユーロと利息の回収を命じた。この臨時収入は、多国籍企業の法人税収へのアイルランドの依存を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q84027875",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Catherine Connolly elected President",
+    "ko": "캐서린 코널리, 대통령 당선",
+    "zh": "凯瑟琳·康诺利当选总统",
+    "ja": "キャサリン・コノリー、大統領に当選"
+   },
+   "description": {
+    "en": "In the presidential election of October 2025, the independent left-wing TD Catherine Connolly from Galway won by a wide margin over Fine Gael's Heather Humphreys. She succeeded Michael D. Higgins, who had served the maximum two terms, and was inaugurated in November 2025 as the tenth President of Ireland.",
+    "ko": "2025년 10월 대통령 선거에서 골웨이 출신의 무소속 좌파 하원의원 캐서린 코널리가 피너 게일의 헤더 험프리스를 큰 차이로 꺾고 당선되었다. 그는 연임 한도인 두 차례 임기를 채운 마이클 D. 히긴스의 뒤를 이어 2025년 11월 아일랜드 제10대 대통령으로 취임했다.",
+    "zh": "在2025年10月的总统选举中，来自戈尔韦的无党派左翼众议员凯瑟琳·康诺利以大幅优势击败统一党的希瑟·汉弗莱斯。她接替已连任两届期满的迈克尔·D·希金斯，于2025年11月就任爱尔兰第十任总统。",
+    "ja": "2025年10月の大統領選挙で、ゴールウェイ選出の無所属左派下院議員キャサリン・コノリーがフィナ・ゲールのヘザー・ハンフリーズに大差で勝利した。彼女は上限の2期を務めたマイケル・D・ヒギンズの後を継ぎ、2025年11月に第10代アイルランド大統領に就任した。"
+   }
+  },
+  {
+   "year": 2026,
+   "qid": "Q134992818",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Irish Presidency of the EU Council",
+    "ko": "아일랜드의 EU 이사회 의장국 수임",
+    "zh": "爱尔兰担任欧盟理事会轮值主席国",
+    "ja": "アイルランドのEU理事会議長国"
+   },
+   "description": {
+    "en": "From July to December 2026 Ireland holds the rotating Presidency of the Council of the European Union for the eighth time since joining in 1973. Its previous presidency in 2013 came as the country was completing its EU–IMF bailout programme.",
+    "ko": "2026년 7월부터 12월까지 아일랜드는 1973년 가입 이후 여덟 번째로 유럽연합 이사회의 순회 의장국을 맡는다. 직전 의장국 수임이었던 2013년은 아일랜드가 EU·IMF 구제금융 프로그램을 마무리하던 시기였다.",
+    "zh": "2026年7月至12月，爱尔兰担任欧盟理事会轮值主席国，这是其自1973年入盟以来的第八次。上一次是在2013年，当时爱尔兰正即将完成欧盟和国际货币基金组织的救助计划。",
+    "ja": "2026年7月から12月まで、アイルランドは1973年の加盟以来8度目となるEU理事会の輪番議長国を務める。前回の2013年は、同国がEU・IMFの支援プログラムを終えようとしていた時期であった。"
+   }
+  }
+ ]
+}
