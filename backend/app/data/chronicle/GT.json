@@ -1,0 +1,2182 @@
+{
+ "iso": "GT",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -2000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Archaic period of Guatemala",
+    "ko": "과테말라의 고기(아르카이크) 시대",
+    "zh": "危地马拉的古代期（古朴期）",
+    "ja": "グアテマラの古期（アルカイック期）"
+   },
+   "summary": {
+    "en": "Small bands of hunter-gatherers moved between the Pacific coast, the volcanic highlands and the lowland forests of Petén, exploiting wild plants, game and coastal resources. Over these millennia people began to tend and cultivate plants such as maize and squash, laying the groundwork for the settled farming life of Mesoamerica.",
+    "ko": "수렵채집민 소집단이 태평양 연안과 화산 고지대, 페텐의 저지대 숲을 오가며 야생 식물과 사냥감, 해안 자원을 이용했다. 이 수천 년 동안 사람들은 옥수수와 호박 같은 작물을 가꾸고 재배하기 시작해, 메소아메리카 정착 농경 생활의 토대를 마련했다.",
+    "zh": "小规模的狩猎采集群体往来于太平洋沿岸、火山高地和佩滕低地森林之间，利用野生植物、猎物和沿海资源。在这几千年间，人们开始照料和栽培玉米、南瓜等作物，为中美洲定居农耕生活奠定了基础。",
+    "ja": "狩猟採集民の小集団が太平洋岸、火山の多い高地、ペテンの低地林を移動しながら、野生植物や獲物、海岸の資源を利用した。この数千年の間にトウモロコシやカボチャなどの栽培が始まり、メソアメリカの定住農耕生活の基盤が築かれた。"
+   }
+  },
+  {
+   "from": -2000,
+   "to": -1000,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Preclassic villages",
+    "ko": "전고전기 초기 마을 문화",
+    "zh": "前古典期早期村落",
+    "ja": "先古典期前期の村落文化"
+   },
+   "summary": {
+    "en": "Permanent farming villages with pottery appeared, first and most clearly on the Pacific coastal plain, where communities fished the mangrove estuaries and grew maize. Similar village life gradually spread inland, and long-distance exchange of obsidian from highland sources such as El Chayal linked the regions.",
+    "ko": "토기를 사용하는 항구적인 농경 마을이 나타났는데, 가장 먼저 그리고 가장 뚜렷하게 나타난 곳은 태평양 연안 평야였다. 이곳 공동체들은 맹그로브 하구에서 고기를 잡고 옥수수를 길렀다. 비슷한 마을 생활이 점차 내륙으로 퍼졌고, 엘 차얄 같은 고지대 산지의 흑요석이 원거리 교역으로 각 지역을 이어 주었다.",
+    "zh": "使用陶器的定居农业村落开始出现，最早、最明显的是在太平洋沿岸平原，那里的社区在红树林河口捕鱼并种植玉米。类似的村落生活逐渐向内陆扩展，来自埃尔查亚尔等高地产地的黑曜石通过远程交换把各地区联系起来。",
+    "ja": "土器を用いる定住農耕村落が現れ、最初にかつ最も明確に見られるのは太平洋岸平野で、人々はマングローブの河口で漁をしトウモロコシを育てた。同様の村落生活は次第に内陸へ広がり、エル・チャヤルなど高地産の黒曜石の遠距離交換が各地を結びつけた。"
+   }
+  },
+  {
+   "from": -1000,
+   "to": 250,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Middle and Late Preclassic Maya",
+    "ko": "중·후기 선고전기 마야",
+    "zh": "前古典期中晚期玛雅",
+    "ja": "先古典期中期・後期のマヤ"
+   },
+   "summary": {
+    "en": "Maya society grew from villages into complex chiefdoms and early kingdoms. In northern Petén, Nakbe and then El Mirador raised some of the largest pyramids ever built in the Americas, while Kaminaljuyu in the Valley of Guatemala and Takalik Abaj on the Pacific slope became major centers. Writing, calendrical monuments and divine kingship took shape before the El Mirador basin declined around the 2nd century AD.",
+    "ko": "마야 사회는 마을에서 복잡한 수장 사회와 초기 왕국으로 성장했다. 페텐 북부에서는 나크베와 이어 엘 미라도르가 아메리카 대륙에서 손꼽히는 거대 피라미드를 세웠고, 과테말라 계곡의 카미날후유와 태평양 사면의 타칼리크 아바흐도 주요 중심지가 되었다. 2세기경 엘 미라도르 분지가 쇠퇴하기 전에 문자와 역법 기념비, 신성 왕권이 형성되었다.",
+    "zh": "玛雅社会由村落发展为复杂的酋邦和早期王国。在佩滕北部，纳克贝和随后的埃尔米拉多尔建起了美洲有史以来最大的一批金字塔，而危地马拉谷地的卡米纳尔胡尤和太平洋坡地的塔卡利克阿巴赫也成为重要中心。在埃尔米拉多尔盆地于公元2世纪前后衰落之前，文字、历法纪念碑和神圣王权已经成形。",
+    "ja": "マヤ社会は村落から複雑な首長制社会、そして初期の王国へと発展した。ペテン北部ではナクベ、続いてエル・ミラドールがアメリカ大陸屈指の巨大ピラミッドを築き、グアテマラ盆地のカミナルフユや太平洋斜面のタカリク・アバフも主要な中心地となった。2世紀頃にエル・ミラドール盆地が衰退する前に、文字や暦の記念碑、神聖王権が形づくられた。"
+   }
+  },
+  {
+   "from": 250,
+   "to": 900,
+   "kind": "state",
+   "qid": "Q28567",
+   "polity": "Mayan City-States",
+   "name": {
+    "en": "Classic Maya city-states",
+    "ko": "고전기 마야 도시국가",
+    "zh": "古典期玛雅城邦",
+    "ja": "古典期マヤの都市国家"
+   },
+   "summary": {
+    "en": "Dozens of rival kingdoms ruled by divine kings (k'uhul ajaw) covered the Petén lowlands and the Motagua valley. Tikal was the greatest power on Guatemalan soil, locked in a long struggle with Calakmul's Kaanul dynasty, while Uaxactun, Dos Pilas, Naranjo, Piedras Negras, Cancuén and Quiriguá raised temples and carved stelae recording their dynasties. Between the late 8th and 10th centuries the lowland kingdoms collapsed and most cities were abandoned.",
+    "ko": "신성한 왕(쿠훌 아하우)이 다스리는 수십 개의 경쟁 왕국이 페텐 저지대와 모타과 계곡을 뒤덮었다. 과테말라 땅에서 가장 강력했던 티칼은 칼라크물의 카아눌 왕조와 오랜 패권 다툼을 벌였고, 왁사크툰·도스 필라스·나랑호·피에드라스 네그라스·칸쿠엔·키리과 등도 신전을 세우고 왕조를 기록한 석비를 남겼다. 8세기 말부터 10세기 사이 저지대 왕국들이 붕괴하면서 대부분의 도시가 버려졌다.",
+    "zh": "数十个由神圣王（k'uhul ajaw）统治的敌对王国遍布佩滕低地和莫塔瓜河谷。蒂卡尔是危地马拉境内最强大的势力，与卡拉克穆尔的卡安王朝长期争霸；瓦夏克通、多斯皮拉斯、纳兰霍、彼德拉斯内格拉斯、坎昆和基里瓜等城邦也修建神庙、竖立记载王朝历史的石碑。8世纪末至10世纪间，低地诸王国崩溃，大多数城市被遗弃。",
+    "ja": "神聖王（クフル・アハウ）が治める数十の王国がペテン低地とモタグア川流域にひしめいた。グアテマラの地で最強だったティカルはカラクムルのカーヌル王朝と長く覇権を争い、ワシャクトゥン、ドス・ピラス、ナランホ、ピエドラス・ネグラス、カンクエン、キリグアなども神殿を築き、王朝の歴史を刻んだ石碑を残した。8世紀末から10世紀にかけて低地の王国は崩壊し、多くの都市が放棄された。"
+   }
+  },
+  {
+   "from": 900,
+   "to": 1524,
+   "kind": "state",
+   "qid": "Q28567",
+   "polity": "Later Mayan City-States",
+   "name": {
+    "en": "Postclassic highland Maya kingdoms",
+    "ko": "후고전기 고지대 마야 왕국",
+    "zh": "后古典期高地玛雅王国",
+    "ja": "後古典期高地マヤの王国"
+   },
+   "summary": {
+    "en": "After the lowland collapse, political life shifted to the highlands, where fortified hilltop centers and warrior lineages rose. From the 13th–15th centuries the K'iche' kingdom, ruled from Q'umarkaj, dominated much of the region, until the Kaqchikel broke away and founded Iximche around 1470; the Tz'utujil, Mam, Poqomam and Q'eqchi' held their own domains. The K'iche' epic Popol Vuh preserves the cosmology and dynastic traditions of this age.",
+    "ko": "저지대가 붕괴한 뒤 정치의 중심은 고지대로 옮겨 갔고, 요새화된 언덕 위 중심지와 전사 가문들이 부상했다. 13~15세기에는 쿠마르카흐를 수도로 한 키체 왕국이 지역 대부분을 지배했으나, 1470년경 카치켈이 떨어져 나와 이심체를 세웠다. 츠투힐, 맘, 포코맘, 케크치 등도 각자의 영역을 유지했다. 키체의 서사시 『포폴 부』에는 이 시대의 우주관과 왕조 전승이 담겨 있다.",
+    "zh": "低地崩溃后，政治重心转向高地，设防的山顶中心和武士世系随之兴起。13至15世纪，以库马尔卡赫为都的基切王国控制了该地区的大部分，直到约1470年卡克奇克尔人分离并建立伊西姆切；楚图希尔、马姆、波科马姆和克克奇等族群也各有领地。基切史诗《波波尔·乌》保存了这一时代的宇宙观和王朝传说。",
+    "ja": "低地の崩壊後、政治の中心は高地へ移り、要塞化された丘上の拠点と戦士の家系が台頭した。13〜15世紀にはクマルカフを都とするキチェー王国が地域の大半を支配したが、1470年頃カクチケルが離反してイシムチェを建てた。ツトゥヒル、マム、ポコマム、ケクチなども独自の領域を保った。キチェーの叙事詩『ポポル・ヴフ』はこの時代の宇宙観と王朝伝承を伝えている。"
+   }
+  },
+  {
+   "from": 1450,
+   "to": 1697,
+   "kind": "state",
+   "qid": null,
+   "polity": "Itza Mayans",
+   "name": {
+    "en": "Itza kingdom of Nojpetén",
+    "ko": "노흐페텐의 이차 왕국",
+    "zh": "诺赫佩滕的伊察王国",
+    "ja": "ノフペテンのイツァ王国"
+   },
+   "summary": {
+    "en": "The Itza Maya, who by their own tradition had migrated from northern Yucatán, ruled central Petén from the island capital of Nojpetén on Lake Petén Itzá under kings titled Ajaw Kan Ek'. Shielded by dense forest, the kingdom resisted Spanish missionaries and expeditions for more than 170 years after the conquest of the highlands, until it fell to Martín de Urzúa's assault in 1697. Modern Flores stands on the site of Nojpetén.",
+    "ko": "자신들의 전승에 따르면 유카탄 북부에서 이주해 왔다는 이차 마야는 페텐 이차 호수의 섬 수도 노흐페텐에서 '아하우 칸 에크'라는 칭호의 왕 아래 페텐 중부를 다스렸다. 울창한 숲에 둘러싸인 이 왕국은 고지대가 정복된 뒤에도 170년 넘게 에스파냐의 선교사와 원정대에 저항하다가 1697년 마르틴 데 우르수아의 공격으로 무너졌다. 오늘날의 플로레스가 노흐페텐 자리에 있다.",
+    "zh": "据其自身传统，伊察玛雅人从尤卡坦北部迁来，以佩滕伊察湖上的岛屿都城诺赫佩滕为中心统治佩滕中部，君主称号为“阿豪·坎·埃克”。在茂密森林的屏障下，该王国在高地被征服后仍抵抗西班牙传教士和远征队170余年，直到1697年被马丁·德·乌尔苏阿攻陷。今天的弗洛雷斯城即位于诺赫佩滕旧址。",
+    "ja": "自らの伝承ではユカタン北部から移住してきたとされるイツァ・マヤは、ペテン・イツァ湖の島の都ノフペテンを拠点に、「アハウ・カン・エク」の称号を持つ王のもとでペテン中部を治めた。深い森に守られたこの王国は、高地の征服後も170年以上スペインの宣教師や遠征隊に抵抗したが、1697年にマルティン・デ・ウルスアの攻撃で陥落した。現在のフローレスがノフペテンの跡地にある。"
+   }
+  },
+  {
+   "from": 1524,
+   "to": 1821,
+   "kind": "colonial",
+   "qid": "Q80702",
+   "polity": "Spanish Empire",
+   "name": {
+    "en": "Spanish colonial Kingdom of Guatemala",
+    "ko": "에스파냐 식민지 과테말라 왕국",
+    "zh": "西班牙殖民地危地马拉王国",
+    "ja": "スペイン植民地グアテマラ王国"
+   },
+   "summary": {
+    "en": "After Pedro de Alvarado's conquest, Guatemala became the seat of the Audiencia and Captaincy General of Guatemala, which governed Central America from Chiapas to Costa Rica within the Viceroyalty of New Spain. Maya communities were gathered into reducciones, subjected to tribute and forced labor, and devastated by epidemics, while Dominican, Franciscan and Mercedarian friars evangelized the highlands. Santiago de Guatemala (Antigua) was the capital until the 1773 earthquakes, after which Nueva Guatemala de la Asunción was built.",
+    "ko": "페드로 데 알바라도의 정복 이후 과테말라는 누에바 에스파냐 부왕령 아래 치아파스에서 코스타리카까지 중앙아메리카를 관할한 과테말라 아우디엔시아 겸 총사령관령의 중심지가 되었다. 마야 공동체는 '레둑시온'이라는 집주촌으로 강제 이주되어 공납과 강제 노동에 시달렸고 전염병으로 큰 타격을 입었으며, 도미니코회·프란치스코회·메르세드회 수도사들이 고지대를 선교했다. 1773년 지진 전까지는 산티아고 데 과테말라(안티과)가 수도였고, 이후 누에바 과테말라 데 라 아순시온이 건설되었다.",
+    "zh": "佩德罗·德·阿尔瓦拉多征服之后，危地马拉成为危地马拉检审庭兼都督府的所在地，在新西班牙总督辖区之下统辖从恰帕斯到哥斯达黎加的中美洲。玛雅社区被集中迁入“归化村”，承受贡赋与强迫劳役，并遭到疫病的重创；多明我会、方济各会和梅塞德会修士在高地传教。1773年地震前首府一直是圣地亚哥·危地马拉（安提瓜），此后另建新危地马拉·德拉亚松森城。",
+    "ja": "ペドロ・デ・アルバラードの征服後、グアテマラはヌエバ・エスパーニャ副王領のもとでチアパスからコスタリカまでの中米を管轄するグアテマラ・アウディエンシア兼総督領の中心となった。マヤの共同体は「レドゥクシオン」と呼ばれる集住村に移され、貢納と強制労働を課され、疫病で激減した。高地ではドミニコ会、フランシスコ会、メルセス会の修道士が布教した。1773年の地震まではサンティアゴ・デ・グアテマラ（アンティグア）が首都で、その後ヌエバ・グアテマラ・デ・ラ・アスンシオンが建設された。"
+   }
+  },
+  {
+   "from": 1821,
+   "to": 1823,
+   "kind": "state",
+   "qid": "Q285658",
+   "polity": "First Mexican Empire",
+   "name": {
+    "en": "Independence and annexation to Mexico",
+    "ko": "독립과 멕시코 제국 병합",
+    "zh": "独立与并入墨西哥帝国",
+    "ja": "独立とメキシコ帝国への併合"
+   },
+   "summary": {
+    "en": "Guatemala declared independence from Spain on 15 September 1821. Under pressure from Agustín de Iturbide and divided local elites, the provinces of Central America were annexed to the First Mexican Empire in January 1822; the union dissolved when the empire fell in 1823.",
+    "ko": "과테말라는 1821년 9월 15일 에스파냐로부터 독립을 선언했다. 아구스틴 데 이투르비데의 압력과 지역 엘리트의 분열 속에서 중앙아메리카 여러 주는 1822년 1월 제1 멕시코 제국에 병합되었으나, 1823년 제국이 무너지면서 이 연합도 해체되었다.",
+    "zh": "危地马拉于1821年9月15日宣布脱离西班牙独立。在阿古斯汀·德·伊图尔维德的压力和当地精英分裂之下，中美洲各省于1822年1月并入墨西哥第一帝国；1823年帝国垮台，这一合并随之解体。",
+    "ja": "グアテマラは1821年9月15日にスペインからの独立を宣言した。アグスティン・デ・イトゥルビデの圧力と地元エリートの分裂のなか、中米諸州は1822年1月に第一次メキシコ帝国へ併合されたが、1823年に帝国が倒れると併合も解消された。"
+   }
+  },
+  {
+   "from": 1823,
+   "to": 1840,
+   "kind": "state",
+   "qid": "Q190025",
+   "polity": "United Provinces of Central America",
+   "name": {
+    "en": "Federal Republic of Central America",
+    "ko": "중앙아메리카 연방공화국",
+    "zh": "中美洲联邦共和国",
+    "ja": "中米連邦共和国"
+   },
+   "summary": {
+    "en": "In 1823 the former provinces formed the United Provinces, later the Federal Republic of Central America, with Guatemala City as federal capital and Guatemala as its most populous state. Bitter conflict between Conservatives, strong in Guatemala City, and Liberals led by Francisco Morazán produced repeated civil wars. A popular rural uprising led by Rafael Carrera in 1837–1840 helped destroy the federation.",
+    "ko": "1823년 옛 주들은 중앙아메리카 연합주, 이후의 중앙아메리카 연방공화국을 결성했고, 과테말라시티가 연방 수도, 과테말라가 가장 인구가 많은 주가 되었다. 과테말라시티에 기반을 둔 보수파와 프란시스코 모라산이 이끄는 자유파의 격렬한 대립은 거듭된 내전을 낳았다. 1837~1840년 라파엘 카레라가 이끈 농민 봉기는 연방 해체에 결정적인 역할을 했다.",
+    "zh": "1823年，原各省组成中美洲联合省，后称中美洲联邦共和国，以危地马拉城为联邦首都，危地马拉为人口最多的州。以危地马拉城为根基的保守派与弗朗西斯科·莫拉桑领导的自由派之间激烈对立，导致内战频发。1837至1840年拉斐尔·卡雷拉领导的农民起义加速了联邦的瓦解。",
+    "ja": "1823年、旧諸州は中米連合州、のちの中米連邦共和国を結成し、グアテマラシティが連邦首都、グアテマラが最も人口の多い州となった。グアテマラシティを地盤とする保守派とフランシスコ・モラサン率いる自由派の激しい対立は内戦を繰り返し招いた。1837〜1840年のラファエル・カレラによる農民反乱は連邦崩壊を決定づけた。"
+   }
+  },
+  {
+   "from": 1838,
+   "to": 1840,
+   "kind": "state",
+   "qid": "Q738264",
+   "polity": "Los Altos",
+   "name": {
+    "en": "State of Los Altos",
+    "ko": "로스알토스주",
+    "zh": "洛斯阿尔托斯州",
+    "ja": "ロス・アルトス州"
+   },
+   "summary": {
+    "en": "Liberal elites of the western highlands around Quetzaltenango seceded from Guatemala in 1838 and formed Los Altos as the sixth state of the Central American federation. Rafael Carrera's forces reconquered the region in 1840, and Los Altos was reincorporated into Guatemala, though regional autonomist sentiment persisted.",
+    "ko": "케찰테낭고를 중심으로 한 서부 고지대의 자유파 엘리트는 1838년 과테말라에서 분리해 중앙아메리카 연방의 여섯 번째 주로 로스알토스를 세웠다. 1840년 라파엘 카레라의 군대가 이 지역을 재정복하여 로스알토스는 과테말라에 다시 편입되었지만, 지역 자치 정서는 이후에도 남았다.",
+    "zh": "以克萨尔特南戈为中心的西部高地自由派精英于1838年脱离危地马拉，建立洛斯阿尔托斯，作为中美洲联邦的第六个州。1840年拉斐尔·卡雷拉的军队重新征服该地区，洛斯阿尔托斯并回危地马拉，但地方自治情绪依然延续。",
+    "ja": "ケツァルテナンゴを中心とする西部高地の自由派エリートは1838年にグアテマラから分離し、中米連邦の6番目の州としてロス・アルトスを創設した。1840年にラファエル・カレラの軍がこの地域を再征服し、ロス・アルトスはグアテマラに再統合されたが、地域の自治志向はその後も残った。"
+   }
+  },
+  {
+   "from": 1840,
+   "to": 1871,
+   "kind": "state",
+   "qid": "Q774",
+   "polity": "Guatemala",
+   "name": {
+    "en": "Conservative republic of Rafael Carrera",
+    "ko": "라파엘 카레라의 보수 공화국",
+    "zh": "拉斐尔·卡雷拉的保守派共和国",
+    "ja": "ラファエル・カレラの保守共和国"
+   },
+   "summary": {
+    "en": "Rafael Carrera, a mestizo caudillo with strong peasant support, dominated Guatemala from 1840 until his death in 1865, proclaiming the Republic of Guatemala in 1847 and becoming president for life in 1854. His regime restored the Church's privileges, protected Indigenous communal lands to a degree, and fought off Liberal neighbors. Cochineal dye was the main export until synthetic dyes and the rise of coffee changed the economy.",
+    "ko": "농민들의 강한 지지를 받은 메스티소 카우디요 라파엘 카레라는 1840년부터 1865년 사망할 때까지 과테말라를 지배하며 1847년 과테말라 공화국을 선포하고 1854년 종신 대통령이 되었다. 그의 정권은 교회의 특권을 회복시키고 원주민 공동체 토지를 어느 정도 보호했으며, 자유파 이웃 나라들의 공세를 막아 냈다. 합성 염료와 커피의 부상으로 경제가 바뀌기 전까지 주된 수출품은 코치닐 염료였다.",
+    "zh": "拥有农民广泛支持的混血考迪罗拉斐尔·卡雷拉自1840年起主宰危地马拉，直至1865年去世；他于1847年宣布成立危地马拉共和国，1854年成为终身总统。其政权恢复了教会特权，在一定程度上保护原住民公有土地，并击退了自由派邻国。在合成染料出现和咖啡兴起改变经济之前，胭脂虫染料是主要出口品。",
+    "ja": "農民の強い支持を受けたメスティーソのカウディーリョ、ラファエル・カレラは1840年から1865年に死去するまでグアテマラを支配し、1847年にグアテマラ共和国を宣言、1854年には終身大統領となった。政権は教会の特権を回復し、先住民の共有地をある程度保護し、自由派の隣国の攻勢を退けた。合成染料の登場とコーヒーの台頭で経済が変わるまで、主な輸出品はコチニール染料だった。"
+   }
+  },
+  {
+   "from": 1871,
+   "to": 1944,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Liberal era and coffee dictatorships",
+    "ko": "자유주의 시대와 커피 독재",
+    "zh": "自由派时代与咖啡独裁",
+    "ja": "自由主義時代とコーヒー独裁"
+   },
+   "summary": {
+    "en": "The Liberal Revolution of 1871 opened seven decades in which strongmen such as Justo Rufino Barrios, Manuel Estrada Cabrera and Jorge Ubico modernized the state while building an export economy on coffee and, later, bananas. Church and communal lands were sold off, and forced-labor laws pushed Maya highlanders onto plantations. Foreign firms, above all the United Fruit Company, gained vast landholdings and control of railways and ports.",
+    "ko": "1871년 자유주의 혁명으로 시작된 70여 년 동안 후스토 루피노 바리오스, 마누엘 에스트라다 카브레라, 호르헤 우비코 같은 독재자들이 국가를 근대화하는 한편 커피와 이후 바나나에 기반한 수출 경제를 구축했다. 교회와 공동체 토지가 매각되었고, 강제 노동법으로 고지대 마야인들이 대농장에 동원되었다. 외국 기업, 특히 유나이티드 프루트사는 광대한 토지와 철도·항만의 지배권을 손에 넣었다.",
+    "zh": "1871年自由派革命开启了约七十年的时期，胡斯托·鲁菲诺·巴里奥斯、曼努埃尔·埃斯特拉达·卡夫雷拉和豪尔赫·乌维科等强人在推动国家现代化的同时，建立起以咖啡、后来又以香蕉为支柱的出口经济。教会土地和村社公地被出售，强迫劳动法令把高地玛雅人驱赶到种植园劳作。外国企业，尤其是联合果品公司，获得了大片土地以及铁路和港口的控制权。",
+    "ja": "1871年の自由主義革命から約70年間、フスト・ルフィーノ・バリオス、マヌエル・エストラダ・カブレラ、ホルヘ・ウビコらの独裁者が国家を近代化する一方、コーヒー、のちにバナナを柱とする輸出経済を築いた。教会領や共同体の土地は売却され、強制労働法によって高地のマヤの人々が大農園へ動員された。外国企業、とりわけユナイテッド・フルーツ社は広大な土地と鉄道・港湾の支配権を手にした。"
+   }
+  },
+  {
+   "from": 1944,
+   "to": 1954,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Ten Years of Spring (Guatemalan Revolution)",
+    "ko": "10년의 봄(과테말라 혁명)",
+    "zh": "“十年之春”（危地马拉革命）",
+    "ja": "「十年の春」（グアテマラ革命）"
+   },
+   "summary": {
+    "en": "The 1944 revolution ushered in a decade of elected governments under Juan José Arévalo and Jacobo Árbenz. A new constitution, a labor code, social security and, in 1952, an agrarian reform redistributing uncultivated estate land transformed politics. Opposition from landowners, the Church hierarchy, the United Fruit Company and the United States government culminated in the 1954 coup.",
+    "ko": "1944년 혁명으로 후안 호세 아레발로와 하코보 아르벤스가 이끈 선출 정부의 10년이 열렸다. 새 헌법과 노동법, 사회보장 제도, 그리고 1952년 경작되지 않은 대농장 토지를 분배한 농지개혁이 정치 지형을 바꾸었다. 지주층과 교회 지도부, 유나이티드 프루트사, 미국 정부의 반발은 1954년 쿠데타로 이어졌다.",
+    "zh": "1944年革命开启了胡安·何塞·阿雷瓦洛和哈科沃·阿本斯两任民选政府的十年。新宪法、劳动法典、社会保障制度以及1952年分配闲置庄园土地的土地改革，深刻改变了政治格局。地主、教会高层、联合果品公司和美国政府的反对最终导致1954年政变。",
+    "ja": "1944年の革命により、フアン・ホセ・アレバロとハコボ・アルベンスの選挙で選ばれた政府による10年間が始まった。新憲法、労働法典、社会保障、そして1952年の未耕作の大農園地を分配する農地改革が政治を一変させた。地主層、教会上層部、ユナイテッド・フルーツ社、米国政府の反発が1954年のクーデターにつながった。"
+   }
+  },
+  {
+   "from": 1954,
+   "to": 1996,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Military rule and internal armed conflict",
+    "ko": "군부 통치와 내전",
+    "zh": "军人统治与国内武装冲突",
+    "ja": "軍政と国内武力紛争"
+   },
+   "summary": {
+    "en": "After 1954 a succession of military and military-backed governments ruled Guatemala. From 1960 leftist guerrillas fought the state in a conflict that escalated into scorched-earth campaigns against Maya communities in the early 1980s; the UN-backed truth commission later attributed the vast majority of some 200,000 deaths and disappearances to state forces and found that acts of genocide had been committed. A civilian constitution in 1985 and negotiations in the 1990s led to the 1996 peace accords.",
+    "ko": "1954년 이후 군부 또는 군부가 후원하는 정부가 잇달아 과테말라를 통치했다. 1960년부터 좌익 게릴라와 국가 사이의 분쟁이 시작되어 1980년대 초에는 마야 공동체를 겨냥한 초토화 작전으로 확대되었다. 유엔이 지원한 진실위원회는 훗날 약 20만 명에 이르는 사망·실종자의 대부분이 국가 세력에 의한 것이며 집단학살 행위가 있었다고 결론지었다. 1985년 민간 헌법과 1990년대의 협상을 거쳐 1996년 평화협정이 체결되었다.",
+    "zh": "1954年后，危地马拉相继由军政府或军方支持的政府统治。自1960年起，左翼游击队与国家之间爆发冲突，到1980年代初升级为针对玛雅社区的焦土作战；联合国支持的真相委员会后来认定，约20万死亡和失踪者中绝大多数由国家力量造成，并认定发生了种族灭绝行为。1985年文官宪法和1990年代的谈判最终促成1996年和平协定。",
+    "ja": "1954年以降、軍政あるいは軍の後ろ盾を受けた政府が相次いでグアテマラを統治した。1960年から左翼ゲリラと国家の紛争が始まり、1980年代初めにはマヤの共同体に対する焦土作戦へと激化した。国連が支援した真相究明委員会は後に、約20万人に上る死者・行方不明者の大多数が国家側によるもので、ジェノサイド行為があったと認定した。1985年の文民憲法と1990年代の交渉を経て1996年に和平協定が結ばれた。"
+   }
+  },
+  {
+   "from": 1986,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q774",
+   "polity": "Guatemala",
+   "name": {
+    "en": "Constitutional democracy and post-war Guatemala",
+    "ko": "헌정 민주주의와 내전 이후의 과테말라",
+    "zh": "宪政民主与战后危地马拉",
+    "ja": "立憲民主制と内戦後のグアテマラ"
+   },
+   "summary": {
+    "en": "Civilian presidents have governed under the 1985 constitution since 1986, and the 1996 peace accords ended the armed conflict. Post-war Guatemala has struggled with poverty, inequality, organized crime, corruption and impunity; the UN-backed CICIG (2007–2019) exposed high-level graft before its mandate was ended. Indigenous Maya, Xinka and Garifuna peoples make up a large share of the population, and emigration to the United States has become a major economic and social force.",
+    "ko": "1986년 이후 1985년 헌법 아래 민간 대통령들이 통치해 왔고, 1996년 평화협정으로 무력 분쟁이 끝났다. 내전 이후의 과테말라는 빈곤과 불평등, 조직범죄, 부패와 불처벌 문제에 시달려 왔으며, 유엔이 지원한 CICIG(2007~2019)는 고위층 부패를 폭로했으나 결국 활동이 종료되었다. 마야·싱카·가리푸나 원주민이 인구의 큰 비중을 차지하며, 미국으로의 이주는 중요한 경제·사회적 요인이 되었다.",
+    "zh": "自1986年起，文官总统依据1985年宪法执政，1996年和平协定结束了武装冲突。战后的危地马拉长期受贫困、不平等、有组织犯罪、腐败和有罪不罚的困扰；联合国支持的危地马拉反有罪不罚国际委员会（CICIG，2007—2019）揭露了高层贪腐，但其任期最终被终止。玛雅、辛卡和加里富纳等原住民占人口很大比例，向美国移民已成为重要的经济与社会力量。",
+    "ja": "1986年以降、1985年憲法のもとで文民大統領が統治し、1996年の和平協定で武力紛争は終結した。内戦後のグアテマラは貧困、格差、組織犯罪、汚職と不処罰に苦しみ、国連が支援したCICIG（2007〜2019年）は高官の汚職を暴いたが、その任務は打ち切られた。マヤ、シンカ、ガリフナの先住民が人口の大きな割合を占め、米国への移民は重要な経済的・社会的要因となっている。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2500,
+   "qid": "Q13703",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Maize farming takes root in the Mesoamerican world",
+    "ko": "메소아메리카 세계에 뿌리내린 옥수수 농경",
+    "zh": "玉米农业在中美洲世界扎根",
+    "ja": "メソアメリカ世界に根づくトウモロコシ農耕"
+   },
+   "description": {
+    "en": "By the third millennium BC, plant remains and pollen show that people in the Guatemalan region were cultivating maize alongside wild foods. Guatemala lay within Mesoamerica, the cultural area whose shared crops, calendars and later urban traditions would link it with Mexico and western Central America for millennia.",
+    "ko": "기원전 3천년기 무렵의 식물 유체와 꽃가루 분석은 과테말라 지역 사람들이 야생 식량과 함께 옥수수를 재배하고 있었음을 보여 준다. 과테말라는 메소아메리카 문화권에 속했으며, 공통의 작물과 역법, 훗날의 도시 전통이 수천 년 동안 이 땅을 멕시코 및 중앙아메리카 서부와 이어 주었다.",
+    "zh": "公元前三千纪前后的植物遗存和花粉显示，危地马拉地区的人们在采集野生食物的同时已开始种植玉米。危地马拉地处中美洲文化区，共同的作物、历法以及后来的城市传统在数千年间把这里与墨西哥和中美洲西部联系在一起。",
+    "ja": "紀元前3千年紀頃の植物遺存体や花粉は、グアテマラ地域の人々が野生の食料とともにトウモロコシを栽培していたことを示している。グアテマラはメソアメリカ文化圏に属し、共通の作物や暦、のちの都市文化が数千年にわたりメキシコや中米西部とこの地を結びつけた。"
+   }
+  },
+  {
+   "year": -1600,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Pottery-making villages on the Pacific coast",
+    "ko": "태평양 연안에 등장한 토기 마을",
+    "zh": "太平洋沿岸出现制陶村落",
+    "ja": "太平洋岸に現れた土器を持つ村落"
+   },
+   "description": {
+    "en": "Around the mid-second millennium BC, sedentary villages making fine pottery appeared along the Pacific coastal plain of Guatemala and neighboring Chiapas. Their inhabitants exploited rich estuaries and grew maize, and growing social differences among households foreshadowed the chiefdoms of the following centuries.",
+    "ko": "기원전 2천년기 중반 무렵 과테말라와 인접한 치아파스의 태평양 연안 평야에 정교한 토기를 만드는 정착 마을들이 나타났다. 주민들은 풍부한 하구 자원을 이용하고 옥수수를 길렀으며, 가구 간에 커져 가는 사회적 격차는 이후 수 세기의 수장 사회를 예고했다.",
+    "zh": "约公元前二千纪中叶，危地马拉及邻近恰帕斯的太平洋沿岸平原出现了制作精美陶器的定居村落。居民利用丰富的河口资源并种植玉米，家户之间日益扩大的社会差别预示着此后几个世纪酋邦的出现。",
+    "ja": "紀元前2千年紀半ば頃、グアテマラと隣接するチアパスの太平洋岸平野に、精巧な土器をつくる定住村落が現れた。住民は豊かな河口の資源を利用しトウモロコシを育て、世帯間に広がる社会的格差はその後の首長制社会を予告していた。"
+   }
+  },
+  {
+   "year": -1000,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Ceibal builds an early ceremonial plaza",
+    "ko": "세이발에 세워진 초기 의례 광장",
+    "zh": "塞巴尔修建早期礼仪广场",
+    "ja": "セイバルに築かれた初期の儀礼広場"
+   },
+   "description": {
+    "en": "Excavations at Ceibal on the Pasión River show that around 1000 BC its inhabitants built a formal plaza with an E-Group, an architectural complex used for public ritual and possibly solar observation. It is among the earliest known ceremonial complexes in the Maya lowlands and suggests that communal ritual helped draw early Maya communities together.",
+    "ko": "파시온강 유역 세이발의 발굴 결과, 기원전 1000년경 이곳 주민들이 공공 의례와 태양 관측에 쓰였을 것으로 보이는 'E-그룹' 건축 복합체를 갖춘 정형 광장을 세웠음이 밝혀졌다. 이는 마야 저지대에서 알려진 가장 이른 의례 복합체 가운데 하나로, 공동 의례가 초기 마야 공동체를 결집시키는 역할을 했음을 시사한다.",
+    "zh": "对帕西翁河畔塞巴尔遗址的发掘表明，约公元前1000年当地居民修建了带有“E组建筑”的规整广场，这种建筑群用于公共仪式，可能也用于观测太阳。它是玛雅低地已知最早的礼仪建筑群之一，说明集体仪式曾帮助凝聚早期玛雅社区。",
+    "ja": "パシオン川流域のセイバルの発掘により、紀元前1000年頃の住民が公共儀礼や太陽観測に用いられたとみられる「Eグループ」を備えた整然とした広場を築いたことがわかった。マヤ低地で知られる最古級の儀礼施設の一つであり、共同の儀礼が初期マヤの共同体を結びつけたことを示唆している。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Nakbe raises the first monumental platforms of Petén",
+    "ko": "나크베, 페텐 최초의 거대 기단을 쌓다",
+    "zh": "纳克贝建起佩滕最早的大型台基",
+    "ja": "ナクベ、ペテン初の巨大基壇を築く"
+   },
+   "description": {
+    "en": "In the Mirador Basin of northern Petén, Nakbe grew from a village into a center with large raised platforms and causeways during the Middle Preclassic, roughly 800–400 BC. It is one of the earliest places in the Maya lowlands where monumental architecture shows the emergence of powerful elites.",
+    "ko": "페텐 북부 미라도르 분지의 나크베는 대략 기원전 800~400년의 중기 선고전기에 마을에서 거대한 기단과 둑길을 갖춘 중심지로 성장했다. 이곳은 기념비적 건축을 통해 강력한 엘리트의 등장을 보여 주는 마야 저지대 최초의 장소 가운데 하나이다.",
+    "zh": "在佩滕北部的米拉多尔盆地，纳克贝在约公元前800至前400年的前古典期中期由村落发展为拥有巨大台基和堤道的中心。它是玛雅低地最早以纪念性建筑显示强势精英出现的地点之一。",
+    "ja": "ペテン北部ミラドール盆地のナクベは、紀元前800〜400年頃の先古典期中期に村落から巨大な基壇と舗装道路を備えた中心地へと成長した。記念碑的建築によって有力なエリートの出現を示す、マヤ低地で最も早い場所の一つである。"
+   }
+  },
+  {
+   "year": -600,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Preclassic Maya centers flourish",
+    "ko": "선고전기 마야 중심지의 번영",
+    "zh": "前古典期玛雅中心的兴起",
+    "ja": "先古典期マヤ中心地の繁栄"
+   },
+   "description": {
+    "en": "Early Maya centers such as El Mirador and Kaminaljuyu flourished in present-day Guatemala, building monumental pyramids and laying the foundations of Maya civilization. In the Valley of Guatemala, Kaminaljuyu dug irrigation canals fed by Lake Miraflores, while Takalik Abaj on the Pacific slope combined Olmec-style and early Maya sculpture.",
+    "ko": "엘 미라도르와 카미날후유 등 초기 마야 중심지가 오늘날의 과테말라 지역에서 번성하며 거대한 피라미드를 세우고 마야 문명의 기틀을 마련했다. 과테말라 계곡의 카미날후유는 미라플로레스 호수의 물을 끌어 관개 수로를 팠고, 태평양 사면의 타칼리크 아바흐에는 올멕 양식과 초기 마야 양식의 조각이 함께 남아 있다.",
+    "zh": "埃尔米拉多尔和卡米纳尔胡尤等早期玛雅中心在今危地马拉境内兴起，修建宏伟的金字塔，奠定了玛雅文明的基础。危地马拉谷地的卡米纳尔胡尤引米拉弗洛雷斯湖水开凿灌溉渠，太平洋坡地的塔卡利克阿巴赫则同时留下了奥尔梅克风格和早期玛雅风格的雕刻。",
+    "ja": "エル・ミラドールやカミナルフユなど初期マヤの中心地が現在のグアテマラで栄え、巨大なピラミッドを築いてマヤ文明の基礎を築いた。グアテマラ盆地のカミナルフユはミラフローレス湖から水を引く灌漑水路を掘り、太平洋斜面のタカリク・アバフにはオルメカ様式と初期マヤ様式の彫刻が並んで残っている。"
+   }
+  },
+  {
+   "year": -300,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "El Mirador at its height",
+    "ko": "전성기를 맞은 엘 미라도르",
+    "zh": "埃尔米拉多尔的鼎盛期",
+    "ja": "最盛期のエル・ミラドール"
+   },
+   "description": {
+    "en": "During the Late Preclassic, El Mirador became the dominant city of the Maya lowlands, linked to satellite centers by raised causeways (sacbeob). Its La Danta and El Tigre complexes rank among the most massive structures of the ancient Americas, evidence of a state able to mobilize enormous labor long before Tikal's rise.",
+    "ko": "후기 선고전기에 엘 미라도르는 마야 저지대의 패권 도시가 되었고, 돋운 둑길(사크베)로 주변 위성 중심지들과 연결되었다. 라 단타와 엘 티그레 복합체는 고대 아메리카에서 손꼽히는 거대 구조물로, 티칼이 부상하기 훨씬 전에 막대한 노동력을 동원할 수 있었던 국가의 존재를 보여 준다.",
+    "zh": "在前古典期晚期，埃尔米拉多尔成为玛雅低地的霸主城市，以高架堤道（萨克贝）连接周边卫星中心。其拉丹塔和埃尔蒂格雷建筑群跻身古代美洲最庞大的建筑之列，证明早在蒂卡尔崛起之前，这里已存在能够动员巨大劳力的国家。",
+    "ja": "先古典期後期、エル・ミラドールはマヤ低地の覇権都市となり、盛り土の舗装道路（サクベ）で周辺の衛星都市と結ばれた。ラ・ダンタやエル・ティグレの建築群は古代アメリカ屈指の巨大建造物で、ティカル台頭のはるか以前に膨大な労働力を動員できる国家が存在したことを示している。"
+   }
+  },
+  {
+   "year": -100,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "San Bartolo murals depict Maya myth and kingship",
+    "ko": "마야 신화와 왕권을 그린 산바르톨로 벽화",
+    "zh": "圣巴托洛壁画描绘玛雅神话与王权",
+    "ja": "マヤ神話と王権を描くサン・バルトロ壁画"
+   },
+   "description": {
+    "en": "At San Bartolo in northeastern Petén, painters around 100 BC covered a chamber wall with vivid murals of the maize god, creation myths and a royal coronation. Earlier layers at the site preserve some of the oldest known Maya hieroglyphic writing, showing that sophisticated religious art and script already existed in the Preclassic.",
+    "ko": "페텐 북동부 산바르톨로에서는 기원전 100년경 화가들이 방의 벽면에 옥수수 신과 창조 신화, 왕의 즉위식을 생생하게 그렸다. 유적의 더 이른 층에는 현재 알려진 가장 오래된 마야 상형문자 일부가 남아 있어, 정교한 종교 미술과 문자가 이미 선고전기에 존재했음을 보여 준다.",
+    "zh": "在佩滕东北部的圣巴托洛，画师们约在公元前100年于一间墙室内绘制了描绘玉米神、创世神话和王者加冕的生动壁画。遗址更早的地层保存了目前已知最古老的玛雅象形文字之一，表明精湛的宗教艺术和文字在前古典期就已存在。",
+    "ja": "ペテン北東部のサン・バルトロでは、紀元前100年頃、画家たちが部屋の壁にトウモロコシの神や創世神話、王の即位を鮮やかに描いた。遺跡のさらに古い層には知られる限り最古級のマヤ文字が残り、高度な宗教美術と文字が先古典期にすでに存在したことを示している。"
+   }
+  },
+  {
+   "year": 150,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Decline of the Mirador Basin",
+    "ko": "미라도르 분지의 쇠퇴",
+    "zh": "米拉多尔盆地的衰落",
+    "ja": "ミラドール盆地の衰退"
+   },
+   "description": {
+    "en": "Around the 2nd century AD, El Mirador and many other Preclassic centers of northern Petén declined and were largely abandoned. Researchers link this to environmental stress, including erosion and the silting of wetlands, as well as political upheaval; power shifted to cities such as Tikal that would dominate the Classic period.",
+    "ko": "서기 2세기 무렵 엘 미라도르를 비롯한 페텐 북부의 여러 선고전기 중심지가 쇠퇴하여 대부분 버려졌다. 연구자들은 토양 침식과 습지의 퇴적 같은 환경 압박과 정치적 격변을 원인으로 꼽으며, 이후 권력은 고전기를 주도할 티칼 같은 도시로 옮겨 갔다.",
+    "zh": "约公元2世纪，埃尔米拉多尔及佩滕北部许多前古典期中心衰落，大多被遗弃。研究者将其归因于水土流失、湿地淤积等环境压力以及政治动荡；权力随后转向蒂卡尔等将主导古典期的城市。",
+    "ja": "2世紀頃、エル・ミラドールをはじめペテン北部の多くの先古典期の中心地が衰退し、大半が放棄された。研究者は土壌浸食や湿地の埋積などの環境的圧力と政治的混乱を要因に挙げ、権力はのちに古典期を主導するティカルなどの都市へ移った。"
+   }
+  },
+  {
+   "year": 250,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Classic Maya era: rise of Tikal",
+    "ko": "고전기 마야 시대와 티칼의 부상",
+    "zh": "玛雅古典期与蒂卡尔的崛起",
+    "ja": "マヤ古典期とティカルの台頭"
+   },
+   "description": {
+    "en": "The Classic Maya period began, with Tikal emerging as one of the most powerful city-states of the Maya world, renowned for its towering temples and dynastic monuments. Its royal dynasty traced itself to a founder known as Yax Ehb Xook, and rulers recorded their deeds on carved stelae dated in the Long Count calendar.",
+    "ko": "고전기 마야 시대가 시작되어 티칼이 마야 세계에서 가장 강력한 도시국가 중 하나로 떠올랐다. 티칼은 우뚝 솟은 신전과 왕조 기념비로 유명하다. 티칼 왕조는 약스 에브 슉이라는 시조에게서 계보를 이었다고 하며, 통치자들은 장기력 날짜를 새긴 석비에 자신의 업적을 기록했다.",
+    "zh": "玛雅古典期开始，蒂卡尔崛起为玛雅世界最强大的城邦之一，以高耸的神庙和王朝纪念碑闻名。蒂卡尔王朝自称源自开国者亚什·埃布·肖克，历代统治者在刻有长纪历日期的石碑上记录自己的功业。",
+    "ja": "マヤ古典期が始まり、ティカルがマヤ世界で最も強大な都市国家の一つとして台頭した。そびえ立つ神殿と王朝の記念碑で知られる。王朝はヤシュ・エブ・ショークという始祖に遡るとされ、歴代の王は長期暦の日付を刻んだ石碑に業績を記録した。"
+   }
+  },
+  {
+   "year": 292,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Tikal Stela 29: earliest dated lowland monument",
+    "ko": "티칼 29번 석비: 저지대 최초의 연대 기념비",
+    "zh": "蒂卡尔29号石碑：低地最早纪年碑",
+    "ja": "ティカル石碑29：低地最古の紀年碑"
+   },
+   "description": {
+    "en": "Tikal Stela 29 bears a Long Count date corresponding to AD 292, the earliest such date known on a monument in the central Maya lowlands. It portrays a ruler in royal regalia and marks the beginning of the Classic tradition of commemorating kings with dated stone stelae.",
+    "ko": "티칼 29번 석비에는 서기 292년에 해당하는 장기력 날짜가 새겨져 있는데, 이는 마야 중부 저지대 기념비에서 알려진 가장 이른 날짜이다. 석비에는 왕의 예복을 갖춘 통치자가 묘사되어 있으며, 날짜를 새긴 석비로 왕을 기리는 고전기 전통의 시작을 알린다.",
+    "zh": "蒂卡尔29号石碑刻有相当于公元292年的长纪历日期，是玛雅中部低地纪念碑上已知最早的此类日期。石碑描绘了身着王者服饰的统治者，标志着以纪年石碑纪念君王的古典期传统的开端。",
+    "ja": "ティカルの石碑29には西暦292年にあたる長期暦の日付が刻まれており、マヤ中部低地の記念碑で知られる最古の例である。王の装束をまとった支配者が描かれ、日付入りの石碑で王を記念する古典期の伝統の始まりを告げている。"
+   }
+  },
+  {
+   "year": 378,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Teotihuacan's 'arrival' at Tikal",
+    "ko": "테오티우아칸 세력의 티칼 '도래'",
+    "zh": "特奥蒂瓦坎势力“抵达”蒂卡尔",
+    "ja": "テオティワカン勢力のティカル「到来」"
+   },
+   "description": {
+    "en": "In January 378 a warlord named Siyaj K'ak', associated with the distant central Mexican metropolis of Teotihuacan, arrived at Tikal; the same day the Tikal king Chak Tok Ich'aak died. A new ruler, Yax Nuun Ahiin, linked to Teotihuacan, was installed, and Tikal went on to extend its influence over Uaxactun and other lowland cities. The exact nature of the episode—conquest or alliance—is still debated.",
+    "ko": "378년 1월 멀리 멕시코 중부의 대도시 테오티우아칸과 연관된 전사 지도자 시야흐 카크가 티칼에 도착했고, 같은 날 티칼 왕 착 톡 이착이 사망했다. 테오티우아칸과 연결된 새 통치자 약스 눈 아힌이 즉위했으며, 이후 티칼은 왁사크툰 등 저지대 도시로 영향력을 넓혔다. 이 사건이 정복이었는지 동맹이었는지는 지금도 논쟁 중이다.",
+    "zh": "378年1月，与遥远的墨西哥中部大都会特奥蒂瓦坎有关的军事首领西亚赫·卡克抵达蒂卡尔，同日蒂卡尔国王查克·托克·伊查克死去。与特奥蒂瓦坎相关的新君亚什·努恩·阿因即位，蒂卡尔随后将势力扩展至瓦夏克通等低地城市。这一事件究竟是征服还是结盟，至今仍有争论。",
+    "ja": "378年1月、遠く中央メキシコの大都市テオティワカンと結びついた武将シヤフ・カックがティカルに到着し、同じ日にティカル王チャク・トク・イチャークが死去した。テオティワカンとつながる新王ヤシュ・ヌーン・アイーンが即位し、ティカルはワシャクトゥンなど低地の諸都市へ影響力を広げた。この出来事が征服か同盟かは今も議論が続いている。"
+   }
+  },
+  {
+   "year": 426,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Quiriguá's dynasty founded in the Motagua valley",
+    "ko": "모타과 계곡에 세워진 키리과 왕조",
+    "zh": "莫塔瓜河谷的基里瓜王朝建立",
+    "ja": "モタグア川流域にキリグア王朝が成立"
+   },
+   "description": {
+    "en": "Monuments at Quiriguá record the founding of its royal line in 426, closely tied to K'inich Yax K'uk' Mo', founder of the dynasty of nearby Copán in present-day Honduras. Quiriguá controlled a strategic stretch of the Motagua River, the main route for jade and obsidian from the highlands to the Caribbean.",
+    "ko": "키리과의 기념비에는 426년에 왕가가 창건되었다고 기록되어 있으며, 이는 오늘날 온두라스에 있는 인근 코판 왕조의 시조 키니치 약스 쿡 모와 밀접하게 연결되어 있다. 키리과는 고지대의 옥과 흑요석을 카리브해로 운반하는 주요 통로인 모타과강의 전략적 구간을 장악했다.",
+    "zh": "基里瓜的纪念碑记载其王系创立于426年，与今洪都拉斯境内邻近的科潘王朝开国者基尼奇·亚什·库克·莫关系密切。基里瓜控制着莫塔瓜河的战略河段，这是高地玉石和黑曜石运往加勒比海的主要通道。",
+    "ja": "キリグアの記念碑は、426年に王家が創始されたと記録しており、これは現在のホンジュラスにある近隣のコパン王朝の始祖キニチ・ヤシュ・クック・モと密接に結びついている。キリグアは高地の翡翠や黒曜石をカリブ海へ運ぶ主要路であるモタグア川の要衝を押さえていた。"
+   }
+  },
+  {
+   "year": 537,
+   "qid": "Q18148539",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Tikal–Calakmul wars",
+    "ko": "티칼–칼라크물 전쟁",
+    "zh": "蒂卡尔—卡拉克穆尔战争",
+    "ja": "ティカル・カラクムル戦争"
+   },
+   "description": {
+    "en": "From the 6th century Tikal and the Kaanul ('Snake') dynasty, based at Calakmul in present-day Mexico, fought a long series of wars for supremacy over the Maya lowlands. Each built networks of vassals and allies among smaller kingdoms such as Naranjo, Caracol and Dos Pilas, and the rivalry shaped Maya politics until the early 8th century.",
+    "ko": "6세기부터 티칼과 오늘날 멕시코의 칼라크물에 근거지를 둔 카아눌('뱀') 왕조는 마야 저지대의 패권을 놓고 오랜 전쟁을 벌였다. 양측은 나랑호, 카라콜, 도스 필라스 같은 작은 왕국들 사이에 봉신과 동맹의 망을 구축했고, 이 경쟁은 8세기 초까지 마야 정치를 좌우했다.",
+    "zh": "自6世纪起，蒂卡尔与以今墨西哥卡拉克穆尔为根据地的卡安（“蛇”）王朝为争夺玛雅低地霸权展开了一连串长期战争。双方在纳兰霍、卡拉科尔、多斯皮拉斯等较小王国中建立附庸与同盟网络，这一对抗主导玛雅政治直至8世纪初。",
+    "ja": "6世紀からティカルと、現在のメキシコのカラクムルを本拠とするカーヌル（「蛇」）王朝は、マヤ低地の覇権をめぐって長い戦争を繰り返した。両者はナランホ、カラコル、ドス・ピラスなどの小王国に臣従・同盟の網を築き、この対立は8世紀初めまでマヤの政治を左右した。"
+   }
+  },
+  {
+   "year": 562,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Tikal defeated: the start of the 'hiatus'",
+    "ko": "티칼의 패배와 '공백기'의 시작",
+    "zh": "蒂卡尔战败与“空白期”的开始",
+    "ja": "ティカルの敗北と「中断期」の始まり"
+   },
+   "description": {
+    "en": "In 562 Tikal suffered a major defeat by Caracol, an ally of Calakmul, and its king Wak Chan K'awiil was apparently captured and sacrificed. For more than a century afterward Tikal erected almost no dated monuments, a period archaeologists call the Tikal hiatus, while Calakmul's alliance network dominated the region.",
+    "ko": "562년 티칼은 칼라크물의 동맹인 카라콜에게 크게 패했고, 왕 왁 찬 카윌은 사로잡혀 희생된 것으로 보인다. 이후 한 세기가 넘도록 티칼은 날짜를 새긴 기념비를 거의 세우지 못했는데, 고고학자들은 이를 '티칼 공백기'라 부른다. 이 기간 동안 칼라크물의 동맹망이 지역을 지배했다.",
+    "zh": "562年，蒂卡尔被卡拉克穆尔的盟友卡拉科尔重创，国王瓦克·昌·卡维尔似乎被俘并献祭。此后一个多世纪里蒂卡尔几乎没有竖立纪年碑，考古学家称之为“蒂卡尔空白期”，其间卡拉克穆尔的同盟网络主导了这一地区。",
+    "ja": "562年、ティカルはカラクムルの同盟国カラコルに大敗し、王ワク・チャン・カウィールは捕らえられ生贄にされたとみられる。その後1世紀以上ティカルは日付入りの記念碑をほとんど建てず、考古学者はこれを「ティカルの中断期」と呼ぶ。この間カラクムルの同盟網が地域を支配した。"
+   }
+  },
+  {
+   "year": 629,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Dos Pilas founded by a Tikal prince",
+    "ko": "티칼 왕자가 세운 도스 필라스",
+    "zh": "蒂卡尔王子建立多斯皮拉斯",
+    "ja": "ティカルの王子がドス・ピラスを建設"
+   },
+   "description": {
+    "en": "Around 629 a member of Tikal's royal house established a new seat at Dos Pilas in the Petexbatún region. Its ruler B'alaj Chan K'awiil soon switched allegiance to Calakmul and fought his own Tikal kin, an episode that illustrates how the great rivalry split even ruling families.",
+    "ko": "629년경 티칼 왕가의 일원이 페텍스바툰 지역의 도스 필라스에 새로운 왕좌를 세웠다. 그 통치자 발라흐 찬 카윌은 곧 칼라크물 편으로 돌아서 티칼의 친족들과 싸웠는데, 이는 거대한 패권 경쟁이 왕가마저 갈라 놓았음을 보여 준다.",
+    "zh": "约629年，蒂卡尔王室的一名成员在佩特斯巴通地区的多斯皮拉斯建立新的王座。其统治者巴拉赫·昌·卡维尔不久转投卡拉克穆尔，与蒂卡尔的亲族交战，说明这场大对抗甚至撕裂了王族。",
+    "ja": "629年頃、ティカル王家の一員がペテシュバトゥン地方のドス・ピラスに新たな王座を築いた。その王バラフ・チャン・カウィールはまもなくカラクムル側に寝返ってティカルの同族と戦い、大国間の対立が王家さえ分裂させたことを物語っている。"
+   }
+  },
+  {
+   "year": 695,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Tikal defeats Calakmul",
+    "ko": "티칼, 칼라크물을 격파하다",
+    "zh": "蒂卡尔击败卡拉克穆尔",
+    "ja": "ティカル、カラクムルを破る"
+   },
+   "description": {
+    "en": "Under King Jasaw Chan K'awiil I, Tikal defeated its great rival Calakmul, ushering in a final golden age of monumental construction at the city. Temple I, which became Jasaw's funerary pyramid, and other great temples of Tikal's skyline date to this revival.",
+    "ko": "하사우 찬 카윌 1세 치하의 티칼이 숙적 칼라크물을 격파하고 도시의 마지막 전성기를 맞아 대규모 건축이 이어졌다. 하사우의 무덤 피라미드가 된 1호 신전을 비롯해 오늘날 티칼의 스카이라인을 이루는 거대 신전들이 이 부흥기에 세워졌다.",
+    "zh": "在国王哈萨乌·陈·卡维尔一世统治下，蒂卡尔击败宿敌卡拉克穆尔，迎来大兴土木的最后黄金时代。后来成为哈萨乌墓葬金字塔的一号神庙以及构成蒂卡尔天际线的其他大神庙，都建于这一复兴时期。",
+    "ja": "ハサウ・チャン・カウィール1世の下でティカルは宿敵カラクムルを破り、都市は大規模建築が続く最後の黄金期を迎えた。ハサウの墓となった1号神殿など、今日のティカルのスカイラインを形づくる大神殿の多くがこの復興期に建てられた。"
+   }
+  },
+  {
+   "year": 738,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Quiriguá captures the king of Copán",
+    "ko": "키리과, 코판의 왕을 사로잡다",
+    "zh": "基里瓜俘获科潘国王",
+    "ja": "キリグア、コパン王を捕らえる"
+   },
+   "description": {
+    "en": "In 738 K'ak' Tiliw Chan Yopaat of Quiriguá, once a vassal of Copán, captured and executed Copán's powerful king Waxaklajuun Ub'aah K'awiil. Freed from its overlord, Quiriguá entered a building boom and erected the colossal sandstone stelae and zoomorphs that are now part of a UNESCO World Heritage site.",
+    "ko": "738년 한때 코판의 봉신이었던 키리과의 카크 틸리우 찬 요아트가 코판의 강력한 왕 와샤클라후운 우바아흐 카윌을 사로잡아 처형했다. 종주국에서 벗어난 키리과는 건설 붐을 맞아 거대한 사암 석비와 동물 형상 조각을 세웠으며, 이 유적은 현재 유네스코 세계유산이다.",
+    "zh": "738年，曾是科潘附庸的基里瓜国王卡克·蒂利乌·昌·约帕特俘获并处死了科潘强大的国王瓦沙克拉胡恩·乌巴·卡维尔。摆脱宗主后，基里瓜大兴土木，竖立起巨大的砂岩石碑和兽形雕刻，如今遗址已列入联合国教科文组织世界遗产。",
+    "ja": "738年、かつてコパンの臣下だったキリグアのカック・ティリウ・チャン・ヨパートが、コパンの強大な王ワシャクラフーン・ウバーフ・カウィールを捕らえて処刑した。宗主から自立したキリグアは建設ブームを迎え、巨大な砂岩の石碑や獣形彫刻を建てた。遺跡は現在ユネスコ世界遺産である。"
+   }
+  },
+  {
+   "year": 761,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fall of Dos Pilas and the Petexbatún wars",
+    "ko": "도스 필라스의 몰락과 페텍스바툰 전쟁",
+    "zh": "多斯皮拉斯陷落与佩特斯巴通战争",
+    "ja": "ドス・ピラスの陥落とペテシュバトゥン戦争"
+   },
+   "description": {
+    "en": "Around 761 Dos Pilas was overrun by former vassals, and its nobles hastily built defensive walls out of the stones of their own palaces. Endemic warfare then engulfed the Petexbatún region, one of the earliest areas of the lowlands to collapse, foreshadowing the wider Classic Maya breakdown.",
+    "ko": "761년경 도스 필라스는 예전 봉신들에게 함락되었고, 귀족들은 자신들의 궁전 석재를 뜯어 급히 방벽을 쌓았다. 이후 페텍스바툰 지역은 끊임없는 전쟁에 휩싸였고, 저지대에서 가장 먼저 붕괴한 지역 가운데 하나로서 고전기 마야 전체의 붕괴를 예고했다.",
+    "zh": "约761年，多斯皮拉斯被昔日附庸攻破，贵族们匆忙拆下自家宫殿的石块修筑防御墙。此后佩特斯巴通地区陷入连绵战乱，成为低地最早崩溃的地区之一，预示了古典期玛雅更大范围的瓦解。",
+    "ja": "761年頃、ドス・ピラスはかつての臣下に攻め落とされ、貴族たちは自らの宮殿の石を剥がして急ごしらえの防壁を築いた。その後ペテシュバトゥン地方は絶え間ない戦争に巻き込まれ、低地で最も早く崩壊した地域の一つとして、古典期マヤ全体の崩壊を予告した。"
+   }
+  },
+  {
+   "year": 800,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Massacre of the royal court at Cancuén",
+    "ko": "칸쿠엔 왕실의 학살",
+    "zh": "坎昆王室遭屠杀",
+    "ja": "カンクエン王宮の虐殺"
+   },
+   "description": {
+    "en": "Around 800, the trading city of Cancuén on the upper Pasión River, which had prospered by controlling routes for jade, obsidian and other goods, was suddenly abandoned. Archaeologists found the remains of dozens of nobles, including the king and queen, killed and placed in a cistern, a grim sign of the violence of the late Classic period.",
+    "ko": "800년경 옥과 흑요석 등의 교역로를 장악해 번영하던 파시온강 상류의 교역 도시 칸쿠엔이 갑자기 버려졌다. 고고학자들은 왕과 왕비를 포함한 수십 명의 귀족이 살해되어 저수조에 놓인 유해를 발견했는데, 이는 고전기 말기의 폭력을 보여 주는 참혹한 증거이다.",
+    "zh": "约800年，位于帕西翁河上游、因控制玉石和黑曜石等商路而繁荣的贸易城市坎昆突然被弃。考古学家发现包括国王和王后在内的数十名贵族遇害后被置于蓄水池中，这是古典期晚期暴力的惨烈见证。",
+    "ja": "800年頃、翡翠や黒曜石などの交易路を押さえて栄えたパシオン川上流の交易都市カンクエンが突然放棄された。考古学者は王と王妃を含む数十人の貴族が殺害され貯水槽に置かれた遺骸を発見しており、古典期末の暴力を物語る痛ましい証拠となっている。"
+   }
+  },
+  {
+   "year": 869,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Tikal's last dated monument",
+    "ko": "티칼의 마지막 연대 기념비",
+    "zh": "蒂卡尔最后的纪年碑",
+    "ja": "ティカル最後の紀年碑"
+   },
+   "description": {
+    "en": "Stela 11, the last dated monument at Tikal, was erected in 869 by the ruler Jasaw Chan K'awiil II. After this the royal dynasty disappears from the record, and the city's population dwindled until the great center was left to the forest.",
+    "ko": "티칼의 마지막 연대 기념비인 11번 석비는 869년 통치자 하사우 찬 카윌 2세가 세웠다. 이후 왕조는 기록에서 사라지고, 도시 인구는 줄어들어 거대한 중심지는 결국 숲에 묻혔다.",
+    "zh": "蒂卡尔最后一座纪年碑——11号石碑——由统治者哈萨乌·陈·卡维尔二世于869年竖立。此后王朝从记录中消失，城市人口日渐减少，这座宏大的中心最终湮没于丛林之中。",
+    "ja": "ティカル最後の紀年碑である石碑11は、869年に支配者ハサウ・チャン・カウィール2世によって建てられた。その後王朝は記録から姿を消し、人口は減り続け、壮大な都市はやがて森に呑み込まれた。"
+   }
+  },
+  {
+   "year": 900,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Collapse of the Classic Maya cities",
+    "ko": "고전기 마야 도시의 붕괴",
+    "zh": "古典期玛雅城市的衰亡",
+    "ja": "古典期マヤ都市の崩壊"
+   },
+   "description": {
+    "en": "The great lowland Maya cities, including Tikal, were abandoned amid drought, warfare and political crisis, ending the Classic period; Maya culture continued in the highlands. Some Petén centers such as Ceibal enjoyed a brief late florescence before they too declined, and small populations persisted around the Petén lakes.",
+    "ko": "가뭄과 전쟁, 정치적 위기 속에 티칼을 비롯한 저지대 마야 도시들이 버려지며 고전기가 막을 내렸다. 마야 문화는 고지대에서 계속 이어졌다. 세이발 같은 일부 페텐 중심지는 짧은 말기 번영을 누린 뒤 역시 쇠퇴했고, 페텐 호수 주변에는 소규모 인구가 남았다.",
+    "zh": "在干旱、战乱与政治危机中，蒂卡尔等低地玛雅大城相继被弃，古典期落幕；玛雅文化在高地延续。塞巴尔等少数佩滕中心经历了短暂的晚期繁荣后也走向衰落，佩滕诸湖周边仍有少量人口留存。",
+    "ja": "干ばつや戦乱、政治危機の中でティカルなど低地マヤの大都市が放棄され、古典期が終わった。マヤ文化は高地で存続した。セイバルなどペテンの一部の中心地は短い末期の繁栄を経て同じく衰退し、ペテンの湖周辺には小規模な人口が残った。"
+   }
+  },
+  {
+   "year": 1100,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fortified hilltop centers in the highlands",
+    "ko": "고지대의 요새화된 언덕 위 중심지",
+    "zh": "高地兴起设防山顶中心",
+    "ja": "高地に広がる要塞化された丘上の拠点"
+   },
+   "description": {
+    "en": "In the Early Postclassic, highland Maya communities increasingly moved their centers to defensible ridges and hilltops surrounded by ravines. The shift reflects a more militarized political world of competing lineages, out of which the K'iche', Kaqchikel and other kingdoms would emerge.",
+    "ko": "전기 후고전기에 고지대 마야 공동체들은 점점 협곡으로 둘러싸인 방어하기 쉬운 능선과 언덕 위로 중심지를 옮겼다. 이러한 변화는 경쟁하는 가문들이 각축하는 한층 군사화된 정치 세계를 반영하며, 여기서 키체와 카치켈 등의 왕국이 생겨났다.",
+    "zh": "在后古典期早期，高地玛雅社区日益将中心迁往四周有深谷环绕、易守难攻的山脊和山顶。这一变化反映出各世系相互竞争、更加军事化的政治格局，基切、卡克奇克尔等王国正是由此兴起。",
+    "ja": "後古典期前期、高地のマヤの共同体は、峡谷に囲まれた守りやすい尾根や丘の上へと拠点を移していった。この変化は競合する家系がしのぎを削る、より軍事化した政治世界を映しており、そこからキチェーやカクチケルなどの王国が生まれた。"
+   }
+  },
+  {
+   "year": 1225,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "K'iche' founding lineages arrive (tradition)",
+    "ko": "키체 시조 가문의 도래(전승)",
+    "zh": "基切开国世系到来（传说）",
+    "ja": "キチェー始祖家系の到来（伝承）"
+   },
+   "description": {
+    "en": "According to the Popol Vuh and other K'iche' chronicles, the founding fathers of the K'iche' lineages came from a legendary 'Tulan' in the east, bringing their patron gods, and settled in the highlands around the 13th century. Scholars treat these accounts as dynastic tradition, though they likely reflect real migrations and Gulf Coast or Mexican influences on highland elites.",
+    "ko": "『포폴 부』와 여러 키체 연대기에 따르면, 키체 가문들의 시조는 동쪽의 전설적인 '툴란'에서 수호신들을 모시고 와 13세기 무렵 고지대에 정착했다. 학자들은 이 이야기를 왕조 전승으로 보지만, 실제 이주와 멕시코만 연안 또는 멕시코 지역이 고지대 엘리트에 끼친 영향을 반영했을 가능성이 크다고 본다.",
+    "zh": "据《波波尔·乌》及其他基切编年史记载，基切各世系的始祖们携带守护神从东方传说中的“图兰”而来，约于13世纪定居高地。学者将这些叙述视为王朝传说，但认为其很可能反映了真实的迁徙以及墨西哥湾沿岸或墨西哥地区对高地精英的影响。",
+    "ja": "『ポポル・ヴフ』などキチェーの年代記によれば、キチェー諸家系の始祖たちは守護神を携えて東方の伝説の地「トゥラン」からやって来て、13世紀頃に高地に定住した。学者はこれを王朝の伝承とみなすが、実際の移住やメキシコ湾岸・メキシコ方面の影響が高地エリートに及んだことを反映している可能性が高い。"
+   }
+  },
+  {
+   "year": 1400,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Q'umarkaj becomes the K'iche' capital",
+    "ko": "쿠마르카흐, 키체의 수도가 되다",
+    "zh": "库马尔卡赫成为基切首都",
+    "ja": "クマルカフ、キチェーの都となる"
+   },
+   "description": {
+    "en": "In the early 15th century, by tradition under the ruler K'uk'kumatz, the K'iche' established their capital at Q'umarkaj (Utatlán), near present-day Santa Cruz del Quiché. From this ravine-protected city the K'iche' kings built the most powerful state of the Guatemalan highlands.",
+    "ko": "15세기 초, 전승에 따르면 쿠쿠마츠 왕 시대에 키체는 오늘날의 산타크루스델키체 근처 쿠마르카흐(우타틀란)에 수도를 세웠다. 협곡으로 보호된 이 도시를 거점으로 키체 왕들은 과테말라 고지대에서 가장 강력한 국가를 건설했다.",
+    "zh": "15世纪初，据传在君主库库马茨统治时期，基切人在今圣克鲁斯-德尔基切附近的库马尔卡赫（乌塔特兰）建都。以这座有深谷屏障的城市为中心，基切诸王建立起危地马拉高地最强大的国家。",
+    "ja": "15世紀初め、伝承ではククマツ王の時代に、キチェーは現在のサンタ・クルス・デル・キチェ近くのクマルカフ（ウタトラン）に都を置いた。峡谷に守られたこの都市を拠点に、キチェーの王たちはグアテマラ高地で最強の国家を築いた。"
+   }
+  },
+  {
+   "year": 1450,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "K'iq'ab's expansion of the K'iche' kingdom",
+    "ko": "키카브 왕의 키체 왕국 확장",
+    "zh": "基卡布扩张基切王国",
+    "ja": "キカブ王によるキチェー王国の拡大"
+   },
+   "description": {
+    "en": "Under K'iq'ab, who reigned in the mid-15th century, the K'iche' kingdom reached its greatest extent, campaigning across the western highlands and toward the Pacific coast. His reign ended in internal revolt by subordinate lineages, a crisis that opened the way for the Kaqchikel to break away.",
+    "ko": "15세기 중엽에 재위한 키카브 왕 아래에서 키체 왕국은 서부 고지대 전역과 태평양 연안 방면으로 원정하며 최대 판도를 이루었다. 그의 치세는 하위 가문들의 내부 반란으로 끝났고, 이 위기는 카치켈이 독립하는 길을 열었다.",
+    "zh": "在15世纪中叶在位的基卡布统治下，基切王国征战西部高地并向太平洋沿岸推进，版图达到顶峰。他的统治以下属世系的内部叛乱告终，这场危机为卡克奇克尔人的分离开辟了道路。",
+    "ja": "15世紀半ばに在位したキカブのもとで、キチェー王国は西部高地一帯から太平洋岸方面へ遠征して最大版図に達した。治世は従属家系の内紛で終わり、この危機がカクチケルの離反への道を開いた。"
+   }
+  },
+  {
+   "year": 1470,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Kaqchikel found Iximche",
+    "ko": "카치켈, 이심체를 세우다",
+    "zh": "卡克奇克尔建立伊西姆切",
+    "ja": "カクチケル、イシムチェを建設"
+   },
+   "description": {
+    "en": "Around 1470 the Kaqchikel, formerly allies of the K'iche', broke away and founded their own capital at Iximche near present-day Tecpán. The rival kingdoms fought repeatedly over the following decades, divisions that the Spanish would exploit in the 1520s.",
+    "ko": "1470년경 키체의 동맹이었던 카치켈은 떨어져 나와 오늘날의 테크판 근처 이심체에 독자적인 수도를 세웠다. 두 왕국은 이후 수십 년 동안 거듭 싸웠고, 1520년대 에스파냐인들은 이 분열을 이용했다.",
+    "zh": "约1470年，原为基切盟友的卡克奇克尔人分离出来，在今特克潘附近的伊西姆切建立自己的都城。此后数十年两国屡次交战，这种分裂在1520年代被西班牙人所利用。",
+    "ja": "1470年頃、キチェーの同盟者だったカクチケルが離反し、現在のテクパン近くのイシムチェに独自の都を築いた。両王国はその後数十年にわたり抗争を繰り返し、1520年代にスペイン人はこの分裂を利用した。"
+   }
+  },
+  {
+   "year": 1520,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Epidemic precedes the Spanish arrival",
+    "ko": "에스파냐인 도착에 앞선 전염병",
+    "zh": "西班牙人到来前的瘟疫",
+    "ja": "スペイン人到来に先立つ疫病"
+   },
+   "description": {
+    "en": "The Annals of the Kaqchikels describe a terrible plague that struck the highlands around 1519–1521, before Spanish soldiers arrived. Probably smallpox spreading south from Mexico, it killed large numbers of people, including nobles, and weakened the Maya kingdoms on the eve of conquest.",
+    "ko": "『카치켈 연대기』는 에스파냐 군대가 도착하기 전인 1519~1521년경 고지대를 덮친 끔찍한 역병을 전한다. 멕시코에서 남하한 천연두로 추정되는 이 병은 귀족을 포함해 수많은 사람의 목숨을 앗아 가며 정복 직전의 마야 왕국들을 약화시켰다.",
+    "zh": "《卡克奇克尔编年史》记载，约1519至1521年间，在西班牙士兵到来之前，一场可怕的瘟疫袭击了高地。这很可能是从墨西哥南传的天花，夺去了包括贵族在内的大量人口，在征服前夕削弱了玛雅诸国。",
+    "ja": "『カクチケル年代記』は、スペイン兵到来前の1519〜1521年頃に高地を襲った恐ろしい疫病を伝えている。おそらくメキシコから南下した天然痘で、貴族を含む多くの人々の命を奪い、征服前夜のマヤ諸王国を弱体化させた。"
+   }
+  },
+  {
+   "year": 1524,
+   "qid": "Q2993582",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Spanish conquest under Pedro de Alvarado",
+    "ko": "페드로 데 알바라도의 에스파냐 정복",
+    "zh": "阿尔瓦拉多率西班牙人征服",
+    "ja": "アルバラードによるスペインの征服"
+   },
+   "description": {
+    "en": "Spanish conquistador Pedro de Alvarado, sent by Hernán Cortés with Spanish troops and thousands of central Mexican allies, defeated the K'iche' Maya kingdom in battles near Quetzaltenango and burned its kings at Q'umarkaj, beginning nearly three centuries of Spanish colonial rule over Guatemala. K'iche' tradition remembers the hero Tecún Umán as falling in this campaign. Alvarado first allied with the Kaqchikel and founded a Spanish town at Iximche, but the Kaqchikel soon rose against his exactions.",
+    "ko": "에르난 코르테스가 파견한 에스파냐 정복자 페드로 데 알바라도는 에스파냐 병사와 수천 명의 멕시코 중부 동맹군을 이끌고 케찰테낭고 부근 전투에서 키체 마야 왕국을 무너뜨리고 쿠마르카흐에서 왕들을 화형에 처했다. 이로써 과테말라에 약 3세기에 걸친 에스파냐 식민 지배가 시작되었다. 키체 전승은 영웅 테쿤 우만이 이 원정에서 전사했다고 전한다. 알바라도는 처음에 카치켈과 동맹해 이심체에 에스파냐인 도시를 세웠으나, 가혹한 수탈에 카치켈은 곧 반기를 들었다.",
+    "zh": "受埃尔南·科尔特斯派遣的西班牙征服者佩德罗·德·阿尔瓦拉多，率西班牙士兵和数千名墨西哥中部盟军，在克萨尔特南戈附近的战斗中击败基切玛雅王国，并在库马尔卡赫烧死其国王，危地马拉自此进入近三个世纪的西班牙殖民统治。基切传说称英雄特昆·乌曼在这场战役中阵亡。阿尔瓦拉多起初与卡克奇克尔人结盟，在伊西姆切建立西班牙人城镇，但卡克奇克尔人不堪其盘剥，很快起而反抗。",
+    "ja": "エルナン・コルテスに派遣されたスペインの征服者ペドロ・デ・アルバラードは、スペイン兵と数千人の中央メキシコの同盟軍を率い、ケツァルテナンゴ付近の戦いでキチェー・マヤ王国を打ち破り、クマルカフで王たちを火刑に処した。こうしてグアテマラで約3世紀に及ぶスペイン植民地支配が始まった。キチェーの伝承は英雄テクン・ウマンがこの戦いで倒れたと伝える。アルバラードは当初カクチケルと同盟してイシムチェにスペイン人の町を築いたが、苛酷な収奪にカクチケルはまもなく反乱を起こした。"
+   }
+  },
+  {
+   "year": 1527,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Santiago de los Caballeros moves to the Almolonga valley",
+    "ko": "알몰롱가 계곡으로 옮겨진 산티아고 데 로스 카바예로스",
+    "zh": "圣地亚哥·德洛斯卡瓦列罗斯迁至阿尔莫隆加谷地",
+    "ja": "サンティアゴ・デ・ロス・カバリェロス、アルモロンガ谷へ移転"
+   },
+   "description": {
+    "en": "Amid the Kaqchikel revolt, the Spanish relocated their capital, Santiago de los Caballeros de Guatemala, to the Almolonga valley at the foot of the Volcán de Agua in 1527. The settlement, today's Ciudad Vieja, served as the seat of Spanish Guatemala until its destruction in 1541.",
+    "ko": "카치켈의 반란 속에 에스파냐인들은 1527년 수도 산티아고 데 로스 카바예로스 데 과테말라를 아과 화산 기슭의 알몰롱가 계곡으로 옮겼다. 오늘날의 시우다드 비에하인 이 정착지는 1541년 파괴될 때까지 에스파냐령 과테말라의 중심이었다.",
+    "zh": "在卡克奇克尔人起义期间，西班牙人于1527年将首府危地马拉圣地亚哥·德洛斯卡瓦列罗斯迁至阿瓜火山脚下的阿尔莫隆加谷地。这个定居点即今天的旧城（休达德别哈），在1541年被毁之前一直是西属危地马拉的中心。",
+    "ja": "カクチケルの反乱のさなか、スペイン人は1527年に首都サンティアゴ・デ・ロス・カバリェロス・デ・グアテマラをアグア火山麓のアルモロンガ谷へ移した。現在のシウダー・ビエハにあたるこの町は、1541年に破壊されるまでスペイン領グアテマラの中心だった。"
+   }
+  },
+  {
+   "year": 1537,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Las Casas and the 'Land of True Peace' (Verapaz)",
+    "ko": "라스 카사스와 '참된 평화의 땅'(베라파스)",
+    "zh": "拉斯·卡萨斯与“真正和平之地”（韦拉帕斯）",
+    "ja": "ラス・カサスと「真の平和の地」（ベラパス）"
+   },
+   "description": {
+    "en": "In 1537 the Dominican friar Bartolomé de las Casas obtained an agreement that Spanish soldiers would stay out of Tezulutlán, the unconquered 'Land of War' in the north, while friars sought to convert its Q'eqchi' inhabitants peacefully. The region was renamed Verapaz ('True Peace'), an experiment in non-violent evangelization that influenced debates on Indigenous rights.",
+    "ko": "1537년 도미니코회 수도사 바르톨로메 데 라스 카사스는 북부의 미정복지 '전쟁의 땅' 테술루틀란에 에스파냐 군대가 들어가지 않는 대신 수도사들이 케크치 주민을 평화적으로 개종시킨다는 합의를 얻어 냈다. 이 지역은 '참된 평화'를 뜻하는 베라파스로 이름이 바뀌었고, 비폭력 선교의 실험은 원주민 권리 논쟁에 영향을 주었다.",
+    "zh": "1537年，多明我会修士巴托洛梅·德·拉斯·卡萨斯争取到一项协议：西班牙士兵不进入北部尚未征服的“战争之地”特苏卢特兰，由修士以和平方式使当地克克奇人皈依。该地区因此更名为韦拉帕斯（意为“真正的和平”），这一非暴力传教的尝试影响了有关原住民权利的辩论。",
+    "ja": "1537年、ドミニコ会士バルトロメ・デ・ラス・カサスは、北部の未征服地「戦争の地」テスルトランにスペイン兵を入れず、修道士がケクチの住民を平和的に改宗させるという合意を取り付けた。この地域は「真の平和」を意味するベラパスと改名され、非暴力布教の試みは先住民の権利をめぐる議論に影響を与えた。"
+   }
+  },
+  {
+   "year": 1541,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Mudflow destroys the capital at Ciudad Vieja",
+    "ko": "산사태로 파괴된 시우다드 비에하의 수도",
+    "zh": "泥石流摧毁旧城首府",
+    "ja": "泥流がシウダー・ビエハの首都を破壊"
+   },
+   "description": {
+    "en": "In September 1541, torrential rains sent a massive flood and mudflow down the slopes of the Volcán de Agua, burying much of the capital in the Almolonga valley. Among the dead was Beatriz de la Cueva, Alvarado's widow, who had just become governor; the disaster led the Spanish to found a new capital in the nearby Panchoy valley.",
+    "ko": "1541년 9월 폭우로 아과 화산 사면에서 거대한 홍수와 이류가 쏟아져 알몰롱가 계곡의 수도 상당 부분이 매몰되었다. 사망자 중에는 막 총독이 된 알바라도의 미망인 베아트리스 데 라 쿠에바도 있었다. 이 재해로 에스파냐인들은 인근 판초이 계곡에 새 수도를 세웠다.",
+    "zh": "1541年9月，暴雨引发阿瓜火山山坡上的大洪水和泥石流，埋没了阿尔莫隆加谷地首府的大部分。遇难者中包括刚刚出任总督的阿尔瓦拉多遗孀贝亚特丽斯·德拉库埃瓦；这场灾难促使西班牙人在附近的潘乔伊谷地另建新都。",
+    "ja": "1541年9月、豪雨によりアグア火山の斜面から大洪水と泥流が流れ下り、アルモロンガ谷の首都の大半が埋没した。犠牲者の中には総督に就任したばかりのアルバラードの未亡人ベアトリス・デ・ラ・クエバもいた。この災害を受けて、スペイン人は近くのパンチョイ谷に新しい首都を建設した。"
+   }
+  },
+  {
+   "year": 1543,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Santiago de Guatemala founded as colonial capital",
+    "ko": "식민 수도 산티아고 데 과테말라 건설",
+    "zh": "殖民首府圣地亚哥·危地马拉建城",
+    "ja": "植民地首都サンティアゴ・デ・グアテマラ建設"
+   },
+   "description": {
+    "en": "Santiago de Guatemala (today Antigua) was established in the Panchoy valley as the capital of Spanish Central America, becoming a center of colonial administration, religion and baroque architecture. Laid out on a grid around a central plaza, it grew into one of the leading cities of the Spanish Americas, filled with churches, convents and a university.",
+    "ko": "산티아고 데 과테말라(오늘날의 안티과)가 판초이 계곡에 에스파냐령 중앙아메리카의 수도로 세워져 식민 행정과 종교, 바로크 건축의 중심지가 되었다. 중앙 광장을 중심으로 격자형으로 설계된 이 도시는 교회와 수도원, 대학이 들어선 에스파냐령 아메리카의 주요 도시로 성장했다.",
+    "zh": "圣地亚哥·危地马拉（今安提瓜）在潘乔伊谷地建为西属中美洲的首府，成为殖民行政、宗教与巴洛克建筑的中心。城市以中央广场为核心按棋盘格规划，逐渐发展为西属美洲的重要城市之一，教堂、修道院和大学林立。",
+    "ja": "サンティアゴ・デ・グアテマラ（現アンティグア）がパンチョイ谷にスペイン領中央アメリカの首都として建設され、植民地行政と宗教、バロック建築の中心地となった。中央広場を囲む碁盤目状に設計された町は、教会や修道院、大学が立ち並ぶスペイン領アメリカ有数の都市へと成長した。"
+   }
+  },
+  {
+   "year": 1549,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Audiencia moves to Santiago: Kingdom of Guatemala",
+    "ko": "아우디엔시아의 산티아고 이전과 과테말라 왕국",
+    "zh": "检审庭迁至圣地亚哥：危地马拉王国",
+    "ja": "アウディエンシアのサンティアゴ移転とグアテマラ王国"
+   },
+   "description": {
+    "en": "In 1549 the Audiencia de los Confines, the royal high court governing Central America, moved its seat to Santiago de Guatemala. Known thereafter as the Audiencia of Guatemala, it presided over the 'Kingdom of Guatemala', stretching from Chiapas to Costa Rica, and enforced the New Laws limiting the enslavement of Indigenous people.",
+    "ko": "1549년 중앙아메리카를 관할하던 왕립 고등법원 '아우디엔시아 데 로스 콘피네스'가 산티아고 데 과테말라로 소재지를 옮겼다. 이후 과테말라 아우디엔시아로 불린 이 기관은 치아파스에서 코스타리카에 이르는 '과테말라 왕국'을 통치했으며, 원주민 노예화를 제한한 신법을 시행했다.",
+    "zh": "1549年，统辖中美洲的王家高等法院“边境检审庭”迁至圣地亚哥·危地马拉。此后称为危地马拉检审庭，管辖从恰帕斯到哥斯达黎加的“危地马拉王国”，并推行限制奴役原住民的《新法》。",
+    "ja": "1549年、中米を統治する王立高等司法院「アウディエンシア・デ・ロス・コンフィネス」がサンティアゴ・デ・グアテマラに移った。以後グアテマラ・アウディエンシアと呼ばれ、チアパスからコスタリカに至る「グアテマラ王国」を統轄し、先住民の奴隷化を制限した新法を施行した。"
+   }
+  },
+  {
+   "year": 1660,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "First printing press in Guatemala",
+    "ko": "과테말라 최초의 인쇄기",
+    "zh": "危地马拉第一台印刷机",
+    "ja": "グアテマラ初の印刷機"
+   },
+   "description": {
+    "en": "Around 1660 the printer José de Pineda Ibarra brought a printing press from Mexico to Santiago de Guatemala at the request of Bishop Payo Enríquez de Rivera. It was the first press in Central America and produced religious works, grammars and later official publications.",
+    "ko": "1660년경 인쇄업자 호세 데 피네다 이바라가 파요 엔리케스 데 리베라 주교의 요청으로 멕시코에서 산티아고 데 과테말라로 인쇄기를 들여왔다. 이는 중앙아메리카 최초의 인쇄기로, 종교 서적과 문법서, 이후에는 관보 등을 펴냈다.",
+    "zh": "约1660年，印刷商何塞·德·皮内达·伊瓦拉应主教帕约·恩里克斯·德·里韦拉之请，将一台印刷机从墨西哥运到圣地亚哥·危地马拉。这是中美洲第一台印刷机，印制了宗教著作、语法书以及后来的官方出版物。",
+    "ja": "1660年頃、印刷業者ホセ・デ・ピネダ・イバラが司教パヨ・エンリケス・デ・リベラの要請でメキシコからサンティアゴ・デ・グアテマラへ印刷機を運び込んだ。中米初の印刷機で、宗教書や文法書、のちには官報などを刊行した。"
+   }
+  },
+  {
+   "year": 1676,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Royal University of San Carlos founded",
+    "ko": "왕립 산카를로스 대학 설립",
+    "zh": "圣卡洛斯皇家大学创立",
+    "ja": "王立サン・カルロス大学の創設"
+   },
+   "description": {
+    "en": "In 1676 King Charles II of Spain authorized the founding of the University of San Carlos in Santiago de Guatemala, building on earlier Dominican and Jesuit colleges. One of the oldest universities in the Americas, it trained Central America's clergy, lawyers and physicians and survives today as Guatemala's national public university.",
+    "ko": "1676년 에스파냐 국왕 카를로스 2세는 도미니코회와 예수회의 기존 학교를 바탕으로 산티아고 데 과테말라에 산카를로스 대학의 설립을 허가했다. 아메리카 대륙에서 가장 오래된 대학 가운데 하나로, 중앙아메리카의 성직자와 법률가, 의사를 길러 냈으며 오늘날 과테말라의 국립 공립대학으로 이어지고 있다.",
+    "zh": "1676年，西班牙国王卡洛斯二世在多明我会和耶稣会原有学院的基础上，批准在圣地亚哥·危地马拉创办圣卡洛斯大学。它是美洲最古老的大学之一，培养了中美洲的神职人员、法律人才和医生，至今仍是危地马拉的国立公立大学。",
+    "ja": "1676年、スペイン国王カルロス2世は、ドミニコ会とイエズス会の既存の学院を基盤に、サンティアゴ・デ・グアテマラにサン・カルロス大学の創設を認可した。アメリカ大陸最古級の大学の一つで、中米の聖職者や法律家、医師を育て、現在もグアテマラの国立大学として続いている。"
+   }
+  },
+  {
+   "year": 1697,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Nojpetén, the last independent Maya kingdom",
+    "ko": "마지막 독립 마야 왕국 노흐페텐의 함락",
+    "zh": "最后的独立玛雅王国诺赫佩滕陷落",
+    "ja": "最後の独立マヤ王国ノフペテンの陥落"
+   },
+   "description": {
+    "en": "On 13 March 1697 Spanish forces under Martín de Urzúa y Arizmendi, advancing from Yucatán along a newly built road, stormed the island capital of the Itza at Nojpetén on Lake Petén Itzá. The Itza king Ajaw Kan Ek' was captured, ending the last independent Maya kingdom and bringing Petén under Spanish rule.",
+    "ko": "1697년 3월 13일 유카탄에서 새로 닦은 길을 따라 진군한 마르틴 데 우르수아 이 아리스멘디의 에스파냐군이 페텐 이차 호수의 이차 왕국 섬 수도 노흐페텐을 급습했다. 이차의 왕 아하우 칸 에크가 사로잡히면서 마지막 독립 마야 왕국이 막을 내리고 페텐은 에스파냐의 지배 아래 들어갔다.",
+    "zh": "1697年3月13日，马丁·德·乌尔苏阿·伊·阿里斯门迪率领的西班牙军队沿新修的道路从尤卡坦推进，攻占了佩滕伊察湖上伊察人的岛屿都城诺赫佩滕。伊察国王阿豪·坎·埃克被俘，最后一个独立的玛雅王国就此灭亡，佩滕归入西班牙统治。",
+    "ja": "1697年3月13日、ユカタンから新たに開いた道を進んだマルティン・デ・ウルスア・イ・アリスメンディ率いるスペイン軍が、ペテン・イツァ湖に浮かぶイツァの都ノフペテンを攻略した。イツァ王アハウ・カン・エクが捕らえられ、最後の独立マヤ王国は滅び、ペテンはスペインの支配下に入った。"
+   }
+  },
+  {
+   "year": 1701,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Francisco Ximénez transcribes the Popol Vuh",
+    "ko": "프란시스코 히메네스, 『포폴 부』를 필사하다",
+    "zh": "弗朗西斯科·希门尼斯抄录《波波尔·乌》",
+    "ja": "フランシスコ・ヒメネス、『ポポル・ヴフ』を筆写"
+   },
+   "description": {
+    "en": "In the first years of the 18th century, the Dominican priest Francisco Ximénez, serving in Chichicastenango, copied a K'iche' manuscript of the Popol Vuh and translated it into Spanish. His copy is the only surviving source of the epic, which recounts the creation of humans from maize and the deeds of the Hero Twins, and is now regarded as a masterpiece of Indigenous American literature.",
+    "ko": "18세기 초 치치카스테낭고에서 사목하던 도미니코회 사제 프란시스코 히메네스는 키체어로 된 『포폴 부』 필사본을 베끼고 에스파냐어로 번역했다. 그의 사본은 옥수수로 인간을 창조한 이야기와 영웅 쌍둥이의 활약을 담은 이 서사시의 유일한 현존 자료로, 오늘날 아메리카 원주민 문학의 걸작으로 꼽힌다.",
+    "zh": "18世纪初，在奇奇卡斯特南戈任职的多明我会神父弗朗西斯科·希门尼斯抄录了一部基切语《波波尔·乌》手稿并译成西班牙语。他的抄本是这部史诗唯一存世的来源，史诗讲述了以玉米造人和英雄双子的事迹，如今被视为美洲原住民文学的杰作。",
+    "ja": "18世紀初め、チチカステナンゴで司牧していたドミニコ会司祭フランシスコ・ヒメネスは、キチェー語の『ポポル・ヴフ』写本を書き写し、スペイン語に翻訳した。彼の写本はトウモロコシから人間が創られた話や英雄双子の活躍を語るこの叙事詩の唯一の現存資料であり、今日ではアメリカ先住民文学の傑作とされる。"
+   }
+  },
+  {
+   "year": 1717,
+   "qid": "Q10540838",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "San Miguel earthquake of 1717",
+    "ko": "1717년 산미겔 지진",
+    "zh": "1717年圣米格尔地震",
+    "ja": "1717年のサン・ミゲル地震"
+   },
+   "description": {
+    "en": "On 29 September 1717, the feast of St Michael, a powerful earthquake accompanied by eruptions of the Volcán de Fuego struck Santiago de Guatemala, ruining many churches and homes. The disaster prompted the first serious debate about moving the capital, though the city was rebuilt in place.",
+    "ko": "1717년 9월 29일 성 미카엘 축일에 푸에고 화산의 분화와 함께 강력한 지진이 산티아고 데 과테말라를 덮쳐 많은 교회와 가옥을 무너뜨렸다. 이 재해로 수도 이전에 관한 첫 본격적인 논의가 일었으나, 도시는 그 자리에서 재건되었다.",
+    "zh": "1717年9月29日圣米迦勒节，一场伴随富埃戈火山喷发的强烈地震袭击圣地亚哥·危地马拉，毁坏了许多教堂和民宅。这场灾难首次引发了关于迁都的认真讨论，但城市最终在原地重建。",
+    "ja": "1717年9月29日の聖ミカエルの祝日、フエゴ火山の噴火を伴う強い地震がサンティアゴ・デ・グアテマラを襲い、多くの教会や家屋が倒壊した。この災害で初めて首都移転が本格的に議論されたが、町は同じ場所に再建された。"
+   }
+  },
+  {
+   "year": 1773,
+   "qid": "Q4553120",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Earthquakes destroy Antigua",
+    "ko": "지진으로 파괴된 안티과",
+    "zh": "地震摧毁安提瓜",
+    "ja": "地震によるアンティグアの崩壊"
+   },
+   "description": {
+    "en": "The Santa Marta earthquakes of July 1773 devastated Santiago de Guatemala, prompting the transfer of the capital to the Valley of the Hermitage, present-day Guatemala City. The abandoned city became known as Antigua Guatemala, and its colonial core is now a UNESCO World Heritage site.",
+    "ko": "1773년 7월의 산타 마르타 지진으로 산티아고 데 과테말라가 크게 파괴되어 수도가 '에르미타 계곡', 곧 오늘날의 과테말라시티로 옮겨졌다. 버려진 옛 도시는 '안티과 과테말라'로 불리게 되었고, 그 식민지 시가지는 현재 유네스코 세계유산이다.",
+    "zh": "1773年7月的圣玛尔塔大地震重创圣地亚哥·危地马拉，首都随后迁至埃尔米塔谷地，即今危地马拉城。被遗弃的旧城被称为“安提瓜危地马拉”，其殖民时期古城如今被列为联合国教科文组织世界遗产。",
+    "ja": "1773年7月のサンタ・マルタ地震でサンティアゴ・デ・グアテマラが壊滅的な被害を受け、首都は「エルミタの谷」、すなわち現在のグアテマラシティへ移された。放棄された旧都は「アンティグア・グアテマラ」と呼ばれるようになり、植民地時代の旧市街は現在ユネスコ世界遺産である。"
+   }
+  },
+  {
+   "year": 1776,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nueva Guatemala de la Asunción becomes the capital",
+    "ko": "누에바 과테말라 데 라 아순시온, 수도가 되다",
+    "zh": "新危地马拉·德拉亚松森成为首都",
+    "ja": "ヌエバ・グアテマラ・デ・ラ・アスンシオンが首都に"
+   },
+   "description": {
+    "en": "In 1776 the colonial authorities formally established the new capital, Nueva Guatemala de la Asunción, in the Valley of the Hermitage, despite resistance from residents and clergy who wished to stay in the ruined city. Built on a planned grid, it grew into modern Guatemala City.",
+    "ko": "1776년 식민 당국은 무너진 옛 도시에 남기를 바란 주민과 성직자들의 반대에도 불구하고 에르미타 계곡에 새 수도 누에바 과테말라 데 라 아순시온을 공식 설치했다. 계획된 격자형으로 건설된 이 도시는 오늘날의 과테말라시티로 성장했다.",
+    "zh": "1776年，尽管希望留在废墟旧城的居民和神职人员表示反对，殖民当局仍在埃尔米塔谷地正式设立新首都——新危地马拉·德拉亚松森。这座按棋盘格规划建造的城市发展成为今天的危地马拉城。",
+    "ja": "1776年、植民地当局は廃墟となった旧都に残りたい住民や聖職者の反対を押し切り、エルミタの谷に新首都ヌエバ・グアテマラ・デ・ラ・アスンシオンを正式に設置した。計画的な碁盤目状に建設されたこの町が、現在のグアテマラシティへと発展した。"
+   }
+  },
+  {
+   "year": 1813,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Belén Conspiracy against Spanish rule",
+    "ko": "에스파냐 통치에 맞선 벨렌 음모",
+    "zh": "反抗西班牙统治的贝伦密谋",
+    "ja": "スペイン支配に対するベレンの陰謀"
+   },
+   "description": {
+    "en": "In 1813 a group of Creoles and clergy meeting at the Bethlemite convent in Guatemala City plotted to overthrow the colonial authorities, inspired by insurgencies elsewhere in Spanish America. Captain General José de Bustamante uncovered the conspiracy and imprisoned its members, but the episode showed growing support for independence.",
+    "ko": "1813년 과테말라시티의 벨렌회 수도원에 모인 크리오요와 성직자들은 에스파냐령 아메리카 각지의 봉기에 자극받아 식민 당국 전복을 모의했다. 총사령관 호세 데 부스타만테가 음모를 적발해 가담자들을 투옥했지만, 이 사건은 독립에 대한 지지가 커지고 있음을 보여 주었다.",
+    "zh": "1813年，一批土生白人和神职人员受西属美洲其他地区起义的鼓舞，在危地马拉城的伯利恒会修道院聚会，密谋推翻殖民当局。都督何塞·德·布斯塔曼特破获了密谋并将参与者投入监狱，但这一事件显示了独立呼声的增长。",
+    "ja": "1813年、スペイン領アメリカ各地の蜂起に触発されたクリオーリョや聖職者たちがグアテマラシティのベレン会修道院に集まり、植民地当局の打倒を企てた。総督ホセ・デ・ブスタマンテが陰謀を摘発して参加者を投獄したが、この事件は独立への支持の高まりを示した。"
+   }
+  },
+  {
+   "year": 1821,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence from Spain",
+    "ko": "에스파냐로부터의 독립",
+    "zh": "脱离西班牙独立",
+    "ja": "スペインからの独立"
+   },
+   "description": {
+    "en": "On 15 September 1821 Guatemala declared independence from Spain along with the rest of Central America, later briefly joining Mexico and then the Federal Republic of Central America. The Act of Independence was signed in Guatemala City by colonial officials and local notables, partly to forestall a popular uprising.",
+    "ko": "1821년 9월 15일 과테말라는 중앙아메리카 여러 지역과 함께 에스파냐로부터 독립을 선언했고, 이후 잠시 멕시코에 이어 중앙아메리카 연방공화국에 속했다. 독립 선언문은 과테말라시티에서 식민지 관리와 지역 유력자들이 서명했는데, 민중 봉기를 미리 막으려는 의도도 있었다.",
+    "zh": "1821年9月15日，危地马拉与中美洲各地一同宣布脱离西班牙独立，其后短暂并入墨西哥，继而加入中美洲联邦共和国。独立法案由殖民官员和地方显要在危地马拉城签署，部分原因在于抢先防止民众起事。",
+    "ja": "1821年9月15日、グアテマラは中央アメリカ各地とともにスペインからの独立を宣言し、その後一時メキシコに併合され、続いて中央アメリカ連邦共和国に加わった。独立宣言は植民地官僚と地元の名士によってグアテマラシティで署名されたが、民衆蜂起を先手を打って防ぐ狙いもあった。"
+   }
+  },
+  {
+   "year": 1822,
+   "qid": "Q285658",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Annexation to the Mexican Empire",
+    "ko": "멕시코 제국에 병합",
+    "zh": "并入墨西哥帝国",
+    "ja": "メキシコ帝国への併合"
+   },
+   "description": {
+    "en": "In January 1822, Guatemala's provisional government proclaimed the union of Central America with Agustín de Iturbide's Mexican Empire, and Mexican troops under Vicente Filísola arrived to enforce it. When the empire collapsed in 1823, Filísola convened a congress that led Central America, except Chiapas, to declare its separation from Mexico.",
+    "ko": "1822년 1월 과테말라 임시정부는 중앙아메리카와 아구스틴 데 이투르비데의 멕시코 제국의 통합을 선포했고, 비센테 필리솔라가 이끄는 멕시코군이 이를 관철하러 왔다. 1823년 제국이 무너지자 필리솔라는 의회를 소집했고, 그 결과 치아파스를 제외한 중앙아메리카는 멕시코로부터의 분리를 선언했다.",
+    "zh": "1822年1月，危地马拉临时政府宣布中美洲与阿古斯汀·德·伊图尔维德的墨西哥帝国合并，比森特·菲利索拉率墨西哥军队前来落实。1823年帝国崩溃后，菲利索拉召集议会，中美洲（恰帕斯除外）随即宣布脱离墨西哥。",
+    "ja": "1822年1月、グアテマラ暫定政府は中米とアグスティン・デ・イトゥルビデのメキシコ帝国との合併を宣言し、ビセンテ・フィリソラ率いるメキシコ軍がそれを実行するために到着した。1823年に帝国が崩壊すると、フィリソラは議会を招集し、チアパスを除く中米はメキシコからの分離を宣言した。"
+   }
+  },
+  {
+   "year": 1823,
+   "qid": "Q190025",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Central America declares itself a federation",
+    "ko": "중앙아메리카 연방 출범",
+    "zh": "中美洲宣布成立联邦",
+    "ja": "中米連邦の発足"
+   },
+   "description": {
+    "en": "On 1 July 1823 a constituent assembly in Guatemala City declared the provinces free of Mexico and of any other power, creating the United Provinces of Central America. The 1824 constitution organized a Federal Republic of five states—Guatemala, El Salvador, Honduras, Nicaragua and Costa Rica—and abolished slavery.",
+    "ko": "1823년 7월 1일 과테말라시티의 제헌의회는 각 주가 멕시코를 비롯한 어떤 세력으로부터도 자유롭다고 선언하며 중앙아메리카 연합주를 탄생시켰다. 1824년 헌법은 과테말라, 엘살바도르, 온두라스, 니카라과, 코스타리카 5개 주로 이루어진 연방공화국을 조직하고 노예제를 폐지했다.",
+    "zh": "1823年7月1日，危地马拉城的制宪议会宣布各省脱离墨西哥及其他任何势力而独立，建立中美洲联合省。1824年宪法组建了由危地马拉、萨尔瓦多、洪都拉斯、尼加拉瓜和哥斯达黎加五州组成的联邦共和国，并废除了奴隶制。",
+    "ja": "1823年7月1日、グアテマラシティの制憲議会は諸州がメキシコを含むいかなる勢力からも自由であると宣言し、中米連合州が誕生した。1824年憲法はグアテマラ、エルサルバドル、ホンジュラス、ニカラグア、コスタリカの5州からなる連邦共和国を組織し、奴隷制を廃止した。"
+   }
+  },
+  {
+   "year": 1826,
+   "qid": "Q17633452",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First Central American Civil War",
+    "ko": "제1차 중앙아메리카 내전",
+    "zh": "第一次中美洲内战",
+    "ja": "第一次中米内戦"
+   },
+   "description": {
+    "en": "From 1826 to 1829 federal president Manuel José Arce and Guatemala's Conservatives fought Liberal forces from El Salvador and Honduras. The war ended when the Honduran Liberal general Francisco Morazán captured Guatemala City in April 1829, exiled leading Conservatives and the archbishop, and expelled several religious orders.",
+    "ko": "1826년부터 1829년까지 연방 대통령 마누엘 호세 아르세와 과테말라 보수파는 엘살바도르와 온두라스의 자유파 세력과 싸웠다. 전쟁은 1829년 4월 온두라스 출신 자유파 장군 프란시스코 모라산이 과테말라시티를 점령하고 보수파 지도자들과 대주교를 추방하며 여러 수도회를 축출하면서 끝났다.",
+    "zh": "1826年至1829年，联邦总统曼努埃尔·何塞·阿尔塞和危地马拉保守派与来自萨尔瓦多和洪都拉斯的自由派力量交战。1829年4月，洪都拉斯自由派将领弗朗西斯科·莫拉桑攻占危地马拉城，放逐保守派领袖和大主教，并驱逐了多个修会，战争就此结束。",
+    "ja": "1826年から1829年にかけて、連邦大統領マヌエル・ホセ・アルセとグアテマラの保守派は、エルサルバドルとホンジュラスの自由派勢力と戦った。1829年4月、ホンジュラス出身の自由派将軍フランシスコ・モラサンがグアテマラシティを占領し、保守派指導者と大司教を追放、いくつかの修道会を国外に追い出して戦争は終わった。"
+   }
+  },
+  {
+   "year": 1837,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Cholera and the Carrera revolt",
+    "ko": "콜레라와 카레라의 봉기",
+    "zh": "霍乱与卡雷拉起义",
+    "ja": "コレラとカレラの反乱"
+   },
+   "description": {
+    "en": "In 1837 a cholera epidemic struck Guatemala while Liberal governor Mariano Gálvez pursued unpopular reforms, including new taxes, a jury system and secular laws. Rumors that the government was poisoning wells fed a rural uprising led by the young swineherd-turned-guerrilla Rafael Carrera, which brought down Gálvez in 1838.",
+    "ko": "1837년 자유파 주지사 마리아노 갈베스가 새 세금, 배심원 제도, 세속 법률 등 인기 없는 개혁을 추진하던 중 콜레라가 과테말라를 덮쳤다. 정부가 우물에 독을 탔다는 소문이 돌면서 돼지치기 출신 게릴라인 젊은 라파엘 카레라가 이끄는 농민 봉기가 일어났고, 1838년 갈베스는 실각했다.",
+    "zh": "1837年，自由派州长马里亚诺·加尔韦斯推行新税、陪审团制度和世俗法律等不得人心的改革之际，霍乱疫情袭击危地马拉。政府在井里投毒的谣言助长了由放猪出身的年轻游击领袖拉斐尔·卡雷拉领导的农民起义，加尔韦斯于1838年下台。",
+    "ja": "1837年、自由派の州知事マリアノ・ガルベスが新税や陪審制、世俗法など不人気な改革を進めるなか、コレラがグアテマラを襲った。政府が井戸に毒を入れたという噂が広がり、豚飼いからゲリラとなった若きラファエル・カレラ率いる農民反乱が起こり、1838年にガルベスは失脚した。"
+   }
+  },
+  {
+   "year": 1838,
+   "qid": "Q20015062",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Los Altos secedes as the federation breaks apart",
+    "ko": "연방 해체 속 로스알토스의 분리",
+    "zh": "联邦瓦解中洛斯阿尔托斯分离",
+    "ja": "連邦崩壊のなかロス・アルトスが分離"
+   },
+   "description": {
+    "en": "In 1838 the federal congress allowed member states to go their own way, and the western highlands around Quetzaltenango broke from Guatemala as the State of Los Altos. Wars between Morazán's federal forces and Carrera's insurgents raged across Guatemala and El Salvador from 1838 to 1840.",
+    "ko": "1838년 연방 의회가 각 주의 독자 노선을 허용하자, 케찰테낭고를 중심으로 한 서부 고지대가 과테말라에서 떨어져 나와 로스알토스주가 되었다. 1838년부터 1840년까지 모라산의 연방군과 카레라의 반군 사이의 전쟁이 과테말라와 엘살바도르 전역을 휩쓸었다.",
+    "zh": "1838年，联邦议会允许各成员州自行其是，以克萨尔特南戈为中心的西部高地脱离危地马拉，成立洛斯阿尔托斯州。1838至1840年间，莫拉桑的联邦军与卡雷拉的起义军在危地马拉和萨尔瓦多全境激战。",
+    "ja": "1838年、連邦議会が各州の独自行動を認めると、ケツァルテナンゴを中心とする西部高地がグアテマラから離脱してロス・アルトス州となった。1838年から1840年にかけて、モラサンの連邦軍とカレラの反乱軍の戦争がグアテマラとエルサルバドル全域で繰り広げられた。"
+   }
+  },
+  {
+   "year": 1840,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Carrera defeats Morazán and reabsorbs Los Altos",
+    "ko": "카레라, 모라산을 격파하고 로스알토스를 병합",
+    "zh": "卡雷拉击败莫拉桑并收回洛斯阿尔托斯",
+    "ja": "カレラがモラサンを破りロス・アルトスを再併合"
+   },
+   "description": {
+    "en": "In early 1840 Carrera's army crushed Los Altos and reincorporated it into Guatemala. In March he repelled Morazán's attack on Guatemala City, ending the last effort to hold the federation together and making Carrera the master of Guatemala for the next quarter century.",
+    "ko": "1840년 초 카레라의 군대는 로스알토스를 진압해 과테말라에 다시 편입했다. 3월에는 과테말라시티를 공격한 모라산을 격퇴하여 연방을 유지하려는 마지막 시도를 끝냈고, 이후 사반세기 동안 과테말라의 실권자가 되었다.",
+    "zh": "1840年初，卡雷拉的军队击溃洛斯阿尔托斯，将其重新并入危地马拉。同年3月，他击退莫拉桑对危地马拉城的进攻，终结了维系联邦的最后努力，此后二十五年间成为危地马拉的主宰。",
+    "ja": "1840年初め、カレラの軍はロス・アルトスを制圧してグアテマラに再統合した。3月にはグアテマラシティを攻撃したモラサンを撃退し、連邦を維持する最後の試みに終止符を打ち、以後四半世紀にわたりグアテマラの実権を握った。"
+   }
+  },
+  {
+   "year": 1847,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Republic of Guatemala proclaimed",
+    "ko": "과테말라 공화국 선포",
+    "zh": "宣布成立危地马拉共和国",
+    "ja": "グアテマラ共和国の宣言"
+   },
+   "description": {
+    "en": "On 21 March 1847 Rafael Carrera formally proclaimed Guatemala a sovereign and independent republic, ending any remaining claim that it was a state of the defunct federation. The date is regarded as the founding of the Republic of Guatemala.",
+    "ko": "1847년 3월 21일 라파엘 카레라는 과테말라를 주권 독립 공화국으로 공식 선포하여, 해체된 연방의 한 주라는 남은 명분을 정리했다. 이날은 과테말라 공화국의 창건일로 여겨진다.",
+    "zh": "1847年3月21日，拉斐尔·卡雷拉正式宣布危地马拉为主权独立的共和国，结束了其作为已解体联邦一州的残余名分。这一天被视为危地马拉共和国的建国日。",
+    "ja": "1847年3月21日、ラファエル・カレラはグアテマラを主権を持つ独立共和国と正式に宣言し、崩壊した連邦の一州という名残を清算した。この日はグアテマラ共和国の建国とみなされている。"
+   }
+  },
+  {
+   "year": 1854,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Carrera becomes president for life",
+    "ko": "카레라, 종신 대통령이 되다",
+    "zh": "卡雷拉成为终身总统",
+    "ja": "カレラが終身大統領に"
+   },
+   "description": {
+    "en": "In 1854 an assembly of notables named Rafael Carrera president for life. In the same years his regime signed a concordat with the Holy See (1852), reinforcing the Catholic Church's role in education and public life, and his armies intervened in neighboring countries to support Conservative governments.",
+    "ko": "1854년 유력자 회의는 라파엘 카레라를 종신 대통령으로 추대했다. 같은 시기 그의 정권은 교황청과 정교협약(1852)을 맺어 교육과 공공 생활에서 가톨릭교회의 역할을 강화했고, 그의 군대는 인접국에 개입해 보수파 정부를 지원했다.",
+    "zh": "1854年，一个显要会议推举拉斐尔·卡雷拉为终身总统。同一时期，其政权与教廷签订政教协定（1852年），强化了天主教会在教育和公共生活中的作用，其军队还干预邻国以支持保守派政府。",
+    "ja": "1854年、名士会議はラファエル・カレラを終身大統領に指名した。同じ頃、政権はローマ教皇庁と政教条約（1852年）を結んで教育や公共生活におけるカトリック教会の役割を強め、その軍は隣国に介入して保守派政府を支援した。"
+   }
+  },
+  {
+   "year": 1859,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Wyke–Aycinena Treaty with Britain over Belize",
+    "ko": "벨리즈를 둘러싼 영국과의 와이크-아이시네나 조약",
+    "zh": "就伯利兹与英国签订威克-艾西内纳条约",
+    "ja": "ベリーズをめぐる英国とのワイク＝アイシネナ条約"
+   },
+   "description": {
+    "en": "In 1859 Guatemala and Britain signed the Wyke–Aycinena Treaty, which set the boundaries of British Honduras (Belize). Guatemala later argued that Britain never fulfilled a clause promising a road to the Caribbean coast and declared the treaty void, the origin of a territorial claim to Belize that remains before the International Court of Justice.",
+    "ko": "1859년 과테말라와 영국은 영국령 온두라스(벨리즈)의 경계를 정한 와이크-아이시네나 조약을 맺었다. 과테말라는 이후 영국이 카리브해 연안까지 도로를 건설하겠다는 조항을 이행하지 않았다며 조약 무효를 선언했고, 이는 지금도 국제사법재판소에 계류 중인 벨리즈 영유권 주장의 기원이 되었다.",
+    "zh": "1859年，危地马拉与英国签订威克-艾西内纳条约，划定英属洪都拉斯（伯利兹）的边界。危地马拉后来主张英国从未履行修建通往加勒比海岸道路的条款，宣布条约无效，这成为至今仍在国际法院审理的伯利兹领土主张的由来。",
+    "ja": "1859年、グアテマラと英国は英領ホンジュラス（ベリーズ）の境界を定めたワイク＝アイシネナ条約を結んだ。グアテマラはのちに、カリブ海岸への道路建設を約した条項を英国が履行しなかったとして条約の無効を宣言し、これが現在も国際司法裁判所で係争中のベリーズ領有権主張の起源となった。"
+   }
+  },
+  {
+   "year": 1865,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Rafael Carrera",
+    "ko": "라파엘 카레라의 사망",
+    "zh": "拉斐尔·卡雷拉去世",
+    "ja": "ラファエル・カレラの死"
+   },
+   "description": {
+    "en": "Rafael Carrera died in office in April 1865 and was succeeded by his chosen heir, Vicente Cerna. Without Carrera's personal authority the Conservative order weakened, and Liberal exiles began organizing armed opposition from Mexico.",
+    "ko": "라파엘 카레라는 1865년 4월 재임 중 사망했고, 그가 점찍은 후계자 비센테 세르나가 뒤를 이었다. 카레라의 개인적 권위가 사라지자 보수 질서는 약해졌고, 망명한 자유파는 멕시코에서 무장 저항을 조직하기 시작했다.",
+    "zh": "拉斐尔·卡雷拉于1865年4月在任上去世，由其指定的继承人比森特·塞尔纳接任。失去卡雷拉的个人威望后，保守派秩序逐渐削弱，流亡的自由派开始在墨西哥组织武装反抗。",
+    "ja": "ラファエル・カレラは1865年4月に在職中に死去し、指名した後継者ビセンテ・セルナが跡を継いだ。カレラ個人の権威を失った保守体制は弱まり、亡命した自由派はメキシコで武装抵抗を組織し始めた。"
+   }
+  },
+  {
+   "year": 1871,
+   "qid": "Q6107157",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Liberal Revolution and the coffee economy",
+    "ko": "자유주의 혁명과 커피 경제",
+    "zh": "自由派革命与咖啡经济",
+    "ja": "自由主義革命とコーヒー経済"
+   },
+   "description": {
+    "en": "The Liberal Revolution of 1871, led by Miguel García Granados and Justo Rufino Barrios, overthrew the Conservative government of Vicente Cerna. The Liberals modernized the state, curbed Church power and promoted coffee cultivation, reshaping the economy and land tenure for generations.",
+    "ko": "미겔 가르시아 그라나도스와 후스토 루피노 바리오스가 이끈 1871년 자유주의 혁명은 비센테 세르나의 보수 정부를 무너뜨렸다. 자유파는 국가를 근대화하고 교회 권력을 억제했으며, 커피 재배를 장려해 이후 여러 세대에 걸쳐 경제와 토지 소유 구조를 바꾸어 놓았다.",
+    "zh": "1871年，由米格尔·加西亚·格拉纳多斯和胡斯托·鲁菲诺·巴里奥斯领导的自由派革命推翻了比森特·塞尔纳的保守派政府。自由派推动国家现代化，抑制教会势力并大力发展咖啡种植，在此后几代人的时间里重塑了经济与土地制度。",
+    "ja": "ミゲル・ガルシア・グラナドスとフスト・ルフィーノ・バリオスが率いた1871年の自由主義革命は、ビセンテ・セルナの保守政権を倒した。自由派は国家を近代化し、教会権力を抑え、コーヒー栽培を奨励して、何世代にもわたり経済と土地制度を変えた。"
+   }
+  },
+  {
+   "year": 1873,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Justo Rufino Barrios takes power",
+    "ko": "후스토 루피노 바리오스의 집권",
+    "zh": "胡斯托·鲁菲诺·巴里奥斯掌权",
+    "ja": "フスト・ルフィーノ・バリオスの政権掌握"
+   },
+   "description": {
+    "en": "Justo Rufino Barrios became president in 1873 and ruled as a modernizing dictator until 1885. He expelled the Jesuits and other orders, confiscated Church property, founded secular schools, built roads, telegraphs and the first railways, and sold vast public and communal lands to coffee planters, many of them foreign immigrants.",
+    "ko": "후스토 루피노 바리오스는 1873년 대통령이 되어 1885년까지 근대화를 추진한 독재자로 통치했다. 그는 예수회 등 수도회를 추방하고 교회 재산을 몰수했으며, 세속 학교를 세우고 도로와 전신, 최초의 철도를 건설했고, 방대한 공유지와 공동체 토지를 외국 이민자를 포함한 커피 농장주들에게 매각했다.",
+    "zh": "胡斯托·鲁菲诺·巴里奥斯于1873年出任总统，作为推行现代化的独裁者执政至1885年。他驱逐耶稣会等修会，没收教会财产，创办世俗学校，修建公路、电报线和最早的铁路，并将大片公地和村社土地出售给咖啡种植园主，其中许多是外国移民。",
+    "ja": "フスト・ルフィーノ・バリオスは1873年に大統領となり、1885年まで近代化を進める独裁者として統治した。イエズス会などの修道会を追放して教会財産を没収し、世俗学校を設立、道路や電信、最初の鉄道を建設し、広大な公有地や共同体の土地を多くが外国人移民であるコーヒー農園主に売却した。"
+   }
+  },
+  {
+   "year": 1877,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Labor regulations force Maya workers onto plantations",
+    "ko": "마야 노동자를 농장으로 내몬 노동 규정",
+    "zh": "劳工条例迫使玛雅人到种植园劳作",
+    "ja": "マヤの人々を農園へ駆り立てた労働規則"
+   },
+   "description": {
+    "en": "The Reglamento de Jornaleros of 1877 required Indigenous communities to supply laborers to coffee plantations and tied workers to estates through debt. Combined with the loss of communal lands, the system forced generations of Maya highlanders into seasonal migration to the coffee fincas of the Pacific piedmont.",
+    "ko": "1877년의 '일용 노동자 규정'은 원주민 공동체가 커피 농장에 노동력을 공급하도록 강제했고, 노동자들을 부채로 농장에 묶어 두었다. 공동체 토지의 상실과 맞물려 이 제도는 여러 세대에 걸쳐 고지대 마야인들을 태평양 산록의 커피 농장으로 계절 이주하게 만들었다.",
+    "zh": "1877年的《日工条例》强制原住民社区向咖啡种植园提供劳力，并以债务把劳工束缚在庄园上。加上村社土地的丧失，这一制度迫使一代又一代的高地玛雅人季节性迁往太平洋山麓的咖啡庄园。",
+    "ja": "1877年の「日雇い労働者規則」は先住民共同体にコーヒー農園への労働者供出を義務づけ、労働者を債務で農園に縛りつけた。共同体の土地喪失と相まって、この制度は何世代にもわたり高地のマヤの人々を太平洋側山麓のコーヒー農園への季節的移動に追いやった。"
+   }
+  },
+  {
+   "year": 1882,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty with Mexico renounces Chiapas and Soconusco",
+    "ko": "멕시코와의 조약으로 치아파스·소코누스코 포기",
+    "zh": "与墨西哥条约放弃恰帕斯和索科努斯科",
+    "ja": "メキシコとの条約でチアパス・ソコヌスコを放棄"
+   },
+   "description": {
+    "en": "In 1882 Barrios signed the Herrera–Mariscal Treaty with Mexico, renouncing Guatemala's long-standing claims to Chiapas and Soconusco, which had joined Mexico after independence. The treaty fixed the basic line of the modern Guatemala–Mexico border.",
+    "ko": "1882년 바리오스는 멕시코와 에레라-마리스칼 조약을 맺어, 독립 이후 멕시코에 편입된 치아파스와 소코누스코에 대한 과테말라의 오랜 영유권 주장을 포기했다. 이 조약으로 오늘날 과테말라-멕시코 국경의 기본선이 확정되었다.",
+    "zh": "1882年，巴里奥斯与墨西哥签订埃雷拉-马里斯卡尔条约，放弃危地马拉对独立后归属墨西哥的恰帕斯和索科努斯科的长期主张。该条约确定了现代危地马拉—墨西哥边界的基本走向。",
+    "ja": "1882年、バリオスはメキシコとエレラ＝マリスカル条約を結び、独立後メキシコに加わったチアパスとソコヌスコに対するグアテマラの長年の領有主張を放棄した。この条約で現在のグアテマラ・メキシコ国境の基本線が定まった。"
+   }
+  },
+  {
+   "year": 1885,
+   "qid": "Q5918797",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Barrios dies in his war to reunify Central America",
+    "ko": "중앙아메리카 재통일 전쟁에서 전사한 바리오스",
+    "zh": "巴里奥斯死于统一中美洲之战",
+    "ja": "中米再統一戦争でバリオスが戦死"
+   },
+   "description": {
+    "en": "In February 1885 Barrios proclaimed the reunification of Central America under his leadership and invaded El Salvador when it refused. He was killed at the Battle of Chalchuapa on 2 April 1885, and the unification project collapsed.",
+    "ko": "1885년 2월 바리오스는 자신의 지도 아래 중앙아메리카 재통일을 선포하고, 이를 거부한 엘살바도르를 침공했다. 그는 1885년 4월 2일 찰추아파 전투에서 전사했고 통일 계획은 무산되었다.",
+    "zh": "1885年2月，巴里奥斯宣布在其领导下重新统一中美洲，并在萨尔瓦多拒绝后发动入侵。1885年4月2日，他在查尔丘阿帕战役中阵亡，统一计划随之瓦解。",
+    "ja": "1885年2月、バリオスは自らの指導による中米再統一を宣言し、拒否したエルサルバドルに侵攻した。1885年4月2日のチャルチュアパの戦いで戦死し、統一計画は崩れた。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": "Q17631867",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Central American Exposition and the coffee crash",
+    "ko": "중앙아메리카 박람회와 커피 가격 폭락",
+    "zh": "中美洲博览会与咖啡价格暴跌",
+    "ja": "中米博覧会とコーヒー価格の暴落"
+   },
+   "description": {
+    "en": "President José María Reina Barrios staged the Exposición Centroamericana in Guatemala City in 1897 to showcase the country's progress and attract investment. A collapse in world coffee prices left the government deeply indebted, and Reina Barrios was assassinated in February 1898.",
+    "ko": "호세 마리아 레이나 바리오스 대통령은 국가의 발전상을 과시하고 투자를 유치하기 위해 1897년 과테말라시티에서 중앙아메리카 박람회를 열었다. 그러나 세계 커피 가격이 폭락하면서 정부는 막대한 부채를 떠안았고, 레이나 바리오스는 1898년 2월 암살되었다.",
+    "zh": "何塞·玛丽亚·雷纳·巴里奥斯总统于1897年在危地马拉城举办中美洲博览会，以展示国家进步并吸引投资。然而世界咖啡价格暴跌使政府负债累累，雷纳·巴里奥斯于1898年2月遇刺身亡。",
+    "ja": "ホセ・マリア・レイナ・バリオス大統領は国の発展を誇示し投資を呼び込むため、1897年にグアテマラシティで中米博覧会を開いた。しかし世界のコーヒー価格の暴落で政府は巨額の債務を抱え、レイナ・バリオスは1898年2月に暗殺された。"
+   }
+  },
+  {
+   "year": 1898,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Manuel Estrada Cabrera begins 22 years of dictatorship",
+    "ko": "마누엘 에스트라다 카브레라의 22년 독재 시작",
+    "zh": "曼努埃尔·埃斯特拉达·卡夫雷拉开始22年独裁",
+    "ja": "マヌエル・エストラダ・カブレラの22年独裁の始まり"
+   },
+   "description": {
+    "en": "After Reina Barrios's assassination, Manuel Estrada Cabrera took power in 1898 and held it through rigged elections until 1920. His regime relied on secret police and repression, staged civic festivals in honor of Minerva, and granted generous concessions to foreign firms. His rule inspired Miguel Ángel Asturias's novel El Señor Presidente.",
+    "ko": "레이나 바리오스가 암살된 뒤 1898년 마누엘 에스트라다 카브레라가 권력을 잡아 조작 선거를 통해 1920년까지 유지했다. 그의 정권은 비밀경찰과 탄압에 의존했고, 미네르바 여신을 기리는 관제 축제를 열었으며, 외국 기업에 후한 특혜를 주었다. 그의 통치는 미겔 앙헬 아스투리아스의 소설 『대통령 각하』의 모티프가 되었다.",
+    "zh": "雷纳·巴里奥斯遇刺后，曼努埃尔·埃斯特拉达·卡夫雷拉于1898年掌权，并通过操纵选举一直执政到1920年。其政权依靠秘密警察和镇压，举办纪念密涅瓦女神的官方节庆，并向外国企业给予优厚特许权。他的统治成为米格尔·安赫尔·阿斯图里亚斯小说《总统先生》的原型。",
+    "ja": "レイナ・バリオスの暗殺後、1898年にマヌエル・エストラダ・カブレラが権力を握り、不正選挙で1920年までその座を保った。政権は秘密警察と弾圧に依存し、女神ミネルヴァを讃える官製祭典を催し、外国企業に手厚い利権を与えた。その統治はミゲル・アンヘル・アストゥリアスの小説『大統領閣下』の題材となった。"
+   }
+  },
+  {
+   "year": 1902,
+   "qid": "Q3591480",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Santa María volcano erupts",
+    "ko": "산타마리아 화산 분화",
+    "zh": "圣玛丽亚火山喷发",
+    "ja": "サンタ・マリア火山の噴火"
+   },
+   "description": {
+    "en": "In April 1902 a strong earthquake damaged Quetzaltenango and the western highlands, and in October the long-dormant Santa María volcano exploded in one of the largest eruptions of the 20th century. Ash and pumice buried coffee plantations and villages, and thousands of people died in the eruption and a subsequent malaria epidemic; the Estrada Cabrera government played down the disaster.",
+    "ko": "1902년 4월 강한 지진이 케찰테낭고와 서부 고지대를 강타했고, 10월에는 오랫동안 잠잠하던 산타마리아 화산이 20세기 최대급 분화를 일으켰다. 화산재와 부석이 커피 농장과 마을을 덮었고, 분화와 뒤이은 말라리아 유행으로 수천 명이 사망했다. 에스트라다 카브레라 정부는 재해를 축소하려 했다.",
+    "zh": "1902年4月，一场强烈地震重创克萨尔特南戈和西部高地；10月，长期沉寂的圣玛丽亚火山爆发，成为20世纪规模最大的火山喷发之一。火山灰和浮石掩埋了咖啡园和村庄，喷发及随后的疟疾流行导致数千人死亡，而埃斯特拉达·卡夫雷拉政府却刻意淡化灾情。",
+    "ja": "1902年4月、強い地震がケツァルテナンゴと西部高地を襲い、10月には長く休止していたサンタ・マリア火山が20世紀最大級の噴火を起こした。火山灰と軽石がコーヒー農園や村を埋め、噴火とその後のマラリア流行で数千人が死亡したが、エストラダ・カブレラ政権は被害を小さく見せようとした。"
+   }
+  },
+  {
+   "year": 1904,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Railway concessions open the way for United Fruit",
+    "ko": "철도 이권과 유나이티드 프루트의 진출",
+    "zh": "铁路特许权为联合果品公司铺路",
+    "ja": "鉄道利権とユナイテッド・フルーツの進出"
+   },
+   "description": {
+    "en": "In 1904 Estrada Cabrera granted the American entrepreneur Minor C. Keith a concession to complete the Northern Railroad from Guatemala City to Puerto Barrios on the Caribbean, along with land and port rights. Keith's ventures, linked to the United Fruit Company, made the company the country's largest landowner and employer and the dominant force over its transport and banana exports.",
+    "ko": "1904년 에스트라다 카브레라는 미국인 사업가 마이너 C. 키스에게 과테말라시티에서 카리브해의 푸에르토바리오스까지 이어지는 북부 철도를 완공할 권리와 함께 토지와 항만 권리를 내주었다. 유나이티드 프루트사와 연결된 키스의 사업으로 이 회사는 과테말라 최대의 토지 소유자이자 고용주가 되었고, 운송과 바나나 수출을 장악했다.",
+    "zh": "1904年，埃斯特拉达·卡夫雷拉将修建从危地马拉城到加勒比海巴里奥斯港的北方铁路的特许权连同土地和港口权利授予美国企业家迈纳·C·基思。基思与联合果品公司相关联的产业使该公司成为危地马拉最大的地主和雇主，并主导了运输与香蕉出口。",
+    "ja": "1904年、エストラダ・カブレラは米国の実業家マイナー・C・キースに、グアテマラシティからカリブ海のプエルト・バリオスに至る北部鉄道を完成させる権利を土地や港湾の権利とともに与えた。ユナイテッド・フルーツ社と結びついたキースの事業により、同社はグアテマラ最大の地主・雇用主となり、輸送とバナナ輸出を支配した。"
+   }
+  },
+  {
+   "year": 1906,
+   "qid": "Q24960897",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "War with El Salvador and Honduras",
+    "ko": "엘살바도르·온두라스와의 전쟁",
+    "zh": "与萨尔瓦多和洪都拉斯的战争",
+    "ja": "エルサルバドル・ホンジュラスとの戦争"
+   },
+   "description": {
+    "en": "In 1906 a brief war broke out between Guatemala and El Salvador, joined by Honduras, after Salvadoran-backed exiles attacked Estrada Cabrera's regime. The United States and Mexico mediated a peace aboard the USS Marblehead, and the episode led to the 1907 Washington conference that created a Central American Court of Justice.",
+    "ko": "1906년 엘살바도르의 지원을 받은 망명자들이 에스트라다 카브레라 정권을 공격한 뒤, 과테말라와 엘살바도르 사이에 짧은 전쟁이 벌어졌고 온두라스도 가세했다. 미국과 멕시코는 미 군함 마블헤드호 선상에서 평화를 중재했고, 이 사건은 중앙아메리카 사법재판소를 창설한 1907년 워싱턴 회의로 이어졌다.",
+    "zh": "1906年，萨尔瓦多支持的流亡者袭击埃斯特拉达·卡夫雷拉政权后，危地马拉与萨尔瓦多之间爆发短暂战争，洪都拉斯也卷入其中。美国和墨西哥在美舰“马布尔黑德”号上调停议和，这一事件促成了1907年设立中美洲法院的华盛顿会议。",
+    "ja": "1906年、エルサルバドルの支援を受けた亡命者がエストラダ・カブレラ政権を攻撃したのをきっかけに、グアテマラとエルサルバドルの間で短い戦争が起き、ホンジュラスも加わった。米国とメキシコが米艦マーブルヘッド号の艦上で和平を仲介し、この事件は中米司法裁判所を設けた1907年のワシントン会議につながった。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": "Q18574771",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Earthquakes of 1917–1918 destroy Guatemala City",
+    "ko": "1917~1918년 지진으로 파괴된 과테말라시티",
+    "zh": "1917—1918年地震摧毁危地马拉城",
+    "ja": "1917〜1918年の地震でグアテマラシティが壊滅"
+   },
+   "description": {
+    "en": "Between December 1917 and January 1918 a series of earthquakes destroyed much of Guatemala City, including churches, government buildings and homes. The regime's slow and corrupt response fueled public anger that contributed to Estrada Cabrera's fall two years later.",
+    "ko": "1917년 12월부터 1918년 1월까지 일련의 지진이 교회와 관청, 가옥을 포함한 과테말라시티 대부분을 파괴했다. 정권의 느리고 부패한 대응은 대중의 분노를 키웠고, 이는 2년 뒤 에스트라다 카브레라의 몰락에 일조했다.",
+    "zh": "1917年12月至1918年1月，一连串地震摧毁了危地马拉城的大部分地区，包括教堂、政府建筑和民居。政权迟缓而腐败的救灾激起公众愤怒，成为两年后埃斯特拉达·卡夫雷拉倒台的原因之一。",
+    "ja": "1917年12月から1918年1月にかけて一連の地震が教会や官庁、住宅を含むグアテマラシティの大半を破壊した。政権の遅く腐敗した対応は民衆の怒りをかき立て、2年後のエストラダ・カブレラ失脚の一因となった。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": "Q19688873",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fall of Estrada Cabrera and the Tragic Week",
+    "ko": "에스트라다 카브레라의 몰락과 '비극의 주간'",
+    "zh": "埃斯特拉达·卡夫雷拉倒台与“悲剧周”",
+    "ja": "エストラダ・カブレラの失脚と「悲劇の週」"
+   },
+   "description": {
+    "en": "A broad Unionist movement of students, workers, Catholics and elites, calling for Central American union, led the National Assembly to declare Estrada Cabrera insane and depose him in April 1920. The dictator's forces bombarded Guatemala City for about a week before he surrendered, an episode remembered as the Tragic Week.",
+    "ko": "중앙아메리카 통합을 내건 학생·노동자·가톨릭 신자·엘리트의 광범위한 '연합주의' 운동에 힘입어, 1920년 4월 국회는 에스트라다 카브레라를 정신이상으로 판정하고 해임했다. 독재자의 군대는 그가 항복하기까지 약 일주일 동안 과테말라시티를 포격했는데, 이를 '비극의 주간'이라 부른다.",
+    "zh": "由学生、工人、天主教徒和精英组成、以中美洲统一为号召的广泛“统一派”运动，促使国民议会于1920年4月宣布埃斯特拉达·卡夫雷拉精神失常并将其罢免。独裁者的部队在他投降前炮轰危地马拉城约一周，这段时期被称为“悲剧周”。",
+    "ja": "中米統合を掲げる学生、労働者、カトリック信徒、エリートによる幅広い「統一派」運動を受けて、1920年4月に国民議会はエストラダ・カブレラを精神異常と認定して罷免した。独裁者の軍は降伏するまで約1週間グアテマラシティを砲撃し、この出来事は「悲劇の週」と呼ばれる。"
+   }
+  },
+  {
+   "year": 1921,
+   "qid": "Q133844233",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Short-lived Federation of Central America",
+    "ko": "단명한 중앙아메리카 연방",
+    "zh": "昙花一现的中美洲联邦",
+    "ja": "短命に終わった中米連邦"
+   },
+   "description": {
+    "en": "In 1921, the centenary of independence, Guatemala, El Salvador and Honduras signed a pact to form a Federation of Central America. A military coup in Guatemala in December 1921 brought General José María Orellana to power, and the new government withdrew, causing the federation to dissolve in early 1922.",
+    "ko": "독립 100주년인 1921년 과테말라, 엘살바도르, 온두라스는 중앙아메리카 연방을 결성하는 협약에 서명했다. 그러나 1921년 12월 과테말라에서 군사 쿠데타로 호세 마리아 오레야나 장군이 집권하고 새 정부가 탈퇴하면서, 연방은 1922년 초 해체되었다.",
+    "zh": "1921年正值独立一百周年，危地马拉、萨尔瓦多和洪都拉斯签约组成中美洲联邦。同年12月危地马拉发生军事政变，何塞·玛丽亚·奥雷利亚纳将军上台，新政府宣布退出，联邦于1922年初解体。",
+    "ja": "独立100周年の1921年、グアテマラ、エルサルバドル、ホンジュラスは中米連邦を結成する協定に調印した。しかし同年12月のグアテマラの軍事クーデターでホセ・マリア・オレリャナ将軍が政権を握り、新政府が離脱したため、連邦は1922年初めに解体した。"
+   }
+  },
+  {
+   "year": 1931,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Jorge Ubico's dictatorship",
+    "ko": "호르헤 우비코의 독재",
+    "zh": "豪尔赫·乌维科的独裁",
+    "ja": "ホルヘ・ウビコの独裁"
+   },
+   "description": {
+    "en": "General Jorge Ubico became president in 1931 as the Great Depression hit coffee exports, and ruled with an iron hand until 1944. He balanced the budget, built roads and suppressed labor organizing and dissent; in 1934 he replaced debt peonage with a vagrancy law that still compelled landless men to work on plantations, and he gave United Fruit further concessions.",
+    "ko": "대공황이 커피 수출을 강타하던 1931년 호르헤 우비코 장군이 대통령이 되어 1944년까지 철권 통치를 했다. 그는 재정 균형을 맞추고 도로를 건설했으며, 노동 조직과 반대 세력을 탄압했다. 1934년에는 부채 노역 제도를 '부랑자법'으로 대체했는데, 이 법도 토지 없는 남성들을 농장 노동에 강제로 동원했다. 또한 유나이티드 프루트사에 추가 이권을 주었다.",
+    "zh": "1931年，正值大萧条重创咖啡出口之际，豪尔赫·乌维科将军出任总统，以铁腕统治至1944年。他平衡预算、修筑公路，并镇压工人组织和异见者；1934年他以“流浪法”取代债务劳役制，但该法仍强迫无地男子到种植园劳动，他还给予联合果品公司更多特许权。",
+    "ja": "大恐慌がコーヒー輸出を直撃した1931年、ホルヘ・ウビコ将軍が大統領に就任し、1944年まで鉄腕で統治した。財政を均衡させ道路を建設する一方、労働組織や反対派を弾圧した。1934年には債務労働制を「浮浪者法」に置き換えたが、これも土地を持たない男性を農園労働に強制した。またユナイテッド・フルーツ社にさらなる利権を与えた。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": "Q5614269",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "October Revolution of 1944",
+    "ko": "1944년 10월 혁명",
+    "zh": "1944年十月革命",
+    "ja": "1944年の十月革命"
+   },
+   "description": {
+    "en": "Mass protests by students, teachers and workers forced Jorge Ubico to resign in June 1944. When his successor, General Federico Ponce Vaides, tried to entrench himself, a civil-military uprising on 20 October 1944 overthrew him, opening a ten-year democratic era of labor rights, social reform and free elections under presidents Arévalo and Árbenz.",
+    "ko": "학생과 교사, 노동자의 대규모 시위로 호르헤 우비코는 1944년 6월 사임했다. 후계자 페데리코 폰세 바이데스 장군이 권력을 굳히려 하자 1944년 10월 20일 시민과 군의 봉기가 그를 무너뜨렸고, 아레발로와 아르벤스 대통령 시기의 노동권·사회개혁·자유선거로 대표되는 10년간의 민주주의 시대가 열렸다.",
+    "zh": "学生、教师和工人的大规模抗议迫使豪尔赫·乌维科于1944年6月辞职。其继任者费德里科·庞塞·瓦伊德斯将军企图巩固权力，1944年10月20日的军民起义将其推翻，开启了阿雷瓦洛与阿本斯执政下劳工权利、社会改革与自由选举并举的十年民主时期。",
+    "ja": "学生や教員、労働者の大規模な抗議によりホルヘ・ウビコは1944年6月に辞任した。後継のフェデリコ・ポンセ・バイデス将軍が権力の固定化を図ると、1944年10月20日に市民と軍の蜂起が彼を倒し、アレバロとアルベンス両大統領の下で労働権や社会改革、自由選挙が進む10年間の民主主義の時代が開かれた。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Arévalo takes office under a new constitution",
+    "ko": "새 헌법 아래 취임한 아레발로",
+    "zh": "阿雷瓦洛依新宪法就任",
+    "ja": "新憲法下でアレバロが就任"
+   },
+   "description": {
+    "en": "The educator Juan José Arévalo, elected by a landslide, took office in March 1945 under a new democratic constitution. His government promoted what he called 'spiritual socialism': literacy campaigns, school construction, a social security institute and, in 1947, a Labor Code guaranteeing the right to unionize and strike.",
+    "ko": "압도적인 지지로 당선된 교육자 후안 호세 아레발로는 1945년 3월 새 민주 헌법 아래 취임했다. 그의 정부는 스스로 '정신적 사회주의'라 부른 노선을 추진하며 문맹 퇴치 운동과 학교 건설, 사회보장청 설립을 진행했고, 1947년에는 노조 결성권과 파업권을 보장한 노동법을 제정했다.",
+    "zh": "以压倒性票数当选的教育家胡安·何塞·阿雷瓦洛于1945年3月依据新的民主宪法就任。其政府推行他所称的“精神社会主义”：开展扫盲运动、兴建学校、设立社会保障局，并于1947年颁布保障组织工会和罢工权利的劳动法典。",
+    "ja": "圧倒的な得票で当選した教育者フアン・ホセ・アレバロは、1945年3月に新しい民主憲法のもとで就任した。政府は彼が「精神的社会主義」と呼んだ路線を進め、識字運動や学校建設、社会保障機関の設立を行い、1947年には団結権とストライキ権を保障する労働法典を制定した。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": "Q1578956",
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "US syphilis experiments in Guatemala",
+    "ko": "과테말라 매독 인체 실험",
+    "zh": "美国在危地马拉进行的梅毒人体实验",
+    "ja": "グアテマラでの米国による梅毒人体実験"
+   },
+   "description": {
+    "en": "From 1946 to 1948 researchers of the US Public Health Service, with Guatemalan officials' cooperation, deliberately infected prisoners, soldiers, psychiatric patients and others with syphilis and other sexually transmitted diseases without their informed consent. The experiments came to light in 2010, and the US government formally apologized.",
+    "ko": "1946년부터 1948년까지 미국 공중보건국 연구자들은 과테말라 관리들의 협조 아래 수감자와 군인, 정신질환자 등을 당사자 동의 없이 고의로 매독 등 성병에 감염시켰다. 이 실험은 2010년에 세상에 알려졌고, 미국 정부는 공식 사과했다.",
+    "zh": "1946年至1948年，美国公共卫生署的研究人员在危地马拉官员配合下，未经知情同意故意让囚犯、士兵、精神病患者等感染梅毒等性病。这些实验于2010年曝光，美国政府正式道歉。",
+    "ja": "1946年から1948年にかけて、米国公衆衛生局の研究者はグアテマラ当局の協力のもと、受刑者や兵士、精神科の患者らを同意なしに梅毒などの性感染症に故意に感染させた。実験は2010年に明るみに出て、米国政府は正式に謝罪した。"
+   }
+  },
+  {
+   "year": 1952,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Árbenz's agrarian reform (Decree 900)",
+    "ko": "아르벤스의 농지개혁(법령 900호)",
+    "zh": "阿本斯的土地改革（第900号法令）",
+    "ja": "アルベンスの農地改革（政令900号）"
+   },
+   "description": {
+    "en": "In June 1952 President Jacobo Árbenz enacted Decree 900, which expropriated uncultivated land on large estates, with compensation in bonds based on declared tax values, and distributed it to landless peasants. Hundreds of thousands of people received land, but the reform also expropriated large unused tracts of the United Fruit Company, provoking fierce opposition from the company, landowners and the US government.",
+    "ko": "1952년 6월 하코보 아르벤스 대통령은 법령 900호를 공포해, 대농장의 경작되지 않는 토지를 신고 과세가액에 따른 채권 보상과 함께 수용해 토지 없는 농민에게 분배했다. 수십만 명이 토지를 받았지만, 개혁이 유나이티드 프루트사의 넓은 유휴지까지 수용하자 회사와 지주층, 미국 정부의 격렬한 반발을 샀다.",
+    "zh": "1952年6月，哈科沃·阿本斯总统颁布第900号法令，征收大庄园中闲置的土地，按申报的计税价值以债券补偿，并分配给无地农民。数十万人因此获得土地，但改革也征收了联合果品公司大片闲置土地，引起该公司、地主和美国政府的强烈反对。",
+    "ja": "1952年6月、ハコボ・アルベンス大統領は政令900号を公布し、大農園の未耕作地を申告課税額に基づく債券で補償して収用し、土地を持たない農民に分配した。数十万人が土地を得たが、ユナイテッド・フルーツ社の広大な遊休地も収用したため、同社や地主層、米国政府の激しい反発を招いた。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": "Q976887",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "1954 coup overthrows Árbenz",
+    "ko": "1954년 쿠데타와 아르벤스 축출",
+    "zh": "1954年政变推翻阿本斯",
+    "ja": "1954年クーデターとアルベンス追放"
+   },
+   "description": {
+    "en": "A coup supported by the United States ousted President Jacobo Árbenz after his land reform affected the United Fruit Company, ending the democratic decade and ushering in decades of military rule. A small CIA-backed force under Colonel Carlos Castillo Armas invaded from Honduras in June 1954, and when the army refused to defend him, Árbenz resigned; the agrarian reform was reversed and thousands were arrested.",
+    "ko": "하코보 아르벤스 대통령의 토지개혁이 유나이티드 프루트사에 영향을 미치자 미국의 지원을 받은 쿠데타가 그를 축출했다. 이로써 민주주의 10년이 끝나고 수십 년의 군부 통치가 시작되었다. 1954년 6월 미 중앙정보국(CIA)이 지원한 카를로스 카스티요 아르마스 대령의 소규모 부대가 온두라스에서 침입했고, 군이 방어를 거부하자 아르벤스는 사임했다. 농지개혁은 뒤집혔고 수천 명이 체포되었다.",
+    "zh": "阿本斯总统的土地改革触及联合果品公司利益后，美国支持的政变将其推翻，十年民主就此终结，危地马拉进入长达数十年的军人统治。1954年6月，中央情报局支持的卡洛斯·卡斯蒂略·阿马斯上校率小股部队从洪都拉斯入侵，军队拒绝保卫阿本斯，他被迫辞职；土地改革被推翻，数千人遭逮捕。",
+    "ja": "ハコボ・アルベンス大統領の農地改革がユナイテッド・フルーツ社に及ぶと、米国の支援を受けたクーデターが同大統領を追放した。民主主義の10年は終わり、数十年に及ぶ軍政が始まった。1954年6月、CIAが支援するカルロス・カスティージョ・アルマス大佐の小部隊がホンジュラスから侵入し、軍が防衛を拒むとアルベンスは辞任した。農地改革は覆され、数千人が逮捕された。"
+   }
+  },
+  {
+   "year": 1957,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Castillo Armas",
+    "ko": "카스티요 아르마스 암살",
+    "zh": "卡斯蒂略·阿马斯遇刺",
+    "ja": "カスティージョ・アルマスの暗殺"
+   },
+   "description": {
+    "en": "On 26 July 1957 President Carlos Castillo Armas was shot dead by a member of the presidential guard inside the presidential residence. A period of instability and disputed elections followed until General Miguel Ydígoras Fuentes became president in 1958.",
+    "ko": "1957년 7월 26일 카를로스 카스티요 아르마스 대통령이 대통령 관저 안에서 대통령 경호대원의 총에 맞아 숨졌다. 이후 불안정과 부정 선거 논란이 이어지다가 1958년 미겔 이디고라스 푸엔테스 장군이 대통령이 되었다.",
+    "zh": "1957年7月26日，卡洛斯·卡斯蒂略·阿马斯总统在总统官邸内被一名总统卫队成员枪杀。此后政局动荡、选举争议不断，直到1958年米格尔·伊迪戈拉斯·富恩特斯将军出任总统。",
+    "ja": "1957年7月26日、カルロス・カスティージョ・アルマス大統領が大統領公邸内で大統領警護隊員に射殺された。その後、不安定な政情と選挙をめぐる混乱が続き、1958年にミゲル・イディゴラス・フエンテス将軍が大統領となった。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": "Q5782939",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fishing-boat clash with Mexico",
+    "ko": "멕시코 어선을 둘러싼 충돌",
+    "zh": "与墨西哥的渔船冲突",
+    "ja": "メキシコ漁船をめぐる衝突"
+   },
+   "description": {
+    "en": "On 31 December 1958 Guatemalan Air Force planes attacked Mexican fishing boats that Guatemala accused of fishing illegally in its Pacific waters, killing several fishermen. Mexico broke off diplomatic relations in January 1959; ties were restored later that year.",
+    "ko": "1958년 12월 31일 과테말라 공군기가 자국의 태평양 해역에서 불법 조업을 했다고 주장한 멕시코 어선들을 공격해 어부 여러 명이 숨졌다. 멕시코는 1959년 1월 외교 관계를 단절했으나, 같은 해 후반 관계가 회복되었다.",
+    "zh": "1958年12月31日，危地马拉空军飞机袭击了被指在其太平洋海域非法捕鱼的墨西哥渔船，造成数名渔民死亡。墨西哥于1959年1月断绝外交关系，两国关系于同年晚些时候恢复。",
+    "ja": "1958年12月31日、グアテマラ空軍機が自国の太平洋水域で違法操業していたとするメキシコ漁船を攻撃し、漁民数人が死亡した。メキシコは1959年1月に国交を断絶したが、同年中に関係は回復した。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": "Q1282732",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Civil war begins",
+    "ko": "내전의 시작",
+    "zh": "内战爆发",
+    "ja": "内戦の勃発"
+   },
+   "description": {
+    "en": "On 13 November 1960 a revolt by nationalist junior officers against the Ydígoras government failed, but some of its leaders went on to form the first guerrilla movements. The ensuing armed conflict between the state and leftist guerrillas lasted 36 years; counterinsurgency campaigns caused an estimated 200,000 deaths and disappearances, with Maya communities suffering most heavily.",
+    "ko": "1960년 11월 13일 민족주의 성향 하급 장교들의 이디고라스 정부에 대한 반란은 실패했으나, 일부 지도자들은 최초의 게릴라 운동을 결성했다. 이후 정부군과 좌익 게릴라 사이의 무력 분쟁이 36년간 이어졌고, 대게릴라 작전 과정에서 약 20만 명이 사망하거나 실종되었으며 마야 원주민 공동체의 피해가 특히 컸다.",
+    "zh": "1960年11月13日，民族主义青年军官反对伊迪戈拉斯政府的兵变失败，但部分领导人随后组建了最早的游击运动。此后政府与左翼游击队之间的武装冲突持续36年，镇压行动造成约20万人死亡或失踪，玛雅原住民社区受害尤为深重。",
+    "ja": "1960年11月13日、民族主義的な若手将校によるイディゴラス政権への反乱は失敗したが、その指導者の一部が最初のゲリラ運動を結成した。以後、政府軍と左翼ゲリラの武力紛争が36年間続き、掃討作戦により約20万人が死亡または行方不明となり、とりわけマヤ先住民の共同体が大きな被害を受けた。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": "Q126201778",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Peralta Azurdia coup",
+    "ko": "페랄타 아수르디아의 쿠데타",
+    "zh": "佩拉尔塔·阿苏尔迪亚政变",
+    "ja": "ペラルタ・アスルディアのクーデター"
+   },
+   "description": {
+    "en": "In March 1963, with former president Arévalo poised to return and run in elections, Defense Minister Enrique Peralta Azurdia overthrew Ydígoras Fuentes. The military government suspended the constitution and began a sustained counterinsurgency effort against the growing guerrilla movements in the east.",
+    "ko": "1963년 3월 아레발로 전 대통령이 귀국해 선거에 나서려 하자, 국방장관 엔리케 페랄타 아수르디아가 이디고라스 푸엔테스를 축출했다. 군사 정부는 헌법을 정지하고 동부에서 세력을 키우던 게릴라에 대한 지속적인 대게릴라 작전을 시작했다.",
+    "zh": "1963年3月，前总统阿雷瓦洛即将回国参选之际，国防部长恩里克·佩拉尔塔·阿苏尔迪亚推翻了伊迪戈拉斯·富恩特斯。军政府中止宪法，开始对东部日益壮大的游击运动展开持续的镇压行动。",
+    "ja": "1963年3月、元大統領アレバロが帰国して選挙に出馬しようとすると、国防相エンリケ・ペラルタ・アスルディアがイディゴラス・フエンテスを倒した。軍事政権は憲法を停止し、東部で勢力を伸ばすゲリラに対する継続的な掃討作戦を始めた。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Miguel Ángel Asturias wins the Nobel Prize in Literature",
+    "ko": "미겔 앙헬 아스투리아스, 노벨 문학상 수상",
+    "zh": "米格尔·安赫尔·阿斯图里亚斯获诺贝尔文学奖",
+    "ja": "ミゲル・アンヘル・アストゥリアス、ノーベル文学賞受賞"
+   },
+   "description": {
+    "en": "The Guatemalan writer Miguel Ángel Asturias received the 1967 Nobel Prize in Literature. Novels such as El Señor Presidente and Men of Maize drew on Maya myth and on the experience of dictatorship, and made him a forerunner of the Latin American literary boom.",
+    "ko": "과테말라 작가 미겔 앙헬 아스투리아스가 1967년 노벨 문학상을 받았다. 『대통령 각하』, 『옥수수 인간』 같은 소설은 마야 신화와 독재의 경험을 바탕으로 했으며, 그는 라틴아메리카 문학 붐의 선구자로 평가된다.",
+    "zh": "危地马拉作家米格尔·安赫尔·阿斯图里亚斯荣获1967年诺贝尔文学奖。他的《总统先生》《玉米人》等小说取材于玛雅神话和独裁统治的经历，使他成为拉丁美洲“文学爆炸”的先驱。",
+    "ja": "グアテマラの作家ミゲル・アンヘル・アストゥリアスが1967年のノーベル文学賞を受賞した。『大統領閣下』『トウモロコシの人間たち』などの小説はマヤ神話と独裁の経験を題材とし、彼はラテンアメリカ文学ブームの先駆者とされる。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": "Q1847006",
+   "importance": 1,
+   "category": "disaster",
+   "title": {
+    "en": "1976 Guatemala earthquake",
+    "ko": "1976년 과테말라 대지진",
+    "zh": "1976年危地马拉大地震",
+    "ja": "1976年グアテマラ地震"
+   },
+   "description": {
+    "en": "In the early hours of 4 February 1976 a magnitude 7.5 earthquake on the Motagua fault struck central Guatemala, killing about 23,000 people and leaving over a million homeless. The disaster exposed the poverty of highland communities, and grassroots reconstruction efforts fed new social and political organizing that the state later targeted.",
+    "ko": "1976년 2월 4일 새벽 모타과 단층에서 규모 7.5의 지진이 과테말라 중부를 강타해 약 2만 3천 명이 숨지고 100만 명 이상이 집을 잃었다. 이 재해는 고지대 공동체의 빈곤을 드러냈고, 풀뿌리 재건 활동은 새로운 사회·정치 조직화로 이어졌으나 이후 국가의 탄압 대상이 되었다.",
+    "zh": "1976年2月4日凌晨，莫塔瓜断层发生7.5级地震，袭击危地马拉中部，造成约2.3万人死亡、100多万人无家可归。灾难暴露了高地社区的贫困，基层重建行动催生了新的社会和政治组织，而这些组织后来成为国家镇压的对象。",
+    "ja": "1976年2月4日未明、モタグア断層でマグニチュード7.5の地震がグアテマラ中部を襲い、約2万3000人が死亡、100万人以上が家を失った。災害は高地の共同体の貧困を浮き彫りにし、草の根の復興活動は新たな社会・政治的組織化を生んだが、それらはのちに国家の弾圧の標的となった。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Panzós massacre",
+    "ko": "판소스 학살",
+    "zh": "潘索斯大屠杀",
+    "ja": "パンソスの虐殺"
+   },
+   "description": {
+    "en": "On 29 May 1978 soldiers opened fire on Q'eqchi' Maya villagers who had gathered in the town square of Panzós, Alta Verapaz, to press land claims, killing dozens. The massacre, at the start of General Romeo Lucas García's presidency, marked the beginning of the most violent phase of the conflict.",
+    "ko": "1978년 5월 29일 알타베라파스의 판소스 광장에 토지 권리를 요구하러 모인 케크치 마야 주민들에게 군인들이 발포해 수십 명이 숨졌다. 로메오 루카스 가르시아 장군 정권 출범 무렵 벌어진 이 학살은 분쟁의 가장 폭력적인 국면의 시작을 알렸다.",
+    "zh": "1978年5月29日，士兵向聚集在上韦拉帕斯省潘索斯镇广场上要求土地权利的克克奇玛雅村民开枪，打死数十人。这场屠杀发生在罗密欧·卢卡斯·加西亚将军执政之初，标志着冲突最血腥阶段的开始。",
+    "ja": "1978年5月29日、アルタ・ベラパス県パンソスの広場に土地の権利を求めて集まったケクチ・マヤの村人に兵士が発砲し、数十人が死亡した。ロメオ・ルカス・ガルシア将軍の政権発足とほぼ同時に起きたこの虐殺は、紛争の最も暴力的な局面の始まりを告げた。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": "Q4999926",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Burning of the Spanish Embassy",
+    "ko": "에스파냐 대사관 방화 사건",
+    "zh": "西班牙大使馆焚烧事件",
+    "ja": "スペイン大使館焼き討ち事件"
+   },
+   "description": {
+    "en": "On 31 January 1980 K'iche' peasants and student activists occupied the Spanish Embassy in Guatemala City to denounce army repression in El Quiché. Police stormed the building and a fire broke out, killing 37 people, among them Vicente Menchú, father of Rigoberta Menchú; Spain broke off diplomatic relations.",
+    "ko": "1980년 1월 31일 키체 농민과 학생 활동가들이 엘키체에서의 군대 탄압을 고발하기 위해 과테말라시티의 에스파냐 대사관을 점거했다. 경찰이 건물에 진입한 뒤 화재가 일어나 리고베르타 멘추의 아버지 비센테 멘추를 포함해 37명이 숨졌고, 에스파냐는 외교 관계를 단절했다.",
+    "zh": "1980年1月31日，基切农民和学生活动人士占领危地马拉城的西班牙大使馆，控诉军队在基切省的镇压。警察强行冲入后大楼起火，造成37人死亡，其中包括里戈韦塔·门楚的父亲比森特·门楚；西班牙随即与危地马拉断交。",
+    "ja": "1980年1月31日、キチェーの農民と学生活動家がエル・キチェでの軍の弾圧を告発するためグアテマラシティのスペイン大使館を占拠した。警察が建物に突入した後に火災が起き、リゴベルタ・メンチュウの父ビセンテ・メンチュウを含む37人が死亡し、スペインは国交を断絶した。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": "Q2789344",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Scorched-earth campaigns against Maya communities",
+    "ko": "마야 공동체에 대한 초토화 작전",
+    "zh": "针对玛雅社区的焦土作战",
+    "ja": "マヤの共同体に対する焦土作戦"
+   },
+   "description": {
+    "en": "From 1981 to 1983 the army waged scorched-earth counterinsurgency campaigns in the western and northern highlands, destroying hundreds of Maya villages, killing tens of thousands of civilians and forcing many more to flee to Mexico or into the mountains. The UN-backed Commission for Historical Clarification later concluded that state agents committed acts of genocide against Maya groups in this period.",
+    "ko": "1981년부터 1983년까지 군은 서부와 북부 고지대에서 초토화 대게릴라 작전을 벌여 수백 개의 마야 마을을 파괴하고 수만 명의 민간인을 살해했으며, 더 많은 사람을 멕시코나 산악 지대로 피란하게 만들었다. 유엔이 지원한 역사규명위원회는 훗날 이 시기 국가 요원들이 마야 집단을 상대로 집단학살 행위를 저질렀다고 결론지었다.",
+    "zh": "1981年至1983年，军队在西部和北部高地发动焦土式镇压行动，摧毁数百个玛雅村庄，杀害数万平民，并迫使更多人逃往墨西哥或山区。联合国支持的历史澄清委员会后来认定，国家人员在这一时期对玛雅族群犯下了种族灭绝行为。",
+    "ja": "1981年から1983年にかけて、軍は西部と北部の高地で焦土作戦を展開し、数百のマヤの村を破壊して数万人の民間人を殺害し、さらに多くの人々をメキシコや山中へ避難させた。国連が支援した歴史的解明委員会は後に、この時期に国家機関がマヤの集団に対しジェノサイド行為を行ったと結論づけた。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": "Q113835155",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ríos Montt seizes power",
+    "ko": "리오스 몬트의 권력 장악",
+    "zh": "里奥斯·蒙特夺取政权",
+    "ja": "リオス・モントの権力掌握"
+   },
+   "description": {
+    "en": "On 23 March 1982 junior officers staged a coup after a fraudulent election and installed General Efraín Ríos Montt, who soon ruled alone. His 17-month government combined civil defense patrols and 'beans and rifles' programs with the most intense phase of massacres, including Plan de Sánchez and Dos Erres; he was himself overthrown by General Óscar Mejía Víctores in August 1983.",
+    "ko": "1982년 3월 23일 부정 선거 뒤 하급 장교들이 쿠데타를 일으켜 에프라인 리오스 몬트 장군을 내세웠고, 그는 곧 단독 통치자가 되었다. 17개월간의 그의 정권은 민간 자경대와 '콩과 소총' 정책을 펼치는 한편 플란 데 산체스와 도스 에레스를 비롯한 가장 극심한 학살을 자행했다. 그는 1983년 8월 오스카르 메히아 빅토레스 장군에게 축출되었다.",
+    "zh": "1982年3月23日，青年军官在一场舞弊选举后发动政变，扶植埃弗拉因·里奥斯·蒙特将军，后者很快独揽大权。他执政17个月，推行民防巡逻队和“豆子与步枪”计划，同时也是屠杀最为惨烈的阶段，普兰德桑切斯和多斯埃雷斯等屠杀均发生于此时；1983年8月他被奥斯卡·梅希亚·比克托雷斯将军推翻。",
+    "ja": "1982年3月23日、不正選挙の後に若手将校がクーデターを起こしてエフライン・リオス・モント将軍を擁立し、彼はまもなく単独で統治した。17か月の政権は民間自警団や「豆と銃」政策を進める一方、プラン・デ・サンチェスやドス・エレスなど最も激しい虐殺の時期となった。1983年8月、彼はオスカル・メヒア・ビクトレス将軍に倒された。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": "Q740534",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Dos Erres massacre",
+    "ko": "도스 에레스 학살",
+    "zh": "多斯埃雷斯大屠杀",
+    "ja": "ドス・エレスの虐殺"
+   },
+   "description": {
+    "en": "In December 1982 an elite army Kaibil unit entered the village of Las Dos Erres in Petén and killed more than 200 residents, including many children. Decades later Guatemalan courts convicted several former soldiers, and the case became a landmark in the struggle against impunity.",
+    "ko": "1982년 12월 군 정예 부대 카이빌이 페텐의 라스 도스 에레스 마을에 들어가 어린이 다수를 포함한 주민 200여 명을 살해했다. 수십 년 뒤 과테말라 법원은 여러 전직 군인에게 유죄를 선고했고, 이 사건은 불처벌과의 싸움에서 이정표가 되었다.",
+    "zh": "1982年12月，军队精锐部队“凯比尔”进入佩滕省拉斯多斯埃雷斯村，杀害了200多名村民，其中有许多儿童。几十年后危地马拉法院判处多名前士兵有罪，此案成为反对有罪不罚斗争中的里程碑。",
+    "ja": "1982年12月、軍の精鋭部隊カイビルがペテンのラス・ドス・エレス村に入り、多くの子どもを含む200人以上の住民を殺害した。数十年後、グアテマラの裁判所は複数の元兵士に有罪判決を下し、この事件は不処罰との闘いの画期となった。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "New constitution and return to civilian rule",
+    "ko": "새 헌법과 민정 복귀",
+    "zh": "新宪法与回归文官统治",
+    "ja": "新憲法と民政移管"
+   },
+   "description": {
+    "en": "A constituent assembly adopted a new constitution in May 1985, creating institutions such as the Constitutional Court and the Human Rights Ombudsman. In elections that December the Christian Democrat Vinicio Cerezo won, and he took office in January 1986 as the first civilian president in two decades, though the army retained great power.",
+    "ko": "1985년 5월 제헌의회는 헌법재판소와 인권옴부즈만 등의 기관을 둔 새 헌법을 채택했다. 그해 12월 선거에서 기독민주당의 비니시오 세레소가 승리해 1986년 1월 20년 만의 첫 민간인 대통령으로 취임했지만, 군은 여전히 강력한 힘을 유지했다.",
+    "zh": "1985年5月，制宪议会通过新宪法，设立宪法法院和人权监察专员等机构。同年12月的选举中，基督教民主党人维尼西奥·塞雷索获胜，于1986年1月就任，成为二十年来首位文人总统，但军队仍握有巨大权力。",
+    "ja": "1985年5月、制憲議会は憲法裁判所や人権オンブズマンなどの機関を設けた新憲法を採択した。同年12月の選挙でキリスト教民主党のビニシオ・セレソが勝利し、1986年1月に約20年ぶりの文民大統領として就任したが、軍は依然として大きな力を保った。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Guatemala recognizes Belize's independence",
+    "ko": "과테말라, 벨리즈 독립 승인",
+    "zh": "危地马拉承认伯利兹独立",
+    "ja": "グアテマラがベリーズの独立を承認"
+   },
+   "description": {
+    "en": "In 1991 President Jorge Serrano Elías recognized Belize, independent since 1981, and the two countries established diplomatic relations. Guatemala nevertheless maintained its territorial claim, which was later referred to the International Court of Justice.",
+    "ko": "1991년 호르헤 세라노 엘리아스 대통령은 1981년에 독립한 벨리즈를 승인했고 양국은 외교 관계를 수립했다. 그럼에도 과테말라는 영유권 주장을 유지했으며, 이 문제는 이후 국제사법재판소에 회부되었다.",
+    "zh": "1991年，豪尔赫·塞拉诺·埃利亚斯总统承认1981年独立的伯利兹，两国建立外交关系。但危地马拉仍坚持其领土主张，该问题后来被提交国际法院。",
+    "ja": "1991年、ホルヘ・セラノ・エリアス大統領は1981年に独立したベリーズを承認し、両国は国交を樹立した。それでもグアテマラは領有権主張を維持し、この問題はのちに国際司法裁判所に付託された。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Rigoberta Menchú wins Nobel Peace Prize",
+    "ko": "리고베르타 멘추, 노벨 평화상 수상",
+    "zh": "里戈韦塔·门楚获诺贝尔和平奖",
+    "ja": "リゴベルタ・メンチュウ、ノーベル平和賞受賞"
+   },
+   "description": {
+    "en": "K'iche' Maya activist Rigoberta Menchú received the Nobel Peace Prize for her work for indigenous rights, drawing global attention to the situation of Guatemala's Maya peoples. The award came in 1992, the 500th anniversary of Columbus's first voyage, and strengthened pressure for a negotiated end to the war.",
+    "ko": "키체 마야 출신 활동가 리고베르타 멘추가 원주민 인권 운동의 공로로 노벨 평화상을 받아 과테말라 마야인들의 처지에 세계의 관심을 모았다. 콜럼버스의 첫 항해 500주년인 1992년의 수상은 협상을 통한 내전 종식에 대한 압력을 높였다.",
+    "zh": "基切玛雅裔活动家里戈韦塔·门楚因争取原住民权利获诺贝尔和平奖，使世界关注危地马拉玛雅人的处境。此奖颁于哥伦布首航五百周年的1992年，增强了通过谈判结束内战的压力。",
+    "ja": "キチェー・マヤ出身の活動家リゴベルタ・メンチュウが先住民の権利擁護の功績でノーベル平和賞を受賞し、グアテマラのマヤの人々の境遇に世界の関心を集めた。コロンブスの最初の航海から500年にあたる1992年の受賞は、交渉による内戦終結への圧力を強めた。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Serrano's self-coup fails",
+    "ko": "세라노의 친위 쿠데타 실패",
+    "zh": "塞拉诺“自我政变”失败",
+    "ja": "セラノの自己クーデター失敗"
+   },
+   "description": {
+    "en": "On 25 May 1993 President Jorge Serrano Elías dissolved Congress and the courts and suspended constitutional rights in an attempted self-coup. Opposition from the Constitutional Court, civil society, business and the army forced him from power within days, and Congress chose the human rights ombudsman Ramiro de León Carpio as president.",
+    "ko": "1993년 5월 25일 호르헤 세라노 엘리아스 대통령은 의회와 법원을 해산하고 헌법상 권리를 정지하는 친위 쿠데타를 시도했다. 헌법재판소와 시민사회, 재계, 군의 반대로 그는 며칠 만에 물러났고, 의회는 인권옴부즈만 라미로 데 레온 카르피오를 대통령으로 선출했다.",
+    "zh": "1993年5月25日，豪尔赫·塞拉诺·埃利亚斯总统解散国会和法院、中止宪法权利，企图发动“自我政变”。在宪法法院、公民社会、工商界和军队的反对下，他数日内即被迫下台，国会推选人权监察专员拉米罗·德莱昂·卡皮奥为总统。",
+    "ja": "1993年5月25日、ホルヘ・セラノ・エリアス大統領は議会と裁判所を解散し憲法上の権利を停止する自己クーデターを試みた。憲法裁判所、市民社会、経済界、軍の反対により数日で退陣に追い込まれ、議会は人権オンブズマンのラミロ・デ・レオン・カルピオを大統領に選んだ。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Peace Accords end 36-year civil war",
+    "ko": "평화협정으로 36년 내전 종식",
+    "zh": "和平协定结束36年内战",
+    "ja": "和平協定による36年内戦の終結"
+   },
+   "description": {
+    "en": "On 29 December 1996 the government of Álvaro Arzú and the URNG guerrillas signed the Agreement on a Firm and Lasting Peace in Guatemala City, ending 36 years of internal armed conflict. The accords, negotiated under UN auspices, included commitments on Indigenous rights, demilitarization and socioeconomic reform, many of which were only partly implemented.",
+    "ko": "1996년 12월 29일 알바로 아르수 정부와 게릴라 조직 URNG는 과테말라시티에서 '확고하고 지속적인 평화 협정'에 서명하여 36년에 걸친 내전을 끝냈다. 유엔의 주선으로 협상된 이 협정에는 원주민 권리, 탈군사화, 사회경제 개혁에 관한 약속이 담겼으나 상당 부분은 일부만 이행되었다.",
+    "zh": "1996年12月29日，阿尔瓦罗·阿尔苏政府与危地马拉全国革命联盟（URNG）在危地马拉城签署《坚实持久和平协定》，结束36年内战。这些在联合国主持下谈判达成的协定包含原住民权利、非军事化和社会经济改革等承诺，但其中许多只得到部分落实。",
+    "ja": "1996年12月29日、アルバロ・アルスー政権とゲリラ組織URNGはグアテマラシティで「確固とした恒久的平和協定」に調印し、36年に及ぶ内戦を終結させた。国連の仲介で交渉された協定には先住民の権利、非軍事化、社会経済改革の約束が含まれたが、その多くは部分的にしか実施されなかった。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Bishop Juan Gerardi murdered",
+    "ko": "후안 헤라르디 주교 피살",
+    "zh": "胡安·赫拉尔迪主教遇害",
+    "ja": "フアン・ヘラルディ司教の殺害"
+   },
+   "description": {
+    "en": "On 26 April 1998, two days after presenting the Catholic Church's REMHI report Guatemala: Never Again, which attributed most wartime atrocities to the army, Bishop Juan Gerardi was beaten to death in his parish house. Army officers were later convicted of the killing, which became a symbol of post-war impunity and resistance to truth-telling.",
+    "ko": "1998년 4월 26일 후안 헤라르디 주교는 전시 잔학 행위 대부분이 군에 의한 것이라고 밝힌 가톨릭교회의 REMHI 보고서 『과테말라: 다시는 결코』를 발표한 지 이틀 만에 사제관에서 맞아 숨졌다. 이후 군 장교들이 이 살인으로 유죄 판결을 받았으며, 사건은 전후 불처벌과 진실 규명에 대한 저항의 상징이 되었다.",
+    "zh": "1998年4月26日，胡安·赫拉尔迪主教在发布天主教会REMHI报告《危地马拉：永不再现》两天后，在其教区住所被殴打致死；该报告将战时大部分暴行归咎于军队。后来几名军官因此案被判有罪，这起谋杀成为战后有罪不罚和抗拒真相的象征。",
+    "ja": "1998年4月26日、戦時の残虐行為の大半が軍によるものとしたカトリック教会のREMHI報告書『グアテマラ：二度と再び』を発表した2日後、フアン・ヘラルディ司教が司祭館で撲殺された。のちに軍将校らが有罪となり、この事件は戦後の不処罰と真相究明への抵抗の象徴となった。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Truth commission report 'Memory of Silence'",
+    "ko": "진실위원회 보고서 『침묵의 기억』",
+    "zh": "真相委员会报告《沉默的记忆》",
+    "ja": "真相究明委員会報告『沈黙の記憶』"
+   },
+   "description": {
+    "en": "In February 1999 the UN-backed Commission for Historical Clarification published Guatemala: Memory of Silence. It estimated that more than 200,000 people were killed or disappeared during the conflict, attributed 93 percent of documented violations to state forces and allied paramilitaries, and concluded that acts of genocide had been committed against Maya groups.",
+    "ko": "1999년 2월 유엔이 지원한 역사규명위원회는 『과테말라: 침묵의 기억』을 발표했다. 보고서는 분쟁 기간 20만 명 이상이 살해되거나 실종되었다고 추산하고, 기록된 인권 침해의 93%가 국가 세력과 그 협력 준군사조직에 의한 것이라 밝히며, 마야 집단에 대한 집단학살 행위가 있었다고 결론지었다.",
+    "zh": "1999年2月，联合国支持的历史澄清委员会发表《危地马拉：沉默的记忆》报告。报告估计冲突期间有20多万人遇害或失踪，将93%有记录的侵权行为归于国家力量及其附属准军事组织，并认定曾对玛雅族群犯下种族灭绝行为。",
+    "ja": "1999年2月、国連が支援した歴史的解明委員会は『グアテマラ：沈黙の記憶』を公表した。報告書は紛争中に20万人以上が殺害または失踪したと推計し、記録された人権侵害の93％を国家側とその準軍事組織によるものとし、マヤの集団に対するジェノサイド行為があったと結論づけた。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": "Q3533109",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Voters reject peace-accord constitutional reforms",
+    "ko": "평화협정 개헌안 국민투표 부결",
+    "zh": "选民否决和平协定宪法修正案",
+    "ja": "和平協定に基づく憲法改正案が否決"
+   },
+   "description": {
+    "en": "In a May 1999 referendum with very low turnout, voters rejected a package of constitutional amendments drafted to implement the peace accords, including recognition of Guatemala as a multiethnic, multicultural and multilingual nation and limits on the army's role. The defeat was a major setback for the peace process.",
+    "ko": "1999년 5월 투표율이 매우 낮았던 국민투표에서 유권자들은 과테말라를 다민족·다문화·다언어 국가로 인정하고 군의 역할을 제한하는 등 평화협정 이행을 위한 헌법 개정안을 부결했다. 이 결과는 평화 과정에 큰 타격이었다.",
+    "zh": "在1999年5月投票率极低的全民公决中，选民否决了一揽子旨在落实和平协定的宪法修正案，其中包括承认危地马拉为多民族、多文化、多语言国家以及限制军队作用等内容。这一结果是和平进程的重大挫折。",
+    "ja": "1999年5月の投票率が極めて低い国民投票で、有権者はグアテマラを多民族・多文化・多言語国家と認め、軍の役割を制限するなど、和平協定を実施するための憲法改正案を否決した。この結果は和平プロセスにとって大きな後退だった。"
+   }
+  },
+  {
+   "year": 2003,
+   "qid": "Q2117787",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "'Black Thursday' riots",
+    "ko": "'검은 목요일' 폭동",
+    "zh": "“黑色星期四”骚乱",
+    "ja": "「黒い木曜日」暴動"
+   },
+   "description": {
+    "en": "On 24 July 2003 supporters of the ruling FRG party, many masked, rampaged through Guatemala City to pressure the courts to allow former dictator Efraín Ríos Montt to run for president despite a constitutional ban on coup leaders. The courts let him run, but he finished third in the November election, won later by Óscar Berger.",
+    "ko": "2003년 7월 24일 여당 FRG 지지자들이 대거 복면을 쓰고 과테말라시티를 휩쓸며, 쿠데타 주도자의 출마를 금지한 헌법에도 불구하고 전 독재자 에프라인 리오스 몬트의 대선 출마를 허용하라고 법원을 압박했다. 법원은 출마를 허용했지만, 그는 11월 선거에서 3위에 그쳤고 이후 오스카르 베르헤르가 당선되었다.",
+    "zh": "2003年7月24日，执政的危地马拉共和阵线（FRG）支持者大批蒙面在危地马拉城横冲直撞，迫使法院允许前独裁者埃弗拉因·里奥斯·蒙特参选总统，尽管宪法禁止政变领导人参选。法院最终允许其参选，但他在11月的选举中仅列第三，奥斯卡·贝格尔后来胜选。",
+    "ja": "2003年7月24日、与党FRGの支持者が覆面姿で大挙してグアテマラシティで暴れ、クーデター指導者の立候補を禁じる憲法にもかかわらず元独裁者エフライン・リオス・モントの大統領選出馬を認めるよう裁判所に圧力をかけた。裁判所は出馬を認めたが、彼は11月の選挙で3位に終わり、のちにオスカル・ベルヘルが当選した。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "CICIG begins work against impunity",
+    "ko": "불처벌 대응 국제위원회(CICIG) 활동 개시",
+    "zh": "反有罪不罚国际委员会开始运作",
+    "ja": "不処罰対策国際委員会（CICIG）の活動開始"
+   },
+   "description": {
+    "en": "Created by an agreement between Guatemala and the United Nations, the International Commission against Impunity in Guatemala (CICIG) began operating in 2007 to help investigate criminal networks embedded in state institutions. Working with the Public Ministry, it brought cases against hundreds of officials, business people and politicians.",
+    "ko": "과테말라와 유엔의 협정으로 설립된 과테말라 불처벌 대응 국제위원회(CICIG)는 2007년 국가 기관에 뿌리내린 범죄 조직망 수사를 돕기 위해 활동을 시작했다. 검찰과 협력하여 수백 명의 공직자, 기업인, 정치인을 기소하는 데 기여했다.",
+    "zh": "根据危地马拉与联合国之间的协议设立的危地马拉反有罪不罚国际委员会（CICIG）于2007年开始运作，协助调查渗透在国家机构中的犯罪网络。它与检察院合作，对数百名官员、商人和政客提起诉讼。",
+    "ja": "グアテマラと国連の協定により設立されたグアテマラ不処罰対策国際委員会（CICIG）は、国家機関に巣くう犯罪ネットワークの捜査を支援するため2007年に活動を開始した。検察庁と協力し、数百人の公務員、実業家、政治家を訴追した。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Pacaya eruption and Tropical Storm Agatha",
+    "ko": "파카야 화산 분화와 열대폭풍 아가사",
+    "zh": "帕卡亚火山喷发与热带风暴阿加莎",
+    "ja": "パカヤ火山噴火と熱帯暴風雨アガサ"
+   },
+   "description": {
+    "en": "In late May 2010 an eruption of the Pacaya volcano covered Guatemala City in ash, and days later Tropical Storm Agatha brought torrential rains that triggered floods and landslides, killing well over a hundred people. A giant sinkhole that swallowed a building in Zone 2 of the capital became an emblem of the disaster.",
+    "ko": "2010년 5월 말 파카야 화산 분화로 과테말라시티가 화산재로 뒤덮였고, 며칠 뒤 열대폭풍 아가사가 폭우를 몰고 와 홍수와 산사태로 100명을 훨씬 넘는 사람이 숨졌다. 수도 2구역의 건물을 집어삼킨 거대한 싱크홀은 이 재해의 상징이 되었다.",
+    "zh": "2010年5月下旬，帕卡亚火山喷发使危地马拉城被火山灰覆盖，数日后热带风暴阿加莎带来暴雨，引发洪水和山体滑坡，造成远超百人死亡。首都第2区吞没一栋建筑的巨大天坑成为这场灾难的标志。",
+    "ja": "2010年5月下旬、パカヤ火山の噴火でグアテマラシティが火山灰に覆われ、数日後には熱帯暴風雨アガサが豪雨をもたらし、洪水と土砂崩れで100人を大きく超える死者が出た。首都第2区の建物を飲み込んだ巨大な陥没穴はこの災害の象徴となった。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q27608",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "2012 earthquake in San Marcos",
+    "ko": "2012년 산마르코스 지진",
+    "zh": "2012年圣马科斯地震",
+    "ja": "2012年サン・マルコス地震"
+   },
+   "description": {
+    "en": "On 7 November 2012 a magnitude 7.4 earthquake struck off Guatemala's Pacific coast, causing the most damage in the department of San Marcos. It killed dozens of people and destroyed or damaged thousands of homes, the country's deadliest quake since 1976.",
+    "ko": "2012년 11월 7일 과테말라 태평양 연안 앞바다에서 규모 7.4의 지진이 일어나 산마르코스주에 가장 큰 피해를 입혔다. 수십 명이 숨지고 수천 채의 가옥이 무너지거나 파손되어, 1976년 이후 가장 인명 피해가 큰 지진이 되었다.",
+    "zh": "2012年11月7日，危地马拉太平洋沿岸近海发生7.4级地震，圣马科斯省受灾最重。地震造成数十人死亡，数千栋房屋倒塌或受损，是1976年以来该国伤亡最惨重的地震。",
+    "ja": "2012年11月7日、グアテマラの太平洋岸沖でマグニチュード7.4の地震が発生し、サン・マルコス県が最も大きな被害を受けた。数十人が死亡し数千棟の住宅が倒壊・損壊し、1976年以来最も犠牲の大きい地震となった。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Ríos Montt convicted of genocide",
+    "ko": "리오스 몬트, 집단학살 유죄 판결",
+    "zh": "里奥斯·蒙特被判种族灭绝罪",
+    "ja": "リオス・モントにジェノサイドで有罪判決"
+   },
+   "description": {
+    "en": "On 10 May 2013 a Guatemalan court convicted former dictator Efraín Ríos Montt of genocide and crimes against humanity against the Maya Ixil and sentenced him to 80 years, the first time a former head of state was convicted of genocide by a national court. Ten days later the Constitutional Court annulled the verdict on procedural grounds; a retrial was still unfinished when he died in 2018.",
+    "ko": "2013년 5월 10일 과테말라 법원은 전 독재자 에프라인 리오스 몬트에게 마야 익실족에 대한 집단학살 및 반인도적 범죄로 유죄를 선고하고 징역 80년을 선고했다. 전직 국가원수가 자국 법원에서 집단학살로 유죄 판결을 받은 첫 사례였다. 그러나 열흘 뒤 헌법재판소가 절차상의 이유로 판결을 무효화했고, 2018년 그가 사망할 때까지 재심은 끝나지 않았다.",
+    "zh": "2013年5月10日，危地马拉法院以对玛雅伊希尔人犯下种族灭绝罪和危害人类罪判处前独裁者埃弗拉因·里奥斯·蒙特80年徒刑，这是前国家元首首次在本国法院被判种族灭绝罪。十天后，宪法法院以程序理由撤销判决；直到他2018年去世，重审仍未结束。",
+    "ja": "2013年5月10日、グアテマラの裁判所は元独裁者エフライン・リオス・モントにマヤ・イシル族に対するジェノサイドと人道に対する罪で有罪を言い渡し、禁錮80年を宣告した。元国家元首が自国の裁判所でジェノサイドの有罪判決を受けた初の例だった。しかし10日後、憲法裁判所が手続き上の理由で判決を無効とし、2018年に彼が死去した時点で再審は終わっていなかった。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q12164601",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "La Línea scandal topples President Pérez Molina",
+    "ko": "'라 리네아' 스캔들과 페레스 몰리나 대통령 사임",
+    "zh": "“线路”丑闻迫使佩雷斯·莫利纳总统下台",
+    "ja": "「ラ・リネア」事件とペレス・モリナ大統領の辞任"
+   },
+   "description": {
+    "en": "In 2015 investigations by CICIG and the Public Ministry exposed La Línea, a customs fraud network reaching the top of government. Weekly peaceful mass protests forced Vice President Roxana Baldetti to resign in May and President Otto Pérez Molina in September, after which he was arrested; the comedian Jimmy Morales won the presidential election that autumn.",
+    "ko": "2015년 CICIG와 검찰의 수사로 정부 최고위층까지 연결된 관세 사기망 '라 리네아'가 드러났다. 매주 이어진 평화적 대규모 시위로 5월에는 록사나 발데티 부통령이, 9월에는 오토 페레스 몰리나 대통령이 사임했고 그는 곧 체포되었다. 그해 가을 대선에서는 코미디언 지미 모랄레스가 당선되었다.",
+    "zh": "2015年，CICIG和检察院的调查揭露了直达政府高层的海关诈骗网络“线路”（La Línea）。每周举行的大规模和平抗议迫使副总统罗克萨娜·巴尔德蒂于5月辞职、总统奥托·佩雷斯·莫利纳于9月辞职，后者随即被捕；同年秋天，喜剧演员吉米·莫拉莱斯赢得总统选举。",
+    "ja": "2015年、CICIGと検察の捜査で政府最上層にまで及ぶ税関詐欺網「ラ・リネア」が明らかになった。毎週の平和的な大規模抗議により、5月にロクサナ・バルデッティ副大統領、9月にオットー・ペレス・モリナ大統領が辞任し、彼はまもなく逮捕された。同年秋の大統領選ではコメディアンのジミー・モラレスが当選した。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q21057315",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "El Cambray Dos landslide",
+    "ko": "엘 캄브라이 도스 산사태",
+    "zh": "埃尔坎布雷二村山体滑坡",
+    "ja": "エル・カンブライ・ドスの地滑り"
+   },
+   "description": {
+    "en": "On the night of 1 October 2015 a hillside collapsed onto the El Cambray Dos neighborhood in Santa Catarina Pinula, on the outskirts of Guatemala City, after heavy rain. About 280 people died, one of the deadliest landslides in the country's history, highlighting the danger of informal housing on unstable ravine slopes.",
+    "ko": "2015년 10월 1일 밤 폭우 끝에 과테말라시티 외곽 산타카타리나피눌라의 엘 캄브라이 도스 마을에 산비탈이 무너져 내렸다. 약 280명이 숨져 과테말라 역사상 최악의 산사태 가운데 하나가 되었으며, 불안정한 협곡 사면의 비공식 주거지가 지닌 위험을 드러냈다.",
+    "zh": "2015年10月1日夜，暴雨过后，危地马拉城郊圣卡塔利娜皮努拉的埃尔坎布雷二村遭山体崩塌掩埋。约280人遇难，是该国历史上最严重的山体滑坡之一，凸显了不稳定峡谷坡地上非正规住房的危险。",
+    "ja": "2015年10月1日夜、豪雨の後にグアテマラシティ郊外サンタ・カタリナ・ピヌラのエル・カンブライ・ドス地区に山腹が崩れ落ちた。約280人が死亡し、国史上最悪級の地滑りとなり、不安定な峡谷斜面に広がる非正規住宅の危険を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q28920798",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Fire at the Virgen de la Asunción children's home",
+    "ko": "비르헨 데 라 아순시온 보호시설 화재",
+    "zh": "圣母升天儿童之家火灾",
+    "ja": "ビルヘン・デ・ラ・アスンシオン児童養護施設の火災"
+   },
+   "description": {
+    "en": "On 8 March 2017 a fire broke out in a locked room at the overcrowded state-run Hogar Seguro Virgen de la Asunción shelter in San José Pinula, where girls had been confined after a protest over abuse. Forty-one girls died, prompting national outrage and prosecutions of officials.",
+    "ko": "2017년 3월 8일 산호세피눌라의 과밀한 국영 보호시설 '오가르 세구로 비르헨 데 라 아순시온'에서, 학대에 항의한 뒤 갇혀 있던 소녀들의 잠긴 방에 불이 났다. 41명의 소녀가 숨지자 전국적인 분노가 일었고 관련 공무원들이 기소되었다.",
+    "zh": "2017年3月8日，位于圣何塞皮努拉、人满为患的国营“圣母升天安全之家”收容所内，一群因抗议虐待而被关押的女孩所在的上锁房间发生火灾。41名女孩丧生，引发全国愤怒，相关官员遭到起诉。",
+    "ja": "2017年3月8日、サン・ホセ・ピヌラの過密な国営保護施設「オガル・セグロ・ビルヘン・デ・ラ・アスンシオン」で、虐待に抗議した後に閉じ込められていた少女たちの施錠された部屋から火災が発生した。41人の少女が死亡し、全国的な怒りを呼び、担当官僚が訴追された。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q54802312",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Volcán de Fuego eruption",
+    "ko": "푸에고 화산 분화",
+    "zh": "富埃戈火山喷发",
+    "ja": "フエゴ火山の噴火"
+   },
+   "description": {
+    "en": "On 3 June 2018 the Volcán de Fuego produced powerful pyroclastic flows that swept down its slopes and buried communities such as San Miguel Los Lotes in Escuintla. Hundreds of people were killed or remain missing, and the disaster raised questions about the adequacy of warnings and evacuations.",
+    "ko": "2018년 6월 3일 푸에고 화산에서 강력한 화쇄류가 사면을 휩쓸며 에스쿠인틀라의 산미겔 로스 로테스 등 마을을 매몰시켰다. 수백 명이 숨지거나 여전히 실종 상태이며, 경보와 대피가 적절했는지에 대한 의문이 제기되었다.",
+    "zh": "2018年6月3日，富埃戈火山喷发出强大的火山碎屑流，沿山坡奔泻而下，掩埋了埃斯昆特拉省圣米格尔洛斯洛特斯等社区。数百人遇难或至今下落不明，这场灾难引发了对预警和疏散是否得当的质疑。",
+    "ja": "2018年6月3日、フエゴ火山から強力な火砕流が斜面を流れ下り、エスクィントラ県のサン・ミゲル・ロス・ロテスなどの集落を埋没させた。数百人が死亡または行方不明となり、警報と避難が適切だったかが問われた。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q39081219",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Referendum sends Belize dispute to the ICJ",
+    "ko": "벨리즈 분쟁의 국제사법재판소 회부 국민투표",
+    "zh": "公投将伯利兹争端提交国际法院",
+    "ja": "ベリーズ問題を国際司法裁判所に付託する国民投票"
+   },
+   "description": {
+    "en": "In April 2018 Guatemalan voters approved submitting the long-standing territorial claim against Belize to the International Court of Justice. Belize approved the same step in 2019, and both countries filed their cases with the court in The Hague.",
+    "ko": "2018년 4월 과테말라 유권자들은 벨리즈에 대한 오랜 영유권 주장을 국제사법재판소에 회부하는 안을 승인했다. 벨리즈도 2019년 같은 조치를 승인했고, 양국은 헤이그의 재판소에 각자의 입장을 제출했다.",
+    "zh": "2018年4月，危地马拉选民批准将对伯利兹的长期领土主张提交国际法院。伯利兹于2019年批准了同样的步骤，两国随后向海牙的国际法院提交了各自的诉状。",
+    "ja": "2018年4月、グアテマラの有権者はベリーズに対する長年の領有権主張を国際司法裁判所に付託することを承認した。ベリーズも2019年に同じ手続きを承認し、両国はハーグの裁判所にそれぞれの主張を提出した。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q28503263",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "CICIG expelled; Giammattei elected",
+    "ko": "CICIG 종료와 잠마테이 당선",
+    "zh": "CICIG被终止与贾马太当选",
+    "ja": "CICIGの終了とジャマテイの当選"
+   },
+   "description": {
+    "en": "President Jimmy Morales, himself under CICIG investigation, refused to renew the commission's mandate, and it ceased operations in September 2019. In the 2019 general election Alejandro Giammattei defeated Sandra Torres in the runoff; during his term several prosecutors and judges involved in anti-corruption cases were forced into exile.",
+    "ko": "자신도 CICIG의 수사 대상이었던 지미 모랄레스 대통령은 위원회의 임기 연장을 거부했고, CICIG는 2019년 9월 활동을 마쳤다. 2019년 총선 결선에서 알레한드로 잠마테이가 산드라 토레스를 꺾었고, 그의 임기 동안 반부패 사건을 맡았던 여러 검사와 판사가 망명을 강요당했다.",
+    "zh": "本身也受到CICIG调查的吉米·莫拉莱斯总统拒绝延长该委员会的任期，CICIG于2019年9月停止运作。在2019年大选的第二轮投票中，亚历杭德罗·贾马太击败桑德拉·托雷斯；在其任期内，多名参与反腐案件的检察官和法官被迫流亡。",
+    "ja": "自らもCICIGの捜査対象だったジミー・モラレス大統領は委員会の任期延長を拒否し、CICIGは2019年9月に活動を終えた。2019年の総選挙の決選投票ではアレハンドロ・ジャマテイがサンドラ・トレスを破り、その任期中に汚職事件を担当した検察官や判事の多くが亡命を余儀なくされた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87669612",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic and hurricanes Eta and Iota",
+    "ko": "코로나19 팬데믹과 허리케인 에타·요타",
+    "zh": "新冠疫情与飓风埃塔和约塔",
+    "ja": "新型コロナとハリケーン・イータ、アイオタ"
+   },
+   "description": {
+    "en": "COVID-19 reached Guatemala in March 2020, leading to curfews and lockdowns that hit the large informal economy hard. In November 2020 hurricanes Eta and Iota caused catastrophic flooding and landslides in Alta Verapaz and Izabal, including a deadly landslide at Quejá, deepening poverty and spurring migration.",
+    "ko": "코로나19는 2020년 3월 과테말라에 상륙해 통행금지와 봉쇄를 불러왔고, 거대한 비공식 경제에 큰 타격을 주었다. 2020년 11월에는 허리케인 에타와 요타가 알타베라파스와 이사발에 파국적인 홍수와 산사태를 일으켰고, 케하 마을의 치명적인 산사태도 이때 일어났다. 이는 빈곤을 심화시키고 이주를 부추겼다.",
+    "zh": "新冠病毒于2020年3月传入危地马拉，随之而来的宵禁和封锁重创了庞大的非正规经济。2020年11月，飓风埃塔和约塔在上韦拉帕斯省和伊萨瓦尔省造成灾难性洪水和山体滑坡，其中包括克哈村的致命滑坡，加剧了贫困并推动了移民潮。",
+    "ja": "新型コロナウイルスは2020年3月にグアテマラに到達し、外出禁止令やロックダウンが巨大なインフォーマル経済に打撃を与えた。2020年11月にはハリケーン・イータとアイオタがアルタ・ベラパス県とイサバル県に壊滅的な洪水と土砂崩れをもたらし、ケハ村での致命的な地滑りも起きた。これにより貧困は深まり、移民が増えた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q122890985",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Bernardo Arévalo's election and the electoral crisis",
+    "ko": "베르나르도 아레발로 당선과 선거 위기",
+    "zh": "贝尔纳多·阿雷瓦洛当选与选举危机",
+    "ja": "ベルナルド・アレバロの当選と選挙危機"
+   },
+   "description": {
+    "en": "In 2023 the anti-corruption candidate Bernardo Arévalo of the Semilla movement, son of former president Juan José Arévalo, unexpectedly reached the runoff and won by a wide margin in August. Prosecutors then moved to suspend his party and challenge the results, prompting months of protests led by Indigenous authorities and broad international pressure to respect the vote.",
+    "ko": "2023년 전 대통령 후안 호세 아레발로의 아들이자 세미야 운동의 반부패 후보인 베르나르도 아레발로가 예상을 깨고 결선에 진출해 8월에 큰 표 차로 승리했다. 이후 검찰이 그의 정당 활동을 정지시키고 선거 결과에 이의를 제기하자, 원주민 자치 당국이 이끈 수개월간의 시위와 선거 결과 존중을 요구하는 광범위한 국제적 압력이 이어졌다.",
+    "zh": "2023年，“种子”运动的反腐候选人、前总统胡安·何塞·阿雷瓦洛之子贝尔纳多·阿雷瓦洛出人意料地进入第二轮，并于8月以大幅优势获胜。随后检方试图暂停其政党资格并质疑选举结果，引发由原住民传统权威领导的数月抗议，以及要求尊重选举结果的广泛国际压力。",
+    "ja": "2023年、セミージャ運動の反汚職候補で元大統領フアン・ホセ・アレバロの息子であるベルナルド・アレバロが予想を覆して決選投票に進み、8月に大差で勝利した。その後検察が党の活動停止や選挙結果への異議を進めると、先住民の伝統的自治組織が主導する数か月の抗議と、選挙結果の尊重を求める広範な国際的圧力が起きた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Arévalo inaugurated after delays",
+    "ko": "지연 끝에 취임한 아레발로",
+    "zh": "阿雷瓦洛在拖延后就职",
+    "ja": "遅延の末アレバロが就任"
+   },
+   "description": {
+    "en": "Bernardo Arévalo was sworn in as president in the early hours of 15 January 2024, after congressional maneuvering delayed the ceremony for hours. His government pledged to fight corruption but faced continued resistance from the attorney general's office and entrenched networks in Congress and the courts.",
+    "ko": "베르나르도 아레발로는 의회의 지연 공작으로 취임식이 몇 시간 미뤄진 끝에 2024년 1월 15일 새벽 대통령으로 취임했다. 그의 정부는 부패 척결을 약속했지만 검찰총장실과 의회·사법부에 뿌리 내린 세력의 저항에 계속 부딪혔다.",
+    "zh": "由于国会的拖延操作，就职典礼推迟了数小时，贝尔纳多·阿雷瓦洛于2024年1月15日凌晨宣誓就任总统。其政府承诺打击腐败，但持续遭到总检察长办公室以及盘踞国会和法院的势力的抵制。",
+    "ja": "議会の引き延ばし工作で式典が数時間遅れた末、ベルナルド・アレバロは2024年1月15日未明に大統領に就任した。政権は汚職撲滅を掲げたが、検事総長室や議会・司法に根を張る勢力の抵抗に直面し続けた。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q132191532",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Guatemala City bus crash",
+    "ko": "과테말라시티 버스 추락 사고",
+    "zh": "危地马拉城公交车坠落事故",
+    "ja": "グアテマラシティのバス転落事故"
+   },
+   "description": {
+    "en": "On 10 February 2025 a crowded bus plunged off a bridge into a ravine on the edge of Guatemala City, killing more than 50 people in one of the deadliest road accidents in the country's history. The tragedy renewed scrutiny of aging buses and the safety of the capital's commuter transport.",
+    "ko": "2025년 2월 10일 승객으로 가득 찬 버스가 과테말라시티 외곽의 다리에서 협곡으로 추락해 50명 넘게 숨졌다. 과테말라 역사상 최악의 교통사고 가운데 하나로, 노후 버스와 수도권 통근 교통의 안전 문제가 다시 도마에 올랐다.",
+    "zh": "2025年2月10日，一辆满载乘客的公交车在危地马拉城郊从桥上坠入峡谷，造成50多人死亡，是该国历史上最严重的交通事故之一。这一悲剧再次引发对老旧公交车和首都通勤交通安全的关注。",
+    "ja": "2025年2月10日、満員のバスがグアテマラシティ郊外の橋から峡谷に転落し、50人以上が死亡した。国史上最悪級の交通事故で、老朽化したバスと首都圏の通勤交通の安全性が改めて問われた。"
+   }
+  }
+ ]
+}

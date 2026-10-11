@@ -1,0 +1,2842 @@
+{
+ "iso": "BD",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -1500,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Prehistoric Bengal delta",
+    "ko": "선사 시대의 벵골 삼각주",
+    "zh": "史前孟加拉三角洲",
+    "ja": "先史時代のベンガル・デルタ"
+   },
+   "summary": {
+    "en": "Stone tools found in the Lalmai hills near Comilla, the Chittagong hills and the uplands of Sylhet show that the higher ground around the Bengal delta was inhabited in the Stone Age. The low delta itself, constantly reshaped by the Ganges, Brahmaputra and Meghna, preserves few early remains, so the transition to farming here is poorly documented. Rice cultivation and village life gradually took hold across the region.",
+    "ko": "코밀라 부근 랄마이 구릉, 치타공 구릉, 실헷 고지에서 발견된 석기는 벵골 삼각주를 둘러싼 고지대에 석기 시대부터 사람이 살았음을 보여 준다. 갠지스·브라마푸트라·메그나강이 끊임없이 지형을 바꾸는 저지대 삼각주에는 초기 유적이 거의 남아 있지 않아, 이곳의 농경 전환 과정은 잘 밝혀져 있지 않다. 벼농사와 마을 생활이 점차 지역 전체에 뿌리내렸다.",
+    "zh": "在科米拉附近的拉尔迈丘陵、吉大港山地和锡尔赫特高地出土的石器表明，孟加拉三角洲周边的高地在石器时代已有人类居住。低洼的三角洲本身不断被恒河、布拉马普特拉河和梅格纳河改造，早期遗存保存甚少，因此当地向农业过渡的过程记录不多。稻作农业与村落生活逐渐在整个地区扎根。",
+    "ja": "コミラ近郊のラルマイ丘陵、チッタゴン丘陵、シレット高地で見つかった石器は、ベンガル・デルタを囲む高地に石器時代から人が住んでいたことを示している。ガンジス川・ブラマプトラ川・メグナ川によって絶えず地形が変わる低地デルタには初期の遺跡がほとんど残らず、農耕への移行の過程はよく分かっていない。稲作と村落生活が次第に地域全体に根付いていった。"
+   }
+  },
+  {
+   "from": -1500,
+   "to": -600,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Chalcolithic and early Iron Age Bengal",
+    "ko": "동석기·초기 철기 시대의 벵골",
+    "zh": "铜石并用时代与早期铁器时代的孟加拉",
+    "ja": "銅石器・初期鉄器時代のベンガル"
+   },
+   "summary": {
+    "en": "In the 2nd and early 1st millennium BC farming communities using copper and later iron spread through the Bengal region, best documented at sites in neighbouring West Bengal. Late Vedic texts begin to mention eastern peoples such as the Pundra and the Vanga, regarding them as outside the Vedic world. These names later became the basis of the region's historical geography.",
+    "ko": "기원전 2천년기에서 1천년기 초에 걸쳐 구리와 이후 철을 사용하는 농경 공동체가 벵골 지역에 퍼졌으며, 이는 인접한 인도 서벵골의 유적에서 가장 잘 확인된다. 후기 베다 문헌은 푼드라, 방가 같은 동방 집단을 언급하기 시작하는데, 이들을 베다 세계 바깥의 사람들로 여겼다. 이 이름들은 훗날 이 지역 역사 지리의 바탕이 되었다.",
+    "zh": "公元前二千纪至前一千纪初，使用铜器、后来使用铁器的农耕社群扩散到孟加拉地区，这在邻近的印度西孟加拉遗址中记录最为充分。晚期吠陀文献开始提到奔那（Pundra）、梵伽（Vanga）等东方族群，并视其为吠陀世界之外的人群。这些名称后来成为该地区历史地理的基础。",
+    "ja": "紀元前2千年紀から1千年紀初めにかけて、銅器、のちに鉄器を用いる農耕社会がベンガル地方に広がった。その様子は隣接するインドの西ベンガルの遺跡で最もよく確認されている。後期ヴェーダ文献はプンドラやヴァンガといった東方の人々に言及し始め、彼らをヴェーダ世界の外の民とみなした。これらの名はのちにこの地域の歴史地理の基礎となった。"
+   }
+  },
+  {
+   "from": -600,
+   "to": -322,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early historic Bengal: Vanga, Pundra and the Gangaridai",
+    "ko": "초기 역사 시대 벵골: 방가·푼드라·강가리다이",
+    "zh": "早期历史时代的孟加拉：梵伽、奔那与恒河国",
+    "ja": "初期歴史時代のベンガル：ヴァンガ、プンドラ、ガンガリダイ"
+   },
+   "summary": {
+    "en": "From the mid-1st millennium BC fortified towns with Northern Black Polished Ware, punch-marked coins and craft production appeared in the delta, as at Wari-Bateshwar in the Narsingdi district. Indian texts name Vanga in the south-east and Pundra in the north, while Greek writers of Alexander's time heard of a powerful eastern people called the Gangaridai, usually located in the Ganges delta. The region was linked to the Ganges valley trade network.",
+    "ko": "기원전 1천년기 중엽부터 삼각주에는 북방 흑색 마연 토기, 타각인 주화, 수공업 생산을 갖춘 성곽 도시가 나타났으며, 나르싱디 지역의 와리-바테스와르가 대표적이다. 인도 문헌은 남동부의 방가와 북부의 푼드라를 언급하고, 알렉산드로스 시대의 그리스 저술가들은 강가리다이라는 강력한 동방 민족에 대해 들었는데, 대개 갠지스 삼각주에 있었던 것으로 본다. 이 지역은 갠지스강 유역의 교역망과 연결되어 있었다.",
+    "zh": "自公元前一千纪中叶起，三角洲出现了拥有北方黑色磨光陶、打印币和手工业生产的设防城镇，纳尔辛迪县的瓦里-巴特什瓦尔遗址即是一例。印度文献提到东南部的梵伽和北部的奔那，而亚历山大时代的希腊作家听说过东方一个名为“恒河国”（Gangaridai）的强大民族，一般认为其位于恒河三角洲。该地区已与恒河流域的贸易网络相连。",
+    "ja": "紀元前1千年紀半ばから、デルタには北方黒色磨研土器や打刻印貨幣、手工業生産を伴う城壁都市が現れた。ナルシンディ県のワリ・バテッショル遺跡がその代表である。インドの文献は南東部のヴァンガと北部のプンドラを挙げ、アレクサンドロス時代のギリシアの著述家はガンガリダイと呼ばれる東方の強大な民について伝えており、一般にガンジス・デルタにいたと考えられている。この地域はガンジス流域の交易網と結ばれていた。"
+   }
+  },
+  {
+   "from": -345,
+   "to": -322,
+   "kind": "state",
+   "qid": "Q949268",
+   "polity": "Nanda Empire",
+   "name": {
+    "en": "Nanda Empire of Magadha",
+    "ko": "마가다의 난다 왕조",
+    "zh": "摩揭陀的难陀王朝",
+    "ja": "マガダのナンダ朝"
+   },
+   "summary": {
+    "en": "The Nanda kings of Magadha built the largest state of northern India in the 4th century BC, and Greek accounts associate the Gangaridai with the Nandas' eastern realm. How far Nanda authority actually reached into the Bengal delta is uncertain. The Nandas were overthrown by Chandragupta Maurya around 322 BC.",
+    "ko": "마가다의 난다 왕들은 기원전 4세기 북인도 최대의 국가를 세웠고, 그리스 기록은 강가리다이를 난다 왕조의 동방 영역과 결부한다. 난다의 권력이 실제로 벵골 삼각주까지 얼마나 미쳤는지는 분명하지 않다. 난다 왕조는 기원전 322년경 찬드라굽타 마우리아에게 무너졌다.",
+    "zh": "公元前4世纪，摩揭陀的难陀诸王建立了北印度最大的国家，希腊文献将恒河国与难陀王朝的东部领土联系在一起。难陀政权实际上在多大程度上深入孟加拉三角洲尚不清楚。约公元前322年，难陀王朝被旃陀罗笈多·孔雀推翻。",
+    "ja": "マガダのナンダ朝の王たちは紀元前4世紀に北インド最大の国家を築き、ギリシアの記録はガンガリダイをナンダ朝の東方領域と結び付けている。ナンダ朝の支配が実際にベンガル・デルタのどこまで及んだかは定かでない。ナンダ朝は紀元前322年頃、チャンドラグプタ・マウリヤに倒された。"
+   }
+  },
+  {
+   "from": -322,
+   "to": -185,
+   "kind": "state",
+   "qid": "Q62943",
+   "polity": "Maurya Empire",
+   "name": {
+    "en": "Maurya Empire",
+    "ko": "마우리아 제국",
+    "zh": "孔雀王朝",
+    "ja": "マウリヤ朝"
+   },
+   "summary": {
+    "en": "Northern Bengal was incorporated into the Maurya Empire, with Pundranagara (today's Mahasthangarh in Bogura) serving as a provincial centre. The Mahasthan Brahmi inscription, the oldest known inscription in Bangladesh, records Mauryan-era officials managing relief stores there. The extent of Mauryan control over the southern and eastern delta is less certain.",
+    "ko": "북부 벵골은 마우리아 제국에 편입되었고, 푼드라나가라(오늘날 보구라의 마하스탄가르)가 지방 중심지 역할을 했다. 방글라데시에서 가장 오래된 명문인 마하스탄 브라흐미 명문은 마우리아 시대 관리들이 이곳에서 구휼 물자를 관리했음을 기록하고 있다. 삼각주 남부와 동부에 대한 마우리아의 지배 범위는 덜 확실하다.",
+    "zh": "孟加拉北部被纳入孔雀王朝版图，本德拉纳加拉（今博格拉的马哈斯坦加尔）是其地方中心。孟加拉国已知最古老的铭文——马哈斯坦婆罗米铭文记载了孔雀时代官员在此管理赈济储备的情形。孔雀王朝对三角洲南部和东部的控制范围则不太确定。",
+    "ja": "北部ベンガルはマウリヤ朝に組み込まれ、プンドラナガラ（現在のボグラのマハスタンガル）が地方の中心となった。バングラデシュ最古の碑文であるマハスタン・ブラーフミー碑文は、マウリヤ時代の役人がここで救済用の備蓄を管理していたことを記している。デルタ南部・東部へのマウリヤ朝の支配範囲はそれほど明確ではない。"
+   }
+  },
+  {
+   "from": -185,
+   "to": 350,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Post-Mauryan Bengal and the delta trade",
+    "ko": "마우리아 이후의 벵골과 삼각주 교역",
+    "zh": "孔雀王朝之后的孟加拉与三角洲贸易",
+    "ja": "マウリヤ朝以後のベンガルとデルタの交易"
+   },
+   "summary": {
+    "en": "After the Mauryas, Bengal's political history is obscure; no single dynasty is clearly documented in the delta, although northern Indian powers such as the Shungas may have exerted some influence. Archaeology at Mahasthangarh and Wari-Bateshwar shows continued urban life, coinage and contacts reaching Southeast Asia and the Mediterranean world. Classical geographers described the port of Gange and the fine muslin cloth of the region.",
+    "ko": "마우리아 이후 벵골의 정치사는 불분명하다. 북인도의 슝가 왕조 등이 어느 정도 영향을 미쳤을 수 있으나, 삼각주에서 뚜렷이 기록된 단일 왕조는 없다. 마하스탄가르와 와리-바테스와르의 고고학 자료는 도시 생활과 화폐 사용이 이어졌고 동남아시아와 지중해 세계까지 교류가 닿았음을 보여 준다. 고전 지리학자들은 강게 항구와 이 지역의 고운 모슬린을 묘사했다.",
+    "zh": "孔雀王朝之后，孟加拉的政治史模糊不清；北印度的巽伽王朝等势力或许曾施加一定影响，但三角洲并无清楚记载的单一王朝。马哈斯坦加尔和瓦里-巴特什瓦尔的考古发现表明，城市生活和货币使用仍在延续，对外联系远及东南亚和地中海世界。古典地理学家记载了恒河港（Gange）以及当地精美的细棉布。",
+    "ja": "マウリヤ朝以後のベンガルの政治史ははっきりしない。シュンガ朝など北インドの勢力が何らかの影響を及ぼした可能性はあるが、デルタで明確に記録された王朝はない。マハスタンガルやワリ・バテッショルの考古資料は、都市生活と貨幣の使用が続き、東南アジアや地中海世界にまで交流が及んでいたことを示す。古典古代の地理学者はガンゲーの港とこの地の上質なモスリンを記している。"
+   }
+  },
+  {
+   "from": 335,
+   "to": 550,
+   "kind": "state",
+   "qid": "Q11774",
+   "polity": "Gupta Empire",
+   "name": {
+    "en": "Gupta Empire and Samatata",
+    "ko": "굽타 제국과 사마타타",
+    "zh": "笈多王朝与三摩呾吒",
+    "ja": "グプタ朝とサマタタ"
+   },
+   "summary": {
+    "en": "Under Samudragupta the Gupta Empire extended over northern Bengal, organised as the province (bhukti) of Pundravardhana, while Samatata in the south-east is listed as a tributary frontier kingdom. Copper-plate land grants from Damodarpur in Dinajpur and Gunaighar in Comilla document Gupta-era administration, land markets and patronage of Brahmanical and Buddhist institutions. Gupta authority in Bengal faded in the 6th century.",
+    "ko": "사무드라굽타 시기 굽타 제국은 북부 벵골을 푼드라바르다나 주(부크티)로 편성해 지배했고, 남동부의 사마타타는 조공을 바치는 변경 왕국으로 기록되었다. 디나지푸르의 다모다르푸르와 코밀라의 구나이가르에서 나온 동판 토지 문서는 굽타 시대의 행정, 토지 거래, 브라만교·불교 기관에 대한 후원을 보여 준다. 벵골에서 굽타의 권위는 6세기에 쇠퇴했다.",
+    "zh": "沙摩陀罗笈多在位时，笈多王朝将孟加拉北部编为奔那伐弹那省（bhukti），而东南部的三摩呾吒则被列为纳贡的边疆王国。出自迪纳杰布尔达摩达尔布尔和科米拉古奈加尔的铜版赐地文书，记录了笈多时代的行政、土地交易以及对婆罗门教和佛教机构的资助。6世纪时，笈多王朝在孟加拉的权威逐渐消退。",
+    "ja": "サムドラグプタの時代、グプタ朝は北部ベンガルをプンドラヴァルダナ州（ブクティ）として支配し、南東部のサマタタは朝貢する辺境の王国として記録された。ディナジプルのダモダルプルやコミラのグナイガルから出土した銅板土地文書は、グプタ時代の行政や土地取引、バラモン教・仏教施設への保護を伝えている。ベンガルにおけるグプタ朝の権威は6世紀に衰えた。"
+   }
+  },
+  {
+   "from": 350,
+   "to": 1100,
+   "kind": "state",
+   "qid": "Q1194765",
+   "polity": "Kamarupa Kingdom",
+   "name": {
+    "en": "Kamarupa in the north-east (Sylhet region)",
+    "ko": "북동부의 카마루파(실헷 지역)",
+    "zh": "东北部的迦摩缕波（锡尔赫特地区）",
+    "ja": "北東部のカーマルーパ（シレット地方）"
+   },
+   "summary": {
+    "en": "Kamarupa, the early kingdom of the Brahmaputra valley in Assam, at times extended its authority over parts of north-eastern Bangladesh, including the Sylhet region. A copper-plate grant of King Bhaskaravarman found at Nidhanpur in Sylhet records land given to Brahmins there in the 7th century. Control of Sylhet later passed among Kamarupa, the Chandras and local rulers.",
+    "ko": "아삼 브라마푸트라강 유역의 고대 왕국 카마루파는 때때로 실헷 지역을 포함한 방글라데시 북동부 일부에 세력을 뻗쳤다. 실헷의 니단푸르에서 발견된 바스카라바르만 왕의 동판 문서는 7세기에 그곳의 브라만들에게 토지를 하사한 사실을 기록한다. 실헷의 지배권은 이후 카마루파, 찬드라 왕조, 현지 세력 사이를 오갔다.",
+    "zh": "迦摩缕波是阿萨姆布拉马普特拉河谷的古代王国，曾不时将势力扩展到包括锡尔赫特在内的孟加拉国东北部部分地区。在锡尔赫特尼丹普尔发现的鸠摩罗王（婆塞羯罗跋摩）铜版文书，记载了7世纪向当地婆罗门赐地之事。此后锡尔赫特的控制权在迦摩缕波、旃陀罗王朝和地方势力之间更替。",
+    "ja": "アッサムのブラマプトラ川流域の古代王国カーマルーパは、時にシレット地方を含むバングラデシュ北東部の一部に勢力を及ぼした。シレットのニダンプルで見つかったバースカラヴァルマン王の銅板文書は、7世紀にこの地のバラモンに土地を与えたことを記録している。シレットの支配権はその後、カーマルーパ、チャンドラ朝、在地勢力の間を移り変わった。"
+   }
+  },
+  {
+   "from": 525,
+   "to": 650,
+   "kind": "state",
+   "qid": "Q17076645",
+   "polity": "Gauda Kingdom",
+   "name": {
+    "en": "Independent Vanga and the Gauda kingdom of Shashanka",
+    "ko": "독립 방가 왕국과 샤샹카의 가우다 왕국",
+    "zh": "独立的梵伽与设赏迦的高达王国",
+    "ja": "独立したヴァンガとシャシャーンカのガウダ王国"
+   },
+   "summary": {
+    "en": "As Gupta power waned, independent kings such as Gopachandra, Dharmaditya and Samacharadeva ruled Vanga in the 6th century, known from copper plates found mainly in the Faridpur area. Around 600 Shashanka made Gauda a major power, ruling much of Bengal from Karnasuvarna and contending with Harsha of Kannauj. After Shashanka's death the region fragmented again.",
+    "ko": "굽타 세력이 약해지자 6세기에는 고파찬드라, 다르마디티야, 사마차라데바 같은 독립 왕들이 방가를 다스렸으며, 이는 주로 파리드푸르 일대에서 발견된 동판 문서로 알려져 있다. 600년경 샤샹카는 가우다를 강국으로 키워 카르나수바르나를 거점으로 벵골 대부분을 다스리며 카나우지의 하르샤와 겨루었다. 샤샹카가 죽은 뒤 이 지역은 다시 분열했다.",
+    "zh": "随着笈多势力衰退，6世纪时瞿波旃陀罗、达磨迭多、三摩遮罗提婆等独立君主统治梵伽，这主要见于法里德布尔一带出土的铜版文书。约600年，设赏迦使高达（Gauda）成为强国，以羯罗拏苏伐剌那为都统治孟加拉大部分地区，并与曲女城的戒日王相抗衡。设赏迦死后，该地区再度分裂。",
+    "ja": "グプタ朝の力が弱まると、6世紀にはゴーパチャンドラ、ダルマーディティヤ、サマーチャーラデーヴァといった独立の王がヴァンガを治めた。彼らは主にファリドプル周辺で見つかった銅板文書から知られる。600年頃、シャシャーンカはガウダを強国に育て、カルナスヴァルナを拠点にベンガルの大半を支配し、カナウジのハルシャと争った。シャシャーンカの死後、地域は再び分裂した。"
+   }
+  },
+  {
+   "from": 650,
+   "to": 750,
+   "kind": "state",
+   "qid": "Q6398879",
+   "polity": "Khadga Dynasty",
+   "name": {
+    "en": "Khadga and Deva dynasties of Samatata; the Matsyanyaya",
+    "ko": "사마타타의 카드가·데바 왕조와 '마츠야냐야'",
+    "zh": "三摩呾吒的伽革王朝、提婆王朝与“鱼之法则”时期",
+    "ja": "サマタタのカドガ朝・デーヴァ朝と「マツヤニヤーヤ」"
+   },
+   "summary": {
+    "en": "In south-eastern Bangladesh the Buddhist Khadga dynasty ruled Samatata from Karmanta near Comilla in the later 7th century, followed by the Deva dynasty, whose capital Devaparvata lay in the Mainamati hills. Elsewhere Bengal endured a long period of political fragmentation that later texts called matsyanyaya, 'the law of the fish', where the strong devoured the weak. The disorder ended when Gopala was raised to power around 750.",
+    "ko": "방글라데시 남동부에서는 7세기 후반 불교도 카드가 왕조가 코밀라 부근의 카르만타를 거점으로 사마타타를 다스렸고, 이어 마이나마티 구릉의 데바파르바타에 도읍한 데바 왕조가 뒤를 이었다. 다른 지역의 벵골은 후대 문헌이 '물고기의 법칙(마츠야냐야)', 즉 강자가 약자를 삼키는 상태라고 부른 오랜 정치적 분열을 겪었다. 이 혼란은 750년경 고팔라가 추대되면서 끝났다.",
+    "zh": "在孟加拉国东南部，信奉佛教的伽革王朝于7世纪后期以科米拉附近的羯尔曼多为中心统治三摩呾吒，其后由定都迈纳马蒂丘陵提婆帕尔瓦塔的提婆王朝继承。孟加拉其他地区则经历了长期的政治分裂，后世文献称之为“鱼之法则”（matsyanyaya），即强者吞并弱者。约750年瞿波罗被推举为王，乱局才告结束。",
+    "ja": "バングラデシュ南東部では、7世紀後半に仏教徒のカドガ朝がコミラ近郊のカルマーンタを拠点にサマタタを治め、続いてマイナマティ丘陵のデーヴァパルヴァタに都を置いたデーヴァ朝が継いだ。ほかのベンガル各地は、後世の文献が「魚の法（マツヤニヤーヤ）」、すなわち強者が弱者を呑み込む状態と呼んだ長い政治的分裂を経験した。この混乱は750年頃にゴーパーラが推戴されて終わった。"
+   }
+  },
+  {
+   "from": 750,
+   "to": 1162,
+   "kind": "state",
+   "qid": "Q668412",
+   "polity": "Pala Empire",
+   "name": {
+    "en": "Pala Empire",
+    "ko": "팔라 왕조",
+    "zh": "波罗王朝",
+    "ja": "パーラ朝"
+   },
+   "summary": {
+    "en": "Founded by Gopala around 750, the Buddhist Pala dynasty ruled Bengal and at its height under Dharmapala and Devapala much of northern India. The Palas built great monasteries such as Somapura Mahavihara at Paharpur, fostering a Buddhist scholarly culture whose influence reached Tibet and Southeast Asia. Weakened by the Kaivarta revolt and rival dynasties, the Palas were displaced by the Senas in the 12th century.",
+    "ko": "750년경 고팔라가 세운 불교 왕조 팔라는 벵골을 다스렸으며, 다르마팔라와 데바팔라 시기 전성기에는 북인도 상당 부분까지 지배했다. 팔라 왕조는 파하르푸르의 소마푸라 마하비하라 같은 대사원을 세워 불교 학문 문화를 꽃피웠고, 그 영향은 티베트와 동남아시아까지 미쳤다. 카이바르타 반란과 경쟁 왕조들로 약해진 팔라는 12세기에 세나 왕조에 밀려났다.",
+    "zh": "约750年由瞿波罗创立的佛教波罗王朝统治孟加拉，在达磨波罗和提婆波罗时期的鼎盛阶段，其势力还扩展到北印度大部分地区。波罗诸王兴建了帕哈尔普尔的索玛普拉大寺等宏伟寺院，培育出影响远及西藏和东南亚的佛教学术文化。在凯瓦尔塔起义和敌对王朝的打击下，波罗王朝于12世纪被犀那王朝取代。",
+    "ja": "750年頃にゴーパーラが開いた仏教王朝パーラ朝はベンガルを治め、ダルマパーラとデーヴァパーラの全盛期には北インドの広い範囲を支配した。パーラ朝はパハルプールのソーマプラ・マハーヴィハーラなどの大僧院を建て、チベットや東南アジアにまで影響を及ぼす仏教学問の文化を育んだ。カイヴァルタの反乱や対抗王朝によって弱体化したパーラ朝は、12世紀にセーナ朝に取って代わられた。"
+   }
+  },
+  {
+   "from": 900,
+   "to": 1050,
+   "kind": "state",
+   "qid": "Q5032034",
+   "polity": "Chandra Dynasty",
+   "name": {
+    "en": "Chandra dynasty of Vanga and Samatata",
+    "ko": "방가·사마타타의 찬드라 왕조",
+    "zh": "梵伽与三摩呾吒的旃陀罗王朝",
+    "ja": "ヴァンガとサマタタのチャンドラ朝"
+   },
+   "summary": {
+    "en": "The Buddhist Chandra dynasty ruled south-eastern Bengal from about 900 to 1050, independent of the Palas. Under Srichandra the capital was at Vikramapura (Bikrampur, near Dhaka), and the dynasty's copper plates record land grants as far as the Sylhet region. The Chandras were eventually succeeded in eastern Bengal by the Varman dynasty and then the Senas.",
+    "ko": "불교도 찬드라 왕조는 900년경부터 1050년경까지 팔라 왕조와 별개로 벵골 남동부를 다스렸다. 슈리찬드라 시기에는 비크라마푸라(다카 인근 비크람푸르)에 도읍했으며, 왕조의 동판 문서는 실헷 지역에까지 이르는 토지 하사를 기록한다. 동벵골에서 찬드라 왕조의 뒤는 바르만 왕조, 이어 세나 왕조가 이었다.",
+    "zh": "信奉佛教的旃陀罗王朝约于900年至1050年间独立于波罗王朝统治孟加拉东南部。室利旃陀罗在位时定都超日城（毗讫罗摩补罗，即达卡附近的比克拉姆普尔），王朝铜版文书记载的赐地远至锡尔赫特地区。在东孟加拉，继旃陀罗王朝之后的是跋摩王朝，再后是犀那王朝。",
+    "ja": "仏教徒のチャンドラ朝は900年頃から1050年頃まで、パーラ朝から独立してベンガル南東部を治めた。シュリーチャンドラの時代にはヴィクラマプラ（ダッカ近郊のビクランプル）に都が置かれ、王朝の銅板文書はシレット地方にまで及ぶ土地の寄進を記録している。東ベンガルではチャンドラ朝の後をヴァルマン朝、次いでセーナ朝が継いだ。"
+   }
+  },
+  {
+   "from": 1097,
+   "to": 1230,
+   "kind": "state",
+   "qid": "Q2428714",
+   "polity": "Sena Dynasty",
+   "name": {
+    "en": "Sena dynasty",
+    "ko": "세나 왕조",
+    "zh": "犀那王朝",
+    "ja": "セーナ朝"
+   },
+   "summary": {
+    "en": "The Senas, of southern Indian origin, rose under Vijaya Sena in the late 11th and 12th centuries to rule all of Bengal, with seats including Vikramapura and Lakhnauti. They patronised Brahmanical Hinduism and Sanskrit literature, and their court under Lakshmana Sena is associated with poets such as Jayadeva. After Bakhtiyar Khalji's raid around 1204 the Senas held on in eastern Bengal for some decades.",
+    "ko": "남인도 출신의 세나 왕조는 11세기 말~12세기에 비자야 세나를 중심으로 일어나 비크라마푸라와 라크나우티 등을 거점으로 벵골 전역을 다스렸다. 세나 왕조는 브라만교 힌두교와 산스크리트 문학을 후원했으며, 락슈마나 세나의 궁정은 자야데바 같은 시인들과 연관된다. 1204년경 바흐티야르 할지의 습격 이후에도 세나 왕조는 동벵골에서 수십 년간 명맥을 유지했다.",
+    "zh": "源自南印度的犀那王朝在11世纪末至12世纪由毗阇耶犀那崛起，以超日城和勒克瑙蒂等地为据点统治孟加拉全境。犀那诸王扶持婆罗门教印度教与梵语文学，罗什曼那犀那的宫廷与胜天（Jayadeva）等诗人相关联。约1204年巴赫蒂亚尔·卡尔吉突袭之后，犀那王朝仍在东孟加拉延续了数十年。",
+    "ja": "南インド出身のセーナ朝は11世紀末から12世紀にかけてヴィジャヤ・セーナのもとで台頭し、ヴィクラマプラやラクナウティなどを拠点にベンガル全域を支配した。セーナ朝はバラモン教的ヒンドゥー教とサンスクリット文学を保護し、ラクシュマナ・セーナの宮廷はジャヤデーヴァらの詩人と結び付けられる。1204年頃のバフティヤール・ハルジーの襲撃後も、セーナ朝は東ベンガルで数十年命脈を保った。"
+   }
+  },
+  {
+   "from": 1204,
+   "to": 1352,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Muslim rule: Khalji maliks and Delhi governors",
+    "ko": "초기 무슬림 지배: 할지 군벌과 델리 총독",
+    "zh": "早期穆斯林统治：卡尔吉军事贵族与德里总督",
+    "ja": "初期ムスリム支配：ハルジー系武将とデリーの総督"
+   },
+   "summary": {
+    "en": "After Bakhtiyar Khalji's conquest, Turkic and Khalji commanders ruled Bengal from Lakhnauti, alternately submitting to and breaking away from the Delhi Sultanate. Iltutmish, Balban and Ghiyasuddin Tughlaq all sent armies to reassert Delhi's authority, and the province was divided among the centres of Lakhnauti, Satgaon and Sonargaon. Islam spread through Sufi preachers such as Shah Jalal in Sylhet.",
+    "ko": "바흐티야르 할지의 정복 이후 튀르크계와 할지계 지휘관들이 라크나우티를 거점으로 벵골을 다스리며 델리 술탄국에 복종과 이탈을 되풀이했다. 일투트미시, 발반, 기야수딘 투글루크는 모두 군대를 보내 델리의 권위를 다시 세우려 했고, 이 지역은 라크나우티·사트가온·소나르가온의 세 중심지로 나뉘었다. 이슬람교는 실헷의 샤 잘랄 같은 수피 설교자들을 통해 퍼져 나갔다.",
+    "zh": "巴赫蒂亚尔·卡尔吉征服之后，突厥裔和卡尔吉裔将领以勒克瑙蒂为中心统治孟加拉，时而臣服于德里苏丹国，时而脱离。伊勒图特米什、巴勒班和吉亚斯丁·图格鲁克都曾出兵重申德里的权威，该地区被分为勒克瑙蒂、萨特冈和索纳尔冈三个中心。伊斯兰教通过锡尔赫特的沙贾拉勒等苏菲传教者传播开来。",
+    "ja": "バフティヤール・ハルジーの征服後、テュルク系やハルジー系の武将がラクナウティを拠点にベンガルを治め、デリー・スルターン朝への服属と離反を繰り返した。イルトゥトミシュ、バルバン、ギヤースッディーン・トゥグルクはいずれも軍を送ってデリーの権威を回復しようとし、この地はラクナウティ、サトガオン、ショナルガオンの三つの中心に分けられた。イスラームはシレットのシャー・ジャラールのようなスーフィーの説教者を通じて広まった。"
+   }
+  },
+  {
+   "from": 1324,
+   "to": 1342,
+   "kind": "state",
+   "qid": "Q1124402",
+   "polity": "Tughlaq Dynasty",
+   "name": {
+    "en": "Tughlaq rule in Bengal",
+    "ko": "투글루크 왕조의 벵골 지배",
+    "zh": "图格鲁克王朝对孟加拉的统治",
+    "ja": "トゥグルク朝のベンガル支配"
+   },
+   "summary": {
+    "en": "In 1324 Sultan Ghiyasuddin Tughlaq brought Bengal back under Delhi and governed it through the three provinces of Lakhnauti, Satgaon and Sonargaon. Delhi's hold proved brief: in 1338 Fakhruddin Mubarak Shah declared independence at Sonargaon, and by the early 1340s local sultans ruled all three centres. The stage was set for the unification of Bengal under Ilyas Shah.",
+    "ko": "1324년 술탄 기야수딘 투글루크는 벵골을 다시 델리의 지배 아래 두고 라크나우티·사트가온·소나르가온 세 주로 나누어 통치했다. 그러나 델리의 지배는 오래가지 못해, 1338년 파크루딘 무바라크 샤가 소나르가온에서 독립을 선언했고 1340년대 초에는 세 중심지 모두를 현지 술탄들이 장악했다. 이로써 일리야스 샤에 의한 벵골 통일의 무대가 마련되었다.",
+    "zh": "1324年，苏丹吉亚斯丁·图格鲁克将孟加拉重新置于德里统治之下，并分为勒克瑙蒂、萨特冈和索纳尔冈三省治理。然而德里的控制十分短暂：1338年法赫鲁丁·穆巴拉克·沙在索纳尔冈宣布独立，到1340年代初三地均由地方苏丹掌控。这为伊利亚斯·沙统一孟加拉铺平了道路。",
+    "ja": "1324年、スルターンのギヤースッディーン・トゥグルクはベンガルを再びデリーの支配下に置き、ラクナウティ、サトガオン、ショナルガオンの3州に分けて統治した。しかしデリーの支配は長続きせず、1338年にファフルッディーン・ムバーラク・シャーがショナルガオンで独立を宣言し、1340年代初めには三つの中心地すべてを在地のスルターンが握った。こうしてイリヤース・シャーによるベンガル統一の舞台が整った。"
+   }
+  },
+  {
+   "from": 1338,
+   "to": 1538,
+   "kind": "state",
+   "qid": "Q4083686",
+   "polity": "Sultanate of Bengal",
+   "name": {
+    "en": "Bengal Sultanate",
+    "ko": "벵골 술탄국",
+    "zh": "孟加拉苏丹国",
+    "ja": "ベンガル・スルターン朝"
+   },
+   "summary": {
+    "en": "From 1352 Ilyas Shah's independent sultanate united Bengal, ruling from Pandua and later Gaur under the Ilyas Shahi, Ganesha, Habshi and Hussain Shahi dynasties. The sultanate was a wealthy maritime trading state exporting textiles, rice and sugar, exchanging embassies with Ming China and patronising both Persian and Bengali literature. Distinctive brick mosques, such as those of Bagerhat, defined its architecture.",
+    "ko": "1352년부터 일리야스 샤의 독립 술탄국은 벵골을 통일했고, 일리야스 샤히·가네샤·합시·후세인 샤히 왕조를 거치며 판두아와 이후 가우르를 도읍으로 삼았다. 술탄국은 직물·쌀·설탕을 수출하는 부유한 해상 교역 국가로서 명나라와 사절을 주고받았으며, 페르시아어 문학과 벵골어 문학을 함께 후원했다. 바게르하트의 모스크 같은 독특한 벽돌 모스크가 그 건축을 대표한다.",
+    "zh": "自1352年起，伊利亚斯·沙建立的独立苏丹国统一了孟加拉，历经伊利亚斯·沙希、伽内什、哈布希和侯赛因·沙希诸王朝，先后以潘杜阿和高尔为都。苏丹国是富庶的海上贸易国家，出口纺织品、稻米和蔗糖，与明朝互派使节，同时扶持波斯语和孟加拉语文学。巴盖尔哈特等地独具特色的砖砌清真寺是其建筑的代表。",
+    "ja": "1352年以降、イリヤース・シャーの独立スルターン国はベンガルを統一し、イリヤース・シャーヒー朝、ガネーシャ家、ハブシー朝、フサイン・シャーヒー朝を経て、パンドゥアのちにガウルを都とした。スルターン国は織物・米・砂糖を輸出する豊かな海上交易国家で、明朝と使節を交わし、ペルシア語文学とベンガル語文学をともに保護した。バゲルハットのモスクなど独特のれんが造りモスクがその建築を代表する。"
+   }
+  },
+  {
+   "from": 1494,
+   "to": 1538,
+   "kind": "state",
+   "qid": "Q5949588",
+   "polity": "Hussain Shahi Dynasty",
+   "name": {
+    "en": "Hussain Shahi dynasty",
+    "ko": "후세인 샤히 왕조",
+    "zh": "侯赛因·沙希王朝",
+    "ja": "フサイン・シャーヒー朝"
+   },
+   "summary": {
+    "en": "Alauddin Husain Shah seized the throne in 1494 and founded the last great dynasty of the Bengal Sultanate, often regarded as its golden age. The sultans extended their rule into Kamarupa, Orissa's borderlands and Chittagong, and their officials sponsored early Bengali renderings of the Sanskrit epics. The dynasty fell when Sher Shah Suri captured Gaur in 1538.",
+    "ko": "알라우딘 후세인 샤는 1494년 왕위를 차지해 벵골 술탄국의 마지막 위대한 왕조를 열었으며, 이 시기는 흔히 술탄국의 황금기로 여겨진다. 술탄들은 카마루파, 오리사 접경, 치타공까지 지배를 넓혔고, 그 관리들은 산스크리트 서사시의 초기 벵골어 번안을 후원했다. 왕조는 1538년 셰르 샤 수르가 가우르를 점령하면서 무너졌다.",
+    "zh": "阿拉丁·侯赛因·沙于1494年夺取王位，开创了孟加拉苏丹国最后一个伟大王朝，这一时期常被视为苏丹国的黄金时代。诸苏丹将统治扩展到迦摩缕波、奥里萨边境和吉大港，其官员资助了梵语史诗早期的孟加拉语改编本。1538年舍尔沙·苏尔攻占高尔，王朝随之覆灭。",
+    "ja": "アラーウッディーン・フサイン・シャーは1494年に王位を奪い、ベンガル・スルターン朝最後の偉大な王朝を開いた。この時代はしばしばスルターン朝の黄金期とみなされる。スルターンたちはカーマルーパ、オリッサの辺境、チッタゴンまで支配を広げ、その官僚はサンスクリット叙事詩の初期ベンガル語翻案を後援した。王朝は1538年にシェール・シャー・スールがガウルを占領したことで滅びた。"
+   }
+  },
+  {
+   "from": 1534,
+   "to": 1666,
+   "kind": "state",
+   "qid": "Q10791211",
+   "polity": "Kingdom of Mrauk U",
+   "name": {
+    "en": "Arakanese (Mrauk U) rule in Chittagong",
+    "ko": "치타공의 아라칸(므라우크우) 지배",
+    "zh": "若开（妙乌）王国统治下的吉大港",
+    "ja": "チッタゴンのアラカン（ミャウウー）支配"
+   },
+   "summary": {
+    "en": "The Arakanese kingdom of Mrauk U contested Chittagong with the Bengal sultans in the early 16th century and held it firmly from the later 16th century until 1666. Arakanese kings employed Portuguese adventurers, whose raids with Arakanese fleets on the lower delta carried off many captives. Mrauk U's court also patronised Bengali poets such as Alaol, and Chittagong was a cosmopolitan port until the Mughal conquest.",
+    "ko": "아라칸의 므라우크우 왕국은 16세기 초 벵골 술탄들과 치타공을 두고 다투었고, 16세기 후반부터 1666년까지 이곳을 확고히 장악했다. 아라칸 왕들은 포르투갈 모험가들을 고용했으며, 이들은 아라칸 함대와 함께 삼각주 하류를 습격해 많은 포로를 끌고 갔다. 므라우크우 궁정은 알라올 같은 벵골 시인들도 후원했고, 치타공은 무굴 정복 전까지 국제적인 항구였다.",
+    "zh": "16世纪初，若开的妙乌王国与孟加拉苏丹争夺吉大港，并从16世纪后期起牢牢控制该地直至1666年。若开国王雇用葡萄牙冒险者，他们与若开舰队一起袭掠三角洲下游，掳走大批人口。妙乌宫廷也资助阿劳尔等孟加拉诗人，吉大港在被莫卧儿征服之前一直是多元汇聚的港口。",
+    "ja": "アラカンのミャウウー王国は16世紀初めにベンガルのスルターンとチッタゴンを争い、16世紀後半から1666年までこの地をしっかりと押さえた。アラカン王はポルトガル人の冒険者を雇い、彼らはアラカンの艦隊とともにデルタ下流を襲撃して多くの人々を連れ去った。ミャウウーの宮廷はアラオルなどのベンガル詩人も保護し、チッタゴンはムガルの征服まで国際色豊かな港だった。"
+   }
+  },
+  {
+   "from": 1538,
+   "to": 1564,
+   "kind": "state",
+   "qid": "Q373650",
+   "polity": "Sur Empire",
+   "name": {
+    "en": "Sur Empire",
+    "ko": "수르 왕조",
+    "zh": "苏尔王朝",
+    "ja": "スール朝"
+   },
+   "summary": {
+    "en": "Sher Shah Suri conquered Gaur in 1538 and, after defeating the Mughal emperor Humayun, ruled Bengal as part of his north Indian empire, reorganising its administration and extending the Grand Trunk Road east to Sonargaon. After his death Sur governors in Bengal established their own short-lived line of sultans. Their rule gave way to the Karrani dynasty in 1564.",
+    "ko": "셰르 샤 수르는 1538년 가우르를 정복하고 무굴 황제 후마윤을 물리친 뒤 벵골을 북인도 제국의 일부로 다스리며 행정을 재편하고 그랜드 트렁크 로드를 동쪽 소나르가온까지 연장했다. 그가 죽은 뒤 벵골의 수르계 총독들은 단명한 독자적 술탄 계보를 세웠다. 이들의 통치는 1564년 카라니 왕조에 자리를 내주었다.",
+    "zh": "舍尔沙·苏尔于1538年征服高尔，击败莫卧儿皇帝胡马雍后，将孟加拉作为其北印度帝国的一部分统治，改组行政，并将大干道向东延伸至索纳尔冈。他死后，孟加拉的苏尔系总督建立了短暂的独立苏丹世系。1564年，其统治让位于卡拉尼王朝。",
+    "ja": "シェール・シャー・スールは1538年にガウルを征服し、ムガル皇帝フマーユーンを破った後、ベンガルを北インド帝国の一部として治め、行政を再編してグランド・トランク・ロードを東のショナルガオンまで延ばした。彼の死後、ベンガルのスール家の総督たちは短命な独自のスルターンの系統を立てた。その支配は1564年にカッラーニー朝に取って代わられた。"
+   }
+  },
+  {
+   "from": 1564,
+   "to": 1576,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Karrani dynasty",
+    "ko": "카라니 왕조",
+    "zh": "卡拉尼王朝",
+    "ja": "カッラーニー朝"
+   },
+   "summary": {
+    "en": "The Afghan Karrani dynasty, founded by Taj Khan and Sulaiman Khan Karrani, ruled Bengal from Tanda as the last independent sultans. Sulaiman nominally acknowledged Akbar, but his son Daud Khan Karrani defied the Mughals. Daud's defeat and death at Rajmahal in 1576 ended the sultanate.",
+    "ko": "타지 칸과 술라이만 칸 카라니가 세운 아프간계 카라니 왕조는 탄다를 도읍으로 벵골의 마지막 독립 술탄으로서 군림했다. 술라이만은 명목상 악바르를 인정했으나, 그의 아들 다우드 칸 카라니는 무굴에 맞섰다. 1576년 라지마할에서 다우드가 패배하고 죽으면서 술탄국은 막을 내렸다.",
+    "zh": "由塔吉·汗和苏莱曼·汗·卡拉尼建立的阿富汗系卡拉尼王朝以坦达为都，是孟加拉最后的独立苏丹。苏莱曼名义上承认阿克巴，但其子达乌德·汗·卡拉尼公开对抗莫卧儿。1576年达乌德在拉杰马哈尔战败身亡，苏丹国由此终结。",
+    "ja": "タージ・ハーンとスライマーン・ハーン・カッラーニーが開いたアフガン系のカッラーニー朝は、タンダを都とするベンガル最後の独立スルターンであった。スライマーンは名目上アクバルを認めたが、その子ダーウード・ハーン・カッラーニーはムガルに反抗した。1576年にラージマハルでダーウードが敗死し、スルターン朝は終わった。"
+   }
+  },
+  {
+   "from": 1576,
+   "to": 1611,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Baro-Bhuyan resistance",
+    "ko": "바로 부이얀의 저항",
+    "zh": "“十二地主”（巴罗-布扬）的抵抗",
+    "ja": "バロ・ブイヤンの抵抗"
+   },
+   "summary": {
+    "en": "Although Akbar's armies defeated the Karranis in 1576, the eastern delta long resisted Mughal rule under a confederacy of chieftains and landholders known as the Baro-Bhuyans ('twelve landlords'). Their leading figure, Isa Khan of Sonargaon and Katrabo, used the rivers and war-boats to hold off Mughal forces. Resistance ended when Islam Khan subdued Isa Khan's son Musa Khan around 1610–1611.",
+    "ko": "악바르의 군대가 1576년 카라니 왕조를 물리쳤지만, 동부 삼각주는 '열두 지주'라는 뜻의 바로 부이얀이라 불린 토호·지주 연합 아래 오랫동안 무굴 지배에 저항했다. 그 중심 인물인 소나르가온과 카트라보의 이사 칸은 강과 전투선을 활용해 무굴군을 막아 냈다. 저항은 1610~1611년경 이슬람 칸이 이사 칸의 아들 무사 칸을 굴복시키면서 끝났다.",
+    "zh": "虽然阿克巴的军队于1576年击败了卡拉尼王朝，但东部三角洲在被称为“十二地主”（巴罗-布扬）的首领与地主联盟领导下长期抵抗莫卧儿统治。其核心人物、索纳尔冈和卡特拉博的伊萨·汗利用河网和战船抵挡莫卧儿军队。约1610至1611年伊斯兰·汗降服伊萨·汗之子穆萨·汗，抵抗才告结束。",
+    "ja": "アクバルの軍は1576年にカッラーニー朝を破ったが、東部デルタは「12人の地主」を意味するバロ・ブイヤンと呼ばれた首長・地主の連合のもとで長くムガルの支配に抵抗した。その中心人物であるショナルガオンとカトラボのイーサー・ハーンは、河川と軍船を駆使してムガル軍を退けた。抵抗は1610～1611年頃、イスラーム・ハーンがイーサー・ハーンの子ムーサー・ハーンを屈服させたことで終わった。"
+   }
+  },
+  {
+   "from": 1576,
+   "to": 1717,
+   "kind": "state",
+   "qid": "Q33296",
+   "polity": "Mughal Empire",
+   "name": {
+    "en": "Mughal Bengal Subah",
+    "ko": "무굴 제국의 벵골 수바",
+    "zh": "莫卧儿帝国孟加拉省",
+    "ja": "ムガル帝国のベンガル州"
+   },
+   "summary": {
+    "en": "Bengal became a province (subah) of the Mughal Empire, and from 1610 Dhaka, renamed Jahangirnagar, served as its capital. The delta's rice, textiles and especially Dhaka muslin made Bengal the empire's richest province, while Mughal-backed land reclamation in the eastern delta went together with the spread of Islam among cultivators. Governors such as Shaista Khan built monuments including Lalbagh Fort.",
+    "ko": "벵골은 무굴 제국의 주(수바)가 되었고, 1610년부터 자항기르나가르로 이름을 바꾼 다카가 그 주도가 되었다. 삼각주의 쌀과 직물, 특히 다카 모슬린은 벵골을 제국에서 가장 부유한 주로 만들었고, 무굴이 지원한 동부 삼각주의 개간은 농민들 사이의 이슬람 확산과 함께 진행되었다. 샤이스타 칸 같은 총독들은 랄바그 성 등 기념물을 세웠다.",
+    "zh": "孟加拉成为莫卧儿帝国的一个省（苏巴），自1610年起改名贾汉吉尔纳加尔的达卡成为省会。三角洲的稻米、纺织品尤其是达卡细布，使孟加拉成为帝国最富庶的省份；莫卧儿支持的东部三角洲垦殖，与伊斯兰教在农民中的传播相伴而行。沙伊斯塔·汗等总督修建了拉尔巴格堡等建筑。",
+    "ja": "ベンガルはムガル帝国の州（スーバ）となり、1610年からはジャハーンギールナガルと改名されたダッカが州都となった。デルタの米と織物、とりわけダッカ・モスリンはベンガルを帝国で最も豊かな州にし、ムガルが後押しした東部デルタの開墾は農民へのイスラームの普及と並行して進んだ。シャイスタ・ハーンら総督はラールバーグ城などの建造物を残した。"
+   }
+  },
+  {
+   "from": 1717,
+   "to": 1765,
+   "kind": "state",
+   "qid": "Q2637089",
+   "polity": "Nawabs of Bengal",
+   "name": {
+    "en": "Nawabs of Bengal",
+    "ko": "벵골의 나와브",
+    "zh": "孟加拉纳瓦卜",
+    "ja": "ベンガル太守（ナワーブ）"
+   },
+   "summary": {
+    "en": "Murshid Quli Khan, appointed by the Mughals, made Bengal a virtually autonomous hereditary nawabate ruled from Murshidabad, while still remitting revenue to Delhi. Under the nawabs, including Alivardi Khan, Bengal remained prosperous, though it suffered Maratha raids in the 1740s and growing interference by European trading companies. Siraj ud-Daulah's defeat at Plassey in 1757 left the nawabs dependent on the British East India Company.",
+    "ko": "무굴이 임명한 무르시드 쿨리 칸은 벵골을 무르시다바드에서 다스리는 사실상 자치적인 세습 나와브령으로 만들었으나, 델리에 세수는 계속 보냈다. 알리바르디 칸 등 나와브 치하에서 벵골은 번영을 유지했지만, 1740년대 마라타의 습격과 유럽 무역 회사들의 간섭 증대에 시달렸다. 1757년 플라시에서 시라지 웃 다울라가 패하면서 나와브는 영국 동인도회사에 종속되었다.",
+    "zh": "由莫卧儿任命的穆尔希德·库利·汗使孟加拉成为以穆尔希达巴德为中心、实际上自治的世袭纳瓦卜政权，但仍向德里上缴税收。在阿里瓦尔迪·汗等纳瓦卜治下，孟加拉依然富庶，但也遭受1740年代马拉塔人的袭掠和欧洲贸易公司日益加深的干涉。1757年西拉杰·乌德·达乌拉在普拉西战败后，纳瓦卜沦为英国东印度公司的附庸。",
+    "ja": "ムガルに任命されたムルシド・クリー・ハーンは、ベンガルをムルシダーバードから治める事実上自立した世襲の太守領とし、なおデリーに税収を送った。アリーヴァルディー・ハーンらの太守のもとでベンガルは繁栄を保ったが、1740年代のマラーターの襲撃や欧州の貿易会社の干渉の増大に苦しんだ。1757年にシラージュ・ウッダウラがプラッシーで敗れると、太守はイギリス東インド会社に従属することになった。"
+   }
+  },
+  {
+   "from": 1757,
+   "to": 1858,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "British Empire",
+   "name": {
+    "en": "East India Company rule",
+    "ko": "영국 동인도회사의 지배",
+    "zh": "英国东印度公司统治",
+    "ja": "イギリス東インド会社の支配"
+   },
+   "summary": {
+    "en": "After Plassey and the grant of the diwani in 1765, the British East India Company governed Bengal, first through puppet nawabs and then directly from Calcutta. Company rule brought the catastrophic famine of 1770, the Permanent Settlement of 1793 that created a powerful zamindar landlord class, and the decline of Dhaka's muslin industry. Peasant and religious movements such as the Fakir-Sannyasi rebellion and the Faraizi movement challenged the new order.",
+    "ko": "플라시 전투와 1765년 디와니(징세권) 획득 이후 영국 동인도회사는 처음에는 꼭두각시 나와브를 통해, 이후에는 콜카타에서 직접 벵골을 통치했다. 회사 지배는 1770년의 대기근, 강력한 자민다르 지주 계층을 만든 1793년 영구 정액제, 다카 모슬린 산업의 몰락을 가져왔다. 파키르·산야시 반란과 파라이지 운동 같은 농민·종교 운동이 새 질서에 도전했다.",
+    "zh": "普拉西战役和1765年获得“迪瓦尼”（征税权）之后，英国东印度公司先通过傀儡纳瓦卜、后从加尔各答直接统治孟加拉。公司统治带来了1770年的大饥荒、造就强大柴明达尔地主阶层的1793年永久定居法，以及达卡细布业的衰落。法基尔—桑雅西起义和法拉伊兹运动等农民与宗教运动对新秩序发起了挑战。",
+    "ja": "プラッシーの戦いと1765年のディーワーニー（徴税権）獲得の後、イギリス東インド会社は初めは傀儡の太守を通じて、のちにはカルカッタから直接ベンガルを統治した。会社支配は1770年の大飢饉、強力なザミンダール地主層を生んだ1793年の永代ザミンダーリー制、ダッカ・モスリン産業の衰退をもたらした。ファキール・サンニャーシーの反乱やファラーイズィー運動などの農民・宗教運動が新秩序に挑んだ。"
+   }
+  },
+  {
+   "from": 1858,
+   "to": 1947,
+   "kind": "colonial",
+   "qid": "Q129286",
+   "polity": "British Raj",
+   "name": {
+    "en": "British Raj",
+    "ko": "영국령 인도 제국",
+    "zh": "英属印度",
+    "ja": "イギリス領インド帝国"
+   },
+   "summary": {
+    "en": "After the 1857 uprising the British Crown took direct control, and the land of present-day Bangladesh formed the eastern part of the Bengal Presidency, a hinterland producing jute and rice for Calcutta's economy. The 1905 partition created the province of Eastern Bengal and Assam with Dhaka as capital, but it was annulled in 1911. Bengali cultural revival, rising Muslim political identity, anti-colonial movements and the 1943 famine shaped the final decades of British rule.",
+    "ko": "1857년 봉기 이후 영국 왕실이 직접 통치에 나섰고, 오늘날 방글라데시 지역은 벵골 주의 동부로서 콜카타 경제를 위해 황마와 쌀을 생산하는 배후지가 되었다. 1905년 분할로 다카를 주도로 하는 동벵골·아삼 주가 생겼으나 1911년 철회되었다. 벵골 문화 부흥, 무슬림 정치 정체성의 고양, 반식민 운동, 1943년 대기근이 영국 지배의 마지막 수십 년을 형성했다.",
+    "zh": "1857年起义之后，英国王室接管直接统治，今孟加拉国地区构成孟加拉管辖区的东部，是为加尔各答经济生产黄麻和稻米的腹地。1905年的分治设立了以达卡为首府的东孟加拉和阿萨姆省，但于1911年被撤销。孟加拉文化复兴、穆斯林政治认同的兴起、反殖民运动以及1943年大饥荒塑造了英国统治的最后几十年。",
+    "ja": "1857年の大反乱の後、イギリス王室が直接統治に乗り出し、現在のバングラデシュの地はベンガル管区の東部として、カルカッタ経済のためにジュートと米を生産する後背地となった。1905年の分割でダッカを州都とする東ベンガル・アッサム州が設けられたが、1911年に撤回された。ベンガル文化の復興、ムスリムの政治的自覚の高まり、反植民地運動、1943年の大飢饉がイギリス支配の最後の数十年を形作った。"
+   }
+  },
+  {
+   "from": 1947,
+   "to": 1971,
+   "kind": "state",
+   "qid": "Q843",
+   "polity": "Islamic Republic of Pakistan",
+   "name": {
+    "en": "East Bengal / East Pakistan",
+    "ko": "동벵골·동파키스탄",
+    "zh": "东孟加拉／东巴基斯坦",
+    "ja": "東ベンガル／東パキスタン"
+   },
+   "summary": {
+    "en": "At partition in 1947 East Bengal, together with most of Sylhet, became the eastern wing of Pakistan, renamed East Pakistan in 1955. Although it held a majority of Pakistan's population, the province faced political and economic domination by the western wing, sparking the Bengali Language Movement and demands for autonomy such as the Six Points. The 1970 election victory of the Awami League and the refusal to transfer power led to war in 1971.",
+    "ko": "1947년 분할 때 동벵골은 실헷 대부분과 함께 파키스탄의 동익이 되었고, 1955년 동파키스탄으로 이름이 바뀌었다. 파키스탄 인구의 과반을 차지했음에도 이 지역은 서익의 정치·경제적 지배를 받았고, 이는 벵골어 언어 운동과 6개항 같은 자치 요구로 이어졌다. 1970년 총선에서 아와미 연맹이 승리했으나 권력 이양이 거부되면서 1971년 전쟁으로 치달았다.",
+    "zh": "1947年分治时，东孟加拉连同锡尔赫特大部分地区成为巴基斯坦的东翼，1955年改称东巴基斯坦。尽管其人口占巴基斯坦多数，该省却受到西翼的政治与经济支配，由此引发孟加拉语言运动以及“六点要求”等自治诉求。1970年大选中人民联盟获胜，但当局拒绝移交权力，最终导致1971年战争。",
+    "ja": "1947年の分離独立で東ベンガルはシレットの大部分とともにパキスタンの東翼となり、1955年に東パキスタンと改称された。パキスタン人口の過半を占めながら、この地は西翼による政治的・経済的支配を受け、ベンガル語国語化運動や6項目要求などの自治要求が生まれた。1970年の総選挙でアワミ連盟が勝利したにもかかわらず政権移譲が拒まれ、1971年の戦争へと至った。"
+   }
+  },
+  {
+   "from": 1971,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q902",
+   "polity": "People's Republic of Bangladesh",
+   "name": {
+    "en": "People's Republic of Bangladesh",
+    "ko": "방글라데시 인민공화국",
+    "zh": "孟加拉人民共和国",
+    "ja": "バングラデシュ人民共和国"
+   },
+   "summary": {
+    "en": "Bangladesh declared independence in March 1971 and secured it after a nine-month war in December 1971. Its history since has alternated between parliamentary government, one-party rule, military-led regimes and competitive but bitter rivalry between the Awami League and the Bangladesh Nationalist Party. Despite cyclones, floods and political crises, the country achieved strong growth through garment exports, remittances and microfinance, and in 2024 a mass uprising ended Sheikh Hasina's long rule.",
+    "ko": "방글라데시는 1971년 3월 독립을 선언하고 9개월간의 전쟁 끝에 같은 해 12월 독립을 쟁취했다. 이후의 역사는 의회 정부, 일당 통치, 군부 주도 정권, 그리고 아와미 연맹과 방글라데시 민족주의당 사이의 경쟁적이면서도 격렬한 대립 사이를 오갔다. 사이클론, 홍수, 정치 위기에도 불구하고 의류 수출, 해외 송금, 소액 금융을 바탕으로 높은 성장을 이루었으며, 2024년에는 대규모 봉기로 셰이크 하시나의 장기 집권이 끝났다.",
+    "zh": "孟加拉国于1971年3月宣布独立，经过九个月的战争于同年12月取得独立。此后的历史在议会制政府、一党统治、军人主导的政权以及人民联盟与孟加拉民族主义党之间激烈的竞争对立之间反复交替。尽管饱受气旋、洪水和政治危机困扰，该国凭借成衣出口、侨汇和小额信贷实现了强劲增长；2024年，一场大规模起义结束了谢赫·哈西娜的长期执政。",
+    "ja": "バングラデシュは1971年3月に独立を宣言し、9か月の戦争を経て同年12月に独立を勝ち取った。その後の歴史は、議会制政府、一党支配、軍主導の政権、そしてアワミ連盟とバングラデシュ民族主義党の激しい対立を伴う競争の間を揺れ動いた。サイクロンや洪水、政治危機に見舞われながらも、縫製品輸出、海外送金、マイクロファイナンスによって高い成長を遂げ、2024年には大規模な蜂起がシェイク・ハシナの長期政権を終わらせた。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Pundra people named in late Vedic texts",
+    "ko": "후기 베다 문헌에 등장한 푼드라족",
+    "zh": "晚期吠陀文献中出现的奔那人",
+    "ja": "後期ヴェーダ文献に現れるプンドラ族"
+   },
+   "description": {
+    "en": "The Aitareya Brahmana, a late Vedic text conventionally dated to around the 8th–7th century BC, names the Pundras among peoples living beyond the bounds of Vedic society. The name survived in Pundravardhana and Pundranagara, the ancient designations of northern Bengal and its chief city.",
+    "ko": "기원전 8~7세기경으로 통상 추정되는 후기 베다 문헌 『아이타레야 브라마나』는 베다 사회의 경계 밖에 사는 집단 가운데 하나로 푼드라족을 언급한다. 이 이름은 북부 벵골과 그 중심 도시를 가리키는 옛 지명 푼드라바르다나와 푼드라나가라로 이어졌다.",
+    "zh": "通常定年于约公元前8至前7世纪的晚期吠陀文献《爱多雷耶梵书》，将奔那人列为生活在吠陀社会边界之外的族群之一。这一名称延续在奔那伐弹那和本德拉纳加拉等古代地名中，分别指孟加拉北部及其主要城市。",
+    "ja": "通常紀元前8～7世紀頃とされる後期ヴェーダ文献『アイタレーヤ・ブラーフマナ』は、ヴェーダ社会の外に住む人々の一つとしてプンドラ族を挙げている。この名は、北部ベンガルとその中心都市を指す古い地名プンドラヴァルダナやプンドラナガラに受け継がれた。"
+   }
+  },
+  {
+   "year": -450,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Fortified town at Wari-Bateshwar",
+    "ko": "와리-바테스와르의 성곽 도시",
+    "zh": "瓦里-巴特什瓦尔的设防城镇",
+    "ja": "ワリ・バテッショルの城壁都市"
+   },
+   "description": {
+    "en": "Excavations at Wari-Bateshwar in Narsingdi district revealed a fortified settlement with ramparts, a brick-paved road, punch-marked coins and semi-precious stone beads; its excavators date its early phase to around the mid-1st millennium BC. The site points to an early trading town on the Old Brahmaputra with links to distant markets, though its precise dating and identification with places in classical texts are debated.",
+    "ko": "나르싱디 지역 와리-바테스와르 발굴에서는 성벽, 벽돌로 포장된 도로, 타각인 주화, 준보석 구슬을 갖춘 성곽 취락이 드러났으며, 발굴자들은 그 초기 단계를 기원전 1천년기 중엽 무렵으로 본다. 이 유적은 옛 브라마푸트라강 가에 먼 시장들과 연결된 초기 교역 도시가 있었음을 보여 주지만, 정확한 연대와 고전 문헌 속 지명과의 대응은 논쟁 중이다.",
+    "zh": "纳尔辛迪县瓦里-巴特什瓦尔的发掘揭示了一处拥有城墙、砖铺道路、打印币和半宝石珠的设防聚落，发掘者将其早期阶段定为约公元前一千纪中叶。该遗址表明旧布拉马普特拉河畔曾有一座与远方市场相连的早期贸易城镇，但其确切年代以及与古典文献地名的对应仍有争议。",
+    "ja": "ナルシンディ県のワリ・バテッショルの発掘では、城壁、れんが敷きの道路、打刻印貨幣、半貴石のビーズを伴う城壁集落が見つかり、発掘者はその初期段階を紀元前1千年紀半ば頃としている。この遺跡は旧ブラマプトラ川沿いに遠方の市場と結ばれた初期の交易都市があったことを示すが、正確な年代や古典文献の地名との対応については議論がある。"
+   }
+  },
+  {
+   "year": -326,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Greek reports of the Gangaridai",
+    "ko": "그리스인이 전한 강가리다이",
+    "zh": "希腊人记载的恒河国",
+    "ja": "ギリシア人が伝えたガンガリダイ"
+   },
+   "description": {
+    "en": "When Alexander the Great's army halted at the Beas River in 326 BC, Greek writers recorded reports of the powerful Gangaridai and Prasii kingdoms further east, said to field large armies with war elephants. Most historians locate the Gangaridai in the lower Ganges delta, making this one of the earliest foreign references to the people of Bengal.",
+    "ko": "기원전 326년 알렉산드로스 대왕의 군대가 베아스강에서 멈추었을 때, 그리스 저술가들은 더 동쪽에 전투 코끼리를 갖춘 대군을 거느린 강력한 강가리다이와 프라시이 왕국이 있다는 소문을 기록했다. 대부분의 역사가는 강가리다이를 갠지스 삼각주 하류에 위치시키며, 이는 벵골 사람들에 대한 가장 이른 외국 기록 가운데 하나다.",
+    "zh": "公元前326年亚历山大大帝的军队止步于比阿斯河时，希腊作家记录了更东方有强大的恒河国（Gangaridai）和普拉西（Prasii）王国的传闻，据说它们拥有配备战象的大军。多数历史学家认为恒河国位于恒河三角洲下游，这是外国关于孟加拉人最早的记载之一。",
+    "ja": "紀元前326年にアレクサンドロス大王の軍がビアース川で進軍を止めたとき、ギリシアの著述家は、さらに東に戦象を備えた大軍を擁する強大なガンガリダイとプラシオイの王国があるという情報を記録した。多くの歴史家はガンガリダイをガンジス・デルタ下流に位置づけており、これはベンガルの人々に関する最古の外国の記録の一つである。"
+   }
+  },
+  {
+   "year": -300,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Pundranagara and the Mauryan Age",
+    "ko": "푼드라나가라와 마우리아 시대",
+    "zh": "本德拉纳加拉与孔雀王朝时代",
+    "ja": "プンドラナガラとマウリヤ朝時代"
+   },
+   "description": {
+    "en": "Mahasthangarh (ancient Pundranagara), the oldest known city site in Bangladesh, flourished as a provincial center of the Mauryan Empire, attesting to Bengal's early urban civilization.",
+    "ko": "방글라데시에서 가장 오래된 도시 유적인 마하스탄가르(고대 푼드라나가라)가 마우리아 제국의 지방 중심지로 번영하며 벵골의 이른 도시 문명을 보여주었다.",
+    "zh": "孟加拉国已知最古老的城市遗址马哈斯坦加尔（古称本德拉纳加拉）作为孔雀王朝的地方中心繁荣一时，见证了孟加拉早期的城市文明。",
+    "ja": "バングラデシュ最古の都市遺跡マハスタンガル（古代のプンドラナガラ）はマウリヤ朝の地方拠点として栄え、ベンガルにおける早期都市文明の存在を物語っている。"
+   }
+  },
+  {
+   "year": -250,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Mahasthan Brahmi inscription",
+    "ko": "마하스탄 브라흐미 명문",
+    "zh": "马哈斯坦婆罗米铭文",
+    "ja": "マハスタン・ブラーフミー碑文"
+   },
+   "description": {
+    "en": "A limestone plaque found at Mahasthangarh in 1931 bears a Prakrit inscription in Brahmi script, generally dated to the 3rd century BC. It records an order to officials at Pundranagara concerning stores to be distributed to people in distress, apparently during a famine. It is the oldest known inscription from Bangladesh and attests to organised state administration in early Bengal.",
+    "ko": "1931년 마하스탄가르에서 발견된 석회암 판에는 일반적으로 기원전 3세기로 추정되는 브라흐미 문자의 프라크리트어 명문이 새겨져 있다. 이 명문은 푼드라나가라의 관리들에게 어려움에 처한 사람들, 아마도 기근 피해자들에게 비축 물자를 나누어 주라는 명령을 기록하고 있다. 이는 방글라데시에서 알려진 가장 오래된 명문으로, 초기 벵골에 조직적인 국가 행정이 있었음을 보여 준다.",
+    "zh": "1931年在马哈斯坦加尔发现的一块石灰岩板上刻有以婆罗米文书写的俗语铭文，一般定年为公元前3世纪。铭文记载了一项命令，要求本德拉纳加拉的官员向陷入困境的民众（很可能是饥荒灾民）发放储备物资。这是孟加拉国已知最古老的铭文，证明了早期孟加拉存在有组织的国家行政。",
+    "ja": "1931年にマハスタンガルで見つかった石灰岩の板には、一般に紀元前3世紀とされるブラーフミー文字のプラークリット語碑文が刻まれている。碑文はプンドラナガラの役人に対し、困窮した人々、おそらく飢饉の被災者に備蓄を分配するよう命じた内容を記す。これはバングラデシュで知られる最古の碑文であり、初期ベンガルに組織的な国家行政があったことを示している。"
+   }
+  },
+  {
+   "year": 60,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "The Periplus describes Gange and its muslin",
+    "ko": "『에리트라해 안내기』가 전한 강게와 모슬린",
+    "zh": "《厄立特里亚海周航记》记载的恒河港与细布",
+    "ja": "『エリュトゥラー海案内記』が伝えるガンゲーとモスリン"
+   },
+   "description": {
+    "en": "The Periplus of the Erythraean Sea, a Greek merchant's guide written around the mid-1st century AD, describes a market town called Gange near the mouth of the Ganges. It reports that the finest muslins, along with malabathrum and pearls, were shipped from there, showing that the Bengal delta was already part of Indian Ocean trade.",
+    "ko": "1세기 중엽경 쓰인 그리스 상인의 안내서 『에리트라해 안내기』는 갠지스강 하구 부근의 강게라는 시장 도시를 소개한다. 이 문헌은 그곳에서 최고급 모슬린이 말라바트룸, 진주와 함께 실려 나갔다고 전하며, 벵골 삼각주가 이미 인도양 교역의 일부였음을 보여 준다.",
+    "zh": "约成书于公元1世纪中叶的希腊商人指南《厄立特里亚海周航记》，记载了恒河口附近一个名为“恒河”（Gange）的集镇。书中称最精美的细棉布与肉桂叶、珍珠一道从那里运出，表明孟加拉三角洲当时已是印度洋贸易的一部分。",
+    "ja": "1世紀半ば頃に書かれたギリシア商人の案内書『エリュトゥラー海案内記』は、ガンジス河口近くのガンゲーという市場町を紹介している。そこからは最上級のモスリンがマラバトルムや真珠とともに積み出されたと伝え、ベンガル・デルタがすでにインド洋交易の一部であったことを示している。"
+   }
+  },
+  {
+   "year": 150,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ptolemy maps the Gangaridai",
+    "ko": "프톨레마이오스의 지도에 실린 강가리다이",
+    "zh": "托勒密地图上的恒河国",
+    "ja": "プトレマイオスの地図に描かれたガンガリダイ"
+   },
+   "description": {
+    "en": "Ptolemy's Geography, compiled around 150 AD, lists the Gangaridai as occupying the region of the Ganges mouths, with a royal city called Gange, and names several other towns in the area. Some Bangladeshi archaeologists have proposed identifying one of these places with Wari-Bateshwar, but such identifications remain uncertain.",
+    "ko": "150년경 편찬된 프톨레마이오스의 『지리학』은 강가리다이가 갠지스 하구 일대를 차지하고 있으며 강게라는 왕도가 있다고 기록하고, 그 일대의 다른 도시들의 이름도 열거한다. 일부 방글라데시 고고학자들은 그중 한 곳을 와리-바테스와르로 비정하자고 제안했지만, 이러한 비정은 여전히 불확실하다.",
+    "zh": "约编成于公元150年的托勒密《地理学》记载，恒河国占据恒河诸河口地区，其王城名为“恒河”，并列出了该地区其他若干城镇。一些孟加拉国考古学家提出其中一地即瓦里-巴特什瓦尔，但这类比定仍不确定。",
+    "ja": "150年頃に編まれたプトレマイオスの『地理学』は、ガンガリダイがガンジス河口一帯を占め、ガンゲーという王都があると記し、この地域のほかの町の名も挙げている。バングラデシュの一部の考古学者はそのうちの一つをワリ・バテッショルに比定する説を唱えているが、こうした比定はなお不確かである。"
+   }
+  },
+  {
+   "year": 350,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Samatata on Samudragupta's Allahabad pillar",
+    "ko": "사무드라굽타의 알라하바드 석주에 실린 사마타타",
+    "zh": "沙摩陀罗笈多阿拉哈巴德石柱上的三摩呾吒",
+    "ja": "サムドラグプタのアラハバード石柱碑文に記されたサマタタ"
+   },
+   "description": {
+    "en": "The Allahabad pillar inscription of the Gupta emperor Samudragupta, composed around the mid-4th century, lists Samatata, the kingdom of south-eastern Bengal, among frontier states that paid tribute and obeyed his commands. Northern Bengal was absorbed more directly into the Gupta Empire, while the south-east retained its own rulers.",
+    "ko": "4세기 중엽경 작성된 굽타 황제 사무드라굽타의 알라하바드 석주 명문은 벵골 남동부의 왕국 사마타타를 조공을 바치고 명령을 따르는 변경 국가 가운데 하나로 열거한다. 북부 벵골은 굽타 제국에 더 직접적으로 편입되었고, 남동부는 자체 통치자를 유지했다.",
+    "zh": "约撰于4世纪中叶的笈多皇帝沙摩陀罗笈多阿拉哈巴德石柱铭文，将孟加拉东南部的三摩呾吒王国列为向其纳贡、听其号令的边疆国家之一。孟加拉北部被更直接地纳入笈多帝国，而东南部仍保有自己的统治者。",
+    "ja": "4世紀半ば頃に作られたグプタ朝皇帝サムドラグプタのアラハバード石柱碑文は、ベンガル南東部の王国サマタタを、貢納して命令に従う辺境国家の一つに挙げている。北部ベンガルはより直接的にグプタ帝国に組み込まれ、南東部は独自の支配者を保った。"
+   }
+  },
+  {
+   "year": 443,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Damodarpur copper plates",
+    "ko": "다모다르푸르 동판 문서",
+    "zh": "达摩达尔布尔铜版文书",
+    "ja": "ダモダルプル銅板文書"
+   },
+   "description": {
+    "en": "A series of copper-plate inscriptions found at Damodarpur in Dinajpur district, the earliest dated to 443–444 AD under Kumaragupta I, records the sale of land in the province of Pundravardhana. They show a Gupta administrative hierarchy of provincial governors, district officers and town councils of merchants and artisans who approved land transactions.",
+    "ko": "디나지푸르 지역 다모다르푸르에서 발견된 일련의 동판 명문은 가장 이른 것이 쿠마라굽타 1세 치세의 443~444년으로, 푼드라바르다나 주의 토지 매매를 기록한다. 이 문서들은 주 총독, 지방관, 그리고 토지 거래를 승인한 상인·장인들의 도시 협의회로 이루어진 굽타 시대의 행정 체계를 보여 준다.",
+    "zh": "在迪纳杰布尔县达摩达尔布尔发现的一系列铜版铭文，最早一件年代为鸠摩罗笈多一世在位时的443至444年，记载了奔那伐弹那省的土地买卖。这些文书展示了笈多时代由省督、地方官以及审批土地交易的商人与工匠城镇议会构成的行政体系。",
+    "ja": "ディナジプル県ダモダルプルで見つかった一連の銅板碑文は、最古のものがクマーラグプタ1世治世の443～444年のもので、プンドラヴァルダナ州での土地の売買を記録している。これらは州総督、郡の役人、そして土地取引を承認した商人や職人の町の評議会からなるグプタ時代の行政体系を示している。"
+   }
+  },
+  {
+   "year": 507,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Gunaighar grant of Vainyagupta",
+    "ko": "바이냐굽타의 구나이가르 동판",
+    "zh": "毗尼耶笈多的古奈加尔铜版",
+    "ja": "ヴァイニヤグプタのグナイガル銅板"
+   },
+   "description": {
+    "en": "A copper plate found at Gunaighar near Comilla, dated to 507 AD, records a land grant by the ruler Vainyagupta to a Mahayana Buddhist monastery. It is one of the earliest dated records from south-eastern Bangladesh and attests to the presence of organised Buddhist communities there under late Gupta rule.",
+    "ko": "코밀라 부근 구나이가르에서 발견된 507년의 동판은 통치자 바이냐굽타가 대승불교 사원에 토지를 하사한 사실을 기록한다. 이는 방글라데시 남동부에서 가장 이른 연대가 확인된 기록 가운데 하나로, 후기 굽타 시대에 그곳에 조직된 불교 공동체가 있었음을 보여 준다.",
+    "zh": "在科米拉附近古奈加尔发现的一块铜版，年代为公元507年，记载了统治者毗尼耶笈多向一座大乘佛教寺院赐地之事。这是孟加拉国东南部有确切年代的最早记录之一，证明晚期笈多时代当地已有组织化的佛教社群。",
+    "ja": "コミラ近郊のグナイガルで見つかった507年の銅板は、支配者ヴァイニヤグプタが大乗仏教の僧院に土地を寄進したことを記録している。これはバングラデシュ南東部で年代の判明する最古級の記録の一つであり、後期グプタ時代にこの地に組織された仏教共同体があったことを示す。"
+   }
+  },
+  {
+   "year": 550,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Independent kings of Vanga",
+    "ko": "방가의 독립 왕들",
+    "zh": "梵伽的独立君主",
+    "ja": "ヴァンガの独立王"
+   },
+   "description": {
+    "en": "By the mid-6th century, as Gupta power declined, kings such as Gopachandra, Dharmaditya and Samacharadeva ruled Vanga independently, issuing copper-plate land grants found mostly around Faridpur. They used imperial titles and gold coinage, marking the emergence of south-eastern Bengal as a distinct political centre.",
+    "ko": "6세기 중엽 굽타 세력이 기울면서 고파찬드라, 다르마디티야, 사마차라데바 같은 왕들이 방가를 독자적으로 다스렸으며, 이들의 동판 토지 문서는 주로 파리드푸르 일대에서 발견되었다. 이들은 제왕의 칭호와 금화를 사용했는데, 이는 벵골 남동부가 독자적 정치 중심지로 부상했음을 보여 준다.",
+    "zh": "到6世纪中叶，随着笈多势力衰落，瞿波旃陀罗、达磨迭多、三摩遮罗提婆等君主独立统治梵伽，其铜版赐地文书多出土于法里德布尔一带。他们使用帝王称号并发行金币，标志着孟加拉东南部成为一个独立的政治中心。",
+    "ja": "6世紀半ばになるとグプタ朝の力が衰え、ゴーパチャンドラ、ダルマーディティヤ、サマーチャーラデーヴァといった王がヴァンガを独自に治めた。その銅板土地文書は主にファリドプル周辺で見つかっている。彼らは帝王の称号と金貨を用いており、ベンガル南東部が独自の政治的中心として台頭したことを示している。"
+   }
+  },
+  {
+   "year": 606,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Shashanka of Gauda challenges Harsha",
+    "ko": "가우다의 샤샹카, 하르샤에 맞서다",
+    "zh": "高达的设赏迦与戒日王抗衡",
+    "ja": "ガウダのシャシャーンカ、ハルシャと対立"
+   },
+   "description": {
+    "en": "Around 606 Shashanka, king of Gauda, was involved in the killing of Rajyavardhana, elder brother of Harsha of Kannauj, setting off a long rivalry between the two rulers. Shashanka, who ruled much of Bengal from Karnasuvarna, is remembered as the first major independent king of a united Bengal, while Buddhist sources portray him as hostile to their faith.",
+    "ko": "606년경 가우다의 왕 샤샹카는 카나우지 하르샤의 형 라자바르다나의 죽음에 연루되었고, 이로써 두 군주 사이의 오랜 대립이 시작되었다. 카르나수바르나를 거점으로 벵골 대부분을 다스린 샤샹카는 통일 벵골의 첫 주요 독립 왕으로 기억되지만, 불교 문헌은 그를 불교에 적대적인 인물로 묘사한다.",
+    "zh": "约606年，高达国王设赏迦卷入曲女城戒日王之兄曷逻阇伐弹那被杀一事，由此开启了二人之间的长期对抗。设赏迦以羯罗拏苏伐剌那为中心统治孟加拉大部分地区，被视为统一孟加拉的第一位重要独立君主，但佛教文献把他描绘成敌视佛法之人。",
+    "ja": "606年頃、ガウダ王シャシャーンカはカナウジのハルシャの兄ラージヤヴァルダナの殺害に関わり、両者の長い対立が始まった。カルナスヴァルナを拠点にベンガルの大半を治めたシャシャーンカは、統一ベンガル最初の主要な独立王として記憶されるが、仏教の文献は彼を仏教に敵対的な人物として描いている。"
+   }
+  },
+  {
+   "year": 638,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Xuanzang visits Pundravardhana and Samatata",
+    "ko": "현장의 푼드라바르다나·사마타타 방문",
+    "zh": "玄奘游历奔那伐弹那与三摩呾吒",
+    "ja": "玄奘、プンドラヴァルダナとサマタタを訪れる"
+   },
+   "description": {
+    "en": "The Chinese pilgrim Xuanzang travelled through Bengal around 638–639, visiting Pundravardhana in the north, whose capital is generally identified with Mahasthangarh, and Samatata in the south-east. His account describes populous, fertile lands with many Buddhist monasteries alongside Hindu and Jain temples, providing a rare outside view of 7th-century Bengal.",
+    "ko": "중국 승려 현장은 638~639년경 벵골을 여행하며 북부의 푼드라바르다나(그 도성은 대체로 마하스탄가르로 비정된다)와 남동부의 사마타타를 방문했다. 그의 기록은 많은 불교 사원과 힌두교·자이나교 사원이 공존하는 인구 많고 비옥한 땅을 묘사하며, 7세기 벵골에 대한 드문 외부 시각을 제공한다.",
+    "zh": "中国高僧玄奘约于638至639年游历孟加拉，到访北部的奔那伐弹那国（其都城一般认为即马哈斯坦加尔）和东南部的三摩呾吒国。他的记述描绘了人口稠密、土地肥沃、佛寺众多并与印度教和耆那教寺庙并存的景象，为7世纪的孟加拉提供了难得的外部视角。",
+    "ja": "中国の僧玄奘は638～639年頃にベンガルを旅し、北部のプンドラヴァルダナ（その都は一般にマハスタンガルとされる）と南東部のサマタタを訪れた。彼の記録は、多くの仏教僧院がヒンドゥー教やジャイナ教の寺院と並び立つ、人口の多い肥沃な土地を描いており、7世紀ベンガルを伝える貴重な外部の視点となっている。"
+   }
+  },
+  {
+   "year": 675,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Khadga kings rule Samatata",
+    "ko": "카드가 왕조의 사마타타 통치",
+    "zh": "伽革王朝统治三摩呾吒",
+    "ja": "カドガ朝のサマタタ支配"
+   },
+   "description": {
+    "en": "In the second half of the 7th century the Buddhist Khadga dynasty ruled Samatata from Karmanta, near present-day Comilla. Copper plates found at Ashrafpur near Dhaka record their grants to Buddhist monasteries, and Chinese pilgrims of the period reported that Buddhism flourished under their patronage.",
+    "ko": "7세기 후반 불교도 카드가 왕조는 오늘날 코밀라 부근의 카르만타를 거점으로 사마타타를 다스렸다. 다카 인근 아슈라프푸르에서 발견된 동판은 이들의 불교 사원 기진을 기록하며, 당시 중국 순례승들은 그들의 후원 아래 불교가 번성했다고 전했다.",
+    "zh": "7世纪下半叶，信奉佛教的伽革王朝以今科米拉附近的羯尔曼多为中心统治三摩呾吒。在达卡附近阿什拉夫布尔发现的铜版记载了他们向佛寺施地之事，同时期的中国求法僧也称佛教在其护持下十分兴盛。",
+    "ja": "7世紀後半、仏教徒のカドガ朝は現在のコミラ近郊のカルマーンタを拠点にサマタタを治めた。ダッカ近郊のアシュラフプルで見つかった銅板は彼らの仏教僧院への寄進を記録し、同時代の中国の求法僧は彼らの保護のもとで仏教が栄えていたと伝えている。"
+   }
+  },
+  {
+   "year": 750,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Pala Empire",
+    "ko": "팔라 제국의 등장",
+    "zh": "帕拉王朝的兴起",
+    "ja": "パーラ朝の興隆"
+   },
+   "description": {
+    "en": "Gopala was elected ruler of Bengal, founding the Buddhist Pala dynasty. For four centuries the Palas patronized great monasteries such as Somapura Mahavihara, now a UNESCO World Heritage Site.",
+    "ko": "고팔라가 벵골의 통치자로 추대되어 불교 왕조인 팔라 왕조를 열었다. 팔라 왕조는 이후 4세기 동안 소마푸라 마하비하라(현 유네스코 세계유산) 같은 대사원을 후원하며 불교 문화를 꽃피웠다.",
+    "zh": "瞿波罗被推举为孟加拉的统治者，开创了信奉佛教的帕拉王朝。此后四百年间，帕拉诸王资助了索玛普利大寺（今联合国教科文组织世界遗产）等宏伟寺院，佛教文化盛极一时。",
+    "ja": "ゴーパーラがベンガルの支配者に推戴され、仏教王朝パーラ朝を開いた。以後4世紀にわたり、パーラ朝はソーマプラ・マハーヴィハーラ（現ユネスコ世界遺産）などの大僧院を庇護し、仏教文化を開花させた。"
+   }
+  },
+  {
+   "year": 760,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Shalban Vihara at Mainamati",
+    "ko": "마이나마티의 샬반 비하라",
+    "zh": "迈纳马蒂的沙尔班寺",
+    "ja": "マイナマティのシャルバン僧院"
+   },
+   "description": {
+    "en": "In the 8th century the Deva dynasty of Samatata, ruling from Devaparvata in the Mainamati hills near Comilla, built the large Buddhist monastery now known as Shalban Vihara, attributed to King Bhavadeva. Excavations there and at other Mainamati sites uncovered monastic cells, a central shrine, terracotta plaques, coins and copper plates.",
+    "ko": "8세기에 코밀라 부근 마이나마티 구릉의 데바파르바타에서 다스린 사마타타의 데바 왕조는 오늘날 샬반 비하라로 알려진 대규모 불교 사원을 세웠으며, 이는 바바데바 왕의 업적으로 여겨진다. 이곳과 다른 마이나마티 유적의 발굴에서 승방, 중앙 사당, 테라코타 판, 주화, 동판이 출토되었다.",
+    "zh": "8世纪时，以科米拉附近迈纳马蒂丘陵的提婆帕尔瓦塔为都的三摩呾吒提婆王朝修建了今称沙尔班寺的大型佛教寺院，一般归功于婆婆提婆王。在此处及迈纳马蒂其他遗址的发掘中，出土了僧房、中央佛殿、赤陶板、钱币和铜版。",
+    "ja": "8世紀、コミラ近郊のマイナマティ丘陵のデーヴァパルヴァタから統治したサマタタのデーヴァ朝は、現在シャルバン僧院として知られる大規模な仏教僧院を建て、これはバヴァデーヴァ王によるものとされる。ここやマイナマティの他の遺跡の発掘では、僧房、中央の祠堂、テラコッタ板、貨幣、銅板が出土した。"
+   }
+  },
+  {
+   "year": 790,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Dharmapala builds Somapura Mahavihara",
+    "ko": "다르마팔라의 소마푸라 마하비하라 건립",
+    "zh": "达磨波罗兴建索玛普拉大寺",
+    "ja": "ダルマパーラ、ソーマプラ・マハーヴィハーラを建立"
+   },
+   "description": {
+    "en": "In the late 8th century the Pala king Dharmapala founded Somapura Mahavihara at Paharpur in present-day Naogaon district, one of the largest Buddhist monasteries south of the Himalayas. Its cruciform central temple and some 177 cells for monks influenced Buddhist architecture as far as Southeast Asia. The ruins became a UNESCO World Heritage Site in 1985.",
+    "ko": "8세기 후반 팔라 왕 다르마팔라는 오늘날 나오가온 지역 파하르푸르에 히말라야 이남 최대급의 불교 사원인 소마푸라 마하비하라를 세웠다. 십자형 중앙 사원과 약 177개의 승방은 동남아시아에 이르기까지 불교 건축에 영향을 주었다. 유적은 1985년 유네스코 세계유산에 등재되었다.",
+    "zh": "8世纪后期，波罗王朝国王达磨波罗在今瑙冈县帕哈尔普尔创建了索玛普拉大寺，这是喜马拉雅山以南规模最大的佛教寺院之一。其十字形的中央佛殿和约177间僧房对远至东南亚的佛教建筑都产生了影响。遗址于1985年列入联合国教科文组织世界遗产。",
+    "ja": "8世紀後半、パーラ朝の王ダルマパーラは現在のナオガオン県パハルプールに、ヒマラヤ以南最大級の仏教僧院ソーマプラ・マハーヴィハーラを創建した。十字形の中央祠堂と約177の僧房は、東南アジアに至るまで仏教建築に影響を与えた。遺跡は1985年にユネスコ世界遺産に登録された。"
+   }
+  },
+  {
+   "year": 850,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Pala power under Devapala",
+    "ko": "데바팔라 치하의 팔라 전성기",
+    "zh": "提婆波罗治下的波罗鼎盛期",
+    "ja": "デーヴァパーラ時代のパーラ朝の最盛期"
+   },
+   "description": {
+    "en": "Under Dharmapala's son Devapala in the first half of the 9th century, the Pala Empire reached the height of its power, contending with the Pratiharas and Rashtrakutas for control of northern India. Devapala's reign also saw ties with the Buddhist world beyond India; an inscription records a monastery at Nalanda endowed at the request of a Shailendra king of Java and Sumatra.",
+    "ko": "9세기 전반 다르마팔라의 아들 데바팔라 치하에서 팔라 제국은 국력의 정점에 이르러 북인도의 패권을 두고 프라티하라·라슈트라쿠타 왕조와 다투었다. 데바팔라의 치세에는 인도 밖 불교 세계와의 관계도 맺어졌는데, 한 명문은 자와·수마트라의 샤일렌드라 왕의 요청으로 날란다에 사원을 위한 기진이 이루어졌다고 기록한다.",
+    "zh": "9世纪上半叶，在达磨波罗之子提婆波罗统治下，波罗帝国达到鼎盛，与普拉蒂哈拉王朝和罗湿陀罗拘陀王朝争夺北印度的霸权。提婆波罗在位期间还与印度以外的佛教世界建立了联系；一篇铭文记载，他应爪哇和苏门答腊的夏连特拉国王之请，为那烂陀的一座寺院施地。",
+    "ja": "9世紀前半、ダルマパーラの子デーヴァパーラのもとでパーラ朝は国力の頂点に達し、北インドの覇権をめぐってプラティハーラ朝やラーシュトラクータ朝と争った。デーヴァパーラの治世にはインド外の仏教世界との結び付きも見られ、ある碑文はジャワ・スマトラのシャイレーンドラ朝の王の求めに応じてナーランダーの僧院に寄進したことを記している。"
+   }
+  },
+  {
+   "year": 930,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Srichandra's Chandra kingdom at Vikramapura",
+    "ko": "슈리찬드라와 비크라마푸라의 찬드라 왕국",
+    "zh": "室利旃陀罗与超日城的旃陀罗王国",
+    "ja": "シュリーチャンドラとヴィクラマプラのチャンドラ王国"
+   },
+   "description": {
+    "en": "In the 10th century the Chandra king Srichandra ruled south-eastern Bengal from Vikramapura (Bikrampur, near Dhaka), which became the chief political centre of eastern Bengal for the next three centuries. His Paschimbhag copper plate records a large land grant in the Sylhet region supporting Brahmins and monastic institutions.",
+    "ko": "10세기 찬드라 왕조의 슈리찬드라는 비크라마푸라(다카 인근 비크람푸르)에서 벵골 남동부를 다스렸으며, 이곳은 이후 3세기 동안 동벵골의 주요 정치 중심지가 되었다. 그의 파슈침바그 동판은 브라만과 종교 기관을 지원하기 위해 실헷 지역에 대규모 토지를 하사한 사실을 기록한다.",
+    "zh": "10世纪，旃陀罗王朝的室利旃陀罗以超日城（达卡附近的比克拉姆普尔）为都统治孟加拉东南部，此地此后三个世纪一直是东孟加拉的主要政治中心。他的帕希姆巴格铜版记载了在锡尔赫特地区大规模赐地以供养婆罗门和宗教机构之事。",
+    "ja": "10世紀、チャンドラ朝のシュリーチャンドラはヴィクラマプラ（ダッカ近郊のビクランプル）からベンガル南東部を治め、この地はその後3世紀にわたって東ベンガルの政治の中心となった。彼のパシュチムバーグ銅板は、バラモンや宗教施設を支えるためシレット地方に広大な土地を与えたことを記録している。"
+   }
+  },
+  {
+   "year": 988,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mahipala I revives the Palas",
+    "ko": "마히팔라 1세의 팔라 부흥",
+    "zh": "摩醯波罗一世复兴波罗王朝",
+    "ja": "マヒーパーラ1世によるパーラ朝の再興"
+   },
+   "description": {
+    "en": "After a period of decline in which the Palas lost much of Bengal, Mahipala I, who came to the throne around 988, recovered northern and eastern Bengal, including the Varendra region of today's north-western Bangladesh. His long reign restored the dynasty's fortunes for several more generations.",
+    "ko": "팔라 왕조가 벵골의 상당 부분을 잃은 쇠퇴기 이후, 988년경 즉위한 마히팔라 1세는 오늘날 방글라데시 북서부의 바렌드라 지역을 포함한 북부·동부 벵골을 되찾았다. 그의 긴 치세는 왕조의 명운을 몇 세대 더 이어지게 했다.",
+    "zh": "在波罗王朝丧失孟加拉大片领土的衰落时期之后，约988年即位的摩醯波罗一世收复了孟加拉北部和东部，包括今孟加拉国西北部的瓦伦德拉地区。他的长期统治使王朝的国运又延续了数代。",
+    "ja": "パーラ朝がベンガルの多くを失った衰退期の後、988年頃に即位したマヒーパーラ1世は、現在のバングラデシュ北西部のヴァレーンドラ地方を含む北部・東部ベンガルを回復した。その長い治世により、王朝の命運はさらに数世代保たれた。"
+   }
+  },
+  {
+   "year": 1023,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Rajendra Chola's expedition reaches Bengal",
+    "ko": "라젠드라 촐라의 벵골 원정",
+    "zh": "拉金德拉·朱罗远征孟加拉",
+    "ja": "ラージェーンドラ1世のベンガル遠征"
+   },
+   "description": {
+    "en": "Around 1023 the army of the South Indian Chola emperor Rajendra I marched north to the Ganges. Chola inscriptions claim victories over Mahipala of the Palas and Govindachandra of Vangaladesa, the last major Chandra king of eastern Bengal. The raid brought no lasting Chola rule but shows Bengal's place in pan-Indian power politics.",
+    "ko": "1023년경 남인도 촐라 왕조의 황제 라젠드라 1세의 군대가 갠지스강까지 북진했다. 촐라 명문은 팔라 왕조의 마히팔라와 동벵골의 마지막 주요 찬드라 왕인 방갈라데샤의 고빈다찬드라를 물리쳤다고 주장한다. 이 원정은 지속적인 촐라 지배로 이어지지 않았지만, 벵골이 범인도적 권력 정치 속에 있었음을 보여 준다.",
+    "zh": "约1023年，南印度朱罗王朝皇帝拉金德拉一世的军队北上直抵恒河。朱罗铭文声称击败了波罗王朝的摩醯波罗和“梵伽罗国”的戈宾达旃陀罗——东孟加拉最后一位重要的旃陀罗国王。这次远征并未带来持久的朱罗统治，但显示了孟加拉在全印度权力政治中的地位。",
+    "ja": "1023年頃、南インドのチョーラ朝皇帝ラージェーンドラ1世の軍はガンジス川まで北進した。チョーラ朝の碑文は、パーラ朝のマヒーパーラと、東ベンガル最後の主要なチャンドラ朝の王であるヴァンガーラデーシャのゴーヴィンダチャンドラを破ったと主張している。遠征は永続的な支配にはつながらなかったが、ベンガルが全インド的な権力政治の中にあったことを示している。"
+   }
+  },
+  {
+   "year": 1042,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Atisha of Vikramapura arrives in Tibet",
+    "ko": "비크라마푸라 출신 아티샤의 티베트 도착",
+    "zh": "超日城出身的阿底峡抵达西藏",
+    "ja": "ヴィクラマプラ出身のアティーシャ、チベットに至る"
+   },
+   "description": {
+    "en": "Atisha Dipankara Srijnana, a Buddhist scholar born in 982 and traditionally said to come from Vikramapura near Dhaka, accepted an invitation from western Tibet and arrived there in 1042. His teachings and writings played a central role in the revival of Buddhism in Tibet, and he is honoured in Bangladesh as one of its great historical figures.",
+    "ko": "982년에 태어나 전승에 따르면 다카 인근 비크라마푸라 출신인 불교 학승 아티샤 디팡카라 슈리즈냐나는 서티베트의 초청을 받아들여 1042년 그곳에 도착했다. 그의 가르침과 저술은 티베트 불교 부흥에 중심적 역할을 했으며, 방글라데시에서는 위대한 역사적 인물로 기려진다.",
+    "zh": "阿底峡·燃灯吉祥智是生于982年的佛教学僧，据传出身于达卡附近的超日城。他应西藏西部之邀，于1042年抵达当地。他的教法和著述在西藏佛教复兴中发挥了核心作用，在孟加拉国被尊为伟大的历史人物之一。",
+    "ja": "982年生まれで、伝承ではダッカ近郊のヴィクラマプラ出身とされる仏教学僧アティーシャ・ディーパンカラ・シュリージュニャーナは、西チベットからの招きに応じて1042年に同地に到着した。彼の教えと著作はチベット仏教の復興に中心的な役割を果たし、バングラデシュでは偉大な歴史上の人物として敬われている。"
+   }
+  },
+  {
+   "year": 1075,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Kaivarta revolt in Varendra",
+    "ko": "바렌드라의 카이바르타 반란",
+    "zh": "瓦伦德拉的凯瓦尔塔起义",
+    "ja": "ヴァレーンドラのカイヴァルタの反乱"
+   },
+   "description": {
+    "en": "In the later 11th century the Kaivarta chief Divya led a revolt in Varendra (north-western Bangladesh), killing the Pala king Mahipala II and establishing local rule. Ramapala later recovered Varendra with the help of allied chiefs, an episode narrated in Sandhyakara Nandi's Sanskrit poem Ramacharita. The Divar Dighi pillar in Naogaon is associated with the Kaivarta rulers.",
+    "ko": "11세기 후반 카이바르타 족장 디비야는 바렌드라(방글라데시 북서부)에서 반란을 일으켜 팔라 왕 마히팔라 2세를 죽이고 그 지역을 장악했다. 이후 라마팔라가 동맹 족장들의 도움으로 바렌드라를 되찾았는데, 이 일은 산디야카라 난디의 산스크리트 시 『라마차리타』에 서술되어 있다. 나오가온의 디바르 디기 석주는 카이바르타 통치자들과 연관된다.",
+    "zh": "11世纪后期，凯瓦尔塔首领迪弗亚在瓦伦德拉（孟加拉国西北部）发动起义，杀死波罗国王摩醯波罗二世并建立地方政权。后来罗摩波罗在盟友首领的帮助下收复瓦伦德拉，这段经过记载于桑迪亚卡拉·南迪的梵语诗作《罗摩传》中。瑙冈的迪瓦尔迪吉石柱被认为与凯瓦尔塔统治者有关。",
+    "ja": "11世紀後半、カイヴァルタの首長ディヴィヤはヴァレーンドラ（バングラデシュ北西部）で反乱を起こし、パーラ朝の王マヒーパーラ2世を殺して在地の支配を打ち立てた。のちにラーマパーラが同盟する首長たちの助けでヴァレーンドラを奪回し、その経緯はサンディヤーカラ・ナンディのサンスクリット詩『ラーマチャリタ』に描かれている。ナオガオンのディバル・ディギの石柱はカイヴァルタの支配者と結び付けられている。"
+   }
+  },
+  {
+   "year": 1100,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Sena dynasty",
+    "ko": "세나 왕조의 대두",
+    "zh": "犀那王朝的兴起",
+    "ja": "セーナ朝の台頭"
+   },
+   "description": {
+    "en": "Around the turn of the 12th century Vijaya Sena, of a family originating in southern India, began building power in western Bengal and went on to defeat the Varmans of eastern Bengal and push out the declining Palas. His Deopara inscription, found in Rajshahi district, celebrates these conquests. By the mid-12th century the Senas ruled all of Bengal.",
+    "ko": "12세기 초 무렵 남인도 출신 가문의 비자야 세나는 서벵골에서 세력을 키운 뒤 동벵골의 바르만 왕조를 무찌르고 쇠퇴하던 팔라 왕조를 몰아냈다. 라지샤히 지역에서 발견된 그의 데오파라 명문은 이 정복을 기린다. 12세기 중엽에 세나 왕조는 벵골 전역을 다스렸다.",
+    "zh": "12世纪初前后，出身南印度家族的毗阇耶犀那在孟加拉西部崛起，随后击败东孟加拉的跋摩王朝，并驱逐日渐衰落的波罗王朝。在拉杰沙希县发现的德奥帕拉铭文颂扬了这些征服。到12世纪中叶，犀那王朝已统治孟加拉全境。",
+    "ja": "12世紀初め頃、南インドに出自をもつ家のヴィジャヤ・セーナは西ベンガルで勢力を築き、東ベンガルのヴァルマン朝を破って衰えたパーラ朝を退けた。ラージシャヒ県で見つかった彼のデオパーラ碑文はこれらの征服を讃えている。12世紀半ばにはセーナ朝がベンガル全域を治めた。"
+   }
+  },
+  {
+   "year": 1179,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Lakshmana Sena's court and Sanskrit poetry",
+    "ko": "락슈마나 세나의 궁정과 산스크리트 시",
+    "zh": "罗什曼那犀那的宫廷与梵语诗歌",
+    "ja": "ラクシュマナ・セーナの宮廷とサンスクリット詩"
+   },
+   "description": {
+    "en": "Lakshmana Sena, who came to the throne around 1178–1179, presided over a court famed for Sanskrit literature. Tradition associates the poet Jayadeva, author of the Gita Govinda, with his court. The Sena period is also remembered for strengthening Brahmanical orthodoxy and caste hierarchy in Bengal.",
+    "ko": "1178~1179년경 즉위한 락슈마나 세나는 산스크리트 문학으로 이름난 궁정을 이끌었다. 전승은 『기타 고빈다』의 저자인 시인 자야데바를 그의 궁정과 연결한다. 세나 시대는 벵골에서 브라만 정통과 카스트 위계를 강화한 시기로도 기억된다.",
+    "zh": "约于1178至1179年即位的罗什曼那犀那主持着一个以梵语文学闻名的宫廷。传统上将《牧童歌》的作者、诗人胜天与其宫廷相联系。犀那时代也因在孟加拉强化婆罗门正统和种姓等级而为人所记。",
+    "ja": "1178～1179年頃に即位したラクシュマナ・セーナは、サンスクリット文学で名高い宮廷を主宰した。伝承は『ギータ・ゴーヴィンダ』の作者である詩人ジャヤデーヴァを彼の宮廷と結び付けている。セーナ朝時代は、ベンガルでバラモン的正統とカースト秩序が強化された時代としても記憶されている。"
+   }
+  },
+  {
+   "year": 1204,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Beginning of Muslim Rule in Bengal",
+    "ko": "벵골 무슬림 지배의 시작",
+    "zh": "孟加拉穆斯林统治的开端",
+    "ja": "ベンガルにおけるムスリム支配の始まり"
+   },
+   "description": {
+    "en": "Bakhtiyar Khalji's forces seized the Sena capital, opening the era of Muslim rule in Bengal. Over the following centuries Islam spread widely, especially in the eastern delta.",
+    "ko": "바흐티야르 할지의 군대가 세나 왕조의 수도를 점령하면서 벵골에서 무슬림 지배의 시대가 열렸다. 이후 수 세기에 걸쳐 이슬람교가 특히 동부 삼각주 지역에 널리 퍼져 나갔다.",
+    "zh": "巴赫蒂亚尔·哈尔吉的军队攻占了塞纳王朝的都城，开启了孟加拉的穆斯林统治时代。此后数百年间，伊斯兰教在东部三角洲地区广泛传播。",
+    "ja": "バフティヤール・ハルジーの軍がセーナ朝の都を攻略し、ベンガルにムスリム支配の時代が幕を開けた。以後数世紀の間に、イスラーム教はとりわけ東部デルタ地帯に広く浸透していった。"
+   }
+  },
+  {
+   "year": 1227,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Delhi reasserts control over Bengal",
+    "ko": "델리의 벵골 지배 재확립",
+    "zh": "德里重新控制孟加拉",
+    "ja": "デリーによるベンガル支配の回復"
+   },
+   "description": {
+    "en": "Ghiyasuddin Iwaz Khalji, who had ruled Lakhnauti as a largely independent sultan, was defeated and killed in 1227 by forces of Nasiruddin Mahmud, son of the Delhi sultan Iltutmish. Bengal was brought back under Delhi's nominal authority, though its governors frequently rebelled over the following century.",
+    "ko": "라크나우티를 사실상 독립된 술탄으로 다스리던 기야수딘 이와즈 할지는 1227년 델리 술탄 일투트미시의 아들 나시루딘 마흐무드의 군대에 패해 죽었다. 벵골은 다시 델리의 명목상 권위 아래 들어갔으나, 이후 한 세기 동안 그 총독들은 자주 반란을 일으켰다.",
+    "zh": "以近乎独立的苏丹身份统治勒克瑙蒂的吉亚斯丁·伊瓦兹·卡尔吉，于1227年被德里苏丹伊勒图特米什之子纳西尔丁·马哈茂德的军队击败并杀死。孟加拉重新置于德里的名义统治之下，但此后一个世纪里其总督屡屡反叛。",
+    "ja": "ラクナウティを事実上独立したスルターンとして治めていたギヤースッディーン・イワズ・ハルジーは、1227年にデリーのスルターン、イルトゥトミシュの子ナーシルッディーン・マフムードの軍に敗れて殺された。ベンガルは再びデリーの名目的な権威の下に戻ったが、その後1世紀にわたり総督はしばしば反乱を起こした。"
+   }
+  },
+  {
+   "year": 1281,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Balban crushes Tughral's revolt",
+    "ko": "발반의 투그랄 반란 진압",
+    "zh": "巴勒班平定图格里勒叛乱",
+    "ja": "バルバン、トゥグラルの反乱を鎮圧"
+   },
+   "description": {
+    "en": "When Tughral Khan, governor of Bengal, declared himself sultan, the aged Delhi sultan Balban led a campaign into Bengal around 1280–1282, hunted him down and executed him and his followers. Balban then installed his own son Bughra Khan as governor, whose line soon ruled Bengal largely independently of Delhi.",
+    "ko": "벵골 총독 투그랄 칸이 스스로 술탄을 칭하자, 노년의 델리 술탄 발반은 1280~1282년경 직접 벵골로 원정해 그를 추격해 처형하고 추종자들을 처벌했다. 발반은 이어 아들 부그라 칸을 총독으로 앉혔는데, 그의 가계는 곧 델리로부터 사실상 독립해 벵골을 다스렸다.",
+    "zh": "孟加拉总督图格里勒·汗自称苏丹后，年迈的德里苏丹巴勒班于约1280至1282年亲征孟加拉，追捕并处死了他及其追随者。巴勒班随后任命儿子布格拉·汗为总督，其家族不久便在很大程度上脱离德里而统治孟加拉。",
+    "ja": "ベンガル総督トゥグラル・ハーンがスルターンを称すると、老齢のデリーのスルターン、バルバンは1280～1282年頃に自らベンガルに遠征し、彼を追い詰めて処刑し、その追随者を罰した。バルバンは息子ブグラ・ハーンを総督に据えたが、その家系はまもなくデリーからほぼ独立してベンガルを治めた。"
+   }
+  },
+  {
+   "year": 1303,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Conquest of Sylhet and Shah Jalal",
+    "ko": "실헷 정복과 샤 잘랄",
+    "zh": "征服锡尔赫特与沙贾拉勒",
+    "ja": "シレットの征服とシャー・ジャラール"
+   },
+   "description": {
+    "en": "According to tradition, in 1303 forces of the Bengal sultan Shamsuddin Firoz Shah, joined by the Sufi saint Shah Jalal and his companions, defeated Gour Govinda, the Hindu ruler of Sylhet. Shah Jalal settled in Sylhet, and his shrine there remains one of the most revered pilgrimage sites in Bangladesh, symbolising the role of Sufis in the spread of Islam in the region.",
+    "ko": "전승에 따르면 1303년 벵골 술탄 샴수딘 피루즈 샤의 군대가 수피 성자 샤 잘랄과 그 동료들과 함께 실헷의 힌두 통치자 가우르 고빈다를 물리쳤다. 샤 잘랄은 실헷에 정착했고, 그의 성묘는 지금도 방글라데시에서 가장 존숭받는 순례지 가운데 하나로, 이 지역 이슬람 확산에서 수피들이 한 역할을 상징한다.",
+    "zh": "据传统说法，1303年孟加拉苏丹沙姆斯丁·菲鲁兹·沙的军队在苏菲圣人沙贾拉勒及其同伴的协助下，击败了锡尔赫特的印度教统治者高尔·戈文达。沙贾拉勒定居锡尔赫特，其圣陵至今仍是孟加拉国最受尊崇的朝圣地之一，象征着苏菲派在该地区伊斯兰教传播中的作用。",
+    "ja": "伝承によれば、1303年にベンガルのスルターン、シャムスッディーン・フィールーズ・シャーの軍がスーフィーの聖者シャー・ジャラールとその仲間とともに、シレットのヒンドゥー教徒の支配者ガウル・ゴーヴィンダを破った。シャー・ジャラールはシレットに住み着き、その聖廟は今もバングラデシュで最も崇敬される巡礼地の一つとして、この地域のイスラーム普及におけるスーフィーの役割を象徴している。"
+   }
+  },
+  {
+   "year": 1324,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ghiyasuddin Tughlaq annexes Bengal",
+    "ko": "기야수딘 투글루크의 벵골 병합",
+    "zh": "吉亚斯丁·图格鲁克吞并孟加拉",
+    "ja": "ギヤースッディーン・トゥグルクのベンガル併合"
+   },
+   "description": {
+    "en": "Exploiting a succession struggle among the sons of Shamsuddin Firoz Shah, the Delhi sultan Ghiyasuddin Tughlaq marched into Bengal in 1324 and brought it under direct Tughlaq control. The region was divided into three administrative units centred on Lakhnauti, Satgaon and Sonargaon, an arrangement that soon broke down into rival local sultanates.",
+    "ko": "샴수딘 피루즈 샤의 아들들 사이의 계승 분쟁을 틈타 델리 술탄 기야수딘 투글루크는 1324년 벵골로 진군해 이를 투글루크 왕조의 직접 지배 아래 두었다. 지역은 라크나우티·사트가온·소나르가온을 중심으로 하는 세 행정 단위로 나뉘었지만, 이 체제는 곧 서로 경쟁하는 지방 술탄국들로 붕괴했다.",
+    "zh": "德里苏丹吉亚斯丁·图格鲁克趁沙姆斯丁·菲鲁兹·沙诸子争夺继承权之机，于1324年进军孟加拉，将其置于图格鲁克王朝的直接控制之下。该地区被划分为以勒克瑙蒂、萨特冈和索纳尔冈为中心的三个行政单位，但这一安排不久便瓦解为相互竞争的地方苏丹政权。",
+    "ja": "デリーのスルターン、ギヤースッディーン・トゥグルクは、シャムスッディーン・フィールーズ・シャーの息子たちの継承争いに乗じて1324年にベンガルに進軍し、トゥグルク朝の直接支配下に置いた。地域はラクナウティ、サトガオン、ショナルガオンを中心とする三つの行政単位に分けられたが、この体制はまもなく互いに争う地方のスルターン国へと崩れた。"
+   }
+  },
+  {
+   "year": 1338,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Fakhruddin Mubarak Shah declares independence at Sonargaon",
+    "ko": "파크루딘 무바라크 샤의 소나르가온 독립 선언",
+    "zh": "法赫鲁丁·穆巴拉克·沙在索纳尔冈宣布独立",
+    "ja": "ファフルッディーン・ムバーラク・シャー、ショナルガオンで独立を宣言"
+   },
+   "description": {
+    "en": "In 1338 Fakhruddin Mubarak Shah, an officer at Sonargaon near present-day Dhaka, proclaimed himself sultan and broke away from the Tughlaq empire, minting his own coins. He extended his rule toward Chittagong, and his independent sultanate in eastern Bengal lasted until it was absorbed by Ilyas Shah in the early 1350s.",
+    "ko": "1338년 오늘날 다카 인근 소나르가온의 관리였던 파크루딘 무바라크 샤는 스스로 술탄을 칭하며 투글루크 제국에서 이탈하고 자신의 주화를 발행했다. 그는 치타공 방면으로 지배를 넓혔으며, 동벵골의 이 독립 술탄국은 1350년대 초 일리야스 샤에게 흡수될 때까지 이어졌다.",
+    "zh": "1338年，今达卡附近索纳尔冈的官员法赫鲁丁·穆巴拉克·沙自立为苏丹，脱离图格鲁克帝国并铸造自己的钱币。他将统治扩展到吉大港方向，这个东孟加拉的独立苏丹国一直延续到1350年代初被伊利亚斯·沙吞并为止。",
+    "ja": "1338年、現在のダッカ近郊ショナルガオンの官人ファフルッディーン・ムバーラク・シャーはスルターンを称してトゥグルク朝から離れ、独自の貨幣を発行した。彼はチッタゴン方面へ支配を広げ、東ベンガルのこの独立スルターン国は1350年代初めにイリヤース・シャーに吸収されるまで続いた。"
+   }
+  },
+  {
+   "year": 1346,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Ibn Battuta travels through Bengal",
+    "ko": "이븐 바투타의 벵골 여행",
+    "zh": "伊本·白图泰游历孟加拉",
+    "ja": "イブン・バットゥータのベンガル旅行"
+   },
+   "description": {
+    "en": "The Moroccan traveller Ibn Battuta visited Bengal around 1345–1346, landing near Chittagong, travelling to Sylhet to meet the Sufi Shah Jalal, and sailing down the rivers to Sonargaon. His account describes the region's extraordinary abundance and cheapness of rice and goods, its busy river traffic, and the political situation under Fakhruddin Mubarak Shah.",
+    "ko": "모로코의 여행가 이븐 바투타는 1345~1346년경 벵골을 방문해 치타공 부근에 상륙한 뒤 실헷으로 가서 수피 샤 잘랄을 만났고, 강을 따라 소나르가온까지 내려갔다. 그의 기록은 쌀과 물자가 놀랄 만큼 풍부하고 값싸며 강 교통이 분주했던 이 지역의 모습과 파크루딘 무바라크 샤 치하의 정치 상황을 묘사한다.",
+    "zh": "摩洛哥旅行家伊本·白图泰约于1345至1346年访问孟加拉，在吉大港附近登陆，前往锡尔赫特拜见苏菲圣人沙贾拉勒，并沿河而下抵达索纳尔冈。他的游记描述了当地稻米和物产极为丰富低廉、河运繁忙的景象，以及法赫鲁丁·穆巴拉克·沙统治下的政治状况。",
+    "ja": "モロッコの旅行家イブン・バットゥータは1345～1346年頃にベンガルを訪れ、チッタゴン近くに上陸し、シレットでスーフィーのシャー・ジャラールに会い、川を下ってショナルガオンに至った。彼の記録は、米や物資が驚くほど豊富で安く、河川交通がにぎわうこの地の様子と、ファフルッディーン・ムバーラク・シャー治下の政治状況を伝えている。"
+   }
+  },
+  {
+   "year": 1352,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Unification under the Bengal Sultanate",
+    "ko": "벵골 술탄국의 통일",
+    "zh": "孟加拉苏丹国的统一",
+    "ja": "ベンガル・スルターン朝による統一"
+   },
+   "description": {
+    "en": "Shamsuddin Ilyas Shah united the region into the independent Bengal Sultanate, which flourished for two centuries as a prosperous trading power famed for its muslin and cosmopolitan court.",
+    "ko": "샴수딘 일리야스 샤가 벵골 전역을 통일해 독립적인 벵골 술탄국을 세웠다. 술탄국은 이후 2세기 동안 모슬린 직물과 국제적인 궁정 문화로 이름난 번영한 교역 강국으로 발전했다.",
+    "zh": "沙姆斯丁·伊利亚斯·沙统一孟加拉全境，建立了独立的孟加拉苏丹国。此后两个世纪，苏丹国以穆斯林细布和兼容并蓄的宫廷文化著称，成为繁荣的贸易强国。",
+    "ja": "シャムスッディーン・イリヤース・シャーがベンガル全域を統一し、独立したベンガル・スルターン朝を打ち立てた。同朝は以後2世紀にわたり、モスリン織物と国際色豊かな宮廷文化で知られる交易国家として栄えた。"
+   }
+  },
+  {
+   "year": 1353,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Firuz Shah Tughlaq fails to retake Bengal",
+    "ko": "피루즈 샤 투글루크의 벵골 탈환 실패",
+    "zh": "菲鲁兹·沙·图格鲁克收复孟加拉失败",
+    "ja": "フィールーズ・シャー・トゥグルクのベンガル奪回失敗"
+   },
+   "description": {
+    "en": "In 1353 the Delhi sultan Firuz Shah Tughlaq invaded Bengal and besieged Ilyas Shah in the fortress of Ekdala, but was forced to withdraw by the monsoon and the strength of its defences. A second campaign later in the decade also failed, and Delhi effectively accepted the independence of the Bengal Sultanate.",
+    "ko": "1353년 델리 술탄 피루즈 샤 투글루크는 벵골을 침공해 에크달라 요새의 일리야스 샤를 포위했으나, 몬순과 견고한 방어 때문에 철수할 수밖에 없었다. 그 뒤 10년 안에 벌인 두 번째 원정도 실패했고, 델리는 사실상 벵골 술탄국의 독립을 인정했다.",
+    "zh": "1353年，德里苏丹菲鲁兹·沙·图格鲁克入侵孟加拉，在埃克达拉要塞围攻伊利亚斯·沙，但因季风和守军顽强而被迫撤退。此后十年内的第二次远征同样失败，德里实际上承认了孟加拉苏丹国的独立。",
+    "ja": "1353年、デリーのスルターン、フィールーズ・シャー・トゥグルクはベンガルに侵攻し、エクダラ城塞のイリヤース・シャーを包囲したが、モンスーンと堅固な守りのために撤退を余儀なくされた。その後の10年のうちに行われた2度目の遠征も失敗し、デリーは事実上ベンガル・スルターン朝の独立を認めた。"
+   }
+  },
+  {
+   "year": 1414,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Bengal envoys bring a giraffe to Ming China",
+    "ko": "벵골 사절, 명나라에 기린을 바치다",
+    "zh": "孟加拉使节向明朝进献长颈鹿",
+    "ja": "ベンガルの使節、明に麒麟（キリン）を献上"
+   },
+   "description": {
+    "en": "In the early 15th century the Bengal Sultanate exchanged several embassies with the Ming court, and the voyages of Zheng He's fleets called at Bengal. In 1414 Bengali envoys presented the Yongle Emperor with a giraffe, which was celebrated at court as an auspicious qilin. Chinese accounts such as Ma Huan's described Bengal's wealth and textile trade.",
+    "ko": "15세기 초 벵골 술탄국은 명나라 조정과 여러 차례 사절을 주고받았고, 정화의 함대도 벵골에 기항했다. 1414년 벵골 사절은 영락제에게 기린(지라프)을 바쳤는데, 이는 궁정에서 상서로운 기린(麒麟)으로 칭송되었다. 마환의 기록 등 중국 문헌은 벵골의 부와 직물 교역을 묘사했다.",
+    "zh": "15世纪初，孟加拉苏丹国与明朝多次互派使节，郑和船队也曾停靠孟加拉（榜葛剌）。1414年，榜葛剌使节向永乐皇帝进献长颈鹿，宫廷将其视为祥瑞“麒麟”而大加庆贺。马欢《瀛涯胜览》等中国文献记述了榜葛剌的富庶与纺织品贸易。",
+    "ja": "15世紀初め、ベンガル・スルターン朝は明の朝廷と何度も使節を交わし、鄭和の艦隊もベンガルに寄港した。1414年、ベンガルの使節は永楽帝にキリンを献上し、宮廷では瑞獣「麒麟」として祝われた。馬歓の『瀛涯勝覧』などの中国の記録は、ベンガルの富と織物交易を伝えている。"
+   }
+  },
+  {
+   "year": 1415,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Raja Ganesha and Jalaluddin Muhammad Shah",
+    "ko": "라자 가네샤와 잘랄루딘 무함마드 샤",
+    "zh": "罗阇·伽内什与贾拉勒丁·穆罕默德·沙",
+    "ja": "ラージャ・ガネーシャとジャラールッディーン・ムハンマド・シャー"
+   },
+   "description": {
+    "en": "Around 1414–1415 Raja Ganesha, a powerful Hindu landholder, took control of the Bengal Sultanate. His son Jadu converted to Islam and ruled as Jalaluddin Muhammad Shah, whose reign blended Islamic kingship with local Bengali traditions in coinage, architecture and court culture. The Ilyas Shahi line was restored in the 1430s.",
+    "ko": "1414~1415년경 유력한 힌두 지주 라자 가네샤가 벵골 술탄국의 실권을 장악했다. 그의 아들 자두는 이슬람으로 개종해 잘랄루딘 무함마드 샤로 즉위했으며, 그의 치세는 주화·건축·궁정 문화에서 이슬람 왕권과 벵골 현지 전통을 융합했다. 일리야스 샤히 왕가는 1430년대에 복위했다.",
+    "zh": "约1414至1415年，势力强大的印度教地主罗阇·伽内什夺取了孟加拉苏丹国的实权。其子贾杜皈依伊斯兰教，以贾拉勒丁·穆罕默德·沙之名即位，其统治在钱币、建筑和宫廷文化上融合了伊斯兰王权与孟加拉本土传统。伊利亚斯·沙希家族于1430年代复辟。",
+    "ja": "1414～1415年頃、有力なヒンドゥー教徒の地主ラージャ・ガネーシャがベンガル・スルターン朝の実権を握った。その子ジャドゥはイスラームに改宗してジャラールッディーン・ムハンマド・シャーとして即位し、その治世は貨幣、建築、宮廷文化においてイスラームの王権とベンガル在地の伝統を融合させた。イリヤース・シャーヒー家は1430年代に復位した。"
+   }
+  },
+  {
+   "year": 1459,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Khan Jahan Ali and the mosque city of Bagerhat",
+    "ko": "칸 자한 알리와 바게르하트의 모스크 도시",
+    "zh": "汗·贾汉·阿里与巴盖尔哈特清真寺城",
+    "ja": "ハーン・ジャハーン・アリーとバゲルハットのモスク都市"
+   },
+   "description": {
+    "en": "In the mid-15th century the Muslim leader and saint Khan Jahan Ali settled and developed the forested south-west near the Sundarbans, founding the town of Khalifatabad at present-day Bagerhat with mosques, roads and water tanks. Its Sixty Dome Mosque is the largest medieval mosque in Bangladesh. Khan Jahan died in 1459, and Bagerhat became a UNESCO World Heritage Site in 1985.",
+    "ko": "15세기 중엽 무슬림 지도자이자 성자인 칸 자한 알리는 순다르반스 인근 숲이 우거진 남서부를 개척해 오늘날 바게르하트에 모스크·도로·저수지를 갖춘 칼리파타바드를 세웠다. 그곳의 60돔 모스크는 방글라데시 최대의 중세 모스크다. 칸 자한은 1459년에 죽었고, 바게르하트는 1985년 유네스코 세계유산이 되었다.",
+    "zh": "15世纪中叶，穆斯林首领兼圣人汗·贾汉·阿里开发了孙德尔本斯附近森林密布的西南地区，在今巴盖尔哈特建立了拥有清真寺、道路和水池的哈利法塔巴德城。城中的六十圆顶清真寺是孟加拉国最大的中世纪清真寺。汗·贾汉卒于1459年，巴盖尔哈特于1985年列入联合国教科文组织世界遗产。",
+    "ja": "15世紀半ば、ムスリムの指導者で聖者でもあるハーン・ジャハーン・アリーはシュンドルボン近くの森に覆われた南西部を開発し、現在のバゲルハットにモスクや道路、貯水池を備えたハリーファターバードの町を築いた。その六十ドーム・モスクはバングラデシュ最大の中世モスクである。ハーン・ジャハーンは1459年に没し、バゲルハットは1985年にユネスコ世界遺産となった。"
+   }
+  },
+  {
+   "year": 1487,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Habshi rule in Bengal",
+    "ko": "벵골의 합시 왕조",
+    "zh": "孟加拉的哈布希统治",
+    "ja": "ベンガルのハブシー朝"
+   },
+   "description": {
+    "en": "In 1487 Abyssinian (Habshi) palace guards and officers, who had been recruited into the sultan's service, killed the last Ilyas Shahi sultan and seized the throne. A rapid succession of Habshi sultans followed amid assassinations and instability, until the nobles raised Alauddin Husain Shah to power in 1494.",
+    "ko": "1487년 술탄의 군대에 기용되었던 아비시니아계(합시) 궁정 근위병과 관리들이 일리야스 샤히 왕조의 마지막 술탄을 죽이고 왕위를 차지했다. 이후 암살과 불안정 속에 합시 술탄들이 잇따라 교체되었고, 1494년 귀족들이 알라우딘 후세인 샤를 옹립하면서 끝났다.",
+    "zh": "1487年，受雇为苏丹效力的阿比西尼亚裔（哈布希）宫廷卫兵和军官杀死伊利亚斯·沙希王朝最后一位苏丹，夺取王位。此后在暗杀与动荡中哈布希苏丹频繁更替，直到1494年贵族们拥立阿拉丁·侯赛因·沙为止。",
+    "ja": "1487年、スルターンに仕えるため登用されていたアビシニア系（ハブシー）の宮廷近衛兵や将校が、イリヤース・シャーヒー朝最後のスルターンを殺して王位を奪った。その後、暗殺と混乱の中でハブシーのスルターンが次々と交代し、1494年に貴族たちがアラーウッディーン・フサイン・シャーを擁立して終わった。"
+   }
+  },
+  {
+   "year": 1494,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Alauddin Husain Shah founds the Hussain Shahi dynasty",
+    "ko": "알라우딘 후세인 샤, 후세인 샤히 왕조를 열다",
+    "zh": "阿拉丁·侯赛因·沙创立侯赛因·沙希王朝",
+    "ja": "アラーウッディーン・フサイン・シャー、フサイン・シャーヒー朝を開く"
+   },
+   "description": {
+    "en": "Alauddin Husain Shah, raised to the throne in 1494, restored stability and expanded the sultanate's frontiers. His reign and that of his son Nusrat Shah are remembered as a high point of Bengal's prosperity and culture; under their officials, such as the governors of Chittagong, Bengali versions of the Mahabharata were composed, and the Vaishnava movement of Chaitanya flourished in the same era.",
+    "ko": "1494년 즉위한 알라우딘 후세인 샤는 안정을 되찾고 술탄국의 영역을 넓혔다. 그와 아들 누스라트 샤의 치세는 벵골의 번영과 문화의 정점으로 기억되며, 치타공 총독 등 그들의 관리들 아래에서 『마하바라타』의 벵골어 판본이 지어졌고, 같은 시기 차이타냐의 비슈누파 운동이 번성했다.",
+    "zh": "1494年即位的阿拉丁·侯赛因·沙恢复了稳定并扩展了苏丹国的疆域。他及其子努斯拉特·沙的统治被视为孟加拉繁荣与文化的高峰；在吉大港总督等官员的资助下，《摩诃婆罗多》的孟加拉语版本问世，同一时期柴坦尼亚的毗湿奴派运动也蓬勃发展。",
+    "ja": "1494年に即位したアラーウッディーン・フサイン・シャーは安定を取り戻し、スルターン国の領域を広げた。彼とその子ヌスラト・シャーの治世はベンガルの繁栄と文化の頂点として記憶され、チッタゴン総督ら彼らの官人のもとで『マハーバーラタ』のベンガル語版が作られ、同じ時代にチャイタニヤのヴィシュヌ派運動が栄えた。"
+   }
+  },
+  {
+   "year": 1537,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Portuguese trading posts at Chittagong",
+    "ko": "치타공의 포르투갈 교역 거점",
+    "zh": "葡萄牙人在吉大港设立商站",
+    "ja": "チッタゴンのポルトガル交易拠点"
+   },
+   "description": {
+    "en": "Facing the threat of Sher Shah, Sultan Ghiyasuddin Mahmud Shah sought Portuguese help and in 1537 allowed them to establish customs posts and settlements at Chittagong, which they called Porto Grande, and at Satgaon. Portuguese traders and mercenaries became a lasting presence on the Bengal coast, later serving the Arakanese kings.",
+    "ko": "셰르 샤의 위협에 직면한 술탄 기야수딘 마흐무드 샤는 포르투갈의 도움을 구했고, 1537년 그들이 '포르투 그란데'라 부른 치타공과 사트가온에 세관과 거류지를 세우도록 허락했다. 포르투갈 상인과 용병은 벵골 해안에 오래 머물렀고, 후에는 아라칸 왕들을 위해 일했다.",
+    "zh": "面对舍尔沙的威胁，苏丹吉亚斯丁·马哈茂德·沙寻求葡萄牙人援助，并于1537年准许他们在被称为“大港”（Porto Grande）的吉大港以及萨特冈设立海关和居留地。葡萄牙商人和雇佣兵从此在孟加拉沿海长期存在，后来又为若开国王效力。",
+    "ja": "シェール・シャーの脅威に直面したスルターンのギヤースッディーン・マフムード・シャーはポルトガルの援助を求め、1537年に彼らが「ポルト・グランデ」と呼んだチッタゴンとサトガオンに税関と居留地を設けることを許した。ポルトガルの商人や傭兵はベンガル沿岸に長く根を下ろし、のちにはアラカン王に仕えた。"
+   }
+  },
+  {
+   "year": 1538,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Sher Shah captures Gaur",
+    "ko": "셰르 샤의 가우르 점령",
+    "zh": "舍尔沙攻占高尔",
+    "ja": "シェール・シャー、ガウルを占領"
+   },
+   "description": {
+    "en": "In 1538 the Afghan leader Sher Khan (later Sher Shah Suri) captured Gaur, the capital of the Bengal Sultanate, ending the Hussain Shahi dynasty. After briefly losing it to the Mughal emperor Humayun, he defeated Humayun at Chausa in 1539 and at Kannauj in 1540, incorporating Bengal into his new Sur Empire.",
+    "ko": "1538년 아프간 지도자 셰르 칸(후의 셰르 샤 수르)은 벵골 술탄국의 수도 가우르를 점령해 후세인 샤히 왕조를 끝냈다. 무굴 황제 후마윤에게 잠시 빼앗겼으나 1539년 차우사와 1540년 카나우지에서 후마윤을 격파하고 벵골을 새로운 수르 제국에 편입했다.",
+    "zh": "1538年，阿富汗首领舍尔·汗（后来的舍尔沙·苏尔）攻占孟加拉苏丹国都城高尔，终结了侯赛因·沙希王朝。他一度被莫卧儿皇帝胡马雍夺回此城，但于1539年在乔萨、1540年在曲女城击败胡马雍，将孟加拉并入新建的苏尔帝国。",
+    "ja": "1538年、アフガン人の指導者シェール・ハーン（のちのシェール・シャー・スール）はベンガル・スルターン朝の都ガウルを占領し、フサイン・シャーヒー朝を終わらせた。一時ムガル皇帝フマーユーンに奪われたが、1539年にチャウサ、1540年にカナウジでフマーユーンを破り、ベンガルを新たなスール朝に組み込んだ。"
+   }
+  },
+  {
+   "year": 1576,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Mughal Conquest of Bengal",
+    "ko": "무굴 제국의 벵골 정복",
+    "zh": "莫卧儿帝国征服孟加拉",
+    "ja": "ムガル帝国によるベンガル征服"
+   },
+   "description": {
+    "en": "Akbar's armies defeated the last sultan at Rajmahal, absorbing Bengal into the Mughal Empire. The Bengal Subah grew so wealthy it was called the 'Paradise of Nations', and Dhaka thrived as its capital.",
+    "ko": "악바르 황제의 군대가 라지마할에서 마지막 술탄을 격파하고 벵골을 무굴 제국에 편입시켰다. 벵골 지방(수바)은 '만국의 낙원'이라 불릴 만큼 부유해졌고, 다카는 그 중심 도시로 번영했다.",
+    "zh": "阿克巴大帝的军队在拉杰马哈尔击败末代苏丹，将孟加拉并入莫卧儿帝国。孟加拉省富庶繁华，被誉为“万国乐园”，达卡也作为省会兴盛一时。",
+    "ja": "アクバル帝の軍がラージマハルで最後のスルターンを破り、ベンガルはムガル帝国に組み込まれた。ベンガル州（スーバ）は「諸国民の楽園」と称されるほど豊かになり、ダッカはその中心都市として繁栄した。"
+   }
+  },
+  {
+   "year": 1586,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Ralph Fitch visits Sonargaon",
+    "ko": "랄프 피치의 소나르가온 방문",
+    "zh": "拉尔夫·菲奇访问索纳尔冈",
+    "ja": "ラルフ・フィッチ、ショナルガオンを訪れる"
+   },
+   "description": {
+    "en": "The English merchant Ralph Fitch, one of the first Englishmen to travel through India, visited Bengal in the 1580s and reached Sonargaon around 1586. He described it as a town producing the best and finest cotton cloth in India and noted that its region was ruled by Isa Khan, chief of the local lords who resisted the Mughals.",
+    "ko": "인도를 여행한 최초의 영국인 가운데 하나인 상인 랄프 피치는 1580년대 벵골을 방문해 1586년경 소나르가온에 이르렀다. 그는 이곳을 인도 최고의 고운 면직물을 생산하는 도시로 묘사했으며, 이 지역이 무굴에 저항한 현지 토호들의 우두머리 이사 칸의 지배 아래 있다고 기록했다.",
+    "zh": "英国商人拉尔夫·菲奇是最早游历印度的英国人之一，他于1580年代来到孟加拉，约1586年抵达索纳尔冈。他称此地出产全印度最好、最精细的棉布，并记载该地区由抵抗莫卧儿的地方豪强首领伊萨·汗统治。",
+    "ja": "インドを旅した最初期のイギリス人の一人である商人ラルフ・フィッチは、1580年代にベンガルを訪れ、1586年頃ショナルガオンに達した。彼はこの町をインドで最上かつ最も繊細な綿布を産する町と描き、この地方がムガルに抵抗する在地領主の首領イーサー・ハーンの支配下にあると記した。"
+   }
+  },
+  {
+   "year": 1610,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Dhaka becomes the capital of Mughal Bengal",
+    "ko": "다카, 무굴 벵골의 수도가 되다",
+    "zh": "达卡成为莫卧儿孟加拉的首府",
+    "ja": "ダッカ、ムガル領ベンガルの首都となる"
+   },
+   "description": {
+    "en": "The Mughal governor Islam Khan Chishti, sent by Emperor Jahangir to subdue the Baro-Bhuyans, moved the provincial capital to Dhaka around 1610 and renamed it Jahangirnagar. After defeating Musa Khan and the other eastern chiefs, he consolidated Mughal control over the delta. Dhaka grew into a major administrative, military and commercial city, the origin of the modern capital.",
+    "ko": "자항기르 황제가 바로 부이얀을 진압하라고 파견한 무굴 총독 이슬람 칸 치슈티는 1610년경 주도를 다카로 옮기고 이름을 자항기르나가르로 바꾸었다. 그는 무사 칸과 다른 동부 토호들을 물리친 뒤 삼각주에 대한 무굴의 지배를 굳혔다. 다카는 주요한 행정·군사·상업 도시로 성장했고, 이것이 오늘날 수도의 기원이 되었다.",
+    "zh": "受贾汉吉尔皇帝派遣、负责平定“十二地主”的莫卧儿总督伊斯兰·汗·奇什蒂，约于1610年将省会迁至达卡，并改名为贾汉吉尔纳加尔。他击败穆萨·汗等东部首领后，巩固了莫卧儿对三角洲的控制。达卡由此发展为重要的行政、军事和商业城市，成为今日首都的起源。",
+    "ja": "ジャハーンギール帝からバロ・ブイヤン平定のため派遣されたムガルの総督イスラーム・ハーン・チシュティーは、1610年頃に州都をダッカに移し、ジャハーンギールナガルと改名した。彼はムーサー・ハーンら東部の首長を破り、デルタに対するムガルの支配を固めた。ダッカは主要な行政・軍事・商業都市に成長し、現在の首都の起源となった。"
+   }
+  },
+  {
+   "year": 1666,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Shaista Khan conquers Chittagong",
+    "ko": "샤이스타 칸의 치타공 정복",
+    "zh": "沙伊斯塔·汗征服吉大港",
+    "ja": "シャイスタ・ハーンのチッタゴン征服"
+   },
+   "description": {
+    "en": "In 1666 the Mughal governor Shaista Khan sent a fleet and army that captured Chittagong from the Arakanese kingdom of Mrauk U, after first winning over the Portuguese freebooters who had served Arakan. The conquest ended decades of Arakanese-Portuguese slave raids on the lower delta, and Chittagong was renamed Islamabad and incorporated into Mughal Bengal.",
+    "ko": "1666년 무굴 총독 샤이스타 칸은 아라칸에 봉사하던 포르투갈 해적들을 먼저 회유한 뒤 함대와 군대를 보내 므라우크우 왕국으로부터 치타공을 빼앗았다. 이 정복으로 삼각주 하류에 대한 아라칸·포르투갈의 수십 년에 걸친 노예 약탈이 끝났고, 치타공은 이슬라마바드로 개칭되어 무굴 벵골에 편입되었다.",
+    "zh": "1666年，莫卧儿总督沙伊斯塔·汗先争取了曾为若开效力的葡萄牙海盗，随后派遣舰队和军队从妙乌王国手中夺取吉大港。这次征服结束了若开人与葡萄牙人数十年来对三角洲下游的掳人劫掠，吉大港改名伊斯兰堡，并入莫卧儿孟加拉。",
+    "ja": "1666年、ムガルの総督シャイスタ・ハーンはアラカンに仕えていたポルトガル人の海賊をまず味方に付けたうえで艦隊と軍を送り、ミャウウー王国からチッタゴンを奪った。この征服により、デルタ下流に対するアラカンとポルトガル人による数十年来の奴隷狩りは終わり、チッタゴンはイスラーマーバードと改名されてムガル領ベンガルに編入された。"
+   }
+  },
+  {
+   "year": 1678,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Construction of Lalbagh Fort begins",
+    "ko": "랄바그 성 건설 시작",
+    "zh": "拉尔巴格堡开工兴建",
+    "ja": "ラールバーグ城の建設開始"
+   },
+   "description": {
+    "en": "In 1678 Prince Muhammad Azam, son of Emperor Aurangzeb and then governor of Bengal, began building a fort palace at Lalbagh in Dhaka. Work continued under Shaista Khan but was abandoned unfinished after the death of his daughter Pari Bibi, whose tomb stands inside. The fort remains one of Dhaka's best-known Mughal monuments.",
+    "ko": "1678년 아우랑제브 황제의 아들이자 당시 벵골 총독이던 무함마드 아잠 왕자가 다카의 랄바그에 성채 궁전을 짓기 시작했다. 공사는 샤이스타 칸 때 이어졌으나, 그의 딸 파리 비비가 죽은 뒤 미완성인 채 중단되었고 성 안에는 그녀의 묘가 있다. 이 성은 지금도 다카에서 가장 잘 알려진 무굴 기념물 가운데 하나다.",
+    "zh": "1678年，奥朗则布皇帝之子、时任孟加拉总督的穆罕默德·阿扎姆王子开始在达卡的拉尔巴格修建城堡宫殿。工程在沙伊斯塔·汗任内继续，但在其女帕丽·比比去世后未完工即告中止，城内建有她的陵墓。该城堡至今仍是达卡最著名的莫卧儿建筑之一。",
+    "ja": "1678年、アウラングゼーブ帝の子で当時ベンガル総督だったムハンマド・アーザム王子は、ダッカのラールバーグに城塞宮殿の建設を始めた。工事はシャイスタ・ハーンのもとで続いたが、彼の娘パリ・ビビの死後に未完成のまま放棄され、城内には彼女の廟が残る。この城は今もダッカで最もよく知られたムガル建築の一つである。"
+   }
+  },
+  {
+   "year": 1717,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Murshid Quli Khan and the move to Murshidabad",
+    "ko": "무르시드 쿨리 칸과 무르시다바드 천도",
+    "zh": "穆尔希德·库利·汗与迁都穆尔希达巴德",
+    "ja": "ムルシド・クリー・ハーンとムルシダーバードへの遷都"
+   },
+   "description": {
+    "en": "Murshid Quli Khan, appointed diwan of Bengal by Aurangzeb, had moved the revenue office from Dhaka to Murshidabad in the early 1700s; in 1717 he became governor (nawab) and made Murshidabad the provincial capital. Dhaka lost its status as capital, and Bengal under his hereditary successors became virtually autonomous from the weakening Mughal court.",
+    "ko": "아우랑제브가 벵골의 디완(재무관)으로 임명한 무르시드 쿨리 칸은 1700년대 초 세무 관청을 다카에서 무르시다바드로 옮겼고, 1717년 총독(나와브)이 되어 무르시다바드를 주도로 삼았다. 다카는 수도의 지위를 잃었고, 그의 세습 후계자들 아래 벵골은 쇠약해진 무굴 조정으로부터 사실상 자치하게 되었다.",
+    "zh": "被奥朗则布任命为孟加拉“迪万”（财政官）的穆尔希德·库利·汗，在1700年代初已将税务机构从达卡迁往穆尔希达巴德；1717年他出任总督（纳瓦卜），将穆尔希达巴德定为省会。达卡失去首府地位，孟加拉在其世袭继承者治下实际上脱离日渐衰弱的莫卧儿朝廷而自治。",
+    "ja": "アウラングゼーブによってベンガルのディーワーン（財務長官）に任じられたムルシド・クリー・ハーンは、1700年代初めに徴税機関をダッカからムルシダーバードに移しており、1717年に総督（ナワーブ）となるとムルシダーバードを州都とした。ダッカは首都の地位を失い、ベンガルは彼の世襲の後継者のもとで、衰えたムガル宮廷から事実上自立した。"
+   }
+  },
+  {
+   "year": 1740,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Alivardi Khan seizes the nawabship",
+    "ko": "알리바르디 칸의 나와브 지위 장악",
+    "zh": "阿里瓦尔迪·汗夺取纳瓦卜之位",
+    "ja": "アリーヴァルディー・ハーン、太守位を奪う"
+   },
+   "description": {
+    "en": "In 1740 Alivardi Khan, deputy governor of Bihar, defeated and killed Nawab Sarfaraz Khan at the Battle of Giria and took power in Bengal. His reign was dominated by repeated Maratha invasions in the 1740s, which devastated western Bengal, but he kept the European companies in check. His grandson Siraj ud-Daulah succeeded him in 1756.",
+    "ko": "1740년 비하르의 부총독 알리바르디 칸은 기리아 전투에서 나와브 사르파라즈 칸을 격파해 죽이고 벵골의 권력을 잡았다. 그의 치세는 서벵골을 황폐하게 한 1740년대 마라타의 거듭된 침입에 시달렸지만, 그는 유럽 회사들을 견제했다. 1756년 손자 시라지 웃 다울라가 그의 뒤를 이었다.",
+    "zh": "1740年，比哈尔副总督阿里瓦尔迪·汗在吉里亚战役中击败并杀死纳瓦卜萨尔法拉兹·汗，夺取孟加拉政权。他在位期间饱受1740年代马拉塔人反复入侵之苦，西孟加拉遭到严重破坏，但他对欧洲公司保持了约束。1756年，其外孙西拉杰·乌德·达乌拉继位。",
+    "ja": "1740年、ビハールの副総督アリーヴァルディー・ハーンはギリアの戦いで太守サルファラーズ・ハーンを破って殺し、ベンガルの権力を握った。彼の治世は西ベンガルを荒廃させた1740年代のマラーターの度重なる侵入に悩まされたが、彼は欧州の会社を抑え込んだ。1756年に孫のシラージュ・ウッダウラが跡を継いだ。"
+   }
+  },
+  {
+   "year": 1757,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of Plassey",
+    "ko": "플라시 전투",
+    "zh": "普拉西战役",
+    "ja": "プラッシーの戦い"
+   },
+   "description": {
+    "en": "Robert Clive's East India Company forces defeated Nawab Siraj ud-Daulah at Plassey, beginning British colonial dominance over Bengal and eventually all of India.",
+    "ko": "로버트 클라이브가 이끄는 영국 동인도회사 군이 플라시에서 나와브 시라지 웃 다울라를 격파했다. 이로써 벵골, 나아가 인도 전역에 대한 영국 식민 지배가 시작되었다.",
+    "zh": "罗伯特·克莱武率领的英国东印度公司军队在普拉西击败纳瓦卜西拉杰·乌德·达乌拉，英国对孟加拉乃至整个印度的殖民统治由此拉开序幕。",
+    "ja": "ロバート・クライヴ率いるイギリス東インド会社軍がプラッシーで太守シラージュ・ウッダウラを破った。これを機に、ベンガルさらにはインド全土に対するイギリスの植民地支配が始まった。"
+   }
+  },
+  {
+   "year": 1763,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fakir-Sannyasi rebellion",
+    "ko": "파키르·산야시 반란",
+    "zh": "法基尔—桑雅西起义",
+    "ja": "ファキール・サンニャーシーの反乱"
+   },
+   "description": {
+    "en": "From the 1760s bands of Muslim fakirs and Hindu sannyasis, wandering ascetics who also traded and lent money, clashed with the East India Company in northern Bengal, attacking Company posts and resisting new revenue demands. Led by figures such as Majnu Shah and Bhawani Pathak, the resistance continued intermittently for several decades until around 1800.",
+    "ko": "1760년대부터 교역과 대부도 하던 떠돌이 수행자인 무슬림 파키르와 힌두 산야시 무리가 북부 벵골에서 동인도회사와 충돌하며 회사의 거점을 공격하고 새로운 세금 요구에 저항했다. 마지누 샤, 바와니 파타크 등이 이끈 이 저항은 1800년 무렵까지 수십 년간 간헐적으로 이어졌다.",
+    "zh": "从1760年代起，兼营贸易和放贷的游方苦行者——穆斯林法基尔和印度教桑雅西——在孟加拉北部与东印度公司发生冲突，袭击公司据点并抵制新的税收要求。在马吉努·沙、巴瓦尼·帕塔克等人领导下，这场抵抗断断续续持续了数十年，直到1800年前后。",
+    "ja": "1760年代から、交易や金貸しも営む遊行の行者であるムスリムのファキールとヒンドゥー教のサンニャーシーの集団が北部ベンガルで東インド会社と衝突し、会社の拠点を襲撃して新たな徴税要求に抵抗した。マジュヌー・シャーやバワーニー・パータクらが率いたこの抵抗は、1800年頃まで数十年にわたり断続的に続いた。"
+   }
+  },
+  {
+   "year": 1765,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "East India Company receives the diwani",
+    "ko": "동인도회사의 디와니 획득",
+    "zh": "东印度公司获得迪瓦尼权",
+    "ja": "東インド会社、ディーワーニーを獲得"
+   },
+   "description": {
+    "en": "After defeating the combined forces of the nawab of Bengal, the nawab of Awadh and the Mughal emperor at Buxar in 1764, the East India Company obtained from Emperor Shah Alam II in 1765 the diwani, the right to collect the revenues of Bengal, Bihar and Orissa. The Company thus became the effective ruler of Bengal, while the nawab retained only nominal authority.",
+    "ko": "1764년 북사르에서 벵골 나와브, 아와드 나와브, 무굴 황제의 연합군을 물리친 동인도회사는 1765년 샤 알람 2세 황제로부터 벵골·비하르·오리사의 세금을 징수할 권리인 디와니를 얻었다. 이로써 회사는 벵골의 실질적 지배자가 되었고, 나와브에게는 명목상의 권위만 남았다.",
+    "zh": "1764年在布克萨尔击败孟加拉纳瓦卜、奥德纳瓦卜和莫卧儿皇帝的联军之后，东印度公司于1765年从沙·阿拉姆二世皇帝手中获得了孟加拉、比哈尔和奥里萨的征税权（迪瓦尼）。公司由此成为孟加拉的实际统治者，纳瓦卜仅保留名义上的权威。",
+    "ja": "1764年にブクサールでベンガル太守、アワド太守、ムガル皇帝の連合軍を破った東インド会社は、1765年にシャー・アーラム2世からベンガル・ビハール・オリッサの徴税権（ディーワーニー）を獲得した。これにより会社はベンガルの事実上の支配者となり、太守には名目上の権威しか残らなかった。"
+   }
+  },
+  {
+   "year": 1770,
+   "qid": null,
+   "importance": 1,
+   "category": "disaster",
+   "title": {
+    "en": "Great Bengal Famine of 1770",
+    "ko": "1770년 벵골 대기근",
+    "zh": "1770年孟加拉大饥荒",
+    "ja": "1770年のベンガル大飢饉"
+   },
+   "description": {
+    "en": "Following crop failures in 1768–1769, a catastrophic famine struck Bengal in 1770. Contemporary British estimates held that about a third of the population died, often given as around ten million people, although modern historians debate the figures. The Company's rigid revenue collection and the disruption of the grain trade worsened the disaster, which devastated the rural economy for years.",
+    "ko": "1768~1769년의 흉작에 이어 1770년 벵골에 참혹한 대기근이 닥쳤다. 당시 영국 측 추산으로는 인구의 약 3분의 1, 흔히 약 1천만 명이 죽었다고 하지만, 현대 역사가들은 그 수치를 놓고 논쟁한다. 회사의 경직된 징세와 곡물 교역의 혼란이 재앙을 키웠고, 농촌 경제는 수년간 황폐해졌다.",
+    "zh": "继1768至1769年歉收之后，1770年孟加拉爆发了灾难性的饥荒。据当时英方估计，约有三分之一人口死亡，常被引用的数字约为一千万人，但现代历史学家对这些数字仍有争论。东印度公司僵硬的征税和粮食贸易的混乱加剧了灾难，农村经济多年凋敝。",
+    "ja": "1768～1769年の凶作に続き、1770年にベンガルを壊滅的な飢饉が襲った。当時のイギリス側の推計では人口の約3分の1、しばしば約1000万人が死亡したとされるが、現代の歴史家はその数字について議論している。会社の硬直的な徴税と穀物取引の混乱が災害を悪化させ、農村経済は何年にもわたって荒廃した。"
+   }
+  },
+  {
+   "year": 1793,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Permanent Settlement",
+    "ko": "영구 정액제",
+    "zh": "永久定居法（永久土地税制）",
+    "ja": "永代ザミンダーリー制（パーマネント・セトルメント）"
+   },
+   "description": {
+    "en": "In 1793 Governor-General Lord Cornwallis introduced the Permanent Settlement, fixing in perpetuity the land revenue owed by zamindars and recognising them as proprietors of the land. It created a powerful, largely Hindu landlord class in Bengal, while the mostly Muslim peasantry of eastern Bengal bore heavy rents. The system shaped rural society until its abolition after 1950.",
+    "ko": "1793년 콘월리스 총독은 영구 정액제를 도입해 자민다르가 낼 지세를 영구히 고정하고 그들을 토지 소유자로 인정했다. 이는 벵골에 힌두교도 중심의 강력한 지주 계층을 만들었고, 대부분 무슬림인 동벵골 농민은 무거운 소작료를 짊어졌다. 이 제도는 1950년 이후 폐지될 때까지 농촌 사회를 규정했다.",
+    "zh": "1793年，总督康沃利斯勋爵推行永久定居法，将柴明达尔应缴的土地税永久固定，并承认他们为土地所有者。这在孟加拉造就了一个以印度教徒为主的强大地主阶层，而东孟加拉以穆斯林为主的农民则承受沉重的地租。这一制度塑造了农村社会，直到1950年后才被废除。",
+    "ja": "1793年、総督コーンウォリスは永代ザミンダーリー制を導入し、ザミンダールが納める地税を永久に固定して彼らを土地の所有者と認めた。これによりベンガルにはヒンドゥー教徒中心の強力な地主層が生まれ、東ベンガルの多くはムスリムの農民が重い地代を負った。この制度は1950年以降に廃止されるまで農村社会を規定した。"
+   }
+  },
+  {
+   "year": 1820,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Haji Shariatullah and the Faraizi movement",
+    "ko": "하지 샤리아툴라와 파라이지 운동",
+    "zh": "哈吉·沙里亚图拉与法拉伊兹运动",
+    "ja": "ハージー・シャリーアトゥッラーとファラーイズィー運動"
+   },
+   "description": {
+    "en": "Around 1818–1820 Haji Shariatullah of Faridpur, returning from many years in Mecca, launched the Faraizi movement calling on Bengali Muslims to observe their obligatory religious duties and abandon practices he considered un-Islamic. Under his son Dudu Miyan the movement also organised peasants against oppressive zamindars and indigo planters in eastern Bengal.",
+    "ko": "1818~1820년경 오랜 메카 체류에서 돌아온 파리드푸르의 하지 샤리아툴라는 벵골 무슬림에게 의무적 종교 의례를 지키고 비이슬람적이라 여긴 관행을 버리라고 촉구하는 파라이지 운동을 시작했다. 그의 아들 두두 미얀 아래에서 이 운동은 동벵골에서 억압적인 자민다르와 인디고 농장주에 맞서 농민을 조직하기도 했다.",
+    "zh": "约1818至1820年，在麦加旅居多年后归来的法里德布尔人哈吉·沙里亚图拉发起法拉伊兹运动，号召孟加拉穆斯林履行宗教主命功课，摒弃他认为不合伊斯兰教的习俗。在其子杜杜·米扬领导下，该运动还在东孟加拉组织农民反抗压迫性的柴明达尔和蓝靛种植园主。",
+    "ja": "1818～1820年頃、長年のメッカ滞在から戻ったファリドプルのハージー・シャリーアトゥッラーは、ベンガルのムスリムに義務的な宗教的務めを守り、非イスラーム的とみなした慣行を捨てるよう呼びかけるファラーイズィー運動を始めた。息子ドゥドゥ・ミヤーンのもとで、運動は東ベンガルで抑圧的なザミンダールや藍の農園主に対抗する農民の組織化も行った。"
+   }
+  },
+  {
+   "year": 1824,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Ramu and the First Anglo-Burmese War",
+    "ko": "라무 전투와 제1차 영국·미얀마 전쟁",
+    "zh": "拉穆之战与第一次英缅战争",
+    "ja": "ラムーの戦いと第一次英緬戦争"
+   },
+   "description": {
+    "en": "Border tensions between British Bengal and the Burmese kingdom, which had conquered Arakan in 1784, led to the First Anglo-Burmese War in 1824. In May 1824 a Burmese army defeated a British force at Ramu in the Chittagong district, causing alarm in Chittagong and Calcutta. The war ended in 1826 with Britain annexing Arakan and Assam.",
+    "ko": "1784년 아라칸을 정복한 미얀마 왕국과 영국령 벵골 사이의 국경 긴장은 1824년 제1차 영국·미얀마 전쟁으로 이어졌다. 1824년 5월 미얀마군은 치타공 지역 라무에서 영국군을 격파해 치타공과 콜카타를 긴장시켰다. 전쟁은 1826년 영국이 아라칸과 아삼을 병합하며 끝났다.",
+    "zh": "英属孟加拉与1784年征服若开的缅甸王国之间的边境紧张，导致1824年爆发第一次英缅战争。1824年5月，缅军在吉大港地区的拉穆击败英军，令吉大港和加尔各答一片惊恐。战争于1826年结束，英国吞并了若开和阿萨姆。",
+    "ja": "1784年にアラカンを征服したビルマ王国とイギリス領ベンガルとの国境の緊張は、1824年の第一次英緬戦争につながった。1824年5月、ビルマ軍はチッタゴン地方のラムーでイギリス軍を破り、チッタゴンとカルカッタを動揺させた。戦争は1826年、イギリスがアラカンとアッサムを併合して終わった。"
+   }
+  },
+  {
+   "year": 1857,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "1857 uprising in Chittagong and Dhaka",
+    "ko": "1857년 치타공·다카의 봉기",
+    "zh": "1857年吉大港与达卡的起义",
+    "ja": "1857年のチッタゴンとダッカの蜂起"
+   },
+   "description": {
+    "en": "During the great Indian uprising of 1857, sepoys of the Bengal Army at Chittagong mutinied in November, while British troops attacked and disarmed the sepoys at Lalbagh in Dhaka. Captured rebels were hanged in Dhaka at the square now called Bahadur Shah Park. The revolt in eastern Bengal was suppressed, and in 1858 rule passed from the Company to the British Crown.",
+    "ko": "1857년 인도 대봉기 때 치타공의 벵골군 세포이들은 11월에 반란을 일으켰고, 영국군은 다카 랄바그의 세포이들을 공격해 무장 해제했다. 붙잡힌 반란자들은 오늘날 바하두르 샤 공원으로 불리는 다카의 광장에서 교수형에 처해졌다. 동벵골의 반란은 진압되었고, 1858년 통치권은 회사에서 영국 왕실로 넘어갔다.",
+    "zh": "1857年印度大起义期间，驻吉大港的孟加拉军印度兵于11月哗变，英军则在达卡拉尔巴格攻击并解除了印度兵的武装。被俘的起义者在达卡今称巴哈杜尔·沙公园的广场被绞死。东孟加拉的起义被镇压，1858年统治权由东印度公司移交英国王室。",
+    "ja": "1857年のインド大反乱の際、チッタゴンのベンガル軍のセポイは11月に反乱を起こし、イギリス軍はダッカのラールバーグでセポイを攻撃して武装解除した。捕らえられた反乱者は、現在バハドゥル・シャー公園と呼ばれるダッカの広場で絞首刑に処された。東ベンガルの反乱は鎮圧され、1858年に統治権は会社からイギリス王室へ移った。"
+   }
+  },
+  {
+   "year": 1859,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Indigo revolt",
+    "ko": "인디고 반란",
+    "zh": "蓝靛起义",
+    "ja": "インディゴ反乱（藍一揆）"
+   },
+   "description": {
+    "en": "In 1859–1860 peasants across Bengal, including the Jessore, Pabna and Faridpur regions, refused to grow indigo for European planters, who forced them into ruinous contracts. The revolt, publicised by Dinabandhu Mitra's play Nil Darpan, led the government to set up an Indigo Commission, and indigo cultivation in Bengal soon declined.",
+    "ko": "1859~1860년 제소르, 파브나, 파리드푸르 지역 등 벵골 전역의 농민들이 파멸적인 계약을 강요하던 유럽인 농장주를 위한 인디고 재배를 거부했다. 디나반두 미트라의 희곡 『닐 다르판』으로 널리 알려진 이 반란으로 정부는 인디고 위원회를 설치했고, 벵골의 인디고 재배는 곧 쇠퇴했다.",
+    "zh": "1859至1860年，包括杰索尔、帕布纳和法里德布尔等地在内的孟加拉各地农民，拒绝为强迫他们签订毁灭性契约的欧洲种植园主种植蓝靛。这场经迪纳班杜·米特拉的剧作《蓝靛之镜》广为人知的起义，促使政府成立蓝靛委员会，孟加拉的蓝靛种植随后迅速衰落。",
+    "ja": "1859～1860年、ジェソール、パブナ、ファリドプルなどを含むベンガル各地の農民が、破滅的な契約を強いる欧州人の農園主のための藍の栽培を拒否した。ディナバンドゥ・ミトラの戯曲『藍の鏡（ニール・ダルパン）』で広く知られたこの反乱を受けて政府は藍委員会を設け、ベンガルの藍栽培はまもなく衰退した。"
+   }
+  },
+  {
+   "year": 1873,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Pabna peasant uprising",
+    "ko": "파브나 농민 봉기",
+    "zh": "帕布纳农民起义",
+    "ja": "パブナ農民蜂起"
+   },
+   "description": {
+    "en": "In 1873 tenant farmers in the Yusufshahi pargana of Pabna district (around Sirajganj) formed an agrarian league to resist zamindars' illegal rent increases, refusing payments and fighting cases in court. The largely peaceful movement spread to other districts and contributed to the passage of the Bengal Tenancy Act of 1885, which strengthened tenants' rights.",
+    "ko": "1873년 파브나 지역 유수프샤히 파르가나(시라지간지 일대)의 소작농들은 자민다르의 불법적인 소작료 인상에 저항하기 위해 농민 연맹을 결성하고 납부를 거부하며 법정 투쟁을 벌였다. 대체로 평화적이었던 이 운동은 다른 지역으로 퍼졌고, 소작인의 권리를 강화한 1885년 벵골 소작법 제정에 기여했다.",
+    "zh": "1873年，帕布纳县优素福沙希区（锡拉杰甘杰一带）的佃农组成农民联盟，抵制柴明达尔非法加租，拒绝缴纳并诉诸法庭。这场以和平方式为主的运动扩散到其他县，促成了1885年加强佃农权利的《孟加拉租佃法》的通过。",
+    "ja": "1873年、パブナ県ユースフシャーヒー郡（シラジガンジ周辺）の小作農は、ザミンダールによる違法な地代引き上げに抵抗するため農民同盟を結成し、支払いを拒んで裁判で争った。おおむね平和的だったこの運動は他の県にも広がり、小作人の権利を強化した1885年のベンガル小作法の制定に寄与した。"
+   }
+  },
+  {
+   "year": 1891,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Rabindranath Tagore on the family estates",
+    "ko": "타고르, 가문의 영지를 관리하다",
+    "zh": "泰戈尔管理家族庄园",
+    "ja": "タゴール、一族の領地を管理する"
+   },
+   "description": {
+    "en": "From around 1890–1891 Rabindranath Tagore managed his family's zamindari estates at Shilaidaha (Kushtia), Shahzadpur (Sirajganj) and Patisar (Naogaon), travelling the rivers on a houseboat. Rural life in what is now Bangladesh inspired many of his short stories and poems of this period. Tagore, who won the Nobel Prize in Literature in 1913, later wrote the song that became Bangladesh's national anthem, Amar Shonar Bangla.",
+    "ko": "1890~1891년경부터 라빈드라나트 타고르는 실라이다하(쿠슈티아), 샤자드푸르(시라지간지), 파티사르(나오가온)에 있는 가문의 자민다리 영지를 관리하며 하우스보트로 강을 오갔다. 오늘날 방글라데시 지역의 농촌 생활은 이 시기 그의 여러 단편 소설과 시에 영감을 주었다. 1913년 노벨 문학상을 받은 타고르는 훗날 방글라데시 국가가 된 노래 「나의 황금 벵골」을 지었다.",
+    "zh": "约从1890至1891年起，罗宾德拉纳特·泰戈尔管理家族位于希莱达哈（库什蒂亚）、沙赫扎德普尔（锡拉杰甘杰）和帕蒂萨尔（瑙冈）的柴明达尔庄园，乘船屋往来于河道之间。今孟加拉国一带的乡村生活为他这一时期的许多短篇小说和诗歌提供了灵感。1913年获得诺贝尔文学奖的泰戈尔，还创作了后来成为孟加拉国国歌的《金色的孟加拉》。",
+    "ja": "1890～1891年頃から、ラビンドラナート・タゴールはシライダハ（クシュティア）、シャハザドプル（シラジガンジ）、パティサル（ナオガオン）にある一族のザミンダーリー領地を管理し、ハウスボートで川を行き来した。現在のバングラデシュにあたる地の農村生活は、この時期の多くの短編小説や詩に霊感を与えた。1913年にノーベル文学賞を受けたタゴールは、のちにバングラデシュ国歌となった歌「我が黄金のベンガル」を作った。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First Partition of Bengal",
+    "ko": "벵골 분할령",
+    "zh": "第一次孟加拉分治",
+    "ja": "ベンガル分割令"
+   },
+   "description": {
+    "en": "Viceroy Curzon partitioned Bengal, making Dhaka capital of a new eastern province. Mass protests forced its annulment in 1911, but the episode foreshadowed the later division of Bengal.",
+    "ko": "커즌 총독이 벵골을 분할하여 다카를 새 동부 주의 주도로 삼았다. 대규모 반대 운동으로 1911년 분할은 철회되었으나, 이 사건은 훗날 벵골이 실제로 나뉘게 될 미래를 예고했다.",
+    "zh": "总督寇松下令分割孟加拉，达卡成为新设东部省份的首府。大规模抗议迫使当局于1911年撤销分治，但这一事件预示了孟加拉日后的分裂。",
+    "ja": "カーゾン総督がベンガルを分割し、ダッカを新設の東部州の州都とした。大規模な反対運動により1911年に分割は撤回されたが、この出来事は後のベンガル分断を予兆するものだった。"
+   }
+  },
+  {
+   "year": 1906,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "All-India Muslim League founded in Dhaka",
+    "ko": "다카에서 전인도 무슬림 연맹 창립",
+    "zh": "全印穆斯林联盟在达卡成立",
+    "ja": "ダッカで全インド・ムスリム連盟が結成"
+   },
+   "description": {
+    "en": "On 30 December 1906, at a session of the All-India Muhammadan Educational Conference hosted in Dhaka by Nawab Khwaja Salimullah, Muslim leaders founded the All-India Muslim League. Formed partly to defend the new province of Eastern Bengal and Assam, the League later led the campaign that produced Pakistan in 1947.",
+    "ko": "1906년 12월 30일, 나와브 화자 살리물라가 다카에서 주최한 전인도 무슬림 교육회의 회기에서 무슬림 지도자들이 전인도 무슬림 연맹을 창립했다. 새로 생긴 동벵골·아삼 주를 지키려는 목적도 있었던 이 연맹은 훗날 1947년 파키스탄 건국 운동을 이끌었다.",
+    "zh": "1906年12月30日，在纳瓦卜赫瓦贾·萨利穆拉于达卡主办的全印穆罕默德教育会议期间，穆斯林领袖们成立了全印穆斯林联盟。该联盟的成立在一定程度上是为了维护新设的东孟加拉和阿萨姆省，后来领导了促成1947年巴基斯坦建国的运动。",
+    "ja": "1906年12月30日、ナワーブのホワジャ・サリームッラーがダッカで主催した全インド・ムハンマダン教育会議の会期中に、ムスリムの指導者たちは全インド・ムスリム連盟を結成した。新設の東ベンガル・アッサム州を守る目的もあったこの連盟は、のちに1947年のパキスタン建国につながる運動を率いた。"
+   }
+  },
+  {
+   "year": 1911,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Partition of Bengal annulled",
+    "ko": "벵골 분할 철회",
+    "zh": "孟加拉分治被撤销",
+    "ja": "ベンガル分割の撤回"
+   },
+   "description": {
+    "en": "At the Delhi Durbar of December 1911, King George V announced the reunification of Bengal and the transfer of India's capital from Calcutta to Delhi. Many Muslims of eastern Bengal, who had gained from Dhaka's role as a provincial capital, felt betrayed, and the government promised a university for Dhaka as partial compensation.",
+    "ko": "1911년 12월 델리 더바에서 조지 5세는 벵골 재통합과 인도 수도의 콜카타에서 델리로의 이전을 발표했다. 다카가 주도가 되며 이득을 보았던 동벵골의 많은 무슬림은 배신감을 느꼈고, 정부는 부분적 보상으로 다카에 대학을 세우겠다고 약속했다.",
+    "zh": "1911年12月德里杜尔巴大典上，英王乔治五世宣布孟加拉重新合并，并将印度首都从加尔各答迁往德里。东孟加拉的许多穆斯林曾因达卡成为省会而获益，因此深感被出卖，政府则承诺在达卡建立一所大学作为部分补偿。",
+    "ja": "1911年12月のデリー・ダルバールで国王ジョージ5世はベンガルの再統合とインドの首都のカルカッタからデリーへの移転を発表した。ダッカが州都となったことで恩恵を受けていた東ベンガルの多くのムスリムは裏切られたと感じ、政府は部分的な埋め合わせとしてダッカに大学を設けると約束した。"
+   }
+  },
+  {
+   "year": 1921,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "University of Dhaka opens",
+    "ko": "다카 대학교 개교",
+    "zh": "达卡大学开学",
+    "ja": "ダッカ大学の開学"
+   },
+   "description": {
+    "en": "The University of Dhaka opened on 1 July 1921, fulfilling the promise made after the annulment of the partition of Bengal. It became the leading centre of higher education in eastern Bengal and nurtured a new Muslim middle class. Its students and teachers later stood at the heart of the Language Movement and the struggle for independence.",
+    "ko": "다카 대학교는 벵골 분할 철회 후의 약속을 이행해 1921년 7월 1일 개교했다. 이 대학은 동벵골 고등 교육의 중심이 되었고 새로운 무슬림 중산층을 길러 냈다. 그 학생과 교수들은 훗날 언어 운동과 독립 투쟁의 중심에 섰다.",
+    "zh": "达卡大学于1921年7月1日开学，兑现了孟加拉分治撤销后所作的承诺。它成为东孟加拉高等教育的中心，培育了新兴的穆斯林中产阶级。其师生后来站在了语言运动和独立斗争的核心位置。",
+    "ja": "ダッカ大学は、ベンガル分割撤回後の約束を果たして1921年7月1日に開学した。同大学は東ベンガルの高等教育の中心となり、新しいムスリム中間層を育てた。その学生と教員は、のちに言語運動と独立闘争の中心に立った。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Chittagong armoury raid",
+    "ko": "치타공 무기고 습격",
+    "zh": "吉大港军械库起义",
+    "ja": "チッタゴン武器庫襲撃事件"
+   },
+   "description": {
+    "en": "On 18 April 1930 revolutionaries led by the schoolteacher Surya Sen raided the police and auxiliary forces' armouries in Chittagong, cut communications and briefly declared a provisional government. Several of them were killed in fighting at Jalalabad Hill, and Surya Sen was captured in 1933 and executed in 1934. The raid became a celebrated episode of armed anti-colonial resistance.",
+    "ko": "1930년 4월 18일 교사 수리아 센이 이끄는 혁명가들이 치타공의 경찰과 보조 부대 무기고를 습격하고 통신을 끊은 뒤 잠시 임시 정부를 선포했다. 그들 중 여럿은 잘랄라바드 언덕 전투에서 죽었고, 수리아 센은 1933년 체포되어 1934년 처형되었다. 이 습격은 무장 반식민 저항의 상징적 사건이 되었다.",
+    "zh": "1930年4月18日，以教师苏利耶·森为首的革命者袭击了吉大港警察和辅助部队的军械库，切断通讯，并一度宣布成立临时政府。其中数人在贾拉拉巴德山的战斗中牺牲，苏利耶·森于1933年被捕，1934年被处决。这次起义成为武装反殖民斗争中著名的篇章。",
+    "ja": "1930年4月18日、教師スーリヤ・セーン率いる革命家たちはチッタゴンの警察と補助部隊の武器庫を襲撃し、通信を断って一時的に臨時政府を宣言した。彼らの何人かはジャラーラーバード丘の戦闘で死に、スーリヤ・セーンは1933年に捕らえられ1934年に処刑された。この襲撃は武装した反植民地抵抗の象徴的な出来事となった。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fazlul Huq moves the Lahore Resolution",
+    "ko": "파즐룰 호크의 라호르 결의안 발의",
+    "zh": "法兹卢勒·哈克提出拉合尔决议",
+    "ja": "ファズルル・ハク、ラホール決議を提案"
+   },
+   "description": {
+    "en": "On 23 March 1940 A. K. Fazlul Huq, premier of Bengal and a champion of the Bengali peasantry, moved the Muslim League's Lahore Resolution, which called for 'independent states' in the Muslim-majority north-west and east of India. The plural wording was later cited by Bengali nationalists who argued that the eastern region had been envisaged as a separate state.",
+    "ko": "1940년 3월 23일 벵골 주 총리이자 벵골 농민의 대변자였던 A. K. 파즐룰 호크는 인도 북서부와 동부의 무슬림 다수 지역에 '독립 국가들'을 요구하는 무슬림 연맹의 라호르 결의안을 발의했다. 이 복수형 표현은 훗날 동부 지역이 별개의 국가로 구상되었다고 주장한 벵골 민족주의자들에게 인용되었다.",
+    "zh": "1940年3月23日，孟加拉省总理、孟加拉农民的代言人A·K·法兹卢勒·哈克提出了穆斯林联盟的拉合尔决议，要求在印度西北部和东部穆斯林占多数的地区建立“独立国家”。这一复数措辞后来被孟加拉民族主义者引用，他们认为东部地区原本被设想为一个单独的国家。",
+    "ja": "1940年3月23日、ベンガル州首相でベンガル農民の代弁者だったA・K・ファズルル・ハクは、インド北西部と東部のムスリム多数地域に「独立諸国家」を求めるムスリム連盟のラホール決議を提案した。この複数形の表現は、東部地域が別個の国家として構想されていたと主張したベンガル民族主義者によって後に引用された。"
+   }
+  },
+  {
+   "year": 1943,
+   "qid": null,
+   "importance": 1,
+   "category": "disaster",
+   "title": {
+    "en": "Bengal famine of 1943",
+    "ko": "1943년 벵골 대기근",
+    "zh": "1943年孟加拉大饥荒",
+    "ja": "1943年のベンガル飢饉"
+   },
+   "description": {
+    "en": "During the Second World War, the loss of rice imports from Japanese-occupied Burma, a cyclone, wartime inflation, hoarding and inadequate government response led to a devastating famine in Bengal in 1943. An estimated two to three million people died of starvation and disease, with the eastern districts among the hardest hit. The causes and British responsibility remain debated.",
+    "ko": "제2차 세계대전 중 일본이 점령한 미얀마로부터의 쌀 수입 중단, 사이클론, 전시 인플레이션, 사재기, 정부의 부적절한 대응이 겹쳐 1943년 벵골에 참혹한 기근이 일어났다. 굶주림과 질병으로 약 200만~300만 명이 죽은 것으로 추산되며, 동부 지역들이 가장 큰 피해를 입은 곳에 속했다. 원인과 영국의 책임은 여전히 논쟁 중이다.",
+    "zh": "第二次世界大战期间，来自日占缅甸的大米进口中断、气旋、战时通货膨胀、囤积居奇以及政府应对不力，共同导致1943年孟加拉发生毁灭性饥荒。据估计约有二三百万人死于饥饿和疾病，东部各县属受灾最重的地区。饥荒成因及英国的责任至今仍有争议。",
+    "ja": "第二次世界大戦中、日本占領下のビルマからの米の輸入途絶、サイクロン、戦時インフレ、買い占め、政府の不適切な対応が重なり、1943年にベンガルで壊滅的な飢饉が起きた。飢餓と病気で推定200万～300万人が死亡し、東部の県は最も被害の大きかった地域に含まれる。原因とイギリスの責任はいまも議論されている。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Noakhali riots",
+    "ko": "노아칼리 폭동",
+    "zh": "诺阿卡利骚乱",
+    "ja": "ノアカリ暴動"
+   },
+   "description": {
+    "en": "In October 1946, weeks after the Great Calcutta Killings, organised communal violence against Hindus broke out in Noakhali and Tippera (Comilla) districts, involving killings, forced conversions and mass displacement. Mahatma Gandhi spent months touring the villages of Noakhali on foot to restore peace. The violence deepened the communal polarisation that led to the partition of Bengal.",
+    "ko": "1946년 10월 콜카타 대학살 몇 주 뒤, 노아칼리와 티페라(코밀라) 지역에서 힌두교도를 겨냥한 조직적 종교 폭력이 일어나 살해, 강제 개종, 대규모 피란이 벌어졌다. 마하트마 간디는 평화를 되찾기 위해 몇 달 동안 노아칼리의 마을을 걸어서 순방했다. 이 폭력은 벵골 분할로 이어진 종교 공동체 간 양극화를 심화시켰다.",
+    "zh": "1946年10月，在加尔各答大屠杀数周之后，诺阿卡利和蒂佩拉（科米拉）地区爆发了针对印度教徒的有组织的教派暴力，发生了杀戮、强迫改宗和大规模流离失所。圣雄甘地花了数月时间徒步走访诺阿卡利各村，以恢复和平。这场暴力加深了导致孟加拉分治的教派对立。",
+    "ja": "1946年10月、カルカッタ大虐殺の数週間後、ノアカリとティペラ（コミラ）の県でヒンドゥー教徒を標的とした組織的な宗派暴力が起こり、殺害、強制改宗、大規模な避難が生じた。マハトマ・ガンディーは平和を取り戻すため、何か月もかけてノアカリの村々を徒歩で巡った。この暴力はベンガル分割へとつながる宗派間の分極化を深めた。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sylhet referendum",
+    "ko": "실헷 주민 투표",
+    "zh": "锡尔赫特公投",
+    "ja": "シレット住民投票"
+   },
+   "description": {
+    "en": "In July 1947 voters in the Sylhet district of Assam chose in a referendum to join East Bengal and therefore Pakistan. The Radcliffe boundary award nevertheless assigned part of the district, including Karimganj, to India. The rest of Sylhet became part of East Bengal and today forms Bangladesh's Sylhet Division.",
+    "ko": "1947년 7월 아삼 주 실헷 지역의 유권자들은 주민 투표에서 동벵골, 즉 파키스탄에 합류하는 쪽을 택했다. 그러나 래드클리프 경계 판정은 카림간지를 포함한 지역 일부를 인도에 배정했다. 나머지 실헷은 동벵골의 일부가 되었고, 오늘날 방글라데시의 실헷 주를 이룬다.",
+    "zh": "1947年7月，阿萨姆省锡尔赫特县的选民在公投中选择加入东孟加拉，即加入巴基斯坦。但拉德克利夫划界裁定仍将包括卡里姆甘杰在内的部分地区划归印度。锡尔赫特其余部分并入东孟加拉，今天构成孟加拉国的锡尔赫特专区。",
+    "ja": "1947年7月、アッサム州シレット県の有権者は住民投票で東ベンガル、すなわちパキスタンへの編入を選んだ。しかしラドクリフ裁定は、カリムガンジを含む県の一部をインドに割り当てた。残りのシレットは東ベンガルの一部となり、現在はバングラデシュのシレット管区を構成している。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Partition: East Bengal Becomes East Pakistan",
+    "ko": "인도 분할과 동파키스탄의 성립",
+    "zh": "印巴分治与东巴基斯坦的形成",
+    "ja": "インド分割と東パキスタンの成立"
+   },
+   "description": {
+    "en": "With the partition of British India, Muslim-majority East Bengal became the eastern wing of the new state of Pakistan, separated from West Pakistan by 1,600 km of Indian territory.",
+    "ko": "영국령 인도가 분할되면서 무슬림이 다수인 동벵골은 신생 파키스탄의 동익(동파키스탄)이 되었다. 서파키스탄과는 1,600km에 이르는 인도 영토를 사이에 두고 떨어져 있었다.",
+    "zh": "英属印度分治后，穆斯林占多数的东孟加拉成为新生巴基斯坦的东翼（东巴基斯坦），与西巴基斯坦之间隔着长达1600公里的印度领土。",
+    "ja": "イギリス領インドの分割に伴い、ムスリムが多数を占める東ベンガルは新国家パキスタンの東翼（東パキスタン）となった。西パキスタンとの間には1600キロに及ぶインド領が横たわっていた。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Jinnah declares Urdu the sole state language",
+    "ko": "진나의 '우르두어 단일 국어' 선언",
+    "zh": "真纳宣布乌尔都语为唯一国语",
+    "ja": "ジンナー、ウルドゥー語を唯一の国語と宣言"
+   },
+   "description": {
+    "en": "On 21 March 1948, speaking in Dhaka, Governor-General Muhammad Ali Jinnah declared that Urdu alone would be the state language of Pakistan, even though Bengali was the mother tongue of a majority of Pakistanis. Students protested immediately, and the controversy launched the Bengali Language Movement.",
+    "ko": "1948년 3월 21일 다카에서 연설한 무함마드 알리 진나 총독은 벵골어가 파키스탄인 과반의 모어였음에도 우르두어만을 파키스탄의 국어로 삼겠다고 선언했다. 학생들은 즉각 항의했고, 이 논란은 벵골어 언어 운동의 시작이 되었다.",
+    "zh": "1948年3月21日，总督穆罕默德·阿里·真纳在达卡发表讲话，宣布乌尔都语将是巴基斯坦唯一的国语，尽管孟加拉语是大多数巴基斯坦人的母语。学生们当即抗议，这一争议由此引发了孟加拉语言运动。",
+    "ja": "1948年3月21日、総督ムハンマド・アリー・ジンナーはダッカでの演説で、ベンガル語がパキスタン国民の過半の母語であるにもかかわらず、ウルドゥー語のみをパキスタンの国語とすると宣言した。学生たちはただちに抗議し、この論争がベンガル語国語化運動の始まりとなった。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the Awami Muslim League",
+    "ko": "아와미 무슬림 연맹 창당",
+    "zh": "人民穆斯林联盟成立",
+    "ja": "アワミ・ムスリム連盟の結成"
+   },
+   "description": {
+    "en": "On 23 June 1949 dissident Muslim League politicians in Dhaka, led by Maulana Abdul Hamid Khan Bhashani with Shamsul Huq and the young Sheikh Mujibur Rahman, founded the Awami Muslim League. It later dropped 'Muslim' from its name to become the secular Awami League, the main vehicle of Bengali nationalism.",
+    "ko": "1949년 6월 23일 다카에서 마울라나 압둘 하미드 칸 바샤니를 중심으로 샴술 호크, 젊은 셰이크 무지부르 라흐만 등 무슬림 연맹의 반대파 정치인들이 아와미 무슬림 연맹을 창당했다. 이 당은 나중에 이름에서 '무슬림'을 빼고 세속주의 정당 아와미 연맹이 되어 벵골 민족주의의 주된 매개체가 되었다.",
+    "zh": "1949年6月23日，以毛拉纳·阿卜杜勒·哈米德·汗·巴沙尼为首，包括沙姆苏尔·哈克和年轻的谢赫·穆吉布·拉赫曼在内的一批穆斯林联盟异议政治人物在达卡成立了人民穆斯林联盟。该党后来去掉名称中的“穆斯林”，成为世俗的人民联盟，是孟加拉民族主义的主要载体。",
+    "ja": "1949年6月23日、マウラナ・アブドゥル・ハミド・ハーン・バシャニを中心に、シャムスル・ハクや若きシェイク・ムジブル・ラフマンらムスリム連盟の反主流派の政治家がダッカでアワミ・ムスリム連盟を結成した。同党はのちに党名から「ムスリム」を外して世俗主義のアワミ連盟となり、ベンガル民族主義の主な担い手となった。"
+   }
+  },
+  {
+   "year": 1952,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Bengali Language Movement",
+    "ko": "벵골어 언어 운동",
+    "zh": "孟加拉语言运动",
+    "ja": "ベンガル語国語化運動"
+   },
+   "description": {
+    "en": "On 21 February 1952, police fired on students in Dhaka demonstrating for Bengali to be a state language, killing several. The martyrs' day is now UNESCO's International Mother Language Day.",
+    "ko": "1952년 2월 21일, 벵골어의 국어 지정을 요구하며 시위하던 다카의 학생들에게 경찰이 발포해 여러 명이 목숨을 잃었다. 이날은 훗날 유네스코가 정한 '세계 모어(母語)의 날'이 되었다.",
+    "zh": "1952年2月21日，达卡学生游行要求将孟加拉语定为国语，遭警察开枪镇压，多人牺牲。这一天后来被联合国教科文组织定为“国际母语日”。",
+    "ja": "1952年2月21日、ベンガル語の国語化を求めてデモを行ったダッカの学生らに警官隊が発砲し、複数の死者が出た。この日はのちにユネスコの「国際母語デー」と定められた。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "United Front landslide in East Bengal",
+    "ko": "동벵골 선거의 통일전선 압승",
+    "zh": "统一阵线在东孟加拉选举中大胜",
+    "ja": "東ベンガル州選挙での統一戦線の圧勝"
+   },
+   "description": {
+    "en": "In the March 1954 provincial elections, the United Front coalition of the Awami League, Fazlul Huq's Krishak Sramik Party and others won an overwhelming victory, routing the ruling Muslim League. The new government under Fazlul Huq was dismissed by the central government within weeks and governor's rule imposed, fuelling resentment against West Pakistani dominance.",
+    "ko": "1954년 3월 주 선거에서 아와미 연맹, 파즐룰 호크의 농민노동자당 등으로 구성된 통일전선이 압도적으로 승리해 집권 무슬림 연맹을 참패시켰다. 파즐룰 호크가 이끄는 새 정부는 몇 주 만에 중앙 정부에 의해 해산되고 총독 직할 통치가 실시되어, 서파키스탄의 지배에 대한 반감을 키웠다.",
+    "zh": "在1954年3月的省议会选举中，由人民联盟、法兹卢勒·哈克的农民工人党等组成的统一阵线大获全胜，执政的穆斯林联盟一败涂地。由法兹卢勒·哈克领导的新政府在数周内即被中央政府解散，并实行总督直接统治，加剧了对西巴基斯坦支配的不满。",
+    "ja": "1954年3月の州選挙では、アワミ連盟やファズルル・ハクのクリシャク・シュラミク党などからなる統一戦線が圧勝し、与党ムスリム連盟は惨敗した。ファズルル・ハク率いる新政府は数週間のうちに中央政府によって解散させられ知事統治が敷かれたため、西パキスタンの支配への反感が高まった。"
+   }
+  },
+  {
+   "year": 1956,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Bengali recognised as a state language",
+    "ko": "벵골어, 국어로 인정되다",
+    "zh": "孟加拉语被承认为国语",
+    "ja": "ベンガル語、国語として承認"
+   },
+   "description": {
+    "en": "Pakistan's first constitution, adopted in 1956, recognised both Urdu and Bengali as state languages, a victory for the Language Movement. The province had been renamed East Pakistan in 1955 under the One Unit scheme, which merged the western provinces and gave the two wings equal representation despite the east's larger population.",
+    "ko": "1956년 채택된 파키스탄 최초의 헌법은 우르두어와 벵골어를 모두 국어로 인정했으며, 이는 언어 운동의 승리였다. 이 지역은 1955년 서부 주들을 통합하고 인구가 더 많은 동부에도 불구하고 양익에 동등한 대표권을 준 '원 유닛' 체제에 따라 동파키스탄으로 개칭되었다.",
+    "zh": "1956年通过的巴基斯坦第一部宪法承认乌尔都语和孟加拉语同为国语，这是语言运动的一大胜利。该省已于1955年根据“一个单元”方案改称东巴基斯坦，该方案合并了西部各省，并在东部人口更多的情况下仍给予两翼同等的代表权。",
+    "ja": "1956年に採択されたパキスタン最初の憲法はウルドゥー語とベンガル語をともに国語と認め、言語運動の勝利となった。この州は1955年、西部の諸州を統合し、東部の人口の方が多いにもかかわらず両翼に同等の代表権を与える「ワン・ユニット」制のもとで東パキスタンと改称されていた。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ayub Khan's martial law",
+    "ko": "아유브 칸의 계엄령",
+    "zh": "阿尤布·汗实行军事管制",
+    "ja": "アユーブ・ハーンの戒厳令"
+   },
+   "description": {
+    "en": "In October 1958 martial law was declared across Pakistan, and General Ayub Khan soon took power as president, abrogating the 1956 constitution. His decade of military-led rule centralised power in West Pakistan, and East Pakistanis increasingly complained of economic disparity, as foreign-exchange earnings from eastern jute were largely invested in the west.",
+    "ko": "1958년 10월 파키스탄 전역에 계엄령이 선포되었고, 곧 아유브 칸 장군이 대통령으로 권력을 잡아 1956년 헌법을 폐지했다. 그의 10년간의 군부 주도 통치는 권력을 서파키스탄에 집중시켰고, 동부의 황마가 벌어들인 외화가 주로 서부에 투자되면서 동파키스탄 사람들은 경제적 격차에 대한 불만을 키웠다.",
+    "zh": "1958年10月，巴基斯坦全境宣布军事管制，阿尤布·汗将军随即以总统身份掌权，废除了1956年宪法。他长达十年的军人主导统治将权力集中于西巴基斯坦；由于东部黄麻赚取的外汇大多投资于西部，东巴基斯坦人对经济差距的不满日益加深。",
+    "ja": "1958年10月、パキスタン全土に戒厳令が布告され、まもなくアユーブ・ハーン将軍が大統領として権力を握り、1956年憲法を廃止した。彼の10年に及ぶ軍主導の統治は権力を西パキスタンに集中させ、東部のジュートが稼いだ外貨の多くが西部に投資されたため、東パキスタンの人々は経済格差への不満を募らせた。"
+   }
+  },
+  {
+   "year": 1966,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Sheikh Mujibur Rahman's Six Points",
+    "ko": "셰이크 무지부르 라흐만의 6개항",
+    "zh": "谢赫·穆吉布·拉赫曼的“六点要求”",
+    "ja": "シェイク・ムジブル・ラフマンの6項目要求"
+   },
+   "description": {
+    "en": "In February 1966 Awami League leader Sheikh Mujibur Rahman announced the Six-Point programme, demanding a federal Pakistan in which the provinces would control taxation, foreign trade earnings and their own paramilitary forces, leaving the centre only defence and foreign affairs. The Six Points became the charter of Bengali autonomy and led to Mujib's repeated arrests.",
+    "ko": "1966년 2월 아와미 연맹 지도자 셰이크 무지부르 라흐만은 6개항 강령을 발표해, 중앙은 국방과 외교만 맡고 각 주가 조세·대외 무역 수입·자체 준군사 조직을 관할하는 연방제 파키스탄을 요구했다. 6개항은 벵골 자치의 헌장이 되었고, 무지브는 이로 인해 거듭 체포되었다.",
+    "zh": "1966年2月，人民联盟领导人谢赫·穆吉布·拉赫曼提出“六点纲领”，要求建立联邦制的巴基斯坦：由各省掌管税收、对外贸易收入和自己的准军事部队，中央只负责国防和外交。“六点要求”成为孟加拉自治的宪章，穆吉布也因此屡遭逮捕。",
+    "ja": "1966年2月、アワミ連盟の指導者シェイク・ムジブル・ラフマンは6項目綱領を発表し、中央は国防と外交のみを担い、各州が課税、対外貿易収入、独自の準軍事組織を管轄する連邦制パキスタンを要求した。6項目はベンガル自治の憲章となり、ムジブはそのために繰り返し逮捕された。"
+   }
+  },
+  {
+   "year": 1968,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Agartala Conspiracy Case",
+    "ko": "아가르탈라 음모 사건",
+    "zh": "阿加尔塔拉阴谋案",
+    "ja": "アガルタラ陰謀事件"
+   },
+   "description": {
+    "en": "In 1968 the Ayub government charged Sheikh Mujibur Rahman and others with conspiring with India to secede East Pakistan, in what became known as the Agartala Conspiracy Case. Rather than discrediting Mujib, the trial turned him into a national hero and became a focus of the growing protest movement.",
+    "ko": "1968년 아유브 정부는 셰이크 무지부르 라흐만 등을 인도와 공모해 동파키스탄을 분리시키려 했다는 혐의로 기소했으며, 이는 아가르탈라 음모 사건으로 알려졌다. 재판은 무지브의 신뢰를 떨어뜨리기는커녕 그를 민족 영웅으로 만들었고, 커져 가던 저항 운동의 구심점이 되었다.",
+    "zh": "1968年，阿尤布政府指控谢赫·穆吉布·拉赫曼等人勾结印度图谋让东巴基斯坦分离，此即所谓“阿加尔塔拉阴谋案”。审判非但没有使穆吉布名誉扫地，反而使他成为民族英雄，并成为日益高涨的抗议运动的焦点。",
+    "ja": "1968年、アユーブ政権はシェイク・ムジブル・ラフマンらを、インドと共謀して東パキスタンの分離を企てたとして起訴し、これはアガルタラ陰謀事件として知られる。裁判はムジブの信用を失墜させるどころか彼を国民的英雄にし、高まりつつあった抗議運動の焦点となった。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "1969 mass uprising",
+    "ko": "1969년 대중 봉기",
+    "zh": "1969年群众起义",
+    "ja": "1969年の大衆蜂起"
+   },
+   "description": {
+    "en": "In early 1969 a mass uprising of students, workers and peasants swept East Pakistan, with deaths of protesters fuelling further demonstrations. The government withdrew the Agartala case and released Mujib, who was hailed as 'Bangabandhu' (Friend of Bengal) in February 1969. Ayub Khan resigned in March, handing power to General Yahya Khan, who promised elections.",
+    "ko": "1969년 초 학생·노동자·농민의 대중 봉기가 동파키스탄을 휩쓸었고, 시위대의 희생은 더 큰 시위를 불렀다. 정부는 아가르탈라 사건을 철회하고 무지브를 석방했으며, 그는 1969년 2월 '방가반두(벵골의 벗)'라는 칭호로 추앙받았다. 아유브 칸은 3월 사임하고 선거를 약속한 야히아 칸 장군에게 권력을 넘겼다.",
+    "zh": "1969年初，学生、工人和农民的群众起义席卷东巴基斯坦，抗议者的牺牲又激起更大规模的示威。政府撤销阿加尔塔拉案并释放穆吉布，1969年2月他被尊称为“孟加拉之友”（Bangabandhu）。阿尤布·汗于3月辞职，将权力交给承诺举行选举的叶海亚·汗将军。",
+    "ja": "1969年初め、学生・労働者・農民の大衆蜂起が東パキスタンを席巻し、デモ参加者の死がさらなるデモを呼んだ。政府はアガルタラ事件を取り下げてムジブを釈放し、1969年2月に彼は「バンガバンドゥ（ベンガルの友）」の称号で讃えられた。アユーブ・ハーンは3月に辞任し、選挙を約束したヤヒヤー・ハーン将軍に権力を委ねた。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Awami League sweeps the 1970 election",
+    "ko": "1970년 총선, 아와미 연맹의 압승",
+    "zh": "人民联盟在1970年大选中大获全胜",
+    "ja": "1970年総選挙でアワミ連盟が圧勝"
+   },
+   "description": {
+    "en": "In Pakistan's first general election, held in December 1970, the Awami League won 160 of the 162 general seats allotted to East Pakistan, giving it an absolute majority in the National Assembly. The military regime and West Pakistani leaders, including Zulfikar Ali Bhutto, resisted handing power to Mujib, and the postponement of the assembly in March 1971 triggered mass protests.",
+    "ko": "1970년 12월 실시된 파키스탄 최초의 총선에서 아와미 연맹은 동파키스탄에 배정된 일반 의석 162석 중 160석을 얻어 국민의회 절대 과반을 차지했다. 군사 정권과 줄피카르 알리 부토 등 서파키스탄 지도자들은 무지브에게 권력을 넘기는 데 저항했고, 1971년 3월 의회 소집 연기는 대규모 항의를 촉발했다.",
+    "zh": "在1970年12月举行的巴基斯坦首次大选中，人民联盟赢得分配给东巴基斯坦的162个普通议席中的160席，在国民议会中获得绝对多数。军政府和佐勒菲卡尔·阿里·布托等西巴基斯坦领导人抵制向穆吉布移交权力，1971年3月议会召开被推迟，引发了大规模抗议。",
+    "ja": "1970年12月に行われたパキスタン初の総選挙で、アワミ連盟は東パキスタンに割り当てられた一般議席162のうち160を獲得し、国民議会で絶対過半数を得た。軍事政権とズルフィカール・アリー・ブットーら西パキスタンの指導者はムジブへの政権移譲に抵抗し、1971年3月の議会招集の延期は大規模な抗議を引き起こした。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Bhola Cyclone",
+    "ko": "볼라 사이클론 대참사",
+    "zh": "博拉气旋大灾难",
+    "ja": "ボーラ・サイクロンの大災害"
+   },
+   "description": {
+    "en": "The Bhola cyclone struck East Pakistan in November 1970, killing an estimated 300,000-500,000 people — the deadliest tropical cyclone on record. The slow relief response deepened calls for autonomy.",
+    "ko": "1970년 11월 볼라 사이클론이 동파키스탄을 강타해 30만~50만 명으로 추산되는 목숨을 앗아갔다. 기록상 가장 참혹한 열대성 저기압 재해였으며, 늑장 구호는 자치 요구에 불을 지폈다.",
+    "zh": "1970年11月，博拉气旋袭击东巴基斯坦，估计造成30万至50万人罹难，是有记录以来最致命的热带气旋。救灾迟缓进一步激化了当地的自治诉求。",
+    "ja": "1970年11月、ボーラ・サイクロンが東パキスタンを直撃し、推定30万～50万人が犠牲となった。記録上最悪の熱帯低気圧災害であり、救援の遅れは自治要求の高まりに拍車をかけた。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Mujib's 7 March speech",
+    "ko": "무지브의 3월 7일 연설",
+    "zh": "穆吉布的“3月7日演说”",
+    "ja": "ムジブの3月7日演説"
+   },
+   "description": {
+    "en": "On 7 March 1971, before a vast crowd at the Ramna Race Course in Dhaka, Sheikh Mujibur Rahman called for a non-cooperation movement and declared that this time the struggle was one for liberation and independence. The speech effectively prepared the population for independence, and in 2017 UNESCO added it to its Memory of the World Register.",
+    "ko": "1971년 3월 7일 다카 람나 경마장에 모인 거대한 군중 앞에서 셰이크 무지부르 라흐만은 비협력 운동을 촉구하며 이번 투쟁은 해방과 독립을 위한 투쟁이라고 선언했다. 이 연설은 사실상 국민이 독립을 준비하게 했으며, 2017년 유네스코 세계기록유산에 등재되었다.",
+    "zh": "1971年3月7日，谢赫·穆吉布·拉赫曼在达卡拉姆纳赛马场面对巨大人群，号召开展不合作运动，并宣告这一次的斗争是争取解放与独立的斗争。这篇演说实际上为民众迎接独立做好了准备，2017年被联合国教科文组织列入《世界记忆名录》。",
+    "ja": "1971年3月7日、ダッカのラムナ競馬場に集まった大群衆を前に、シェイク・ムジブル・ラフマンは非協力運動を呼びかけ、今度の闘いは解放と独立のための闘いであると宣言した。この演説は事実上、国民に独立への備えをさせるものとなり、2017年にユネスコの「世界の記憶」に登録された。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": "Q1430144",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Operation Searchlight and the Dhaka University massacre",
+    "ko": "서치라이트 작전과 다카 대학교 학살",
+    "zh": "“探照灯行动”与达卡大学屠杀",
+    "ja": "サーチライト作戦とダッカ大学虐殺"
+   },
+   "description": {
+    "en": "On the night of 25 March 1971 the Pakistani army launched Operation Searchlight to crush the Bengali movement, attacking Dhaka University halls, police and paramilitary barracks and Hindu neighbourhoods, and killing large numbers of students, teachers and civilians. Sheikh Mujibur Rahman was arrested and flown to West Pakistan. Independence was declared on 26 March, which Bangladesh marks as Independence Day.",
+    "ko": "1971년 3월 25일 밤 파키스탄군은 벵골인의 운동을 분쇄하기 위해 서치라이트 작전을 개시해 다카 대학교 기숙사, 경찰·준군사 부대 막사, 힌두교도 거주 지역을 공격하고 수많은 학생·교수·민간인을 살해했다. 셰이크 무지부르 라흐만은 체포되어 서파키스탄으로 이송되었다. 3월 26일 독립이 선언되었고, 방글라데시는 이날을 독립기념일로 기린다.",
+    "zh": "1971年3月25日夜，巴基斯坦军队发动“探照灯行动”以镇压孟加拉人的运动，袭击达卡大学宿舍、警察和准军事部队营房以及印度教徒居住区，杀害了大批学生、教师和平民。谢赫·穆吉布·拉赫曼被捕并被押往西巴基斯坦。3月26日宣布独立，孟加拉国将这一天定为独立日。",
+    "ja": "1971年3月25日夜、パキスタン軍はベンガル人の運動を鎮圧するためサーチライト作戦を開始し、ダッカ大学の寮、警察・準軍事部隊の兵舎、ヒンドゥー教徒の居住地区を攻撃して多数の学生・教員・市民を殺害した。シェイク・ムジブル・ラフマンは逮捕され西パキスタンへ移送された。3月26日に独立が宣言され、バングラデシュはこの日を独立記念日としている。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mujibnagar government formed",
+    "ko": "무지브나가르 임시정부 수립",
+    "zh": "穆吉布纳加尔临时政府成立",
+    "ja": "ムジブナガル臨時政府の樹立"
+   },
+   "description": {
+    "en": "On 17 April 1971 the provisional Government of Bangladesh was sworn in at Baidyanathtala in Meherpur, renamed Mujibnagar, with the imprisoned Sheikh Mujibur Rahman as president, Syed Nazrul Islam as acting president and Tajuddin Ahmad as prime minister. Operating largely from Calcutta, it organised the Mukti Bahini liberation forces and sought international support.",
+    "ko": "1971년 4월 17일 메헤르푸르의 바이디야나트탈라(무지브나가르로 개칭)에서 방글라데시 임시정부가 출범했으며, 수감 중인 셰이크 무지부르 라흐만이 대통령, 사예드 나즈룰 이슬람이 대통령 권한대행, 타주딘 아흐마드가 총리를 맡았다. 주로 콜카타에서 활동한 임시정부는 해방군 묵티 바히니를 조직하고 국제적 지지를 구했다.",
+    "zh": "1971年4月17日，孟加拉国临时政府在梅赫尔布尔的拜迪亚纳特塔拉（后改名穆吉布纳加尔）宣誓成立，由身陷囹圄的谢赫·穆吉布·拉赫曼任总统，赛义德·纳兹鲁尔·伊斯兰任代总统，塔朱丁·艾哈迈德任总理。临时政府主要在加尔各答运作，组建了“穆克蒂·巴希尼”解放武装并寻求国际支持。",
+    "ja": "1971年4月17日、メヘルプルのボイダナトトラ（ムジブナガルと改名）でバングラデシュ臨時政府が発足し、獄中のシェイク・ムジブル・ラフマンが大統領、サイード・ナズルル・イスラムが大統領代行、タジュディン・アフマドが首相となった。主にカルカッタで活動した臨時政府は解放軍ムクティ・バヒニを組織し、国際的な支援を求めた。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": "Q2916113",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Mass atrocities of 1971",
+    "ko": "1971년의 대량 학살",
+    "zh": "1971年的大屠杀",
+    "ja": "1971年の大量虐殺"
+   },
+   "description": {
+    "en": "During the nine months of war the Pakistani army and allied militias such as the Razakars carried out widespread killings, mass rape and the destruction of villages, with Hindus particularly targeted. Estimates of the dead range from around 300,000 to 3 million, and about 10 million refugees fled to India. Bangladesh regards these events as genocide; the death toll and international recognition remain disputed.",
+    "ko": "9개월간의 전쟁 동안 파키스탄군과 라자카르 등 협력 민병대는 광범위한 살해, 집단 성폭력, 마을 파괴를 자행했으며 특히 힌두교도가 표적이 되었다. 사망자 추산은 약 30만 명에서 300만 명에 이르며, 약 1천만 명의 난민이 인도로 피란했다. 방글라데시는 이를 제노사이드로 규정하지만, 사망자 수와 국제적 인정 문제는 여전히 논쟁 중이다.",
+    "zh": "在九个月的战争中，巴基斯坦军队及拉扎卡尔等协从民兵实施了大规模杀戮、集体强奸和焚毁村庄，印度教徒尤其成为攻击目标。死亡人数估计从约30万到300万不等，约有1000万难民逃往印度。孟加拉国将这些事件定性为种族灭绝；死亡人数及国际承认问题至今仍有争议。",
+    "ja": "9か月の戦争の間、パキスタン軍とラザーカールなどの協力民兵は広範な殺害、集団的性暴力、村の破壊を行い、とりわけヒンドゥー教徒が標的とされた。死者の推計は約30万人から300万人まで幅があり、約1000万人の難民がインドへ逃れた。バングラデシュはこれをジェノサイドとみなしているが、死者数と国際的な認定については今も議論がある。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": "Q5116036",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Chuknagar massacre",
+    "ko": "추크나가르 학살",
+    "zh": "丘克纳加尔屠杀",
+    "ja": "チュクナガルの虐殺"
+   },
+   "description": {
+    "en": "On 20 May 1971 Pakistani troops opened fire on a large gathering of mostly Hindu refugees at Chuknagar in Khulna district, who had assembled there on their way to India. Thousands are believed to have been killed in a few hours, making it one of the deadliest single massacres of the war.",
+    "ko": "1971년 5월 20일 파키스탄군은 쿨나 지역 추크나가르에서 인도로 향하던 길에 모여 있던, 대부분 힌두교도인 대규모 난민 무리에게 발포했다. 몇 시간 만에 수천 명이 살해된 것으로 여겨지며, 이는 전쟁 중 단일 학살로는 가장 참혹한 사건 가운데 하나다.",
+    "zh": "1971年5月20日，巴基斯坦军队在库尔纳县丘克纳加尔向一大批正在前往印度途中聚集于此的难民（以印度教徒为主）开火。据信数小时内就有数千人遇害，是这场战争中死亡人数最多的单次屠杀之一。",
+    "ja": "1971年5月20日、パキスタン軍はクルナ県チュクナガルで、インドへ向かう途中に集まっていた主にヒンドゥー教徒からなる大勢の難民に発砲した。数時間のうちに数千人が殺害されたとみられ、戦争中の単一の虐殺としては最も犠牲の大きいものの一つである。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Killing of Bengali intellectuals",
+    "ko": "벵골 지식인 학살",
+    "zh": "孟加拉知识分子遭屠杀",
+    "ja": "ベンガル人知識人の殺害"
+   },
+   "description": {
+    "en": "In the final days of the war, especially around 14 December 1971, members of the Al-Badr militia abducted and murdered many leading Bengali professors, doctors, journalists and writers in Dhaka, aiming to deprive the new nation of its intellectual leadership. Bangladesh commemorates 14 December as Martyred Intellectuals Day.",
+    "ko": "전쟁 막바지, 특히 1971년 12월 14일 전후로 알바드르 민병대원들은 신생국의 지적 지도층을 없애려고 다카의 저명한 벵골인 교수, 의사, 언론인, 작가들을 납치해 살해했다. 방글라데시는 12월 14일을 순국 지식인의 날로 기린다.",
+    "zh": "在战争的最后几天，尤其是1971年12月14日前后，“巴德尔”民兵成员在达卡绑架并杀害了许多著名的孟加拉教授、医生、记者和作家，企图让新国家失去其知识界领袖。孟加拉国将12月14日定为殉难知识分子纪念日。",
+    "ja": "戦争の最終盤、とりわけ1971年12月14日前後に、アル・バドル民兵はダッカで多くの著名なベンガル人の教授、医師、記者、作家を拉致・殺害し、新国家から知的指導層を奪おうとした。バングラデシュは12月14日を殉難知識人の日として追悼している。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": "Q371394",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Liberation War and Independence",
+    "ko": "독립전쟁과 방글라데시 건국",
+    "zh": "解放战争与孟加拉国独立",
+    "ja": "独立戦争とバングラデシュの誕生"
+   },
+   "description": {
+    "en": "After the Pakistani army's crackdown in March 1971, Bangladesh declared independence. A nine-month war with immense civilian suffering ended with victory on 16 December 1971, the birth of Bangladesh.",
+    "ko": "1971년 3월 파키스탄군의 무력 진압 이후 방글라데시는 독립을 선언했다. 막대한 민간인 희생을 낳은 9개월의 전쟁은 1971년 12월 16일 승리로 끝났고, 방글라데시가 탄생했다.",
+    "zh": "1971年3月巴基斯坦军队展开镇压后，孟加拉国宣布独立。这场造成大量平民伤亡的战争历时九个月，于1971年12月16日以胜利告终，孟加拉国由此诞生。",
+    "ja": "1971年3月のパキスタン軍による弾圧を受け、バングラデシュは独立を宣言した。多くの市民が犠牲となった9か月の戦争は同年12月16日の勝利で幕を閉じ、バングラデシュが誕生した。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Constitution of Bangladesh Adopted",
+    "ko": "방글라데시 헌법 제정",
+    "zh": "孟加拉国宪法的制定",
+    "ja": "バングラデシュ憲法の制定"
+   },
+   "description": {
+    "en": "The new state adopted its constitution on 4 November 1972, enshrining nationalism, socialism, democracy and secularism as founding principles, with Sheikh Mujibur Rahman as prime minister.",
+    "ko": "1972년 11월 4일 신생 방글라데시는 민족주의·사회주의·민주주의·세속주의를 건국 이념으로 담은 헌법을 제정했다. 초대 정부는 셰이크 무지부르 라흐만 총리가 이끌었다.",
+    "zh": "1972年11月4日，新生的孟加拉国通过宪法，将民族主义、社会主义、民主与世俗主义确立为立国原则，谢赫·穆吉布·拉赫曼出任总理。",
+    "ja": "1972年11月4日、新生バングラデシュは民族主義・社会主義・民主主義・世俗主義を建国理念とする憲法を制定した。初代政府はシェイク・ムジブル・ラフマン首相が率いた。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": "Q4855418",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Famine of 1974",
+    "ko": "1974년 기근",
+    "zh": "1974年饥荒",
+    "ja": "1974年の飢饉"
+   },
+   "description": {
+    "en": "Severe floods in 1974, rising rice prices, hoarding, weak government administration and delays in food aid led to famine in Bangladesh. The official death toll was about 27,000, but other estimates are far higher. The famine badly damaged the popularity of Sheikh Mujibur Rahman's government. The same year Bangladesh joined the United Nations.",
+    "ko": "1974년의 심각한 홍수, 쌀값 급등, 사재기, 허약한 행정, 식량 원조 지연이 겹쳐 방글라데시에 기근이 발생했다. 공식 사망자 수는 약 2만 7천 명이었지만 다른 추정치는 훨씬 높다. 기근은 셰이크 무지부르 라흐만 정부의 인기에 큰 타격을 주었다. 같은 해 방글라데시는 유엔에 가입했다.",
+    "zh": "1974年的严重洪灾、米价飞涨、囤积居奇、政府管理薄弱以及粮食援助迟缓，导致孟加拉国发生饥荒。官方公布的死亡人数约为2.7万，但其他估计要高得多。饥荒严重损害了谢赫·穆吉布·拉赫曼政府的声望。同年，孟加拉国加入联合国。",
+    "ja": "1974年の深刻な洪水、米価の高騰、買い占め、行政の弱さ、食糧援助の遅れが重なり、バングラデシュで飢饉が起きた。公式の死者数は約2万7000人だが、他の推計ははるかに多い。飢饉はシェイク・ムジブル・ラフマン政権の人気に大きな打撃を与えた。同じ年、バングラデシュは国連に加盟した。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q4808521",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Sheikh Mujibur Rahman",
+    "ko": "셰이크 무지부르 라흐만 암살",
+    "zh": "谢赫·穆吉布·拉赫曼遇刺",
+    "ja": "シェイク・ムジブル・ラフマン暗殺"
+   },
+   "description": {
+    "en": "In January 1975 Mujib introduced a one-party presidential system under BAKSAL. On 15 August 1975 a group of army officers stormed his residence in Dhaka and killed him along with most of his family; his daughters Sheikh Hasina and Sheikh Rehana survived because they were abroad. The coup began more than fifteen years of military-dominated politics.",
+    "ko": "1975년 1월 무지브는 바크샬(BAKSAL)을 기반으로 한 일당제 대통령제를 도입했다. 1975년 8월 15일 일단의 군 장교들이 다카의 그의 자택을 습격해 그와 가족 대부분을 살해했으며, 딸 셰이크 하시나와 셰이크 레하나는 해외에 있어 살아남았다. 이 쿠데타로 15년 넘게 군부가 주도하는 정치가 시작되었다.",
+    "zh": "1975年1月，穆吉布推行以孟加拉农民工人人民联盟（BAKSAL）为基础的一党总统制。1975年8月15日，一批军官冲入他在达卡的住所，杀害了他及其大部分家人；其女谢赫·哈西娜和谢赫·雷哈娜因身在国外而幸免。这次政变开启了长达十五年以上的军人主导政治。",
+    "ja": "1975年1月、ムジブはバクシャル（BAKSAL）による一党制の大統領制を導入した。1975年8月15日、陸軍将校の一団がダッカの彼の自宅を襲い、彼と家族の大半を殺害した。娘のシェイク・ハシナとシェイク・レハナは国外にいたため生き延びた。このクーデターにより、15年以上に及ぶ軍主導の政治が始まった。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q48733313",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Coups of November 1975",
+    "ko": "1975년 11월의 쿠데타",
+    "zh": "1975年11月政变",
+    "ja": "1975年11月のクーデター"
+   },
+   "description": {
+    "en": "A counter-coup on 3 November 1975 was accompanied by the killing in Dhaka Central Jail of four leading Awami League figures, including Tajuddin Ahmad. On 7 November a soldiers' uprising overthrew the counter-coup leaders and freed General Ziaur Rahman, who emerged as the dominant figure in the country and later became president.",
+    "ko": "1975년 11월 3일의 역쿠데타 와중에 다카 중앙교도소에서 타주딘 아흐마드를 포함한 아와미 연맹 핵심 지도자 4명이 살해되었다. 11월 7일 병사 봉기가 역쿠데타 주도자들을 무너뜨리고 지아우르 라흐만 장군을 풀어 주었으며, 그는 나라의 실권자로 떠올라 이후 대통령이 되었다.",
+    "zh": "1975年11月3日发生反政变，其间包括塔朱丁·艾哈迈德在内的四名人民联盟主要领导人在达卡中央监狱遇害。11月7日，士兵起事推翻了反政变领导人，释放了齐亚·拉赫曼将军，他由此成为国家的实权人物，后来出任总统。",
+    "ja": "1975年11月3日の逆クーデターの際、タジュディン・アフマドを含むアワミ連盟の主要指導者4人がダッカ中央刑務所で殺害された。11月7日、兵士の蜂起が逆クーデターの首謀者を倒してジアウル・ラフマン将軍を解放し、彼は国の実力者として台頭して、のちに大統領となった。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ziaur Rahman founds the BNP",
+    "ko": "지아우르 라흐만의 BNP 창당",
+    "zh": "齐亚·拉赫曼创建孟加拉民族主义党",
+    "ja": "ジアウル・ラフマン、BNPを結成"
+   },
+   "description": {
+    "en": "Ziaur Rahman, who assumed the presidency in 1977, won a presidential election in 1978 and founded the Bangladesh Nationalist Party (BNP) that September. He promoted 'Bangladeshi nationalism', restored multi-party politics in a limited form, and amended the constitution to replace secularism with references to faith in God, setting a political direction distinct from the Awami League's.",
+    "ko": "1977년 대통령직에 오른 지아우르 라흐만은 1978년 대통령 선거에서 승리하고 같은 해 9월 방글라데시 민족주의당(BNP)을 창당했다. 그는 '방글라데시 민족주의'를 내세우고 제한적인 형태로 복수 정당 정치를 회복했으며, 헌법에서 세속주의를 신에 대한 믿음에 관한 표현으로 대체해 아와미 연맹과 구별되는 정치 노선을 세웠다.",
+    "zh": "1977年就任总统的齐亚·拉赫曼于1978年赢得总统选举，并于同年9月创建孟加拉民族主义党（BNP）。他倡导“孟加拉国民族主义”，以有限的形式恢复多党政治，并修改宪法，以对真主的信仰的表述取代世俗主义，确立了有别于人民联盟的政治方向。",
+    "ja": "1977年に大統領に就いたジアウル・ラフマンは1978年の大統領選挙に勝利し、同年9月にバングラデシュ民族主義党（BNP）を結成した。彼は「バングラデシュ・ナショナリズム」を掲げ、限定的な形で複数政党制を復活させ、憲法の世俗主義を神への信仰に関する文言に置き換えて、アワミ連盟とは異なる政治路線を打ち立てた。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": "Q4808524",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Ziaur Rahman",
+    "ko": "지아우르 라흐만 암살",
+    "zh": "齐亚·拉赫曼遇刺",
+    "ja": "ジアウル・ラフマン暗殺"
+   },
+   "description": {
+    "en": "On 30 May 1981 President Ziaur Rahman was killed by a group of army officers at the Circuit House in Chittagong during an attempted coup. The revolt was quickly suppressed, and Vice-President Abdus Sattar became president, but the army's influence over politics remained strong.",
+    "ko": "1981년 5월 30일 지아우르 라흐만 대통령은 쿠데타 시도 중 치타공의 서킷 하우스에서 일단의 군 장교들에게 살해되었다. 반란은 곧 진압되었고 압두스 사타르 부통령이 대통령이 되었지만, 정치에 대한 군의 영향력은 여전히 강했다.",
+    "zh": "1981年5月30日，齐亚·拉赫曼总统在一次未遂政变中于吉大港的巡回宾馆被一批军官杀害。叛乱很快被平息，副总统阿卜杜斯·萨塔尔继任总统，但军方对政治的影响依然强大。",
+    "ja": "1981年5月30日、ジアウル・ラフマン大統領はクーデター未遂の際、チッタゴンのサーキット・ハウスで陸軍将校の一団に殺害された。反乱はすぐに鎮圧され、アブドゥス・サッタル副大統領が大統領となったが、政治に対する軍の影響力は依然として強かった。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": "Q4580321",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ershad seizes power",
+    "ko": "에르샤드의 집권",
+    "zh": "艾尔沙德夺取政权",
+    "ja": "エルシャドの政権掌握"
+   },
+   "description": {
+    "en": "On 24 March 1982 army chief Hussain Muhammad Ershad overthrew the elected government of Abdus Sattar in a bloodless coup and imposed martial law. He later made himself president and founded the Jatiya Party, ruling for nearly nine years amid recurring opposition protests.",
+    "ko": "1982년 3월 24일 육군 참모총장 후사인 무함마드 에르샤드는 무혈 쿠데타로 압두스 사타르의 선출 정부를 무너뜨리고 계엄령을 선포했다. 그는 이후 스스로 대통령이 되고 자티야당을 창당해, 거듭되는 야당 시위 속에서 거의 9년간 통치했다.",
+    "zh": "1982年3月24日，陆军参谋长侯赛因·穆罕默德·艾尔沙德发动不流血政变，推翻阿卜杜斯·萨塔尔的民选政府并实行军事管制。他后来自任总统并创建民族党（Jatiya Party），在反对派抗议不断的情况下执政近九年。",
+    "ja": "1982年3月24日、陸軍参謀総長フセイン・ムハンマド・エルシャドは無血クーデターでアブドゥス・サッタルの選挙で選ばれた政府を倒し、戒厳令を敷いた。彼はのちに自ら大統領となってジャティヤ党を結成し、野党の抗議が繰り返される中で9年近く統治した。"
+   }
+  },
+  {
+   "year": 1983,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Grameen Bank established",
+    "ko": "그라민 은행 설립",
+    "zh": "格莱珉银行成立",
+    "ja": "グラミン銀行の設立"
+   },
+   "description": {
+    "en": "Growing out of economist Muhammad Yunus's experiments with small loans to poor villagers near Chittagong from 1976, the Grameen Bank was established as an independent bank in 1983. Lending mainly to rural women in groups without collateral, it became a model for microfinance worldwide, alongside other large Bangladeshi NGOs such as BRAC.",
+    "ko": "경제학자 무함마드 유누스가 1976년부터 치타공 인근 가난한 마을 주민들에게 소액 대출을 해 준 실험에서 출발한 그라민 은행은 1983년 독립 은행으로 설립되었다. 주로 농촌 여성들에게 담보 없이 그룹 단위로 대출하는 이 은행은 BRAC 등 방글라데시의 다른 대형 NGO와 함께 세계 소액 금융의 모델이 되었다.",
+    "zh": "格莱珉银行源于经济学家穆罕默德·尤努斯自1976年起在吉大港附近向贫困村民发放小额贷款的试验，于1983年成为一家独立银行。它主要以小组形式向农村妇女提供无抵押贷款，与BRAC等孟加拉国其他大型非政府组织一道，成为全球小额信贷的典范。",
+    "ja": "経済学者ムハマド・ユヌスが1976年からチッタゴン近郊の貧しい村人に少額の融資を行った実験から生まれたグラミン銀行は、1983年に独立した銀行として設立された。主に農村の女性にグループ単位で無担保融資を行う同行は、BRACなどバングラデシュの他の大規模NGOとともに、世界のマイクロファイナンスの手本となった。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "SAARC founded in Dhaka",
+    "ko": "다카에서 남아시아지역협력연합 창설",
+    "zh": "南亚区域合作联盟在达卡成立",
+    "ja": "ダッカで南アジア地域協力連合が発足"
+   },
+   "description": {
+    "en": "On 8 December 1985 the leaders of seven South Asian countries met in Dhaka and founded the South Asian Association for Regional Cooperation (SAARC), an organisation first proposed by President Ziaur Rahman. Its effectiveness has been limited, largely because of tensions between India and Pakistan.",
+    "ko": "1985년 12월 8일 남아시아 7개국 정상이 다카에 모여 지아우르 라흐만 대통령이 처음 제안한 남아시아지역협력연합(SAARC)을 창설했다. 그러나 주로 인도와 파키스탄 사이의 긴장 때문에 그 실효성은 제한적이었다.",
+    "zh": "1985年12月8日，南亚七国领导人在达卡聚会，成立了最初由齐亚·拉赫曼总统倡议的南亚区域合作联盟（SAARC）。由于印度和巴基斯坦之间的紧张关系，该组织的成效一直有限。",
+    "ja": "1985年12月8日、南アジア7か国の首脳がダッカに集まり、ジアウル・ラフマン大統領が最初に提唱した南アジア地域協力連合（SAARC）を発足させた。しかし主にインドとパキスタンの緊張のため、その実効性は限られている。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Islam made the state religion",
+    "ko": "이슬람교, 국교로 지정",
+    "zh": "伊斯兰教被定为国教",
+    "ja": "イスラームが国教とされる"
+   },
+   "description": {
+    "en": "In June 1988 the Ershad government passed the Eighth Amendment to the constitution, declaring Islam the state religion of Bangladesh while stating that other religions could be practised in peace. The amendment remains in the constitution and has been a recurring subject of debate over the country's secular founding principles.",
+    "ko": "1988년 6월 에르샤드 정부는 헌법 제8차 개정을 통과시켜 이슬람교를 방글라데시의 국교로 선언하면서, 다른 종교도 평화롭게 신봉할 수 있다고 명시했다. 이 조항은 지금도 헌법에 남아 있으며, 건국 이념인 세속주의를 둘러싼 논쟁의 단골 주제가 되어 왔다.",
+    "zh": "1988年6月，艾尔沙德政府通过第八修正案，宣布伊斯兰教为孟加拉国国教，同时规定其他宗教可以和平信奉。该条款至今仍保留在宪法中，并一直是围绕建国世俗原则的争论焦点。",
+    "ja": "1988年6月、エルシャド政権は憲法第8次改正を成立させ、イスラームをバングラデシュの国教と宣言しつつ、他の宗教も平和に信仰できると定めた。この条項は今も憲法に残り、建国の理念である世俗主義をめぐる論争の繰り返し現れるテーマとなっている。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": "Q5228013",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Daulatpur–Saturia tornado",
+    "ko": "다울라트푸르-사투리아 토네이도",
+    "zh": "道拉特普尔—萨图里亚龙卷风",
+    "ja": "ダウラトプル・サトゥリア竜巻"
+   },
+   "description": {
+    "en": "On 26 April 1989 a tornado struck the Daulatpur and Saturia areas of Manikganj district, destroying villages and killing an estimated 1,300 people. It is regarded as the deadliest tornado in recorded history, highlighting the vulnerability of densely populated rural Bangladesh to severe storms.",
+    "ko": "1989년 4월 26일 마니크간지 지역의 다울라트푸르와 사투리아 일대를 토네이도가 덮쳐 마을들을 파괴하고 약 1,300명의 목숨을 앗아간 것으로 추산된다. 이는 기록상 가장 많은 사망자를 낸 토네이도로 여겨지며, 인구가 밀집한 방글라데시 농촌이 강한 폭풍에 얼마나 취약한지를 보여 주었다.",
+    "zh": "1989年4月26日，一场龙卷风袭击了马尼格甘杰县的道拉特普尔和萨图里亚地区，摧毁村庄，估计造成约1300人死亡。这被认为是有记录以来最致命的龙卷风，凸显了人口稠密的孟加拉国农村面对强风暴时的脆弱。",
+    "ja": "1989年4月26日、マニクガンジ県のダウラトプルとサトゥリア地域を竜巻が襲い、村々を破壊して推定約1300人の命を奪った。これは記録上最も多くの死者を出した竜巻とされ、人口の密集したバングラデシュの農村が激しい嵐に対していかに脆弱かを示した。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q24950646",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fall of Ershad and Return to Democracy",
+    "ko": "에르샤드 퇴진과 민주주의 회복",
+    "zh": "艾尔沙德下台与民主恢复",
+    "ja": "エルシャド退陣と民主主義の回復"
+   },
+   "description": {
+    "en": "A mass pro-democracy movement forced President Hussain Muhammad Ershad to resign in December 1990, ending military-backed rule and restoring parliamentary democracy through the 1991 elections.",
+    "ko": "대규모 민주화 운동으로 1990년 12월 후사인 무함마드 에르샤드 대통령이 사임했다. 군부가 뒷받침하던 통치가 막을 내리고, 1991년 총선을 통해 의회 민주주의가 회복되었다.",
+    "zh": "1990年12月，大规模民主运动迫使总统侯赛因·穆罕默德·艾尔沙德辞职。军方支持的统治宣告结束，孟加拉国通过1991年大选恢复了议会民主制。",
+    "ja": "1990年12月、大規模な民主化運動によりフセイン・ムハンマド・エルシャド大統領が辞任した。軍部主導の統治は終わりを告げ、1991年の総選挙を通じて議会制民主主義が回復された。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q806498",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "1991 Bangladesh cyclone",
+    "ko": "1991년 방글라데시 사이클론",
+    "zh": "1991年孟加拉国气旋",
+    "ja": "1991年バングラデシュ・サイクロン"
+   },
+   "description": {
+    "en": "On the night of 29–30 April 1991 a powerful cyclone and storm surge struck the Chittagong coast, killing around 138,000 people and leaving millions homeless. The disaster led to major investment in cyclone shelters and early-warning systems, which greatly reduced death tolls in later storms.",
+    "ko": "1991년 4월 29일 밤부터 30일에 걸쳐 강력한 사이클론과 폭풍 해일이 치타공 해안을 덮쳐 약 13만 8천 명이 죽고 수백만 명이 집을 잃었다. 이 재해를 계기로 사이클론 대피소와 조기 경보 체계에 대규모 투자가 이루어졌고, 이후 폭풍의 사망자 수는 크게 줄었다.",
+    "zh": "1991年4月29日至30日夜间，一场强烈气旋及风暴潮袭击吉大港沿海，造成约13.8万人死亡，数百万人无家可归。这场灾难促使当局大规模投资建设气旋避难所和预警系统，大大减少了此后风暴造成的死亡人数。",
+    "ja": "1991年4月29日夜から30日にかけて、強力なサイクロンと高潮がチッタゴン沿岸を襲い、約13万8000人が死亡し、数百万人が家を失った。この災害を機にサイクロン・シェルターと早期警報システムへの大規模な投資が行われ、その後の嵐による死者数は大きく減った。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q4231505",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Return to parliamentary government",
+    "ko": "의원내각제로의 복귀",
+    "zh": "恢复议会制政府",
+    "ja": "議院内閣制への復帰"
+   },
+   "description": {
+    "en": "After the fall of Ershad, the BNP won the February 1991 election and Khaleda Zia became Bangladesh's first female prime minister. In August 1991 parliament passed the Twelfth Amendment restoring the parliamentary system, which voters approved in a referendum in September, ending the presidential system in place since 1975.",
+    "ko": "에르샤드 퇴진 후 BNP가 1991년 2월 총선에서 승리해 칼레다 지아가 방글라데시 최초의 여성 총리가 되었다. 1991년 8월 의회는 의원내각제를 복원하는 제12차 헌법 개정안을 통과시켰고, 9월 국민 투표에서 승인되어 1975년 이래의 대통령제가 끝났다.",
+    "zh": "艾尔沙德下台后，孟加拉民族主义党赢得1991年2月大选，卡莉达·齐亚成为孟加拉国首位女总理。1991年8月，议会通过恢复议会制的第十二修正案，并于9月经全民公投批准，结束了自1975年以来的总统制。",
+    "ja": "エルシャド退陣後、BNPが1991年2月の総選挙に勝利し、カレダ・ジアがバングラデシュ初の女性首相となった。1991年8月、議会は議院内閣制を復活させる第12次憲法改正を可決し、9月の国民投票で承認されて、1975年以来の大統領制は終わった。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Caretaker government system and Hasina's first term",
+    "ko": "선거 관리 내각제 도입과 하시나의 첫 집권",
+    "zh": "看守政府制度与哈西娜首次执政",
+    "ja": "選挙管理内閣制度とハシナの初政権"
+   },
+   "description": {
+    "en": "After an opposition-boycotted election in February 1996, parliament passed the Thirteenth Amendment providing for neutral caretaker governments to oversee elections. In the June 1996 election the Awami League returned to power and Sheikh Hasina became prime minister; in December her government signed a 30-year Ganges water-sharing treaty with India.",
+    "ko": "1996년 2월 야당이 거부한 선거 이후 의회는 중립적인 선거 관리 내각이 선거를 관장하도록 하는 제13차 헌법 개정을 통과시켰다. 1996년 6월 선거에서 아와미 연맹이 정권에 복귀해 셰이크 하시나가 총리가 되었으며, 12월 그녀의 정부는 인도와 30년 기한의 갠지스강 물 분배 조약을 체결했다.",
+    "zh": "在1996年2月反对党抵制的选举之后，议会通过第十三修正案，规定由中立的看守政府监督选举。在1996年6月的选举中，人民联盟重新执政，谢赫·哈西娜出任总理；同年12月，她的政府与印度签订了为期30年的恒河分水条约。",
+    "ja": "1996年2月の野党がボイコットした選挙の後、議会は中立の選挙管理内閣が選挙を監督する第13次憲法改正を可決した。1996年6月の選挙でアワミ連盟が政権に復帰してシェイク・ハシナが首相となり、12月には彼女の政府がインドと30年期限のガンジス川水分配条約を結んだ。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Chittagong Hill Tracts Peace Accord",
+    "ko": "치타공 산악지대 평화협정",
+    "zh": "吉大港山区和平协议",
+    "ja": "チッタゴン丘陵地帯和平協定"
+   },
+   "description": {
+    "en": "On 2 December 1997 the government signed a peace accord with the Parbatya Chattagram Jana Samhati Samiti, ending a two-decade insurgency by its armed wing, the Shanti Bahini, which sought autonomy for the Indigenous peoples of the Chittagong Hill Tracts. The accord created a regional council, but disputes over land and the incomplete implementation of its terms persist.",
+    "ko": "1997년 12월 2일 정부는 파르바티야 차타그람 자나 삼하티 사미티와 평화협정을 맺어, 치타공 산악지대 원주민의 자치를 요구해 온 그 무장 조직 샨티 바히니의 20년에 걸친 무장 투쟁을 끝냈다. 협정으로 지역 위원회가 설치되었지만, 토지 분쟁과 협정 조항의 불완전한 이행 문제는 계속되고 있다.",
+    "zh": "1997年12月2日，政府与吉大港山区人民团结协会签署和平协议，结束了其武装派别“和平军”（Shanti Bahini）长达二十年、旨在为吉大港山区原住民争取自治的武装斗争。协议设立了地区委员会，但土地纠纷以及协议条款落实不全的问题依然存在。",
+    "ja": "1997年12月2日、政府はパルバティヤ・チャッタグラム・ジャナ・サンハティ・サミティ（PCJSS）と和平協定を結び、チッタゴン丘陵地帯の先住民の自治を求めてきたその武装組織シャンティ・バヒニによる20年に及ぶ武装闘争を終わらせた。協定により地域評議会が設けられたが、土地をめぐる紛争や協定の不完全な履行の問題は続いている。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Great flood of 1998",
+    "ko": "1998년 대홍수",
+    "zh": "1998年大洪水",
+    "ja": "1998年の大洪水"
+   },
+   "description": {
+    "en": "From July to September 1998 prolonged monsoon flooding submerged about two-thirds of Bangladesh, including much of Dhaka, in one of the most severe floods of the century. Over a thousand people died and tens of millions were affected, but large-scale food aid and market measures prevented the flood from turning into famine.",
+    "ko": "1998년 7월부터 9월까지 이어진 장기 몬순 홍수로 다카의 상당 부분을 포함해 방글라데시 국토의 약 3분의 2가 물에 잠겼으며, 이는 20세기 최악의 홍수 가운데 하나였다. 천 명 이상이 죽고 수천만 명이 피해를 입었지만, 대규모 식량 지원과 시장 대책 덕분에 홍수가 기근으로 번지지는 않았다.",
+    "zh": "1998年7月至9月，持续的季风洪水淹没了孟加拉国约三分之二的国土，包括达卡大部分地区，是该世纪最严重的洪灾之一。逾千人死亡，数千万人受灾，但大规模粮食援助和市场措施避免了洪灾演变为饥荒。",
+    "ja": "1998年7月から9月にかけて長引いたモンスーンの洪水は、ダッカの大部分を含むバングラデシュの国土の約3分の2を水没させ、20世紀で最も深刻な洪水の一つとなった。1000人以上が死亡し数千万人が被災したが、大規模な食糧援助と市場対策により、洪水が飢饉に発展することは防がれた。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "International Mother Language Day proclaimed",
+    "ko": "세계 모어의 날 제정",
+    "zh": "国际母语日的设立",
+    "ja": "国際母語デーの制定"
+   },
+   "description": {
+    "en": "On 17 November 1999, following a proposal from Bangladesh, UNESCO's General Conference proclaimed 21 February, the anniversary of the 1952 Language Movement killings in Dhaka, as International Mother Language Day. It has been observed worldwide since 2000 to promote linguistic and cultural diversity.",
+    "ko": "1999년 11월 17일 유네스코 총회는 방글라데시의 제안에 따라 1952년 다카 언어 운동 희생의 기념일인 2월 21일을 '세계 모어의 날'로 선포했다. 2000년부터 언어와 문화의 다양성을 증진하기 위해 세계적으로 기념되고 있다.",
+    "zh": "1999年11月17日，联合国教科文组织大会根据孟加拉国的提议，宣布将1952年达卡语言运动流血事件的纪念日2月21日定为“国际母语日”。自2000年起，世界各地都会纪念这一天，以促进语言和文化的多样性。",
+    "ja": "1999年11月17日、ユネスコ総会はバングラデシュの提案を受け、1952年のダッカでの言語運動の犠牲を記念する2月21日を「国際母語デー」と宣言した。2000年以降、言語と文化の多様性を促進するため世界中で記念されている。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": "Q4602700",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Dhaka grenade attack",
+    "ko": "다카 수류탄 공격",
+    "zh": "达卡手榴弹袭击事件",
+    "ja": "ダッカ手榴弾攻撃事件"
+   },
+   "description": {
+    "en": "On 21 August 2004 grenades were thrown at an Awami League anti-terrorism rally in Dhaka addressed by opposition leader Sheikh Hasina, killing more than twenty people, including party leader Ivy Rahman, and injuring hundreds. Hasina survived with hearing damage. The attack deepened the hostility between the Awami League and the BNP-led government, and later trials remain politically contentious.",
+    "ko": "2004년 8월 21일 다카에서 야당 지도자 셰이크 하시나가 연설하던 아와미 연맹의 반테러 집회에 수류탄이 투척되어 당 지도자 아이비 라흐만을 포함해 20명 넘게 죽고 수백 명이 다쳤다. 하시나는 청력 손상을 입고 살아남았다. 이 공격은 아와미 연맹과 BNP 주도 정부 사이의 적대를 심화시켰으며, 이후의 재판은 여전히 정치적 논란거리다.",
+    "zh": "2004年8月21日，反对党领袖谢赫·哈西娜在达卡出席人民联盟反恐集会发表演讲时，集会遭手榴弹袭击，包括该党领导人艾薇·拉赫曼在内的二十余人死亡，数百人受伤。哈西娜幸存，但听力受损。袭击加深了人民联盟与孟加拉民族主义党领导的政府之间的敌对，此后的审判至今仍具政治争议。",
+    "ja": "2004年8月21日、ダッカで野党指導者シェイク・ハシナが演説していたアワミ連盟の反テロ集会に手榴弾が投げ込まれ、党指導者アイビー・ラフマンを含む20人以上が死亡し、数百人が負傷した。ハシナは聴覚に障害を負いながら生き延びた。この攻撃はアワミ連盟とBNP主導政権との敵対を深め、その後の裁判は今も政治的な論争の的となっている。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Nationwide serial bombings by JMB",
+    "ko": "JMB의 전국 동시다발 폭탄 테러",
+    "zh": "“孟加拉圣战者组织”全国连环爆炸",
+    "ja": "JMBによる全国同時爆破テロ"
+   },
+   "description": {
+    "en": "On 17 August 2005 the banned militant group Jamaat-ul-Mujahideen Bangladesh set off around 500 small bombs almost simultaneously in 63 of the country's 64 districts, demanding Islamic law. Although the casualties were relatively low, the coordinated attacks revealed the reach of Islamist militancy, and several of the group's leaders were later captured and executed.",
+    "ko": "2005년 8월 17일 불법화된 무장 단체 방글라데시 자마아툴 무자히딘(JMB)은 이슬람법 시행을 요구하며 전국 64개 지역 중 63개 지역에서 거의 동시에 약 500개의 소형 폭탄을 터뜨렸다. 사상자는 비교적 적었지만 이 조직적 공격은 이슬람 무장 세력의 확산 범위를 드러냈고, 이 단체의 지도자 여러 명이 이후 체포되어 처형되었다.",
+    "zh": "2005年8月17日，被取缔的武装组织“孟加拉圣战者组织”（JMB）在全国64个县中的63个几乎同时引爆约500枚小型炸弹，要求实行伊斯兰教法。尽管伤亡相对较少，但这次协同袭击暴露了伊斯兰武装势力的渗透范围，该组织的数名头目后来被捕并被处决。",
+    "ja": "2005年8月17日、非合法化された武装組織ジャマアトゥル・ムジャーヒディーン・バングラデシュ（JMB）は、イスラーム法の施行を要求して全国64県のうち63県でほぼ同時に約500個の小型爆弾を爆発させた。死傷者は比較的少なかったが、この組織的な攻撃はイスラーム過激派の浸透ぶりを示し、同組織の指導者数人はのちに逮捕・処刑された。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Nobel Peace Prize for Yunus and Grameen Bank",
+    "ko": "유누스와 그라민 은행의 노벨 평화상 수상",
+    "zh": "尤努斯与格莱珉银行获诺贝尔和平奖",
+    "ja": "ユヌスとグラミン銀行のノーベル平和賞受賞"
+   },
+   "description": {
+    "en": "In 2006 Muhammad Yunus and the Grameen Bank jointly received the Nobel Peace Prize for their efforts to create economic and social development from below through microcredit. Yunus became Bangladesh's first Nobel laureate; his later relations with the Awami League government were strained, and in 2024 he was chosen to lead the interim government.",
+    "ko": "2006년 무함마드 유누스와 그라민 은행은 소액 대출을 통해 아래로부터의 경제·사회 발전을 이끈 공로로 노벨 평화상을 공동 수상했다. 유누스는 방글라데시 최초의 노벨상 수상자가 되었으며, 이후 아와미 연맹 정부와 관계가 악화되었다가 2024년 과도정부 수반으로 선택되었다.",
+    "zh": "2006年，穆罕默德·尤努斯与格莱珉银行因通过小额信贷推动自下而上的经济和社会发展而共同获得诺贝尔和平奖。尤努斯成为孟加拉国首位诺贝尔奖得主；此后他与人民联盟政府关系紧张，2024年被推选为临时政府首脑。",
+    "ja": "2006年、ムハマド・ユヌスとグラミン銀行は、マイクロクレジットを通じて下からの経済的・社会的発展を生み出した功績によりノーベル平和賞を共同受賞した。ユヌスはバングラデシュ初のノーベル賞受賞者となったが、その後アワミ連盟政権との関係は悪化し、2024年に暫定政府の首班に選ばれた。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "State of emergency and military-backed caretaker government",
+    "ko": "비상사태와 군부 지원 선거 관리 내각",
+    "zh": "紧急状态与军方支持的看守政府",
+    "ja": "非常事態宣言と軍の支える選挙管理内閣"
+   },
+   "description": {
+    "en": "Amid violent street clashes over the conduct of planned elections, a state of emergency was declared on 11 January 2007 and a military-backed caretaker government led by Fakhruddin Ahmed took office. It launched an anti-corruption drive that detained hundreds of politicians, including both Sheikh Hasina and Khaleda Zia, before holding elections at the end of 2008.",
+    "ko": "예정된 선거 관리 방식을 둘러싼 격렬한 거리 충돌 속에서 2007년 1월 11일 비상사태가 선포되고 파크루딘 아흐메드가 이끄는 군부 지원 선거 관리 내각이 출범했다. 이 정부는 반부패 운동을 벌여 셰이크 하시나와 칼레다 지아를 포함한 수백 명의 정치인을 구금한 뒤 2008년 말 선거를 실시했다.",
+    "zh": "在围绕即将举行的选举如何组织而爆发的激烈街头冲突中，2007年1月11日宣布进入紧急状态，由法赫鲁丁·艾哈迈德领导、军方支持的看守政府上台。该政府开展反腐运动，拘押了包括谢赫·哈西娜和卡莉达·齐亚在内的数百名政治人物，并于2008年底举行选举。",
+    "ja": "予定された選挙の運営をめぐる激しい街頭衝突の中、2007年1月11日に非常事態が宣言され、ファクルディン・アハメド率いる軍の支える選挙管理内閣が発足した。同政府は反汚職運動を展開してシェイク・ハシナとカレダ・ジアを含む数百人の政治家を拘束し、2008年末に選挙を実施した。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclone Sidr",
+    "ko": "사이클론 시드르",
+    "zh": "气旋“锡德”",
+    "ja": "サイクロン・シドル"
+   },
+   "description": {
+    "en": "On 15 November 2007 Cyclone Sidr struck the south-western coast of Bangladesh near the Sundarbans, killing several thousand people and devastating homes, crops and forests. Although very destructive, its death toll was far lower than that of the 1970 and 1991 cyclones, reflecting improvements in warning systems and shelters.",
+    "ko": "2007년 11월 15일 사이클론 시드르가 순다르반스 부근 방글라데시 남서부 해안을 강타해 수천 명이 죽고 가옥, 농작물, 숲이 큰 피해를 입었다. 매우 파괴적이었지만 사망자 수는 1970년과 1991년 사이클론보다 훨씬 적었는데, 이는 경보 체계와 대피소가 개선된 결과였다.",
+    "zh": "2007年11月15日，气旋“锡德”在孙德尔本斯附近袭击孟加拉国西南沿海，造成数千人死亡，房屋、庄稼和森林遭受严重破坏。尽管破坏力极强，但其死亡人数远低于1970年和1991年的气旋，反映出预警系统和避难所的改善。",
+    "ja": "2007年11月15日、サイクロン・シドルがシュンドルボン近くのバングラデシュ南西部沿岸を襲い、数千人が死亡し、家屋や作物、森林が大きな被害を受けた。非常に破壊的ではあったが、死者数は1970年や1991年のサイクロンよりはるかに少なく、警報システムと避難施設の改善を反映していた。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "BDR mutiny",
+    "ko": "BDR 반란",
+    "zh": "孟加拉步枪队兵变",
+    "ja": "BDR反乱"
+   },
+   "description": {
+    "en": "On 25–26 February 2009 members of the Bangladesh Rifles border force mutinied at their headquarters at Pilkhana in Dhaka, killing 74 people, including 57 army officers. The mutiny, which broke out weeks after Sheikh Hasina returned to power, led to mass trials and the reorganisation of the force as Border Guard Bangladesh.",
+    "ko": "2009년 2월 25~26일 국경 경비대 방글라데시 라이플스 대원들이 다카 필카나의 본부에서 반란을 일으켜 육군 장교 57명을 포함한 74명을 살해했다. 셰이크 하시나가 정권에 복귀한 지 몇 주 만에 일어난 이 반란은 대규모 재판으로 이어졌고, 부대는 국경수비대(BGB)로 재편되었다.",
+    "zh": "2009年2月25日至26日，边防部队孟加拉步枪队成员在达卡皮尔卡纳总部发动兵变，杀死74人，其中包括57名陆军军官。这场兵变发生在谢赫·哈西娜重新执政数周之后，随后引发大规模审判，该部队被改组为孟加拉边防卫队。",
+    "ja": "2009年2月25～26日、国境警備部隊バングラデシュ・ライフルズの隊員がダッカのピルカナにある本部で反乱を起こし、陸軍将校57人を含む74人を殺害した。シェイク・ハシナの政権復帰から数週間後に起きたこの反乱は大規模な裁判につながり、部隊はボーダー・ガード・バングラデシュに改組された。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Caretaker system abolished",
+    "ko": "선거 관리 내각제 폐지",
+    "zh": "看守政府制度被废除",
+    "ja": "選挙管理内閣制度の廃止"
+   },
+   "description": {
+    "en": "In June 2011 the Awami League-dominated parliament passed the Fifteenth Amendment, abolishing the caretaker government system for elections. The opposition BNP argued that free elections were impossible under a sitting government, and the change set the stage for disputed and boycotted elections in 2014, 2018 and 2024.",
+    "ko": "2011년 6월 아와미 연맹이 장악한 의회는 제15차 헌법 개정을 통과시켜 선거 관리 내각 제도를 폐지했다. 야당 BNP는 현 정부 아래에서는 자유로운 선거가 불가능하다고 주장했고, 이 변화는 2014년, 2018년, 2024년의 논란과 보이콧으로 얼룩진 선거의 배경이 되었다.",
+    "zh": "2011年6月，人民联盟占主导的议会通过第十五修正案，废除了负责选举的看守政府制度。反对党孟加拉民族主义党认为在现任政府治下不可能举行自由选举，这一改变为2014年、2018年和2024年充满争议和遭抵制的选举埋下伏笔。",
+    "ja": "2011年6月、アワミ連盟が多数を占める議会は第15次憲法改正を可決し、選挙管理内閣制度を廃止した。野党BNPは現職政府のもとでは自由な選挙は不可能だと主張し、この変更は2014年、2018年、2024年の論争とボイコットに彩られた選挙の背景となった。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q136935",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Tazreen Fashions factory fire",
+    "ko": "타즈린 패션 공장 화재",
+    "zh": "塔兹林时装厂火灾",
+    "ja": "タズリーン・ファッション工場火災"
+   },
+   "description": {
+    "en": "On 24 November 2012 a fire at the Tazreen Fashions garment factory in Ashulia near Dhaka killed at least 112 workers, many of whom were trapped by locked exits and a lack of fire escapes. The disaster exposed unsafe conditions in the garment industry that produced clothing for major Western brands.",
+    "ko": "2012년 11월 24일 다카 인근 아슐리아의 타즈린 패션 의류 공장에서 화재가 발생해 최소 112명의 노동자가 죽었으며, 많은 이가 잠긴 출구와 비상 탈출로 부족 때문에 갇혔다. 이 참사는 서구 대형 브랜드의 옷을 생산하던 의류 산업의 위험한 작업 환경을 드러냈다.",
+    "zh": "2012年11月24日，达卡附近阿舒利亚的塔兹林时装制衣厂发生火灾，至少112名工人死亡，许多人因出口上锁和缺乏消防通道而被困。这场灾难暴露了为西方大品牌生产服装的制衣业不安全的工作条件。",
+    "ja": "2012年11月24日、ダッカ近郊アシュリアのタズリーン・ファッションの縫製工場で火災が起こり、少なくとも112人の労働者が死亡した。多くは施錠された出口や非常口の不足のために閉じ込められた。この惨事は、欧米の大手ブランドの衣料を生産する縫製産業の危険な労働環境を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q11838739",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Rana Plaza collapse",
+    "ko": "라나 플라자 붕괴",
+    "zh": "拉纳广场大楼倒塌",
+    "ja": "ラナ・プラザ崩落事故"
+   },
+   "description": {
+    "en": "On 24 April 2013 the eight-storey Rana Plaza building in Savar, housing several garment factories, collapsed a day after cracks had been noticed, killing 1,134 people. It was the deadliest disaster in the history of the global garment industry and led to the Accord on Fire and Building Safety in Bangladesh, signed by international brands and unions.",
+    "ko": "2013년 4월 24일 사바르에서 여러 의류 공장이 입주한 8층 건물 라나 플라자가 균열이 발견된 지 하루 만에 무너져 1,134명이 죽었다. 이는 세계 의류 산업 역사상 최악의 참사였으며, 국제 브랜드와 노동조합이 서명한 '방글라데시 화재·건물 안전 협약'으로 이어졌다.",
+    "zh": "2013年4月24日，位于萨瓦尔、容纳多家制衣厂的八层拉纳广场大楼在被发现出现裂缝的次日倒塌，造成1134人死亡。这是全球服装业史上最惨重的灾难，促成了国际品牌与工会签署的《孟加拉国消防与建筑安全协议》。",
+    "ja": "2013年4月24日、サバールで複数の縫製工場が入る8階建てのラナ・プラザが、ひび割れが見つかった翌日に崩壊し、1134人が死亡した。これは世界の衣料産業史上最悪の惨事であり、国際的なブランドと労働組合が署名した「バングラデシュにおける火災・建物安全協定」につながった。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Shahbag protests and war crimes trials",
+    "ko": "샤바그 시위와 전쟁 범죄 재판",
+    "zh": "沙巴格抗议与战争罪审判",
+    "ja": "シャーバーグ抗議運動と戦争犯罪裁判"
+   },
+   "description": {
+    "en": "In February 2013, after the International Crimes Tribunal set up in 2010 sentenced Jamaat-e-Islami leader Abdul Quader Mollah to life imprisonment for 1971 war crimes, mass protests at Shahbag in Dhaka demanded the death penalty. Counter-mobilisation by Islamist groups and deadly clashes followed, and several convicted leaders were executed from December 2013. The trials were welcomed by many Bangladeshis but criticised internationally over fair-trial standards.",
+    "ko": "2013년 2월 2010년에 설치된 국제범죄재판소가 1971년 전쟁 범죄 혐의로 자마트-에-이슬라미 지도자 압둘 카데르 몰라에게 종신형을 선고하자, 다카 샤바그에서 사형을 요구하는 대규모 시위가 벌어졌다. 이슬람주의 단체들의 맞대응과 유혈 충돌이 뒤따랐고, 2013년 12월부터 유죄 판결을 받은 지도자 여러 명이 처형되었다. 재판은 많은 방글라데시인의 환영을 받았지만, 공정한 재판 기준을 둘러싸고 국제적 비판도 받았다.",
+    "zh": "2013年2月，2010年设立的国际罪行法庭以1971年战争罪判处伊斯兰大会党领导人阿卜杜勒·卡德尔·莫拉无期徒刑，达卡沙巴格随即爆发要求判处死刑的大规模抗议。伊斯兰主义团体随后发起反动员，并发生致命冲突；自2013年12月起，数名被定罪的领导人被处决。审判受到许多孟加拉国民众欢迎，但在公正审判标准方面遭到国际批评。",
+    "ja": "2013年2月、2010年に設置された国際犯罪法廷が1971年の戦争犯罪でジャマーアテ・イスラーミーの指導者アブドゥル・カデル・モッラに終身刑を言い渡すと、ダッカのシャーバーグで死刑を求める大規模な抗議が起きた。イスラーム主義団体の対抗動員と死者を伴う衝突が続き、2013年12月以降、有罪となった指導者数人が処刑された。裁判は多くのバングラデシュ人に歓迎されたが、公正な裁判の基準をめぐって国際的な批判も受けた。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Boycotted 2014 general election",
+    "ko": "보이콧 속의 2014년 총선",
+    "zh": "遭抵制的2014年大选",
+    "ja": "ボイコットされた2014年総選挙"
+   },
+   "description": {
+    "en": "The general election of 5 January 2014 was boycotted by the BNP and its allies over the abolition of the caretaker system, and more than half of the 300 directly elected seats were won unopposed. The Awami League retained power under Sheikh Hasina, but the election was marred by violence and widely criticised as lacking credibility.",
+    "ko": "2014년 1월 5일 총선은 선거 관리 내각제 폐지에 반발한 BNP와 그 동맹 정당들의 보이콧 속에 치러졌고, 직선 의석 300석 중 절반 이상이 무투표로 결정되었다. 아와미 연맹은 셰이크 하시나 아래 정권을 유지했지만, 선거는 폭력으로 얼룩졌고 신뢰성이 없다는 비판을 널리 받았다.",
+    "zh": "2014年1月5日的大选因看守政府制度被废除而遭到孟加拉民族主义党及其盟党的抵制，300个直选议席中有一半以上无对手当选。人民联盟在谢赫·哈西娜领导下继续执政，但这次选举伴随暴力，并被普遍批评缺乏公信力。",
+    "ja": "2014年1月5日の総選挙は、選挙管理内閣制度の廃止に反発したBNPとその同盟政党にボイコットされ、直接選挙の300議席の半数以上が無投票で決まった。アワミ連盟はシェイク・ハシナのもとで政権を維持したが、選挙は暴力に見舞われ、信頼性に欠けると広く批判された。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "India–Bangladesh enclave exchange",
+    "ko": "인도·방글라데시 월경지 교환",
+    "zh": "印孟飞地交换",
+    "ja": "インド・バングラデシュの飛び地交換"
+   },
+   "description": {
+    "en": "On 31 July 2015, under the Land Boundary Agreement first signed in 1974 and finally ratified by India in 2015, Bangladesh and India exchanged 162 enclaves along their border: 111 Indian enclaves became part of Bangladesh and 51 Bangladeshi enclaves became part of India. Residents could choose their nationality, ending decades of statelessness in practice for tens of thousands of people.",
+    "ko": "2015년 7월 31일 1974년 처음 서명되고 2015년 인도가 최종 비준한 국경 협정에 따라 방글라데시와 인도는 국경을 따라 있던 162개 월경지를 교환했다. 인도 월경지 111곳이 방글라데시에, 방글라데시 월경지 51곳이 인도에 편입되었다. 주민들은 국적을 선택할 수 있게 되어, 수만 명이 수십 년간 겪어 온 사실상의 무국적 상태가 끝났다.",
+    "zh": "2015年7月31日，根据1974年首次签署、2015年由印度最终批准的《陆地边界协定》，孟加拉国与印度交换了边境沿线的162块飞地：111块印度飞地并入孟加拉国，51块孟加拉国飞地并入印度。居民可以选择国籍，数万人几十年来实际上的无国籍状态由此结束。",
+    "ja": "2015年7月31日、1974年に最初に署名され2015年にインドが最終的に批准した陸上国境協定に基づき、バングラデシュとインドは国境沿いの162の飛び地を交換した。インドの飛び地111か所がバングラデシュに、バングラデシュの飛び地51か所がインドに編入された。住民は国籍を選べるようになり、数万人が数十年にわたり置かれていた事実上の無国籍状態が終わった。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q25250323",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Holey Artisan Bakery attack",
+    "ko": "홀리 아티잔 베이커리 테러",
+    "zh": "霍利工匠面包店袭击事件",
+    "ja": "ホーリー・アルチザン・ベーカリー襲撃事件"
+   },
+   "description": {
+    "en": "On 1 July 2016 militants stormed the Holey Artisan Bakery in Dhaka's diplomatic quarter of Gulshan, taking hostages and killing 20 of them, mostly foreigners including Italian and Japanese nationals, as well as two police officers. The so-called Islamic State claimed responsibility, while the government blamed a faction of the domestic group JMB. The attack prompted a major crackdown on militancy.",
+    "ko": "2016년 7월 1일 무장 대원들이 다카의 외교 구역 굴샨에 있는 홀리 아티잔 베이커리를 습격해 인질을 잡고, 이탈리아인과 일본인 등 대부분 외국인인 인질 20명과 경찰관 2명을 살해했다. 이른바 '이슬람국가(IS)'가 배후를 자처했으나 정부는 국내 단체 JMB의 분파를 지목했다. 이 공격은 무장 세력에 대한 대대적 단속으로 이어졌다.",
+    "zh": "2016年7月1日，武装分子冲进达卡使馆区古尔山的霍利工匠面包店劫持人质，杀害其中20人（多为包括意大利人和日本人在内的外国人）以及两名警察。所谓“伊斯兰国”宣称负责，而政府则归咎于国内组织“孟加拉圣战者组织”的一个派系。此次袭击促使当局大规模打击武装分子。",
+    "ja": "2016年7月1日、武装集団がダッカの大使館地区グルシャンにあるホーリー・アルチザン・ベーカリーを襲撃して人質を取り、イタリア人や日本人を含む主に外国人の人質20人と警察官2人を殺害した。いわゆる「イスラム国」が犯行声明を出したが、政府は国内組織JMBの一派の犯行とした。この攻撃を受けて過激派への大規模な取り締まりが行われた。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q23048209",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Bangladesh Bank heist",
+    "ko": "방글라데시 중앙은행 해킹 사건",
+    "zh": "孟加拉国央行劫案",
+    "ja": "バングラデシュ中央銀行不正送金事件"
+   },
+   "description": {
+    "en": "In February 2016 hackers used the SWIFT network to send fraudulent payment orders from Bangladesh Bank's account at the Federal Reserve Bank of New York, stealing about 81 million US dollars, most of which was routed to accounts in the Philippines. Much of the money was never recovered, and the case became one of the largest cyber-thefts from a central bank.",
+    "ko": "2016년 2월 해커들은 SWIFT 망을 이용해 뉴욕 연방준비은행에 있는 방글라데시 중앙은행 계좌에서 위조 지급 지시를 보내 약 8,100만 달러를 빼돌렸으며, 대부분은 필리핀의 계좌로 흘러갔다. 상당액은 끝내 회수되지 않았고, 이 사건은 중앙은행을 상대로 한 최대 규모의 사이버 절도 가운데 하나가 되었다.",
+    "zh": "2016年2月，黑客利用SWIFT网络从孟加拉国银行在纽约联邦储备银行的账户发出伪造的支付指令，盗走约8100万美元，其中大部分被转入菲律宾的账户。大部分资金始终未能追回，此案成为针对中央银行规模最大的网络盗窃案之一。",
+    "ja": "2016年2月、ハッカーはSWIFTネットワークを使い、ニューヨーク連邦準備銀行にあるバングラデシュ中央銀行の口座から不正な支払い指図を送り、約8100万ドルを盗み出した。その大半はフィリピンの口座に送金された。多くは回収されず、この事件は中央銀行を狙った最大級のサイバー窃盗の一つとなった。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Rohingya refugee influx",
+    "ko": "로힝야 난민 대량 유입",
+    "zh": "罗兴亚难民大规模涌入",
+    "ja": "ロヒンギャ難民の大量流入"
+   },
+   "description": {
+    "en": "From late August 2017, a Myanmar military campaign in Rakhine State drove more than 700,000 Rohingya Muslims across the border into Bangladesh's Cox's Bazar district within a few months. Together with earlier arrivals, nearly a million refugees came to live in vast camps around Kutupalong, one of the largest refugee settlements in the world, and efforts at repatriation have so far failed.",
+    "ko": "2017년 8월 말부터 미얀마군의 라카인주 작전으로 몇 달 사이에 70만 명이 넘는 로힝야 무슬림이 국경을 넘어 방글라데시 콕스바자르 지역으로 피란했다. 이전에 온 난민을 합쳐 100만 명 가까운 난민이 세계 최대급 난민촌인 쿠투팔롱 일대의 거대한 캠프에서 살게 되었으며, 송환 노력은 지금까지 성과를 거두지 못했다.",
+    "zh": "自2017年8月下旬起，缅甸军队在若开邦的军事行动在数月内迫使逾70万罗兴亚穆斯林越境逃入孟加拉国科克斯巴扎尔县。连同此前抵达者，近百万难民居住在库图巴朗一带的庞大营地中，这里是世界上最大的难民定居点之一，而遣返努力迄今未获成功。",
+    "ja": "2017年8月下旬から、ミャンマー軍のラカイン州での作戦により、数か月のうちに70万人を超えるロヒンギャのムスリムが国境を越えてバングラデシュのコックスバザール県へ逃れた。それ以前に来た人々と合わせて100万人近い難民が、世界最大級の難民居住地であるクトゥパロン周辺の巨大なキャンプで暮らすことになり、帰還の試みはこれまで実を結んでいない。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q55897756",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Quota reform and road safety protests",
+    "ko": "공직 할당제 개혁 시위와 도로 안전 시위",
+    "zh": "公职配额改革与道路安全抗议",
+    "ja": "公務員採用割当制改革デモと交通安全デモ"
+   },
+   "description": {
+    "en": "In 2018 students staged large protests against the quota system that reserved most government jobs for specific groups, including descendants of 1971 freedom fighters; the government abolished quotas for higher civil-service posts that October. In July–August, after two students were killed by a speeding bus, schoolchildren took over Dhaka's streets demanding road safety. Both movements foreshadowed the much larger student uprising of 2024.",
+    "ko": "2018년 학생들은 1971년 독립 투사 후손 등 특정 집단에 공직 대부분을 할당하는 제도에 반대하는 대규모 시위를 벌였고, 정부는 그해 10월 상위 공무원직의 할당제를 폐지했다. 7~8월에는 과속 버스에 학생 2명이 숨진 뒤 학생들이 다카 거리를 점거하고 도로 안전을 요구했다. 두 운동은 훨씬 더 큰 2024년 학생 봉기의 전조가 되었다.",
+    "zh": "2018年，学生们发起大规模抗议，反对将大部分公职名额保留给包括1971年自由战士后代在内的特定群体的配额制度；政府于同年10月废除了较高级别公务员职位的配额。7至8月间，两名学生被超速巴士撞死后，中小学生占领达卡街头要求道路安全。这两场运动预示了规模大得多的2024年学生起义。",
+    "ja": "2018年、学生たちは1971年の独立戦士の子孫など特定の集団に公務員職の多くを割り当てる制度に反対して大規模な抗議を行い、政府は同年10月に上級公務員職の割当制を廃止した。7～8月には、暴走したバスに学生2人がひかれて死亡したのを受け、生徒たちがダッカの街頭を占拠して交通安全を要求した。二つの運動は、はるかに大規模な2024年の学生蜂起の前触れとなった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87540454",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in Bangladesh",
+    "ko": "방글라데시의 코로나19 대유행",
+    "zh": "新冠疫情在孟加拉国",
+    "ja": "バングラデシュの新型コロナウイルス流行"
+   },
+   "description": {
+    "en": "Bangladesh confirmed its first COVID-19 cases in March 2020 and imposed a nationwide shutdown soon after. The pandemic disrupted garment exports as Western buyers cancelled orders, threatened the livelihoods of millions of workers, and led to one of the world's longest school closures. Cyclone Amphan struck the south-west in May the same year.",
+    "ko": "방글라데시는 2020년 3월 첫 코로나19 확진자를 확인하고 곧 전국적인 봉쇄를 시행했다. 대유행으로 서구 바이어들이 주문을 취소하면서 의류 수출이 타격을 입어 수백만 노동자의 생계가 위협받았고, 학교는 세계에서 가장 오래 휴교한 나라 가운데 하나가 되었다. 같은 해 5월에는 사이클론 암판이 남서부를 강타했다.",
+    "zh": "孟加拉国于2020年3月确诊首批新冠病例，随即实施全国停摆。疫情期间西方买家取消订单，成衣出口受挫，数百万工人的生计受到威胁，学校停课时间也位居世界最长之列。同年5月，气旋“安攀”袭击了西南部。",
+    "ja": "バングラデシュは2020年3月に新型コロナウイルスの最初の感染者を確認し、まもなく全国的な封鎖を実施した。欧米のバイヤーが注文を取り消したことで縫製品輸出が打撃を受けて数百万人の労働者の生活が脅かされ、学校閉鎖は世界で最も長いものの一つとなった。同年5月にはサイクロン・アンファンが南西部を襲った。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Approved to graduate from Least Developed Country status",
+    "ko": "최빈개도국 졸업 승인",
+    "zh": "获准脱离最不发达国家行列",
+    "ja": "後発開発途上国からの卒業が承認"
+   },
+   "description": {
+    "en": "In November 2021, the year Bangladesh marked fifty years of independence, the UN General Assembly adopted a resolution approving its graduation from the Least Developed Country category, scheduled for 2026. The milestone reflected decades of growth driven by garment exports, remittances and gains in health and education, though it also meant the eventual loss of some trade preferences.",
+    "ko": "방글라데시 독립 50주년이던 2021년 11월 유엔 총회는 방글라데시를 2026년 최빈개도국 범주에서 졸업시키는 결의를 채택했다. 이는 의류 수출, 해외 송금, 보건·교육 개선이 이끈 수십 년간의 성장을 반영한 이정표였지만, 동시에 일부 무역 특혜를 결국 잃게 됨을 뜻하기도 했다.",
+    "zh": "2021年11月，正值孟加拉国独立五十周年，联合国大会通过决议，批准该国于2026年脱离最不发达国家行列。这一里程碑反映了数十年来由成衣出口、侨汇以及卫生和教育进步所推动的增长，但也意味着最终将失去部分贸易优惠。",
+    "ja": "独立50周年にあたる2021年11月、国連総会はバングラデシュを2026年に後発開発途上国（LDC）から卒業させる決議を採択した。これは縫製品輸出、海外送金、保健・教育の向上に支えられた数十年の成長を反映する節目だったが、いずれ一部の貿易上の優遇を失うことも意味した。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Padma Bridge opens",
+    "ko": "파드마 다리 개통",
+    "zh": "帕德玛大桥通车",
+    "ja": "パドマ橋の開通"
+   },
+   "description": {
+    "en": "On 25 June 2022 the Padma Multipurpose Bridge, a road-rail bridge over 6 km long across the Padma River, opened to traffic, directly linking Dhaka with the south-western districts for the first time. Built with domestic funds after the World Bank withdrew its loan in 2012 over corruption allegations, it became a symbol of national pride; Dhaka's first metro line opened later the same year.",
+    "ko": "2022년 6월 25일 파드마강을 가로지르는 길이 6km가 넘는 도로·철도 겸용 다리인 파드마 다목적 다리가 개통되어, 처음으로 다카와 남서부 지역이 직접 연결되었다. 2012년 세계은행이 부패 의혹을 이유로 차관을 철회한 뒤 국내 자금으로 건설된 이 다리는 국가적 자부심의 상징이 되었으며, 같은 해 말에는 다카 최초의 지하철 노선도 개통했다.",
+    "zh": "2022年6月25日，横跨帕德玛河、全长逾6公里的公铁两用桥帕德玛多功能大桥通车，首次将达卡与西南各县直接相连。在世界银行于2012年以腐败指控为由撤回贷款后，该桥以国内资金建成，成为民族自豪感的象征；同年晚些时候，达卡第一条地铁线路也开通运营。",
+    "ja": "2022年6月25日、パドマ川に架かる全長6キロを超える道路・鉄道併用橋パドマ多目的橋が開通し、ダッカと南西部の県が初めて直接結ばれた。2012年に世界銀行が汚職疑惑を理由に融資を撤回した後、国内資金で建設されたこの橋は国の誇りの象徴となり、同じ年の暮れにはダッカ初の地下鉄路線も開業した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q121811702",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Record dengue outbreak",
+    "ko": "기록적인 뎅기열 유행",
+    "zh": "创纪录的登革热疫情",
+    "ja": "記録的なデング熱の流行"
+   },
+   "description": {
+    "en": "In 2023 Bangladesh suffered its worst dengue outbreak on record, with more than 300,000 hospitalised cases and over 1,700 deaths. Hot, wet weather, rapid urbanisation and the spread of the mosquito beyond Dhaka contributed to the epidemic, which overwhelmed hospitals across the country.",
+    "ko": "2023년 방글라데시는 기록상 최악의 뎅기열 유행을 겪어 30만 명이 넘는 입원 환자와 1,700명이 넘는 사망자가 발생했다. 덥고 습한 날씨, 급속한 도시화, 다카 밖으로의 모기 확산이 유행을 부추겼고, 전국의 병원이 감당하기 어려운 상황에 놓였다.",
+    "zh": "2023年，孟加拉国遭遇有记录以来最严重的登革热疫情，住院病例逾30万，死亡人数超过1700人。湿热天气、快速城市化以及蚊媒向达卡以外地区扩散助长了疫情，全国各地医院不堪重负。",
+    "ja": "2023年、バングラデシュは記録上最悪のデング熱の流行に見舞われ、入院患者は30万人を超え、死者は1700人を上回った。高温多湿の天候、急速な都市化、ダッカ以外への蚊の拡散が流行を助長し、全国の病院が逼迫した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "January 2024 general election",
+    "ko": "2024년 1월 총선",
+    "zh": "2024年1月大选",
+    "ja": "2024年1月の総選挙"
+   },
+   "description": {
+    "en": "The general election of 7 January 2024, boycotted by the BNP and held amid the arrest of many opposition activists, gave the Awami League a large majority and Sheikh Hasina a fourth consecutive term. Turnout was low and many observers questioned the credibility of the vote. Within seven months her government would fall.",
+    "ko": "2024년 1월 7일 총선은 BNP가 보이콧하고 많은 야당 활동가가 체포된 가운데 치러져, 아와미 연맹이 큰 과반을 얻고 셰이크 하시나가 4연임에 성공했다. 투표율은 낮았고 많은 관측자가 선거의 신뢰성에 의문을 제기했다. 그로부터 7개월이 채 안 되어 그녀의 정부는 무너졌다.",
+    "zh": "2024年1月7日的大选在孟加拉民族主义党抵制、众多反对派人士被捕的情况下举行，人民联盟赢得大多数议席，谢赫·哈西娜第四次连任。投票率偏低，许多观察人士质疑选举的公信力。不到七个月，她的政府便倒台了。",
+    "ja": "2024年1月7日の総選挙は、BNPがボイコットし多くの野党活動家が逮捕される中で行われ、アワミ連盟が大差の多数を得てシェイク・ハシナが4期連続で政権を担うことになった。投票率は低く、多くの観察者が選挙の信頼性に疑問を呈した。それから7か月足らずで彼女の政権は崩壊した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q129322778",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Deadly crackdown of July–August 2024",
+    "ko": "2024년 7~8월의 유혈 진압",
+    "zh": "2024年7月至8月的血腥镇压",
+    "ja": "2024年7～8月の流血の弾圧"
+   },
+   "description": {
+    "en": "As student protests against the reinstated job quotas spread in July 2024, security forces and ruling-party activists responded with lethal force, and the government imposed curfews and a nationwide internet shutdown. A UN human rights fact-finding report published in February 2025 estimated that as many as 1,400 people may have been killed between mid-July and early August, many of them by security forces.",
+    "ko": "2024년 7월 부활한 공직 할당제에 반대하는 학생 시위가 확산되자 보안군과 여당 활동가들은 치명적인 무력으로 대응했고, 정부는 통행금지와 전국적인 인터넷 차단을 시행했다. 2025년 2월 발표된 유엔 인권 진상조사 보고서는 7월 중순부터 8월 초 사이에 최대 1,400명이 살해되었을 수 있으며, 그 상당수가 보안군에 의한 것이라고 추산했다.",
+    "zh": "2024年7月，反对恢复公职配额的学生抗议蔓延，安全部队和执政党积极分子以致命武力回应，政府实施宵禁并在全国切断互联网。2025年2月发布的联合国人权事实调查报告估计，7月中旬至8月初期间可能有多达1400人遇害，其中许多人死于安全部队之手。",
+    "ja": "2024年7月、復活した公務員採用割当制に反対する学生デモが広がると、治安部隊と与党活動家は致死的な武力で応じ、政府は外出禁止令と全国的なインターネット遮断を実施した。2025年2月に公表された国連人権高等弁務官事務所の事実調査報告は、7月中旬から8月初めまでに最大1400人が殺害された可能性があり、その多くが治安部隊によるものだと推計した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q130255015",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Student-Led Uprising of 2024",
+    "ko": "2024년 학생 주도 시위",
+    "zh": "2024年学生运动",
+    "ja": "2024年の学生主導の抗議運動"
+   },
+   "description": {
+    "en": "Mass student-led protests over job quotas grew into a nationwide movement. Prime Minister Sheikh Hasina resigned and left the country in August 2024, and an interim government led by Nobel laureate Muhammad Yunus took office.",
+    "ko": "공직 할당제에 반대하는 학생 시위가 전국적 운동으로 확산되었다. 2024년 8월 셰이크 하시나 총리가 사임하고 출국했으며, 노벨상 수상자 무함마드 유누스가 이끄는 과도정부가 출범했다.",
+    "zh": "针对公职配额制的学生抗议发展为全国性运动。2024年8月，总理谢赫·哈西娜辞职并离开该国，由诺贝尔奖得主穆罕默德·尤努斯领导的临时政府随后成立。",
+    "ja": "公務員採用の割当制に反対する学生デモが全国的な運動へと拡大した。2024年8月、シェイク・ハシナ首相は辞任して出国し、ノーベル賞受賞者ムハマド・ユヌス率いる暫定政権が発足した。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q135433157",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Air force jet crashes into a Dhaka school",
+    "ko": "다카 학교에 공군기 추락",
+    "zh": "空军战机坠毁于达卡一所学校",
+    "ja": "空軍機がダッカの学校に墜落"
+   },
+   "description": {
+    "en": "On 21 July 2025 a Bangladesh Air Force F-7 training jet crashed shortly after take-off into the campus of Milestone School and College in Dhaka's Uttara district. Dozens of people were killed, most of them schoolchildren, making it one of the deadliest aviation disasters in the country's history and prompting calls to move military training flights away from the densely populated capital.",
+    "ko": "2025년 7월 21일 방글라데시 공군의 F-7 훈련기가 이륙 직후 다카 우타라 지역의 마일스톤 스쿨 앤드 칼리지 교정에 추락했다. 수십 명이 숨졌고 그 대부분이 학생이어서 이 나라 역사상 최악의 항공 참사 가운데 하나가 되었으며, 인구 밀집 수도에서 군 훈련 비행을 옮겨야 한다는 요구가 일었다.",
+    "zh": "2025年7月21日，一架孟加拉国空军F-7教练机起飞后不久坠毁在达卡乌塔拉区的里程碑学校与学院校园内。事故造成数十人死亡，其中大多是学生，成为该国历史上最惨重的航空灾难之一，并引发将军事训练飞行迁离人口稠密首都的呼声。",
+    "ja": "2025年7月21日、バングラデシュ空軍のF-7練習機が離陸直後、ダッカのウットラ地区にあるマイルストーン・スクール・アンド・カレッジの構内に墜落した。数十人が死亡し、その多くが児童・生徒であったことから、同国史上最悪級の航空惨事となり、人口の密集した首都から軍の訓練飛行を移すべきだとの声が上がった。"
+   }
+  }
+ ]
+}

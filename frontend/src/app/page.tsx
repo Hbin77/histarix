@@ -19,7 +19,7 @@ export default function HomePage() {
   const [searchOpen, setSearchOpen] = useState(false);
   const globeRef = useRef<DotGlobeHandle>(null);
   const { currentYear, isPlaying, setCurrentYear, togglePlay } =
-    useTimeSlider(2000);
+    useTimeSlider();
 
   const handleCountrySelect = (country: SelectedCountry) => {
     setSelectedCountry(country);
@@ -57,6 +57,7 @@ export default function HomePage() {
         onCountrySelect={handleCountrySelect}
         onDeselect={handleClosePanel}
         selectedCountryCode={selectedCountry?.iso_code ?? null}
+        year={currentYear}
       />
 
       <IntroSplash />
@@ -78,6 +79,8 @@ export default function HomePage() {
       <CountryPanel
         selectedCountry={selectedCountry}
         onClose={handleClosePanel}
+        year={currentYear}
+        onYearChange={setCurrentYear}
       />
 
       <TimeSlider

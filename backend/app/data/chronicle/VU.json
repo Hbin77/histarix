@@ -1,0 +1,843 @@
+{
+ "iso": "VU",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -1001,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Islands before human settlement",
+    "ko": "인류 정착 이전의 섬들",
+    "zh": "人类定居之前的岛屿",
+    "ja": "人類定住以前の島々"
+   },
+   "summary": {
+    "en": "The volcanic islands of what is now Vanuatu lie in Remote Oceania, beyond the chain of large islands that people had reached from New Guinea tens of thousands of years earlier. Before about 3,000 years ago the archipelago had no human inhabitants, and its forests, birds and reefs developed without human influence.",
+    "ko": "오늘날 바누아투의 화산섬들은 수만 년 전 사람들이 뉴기니에서 건너간 큰 섬들의 사슬 너머, 이른바 '원(遠)오세아니아'에 자리한다. 약 3천 년 전까지 이 제도에는 사람이 살지 않았고, 숲과 새, 산호초는 인간의 영향 없이 형성되었다.",
+    "zh": "今瓦努阿图的火山岛位于“远大洋洲”，在人类数万年前就已从新几内亚抵达的大岛链之外。约三千年前，这片群岛尚无人类居住，其森林、鸟类和珊瑚礁在没有人类影响的情况下发展。",
+    "ja": "現在のバヌアツの火山島は、人々が数万年前にニューギニアから到達した大きな島々の連なりの先、いわゆる「リモート・オセアニア」に位置する。約3000年前まで群島には人が住んでおらず、森や鳥、サンゴ礁は人間の影響を受けずに形成された。"
+   }
+  },
+  {
+   "from": -1300,
+   "to": -500,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Lapita settlement",
+    "ko": "라피타 문화의 정착",
+    "zh": "拉皮塔文化定居",
+    "ja": "ラピタ文化の定住"
+   },
+   "summary": {
+    "en": "Austronesian-speaking voyagers of the Lapita culture, known for finely dentate-stamped pottery, sailed east from the Bismarck Archipelago in the late second millennium BC and reached the islands around 3,000 years ago. They brought pigs, chickens, crops and outrigger canoe technology and founded the first communities. The Teouma cemetery on Efate is one of the oldest Lapita burial sites known.",
+    "ko": "정교한 치문(齒文) 압인 토기로 알려진 라피타 문화의 오스트로네시아어 사용 항해민은 기원전 2천년기 말 비스마르크 제도에서 동쪽으로 항해해 약 3천 년 전 이 섬들에 도착했다. 이들은 돼지와 닭, 작물, 아우트리거 카누 기술을 들여와 최초의 공동체를 세웠다. 에파테섬의 테오우마 묘지는 알려진 가장 오래된 라피타 매장 유적 가운데 하나다.",
+    "zh": "以精美齿状压印陶器著称的拉皮塔文化南岛语系航海者，于公元前二千纪末从俾斯麦群岛向东航行，约三千年前抵达这些岛屿。他们带来了猪、鸡、作物和舷外浮杆独木舟技术，建立了最早的社区。埃法特岛的特乌马墓地是已知最古老的拉皮塔墓葬遗址之一。",
+    "ja": "精巧な鋸歯印文土器で知られるラピタ文化のオーストロネシア語系航海民は、紀元前2千年紀末にビスマルク諸島から東へ航海し、約3000年前にこれらの島々に到達した。彼らはブタやニワトリ、作物、アウトリガーカヌーの技術をもたらし、最初の共同体を築いた。エファテ島のテオウマ墓地は知られる最古のラピタ埋葬遺跡の一つである。"
+   }
+  },
+  {
+   "from": -500,
+   "to": 1606,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Customary Melanesian societies",
+    "ko": "멜라네시아 전통 사회",
+    "zh": "美拉尼西亚传统社会",
+    "ja": "メラネシアの慣習社会"
+   },
+   "summary": {
+    "en": "After the Lapita period, island communities developed diverse local pottery traditions, languages and customs; Vanuatu today has more than a hundred indigenous languages. Societies were organized around kin groups, chiefs and, in the north, graded societies in which men rose in rank through pig-killing ceremonies. Inter-island exchange networks, oral traditions and figures such as the chief Roi Mata of Efate shaped a world later disrupted, but not erased, by colonization.",
+    "ko": "라피타 시기 이후 섬 공동체들은 다양한 지역 토기 전통과 언어, 관습을 발전시켰으며, 오늘날 바누아투에는 100개가 넘는 토착 언어가 있다. 사회는 친족 집단과 추장을 중심으로 조직되었고, 북부에서는 돼지 도살 의례를 통해 남성이 지위를 높여 가는 위계 사회(그레이드 소사이어티)가 발달했다. 섬 사이의 교환망과 구전 전승, 에파테의 로이 마타 같은 추장들이 이룬 세계는 이후 식민화로 흔들렸지만 사라지지는 않았다.",
+    "zh": "拉皮塔时期之后，各岛社区发展出多样的地方陶器传统、语言和习俗；今天瓦努阿图有一百多种本土语言。社会以亲族群体和酋长为中心组织，北部则发展出等级社会，男子通过杀猪仪式逐级晋升地位。岛际交换网络、口述传统以及埃法特岛的罗伊·马塔等酋长塑造了一个世界，它后来受到殖民冲击，但并未消失。",
+    "ja": "ラピタ期の後、島々の共同体は多様な地域土器の伝統や言語、慣習を発展させ、今日のバヌアツには100を超える固有言語がある。社会は親族集団や首長を中心に組織され、北部ではブタを屠る儀礼によって男性が位階を上げていく階梯制社会が発達した。島々を結ぶ交換網や口承伝統、エファテのロイ・マタのような首長たちが形づくった世界は、のちに植民地化で揺さぶられたが、消えることはなかった。"
+   }
+  },
+  {
+   "from": 1606,
+   "to": 1906,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "European contact, missions and labor trade",
+    "ko": "유럽인과의 접촉, 선교와 노동력 무역",
+    "zh": "欧洲接触、传教与劳工贸易",
+    "ja": "ヨーロッパとの接触、伝道と労働交易"
+   },
+   "summary": {
+    "en": "Following Quirós in 1606, Bougainville and Cook in the 18th century charted the islands, which Cook named the New Hebrides. In the 19th century sandalwood traders, whalers, Presbyterian, Anglican and Catholic missionaries, and labor recruiters arrived; tens of thousands of islanders were taken to plantations in Queensland, Fiji and New Caledonia. Introduced diseases caused severe population decline, while British and French settlers competed for land.",
+    "ko": "1606년 키로스에 이어 18세기 부갱빌과 쿡이 이 섬들을 측량했고, 쿡은 이곳을 뉴헤브리디스라고 명명했다. 19세기에는 백단향 상인, 포경선원, 장로교·성공회·가톨릭 선교사, 노동자 모집업자가 들어왔으며, 수만 명의 섬 주민이 퀸즐랜드와 피지, 뉴칼레도니아의 농장으로 끌려갔다. 외래 질병으로 인구가 크게 줄었고, 영국인과 프랑스인 정착민이 토지를 두고 경쟁했다.",
+    "zh": "继1606年基罗斯之后，18世纪布干维尔和库克先后测绘这些岛屿，库克将其命名为新赫布里底。19世纪，檀香木商人、捕鲸者、长老会、圣公会和天主教传教士以及劳工招募者纷至沓来，数万岛民被带往昆士兰、斐济和新喀里多尼亚的种植园。外来疾病导致人口锐减，英法移民则争夺土地。",
+    "ja": "1606年のキロスに続き、18世紀にはブーガンヴィルとクックが島々を測量し、クックはこれをニューヘブリディーズと名づけた。19世紀には白檀商人や捕鯨者、長老派・聖公会・カトリックの宣教師、労働者の募集業者が訪れ、数万人の島民がクイーンズランドやフィジー、ニューカレドニアの農園へ連れて行かれた。持ち込まれた病気で人口は激減し、英仏の入植者が土地を奪い合った。"
+   }
+  },
+  {
+   "from": 1889,
+   "to": 1890,
+   "kind": "state",
+   "qid": "Q5479650",
+   "polity": null,
+   "name": {
+    "en": "Commune of Franceville",
+    "ko": "프랑스빌 코뮌",
+    "zh": "弗朗斯维尔公社",
+    "ja": "フランスビル・コミューン"
+   },
+   "summary": {
+    "en": "In 1889 settlers at Franceville, today's Port Vila, declared a self-governing commune outside British or French control, with an elected council and a president. It is often described as one of the first polities to adopt universal suffrage without regard to sex or race, though in practice only settlers held office. The experiment collapsed within about a year.",
+    "ko": "1889년 오늘날 포트빌라인 프랑스빌의 정착민들은 영국이나 프랑스의 통제를 벗어난 자치 코뮌을 선포하고 선출된 평의회와 대통령을 두었다. 성별이나 인종과 무관한 보통선거를 처음 채택한 정치체 중 하나로 흔히 소개되지만, 실제 공직은 정착민만 맡았다. 이 실험은 약 1년 만에 무너졌다.",
+    "zh": "1889年，今维拉港所在的弗朗斯维尔的移民宣布成立不受英法控制的自治公社，设立民选议会和总统。它常被称为最早不分性别和种族实行普选的政体之一，但实际上只有移民担任公职。这一尝试约一年后便告瓦解。",
+    "ja": "1889年、現在のポートビラにあたるフランスビルの入植者たちは、英仏の支配から外れた自治コミューンを宣言し、選挙による評議会と大統領を置いた。性別や人種を問わない普通選挙を最初に採用した政体の一つとしてよく紹介されるが、実際に公職に就いたのは入植者だけだった。この試みは約1年で崩壊した。"
+   }
+  },
+  {
+   "from": 1906,
+   "to": 1980,
+   "kind": "colonial",
+   "qid": "Q752431",
+   "polity": "New Hebrides",
+   "name": {
+    "en": "Anglo-French Condominium of the New Hebrides",
+    "ko": "영국·프랑스 공동통치령 뉴헤브리디스",
+    "zh": "英法共管新赫布里底",
+    "ja": "英仏共同統治領ニューヘブリディーズ"
+   },
+   "summary": {
+    "en": "From 1906 Britain and France jointly ruled the New Hebrides as a condominium with two resident commissioners, two police forces, two school systems, two currencies in use and a joint court, a structure often nicknamed the Pandemonium. Islanders were in effect stateless under the arrangement. The Second World War, cargo cults, land disputes and the rise of the Vanua'aku Pati shaped the path to independence in 1980.",
+    "ko": "1906년부터 영국과 프랑스는 뉴헤브리디스를 공동통치령으로 다스리며 두 명의 판무관, 두 개의 경찰, 두 개의 학교 제도, 통용되는 두 통화와 합동 법원을 두었는데, 이 체제는 흔히 '대혼란(판데모니움)'이라는 별명으로 불렸다. 이 체제에서 섬 주민은 사실상 무국적 상태였다. 제2차 세계대전, 카고 컬트, 토지 분쟁, 바누아쿠당의 부상이 1980년 독립으로 가는 길을 만들었다.",
+    "zh": "自1906年起，英法两国以共管方式统治新赫布里底，设有两名驻扎专员、两支警察、两套学校体系、两种流通货币和一个联合法院，这一体制常被戏称为“群魔殿”。在此安排下，岛民实际上处于无国籍状态。第二次世界大战、船货崇拜、土地纠纷和瓦努阿库党的兴起，共同铺就了1980年的独立之路。",
+    "ja": "1906年からイギリスとフランスはニューヘブリディーズを共同統治領とし、2人の弁務官、2つの警察、2つの学校制度、流通する2つの通貨、合同裁判所を置いた。この体制はしばしば「パンデモニウム（大混乱）」とあだ名された。島民はこの体制のもとで事実上無国籍だった。第二次世界大戦、カーゴ・カルト、土地紛争、バヌアアク党の台頭が1980年の独立への道を形づくった。"
+   }
+  },
+  {
+   "from": 1980,
+   "to": 1980,
+   "kind": "state",
+   "qid": "Q2018564",
+   "polity": null,
+   "name": {
+    "en": "Republic of Vemerana",
+    "ko": "베메라나 공화국",
+    "zh": "韦梅拉纳共和国",
+    "ja": "ヴェメラナ共和国"
+   },
+   "summary": {
+    "en": "In 1980, on the eve of independence, the Nagriamel movement of Jimmy Stevens, backed by some French settlers and an American libertarian group, declared Espiritu Santo the independent Republic of Vemerana. The unrecognized secession ended within months when troops from Papua New Guinea suppressed it after independence.",
+    "ko": "1980년 독립 직전, 일부 프랑스계 정착민과 미국의 자유지상주의 단체의 지원을 받은 지미 스티븐스의 나그리아멜 운동은 에스피리투산투섬을 베메라나 공화국으로 독립 선포했다. 승인받지 못한 이 분리 독립은 독립 후 파푸아뉴기니군이 진압하면서 몇 달 만에 끝났다.",
+    "zh": "1980年独立前夕，在部分法裔移民和一个美国自由意志主义团体支持下，吉米·史蒂文斯领导的纳格里亚梅尔运动宣布圣埃斯皮里图岛独立为韦梅拉纳共和国。这一未获承认的分离行动在独立后由巴布亚新几内亚军队镇压，数月内即告结束。",
+    "ja": "1980年の独立直前、一部のフランス系入植者とアメリカのリバタリアン団体の支援を受けたジミー・スティーブンスのナグリアメル運動は、エスピリトゥサント島をヴェメラナ共和国として独立宣言した。承認されなかったこの分離独立は、独立後にパプアニューギニア軍によって鎮圧され、数か月で終わった。"
+   }
+  },
+  {
+   "from": 1980,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q686",
+   "polity": "Vanuatu",
+   "name": {
+    "en": "Republic of Vanuatu",
+    "ko": "바누아투 공화국",
+    "zh": "瓦努阿图共和国",
+    "ja": "バヌアツ共和国"
+   },
+   "summary": {
+    "en": "Vanuatu became independent on 30 July 1980 as a parliamentary republic with Bislama, English and French as official languages and land constitutionally restored to its customary owners. Walter Lini led the country through its first decade with a non-aligned, anti-colonial foreign policy. Later decades brought frequent changes of government, offshore finance and tourism, and severe cyclones, while Vanuatu became a leading voice on climate change.",
+    "ko": "바누아투는 1980년 7월 30일 비슬라마어·영어·프랑스어를 공용어로 하는 의원내각제 공화국으로 독립했으며, 헌법에 따라 토지는 관습적 소유자에게 돌아갔다. 월터 리니는 비동맹·반식민주의 외교 노선으로 첫 10년을 이끌었다. 이후 잦은 정권 교체와 역외 금융·관광 산업, 강력한 사이클론을 겪는 가운데 바누아투는 기후 변화 문제에서 앞장서는 목소리가 되었다.",
+    "zh": "瓦努阿图于1980年7月30日独立，成为以比斯拉马语、英语和法语为官方语言的议会制共和国，宪法规定土地归还其习惯所有者。沃尔特·利尼以不结盟和反殖民的外交路线领导了独立后的头十年。此后数十年政府更迭频繁，离岸金融和旅游业发展，强烈气旋频发，瓦努阿图也成为气候变化议题上的重要倡导者。",
+    "ja": "バヌアツは1980年7月30日、ビスラマ語・英語・フランス語を公用語とする議院内閣制の共和国として独立し、憲法により土地は慣習上の所有者に返還された。ウォルター・リニは非同盟・反植民地主義の外交で最初の10年を率いた。その後は頻繁な政権交代、オフショア金融と観光、強烈なサイクロンを経験する一方、バヌアツは気候変動問題で先頭に立つ存在となった。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -1300,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Lapita seafarers set out for Remote Oceania",
+    "ko": "라피타 항해민, 원오세아니아로 진출",
+    "zh": "拉皮塔航海者驶向远大洋洲",
+    "ja": "ラピタの航海民がリモート・オセアニアへ"
+   },
+   "description": {
+    "en": "In the late second millennium BC, Austronesian voyagers of the Lapita culture began sailing east from the Bismarck Archipelago into the uninhabited islands of Remote Oceania. Within a few centuries they reached the islands of today's Vanuatu, around 3,000 years ago, bringing distinctive pottery, domestic animals and crops and founding the ancestral societies of the ni-Vanuatu.",
+    "ko": "기원전 2천년기 말, 라피타 문화의 오스트로네시아 항해민이 비스마르크 제도에서 동쪽의 무인도인 원오세아니아로 항해하기 시작했다. 이들은 몇 세기 만인 약 3천 년 전 오늘날 바누아투의 섬들에 이르러 독특한 토기와 가축, 작물을 들여오고 니바누아투 조상 사회의 토대를 세웠다.",
+    "zh": "公元前二千纪末，拉皮塔文化的南岛语族航海者开始从俾斯麦群岛向东驶入无人居住的远大洋洲岛屿。数百年内，他们约在三千年前抵达今瓦努阿图诸岛，带来独特的陶器、家畜和作物，奠定了瓦努阿图人祖先社会的基础。",
+    "ja": "紀元前2千年紀末、ラピタ文化のオーストロネシア系航海民がビスマルク諸島から東の無人の島々、リモート・オセアニアへの航海を始めた。数世紀のうちに、約3000年前には現在のバヌアツの島々に到達し、独特の土器や家畜、作物をもたらして、ニバヌアツの祖先社会の基礎を築いた。"
+   }
+  },
+  {
+   "year": -1000,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Teouma: an early Lapita cemetery on Efate",
+    "ko": "에파테섬의 초기 라피타 묘지 테오우마",
+    "zh": "埃法特岛的早期拉皮塔墓地特乌马",
+    "ja": "エファテ島の初期ラピタ墓地テオウマ"
+   },
+   "description": {
+    "en": "Around 3,000 years ago the first settlers of Efate buried their dead at Teouma, near today's Port Vila, many without their skulls, which were removed in secondary rites, and some with elaborately decorated Lapita pots. Discovered in 2003, Teouma is one of the oldest known Lapita cemeteries, and ancient DNA from it has illuminated the origins of the first Pacific islanders.",
+    "ko": "약 3천 년 전 에파테섬의 첫 정착민은 오늘날 포트빌라 근처 테오우마에 죽은 이들을 묻었는데, 상당수는 2차 의례로 두개골이 제거되었고 일부는 화려하게 장식된 라피타 토기와 함께 묻혔다. 2003년 발견된 테오우마는 알려진 가장 오래된 라피타 묘지 중 하나이며, 이곳에서 나온 고대 DNA는 최초의 태평양 섬 주민의 기원을 밝히는 데 기여했다.",
+    "zh": "约三千年前，埃法特岛的首批定居者把死者葬在今维拉港附近的特乌马，许多遗骸的头骨在二次葬仪中被取走，部分随葬有纹饰华丽的拉皮塔陶器。特乌马于2003年被发现，是已知最古老的拉皮塔墓地之一，从中获得的古DNA揭示了最早太平洋岛民的起源。",
+    "ja": "約3000年前、エファテ島の最初の入植者は現在のポートビラ近くのテオウマに死者を葬った。多くは二次葬の儀礼で頭骨が取り去られ、一部は華やかに装飾されたラピタ土器とともに埋葬された。2003年に発見されたテオウマは知られる最古のラピタ墓地の一つで、ここから得られた古代DNAは最初の太平洋島民の起源を明らかにした。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Rise of local island traditions",
+    "ko": "섬별 지역 전통의 형성",
+    "zh": "各岛地方传统的形成",
+    "ja": "島ごとの地域的伝統の形成"
+   },
+   "description": {
+    "en": "By the mid-first millennium BC the uniform Lapita style had given way to regional pottery traditions, and communities across the archipelago diverged in language and custom. Continued contacts with New Guinea and the Solomon Islands added further Papuan ancestry to the population, contributing to Vanuatu's exceptional linguistic and cultural diversity.",
+    "ko": "기원전 1천년기 중반 무렵 획일적인 라피타 양식은 지역별 토기 전통으로 바뀌었고, 제도 곳곳의 공동체들은 언어와 관습에서 갈라져 나갔다. 뉴기니와 솔로몬 제도와의 지속적인 교류로 파푸아계 혈통이 더해지면서 바누아투의 뛰어난 언어적·문화적 다양성이 형성되었다.",
+    "zh": "到公元前一千纪中叶，统一的拉皮塔风格已让位于各地的陶器传统，群岛各地的社区在语言和习俗上逐渐分化。与新几内亚和所罗门群岛的持续往来又为人口增添了巴布亚血统，造就了瓦努阿图非凡的语言和文化多样性。",
+    "ja": "紀元前1千年紀半ばまでに画一的なラピタ様式は地域ごとの土器伝統に変わり、群島各地の共同体は言語や慣習で分化していった。ニューギニアやソロモン諸島との継続的な交流によってパプア系の祖先も加わり、バヌアツの際立った言語的・文化的多様性が生まれた。"
+   }
+  },
+  {
+   "year": 1452,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Kuwae caldera eruption",
+    "ko": "쿠와에 칼데라 분화",
+    "zh": "库瓦埃火山口喷发",
+    "ja": "クワエ・カルデラの噴火"
+   },
+   "description": {
+    "en": "Around the mid-15th century a massive eruption of the submarine Kuwae caldera between Epi and Tongoa split a former larger island, according to Shepherd Islands oral traditions that tell of the survivors' return and resettlement. Some scientists have linked the eruption to a major volcanic signal in polar ice around 1452-1453, though this attribution remains debated.",
+    "ko": "셰퍼드 제도의 구전에 따르면 15세기 중반 무렵 에피섬과 통고아섬 사이의 해저 쿠와에 칼데라가 대규모로 분화해 원래 더 컸던 섬이 갈라졌으며, 전승은 생존자들이 돌아와 다시 정착한 이야기를 전한다. 일부 과학자는 이 분화를 1452~1453년경 극지 빙하에 남은 큰 화산 신호와 연결하지만, 이 연관성은 여전히 논쟁 중이다.",
+    "zh": "据谢泼德群岛的口述传统，约15世纪中叶，埃皮岛与通戈阿岛之间的海底库瓦埃火山口发生大规模喷发，将原本较大的岛屿一分为二，传说还讲述了幸存者返回重新定居的故事。一些科学家将这次喷发与约1452至1453年极地冰芯中的重大火山信号相联系，但这一归因仍有争议。",
+    "ja": "シェパード諸島の口承によれば、15世紀半ば頃、エピ島とトンゴア島の間の海底カルデラ、クワエが大噴火し、かつてのより大きな島が分断された。伝承は生存者が戻って再び住み着いた物語も伝えている。一部の科学者はこの噴火を1452〜1453年頃の極地氷床に残る大きな火山シグナルと結びつけるが、その関連はなお議論されている。"
+   }
+  },
+  {
+   "year": 1600,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Chief Roi Mata unites central Vanuatu",
+    "ko": "로이 마타 추장의 통합",
+    "zh": "罗伊·马塔酋长统一中部地区",
+    "ja": "ロイ・マタ首長による統合"
+   },
+   "description": {
+    "en": "According to oral tradition, supported by archaeology, the paramount chief Roi Mata brought peace to warring clans of Efate and nearby islands around the early 17th century, introducing social reforms remembered in local custom. On his death he was buried on Artok (Hat) Island with many retainers, and his burial site became taboo for centuries.",
+    "ko": "고고학으로 뒷받침되는 구전에 따르면 대추장 로이 마타는 17세기 초 무렵 에파테섬과 인근 섬들의 싸우던 씨족에게 평화를 가져오고, 지역 관습으로 기억되는 사회 개혁을 도입했다. 그가 죽자 많은 수행원과 함께 아르톡(햇)섬에 묻혔고, 그 매장지는 수 세기 동안 금기의 장소가 되었다.",
+    "zh": "根据得到考古学支持的口述传统，大酋长罗伊·马塔约在17世纪初为埃法特岛及邻近岛屿交战的氏族带来和平，推行了至今仍在当地习俗中被铭记的社会改革。他去世后与众多随从一同葬于阿尔托克岛（帽岛），其墓地此后数百年被视为禁地。",
+    "ja": "考古学に裏付けられた口承によれば、大首長ロイ・マタは17世紀初め頃、エファテ島と近隣の島々で争う氏族に平和をもたらし、地域の慣習として記憶される社会改革を行った。死後、彼は多くの従者とともにアルトク（ハット）島に葬られ、その墓所は何世紀にもわたり禁忌の地とされた。"
+   }
+  },
+  {
+   "year": 1606,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Quirós reaches Espiritu Santo",
+    "ko": "키로스의 에스피리투산투 도착",
+    "zh": "基罗斯抵达圣埃斯皮里图岛",
+    "ja": "キロスのエスピリトゥサント島到達"
+   },
+   "description": {
+    "en": "In 1606 the Portuguese-born navigator Pedro Fernandes de Queirós, sailing for Spain in search of a great southern continent, anchored in Big Bay on the island he named Austrialia del Espiritu Santo. His attempt to found a settlement called New Jerusalem collapsed within weeks amid conflict with local people, and he sailed away, leaving the islands' first recorded European contact.",
+    "ko": "1606년 거대한 남방 대륙을 찾아 스페인을 위해 항해하던 포르투갈 출신 항해가 페드루 페르난드스 드 케이로스는 빅베이에 닻을 내리고 그 섬을 '아우스트리알리아 델 에스피리투산투'라고 명명했다. 원주민과의 충돌 속에 '새 예루살렘'이라는 정착지를 세우려던 시도는 몇 주 만에 무너졌고 그는 떠났지만, 이는 기록된 최초의 유럽인 접촉이 되었다.",
+    "zh": "1606年，出生于葡萄牙、为西班牙效力寻找南方大陆的航海家佩德罗·费尔南德斯·德·基罗斯在大湾下锚，将该岛命名为“圣灵的南方之地”。他试图建立名为“新耶路撒冷”的定居点，但在与当地人的冲突中数周即告失败，他随后离去，这成为该群岛有记载的首次欧洲接触。",
+    "ja": "1606年、南方大陸を求めてスペインのために航海していたポルトガル生まれの航海者ペドロ・フェルナンデス・デ・キロスはビッグベイに投錨し、その島を「アウストリアリア・デル・エスピリトゥサント」と名づけた。「新エルサレム」という入植地を築く試みは住民との衝突の中で数週間で崩れ、彼は去ったが、これが記録に残る最初のヨーロッパ人との接触となった。"
+   }
+  },
+  {
+   "year": 1768,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Bougainville sails through the islands",
+    "ko": "부갱빌의 항해",
+    "zh": "布干维尔航经群岛",
+    "ja": "ブーガンヴィルの航海"
+   },
+   "description": {
+    "en": "In 1768 the French navigator Louis-Antoine de Bougainville passed through the northern and central islands during his voyage around the world, landing briefly on Ambae and confirming that Espiritu Santo was not part of a southern continent. He called the group the Great Cyclades.",
+    "ko": "1768년 프랑스 항해가 루이앙투안 드 부갱빌은 세계 일주 항해 중 북부와 중부의 섬들을 지나며 암바에섬에 잠시 상륙했고, 에스피리투산투가 남방 대륙의 일부가 아님을 확인했다. 그는 이 섬들을 '대(大)키클라데스'라고 불렀다.",
+    "zh": "1768年，法国航海家路易－安托万·德·布干维尔在环球航行中经过群岛北部和中部，短暂登上安巴岛，并证实圣埃斯皮里图岛并非南方大陆的一部分。他把这片群岛称为“大基克拉泽斯”。",
+    "ja": "1768年、フランスの航海者ルイ＝アントワーヌ・ド・ブーガンヴィルは世界周航の途中で北部・中部の島々を通過し、アンバエ島に短く上陸して、エスピリトゥサント島が南方大陸の一部ではないことを確かめた。彼はこの島々を「大キクラデス」と呼んだ。"
+   }
+  },
+  {
+   "year": 1774,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Cook charts the islands as the New Hebrides",
+    "ko": "쿡 선장의 탐사와 '뉴헤브리디스' 명명",
+    "zh": "库克测绘群岛并命名“新赫布里底”",
+    "ja": "クックによる測量と「ニューヘブリディーズ」命名"
+   },
+   "description": {
+    "en": "On his second Pacific voyage in 1774, James Cook spent weeks charting the archipelago from Espiritu Santo to Aneityum, visiting Malakula, Erromango and Tanna, where he observed the active Yasur volcano. He named the islands the New Hebrides, a name they kept until independence in 1980.",
+    "ko": "1774년 두 번째 태평양 항해에서 제임스 쿡은 몇 주 동안 에스피리투산투에서 아네이티움까지 제도를 측량하며 말라쿨라, 에로망고, 그리고 활화산 야수르를 관찰한 탄나를 방문했다. 그는 이 섬들을 뉴헤브리디스라고 명명했고, 이 이름은 1980년 독립 때까지 쓰였다.",
+    "zh": "1774年，詹姆斯·库克在第二次太平洋航行中用数周时间测绘了从圣埃斯皮里图岛到阿内蒂乌姆岛的整个群岛，到访马勒库拉岛、埃罗芒阿岛和塔纳岛，并在塔纳岛观察了活火山亚苏尔。他将这些岛屿命名为新赫布里底，这一名称一直沿用到1980年独立。",
+    "ja": "1774年、第2回太平洋航海でジェームズ・クックは数週間かけてエスピリトゥサント島からアネイチュム島まで群島を測量し、マラクラ島、エロマンガ島、そして活火山ヤスールを観察したタンナ島を訪れた。彼はこの島々をニューヘブリディーズと名づけ、この名は1980年の独立まで使われた。"
+   }
+  },
+  {
+   "year": 1825,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Sandalwood discovered on Erromango",
+    "ko": "에로망고섬의 백단향 발견",
+    "zh": "埃罗芒阿岛发现檀香木",
+    "ja": "エロマンガ島での白檀の発見"
+   },
+   "description": {
+    "en": "In 1825 the trader Peter Dillon found sandalwood on Erromango, setting off a rush of traders seeking the fragrant wood for the China market. The trade over the following decades brought violent clashes, introduced diseases and rapid depletion of the forests on Erromango, Efate and other southern islands.",
+    "ko": "1825년 상인 피터 딜런이 에로망고섬에서 백단향을 발견하자, 중국 시장에 내다 팔 향나무를 찾는 상인들이 몰려들었다. 이후 수십 년간의 교역은 폭력적인 충돌과 외래 질병을 낳았고, 에로망고와 에파테 등 남부 섬들의 숲을 빠르게 고갈시켰다.",
+    "zh": "1825年，商人彼得·狄龙在埃罗芒阿岛发现檀香木，引发了为中国市场寻找香木的商人蜂拥而至。此后数十年的贸易带来暴力冲突和外来疾病，埃罗芒阿、埃法特等南部岛屿的森林被迅速砍伐殆尽。",
+    "ja": "1825年、商人ピーター・ディロンがエロマンガ島で白檀を見つけると、中国市場向けの香木を求める商人が殺到した。その後数十年の交易は暴力的な衝突や外来の病気をもたらし、エロマンガ島やエファテ島など南部の島々の森を急速に枯渇させた。"
+   }
+  },
+  {
+   "year": 1839,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Missionary John Williams killed on Erromango",
+    "ko": "선교사 존 윌리엄스, 에로망고에서 피살",
+    "zh": "传教士约翰·威廉斯在埃罗芒阿岛遇害",
+    "ja": "宣教師ジョン・ウィリアムズのエロマンガ島での死"
+   },
+   "description": {
+    "en": "In November 1839 the famous London Missionary Society missionary John Williams was killed on landing at Erromango, an island where sandalwood traders had recently committed violence. His death made Erromango known in Britain as the Martyr Isle and spurred further missionary efforts in the islands.",
+    "ko": "1839년 11월 런던선교회의 유명한 선교사 존 윌리엄스가 얼마 전 백단향 상인들의 폭력이 있었던 에로망고섬에 상륙하다 살해되었다. 그의 죽음으로 에로망고는 영국에서 '순교자의 섬'으로 알려졌고, 이 섬들에 대한 선교 활동이 더욱 활발해졌다.",
+    "zh": "1839年11月，伦敦传道会著名传教士约翰·威廉斯在登上埃罗芒阿岛时遇害，此前不久檀香木商人曾在该岛施暴。他的死使埃罗芒阿在英国被称为“殉道者之岛”，也推动了对这些岛屿的进一步传教。",
+    "ja": "1839年11月、ロンドン伝道協会の著名な宣教師ジョン・ウィリアムズが、少し前に白檀商人による暴力があったエロマンガ島に上陸した際に殺害された。彼の死によってエロマンガ島はイギリスで「殉教者の島」として知られ、島々への伝道活動がさらに強まった。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Presbyterian mission established on Aneityum",
+    "ko": "아네이티움섬의 장로교 선교 시작",
+    "zh": "长老会在阿内蒂乌姆岛建立传教站",
+    "ja": "アネイチュム島に長老派の伝道所"
+   },
+   "description": {
+    "en": "In 1848 the Nova Scotian Presbyterian missionary John Geddie settled on Aneityum, the southernmost island, beginning a mission that converted much of the island within about two decades. Presbyterianism spread through the southern and central islands and remains the largest church in Vanuatu.",
+    "ko": "1848년 노바스코샤 출신 장로교 선교사 존 게디가 최남단 섬 아네이티움에 정착해 선교를 시작했고, 약 20년 만에 섬 주민 대부분이 개종했다. 장로교는 남부와 중부 섬들로 퍼져 오늘날까지 바누아투에서 가장 큰 교회로 남아 있다.",
+    "zh": "1848年，来自新斯科舍的长老会传教士约翰·盖迪在最南端的阿内蒂乌姆岛定居并开始传教，约二十年内岛上大部分居民皈依。长老会随后传遍南部和中部岛屿，至今仍是瓦努阿图最大的教会。",
+    "ja": "1848年、ノバスコシア出身の長老派宣教師ジョン・ゲディが最南端のアネイチュム島に住み着いて伝道を始め、約20年で島民の大半が改宗した。長老派は南部・中部の島々に広まり、今もバヌアツ最大の教会である。"
+   }
+  },
+  {
+   "year": 1865,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Sandalwood trade and the blackbirding era",
+    "ko": "백단향 무역과 '블랙버딩'의 시대",
+    "zh": "檀香木贸易与“黑鸟”劳工时代",
+    "ja": "白檀貿易とブラックバーディングの時代"
+   },
+   "description": {
+    "en": "From the 1860s labor recruiters, many of them known as blackbirders, carried tens of thousands of islanders, often by deception or force, to sugar plantations in Queensland and to Fiji and New Caledonia. The trade drained villages of young men, spread disease and violence, and continued until Australia deported most Pacific Islander laborers in the early 1900s.",
+    "ko": "1860년대부터 '블랙버더'로 알려진 노동자 모집업자들이 수만 명의 섬 주민을 종종 속임수나 폭력으로 퀸즐랜드의 사탕수수 농장과 피지, 뉴칼레도니아로 실어 갔다. 이 무역은 마을에서 젊은 남성들을 빼앗고 질병과 폭력을 퍼뜨렸으며, 1900년대 초 오스트레일리아가 태평양 섬 출신 노동자 대부분을 추방할 때까지 이어졌다.",
+    "zh": "从19世纪60年代起，劳工招募者（其中许多被称为“黑鸟贩子”）常以欺骗或武力将数万岛民运往昆士兰的甘蔗种植园以及斐济和新喀里多尼亚。这种贸易使村庄失去青壮年男子，传播疾病和暴力，一直持续到20世纪初澳大利亚遣返大部分太平洋岛屿劳工为止。",
+    "ja": "1860年代から、「ブラックバーダー」と呼ばれた労働者の募集業者たちが、しばしば欺瞞や暴力によって数万人の島民をクイーンズランドの砂糖農園やフィジー、ニューカレドニアへ運んだ。この交易は村々から若い男性を奪い、病気と暴力を広げ、1900年代初めにオーストラリアが太平洋諸島出身の労働者の大半を送還するまで続いた。"
+   }
+  },
+  {
+   "year": 1887,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Anglo-French Joint Naval Commission",
+    "ko": "영국·프랑스 합동 해군위원회",
+    "zh": "英法联合海军委员会",
+    "ja": "英仏合同海軍委員会"
+   },
+   "description": {
+    "en": "After French troops landed in 1886 to protect French settlers, Britain and France agreed in 1887 to a Joint Naval Commission to keep order and protect their nationals, neither power annexing the islands. The commission had little authority over land disputes, which multiplied as settlers acquired large tracts.",
+    "ko": "1886년 프랑스군이 자국 정착민 보호를 명분으로 상륙한 뒤, 영국과 프랑스는 1887년 어느 쪽도 섬을 병합하지 않은 채 질서를 유지하고 자국민을 보호하기 위한 합동 해군위원회에 합의했다. 그러나 위원회는 정착민이 넓은 토지를 사들이며 늘어난 토지 분쟁을 다룰 권한이 거의 없었다.",
+    "zh": "1886年法国军队以保护法国移民为由登陆后，英法两国于1887年商定设立联合海军委员会，在双方都不吞并群岛的前提下维持秩序、保护本国侨民。随着移民大量购置土地，土地纠纷日益增多，而委员会对此几乎无权处理。",
+    "ja": "1886年にフランス軍が自国入植者の保護を名目に上陸した後、イギリスとフランスは1887年、どちらも島を併合しないまま秩序を保ち自国民を守るための合同海軍委員会に合意した。しかし委員会には、入植者が広大な土地を取得するにつれて増えた土地紛争を扱う権限がほとんどなかった。"
+   }
+  },
+  {
+   "year": 1889,
+   "qid": "Q5479650",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Commune of Franceville declared",
+    "ko": "프랑스빌 코뮌 선포",
+    "zh": "弗朗斯维尔公社成立",
+    "ja": "フランスビル・コミューンの宣言"
+   },
+   "description": {
+    "en": "In 1889 settlers at Franceville on Efate, today's Port Vila, proclaimed an independent commune with an elected council and president, free of both British and French control. Celebrated as an early experiment in universal suffrage, it lacked real authority and collapsed by 1890.",
+    "ko": "1889년 에파테섬 프랑스빌(오늘날 포트빌라)의 정착민들은 영국과 프랑스 어느 쪽의 통제도 받지 않는 독립 코뮌을 선포하고 선출된 평의회와 대통령을 두었다. 초기 보통선거 실험으로 회자되지만, 실질적 권위가 없어 1890년 무렵 무너졌다.",
+    "zh": "1889年，埃法特岛弗朗斯维尔（今维拉港）的移民宣布成立不受英法控制的独立公社，设有民选议会和总统。它被誉为早期普选的尝试，但缺乏实际权威，到1890年便告瓦解。",
+    "ja": "1889年、エファテ島フランスビル（現在のポートビラ）の入植者たちは、英仏いずれの支配も受けない独立コミューンを宣言し、選挙による評議会と大統領を置いた。初期の普通選挙の試みとして語られるが、実際の権威を欠き、1890年までに崩壊した。"
+   }
+  },
+  {
+   "year": 1906,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Anglo-French Condominium of the New Hebrides",
+    "ko": "영국·프랑스 공동통치령 성립",
+    "zh": "英法共管新赫布里底",
+    "ja": "英仏共同統治領の成立"
+   },
+   "description": {
+    "en": "In 1906 Britain and France, unwilling to let the other annex the islands, signed a convention creating a joint Condominium. It produced an unusual dual administration with two resident commissioners, two police forces, two legal systems and two official languages, while a joint court handled land disputes. Indigenous ni-Vanuatu had no citizenship under either power.",
+    "ko": "1906년 상대방이 섬을 병합하는 것을 원치 않았던 영국과 프랑스는 협약을 맺고 공동통치령을 만들었다. 그 결과 두 명의 판무관, 두 개의 경찰, 두 개의 법체계와 두 공용어를 갖춘 이례적인 이중 행정이 생겨났고, 합동 법원이 토지 분쟁을 다루었다. 원주민 니바누아투는 어느 나라의 시민권도 갖지 못했다.",
+    "zh": "1906年，英法两国都不愿让对方吞并群岛，于是签订公约建立共管体制。由此产生了一种罕见的双重行政体系，有两名驻扎专员、两支警察、两套法律体系和两种官方语言，并由联合法院处理土地纠纷。本土的瓦努阿图人在两国治下都没有公民身份。",
+    "ja": "1906年、互いに相手が島を併合することを望まなかったイギリスとフランスは協約を結び、共同統治領を設けた。その結果、2人の弁務官、2つの警察、2つの法体系と2つの公用語を持つ異例の二重行政が生まれ、合同裁判所が土地紛争を扱った。先住のニバヌアツはどちらの国の市民権も持たなかった。"
+   }
+  },
+  {
+   "year": 1914,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Anglo-French Protocol reorganizes the Condominium",
+    "ko": "영국·프랑스 의정서로 공동통치 재편",
+    "zh": "英法议定书重组共管体制",
+    "ja": "英仏議定書による共同統治の再編"
+   },
+   "description": {
+    "en": "A protocol signed in 1914 revised the Condominium's institutions, including the joint court and rules on land registration and labor recruitment. Delayed by the First World War, it was ratified only in 1922 and remained the framework of colonial government until independence.",
+    "ko": "1914년 서명된 의정서는 합동 법원과 토지 등기, 노동자 모집 규정 등 공동통치령의 제도를 개편했다. 제1차 세계대전으로 지연되어 1922년에야 비준되었으며, 독립 때까지 식민 통치의 틀로 유지되었다.",
+    "zh": "1914年签署的议定书修订了共管体制的各项制度，包括联合法院以及土地登记和劳工招募规则。受第一次世界大战影响，它直到1922年才获批准，此后一直是殖民统治的框架，直至独立。",
+    "ja": "1914年に署名された議定書は、合同裁判所や土地登記、労働者募集の規則など共同統治領の制度を改めた。第一次世界大戦で遅れて1922年にようやく批准され、独立まで植民地統治の枠組みとして続いた。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "John Frum movement emerges on Tanna",
+    "ko": "탄나섬의 존 프럼 운동",
+    "zh": "塔纳岛兴起约翰·弗鲁姆运动",
+    "ja": "タンナ島のジョン・フラム運動"
+   },
+   "description": {
+    "en": "In the late 1930s the John Frum movement arose on Tanna, centered on a prophetic figure who urged islanders to reject missionary rule and return to custom, promising future abundance. Colonial authorities jailed its leaders, but it grew stronger after American troops arrived in the Second World War and survives today as one of the Pacific's best-known so-called cargo cults.",
+    "ko": "1930년대 말 탄나섬에서는 섬 주민들에게 선교사의 지배를 거부하고 관습으로 돌아가라고 촉구하며 장래의 풍요를 약속한 예언적 인물을 중심으로 존 프럼 운동이 일어났다. 식민 당국은 지도자들을 투옥했지만, 제2차 세계대전 때 미군이 들어온 뒤 운동은 더욱 커졌으며 태평양에서 가장 잘 알려진 이른바 카고 컬트의 하나로 오늘날까지 이어지고 있다.",
+    "zh": "20世纪30年代末，塔纳岛兴起约翰·弗鲁姆运动，其核心是一位预言式人物，号召岛民拒绝传教士的统治、回归传统习俗，并许诺未来的富足。殖民当局监禁了运动领袖，但在二战美军到来后运动反而壮大，至今仍是太平洋最著名的所谓“船货崇拜”之一。",
+    "ja": "1930年代末、タンナ島で、島民に宣教師の支配を拒み慣習に戻るよう説き、将来の豊かさを約束した預言的人物を中心とするジョン・フラム運動が起こった。植民地当局は指導者を投獄したが、第二次世界大戦で米軍が来るとかえって勢いを増し、太平洋で最も有名な、いわゆるカーゴ・カルトの一つとして今も続いている。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "US bases transform Espiritu Santo",
+    "ko": "제2차 세계대전과 미군 기지 건설",
+    "zh": "二战期间美军基地的建设",
+    "ja": "第二次世界大戦と米軍基地の建設"
+   },
+   "description": {
+    "en": "From 1942 the United States built major bases on Efate and Espiritu Santo to support the Guadalcanal campaign and the war in the South Pacific. Hundreds of thousands of servicemen passed through, and thousands of ni-Vanuatu worked for the Americans, whose wealth and relative equality left a lasting political and cultural imprint. Huge quantities of equipment were dumped at sea off Santo at the war's end, a site now known as Million Dollar Point.",
+    "ko": "1942년부터 미국은 과달카날 전투와 남태평양 전쟁을 지원하기 위해 에파테섬과 에스피리투산투섬에 대규모 기지를 지었다. 수십만 명의 군인이 이곳을 거쳐 갔고, 수천 명의 니바누아투가 미군을 위해 일하며 그들의 부와 비교적 평등한 태도에서 지속적인 정치적·문화적 영향을 받았다. 전쟁이 끝나자 막대한 장비가 산토 앞바다에 버려졌는데, 그곳은 오늘날 '밀리언 달러 포인트'로 불린다.",
+    "zh": "1942年起，美国在埃法特岛和圣埃斯皮里图岛修建大型基地，以支援瓜达尔卡纳尔岛战役和南太平洋战争。数十万军人途经此地，数千名瓦努阿图人为美军工作，美军的富足和相对平等的态度留下了持久的政治和文化影响。战争结束时，大量装备被倾倒在圣岛外海，该地今称“百万美元角”。",
+    "ja": "1942年からアメリカはガダルカナル島の戦いと南太平洋の戦争を支えるため、エファテ島とエスピリトゥサント島に大規模な基地を建設した。数十万の兵士がここを経由し、数千人のニバヌアツが米軍のために働き、その豊かさと比較的平等な態度から長く続く政治的・文化的影響を受けた。終戦時には大量の装備がサント沖に投棄され、その場所は今「ミリオン・ダラー・ポイント」と呼ばれている。"
+   }
+  },
+  {
+   "year": 1966,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nagriamel land movement on Santo",
+    "ko": "산토섬의 나그리아멜 토지 운동",
+    "zh": "圣岛的纳格里亚梅尔土地运动",
+    "ja": "サント島のナグリアメル土地運動"
+   },
+   "description": {
+    "en": "Around the mid-1960s Jimmy Stevens and allied chiefs founded the Nagriamel movement on Espiritu Santo to reclaim land taken by European plantations and to revive custom. It became an important force in northern politics and later, opposed to the anglophone-led independence movement, drifted toward secession.",
+    "ko": "1960년대 중반 무렵 지미 스티븐스와 동맹 추장들은 유럽인 농장에 빼앗긴 토지를 되찾고 관습을 되살리기 위해 에스피리투산투섬에서 나그리아멜 운동을 창립했다. 이 운동은 북부 정치의 중요한 세력이 되었고, 이후 영어권 주도의 독립운동에 반대하며 분리주의로 기울었다.",
+    "zh": "约20世纪60年代中期，吉米·史蒂文斯与结盟的酋长们在圣埃斯皮里图岛创立纳格里亚梅尔运动，旨在收回被欧洲种植园占据的土地并复兴传统习俗。它成为北部政治的重要力量，后来因反对英语系主导的独立运动而逐渐转向分离主义。",
+    "ja": "1960年代半ば頃、ジミー・スティーブンスと同盟する首長たちは、ヨーロッパ人の農園に奪われた土地を取り戻し慣習を復興するため、エスピリトゥサント島でナグリアメル運動を創設した。運動は北部政治の重要な勢力となり、のちに英語系主導の独立運動に反対して分離主義へ傾いた。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the independence movement",
+    "ko": "독립운동의 조직화",
+    "zh": "独立运动兴起",
+    "ja": "独立運動の組織化"
+   },
+   "description": {
+    "en": "In 1971 the Anglican priest Walter Lini and others founded the New Hebrides National Party, which later became the Vanua'aku Pati. It channeled land grievances and a growing sense of national identity into an organized campaign for independence, drawing support mainly from English-educated, Protestant communities.",
+    "ko": "1971년 성공회 사제 월터 리니 등은 뉴헤브리디스 국민당을 창당했고, 이 당은 이후 바누아쿠당이 되었다. 당은 토지에 대한 불만과 커져 가는 민족 정체성을 조직적인 독립운동으로 이끌었으며, 주로 영어 교육을 받은 개신교 공동체의 지지를 받았다.",
+    "zh": "1971年，圣公会牧师沃尔特·利尼等人创立新赫布里底国民党，后来改称瓦努阿库党。该党把土地方面的不满和日益增强的民族认同转化为有组织的独立运动，支持者主要来自受英语教育的新教社区。",
+    "ja": "1971年、聖公会の司祭ウォルター・リニらはニューヘブリディーズ国民党を結成し、同党はのちにバヌアアク党となった。党は土地への不満と高まる民族意識を組織的な独立運動へと導き、主に英語教育を受けたプロテスタントの共同体から支持を得た。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First Representative Assembly elected",
+    "ko": "첫 대의회 선거",
+    "zh": "首届代表议会选举",
+    "ja": "初の代表議会選挙"
+   },
+   "description": {
+    "en": "In 1975 elections were held for a Representative Assembly, the Condominium's first elected legislature with a ni-Vanuatu majority. Disputes over reserved seats for settler and chiefly interests led the Vanua'aku Pati to boycott later proceedings and, in 1977, to declare a rival People's Provisional Government.",
+    "ko": "1975년 니바누아투가 다수를 차지하는 공동통치령 최초의 선출 입법기관인 대의회 선거가 치러졌다. 정착민과 추장 몫으로 배정된 의석을 둘러싼 갈등으로 바누아쿠당은 이후 의사 일정을 거부했고, 1977년에는 경쟁 정부인 '인민 임시정부'를 선포했다.",
+    "zh": "1975年举行代表议会选举，这是共管地首个以瓦努阿图人为多数的民选立法机构。围绕为移民和酋长利益保留议席的争议，瓦努阿库党此后抵制议程，并于1977年宣布成立与之对立的“人民临时政府”。",
+    "ja": "1975年、ニバヌアツが多数を占める共同統治領初の選挙による立法機関、代表議会の選挙が行われた。入植者や首長のための留保議席をめぐる対立から、バヌアアク党はその後の議事をボイコットし、1977年には対抗する「人民臨時政府」を宣言した。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Vanua'aku Pati wins pre-independence elections",
+    "ko": "독립 전 선거에서 바누아쿠당 승리",
+    "zh": "瓦努阿库党赢得独立前选举",
+    "ja": "独立前の選挙でバヌアアク党が勝利"
+   },
+   "description": {
+    "en": "After a brief Government of National Unity, the November 1979 elections gave the Vanua'aku Pati a clear majority, and Walter Lini became Chief Minister. The result set the date for independence but deepened the anger of francophone parties and the Nagriamel movement on Santo and Tanna.",
+    "ko": "짧았던 거국 통합 정부 이후 1979년 11월 선거에서 바누아쿠당이 확실한 과반을 차지했고, 월터 리니가 수석장관이 되었다. 이 결과로 독립 일정이 확정되었으나, 프랑스어권 정당과 산토·탄나의 나그리아멜 운동의 분노는 더 깊어졌다.",
+    "zh": "在短暂的民族团结政府之后，1979年11月的选举使瓦努阿库党获得明确多数，沃尔特·利尼出任首席部长。这一结果确定了独立日期，但也加深了法语系政党以及圣岛和塔纳岛纳格里亚梅尔运动的不满。",
+    "ja": "短命の挙国一致政府の後、1979年11月の選挙でバヌアアク党が明確な過半数を得て、ウォルター・リニが首席大臣となった。この結果で独立の日程が固まったが、フランス語系政党やサント島・タンナ島のナグリアメル運動の怒りは深まった。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": "Q3446722",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Coconut War on Espiritu Santo",
+    "ko": "에스피리투산투의 코코넛 전쟁",
+    "zh": "圣埃斯皮里图岛的椰子战争",
+    "ja": "エスピリトゥサント島のココナッツ戦争"
+   },
+   "description": {
+    "en": "In May 1980 Nagriamel supporters led by Jimmy Stevens seized Luganville and declared Espiritu Santo the independent state of Vemerana, with backing from some French settlers and the American Phoenix Foundation. After independence, troops from Papua New Guinea, invited by Lini's government, ended the rebellion by September; Stevens was arrested and imprisoned.",
+    "ko": "1980년 5월 지미 스티븐스가 이끄는 나그리아멜 지지자들이 루갠빌을 점거하고, 일부 프랑스계 정착민과 미국 피닉스 재단의 지원 속에 에스피리투산투를 독립국 베메라나로 선포했다. 독립 후 리니 정부의 요청을 받은 파푸아뉴기니군이 9월까지 반란을 진압했고, 스티븐스는 체포되어 투옥되었다.",
+    "zh": "1980年5月，吉米·史蒂文斯领导的纳格里亚梅尔支持者占领卢甘维尔，在部分法裔移民和美国凤凰基金会支持下，宣布圣埃斯皮里图岛为独立的韦梅拉纳国。独立后，应利尼政府邀请的巴布亚新几内亚军队于9月前平息叛乱，史蒂文斯被捕入狱。",
+    "ja": "1980年5月、ジミー・スティーブンス率いるナグリアメルの支持者がルーガンビルを占拠し、一部のフランス系入植者とアメリカのフェニックス財団の支援を受けて、エスピリトゥサント島を独立国ヴェメラナと宣言した。独立後、リニ政府に招かれたパプアニューギニア軍が9月までに反乱を鎮圧し、スティーブンスは逮捕・投獄された。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence: the Republic of Vanuatu",
+    "ko": "바누아투 공화국 독립",
+    "zh": "瓦努阿图共和国独立",
+    "ja": "バヌアツ共和国の独立"
+   },
+   "description": {
+    "en": "On 30 July 1980 the New Hebrides became the independent Republic of Vanuatu, with Walter Lini as prime minister and Ati George Sokomanu as the first president. The constitution returned all land to its customary owners and made Bislama, English and French official languages, ending 74 years of Condominium rule.",
+    "ko": "1980년 7월 30일 뉴헤브리디스는 월터 리니를 총리로, 아티 조지 소코마누를 초대 대통령으로 하는 독립국 바누아투 공화국이 되었다. 헌법은 모든 토지를 관습적 소유자에게 돌려주고 비슬라마어·영어·프랑스어를 공용어로 정해, 74년에 걸친 공동통치를 끝냈다.",
+    "zh": "1980年7月30日，新赫布里底成为独立的瓦努阿图共和国，沃尔特·利尼任总理，阿蒂·乔治·索科马努任首任总统。宪法将全部土地归还给习惯所有者，并以比斯拉马语、英语和法语为官方语言，结束了长达74年的共管统治。",
+    "ja": "1980年7月30日、ニューヘブリディーズはウォルター・リニを首相、アティ・ジョージ・ソコマヌを初代大統領とするバヌアツ共和国として独立した。憲法はすべての土地を慣習上の所有者に返し、ビスラマ語・英語・フランス語を公用語とし、74年に及ぶ共同統治に終止符を打った。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Vanuatu joins the United Nations",
+    "ko": "유엔 가입",
+    "zh": "加入联合国",
+    "ja": "国連加盟"
+   },
+   "description": {
+    "en": "In 1981 Vanuatu was admitted to the United Nations. Under Lini it pursued a distinctive non-aligned foreign policy, joining the Non-Aligned Movement, supporting independence movements such as the Kanak cause in New Caledonia and campaigning for a nuclear-free Pacific.",
+    "ko": "1981년 바누아투는 유엔에 가입했다. 리니 정부는 비동맹운동에 참여하고, 뉴칼레도니아의 카나크 독립운동 같은 탈식민 운동을 지지하며, 비핵 태평양을 주창하는 독자적인 비동맹 외교를 펼쳤다.",
+    "zh": "1981年瓦努阿图加入联合国。在利尼领导下，它奉行独特的不结盟外交，加入不结盟运动，支持新喀里多尼亚卡纳克人等独立运动，并倡导无核太平洋。",
+    "ja": "1981年、バヌアツは国際連合に加盟した。リニ政権は非同盟運動に加わり、ニューカレドニアのカナク人の独立運動などを支持し、非核太平洋を訴える独自の非同盟外交を展開した。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Constitutional crisis of 1988",
+    "ko": "1988년 헌정 위기",
+    "zh": "1988年宪政危机",
+    "ja": "1988年の憲法危機"
+   },
+   "description": {
+    "en": "In December 1988, amid a split in the ruling party, President Ati George Sokomanu attempted to dissolve parliament and appointed his nephew Barak Sope as interim prime minister. The courts and police backed Lini's government; Sokomanu was removed from office and arrested, though his conviction was later overturned on appeal.",
+    "ko": "1988년 12월 집권당이 분열한 가운데 아티 조지 소코마누 대통령은 의회를 해산하려 하고 조카 바라크 소페를 임시 총리로 임명했다. 법원과 경찰은 리니 정부를 지지했고, 소코마누는 해임·체포되었으나 이후 항소심에서 유죄 판결이 뒤집혔다.",
+    "zh": "1988年12月，在执政党分裂之际，总统阿蒂·乔治·索科马努试图解散议会，并任命其外甥巴拉克·索佩为临时总理。法院和警方支持利尼政府，索科马努被解职逮捕，但其定罪后来在上诉中被推翻。",
+    "ja": "1988年12月、与党の分裂の中で、アティ・ジョージ・ソコマヌ大統領は議会の解散を試み、甥のバラク・ソペを暫定首相に任命した。裁判所と警察はリニ政権を支持し、ソコマヌは解任・逮捕されたが、のちに控訴審で有罪判決は覆された。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First francophone-led government",
+    "ko": "첫 프랑스어권 주도 정부",
+    "zh": "首个法语系主导的政府",
+    "ja": "初のフランス語系主導政権"
+   },
+   "description": {
+    "en": "In 1991 Walter Lini lost the leadership of his party, and the December elections brought the francophone Union of Moderate Parties to power with Maxime Carlot Korman as prime minister. It ended the Vanua'aku Pati's dominance and opened an era of shifting coalitions and frequent no-confidence votes.",
+    "ko": "1991년 월터 리니는 당 대표직을 잃었고, 12월 선거로 프랑스어권 정당인 온건당연합이 집권해 막심 카를로 코르망이 총리가 되었다. 이로써 바누아쿠당의 독주가 끝나고 연정이 자주 바뀌고 불신임 표결이 잦은 시대가 열렸다.",
+    "zh": "1991年，沃尔特·利尼失去党魁职位，12月的选举使法语系的温和党联盟上台，马克西姆·卡尔洛·科尔曼出任总理。这结束了瓦努阿库党的主导地位，开启了联合政府频繁更替、不信任投票不断的时代。",
+    "ja": "1991年、ウォルター・リニは党首の座を失い、12月の選挙でフランス語系の穏健諸党連合が政権を握り、マキシム・カルロ・コルマンが首相となった。これによりバヌアアク党の優位は終わり、連立の組み替えと不信任投票が頻発する時代が始まった。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Chief Roi Mata's Domain becomes World Heritage",
+    "ko": "로이 마타 추장 영지, 세계유산 등재",
+    "zh": "罗伊·马塔酋长领地列入世界遗产",
+    "ja": "ロイ・マタ首長の領地、世界遺産に"
+   },
+   "description": {
+    "en": "In 2008 Chief Roi Mata's Domain, comprising sites on Efate, Lelepa and Artok islands associated with the life and death of the early-17th-century chief, was inscribed as Vanuatu's first UNESCO World Heritage site. The listing recognized how oral tradition, archaeology and continuing customary respect for the sites reinforce one another.",
+    "ko": "2008년 17세기 초 추장의 삶과 죽음에 얽힌 에파테·렐레파·아르톡섬의 유적들로 이루어진 로이 마타 추장 영지가 바누아투 최초의 유네스코 세계유산으로 등재되었다. 이 등재는 구전과 고고학, 그리고 유적에 대한 지속적인 관습적 존중이 서로를 뒷받침하는 방식을 인정한 것이었다.",
+    "zh": "2008年，由埃法特、莱莱帕和阿尔托克诸岛上与这位17世纪初酋长生平和死亡相关的遗址组成的罗伊·马塔酋长领地，成为瓦努阿图首个联合国教科文组织世界遗产。此次列入肯定了口述传统、考古学以及对遗址持续的习俗性尊重如何相辅相成。",
+    "ja": "2008年、17世紀初めの首長の生と死にまつわるエファテ島・レレパ島・アルトク島の遺跡からなるロイ・マタ首長の領地が、バヌアツ初のユネスコ世界遺産に登録された。登録は、口承と考古学、そして遺跡への慣習的な敬意が互いに支え合っていることを評価したものだった。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Vanuatu joins the World Trade Organization",
+    "ko": "세계무역기구 가입",
+    "zh": "加入世界贸易组织",
+    "ja": "世界貿易機関に加盟"
+   },
+   "description": {
+    "en": "In 2012 Vanuatu became a member of the World Trade Organization after accession negotiations that had begun in the 1990s and stalled for years amid domestic debate over the costs for a small island economy.",
+    "ko": "2012년 바누아투는 1990년대에 시작되어 작은 섬나라 경제가 치를 비용을 둘러싼 국내 논쟁으로 오랫동안 멈춰 있던 가입 협상을 마치고 세계무역기구 회원국이 되었다.",
+    "zh": "2012年，瓦努阿图在完成始于20世纪90年代、因国内对小岛经济成本的争论而长期停滞的入世谈判后，成为世界贸易组织成员。",
+    "ja": "2012年、バヌアツは1990年代に始まり、小さな島国経済が負う負担をめぐる国内論争で長く停滞していた加盟交渉を終え、世界貿易機関の加盟国となった。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclone Pam devastates the islands",
+    "ko": "사이클론 팜의 대재해",
+    "zh": "气旋“帕姆”重创瓦努阿图",
+    "ja": "サイクロン・パムの大災害"
+   },
+   "description": {
+    "en": "In March 2015 Category 5 Cyclone Pam, one of the most intense storms recorded in the South Pacific, swept across Vanuatu's southern and central islands. It destroyed homes, crops and water supplies across much of the country, killing at least 11 people and prompting a major international relief effort.",
+    "ko": "2015년 3월 남태평양에서 관측된 가장 강력한 폭풍 가운데 하나인 5등급 사이클론 팜이 바누아투의 남부와 중부 섬들을 휩쓸었다. 사이클론은 전국 곳곳의 주택과 농작물, 식수원을 파괴하고 최소 11명의 목숨을 앗아 갔으며, 대규모 국제 구호 활동을 불러왔다.",
+    "zh": "2015年3月，南太平洋有记录以来最强烈的风暴之一、5级气旋“帕姆”横扫瓦努阿图南部和中部岛屿。它摧毁了全国大部分地区的房屋、庄稼和水源，造成至少11人死亡，并引发大规模国际救援。",
+    "ja": "2015年3月、南太平洋で観測された最も強い嵐の一つであるカテゴリー5のサイクロン・パムが、バヌアツ南部・中部の島々を襲った。国内の広い範囲で住宅や作物、水源が破壊され、少なくとも11人が死亡し、大規模な国際救援が行われた。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Bribery convictions and the self-pardon scandal",
+    "ko": "뇌물 유죄 판결과 '셀프 사면' 파문",
+    "zh": "受贿定罪与“自我赦免”丑闻",
+    "ja": "贈収賄の有罪判決と「自己恩赦」騒動"
+   },
+   "description": {
+    "en": "In October 2015 the Supreme Court convicted 14 members of parliament, including the deputy prime minister, of bribery. While the president was abroad, the Speaker, acting as head of state, pardoned himself and the others; the president revoked the pardons on his return, the courts upheld the convictions, and parliament was dissolved for early elections in 2016.",
+    "ko": "2015년 10월 대법원은 부총리를 포함한 국회의원 14명에게 뇌물죄 유죄 판결을 내렸다. 대통령이 해외에 있는 동안 국가원수 대행이던 국회의장은 자신과 다른 의원들을 사면했으나, 귀국한 대통령이 사면을 취소했고 법원은 유죄를 확정했으며, 의회는 해산되어 2016년 조기 총선이 치러졌다.",
+    "zh": "2015年10月，最高法院判定包括副总理在内的14名议员犯有受贿罪。总统出访期间，代行国家元首职务的议长赦免了自己和其他人；总统回国后撤销赦免，法院维持了定罪，议会随后被解散，并于2016年提前举行选举。",
+    "ja": "2015年10月、最高裁判所は副首相を含む14人の国会議員に贈収賄で有罪判決を下した。大統領の外遊中に国家元首代行を務めた議長が自らと他の議員を恩赦したが、帰国した大統領がこれを取り消し、裁判所は有罪を維持し、議会は解散されて2016年に繰り上げ選挙が行われた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Ambae volcano forces evacuation of an entire island",
+    "ko": "암바에 화산 분화와 섬 전체 대피",
+    "zh": "安巴岛火山迫使全岛撤离",
+    "ja": "アンバエ火山の噴火と全島避難"
+   },
+   "description": {
+    "en": "In September 2017 the Manaro Voui volcano on Ambae erupted, and the government ordered the evacuation of the island's entire population to neighboring islands. Renewed eruptions and heavy ashfall in 2018 led to a second compulsory evacuation, and many families resettled permanently elsewhere, particularly on Espiritu Santo.",
+    "ko": "2017년 9월 암바에섬의 마나로 보이 화산이 분화하자 정부는 섬 주민 전체를 인근 섬으로 대피시켰다. 2018년 다시 분화하고 화산재가 쏟아지자 두 번째 강제 대피가 이루어졌고, 많은 가족이 에스피리투산투 등지로 영구 이주했다.",
+    "zh": "2017年9月，安巴岛马纳罗沃伊火山喷发，政府下令将全岛居民撤往邻近岛屿。2018年火山再次喷发并伴有大量降灰，导致第二次强制撤离，许多家庭此后在圣埃斯皮里图岛等地永久定居。",
+    "ja": "2017年9月、アンバエ島のマナロ・ヴォウイ火山が噴火し、政府は島の全住民を近隣の島へ避難させた。2018年に再び噴火して大量の降灰があり二度目の強制避難が行われ、多くの家族がエスピリトゥサント島などへ恒久的に移住した。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q89489808",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclone Harold strikes during the pandemic",
+    "ko": "팬데믹 속에 닥친 사이클론 해럴드",
+    "zh": "疫情期间遭气旋“哈罗德”袭击",
+    "ja": "パンデミック下のサイクロン・ハロルド"
+   },
+   "description": {
+    "en": "In April 2020 Category 5 Cyclone Harold struck Espiritu Santo, Malo, Pentecost and other northern islands, flattening villages and destroying much of Luganville. Because Vanuatu had closed its borders to keep out COVID-19, international relief arrived under strict quarantine rules, slowing the response.",
+    "ko": "2020년 4월 5등급 사이클론 해럴드가 에스피리투산투, 말로, 펜테코스트 등 북부 섬들을 강타해 마을을 쓸어버리고 루갠빌의 상당 부분을 파괴했다. 바누아투가 코로나19 유입을 막기 위해 국경을 닫았던 탓에 국제 구호는 엄격한 격리 규정 아래 도착했고, 대응이 늦어졌다.",
+    "zh": "2020年4月，5级气旋“哈罗德”袭击圣埃斯皮里图岛、马洛岛、彭特科斯特岛等北部岛屿，夷平村庄并摧毁卢甘维尔大部分地区。由于瓦努阿图为阻挡新冠疫情已关闭边境，国际救援只能在严格检疫规定下进入，救灾因此放缓。",
+    "ja": "2020年4月、カテゴリー5のサイクロン・ハロルドがエスピリトゥサント島、マロ島、ペンテコスト島など北部の島々を襲い、村々をなぎ倒し、ルーガンビルの多くを破壊した。バヌアツは新型コロナウイルスの流入を防ぐため国境を閉じていたため、国際支援は厳しい検疫規則のもとで届き、対応が遅れた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q116923505",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Twin cyclones Judy and Kevin",
+    "ko": "쌍둥이 사이클론 주디와 케빈",
+    "zh": "双气旋“朱迪”和“凯文”",
+    "ja": "双子のサイクロン、ジュディとケビン"
+   },
+   "description": {
+    "en": "In early March 2023 two severe cyclones, Judy and Kevin, struck Vanuatu within about two days of each other, hitting Efate and Port Vila among other islands. The back-to-back storms, together with an earthquake in the same period, led the government to declare a state of emergency.",
+    "ko": "2023년 3월 초 강력한 사이클론 주디와 케빈이 이틀가량 간격으로 잇달아 바누아투를 덮쳐 에파테섬과 포트빌라 등을 강타했다. 연이은 폭풍에 같은 시기 지진까지 겹치자 정부는 비상사태를 선포했다.",
+    "zh": "2023年3月初，强烈气旋“朱迪”和“凯文”在约两天内相继袭击瓦努阿图，埃法特岛和维拉港等地受灾。接连的风暴加上同期发生的地震，促使政府宣布进入紧急状态。",
+    "ja": "2023年3月初め、強いサイクロン「ジュディ」と「ケビン」が約2日の間隔で相次いでバヌアツを襲い、エファテ島やポートビラなどが被害を受けた。連続した嵐に同じ時期の地震も重なり、政府は非常事態を宣言した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Vanuatu leads a landmark UN climate resolution",
+    "ko": "유엔 기후 결의 주도",
+    "zh": "推动联合国里程碑式气候决议",
+    "ja": "国連気候決議を主導"
+   },
+   "description": {
+    "en": "In March 2023, after a campaign that began with Pacific law students, Vanuatu led the UN General Assembly to adopt by consensus a resolution asking the International Court of Justice for an advisory opinion on states' obligations regarding climate change. It was a milestone for climate-vulnerable nations seeking legal accountability.",
+    "ko": "2023년 3월 태평양 지역 법대생들에서 시작된 캠페인 끝에, 바누아투는 기후 변화와 관련한 국가의 의무에 대해 국제사법재판소에 권고적 의견을 요청하는 결의를 유엔총회가 컨센서스로 채택하도록 이끌었다. 이는 법적 책임을 묻고자 하는 기후 취약국들에게 이정표가 되었다.",
+    "zh": "2023年3月，在一场始于太平洋地区法学学生的运动推动下，瓦努阿图带领联合国大会以协商一致方式通过决议，请求国际法院就各国在气候变化方面的义务发表咨询意见。这是寻求法律问责的气候脆弱国家的一个里程碑。",
+    "ja": "2023年3月、太平洋地域の法学生から始まったキャンペーンを経て、バヌアツは気候変動に関する国家の義務について国際司法裁判所に勧告的意見を求める決議を、国連総会がコンセンサスで採択するよう主導した。これは法的責任を求める気候変動に脆弱な国々にとって画期的な出来事だった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q124470042",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Referendum on political stability",
+    "ko": "정치 안정을 위한 개헌 국민투표",
+    "zh": "关于政治稳定的修宪公投",
+    "ja": "政治の安定をめぐる憲法改正国民投票"
+   },
+   "description": {
+    "en": "In May 2024 voters approved constitutional amendments intended to curb chronic political instability, including rules that make members of parliament who switch parties lose their seats. The reform followed years of frequent no-confidence motions and changes of prime minister.",
+    "ko": "2024년 5월 유권자들은 고질적인 정치 불안을 억제하기 위해 당적을 바꾼 국회의원이 의석을 잃도록 하는 규정 등을 담은 헌법 개정안을 승인했다. 이 개혁은 수년간 이어진 잦은 불신임 동의와 총리 교체에 따른 것이었다.",
+    "zh": "2024年5月，选民批准了旨在遏制长期政治不稳定的宪法修正案，其中包括议员更换党籍即失去议席的规定。这项改革是在多年频繁的不信任动议和总理更迭之后推出的。",
+    "ja": "2024年5月、有権者は慢性的な政治の不安定を抑えるための憲法改正を承認した。党籍を変えた国会議員が議席を失う規定などが含まれる。この改革は、長年続いた頻繁な不信任動議と首相交代を受けたものだった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q131457095",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Port Vila earthquake",
+    "ko": "포트빌라 지진",
+    "zh": "维拉港地震",
+    "ja": "ポートビラ地震"
+   },
+   "description": {
+    "en": "On 17 December 2024 a magnitude 7.3 earthquake struck near Port Vila, causing deaths, landslides and the collapse of buildings in the capital, and damaging the port, roads and communications. A state of emergency was declared and international teams assisted with search and recovery.",
+    "ko": "2024년 12월 17일 포트빌라 인근에서 규모 7.3의 지진이 일어나 수도에서 사망자와 산사태, 건물 붕괴가 발생하고 항만과 도로, 통신이 피해를 입었다. 비상사태가 선포되었고 국제 구조대가 수색과 복구를 도왔다.",
+    "zh": "2024年12月17日，维拉港附近发生7.3级地震，首都出现人员死亡、山体滑坡和建筑倒塌，港口、道路和通信受损。政府宣布进入紧急状态，国际救援队协助搜救和恢复工作。",
+    "ja": "2024年12月17日、ポートビラ近くでマグニチュード7.3の地震が発生し、首都で死者や土砂崩れ、建物の倒壊が起き、港や道路、通信も被害を受けた。非常事態が宣言され、国際チームが捜索と復旧を支援した。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "ICJ delivers climate advisory opinion",
+    "ko": "국제사법재판소의 기후 권고적 의견",
+    "zh": "国际法院发表气候咨询意见",
+    "ja": "国際司法裁判所が気候に関する勧告的意見"
+   },
+   "description": {
+    "en": "In July 2025 the International Court of Justice delivered the advisory opinion that Vanuatu had championed, unanimously finding that states have obligations under international law to protect the climate system and that breaching them can engage state responsibility. Vanuatu hailed it as a historic outcome for small island states.",
+    "ko": "2025년 7월 국제사법재판소는 바누아투가 주도해 요청한 권고적 의견을 내놓으며, 국가들은 국제법상 기후 체계를 보호할 의무가 있고 이를 위반하면 국가 책임이 발생할 수 있다고 만장일치로 판단했다. 바누아투는 이를 작은 섬나라들을 위한 역사적 성과로 환영했다.",
+    "zh": "2025年7月，国际法院发表了瓦努阿图倡导请求的咨询意见，一致认定各国在国际法下负有保护气候系统的义务，违反这些义务可能引起国家责任。瓦努阿图称赞这是小岛屿国家的历史性成果。",
+    "ja": "2025年7月、国際司法裁判所はバヌアツが主導して求めた勧告的意見を示し、国家には国際法上気候システムを保護する義務があり、その違反は国家責任を生じうると全員一致で判断した。バヌアツはこれを小島嶼国にとって歴史的な成果として歓迎した。"
+   }
+  }
+ ]
+}

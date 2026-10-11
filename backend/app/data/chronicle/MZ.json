@@ -1,0 +1,1570 @@
+{
+ "iso": "MZ",
+ "eras": [
+  {
+   "from": -10000,
+   "to": 200,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Late Stone Age foragers",
+    "ko": "후기 석기 시대 수렵채집민",
+    "zh": "晚期石器时代采集狩猎者",
+    "ja": "後期石器時代の狩猟採集民"
+   },
+   "summary": {
+    "en": "For thousands of years before farming arrived, the land of Mozambique was inhabited by Late Stone Age hunter-gatherers related to the San peoples of southern Africa. They used microlithic stone tools and left rock paintings in shelters in the western highlands, such as those at Chinhamapere in Manica. Coastal groups also exploited shellfish and marine resources.",
+    "ko": "농경이 전해지기 전 수천 년 동안 모잠비크 땅에는 남부 아프리카 산족과 관련된 후기 석기 시대 수렵채집민이 살았다. 이들은 세석기를 사용했고, 마니카의 친하마페레 같은 서부 고지대의 바위 그늘에 암각화를 남겼다. 해안의 집단은 조개류와 해양 자원도 이용했다.",
+    "zh": "在农业传入之前的数千年里，莫桑比克这片土地上生活着与南部非洲桑人有亲缘关系的晚期石器时代狩猎采集者。他们使用细石器，并在西部高地的岩棚中留下了岩画，如马尼卡的钦哈马佩雷岩画。沿海群体还利用贝类和海洋资源。",
+    "ja": "農耕が伝わる以前の数千年間、モザンビークの地には南部アフリカのサン人に連なる後期石器時代の狩猟採集民が暮らしていた。彼らは細石器を用い、マニカのチニャマペレなど西部高地の岩陰に岩絵を残した。沿岸の集団は貝類や海の資源も利用した。"
+   }
+  },
+  {
+   "from": 200,
+   "to": 1000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Iron Age Bantu farmers",
+    "ko": "초기 철기 시대 반투계 농경민",
+    "zh": "早期铁器时代班图农耕民",
+    "ja": "初期鉄器時代のバントゥー系農耕民"
+   },
+   "summary": {
+    "en": "From around the 2nd–3rd centuries AD, Bantu-speaking farmers spread into Mozambique, bringing iron working, pottery and the cultivation of sorghum and millet, and later keeping cattle. Archaeologists identify their settlements by distinctive pottery traditions such as Matola ware near Maputo. Over time they absorbed or displaced many earlier foragers, and their descendants formed the ancestors of most of the country's present peoples.",
+    "ko": "서기 2~3세기경부터 반투어계 농경민이 모잠비크로 퍼져 들어와 철기 제작과 토기, 수수·기장 재배를 전했고, 이후 소도 길렀다. 고고학자들은 마푸투 부근의 마톨라 토기 같은 독특한 토기 전통으로 이들의 정착지를 식별한다. 이들은 시간이 흐르며 이전의 수렵채집민 상당수를 흡수하거나 밀어냈고, 그 후손이 오늘날 이 나라 대부분 민족의 조상이 되었다.",
+    "zh": "约从公元2至3世纪起，班图语农耕民扩散进入莫桑比克，带来了冶铁、制陶以及高粱和小米种植，后来又开始饲养牛群。考古学家通过独特的陶器传统来辨识他们的聚落，例如马普托附近的马托拉陶器。随着时间推移，他们同化或取代了许多早先的采集狩猎者，其后代成为该国现今大多数民族的祖先。",
+    "ja": "紀元2～3世紀頃から、バントゥー語系の農耕民がモザンビークに広がり、製鉄や土器、ソルガムやミレットの栽培をもたらし、のちには牛も飼うようになった。考古学者はマプト近郊のマトラ土器のような特徴的な土器の伝統で彼らの集落を識別している。彼らは時とともに先住の狩猟採集民の多くを吸収あるいは駆逐し、その子孫が現在のこの国の大半の民族の祖先となった。"
+   }
+  },
+  {
+   "from": 700,
+   "to": 1505,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Swahili and Indian Ocean trading coast",
+    "ko": "스와힐리·인도양 교역 해안",
+    "zh": "斯瓦希里与印度洋贸易海岸",
+    "ja": "スワヒリ・インド洋交易海岸"
+   },
+   "summary": {
+    "en": "From roughly the 7th–8th centuries, coastal sites such as Chibuene near Vilankulo were drawn into Indian Ocean trade, and later Swahili Muslim towns grew at Sofala, Angoche, Quelimane and the Island of Mozambique. Merchants exchanged gold, ivory and other goods from the interior for cloth, glass beads and ceramics from the Middle East, India and China. Sofala's gold trade was dominated for much of this period by the city-state of Kilwa.",
+    "ko": "대략 7~8세기부터 빌랑쿨루 부근의 시부에네 같은 해안 유적이 인도양 교역에 편입되었고, 이후 소팔라, 앙고슈, 켈리마네, 모잠비크섬에 스와힐리 무슬림 도시가 성장했다. 상인들은 내륙의 금과 상아 등을 중동, 인도, 중국의 직물, 유리구슬, 도자기와 교환했다. 이 시기 대부분 동안 소팔라의 금 교역은 도시국가 킬와가 장악했다.",
+    "zh": "约从7至8世纪起，维兰库卢附近的希布埃内等沿海遗址被纳入印度洋贸易，后来斯瓦希里穆斯林城镇在索法拉、安戈谢、克利马内和莫桑比克岛兴起。商人们用内陆的黄金、象牙等货物交换来自中东、印度和中国的布匹、玻璃珠和瓷器。在这一时期的大部分时间里，索法拉的黄金贸易由城邦基尔瓦掌控。",
+    "ja": "おおよそ7～8世紀から、ヴィランクロ近郊のチブエネなどの沿岸遺跡がインド洋交易に組み込まれ、のちにソファラ、アンゴシェ、ケリマネ、モザンビーク島にスワヒリのムスリム都市が成長した。商人たちは内陸の金や象牙などを、中東・インド・中国の布やガラスビーズ、陶磁器と交換した。この時期の大半、ソファラの金交易は都市国家キルワが握っていた。"
+   }
+  },
+  {
+   "from": 1000,
+   "to": 1450,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Zimbabwe culture and the gold trade",
+    "ko": "짐바브웨 문화와 금 교역",
+    "zh": "津巴布韦文化与黄金贸易",
+    "ja": "ジンバブエ文化と金交易"
+   },
+   "summary": {
+    "en": "Between about the 11th and 15th centuries, states of the Zimbabwe plateau, centered first at Mapungubwe and then at Great Zimbabwe, controlled the gold-producing interior whose trade passed through Mozambique's coast. Stone-walled Zimbabwe-type settlements were also built within present-day Mozambique, notably at Manyikeni in Inhambane province. These links tied the hinterland of Sofala to the commercial world of the western Indian Ocean.",
+    "ko": "대략 11세기부터 15세기 사이, 처음에는 마풍구브웨, 이후에는 그레이트 짐바브웨를 중심으로 한 짐바브웨 고원의 국가들이 금을 생산하는 내륙을 지배했고, 그 교역은 모잠비크 해안을 거쳐 이루어졌다. 오늘날 모잠비크 영역 안에도 돌담을 두른 짐바브웨형 정착지가 세워졌는데, 이남바네주의 마니케니가 대표적이다. 이러한 연결은 소팔라 배후지를 서인도양의 상업 세계와 이어 주었다.",
+    "zh": "大约从11世纪到15世纪，以马蓬古布韦、后以大津巴布韦为中心的津巴布韦高原国家控制着产金的内陆地区，其贸易经由莫桑比克海岸进行。今莫桑比克境内也建有石墙环绕的津巴布韦式聚落，以伊尼扬巴内省的马尼克尼最为著名。这些联系将索法拉腹地与西印度洋的商业世界连为一体。",
+    "ja": "おおよそ11世紀から15世紀にかけて、初めはマプングブエ、のちにグレート・ジンバブエを中心とするジンバブエ高原の国家が金を産する内陸を支配し、その交易はモザンビークの海岸を経由した。現在のモザンビーク領内にも石垣をめぐらしたジンバブエ型の集落が築かれ、イニャンバネ州のマニケニがよく知られる。こうした結びつきが、ソファラの後背地を西インド洋の商業世界と結びつけた。"
+   }
+  },
+  {
+   "from": 1450,
+   "to": 1760,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Mutapa",
+    "ko": "무타파 왕국",
+    "zh": "穆塔帕王国",
+    "ja": "ムタパ王国"
+   },
+   "summary": {
+    "en": "The Mutapa (Monomotapa) kingdom, founded according to tradition by Nyatsimba Mutota in the 15th century, ruled much of northern Zimbabwe and the Zambezi valley of western Mozambique, including the Tete region. Portuguese traders, missionaries and adventurers sought its gold, and in 1629 a Mutapa ruler became a Portuguese vassal. Weakened by civil wars and Portuguese intervention and overshadowed by the Rozvi state, Mutapa survived as a diminished polity in the Zambezi valley into the 18th century and beyond.",
+    "ko": "전승에 따르면 15세기 냐치므바 무토타가 세운 무타파(모노모타파) 왕국은 짐바브웨 북부 대부분과 테테 지역을 포함한 모잠비크 서부의 잠베지강 유역을 지배했다. 포르투갈 상인, 선교사, 모험가들이 그 금을 노렸고, 1629년 무타파의 통치자는 포르투갈의 봉신이 되었다. 내전과 포르투갈의 개입으로 약해지고 로즈위 국가에 가려진 무타파는 18세기와 그 이후까지 잠베지강 유역의 축소된 정치체로 존속했다.",
+    "zh": "据传统说法，穆塔帕（莫诺莫塔帕）王国由尼亚钦巴·穆托塔于15世纪建立，统治着津巴布韦北部大部分地区以及包括太特地区在内的莫桑比克西部赞比西河谷。葡萄牙商人、传教士和冒险家觊觎其黄金，1629年穆塔帕统治者成为葡萄牙的附庸。因内战和葡萄牙干预而衰弱、又被罗兹维国家盖过的穆塔帕，作为赞比西河谷中的一个弱小政权延续到18世纪乃至更晚。",
+    "ja": "伝承によれば15世紀にニャツィンバ・ムトタが建てたムタパ（モノモタパ）王国は、ジンバブエ北部の大部分と、テテ地方を含むモザンビーク西部のザンベジ川流域を支配した。ポルトガルの商人や宣教師、冒険者がその金を狙い、1629年にはムタパの支配者がポルトガルの臣下となった。内戦とポルトガルの介入で弱体化し、ロズウィ国家の陰に隠れたムタパは、18世紀以降もザンベジ川流域の縮小した政体として存続した。"
+   }
+  },
+  {
+   "from": 1485,
+   "to": 1910,
+   "kind": "state",
+   "qid": "Q1949848",
+   "polity": null,
+   "name": {
+    "en": "Sultanate of Angoche",
+    "ko": "앙고슈 술탄국",
+    "zh": "安戈谢苏丹国",
+    "ja": "アンゴシェ・スルタン国"
+   },
+   "summary": {
+    "en": "Angoche, a Swahili Muslim town on the coast of present-day Nampula province, became an independent sultanate from the late 15th century, traditionally said to have been founded by settlers connected with Kilwa. It traded in gold and ivory and later became a major center of the 19th-century slave trade, extending its influence over Makua chiefdoms inland. Portugal finally conquered Angoche in the early 20th century, around 1910.",
+    "ko": "오늘날 남풀라주 해안의 스와힐리 무슬림 도시 앙고슈는 15세기 말부터 독립 술탄국이 되었으며, 전승에 따르면 킬와와 관련된 이주민이 세웠다고 한다. 앙고슈는 금과 상아를 교역했고, 이후 19세기 노예무역의 주요 중심지가 되어 내륙의 마쿠아 수장국들에 영향력을 넓혔다. 포르투갈은 20세기 초인 1910년 무렵에야 앙고슈를 정복했다.",
+    "zh": "安戈谢是位于今楠普拉省沿海的斯瓦希里穆斯林城镇，自15世纪末起成为独立的苏丹国，据传统说法由与基尔瓦有关的移民建立。安戈谢从事黄金和象牙贸易，后来成为19世纪奴隶贸易的主要中心，并将影响扩展到内陆的马夸酋邦。葡萄牙直到20世纪初、约1910年才最终征服安戈谢。",
+    "ja": "現在のナンプラ州沿岸にあるスワヒリのムスリム都市アンゴシェは、15世紀末から独立したスルタン国となり、伝承ではキルワと関わりのある移住者が建てたとされる。アンゴシェは金や象牙を交易し、のちに19世紀の奴隷貿易の主要な中心地となって内陸のマクア人の首長国に影響力を広げた。ポルトガルは20世紀初頭の1910年頃になってようやくアンゴシェを征服した。"
+   }
+  },
+  {
+   "from": 1498,
+   "to": 1975,
+   "kind": "colonial",
+   "qid": "Q889394",
+   "polity": null,
+   "name": {
+    "en": "Portuguese Mozambique",
+    "ko": "포르투갈령 모잠비크",
+    "zh": "葡属莫桑比克",
+    "ja": "ポルトガル領モザンビーク"
+   },
+   "summary": {
+    "en": "Portuguese presence began with Vasco da Gama's visit in 1498 and forts at Sofala and the Island of Mozambique, but for centuries it was limited to coastal enclaves and the Zambezi valley, governed from Goa until 1752. Only after the Scramble for Africa and the military campaigns of the 1890s–1910s did Portugal control the whole territory, much of it leased to chartered companies. Colonial rule relied on forced labor, labor migration to South Africa and cash-crop quotas, and ended after a ten-year liberation war in 1975.",
+    "ko": "포르투갈의 존재는 1498년 바스쿠 다 가마의 방문과 소팔라, 모잠비크섬의 요새에서 시작되었지만, 수 세기 동안 해안 거점과 잠베지강 유역에 한정되었고 1752년까지 고아에서 통치되었다. 포르투갈은 아프리카 분할과 1890~1910년대 군사 작전 이후에야 영토 전체를 장악했으며, 그 상당 부분을 특허 회사에 임대했다. 식민 통치는 강제 노동, 남아프리카로의 노동 이주, 환금 작물 할당에 의존했으며, 10년간의 해방 전쟁 끝에 1975년 막을 내렸다.",
+    "zh": "葡萄牙的存在始于1498年瓦斯科·达·伽马的到访以及索法拉和莫桑比克岛的要塞，但数百年间仅限于沿海据点和赞比西河谷，并在1752年之前由果阿管辖。直到瓜分非洲以及1890至1910年代的军事行动之后，葡萄牙才控制整个领土，其中大部分租给特许公司。殖民统治依赖强迫劳动、向南非的劳工移民和经济作物配额，在经历十年解放战争后于1975年结束。",
+    "ja": "ポルトガルの存在は1498年のヴァスコ・ダ・ガマの来航とソファラ、モザンビーク島の要塞に始まったが、数世紀にわたり沿岸の拠点とザンベジ川流域に限られ、1752年まではゴアから統治された。アフリカ分割と1890～1910年代の軍事作戦を経てようやくポルトガルは全土を支配し、その多くを特許会社に貸与した。植民地支配は強制労働、南アフリカへの出稼ぎ、換金作物の割当てに依存し、10年に及ぶ解放戦争を経て1975年に終わった。"
+   }
+  },
+  {
+   "from": 1500,
+   "to": 1890,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Maravi, Makua and Yao societies of the north",
+    "ko": "북부의 마라비·마쿠아·야오 사회",
+    "zh": "北部的马拉维、马夸与尧人社会",
+    "ja": "北部のマラヴィ・マクア・ヤオ社会"
+   },
+   "summary": {
+    "en": "North of the Zambezi, Portuguese control was minimal for most of this period. From the 16th century the Maravi states, including the Lundu kingdom of the lower Shire and Zambezi and the Undi kingdom near Tete, dominated much of the region, while Makua chiefdoms occupied the coastal hinterland. In the 18th and 19th centuries Yao traders and chiefs linked the interior around Lake Niassa to the coastal ivory and slave trade, and many converted to Islam.",
+    "ko": "이 시기 대부분 동안 잠베지강 북쪽에서 포르투갈의 지배력은 미미했다. 16세기부터 시레강 하류와 잠베지강 일대의 룬두 왕국, 테테 부근의 운디 왕국 등 마라비 국가들이 이 지역 대부분을 지배했고, 마쿠아 수장국들은 해안 배후지를 차지했다. 18~19세기에는 야오족 상인과 수장들이 니아사호 주변 내륙을 해안의 상아·노예 무역과 연결했으며, 그 다수는 이슬람으로 개종했다.",
+    "zh": "在这一时期的大部分时间里，葡萄牙在赞比西河以北的控制微乎其微。从16世纪起，马拉维诸国，包括希雷河下游与赞比西河一带的伦杜王国以及太特附近的温迪王国，支配着该地区大部分地方，马夸酋邦则占据沿海腹地。18至19世纪，尧人商人和首领将尼亚萨湖周边内陆与沿海的象牙和奴隶贸易连接起来，其中许多人皈依了伊斯兰教。",
+    "ja": "この時期の大半、ザンベジ川以北でのポルトガルの支配はごくわずかであった。16世紀からはシレ川下流・ザンベジ川流域のルンドゥ王国やテテ近くのウンディ王国などマラヴィ諸国がこの地域の大部分を支配し、マクア人の首長国が沿岸の後背地を占めた。18～19世紀にはヤオ人の商人や首長がニアサ湖周辺の内陸を沿岸の象牙・奴隷貿易と結びつけ、その多くはイスラム教に改宗した。"
+   }
+  },
+  {
+   "from": 1600,
+   "to": 1930,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Zambezi prazos",
+    "ko": "잠베지강의 프라주",
+    "zh": "赞比西河的普拉佐庄园",
+    "ja": "ザンベジ川のプラーゾ"
+   },
+   "summary": {
+    "en": "From the 17th century the Portuguese crown granted large estates called prazos da coroa in the Zambezi valley to settlers, often Afro-Portuguese or Goan families, who ruled them like African chiefs with private armies of enslaved soldiers known as chikunda. Some prazo dynasties, such as the Pereira and da Cruz families, became virtually independent warlords in the 19th century, resisting Lisbon by force. The prazo system was gradually dismantled after the 1890s and formally abolished in 1930.",
+    "ko": "17세기부터 포르투갈 왕실은 잠베지강 유역의 '프라주 다 코로아'라 불리는 대토지를 흔히 아프리카·포르투갈계나 고아 출신 가문인 정착민에게 하사했고, 이들은 '치쿤다'로 불린 노예 병사로 이루어진 사병을 거느리고 아프리카 수장처럼 통치했다. 페레이라 가문과 다 크루스 가문 같은 일부 프라주 가문은 19세기에 사실상 독립적인 군벌이 되어 리스본에 무력으로 저항했다. 프라주 제도는 1890년대 이후 점차 해체되어 1930년 공식 폐지되었다.",
+    "zh": "从17世纪起，葡萄牙王室将赞比西河谷被称为“王室普拉佐”的大片庄园授予定居者，他们多为非葡混血或果阿家族，以由被称为“奇昆达”的奴隶士兵组成的私人武装，像非洲酋长一样统治庄园。佩雷拉家族和达克鲁斯家族等一些普拉佐世家在19世纪几乎成为独立的军阀，以武力对抗里斯本。普拉佐制度自1890年代后逐步瓦解，并于1930年正式废除。",
+    "ja": "17世紀からポルトガル王室は、ザンベジ川流域の「プラーゾ・ダ・コロア」と呼ばれる大所領を、しばしばアフリカ系ポルトガル人やゴア出身の家系である入植者に与え、彼らは「チクンダ」と呼ばれる奴隷兵の私兵を率いてアフリカの首長のように統治した。ペレイラ家やダ・クルス家など一部のプラーゾ家系は19世紀に事実上独立した軍閥となり、リスボンに武力で抵抗した。プラーゾ制度は1890年代以降徐々に解体され、1930年に正式に廃止された。"
+   }
+  },
+  {
+   "from": 1752,
+   "to": 1891,
+   "kind": "colonial",
+   "qid": "Q200464",
+   "polity": "Portuguese Empire",
+   "name": {
+    "en": "Captaincy and Province of Mozambique",
+    "ko": "모잠비크 총독령과 주",
+    "zh": "莫桑比克都督辖区与省",
+    "ja": "モザンビーク総督領および州"
+   },
+   "summary": {
+    "en": "In 1752 Mozambique was separated from the State of India and given its own governor, with its capital on the Island of Mozambique. Through the late 18th and 19th centuries the colony's economy depended heavily on the export of enslaved people to the Mascarene Islands, Brazil and Cuba, which continued even after formal bans. Portuguese authority remained weak inland, where African states, Swahili sultanates and prazo warlords held power, until the colonial borders were fixed by treaty in 1891.",
+    "ko": "1752년 모잠비크는 인도령에서 분리되어 자체 총독을 두게 되었고, 수도는 모잠비크섬에 있었다. 18세기 말과 19세기 내내 식민지 경제는 마스카렌 제도, 브라질, 쿠바로의 노예 수출에 크게 의존했으며, 이는 공식 금지 이후에도 계속되었다. 1891년 조약으로 식민지 경계가 확정되기 전까지 내륙에서는 아프리카 국가, 스와힐리 술탄국, 프라주 군벌이 권력을 쥐고 있어 포르투갈의 권위는 약했다.",
+    "zh": "1752年，莫桑比克从葡属印度分离出来，设立了自己的总督，首府设在莫桑比克岛。18世纪末至19世纪，殖民地经济严重依赖向马斯克林群岛、巴西和古巴输出奴隶，即使在正式禁止之后仍在继续。在1891年条约确定殖民地边界之前，内陆由非洲国家、斯瓦希里苏丹国和普拉佐军阀掌权，葡萄牙的权威十分薄弱。",
+    "ja": "1752年、モザンビークはポルトガル領インドから分離されて独自の総督を置き、首都はモザンビーク島に置かれた。18世紀末から19世紀を通じて植民地経済はマスカレン諸島、ブラジル、キューバへの奴隷輸出に大きく依存し、それは公式の禁止後も続いた。1891年の条約で植民地の境界が確定するまで、内陸ではアフリカの国家やスワヒリのスルタン国、プラーゾの軍閥が権力を握り、ポルトガルの権威は弱かった。"
+   }
+  },
+  {
+   "from": 1824,
+   "to": 1895,
+   "kind": "state",
+   "qid": "Q3780537",
+   "polity": null,
+   "name": {
+    "en": "Gaza Empire",
+    "ko": "가자 제국",
+    "zh": "加扎帝国",
+    "ja": "ガザ帝国"
+   },
+   "summary": {
+    "en": "The Gaza Empire was founded in the 1820s by Soshangane, a Nguni commander who fled north during the upheavals of the Mfecane and conquered the Tsonga, Ndau and Chopi peoples of southern Mozambique. At its height it stretched from the Limpopo to the Zambezi, and its rulers exacted tribute from Portuguese settlements. Under its last king, Ngungunhane (Gungunhana), it was conquered by Portugal in 1895.",
+    "ko": "가자 제국은 1820년대 음페카네의 격변 속에 북쪽으로 피신한 응구니족 지휘관 소샹가네가 남부 모잠비크의 총가족, 은다우족, 초피족을 정복하며 세웠다. 전성기에는 림포포강에서 잠베지강까지 뻗어 있었고, 통치자들은 포르투갈 정착지로부터 공물을 받았다. 마지막 왕 응궁군하네(궁구냐나) 때인 1895년 포르투갈에 정복되었다.",
+    "zh": "加扎帝国由恩古尼人将领索尚加内于19世纪20年代建立，他在“姆菲卡尼”动荡中北逃，征服了莫桑比克南部的聪加人、恩道人和乔皮人。帝国鼎盛时期从林波波河延伸至赞比西河，其统治者向葡萄牙定居点征收贡赋。在末代国王恩古恩古尼亚内（贡古尼亚纳）统治时期，帝国于1895年被葡萄牙征服。",
+    "ja": "ガザ帝国は、ムフェカネの動乱の中で北へ逃れたングニ人の指揮官ソシャンガネが1820年代に南部モザンビークのツォンガ人、ンダウ人、チョピ人を征服して建てた。最盛期にはリンポポ川からザンベジ川まで広がり、支配者はポルトガルの入植地から貢納を取り立てた。最後の王ングングニャネ（グングニャナ）の時代、1895年にポルトガルに征服された。"
+   }
+  },
+  {
+   "from": 1891,
+   "to": 1942,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Conquest and the chartered companies",
+    "ko": "정복과 특허 회사 시대",
+    "zh": "征服与特许公司时代",
+    "ja": "征服と特許会社の時代"
+   },
+   "summary": {
+    "en": "After the Anglo-Portuguese treaty of 1891 fixed Mozambique's borders, Portugal waged campaigns of conquest against African states and leased about two-thirds of the territory to chartered companies: the Mozambique Company in Manica and Sofala, the Niassa Company in the far north, and the Zambezia Company. The south became a labor reservoir for South Africa's mines, and Lourenço Marques, the capital from 1898, grew as the port for the Transvaal. The monarchy fell in 1910, but the company system lasted until the Mozambique Company's charter expired in 1942.",
+    "ko": "1891년 영국·포르투갈 조약으로 모잠비크의 국경이 확정된 뒤, 포르투갈은 아프리카 국가들을 상대로 정복 전쟁을 벌였고 영토의 약 3분의 2를 특허 회사에 임대했다. 마니카와 소팔라의 모잠비크 회사, 최북부의 니아사 회사, 잠베지아 회사가 그것이다. 남부는 남아프리카 광산의 노동력 공급지가 되었고, 1898년부터 수도가 된 로렌수마르케스는 트란스발의 항구로 성장했다. 1910년 왕정은 무너졌지만, 회사 체제는 1942년 모잠비크 회사의 특허가 만료될 때까지 이어졌다.",
+    "zh": "1891年英葡条约确定莫桑比克边界后，葡萄牙对非洲国家发动征服战争，并将约三分之二的领土租给特许公司：马尼卡和索法拉的莫桑比克公司、最北部的尼亚萨公司以及赞比西亚公司。南部成为南非矿山的劳动力来源地，1898年起成为首府的洛伦索马贵斯作为德兰士瓦的港口而发展起来。君主制于1910年覆灭，但公司体制一直延续到1942年莫桑比克公司特许状到期。",
+    "ja": "1891年の英葡条約でモザンビークの国境が確定すると、ポルトガルはアフリカの諸国家に対して征服戦争を行い、領土の約3分の2を特許会社に貸与した。マニカとソファラのモザンビーク会社、最北部のニアサ会社、ザンベジア会社である。南部は南アフリカの鉱山への労働力供給地となり、1898年から首都となったロウレンソ・マルケスはトランスヴァールの港として発展した。王政は1910年に倒れたが、会社体制は1942年にモザンビーク会社の特許が切れるまで続いた。"
+   }
+  },
+  {
+   "from": 1926,
+   "to": 1975,
+   "kind": "colonial",
+   "qid": "Q824489",
+   "polity": "Estado Novo",
+   "name": {
+    "en": "Mozambique under the Estado Novo",
+    "ko": "이스타두 노부 체제의 모잠비크",
+    "zh": "新国家体制下的莫桑比克",
+    "ja": "エスタド・ノヴォ体制下のモザンビーク"
+   },
+   "summary": {
+    "en": "After the 1926 military coup in Portugal and the rise of António de Oliveira Salazar, the authoritarian Estado Novo centralized colonial rule, enforced forced cotton and rice cultivation and encouraged Portuguese settlement. In 1951 the colony was redefined as an overseas province, and from the 1960s the regime invested in infrastructure such as the Cahora Bassa dam while fighting a liberation war led by FRELIMO. The Carnation Revolution in Lisbon in April 1974 brought the regime down and opened the way to independence.",
+    "ko": "1926년 포르투갈 군사 쿠데타와 안토니우 드 올리베이라 살라자르의 집권 이후, 권위주의 체제인 이스타두 노부는 식민 통치를 중앙집권화하고 면화와 쌀의 강제 재배를 시행했으며 포르투갈인의 이주를 장려했다. 1951년 식민지는 해외주로 재규정되었고, 1960년대부터 정권은 FRELIMO가 이끄는 해방 전쟁과 싸우면서 카보라바사 댐 같은 기반 시설에 투자했다. 1974년 4월 리스본의 카네이션 혁명으로 정권이 무너지면서 독립의 길이 열렸다.",
+    "zh": "1926年葡萄牙军事政变以及安东尼奥·德奥利维拉·萨拉查上台后，威权的“新国家”体制将殖民统治中央集权化，强制推行棉花和水稻种植，并鼓励葡萄牙人移民。1951年殖民地被重新定义为海外省；自20世纪60年代起，政权一面与莫桑比克解放阵线领导的解放战争作战，一面投资卡奥拉巴萨水坝等基础设施。1974年4月里斯本的康乃馨革命推翻了该政权，为独立开辟了道路。",
+    "ja": "1926年のポルトガルの軍事クーデターとアントニオ・デ・オリヴェイラ・サラザールの台頭の後、権威主義体制エスタド・ノヴォは植民地統治を中央集権化し、綿花や米の強制栽培を行い、ポルトガル人の入植を奨励した。1951年に植民地は海外州と再定義され、1960年代からはFRELIMOが率いる解放戦争と戦いつつカオラ・バッサ・ダムなどのインフラに投資した。1974年4月のリスボンのカーネーション革命で体制が倒れ、独立への道が開かれた。"
+   }
+  },
+  {
+   "from": 1975,
+   "to": 1990,
+   "kind": "state",
+   "qid": "Q617078",
+   "polity": null,
+   "name": {
+    "en": "People's Republic of Mozambique",
+    "ko": "모잠비크 인민공화국",
+    "zh": "莫桑比克人民共和国",
+    "ja": "モザンビーク人民共和国"
+   },
+   "summary": {
+    "en": "Mozambique became independent on 25 June 1975 as a one-party state under FRELIMO and President Samora Machel, which in 1977 declared itself Marxist-Leninist and nationalized land, schools and health care. Most Portuguese settlers left, and support for liberation movements in Rhodesia and South Africa drew hostile reprisals. A devastating civil war with RENAMO, backed first by Rhodesia and then South Africa, together with drought and economic collapse, led the government in the late 1980s to adopt market reforms.",
+    "ko": "모잠비크는 1975년 6월 25일 FRELIMO와 사모라 마셸 대통령 아래 일당 국가로 독립했으며, 1977년 마르크스·레닌주의를 표방하고 토지와 학교, 의료를 국유화했다. 포르투갈 정착민 대부분이 떠났고, 로디지아와 남아프리카의 해방 운동을 지원한 탓에 적대적인 보복을 받았다. 처음에는 로디지아, 이후에는 남아프리카의 지원을 받은 RENAMO와의 참혹한 내전, 가뭄과 경제 붕괴로 정부는 1980년대 후반 시장 개혁을 채택했다.",
+    "zh": "1975年6月25日，莫桑比克在莫桑比克解放阵线和萨莫拉·马谢尔总统领导下作为一党制国家独立，1977年宣布奉行马克思列宁主义，将土地、学校和医疗收归国有。大多数葡萄牙定居者离去，而对罗得西亚和南非解放运动的支持招致敌对报复。与先后受罗得西亚和南非支持的莫桑比克全国抵抗运动之间的惨烈内战，加上干旱和经济崩溃，迫使政府在20世纪80年代后期实行市场改革。",
+    "ja": "モザンビークは1975年6月25日、FRELIMOとサモラ・マシェル大統領のもとで一党制国家として独立し、1977年にはマルクス・レーニン主義を掲げて土地や学校、医療を国有化した。ポルトガル人入植者の大半は去り、ローデシアや南アフリカの解放運動を支援したことで敵対的な報復を受けた。初めはローデシア、のちに南アフリカの支援を受けたRENAMOとの悲惨な内戦や干ばつ、経済崩壊により、政府は1980年代後半に市場改革を採用した。"
+   }
+  },
+  {
+   "from": 1990,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q1029",
+   "polity": "Mozambique",
+   "name": {
+    "en": "Republic of Mozambique",
+    "ko": "모잠비크 공화국",
+    "zh": "莫桑比克共和国",
+    "ja": "モザンビーク共和国"
+   },
+   "summary": {
+    "en": "A new constitution in 1990 introduced multiparty democracy and renamed the country the Republic of Mozambique, and the 1992 Rome peace accords ended the civil war. FRELIMO has won every national election since 1994, while the country's economy grew with aluminum smelting, coal and huge offshore gas discoveries, though poverty remained widespread. The 2010s and 2020s brought a hidden-debt scandal, renewed RENAMO clashes, a jihadist insurgency in Cabo Delgado and repeated devastating cyclones and floods.",
+    "ko": "1990년 새 헌법으로 복수정당 민주주의가 도입되고 국호가 모잠비크 공화국으로 바뀌었으며, 1992년 로마 평화협정으로 내전이 끝났다. FRELIMO는 1994년 이후 모든 전국 선거에서 승리했고, 경제는 알루미늄 제련, 석탄, 대규모 해상 가스 발견으로 성장했으나 빈곤은 여전히 광범위했다. 2010~2020년대에는 숨겨진 부채 스캔들, RENAMO와의 충돌 재발, 카보델가두의 지하드 반란, 거듭된 파괴적 사이클론과 홍수가 이어졌다.",
+    "zh": "1990年新宪法引入多党民主制，国名改为莫桑比克共和国，1992年《罗马和平协定》结束了内战。1994年以来莫桑比克解放阵线赢得了每一次全国选举，经济随着铝冶炼、煤炭和巨大的海上天然气发现而增长，但贫困依然普遍。2010至2020年代，该国相继经历隐性债务丑闻、与抵抗运动的冲突再起、德尔加杜角省的圣战叛乱以及多次毁灭性的气旋和洪灾。",
+    "ja": "1990年の新憲法で複数政党制民主主義が導入されて国名はモザンビーク共和国となり、1992年のローマ和平協定で内戦が終わった。FRELIMOは1994年以降すべての国政選挙で勝利し、経済はアルミニウム精錬や石炭、巨大な海底ガス田の発見で成長したが、貧困は依然として広範であった。2010～2020年代には隠れ債務スキャンダル、RENAMOとの衝突再燃、カボ・デルガード州のジハード主義者の反乱、度重なる壊滅的なサイクロンと洪水が続いた。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Forager rock art in the western highlands",
+    "ko": "서부 고지대의 수렵채집민 암각화",
+    "zh": "西部高地的采集狩猎者岩画",
+    "ja": "西部高地の狩猟採集民の岩絵"
+   },
+   "description": {
+    "en": "Long before farming arrived, Late Stone Age hunter-gatherers related to the San lived across Mozambique, using small stone tools and bows. In rock shelters of the western highlands, notably at Chinhamapere near Manica, they painted human figures and animals in red ochre; such art is difficult to date precisely but belongs to this forager tradition. These communities were later absorbed or displaced by incoming Bantu-speaking farmers.",
+    "ko": "농경이 전해지기 훨씬 전, 산족과 관련된 후기 석기 시대 수렵채집민이 작은 석기와 활을 쓰며 모잠비크 전역에 살았다. 서부 고지대의 바위 그늘, 특히 마니카 부근 친하마페레에서 이들은 붉은 오커로 사람과 동물을 그렸는데, 이러한 그림은 정확한 연대 측정이 어렵지만 이 수렵채집민 전통에 속한다. 이 공동체들은 훗날 들어온 반투어계 농경민에게 흡수되거나 밀려났다.",
+    "zh": "早在农业传入之前，与桑人有亲缘关系的晚期石器时代狩猎采集者就已使用小型石器和弓箭，生活在莫桑比克各地。在西部高地的岩棚中，尤其是马尼卡附近的钦哈马佩雷，他们用红赭石绘制了人物和动物；这类岩画难以精确断代，但属于这一采集狩猎传统。这些群体后来被迁入的班图语农耕民同化或取代。",
+    "ja": "農耕が伝わるはるか以前、サン人に連なる後期石器時代の狩猟採集民が小型の石器や弓を使ってモザンビーク全域に暮らしていた。西部高地の岩陰、とりわけマニカ近郊のチニャマペレで、彼らは赤いオーカーで人や動物を描いた。こうした岩絵の正確な年代測定は難しいが、この狩猟採集民の伝統に属する。これらの共同体はのちに到来したバントゥー語系の農耕民に吸収されるか押しのけられた。"
+   }
+  },
+  {
+   "year": 200,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Iron Age farmers arrive",
+    "ko": "철기 시대 농경민의 도래",
+    "zh": "铁器时代农耕民到来",
+    "ja": "鉄器時代の農耕民の到来"
+   },
+   "description": {
+    "en": "Around the 2nd–3rd centuries AD, Bantu-speaking farming communities reached southern Mozambique, as shown by sites with Matola pottery near Maputo, among the earliest Iron Age sites in southeastern Africa. They smelted iron, grew cereals and settled in villages along rivers and the coast. This expansion established the agricultural way of life that has characterized the country ever since.",
+    "ko": "서기 2~3세기경 반투어계 농경 공동체가 남부 모잠비크에 도달했는데, 이는 동남아프리카에서 가장 이른 철기 시대 유적에 속하는 마푸투 부근의 마톨라 토기 유적으로 확인된다. 이들은 철을 제련하고 곡물을 재배하며 강과 해안을 따라 마을을 이루었다. 이 확산으로 이후 이 나라를 특징지어 온 농경 생활 방식이 자리 잡았다.",
+    "zh": "约公元2至3世纪，班图语农耕社群抵达莫桑比克南部，马普托附近出土马托拉陶器的遗址可资证明，这些遗址属于东南非最早的铁器时代遗址之列。他们冶炼铁器、种植谷物，在沿河和沿海地带聚村而居。这次扩张确立了此后一直塑造该国的农耕生活方式。",
+    "ja": "紀元2～3世紀頃、バントゥー語系の農耕共同体が南部モザンビークに到達したことは、東南アフリカ最古級の鉄器時代遺跡であるマプト近郊のマトラ土器の遺跡によって示されている。彼らは鉄を製錬し、穀物を育て、川沿いや海岸沿いに村をつくった。この拡散によって、以後この国を特徴づける農耕の暮らしが定着した。"
+   }
+  },
+  {
+   "year": 700,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Chibuene joins Indian Ocean trade",
+    "ko": "인도양 교역에 참여한 시부에네",
+    "zh": "希布埃内加入印度洋贸易",
+    "ja": "インド洋交易に加わったチブエネ"
+   },
+   "description": {
+    "en": "At Chibuene, on the coast near present-day Vilankulo, archaeologists have found glazed pottery from the Persian Gulf and glass beads dating from around the 7th–8th centuries. The site is among the earliest evidence of Indian Ocean trade reaching so far south along the African coast. Coastal settlements like Chibuene linked inland communities to seaborne merchants long before the rise of Sofala.",
+    "ko": "오늘날 빌랑쿨루 부근 해안의 시부에네에서 고고학자들은 7~8세기경의 페르시아만산 유약 도기와 유리구슬을 발견했다. 이 유적은 인도양 교역이 아프리카 해안을 따라 이처럼 남쪽까지 이르렀음을 보여 주는 가장 이른 증거 가운데 하나이다. 시부에네 같은 해안 정착지는 소팔라가 부상하기 훨씬 전부터 내륙 공동체와 해상 상인을 연결했다.",
+    "zh": "考古学家在今维兰库卢附近海岸的希布埃内发现了约7至8世纪来自波斯湾的釉陶和玻璃珠。该遗址是印度洋贸易沿非洲海岸南下到达如此远处的最早证据之一。早在索法拉兴起之前，希布埃内这样的沿海聚落就已将内陆社群与海上商人联系起来。",
+    "ja": "現在のヴィランクロ近くの海岸にあるチブエネで、考古学者は7～8世紀頃のペルシア湾産の施釉陶器やガラスビーズを発見した。この遺跡は、インド洋交易がアフリカ沿岸をこれほど南まで達していたことを示す最古級の証拠の一つである。チブエネのような沿岸集落は、ソファラが台頭するはるか以前から内陸の共同体と海の商人を結びつけていた。"
+   }
+  },
+  {
+   "year": 900,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Swahili trading ports on the coast",
+    "ko": "해안의 스와힐리 무역항",
+    "zh": "沿海的斯瓦希里贸易港",
+    "ja": "沿岸のスワヒリ交易港"
+   },
+   "description": {
+    "en": "From around the 10th century, Swahili trading settlements flourished along the Mozambican coast, and the Arab geographer al-Mas'udi described the \"land of Sofala\" as a source of gold. Sofala became the key port exporting gold and ivory from the African interior into Indian Ocean commerce. Islam spread among the coastal merchant communities, which formed part of the wider Swahili world stretching north to Somalia.",
+    "ko": "10세기경부터 모잠비크 해안을 따라 스와힐리 교역 정착지가 번성했으며, 아랍 지리학자 알마스우디는 '소팔라의 땅'을 금의 산지로 기록했다. 소팔라는 아프리카 내륙의 금과 상아를 인도양 교역으로 내보내는 핵심 항구가 되었다. 이슬람은 북쪽 소말리아까지 이어지는 더 넓은 스와힐리 세계의 일부였던 해안 상인 공동체 사이에 퍼졌다.",
+    "zh": "约从10世纪起，斯瓦希里贸易聚落在莫桑比克沿海兴盛起来，阿拉伯地理学家马苏第将“索法拉之地”描述为黄金产地。索法拉成为将非洲内陆的黄金和象牙输往印度洋贸易的重要港口。伊斯兰教在沿海商人社群中传播，这些社群是北至索马里的更广阔斯瓦希里世界的一部分。",
+    "ja": "10世紀頃から、モザンビークの海岸沿いにスワヒリの交易集落が栄え、アラブの地理学者マスウーディーは「ソファラの地」を金の産地として記した。ソファラはアフリカ内陸の金と象牙をインド洋交易へ送り出す重要な港となった。北はソマリアまで続くより広いスワヒリ世界の一部であった沿岸の商人共同体の間に、イスラム教が広まった。"
+   }
+  },
+  {
+   "year": 1200,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Gold trade links to Great Zimbabwe",
+    "ko": "그레이트 짐바브웨와의 금 교역",
+    "zh": "与大津巴布韦相连的黄金贸易",
+    "ja": "グレート・ジンバブエと結ぶ黄金交易"
+   },
+   "description": {
+    "en": "Between the 13th and 15th centuries, gold from the plateau kingdoms associated with Great Zimbabwe flowed down to Sofala and on to Kilwa and the wider Indian Ocean world. Control of the Sofala gold trade made Kilwa one of the richest Swahili city-states. The trade tied the interior of Mozambique into long-distance exchange that reached Arabia, India and China.",
+    "ko": "13세기부터 15세기 사이, 그레이트 짐바브웨와 관련된 고원 왕국들의 금은 소팔라로 내려와 킬와와 더 넓은 인도양 세계로 흘러갔다. 소팔라 금 교역의 장악은 킬와를 가장 부유한 스와힐리 도시국가 가운데 하나로 만들었다. 이 교역은 모잠비크 내륙을 아라비아, 인도, 중국에 이르는 원거리 교환망에 연결했다.",
+    "zh": "13至15世纪，与大津巴布韦相关的高原王国出产的黄金经索法拉流往基尔瓦以及更广阔的印度洋世界。对索法拉黄金贸易的控制使基尔瓦成为最富有的斯瓦希里城邦之一。这一贸易将莫桑比克内陆纳入远达阿拉伯、印度和中国的远程交换网络。",
+    "ja": "13世紀から15世紀にかけて、グレート・ジンバブエに関わる高原の王国の金はソファラへと下り、キルワやより広いインド洋世界へ流れた。ソファラの金交易を押さえたことでキルワは最も豊かなスワヒリ都市国家の一つとなった。この交易はモザンビーク内陸を、アラビア、インド、中国に及ぶ遠距離交換網に結びつけた。"
+   }
+  },
+  {
+   "year": 1300,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Manyikeni, a Zimbabwe-type town in Mozambique",
+    "ko": "모잠비크의 짐바브웨형 도시 마니케니",
+    "zh": "莫桑比克的津巴布韦式城镇马尼克尼",
+    "ja": "モザンビークのジンバブエ型の町マニケニ"
+   },
+   "description": {
+    "en": "At Manyikeni, in present-day Inhambane province, an elite stone-walled enclosure in the style of Great Zimbabwe was occupied from roughly the 13th to the 17th century. Excavations found glass beads, gold and evidence of cattle-keeping, suggesting the site served as a regional center linking the plateau states with the coast. It is the best-known Zimbabwe-culture site in Mozambique.",
+    "ko": "오늘날 이냠바네주의 마니케니에는 대략 13세기부터 17세기까지 그레이트 짐바브웨 양식의 돌담으로 둘러싸인 지배층 거주지가 있었다. 발굴에서는 유리구슬과 금, 목축의 흔적이 나와, 이곳이 고원의 국가들과 해안을 잇는 지역 중심지였음을 시사한다. 이곳은 모잠비크에서 가장 잘 알려진 짐바브웨 문화 유적이다.",
+    "zh": "在今伊尼扬巴内省的马尼克尼，有一处大津巴布韦风格的石墙精英居所，约从13世纪沿用至17世纪。发掘出土了玻璃珠、黄金和养牛的证据，表明该地是连接高原国家与海岸的区域中心。这是莫桑比克最著名的津巴布韦文化遗址。",
+    "ja": "現在のイニャンバネ州にあるマニケニには、おおよそ13世紀から17世紀にかけて、グレート・ジンバブエ様式の石垣に囲まれた支配層の居住区があった。発掘ではガラスビーズや金、牛の飼育の痕跡が見つかり、高原の国家と海岸を結ぶ地域の中心であったことがうかがえる。ここはモザンビークで最もよく知られたジンバブエ文化の遺跡である。"
+   }
+  },
+  {
+   "year": 1450,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Mutapa kingdom",
+    "ko": "무타파 왕국의 부상",
+    "zh": "穆塔帕王国的兴起",
+    "ja": "ムタパ王国の興隆"
+   },
+   "description": {
+    "en": "According to oral tradition, around the mid-15th century the Shona ruler Nyatsimba Mutota moved north from the Great Zimbabwe region and founded the Mutapa kingdom, which expanded to the Zambezi valley in western Mozambique. Its rulers, titled Mwenemutapa, controlled gold mining and trade fairs frequented by Swahili and later Portuguese merchants. The kingdom became the main interior power the Portuguese encountered.",
+    "ko": "구전에 따르면 15세기 중엽 쇼나족 통치자 냐치므바 무토타가 그레이트 짐바브웨 지역에서 북쪽으로 옮겨 가 무타파 왕국을 세웠고, 왕국은 모잠비크 서부의 잠베지강 유역까지 확장되었다. '음웨네무타파'라는 칭호를 가진 통치자들은 금 채굴과, 스와힐리 상인 및 이후 포르투갈 상인이 드나들던 교역 시장을 장악했다. 이 왕국은 포르투갈인이 마주친 내륙의 주요 세력이 되었다.",
+    "zh": "据口述传统，约15世纪中叶，绍纳人统治者尼亚钦巴·穆托塔从大津巴布韦地区北迁，建立了穆塔帕王国，并扩张至莫桑比克西部的赞比西河谷。其统治者称“姆韦内穆塔帕”，控制着金矿开采以及斯瓦希里商人和后来葡萄牙商人往来的集市。该王国成为葡萄牙人所遇到的主要内陆势力。",
+    "ja": "口承によれば、15世紀半ば頃ショナ人の支配者ニャツィンバ・ムトタがグレート・ジンバブエ地方から北へ移ってムタパ王国を建て、王国はモザンビーク西部のザンベジ川流域まで拡大した。「ムウェネムタパ」の称号を持つ支配者は、金の採掘と、スワヒリ商人やのちにはポルトガル商人が訪れる交易市を支配した。この王国はポルトガル人が出会った内陸の主要勢力となった。"
+   }
+  },
+  {
+   "year": 1485,
+   "qid": "Q1949848",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sultanate of Angoche emerges",
+    "ko": "앙고슈 술탄국의 성립",
+    "zh": "安戈谢苏丹国兴起",
+    "ja": "アンゴシェ・スルタン国の成立"
+   },
+   "description": {
+    "en": "In the late 15th century the Swahili town of Angoche, on the coast of what is now Nampula province, emerged as an independent sultanate; tradition links its founders to Kilwa. Angoche competed with Sofala in the gold and ivory trade along the Zambezi routes. Centuries later it became a major slave-trading center and one of the last coastal powers to resist Portuguese conquest.",
+    "ko": "15세기 말 오늘날 남풀라주 해안의 스와힐리 도시 앙고슈가 독립 술탄국으로 등장했으며, 전승은 그 건설자들을 킬와와 연결한다. 앙고슈는 잠베지강 교역로를 따라 금과 상아 교역에서 소팔라와 경쟁했다. 수 세기 뒤 앙고슈는 주요 노예무역 중심지가 되었고, 포르투갈의 정복에 저항한 마지막 해안 세력 가운데 하나였다.",
+    "zh": "15世纪末，位于今楠普拉省沿海的斯瓦希里城镇安戈谢兴起为独立的苏丹国；传统说法将其创建者与基尔瓦联系在一起。安戈谢沿赞比西河商路与索法拉争夺黄金和象牙贸易。数百年后，它成为重要的奴隶贸易中心，也是最后抵抗葡萄牙征服的沿海势力之一。",
+    "ja": "15世紀末、現在のナンプラ州沿岸にあるスワヒリの町アンゴシェが独立したスルタン国として現れ、伝承はその建設者をキルワと結びつけている。アンゴシェはザンベジ川沿いの交易路で金と象牙の交易をめぐりソファラと競った。数世紀後には奴隷貿易の主要な拠点となり、ポルトガルの征服に抵抗した最後の沿岸勢力の一つとなった。"
+   }
+  },
+  {
+   "year": 1498,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Vasco da Gama reaches the coast",
+    "ko": "바스쿠 다 가마의 도착",
+    "zh": "瓦斯科·达·伽马抵达海岸",
+    "ja": "ヴァスコ・ダ・ガマの到来"
+   },
+   "description": {
+    "en": "In early 1498 the Portuguese navigator Vasco da Gama called at the Island of Mozambique and other points on the coast during the first sea voyage from Europe to India. He found a thriving Muslim trading town and relations with the local ruler soon turned hostile. His voyage opened the coast to Portuguese ambitions to control the Indian Ocean gold and spice trade.",
+    "ko": "1498년 초 포르투갈 항해자 바스쿠 다 가마는 유럽에서 인도로 가는 첫 항해 도중 모잠비크섬과 해안 여러 곳에 기항했다. 그는 번성하는 무슬림 교역 도시를 발견했지만 현지 통치자와의 관계는 곧 적대적으로 변했다. 그의 항해는 인도양의 금·향신료 교역을 장악하려는 포르투갈의 야망에 이 해안을 열어 주었다.",
+    "zh": "1498年初，葡萄牙航海家瓦斯科·达·伽马在首次从欧洲前往印度的航行中停靠了莫桑比克岛及海岸其他地点。他看到了一座繁荣的穆斯林商业城镇，但与当地统治者的关系很快变得敌对。他的航行使这片海岸向葡萄牙控制印度洋黄金和香料贸易的野心敞开了大门。",
+    "ja": "1498年初め、ポルトガルの航海者ヴァスコ・ダ・ガマはヨーロッパからインドへの最初の航海の途中、モザンビーク島や海岸のいくつかの地点に寄港した。彼は繁栄するムスリムの交易都市を目にしたが、現地の支配者との関係はまもなく敵対的になった。彼の航海は、インド洋の金と香辛料の交易を支配しようとするポルトガルの野心にこの海岸を開いた。"
+   }
+  },
+  {
+   "year": 1505,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Portuguese fort at Sofala",
+    "ko": "소팔라의 포르투갈 요새",
+    "zh": "葡萄牙在索法拉建堡",
+    "ja": "ソファラのポルトガル要塞"
+   },
+   "description": {
+    "en": "In 1505 a Portuguese fleet built a fort at Sofala to seize the gold trade, as part of a campaign that also attacked Kilwa and Mombasa. Sofala's gold exports soon declined as trade shifted to other routes, prompting the Portuguese to push inland along the Zambezi. The fort marked the start of a Portuguese colonial presence that would last 470 years.",
+    "ko": "1505년 포르투갈 함대는 금 교역을 장악하기 위해 소팔라에 요새를 세웠으며, 같은 원정에서 킬와와 몸바사도 공격했다. 교역이 다른 경로로 옮겨 가면서 소팔라의 금 수출은 곧 줄어들었고, 포르투갈인은 잠베지강을 따라 내륙으로 진출하게 되었다. 이 요새는 470년간 이어질 포르투갈 식민 존재의 시작을 알렸다.",
+    "zh": "1505年，葡萄牙舰队在索法拉修筑要塞以夺取黄金贸易，同一行动中还进攻了基尔瓦和蒙巴萨。由于贸易转向其他路线，索法拉的黄金出口很快减少，促使葡萄牙人沿赞比西河向内陆推进。这座要塞标志着长达470年的葡萄牙殖民存在的开端。",
+    "ja": "1505年、ポルトガル艦隊は金交易を奪うためにソファラに要塞を築き、同じ遠征でキルワやモンバサも攻撃した。交易が別のルートへ移るとソファラの金輸出はまもなく減少し、ポルトガル人はザンベジ川沿いに内陸へ進出するようになった。この要塞は470年続くポルトガルの植民地支配の始まりを告げた。"
+   }
+  },
+  {
+   "year": 1507,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Portuguese base on the Island of Mozambique",
+    "ko": "모잠비크섬의 포르투갈 거점",
+    "zh": "葡萄牙在莫桑比克岛建立据点",
+    "ja": "モザンビーク島のポルトガル拠点"
+   },
+   "description": {
+    "en": "In 1507 the Portuguese established a fortified base on the Island of Mozambique, whose harbor became a vital stopover for fleets sailing between Lisbon and Goa. The island grew into the administrative and religious center of Portuguese East Africa. It later gave its name to the whole colony and the modern country.",
+    "ko": "1507년 포르투갈인은 모잠비크섬에 요새화된 거점을 세웠고, 섬의 항구는 리스본과 고아를 오가는 함대의 중요한 기항지가 되었다. 섬은 포르투갈령 동아프리카의 행정·종교 중심지로 성장했다. 이 섬의 이름은 훗날 식민지 전체와 현대 국가의 이름이 되었다.",
+    "zh": "1507年，葡萄牙人在莫桑比克岛建立设防据点，岛上港口成为往返里斯本和果阿之间船队的重要中转站。该岛发展为葡属东非的行政和宗教中心，后来其名称成为整个殖民地乃至现代国家的国名。",
+    "ja": "1507年、ポルトガル人はモザンビーク島に要塞化した拠点を築き、島の港はリスボンとゴアを往来する艦隊の重要な寄港地となった。島はポルトガル領東アフリカの行政・宗教の中心地へと発展した。その名はのちに植民地全体と現代の国家の名となった。"
+   }
+  },
+  {
+   "year": 1531,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Portuguese trading posts at Sena and Tete",
+    "ko": "세나와 테테의 포르투갈 교역소",
+    "zh": "葡萄牙在塞纳和太特设立贸易站",
+    "ja": "セナとテテのポルトガル交易所"
+   },
+   "description": {
+    "en": "In the 1530s the Portuguese established trading posts up the Zambezi River at Sena and Tete, replacing Swahili merchants who had traded there. The posts gave access to the gold fairs of the Mutapa kingdom and to ivory from the interior. They became the nucleus of Portuguese influence in the Zambezi valley for the next three centuries.",
+    "ko": "1530년대 포르투갈인은 잠베지강을 거슬러 올라가 세나와 테테에 교역소를 세우고, 그곳에서 교역하던 스와힐리 상인들을 대체했다. 이 교역소들은 무타파 왕국의 금 시장과 내륙의 상아에 접근할 수 있게 해 주었다. 이곳들은 이후 3세기 동안 잠베지강 유역에서 포르투갈 세력의 핵심이 되었다.",
+    "zh": "16世纪30年代，葡萄牙人沿赞比西河上溯，在塞纳和太特建立贸易站，取代了原在当地经商的斯瓦希里商人。这些据点使他们得以进入穆塔帕王国的黄金集市并获取内陆象牙。此后三个世纪，它们成为葡萄牙在赞比西河谷影响力的核心。",
+    "ja": "1530年代、ポルトガル人はザンベジ川をさかのぼってセナとテテに交易所を設け、そこで交易していたスワヒリ商人に取って代わった。これらの交易所はムタパ王国の金の市や内陸の象牙への足がかりとなった。以後3世紀にわたり、ザンベジ川流域におけるポルトガルの影響力の中核となった。"
+   }
+  },
+  {
+   "year": 1544,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Lourenço Marques explores Delagoa Bay",
+    "ko": "델라고아만을 탐사한 로렌수 마르케스",
+    "zh": "洛伦索·马贵斯探索德拉瓜湾",
+    "ja": "デラゴア湾を探検したロウレンソ・マルケス"
+   },
+   "description": {
+    "en": "In 1544 the Portuguese trader Lourenço Marques explored Delagoa Bay in the far south, opening an ivory trade with the local Tsonga chiefdoms. The bay became a periodic Portuguese trading station contested over the following centuries by Dutch, Austrian and British traders. The town that later grew there bore his name until it was renamed Maputo after independence.",
+    "ko": "1544년 포르투갈 상인 로렌수 마르케스는 최남단의 델라고아만을 탐사하고 현지 총가족 수장국들과 상아 교역을 시작했다. 이 만은 이후 몇 세기 동안 네덜란드, 오스트리아, 영국 상인들과 다툼이 벌어지는 포르투갈의 간헐적 교역 거점이 되었다. 그곳에 훗날 성장한 도시는 독립 후 마푸투로 개칭될 때까지 그의 이름을 지녔다.",
+    "zh": "1544年，葡萄牙商人洛伦索·马贵斯探索了最南端的德拉瓜湾，与当地聪加人酋邦开展象牙贸易。此后数个世纪，该湾成为葡萄牙时断时续的贸易站，荷兰、奥地利和英国商人也曾争夺于此。后来在那里发展起来的城市一直以他的名字命名，直到独立后改称马普托。",
+    "ja": "1544年、ポルトガルの商人ロウレンソ・マルケスは最南部のデラゴア湾を探検し、現地のツォンガ人の首長国と象牙交易を始めた。湾はその後数世紀にわたり、オランダ、オーストリア、イギリスの商人と争われるポルトガルの断続的な交易拠点となった。のちにそこに発展した町は、独立後にマプトと改名されるまで彼の名を冠した。"
+   }
+  },
+  {
+   "year": 1558,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Fortress of São Sebastião begun",
+    "ko": "상세바스티앙 요새 착공",
+    "zh": "圣塞巴斯蒂安要塞动工",
+    "ja": "サン・セバスティアン要塞の着工"
+   },
+   "description": {
+    "en": "In 1558 the Portuguese began building the Fortress of São Sebastião on the northern tip of the Island of Mozambique, a massive stone fort completed over several decades. It withstood Dutch sieges in the early 17th century and remains one of the oldest standing European forts in sub-Saharan Africa. The fort is the centerpiece of the Island of Mozambique UNESCO World Heritage Site, inscribed in 1991.",
+    "ko": "1558년 포르투갈인은 모잠비크섬 북단에 상세바스티앙 요새를 짓기 시작했으며, 이 거대한 석조 요새는 수십 년에 걸쳐 완공되었다. 요새는 17세기 초 네덜란드의 포위 공격을 견뎌 냈고, 사하라 이남 아프리카에 현존하는 가장 오래된 유럽식 요새 가운데 하나로 남아 있다. 이 요새는 1991년 유네스코 세계유산으로 등재된 모잠비크섬의 핵심 유적이다.",
+    "zh": "1558年，葡萄牙人开始在莫桑比克岛北端修建圣塞巴斯蒂安要塞，这座宏大的石砌要塞历经数十年才完工。它在17世纪初顶住了荷兰人的围攻，至今仍是撒哈拉以南非洲现存最古老的欧洲要塞之一。该要塞是1991年列入联合国教科文组织世界遗产的莫桑比克岛的核心景观。",
+    "ja": "1558年、ポルトガル人はモザンビーク島の北端でサン・セバスティアン要塞の建設を始め、この巨大な石造要塞は数十年をかけて完成した。要塞は17世紀初めのオランダの包囲に耐え、サハラ以南アフリカに現存する最古級のヨーロッパ式要塞の一つである。要塞は1991年にユネスコ世界遺産に登録されたモザンビーク島の中心的な遺構である。"
+   }
+  },
+  {
+   "year": 1561,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Death of the missionary Gonçalo da Silveira",
+    "ko": "선교사 곤살루 다 실베이라의 죽음",
+    "zh": "传教士贡萨洛·达·西尔韦拉之死",
+    "ja": "宣教師ゴンサロ・ダ・シルヴェイラの死"
+   },
+   "description": {
+    "en": "The Jesuit missionary Gonçalo da Silveira traveled up the Zambezi to the court of the Mutapa ruler and baptized him in 1560. Early in 1561, after Muslim traders at court reportedly warned the ruler that Silveira was a spy, he was killed on the king's orders. His death was later used by Portugal to justify military intervention in the Mutapa kingdom.",
+    "ko": "예수회 선교사 곤살루 다 실베이라는 잠베지강을 거슬러 무타파 통치자의 궁정에 이르러 1560년 그에게 세례를 주었다. 1561년 초, 궁정의 무슬림 상인들이 실베이라가 첩자라고 통치자에게 경고했다고 전해진 뒤, 그는 왕의 명령으로 살해되었다. 포르투갈은 훗날 그의 죽음을 무타파 왕국에 대한 군사 개입의 명분으로 삼았다.",
+    "zh": "耶稣会传教士贡萨洛·达·西尔韦拉沿赞比西河而上，来到穆塔帕统治者的宫廷，并于1560年为其施洗。据载，宫中的穆斯林商人警告统治者西尔韦拉是间谍，1561年初他奉国王之命被杀。葡萄牙后来以他的死作为军事干预穆塔帕王国的借口。",
+    "ja": "イエズス会の宣教師ゴンサロ・ダ・シルヴェイラはザンベジ川をさかのぼってムタパの支配者の宮廷に赴き、1560年に彼に洗礼を授けた。宮廷のムスリム商人がシルヴェイラは間者だと支配者に警告したとされ、1561年初め、彼は王の命令で殺害された。ポルトガルはのちに彼の死をムタパ王国への軍事介入の口実とした。"
+   }
+  },
+  {
+   "year": 1571,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Barreto's failed expedition against Mutapa",
+    "ko": "무타파를 노린 바헤투 원정의 실패",
+    "zh": "巴雷托远征穆塔帕失败",
+    "ja": "ムタパを狙ったバレト遠征の失敗"
+   },
+   "description": {
+    "en": "In the early 1570s a large Portuguese expedition under Francisco Barreto advanced up the Zambezi from Sena, aiming to avenge Silveira's death and seize the Mutapa gold mines. Disease, especially malaria, and fighting with local peoples destroyed most of the force, and Barreto himself died in 1573. Portugal abandoned outright conquest and relied instead on traders and diplomacy in the interior.",
+    "ko": "1570년대 초 프란시스쿠 바헤투가 이끈 포르투갈 대원정대는 실베이라의 죽음에 복수하고 무타파의 금광을 차지하려고 세나에서 잠베지강을 거슬러 올라갔다. 말라리아를 비롯한 질병과 현지 주민과의 전투로 원정대 대부분이 궤멸했고, 바헤투 자신도 1573년 사망했다. 포르투갈은 직접 정복을 포기하고 대신 내륙에서 상인과 외교에 의존했다.",
+    "zh": "16世纪70年代初，弗朗西斯科·巴雷托率领的葡萄牙大规模远征军从塞纳沿赞比西河而上，意图为西尔韦拉之死复仇并夺取穆塔帕的金矿。疟疾等疾病以及与当地民族的战斗使远征军几乎全军覆没，巴雷托本人也于1573年去世。葡萄牙放弃直接征服，转而在内陆依靠商人和外交手段。",
+    "ja": "1570年代初め、フランシスコ・バレトの率いるポルトガルの大遠征隊は、シルヴェイラの死に報復しムタパの金鉱を奪うため、セナからザンベジ川をさかのぼった。マラリアなどの病気と現地の人々との戦闘で部隊の大半が壊滅し、バレト自身も1573年に死去した。ポルトガルは直接征服を断念し、代わりに内陸では商人と外交に頼った。"
+   }
+  },
+  {
+   "year": 1607,
+   "qid": "Q121433548",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Dutch sieges of Mozambique Island",
+    "ko": "네덜란드의 모잠비크섬 포위",
+    "zh": "荷兰围攻莫桑比克岛",
+    "ja": "オランダによるモザンビーク島包囲"
+   },
+   "description": {
+    "en": "In 1607, and again in 1608, fleets of the Dutch East India Company besieged the Island of Mozambique in an attempt to seize Portugal's key base on the route to India. The Portuguese garrison held out in the Fortress of São Sebastião, though the town outside was burned. The Dutch instead built their own route to Asia, establishing a station at the Cape in 1652.",
+    "ko": "1607년과 1608년 네덜란드 동인도회사 함대는 인도 항로상의 포르투갈 핵심 거점을 빼앗으려고 모잠비크섬을 포위했다. 요새 밖 시가지는 불탔지만, 포르투갈 수비대는 상세바스티앙 요새에서 버텨 냈다. 네덜란드는 대신 독자적인 아시아 항로를 구축해 1652년 케이프에 기지를 세웠다.",
+    "zh": "1607年及1608年，荷兰东印度公司的舰队两度围攻莫桑比克岛，企图夺取葡萄牙在印度航线上的关键据点。虽然要塞外的城镇被焚毁，葡萄牙守军仍在圣塞巴斯蒂安要塞坚守住了。荷兰人转而开辟自己的亚洲航线，并于1652年在好望角建立据点。",
+    "ja": "1607年と1608年、オランダ東インド会社の艦隊はインド航路上のポルトガルの重要拠点を奪おうとモザンビーク島を包囲した。要塞外の町は焼かれたが、ポルトガルの守備隊はサン・セバスティアン要塞で持ちこたえた。オランダは代わりに独自のアジア航路を築き、1652年にケープに拠点を設けた。"
+   }
+  },
+  {
+   "year": 1629,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Mutapa becomes a Portuguese vassal",
+    "ko": "포르투갈의 봉신이 된 무타파",
+    "zh": "穆塔帕成为葡萄牙附庸",
+    "ja": "ポルトガルの臣下となったムタパ"
+   },
+   "description": {
+    "en": "Exploiting a succession dispute, the Portuguese backed the claimant Mavura, who in 1629 signed a treaty acknowledging the King of Portugal as his overlord and granting Portuguese traders freedom to move and mine gold. The treaty marked the decline of Mutapa's independence and opened the plateau to Portuguese and Afro-Portuguese adventurers. Their abuses fed resentment that later helped the Rozvi drive the Portuguese from the plateau.",
+    "ko": "왕위 계승 분쟁을 틈타 포르투갈은 왕위 요구자 마부라를 지원했고, 마부라는 1629년 포르투갈 국왕을 종주로 인정하고 포르투갈 상인에게 이동과 금 채굴의 자유를 주는 조약에 서명했다. 이 조약은 무타파의 독립이 쇠퇴했음을 보여 주며 고원을 포르투갈인과 아프리카·포르투갈계 모험가들에게 열어 주었다. 그들의 횡포는 반감을 키웠고, 이는 훗날 로즈위가 포르투갈인을 고원에서 몰아내는 데 도움이 되었다.",
+    "zh": "葡萄牙利用王位继承纠纷支持王位争夺者马武拉，马武拉于1629年签订条约，承认葡萄牙国王为其宗主，并给予葡萄牙商人自由往来和开采金矿的权利。该条约标志着穆塔帕独立地位的衰落，并向葡萄牙人和非葡混血冒险家敞开了高原。他们的恶行激起不满，后来有助于罗兹维人将葡萄牙人逐出高原。",
+    "ja": "王位継承争いに乗じてポルトガルは王位請求者マヴラを支援し、マヴラは1629年、ポルトガル国王を宗主と認め、ポルトガル商人に移動と金採掘の自由を与える条約に署名した。この条約はムタパの独立の衰退を示し、高原をポルトガル人やアフリカ系ポルトガル人の冒険者に開いた。彼らの横暴は反感を募らせ、のちにロズウィがポルトガル人を高原から追い出す一因となった。"
+   }
+  },
+  {
+   "year": 1693,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Changamire Dombo expels the Portuguese from the plateau",
+    "ko": "고원에서 포르투갈인을 몰아낸 창가미레 돔보",
+    "zh": "昌加米雷·多姆博将葡萄牙人逐出高原",
+    "ja": "高原からポルトガル人を追い出したチャンガミレ・ドンボ"
+   },
+   "description": {
+    "en": "In the 1690s the Rozvi ruler Changamire Dombo destroyed Portuguese trading fairs on the Zimbabwe plateau, beginning around 1693, and drove Portuguese traders back toward the Zambezi. The fair at Masekesa in Manica, in present-day Mozambique, survived only under Rozvi control. Portuguese influence thereafter was confined largely to the Zambezi valley and the coast.",
+    "ko": "1690년대 로즈위의 통치자 창가미레 돔보는 1693년경부터 짐바브웨 고원의 포르투갈 교역 시장들을 파괴하고 포르투갈 상인들을 잠베지강 쪽으로 몰아냈다. 오늘날 모잠비크에 있는 마니카의 마세케사 시장만이 로즈위의 통제 아래 살아남았다. 이후 포르투갈의 영향력은 주로 잠베지강 유역과 해안에 한정되었다.",
+    "zh": "17世纪90年代，罗兹维统治者昌加米雷·多姆博约自1693年起摧毁了津巴布韦高原上的葡萄牙集市，将葡萄牙商人逐回赞比西河一带。只有位于今莫桑比克马尼卡的马塞凯萨集市在罗兹维控制下得以保留。此后葡萄牙的影响力基本局限于赞比西河谷和沿海地区。",
+    "ja": "1690年代、ロズウィの支配者チャンガミレ・ドンボは1693年頃からジンバブエ高原のポルトガルの交易市を破壊し、ポルトガル商人をザンベジ川方面へ追い返した。現在のモザンビークにあるマニカのマセケサの市だけが、ロズウィの管理下で存続した。以後ポルトガルの影響力はおおむねザンベジ川流域と海岸に限られた。"
+   }
+  },
+  {
+   "year": 1752,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "A separate colony of Mozambique",
+    "ko": "모잠비크 식민지의 분리",
+    "zh": "莫桑比克成为单独殖民地",
+    "ja": "モザンビーク植民地の分離"
+   },
+   "description": {
+    "en": "In 1752 Mozambique was separated from the government of the Portuguese State of India in Goa and placed under its own governor, reflecting its growing importance to Lisbon. Indian merchants from Gujarat and Goa nonetheless remained central to its commerce. The Island of Mozambique remained the colonial capital until 1898, when it was moved to Lourenço Marques.",
+    "ko": "1752년 모잠비크는 고아의 포르투갈령 인도 정부로부터 분리되어 자체 총독의 관할 아래 놓였는데, 이는 리스본에 대한 이곳의 중요성이 커졌음을 반영한다. 그럼에도 구자라트와 고아 출신 인도 상인들은 여전히 교역의 중심에 있었다. 모잠비크섬은 1898년 로렌수마르케스로 수도가 옮겨질 때까지 식민지의 수도로 남았다.",
+    "zh": "1752年，莫桑比克从果阿的葡属印度政府中分离出来，由自己的总督管辖，这反映出它对里斯本日益重要。不过，来自古吉拉特和果阿的印度商人仍是其商业的核心。莫桑比克岛一直是殖民地首府，直到1898年首府迁往洛伦索马贵斯。",
+    "ja": "1752年、モザンビークはゴアのポルトガル領インド政府から分離されて独自の総督のもとに置かれ、リスボンにとっての重要性の高まりを反映した。それでもグジャラートやゴア出身のインド商人が引き続き交易の中心にいた。モザンビーク島は1898年に首都がロウレンソ・マルケスへ移されるまで植民地の首都であり続けた。"
+   }
+  },
+  {
+   "year": 1824,
+   "qid": "Q3780537",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Soshangane founds the Gaza Empire",
+    "ko": "소샹가네의 가자 제국 건국",
+    "zh": "索尚加内建立加扎帝国",
+    "ja": "ソシャンガネによるガザ帝国の建国"
+   },
+   "description": {
+    "en": "In the 1820s Soshangane, a Nguni commander who fled northward during the wars of the Mfecane, conquered the Tsonga and other peoples of southern Mozambique and founded the Gaza Empire. Its armies raided Portuguese posts at Delagoa Bay, Inhambane and Sofala, forcing them to pay tribute. The Gaza state became the dominant power between the Limpopo and the Zambezi for much of the 19th century.",
+    "ko": "1820년대 음페카네 전쟁 중 북쪽으로 피신한 응구니족 지휘관 소샹가네는 남부 모잠비크의 총가족 등을 정복하고 가자 제국을 세웠다. 제국의 군대는 델라고아만, 이냠바네, 소팔라의 포르투갈 거점을 습격해 공물을 바치게 했다. 가자 국가는 19세기 대부분 동안 림포포강과 잠베지강 사이의 지배 세력이 되었다.",
+    "zh": "19世纪20年代，在“姆菲卡尼”战乱中北逃的恩古尼人将领索尚加内征服了莫桑比克南部的聪加人等民族，建立了加扎帝国。其军队袭击德拉瓜湾、伊尼扬巴内和索法拉的葡萄牙据点，迫使其纳贡。在19世纪的大部分时间里，加扎国家是林波波河与赞比西河之间的主导力量。",
+    "ja": "1820年代、ムフェカネの戦乱の中で北へ逃れたングニ人の指揮官ソシャンガネは南部モザンビークのツォンガ人などを征服し、ガザ帝国を建てた。その軍はデラゴア湾、イニャンバネ、ソファラのポルトガルの拠点を襲い、貢納を課した。ガザ国家は19世紀の大半、リンポポ川とザンベジ川の間の支配的勢力となった。"
+   }
+  },
+  {
+   "year": 1836,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Portugal bans the slave trade, but it continues",
+    "ko": "노예무역 금지와 그 지속",
+    "zh": "葡萄牙禁止奴隶贸易但贸易仍在继续",
+    "ja": "奴隷貿易の禁止とその継続"
+   },
+   "description": {
+    "en": "In 1836 Portugal decreed the abolition of the slave trade from its colonies, but in Mozambique the export of enslaved people to Brazil, Cuba and the French islands of the Indian Ocean continued for decades, often clandestinely. Later the trade was disguised as recruitment of \"free\" contract laborers. Slavery itself was formally abolished throughout Portuguese territories in 1869, though forced labor persisted in other forms.",
+    "ko": "1836년 포르투갈은 식민지로부터의 노예무역 폐지를 법령으로 정했지만, 모잠비크에서는 브라질, 쿠바, 인도양의 프랑스령 섬들로의 노예 수출이 흔히 비밀리에 수십 년간 계속되었다. 이후 이 거래는 '자유' 계약 노동자 모집으로 위장되었다. 노예제 자체는 1869년 포르투갈 영토 전역에서 공식 폐지되었으나, 강제 노동은 다른 형태로 지속되었다.",
+    "zh": "1836年，葡萄牙颁布法令废除其殖民地的奴隶贸易，但在莫桑比克，向巴西、古巴和印度洋法属岛屿输出奴隶的活动往往秘密地持续了数十年。后来这种贸易又以招募“自由”契约劳工为名进行伪装。奴隶制本身于1869年在葡萄牙所有领土上被正式废除，但强迫劳动以其他形式延续下来。",
+    "ja": "1836年、ポルトガルは植民地からの奴隷貿易の廃止を布告したが、モザンビークではブラジル、キューバ、インド洋のフランス領の島々への奴隷輸出が、しばしば密かに数十年続いた。のちにこの取引は「自由」契約労働者の募集を装うようになった。奴隷制そのものは1869年にポルトガルの全領土で正式に廃止されたが、強制労働は別の形で続いた。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Livingstone's Zambezi Expedition",
+    "ko": "리빙스턴의 잠베지 탐험",
+    "zh": "利文斯敦的赞比西河探险",
+    "ja": "リヴィングストンのザンベジ探検"
+   },
+   "description": {
+    "en": "In 1858 the British missionary-explorer David Livingstone began a government-sponsored expedition up the Zambezi, hoping to open it as a highway for commerce and Christianity. The Cahora Bassa rapids proved impassable, and the expedition turned to the Shire River and Lake Malawi, where it documented the devastating slave trade. Though judged a failure, it increased British interest in the region, later a source of conflict with Portugal.",
+    "ko": "1858년 영국의 선교사이자 탐험가 데이비드 리빙스턴은 잠베지강을 상업과 그리스도교의 대로로 열기를 기대하며 정부 후원 탐험을 시작했다. 카보라바사 급류는 통과할 수 없었고, 탐험대는 시레강과 말라위호로 방향을 돌려 그곳의 참혹한 노예무역을 기록했다. 실패로 평가되었지만, 이 탐험은 이 지역에 대한 영국의 관심을 높였고 이는 훗날 포르투갈과의 갈등의 원인이 되었다.",
+    "zh": "1858年，英国传教士兼探险家戴维·利文斯敦在政府资助下开始沿赞比西河上溯探险，希望将其开辟为通商和传播基督教的大道。卡奥拉巴萨急流无法通行，探险队转向希雷河和马拉维湖，并记录了当地惨烈的奴隶贸易。这次探险虽被视为失败，却提高了英国对该地区的兴趣，后来成为与葡萄牙冲突的根源。",
+    "ja": "1858年、イギリスの宣教師で探検家のデイヴィッド・リヴィングストンは、ザンベジ川を通商とキリスト教の大通りとして開くことを期待して、政府の後援による探検を始めた。カオラ・バッサの急流は通過できず、探検隊はシレ川とマラウイ湖へ向かい、そこで悲惨な奴隷貿易を記録した。失敗と評価されたものの、この探検はこの地域へのイギリスの関心を高め、のちにポルトガルとの対立の原因となった。"
+   }
+  },
+  {
+   "year": 1875,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "MacMahon arbitration awards Delagoa Bay to Portugal",
+    "ko": "델라고아만을 포르투갈에 귀속시킨 마크마옹 중재",
+    "zh": "麦克马洪仲裁将德拉瓜湾判归葡萄牙",
+    "ja": "デラゴア湾をポルトガルに帰属させたマクマオン裁定"
+   },
+   "description": {
+    "en": "Britain and Portugal had long disputed control of the southern shores of Delagoa Bay. In 1875 French President Patrice de MacMahon, acting as arbitrator, ruled in Portugal's favor. The decision secured the future site of Lourenço Marques, which soon became the natural port for the gold and diamond economies of the Transvaal.",
+    "ko": "영국과 포르투갈은 오랫동안 델라고아만 남쪽 연안의 지배권을 두고 다투었다. 1875년 중재자로 나선 프랑스 대통령 파트리스 드 마크마옹은 포르투갈에 유리한 판정을 내렸다. 이 결정으로 훗날 로렌수마르케스가 들어설 자리가 확보되었고, 이곳은 곧 트란스발의 금·다이아몬드 경제를 위한 천연 항구가 되었다.",
+    "zh": "英国和葡萄牙长期争夺德拉瓜湾南岸的控制权。1875年，担任仲裁人的法国总统帕特里斯·德·麦克马洪作出有利于葡萄牙的裁决。这一裁决保住了日后洛伦索马贵斯的所在地，该地很快成为德兰士瓦黄金和钻石经济的天然港口。",
+    "ja": "イギリスとポルトガルは長くデラゴア湾南岸の支配をめぐって争っていた。1875年、仲裁者となったフランス大統領パトリス・ド・マクマオンはポルトガルに有利な裁定を下した。この決定で、のちのロウレンソ・マルケスの地が確保され、そこはまもなくトランスヴァールの金・ダイヤモンド経済の天然の港となった。"
+   }
+  },
+  {
+   "year": 1880,
+   "qid": "Q18469222",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Portuguese campaigns of \"pacification\"",
+    "ko": "포르투갈의 '평정' 전쟁",
+    "zh": "葡萄牙的“绥靖”战役",
+    "ja": "ポルトガルの「平定」作戦"
+   },
+   "description": {
+    "en": "From the 1880s Portugal launched a long series of military campaigns, which it called \"pacification\", to bring the African states, prazo warlords and sultanates of Mozambique under effective control. Under the rules of effective occupation agreed at the Berlin Conference, Portugal needed real control to secure its claims against Britain and Germany. The campaigns continued in various regions until the late 1910s.",
+    "ko": "1880년대부터 포르투갈은 모잠비크의 아프리카 국가, 프라주 군벌, 술탄국을 실효 지배하에 두기 위해 스스로 '평정'이라 부른 일련의 장기 군사 작전을 벌였다. 베를린 회의에서 합의된 실효 점령 원칙에 따라, 포르투갈은 영국과 독일에 맞서 영유권을 지키려면 실질적 지배가 필요했다. 이 작전들은 지역에 따라 1910년대 후반까지 이어졌다.",
+    "zh": "自19世纪80年代起，葡萄牙发动了一系列被其称为“绥靖”的长期军事行动，力图将莫桑比克的非洲国家、普拉佐军阀和苏丹国置于有效控制之下。根据柏林会议商定的有效占领原则，葡萄牙需要实际控制才能在与英国和德国的竞争中保住其领土主张。这些战役在各地一直持续到20世纪10年代末。",
+    "ja": "1880年代からポルトガルは、モザンビークのアフリカの諸国家やプラーゾの軍閥、スルタン国を実効支配下に置くため、自ら「平定」と呼んだ一連の長期にわたる軍事作戦を展開した。ベルリン会議で合意された実効占領の原則のもと、ポルトガルはイギリスやドイツに対して領有権を守るために実質的な支配を必要とした。作戦は地域によって1910年代後半まで続いた。"
+   }
+  },
+  {
+   "year": 1890,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "British Ultimatum ends the \"Pink Map\"",
+    "ko": "'장밋빛 지도'를 끝낸 영국의 최후통첩",
+    "zh": "英国最后通牒终结“玫瑰色地图”",
+    "ja": "「バラ色地図」を終わらせたイギリスの最後通牒"
+   },
+   "description": {
+    "en": "Portugal's \"Pink Map\" project claimed a belt of territory linking Angola and Mozambique across central Africa, clashing with British ambitions led by Cecil Rhodes. On 11 January 1890 Britain issued an ultimatum demanding that Portugal withdraw its forces from the Shire region and Mashonaland, and Portugal yielded. The humiliation fueled republican nationalism in Portugal.",
+    "ko": "포르투갈의 '장밋빛 지도' 구상은 중앙아프리카를 가로질러 앙골라와 모잠비크를 잇는 띠 모양의 영토를 주장했으나, 세실 로즈가 주도한 영국의 야망과 충돌했다. 1890년 1월 11일 영국은 포르투갈에 시레 지역과 마쇼날란드에서 병력을 철수하라는 최후통첩을 보냈고, 포르투갈은 굴복했다. 이 굴욕은 포르투갈에서 공화주의 민족주의를 부추겼다.",
+    "zh": "葡萄牙的“玫瑰色地图”计划主张一条横贯中部非洲、连接安哥拉和莫桑比克的领土带，与塞西尔·罗兹主导的英国野心发生冲突。1890年1月11日，英国发出最后通牒，要求葡萄牙从希雷地区和马绍纳兰撤军，葡萄牙被迫屈服。这一屈辱助长了葡萄牙国内的共和民族主义。",
+    "ja": "ポルトガルの「バラ色地図」構想は、中部アフリカを横断してアンゴラとモザンビークを結ぶ帯状の領土を主張したが、セシル・ローズが主導するイギリスの野心と衝突した。1890年1月11日、イギリスはシレ地方とマショナランドからの撤兵を求める最後通牒を突きつけ、ポルトガルは屈した。この屈辱はポルトガル国内で共和主義的なナショナリズムをあおった。"
+   }
+  },
+  {
+   "year": 1891,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Anglo-Portuguese treaty and the chartered companies",
+    "ko": "영국·포르투갈 조약과 특허 회사",
+    "zh": "英葡条约与特许公司",
+    "ja": "英葡条約と特許会社"
+   },
+   "description": {
+    "en": "The Anglo-Portuguese Treaty of June 1891 fixed most of Mozambique's borders with British territories, giving the colony its present shape. Lacking resources to govern the whole territory, Portugal granted charters to private companies: the Mozambique Company received Manica and Sofala, and the Niassa Company the far north. These companies ruled their concessions, collected taxes and supplied African labor for decades.",
+    "ko": "1891년 6월 영국·포르투갈 조약은 모잠비크와 영국령 사이 국경 대부분을 확정해 식민지의 현재 형태를 만들었다. 영토 전체를 통치할 자원이 부족했던 포르투갈은 민간 회사에 특허를 주어, 모잠비크 회사는 마니카와 소팔라를, 니아사 회사는 최북부를 맡았다. 이 회사들은 수십 년 동안 자신들의 특허 지역을 통치하고 세금을 걷으며 아프리카인 노동력을 공급했다.",
+    "zh": "1891年6月的英葡条约确定了莫桑比克与英属领地之间的大部分边界，使殖民地形成今天的形状。由于缺乏统治整个领土的资源，葡萄牙向私人公司颁发特许状：莫桑比克公司获得马尼卡和索法拉，尼亚萨公司获得最北部地区。数十年间，这些公司统治其特许领地、征收税款并提供非洲劳动力。",
+    "ja": "1891年6月の英葡条約は、モザンビークとイギリス領との国境の大部分を確定し、植民地に現在の形を与えた。全土を統治する資源に乏しいポルトガルは民間会社に特許を与え、モザンビーク会社がマニカとソファラを、ニアサ会社が最北部を得た。これらの会社は数十年にわたり特許地域を統治し、税を徴収し、アフリカ人の労働力を供給した。"
+   }
+  },
+  {
+   "year": 1895,
+   "qid": "Q969625",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of the Gaza Empire",
+    "ko": "가자 제국의 몰락",
+    "zh": "加扎帝国覆灭",
+    "ja": "ガザ帝国の滅亡"
+   },
+   "description": {
+    "en": "After Ronga chiefs attacked Lourenço Marques in 1894, Portugal sent a military expedition that defeated the Gaza army at Marracuene and at Coolela in November 1895. In December Mouzinho de Albuquerque captured the Gaza king Ngungunhane (Gungunhana) at Chaimite, and he was exiled to the Azores, where he died in 1906. The victory consolidated Portuguese control over southern Mozambique and became a celebrated episode of Portuguese colonial nationalism.",
+    "ko": "1894년 롱가족 수장들이 로렌수마르케스를 공격하자 포르투갈은 군사 원정대를 보내 1895년 마라쿠에네와 11월 쿨렐라에서 가자 군대를 격파했다. 12월 무지뉴 드 알부케르크가 샤이미테에서 가자 왕 응궁군하네(궁구냐나)를 사로잡았고, 그는 아조레스 제도로 유배되어 1906년 그곳에서 사망했다. 이 승리로 남부 모잠비크에 대한 포르투갈의 지배가 굳어졌으며, 포르투갈 식민 민족주의에서 기념되는 사건이 되었다.",
+    "zh": "1894年龙加人首领进攻洛伦索马贵斯后，葡萄牙派出军事远征队，于1895年在马拉昆内以及11月在库莱拉击败加扎军队。12月，穆济尼奥·德·阿尔布克尔克在沙伊米特俘获加扎国王恩古恩古尼亚内（贡古尼亚纳），后者被流放到亚速尔群岛，1906年死于当地。这场胜利巩固了葡萄牙对莫桑比克南部的控制，并成为葡萄牙殖民民族主义所颂扬的事件。",
+    "ja": "1894年にロンガ人の首長たちがロウレンソ・マルケスを攻撃すると、ポルトガルは軍事遠征隊を送り、1895年にマラクエネで、11月にはクレラでガザ軍を破った。12月、ムジーニョ・デ・アルブケルケがシャイミテでガザ王ングングニャネ（グングニャナ）を捕らえ、王はアゾレス諸島へ流され1906年にそこで没した。この勝利で南部モザンビークに対するポルトガルの支配が固まり、ポルトガル植民地主義的ナショナリズムで称えられる出来事となった。"
+   }
+  },
+  {
+   "year": 1895,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Railway links Lourenço Marques to Pretoria",
+    "ko": "로렌수마르케스와 프리토리아를 잇는 철도",
+    "zh": "铁路连接洛伦索马贵斯与比勒陀利亚",
+    "ja": "ロウレンソ・マルケスとプレトリアを結ぶ鉄道"
+   },
+   "description": {
+    "en": "In 1895 the railway from Lourenço Marques to Pretoria, capital of the South African Republic (Transvaal), was officially opened. It gave the Boer republic an outlet to the sea independent of British ports and made Lourenço Marques a booming transit port. The link tied southern Mozambique's economy closely to the gold mines of the Witwatersrand.",
+    "ko": "1895년 로렌수마르케스와 남아프리카 공화국(트란스발)의 수도 프리토리아를 잇는 철도가 공식 개통되었다. 이 철도는 보어인 공화국에 영국 항구와 무관한 바다로의 출구를 제공했고, 로렌수마르케스를 번창하는 환적항으로 만들었다. 이 연결로 남부 모잠비크의 경제는 위트워터스랜드 금광과 긴밀히 묶였다.",
+    "zh": "1895年，从洛伦索马贵斯通往南非共和国（德兰士瓦）首都比勒陀利亚的铁路正式通车。它为布尔人共和国提供了不经英国港口的出海口，使洛伦索马贵斯成为繁忙的转运港。这条铁路将莫桑比克南部的经济与威特沃特斯兰德的金矿紧密联系在一起。",
+    "ja": "1895年、ロウレンソ・マルケスから南アフリカ共和国（トランスヴァール）の首都プレトリアに至る鉄道が正式に開通した。鉄道はボーア人の共和国にイギリスの港に頼らない海への出口を与え、ロウレンソ・マルケスを活況を呈する中継港にした。この連結により、南部モザンビークの経済はウィットウォーターズランドの金鉱と密接に結びついた。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Maguiguana's revolt",
+    "ko": "마기과나의 봉기",
+    "zh": "马吉瓜纳起义",
+    "ja": "マギグアナの反乱"
+   },
+   "description": {
+    "en": "In 1897 Maguiguana, a former commander of the Gaza army, led an uprising against Portuguese rule in southern Mozambique. Portuguese forces under Mouzinho de Albuquerque crushed the revolt, and Maguiguana was killed in the fighting that year. It was the last major attempt to restore Gaza independence.",
+    "ko": "1897년 가자 군대의 전 지휘관 마기과나는 남부 모잠비크에서 포르투갈 지배에 맞선 봉기를 이끌었다. 무지뉴 드 알부케르크가 이끈 포르투갈군은 봉기를 진압했고, 마기과나는 그해 전투 중 전사했다. 이는 가자의 독립을 되찾으려던 마지막 대규모 시도였다.",
+    "zh": "1897年，加扎军队的前指挥官马吉瓜纳在莫桑比克南部领导了反抗葡萄牙统治的起义。穆济尼奥·德·阿尔布克尔克率领的葡萄牙军队镇压了起义，马吉瓜纳于同年战死。这是恢复加扎独立的最后一次大规模尝试。",
+    "ja": "1897年、ガザ軍の元指揮官マギグアナが南部モザンビークでポルトガル支配に対する蜂起を率いた。ムジーニョ・デ・アルブケルケの率いるポルトガル軍は反乱を鎮圧し、マギグアナは同年の戦闘で戦死した。これはガザの独立を回復しようとする最後の大規模な試みであった。"
+   }
+  },
+  {
+   "year": 1898,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Capital moves to Lourenço Marques",
+    "ko": "로렌수마르케스로의 수도 이전",
+    "zh": "首府迁至洛伦索马贵斯",
+    "ja": "ロウレンソ・マルケスへの首都移転"
+   },
+   "description": {
+    "en": "In 1898 the colonial capital was transferred from the Island of Mozambique to Lourenço Marques in the far south. The move reflected the economic shift toward the port serving the Transvaal and the labor trade to South Africa's mines. Lourenço Marques grew into a modern colonial city and, as Maputo, remains the capital today.",
+    "ko": "1898년 식민지 수도가 모잠비크섬에서 최남단의 로렌수마르케스로 옮겨졌다. 이 이전은 트란스발을 위한 항구와 남아프리카 광산으로의 노동력 송출 쪽으로 경제 중심이 이동했음을 반영했다. 로렌수마르케스는 근대적인 식민 도시로 성장했으며, 마푸투라는 이름으로 오늘날까지 수도로 남아 있다.",
+    "zh": "1898年，殖民地首府从莫桑比克岛迁至最南端的洛伦索马贵斯。这一迁移反映了经济重心向服务德兰士瓦的港口以及向南非矿山输出劳工的转移。洛伦索马贵斯发展成为一座现代殖民城市，并以马普托之名延续为今日的首都。",
+    "ja": "1898年、植民地の首都はモザンビーク島から最南部のロウレンソ・マルケスへ移された。この移転は、トランスヴァールに奉仕する港と南アフリカの鉱山への労働力供給へと経済の重心が移ったことを反映していた。ロウレンソ・マルケスは近代的な植民地都市に成長し、マプトとして今日も首都である。"
+   }
+  },
+  {
+   "year": 1909,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Mozambique–Transvaal Convention",
+    "ko": "모잠비크·트란스발 협약",
+    "zh": "莫桑比克—德兰士瓦协定",
+    "ja": "モザンビーク・トランスヴァール協定"
+   },
+   "description": {
+    "en": "The 1909 Mozambique–Transvaal Convention formalized an arrangement under which the mines of the Witwatersrand recruited tens of thousands of workers from southern Mozambique each year. In return, a guaranteed share of the Transvaal's rail traffic was routed through Lourenço Marques, and part of the miners' wages was paid to the colonial authorities. Labor migration to South Africa's mines shaped southern Mozambican society for most of the 20th century.",
+    "ko": "1909년 모잠비크·트란스발 협약은 위트워터스랜드 광산이 해마다 남부 모잠비크에서 수만 명의 노동자를 모집하는 제도를 공식화했다. 그 대가로 트란스발 철도 화물의 일정 몫이 로렌수마르케스를 경유하도록 보장되었고, 광부 임금의 일부는 식민 당국에 지급되었다. 남아프리카 광산으로의 노동 이주는 20세기 대부분 동안 남부 모잠비크 사회를 규정했다.",
+    "zh": "1909年的《莫桑比克—德兰士瓦协定》将威特沃特斯兰德矿山每年从莫桑比克南部招募数万名工人的安排正式化。作为交换，德兰士瓦铁路运输中有一定份额保证经由洛伦索马贵斯，矿工的部分工资则支付给殖民当局。前往南非矿山的劳工移民在20世纪的大部分时间里塑造了莫桑比克南部社会。",
+    "ja": "1909年のモザンビーク・トランスヴァール協定は、ウィットウォーターズランドの鉱山が毎年南部モザンビークから数万人の労働者を募集する仕組みを正式なものとした。その見返りに、トランスヴァールの鉄道貨物の一定割合がロウレンソ・マルケス経由とされ、鉱夫の賃金の一部は植民地当局に支払われた。南アフリカの鉱山への出稼ぎは、20世紀の大半にわたり南部モザンビーク社会を形づくった。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First World War reaches northern Mozambique",
+    "ko": "모잠비크 북부에 번진 제1차 세계대전",
+    "zh": "第一次世界大战波及莫桑比克北部",
+    "ja": "モザンビーク北部に及んだ第一次世界大戦"
+   },
+   "description": {
+    "en": "Portugal entered the First World War on the Allied side in 1916, and in November 1917 German forces under Paul von Lettow-Vorbeck crossed the Rovuma River from German East Africa into Mozambique. Defeating Portuguese garrisons and living off captured supplies, they marched through the colony for most of 1918 before returning north. The campaign caused great suffering among African porters and civilians.",
+    "ko": "포르투갈은 1916년 연합국 편으로 제1차 세계대전에 참전했고, 1917년 11월 파울 폰 레토우포어베크가 이끈 독일군이 독일령 동아프리카에서 로부마강을 건너 모잠비크로 들어왔다. 독일군은 포르투갈 수비대를 격파하고 노획한 물자로 버티며 1918년 대부분 동안 식민지를 행군한 뒤 북쪽으로 돌아갔다. 이 작전은 아프리카인 짐꾼과 민간인에게 큰 고통을 안겼다.",
+    "zh": "葡萄牙于1916年加入协约国一方参加第一次世界大战。1917年11月，保罗·冯·莱托-福尔贝克率领的德军从德属东非越过鲁伍马河进入莫桑比克。他们击败葡萄牙守军，依靠缴获的物资维持，在1918年的大部分时间里转战于殖民地，随后北返。这场战役给非洲挑夫和平民带来了巨大苦难。",
+    "ja": "ポルトガルは1916年に連合国側で第一次世界大戦に参戦し、1917年11月にはパウル・フォン・レットウ＝フォルベック率いるドイツ軍がドイツ領東アフリカからロヴマ川を渡ってモザンビークに侵入した。ドイツ軍はポルトガルの守備隊を破り、鹵獲した物資で食いつなぎながら1918年の大半を植民地内で行軍し、その後北へ戻った。この作戦はアフリカ人の運搬人や民間人に大きな苦しみをもたらした。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Barue rebellion",
+    "ko": "바루에 반란",
+    "zh": "巴鲁埃起义",
+    "ja": "バルエの反乱"
+   },
+   "description": {
+    "en": "In 1917 the people of the Barue kingdom in central Mozambique, together with neighboring groups, rose against Portuguese rule, provoked by forced labor recruitment for the war effort. The rebels attacked Portuguese posts across a wide area before the revolt was suppressed in 1918. It was one of the last large-scale armed uprisings before the liberation war of the 1960s.",
+    "ko": "1917년 중부 모잠비크 바루에 왕국의 주민들은 이웃 집단과 함께 전쟁 수행을 위한 강제 노동 징발에 반발해 포르투갈 지배에 맞서 봉기했다. 반란군은 넓은 지역에 걸쳐 포르투갈 거점을 공격했으나 1918년 진압되었다. 이는 1960년대 해방 전쟁 이전의 마지막 대규모 무장 봉기 가운데 하나였다.",
+    "zh": "1917年，莫桑比克中部巴鲁埃王国的民众因战时强征劳役而与邻近群体一起起来反抗葡萄牙统治。起义者在广大地区袭击葡萄牙据点，起义于1918年被镇压。这是20世纪60年代解放战争之前最后几次大规模武装起义之一。",
+    "ja": "1917年、中部モザンビークのバルエ王国の人々は、戦争遂行のための強制的な労働徴発に反発し、近隣の集団とともにポルトガル支配に対して蜂起した。反乱軍は広い地域でポルトガルの拠点を攻撃したが、1918年に鎮圧された。これは1960年代の解放戦争以前の、最後の大規模な武装蜂起の一つであった。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Colonial Act centralizes Portuguese rule",
+    "ko": "포르투갈 지배를 중앙집권화한 식민지법",
+    "zh": "《殖民地法》集中葡萄牙统治",
+    "ja": "ポルトガル支配を中央集権化した植民地法"
+   },
+   "description": {
+    "en": "In 1930 the Colonial Act, drafted under António de Oliveira Salazar, asserted Portugal's \"historic mission\" to colonize and civilize, tightened Lisbon's control over the colonies and restricted foreign capital. In the same year the prazo system was formally abolished. Over the following decades the Estado Novo imposed compulsory cotton cultivation on hundreds of thousands of Mozambican peasants, a cause of widespread hunger and resentment.",
+    "ko": "1930년 안토니우 드 올리베이라 살라자르 주도로 만들어진 식민지법은 식민지를 개척하고 문명화하는 포르투갈의 '역사적 사명'을 내세우며 식민지에 대한 리스본의 통제를 강화하고 외국 자본을 제한했다. 같은 해 프라주 제도가 공식 폐지되었다. 이후 수십 년 동안 이스타두 노부는 수십만 명의 모잠비크 농민에게 면화 강제 재배를 부과해 광범위한 기아와 원한을 낳았다.",
+    "zh": "1930年，在安东尼奥·德奥利维拉·萨拉查主导下制定的《殖民地法》宣称葡萄牙肩负殖民与教化的“历史使命”，加强里斯本对殖民地的控制，并限制外国资本。同年普拉佐制度被正式废除。此后数十年间，“新国家”体制强迫数十万莫桑比克农民种植棉花，造成普遍饥荒和怨恨。",
+    "ja": "1930年、アントニオ・デ・オリヴェイラ・サラザールのもとで起草された植民地法は、植民し文明化するポルトガルの「歴史的使命」を掲げ、植民地に対するリスボンの統制を強め、外国資本を制限した。同年、プラーゾ制度が正式に廃止された。その後数十年間、エスタド・ノヴォは数十万人のモザンビーク農民に綿花の強制栽培を課し、広範な飢餓と恨みを生んだ。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "End of the Mozambique Company's rule",
+    "ko": "모잠비크 회사 통치의 종료",
+    "zh": "莫桑比克公司统治结束",
+    "ja": "モザンビーク会社による統治の終わり"
+   },
+   "description": {
+    "en": "In 1942 the charter of the Mozambique Company, which had governed Manica and Sofala for half a century, expired and was not renewed, following the end of the Niassa Company's charter in 1929. The entire colony thereby came under direct Portuguese state administration. Beira, developed by the company as a port for Rhodesia, became the colony's second city.",
+    "ko": "1929년 니아사 회사의 특허가 끝난 데 이어, 1942년 반세기 동안 마니카와 소팔라를 통치해 온 모잠비크 회사의 특허가 만료되고 갱신되지 않았다. 이로써 식민지 전체가 포르투갈 국가의 직접 통치를 받게 되었다. 이 회사가 로디지아를 위한 항구로 개발한 베이라는 식민지 제2의 도시가 되었다.",
+    "zh": "继1929年尼亚萨公司特许状终止之后，1942年统治马尼卡和索法拉半个世纪的莫桑比克公司特许状到期且未获续期。整个殖民地由此归葡萄牙国家直接管理。该公司为罗得西亚开发的港口贝拉成为殖民地第二大城市。",
+    "ja": "1929年のニアサ会社の特許終了に続き、1942年には半世紀にわたりマニカとソファラを統治してきたモザンビーク会社の特許が満了し、更新されなかった。これにより植民地全体がポルトガル国家の直接統治下に入った。同社がローデシアのための港として開発したベイラは、植民地第二の都市となった。"
+   }
+  },
+  {
+   "year": 1951,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mozambique declared an overseas province",
+    "ko": "해외주로 선포된 모잠비크",
+    "zh": "莫桑比克被宣布为海外省",
+    "ja": "海外州とされたモザンビーク"
+   },
+   "description": {
+    "en": "In 1951 Portugal revised its constitution to rename its colonies \"overseas provinces\", declaring them integral parts of a single, multi-continental Portuguese nation. The change aimed to deflect international pressure for decolonization after the Second World War. In practice the colonial system, including forced labor and the distinction between \"indigenous\" and \"assimilated\" Africans, remained in place until the early 1960s.",
+    "ko": "1951년 포르투갈은 헌법을 개정해 식민지를 '해외주'로 개칭하고, 이를 여러 대륙에 걸친 단일 포르투갈 국가의 불가분의 일부로 선언했다. 이 변화는 제2차 세계대전 이후 탈식민지화를 요구하는 국제적 압력을 피하려는 것이었다. 실제로는 강제 노동과 '원주민'과 '동화된' 아프리카인의 구분을 포함한 식민 체제가 1960년대 초까지 유지되었다.",
+    "zh": "1951年，葡萄牙修改宪法，将其殖民地改称“海外省”，宣布它们是横跨多个大洲的统一葡萄牙民族不可分割的一部分。此举旨在回避二战后要求非殖民化的国际压力。实际上，包括强迫劳动以及“土著”与“同化”非洲人之分在内的殖民体制一直维持到20世纪60年代初。",
+    "ja": "1951年、ポルトガルは憲法を改正して植民地を「海外州」と改称し、複数の大陸にまたがる単一のポルトガル国家の不可分の一部であると宣言した。この変更は第二次世界大戦後の脱植民地化を求める国際的圧力をかわすためのものであった。実際には、強制労働や「原住民」と「同化民」のアフリカ人の区別を含む植民地体制は1960年代初めまで維持された。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": "Q10327164",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Mueda massacre",
+    "ko": "무에다 학살",
+    "zh": "穆埃达大屠杀",
+    "ja": "ムエダ虐殺"
+   },
+   "description": {
+    "en": "On 16 June 1960, at Mueda on the Makonde plateau in the far north, Portuguese authorities opened fire on a crowd of Makonde villagers who had gathered to press demands concerning their working conditions and to see the district administrator. Accounts of the number of dead vary widely. The massacre convinced many Mozambicans that peaceful protest was futile and became a founding grievance of the armed liberation struggle.",
+    "ko": "1960년 6월 16일 최북단 마콘데 고원의 무에다에서, 노동 조건에 관한 요구를 전달하고 지방 행정관을 만나기 위해 모인 마콘데족 마을 주민들에게 포르투갈 당국이 발포했다. 사망자 수에 대한 기록은 크게 엇갈린다. 이 학살은 많은 모잠비크인에게 평화적 항의가 소용없음을 확신시켰고, 무장 해방 투쟁의 출발점이 된 원한으로 남았다.",
+    "zh": "1960年6月16日，在最北部马孔德高原的穆埃达，马孔德村民聚集起来就劳动条件提出要求并求见地区行政长官，葡萄牙当局向人群开枪。关于死亡人数的说法差异很大。这场屠杀使许多莫桑比克人确信和平抗议毫无用处，成为武装解放斗争的起始仇怨之一。",
+    "ja": "1960年6月16日、最北部のマコンデ高原にあるムエダで、労働条件に関する要求を訴え郡行政官に会うために集まったマコンデ人の村人たちに、ポルトガル当局が発砲した。死者数についての記録は大きく食い違っている。この虐殺は多くのモザンビーク人に平和的な抗議は無益だと確信させ、武装解放闘争の原点となる怨恨となった。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of FRELIMO",
+    "ko": "모잠비크해방전선(FRELIMO) 창설",
+    "zh": "莫桑比克解放阵线成立",
+    "ja": "モザンビーク解放戦線（FRELIMO）の結成"
+   },
+   "description": {
+    "en": "In June 1962 three exiled nationalist organizations united in Dar es Salaam, Tanzania, to form the Mozambique Liberation Front (FRELIMO). Its first president was Eduardo Mondlane, an American-educated sociologist who had worked at the United Nations. FRELIMO sought independence from Portugal and, after Lisbon refused to negotiate, prepared for armed struggle.",
+    "ko": "1962년 6월 망명 중이던 세 민족주의 단체가 탄자니아 다르에스살람에서 통합해 모잠비크해방전선(FRELIMO)을 결성했다. 초대 의장은 미국에서 교육을 받고 국제연합에서 일했던 사회학자 에두아르두 몬들라느였다. FRELIMO는 포르투갈로부터의 독립을 추구했고, 리스본이 협상을 거부하자 무장 투쟁을 준비했다.",
+    "zh": "1962年6月，三个流亡的民族主义组织在坦桑尼亚的达累斯萨拉姆联合组成莫桑比克解放阵线。首任主席是曾在美国接受教育、在联合国工作过的社会学家爱德华多·蒙德拉内。该阵线寻求脱离葡萄牙独立，在里斯本拒绝谈判后开始准备武装斗争。",
+    "ja": "1962年6月、亡命中の三つの民族主義組織がタンザニアのダルエスサラームで統合し、モザンビーク解放戦線（FRELIMO）を結成した。初代議長はアメリカで教育を受け国際連合で働いた社会学者エドゥアルド・モンドラーネであった。FRELIMOはポルトガルからの独立を目指し、リスボンが交渉を拒むと武装闘争の準備を進めた。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": "Q2002270",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "War of Independence begins",
+    "ko": "독립전쟁의 시작",
+    "zh": "独立战争爆发",
+    "ja": "独立戦争の開始"
+   },
+   "description": {
+    "en": "FRELIMO launched its armed struggle against Portuguese rule on 25 September 1964 with an attack at Chai in Cabo Delgado province. The guerrilla war, part of Portugal's wider colonial wars in Africa, was fought mainly in the northern provinces of Cabo Delgado and Niassa and later spread to Tete. FRELIMO established \"liberated zones\" with their own schools and clinics, while Portugal deployed tens of thousands of troops.",
+    "ko": "FRELIMO는 1964년 9월 25일 카보델가두주 샤이에서의 공격으로 포르투갈 지배에 맞선 무장 투쟁을 시작했다. 아프리카에서 벌어진 포르투갈의 더 넓은 식민지 전쟁의 일부였던 이 게릴라전은 주로 북부 카보델가두주와 니아사주에서 벌어졌고, 이후 테테로 확대되었다. FRELIMO는 자체 학교와 진료소를 갖춘 '해방구'를 세웠고, 포르투갈은 수만 명의 병력을 배치했다.",
+    "zh": "1964年9月25日，莫桑比克解放阵线在德尔加杜角省的沙伊发动袭击，开始了反抗葡萄牙统治的武装斗争。这场游击战是葡萄牙在非洲更大范围殖民战争的一部分，主要在北部的德尔加杜角省和尼亚萨省进行，后来扩展到太特。解放阵线建立了设有学校和诊所的“解放区”，葡萄牙则部署了数万兵力。",
+    "ja": "FRELIMOは1964年9月25日、カボ・デルガード州シャイでの攻撃によってポルトガル支配に対する武装闘争を開始した。アフリカにおけるポルトガルの広範な植民地戦争の一部であったこのゲリラ戦は、主に北部のカボ・デルガード州とニアサ州で戦われ、のちにテテへ広がった。FRELIMOは独自の学校や診療所を備えた「解放区」を築き、ポルトガルは数万人の兵力を投入した。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Eduardo Mondlane",
+    "ko": "에두아르두 몬들라느 암살",
+    "zh": "爱德华多·蒙德拉内遇刺",
+    "ja": "エドゥアルド・モンドラーネの暗殺"
+   },
+   "description": {
+    "en": "On 3 February 1969 FRELIMO's president Eduardo Mondlane was killed in Dar es Salaam by a parcel bomb. Responsibility has been attributed to the Portuguese secret police acting with dissidents inside the movement. After a leadership struggle, Samora Machel, the military commander, became FRELIMO's president in 1970 and led it to independence.",
+    "ko": "1969년 2월 3일 FRELIMO 의장 에두아르두 몬들라느가 다르에스살람에서 소포 폭탄에 의해 살해되었다. 그 책임은 운동 내부의 반대파와 손잡은 포르투갈 비밀경찰에게 있는 것으로 여겨진다. 지도부 갈등 끝에 군사 지휘관 사모라 마셸이 1970년 FRELIMO 의장이 되어 독립을 이끌었다.",
+    "zh": "1969年2月3日，莫桑比克解放阵线主席爱德华多·蒙德拉内在达累斯萨拉姆被邮包炸弹炸死。一般认为这是葡萄牙秘密警察与运动内部异见者勾结所为。经过领导层斗争，军事指挥官萨莫拉·马谢尔于1970年出任阵线主席，并领导其走向独立。",
+    "ja": "1969年2月3日、FRELIMO議長エドゥアルド・モンドラーネがダルエスサラームで小包爆弾により殺害された。責任は運動内部の反対派と結んだポルトガル秘密警察にあるとされている。指導部の争いを経て、軍事司令官サモラ・マシェルが1970年にFRELIMO議長となり、独立へと導いた。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Construction of the Cahora Bassa dam begins",
+    "ko": "카보라바사 댐 착공",
+    "zh": "卡奥拉巴萨水坝开工",
+    "ja": "カオラ・バッサ・ダムの着工"
+   },
+   "description": {
+    "en": "In 1969 construction began on the Cahora Bassa dam on the Zambezi in Tete province, one of the largest hydroelectric projects in Africa, built largely to supply electricity to South Africa. Portugal also hoped to anchor white settlement in the Zambezi valley. FRELIMO targeted the project during the war, and the dam began filling in late 1974, on the eve of independence.",
+    "ko": "1969년 테테주의 잠베지강에서 아프리카 최대급 수력 발전 사업인 카보라바사 댐 건설이 시작되었으며, 이 댐은 주로 남아프리카에 전력을 공급하기 위해 지어졌다. 포르투갈은 잠베지강 유역에 백인 정착을 뿌리내리게 하려는 의도도 있었다. FRELIMO는 전쟁 중 이 사업을 공격 목표로 삼았고, 댐은 독립 직전인 1974년 말 담수를 시작했다.",
+    "zh": "1969年，太特省赞比西河上的卡奥拉巴萨水坝开工建设，这是非洲最大的水电项目之一，主要用于向南非供电。葡萄牙还希望借此在赞比西河谷扎根白人移民。战争期间解放阵线将该工程作为打击目标，水坝于独立前夕的1974年底开始蓄水。",
+    "ja": "1969年、テテ州のザンベジ川でアフリカ最大級の水力発電事業であるカオラ・バッサ・ダムの建設が始まった。ダムは主に南アフリカへ電力を供給するために建設された。ポルトガルはザンベジ川流域に白人の入植を根づかせることも狙っていた。FRELIMOは戦争中にこの事業を攻撃目標とし、ダムは独立直前の1974年末に貯水を開始した。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Operation Gordian Knot",
+    "ko": "고르디우스의 매듭 작전",
+    "zh": "“戈尔迪之结”行动",
+    "ja": "ゴルディアスの結び目作戦"
+   },
+   "description": {
+    "en": "In 1970 General Kaúlza de Arriaga launched Operation Gordian Knot, the largest Portuguese offensive of the war, against FRELIMO bases in Cabo Delgado. Tens of thousands of troops with air support destroyed many bases, but the guerrillas dispersed and shifted their efforts to Tete province. The operation failed to end the insurgency and strained Portugal's resources.",
+    "ko": "1970년 카울자 드 아리아가 장군은 카보델가두의 FRELIMO 기지를 겨냥해 전쟁 중 포르투갈 최대의 공세인 '고르디우스의 매듭 작전'을 개시했다. 공중 지원을 받은 수만 명의 병력이 많은 기지를 파괴했지만, 게릴라는 흩어져 테테주로 활동 무대를 옮겼다. 이 작전은 반군 활동을 끝내지 못했고 포르투갈의 자원을 소진시켰다.",
+    "zh": "1970年，考尔扎·德·阿里亚加将军针对德尔加杜角省的解放阵线基地发动了战争中葡萄牙规模最大的攻势“戈尔迪之结”行动。数万名士兵在空中支援下摧毁了许多基地，但游击队化整为零，将活动重心转移到太特省。这次行动未能终结叛乱，反而使葡萄牙的资源捉襟见肘。",
+    "ja": "1970年、カウルザ・デ・アリアガ将軍はカボ・デルガードのFRELIMO基地に対し、戦争中ポルトガル最大の攻勢である「ゴルディアスの結び目作戦」を開始した。航空支援を受けた数万の兵力が多くの基地を破壊したが、ゲリラは分散してテテ州へ活動の重点を移した。作戦は反乱を終わらせることができず、ポルトガルの資源を圧迫した。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": "Q51750785",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Wiriyamu massacre",
+    "ko": "위리야무 학살",
+    "zh": "维里亚穆大屠杀",
+    "ja": "ウィリヤム虐殺"
+   },
+   "description": {
+    "en": "In December 1972 Portuguese troops killed a large number of villagers, including many women and children, at Wiriyamu and nearby villages in Tete province during a counterinsurgency operation. The massacre was revealed to the world in July 1973 by the British priest Adrian Hastings in The Times, based on reports from Spanish missionaries. The revelation caused an international outcry and damaged the Estado Novo's reputation abroad.",
+    "ko": "1972년 12월 포르투갈군은 반군 소탕 작전 중 테테주의 위리야무와 인근 마을에서 많은 여성과 어린이를 포함한 다수의 주민을 살해했다. 이 학살은 스페인 선교사들의 보고를 바탕으로 1973년 7월 영국 신부 에이드리언 헤이스팅스가 '타임스'에 기고하면서 세계에 알려졌다. 폭로는 국제적 공분을 일으키며 해외에서 이스타두 노부 체제의 평판을 크게 손상시켰다.",
+    "zh": "1972年12月，葡萄牙军队在太特省的维里亚穆及附近村庄进行反叛乱行动时，杀害了大批村民，其中包括许多妇女和儿童。1973年7月，英国神父阿德里安·黑斯廷斯依据西班牙传教士的报告在《泰晤士报》上披露此事，使屠杀为世人所知。这一揭露引发国际舆论哗然，严重损害了“新国家”政权在海外的声誉。",
+    "ja": "1972年12月、ポルトガル軍は対反乱作戦の中で、テテ州のウィリヤムと近隣の村々で多くの女性や子どもを含む多数の村人を殺害した。この虐殺は1973年7月、スペイン人宣教師の報告に基づきイギリス人司祭エイドリアン・ヘイスティングスが『タイムズ』紙に寄稿したことで世界に知られた。暴露は国際的な非難を呼び、エスタド・ノヴォ体制の海外での評判を傷つけた。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Lusaka Accord ends the war",
+    "ko": "전쟁을 끝낸 루사카 협정",
+    "zh": "《卢萨卡协定》结束战争",
+    "ja": "戦争を終わらせたルサカ協定"
+   },
+   "description": {
+    "en": "After the Carnation Revolution of 25 April 1974 overthrew the Estado Novo in Lisbon, the new Portuguese government negotiated with FRELIMO. On 7 September 1974 the two sides signed the Lusaka Accord, which ended the war and set independence for 25 June 1975 under a transitional government dominated by FRELIMO. A brief revolt by white settlers in Lourenço Marques against the accord collapsed within days.",
+    "ko": "1974년 4월 25일 카네이션 혁명으로 리스본의 이스타두 노부 체제가 무너진 뒤, 포르투갈 새 정부는 FRELIMO와 협상했다. 1974년 9월 7일 양측은 루사카 협정에 서명해 전쟁을 끝내고, FRELIMO가 주도하는 과도 정부 아래 1975년 6월 25일 독립하기로 정했다. 협정에 반대한 로렌수마르케스 백인 정착민의 짧은 반란은 며칠 만에 무너졌다.",
+    "zh": "1974年4月25日康乃馨革命推翻里斯本的“新国家”政权后，葡萄牙新政府与莫桑比克解放阵线展开谈判。1974年9月7日，双方签署《卢萨卡协定》，结束战争，并确定在解放阵线主导的过渡政府领导下于1975年6月25日独立。洛伦索马贵斯白人定居者反对协定的短暂叛乱在数日内瓦解。",
+    "ja": "1974年4月25日のカーネーション革命でリスボンのエスタド・ノヴォ体制が倒れると、ポルトガルの新政府はFRELIMOと交渉した。1974年9月7日、双方はルサカ協定に調印して戦争を終わらせ、FRELIMO主導の暫定政府のもとで1975年6月25日に独立することを定めた。協定に反対するロウレンソ・マルケスの白人入植者の短い反乱は数日で崩壊した。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence of Mozambique",
+    "ko": "모잠비크 독립",
+    "zh": "莫桑比克独立",
+    "ja": "モザンビーク独立"
+   },
+   "description": {
+    "en": "Mozambique became independent on 25 June 1975 as the People's Republic of Mozambique, with Samora Machel as its first president. FRELIMO established a one-party state with a socialist program, nationalizing land, education, health care and rented housing. The great majority of the roughly 200,000 Portuguese settlers left, taking skills and capital with them, and Lourenço Marques was renamed Maputo in 1976.",
+    "ko": "모잠비크는 1975년 6월 25일 사모라 마셸을 초대 대통령으로 하는 모잠비크 인민공화국으로 독립했다. FRELIMO는 일당 국가를 세우고 사회주의 강령에 따라 토지, 교육, 의료, 임대 주택을 국유화했다. 약 20만 명이던 포르투갈 정착민 대다수가 기술과 자본을 가지고 떠났으며, 로렌수마르케스는 1976년 마푸투로 개칭되었다.",
+    "zh": "1975年6月25日，莫桑比克以莫桑比克人民共和国之名独立，萨莫拉·马谢尔任首任总统。解放阵线建立一党制国家，推行社会主义纲领，将土地、教育、医疗和出租住房收归国有。约20万葡萄牙定居者中的绝大多数带着技术和资本离去，洛伦索马贵斯于1976年改名为马普托。",
+    "ja": "モザンビークは1975年6月25日、サモラ・マシェルを初代大統領とするモザンビーク人民共和国として独立した。FRELIMOは一党制国家を築き、社会主義の綱領に従って土地、教育、医療、賃貸住宅を国有化した。約20万人いたポルトガル人入植者の大多数は技術と資本を持って去り、ロウレンソ・マルケスは1976年にマプトと改称された。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Border with Rhodesia closed",
+    "ko": "로디지아와의 국경 폐쇄",
+    "zh": "关闭与罗得西亚的边境",
+    "ja": "ローデシアとの国境閉鎖"
+   },
+   "description": {
+    "en": "In March 1976 Mozambique closed its border with white-minority-ruled Rhodesia and applied United Nations sanctions, cutting Rhodesia's access to the ports of Beira and Maputo. Mozambique also hosted guerrillas of Robert Mugabe's ZANU. Rhodesia retaliated with cross-border raids and by creating and arming the Mozambican National Resistance (RENAMO).",
+    "ko": "1976년 3월 모잠비크는 백인 소수 정권이 다스리던 로디지아와의 국경을 폐쇄하고 국제연합 제재를 적용해, 로디지아의 베이라·마푸투 항구 이용을 차단했다. 모잠비크는 또한 로버트 무가베가 이끈 ZANU의 게릴라를 받아들였다. 로디지아는 국경 너머 습격과 모잠비크민족저항(RENAMO)의 창설 및 무장 지원으로 보복했다.",
+    "zh": "1976年3月，莫桑比克关闭了与白人少数政权统治的罗得西亚之间的边境，并执行联合国制裁，切断了罗得西亚使用贝拉港和马普托港的通道。莫桑比克还接纳了罗伯特·穆加贝领导的津巴布韦非洲民族联盟的游击队。罗得西亚则以越境袭击以及组建和武装莫桑比克全国抵抗运动作为报复。",
+    "ja": "1976年3月、モザンビークは白人少数派が支配するローデシアとの国境を閉鎖して国際連合の制裁を適用し、ローデシアのベイラ港とマプト港への接続を断った。モザンビークはロバート・ムガベ率いるZANUのゲリラも受け入れた。ローデシアは越境攻撃と、モザンビーク民族抵抗運動（RENAMO）の創設・武装化で報復した。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": "Q657661",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Civil war breaks out",
+    "ko": "내전 발발",
+    "zh": "内战爆发",
+    "ja": "内戦の勃発"
+   },
+   "description": {
+    "en": "From 1977 the Mozambican National Resistance (RENAMO), created with Rhodesian backing and later supported by apartheid South Africa, waged war against the FRELIMO government, which that year declared itself a Marxist-Leninist party. RENAMO attacked infrastructure, schools and clinics and was accused of widespread atrocities, while government forces also committed abuses. The war lasted fifteen years, displaced millions and is estimated to have cost up to a million lives, many through famine.",
+    "ko": "1977년부터 로디지아의 지원으로 창설되고 이후 아파르트헤이트 남아프리카의 지원을 받은 모잠비크민족저항(RENAMO)은, 그해 마르크스·레닌주의 정당을 선언한 FRELIMO 정부를 상대로 전쟁을 벌였다. RENAMO는 기반 시설과 학교, 진료소를 공격하고 광범위한 잔혹 행위로 비난받았으며, 정부군 역시 인권 침해를 저질렀다. 전쟁은 15년간 이어지며 수백만 명을 난민으로 만들었고, 기근으로 인한 사망을 포함해 최대 100만 명의 목숨을 앗아 간 것으로 추산된다.",
+    "zh": "自1977年起，在罗得西亚支持下组建、后又得到种族隔离南非支持的莫桑比克全国抵抗运动，向当年宣布为马克思列宁主义政党的解放阵线政府开战。抵抗运动袭击基础设施、学校和诊所，被指犯下大量暴行，政府军也有侵犯人权行为。战争持续15年，使数百万人流离失所，估计造成多达100万人死亡，其中许多死于饥荒。",
+    "ja": "1977年から、ローデシアの後押しで創設され、のちにアパルトヘイト下の南アフリカの支援を受けたモザンビーク民族抵抗運動（RENAMO）は、同年マルクス・レーニン主義政党を宣言したFRELIMO政府に対して戦争を行った。RENAMOはインフラや学校、診療所を攻撃し、広範な残虐行為で非難されたが、政府軍も人権侵害を犯した。戦争は15年続き、数百万人を避難民とし、飢饉による死者を含め最大100万人の命を奪ったと推定されている。"
+   }
+  },
+  {
+   "year": 1984,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Nkomati Accord with South Africa",
+    "ko": "남아프리카와의 은코마티 협정",
+    "zh": "与南非签订《恩科马蒂协定》",
+    "ja": "南アフリカとのンコマティ協定"
+   },
+   "description": {
+    "en": "On 16 March 1984 Samora Machel and South African Prime Minister P. W. Botha signed the Nkomati Accord, a non-aggression pact under which Mozambique would curb ANC activities on its soil and South Africa would end support for RENAMO. Mozambique largely complied, but South African military elements continued to aid RENAMO covertly. The war intensified rather than ended.",
+    "ko": "1984년 3월 16일 사모라 마셸과 남아프리카의 P. W. 보타 총리는 은코마티 협정에 서명했다. 이 불가침 조약에 따라 모잠비크는 자국 내 ANC 활동을 억제하고 남아프리카는 RENAMO 지원을 중단하기로 했다. 모잠비크는 대체로 협정을 지켰으나, 남아프리카 군부 일부는 비밀리에 RENAMO를 계속 지원했다. 전쟁은 끝나기는커녕 오히려 격화되었다.",
+    "zh": "1984年3月16日，萨莫拉·马谢尔与南非总理P. W. 博塔签署《恩科马蒂协定》。根据这项互不侵犯条约，莫桑比克将限制非洲人国民大会在其境内的活动，南非则停止支持莫桑比克全国抵抗运动。莫桑比克基本履行了协定，但南非军方部分势力继续秘密援助抵抗运动。战争非但没有结束，反而愈演愈烈。",
+    "ja": "1984年3月16日、サモラ・マシェルと南アフリカのP・W・ボータ首相はンコマティ協定に調印した。この不可侵条約により、モザンビークは自国内でのANCの活動を抑え、南アフリカはRENAMOへの支援をやめることになった。モザンビークはおおむね協定を守ったが、南アフリカ軍の一部は秘密裏にRENAMOへの援助を続けた。戦争は終わるどころか激化した。"
+   }
+  },
+  {
+   "year": 1986,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Samora Machel killed in plane crash",
+    "ko": "비행기 추락으로 숨진 사모라 마셸",
+    "zh": "萨莫拉·马谢尔坠机身亡",
+    "ja": "サモラ・マシェルの航空機事故死"
+   },
+   "description": {
+    "en": "On 19 October 1986 the presidential aircraft carrying Samora Machel crashed at Mbuzini, just inside South Africa near the Mozambican border, killing him and most of those on board. A South African inquiry blamed crew error, but Mozambique and many others suspected that a false navigation beacon had lured the plane off course, and the cause remains disputed. Foreign Minister Joaquim Chissano succeeded him as president.",
+    "ko": "1986년 10월 19일 사모라 마셸을 태운 대통령 전용기가 모잠비크 국경 인근 남아프리카 영내의 음부지니에 추락해, 그와 탑승자 대부분이 숨졌다. 남아프리카 조사위원회는 승무원 과실을 원인으로 지목했지만, 모잠비크를 비롯한 많은 이들은 가짜 항법 신호가 비행기를 항로에서 벗어나게 했다고 의심했으며, 원인은 지금도 논란이 되고 있다. 외무장관 조아킹 시사노가 그의 뒤를 이어 대통령이 되었다.",
+    "zh": "1986年10月19日，载有萨莫拉·马谢尔的总统专机在莫桑比克边境附近南非境内的姆布齐尼坠毁，他和机上大部分人员遇难。南非调查委员会认定原因是机组失误，但莫桑比克和许多人怀疑是虚假导航信标诱使飞机偏离航线，事故原因至今仍有争议。外交部长若阿金·希萨诺继任总统。",
+    "ja": "1986年10月19日、サモラ・マシェルを乗せた大統領専用機が、モザンビーク国境近くの南アフリカ領内ムブジニに墜落し、彼と搭乗者の大半が死亡した。南アフリカの調査委員会は乗員の過失を原因としたが、モザンビークをはじめ多くの人々は偽の航法ビーコンが機体を航路から外させたと疑っており、原因は今も争われている。外相ジョアキン・シサノが後を継いで大統領となった。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Economic rehabilitation program and market reforms",
+    "ko": "경제 재건 계획과 시장 개혁",
+    "zh": "经济复兴计划与市场改革",
+    "ja": "経済復興計画と市場改革"
+   },
+   "description": {
+    "en": "In 1987, with the economy shattered by war, drought and the failures of central planning, the Chissano government launched the Economic Rehabilitation Program with the IMF and World Bank. It devalued the currency, freed prices and began privatizing state enterprises. The reforms marked FRELIMO's turn away from Marxism-Leninism, formally abandoned in 1989.",
+    "ko": "1987년 전쟁과 가뭄, 중앙 계획 경제의 실패로 경제가 무너지자, 시사노 정부는 국제통화기금(IMF), 세계은행과 함께 경제 재건 계획을 시작했다. 정부는 통화를 평가절하하고 가격을 자유화했으며 국영 기업의 민영화를 시작했다. 이 개혁은 FRELIMO가 마르크스·레닌주의에서 돌아섰음을 보여 주었으며, FRELIMO는 1989년 이를 공식적으로 포기했다.",
+    "zh": "1987年，在经济因战争、干旱和计划经济失败而崩溃的情况下，希萨诺政府与国际货币基金组织和世界银行合作启动了经济复兴计划。政府实行货币贬值、放开价格，并开始将国有企业私有化。这些改革标志着解放阵线背离马克思列宁主义，该党于1989年正式放弃这一意识形态。",
+    "ja": "1987年、戦争や干ばつ、計画経済の失敗で経済が崩壊すると、シサノ政権は国際通貨基金（IMF）や世界銀行とともに経済復興計画を開始した。通貨の切り下げや価格の自由化を行い、国営企業の民営化に着手した。改革はFRELIMOがマルクス・レーニン主義から転換したことを示し、同党は1989年にこれを正式に放棄した。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Homoíne massacre",
+    "ko": "오모이네 학살",
+    "zh": "奥莫伊内大屠杀",
+    "ja": "オモイネ虐殺"
+   },
+   "description": {
+    "en": "In July 1987 attackers struck the town of Homoíne in Inhambane province, killing hundreds of civilians, including patients in the local hospital. The government blamed RENAMO, which denied responsibility. The massacre was one of the deadliest single atrocities of the civil war and drew international attention to the conflict's toll on civilians.",
+    "ko": "1987년 7월 이냠바네주의 오모이네 마을이 공격을 받아 현지 병원의 환자를 포함한 민간인 수백 명이 살해되었다. 정부는 RENAMO의 소행이라고 비난했으나 RENAMO는 책임을 부인했다. 이 학살은 내전에서 단일 사건으로는 가장 참혹한 잔학 행위 가운데 하나였으며, 분쟁이 민간인에게 끼친 피해에 국제적 관심을 불러일으켰다.",
+    "zh": "1987年7月，伊尼扬巴内省的奥莫伊内镇遭到袭击，数百名平民遇害，其中包括当地医院的病人。政府指责莫桑比克全国抵抗运动所为，后者否认负有责任。这场屠杀是内战中最惨烈的单起暴行之一，引起国际社会对冲突给平民造成的伤亡的关注。",
+    "ja": "1987年7月、イニャンバネ州の町オモイネが襲撃され、地元の病院の患者を含む数百人の民間人が殺害された。政府はRENAMOの仕業だと非難したが、RENAMOは責任を否定した。この虐殺は内戦中で最も凄惨な単一の残虐行為の一つであり、紛争が民間人にもたらした犠牲に国際的な関心を集めた。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Multiparty constitution adopted",
+    "ko": "복수정당제 헌법 채택",
+    "zh": "通过多党制宪法",
+    "ja": "複数政党制憲法の採択"
+   },
+   "description": {
+    "en": "In November 1990 a new constitution took effect that introduced a multiparty system, a market economy and guarantees of civil rights, and renamed the country the Republic of Mozambique. It removed the ideological basis of RENAMO's war against a one-party state. Peace negotiations, already under way in Rome since 1990, gained momentum.",
+    "ko": "1990년 11월 복수정당제와 시장 경제, 시민권 보장을 도입하고 국호를 모잠비크 공화국으로 바꾼 새 헌법이 발효되었다. 이로써 일당 국가에 맞선다는 RENAMO 전쟁의 이념적 근거가 사라졌다. 1990년부터 로마에서 진행되던 평화 협상은 탄력을 받았다.",
+    "zh": "1990年11月，新宪法生效，引入多党制、市场经济和公民权利保障，并将国名改为莫桑比克共和国。这消除了抵抗运动反对一党制国家而战的意识形态依据。自1990年起已在罗马进行的和平谈判由此获得动力。",
+    "ja": "1990年11月、複数政党制と市場経済、市民的権利の保障を導入し、国名をモザンビーク共和国に改める新憲法が施行された。これにより、一党制国家に対抗するというRENAMOの戦争の思想的根拠が失われた。1990年からローマで進められていた和平交渉は弾みを得た。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Rome General Peace Accords",
+    "ko": "로마 평화협정 체결",
+    "zh": "《罗马和平总协定》签署",
+    "ja": "ローマ包括和平協定"
+   },
+   "description": {
+    "en": "On 4 October 1992 President Joaquim Chissano and RENAMO leader Afonso Dhlakama signed the General Peace Agreement in Rome, mediated by the Catholic Community of Sant'Egidio with Italian government support. A United Nations peacekeeping mission, ONUMOZ, oversaw demobilization and the return of refugees. The peace process is widely regarded as one of the more successful in post-Cold War Africa.",
+    "ko": "1992년 10월 4일 조아킹 시사노 대통령과 RENAMO 지도자 아폰수 들라카마는 이탈리아 정부의 지원 속에 가톨릭 단체 산테지디오 공동체의 중재로 로마에서 일반평화협정에 서명했다. 국제연합 평화유지단(ONUMOZ)은 무장 해제와 난민 귀환을 감독했다. 이 평화 과정은 탈냉전기 아프리카에서 비교적 성공적인 사례로 널리 평가된다.",
+    "zh": "1992年10月4日，在意大利政府支持下，经天主教圣艾智德团体斡旋，若阿金·希萨诺总统与抵抗运动领导人阿丰索·德拉卡马在罗马签署《总和平协定》。联合国莫桑比克行动负责监督复员和难民返回。这一和平进程被普遍视为冷战后非洲较为成功的案例之一。",
+    "ja": "1992年10月4日、ジョアキン・シサノ大統領とRENAMO指導者アフォンソ・ドラカマは、イタリア政府の支援のもとカトリック団体の聖エジディオ共同体の仲介により、ローマで包括和平協定に調印した。国際連合モザンビーク活動（ONUMOZ）が動員解除と難民の帰還を監督した。この和平プロセスは冷戦後のアフリカで比較的成功した例と広く評価されている。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First multiparty elections",
+    "ko": "최초의 다당제 선거",
+    "zh": "首次多党选举",
+    "ja": "初の複数政党制選挙"
+   },
+   "description": {
+    "en": "Mozambique held its first multiparty general elections in October 1994 under United Nations observation, with very high turnout. Joaquim Chissano won the presidency and FRELIMO a majority in parliament, while RENAMO, which accepted the results, entered parliament as the main opposition party. The vote completed the transition from war to electoral politics.",
+    "ko": "모잠비크는 1994년 10월 국제연합의 감시 아래 첫 복수정당제 총선을 치렀으며 투표율은 매우 높았다. 조아킹 시사노가 대통령에 당선되고 FRELIMO가 의회 과반을 차지했으며, 결과를 받아들인 RENAMO는 제1야당으로 의회에 진출했다. 이 선거로 전쟁에서 선거 정치로의 전환이 완성되었다.",
+    "zh": "1994年10月，莫桑比克在联合国观察下举行首次多党大选，投票率非常高。若阿金·希萨诺当选总统，解放阵线赢得议会多数，接受选举结果的抵抗运动则作为主要反对党进入议会。这次选举完成了从战争向选举政治的过渡。",
+    "ja": "モザンビークは1994年10月、国際連合の監視のもとで初の複数政党制による総選挙を実施し、投票率は非常に高かった。ジョアキン・シサノが大統領に当選してFRELIMOが議会の過半数を得、結果を受け入れたRENAMOは最大野党として議会に加わった。この選挙で戦争から選挙政治への移行が完了した。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mozambique joins the Commonwealth",
+    "ko": "영연방에 가입한 모잠비크",
+    "zh": "莫桑比克加入英联邦",
+    "ja": "イギリス連邦に加盟したモザンビーク"
+   },
+   "description": {
+    "en": "In November 1995 Mozambique became the first member of the Commonwealth that had never been a British colony, admitted as an exception in recognition of its close ties with its English-speaking neighbors and its role in the struggles against Rhodesia and apartheid. Membership strengthened its links to southern Africa's anglophone economies. Portuguese remains the official language.",
+    "ko": "1995년 11월 모잠비크는 영국 식민지였던 적이 없는 나라로서는 처음으로 영연방 회원국이 되었다. 영어권 이웃 국가들과의 긴밀한 관계와 로디지아·아파르트헤이트에 맞선 투쟁에서의 역할을 인정받아 예외적으로 가입이 허용되었다. 가입으로 남부 아프리카 영어권 경제와의 유대가 강화되었으며, 공용어는 여전히 포르투갈어이다.",
+    "zh": "1995年11月，莫桑比克成为首个从未当过英国殖民地的英联邦成员国。考虑到它与讲英语的邻国关系密切，以及在反抗罗得西亚和种族隔离斗争中的作用，英联邦破例接纳了它。入盟加强了它与南部非洲英语国家经济的联系，葡萄牙语仍是其官方语言。",
+    "ja": "1995年11月、モザンビークはイギリスの植民地であったことのない国として初めてイギリス連邦に加盟した。英語圏の隣国との緊密な関係や、ローデシアやアパルトヘイトとの闘いで果たした役割が評価され、例外的に加盟が認められた。加盟により南部アフリカの英語圏経済との結びつきが強まったが、公用語は引き続きポルトガル語である。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": "Q859770",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Catastrophic floods of 2000",
+    "ko": "2000년 대홍수",
+    "zh": "2000年特大洪灾",
+    "ja": "2000年の大洪水"
+   },
+   "description": {
+    "en": "In February and March 2000, torrential rains followed by Cyclone Eline caused the worst floods in living memory, especially along the Limpopo and Save rivers in southern Mozambique. About 700 people died and hundreds of thousands were displaced; images of people stranded in trees, including a woman who gave birth in a tree before being rescued by helicopter, drew global attention. The disaster set back the country's post-war recovery.",
+    "ko": "2000년 2~3월 폭우에 이어 사이클론 엘라인이 몰아치면서, 특히 남부 모잠비크의 림포포강과 사브강 유역에서 기억에 남는 최악의 홍수가 일어났다. 약 700명이 숨지고 수십만 명이 이재민이 되었으며, 나무 위에서 아이를 낳은 뒤 헬리콥터로 구조된 여성을 비롯해 나무에 고립된 사람들의 모습이 세계의 주목을 받았다. 이 재난은 전후 복구를 후퇴시켰다.",
+    "zh": "2000年2月至3月，暴雨之后又遭气旋埃琳娜袭击，引发了人们记忆中最严重的洪灾，尤以莫桑比克南部的林波波河和萨韦河流域为甚。约700人死亡，数十万人流离失所；被困树上的民众画面，包括一名在树上分娩后被直升机救起的妇女，引起全球关注。这场灾难使该国的战后恢复遭受挫折。",
+    "ja": "2000年2月から3月にかけて、豪雨に続いてサイクロン・エラインが襲い、とりわけ南部モザンビークのリンポポ川とサベ川流域で記憶にある限り最悪の洪水が起きた。約700人が死亡し数十万人が避難を余儀なくされ、木の上で出産した後ヘリコプターで救出された女性をはじめ、木に取り残された人々の姿が世界の注目を集めた。この災害は戦後の復興を後退させた。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Armando Guebuza elected president",
+    "ko": "아르만두 게부자의 대통령 당선",
+    "zh": "阿曼多·格布扎当选总统",
+    "ja": "アルマンド・ゲブーザの大統領当選"
+   },
+   "description": {
+    "en": "After Joaquim Chissano chose not to seek a third term, FRELIMO's candidate Armando Guebuza, a veteran of the liberation struggle, won the December 2004 presidential election against RENAMO's Afonso Dhlakama. Guebuza served two terms until 2015, a period of rapid growth driven by mining and gas investment. His later years in office were overshadowed by renewed conflict with RENAMO and the hidden-debt scandal.",
+    "ko": "조아킹 시사노가 3선 도전을 포기하자, 해방 투쟁의 원로인 FRELIMO 후보 아르만두 게부자가 2004년 12월 대통령 선거에서 RENAMO의 아폰수 들라카마를 꺾고 당선되었다. 게부자는 2015년까지 두 차례 임기를 지냈으며, 이 시기는 광업과 가스 투자에 힘입은 고속 성장기였다. 그러나 임기 후반은 RENAMO와의 분쟁 재발과 숨겨진 부채 스캔들로 얼룩졌다.",
+    "zh": "若阿金·希萨诺决定不寻求第三个任期后，解放斗争元老、解放阵线候选人阿曼多·格布扎在2004年12月的总统选举中击败抵抗运动的阿丰索·德拉卡马。格布扎连任两届至2015年，这一时期在矿业和天然气投资推动下经济快速增长。不过他执政后期蒙上了与抵抗运动冲突再起和隐性债务丑闻的阴影。",
+    "ja": "ジョアキン・シサノが3期目を目指さないことを決めると、解放闘争の古参であるFRELIMOの候補アルマンド・ゲブーザが2004年12月の大統領選挙でRENAMOのアフォンソ・ドラカマを破って当選した。ゲブーザは2015年まで2期務め、この時期は鉱業やガスへの投資による急成長期であった。しかし任期後半はRENAMOとの紛争再燃と隠れ債務スキャンダルに影を落とされた。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Mozambique takes control of Cahora Bassa",
+    "ko": "카보라바사 댐 지배권 확보",
+    "zh": "莫桑比克取得卡奥拉巴萨控制权",
+    "ja": "カオラ・バッサの支配権を得たモザンビーク"
+   },
+   "description": {
+    "en": "In November 2007 Portugal transferred majority ownership of the Cahora Bassa hydroelectric company to Mozambique, more than three decades after independence. President Guebuza hailed the event as a \"second independence\". The dam remains one of the largest power sources in southern Africa, exporting much of its electricity to South Africa.",
+    "ko": "2007년 11월 포르투갈은 독립 후 30여 년 만에 카보라바사 수력 발전 회사의 과반 지분을 모잠비크에 넘겼다. 게부자 대통령은 이를 '제2의 독립'이라고 환영했다. 이 댐은 지금도 남부 아프리카 최대의 전력원 가운데 하나로, 전력의 상당 부분을 남아프리카에 수출한다.",
+    "zh": "2007年11月，在独立三十多年后，葡萄牙将卡奥拉巴萨水电公司的多数股权移交给莫桑比克。格布扎总统称之为“第二次独立”。该水坝至今仍是南部非洲最大的电力来源之一，其大部分电力出口到南非。",
+    "ja": "2007年11月、ポルトガルは独立から30年余りを経て、カオラ・バッサ水力発電会社の過半数の持ち分をモザンビークに移譲した。ゲブーザ大統領はこれを「第二の独立」とたたえた。このダムは今も南部アフリカ最大級の電源であり、電力の多くを南アフリカに輸出している。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Major natural gas discoveries",
+    "ko": "대규모 천연가스 발견",
+    "zh": "发现大型天然气田",
+    "ja": "大規模天然ガス田の発見"
+   },
+   "description": {
+    "en": "From 2010 Anadarko and Eni discovered vast offshore natural gas fields in the Rovuma Basin off Cabo Delgado province in northern Mozambique. The finds ranked among the largest gas discoveries in the world in that decade and attracted plans for liquefied natural gas projects worth tens of billions of dollars. They raised hopes of transforming the economy but also contributed to excessive borrowing and tensions in the impoverished north.",
+    "ko": "2010년부터 아나다코와 에니는 모잠비크 북부 카보델가두주 앞바다의 로부마 분지에서 거대한 해상 천연가스전을 발견했다. 이 발견은 그 10년 동안 세계 최대급의 가스 발견에 속했으며, 수백억 달러 규모의 액화천연가스(LNG) 사업 계획을 끌어들였다. 이는 경제를 탈바꿈시킬 것이라는 기대를 높였지만, 과도한 차입과 빈곤한 북부의 긴장을 부추기는 요인이 되기도 했다.",
+    "zh": "自2010年起，阿纳达科和埃尼在莫桑比克北部德尔加杜角省近海的鲁伍马盆地发现了巨大的海上天然气田。这些发现跻身该十年间世界最大天然气发现之列，吸引了价值数百亿美元的液化天然气项目计划。它们提高了经济转型的期望，但也助长了过度借贷和贫困北部地区的紧张局势。",
+    "ja": "2010年から、アナダルコとエニはモザンビーク北部カボ・デルガード州沖のロヴマ盆地で巨大な海底天然ガス田を発見した。これらはその10年間で世界最大級のガス発見に数えられ、数百億ドル規模の液化天然ガス（LNG）事業計画を呼び込んだ。経済を一変させるとの期待を高める一方、過剰な借り入れや貧しい北部の緊張を助長する要因ともなった。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q17332331",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "RENAMO insurgency and ceasefire",
+    "ko": "RENAMO 무장 활동과 휴전",
+    "zh": "抵抗运动武装活动与停火",
+    "ja": "RENAMOの武装活動と停戦"
+   },
+   "description": {
+    "en": "From 2013 RENAMO fighters loyal to Afonso Dhlakama, who had returned to his former bush base in Gorongosa, clashed with government forces and attacked traffic on the main north–south highway. A ceasefire was signed in September 2014 before elections, but fighting resumed in 2015–2016. In October 2014 FRELIMO's Filipe Nyusi was elected president.",
+    "ko": "2013년부터 고롱고사의 옛 밀림 기지로 돌아간 아폰수 들라카마에게 충성하는 RENAMO 대원들이 정부군과 충돌하고 남북 간선 도로의 차량을 공격했다. 선거를 앞둔 2014년 9월 휴전이 체결되었으나, 2015~2016년 전투가 재개되었다. 2014년 10월 FRELIMO의 필리프 뉴시가 대통령에 당선되었다.",
+    "zh": "自2013年起，效忠阿丰索·德拉卡马（他已返回戈龙戈萨的旧丛林基地）的抵抗运动武装人员与政府军发生冲突，并袭击南北主干公路上的车辆。2014年9月选举前双方签署停火协议，但2015至2016年战斗再起。2014年10月，解放阵线的菲利佩·纽西当选总统。",
+    "ja": "2013年から、ゴロンゴサの旧ブッシュ基地に戻ったアフォンソ・ドラカマに忠実なRENAMOの戦闘員が政府軍と衝突し、南北を結ぶ幹線道路の車両を襲撃した。選挙を前にした2014年9月に停戦が結ばれたが、2015～2016年に戦闘が再開した。2014年10月、FRELIMOのフィリペ・ニュシが大統領に当選した。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Hidden-debt scandal",
+    "ko": "숨겨진 부채 스캔들",
+    "zh": "隐性债务丑闻",
+    "ja": "隠れ債務スキャンダル"
+   },
+   "description": {
+    "en": "In 2016 it emerged that state-owned companies had secretly borrowed about two billion dollars, guaranteed by the government without parliamentary approval, for tuna fishing and maritime security projects. The IMF and donors suspended budget support, the currency collapsed and Mozambique defaulted on its debt. Investigations in Mozambique, the United States and the United Kingdom led to prosecutions, including of a former finance minister.",
+    "ko": "2016년 국영 기업들이 참치 어업과 해상 보안 사업을 명목으로 의회 승인 없이 정부 보증을 받아 약 20억 달러를 비밀리에 빌린 사실이 드러났다. 국제통화기금과 원조국들은 예산 지원을 중단했고, 통화가 폭락했으며 모잠비크는 채무 불이행에 빠졌다. 모잠비크, 미국, 영국에서의 수사로 전직 재무장관을 포함한 관련자들이 기소되었다.",
+    "zh": "2016年曝光，国有企业在未经议会批准的情况下以政府担保秘密借款约20亿美元，用于金枪鱼捕捞和海上安全项目。国际货币基金组织和援助国暂停预算支持，货币暴跌，莫桑比克发生债务违约。莫桑比克、美国和英国的调查导致包括一名前财政部长在内的多人被起诉。",
+    "ja": "2016年、国営企業がマグロ漁業や海上警備事業のため、議会の承認なしに政府保証を受けて約20億ドルを秘密裏に借り入れていたことが発覚した。国際通貨基金と援助国は財政支援を停止し、通貨は暴落し、モザンビークは債務不履行に陥った。モザンビーク、アメリカ、イギリスでの捜査により、元財務相を含む関係者が訴追された。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q47499139",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Insurgency erupts in Cabo Delgado",
+    "ko": "카보델가두의 반란 발발",
+    "zh": "德尔加杜角省叛乱爆发",
+    "ja": "カボ・デルガードの反乱勃発"
+   },
+   "description": {
+    "en": "In October 2017 militants attacked police stations in the town of Mocímboa da Praia, beginning an Islamist insurgency in Cabo Delgado province, the gas-rich but impoverished far north. The group, known locally as al-Shabaab, later pledged allegiance to the Islamic State. The conflict has killed thousands of people and displaced hundreds of thousands, fed by local grievances over poverty, exclusion and the distribution of resource wealth.",
+    "ko": "2017년 10월 무장 세력이 모시암부아다프라이아의 경찰서를 공격하면서, 가스가 풍부하지만 빈곤한 최북단 카보델가두주에서 이슬람주의 반란이 시작되었다. 현지에서 알샤바브로 불린 이 집단은 이후 이슬람국가(IS)에 충성을 맹세했다. 빈곤과 소외, 자원 수익 분배에 대한 현지의 불만을 자양분 삼은 이 분쟁으로 수천 명이 숨지고 수십만 명이 피란했다.",
+    "zh": "2017年10月，武装分子袭击莫辛布瓦达普拉亚镇的警察局，揭开了德尔加杜角省伊斯兰主义叛乱的序幕。该省位于最北部，天然气资源丰富却十分贫困。这个在当地被称为“青年党”的组织后来宣誓效忠“伊斯兰国”。由于当地民众对贫困、排斥和资源财富分配的不满，冲突持续发酵，已造成数千人死亡、数十万人流离失所。",
+    "ja": "2017年10月、武装勢力がモシンボア・ダ・プライアの町の警察署を襲撃し、ガス資源に恵まれながらも貧しい最北部カボ・デルガード州でイスラム主義者の反乱が始まった。地元でアル・シャバーブと呼ばれたこの集団は、のちに「イスラム国」に忠誠を誓った。貧困や疎外、資源の富の分配をめぐる地元の不満を背景に、紛争で数千人が死亡し数十万人が避難した。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q62023294",
+   "importance": 1,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclone Idai devastates Beira",
+    "ko": "베이라를 초토화한 사이클론 이다이",
+    "zh": "气旋伊代重创贝拉",
+    "ja": "ベイラを壊滅させたサイクロン・イダイ"
+   },
+   "description": {
+    "en": "In March 2019 Cyclone Idai made landfall near Beira, one of the most destructive tropical cyclones recorded in the Southern Hemisphere. Winds and catastrophic flooding in Sofala and Manica provinces killed hundreds of people in Mozambique, with more deaths in Zimbabwe and Malawi, and left hundreds of thousands in need of aid; a cholera outbreak followed. Weeks later, in April, Cyclone Kenneth struck Cabo Delgado, the first time two such strong cyclones hit the country in one season.",
+    "ko": "2019년 3월 남반구에서 기록된 가장 파괴적인 열대 저기압 가운데 하나인 사이클론 이다이가 베이라 부근에 상륙했다. 소팔라주와 마니카주를 덮친 강풍과 대홍수로 모잠비크에서 수백 명이 숨지고 짐바브웨와 말라위에서도 사망자가 나왔으며, 수십만 명이 구호가 필요한 처지가 되었고 뒤이어 콜레라가 유행했다. 몇 주 뒤인 4월에는 사이클론 케네스가 카보델가두를 강타해, 한 시즌에 이처럼 강한 사이클론 두 개가 이 나라를 덮친 첫 사례가 되었다.",
+    "zh": "2019年3月，南半球有记录以来破坏力最强的热带气旋之一伊代在贝拉附近登陆。索法拉省和马尼卡省遭受狂风和灾难性洪水，莫桑比克数百人遇难，津巴布韦和马拉维也有人员死亡，数十万人亟需援助，随后又暴发霍乱。数周后的4月，气旋肯尼斯袭击德尔加杜角省，这是该国首次在同一季节遭受两次如此强烈的气旋。",
+    "ja": "2019年3月、南半球で記録された中で最も破壊的な熱帯低気圧の一つであるサイクロン・イダイがベイラ付近に上陸した。ソファラ州とマニカ州を襲った暴風と壊滅的な洪水でモザンビークでは数百人が死亡し、ジンバブエやマラウイでも死者が出て、数十万人が援助を必要とする事態となり、続いてコレラが流行した。数週間後の4月にはサイクロン・ケネスがカボ・デルガードを襲い、一つのシーズンにこれほど強いサイクロンが二度この国を襲った初めての例となった。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Maputo peace accord with RENAMO",
+    "ko": "RENAMO와의 마푸투 평화협정",
+    "zh": "与抵抗运动签署《马普托和平协定》",
+    "ja": "RENAMOとのマプト和平協定"
+   },
+   "description": {
+    "en": "On 6 August 2019 President Filipe Nyusi and RENAMO leader Ossufo Momade, who had succeeded Afonso Dhlakama after his death in 2018, signed the Maputo Accord for Peace and National Reconciliation. The agreement provided for the disarmament, demobilization and reintegration of RENAMO's remaining fighters and for decentralization reforms. A breakaway RENAMO faction continued sporadic attacks for some time afterward.",
+    "ko": "2019년 8월 6일 필리프 뉴시 대통령과, 2018년 아폰수 들라카마 사망 후 그 뒤를 이은 RENAMO 지도자 오수푸 모마드는 '평화와 국민 화해를 위한 마푸투 협정'에 서명했다. 협정은 남아 있던 RENAMO 대원의 무장 해제, 동원 해제, 사회 복귀와 지방 분권 개혁을 규정했다. RENAMO에서 이탈한 분파는 이후 한동안 산발적인 공격을 이어 갔다.",
+    "zh": "2019年8月6日，菲利佩·纽西总统与在阿丰索·德拉卡马2018年去世后接任的抵抗运动领导人奥苏福·莫马德签署《马普托和平与民族和解协定》。协定规定解除抵抗运动剩余武装人员的武装、实行复员和重返社会，并推进地方分权改革。抵抗运动的一个分裂派别此后一段时间仍零星发动袭击。",
+    "ja": "2019年8月6日、フィリペ・ニュシ大統領と、2018年のアフォンソ・ドラカマの死後に後を継いだRENAMO指導者オスフォ・モマデは「平和と国民和解のためのマプト協定」に調印した。協定は残るRENAMO戦闘員の武装解除・動員解除・社会復帰と地方分権改革を定めた。RENAMOから分離した一派は、その後しばらく散発的な攻撃を続けた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q104849323",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Insurgents seize Mocímboa da Praia",
+    "ko": "모시암부아다프라이아를 장악한 반군",
+    "zh": "叛乱分子占领莫辛布瓦达普拉亚",
+    "ja": "モシンボア・ダ・プライアを掌握した武装勢力"
+   },
+   "description": {
+    "en": "In August 2020 Islamic State-linked insurgents captured the port town of Mocímboa da Praia in Cabo Delgado after days of fighting, holding it for about a year. The fall of the town, close to the gas projects on the Afungi peninsula, showed the weakness of Mozambique's security forces. Attacks on villages intensified and the number of displaced people rose sharply.",
+    "ko": "2020년 8월 이슬람국가와 연계된 반군이 며칠간의 전투 끝에 카보델가두의 항구 도시 모시암부아다프라이아를 장악하고 약 1년간 점령했다. 아풍지반도의 가스 사업장과 가까운 이 도시의 함락은 모잠비크 보안군의 취약함을 드러냈다. 마을에 대한 공격이 격화되었고 피란민 수가 급증했다.",
+    "zh": "2020年8月，与“伊斯兰国”有关联的叛乱分子经过数日战斗，攻占了德尔加杜角省的港口城镇莫辛布瓦达普拉亚，并占据该地约一年。这座靠近阿丰吉半岛天然气项目的城镇失守，暴露了莫桑比克安全部队的薄弱。针对村庄的袭击加剧，流离失所者人数急剧上升。",
+    "ja": "2020年8月、「イスラム国」とつながる武装勢力は数日の戦闘の末、カボ・デルガードの港町モシンボア・ダ・プライアを制圧し、約1年間占拠した。アフンギ半島のガス事業地に近いこの町の陥落は、モザンビークの治安部隊の弱さを露呈した。村々への攻撃は激化し、避難民の数は急増した。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Palma attack and foreign intervention",
+    "ko": "팔마 공격과 외국군 개입",
+    "zh": "帕尔马袭击与外国军事介入",
+    "ja": "パルマ襲撃と外国の軍事介入"
+   },
+   "description": {
+    "en": "In March 2021 insurgents attacked the town of Palma, next to the Afungi gas site, killing many civilians and forcing tens of thousands to flee; TotalEnergies suspended its liquefied natural gas project and declared force majeure. In July 2021 Rwandan troops, followed by a Southern African Development Community mission, deployed to Cabo Delgado at Mozambique's request. They recaptured Mocímboa da Praia in August 2021, though the insurgency continued at a lower intensity.",
+    "ko": "2021년 3월 반군이 아풍지 가스 기지 바로 옆의 팔마를 공격해 많은 민간인을 살해하고 수만 명을 피란하게 만들었으며, 토탈에너지는 액화천연가스 사업을 중단하고 불가항력을 선언했다. 2021년 7월 모잠비크의 요청으로 르완다군이, 뒤이어 남아프리카개발공동체(SADC) 파견대가 카보델가두에 배치되었다. 이들은 2021년 8월 모시암부아다프라이아를 탈환했으나, 반란은 강도가 낮아진 채 계속되었다.",
+    "zh": "2021年3月，叛乱分子袭击了紧邻阿丰吉天然气基地的帕尔马镇，杀害了许多平民，迫使数万人逃离；道达尔能源暂停其液化天然气项目并宣布不可抗力。2021年7月，应莫桑比克请求，卢旺达军队以及随后的南部非洲发展共同体特派团部署到德尔加杜角省。他们于2021年8月收复莫辛布瓦达普拉亚，但叛乱仍以较低强度持续。",
+    "ja": "2021年3月、武装勢力がアフンギのガス拠点に隣接するパルマの町を襲撃して多くの民間人を殺害し、数万人を避難に追い込んだ。トタルエナジーズは液化天然ガス事業を停止して不可抗力を宣言した。2021年7月、モザンビークの要請によりルワンダ軍が、続いて南部アフリカ開発共同体（SADC）の部隊がカボ・デルガードに展開した。彼らは2021年8月にモシンボア・ダ・プライアを奪還したが、反乱は規模を縮小しつつ続いた。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "First LNG exports from Coral Sul",
+    "ko": "코랄술의 첫 LNG 수출",
+    "zh": "科拉尔南平台首次出口液化天然气",
+    "ja": "コーラル・スルからの初のLNG輸出"
+   },
+   "description": {
+    "en": "In November 2022 Mozambique exported its first cargo of liquefied natural gas from Coral Sul, a floating LNG facility operated by Eni in the Rovuma Basin far offshore from the conflict zone. It marked the country's entry into the ranks of LNG exporters. The larger onshore projects on the Afungi peninsula remained delayed by the insurgency.",
+    "ko": "2022년 11월 모잠비크는 분쟁 지역에서 멀리 떨어진 로부마 분지 해상에서 에니가 운영하는 부유식 LNG 설비 코랄술로부터 첫 액화천연가스를 수출했다. 이로써 모잠비크는 LNG 수출국 대열에 들어섰다. 아풍지반도의 더 큰 육상 사업들은 반란으로 계속 지연되었다.",
+    "zh": "2022年11月，莫桑比克从埃尼公司在鲁伍马盆地远离冲突区的海上运营的浮式液化天然气设施“科拉尔南”出口了第一船液化天然气。这标志着该国跻身液化天然气出口国行列。阿丰吉半岛上规模更大的陆上项目则因叛乱而持续推迟。",
+    "ja": "2022年11月、モザンビークは紛争地域から遠く離れたロヴマ盆地の沖合でエニが運営する浮体式LNG設備コーラル・スルから、初の液化天然ガスを輸出した。これにより同国はLNG輸出国の仲間入りを果たした。アフンギ半島のより大規模な陸上事業は、反乱のため遅れが続いた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclone Freddy strikes twice",
+    "ko": "두 차례 상륙한 사이클론 프레디",
+    "zh": "气旋弗雷迪两度来袭",
+    "ja": "二度上陸したサイクロン・フレディ"
+   },
+   "description": {
+    "en": "In February and March 2023 Cyclone Freddy, one of the longest-lived tropical cyclones on record, made landfall in Mozambique twice, first in Inhambane province and then in Zambezia province. It brought destructive winds and heavy flooding, killing scores of people in Mozambique and causing even greater loss of life in neighboring Malawi. The storm worsened an ongoing cholera outbreak.",
+    "ko": "2023년 2월과 3월, 기록상 가장 오래 지속된 열대 저기압 가운데 하나인 사이클론 프레디가 처음에는 이냠바네주, 이어 잠베지아주로 모잠비크에 두 차례 상륙했다. 프레디는 파괴적인 강풍과 큰 홍수를 몰고 와 모잠비크에서 수십 명의 목숨을 앗아 갔고, 이웃 말라위에서는 더 큰 인명 피해를 냈다. 이 폭풍은 진행 중이던 콜레라 유행을 악화시켰다.",
+    "zh": "2023年2月和3月，有记录以来持续时间最长的热带气旋之一弗雷迪两度在莫桑比克登陆，先是伊尼扬巴内省，后是赞比西亚省。它带来破坏性大风和严重洪水，在莫桑比克造成数十人死亡，在邻国马拉维造成的人员伤亡更为惨重。这场风暴加剧了正在流行的霍乱疫情。",
+    "ja": "2023年2月と3月、観測史上最も長寿命の熱帯低気圧の一つであるサイクロン・フレディが、まずイニャンバネ州、次いでザンベジア州とモザンビークに二度上陸した。フレディは破壊的な暴風と大規模な洪水をもたらし、モザンビークで数十人の命を奪い、隣国マラウイではさらに大きな人的被害を出した。この嵐は流行中のコレラを悪化させた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q125399978",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Boat disaster off Nampula",
+    "ko": "남풀라 앞바다의 선박 참사",
+    "zh": "楠普拉近海沉船事故",
+    "ja": "ナンプラ沖の船舶事故"
+   },
+   "description": {
+    "en": "In April 2024 an overcrowded fishing boat converted to carry passengers capsized off the coast of Nampula province near the Island of Mozambique, killing about a hundred people. Officials said many passengers were fleeing the area amid panic over a cholera outbreak and misinformation about it. The tragedy highlighted the dangers of unregulated coastal transport.",
+    "ko": "2024년 4월 승객 운송용으로 개조된 정원 초과 어선이 모잠비크섬 부근 남풀라주 해안에서 전복되어 약 100명이 숨졌다. 당국은 많은 승객이 콜레라 유행과 그에 관한 잘못된 정보로 인한 공포 속에 이 지역을 떠나던 중이었다고 밝혔다. 이 비극은 규제되지 않은 연안 운송의 위험성을 드러냈다.",
+    "zh": "2024年4月，一艘改装用于载客的超载渔船在莫桑比克岛附近的楠普拉省海岸倾覆，造成约100人死亡。官员称，许多乘客是因霍乱疫情及相关谣言引发恐慌而逃离该地区。这一悲剧凸显了缺乏监管的沿海交通的危险。",
+    "ja": "2024年4月、旅客輸送用に改造された定員超過の漁船が、モザンビーク島近くのナンプラ州沖で転覆し、約100人が死亡した。当局によれば、多くの乗客はコレラの流行とそれをめぐる誤情報による恐慌の中でこの地域を離れようとしていた。この悲劇は規制のない沿岸輸送の危険性を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q106751204",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Disputed 2024 election and protests",
+    "ko": "논란의 2024년 선거와 시위",
+    "zh": "有争议的2024年选举与抗议",
+    "ja": "争われた2024年選挙と抗議行動"
+   },
+   "description": {
+    "en": "In the October 2024 general election FRELIMO's candidate Daniel Chapo was declared the winner of the presidency, but opposition candidate Venâncio Mondlane and many observers alleged widespread fraud. Weeks of protests followed across the country, and security forces' crackdown left many people dead. Chapo was sworn in as president in January 2025, as FRELIMO's rule extended into its sixth decade.",
+    "ko": "2024년 10월 총선에서 FRELIMO의 다니엘 샤푸 후보가 대통령 당선자로 발표되었으나, 야당 후보 베난시우 몬들라느와 많은 참관인은 광범위한 부정을 주장했다. 이후 몇 주간 전국에서 시위가 이어졌고, 보안군의 진압으로 많은 사람이 숨졌다. 샤푸는 2025년 1월 대통령에 취임했으며, FRELIMO의 집권은 독립 이후 50년째에 이르렀다.",
+    "zh": "在2024年10月的大选中，解放阵线候选人丹尼尔·沙波被宣布当选总统，但反对派候选人韦南西奥·蒙德拉内和许多观察人士指称存在大范围舞弊。随后全国爆发持续数周的抗议，安全部队的镇压造成许多人死亡。沙波于2025年1月宣誓就任总统，解放阵线的执政由此迈入第六个十年。",
+    "ja": "2024年10月の総選挙ではFRELIMOのダニエル・シャポ候補が大統領に当選したと発表されたが、野党候補ヴェナンシオ・モンドラーネや多くの監視者は大規模な不正を主張した。その後数週間にわたり全国で抗議行動が続き、治安部隊の鎮圧で多くの人が死亡した。シャポは2025年1月に大統領に就任し、FRELIMOの統治は独立から50年を迎えた。"
+   }
+  }
+ ]
+}

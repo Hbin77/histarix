@@ -1,0 +1,1388 @@
+{
+ "iso": "SS",
+ "eras": [
+  {
+   "from": -8000,
+   "to": 500,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Prehistoric peoples of the Upper Nile",
+    "ko": "상나일 지역의 선사 시대",
+    "zh": "上尼罗河地区的史前时代",
+    "ja": "上ナイル地方の先史時代"
+   },
+   "summary": {
+    "en": "For thousands of years the floodplains, swamps and savannas of what is now South Sudan were home to hunter-gatherers and fishing communities. Archaeological research here is still limited, but stone tools, pottery and settlement mounds from Equatoria and the Bahr el Ghazal show that herding of cattle and the cultivation of sorghum and millet gradually spread across the region. To Egyptian, Kushite and Roman observers far to the north, the vast Sudd marshes remained an almost impassable barrier.",
+    "ko": "수천 년 동안 오늘날 남수단의 범람원과 습지, 사바나에는 수렵채집민과 어로 공동체가 살았다. 이 지역의 고고학 연구는 아직 부족하지만, 에콰토리아와 바르엘가잘에서 나온 석기와 토기, 취락 둔덕은 소 목축과 수수·기장 재배가 점차 지역 전체로 퍼졌음을 보여 준다. 멀리 북쪽의 이집트인과 쿠시인, 로마인에게 광대한 수드 습지는 거의 통과할 수 없는 장벽이었다.",
+    "zh": "数千年来，今南苏丹的泛滥平原、沼泽和稀树草原一直是狩猎采集者和渔猎社群的家园。这里的考古研究仍然有限，但赤道州和加扎勒河地区出土的石器、陶器和聚落土丘表明，养牛业以及高粱、小米的种植逐渐在这一地区传播开来。对于遥远北方的埃及人、库施人和罗马人而言，广袤的苏德沼泽几乎是一道无法逾越的屏障。",
+    "ja": "数千年にわたり、現在の南スーダンの氾濫原や湿地、サバンナには狩猟採集民や漁労民が暮らしていた。この地域の考古学調査はまだ乏しいが、エクアトリアやバハル・アル・ガザールで見つかった石器や土器、集落の塚は、牛の牧畜とモロコシ・雑穀の栽培が次第に地域全体へ広がったことを示している。はるか北方のエジプト人、クシュ人、ローマ人にとって、広大なスッド湿地はほとんど越えられない障壁であった。"
+   }
+  },
+  {
+   "from": 500,
+   "to": 1500,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Nilotic and Central Sudanic settlement",
+    "ko": "나일계·중앙수단계 민족의 정착",
+    "zh": "尼罗特人与中苏丹语族的定居",
+    "ja": "ナイル系・中央スーダン系諸民族の定住"
+   },
+   "summary": {
+    "en": "During the first and early second millennium AD, the ancestors of today's Nilotic peoples, including the Dinka, Nuer, Shilluk and other Luo groups, spread across the wetlands and grasslands of the White Nile basin, while Central Sudanic and other communities settled the southern uplands. Societies were organised around cattle, kinship and seasonal movement between riverside pastures and higher ground. Oral traditions and linguistics, rather than written records, are the main sources for this long formative period.",
+    "ko": "서기 1천년기와 2천년기 초에 딩카·누에르·실루크 등 오늘날 나일계 민족과 여타 루오계 집단의 조상들이 백나일 유역의 습지와 초원으로 퍼져 나갔고, 남부 고지대에는 중앙수단어계를 비롯한 여러 공동체가 자리 잡았다. 사회는 소와 친족, 그리고 강가 목초지와 높은 지대 사이의 계절 이동을 중심으로 조직되었다. 이 긴 형성기에 대해서는 문자 기록이 아니라 구전과 언어학이 주요 자료이다.",
+    "zh": "在公元第一千年和第二千年初期，今天丁卡人、努尔人、希卢克人及其他卢奥人群等尼罗特民族的祖先，逐渐散布到白尼罗河流域的湿地和草原，而中苏丹语族等社群则定居在南部高地。社会围绕牛群、亲族关系以及在河畔牧场和高地之间的季节性迁移而组织。关于这一漫长的形成期，主要依靠口述传统和语言学而非文字记录。",
+    "ja": "紀元1千年紀から2千年紀初めにかけて、ディンカ、ヌエル、シルックなど今日のナイル系諸民族やその他のルオ系集団の祖先が白ナイル流域の湿地と草原に広がり、南部の高地には中央スーダン諸語系などの共同体が定住した。社会は牛と親族関係、そして川辺の牧草地と高台との季節移動を軸に組織された。この長い形成期については、文字記録ではなく口承伝承と言語学が主な手がかりである。"
+   }
+  },
+  {
+   "from": 1490,
+   "to": 1861,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Shilluk Kingdom",
+    "ko": "실루크 왕국",
+    "zh": "希卢克王国",
+    "ja": "シルック王国"
+   },
+   "summary": {
+    "en": "According to tradition, the Shilluk Kingdom was founded on the west bank of the White Nile by the hero Nyikang around the late 15th century. Its reth, or divine king, ruled from Fashoda over a densely settled riverine land, and Shilluk war canoes at times raided along the Nile while the kingdom dealt with the Funj Sultanate of Sennar to the north. Its independence was eroded from the mid-19th century by northern traders and Turco-Egyptian forces, but the kingship survives as a cultural institution today.",
+    "ko": "전승에 따르면 실루크 왕국은 15세기 말 무렵 영웅 니캉이 백나일강 서안에 세웠다. 신성한 왕인 레스는 파쇼다에서 인구가 조밀한 강변 지역을 다스렸으며, 실루크의 전투 카누는 때때로 나일강을 따라 습격에 나섰고 왕국은 북쪽의 푼즈 술탄국(센나르)과도 관계를 맺었다. 19세기 중반부터 북부 상인과 투르크·이집트 세력에 의해 독립이 잠식되었지만, 왕권은 오늘날에도 문화 제도로 남아 있다.",
+    "zh": "据传说，希卢克王国约在15世纪末由英雄尼康在白尼罗河西岸建立。被称为“雷斯”的神圣国王以法绍达为中心，统治着人口稠密的沿河地区；希卢克人的战船时而沿尼罗河出击，王国也与北方的丰吉苏丹国（森纳尔）往来。自19世纪中叶起，北方商人和土耳其－埃及势力逐渐侵蚀了它的独立，但这一王权作为文化制度延续至今。",
+    "ja": "伝承によれば、シルック王国は15世紀末頃、英雄ニイカングによって白ナイル西岸に建てられた。神聖王レスはファショダを中心に人口の多い川沿いの地を治め、シルックの戦闘用カヌーは時にナイル沿いを襲撃し、王国は北方のフンジ・スルタン国（センナール）とも関わりを持った。19世紀半ばから北部の商人とトルコ・エジプト勢力によって独立は侵食されたが、王位は文化的制度として今日まで存続している。"
+   }
+  },
+  {
+   "from": 1500,
+   "to": 1821,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Age of migrations and chiefdoms",
+    "ko": "이주와 부족 사회의 시대",
+    "zh": "迁徙与酋邦时代",
+    "ja": "移住と首長社会の時代"
+   },
+   "summary": {
+    "en": "Between the 16th and early 19th centuries the peoples of the region took on much of their present distribution. Luo-speaking groups moved southward towards present-day Uganda and Kenya, Dinka sections spread across the plains, and in the southwest the Avongara clan began building the Azande kingdoms. Without states of the northern Sudanese type, most communities were governed by elders, spiritual leaders and rain-makers such as the Bari rain chiefs.",
+    "ko": "16세기부터 19세기 초 사이에 이 지역 민족들은 대체로 오늘날과 같은 분포를 갖추게 되었다. 루오어계 집단은 오늘날의 우간다와 케냐 쪽으로 남하했고, 딩카의 여러 분파는 평원 전역으로 퍼졌으며, 남서부에서는 아봉가라 씨족이 아잔데 왕국들을 세우기 시작했다. 북부 수단식 국가가 없는 가운데 대부분의 공동체는 장로와 영적 지도자, 그리고 바리족의 기우사(祈雨師) 추장 같은 이들이 다스렸다.",
+    "zh": "16世纪至19世纪初，该地区各民族大体形成了今天的分布格局。说卢奥语的群体向今乌干达和肯尼亚方向南迁，丁卡人各支系散布于平原各地，西南部的阿冯加拉氏族则开始建立阿赞德诸王国。由于没有北苏丹式的国家，大多数社群由长老、宗教领袖以及巴里人的祈雨酋长等人治理。",
+    "ja": "16世紀から19世紀初めにかけて、この地域の諸民族はおおむね現在の分布を形づくった。ルオ語系の集団は現在のウガンダやケニアの方へ南下し、ディンカの諸支族は平原一帯に広がり、南西部ではアヴォンガラ氏族がアザンデ諸王国を築き始めた。北部スーダン型の国家がないなか、多くの共同体は長老や宗教的指導者、バリ人の雨乞い首長などによって治められた。"
+   }
+  },
+  {
+   "from": 1750,
+   "to": 1905,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Azande kingdoms",
+    "ko": "아잔데 왕국들",
+    "zh": "阿赞德诸王国",
+    "ja": "アザンデ諸王国"
+   },
+   "summary": {
+    "en": "In the Nile–Congo watershed of present-day Western Equatoria, Azande rulers of the Avongara aristocratic clan conquered and absorbed neighbouring peoples from the 18th century onward, creating a cluster of kingdoms. In the 19th century they resisted ivory and slave traders from the north and Congolese forces from the south. King Gbudwe, the most powerful of these rulers, was killed in 1905 fighting Anglo-Egyptian forces, after which the area was absorbed into colonial Sudan.",
+    "ko": "오늘날 서에콰토리아의 나일강·콩고강 분수계에서는 18세기부터 아봉가라 귀족 씨족 출신의 아잔데 지배자들이 이웃 민족을 정복·흡수하여 여러 왕국을 세웠다. 19세기에 그들은 북쪽에서 온 상아·노예 상인과 남쪽의 콩고 세력에 맞섰다. 가장 강력한 군주였던 그부드웨 왕은 1905년 영국·이집트군과 싸우다 전사했고, 이후 이 지역은 식민지 수단에 편입되었다.",
+    "zh": "在今西赤道州的尼罗河－刚果河分水岭一带，阿冯加拉贵族氏族出身的阿赞德统治者自18世纪起征服并同化邻近民族，建立了一系列王国。19世纪，他们抵抗来自北方的象牙和奴隶贩子以及来自南方的刚果势力。其中最强大的统治者格布德韦国王于1905年在与英埃军队作战时阵亡，此后该地区被并入殖民地苏丹。",
+    "ja": "現在の西エクアトリアにあたるナイル・コンゴ分水界では、18世紀以降アヴォンガラ貴族氏族のアザンデ支配者が近隣の諸民族を征服・吸収し、いくつもの王国を築いた。19世紀には北方からの象牙・奴隷商人や南方のコンゴ勢力に抵抗した。最も強力な君主グブドウェ王は1905年に英埃軍との戦いで戦死し、その後この地域は植民地スーダンに組み込まれた。"
+   }
+  },
+  {
+   "from": 1821,
+   "to": 1885,
+   "kind": "colonial",
+   "qid": "Q127861",
+   "polity": "Khedivate of Egypt",
+   "name": {
+    "en": "Turco-Egyptian rule (Turkiyya)",
+    "ko": "투르크·이집트 지배기(투르키야)",
+    "zh": "土耳其－埃及统治时期",
+    "ja": "トルコ・エジプト支配期（トルキーヤ）"
+   },
+   "summary": {
+    "en": "After Muhammad Ali's Egypt conquered northern Sudan in 1821, government expeditions forced a passage through the Sudd in 1839–1842 and opened the south to traders from Khartoum. Armed ivory and slave traders built fortified camps (zaribas) across the Bahr el Ghazal and Upper Nile, devastating many communities. From the 1860s the Khedivate formally annexed the region as the provinces of Equatoria and Bahr el Ghazal, governed by Europeans such as Samuel Baker, Charles Gordon and Emin Pasha, until the Mahdist uprising cut it off.",
+    "ko": "1821년 무함마드 알리의 이집트가 북부 수단을 정복한 뒤, 정부 원정대는 1839~1842년 수드 습지를 뚫고 남부를 하르툼 상인들에게 열었다. 무장한 상아·노예 상인들은 바르엘가잘과 상나일 곳곳에 요새화된 거점(자리바)을 세워 많은 공동체를 황폐화했다. 1860년대부터 케디브국은 이 지역을 에콰토리아와 바르엘가잘 주로 공식 병합하고 새뮤얼 베이커, 찰스 고든, 에민 파샤 같은 유럽인에게 통치를 맡겼으나, 마흐디 봉기로 본국과 단절되었다.",
+    "zh": "1821年穆罕默德·阿里统治下的埃及征服北苏丹后，政府远征队于1839至1842年间打通了苏德沼泽，使南方向喀土穆商人敞开。武装的象牙和奴隶贩子在加扎勒河和上尼罗河各地修建设防营地（扎里巴），使众多社群遭受浩劫。自1860年代起，赫迪夫政权正式将该地区并为赤道省和加扎勒河省，由塞缪尔·贝克、查尔斯·戈登和艾敏帕夏等欧洲人治理，直到马赫迪起义切断了它与北方的联系。",
+    "ja": "1821年にムハンマド・アリーのエジプトが北部スーダンを征服した後、政府の遠征隊は1839〜1842年にスッド湿地を突破し、南部をハルツームの商人に開いた。武装した象牙・奴隷商人はバハル・アル・ガザールや上ナイル各地に要塞化した拠点（ザリーバ）を築き、多くの共同体を荒廃させた。1860年代から副王政府はこの地域をエクアトリア州とバハル・アル・ガザール州として正式に併合し、サミュエル・ベイカー、チャールズ・ゴードン、エミン・パシャらヨーロッパ人に統治させたが、マフディー運動の蜂起によって切り離された。"
+   }
+  },
+  {
+   "from": 1884,
+   "to": 1898,
+   "kind": "state",
+   "qid": "Q3125368",
+   "polity": "Mahdist State",
+   "name": {
+    "en": "Mahdist period",
+    "ko": "마흐디국 시기",
+    "zh": "马赫迪国时期",
+    "ja": "マフディー国家の時代"
+   },
+   "summary": {
+    "en": "The Mahdist revolt that swept northern Sudan in the early 1880s reached the south in 1884, when the Egyptian governor of Bahr el Ghazal surrendered. Mahdist garrisons held stations on the Nile such as Rejaf and Bor, but their control over the southern peoples was limited and contested. Emin Pasha's Equatorial garrison held out until 1889, and the Mahdist presence ended with the Anglo-Egyptian reconquest of 1898.",
+    "ko": "1880년대 초 북부 수단을 휩쓴 마흐디 봉기는 1884년 바르엘가잘의 이집트 총독이 항복하면서 남부에까지 미쳤다. 마흐디군은 레자프와 보르 같은 나일강변 거점에 수비대를 두었으나, 남부 민족들에 대한 통제는 제한적이었고 늘 도전을 받았다. 에민 파샤의 에콰토리아 수비대는 1889년까지 버텼으며, 마흐디 세력은 1898년 영국·이집트의 재정복으로 사라졌다.",
+    "zh": "1880年代初席卷北苏丹的马赫迪起义于1884年波及南方，当时埃及任命的加扎勒河省总督投降。马赫迪军在雷贾夫、博尔等尼罗河沿岸据点驻军，但对南方各民族的控制有限且屡遭挑战。艾敏帕夏的赤道省守军坚持到1889年，而马赫迪势力随着1898年英埃联军的再征服而告终。",
+    "ja": "1880年代初めに北部スーダンを席巻したマフディー運動の蜂起は、1884年にバハル・アル・ガザールのエジプト人総督が降伏したことで南部にも及んだ。マフディー軍はレジャフやボルなどナイル沿いの拠点に守備隊を置いたが、南部諸民族への支配は限られ、常に挑戦を受けた。エミン・パシャのエクアトリア守備隊は1889年まで持ちこたえ、マフディー勢力は1898年の英埃軍による再征服で姿を消した。"
+   }
+  },
+  {
+   "from": 1894,
+   "to": 1910,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Lado Enclave (Congo Free State)",
+    "ko": "라도 엔클레이브(콩고 자유국)",
+    "zh": "拉多飞地（刚果自由邦）",
+    "ja": "ラド飛び地（コンゴ自由国）"
+   },
+   "summary": {
+    "en": "Under an 1894 agreement with Britain, King Leopold II of Belgium leased the Lado Enclave, a strip on the west bank of the Nile including the Lado and Rejaf area near present-day Juba, as part of his Congo Free State. Congolese troops drove the Mahdists from Rejaf in 1897 and occupied the territory, which became notorious for elephant hunting. The lease ended after Leopold's death, and the enclave was handed over to Anglo-Egyptian Sudan in 1910.",
+    "ko": "1894년 영국과의 협정에 따라 벨기에 국왕 레오폴드 2세는 오늘날 주바 근처의 라도·레자프 일대를 포함한 나일강 서안의 띠 모양 땅인 라도 엔클레이브를 콩고 자유국의 일부로 조차했다. 콩고군은 1897년 레자프에서 마흐디군을 몰아내고 이 지역을 점령했으며, 이곳은 코끼리 사냥으로 악명을 떨쳤다. 조차는 레오폴드가 죽은 뒤 끝났고, 엔클레이브는 1910년 영국·이집트령 수단에 넘겨졌다.",
+    "zh": "根据1894年与英国的协定，比利时国王利奥波德二世将拉多飞地作为其刚果自由邦的一部分租借下来。这是尼罗河西岸的一条狭长地带，包括今朱巴附近的拉多和雷贾夫一带。刚果军队于1897年将马赫迪军逐出雷贾夫并占领该地，此地后来以猎杀大象而臭名昭著。利奥波德去世后租约终止，飞地于1910年移交英埃苏丹。",
+    "ja": "1894年のイギリスとの協定により、ベルギー国王レオポルド2世は、現在のジュバ近くのラドやレジャフ一帯を含むナイル西岸の細長い土地ラド飛び地を、コンゴ自由国の一部として租借した。コンゴ軍は1897年にレジャフからマフディー軍を追い出してこの地を占領し、ここは象狩りで悪名をはせた。租借はレオポルドの死後に終わり、飛び地は1910年に英埃領スーダンへ引き渡された。"
+   }
+  },
+  {
+   "from": 1899,
+   "to": 1955,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "British Africa",
+   "name": {
+    "en": "Anglo-Egyptian Sudan",
+    "ko": "영국·이집트령 수단",
+    "zh": "英埃苏丹",
+    "ja": "英埃領スーダン"
+   },
+   "summary": {
+    "en": "After the reconquest of 1898, Sudan was ruled as an Anglo-Egyptian condominium, in practice by British officials. The southern provinces were 'pacified' through decades of military patrols against Nuer, Dinka, Azande and other peoples, then administered under a 'Southern Policy' of indirect rule through chiefs, closed districts, Christian mission schools and the English language, separate from the Arabic-speaking north. In 1946–1947 the British reversed course and decided the south would be joined with the north, leaving the region poorly prepared for independence.",
+    "ko": "1898년 재정복 이후 수단은 영국·이집트 공동통치령이 되었으나 실제로는 영국 관리들이 다스렸다. 남부 주들은 누에르·딩카·아잔데 등 여러 민족을 상대로 한 수십 년간의 군사 토벌로 '평정'된 뒤, 아랍어권 북부와 분리된 '남부 정책' 아래 추장을 통한 간접 통치, 폐쇄 구역, 기독교 선교 학교, 영어 교육으로 운영되었다. 1946~1947년 영국은 방침을 뒤집어 남부를 북부와 합치기로 결정했고, 이 지역은 독립에 대한 준비가 거의 되지 않은 상태로 남겨졌다.",
+    "zh": "1898年再征服后，苏丹成为英埃共管地，实际上由英国官员统治。南方各省经过数十年针对努尔人、丁卡人、阿赞德人等民族的军事“绥靖”行动后，在“南方政策”下与讲阿拉伯语的北方分开治理：通过酋长实行间接统治、设立封闭区、依靠基督教传教士学校并推行英语教育。1946至1947年英国改变方针，决定将南方与北方合并，使这一地区在独立前几乎毫无准备。",
+    "ja": "1898年の再征服の後、スーダンは英埃共同統治領となったが、実際にはイギリス人官吏が統治した。南部諸州はヌエル、ディンカ、アザンデなどに対する数十年にわたる軍事討伐で「平定」された後、アラビア語圏の北部とは切り離された「南部政策」のもと、首長を通じた間接統治、閉鎖地区、キリスト教ミッションスクール、英語教育によって統治された。1946〜1947年にイギリスは方針を転換して南部を北部と統合することを決め、この地域は独立への備えがほとんどないまま残された。"
+   }
+  },
+  {
+   "from": 1956,
+   "to": 2011,
+   "kind": "state",
+   "qid": "Q1049",
+   "polity": "Republic of Sudan",
+   "name": {
+    "en": "Southern Sudan within the Republic of Sudan",
+    "ko": "수단 공화국 시기의 남부 수단",
+    "zh": "苏丹共和国时期的南苏丹地区",
+    "ja": "スーダン共和国時代の南部スーダン"
+   },
+   "summary": {
+    "en": "From independence on 1 January 1956 until 2011, the south was part of the Republic of Sudan, governed from Khartoum by successive parliamentary and military regimes. Southern demands for federation or self-rule, and northern policies of Arabisation and Islamisation, led to two long civil wars (1955–1972 and 1983–2005) separated by a decade of regional autonomy. Wars, famine and displacement killed well over two million people in total and shaped a strong southern political identity.",
+    "ko": "1956년 1월 1일 독립부터 2011년까지 남부는 수단 공화국의 일부로서, 하르툼의 의회 정부와 군사 정권들의 통치를 차례로 받았다. 연방제나 자치를 요구한 남부와 아랍화·이슬람화를 추진한 북부 정책이 충돌하면서, 10년간의 지역 자치기를 사이에 둔 두 차례의 긴 내전(1955~1972, 1983~2005)이 벌어졌다. 전쟁과 기근, 피란으로 모두 200만 명을 훨씬 넘는 사람이 목숨을 잃었고, 이는 강한 남부의 정치적 정체성을 형성했다.",
+    "zh": "从1956年1月1日独立到2011年，南方是苏丹共和国的一部分，先后受喀土穆的议会政府和军政权统治。南方要求联邦制或自治，而北方推行阿拉伯化和伊斯兰化政策，二者冲突导致了两场漫长的内战（1955—1972年和1983—2005年），其间夹着十年的地区自治。战争、饥荒和流离失所共造成远超两百万人死亡，也塑造了强烈的南方政治认同。",
+    "ja": "1956年1月1日の独立から2011年まで、南部はスーダン共和国の一部として、ハルツームの議会政府や軍事政権に次々と統治された。連邦制や自治を求める南部と、アラブ化・イスラーム化を進める北部の政策が衝突し、10年間の地域自治期を挟んで二度の長い内戦（1955〜1972年、1983〜2005年）が起きた。戦争、飢饉、避難によって合わせて200万人をはるかに超える人々が命を落とし、強い南部の政治的アイデンティティが形づくられた。"
+   }
+  },
+  {
+   "from": 1972,
+   "to": 1983,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Southern Region autonomy",
+    "ko": "남부 지역 자치기",
+    "zh": "南方地区自治时期",
+    "ja": "南部地域自治期"
+   },
+   "summary": {
+    "en": "The Addis Ababa Agreement of 1972 created a self-governing Southern Region with its own High Executive Council and Regional Assembly in Juba, and many Anyanya fighters were absorbed into the national army. The decade brought relative peace, the return of refugees and some reconstruction, but development remained slow. Disputes over oil discovered near Bentiu, the Jonglei Canal and boundaries, and President Nimeiri's 1983 decision to divide the region and impose sharia, ended the arrangement.",
+    "ko": "1972년 아디스아바바 협정으로 주바에 고등집행위원회와 지역의회를 둔 자치 남부 지역이 설치되었고, 많은 아냐냐 전투원이 국군에 편입되었다. 이 10년 동안 비교적 평화가 이어지고 난민이 귀환했으며 일부 재건도 이뤄졌지만, 개발은 더뎠다. 벤티우 부근에서 발견된 석유, 종글레이 운하, 경계 문제를 둘러싼 갈등과 1983년 누메이리 대통령의 지역 분할 및 샤리아 도입 결정으로 이 체제는 끝났다.",
+    "zh": "1972年的《亚的斯亚贝巴协议》设立了自治的南方地区，在朱巴设有最高执行委员会和地区议会，许多“阿尼亚尼亚”战士被编入国军。这十年带来了相对的和平、难民回归和一定程度的重建，但发展依旧缓慢。围绕本提乌附近发现的石油、琼莱运河和边界的争端，加上尼迈里总统1983年决定分割南方地区并推行伊斯兰教法，终结了这一安排。",
+    "ja": "1972年のアディスアベバ合意によって、ジュバに高等執行評議会と地域議会を置く自治的な南部地域が設けられ、多くのアニャニャ戦闘員が国軍に編入された。この10年間は比較的平和が続き、難民が帰還し一定の復興も進んだが、開発は遅れたままだった。ベンティウ近くで発見された石油、ジョングレイ運河、境界をめぐる対立と、1983年にヌメイリ大統領が地域の分割とシャリーア導入を決めたことで、この体制は終わった。"
+   }
+  },
+  {
+   "from": 2005,
+   "to": 2011,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Autonomous Government of Southern Sudan",
+    "ko": "남부 수단 자치정부 시기",
+    "zh": "南苏丹自治政府时期",
+    "ja": "南部スーダン自治政府期"
+   },
+   "summary": {
+    "en": "The Comprehensive Peace Agreement of 2005 created an autonomous Government of Southern Sudan in Juba, led by the SPLM, which also shared power in Khartoum. The south received roughly half of the oil revenue from its fields and kept its own army, the SPLA. This interim period, marked by John Garang's sudden death and tensions over Abyei and the border, ended with the 2011 referendum in which southerners voted overwhelmingly for independence.",
+    "ko": "2005년 포괄적 평화협정으로 수단인민해방운동(SPLM)이 이끄는 남부 수단 자치정부가 주바에 세워졌고, SPLM은 하르툼의 중앙 권력도 나누어 맡았다. 남부는 자기 지역 유전에서 나오는 석유 수입의 약 절반을 받았고 독자 군대인 SPLA를 유지했다. 존 가랑의 급작스러운 죽음과 아비에이·국경을 둘러싼 긴장으로 얼룩진 이 과도기는, 남부 주민이 압도적으로 독립을 선택한 2011년 주민투표로 끝났다.",
+    "zh": "2005年的《全面和平协议》在朱巴设立了由苏丹人民解放运动领导的南苏丹自治政府，该运动同时在喀土穆分享权力。南方获得其油田约一半的石油收入，并保留自己的军队——苏丹人民解放军。这一过渡期经历了约翰·加朗的突然离世以及围绕阿卜耶伊和边界的紧张局势，最终以2011年南方民众压倒性支持独立的公投告终。",
+    "ja": "2005年の包括的和平合意により、スーダン人民解放運動（SPLM）が率いる南部スーダン自治政府がジュバに置かれ、SPLMはハルツームの中央政府でも権力を分担した。南部は自地域の油田からの石油収入のおよそ半分を受け取り、独自の軍であるSPLAを保持した。ジョン・ガランの突然の死やアビエイ・境界をめぐる緊張に彩られたこの暫定期間は、南部住民が圧倒的多数で独立を選んだ2011年の住民投票で終わった。"
+   }
+  },
+  {
+   "from": 2011,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q958",
+   "polity": "South Sudan",
+   "name": {
+    "en": "Republic of South Sudan",
+    "ko": "남수단 공화국",
+    "zh": "南苏丹共和国",
+    "ja": "南スーダン共和国"
+   },
+   "summary": {
+    "en": "South Sudan became independent on 9 July 2011 with Juba as its capital and Salva Kiir as president, inheriting most of Sudan's oil fields but almost no infrastructure. Within two and a half years a power struggle between Kiir and Riek Machar plunged the country into a civil war marked by ethnic killings, famine and mass displacement. Peace agreements in 2015 and 2018 led to a transitional unity government, but repeated delays to elections, local violence, floods and economic crisis continue to challenge the young state.",
+    "ko": "남수단은 2011년 7월 9일 주바를 수도로, 살바 키르를 대통령으로 하여 독립했으며, 수단 유전의 대부분을 물려받았지만 기반 시설은 거의 없었다. 독립 2년 반 만에 키르와 리에크 마차르의 권력 다툼이 내전으로 번져, 민족 간 학살과 기근, 대규모 피란이 이어졌다. 2015년과 2018년의 평화협정으로 과도 통합정부가 들어섰지만, 거듭된 선거 연기와 지역 폭력, 홍수, 경제 위기가 신생국을 계속 괴롭히고 있다.",
+    "zh": "南苏丹于2011年7月9日独立，以朱巴为首都、萨尔瓦·基尔为总统，继承了苏丹的大部分油田，却几乎没有任何基础设施。独立仅两年半，基尔与里克·马沙尔之间的权力斗争就使国家陷入内战，伴随着族群屠杀、饥荒和大规模流离失所。2015年和2018年的和平协议催生了过渡团结政府，但选举一再推迟、地方暴力、洪灾和经济危机仍在困扰这个年轻的国家。",
+    "ja": "南スーダンは2011年7月9日、ジュバを首都、サルバ・キールを大統領として独立し、スーダンの油田の大半を受け継いだが、インフラはほとんどなかった。独立からわずか2年半でキールとリエック・マシャールの権力闘争が内戦に発展し、民族間の殺戮、飢饉、大規模な避難が続いた。2015年と2018年の和平合意を経て暫定統一政府が発足したが、度重なる選挙の延期、地域的な暴力、洪水、経済危機がこの若い国家を苦しめ続けている。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Foragers and fishers of the Upper Nile",
+    "ko": "상나일의 수렵채집민과 어로민",
+    "zh": "上尼罗河的采集者与渔民",
+    "ja": "上ナイルの狩猟採集民と漁労民"
+   },
+   "description": {
+    "en": "Around the start of the third millennium BC, the lands of present-day South Sudan were inhabited by small communities of hunter-gatherers and fishers who exploited the rivers, swamps and seasonally flooded grasslands. Over the following millennia, cattle herding and cereal farming spread into the region from the north and east. Archaeological work in the country remains sparse, so the timing of these changes is still poorly known.",
+    "ko": "기원전 3천년기 초 무렵 오늘날 남수단 땅에는 강과 습지, 계절적으로 물에 잠기는 초원을 이용하며 사는 수렵채집민과 어로민의 작은 공동체들이 살았다. 이후 수천 년에 걸쳐 소 목축과 곡물 농경이 북쪽과 동쪽에서 이 지역으로 전해졌다. 이 나라의 고고학 조사는 아직 드물어, 이러한 변화의 시기는 여전히 잘 알려져 있지 않다.",
+    "zh": "约在公元前第三千年初，今南苏丹境内生活着依靠河流、沼泽和季节性淹没草原为生的小型狩猎采集和渔猎社群。在随后的几千年里，养牛业和谷物农业从北方和东方传入该地区。由于该国的考古工作仍很稀少，这些变化发生的确切时间至今不甚清楚。",
+    "ja": "紀元前3千年紀の初め頃、現在の南スーダンの地には、川や湿地、季節的に冠水する草原を利用して暮らす狩猟採集民や漁労民の小さな共同体が住んでいた。その後の数千年の間に、牛の牧畜と穀物農耕が北や東からこの地域に伝わった。この国の考古学調査はまだ少なく、こうした変化の時期はよく分かっていない。"
+   }
+  },
+  {
+   "year": 61,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Nero's explorers reach the Sudd",
+    "ko": "네로의 탐험대가 수드 습지에 이르다",
+    "zh": "尼禄的探险队抵达苏德沼泽",
+    "ja": "ネロの探検隊がスッド湿地に到達"
+   },
+   "description": {
+    "en": "Around AD 61–63 the Roman emperor Nero sent a small party, including two centurions, up the Nile to search for its source. According to Seneca, they travelled beyond Meroë and were stopped by immense marshes choked with vegetation, almost certainly the Sudd of present-day South Sudan. The swamps would block further exploration of the White Nile for nearly eighteen centuries.",
+    "ko": "서기 61~63년 무렵 로마 황제 네로는 두 명의 백인대장을 포함한 소규모 탐험대를 나일강 상류로 보내 그 수원을 찾게 했다. 세네카에 따르면 그들은 메로에를 지나 식물로 뒤덮인 거대한 습지에 가로막혔는데, 이는 거의 확실히 오늘날 남수단의 수드 습지였다. 이 습지는 이후 거의 18세기 동안 백나일 탐사를 가로막았다.",
+    "zh": "约公元61至63年，罗马皇帝尼禄派遣包括两名百夫长在内的一支小队沿尼罗河上溯，寻找其源头。据塞涅卡记载，他们越过麦罗埃后，被植被堵塞的广阔沼泽所阻，这几乎可以肯定就是今南苏丹的苏德沼泽。此后近十八个世纪，这片沼泽一直阻碍着人们对白尼罗河的进一步探索。",
+    "ja": "紀元61〜63年頃、ローマ皇帝ネロは2人の百人隊長を含む小規模な一行をナイル上流に派遣し、その源流を探らせた。セネカによれば、彼らはメロエを越えた先で植物に覆われた巨大な湿地に行く手を阻まれたが、これはほぼ確実に現在の南スーダンのスッド湿地であった。この湿地はその後およそ18世紀にわたって白ナイルの探検を阻んだ。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Nilotic peoples settle the Nile plains",
+    "ko": "나일계 민족의 정착",
+    "zh": "尼罗特民族定居尼罗河平原",
+    "ja": "ナイル系諸民族の定住"
+   },
+   "description": {
+    "en": "Ancestors of the Dinka, Nuer, Shilluk, and other Nilotic peoples gradually settled the savannas and wetlands of the White Nile, developing cattle-centered cultures that still define much of South Sudanese life.",
+    "ko": "딩카족, 누에르족, 실루크족 등 나일계 민족의 조상들이 백나일강 유역의 사바나와 습지에 정착해 소를 중심으로 한 문화를 발전시켰다. 이 전통은 오늘날에도 남수단인의 삶에 깊이 남아 있다.",
+    "zh": "丁卡人、努尔人、希卢克人等尼罗特民族的祖先逐渐定居于白尼罗河流域的草原和湿地，发展出以牛为中心的文化，至今仍深刻影响着南苏丹人的生活。",
+    "ja": "ディンカ人、ヌエル人、シルック人などナイル系諸民族の祖先が白ナイル川流域のサバンナと湿地に定住し、牛を中心とする文化を育んだ。この伝統は今も南スーダンの人々の暮らしに息づいている。"
+   }
+  },
+  {
+   "year": 1450,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Dispersal of the Luo peoples",
+    "ko": "루오계 민족의 분산",
+    "zh": "卢奥人的迁徙扩散",
+    "ja": "ルオ系諸民族の拡散"
+   },
+   "description": {
+    "en": "According to oral traditions, Luo-speaking groups began moving out of the Bahr el Ghazal region of present-day South Sudan around the 15th century. Some settled along the White Nile, giving rise to the Shilluk and Anuak, while others migrated south to become the Acholi, Alur and Luo of Uganda and Kenya. The movements, dated only approximately, profoundly shaped the ethnic map of East Africa.",
+    "ko": "구전에 따르면 루오어를 쓰는 집단들은 15세기 무렵 오늘날 남수단의 바르엘가잘 지역에서 이동하기 시작했다. 일부는 백나일강을 따라 정착해 실루크족과 아누아크족이 되었고, 다른 일부는 남쪽으로 이주해 우간다와 케냐의 아촐리족·알루르족·루오족이 되었다. 대략적으로만 연대를 추정할 수 있는 이 이동은 동아프리카의 민족 지도를 크게 바꾸었다.",
+    "zh": "据口述传统，说卢奥语的群体约在15世纪开始从今南苏丹的加扎勒河地区向外迁移。一部分沿白尼罗河定居，形成了希卢克人和阿努阿克人；另一部分南迁，成为乌干达和肯尼亚的阿乔利人、阿卢尔人和卢奥人。这些只能大致断代的迁徙深刻塑造了东非的民族版图。",
+    "ja": "口承伝承によれば、ルオ語を話す集団は15世紀頃から現在の南スーダンのバハル・アル・ガザール地方を離れ始めた。一部は白ナイル沿いに定住してシルック人やアヌアク人となり、他の一部は南へ移ってウガンダやケニアのアチョリ人、アルル人、ルオ人となった。おおよその年代しか分からないこの移動は、東アフリカの民族分布を大きく形づくった。"
+   }
+  },
+  {
+   "year": 1490,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Shilluk Kingdom founded on the White Nile",
+    "ko": "백나일강의 실루크 왕국 건국",
+    "zh": "希卢克王国在白尼罗河畔建立",
+    "ja": "白ナイルにシルック王国が成立"
+   },
+   "description": {
+    "en": "According to tradition, the cultural hero Nyikang founded the Shilluk Kingdom along the White Nile around the late 15th century. Its divine kingship, centered at Fashoda, endures as one of the region's oldest institutions.",
+    "ko": "전승에 따르면 15세기 말 무렵 영웅 니캉이 백나일강 유역에 실루크 왕국을 세웠다. 파쇼다를 중심으로 한 신성 왕권은 이 지역에서 가장 오래된 제도의 하나로 이어지고 있다.",
+    "zh": "据传说，文化英雄尼康约在15世纪末于白尼罗河畔建立希卢克王国。以法绍达为中心的神圣王权延续至今，是该地区最古老的制度之一。",
+    "ja": "伝承によれば、15世紀末ごろ文化英雄ニカングが白ナイル川流域にシルック王国を建てた。ファショダを中心とする神聖王権は、この地域で最も古い制度の一つとして続いている。"
+   }
+  },
+  {
+   "year": 1800,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Azande kingdoms expand",
+    "ko": "아잔데 왕국의 팽창",
+    "zh": "阿赞德诸王国扩张",
+    "ja": "アザンデ諸王国の拡大"
+   },
+   "description": {
+    "en": "By around 1800, ruling lineages of the Avongara clan were leading Azande warriors eastward and northward across the Nile–Congo watershed. Conquered peoples were absorbed as subjects, and the realm repeatedly split as royal sons founded their own kingdoms. The resulting Azande states covered much of present-day Western Equatoria and neighbouring parts of the Congo and Central African Republic.",
+    "ko": "1800년 무렵 아봉가라 씨족의 지배 가문들은 아잔데 전사들을 이끌고 나일강·콩고강 분수계를 넘어 동쪽과 북쪽으로 진출하고 있었다. 정복된 민족은 신민으로 흡수되었고, 왕자들이 저마다 왕국을 세우면서 나라는 거듭 나뉘었다. 그 결과 생겨난 아잔데 국가들은 오늘날 서에콰토리아의 상당 부분과 인접한 콩고·중앙아프리카공화국 일부에 걸쳐 있었다.",
+    "zh": "约至1800年，阿冯加拉氏族的统治世系率领阿赞德武士越过尼罗河－刚果河分水岭向东、向北扩张。被征服的民族被吸纳为臣民，而王子们各自建立王国，使国家屡次分裂。由此形成的阿赞德诸国覆盖了今西赤道州的大部分以及刚果和中非共和国的邻近地区。",
+    "ja": "1800年頃までに、アヴォンガラ氏族の支配家系はアザンデの戦士を率いてナイル・コンゴ分水界を越え、東や北へ進出していた。征服された民族は臣民として吸収され、王子たちがそれぞれ王国を建てたことで国は繰り返し分かれた。こうして生まれたアザンデ諸国は、現在の西エクアトリアの大部分と、隣接するコンゴや中央アフリカ共和国の一部に広がった。"
+   }
+  },
+  {
+   "year": 1821,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Turco-Egyptian conquest and slave raids",
+    "ko": "투르크·이집트의 정복과 노예사냥",
+    "zh": "土埃征服与奴隶掠夺",
+    "ja": "トルコ・エジプトによる征服と奴隷狩り"
+   },
+   "description": {
+    "en": "Muhammad Ali's Egypt conquered Sudan and pushed south seeking ivory and slaves. Devastating raids on southern peoples in the following decades left deep scars and lasting mistrust between north and south.",
+    "ko": "무함마드 알리의 이집트가 수단을 정복한 뒤 상아와 노예를 찾아 남쪽으로 세력을 넓혔다. 이후 수십 년간 남부 민족들을 겨냥한 약탈과 노예사냥은 깊은 상처와 남북 간의 불신을 남겼다.",
+    "zh": "穆罕默德·阿里治下的埃及征服苏丹后，为攫取象牙和奴隶向南扩张。此后数十年对南方各族的劫掠和奴隶贸易留下深重创伤，埋下南北之间长期不信任的根源。",
+    "ja": "ムハンマド・アリー統治下のエジプトがスーダンを征服し、象牙と奴隷を求めて南進した。以後数十年に及ぶ南部諸民族への襲撃と奴隷狩りは深い傷跡を残し、南北間の根深い不信を生んだ。"
+   }
+  },
+  {
+   "year": 1830,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Nuer expansion east of the Nile",
+    "ko": "누에르족의 나일강 동쪽 진출",
+    "zh": "努尔人向尼罗河以东扩张",
+    "ja": "ヌエル人のナイル東岸への拡大"
+   },
+   "description": {
+    "en": "In the first half of the 19th century, Nuer sections crossed from their homeland west of the White Nile into the lands east of the river, pushing far into territory held by Dinka and Anuak communities. Through raiding and the absorption of many Dinka into their own society, the Nuer greatly enlarged their territory by the 1860s. The expansion created the settlement patterns, and many of the local rivalries, of present-day Jonglei and Upper Nile.",
+    "ko": "19세기 전반 누에르족의 여러 분파는 백나일강 서쪽의 본거지에서 강 동쪽으로 건너가 딩카족과 아누아크족의 땅 깊숙이 진출했다. 습격과 함께 많은 딩카인을 자신들의 사회로 흡수하면서, 누에르족은 1860년대까지 영역을 크게 넓혔다. 이 팽창은 오늘날 종글레이와 상나일의 거주 양상과 여러 지역적 경쟁 관계를 만들어 냈다.",
+    "zh": "19世纪上半叶，努尔人的各支系从白尼罗河以西的故地渡河东进，深入丁卡人和阿努阿克人的领地。通过劫掠以及将大量丁卡人吸收进自身社会，努尔人到1860年代大大扩展了领土。这次扩张形成了今琼莱州和上尼罗州的聚居格局，也埋下了许多地方性对立的根源。",
+    "ja": "19世紀前半、ヌエルの諸支族は白ナイル西岸の故地から川の東側へ渡り、ディンカやアヌアクの土地の奥深くまで進出した。襲撃とともに多くのディンカ人を自らの社会に取り込むことで、ヌエルは1860年代までに領域を大きく広げた。この拡大は、現在のジョングレイや上ナイルの居住パターンと、多くの地域的対立を生み出した。"
+   }
+  },
+  {
+   "year": 1839,
+   "qid": null,
+   "importance": 1,
+   "category": "science",
+   "title": {
+    "en": "Egyptian expeditions break through the Sudd",
+    "ko": "이집트 원정대의 수드 습지 돌파",
+    "zh": "埃及远征队打通苏德沼泽",
+    "ja": "エジプト遠征隊がスッド湿地を突破"
+   },
+   "description": {
+    "en": "Between 1839 and 1842 Muhammad Ali sent three river expeditions led by Salim Qapudan up the White Nile. The second reached the Bari country near present-day Juba, becoming the first known outside expedition to navigate through the Sudd. The voyages opened the southern Nile to Khartoum-based traders in ivory and, soon, in slaves.",
+    "ko": "1839년부터 1842년까지 무함마드 알리는 살림 카푸단이 이끄는 세 차례의 하천 원정대를 백나일 상류로 보냈다. 두 번째 원정대는 오늘날 주바 근처의 바리족 땅에 이르러, 수드 습지를 뚫고 항행한 최초의 외부 원정대로 알려지게 되었다. 이 항해들은 남부 나일강을 하르툼의 상아 상인, 그리고 곧이어 노예 상인들에게 열어 주었다.",
+    "zh": "1839年至1842年间，穆罕默德·阿里派遣萨利姆·卡普丹率领的三支船队沿白尼罗河上溯。第二次远征抵达今朱巴附近的巴里人地区，成为已知第一支穿越苏德沼泽的外来探险队。这些航行使南尼罗河向喀土穆的象牙商人、随后又向奴隶贩子敞开了大门。",
+    "ja": "1839年から1842年にかけて、ムハンマド・アリーはサリーム・カプダン率いる3回の河川遠征隊を白ナイル上流へ送った。2回目の遠征は現在のジュバ近くのバリ人の地に達し、スッド湿地を通り抜けて航行した最初の外部の遠征隊として知られる。これらの航海によって南部ナイルはハルツームの象牙商人、やがて奴隷商人に開かれた。"
+   }
+  },
+  {
+   "year": 1851,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Catholic mission at Gondokoro",
+    "ko": "곤도코로의 가톨릭 선교회",
+    "zh": "冈多科罗天主教传教站",
+    "ja": "ゴンドコロのカトリック伝道所"
+   },
+   "description": {
+    "en": "In the early 1850s the Catholic Mission of Central Africa under the Slovenian priest Ignaz Knoblecher established stations among the Bari at Gondokoro and later at Holy Cross among the Dinka. Disease killed many of the missionaries, and the stations were abandoned in the following decade. These short-lived ventures were nevertheless the first Christian missions in the region.",
+    "ko": "1850년대 초 슬로베니아 출신 사제 이그나츠 크노블레허가 이끄는 중앙아프리카 가톨릭 선교회는 곤도코로의 바리족 사이에, 그리고 이후 딩카족 지역의 홀리크로스에 선교 거점을 세웠다. 질병으로 많은 선교사가 목숨을 잃었고, 거점들은 이후 10년 안에 버려졌다. 그럼에도 이 짧은 시도는 이 지역 최초의 기독교 선교였다.",
+    "zh": "1850年代初，斯洛文尼亚神父伊格纳茨·克诺布莱赫领导的中非天主教传教会在冈多科罗的巴里人中，以及后来在丁卡人地区的圣十字建立了传教站。疾病夺去了许多传教士的生命，这些传教站在随后十年内相继被放弃。尽管如此，这些短暂的尝试仍是该地区最早的基督教传教活动。",
+    "ja": "1850年代初め、スロベニア出身の司祭イグナツ・クノブレハーが率いる中央アフリカ・カトリック伝道会は、ゴンドコロのバリ人のもとに、のちにはディンカ人の地のホーリー・クロスに伝道所を設けた。病気で多くの宣教師が亡くなり、伝道所は次の10年のうちに放棄された。それでも、これらの短命な試みはこの地域で最初のキリスト教伝道であった。"
+   }
+  },
+  {
+   "year": 1860,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "The zariba slave-trading system",
+    "ko": "자리바 노예무역 체제",
+    "zh": "扎里巴奴隶贸易体系",
+    "ja": "ザリーバ奴隷交易体制"
+   },
+   "description": {
+    "en": "By around 1860, merchants from Khartoum had built a network of fortified camps called zaribas across the Bahr el Ghazal and Equatoria, defended by private armies. As ivory became scarcer, the traders turned increasingly to raiding for cattle and captives, who were sold north or used as soldiers and porters. The violence of this era left lasting memories of northern domination in the south.",
+    "ko": "1860년 무렵 하르툼 상인들은 사병이 지키는 자리바라는 요새화된 거점망을 바르엘가잘과 에콰토리아 곳곳에 구축했다. 상아가 귀해지자 상인들은 점점 더 소와 사람을 약탈하는 데 매달렸고, 포로들은 북쪽으로 팔려 가거나 병사와 짐꾼으로 쓰였다. 이 시대의 폭력은 남부에 북부 지배에 대한 오랜 기억을 남겼다.",
+    "zh": "约至1860年，喀土穆商人已在加扎勒河和赤道地区修建了由私人武装守卫、被称为“扎里巴”的设防营地网络。随着象牙日益稀缺，商人们越来越多地转向掠夺牛群和人口，俘虏被卖往北方或充当士兵和挑夫。这一时期的暴力在南方留下了对北方统治的长久记忆。",
+    "ja": "1860年頃までに、ハルツームの商人たちは私兵に守られたザリーバと呼ばれる要塞化された拠点の網をバハル・アル・ガザールとエクアトリア一帯に築いていた。象牙が乏しくなると、商人たちはますます牛や人間の略奪に頼るようになり、捕虜は北へ売られるか兵士や運搬人として使われた。この時代の暴力は、南部に北部支配の長く消えない記憶を残した。"
+   }
+  },
+  {
+   "year": 1863,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Speke and Grant meet Baker at Gondokoro",
+    "ko": "곤도코로에서 스피크·그랜트와 베이커의 만남",
+    "zh": "斯皮克、格兰特与贝克在冈多科罗相会",
+    "ja": "ゴンドコロでスピーク、グラントとベイカーが出会う"
+   },
+   "description": {
+    "en": "In February 1863 the British explorers John Hanning Speke and James Augustus Grant reached Gondokoro, near present-day Juba, after travelling north from Lake Victoria, which Speke identified as the source of the White Nile. There they met Samuel Baker and Florence Baker, who were heading south. The encounter linked the upper and lower Nile in European geographical knowledge.",
+    "ko": "1863년 2월 영국 탐험가 존 해닝 스피크와 제임스 오거스터스 그랜트는 스피크가 백나일의 수원으로 확인한 빅토리아호에서 북쪽으로 여행한 끝에 오늘날 주바 근처의 곤도코로에 도착했다. 그곳에서 그들은 남쪽으로 향하던 새뮤얼 베이커와 플로렌스 베이커를 만났다. 이 만남으로 유럽의 지리 지식에서 나일강 상류와 하류가 이어졌다.",
+    "zh": "1863年2月，英国探险家约翰·汉宁·斯皮克和詹姆斯·奥古斯塔斯·格兰特从被斯皮克认定为白尼罗河源头的维多利亚湖北上，抵达今朱巴附近的冈多科罗。他们在那里遇到了正向南行进的塞缪尔·贝克与弗洛伦丝·贝克夫妇。这次相遇在欧洲人的地理知识中把尼罗河上游与下游连接了起来。",
+    "ja": "1863年2月、イギリスの探検家ジョン・ハニング・スピークとジェームズ・オーガスタス・グラントは、スピークが白ナイルの源流と見なしたヴィクトリア湖から北上し、現在のジュバ近くのゴンドコロに到着した。そこで彼らは南へ向かっていたサミュエル・ベイカーとフローレンス・ベイカーに出会った。この出会いにより、ヨーロッパの地理的知識の中でナイルの上流と下流が結びついた。"
+   }
+  },
+  {
+   "year": 1871,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Baker annexes Equatoria for Egypt",
+    "ko": "베이커가 에콰토리아를 이집트에 병합",
+    "zh": "贝克为埃及吞并赤道地区",
+    "ja": "ベイカーがエクアトリアをエジプトに併合"
+   },
+   "description": {
+    "en": "Commissioned by Khedive Ismail to suppress the slave trade and extend Egyptian rule, Samuel Baker led a large expedition up the Nile and in May 1871 proclaimed the annexation of the region at Gondokoro, which he renamed Ismailia. The new province of Equatoria was imposed by force on the Bari and other peoples. Baker's campaign made limited headway against the slave trade but laid the foundations of colonial administration in the south.",
+    "ko": "케디브 이스마일로부터 노예무역 근절과 이집트 지배 확대를 위임받은 새뮤얼 베이커는 대규모 원정대를 이끌고 나일강을 거슬러 올라가, 1871년 5월 곤도코로에서 이 지역의 병합을 선포하고 이곳을 이스마일리아로 개명했다. 새로운 에콰토리아 주는 바리족 등 여러 민족에게 무력으로 강요되었다. 베이커의 원정은 노예무역 근절에서는 성과가 제한적이었지만, 남부 식민 행정의 토대를 놓았다.",
+    "zh": "塞缪尔·贝克受赫迪夫伊斯梅尔委托，负责镇压奴隶贸易并扩展埃及统治。他率领一支大型远征队沿尼罗河上溯，于1871年5月在冈多科罗宣布吞并该地区，并将其更名为伊斯梅利亚。新设的赤道省以武力强加于巴里人等民族之上。贝克的行动在打击奴隶贸易方面成效有限，却为南方的殖民行政奠定了基础。",
+    "ja": "副王イスマーイールから奴隷貿易の撲滅とエジプト支配の拡大を委任されたサミュエル・ベイカーは、大規模な遠征隊を率いてナイルを遡り、1871年5月にゴンドコロでこの地域の併合を宣言して、ここをイスマイリアと改名した。新たなエクアトリア州はバリ人などの諸民族に武力で押しつけられた。ベイカーの遠征は奴隷貿易の抑止では限られた成果しか上げなかったが、南部の植民地行政の基礎を築いた。"
+   }
+  },
+  {
+   "year": 1874,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Gordon governs Equatoria from Lado",
+    "ko": "고든의 라도 통치",
+    "zh": "戈登以拉多为中心治理赤道省",
+    "ja": "ゴードンがラドからエクアトリアを統治"
+   },
+   "description": {
+    "en": "Charles Gordon succeeded Baker as governor of Equatoria in 1874 and moved the provincial headquarters to Lado, north of present-day Juba. He set up a chain of river stations, tried to make ivory a government monopoly and to curb slave raiding, and recruited European assistants. Gordon left the province in 1876 and later became governor-general of all Sudan.",
+    "ko": "찰스 고든은 1874년 베이커의 뒤를 이어 에콰토리아 총독이 되었고, 주 본부를 오늘날 주바 북쪽의 라도로 옮겼다. 그는 강변 거점망을 세우고 상아를 정부 독점으로 만들며 노예 약탈을 억제하려 했고, 유럽인 보좌관들을 기용했다. 고든은 1876년 이 주를 떠났고 훗날 수단 전체의 총독이 되었다.",
+    "zh": "查尔斯·戈登于1874年接替贝克出任赤道省总督，并将省府迁至今朱巴以北的拉多。他沿河建立了一系列据点，试图将象牙收归政府专营、遏制奴隶掠夺，并招募欧洲助手。戈登于1876年离开该省，后来出任全苏丹总督。",
+    "ja": "チャールズ・ゴードンは1874年にベイカーの後を継いでエクアトリア総督となり、州の本拠を現在のジュバの北にあるラドへ移した。彼は川沿いに拠点の連鎖を築き、象牙を政府の専売とし奴隷狩りを抑えようとし、ヨーロッパ人の補佐役を登用した。ゴードンは1876年にこの州を去り、のちにスーダン全体の総督となった。"
+   }
+  },
+  {
+   "year": 1878,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Emin Pasha becomes governor of Equatoria",
+    "ko": "에민 파샤가 에콰토리아 총독이 되다",
+    "zh": "艾敏帕夏出任赤道省总督",
+    "ja": "エミン・パシャがエクアトリア総督に"
+   },
+   "description": {
+    "en": "In 1878 Gordon appointed the German-born physician Eduard Schnitzer, known as Emin Pasha, governor of Equatoria. Emin, a keen naturalist, made the province's stations largely self-sufficient and documented its peoples, plants and animals. When the Mahdist revolt cut his communications with Khartoum, he was left isolated deep in the interior.",
+    "ko": "1878년 고든은 에민 파샤로 알려진 독일 태생 의사 에두아르트 슈니처를 에콰토리아 총독으로 임명했다. 열성적인 박물학자였던 에민은 주의 거점들을 대체로 자급자족하게 만들었고, 이곳의 민족과 식물, 동물을 기록했다. 마흐디 봉기로 하르툼과의 연락이 끊기자 그는 내륙 깊숙한 곳에 고립되었다.",
+    "zh": "1878年，戈登任命德国出生的医生爱德华·施尼策尔——即艾敏帕夏——为赤道省总督。热衷博物学的艾敏使省内各据点基本实现自给，并记录了当地的民族、植物和动物。马赫迪起义切断他与喀土穆的联系后，他被孤立在内陆深处。",
+    "ja": "1878年、ゴードンはエミン・パシャとして知られるドイツ生まれの医師エドゥアルト・シュニッツァーをエクアトリア総督に任命した。熱心な博物学者だったエミンは州の拠点をほぼ自給自足にし、この地の民族や植物、動物を記録した。マフディー運動の蜂起でハルツームとの連絡が断たれると、彼は内陸の奥深くで孤立した。"
+   }
+  },
+  {
+   "year": 1879,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Gessi defeats Sulayman al-Zubayr",
+    "ko": "게시가 술라이만 알주바이르를 격파",
+    "zh": "杰西击败苏莱曼·祖贝尔",
+    "ja": "ジェッシがスライマーン・ズバイルを破る"
+   },
+   "description": {
+    "en": "The slaver-prince al-Zubayr Rahma Mansur had built a private empire in the Bahr el Ghazal, and after he was detained in Cairo his son Sulayman rebelled. In 1878–1879 Gordon's Italian lieutenant Romolo Gessi campaigned against him and captured and executed Sulayman in 1879. Gessi then governed the Bahr el Ghazal and freed thousands of captives, though the slave trade revived after his departure.",
+    "ko": "노예상 출신 실력자 알주바이르 라흐마 만수르는 바르엘가잘에 사적인 제국을 세웠는데, 그가 카이로에 억류되자 아들 술라이만이 반란을 일으켰다. 1878~1879년 고든의 이탈리아인 부관 로몰로 게시는 그를 토벌하여 1879년 술라이만을 사로잡아 처형했다. 이후 게시는 바르엘가잘을 다스리며 수천 명의 포로를 해방했지만, 그가 떠난 뒤 노예무역은 되살아났다.",
+    "zh": "奴隶贩子出身的豪强祖贝尔·拉赫马·曼苏尔曾在加扎勒河地区建立私人帝国，他被扣留在开罗后，其子苏莱曼起兵反叛。1878至1879年，戈登的意大利副手罗莫洛·杰西率军征讨，于1879年俘获并处决了苏莱曼。此后杰西治理加扎勒河地区，解放了数千名俘虏，但他离开后奴隶贸易又死灰复燃。",
+    "ja": "奴隷商人出身の実力者ズバイル・ラフマ・マンスールはバハル・アル・ガザールに私的な帝国を築いていたが、彼がカイロに拘留されると息子スライマーンが反乱を起こした。1878〜1879年、ゴードンのイタリア人副官ロモロ・ジェッシはこれを討伐し、1879年にスライマーンを捕らえて処刑した。その後ジェッシはバハル・アル・ガザールを統治して数千人の捕虜を解放したが、彼が去ると奴隷貿易は復活した。"
+   }
+  },
+  {
+   "year": 1884,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Mahdists take the Bahr el Ghazal",
+    "ko": "마흐디군의 바르엘가잘 점령",
+    "zh": "马赫迪军占领加扎勒河地区",
+    "ja": "マフディー軍がバハル・アル・ガザールを掌握"
+   },
+   "description": {
+    "en": "As the Mahdist revolt spread across Sudan, Mahdist forces advanced into the Bahr el Ghazal, where many local Dinka had also risen against the Egyptian government. In April 1884 the British governor Frank Lupton, isolated and without reinforcements, surrendered; he later died in captivity in Omdurman. The fall of the province left Emin Pasha's Equatoria as the last Egyptian outpost in the south.",
+    "ko": "마흐디 봉기가 수단 전역으로 번지자 마흐디군은 현지 딩카족 상당수도 이집트 정부에 맞서 봉기한 바르엘가잘로 진격했다. 1884년 4월 고립되어 증원군도 없던 영국인 총독 프랭크 럽턴은 항복했고, 이후 옴두르만에서 포로로 죽었다. 이 주가 무너지면서 에민 파샤의 에콰토리아가 남부에 남은 마지막 이집트 거점이 되었다.",
+    "zh": "随着马赫迪起义蔓延至苏丹全境，马赫迪军向加扎勒河地区推进，当地许多丁卡人也起而反抗埃及政府。1884年4月，孤立无援的英籍总督弗兰克·勒普顿投降，后来死于恩图曼的囚禁中。该省陷落后，艾敏帕夏的赤道省成为埃及在南方的最后据点。",
+    "ja": "マフディー運動の蜂起がスーダン全土に広がると、マフディー軍は、多くの地元ディンカ人もエジプト政府に反旗を翻していたバハル・アル・ガザールへ進撃した。1884年4月、孤立して援軍もなかったイギリス人総督フランク・ラプトンは降伏し、のちにオムドゥルマンで捕囚のまま死去した。この州の陥落により、エミン・パシャのエクアトリアが南部に残る最後のエジプトの拠点となった。"
+   }
+  },
+  {
+   "year": 1889,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "End of Egyptian Equatoria",
+    "ko": "이집트령 에콰토리아의 종말",
+    "zh": "埃及赤道省的终结",
+    "ja": "エジプト領エクアトリアの終焉"
+   },
+   "description": {
+    "en": "Cut off after the fall of Khartoum in 1885, Emin Pasha withdrew southward towards Lake Albert, while mutiny and Mahdist attacks eroded his garrisons. Henry Morton Stanley's Emin Pasha Relief Expedition reached him in 1888, and in 1889 Emin reluctantly left with Stanley for the East African coast. With his departure, the last remnant of Egyptian rule in the south disappeared.",
+    "ko": "1885년 하르툼 함락 이후 고립된 에민 파샤는 앨버트호 방면으로 남하했고, 반란과 마흐디군의 공격으로 그의 수비대는 점차 무너졌다. 헨리 모턴 스탠리의 에민 파샤 구출 원정대가 1888년 그에게 도착했고, 1889년 에민은 마지못해 스탠리와 함께 동아프리카 해안으로 떠났다. 그의 퇴거로 남부에 남아 있던 이집트 지배의 마지막 흔적이 사라졌다.",
+    "zh": "1885年喀土穆陷落后，与外界隔绝的艾敏帕夏向艾伯特湖方向南撤，而兵变和马赫迪军的进攻不断削弱他的守军。亨利·莫顿·斯坦利的“救援艾敏帕夏远征队”于1888年与他会合，1889年艾敏勉强随斯坦利前往东非海岸。随着他的离去，埃及在南方统治的最后残余也消失了。",
+    "ja": "1885年のハルツーム陥落後に孤立したエミン・パシャはアルバート湖の方へ南下し、反乱とマフディー軍の攻撃によって守備隊は次第に崩れていった。ヘンリー・モートン・スタンリーのエミン・パシャ救出遠征隊が1888年に彼のもとへ到達し、1889年にエミンは不本意ながらスタンリーとともに東アフリカ沿岸へ去った。彼の退去により、南部に残っていたエジプト支配の最後の名残が消えた。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Congo Free State takes Rejaf",
+    "ko": "콩고 자유국의 레자프 점령",
+    "zh": "刚果自由邦攻占雷贾夫",
+    "ja": "コンゴ自由国がレジャフを占領"
+   },
+   "description": {
+    "en": "In February 1897 troops of King Leopold II's Congo Free State attacked the Mahdist garrison at Rejaf on the Nile, just south of present-day Juba, and drove it out. The victory allowed Leopold to occupy the Lado Enclave leased to him by Britain in 1894. Congolese administration of the area lasted until 1910.",
+    "ko": "1897년 2월 레오폴드 2세의 콩고 자유국 군대는 오늘날 주바 바로 남쪽 나일강변 레자프의 마흐디군 수비대를 공격해 몰아냈다. 이 승리로 레오폴드는 1894년 영국에게서 조차한 라도 엔클레이브를 점령할 수 있었다. 콩고의 이 지역 통치는 1910년까지 이어졌다.",
+    "zh": "1897年2月，利奥波德二世的刚果自由邦军队进攻位于今朱巴以南不远处尼罗河畔雷贾夫的马赫迪守军，并将其逐出。这一胜利使利奥波德得以占领1894年从英国租借的拉多飞地。刚果对该地区的管辖一直持续到1910年。",
+    "ja": "1897年2月、レオポルド2世のコンゴ自由国軍は、現在のジュバのすぐ南にあるナイル河畔レジャフのマフディー軍守備隊を攻撃して追い払った。この勝利によって、レオポルドは1894年にイギリスから租借したラド飛び地を占領できた。コンゴによるこの地域の統治は1910年まで続いた。"
+   }
+  },
+  {
+   "year": 1898,
+   "qid": "Q722699",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fashoda Incident",
+    "ko": "파쇼다 사건",
+    "zh": "法绍达事件",
+    "ja": "ファショダ事件"
+   },
+   "description": {
+    "en": "In July 1898 a small French force under Captain Jean-Baptiste Marchand, having crossed Africa from the west, raised the French flag at Fashoda (now Kodok) in the Shilluk country on the White Nile. In September Herbert Kitchener arrived with a much larger Anglo-Egyptian flotilla fresh from victory at Omdurman, and the standoff brought Britain and France close to war. France backed down in November, recognising British-Egyptian control of the Nile basin and clearing the way for the 1904 Entente Cordiale.",
+    "ko": "1898년 7월 아프리카를 서쪽에서 가로질러 온 장바티스트 마르샹 대위의 소규모 프랑스군이 백나일강변 실루크족 땅의 파쇼다(오늘날 코독)에 프랑스 국기를 게양했다. 9월 옴두르만 전투에서 막 승리한 허버트 키치너가 훨씬 큰 영국·이집트 선단을 이끌고 도착하면서, 대치는 영국과 프랑스를 전쟁 직전까지 몰고 갔다. 11월 프랑스가 물러나 나일강 유역에 대한 영국·이집트의 지배를 인정했고, 이는 1904년 영불 협상으로 가는 길을 열었다.",
+    "zh": "1898年7月，让-巴蒂斯特·马尔尚上尉率领一支从西非横穿大陆而来的法国小部队，在白尼罗河畔希卢克人地区的法绍达（今科多克）升起法国国旗。9月，刚在恩图曼取胜的赫伯特·基钦纳率领规模大得多的英埃船队抵达，双方对峙使英法濒临战争边缘。11月法国让步，承认英埃对尼罗河流域的控制，为1904年的《英法协约》铺平了道路。",
+    "ja": "1898年7月、アフリカを西から横断してきたジャン＝バティスト・マルシャン大尉の小規模なフランス部隊が、白ナイル河畔シルック人の地のファショダ（現在のコドク）にフランス国旗を掲げた。9月、オムドゥルマンの戦いで勝利したばかりのハーバート・キッチナーがはるかに大きな英埃艦隊を率いて到着し、対峙は英仏を戦争寸前にまで追い込んだ。11月にフランスが譲歩してナイル流域に対する英埃の支配を認め、これが1904年の英仏協商への道を開いた。"
+   }
+  },
+  {
+   "year": 1899,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Anglo-Egyptian rule divides north and south",
+    "ko": "영국·이집트 공동통치와 남북 분리 정책",
+    "zh": "英埃共管与南北分治",
+    "ja": "英埃共同統治と南部の分離統治"
+   },
+   "description": {
+    "en": "Britain and Egypt jointly ruled Sudan as a condominium. Under the 'Southern Policy' the south was administered separately, with Christian missions and English education, deepening the divide from the Arabic-speaking north.",
+    "ko": "영국과 이집트가 수단을 공동 통치했다. '남부 정책'에 따라 남부는 기독교 선교와 영어 교육 중심으로 별도 통치되어, 아랍어권 북부와의 격차가 더욱 깊어졌다.",
+    "zh": "英国与埃及共管苏丹。根据“南方政策”，南方被单独治理，推行基督教传教和英语教育，与讲阿拉伯语的北方之间的隔阂进一步加深。",
+    "ja": "イギリスとエジプトがスーダンを共同統治した。「南部政策」の下で南部は別個に統治され、キリスト教の宣教と英語教育が進められた結果、アラビア語圏の北部との隔たりが一層深まった。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Death of the Azande king Gbudwe",
+    "ko": "아잔데 왕 그부드웨의 죽음",
+    "zh": "阿赞德国王格布德韦之死",
+    "ja": "アザンデ王グブドウェの死"
+   },
+   "description": {
+    "en": "Gbudwe, the most powerful Azande king, had long resisted slave traders, Mahdists and Congolese forces from his base near present-day Yambio. In 1905 an Anglo-Egyptian column advanced into his kingdom; Gbudwe was wounded and captured in the fighting and died shortly afterwards. His defeat brought the Azande lands under the Sudan government.",
+    "ko": "가장 강력한 아잔데 왕이었던 그부드웨는 오늘날 얌비오 근처의 근거지에서 오랫동안 노예상과 마흐디군, 콩고군에 맞서 왔다. 1905년 영국·이집트군 부대가 그의 왕국으로 진격했고, 그부드웨는 전투 중 부상을 입고 포로가 된 뒤 곧 숨졌다. 그의 패배로 아잔데의 땅은 수단 정부의 통치 아래 들어갔다.",
+    "zh": "格布德韦是最强大的阿赞德国王，长期以今扬比奥附近为根据地，抵抗奴隶贩子、马赫迪军和刚果军队。1905年，一支英埃部队攻入他的王国，格布德韦在战斗中负伤被俘，不久死去。他的失败使阿赞德人的土地归于苏丹政府统治之下。",
+    "ja": "アザンデ最強の王グブドウェは、現在のヤンビオ近くを拠点に長年奴隷商人、マフディー軍、コンゴ軍に抵抗してきた。1905年に英埃軍の部隊が彼の王国へ進撃し、グブドウェは戦闘で負傷して捕らえられ、まもなく死去した。彼の敗北によってアザンデの地はスーダン政府の支配下に入った。"
+   }
+  },
+  {
+   "year": 1910,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Lado Enclave returns to Sudan",
+    "ko": "라도 엔클레이브의 수단 반환",
+    "zh": "拉多飞地归还苏丹",
+    "ja": "ラド飛び地がスーダンに復帰"
+   },
+   "description": {
+    "en": "Under the 1894 and 1906 agreements, King Leopold II's lease of the Lado Enclave was to end on his death. Leopold died in December 1909, and in June 1910 the territory was handed over to Anglo-Egyptian Sudan. It was incorporated into Mongalla Province, while its southern portion was later transferred to Uganda.",
+    "ko": "1894년과 1906년 협정에 따라 레오폴드 2세의 라도 엔클레이브 조차는 그의 사망과 함께 끝나게 되어 있었다. 레오폴드는 1909년 12월에 죽었고, 1910년 6월 이 지역은 영국·이집트령 수단에 넘겨졌다. 이곳은 몽갈라 주에 편입되었고, 남쪽 일부는 훗날 우간다로 이관되었다.",
+    "zh": "根据1894年和1906年的协定，利奥波德二世对拉多飞地的租借将在其去世时终止。利奥波德于1909年12月去世，1910年6月该地区移交英埃苏丹。它被并入蒙加拉省，其南部后来划归乌干达。",
+    "ja": "1894年と1906年の協定により、レオポルド2世によるラド飛び地の租借は彼の死とともに終わることになっていた。レオポルドは1909年12月に死去し、1910年6月にこの地域は英埃領スーダンへ引き渡された。ここはモンガラ州に編入され、その南部はのちにウガンダへ移管された。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Nuer Settlement campaign",
+    "ko": "누에르 평정 작전",
+    "zh": "“努尔绥靖”行动",
+    "ja": "ヌエル平定作戦"
+   },
+   "description": {
+    "en": "After Nuer fighters killed the British district commissioner Vere Fergusson in 1927, the Sudan government launched a series of punitive operations known as the 'Nuer Settlement', using troops and aircraft. In 1929 government forces killed the Nuer prophet Gwek Wonding near his sacred mound at Dengkur. The campaign forcibly ended Nuer independence and imposed administrative boundaries between Nuer and Dinka.",
+    "ko": "1927년 누에르 전사들이 영국인 지구 행정관 비어 퍼거슨을 살해하자, 수단 정부는 병력과 항공기를 동원해 '누에르 평정'이라 불린 일련의 징벌 작전을 벌였다. 1929년 정부군은 덴쿠르의 성스러운 둔덕 근처에서 누에르의 예언자 궥 원딩을 살해했다. 이 작전으로 누에르의 독립은 강제로 끝났고 누에르와 딩카 사이에 행정 경계가 그어졌다.",
+    "zh": "1927年努尔战士杀死英国地区专员维尔·弗格森后，苏丹政府出动军队和飞机，发动了一系列被称为“努尔绥靖”的惩罚性行动。1929年，政府军在登库尔圣丘附近击杀了努尔先知格韦克·旺丁。这场行动以武力终结了努尔人的独立，并在努尔人与丁卡人之间划定了行政边界。",
+    "ja": "1927年にヌエルの戦士がイギリス人の地区長官ヴィア・ファーガソンを殺害すると、スーダン政府は部隊と航空機を投入し、「ヌエル平定」と呼ばれる一連の懲罰作戦を行った。1929年、政府軍はデンクルの聖なる塚の近くでヌエルの預言者グウェク・ウォンディンを殺害した。この作戦によってヌエルの独立は力ずくで終わらされ、ヌエルとディンカの間に行政境界が引かれた。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The 'Southern Policy' is formalised",
+    "ko": "'남부 정책'의 공식화",
+    "zh": "“南方政策”正式确立",
+    "ja": "「南部政策」の正式化"
+   },
+   "description": {
+    "en": "In 1930 the Civil Secretary Harold MacMichael issued a memorandum setting out the Southern Policy: the south was to be developed along 'African' lines through tribal authorities, with English as the official language and Christian missions in charge of education. Northern traders were restricted, Arabic names and dress discouraged, and travel between north and south controlled under 'closed district' laws. The policy deepened the gulf between the two regions and left the south with very few educated administrators.",
+    "ko": "1930년 민정장관 해럴드 맥마이클은 남부 정책을 명시한 각서를 발표했다. 남부는 부족 권위를 통해 '아프리카적' 방식으로 발전시키고, 영어를 공용어로 하며 교육은 기독교 선교회에 맡긴다는 것이었다. 북부 상인의 활동은 제한되었고 아랍식 이름과 복장은 억제되었으며, '폐쇄 구역' 법으로 남북 간 왕래가 통제되었다. 이 정책은 두 지역 사이의 골을 깊게 했고, 남부에는 교육받은 행정 인력이 극히 적게 남았다.",
+    "zh": "1930年，民政秘书哈罗德·麦克迈克尔发布备忘录，阐明“南方政策”：南方应通过部落权威按“非洲”路线发展，以英语为官方语言，教育交由基督教传教会负责。北方商人受到限制，阿拉伯式姓名和服饰受到抑制，南北往来依据“封闭区”法规受到管控。这一政策加深了两地之间的鸿沟，也使南方几乎没有受过教育的行政人才。",
+    "ja": "1930年、民政長官ハロルド・マクマイケルは南部政策を示す覚書を出した。南部は部族的権威を通じて「アフリカ的」な方向で発展させ、英語を公用語とし、教育はキリスト教ミッションに委ねるというものだった。北部商人の活動は制限され、アラブ風の名前や服装は抑えられ、「閉鎖地区」法によって南北の往来が統制された。この政策は両地域の溝を深め、南部には教育を受けた行政人材がごくわずかしか残らなかった。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Juba Conference joins south to north",
+    "ko": "주바 회의, 남부의 통합 결정",
+    "zh": "朱巴会议决定南北合并",
+    "ja": "ジュバ会議による南北統合の決定"
+   },
+   "description": {
+    "en": "At the Juba Conference, British officials decided that the southern provinces would be joined with the north in a single Sudan, a decision made with limited southern representation that shaped decades of conflict.",
+    "ko": "주바 회의에서 영국 당국은 남부 주들을 북부와 함께 단일 수단으로 통합하기로 결정했다. 남부 대표의 참여가 제한된 이 결정은 이후 수십 년간의 분쟁에 영향을 미쳤다.",
+    "zh": "在朱巴会议上，英国当局决定将南方各省与北方合并为统一的苏丹。这一南方代表参与有限的决定，为此后数十年的冲突埋下伏笔。",
+    "ja": "ジュバ会議でイギリス当局は南部諸州を北部とともに単一のスーダンに統合することを決めた。南部代表の関与が限られたこの決定は、その後数十年の紛争に影を落とした。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sudanisation leaves the south behind",
+    "ko": "수단화 정책과 남부의 소외",
+    "zh": "“苏丹化”使南方落后",
+    "ja": "スーダン化と南部の取り残し"
+   },
+   "description": {
+    "en": "As Sudan moved towards self-government after the 1953 Anglo-Egyptian agreement, a commission replaced British officials with Sudanese. Of hundreds of senior posts, only a handful went to southerners, and many northern officials were sent to run the south. The outcome fed southern fears of replacing British rule with northern domination and helped trigger the 1955 mutiny.",
+    "ko": "1953년 영국·이집트 협정 이후 수단이 자치로 나아가면서, 한 위원회가 영국인 관리들을 수단인으로 교체했다. 수백 개의 고위직 가운데 남부 출신에게 돌아간 자리는 극소수였고, 많은 북부 관리가 남부를 다스리러 파견되었다. 그 결과 영국 지배가 북부 지배로 바뀔 뿐이라는 남부의 우려가 커졌고, 이는 1955년 반란의 도화선이 되었다.",
+    "zh": "1953年英埃协定签订后，苏丹走向自治，一个委员会负责以苏丹人取代英国官员。在数百个高级职位中，只有寥寥几个分给了南方人，许多北方官员被派往南方任职。结果加剧了南方对“以北方统治取代英国统治”的担忧，并成为1955年兵变的导火索之一。",
+    "ja": "1953年の英埃協定の後、スーダンが自治へ向かうなか、委員会がイギリス人官吏をスーダン人に置き換えていった。数百の上級ポストのうち南部出身者に回ったのはごくわずかで、多くの北部出身官吏が南部の統治に送り込まれた。その結果、イギリス支配が北部支配に置き換わるだけだという南部の不安が強まり、1955年の反乱の引き金の一つとなった。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": "Q823730",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Torit mutiny ignites first civil war",
+    "ko": "토리트 반란과 제1차 내전의 발발",
+    "zh": "托里特兵变引发第一次内战",
+    "ja": "トリト反乱と第一次内戦の勃発"
+   },
+   "description": {
+    "en": "Southern soldiers mutinied at Torit months before Sudan's independence, beginning the First Sudanese Civil War. The Anyanya insurgency fought the Khartoum government for seventeen years at the cost of hundreds of thousands of lives.",
+    "ko": "수단 독립을 몇 달 앞두고 토리트에서 남부 출신 군인들이 반란을 일으키며 제1차 수단 내전이 시작되었다. 아냐냐 반군은 17년간 하르툼 정부와 싸웠고 수십만 명이 목숨을 잃었다.",
+    "zh": "苏丹独立前数月，南方士兵在托里特发动兵变，第一次苏丹内战爆发。阿尼亚尼亚游击队与喀土穆政府缠斗十七年，数十万人丧生。",
+    "ja": "スーダン独立の数か月前、トリトで南部出身兵士が反乱を起こし、第一次スーダン内戦が始まった。アニャニャ反乱軍は17年にわたりハルツーム政府と戦い、数十万人が命を落とした。"
+   }
+  },
+  {
+   "year": 1956,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Sudan becomes independent",
+    "ko": "수단의 독립",
+    "zh": "苏丹独立",
+    "ja": "スーダンの独立"
+   },
+   "description": {
+    "en": "On 1 January 1956 Sudan, including the southern provinces, became an independent republic. Southern politicians had backed the independence declaration in parliament on the understanding that their call for a federal system would be given due consideration, but the promise was not fulfilled. The south entered statehood already in revolt.",
+    "ko": "1956년 1월 1일 남부 주들을 포함한 수단이 독립 공화국이 되었다. 남부 정치인들은 연방제 요구가 충분히 검토될 것이라는 이해 아래 의회의 독립 선언을 지지했으나, 그 약속은 지켜지지 않았다. 남부는 이미 봉기 상태에서 독립 국가 시대를 맞았다.",
+    "zh": "1956年1月1日，包括南方各省在内的苏丹成为独立的共和国。南方政治家在议会中支持独立宣言，前提是他们的联邦制诉求将得到认真考虑，但这一承诺并未兑现。南方在已经陷入反叛的状态下迎来了独立。",
+    "ja": "1956年1月1日、南部諸州を含むスーダンは独立した共和国となった。南部の政治家は連邦制の要求が十分に検討されるという了解のもとで議会の独立宣言を支持したが、その約束は果たされなかった。南部はすでに反乱のさなかで独立国家の時代を迎えた。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Anyanya guerrilla movement emerges",
+    "ko": "아냐냐 게릴라 운동의 등장",
+    "zh": "“阿尼亚尼亚”游击运动兴起",
+    "ja": "アニャニャ・ゲリラ運動の登場"
+   },
+   "description": {
+    "en": "Around 1963 scattered southern rebels, including veterans of the 1955 mutiny, organised as the Anyanya, a name often explained as 'snake venom'. Operating from the bush and from bases in neighbouring countries, they waged an insurgency against government forces under General Ibrahim Abboud's military regime and its successors. The war drove hundreds of thousands of southerners into refuge in Uganda, Congo and Ethiopia.",
+    "ko": "1963년 무렵 1955년 반란 참가자를 포함한 남부의 흩어진 반군들이 흔히 '뱀의 독'이라는 뜻으로 설명되는 아냐냐라는 이름으로 조직되었다. 그들은 밀림과 이웃 나라의 근거지에서 활동하며 이브라힘 아부드 장군의 군사 정권과 그 후속 정부의 군대에 맞서 게릴라전을 벌였다. 전쟁으로 수십만 명의 남부 주민이 우간다와 콩고, 에티오피아로 피란했다.",
+    "zh": "约在1963年，包括1955年兵变老兵在内的分散的南方反叛者组织起来，称为“阿尼亚尼亚”，这个名字常被解释为“蛇毒”。他们以丛林和邻国基地为依托，对易卜拉欣·阿布德将军的军政权及其后继政府的军队展开游击战。战争迫使数十万南方人逃往乌干达、刚果和埃塞俄比亚避难。",
+    "ja": "1963年頃、1955年の反乱の参加者を含む南部の散らばった反乱勢力が、しばしば「蛇の毒」の意と説明されるアニャニャの名で組織された。彼らは森林や近隣国の拠点から活動し、イブラーヒーム・アッブード将軍の軍事政権とその後継政権の軍隊に対してゲリラ戦を展開した。戦争により数十万人の南部住民がウガンダ、コンゴ、エチオピアへ逃れた。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Foreign missionaries expelled from the south",
+    "ko": "외국인 선교사의 남부 추방",
+    "zh": "外国传教士被逐出南方",
+    "ja": "外国人宣教師の南部からの追放"
+   },
+   "description": {
+    "en": "Abboud's government, which saw Christian missions as a source of southern resistance, restricted their activities under the Missionary Societies Act of 1962. In 1964 it expelled all foreign missionaries from the southern provinces. Southern churches, now led by Sudanese clergy, became increasingly important centres of community and political identity.",
+    "ko": "기독교 선교회를 남부 저항의 근원으로 본 아부드 정부는 1962년 선교단체법으로 그 활동을 제한했다. 1964년에는 남부 주들에서 모든 외국인 선교사를 추방했다. 이제 수단인 성직자가 이끌게 된 남부 교회들은 공동체와 정치적 정체성의 중심으로서 점점 더 중요해졌다.",
+    "zh": "阿布德政府视基督教传教会为南方反抗的根源，依据1962年的《传教团体法》限制其活动。1964年，政府将所有外国传教士逐出南方各省。此后由苏丹本国神职人员领导的南方教会，日益成为社群与政治认同的重要中心。",
+    "ja": "キリスト教ミッションを南部の抵抗の源とみなしたアッブード政権は、1962年の宣教団体法でその活動を制限した。1964年には南部諸州からすべての外国人宣教師を追放した。以後スーダン人聖職者が率いることになった南部の教会は、共同体と政治的アイデンティティの中心としてますます重要になった。"
+   }
+  },
+  {
+   "year": 1965,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Round Table Conference and massacres",
+    "ko": "원탁회의와 학살",
+    "zh": "圆桌会议与屠杀事件",
+    "ja": "円卓会議と虐殺"
+   },
+   "description": {
+    "en": "After Abboud's regime fell in the October 1964 revolution, the new civilian government convened a Round Table Conference in Khartoum in March 1965 to discuss the southern question. Northern and southern parties could not agree, as southerners sought federation or self-determination. In July 1965 government troops killed large numbers of civilians in Juba and Wau, and the war intensified.",
+    "ko": "1964년 10월 혁명으로 아부드 정권이 무너진 뒤, 새 민간 정부는 1965년 3월 하르툼에서 남부 문제를 논의하는 원탁회의를 열었다. 남부 측이 연방제나 자결권을 요구하면서 남북 정당들은 합의에 이르지 못했다. 1965년 7월 정부군은 주바와 와우에서 많은 민간인을 살해했고, 전쟁은 격화되었다.",
+    "zh": "1964年10月革命推翻阿布德政权后，新的文官政府于1965年3月在喀土穆召开圆桌会议，讨论南方问题。由于南方要求联邦制或自决，南北各党未能达成一致。1965年7月，政府军在朱巴和瓦乌杀害了大批平民，战争随之升级。",
+    "ja": "1964年10月革命でアッブード政権が倒れた後、新しい文民政府は1965年3月にハルツームで南部問題を話し合う円卓会議を開いた。南部側が連邦制や自決を求めたため、南北の政党は合意に至らなかった。1965年7月、政府軍はジュバとワウで多数の民間人を殺害し、戦争は激化した。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Joseph Lagu unites the southern rebels",
+    "ko": "조지프 라구의 남부 반군 통합",
+    "zh": "约瑟夫·拉古统一南方反叛力量",
+    "ja": "ジョセフ・ラグが南部反乱勢力を統一"
+   },
+   "description": {
+    "en": "Divided for years among rival leaders and exile politicians, the southern insurgency was unified around 1970–1971 under Colonel Joseph Lagu, who formed the Southern Sudan Liberation Movement with the Anyanya as its army. The unified command gave the rebels a single voice in negotiations. It led directly to the talks with President Jaafar Nimeiri's government that produced the 1972 Addis Ababa Agreement.",
+    "ko": "수년간 경쟁하는 지도자들과 망명 정치인들로 분열되어 있던 남부 반군은 1970~1971년 무렵 조지프 라구 대령 아래 통합되었고, 그는 아냐냐를 군대로 하는 남부 수단 해방운동을 결성했다. 통합된 지휘 체계로 반군은 협상에서 하나의 목소리를 낼 수 있었다. 이는 1972년 아디스아바바 협정을 낳은 자파르 누메이리 대통령 정부와의 협상으로 곧바로 이어졌다.",
+    "zh": "南方反叛力量多年来分裂为相互竞争的首领和流亡政客，约在1970至1971年间统一于约瑟夫·拉古上校麾下。他组建了“南苏丹解放运动”，以“阿尼亚尼亚”为其军队。统一的指挥使反叛者在谈判中能够以一个声音发言，并直接促成了与贾法尔·尼迈里总统政府的谈判，最终达成1972年《亚的斯亚贝巴协议》。",
+    "ja": "長年、対立する指導者や亡命政治家の間で分裂していた南部の反乱勢力は、1970〜1971年頃にジョセフ・ラグ大佐のもとで統一され、彼はアニャニャを軍とする南部スーダン解放運動を結成した。統一された指揮系統によって反乱勢力は交渉で一つの声を持つことができた。これはそのまま、1972年のアディスアベバ合意を生んだジャアファル・ヌメイリ大統領政府との交渉につながった。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Addis Ababa Agreement brings autonomy",
+    "ko": "아디스아바바 협정과 남부 자치",
+    "zh": "《亚的斯亚贝巴协议》带来自治",
+    "ja": "アディスアベバ合意による自治"
+   },
+   "description": {
+    "en": "The Addis Ababa Agreement ended the first civil war, granting the south a regional government and assembly. The fragile peace lasted a decade until the accord's provisions were eroded.",
+    "ko": "아디스아바바 협정으로 제1차 내전이 끝나고 남부에 지역 정부와 의회가 설치되었다. 그러나 협정이 점차 형해화되면서 취약한 평화는 10년 남짓밖에 지속되지 못했다.",
+    "zh": "《亚的斯亚贝巴协议》结束了第一次内战，南方获得地区政府和议会。然而随着协议条款逐渐被侵蚀，这一脆弱的和平仅维持了十年左右。",
+    "ja": "アディスアベバ合意により第一次内戦が終結し、南部に地域政府と議会が設けられた。しかし合意内容が次第に骨抜きにされ、脆い平和は10年ほどしか続かなかった。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Oil discovered near Bentiu",
+    "ko": "벤티우 부근의 석유 발견",
+    "zh": "本提乌附近发现石油",
+    "ja": "ベンティウ近郊で石油発見"
+   },
+   "description": {
+    "en": "In the late 1970s the American company Chevron discovered commercial oil deposits in the area around Bentiu, in what is now Unity State. The Nimeiri government tried to redraw boundaries so that the fields would fall under the north and planned to refine and export the oil without the south. The dispute over oil became a major grievance and, later, a driving force of war.",
+    "ko": "1970년대 후반 미국 기업 셰브런은 오늘날 유니티주에 해당하는 벤티우 일대에서 상업적 유전을 발견했다. 누메이리 정부는 유전이 북부에 속하도록 경계를 다시 그으려 했고, 남부를 배제한 채 석유를 정제·수출하려 했다. 석유를 둘러싼 분쟁은 남부의 주요 불만이 되었고, 훗날 전쟁의 큰 동력이 되었다.",
+    "zh": "1970年代末，美国雪佛龙公司在今团结州本提乌一带发现了具有商业价值的石油储藏。尼迈里政府试图重新划定边界，使油田归属北方，并计划绕开南方提炼和出口石油。围绕石油的争端成为南方的一大怨愤，后来更成为战争的重要推动力。",
+    "ja": "1970年代後半、アメリカのシェブロン社は現在のユニティ州にあたるベンティウ周辺で商業的な油田を発見した。ヌメイリ政権は油田が北部に属するよう境界を引き直そうとし、南部を抜きにして石油を精製・輸出しようと計画した。石油をめぐる争いは南部の大きな不満となり、のちには戦争の大きな原動力となった。"
+   }
+  },
+  {
+   "year": 1983,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Second civil war and rise of the SPLM",
+    "ko": "제2차 내전과 수단인민해방운동의 결성",
+    "zh": "第二次内战与苏丹人民解放运动兴起",
+    "ja": "第二次内戦とSPLMの台頭"
+   },
+   "description": {
+    "en": "After Khartoum abolished southern autonomy and moved to impose Islamic law, war resumed. John Garang founded the Sudan People's Liberation Movement/Army; some two million people died in the following two decades. The war began with a mutiny of southern troops at Bor in May 1983.",
+    "ko": "하르툼 정부가 남부 자치를 폐지하고 이슬람법 도입을 추진하자 내전이 재개되었다. 존 가랑이 수단인민해방운동(SPLM/A)을 창설했으며, 이후 20여 년간 약 200만 명이 희생되었다. 전쟁은 1983년 5월 보르에서 남부 출신 병사들이 일으킨 반란으로 시작되었다.",
+    "zh": "喀土穆政府废除南方自治并推行伊斯兰法后，战火重燃。约翰·加朗创建苏丹人民解放运动/解放军，此后二十余年约有两百万人死亡。战争始于1983年5月南方士兵在博尔发动的兵变。",
+    "ja": "ハルツーム政府が南部自治を廃止しイスラーム法の導入を進めると、内戦が再燃した。ジョン・ガランがスーダン人民解放運動・解放軍（SPLM/A）を創設し、その後20年余りで約200万人が犠牲となった。戦争は1983年5月にボルで南部出身の兵士が起こした反乱から始まった。"
+   }
+  },
+  {
+   "year": 1984,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Jonglei Canal halted",
+    "ko": "종글레이 운하 공사 중단",
+    "zh": "琼莱运河工程中断",
+    "ja": "ジョングレイ運河の工事中断"
+   },
+   "description": {
+    "en": "Digging of the Jonglei Canal, designed to divert White Nile water around the Sudd and increase the flow to northern Sudan and Egypt, began around 1978 using a giant bucket-wheel excavator. Many southerners feared it would damage the wetlands on which pastoralists and fishers depended. In 1984 SPLA attacks forced work to stop with most of the channel dug, and the canal was never completed.",
+    "ko": "수드 습지를 우회해 백나일 물을 끌어 북부 수단과 이집트로의 유량을 늘리려던 종글레이 운하는 1978년 무렵 거대한 버킷휠 굴착기로 공사가 시작되었다. 많은 남부 주민은 목축민과 어민이 의존하는 습지가 훼손될 것을 우려했다. 1984년 SPLA의 공격으로 수로의 대부분이 파인 상태에서 공사가 중단되었고, 운하는 끝내 완공되지 못했다.",
+    "zh": "琼莱运河旨在让白尼罗河水绕过苏德沼泽，以增加流向北苏丹和埃及的水量，约在1978年开始使用巨型斗轮挖掘机施工。许多南方人担心运河会破坏牧民和渔民赖以生存的湿地。1984年，苏丹人民解放军的袭击迫使工程在大部分河道已挖成的情况下停工，运河始终未能完工。",
+    "ja": "スッド湿地を迂回させて白ナイルの水を引き、北部スーダンとエジプトへの流量を増やすことを狙ったジョングレイ運河は、1978年頃から巨大なバケットホイール掘削機で工事が始まった。多くの南部住民は、牧畜民や漁民が頼る湿地が損なわれることを恐れた。1984年、SPLAの攻撃によって水路の大部分が掘られた段階で工事は止まり、運河は結局完成しなかった。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Operation Lifeline Sudan begins",
+    "ko": "수단 생명선 작전 개시",
+    "zh": "“苏丹生命线行动”启动",
+    "ja": "スーダン生命線作戦の開始"
+   },
+   "description": {
+    "en": "After the famine of 1988 killed an estimated 250,000 people in southern Sudan, the United Nations negotiated Operation Lifeline Sudan with the government and the SPLA in 1989. It was one of the first relief operations to deliver aid across the lines of an ongoing civil war, much of it from Lokichoggio in northern Kenya. The operation became one of the largest and longest humanitarian efforts of its time.",
+    "ko": "1988년 기근으로 남부 수단에서 약 25만 명이 사망한 것으로 추산되자, 유엔은 1989년 정부와 SPLA를 상대로 '수단 생명선 작전'을 협상해 냈다. 이는 진행 중인 내전의 전선을 넘어 구호품을 전달한 최초의 구호 작전 중 하나였으며, 상당 부분이 케냐 북부의 로키초기오에서 이뤄졌다. 이 작전은 당대 가장 크고 오래 지속된 인도주의 활동 가운데 하나가 되었다.",
+    "zh": "1988年的饥荒在南苏丹地区造成约25万人死亡后，联合国于1989年与政府和苏丹人民解放军谈判达成“苏丹生命线行动”。这是最早跨越进行中内战战线运送援助的救援行动之一，大量物资从肯尼亚北部的洛基乔吉奥发出。该行动成为当时规模最大、持续最久的人道主义行动之一。",
+    "ja": "1988年の飢饉で南部スーダンにおいて推定25万人が死亡した後、国連は1989年に政府およびSPLAと交渉して「スーダン生命線作戦」を実現させた。これは進行中の内戦の前線を越えて援助を届けた最初の救援活動の一つで、その多くはケニア北部のロキチョギオから行われた。この作戦は当時最大級かつ最も長く続いた人道支援活動の一つとなった。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "SPLA split and the Bor massacre",
+    "ko": "SPLA의 분열과 보르 학살",
+    "zh": "苏丹人民解放军分裂与博尔屠杀",
+    "ja": "SPLAの分裂とボル虐殺"
+   },
+   "description": {
+    "en": "In August 1991 SPLA commanders Riek Machar and Lam Akol announced from Nasir that they were breaking with John Garang, calling for southern independence rather than a reformed united Sudan. In November forces loyal to Machar, joined by armed Nuer youth, attacked the Dinka Bor area and killed some 2,000 civilians. The split, exploited by Khartoum, turned much of the war into fighting among southerners and left a legacy of ethnic distrust between Dinka and Nuer.",
+    "ko": "1991년 8월 SPLA 지휘관 리에크 마차르와 람 아콜은 나시르에서 존 가랑과의 결별을 선언하며, 개혁된 통일 수단 대신 남부의 독립을 요구했다. 11월 마차르를 따르는 병력과 무장한 누에르 청년들이 딩카족의 보르 지역을 공격해 약 2,000명의 민간인을 살해했다. 하르툼이 이용한 이 분열로 전쟁의 상당 부분이 남부인끼리의 싸움으로 바뀌었고, 딩카와 누에르 사이에 민족적 불신이 남았다.",
+    "zh": "1991年8月，苏丹人民解放军指挥官里克·马沙尔和拉姆·阿科尔在纳绥尔宣布与约翰·加朗决裂，主张南方独立，而非建立经过改革的统一苏丹。11月，效忠马沙尔的部队与武装的努尔青年袭击了丁卡人的博尔地区，杀害约2000名平民。这次分裂被喀土穆利用，使战争很大程度上变成南方人之间的厮杀，并在丁卡人与努尔人之间留下了族群不信任。",
+    "ja": "1991年8月、SPLAの指揮官リエック・マシャールとラム・アコルはナシルからジョン・ガランとの決別を表明し、改革された統一スーダンではなく南部の独立を求めた。11月、マシャールに従う部隊と武装したヌエルの若者がディンカのボル地域を襲い、約2,000人の民間人を殺害した。ハルツームに利用されたこの分裂によって戦争の多くは南部人同士の戦いとなり、ディンカとヌエルの間に民族的不信を残した。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Bahr el Ghazal famine",
+    "ko": "바르엘가잘 기근",
+    "zh": "加扎勒河饥荒",
+    "ja": "バハル・アル・ガザール飢饉"
+   },
+   "description": {
+    "en": "In 1998 drought combined with fighting, raids by government-backed militias and a government ban on relief flights produced a severe famine in Bahr el Ghazal. Tens of thousands of people died before an expanded international airlift reached the region. The famine drew worldwide attention to the human cost of the war in southern Sudan.",
+    "ko": "1998년 가뭄에 전투와 정부 지원 민병대의 습격, 정부의 구호 항공편 금지가 겹치면서 바르엘가잘에 심각한 기근이 발생했다. 확대된 국제 공수 지원이 이 지역에 닿기 전까지 수만 명이 목숨을 잃었다. 이 기근은 남부 수단 전쟁의 인적 대가에 세계의 관심을 모았다.",
+    "zh": "1998年，干旱叠加战斗、政府支持的民兵袭击以及政府对救援航班的禁令，在加扎勒河地区造成了严重饥荒。在扩大的国际空运援助抵达之前，已有数万人死亡。这场饥荒使世界关注到南苏丹战争的人道代价。",
+    "ja": "1998年、干ばつに戦闘や政府支援の民兵による襲撃、政府による救援機の禁止が重なり、バハル・アル・ガザールで深刻な飢饉が起きた。拡大された国際空輸がこの地域に届くまでに数万人が命を落とした。この飢饉は、南部スーダンの戦争がもたらす人的被害に世界の注目を集めた。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Oil exports begin",
+    "ko": "석유 수출 개시",
+    "zh": "石油开始出口",
+    "ja": "石油輸出の開始"
+   },
+   "description": {
+    "en": "In 1999 a pipeline built by a consortium including Chinese, Malaysian and Canadian companies began carrying crude oil from fields in and around the Unity and Heglig areas to Port Sudan for export. Oil revenue strengthened the Khartoum government during the war, and clearing the oil fields led to mass displacement of local Nuer and Dinka communities. Control of the oil fields became central to the peace negotiations.",
+    "ko": "1999년 중국·말레이시아·캐나다 기업 등이 참여한 컨소시엄이 건설한 송유관이 유니티와 헤글리그 일대 유전의 원유를 포트수단으로 운송해 수출하기 시작했다. 석유 수입은 전쟁 중 하르툼 정부를 강화했고, 유전 지대를 확보하는 과정에서 현지 누에르·딩카 공동체가 대규모로 쫓겨났다. 유전 통제는 평화 협상의 핵심 쟁점이 되었다.",
+    "zh": "1999年，由中国、马来西亚、加拿大等国公司组成的财团修建的输油管道开始将团结州和黑格利格一带油田的原油输往苏丹港出口。石油收入在战争期间增强了喀土穆政府的实力，而为清理油田区，当地的努尔人和丁卡人社群遭到大规模驱逐。对油田的控制成为和平谈判的核心问题。",
+    "ja": "1999年、中国、マレーシア、カナダの企業などからなるコンソーシアムが建設したパイプラインが、ユニティやヘグリグ周辺の油田の原油をポートスーダンへ運び、輸出し始めた。石油収入は戦時中のハルツーム政府を強め、油田地帯の確保の過程で地元のヌエルやディンカの共同体が大規模に追い出された。油田の支配は和平交渉の中心的な争点となった。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Machakos Protocol recognises self-determination",
+    "ko": "마차코스 의정서와 자결권 인정",
+    "zh": "《马查科斯议定书》承认自决权",
+    "ja": "マチャコス議定書で自決権を承認"
+   },
+   "description": {
+    "en": "In July 2002, in talks mediated by the regional bloc IGAD in Machakos, Kenya, the Sudanese government and the SPLM agreed that the south would have the right to decide its future in a referendum after an interim period of six years. In return the SPLM accepted that sharia could apply in the north. The protocol became the framework for the Comprehensive Peace Agreement.",
+    "ko": "2002년 7월 케냐 마차코스에서 지역 기구 IGAD의 중재로 열린 협상에서 수단 정부와 SPLM은 6년의 과도기 이후 남부가 주민투표로 자신의 미래를 결정할 권리를 갖는다는 데 합의했다. 그 대가로 SPLM은 북부에서 샤리아가 적용될 수 있음을 받아들였다. 이 의정서는 포괄적 평화협정의 틀이 되었다.",
+    "zh": "2002年7月，在东非政府间发展组织（伊加特）于肯尼亚马查科斯主持的谈判中，苏丹政府与苏丹人民解放运动商定：南方在六年过渡期后有权通过公投决定自己的前途。作为交换，苏丹人民解放运动接受伊斯兰教法可在北方适用。该议定书成为《全面和平协议》的框架。",
+    "ja": "2002年7月、ケニアのマチャコスで地域機構IGADの仲介により行われた交渉で、スーダン政府とSPLMは、6年間の暫定期間の後に南部が住民投票で自らの将来を決める権利を持つことで合意した。その見返りにSPLMは北部でシャリーアが適用されうることを受け入れた。この議定書は包括的和平合意の枠組みとなった。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Comprehensive Peace Agreement signed",
+    "ko": "포괄적 평화협정 체결",
+    "zh": "《全面和平协议》签署",
+    "ja": "包括的和平合意の締結"
+   },
+   "description": {
+    "en": "The Comprehensive Peace Agreement ended the second civil war, granting the south autonomy, wealth-sharing, and the promise of an independence referendum. John Garang died in a helicopter crash months later.",
+    "ko": "포괄적 평화협정이 체결되어 제2차 내전이 종식되었다. 남부는 자치와 자원 배분, 독립 주민투표 실시를 보장받았다. 존 가랑은 몇 달 뒤 헬기 추락 사고로 사망했다.",
+    "zh": "《全面和平协议》签署，第二次内战结束。南方获得自治、财富分享以及举行独立公投的承诺。数月后约翰·加朗死于直升机坠毁事故。",
+    "ja": "包括的和平合意が結ばれ、第二次内戦が終結した。南部は自治と富の分配、独立を問う住民投票の実施を約束された。ジョン・ガランは数か月後、ヘリコプター墜落事故で死去した。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Death of John Garang",
+    "ko": "존 가랑의 사망",
+    "zh": "约翰·加朗遇难",
+    "ja": "ジョン・ガランの死"
+   },
+   "description": {
+    "en": "On 30 July 2005, just three weeks after being sworn in as First Vice President of Sudan and President of Southern Sudan, SPLM leader John Garang died when a Ugandan presidential helicopter crashed in bad weather. News of his death set off deadly riots in Khartoum and Juba. His deputy Salva Kiir Mayardit succeeded him, and Garang's vision of a reformed 'New Sudan' gave way to a stronger push for southern independence.",
+    "ko": "2005년 7월 30일, 수단 제1부통령 겸 남부 수단 대통령으로 취임한 지 불과 3주 만에 SPLM 지도자 존 가랑은 그가 탄 우간다 대통령 전용 헬리콥터가 악천후 속에 추락하면서 사망했다. 그의 사망 소식은 하르툼과 주바에서 유혈 폭동을 촉발했다. 부관 살바 키르 마야르디트가 뒤를 이었고, 개혁된 '새로운 수단'이라는 가랑의 구상은 남부 독립을 향한 더 강한 움직임에 자리를 내주었다.",
+    "zh": "2005年7月30日，苏丹人民解放运动领导人约翰·加朗在宣誓就任苏丹第一副总统兼南苏丹总统仅三周后，因所乘的乌干达总统直升机在恶劣天气中坠毁而遇难。他的死讯在喀土穆和朱巴引发了致命骚乱。其副手萨尔瓦·基尔·马亚尔迪特继任，加朗建设改革后的“新苏丹”的构想让位于更强烈的南方独立诉求。",
+    "ja": "2005年7月30日、スーダン第一副大統領兼南部スーダン大統領に就任してわずか3週間後、SPLMの指導者ジョン・ガランは、乗っていたウガンダ大統領のヘリコプターが悪天候の中で墜落して死亡した。死の知らせはハルツームとジュバで死者を出す暴動を引き起こした。副官のサルバ・キール・マヤルディットが後を継ぎ、改革された「新スーダン」というガランの構想は、南部独立へのより強い動きに道を譲った。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": "Q4871647",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Malakal",
+    "ko": "말라칼 전투",
+    "zh": "马拉卡勒战役",
+    "ja": "マラカルの戦い"
+   },
+   "description": {
+    "en": "In November 2006 heavy fighting broke out in the town of Malakal between the Sudanese Armed Forces, together with an allied militia, and the SPLA. Dozens of people, including civilians, were killed before a ceasefire was arranged. The clash was the most serious violation of the Comprehensive Peace Agreement in its early years and exposed the fragility of the arrangements for integrating armed groups.",
+    "ko": "2006년 11월 말라칼 시내에서 동맹 민병대와 함께한 수단군과 SPLA 사이에 격렬한 전투가 벌어졌다. 휴전이 성사되기 전까지 민간인을 포함해 수십 명이 사망했다. 이 충돌은 포괄적 평화협정 초기의 가장 심각한 위반 사례였으며, 무장 집단 통합 체제의 취약함을 드러냈다.",
+    "zh": "2006年11月，苏丹武装部队及其盟友民兵与苏丹人民解放军在马拉卡勒镇爆发激烈战斗。在达成停火之前，已有包括平民在内的数十人丧生。这次冲突是《全面和平协议》初期最严重的违约事件，暴露了整合各武装团体安排的脆弱性。",
+    "ja": "2006年11月、マラカルの町でスーダン国軍と同盟民兵、そしてSPLAの間で激しい戦闘が起きた。停戦が成立するまでに民間人を含む数十人が死亡した。この衝突は包括的和平合意初期における最も深刻な違反であり、武装集団の統合をめぐる取り決めのもろさを露呈した。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Abyei boundary ruling",
+    "ko": "아비에이 경계 판정",
+    "zh": "阿卜耶伊边界裁决",
+    "ja": "アビエイ境界裁定"
+   },
+   "description": {
+    "en": "After fighting in May 2008 destroyed much of the town of Abyei, home of the Ngok Dinka and seasonal grazing land of Misseriya Arab herders, the two sides referred the disputed boundary of the area to the Permanent Court of Arbitration in The Hague. Its July 2009 award reduced the area as drawn by an earlier boundary commission, placing some oil fields outside it. Both sides accepted the ruling at first, but the status of Abyei has remained unresolved.",
+    "ko": "2008년 5월 전투로 응옥 딩카족의 고향이자 미세리야 아랍 목축민의 계절 방목지인 아비에이 시내 대부분이 파괴되자, 양측은 이 지역의 분쟁 경계를 헤이그 상설중재재판소에 회부했다. 2009년 7월의 판정은 앞선 경계위원회가 그은 지역을 축소하여 일부 유전을 그 밖에 두었다. 양측은 처음에는 판정을 받아들였지만, 아비에이의 지위는 여전히 해결되지 않았다.",
+    "zh": "2008年5月的战斗摧毁了阿卜耶伊镇的大部分地区。这里是恩戈克丁卡人的家园，也是米塞里亚阿拉伯牧民的季节性牧场。此后双方将该地区的争议边界提交海牙常设仲裁法院。2009年7月的裁决缩小了此前边界委员会划定的范围，使部分油田被划在区外。双方起初都接受了裁决，但阿卜耶伊的地位至今悬而未决。",
+    "ja": "2008年5月の戦闘で、ンゴク・ディンカの故郷でありミセリヤ・アラブ牧畜民の季節的な放牧地でもあるアビエイの町の大半が破壊されると、双方はこの地域の係争境界をハーグの常設仲裁裁判所に付託した。2009年7月の裁定は、以前の境界委員会が引いた範囲を縮小し、一部の油田を区域外とした。双方は当初この裁定を受け入れたが、アビエイの地位は今も解決していない。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sudan's 2010 general elections",
+    "ko": "2010년 수단 총선",
+    "zh": "2010年苏丹大选",
+    "ja": "2010年スーダン総選挙"
+   },
+   "description": {
+    "en": "In April 2010 Sudan held its first multiparty general elections in more than two decades, as required by the peace agreement. In the south Salva Kiir was elected President of the Government of Southern Sudan with a large majority, while Omar al-Bashir won the national presidency amid an opposition boycott. Observers criticised irregularities, but the vote kept the timetable for the independence referendum on track.",
+    "ko": "2010년 4월 수단은 평화협정에 따라 20여 년 만의 첫 다당제 총선을 치렀다. 남부에서는 살바 키르가 압도적 지지로 남부 수단 정부 대통령에 당선되었고, 전국 대통령 선거에서는 야당의 보이콧 속에 오마르 알바시르가 승리했다. 감시단은 부정을 비판했지만, 이 선거로 독립 주민투표 일정은 예정대로 유지되었다.",
+    "zh": "2010年4月，苏丹依照和平协议举行了二十多年来首次多党大选。在南方，萨尔瓦·基尔以压倒性多数当选南苏丹政府总统；在全国，奥马尔·巴希尔在反对派抵制下赢得总统选举。观察员批评选举存在违规，但投票使独立公投的时间表得以如期推进。",
+    "ja": "2010年4月、スーダンは和平合意に従い、20年余りぶりとなる複数政党制の総選挙を実施した。南部ではサルバ・キールが圧倒的多数で南部スーダン政府大統領に選ばれ、国政の大統領選では野党のボイコットの中でオマル・アル＝バシールが勝利した。監視団は不正を批判したが、この選挙で独立住民投票の日程は予定どおり守られた。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Independence referendum held",
+    "ko": "독립 주민투표 실시",
+    "zh": "举行独立公投",
+    "ja": "独立を問う住民投票"
+   },
+   "description": {
+    "en": "In January 2011 southern Sudanese voted in a referendum promised by the 2005 peace deal; nearly 99 percent chose separation from Sudan, with mass participation at home and among the diaspora.",
+    "ko": "2011년 1월, 2005년 평화협정에서 약속된 주민투표가 실시되었다. 국내외에서 수많은 남수단인이 참여했으며 약 99퍼센트가 수단으로부터의 분리를 선택했다.",
+    "zh": "2011年1月，依据2005年和平协议承诺的公投举行。国内外南苏丹人踊跃参与，近99%的选民选择脱离苏丹。",
+    "ja": "2011年1月、2005年の和平合意で約束された住民投票が実施された。国内外の南スーダン人が広く参加し、約99パーセントがスーダンからの分離を選んだ。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence of South Sudan",
+    "ko": "남수단의 독립",
+    "zh": "南苏丹独立",
+    "ja": "南スーダンの独立"
+   },
+   "description": {
+    "en": "On 9 July 2011 the Republic of South Sudan declared independence, becoming the world's newest state, and joined the United Nations five days later with Juba as its capital and Salva Kiir as first president.",
+    "ko": "2011년 7월 9일 남수단 공화국이 독립을 선포해 세계에서 가장 새로운 국가가 되었고 닷새 뒤 유엔에 가입했다. 수도는 주바, 초대 대통령은 살바 키르였다.",
+    "zh": "2011年7月9日南苏丹共和国宣布独立，成为世界上最年轻的国家，五天后加入联合国。首都为朱巴，萨尔瓦·基尔出任首任总统。",
+    "ja": "2011年7月9日、南スーダン共和国が独立を宣言し、世界で最も新しい国家となった。5日後には国連に加盟した。首都はジュバ、初代大統領はサルバ・キールである。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q28223405",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Jonglei violence and the Pibor attacks",
+    "ko": "종글레이 폭력 사태와 피보르 공격",
+    "zh": "琼莱暴力冲突与皮博尔袭击",
+    "ja": "ジョングレイの暴力とピボル襲撃"
+   },
+   "description": {
+    "en": "Throughout 2011 cycles of cattle raiding and revenge attacks between Lou Nuer and Murle communities escalated in Jonglei State. In late December 2011 and early January 2012 thousands of armed Lou Nuer youth marched on Pibor and surrounding Murle villages, killing many people and abducting women and children. The violence showed how weak the new state's control remained over communal conflict.",
+    "ko": "2011년 내내 종글레이주에서는 로우 누에르와 무를레 공동체 사이의 소 약탈과 보복 공격의 악순환이 격화되었다. 2011년 12월 말부터 2012년 1월 초까지 수천 명의 무장한 로우 누에르 청년들이 피보르와 주변 무를레 마을로 진군해 많은 사람을 죽이고 여성과 아이들을 납치했다. 이 폭력은 신생국이 공동체 간 분쟁을 얼마나 통제하지 못하는지를 보여 주었다.",
+    "zh": "2011年全年，琼莱州的洛乌努尔人与穆尔勒人社群之间劫掠牛群和报复袭击的循环不断升级。2011年12月底至2012年1月初，数千名武装的洛乌努尔青年向皮博尔及周边穆尔勒村庄进发，杀害多人并掳走妇女儿童。这场暴力显示出新国家对族群冲突的控制力何等薄弱。",
+    "ja": "2011年を通じて、ジョングレイ州ではロウ・ヌエルとムルレの共同体の間で牛の略奪と報復攻撃の連鎖が激化した。2011年12月末から2012年1月初めにかけて、数千人の武装したロウ・ヌエルの若者がピボルと周辺のムルレの村々へ進軍し、多くの人々を殺害し女性や子どもを連れ去った。この暴力は、新国家が共同体間の紛争をいかに制御できていないかを示した。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Oil shutdown and the Heglig crisis",
+    "ko": "석유 생산 중단과 헤글리그 위기",
+    "zh": "石油停产与黑格利格危机",
+    "ja": "石油生産停止とヘグリグ危機"
+   },
+   "description": {
+    "en": "In January 2012, amid a dispute with Sudan over fees for using its pipelines, South Sudan shut down its entire oil production, the source of almost all government revenue. In April, South Sudanese forces briefly seized the Heglig oil field claimed by Sudan, sparking border fighting and Sudanese air strikes before they withdrew under international pressure. Agreements signed in Addis Ababa in September 2012 allowed oil to flow again in 2013.",
+    "ko": "2012년 1월 송유관 사용료를 둘러싸고 수단과 분쟁을 벌이던 남수단은 정부 수입의 거의 전부를 차지하던 석유 생산을 전면 중단했다. 4월에는 남수단군이 수단이 영유권을 주장하는 헤글리그 유전을 일시 점령하면서 국경 전투와 수단의 공습이 벌어졌고, 국제적 압력 속에 철수했다. 2012년 9월 아디스아바바에서 체결된 협정으로 2013년 석유 수송이 재개되었다.",
+    "zh": "2012年1月，南苏丹因输油管道使用费与苏丹发生争执，全面关停了几乎构成政府全部收入来源的石油生产。4月，南苏丹军队一度占领苏丹声索的黑格利格油田，引发边境战斗和苏丹空袭，后在国际压力下撤出。2012年9月在亚的斯亚贝巴签署的协议使石油于2013年恢复输送。",
+    "ja": "2012年1月、パイプライン使用料をめぐってスーダンと対立していた南スーダンは、政府歳入のほぼすべてを占める石油生産を全面停止した。4月には南スーダン軍がスーダンの領有を主張するヘグリグ油田を一時占拠し、国境での戦闘とスーダン軍の空爆を招いたが、国際的な圧力を受けて撤退した。2012年9月にアディスアベバで結ばれた協定により、2013年に石油の輸送が再開された。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q15353665",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Civil war erupts in the new nation",
+    "ko": "신생국의 내전 발발",
+    "zh": "新生国家爆发内战",
+    "ja": "新生国家での内戦勃発"
+   },
+   "description": {
+    "en": "A political rift between President Salva Kiir and former vice president Riek Machar escalated into civil war in December 2013. Fighting along ethnic lines killed an estimated 400,000 people and displaced millions.",
+    "ko": "살바 키르 대통령과 리에크 마차르 전 부통령의 정치적 대립이 2013년 12월 내전으로 번졌다. 민족 갈등이 얽힌 전투로 약 40만 명이 숨지고 수백만 명이 피란길에 올랐다.",
+    "zh": "总统萨尔瓦·基尔与前副总统里克·马沙尔的政治裂痕在2013年12月升级为内战。沿族群界线展开的战事估计造成约40万人死亡，数百万人流离失所。",
+    "ja": "サルバ・キール大統領とリエク・マシャール前副大統領の政治対立が2013年12月に内戦へと発展した。民族対立を伴う戦闘で推計40万人が死亡し、数百万人が避難を余儀なくされた。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q4670727",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Unofficial Abyei referendum",
+    "ko": "비공식 아비에이 주민투표",
+    "zh": "非官方阿卜耶伊公投",
+    "ja": "非公式のアビエイ住民投票"
+   },
+   "description": {
+    "en": "A referendum on whether Abyei should join Sudan or South Sudan had been promised for January 2011 but was repeatedly postponed over disputes about who could vote. In October 2013 the Ngok Dinka organised their own vote, in which nearly all participants chose South Sudan. The poll was not recognised by Sudan, South Sudan's government, the African Union or the United Nations, and the area's status remains disputed.",
+    "ko": "아비에이가 수단과 남수단 중 어디에 속할지를 묻는 주민투표는 2011년 1월에 열리기로 약속되었지만, 투표권자를 둘러싼 분쟁으로 거듭 연기되었다. 2013년 10월 응옥 딩카족은 자체 투표를 실시했고, 참가자 거의 전원이 남수단을 선택했다. 이 투표는 수단과 남수단 정부, 아프리카연합, 유엔 어느 쪽에서도 인정받지 못했고, 이 지역의 지위는 여전히 분쟁 중이다.",
+    "zh": "关于阿卜耶伊应归属苏丹还是南苏丹的公投原定于2011年1月举行，却因投票资格争议一再推迟。2013年10月，恩戈克丁卡人自行组织投票，几乎所有参与者都选择了南苏丹。这次投票未获苏丹、南苏丹政府、非洲联盟或联合国承认，该地区的地位仍存争议。",
+    "ja": "アビエイがスーダンと南スーダンのどちらに属するかを問う住民投票は2011年1月に行われるはずだったが、投票資格をめぐる対立で何度も延期された。2013年10月、ンゴク・ディンカは独自に投票を行い、参加者のほぼ全員が南スーダンを選んだ。この投票はスーダン、南スーダン政府、アフリカ連合、国連のいずれにも承認されず、地域の地位は今も争われている。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q16956086",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Bentiu massacre",
+    "ko": "벤티우 학살",
+    "zh": "本提乌屠杀",
+    "ja": "ベンティウ虐殺"
+   },
+   "description": {
+    "en": "In April 2014 opposition forces loyal to Riek Machar recaptured the town of Bentiu, the capital of Unity State. The United Nations reported that hundreds of civilians, many sheltering in a mosque, a hospital and a church, were killed on the basis of their ethnicity or nationality, and that hate speech was broadcast on local radio. The massacre became one of the emblematic atrocities of the civil war.",
+    "ko": "2014년 4월 리에크 마차르를 따르는 반정부군이 유니티주의 주도 벤티우를 탈환했다. 유엔은 모스크와 병원, 교회에 피신해 있던 사람들을 포함해 수백 명의 민간인이 민족이나 국적을 이유로 살해되었고, 지역 라디오에서 혐오 발언이 방송되었다고 보고했다. 이 학살은 내전의 상징적인 잔학 행위 가운데 하나가 되었다.",
+    "zh": "2014年4月，效忠里克·马沙尔的反对派武装夺回团结州首府本提乌。联合国报告称，数百名平民——其中许多人躲在清真寺、医院和教堂里——因其族裔或国籍而遭杀害，当地电台还播放了仇恨言论。这场屠杀成为内战中最具代表性的暴行之一。",
+    "ja": "2014年4月、リエック・マシャールに忠実な反政府勢力がユニティ州の州都ベンティウを奪還した。国連は、モスクや病院、教会に避難していた人々を含む数百人の民間人が民族や国籍を理由に殺害され、地元ラジオでヘイトスピーチが放送されたと報告した。この虐殺は内戦を象徴する残虐行為の一つとなった。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First peace agreement (ARCSS)",
+    "ko": "첫 평화협정(ARCSS)",
+    "zh": "首份和平协议（ARCSS）",
+    "ja": "最初の和平合意（ARCSS）"
+   },
+   "description": {
+    "en": "In August 2015, under heavy international pressure, Riek Machar and then President Kiir signed the Agreement on the Resolution of the Conflict in the Republic of South Sudan, mediated by IGAD. It provided for a transitional unity government with Machar returning as first vice president, which took shape in April 2016. Mistrust and disputes over security arrangements left the deal fragile.",
+    "ko": "2015년 8월 강한 국제적 압력 속에 리에크 마차르와 이어서 키르 대통령이 IGAD가 중재한 '남수단 공화국 분쟁 해결 협정'에 서명했다. 협정은 마차르가 제1부통령으로 복귀하는 과도 통합정부를 규정했고, 이 정부는 2016년 4월에 구성되었다. 그러나 불신과 안보 협정을 둘러싼 갈등으로 협정은 취약했다.",
+    "zh": "2015年8月，在巨大的国际压力下，里克·马沙尔与随后签字的基尔总统签署了由伊加特斡旋的《解决南苏丹共和国冲突协议》。协议规定组建过渡团结政府，马沙尔重任第一副总统，该政府于2016年4月成形。但互不信任以及在安全安排上的分歧使协议十分脆弱。",
+    "ja": "2015年8月、強い国際的圧力のもとで、リエック・マシャールと続いてキール大統領が、IGADの仲介による「南スーダン共和国における紛争解決合意」に署名した。合意はマシャールが第一副大統領に復帰する暫定統一政府を定め、この政府は2016年4月に発足した。しかし不信と治安面の取り決めをめぐる対立により、合意はもろいものだった。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q25753955",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fighting in Juba",
+    "ko": "주바 전투",
+    "zh": "朱巴战斗",
+    "ja": "ジュバでの戦闘"
+   },
+   "description": {
+    "en": "In July 2016, just as the country marked its fifth independence anniversary, fighting erupted in Juba between forces loyal to Kiir and to Machar. Hundreds were killed, aid workers were attacked, and Machar fled on foot with his forces to the Democratic Republic of the Congo. The collapse of the unity government spread the war to the previously calmer Equatoria region and drove a new wave of refugees into Uganda.",
+    "ko": "2016년 7월 독립 5주년을 맞은 바로 그때 주바에서 키르와 마차르를 따르는 병력 사이에 전투가 벌어졌다. 수백 명이 죽고 구호 요원들이 공격받았으며, 마차르는 병력과 함께 걸어서 콩고민주공화국으로 탈출했다. 통합정부의 붕괴로 전쟁은 비교적 평온하던 에콰토리아 지역으로 번졌고, 새로운 난민 물결이 우간다로 밀려들었다.",
+    "zh": "2016年7月，恰逢独立五周年之际，效忠基尔与效忠马沙尔的部队在朱巴爆发战斗。数百人死亡，援助人员遭到袭击，马沙尔率部徒步逃往刚果民主共和国。团结政府的瓦解使战火蔓延到此前相对平静的赤道地区，并引发新一波逃往乌干达的难民潮。",
+    "ja": "2016年7月、独立5周年を迎えたちょうどその時、ジュバでキール派とマシャール派の部隊の間で戦闘が起きた。数百人が死亡し、援助関係者が襲われ、マシャールは部隊とともに徒歩でコンゴ民主共和国へ逃れた。統一政府の崩壊によって戦火は比較的平穏だったエクアトリア地方へ広がり、新たな難民の波がウガンダへ押し寄せた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q28810727",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Famine declared in Unity State",
+    "ko": "유니티주 기근 선포",
+    "zh": "团结州宣布饥荒",
+    "ja": "ユニティ州で飢饉宣言"
+   },
+   "description": {
+    "en": "In February 2017 the government and United Nations agencies declared famine in parts of Unity State, the first formal famine declaration anywhere in the world since 2011. It was caused not by drought but by war, displacement, economic collapse and obstruction of aid. A scaled-up humanitarian response eased the famine by mid-2017, but millions of people continued to face severe hunger.",
+    "ko": "2017년 2월 정부와 유엔 기구들은 유니티주 일부 지역에 기근을 선포했는데, 이는 2011년 이후 세계 어디에서든 처음 나온 공식 기근 선포였다. 원인은 가뭄이 아니라 전쟁과 피란, 경제 붕괴, 구호 방해였다. 확대된 인도적 지원으로 2017년 중반까지 기근은 완화되었지만, 수백만 명이 계속해서 심각한 굶주림에 시달렸다.",
+    "zh": "2017年2月，政府和联合国机构宣布团结州部分地区出现饥荒，这是自2011年以来全球首次正式宣布饥荒。饥荒并非源于干旱，而是战争、流离失所、经济崩溃和援助受阻所致。扩大的人道援助在2017年年中缓解了饥荒，但仍有数百万人面临严重饥饿。",
+    "ja": "2017年2月、政府と国連機関はユニティ州の一部で飢饉を宣言した。これは2011年以来、世界で初めての正式な飢饉宣言であった。原因は干ばつではなく、戦争、避難、経済崩壊、援助の妨害だった。人道支援の拡大によって2017年半ばまでに飢饉は緩和されたが、数百万人が深刻な飢えに直面し続けた。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Revitalized peace agreement signed",
+    "ko": "재활성화 평화협정 서명",
+    "zh": "签署重振和平协议",
+    "ja": "再活性化和平合意の署名"
+   },
+   "description": {
+    "en": "Kiir and Machar signed the Revitalized Agreement on the Resolution of the Conflict in South Sudan in Addis Ababa, largely halting the fighting and setting out a path to power-sharing and eventual elections.",
+    "ko": "키르와 마차르가 아디스아바바에서 '재활성화 평화협정'에 서명했다. 이로써 전투가 대부분 멈추고 권력 분점과 향후 선거로 가는 길이 마련되었다.",
+    "zh": "基尔与马沙尔在亚的斯亚贝巴签署《解决南苏丹冲突重振协议》，战事大体平息，为权力分享和未来选举铺平道路。",
+    "ja": "キールとマシャールはアディスアベバで「再活性化和平合意」に署名した。これにより戦闘はおおむね収まり、権力分有と将来の選挙への道筋が示された。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Transitional unity government formed",
+    "ko": "과도 통합정부 출범",
+    "zh": "过渡团结政府成立",
+    "ja": "暫定統一政府の発足"
+   },
+   "description": {
+    "en": "A transitional government of national unity took office, with Riek Machar returning as first vice president. Implementation has been slow, and long-delayed national elections remain a central challenge for the young state.",
+    "ko": "리에크 마차르가 제1부통령으로 복귀하며 과도 통합정부가 출범했다. 그러나 이행은 더디고, 거듭 연기된 총선은 신생국의 핵심 과제로 남아 있다.",
+    "zh": "民族团结过渡政府成立，里克·马沙尔回任第一副总统。协议落实进展缓慢，一再推迟的全国选举仍是这个年轻国家面临的核心挑战。",
+    "ja": "国民統一暫定政府が発足し、リエク・マシャールが第一副大統領に復帰した。しかし合意の履行は遅れがちで、度重なる延期を経た総選挙の実施が若い国家の大きな課題となっている。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Influx from Sudan's war",
+    "ko": "수단 전쟁으로 인한 피란민 유입",
+    "zh": "苏丹战争引发难民潮涌入",
+    "ja": "スーダンの戦争による避難民の流入"
+   },
+   "description": {
+    "en": "After war broke out in Sudan in April 2023 between the Sudanese Armed Forces and the Rapid Support Forces, hundreds of thousands of people crossed into South Sudan, many of them South Sudanese returning from years of refuge in the north. Border towns such as Renk were overwhelmed, straining already scarce food and services. The war also disrupted the pipeline route on which South Sudan's oil exports depend.",
+    "ko": "2023년 4월 수단에서 수단군과 신속지원군 사이에 전쟁이 일어나자 수십만 명이 남수단으로 넘어왔는데, 그중 다수는 북쪽에서 수년간 피란 생활을 하다 돌아온 남수단인이었다. 렝크 같은 국경 도시는 감당할 수 없을 만큼 사람이 몰려 이미 부족한 식량과 공공 서비스가 한계에 달했다. 이 전쟁은 남수단 석유 수출이 의존하는 송유관 경로도 교란했다.",
+    "zh": "2023年4月苏丹武装部队与快速支援部队之间爆发战争后，数十万人越境进入南苏丹，其中许多是在北方避难多年后返乡的南苏丹人。伦克等边境城镇不堪重负，本已匮乏的粮食和公共服务更加紧张。这场战争还扰乱了南苏丹石油出口所依赖的输油管道线路。",
+    "ja": "2023年4月にスーダンでスーダン国軍と即応支援部隊の戦争が始まると、数十万人が南スーダンへ越境し、その多くは北部で長年避難生活を送っていた南スーダン人の帰還者だった。レンクなどの国境の町は人であふれ、もともと乏しい食料や公共サービスがひっ迫した。この戦争は南スーダンの石油輸出が頼るパイプラインの経路も混乱させた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q129317659",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Severe floods",
+    "ko": "대홍수",
+    "zh": "严重洪灾",
+    "ja": "深刻な洪水"
+   },
+   "description": {
+    "en": "In 2024 South Sudan suffered another season of severe flooding, following exceptional floods in 2019–2022 that had left large parts of Jonglei, Unity and Upper Nile under water. Hundreds of thousands of people were affected, losing homes, crops and cattle. Scientists and aid agencies link the recurrent floods to high water levels in the East African lakes feeding the White Nile.",
+    "ko": "2024년 남수단은 종글레이·유니티·상나일의 넓은 지역을 물에 잠기게 했던 2019~2022년의 이례적 홍수에 이어 또다시 심각한 홍수를 겪었다. 수십만 명이 피해를 입어 집과 농작물, 소를 잃었다. 과학자와 구호 기관들은 반복되는 홍수를 백나일에 물을 대는 동아프리카 호수들의 높은 수위와 연관 짓는다.",
+    "zh": "2024年，南苏丹再次遭遇严重洪灾。此前2019至2022年的特大洪水曾使琼莱州、团结州和上尼罗州大片地区被淹。数十万人受灾，失去了房屋、庄稼和牛群。科学家和援助机构认为，反复发生的洪灾与为白尼罗河供水的东非湖泊水位偏高有关。",
+    "ja": "2024年、南スーダンは再び深刻な洪水に見舞われた。これに先立つ2019〜2022年の記録的な洪水では、ジョングレイ、ユニティ、上ナイルの広い範囲が水没していた。数十万人が被災し、家や作物、牛を失った。科学者や援助機関は、繰り返す洪水を白ナイルに水を供給する東アフリカの湖の高い水位と関連づけている。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Elections postponed again",
+    "ko": "선거의 재연기",
+    "zh": "选举再度推迟",
+    "ja": "選挙の再延期"
+   },
+   "description": {
+    "en": "The transitional period under the 2018 peace deal had already been extended in 2022, setting elections for December 2024. In September 2024 the government announced a further two-year extension, moving the first post-independence elections to December 2026, citing unfinished work on the constitution, census and unified army. The repeated delays deepened public frustration and doubts about the peace process.",
+    "ko": "2018년 평화협정에 따른 과도기는 이미 2022년에 연장되어 선거가 2024년 12월로 잡혀 있었다. 2024년 9월 정부는 헌법·인구조사·통합군 창설이 마무리되지 않았다는 이유로 과도기를 다시 2년 연장하여, 독립 후 첫 선거를 2026년 12월로 미루었다. 거듭된 연기는 대중의 좌절과 평화 프로세스에 대한 의구심을 키웠다.",
+    "zh": "根据2018年和平协议设立的过渡期已于2022年延长，选举定于2024年12月举行。2024年9月，政府以宪法、人口普查和统一军队等工作尚未完成为由，宣布再延长两年，将独立后的首次选举推迟至2026年12月。一再推迟加深了民众的失望和对和平进程的怀疑。",
+    "ja": "2018年の和平合意に基づく暫定期間はすでに2022年に延長され、選挙は2024年12月とされていた。2024年9月、政府は憲法、国勢調査、統一軍の創設が終わっていないとして暫定期間をさらに2年延長し、独立後初の選挙を2026年12月に先送りした。度重なる延期は国民の失望と和平プロセスへの疑念を深めた。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q133445789",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Nasir clashes and Machar's detention",
+    "ko": "나시르 충돌과 마차르의 구금",
+    "zh": "纳绥尔冲突与马沙尔被拘",
+    "ja": "ナシルの衝突とマシャールの拘束"
+   },
+   "description": {
+    "en": "In March 2025 fighters of the armed Nuer youth group known as the White Army overran an army base at Nasir in Upper Nile State. The government accused Riek Machar's SPLM-IO of involvement, arrested several of his allies and later in March placed Machar himself under house arrest in Juba. The crisis severely strained the 2018 peace agreement and raised fears of a return to full-scale war.",
+    "ko": "2025년 3월 '화이트 아미'로 알려진 누에르 무장 청년 집단이 상나일주 나시르의 군 기지를 점령했다. 정부는 리에크 마차르의 SPLM-IO가 연루되었다고 비난하며 그의 측근 여러 명을 체포했고, 같은 3월 하순 마차르 본인을 주바에서 가택 연금했다. 이 위기는 2018년 평화협정을 크게 흔들었고 전면전 재발에 대한 우려를 키웠다.",
+    "zh": "2025年3月，被称为“白军”的努尔武装青年团体攻占了上尼罗州纳绥尔的一处军营。政府指责里克·马沙尔领导的苏丹人民解放运动（反对派）参与其中，逮捕了他的多名盟友，并于同月下旬在朱巴软禁了马沙尔本人。这场危机严重动摇了2018年和平协议，令人担忧全面战争卷土重来。",
+    "ja": "2025年3月、「ホワイト・アーミー」と呼ばれるヌエルの武装青年集団が上ナイル州ナシルの軍基地を制圧した。政府はリエック・マシャールのSPLM-IOの関与を非難して彼の側近数人を逮捕し、同じ3月下旬にはマシャール本人をジュバで自宅軟禁下に置いた。この危機は2018年の和平合意を大きく揺るがし、全面戦争の再発への懸念を高めた。"
+   }
+  }
+ ]
+}

@@ -1,0 +1,3173 @@
+{
+ "iso": "RO",
+ "eras": [
+  {
+   "from": -5400,
+   "to": -2750,
+   "kind": "culture",
+   "qid": "Q1162419",
+   "polity": null,
+   "name": {
+    "en": "Cucuteni–Trypillia culture",
+    "ko": "쿠쿠테니-트리필리아 문화",
+    "zh": "库库特尼-特里波里文化",
+    "ja": "ククテニ・トリピリア文化"
+   },
+   "summary": {
+    "en": "A Neolithic–Chalcolithic farming culture of Moldavia and neighbouring Ukraine and Moldova, famed for its large settlements and finely painted spiral-decorated pottery. In the same millennia the Gumelnița and Hamangia cultures flourished on the lower Danube and the Black Sea coast. The culture faded in the early 3rd millennium BC as steppe pastoralists spread into the region.",
+    "ko": "몰다비아와 인접한 우크라이나·몰도바 지역에 걸친 신석기·동석기 농경 문화로, 대규모 취락과 나선 무늬를 정교하게 그린 채색 토기로 유명하다. 같은 시기 도나우강 하류와 흑해 연안에서는 구멜니차 문화와 하만지아 문화가 번성했다. 기원전 3천년기 초 스텝 유목민이 이 지역으로 퍼지면서 쇠퇴했다.",
+    "zh": "分布于摩尔达维亚及邻近乌克兰、摩尔多瓦一带的新石器—铜石并用时代农耕文化，以大型聚落和饰有螺旋纹的精美彩陶闻名。同一时期，多瑙河下游和黑海沿岸还兴盛着古梅尔尼察文化和哈曼吉亚文化。公元前3千纪初，随着草原游牧人群进入该地区，这一文化逐渐衰落。",
+    "ja": "モルダヴィアと隣接するウクライナ・モルドバに広がった新石器〜銅石器時代の農耕文化で、大規模な集落と渦巻文様を描いた精巧な彩文土器で知られる。同じ頃、ドナウ下流域と黒海沿岸ではグメルニツァ文化やハマンギア文化が栄えた。前3千年紀初めにステップの牧畜民が広がると衰退していった。"
+   }
+  },
+  {
+   "from": -3500,
+   "to": -2200,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Bronze Age and steppe migrations",
+    "ko": "초기 청동기 시대와 스텝 이주",
+    "zh": "早期青铜时代与草原迁徙",
+    "ja": "初期青銅器時代とステップ民の移動"
+   },
+   "summary": {
+    "en": "After the decline of the great Chalcolithic cultures, the lands of present-day Romania were shared by cultures such as Cernavodă, Coțofeni and Glina, while kurgan burials of steppe pastoralists appeared on the plains. Metalworking in copper and early bronze spread and settlements became smaller and more mobile.",
+    "ko": "거대한 동석기 문화가 쇠퇴한 뒤 오늘날 루마니아 땅에는 체르나보다·코초페니·글리나 문화 등이 자리 잡았고, 평원에는 스텝 유목민의 쿠르간 무덤이 나타났다. 구리와 초기 청동 금속 가공이 퍼졌고 취락은 더 작고 이동성이 커졌다.",
+    "zh": "大型铜石并用文化衰落后，今罗马尼亚境内分布着切尔纳沃德、科措费尼、格利纳等文化，平原上则出现了草原牧民的库尔干墓葬。铜器和早期青铜冶炼技术传播开来，聚落规模变小、流动性增强。",
+    "ja": "大規模な銅石器文化が衰えた後、現在のルーマニアの地にはチェルナヴォダ、コツォフェニ、グリナなどの文化が分布し、平原にはステップ牧畜民のクルガン墓が現れた。銅や初期青銅の金属加工が広まり、集落は小さく移動的になった。"
+   }
+  },
+  {
+   "from": -2200,
+   "to": -1100,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Middle and Late Bronze Age",
+    "ko": "중·후기 청동기 시대",
+    "zh": "中晚期青铜时代",
+    "ja": "中・後期青銅器時代"
+   },
+   "summary": {
+    "en": "Regional cultures such as Monteoru, Wietenberg, Otomani, Tei and later Noua flourished, exploiting Transylvanian copper and gold. Fortified settlements like Cornești-Iarcuri in the Banat and rich bronze hoards reveal growing social hierarchies and long-distance trade across the Carpathian Basin.",
+    "ko": "몬테오루·비텐베르크·오토마니·테이, 그리고 뒤이은 노우아 문화 등 지역 문화가 트란실바니아의 구리와 금을 활용하며 번성했다. 바나트의 코르네슈티-이아르쿠리 같은 요새 취락과 풍부한 청동기 매납 유물은 사회 위계의 성장과 카르파티아 분지를 가로지르는 원거리 교역을 보여 준다.",
+    "zh": "蒙泰奥鲁、维滕贝格、奥托马尼、泰伊以及后来的诺瓦等地方文化相继兴盛，开发特兰西瓦尼亚的铜矿和金矿。巴纳特的科尔内什蒂-亚尔库里等设防聚落和丰富的青铜窖藏，反映出社会分层的加深以及横贯喀尔巴阡盆地的远程贸易。",
+    "ja": "モンテオル、ヴィーテンベルク、オトマニ、テイ、のちのノウアといった地域文化が、トランシルヴァニアの銅や金を利用して栄えた。バナトのコルネシュティ＝ヤルクリのような防御集落や豊富な青銅器埋納遺物は、社会階層化の進展とカルパチア盆地を横断する遠距離交易を物語る。"
+   }
+  },
+  {
+   "from": -1100,
+   "to": -300,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Iron Age and the Getae",
+    "ko": "초기 철기 시대와 게타이족",
+    "zh": "早期铁器时代与盖塔人",
+    "ja": "初期鉄器時代とゲタイ人"
+   },
+   "summary": {
+    "en": "Iron came into use with Hallstatt-type cultures such as Gáva and Basarabi, and Thracian-speaking peoples took shape north of the Danube. Greek writers from Herodotus onward call the people of the lower Danube the Getae; they faced the Persians, Scythians and Macedonians while trading with the Greek cities of the coast.",
+    "ko": "가바·바사라비 문화 같은 할슈타트형 문화와 함께 철이 쓰이기 시작했고, 도나우강 북쪽에서 트라키아어계 민족이 형성되었다. 헤로도토스 이래 그리스 저술가들은 도나우강 하류 주민을 게타이라 불렀으며, 이들은 페르시아·스키타이·마케도니아와 맞서는 한편 연안 그리스 도시들과 교역했다.",
+    "zh": "随着加瓦、巴萨拉比等哈尔施塔特类型文化的出现，铁器开始使用，多瑙河以北逐渐形成说色雷斯语的族群。自希罗多德起，希腊作家称多瑙河下游居民为盖塔人；他们先后与波斯人、斯基泰人和马其顿人对抗，同时与沿海希腊城邦通商。",
+    "ja": "ガヴァ文化やバサラビ文化などハルシュタット系の文化とともに鉄器が使われ始め、ドナウ川以北にトラキア系の人々がまとまっていった。ヘロドトス以来のギリシア人著述家はドナウ下流の住民をゲタイと呼び、彼らはペルシア、スキタイ、マケドニアと対峙しつつ沿岸のギリシア都市と交易した。"
+   }
+  },
+  {
+   "from": -657,
+   "to": -27,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Greek colonies of the western Black Sea coast",
+    "ko": "흑해 서안의 그리스 식민도시",
+    "zh": "黑海西岸的希腊殖民城邦",
+    "ja": "黒海西岸のギリシア植民市"
+   },
+   "summary": {
+    "en": "From the 7th century BC Greek colonists founded Histria, Tomis and Callatis on the Dobruja coast. These city-states traded wine, oil and pottery for grain, slaves and goods from the interior, minted coins and spread Greek culture among the Getae until they fell under Dacian and then Roman power.",
+    "ko": "기원전 7세기부터 그리스 이주민들이 도브루자 해안에 히스트리아·토미스·칼라티스를 세웠다. 이 도시국가들은 포도주·올리브유·토기를 내륙의 곡물·노예·물품과 교환하고 화폐를 주조하며 게타이족 사이에 그리스 문화를 전파했고, 이후 다키아와 로마의 지배 아래 들어갔다.",
+    "zh": "自公元前7世纪起，希腊殖民者在多布罗加沿岸建立了伊斯特里亚、托米斯和卡拉提斯。这些城邦以葡萄酒、橄榄油和陶器交换内陆的粮食、奴隶和货物，铸造钱币，在盖塔人中传播希腊文化，后来先后归于达契亚和罗马的统治。",
+    "ja": "前7世紀からギリシア人植民者がドブロジャ沿岸にヒストリア、トミス、カラティスを建設した。これらの都市国家はワイン・オリーブ油・陶器を内陸の穀物・奴隷・産物と交換し、貨幣を鋳造してゲタイ人の間にギリシア文化を広めたが、やがてダキア、ついでローマの支配下に入った。"
+   }
+  },
+  {
+   "from": -300,
+   "to": -82,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Geto-Dacian tribal kingdoms",
+    "ko": "게토-다키아 부족 왕국 시대",
+    "zh": "盖塔-达契亚部落王国时期",
+    "ja": "ゲト・ダキア部族王国時代"
+   },
+   "summary": {
+    "en": "Getic and Dacian chiefdoms grew in power, minted coins modelled on Macedonian and Thasian issues and built hill forts, while Celtic groups settled in Transylvania from around 300 BC. Rulers such as Dromichaetes show that the lower Danube had become a political force able to defy Hellenistic kings.",
+    "ko": "게타이·다키아 족장 사회가 세력을 키워 마케도니아·타소스 화폐를 본뜬 주화를 만들고 산성을 쌓았으며, 기원전 300년경부터 켈트족 집단이 트란실바니아에 정착했다. 드로미카이테스 같은 통치자는 도나우강 하류가 헬레니즘 왕들에게 맞설 만한 정치 세력이 되었음을 보여 준다.",
+    "zh": "盖塔与达契亚酋邦势力壮大，仿照马其顿和萨索斯钱币铸币，修筑山地要塞；约公元前300年起，凯尔特人群体定居于特兰西瓦尼亚。德罗米凯特斯等统治者表明，多瑙河下游已成为能够对抗希腊化诸王的政治力量。",
+    "ja": "ゲタイとダキアの首長国が力を伸ばし、マケドニアやタソスの貨幣を模した貨幣を鋳造し山城を築いた。前300年頃からはケルト系集団がトランシルヴァニアに定住した。ドロミカイテスのような支配者の存在は、ドナウ下流がヘレニズムの王に対抗できる政治勢力となったことを示す。"
+   }
+  },
+  {
+   "from": -82,
+   "to": 106,
+   "kind": "state",
+   "qid": "Q173082",
+   "polity": null,
+   "name": {
+    "en": "Dacian Kingdom",
+    "ko": "다키아 왕국",
+    "zh": "达契亚王国",
+    "ja": "ダキア王国"
+   },
+   "summary": {
+    "en": "Burebista united the Geto-Dacian tribes into a powerful kingdom centred on the Orăștie Mountains, briefly stretching from the middle Danube to the Black Sea. After a period of division, Decebalus rebuilt a strong state with its capital at Sarmizegetusa Regia, which fought Rome under Domitian and Trajan until its conquest in 106.",
+    "ko": "부레비스타가 게토-다키아 부족들을 오러슈티에 산지를 중심으로 한 강력한 왕국으로 통합해, 한때 도나우강 중류에서 흑해에 이르렀다. 분열기를 거친 뒤 데케발루스가 사르미제게투사 레기아를 수도로 강력한 국가를 재건했고, 도미티아누스와 트라야누스의 로마에 맞서 싸우다 106년 정복되었다.",
+    "zh": "布雷比斯塔将盖塔-达契亚各部落统一为以奥勒什蒂耶山区为中心的强大王国，一度从多瑙河中游延伸至黑海。经过一段分裂期后，德凯巴鲁斯以萨尔米泽杰图萨·雷吉亚为都重建强国，先后与图密善和图拉真统治下的罗马交战，直至106年被征服。",
+    "ja": "ブレビスタはゲト・ダキア諸部族をオラシュティエ山地を中心とする強大な王国にまとめ、一時は中部ドナウから黒海に及んだ。分裂期を経てデケバルスがサルミゼゲトゥサ・レギアを都に強国を再建し、ドミティアヌスやトラヤヌスのローマと戦ったが106年に征服された。"
+   }
+  },
+  {
+   "from": -27,
+   "to": 681,
+   "kind": "state",
+   "qid": "Q12544",
+   "polity": "Eastern Roman Empire",
+   "name": {
+    "en": "Roman and Early Byzantine Dobruja (Scythia Minor)",
+    "ko": "로마·초기 비잔티움 시대의 도브루자(소스키티아)",
+    "zh": "罗马与早期拜占庭时期的多布罗加（小斯基泰）",
+    "ja": "ローマ・初期ビザンツ時代のドブロジャ（小スキュティア）"
+   },
+   "summary": {
+    "en": "From the late 1st century BC the Dobruja and the Greek coastal cities came gradually under Roman control, later forming part of Moesia Inferior and, from around 300, the province of Scythia Minor. Fortresses such as Tropaeum Traiani, Noviodunum and Histria guarded the lower Danube, and the region remained under Constantinople until the Slavic and Bulgar settlements of the 7th century.",
+    "ko": "기원전 1세기 말부터 도브루자와 연안 그리스 도시들은 점차 로마의 통제 아래 들어가 모이시아 인페리오르의 일부가 되었고, 300년 무렵부터는 스키티아 미노르 속주가 되었다. 트로파이움 트라이아니·노비오두눔·히스트리아 등의 요새가 도나우강 하류를 지켰으며, 7세기 슬라브인·불가르인 정착 이전까지 콘스탄티노폴리스의 지배를 받았다.",
+    "zh": "自公元前1世纪末起，多布罗加和沿海希腊城市逐渐归入罗马控制，后属下默西亚行省，约300年起成为小斯基泰行省。图拉真胜利纪念城、诺维奥杜努姆、伊斯特里亚等要塞守卫着多瑙河下游，直到7世纪斯拉夫人和保加尔人定居之前，该地区一直隶属君士坦丁堡。",
+    "ja": "前1世紀末からドブロジャと沿岸ギリシア都市は次第にローマの支配下に入り、下モエシア属州の一部、さらに300年頃からは小スキュティア属州となった。トロパエウム・トライアニ、ノウィオドゥヌム、ヒストリアなどの要塞がドナウ下流を守り、7世紀のスラヴ人・ブルガール人の定住まではコンスタンティノープルの支配が続いた。"
+   }
+  },
+  {
+   "from": 106,
+   "to": 275,
+   "kind": "state",
+   "qid": null,
+   "polity": "Roman Empire",
+   "name": {
+    "en": "Roman Dacia",
+    "ko": "로마령 다키아",
+    "zh": "罗马达契亚行省",
+    "ja": "ローマ領ダキア"
+   },
+   "summary": {
+    "en": "After Trajan's conquest, Transylvania, the Banat and Oltenia formed the province of Dacia, settled by colonists from across the empire and centred on Ulpia Traiana Sarmizegetusa. Its gold mines, legionary camps and towns made it a frontier bastion until Aurelian withdrew the army and administration around 271–275. Romanization here is central to debates on the origins of the Romanian language.",
+    "ko": "트라야누스의 정복 이후 트란실바니아·바나트·올테니아는 다키아 속주가 되었고, 제국 각지의 이주민이 정착했으며 울피아 트라이아나 사르미제게투사가 중심지였다. 금광, 군단 기지, 도시들로 국경의 보루 역할을 했으나 271~275년 무렵 아우렐리아누스가 군대와 행정을 철수시켰다. 이곳의 로마화는 루마니아어 기원 논쟁의 핵심이다.",
+    "zh": "图拉真征服后，特兰西瓦尼亚、巴纳特和奥尔特尼亚组成达契亚行省，来自帝国各地的移民在此定居，中心为乌尔皮亚·图拉真·萨尔米泽杰图萨。这里的金矿、军团营地和城市使其成为边疆堡垒，直到约271至275年奥勒良撤出军队和行政机构。此地的罗马化是罗马尼亚语起源争论的核心。",
+    "ja": "トラヤヌスの征服後、トランシルヴァニア・バナト・オルテニアはダキア属州となり、帝国各地からの入植者が住み、ウルピア・トライアナ・サルミゼゲトゥサが中心となった。金鉱、軍団基地、都市を擁する辺境の砦であったが、271〜275年頃アウレリアヌスが軍と行政を撤収した。この地のローマ化はルーマニア語起源をめぐる議論の核心である。"
+   }
+  },
+  {
+   "from": 271,
+   "to": 376,
+   "kind": "state",
+   "qid": "Q422253",
+   "polity": "Gothia",
+   "name": {
+    "en": "Gothic dominance north of the Danube",
+    "ko": "도나우강 북쪽의 고트족 지배",
+    "zh": "多瑙河以北的哥特人统治",
+    "ja": "ドナウ以北のゴート支配"
+   },
+   "summary": {
+    "en": "After the Roman withdrawal, the Thervingi Goths, together with Carpi, Sarmatians and Taifali, dominated the lands north of the lower Danube. They alternately fought and traded with Rome, and Christianity spread among them through missionaries such as Ulfilas. The Sântana de Mureș–Chernyakhov culture is the archaeological trace of this world.",
+    "ko": "로마 철수 후 테르빙기 고트족이 카르피·사르마티아·타이팔리족과 함께 도나우강 하류 북쪽을 지배했다. 이들은 로마와 싸우기도 하고 교역하기도 했으며, 울필라스 같은 선교사를 통해 그리스도교가 퍼졌다. 산타나 데 무레슈-체르냐호프 문화가 이 시기의 고고학적 흔적이다.",
+    "zh": "罗马撤离后，特尔温吉哥特人与卡尔皮人、萨尔马提亚人、泰法利人一起控制了多瑙河下游以北地区。他们时而与罗马交战，时而通商，基督教也通过乌尔菲拉等传教士在他们中间传播。圣塔纳-德穆列什—切尔尼亚霍夫文化是这一时期的考古遗存。",
+    "ja": "ローマ撤収後、テルウィンギ族のゴート人がカルピ人、サルマタイ人、タイファリ人とともにドナウ下流以北を支配した。彼らはローマと戦い、また交易し、ウルフィラスらの宣教によってキリスト教が広まった。サンタナ・デ・ムレシュ＝チェルニャホフ文化がこの時代の考古学的痕跡である。"
+   }
+  },
+  {
+   "from": 376,
+   "to": 454,
+   "kind": "state",
+   "qid": "Q45813",
+   "polity": "Hunnic Empire",
+   "name": {
+    "en": "Hunnic rule",
+    "ko": "훈족의 지배",
+    "zh": "匈人统治",
+    "ja": "フン族の支配"
+   },
+   "summary": {
+    "en": "The arrival of the Huns in 376 drove most Goths across the Danube into the Roman Empire. Under rulers culminating in Attila, the Huns dominated the Carpathian Basin and the lower Danube plains, ruling subject peoples such as the Gepids until their empire collapsed after Attila's death.",
+    "ko": "376년 훈족이 도착하자 대부분의 고트족이 도나우강을 건너 로마 제국으로 들어갔다. 아틸라에 이르는 통치자들 아래 훈족은 카르파티아 분지와 도나우강 하류 평원을 지배하며 게피드족 등 예속 민족을 거느렸으나, 아틸라 사후 제국은 무너졌다.",
+    "zh": "376年匈人到来，迫使大多数哥特人渡过多瑙河进入罗马帝国。在以阿提拉为顶峰的历代统治者治下，匈人控制了喀尔巴阡盆地和多瑙河下游平原，统辖格皮德人等附属民族，阿提拉死后帝国随即瓦解。",
+    "ja": "376年のフン族の到来により、ゴート人の多くはドナウを越えてローマ帝国内へ逃れた。アッティラに至る支配者のもとでフン族はカルパチア盆地とドナウ下流平原を支配し、ゲピド族などの従属民を率いたが、アッティラの死後その帝国は崩壊した。"
+   }
+  },
+  {
+   "from": 454,
+   "to": 567,
+   "kind": "state",
+   "qid": "Q201706",
+   "polity": "Kingdom of the Gepids",
+   "name": {
+    "en": "Kingdom of the Gepids",
+    "ko": "게피드 왕국",
+    "zh": "格皮德王国",
+    "ja": "ゲピド王国"
+   },
+   "summary": {
+    "en": "After defeating the Huns at Nedao, the Germanic Gepids ruled Transylvania, the Banat and the Tisza region for about a century. Rich princely graves such as those at Apahida attest their wealth; the kingdom was destroyed in 567 by the Lombards and Avars.",
+    "ko": "네다오에서 훈족을 물리친 게르만계 게피드족은 약 한 세기 동안 트란실바니아·바나트·티서강 유역을 다스렸다. 아파히다 등의 화려한 수장 무덤이 그 부를 보여 주며, 왕국은 567년 랑고바르드족과 아바르족에게 멸망했다.",
+    "zh": "日耳曼人格皮德人在内道河击败匈人后，统治特兰西瓦尼亚、巴纳特和蒂萨河地区约一个世纪。阿帕希达等地的豪华首领墓葬显示了他们的财富；567年，王国被伦巴第人和阿瓦尔人所灭。",
+    "ja": "ネダオでフン族を破ったゲルマン系のゲピド族は、約1世紀にわたりトランシルヴァニア、バナト、ティサ川流域を支配した。アパヒダなどの豪華な首長墓がその富を示すが、王国は567年ランゴバルド族とアヴァール族に滅ぼされた。"
+   }
+  },
+  {
+   "from": 567,
+   "to": 805,
+   "kind": "state",
+   "qid": "Q68962",
+   "polity": "Avar Khaganate",
+   "name": {
+    "en": "Avar Khaganate",
+    "ko": "아바르 칸국",
+    "zh": "阿瓦尔汗国",
+    "ja": "アヴァール可汗国"
+   },
+   "summary": {
+    "en": "The nomadic Avars, based in the Pannonian plain, extended their domination over Transylvania and the Banat and led Slavic groups in raids across the Danube into the Byzantine Balkans. Their power collapsed after Frankish campaigns in the 790s and Bulgar attacks in the early 9th century.",
+    "ko": "판노니아 평원에 근거한 유목민 아바르족은 트란실바니아와 바나트로 지배를 넓히고 슬라브 집단을 이끌고 도나우강을 넘어 비잔티움령 발칸을 약탈했다. 790년대 프랑크의 원정과 9세기 초 불가르의 공격으로 세력이 무너졌다.",
+    "zh": "以潘诺尼亚平原为根据地的游牧民族阿瓦尔人将统治扩展至特兰西瓦尼亚和巴纳特，并率领斯拉夫人群越过多瑙河侵袭拜占庭巴尔干地区。790年代法兰克人的征讨和9世纪初保加尔人的进攻使其势力崩溃。",
+    "ja": "パンノニア平原を本拠とする遊牧民アヴァールはトランシルヴァニアとバナトに支配を広げ、スラヴ人集団を率いてドナウを越えビザンツ領バルカンを襲った。790年代のフランク王国の遠征と9世紀初頭のブルガールの攻撃でその勢力は崩壊した。"
+   }
+  },
+  {
+   "from": 600,
+   "to": 1000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Slavic settlement and Romanian ethnogenesis",
+    "ko": "슬라브인 정착과 루마니아인 형성기",
+    "zh": "斯拉夫人定居与罗马尼亚民族形成期",
+    "ja": "スラヴ人の定住とルーマニア人の形成期"
+   },
+   "summary": {
+    "en": "Slavs settled widely on both sides of the Carpathians and left a deep mark on place names and on the Romanian language. Speakers of Eastern Romance, ancestors of the Romanians (Vlachs), emerged in this period, but where exactly their ethnogenesis took place — north or south of the Danube or both — remains debated by historians.",
+    "ko": "슬라브인이 카르파티아 산맥 양쪽에 널리 정착해 지명과 루마니아어에 깊은 흔적을 남겼다. 루마니아인(블라흐인)의 조상인 동로망스어 화자들이 이 시기에 등장했지만, 그 민족 형성이 정확히 도나우강 북쪽인지 남쪽인지 혹은 양쪽인지에 대해서는 역사가들 사이에 논쟁이 계속되고 있다.",
+    "zh": "斯拉夫人在喀尔巴阡山两侧广泛定居，在地名和罗马尼亚语中留下深刻印记。罗马尼亚人（弗拉赫人）的祖先——东罗曼语使用者在这一时期出现，但其民族形成的确切地点是在多瑙河以北、以南还是两岸兼有，史学界至今仍有争论。",
+    "ja": "スラヴ人がカルパチア山脈の両側に広く定住し、地名やルーマニア語に深い痕跡を残した。ルーマニア人（ヴラフ人）の祖先である東ロマンス語話者がこの時期に現れたが、その民族形成がドナウの北か南か、あるいは両方かについては歴史家の間で議論が続いている。"
+   }
+  },
+  {
+   "from": 681,
+   "to": 1018,
+   "kind": "state",
+   "qid": "Q203817",
+   "polity": "First Bulgarian Empire",
+   "name": {
+    "en": "First Bulgarian Empire",
+    "ko": "제1차 불가리아 제국",
+    "zh": "第一保加利亚帝国",
+    "ja": "第一次ブルガリア帝国"
+   },
+   "summary": {
+    "en": "Founded on the lower Danube by Asparuh's Bulgars, the empire controlled the Dobruja and, for long periods, the Wallachian plain and parts of southern Transylvania. It adopted Christianity in the 860s and spread Old Church Slavonic, which became the liturgical and chancery language of the later Romanian principalities.",
+    "ko": "아스파루흐의 불가르인이 도나우강 하류에 세운 이 제국은 도브루자와, 오랜 기간 왈라키아 평원 및 트란실바니아 남부 일부를 지배했다. 860년대에 그리스도교를 받아들이고 고대 교회 슬라브어를 전파했는데, 이 언어는 훗날 루마니아 공국들의 전례·공문서 언어가 되었다.",
+    "zh": "由阿斯巴鲁赫率领的保加尔人在多瑙河下游建立，控制多布罗加，并长期统辖瓦拉几亚平原和特兰西瓦尼亚南部部分地区。860年代皈依基督教并推广古教会斯拉夫语，该语言后来成为罗马尼亚诸公国的礼拜和公文语言。",
+    "ja": "アスパルフ率いるブルガール人がドナウ下流に建てた国で、ドブロジャを支配し、長期にわたりワラキア平原やトランシルヴァニア南部の一部にも及んだ。860年代にキリスト教を受容して古代教会スラヴ語を広め、これは後のルーマニア諸公国の典礼・公文書の言語となった。"
+   }
+  },
+  {
+   "from": 895,
+   "to": 1003,
+   "kind": "state",
+   "qid": "Q2899771",
+   "polity": "Principality of Hungary",
+   "name": {
+    "en": "Hungarian conquest and the Transylvanian Gyulas",
+    "ko": "마자르인의 정복과 트란실바니아의 귈라",
+    "zh": "马扎尔人的征服与特兰西瓦尼亚的久拉",
+    "ja": "マジャル人の征服とトランシルヴァニアのギュラ"
+   },
+   "summary": {
+    "en": "The Magyars entered the Carpathian Basin around 895 and gradually extended their power into Transylvania, where a line of chiefs known as the gyula ruled with links to Byzantium. Hungarian chronicles also mention local rulers such as Gelou, Glad and Menumorut, whose historicity is debated.",
+    "ko": "마자르인은 895년경 카르파티아 분지에 들어와 점차 트란실바니아로 세력을 넓혔고, 그곳에서는 '귈라'라 불린 수장 가문이 비잔티움과 연계하며 다스렸다. 헝가리 연대기는 겔루·글라드·메누모루트 같은 현지 통치자도 언급하는데, 이들의 실재 여부는 논쟁 중이다.",
+    "zh": "马扎尔人约于895年进入喀尔巴阡盆地，逐步将势力扩展到特兰西瓦尼亚，当地由称为“久拉”的首领家族统治，并与拜占庭有联系。匈牙利编年史还提到格卢、格拉德、梅努莫鲁特等地方统治者，其真实性存在争议。",
+    "ja": "マジャル人は895年頃カルパチア盆地に入り、次第にトランシルヴァニアへ勢力を広げた。そこでは「ギュラ」と呼ばれる首長の家系がビザンツと結びつきながら支配した。ハンガリーの年代記はゲロウ、グラド、メヌモルトといった在地の支配者にも触れるが、その実在性は議論がある。"
+   }
+  },
+  {
+   "from": 900,
+   "to": 1241,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Pechenegs and Cumans beyond the Carpathians",
+    "ko": "카르파티아 너머의 페체네그족과 쿠만족",
+    "zh": "喀尔巴阡山外的佩切涅格人与库曼人",
+    "ja": "カルパチア以東のペチェネグ人とクマン人"
+   },
+   "summary": {
+    "en": "Turkic nomads — first the Pechenegs, then the Cumans from the late 11th century — dominated the plains of Moldavia and Wallachia, living alongside Romanian and Slavic farming communities. The region was often called Cumania until the Mongol invasion of 1241 shattered Cuman power.",
+    "ko": "튀르크계 유목민인 페체네그족, 이어 11세기 말부터 쿠만족이 몰다비아와 왈라키아 평원을 지배하며 루마니아인·슬라브인 농경 공동체와 공존했다. 이 지역은 1241년 몽골 침입으로 쿠만 세력이 무너질 때까지 흔히 쿠마니아라 불렸다.",
+    "zh": "突厥系游牧民族——先是佩切涅格人，11世纪末起是库曼人——控制摩尔达维亚和瓦拉几亚平原，与罗马尼亚人和斯拉夫人的农耕社群共存。直到1241年蒙古入侵摧毁库曼势力之前，该地区常被称为库曼尼亚。",
+    "ja": "テュルク系遊牧民、最初はペチェネグ人、11世紀末からはクマン人がモルダヴィアとワラキアの平原を支配し、ルーマニア人やスラヴ人の農耕共同体と共存した。この地域は1241年のモンゴル侵攻でクマンの勢力が崩れるまで、しばしばクマニアと呼ばれた。"
+   }
+  },
+  {
+   "from": 971,
+   "to": 1186,
+   "kind": "state",
+   "qid": null,
+   "polity": "Byzantine Empire",
+   "name": {
+    "en": "Byzantine Paristrion",
+    "ko": "비잔티움의 파리스트리온",
+    "zh": "拜占庭帕里斯特里昂",
+    "ja": "ビザンツのパリストリオン"
+   },
+   "summary": {
+    "en": "Emperor John I Tzimiskes recovered the Dobruja in 971, and the region became the Byzantine frontier province of Paristrion along the lower Danube. Exposed to Pecheneg and Cuman raids, it remained Byzantine until the Asen uprising of 1185 created the Second Bulgarian Empire.",
+    "ko": "요안네스 1세 치미스케스 황제가 971년 도브루자를 되찾았고, 이 지역은 도나우강 하류를 따라 비잔티움의 변경 속주 파리스트리온이 되었다. 페체네그족·쿠만족의 습격에 시달리면서도 1185년 아센 형제의 봉기로 제2차 불가리아 제국이 생길 때까지 비잔티움령으로 남았다.",
+    "zh": "皇帝约翰一世·齐米斯基斯于971年收复多布罗加，该地区成为多瑙河下游的拜占庭边境行省帕里斯特里昂。尽管屡遭佩切涅格人和库曼人侵袭，它一直属于拜占庭，直到1185年阿森兄弟起义建立第二保加利亚帝国。",
+    "ja": "皇帝ヨハネス1世ツィミスケスが971年にドブロジャを奪回し、この地はドナウ下流沿いのビザンツ辺境属州パリストリオンとなった。ペチェネグやクマンの襲撃にさらされつつも、1185年のアセン兄弟の蜂起で第二次ブルガリア帝国が成立するまでビザンツ領であった。"
+   }
+  },
+  {
+   "from": 1003,
+   "to": 1541,
+   "kind": "state",
+   "qid": "Q171150",
+   "polity": "Kingdom of Hungary",
+   "name": {
+    "en": "Transylvania in the Kingdom of Hungary",
+    "ko": "헝가리 왕국 시대의 트란실바니아",
+    "zh": "匈牙利王国治下的特兰西瓦尼亚",
+    "ja": "ハンガリー王国下のトランシルヴァニア"
+   },
+   "summary": {
+    "en": "Transylvania, the Banat, Crișana and Maramureș were integrated into the Kingdom of Hungary, with Transylvania governed by a royal voivode. Kings settled Saxon colonists and Székelys to guard the frontier, and from 1438 the privileged 'three nations' — Hungarian nobles, Saxons and Székelys — dominated political life, excluding the Orthodox Romanian majority.",
+    "ko": "트란실바니아·바나트·크리샤나·마라무레슈는 헝가리 왕국에 편입되었고, 트란실바니아는 왕이 임명한 보예보드가 다스렸다. 왕들은 국경 방어를 위해 작센 이주민과 세케이인을 정착시켰고, 1438년부터는 헝가리 귀족·작센인·세케이인의 특권적 '세 민족'이 정치를 장악해 정교회 신자인 루마니아인 다수는 배제되었다.",
+    "zh": "特兰西瓦尼亚、巴纳特、克里沙纳和马拉穆列什被并入匈牙利王国，特兰西瓦尼亚由国王任命的督军治理。历代国王安置萨克森移民和塞凯伊人守卫边疆；自1438年起，匈牙利贵族、萨克森人和塞凯伊人这三个享有特权的“民族”主导政治，信奉东正教的罗马尼亚多数人口被排斥在外。",
+    "ja": "トランシルヴァニア、バナト、クリシャナ、マラムレシュはハンガリー王国に組み込まれ、トランシルヴァニアは国王任命のヴォイヴォダが統治した。王たちは辺境防衛のためザクセン人入植者やセーケイ人を配置し、1438年以降はハンガリー貴族・ザクセン人・セーケイ人の特権的な「三民族」が政治を握り、正教徒のルーマニア人多数派は排除された。"
+   }
+  },
+  {
+   "from": 1186,
+   "to": 1346,
+   "kind": "state",
+   "qid": "Q420759",
+   "polity": "Second Bulgarian Empire",
+   "name": {
+    "en": "Second Bulgarian Empire",
+    "ko": "제2차 불가리아 제국",
+    "zh": "第二保加利亚帝国",
+    "ja": "第二次ブルガリア帝国"
+   },
+   "summary": {
+    "en": "Created by the uprising of the brothers Peter and Asen, the empire controlled the Dobruja and exercised influence north of the lower Danube. Byzantine sources call its founders Vlachs, and the ethnic character of the early state is still debated between Bulgarian and Romanian historiographies.",
+    "ko": "페타르와 아센 형제의 봉기로 세워진 이 제국은 도브루자를 지배하고 도나우강 하류 북쪽에도 영향력을 행사했다. 비잔티움 사료는 건국자들을 블라흐인이라 부르며, 초기 국가의 민족적 성격은 불가리아와 루마니아 사학계 사이에서 여전히 논쟁 중이다.",
+    "zh": "该帝国由彼得与阿森兄弟起义建立，控制多布罗加并对多瑙河下游以北地区施加影响。拜占庭史料称其创建者为弗拉赫人，早期国家的民族属性至今仍是保加利亚与罗马尼亚史学界争论的问题。",
+    "ja": "ペタルとアセンの兄弟の蜂起によって成立し、ドブロジャを支配してドナウ下流以北にも影響を及ぼした。ビザンツ史料は建国者をヴラフ人と呼び、初期国家の民族的性格はブルガリアとルーマニアの歴史学の間でなお議論されている。"
+   }
+  },
+  {
+   "from": 1241,
+   "to": 1363,
+   "kind": "state",
+   "qid": "Q79965",
+   "polity": "Golden Horde",
+   "name": {
+    "en": "Mongol and Golden Horde overlordship",
+    "ko": "몽골과 킵차크 칸국의 종주권",
+    "zh": "蒙古与金帐汗国的宗主统治",
+    "ja": "モンゴルとジョチ・ウルスの宗主権"
+   },
+   "summary": {
+    "en": "The Mongol invasion of 1241 devastated Transylvania and destroyed the Cumans; afterwards the Golden Horde held sway over the steppes of Moldavia and eastern Wallachia. Its decline in the mid-14th century, amid Hungarian campaigns, opened the way for the Romanian principalities.",
+    "ko": "1241년 몽골 침입은 트란실바니아를 황폐화하고 쿠만족을 무너뜨렸으며, 이후 킵차크 칸국(금장 칸국)이 몰다비아와 왈라키아 동부의 스텝을 지배했다. 14세기 중엽 헝가리의 원정 속에 칸국이 쇠퇴하면서 루마니아 공국들이 등장할 길이 열렸다.",
+    "zh": "1241年蒙古入侵重创特兰西瓦尼亚并摧毁库曼人，此后金帐汗国控制了摩尔达维亚和瓦拉几亚东部草原。14世纪中叶，在匈牙利的征讨下汗国衰落，为罗马尼亚诸公国的兴起开辟了道路。",
+    "ja": "1241年のモンゴル侵攻はトランシルヴァニアを荒廃させクマン人を滅ぼした。その後ジョチ・ウルス（金帳汗国）がモルダヴィアとワラキア東部のステップを支配した。14世紀半ば、ハンガリーの遠征のなかで汗国が衰えると、ルーマニア諸公国成立への道が開けた。"
+   }
+  },
+  {
+   "from": 1310,
+   "to": 1859,
+   "kind": "state",
+   "qid": "Q171393",
+   "polity": "Principality of Wallachia",
+   "name": {
+    "en": "Principality of Wallachia",
+    "ko": "왈라키아 공국",
+    "zh": "瓦拉几亚公国",
+    "ja": "ワラキア公国"
+   },
+   "summary": {
+    "en": "Unified by Basarab I in the early 14th century and independent after Posada in 1330, Wallachia lay between the Southern Carpathians and the Danube. Rulers such as Mircea the Elder, Vlad III and Michael the Brave resisted Ottoman expansion, but from the 15th century the principality paid tribute to the Porte while keeping its own princes, church and boyar elite; from 1716 to 1821 it was ruled by Phanariote Greeks appointed by the Sultan.",
+    "ko": "14세기 초 바사라브 1세가 통일하고 1330년 포사다 전투 이후 독립한 왈라키아는 남카르파티아 산맥과 도나우강 사이에 자리했다. 늙은 미르체아·블라드 3세·미하이 용맹공 등은 오스만의 팽창에 맞섰으나, 15세기부터 공국은 오스만에 공납하면서도 자체 군주·교회·보야르 귀족을 유지했고, 1716~1821년에는 술탄이 임명한 파나리오트 그리스인이 다스렸다.",
+    "zh": "瓦拉几亚由巴萨拉布一世于14世纪初统一，1330年波萨达战役后独立，位于南喀尔巴阡山与多瑙河之间。老米尔恰、弗拉德三世、勇敢的米哈伊等统治者抵抗奥斯曼扩张，但自15世纪起公国向奥斯曼纳贡，同时保有本土君主、教会和波雅尔贵族；1716年至1821年由苏丹任命的法纳尔希腊人统治。",
+    "ja": "14世紀初めにバサラブ1世が統一し、1330年のポサダの戦い以降独立したワラキアは、南カルパチア山脈とドナウ川の間に位置した。老ミルチャ、ヴラド3世、ミハイ勇敢公らはオスマンの拡大に抵抗したが、15世紀以降は貢納しつつ自前の君主・教会・ボヤール貴族を保ち、1716〜1821年にはスルタンが任命したファナリオティスのギリシア人が統治した。"
+   }
+  },
+  {
+   "from": 1346,
+   "to": 1417,
+   "kind": "state",
+   "qid": "Q542165",
+   "polity": "Despotate of Dobruja",
+   "name": {
+    "en": "Despotate of Dobruja and Mircea's rule",
+    "ko": "도브루자 전제공국과 미르체아의 지배",
+    "zh": "多布罗加专制公国与米尔恰的统治",
+    "ja": "ドブロジャ専制公国とミルチャの支配"
+   },
+   "summary": {
+    "en": "In the mid-14th century the Dobruja became an autonomous principality under Balik and then Dobrotitsa, a rival of Genoese traders on the Black Sea. After its fall to the Ottomans around 1388, Mircea the Elder of Wallachia held the region for some years before it was annexed by the Ottoman Empire.",
+    "ko": "14세기 중엽 도브루자는 발리크, 이어서 도브로티차 아래 자치 공국이 되었으며 흑해의 제노바 상인과 경쟁했다. 1388년 무렵 오스만에 넘어간 뒤 왈라키아의 늙은 미르체아가 몇 해 동안 이 지역을 차지했으나 결국 오스만 제국에 병합되었다.",
+    "zh": "14世纪中叶，多布罗加在巴利克及其后的多布罗蒂察治下成为自治公国，与黑海上的热那亚商人相抗衡。约1388年落入奥斯曼人之手后，瓦拉几亚的老米尔恰曾占有该地区数年，最终被奥斯曼帝国吞并。",
+    "ja": "14世紀半ば、ドブロジャはバリク、ついでドブロティツァのもとで自立した公国となり、黒海のジェノヴァ商人と競った。1388年頃オスマンの手に落ちた後、ワラキアの老ミルチャが数年間この地を保持したが、最終的にオスマン帝国に併合された。"
+   }
+  },
+  {
+   "from": 1359,
+   "to": 1859,
+   "kind": "state",
+   "qid": "Q10957559",
+   "polity": "Principality of Moldavia",
+   "name": {
+    "en": "Principality of Moldavia",
+    "ko": "몰다비아 공국",
+    "zh": "摩尔达维亚公国",
+    "ja": "モルダヴィア公国"
+   },
+   "summary": {
+    "en": "Founded east of the Carpathians by Bogdan I, Moldavia stretched at its height from the Carpathians to the Dniester and the Black Sea. Under Stephen the Great it fought the Ottomans and built celebrated painted monasteries; from the 16th century it was an Ottoman tributary, lost Bukovina to Austria in 1775 and Bessarabia to Russia in 1812, and was ruled by Phanariote princes from 1711 to 1821.",
+    "ko": "보그단 1세가 카르파티아 산맥 동쪽에 세운 몰다비아는 전성기에 카르파티아에서 드네스트르강과 흑해까지 뻗었다. 슈테판 대공 아래 오스만과 싸우고 유명한 채색 수도원들을 세웠으며, 16세기부터 오스만의 공납국이 되었고 1775년 부코비나를 오스트리아에, 1812년 베사라비아를 러시아에 잃었으며 1711~1821년에는 파나리오트 군주가 다스렸다.",
+    "zh": "摩尔达维亚由博格丹一世在喀尔巴阡山以东建立，鼎盛时从喀尔巴阡山延伸至德涅斯特河和黑海。斯特凡大公时期曾抗击奥斯曼并修建著名的彩绘修道院；16世纪起成为奥斯曼的纳贡国，1775年将布科维纳失于奥地利，1812年将比萨拉比亚失于俄国，1711年至1821年由法纳尔人君主统治。",
+    "ja": "ボグダン1世がカルパチア東方に建てたモルダヴィアは、最盛期にはカルパチアからドニエストル川と黒海に及んだ。シュテファン大公のもとでオスマンと戦い、名高い彩色修道院を建てたが、16世紀からオスマンの貢納国となり、1775年にブコヴィナをオーストリアに、1812年にベッサラビアをロシアに失い、1711〜1821年はファナリオティスの君主が統治した。"
+   }
+  },
+  {
+   "from": 1417,
+   "to": 1878,
+   "kind": "state",
+   "qid": "Q12560",
+   "polity": "Ottoman Empire",
+   "name": {
+    "en": "Ottoman Dobruja and the Banat",
+    "ko": "오스만령 도브루자와 바나트",
+    "zh": "奥斯曼统治下的多布罗加与巴纳特",
+    "ja": "オスマン領ドブロジャとバナト"
+   },
+   "summary": {
+    "en": "The Ottomans annexed the Dobruja around 1417–1420 and ruled it directly for over four centuries, settling Turkish and Tatar populations. They also governed the Banat as the Eyalet of Temeșvar from 1552 to 1716, and held Danube fortresses such as Giurgiu, Brăila and Turnu on the Wallachian bank.",
+    "ko": "오스만 제국은 1417~1420년경 도브루자를 병합해 4세기 넘게 직접 통치하며 튀르크인과 타타르인을 정착시켰다. 또한 1552년부터 1716년까지 바나트를 테메슈바르 에야렛으로 다스렸고, 왈라키아 쪽 도나우강 연안의 지우르지우·브러일라·투르누 요새를 보유했다.",
+    "zh": "奥斯曼人约在1417至1420年间吞并多布罗加，直接统治四个多世纪，并迁入土耳其人和鞑靼人。1552年至1716年，他们还将巴纳特设为特梅什瓦尔省加以统治，并据有瓦拉几亚一侧多瑙河岸的久尔久、布勒伊拉、图尔努等要塞。",
+    "ja": "オスマン帝国は1417〜1420年頃ドブロジャを併合して4世紀以上直接統治し、トルコ人やタタール人を入植させた。また1552年から1716年までバナトをテメシュヴァル州として統治し、ワラキア側ドナウ岸のジュルジュ、ブライラ、トゥルヌの要塞を保持した。"
+   }
+  },
+  {
+   "from": 1541,
+   "to": 1699,
+   "kind": "state",
+   "qid": "Q655621",
+   "polity": "Principality of Transylvania",
+   "name": {
+    "en": "Principality of Transylvania",
+    "ko": "트란실바니아 공국",
+    "zh": "特兰西瓦尼亚公国",
+    "ja": "トランシルヴァニア公国"
+   },
+   "summary": {
+    "en": "After the fall of central Hungary to the Ottomans, Transylvania became a self-governing principality under Ottoman suzerainty, at first as the Eastern Hungarian Kingdom. Ruled by elected princes such as the Báthorys and Gabriel Bethlen, it became known for its religious tolerance among Catholics, Lutherans, Calvinists and Unitarians, while Orthodoxy was only tolerated. It passed to the Habsburgs at the end of the 17th century.",
+    "ko": "헝가리 중부가 오스만에 함락된 뒤 트란실바니아는 처음에는 동헝가리 왕국으로서, 이후 오스만의 종주권 아래 자치 공국이 되었다. 바토리 가문과 베틀렌 가보르 같은 선출 군주가 다스렸고, 가톨릭·루터파·칼뱅파·유니테리언 사이의 종교적 관용으로 알려졌으나 정교회는 묵인되는 데 그쳤다. 17세기 말 합스부르크에 넘어갔다.",
+    "zh": "匈牙利中部落入奥斯曼人之手后，特兰西瓦尼亚先以东匈牙利王国的形式，继而作为奥斯曼宗主权下的自治公国存在。由巴托里家族、贝特伦·加博尔等选举产生的君主统治，以天主教、路德宗、加尔文宗和一位论派之间的宗教宽容著称，而东正教仅获容忍。17世纪末归于哈布斯堡。",
+    "ja": "ハンガリー中部がオスマンに陥落した後、トランシルヴァニアは当初は東ハンガリー王国として、のちにオスマン宗主権下の自治公国となった。バートリ家やベトレン・ガーボルら選挙で選ばれた君主が治め、カトリック、ルター派、カルヴァン派、ユニテリアンの間の宗教的寛容で知られたが、正教は黙認にとどまった。17世紀末にハプスブルク領となった。"
+   }
+  },
+  {
+   "from": 1699,
+   "to": 1867,
+   "kind": "state",
+   "qid": "Q66504140",
+   "polity": "Habsburg Monarchy",
+   "name": {
+    "en": "Habsburg Transylvania, Banat and Bukovina",
+    "ko": "합스부르크령 트란실바니아·바나트·부코비나",
+    "zh": "哈布斯堡统治下的特兰西瓦尼亚、巴纳特与布科维纳",
+    "ja": "ハプスブルク領トランシルヴァニア・バナト・ブコヴィナ"
+   },
+   "summary": {
+    "en": "Transylvania came under Habsburg rule by the Treaty of Karlowitz in 1699, the Banat was conquered in 1716–1718 and Bukovina annexed in 1775. Vienna promoted the Greek Catholic Church, colonized the Banat with Germans and others, and organized military frontier districts; Romanian national demands grew from the Supplex Libellus Valachorum (1791) to the revolution of 1848.",
+    "ko": "트란실바니아는 1699년 카를로비츠 조약으로 합스부르크의 지배를 받게 되었고, 바나트는 1716~1718년에 정복되었으며 부코비나는 1775년에 병합되었다. 빈은 그리스 가톨릭교회를 지원하고 바나트에 독일인 등을 이주시켰으며 군사 국경 지구를 조직했다. 루마니아인의 민족 요구는 1791년 '수플렉스 리벨루스 발라코룸'에서 1848년 혁명으로 커졌다.",
+    "zh": "1699年《卡尔洛维茨条约》使特兰西瓦尼亚归入哈布斯堡统治，巴纳特于1716至1718年被征服，布科维纳于1775年被吞并。维也纳扶持希腊礼天主教会，向巴纳特移入德意志人等，并设立军事边区；罗马尼亚人的民族诉求从1791年的《瓦拉几亚人请愿书》发展到1848年革命。",
+    "ja": "1699年のカルロヴィッツ条約でトランシルヴァニアはハプスブルクの支配下に入り、バナトは1716〜1718年に征服、ブコヴィナは1775年に併合された。ウィーンはギリシア・カトリック教会を後押しし、バナトにドイツ人などを入植させ、軍政国境地帯を組織した。ルーマニア人の民族的要求は1791年の『スプレックス・リベッルス・ヴァラコルム』から1848年革命へと高まった。"
+   }
+  },
+  {
+   "from": 1711,
+   "to": 1821,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Phanariote era",
+    "ko": "파나리오트 시대",
+    "zh": "法纳尔人时代",
+    "ja": "ファナリオティス時代"
+   },
+   "summary": {
+    "en": "After the defection of Dimitrie Cantemir in 1711, the Ottomans appointed princes of Moldavia and, from 1716, of Wallachia from Greek Phanariote families of Constantinople. The era brought heavy fiscal pressure and frequent Russo-Ottoman wars on Romanian soil, but also administrative reforms, the abolition of serfdom in the 1740s and the spread of Enlightenment ideas. It ended with the uprising of 1821.",
+    "ko": "1711년 디미트리에 칸테미르가 이반한 뒤 오스만은 몰다비아, 1716년부터는 왈라키아의 군주를 콘스탄티노폴리스의 그리스계 파나리오트 가문에서 임명했다. 이 시대에는 무거운 재정 수탈과 루마니아 땅에서의 잦은 러시아-오스만 전쟁이 있었지만, 행정 개혁, 1740년대 농노제 폐지, 계몽사상의 확산도 이루어졌다. 1821년 봉기로 막을 내렸다.",
+    "zh": "1711年德米特里·坎泰米尔倒戈后，奥斯曼开始从君士坦丁堡的希腊法纳尔人家族中任命摩尔达维亚君主，1716年起瓦拉几亚亦然。这一时期赋税沉重，俄土战争频繁在罗马尼亚土地上进行，但也带来了行政改革、1740年代农奴制的废除和启蒙思想的传播。1821年起义终结了这一时代。",
+    "ja": "1711年にディミトリエ・カンテミールが離反した後、オスマンはモルダヴィア、1716年からはワラキアの君主をコンスタンティノープルのギリシア系ファナリオティス家門から任命した。重い財政負担とルーマニアの地での露土戦争の頻発があった一方、行政改革、1740年代の農奴制廃止、啓蒙思想の普及も見られた。1821年の蜂起で終わった。"
+   }
+  },
+  {
+   "from": 1859,
+   "to": 1881,
+   "kind": "state",
+   "qid": "Q958291",
+   "polity": "United Principalities of Moldavia and Wallachia",
+   "name": {
+    "en": "United Principalities of Romania",
+    "ko": "루마니아 연합 공국",
+    "zh": "罗马尼亚联合公国",
+    "ja": "ルーマニア連合公国"
+   },
+   "summary": {
+    "en": "The double election of Alexandru Ioan Cuza in 1859 united Moldavia and Wallachia, which took the name Romania in 1862 with Bucharest as capital. Cuza's reforms — secularization of monastic estates, land reform and modern institutions — were followed by the accession of Carol of Hohenzollern-Sigmaringen in 1866 and independence in 1877–1878.",
+    "ko": "1859년 알렉산드루 이오안 쿠자가 양국에서 동시에 선출되면서 몰다비아와 왈라키아가 통합되었고, 1862년 부쿠레슈티를 수도로 루마니아라는 이름을 채택했다. 수도원 영지 세속화·토지 개혁·근대 제도 도입 등 쿠자의 개혁에 이어 1866년 호엔촐레른-지그마링겐 가문의 카롤이 즉위했고 1877~1878년 독립을 이루었다.",
+    "zh": "1859年亚历山德鲁·伊万·库扎在两公国同时当选，使摩尔达维亚与瓦拉几亚合并，1862年定名罗马尼亚，以布加勒斯特为首都。在库扎推行修道院地产世俗化、土地改革和近代制度等改革之后，1866年霍亨索伦-西格马林根家族的卡罗尔即位，1877至1878年实现独立。",
+    "ja": "1859年にアレクサンドル・ヨアン・クザが両公国で同時に選出されてモルダヴィアとワラキアが統合され、1862年にブカレストを首都としてルーマニアと名乗った。修道院領の世俗化、農地改革、近代的制度の導入といったクザの改革に続き、1866年にホーエンツォレルン＝ジグマリンゲン家のカロルが即位し、1877〜1878年に独立を達成した。"
+   }
+  },
+  {
+   "from": 1867,
+   "to": 1918,
+   "kind": "state",
+   "qid": "Q28513",
+   "polity": "Austria-Hungary",
+   "name": {
+    "en": "Transylvania and Banat in Austria-Hungary",
+    "ko": "오스트리아-헝가리 시대의 트란실바니아와 바나트",
+    "zh": "奥匈帝国时期的特兰西瓦尼亚与巴纳特",
+    "ja": "オーストリア＝ハンガリー時代のトランシルヴァニアとバナト"
+   },
+   "summary": {
+    "en": "Under the Compromise of 1867 Transylvania, the Banat, Crișana and Maramureș were fully incorporated into the Hungarian half of the Dual Monarchy, while Bukovina remained an Austrian crown land. Magyarization policies and a narrow franchise fuelled the Romanian national movement, which in 1918 proclaimed union with Romania.",
+    "ko": "1867년 대타협으로 트란실바니아·바나트·크리샤나·마라무레슈는 이중 제국의 헝가리 쪽에 완전히 편입되었고, 부코비나는 오스트리아 왕관령으로 남았다. 마자르화 정책과 제한된 선거권은 루마니아 민족 운동을 자극했고, 이 운동은 1918년 루마니아와의 통합을 선언했다.",
+    "zh": "根据1867年《奥匈妥协》，特兰西瓦尼亚、巴纳特、克里沙纳和马拉穆列什完全并入二元帝国的匈牙利部分，布科维纳则仍为奥地利王室领地。马扎尔化政策和狭窄的选举权激发了罗马尼亚民族运动，该运动于1918年宣布与罗马尼亚合并。",
+    "ja": "1867年のアウスグライヒによりトランシルヴァニア、バナト、クリシャナ、マラムレシュは二重帝国のハンガリー側に完全に編入され、ブコヴィナはオーストリアの王冠領にとどまった。マジャル化政策と狭い選挙権がルーマニア民族運動を刺激し、運動は1918年にルーマニアとの合同を宣言した。"
+   }
+  },
+  {
+   "from": 1881,
+   "to": 1947,
+   "kind": "state",
+   "qid": "Q203493",
+   "polity": "Kingdom of Romania",
+   "name": {
+    "en": "Kingdom of Romania",
+    "ko": "루마니아 왕국",
+    "zh": "罗马尼亚王国",
+    "ja": "ルーマニア王国"
+   },
+   "summary": {
+    "en": "Proclaimed in 1881 under Carol I, the kingdom doubled in size after the Great Union of 1918 with Transylvania, Bessarabia and Bukovina. Interwar 'Greater Romania' saw land reform and cultural flowering but also the rise of the fascist Iron Guard; in 1940 it lost large territories, and under Ion Antonescu it fought on the Axis side and took part in the Holocaust before switching sides in 1944. Communist pressure ended the monarchy in 1947.",
+    "ko": "1881년 카롤 1세 아래 선포된 왕국은 1918년 트란실바니아·베사라비아·부코비나와의 대통합으로 영토가 두 배로 늘었다. 전간기 '대루마니아'는 토지 개혁과 문화적 번영을 이루었지만 파시스트 철위대의 부상도 겪었다. 1940년 넓은 영토를 잃었고, 이온 안토네스쿠 아래 추축국 편에서 싸우며 홀로코스트에 가담했다가 1944년 편을 바꾸었다. 1947년 공산주의 세력의 압력으로 왕정이 끝났다.",
+    "zh": "王国于1881年在卡罗尔一世治下宣告成立，1918年与特兰西瓦尼亚、比萨拉比亚和布科维纳大联合后疆域扩大一倍。两次大战之间的“大罗马尼亚”推行土地改革、文化繁荣，但法西斯组织铁卫团也随之崛起。1940年丧失大片领土，在扬·安东内斯库统治下站在轴心国一方作战并参与大屠杀，1944年倒戈。1947年在共产党压力下君主制终结。",
+    "ja": "1881年カロル1世のもとで宣言された王国は、1918年のトランシルヴァニア・ベッサラビア・ブコヴィナとの大統一で領土が倍増した。戦間期の「大ルーマニア」は農地改革と文化的開花を経験したが、ファシスト組織の鉄衛団も台頭した。1940年に広大な領土を失い、イオン・アントネスクのもとで枢軸側として戦いホロコーストに加担した後、1944年に寝返った。1947年、共産勢力の圧力で王政は終わった。"
+   }
+  },
+  {
+   "from": 1940,
+   "to": 1944,
+   "kind": "state",
+   "qid": "Q2507497",
+   "polity": null,
+   "name": {
+    "en": "National Legionary State and Antonescu regime",
+    "ko": "민족군단국과 안토네스쿠 정권",
+    "zh": "民族军团国与安东内斯库政权",
+    "ja": "民族軍団国家とアントネスク政権"
+   },
+   "summary": {
+    "en": "After the territorial losses of 1940 forced Carol II to abdicate, General Ion Antonescu ruled together with the Iron Guard in the National Legionary State, then alone after crushing the Guard's rebellion in January 1941. His dictatorship joined the invasion of the Soviet Union and carried out deportations and mass murder of Jews and Roma until his overthrow on 23 August 1944.",
+    "ko": "1940년의 영토 상실로 카롤 2세가 퇴위한 뒤 이온 안토네스쿠 장군은 철위대와 함께 '민족군단국'을 통치했고, 1941년 1월 철위대의 반란을 진압한 뒤 단독으로 통치했다. 그의 독재 정권은 소련 침공에 가담하고 유대인과 로마인의 추방과 대량 학살을 자행했으며, 1944년 8월 23일 타도되었다.",
+    "zh": "1940年的领土丧失迫使卡罗尔二世退位后，扬·安东内斯库将军与铁卫团共同统治“民族军团国”，1941年1月镇压铁卫团叛乱后独揽大权。其独裁政权参与入侵苏联，对犹太人和罗姆人实施驱逐和大规模屠杀，直至1944年8月23日被推翻。",
+    "ja": "1940年の領土喪失でカロル2世が退位した後、イオン・アントネスク将軍は鉄衛団とともに「民族軍団国家」を統治し、1941年1月に鉄衛団の反乱を鎮圧して単独で権力を握った。その独裁政権はソ連侵攻に加わり、ユダヤ人とロマの追放と大量殺害を行ったが、1944年8月23日に打倒された。"
+   }
+  },
+  {
+   "from": 1947,
+   "to": 1989,
+   "kind": "state",
+   "qid": "Q842794",
+   "polity": "Socialist Republic of Romania",
+   "name": {
+    "en": "Communist Romania",
+    "ko": "공산주의 루마니아",
+    "zh": "共产主义时期的罗马尼亚",
+    "ja": "共産主義時代のルーマニア"
+   },
+   "summary": {
+    "en": "Proclaimed as the Romanian People's Republic in 1947 and renamed the Socialist Republic in 1965, the communist state nationalized industry, collectivized agriculture and used the Securitate to crush opposition. Under Nicolae Ceaușescu it pursued a foreign policy independent of Moscow but became one of the most repressive regimes of the Eastern Bloc, with severe austerity in the 1980s.",
+    "ko": "1947년 루마니아 인민공화국으로 선포되고 1965년 사회주의 공화국으로 개칭된 공산 국가는 산업을 국유화하고 농업을 집단화했으며 세쿠리타테를 동원해 반대파를 탄압했다. 니콜라에 차우셰스쿠 아래 모스크바와 독자적인 외교 노선을 걸었으나, 1980년대 혹독한 내핍 속에 동구권에서 가장 억압적인 정권 중 하나가 되었다.",
+    "zh": "共产主义国家于1947年以罗马尼亚人民共和国之名宣告成立，1965年更名为社会主义共和国，推行工业国有化和农业集体化，并利用国家安全局镇压反对派。在尼古拉·齐奥塞斯库治下，它奉行独立于莫斯科的外交政策，却成为东方集团中最具压迫性的政权之一，1980年代实行严酷的紧缩政策。",
+    "ja": "1947年にルーマニア人民共和国として宣言され、1965年に社会主義共和国と改称した共産国家は、産業を国有化し農業を集団化し、セクリターテを使って反対派を弾圧した。ニコラエ・チャウシェスクのもとでモスクワから自立した外交を進めたが、1980年代の過酷な緊縮のなかで東側陣営でも最も抑圧的な体制の一つとなった。"
+   }
+  },
+  {
+   "from": 1989,
+   "to": 2026,
+   "kind": "state",
+   "qid": null,
+   "polity": "Romania",
+   "name": {
+    "en": "Democratic Romania",
+    "ko": "민주화 이후의 루마니아",
+    "zh": "民主化后的罗马尼亚",
+    "ja": "民主化後のルーマニア"
+   },
+   "summary": {
+    "en": "After the violent revolution of December 1989 Romania adopted a democratic constitution in 1991 and went through a difficult transition to a market economy. It joined NATO in 2004 and the European Union in 2007, and has since been shaped by anti-corruption struggles, mass emigration, strong economic growth and political polarization.",
+    "ko": "1989년 12월의 유혈 혁명 이후 루마니아는 1991년 민주 헌법을 채택하고 시장 경제로의 어려운 전환을 겪었다. 2004년 NATO, 2007년 유럽연합에 가입했으며, 이후 반부패 투쟁, 대규모 해외 이주, 빠른 경제 성장, 정치적 양극화가 나라의 모습을 형성해 왔다.",
+    "zh": "经历1989年12月的流血革命后，罗马尼亚于1991年通过民主宪法，并经历了向市场经济的艰难转型。2004年加入北约，2007年加入欧盟，此后反腐斗争、大规模移民外流、强劲的经济增长和政治两极化塑造了这个国家。",
+    "ja": "1989年12月の流血の革命の後、ルーマニアは1991年に民主的な憲法を採択し、市場経済への困難な移行を経験した。2004年にNATO、2007年に欧州連合に加盟し、以後は汚職との闘い、大規模な国外移住、力強い経済成長、政治的分極化が国の姿を形づくってきた。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Steppe kurgan burials reach the lower Danube",
+    "ko": "스텝 쿠르간 매장의 도나우강 하류 확산",
+    "zh": "草原库尔干墓葬扩展至多瑙河下游",
+    "ja": "ステップのクルガン墓がドナウ下流域へ"
+   },
+   "description": {
+    "en": "Around 3000 BC burial mounds (kurgans) of the Pit Grave (Yamnaya) type appeared on the plains of Muntenia, Moldavia and Dobruja. They mark the arrival of mobile herders from the Pontic steppe, as the great painted-pottery farming cultures of the Copper Age faded.",
+    "ko": "기원전 3000년경 문테니아·몰다비아·도브로자 평원에 수혈묘(얌나야) 유형의 봉토분(쿠르간)이 나타났다. 이는 흑해 북안 스텝에서 이동성 목축민이 들어왔음을 보여 주며, 같은 시기 동석기 시대의 대규모 채색 토기 농경 문화는 쇠퇴했다.",
+    "zh": "约公元前3000年，蒙特尼亚、摩尔达维亚和多布罗加平原上出现了竖穴墓（颜那亚）类型的坟丘（库尔干）。它们标志着来自黑海北岸草原的游动牧民到来，而铜石并用时代繁盛的彩陶农耕文化则逐渐衰落。",
+    "ja": "前3000年頃、ムンテニア・モルダヴィア・ドブロジャの平原に竪穴墓（ヤムナ）型の墳丘（クルガン）が現れた。これはポントス・ステップからの移動牧畜民の到来を示し、銅石器時代に栄えた彩文土器の農耕文化は衰えていった。"
+   }
+  },
+  {
+   "year": -2000,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Bronze Age cultures of the Carpathian basin",
+    "ko": "카르파티아 분지의 청동기 문화",
+    "zh": "喀尔巴阡盆地的青铜文化",
+    "ja": "カルパティア盆地の青銅器文化"
+   },
+   "description": {
+    "en": "Around 2000 BC Bronze Age cultures such as Wietenberg in Transylvania, Monteoru in the eastern Carpathian foothills and Otomani in the north-west flourished. Fortified hill settlements, rich metalwork and the exploitation of Transylvanian copper and gold made the region an important node of Bronze Age exchange.",
+    "ko": "기원전 2000년경 트란실바니아의 비텐베르크 문화, 동카르파티아 산록의 몬테오루 문화, 북서부의 오토마니 문화 등 청동기 문화가 번성했다. 요새화된 구릉 취락과 풍부한 금속 공예, 트란실바니아의 구리·금 채굴로 이 지역은 청동기 교역의 중요한 거점이 되었다.",
+    "zh": "约公元前2000年，特兰西瓦尼亚的维滕贝格文化、东喀尔巴阡山麓的蒙泰奥鲁文化和西北部的奥托马尼文化等青铜文化兴盛。设防的山地聚落、丰富的金属制品以及对特兰西瓦尼亚铜矿和金矿的开采，使这一地区成为青铜时代交流的重要节点。",
+    "ja": "前2000年頃、トランシルヴァニアのヴィーテンベルク文化、東カルパティア山麓のモンテオル文化、北西部のオトマニ文化などの青銅器文化が栄えた。防御された丘上集落や豊かな金属器、トランシルヴァニアの銅・金の採掘により、この地域は青銅器時代の交易の重要な拠点となった。"
+   }
+  },
+  {
+   "year": -1100,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Iron Age begins north of the Danube",
+    "ko": "도나우강 이북의 철기 시대 개막",
+    "zh": "多瑙河以北进入铁器时代",
+    "ja": "ドナウ川以北の鉄器時代の始まり"
+   },
+   "description": {
+    "en": "From around 1100 BC iron working spread into the lands of present-day Romania, carried by Hallstatt-related communities. Large earthwork fortifications and new pottery styles appeared, and the Thracian-speaking populations that later Greek writers called Getae and Dacians took shape.",
+    "ko": "기원전 1100년경부터 할슈타트 계통 공동체를 통해 오늘날 루마니아 땅에 철기 제작 기술이 퍼졌다. 대규모 토성과 새로운 양식의 토기가 등장했고, 훗날 그리스 저술가들이 게타이와 다키아인이라 부른 트라키아어계 주민이 형성되었다.",
+    "zh": "约公元前1100年起，冶铁技术随哈尔施塔特系统的群落传入今罗马尼亚境内。大型土垒要塞和新式陶器出现，后来被希腊作家称为盖塔人和达契亚人的色雷斯语系居民也在这一时期逐步形成。",
+    "ja": "前1100年頃から、ハルシュタット系の共同体によって現在のルーマニアの地に製鉄技術が広まった。大規模な土塁の要塞や新しい様式の土器が現れ、後にギリシアの著述家がゲタイ人・ダキア人と呼んだトラキア語系の住民が形づくられていった。"
+   }
+  },
+  {
+   "year": -657,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Greek colony of Histria founded",
+    "ko": "그리스 식민도시 히스트리아 건설",
+    "zh": "希腊殖民城市希斯特里亚建立",
+    "ja": "ギリシア植民市ヒストリアの建設"
+   },
+   "description": {
+    "en": "According to the ancient chronicler Eusebius, settlers from Miletus founded Histria near the Danube Delta in 657/656 BC, the oldest city on Romanian soil. Tomis (modern Constanța) and Callatis (Mangalia) followed, and these colonies traded Greek wine, oil and pottery for grain, slaves and goods from the Getic hinterland.",
+    "ko": "고대 연대기 작가 에우세비오스에 따르면 밀레토스 이주민들이 기원전 657/656년 도나우 삼각주 근처에 히스트리아를 세웠으며, 이는 루마니아 땅에서 가장 오래된 도시이다. 이어 토미스(오늘날 콘스탄차)와 칼라티스(망갈리아)가 세워졌고, 이들 식민도시는 그리스의 포도주·올리브유·도기를 게타이 내륙의 곡물·노예·물산과 교역했다.",
+    "zh": "据古代编年史家优西比乌记载，米利都移民于公元前657/656年在多瑙河三角洲附近建立希斯特里亚，这是罗马尼亚土地上最古老的城市。随后又建立了托米斯（今康斯坦察）和卡拉提斯（今曼加利亚），这些殖民城市以希腊的葡萄酒、橄榄油和陶器交换盖塔内陆的谷物、奴隶和物产。",
+    "ja": "古代の年代記作者エウセビオスによれば、ミレトスの植民者が前657/656年にドナウ・デルタ近くにヒストリアを建設した。これはルーマニアの地で最古の都市である。続いてトミス（現コンスタンツァ）とカラティス（現マンガリア）が築かれ、これらの植民市はギリシアのワインやオリーブ油、陶器を、ゲタイ人の内陸からの穀物や奴隷、産品と交易した。"
+   }
+  },
+  {
+   "year": -513,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Darius I subdues the Getae",
+    "ko": "다리우스 1세의 게타이 정복",
+    "zh": "大流士一世征服盖塔人",
+    "ja": "ダレイオス1世のゲタイ人征服"
+   },
+   "description": {
+    "en": "During his campaign against the Scythians (c. 513 BC) the Persian king Darius I marched through Dobruja to the Danube. Herodotus records that the Getae alone among the Thracians resisted and were subdued, calling them 'the bravest and most just of the Thracians' — the first written mention of the Getae.",
+    "ko": "페르시아 왕 다리우스 1세는 스키타이 원정(기원전 513년경) 중 도브로자를 거쳐 도나우강까지 진군했다. 헤로도토스는 트라키아인 가운데 게타이만이 저항하다 굴복했다고 기록하며 그들을 '트라키아인 중 가장 용감하고 정의로운 자들'이라 불렀는데, 이것이 게타이에 대한 최초의 문헌 기록이다.",
+    "zh": "波斯国王大流士一世在征讨斯基泰人的战役中（约公元前513年）经多布罗加进军至多瑙河。希罗多德记载，色雷斯人中唯有盖塔人进行抵抗，最终被征服，并称他们是\"色雷斯人中最勇敢、最正直的\"——这是关于盖塔人的最早文字记载。",
+    "ja": "ペルシア王ダレイオス1世はスキタイ遠征（前513年頃）の途上、ドブロジャを通ってドナウ川まで進軍した。ヘロドトスはトラキア人の中でゲタイ人だけが抵抗して征服されたと記し、彼らを「トラキア人の中で最も勇敢で正しい者たち」と呼んだ。これがゲタイ人に関する最初の文献記録である。"
+   }
+  },
+  {
+   "year": -335,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Alexander the Great crosses the Danube",
+    "ko": "알렉산드로스 대왕의 도나우강 도하",
+    "zh": "亚历山大大帝渡过多瑙河",
+    "ja": "アレクサンドロス大王のドナウ渡河"
+   },
+   "description": {
+    "en": "In 335 BC Alexander the Great, securing Macedonia's northern frontier before his Persian campaign, crossed the Danube by night and attacked a Getic settlement on the northern bank. The Getae withdrew and Alexander returned south, but the raid showed the growing contact between the Getae and the Hellenistic world.",
+    "ko": "기원전 335년 알렉산드로스 대왕은 페르시아 원정에 앞서 마케도니아 북방 국경을 안정시키기 위해 밤중에 도나우강을 건너 북안의 게타이 취락을 공격했다. 게타이는 물러났고 알렉산드로스는 남쪽으로 돌아갔지만, 이 원정은 게타이와 헬레니즘 세계의 접촉이 깊어지고 있음을 보여 주었다.",
+    "zh": "公元前335年，亚历山大大帝为在远征波斯前稳固马其顿北部边境，趁夜渡过多瑙河，袭击了北岸的一处盖塔人聚落。盖塔人撤退，亚历山大随即南返，但这次远征反映出盖塔人与希腊化世界的接触日益密切。",
+    "ja": "前335年、アレクサンドロス大王はペルシア遠征に先立ちマケドニアの北方国境を固めるため、夜陰に乗じてドナウ川を渡り、北岸のゲタイ人の集落を攻撃した。ゲタイ人は退き大王は南へ戻ったが、この遠征はゲタイ人とヘレニズム世界との接触の深まりを示している。"
+   }
+  },
+  {
+   "year": -292,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Dromichaetes captures Lysimachus",
+    "ko": "드로미카이테스의 리시마코스 생포",
+    "zh": "德罗米凯特斯俘虏利西马科斯",
+    "ja": "ドロミカイテスがリュシマコスを捕らえる"
+   },
+   "description": {
+    "en": "Around 292 BC the Getic king Dromichaetes defeated and captured Lysimachus, one of Alexander's successors, who had invaded the lands north of the Danube. Ancient writers report that Dromichaetes released him after a lesson in moderation, in exchange for territorial concessions.",
+    "ko": "기원전 292년경 게타이 왕 드로미카이테스는 도나우강 이북으로 침입한 알렉산드로스의 후계자 리시마코스를 격파하고 사로잡았다. 고대 저술가들은 드로미카이테스가 절제의 교훈을 준 뒤 영토 양보를 받고 그를 풀어 주었다고 전한다.",
+    "zh": "约公元前292年，盖塔国王德罗米凯特斯击败并俘虏了入侵多瑙河以北地区的亚历山大继业者之一利西马科斯。古代作家记载，德罗米凯特斯在以节制之道教诲他之后，以领土让步为条件将其释放。",
+    "ja": "前292年頃、ゲタイ人の王ドロミカイテスは、ドナウ以北に侵入したアレクサンドロスの後継者の一人リュシマコスを破って捕虜とした。古代の著述家によれば、ドロミカイテスは節度を説いた後、領土の譲渡と引き換えに彼を解放したという。"
+   }
+  },
+  {
+   "year": -82,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Burebista unites the Geto-Dacians",
+    "ko": "부레비스타의 게토-다키아 통일",
+    "zh": "布雷比斯塔统一盖塔-达契亚人",
+    "ja": "ブレビスタによるゲト・ダキア人の統一"
+   },
+   "description": {
+    "en": "Around 82 BC Burebista became king and united the Geto-Dacian tribes into a powerful state centred in the Orăștie Mountains of Transylvania. Aided by the high priest Deceneus, he reformed religion and customs and built a network of stone fortresses that later became the core of the Dacian kingdom.",
+    "ko": "기원전 82년경 부레비스타가 왕위에 올라 게토-다키아 부족들을 통합하고 트란실바니아 오러슈티에 산지를 중심으로 강력한 국가를 세웠다. 대사제 데케네우스의 도움을 받아 종교와 관습을 개혁하고 석조 요새망을 구축했으며, 이는 훗날 다키아 왕국의 중심이 되었다.",
+    "zh": "约公元前82年，布雷比斯塔成为国王，将盖塔-达契亚各部落统一为以特兰西瓦尼亚奥勒什蒂耶山区为中心的强大国家。他在大祭司德凯内乌斯的辅佐下改革宗教与习俗，并修建石砌要塞网络，日后成为达契亚王国的核心。",
+    "ja": "前82年頃、ブレビスタが王となり、ゲト・ダキア人の諸部族をトランシルヴァニアのオラシュティエ山地を中心とする強大な国家に統合した。大祭司デケネウスの補佐を得て宗教と慣習を改革し、石造の要塞網を築いた。これは後のダキア王国の中核となった。"
+   }
+  },
+  {
+   "year": -55,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Burebista conquers the Black Sea Greek cities",
+    "ko": "부레비스타의 흑해 그리스 도시 정복",
+    "zh": "布雷比斯塔征服黑海希腊城邦",
+    "ja": "ブレビスタの黒海ギリシア都市征服"
+   },
+   "description": {
+    "en": "In the 50s BC Burebista extended his power over the Greek cities of the western Black Sea coast, from Olbia to Apollonia, including Histria, Tomis and Callatis, and also struck the Celtic Boii and Taurisci in the west. His power alarmed Rome, and Julius Caesar was reportedly planning a campaign against him.",
+    "ko": "기원전 50년대 부레비스타는 올비아에서 아폴로니아에 이르는 흑해 서안의 그리스 도시들, 곧 히스트리아·토미스·칼라티스까지 세력을 넓혔고, 서쪽으로는 켈트계 보이족과 타우리스키족을 공격했다. 그의 세력은 로마를 긴장시켰고, 율리우스 카이사르가 그를 치는 원정을 계획했다고 전해진다.",
+    "zh": "公元前50年代，布雷比斯塔将势力扩展到从奥尔比亚到阿波罗尼亚的黑海西岸希腊城邦，包括希斯特里亚、托米斯和卡拉提斯，并向西打击凯尔特人的波伊人和陶里斯基人。他的强盛令罗马不安，据载尤利乌斯·恺撒曾计划对其用兵。",
+    "ja": "前50年代、ブレビスタはオルビアからアポロニアに至る黒海西岸のギリシア諸都市、すなわちヒストリア・トミス・カラティスにまで勢力を広げ、西方ではケルト系のボイイ族とタウリスキ族を討った。その強大化はローマを警戒させ、ユリウス・カエサルは彼への遠征を計画していたと伝えられる。"
+   }
+  },
+  {
+   "year": -44,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Death of Burebista and fragmentation of Dacia",
+    "ko": "부레비스타의 죽음과 다키아의 분열",
+    "zh": "布雷比斯塔之死与达契亚的分裂",
+    "ja": "ブレビスタの死とダキアの分裂"
+   },
+   "description": {
+    "en": "In 44 BC, the same year Caesar was murdered, Burebista was killed in a plot by his nobles. His state broke apart into several rival kingdoms, and the Dacians were only reunited a century and a half later under Decebalus.",
+    "ko": "카이사르가 암살된 기원전 44년, 부레비스타도 귀족들의 음모로 살해되었다. 그의 국가는 여러 경쟁 왕국으로 분열되었고, 다키아인은 약 150년 뒤 데케발루스 치하에서야 다시 통합되었다.",
+    "zh": "公元前44年，即恺撒遇刺的同一年，布雷比斯塔也死于贵族的阴谋。他的国家分裂为若干相互竞争的王国，直到约一个半世纪后达契亚人才在德凯巴鲁斯治下重新统一。",
+    "ja": "カエサルが暗殺された前44年、ブレビスタも貴族たちの陰謀により殺害された。その国家はいくつもの対立する王国に分裂し、ダキア人が再び統一されるのはおよそ1世紀半後、デケバルスの時代であった。"
+   }
+  },
+  {
+   "year": 8,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ovid exiled to Tomis",
+    "ko": "오비디우스의 토미스 유배",
+    "zh": "奥维德流放托米斯",
+    "ja": "オウィディウスのトミス流刑"
+   },
+   "description": {
+    "en": "In AD 8 Emperor Augustus banished the Roman poet Ovid to Tomis (modern Constanța) on the Black Sea. There he wrote the Tristia and the Epistulae ex Ponto, vivid if mournful descriptions of the frontier town and its Getic neighbours, and he died there around AD 17/18.",
+    "ko": "서기 8년 아우구스투스 황제는 로마 시인 오비디우스를 흑해 연안의 토미스(오늘날 콘스탄차)로 추방했다. 그는 그곳에서 『비가(트리스티아)』와 『흑해에서 보낸 편지』를 써 변경 도시와 이웃 게타이인의 모습을 비탄 어린 필치로 생생하게 남겼으며, 서기 17/18년경 그곳에서 세상을 떠났다.",
+    "zh": "公元8年，奥古斯都皇帝将罗马诗人奥维德流放到黑海之滨的托米斯（今康斯坦察）。他在那里写下《哀歌》和《黑海书简》，以哀伤而生动的笔触描绘了这座边陲城市及其盖塔邻人，约于公元17/18年卒于当地。",
+    "ja": "紀元8年、アウグストゥス帝はローマの詩人オウィディウスを黒海沿岸のトミス（現コンスタンツァ）に追放した。彼はそこで『悲しみの歌』と『黒海からの手紙』を著し、辺境の町と隣人ゲタイ人の姿を哀切ながら生き生きと描き、17/18年頃に同地で没した。"
+   }
+  },
+  {
+   "year": 87,
+   "qid": "Q1476280",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Domitian's Dacian War and the Battle of Tapae",
+    "ko": "도미티아누스의 다키아 전쟁과 타파이 전투",
+    "zh": "图密善的达契亚战争与塔佩战役",
+    "ja": "ドミティアヌスのダキア戦争とタパエの戦い"
+   },
+   "description": {
+    "en": "After Dacian raids into Moesia, Emperor Domitian sent armies north of the Danube; around 86–87 the Dacians under Decebalus destroyed the army of the praetorian prefect Cornelius Fuscus. In 88 Tettius Julianus won a victory at Tapae, the gateway to the Dacian heartland, and in 89 a peace made Decebalus a Roman client king who received subsidies and engineers.",
+    "ko": "다키아인의 모이시아 침입 이후 도미티아누스 황제는 도나우강 이북으로 군대를 보냈으나, 86~87년경 데케발루스가 이끄는 다키아군이 근위대장 코르넬리우스 푸스쿠스의 군대를 전멸시켰다. 88년 테티우스 율리아누스가 다키아 중심부로 가는 관문 타파이에서 승리했고, 89년의 강화로 데케발루스는 보조금과 기술자를 받는 로마의 피보호 왕이 되었다.",
+    "zh": "达契亚人侵扰默西亚后，图密善皇帝派军北渡多瑙河；约86至87年，德凯巴鲁斯率领的达契亚人全歼了禁卫军长官科尔内利乌斯·富斯库斯的军队。88年，特蒂乌斯·尤利亚努斯在通往达契亚腹地的门户塔佩取胜；89年的和约使德凯巴鲁斯成为接受罗马津贴和工匠的附庸国王。",
+    "ja": "ダキア人のモエシア侵入を受けてドミティアヌス帝はドナウ以北へ軍を送ったが、86〜87年頃、デケバルス率いるダキア軍が近衛長官コルネリウス・フスクスの軍を壊滅させた。88年にはテッティウス・ユリアヌスがダキア中枢への関門タパエで勝利し、89年の講和でデケバルスは補助金と技術者を受け取るローマの従属王となった。"
+   }
+  },
+  {
+   "year": 101,
+   "qid": "Q2707263",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Trajan's First Dacian War",
+    "ko": "트라야누스의 제1차 다키아 전쟁",
+    "zh": "图拉真第一次达契亚战争",
+    "ja": "トラヤヌスの第一次ダキア戦争"
+   },
+   "description": {
+    "en": "In 101 Emperor Trajan crossed the Danube with a large army and defeated the Dacians again at Tapae. The war, depicted in detail on Trajan's Column in Rome, ended in 102 with Decebalus accepting harsh terms, including the surrender of weapons and Roman garrisons in Dacia.",
+    "ko": "101년 트라야누스 황제는 대군을 이끌고 도나우강을 건너 타파이에서 다시 다키아군을 격파했다. 로마의 트라야누스 원주에 상세히 묘사된 이 전쟁은 102년 데케발루스가 무기 인도와 로마군의 주둔 등 가혹한 조건을 받아들이며 끝났다.",
+    "zh": "101年，图拉真皇帝率大军渡过多瑙河，在塔佩再次击败达契亚人。这场在罗马图拉真纪功柱上有详细描绘的战争于102年结束，德凯巴鲁斯被迫接受交出武器、允许罗马驻军等苛刻条件。",
+    "ja": "101年、トラヤヌス帝は大軍を率いてドナウ川を渡り、タパエで再びダキア軍を破った。ローマのトラヤヌス記念柱に詳しく描かれたこの戦争は、102年にデケバルスが武器の引き渡しやローマ軍の駐屯などの厳しい条件を受け入れて終わった。"
+   }
+  },
+  {
+   "year": 102,
+   "qid": "Q2887810",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Adamclisi",
+    "ko": "아담클리시 전투",
+    "zh": "阿达姆克利西战役",
+    "ja": "アダムクリシの戦い"
+   },
+   "description": {
+    "en": "In the winter of 101–102 Dacians and their Roxolani and Bastarnae allies crossed into Moesia, and were defeated by Trajan in heavy fighting in Dobruja near Adamclisi. To commemorate the victory Trajan later raised the monumental Tropaeum Traiani there, dedicated in 109, alongside an altar listing thousands of fallen Roman soldiers.",
+    "ko": "101~102년 겨울 다키아인과 동맹 록솔라니족·바스타르나이족이 모이시아로 침입했으나, 도브로자의 아담클리시 부근에서 벌어진 격전에서 트라야누스에게 패했다. 트라야누스는 이 승리를 기념해 109년 그곳에 거대한 기념비 '트로파이움 트라이아니'를 봉헌했고, 그 곁에는 전사한 로마 병사 수천 명의 이름을 새긴 제단도 세워졌다.",
+    "zh": "101至102年冬，达契亚人及其盟友罗克索拉尼人和巴斯塔奈人侵入默西亚，在多布罗加阿达姆克利西附近的激战中被图拉真击败。为纪念此役，图拉真后来在当地建立了宏伟的\"图拉真胜利纪念碑\"（109年落成），旁边还有一座刻有数千名阵亡罗马士兵名字的祭坛。",
+    "ja": "101〜102年の冬、ダキア人と同盟するロクソラニ族・バスタルナエ族がモエシアに侵入したが、ドブロジャのアダムクリシ付近の激戦でトラヤヌスに敗れた。トラヤヌスはこの勝利を記念して後に同地に巨大な記念碑トロパエウム・トライアニ（109年奉献）を建て、そばには戦死した数千のローマ兵の名を刻んだ祭壇も設けられた。"
+   }
+  },
+  {
+   "year": 106,
+   "qid": "Q3494883",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Roman conquest of Dacia",
+    "ko": "로마의 다키아 정복",
+    "zh": "罗马征服达契亚",
+    "ja": "ローマによるダキア征服"
+   },
+   "description": {
+    "en": "In the Second Dacian War (105–106) Trajan, crossing the Danube on Apollodorus of Damascus's great bridge at Drobeta, captured the royal capital Sarmizegetusa Regia; Decebalus took his own life to avoid capture. Dacia became a Roman province, and the ensuing colonization and Romanization laid the foundation of the Latin-based Romanian language and identity.",
+    "ko": "제2차 다키아 전쟁(105~106년)에서 트라야누스는 다마스쿠스의 아폴로도로스가 드로베타에 놓은 거대한 다리로 도나우강을 건너 왕도 사르미제게투사 레기아를 함락했고, 데케발루스는 포로가 되지 않으려 스스로 목숨을 끊었다. 다키아는 로마 속주가 되었으며, 이후의 식민과 로마화는 라틴어에 뿌리를 둔 루마니아어와 민족 정체성의 토대가 되었다.",
+    "zh": "在第二次达契亚战争（105—106年）中，图拉真经由大马士革的阿波罗多洛斯在德罗贝塔修建的大桥渡过多瑙河，攻陷王都萨尔米泽杰图萨·雷吉亚，德凯巴鲁斯为免被俘而自尽。达契亚成为罗马行省，随后的移民与罗马化为源自拉丁语的罗马尼亚语言和民族认同奠定了基础。",
+    "ja": "第二次ダキア戦争（105〜106年）で、トラヤヌスはダマスカスのアポロドロスがドロベタに架けた大橋でドナウ川を渡り、王都サルミゼゲトゥサ・レギアを陥落させた。デケバルスは捕虜となるのを避けて自ら命を絶った。ダキアはローマの属州となり、その後の植民とローマ化がラテン語に由来するルーマニア語と民族意識の基盤となった。"
+   }
+  },
+  {
+   "year": 271,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Aurelian withdraws from Dacia",
+    "ko": "아우렐리아누스의 다키아 철수",
+    "zh": "奥勒良放弃达契亚",
+    "ja": "アウレリアヌスのダキア放棄"
+   },
+   "description": {
+    "en": "Under pressure from Goths, Carpi and other peoples, Emperor Aurelian evacuated the Roman army and administration from Dacia around 271–275 and re-established a 'Dacia' south of the Danube. How much of the Romanized population stayed north of the river is a long-running debate central to theories of Romanian ethnogenesis.",
+    "ko": "고트족·카르피족 등의 압박 속에서 아우렐리아누스 황제는 271~275년경 다키아에서 로마군과 행정 조직을 철수시키고 도나우강 남쪽에 새로운 '다키아'를 설치했다. 로마화된 주민이 얼마나 강 북쪽에 남았는지는 루마니아 민족 형성 이론의 핵심을 이루는 오랜 논쟁거리이다.",
+    "zh": "在哥特人、卡尔皮人等民族的压力下，奥勒良皇帝约于271至275年间将罗马军队和行政机构撤出达契亚，并在多瑙河以南重设\"达契亚\"。罗马化居民有多少留在河北，是关于罗马尼亚民族起源理论的核心问题，至今仍有长期争论。",
+    "ja": "ゴート族やカルピ族などの圧力を受け、アウレリアヌス帝は271〜275年頃にダキアからローマ軍と行政機構を撤退させ、ドナウ以南に新たな「ダキア」を設けた。ローマ化した住民がどれほど川の北に残ったかは、ルーマニア民族形成をめぐる理論の中心をなす長年の論争である。"
+   }
+  },
+  {
+   "year": 328,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Constantine's bridge at Sucidava",
+    "ko": "콘스탄티누스의 수키다바 다리",
+    "zh": "君士坦丁在苏西达瓦的大桥",
+    "ja": "スキダヴァのコンスタンティヌス橋"
+   },
+   "description": {
+    "en": "In 328 Constantine the Great inaugurated a bridge over the Danube between Oescus and Sucidava (Celei, Olt county), one of the longest bridges of antiquity. It supported a temporary Roman reassertion of control over parts of Oltenia and Wallachia during his campaigns against the Goths.",
+    "ko": "328년 콘스탄티누스 대제는 오이스쿠스와 수키다바(올트주 첼레이) 사이 도나우강에 고대 최장급의 다리를 개통했다. 이 다리는 그가 고트족을 상대로 원정하던 시기 올테니아와 왈라키아 일부에 대한 로마의 일시적 지배 회복을 뒷받침했다.",
+    "zh": "328年，君士坦丁大帝在奥埃斯库斯与苏西达瓦（今奥尔特县切莱伊）之间的多瑙河上落成了一座大桥，是古代最长的桥梁之一。它支撑了君士坦丁对哥特人作战期间罗马对奥尔特尼亚和瓦拉几亚部分地区的短暂重新控制。",
+    "ja": "328年、コンスタンティヌス大帝はオエスクスとスキダヴァ（オルト県チェレイ）の間のドナウ川に、古代屈指の長大な橋を開通させた。この橋は、ゴート族への遠征期にローマがオルテニアとワラキアの一部を一時的に再び支配することを支えた。"
+   }
+  },
+  {
+   "year": 369,
+   "qid": "Q12273303",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Valens's Gothic war and the Danube treaty",
+    "ko": "발렌스의 고트 전쟁과 도나우강 조약",
+    "zh": "瓦伦斯的哥特战争与多瑙河和约",
+    "ja": "ウァレンスのゴート戦争とドナウ条約"
+   },
+   "description": {
+    "en": "Emperor Valens campaigned north of the Danube against the Tervingi Goths in 367–369, fighting near Noviodunum (Isaccea) on the Danube. In 369 he and the Gothic judge Athanaric concluded peace on a boat in the middle of the river, which marked the frontier between the empire and Gothic lands.",
+    "ko": "발렌스 황제는 367~369년 도나우강 이북의 테르빙기 고트족을 상대로 원정했으며, 도나우 강변의 노비오두눔(이사크체아) 부근에서 싸웠다. 369년 그는 고트족 수장 아타나리크와 함께 제국과 고트 영역의 경계인 강 한가운데 배 위에서 강화를 맺었다.",
+    "zh": "瓦伦斯皇帝于367至369年间渡过多瑙河征讨特尔温吉哥特人，并在多瑙河畔的诺维奥杜努姆（今伊萨克恰）附近作战。369年，他与哥特首领阿塔纳里克在作为帝国与哥特领地分界的河中央的船上缔结和约。",
+    "ja": "ウァレンス帝は367〜369年にドナウ以北のテルウィンギ族ゴート人へ遠征し、ドナウ河畔のノウィオドゥヌム（イサクチャ）付近で戦った。369年、彼はゴートの首長アタナリックと、帝国とゴート領の境界である川の中央に浮かべた船の上で講和を結んだ。"
+   }
+  },
+  {
+   "year": 372,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Martyrdom of Saint Sabbas the Goth",
+    "ko": "고트인 성 사바스의 순교",
+    "zh": "哥特人圣萨巴斯殉道",
+    "ja": "ゴート人聖サバスの殉教"
+   },
+   "description": {
+    "en": "In 372, during a persecution of Christians by Gothic rulers, the Gothic Christian Sabbas was drowned in the river Buzău. A contemporary letter recording his martyrdom is one of the earliest documents of Christianity north of the Danube, where the faith spread among Goths and the local Daco-Roman population in Latin and Gothic forms.",
+    "ko": "372년 고트족 지배자들의 기독교 박해 와중에 고트인 기독교도 사바스가 부저우강에 수장되었다. 그의 순교를 기록한 동시대 서한은 도나우강 이북 기독교에 관한 가장 이른 문헌 가운데 하나로, 이 지역에서는 고트족과 현지 다키아-로마계 주민 사이에 라틴어와 고트어로 신앙이 퍼져 나갔다.",
+    "zh": "372年，在哥特统治者迫害基督徒期间，哥特基督徒萨巴斯被溺死于布泽乌河中。记述其殉道的同时代书信是多瑙河以北基督教最早的文献之一；当时信仰以拉丁语和哥特语形式在哥特人和当地达契亚-罗马居民中传播。",
+    "ja": "372年、ゴートの支配者によるキリスト教徒迫害の中で、ゴート人キリスト教徒サバスがブザウ川で溺死させられた。その殉教を記した同時代の書簡はドナウ以北のキリスト教に関する最古級の文献であり、信仰はゴート人と現地のダキア・ローマ系住民の間にラテン語とゴート語の形で広まっていた。"
+   }
+  },
+  {
+   "year": 376,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Huns drive the Goths across the Danube",
+    "ko": "훈족에 쫓긴 고트족의 도나우강 도하",
+    "zh": "匈人迫使哥特人渡过多瑙河",
+    "ja": "フン族に追われたゴート族のドナウ渡河"
+   },
+   "description": {
+    "en": "The arrival of the Huns from the steppe shattered Gothic power north of the Danube; in 376 large numbers of Tervingi crossed into the Roman Empire as refugees. The lands of present-day Romania then fell under Hunnic domination, which peaked under Attila in the 440s.",
+    "ko": "스텝에서 온 훈족의 등장으로 도나우강 이북의 고트 세력이 무너졌고, 376년 수많은 테르빙기족이 난민이 되어 로마 제국 영내로 건너갔다. 이후 오늘날 루마니아 땅은 훈족의 지배 아래 들어갔으며, 그 세력은 440년대 아틸라 시대에 절정에 달했다.",
+    "zh": "来自草原的匈人摧毁了多瑙河以北的哥特势力；376年，大批特尔温吉人作为难民渡河进入罗马帝国。此后今罗马尼亚境内落入匈人统治之下，其势力在440年代阿提拉时期达到顶峰。",
+    "ja": "ステップから来たフン族によってドナウ以北のゴート勢力は崩壊し、376年、多数のテルウィンギ族が難民としてローマ帝国領内へ渡った。その後、現在のルーマニアの地はフン族の支配下に入り、その勢力は440年代のアッティラの時代に頂点に達した。"
+   }
+  },
+  {
+   "year": 454,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Gepids take Transylvania after Attila's death",
+    "ko": "아틸라 사후 게피드족의 트란실바니아 장악",
+    "zh": "阿提拉死后格皮德人占据特兰西瓦尼亚",
+    "ja": "アッティラ没後ゲピド族がトランシルヴァニアを掌握"
+   },
+   "description": {
+    "en": "After Attila's death, the Germanic Gepids under Ardaric led the subject peoples to victory over Attila's sons at the Battle of Nedao (454). The Hunnic empire collapsed, and the Gepids ruled Transylvania and the Tisza plain for over a century, leaving rich princely graves such as those at Apahida.",
+    "ko": "아틸라가 죽은 뒤 아르다리크가 이끄는 게르만계 게피드족은 피지배 민족들을 이끌고 네다오 전투(454년)에서 아틸라의 아들들을 물리쳤다. 훈 제국은 무너졌고, 게피드족은 1세기 넘게 트란실바니아와 티서 평원을 지배하며 아파히다 등지에 화려한 수장 무덤을 남겼다.",
+    "zh": "阿提拉死后，阿尔达里克率领的日耳曼格皮德人带领各附属民族在内达奥战役（454年）中击败阿提拉诸子。匈人帝国瓦解，格皮德人统治特兰西瓦尼亚和蒂萨平原一百余年，在阿帕希达等地留下了丰富的首领墓葬。",
+    "ja": "アッティラの死後、アルダリック率いるゲルマン系ゲピド族は従属諸民族を率いてネダオの戦い（454年）でアッティラの息子たちを破った。フン帝国は崩壊し、ゲピド族は1世紀以上にわたってトランシルヴァニアとティサ平原を支配し、アパヒダなどに豪華な首長墓を残した。"
+   }
+  },
+  {
+   "year": 567,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Avars and Lombards destroy the Gepid kingdom",
+    "ko": "아바르족과 롬바르드족의 게피드 왕국 멸망",
+    "zh": "阿瓦尔人与伦巴第人灭格皮德王国",
+    "ja": "アヴァール族とランゴバルド族によるゲピド王国の滅亡"
+   },
+   "description": {
+    "en": "In 567 the Lombards, allied with the newly arrived Avars, destroyed the Gepid kingdom. The Avar Khaganate, centred on the Pannonian plain, then dominated Transylvania and the lands of present-day western Romania until its collapse around 800.",
+    "ko": "567년 롬바르드족이 새로 도착한 아바르족과 손잡고 게피드 왕국을 멸망시켰다. 이후 판노니아 평원을 중심으로 한 아바르 칸국이 800년경 붕괴할 때까지 트란실바니아와 오늘날 루마니아 서부를 지배했다.",
+    "zh": "567年，伦巴第人与新到来的阿瓦尔人结盟，消灭了格皮德王国。此后以潘诺尼亚平原为中心的阿瓦尔汗国统治特兰西瓦尼亚及今罗马尼亚西部，直到约800年崩溃。",
+    "ja": "567年、ランゴバルド族は新たに到来したアヴァール族と結んでゲピド王国を滅ぼした。その後、パンノニア平原を中心とするアヴァール・カガン国が、800年頃に崩壊するまでトランシルヴァニアと現在のルーマニア西部を支配した。"
+   }
+  },
+  {
+   "year": 602,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Collapse of the Danube frontier and Slavic settlement",
+    "ko": "도나우 국경의 붕괴와 슬라브족 정착",
+    "zh": "多瑙河边防崩溃与斯拉夫人定居",
+    "ja": "ドナウ国境の崩壊とスラヴ人の定住"
+   },
+   "description": {
+    "en": "In 602 Byzantine troops ordered to winter north of the Danube mutinied and overthrew Emperor Maurice, and the river frontier soon collapsed. Slavs, who had been settling north of the Danube during the 6th century, moved en masse into the Balkans; their long coexistence with the Romance-speaking population left a deep imprint on the Romanian language.",
+    "ko": "602년 도나우강 이북에서 겨울을 나라는 명령을 받은 비잔티움 군대가 반란을 일으켜 마우리키우스 황제를 폐위했고, 강 국경은 곧 무너졌다. 6세기 동안 도나우강 이북에 정착해 온 슬라브족은 대거 발칸으로 이동했으며, 로망스어 사용 주민과의 오랜 공존은 루마니아어에 깊은 흔적을 남겼다.",
+    "zh": "602年，奉命在多瑙河以北过冬的拜占庭军队哗变并推翻了莫里斯皇帝，多瑙河边防随即崩溃。6世纪期间已在多瑙河以北定居的斯拉夫人大举进入巴尔干；他们与讲罗曼语的居民长期共处，在罗马尼亚语中留下了深刻印记。",
+    "ja": "602年、ドナウ以北での越冬を命じられたビザンツ軍が反乱を起こしてマウリキウス帝を倒し、川の国境はまもなく崩壊した。6世紀にドナウ以北に定住していたスラヴ人は大挙してバルカンへ移動し、ロマンス語話者の住民との長い共存はルーマニア語に深い痕跡を残した。"
+   }
+  },
+  {
+   "year": 681,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Foundation of the First Bulgarian Empire",
+    "ko": "제1차 불가리아 제국의 성립",
+    "zh": "第一保加利亚帝国建立",
+    "ja": "第一次ブルガリア帝国の成立"
+   },
+   "description": {
+    "en": "After defeating a Byzantine army near the Danube Delta in 680, the Bulgar khan Asparukh settled south of the Danube, and in 681 Byzantium recognized his state. The First Bulgarian Empire came to control Dobruja and, at times, much of the Wallachian plain and southern Transylvania, spreading Slavonic-language Christianity to the region.",
+    "ko": "680년 도나우 삼각주 부근에서 비잔티움군을 격파한 불가르족 칸 아스파루흐는 도나우강 남쪽에 정착했고, 681년 비잔티움은 그의 국가를 승인했다. 제1차 불가리아 제국은 도브로자와 때로는 왈라키아 평원 및 트란실바니아 남부의 상당 부분을 지배하며 이 지역에 슬라브어 기독교를 전파했다.",
+    "zh": "680年，保加尔可汗阿斯帕鲁赫在多瑙河三角洲附近击败拜占庭军队后定居多瑙河以南，681年拜占庭承认了他的国家。第一保加利亚帝国控制了多布罗加，并一度控制瓦拉几亚平原和特兰西瓦尼亚南部的大部分地区，将斯拉夫语基督教传播到这一地区。",
+    "ja": "680年にドナウ・デルタ付近でビザンツ軍を破ったブルガール人のハン、アスパルフはドナウ以南に定住し、681年にビザンツは彼の国家を承認した。第一次ブルガリア帝国はドブロジャを支配し、時にはワラキア平原やトランシルヴァニア南部の大半にも力を及ぼし、スラヴ語のキリスト教をこの地域に広めた。"
+   }
+  },
+  {
+   "year": 796,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Fall of the Avar Khaganate",
+    "ko": "아바르 칸국의 몰락",
+    "zh": "阿瓦尔汗国的覆灭",
+    "ja": "アヴァール・カガン国の没落"
+   },
+   "description": {
+    "en": "Frankish campaigns ordered by Charlemagne in 791–796 captured the Avar 'Ring' treasure fortress and broke the power of the Avar Khaganate, which had dominated the Carpathian Basin for over two centuries. In the following years the Bulgarian khan Krum extended Bulgarian influence over the former Avar lands to the east; how far Bulgarian rule reached into Transylvania is uncertain.",
+    "ko": "카롤루스 대제가 명한 프랑크 왕국의 원정(791~796)은 아바르족의 보물 요새 '링'을 함락하고, 2세기 넘게 카르파티아 분지를 지배한 아바르 칸국의 세력을 무너뜨렸다. 이후 불가리아의 크룸 칸이 옛 아바르 영역 동부로 불가리아의 영향력을 넓혔으나, 불가리아의 지배가 트란실바니아 어디까지 미쳤는지는 불확실하다.",
+    "zh": "查理曼下令发动的法兰克远征（791—796年）攻占了阿瓦尔人的藏宝要塞\"环城\"，摧毁了统治喀尔巴阡盆地两百余年的阿瓦尔汗国。此后保加利亚可汗克鲁姆将保加利亚的影响扩展到原阿瓦尔领地东部，但保加利亚统治深入特兰西瓦尼亚的程度尚不确定。",
+    "ja": "カール大帝が命じたフランク王国の遠征（791〜796年）はアヴァール人の財宝要塞「リング」を攻略し、2世紀以上カルパティア盆地を支配したアヴァール・カガン国の力を打ち砕いた。その後ブルガリアのクルム・ハンが旧アヴァール領の東部にブルガリアの影響を広げたが、その支配がトランシルヴァニアのどこまで及んだかは不確かである。"
+   }
+  },
+  {
+   "year": 864,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Bulgaria adopts Christianity and the Slavonic liturgy",
+    "ko": "불가리아의 기독교 수용과 슬라브어 전례",
+    "zh": "保加利亚皈依基督教与斯拉夫语礼仪",
+    "ja": "ブルガリアのキリスト教受容とスラヴ語典礼"
+   },
+   "description": {
+    "en": "Around 864 Khan Boris I of Bulgaria accepted Christianity from Byzantium, and in the following decades Bulgaria adopted the Old Church Slavonic liturgy and Cyrillic script. Through Bulgarian ecclesiastical influence, Church Slavonic became the language of church and chancery in the later Romanian principalities until the 17th century.",
+    "ko": "864년경 불가리아의 보리스 1세는 비잔티움으로부터 기독교를 받아들였고, 이후 수십 년 사이 불가리아는 고대 교회 슬라브어 전례와 키릴 문자를 채택했다. 불가리아 교회의 영향으로 교회 슬라브어는 17세기까지 훗날 루마니아 공국들의 교회와 행정 문서 언어가 되었다.",
+    "zh": "约864年，保加利亚的鲍里斯一世从拜占庭接受基督教，此后数十年间保加利亚采用古教会斯拉夫语礼仪和西里尔字母。经由保加利亚教会的影响，教会斯拉夫语直到17世纪一直是后来罗马尼亚各公国的教会和公文语言。",
+    "ja": "864年頃、ブルガリアのボリス1世はビザンツからキリスト教を受け入れ、その後数十年のうちにブルガリアは古代教会スラヴ語の典礼とキリル文字を採用した。ブルガリア教会の影響により、教会スラヴ語は17世紀まで後のルーマニア諸公国の教会と行政文書の言語となった。"
+   }
+  },
+  {
+   "year": 895,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hungarian conquest of the Carpathian Basin",
+    "ko": "헝가리인의 카르파티아 분지 정복",
+    "zh": "匈牙利人征服喀尔巴阡盆地",
+    "ja": "マジャル人のカルパティア盆地征服"
+   },
+   "description": {
+    "en": "Around 895 the Magyars crossed the Carpathians and began settling the Carpathian Basin, gradually extending their control eastward into Crișana, Banat and Transylvania over the following century. The 12th–13th-century Gesta Hungarorum names local rulers they met — Gelou, Glad and Menumorut — but the historicity of these figures and of the Romanian presence they imply is disputed between Romanian and Hungarian historiography.",
+    "ko": "895년경 마자르인은 카르파티아 산맥을 넘어 카르파티아 분지에 정착하기 시작했고, 이후 한 세기에 걸쳐 크리샤나·바나트·트란실바니아로 지배를 넓혀 갔다. 12~13세기의 『헝가리인의 사적(게스타 훙가로룸)』은 그들이 맞닥뜨린 현지 지배자 겔루·글라드·메누모루트를 언급하지만, 이들 인물의 실재성과 그것이 시사하는 루마니아인의 존재 여부는 루마니아와 헝가리 역사학 사이에서 논쟁 중이다.",
+    "zh": "约895年，马扎尔人越过喀尔巴阡山脉开始定居喀尔巴阡盆地，并在此后一个世纪里逐步向东将控制扩展到克里沙纳、巴纳特和特兰西瓦尼亚。12至13世纪的《匈牙利人事迹》提到他们遇到的当地统治者杰卢、格拉德和梅努莫鲁特，但这些人物的真实性及其所暗示的罗马尼亚人存在，在罗马尼亚与匈牙利史学界之间存在争议。",
+    "ja": "895年頃、マジャル人はカルパティア山脈を越えてカルパティア盆地に定住し始め、その後1世紀をかけてクリシャナ、バナト、トランシルヴァニアへと支配を広げた。12〜13世紀の『ハンガリー人の事績』は彼らが遭遇した在地の支配者ゲル、グラド、メヌモルトの名を挙げるが、これらの人物の実在性とそれが示唆するルーマニア人の存在については、ルーマニアとハンガリーの歴史学の間で議論が分かれている。"
+   }
+  },
+  {
+   "year": 971,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Byzantium recovers the lower Danube",
+    "ko": "비잔티움의 도나우강 하류 탈환",
+    "zh": "拜占庭收复多瑙河下游",
+    "ja": "ビザンツによるドナウ下流域の奪回"
+   },
+   "description": {
+    "en": "In 971 Emperor John I Tzimiskes defeated the Kievan prince Sviatoslav, who had occupied Bulgaria, and restored Byzantine rule on the lower Danube. Dobruja became part of the Byzantine frontier region later called Paristrion, with fortresses such as Dinogetia and Noviodunum rebuilt.",
+    "ko": "971년 요안네스 1세 치미스케스 황제는 불가리아를 점령한 키예프 공 스뱌토슬라프를 물리치고 도나우강 하류에 비잔티움의 지배를 회복했다. 도브로자는 훗날 파리스트리온이라 불린 비잔티움 변경 지역의 일부가 되었고, 디노게티아와 노비오두눔 같은 요새가 재건되었다.",
+    "zh": "971年，约翰一世·齐米斯基斯皇帝击败占领保加利亚的基辅大公斯维亚托斯拉夫，恢复了拜占庭对多瑙河下游的统治。多布罗加成为后来称为帕里斯特里翁的拜占庭边境地区的一部分，迪诺盖蒂亚和诺维奥杜努姆等要塞得以重建。",
+    "ja": "971年、ヨハネス1世ツィミスケス帝はブルガリアを占領していたキエフ公スヴャトスラフを破り、ドナウ下流域にビザンツの支配を回復した。ドブロジャは後にパリストリオンと呼ばれるビザンツ辺境地域の一部となり、ディノゲティアやノウィオドゥヌムなどの要塞が再建された。"
+   }
+  },
+  {
+   "year": 1003,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Stephen I brings Transylvania under Hungary",
+    "ko": "이슈트반 1세의 트란실바니아 병합",
+    "zh": "斯蒂芬一世将特兰西瓦尼亚并入匈牙利",
+    "ja": "イシュトヴァーン1世によるトランシルヴァニア併合"
+   },
+   "description": {
+    "en": "According to Hungarian chronicles, King Stephen I of Hungary defeated his maternal relative Gyula, ruler of Transylvania, in 1003 and incorporated the region into his Christian kingdom. Transylvania was organized as a voivodeship with royal counties, and Latin Christianity and its bishoprics were extended there.",
+    "ko": "헝가리 연대기에 따르면 헝가리 왕 이슈트반 1세는 1003년 트란실바니아의 지배자이자 외가 친척인 줄러를 물리치고 이 지역을 기독교 왕국에 편입했다. 트란실바니아는 왕령 주(州)를 둔 보이보다령으로 조직되었고, 라틴 기독교와 주교구가 이곳으로 확장되었다.",
+    "zh": "据匈牙利编年史记载，匈牙利国王斯蒂芬一世于1003年击败了特兰西瓦尼亚统治者、其母系亲属久拉，将该地区并入他的基督教王国。特兰西瓦尼亚被组织为设有王室州的督军领地，拉丁基督教及其主教区也扩展到这里。",
+    "ja": "ハンガリーの年代記によれば、ハンガリー王イシュトヴァーン1世は1003年、トランシルヴァニアの支配者で母方の親族ジュラを破り、この地域をキリスト教王国に編入した。トランシルヴァニアは王領県を置くヴォイヴォダ領として組織され、ラテン・キリスト教と司教区がここに広がった。"
+   }
+  },
+  {
+   "year": 1068,
+   "qid": "Q872007",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Kerlés",
+    "ko": "케를레시 전투",
+    "zh": "凯尔莱什战役",
+    "ja": "ケルレーシュの戦い"
+   },
+   "description": {
+    "en": "In 1068 nomadic raiders from the steppe — described as Pechenegs or Uzes — plundered Transylvania and were defeated at Kerlés (Chiraleș, near Bistrița) by King Solomon of Hungary and the dukes Géza and Ladislaus. The battle illustrates the constant pressure of steppe peoples on the eastern Carpathian frontier.",
+    "ko": "1068년 페체네그족 또는 우즈족으로 전해지는 스텝 유목민 약탈자들이 트란실바니아를 휩쓸었으나, 케를레시(비스트리차 인근 키랄레슈)에서 헝가리 왕 샬로몬과 게저·라슬로 공에게 격파되었다. 이 전투는 동카르파티아 변경에 대한 스텝 민족의 끊임없는 압박을 보여 준다.",
+    "zh": "1068年，被记载为佩切涅格人或乌古斯人的草原游牧劫掠者洗劫特兰西瓦尼亚，在凯尔莱什（比斯特里察附近的基拉莱什）被匈牙利国王所罗门及盖扎、拉斯洛两位公爵击败。此役体现了草原民族对喀尔巴阡东部边境的持续压力。",
+    "ja": "1068年、ペチェネグ族またはウズ族とされるステップの遊牧民がトランシルヴァニアを略奪したが、ケルレーシュ（ビストリツァ近郊キラレシュ）でハンガリー王シャラモンとゲーザ、ラースローの両公に撃破された。この戦いは東カルパティア辺境に対するステップ民族の絶え間ない圧力を物語る。"
+   }
+  },
+  {
+   "year": 1150,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "German 'Saxon' settlers arrive in Transylvania",
+    "ko": "트란실바니아에 독일계 '작센인' 정착",
+    "zh": "德意志\"萨克森人\"移居特兰西瓦尼亚",
+    "ja": "ドイツ系「ザクセン人」のトランシルヴァニア入植"
+   },
+   "description": {
+    "en": "Under King Géza II of Hungary (1141–1162) the crown began inviting German colonists, later known as Transylvanian Saxons, to settle in southern and north-eastern Transylvania to defend the frontier and develop the land. Their towns — Hermannstadt (Sibiu), Kronstadt (Brașov), Bistritz (Bistrița) — and fortified churches shaped the region for eight centuries.",
+    "ko": "헝가리 왕 게저 2세(재위 1141~1162) 시기부터 왕실은 국경 방어와 개척을 위해 훗날 트란실바니아 작센인으로 불리는 독일계 이주민을 트란실바니아 남부와 북동부로 불러들였다. 그들이 세운 헤르만슈타트(시비우)·크론슈타트(브라쇼브)·비스트리츠(비스트리차) 같은 도시와 요새 교회는 8세기 동안 이 지역의 모습을 형성했다.",
+    "zh": "自匈牙利国王盖扎二世（1141—1162年在位）时起，王室开始招募后来被称为特兰西瓦尼亚萨克森人的德意志移民，到特兰西瓦尼亚南部和东北部定居，以守卫边疆、开发土地。他们建立的赫尔曼施塔特（锡比乌）、克伦施塔特（布拉索夫）、比斯特里茨（比斯特里察）等城镇和设防教堂塑造了该地区长达八个世纪的面貌。",
+    "ja": "ハンガリー王ゲーザ2世（在位1141〜1162年）の時代から、王権は国境防衛と開拓のため、後にトランシルヴァニア・ザクセン人と呼ばれるドイツ系移民をトランシルヴァニア南部と北東部に招いた。彼らが築いたヘルマンシュタット（シビウ）、クローンシュタット（ブラショフ）、ビストリッツ（ビストリツァ）などの都市と要塞教会は、8世紀にわたってこの地域の姿を形づくった。"
+   }
+  },
+  {
+   "year": 1186,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Uprising of Asen and Peter",
+    "ko": "아센과 페타르의 봉기",
+    "zh": "阿森与彼得起义",
+    "ja": "アセンとペタルの蜂起"
+   },
+   "description": {
+    "en": "In 1185–1186 the brothers Asen and Peter, whom Byzantine sources call Vlachs, led a revolt of Bulgarians and Vlachs against Byzantium, aided by Cumans from north of the Danube. It created the Second Bulgarian Empire, which held Dobruja; the brothers' ethnic identity is debated between Bulgarian and Romanian historians.",
+    "ko": "1185~1186년 비잔티움 사료가 블라흐인이라 부르는 아센과 페타르 형제가 도나우강 이북 쿠만족의 지원을 받아 불가리아인과 블라흐인을 이끌고 비잔티움에 반란을 일으켰다. 이로써 도브로자를 영유한 제2차 불가리아 제국이 세워졌으며, 형제의 민족적 정체성은 불가리아와 루마니아 역사가 사이에서 논쟁이 있다.",
+    "zh": "1185至1186年，被拜占庭史料称为瓦拉几人的阿森和彼得兄弟在多瑙河以北库曼人的援助下，率领保加利亚人和瓦拉几人反抗拜占庭。起义建立了据有多布罗加的第二保加利亚帝国；兄弟二人的民族身份在保加利亚和罗马尼亚史学家之间存在争议。",
+    "ja": "1185〜1186年、ビザンツ史料がヴラフ人と呼ぶアセンとペタルの兄弟が、ドナウ以北のクマン人の支援を得てブルガリア人とヴラフ人を率いビザンツに反乱を起こした。これにより、ドブロジャを領有する第二次ブルガリア帝国が成立した。兄弟の民族的帰属については、ブルガリアとルーマニアの歴史家の間で議論がある。"
+   }
+  },
+  {
+   "year": 1211,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Teutonic Knights in the Burzenland",
+    "ko": "부르첸란트의 튜턴 기사단",
+    "zh": "条顿骑士团进驻布尔岑兰",
+    "ja": "ブルツェンラントのドイツ騎士団"
+   },
+   "description": {
+    "en": "In 1211 King Andrew II of Hungary granted the Burzenland (Țara Bârsei, around Brașov) to the Teutonic Knights to defend Transylvania against the Cumans. The knights built wooden and earthen fortifications and pushed beyond the Carpathians, but when they sought to place their lands under papal rather than royal authority, Andrew expelled them in 1225.",
+    "ko": "1211년 헝가리 왕 언드라시 2세는 쿠만족으로부터 트란실바니아를 지키기 위해 부르첸란트(브라쇼브 일대의 처라 버르세이)를 튜턴 기사단에 하사했다. 기사단은 목조·토성 요새를 쌓고 카르파티아 너머로 진출했으나, 영지를 국왕이 아닌 교황의 권위 아래 두려 하자 언드라시는 1225년 그들을 추방했다.",
+    "zh": "1211年，匈牙利国王安德烈二世将布尔岑兰（布拉索夫周边的布尔萨地区）授予条顿骑士团，以抵御库曼人保卫特兰西瓦尼亚。骑士团修筑木土要塞并向喀尔巴阡山外扩张，但当他们试图将领地置于教皇而非国王权威之下时，安德烈于1225年将其驱逐。",
+    "ja": "1211年、ハンガリー王アンドラーシュ2世はクマン人からトランシルヴァニアを守るため、ブルツェンラント（ブラショフ周辺のツァラ・ブルセイ）をドイツ騎士団に与えた。騎士団は木と土の要塞を築いてカルパティアの外へ進出したが、領地を国王ではなく教皇の権威の下に置こうとしたため、アンドラーシュは1225年に彼らを追放した。"
+   }
+  },
+  {
+   "year": 1224,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The Andreanum grants Saxon privileges",
+    "ko": "작센인 특권을 보장한 안드레아눔",
+    "zh": "《安德烈亚努姆》授予萨克森人特权",
+    "ja": "ザクセン人に特権を与えたアンドレアヌム"
+   },
+   "description": {
+    "en": "In 1224 Andrew II issued the Diploma Andreanum, granting the Saxons of the Sibiu region collective self-government, their own judges, free elections of priests and trading privileges in return for military service and taxes. It became the legal foundation of Saxon autonomy in Transylvania until the 19th century.",
+    "ko": "1224년 언드라시 2세는 『안드레아눔 특허장』을 발포해 시비우 지역 작센인에게 군역과 세금을 바치는 대가로 집단 자치, 자체 재판관, 사제 자유 선출, 교역 특권을 부여했다. 이는 19세기까지 트란실바니아 작센인 자치의 법적 토대가 되었다.",
+    "zh": "1224年，安德烈二世颁布《安德烈亚努姆特许状》，授予锡比乌地区的萨克森人集体自治、自设法官、自由选举神父以及贸易特权，以换取兵役和赋税。它成为特兰西瓦尼亚萨克森人自治直至19世纪的法律基础。",
+    "ja": "1224年、アンドラーシュ2世は「アンドレアヌム特許状」を発し、シビウ地方のザクセン人に兵役と納税の見返りとして集団的自治、独自の裁判官、司祭の自由選出、交易特権を与えた。これは19世紀までトランシルヴァニアにおけるザクセン人自治の法的基盤となった。"
+   }
+  },
+  {
+   "year": 1241,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Mongol invasion",
+    "ko": "몽골의 침입",
+    "zh": "蒙古入侵",
+    "ja": "モンゴルの侵攻"
+   },
+   "description": {
+    "en": "In spring 1241 Mongol armies under Batu's generals swept through Moldavia, Wallachia and Transylvania on their way to Hungary, sacking Rodna, Bistrița, Alba Iulia and Oradea. The invasion devastated the region; afterwards the Golden Horde dominated the lands east and south of the Carpathians for about a century, while Hungary encouraged the building of stone castles.",
+    "ko": "1241년 봄 바투 휘하 장군들이 이끄는 몽골군은 헝가리로 향하며 몰다비아·왈라키아·트란실바니아를 휩쓸고 로드나·비스트리차·알바이울리아·오라데아를 약탈했다. 침입은 이 지역을 황폐화했고, 이후 약 1세기 동안 금장 칸국이 카르파티아 동쪽과 남쪽 땅을 지배했으며, 헝가리는 석조 성곽 축조를 장려했다.",
+    "zh": "1241年春，拔都麾下将领率领的蒙古军在进攻匈牙利途中横扫摩尔达维亚、瓦拉几亚和特兰西瓦尼亚，洗劫了罗德纳、比斯特里察、阿尔巴尤利亚和奥拉迪亚。入侵使该地区遭受重创；此后约一个世纪，金帐汗国支配喀尔巴阡山以东和以南地区，而匈牙利则鼓励修建石砌城堡。",
+    "ja": "1241年春、バトゥ配下の将軍たちが率いるモンゴル軍はハンガリーへ向かう途上でモルダヴィア、ワラキア、トランシルヴァニアを席巻し、ロドナ、ビストリツァ、アルバ・ユリア、オラデアを略奪した。侵攻はこの地域を荒廃させ、その後約1世紀にわたりジョチ・ウルスがカルパティアの東と南の地を支配し、ハンガリーは石造の城の建設を奨励した。"
+   }
+  },
+  {
+   "year": 1247,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Hospitaller Diploma names Romanian voivodes",
+    "ko": "구호기사단 특허장에 등장한 루마니아계 보이보드",
+    "zh": "医院骑士团特许状记载罗马尼亚督军",
+    "ja": "ヨハネ騎士団特許状に現れたルーマニア系ヴォイヴォダ"
+   },
+   "description": {
+    "en": "In 1247 King Béla IV of Hungary granted lands between the Carpathians and the Danube to the Knights Hospitaller. The charter mentions the Romanian polities of the voivodes Litovoi and Seneslau and the cnezates of Ioan and Farcaș, offering the first written evidence of the small states that later merged into Wallachia.",
+    "ko": "1247년 헝가리 왕 벨러 4세는 카르파티아 산맥과 도나우강 사이의 땅을 구호기사단에 하사했다. 이 특허장에는 보이보드 리토보이와 세네슬라우의 루마니아계 정치체, 그리고 이오안과 파르카슈의 크네즈령이 언급되어 있어, 훗날 왈라키아로 합쳐진 소국들에 대한 최초의 문헌 증거가 된다.",
+    "zh": "1247年，匈牙利国王贝拉四世将喀尔巴阡山与多瑙河之间的土地授予医院骑士团。特许状中提到了督军利托沃伊和塞内斯劳的罗马尼亚政治体，以及约安和法尔卡什的克内兹领地，是后来合并为瓦拉几亚的诸小国的最早文字证据。",
+    "ja": "1247年、ハンガリー王ベーラ4世はカルパティア山脈とドナウ川の間の地をヨハネ騎士団に与えた。この特許状にはヴォイヴォダのリトヴォイとセネスラウのルーマニア系政体、イオアンとファルカシュのクネズ領が記されており、後にワラキアへと統合される小国群に関する最初の文献的証拠となっている。"
+   }
+  },
+  {
+   "year": 1330,
+   "qid": "Q1076246",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Posada and Wallachian independence",
+    "ko": "포사다 전투와 왈라키아의 독립",
+    "zh": "波萨达战役与瓦拉几亚独立",
+    "ja": "ポサダの戦いとワラキアの独立"
+   },
+   "description": {
+    "en": "In November 1330 Basarab I of Wallachia ambushed the retreating army of King Charles I of Hungary in a narrow mountain pass and inflicted a crushing defeat. The victory secured the independence of Wallachia, the first Romanian principality, whose ruling Basarab dynasty took its name from him.",
+    "ko": "1330년 11월 왈라키아의 바사라브 1세는 좁은 산길에서 퇴각하던 헝가리 왕 카로이 1세의 군대를 매복 공격해 대승을 거두었다. 이 승리로 최초의 루마니아계 공국인 왈라키아의 독립이 확보되었으며, 왈라키아의 지배 왕조는 그의 이름을 따 바사라브 왕조라 불렸다.",
+    "zh": "1330年11月，瓦拉几亚的巴萨拉布一世在狭窄山道上伏击撤退中的匈牙利国王查理一世的军队，大获全胜。这一胜利确保了第一个罗马尼亚公国瓦拉几亚的独立，其统治王朝即以他的名字称为巴萨拉布王朝。",
+    "ja": "1330年11月、ワラキアのバサラブ1世は狭い山道で退却中のハンガリー王カーロイ1世の軍を待ち伏せし、壊滅的な打撃を与えた。この勝利により最初のルーマニア系公国ワラキアの独立が確保され、その支配王朝は彼の名からバサラブ朝と呼ばれた。"
+   }
+  },
+  {
+   "year": 1359,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Foundation of the Principality of Moldavia",
+    "ko": "몰다비아 공국의 성립",
+    "zh": "摩尔达维亚公国建立",
+    "ja": "モルダヴィア公国の成立"
+   },
+   "description": {
+    "en": "Around 1359 Bogdan, a Romanian voivode from Maramureș, crossed the Carpathians, ousted the Hungarian vassal ruler and established Moldavia as an independent principality, defending it against Hungarian attempts at reconquest. In the same year the Patriarchate of Constantinople recognized a metropolitan see for Wallachia, anchoring the young principalities in Orthodox Christianity.",
+    "ko": "1359년경 마라무레슈 출신의 루마니아계 보이보드 보그단이 카르파티아 산맥을 넘어 헝가리의 봉신 통치자를 몰아내고 몰다비아를 독립 공국으로 세웠으며, 헝가리의 재정복 시도를 막아 냈다. 같은 해 콘스탄티노폴리스 총대주교청은 왈라키아의 수도대주교좌를 승인해 신생 공국들을 정교회 세계에 굳게 자리매김시켰다.",
+    "zh": "约1359年，来自马拉穆列什的罗马尼亚督军博格丹越过喀尔巴阡山，驱逐匈牙利的附庸统治者，将摩尔达维亚建立为独立公国，并击退了匈牙利的再征服企图。同年，君士坦丁堡牧首区承认瓦拉几亚设立都主教区，使新生的公国牢固地融入东正教世界。",
+    "ja": "1359年頃、マラムレシュ出身のルーマニア系ヴォイヴォダ、ボグダンがカルパティア山脈を越えてハンガリーの封臣支配者を追放し、モルダヴィアを独立公国として建て、ハンガリーの再征服の試みを退けた。同年、コンスタンティノープル総主教庁はワラキアの府主教座を承認し、新興の公国群を正教世界にしっかりと位置づけた。"
+   }
+  },
+  {
+   "year": 1394,
+   "qid": "Q4871384",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Mircea the Elder fights Bayezid I at Rovine",
+    "ko": "로비네에서 바예지드 1세와 싸운 대(大)미르체아",
+    "zh": "老米尔恰在罗维内迎战巴耶济德一世",
+    "ja": "ロヴィネでバヤズィト1世と戦う老ミルチャ"
+   },
+   "description": {
+    "en": "Wallachian prince Mircea the Elder (r. 1386–1418), who had extended his rule to Dobruja, confronted the invading army of Sultan Bayezid I at Rovine on the Argeș (dated 1394 or 1395). The battle was bloody and its outcome is variously reported; Mircea later fought at Nicopolis (1396) and kept his throne, but in 1417 he had to accept paying tribute to the Ottomans.",
+    "ko": "도브로자까지 지배를 넓힌 왈라키아 공 대미르체아(재위 1386~1418)는 아르제슈강 유역 로비네에서 침공해 온 술탄 바예지드 1세의 군대와 맞섰다(1394년 또는 1395년). 전투는 치열했고 결과에 대한 기록은 엇갈린다. 미르체아는 이후 니코폴리스 전투(1396)에도 참전하며 왕위를 지켰으나, 1417년에는 오스만에 공납을 바치는 것을 받아들여야 했다.",
+    "zh": "将统治扩展到多布罗加的瓦拉几亚大公老米尔恰（1386—1418年在位）在阿尔杰什河畔的罗维内迎战入侵的苏丹巴耶济德一世大军（时间为1394年或1395年）。战斗十分惨烈，其结果记载不一；米尔恰后来还参加了尼科波利斯战役（1396年）并保住王位，但1417年不得不接受向奥斯曼纳贡。",
+    "ja": "ドブロジャにまで支配を広げたワラキア公老ミルチャ（在位1386〜1418年）は、アルジェシュ川流域のロヴィネで侵攻してきたスルタン、バヤズィト1世の軍と対峙した（1394年または1395年）。戦いは激烈で、その結果は史料により異なる。ミルチャはその後ニコポリスの戦い（1396年）にも参加して王位を保ったが、1417年にはオスマン帝国への貢納を受け入れざるを得なかった。"
+   }
+  },
+  {
+   "year": 1417,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ottomans take Dobruja",
+    "ko": "오스만 제국의 도브로자 점령",
+    "zh": "奥斯曼占领多布罗加",
+    "ja": "オスマン帝国のドブロジャ占領"
+   },
+   "description": {
+    "en": "Around 1417–1420 the Ottomans conquered Dobruja from Wallachia, together with the Danube fortresses of Giurgiu and Turnu. Dobruja remained under direct Ottoman rule for over 450 years and was settled by Turks and Tatars, while Wallachia became a tributary but self-governing principality.",
+    "ko": "1417~1420년경 오스만 제국은 왈라키아로부터 도브로자와 도나우강 요새 지우르지우·투르누를 빼앗았다. 도브로자는 이후 450년 넘게 오스만의 직할 통치를 받으며 튀르크인과 타타르인이 정착했고, 왈라키아는 공납을 바치되 자치를 유지하는 공국이 되었다.",
+    "zh": "约1417至1420年，奥斯曼帝国从瓦拉几亚手中夺取了多布罗加以及多瑙河要塞久尔久和图尔努。此后多布罗加在奥斯曼直接统治下长达450多年，并有土耳其人和鞑靼人迁入定居；瓦拉几亚则成为纳贡但自治的公国。",
+    "ja": "1417〜1420年頃、オスマン帝国はワラキアからドブロジャとドナウ河畔の要塞ジュルジュ、トゥルヌを奪った。ドブロジャはその後450年以上オスマンの直轄支配下に置かれてトルコ人やタタール人が入植し、ワラキアは貢納しつつ自治を保つ公国となった。"
+   }
+  },
+  {
+   "year": 1437,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Bobâlna revolt and the Union of the Three Nations",
+    "ko": "보발나 봉기와 3민족 연합",
+    "zh": "博巴尔纳起义与三民族联盟",
+    "ja": "ボバルナの反乱と三民族連合"
+   },
+   "description": {
+    "en": "In 1437 Hungarian and Romanian peasants in Transylvania rose against heavy tithes and seigneurial burdens in the Bobâlna revolt. In response, the Hungarian nobility, the Székelys and the Saxons formed the Unio Trium Nationum, a pact that monopolized political rights in Transylvania for centuries and excluded the Romanian majority, who were mostly serfs and Orthodox.",
+    "ko": "1437년 트란실바니아의 헝가리인과 루마니아인 농민들이 과중한 십일조와 영주 부담에 맞서 보발나 봉기를 일으켰다. 이에 대응해 헝가리 귀족, 세케이인, 작센인은 '3민족 연합'을 결성했는데, 이 협약은 수세기 동안 트란실바니아의 정치적 권리를 독점하며 대부분 농노이자 정교도였던 루마니아인 다수를 배제했다.",
+    "zh": "1437年，特兰西瓦尼亚的匈牙利和罗马尼亚农民因不堪什一税和领主负担发动博巴尔纳起义。作为回应，匈牙利贵族、塞凯伊人和萨克森人结成\"三民族联盟\"，这一盟约在数百年间垄断了特兰西瓦尼亚的政治权利，将多为农奴且信奉东正教的罗马尼亚多数居民排斥在外。",
+    "ja": "1437年、トランシルヴァニアのハンガリー人とルーマニア人の農民が重い十分の一税と領主の負担に抗してボバルナの反乱を起こした。これに対しハンガリー貴族、セーケイ人、ザクセン人は「三民族連合」を結成した。この盟約は数世紀にわたりトランシルヴァニアの政治的権利を独占し、大半が農奴で正教徒だったルーマニア人の多数派を排除した。"
+   }
+  },
+  {
+   "year": 1442,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "John Hunyadi's victories over the Ottomans",
+    "ko": "후녀디 야노시의 대(對)오스만 승리",
+    "zh": "匈雅提·亚诺什战胜奥斯曼",
+    "ja": "フニャディ・ヤーノシュの対オスマン勝利"
+   },
+   "description": {
+    "en": "In 1442 John Hunyadi, voivode of Transylvania from a family of Romanian origin, defeated Ottoman raiding armies near Hermannstadt (Sibiu) and on the Ialomița. A leading crusader general, he later became regent of Hungary and in 1456 relieved Belgrade; his son Matthias Corvinus, born in Cluj, became one of Hungary's most celebrated kings.",
+    "ko": "1442년 루마니아계 가문 출신의 트란실바니아 보이보드 후녀디 야노시는 헤르만슈타트(시비우) 부근과 이알로미차강 유역에서 오스만 약탈군을 격파했다. 십자군의 대표적 장수였던 그는 훗날 헝가리 섭정이 되어 1456년 베오그라드를 구원했으며, 클루지에서 태어난 그의 아들 마차시 1세는 헝가리의 가장 유명한 왕 중 하나가 되었다.",
+    "zh": "1442年，出身罗马尼亚裔家族的特兰西瓦尼亚督军匈雅提·亚诺什在赫尔曼施塔特（锡比乌）附近和亚洛米察河一带击败奥斯曼劫掠军。作为十字军的主要将领，他后来成为匈牙利摄政，并于1456年解救贝尔格莱德；他在克卢日出生的儿子马加什一世成为匈牙利最负盛名的国王之一。",
+    "ja": "1442年、ルーマニア系の家系出身のトランシルヴァニア・ヴォイヴォダ、フニャディ・ヤーノシュはヘルマンシュタット（シビウ）近郊とヤロミツァ川流域でオスマンの略奪軍を破った。十字軍の代表的な将軍であった彼は後にハンガリー摂政となり1456年にベオグラードを救援した。クルジュ生まれの息子マーチャーシュ1世はハンガリーで最も名高い王の一人となった。"
+   }
+  },
+  {
+   "year": 1456,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Reign of Vlad the Impaler",
+    "ko": "블라드 체페슈의 치세",
+    "zh": "穿刺者弗拉德的统治",
+    "ja": "ヴラド串刺し公の治世"
+   },
+   "description": {
+    "en": "In 1456 Vlad III, son of Vlad Dracul, took the throne of Wallachia for his main reign (1456–1462). He enforced order with notorious cruelty, especially impalement, refused tribute to the Ottomans and in 1462 resisted Mehmed II's invasion; German pamphlets about his deeds later inspired the 'Dracula' legend, while in Romania he is remembered as a stern defender of the country.",
+    "ko": "1456년 블라드 드라쿨의 아들 블라드 3세가 왈라키아 공위에 올라 주된 치세(1456~1462)를 시작했다. 그는 말뚝형을 비롯한 악명 높은 잔혹함으로 질서를 강제했고, 오스만에 대한 공납을 거부했으며 1462년 메흐메트 2세의 침공에 맞섰다. 그의 행적을 다룬 독일어 소책자들은 훗날 '드라큘라' 전설의 바탕이 되었지만, 루마니아에서는 나라를 지킨 엄격한 군주로 기억된다.",
+    "zh": "1456年，弗拉德·德古拉之子弗拉德三世登上瓦拉几亚大公之位，开始其主要统治期（1456—1462年）。他以骇人听闻的残酷手段尤其是穿刺刑维持秩序，拒绝向奥斯曼纳贡，并于1462年抵抗穆罕默德二世的入侵。关于其事迹的德语小册子后来成为\"德古拉\"传说的源头，而在罗马尼亚他则被视为严厉的护国君主。",
+    "ja": "1456年、ヴラド・ドラクルの子ヴラド3世がワラキア公位に就き、主要な治世（1456〜1462年）を開始した。彼は串刺し刑をはじめとする悪名高い残虐さで秩序を強制し、オスマンへの貢納を拒み、1462年にはメフメト2世の侵攻に抵抗した。その所業を伝えるドイツ語の小冊子は後に「ドラキュラ」伝説の源となったが、ルーマニアでは国を守った厳格な君主として記憶されている。"
+   }
+  },
+  {
+   "year": 1457,
+   "qid": "Q4870887",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Stephen the Great becomes prince of Moldavia",
+    "ko": "슈테판 대공의 몰다비아 즉위",
+    "zh": "斯特凡大公成为摩尔达维亚大公",
+    "ja": "シュテファン大公のモルダヴィア即位"
+   },
+   "description": {
+    "en": "In 1457, with help from Vlad III, Stephen III defeated Prince Petru Aron at Doljești and Orbic and took the Moldavian throne. During his 47-year reign (1457–1504) Stephen the Great fought Hungary, Poland, the Tatars and the Ottomans, built dozens of churches and monasteries such as Putna, and became Moldavia's most revered ruler; the Orthodox Church canonized him in 1992.",
+    "ko": "1457년 슈테판 3세는 블라드 3세의 도움을 받아 돌레슈티와 오르비크에서 페트루 아론 공을 격파하고 몰다비아 공위에 올랐다. 47년간의 치세(1457~1504) 동안 슈테판 대공은 헝가리·폴란드·타타르·오스만과 싸우고 푸트나 수도원 등 수십 개의 교회와 수도원을 세워 몰다비아에서 가장 존경받는 군주가 되었으며, 정교회는 1992년 그를 성인으로 시성했다.",
+    "zh": "1457年，斯特凡三世在弗拉德三世的帮助下于多列什蒂和奥尔比克击败大公彼得鲁·阿龙，登上摩尔达维亚大公之位。在47年的统治期间（1457—1504年），斯特凡大公与匈牙利、波兰、鞑靼和奥斯曼作战，修建了普特纳修道院等数十座教堂和修道院，成为摩尔达维亚最受尊崇的君主；东正教会于1992年将其封圣。",
+    "ja": "1457年、シュテファン3世はヴラド3世の助けを得てドリェシュティとオルビクでペトル・アロン公を破り、モルダヴィア公位に就いた。47年に及ぶ治世（1457〜1504年）の間、シュテファン大公はハンガリー、ポーランド、タタール、オスマンと戦い、プトナ修道院など数十の教会と修道院を建て、モルダヴィアで最も敬愛される君主となった。正教会は1992年に彼を列聖した。"
+   }
+  },
+  {
+   "year": 1462,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "The Night Attack at Târgoviște",
+    "ko": "트르고비슈테 야습",
+    "zh": "特尔戈维什泰夜袭",
+    "ja": "トゥルゴヴィシテの夜襲"
+   },
+   "description": {
+    "en": "In June 1462 Sultan Mehmed II invaded Wallachia to depose Vlad III. Vlad waged a scorched-earth campaign and launched a night raid on the Ottoman camp; the sultan reached Târgoviște, but soon withdrew, leaving Vlad's brother Radu the Handsome to take the throne, while Vlad fled to Hungary and was imprisoned.",
+    "ko": "1462년 6월 술탄 메흐메트 2세는 블라드 3세를 폐위하려고 왈라키아를 침공했다. 블라드는 초토화 전술을 펼치며 오스만 진영을 야습했고, 술탄은 트르고비슈테까지 이르렀으나 곧 철수했다. 왕위는 블라드의 동생 미남공 라두가 차지했고, 블라드는 헝가리로 도망쳤다가 투옥되었다.",
+    "zh": "1462年6月，苏丹穆罕默德二世入侵瓦拉几亚，意图废黜弗拉德三世。弗拉德实行焦土战术并夜袭奥斯曼营地；苏丹虽兵抵特尔戈维什泰，但不久撤军，由弗拉德之弟\"美男子\"拉杜继位，弗拉德则逃往匈牙利并遭囚禁。",
+    "ja": "1462年6月、スルタン、メフメト2世はヴラド3世を廃位するためワラキアに侵攻した。ヴラドは焦土戦術をとってオスマンの陣営に夜襲をかけ、スルタンはトゥルゴヴィシテまで達したがまもなく撤退した。王位はヴラドの弟、美男公ラドゥが継ぎ、ヴラドはハンガリーへ逃れて投獄された。"
+   }
+  },
+  {
+   "year": 1475,
+   "qid": "Q1073358",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Vaslui",
+    "ko": "바슬루이 전투",
+    "zh": "瓦斯卢伊战役",
+    "ja": "ヴァスルイの戦い"
+   },
+   "description": {
+    "en": "In January 1475 Stephen the Great, with a much smaller army, defeated a large Ottoman force under Hadım Suleiman Pasha near Vaslui, using fog and marshy terrain to his advantage. Pope Sixtus IV praised him as an 'athlete of Christ', but the Western powers sent little help against the Ottoman retaliation that followed.",
+    "ko": "1475년 1월 슈테판 대공은 훨씬 적은 병력으로 바슬루이 부근에서 하듬 쉴레이만 파샤가 이끄는 오스만 대군을 안개와 습지 지형을 활용해 격파했다. 교황 식스토 4세는 그를 '그리스도의 투사'라 찬양했지만, 뒤이은 오스만의 보복에 맞서 서방 열강은 거의 도움을 주지 않았다.",
+    "zh": "1475年1月，斯特凡大公以远少于敌军的兵力，利用浓雾和沼泽地形，在瓦斯卢伊附近击败哈迪姆·苏莱曼帕夏率领的奥斯曼大军。教皇西斯笃四世称赞他为\"基督的斗士\"，但面对随后奥斯曼的报复，西方列强几乎未提供援助。",
+    "ja": "1475年1月、シュテファン大公ははるかに少ない兵力で、霧と湿地の地形を活かしてヴァスルイ近郊でハディム・スレイマン・パシャ率いるオスマンの大軍を破った。教皇シクストゥス4世は彼を「キリストの闘士」と称えたが、続くオスマンの報復に対して西欧諸国はほとんど援助を送らなかった。"
+   }
+  },
+  {
+   "year": 1476,
+   "qid": "Q2533670",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Valea Albă",
+    "ko": "발랴알버 전투",
+    "zh": "瓦莱亚阿尔伯战役",
+    "ja": "ヴァレア・アルバの戦い"
+   },
+   "description": {
+    "en": "In July 1476 Sultan Mehmed II personally invaded Moldavia and defeated Stephen the Great at Valea Albă (Războieni). The Ottomans, however, failed to take the fortresses of Suceava and Neamț and, hit by disease and supply shortages, withdrew without subjugating the principality.",
+    "ko": "1476년 7월 술탄 메흐메트 2세가 직접 몰다비아를 침공해 발랴알버(러즈보이에니)에서 슈테판 대공을 물리쳤다. 그러나 오스만군은 수체아바와 네암츠 요새를 함락하지 못했고, 질병과 보급난에 시달리다 공국을 굴복시키지 못한 채 철수했다.",
+    "zh": "1476年7月，苏丹穆罕默德二世亲征摩尔达维亚，在瓦莱亚阿尔伯（勒兹博耶尼）击败斯特凡大公。然而奥斯曼军未能攻克苏恰瓦和尼亚姆茨要塞，又受疾病和补给短缺之苦，最终未能征服该公国而撤军。",
+    "ja": "1476年7月、スルタン、メフメト2世は自らモルダヴィアに侵攻し、ヴァレア・アルバ（ラズボイェニ）でシュテファン大公を破った。しかしオスマン軍はスチャヴァとネアムツの要塞を落とせず、疫病と補給難に苦しんで公国を屈服させないまま撤退した。"
+   }
+  },
+  {
+   "year": 1479,
+   "qid": "Q690291",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Breadfield",
+    "ko": "브레드필드(빵의 들판) 전투",
+    "zh": "面包田战役",
+    "ja": "ブレッドフィールド（パンの野）の戦い"
+   },
+   "description": {
+    "en": "In October 1479 an Ottoman raiding army that had entered Transylvania was defeated at Câmpul Pâinii ('Breadfield') near Orăștie by the forces of Transylvanian voivode Stephen Báthory and Paul Kinizsi. It was one of the largest battles fought on Transylvanian soil in the 15th century and halted Ottoman raids for years.",
+    "ko": "1479년 10월 트란실바니아로 침입한 오스만 약탈군이 오러슈티에 부근 쿰풀퍼이니('빵의 들판')에서 트란실바니아 보이보드 바토리 이슈트반과 키니지 팔의 군대에 패했다. 이는 15세기 트란실바니아 땅에서 벌어진 가장 큰 전투 중 하나로, 이후 수년간 오스만의 약탈을 멈추게 했다.",
+    "zh": "1479年10月，侵入特兰西瓦尼亚的奥斯曼劫掠军在奥勒什蒂耶附近的\"面包田\"（库姆普尔珀伊尼）被特兰西瓦尼亚督军巴托里·伊什特万和基尼日·帕尔的军队击败。这是15世纪特兰西瓦尼亚境内规模最大的战役之一，使奥斯曼的劫掠停止了数年。",
+    "ja": "1479年10月、トランシルヴァニアに侵入したオスマンの略奪軍は、オラシュティエ近郊のクンプル・パイニ（「パンの野」）でトランシルヴァニア・ヴォイヴォダのバートリ・イシュトヴァーンとキニジ・パールの軍に敗れた。これは15世紀にトランシルヴァニアで戦われた最大級の戦いの一つで、数年間オスマンの略奪を止めた。"
+   }
+  },
+  {
+   "year": 1508,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "First book printed in Wallachia",
+    "ko": "왈라키아 최초의 인쇄본",
+    "zh": "瓦拉几亚第一本印刷书籍",
+    "ja": "ワラキア初の印刷本"
+   },
+   "description": {
+    "en": "In 1508 the monk Macarie printed a Church Slavonic Liturgy (Liturghier) in Wallachia under the patronage of Prince Radu the Great, the first book printed on the territory of present-day Romania. Printing in the Romanian language itself followed in the 16th century, notably through the deacon Coresi in Brașov.",
+    "ko": "1508년 수도사 마카리에가 라두 대공의 후원을 받아 왈라키아에서 교회 슬라브어 『전례서(리투르기에르)』를 인쇄했는데, 이는 오늘날 루마니아 영토에서 인쇄된 최초의 책이다. 루마니아어 인쇄는 16세기에 이어졌으며, 특히 브라쇼브의 부제 코레시가 큰 역할을 했다.",
+    "zh": "1508年，修士马卡里耶在拉杜大公的赞助下于瓦拉几亚印制了教会斯拉夫语《事奉经》，这是在今罗马尼亚境内印刷的第一本书。罗马尼亚语本身的印刷则始于16世纪，布拉索夫的执事科雷西对此贡献尤著。",
+    "ja": "1508年、修道士マカリエはラドゥ大公の庇護のもとワラキアで教会スラヴ語の『奉神礼書（リトゥルギエル）』を印刷した。これは現在のルーマニア領内で印刷された最初の書物である。ルーマニア語そのものの印刷は16世紀に続き、とりわけブラショフの輔祭コレシが大きな役割を果たした。"
+   }
+  },
+  {
+   "year": 1517,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Consecration of Curtea de Argeș Monastery",
+    "ko": "쿠르테아데아르제슈 수도원 봉헌",
+    "zh": "阿尔杰什修道院祝圣",
+    "ja": "クルテア・デ・アルジェシュ修道院の献堂"
+   },
+   "description": {
+    "en": "In 1517 Prince Neagoe Basarab of Wallachia consecrated the richly carved church of the Curtea de Argeș Monastery, a masterpiece of Wallachian architecture. Neagoe was also a patron of Orthodox Mount Athos, and the 'Teachings of Neagoe Basarab to his son Theodosie' are attributed to him; the church later became the burial place of Romania's kings.",
+    "ko": "1517년 왈라키아의 네아고에 바사라브 공은 화려한 조각으로 장식된 쿠르테아데아르제슈 수도원 성당을 봉헌했는데, 이는 왈라키아 건축의 걸작이다. 네아고에는 정교회 성산 아토스의 후원자이기도 했으며 『네아고에 바사라브가 아들 테오도시에에게 준 가르침』이 그의 저작으로 전해진다. 이 성당은 훗날 루마니아 국왕들의 묘소가 되었다.",
+    "zh": "1517年，瓦拉几亚大公内亚戈·巴萨拉布为雕饰华美的阿尔杰什修道院教堂祝圣，这是瓦拉几亚建筑的杰作。内亚戈还是东正教圣山阿索斯的赞助人，《内亚戈·巴萨拉布对其子特奥多西耶的训诫》据传为其所作；该教堂后来成为罗马尼亚历代国王的安葬地。",
+    "ja": "1517年、ワラキア公ネアゴエ・バサラブは豪華な彫刻で飾られたクルテア・デ・アルジェシュ修道院の聖堂を献堂した。これはワラキア建築の傑作である。ネアゴエは正教の聖山アトスの保護者でもあり、『ネアゴエ・バサラブの息子テオドシエへの教え』は彼の作とされる。この聖堂は後にルーマニア国王の墓所となった。"
+   }
+  },
+  {
+   "year": 1521,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Neacșu's Letter, oldest Romanian document",
+    "ko": "가장 오래된 루마니아어 문서 '네아크슈의 편지'",
+    "zh": "最古老的罗马尼亚语文献《内亚克舒书信》",
+    "ja": "最古のルーマニア語文書「ネアクシュの手紙」"
+   },
+   "description": {
+    "en": "In 1521 the boyar Neacșu of Câmpulung wrote to the mayor of Brașov warning of Ottoman troop movements on the Danube. Written in Romanian with Cyrillic letters, it is the oldest surviving dated document in the Romanian language.",
+    "ko": "1521년 쿰풀룽의 보야르 네아크슈는 도나우강 일대 오스만군의 움직임을 경고하는 편지를 브라쇼브 시장에게 보냈다. 키릴 문자로 쓰인 루마니아어 편지로, 현존하는 가장 오래된 연대 확인 루마니아어 문서이다.",
+    "zh": "1521年，坎普隆格的贵族内亚克舒致信布拉索夫市长，警告多瑙河沿岸奥斯曼军队的动向。这封以西里尔字母书写的罗马尼亚语信件，是现存最早的有确切年代的罗马尼亚语文献。",
+    "ja": "1521年、クンプルングの貴族ネアクシュはブラショフの市長に手紙を送り、ドナウ川沿いのオスマン軍の動きを警告した。キリル文字で書かれたルーマニア語のこの手紙は、年代の判明する現存最古のルーマニア語文書である。"
+   }
+  },
+  {
+   "year": 1541,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Principality of Transylvania under Ottoman suzerainty",
+    "ko": "오스만 종주권 아래의 트란실바니아 공국",
+    "zh": "奥斯曼宗主权下的特兰西瓦尼亚公国",
+    "ja": "オスマン宗主権下のトランシルヴァニア公国"
+   },
+   "description": {
+    "en": "After the Hungarian defeat at Mohács (1526) and the Ottoman capture of Buda in 1541, the kingdom split into three parts. Transylvania, with adjacent eastern Hungarian lands, became a self-governing principality paying tribute to the sultan, formally organized as such by 1570–1571; it was ruled by Hungarian princes elected by the estates.",
+    "ko": "1526년 모하치에서 헝가리가 패하고 1541년 오스만이 부다를 점령하자 헝가리 왕국은 셋으로 분열되었다. 트란실바니아는 인접한 동부 헝가리 지역과 함께 술탄에게 공납을 바치는 자치 공국이 되었고(1570~1571년 공국으로 정식 확립), 신분제 의회가 선출한 헝가리인 군주들이 통치했다.",
+    "zh": "1526年匈牙利在莫哈奇战败，1541年奥斯曼攻占布达，匈牙利王国一分为三。特兰西瓦尼亚连同邻近的匈牙利东部地区成为向苏丹纳贡的自治公国（1570—1571年正式确立），由等级会议选出的匈牙利籍大公统治。",
+    "ja": "1526年のモハーチでのハンガリーの敗北と1541年のオスマンによるブダ占領により、ハンガリー王国は三分された。トランシルヴァニアは隣接する東部ハンガリー地域とともにスルタンに貢納する自治公国となり（1570〜1571年に公国として正式に成立）、身分制議会が選ぶハンガリー人の君主が統治した。"
+   }
+  },
+  {
+   "year": 1552,
+   "qid": "Q1317918",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ottomans take Temesvár",
+    "ko": "오스만의 테메슈바르 점령",
+    "zh": "奥斯曼攻占泰梅什堡",
+    "ja": "オスマンのテメシュヴァール占領"
+   },
+   "description": {
+    "en": "In 1552 an Ottoman army under Kara Ahmed Pasha besieged and captured the fortress of Temesvár (Timișoara), defended by István Losonczy. The Banat became the Ottoman Eyalet of Temeşvar, ruled directly from Istanbul for 164 years until its conquest by the Habsburgs in 1716.",
+    "ko": "1552년 카라 아흐메트 파샤가 이끄는 오스만군은 로숀치 이슈트반이 지키던 테메슈바르(티미쇼아라) 요새를 포위해 함락했다. 바나트는 오스만의 테메슈바르 에얄레트가 되어 1716년 합스부르크에 정복될 때까지 164년간 이스탄불의 직할 통치를 받았다.",
+    "zh": "1552年，卡拉·艾哈迈德帕夏率领的奥斯曼军队围攻并攻克了由洛松齐·伊什特万守卫的泰梅什堡（蒂米什瓦拉）要塞。巴纳特成为奥斯曼的泰梅什堡省，由伊斯坦布尔直接统治164年，直至1716年被哈布斯堡征服。",
+    "ja": "1552年、カラ・アフメト・パシャ率いるオスマン軍はロションツィ・イシュトヴァーンが守るテメシュヴァール（ティミショアラ）要塞を包囲して陥落させた。バナトはオスマンのテメシュヴァール州となり、1716年にハプスブルクに征服されるまで164年間イスタンブールの直轄支配を受けた。"
+   }
+  },
+  {
+   "year": 1568,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Edict of Torda",
+    "ko": "토르더 칙령",
+    "zh": "托尔达敕令",
+    "ja": "トルダ勅令"
+   },
+   "description": {
+    "en": "In 1568 the Diet of Transylvania meeting in Torda (Turda), under Prince John Sigismund Zápolya, proclaimed that preachers could freely preach according to their understanding of the Gospel. One of Europe's earliest acts of religious toleration, it eventually recognized Catholic, Lutheran, Calvinist and Unitarian churches; Orthodoxy, the faith of the Romanians, was tolerated but not given equal status.",
+    "ko": "1568년 야노시 지그문드 공 치하에서 토르더(투르다)에 모인 트란실바니아 의회는 설교자들이 각자 이해한 복음에 따라 자유롭게 설교할 수 있다고 선포했다. 유럽 최초의 종교 관용령 가운데 하나로, 결국 가톨릭·루터파·칼뱅파·유니테리언 교회가 공인되었으나, 루마니아인의 신앙인 정교회는 용인되었을 뿐 동등한 지위를 얻지 못했다.",
+    "zh": "1568年，在亚诺什·日格蒙德大公治下，于托尔达（图尔达）召开的特兰西瓦尼亚议会宣布，传道者可依据各自对福音的理解自由传道。这是欧洲最早的宗教宽容法令之一，最终承认了天主教、路德宗、加尔文宗和一位论派教会；而罗马尼亚人信奉的东正教仅被容忍，未获同等地位。",
+    "ja": "1568年、ヤーノシュ・ジグモンド公のもとトルダ（トゥルダ）に集まったトランシルヴァニア議会は、説教者が自らの福音理解に従って自由に説教できると宣言した。ヨーロッパで最も早い宗教寛容令の一つであり、最終的にカトリック、ルター派、カルヴァン派、ユニテリアンの教会が公認されたが、ルーマニア人の信仰である正教会は黙認されたにとどまり、同等の地位は与えられなかった。"
+   }
+  },
+  {
+   "year": 1595,
+   "qid": "Q2540658",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Călugăreni",
+    "ko": "칼루가레니 전투",
+    "zh": "克卢格雷尼战役",
+    "ja": "カルガレニの戦い"
+   },
+   "description": {
+    "en": "In August 1595 Michael the Brave of Wallachia, having rebelled against the Ottomans, fought the much larger army of Grand Vizier Koca Sinan Pasha in the marshes of Călugăreni. Michael won the day but had to withdraw; with Transylvanian help he drove the Ottomans out of Wallachia that autumn, culminating at Giurgiu.",
+    "ko": "1595년 8월 오스만에 반기를 든 왈라키아의 용감공 미하이는 칼루가레니의 습지에서 대재상 코자 시난 파샤가 이끄는 훨씬 큰 군대와 싸웠다. 미하이는 이 전투에서 승리했으나 후퇴해야 했고, 그해 가을 트란실바니아의 지원을 받아 지우르지우에서의 승리로 오스만군을 왈라키아에서 몰아냈다.",
+    "zh": "1595年8月，反抗奥斯曼的瓦拉几亚\"勇敢者\"米哈伊在克卢格雷尼的沼泽地与大维齐尔科贾·锡南帕夏所率的庞大军队交战。米哈伊赢得了当天的战斗但被迫撤退；同年秋天，他在特兰西瓦尼亚的援助下将奥斯曼军逐出瓦拉几亚，并在久尔久取得决定性胜利。",
+    "ja": "1595年8月、オスマンに反旗を翻したワラキアの勇敢公ミハイは、カルガレニの湿地で大宰相コジャ・スィナン・パシャ率いるはるかに大きな軍と戦った。ミハイはこの日の戦いに勝ったが撤退を余儀なくされ、その秋トランシルヴァニアの援助を得てジュルジュでの勝利によりオスマン軍をワラキアから駆逐した。"
+   }
+  },
+  {
+   "year": 1599,
+   "qid": "Q592069",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Șelimbăr",
+    "ko": "셸림버르 전투",
+    "zh": "谢林伯尔战役",
+    "ja": "シェリンバルの戦い"
+   },
+   "description": {
+    "en": "In October 1599 Michael the Brave invaded Transylvania and defeated Prince Andrew Báthory, a client of Poland, at Șelimbăr near Sibiu. Michael entered Alba Iulia in triumph and ruled Transylvania as the Habsburg emperor's lieutenant, though in practice as its prince.",
+    "ko": "1599년 10월 용감공 미하이는 트란실바니아로 진격해 시비우 부근 셸림버르에서 폴란드의 비호를 받던 바토리 언드라시 공을 격파했다. 미하이는 개선하며 알바이울리아에 입성했고, 명목상 합스부르크 황제의 대리인이지만 사실상 군주로서 트란실바니아를 통치했다.",
+    "zh": "1599年10月，\"勇敢者\"米哈伊进军特兰西瓦尼亚，在锡比乌附近的谢林伯尔击败受波兰庇护的大公巴托里·安德拉什。米哈伊凯旋进入阿尔巴尤利亚，名义上作为哈布斯堡皇帝的代理人、实际上以大公身份统治特兰西瓦尼亚。",
+    "ja": "1599年10月、勇敢公ミハイはトランシルヴァニアに侵攻し、シビウ近郊のシェリンバルでポーランドの後ろ盾を持つバートリ・アンドラーシュ公を破った。ミハイは凱旋してアルバ・ユリアに入城し、名目上はハプスブルク皇帝の代理として、実際には君主としてトランシルヴァニアを統治した。"
+   }
+  },
+  {
+   "year": 1600,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Michael the Brave unites the three principalities",
+    "ko": "용감공 미하이의 3공국 통합",
+    "zh": "\"勇敢者\"米哈伊统一三公国",
+    "ja": "勇敢公ミハイによる三公国の統合"
+   },
+   "description": {
+    "en": "In May 1600 Michael the Brave conquered Moldavia, briefly bringing Wallachia, Transylvania and Moldavia under one ruler for the first time. The union collapsed within months after his defeat at Mirăslău in September 1600 by Transylvanian nobles and Habsburg general Giorgio Basta, but in the 19th century it became a powerful symbol for Romanian national unification.",
+    "ko": "1600년 5월 용감공 미하이는 몰다비아를 정복해 처음으로 왈라키아·트란실바니아·몰다비아를 잠시나마 한 군주 아래 두었다. 이 통합은 같은 해 9월 미러슬러우에서 트란실바니아 귀족과 합스부르크 장군 조르조 바스타에게 패하면서 몇 달 만에 무너졌지만, 19세기에 루마니아 민족 통일의 강력한 상징이 되었다.",
+    "zh": "1600年5月，\"勇敢者\"米哈伊征服摩尔达维亚，首次短暂地将瓦拉几亚、特兰西瓦尼亚和摩尔达维亚置于同一君主之下。同年9月他在米勒斯勒乌被特兰西瓦尼亚贵族和哈布斯堡将军乔治·巴斯塔击败，统一在数月内瓦解，但在19世纪成为罗马尼亚民族统一的有力象征。",
+    "ja": "1600年5月、勇敢公ミハイはモルダヴィアを征服し、ワラキア、トランシルヴァニア、モルダヴィアを初めて一人の君主のもとに短期間統合した。同年9月にミラスラウでトランシルヴァニア貴族とハプスブルクの将軍ジョルジョ・バスタに敗れ、統合は数か月で崩れたが、19世紀にはルーマニア民族統一の強力な象徴となった。"
+   }
+  },
+  {
+   "year": 1601,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Michael the Brave",
+    "ko": "용감공 미하이의 암살",
+    "zh": "\"勇敢者\"米哈伊遇刺",
+    "ja": "勇敢公ミハイの暗殺"
+   },
+   "description": {
+    "en": "After joining with Basta to defeat the Transylvanian nobles at Gurăslău in August 1601, Michael the Brave was murdered shortly afterwards in his camp near Turda on Basta's orders. His death ended the brief union, and the three lands went their separate ways for over two centuries.",
+    "ko": "1601년 8월 바스타와 손잡고 구러슬러우에서 트란실바니아 귀족군을 격파한 직후, 용감공 미하이는 투르다 부근 진영에서 바스타의 명령으로 살해되었다. 그의 죽음으로 짧은 통합은 끝났고, 세 지역은 이후 두 세기 넘게 각자의 길을 걸었다.",
+    "zh": "1601年8月，\"勇敢者\"米哈伊与巴斯塔联手在古勒斯勒乌击败特兰西瓦尼亚贵族军，不久便在图尔达附近的营地中被巴斯塔下令杀害。他的死结束了短暂的统一，三地此后两百多年各自发展。",
+    "ja": "1601年8月、バスタと組んでグラスラウでトランシルヴァニア貴族軍を破った直後、勇敢公ミハイはトゥルダ近郊の陣営でバスタの命により殺害された。その死によって短い統合は終わり、三つの地はその後2世紀以上別々の道を歩んだ。"
+   }
+  },
+  {
+   "year": 1613,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Gabriel Bethlen's golden age in Transylvania",
+    "ko": "베틀렌 가보르 치하 트란실바니아의 황금기",
+    "zh": "拜特伦·加博尔治下特兰西瓦尼亚的黄金时代",
+    "ja": "ベトレン・ガーボル治下トランシルヴァニアの黄金時代"
+   },
+   "description": {
+    "en": "Gabriel Bethlen became prince of Transylvania in 1613 with Ottoman backing and ruled until 1629. He strengthened the economy, founded a college at Alba Iulia, and intervened in the Thirty Years' War on the Protestant side, making the principality a notable player in European politics.",
+    "ko": "베틀렌 가보르는 1613년 오스만의 후원으로 트란실바니아 공이 되어 1629년까지 통치했다. 그는 경제를 강화하고 알바이울리아에 학원을 세웠으며, 30년 전쟁에 신교 측으로 개입해 공국을 유럽 정치의 주목할 만한 세력으로 만들었다.",
+    "zh": "拜特伦·加博尔于1613年在奥斯曼支持下成为特兰西瓦尼亚大公，统治至1629年。他振兴经济，在阿尔巴尤利亚创办学院，并站在新教一方介入三十年战争，使该公国成为欧洲政治中引人注目的力量。",
+    "ja": "ベトレン・ガーボルは1613年にオスマンの後押しでトランシルヴァニア公となり、1629年まで統治した。彼は経済を強化し、アルバ・ユリアに学院を創設し、三十年戦争にプロテスタント側で介入して、公国をヨーロッパ政治の注目すべき勢力とした。"
+   }
+  },
+  {
+   "year": 1643,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Varlaam's Cazania printed in Iași",
+    "ko": "야시에서 간행된 바를라암의 『카자니아』",
+    "zh": "瓦尔拉姆《布道集》在雅西出版",
+    "ja": "ヤシで刊行されたヴァルラームの『カザニア』"
+   },
+   "description": {
+    "en": "In 1643, under Prince Vasile Lupu, Metropolitan Varlaam of Moldavia printed the 'Carte românească de învățătură' (the Cazania), a collection of homilies in Romanian addressed to Romanians in all lands. Together with the printing efforts of Matei Basarab in Wallachia, it marked the growing use of Romanian instead of Church Slavonic in church and letters.",
+    "ko": "1643년 바실레 루푸 공 치하에서 몰다비아 수도대주교 바를라암은 모든 땅의 루마니아인에게 바치는 루마니아어 설교집 『루마니아어 교훈서(카자니아)』를 인쇄했다. 왈라키아의 마테이 바사라브 공의 출판 사업과 함께, 이는 교회와 문필에서 교회 슬라브어 대신 루마니아어가 점점 더 쓰이게 되었음을 보여 준다.",
+    "zh": "1643年，在瓦西里·卢普大公治下，摩尔达维亚都主教瓦尔拉姆印行了献给各地罗马尼亚人的罗马尼亚语布道集《罗马尼亚语教谕书》（即《布道集》）。连同瓦拉几亚马泰·巴萨拉布大公的出版事业，它标志着罗马尼亚语在教会和文字领域日益取代教会斯拉夫语。",
+    "ja": "1643年、ヴァシーレ・ルプ公のもとでモルダヴィア府主教ヴァルラームは、すべての地のルーマニア人に向けたルーマニア語の説教集『ルーマニア語教訓書（カザニア）』を印刷した。ワラキアのマテイ・バサラブ公の出版事業とともに、教会と文筆において教会スラヴ語に代わりルーマニア語がますます用いられるようになったことを示している。"
+   }
+  },
+  {
+   "year": 1653,
+   "qid": "Q2576318",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Finta",
+    "ko": "핀타 전투",
+    "zh": "芬塔战役",
+    "ja": "フィンタの戦い"
+   },
+   "description": {
+    "en": "In May 1653 Prince Matei Basarab of Wallachia defeated the invading forces of Moldavian prince Vasile Lupu and his Cossack ally Tymish Khmelnytsky at Finta. The long rivalry of the two princes ended soon after, when Vasile Lupu lost his throne and Tymish was killed during the siege of Suceava.",
+    "ko": "1653년 5월 왈라키아의 마테이 바사라브 공은 핀타에서 몰다비아 공 바실레 루푸와 그의 코사크 동맹 티미시 흐멜니츠키의 침공군을 격파했다. 두 군주의 오랜 경쟁은 곧 바실레 루푸가 왕위를 잃고 티미시가 수체아바 포위전에서 전사하면서 끝났다.",
+    "zh": "1653年5月，瓦拉几亚大公马泰·巴萨拉布在芬塔击败了摩尔达维亚大公瓦西里·卢普及其哥萨克盟友季米什·赫梅利尼茨基的入侵军队。不久瓦西里·卢普失去王位，季米什在苏恰瓦围城战中阵亡，两位大公的长期争斗就此结束。",
+    "ja": "1653年5月、ワラキアのマテイ・バサラブ公はフィンタで、モルダヴィア公ヴァシーレ・ルプとそのコサックの同盟者ティミシュ・フメリニツキーの侵攻軍を破った。まもなくヴァシーレ・ルプは王位を失い、ティミシュはスチャヴァ包囲戦で戦死し、二人の君主の長い対立は終わった。"
+   }
+  },
+  {
+   "year": 1688,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "The Bucharest Bible",
+    "ko": "부쿠레슈티 성경",
+    "zh": "布加勒斯特圣经",
+    "ja": "ブカレスト聖書"
+   },
+   "description": {
+    "en": "In 1688 the first complete translation of the Bible into Romanian was printed in Bucharest under Prince Șerban Cantacuzino. The Bucharest Bible became a cornerstone of the Romanian literary language; that same year Constantin Brâncoveanu began his 26-year reign, a period known for the ornate 'Brâncovenesc' architectural style.",
+    "ko": "1688년 셰르반 칸타쿠지노 공 치하의 부쿠레슈티에서 최초의 루마니아어 완역 성경이 인쇄되었다. 『부쿠레슈티 성경』은 루마니아 문어의 초석이 되었으며, 같은 해 콘스탄틴 브런코베아누가 26년간의 치세를 시작해 화려한 '브런코베아누 양식' 건축의 시대를 열었다.",
+    "zh": "1688年，在谢尔班·坎塔库济诺大公治下，第一部完整的罗马尼亚语《圣经》译本在布加勒斯特印行。《布加勒斯特圣经》成为罗马尼亚书面语的基石；同年康斯坦丁·布伦科维亚努开始了长达26年的统治，这一时期以华丽的\"布伦科维亚努风格\"建筑闻名。",
+    "ja": "1688年、シェルバン・カンタクジノ公のもとブカレストで、初のルーマニア語完訳聖書が印刷された。『ブカレスト聖書』はルーマニア文語の礎となった。同年コンスタンティン・ブルンコヴェアヌが26年間の治世を始め、華麗な「ブルンコヴェアヌ様式」建築の時代を開いた。"
+   }
+  },
+  {
+   "year": 1690,
+   "qid": "Q4872808",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Zărnești",
+    "ko": "저르네슈티 전투",
+    "zh": "泽尔内什蒂战役",
+    "ja": "ザルネシュティの戦い"
+   },
+   "description": {
+    "en": "In August 1690 the Hungarian rebel leader Imre Thököly, backed by Ottoman, Tatar and Wallachian troops, defeated the Habsburg-led army at Zărnești and was proclaimed prince of Transylvania. His rule lasted only weeks before the imperial army under Louis of Baden drove him out, and Habsburg control was consolidated.",
+    "ko": "1690년 8월 헝가리 반란 지도자 퇴뵈이 임레는 오스만·타타르·왈라키아 군대의 지원을 받아 저르네슈티에서 합스부르크 측 군대를 격파하고 트란실바니아 공으로 추대되었다. 그러나 그의 통치는 몇 주 만에 바덴의 루트비히가 이끄는 제국군에게 쫓겨나며 끝났고, 합스부르크의 지배가 굳어졌다.",
+    "zh": "1690年8月，匈牙利起义领袖特克伊·伊姆雷在奥斯曼、鞑靼和瓦拉几亚军队支持下，于泽尔内什蒂击败哈布斯堡方面的军队，并被拥立为特兰西瓦尼亚大公。但其统治仅维持数周，便被巴登的路德维希率领的帝国军队驱逐，哈布斯堡的控制随之巩固。",
+    "ja": "1690年8月、ハンガリーの反乱指導者テケリ・イムレはオスマン、タタール、ワラキアの軍の支援を受けてザルネシュティでハプスブルク側の軍を破り、トランシルヴァニア公に推戴された。しかしその支配はわずか数週間で、バーデン辺境伯ルートヴィヒ率いる帝国軍に追われて終わり、ハプスブルクの支配が固まった。"
+   }
+  },
+  {
+   "year": 1699,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Karlowitz: Transylvania to the Habsburgs",
+    "ko": "카를로비츠 조약: 트란실바니아의 합스부르크 귀속",
+    "zh": "卡尔洛维茨条约：特兰西瓦尼亚归哈布斯堡",
+    "ja": "カルロヴィッツ条約：トランシルヴァニアのハプスブルク帰属"
+   },
+   "description": {
+    "en": "After the failed Ottoman siege of Vienna (1683), Transylvania came under Habsburg control; the Diploma Leopoldinum of 1691 guaranteed its estates and churches. The Treaty of Karlowitz in 1699 confirmed Habsburg rule over Transylvania, while the Banat of Temeswar stayed Ottoman until 1716.",
+    "ko": "오스만의 빈 포위(1683)가 실패한 뒤 트란실바니아는 합스부르크의 지배 아래 들어갔고, 1691년의 『레오폴트 특허장』은 그 신분제와 교회를 보장했다. 1699년 카를로비츠 조약은 트란실바니아에 대한 합스부르크의 지배를 확정했으며, 테메슈바르 바나트는 1716년까지 오스만령으로 남았다.",
+    "zh": "奥斯曼围攻维也纳（1683年）失败后，特兰西瓦尼亚落入哈布斯堡控制之下，1691年的《利奥波德特许状》保障了其等级制度和教会。1699年的卡尔洛维茨条约确认了哈布斯堡对特兰西瓦尼亚的统治，而泰梅什堡巴纳特则在奥斯曼手中直到1716年。",
+    "ja": "オスマンの第二次ウィーン包囲（1683年）の失敗後、トランシルヴァニアはハプスブルクの支配下に入り、1691年の「レオポルト特許状」がその身分制と教会を保障した。1699年のカルロヴィッツ条約はトランシルヴァニアに対するハプスブルクの支配を確定し、テメシュヴァールのバナトは1716年までオスマン領にとどまった。"
+   }
+  },
+  {
+   "year": 1700,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Union with Rome: the Romanian Greek-Catholic Church",
+    "ko": "로마와의 합동: 루마니아 그리스 가톨릭 교회",
+    "zh": "与罗马合一：罗马尼亚希腊礼天主教会",
+    "ja": "ローマとの合同：ルーマニア・ギリシャ典礼カトリック教会"
+   },
+   "description": {
+    "en": "Between 1697 and 1700, under Habsburg encouragement, part of the Orthodox clergy of Transylvania led by Metropolitan Atanasie Anghel accepted union with the Church of Rome while keeping the Byzantine rite. The new Greek-Catholic Church promised Romanians equal status with the recognized churches; it split Transylvanian Romanians religiously but its schools in Blaj and links to Rome nurtured the Romanian national awakening.",
+    "ko": "1697~1700년 합스부르크의 장려 아래 수도대주교 아타나시에 앙겔이 이끄는 트란실바니아 정교회 성직자 일부가 비잔티움 전례를 유지한 채 로마 교회와의 합동을 받아들였다. 새로 생긴 그리스 가톨릭 교회는 루마니아인에게 공인 교회와 동등한 지위를 약속했으며, 트란실바니아 루마니아인을 종교적으로 갈라놓았지만 블라지의 학교들과 로마와의 연계를 통해 루마니아 민족 각성을 키웠다.",
+    "zh": "1697至1700年间，在哈布斯堡的鼓励下，以都主教阿塔纳西耶·安盖尔为首的特兰西瓦尼亚部分东正教神职人员在保留拜占庭礼仪的同时接受与罗马教会合一。新成立的希腊礼天主教会许诺罗马尼亚人享有与公认教会同等的地位；它虽造成特兰西瓦尼亚罗马尼亚人的宗教分裂，但其布拉日学校及与罗马的联系孕育了罗马尼亚民族觉醒。",
+    "ja": "1697〜1700年、ハプスブルクの奨励のもと、府主教アタナシエ・アンゲル率いるトランシルヴァニア正教会の聖職者の一部が、ビザンツ典礼を保ったままローマ教会との合同を受け入れた。新たなギリシャ典礼カトリック教会はルーマニア人に公認教会と同等の地位を約束した。トランシルヴァニアのルーマニア人を宗教的に分断したが、ブラジの学校とローマとの結びつきを通じてルーマニア民族の覚醒を育んだ。"
+   }
+  },
+  {
+   "year": 1711,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Cantemir's alliance with Peter the Great and the Pruth campaign",
+    "ko": "칸테미르와 표트르 대제의 동맹, 프루트 원정",
+    "zh": "坎泰米尔与彼得大帝结盟及普鲁特战役",
+    "ja": "カンテミールとピョートル大帝の同盟とプルート戦役"
+   },
+   "description": {
+    "en": "In 1711 Prince Dimitrie Cantemir of Moldavia allied with Tsar Peter the Great against the Ottomans, but the Russian-Moldavian army was surrounded near Stănilești on the Prut and forced to make peace. Cantemir fled to Russia, where he wrote the 'Descriptio Moldaviae' and a celebrated history of the Ottoman Empire; the Porte then entrusted Moldavia to Phanariote Greek princes.",
+    "ko": "1711년 몰다비아의 디미트리에 칸테미르 공은 표트르 대제와 동맹을 맺고 오스만에 맞섰으나, 러시아·몰다비아 연합군은 프루트강 유역 스터닐레슈티 부근에서 포위되어 강화를 맺어야 했다. 칸테미르는 러시아로 망명해 『몰다비아지(데스크립티오 몰다비아이)』와 유명한 오스만 제국사를 저술했고, 오스만 정부는 이후 몰다비아를 파나리오테스 그리스계 군주들에게 맡겼다.",
+    "zh": "1711年，摩尔达维亚大公迪米特里·坎泰米尔与沙皇彼得大帝结盟对抗奥斯曼，但俄摩联军在普鲁特河畔的斯特尼莱什蒂附近被围，被迫议和。坎泰米尔流亡俄国，在那里写下《摩尔达维亚志》和一部著名的奥斯曼帝国史；奥斯曼朝廷此后将摩尔达维亚交由法纳尔希腊籍大公统治。",
+    "ja": "1711年、モルダヴィア公ディミトリエ・カンテミールはピョートル大帝と同盟してオスマンに対抗したが、ロシア・モルダヴィア連合軍はプルート河畔のスタニレシュティ付近で包囲され講和を強いられた。カンテミールはロシアに亡命して『モルダヴィア誌』と名高いオスマン帝国史を著し、オスマン政府はその後モルダヴィアをファナリオティスのギリシア系君主に委ねた。"
+   }
+  },
+  {
+   "year": 1714,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Execution of Constantin Brâncoveanu",
+    "ko": "콘스탄틴 브런코베아누의 처형",
+    "zh": "康斯坦丁·布伦科维亚努被处决",
+    "ja": "コンスタンティン・ブルンコヴェアヌの処刑"
+   },
+   "description": {
+    "en": "Suspected of secret dealings with Russia and the Habsburgs, Wallachian prince Constantin Brâncoveanu was deposed in 1714 and beheaded in Istanbul together with his four sons and his treasurer after refusing to renounce Christianity, according to tradition. He was canonized by the Romanian Orthodox Church in 1992, and from 1716 Wallachia too was ruled by Phanariote princes.",
+    "ko": "러시아·합스부르크와 비밀리에 내통한다는 의심을 받은 왈라키아의 콘스탄틴 브런코베아누 공은 1714년 폐위되어 네 아들, 재무관과 함께 이스탄불에서 참수되었다. 전승에 따르면 그는 기독교 신앙을 버리기를 거부했다고 한다. 그는 1992년 루마니아 정교회에 의해 시성되었고, 1716년부터는 왈라키아도 파나리오테스 군주의 통치를 받았다.",
+    "zh": "瓦拉几亚大公康斯坦丁·布伦科维亚努被怀疑与俄国和哈布斯堡暗中往来，于1714年被废黜，与四个儿子及其司库一同在伊斯坦布尔被斩首；据传统说法，他拒绝放弃基督教信仰。1992年罗马尼亚东正教会将他封圣；自1716年起瓦拉几亚也由法纳尔大公统治。",
+    "ja": "ロシアやハプスブルクとの密通を疑われたワラキア公コンスタンティン・ブルンコヴェアヌは1714年に廃位され、4人の息子と財務官とともにイスタンブールで斬首された。伝承によれば、彼はキリスト教の放棄を拒んだという。1992年にルーマニア正教会により列聖され、1716年からはワラキアもファナリオティスの君主に統治された。"
+   }
+  },
+  {
+   "year": 1716,
+   "qid": "Q31180913",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Eugene of Savoy takes Timișoara",
+    "ko": "외젠 공의 티미쇼아라 점령",
+    "zh": "欧根亲王攻占蒂米什瓦拉",
+    "ja": "オイゲン公のティミショアラ占領"
+   },
+   "description": {
+    "en": "In October 1716 Prince Eugene of Savoy captured Temesvár (Timișoara) after a siege, ending 164 years of Ottoman rule in the Banat. By the Treaty of Passarowitz (1718) the Habsburgs gained the Banat and Oltenia; the Banat was resettled with German, Serbian and other colonists, while Oltenia returned to Wallachia in 1739.",
+    "ko": "1716년 10월 사부아의 외젠 공은 포위 끝에 테메슈바르(티미쇼아라)를 점령해 바나트에서 164년간 이어진 오스만 지배를 끝냈다. 1718년 파사로비츠 조약으로 합스부르크는 바나트와 올테니아를 얻었으며, 바나트에는 독일인·세르비아인 등이 대거 이주했고, 올테니아는 1739년 왈라키아에 반환되었다.",
+    "zh": "1716年10月，萨伏依的欧根亲王经围攻占领泰梅什堡（蒂米什瓦拉），结束了奥斯曼在巴纳特长达164年的统治。根据1718年的帕萨罗维茨条约，哈布斯堡获得巴纳特和奥尔特尼亚；巴纳特随后迁入大批德意志人、塞尔维亚人等移民，奥尔特尼亚则于1739年归还瓦拉几亚。",
+    "ja": "1716年10月、サヴォイア公オイゲンは包囲の末テメシュヴァール（ティミショアラ）を占領し、バナトにおける164年間のオスマン支配を終わらせた。1718年のパッサロヴィッツ条約でハプスブルクはバナトとオルテニアを得た。バナトにはドイツ人やセルビア人などが大量に入植し、オルテニアは1739年にワラキアへ返還された。"
+   }
+  },
+  {
+   "year": 1738,
+   "qid": "Q18149027",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "1738 Vrancea earthquake",
+    "ko": "1738년 브란체아 지진",
+    "zh": "1738年弗朗恰地震",
+    "ja": "1738年ヴランチャ地震"
+   },
+   "description": {
+    "en": "In June 1738 a strong earthquake originating in the Vrancea zone of the Carpathian bend shook Wallachia and Moldavia, damaging churches and buildings in Bucharest and other towns. The Vrancea seismic zone, with its unusually deep earthquakes, has struck the region repeatedly throughout its history.",
+    "ko": "1738년 6월 카르파티아 굴곡부의 브란체아 지역에서 발생한 강진이 왈라키아와 몰다비아를 뒤흔들어 부쿠레슈티 등지의 교회와 건물에 피해를 입혔다. 이례적으로 깊은 진원을 지닌 브란체아 지진대는 역사 내내 이 지역을 거듭 강타해 왔다.",
+    "zh": "1738年6月，源自喀尔巴阡山弯曲部弗朗恰地区的强烈地震撼动瓦拉几亚和摩尔达维亚，布加勒斯特等城镇的教堂和建筑受损。震源异常深的弗朗恰地震带在历史上屡次袭击这一地区。",
+    "ja": "1738年6月、カルパティア山脈の屈曲部ヴランチャ地域を震源とする強い地震がワラキアとモルダヴィアを揺るがし、ブカレストなどの教会や建物に被害を与えた。異例に深い震源を持つヴランチャ地震帯は、歴史を通じて繰り返しこの地域を襲ってきた。"
+   }
+  },
+  {
+   "year": 1746,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Constantine Mavrocordatos abolishes serfdom",
+    "ko": "콘스탄티노스 마브로코르다토스의 농노제 폐지",
+    "zh": "康斯坦丁·马夫罗科扎托斯废除农奴制",
+    "ja": "コンスタンティノス・マヴロコルダトスの農奴制廃止"
+   },
+   "description": {
+    "en": "Phanariote prince Constantine Mavrocordatos, who ruled Wallachia and Moldavia several times, abolished personal serfdom in Wallachia in 1746 and in Moldavia in 1749. Peasants could now buy their freedom, though they remained bound by labour and rent obligations to landowners; he also reformed taxation and administration along Enlightenment lines.",
+    "ko": "왈라키아와 몰다비아를 여러 차례 다스린 파나리오테스 군주 콘스탄티노스 마브로코르다토스는 1746년 왈라키아에서, 1749년 몰다비아에서 인신적 농노제를 폐지했다. 농민은 몸값을 내고 자유를 얻을 수 있게 되었으나 지주에 대한 노동·지대 의무는 여전히 남았다. 그는 계몽사상에 따라 조세와 행정도 개혁했다.",
+    "zh": "多次统治瓦拉几亚和摩尔达维亚的法纳尔大公康斯坦丁·马夫罗科扎托斯，于1746年在瓦拉几亚、1749年在摩尔达维亚废除人身农奴制。农民从此可以赎身获得自由，但对地主的劳役和地租义务依旧存在；他还按照启蒙思想改革了税制和行政。",
+    "ja": "ワラキアとモルダヴィアを何度も統治したファナリオティスの君主コンスタンティノス・マヴロコルダトスは、1746年にワラキアで、1749年にモルダヴィアで人身的な農奴制を廃止した。農民は身代金を払って自由を得られるようになったが、地主への労働・地代の義務は残った。彼は啓蒙思想に沿って税制と行政も改革した。"
+   }
+  },
+  {
+   "year": 1775,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Habsburgs annex Bukovina",
+    "ko": "합스부르크의 부코비나 병합",
+    "zh": "哈布斯堡吞并布科维纳",
+    "ja": "ハプスブルクのブコヴィナ併合"
+   },
+   "description": {
+    "en": "Following the Russo-Turkish War of 1768–1774, the Habsburgs occupied the north-western part of Moldavia in 1774 and had it formally ceded by the Ottomans in 1775. Named Bukovina, the region — including the old Moldavian capital Suceava and Putna Monastery — remained Austrian until 1918.",
+    "ko": "1768~1774년 러시아-튀르크 전쟁 이후 합스부르크는 1774년 몰다비아 북서부를 점령하고 1775년 오스만으로부터 정식으로 할양받았다. 부코비나라 불린 이 지역은 옛 몰다비아 수도 수체아바와 푸트나 수도원을 포함하며 1918년까지 오스트리아령으로 남았다.",
+    "zh": "1768至1774年俄土战争后，哈布斯堡于1774年占领摩尔达维亚西北部，并于1775年由奥斯曼正式割让。这一被称为布科维纳的地区包括摩尔达维亚旧都苏恰瓦和普特纳修道院，直至1918年一直归属奥地利。",
+    "ja": "1768〜1774年の露土戦争の後、ハプスブルクは1774年にモルダヴィア北西部を占領し、1775年にオスマンから正式に割譲させた。ブコヴィナと呼ばれたこの地域は、旧モルダヴィアの都スチャヴァやプトナ修道院を含み、1918年までオーストリア領であった。"
+   }
+  },
+  {
+   "year": 1784,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Revolt of Horea, Cloșca and Crișan",
+    "ko": "호레아·클로슈카·크리샨의 봉기",
+    "zh": "霍雷亚、克洛什卡和克里尚起义",
+    "ja": "ホレア・クロシュカ・クリシャンの反乱"
+   },
+   "description": {
+    "en": "In November 1784 Romanian serfs in the Apuseni Mountains of Transylvania rose against feudal oppression under Horea, Cloșca and Crișan, attacking manors across the region. The uprising was crushed; Horea and Cloșca were broken on the wheel at Alba Iulia in 1785, but Emperor Joseph II abolished personal serfdom in Transylvania later that year.",
+    "ko": "1784년 11월 트란실바니아 아푸세니 산지의 루마니아인 농노들이 호레아·클로슈카·크리샨의 지도 아래 봉건적 억압에 맞서 봉기해 각지의 영주 저택을 공격했다. 봉기는 진압되었고 호레아와 클로슈카는 1785년 알바이울리아에서 차륜형에 처해졌으나, 같은 해 요제프 2세 황제는 트란실바니아의 인신적 농노제를 폐지했다.",
+    "zh": "1784年11月，特兰西瓦尼亚阿普塞尼山区的罗马尼亚农奴在霍雷亚、克洛什卡和克里尚领导下反抗封建压迫，袭击各地庄园。起义遭到镇压，霍雷亚和克洛什卡于1785年在阿尔巴尤利亚被处以轮刑，但约瑟夫二世皇帝同年晚些时候废除了特兰西瓦尼亚的人身农奴制。",
+    "ja": "1784年11月、トランシルヴァニアのアプセニ山地のルーマニア人農奴がホレア、クロシュカ、クリシャンの指導のもと封建的抑圧に抗して蜂起し、各地の領主館を襲った。反乱は鎮圧され、ホレアとクロシュカは1785年にアルバ・ユリアで車裂きの刑に処されたが、同年のうちに皇帝ヨーゼフ2世はトランシルヴァニアの人身的農奴制を廃止した。"
+   }
+  },
+  {
+   "year": 1789,
+   "qid": "Q2234632",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battles of Focșani and Rymnik",
+    "ko": "포크샤니·림니크 전투",
+    "zh": "福克沙尼与雷姆尼克战役",
+    "ja": "フォクシャニとリムニクの戦い"
+   },
+   "description": {
+    "en": "During the Russo-Turkish War of 1787–1792, Russian forces under Alexander Suvorov and Austrian troops under Prince Josias of Coburg defeated the Ottomans at Focșani (August 1789) and on the Râmnic river near Râmnicu Sărat (September 1789). The Romanian principalities were repeatedly a battleground and occupied territory in the wars between Russia, Austria and the Ottoman Empire.",
+    "ko": "1787~1792년 러시아-튀르크 전쟁 중 알렉산드르 수보로프가 이끄는 러시아군과 코부르크 공 요지아스의 오스트리아군은 포크샤니(1789년 8월)와 림니크 강변 림니쿠사라트 부근(1789년 9월)에서 오스만군을 격파했다. 루마니아 공국들은 러시아·오스트리아·오스만 간 전쟁에서 거듭 전장이 되고 점령당했다.",
+    "zh": "1787至1792年俄土战争期间，苏沃洛夫率领的俄军和科堡亲王约西亚斯率领的奥军先后在福克沙尼（1789年8月）和勒姆尼库萨拉特附近的勒姆尼克河畔（1789年9月）击败奥斯曼军。罗马尼亚各公国在俄、奥、奥斯曼之间的战争中屡次沦为战场和被占领地。",
+    "ja": "1787〜1792年の露土戦争中、スヴォーロフ率いるロシア軍とコーブルク公ヨシアス率いるオーストリア軍は、フォクシャニ（1789年8月）とルムニク川沿いのルムニク・サラト近郊（1789年9月）でオスマン軍を破った。ルーマニア諸公国はロシア、オーストリア、オスマン間の戦争で繰り返し戦場となり、占領された。"
+   }
+  },
+  {
+   "year": 1791,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Supplex Libellus Valachorum",
+    "ko": "수플렉스 리벨루스 발라코룸",
+    "zh": "《瓦拉几人请愿书》",
+    "ja": "スプレクス・リベルス・ヴァラコルム"
+   },
+   "description": {
+    "en": "In 1791 Romanian clergy and intellectuals of the Transylvanian School submitted the 'Supplex Libellus Valachorum' to Emperor Leopold II, demanding that Romanians be recognized as a fourth political nation of Transylvania with rights equal to Hungarians, Székelys and Saxons. Rejected by the Transylvanian Diet, it was nonetheless a founding text of modern Romanian national politics, based on arguments of Roman descent and numerical majority.",
+    "ko": "1791년 트란실바니아 학파의 루마니아인 성직자와 지식인들은 레오폴트 2세 황제에게 『수플렉스 리벨루스 발라코룸(루마니아인의 청원서)』을 제출해, 루마니아인을 헝가리인·세케이인·작센인과 동등한 권리를 지닌 트란실바니아의 네 번째 정치 민족으로 인정해 달라고 요구했다. 트란실바니아 의회는 이를 거부했지만, 로마인 혈통과 인구상 다수라는 논거에 기반한 이 문서는 근대 루마니아 민족 정치의 출발점이 되었다.",
+    "zh": "1791年，特兰西瓦尼亚学派的罗马尼亚神职人员和知识分子向利奥波德二世皇帝递交《瓦拉几人请愿书》，要求承认罗马尼亚人为特兰西瓦尼亚的第四个政治民族，享有与匈牙利人、塞凯伊人和萨克森人同等的权利。请愿虽遭特兰西瓦尼亚议会拒绝，但这份以罗马血统和人口多数为论据的文件成为现代罗马尼亚民族政治的奠基文献。",
+    "ja": "1791年、トランシルヴァニア学派のルーマニア人聖職者と知識人は皇帝レオポルト2世に『スプレクス・リベルス・ヴァラコルム（ルーマニア人の請願書）』を提出し、ルーマニア人をハンガリー人、セーケイ人、ザクセン人と同等の権利を持つトランシルヴァニア第四の政治的民族として認めるよう求めた。トランシルヴァニア議会はこれを退けたが、ローマ人の血統と人口上の多数を論拠とするこの文書は、近代ルーマニア民族政治の出発点となった。"
+   }
+  },
+  {
+   "year": 1812,
+   "qid": "Q4896386",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Bucharest: Russia annexes Bessarabia",
+    "ko": "부쿠레슈티 조약: 러시아의 베사라비아 병합",
+    "zh": "布加勒斯特条约：俄国吞并比萨拉比亚",
+    "ja": "ブカレスト条約：ロシアのベッサラビア併合"
+   },
+   "description": {
+    "en": "The Treaty of Bucharest, ending the Russo-Turkish War of 1806–1812, gave Russia the eastern half of Moldavia between the Prut and the Dniester, which became known as Bessarabia. The loss divided the Moldavian lands and created the 'Bessarabian question' that shaped Romanian-Russian relations for the next two centuries.",
+    "ko": "1806~1812년 러시아-튀르크 전쟁을 끝낸 부쿠레슈티 조약으로 러시아는 프루트강과 드네스트르강 사이 몰다비아의 동쪽 절반을 얻었고, 이 지역은 베사라비아로 불리게 되었다. 이 상실은 몰다비아 땅을 갈라놓았고, 이후 2세기 동안 루마니아-러시아 관계를 규정한 '베사라비아 문제'를 낳았다.",
+    "zh": "结束1806至1812年俄土战争的布加勒斯特条约，将普鲁特河与德涅斯特河之间的摩尔达维亚东半部割让给俄国，该地区后称比萨拉比亚。这一丧失使摩尔达维亚领土分裂，并产生了此后两个世纪影响罗俄关系的\"比萨拉比亚问题\"。",
+    "ja": "1806〜1812年の露土戦争を終わらせたブカレスト条約により、ロシアはプルート川とドニエストル川の間のモルダヴィア東半分を獲得し、この地域はベッサラビアと呼ばれるようになった。この喪失はモルダヴィアの地を分断し、以後2世紀にわたりルーマニアとロシアの関係を規定する「ベッサラビア問題」を生んだ。"
+   }
+  },
+  {
+   "year": 1821,
+   "qid": "Q2888462",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Tudor Vladimirescu's uprising",
+    "ko": "투도르 블라디미레스쿠의 봉기",
+    "zh": "图多尔·弗拉迪米雷斯库起义",
+    "ja": "トゥドル・ヴラディミレスクの蜂起"
+   },
+   "description": {
+    "en": "In 1821 Tudor Vladimirescu led a popular uprising in Wallachia against Phanariote abuses, initially in coordination with the Greek revolutionary society Filiki Eteria. He was executed by the Eterists, who were then crushed by the Ottomans at Drăgășani in June 1821; afterwards the Porte restored native Romanian princes, ending the Phanariote era.",
+    "ko": "1821년 투도르 블라디미레스쿠는 처음에는 그리스 혁명 결사 필리키 에테리아와 연계해 왈라키아에서 파나리오테스 체제의 폐해에 맞선 민중 봉기를 이끌었다. 그는 에테리아 세력에게 처형되었고, 에테리아군은 1821년 6월 드러거샤니에서 오스만군에 궤멸되었다. 이후 오스만 정부는 현지 루마니아인 군주를 복원해 파나리오테스 시대가 끝났다.",
+    "zh": "1821年，图多尔·弗拉迪米雷斯库在瓦拉几亚领导反对法纳尔统治弊政的民众起义，起初与希腊革命团体\"友谊社\"协同行动。他后被友谊社处决，而友谊社武装于1821年6月在德勒格沙尼被奥斯曼军击溃；此后奥斯曼朝廷恢复由本土罗马尼亚人担任大公，法纳尔时代宣告结束。",
+    "ja": "1821年、トゥドル・ヴラディミレスクは当初ギリシアの革命結社フィリキ・エテリアと連携しつつ、ワラキアでファナリオティス体制の弊害に抗する民衆蜂起を率いた。彼はエテリア側に処刑され、エテリア軍は1821年6月にドラガシャニでオスマン軍に壊滅させられた。その後オスマン政府は在地ルーマニア人の君主を復活させ、ファナリオティス時代は終わった。"
+   }
+  },
+  {
+   "year": 1831,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The Organic Regulations",
+    "ko": "조직 규정(레굴라멘툴 오르가니크)",
+    "zh": "《组织规程》",
+    "ja": "組織規程（レグラメントゥル・オルガニク）"
+   },
+   "description": {
+    "en": "After the Treaty of Adrianople (1829), Wallachia and Moldavia came under a Russian protectorate while remaining under Ottoman suzerainty. The Organic Regulations, introduced in 1831–1832 under Russian governor Pavel Kiselyov, gave the principalities their first quasi-constitutions, with assemblies, modern administration and parallel institutions that prepared their later union.",
+    "ko": "1829년 아드리아노플 조약 이후 왈라키아와 몰다비아는 오스만의 종주권 아래 있으면서 러시아의 보호령이 되었다. 러시아 총독 파벨 키셀료프 시기인 1831~1832년에 도입된 '조직 규정'은 두 공국에 최초의 준헌법을 부여해 의회와 근대적 행정, 그리고 훗날의 통합을 준비하는 병렬적 제도를 마련했다.",
+    "zh": "1829年阿德里安堡条约后，瓦拉几亚和摩尔达维亚在保持奥斯曼宗主权的同时成为俄国的保护国。1831至1832年在俄国总督帕维尔·基谢廖夫主持下实施的《组织规程》为两公国提供了最早的准宪法，设立议会和近代行政机构，其相互平行的制度为日后的统一做了准备。",
+    "ja": "1829年のアドリアノープル条約後、ワラキアとモルダヴィアはオスマンの宗主権下にとどまりつつロシアの保護国となった。ロシアの総督パーヴェル・キセリョフのもと1831〜1832年に導入された「組織規程」は両公国に初の準憲法を与え、議会と近代的行政、そして後の統合を準備する並行的な制度を整えた。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "The Revolutions of 1848",
+    "ko": "1848년 혁명",
+    "zh": "1848年革命",
+    "ja": "1848年革命"
+   },
+   "description": {
+    "en": "In 1848 revolutionary movements swept all three Romanian lands: in Moldavia a petition movement was quickly suppressed; in Wallachia the Islaz Proclamation in June led to a liberal provisional government that was crushed by Ottoman and Russian troops in September. In Transylvania, a great assembly at Blaj in May demanded national rights for Romanians, and the region descended into bitter conflict between Hungarian revolutionaries and Romanian forces under Avram Iancu.",
+    "ko": "1848년 혁명 운동이 세 루마니아 땅을 모두 휩쓸었다. 몰다비아의 청원 운동은 곧 진압되었고, 왈라키아에서는 6월 이슬라즈 선언으로 자유주의 임시정부가 세워졌으나 9월 오스만군과 러시아군에 진압되었다. 트란실바니아에서는 5월 블라지 대집회가 루마니아인의 민족적 권리를 요구했으며, 이 지역은 헝가리 혁명군과 아브람 이앙쿠가 이끄는 루마니아인 세력 사이의 처절한 충돌에 빠져들었다.",
+    "zh": "1848年，革命运动席卷三个罗马尼亚地区：摩尔达维亚的请愿运动很快被镇压；瓦拉几亚6月的伊斯拉兹宣言催生了自由派临时政府，9月被奥斯曼和俄国军队镇压。在特兰西瓦尼亚，5月的布拉日大会要求罗马尼亚人的民族权利，该地区随后陷入匈牙利革命者与阿夫拉姆·扬库领导的罗马尼亚武装之间的惨烈冲突。",
+    "ja": "1848年、革命運動は三つのルーマニアの地をすべて席巻した。モルダヴィアの請願運動はすぐに鎮圧され、ワラキアでは6月のイスラズ宣言により自由主義の臨時政府が成立したが、9月にオスマン軍とロシア軍に鎮圧された。トランシルヴァニアでは5月のブラジ大集会がルーマニア人の民族的権利を要求し、地域はハンガリー革命派とアヴラム・ヤンク率いるルーマニア人勢力との激しい衝突に陥った。"
+   }
+  },
+  {
+   "year": 1849,
+   "qid": "Q258069",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "End of the Hungarian revolution in Transylvania",
+    "ko": "트란실바니아에서의 헝가리 혁명 종결",
+    "zh": "匈牙利革命在特兰西瓦尼亚的终结",
+    "ja": "トランシルヴァニアにおけるハンガリー革命の終結"
+   },
+   "description": {
+    "en": "In 1849 Polish general Józef Bem led the Hungarian revolutionary army to control most of Transylvania, but Russian troops intervened to help the Habsburgs. At Segesvár (Sighișoara) in July 1849 Bem was defeated by the Russians and the poet Sándor Petőfi was killed; the revolution collapsed in August, after a civil war that had cost thousands of Romanian and Hungarian civilian lives.",
+    "ko": "1849년 폴란드 출신 장군 유제프 벰은 헝가리 혁명군을 이끌고 트란실바니아 대부분을 장악했으나, 러시아군이 합스부르크를 돕기 위해 개입했다. 1849년 7월 셰게슈바르(시기쇼아라)에서 벰은 러시아군에 패했고 시인 페퇴피 샨도르가 전사했다. 혁명은 8월 붕괴했으며, 그 사이의 내전으로 루마니아인과 헝가리인 민간인 수천 명이 목숨을 잃었다.",
+    "zh": "1849年，波兰籍将军约瑟夫·贝姆率领匈牙利革命军控制了特兰西瓦尼亚大部分地区，但俄军介入援助哈布斯堡。1849年7月在塞格什堡（锡吉什瓦拉），贝姆被俄军击败，诗人裴多菲·山多尔阵亡；革命于8月失败，其间的内战造成数千名罗马尼亚和匈牙利平民丧生。",
+    "ja": "1849年、ポーランド出身の将軍ユゼフ・ベムはハンガリー革命軍を率いてトランシルヴァニアの大半を制したが、ロシア軍がハプスブルクを助けて介入した。1849年7月、シェゲシュヴァール（シギショアラ）でベムはロシア軍に敗れ、詩人ペテーフィ・シャーンドルが戦死した。革命は8月に崩壊し、それまでの内戦で数千人のルーマニア人・ハンガリー人の民間人が命を落とした。"
+   }
+  },
+  {
+   "year": 1853,
+   "qid": "Q601152",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Crimean War opens on the Danube",
+    "ko": "도나우강에서 시작된 크림 전쟁",
+    "zh": "克里米亚战争在多瑙河爆发",
+    "ja": "ドナウ川で始まったクリミア戦争"
+   },
+   "description": {
+    "en": "In 1853 Russia occupied Wallachia and Moldavia, and the Ottomans responded by crossing the Danube; in November they defeated a Russian attack at Oltenița, one of the first battles of the Crimean War. Russia withdrew in 1854 and Austria occupied the principalities, and the Treaty of Paris (1856) ended the Russian protectorate and returned southern Bessarabia to Moldavia.",
+    "ko": "1853년 러시아가 왈라키아와 몰다비아를 점령하자 오스만은 도나우강을 건너 대응했고, 11월 올테니차에서 러시아군의 공격을 물리쳤다. 이는 크림 전쟁 초기 전투 중 하나였다. 러시아는 1854년 철수하고 오스트리아가 두 공국을 점령했으며, 1856년 파리 조약은 러시아의 보호권을 끝내고 남부 베사라비아를 몰다비아에 돌려주었다.",
+    "zh": "1853年俄国占领瓦拉几亚和摩尔达维亚，奥斯曼随即渡过多瑙河反击，11月在奥尔泰尼察击退俄军进攻，这是克里米亚战争最早的战斗之一。1854年俄国撤军，奥地利占领两公国；1856年的巴黎条约结束了俄国的保护权，并将南比萨拉比亚归还摩尔达维亚。",
+    "ja": "1853年にロシアがワラキアとモルダヴィアを占領すると、オスマンはドナウ川を渡って応戦し、11月にオルテニツァでロシア軍の攻撃を退けた。これはクリミア戦争の最初期の戦いの一つである。ロシアは1854年に撤退してオーストリアが両公国を占領し、1856年のパリ条約はロシアの保護権を終わらせ、南ベッサラビアをモルダヴィアに返還した。"
+   }
+  },
+  {
+   "year": 1859,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Union of the Principalities under Cuza",
+    "ko": "쿠자 치하의 공국 통합",
+    "zh": "库扎治下的两公国联合",
+    "ja": "クザのもとでの両公国の連合"
+   },
+   "description": {
+    "en": "In January 1859 the assemblies of Moldavia and Wallachia both elected Alexandru Ioan Cuza as prince, exploiting a loophole in the 1858 Paris Convention that had not forbidden a common ruler. The double election created the United Principalities; with international recognition, the two governments were merged in 1862 under the name Romania, with Bucharest as capital.",
+    "ko": "1859년 1월 몰다비아와 왈라키아의 의회는 1858년 파리 협약이 공동 군주를 금지하지 않았다는 허점을 이용해 모두 알렉산드루 이오안 쿠자를 군주로 선출했다. 이 이중 선거로 연합 공국이 탄생했고, 국제적 승인을 거쳐 1862년 두 정부가 루마니아라는 이름 아래 통합되어 부쿠레슈티가 수도가 되었다.",
+    "zh": "1859年1月，摩尔达维亚和瓦拉几亚议会利用1858年巴黎协定未禁止共同君主的漏洞，先后选举亚历山德鲁·伊万·库扎为大公。这次\"双重选举\"创立了联合公国；经国际承认后，两个政府于1862年以\"罗马尼亚\"之名合并，定都布加勒斯特。",
+    "ja": "1859年1月、モルダヴィアとワラキアの議会は、1858年のパリ協約が共通の君主を禁じていない抜け穴を利用して、ともにアレクサンドル・ヨアン・クザを公に選出した。この二重選挙により連合公国が誕生し、国際的承認を経て1862年に両政府はルーマニアの名のもとに統合され、ブカレストが首都となった。"
+   }
+  },
+  {
+   "year": 1864,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Cuza's land reform",
+    "ko": "쿠자의 토지 개혁",
+    "zh": "库扎的土地改革",
+    "ja": "クザの土地改革"
+   },
+   "description": {
+    "en": "Prince Cuza and his minister Mihail Kogălniceanu secularized the vast estates of the monasteries in 1863 and in 1864 enacted a land reform that abolished labour dues and gave peasants ownership of plots. They also introduced compulsory free primary education and a civil code, but Cuza's authoritarian methods alienated the elites.",
+    "ko": "쿠자 공과 그의 재상 미하일 코걸니체아누는 1863년 수도원의 방대한 영지를 국유화(세속화)하고, 1864년 부역을 폐지하고 농민에게 토지 소유권을 주는 토지 개혁을 단행했다. 또한 무상 의무 초등교육과 민법전을 도입했지만, 쿠자의 권위주의적 방식은 엘리트층의 반발을 샀다.",
+    "zh": "库扎大公和他的大臣米哈伊尔·科格尔尼恰努于1863年将修道院的大片地产收归国有，1864年又实行土地改革，废除劳役并赋予农民土地所有权。他们还推行免费义务初等教育和民法典，但库扎的威权作风疏远了精英阶层。",
+    "ja": "クザ公と首相ミハイル・コガルニチャヌは1863年に修道院の広大な所領を国有化（世俗化）し、1864年には賦役を廃止して農民に土地の所有権を与える土地改革を断行した。また無償の義務初等教育と民法典を導入したが、クザの権威主義的な手法はエリート層の反発を招いた。"
+   }
+  },
+  {
+   "year": 1866,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Carol I and the 1866 Constitution",
+    "ko": "카롤 1세와 1866년 헌법",
+    "zh": "卡罗尔一世与1866年宪法",
+    "ja": "カロル1世と1866年憲法"
+   },
+   "description": {
+    "en": "In February 1866 a coalition of conservatives and liberals forced Cuza to abdicate, and Prince Karl of Hohenzollern-Sigmaringen was chosen as ruler, taking the name Carol I. A liberal constitution modelled on Belgium's was adopted the same year; Carol's 48-year reign brought railways, a modern army and institutional stability.",
+    "ko": "1866년 2월 보수파와 자유파의 연합은 쿠자를 퇴위시키고 호엔촐레른-지그마링겐 가문의 카를 공을 군주로 선택했는데, 그는 카롤 1세라는 이름을 썼다. 같은 해 벨기에 헌법을 본뜬 자유주의 헌법이 채택되었으며, 카롤의 48년 치세 동안 철도와 근대 군대, 제도적 안정이 이루어졌다.",
+    "zh": "1866年2月，保守派与自由派联盟迫使库扎退位，选立霍亨索伦-西格马林根家族的卡尔亲王为君主，称卡罗尔一世。同年通过了以比利时宪法为蓝本的自由主义宪法；卡罗尔长达48年的统治带来了铁路、近代军队和制度稳定。",
+    "ja": "1866年2月、保守派と自由派の連合はクザを退位させ、ホーエンツォレルン＝ジグマリンゲン家のカール公を君主に選び、彼はカロル1世と名乗った。同年ベルギー憲法を範とする自由主義憲法が採択され、カロルの48年に及ぶ治世のもとで鉄道、近代的軍隊、制度的安定がもたらされた。"
+   }
+  },
+  {
+   "year": 1867,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Transylvania incorporated into Hungary",
+    "ko": "트란실바니아의 헝가리 편입",
+    "zh": "特兰西瓦尼亚并入匈牙利",
+    "ja": "トランシルヴァニアのハンガリー編入"
+   },
+   "description": {
+    "en": "The Austro-Hungarian Compromise of 1867 ended Transylvania's separate status and incorporated it, along with the Banat, Crișana and Maramureș, into the Kingdom of Hungary. Hungarian governments pursued Magyarization in schools and administration and a narrow franchise, which Romanian leaders in Transylvania contested for the next half-century.",
+    "ko": "1867년 오스트리아-헝가리 대타협으로 트란실바니아의 독자적 지위가 끝나고, 바나트·크리샤나·마라무레슈와 함께 헝가리 왕국에 편입되었다. 헝가리 정부는 학교와 행정에서 마자르화 정책과 제한 선거를 추진했고, 트란실바니아의 루마니아인 지도자들은 이후 반세기 동안 이에 맞섰다.",
+    "zh": "1867年的奥匈协议终结了特兰西瓦尼亚的独立地位，将其连同巴纳特、克里沙纳和马拉穆列什并入匈牙利王国。匈牙利政府在学校和行政中推行马扎尔化政策并实行狭窄的选举权，特兰西瓦尼亚的罗马尼亚领导人在此后半个世纪中对此进行抗争。",
+    "ja": "1867年のオーストリア＝ハンガリー妥協によりトランシルヴァニアの独自の地位は終わり、バナト、クリシャナ、マラムレシュとともにハンガリー王国に編入された。ハンガリー政府は学校と行政でマジャル化政策と制限選挙を進め、トランシルヴァニアのルーマニア人指導者たちはその後半世紀にわたってこれに抗した。"
+   }
+  },
+  {
+   "year": 1870,
+   "qid": "Q2037501",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The 'Republic of Ploiești'",
+    "ko": "'플로이에슈티 공화국'",
+    "zh": "\"普洛耶什蒂共和国\"",
+    "ja": "「プロイェシュティ共和国」"
+   },
+   "description": {
+    "en": "In August 1870 radical liberals in Ploiești proclaimed a republic and the deposition of Carol I, in a short-lived revolt quickly ended by the army without bloodshed. The episode, later mocked as the 'Republic of Ploiești', reflected the fragility of the young monarchy, but the participants were acquitted and Carol stayed on the throne.",
+    "ko": "1870년 8월 플로이에슈티의 급진 자유주의자들이 공화국 수립과 카롤 1세의 폐위를 선포했지만, 이 단명한 봉기는 군대에 의해 유혈 없이 곧 진압되었다. 훗날 '플로이에슈티 공화국'이라 조롱받은 이 사건은 신생 군주정의 취약함을 드러냈으나, 가담자들은 무죄 판결을 받았고 카롤은 왕위를 지켰다.",
+    "zh": "1870年8月，普洛耶什蒂的激进自由派宣布成立共和国并废黜卡罗尔一世，这场短暂的叛乱很快被军队不流血地平息。这一后来被讥为\"普洛耶什蒂共和国\"的事件反映出年轻君主制的脆弱，但参与者被判无罪，卡罗尔保住了王位。",
+    "ja": "1870年8月、プロイェシュティの急進的自由主義者が共和国の樹立とカロル1世の廃位を宣言したが、この短命の反乱は軍によって流血なく速やかに鎮められた。後に「プロイェシュティ共和国」と揶揄されたこの事件は若い君主制の脆さを示したが、参加者は無罪となり、カロルは王位を保った。"
+   }
+  },
+  {
+   "year": 1877,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Independence from the Ottoman Empire",
+    "ko": "오스만 제국으로부터의 독립",
+    "zh": "脱离奥斯曼帝国独立",
+    "ja": "オスマン帝国からの独立"
+   },
+   "description": {
+    "en": "On 9 May (21 May N.S.) 1877, as Russia went to war with the Ottomans, Romania proclaimed its full independence. Romanian troops fought alongside the Russians at the siege of Plevna and other battles in Bulgaria, and independence was recognized internationally by the Congress of Berlin in 1878.",
+    "ko": "1877년 5월 9일(신력 5월 21일), 러시아가 오스만과 전쟁을 벌이는 가운데 루마니아는 완전한 독립을 선포했다. 루마니아군은 플레벤 포위전 등 불가리아 땅의 전투에서 러시아군과 함께 싸웠고, 독립은 1878년 베를린 회의에서 국제적으로 승인되었다.",
+    "zh": "1877年5月9日（新历5月21日），在俄国对奥斯曼开战之际，罗马尼亚宣布完全独立。罗马尼亚军队与俄军并肩参加了普列文围城战等保加利亚境内的战斗，其独立于1878年柏林会议上获得国际承认。",
+    "ja": "1877年5月9日（新暦5月21日）、ロシアがオスマンと開戦する中、ルーマニアは完全独立を宣言した。ルーマニア軍はプレヴェン包囲戦などブルガリアでの戦いでロシア軍とともに戦い、独立は1878年のベルリン会議で国際的に承認された。"
+   }
+  },
+  {
+   "year": 1878,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Congress of Berlin: Northern Dobruja joins Romania",
+    "ko": "베를린 회의: 북부 도브로자의 루마니아 편입",
+    "zh": "柏林会议：北多布罗加并入罗马尼亚",
+    "ja": "ベルリン会議：北ドブロジャのルーマニア編入"
+   },
+   "description": {
+    "en": "The Congress of Berlin recognized Romanian independence but required Romania to cede southern Bessarabia to Russia, receiving Northern Dobruja and the Danube Delta in exchange. The acquisition gave Romania the port of Constanța and access to the Black Sea, while the forced loss of Bessarabian land deeply embittered Romanian opinion toward Russia.",
+    "ko": "베를린 회의는 루마니아의 독립을 승인했지만, 남부 베사라비아를 러시아에 넘기는 대신 북부 도브로자와 도나우 삼각주를 받도록 했다. 이로써 루마니아는 콘스탄차 항과 흑해 진출로를 얻었으나, 베사라비아 영토의 강제 상실은 러시아에 대한 루마니아 여론을 크게 악화시켰다.",
+    "zh": "柏林会议承认罗马尼亚独立，但要求其将南比萨拉比亚割让给俄国，以换取北多布罗加和多瑙河三角洲。罗马尼亚由此获得康斯坦察港和黑海出海口，而被迫失去比萨拉比亚领土则使罗马尼亚舆论对俄国深感愤懑。",
+    "ja": "ベルリン会議はルーマニアの独立を承認したが、南ベッサラビアをロシアに割譲する代わりに北ドブロジャとドナウ・デルタを受け取るよう求めた。これによりルーマニアはコンスタンツァ港と黒海への出口を得たが、ベッサラビアの領土の強制的な喪失はロシアに対するルーマニア世論を大いに悪化させた。"
+   }
+  },
+  {
+   "year": 1881,
+   "qid": "Q203493",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Proclamation of the Kingdom of Romania",
+    "ko": "루마니아 왕국 선포",
+    "zh": "罗马尼亚王国成立",
+    "ja": "ルーマニア王国の宣言"
+   },
+   "description": {
+    "en": "On 14 March (26 March N.S.) 1881 Romania was proclaimed a kingdom, and Carol I was crowned king in May with a steel crown cast from a captured Ottoman cannon from Plevna. The kingdom entered a period of economic development based on grain exports and, from the 1890s, oil around Ploiești.",
+    "ko": "1881년 3월 14일(신력 3월 26일) 루마니아는 왕국으로 선포되었고, 카롤 1세는 5월 플레벤에서 노획한 오스만 대포로 주조한 강철관을 쓰고 국왕으로 즉위했다. 왕국은 곡물 수출과 1890년대 이후 플로이에슈티 일대의 석유를 바탕으로 경제 발전기에 들어섰다.",
+    "zh": "1881年3月14日（新历3月26日），罗马尼亚宣布成为王国，卡罗尔一世于5月戴上用在普列文缴获的奥斯曼大炮铸成的钢冠加冕为王。王国此后依靠粮食出口以及1890年代起普洛耶什蒂一带的石油，进入经济发展时期。",
+    "ja": "1881年3月14日（新暦3月26日）、ルーマニアは王国を宣言し、カロル1世は5月、プレヴェンで鹵獲したオスマンの大砲から鋳造した鋼鉄の王冠を戴いて国王に即位した。王国は穀物輸出と1890年代以降のプロイェシュティ周辺の石油を基盤に経済発展期に入った。"
+   }
+  },
+  {
+   "year": 1892,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The Transylvanian Memorandum",
+    "ko": "트란실바니아 메모랜덤",
+    "zh": "特兰西瓦尼亚备忘录",
+    "ja": "トランシルヴァニア・メモランダム"
+   },
+   "description": {
+    "en": "In 1892 leaders of the Romanian National Party of Transylvania sent a Memorandum to Emperor Franz Joseph protesting Magyarization and demanding national rights. The emperor forwarded it unopened to Budapest; in 1894 its authors were tried at Cluj and sentenced to prison, a trial that drew wide sympathy in Romania and Europe.",
+    "ko": "1892년 트란실바니아 루마니아 국민당 지도자들은 프란츠 요제프 황제에게 마자르화에 항의하고 민족적 권리를 요구하는 메모랜덤을 보냈다. 황제는 이를 개봉하지 않은 채 부다페스트로 넘겼고, 1894년 작성자들은 클루지에서 재판을 받아 징역형을 선고받았다. 이 재판은 루마니아와 유럽에서 폭넓은 동정을 불러일으켰다.",
+    "zh": "1892年，特兰西瓦尼亚罗马尼亚民族党领导人向弗朗茨·约瑟夫皇帝递交备忘录，抗议马扎尔化并要求民族权利。皇帝将其原封不动转交布达佩斯；1894年，起草者在克卢日受审并被判入狱，这场审判在罗马尼亚和欧洲引起广泛同情。",
+    "ja": "1892年、トランシルヴァニアのルーマニア国民党の指導者たちは皇帝フランツ・ヨーゼフにメモランダムを送り、マジャル化に抗議し民族的権利を求めた。皇帝はこれを未開封のままブダペストに回送し、1894年に起草者たちはクルジュで裁判にかけられ禁錮刑を宣告された。この裁判はルーマニアとヨーロッパで広い同情を呼んだ。"
+   }
+  },
+  {
+   "year": 1895,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "King Carol I Bridge over the Danube",
+    "ko": "도나우강의 카롤 1세 다리",
+    "zh": "多瑙河上的卡罗尔一世大桥",
+    "ja": "ドナウ川のカロル1世橋"
+   },
+   "description": {
+    "en": "In 1895 the railway bridge over the Danube at Cernavodă, designed by engineer Anghel Saligny, was opened, linking Bucharest with the port of Constanța. At the time it was one of the longest bridges in Europe, and it made Constanța Romania's main gateway to the sea.",
+    "ko": "1895년 기술자 앙겔 살리그니가 설계한 체르나보다의 도나우강 철도교가 개통되어 부쿠레슈티와 콘스탄차 항을 연결했다. 당시 유럽에서 가장 긴 다리 중 하나였으며, 이로써 콘스탄차는 루마니아의 주요 해상 관문이 되었다.",
+    "zh": "1895年，由工程师安盖尔·萨利尼设计的切尔纳沃德多瑙河铁路桥建成通车，连接布加勒斯特与康斯坦察港。它是当时欧洲最长的桥梁之一，使康斯坦察成为罗马尼亚通往海洋的主要门户。",
+    "ja": "1895年、技師アンゲル・サリニが設計したチェルナヴォダのドナウ川鉄道橋が開通し、ブカレストとコンスタンツァ港を結んだ。当時ヨーロッパ有数の長大橋であり、これによりコンスタンツァはルーマニアの主要な海の玄関口となった。"
+   }
+  },
+  {
+   "year": 1907,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "The 1907 Peasants' Revolt",
+    "ko": "1907년 농민 봉기",
+    "zh": "1907年农民起义",
+    "ja": "1907年農民反乱"
+   },
+   "description": {
+    "en": "In spring 1907 a peasant uprising that began in northern Moldavia against exploitative leaseholders spread across the country. The government suppressed it with the army, killing thousands of peasants — estimates vary widely — and the revolt pushed the political class toward the land reforms carried out after the First World War.",
+    "ko": "1907년 봄 북부 몰다비아에서 착취적인 차지(借地) 경영자에 맞서 시작된 농민 봉기가 전국으로 번졌다. 정부는 군대를 동원해 진압하며 수천 명의 농민을 살해했는데(추정치는 크게 엇갈린다), 이 봉기는 정치권이 제1차 세계대전 후 토지 개혁에 나서게 하는 계기가 되었다.",
+    "zh": "1907年春，始于摩尔达维亚北部、针对剥削性租地经营者的农民起义蔓延全国。政府出动军队镇压，杀害数千名农民（各方估计差异很大），这场起义促使政界在第一次世界大战后推行土地改革。",
+    "ja": "1907年春、北部モルダヴィアで搾取的な借地経営者に抗して始まった農民反乱が全国に広がった。政府は軍隊を動員して鎮圧し、数千人の農民を殺害した（推計は大きく異なる）。この反乱は、政界が第一次世界大戦後に土地改革を行う契機となった。"
+   }
+  },
+  {
+   "year": 1913,
+   "qid": "Q500067",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Bucharest after the Second Balkan War",
+    "ko": "제2차 발칸 전쟁 후의 부쿠레슈티 조약",
+    "zh": "第二次巴尔干战争后的布加勒斯特条约",
+    "ja": "第二次バルカン戦争後のブカレスト条約"
+   },
+   "description": {
+    "en": "Romania entered the Second Balkan War against Bulgaria in 1913, advancing nearly unopposed toward Sofia. The Treaty of Bucharest, signed in August 1913, gave Romania Southern Dobruja (the Cadrilater), which it held until 1940.",
+    "ko": "루마니아는 1913년 제2차 발칸 전쟁에 참전해 불가리아를 상대로 거의 저항 없이 소피아 방면으로 진격했다. 1913년 8월 체결된 부쿠레슈티 조약으로 루마니아는 남부 도브로자(카드릴라테르)를 얻었고 1940년까지 보유했다.",
+    "zh": "1913年罗马尼亚参加第二次巴尔干战争对抗保加利亚，几乎未遇抵抗便向索非亚推进。1913年8月签订的布加勒斯特条约将南多布罗加（四边形地区）划归罗马尼亚，直至1940年。",
+    "ja": "ルーマニアは1913年に第二次バルカン戦争に参戦し、ブルガリアに対しほとんど抵抗を受けずにソフィア方面へ進撃した。1913年8月に締結されたブカレスト条約により、ルーマニアは南ドブロジャ（カドリラテル）を獲得し、1940年まで保有した。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": "Q2633083",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Romania enters the First World War",
+    "ko": "루마니아의 제1차 세계대전 참전",
+    "zh": "罗马尼亚参加第一次世界大战",
+    "ja": "ルーマニアの第一次世界大戦参戦"
+   },
+   "description": {
+    "en": "After two years of neutrality, Romania signed an alliance with the Entente and declared war on Austria-Hungary in August 1916, invading Transylvania. German, Austro-Hungarian, Bulgarian and Ottoman forces counterattacked from Transylvania and Dobruja, and by December most of the country, including Bucharest, was occupied; the government and army retreated to Moldavia with Iași as temporary capital.",
+    "ko": "2년간의 중립 끝에 루마니아는 1916년 8월 협상국과 동맹을 맺고 오스트리아-헝가리에 선전포고하며 트란실바니아로 진격했다. 독일·오스트리아-헝가리·불가리아·오스만 연합군은 트란실바니아와 도브로자에서 반격했고, 12월까지 부쿠레슈티를 포함한 국토 대부분이 점령되었다. 정부와 군대는 야시를 임시 수도로 삼아 몰다비아로 후퇴했다.",
+    "zh": "经过两年中立，罗马尼亚于1916年8月与协约国结盟，对奥匈帝国宣战并进军特兰西瓦尼亚。德国、奥匈、保加利亚和奥斯曼联军从特兰西瓦尼亚和多布罗加发动反攻，到12月包括布加勒斯特在内的大部分国土被占领；政府和军队退往摩尔达维亚，以雅西为临时首都。",
+    "ja": "2年間の中立の後、ルーマニアは1916年8月に協商国と同盟を結んでオーストリア＝ハンガリーに宣戦し、トランシルヴァニアに進攻した。ドイツ、オーストリア＝ハンガリー、ブルガリア、オスマンの連合軍はトランシルヴァニアとドブロジャから反撃し、12月までにブカレストを含む国土の大半が占領された。政府と軍はヤシを臨時首都としてモルダヴィアへ退いた。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": "Q2889252",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Mărășești",
+    "ko": "머러셰슈티 전투",
+    "zh": "默勒谢什蒂战役",
+    "ja": "マラシェシュティの戦い"
+   },
+   "description": {
+    "en": "In summer 1917 the reorganized Romanian army, with Russian support and French advisers, won at Mărăști and then halted a major German offensive under Mackensen at Mărășești (August 1917). The defensive victory saved unoccupied Moldavia and became a symbol of national resistance, with the motto 'They shall not pass'.",
+    "ko": "1917년 여름, 러시아의 지원과 프랑스 고문단의 도움으로 재편된 루마니아군은 머러슈티에서 승리한 데 이어 머러셰슈티에서 마켄젠이 이끄는 독일군의 대공세를 저지했다(1917년 8월). 이 방어전의 승리는 점령되지 않은 몰다비아를 지켜 냈고, '그들은 지나가지 못한다'라는 구호와 함께 민족 항전의 상징이 되었다.",
+    "zh": "1917年夏，在俄国支援和法国顾问协助下重整的罗马尼亚军队先在默勒什蒂取胜，随后于1917年8月在默勒谢什蒂挡住了马肯森指挥的德军大规模攻势。这场防御胜利保住了未被占领的摩尔达维亚，以\"他们不得通过\"的口号成为民族抵抗的象征。",
+    "ja": "1917年夏、ロシアの支援とフランス顧問団の助けで再編されたルーマニア軍はマラシュティで勝利し、続いてマラシェシュティでマッケンゼン率いるドイツ軍の大攻勢を食い止めた（1917年8月）。この防衛戦の勝利は占領を免れたモルダヴィアを守り、「彼らを通すな」の標語とともに民族的抵抗の象徴となった。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": "Q12734854",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "The Great Union of 1918",
+    "ko": "1918년 대통합",
+    "zh": "1918年大统一",
+    "ja": "1918年の大統合"
+   },
+   "description": {
+    "en": "As the Russian and Austro-Hungarian empires collapsed, Bessarabia's council voted to unite with Romania in March 1918 and Bukovina's congress in November. On 1 December 1918 the Great National Assembly of Alba Iulia proclaimed the union of Transylvania, Banat, Crișana and Maramureș with Romania, creating 'Greater Romania'; 1 December is now Romania's national day.",
+    "ko": "러시아 제국과 오스트리아-헝가리 제국이 무너지자, 1918년 3월 베사라비아 의회가, 11월에는 부코비나 회의가 루마니아와의 통합을 의결했다. 1918년 12월 1일 알바이울리아 대국민회의는 트란실바니아·바나트·크리샤나·마라무레슈의 루마니아 통합을 선포해 '대루마니아'를 탄생시켰으며, 12월 1일은 오늘날 루마니아의 국경일이다.",
+    "zh": "随着俄罗斯帝国和奥匈帝国的崩溃，比萨拉比亚议会于1918年3月、布科维纳代表大会于11月相继表决与罗马尼亚合并。1918年12月1日，阿尔巴尤利亚国民大会宣布特兰西瓦尼亚、巴纳特、克里沙纳和马拉穆列什与罗马尼亚联合，形成\"大罗马尼亚\"；12月1日如今是罗马尼亚国庆日。",
+    "ja": "ロシア帝国とオーストリア＝ハンガリー帝国が崩壊すると、1918年3月にベッサラビアの評議会が、11月にはブコヴィナの会議がルーマニアとの統合を決議した。1918年12月1日、アルバ・ユリアの大国民議会はトランシルヴァニア、バナト、クリシャナ、マラムレシュのルーマニアとの統合を宣言して「大ルーマニア」を誕生させた。12月1日は現在ルーマニアの国の祝日である。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Hungarian–Romanian War and the occupation of Budapest",
+    "ko": "헝가리-루마니아 전쟁과 부다페스트 점령",
+    "zh": "匈罗战争与占领布达佩斯",
+    "ja": "ハンガリー・ルーマニア戦争とブダペスト占領"
+   },
+   "description": {
+    "en": "In 1919 the Romanian army fought the Hungarian Soviet Republic of Béla Kun, which sought to recover lost territories. After repelling a Hungarian offensive on the Tisza, Romanian troops entered Budapest in August 1919, contributing to the fall of the communist regime, and withdrew in 1920.",
+    "ko": "1919년 루마니아군은 잃어버린 영토를 되찾으려던 쿤 벨러의 헝가리 소비에트 공화국과 싸웠다. 티서강에서 헝가리군의 공세를 격퇴한 루마니아군은 1919년 8월 부다페스트에 입성해 공산 정권의 몰락에 일조했으며, 1920년 철수했다.",
+    "zh": "1919年，罗马尼亚军队与试图收复失地的库恩·贝拉匈牙利苏维埃共和国作战。罗军在蒂萨河击退匈军攻势后，于1919年8月开进布达佩斯，促成了共产政权的垮台，并于1920年撤出。",
+    "ja": "1919年、ルーマニア軍は失地回復を目指すクン・ベーラのハンガリー・ソビエト共和国と戦った。ティサ川でハンガリー軍の攻勢を撃退したルーマニア軍は1919年8月にブダペストに入城して共産政権の崩壊に寄与し、1920年に撤退した。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Trianon",
+    "ko": "트리아농 조약",
+    "zh": "特里亚农条约",
+    "ja": "トリアノン条約"
+   },
+   "description": {
+    "en": "The Treaty of Trianon, signed in June 1920, confirmed the transfer of Transylvania, Crișana, Maramureș and most of the eastern Banat from Hungary to Romania. Romania roughly doubled in area and population compared with 1914, but now included large Hungarian, German, Jewish, Ukrainian and other minorities.",
+    "ko": "1920년 6월 체결된 트리아농 조약은 트란실바니아·크리샤나·마라무레슈와 바나트 동부 대부분을 헝가리에서 루마니아로 이양하는 것을 확정했다. 루마니아는 1914년에 비해 면적과 인구가 대략 두 배로 늘었으나, 대규모 헝가리인·독일인·유대인·우크라이나인 등 소수 민족을 안게 되었다.",
+    "zh": "1920年6月签订的特里亚农条约确认将特兰西瓦尼亚、克里沙纳、马拉穆列什以及巴纳特东部大部分地区从匈牙利划归罗马尼亚。罗马尼亚的面积和人口比1914年约增加一倍，但也纳入了大量匈牙利人、德意志人、犹太人、乌克兰人等少数民族。",
+    "ja": "1920年6月に調印されたトリアノン条約は、トランシルヴァニア、クリシャナ、マラムレシュ、バナト東部の大半をハンガリーからルーマニアへ移すことを確定した。ルーマニアの面積と人口は1914年に比べおよそ倍増したが、多数のハンガリー人、ドイツ人、ユダヤ人、ウクライナ人などの少数民族を抱えることになった。"
+   }
+  },
+  {
+   "year": 1921,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Agrarian reform of 1921",
+    "ko": "1921년 농지 개혁",
+    "zh": "1921年土地改革",
+    "ja": "1921年の農地改革"
+   },
+   "description": {
+    "en": "Promised to peasant soldiers during the war, a sweeping land reform enacted in 1921 expropriated much of the large estates and distributed millions of hectares to peasants. It made Romania a country of smallholders, although many farms remained too small and poorly equipped to be productive.",
+    "ko": "전쟁 중 농민 병사들에게 약속된 대대적인 토지 개혁이 1921년 시행되어 대토지의 상당 부분을 수용하고 수백만 헥타르를 농민에게 분배했다. 이로써 루마니아는 소농의 나라가 되었지만, 많은 농가는 생산성을 갖추기에는 지나치게 작고 장비가 부족했다.",
+    "zh": "战争期间向农民士兵许诺的大规模土地改革于1921年实施，征收了大地产的大部分，将数百万公顷土地分配给农民。罗马尼亚由此成为小农国家，但许多农场规模过小、装备简陋，生产效率低下。",
+    "ja": "戦時中に農民兵に約束された大規模な土地改革が1921年に施行され、大所領の多くを収用して数百万ヘクタールを農民に分配した。これによりルーマニアは小農の国となったが、多くの農家は生産的であるには小さすぎ、設備も乏しかった。"
+   }
+  },
+  {
+   "year": 1923,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Constitution of 1923",
+    "ko": "1923년 헌법",
+    "zh": "1923年宪法",
+    "ja": "1923年憲法"
+   },
+   "description": {
+    "en": "In 1923 Greater Romania adopted a new constitution establishing a centralized unitary state, universal male suffrage and, under international obligations, citizenship for the country's Jews. It governed political life until Carol II replaced it in 1938, and was briefly restored in 1944.",
+    "ko": "1923년 대루마니아는 중앙집권적 단일 국가, 남성 보통선거, 그리고 국제적 의무에 따른 유대인의 시민권 부여를 규정한 새 헌법을 채택했다. 이 헌법은 1938년 카롤 2세가 이를 대체할 때까지 정치 생활의 틀이 되었고, 1944년에 잠시 복원되었다.",
+    "zh": "1923年大罗马尼亚通过新宪法，确立中央集权的单一制国家和男性普选权，并依国际义务赋予国内犹太人公民权。该宪法一直规范政治生活，直到1938年被卡罗尔二世取代，1944年曾短暂恢复。",
+    "ja": "1923年、大ルーマニアは中央集権的な単一国家、男子普通選挙、そして国際的義務に基づく国内ユダヤ人への市民権付与を定めた新憲法を採択した。この憲法は1938年にカロル2世が置き換えるまで政治生活の枠組みとなり、1944年に一時復活した。"
+   }
+  },
+  {
+   "year": 1927,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the Legion of the Archangel Michael",
+    "ko": "대천사 미카엘 군단의 창설",
+    "zh": "天使长米迦勒军团成立",
+    "ja": "大天使ミカエル軍団の創設"
+   },
+   "description": {
+    "en": "In 1927 Corneliu Zelea Codreanu founded the Legion of the Archangel Michael, a fascist, antisemitic and Orthodox-mystical movement whose political arm became known as the Iron Guard. It used assassinations of political opponents, including Prime Minister Ion G. Duca in 1933, and became one of the largest fascist movements in interwar Europe.",
+    "ko": "1927년 코르넬리우 젤레아 코드레아누는 파시즘·반유대주의·정교 신비주의를 내건 '대천사 미카엘 군단'을 창설했으며, 그 정치 조직은 '철위대'로 알려졌다. 이 운동은 1933년 이온 G. 두카 총리를 포함한 정적 암살을 자행했고, 전간기 유럽에서 가장 큰 파시즘 운동 중 하나가 되었다.",
+    "zh": "1927年，科尔内留·泽莱亚·科德雷亚努创立了具有法西斯主义、反犹主义和东正教神秘主义色彩的\"天使长米迦勒军团\"，其政治组织以\"铁卫团\"著称。该运动以暗杀政敌为手段，包括1933年刺杀总理扬·G·杜卡，成为两次大战之间欧洲规模最大的法西斯运动之一。",
+    "ja": "1927年、コルネリウ・ゼレア・コドレアヌは、ファシズム・反ユダヤ主義・正教神秘主義を掲げる「大天使ミカエル軍団」を創設した。その政治組織は「鉄衛団」として知られる。この運動は1933年のイオン・G・ドゥカ首相をはじめとする政敵の暗殺を行い、戦間期ヨーロッパ最大級のファシズム運動となった。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": "Q555511",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Lupeni strike",
+    "ko": "루페니 파업",
+    "zh": "卢佩尼罢工",
+    "ja": "ルペニ・ストライキ"
+   },
+   "description": {
+    "en": "In August 1929 coal miners in Lupeni in the Jiu Valley went on strike over wages and conditions; troops opened fire, killing more than twenty people. The repression, at the start of the Great Depression, became a landmark of Romanian labour history.",
+    "ko": "1929년 8월 지우 계곡 루페니의 탄광 노동자들이 임금과 노동 조건을 두고 파업을 벌였고, 군대가 발포해 20명 이상이 사망했다. 대공황 초입에 벌어진 이 탄압은 루마니아 노동사의 중요한 사건이 되었다.",
+    "zh": "1929年8月，日乌河谷卢佩尼的煤矿工人因工资和工作条件举行罢工，军队开枪镇压，造成二十余人死亡。这次发生在大萧条之初的镇压成为罗马尼亚劳工史上的标志性事件。",
+    "ja": "1929年8月、ジウ渓谷ルペニの炭鉱労働者が賃金と労働条件をめぐってストライキを行い、軍が発砲して20人以上が死亡した。大恐慌の始まりに起きたこの弾圧は、ルーマニア労働史の画期的な事件となった。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Royal dictatorship of Carol II",
+    "ko": "카롤 2세의 국왕 독재",
+    "zh": "卡罗尔二世的王室独裁",
+    "ja": "カロル2世の国王独裁"
+   },
+   "description": {
+    "en": "In February 1938 King Carol II suspended the 1923 constitution, banned political parties and established a personal royal dictatorship. He moved against the Iron Guard, and in November 1938 Codreanu was killed in custody, 'shot while trying to escape' according to the official version.",
+    "ko": "1938년 2월 국왕 카롤 2세는 1923년 헌법의 효력을 정지하고 정당을 금지해 개인적 국왕 독재를 수립했다. 그는 철위대를 탄압했으며, 1938년 11월 코드레아누는 구금 중 살해되었는데, 공식 발표는 '도주하려다 사살되었다'는 것이었다.",
+    "zh": "1938年2月，国王卡罗尔二世中止1923年宪法，取缔各政党，建立个人王室独裁。他对铁卫团采取行动，1938年11月科德雷亚努在羁押期间被杀，官方说法称其\"企图逃跑时被击毙\"。",
+    "ja": "1938年2月、国王カロル2世は1923年憲法を停止し政党を禁止して個人的な国王独裁を樹立した。彼は鉄衛団を弾圧し、1938年11月にコドレアヌは拘留中に殺害された。公式発表は「逃亡を図ったため射殺された」というものだった。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Territorial losses of 1940",
+    "ko": "1940년의 영토 상실",
+    "zh": "1940年的领土丧失",
+    "ja": "1940年の領土喪失"
+   },
+   "description": {
+    "en": "In June 1940 the Soviet Union, acting under the Molotov–Ribbentrop Pact, forced Romania to cede Bessarabia and Northern Bukovina; in August the Second Vienna Award, imposed by Germany and Italy, gave Northern Transylvania to Hungary; and in September the Treaty of Craiova returned Southern Dobruja to Bulgaria. Greater Romania lost about a third of its territory in three months, discrediting Carol II.",
+    "ko": "1940년 6월 소련은 몰로토프-리벤트로프 조약에 따라 루마니아에 베사라비아와 북부 부코비나의 할양을 강요했고, 8월에는 독일과 이탈리아가 강제한 제2차 빈 중재로 북부 트란실바니아가 헝가리에 넘어갔으며, 9월 크라이오바 조약으로 남부 도브로자가 불가리아에 반환되었다. 대루마니아는 석 달 만에 영토의 약 3분의 1을 잃었고, 카롤 2세의 권위는 실추되었다.",
+    "zh": "1940年6月，苏联依据《苏德互不侵犯条约》迫使罗马尼亚割让比萨拉比亚和北布科维纳；8月，德意强加的第二次维也纳仲裁将北特兰西瓦尼亚划给匈牙利；9月，克拉约瓦条约将南多布罗加归还保加利亚。大罗马尼亚在三个月内失去约三分之一领土，卡罗尔二世威信扫地。",
+    "ja": "1940年6月、ソ連は独ソ不可侵条約に基づきルーマニアにベッサラビアと北ブコヴィナの割譲を強要し、8月にはドイツとイタリアが押し付けた第二次ウィーン裁定で北トランシルヴァニアがハンガリーに渡り、9月にはクラヨーヴァ条約で南ドブロジャがブルガリアに返還された。大ルーマニアは3か月で領土の約3分の1を失い、カロル2世の権威は失墜した。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": "Q2507497",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Antonescu and the National Legionary State",
+    "ko": "안토네스쿠와 민족군단국가",
+    "zh": "安东内斯库与民族军团国",
+    "ja": "アントネスクと民族軍団国家"
+   },
+   "description": {
+    "en": "In September 1940 General Ion Antonescu forced Carol II to abdicate in favour of his son Michael and formed a government with the Iron Guard, proclaiming the National Legionary State. Romania aligned with Nazi Germany, joining the Tripartite Pact in November, while legionaries carried out murders of political prisoners and violent antisemitic measures.",
+    "ko": "1940년 9월 이온 안토네스쿠 장군은 카롤 2세를 아들 미하이에게 양위하도록 강요하고 철위대와 연립 정부를 구성해 '민족군단국가'를 선포했다. 루마니아는 나치 독일과 손잡고 11월 3국 동맹에 가입했으며, 군단원들은 정치범 살해와 폭력적인 반유대 조치를 자행했다.",
+    "zh": "1940年9月，扬·安东内斯库将军迫使卡罗尔二世让位于其子米哈伊，并与铁卫团组成政府，宣布成立\"民族军团国\"。罗马尼亚倒向纳粹德国，于11月加入三国同盟，军团分子则杀害政治犯并实施暴力反犹措施。",
+    "ja": "1940年9月、イオン・アントネスク将軍はカロル2世に息子ミハイへの譲位を強い、鉄衛団と連立政府を組んで「民族軍団国家」を宣言した。ルーマニアはナチス・ドイツと手を結んで11月に三国同盟に加盟し、軍団員は政治犯の殺害や暴力的な反ユダヤ措置を行った。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": "Q2658524",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "1940 Vrancea earthquake",
+    "ko": "1940년 브란체아 지진",
+    "zh": "1940年弗朗恰地震",
+    "ja": "1940年ヴランチャ地震"
+   },
+   "description": {
+    "en": "On 10 November 1940 a powerful earthquake in the Vrancea zone struck Romania, causing heavy damage in Moldavia and Bucharest, where the tall Carlton apartment block collapsed. Hundreds of people were killed.",
+    "ko": "1940년 11월 10일 브란체아 지역에서 발생한 강진이 루마니아를 강타해 몰다비아와 부쿠레슈티에 큰 피해를 입혔고, 부쿠레슈티에서는 고층의 칼턴 아파트가 붕괴했다. 수백 명이 목숨을 잃었다.",
+    "zh": "1940年11月10日，弗朗恰地区发生强烈地震，摩尔达维亚和布加勒斯特损失惨重，布加勒斯特的高层卡尔顿公寓楼倒塌。数百人遇难。",
+    "ja": "1940年11月10日、ヴランチャ地域で強い地震が発生し、モルダヴィアとブカレストに大きな被害をもたらした。ブカレストでは高層のカールトン・ビルが倒壊し、数百人が死亡した。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Romania joins the war against the Soviet Union",
+    "ko": "루마니아의 대(對)소련 전쟁 참전",
+    "zh": "罗马尼亚加入对苏战争",
+    "ja": "ルーマニアの対ソ戦参戦"
+   },
+   "description": {
+    "en": "After crushing the Iron Guard's rebellion in January 1941 and ruling as dictator, Antonescu joined Germany's invasion of the Soviet Union in June 1941. Romanian forces retook Bessarabia and Northern Bukovina, occupied Transnistria and Odessa, and suffered huge losses at Stalingrad in 1942–1943.",
+    "ko": "1941년 1월 철위대의 반란을 진압하고 독재자로 군림한 안토네스쿠는 1941년 6월 독일의 소련 침공에 가담했다. 루마니아군은 베사라비아와 북부 부코비나를 되찾고 트란스니스트리아와 오데사를 점령했으나, 1942~1943년 스탈린그라드에서 막대한 손실을 입었다.",
+    "zh": "1941年1月镇压铁卫团叛乱并独揽大权后，安东内斯库于1941年6月参加德国对苏联的入侵。罗马尼亚军队收复比萨拉比亚和北布科维纳，占领德涅斯特河左岸地区和敖德萨，并于1942至1943年在斯大林格勒遭受惨重损失。",
+    "ja": "1941年1月に鉄衛団の反乱を鎮圧して独裁者となったアントネスクは、1941年6月にドイツのソ連侵攻に加わった。ルーマニア軍はベッサラビアと北ブコヴィナを奪還し、トランスニストリアとオデッサを占領したが、1942〜1943年のスターリングラードで甚大な損失を被った。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q3376121",
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "The Holocaust in Romania",
+    "ko": "루마니아의 홀로코스트",
+    "zh": "罗马尼亚的大屠杀",
+    "ja": "ルーマニアにおけるホロコースト"
+   },
+   "description": {
+    "en": "Under the Antonescu regime, Romanian authorities carried out the Iași pogrom of June 1941, mass killings in Bessarabia, Bukovina and Odessa, and deportations of Jews and Roma to Transnistria. The International Commission on the Holocaust in Romania (Wiesel Commission) concluded in 2004 that between 280,000 and 380,000 Jews were murdered or died in Romanian-controlled territories; separately, the Jews of Hungarian-held Northern Transylvania were deported to Auschwitz in 1944.",
+    "ko": "안토네스쿠 정권 아래 루마니아 당국은 1941년 6월 야시 포그롬, 베사라비아·부코비나·오데사에서의 대량 학살, 유대인과 로마인의 트란스니스트리아 강제 이송을 자행했다. 루마니아 홀로코스트 국제위원회(비젤 위원회)는 2004년 루마니아 지배 지역에서 28만~38만 명의 유대인이 살해되거나 사망했다고 결론지었다. 이와 별도로 헝가리가 차지한 북부 트란실바니아의 유대인들은 1944년 아우슈비츠로 이송되었다.",
+    "zh": "在安东内斯库政权统治下，罗马尼亚当局于1941年6月制造雅西大屠杀，在比萨拉比亚、布科维纳和敖德萨进行大规模屠杀，并将犹太人和罗姆人驱逐到德涅斯特河左岸地区。罗马尼亚大屠杀国际委员会（维塞尔委员会）于2004年得出结论：在罗马尼亚控制的地区，有28万至38万犹太人被杀害或死亡；此外，匈牙利占领的北特兰西瓦尼亚的犹太人于1944年被遣送至奥斯威辛。",
+    "ja": "アントネスク政権下のルーマニア当局は、1941年6月のヤシ・ポグロム、ベッサラビア・ブコヴィナ・オデッサでの大量殺害、ユダヤ人とロマのトランスニストリアへの強制移送を行った。ルーマニア・ホロコースト国際委員会（ヴィーゼル委員会）は2004年、ルーマニア支配地域で28万〜38万人のユダヤ人が殺害または死亡したと結論づけた。これとは別に、ハンガリー領となった北トランシルヴァニアのユダヤ人は1944年にアウシュヴィッツへ移送された。"
+   }
+  },
+  {
+   "year": 1943,
+   "qid": "Q512914",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Operation Tidal Wave",
+    "ko": "타이달 웨이브 작전",
+    "zh": "\"浪潮行动\"",
+    "ja": "タイダル・ウェーブ作戦"
+   },
+   "description": {
+    "en": "On 1 August 1943 US Army Air Forces B-24 bombers flew a low-level raid against the oil refineries around Ploiești, Germany's most important source of crude oil. The raid caused significant damage but cost the attackers heavy losses, and the refineries were soon repaired; Allied bombing of Ploiești and Bucharest intensified in 1944.",
+    "ko": "1943년 8월 1일 미 육군 항공대의 B-24 폭격기들이 독일의 가장 중요한 원유 공급원이던 플로이에슈티 일대 정유 시설을 저공 폭격했다. 공습은 상당한 피해를 주었으나 공격 측도 큰 손실을 입었고 정유 시설은 곧 복구되었다. 1944년 플로이에슈티와 부쿠레슈티에 대한 연합군의 폭격은 더욱 강화되었다.",
+    "zh": "1943年8月1日，美国陆军航空队的B-24轰炸机对德国最重要的原油来源——普洛耶什蒂周边炼油厂实施低空空袭。空袭造成了相当破坏，但进攻方损失惨重，炼油厂不久即被修复；1944年盟军对普洛耶什蒂和布加勒斯特的轰炸进一步加强。",
+    "ja": "1943年8月1日、アメリカ陸軍航空軍のB-24爆撃機が、ドイツにとって最重要の原油供給源だったプロイェシュティ周辺の製油所に低空爆撃を行った。空襲は相当な損害を与えたが攻撃側も大きな損失を被り、製油所はまもなく修復された。1944年にはプロイェシュティとブカレストに対する連合軍の爆撃が強まった。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": "Q311765",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "King Michael's coup and the turn to the Allies",
+    "ko": "미하이 국왕의 쿠데타와 연합국 편 전환",
+    "zh": "米哈伊国王政变与倒向同盟国",
+    "ja": "ミハイ国王のクーデターと連合国側への転換"
+   },
+   "description": {
+    "en": "As the Soviet Jassy–Kishinev offensive broke through the front in August 1944, King Michael I, with the opposition parties, had Antonescu arrested on 23 August and switched Romania to the Allied side. The turn hastened the Axis collapse in the Balkans; Romanian and Soviet troops then fought to recover Northern Transylvania, completed in October 1944, but the Red Army's presence opened the way to Soviet domination.",
+    "ko": "1944년 8월 소련군의 야시-키시너우 공세가 전선을 돌파하자, 국왕 미하이 1세는 야당들과 함께 8월 23일 안토네스쿠를 체포하고 루마니아를 연합국 편으로 돌렸다. 이 전환은 발칸에서 추축국의 붕괴를 앞당겼다. 이후 루마니아군과 소련군은 북부 트란실바니아를 되찾기 위해 싸워 1944년 10월 이를 완료했으나, 붉은 군대의 주둔은 소련 지배의 길을 열었다.",
+    "zh": "1944年8月苏军雅西-基希讷乌攻势突破战线之际，国王米哈伊一世联合反对党于8月23日逮捕安东内斯库，使罗马尼亚倒向同盟国。这一转向加速了轴心国在巴尔干的崩溃；随后罗苏军队为收复北特兰西瓦尼亚而战，于1944年10月完成，但红军的进驻为苏联控制打开了大门。",
+    "ja": "1944年8月、ソ連軍のヤシ・キシナウ攻勢が前線を突破すると、国王ミハイ1世は野党とともに8月23日にアントネスクを逮捕し、ルーマニアを連合国側に転じさせた。この転換はバルカンにおける枢軸国の崩壊を早めた。その後ルーマニア軍とソ連軍は北トランシルヴァニア奪還のために戦い1944年10月に完了したが、赤軍の駐留はソ連支配への道を開いた。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Soviet-imposed Groza government",
+    "ko": "소련이 강요한 그로자 정부",
+    "zh": "苏联扶植的格罗查政府",
+    "ja": "ソ連が押し付けたグローザ政府"
+   },
+   "description": {
+    "en": "On 6 March 1945, under direct pressure from Soviet envoy Andrei Vyshinsky, King Michael appointed a government led by Petru Groza and dominated by the communists. The November 1946 elections, officially won by the communist-led bloc, were widely regarded as fraudulent, and opposition leaders such as Iuliu Maniu were arrested in 1947.",
+    "ko": "1945년 3월 6일 소련 특사 안드레이 비신스키의 직접적인 압력 아래 미하이 국왕은 페트루 그로자가 이끌고 공산당이 주도하는 정부를 임명했다. 공산당 주도 연합이 공식적으로 승리한 1946년 11월 선거는 부정 선거로 널리 여겨지며, 1947년에는 이울리우 마니우 등 야당 지도자들이 체포되었다.",
+    "zh": "1945年3月6日，在苏联特使安德烈·维辛斯基的直接施压下，米哈伊国王任命以彼得鲁·格罗查为首、由共产党主导的政府。1946年11月选举中共产党领导的集团获得官方宣布的胜利，但普遍被认为存在舞弊；1947年尤柳·马纽等反对派领袖遭到逮捕。",
+    "ja": "1945年3月6日、ソ連特使アンドレイ・ヴィシンスキーの直接的な圧力のもと、ミハイ国王はペトル・グローザが率い共産党が主導する政府を任命した。共産党主導のブロックが公式に勝利した1946年11月の選挙は不正選挙と広く見なされ、1947年にはユリウ・マニウら野党指導者が逮捕された。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Abolition of the monarchy",
+    "ko": "군주제 폐지",
+    "zh": "废除君主制",
+    "ja": "君主制の廃止"
+   },
+   "description": {
+    "en": "On 30 December 1947 the communists forced King Michael I to abdicate and proclaimed the Romanian People's Republic. Earlier that year the Paris Peace Treaty had restored Northern Transylvania to Romania while confirming the Soviet annexation of Bessarabia and Northern Bukovina; Michael went into exile and returned only after 1989.",
+    "ko": "1947년 12월 30일 공산주의자들은 국왕 미하이 1세를 강제로 퇴위시키고 루마니아 인민공화국을 선포했다. 그해 초 파리 강화 조약은 북부 트란실바니아를 루마니아에 되돌려 주는 한편 소련의 베사라비아·북부 부코비나 병합을 확정했다. 미하이는 망명했다가 1989년 이후에야 귀국할 수 있었다.",
+    "zh": "1947年12月30日，共产党人迫使国王米哈伊一世退位，宣布成立罗马尼亚人民共和国。同年早些时候签订的巴黎和约将北特兰西瓦尼亚归还罗马尼亚，同时确认苏联吞并比萨拉比亚和北布科维纳；米哈伊流亡海外，直到1989年后才得以回国。",
+    "ja": "1947年12月30日、共産主義者はミハイ1世を退位させ、ルーマニア人民共和国を宣言した。同年初めのパリ講和条約は北トランシルヴァニアをルーマニアに返還する一方、ソ連によるベッサラビアと北ブコヴィナの併合を確定した。ミハイは亡命し、1989年以降になってようやく帰国できた。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": "Q6979824",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Nationalization and Stalinist transformation",
+    "ko": "국유화와 스탈린주의적 개조",
+    "zh": "国有化与斯大林式改造",
+    "ja": "国有化とスターリン主義的改造"
+   },
+   "description": {
+    "en": "In June 1948 the communist regime nationalized industry, banks, mines and transport, and later housing and medical facilities. The same year it adopted a Soviet-style constitution, created the Securitate secret police and outlawed the Greek-Catholic Church, whose bishops were imprisoned.",
+    "ko": "1948년 6월 공산 정권은 산업·은행·광산·운송을 국유화했고, 이후 주택과 의료 시설도 국유화했다. 같은 해 소련식 헌법을 채택하고 비밀경찰 세쿠리타테를 창설했으며, 그리스 가톨릭 교회를 불법화하고 주교들을 투옥했다.",
+    "zh": "1948年6月，共产党政权将工业、银行、矿山和交通收归国有，随后又将住房和医疗设施国有化。同年通过苏联式宪法，建立秘密警察\"国家安全局\"，并取缔希腊礼天主教会，监禁其主教。",
+    "ja": "1948年6月、共産政権は工業、銀行、鉱山、運輸を国有化し、のちに住宅や医療施設も国有化した。同年ソ連型の憲法を採択し、秘密警察セクリターテを創設し、ギリシャ典礼カトリック教会を非合法化して司教たちを投獄した。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Forced collectivization of agriculture",
+    "ko": "농업의 강제 집단화",
+    "zh": "农业强制集体化",
+    "ja": "農業の強制集団化"
+   },
+   "description": {
+    "en": "In March 1949 the party launched the collectivization of agriculture, which was carried out through pressure, arrests and deportations of peasants who resisted, and was declared complete in 1962. In the same period tens of thousands of political prisoners were sent to labour camps such as those on the Danube–Black Sea Canal, and prisons like Pitești became notorious for 're-education' through torture.",
+    "ko": "1949년 3월 공산당은 농업 집단화에 착수했으며, 이는 저항하는 농민에 대한 압박·체포·추방을 통해 추진되어 1962년 완료가 선언되었다. 같은 시기 수만 명의 정치범이 도나우-흑해 운하 공사장 등의 노동 수용소로 보내졌고, 피테슈티 같은 감옥은 고문을 통한 '재교육'으로 악명을 떨쳤다.",
+    "zh": "1949年3月，党开始推行农业集体化，通过对反抗农民施压、逮捕和流放强行实施，并于1962年宣告完成。同一时期，数以万计的政治犯被送往多瑙河—黑海运河工地等劳改营，皮特什蒂等监狱则因以酷刑进行\"再教育\"而臭名昭著。",
+    "ja": "1949年3月、党は農業集団化に着手し、抵抗する農民への圧力・逮捕・追放によって推し進め、1962年に完了を宣言した。同じ時期、数万人の政治犯がドナウ・黒海運河の工事現場などの労働収容所に送られ、ピテシュティなどの監獄は拷問による「再教育」で悪名を馳せた。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Withdrawal of Soviet troops",
+    "ko": "소련군 철수",
+    "zh": "苏联撤军",
+    "ja": "ソ連軍の撤退"
+   },
+   "description": {
+    "en": "In 1958 Soviet troops left Romania under an agreement negotiated by party leader Gheorghe Gheorghiu-Dej. The withdrawal allowed the regime to pursue a more autonomous line, formalized in the April 1964 declaration rejecting Soviet plans for a division of labour that would have kept Romania agricultural.",
+    "ko": "1958년 공산당 지도자 게오르게 게오르기우데지가 협상한 합의에 따라 소련군이 루마니아에서 철수했다. 철군으로 정권은 보다 자주적인 노선을 추구할 수 있었으며, 이는 루마니아를 농업국에 묶어 둘 소련의 국제 분업 계획을 거부한 1964년 4월 선언으로 공식화되었다.",
+    "zh": "1958年，根据党的领导人格奥尔基·乔治乌-德治谈判达成的协议，苏联军队撤出罗马尼亚。撤军使该政权得以奉行更自主的路线，并在1964年4月的声明中正式化，拒绝了会使罗马尼亚停留在农业国地位的苏联国际分工计划。",
+    "ja": "1958年、党指導者ゲオルゲ・ゲオルギウ＝デジが交渉した合意に基づき、ソ連軍がルーマニアから撤退した。撤退により政権はより自主的な路線を追求できるようになり、それはルーマニアを農業国にとどめるソ連の国際分業計画を拒否した1964年4月の声明で公式化された。"
+   }
+  },
+  {
+   "year": 1965,
+   "qid": "Q842794",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ceaușescu comes to power",
+    "ko": "차우셰스쿠의 집권",
+    "zh": "齐奥塞斯库上台",
+    "ja": "チャウシェスクの権力掌握"
+   },
+   "description": {
+    "en": "After Gheorghiu-Dej's death in March 1965, Nicolae Ceaușescu became party leader, and a new constitution renamed the country the Socialist Republic of Romania. Initially popular for his independent line toward Moscow and limited cultural opening, he gradually built a repressive personality cult around himself and his wife Elena.",
+    "ko": "1965년 3월 게오르기우데지가 사망하자 니콜라에 차우셰스쿠가 당 지도자가 되었고, 새 헌법으로 국명이 루마니아 사회주의 공화국으로 바뀌었다. 처음에는 모스크바에 대한 자주 노선과 제한적인 문화 개방으로 인기를 얻었으나, 점차 자신과 아내 엘레나를 중심으로 한 억압적인 개인숭배 체제를 구축했다.",
+    "zh": "1965年3月乔治乌-德治去世后，尼古拉·齐奥塞斯库成为党的领导人，新宪法将国名改为罗马尼亚社会主义共和国。他起初因对莫斯科的独立路线和有限的文化开放而颇受欢迎，但逐渐建立起围绕他本人和妻子埃列娜的高压个人崇拜体制。",
+    "ja": "1965年3月にゲオルギウ＝デジが死去すると、ニコラエ・チャウシェスクが党指導者となり、新憲法により国名はルーマニア社会主義共和国に改められた。当初はモスクワに対する自主路線と限定的な文化開放で人気を得たが、次第に自身と妻エレナを中心とする抑圧的な個人崇拝体制を築いた。"
+   }
+  },
+  {
+   "year": 1966,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Decree 770 bans abortion",
+    "ko": "낙태를 금지한 법령 770호",
+    "zh": "禁止堕胎的第770号法令",
+    "ja": "中絶を禁じた政令770号"
+   },
+   "description": {
+    "en": "To raise the birth rate, Ceaușescu's Decree 770 of 1966 banned abortion and contraception with few exceptions. Births surged briefly, but thousands of women died from unsafe illegal abortions over the following decades, and many unwanted children ended up in overcrowded state orphanages, whose conditions shocked the world after 1989.",
+    "ko": "출생률을 높이기 위해 차우셰스쿠는 1966년 법령 770호로 일부 예외를 제외하고 낙태와 피임을 금지했다. 출생아 수는 일시적으로 급증했지만, 이후 수십 년 동안 수천 명의 여성이 불법 낙태로 목숨을 잃었고, 원치 않게 태어난 많은 아이들이 과밀한 국영 고아원에 보내졌다. 그 실상은 1989년 이후 세계에 충격을 주었다.",
+    "zh": "为提高出生率，齐奥塞斯库于1966年颁布第770号法令，除少数例外禁止堕胎和避孕。出生人数短暂激增，但此后数十年间数千名妇女死于不安全的非法堕胎，许多不被期待的孩子被送进拥挤的国营孤儿院，其状况在1989年后震惊世界。",
+    "ja": "出生率を高めるため、チャウシェスクは1966年の政令770号で少数の例外を除き中絶と避妊を禁止した。出生数は一時的に急増したが、その後数十年の間に数千人の女性が危険な違法中絶で命を落とし、望まれずに生まれた多くの子どもが過密な国営孤児院に送られた。その実態は1989年以後、世界に衝撃を与えた。"
+   }
+  },
+  {
+   "year": 1968,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ceaușescu condemns the invasion of Czechoslovakia",
+    "ko": "차우셰스쿠의 체코슬로바키아 침공 규탄",
+    "zh": "齐奥塞斯库谴责入侵捷克斯洛伐克",
+    "ja": "チャウシェスクのチェコスロヴァキア侵攻非難"
+   },
+   "description": {
+    "en": "In August 1968 Romania refused to take part in the Warsaw Pact invasion of Czechoslovakia, and Ceaușescu publicly denounced it before a huge crowd in Bucharest. The stance won him popularity at home and courtship from the West, including a visit by US President Richard Nixon in 1969.",
+    "ko": "1968년 8월 루마니아는 바르샤바 조약군의 체코슬로바키아 침공에 참여하기를 거부했고, 차우셰스쿠는 부쿠레슈티의 대군중 앞에서 이를 공개적으로 규탄했다. 이 태도로 그는 국내에서 인기를 얻었고 서방의 호의를 샀으며, 1969년에는 리처드 닉슨 미국 대통령이 방문했다.",
+    "zh": "1968年8月，罗马尼亚拒绝参加华沙条约组织对捷克斯洛伐克的入侵，齐奥塞斯库在布加勒斯特的大规模集会上公开予以谴责。这一立场使他在国内赢得声望，并受到西方的青睐，1969年美国总统尼克松曾到访。",
+    "ja": "1968年8月、ルーマニアはワルシャワ条約機構軍のチェコスロヴァキア侵攻への参加を拒否し、チャウシェスクはブカレストの大群衆の前でこれを公然と非難した。この姿勢により彼は国内で人気を得て西側の歓心を買い、1969年にはリチャード・ニクソン米大統領が訪問した。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": "Q4118466",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "1970 floods",
+    "ko": "1970년 대홍수",
+    "zh": "1970年大洪水",
+    "ja": "1970年の大洪水"
+   },
+   "description": {
+    "en": "In May 1970 catastrophic floods struck much of Romania, especially Transylvania along the Mureș and Someș rivers. Hundreds of people died and tens of thousands of homes were damaged or destroyed, prompting large international aid.",
+    "ko": "1970년 5월 파괴적인 홍수가 루마니아 대부분, 특히 무레슈강과 소메슈강 유역의 트란실바니아를 덮쳤다. 수백 명이 사망하고 수만 채의 가옥이 피해를 입거나 파괴되어 대규모 국제 원조가 이루어졌다.",
+    "zh": "1970年5月，灾难性洪水袭击罗马尼亚大部分地区，尤其是穆列什河和索梅什河流域的特兰西瓦尼亚。数百人死亡，数万所房屋受损或被毁，引来大规模国际援助。",
+    "ja": "1970年5月、壊滅的な洪水がルーマニアの大部分、とりわけムレシュ川とソメシュ川流域のトランシルヴァニアを襲った。数百人が死亡し、数万戸の家屋が損壊または流失し、大規模な国際援助が行われた。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "The July Theses",
+    "ko": "7월 테제",
+    "zh": "\"七月提纲\"",
+    "ja": "七月テーゼ"
+   },
+   "description": {
+    "en": "Returning from visits to China and North Korea in 1971, Ceaușescu issued the 'July Theses', which ended the limited cultural liberalization of the late 1960s. Culture was subordinated to ideology and nationalist propaganda, paving the way for an ever-growing personality cult.",
+    "ko": "1971년 중국과 북한 방문에서 돌아온 차우셰스쿠는 '7월 테제'를 발표해 1960년대 후반의 제한적인 문화 자유화를 끝냈다. 문화는 이데올로기와 민족주의 선전에 종속되었고, 끝없이 커져 가는 개인숭배의 길이 열렸다.",
+    "zh": "1971年访问中国和朝鲜归来后，齐奥塞斯库发表\"七月提纲\"，结束了1960年代后期有限的文化自由化。文化从属于意识形态和民族主义宣传，为日益膨胀的个人崇拜铺平了道路。",
+    "ja": "1971年に中国と北朝鮮の訪問から戻ったチャウシェスクは「七月テーゼ」を発表し、1960年代後半の限定的な文化的自由化に終止符を打った。文化はイデオロギーと民族主義的宣伝に従属させられ、肥大化し続ける個人崇拝への道が開かれた。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": "Q751139",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "1977 Vrancea earthquake",
+    "ko": "1977년 브란체아 지진",
+    "zh": "1977年弗朗恰地震",
+    "ja": "1977年ヴランチャ地震"
+   },
+   "description": {
+    "en": "On 4 March 1977 a magnitude 7.2–7.4 earthquake centred in Vrancea struck Romania, killing about 1,500 people, most of them in Bucharest, where dozens of apartment blocks collapsed. It was Romania's deadliest natural disaster of the 20th century, and Ceaușescu later used the reconstruction as a pretext for demolishing historic areas of the capital.",
+    "ko": "1977년 3월 4일 브란체아를 진원으로 한 규모 7.2~7.4의 지진이 루마니아를 강타해 약 1,500명이 사망했으며, 대부분은 수십 동의 아파트가 무너진 부쿠레슈티에서 나왔다. 20세기 루마니아 최악의 자연재해였으며, 차우셰스쿠는 훗날 재건을 구실로 수도의 역사 지구를 철거했다.",
+    "zh": "1977年3月4日，震中位于弗朗恰的7.2至7.4级地震袭击罗马尼亚，造成约1500人死亡，其中大多数在布加勒斯特，那里数十栋公寓楼倒塌。这是20世纪罗马尼亚最严重的自然灾害，齐奥塞斯库后来以重建为借口拆除了首都的历史街区。",
+    "ja": "1977年3月4日、ヴランチャを震源とするマグニチュード7.2〜7.4の地震がルーマニアを襲い、約1,500人が死亡した。その大半は数十棟の集合住宅が倒壊したブカレストで出た。20世紀ルーマニア最悪の自然災害であり、チャウシェスクは後に再建を口実に首都の歴史地区を取り壊した。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Austerity to repay the foreign debt",
+    "ko": "외채 상환을 위한 긴축",
+    "zh": "为偿还外债实行紧缩",
+    "ja": "対外債務返済のための緊縮"
+   },
+   "description": {
+    "en": "From 1981–1982 Ceaușescu decided to pay off Romania's foreign debt rapidly, exporting much of the country's food and energy production. The resulting rationing of food, heating and electricity made the 1980s a time of severe hardship; the debt was declared repaid in 1989, months before the regime fell.",
+    "ko": "1981~1982년부터 차우셰스쿠는 루마니아의 외채를 신속히 갚기로 하고 식량과 에너지 생산의 상당 부분을 수출했다. 그 결과 식량·난방·전기가 배급제로 묶이며 1980년대는 극심한 궁핍의 시대가 되었다. 외채는 정권이 무너지기 몇 달 전인 1989년 전액 상환이 선언되었다.",
+    "zh": "自1981至1982年起，齐奥塞斯库决定迅速偿还罗马尼亚的外债，将大量粮食和能源产品出口。由此导致的食品、供暖和电力配给使1980年代成为极度困苦的年代；外债于1989年宣告还清，仅在政权垮台前几个月。",
+    "ja": "1981〜1982年からチャウシェスクはルーマニアの対外債務を急速に返済することを決め、国の食料とエネルギー生産の多くを輸出に回した。その結果、食料・暖房・電力が配給制となり、1980年代は深刻な窮乏の時代となった。債務は政権崩壊の数か月前の1989年に完済が宣言された。"
+   }
+  },
+  {
+   "year": 1984,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Danube–Black Sea Canal opens",
+    "ko": "도나우-흑해 운하 개통",
+    "zh": "多瑙河—黑海运河通航",
+    "ja": "ドナウ・黒海運河の開通"
+   },
+   "description": {
+    "en": "In May 1984 the Danube–Black Sea Canal from Cernavodă to Agigea near Constanța was inaugurated, shortening the route from the Danube to the sea. Work on the canal had begun in 1949 with political prisoners as forced labourers, was abandoned in 1953, and resumed in the 1970s; in the same decade Ceaușescu began demolishing central Bucharest for his giant House of the Republic.",
+    "ko": "1984년 5월 체르나보다에서 콘스탄차 인근 아지제아에 이르는 도나우-흑해 운하가 개통되어 도나우강에서 바다로 가는 항로가 단축되었다. 운하 공사는 1949년 정치범을 강제 노동에 동원해 시작되었다가 1953년 중단되고 1970년대에 재개되었다. 같은 시기 차우셰스쿠는 거대한 '공화국 궁전' 건설을 위해 부쿠레슈티 도심을 철거하기 시작했다.",
+    "zh": "1984年5月，从切尔纳沃德到康斯坦察附近阿吉贾的多瑙河—黑海运河落成通航，缩短了多瑙河出海的航程。运河工程于1949年以政治犯强迫劳动开工，1953年停工，1970年代复工；同一年代，齐奥塞斯库开始拆除布加勒斯特市中心，修建庞大的\"共和国宫\"。",
+    "ja": "1984年5月、チェルナヴォダからコンスタンツァ近郊アジジャに至るドナウ・黒海運河が開通し、ドナウ川から海への航路が短縮された。運河工事は1949年に政治犯を強制労働に動員して始まり、1953年に中断、1970年代に再開された。同じ頃、チャウシェスクは巨大な「共和国の館」建設のためブカレスト中心部の取り壊しを始めた。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Brașov rebellion",
+    "ko": "브라쇼브 봉기",
+    "zh": "布拉索夫起义",
+    "ja": "ブラショフ蜂起"
+   },
+   "description": {
+    "en": "On 15 November 1987 workers at the Steagul Roșu truck factory in Brașov, angered by wage cuts and shortages, marched to the city centre and ransacked the party headquarters, chanting against Ceaușescu. The revolt was quickly suppressed and participants were arrested or deported to other towns, but it foreshadowed the uprising of 1989.",
+    "ko": "1987년 11월 15일 임금 삭감과 물자 부족에 분노한 브라쇼브 '붉은 깃발' 트럭 공장 노동자들이 도심으로 행진해 차우셰스쿠 반대 구호를 외치며 당 청사를 습격했다. 봉기는 곧 진압되어 가담자들은 체포되거나 다른 도시로 추방되었지만, 1989년 봉기의 전조가 되었다.",
+    "zh": "1987年11月15日，因工资削减和物资短缺而愤怒的布拉索夫\"红旗\"卡车厂工人游行到市中心，高呼反对齐奥塞斯库的口号并捣毁党部大楼。起义很快被镇压，参与者遭逮捕或被流放到其他城镇，但它预示了1989年的起义。",
+    "ja": "1987年11月15日、賃金カットと物不足に怒ったブラショフの「赤旗」トラック工場の労働者たちが市中心部へ行進し、チャウシェスク反対を叫んで党本部を襲撃した。蜂起はすぐに鎮圧され、参加者は逮捕されたり他の町へ追放されたりしたが、1989年の蜂起の前触れとなった。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": "Q204213",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Romanian Revolution",
+    "ko": "루마니아 혁명",
+    "zh": "罗马尼亚革命",
+    "ja": "ルーマニア革命"
+   },
+   "description": {
+    "en": "Protests that began in Timișoara on 16 December 1989 in defence of the pastor László Tőkés spread to Bucharest, where a mass rally turned against Ceaușescu on 21 December. Ceaușescu fled on 22 December and the army switched sides; he and Elena were tried by a summary military tribunal and executed on 25 December. It was the only violent overthrow among Eastern Europe's 1989 revolutions, with over 1,000 deaths, and power passed to the National Salvation Front led by Ion Iliescu.",
+    "ko": "1989년 12월 16일 퇴케시 라슬로 목사를 지키려는 티미쇼아라의 시위가 부쿠레슈티로 번졌고, 12월 21일 대중 집회가 차우셰스쿠에게 등을 돌렸다. 차우셰스쿠는 12월 22일 도주했고 군대는 혁명 편에 섰으며, 그와 아내 엘레나는 약식 군사 재판을 거쳐 12월 25일 처형되었다. 1989년 동유럽 혁명 가운데 유일하게 유혈로 전개되어 1,000명 이상이 사망했으며, 권력은 이온 일리에스쿠가 이끄는 구국전선으로 넘어갔다.",
+    "zh": "1989年12月16日，蒂米什瓦拉为保护牧师特凯什·拉斯洛而爆发的抗议蔓延到布加勒斯特，12月21日的大型集会转而反对齐奥塞斯库。12月22日齐奥塞斯库出逃，军队倒戈；他与妻子埃列娜经军事法庭简易审判后于12月25日被处决。这是1989年东欧剧变中唯一以流血方式完成的革命，死亡人数超过一千，政权转入扬·伊利埃斯库领导的救国阵线手中。",
+    "ja": "1989年12月16日、ラースロー・テーケーシュ牧師を守ろうとしたティミショアラの抗議がブカレストに広がり、12月21日の大集会はチャウシェスクに背を向けた。チャウシェスクは12月22日に逃亡し、軍は寝返った。彼と妻エレナは略式の軍事法廷で裁かれ12月25日に処刑された。1989年の東欧革命の中で唯一流血を伴い1,000人以上が死亡し、権力はイオン・イリエスク率いる救国戦線に移った。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q584178",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The June 1990 Mineriad",
+    "ko": "1990년 6월 광부 난입 사태(미네리아드)",
+    "zh": "1990年6月矿工进城事件",
+    "ja": "1990年6月のミネリアード"
+   },
+   "description": {
+    "en": "After the National Salvation Front won the May 1990 elections, anti-government protesters who had occupied University Square in Bucharest (the 'Golaniad') were cleared by police, and President Ion Iliescu called on citizens to defend the state. On 13–15 June thousands of Jiu Valley miners arrived and violently attacked protesters, students and opposition offices, leaving several dead and deeply damaging Romania's international image.",
+    "ko": "1990년 5월 선거에서 구국전선이 승리한 뒤 부쿠레슈티 대학 광장을 점거한 반정부 시위대('골라니아드')가 경찰에 의해 해산되었고, 이온 일리에스쿠 대통령은 시민들에게 국가를 지키라고 호소했다. 6월 13~15일 지우 계곡의 광부 수천 명이 상경해 시위대·학생·야당 사무실을 폭력적으로 공격했고, 수 명이 사망하며 루마니아의 국제적 이미지가 크게 손상되었다.",
+    "zh": "1990年5月救国阵线赢得选举后，占据布加勒斯特大学广场的反政府抗议者（\"流氓示威\"）遭警方清场，总统扬·伊利埃斯库号召民众保卫国家。6月13日至15日，数千名日乌河谷矿工进城，暴力袭击抗议者、学生和反对党办公室，造成数人死亡，严重损害了罗马尼亚的国际形象。",
+    "ja": "1990年5月の選挙で救国戦線が勝利した後、ブカレストの大学広場を占拠していた反政府デモ隊（「ゴラニアード」）が警察に排除され、イオン・イリエスク大統領は市民に国家を守るよう呼びかけた。6月13〜15日、ジウ渓谷の炭鉱労働者数千人が上京してデモ隊や学生、野党事務所を暴力的に襲撃し、数人が死亡、ルーマニアの国際的イメージは大きく損なわれた。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q527130",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Ethnic clashes in Târgu Mureș",
+    "ko": "타르구무레슈의 민족 충돌",
+    "zh": "特尔古穆列什民族冲突",
+    "ja": "トゥルグ・ムレシュの民族衝突"
+   },
+   "description": {
+    "en": "In March 1990 tensions over Hungarian-language education in Târgu Mureș erupted into street clashes between ethnic Romanians and Hungarians. Several people were killed and hundreds injured; the violence prompted fears of Yugoslav-style conflict that did not materialize, and the Hungarian minority's party later took part in many governments.",
+    "ko": "1990년 3월 타르구무레슈에서 헝가리어 교육을 둘러싼 긴장이 루마니아계와 헝가리계 주민 사이의 거리 충돌로 폭발했다. 수 명이 사망하고 수백 명이 다쳤으며, 유고슬라비아식 분쟁에 대한 우려를 낳았으나 현실화되지는 않았고, 헝가리계 소수 민족 정당은 이후 여러 정부에 참여했다.",
+    "zh": "1990年3月，特尔古穆列什因匈牙利语教育问题积累的紧张局势演变为罗马尼亚族与匈牙利族之间的街头冲突。数人死亡、数百人受伤；这场暴力引发了对南斯拉夫式冲突的担忧，但并未成真，匈牙利少数民族政党此后还多次参与执政。",
+    "ja": "1990年3月、トゥルグ・ムレシュでハンガリー語教育をめぐる緊張がルーマニア系とハンガリー系住民の路上衝突に発展した。数人が死亡し数百人が負傷した。この暴力はユーゴスラヴィア型の紛争への懸念を呼んだが現実にはならず、ハンガリー系少数民族の政党はその後多くの政権に参加した。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q7362592",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Constitution of 1991",
+    "ko": "1991년 헌법",
+    "zh": "1991年宪法",
+    "ja": "1991年憲法"
+   },
+   "description": {
+    "en": "In December 1991 Romanians approved by referendum a new constitution establishing Romania as a democratic, social and unitary state with a semi-presidential system. It guaranteed political pluralism and fundamental rights, and was revised in 2003 to prepare for NATO and EU membership.",
+    "ko": "1991년 12월 루마니아 국민은 국민투표로 루마니아를 반(半)대통령제의 민주적·사회적 단일 국가로 규정한 새 헌법을 승인했다. 헌법은 정치적 다원주의와 기본권을 보장했으며, 2003년 NATO·EU 가입 준비를 위해 개정되었다.",
+    "zh": "1991年12月，罗马尼亚人通过全民公决批准新宪法，确立罗马尼亚为实行半总统制的民主、社会、单一制国家。宪法保障政治多元和基本权利，并于2003年为准备加入北约和欧盟而修订。",
+    "ja": "1991年12月、ルーマニア国民は国民投票で、ルーマニアを半大統領制の民主的・社会的な単一国家とする新憲法を承認した。憲法は政治的多元主義と基本的人権を保障し、2003年にはNATOとEU加盟に備えて改正された。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": "Q740835",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First peaceful transfer of power",
+    "ko": "최초의 평화적 정권 교체",
+    "zh": "首次和平政权交接",
+    "ja": "初の平和的な政権交代"
+   },
+   "description": {
+    "en": "In November 1996 Emil Constantinescu of the centre-right Democratic Convention defeated incumbent Ion Iliescu in the presidential election. It was the first peaceful transfer of power to the opposition since the fall of communism, followed by economic reforms and closer ties with the West.",
+    "ko": "1996년 11월 중도우파 민주협약의 에밀 콘스탄티네스쿠가 대통령 선거에서 현직 이온 일리에스쿠를 꺾었다. 이는 공산주의 붕괴 이후 처음으로 야당에 평화적으로 정권이 넘어간 사례였으며, 이후 경제 개혁과 서방과의 관계 강화가 이어졌다.",
+    "zh": "1996年11月，中右翼民主大会的埃米尔·康斯坦丁内斯库在总统选举中击败现任总统扬·伊利埃斯库。这是共产主义垮台后政权首次和平移交给反对派，随后推行了经济改革并加强了与西方的关系。",
+    "ja": "1996年11月、中道右派の民主会議のエミル・コンスタンティネスクが大統領選挙で現職のイオン・イリエスクを破った。共産主義崩壊後、初めて野党へ平和的に政権が移った例であり、その後経済改革と西側との関係強化が進んだ。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": "Q803699",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Baia Mare cyanide spill",
+    "ko": "바이아마레 시안화물 유출",
+    "zh": "巴亚马雷氰化物泄漏",
+    "ja": "バイア・マーレのシアン化物流出"
+   },
+   "description": {
+    "en": "In January 2000 a dam at a gold-recovery plant near Baia Mare burst, releasing about 100,000 cubic metres of cyanide-contaminated water into the Someș, Tisza and Danube river system. The spill killed large numbers of fish in Hungary and Serbia and became one of Europe's worst environmental disasters since Chernobyl.",
+    "ko": "2000년 1월 바이아마레 인근 금 회수 공장의 댐이 무너져 시안화물에 오염된 물 약 10만 세제곱미터가 소메슈·티서·도나우 수계로 흘러들었다. 이 유출로 헝가리와 세르비아에서 대량의 물고기가 폐사했으며, 체르노빌 이후 유럽 최악의 환경 재해 중 하나가 되었다.",
+    "zh": "2000年1月，巴亚马雷附近一座黄金回收厂的尾矿坝溃决，约10万立方米含氰化物的污水流入索梅什河、蒂萨河和多瑙河水系。泄漏导致匈牙利和塞尔维亚境内大量鱼类死亡，成为切尔诺贝利事故以来欧洲最严重的环境灾难之一。",
+    "ja": "2000年1月、バイア・マーレ近郊の金回収工場のダムが決壊し、シアン化物に汚染された水約10万立方メートルがソメシュ川、ティサ川、ドナウ川の水系に流れ込んだ。この流出によりハンガリーとセルビアで大量の魚が死に、チェルノブイリ以来ヨーロッパ最悪級の環境災害となった。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "NATO membership",
+    "ko": "NATO 가입",
+    "zh": "加入北约",
+    "ja": "NATO加盟"
+   },
+   "description": {
+    "en": "On 29 March 2004 Romania joined NATO together with six other Central and Eastern European states. Membership anchored the country in Western security structures after decades in the Warsaw Pact, and Romania later hosted allied bases and a US missile-defence site at Deveselu.",
+    "ko": "2004년 3월 29일 루마니아는 다른 중·동유럽 6개국과 함께 NATO에 가입했다. 이로써 바르샤바 조약기구에서 보낸 수십 년을 뒤로하고 서방 안보 체제에 확고히 편입되었으며, 이후 루마니아는 동맹군 기지와 데베셀루의 미국 미사일 방어 시설을 유치했다.",
+    "zh": "2004年3月29日，罗马尼亚与另外六个中东欧国家一同加入北约。在经历数十年华沙条约组织时期后，罗马尼亚由此牢固融入西方安全体系，此后还承接了盟军基地和位于德韦塞卢的美国导弹防御设施。",
+    "ja": "2004年3月29日、ルーマニアは他の中東欧6か国とともにNATOに加盟した。ワルシャワ条約機構での数十年を経て西側の安全保障体制にしっかりと組み込まれ、その後ルーマニアは同盟軍の基地やデヴェセルの米国ミサイル防衛施設を受け入れた。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": "Q1970772",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Accession to the European Union",
+    "ko": "유럽연합 가입",
+    "zh": "加入欧洲联盟",
+    "ja": "欧州連合への加盟"
+   },
+   "description": {
+    "en": "On 1 January 2007 Romania became a member of the European Union together with Bulgaria, completing its post-communist turn toward European integration. Membership brought EU funds and rapid growth but also mass labour emigration to Western Europe; Romania remained under a special monitoring mechanism for justice and anti-corruption reforms until 2023.",
+    "ko": "2007년 1월 1일 루마니아는 불가리아와 함께 유럽연합 회원국이 되어 탈공산주의 이후 유럽 통합으로의 전환을 완성했다. 가입은 EU 기금과 빠른 성장을 가져왔지만 서유럽으로의 대규모 노동 이주도 낳았으며, 루마니아는 2023년까지 사법·반부패 개혁에 대한 특별 감시 체계를 적용받았다.",
+    "zh": "2007年1月1日，罗马尼亚与保加利亚一同成为欧洲联盟成员国，完成了后共产主义时代迈向欧洲一体化的转型。入盟带来了欧盟资金和快速增长，也引发了大规模劳动力移居西欧；罗马尼亚在司法和反腐改革方面受欧盟特别监督机制约束，直至2023年。",
+    "ja": "2007年1月1日、ルーマニアはブルガリアとともに欧州連合の加盟国となり、共産主義体制崩壊後の欧州統合への転換を完成させた。加盟はEU資金と急成長をもたらす一方、西欧への大規模な労働移住も生んだ。ルーマニアは2023年まで司法・汚職対策改革に関する特別監視制度の対象となった。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q2718864",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "NATO Bucharest summit",
+    "ko": "NATO 부쿠레슈티 정상회의",
+    "zh": "北约布加勒斯特峰会",
+    "ja": "NATOブカレスト首脳会議"
+   },
+   "description": {
+    "en": "In April 2008 Bucharest hosted a NATO summit, held in the Palace of the Parliament, which invited Albania and Croatia to join the alliance. The summit also declared that Ukraine and Georgia would become members one day, without granting them a Membership Action Plan.",
+    "ko": "2008년 4월 부쿠레슈티 의회궁에서 NATO 정상회의가 열려 알바니아와 크로아티아를 동맹에 초청했다. 회의는 또한 우크라이나와 조지아가 언젠가 회원국이 될 것이라고 선언했으나, 가입 행동 계획(MAP)은 부여하지 않았다.",
+    "zh": "2008年4月，北约峰会在布加勒斯特议会宫举行，邀请阿尔巴尼亚和克罗地亚加入联盟。峰会还宣布乌克兰和格鲁吉亚终将成为成员国，但未给予两国\"成员国行动计划\"。",
+    "ja": "2008年4月、ブカレストの国民の館（議会宮殿）でNATO首脳会議が開かれ、アルバニアとクロアチアの加盟が招請された。会議はウクライナとジョージアがいずれ加盟国になると宣言したが、加盟行動計画（MAP）は付与しなかった。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q7362659",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Klaus Iohannis elected president",
+    "ko": "클라우스 요하니스 대통령 당선",
+    "zh": "克劳斯·约翰尼斯当选总统",
+    "ja": "クラウス・ヨハニス大統領当選"
+   },
+   "description": {
+    "en": "In November 2014 Klaus Iohannis, the ethnic German mayor of Sibiu, won the presidential election in an upset over Prime Minister Victor Ponta, helped by a surge of voters including the diaspora. He was re-elected in 2019 and served until his resignation in February 2025.",
+    "ko": "2014년 11월 시비우 시장이던 독일계 클라우스 요하니스가 해외 거주자를 포함한 유권자들의 대거 투표에 힘입어 빅토르 폰타 총리를 꺾고 대통령에 당선되는 이변을 일으켰다. 그는 2019년 재선되었고 2025년 2월 사임할 때까지 재임했다.",
+    "zh": "2014年11月，德意志族的锡比乌市长克劳斯·约翰尼斯在包括海外侨民在内的选民踊跃投票的推动下，爆冷击败总理维克托·蓬塔当选总统。他于2019年连任，任职至2025年2月辞职。",
+    "ja": "2014年11月、シビウ市長だったドイツ系のクラウス・ヨハニスが、在外有権者を含む投票の急増に後押しされ、ヴィクトル・ポンタ首相を破って大統領に当選する番狂わせを起こした。彼は2019年に再選され、2025年2月に辞任するまで在任した。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q21282871",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Colectiv nightclub fire",
+    "ko": "콜렉티브 나이트클럽 화재",
+    "zh": "\"集体\"夜总会火灾",
+    "ja": "コレクティヴ・ナイトクラブ火災"
+   },
+   "description": {
+    "en": "On 30 October 2015 pyrotechnics set fire to the Colectiv club in Bucharest during a rock concert; 64 people died, many of them later in hospital from burns and infections. Mass protests blaming corruption and lax enforcement forced the resignation of Prime Minister Victor Ponta's government.",
+    "ko": "2015년 10월 30일 부쿠레슈티의 콜렉티브 클럽에서 록 공연 중 불꽃 연출로 화재가 발생해 64명이 사망했으며, 다수는 이후 병원에서 화상과 감염으로 숨졌다. 부패와 허술한 단속을 규탄하는 대규모 시위로 빅토르 폰타 총리 정부가 사퇴했다.",
+    "zh": "2015年10月30日，布加勒斯特\"集体\"夜总会在摇滚演出中因烟火引发火灾，64人死亡，其中许多人后来在医院死于烧伤和感染。民众以腐败和监管松懈为由举行大规模抗议，迫使维克托·蓬塔总理的政府辞职。",
+    "ja": "2015年10月30日、ブカレストのクラブ「コレクティヴ」でロックコンサート中に花火の演出から火災が起き、64人が死亡した。その多くは後に病院で火傷や感染症により亡くなった。汚職と緩い取り締まりを糾弾する大規模な抗議により、ヴィクトル・ポンタ首相の政府は総辞職した。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q28482411",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Anti-corruption protests",
+    "ko": "반부패 시위",
+    "zh": "反腐败抗议",
+    "ja": "反汚職デモ"
+   },
+   "description": {
+    "en": "In January–February 2017 the government passed an emergency ordinance that would have decriminalized some abuse-of-office offences, prompting the largest protests since 1989, with hundreds of thousands in the streets nationwide. The ordinance was withdrawn, but protests against attempts to weaken anti-corruption laws continued until 2019.",
+    "ko": "2017년 1~2월 정부가 일부 직권 남용 범죄를 비범죄화하는 긴급 명령을 통과시키자, 1989년 이후 최대 규모의 시위가 일어나 전국에서 수십만 명이 거리로 나섰다. 긴급 명령은 철회되었지만, 반부패법을 약화하려는 시도에 맞선 시위는 2019년까지 이어졌다.",
+    "zh": "2017年1至2月，政府通过一项将部分滥用职权罪行除罪化的紧急法令，引发1989年以来规模最大的抗议，全国数十万人走上街头。该法令被撤回，但反对削弱反腐法律的抗议一直持续到2019年。",
+    "ja": "2017年1〜2月、政府が一部の職権濫用罪を非犯罪化する緊急政令を可決すると、1989年以来最大規模の抗議が起き、全国で数十万人が街頭に出た。政令は撤回されたが、反汚職法の弱体化に反対する抗議は2019年まで続いた。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q57980933",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Romania holds the EU Council presidency",
+    "ko": "루마니아의 EU 이사회 의장국 수임",
+    "zh": "罗马尼亚担任欧盟理事会轮值主席国",
+    "ja": "ルーマニアのEU理事会議長国就任"
+   },
+   "description": {
+    "en": "From January to June 2019 Romania held the rotating presidency of the Council of the European Union for the first time. It hosted an informal EU summit in Sibiu in May 2019, which adopted a declaration on the future of the Union.",
+    "ko": "2019년 1월부터 6월까지 루마니아는 처음으로 EU 이사회 순회 의장국을 맡았다. 2019년 5월에는 시비우에서 비공식 EU 정상회의를 개최해 연합의 미래에 관한 선언을 채택했다.",
+    "zh": "2019年1月至6月，罗马尼亚首次担任欧盟理事会轮值主席国。2019年5月，罗马尼亚在锡比乌主办欧盟非正式峰会，会议通过了关于欧盟未来的宣言。",
+    "ja": "2019年1月から6月まで、ルーマニアは初めてEU理事会の輪番議長国を務めた。2019年5月にはシビウで非公式のEU首脳会議を開催し、連合の将来に関する宣言が採択された。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87250752",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in Romania",
+    "ko": "루마니아의 코로나19 팬데믹",
+    "zh": "罗马尼亚的新冠疫情",
+    "ja": "ルーマニアにおける新型コロナウイルスの流行"
+   },
+   "description": {
+    "en": "The first COVID-19 case in Romania was confirmed in February 2020, and a state of emergency with a strict lockdown followed in March. The pandemic exposed weaknesses in the health system, highlighted by deadly hospital fires in Piatra Neamț (2020) and Bucharest (2021), and Romania had one of the lowest vaccination rates in the EU.",
+    "ko": "2020년 2월 루마니아에서 첫 코로나19 확진자가 확인되었고, 3월에는 비상사태와 함께 엄격한 봉쇄가 시행되었다. 팬데믹은 피아트라네암츠(2020)와 부쿠레슈티(2021)의 치명적인 병원 화재로 상징되는 보건 체계의 약점을 드러냈으며, 루마니아는 EU에서 백신 접종률이 가장 낮은 나라 중 하나였다.",
+    "zh": "2020年2月罗马尼亚确诊首例新冠病例，3月宣布进入紧急状态并实行严格封锁。疫情暴露了医疗体系的薄弱，皮亚特拉尼亚姆茨（2020年）和布加勒斯特（2021年）的致命医院火灾尤为突出；罗马尼亚的疫苗接种率也是欧盟最低之一。",
+    "ja": "2020年2月にルーマニアで最初の新型コロナ感染者が確認され、3月には非常事態宣言とともに厳しいロックダウンが実施された。パンデミックは、ピアトラ・ネアムツ（2020年）とブカレスト（2021年）の死者を出した病院火災に象徴される保健体制の弱さを露呈させ、ルーマニアのワクチン接種率はEUで最も低い水準の一つだった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q84029141",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Annulment of the 2024 presidential election",
+    "ko": "2024년 대통령 선거 무효화",
+    "zh": "2024年总统选举被宣布无效",
+    "ja": "2024年大統領選挙の無効化"
+   },
+   "description": {
+    "en": "In November 2024 the little-known far-right independent Călin Georgescu unexpectedly won the first round of the presidential election after a viral TikTok campaign. On 6 December, after declassified intelligence reports alleged a coordinated online campaign and foreign (Russian) interference, the Constitutional Court annulled the whole election — an unprecedented step that sparked protests and a fierce debate.",
+    "ko": "2024년 11월 무명에 가까웠던 극우 무소속 후보 컬린 조르제스쿠가 틱톡에서 확산된 선거 운동에 힘입어 대통령 선거 1차 투표에서 뜻밖에 1위를 차지했다. 12월 6일 조직적인 온라인 캠페인과 외국(러시아)의 개입을 주장하는 정보 보고서가 기밀 해제된 뒤 헌법재판소는 선거 전체를 무효화했는데, 이 전례 없는 조치는 시위와 격렬한 논쟁을 불러일으켰다.",
+    "zh": "2024年11月，几乎默默无闻的极右翼独立候选人克林·乔治斯库借助在TikTok上爆红的竞选活动，出人意料地赢得总统选举第一轮。12月6日，在解密的情报报告指称存在有组织的网络宣传和外国（俄罗斯）干预之后，宪法法院宣布整个选举无效——这一前所未有的举措引发了抗议和激烈争论。",
+    "ja": "2024年11月、ほぼ無名だった極右の無所属候補カリン・ジョルジェスクが、TikTokで拡散した選挙運動に乗って大統領選挙の第1回投票で予想外の首位となった。12月6日、組織的なオンライン工作と外国（ロシア）の干渉を指摘する情報機関の報告書が機密解除された後、憲法裁判所は選挙全体を無効とした。この前例のない措置は抗議と激しい論争を巻き起こした。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Full Schengen membership",
+    "ko": "솅겐 지역 완전 가입",
+    "zh": "全面加入申根区",
+    "ja": "シェンゲン圏への完全加盟"
+   },
+   "description": {
+    "en": "On 1 January 2025 Romania, together with Bulgaria, became a full member of the Schengen Area, with land border checks lifted. Air and sea border controls had already been removed in March 2024, ending a wait of more than a decade since the country was first judged technically ready.",
+    "ko": "2025년 1월 1일 루마니아는 불가리아와 함께 솅겐 지역의 완전한 회원국이 되어 육로 국경 검문이 폐지되었다. 항공·해상 국경 검문은 이미 2024년 3월에 폐지되었으며, 이로써 기술적 준비가 끝났다는 평가를 처음 받은 뒤 10년 넘게 이어진 기다림이 끝났다.",
+    "zh": "2025年1月1日，罗马尼亚与保加利亚一同成为申根区正式成员，取消了陆地边境检查。空中和海上边境管控已于2024年3月取消，至此结束了自该国首次被认定技术上达标以来十余年的等待。",
+    "ja": "2025年1月1日、ルーマニアはブルガリアとともにシェンゲン圏の完全な加盟国となり、陸上国境の検査が撤廃された。空路・海路の国境管理はすでに2024年3月に撤廃されており、技術的な準備が整ったと初めて評価されてから10年以上に及んだ待機が終わった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q131398188",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Nicușor Dan wins the rerun presidential election",
+    "ko": "재선거에서 니쿠쇼르 단 대통령 당선",
+    "zh": "尼库谢尔·丹赢得重新举行的总统选举",
+    "ja": "やり直し大統領選でニクショル・ダンが当選"
+   },
+   "description": {
+    "en": "In the rerun presidential election of May 2025, from which Călin Georgescu had been barred, nationalist George Simion led the first round, but Bucharest mayor Nicușor Dan, a pro-European independent, won the runoff on 18 May with high turnout. The result kept Romania on its pro-EU and pro-NATO course.",
+    "ko": "컬린 조르제스쿠의 출마가 금지된 가운데 치러진 2025년 5월 대통령 재선거에서 민족주의자 조르제 시미온이 1차 투표 1위를 차지했지만, 5월 18일 결선 투표에서 높은 투표율 속에 친유럽 무소속인 부쿠레슈티 시장 니쿠쇼르 단이 승리했다. 이 결과로 루마니아는 친EU·친NATO 노선을 유지했다.",
+    "zh": "在禁止克林·乔治斯库参选的2025年5月重新举行的总统选举中，民族主义者乔治·西米翁在第一轮领先，但亲欧的无党派布加勒斯特市长尼库谢尔·丹在5月18日的第二轮投票中以高投票率胜出。这一结果使罗马尼亚保持了亲欧盟、亲北约的路线。",
+    "ja": "カリン・ジョルジェスクの立候補が禁じられた2025年5月のやり直し大統領選挙では、民族主義者ジョルジェ・シミオンが第1回投票で首位に立ったが、5月18日の決選投票では高い投票率のもと、親欧州の無所属でブカレスト市長のニクショル・ダンが勝利した。この結果によりルーマニアは親EU・親NATOの路線を維持した。"
+   }
+  }
+ ]
+}

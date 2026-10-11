@@ -1,0 +1,2206 @@
+{
+ "iso": "EE",
+ "eras": [
+  {
+   "from": -9000,
+   "to": -1800,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Stone Age Estonia",
+    "ko": "에스토니아 석기 시대",
+    "zh": "爱沙尼亚石器时代",
+    "ja": "エストニアの石器時代"
+   },
+   "summary": {
+    "en": "After the ice sheet retreated, hunter-fishers settled the land: the Pulli site near Pärnu (c. 9000 BC) is the oldest known settlement. The Mesolithic Kunda culture was followed by the Narva culture and the Comb Ceramic culture, whose people are often linked to early Finnic speakers. From c. 2800 BC the Corded Ware culture brought the first farming and animal husbandry.",
+    "ko": "빙하가 물러난 뒤 수렵·어로민이 이 땅에 정착했으며, 패르누 인근 풀리 유적(기원전 약 9000년)이 가장 오래된 정착지로 알려져 있다. 중석기 시대 쿤다 문화에 이어 나르바 문화와 빗살무늬토기 문화가 나타났는데, 후자는 흔히 초기 핀계 언어 사용자와 연결된다. 기원전 약 2800년부터 승문토기 문화가 최초의 농경과 목축을 들여왔다.",
+    "zh": "冰盖退去后，渔猎者来到这片土地定居，派尔努附近的普利遗址（约前9000年）是已知最古老的聚落。中石器时代的昆达文化之后，相继出现纳尔瓦文化和篦纹陶文化，后者常被认为与早期芬兰语族人群有关。约前2800年起，绳纹陶文化带来了最早的农耕与畜牧。",
+    "ja": "氷床が後退すると狩猟・漁労民が定住し、パルヌ近郊のプッリ遺跡（前9000年頃）が知られる最古の集落である。中石器時代のクンダ文化の後、ナルヴァ文化と櫛目文土器文化が続き、後者はしばしば初期フィン系言語の話者と結びつけられる。前2800年頃からは縄目文土器文化が最初の農耕と牧畜をもたらした。"
+   }
+  },
+  {
+   "from": -1800,
+   "to": -500,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bronze Age",
+    "ko": "청동기 시대",
+    "zh": "青铜时代",
+    "ja": "青銅器時代"
+   },
+   "summary": {
+    "en": "Bronze objects reached the region through Scandinavian and eastern contacts, and coastal communities built stone-cist graves and fortified settlements such as Asva on Saaremaa, where bronze was cast. Agriculture and cattle-raising spread, and the Kaali meteorite crater on Saaremaa was formed during this broad period. Northern Estonia was drawn into Baltic Sea exchange networks.",
+    "ko": "청동기는 스칸디나비아 및 동방과의 교류를 통해 전해졌고, 해안 공동체는 석관묘와 사아레마섬의 아스바 같은 요새화된 취락을 세워 청동을 주조했다. 농경과 목축이 확산되었으며, 사아레마의 칼리 운석공도 대략 이 시기에 형성되었다. 북부 에스토니아는 발트해 교역망에 편입되었다.",
+    "zh": "青铜器经由与斯堪的纳维亚及东方的交流传入，沿海社群修建石棺墓和设防聚落，如萨雷马岛上铸造青铜的阿斯瓦。农业和畜牧业逐步扩展，萨雷马岛的卡利陨石坑也大致形成于这一时期。爱沙尼亚北部被纳入波罗的海交换网络。",
+    "ja": "青銅器はスカンディナヴィアや東方との接触を通じて伝わり、沿岸の共同体は石棺墓や、青銅を鋳造したサーレマー島のアスヴァのような防御集落を築いた。農耕と牧畜が広がり、サーレマー島のカーリ隕石孔もおおむねこの時期に形成された。北エストニアはバルト海の交易網に組み込まれた。"
+   }
+  },
+  {
+   "from": -500,
+   "to": 450,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Pre-Roman and Roman Iron Age",
+    "ko": "전로마·로마 철기 시대",
+    "zh": "前罗马与罗马铁器时代",
+    "ja": "先ローマ・ローマ鉄器時代"
+   },
+   "summary": {
+    "en": "Iron came into use and was later smelted locally from bog ore. Farming communities buried their dead in characteristic stone 'tarand' graves, and the Roman Iron Age brought Roman coins and bronze ornaments through Baltic trade. Settled fields and villages took shape across the land.",
+    "ko": "철이 쓰이기 시작했고 이후 늪철광으로 현지에서 제련되었다. 농경 공동체는 특유의 돌 '타란드' 무덤에 망자를 묻었고, 로마 철기 시대에는 발트 교역을 통해 로마 주화와 청동 장신구가 들어왔다. 전국에 정착 농경지와 마을이 형성되었다.",
+    "zh": "铁器开始使用，后来人们用沼铁矿在当地冶炼。农耕社群把死者葬入特有的石砌“塔兰德”墓，罗马铁器时代通过波罗的海贸易带来了罗马钱币和青铜饰品。各地逐渐形成定居的农田与村落。",
+    "ja": "鉄が使われ始め、のちに沼鉄鉱から現地で製錬されるようになった。農耕共同体は特徴的な石積みの「タランド墓」に死者を葬り、ローマ鉄器時代にはバルト海交易を通じてローマの貨幣や青銅装身具がもたらされた。各地に定住の農地と村落が形づくられた。"
+   }
+  },
+  {
+   "from": 450,
+   "to": 1050,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Middle Iron Age and Viking Age",
+    "ko": "중기 철기·바이킹 시대",
+    "zh": "中铁器时代与维京时代",
+    "ja": "中期鉄器時代・ヴァイキング時代"
+   },
+   "summary": {
+    "en": "Hillforts multiplied as societies became more stratified, and coastal Estonians took part in Baltic seafaring, trade and raiding. The Salme ship burials on Saaremaa (c. 750) show close contact with Scandinavia, and Arab silver coins flowed in along eastern trade routes. Rus' princes from Novgorod and Kyiv began to campaign in the region.",
+    "ko": "사회 계층화가 진행되면서 언덕 요새가 늘어났고, 해안의 에스토니아인은 발트해 항해·교역·약탈에 참여했다. 사아레마의 살메 배 무덤(약 750년)은 스칸디나비아와의 긴밀한 접촉을 보여 주며, 동방 교역로를 따라 아랍 은화가 유입되었다. 노브고로드와 키이우의 루스 공들이 이 지역 원정을 시작했다.",
+    "zh": "随着社会分层加剧，山堡日益增多，沿海的爱沙尼亚人参与波罗的海航海、贸易与劫掠。萨雷马岛的萨尔梅船葬（约750年）显示出与斯堪的纳维亚的密切联系，阿拉伯银币也沿东方商路流入。诺夫哥罗德和基辅的罗斯王公开始征讨这一地区。",
+    "ja": "社会の階層化が進むにつれて丘砦が増え、沿岸のエストニア人はバルト海の航海・交易・略奪に加わった。サーレマー島のサルメ船葬（750年頃）はスカンディナヴィアとの密接な関係を示し、東方の交易路からはアラブの銀貨が流入した。ノヴゴロドやキーウのルーシ諸公がこの地域へ遠征を始めた。"
+   }
+  },
+  {
+   "from": 1050,
+   "to": 1227,
+   "kind": "culture",
+   "qid": "Q2334663",
+   "polity": null,
+   "name": {
+    "en": "Ancient Estonia: the Late Iron Age counties",
+    "ko": "고대 에스토니아: 후기 철기 시대의 지방들",
+    "zh": "古代爱沙尼亚：晚铁器时代诸郡",
+    "ja": "古代エストニア：後期鉄器時代の諸地方"
+   },
+   "summary": {
+    "en": "On the eve of the crusades the Estonians lived in self-governing parishes grouped into counties (maakonnad) such as Sakala, Ugandi, Harju, Virumaa and Saaremaa, each with hillfort centers. There was no single ruler, though counties allied in war. Islanders of Saaremaa were feared seafarers, and pagan religion persisted despite missionary efforts.",
+    "ko": "십자군 직전 에스토니아인은 자치적인 교구(키헬콘드)들이 모인 사칼라, 우간디, 하르유, 비루마, 사아레마 등의 지방(마콘드)에 살았으며, 각 지방에는 언덕 요새 중심지가 있었다. 단일 통치자는 없었지만 전쟁 때는 지방들이 동맹을 맺었다. 사아레마 섬사람들은 두려운 항해자였고, 선교 시도에도 불구하고 토착 신앙이 유지되었다.",
+    "zh": "十字军到来前夕，爱沙尼亚人生活在自治的教区中，这些教区组成萨卡拉、乌甘迪、哈留、维鲁马、萨雷马等郡，各郡以山堡为中心。当时没有统一的统治者，但各郡在战时结盟。萨雷马岛民是令人畏惧的航海者，尽管有传教活动，本土多神信仰仍延续不衰。",
+    "ja": "十字軍の直前、エストニア人は自治的な教区がまとまったサカラ、ウガンディ、ハリユ、ヴィルマー、サーレマーなどの地方（マーコンド）に住み、各地方には丘砦の拠点があった。単一の支配者はいなかったが、戦時には地方同士が同盟した。サーレマーの島民は恐れられた航海者で、宣教の試みにもかかわらず土着の信仰が保たれた。"
+   }
+  },
+  {
+   "from": 1208,
+   "to": 1237,
+   "kind": "state",
+   "qid": "Q157605",
+   "polity": "Livonian Brothers of the Sword",
+   "name": {
+    "en": "Livonian Brothers of the Sword",
+    "ko": "리보니아 검의 형제 기사단",
+    "zh": "宝剑骑士团",
+    "ja": "リヴォニア帯剣騎士団"
+   },
+   "summary": {
+    "en": "The crusading order founded in Riga in 1202 led the German conquest of southern and central Estonia from 1208, often together with the Bishop of Riga. It briefly seized Danish-held northern Estonia as well. After its crushing defeat at Saule in 1236 the remnant was merged into the Teutonic Order in 1237.",
+    "ko": "1202년 리가에서 창설된 이 십자군 기사단은 1208년부터 흔히 리가 주교와 함께 에스토니아 남부와 중부에 대한 독일인의 정복을 이끌었다. 한때 덴마크령 북부 에스토니아까지 장악하기도 했다. 1236년 사울레 전투에서 대패한 뒤 남은 세력은 1237년 튜턴 기사단에 통합되었다.",
+    "zh": "这一1202年创立于里加的十字军骑士团自1208年起主导德意志人对爱沙尼亚南部和中部的征服，常与里加主教联手。它一度还夺取了丹麦控制的爱沙尼亚北部。1236年在绍勒战役中惨败后，残部于1237年并入条顿骑士团。",
+    "ja": "1202年にリガで創設されたこの騎士修道会は、1208年からしばしばリガ司教と組んでエストニア南部・中部のドイツ人による征服を主導した。一時はデンマーク領の北エストニアも奪った。1236年のザウレの戦いで大敗した後、残存勢力は1237年にドイツ騎士団へ統合された。"
+   }
+  },
+  {
+   "from": 1219,
+   "to": 1346,
+   "kind": "state",
+   "qid": "Q756617",
+   "polity": "Kingdom of Denmark",
+   "name": {
+    "en": "Danish Estonia",
+    "ko": "덴마크령 에스토니아",
+    "zh": "丹麦属爱沙尼亚",
+    "ja": "デンマーク領エストニア"
+   },
+   "summary": {
+    "en": "After the 1219 victory at Lyndanise, the Danish crown held northern Estonia (Harju and Virumaa) as the Duchy of Estonia, with Tallinn (Reval) as its center. Rule was exercised largely through German vassals, and Tallinn grew into a Hanseatic town under Lübeck law. After the St George's Night Uprising, Denmark sold the province to the Teutonic Order in 1346.",
+    "ko": "1219년 륀다니세 승리 이후 덴마크 왕실은 탈린(레발)을 중심으로 북부 에스토니아(하르유와 비루마)를 에스토니아 공국으로 보유했다. 통치는 주로 독일계 봉신을 통해 이루어졌고, 탈린은 뤼베크법 아래 한자 도시로 성장했다. 성 게오르기우스 밤 봉기 이후 덴마크는 1346년 이 지역을 튜턴 기사단에 팔았다.",
+    "zh": "1219年林达尼塞之战获胜后，丹麦王室以塔林（雷瓦尔）为中心，将爱沙尼亚北部（哈留和维鲁马）作为爱沙尼亚公国统治。统治主要依靠德意志封臣，塔林在吕贝克法下发展为汉萨城市。圣乔治之夜起义后，丹麦于1346年将该地卖给条顿骑士团。",
+    "ja": "1219年のリュンダニセの勝利後、デンマーク王家はタリン（レヴァル）を中心に北エストニア（ハリユとヴィルマー）をエストニア公領として保持した。統治は主にドイツ系の封臣を通じて行われ、タリンはリューベック法のもとハンザ都市に成長した。聖ゲオルギウスの夜の蜂起の後、デンマークは1346年にこの地をドイツ騎士団に売却した。"
+   }
+  },
+  {
+   "from": 1224,
+   "to": 1558,
+   "kind": "state",
+   "qid": "Q389360",
+   "polity": null,
+   "name": {
+    "en": "Bishopric of Dorpat",
+    "ko": "도르파트 주교령",
+    "zh": "多尔帕特主教国",
+    "ja": "ドルパト司教領"
+   },
+   "summary": {
+    "en": "After the fall of Tartu in 1224, southeastern Estonia became an ecclesiastical principality ruled by the Bishop of Dorpat (Tartu). Its seat at Tartu, with a great Gothic cathedral, was a Hanseatic town trading with Pskov and Novgorod. The bishopric was destroyed when Russian forces captured Tartu in 1558 at the start of the Livonian War.",
+    "ko": "1224년 타르투 함락 후 에스토니아 남동부는 도르파트(타르투) 주교가 다스리는 교회 제후국이 되었다. 거대한 고딕 대성당이 있던 주교좌 타르투는 프스코프·노브고로드와 교역하는 한자 도시였다. 주교령은 리보니아 전쟁 초기인 1558년 러시아군이 타르투를 점령하면서 소멸했다.",
+    "zh": "1224年塔尔图陷落后，爱沙尼亚东南部成为由多尔帕特（塔尔图）主教统治的教会公国。主教驻地塔尔图建有宏伟的哥特式大教堂，是与普斯科夫和诺夫哥罗德通商的汉萨城市。1558年利沃尼亚战争初期俄军攻占塔尔图，主教国随之覆灭。",
+    "ja": "1224年のタルトゥ陥落後、エストニア南東部はドルパト（タルトゥ）司教が治める教会領邦となった。巨大なゴシック大聖堂を擁する司教座タルトゥは、プスコフやノヴゴロドと交易するハンザ都市だった。司教領は、リヴォニア戦争の初めの1558年にロシア軍がタルトゥを占領したことで消滅した。"
+   }
+  },
+  {
+   "from": 1228,
+   "to": 1560,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bishopric of Ösel–Wiek",
+    "ko": "외젤-비크 주교령",
+    "zh": "厄塞尔－维克主教国",
+    "ja": "エーゼル＝ヴィーク司教領"
+   },
+   "summary": {
+    "en": "Western Estonia and the islands formed the prince-bishopric of Ösel–Wiek (Saare–Lääne), with seats at Haapsalu and Kuressaare. Saaremaa islanders rebelled repeatedly against its rule. In 1559–60 the last bishop sold his lands to Denmark, which installed Duke Magnus.",
+    "ko": "서부 에스토니아와 섬들은 합살루와 쿠레사레를 거점으로 한 외젤-비크(사아레-래네) 주교령을 이루었다. 사아레마 섬 주민들은 그 지배에 거듭 반란을 일으켰다. 1559~1560년 마지막 주교가 영지를 덴마크에 팔았고, 덴마크는 마그누스 공을 앉혔다.",
+    "zh": "爱沙尼亚西部及诸岛构成厄塞尔－维克（萨雷－莱内）主教国，以哈普萨卢和库雷萨雷为中心。萨雷马岛民屡次反抗其统治。1559至1560年，末代主教将领地卖给丹麦，丹麦遂派马格努斯公爵入主。",
+    "ja": "西エストニアと島々は、ハープサルとクレサーレを拠点とするエーゼル＝ヴィーク（サーレ＝ラーネ）司教領を形成した。サーレマーの島民はその支配にたびたび反乱を起こした。1559～60年、最後の司教は所領をデンマークに売り、デンマークはマグヌス公を据えた。"
+   }
+  },
+  {
+   "from": 1237,
+   "to": 1421,
+   "kind": "state",
+   "qid": "Q48189",
+   "polity": "Teutonic Order",
+   "name": {
+    "en": "Teutonic Order in Livonia (Livonian Order)",
+    "ko": "리보니아의 튜턴 기사단(리보니아 기사단)",
+    "zh": "利沃尼亚的条顿骑士团（利沃尼亚骑士团）",
+    "ja": "リヴォニアのドイツ騎士団（リヴォニア騎士団）"
+   },
+   "summary": {
+    "en": "The Livonian branch of the Teutonic Order ruled central Estonia from castles such as Viljandi, Paide and Rakvere, and after 1346 also the former Danish north. The order, bishops, vassals and Hanseatic towns formed the ruling German-speaking elite, while Estonian peasants were gradually reduced to serfdom.",
+    "ko": "튜턴 기사단의 리보니아 지부는 빌잔디, 파이데, 라크베레 등의 성에서 중부 에스토니아를 다스렸고, 1346년 이후에는 옛 덴마크령 북부도 지배했다. 기사단, 주교, 봉신, 한자 도시가 독일어를 쓰는 지배 엘리트를 이루었고, 에스토니아 농민은 점차 농노로 전락했다.",
+    "zh": "条顿骑士团的利沃尼亚分支以维尔扬迪、派德、拉克韦雷等城堡为据点统治爱沙尼亚中部，1346年后又统治原丹麦属北部。骑士团、主教、封臣和汉萨城市构成讲德语的统治精英，爱沙尼亚农民则逐渐沦为农奴。",
+    "ja": "ドイツ騎士団のリヴォニア支部は、ヴィリャンディ、パイデ、ラクヴェレなどの城から中部エストニアを治め、1346年以降は旧デンマーク領の北部も支配した。騎士団・司教・封臣・ハンザ都市がドイツ語を話す支配層を成し、エストニア人農民はしだいに農奴化した。"
+   }
+  },
+  {
+   "from": 1422,
+   "to": 1561,
+   "kind": "state",
+   "qid": null,
+   "polity": "Livonian Conference",
+   "name": {
+    "en": "Livonian Confederation",
+    "ko": "리보니아 연맹",
+    "zh": "利沃尼亚联盟",
+    "ja": "リヴォニア連盟"
+   },
+   "summary": {
+    "en": "From the 1420s the Livonian Order, the bishoprics and the towns coordinated through a common diet (Landtag), often meeting at Valga (Walk). This loose confederation covered all of present-day Estonia and Latvia. The Reformation spread through its towns in the 1520s, and the confederation collapsed during the Livonian War that began in 1558.",
+    "ko": "1420년대부터 리보니아 기사단, 주교령들, 도시들은 흔히 발가(발크)에서 열린 공동 의회(란트타크)를 통해 협력했다. 이 느슨한 연맹은 오늘날 에스토니아와 라트비아 전역을 아울렀다. 1520년대 도시들에 종교 개혁이 퍼졌고, 연맹은 1558년 시작된 리보니아 전쟁 중 붕괴했다.",
+    "zh": "15世纪20年代起，利沃尼亚骑士团、各主教国和城市通过常在瓦尔加（瓦尔克）召开的共同议会进行协调。这一松散的联盟覆盖今天爱沙尼亚和拉脱维亚全境。16世纪20年代宗教改革在其城市中传播，联盟在1558年爆发的利沃尼亚战争中瓦解。",
+    "ja": "1420年代からリヴォニア騎士団、諸司教領、諸都市は、しばしばヴァルガ（ヴァルク）で開かれる共通の領邦議会を通じて協調した。この緩やかな連合は現在のエストニアとラトビアの全域を覆った。1520年代には都市に宗教改革が広がり、連盟は1558年に始まったリヴォニア戦争の中で崩壊した。"
+   }
+  },
+  {
+   "from": 1558,
+   "to": 1583,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Livonian War",
+    "ko": "리보니아 전쟁기",
+    "zh": "利沃尼亚战争时期",
+    "ja": "リヴォニア戦争期"
+   },
+   "summary": {
+    "en": "Ivan IV's invasion in 1558 shattered the Livonian Confederation, and Estonian land became a battleground of Muscovy, Sweden, Denmark and Poland–Lithuania. Russian forces held Tartu, Narva and much of the interior for years. By the truces of 1582–83 Muscovy withdrew, leaving the north to Sweden and the south to Poland–Lithuania.",
+    "ko": "1558년 이반 4세의 침공으로 리보니아 연맹이 무너지자 에스토니아 땅은 모스크바국, 스웨덴, 덴마크, 폴란드-리투아니아의 전장이 되었다. 러시아군은 수년간 타르투, 나르바와 내륙 대부분을 장악했다. 1582~1583년 휴전으로 모스크바국은 물러났고, 북부는 스웨덴, 남부는 폴란드-리투아니아에 남았다.",
+    "zh": "1558年伊凡四世入侵，利沃尼亚联盟崩溃，爱沙尼亚土地成为莫斯科公国、瑞典、丹麦和波兰－立陶宛争夺的战场。俄军多年占据塔尔图、纳尔瓦及大部分内地。1582至1583年的停战协定使莫斯科撤出，北部归瑞典，南部归波兰－立陶宛。",
+    "ja": "1558年のイヴァン4世の侵攻でリヴォニア連盟は崩壊し、エストニアの地はモスクワ国、スウェーデン、デンマーク、ポーランド＝リトアニアの戦場となった。ロシア軍は長年タルトゥ、ナルヴァと内陸の大半を押さえた。1582～83年の休戦でモスクワ国は撤退し、北部はスウェーデン、南部はポーランド＝リトアニアの手に残った。"
+   }
+  },
+  {
+   "from": 1559,
+   "to": 1645,
+   "kind": "state",
+   "qid": "Q62651",
+   "polity": "Denmark-Norway",
+   "name": {
+    "en": "Danish Saaremaa",
+    "ko": "덴마크령 사아레마",
+    "zh": "丹麦属萨雷马",
+    "ja": "デンマーク領サーレマー"
+   },
+   "summary": {
+    "en": "Denmark acquired the Bishopric of Ösel–Wiek in 1559–60 and placed it under Duke Magnus, brother of King Frederick II. After Magnus's death Denmark–Norway kept Saaremaa (Ösel) until the 1645 Peace of Brömsebro transferred it to Sweden.",
+    "ko": "덴마크는 1559~1560년 외젤-비크 주교령을 사들여 프레데리크 2세의 동생 마그누스 공에게 맡겼다. 마그누스 사후에도 덴마크-노르웨이는 사아레마(외젤)를 보유했으나 1645년 브룀세브로 조약으로 스웨덴에 넘겼다.",
+    "zh": "丹麦于1559至1560年购得厄塞尔－维克主教国，交由国王腓特烈二世之弟马格努斯公爵管辖。马格努斯死后，丹麦－挪威继续保有萨雷马（厄塞尔），直到1645年《布伦瑟布鲁和约》将其割让给瑞典。",
+    "ja": "デンマークは1559～60年にエーゼル＝ヴィーク司教領を取得し、国王フレゼリク2世の弟マグヌス公に委ねた。マグヌスの死後もデンマーク＝ノルウェーはサーレマー（エーゼル）を保持したが、1645年のブレムセブロー条約でスウェーデンに割譲した。"
+   }
+  },
+  {
+   "from": 1561,
+   "to": 1629,
+   "kind": "state",
+   "qid": "Q1352878",
+   "polity": "Polish-Lithuanian Commonwealth",
+   "name": {
+    "en": "Polish–Lithuanian Livonia",
+    "ko": "폴란드-리투아니아령 리보니아",
+    "zh": "波兰－立陶宛属利沃尼亚",
+    "ja": "ポーランド＝リトアニア領リヴォニア"
+   },
+   "summary": {
+    "en": "Southern Estonia, including Tartu, was part of the Duchy of Livonia under the Grand Duchy of Lithuania and then the Polish–Lithuanian Commonwealth. Catholic Counter-Reformation efforts, including a Jesuit college in Tartu, marked the period. Repeated Polish–Swedish wars devastated the region until Sweden won it, confirmed by the Truce of Altmark in 1629.",
+    "ko": "타르투를 포함한 남부 에스토니아는 리투아니아 대공국, 이어 폴란드-리투아니아 연방 아래의 리보니아 공국에 속했다. 타르투의 예수회 학교 등 가톨릭 반종교개혁 활동이 이 시기의 특징이었다. 거듭된 폴란드-스웨덴 전쟁으로 지역이 황폐해졌고, 결국 스웨덴이 이를 차지해 1629년 알트마르크 휴전으로 확정되었다.",
+    "zh": "包括塔尔图在内的爱沙尼亚南部隶属立陶宛大公国、后为波兰－立陶宛联邦治下的利沃尼亚公国。天主教反宗教改革活动是这一时期的特点，塔尔图还设有耶稣会学院。波兰与瑞典之间的反复战争使该地区满目疮痍，最终瑞典获胜，并由1629年《阿尔特马克停战协定》确认。",
+    "ja": "タルトゥを含む南エストニアは、リトアニア大公国、続いてポーランド＝リトアニア共和国のもとでリヴォニア公国に属した。タルトゥのイエズス会学院など、カトリックの対抗宗教改革がこの時期を特徴づけた。度重なるポーランド・スウェーデン戦争で地域は荒廃し、最終的にスウェーデンが獲得して1629年のアルトマルク休戦で確定した。"
+   }
+  },
+  {
+   "from": 1561,
+   "to": 1721,
+   "kind": "state",
+   "qid": "Q16835712",
+   "polity": "Swedish Empire",
+   "name": {
+    "en": "Swedish Estonia",
+    "ko": "스웨덴령 에스토니아",
+    "zh": "瑞典属爱沙尼亚",
+    "ja": "スウェーデン領エストニア"
+   },
+   "summary": {
+    "en": "Northern Estonia submitted to Sweden in 1561 as the Duchy of Estonia; the south (Swedish Livonia) followed by 1629 and Saaremaa in 1645. Sweden founded the University of Tartu, promoted Lutheran schooling and Estonian-language books, and tried to limit the Baltic German nobles' power over peasants. Later remembered as 'the good old Swedish time', the era ended with the Great Northern War, famine and plague.",
+    "ko": "북부 에스토니아는 1561년 에스토니아 공국으로 스웨덴에 복속했고, 남부(스웨덴령 리보니아)는 1629년까지, 사아레마는 1645년에 뒤를 이었다. 스웨덴은 타르투 대학을 세우고 루터파 학교 교육과 에스토니아어 서적을 장려했으며, 농민에 대한 발트 독일계 귀족의 권력을 제한하려 했다. 훗날 '좋았던 스웨덴 시절'로 기억되는 이 시대는 대북방 전쟁과 기근, 역병으로 끝났다.",
+    "zh": "1561年爱沙尼亚北部以爱沙尼亚公国身份归附瑞典，南部（瑞典属利沃尼亚）至1629年、萨雷马于1645年相继归属。瑞典创办塔尔图大学，推广路德宗学校教育和爱沙尼亚语书籍，并试图限制波罗的海德意志贵族对农民的权力。这一被后人称为“美好的瑞典旧时光”的时代，在大北方战争、饥荒和瘟疫中结束。",
+    "ja": "北エストニアは1561年にエストニア公国としてスウェーデンに服属し、南部（スウェーデン領リヴォニア）は1629年までに、サーレマーは1645年に続いた。スウェーデンはタルトゥ大学を創設し、ルター派の学校教育やエストニア語の書物を奨励し、農民に対するバルト・ドイツ人貴族の権力を制限しようとした。のちに「古き良きスウェーデン時代」と記憶されるこの時代は、大北方戦争と飢饉・ペストで終わった。"
+   }
+  },
+  {
+   "from": 1710,
+   "to": 1917,
+   "kind": "state",
+   "qid": "Q34266",
+   "polity": "Russian Empire",
+   "name": {
+    "en": "Russian Empire: Governorates of Estonia and Livonia",
+    "ko": "러시아 제국: 에스틀란트·리플란트 현",
+    "zh": "俄罗斯帝国：爱斯特兰与利夫兰省",
+    "ja": "ロシア帝国：エストラント・リフラント県"
+   },
+   "summary": {
+    "en": "Russia took Estonia in 1710, confirmed by the Treaty of Nystad in 1721. Northern Estonia formed the Governorate of Estonia and the south belonged to the Governorate of Livonia, both run under the 'Baltic special order' by the German nobility. Serfdom was abolished in 1816–19, and the late 19th century saw the Estonian national awakening, Russification policies and the 1905 Revolution.",
+    "ko": "러시아는 1710년 에스토니아를 장악했고 1721년 뉘스타드 조약으로 확정되었다. 북부는 에스틀란트 현, 남부는 리플란트 현에 속했으며, 둘 다 '발트 특별 체제' 아래 독일계 귀족이 운영했다. 1816~1819년 농노제가 폐지되었고, 19세기 후반에는 에스토니아 민족 각성, 러시아화 정책, 1905년 혁명이 이어졌다.",
+    "zh": "俄国于1710年夺取爱沙尼亚，1721年《尼斯塔德条约》予以确认。北部为爱斯特兰省，南部属利夫兰省，两省均在“波罗的海特别体制”下由德意志贵族管理。1816至1819年废除农奴制，19世纪后期出现爱沙尼亚民族觉醒、俄罗斯化政策和1905年革命。",
+    "ja": "ロシアは1710年にエストニアを掌握し、1721年のニスタット条約で確定した。北部はエストラント県、南部はリフラント県に属し、いずれも「バルト特別体制」のもとドイツ人貴族が運営した。1816～19年に農奴制が廃止され、19世紀後半にはエストニア民族覚醒、ロシア化政策、1905年革命が続いた。"
+   }
+  },
+  {
+   "from": 1917,
+   "to": 1918,
+   "kind": "period",
+   "qid": "Q2918340",
+   "polity": "German Empire",
+   "name": {
+    "en": "Revolution, autonomy and German occupation",
+    "ko": "혁명, 자치, 독일 점령",
+    "zh": "革命、自治与德国占领",
+    "ja": "革命・自治・ドイツ占領"
+   },
+   "summary": {
+    "en": "After the February Revolution of 1917, Estonian-speaking areas were united in an autonomous Governorate of Estonia with an elected provincial assembly, the Maapäev. German forces took the islands in autumn 1917 and the mainland in February 1918, just as independence was declared. The occupation, with plans for a German-led Baltic Duchy, ended after Germany's defeat in November 1918.",
+    "ko": "1917년 2월 혁명 이후 에스토니아어 사용 지역은 선출 지방 의회인 마페브를 둔 자치 에스토니아 현으로 통합되었다. 독일군은 1917년 가을 섬들을, 1918년 2월 독립 선언 무렵 본토를 점령했다. 독일 주도의 발트 공국 구상까지 있었던 점령은 1918년 11월 독일의 패전과 함께 끝났다.",
+    "zh": "1917年二月革命后，讲爱沙尼亚语的地区合并为设有民选省议会（马佩夫）的爱沙尼亚自治省。德军于1917年秋占领诸岛，1918年2月独立宣布之际又占领大陆。德国人还筹划建立德意志主导的波罗的海公国，这一占领随德国在1918年11月战败而结束。",
+    "ja": "1917年の二月革命後、エストニア語圏は選挙による県議会マーパエフを持つ自治エストニア県に統合された。ドイツ軍は1917年秋に島々を、独立が宣言された1918年2月に本土を占領した。ドイツ主導のバルト公国構想まで伴った占領は、1918年11月のドイツの敗戦で終わった。"
+   }
+  },
+  {
+   "from": 1918,
+   "to": 1940,
+   "kind": "state",
+   "qid": "Q2174038",
+   "polity": "Estonia",
+   "name": {
+    "en": "Republic of Estonia (interwar)",
+    "ko": "에스토니아 공화국(전간기)",
+    "zh": "爱沙尼亚共和国（两次大战之间）",
+    "ja": "エストニア共和国（戦間期）"
+   },
+   "summary": {
+    "en": "Independent Estonia won its War of Independence and was recognized by Soviet Russia in the 1920 Treaty of Tartu. A radical land reform broke the Baltic German estates, and Estonian-language education and culture flourished. After the 1934 coup Konstantin Päts ruled in an authoritarian 'Era of Silence'; the state's independence was ended by Soviet occupation in 1940.",
+    "ko": "독립 에스토니아는 독립 전쟁에서 승리하고 1920년 타르투 조약으로 소비에트 러시아의 승인을 받았다. 급진적 토지 개혁으로 발트 독일계 영지가 해체되었고 에스토니아어 교육과 문화가 꽃피었다. 1934년 쿠데타 이후 콘스탄틴 패츠가 권위주의적 '침묵의 시대'를 이끌었으며, 국가의 독립은 1940년 소련 점령으로 끝났다.",
+    "zh": "独立的爱沙尼亚赢得独立战争，并在1920年《塔尔图条约》中获得苏俄承认。激进的土地改革打破了波罗的海德意志人的庄园，爱沙尼亚语教育和文化繁荣发展。1934年政变后，康斯坦丁·帕茨实行威权统治，史称“沉默时代”；1940年苏联占领终结了国家独立。",
+    "ja": "独立エストニアは独立戦争に勝利し、1920年のタルトゥ条約でソビエト・ロシアに承認された。急進的な土地改革でバルト・ドイツ人の荘園は解体され、エストニア語の教育と文化が花開いた。1934年のクーデター後はコンスタンティン・パッツが権威主義的な「沈黙の時代」を率い、国家の独立は1940年のソ連占領で終わった。"
+   }
+  },
+  {
+   "from": 1940,
+   "to": 1991,
+   "kind": "state",
+   "qid": "Q130280",
+   "polity": "Union of Soviet Socialist Republics",
+   "name": {
+    "en": "Soviet occupation: Estonian SSR",
+    "ko": "소련 점령기: 에스토니아 소비에트 사회주의 공화국",
+    "zh": "苏联占领时期：爱沙尼亚苏维埃社会主义共和国",
+    "ja": "ソ連占領期：エストニア・ソビエト社会主義共和国"
+   },
+   "summary": {
+    "en": "Annexed by the USSR in 1940 and again from 1944, Estonia was ruled as the Estonian SSR. Mass deportations, collectivization and large-scale immigration of Russian-speaking workers transformed society, while Western states largely refused to recognize the annexation de jure. Under perestroika the Singing Revolution revived the national movement, leading to the restoration of independence in 1991.",
+    "ko": "1940년, 그리고 1944년 이후 다시 소련에 병합된 에스토니아는 에스토니아 SSR로 통치되었다. 대규모 강제 이주, 집단화, 러시아어 사용 노동자의 대량 이주가 사회를 바꾸었고, 서방 국가들은 대체로 병합을 법적으로 인정하지 않았다. 페레스트로이카 시기 노래 혁명이 민족 운동을 되살려 1991년 독립 회복으로 이어졌다.",
+    "zh": "爱沙尼亚于1940年并在1944年后再次被苏联吞并，作为爱沙尼亚苏维埃社会主义共和国受到统治。大规模流放、集体化以及讲俄语工人的大量迁入改变了社会，而西方国家大多拒绝在法律上承认这一吞并。戈尔巴乔夫改革时期，“歌唱革命”复兴了民族运动，最终促成1991年恢复独立。",
+    "ja": "1940年、そして1944年以降ふたたびソ連に併合されたエストニアは、エストニア・ソビエト社会主義共和国として統治された。大量の強制移送、集団化、ロシア語話者労働者の大規模移住が社会を変え、西側諸国の多くは併合を法的に承認しなかった。ペレストロイカ期に「歌う革命」が民族運動を甦らせ、1991年の独立回復につながった。"
+   }
+  },
+  {
+   "from": 1941,
+   "to": 1944,
+   "kind": "period",
+   "qid": "Q3322608",
+   "polity": "Nazi Germany",
+   "name": {
+    "en": "German occupation in World War II",
+    "ko": "제2차 세계 대전 중 독일 점령",
+    "zh": "二战期间的德国占领",
+    "ja": "第二次世界大戦中のドイツ占領"
+   },
+   "summary": {
+    "en": "Nazi Germany occupied Estonia in 1941 and administered it as the Generalbezirk Estland within the Reichskommissariat Ostland. The occupiers and local collaborators murdered nearly all of Estonia's Jews who had not fled, as well as thousands of others, and Jews deported from abroad were killed in camps such as Klooga. Men were conscripted into German units, and the Red Army retook the country in 1944.",
+    "ko": "나치 독일은 1941년 에스토니아를 점령해 오스틀란트 제국판무관부의 에스틀란트 총관구로 통치했다. 점령군과 현지 협력자들은 피란하지 못한 에스토니아 유대인 거의 전부와 수천 명의 다른 사람들을 살해했으며, 외국에서 이송된 유대인들도 클로가 등의 수용소에서 살해되었다. 남성들은 독일군 부대에 징집되었고, 1944년 붉은 군대가 다시 이 땅을 장악했다.",
+    "zh": "纳粹德国于1941年占领爱沙尼亚，将其作为奥斯特兰帝国专员辖区下的爱斯特兰总区管理。占领者及当地合作者杀害了几乎所有未能逃离的爱沙尼亚犹太人以及数千其他人，从国外押来的犹太人也在克洛加等营地遇害。男子被征入德军部队，1944年红军重新占领该国。",
+    "ja": "ナチス・ドイツは1941年にエストニアを占領し、東方帝国弁務官区のエストラント総管区として統治した。占領者と現地の協力者は、逃れられなかったエストニアのユダヤ人のほぼ全員と数千人の人々を殺害し、国外から移送されたユダヤ人もクローガなどの収容所で殺された。男性はドイツ軍部隊に徴集され、1944年に赤軍が再び国土を奪った。"
+   }
+  },
+  {
+   "from": 1991,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q191",
+   "polity": "Republic of Estonia",
+   "name": {
+    "en": "Republic of Estonia (restored)",
+    "ko": "에스토니아 공화국(독립 회복)",
+    "zh": "爱沙尼亚共和国（恢复独立）",
+    "ja": "エストニア共和国（独立回復）"
+   },
+   "summary": {
+    "en": "Restored on the basis of legal continuity with the interwar republic, Estonia adopted a new constitution in 1992, introduced the kroon and carried out rapid market reforms. It joined NATO and the European Union in 2004 and the euro area in 2011, and became known for digital government. Integration of its large Russian-speaking minority and security relations with Russia remain central issues.",
+    "ko": "전간기 공화국과의 법적 연속성을 바탕으로 회복된 에스토니아는 1992년 새 헌법을 채택하고 크론을 도입해 급속한 시장 개혁을 단행했다. 2004년 나토와 유럽연합에, 2011년 유로존에 가입했으며 디지털 정부로 이름을 알렸다. 대규모 러시아어 사용 소수 집단의 통합과 러시아와의 안보 관계는 여전히 핵심 과제이다.",
+    "zh": "爱沙尼亚以与两次大战之间共和国的法律延续性为基础恢复国家，1992年通过新宪法，引入克朗并推行迅速的市场改革。2004年加入北约和欧盟，2011年加入欧元区，并以数字政府闻名。人数众多的讲俄语少数群体的融合以及与俄罗斯的安全关系仍是核心议题。",
+    "ja": "戦間期の共和国との法的連続性に基づいて回復したエストニアは、1992年に新憲法を採択し、クローンを導入して急速な市場改革を行った。2004年にNATOとEU、2011年にユーロ圏に加わり、デジタル政府で知られるようになった。大規模なロシア語系少数派の統合とロシアとの安全保障関係は今も中心的な課題である。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2800,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Corded Ware culture and the first farmers",
+    "ko": "승문토기 문화와 최초의 농경민",
+    "zh": "绳纹陶文化与最早的农民",
+    "ja": "縄目文土器文化と最初の農耕民"
+   },
+   "description": {
+    "en": "Around 2800 BC the Corded Ware (Boat Axe) culture appeared in Estonia alongside the older Comb Ceramic communities. Its people brought the first evidence of animal husbandry and early cultivation. Over the following centuries a mixed economy of farming, herding, fishing and hunting took hold.",
+    "ko": "기원전 약 2800년, 기존의 빗살무늬토기 공동체와 나란히 승문토기(배모양 도끼) 문화가 에스토니아에 나타났다. 이들은 목축과 초기 경작의 첫 증거를 남겼다. 이후 수 세기에 걸쳐 농경·목축·어로·수렵이 섞인 경제가 자리 잡았다.",
+    "zh": "约公元前2800年，绳纹陶（船形斧）文化出现在爱沙尼亚，与较早的篦纹陶社群并存。这一人群留下了畜牧和早期耕作的最早证据。此后数百年间，农耕、畜牧、渔猎相结合的混合经济逐渐确立。",
+    "ja": "前2800年頃、縄目文土器（舟形石斧）文化が、それ以前の櫛目文土器の共同体と並んでエストニアに現れた。彼らは牧畜と初期耕作の最初の痕跡を残した。その後数世紀のうちに、農耕・牧畜・漁労・狩猟を組み合わせた経済が定着した。"
+   }
+  },
+  {
+   "year": -1500,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Kaali meteorite impact on Saaremaa",
+    "ko": "사아레마의 칼리 운석 충돌",
+    "zh": "萨雷马岛卡利陨石撞击",
+    "ja": "サーレマー島のカーリ隕石衝突"
+   },
+   "description": {
+    "en": "A meteorite broke up over Saaremaa and created the Kaali crater field, whose main crater is about 110 m across. Scientific dating estimates vary, most placing the impact in the Bronze Age, roughly in the mid-2nd millennium BC (c.). The site later became a cult place, and some scholars link it to Baltic and Finnic myths of a falling sun.",
+    "ko": "사아레마 상공에서 운석이 쪼개지며 칼리 운석공 군을 만들었는데, 주 분화구의 지름은 약 110m이다. 과학적 연대 추정은 다양하지만 대부분 청동기 시대, 대략 기원전 2천년기 중엽(약)으로 본다. 이곳은 훗날 제의 장소가 되었으며, 일부 학자는 이를 떨어지는 태양에 관한 발트·핀계 신화와 연결한다.",
+    "zh": "一颗陨石在萨雷马岛上空解体，形成卡利陨石坑群，主坑直径约110米。科学测年结果不一，多数将撞击定在青铜时代，约公元前2千纪中叶。此地后来成为祭祀场所，一些学者将其与波罗的及芬兰语族关于太阳坠落的神话相联系。",
+    "ja": "隕石がサーレマー島上空で分裂し、主クレーターの直径約110メートルのカーリ隕石孔群をつくった。科学的な年代推定には幅があるが、多くは青銅器時代、おおよそ前2千年紀半ば頃とする。この地はのちに祭祀の場となり、一部の研究者は太陽が落ちる神話と結びつけている。"
+   }
+  },
+  {
+   "year": -1000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Stone-cist graves and fortified settlements",
+    "ko": "석관묘와 요새화된 취락",
+    "zh": "石棺墓与设防聚落",
+    "ja": "石棺墓と防御集落"
+   },
+   "description": {
+    "en": "In the Late Bronze Age (c. 1000 BC) coastal communities in northern and western Estonia built stone-cist graves and fortified settlements such as Asva on Saaremaa and Iru near Tallinn. Bronze casting at these sites shows contacts with Scandinavia. They mark the rise of local elites controlling trade.",
+    "ko": "후기 청동기 시대(기원전 약 1000년) 북부와 서부 에스토니아의 해안 공동체는 석관묘와 사아레마의 아스바, 탈린 근처의 이루 같은 요새화된 취락을 세웠다. 이 유적들의 청동 주조는 스칸디나비아와의 교류를 보여 준다. 이는 교역을 장악한 지역 엘리트의 등장을 의미한다.",
+    "zh": "青铜时代晚期（约公元前1000年），爱沙尼亚北部和西部的沿海社群修建石棺墓，并建立萨雷马岛阿斯瓦、塔林附近伊鲁等设防聚落。这些遗址的青铜铸造显示了与斯堪的纳维亚的联系，也标志着掌控贸易的地方精英兴起。",
+    "ja": "青銅器時代後期（前1000年頃）、北部・西部エストニアの沿岸共同体は石棺墓を築き、サーレマー島のアスヴァやタリン近郊のイルなどの防御集落を営んだ。これらの遺跡での青銅鋳造はスカンディナヴィアとの交流を示す。交易を握る在地エリートの台頭を物語る。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Iron Age begins",
+    "ko": "철기 시대의 시작",
+    "zh": "铁器时代开始",
+    "ja": "鉄器時代の始まり"
+   },
+   "description": {
+    "en": "From around 500 BC iron tools came into use, and in time Estonians learned to smelt iron from local bog ore. Iron sickles and axes made it easier to clear forest and expand fields. Communities began burying their dead in stone tarand graves, a hallmark of the early Iron Age.",
+    "ko": "기원전 약 500년부터 철제 도구가 쓰이기 시작했고, 시간이 지나 에스토니아인은 현지 늪철광으로 철을 제련하게 되었다. 철제 낫과 도끼 덕분에 숲을 개간하고 경지를 넓히기가 쉬워졌다. 공동체들은 초기 철기 시대의 상징인 돌 타란드 무덤에 망자를 묻기 시작했다.",
+    "zh": "约公元前500年起，铁制工具开始使用，后来爱沙尼亚人学会用本地沼铁矿炼铁。铁镰和铁斧使开垦森林、扩大耕地更加容易。各社群开始用石砌塔兰德墓安葬死者，这是早期铁器时代的标志。",
+    "ja": "前500年頃から鉄器が使われるようになり、やがて地元の沼鉄鉱から鉄を製錬する技術も身につけた。鉄の鎌や斧で森を拓き畑を広げることが容易になった。共同体は初期鉄器時代の特徴である石積みのタランド墓に死者を葬り始めた。"
+   }
+  },
+  {
+   "year": 98,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Tacitus describes the Aestii",
+    "ko": "타키투스가 아이스티족을 기록하다",
+    "zh": "塔西佗记述艾斯蒂人",
+    "ja": "タキトゥスがアエスティ人を記す"
+   },
+   "description": {
+    "en": "In his Germania (c. 98) the Roman historian Tacitus described the Aestii, amber-gathering people on the Baltic shore. They were most likely Baltic peoples further south, but the name was later applied to the Estonians and is the origin of the country's name in other languages. Estonians themselves long called themselves maarahvas, 'people of the land'.",
+    "ko": "로마 역사가 타키투스는 『게르마니아』(약 98년)에서 발트해 연안에서 호박을 채취하는 아이스티족을 묘사했다. 이들은 아마도 더 남쪽의 발트계 민족이었겠지만, 이 이름은 훗날 에스토니아인에게 붙어 다른 언어에서 나라 이름의 기원이 되었다. 에스토니아인 스스로는 오랫동안 자신들을 '땅의 사람들'이라는 뜻의 마라흐바스라 불렀다.",
+    "zh": "罗马史学家塔西佗在《日耳曼尼亚志》（约98年）中描述了在波罗的海岸采集琥珀的艾斯蒂人。他们很可能是更南边的波罗的人，但这一名称后来被用于指称爱沙尼亚人，成为该国在其他语言中国名的来源。爱沙尼亚人自己长期自称“土地之民”（maarahvas）。",
+    "ja": "ローマの歴史家タキトゥスは『ゲルマニア』（98年頃）で、バルト海岸で琥珀を集めるアエスティ人を描いた。彼らはおそらくより南のバルト系民族だったが、この名はのちにエストニア人に当てられ、他言語での国名の由来となった。エストニア人自身は長く自らを「土地の民」（マーラフヴァス）と呼んでいた。"
+   }
+  },
+  {
+   "year": 200,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Roman-era trade contacts",
+    "ko": "로마 시대의 교역 접촉",
+    "zh": "罗马时代的贸易往来",
+    "ja": "ローマ時代の交易"
+   },
+   "description": {
+    "en": "During the Roman Iron Age (c. 50–450) Roman coins, bronze ornaments and enamel brooches reached Estonia through Baltic trade routes. Population grew and settlement spread inland. Rich tarand cemeteries from this period show a prosperous farming society.",
+    "ko": "로마 철기 시대(약 50~450년)에 로마 주화, 청동 장신구, 에나멜 브로치가 발트 교역로를 통해 에스토니아에 들어왔다. 인구가 늘고 정착지가 내륙으로 확산되었다. 이 시기의 풍부한 타란드 묘지는 번영한 농경 사회를 보여 준다.",
+    "zh": "罗马铁器时代（约50—450年），罗马钱币、青铜饰品和珐琅胸针经由波罗的海商路传入爱沙尼亚。人口增长，定居点向内陆扩展。这一时期丰富的塔兰德墓地展示了一个繁荣的农耕社会。",
+    "ja": "ローマ鉄器時代（50～450年頃）、ローマの貨幣、青銅装身具、エナメルのブローチがバルト海交易路を通じてエストニアに届いた。人口が増え、集落は内陸へ広がった。この時期の豊かなタランド墓地は繁栄した農耕社会を物語る。"
+   }
+  },
+  {
+   "year": 600,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Age of hillforts",
+    "ko": "언덕 요새의 시대",
+    "zh": "山堡时代",
+    "ja": "丘砦の時代"
+   },
+   "description": {
+    "en": "From around the 6th–7th centuries (c.) Estonians built many fortified hillforts as centers of defense and local power. Sites such as Rägavere, Varbola and Otepää became strongholds of regional communities. The spread of hillforts reflects growing social hierarchy and frequent warfare around the Baltic.",
+    "ko": "6~7세기경부터 에스토니아인은 방어와 지역 권력의 중심지로 많은 언덕 요새를 세웠다. 래가베레, 바르볼라, 오테페 같은 곳이 지역 공동체의 거점이 되었다. 언덕 요새의 확산은 사회 위계의 강화와 발트해 주변의 잦은 전쟁을 반영한다.",
+    "zh": "约6至7世纪起，爱沙尼亚人修建了许多山堡，作为防御和地方权力中心。雷加韦雷、瓦尔博拉、奥泰佩等地成为地区社群的据点。山堡的普及反映出社会等级的加强和波罗的海周边战事的频繁。",
+    "ja": "6～7世紀頃から、エストニア人は防衛と地域権力の中心として多くの丘砦を築いた。レガヴェレ、ヴァルボラ、オテパーなどが地域共同体の拠点となった。丘砦の広がりは社会階層の強まりとバルト海周辺の頻繁な戦いを反映している。"
+   }
+  },
+  {
+   "year": 750,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Salme ship burials",
+    "ko": "살메 배 무덤",
+    "zh": "萨尔梅船葬",
+    "ja": "サルメ船葬"
+   },
+   "description": {
+    "en": "Around 750, two ships holding the bodies of dozens of slain warriors were buried at Salme on Saaremaa. Excavated from 2008, the burials contained Scandinavian weapons and gaming pieces, and the warriors are thought to have come from central Sweden. They are among the earliest evidence of Viking-type expeditions across the Baltic.",
+    "ko": "약 750년, 전사한 수십 명의 전사 시신을 실은 배 두 척이 사아레마의 살메에 묻혔다. 2008년부터 발굴된 이 무덤에서는 스칸디나비아식 무기와 놀이 말이 나왔고, 전사들은 스웨덴 중부 출신으로 여겨진다. 이는 발트해를 가로지른 바이킹형 원정의 가장 이른 증거 중 하나이다.",
+    "zh": "约750年，两艘载有数十名阵亡武士遗体的船只被埋葬在萨雷马岛的萨尔梅。该遗址自2008年起发掘，出土了斯堪的纳维亚式兵器和棋子，武士们被认为来自瑞典中部。这是横渡波罗的海的维京式远征的最早证据之一。",
+    "ja": "750年頃、戦死した数十人の戦士の遺体を乗せた2隻の船がサーレマー島のサルメに埋葬された。2008年から発掘されたこの墓からはスカンディナヴィア式の武器や駒が出土し、戦士たちはスウェーデン中部出身と考えられている。バルト海を越えたヴァイキング型遠征の最も早い証拠の一つである。"
+   }
+  },
+  {
+   "year": 1030,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Yaroslav the Wise seizes Tartu",
+    "ko": "야로슬라프 현공의 타르투 점령",
+    "zh": "智者雅罗斯拉夫攻占塔尔图",
+    "ja": "賢公ヤロスラフのタルトゥ占領"
+   },
+   "description": {
+    "en": "According to the Rus' chronicles, Grand Prince Yaroslav the Wise of Kyiv campaigned against the Chud (Estonians) in 1030 and founded the fortress of Yuryev at Tartu. The stronghold collected tribute from Ugandi for about three decades. In 1061 the Sosols, apparently an Estonian group, drove the Rus' out and burned Yuryev.",
+    "ko": "루스 연대기에 따르면 키이우의 대공 야로슬라프 현공은 1030년 추드(에스토니아인)를 정벌하고 타르투에 유리예프 요새를 세웠다. 이 요새는 약 30년간 우간디에서 공납을 거두었다. 1061년 에스토니아인 집단으로 보이는 소솔인이 루스인을 몰아내고 유리예프를 불태웠다.",
+    "zh": "据罗斯编年史记载，基辅大公智者雅罗斯拉夫于1030年征讨楚德人（爱沙尼亚人），在塔尔图建立尤里耶夫要塞。该要塞向乌甘迪征收贡赋约三十年。1061年，可能是爱沙尼亚人一支的索索尔人赶走罗斯人并焚毁尤里耶夫。",
+    "ja": "ルーシの年代記によれば、キーウ大公賢公ヤロスラフは1030年にチュド（エストニア人）を討ち、タルトゥにユーリエフ砦を築いた。砦はおよそ30年間ウガンディから貢納を取り立てた。1061年、エストニア人の一集団とみられるソソル人がルーシを追い出し、ユーリエフを焼き払った。"
+   }
+  },
+  {
+   "year": 1165,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Fulco named bishop of the Estonians",
+    "ko": "풀코, 에스토니아인의 주교로 임명",
+    "zh": "富尔科被任命为爱沙尼亚人主教",
+    "ja": "フルコがエストニア人の司教に"
+   },
+   "description": {
+    "en": "Around 1165 (c.) the Archbishop of Lund consecrated a monk named Fulco as missionary bishop for the Estonians, with papal support. His mission left little trace, and the Estonians remained pagan. The episode shows growing Scandinavian and papal interest in converting the eastern Baltic.",
+    "ko": "약 1165년 룬드 대주교는 교황의 지지를 받아 풀코라는 수도사를 에스토니아인을 위한 선교 주교로 서품했다. 그의 선교는 거의 흔적을 남기지 못했고 에스토니아인은 이교도로 남았다. 이 일은 동부 발트 지역 개종에 대한 스칸디나비아와 교황청의 관심이 커졌음을 보여 준다.",
+    "zh": "约1165年，隆德大主教在教宗支持下祝圣一位名叫富尔科的修士为爱沙尼亚人的传教主教。他的传教几乎未留痕迹，爱沙尼亚人仍信奉多神教。此事反映出斯堪的纳维亚和教廷对东波罗的海地区皈依问题日益关注。",
+    "ja": "1165年頃、ルンド大司教は教皇の支持のもと、フルコという修道士をエストニア人のための宣教司教に叙階した。その宣教はほとんど痕跡を残さず、エストニア人は異教のままだった。この出来事は、東バルトの改宗に対するスカンディナヴィアと教皇庁の関心の高まりを示している。"
+   }
+  },
+  {
+   "year": 1187,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sack of Sigtuna",
+    "ko": "시그투나 약탈",
+    "zh": "西格图纳遭劫",
+    "ja": "シグトゥーナ略奪"
+   },
+   "description": {
+    "en": "In 1187 seaborne raiders sacked Sigtuna, then one of Sweden's main towns. Medieval sources variously blame Karelians, Estonians or Curonians, and historians still debate who was responsible. The raid illustrates the active, sometimes predatory, role of eastern Baltic seafarers before the crusades.",
+    "ko": "1187년 바다를 건너온 약탈자들이 당시 스웨덴의 주요 도시였던 시그투나를 약탈했다. 중세 사료는 카렐리야인, 에스토니아인, 쿠로니아인 등을 제각각 지목하며, 누구의 소행인지는 지금도 논쟁 중이다. 이 습격은 십자군 이전 동부 발트 항해민의 활발하고 때로 약탈적인 역할을 보여 준다.",
+    "zh": "1187年，渡海而来的劫掠者洗劫了当时瑞典的主要城镇之一西格图纳。中世纪史料分别归咎于卡累利阿人、爱沙尼亚人或库尔人，史学界至今仍有争论。这次袭击体现了十字军时代之前东波罗的海航海者活跃且时具掠夺性的角色。",
+    "ja": "1187年、海から来た略奪者が当時スウェーデンの主要都市の一つシグトゥーナを荒らした。中世の史料はカレリア人、エストニア人、クルシュー人などをそれぞれ名指しし、誰の仕業か今も議論がある。この襲撃は十字軍以前の東バルトの航海民の活発で時に略奪的な役割を物語る。"
+   }
+  },
+  {
+   "year": 1208,
+   "qid": "Q16357916",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ancient Fight for Freedom begins",
+    "ko": "고대 자유 투쟁의 시작",
+    "zh": "古代自由之战开始",
+    "ja": "古代の自由闘争の始まり"
+   },
+   "description": {
+    "en": "In 1208 German crusaders of the Sword Brothers and the Bishop of Riga, with Latgalian and Livonian allies, raided Ugandi and began the conquest of Estonia. Estonian counties resisted for some two decades, sometimes with Novgorod and Pskov as allies. Estonian historiography calls this the 'Ancient Fight for Freedom' (muistne vabadusvõitlus).",
+    "ko": "1208년 검의 형제 기사단과 리가 주교의 독일 십자군은 라트갈레인·리브인 동맹군과 함께 우간디를 습격하며 에스토니아 정복을 시작했다. 에스토니아의 여러 지방은 때로 노브고로드·프스코프와 손잡고 약 20년간 저항했다. 에스토니아 역사학은 이를 '고대 자유 투쟁'이라 부른다.",
+    "zh": "1208年，宝剑骑士团和里加主教的德意志十字军联合拉特加尔人和利沃尼亚人袭击乌甘迪，开始征服爱沙尼亚。爱沙尼亚各郡抵抗了约二十年，有时与诺夫哥罗德、普斯科夫结盟。爱沙尼亚史学称之为“古代自由之战”。",
+    "ja": "1208年、帯剣騎士団とリガ司教のドイツ十字軍は、ラトガレ人やリーヴ人の同盟軍とともにウガンディを襲い、エストニア征服を開始した。エストニアの諸地方は、時にノヴゴロドやプスコフと結んで約20年間抵抗した。エストニア史学はこれを「古代の自由闘争」と呼ぶ。"
+   }
+  },
+  {
+   "year": 1211,
+   "qid": "Q3736445",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siege of Viljandi",
+    "ko": "빌잔디 공방전",
+    "zh": "维尔扬迪之围",
+    "ja": "ヴィリャンディ攻囲"
+   },
+   "description": {
+    "en": "In 1211 crusaders besieged the Sakala stronghold of Viljandi, which surrendered and accepted baptism. The Estonians soon renounced Christianity, and the fortress changed hands repeatedly. Fighting across southern Estonia was marked by raids, burned villages and epidemics.",
+    "ko": "1211년 십자군이 사칼라 지방의 거점 빌잔디를 포위하자 요새는 항복하고 세례를 받아들였다. 그러나 에스토니아인은 곧 기독교를 버렸고 요새의 주인은 여러 번 바뀌었다. 남부 에스토니아 전역의 전투는 약탈, 불탄 마을, 전염병으로 얼룩졌다.",
+    "zh": "1211年十字军围攻萨卡拉的据点维尔扬迪，守军投降并接受洗礼。但爱沙尼亚人很快弃教，要塞几度易手。南部爱沙尼亚的战事充斥着劫掠、焚村和瘟疫。",
+    "ja": "1211年、十字軍はサカラの拠点ヴィリャンディを包囲し、砦は降伏して洗礼を受け入れた。しかしエストニア人はまもなくキリスト教を捨て、砦は何度も持ち主を変えた。南エストニア全域の戦いは略奪、焼かれた村、疫病に彩られた。"
+   }
+  },
+  {
+   "year": 1217,
+   "qid": "Q1082410",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of St Matthew's Day: Lembitu falls",
+    "ko": "성 마태오 축일 전투와 렘비투의 전사",
+    "zh": "圣马太节之战：伦比图阵亡",
+    "ja": "聖マタイの日の戦いとレンビトゥの戦死"
+   },
+   "description": {
+    "en": "On 21 September 1217, near Viljandi, the crusaders defeated a large Estonian army led by Lembitu, elder of Sakala, who was killed in the battle. Lembitu had organized a broad alliance of Estonian counties. His death was a severe blow to resistance, and he later became a hero of Estonian national memory.",
+    "ko": "1217년 9월 21일 빌잔디 부근에서 십자군은 사칼라의 장로 렘비투가 이끈 대규모 에스토니아군을 격파했고 렘비투는 전사했다. 그는 에스토니아 여러 지방의 폭넓은 동맹을 조직한 인물이었다. 그의 죽음은 저항에 큰 타격이었으며, 훗날 그는 에스토니아 민족 기억 속 영웅이 되었다.",
+    "zh": "1217年9月21日，十字军在维尔扬迪附近击败由萨卡拉长老伦比图率领的爱沙尼亚大军，伦比图战死。他曾组织起爱沙尼亚各郡的广泛同盟。他的死重创了抵抗运动，后来成为爱沙尼亚民族记忆中的英雄。",
+    "ja": "1217年9月21日、ヴィリャンディ近郊で十字軍はサカラの長老レンビトゥ率いるエストニアの大軍を破り、レンビトゥは戦死した。彼はエストニア諸地方の広い同盟をまとめた人物だった。その死は抵抗運動に大きな打撃となり、のちにエストニア民族の記憶の英雄となった。"
+   }
+  },
+  {
+   "year": 1219,
+   "qid": "Q1341824",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Danish conquest and the origins of Tallinn",
+    "ko": "덴마크의 정복과 탈린의 기원",
+    "zh": "丹麦征服与塔林的起源",
+    "ja": "デンマークの征服とタリンの起源"
+   },
+   "description": {
+    "en": "In June 1219 Danish crusaders under King Valdemar II landed at Lyndanise, on the site of Tallinn, and defeated an Estonian attack. They built a stone fortress on Toompea hill, the nucleus of Danish Tallinn (Reval). Legend holds that the Danish flag, the Dannebrog, fell from the sky during the battle.",
+    "ko": "1219년 6월 발데마르 2세가 이끄는 덴마크 십자군이 오늘날 탈린 자리인 륀다니세에 상륙해 에스토니아인의 공격을 물리쳤다. 이들은 톰페아 언덕에 석조 요새를 세웠고, 이것이 덴마크령 탈린(레발)의 핵심이 되었다. 전설에 따르면 이 전투 중 덴마크 국기 단네브로가 하늘에서 내려왔다고 한다.",
+    "zh": "1219年6月，国王瓦尔德马二世率领的丹麦十字军在今塔林所在地林达尼塞登陆，击退爱沙尼亚人的进攻。他们在图姆皮亚山上修建石堡，成为丹麦塔林（雷瓦尔）的核心。传说丹麦国旗“丹尼布洛”正是在这场战斗中从天而降。",
+    "ja": "1219年6月、国王ヴァルデマー2世率いるデンマーク十字軍が今日のタリンの地リュンダニセに上陸し、エストニア人の攻撃を退けた。彼らはトームペアの丘に石の城を築き、これがデンマーク領タリン（レヴァル）の核となった。伝説では、この戦いの最中にデンマーク国旗ダネブロが天から降ってきたという。"
+   }
+  },
+  {
+   "year": 1220,
+   "qid": "Q2692278",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Lihula",
+    "ko": "리훌라 전투",
+    "zh": "利胡拉之战",
+    "ja": "リフラの戦い"
+   },
+   "description": {
+    "en": "In 1220 a Swedish expedition established a garrison at Lihula in western Estonia. Warriors from Saaremaa attacked and destroyed it, killing much of the garrison. The defeat ended Sweden's attempt to secure a foothold in Estonia for more than three centuries.",
+    "ko": "1220년 스웨덴 원정군은 서부 에스토니아의 리훌라에 수비대를 두었다. 사아레마 전사들이 이를 공격해 수비대 다수를 죽이고 거점을 파괴했다. 이 패배로 스웨덴은 이후 3세기 넘게 에스토니아에 발판을 마련하지 못했다.",
+    "zh": "1220年，瑞典远征军在爱沙尼亚西部的利胡拉驻军。萨雷马岛战士发动攻击，摧毁据点，大部分守军被杀。此役之后三百多年间，瑞典未能在爱沙尼亚立足。",
+    "ja": "1220年、スウェーデンの遠征軍は西エストニアのリフラに守備隊を置いた。サーレマーの戦士たちがこれを攻撃し、守備隊の多くを殺して拠点を破壊した。この敗北により、スウェーデンはその後3世紀以上エストニアに足場を築けなかった。"
+   }
+  },
+  {
+   "year": 1223,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Great Estonian uprising",
+    "ko": "에스토니아 대봉기",
+    "zh": "爱沙尼亚大起义",
+    "ja": "エストニア大蜂起"
+   },
+   "description": {
+    "en": "In 1223 the Estonians rose throughout the conquered counties, killing or expelling crusaders and priests and recapturing Viljandi and Tartu. They enlisted help from Novgorod, and the Rus' prince Vyachko was installed in Tartu. The uprising was gradually crushed, but Saaremaa held out until 1227.",
+    "ko": "1223년 정복된 여러 지방에서 에스토니아인이 일제히 봉기해 십자군과 사제를 죽이거나 쫓아내고 빌잔디와 타르투를 되찾았다. 이들은 노브고로드에 도움을 청했고 루스의 공 뱌치코가 타르투에 자리 잡았다. 봉기는 점차 진압되었지만 사아레마는 1227년까지 버텼다.",
+    "zh": "1223年，爱沙尼亚人在各被征服郡中全面起义，杀死或驱逐十字军和教士，夺回维尔扬迪和塔尔图。他们向诺夫哥罗德求援，罗斯王公维亚奇科进驻塔尔图。起义逐渐被镇压，但萨雷马坚持到1227年。",
+    "ja": "1223年、征服された諸地方でエストニア人が一斉に蜂起し、十字軍や司祭を殺害・追放してヴィリャンディとタルトゥを奪還した。彼らはノヴゴロドに援助を求め、ルーシの公ヴャチコがタルトゥに入った。蜂起はしだいに鎮圧されたが、サーレマーは1227年まで持ちこたえた。"
+   }
+  },
+  {
+   "year": 1224,
+   "qid": "Q3738423",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Tartu",
+    "ko": "타르투 함락",
+    "zh": "塔尔图陷落",
+    "ja": "タルトゥ陥落"
+   },
+   "description": {
+    "en": "In August 1224 a large crusader army stormed the Tartu hillfort, defended by Estonians and Vyachko's Rus' warriors; nearly all the defenders were killed. Mainland resistance collapsed, and Tartu became the seat of the Bishopric of Dorpat. Henry of Livonia, who witnessed these wars, recorded them in his chronicle written around this time.",
+    "ko": "1224년 8월 대규모 십자군이 에스토니아인과 뱌치코의 루스 전사들이 지키던 타르투 언덕 요새를 강습했고 수비대는 거의 모두 죽었다. 본토의 저항은 무너졌고 타르투는 도르파트 주교령의 중심지가 되었다. 이 전쟁들을 목격한 리보니아의 헨리크는 이 무렵 쓴 연대기에 그 과정을 기록했다.",
+    "zh": "1224年8月，十字军大军强攻由爱沙尼亚人和维亚奇科的罗斯武士据守的塔尔图山堡，守军几乎全部被杀。大陆上的抵抗随之瓦解，塔尔图成为多尔帕特主教国的驻地。亲历这些战争的利沃尼亚的亨利在约同期写成的编年史中记载了这一过程。",
+    "ja": "1224年8月、十字軍の大軍がエストニア人とヴャチコのルーシ戦士が守るタルトゥの丘砦を急襲し、守備兵はほぼ全員が殺された。本土の抵抗は崩れ、タルトゥはドルパト司教領の拠点となった。これらの戦争を目撃したリヴォニアのヘンリクは、この頃に書いた年代記にその経過を記録した。"
+   }
+  },
+  {
+   "year": 1227,
+   "qid": "Q3738385",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Crusader conquest of Estonia completed",
+    "ko": "십자군의 에스토니아 정복 완료",
+    "zh": "十字军完成对爱沙尼亚的征服",
+    "ja": "十字軍によるエストニア征服の完了"
+   },
+   "description": {
+    "en": "In early 1227 a crusader army crossed the frozen sea, took the stronghold of Muhu and forced the Saaremaa islanders at Valjala to surrender and accept baptism. This ended ancient Estonian independence. German and Danish rule, Christianity and a new landed order were imposed for centuries.",
+    "ko": "1227년 초 십자군은 얼어붙은 바다를 건너 무후 요새를 함락하고 발랴라의 사아레마 주민들을 항복시켜 세례를 받게 했다. 이로써 고대 에스토니아의 독립은 끝났다. 이후 수 세기 동안 독일과 덴마크의 지배, 기독교, 새로운 토지 질서가 강요되었다.",
+    "zh": "1227年初，十字军越过冰封的海面攻占穆胡要塞，迫使瓦利亚拉的萨雷马岛民投降受洗。古代爱沙尼亚的独立就此终结。此后数百年间，德意志与丹麦的统治、基督教和新的土地制度被强加于此。",
+    "ja": "1227年初め、十字軍は凍った海を渡ってムフの砦を落とし、ヴァルヤラのサーレマー島民を降伏させて洗礼を受けさせた。これにより古代エストニアの独立は終わった。以後数世紀にわたり、ドイツとデンマークの支配、キリスト教、新たな土地秩序が押しつけられた。"
+   }
+  },
+  {
+   "year": 1237,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Sword Brothers absorbed into the Teutonic Order",
+    "ko": "검의 형제 기사단, 튜턴 기사단에 통합",
+    "zh": "宝剑骑士团并入条顿骑士团",
+    "ja": "帯剣騎士団がドイツ騎士団に統合"
+   },
+   "description": {
+    "en": "After the Sword Brothers were annihilated by Lithuanians and Semigallians at the Battle of Saule in 1236, the pope approved their merger into the Teutonic Order in 1237. The Livonian branch of the Teutonic Order, known as the Livonian Order, became the leading power in central and southern Estonia. In the 1238 Treaty of Stensby it returned northern Estonia to Denmark.",
+    "ko": "검의 형제 기사단이 1236년 사울레 전투에서 리투아니아인과 세미갈리아인에게 전멸당하자, 교황은 1237년 이들을 튜턴 기사단에 통합하는 것을 승인했다. 리보니아 기사단으로 불린 튜턴 기사단의 리보니아 지부는 중부와 남부 에스토니아의 주도 세력이 되었다. 1238년 스텐스뷔 조약으로 북부 에스토니아는 덴마크에 반환되었다.",
+    "zh": "宝剑骑士团在1236年绍勒战役中被立陶宛人和瑟米加利亚人歼灭后，教宗于1237年批准其并入条顿骑士团。条顿骑士团的利沃尼亚分支即利沃尼亚骑士团，成为爱沙尼亚中部和南部的主导力量。1238年《斯滕斯比条约》将爱沙尼亚北部归还丹麦。",
+    "ja": "帯剣騎士団が1236年のザウレの戦いでリトアニア人とゼムガレ人に壊滅させられると、教皇は1237年にドイツ騎士団への統合を認めた。リヴォニア騎士団と呼ばれるドイツ騎士団のリヴォニア支部は、中部・南部エストニアの主導勢力となった。1238年のステンスビュー条約で北エストニアはデンマークに返還された。"
+   }
+  },
+  {
+   "year": 1242,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle on the Ice",
+    "ko": "얼음 위의 전투",
+    "zh": "冰湖之战",
+    "ja": "氷上の戦い"
+   },
+   "description": {
+    "en": "In April 1242 Prince Alexander Nevsky of Novgorod defeated the forces of the Livonian Order and the Bishop of Dorpat, including Estonian levies, on frozen Lake Peipus, today on the Estonian–Russian border. The battle halted the crusaders' eastward push against Novgorod and Pskov. It later became a celebrated symbol in Russian national history.",
+    "ko": "1242년 4월 노브고로드의 알렉산드르 넵스키 공은 오늘날 에스토니아·러시아 국경에 있는 얼어붙은 페이푸스호에서 에스토니아 징집병을 포함한 리보니아 기사단과 도르파트 주교의 군대를 격파했다. 이 전투로 노브고로드와 프스코프를 향한 십자군의 동진이 멈추었다. 훗날 이 전투는 러시아 민족사의 상징이 되었다.",
+    "zh": "1242年4月，诺夫哥罗德王公亚历山大·涅夫斯基在今爱沙尼亚与俄罗斯边界上的冰封楚德湖（佩普西湖）上，击败利沃尼亚骑士团和多尔帕特主教的军队，其中包括爱沙尼亚征召兵。此役遏止了十字军向诺夫哥罗德和普斯科夫的东进，后来成为俄罗斯民族历史的著名象征。",
+    "ja": "1242年4月、ノヴゴロド公アレクサンドル・ネフスキーは、現在エストニアとロシアの国境にある凍結したペイプシ湖上で、エストニア人徴集兵を含むリヴォニア騎士団とドルパト司教の軍を破った。この戦いでノヴゴロドとプスコフへの十字軍の東進は止まった。のちにロシア民族史の象徴となった。"
+   }
+  },
+  {
+   "year": 1248,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Tallinn receives Lübeck law",
+    "ko": "탈린, 뤼베크법을 받다",
+    "zh": "塔林获得吕贝克法",
+    "ja": "タリンがリューベック法を得る"
+   },
+   "description": {
+    "en": "In 1248 the Danish king Eric IV granted Tallinn (Reval) the town law of Lübeck. German merchants, many from Gotland and Lübeck, settled the lower town below Toompea. The charter laid the legal basis for Tallinn's growth into a leading Baltic trading town.",
+    "ko": "1248년 덴마크 왕 에리크 4세는 탈린(레발)에 뤼베크 도시법을 부여했다. 고틀란드와 뤼베크 출신이 많은 독일 상인들이 톰페아 아래 저지대 도시에 정착했다. 이 특허장은 탈린이 발트해의 대표적 교역 도시로 성장하는 법적 기반이 되었다.",
+    "zh": "1248年，丹麦国王埃里克四世授予塔林（雷瓦尔）吕贝克城市法。许多来自哥特兰和吕贝克的德意志商人定居在图姆皮亚下方的下城。这份特许状为塔林发展成为波罗的海重要贸易城市奠定了法律基础。",
+    "ja": "1248年、デンマーク王エーリク4世はタリン（レヴァル）にリューベック都市法を与えた。ゴットランドやリューベック出身の多いドイツ商人がトームペアの下の下町に定住した。この特許状はタリンがバルト海有数の交易都市へ成長する法的基盤となった。"
+   }
+  },
+  {
+   "year": 1268,
+   "qid": "Q252698",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Wesenberg (Rakvere)",
+    "ko": "베젠베르크(라크베레) 전투",
+    "zh": "韦森贝格（拉克韦雷）之战",
+    "ja": "ヴェーゼンベルク（ラクヴェレ）の戦い"
+   },
+   "description": {
+    "en": "In February 1268 an army from Novgorod and Pskov clashed with Danish and Livonian Order forces near Rakvere in northern Estonia. Both sides suffered heavy losses and both claimed victory. The battle reflects the long rivalry between the Catholic Baltic powers and Orthodox Rus' over the region.",
+    "ko": "1268년 2월 노브고로드와 프스코프의 군대가 북부 에스토니아 라크베레 부근에서 덴마크군 및 리보니아 기사단군과 맞붙었다. 양측 모두 큰 손실을 입었고 서로 승리를 주장했다. 이 전투는 이 지역을 둘러싼 가톨릭 발트 세력과 정교회 루스 사이의 오랜 경쟁을 보여 준다.",
+    "zh": "1268年2月，诺夫哥罗德和普斯科夫的军队在爱沙尼亚北部拉克韦雷附近与丹麦及利沃尼亚骑士团交战。双方伤亡惨重，均宣称获胜。此战反映了天主教波罗的海势力与东正教罗斯围绕该地区的长期竞争。",
+    "ja": "1268年2月、ノヴゴロドとプスコフの軍が北エストニアのラクヴェレ付近でデンマーク軍およびリヴォニア騎士団軍と衝突した。双方とも大損害を出し、いずれも勝利を主張した。この戦いは、この地域をめぐるカトリックのバルト勢力と正教のルーシとの長い対立を示している。"
+   }
+  },
+  {
+   "year": 1285,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Tallinn in the Hanseatic League",
+    "ko": "한자 동맹의 탈린",
+    "zh": "汉萨同盟中的塔林",
+    "ja": "ハンザ同盟のタリン"
+   },
+   "description": {
+    "en": "By the late 13th century Tallinn had joined the Hanseatic League, the year 1285 often being cited. Tallinn, Tartu, Pärnu and Viljandi became Hanseatic towns, and Tallinn and Tartu profited greatly from the transit trade between Western Europe and Novgorod. Their merchant elites built the Gothic townscapes that survive today.",
+    "ko": "13세기 말 탈린은 한자 동맹에 가입했으며, 흔히 1285년이 그 해로 꼽힌다. 탈린, 타르투, 패르누, 빌잔디가 한자 도시가 되었고, 특히 탈린과 타르투는 서유럽과 노브고로드 사이의 중계 무역으로 큰 이익을 얻었다. 상인 엘리트들은 오늘날까지 남은 고딕 도시 경관을 만들었다.",
+    "zh": "至13世纪末，塔林已加入汉萨同盟，常被引用的年份是1285年。塔林、塔尔图、派尔努和维尔扬迪都成为汉萨城市，塔林和塔尔图尤其从西欧与诺夫哥罗德之间的转运贸易中获利丰厚。商人精英建造了留存至今的哥特式城市风貌。",
+    "ja": "13世紀末までにタリンはハンザ同盟に加わり、その年としてはしばしば1285年が挙げられる。タリン、タルトゥ、パルヌ、ヴィリャンディがハンザ都市となり、とりわけタリンとタルトゥは西欧とノヴゴロドの中継貿易で大きな利益を得た。商人エリートは今日まで残るゴシックの街並みを築いた。"
+   }
+  },
+  {
+   "year": 1343,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "St George's Night Uprising",
+    "ko": "성 게오르기우스 밤 봉기",
+    "zh": "圣乔治之夜起义",
+    "ja": "聖ゲオルギウスの夜の蜂起"
+   },
+   "description": {
+    "en": "On St George's Night, 23 April 1343, Estonians in Harju rose against their German and Danish overlords, killing many manor lords and clergy; the revolt spread to Läänemaa and Saaremaa. The Livonian Order crushed the main rebel forces and killed the rebels' 'kings' at Paide during negotiations. The uprising weakened Danish rule and led to the sale of northern Estonia.",
+    "ko": "1343년 4월 23일 성 게오르기우스 축일 밤, 하르유의 에스토니아인이 독일과 덴마크 지배층에 맞서 봉기해 많은 영주와 성직자를 죽였고, 반란은 래네마와 사아레마로 번졌다. 리보니아 기사단은 반란 주력군을 진압했고 파이데에서 협상 중 반란군의 '왕'들을 살해했다. 이 봉기로 덴마크의 지배가 약화되어 북부 에스토니아의 매각으로 이어졌다.",
+    "zh": "1343年4月23日圣乔治之夜，哈留的爱沙尼亚人起来反抗德意志和丹麦统治者，杀死许多庄园主和教士，起义蔓延到莱内马和萨雷马。利沃尼亚骑士团镇压了起义军主力，并在派德谈判时杀害了起义者推举的“国王”。这次起义削弱了丹麦的统治，导致爱沙尼亚北部被出售。",
+    "ja": "1343年4月23日の聖ゲオルギウスの夜、ハリユのエストニア人がドイツ人とデンマーク人の支配者に対して蜂起し、多くの領主や聖職者を殺害した。反乱はラーネマーとサーレマーに広がった。リヴォニア騎士団は反乱軍主力を鎮圧し、パイデでの交渉中に反乱側の「王」たちを殺害した。蜂起はデンマーク支配を弱め、北エストニア売却につながった。"
+   }
+  },
+  {
+   "year": 1346,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Denmark sells northern Estonia",
+    "ko": "덴마크, 북부 에스토니아를 매각",
+    "zh": "丹麦出售爱沙尼亚北部",
+    "ja": "デンマークが北エストニアを売却"
+   },
+   "description": {
+    "en": "In 1346 King Valdemar IV of Denmark sold Harju and Virumaa, including Tallinn, to the Teutonic Order, which handed them to its Livonian branch. The local German vassals kept their privileges under the new ruler. With this, all of mainland Estonia came under German-dominated ecclesiastical or order rule.",
+    "ko": "1346년 덴마크 왕 발데마르 4세는 탈린을 포함한 하르유와 비루마를 튜턴 기사단에 팔았고, 기사단은 이를 리보니아 지부에 넘겼다. 현지 독일계 봉신들은 새 통치자 아래에서도 특권을 유지했다. 이로써 에스토니아 본토 전역이 독일인이 주도하는 교회 또는 기사단의 지배 아래 놓였다.",
+    "zh": "1346年，丹麦国王瓦尔德马四世将包括塔林在内的哈留和维鲁马卖给条顿骑士团，后者将其交给利沃尼亚分支管理。当地德意志封臣在新统治者治下保留了特权。至此，爱沙尼亚大陆全境都处于德意志人主导的教会或骑士团统治之下。",
+    "ja": "1346年、デンマーク王ヴァルデマー4世はタリンを含むハリユとヴィルマーをドイツ騎士団に売却し、騎士団はこれをリヴォニア支部に委ねた。現地のドイツ系封臣は新たな支配者のもとでも特権を保った。これにより、エストニア本土全域がドイツ人主導の教会または騎士団の支配下に入った。"
+   }
+  },
+  {
+   "year": 1404,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Tallinn Town Hall completed",
+    "ko": "탈린 시청 완공",
+    "zh": "塔林市政厅落成",
+    "ja": "タリン市庁舎の完成"
+   },
+   "description": {
+    "en": "Tallinn's Gothic Town Hall was completed in its present form around 1402–1404 (c.). It is among the oldest surviving town halls in northern Europe. Together with the city walls, guild halls and churches, it reflects the wealth of Hanseatic Tallinn, whose Old Town is now a UNESCO World Heritage Site.",
+    "ko": "탈린의 고딕 양식 시청은 약 1402~1404년에 현재 모습으로 완성되었다. 이는 북유럽에 현존하는 가장 오래된 시청 중 하나이다. 성벽, 길드 회관, 교회들과 함께 한자 도시 탈린의 부를 보여 주며, 그 구시가지는 현재 유네스코 세계유산이다.",
+    "zh": "塔林的哥特式市政厅约于1402至1404年建成现貌，是北欧现存最古老的市政厅之一。它与城墙、行会会馆和教堂一起体现了汉萨城市塔林的财富，塔林老城如今是联合国教科文组织世界遗产。",
+    "ja": "タリンのゴシック様式の市庁舎は1402～04年頃に現在の姿で完成した。北欧に現存する最古級の市庁舎の一つである。城壁やギルド会館、教会とともにハンザ都市タリンの富を示し、その旧市街は現在ユネスコ世界遺産となっている。"
+   }
+  },
+  {
+   "year": 1435,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Livonian Confederation agreement at Valga",
+    "ko": "발가에서의 리보니아 연맹 협정",
+    "zh": "瓦尔加的利沃尼亚联盟协定",
+    "ja": "ヴァルガでのリヴォニア連盟協定"
+   },
+   "description": {
+    "en": "In 1435, after defeats and quarrels among the Livonian powers, the Livonian Order, the bishops, vassals and towns concluded an agreement at Valga (Walk) to settle disputes jointly. The common diet that met there became the main institution of the loose Livonian Confederation. It remained politically fragmented, a weakness exposed in the 1558 invasion.",
+    "ko": "1435년 리보니아 세력들 사이의 패배와 분쟁 끝에 리보니아 기사단, 주교들, 봉신, 도시들은 발가(발크)에서 분쟁을 공동으로 해결하기로 협정을 맺었다. 그곳에서 열린 공동 의회는 느슨한 리보니아 연맹의 핵심 기구가 되었다. 그러나 연맹은 정치적으로 분열된 채였고, 이 약점은 1558년 침공 때 드러났다.",
+    "zh": "1435年，在利沃尼亚各势力经历战败和内斗之后，利沃尼亚骑士团、主教、封臣和城市在瓦尔加（瓦尔克）缔结协定，约定共同解决争端。在那里召开的共同议会成为松散的利沃尼亚联盟的主要机构。但联盟在政治上依然分裂，这一弱点在1558年的入侵中暴露无遗。",
+    "ja": "1435年、リヴォニア諸勢力の敗北と内紛の後、リヴォニア騎士団、司教、封臣、都市はヴァルガ（ヴァルク）で紛争を共同で解決する協定を結んだ。そこで開かれた共通議会は緩やかなリヴォニア連盟の中心機関となった。しかし連盟は政治的に分裂したままで、その弱点は1558年の侵攻で露呈した。"
+   }
+  },
+  {
+   "year": 1492,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ivangorod built opposite Narva",
+    "ko": "나르바 맞은편에 이반고로드 건설",
+    "zh": "纳尔瓦对岸修建伊万哥罗德",
+    "ja": "ナルヴァの対岸にイヴァンゴロド建設"
+   },
+   "description": {
+    "en": "In 1492 Grand Prince Ivan III of Muscovy built the fortress of Ivangorod on the east bank of the Narva River, directly facing the Livonian Order's Narva castle. The twin fortresses symbolized the frontier between Catholic Livonia and Orthodox Muscovy. The border city of Narva remained a flashpoint for centuries.",
+    "ko": "1492년 모스크바 대공 이반 3세는 나르바강 동안에 리보니아 기사단의 나르바 성과 마주 보는 이반고로드 요새를 세웠다. 마주 선 두 요새는 가톨릭 리보니아와 정교회 모스크바국의 경계를 상징했다. 국경 도시 나르바는 수 세기 동안 분쟁의 화약고로 남았다.",
+    "zh": "1492年，莫斯科大公伊凡三世在纳尔瓦河东岸修建伊万哥罗德要塞，与利沃尼亚骑士团的纳尔瓦城堡隔河相对。这对双子要塞象征着天主教利沃尼亚与东正教莫斯科之间的边界。边城纳尔瓦此后数百年一直是冲突热点。",
+    "ja": "1492年、モスクワ大公イヴァン3世はナルヴァ川東岸に、リヴォニア騎士団のナルヴァ城と向かい合うイヴァンゴロド要塞を築いた。向かい合う二つの要塞はカトリックのリヴォニアと正教のモスクワ国の境界を象徴した。国境都市ナルヴァは何世紀にもわたり紛争の火種であり続けた。"
+   }
+  },
+  {
+   "year": 1524,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Reformation reaches Tallinn and Tartu",
+    "ko": "종교 개혁, 탈린과 타르투에 이르다",
+    "zh": "宗教改革传入塔林与塔尔图",
+    "ja": "宗教改革がタリンとタルトゥに及ぶ"
+   },
+   "description": {
+    "en": "In 1524–25 Lutheran preaching spread in the Livonian towns, accompanied by iconoclastic riots in Tallinn and Tartu. The towns adopted the Reformation, and Lutheranism gradually became the dominant faith of both Germans and Estonians. Church services and books in Estonian slowly followed.",
+    "ko": "1524~1525년 루터파 설교가 리보니아 도시들에 퍼졌고, 탈린과 타르투에서는 성상 파괴 소요가 일어났다. 도시들은 종교 개혁을 받아들였고 루터교는 점차 독일인과 에스토니아인 모두의 주된 신앙이 되었다. 에스토니아어 예배와 서적도 서서히 뒤따랐다.",
+    "zh": "1524至1525年，路德宗布道在利沃尼亚各城市传播，塔林和塔尔图发生了捣毁圣像的骚乱。各城市接受宗教改革，路德宗逐渐成为德意志人和爱沙尼亚人共同的主要信仰。爱沙尼亚语的礼拜和书籍也随之慢慢出现。",
+    "ja": "1524～25年、ルター派の説教がリヴォニアの諸都市に広まり、タリンとタルトゥでは聖像破壊の騒乱が起きた。諸都市は宗教改革を受け入れ、ルター派はしだいにドイツ人とエストニア人双方の主要な信仰となった。エストニア語の礼拝や書物もゆっくりと続いた。"
+   }
+  },
+  {
+   "year": 1535,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Wanradt–Koell catechism",
+    "ko": "반라트-쾰 교리문답",
+    "zh": "万拉特－克尔教义问答",
+    "ja": "ヴァンラート＝ケルのカテキズム"
+   },
+   "description": {
+    "en": "In 1535 a Lutheran catechism in Low German and Estonian by Simon Wanradt and Johann Koell was printed in Wittenberg. Only fragments survive, but it is the oldest known printed text containing Estonian. It marks the beginning of Estonian-language literature, which long remained mostly religious.",
+    "ko": "1535년 지몬 반라트와 요한 쾰이 저지 독일어와 에스토니아어로 쓴 루터파 교리문답이 비텐베르크에서 인쇄되었다. 단편만 남아 있지만 에스토니아어가 담긴 현존 최고(最古)의 인쇄물이다. 이는 오랫동안 주로 종교 서적이었던 에스토니아어 문헌의 출발점이다.",
+    "zh": "1535年，西蒙·万拉特和约翰·克尔用低地德语和爱沙尼亚语编写的路德宗教义问答在维滕贝格印刷。虽仅存残页，却是已知最早含有爱沙尼亚语的印刷文本，标志着长期以宗教内容为主的爱沙尼亚语文献的开端。",
+    "ja": "1535年、ジーモン・ヴァンラートとヨハン・ケルによる低地ドイツ語とエストニア語のルター派カテキズムがヴィッテンベルクで印刷された。断片しか残らないが、エストニア語を含む現存最古の印刷物である。長く宗教書が中心だったエストニア語文献の出発点となった。"
+   }
+  },
+  {
+   "year": 1558,
+   "qid": "Q4337412",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Livonian War: Russia takes Narva and Tartu",
+    "ko": "리보니아 전쟁: 러시아의 나르바·타르투 점령",
+    "zh": "利沃尼亚战争：俄军攻占纳尔瓦与塔尔图",
+    "ja": "リヴォニア戦争：ロシアがナルヴァとタルトゥを占領"
+   },
+   "description": {
+    "en": "In 1558 Tsar Ivan IV invaded Livonia, starting the Livonian War. Russian forces captured Narva in May and Tartu in July, ending the Bishopric of Dorpat. The war destroyed the medieval Livonian order of states and drew Sweden, Denmark and Poland–Lithuania into a struggle for the region lasting a quarter century.",
+    "ko": "1558년 차르 이반 4세가 리보니아를 침공하며 리보니아 전쟁이 시작되었다. 러시아군은 5월에 나르바, 7월에 타르투를 점령해 도르파트 주교령을 끝냈다. 이 전쟁은 중세 리보니아의 국가 질서를 무너뜨렸고 스웨덴, 덴마크, 폴란드-리투아니아를 끌어들여 25년간의 쟁탈전으로 번졌다.",
+    "zh": "1558年，沙皇伊凡四世入侵利沃尼亚，利沃尼亚战争爆发。俄军5月攻占纳尔瓦，7月攻占塔尔图，多尔帕特主教国灭亡。战争摧毁了中世纪利沃尼亚的国家体系，并把瑞典、丹麦和波兰－立陶宛卷入长达四分之一世纪的争夺。",
+    "ja": "1558年、ツァーリのイヴァン4世がリヴォニアに侵攻し、リヴォニア戦争が始まった。ロシア軍は5月にナルヴァ、7月にタルトゥを占領し、ドルパト司教領は消滅した。戦争は中世リヴォニアの国家秩序を崩壊させ、スウェーデン、デンマーク、ポーランド＝リトアニアを巻き込む四半世紀の争奪戦となった。"
+   }
+  },
+  {
+   "year": 1560,
+   "qid": "Q15710003",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fall of Viljandi and peasant revolt",
+    "ko": "빌잔디 함락과 농민 봉기",
+    "zh": "维尔扬迪陷落与农民起义",
+    "ja": "ヴィリャンディ陥落と農民反乱"
+   },
+   "description": {
+    "en": "In 1560 Russian forces defeated the Livonian Order at Ergeme and took Viljandi (Fellin), capturing the former master Wilhelm von Fürstenberg. Amid the chaos, Estonian peasants in Harju rose against the manor lords but were defeated. The Order's collapse pushed the remaining Livonian territories to seek foreign protection.",
+    "ko": "1560년 러시아군은 에르게메에서 리보니아 기사단을 격파하고 빌잔디(펠린)를 점령해 전 기사단장 빌헬름 폰 퓌르스텐베르크를 사로잡았다. 혼란 속에 하르유의 에스토니아 농민들이 영주에 맞서 봉기했으나 패배했다. 기사단의 붕괴로 남은 리보니아 영역들은 외국의 보호를 구하게 되었다.",
+    "zh": "1560年，俄军在埃尔格梅击败利沃尼亚骑士团，攻占维尔扬迪（费林），俘获前大团长威廉·冯·菲尔斯滕贝格。混乱中，哈留的爱沙尼亚农民起来反抗庄园主，但遭到失败。骑士团的崩溃迫使剩余的利沃尼亚领地寻求外国保护。",
+    "ja": "1560年、ロシア軍はエルゲメでリヴォニア騎士団を破り、ヴィリャンディ（フェリン）を占領して前騎士団長ヴィルヘルム・フォン・フュルステンベルクを捕らえた。混乱の中、ハリユのエストニア人農民が領主に対して蜂起したが敗れた。騎士団の崩壊により、残るリヴォニア諸領は外国の保護を求めることになった。"
+   }
+  },
+  {
+   "year": 1561,
+   "qid": "Q2918454",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Swedish rule begins",
+    "ko": "스웨덴 지배의 시작",
+    "zh": "瑞典统治开始",
+    "ja": "スウェーデン統治の始まり"
+   },
+   "description": {
+    "en": "In June 1561, during the Livonian War, Tallinn and the nobility of Harju, Virumaa and Järva swore allegiance to King Eric XIV of Sweden, forming the Duchy of Estonia. The same year the Livonian Order was dissolved and its southern lands passed under Lithuania. The ensuing era of Swedish rule is later remembered as 'the good old Swedish time'.",
+    "ko": "리보니아 전쟁 중인 1561년 6월, 탈린과 하르유·비루마·예르바의 귀족들이 스웨덴 왕 에리크 14세에게 충성을 맹세해 에스토니아 공국이 성립했다. 같은 해 리보니아 기사단은 해체되고 남쪽 영토는 리투아니아 지배로 넘어갔다. 이어진 스웨덴 지배기는 훗날 '좋았던 스웨덴 시절'로 기억된다.",
+    "zh": "利沃尼亚战争期间的1561年6月，塔林和哈留、维鲁马、耶尔瓦的贵族向瑞典国王埃里克十四世宣誓效忠，组成爱沙尼亚公国。同年利沃尼亚骑士团解散，其南部领地转归立陶宛。随后的瑞典统治时期后来被称为“美好的瑞典旧时光”。",
+    "ja": "リヴォニア戦争中の1561年6月、タリンとハリユ、ヴィルマー、ヤルヴァの貴族はスウェーデン王エーリク14世に忠誠を誓い、エストニア公国が成立した。同年リヴォニア騎士団は解散し、南の領地はリトアニアの支配下に移った。続くスウェーデン統治期はのちに「古き良きスウェーデン時代」と記憶される。"
+   }
+  },
+  {
+   "year": 1570,
+   "qid": "Q18623473",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siege of Reval",
+    "ko": "레발 공방전",
+    "zh": "雷瓦尔之围",
+    "ja": "レヴァル包囲戦"
+   },
+   "description": {
+    "en": "From August 1570 to March 1571, Magnus of Livonia, Ivan IV's vassal 'King of Livonia', besieged Swedish-held Tallinn with Russian troops. The city held out, supplied by sea. A second Russian siege in 1577 also failed, and Tallinn remained Sweden's foothold in Estonia.",
+    "ko": "1570년 8월부터 1571년 3월까지 이반 4세의 봉신 '리보니아 왕' 마그누스가 러시아군과 함께 스웨덴령 탈린을 포위했다. 도시는 해상 보급을 받으며 버텼다. 1577년 러시아의 두 번째 포위도 실패했고, 탈린은 에스토니아에서 스웨덴의 거점으로 남았다.",
+    "zh": "1570年8月至1571年3月，伊凡四世的附庸“利沃尼亚国王”马格努斯率俄军围攻瑞典控制的塔林。该城依靠海上补给坚守下来。1577年俄军第二次围城同样失败，塔林始终是瑞典在爱沙尼亚的据点。",
+    "ja": "1570年8月から1571年3月まで、イヴァン4世の臣下「リヴォニア王」マグヌスがロシア軍とともにスウェーデン領タリンを包囲した。町は海からの補給を受けて持ちこたえた。1577年のロシアによる二度目の包囲も失敗し、タリンはエストニアにおけるスウェーデンの拠点であり続けた。"
+   }
+  },
+  {
+   "year": 1583,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Truce of Plussa ends the Livonian War",
+    "ko": "플류사 휴전과 리보니아 전쟁의 종결",
+    "zh": "普柳萨停战结束利沃尼亚战争",
+    "ja": "プリュッサ休戦とリヴォニア戦争の終結"
+   },
+   "description": {
+    "en": "After the Truce of Jam Zapolski (1582) with Poland–Lithuania, Muscovy concluded the Truce of Plussa with Sweden in 1583. Sweden kept northern Estonia and Narva, while southern Estonia went to Poland–Lithuania. Ivan IV's attempt to win the Baltic coast had failed, but the land was devastated and depopulated.",
+    "ko": "1582년 폴란드-리투아니아와의 얌 자폴스키 휴전에 이어, 모스크바국은 1583년 스웨덴과 플류사 휴전을 맺었다. 스웨덴은 북부 에스토니아와 나르바를 차지했고 남부 에스토니아는 폴란드-리투아니아에 돌아갔다. 발트해 연안을 얻으려던 이반 4세의 시도는 실패했지만 이 땅은 황폐해지고 인구가 크게 줄었다.",
+    "zh": "继1582年与波兰－立陶宛签订《扎波尔斯基亚姆停战协定》后，莫斯科公国于1583年与瑞典签订《普柳萨停战协定》。瑞典保有爱沙尼亚北部和纳尔瓦，南部归波兰－立陶宛。伊凡四世夺取波罗的海沿岸的企图失败，但这片土地已残破不堪、人口锐减。",
+    "ja": "1582年のポーランド＝リトアニアとのヤム・ザポルスキ休戦に続き、モスクワ国は1583年にスウェーデンとプリュッサ休戦を結んだ。スウェーデンは北エストニアとナルヴァを保持し、南エストニアはポーランド＝リトアニアに帰した。バルト海沿岸を得ようとしたイヴァン4世の試みは失敗したが、土地は荒廃し人口は激減した。"
+   }
+  },
+  {
+   "year": 1600,
+   "qid": "Q598774",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Polish–Swedish War over Livonia",
+    "ko": "리보니아를 둘러싼 폴란드-스웨덴 전쟁",
+    "zh": "波兰－瑞典争夺利沃尼亚的战争",
+    "ja": "リヴォニアをめぐるポーランド・スウェーデン戦争"
+   },
+   "description": {
+    "en": "In 1600 war broke out between Sweden and Poland–Lithuania, fueled by the dynastic quarrel between Charles IX and Sigismund III. Southern Estonia saw sieges of Tartu, Viljandi and Pärnu, and a Polish victory at Kircholm in 1605. Together with the famine of 1601–03, the fighting caused severe loss of life among the Estonian population.",
+    "ko": "1600년 카를 9세와 지그문트 3세의 왕위 분쟁을 배경으로 스웨덴과 폴란드-리투아니아 사이에 전쟁이 일어났다. 남부 에스토니아에서는 타르투·빌잔디·패르누 공방전이 벌어졌고 1605년 키르홀름에서는 폴란드가 승리했다. 1601~1603년의 기근과 겹친 전쟁으로 에스토니아 주민이 막대한 인명 피해를 입었다.",
+    "zh": "1600年，在查理九世与西吉斯蒙德三世王位之争的推动下，瑞典与波兰－立陶宛爆发战争。爱沙尼亚南部发生了塔尔图、维尔扬迪和派尔努的围城战，1605年波兰在基尔霍尔姆获胜。战争加上1601至1603年的饥荒，使爱沙尼亚居民死亡惨重。",
+    "ja": "1600年、カール9世とジグムント3世の王位争いを背景に、スウェーデンとポーランド＝リトアニアの間で戦争が起きた。南エストニアではタルトゥ、ヴィリャンディ、パルヌの攻囲戦が行われ、1605年にはキルホルムでポーランドが勝利した。1601～03年の飢饉と重なった戦争で、エストニアの住民は甚大な人的被害を受けた。"
+   }
+  },
+  {
+   "year": 1629,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Truce of Altmark: all mainland Estonia Swedish",
+    "ko": "알트마르크 휴전: 에스토니아 본토 전역이 스웨덴령으로",
+    "zh": "阿尔特马克停战：爱沙尼亚大陆全归瑞典",
+    "ja": "アルトマルク休戦：エストニア本土全域がスウェーデン領に"
+   },
+   "description": {
+    "en": "King Gustavus Adolphus conquered Livonia in the 1620s, taking Tartu in 1625. The Truce of Altmark in 1629 confirmed Swedish possession of Livonia, including southern Estonia. For the first time since the Middle Ages, all of mainland Estonia was under a single ruler; Saaremaa followed in 1645.",
+    "ko": "구스타브 2세 아돌프는 1620년대 리보니아를 정복해 1625년 타르투를 손에 넣었다. 1629년 알트마르크 휴전으로 남부 에스토니아를 포함한 리보니아의 스웨덴 영유가 확정되었다. 중세 이래 처음으로 에스토니아 본토 전체가 한 통치자 아래 놓였고, 사아레마는 1645년에 뒤를 이었다.",
+    "zh": "国王古斯塔夫·阿道夫在17世纪20年代征服利沃尼亚，1625年攻取塔尔图。1629年《阿尔特马克停战协定》确认瑞典占有包括爱沙尼亚南部在内的利沃尼亚。爱沙尼亚大陆自中世纪以来首次归于同一统治者，萨雷马则于1645年随之归属。",
+    "ja": "グスタフ2世アドルフは1620年代にリヴォニアを征服し、1625年にタルトゥを得た。1629年のアルトマルク休戦で、南エストニアを含むリヴォニアのスウェーデン領有が確定した。中世以来初めてエストニア本土全体が一人の支配者のもとに置かれ、サーレマーも1645年に続いた。"
+   }
+  },
+  {
+   "year": 1632,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "University of Tartu founded",
+    "ko": "타르투 대학교 설립",
+    "zh": "塔尔图大学创立",
+    "ja": "タルトゥ大学の創立"
+   },
+   "description": {
+    "en": "In 1632 King Gustavus Adolphus founded the Academia Gustaviana in Tartu (Dorpat), the second university in the Swedish realm after Uppsala. Closed and reopened during later wars, it was revived under Russian rule in 1802. The University of Tartu became a lasting center of Estonian learning, science and national culture.",
+    "ko": "1632년 구스타브 2세 아돌프는 타르투(도르파트)에 웁살라에 이어 스웨덴 왕국의 두 번째 대학인 아카데미아 구스타비아나를 세웠다. 이후 전쟁 중 폐쇄와 재개를 거듭하다 1802년 러시아 통치하에서 부활했다. 타르투 대학교는 에스토니아 학문·과학·민족 문화의 지속적 중심이 되었다.",
+    "zh": "1632年，国王古斯塔夫·阿道夫在塔尔图（多尔帕特）创办古斯塔夫学院，这是继乌普萨拉之后瑞典王国的第二所大学。此后在战乱中几经关闭与重开，1802年在俄国统治下复校。塔尔图大学成为爱沙尼亚学术、科学和民族文化的长久中心。",
+    "ja": "1632年、グスタフ2世アドルフはタルトゥ（ドルパト）に、ウプサラに次ぐスウェーデン王国第二の大学アカデミア・グスタヴィアナを創設した。その後の戦争で閉鎖と再開を繰り返し、1802年にロシア統治下で復活した。タルトゥ大学はエストニアの学問・科学・民族文化の永続的な中心となった。"
+   }
+  },
+  {
+   "year": 1637,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "First Estonian grammar",
+    "ko": "최초의 에스토니아어 문법서",
+    "zh": "第一部爱沙尼亚语语法书",
+    "ja": "最初のエストニア語文法書"
+   },
+   "description": {
+    "en": "In 1637 the Lutheran clergyman Heinrich Stahl published the first grammar of Estonian, written in German for pastors serving Estonian congregations. Stahl also produced religious handbooks in Estonian. Such works, though shaped by German usage, helped standardize written northern Estonian.",
+    "ko": "1637년 루터파 성직자 하인리히 슈탈은 에스토니아인 회중을 섬기는 목사들을 위해 독일어로 쓴 최초의 에스토니아어 문법서를 펴냈다. 슈탈은 에스토니아어 종교 안내서도 만들었다. 독일어 용법의 영향을 받았지만 이런 저작들은 북부 에스토니아어 문어의 표준화에 기여했다.",
+    "zh": "1637年，路德宗牧师海因里希·施塔尔出版了第一部爱沙尼亚语语法书，用德语写成，供为爱沙尼亚会众服务的牧师使用。施塔尔还编写了爱沙尼亚语宗教手册。这些著作虽受德语用法影响，却推动了北爱沙尼亚书面语的规范化。",
+    "ja": "1637年、ルター派聖職者ハインリヒ・シュタールは、エストニア人会衆に仕える牧師のためにドイツ語で書いた最初のエストニア語文法書を出版した。シュタールはエストニア語の宗教手引書も著した。ドイツ語の影響を受けつつも、こうした著作は北エストニア語の書き言葉の標準化に寄与した。"
+   }
+  },
+  {
+   "year": 1645,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Peace of Brömsebro: Saaremaa to Sweden",
+    "ko": "브룀세브로 조약: 사아레마가 스웨덴령으로",
+    "zh": "《布伦瑟布鲁和约》：萨雷马归瑞典",
+    "ja": "ブレムセブロー条約：サーレマーがスウェーデン領に"
+   },
+   "description": {
+    "en": "The Peace of Brömsebro, ending the Torstenson War between Sweden and Denmark–Norway in 1645, transferred Saaremaa (Ösel) from Denmark to Sweden. All of present-day Estonia was now part of the Swedish realm. Swedish rule over the whole territory would last until the Great Northern War.",
+    "ko": "1645년 스웨덴과 덴마크-노르웨이의 토르스텐손 전쟁을 끝낸 브룀세브로 조약으로 사아레마(외젤)가 덴마크에서 스웨덴으로 넘어갔다. 이제 오늘날 에스토니아 전역이 스웨덴 왕국의 일부가 되었다. 전 영역에 대한 스웨덴의 지배는 대북방 전쟁 때까지 이어졌다.",
+    "zh": "1645年，结束瑞典与丹麦－挪威托尔斯滕松战争的《布伦瑟布鲁和约》将萨雷马（厄塞尔）由丹麦割让给瑞典。至此，今天的爱沙尼亚全境都成为瑞典王国的一部分，瑞典对该地的统治一直持续到大北方战争。",
+    "ja": "1645年、スウェーデンとデンマーク＝ノルウェーのトルステンソン戦争を終わらせたブレムセブロー条約で、サーレマー（エーゼル）はデンマークからスウェーデンに移った。これで現在のエストニア全域がスウェーデン王国の一部となった。全域に対するスウェーデン支配は大北方戦争まで続いた。"
+   }
+  },
+  {
+   "year": 1656,
+   "qid": "Q4337374",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Russia captures Tartu",
+    "ko": "러시아의 타르투 점령",
+    "zh": "俄军攻占塔尔图",
+    "ja": "ロシアによるタルトゥ占領"
+   },
+   "description": {
+    "en": "During the Russo-Swedish War of 1656–58, Russian forces of Tsar Alexis besieged and took Tartu in October 1656. The occupation of southeastern Estonia lasted until the war's settlement. The Treaty of Cardis in 1661 restored the prewar borders.",
+    "ko": "1656~1658년 러시아-스웨덴 전쟁 중 차르 알렉세이의 러시아군은 1656년 10월 타르투를 포위해 점령했다. 남동부 에스토니아 점령은 전쟁이 정리될 때까지 계속되었다. 1661년 카르디스 조약으로 전쟁 전 국경이 회복되었다.",
+    "zh": "1656至1658年俄瑞战争期间，沙皇阿列克谢的俄军于1656年10月围攻并占领塔尔图。对爱沙尼亚东南部的占领一直持续到战争结束。1661年《卡尔迪斯条约》恢复了战前边界。",
+    "ja": "1656～58年のロシア・スウェーデン戦争の間、ツァーリ・アレクセイのロシア軍は1656年10月にタルトゥを包囲・占領した。南東エストニアの占領は戦争の決着まで続いた。1661年のカルディス条約で戦前の国境が回復された。"
+   }
+  },
+  {
+   "year": 1661,
+   "qid": "Q1456449",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Cardis",
+    "ko": "카르디스 조약",
+    "zh": "《卡尔迪斯条约》",
+    "ja": "カルディス条約"
+   },
+   "description": {
+    "en": "Signed in 1661 at Kärde in Estonia, the Treaty of Cardis ended the Russo-Swedish War and returned Russian-occupied Livonian territory to Sweden. It confirmed the borders set by the Treaty of Stolbovo (1617). The peace gave Swedish Estonia several decades of relative stability.",
+    "ko": "1661년 에스토니아의 캐르데에서 체결된 카르디스 조약은 러시아-스웨덴 전쟁을 끝내고 러시아가 점령한 리보니아 영토를 스웨덴에 반환했다. 이 조약은 스톨보보 조약(1617)이 정한 국경을 확인했다. 이 평화로 스웨덴령 에스토니아는 수십 년간 비교적 안정을 누렸다.",
+    "zh": "1661年在爱沙尼亚卡尔德签订的《卡尔迪斯条约》结束了俄瑞战争，将俄国占领的利沃尼亚领土归还瑞典，并确认了《斯托尔博沃条约》（1617年）所定边界。和平使瑞典属爱沙尼亚获得了数十年相对稳定。",
+    "ja": "1661年にエストニアのカルデで結ばれたカルディス条約は、ロシア・スウェーデン戦争を終わらせ、ロシアが占領したリヴォニア領をスウェーデンに返還した。条約はストルボヴォ条約（1617年）の国境を確認した。この平和でスウェーデン領エストニアは数十年の比較的安定を得た。"
+   }
+  },
+  {
+   "year": 1684,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Forselius founds a teachers' seminary",
+    "ko": "포르셀리우스, 교사 양성소 설립",
+    "zh": "福塞利乌斯创办师范学校",
+    "ja": "フォルセリウスが教員養成所を設立"
+   },
+   "description": {
+    "en": "In 1684 Bengt Gottfried Forselius opened a seminary near Tartu to train Estonian peasant boys as village schoolteachers. He also devised a simplified spelling and a fast method for teaching reading. His work began popular education in Estonian and laid foundations for the country's later high literacy.",
+    "ko": "1684년 벵트 고트프리트 포르셀리우스는 타르투 근처에 에스토니아 농민 소년들을 마을 교사로 키우는 양성소를 열었다. 그는 간소화된 철자법과 빠른 읽기 교수법도 고안했다. 그의 활동은 에스토니아어 대중 교육의 출발점이 되었고 훗날 높은 문해율의 토대를 놓았다.",
+    "zh": "1684年，本特·戈特弗里德·福塞利乌斯在塔尔图附近开办学校，培养爱沙尼亚农家男孩成为乡村教师。他还设计了简化的拼写法和快速识字教学法。他的工作开启了爱沙尼亚语的大众教育，为后来较高的识字率奠定了基础。",
+    "ja": "1684年、ベングト・ゴットフリード・フォルセリウスはタルトゥ近郊にエストニア人農民の少年を村の教師に育てる養成所を開いた。彼は簡略化した綴り方と速習の読み方教授法も考案した。その活動はエストニア語による民衆教育の始まりとなり、後の高い識字率の基礎を築いた。"
+   }
+  },
+  {
+   "year": 1686,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "New Testament in South Estonian",
+    "ko": "남부 에스토니아어 신약 성서",
+    "zh": "南爱沙尼亚语《新约》",
+    "ja": "南エストニア語の新約聖書"
+   },
+   "description": {
+    "en": "In 1686 the New Testament was published in the South Estonian (Võro–Tartu) written language, printed in Riga. It was the first complete New Testament in any form of Estonian. A northern Estonian New Testament followed in 1715 and the full Bible in 1739.",
+    "ko": "1686년 신약 성서가 남부 에스토니아어(보로-타르투) 문어로 리가에서 인쇄되었다. 이는 어떤 형태로든 에스토니아어로 된 최초의 완역 신약이었다. 북부 에스토니아어 신약은 1715년, 성서 전체는 1739년에 뒤따랐다.",
+    "zh": "1686年，《新约》以南爱沙尼亚（沃罗－塔尔图）书面语在里加印行。这是第一部完整的爱沙尼亚语《新约》。北爱沙尼亚语《新约》于1715年出版，全本《圣经》则于1739年问世。",
+    "ja": "1686年、新約聖書が南エストニア語（ヴォロ＝タルトゥ）の書き言葉でリガにおいて印刷された。これはいかなる形であれエストニア語による最初の完全な新約聖書だった。北エストニア語の新約は1715年、聖書全巻は1739年に続いた。"
+   }
+  },
+  {
+   "year": 1695,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Great Famine of 1695–97",
+    "ko": "1695~1697년 대기근",
+    "zh": "1695—1697年大饥荒",
+    "ja": "1695～97年の大飢饉"
+   },
+   "description": {
+    "en": "Successive crop failures caused by cold, wet summers brought a catastrophic famine to Estonia in 1695–97. Contemporary and later estimates suggest that roughly a fifth of the population died. The disaster, part of a wider northern European crisis, left the country weakened on the eve of the Great Northern War.",
+    "ko": "춥고 습한 여름으로 흉작이 거듭되면서 1695~1697년 에스토니아에 파국적인 기근이 닥쳤다. 당대와 후대의 추정에 따르면 인구의 약 5분의 1이 사망했다. 북유럽 전역에 걸친 위기의 일부였던 이 재앙으로 에스토니아는 대북방 전쟁 직전에 크게 약화되었다.",
+    "zh": "寒冷多雨的夏季导致连年歉收，1695至1697年爱沙尼亚发生灾难性饥荒。据当时及后来的估计，约五分之一的人口死亡。这场灾难是北欧更大范围危机的一部分，使该地在大北方战争前夕元气大伤。",
+    "ja": "冷たく雨の多い夏による凶作が続き、1695～97年にエストニアは破局的な飢饉に見舞われた。当時と後世の推計では人口のおよそ5分の1が死亡した。北欧全体の危機の一部だったこの災厄で、エストニアは大北方戦争の直前に大きく弱体化した。"
+   }
+  },
+  {
+   "year": 1700,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Great Northern War: Battle of Narva",
+    "ko": "대북방 전쟁: 나르바 전투",
+    "zh": "大北方战争：纳尔瓦战役",
+    "ja": "大北方戦争：ナルヴァの戦い"
+   },
+   "description": {
+    "en": "In 1700 Russia, Denmark and Saxony attacked Sweden, opening the Great Northern War. On 30 November 1700 (Swedish calendar) Charles XII routed a much larger Russian army besieging Narva. Despite this victory, the war would end Swedish rule in Estonia.",
+    "ko": "1700년 러시아·덴마크·작센이 스웨덴을 공격하며 대북방 전쟁이 시작되었다. 1700년 11월 30일(스웨덴력) 카를 12세는 나르바를 포위하던 훨씬 큰 규모의 러시아군을 격파했다. 이 승리에도 불구하고 전쟁은 결국 에스토니아에서 스웨덴 지배를 끝냈다.",
+    "zh": "1700年，俄国、丹麦和萨克森进攻瑞典，大北方战争爆发。1700年11月30日（瑞典历），查理十二世击溃了围攻纳尔瓦、兵力远胜于己的俄军。尽管取得这次胜利，这场战争最终终结了瑞典在爱沙尼亚的统治。",
+    "ja": "1700年、ロシア・デンマーク・ザクセンがスウェーデンを攻撃し、大北方戦争が始まった。1700年11月30日（スウェーデン暦）、カール12世はナルヴァを包囲していたはるかに大きなロシア軍を撃破した。この勝利にもかかわらず、戦争は結局エストニアにおけるスウェーデン統治を終わらせた。"
+   }
+  },
+  {
+   "year": 1704,
+   "qid": "Q694054",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Russia takes Tartu and Narva",
+    "ko": "러시아의 타르투·나르바 점령",
+    "zh": "俄军攻取塔尔图与纳尔瓦",
+    "ja": "ロシアがタルトゥとナルヴァを奪取"
+   },
+   "description": {
+    "en": "While Charles XII campaigned in Poland, Peter the Great's armies ravaged the Baltic provinces. In 1704 they captured Tartu in July and stormed Narva in August. In 1708 the Russians deported Tartu's inhabitants and destroyed much of the town.",
+    "ko": "카를 12세가 폴란드에서 전쟁하는 동안 표트르 대제의 군대는 발트 지방을 유린했다. 1704년 7월 타르투를, 8월에는 나르바를 함락했다. 1708년 러시아는 타르투 주민을 강제 이주시키고 도시 대부분을 파괴했다.",
+    "zh": "查理十二世转战波兰之际，彼得大帝的军队蹂躏了波罗的海诸省。1704年7月他们攻占塔尔图，8月强攻拿下纳尔瓦。1708年俄军将塔尔图居民强行迁走，并摧毁了城市的大部分。",
+    "ja": "カール12世がポーランドで戦っている間に、ピョートル大帝の軍はバルト諸州を荒らした。1704年7月にタルトゥ、8月にナルヴァを攻略した。1708年、ロシアはタルトゥの住民を強制移住させ、町の大半を破壊した。"
+   }
+  },
+  {
+   "year": 1710,
+   "qid": "Q1389854",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Capitulation of Tallinn amid plague",
+    "ko": "역병 속 탈린의 항복",
+    "zh": "瘟疫中的塔林投降",
+    "ja": "ペスト禍の中でのタリン降伏"
+   },
+   "description": {
+    "en": "In 1710 Russian troops besieged Tallinn and Pärnu while a plague epidemic swept the region, killing a large part of the population. Pärnu surrendered in August and Tallinn in September; the Baltic German nobility and towns capitulated to Peter the Great in return for guarantees of their privileges, religion and German administration. This effectively ended Swedish rule.",
+    "ko": "1710년 러시아군이 탈린과 패르누를 포위하는 동안 역병이 지역을 휩쓸어 주민의 상당수가 죽었다. 패르누는 8월, 탈린은 9월에 항복했으며, 발트 독일계 귀족과 도시는 특권·종교·독일식 행정의 보장을 대가로 표트르 대제에게 항복했다. 이로써 스웨덴 지배는 사실상 끝났다.",
+    "zh": "1710年俄军围攻塔林和派尔努，同时瘟疫席卷该地区，大量居民死亡。派尔努于8月、塔林于9月投降；波罗的海德意志贵族和城市以保障其特权、宗教和德意志式行政为条件向彼得大帝投降。瑞典统治就此实际终结。",
+    "ja": "1710年、ロシア軍がタリンとパルヌを包囲する間にペストが地域を襲い、住民の多くが死亡した。パルヌは8月、タリンは9月に降伏し、バルト・ドイツ人貴族と都市は特権・宗教・ドイツ式行政の保証と引き換えにピョートル大帝に降伏した。これでスウェーデン統治は事実上終わった。"
+   }
+  },
+  {
+   "year": 1721,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Nystad brings Russian rule",
+    "ko": "뉘스타드 조약과 러시아 지배",
+    "zh": "《尼斯塔德条约》与俄国统治",
+    "ja": "ニスタット条約とロシア支配"
+   },
+   "description": {
+    "en": "After the devastation of the Great Northern War, Sweden ceded Estonia and Livonia to Russia in the Treaty of Nystad in 1721. The Baltic German nobility retained wide local self-government, Lutheran church and German language under the tsars. For Estonian peasants, serfdom became harsher in the 18th century.",
+    "ko": "대북방 전쟁의 참화 끝에 스웨덴은 1721년 뉘스타드 조약으로 에스틀란트와 리플란트를 러시아에 할양했다. 발트 독일계 귀족은 차르 아래에서도 폭넓은 지방 자치, 루터교회, 독일어를 유지했다. 에스토니아 농민에게 18세기의 농노제는 더욱 가혹해졌다.",
+    "zh": "经过大北方战争的浩劫，瑞典于1721年通过《尼斯塔德条约》将爱斯特兰和利夫兰割让给俄国。波罗的海德意志贵族在沙皇治下保留了广泛的地方自治、路德宗教会和德语地位。对爱沙尼亚农民而言，18世纪的农奴制更加严酷。",
+    "ja": "大北方戦争の荒廃の後、スウェーデンは1721年のニスタット条約でエストラントとリフラントをロシアに割譲した。バルト・ドイツ人貴族はツァーリのもとでも広範な地方自治、ルター派教会、ドイツ語を保持した。エストニア人農民にとって、18世紀の農奴制はいっそう過酷になった。"
+   }
+  },
+  {
+   "year": 1739,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "First full Estonian Bible",
+    "ko": "최초의 에스토니아어 성서 완역본",
+    "zh": "第一部完整的爱沙尼亚语《圣经》",
+    "ja": "最初のエストニア語聖書全訳"
+   },
+   "description": {
+    "en": "In 1739 the complete Bible in northern Estonian was published in Tallinn, a project led by pastor Anton Thor Helle. It became the standard text in homes and schools and strongly shaped the literary language. Together with the Moravian (Herrnhut) revival that spread among peasants in the same period, it deepened popular literacy and piety.",
+    "ko": "1739년 안톤 토르 헬레 목사가 주도한 북부 에스토니아어 성서 전권이 탈린에서 출간되었다. 이는 가정과 학교의 표준 텍스트가 되어 문어 형성에 큰 영향을 미쳤다. 같은 시기 농민 사이에 퍼진 모라비아(헤른후트) 신앙 부흥과 더불어 대중의 문해와 신앙심을 깊게 했다.",
+    "zh": "1739年，由安东·托尔·赫勒牧师主持翻译的北爱沙尼亚语全本《圣经》在塔林出版。它成为家庭和学校的标准文本，深刻塑造了书面语。与同期在农民中传播的摩拉维亚（亨胡特）复兴运动一道，加深了民众的识字和虔诚。",
+    "ja": "1739年、アントン・トール・ヘレ牧師が主導した北エストニア語の聖書全巻がタリンで刊行された。家庭や学校の標準テキストとなり、書き言葉の形成に大きな影響を与えた。同じ頃農民の間に広がったモラヴィア（ヘルンフート）派の信仰復興とともに、民衆の識字と敬虔さを深めた。"
+   }
+  },
+  {
+   "year": 1790,
+   "qid": "Q2495510",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Naval Battle of Reval",
+    "ko": "레발 해전",
+    "zh": "雷瓦尔海战",
+    "ja": "レヴァル海戦"
+   },
+   "description": {
+    "en": "In May 1790, during the Russo-Swedish War of 1788–90, a Swedish fleet attacked the Russian squadron anchored at Tallinn and was repulsed. The battle was part of Gustav III's attempt to regain Baltic territory. The war ended later that year without border changes, confirming Russian control of Estonia.",
+    "ko": "1788~1790년 러시아-스웨덴 전쟁 중인 1790년 5월, 스웨덴 함대가 탈린에 정박한 러시아 함대를 공격했으나 격퇴되었다. 이 전투는 발트 영토를 되찾으려던 구스타브 3세의 시도의 일부였다. 전쟁은 그해 국경 변화 없이 끝나 러시아의 에스토니아 지배가 확인되었다.",
+    "zh": "1788至1790年俄瑞战争期间，1790年5月瑞典舰队攻击停泊在塔林的俄国舰队，遭到击退。此役是古斯塔夫三世收复波罗的海领土企图的一部分。战争于当年结束，边界未变，俄国对爱沙尼亚的控制得到确认。",
+    "ja": "1788～90年のロシア・スウェーデン戦争中の1790年5月、スウェーデン艦隊はタリンに停泊するロシア艦隊を攻撃したが撃退された。この戦いはバルト領の奪回をめざすグスタフ3世の試みの一部だった。戦争は同年、国境の変更なく終わり、ロシアのエストニア支配が確認された。"
+   }
+  },
+  {
+   "year": 1802,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "University of Tartu reopened",
+    "ko": "타르투 대학교 재개교",
+    "zh": "塔尔图大学复校",
+    "ja": "タルトゥ大学の再開"
+   },
+   "description": {
+    "en": "In 1802 Emperor Alexander I reopened the university in Tartu (Dorpat) as a German-language institution. It became one of the empire's leading universities, with scholars such as the astronomer F. G. W. Struve and the embryologist Karl Ernst von Baer. Later in the century it also trained the first generation of Estonian intellectuals.",
+    "ko": "1802년 알렉산드르 1세는 타르투(도르파트)의 대학을 독일어 교육 기관으로 재개교했다. 이 대학은 천문학자 F. G. W. 슈트루베, 발생학자 카를 에른스트 폰 베어 등이 활동한 제국 최고 수준의 대학 중 하나가 되었다. 19세기 후반에는 최초의 에스토니아인 지식인 세대도 길러냈다.",
+    "zh": "1802年，亚历山大一世在塔尔图（多尔帕特）以德语教学的形式重开大学。该校成为帝国一流大学之一，天文学家F·G·W·斯特鲁维、胚胎学家卡尔·恩斯特·冯·贝尔等学者曾在此任教。19世纪后期，它还培养出第一代爱沙尼亚知识分子。",
+    "ja": "1802年、アレクサンドル1世はタルトゥ（ドルパト）の大学をドイツ語の教育機関として再開した。天文学者F・G・W・シュトルーヴェや発生学者カール・エルンスト・フォン・ベーアらが活躍し、帝国屈指の大学となった。19世紀後半には最初のエストニア人知識人世代も育てた。"
+   }
+  },
+  {
+   "year": 1816,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Abolition of serfdom",
+    "ko": "농노제 폐지",
+    "zh": "废除农奴制",
+    "ja": "農奴制の廃止"
+   },
+   "description": {
+    "en": "Serfdom was abolished in the Governorate of Estonia in 1816 and in Livonia in 1819, decades before the rest of the Russian Empire. Peasants gained personal freedom but no land, which remained with the manors, so they continued to work as tenants under heavy obligations. Later reforms in the mid-19th century allowed peasants to rent for money and buy farms.",
+    "ko": "농노제는 러시아 제국의 다른 지역보다 수십 년 앞서 에스틀란트 현에서 1816년, 리플란트 현에서 1819년에 폐지되었다. 농민은 인신의 자유를 얻었지만 토지는 영지에 남아 무거운 의무를 지는 소작인으로 계속 일했다. 19세기 중반의 후속 개혁으로 농민은 현금 지대를 내고 농장을 살 수 있게 되었다.",
+    "zh": "爱斯特兰省于1816年、利夫兰省于1819年废除农奴制，比俄罗斯帝国其他地区早数十年。农民获得人身自由却没有土地，土地仍归庄园所有，他们只能继续以佃农身份承担沉重义务。19世纪中叶的后续改革才允许农民以货币支付地租并购买农庄。",
+    "ja": "農奴制はロシア帝国の他地域より数十年早く、エストラント県で1816年、リフラント県で1819年に廃止された。農民は人身の自由を得たが土地は荘園に残り、重い義務を負う小作人として働き続けた。19世紀半ばの改革でようやく金納の小作や農場の購入が可能になった。"
+   }
+  },
+  {
+   "year": 1838,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Learned Estonian Society founded",
+    "ko": "에스토니아 학회 창립",
+    "zh": "爱沙尼亚学术协会成立",
+    "ja": "エストニア学術協会の創立"
+   },
+   "description": {
+    "en": "In 1838 the Learned Estonian Society was founded in Tartu by Estophile scholars, many of them Baltic Germans, to study Estonian language, folklore and history. It encouraged the collection of folk songs and the publication of the epic Kalevipoeg. The society helped lay the scholarly groundwork for the national awakening.",
+    "ko": "1838년 발트 독일계를 비롯한 에스토니아 애호 학자들이 타르투에서 에스토니아어·민속·역사를 연구하기 위해 에스토니아 학회를 창립했다. 학회는 민요 수집과 서사시 『칼레비포에그』의 출간을 장려했다. 이 학회는 민족 각성의 학문적 토대를 놓는 데 기여했다.",
+    "zh": "1838年，以波罗的海德意志人为主的“爱沙尼亚之友”学者在塔尔图成立爱沙尼亚学术协会，研究爱沙尼亚语言、民俗和历史。协会推动民歌搜集和史诗《卡列维波埃格》的出版，为民族觉醒奠定了学术基础。",
+    "ja": "1838年、多くがバルト・ドイツ人であるエストニア愛好家の学者たちが、エストニア語・民俗・歴史を研究するためタルトゥでエストニア学術協会を創立した。協会は民謡の収集や叙事詩『カレヴィポエク』の出版を後押しした。協会は民族覚醒の学術的基盤づくりに寄与した。"
+   }
+  },
+  {
+   "year": 1857,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Perno Postimees and the Estonian press",
+    "ko": "『페르노 포스티메스』와 에스토니아어 언론",
+    "zh": "《派尔努邮差报》与爱沙尼亚语报刊",
+    "ja": "『ペルノ・ポスティメース』とエストニア語新聞"
+   },
+   "description": {
+    "en": "In 1857 Johann Voldemar Jannsen began publishing the weekly Perno Postimees in Pärnu, the first lasting Estonian-language newspaper. It addressed readers as 'Estonians' (eestlased) rather than 'country people'. Jannsen later moved to Tartu with Eesti Postimees, becoming a key figure of the national awakening.",
+    "ko": "1857년 요한 볼데마르 얀센은 패르누에서 주간지 『페르노 포스티메스』를 창간했는데, 이는 지속적으로 발행된 최초의 에스토니아어 신문이었다. 신문은 독자를 '시골 사람' 대신 '에스토니아인(에스틀라세드)'으로 불렀다. 얀센은 이후 타르투에서 『에스티 포스티메스』를 펴내며 민족 각성의 핵심 인물이 되었다.",
+    "zh": "1857年，约翰·沃尔德马尔·扬森在派尔努创办周报《派尔努邮差报》，这是第一份长期发行的爱沙尼亚语报纸。报纸称读者为“爱沙尼亚人”而非“乡下人”。扬森后来迁往塔尔图创办《爱沙尼亚邮差报》，成为民族觉醒的关键人物。",
+    "ja": "1857年、ヨハン・ヴォルデマール・ヤンセンはパルヌで週刊紙『ペルノ・ポスティメース』を創刊した。これは継続的に発行された最初のエストニア語新聞だった。同紙は読者を「田舎の人」ではなく「エストニア人」と呼んだ。ヤンセンはのちにタルトゥで『エースティ・ポスティメース』を出し、民族覚醒の中心人物となった。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Mahtra War",
+    "ko": "마흐트라 전쟁",
+    "zh": "马赫特拉战争",
+    "ja": "マフトラ戦争"
+   },
+   "description": {
+    "en": "In 1858 peasants at the Mahtra manor in Harju County resisted increased labor duties and clashed with soldiers sent to enforce them. The unrest, part of wider peasant discontent in northern Estonia, was suppressed with punishments and exile. It later became a symbol of peasant resistance, notably in Eduard Vilde's novel.",
+    "ko": "1858년 하르유 지방 마흐트라 영지의 농민들이 늘어난 노역 의무에 저항하다 이를 강제하러 온 군대와 충돌했다. 북부 에스토니아에 퍼진 농민 불만의 일부였던 이 소요는 처벌과 유형으로 진압되었다. 이 사건은 훗날 에두아르트 빌데의 소설 등을 통해 농민 저항의 상징이 되었다.",
+    "zh": "1858年，哈留县马赫特拉庄园的农民抵制加重的劳役，与前来强制执行的士兵发生冲突。这场骚乱是北爱沙尼亚农民普遍不满的一部分，最终以惩罚和流放被镇压。后来它通过爱德华·维尔德的小说等成为农民反抗的象征。",
+    "ja": "1858年、ハリユ郡マフトラ荘園の農民が増やされた賦役に抵抗し、強制のため派遣された兵士と衝突した。北エストニアに広がった農民の不満の一部であったこの騒擾は、刑罰と流刑で鎮圧された。のちにエドゥアルド・ヴィルデの小説などを通じて農民抵抗の象徴となった。"
+   }
+  },
+  {
+   "year": 1862,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Kalevipoeg, the national epic",
+    "ko": "민족 서사시 『칼레비포에그』",
+    "zh": "民族史诗《卡列维波埃格》",
+    "ja": "民族叙事詩『カレヴィポエク』"
+   },
+   "description": {
+    "en": "Friedrich Reinhold Kreutzwald compiled the epic Kalevipoeg from folk songs and his own verse; it appeared with a German translation in 1857–61, and a popular Estonian edition was printed in Finland in 1862. The tale of the giant hero gave Estonians a national epic. It became a cornerstone of national literature and identity.",
+    "ko": "프리드리히 라인홀트 크로이츠발트는 민요와 자신의 시를 엮어 서사시 『칼레비포에그』를 편찬했으며, 1857~1861년 독일어 번역과 함께 출간된 뒤 1862년 핀란드에서 에스토니아어 보급판이 인쇄되었다. 거인 영웅의 이야기는 에스토니아인에게 민족 서사시를 안겨 주었다. 이 작품은 민족 문학과 정체성의 초석이 되었다.",
+    "zh": "弗里德里希·莱因霍尔德·克罗伊茨瓦尔德根据民歌并加上自己的诗句编成史诗《卡列维波埃格》，1857至1861年附德语译文出版，1862年在芬兰印行了爱沙尼亚语普及本。这部巨人英雄的故事为爱沙尼亚人提供了民族史诗，成为民族文学和认同的基石。",
+    "ja": "フリードリヒ・ラインホルト・クロイツヴァルトは民謡と自作の詩から叙事詩『カレヴィポエク』を編み、1857～61年にドイツ語訳付きで刊行、1862年にはフィンランドでエストニア語の普及版が印刷された。巨人の英雄の物語はエストニア人に民族叙事詩をもたらした。民族文学とアイデンティティの礎となった。"
+   }
+  },
+  {
+   "year": 1869,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "First Estonian Song Festival",
+    "ko": "제1회 에스토니아 노래 축제",
+    "zh": "首届爱沙尼亚歌唱节",
+    "ja": "第1回エストニア歌の祭典"
+   },
+   "description": {
+    "en": "In June 1869 the first all-Estonian Song Festival was held in Tartu, organized by J. V. Jannsen, with over 800 singers and musicians. It premiered songs set to poems by Lydia Koidula, including the later national favorite 'Mu isamaa on minu arm'. The festival became a landmark of the national awakening, and the choral tradition a pillar of Estonian identity.",
+    "ko": "1869년 6월 J. V. 얀센이 주관한 제1회 전 에스토니아 노래 축제가 타르투에서 열려 800명이 넘는 가수와 연주자가 참여했다. 이 자리에서 리디아 코이둘라의 시에 곡을 붙인 노래들이 초연되었는데, 훗날 국민 애창곡이 된 「내 조국은 나의 사랑」도 그중 하나였다. 이 축제는 민족 각성의 이정표가 되었고 합창 전통은 에스토니아 정체성의 기둥이 되었다.",
+    "zh": "1869年6月，由J·V·扬森组织的首届全爱沙尼亚歌唱节在塔尔图举行，800多名歌手和乐手参加。会上首演了以莉迪亚·科伊杜拉诗作谱写的歌曲，其中包括后来深受国民喜爱的《我的祖国是我的爱》。这次歌唱节成为民族觉醒的里程碑，合唱传统也成为爱沙尼亚认同的支柱。",
+    "ja": "1869年6月、J・V・ヤンセンが主催した第1回全エストニア歌の祭典がタルトゥで開かれ、800人を超える歌い手と奏者が参加した。リディア・コイドゥラの詩に曲をつけた歌が初演され、その中にはのちに国民的愛唱歌となる「わが祖国はわが愛」もあった。祭典は民族覚醒の画期となり、合唱の伝統はエストニアのアイデンティティの柱となった。"
+   }
+  },
+  {
+   "year": 1870,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Baltic Railway opens",
+    "ko": "발트 철도 개통",
+    "zh": "波罗的海铁路通车",
+    "ja": "バルト鉄道の開通"
+   },
+   "description": {
+    "en": "In 1870 the Baltic Railway linking Paldiski and Tallinn with Narva and St Petersburg opened. It connected Estonia's ports to the Russian interior and spurred industry, especially in Tallinn and at the Kreenholm textile mill in Narva. Railways also accelerated migration from countryside to towns.",
+    "ko": "1870년 팔디스키·탈린과 나르바·상트페테르부르크를 잇는 발트 철도가 개통되었다. 철도는 에스토니아 항구를 러시아 내륙과 연결해 특히 탈린과 나르바의 크렌홀름 직물 공장 등 산업 발전을 촉진했다. 철도는 농촌에서 도시로의 이주도 가속했다.",
+    "zh": "1870年，连接帕尔迪斯基、塔林与纳尔瓦、圣彼得堡的波罗的海铁路通车。铁路将爱沙尼亚港口与俄国内地相连，推动了工业发展，尤其是塔林和纳尔瓦的克伦霍尔姆纺织厂。铁路也加快了人口由乡村向城市的迁移。",
+    "ja": "1870年、パルディスキとタリンをナルヴァ、サンクトペテルブルクと結ぶバルト鉄道が開通した。鉄道はエストニアの港をロシア内陸と結び、特にタリンやナルヴァのクレーンホルム紡績工場などの工業化を促した。鉄道は農村から都市への移住も加速させた。"
+   }
+  },
+  {
+   "year": 1887,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Russification policies",
+    "ko": "러시아화 정책",
+    "zh": "俄罗斯化政策",
+    "ja": "ロシア化政策"
+   },
+   "description": {
+    "en": "Under Alexander III, from the mid-1880s the imperial government curtailed Baltic German autonomy and imposed Russian in administration, courts and schools; by 1887 Russian was being made the language of instruction. The University of Tartu was Russified and Dorpat renamed Yuryev in 1893. The policy weakened the German elite but also pressed hard on Estonian culture, slowing the national movement for a time.",
+    "ko": "알렉산드르 3세 치하에서 1880년대 중반부터 제국 정부는 발트 독일계 자치를 축소하고 행정·법원·학교에 러시아어를 강요했으며, 1887년 무렵에는 러시아어를 교육 언어로 만들어 갔다. 타르투 대학도 러시아화되었고 1893년 도르파트는 유리예프로 개칭되었다. 이 정책은 독일계 엘리트를 약화시켰지만 에스토니아 문화도 크게 압박해 한동안 민족 운동을 둔화시켰다.",
+    "zh": "亚历山大三世在位期间，帝国政府自19世纪80年代中期起削减波罗的海德意志人的自治，在行政、法院和学校中强制推行俄语，至1887年开始将俄语定为教学语言。塔尔图大学被俄罗斯化，1893年多尔帕特改名尤里耶夫。这些政策削弱了德意志精英，也沉重压制了爱沙尼亚文化，使民族运动一度放缓。",
+    "ja": "アレクサンドル3世の治世下、1880年代半ばから帝国政府はバルト・ドイツ人の自治を縮小し、行政・裁判所・学校にロシア語を強制し、1887年頃にはロシア語を教授言語にしていった。タルトゥ大学もロシア化され、1893年にドルパトはユーリエフと改称された。政策はドイツ人エリートを弱めたが、エストニア文化も強く圧迫し、民族運動を一時停滞させた。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Revolution of 1905 in Estonia",
+    "ko": "에스토니아의 1905년 혁명",
+    "zh": "爱沙尼亚的1905年革命",
+    "ja": "エストニアの1905年革命"
+   },
+   "description": {
+    "en": "The 1905 Revolution brought strikes, political meetings and demands for autonomy to Estonia; on 16 October troops fired on a demonstration in Tallinn, killing dozens. In December rural crowds looted and burned many Baltic German manors. Punitive expeditions executed hundreds and exiled many more, but the revolution politicized Estonian society.",
+    "ko": "1905년 혁명은 에스토니아에 파업, 정치 집회, 자치 요구를 불러왔고, 10월 16일 탈린에서는 군대가 시위대에 발포해 수십 명이 죽었다. 12월에는 농촌 군중이 많은 발트 독일계 영지를 약탈하고 불태웠다. 징벌대가 수백 명을 처형하고 더 많은 사람을 유형 보냈지만, 혁명은 에스토니아 사회를 정치화했다.",
+    "zh": "1905年革命给爱沙尼亚带来了罢工、政治集会和自治诉求；10月16日军队在塔林向示威者开枪，打死数十人。12月，乡村民众抢掠并焚烧了许多波罗的海德意志人的庄园。讨伐队处决数百人、流放更多人，但革命使爱沙尼亚社会走向政治化。",
+    "ja": "1905年革命はエストニアにストライキ、政治集会、自治要求をもたらし、10月16日にはタリンで軍がデモ隊に発砲して数十人が死亡した。12月には農村の群衆が多くのバルト・ドイツ人の荘園を略奪・焼き討ちした。懲罰隊は数百人を処刑し、さらに多くを流刑にしたが、革命はエストニア社会を政治化した。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": "Q2918340",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Estonian autonomy and German invasion",
+    "ko": "에스토니아 자치와 독일군 침공",
+    "zh": "爱沙尼亚自治与德军入侵",
+    "ja": "エストニア自治とドイツ軍侵攻"
+   },
+   "description": {
+    "en": "In March–April 1917 the Russian Provisional Government united Estonian-speaking lands into an autonomous Governorate of Estonia, and the elected Maapäev (Provincial Assembly) met that summer. In September–October German forces seized the West Estonian islands in Operation Albion. In November, as the Bolsheviks seized local power, the Maapäev declared itself the supreme authority in Estonia.",
+    "ko": "1917년 3~4월 러시아 임시정부는 에스토니아어 사용 지역을 자치 에스토니아 현으로 통합했고, 선출된 마페브(지방 의회)가 그해 여름 소집되었다. 9~10월 독일군은 알비온 작전으로 서에스토니아 제도를 장악했다. 11월 볼셰비키가 현지 권력을 잡자 마페브는 스스로를 에스토니아의 최고 권력 기관으로 선언했다.",
+    "zh": "1917年3至4月，俄国临时政府将讲爱沙尼亚语的地区合并为爱沙尼亚自治省，民选的省议会“马佩夫”于当年夏天召开。9至10月，德军通过“阿尔比恩行动”夺取西爱沙尼亚群岛。11月布尔什维克夺取地方政权之际，马佩夫宣布自己为爱沙尼亚的最高权力机关。",
+    "ja": "1917年3～4月、ロシア臨時政府はエストニア語圏を自治エストニア県に統合し、選挙されたマーパエフ（県議会）が同年夏に招集された。9～10月、ドイツ軍はアルビオン作戦で西エストニア諸島を占領した。11月、ボリシェヴィキが現地権力を握ると、マーパエフは自らをエストニアの最高権力機関と宣言した。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Declaration of independence",
+    "ko": "에스토니아 독립 선언",
+    "zh": "爱沙尼亚宣布独立",
+    "ja": "エストニア独立宣言"
+   },
+   "description": {
+    "en": "On 24 February 1918, between the Bolsheviks' retreat and the Germans' arrival, the Salvation Committee proclaimed the Manifesto to the Peoples of Estonia in Tallinn, declaring an independent democratic republic. German occupation followed the next day and lasted until November. The date is celebrated as Independence Day.",
+    "ko": "1918년 2월 24일, 볼셰비키가 물러나고 독일군이 도착하기 직전 구국위원회는 탈린에서 「에스토니아 모든 민족에게 보내는 선언」을 발표해 독립 민주 공화국을 선포했다. 바로 다음 날 독일 점령이 시작되어 11월까지 이어졌다. 이날은 독립기념일로 기념된다.",
+    "zh": "1918年2月24日，在布尔什维克撤离、德军到来之间，救国委员会在塔林发表《致爱沙尼亚各族人民宣言》，宣布成立独立的民主共和国。次日德军开始占领，一直持续到11月。这一天被定为独立日。",
+    "ja": "1918年2月24日、ボリシェヴィキの撤退とドイツ軍到着の合間に、救国委員会はタリンで「エストニア諸民族への宣言」を発し、独立した民主共和国を宣言した。翌日からドイツ占領が始まり11月まで続いた。この日は独立記念日として祝われている。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": "Q1127302",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "War of Independence begins",
+    "ko": "독립 전쟁 발발",
+    "zh": "独立战争爆发",
+    "ja": "独立戦争の勃発"
+   },
+   "description": {
+    "en": "In late November 1918, as German troops withdrew, the Red Army invaded and soon came within about 30 km of Tallinn. The Provisional Government mobilized an army, aided by a British naval squadron and Finnish and other volunteers, and drove the invaders out by February 1919. In June 1919 Estonian and Latvian forces also defeated the Baltic German Landeswehr near Cēsis (Võnnu).",
+    "ko": "1918년 11월 말 독일군이 철수하자 붉은 군대가 침공해 곧 탈린 약 30km 앞까지 다가왔다. 임시정부는 영국 해군 함대와 핀란드 등 의용병의 도움을 받아 군을 동원했고 1919년 2월까지 침략군을 몰아냈다. 1919년 6월에는 에스토니아군과 라트비아군이 체시스(뵌누) 부근에서 발트 독일계 란데스베어도 격파했다.",
+    "zh": "1918年11月底德军撤离之际，红军入侵，不久便逼近距塔林约30公里处。临时政府在英国海军舰队以及芬兰等国志愿者的援助下动员军队，至1919年2月将入侵者逐出。1919年6月，爱沙尼亚和拉脱维亚军队还在采西斯（维恩努）附近击败了波罗的海德意志人的“国土防卫军”。",
+    "ja": "1918年11月末、ドイツ軍が撤退すると赤軍が侵攻し、まもなくタリンの約30キロ手前に迫った。臨時政府はイギリス海軍艦隊やフィンランドなどの義勇兵の支援を受けて軍を動員し、1919年2月までに侵略軍を駆逐した。1919年6月にはエストニア軍とラトビア軍がツェーシス（ヴォンヌ）付近でバルト・ドイツ人のラントヴェーアも破った。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": "Q1720027",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Paju",
+    "ko": "파유 전투",
+    "zh": "帕尤之战",
+    "ja": "パユの戦い"
+   },
+   "description": {
+    "en": "On 31 January 1919 Estonian troops and Finnish volunteers defeated Red Latvian Riflemen at Paju manor near Valga after fierce fighting. The victory opened the way to recapture Valga and to clear southern Estonia of Soviet forces. It became one of the most celebrated battles of the War of Independence.",
+    "ko": "1919년 1월 31일 에스토니아군과 핀란드 의용병은 발가 근처 파유 영지에서 격전 끝에 붉은 라트비아 소총병을 격파했다. 이 승리로 발가 탈환과 남부 에스토니아에서의 소련군 축출의 길이 열렸다. 이는 독립 전쟁에서 가장 이름난 전투 중 하나가 되었다.",
+    "zh": "1919年1月31日，爱沙尼亚军队和芬兰志愿者在瓦尔加附近的帕尤庄园经激战击败拉脱维亚红色步兵。此役为收复瓦尔加、肃清爱沙尼亚南部苏军打开了道路，成为独立战争中最著名的战役之一。",
+    "ja": "1919年1月31日、エストニア軍とフィンランド義勇兵はヴァルガ近郊のパユ荘園で激戦の末、ラトビア赤色狙撃兵を破った。この勝利でヴァルガ奪回と南エストニアからのソ連軍一掃への道が開かれた。独立戦争で最も名高い戦いの一つとなった。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": "Q1370313",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Land reform breaks the manorial estates",
+    "ko": "토지 개혁과 영지 해체",
+    "zh": "土地改革瓦解庄园",
+    "ja": "土地改革と荘園の解体"
+   },
+   "description": {
+    "en": "In October 1919 the Constituent Assembly passed a land reform expropriating the large estates, most of them owned by Baltic German nobles. The land was distributed to Estonian farmers, war veterans and the landless, creating tens of thousands of new smallholdings. It ended seven centuries of Baltic German landed dominance.",
+    "ko": "1919년 10월 제헌의회는 대부분 발트 독일계 귀족 소유였던 대영지를 몰수하는 토지 개혁법을 통과시켰다. 토지는 에스토니아 농민, 참전 군인, 무토지 농민에게 분배되어 수만 개의 새 소농장이 생겼다. 이로써 발트 독일계의 7세기에 걸친 토지 지배가 끝났다.",
+    "zh": "1919年10月，立宪会议通过土地改革法，没收大多属于波罗的海德意志贵族的大庄园。土地被分给爱沙尼亚农民、退伍军人和无地者，形成数以万计的新小农场。这结束了波罗的海德意志人长达七个世纪的土地支配。",
+    "ja": "1919年10月、憲法制定議会は、大半がバルト・ドイツ人貴族の所有だった大荘園を収用する土地改革法を可決した。土地はエストニア人農民、退役軍人、土地なし農民に分配され、数万の新しい小農場が生まれた。これにより7世紀に及ぶバルト・ドイツ人の土地支配が終わった。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Tartu",
+    "ko": "타르투 조약 체결",
+    "zh": "《塔尔图条约》签订",
+    "ja": "タルトゥ条約の締結"
+   },
+   "description": {
+    "en": "On 2 February 1920 Soviet Russia and Estonia signed the Treaty of Tartu, ending the War of Independence. Russia recognized Estonia's independence and renounced 'for all time' all rights to its territory, with a border that included Petseri and land east of the Narva River. The same year Estonia adopted a democratic constitution with a strong parliament.",
+    "ko": "1920년 2월 2일 소비에트 러시아와 에스토니아는 타르투 조약을 맺어 독립 전쟁을 끝냈다. 러시아는 에스토니아의 독립을 승인하고 그 영토에 대한 모든 권리를 '영원히' 포기했으며, 국경에는 페치리와 나르바강 동쪽 땅이 포함되었다. 같은 해 에스토니아는 강한 의회를 둔 민주 헌법을 채택했다.",
+    "zh": "1920年2月2日，苏俄与爱沙尼亚签订《塔尔图条约》，结束独立战争。俄国承认爱沙尼亚独立，并“永远”放弃对其领土的一切权利，边界包括佩切里以及纳尔瓦河以东的土地。同年爱沙尼亚通过以强大议会为核心的民主宪法。",
+    "ja": "1920年2月2日、ソビエト・ロシアとエストニアはタルトゥ条約を結び、独立戦争を終えた。ロシアはエストニアの独立を承認し、その領土に対するすべての権利を「永久に」放棄し、国境にはペツェリとナルヴァ川東岸の地が含まれた。同年エストニアは強い議会を持つ民主的な憲法を採択した。"
+   }
+  },
+  {
+   "year": 1924,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Communist coup attempt in Tallinn",
+    "ko": "탈린의 공산주의자 쿠데타 시도",
+    "zh": "塔林共产党政变未遂",
+    "ja": "タリンでの共産主義者のクーデター未遂"
+   },
+   "description": {
+    "en": "On 1 December 1924 a few hundred communist insurgents, backed by the Comintern, attacked government buildings and military posts in Tallinn. The uprising failed within hours because it found no popular support. It hardened anti-communist sentiment and led to further prosecutions of the underground Communist Party.",
+    "ko": "1924년 12월 1일 코민테른의 지원을 받은 공산주의 봉기자 수백 명이 탈린의 정부 건물과 군 시설을 습격했다. 대중의 지지를 얻지 못한 봉기는 몇 시간 만에 실패했다. 이 사건은 반공 정서를 강화했고 지하 공산당에 대한 추가 기소로 이어졌다.",
+    "zh": "1924年12月1日，数百名受共产国际支持的共产党起义者袭击塔林的政府大楼和军事据点。起义因得不到民众支持，数小时内即告失败。此事加深了反共情绪，并导致对地下共产党的进一步起诉。",
+    "ja": "1924年12月1日、コミンテルンの支援を受けた数百人の共産主義者の蜂起者がタリンの政府建物や軍の拠点を襲撃した。民衆の支持を得られなかった蜂起は数時間で失敗した。この事件は反共感情を強め、地下共産党へのさらなる訴追につながった。"
+   }
+  },
+  {
+   "year": 1934,
+   "qid": "Q1760435",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "1934 coup and the Era of Silence",
+    "ko": "1934년 쿠데타와 침묵의 시대",
+    "zh": "1934年政变与“沉默时代”",
+    "ja": "1934年クーデターと沈黙の時代"
+   },
+   "description": {
+    "en": "On 12 March 1934 State Elder Konstantin Päts, with General Johan Laidoner, declared a state of emergency to forestall the rise of the radical-right Vaps (veterans') movement. Parliament was suspended and political parties banned, beginning the authoritarian 'Era of Silence'. A new constitution in 1938 partially restored representative institutions, with Päts as president.",
+    "ko": "1934년 3월 12일 국가원수 콘스탄틴 패츠는 요한 라이도네르 장군과 함께 극우 바프스(참전용사) 운동의 부상을 막으려 비상사태를 선포했다. 의회는 정지되고 정당은 금지되어 권위주의적 '침묵의 시대'가 시작되었다. 1938년 새 헌법으로 대의 기구가 부분적으로 회복되었고 패츠가 대통령이 되었다.",
+    "zh": "1934年3月12日，国家元首康斯坦丁·帕茨与约翰·莱多内尔将军宣布紧急状态，以阻止极右翼“瓦普斯”（老兵）运动崛起。议会被停止，政党遭禁，威权的“沉默时代”由此开始。1938年新宪法部分恢复了代议机构，帕茨出任总统。",
+    "ja": "1934年3月12日、国家元首コンスタンティン・パッツはヨハン・ライドネル将軍とともに、極右のヴァプス（退役軍人）運動の台頭を阻むため非常事態を宣言した。議会は停止され政党は禁止され、権威主義的な「沈黙の時代」が始まった。1938年の新憲法で代議機関が部分的に回復し、パッツが大統領となった。"
+   }
+  },
+  {
+   "year": 1939,
+   "qid": "Q3739093",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Soviet bases imposed",
+    "ko": "소련 군사 기지 강요",
+    "zh": "苏联强行设立军事基地",
+    "ja": "ソ連軍基地の押しつけ"
+   },
+   "description": {
+    "en": "After the Molotov–Ribbentrop Pact assigned Estonia to the Soviet sphere, Moscow used the escape of the Polish submarine Orzeł from Tallinn as a pretext to threaten Estonia. Under heavy military pressure, Estonia signed the Mutual Assistance Treaty in September 1939, allowing Soviet military bases on its soil. That autumn most Baltic Germans left for German-occupied Poland at Hitler's call.",
+    "ko": "몰로토프-리벤트로프 조약이 에스토니아를 소련의 세력권으로 정하자, 모스크바는 폴란드 잠수함 오제우호의 탈린 탈출을 구실로 에스토니아를 위협했다. 강한 군사 압박 속에 에스토니아는 1939년 9월 상호원조조약을 맺어 자국 영토에 소련 군사 기지를 허용했다. 그해 가을 대부분의 발트 독일인이 히틀러의 호출로 독일 점령하 폴란드로 떠났다.",
+    "zh": "《莫洛托夫－里宾特洛甫条约》将爱沙尼亚划入苏联势力范围后，莫斯科以波兰潜艇“鹰”号从塔林出逃为借口威胁爱沙尼亚。在强大军事压力下，爱沙尼亚于1939年9月签订《互助条约》，允许苏联在其领土上设立军事基地。同年秋天，大多数波罗的海德意志人应希特勒号召迁往德占波兰。",
+    "ja": "モロトフ＝リッベントロップ協定がエストニアをソ連の勢力圏に割り当てると、モスクワはポーランド潜水艦オジェウのタリン脱出を口実にエストニアを威嚇した。強い軍事的圧力のもと、エストニアは1939年9月に相互援助条約を結び、領内へのソ連軍基地設置を認めた。同年秋、バルト・ドイツ人の多くはヒトラーの呼びかけでドイツ占領下のポーランドへ去った。"
+   }
+  },
+  {
+   "year": 1940,
+   "qid": "Q15052924",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Soviet occupation and annexation",
+    "ko": "소련의 점령과 병합",
+    "zh": "苏联占领与吞并",
+    "ja": "ソ連による占領と併合"
+   },
+   "description": {
+    "en": "In June 1940 the Soviet Union delivered an ultimatum, occupied Estonia and installed a puppet government. After rigged elections in July, a new parliament requested admission to the USSR, and Estonia was annexed in August as the Estonian SSR. President Päts and many leaders were deported; most Western states never recognized the annexation de jure.",
+    "ko": "1940년 6월 소련은 최후통첩을 보내 에스토니아를 점령하고 괴뢰 정부를 세웠다. 7월의 조작된 선거 뒤 새 의회가 소련 가입을 요청했고, 에스토니아는 8월 에스토니아 SSR로 병합되었다. 패츠 대통령과 많은 지도자가 강제 이송되었으며, 대부분의 서방 국가는 이 병합을 법적으로 인정하지 않았다.",
+    "zh": "1940年6月，苏联发出最后通牒，占领爱沙尼亚并扶植傀儡政府。7月舞弊选举后，新议会请求加入苏联，8月爱沙尼亚被吞并为爱沙尼亚苏维埃社会主义共和国。帕茨总统和许多领导人遭流放，多数西方国家从未在法律上承认这一吞并。",
+    "ja": "1940年6月、ソ連は最後通牒を突きつけてエストニアを占領し、傀儡政府を据えた。7月の不正選挙の後、新議会がソ連加盟を要請し、エストニアは8月にエストニア・ソビエト社会主義共和国として併合された。パッツ大統領ら多くの指導者が移送され、西側諸国の多くは併合を法的に承認しなかった。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "June deportation",
+    "ko": "6월 강제 이송",
+    "zh": "六月大流放",
+    "ja": "6月の強制移送"
+   },
+   "description": {
+    "en": "On 14 June 1941 Soviet authorities deported around 10,000 people from Estonia, including whole families, to Siberia and other remote regions. Many of the men were sent to prison camps, where a large share died. The deportation left a deep trauma and is commemorated each year as a day of mourning.",
+    "ko": "1941년 6월 14일 소련 당국은 일가족 전체를 포함해 약 1만 명을 에스토니아에서 시베리아 등 오지로 강제 이송했다. 남성 다수는 수용소로 보내져 상당수가 사망했다. 이 강제 이송은 깊은 상처를 남겼으며 매년 추모일로 기억된다.",
+    "zh": "1941年6月14日，苏联当局将约一万人（包括整个家庭）从爱沙尼亚流放到西伯利亚等偏远地区。许多男子被送入劳改营，其中很大一部分死亡。这次流放留下深重创伤，每年都作为哀悼日加以纪念。",
+    "ja": "1941年6月14日、ソ連当局は家族ぐるみを含む約1万人をエストニアからシベリアなどの辺境へ移送した。男性の多くは収容所に送られ、その相当数が死亡した。この移送は深い傷跡を残し、毎年追悼の日として記憶されている。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q3322608",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "German invasion and the Summer War",
+    "ko": "독일군 침공과 여름 전쟁",
+    "zh": "德军入侵与“夏季战争”",
+    "ja": "ドイツ軍侵攻と夏の戦争"
+   },
+   "description": {
+    "en": "After Germany attacked the USSR in June 1941, Estonian 'Forest Brothers' fought retreating Soviet forces in the so-called Summer War, while the NKVD killed prisoners, as in Tartu. German forces took Tallinn in late August and the islands by October. The German occupation that followed brought the murder of the country's remaining Jews and forced labor and conscription.",
+    "ko": "1941년 6월 독일이 소련을 공격하자 에스토니아의 '숲의 형제들'은 이른바 여름 전쟁에서 퇴각하는 소련군과 싸웠고, NKVD는 타르투 등에서 수감자들을 살해했다. 독일군은 8월 말 탈린을, 10월까지 섬들을 점령했다. 이어진 독일 점령기에는 남아 있던 유대인 학살, 강제 노동, 징집이 뒤따랐다.",
+    "zh": "1941年6月德国进攻苏联后，爱沙尼亚“森林兄弟”在所谓“夏季战争”中与撤退的苏军作战，而内务人民委员部则在塔尔图等地杀害囚犯。德军于8月底攻占塔林，10月前拿下诸岛。随后的德国占领带来了对留下的犹太人的屠杀、强迫劳动和征兵。",
+    "ja": "1941年6月にドイツがソ連を攻撃すると、エストニアの「森の兄弟」はいわゆる夏の戦争で退却するソ連軍と戦い、NKVDはタルトゥなどで囚人を殺害した。ドイツ軍は8月末にタリン、10月までに島々を占領した。続くドイツ占領下では、残っていたユダヤ人の殺害、強制労働、徴兵が行われた。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": "Q7885422",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Narva",
+    "ko": "나르바 전투",
+    "zh": "纳尔瓦战役",
+    "ja": "ナルヴァの戦い"
+   },
+   "description": {
+    "en": "From February to August 1944 the Red Army fought German forces, including many Estonian conscripts and volunteers, on the Narva front and at the Tannenberg Line in the Sinimäed hills. Soviet bombing in March destroyed Narva's baroque old town, and Tallinn and Tartu were also bombed. The defenders delayed the Soviet advance into Estonia for months.",
+    "ko": "1944년 2월부터 8월까지 붉은 군대는 나르바 전선과 시니매에드 언덕의 탄넨베르크선에서 많은 에스토니아인 징집병과 의용병을 포함한 독일군과 싸웠다. 3월 소련의 폭격으로 나르바의 바로크 구시가지가 파괴되었고 탈린과 타르투도 폭격을 받았다. 방어군은 소련군의 에스토니아 진격을 몇 달간 늦추었다.",
+    "zh": "1944年2月至8月，红军在纳尔瓦前线和西尼迈德丘陵的坦嫩贝格防线与德军作战，德军中有许多爱沙尼亚征召兵和志愿者。3月苏联轰炸摧毁了纳尔瓦的巴洛克老城，塔林和塔尔图也遭轰炸。守军使苏军进入爱沙尼亚的推进推迟了数月。",
+    "ja": "1944年2月から8月まで、赤軍はナルヴァ戦線とシニマエド丘陵のタンネンベルク線で、多くのエストニア人徴集兵・志願兵を含むドイツ軍と戦った。3月のソ連軍の爆撃でナルヴァのバロック様式の旧市街は破壊され、タリンとタルトゥも爆撃された。防衛側はソ連軍のエストニア進入を数か月遅らせた。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": "Q481578",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Soviet reoccupation and the great flight",
+    "ko": "소련의 재점령과 대탈출",
+    "zh": "苏联重新占领与大逃亡",
+    "ja": "ソ連の再占領と大脱出"
+   },
+   "description": {
+    "en": "As German forces withdrew in September 1944, Otto Tief formed a government in Tallinn on 18 September in an attempt to restore independence, but the Red Army took Tallinn on 22 September and the islands by November. Tens of thousands of Estonians fled by sea to Sweden and Germany. Soviet rule was reimposed for nearly half a century.",
+    "ko": "1944년 9월 독일군이 철수하자 오토 티에프는 독립 회복을 위해 9월 18일 탈린에서 정부를 구성했지만, 붉은 군대는 9월 22일 탈린을, 11월까지 섬들을 점령했다. 수만 명의 에스토니아인이 바다를 건너 스웨덴과 독일로 피란했다. 소련 지배는 거의 반세기 동안 다시 계속되었다.",
+    "zh": "1944年9月德军撤退之际，奥托·蒂夫于9月18日在塔林组建政府，试图恢复独立，但红军于9月22日攻占塔林，11月前拿下诸岛。数万名爱沙尼亚人渡海逃往瑞典和德国。苏联统治随之恢复，持续近半个世纪。",
+    "ja": "1944年9月にドイツ軍が撤退すると、オット・ティーフは独立回復を図って9月18日にタリンで政府を組織したが、赤軍は9月22日にタリンを、11月までに島々を占領した。数万人のエストニア人が海を渡ってスウェーデンとドイツへ逃れた。ソ連支配はその後ほぼ半世紀にわたって復活した。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": "Q5614871",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Forest Brothers resistance",
+    "ko": "숲의 형제들의 저항",
+    "zh": "“森林兄弟”的抵抗",
+    "ja": "「森の兄弟」の抵抗"
+   },
+   "description": {
+    "en": "After the war thousands of Estonians took to the forests as 'Forest Brothers' to resist Soviet rule, hoping for Western intervention. Guerrilla activity peaked in the late 1940s but was worn down by NKVD/MGB operations and the 1949 deportations. Isolated holdouts persisted for decades; the last known Forest Brother died in 1980.",
+    "ko": "전쟁 후 수천 명의 에스토니아인이 서방의 개입을 기대하며 소련 지배에 저항하는 '숲의 형제들'로 숲에 들어갔다. 게릴라 활동은 1940년대 말 절정에 달했지만 NKVD/MGB 작전과 1949년 강제 이송으로 약화되었다. 고립된 잔존자들은 수십 년간 버텼으며, 마지막으로 알려진 숲의 형제는 1980년에 사망했다.",
+    "zh": "战后数千名爱沙尼亚人遁入森林，成为抵抗苏联统治的“森林兄弟”，期待西方介入。游击活动在40年代末达到高峰，但在内务部和国家安全部的清剿以及1949年大流放中逐渐瓦解。零星的坚持者存续了数十年，已知最后一名森林兄弟于1980年身亡。",
+    "ja": "戦後、数千人のエストニア人が西側の介入を期待して森に入り、ソ連支配に抵抗する「森の兄弟」となった。ゲリラ活動は1940年代末に最盛期を迎えたが、NKVD・MGBの作戦と1949年の移送で弱体化した。孤立した抵抗者は数十年にわたり持ちこたえ、知られる最後の森の兄弟は1980年に死亡した。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "March deportation to Siberia",
+    "ko": "시베리아 강제 이주(3월 추방)",
+    "zh": "三月大流放",
+    "ja": "3月の大量強制移送"
+   },
+   "description": {
+    "en": "On 25 March 1949 Soviet authorities deported more than 20,000 people from Estonia, largely women, children and the elderly, to Siberia in a single operation (Operation Priboi), which also struck Latvia and Lithuania. Branded 'kulaks' and 'bandit' families, many died in exile. The terror forced the rapid collectivization of agriculture and broke the armed resistance's rural support.",
+    "ko": "1949년 3월 25일 소련 당국은 단 한 번의 작전(프리보이 작전)으로 2만 명이 넘는 사람들, 주로 여성·어린이·노인을 에스토니아에서 시베리아로 이송했으며, 이 작전은 라트비아와 리투아니아도 덮쳤다. '쿨라크'와 '비적' 가족으로 낙인찍힌 이들 중 다수가 유형지에서 죽었다. 이 공포는 농업의 급속한 집단화를 강요했고 무장 저항의 농촌 기반을 무너뜨렸다.",
+    "zh": "1949年3月25日，苏联当局在一次行动（“浪潮行动”）中将两万多人从爱沙尼亚流放到西伯利亚，其中大多是妇女、儿童和老人，这次行动同时波及拉脱维亚和立陶宛。他们被扣上“富农”和“匪帮”家属的帽子，许多人死于流放地。恐怖迫使农业迅速集体化，也摧毁了武装抵抗在乡村的支持基础。",
+    "ja": "1949年3月25日、ソ連当局は一度の作戦（プリボイ作戦）で、主に女性・子ども・高齢者からなる2万人以上をエストニアからシベリアへ移送し、作戦はラトビアとリトアニアにも及んだ。「クラーク」や「匪賊」の家族とされた人々の多くが流刑地で死んだ。この恐怖は農業の急速な集団化を強い、武装抵抗の農村の基盤を崩した。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Purge of the Estonian Communist leadership",
+    "ko": "에스토니아 공산당 지도부 숙청",
+    "zh": "清洗爱沙尼亚共产党领导层",
+    "ja": "エストニア共産党指導部の粛清"
+   },
+   "description": {
+    "en": "At the Eighth Plenum in March 1950, Moscow purged the Estonian Communist Party leadership, including First Secretary Nikolai Karotamm, for 'bourgeois nationalism'. Many local communists and intellectuals were removed or arrested and replaced by Russian-raised Estonians from the USSR. The purge tightened central control over the republic.",
+    "ko": "1950년 3월 제8차 전원회의에서 모스크바는 '부르주아 민족주의'를 이유로 니콜라이 카로탐 제1서기를 비롯한 에스토니아 공산당 지도부를 숙청했다. 많은 현지 공산주의자와 지식인이 해임되거나 체포되었고, 러시아에서 자란 소련 출신 에스토니아인들이 그 자리를 대신했다. 이 숙청으로 공화국에 대한 중앙 통제가 강화되었다.",
+    "zh": "1950年3月的第八次全体会议上，莫斯科以“资产阶级民族主义”为由清洗爱沙尼亚共产党领导层，包括第一书记尼古拉·卡罗塔姆。许多本地共产党人和知识分子被撤职或逮捕，由在俄罗斯长大的苏联爱沙尼亚人取而代之。这次清洗加强了中央对该共和国的控制。",
+    "ja": "1950年3月の第8回総会で、モスクワは「ブルジョア民族主義」を理由にニコライ・カロタム第一書記を含むエストニア共産党指導部を粛清した。多くの地元共産主義者や知識人が解任・逮捕され、ロシアで育ったソ連出身のエストニア人に置き換えられた。粛清により共和国に対する中央の統制が強まった。"
+   }
+  },
+  {
+   "year": 1965,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Tallinn–Helsinki ferry link restored",
+    "ko": "탈린-헬싱키 페리 재개",
+    "zh": "塔林—赫尔辛基轮渡恢复",
+    "ja": "タリン―ヘルシンキ航路の再開"
+   },
+   "description": {
+    "en": "In 1965 a regular passenger ferry between Tallinn and Helsinki resumed, one of the few direct links between the Soviet Union and the West. Finnish visitors, and Finnish television that could be received in northern Estonia, gave Estonians a rare window on Western life. These contacts helped Estonia remain the most Western-oriented Soviet republic.",
+    "ko": "1965년 탈린과 헬싱키 사이의 정기 여객 페리가 재개되었는데, 이는 소련과 서방을 잇는 몇 안 되는 직항로였다. 핀란드인 방문객과 북부 에스토니아에서 수신되던 핀란드 텔레비전은 에스토니아인에게 서방 생활을 엿볼 드문 창이 되었다. 이런 접촉 덕분에 에스토니아는 가장 서방 지향적인 소련 공화국으로 남았다.",
+    "zh": "1965年，塔林与赫尔辛基之间的定期客运轮渡恢复，这是苏联与西方之间为数不多的直接通道之一。芬兰游客以及在爱沙尼亚北部可以收看的芬兰电视，为爱沙尼亚人提供了了解西方生活的难得窗口。这些接触使爱沙尼亚始终是最倾向西方的苏联加盟共和国。",
+    "ja": "1965年、タリンとヘルシンキを結ぶ定期旅客フェリーが再開された。これはソ連と西側を結ぶ数少ない直行路の一つだった。フィンランド人観光客や北エストニアで受信できたフィンランドのテレビは、エストニア人に西側の生活を垣間見る貴重な窓となった。こうした接触により、エストニアは最も西側志向のソ連構成共和国であり続けた。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Olympic regatta and the Letter of 40",
+    "ko": "올림픽 요트 경기와 '40인의 편지'",
+    "zh": "奥运帆船赛与“四十人信”",
+    "ja": "五輪ヨット競技と「40人の手紙」"
+   },
+   "description": {
+    "en": "Tallinn hosted the sailing events of the 1980 Moscow Olympics, for which the Pirita center and new hotels were built. That autumn, after youth protests were suppressed, forty Estonian intellectuals sent an open 'Letter of 40' protesting Russification and the neglect of the Estonian language. The authors faced reprisals, but the letter became a milestone of dissent.",
+    "ko": "탈린은 1980년 모스크바 올림픽 요트 경기를 개최했고, 이를 위해 피리타 센터와 새 호텔들이 건설되었다. 그해 가을 청소년 시위가 진압되자 에스토니아 지식인 40명은 러시아화와 에스토니아어 홀대에 항의하는 공개 서한 '40인의 편지'를 보냈다. 서명자들은 보복을 당했지만 이 편지는 반체제 운동의 이정표가 되었다.",
+    "zh": "塔林承办了1980年莫斯科奥运会的帆船比赛，为此修建了皮里塔中心和新酒店。同年秋天青年抗议遭镇压后，40名爱沙尼亚知识分子发表公开信“四十人信”，抗议俄罗斯化和对爱沙尼亚语的忽视。署名者遭到报复，但这封信成为异见运动的里程碑。",
+    "ja": "タリンは1980年モスクワ五輪のヨット競技を開催し、ピリタのセンターや新しいホテルが建設された。同年秋に若者の抗議が鎮圧されると、40人のエストニア人知識人がロシア化とエストニア語軽視に抗議する公開書簡「40人の手紙」を送った。署名者は報復を受けたが、手紙は異議申し立ての画期となった。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Phosphorite War and the Hirvepark rally",
+    "ko": "인회석 전쟁과 히르베파르크 집회",
+    "zh": "磷灰石战争与希尔韦公园集会",
+    "ja": "リン鉱石戦争とヒルヴェパルク集会"
+   },
+   "description": {
+    "en": "In 1987 public protests forced Moscow to shelve plans for large-scale phosphorite mining in northeastern Estonia, the 'Phosphorite War'. On 23 August 1987 a rally in Tallinn's Hirvepark demanded publication of the Molotov–Ribbentrop Pact's secret protocols. These were among the first open challenges to Soviet rule under glasnost.",
+    "ko": "1987년 대중의 항의로 모스크바는 에스토니아 북동부의 대규모 인회석 채굴 계획을 보류해야 했는데, 이를 '인회석 전쟁'이라 한다. 1987년 8월 23일 탈린 히르베파르크 집회는 몰로토프-리벤트로프 조약 비밀 의정서의 공개를 요구했다. 이는 글라스노스트 아래 소련 지배에 대한 최초의 공개적 도전 중 하나였다.",
+    "zh": "1987年，民众抗议迫使莫斯科搁置在爱沙尼亚东北部大规模开采磷灰石的计划，史称“磷灰石战争”。1987年8月23日，塔林希尔韦公园的集会要求公开《莫洛托夫－里宾特洛甫条约》秘密议定书。这些是公开性政策下对苏联统治最早的公开挑战之一。",
+    "ja": "1987年、市民の抗議によりモスクワは北東エストニアでの大規模なリン鉱石採掘計画を棚上げせざるを得なくなった（「リン鉱石戦争」）。1987年8月23日、タリンのヒルヴェパルクでの集会はモロトフ＝リッベントロップ協定秘密議定書の公表を求めた。これらはグラスノスチのもとでのソ連支配への最初の公然たる挑戦の一つだった。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": "Q595321",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Singing Revolution",
+    "ko": "노래 혁명",
+    "zh": "歌唱革命",
+    "ja": "歌う革命"
+   },
+   "description": {
+    "en": "In 1988 the Popular Front was founded and hundreds of thousands gathered at the Tallinn Song Festival Grounds for night-time song gatherings, singing forbidden national songs and raising the blue-black-white flag. On 16 November the Estonian Supreme Soviet adopted a Declaration of Sovereignty, asserting the supremacy of Estonian laws over Soviet ones. The nonviolent movement became known as the Singing Revolution.",
+    "ko": "1988년 인민전선이 창설되었고, 수십만 명이 탈린 노래 축제장에 모여 밤샘 노래 모임을 열고 금지된 민족 노래를 부르며 청·흑·백 국기를 내걸었다. 11월 16일 에스토니아 최고소비에트는 에스토니아 법이 소련 법보다 우선한다는 주권 선언을 채택했다. 이 비폭력 운동은 '노래 혁명'으로 알려졌다.",
+    "zh": "1988年人民阵线成立，数十万人聚集在塔林歌唱节广场举行夜间歌会，高唱被禁的民族歌曲，升起蓝黑白三色旗。11月16日，爱沙尼亚最高苏维埃通过《主权宣言》，宣布爱沙尼亚法律高于苏联法律。这场非暴力运动被称为“歌唱革命”。",
+    "ja": "1988年に人民戦線が結成され、数十万人がタリンの歌の祭典広場に集まって夜通しの歌の集いを開き、禁じられた民族の歌を歌い、青・黒・白の旗を掲げた。11月16日、エストニア最高会議はエストニアの法がソ連法に優越するとする主権宣言を採択した。この非暴力運動は「歌う革命」として知られる。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Baltic Way",
+    "ko": "발트의 길",
+    "zh": "波罗的海之路",
+    "ja": "バルトの道"
+   },
+   "description": {
+    "en": "On 23 August 1989, the 50th anniversary of the Molotov–Ribbentrop Pact, around two million people joined hands in a human chain of some 675 km linking Tallinn, Riga and Vilnius. The Baltic Way drew worldwide attention to the occupation of the Baltic states. It remains one of the most famous peaceful protests of the late Cold War.",
+    "ko": "몰로토프-리벤트로프 조약 50주년인 1989년 8월 23일, 약 200만 명이 손을 맞잡아 탈린·리가·빌뉴스를 잇는 약 675km의 인간 사슬을 만들었다. '발트의 길'은 발트 국가들의 점령 문제에 세계의 이목을 집중시켰다. 이는 냉전 말기의 가장 유명한 평화 시위 중 하나로 남아 있다.",
+    "zh": "1989年8月23日即《莫洛托夫－里宾特洛甫条约》签订50周年之际，约两百万人手拉手组成约675公里长的人链，连接塔林、里加和维尔纽斯。“波罗的海之路”使世界关注波罗的海国家被占领问题，至今仍是冷战末期最著名的和平抗议之一。",
+    "ja": "モロトフ＝リッベントロップ協定50周年の1989年8月23日、約200万人が手をつなぎ、タリン・リガ・ヴィリニュスを結ぶ約675キロの人間の鎖をつくった。「バルトの道」はバルト諸国の占領問題に世界の注目を集めた。冷戦末期の最も有名な平和的抗議の一つである。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q16631950",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence restored",
+    "ko": "독립 회복",
+    "zh": "恢复独立",
+    "ja": "独立の回復"
+   },
+   "description": {
+    "en": "On 20 August 1991, during the failed coup in Moscow, the Supreme Council of Estonia declared the restoration of independence, while volunteers guarded the Tallinn TV Tower against Soviet troops. Iceland was among the first to recognize it, the USSR followed on 6 September, and Estonia joined the United Nations on 17 September. Independence was restored without bloodshed.",
+    "ko": "1991년 8월 20일 모스크바 쿠데타가 실패로 치닫는 가운데 에스토니아 최고회의는 독립 회복을 선언했고, 자원자들은 소련군에 맞서 탈린 TV 타워를 지켰다. 아이슬란드가 가장 먼저 승인한 나라 중 하나였고, 소련은 9월 6일 승인했으며, 에스토니아는 9월 17일 유엔에 가입했다. 독립은 유혈 없이 회복되었다.",
+    "zh": "1991年8月20日，莫斯科政变失败之际，爱沙尼亚最高委员会宣布恢复独立，志愿者守卫塔林电视塔抵御苏军。冰岛是最早承认的国家之一，苏联于9月6日承认，爱沙尼亚于9月17日加入联合国。独立在未流血的情况下得以恢复。",
+    "ja": "1991年8月20日、モスクワのクーデター失敗のさなか、エストニア最高会議は独立回復を宣言し、ボランティアはソ連軍からタリンのテレビ塔を守った。アイスランドが最も早く承認した国の一つで、ソ連は9月6日に承認し、エストニアは9月17日に国連に加盟した。独立は流血なしに回復された。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": "Q5401685",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "New constitution and the kroon",
+    "ko": "새 헌법과 크론",
+    "zh": "新宪法与克朗",
+    "ja": "新憲法とクローン"
+   },
+   "description": {
+    "en": "In June 1992 Estonia introduced its own currency, the kroon, pegged to the Deutsche Mark, the first former Soviet republic to leave the ruble zone. A referendum on 28 June approved a new constitution. In the autumn elections Lennart Meri became president and Mart Laar's government launched radical market reforms.",
+    "ko": "1992년 6월 에스토니아는 독일 마르크에 고정된 자국 통화 크론을 도입해 구소련 공화국 가운데 처음으로 루블권을 벗어났다. 6월 28일 국민투표로 새 헌법이 승인되었다. 가을 선거 이후 렌나르트 메리가 대통령이 되었고 마르트 라르 정부는 급진적 시장 개혁에 착수했다.",
+    "zh": "1992年6月，爱沙尼亚发行与德国马克挂钩的本国货币克朗，成为第一个退出卢布区的前苏联加盟共和国。6月28日全民公投通过新宪法。秋季选举后，伦纳特·梅里当选总统，马尔特·拉尔政府推行激进的市场改革。",
+    "ja": "1992年6月、エストニアはドイツ・マルクに固定した自国通貨クローンを導入し、旧ソ連構成共和国として初めてルーブル圏を離れた。6月28日の国民投票で新憲法が承認された。秋の選挙後、レンナルト・メリが大統領となり、マルト・ラール政権は急進的な市場改革に着手した。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": "Q16412101",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Narva and Sillamäe autonomy referendums",
+    "ko": "나르바·실라매 자치 주민투표",
+    "zh": "纳尔瓦与锡拉迈自治公投",
+    "ja": "ナルヴァとシッラマエの自治住民投票"
+   },
+   "description": {
+    "en": "In July 1993 local councils in the largely Russian-speaking towns of Narva and Sillamäe held referendums on territorial autonomy, which passed by large margins. The Estonian government and Supreme Court declared them unconstitutional, and they had no legal effect. The episode highlighted tensions over citizenship and the integration of the Russian-speaking population.",
+    "ko": "1993년 7월 주민 대부분이 러시아어를 쓰는 나르바와 실라매의 지방 의회는 지역 자치에 관한 주민투표를 실시했고 큰 차이로 가결되었다. 에스토니아 정부와 대법원은 이를 위헌으로 선언했으며 법적 효력은 없었다. 이 사건은 시민권과 러시아어 사용 주민 통합을 둘러싼 긴장을 드러냈다.",
+    "zh": "1993年7月，以讲俄语居民为主的纳尔瓦和锡拉迈两市议会就地区自治举行公投，以压倒性多数通过。爱沙尼亚政府和最高法院宣布其违宪，公投不具法律效力。此事凸显了围绕公民身份和讲俄语居民融合问题的紧张关系。",
+    "ja": "1993年7月、住民の多くがロシア語を話すナルヴァとシッラマエの地方議会は地域自治をめぐる住民投票を行い、大差で可決された。エストニア政府と最高裁はこれを違憲とし、法的効力はなかった。この出来事は市民権とロシア語系住民の統合をめぐる緊張を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Russian troops withdraw",
+    "ko": "러시아군 철수",
+    "zh": "俄军撤离",
+    "ja": "ロシア軍の撤退"
+   },
+   "description": {
+    "en": "Under an agreement signed by Presidents Lennart Meri and Boris Yeltsin in July 1994, the last Russian army units left Estonia by 31 August 1994. The withdrawal ended half a century of Soviet and Russian military presence, though the Paldiski nuclear training reactors were handed over only in 1995. It opened the way to Estonia's integration with Western institutions.",
+    "ko": "1994년 7월 렌나르트 메리 대통령과 보리스 옐친 대통령이 서명한 협정에 따라 마지막 러시아군 부대가 1994년 8월 31일까지 에스토니아를 떠났다. 팔디스키의 원자로 훈련 시설은 1995년에야 인도되었지만, 이로써 반세기에 걸친 소련·러시아 군의 주둔이 끝났다. 이는 에스토니아의 서방 기구 통합으로 가는 길을 열었다.",
+    "zh": "根据1994年7月伦纳特·梅里总统与鲍里斯·叶利钦总统签署的协议，最后一批俄军部队于1994年8月31日前撤离爱沙尼亚。尽管帕尔迪斯基的核训练反应堆直到1995年才移交，但这结束了长达半个世纪的苏俄驻军。这为爱沙尼亚融入西方机构开辟了道路。",
+    "ja": "1994年7月にレンナルト・メリ大統領とボリス・エリツィン大統領が署名した協定により、最後のロシア軍部隊が1994年8月31日までにエストニアを去った。パルディスキの原子炉訓練施設の引き渡しは1995年までずれ込んだが、これで半世紀にわたるソ連・ロシア軍の駐留が終わった。エストニアの西側機構への統合に道が開かれた。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Sinking of the MS Estonia",
+    "ko": "에스토니아호 침몰",
+    "zh": "“爱沙尼亚”号沉没",
+    "ja": "エストニア号沈没"
+   },
+   "description": {
+    "en": "On the night of 28 September 1994 the car-passenger ferry MS Estonia, sailing from Tallinn to Stockholm, sank in a storm in the Baltic Sea. 852 people died, mostly Swedes and Estonians, making it one of the worst peacetime maritime disasters in Europe. The official investigation blamed the failure of the bow visor; later questions led to renewed investigations.",
+    "ko": "1994년 9월 28일 밤 탈린에서 스톡홀름으로 가던 카페리 에스토니아호가 발트해의 폭풍 속에 침몰했다. 852명이 사망했으며 대부분 스웨덴인과 에스토니아인이었고, 이는 유럽 평시 최악의 해양 참사 중 하나가 되었다. 공식 조사는 선수 바이저의 파손을 원인으로 지목했으며, 이후 제기된 의문으로 재조사가 이루어졌다.",
+    "zh": "1994年9月28日夜，从塔林驶往斯德哥尔摩的客滚渡轮“爱沙尼亚”号在波罗的海风暴中沉没，852人遇难，多为瑞典人和爱沙尼亚人，成为欧洲和平时期最严重的海难之一。官方调查认定船首门罩失效是原因，后来出现的疑问促成了新的调查。",
+    "ja": "1994年9月28日夜、タリンからストックホルムへ向かっていたカーフェリー「エストニア」号がバルト海の嵐の中で沈没した。852人が死亡し、その多くはスウェーデン人とエストニア人で、欧州の平時最悪級の海難事故となった。公式調査は船首バイザーの破損を原因としたが、のちの疑問から再調査が行われた。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": "Q2824357",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Joins the European Union and NATO",
+    "ko": "유럽연합과 나토 가입",
+    "zh": "加入欧盟与北约",
+    "ja": "EUとNATOに加盟"
+   },
+   "description": {
+    "en": "Following a 2003 referendum in which about two-thirds voted yes, Estonia joined NATO on 29 March 2004 and the European Union on 1 May 2004. Membership anchored the country firmly in the West after the Soviet period. Estonia also became known as a digital pioneer, with e-government services, digital ID and the birthplace of Skype.",
+    "ko": "약 3분의 2가 찬성한 2003년 국민투표에 따라 에스토니아는 2004년 3월 29일 나토, 5월 1일 유럽연합에 가입했다. 회원국 지위는 소련 시대 이후 에스토니아를 서방에 확고히 자리 잡게 했다. 에스토니아는 전자정부, 디지털 신분증, 스카이프의 탄생지로 디지털 선구자라는 명성도 얻었다.",
+    "zh": "继2003年约三分之二选民投赞成票的全民公投之后，爱沙尼亚于2004年3月29日加入北约，5月1日加入欧盟。成员身份使该国在苏联时期之后牢牢扎根于西方。爱沙尼亚还以电子政务、数字身份证以及Skype诞生地而成为数字化先锋。",
+    "ja": "約3分の2が賛成した2003年の国民投票を受けて、エストニアは2004年3月29日にNATO、5月1日にEUに加盟した。加盟はソ連時代後の国を西側にしっかりと根づかせた。エストニアは電子政府、デジタルID、スカイプ誕生の地としてデジタル先進国の名声も得た。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "World's first nationwide internet voting",
+    "ko": "세계 최초의 전국 단위 인터넷 투표",
+    "zh": "全球首次全国性网络投票",
+    "ja": "世界初の全国規模ネット投票"
+   },
+   "description": {
+    "en": "In the October 2005 local elections Estonia became the first country to offer internet voting nationwide in legally binding elections, using the national electronic ID card. Internet voting was extended to parliamentary elections in 2007. It became a symbol of 'e-Estonia' and its digital public services.",
+    "ko": "2005년 10월 지방 선거에서 에스토니아는 국가 전자 신분증을 이용해 법적 구속력 있는 선거에서 전국 단위 인터넷 투표를 도입한 첫 나라가 되었다. 인터넷 투표는 2007년 총선으로 확대되었다. 이는 '이-에스토니아'와 디지털 공공 서비스의 상징이 되었다.",
+    "zh": "在2005年10月的地方选举中，爱沙尼亚利用国家电子身份证，成为第一个在具有法律效力的选举中全国推行网络投票的国家。2007年网络投票扩展至议会选举，成为“电子爱沙尼亚”及其数字公共服务的象征。",
+    "ja": "2005年10月の地方選挙で、エストニアは国民電子IDカードを用い、法的拘束力のある選挙で全国規模のインターネット投票を導入した最初の国となった。インターネット投票は2007年の議会選挙にも拡大された。これは「e-エストニア」とそのデジタル公共サービスの象徴となった。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": "Q2312213",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Bronze Night and cyberattacks",
+    "ko": "청동의 밤과 사이버 공격",
+    "zh": "“青铜之夜”与网络攻击",
+    "ja": "青銅の夜とサイバー攻撃"
+   },
+   "description": {
+    "en": "In April 2007 the government's relocation of the Bronze Soldier, a Soviet war memorial, from central Tallinn sparked riots by mainly Russian-speaking youths; one person was killed. At the same time waves of cyberattacks hit Estonian government, bank and media websites. The attacks spurred the creation of NATO's Cooperative Cyber Defence Centre of Excellence in Tallinn in 2008.",
+    "ko": "2007년 4월 정부가 소련 전쟁 기념물 '청동 병사'를 탈린 도심에서 옮기자 주로 러시아어를 쓰는 청년들의 폭동이 일어나 1명이 숨졌다. 같은 시기 에스토니아 정부·은행·언론 웹사이트를 겨냥한 사이버 공격이 잇따랐다. 이 공격은 2008년 탈린에 나토 협력사이버방위센터가 설립되는 계기가 되었다.",
+    "zh": "2007年4月，政府将苏联战争纪念碑“青铜战士”从塔林市中心迁走，引发以讲俄语青年为主的骚乱，造成1人死亡。与此同时，爱沙尼亚政府、银行和媒体网站遭到一波波网络攻击。这些攻击促成北约合作网络防御卓越中心于2008年在塔林成立。",
+    "ja": "2007年4月、政府がソ連の戦争記念碑「青銅の兵士」をタリン中心部から移設すると、主にロシア語を話す若者による暴動が起き、1人が死亡した。同時にエストニアの政府・銀行・メディアのウェブサイトに対するサイバー攻撃が相次いだ。これを機に2008年、タリンにNATOサイバー防衛協力センターが設立された。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Estonia adopts the euro",
+    "ko": "에스토니아, 유로 도입",
+    "zh": "爱沙尼亚采用欧元",
+    "ja": "エストニアがユーロを導入"
+   },
+   "description": {
+    "en": "On 1 January 2011 Estonia replaced the kroon with the euro, becoming the first former Soviet republic in the euro area. Adoption followed a sharp recession in 2008–09, handled with deep austerity rather than devaluation. The same year Tallinn was a European Capital of Culture.",
+    "ko": "2011년 1월 1일 에스토니아는 크론을 유로로 대체해 유로존에 들어간 첫 구소련 공화국이 되었다. 도입은 2008~2009년의 급격한 경기 침체를 평가절하 대신 강도 높은 긴축으로 극복한 뒤 이루어졌다. 같은 해 탈린은 유럽 문화 수도였다.",
+    "zh": "2011年1月1日，爱沙尼亚以欧元取代克朗，成为第一个加入欧元区的前苏联加盟共和国。此前，该国以严厉紧缩而非货币贬值应对了2008至2009年的严重衰退。同年塔林还是欧洲文化之都。",
+    "ja": "2011年1月1日、エストニアはクローンをユーロに切り替え、ユーロ圏に入った最初の旧ソ連構成共和国となった。導入は、2008～09年の急激な景気後退を通貨切り下げではなく厳しい緊縮で乗り切った後のことだった。同年タリンは欧州文化首都でもあった。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q18620925",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Presidency of the Council of the EU",
+    "ko": "EU 이사회 의장국 수임",
+    "zh": "担任欧盟理事会轮值主席国",
+    "ja": "EU理事会議長国"
+   },
+   "description": {
+    "en": "From July to December 2017 Estonia held the rotating presidency of the Council of the European Union for the first time, having taken over the slot originally scheduled for the United Kingdom. It made the digital single market and e-governance priorities. The presidency showcased the small state's role in the EU.",
+    "ko": "2017년 7월부터 12월까지 에스토니아는 원래 영국에 배정되었던 순번을 이어받아 처음으로 EU 이사회 순회 의장국을 맡았다. 디지털 단일 시장과 전자정부를 우선 과제로 삼았다. 이 의장국 활동은 작은 나라의 EU 내 역할을 보여 주었다.",
+    "zh": "2017年7月至12月，爱沙尼亚接替原定由英国担任的轮次，首次担任欧盟理事会轮值主席国，并将数字单一市场和电子治理列为优先事项。这次任期展示了这个小国在欧盟中的作用。",
+    "ja": "2017年7月から12月まで、エストニアは本来イギリスに割り当てられていた順番を引き継ぎ、初めてEU理事会の輪番議長国を務めた。デジタル単一市場と電子政府を優先課題に掲げた。議長国の経験は小国のEUでの役割を示した。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q60748622",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Danske Bank money-laundering scandal",
+    "ko": "단스케 은행 자금 세탁 스캔들",
+    "zh": "丹斯克银行洗钱丑闻",
+    "ja": "ダンスケ銀行マネーロンダリング事件"
+   },
+   "description": {
+    "en": "In 2018 an investigation revealed that around €200 billion in suspicious transactions, largely from Russia and other former Soviet states, had flowed through Danske Bank's Estonian branch between 2007 and 2015. Danske Bank was ordered to close its Estonian operations, and regulators tightened oversight. The scandal was one of the largest money-laundering cases in European history.",
+    "ko": "2018년 조사 결과 2007~2015년 단스케 은행 에스토니아 지점을 통해 주로 러시아 등 구소련 국가에서 온 약 2,000억 유로 규모의 의심 거래가 흘러간 사실이 드러났다. 단스케 은행은 에스토니아 영업 폐쇄 명령을 받았고 당국은 감독을 강화했다. 이 스캔들은 유럽 역사상 최대 규모의 자금 세탁 사건 중 하나였다.",
+    "zh": "2018年的调查揭示，2007至2015年间约2000亿欧元的可疑交易经由丹斯克银行爱沙尼亚分行流转，资金主要来自俄罗斯等前苏联国家。丹斯克银行被责令关闭在爱沙尼亚的业务，监管机构加强了监督。该丑闻是欧洲历史上最大的洗钱案之一。",
+    "ja": "2018年の調査で、2007～15年にダンスケ銀行エストニア支店を通じて、主にロシアなど旧ソ連諸国からの約2000億ユーロの疑わしい取引が流れていたことが明らかになった。同行はエストニア事業の閉鎖を命じられ、当局は監督を強化した。この事件は欧州史上最大級のマネーロンダリング事件となった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87204911",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic",
+    "ko": "코로나19 팬데믹",
+    "zh": "新冠疫情",
+    "ja": "新型コロナウイルスのパンデミック"
+   },
+   "description": {
+    "en": "The first COVID-19 case in Estonia was confirmed in February 2020, and in March the government declared an emergency situation, closing schools and restricting movement; Saaremaa became an early hotspot. Estonia's digital infrastructure eased remote schooling and public services during the pandemic.",
+    "ko": "2020년 2월 에스토니아에서 첫 코로나19 확진자가 확인되었고, 3월 정부는 비상 상황을 선포해 학교를 닫고 이동을 제한했으며 사아레마가 초기 집중 발생지가 되었다. 에스토니아의 디지털 기반은 팬데믹 동안 원격 수업과 공공 서비스를 수월하게 했다.",
+    "zh": "2020年2月爱沙尼亚确认首例新冠病例，3月政府宣布紧急状态，关闭学校并限制出行，萨雷马岛成为早期疫情热点。疫情期间，爱沙尼亚的数字基础设施为远程教学和公共服务提供了便利。",
+    "ja": "2020年2月にエストニアで最初の新型コロナ感染者が確認され、3月に政府は緊急事態を宣言して学校を閉鎖し移動を制限した。サーレマー島は初期の感染拡大地となった。エストニアのデジタル基盤はパンデミック中の遠隔授業や公共サービスを容易にした。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": "Q84027736",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Kaja Kallas and Alar Karis take office",
+    "ko": "카야 칼라스와 알라르 카리스 취임",
+    "zh": "卡娅·卡拉斯与阿拉尔·卡里斯就任",
+    "ja": "カヤ・カラスとアラル・カリスの就任"
+   },
+   "description": {
+    "en": "In January 2021 Kaja Kallas of the Reform Party became Estonia's first female prime minister. Later that year parliament elected Alar Karis, a molecular geneticist and former rector of the University of Tartu, as president. Kallas became one of Europe's leading voices on Russia after the 2022 invasion of Ukraine.",
+    "ko": "2021년 1월 개혁당의 카야 칼라스가 에스토니아 최초의 여성 총리가 되었다. 같은 해 말 의회는 분자유전학자이자 타르투 대학교 전 총장인 알라르 카리스를 대통령으로 선출했다. 칼라스는 2022년 러시아의 우크라이나 침공 이후 러시아 문제에서 유럽의 대표적 목소리 중 하나가 되었다.",
+    "zh": "2021年1月，改革党的卡娅·卡拉斯成为爱沙尼亚首位女总理。同年晚些时候，议会选举分子遗传学家、塔尔图大学前校长阿拉尔·卡里斯为总统。2022年俄罗斯入侵乌克兰后，卡拉斯成为欧洲在俄罗斯问题上最具代表性的声音之一。",
+    "ja": "2021年1月、改革党のカヤ・カラスがエストニア初の女性首相となった。同年後半、議会は分子遺伝学者でタルトゥ大学元学長のアラル・カリスを大統領に選出した。カラスは2022年のロシアによるウクライナ侵攻後、ロシア問題で欧州を代表する声の一つとなった。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Response to the Russian invasion of Ukraine",
+    "ko": "러시아의 우크라이나 침공에 대한 대응",
+    "zh": "应对俄罗斯入侵乌克兰",
+    "ja": "ロシアのウクライナ侵攻への対応"
+   },
+   "description": {
+    "en": "After Russia's full-scale invasion of Ukraine in February 2022, Estonia became one of Ukraine's largest supporters relative to its economy and sharply raised defense spending. NATO strengthened its forward presence in the country. In August 2022 the government removed a Soviet T-34 tank monument in Narva, part of a wider removal of Soviet monuments from public spaces.",
+    "ko": "2022년 2월 러시아의 우크라이나 전면 침공 이후 에스토니아는 경제 규모 대비 우크라이나의 최대 지원국 중 하나가 되었고 국방비를 크게 늘렸다. 나토는 에스토니아 내 전진 배치를 강화했다. 2022년 8월 정부는 나르바의 소련 T-34 전차 기념물을 철거했는데, 이는 공공장소의 소련 기념물을 철거하는 광범위한 조치의 일부였다.",
+    "zh": "2022年2月俄罗斯全面入侵乌克兰后，爱沙尼亚按经济规模计算成为乌克兰最大的支持者之一，并大幅增加国防开支。北约加强了在该国的前沿存在。2022年8月，政府移除了纳尔瓦的苏联T-34坦克纪念碑，这是从公共场所移除苏联纪念物的更大行动的一部分。",
+    "ja": "2022年2月のロシアによるウクライナ全面侵攻後、エストニアは経済規模比でウクライナの最大の支援国の一つとなり、国防費を大幅に増やした。NATOは同国での前方展開を強化した。2022年8月、政府はナルヴァのソ連のT-34戦車記念碑を撤去したが、これは公共空間からソ連の記念碑を撤去する広範な措置の一部だった。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Marriage equality law",
+    "ko": "혼인 평등법",
+    "zh": "婚姻平权法",
+    "ja": "婚姻平等法"
+   },
+   "description": {
+    "en": "In June 2023 the Riigikogu passed a law allowing same-sex couples to marry, which took effect on 1 January 2024. Estonia became the first former Soviet republic to legalize same-sex marriage. The reform followed the 2014 Registered Partnership Act.",
+    "ko": "2023년 6월 리이기코구(의회)는 동성 커플의 결혼을 허용하는 법을 통과시켰고, 이 법은 2024년 1월 1일 시행되었다. 에스토니아는 동성 결혼을 합법화한 첫 구소련 공화국이 되었다. 이 개혁은 2014년 등록 동반자법에 뒤이은 것이었다.",
+    "zh": "2023年6月，爱沙尼亚议会通过允许同性伴侣结婚的法律，于2024年1月1日生效。爱沙尼亚成为第一个将同性婚姻合法化的前苏联加盟共和国。此项改革是继2014年《登记伴侣关系法》之后的进一步举措。",
+    "ja": "2023年6月、リーギコグ（議会）は同性カップルの婚姻を認める法律を可決し、2024年1月1日に施行された。エストニアは同性婚を合法化した最初の旧ソ連構成共和国となった。この改革は2014年の登録パートナーシップ法に続くものだった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Kallas to Brussels; Michal becomes prime minister",
+    "ko": "칼라스의 브뤼셀행과 미할 총리 취임",
+    "zh": "卡拉斯赴布鲁塞尔，米哈尔出任总理",
+    "ja": "カラスのブリュッセル転出とミハル首相就任"
+   },
+   "description": {
+    "en": "In July 2024 Kaja Kallas resigned as prime minister after being nominated as the EU's High Representative for Foreign Affairs and Security Policy, a post she took up in December 2024. Kristen Michal of the Reform Party succeeded her as prime minister. Her appointment marked an unprecedented role for an Estonian in EU foreign policy.",
+    "ko": "2024년 7월 카야 칼라스는 EU 외교안보정책 고위대표로 지명된 뒤 총리직을 사임했고, 같은 해 12월 그 직책에 취임했다. 개혁당의 크리스텐 미할이 후임 총리가 되었다. 그녀의 임명은 EU 외교 정책에서 에스토니아인이 맡은 전례 없는 역할이었다.",
+    "zh": "2024年7月，卡娅·卡拉斯在被提名为欧盟外交与安全政策高级代表后辞去总理职务，并于同年12月就任该职。改革党的克里斯滕·米哈尔接任总理。她的任命标志着爱沙尼亚人在欧盟外交政策中担任了前所未有的角色。",
+    "ja": "2024年7月、カヤ・カラスはEU外務・安全保障政策上級代表に指名されて首相を辞任し、同年12月に就任した。改革党のクリステン・ミハルが後任の首相となった。彼女の任命は、EU外交政策においてエストニア人が担う前例のない役割となった。"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1950 @@
+{
+ "iso": "BO",
+ "eras": [
+  {
+   "from": -9000,
+   "to": -1501,
+   "kind": "period",
+   "qid": "Q2837789",
+   "polity": null,
+   "name": {
+    "en": "Archaic hunter-gatherers of the Andes and lowlands",
+    "ko": "안데스와 저지대의 고기 수렵채집 시대",
+    "zh": "安第斯与低地的古代狩猎采集时期",
+    "ja": "アンデスと低地の古期狩猟採集時代"
+   },
+   "summary": {
+    "en": "For thousands of years after the end of the Ice Age, bands of hunter-gatherers lived on the high Altiplano, in the Andean valleys and in the eastern lowlands of what is now Bolivia. In the highlands they hunted vicuña and guanaco and left rock art, gradually moving toward the herding of llamas and alpacas and the cultivation of potatoes and quinoa. In the Amazonian plains of Moxos, people created artificial forest islands from early in the Holocene.",
+    "ko": "빙하기가 끝난 뒤 수천 년 동안 오늘날 볼리비아의 고원 알티플라노, 안데스 계곡, 동부 저지대에는 수렵채집민 무리가 살았다. 고원의 사람들은 비쿠냐와 과나코를 사냥하고 암각화를 남겼으며, 점차 라마·알파카 목축과 감자·키노아 재배로 나아갔다. 모호스의 아마존 평원에서는 홀로세 초기부터 사람들이 인공 숲섬을 만들었다.",
+    "zh": "冰期结束后的数千年间，在今玻利维亚的高原、安第斯山谷和东部低地生活着狩猎采集人群。高原居民猎取骆马和原驼，留下岩画，并逐渐转向驯养美洲驼和羊驼、种植马铃薯和藜麦。在莫克索斯的亚马孙平原上，人们自全新世早期起便堆筑人工林岛。",
+    "ja": "氷期が終わったのちの数千年間、現在のボリビアの高原アルティプラノ、アンデスの谷、東部低地には狩猟採集民の集団が暮らしていた。高原の人々はビクーニャやグアナコを狩って岩絵を残し、次第にリャマ・アルパカの牧畜とジャガイモ・キヌアの栽培へと移行した。モホスのアマゾン平原では、完新世の初めから人々が人工の森の島を築いていた。"
+   }
+  },
+  {
+   "from": -1500,
+   "to": 399,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Formative cultures of the Altiplano (Chiripa, Wankarani)",
+    "ko": "알티플라노의 형성기 문화(치리파·왕카라니)",
+    "zh": "高原形成期文化（奇里帕、万卡拉尼）",
+    "ja": "アルティプラノの形成期文化（チリパ・ワンカラニ）"
+   },
+   "summary": {
+    "en": "From around 1500 BC permanent farming and herding villages appeared on the Altiplano, such as Chiripa on the southern shore of Lake Titicaca and the Wankarani mound settlements near present-day Oruro. Around the lake, communities built sunken ceremonial courts and shared a religious tradition known as Yaya-Mama. In the late Formative period larger centres such as Khonkho Wankane and early Tiwanaku laid the foundations of later Andean states.",
+    "ko": "기원전 1500년 무렵부터 알티플라노에는 티티카카호 남쪽 기슭의 치리파, 오늘날 오루로 근처의 왕카라니 둔덕 취락 같은 정착 농경·목축 마을이 나타났다. 호수 주변 공동체들은 반지하 의례 광장을 짓고 '야야마마'로 알려진 종교 전통을 공유했다. 형성기 후기에는 콩코 왕카네와 초기 티와나쿠 같은 큰 중심지가 등장해 이후 안데스 국가의 기반을 놓았다.",
+    "zh": "约公元前1500年起，高原上出现了定居的农牧村落，如的的喀喀湖南岸的奇里帕和今奥鲁罗附近的万卡拉尼土丘聚落。湖畔社群修建下沉式礼仪广场，共享一种被称为“亚亚—玛玛”的宗教传统。形成期晚期，孔科万卡内和早期蒂瓦纳库等较大中心兴起，为后来的安第斯国家奠定了基础。",
+    "ja": "紀元前1500年頃から、アルティプラノにはティティカカ湖南岸のチリパや現在のオルロ近郊のワンカラニのマウンド集落など、定住的な農耕・牧畜村落が現れた。湖畔の共同体は半地下式の儀礼広場を築き、「ヤヤ・ママ」と呼ばれる宗教伝統を共有した。形成期後期にはコンコ・ワンカネや初期ティワナクなどの大きな中心地が生まれ、後のアンデス国家の基盤が築かれた。"
+   }
+  },
+  {
+   "from": 400,
+   "to": 1150,
+   "kind": "state",
+   "qid": "Q1307407",
+   "polity": null,
+   "name": {
+    "en": "Tiwanaku",
+    "ko": "티와나쿠",
+    "zh": "蒂瓦纳库",
+    "ja": "ティワナク"
+   },
+   "summary": {
+    "en": "Tiwanaku, a city near the southern shore of Lake Titicaca, became the capital of one of the most influential Andean civilizations. Supported by raised-field farming and llama caravans, it built monumental stone platforms and temples such as the Akapana, Kalasasaya and Pumapunku, and its religious imagery spread across the southern Andes from Peru to northern Chile and Argentina. The city declined between about 1000 and 1150, probably amid prolonged drought and political fragmentation.",
+    "ko": "티티카카호 남쪽 기슭 근처의 도시 티와나쿠는 안데스에서 가장 영향력 있는 문명 가운데 하나의 수도가 되었다. 계단식 둔덕 농법과 라마 대상 교역을 바탕으로 아카파나, 칼라사사야, 푸마푼쿠 같은 거대한 석조 기단과 신전을 세웠고, 그 종교 도상은 페루에서 칠레 북부·아르헨티나 북부에 이르는 남부 안데스 전역으로 퍼졌다. 도시는 대략 1000~1150년 사이에 쇠퇴했는데, 오랜 가뭄과 정치적 분열이 원인으로 꼽힌다.",
+    "zh": "位于的的喀喀湖南岸附近的蒂瓦纳库城成为安第斯最具影响力的文明之一的都城。依靠台田农业和美洲驼商队，它建造了阿卡帕纳、卡拉萨萨亚、普马彭古等宏伟的石砌台基与神庙，其宗教图像传播到从秘鲁到智利北部和阿根廷北部的整个南安第斯地区。约1000年至1150年间该城衰落，原因可能是长期干旱和政治分裂。",
+    "ja": "ティティカカ湖南岸近くの都市ティワナクは、アンデスで最も影響力のある文明の一つの首都となった。盛り土耕地とリャマのキャラバン交易に支えられ、アカパナ、カラササヤ、プマプンクなどの巨大な石造基壇と神殿を築き、その宗教図像はペルーからチリ北部・アルゼンチン北部に至る南アンデス一帯に広まった。都市はおよそ1000年から1150年の間に衰退し、長期の干ばつと政治的分裂が原因と考えられている。"
+   }
+  },
+  {
+   "from": 500,
+   "to": 1400,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Casarabe culture of the Llanos de Moxos",
+    "ko": "모호스 평원의 카사라베 문화",
+    "zh": "莫克索斯平原的卡萨拉韦文化",
+    "ja": "モホス平原のカサラベ文化"
+   },
+   "summary": {
+    "en": "In the seasonally flooded savannas of the Llanos de Moxos in the Bolivian Amazon, the Casarabe culture built large settlements with platform mounds and pyramids, linked by raised causeways, canals and reservoirs. Laser surveys published in 2022 revealed that sites such as Cotoca and Landívar formed a dispersed, low-density urban landscape. The culture challenged the old idea that the Amazon could not support complex societies.",
+    "ko": "볼리비아 아마존의 계절적으로 범람하는 모호스 평원 사바나에서 카사라베 문화는 기단 둔덕과 피라미드를 갖춘 대규모 취락을 세우고, 이를 둑길, 운하, 저수지로 연결했다. 2022년 발표된 레이저 측량은 코토카와 란디바르 같은 유적이 분산된 저밀도 도시 경관을 이루었음을 밝혔다. 이 문화는 아마존이 복잡한 사회를 지탱할 수 없다는 오래된 통념을 뒤집었다.",
+    "zh": "在玻利维亚亚马孙地区季节性泛滥的莫克索斯平原稀树草原上，卡萨拉韦文化修建了带有平台土丘和金字塔的大型聚落，并以高堤道路、运河和水库相连。2022年公布的激光雷达测量显示，科托卡和兰迪瓦尔等遗址构成了分散的低密度城市景观。该文化推翻了亚马孙无法供养复杂社会的旧观念。",
+    "ja": "ボリビア・アマゾンの季節的に冠水するモホス平原のサバンナで、カサラベ文化は基壇マウンドやピラミッドを備えた大規模集落を築き、土手道、運河、貯水池で結んだ。2022年に発表されたレーザー測量により、コトカやランディバルなどの遺跡が分散した低密度の都市景観を形成していたことが明らかになった。この文化はアマゾンでは複雑な社会は成り立たないという古い通説を覆した。"
+   }
+  },
+  {
+   "from": 700,
+   "to": 1400,
+   "kind": "culture",
+   "qid": "Q2493437",
+   "polity": null,
+   "name": {
+    "en": "Mollo culture",
+    "ko": "모요 문화",
+    "zh": "莫约文化",
+    "ja": "モリョ文化"
+   },
+   "summary": {
+    "en": "The Mollo culture developed in the eastern Andean valleys north-east of Lake Titicaca, overlapping with and outlasting Tiwanaku. Its best-known site, Iskanwaya, is a terraced stone town with dozens of buildings, plazas and irrigation works perched above a river valley. The Mollo people were skilled farmers and potters before their region was absorbed by the Inca.",
+    "ko": "모요 문화는 티티카카호 북동쪽 안데스 동부 계곡에서 발전했으며, 티와나쿠와 시기가 겹치고 그보다 오래 존속했다. 가장 유명한 유적 이스칸와야는 강 계곡 위에 자리한 계단식 석조 마을로, 수십 채의 건물과 광장, 관개 시설을 갖추었다. 모요 사람들은 잉카에 흡수되기 전까지 뛰어난 농민이자 도공이었다.",
+    "zh": "莫约文化发展于的的喀喀湖东北方的安第斯东部山谷，与蒂瓦纳库同时并存，且存续得更久。其最著名的遗址伊斯坎瓦亚是一座高踞河谷之上的梯田式石城，拥有数十座建筑、广场和灌溉设施。在其地区被印加吞并之前，莫约人是出色的农人和陶工。",
+    "ja": "モリョ文化はティティカカ湖北東のアンデス東部の谷で発展し、ティワナクと時期が重なりつつ、それより長く存続した。最も有名な遺跡イスカンワヤは川の谷を見下ろす段々畑状の石造の町で、数十の建物、広場、灌漑施設を備えていた。モリョの人々はインカに吸収されるまで、優れた農民であり陶工だった。"
+   }
+  },
+  {
+   "from": 1150,
+   "to": 1469,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Aymara kingdoms of the Altiplano",
+    "ko": "알티플라노의 아이마라 왕국들",
+    "zh": "高原的艾马拉诸王国",
+    "ja": "アルティプラノのアイマラ諸王国"
+   },
+   "summary": {
+    "en": "After Tiwanaku's collapse the Altiplano was divided among Aymara-speaking kingdoms and confederations such as the Lupaca and Colla near the lake, the Pacajes, and the Charcas, Qaraqara and Killaka further south. They lived from herding and farming at different altitudes, often controlling distant valley lands, and buried their elite in tall tower tombs called chullpas. These lords were conquered by the Inca in the 15th century but kept much of their social organization.",
+    "ko": "티와나쿠 붕괴 이후 알티플라노는 호수 근처의 루파카와 콜랴, 파카헤스, 더 남쪽의 차르카스, 카라카라, 킬라카 등 아이마라어를 쓰는 왕국과 연합체들로 나뉘었다. 이들은 서로 다른 고도에서 목축과 농경으로 살며 종종 멀리 떨어진 계곡 땅까지 지배했고, 지배층을 '출파'라 불리는 높은 탑 무덤에 묻었다. 이 영주들은 15세기에 잉카에게 정복되었으나 사회 조직의 상당 부분을 유지했다.",
+    "zh": "蒂瓦纳库崩溃后，高原分裂为操艾马拉语的诸王国和联盟，如湖畔的卢帕卡与科利亚、帕卡赫斯，以及更南面的查尔卡斯、卡拉卡拉和基利亚卡。他们在不同海拔从事畜牧和农耕，常控制遥远的河谷土地，并将贵族葬于称为“丘尔帕”的高塔墓中。15世纪这些领主被印加征服，但仍保留了大部分社会组织。",
+    "ja": "ティワナク崩壊後、アルティプラノは湖畔のルパカやコリャ、パカヘス、さらに南のチャルカス、カラカラ、キリャカなどアイマラ語を話す王国や連合に分かれた。彼らは異なる高度で牧畜と農耕を営み、しばしば遠く離れた谷の土地も支配し、支配層を「チュルパ」と呼ばれる高い塔状の墓に葬った。これらの首長たちは15世紀にインカに征服されたが、社会組織の多くを保持した。"
+   }
+  },
+  {
+   "from": 1470,
+   "to": 1538,
+   "kind": "state",
+   "qid": "Q28573",
+   "polity": "Inca Empire",
+   "name": {
+    "en": "Inca Empire (Qullasuyu)",
+    "ko": "잉카 제국(코야수유)",
+    "zh": "印加帝国（科利亚苏尤）",
+    "ja": "インカ帝国（コリャスユ）"
+   },
+   "summary": {
+    "en": "In the late 15th century the Inca conquered the Aymara kingdoms of the Bolivian highlands and valleys, making them part of Qullasuyu, the south-eastern quarter of Tawantinsuyu. The Inca built roads, storehouses and shrines such as those on the Island of the Sun, resettled colonists in the fertile Cochabamba valley to grow maize, and fortified the eastern frontier at sites like Incallajta and Samaipata against lowland peoples. Inca rule ended with the Spanish conquest in the 1530s.",
+    "ko": "15세기 말 잉카는 볼리비아 고원과 계곡의 아이마라 왕국들을 정복해 타완틴수유의 남동부 구역인 코야수유에 편입했다. 잉카는 도로, 창고, 태양의 섬 같은 성소를 짓고, 비옥한 코차밤바 계곡에 이주민을 정착시켜 옥수수를 재배했으며, 잉카야크타와 사마이파타 같은 곳에 요새를 세워 동부 국경을 저지대 민족으로부터 지켰다. 잉카의 지배는 1530년대 스페인의 정복으로 끝났다.",
+    "zh": "15世纪末，印加征服了玻利维亚高原和河谷的艾马拉诸王国，将其纳入塔万廷苏尤东南部的科利亚苏尤。印加人修建道路、仓库和太阳岛等圣所，在肥沃的科恰班巴河谷安置移民种植玉米，并在因卡利亚克塔和萨迈帕塔等地筑堡，防御东部低地民族。印加的统治随16世纪30年代西班牙的征服而结束。",
+    "ja": "15世紀末、インカはボリビアの高原と谷のアイマラ諸王国を征服し、タワンティンスユの南東部コリャスユに組み込んだ。インカは道路、倉庫、太陽の島などの聖所を築き、肥沃なコチャバンバ渓谷に移住者を入植させてトウモロコシを栽培させ、インカリャクタやサマイパタなどに要塞を築いて東部辺境を低地の民から守った。インカの支配は1530年代のスペインの征服で終わった。"
+   }
+  },
+  {
+   "from": 1538,
+   "to": 1825,
+   "kind": "colonial",
+   "qid": "Q80702",
+   "polity": "Spanish Empire",
+   "name": {
+    "en": "Spanish Upper Peru (Audiencia of Charcas)",
+    "ko": "스페인령 알토페루(차르카스 아우디엔시아)",
+    "zh": "西属上秘鲁（查尔卡斯检审庭）",
+    "ja": "スペイン領アルト・ペルー（チャルカス聴訴院）"
+   },
+   "summary": {
+    "en": "After the conquest, the region known as Upper Peru was governed from La Plata (Sucre) through the Audiencia of Charcas, first within the Viceroyalty of Peru and from 1776 within the Viceroyalty of the Río de la Plata. The silver of Potosí, mined through the forced-labour mita imposed on Indigenous communities, made it one of the most valuable parts of the Spanish Empire. The period also produced a rich Andean Baroque art, Jesuit missions in the lowlands, and the great Indigenous rebellions of 1780-81.",
+    "ko": "정복 이후 '알토페루'로 불린 이 지역은 처음에는 페루 부왕령, 1776년부터는 리오데라플라타 부왕령 아래에서 라플라타(수크레)의 차르카스 아우디엔시아를 통해 통치되었다. 원주민 공동체에 부과된 강제 노역 '미타'로 채굴된 포토시의 은은 이곳을 스페인 제국에서 가장 값진 지역 중 하나로 만들었다. 이 시기에는 화려한 안데스 바로크 예술, 저지대의 예수회 선교 마을, 1780~81년의 대규모 원주민 봉기도 나타났다.",
+    "zh": "征服之后，被称为“上秘鲁”的这一地区由拉普拉塔（今苏克雷）的查尔卡斯检审庭管辖，起初隶属秘鲁总督辖区，1776年起改属拉普拉塔河总督辖区。依靠强加于原住民社群的强迫劳役“米塔”开采的波托西白银，使之成为西班牙帝国最有价值的地区之一。这一时期还产生了丰富的安第斯巴洛克艺术、低地的耶稣会传教村，以及1780至1781年的原住民大起义。",
+    "ja": "征服後、「アルト・ペルー」と呼ばれたこの地域は、初めはペルー副王領、1776年からはリオ・デ・ラ・プラタ副王領のもとで、ラ・プラタ（スクレ）のチャルカス聴訴院を通じて統治された。先住民共同体に課された強制労働ミタによって採掘されたポトシの銀は、ここをスペイン帝国で最も価値ある地域の一つにした。この時代には豊かなアンデス・バロック美術、低地のイエズス会伝道村、1780〜81年の大規模な先住民反乱も生まれた。"
+   }
+  },
+  {
+   "from": 1809,
+   "to": 1825,
+   "kind": "period",
+   "qid": "Q68475",
+   "polity": null,
+   "name": {
+    "en": "War of Independence",
+    "ko": "독립 전쟁기",
+    "zh": "独立战争时期",
+    "ja": "独立戦争期"
+   },
+   "summary": {
+    "en": "The revolutions of Chuquisaca and La Paz in 1809 opened a long struggle in which Upper Peru was repeatedly fought over by royalist armies from Peru and patriot expeditions from Buenos Aires. Between these campaigns, local guerrilla bands known as republiquetas, led by figures such as Juana Azurduy and Manuel Ascencio Padilla, kept resistance alive. Victory came only after Sucre's army entered the region following the battle of Ayacucho in 1824.",
+    "ko": "1809년 추키사카와 라파스의 혁명은 기나긴 투쟁의 서막이었고, 알토페루는 페루에서 온 왕당파 군대와 부에노스아이레스에서 온 애국파 원정군 사이에서 거듭 전장이 되었다. 원정 사이에는 후아나 아수르두이, 마누엘 아센시오 파디야 같은 인물이 이끈 '레푸블리케타'라는 현지 게릴라 집단이 저항을 이어 갔다. 승리는 1824년 아야쿠초 전투 이후 수크레의 군대가 이 지역에 들어온 뒤에야 찾아왔다.",
+    "zh": "1809年丘基萨卡和拉巴斯的革命拉开了漫长斗争的序幕，上秘鲁一再成为来自秘鲁的保王军与来自布宜诺斯艾利斯的爱国远征军争夺之地。在历次远征之间，由胡安娜·阿苏尔杜伊、曼努埃尔·阿森西奥·帕迪利亚等人领导的被称为“小共和国”的地方游击队坚持抵抗。直到1824年阿亚库乔战役之后苏克雷的军队进入该地区，胜利才最终到来。",
+    "ja": "1809年のチュキサカとラパスの革命は長い闘争の幕開けとなり、アルト・ペルーはペルーからの王党派軍とブエノスアイレスからの愛国派遠征軍の間で繰り返し戦場となった。遠征の合間には、フアナ・アスルドゥイやマヌエル・アセンシオ・パディーリャらが率いた「レプブリケタ」と呼ばれる地元のゲリラ集団が抵抗を続けた。勝利は1824年のアヤクチョの戦いの後、スクレの軍がこの地域に入ってようやく訪れた。"
+   }
+  },
+  {
+   "from": 1825,
+   "to": 1879,
+   "kind": "state",
+   "qid": "Q750",
+   "polity": "Bolivia",
+   "name": {
+    "en": "Early Republic of Bolivia",
+    "ko": "볼리비아 초기 공화국",
+    "zh": "玻利维亚早期共和国",
+    "ja": "ボリビア初期共和国"
+   },
+   "summary": {
+    "en": "Bolivia became independent in 1825 and took its name from Simón Bolívar, with Antonio José de Sucre as its first president. Its early decades were dominated by military caudillos, from the state-building Andrés de Santa Cruz, who created the short-lived Peru-Bolivian Confederation, to the notorious Mariano Melgarejo. The country still had a Pacific coastline, the Litoral province around Cobija and Antofagasta, where nitrate and guano attracted Chilean and British capital.",
+    "ko": "볼리비아는 1825년 독립하여 시몬 볼리바르의 이름을 국명으로 삼았고, 안토니오 호세 데 수크레가 초대 대통령이 되었다. 초기 수십 년은 단명한 페루-볼리비아 연합을 세운 국가 건설자 안드레스 데 산타크루스부터 악명 높은 마리아노 멜가레호에 이르는 군벌 카우디요들이 지배했다. 당시 나라는 코비하와 안토파가스타 일대의 리토랄주라는 태평양 해안을 가지고 있었고, 그곳의 초석과 구아노는 칠레와 영국 자본을 끌어들였다.",
+    "zh": "玻利维亚于1825年独立，以西蒙·玻利瓦尔之名命名国家，安东尼奥·何塞·德苏克雷任首任总统。建国最初几十年由军事考迪罗主导，既有建立短命的秘鲁—玻利维亚邦联的国家缔造者安德烈斯·德圣克鲁斯，也有声名狼藉的马里亚诺·梅尔加雷霍。当时该国仍拥有太平洋海岸，即科维哈和安托法加斯塔一带的沿海省，那里的硝石和鸟粪吸引了智利与英国资本。",
+    "ja": "ボリビアは1825年に独立し、シモン・ボリバルにちなんで国名とし、アントニオ・ホセ・デ・スクレが初代大統領となった。初期の数十年は、短命のペルー・ボリビア連合を築いた国家建設者アンドレス・デ・サンタ・クルスから悪名高いマリアノ・メルガレホに至る軍人カウディーリョが支配した。当時の国はコビハやアントファガスタ周辺のリトラル県という太平洋岸を有し、そこの硝石とグアノがチリとイギリスの資本を引きつけた。"
+   }
+  },
+  {
+   "from": 1836,
+   "to": 1839,
+   "kind": "state",
+   "qid": "Q899706",
+   "polity": "Peru-Bolivian Confederation",
+   "name": {
+    "en": "Peru-Bolivian Confederation",
+    "ko": "페루-볼리비아 연합",
+    "zh": "秘鲁—玻利维亚邦联",
+    "ja": "ペルー・ボリビア連合"
+   },
+   "summary": {
+    "en": "In 1836 Bolivian president Andrés de Santa Cruz united Bolivia with two Peruvian states, North Peru and South Peru, in a confederation under his rule as Supreme Protector. Chile and Argentina saw it as a threat to the regional balance and went to war against it. After the Chilean-led victory at Yungay in January 1839 the confederation collapsed and Santa Cruz went into exile.",
+    "ko": "1836년 볼리비아 대통령 안드레스 데 산타크루스는 볼리비아와 페루의 두 국가인 북페루·남페루를 하나의 연합으로 묶고 스스로 최고 보호관이 되었다. 칠레와 아르헨티나는 이를 지역 균형에 대한 위협으로 여겨 전쟁을 벌였다. 1839년 1월 칠레가 주도한 융가이 전투의 승리 이후 연합은 붕괴했고 산타크루스는 망명했다.",
+    "zh": "1836年，玻利维亚总统安德烈斯·德圣克鲁斯将玻利维亚与秘鲁的两个国家——北秘鲁和南秘鲁——联合为一个邦联，自任最高护国公。智利和阿根廷视之为对地区均势的威胁，对其开战。1839年1月智利主导的联军在云加伊获胜后，邦联瓦解，圣克鲁斯流亡海外。",
+    "ja": "1836年、ボリビア大統領アンドレス・デ・サンタ・クルスは、ボリビアとペルーの二つの国家、北ペルーと南ペルーを連合にまとめ、自ら最高護国官となった。チリとアルゼンチンはこれを地域の均衡への脅威とみなして戦争を仕掛けた。1839年1月のチリ主導のユンガイの戦いの勝利の後、連合は崩壊し、サンタ・クルスは亡命した。"
+   }
+  },
+  {
+   "from": 1880,
+   "to": 1931,
+   "kind": "state",
+   "qid": "Q750",
+   "polity": "Bolivia",
+   "name": {
+    "en": "Oligarchic republic: silver and tin",
+    "ko": "과두 공화국: 은과 주석의 시대",
+    "zh": "寡头共和国：白银与锡的时代",
+    "ja": "寡頭共和国：銀と錫の時代"
+   },
+   "summary": {
+    "en": "After losing its coast to Chile, Bolivia entered a period of relatively stable civilian rule by elite parties, first the Conservatives backed by southern silver-mining interests and, after the Federal War of 1898-99, the Liberals based in La Paz, which became the seat of government. Tin replaced silver as the main export, and magnates such as Simón Patiño became among the richest men in the world. Railways were built, but Indigenous communities lost land to haciendas and lacked political rights.",
+    "ko": "칠레에 해안을 빼앗긴 뒤 볼리비아는 엘리트 정당들이 지배하는 비교적 안정된 문민 통치기에 들어섰는데, 처음에는 남부 은광 세력이 지지한 보수당이, 1898~99년 연방 전쟁 이후에는 라파스를 기반으로 한 자유당이 집권했고 라파스가 정부 소재지가 되었다. 주석이 은을 대신해 주요 수출품이 되었고 시몬 파티뇨 같은 거부는 세계적인 부호가 되었다. 철도가 건설되었으나 원주민 공동체는 대농장에 땅을 빼앗기고 정치적 권리를 갖지 못했다.",
+    "zh": "失去海岸后，玻利维亚进入了由精英政党主导的相对稳定的文官统治时期：先是得到南部银矿利益集团支持的保守派执政，1898至1899年联邦战争后则由以拉巴斯为基地的自由派掌权，拉巴斯成为政府所在地。锡取代白银成为主要出口品，西蒙·帕蒂尼奥等巨头跻身世界最富有者之列。铁路得以修建，但原住民社群的土地被大庄园侵占，且缺乏政治权利。",
+    "ja": "海岸をチリに奪われた後、ボリビアはエリート政党による比較的安定した文民統治の時代に入った。初めは南部の銀鉱山勢力に支えられた保守派が、1898〜99年の連邦戦争後はラパスを基盤とする自由派が政権を握り、ラパスが政府所在地となった。錫が銀に代わって主要輸出品となり、シモン・パティーニョのような大富豪は世界有数の資産家となった。鉄道が建設されたが、先住民共同体はアシエンダに土地を奪われ、政治的権利も持たなかった。"
+   }
+  },
+  {
+   "from": 1932,
+   "to": 1951,
+   "kind": "state",
+   "qid": "Q750",
+   "polity": "Bolivia",
+   "name": {
+    "en": "Chaco War and the crisis of the old order",
+    "ko": "차코 전쟁과 구체제의 위기",
+    "zh": "查科战争与旧秩序的危机",
+    "ja": "チャコ戦争と旧体制の危機"
+   },
+   "summary": {
+    "en": "The disastrous Chaco War with Paraguay (1932-35) discredited the ruling elite and gave rise to new nationalist and leftist movements among veterans, students and miners. Reformist officers of 'military socialism' nationalized Standard Oil's holdings in 1937, while massacres of striking miners and the lynching of President Villarroel in 1946 showed deepening polarization. The Nationalist Revolutionary Movement (MNR) won the 1951 election but was barred from power, setting the stage for revolution.",
+    "ko": "파라과이와의 참담한 차코 전쟁(1932~35)은 지배 엘리트의 권위를 실추시키고 참전 군인, 학생, 광부 사이에서 새로운 민족주의·좌파 운동을 낳았다. '군사 사회주의'를 내건 개혁파 장교들은 1937년 스탠더드 오일의 자산을 국유화했고, 파업 광부 학살과 1946년 비야로엘 대통령의 린치 살해는 양극화의 심화를 보여 주었다. 민족혁명운동(MNR)은 1951년 선거에서 승리했으나 집권을 저지당해 혁명의 무대가 마련되었다.",
+    "zh": "与巴拉圭之间灾难性的查科战争（1932—1935）使统治精英威信扫地，并在退伍军人、学生和矿工中催生了新的民族主义和左翼运动。倡导“军人社会主义”的改革派军官于1937年将标准石油公司的资产国有化，而对罢工矿工的屠杀以及1946年比利亚罗埃尔总统遭私刑处死则显示出社会两极分化的加深。民族革命运动（MNR）赢得了1951年选举却被阻止执政，从而为革命埋下伏笔。",
+    "ja": "パラグアイとの悲惨なチャコ戦争（1932〜35年）は支配エリートの信用を失墜させ、退役軍人、学生、鉱山労働者の間に新たな民族主義・左派運動を生んだ。「軍事社会主義」を掲げた改革派将校は1937年にスタンダード・オイルの資産を国有化したが、ストライキ中の鉱山労働者の虐殺や1946年のビジャロエル大統領のリンチ殺害は分極化の深まりを示した。民族革命運動（MNR）は1951年の選挙に勝利したが政権獲得を阻まれ、革命の舞台が整った。"
+   }
+  },
+  {
+   "from": 1952,
+   "to": 1964,
+   "kind": "state",
+   "qid": "Q4414118",
+   "polity": "Bolivia",
+   "name": {
+    "en": "Bolivian National Revolution",
+    "ko": "볼리비아 국민혁명",
+    "zh": "玻利维亚国民革命",
+    "ja": "ボリビア国民革命"
+   },
+   "summary": {
+    "en": "In April 1952 an uprising of the MNR, armed miners and townspeople defeated the army and brought Víctor Paz Estenssoro to power. The revolutionary government introduced universal suffrage, nationalized the big tin mines under the state company COMIBOL, and carried out a sweeping land reform that ended the hacienda system in the highlands. Internal divisions and economic difficulties weakened the MNR, which was overthrown by the military in 1964.",
+    "ko": "1952년 4월 MNR과 무장한 광부, 도시민의 봉기가 군대를 물리치고 빅토르 파스 에스텐소로를 권좌에 올렸다. 혁명 정부는 보통선거를 도입하고 대형 주석 광산을 국영 기업 COMIBOL 아래 국유화했으며, 고원의 대농장 제도를 끝낸 대대적인 토지 개혁을 단행했다. 내부 분열과 경제난으로 약화된 MNR은 1964년 군부에 의해 전복되었다.",
+    "zh": "1952年4月，民族革命运动、武装矿工和市民发动起义，击败军队，将维克托·帕斯·埃斯登索罗推上台。革命政府实行普选，将大型锡矿收归国营的玻利维亚矿业公司（COMIBOL），并进行彻底的土地改革，终结了高原的大庄园制度。内部分裂和经济困难削弱了民族革命运动，1964年其政权被军方推翻。",
+    "ja": "1952年4月、MNRと武装した鉱山労働者、都市住民の蜂起が軍を打ち破り、ビクトル・パス・エステンソロを政権に就けた。革命政府は普通選挙を導入し、大規模な錫鉱山を国営企業COMIBOLのもとに国有化し、高原のアシエンダ制を終わらせる徹底した農地改革を実施した。内部分裂と経済難で弱体化したMNRは、1964年に軍部によって倒された。"
+   }
+  },
+  {
+   "from": 1964,
+   "to": 1982,
+   "kind": "state",
+   "qid": "Q750",
+   "polity": "Bolivia",
+   "name": {
+    "en": "Era of military regimes",
+    "ko": "군사 정권 시대",
+    "zh": "军政时期",
+    "ja": "軍事政権の時代"
+   },
+   "summary": {
+    "en": "From the 1964 coup until 1982 Bolivia was ruled mostly by military governments, interrupted by short civilian interludes and frequent coups. René Barrientos courted peasants while repressing miners and defeating Che Guevara's guerrilla, the leftist general Juan José Torres briefly held power, and Hugo Banzer ruled from 1971 to 1978 with economic growth and harsh repression. The violent and drug-linked regime of Luis García Meza in 1980-81 isolated the country and hastened the return to democracy.",
+    "ko": "1964년 쿠데타부터 1982년까지 볼리비아는 짧은 문민 통치기와 잦은 쿠데타를 거치며 대부분 군사 정부의 통치를 받았다. 레네 바리엔토스는 농민을 끌어안는 한편 광부를 탄압하고 체 게바라의 게릴라를 격파했으며, 좌파 장군 후안 호세 토레스가 잠시 집권했고, 우고 반세르는 1971년부터 1978년까지 경제 성장과 가혹한 탄압 속에 통치했다. 1980~81년 루이스 가르시아 메사의 폭력적이고 마약과 연계된 정권은 나라를 고립시켜 민주주의 복귀를 앞당겼다.",
+    "zh": "从1964年政变到1982年，玻利维亚主要由军政府统治，期间穿插短暂的文官执政和频繁的政变。雷内·巴里恩托斯笼络农民，同时镇压矿工并剿灭切·格瓦拉的游击队；左翼将军胡安·何塞·托雷斯短暂执政；乌戈·班塞尔在1971年至1978年间统治，伴随着经济增长与严厉镇压。1980至1981年路易斯·加西亚·梅萨的暴力且与毒品勾连的政权使国家陷入孤立，加速了民主的回归。",
+    "ja": "1964年のクーデターから1982年まで、ボリビアは短い文民政権と頻繁なクーデターを挟みながら、主に軍事政権に統治された。レネ・バリエントスは農民を取り込む一方で鉱山労働者を弾圧し、チェ・ゲバラのゲリラを打ち破った。左派のフアン・ホセ・トーレス将軍が短期間政権を握り、ウゴ・バンセルは1971年から1978年まで経済成長と厳しい弾圧のもとで統治した。1980〜81年のルイス・ガルシア・メサの暴力的で麻薬と結びついた政権は国を孤立させ、民主化を早めた。"
+   }
+  },
+  {
+   "from": 1982,
+   "to": 2005,
+   "kind": "state",
+   "qid": "Q750",
+   "polity": "Bolivia",
+   "name": {
+    "en": "Democratic restoration and market reforms",
+    "ko": "민주화 회복과 시장 개혁",
+    "zh": "民主恢复与市场改革",
+    "ja": "民主化の回復と市場改革"
+   },
+   "summary": {
+    "en": "Civilian rule returned in 1982 under Hernán Siles Zuazo amid a severe debt crisis and hyperinflation. From 1985 governments formed through pacts among the main parties adopted neoliberal reforms: stabilization, the closure of state tin mines, privatization and decentralization. Coca eradication and the sale of natural resources provoked growing protest from coca growers, Indigenous movements and urban poor, culminating in the Water War of 2000 and the Gas War of 2003.",
+    "ko": "1982년 에르난 실레스 수아소 아래 문민 통치가 회복되었지만, 나라는 심각한 외채 위기와 초인플레이션을 겪었다. 1985년부터 주요 정당 간 협약으로 구성된 정부들은 안정화, 국영 주석 광산 폐쇄, 민영화, 지방 분권 등 신자유주의 개혁을 추진했다. 코카 근절과 천연자원 매각은 코카 재배농, 원주민 운동, 도시 빈민의 반발을 키웠고, 이는 2000년 물 전쟁과 2003년 가스 전쟁으로 절정에 이르렀다.",
+    "zh": "1982年，在埃尔南·西莱斯·苏亚索领导下文官统治得以恢复，但国家深陷严重的债务危机和恶性通货膨胀。1985年起，由主要政党之间协议组成的历届政府推行新自由主义改革：稳定经济、关闭国营锡矿、私有化和地方分权。铲除古柯和出售自然资源引发古柯种植者、原住民运动和城市贫民日益强烈的抗议，最终演变为2000年的“水战争”和2003年的“天然气战争”。",
+    "ja": "1982年、エルナン・シレス・スアソのもとで文民統治が回復したが、国は深刻な債務危機とハイパーインフレに見舞われた。1985年以降、主要政党間の協定で成立した歴代政権は、安定化、国営錫鉱山の閉鎖、民営化、地方分権といった新自由主義改革を進めた。コカ撲滅と天然資源の売却はコカ栽培農民、先住民運動、都市貧困層の反発を強め、2000年の「水戦争」と2003年の「ガス戦争」で頂点に達した。"
+   }
+  },
+  {
+   "from": 2006,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q750",
+   "polity": "Bolivia",
+   "name": {
+    "en": "Plurinational State of Bolivia",
+    "ko": "볼리비아 다민족국",
+    "zh": "玻利维亚多民族国",
+    "ja": "ボリビア多民族国"
+   },
+   "summary": {
+    "en": "Evo Morales of the Movement for Socialism (MAS) took office in 2006 as Bolivia's first Indigenous president, nationalized hydrocarbons and oversaw a new constitution in 2009 that refounded the country as the Plurinational State of Bolivia. High gas revenues funded social programmes and sharply reduced poverty, but Morales's bid for a fourth term led to the 2019 crisis and his resignation. MAS returned under Luis Arce in 2020 amid economic strain, and in 2025 voters elected Senator Rodrigo Paz, ending nearly two decades of MAS rule.",
+    "ko": "사회주의운동(MAS)의 에보 모랄레스는 2006년 볼리비아 최초의 원주민 대통령으로 취임해 탄화수소를 국유화하고, 2009년 나라를 '볼리비아 다민족국'으로 재건한 새 헌법을 이끌었다. 높은 가스 수입은 사회 정책의 재원이 되어 빈곤을 크게 줄였지만, 모랄레스의 4선 도전은 2019년 위기와 그의 사임으로 이어졌다. MAS는 2020년 루이스 아르세 아래 정권에 복귀했으나 경제난에 시달렸고, 2025년 유권자들은 상원의원 로드리고 파스를 선출해 20년 가까운 MAS 집권을 끝냈다.",
+    "zh": "争取社会主义运动（MAS）的埃沃·莫拉莱斯于2006年就任玻利维亚首位原住民总统，将油气资源国有化，并主导制定了2009年新宪法，将国家重建为“玻利维亚多民族国”。高额天然气收入支撑了社会项目，使贫困大幅减少，但莫拉莱斯谋求第四个任期引发了2019年危机并导致其辞职。2020年争取社会主义运动在路易斯·阿尔塞领导下重新执政，却面临经济困境；2025年选民选出参议员罗德里戈·帕斯，结束了该党近二十年的执政。",
+    "ja": "社会主義運動（MAS）のエボ・モラレスは2006年にボリビア初の先住民出身の大統領に就任し、炭化水素資源を国有化し、2009年に国を「ボリビア多民族国」として再建する新憲法を主導した。高い天然ガス収入は社会政策の財源となって貧困を大きく減らしたが、モラレスの4選への挑戦は2019年の危機と辞任を招いた。MASは2020年にルイス・アルセのもとで政権に復帰したが経済難に苦しみ、2025年に有権者は上院議員ロドリゴ・パスを選び、20年近いMAS政権に幕を下ろした。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -1500,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Farming villages at Chiripa",
+    "ko": "치리파의 농경 마을",
+    "zh": "奇里帕农耕村落",
+    "ja": "チリパの農耕村落"
+   },
+   "description": {
+    "en": "From around 1500 BC a permanent village grew at Chiripa on the Taraco peninsula of Lake Titicaca, one of the earliest settled communities of the southern Altiplano. Its people farmed potatoes and quinoa, herded camelids and fished in the lake. Over the following centuries they built rectangular houses around a sunken court, an early form of the ceremonial architecture later perfected at Tiwanaku.",
+    "ko": "기원전 1500년 무렵부터 티티카카호 타라코 반도의 치리파에 정착 마을이 자라났는데, 이는 알티플라노 남부에서 가장 이른 정주 공동체 중 하나다. 주민들은 감자와 키노아를 재배하고 낙타과 동물을 기르며 호수에서 고기를 잡았다. 이후 수 세기 동안 그들은 반지하 광장 주위에 직사각형 가옥을 지었는데, 이는 훗날 티와나쿠에서 완성되는 의례 건축의 초기 형태였다.",
+    "zh": "约公元前1500年起，的的喀喀湖塔拉科半岛上的奇里帕发展出一个定居村落，是南部高原最早的定居社群之一。居民种植马铃薯和藜麦，放养骆驼科动物，并在湖中捕鱼。此后数百年间，他们围绕一座下沉式广场修建矩形房屋，这是后来在蒂瓦纳库臻于完善的礼仪建筑的早期形式。",
+    "ja": "紀元前1500年頃から、ティティカカ湖のタラコ半島にあるチリパに定住村落が育った。これは南部アルティプラノで最も早い定住共同体の一つである。住民はジャガイモとキヌアを栽培し、ラクダ科動物を飼い、湖で漁をした。その後数世紀にわたり半地下式の広場を囲んで長方形の家屋を建てたが、これはのちにティワナクで完成される儀礼建築の初期の姿だった。"
+   }
+  },
+  {
+   "year": -1200,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Wankarani mound villages",
+    "ko": "왕카라니 둔덕 마을",
+    "zh": "万卡拉尼土丘村落",
+    "ja": "ワンカラニのマウンド集落"
+   },
+   "description": {
+    "en": "Around 1200 BC herding and farming communities of the Wankarani culture settled on the high plains north of Lake Poopó, near present-day Oruro. Their villages of round adobe houses grew into mounds over generations, and they carved stone heads of llamas or other animals. The culture shows how Altiplano peoples adapted to a harsh, high-altitude environment long before Tiwanaku.",
+    "ko": "기원전 1200년 무렵 왕카라니 문화의 목축·농경 공동체가 오늘날 오루로 근처 포오포호 북쪽 고원에 정착했다. 둥근 흙벽돌 집들로 이루어진 마을은 여러 세대에 걸쳐 둔덕을 이루었고, 그들은 라마 등 동물의 머리를 돌에 새겼다. 이 문화는 티와나쿠보다 훨씬 앞서 알티플라노 사람들이 혹독한 고지대 환경에 어떻게 적응했는지를 보여 준다.",
+    "zh": "约公元前1200年，万卡拉尼文化的农牧社群定居于今奥鲁罗附近波波湖以北的高原。他们以圆形土坯房组成的村落经过世代累积形成土丘，并雕刻美洲驼等动物的石头像。这一文化显示了远早于蒂瓦纳库时代的高原居民如何适应严酷的高海拔环境。",
+    "ja": "紀元前1200年頃、ワンカラニ文化の牧畜・農耕共同体が、現在のオルロ近郊、ポオポ湖北方の高原に定住した。円形の日干し煉瓦の家からなる村は世代を重ねてマウンドとなり、彼らはリャマなど動物の頭部を石に彫った。この文化は、ティワナクよりはるか以前にアルティプラノの人々が厳しい高地環境にどう適応したかを示している。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Yaya-Mama religious tradition around Lake Titicaca",
+    "ko": "티티카카호 주변의 야야마마 종교 전통",
+    "zh": "的的喀喀湖周边的亚亚—玛玛宗教传统",
+    "ja": "ティティカカ湖周辺のヤヤ・ママ宗教伝統"
+   },
+   "description": {
+    "en": "From around 800 BC communities around Lake Titicaca shared a religious tradition that archaeologists call Yaya-Mama, after carved stone stelae showing paired male and female figures. It was associated with sunken courts, ritual paraphernalia and decorated ceramics. The tradition helped unite the lake basin culturally and prefigured the religious authority of Tiwanaku.",
+    "ko": "기원전 800년 무렵부터 티티카카호 주변의 공동체들은 남녀 한 쌍의 형상을 새긴 석비에서 이름을 딴, 고고학자들이 '야야마마'라 부르는 종교 전통을 공유했다. 이 전통은 반지하 광장, 의례 도구, 장식 토기와 연관되어 있었다. 이는 호수 분지를 문화적으로 하나로 묶고 티와나쿠의 종교적 권위를 예고했다.",
+    "zh": "约公元前800年起，的的喀喀湖周边的社群共享一种被考古学家称为“亚亚—玛玛”的宗教传统，其名称源自刻有成对男女形象的石碑。这一传统与下沉式广场、礼仪器具和彩饰陶器相联系。它在文化上联结了整个湖盆，预示了蒂瓦纳库的宗教权威。",
+    "ja": "紀元前800年頃から、ティティカカ湖周辺の共同体は、男女一対の像を刻んだ石碑にちなんで考古学者が「ヤヤ・ママ」と呼ぶ宗教伝統を共有した。この伝統は半地下式広場、儀礼用具、装飾土器と結びついていた。それは湖の盆地を文化的にまとめ、ティワナクの宗教的権威の先駆けとなった。"
+   }
+  },
+  {
+   "year": 100,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Late Formative centres: Khonkho Wankane and early Tiwanaku",
+    "ko": "형성기 후기의 중심지: 콩코 왕카네와 초기 티와나쿠",
+    "zh": "形成期晚期中心：孔科万卡内与早期蒂瓦纳库",
+    "ja": "形成期後期の中心地：コンコ・ワンカネと初期ティワナク"
+   },
+   "description": {
+    "en": "In the first centuries AD several ceremonial centres with sunken courts and carved stone monoliths flourished in the southern Titicaca basin, among them Khonkho Wankane in the Desaguadero valley and the early settlement at Tiwanaku. They competed for followers through feasting and religious display. Tiwanaku eventually outgrew its rivals and became the dominant centre.",
+    "ko": "서기 초기 수 세기 동안 티티카카 분지 남부에는 반지하 광장과 석조 거상을 갖춘 여러 의례 중심지가 번성했는데, 데사과데로 계곡의 콩코 왕카네와 초기 티와나쿠 취락이 그 예다. 이들은 향연과 종교적 과시를 통해 추종자를 끌어모으려 경쟁했다. 결국 티와나쿠가 경쟁자들을 능가해 지배적 중심지가 되었다.",
+    "zh": "公元最初几个世纪，的的喀喀湖盆南部兴起了多个拥有下沉式广场和石雕巨像的礼仪中心，其中包括德萨瓜德罗河谷的孔科万卡内和早期的蒂瓦纳库聚落。它们通过宴飨和宗教展示争夺追随者。蒂瓦纳库最终超越对手，成为主导中心。",
+    "ja": "紀元後最初の数世紀、ティティカカ盆地南部には半地下式広場と石彫の巨像を備えた儀礼の中心地がいくつも栄えた。デサグアデロ谷のコンコ・ワンカネや初期のティワナク集落がその例である。それらは饗宴と宗教的誇示によって支持者を集めようと競い合い、最終的にティワナクが他を凌いで支配的な中心となった。"
+   }
+  },
+  {
+   "year": 500,
+   "qid": "Q61750",
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Monumental core of Tiwanaku",
+    "ko": "티와나쿠의 기념비적 중심부",
+    "zh": "蒂瓦纳库宏伟中心区的兴建",
+    "ja": "ティワナクの記念碑的中心部"
+   },
+   "description": {
+    "en": "Between roughly AD 500 and 700 Tiwanaku's rulers built its great monuments: the terraced Akapana platform, the Kalasasaya enclosure with its monolithic stelae, and later the precisely cut stone complex of Pumapunku. The Gateway of the Sun, carved with a central staff-bearing deity, became an emblem of Andean civilization. The site is now a UNESCO World Heritage Site and a symbol of Bolivian and Aymara identity.",
+    "ko": "대략 서기 500년에서 700년 사이 티와나쿠의 지배자들은 계단식 기단 아카파나, 거석 석비가 서 있는 칼라사사야 담장, 그리고 이후 정밀하게 다듬은 석조 복합체 푸마푼쿠 등 거대한 기념물을 세웠다. 중앙에 지팡이를 든 신을 새긴 '태양의 문'은 안데스 문명의 상징이 되었다. 유적은 현재 유네스코 세계유산이자 볼리비아와 아이마라 정체성의 상징이다.",
+    "zh": "大约公元500年至700年间，蒂瓦纳库的统治者建造了宏伟的纪念性建筑：阶梯状的阿卡帕纳台基、矗立巨石碑的卡拉萨萨亚围场，以及稍后石料切割精准的普马彭古建筑群。刻有中央持杖神像的“太阳门”成为安第斯文明的象征。该遗址现为联合国教科文组织世界遗产，也是玻利维亚和艾马拉人身份认同的象征。",
+    "ja": "おおよそ紀元500年から700年の間に、ティワナクの支配者たちは段状の基壇アカパナ、巨石の石碑が立つカラササヤ囲壁、のちには精密に加工された石造複合体プマプンクといった大建造物を築いた。中央に杖を持つ神を刻んだ「太陽の門」はアンデス文明の象徴となった。遺跡は現在ユネスコ世界遺産であり、ボリビアとアイマラのアイデンティティの象徴でもある。"
+   }
+  },
+  {
+   "year": 600,
+   "qid": "Q1307407",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Height of the Tiwanaku civilization",
+    "ko": "티와나쿠 문명의 전성기",
+    "zh": "蒂瓦纳库文明的鼎盛期",
+    "ja": "ティワナク文明の最盛期"
+   },
+   "description": {
+    "en": "Around AD 600 Tiwanaku, near Lake Titicaca, flourished as a major Andean religious and political centre, with an urban population estimated in the tens of thousands. Its influence reached colonies and allied communities in southern Peru, northern Chile and the Cochabamba valleys through llama caravans, pilgrimage and shared religious imagery. Its monumental stone architecture influenced cultures across the region for centuries.",
+    "ko": "서기 600년 무렵 티티카카호 근처의 티와나쿠는 수만 명으로 추산되는 도시 인구를 거느린 안데스의 주요 종교·정치 중심지로 번성했다. 라마 대상, 순례, 공유된 종교 도상을 통해 그 영향력은 페루 남부, 칠레 북부, 코차밤바 계곡의 식민지와 동맹 공동체에까지 미쳤다. 그 기념비적 석조 건축은 수 세기 동안 지역 전역의 문화에 영향을 주었다.",
+    "zh": "约公元600年，位于的的喀喀湖附近的蒂瓦纳库作为安第斯重要的宗教和政治中心而繁荣，城市人口估计达数万。通过美洲驼商队、朝圣和共同的宗教图像，其影响延伸到秘鲁南部、智利北部和科恰班巴河谷的殖民地与盟友社群。其宏伟的石砌建筑影响了该地区诸文化达数百年之久。",
+    "ja": "紀元600年頃、ティティカカ湖近くのティワナクは、推定数万人の都市人口を抱えるアンデスの主要な宗教・政治の中心として栄えた。リャマのキャラバン、巡礼、共有された宗教図像を通じて、その影響はペルー南部、チリ北部、コチャバンバの谷の植民地や同盟共同体にまで及んだ。その記念碑的な石造建築は数世紀にわたり地域の諸文化に影響を与えた。"
+   }
+  },
+  {
+   "year": 700,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Casarabe settlements rise in the Moxos plains",
+    "ko": "모호스 평원에 등장한 카사라베 취락",
+    "zh": "莫克索斯平原的卡萨拉韦聚落兴起",
+    "ja": "モホス平原のカサラベ集落"
+   },
+   "description": {
+    "en": "From around the 6th-7th centuries, people of the Casarabe culture in the Llanos de Moxos built settlements with platform mounds and conical pyramids, connected by straight causeways running for kilometres. They managed water through canals and reservoirs to cope with the region's alternating floods and droughts. These communities flourished until about the 14th or 15th century.",
+    "ko": "6~7세기 무렵부터 모호스 평원의 카사라베 문화 사람들은 기단 둔덕과 원뿔형 피라미드를 갖춘 취락을 세우고, 수 킬로미터에 이르는 곧은 둑길로 이들을 연결했다. 그들은 홍수와 가뭄이 번갈아 오는 지역 환경에 대처하기 위해 운하와 저수지로 물을 관리했다. 이 공동체들은 대략 14~15세기까지 번성했다.",
+    "zh": "约自6至7世纪起，莫克索斯平原的卡萨拉韦文化居民修建了带有平台土丘和锥形金字塔的聚落，并以绵延数公里的笔直堤道相连。他们通过运河和水库管理水资源，以应对该地区洪涝与干旱交替的环境。这些社群一直繁荣到约14或15世纪。",
+    "ja": "6〜7世紀頃から、モホス平原のカサラベ文化の人々は基壇マウンドと円錐形のピラミッドを備えた集落を築き、数キロにわたるまっすぐな土手道で結んだ。洪水と干ばつが交互に訪れる環境に対処するため、運河と貯水池で水を管理した。これらの共同体はおよそ14〜15世紀まで栄えた。"
+   }
+  },
+  {
+   "year": 800,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Raised-field farming feeds Tiwanaku",
+    "ko": "티와나쿠를 먹여 살린 둔덕 농법",
+    "zh": "台田农业供养蒂瓦纳库",
+    "ja": "ティワナクを支えた盛り土耕地"
+   },
+   "description": {
+    "en": "Tiwanaku's population was sustained by raised fields, known in Aymara as suka kollus: platforms of earth separated by water-filled canals along the shores of Lake Titicaca. The water protected crops from frost and enriched the soil. Experimental projects since the 1980s have revived the technique, showing its high productivity at nearly 4,000 metres above sea level.",
+    "ko": "티와나쿠의 인구는 아이마라어로 '수카 콜류'라 불리는 둔덕 경작지에 의존했는데, 이는 티티카카호 연안을 따라 물이 찬 수로로 구획된 흙 기단이다. 물은 작물을 서리로부터 보호하고 토양을 비옥하게 했다. 1980년대 이후의 실험 사업은 이 기법을 되살려, 해발 4,000m 가까운 고지에서도 높은 생산성을 낸다는 것을 보여 주었다.",
+    "zh": "蒂瓦纳库的人口依靠台田维持，艾马拉语称为“苏卡科柳”：沿的的喀喀湖岸以注水沟渠相隔的土台。水能保护作物免受霜冻并使土壤肥沃。自20世纪80年代以来的实验项目复兴了这一技术，证明其在海拔近4000米处仍有很高的产量。",
+    "ja": "ティワナクの人口は、アイマラ語でスカ・コリュと呼ばれる盛り土耕地に支えられていた。ティティカカ湖岸に沿って、水をたたえた水路で区切られた土の台である。水は作物を霜から守り、土壌を肥やした。1980年代以降の実験的事業がこの技術を復活させ、標高4000メートル近い高地でも高い生産性があることを示した。"
+   }
+  },
+  {
+   "year": 1100,
+   "qid": null,
+   "importance": 1,
+   "category": "disaster",
+   "title": {
+    "en": "Collapse of Tiwanaku",
+    "ko": "티와나쿠의 붕괴",
+    "zh": "蒂瓦纳库的崩溃",
+    "ja": "ティワナクの崩壊"
+   },
+   "description": {
+    "en": "Between about 1000 and 1150 Tiwanaku's political system disintegrated, its monuments were abandoned and its colonies broke away. Many scholars link the collapse to a prolonged drought that made raised-field agriculture unsustainable, combined with internal social conflict. The Altiplano then fragmented into competing Aymara-speaking kingdoms.",
+    "ko": "대략 1000년에서 1150년 사이 티와나쿠의 정치 체제가 해체되어 기념물은 버려지고 식민지들은 떨어져 나갔다. 많은 학자는 이 붕괴를 둔덕 농업을 지속 불가능하게 만든 장기 가뭄과 내부 사회 갈등이 겹친 결과로 본다. 이후 알티플라노는 아이마라어를 쓰는 경쟁 왕국들로 분열했다.",
+    "zh": "约1000年至1150年间，蒂瓦纳库的政治体系瓦解，纪念性建筑被废弃，各殖民地纷纷脱离。许多学者将其崩溃归因于使台田农业难以为继的长期干旱，以及内部社会冲突。此后高原分裂为相互竞争的艾马拉语诸王国。",
+    "ja": "およそ1000年から1150年の間にティワナクの政治体制は解体し、記念建造物は放棄され、植民地は離反した。多くの研究者は、盛り土耕地を維持できなくした長期の干ばつと内部の社会的対立が重なったことが崩壊の原因とみている。その後アルティプラノはアイマラ語を話す競合する王国に分裂した。"
+   }
+  },
+  {
+   "year": 1200,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Chullpa tower tombs of the Aymara lords",
+    "ko": "아이마라 영주들의 출파 탑 무덤",
+    "zh": "艾马拉领主的丘尔帕塔墓",
+    "ja": "アイマラ首長のチュルパ塔墓"
+   },
+   "description": {
+    "en": "In the centuries after Tiwanaku, the Aymara kingdoms of the Altiplano honoured their ancestors in chullpas, tower tombs of adobe or stone that rose above the plains, often painted in bright geometric patterns. They marked lineage territories and served as places of ancestor veneration. Hundreds survive, notably in the Carangas region of Oruro and along the Lauca river.",
+    "ko": "티와나쿠 이후 수 세기 동안 알티플라노의 아이마라 왕국들은 평원 위에 솟은 흙벽돌이나 돌로 된 탑 무덤 '출파'에 조상을 모셨는데, 이들은 종종 선명한 기하학 문양으로 채색되었다. 출파는 혈통 집단의 영역을 표시하고 조상 숭배의 장소 역할을 했다. 오루로의 카랑가스 지역과 라우카강 유역 등지에 수백 기가 남아 있다.",
+    "zh": "蒂瓦纳库之后的几个世纪里，高原的艾马拉诸王国在“丘尔帕”中供奉祖先。这是一种以土坯或石块砌成、耸立于平原之上的塔墓，常绘有鲜艳的几何图案。丘尔帕标示着宗族领地，也是祭祀祖先的场所。至今仍有数百座留存，尤以奥鲁罗的卡兰加斯地区和劳卡河沿岸最为集中。",
+    "ja": "ティワナク後の数世紀、アルティプラノのアイマラ諸王国は、日干し煉瓦や石で造られ平原にそびえる塔状の墓チュルパに祖先を祀った。それらはしばしば鮮やかな幾何学文様で彩色された。チュルパは系譜集団の領域を示し、祖先崇拝の場ともなった。オルロのカランガス地方やラウカ川流域などに数百基が残っている。"
+   }
+  },
+  {
+   "year": 1300,
+   "qid": "Q2493437",
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Mollo culture flourishes at Iskanwaya",
+    "ko": "이스칸와야에서 꽃핀 모요 문화",
+    "zh": "莫约文化在伊斯坎瓦亚繁盛",
+    "ja": "イスカンワヤに栄えたモリョ文化"
+   },
+   "description": {
+    "en": "In the centuries after Tiwanaku, the Mollo culture flourished in the deep valleys east of Lake Titicaca. Its town of Iskanwaya, in the province of Muñecas, contained dozens of stone buildings arranged around plazas on terraces above a deep river valley, served by canals and agricultural terraces. Mollo pottery and architecture show both Tiwanaku heritage and local innovation.",
+    "ko": "티와나쿠 이후 수 세기 동안 모요 문화는 티티카카호 동쪽의 깊은 계곡에서 번성했다. 무녜카스주의 이스칸와야 마을은 깊은 강 계곡 위 계단식 대지에 광장을 중심으로 수십 채의 석조 건물이 배치되어 있었고, 수로와 계단식 경작지가 이를 뒷받침했다. 모요의 토기와 건축은 티와나쿠의 유산과 현지의 혁신을 함께 보여 준다.",
+    "zh": "蒂瓦纳库之后的几个世纪里，莫约文化在的的喀喀湖以东的深谷中繁荣发展。位于穆涅卡斯省的伊斯坎瓦亚城坐落在深谷之上的台地上，数十座石砌建筑环绕广场分布，并有水渠和梯田相配套。莫约的陶器和建筑既体现了蒂瓦纳库的遗产，也展示了本地的创新。",
+    "ja": "ティワナク後の数世紀、モリョ文化はティティカカ湖東方の深い谷で栄えた。ムニェカス県のイスカンワヤの町では、深い川の谷を見下ろす段丘に広場を囲んで数十の石造建物が配置され、水路と段々畑がそれを支えていた。モリョの土器と建築は、ティワナクの遺産と地元の革新の両方を示している。"
+   }
+  },
+  {
+   "year": 1470,
+   "qid": "Q28573",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Inca Empire absorbs the Altiplano",
+    "ko": "잉카 제국의 알티플라노 병합",
+    "zh": "印加帝国吞并高原",
+    "ja": "インカ帝国によるアルティプラノ併合"
+   },
+   "description": {
+    "en": "In the second half of the 15th century the Inca rulers Pachacuti and Topa Inca conquered the Aymara kingdoms of the Bolivian highlands, incorporating them as Qullasuyu, the empire's south-eastern quarter. Local lords kept their positions under Inca governors, while communities owed labour service and soldiers. Rebellions by the Colla and other groups were suppressed.",
+    "ko": "15세기 후반 잉카의 지배자 파차쿠티와 토파 잉카는 볼리비아 고원의 아이마라 왕국들을 정복해 제국의 남동부 구역인 코야수유로 편입했다. 현지 영주들은 잉카 총독 아래 지위를 유지했고, 공동체들은 노역과 병사를 제공해야 했다. 콜랴인 등의 반란은 진압되었다.",
+    "zh": "15世纪下半叶，印加统治者帕查库蒂和托帕·印加征服了玻利维亚高原的艾马拉诸王国，将其纳入帝国东南部的科利亚苏尤。当地领主在印加总督之下保留地位，各社群则需承担劳役并提供兵员。科利亚人等群体的叛乱遭到镇压。",
+    "ja": "15世紀後半、インカの王パチャクティとトパ・インカはボリビア高原のアイマラ諸王国を征服し、帝国の南東部コリャスユに組み込んだ。現地の首長はインカの総督のもとで地位を保ち、共同体は労役と兵士を提供する義務を負った。コリャ人などの反乱は鎮圧された。"
+   }
+  },
+  {
+   "year": 1490,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Inca frontier forts at Incallajta and Samaipata",
+    "ko": "잉카의 국경 요새 잉카야크타와 사마이파타",
+    "zh": "印加边境要塞因卡利亚克塔与萨迈帕塔",
+    "ja": "インカの辺境要塞インカリャクタとサマイパタ"
+   },
+   "description": {
+    "en": "Toward the end of the 15th century the Inca fortified their eastern frontier against lowland peoples, building the large administrative and ceremonial centre of Incallajta east of Cochabamba and developing the sacred carved rock of Samaipata. The Inca also resettled thousands of colonists in the Cochabamba valley to grow maize for the state. Samaipata (El Fuerte) is today a UNESCO World Heritage Site.",
+    "ko": "15세기 말 잉카는 저지대 민족에 맞서 동부 국경을 요새화하며, 코차밤바 동쪽에 대규모 행정·의례 중심지 잉카야크타를 건설하고 사마이파타의 신성한 조각 바위를 정비했다. 잉카는 또한 국가를 위한 옥수수 재배를 위해 수천 명의 이주민을 코차밤바 계곡에 정착시켰다. 사마이파타(엘 푸에르테)는 오늘날 유네스코 세계유산이다.",
+    "zh": "15世纪末，印加为防御低地民族而加固东部边境，在科恰班巴以东修建了大型行政与礼仪中心因卡利亚克塔，并经营萨迈帕塔的神圣雕刻巨石。印加还将数千名移民安置在科恰班巴河谷，为国家种植玉米。萨迈帕塔（埃尔富埃尔特）如今是联合国教科文组织世界遗产。",
+    "ja": "15世紀末、インカは低地の民に備えて東部辺境を要塞化し、コチャバンバの東に大規模な行政・儀礼の中心インカリャクタを築き、サマイパタの聖なる彫刻岩を整備した。インカはまた国家のためのトウモロコシ栽培に数千人の移住者をコチャバンバ渓谷に入植させた。サマイパタ（エル・フエルテ）は現在ユネスコ世界遺産となっている。"
+   }
+  },
+  {
+   "year": 1524,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Aleixo García and Guaraní raids on the Inca frontier",
+    "ko": "알레이쇼 가르시아와 과라니족의 잉카 국경 습격",
+    "zh": "阿莱绍·加西亚与瓜拉尼人袭击印加边境",
+    "ja": "アレイショ・ガルシアとグアラニーのインカ辺境襲撃"
+   },
+   "description": {
+    "en": "Around 1524-25 the Portuguese castaway Aleixo García crossed the Chaco with a large force of Guaraní warriors and raided the Inca frontier in the eastern foothills, returning with silver. He was killed on the way back, but news of the 'silver mountain' spread among Europeans in the Río de la Plata. Guaraní-speaking groups, later called Chiriguanos, continued to press on the Andean frontier for centuries.",
+    "ko": "1524~25년 무렵 포르투갈 난파 선원 알레이쇼 가르시아는 대규모 과라니 전사들과 함께 차코를 건너 동부 산기슭의 잉카 국경을 습격하고 은을 가지고 돌아왔다. 그는 귀환 도중 살해되었지만 '은의 산' 소식은 라플라타강 유역의 유럽인 사이에 퍼졌다. 훗날 '치리과노'로 불린 과라니어 집단은 수 세기 동안 안데스 국경을 압박했다.",
+    "zh": "约1524至1525年，葡萄牙遇难水手阿莱绍·加西亚率领大批瓜拉尼武士穿越查科，袭击东部山麓的印加边境，带着白银返回。他在归途中被杀，但关于“银山”的消息在拉普拉塔河流域的欧洲人中传开。后来被称为“奇里瓜诺人”的瓜拉尼语群体在此后数百年间持续威胁安第斯边境。",
+    "ja": "1524〜25年頃、ポルトガル人の漂流者アレイショ・ガルシアは多数のグアラニー戦士を率いてチャコを横断し、東部山麓のインカ辺境を襲撃して銀を持ち帰った。彼は帰途に殺されたが、「銀の山」の噂はラ・プラタ川流域のヨーロッパ人の間に広まった。のちにチリグアノと呼ばれたグアラニー語系の集団は、何世紀にもわたってアンデスの辺境を脅かし続けた。"
+   }
+  },
+  {
+   "year": 1538,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Spanish conquest; founding of La Plata (Sucre)",
+    "ko": "스페인의 정복과 라플라타(수크레) 건설",
+    "zh": "西班牙征服与拉普拉塔（苏克雷）建城",
+    "ja": "スペインの征服とラ・プラタ（スクレ）の建設"
+   },
+   "description": {
+    "en": "After the fall of the Inca, Spanish forces under Hernando and Gonzalo Pizarro subdued the Charcas region, and in 1538 Pedro Anzúrez founded the town of La Plata — today's Sucre. Spanish conquerors received Indigenous communities in encomienda. La Plata became the administrative, judicial and religious heart of 'Upper Peru'.",
+    "ko": "잉카 몰락 후 에르난도 피사로와 곤살로 피사로가 이끈 스페인군은 차르카스 지역을 평정했고, 1538년 페드로 안수레스가 오늘날의 수크레인 라플라타를 건설했다. 스페인 정복자들은 원주민 공동체를 엔코미엔다로 분배받았다. 라플라타는 '알토페루'의 행정·사법·종교 중심지가 되었다.",
+    "zh": "印加灭亡后，埃尔南多·皮萨罗和贡萨洛·皮萨罗率领的西班牙军队平定了查尔卡斯地区，1538年佩德罗·安苏雷斯建立了拉普拉塔城，即今天的苏克雷。西班牙征服者以委托监护制分得原住民社群。拉普拉塔成为“上秘鲁”的行政、司法和宗教中心。",
+    "ja": "インカ滅亡後、エルナンド・ピサロとゴンサロ・ピサロ率いるスペイン軍がチャルカス地方を平定し、1538年にペドロ・アンスレスが現在のスクレであるラ・プラタの町を建設した。スペイン人征服者たちは先住民共同体をエンコミエンダとして分配された。ラ・プラタは「アルト・ペルー」の行政・司法・宗教の中心となった。"
+   }
+  },
+  {
+   "year": 1545,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Silver discovered at Potosí's Cerro Rico",
+    "ko": "포토시 세로 리코의 은광 발견",
+    "zh": "波托西富山发现银矿",
+    "ja": "ポトシのセロ・リコで銀鉱発見"
+   },
+   "description": {
+    "en": "In 1545 vast silver deposits were discovered at the Cerro Rico ('Rich Hill') of Potosí, reportedly by an Indigenous man named Diego Huallpa. Within decades Potosí became one of the largest and richest cities in the world, and its silver flowed to Spain, Europe and, via Manila, to China. The boom funded the Spanish Empire while exacting a devastating toll on Indigenous and enslaved African labourers.",
+    "ko": "1545년 포토시의 세로 리코('부유한 산')에서 막대한 은 광맥이 발견되었는데, 디에고 우알파라는 원주민이 처음 발견했다고 전해진다. 수십 년 만에 포토시는 세계에서 가장 크고 부유한 도시 중 하나가 되었고, 그 은은 스페인과 유럽, 그리고 마닐라를 거쳐 중국으로 흘러갔다. 이 호황은 스페인 제국의 재정을 떠받쳤지만 원주민과 아프리카 노예 노동자에게 참혹한 희생을 강요했다.",
+    "zh": "1545年，波托西的“富山”发现了巨大的银矿，据传首先发现者是一位名叫迭戈·瓦尔帕的原住民。数十年间波托西成为世界上最大、最富庶的城市之一，其白银流向西班牙、欧洲，并经马尼拉流入中国。这场繁荣支撑了西班牙帝国的财政，却让原住民和被奴役的非洲劳工付出了惨重代价。",
+    "ja": "1545年、ポトシのセロ・リコ（「豊かな山」）で莫大な銀鉱脈が発見された。最初の発見者はディエゴ・ワルパという先住民だったと伝えられる。数十年のうちにポトシは世界有数の大きく豊かな都市となり、その銀はスペインとヨーロッパへ、さらにマニラを経て中国へと流れた。この好況はスペイン帝国の財政を支えたが、先住民と奴隷とされたアフリカ人労働者に壊滅的な犠牲を強いた。"
+   }
+  },
+  {
+   "year": 1548,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Founding of La Paz",
+    "ko": "라파스 건설",
+    "zh": "拉巴斯建城",
+    "ja": "ラパスの建設"
+   },
+   "description": {
+    "en": "On 20 October 1548 Alonso de Mendoza founded Nuestra Señora de La Paz, initially at Laja and soon moved to the sheltered valley of the Choqueyapu river. It lay on the trade route between Potosí and Lima, in the heart of the densely populated Aymara highlands. It grew into the commercial hub of the Altiplano and later the seat of government.",
+    "ko": "1548년 10월 20일 알론소 데 멘도사는 '누에스트라 세뇨라 데 라파스'를 건설했는데, 처음에는 라하에 세웠다가 곧 바람을 피할 수 있는 초케야푸강 계곡으로 옮겼다. 도시는 포토시와 리마를 잇는 교역로 위, 인구가 조밀한 아이마라 고원의 한가운데 자리했다. 라파스는 알티플라노의 상업 중심지로 성장했고 훗날 정부 소재지가 되었다.",
+    "zh": "1548年10月20日，阿隆索·德门多萨建立了“和平圣母城”（拉巴斯），起初选址拉哈，不久迁至背风的乔克亚普河谷。该城位于波托西与利马之间的商路上，地处人口稠密的艾马拉高原中心。拉巴斯发展为高原的商业枢纽，后来成为政府所在地。",
+    "ja": "1548年10月20日、アロンソ・デ・メンドサはヌエストラ・セニョーラ・デ・ラパスを建設した。初めはラハに置かれ、まもなく風を避けられるチョケヤプ川の谷に移された。町はポトシとリマを結ぶ交易路上、人口の多いアイマラ高原の中心に位置した。ラパスはアルティプラノの商業の中心に成長し、のちに政府所在地となった。"
+   }
+  },
+  {
+   "year": 1559,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Audiencia of Charcas established",
+    "ko": "차르카스 아우디엔시아 설치",
+    "zh": "设立查尔卡斯检审庭",
+    "ja": "チャルカス聴訴院の設置"
+   },
+   "description": {
+    "en": "In 1559 the Spanish Crown created the Real Audiencia of Charcas, a high court and governing body seated in La Plata. Its jurisdiction covered much of present-day Bolivia and, at times, neighbouring regions of Argentina, Paraguay and Chile. The audiencia's territory became the basis of Bolivia's later claim to nationhood.",
+    "ko": "1559년 스페인 왕실은 라플라타에 고등법원이자 통치 기구인 차르카스 왕립 아우디엔시아를 설치했다. 그 관할은 오늘날 볼리비아의 대부분과 때로는 아르헨티나, 파라과이, 칠레의 인접 지역까지 포함했다. 아우디엔시아의 영역은 훗날 볼리비아가 독립 국가를 주장하는 근거가 되었다.",
+    "zh": "1559年，西班牙王室在拉普拉塔设立了查尔卡斯皇家检审庭，这是一个兼具高等法院与行政职能的机构。其管辖范围涵盖今玻利维亚大部分地区，有时还包括阿根廷、巴拉圭和智利的邻近地区。检审庭的辖区后来成为玻利维亚建国主张的依据。",
+    "ja": "1559年、スペイン王室はラ・プラタに高等法院兼統治機関であるチャルカス王立聴訴院を設置した。その管轄は現在のボリビアの大部分と、時にはアルゼンチン、パラグアイ、チリの隣接地域にも及んだ。聴訴院の領域は、のちにボリビアが国家としての独立を主張する根拠となった。"
+   }
+  },
+  {
+   "year": 1561,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Founding of Santa Cruz de la Sierra",
+    "ko": "산타크루스데라시에라 건설",
+    "zh": "圣克鲁斯建城",
+    "ja": "サンタ・クルス・デ・ラ・シエラの建設"
+   },
+   "description": {
+    "en": "In 1561 the conquistador Ñuflo de Chávez, coming from Asunción, founded Santa Cruz de la Sierra in the eastern lowlands. The original town was later moved westward to its present site. Long an isolated frontier outpost, Santa Cruz grew in the 20th century into Bolivia's largest city and economic powerhouse.",
+    "ko": "1561년 아순시온에서 온 정복자 뉴플로 데 차베스는 동부 저지대에 산타크루스데라시에라를 건설했다. 처음의 도시는 이후 서쪽의 현재 위치로 옮겨졌다. 오랫동안 고립된 변경 전초지였던 산타크루스는 20세기에 볼리비아 최대 도시이자 경제 중심지로 성장했다.",
+    "zh": "1561年，来自亚松森的征服者纽弗洛·德查韦斯在东部低地建立了圣克鲁斯德拉谢拉。最初的城镇后来西迁至今址。圣克鲁斯长期是孤立的边疆据点，20世纪发展成为玻利维亚最大的城市和经济重镇。",
+    "ja": "1561年、アスンシオンから来た征服者ニュフロ・デ・チャベスが東部低地にサンタ・クルス・デ・ラ・シエラを建設した。当初の町はのちに西方の現在地に移された。長く孤立した辺境の拠点だったサンタ・クルスは、20世紀にボリビア最大の都市・経済の中心へと成長した。"
+   }
+  },
+  {
+   "year": 1573,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Viceroy Toledo organizes the Potosí mita",
+    "ko": "톨레도 부왕의 포토시 미타 제도",
+    "zh": "托莱多总督组织波托西米塔制",
+    "ja": "トレド副王によるポトシのミタ制度"
+   },
+   "description": {
+    "en": "During his visit to Potosí in 1572-73 Viceroy Francisco de Toledo reorganized silver mining by introducing mercury amalgamation and a massive forced-labour draft, the mita, adapted from Inca labour service. Highland communities across a vast region had to send a share of their adult men each year to work the mines and refineries. Silver output soared, but the mita brought death, disease and the flight of many Indigenous people from their communities.",
+    "ko": "1572~73년 포토시를 방문한 프란시스코 데 톨레도 부왕은 수은 아말감법과 잉카의 노역 제도를 변형한 대규모 강제 노동 징발 '미타'를 도입해 은 채굴을 재편했다. 광대한 지역의 고원 공동체들은 매년 성인 남성의 일정 비율을 광산과 제련소로 보내야 했다. 은 생산량은 급증했지만 미타는 죽음과 질병, 그리고 많은 원주민이 공동체를 떠나 도피하는 결과를 낳았다.",
+    "zh": "1572至1573年视察波托西期间，总督弗朗西斯科·德托莱多引入汞齐化提银法，并借鉴印加劳役制度建立大规模强迫劳役征发制度“米塔”，重组白银开采。广大地区的高原社群每年须派出一定比例的成年男子到矿山和冶炼厂劳作。白银产量激增，但米塔制带来了死亡、疾病，并迫使许多原住民逃离家园。",
+    "ja": "1572〜73年にポトシを訪れた副王フランシスコ・デ・トレドは、水銀アマルガム法と、インカの労役を応用した大規模な強制労働徴発ミタを導入して銀採掘を再編した。広大な地域の高原共同体は毎年成人男子の一定割合を鉱山と精錬所に送らねばならなかった。銀の生産は急増したが、ミタは死と病をもたらし、多くの先住民が共同体から逃亡する結果を招いた。"
+   }
+  },
+  {
+   "year": 1583,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "The Virgin of Copacabana enthroned",
+    "ko": "코파카바나 성모상 봉안",
+    "zh": "科帕卡瓦纳圣母像奉安",
+    "ja": "コパカバーナの聖母像の安置"
+   },
+   "description": {
+    "en": "In 1583 a statue of the Virgin Mary carved by the Indigenous sculptor Francisco Tito Yupanqui, a descendant of Inca nobility, was installed in the church of Copacabana on the shore of Lake Titicaca. The site, already sacred in Inca times, became one of the most important Marian pilgrimage centres in South America. The Virgin of Copacabana is the patroness of Bolivia.",
+    "ko": "1583년 잉카 귀족의 후손인 원주민 조각가 프란시스코 티토 유팡키가 조각한 성모 마리아상이 티티카카호 연안 코파카바나의 성당에 봉안되었다. 잉카 시대부터 신성한 장소였던 이곳은 남아메리카에서 가장 중요한 성모 순례지 가운데 하나가 되었다. 코파카바나의 성모는 볼리비아의 수호성인이다.",
+    "zh": "1583年，由印加贵族后裔、原住民雕刻家弗朗西斯科·蒂托·尤潘基雕刻的圣母像被供奉于的的喀喀湖畔科帕卡瓦纳的教堂。这处在印加时代已被视为圣地的地方，成为南美最重要的圣母朝圣地之一。科帕卡瓦纳圣母是玻利维亚的主保圣人。",
+    "ja": "1583年、インカ貴族の子孫である先住民の彫刻家フランシスコ・ティト・ユパンキが彫った聖母マリア像が、ティティカカ湖畔コパカバーナの教会に安置された。インカ時代から聖地だったこの場所は、南米で最も重要な聖母巡礼地の一つとなった。コパカバーナの聖母はボリビアの守護聖人である。"
+   }
+  },
+  {
+   "year": 1624,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "University of San Francisco Xavier founded",
+    "ko": "산프란시스코하비에르 대학 설립",
+    "zh": "圣弗朗西斯科·哈维尔大学创立",
+    "ja": "サン・フランシスコ・ハビエル大学の創立"
+   },
+   "description": {
+    "en": "In 1624 the Jesuits founded the Royal and Pontifical University of San Francisco Xavier in La Plata (Sucre). It became one of the leading universities of Spanish America, training lawyers and clergy for the whole southern part of the continent. In the early 19th century its graduates spread Enlightenment and revolutionary ideas that fed the independence movements.",
+    "ko": "1624년 예수회는 라플라타(수크레)에 왕립·교황청 산프란시스코하비에르 대학을 설립했다. 이 대학은 스페인령 아메리카의 대표적 대학 가운데 하나로, 대륙 남부 전역을 위한 법률가와 성직자를 길러냈다. 19세기 초 졸업생들은 계몽사상과 혁명 사상을 퍼뜨려 독립 운동에 자양분을 제공했다.",
+    "zh": "1624年，耶稣会在拉普拉塔（苏克雷）创办了皇家与宗座圣弗朗西斯科·哈维尔大学。它成为西属美洲的重要大学之一，为整个南美南部培养律师和神职人员。19世纪初，其毕业生传播启蒙思想和革命思想，为独立运动提供了养分。",
+    "ja": "1624年、イエズス会はラ・プラタ（スクレ）に王立・教皇立サン・フランシスコ・ハビエル大学を創立した。同大学はスペイン領アメリカを代表する大学の一つとなり、大陸南部全域のために法律家と聖職者を養成した。19世紀初めには卒業生が啓蒙思想と革命思想を広め、独立運動の土壌となった。"
+   }
+  },
+  {
+   "year": 1626,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Dam burst floods Potosí",
+    "ko": "포토시 댐 붕괴와 홍수",
+    "zh": "波托西水坝溃决",
+    "ja": "ポトシのダム決壊"
+   },
+   "description": {
+    "en": "In March 1626 one of the artificial lakes built in the Kari Kari mountains above Potosí to power the silver refineries burst its dam. The flood swept through the city and its mills, causing heavy loss of life and destruction. The disaster revealed the scale of the hydraulic system that sustained the silver industry.",
+    "ko": "1626년 3월 은 제련소에 동력을 공급하기 위해 포토시 위 카리카리 산지에 만든 인공 호수 하나의 둑이 무너졌다. 홍수가 도시와 제분소를 휩쓸어 막대한 인명 피해와 파괴를 낳았다. 이 재해는 은 산업을 떠받친 수리 체계의 규모를 드러냈다.",
+    "zh": "1626年3月，为给银矿冶炼厂提供动力而在波托西上方卡里卡里山中修建的一座人工湖堤坝溃决。洪水冲过城市及其磨坊，造成重大人员伤亡和破坏。这场灾难显示了支撑白银产业的水利系统之庞大。",
+    "ja": "1626年3月、銀の精錬所に動力を供給するためポトシ上方のカリカリ山地に造られた人工湖の一つが決壊した。洪水は町と製錬用の水車小屋を押し流し、多くの死者と破壊をもたらした。この災害は銀産業を支えた水利システムの規模を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 1680,
+   "qid": "Q3083331",
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Flowering of Andean Baroque",
+    "ko": "안데스 바로크의 개화",
+    "zh": "安第斯巴洛克艺术的繁荣",
+    "ja": "アンデス・バロックの開花"
+   },
+   "description": {
+    "en": "From the late 17th century churches in Potosí, La Paz and around Lake Titicaca were decorated in the Andean or 'mestizo' Baroque style, in which Indigenous carvers mixed European forms with local motifs such as tropical fruits, sirens and Andean deities. Painters of the Potosí school produced works such as the famous image of the Virgin of the Mountain, which merged Mary with the silver hill. The style remains one of the most original artistic legacies of colonial Bolivia.",
+    "ko": "17세기 말부터 포토시, 라파스, 티티카카호 주변의 성당들은 원주민 조각가들이 유럽 양식에 열대 과일, 인어, 안데스의 신들 같은 현지 모티프를 섞은 안데스 바로크, 즉 '메스티소 바로크' 양식으로 장식되었다. 포토시 화파의 화가들은 성모와 은의 산을 하나로 합친 유명한 '산의 성모' 같은 작품을 남겼다. 이 양식은 식민지 볼리비아의 가장 독창적인 예술 유산으로 남아 있다.",
+    "zh": "自17世纪末起，波托西、拉巴斯及的的喀喀湖周边的教堂以安第斯巴洛克（或称“混血巴洛克”）风格装饰，原住民雕刻师将欧洲形式与热带水果、人鱼和安第斯神祇等本地图案融为一体。波托西画派的画家创作了将圣母与银山合二为一的著名《山之圣母》等作品。这一风格至今仍是殖民时期玻利维亚最具独创性的艺术遗产之一。",
+    "ja": "17世紀末から、ポトシ、ラパス、ティティカカ湖周辺の教会はアンデス・バロック、いわゆる「メスティーソ・バロック」様式で装飾された。先住民の彫刻家がヨーロッパの形式に熱帯の果物、人魚、アンデスの神々といった現地のモチーフを融合させたのである。ポトシ派の画家たちは聖母と銀の山を一体化させた有名な「山の聖母」などを描いた。この様式は植民地期ボリビアで最も独創的な芸術遺産の一つである。"
+   }
+  },
+  {
+   "year": 1691,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Jesuit missions of Chiquitos founded",
+    "ko": "치키토스 예수회 선교 마을 건설",
+    "zh": "奇基托斯耶稣会传教村建立",
+    "ja": "チキトスのイエズス会伝道村の創設"
+   },
+   "description": {
+    "en": "In 1691 Jesuits founded San Francisco Javier, the first of a chain of missions among the Chiquitano peoples of the eastern lowlands, following earlier missions among the Moxos from 1682. The missions organized Indigenous communities around churches, workshops and music schools, and later produced richly decorated wooden churches, several designed by the Swiss Jesuit Martin Schmid. Six of the Chiquitos mission towns are now a UNESCO World Heritage Site.",
+    "ko": "1682년 모호스 지역 선교에 이어, 1691년 예수회는 동부 저지대 치키타노 민족을 위한 일련의 선교 마을 가운데 첫 번째인 산프란시스코하비에르를 세웠다. 선교 마을은 성당, 공방, 음악 학교를 중심으로 원주민 공동체를 조직했고, 이후 스위스 출신 예수회 신부 마르틴 슈미트가 여러 곳을 설계한 화려한 목조 성당들을 남겼다. 치키토스 선교 마을 가운데 6곳은 현재 유네스코 세계유산이다.",
+    "zh": "继1682年起在莫克索斯地区传教之后，耶稣会于1691年在东部低地的奇基塔诺人中建立了一系列传教村中的第一个——圣弗朗西斯科·哈维尔。传教村以教堂、作坊和音乐学校为中心组织原住民社群，后来还建造了装饰华丽的木构教堂，其中数座由瑞士耶稣会士马丁·施密德设计。奇基托斯传教村中有六座现为联合国教科文组织世界遗产。",
+    "ja": "1682年に始まったモホス地方での布教に続き、1691年にイエズス会は東部低地のチキタノの人々の間に、一連の伝道村の最初となるサン・フランシスコ・ハビエルを創設した。伝道村は教会、工房、音楽学校を中心に先住民共同体を組織し、のちにはスイス人イエズス会士マルティン・シュミットが多くを設計した華麗な木造教会を生んだ。チキトスの伝道村のうち6つは現在ユネスコ世界遺産となっている。"
+   }
+  },
+  {
+   "year": 1767,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Expulsion of the Jesuits",
+    "ko": "예수회 추방",
+    "zh": "驱逐耶稣会",
+    "ja": "イエズス会の追放"
+   },
+   "description": {
+    "en": "In 1767 King Charles III expelled the Jesuits from all Spanish dominions, and the order's missionaries left the Moxos and Chiquitos missions in the following year. The missions passed to secular clergy and civil administrators, and many declined as settlers and officials exploited their communities. Yet the churches, music and craft traditions they fostered survived among the Indigenous peoples of the lowlands.",
+    "ko": "1767년 카를로스 3세는 스페인의 모든 영토에서 예수회를 추방했고, 이듬해 선교사들은 모호스와 치키토스 선교 마을을 떠났다. 선교 마을은 재속 성직자와 민간 관리에게 넘어갔고, 정착민과 관리들이 공동체를 착취하면서 많은 곳이 쇠퇴했다. 그러나 그들이 일군 성당, 음악, 공예 전통은 저지대 원주민 사이에 살아남았다.",
+    "zh": "1767年，国王卡洛斯三世将耶稣会逐出西班牙全部领地，次年该会传教士离开了莫克索斯和奇基托斯传教村。传教村转交给在俗神职人员和民政官员管理，许多因殖民者和官员的盘剥而衰落。然而，耶稣会培育的教堂、音乐和手工艺传统仍在低地原住民中延续下来。",
+    "ja": "1767年、国王カルロス3世はスペインの全領土からイエズス会を追放し、翌年には宣教師たちがモホスとチキトスの伝道村を去った。伝道村は在俗聖職者と行政官の手に渡り、入植者や役人が共同体を搾取したため多くが衰退した。それでも彼らが育んだ教会、音楽、工芸の伝統は低地の先住民の間に生き続けた。"
+   }
+  },
+  {
+   "year": 1776,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Charcas joins the new Viceroyalty of the Río de la Plata",
+    "ko": "차르카스, 리오데라플라타 부왕령에 편입",
+    "zh": "查尔卡斯划归新设的拉普拉塔河总督辖区",
+    "ja": "チャルカスが新設のリオ・デ・ラ・プラタ副王領に編入"
+   },
+   "description": {
+    "en": "In 1776, as part of the Bourbon reforms, the Spanish Crown created the Viceroyalty of the Río de la Plata with its capital at Buenos Aires and transferred the Audiencia of Charcas and Potosí's silver to it. The change reoriented Upper Peru's trade and administration toward the Atlantic. It also meant that the independence struggles after 1809 would pit Buenos Aires against Lima for control of the region.",
+    "ko": "1776년 부르봉 개혁의 일환으로 스페인 왕실은 부에노스아이레스를 수도로 하는 리오데라플라타 부왕령을 신설하고 차르카스 아우디엔시아와 포토시의 은을 이에 이관했다. 이 변화로 알토페루의 교역과 행정은 대서양 쪽으로 방향을 틀었다. 또한 1809년 이후 독립 투쟁에서 부에노스아이레스와 리마가 이 지역을 두고 다투게 되는 배경이 되었다.",
+    "zh": "1776年，作为波旁改革的一部分，西班牙王室设立以布宜诺斯艾利斯为首府的拉普拉塔河总督辖区，并将查尔卡斯检审庭和波托西的白银划归其下。这一变化使上秘鲁的贸易和行政转向大西洋方向，也使1809年后的独立斗争演变为布宜诺斯艾利斯与利马争夺该地区的局面。",
+    "ja": "1776年、ブルボン改革の一環としてスペイン王室はブエノスアイレスを首都とするリオ・デ・ラ・プラタ副王領を新設し、チャルカス聴訴院とポトシの銀をその管轄に移した。この変化によりアルト・ペルーの交易と行政は大西洋側へと向きを変えた。また1809年以降の独立闘争で、ブエノスアイレスとリマがこの地域をめぐって争う背景ともなった。"
+   }
+  },
+  {
+   "year": 1780,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Tomás Katari's rebellion in Chayanta",
+    "ko": "차얀타의 토마스 카타리 봉기",
+    "zh": "查扬塔的托马斯·卡塔里起义",
+    "ja": "チャヤンタのトマス・カタリの反乱"
+   },
+   "description": {
+    "en": "In 1780 Tomás Katari, an Indigenous leader from Chayanta in northern Potosí, led a movement against abusive local officials and tribute demands, after travelling to Buenos Aires to petition the viceroy. His arrest and death in early 1781 provoked a wider uprising led by his brothers. The revolt coincided with Túpac Amaru II's rebellion in Cuzco and formed part of the greatest Indigenous insurrection of the colonial Andes.",
+    "ko": "1780년 포토시 북부 차얀타 출신의 원주민 지도자 토마스 카타리는 부에노스아이레스까지 가서 부왕에게 청원한 뒤, 횡포를 부리는 지방 관리와 공납 요구에 맞선 운동을 이끌었다. 1781년 초 그가 체포되어 죽자 형제들이 이끄는 더 큰 봉기가 일어났다. 이 반란은 쿠스코의 투팍 아마루 2세의 반란과 시기를 같이하며 식민지 안데스 최대의 원주민 봉기의 일부를 이루었다.",
+    "zh": "1780年，来自波托西北部查扬塔的原住民领袖托马斯·卡塔里在前往布宜诺斯艾利斯向总督请愿之后，领导了一场反抗地方官员暴虐和贡赋索求的运动。1781年初他被捕身亡，激起了由其兄弟领导的更大规模起义。这场起义与库斯科的图帕克·阿马鲁二世起义同时发生，构成殖民时期安第斯最大规模原住民起义的一部分。",
+    "ja": "1780年、ポトシ北部チャヤンタ出身の先住民指導者トマス・カタリは、ブエノスアイレスまで赴いて副王に請願したのち、横暴な地方役人と貢納の要求に抗する運動を率いた。1781年初めに彼が逮捕され死亡すると、兄弟たちが率いるより大きな蜂起が起こった。この反乱はクスコのトゥパク・アマル2世の反乱と時を同じくし、植民地期アンデス最大の先住民蜂起の一部をなした。"
+   }
+  },
+  {
+   "year": 1781,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Túpac Katari's siege of La Paz",
+    "ko": "투팍 카타리의 라파스 포위",
+    "zh": "图帕克·卡塔里围攻拉巴斯",
+    "ja": "トゥパク・カタリのラパス包囲"
+   },
+   "description": {
+    "en": "In 1781 the Aymara leader Julián Apaza, who took the name Túpac Katari, led a great Indigenous uprising and, together with his wife Bartolina Sisa, besieged La Paz for months, causing famine in the city. Relief expeditions from Buenos Aires broke the siege, and Túpac Katari was captured and executed in November 1781. He and Bartolina Sisa remain powerful symbols of Indigenous resistance in Bolivia.",
+    "ko": "1781년 '투팍 카타리'라는 이름을 취한 아이마라 지도자 훌리안 아파사는 대규모 원주민 봉기를 이끌고, 아내 바르톨리나 시사와 함께 수개월 동안 라파스를 포위해 도시에 기근을 초래했다. 부에노스아이레스에서 온 구원군이 포위를 풀었고, 투팍 카타리는 1781년 11월 붙잡혀 처형되었다. 그와 바르톨리나 시사는 오늘날까지 볼리비아 원주민 저항의 강력한 상징이다.",
+    "zh": "1781年，自称“图帕克·卡塔里”的艾马拉领袖胡利安·阿帕萨领导了一场大规模原住民起义，与妻子巴托利娜·西萨一道围攻拉巴斯数月，城中发生饥荒。来自布宜诺斯艾利斯的援军解除了包围，图帕克·卡塔里于1781年11月被俘处决。他与巴托利娜·西萨至今仍是玻利维亚原住民抵抗的有力象征。",
+    "ja": "1781年、トゥパク・カタリを名乗ったアイマラの指導者フリアン・アパサは大規模な先住民蜂起を率い、妻バルトリナ・シサとともに数か月にわたりラパスを包囲して町に飢饉をもたらした。ブエノスアイレスからの救援軍が包囲を破り、トゥパク・カタリは1781年11月に捕らえられ処刑された。彼とバルトリナ・シサは今もボリビアにおける先住民抵抗の強い象徴である。"
+   }
+  },
+  {
+   "year": 1809,
+   "qid": "Q5116509",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Chuquisaca and La Paz revolutions",
+    "ko": "추키사카와 라파스 혁명",
+    "zh": "丘基萨卡与拉巴斯革命",
+    "ja": "チュキサカとラパスの革命"
+   },
+   "description": {
+    "en": "On 25 May 1809, amid the crisis caused by Napoleon's occupation of Spain, a revolt in Chuquisaca (La Plata) deposed the president of the Audiencia in the name of King Ferdinand VII. Two months later La Paz rose more radically. These were among the earliest movements toward self-government in Spanish America and ignited a fifteen-year struggle for liberation.",
+    "ko": "1809년 5월 25일 나폴레옹의 스페인 점령으로 위기가 닥친 가운데, 추키사카(라플라타)에서 일어난 봉기는 페르난도 7세의 이름으로 아우디엔시아 의장을 폐위했다. 두 달 뒤 라파스가 더 급진적으로 봉기했다. 이는 스페인령 아메리카에서 가장 이른 자치 운동 가운데 하나였으며, 15년에 걸친 해방 투쟁의 불씨가 되었다.",
+    "zh": "1809年5月25日，在拿破仑占领西班牙引发的危机中，丘基萨卡（拉普拉塔）发生起事，以国王费尔南多七世的名义罢黜了检审庭庭长。两个月后，拉巴斯发动了更为激进的起义。这些是西属美洲最早的自治运动之一，点燃了长达十五年的解放斗争。",
+    "ja": "1809年5月25日、ナポレオンのスペイン占領による危機のなか、チュキサカ（ラ・プラタ）で起きた反乱はフェルナンド7世の名のもとに聴訴院長官を罷免した。2か月後にはラパスがより急進的に蜂起した。これらはスペイン領アメリカで最も早い自治運動の一つであり、15年にわたる解放闘争の火蓋を切った。"
+   }
+  },
+  {
+   "year": 1809,
+   "qid": "Q6464343",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "La Paz revolution and the Junta Tuitiva",
+    "ko": "라파스 혁명과 후견 평의회",
+    "zh": "拉巴斯革命与护卫委员会",
+    "ja": "ラパス革命と護民評議会"
+   },
+   "description": {
+    "en": "On 16 July 1809 patriots in La Paz led by Pedro Domingo Murillo seized power and formed the Junta Tuitiva, whose proclamation denounced Spanish oppression. Royalist troops sent from Peru crushed the movement, and Murillo and other leaders were hanged in January 1810. Murillo's reported last words, that the torch he had lit would never be extinguished, became a national legend.",
+    "ko": "1809년 7월 16일 페드로 도밍고 무리요가 이끄는 라파스의 애국파는 권력을 장악하고 '후견 평의회(훈타 투이티바)'를 구성했으며, 그 선언문은 스페인의 압제를 규탄했다. 페루에서 파견된 왕당파 군대가 운동을 진압했고, 무리요와 다른 지도자들은 1810년 1월 교수형에 처해졌다. 자신이 붙인 횃불은 결코 꺼지지 않으리라는 무리요의 마지막 말로 전해지는 이야기는 국가적 전설이 되었다.",
+    "zh": "1809年7月16日，佩德罗·多明戈·穆里略领导的拉巴斯爱国者夺取政权，成立“护卫委员会”，其宣言谴责西班牙的压迫。从秘鲁派来的保王军镇压了这一运动，穆里略等领导人于1810年1月被处以绞刑。据传穆里略临终时说他点燃的火炬永远不会熄灭，这成为国家传奇。",
+    "ja": "1809年7月16日、ペドロ・ドミンゴ・ムリーリョ率いるラパスの愛国派は権力を掌握して「護民評議会（フンタ・トゥイティバ）」を結成し、その宣言はスペインの圧政を糾弾した。ペルーから派遣された王党派軍が運動を鎮圧し、ムリーリョら指導者は1810年1月に絞首刑となった。自らが灯した松明は決して消えないというムリーリョの最期の言葉とされる逸話は、国民的伝説となった。"
+   }
+  },
+  {
+   "year": 1810,
+   "qid": "Q2890073",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Suipacha",
+    "ko": "수이파차 전투",
+    "zh": "苏伊帕查战役",
+    "ja": "スイパチャの戦い"
+   },
+   "description": {
+    "en": "On 7 November 1810 the Army of the North sent by the revolutionary junta of Buenos Aires defeated royalist forces at Suipacha in southern Upper Peru. It was the first victory of the Buenos Aires revolution and briefly brought Upper Peru under patriot control. The patriots were driven out after their defeat at Huaqui in June 1811.",
+    "ko": "1810년 11월 7일 부에노스아이레스 혁명 평의회가 파견한 북부군은 알토페루 남부 수이파차에서 왕당파 군대를 격파했다. 이는 부에노스아이레스 혁명의 첫 승리로, 잠시 알토페루를 애국파의 지배 아래 두었다. 그러나 애국파는 1811년 6월 우아키에서 패배한 뒤 쫓겨났다.",
+    "zh": "1810年11月7日，布宜诺斯艾利斯革命委员会派出的北方军在上秘鲁南部的苏伊帕查击败保王军。这是布宜诺斯艾利斯革命的首场胜利，使上秘鲁一度处于爱国派控制之下。1811年6月爱国派在瓦基战败后被逐出该地区。",
+    "ja": "1810年11月7日、ブエノスアイレスの革命評議会が派遣した北部軍は、アルト・ペルー南部のスイパチャで王党派軍を破った。これはブエノスアイレス革命の最初の勝利で、一時アルト・ペルーを愛国派の支配下に置いた。しかし愛国派は1811年6月のワキでの敗北後に追い出された。"
+   }
+  },
+  {
+   "year": 1813,
+   "qid": "Q4872673",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Defeats at Vilcapugio and Ayohuma",
+    "ko": "빌카푸히오와 아요우마의 패전",
+    "zh": "比尔卡普吉奥与阿约乌马之败",
+    "ja": "ビルカプヒオとアヨウマの敗北"
+   },
+   "description": {
+    "en": "In 1813 a second patriot expedition from Buenos Aires under Manuel Belgrano advanced into Upper Peru but was defeated by royalist forces at Vilcapugio on 1 October and Ayohuma in November. Royalist control of the highlands was restored. Later expeditions from Buenos Aires also failed, leaving the fight largely to local guerrillas.",
+    "ko": "1813년 마누엘 벨그라노가 이끈 부에노스아이레스의 두 번째 애국파 원정군이 알토페루로 진격했지만, 10월 1일 빌카푸히오와 11월 아요우마에서 왕당파 군대에 패했다. 고원 지대에 대한 왕당파의 지배가 회복되었다. 이후 부에노스아이레스의 원정도 실패해 싸움은 대체로 현지 게릴라의 몫으로 남았다.",
+    "zh": "1813年，曼努埃尔·贝尔格拉诺率领的布宜诺斯艾利斯第二支爱国远征军进入上秘鲁，但于10月1日在比尔卡普吉奥、11月在阿约乌马被保王军击败。保王派恢复了对高原的控制。此后布宜诺斯艾利斯的远征也接连失败，斗争主要由当地游击队承担。",
+    "ja": "1813年、マヌエル・ベルグラーノ率いるブエノスアイレスからの第2次愛国派遠征軍がアルト・ペルーに進んだが、10月1日のビルカプヒオと11月のアヨウマで王党派軍に敗れた。高原地帯の王党派支配が回復した。その後のブエノスアイレスの遠征も失敗し、戦いは主に地元のゲリラに委ねられた。"
+   }
+  },
+  {
+   "year": 1816,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Republiquetas: Padilla and Juana Azurduy",
+    "ko": "레푸블리케타: 파디야와 후아나 아수르두이",
+    "zh": "“小共和国”游击战：帕迪利亚与阿苏尔杜伊",
+    "ja": "レプブリケタ：パディーリャとフアナ・アスルドゥイ"
+   },
+   "description": {
+    "en": "During the independence war local guerrilla zones known as republiquetas resisted royalist forces in the valleys of Upper Peru. In the region of La Laguna, Manuel Ascencio Padilla and his wife Juana Azurduy led one of the most famous, until Padilla was killed in 1816. Juana Azurduy fought on and is honoured today as a heroine of independence in Bolivia and Argentina.",
+    "ko": "독립 전쟁 동안 '레푸블리케타'로 알려진 현지 게릴라 지대들이 알토페루 계곡에서 왕당파 군대에 저항했다. 라라구나 지역에서는 마누엘 아센시오 파디야와 그의 아내 후아나 아수르두이가 가장 유명한 게릴라를 이끌었으나, 파디야는 1816년 전사했다. 후아나 아수르두이는 계속 싸웠고 오늘날 볼리비아와 아르헨티나에서 독립의 여걸로 기려진다.",
+    "zh": "独立战争期间，被称为“小共和国”的地方游击区在上秘鲁的河谷中抵抗保王军。在拉拉古纳地区，曼努埃尔·阿森西奥·帕迪利亚与妻子胡安娜·阿苏尔杜伊领导了其中最著名的一支，直到帕迪利亚于1816年阵亡。胡安娜·阿苏尔杜伊继续战斗，如今在玻利维亚和阿根廷被尊为独立女英雄。",
+    "ja": "独立戦争中、「レプブリケタ」と呼ばれる地元のゲリラ地帯がアルト・ペルーの谷で王党派軍に抵抗した。ラ・ラグナ地方ではマヌエル・アセンシオ・パディーリャと妻フアナ・アスルドゥイが最も有名な一隊を率いたが、パディーリャは1816年に戦死した。フアナ・アスルドゥイは戦い続け、今日ボリビアとアルゼンチンで独立のヒロインとして称えられている。"
+   }
+  },
+  {
+   "year": 1825,
+   "qid": "Q2918225",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence; the republic takes Bolívar's name",
+    "ko": "독립 선언과 볼리바르의 이름을 딴 공화국",
+    "zh": "独立：共和国以玻利瓦尔之名命名",
+    "ja": "独立宣言とボリバルの名を冠した共和国"
+   },
+   "description": {
+    "en": "After Antonio José de Sucre's victory at Ayacucho in Peru in December 1824 and the defeat of the last royalist forces in Upper Peru, an assembly in Chuquisaca declared independence on 6 August 1825. The new republic named itself after liberator Simón Bolívar, first as 'República Bolívar' and soon 'Bolivia'. Bolívar briefly governed the country, and Sucre became its first constitutional president.",
+    "ko": "1824년 12월 안토니오 호세 데 수크레가 페루 아야쿠초에서 승리하고 알토페루의 마지막 왕당파 군대가 패배한 뒤, 추키사카의 의회는 1825년 8월 6일 독립을 선언했다. 새 공화국은 해방자 시몬 볼리바르의 이름을 따서 처음에는 '볼리바르 공화국', 곧 '볼리비아'로 불렸다. 볼리바르가 잠시 나라를 통치했고 수크레가 첫 헌정 대통령이 되었다.",
+    "zh": "1824年12月安东尼奥·何塞·德苏克雷在秘鲁阿亚库乔获胜、上秘鲁最后的保王军被击败后，丘基萨卡的议会于1825年8月6日宣布独立。新共和国以解放者西蒙·玻利瓦尔之名命名，先称“玻利瓦尔共和国”，不久改为“玻利维亚”。玻利瓦尔曾短暂治理该国，苏克雷成为首任宪政总统。",
+    "ja": "1824年12月にアントニオ・ホセ・デ・スクレがペルーのアヤクチョで勝利し、アルト・ペルー最後の王党派軍が敗れると、チュキサカの議会は1825年8月6日に独立を宣言した。新共和国は解放者シモン・ボリバルにちなみ、初めは「ボリバル共和国」、まもなく「ボリビア」と名乗った。ボリバルが短期間国を治め、スクレが最初の立憲大統領となった。"
+   }
+  },
+  {
+   "year": 1826,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Bolívar's constitution adopted",
+    "ko": "볼리바르 헌법 채택",
+    "zh": "通过玻利瓦尔宪法",
+    "ja": "ボリバル憲法の採択"
+   },
+   "description": {
+    "en": "In 1826 Bolivia adopted a constitution drafted by Simón Bolívar, which provided for a president serving for life with the right to name his successor, alongside a complex three-chamber legislature. Sucre governed under it, abolishing some colonial institutions and reforming finances and the Church. The constitution proved unworkable and was replaced within a few years.",
+    "ko": "1826년 볼리비아는 시몬 볼리바르가 기초한 헌법을 채택했는데, 이 헌법은 후계자를 지명할 권리를 가진 종신 대통령과 복잡한 3원제 의회를 규정했다. 수크레는 이 헌법 아래 일부 식민지 제도를 폐지하고 재정과 교회를 개혁했다. 그러나 헌법은 실행이 어려워 몇 년 만에 대체되었다.",
+    "zh": "1826年，玻利维亚通过了由西蒙·玻利瓦尔起草的宪法，规定总统终身任职并有权指定继承人，同时设立复杂的三院制议会。苏克雷依此宪法执政，废除部分殖民制度，改革财政和教会。该宪法难以施行，数年后即被取代。",
+    "ja": "1826年、ボリビアはシモン・ボリバルが起草した憲法を採択した。後継者を指名する権利を持つ終身大統領と、複雑な三院制議会を定めたものだった。スクレはこの憲法のもとで一部の植民地制度を廃止し、財政と教会を改革した。しかし憲法は運用が難しく、数年で置き換えられた。"
+   }
+  },
+  {
+   "year": 1828,
+   "qid": "Q6151969",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Mutiny, Peruvian intervention and the Treaty of Piquiza",
+    "ko": "반란, 페루의 개입과 피키사 조약",
+    "zh": "兵变、秘鲁干涉与皮基萨条约",
+    "ja": "反乱、ペルーの介入とピキサ条約"
+   },
+   "description": {
+    "en": "In April 1828 a mutiny in Chuquisaca wounded President Sucre, and a Peruvian army under Agustín Gamarra invaded. The Treaty of Piquiza in July forced the withdrawal of Colombian troops, and Sucre resigned and left the country. The episode showed Bolivia's vulnerability to its neighbours in its first years.",
+    "ko": "1828년 4월 추키사카에서 일어난 반란으로 수크레 대통령이 부상했고, 아구스틴 가마라가 이끄는 페루군이 침입했다. 7월의 피키사 조약으로 콜롬비아 군대가 철수해야 했고, 수크레는 사임하고 나라를 떠났다. 이 사건은 건국 초기 볼리비아가 이웃 나라들에 얼마나 취약했는지를 보여 주었다.",
+    "zh": "1828年4月，丘基萨卡发生兵变，苏克雷总统受伤，阿古斯丁·加马拉率领的秘鲁军队随即入侵。7月签订的《皮基萨条约》迫使哥伦比亚军队撤离，苏克雷辞职离开该国。这一事件显示了玻利维亚建国初期面对邻国时的脆弱。",
+    "ja": "1828年4月、チュキサカで起きた反乱でスクレ大統領が負傷し、アグスティン・ガマラ率いるペルー軍が侵入した。7月のピキサ条約でコロンビア軍は撤退を余儀なくされ、スクレは辞任して国を去った。この出来事は建国初期のボリビアが隣国に対していかに脆弱だったかを示している。"
+   }
+  },
+  {
+   "year": 1829,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Andrés de Santa Cruz consolidates the state",
+    "ko": "안드레스 데 산타크루스의 국가 정비",
+    "zh": "安德烈斯·德圣克鲁斯整顿国家",
+    "ja": "アンドレス・デ・サンタ・クルスによる国家建設"
+   },
+   "description": {
+    "en": "Andrés de Santa Cruz, a general of mestizo and Indigenous noble descent, became president in 1829 and governed for a decade. He reorganized finances and the army, promoted education, and issued legal codes in 1831, including one of the first civil codes in Latin America, based on the Napoleonic Code. His ambitions in Peru led to the creation of the Peru-Bolivian Confederation.",
+    "ko": "메스티소이자 원주민 귀족 혈통의 장군 안드레스 데 산타크루스는 1829년 대통령이 되어 10년간 통치했다. 그는 재정과 군대를 재편하고 교육을 장려했으며, 1831년 나폴레옹 법전에 기초한 라틴아메리카 최초의 민법전 중 하나를 포함한 법전들을 공포했다. 페루에 대한 그의 야망은 페루-볼리비아 연합의 창설로 이어졌다.",
+    "zh": "具有混血及原住民贵族血统的将军安德烈斯·德圣克鲁斯于1829年就任总统，执政十年。他整顿财政和军队，推广教育，并于1831年颁布法典，其中包括以《拿破仑法典》为蓝本、拉丁美洲最早的民法典之一。他对秘鲁的野心促成了秘鲁—玻利维亚邦联的建立。",
+    "ja": "メスティーソで先住民貴族の血を引く将軍アンドレス・デ・サンタ・クルスは1829年に大統領となり、10年間統治した。財政と軍を再編し、教育を奨励し、1831年にはナポレオン法典に基づくラテンアメリカ最初期の民法典を含む法典を公布した。ペルーへの野心はペルー・ボリビア連合の創設につながった。"
+   }
+  },
+  {
+   "year": 1836,
+   "qid": "Q899706",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Peru-Bolivian Confederation proclaimed",
+    "ko": "페루-볼리비아 연합 선포",
+    "zh": "秘鲁—玻利维亚邦联成立",
+    "ja": "ペルー・ボリビア連合の成立"
+   },
+   "description": {
+    "en": "After intervening in Peru's civil wars, Santa Cruz established the Peru-Bolivian Confederation in 1836, uniting Bolivia, North Peru and South Peru under his rule as Supreme Protector. Chile, fearing a powerful northern neighbour, declared war, and Argentina also joined against it. The confederation collapsed after the Chilean-led victory at Yungay in January 1839.",
+    "ko": "페루 내전에 개입한 산타크루스는 1836년 볼리비아, 북페루, 남페루를 최고 보호관인 자신의 통치 아래 묶은 페루-볼리비아 연합을 세웠다. 강력한 북쪽 이웃을 두려워한 칠레가 선전 포고했고 아르헨티나도 반대편에 가담했다. 연합은 1839년 1월 칠레 주도의 융가이 전투 승리 이후 붕괴했다.",
+    "zh": "圣克鲁斯介入秘鲁内战后，于1836年建立秘鲁—玻利维亚邦联，将玻利维亚、北秘鲁和南秘鲁统一于自任最高护国公的他的统治之下。担心北方出现强大邻国的智利宣战，阿根廷也加入反对阵营。1839年1月智利主导的联军在云加伊取胜后，邦联瓦解。",
+    "ja": "ペルーの内戦に介入したサンタ・クルスは1836年、ボリビア、北ペルー、南ペルーを最高護国官たる自らの統治下にまとめるペルー・ボリビア連合を樹立した。強力な北の隣国を恐れたチリが宣戦し、アルゼンチンも対抗陣営に加わった。連合は1839年1月のチリ主導のユンガイの戦いの勝利後に崩壊した。"
+   }
+  },
+  {
+   "year": 1841,
+   "qid": "Q1782533",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Ingavi",
+    "ko": "인가비 전투",
+    "zh": "因加维战役",
+    "ja": "インガビの戦い"
+   },
+   "description": {
+    "en": "On 18 November 1841 Bolivian forces under General José Ballivián defeated an invading Peruvian army at Ingavi near La Paz; the Peruvian president Agustín Gamarra was killed in the battle. The victory ended Peru's attempts to annex Bolivia and secured Bolivian independence. Peace was confirmed by the Treaty of Puno in 1842.",
+    "ko": "1841년 11월 18일 호세 바이비안 장군이 이끄는 볼리비아군은 라파스 근처 인가비에서 침입한 페루군을 격파했으며, 페루 대통령 아구스틴 가마라가 전사했다. 이 승리로 볼리비아를 병합하려던 페루의 시도는 끝나고 볼리비아의 독립이 확고해졌다. 평화는 1842년 푸노 조약으로 확정되었다.",
+    "zh": "1841年11月18日，何塞·巴利维安将军率领的玻利维亚军队在拉巴斯附近的因加维击败入侵的秘鲁军队，秘鲁总统阿古斯丁·加马拉阵亡。这场胜利结束了秘鲁吞并玻利维亚的企图，巩固了玻利维亚的独立。1842年的《普诺条约》确认了和平。",
+    "ja": "1841年11月18日、ホセ・バリビアン将軍率いるボリビア軍はラパス近郊のインガビで侵入したペルー軍を破り、ペルー大統領アグスティン・ガマラが戦死した。この勝利によりボリビアを併合しようとするペルーの試みは終わり、ボリビアの独立が確かなものとなった。和平は1842年のプーノ条約で確認された。"
+   }
+  },
+  {
+   "year": 1867,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Ayacucho cedes land to Brazil",
+    "ko": "아야쿠초 조약으로 브라질에 영토 할양",
+    "zh": "《阿亚库乔条约》向巴西割地",
+    "ja": "アヤクチョ条約によるブラジルへの領土割譲"
+   },
+   "description": {
+    "en": "Under the caudillo Mariano Melgarejo, whose rule (1864-71) was notorious for corruption and the seizure of Indigenous community lands, Bolivia signed the Treaty of Ayacucho with Brazil in 1867. It recognized Brazilian sovereignty over large areas of the Amazon frontier in exchange for promises of river access. It was the first of several territorial losses that shrank Bolivia over the following decades.",
+    "ko": "부패와 원주민 공동체 토지 몰수로 악명 높았던 카우디요 마리아노 멜가레호의 통치(1864~71) 아래, 볼리비아는 1867년 브라질과 아야쿠초 조약을 맺었다. 이 조약은 하천 접근에 관한 약속을 대가로 아마존 국경의 넓은 지역에 대한 브라질의 주권을 인정했다. 이는 이후 수십 년간 볼리비아의 영토를 줄인 여러 손실 가운데 첫 번째였다.",
+    "zh": "在以腐败和侵占原住民社群土地而臭名昭著的考迪罗马里亚诺·梅尔加雷霍统治时期（1864—1871），玻利维亚于1867年与巴西签订《阿亚库乔条约》。条约承认巴西对亚马孙边境大片地区的主权，以换取河道通行的承诺。这是此后数十年间使玻利维亚领土不断缩小的一系列损失中的第一次。",
+    "ja": "汚職と先住民共同体の土地収奪で悪名高いカウディーリョ、マリアノ・メルガレホの統治下（1864〜71年）、ボリビアは1867年にブラジルとアヤクチョ条約を結んだ。この条約は河川利用の約束と引き換えに、アマゾン国境の広い地域に対するブラジルの主権を認めた。これはその後数十年にわたりボリビアの領土を縮小させた一連の喪失の最初のものだった。"
+   }
+  },
+  {
+   "year": 1879,
+   "qid": "Q152004",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "War of the Pacific: Bolivia loses its coast",
+    "ko": "태평양 전쟁: 해안을 잃은 볼리비아",
+    "zh": "太平洋战争：玻利维亚失去海岸",
+    "ja": "太平洋戦争：海岸を失ったボリビア"
+   },
+   "description": {
+    "en": "A dispute over a Bolivian tax on a Chilean nitrate company in Antofagasta led Chile to occupy the port in February 1879, triggering the War of the Pacific (1879-1884) against Bolivia and its ally Peru. Despite the resistance of figures such as Eduardo Abaroa at Calama, Chile seized Bolivia's entire coastal province of Antofagasta. Landlocked ever since, Bolivia still commemorates a 'Day of the Sea' and claims sovereign access to the Pacific.",
+    "ko": "안토파가스타의 칠레 초석 회사에 대한 볼리비아의 과세 분쟁으로 칠레가 1879년 2월 이 항구를 점령하면서, 볼리비아와 그 동맹국 페루를 상대로 한 태평양 전쟁(1879~1884)이 시작되었다. 칼라마의 에두아르도 아바로아 등의 저항에도 칠레는 볼리비아의 해안 주 안토파가스타 전체를 장악했다. 그 뒤로 내륙국이 된 볼리비아는 지금도 '바다의 날'을 기념하며 태평양으로의 주권적 접근을 요구한다.",
+    "zh": "因玻利维亚对安托法加斯塔一家智利硝石公司征税引发争端，智利于1879年2月占领该港，由此爆发了针对玻利维亚及其盟国秘鲁的太平洋战争（1879—1884）。尽管有爱德华多·阿瓦罗阿等人在卡拉马的抵抗，智利仍夺取了玻利维亚整个安托法加斯塔沿海省。此后成为内陆国的玻利维亚至今仍纪念“海洋日”，并要求获得通往太平洋的主权出海口。",
+    "ja": "アントファガスタのチリ系硝石会社へのボリビアの課税をめぐる紛争から、チリは1879年2月に同港を占領し、ボリビアとその同盟国ペルーに対する太平洋戦争（1879〜1884年）が始まった。カラマでのエドゥアルド・アバロアらの抵抗にもかかわらず、チリはボリビアの沿岸県アントファガスタ全体を奪った。以来内陸国となったボリビアは今も「海の日」を記念し、太平洋への主権的なアクセスを求めている。"
+   }
+  },
+  {
+   "year": 1884,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Truce of Valparaíso and the rise of the silver oligarchy",
+    "ko": "발파라이소 휴전과 은광 과두 세력의 부상",
+    "zh": "瓦尔帕莱索停战与白银寡头崛起",
+    "ja": "バルパライソ休戦と銀鉱寡頭層の台頭"
+   },
+   "description": {
+    "en": "In April 1884 Bolivia signed a truce with Chile in Valparaíso that left the occupied coast under Chilean administration. At home, the defeat brought to power civilian governments dominated by southern silver-mining magnates such as Aniceto Arce and Gregorio Pacheco. They built railways linking the mines to the Pacific ports and ushered in a period of relative political stability.",
+    "ko": "1884년 4월 볼리비아는 발파라이소에서 칠레와 휴전 협정을 맺어 점령된 해안을 칠레의 관할 아래 남겨 두었다. 국내에서는 패전을 계기로 아니세토 아르세, 그레고리오 파체코 같은 남부 은광 거부들이 주도하는 문민 정부가 집권했다. 그들은 광산과 태평양 항구를 잇는 철도를 건설하고 비교적 정치가 안정된 시기를 열었다.",
+    "zh": "1884年4月，玻利维亚与智利在瓦尔帕莱索签订停战协定，被占领的沿海地区留在智利管辖之下。在国内，战败使阿尼塞托·阿尔塞、格雷戈里奥·帕切科等南部银矿巨头主导的文官政府上台。他们修建连接矿山与太平洋港口的铁路，开启了一个政治相对稳定的时期。",
+    "ja": "1884年4月、ボリビアはバルパライソでチリと休戦協定を結び、占領された海岸はチリの管理下に置かれた。国内では敗戦を機に、アニセト・アルセやグレゴリオ・パチェコら南部の銀鉱山の大物が主導する文民政府が政権を握った。彼らは鉱山と太平洋の港を結ぶ鉄道を建設し、比較的政治が安定した時期を開いた。"
+   }
+  },
+  {
+   "year": 1898,
+   "qid": "Q5887712",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Federal War and the move of government to La Paz",
+    "ko": "연방 전쟁과 라파스로의 정부 이전",
+    "zh": "联邦战争与政府迁往拉巴斯",
+    "ja": "連邦戦争とラパスへの政府移転"
+   },
+   "description": {
+    "en": "In 1898-99 the Liberals of La Paz under José Manuel Pando rebelled against the Conservative government based in Sucre, in a conflict known as the Federal War. Aymara communities led by Pablo Zárate Willka joined the Liberals but pursued their own demands for land and autonomy, and were later repressed. The Liberal victory moved the seat of government to La Paz, while Sucre remained the constitutional capital.",
+    "ko": "1898~99년 호세 마누엘 판도가 이끄는 라파스의 자유당은 수크레에 기반을 둔 보수당 정부에 반기를 들었는데, 이를 연방 전쟁이라 부른다. 파블로 사라테 윌카가 이끄는 아이마라 공동체들은 자유당 편에 섰으나 토지와 자치에 관한 독자적 요구를 내세웠고, 이후 탄압을 받았다. 자유당의 승리로 정부 소재지는 라파스로 옮겨졌고, 수크레는 헌법상의 수도로 남았다.",
+    "zh": "1898至1899年，何塞·曼努埃尔·潘多领导的拉巴斯自由派起兵反抗以苏克雷为基地的保守派政府，史称“联邦战争”。巴勃罗·萨拉特·威尔卡领导的艾马拉社群加入自由派一方，但提出了自己关于土地和自治的要求，后来遭到镇压。自由派的胜利使政府所在地迁至拉巴斯，而苏克雷仍为宪法规定的首都。",
+    "ja": "1898〜99年、ホセ・マヌエル・パンド率いるラパスの自由派は、スクレを拠点とする保守派政府に反旗を翻した。これを連邦戦争という。パブロ・サラテ・ウィルカ率いるアイマラの共同体は自由派に加わったが、土地と自治に関する独自の要求を掲げ、のちに弾圧された。自由派の勝利により政府所在地はラパスに移り、スクレは憲法上の首都として残った。"
+   }
+  },
+  {
+   "year": 1900,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Tin boom and the rise of Simón Patiño",
+    "ko": "주석 붐과 시몬 파티뇨의 부상",
+    "zh": "锡矿繁荣与西蒙·帕蒂尼奥的崛起",
+    "ja": "錫ブームとシモン・パティーニョの台頭"
+   },
+   "description": {
+    "en": "Around 1900 Simón Patiño, a mestizo entrepreneur from Cochabamba, struck a rich tin vein at his La Salvadora mine near Uncía. As world demand for tin soared, Patiño built an industrial empire that made him one of the richest men in the world, alongside the Hochschild and Aramayo groups. Tin replaced silver as Bolivia's main export, and the 'tin barons' dominated politics until 1952.",
+    "ko": "1900년 무렵 코차밤바 출신의 메스티소 기업가 시몬 파티뇨는 운시아 근처 라살바도라 광산에서 풍부한 주석 광맥을 발견했다. 세계적인 주석 수요가 급증하면서 파티뇨는 산업 제국을 일으켜 호흐실트, 아라마요 그룹과 함께 세계적인 부호가 되었다. 주석은 은을 대신해 볼리비아의 주요 수출품이 되었고, '주석 남작'들은 1952년까지 정치를 좌우했다.",
+    "zh": "约1900年，来自科恰班巴的混血企业家西蒙·帕蒂尼奥在乌恩西亚附近的萨尔瓦多拉矿发现了丰富的锡矿脉。随着世界锡需求激增，帕蒂尼奥建立起工业帝国，与霍赫希尔德集团和阿拉马约集团并列，成为世界首富之一。锡取代白银成为玻利维亚的主要出口品，“锡业大王”们左右政局直至1952年。",
+    "ja": "1900年頃、コチャバンバ出身のメスティーソの実業家シモン・パティーニョは、ウンシア近郊のラ・サルバドーラ鉱山で豊かな錫の鉱脈を掘り当てた。世界的な錫需要の急増とともにパティーニョは産業帝国を築き、ホッホシルト、アラマヨの両グループと並んで世界有数の富豪となった。錫は銀に代わってボリビアの主要輸出品となり、「錫男爵」たちは1952年まで政治を左右した。"
+   }
+  },
+  {
+   "year": 1903,
+   "qid": "Q2606574",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Acre War and the Treaty of Petrópolis",
+    "ko": "아크리 전쟁과 페트로폴리스 조약",
+    "zh": "阿克里战争与《彼得罗波利斯条约》",
+    "ja": "アクレ戦争とペトロポリス条約"
+   },
+   "description": {
+    "en": "During the rubber boom, Brazilian settlers in Bolivia's remote Acre region rebelled against Bolivian rule from 1899, leading to fighting with Bolivian forces. Under the Treaty of Petrópolis of November 1903 Bolivia ceded Acre to Brazil in exchange for a payment of two million pounds sterling, small territorial compensation and a Brazilian promise to build the Madeira-Mamoré railway. It was another major territorial loss.",
+    "ko": "고무 붐 시기 볼리비아의 외딴 아크리 지역에 정착한 브라질인들이 1899년부터 볼리비아의 지배에 반기를 들어 볼리비아군과 충돌했다. 1903년 11월 페트로폴리스 조약으로 볼리비아는 200만 파운드의 대금, 소규모 영토 보상, 그리고 마데이라-마모레 철도 건설에 대한 브라질의 약속을 받고 아크리를 브라질에 할양했다. 이는 또 하나의 큰 영토 상실이었다.",
+    "zh": "橡胶繁荣时期，定居在玻利维亚偏远阿克里地区的巴西人自1899年起反抗玻利维亚统治，与玻利维亚军队发生冲突。根据1903年11月的《彼得罗波利斯条约》，玻利维亚将阿克里割让给巴西，换取200万英镑的补偿、少量领土补偿以及巴西修建马德拉—马莫雷铁路的承诺。这是玻利维亚又一次重大领土损失。",
+    "ja": "ゴムブームの時代、ボリビアの辺境アクレ地方に入植したブラジル人が1899年からボリビアの支配に反旗を翻し、ボリビア軍と衝突した。1903年11月のペトロポリス条約で、ボリビアは200万ポンドの支払い、わずかな領土の代替、ブラジルによるマデイラ・マモレ鉄道建設の約束と引き換えにアクレをブラジルに割譲した。これもまた大きな領土喪失だった。"
+   }
+  },
+  {
+   "year": 1904,
+   "qid": "Q473661",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Peace and Friendship with Chile",
+    "ko": "칠레와의 평화우호조약",
+    "zh": "与智利签订《和平友好条约》",
+    "ja": "チリとの平和友好条約"
+   },
+   "description": {
+    "en": "In October 1904 Bolivia and Chile signed a Treaty of Peace and Friendship by which Bolivia formally recognized Chilean sovereignty over the former Litoral province. In return Chile paid compensation, guaranteed Bolivia perpetual free commercial transit through its ports, and built the Arica-La Paz railway, completed in 1913. Bolivians have long contested the treaty as imposed after defeat.",
+    "ko": "1904년 10월 볼리비아와 칠레는 평화우호조약을 맺어, 볼리비아는 옛 리토랄주에 대한 칠레의 주권을 공식 인정했다. 그 대가로 칠레는 배상금을 지불하고 자국 항구를 통한 볼리비아의 영구적 상업 통과 자유를 보장했으며, 1913년 완공된 아리카-라파스 철도를 건설했다. 볼리비아인들은 오랫동안 이 조약을 패전 뒤 강요된 것이라고 문제 삼아 왔다.",
+    "zh": "1904年10月，玻利维亚与智利签订《和平友好条约》，玻利维亚正式承认智利对原沿海省的主权。作为交换，智利支付补偿，保证玻利维亚经由智利港口永久自由过境通商，并修建了1913年竣工的阿里卡—拉巴斯铁路。玻利维亚人长期以来认为该条约是战败后被强加的。",
+    "ja": "1904年10月、ボリビアとチリは平和友好条約を結び、ボリビアは旧リトラル県に対するチリの主権を正式に認めた。見返りにチリは補償金を支払い、自国の港を通じたボリビアの永続的な自由通商通過を保証し、1913年に完成したアリカ・ラパス鉄道を建設した。ボリビア人は長くこの条約を敗戦後に押しつけられたものとして争ってきた。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": "Q28220486",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Republican coup ends the Liberal era",
+    "ko": "공화당 쿠데타와 자유당 시대의 종언",
+    "zh": "共和党政变结束自由党时代",
+    "ja": "共和党のクーデターと自由党時代の終焉"
+   },
+   "description": {
+    "en": "On 12 July 1920 the Republican Party, led by figures including Bautista Saavedra, overthrew the Liberal government in a bloodless coup, ending two decades of Liberal rule. The 1920s brought rising foreign debt, labour unrest in the mines and Indigenous revolts such as that at Jesús de Machaca in 1921. Tensions with Paraguay over the Chaco also grew.",
+    "ko": "1920년 7월 12일 바우티스타 사아베드라 등이 이끈 공화당이 무혈 쿠데타로 자유당 정부를 무너뜨려 20년에 걸친 자유당 통치가 끝났다. 1920년대에는 대외 부채 증가, 광산의 노동 불안, 1921년 헤수스 데 마차카 같은 원주민 봉기가 이어졌다. 차코를 둘러싼 파라과이와의 긴장도 높아졌다.",
+    "zh": "1920年7月12日，以包蒂斯塔·萨韦德拉等人为首的共和党以不流血政变推翻自由党政府，结束了自由党二十年的统治。20世纪20年代，外债增加，矿区劳资冲突不断，并发生了1921年赫苏斯·德马查卡等原住民起义。与巴拉圭在查科问题上的紧张关系也日益加剧。",
+    "ja": "1920年7月12日、バウティスタ・サアベドラらが率いる共和党は無血クーデターで自由党政府を倒し、20年にわたる自由党の統治が終わった。1920年代には対外債務の増加、鉱山での労働争議、1921年のヘスス・デ・マチャカのような先住民の反乱が続いた。チャコをめぐるパラグアイとの緊張も高まった。"
+   }
+  },
+  {
+   "year": 1932,
+   "qid": "Q223126",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Chaco War with Paraguay",
+    "ko": "파라과이와의 차코 전쟁",
+    "zh": "与巴拉圭的查科战争",
+    "ja": "パラグアイとのチャコ戦争"
+   },
+   "description": {
+    "en": "Bolivia fought Paraguay from 1932 to 1935 over the Chaco Boreal, a lowland region believed to hold oil and offering access to the Paraguay River. Highland conscripts, many of them Indigenous, suffered from thirst, disease and poor leadership, and Bolivia lost most of the disputed territory, with some 60,000 Bolivian dead. The defeat discredited the old elite and spurred deep political and social upheaval.",
+    "ko": "볼리비아는 석유가 매장되어 있다고 여겨지고 파라과이강으로의 접근로를 제공하는 저지대 차코 보레알을 두고 1932년부터 1935년까지 파라과이와 싸웠다. 상당수가 원주민이었던 고원 출신 징집병들은 갈증, 질병, 무능한 지휘에 시달렸고, 볼리비아는 약 6만 명의 전사자를 내고 분쟁 지역 대부분을 잃었다. 패전은 구엘리트의 권위를 무너뜨리고 깊은 정치·사회적 격변을 불러왔다.",
+    "zh": "1932年至1935年，玻利维亚与巴拉圭为争夺北查科而交战。这一低地地区被认为蕴藏石油，并可通往巴拉圭河。来自高原的应征士兵多为原住民，饱受干渴、疾病和指挥无能之苦，玻利维亚约6万人阵亡，并失去了大部分争议领土。战败使旧精英威信扫地，引发了深刻的政治和社会动荡。",
+    "ja": "ボリビアは1932年から1935年まで、石油が埋蔵されていると考えられ、パラグアイ川への出口ともなる低地チャコ・ボレアルをめぐってパラグアイと戦った。多くが先住民だった高地出身の徴集兵は渇き、病気、拙劣な指揮に苦しみ、ボリビアは約6万人の戦死者を出して係争地の大部分を失った。敗戦は旧エリートの信用を失墜させ、深い政治的・社会的変動を引き起こした。"
+   }
+  },
+  {
+   "year": 1937,
+   "qid": "Q75720321",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Military socialism nationalizes Standard Oil",
+    "ko": "군사 사회주의와 스탠더드 오일 국유화",
+    "zh": "军人社会主义将标准石油收归国有",
+    "ja": "軍事社会主義とスタンダード・オイル国有化"
+   },
+   "description": {
+    "en": "After a coup in May 1936, Chaco War veterans in the army under David Toro and then Germán Busch proclaimed 'military socialism'. In March 1937 the government confiscated the holdings of the US-owned Standard Oil Company, accused of defrauding the state during the war, and transferred them to the new state oil company YPFB. It was among the first nationalizations of a foreign oil company in Latin America.",
+    "ko": "1936년 5월 쿠데타 이후 다비드 토로, 이어서 헤르만 부시가 이끄는 차코 전쟁 참전 군인들은 '군사 사회주의'를 선언했다. 1937년 3월 정부는 전쟁 중 국가를 속였다는 혐의를 받은 미국계 스탠더드 오일의 자산을 몰수해 신설 국영 석유 회사 YPFB에 넘겼다. 이는 라틴아메리카에서 외국 석유 회사를 국유화한 최초의 사례 가운데 하나였다.",
+    "zh": "1936年5月政变后，以达维德·托罗和后来的赫尔曼·布什为首的查科战争老兵军官宣布实行“军人社会主义”。1937年3月，政府没收了被指控在战争期间欺骗国家的美资标准石油公司的资产，移交给新成立的国营石油公司YPFB。这是拉丁美洲最早将外国石油公司收归国有的案例之一。",
+    "ja": "1936年5月のクーデター後、ダビド・トロ、続いてヘルマン・ブッシュが率いるチャコ戦争帰還兵の軍人たちは「軍事社会主義」を宣言した。1937年3月、政府は戦時中に国家を欺いたとされた米国系スタンダード・オイル社の資産を没収し、新設の国営石油会社YPFBに移した。これはラテンアメリカで外国石油会社を国有化した最初期の例の一つだった。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": "Q5051592",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Catavi massacre",
+    "ko": "카타비 학살",
+    "zh": "卡塔维大屠杀",
+    "ja": "カタビの虐殺"
+   },
+   "description": {
+    "en": "On 21 December 1942 troops opened fire on striking tin miners and their families at Catavi, one of the Patiño company's mines, killing many. The massacre became a rallying cause for the opposition, especially the MNR, which denounced the alliance between the government and the tin barons. It deepened the radicalization of the mining unions.",
+    "ko": "1942년 12월 21일 군대가 파티뇨 회사 소유 광산 가운데 하나인 카타비에서 파업 중이던 주석 광부와 그 가족에게 발포해 많은 사람이 숨졌다. 이 학살은 야당, 특히 정부와 주석 남작들의 유착을 비판한 MNR을 결집시키는 계기가 되었다. 또한 광산 노조의 급진화를 심화했다.",
+    "zh": "1942年12月21日，军队在帕蒂尼奥公司旗下的卡塔维矿向罢工的锡矿工人及其家属开枪，造成多人死亡。这一屠杀成为反对派，尤其是谴责政府与锡业大王勾结的民族革命运动的凝聚口号，并加剧了矿业工会的激进化。",
+    "ja": "1942年12月21日、パティーニョ社の鉱山の一つカタビで、軍がストライキ中の錫鉱山労働者とその家族に発砲し、多数が死亡した。この虐殺は野党、とりわけ政府と錫男爵の癒着を糾弾したMNRの結集の旗印となり、鉱山労働組合の急進化を深めた。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "First National Indigenous Congress",
+    "ko": "제1회 전국 원주민 회의",
+    "zh": "第一届全国原住民大会",
+    "ja": "第1回全国先住民会議"
+   },
+   "description": {
+    "en": "In May 1945 the reformist military government of Gualberto Villarroel, allied with the MNR, convened the first National Indigenous Congress in La Paz, attended by representatives of highland communities. The government decreed the abolition of pongueaje, the unpaid personal service owed by hacienda workers to landlords. The measures were largely unenforced but raised Indigenous expectations that fed into the 1952 revolution.",
+    "ko": "1945년 5월 MNR과 손잡은 과우베르토 비야로엘의 개혁 성향 군사 정부는 고원 공동체 대표들이 참석한 제1회 전국 원주민 회의를 라파스에서 소집했다. 정부는 대농장 노동자가 지주에게 바쳐야 했던 무상 개인 노역 '퐁게아헤'의 폐지를 선포했다. 이 조치는 대부분 시행되지 않았지만 원주민의 기대를 높여 1952년 혁명으로 이어졌다.",
+    "zh": "1945年5月，与民族革命运动结盟的瓜尔韦托·比利亚罗埃尔改革派军政府在拉巴斯召开首届全国原住民大会，高原各社群代表出席。政府宣布废除“庞格阿赫”，即大庄园雇工须为地主无偿提供的私人劳役。这些措施大多未能落实，但提高了原住民的期望，为1952年革命积蓄了力量。",
+    "ja": "1945年5月、MNRと結んだグアルベルト・ビジャロエルの改革派軍事政権は、高原の共同体代表が参加する第1回全国先住民会議をラパスで開いた。政府はアシエンダの労働者が地主に負っていた無償の身辺労役「ポンゲアヘ」の廃止を布告した。措置の多くは実施されなかったが、先住民の期待を高め、1952年の革命へとつながった。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Lynching of President Villarroel",
+    "ko": "비야로엘 대통령 린치 살해",
+    "zh": "比利亚罗埃尔总统遭私刑处死",
+    "ja": "ビジャロエル大統領のリンチ殺害"
+   },
+   "description": {
+    "en": "On 21 July 1946 a crowd of students, teachers and workers, backed by opposition parties, stormed the government palace in La Paz and killed President Gualberto Villarroel, hanging his body from a lamppost in Plaza Murillo. A conservative restoration followed, known as the sexenio (1946-52). The MNR, driven into opposition, prepared for an armed seizure of power.",
+    "ko": "1946년 7월 21일 야당의 지원을 받은 학생, 교사, 노동자 군중이 라파스의 대통령궁에 난입해 과우베르토 비야로엘 대통령을 살해하고 그 시신을 무리요 광장의 가로등에 매달았다. 이후 '섹세니오'(1946~52)로 불리는 보수 회귀기가 이어졌다. 야당으로 밀려난 MNR은 무력으로 권력을 장악할 준비를 했다.",
+    "zh": "1946年7月21日，在反对党支持下，学生、教师和工人组成的人群冲入拉巴斯总统府，杀害瓜尔韦托·比利亚罗埃尔总统，并将其遗体吊在穆里略广场的路灯柱上。随后进入被称为“六年期”（1946—1952）的保守复辟时期。被迫成为反对派的民族革命运动开始筹划以武力夺权。",
+    "ja": "1946年7月21日、野党に支持された学生、教師、労働者の群衆がラパスの大統領府に突入してグアルベルト・ビジャロエル大統領を殺害し、遺体をムリーリョ広場の街灯に吊るした。その後「セクセニオ」（1946〜52年）と呼ばれる保守派の復古期が続いた。野党に追いやられたMNRは武力による政権奪取を準備した。"
+   }
+  },
+  {
+   "year": 1952,
+   "qid": "Q4414118",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "The Bolivian National Revolution",
+    "ko": "볼리비아 국민혁명",
+    "zh": "玻利维亚国民革命",
+    "ja": "ボリビア国民革命"
+   },
+   "description": {
+    "en": "On 9-11 April 1952 an uprising led by the Nationalist Revolutionary Movement (MNR), backed by armed miners and workers, defeated the army in La Paz and installed Víctor Paz Estenssoro as president. The new government introduced universal suffrage, ending literacy requirements that had excluded most Indigenous people, and in October nationalized the mines of the three tin barons under COMIBOL. The revolution was one of 20th-century Latin America's most profound social transformations.",
+    "ko": "1952년 4월 9~11일 무장한 광부와 노동자의 지원을 받은 민족혁명운동(MNR)의 봉기가 라파스에서 군대를 격파하고 빅토르 파스 에스텐소로를 대통령으로 세웠다. 새 정부는 원주민 대다수를 배제해 온 문해 요건을 없애고 보통선거를 도입했으며, 10월에는 세 주석 남작의 광산을 COMIBOL 아래 국유화했다. 이 혁명은 20세기 라틴아메리카에서 가장 심대한 사회 변혁 가운데 하나였다.",
+    "zh": "1952年4月9日至11日，得到武装矿工和工人支持的民族革命运动发动起义，在拉巴斯击败军队，拥立维克托·帕斯·埃斯登索罗为总统。新政府实行普选，废除了将大多数原住民排除在外的识字要求，并于10月将三大锡业大王的矿山收归玻利维亚矿业公司国有。这场革命是20世纪拉丁美洲最深刻的社会变革之一。",
+    "ja": "1952年4月9〜11日、武装した鉱山労働者と労働者に支えられた民族革命運動（MNR）の蜂起がラパスで軍を破り、ビクトル・パス・エステンソロを大統領に据えた。新政府は先住民の大多数を排除していた識字要件を撤廃して普通選挙を導入し、10月には三大錫男爵の鉱山をCOMIBOLのもとに国有化した。この革命は20世紀ラテンアメリカで最も深い社会変革の一つだった。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Agrarian reform ends the hacienda system",
+    "ko": "농지 개혁과 대농장 제도의 종식",
+    "zh": "土地改革终结大庄园制",
+    "ja": "農地改革とアシエンダ制の終焉"
+   },
+   "description": {
+    "en": "On 2 August 1953, at Ucureña in the Cochabamba valley where peasant unions had already begun seizing estates, the revolutionary government decreed a sweeping agrarian reform. It abolished servile labour and redistributed hacienda land in the highlands and valleys to the families who worked it. The reform transformed rural society and created a durable alliance between peasants and the state.",
+    "ko": "1953년 8월 2일 농민 조합이 이미 농장을 점거하기 시작한 코차밤바 계곡의 우쿠레냐에서 혁명 정부는 대대적인 농지 개혁을 선포했다. 개혁은 예속 노동을 폐지하고 고원과 계곡의 대농장 토지를 이를 경작하던 가족들에게 재분배했다. 이 개혁은 농촌 사회를 변화시키고 농민과 국가 사이의 지속적인 동맹을 만들어 냈다.",
+    "zh": "1953年8月2日，在农民工会已开始占领庄园的科恰班巴河谷乌库雷尼亚，革命政府颁布了彻底的土地改革法令。改革废除了依附性劳役，将高原和河谷的大庄园土地重新分配给耕种它们的家庭。这一改革改变了农村社会，并在农民与国家之间建立了持久的联盟。",
+    "ja": "1953年8月2日、農民組合がすでに農園の占拠を始めていたコチャバンバ渓谷のウクレニャで、革命政府は徹底した農地改革を布告した。改革は隷属的労働を廃止し、高原と谷のアシエンダの土地をそれを耕していた家族に再分配した。この改革は農村社会を一変させ、農民と国家の間に持続的な同盟を生んだ。"
+   }
+  },
+  {
+   "year": 1956,
+   "qid": "Q4939667",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First elections under universal suffrage",
+    "ko": "보통선거에 의한 첫 선거",
+    "zh": "首次普选",
+    "ja": "普通選挙による初の選挙"
+   },
+   "description": {
+    "en": "The 1956 general election was the first in which all adult Bolivians, including the Indigenous majority and women, could vote, multiplying the electorate several times over. The MNR's Hernán Siles Zuazo won the presidency. His government had to confront runaway inflation with a US-backed stabilization plan that strained relations with the miners' unions.",
+    "ko": "1956년 총선은 원주민 다수와 여성을 포함한 모든 성인 볼리비아인이 투표할 수 있었던 첫 선거로, 유권자 수가 몇 배로 늘었다. MNR의 에르난 실레스 수아소가 대통령에 당선되었다. 그의 정부는 치솟는 인플레이션에 맞서 미국이 지원한 안정화 계획을 추진해야 했고, 이는 광산 노조와의 관계를 긴장시켰다.",
+    "zh": "1956年大选是包括原住民多数和女性在内的所有成年玻利维亚人都能投票的首次选举，选民人数增加了数倍。民族革命运动的埃尔南·西莱斯·苏亚索当选总统。他的政府不得不以美国支持的稳定计划应对失控的通货膨胀，这使其与矿工工会的关系趋于紧张。",
+    "ja": "1956年の総選挙は、先住民の多数派と女性を含むすべての成人ボリビア人が投票できた初めての選挙で、有権者数は数倍に増えた。MNRのエルナン・シレス・スアソが大統領に当選した。その政府は米国が支援する安定化計画で暴走するインフレに対処せねばならず、鉱山労働組合との関係が緊張した。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": "Q28454110",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Military coup overthrows the MNR",
+    "ko": "군사 쿠데타로 MNR 정권 붕괴",
+    "zh": "军事政变推翻民族革命运动",
+    "ja": "軍事クーデターによるMNR政権の崩壊"
+   },
+   "description": {
+    "en": "In November 1964, shortly after Víctor Paz Estenssoro began a controversial third term, his vice-president General René Barrientos and army commander Alfredo Ovando overthrew him. The coup ended twelve years of MNR rule and opened eighteen years of mostly military government. Barrientos built a 'military-peasant pact' with rural communities while confronting the mining unions.",
+    "ko": "1964년 11월 빅토르 파스 에스텐소로가 논란 속에 세 번째 임기를 시작한 직후, 부통령 레네 바리엔토스 장군과 육군 사령관 알프레도 오반도가 그를 축출했다. 쿠데타로 12년에 걸친 MNR 통치가 끝나고 대부분 군사 정부가 지배한 18년이 시작되었다. 바리엔토스는 농촌 공동체와 '군·농 협약'을 맺는 한편 광산 노조와 대립했다.",
+    "zh": "1964年11月，维克托·帕斯·埃斯登索罗开始备受争议的第三个任期后不久，副总统雷内·巴里恩托斯将军与陆军司令阿尔弗雷多·奥万多将其推翻。政变结束了民族革命运动十二年的统治，开启了以军政府为主的十八年。巴里恩托斯与农村社群结成“军农协定”，同时与矿业工会对抗。",
+    "ja": "1964年11月、ビクトル・パス・エステンソロが物議を醸した3期目を始めて間もなく、副大統領のレネ・バリエントス将軍と陸軍司令官アルフレド・オバンドが彼を追放した。クーデターにより12年にわたるMNR政権は終わり、主に軍事政権が支配する18年が始まった。バリエントスは農村共同体と「軍農協約」を結ぶ一方、鉱山労働組合と対立した。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": "Q6005192",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "San Juan massacre in the mining camps",
+    "ko": "광산촌의 산후안 학살",
+    "zh": "矿区的圣胡安大屠杀",
+    "ja": "鉱山町のサン・フアンの虐殺"
+   },
+   "description": {
+    "en": "On the night of 23-24 June 1967, during the traditional San Juan festivities, army troops attacked the mining camps of Siglo XX and Catavi, where unions had voiced support for the guerrilla then operating in the country. Many miners and family members were killed. The massacre became a lasting symbol of state violence against Bolivia's mining communities.",
+    "ko": "1967년 6월 23~24일 밤 전통적인 산후안 축제 중에 군대가 시글로 XX와 카타비 광산촌을 공격했는데, 이곳 노조들은 당시 국내에서 활동하던 게릴라에 대한 지지를 표명한 바 있었다. 많은 광부와 가족이 살해되었다. 이 학살은 볼리비아 광산 공동체에 대한 국가 폭력의 지속적인 상징이 되었다.",
+    "zh": "1967年6月23日至24日夜，在传统的圣胡安节庆期间，军队袭击了20世纪矿和卡塔维矿的矿工营地，那里的工会曾表示支持当时在国内活动的游击队。许多矿工及其家属遇害。这一屠杀成为国家暴力针对玻利维亚矿业社群的持久象征。",
+    "ja": "1967年6月23〜24日の夜、伝統的なサン・フアンの祭りの最中に、軍がシグロ・ベインテとカタビの鉱山町を襲撃した。そこの労働組合は当時国内で活動していたゲリラへの支持を表明していた。多くの鉱山労働者とその家族が殺害された。この虐殺はボリビアの鉱山共同体に対する国家暴力の象徴であり続けている。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Che Guevara killed in Bolivia",
+    "ko": "체 게바라, 볼리비아에서 사망",
+    "zh": "切·格瓦拉在玻利维亚遇害",
+    "ja": "チェ・ゲバラ、ボリビアで死亡"
+   },
+   "description": {
+    "en": "Ernesto 'Che' Guevara led a small guerrilla force in south-eastern Bolivia from late 1966, hoping to spark revolution across South America, but failed to win support from local peasants or the Bolivian Communist Party. Bolivian army rangers, trained with US assistance, captured him in the Quebrada del Yuro on 8 October 1967, and he was executed the next day at La Higuera. His death turned him into a global icon.",
+    "ko": "에르네스토 '체' 게바라는 남아메리카 전역에 혁명을 일으키려 1966년 말부터 볼리비아 남동부에서 소규모 게릴라를 이끌었으나, 현지 농민이나 볼리비아 공산당의 지지를 얻지 못했다. 미국의 지원으로 훈련받은 볼리비아군 레인저 부대가 1967년 10월 8일 유로 협곡에서 그를 생포했고, 그는 이튿날 라이게라에서 처형되었다. 그의 죽음은 그를 세계적인 아이콘으로 만들었다.",
+    "zh": "埃内斯托·“切”·格瓦拉自1966年底起在玻利维亚东南部领导一支小规模游击队，希望在整个南美点燃革命，却未能赢得当地农民和玻利维亚共产党的支持。经美国协助训练的玻利维亚陆军突击队于1967年10月8日在尤罗峡谷将其俘获，次日他在拉伊格拉被处决。他的死使他成为全球性的偶像。",
+    "ja": "エルネスト・「チェ」・ゲバラは南米全体に革命を起こそうと1966年末からボリビア南東部で小規模なゲリラを率いたが、地元農民やボリビア共産党の支持を得られなかった。米国の支援で訓練されたボリビア軍レンジャー部隊が1967年10月8日にユロ渓谷で彼を捕らえ、翌日ラ・イゲラで処刑した。その死は彼を世界的なアイコンにした。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": "Q123529158",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Ovando seizes power and nationalizes Gulf Oil",
+    "ko": "오반도의 집권과 걸프 오일 국유화",
+    "zh": "奥万多掌权并将海湾石油收归国有",
+    "ja": "オバンドの政権掌握とガルフ・オイル国有化"
+   },
+   "description": {
+    "en": "After President Barrientos died in a helicopter crash in April 1969, General Alfredo Ovando seized power in September with a nationalist programme. In October 1969 his government nationalized the holdings of the US-owned Gulf Oil Company. Ovando was soon displaced by the leftist general Juan José Torres, whose brief rule (1970-71) saw the convening of a radical Popular Assembly.",
+    "ko": "1969년 4월 바리엔토스 대통령이 헬리콥터 사고로 사망한 뒤, 알프레도 오반도 장군이 9월 민족주의 강령을 내걸고 권력을 장악했다. 1969년 10월 그의 정부는 미국계 걸프 오일의 자산을 국유화했다. 오반도는 곧 좌파 장군 후안 호세 토레스에게 밀려났고, 토레스의 짧은 집권기(1970~71)에는 급진적인 인민의회가 소집되었다.",
+    "zh": "1969年4月巴里恩托斯总统死于直升机失事后，阿尔弗雷多·奥万多将军于9月以民族主义纲领夺取政权。1969年10月，其政府将美资海湾石油公司的资产收归国有。奥万多不久被左翼将军胡安·何塞·托雷斯取代，托雷斯短暂执政期间（1970—1971）召开了激进的人民议会。",
+    "ja": "1969年4月にバリエントス大統領がヘリコプター事故で死亡すると、アルフレド・オバンド将軍が9月に民族主義的な綱領を掲げて政権を握った。1969年10月、その政府は米国系ガルフ・オイル社の資産を国有化した。オバンドはまもなく左派のフアン・ホセ・トーレス将軍に取って代わられ、トーレスの短い政権期（1970〜71年）には急進的な人民議会が招集された。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": "Q116880048",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Banzer's coup",
+    "ko": "반세르의 쿠데타",
+    "zh": "班塞尔政变",
+    "ja": "バンセルのクーデター"
+   },
+   "description": {
+    "en": "In August 1971 Colonel Hugo Banzer, backed by the MNR, the right-wing Bolivian Socialist Falange and business groups in Santa Cruz, overthrew Torres after fighting in La Paz. Banzer ruled until 1978, banning parties and unions from 1974 and repressing opponents. High commodity prices and foreign loans fuelled growth, especially in Santa Cruz, but also left a heavy debt.",
+    "ko": "1971년 8월 우고 반세르 대령은 MNR, 우익 볼리비아 사회주의 팔랑헤, 산타크루스 재계의 지원을 받아 라파스에서의 전투 끝에 토레스를 축출했다. 반세르는 1978년까지 통치하며 1974년부터 정당과 노조를 금지하고 반대파를 탄압했다. 높은 원자재 가격과 해외 차관은 특히 산타크루스에서 성장을 이끌었지만 막대한 부채도 남겼다.",
+    "zh": "1971年8月，在民族革命运动、右翼玻利维亚社会主义长枪党和圣克鲁斯工商界支持下，乌戈·班塞尔上校经过拉巴斯的战斗推翻了托雷斯。班塞尔统治至1978年，自1974年起取缔政党和工会，镇压反对派。高企的大宗商品价格和外国贷款推动了经济增长，尤其是在圣克鲁斯，但也留下了沉重的债务。",
+    "ja": "1971年8月、ウゴ・バンセル大佐はMNR、右翼のボリビア社会主義ファランヘ党、サンタ・クルスの財界の支援を受け、ラパスでの戦闘の末にトーレスを追放した。バンセルは1978年まで統治し、1974年からは政党と労働組合を禁止して反対派を弾圧した。高い一次産品価格と外国からの借款は特にサンタ・クルスで成長をもたらしたが、重い債務も残した。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Tolata massacre ends the military-peasant pact",
+    "ko": "톨라타 학살과 군·농 협약의 붕괴",
+    "zh": "托拉塔屠杀与军农协定的破裂",
+    "ja": "トラタの虐殺と軍農協約の崩壊"
+   },
+   "description": {
+    "en": "In January 1974 peasants in the Cochabamba valley blocked roads to protest price increases decreed by the Banzer government, and troops fired on them at Tolata and nearby localities, killing many. The massacre shattered the military-peasant pact established under Barrientos. It contributed to the rise of an independent peasant movement, the Katarista current, inspired by Túpac Katari.",
+    "ko": "1974년 1월 코차밤바 계곡의 농민들이 반세르 정부의 가격 인상에 항의해 도로를 봉쇄하자, 군대가 톨라타와 인근 지역에서 그들에게 발포해 많은 사람이 숨졌다. 이 학살은 바리엔토스 시기에 맺어진 군·농 협약을 무너뜨렸다. 이는 투팍 카타리에게서 영감을 얻은 독자적 농민 운동인 '카타리스타' 흐름이 부상하는 데 기여했다.",
+    "zh": "1974年1月，科恰班巴河谷的农民封锁道路，抗议班塞尔政府宣布的涨价措施，军队在托拉塔及附近地区向他们开枪，造成多人死亡。这次屠杀使巴里恩托斯时期建立的军农协定破裂，并促成了受图帕克·卡塔里启发的独立农民运动——“卡塔里主义”潮流的兴起。",
+    "ja": "1974年1月、コチャバンバ渓谷の農民がバンセル政権の値上げに抗議して道路を封鎖すると、軍はトラタとその周辺で彼らに発砲し、多数が死亡した。この虐殺はバリエントス期に結ばれた軍農協約を崩壊させた。それはトゥパク・カタリに着想を得た自立的な農民運動「カタリスタ」潮流の台頭につながった。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q5657104",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Charaña talks on access to the sea",
+    "ko": "차라냐 회담과 바다 출구 협상",
+    "zh": "查拉尼亚出海口谈判",
+    "ja": "チャラニャ会談と海への出口交渉"
+   },
+   "description": {
+    "en": "In February 1975 Bolivian dictator Hugo Banzer and Chilean dictator Augusto Pinochet met at Charaña on the border and restored diplomatic relations, opening negotiations on a Bolivian corridor to the Pacific. Chile offered a strip of land north of Arica in exchange for territory, but Peru, whose consent was required under a 1929 treaty, proposed a different solution. The talks collapsed and Bolivia broke relations with Chile again in 1978.",
+    "ko": "1975년 2월 볼리비아의 독재자 우고 반세르와 칠레의 독재자 아우구스토 피노체트는 국경의 차라냐에서 만나 외교 관계를 복원하고 볼리비아의 태평양 회랑에 관한 협상을 시작했다. 칠레는 영토 교환을 조건으로 아리카 북쪽의 띠 모양 땅을 제안했으나, 1929년 조약에 따라 동의가 필요했던 페루가 다른 해법을 제시했다. 협상은 결렬되었고 볼리비아는 1978년 칠레와 다시 단교했다.",
+    "zh": "1975年2月，玻利维亚独裁者乌戈·班塞尔与智利独裁者奥古斯托·皮诺切特在边境的查拉尼亚会晤，恢复外交关系，并开始就玻利维亚通往太平洋的走廊进行谈判。智利提出以领土交换为条件，让出阿里卡以北的一条狭长地带，但根据1929年条约须征得其同意的秘鲁提出了另一方案。谈判破裂，玻利维亚于1978年再次与智利断交。",
+    "ja": "1975年2月、ボリビアの独裁者ウゴ・バンセルとチリの独裁者アウグスト・ピノチェトは国境のチャラニャで会談し、外交関係を回復して、ボリビアの太平洋への回廊に関する交渉を始めた。チリは領土の交換を条件にアリカ北方の帯状の土地を提案したが、1929年の条約により同意が必要とされたペルーが別の案を示した。交渉は決裂し、ボリビアは1978年に再びチリと断交した。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": "Q129259431",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Miners' wives' hunger strike forces elections",
+    "ko": "광부 아내들의 단식 투쟁과 선거 실시",
+    "zh": "矿工妻子绝食迫使举行选举",
+    "ja": "鉱山労働者の妻たちのハンストと選挙実施"
+   },
+   "description": {
+    "en": "In late December 1977 four women from the mining camps, including Domitila Barrios de Chungara, began a hunger strike in La Paz demanding amnesty for political prisoners and exiles. Thousands joined, and in January 1978 Banzer conceded an amnesty and elections. The flawed July 1978 elections led to a coup and a series of unstable governments.",
+    "ko": "1977년 12월 말 도미틸라 바리오스 데 충가라를 비롯한 광산촌 여성 4명이 정치범과 망명자에 대한 사면을 요구하며 라파스에서 단식 투쟁을 시작했다. 수천 명이 동참했고 1978년 1월 반세르는 사면과 선거를 수용했다. 부정으로 얼룩진 1978년 7월 선거는 쿠데타로 이어졌고 불안정한 정부들이 잇따랐다.",
+    "zh": "1977年12月底，包括多米蒂拉·巴里奥斯·德春加拉在内的四名矿区妇女在拉巴斯开始绝食，要求赦免政治犯和流亡者。数千人加入，1978年1月班塞尔被迫同意大赦并举行选举。舞弊严重的1978年7月选举引发政变，随后一系列不稳定的政府相继上台。",
+    "ja": "1977年12月末、ドミティラ・バリオス・デ・チュンガラを含む鉱山町の女性4人が、政治犯と亡命者の恩赦を求めてラパスでハンガーストライキを始めた。数千人が加わり、1978年1月にバンセルは恩赦と選挙を受け入れた。不正にまみれた1978年7月の選挙はクーデターを招き、不安定な政権が相次いだ。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q4729364",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "All Saints' massacre and Bolivia's first woman president",
+    "ko": "만성절 학살과 첫 여성 대통령",
+    "zh": "万圣节屠杀与首位女总统",
+    "ja": "諸聖人の日の虐殺と初の女性大統領"
+   },
+   "description": {
+    "en": "On 1 November 1979 Colonel Alberto Natusch Busch seized power from the interim civilian government; mass resistance and a general strike were met with killings in La Paz. After sixteen days the coup collapsed, and Congress chose Lidia Gueiler Tejada, the president of the Chamber of Deputies, as interim head of state. She was Bolivia's first woman president.",
+    "ko": "1979년 11월 1일 알베르토 나투스 부시 대령이 과도 문민 정부에게서 권력을 빼앗았고, 대규모 저항과 총파업은 라파스에서 살육으로 진압되었다. 16일 만에 쿠데타는 실패했고, 의회는 하원 의장 리디아 게일레르 테하다를 임시 국가원수로 선출했다. 그녀는 볼리비아 최초의 여성 대통령이었다.",
+    "zh": "1979年11月1日，阿尔贝托·纳图施·布施上校从临时文官政府手中夺权；大规模抵抗和总罢工在拉巴斯遭到血腥镇压。十六天后政变失败，国会推选众议院议长莉迪亚·盖莱尔·特哈达为临时国家元首。她是玻利维亚首位女总统。",
+    "ja": "1979年11月1日、アルベルト・ナトゥシュ・ブッシュ大佐が暫定文民政権から権力を奪い、大規模な抵抗とゼネストはラパスでの殺戮で鎮圧された。16日後にクーデターは失敗し、議会は下院議長リディア・ゲイレル・テハダを暫定国家元首に選んだ。彼女はボリビア初の女性大統領だった。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "García Meza's 'cocaine coup'",
+    "ko": "가르시아 메사의 '코카인 쿠데타'",
+    "zh": "加西亚·梅萨的“可卡因政变”",
+    "ja": "ガルシア・メサの「コカイン・クーデター」"
+   },
+   "description": {
+    "en": "On 17 July 1980, weeks after elections won by Hernán Siles Zuazo, General Luis García Meza seized power to block his inauguration. Paramilitaries attacked the headquarters of the Bolivian Workers' Center, and Socialist leader Marcelo Quiroga Santa Cruz was killed. Because of the regime's links to cocaine traffickers and its brutality, it was isolated internationally and fell in 1981; García Meza was later tried and imprisoned.",
+    "ko": "1980년 7월 17일 에르난 실레스 수아소가 승리한 선거 몇 주 뒤, 루이스 가르시아 메사 장군이 그의 취임을 막기 위해 권력을 장악했다. 준군사 조직이 볼리비아 노동자 중앙회 본부를 습격했고 사회주의 지도자 마르셀로 키로가 산타크루스가 살해되었다. 코카인 밀매업자와의 유착과 잔혹성 때문에 정권은 국제적으로 고립되어 1981년 무너졌고, 가르시아 메사는 훗날 재판을 받아 수감되었다.",
+    "zh": "1980年7月17日，在埃尔南·西莱斯·苏亚索赢得选举数周后，路易斯·加西亚·梅萨将军夺取政权以阻止其就职。准军事人员袭击了玻利维亚工人中心总部，社会党领导人马塞洛·基罗加·圣克鲁斯遇害。由于该政权与可卡因贩子勾结且手段残暴，在国际上陷入孤立，于1981年垮台；加西亚·梅萨后来受审入狱。",
+    "ja": "1980年7月17日、エルナン・シレス・スアソが勝利した選挙の数週間後、ルイス・ガルシア・メサ将軍が彼の就任を阻むため政権を奪った。準軍事組織がボリビア労働者センターの本部を襲撃し、社会党指導者マルセロ・キロガ・サンタ・クルスが殺害された。コカイン密売業者との癒着と残虐さのため政権は国際的に孤立して1981年に崩壊し、ガルシア・メサはのちに裁かれ投獄された。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Return to civilian democratic rule",
+    "ko": "문민 민주 통치로의 복귀",
+    "zh": "恢复文官民主统治",
+    "ja": "文民による民主統治への復帰"
+   },
+   "description": {
+    "en": "After nearly two decades of coups and military regimes, the armed forces handed power back in October 1982 to Hernán Siles Zuazo, winner of the 1980 election. His government faced a collapsing economy, debt crisis and soaring inflation. Civilian rule has continued since, despite recurring crises.",
+    "ko": "20년 가까운 쿠데타와 군사 정권을 거친 뒤, 군부는 1982년 10월 1980년 선거의 승자 에르난 실레스 수아소에게 권력을 돌려주었다. 그의 정부는 붕괴하는 경제, 외채 위기, 치솟는 인플레이션에 직면했다. 이후 거듭된 위기에도 문민 통치는 지속되고 있다.",
+    "zh": "经历近二十年的政变和军政权之后，军方于1982年10月将权力交还给1980年选举的获胜者埃尔南·西莱斯·苏亚索。他的政府面临经济崩溃、债务危机和飞涨的通货膨胀。此后尽管危机不断，文官统治一直延续至今。",
+    "ja": "20年近いクーデターと軍事政権ののち、軍は1982年10月、1980年の選挙の勝者エルナン・シレス・スアソに権力を返還した。その政府は崩壊する経済、債務危機、急騰するインフレに直面した。以来、危機が繰り返されながらも文民統治は続いている。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": "Q4939672",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Hyperinflation and the New Economic Policy",
+    "ko": "초인플레이션과 신경제정책",
+    "zh": "恶性通胀与新经济政策",
+    "ja": "ハイパーインフレと新経済政策"
+   },
+   "description": {
+    "en": "By 1985 Bolivia suffered one of the worst hyperinflations in modern history, with annual inflation reaching the thousands of percent. After the 1985 election Víctor Paz Estenssoro returned to the presidency and in August issued Supreme Decree 21060, a drastic stabilization programme that floated the currency, cut public spending and liberalized the economy. Inflation was halted within months, at a heavy social cost.",
+    "ko": "1985년 볼리비아는 연간 물가 상승률이 수천 퍼센트에 이르는 현대사 최악의 초인플레이션 가운데 하나를 겪었다. 1985년 선거 뒤 대통령에 복귀한 빅토르 파스 에스텐소로는 8월 최고 법령 21060호를 발표해 환율을 변동제로 바꾸고 공공 지출을 삭감하며 경제를 자유화하는 급진적 안정화 계획을 시행했다. 인플레이션은 몇 달 만에 잡혔지만 사회적 대가는 컸다.",
+    "zh": "到1985年，玻利维亚遭遇了现代史上最严重的恶性通胀之一，年通胀率达到数千个百分点。1985年选举后重返总统职位的维克托·帕斯·埃斯登索罗于8月颁布第21060号最高法令，实施激进的稳定计划：货币自由浮动、削减公共开支并推行经济自由化。通胀在数月内得到遏制，但社会代价沉重。",
+    "ja": "1985年までにボリビアは、年間インフレ率が数千パーセントに達する近代史上最悪級のハイパーインフレに見舞われた。1985年の選挙後に大統領に返り咲いたビクトル・パス・エステンソロは8月に最高令21060号を発し、通貨の変動相場制への移行、公共支出の削減、経済自由化を柱とする急進的な安定化計画を実施した。インフレは数か月で止まったが、社会的代償は大きかった。"
+   }
+  },
+  {
+   "year": 1986,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Tin crash and the 'March for Life'",
+    "ko": "주석 가격 폭락과 '생명을 위한 행진'",
+    "zh": "锡价崩溃与“生命大游行”",
+    "ja": "錫価格暴落と「生命のための行進」"
+   },
+   "description": {
+    "en": "The collapse of the international tin market in late 1985 led the government to close most COMIBOL mines, and tens of thousands of miners lost their jobs. In August 1986 miners and their families set out on a 'March for Life' toward La Paz, but it was halted by the army at Calamarca. Many former miners moved to El Alto or to the coca-growing Chapare, transforming the country's social map.",
+    "ko": "1985년 말 국제 주석 시장이 붕괴하자 정부는 COMIBOL 광산 대부분을 폐쇄했고 수만 명의 광부가 일자리를 잃었다. 1986년 8월 광부와 가족들은 라파스를 향해 '생명을 위한 행진'에 나섰으나 칼라마르카에서 군대에 의해 저지되었다. 많은 전직 광부가 엘알토나 코카 재배지인 차파레로 이주하면서 나라의 사회 지도가 바뀌었다.",
+    "zh": "1985年底国际锡市场崩溃，政府关闭了玻利维亚矿业公司的大部分矿山，数万名矿工失业。1986年8月，矿工及其家属向拉巴斯发起“生命大游行”，却在卡拉马尔卡被军队拦阻。许多前矿工迁往埃尔阿尔托或古柯种植区查帕雷，改变了国家的社会版图。",
+    "ja": "1985年末に国際錫市場が崩壊すると、政府はCOMIBOLの鉱山の大半を閉鎖し、数万人の鉱山労働者が職を失った。1986年8月、労働者とその家族はラパスに向けて「生命のための行進」を始めたが、カラマルカで軍に阻まれた。多くの元鉱山労働者がエル・アルトやコカ栽培地チャパレに移り住み、国の社会地図は塗り替えられた。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "March for Territory and Dignity",
+    "ko": "영토와 존엄을 위한 행진",
+    "zh": "“领土与尊严大游行”",
+    "ja": "領土と尊厳のための行進"
+   },
+   "description": {
+    "en": "In August-September 1990 several hundred members of the lowland Indigenous peoples of the Beni walked from Trinidad across the Andes to La Paz to demand recognition of their territories. The march won the creation of the first Indigenous territories by decree and brought the peoples of the east into national politics. It foreshadowed the rise of Indigenous movements across Bolivia.",
+    "ko": "1990년 8~9월 베니 저지대 원주민 수백 명이 트리니다드에서 안데스를 넘어 라파스까지 걸으며 자신들의 영토를 인정하라고 요구했다. 이 행진으로 법령에 의한 최초의 원주민 영토가 만들어졌고 동부 민족들이 국가 정치 무대에 등장했다. 이는 볼리비아 전역에서 원주민 운동이 부상할 것을 예고했다.",
+    "zh": "1990年8月至9月，数百名贝尼低地原住民从特立尼达出发，翻越安第斯山脉步行至拉巴斯，要求承认其领土。此次游行促成了以法令设立的首批原住民领地，使东部各民族登上国家政治舞台。它预示了原住民运动在玻利维亚全国的兴起。",
+    "ja": "1990年8〜9月、ベニの低地先住民数百人がトリニダからアンデスを越えてラパスまで歩き、自らの領土の承認を求めた。この行進により政令で最初の先住民領域が設けられ、東部の諸民族が国政の舞台に登場した。それはボリビア全土での先住民運動の台頭を予告するものだった。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Popular Participation and a multiethnic constitution",
+    "ko": "민중 참여법과 다민족 헌법 개정",
+    "zh": "大众参与法与多民族宪法修订",
+    "ja": "住民参加法と多民族的憲法改正"
+   },
+   "description": {
+    "en": "Under President Gonzalo Sánchez de Lozada, whose vice-president Víctor Hugo Cárdenas was the first Aymara to hold that office, Bolivia passed the Law of Popular Participation in 1994. It created hundreds of municipalities with a share of national revenue, giving rural and Indigenous communities local political power for the first time. A constitutional reform the same year defined Bolivia as multiethnic and pluricultural.",
+    "ko": "아이마라인으로는 처음 부통령에 오른 빅토르 우고 카르데나스와 함께한 곤살로 산체스 데 로사다 대통령 아래, 볼리비아는 1994년 민중 참여법을 제정했다. 이 법은 국가 세입의 일부를 배분받는 수백 개의 기초 자치단체를 만들어 농촌과 원주민 공동체에 처음으로 지역 정치 권력을 부여했다. 같은 해 헌법 개정은 볼리비아를 다민족·다문화 국가로 규정했다.",
+    "zh": "在冈萨洛·桑切斯·德洛萨达总统任内（其副总统维克托·乌戈·卡德纳斯是首位担任此职的艾马拉人），玻利维亚于1994年通过《大众参与法》。该法设立了数百个分享国家财政收入的市镇，首次赋予农村和原住民社群地方政治权力。同年的宪法改革将玻利维亚界定为多民族、多文化国家。",
+    "ja": "アイマラ人として初めて副大統領に就いたビクトル・ウゴ・カルデナスを擁するゴンサロ・サンチェス・デ・ロサダ大統領のもとで、ボリビアは1994年に住民参加法を制定した。同法は国家歳入の一部を配分される数百の市を創設し、農村と先住民の共同体に初めて地方の政治権力を与えた。同年の憲法改正はボリビアを多民族・多文化国家と規定した。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": "Q5943238",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Aiquile earthquake",
+    "ko": "아이킬레 지진",
+    "zh": "艾基莱地震",
+    "ja": "アイキレ地震"
+   },
+   "description": {
+    "en": "On 22 May 1998 a strong earthquake struck the area of Aiquile and Totora in Cochabamba department, destroying much of these colonial towns built of adobe. Dozens of people were killed and thousands left homeless. It was one of the deadliest earthquakes in Bolivia's modern history.",
+    "ko": "1998년 5월 22일 코차밤바주의 아이킬레와 토토라 일대에 강한 지진이 일어나, 흙벽돌로 지어진 이 식민지 시대 마을들의 상당 부분이 파괴되었다. 수십 명이 숨지고 수천 명이 집을 잃었다. 이는 볼리비아 현대사에서 가장 인명 피해가 컸던 지진 가운데 하나였다.",
+    "zh": "1998年5月22日，科恰班巴省艾基莱和托托拉一带发生强烈地震，这些以土坯建造的殖民时期城镇大部分被毁。数十人遇难，数千人无家可归。这是玻利维亚现代史上伤亡最严重的地震之一。",
+    "ja": "1998年5月22日、コチャバンバ県のアイキレとトトラ一帯を強い地震が襲い、日干し煉瓦で造られたこれら植民地時代の町の多くが破壊された。数十人が死亡し、数千人が家を失った。ボリビア近代史で最も死者の多い地震の一つである。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Cochabamba Water War",
+    "ko": "코차밤바 물 전쟁",
+    "zh": "科恰班巴“水战争”",
+    "ja": "コチャバンバ水戦争"
+   },
+   "description": {
+    "en": "After Cochabamba's water system was privatized to a consortium led by the US firm Bechtel, sharp rate rises provoked a revolt by a coalition of farmers, workers and residents. Mass protests and clashes in April 2000 forced the government to cancel the contract. The 'Water War' became a global symbol of resistance to privatization and launched a new wave of social mobilization in Bolivia.",
+    "ko": "코차밤바의 상수도가 미국 기업 벡텔이 이끄는 컨소시엄에 민영화된 뒤 요금이 급등하자, 농민, 노동자, 주민 연합이 들고일어났다. 2000년 4월의 대규모 시위와 충돌로 정부는 계약을 취소할 수밖에 없었다. '물 전쟁'은 민영화에 대한 저항의 세계적 상징이 되었고 볼리비아에서 새로운 사회 운동의 물결을 일으켰다.",
+    "zh": "科恰班巴的供水系统被私有化给以美国柏克德公司为首的财团后，水价急剧上涨，引发农民、工人和居民联盟的反抗。2000年4月的大规模抗议和冲突迫使政府取消合同。“水战争”成为全球抵制私有化的象征，并在玻利维亚掀起新一轮社会动员浪潮。",
+    "ja": "コチャバンバの水道事業が米国企業ベクテル主導のコンソーシアムに民営化され料金が急騰すると、農民、労働者、住民の連合が立ち上がった。2000年4月の大規模な抗議と衝突により、政府は契約を破棄せざるを得なくなった。「水戦争」は民営化への抵抗の世界的象徴となり、ボリビアに新たな社会運動の波を起こした。"
+   }
+  },
+  {
+   "year": 2003,
+   "qid": "Q1877202",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Gas War topples Sánchez de Lozada",
+    "ko": "가스 전쟁과 산체스 데 로사다의 퇴진",
+    "zh": "“天然气战争”迫使桑切斯·德洛萨达下台",
+    "ja": "ガス戦争とサンチェス・デ・ロサダの退陣"
+   },
+   "description": {
+    "en": "In September-October 2003 protests against a plan to export natural gas through a Chilean port, led by residents of El Alto, Aymara peasants and unions, paralysed La Paz. Security forces killed dozens of protesters, mostly in El Alto. President Gonzalo Sánchez de Lozada resigned on 17 October and fled to the United States, and Vice-President Carlos Mesa took over.",
+    "ko": "2003년 9~10월 칠레 항구를 통한 천연가스 수출 계획에 반대하는 엘알토 주민, 아이마라 농민, 노조의 시위가 라파스를 마비시켰다. 보안군은 주로 엘알토에서 수십 명의 시위대를 살해했다. 곤살로 산체스 데 로사다 대통령은 10월 17일 사임하고 미국으로 도피했으며 카를로스 메사 부통령이 뒤를 이었다.",
+    "zh": "2003年9月至10月，由埃尔阿尔托居民、艾马拉农民和工会领导的反对经智利港口出口天然气计划的抗议使拉巴斯陷入瘫痪。安全部队打死数十名抗议者，大多在埃尔阿尔托。冈萨洛·桑切斯·德洛萨达总统于10月17日辞职并逃往美国，副总统卡洛斯·梅萨接任。",
+    "ja": "2003年9〜10月、チリの港を通じた天然ガス輸出計画に反対するエル・アルトの住民、アイマラ農民、労働組合の抗議がラパスを麻痺させた。治安部隊は主にエル・アルトで数十人の抗議者を殺害した。ゴンサロ・サンチェス・デ・ロサダ大統領は10月17日に辞任して米国へ逃れ、カルロス・メサ副大統領が後を継いだ。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": "Q3586934",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Evo Morales wins an absolute majority",
+    "ko": "에보 모랄레스, 과반 득표로 당선",
+    "zh": "埃沃·莫拉莱斯以绝对多数胜选",
+    "ja": "エボ・モラレスが過半数を得て当選"
+   },
+   "description": {
+    "en": "After Carlos Mesa resigned amid renewed protests in 2005, early elections were held in December. Evo Morales, the coca growers' leader of the Movement for Socialism (MAS), won about 54% of the vote, the first outright majority in a Bolivian presidential election since the return of democracy. The result reshaped Bolivian politics around Indigenous and popular movements.",
+    "ko": "2005년 재개된 시위 속에 카를로스 메사가 사임하자 12월 조기 선거가 치러졌다. 사회주의운동(MAS)의 코카 재배농 지도자 에보 모랄레스는 약 54%를 득표해, 민주화 이후 볼리비아 대통령 선거에서 처음으로 과반을 얻었다. 이 결과는 원주민과 민중 운동을 중심으로 볼리비아 정치를 재편했다.",
+    "zh": "2005年卡洛斯·梅萨在新一轮抗议中辞职，12月举行提前选举。争取社会主义运动的古柯种植者领袖埃沃·莫拉莱斯获得约54%的选票，这是民主恢复以来玻利维亚总统选举中首次有候选人赢得绝对多数。这一结果使玻利维亚政治围绕原住民和民众运动重新洗牌。",
+    "ja": "2005年に再燃した抗議のなかでカルロス・メサが辞任すると、12月に繰り上げ選挙が行われた。社会主義運動（MAS）のコカ栽培農民の指導者エボ・モラレスが約54%を得票し、民主化以降のボリビア大統領選で初めて過半数を獲得した。この結果は先住民と民衆の運動を軸にボリビア政治を塗り替えた。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Evo Morales becomes first Indigenous president",
+    "ko": "에보 모랄레스, 첫 원주민 대통령 취임",
+    "zh": "埃沃·莫拉莱斯就任首位原住民总统",
+    "ja": "エボ・モラレスが初の先住民大統領に就任"
+   },
+   "description": {
+    "en": "Evo Morales, an Aymara former coca growers' leader, took office on 22 January 2006 as Bolivia's first Indigenous president. On 1 May 2006 he decreed the nationalization of hydrocarbons, forcing foreign companies to renegotiate contracts and sharply raising state revenue. A Constituent Assembly was elected the same year to draft a new constitution elevating Indigenous rights.",
+    "ko": "아이마라인으로 코카 재배농 지도자 출신인 에보 모랄레스는 2006년 1월 22일 볼리비아 최초의 원주민 대통령으로 취임했다. 2006년 5월 1일 그는 탄화수소 국유화를 선포해 외국 기업들이 계약을 재협상하게 만들고 국가 수입을 크게 늘렸다. 같은 해 원주민 권리를 강화하는 새 헌법을 기초할 제헌의회가 선출되었다.",
+    "zh": "艾马拉人、前古柯种植者领袖埃沃·莫拉莱斯于2006年1月22日就任玻利维亚首位原住民总统。2006年5月1日，他颁布油气国有化法令，迫使外国公司重新谈判合同，国家收入大幅增加。同年选出制宪议会，起草提升原住民权利的新宪法。",
+    "ja": "アイマラ人で元コカ栽培農民の指導者エボ・モラレスは2006年1月22日、ボリビア初の先住民大統領に就任した。2006年5月1日には炭化水素資源の国有化を布告し、外国企業に契約の再交渉を迫って国家収入を大きく増やした。同年、先住民の権利を高める新憲法を起草する制憲議会が選出された。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q1307073",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Autonomy referendums and the recall vote",
+    "ko": "자치 주민투표와 신임 투표",
+    "zh": "自治公投与罢免公投",
+    "ja": "自治住民投票と信任投票"
+   },
+   "description": {
+    "en": "In 2008 the eastern lowland departments known as the 'Media Luna', led by Santa Cruz, held autonomy referendums not recognized by the central government, amid conflict over the draft constitution and gas revenues. In an August recall referendum Morales was ratified with about two-thirds of the vote, though opposition prefects were also confirmed. Tensions escalated into violent clashes in September.",
+    "ko": "2008년 산타크루스가 이끄는 동부 저지대의 이른바 '메디아 루나' 주들은 헌법 초안과 가스 수입을 둘러싼 갈등 속에서 중앙 정부가 인정하지 않는 자치 주민투표를 실시했다. 8월의 소환 투표에서 모랄레스는 약 3분의 2의 지지로 재신임되었으나 야당 소속 지사들도 재신임되었다. 긴장은 9월 폭력 충돌로 격화되었다.",
+    "zh": "2008年，以圣克鲁斯为首的东部低地诸省（所谓“半月地带”）在围绕宪法草案和天然气收入的冲突中，举行了未获中央政府承认的自治公投。在8月的罢免公投中，莫拉莱斯以约三分之二的选票获得信任，但反对派省长也获得确认。紧张局势于9月升级为暴力冲突。",
+    "ja": "2008年、サンタ・クルスを先頭とする東部低地のいわゆる「メディア・ルナ」諸県は、憲法草案とガス収入をめぐる対立のなかで、中央政府が認めない自治住民投票を実施した。8月のリコール投票でモラレスは約3分の2の支持を得て信任されたが、野党系の知事たちも信任された。緊張は9月に暴力的衝突へとエスカレートした。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q968376",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Porvenir massacre in Pando",
+    "ko": "판도주 포르베니르 학살",
+    "zh": "潘多省波韦尼尔屠杀",
+    "ja": "パンド県ポルベニルの虐殺"
+   },
+   "description": {
+    "en": "On 11 September 2008, at El Porvenir in the northern department of Pando, peasants marching to a meeting in support of the government were ambushed by people linked to the opposition prefecture, and many were killed. The government declared martial law in Pando and arrested the prefect, Leopoldo Fernández. The violence led to talks that produced a compromise on the new constitution.",
+    "ko": "2008년 9월 11일 북부 판도주의 엘포르베니르에서 정부 지지 집회로 행진하던 농민들이 야당 측 주정부와 연계된 이들에게 매복 공격을 받아 많은 사람이 숨졌다. 정부는 판도주에 계엄을 선포하고 레오폴도 페르난데스 지사를 체포했다. 이 폭력 사태는 새 헌법에 관한 타협을 낳은 협상으로 이어졌다.",
+    "zh": "2008年9月11日，在北部潘多省的埃尔波韦尼尔，前往参加支持政府集会的农民遭到与反对派省政府有关人员的伏击，多人遇害。政府在潘多省宣布戒严，逮捕了省长莱奥波尔多·费尔南德斯。这场暴力促成了谈判，最终就新宪法达成妥协。",
+    "ja": "2008年9月11日、北部パンド県のエル・ポルベニルで、政府支持の集会へ向かって行進していた農民が野党系県当局と結びついた者たちに待ち伏せされ、多数が死亡した。政府はパンド県に戒厳令を敷き、レオポルド・フェルナンデス知事を逮捕した。この暴力は交渉を促し、新憲法に関する妥協が生まれた。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": "Q4939596",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "New constitution creates the Plurinational State",
+    "ko": "새 헌법과 다민족국의 탄생",
+    "zh": "新宪法确立多民族国",
+    "ja": "新憲法と多民族国の誕生"
+   },
+   "description": {
+    "en": "A constitution approved by about 61% of voters in a referendum on 25 January 2009 refounded the country as the Plurinational State of Bolivia. It recognized 36 Indigenous nations, their languages as official alongside Spanish, communal land rights and Indigenous autonomy, and affirmed state control over natural resources. Morales was re-elected under it in December 2009 with about 64% of the vote.",
+    "ko": "2009년 1월 25일 국민투표에서 약 61%의 찬성으로 승인된 헌법은 나라를 '볼리비아 다민족국'으로 재건했다. 헌법은 36개 원주민 민족과 스페인어와 함께 공용어가 된 그들의 언어, 공동체 토지권과 원주민 자치를 인정하고, 천연자원에 대한 국가의 통제를 명시했다. 모랄레스는 2009년 12월 새 헌법 아래 약 64%를 득표해 재선되었다.",
+    "zh": "2009年1月25日，一部宪法在全民公投中以约61%的赞成票获得通过，将国家重建为“玻利维亚多民族国”。宪法承认36个原住民民族及其与西班牙语并列的官方语言地位、社群土地权和原住民自治，并确立国家对自然资源的控制。2009年12月，莫拉莱斯在新宪法下以约64%的得票率连任。",
+    "ja": "2009年1月25日の国民投票で約61%の賛成を得て承認された憲法は、国を「ボリビア多民族国」として再建した。36の先住民族とスペイン語と並ぶ公用語としてのその言語、共同体の土地権、先住民自治を認め、天然資源に対する国家の管理を明記した。モラレスは2009年12月、新憲法のもとで約64%を得票して再選された。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q4620534",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "TIPNIS highway protests",
+    "ko": "TIPNIS 도로 건설 반대 시위",
+    "zh": "TIPNIS公路抗议",
+    "ja": "TIPNIS道路建設反対運動"
+   },
+   "description": {
+    "en": "In 2011 lowland Indigenous peoples marched from Trinidad toward La Paz to oppose a government highway planned to cut through the Isiboro-Sécure National Park and Indigenous Territory (TIPNIS). A violent police raid on the marchers at Chaparina in September caused national outrage, and the government temporarily suspended the project. The conflict exposed tensions between the MAS government's development agenda and Indigenous territorial rights.",
+    "ko": "2011년 저지대 원주민들은 이시보로세쿠레 국립공원·원주민 영토(TIPNIS)를 관통하는 정부의 고속도로 계획에 반대해 트리니다드에서 라파스를 향해 행진했다. 9월 차파리나에서 경찰이 행진 참가자들을 폭력적으로 급습하자 전국적인 분노가 일었고, 정부는 사업을 일시 중단했다. 이 갈등은 MAS 정부의 개발 노선과 원주민 영토권 사이의 긴장을 드러냈다.",
+    "zh": "2011年，低地原住民从特立尼达向拉巴斯游行，反对政府计划修建一条穿越伊西沃罗—塞库雷国家公园及原住民领地（TIPNIS）的公路。9月警察在查帕里纳对游行者进行暴力突袭，引发全国愤慨，政府暂时搁置了该项目。这场冲突暴露了争取社会主义运动政府的发展议程与原住民领地权利之间的矛盾。",
+    "ja": "2011年、低地の先住民は、イシボロ・セクレ国立公園・先住民領域（TIPNIS）を貫く政府の幹線道路計画に反対し、トリニダからラパスへ向けて行進した。9月にチャパリナで警察が行進参加者を暴力的に急襲すると全国的な怒りが起こり、政府は計画を一時中断した。この対立はMAS政権の開発路線と先住民の領域権との緊張を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q15775977",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Mi Teleférico links La Paz and El Alto",
+    "ko": "라파스와 엘알토를 잇는 '미 텔레페리코'",
+    "zh": "“我的缆车”连接拉巴斯与埃尔阿尔托",
+    "ja": "ラパスとエル・アルトを結ぶ「ミ・テレフェリコ」"
+   },
+   "description": {
+    "en": "In 2014 the state-owned Mi Teleférico opened its first cable car lines connecting La Paz with El Alto, the fast-growing, largely Aymara city on the Altiplano above it. Later expanded into one of the world's largest urban cable car networks, it cut commuting times dramatically. The same year Morales won a third term with about 61% of the vote, amid strong economic growth.",
+    "ko": "2014년 국영 '미 텔레페리코'는 라파스와 그 위 알티플라노에 자리한, 빠르게 성장하는 아이마라 중심 도시 엘알토를 잇는 첫 케이블카 노선을 개통했다. 이후 세계 최대 규모의 도시 케이블카망 가운데 하나로 확장되어 통근 시간을 크게 줄였다. 같은 해 모랄레스는 높은 경제 성장 속에 약 61%를 득표해 3선에 성공했다.",
+    "zh": "2014年，国营的“我的缆车”开通首批缆车线路，连接拉巴斯与其上方高原上迅速发展、以艾马拉人为主的城市埃尔阿尔托。该系统后来扩展为世界上最大的城市缆车网络之一，大幅缩短了通勤时间。同年，在经济强劲增长的背景下，莫拉莱斯以约61%的得票率赢得第三个任期。",
+    "ja": "2014年、国営の「ミ・テレフェリコ」はラパスと、その上のアルティプラノにある急成長するアイマラ人中心の都市エル・アルトを結ぶ最初のロープウェイ路線を開業した。その後世界最大級の都市ロープウェイ網へと拡張され、通勤時間を大幅に短縮した。同年、モラレスは力強い経済成長のもとで約61%を得票して3期目を勝ち取った。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q21503405",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Referendum rejects another Morales term",
+    "ko": "모랄레스 연임 개헌안 부결",
+    "zh": "公投否决莫拉莱斯再次连任",
+    "ja": "モラレス再出馬の改憲案否決"
+   },
+   "description": {
+    "en": "On 21 February 2016 Bolivians narrowly voted 'No', by about 51%, to a constitutional amendment that would have allowed Morales and his vice-president to run for a fourth term. In 2017 the Plurinational Constitutional Tribunal nonetheless ruled that term limits violated his political rights, clearing the way for his candidacy. The decision deeply polarized the country.",
+    "ko": "2016년 2월 21일 볼리비아 국민은 모랄레스와 부통령의 4선 출마를 허용하는 개헌안에 약 51%의 근소한 차이로 '반대'를 택했다. 그러나 2017년 다민족 헌법재판소는 임기 제한이 그의 정치적 권리를 침해한다고 판결해 출마의 길을 열었다. 이 결정은 나라를 깊이 양극화했다.",
+    "zh": "2016年2月21日，玻利维亚人以约51%的微弱多数对允许莫拉莱斯及其副总统竞选第四个任期的修宪案投了“反对”票。然而2017年多民族宪法法院裁定任期限制侵犯了他的政治权利，为其参选扫清了道路。这一裁决使国家严重分裂。",
+    "ja": "2016年2月21日、ボリビア国民はモラレスと副大統領の4選出馬を可能にする憲法改正案に約51%の僅差で「反対」を投じた。しかし2017年、多民族憲法裁判所は任期制限が彼の政治的権利を侵害すると判断し、出馬への道を開いた。この判断は国を深く分断した。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q16491432",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "International Court rules on access to the sea",
+    "ko": "국제사법재판소의 바다 출구 판결",
+    "zh": "国际法院就出海口案作出判决",
+    "ja": "国際司法裁判所の海へのアクセス判決"
+   },
+   "description": {
+    "en": "On 1 October 2018 the International Court of Justice ruled in the case brought by Bolivia in 2013 that Chile had no legal obligation to negotiate sovereign access to the Pacific Ocean for Bolivia. The judgment was a major setback to a central goal of Bolivian foreign policy since 1879. The court encouraged both countries to continue dialogue in a spirit of good neighbourliness.",
+    "ko": "2018년 10월 1일 국제사법재판소는 볼리비아가 2013년 제기한 소송에서 칠레가 볼리비아에 태평양으로의 주권적 접근을 협상할 법적 의무가 없다고 판결했다. 이 판결은 1879년 이후 볼리비아 외교 정책의 핵심 목표에 큰 타격이었다. 재판소는 양국이 선린의 정신으로 대화를 이어 가도록 권고했다.",
+    "zh": "2018年10月1日，国际法院就玻利维亚于2013年提起的诉讼作出判决，认定智利没有就玻利维亚获得太平洋主权出海口进行谈判的法律义务。这一判决是对1879年以来玻利维亚外交政策核心目标的重大挫折。法院鼓励两国本着睦邻精神继续对话。",
+    "ja": "2018年10月1日、国際司法裁判所はボリビアが2013年に提訴した事件で、チリにはボリビアの太平洋への主権的アクセスを交渉する法的義務はないと判断した。この判決は1879年以来のボリビア外交の中心的目標にとって大きな打撃だった。裁判所は両国に善隣の精神で対話を続けるよう促した。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q66677938",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Chiquitanía wildfires",
+    "ko": "치키타니아 산불",
+    "zh": "奇基塔尼亚山火",
+    "ja": "チキタニアの森林火災"
+   },
+   "description": {
+    "en": "In August-September 2019 huge wildfires, many started by land-clearing fires, swept through the dry forests of the Chiquitanía in Santa Cruz department, part of a season of fires across the Amazon basin. Millions of hectares burned, devastating ecosystems and rural communities. Critics blamed government policies that had encouraged the expansion of agricultural land.",
+    "ko": "2019년 8~9월 상당수가 개간용 불에서 시작된 거대한 산불이 산타크루스주 치키타니아의 건조림을 휩쓸었는데, 이는 아마존 분지 전역에 걸친 산불 시즌의 일부였다. 수백만 헥타르가 불에 타 생태계와 농촌 공동체가 큰 피해를 입었다. 비판자들은 농지 확장을 장려한 정부 정책을 원인으로 지목했다.",
+    "zh": "2019年8月至9月，大规模山火席卷圣克鲁斯省奇基塔尼亚的干旱森林，其中许多由开荒烧地引发，这是整个亚马孙流域火灾季的一部分。数百万公顷土地被烧毁，生态系统和农村社区遭受重创。批评者归咎于鼓励扩大农业用地的政府政策。",
+    "ja": "2019年8〜9月、多くが開墾のための火入れから始まった大規模な森林火災が、サンタ・クルス県チキタニアの乾燥林を襲った。これはアマゾン流域全体に及んだ火災シーズンの一部だった。数百万ヘクタールが焼け、生態系と農村共同体に壊滅的な被害を与えた。批判者は農地拡大を奨励した政府の政策を原因として挙げた。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q74457482",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Disputed election and the resignation of Evo Morales",
+    "ko": "논란의 선거와 에보 모랄레스의 사임",
+    "zh": "争议选举与莫拉莱斯辞职",
+    "ja": "紛糾した選挙とエボ・モラレスの辞任"
+   },
+   "description": {
+    "en": "After the 20 October 2019 election, a halt in the quick count and an OAS audit reporting serious irregularities set off weeks of protests. On 10 November, after police mutinies and a public suggestion by the armed forces chief that he step down, Morales resigned and later went into exile in Mexico; supporters called it a coup, opponents a popular uprising against fraud. Senator Jeanine Áñez assumed the interim presidency, and security forces killed protesters at Sacaba and Senkata.",
+    "ko": "2019년 10월 20일 선거 뒤 신속 개표가 중단되고 미주기구(OAS) 감사가 심각한 부정을 지적하면서 수주간 시위가 이어졌다. 11월 10일 경찰 반란과 군 총사령관의 공개적인 사퇴 권고 끝에 모랄레스는 사임하고 이후 멕시코로 망명했으며, 지지자들은 이를 쿠데타라 불렀고 반대자들은 부정 선거에 맞선 민중 봉기라 불렀다. 상원의원 하니네 아녜스가 임시 대통령직을 맡았고, 보안군은 사카바와 센카타에서 시위대를 살해했다.",
+    "zh": "2019年10月20日选举后，快速计票中断，美洲国家组织的审计报告指出存在严重违规，引发数周抗议。11月10日，在警察哗变、武装部队司令公开建议其下台之后，莫拉莱斯辞职，随后流亡墨西哥；支持者称之为政变，反对者则称之为反对舞弊的民众起义。参议员珍妮娜·阿涅斯出任临时总统，安全部队在萨卡巴和森卡塔打死抗议者。",
+    "ja": "2019年10月20日の選挙後、速報集計の中断と米州機構（OAS）の監査による重大な不正の指摘をきっかけに数週間の抗議が続いた。11月10日、警察の反乱と軍最高司令官による公然の辞任勧告を受けてモラレスは辞任し、のちにメキシコへ亡命した。支持者はこれをクーデターと呼び、反対派は不正に対する民衆蜂起と呼んだ。上院議員ジャニネ・アニェスが暫定大統領に就き、治安部隊はサカバとセンカタで抗議者を殺害した。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q109701707",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sacaba and Senkata killings",
+    "ko": "사카바·센카타 학살",
+    "zh": "萨卡巴与森卡塔杀戮事件",
+    "ja": "サカバとセンカタの殺害事件"
+   },
+   "description": {
+    "en": "On 15 November 2019 police and soldiers fired on pro-Morales coca growers marching at Sacaba near Cochabamba, and on 19 November security forces killed protesters blockading the Senkata gas plant in El Alto. About twenty people died in the two incidents. An international group of experts later described them as massacres.",
+    "ko": "2019년 11월 15일 경찰과 군인이 코차밤바 근처 사카바에서 행진하던 모랄레스 지지 코카 재배농에게 발포했고, 11월 19일 보안군은 엘알토의 센카타 가스 시설을 봉쇄하던 시위대를 살해했다. 두 사건으로 약 20명이 숨졌다. 국제 전문가 그룹은 이후 이를 학살로 규정했다.",
+    "zh": "2019年11月15日，警察和士兵在科恰班巴附近的萨卡巴向游行的支持莫拉莱斯的古柯种植者开枪；11月19日，安全部队又在埃尔阿尔托打死封锁森卡塔天然气厂的抗议者。两起事件共造成约20人死亡。一个国际专家组后来将其定性为屠杀。",
+    "ja": "2019年11月15日、警察と兵士がコチャバンバ近郊のサカバで行進していたモラレス支持のコカ栽培農民に発砲し、11月19日には治安部隊がエル・アルトのセンカタのガス施設を封鎖していた抗議者を殺害した。二つの事件で約20人が死亡した。国際専門家グループはのちにこれらを虐殺と認定した。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q74596528",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Luis Arce elected as MAS returns to power",
+    "ko": "루이스 아르세 당선과 MAS의 재집권",
+    "zh": "路易斯·阿尔塞当选，争取社会主义运动重新执政",
+    "ja": "ルイス・アルセ当選とMASの政権復帰"
+   },
+   "description": {
+    "en": "Elections postponed by the COVID-19 pandemic were finally held on 18 October 2020. Luis Arce, Morales's former economy minister and the MAS candidate, won about 55% of the vote in the first round. His government faced the pandemic's economic fallout, a growing rift with Morales within MAS, and later a shortage of dollars and fuel.",
+    "ko": "코로나19 대유행으로 연기된 선거가 2020년 10월 18일 마침내 치러졌다. 모랄레스 정부의 경제장관 출신인 MAS 후보 루이스 아르세가 1차 투표에서 약 55%를 득표해 당선되었다. 그의 정부는 팬데믹의 경제적 여파, MAS 내 모랄레스와의 갈등 심화, 이후 달러와 연료 부족에 직면했다.",
+    "zh": "因新冠疫情推迟的选举最终于2020年10月18日举行。莫拉莱斯时期的前经济部长、争取社会主义运动候选人路易斯·阿尔塞在首轮投票中获得约55%的选票当选。他的政府面临疫情带来的经济冲击、党内与莫拉莱斯日益加深的裂痕，以及后来的美元和燃料短缺。",
+    "ja": "COVID-19の大流行で延期された選挙は2020年10月18日にようやく実施された。モラレス政権の元経済相でMAS候補のルイス・アルセが第1回投票で約55%を得て当選した。その政権はパンデミックの経済的影響、MAS内部でのモラレスとの対立の深まり、のちにはドルと燃料の不足に直面した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Failed military uprising in La Paz",
+    "ko": "라파스의 군사 반란 실패",
+    "zh": "拉巴斯未遂军事叛乱",
+    "ja": "ラパスでの軍事蜂起の失敗"
+   },
+   "description": {
+    "en": "On 26 June 2024 troops and armoured vehicles led by the recently dismissed army commander, General Juan José Zúñiga, occupied Plaza Murillo and an armoured vehicle rammed the door of the old government palace. President Arce confronted the general and named a new military command, and the troops withdrew within hours; Zúñiga was arrested. The episode occurred amid economic distress and bitter rivalry between Arce and Morales.",
+    "ko": "2024년 6월 26일 해임된 지 얼마 안 된 육군 사령관 후안 호세 수니가 장군이 이끄는 병력과 장갑차가 무리요 광장을 점거했고, 장갑차 한 대가 옛 대통령궁의 문을 들이받았다. 아르세 대통령은 장군과 대면하고 새 군 지휘부를 임명했으며, 병력은 몇 시간 만에 철수했고 수니가는 체포되었다. 이 사건은 경제난과 아르세·모랄레스 간의 격렬한 대립 속에서 일어났다.",
+    "zh": "2024年6月26日，刚被解职的陆军司令胡安·何塞·苏尼加将军率领士兵和装甲车占领穆里略广场，一辆装甲车撞击旧总统府大门。阿尔塞总统当面对质该将军并任命新的军方领导层，部队在数小时内撤离，苏尼加被捕。这一事件发生在经济困境以及阿尔塞与莫拉莱斯激烈对立的背景下。",
+    "ja": "2024年6月26日、解任されたばかりの陸軍司令官フアン・ホセ・スニガ将軍が率いる部隊と装甲車がムリーリョ広場を占拠し、装甲車1台が旧大統領府の扉に突っ込んだ。アルセ大統領は将軍と対峙して新たな軍指導部を任命し、部隊は数時間で撤収、スニガは逮捕された。この出来事は経済難とアルセ・モラレス間の激しい対立のさなかに起きた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q130280593",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Record wildfire season",
+    "ko": "기록적인 산불 시즌",
+    "zh": "创纪录的山火季",
+    "ja": "記録的な森林火災シーズン"
+   },
+   "description": {
+    "en": "In 2024 Bolivia suffered one of its worst wildfire seasons on record, fuelled by drought and land clearing, with millions of hectares burned, especially in Santa Cruz and Beni. Smoke blanketed cities for weeks, closing schools and airports, and the government declared a national disaster. The fires renewed debate over deforestation and agricultural expansion in the lowlands.",
+    "ko": "2024년 볼리비아는 가뭄과 토지 개간이 부추긴 기록상 최악 수준의 산불 시즌을 겪었고, 특히 산타크루스와 베니에서 수백만 헥타르가 불탔다. 연기가 몇 주 동안 도시를 뒤덮어 학교와 공항이 문을 닫았고, 정부는 국가 재난을 선포했다. 산불은 저지대의 삼림 벌채와 농지 확장에 관한 논쟁을 다시 불러일으켰다.",
+    "zh": "2024年，在干旱和开荒的推波助澜下，玻利维亚经历了有记录以来最严重的山火季之一，数百万公顷土地被烧毁，圣克鲁斯和贝尼尤甚。浓烟笼罩城市数周，学校和机场被迫关闭，政府宣布国家灾难状态。山火再次引发了关于低地森林砍伐和农业扩张的争论。",
+    "ja": "2024年、ボリビアは干ばつと開墾に拍車をかけられた記録上最悪級の森林火災シーズンに見舞われ、特にサンタ・クルスとベニで数百万ヘクタールが焼けた。煙が数週間にわたり都市を覆って学校や空港が閉鎖され、政府は国家災害を宣言した。火災は低地の森林破壊と農地拡大をめぐる議論を再燃させた。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Bicentennial and the end of MAS rule",
+    "ko": "독립 200주년과 MAS 집권의 종식",
+    "zh": "独立二百周年与争取社会主义运动执政的终结",
+    "ja": "独立200周年とMAS政権の終焉"
+   },
+   "description": {
+    "en": "In August 2025 Bolivia marked the bicentennial of its independence amid its worst economic crisis in decades. In the general election that month the MAS, split between Arce and the barred Morales, collapsed, and in the October run-off Senator Rodrigo Paz defeated former president Jorge Quiroga. Paz took office in November 2025, ending nearly twenty years of MAS government.",
+    "ko": "2025년 8월 볼리비아는 수십 년 만의 최악의 경제 위기 속에서 독립 200주년을 맞았다. 같은 달 총선에서 아르세와 출마가 금지된 모랄레스 사이에 분열된 MAS는 몰락했고, 10월 결선에서 상원의원 로드리고 파스가 호르헤 키로가 전 대통령을 꺾었다. 파스는 2025년 11월 취임해 20년 가까운 MAS 정부를 끝냈다.",
+    "zh": "2025年8月，玻利维亚在数十年来最严重的经济危机中迎来独立二百周年。同月的大选中，在阿尔塞与被禁止参选的莫拉莱斯之间分裂的争取社会主义运动全面溃败；10月的决选中，参议员罗德里戈·帕斯击败前总统豪尔赫·基罗加。帕斯于2025年11月就职，结束了该党近二十年的执政。",
+    "ja": "2025年8月、ボリビアは数十年来最悪の経済危機のなかで独立200周年を迎えた。同月の総選挙で、アルセと出馬を禁じられたモラレスの間で分裂したMASは惨敗し、10月の決選投票で上院議員ロドリゴ・パスが元大統領ホルヘ・キロガを破った。パスは2025年11月に就任し、20年近いMAS政権に終止符を打った。"
+   }
+  }
+ ]
+}

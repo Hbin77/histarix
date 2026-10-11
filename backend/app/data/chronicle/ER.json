@@ -1,0 +1,1752 @@
+{
+ "iso": "ER",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -3000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Later Stone Age of the Eritrean highlands and lowlands",
+    "ko": "에리트레아 고원·저지대의 후기 석기 시대",
+    "zh": "厄立特里亚高原与低地的晚期石器时代",
+    "ja": "エリトリア高原・低地の後期石器時代"
+   },
+   "summary": {
+    "en": "Before the rise of farming states, hunter-gatherers and later early herders lived across the Eritrean plateau, the western lowlands and the Red Sea coast. Rock shelters in the highlands preserve paintings and engravings of wild and domestic animals, though their dating is often uncertain. The gradual adoption of cattle herding laid the foundations for the later cultures of the region.",
+    "ko": "농경 국가가 등장하기 전, 에리트레아 고원과 서부 저지대, 홍해 연안에는 수렵채집민과 이후 초기 목축민이 살았다. 고원의 바위그늘에는 야생 동물과 가축을 그린 암각화와 벽화가 남아 있으나 연대는 불확실한 경우가 많다. 점진적인 소 목축의 수용은 이후 이 지역 문화들의 토대가 되었다.",
+    "zh": "在农耕国家兴起之前，狩猎采集者以及后来的早期牧民生活在厄立特里亚高原、西部低地和红海沿岸。高原上的岩棚保存着描绘野生动物和家畜的岩画与刻画，但其年代往往难以确定。牧牛业的逐步普及为该地区后来的文化奠定了基础。",
+    "ja": "農耕国家が現れる以前、エリトリア高原や西部低地、紅海沿岸には狩猟採集民、のちには初期の牧畜民が暮らしていた。高原の岩陰には野生動物や家畜を描いた岩絵や線刻が残るが、その年代はしばしば不確かである。牛の牧畜の段階的な受容が、のちの地域文化の基盤となった。"
+   }
+  },
+  {
+   "from": -3000,
+   "to": -1400,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Gash Group",
+    "ko": "가시 그룹 문화",
+    "zh": "加什文化群",
+    "ja": "ガシュ・グループ文化"
+   },
+   "summary": {
+    "en": "The Gash Group was a culture of the Gash (Mareb) river basin spanning eastern Sudan and the western lowlands of Eritrea, flourishing from roughly 3000 to 1400 BC (c.). Its people herded cattle, cultivated crops and developed large settlements such as Mahal Teglinos near Kassala, with long-distance links to Nubia and Egypt. Some scholars connect this region with the Egyptian 'Land of Punt'.",
+    "ko": "가시 그룹은 수단 동부와 에리트레아 서부 저지대에 걸친 가시(마레브)강 유역의 문화로, 약 기원전 3000년부터 1400년경까지 번영했다. 이들은 소를 기르고 작물을 재배했으며 카살라 인근 마할 테글리노스 같은 대규모 취락을 이루고 누비아·이집트와 원거리 교류를 했다. 일부 학자는 이 지역을 이집트 문헌의 '푼트의 땅'과 연결한다.",
+    "zh": "加什文化群分布于横跨苏丹东部和厄立特里亚西部低地的加什（马雷布）河流域，约繁荣于公元前3000年至前1400年。其居民放牧牛群、种植作物，并在卡萨拉附近形成了马哈勒·特格利诺斯等大型聚落，与努比亚和埃及有远程往来。一些学者将这一地区与埃及文献中的“蓬特之地”联系起来。",
+    "ja": "ガシュ・グループは、スーダン東部からエリトリア西部低地にかけてのガシュ（マレブ）川流域に、紀元前3000年頃から前1400年頃まで栄えた文化である。人々は牛を飼い作物を栽培し、カッサラ近郊のマハル・テグリノスのような大規模集落を築いて、ヌビアやエジプトと遠距離交流を持った。一部の研究者はこの地域をエジプトの「プント国」と結びつけている。"
+   }
+  },
+  {
+   "from": -1400,
+   "to": -900,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Late Bronze Age Red Sea lowlands and highlands",
+    "ko": "후기 청동기 시대의 홍해 저지대와 고원",
+    "zh": "青铜时代晚期的红海低地与高原",
+    "ja": "後期青銅器時代の紅海低地と高原"
+   },
+   "summary": {
+    "en": "After the Gash Group, the lowlands were home to successor pastoral cultures such as the Jebel Mokram Group, while farming communities spread on the highland plateau. Red Sea trade, possibly including contacts with Egyptian expeditions to Punt, connected the coast to wider networks. Written sources are absent, and this period is known mainly through archaeology.",
+    "ko": "가시 그룹 이후 저지대에는 제벨 모크람 그룹 같은 후속 목축 문화가 자리 잡았고, 고원에는 농경 공동체가 확산되었다. 이집트의 푼트 원정과의 접촉 가능성을 포함한 홍해 교역이 해안을 더 넓은 교류망과 연결했다. 문자 기록은 없으며 이 시기는 주로 고고학을 통해 알려져 있다.",
+    "zh": "加什文化群之后，低地出现了杰贝勒·莫克拉姆文化群等后继畜牧文化，而高原上的农耕社群不断扩展。红海贸易（可能包括与埃及蓬特远征的接触）将沿海地区与更广阔的网络相连。这一时期没有文字记载，主要通过考古资料为人所知。",
+    "ja": "ガシュ・グループの後、低地にはジェベル・モクラム・グループなどの後継牧畜文化が営まれ、高原では農耕共同体が広がった。エジプトのプント遠征との接触の可能性を含む紅海交易が、沿岸部をより広い交易網と結びつけた。文字史料はなく、この時代は主に考古学によって知られる。"
+   }
+  },
+  {
+   "from": -1000,
+   "to": -400,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Ona culture",
+    "ko": "오나 문화",
+    "zh": "奥纳文化",
+    "ja": "オナ文化"
+   },
+   "summary": {
+    "en": "The Ona culture flourished on the plateau around modern Asmara during the first millennium BC (c.), known from sites such as Sembel and Mai Hutsa. Its farming villages produced distinctive pottery and stone bowls and stylized bull-head figurines. Archaeologists see it as an indigenous highland development that preceded and overlapped with the D'mt and Aksumite worlds.",
+    "ko": "오나 문화는 기원전 1천년기(약)에 오늘날 아스마라 일대의 고원에서 번영했으며, 셈벨과 마이 후차 등의 유적으로 알려져 있다. 그 농경 마을들은 독특한 토기와 석제 그릇, 양식화된 황소 머리 조각상을 만들었다. 고고학자들은 이를 다맛·악숨 세계보다 앞서거나 그와 겹치는 고원 고유의 발전으로 본다.",
+    "zh": "奥纳文化约在公元前一千纪繁荣于今阿斯马拉周围的高原，以森贝尔和迈胡察等遗址为代表。其农耕村落制作独特的陶器、石碗和程式化的牛头小雕像。考古学家认为它是高原本土的发展，早于并部分重叠于达阿马特和阿克苏姆时代。",
+    "ja": "オナ文化は紀元前1千年紀頃、現在のアスマラ周辺の高原で栄え、センベルやマイ・フツァなどの遺跡で知られる。その農耕村落は独特の土器や石鉢、様式化された牛頭の土偶を作った。考古学者はこれを、ダアマトやアクスムの世界に先行し、また重なり合う高原固有の発展とみなしている。"
+   }
+  },
+  {
+   "from": -900,
+   "to": -400,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Kingdom of D'mt",
+    "ko": "다맛 왕국",
+    "zh": "达阿马特王国",
+    "ja": "ダアマト王国"
+   },
+   "summary": {
+    "en": "D'mt was one of the earliest kingdoms of the Horn of Africa, centred at Yeha in today's Tigray but extending into the Eritrean highlands, where sites such as Matara show related remains. Its rulers left inscriptions in a South Arabian script and built temples influenced by Sabaean styles, while the population was largely local. The kingdom practised irrigation and ironworking before fading around the 5th century BC (c.).",
+    "ko": "다맛은 아프리카의 뿔에서 가장 이른 왕국 중 하나로, 오늘날 티그라이의 예하를 중심으로 에리트레아 고원까지 뻗어 있었으며 마타라 등지에서 관련 유적이 나타난다. 지배층은 남아라비아 문자로 비문을 남기고 사바 양식의 영향을 받은 신전을 세웠으나 주민 대다수는 현지인이었다. 왕국은 관개와 철기 제작을 했으며 기원전 5세기경(약) 쇠퇴했다.",
+    "zh": "达阿马特是非洲之角最早的王国之一，中心在今提格雷的耶哈，并延伸至厄立特里亚高原，马塔拉等地有相关遗存。其统治者以南阿拉伯文字留下铭文，修建受萨巴风格影响的神庙，但居民主要是本地人。王国掌握灌溉和冶铁技术，约在公元前5世纪衰落。",
+    "ja": "ダアマトはアフリカの角で最も古い王国の一つで、現在のティグライのイェハを中心にエリトリア高原まで広がり、マタラなどに関連遺構が見られる。支配層は南アラビア文字で碑文を残し、サバ様式の影響を受けた神殿を建てたが、住民の大半は在地の人々だった。王国は灌漑や製鉄を行い、紀元前5世紀頃に衰えた。"
+   }
+  },
+  {
+   "from": -400,
+   "to": -50,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Proto-Aksumite period",
+    "ko": "원(原)악숨 시대",
+    "zh": "原阿克苏姆时期",
+    "ja": "原アクスム期"
+   },
+   "summary": {
+    "en": "After the decline of D'mt, the northern highlands were divided among smaller local polities. Towns and trade routes that would later serve Aksum, including the route from the plateau down to the Red Sea, developed during these centuries. Archaeological evidence from Eritrea and Tigray shows growing social complexity and a distinctive local culture emerging from earlier South Arabian influences.",
+    "ko": "다맛이 쇠퇴한 뒤 북부 고원은 여러 작은 지역 정치체로 나뉘었다. 고원에서 홍해로 내려가는 길을 포함해 훗날 악숨이 이용할 도시와 교역로가 이 몇 세기 동안 발달했다. 에리트레아와 티그라이의 고고학 자료는 사회적 복잡성이 커지고, 이전의 남아라비아 영향에서 벗어난 독자적 지역 문화가 형성되었음을 보여 준다.",
+    "zh": "达阿马特衰落后，北部高原分裂为若干较小的地方政治体。后来为阿克苏姆所用的城镇和商路，包括从高原通往红海的道路，都在这几个世纪中发展起来。厄立特里亚和提格雷的考古证据显示社会日益复杂，一种有别于早期南阿拉伯影响的本地文化逐渐形成。",
+    "ja": "ダアマトの衰退後、北部高原は小規模な地域勢力に分かれた。高原から紅海へ下る道を含め、のちにアクスムが利用する町や交易路がこの数世紀の間に発達した。エリトリアとティグライの考古資料は、社会の複雑化と、それ以前の南アラビアの影響から独自の地域文化が形成されていく様子を示している。"
+   }
+  },
+  {
+   "from": -50,
+   "to": 950,
+   "kind": "state",
+   "qid": "Q139377",
+   "polity": "Kingdom of Axum",
+   "name": {
+    "en": "Kingdom of Aksum",
+    "ko": "악숨 왕국",
+    "zh": "阿克苏姆王国",
+    "ja": "アクスム王国"
+   },
+   "summary": {
+    "en": "Aksum, centred in today's Tigray, ruled the Eritrean highlands and coast and used the port of Adulis as its gateway to the Red Sea and Indian Ocean. Towns such as Qohaito and Matara flourished on the Eritrean plateau, and the kingdom minted coins and adopted Christianity in the 4th century. Aksum lost control of the sea after the 7th century and declined, but its Ge'ez script and Orthodox Christianity shaped highland Eritrea lastingly.",
+    "ko": "오늘날 티그라이를 중심으로 한 악숨은 에리트레아 고원과 해안을 다스렸고, 아둘리스 항을 홍해와 인도양으로 가는 관문으로 삼았다. 에리트레아 고원에서는 코하이토와 마타라 같은 도시가 번영했으며, 왕국은 화폐를 주조하고 4세기에 기독교를 받아들였다. 악숨은 7세기 이후 바다의 통제권을 잃고 쇠퇴했지만, 게에즈 문자와 정교회 신앙은 에리트레아 고원에 오래도록 영향을 남겼다.",
+    "zh": "以今提格雷为中心的阿克苏姆统治着厄立特里亚高原和沿海，并以阿杜利斯港作为通往红海和印度洋的门户。科海托和马塔拉等城镇在厄立特里亚高原上繁荣，王国铸造钱币，并于4世纪接受基督教。7世纪后阿克苏姆失去海上控制权而衰落，但其吉兹文字和东正教信仰长久地塑造了厄立特里亚高原。",
+    "ja": "現在のティグライを中心とするアクスムは、エリトリアの高原と沿岸を支配し、アドゥリス港を紅海・インド洋への玄関口とした。エリトリア高原ではコハイトやマタラなどの町が栄え、王国は貨幣を鋳造し、4世紀にキリスト教を受け入れた。7世紀以降アクスムは海の支配権を失って衰退したが、ゲエズ文字と正教信仰はエリトリア高原に長く影響を残した。"
+   }
+  },
+  {
+   "from": 700,
+   "to": 1300,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Beja kingdoms and post-Aksumite highlands",
+    "ko": "베자 왕국들과 후기 악숨 시대 고원",
+    "zh": "贝贾诸王国与后阿克苏姆时代高原",
+    "ja": "ベジャ諸王国とアクスム以後の高原"
+   },
+   "summary": {
+    "en": "As Aksum weakened, Beja pastoralists from the north expanded into the northern and western lowlands of Eritrea, where Arab geographers described several Beja kingdoms. The Christian highlands remained under local rulers loosely tied to the successors of Aksum and later the Zagwe dynasty. Meanwhile Islam spread along the coast and in the lowlands through trade and migration.",
+    "ko": "악숨이 약해지자 북쪽의 베자 유목민이 에리트레아 북부와 서부 저지대로 세력을 넓혔고, 아랍 지리학자들은 그곳의 여러 베자 왕국을 기록했다. 기독교 고원은 악숨의 후계 세력, 이후 자그웨 왕조와 느슨하게 연결된 현지 지배자들 아래 있었다. 그동안 이슬람은 교역과 이주를 통해 해안과 저지대로 퍼졌다.",
+    "zh": "随着阿克苏姆衰弱，来自北方的贝贾游牧民扩展到厄立特里亚北部和西部低地，阿拉伯地理学家记载了那里的若干贝贾王国。基督教高原处于地方统治者之下，他们与阿克苏姆的继承者以及后来的扎格维王朝保持松散联系。与此同时，伊斯兰教通过贸易和移民在沿海和低地传播。",
+    "ja": "アクスムが弱体化すると、北方のベジャ系牧畜民がエリトリア北部・西部の低地へ広がり、アラブの地理学者はそこにあった複数のベジャ王国を記録した。キリスト教徒の高原は、アクスムの後継勢力、のちにはザグウェ朝と緩やかに結びついた在地の支配者の下にあった。その間、イスラームは交易と移住を通じて沿岸と低地に広まった。"
+   }
+  },
+  {
+   "from": 900,
+   "to": 1557,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Dahlak Sultanate",
+    "ko": "다흘라크 술탄국",
+    "zh": "达赫拉克苏丹国",
+    "ja": "ダフラク・スルタン国"
+   },
+   "summary": {
+    "en": "From around the 10th century a Muslim sultanate based on the Dahlak archipelago controlled much of the Red Sea trade off the Eritrean coast. Hundreds of Arabic tombstones on Dahlak Kebir record its rulers and merchants and testify to links with Yemen, Egypt and the Indian Ocean. The sultanate declined in the later Middle Ages and its islands passed under Ottoman control in the 16th century.",
+    "ko": "10세기경부터 다흘라크 제도를 근거지로 한 이슬람 술탄국이 에리트레아 앞바다 홍해 교역의 상당 부분을 장악했다. 다흘라크 케비르의 수백 기에 이르는 아랍어 묘비는 그 통치자와 상인을 기록하며 예멘·이집트·인도양과의 연결을 보여 준다. 술탄국은 중세 후기에 쇠퇴했고 16세기에 섬들은 오스만의 지배 아래 들어갔다.",
+    "zh": "约从10世纪起，一个以达赫拉克群岛为基地的穆斯林苏丹国控制了厄立特里亚近海的大部分红海贸易。大达赫拉克岛上数以百计的阿拉伯文墓碑记录了其统治者和商人，证明了它与也门、埃及及印度洋的联系。该苏丹国在中世纪后期衰落，16世纪群岛归于奥斯曼帝国控制。",
+    "ja": "10世紀頃から、ダフラク諸島を拠点とするムスリムのスルタン国がエリトリア沖の紅海交易の多くを支配した。ダフラク・ケビール島に残る数百基のアラビア語墓碑は、その支配者や商人を記録し、イエメン・エジプト・インド洋との結びつきを物語る。スルタン国は中世後期に衰え、16世紀に諸島はオスマン帝国の支配下に入った。"
+   }
+  },
+  {
+   "from": 1270,
+   "to": 1889,
+   "kind": "state",
+   "qid": "Q207521",
+   "polity": "Ethiopian Empire",
+   "name": {
+    "en": "Bahr Negash (Medri Bahri) and the Ethiopian Empire",
+    "ko": "바흐르 네가시(메드리 바흐리)와 에티오피아 제국",
+    "zh": "巴赫尔·内加什（梅德里·巴赫里）与埃塞俄比亚帝国",
+    "ja": "バフル・ネガシュ（メドリ・バフリ）とエチオピア帝国"
+   },
+   "summary": {
+    "en": "After the Solomonic dynasty came to power in 1270, the Eritrean highlands north of the Mareb formed the land of the Bahr Negash ('ruler of the sea'), also called Medri Bahri, whose governors sat at places such as Debarwa. The region was a tributary frontier province of the Ethiopian Empire, at times autonomous and at times in conflict with the emperors. Highland Orthodox monasticism flourished, while the coast and lowlands came under Muslim and later Ottoman and Egyptian influence.",
+    "ko": "1270년 솔로몬 왕조가 집권한 뒤 마레브강 북쪽의 에리트레아 고원은 바흐르 네가시('바다의 왕'), 곧 메드리 바흐리의 땅이 되었고 그 총독은 데바르와 등지에 자리했다. 이 지역은 에티오피아 제국에 조공하는 변경 지방으로, 때로는 자치를 누리고 때로는 황제와 충돌했다. 고원에서는 정교회 수도원 전통이 번성했고, 해안과 저지대는 이슬람 세력, 이후 오스만과 이집트의 영향 아래 놓였다.",
+    "zh": "1270年所罗门王朝掌权后，马雷布河以北的厄立特里亚高原成为“巴赫尔·内加什”（意为“海洋之王”）即梅德里·巴赫里的领地，其总督驻于德巴尔瓦等地。该地区是埃塞俄比亚帝国的纳贡边疆省份，时而自治，时而与皇帝发生冲突。高原上的东正教修道传统兴盛，而沿海和低地则受穆斯林势力、后来又受奥斯曼和埃及的影响。",
+    "ja": "1270年にソロモン朝が成立すると、マレブ川以北のエリトリア高原は「海の王」を意味するバフル・ネガシュ、すなわちメドリ・バフリの地となり、その総督はデバルワなどに拠った。この地域はエチオピア帝国に貢納する辺境州で、時に自立し、時に皇帝と対立した。高原では正教の修道院文化が栄え、沿岸と低地はムスリム勢力、のちにはオスマン帝国やエジプトの影響下に置かれた。"
+   }
+  },
+  {
+   "from": 1557,
+   "to": 1865,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Ottoman Habesh coast",
+    "ko": "오스만 하베시 해안",
+    "zh": "奥斯曼哈贝什沿海",
+    "ja": "オスマン帝国のハベシュ沿岸"
+   },
+   "summary": {
+    "en": "In 1557 the Ottomans seized Massawa and organized the Red Sea coast as the province of Habesh. Their direct presence was mostly limited to Massawa and nearby ports, and from the 17th century they relied on local Belew chiefs with the title of Naib, based at Arkiko, to manage the hinterland. Massawa became the main outlet for the trade of the Ethiopian highlands.",
+    "ko": "1557년 오스만 제국은 마사와를 점령하고 홍해 연안을 하베시 주로 편성했다. 직접적인 주둔은 주로 마사와와 인근 항구에 한정되었고, 17세기부터는 아르키코에 근거한 '나이브' 칭호의 현지 벨루 수장들에게 내륙 관리를 맡겼다. 마사와는 에티오피아 고원 교역의 주요 출구가 되었다.",
+    "zh": "1557年奥斯曼帝国占领马萨瓦，并将红海沿岸组建为哈贝什省。其直接存在主要局限于马萨瓦及附近港口，从17世纪起依靠驻于阿尔基科、拥有“纳伊布”称号的当地贝卢首领管理内陆。马萨瓦成为埃塞俄比亚高原贸易的主要出海口。",
+    "ja": "1557年、オスマン帝国はマッサワを占領し、紅海沿岸をハベシュ州として編成した。直接の駐留はおもにマッサワと周辺の港に限られ、17世紀からはアルキコを拠点とする「ナイブ」の称号を持つ在地のベルー首長に内陸の管理を委ねた。マッサワはエチオピア高原の交易の主要な出口となった。"
+   }
+  },
+  {
+   "from": 1865,
+   "to": 1885,
+   "kind": "colonial",
+   "qid": "Q127861",
+   "polity": "Khedivate of Egypt",
+   "name": {
+    "en": "Egyptian rule on the coast and lowlands",
+    "ko": "이집트의 해안·저지대 지배",
+    "zh": "埃及对沿海与低地的统治",
+    "ja": "エジプトによる沿岸・低地支配"
+   },
+   "summary": {
+    "en": "Egypt, already ruling Sudan and the Taka region around Kassala, obtained Massawa from the Ottoman sultan in 1865 and expanded into the Bogos area around Keren in 1872. Its attempt to push into the highlands was crushed by Emperor Yohannes IV at Gundet and Gura in 1875–1876. The Mahdist uprising in Sudan forced Egypt to withdraw, opening the way for Italy.",
+    "ko": "이미 수단과 카살라 주변 타카 지방을 다스리던 이집트는 1865년 오스만 술탄으로부터 마사와를 넘겨받고, 1872년 케렌 주변 보고스 지역으로 진출했다. 고원으로 밀고 들어가려던 시도는 1875~1876년 군데트와 구라에서 요하네스 4세 황제에게 분쇄되었다. 수단의 마흐디 봉기로 이집트가 철수하면서 이탈리아에 길이 열렸다.",
+    "zh": "已统治苏丹和卡萨拉周边塔卡地区的埃及于1865年从奥斯曼苏丹手中取得马萨瓦，并于1872年扩张到克伦周围的博戈斯地区。其向高原推进的企图在1875—1876年的贡德特和古拉战役中被约翰尼斯四世皇帝粉碎。苏丹马赫迪起义迫使埃及撤退，为意大利打开了道路。",
+    "ja": "すでにスーダンとカッサラ周辺のタカ地方を支配していたエジプトは、1865年にオスマン帝国のスルタンからマッサワを得て、1872年にはケレン周辺のボゴス地方へ進出した。高原への進出の試みは、1875〜1876年のグンデトとグラで皇帝ヨハンネス4世に粉砕された。スーダンのマフディー運動によってエジプトは撤退を余儀なくされ、イタリアに道が開かれた。"
+   }
+  },
+  {
+   "from": 1882,
+   "to": 1941,
+   "kind": "colonial",
+   "qid": "Q1232988",
+   "polity": "Italian Africa",
+   "name": {
+    "en": "Italian Eritrea",
+    "ko": "이탈리아령 에리트레아",
+    "zh": "意属厄立特里亚",
+    "ja": "イタリア領エリトリア"
+   },
+   "summary": {
+    "en": "Italy took over Assab in 1882 and Massawa in 1885 and proclaimed the Colony of Eritrea in 1890, giving the territory its name and modern borders. Asmara became a planned colonial capital linked to the coast by railway, and many Eritreans served as askari soldiers in Italy's wars. From 1936 Eritrea formed part of Italian East Africa, until British forces conquered it in 1941.",
+    "ko": "이탈리아는 1882년 아사브, 1885년 마사와를 차지하고 1890년 에리트레아 식민지를 선포해 이 땅에 오늘날의 이름과 국경을 부여했다. 아스마라는 철도로 해안과 연결된 계획 식민 수도가 되었고, 많은 에리트레아인이 아스카리 병사로 이탈리아의 전쟁에 동원되었다. 1936년부터 에리트레아는 이탈리아령 동아프리카의 일부였으나 1941년 영국군에게 정복되었다.",
+    "zh": "意大利于1882年接管阿萨布、1885年占领马萨瓦，并于1890年宣布成立厄立特里亚殖民地，赋予这片土地今天的名称和边界。阿斯马拉成为经铁路与海岸相连的规划殖民首府，许多厄立特里亚人作为“阿斯卡里”士兵参加了意大利的战争。1936年起厄立特里亚成为意属东非的一部分，直至1941年被英军征服。",
+    "ja": "イタリアは1882年にアッサブ、1885年にマッサワを手に入れ、1890年にエリトリア植民地を宣言して、この地に現在の名称と国境を与えた。アスマラは鉄道で沿岸と結ばれた計画的な植民地首都となり、多くのエリトリア人がアスカリ兵としてイタリアの戦争に動員された。1936年からエリトリアはイタリア領東アフリカの一部となったが、1941年に英軍に征服された。"
+   }
+  },
+  {
+   "from": 1941,
+   "to": 1952,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "British Africa",
+   "name": {
+    "en": "British Military Administration",
+    "ko": "영국 군정",
+    "zh": "英国军事管理",
+    "ja": "イギリス軍政"
+   },
+   "summary": {
+    "en": "After defeating Italy in 1941, Britain governed Eritrea as an occupied enemy territory under a military administration. The period saw relative freedom of the press and the emergence of political parties divided over union with Ethiopia, independence or partition. Britain dismantled and removed some industrial and port installations, and the territory's fate was referred to the United Nations.",
+    "ko": "1941년 이탈리아를 격파한 영국은 에리트레아를 점령한 적국 영토로서 군정 아래 통치했다. 이 시기에는 비교적 언론 자유가 보장되었고, 에티오피아와의 통합·독립·분할을 둘러싸고 갈라진 정당들이 등장했다. 영국은 일부 산업·항만 시설을 해체해 반출했고, 이 땅의 장래는 유엔에 회부되었다.",
+    "zh": "1941年击败意大利后，英国将厄立特里亚作为被占领的敌国领土实行军事管理。这一时期新闻相对自由，围绕与埃塞俄比亚合并、独立或分治而分裂的政党相继出现。英国拆除并运走了部分工业和港口设施，该领土的前途被提交联合国决定。",
+    "ja": "1941年にイタリアを破ったイギリスは、エリトリアを占領下の敵国領として軍政により統治した。この時期には比較的報道の自由があり、エチオピアとの統合、独立、分割をめぐって分かれた政党が生まれた。イギリスは一部の産業・港湾施設を解体して持ち去り、この地の将来は国際連合に委ねられた。"
+   }
+  },
+  {
+   "from": 1952,
+   "to": 1991,
+   "kind": "state",
+   "qid": "Q115",
+   "polity": "Ethiopia",
+   "name": {
+    "en": "Federation and annexation by Ethiopia",
+    "ko": "에티오피아와의 연방 및 병합",
+    "zh": "与埃塞俄比亚联邦及被吞并",
+    "ja": "エチオピアとの連邦と併合"
+   },
+   "summary": {
+    "en": "In 1952 Eritrea became an autonomous unit federated with Ethiopia under a UN resolution, with its own constitution, assembly and languages. Emperor Haile Selassie's government steadily eroded this autonomy and in 1962 annexed Eritrea as a province. Ethiopian rule, under the empire and then the Derg, was contested by an armed independence movement for thirty years.",
+    "ko": "1952년 에리트레아는 유엔 결의에 따라 자체 헌법·의회·언어를 지닌 자치 단위로서 에티오피아와 연방을 이루었다. 하일레 셀라시에 황제 정부는 이 자치를 점차 약화시켰고 1962년 에리트레아를 한 주로 병합했다. 제국과 그 뒤 데르그 정권의 에티오피아 통치는 30년간의 무장 독립운동에 맞닥뜨렸다.",
+    "zh": "1952年，根据联合国决议，厄立特里亚作为拥有自己宪法、议会和语言的自治单位与埃塞俄比亚组成联邦。海尔·塞拉西皇帝政府逐步削弱这一自治，并于1962年将厄立特里亚吞并为一个省。帝国及其后德尔格政权的埃塞俄比亚统治遭到长达三十年的武装独立运动的反抗。",
+    "ja": "1952年、エリトリアは国連決議により、独自の憲法・議会・言語を持つ自治単位としてエチオピアと連邦を形成した。ハイレ・セラシエ皇帝の政府はこの自治を次第に損ない、1962年にエリトリアを一州として併合した。帝政、続くデルグ政権によるエチオピアの支配は、30年に及ぶ武装独立運動に直面した。"
+   }
+  },
+  {
+   "from": 1961,
+   "to": 1991,
+   "kind": "period",
+   "qid": "Q607257",
+   "polity": null,
+   "name": {
+    "en": "Eritrean War of Independence",
+    "ko": "에리트레아 독립전쟁",
+    "zh": "厄立特里亚独立战争",
+    "ja": "エリトリア独立戦争"
+   },
+   "summary": {
+    "en": "The armed struggle began in 1961 under the Eritrean Liberation Front and was later led by the Eritrean People's Liberation Front, which split from it and defeated it in internal wars. Fighters held out in the northern mountains around Nakfa against large Ethiopian offensives backed by Soviet arms. The war ended in 1991 when the EPLF took Asmara as the Derg collapsed.",
+    "ko": "무장 투쟁은 1961년 에리트레아 해방전선(ELF)과 함께 시작되었고, 이후 그로부터 분리해 내전에서 그를 꺾은 에리트레아 인민해방전선(EPLF)이 주도했다. 전사들은 나크파 주변 북부 산악 지대에서 소련 무기를 앞세운 에티오피아의 대공세를 견뎌 냈다. 전쟁은 데르그 정권이 무너진 1991년 EPLF가 아스마라를 점령하면서 끝났다.",
+    "zh": "武装斗争于1961年由厄立特里亚解放阵线发起，后来由从中分裂出来并在内战中击败它的厄立特里亚人民解放阵线领导。战士们在纳克法周围的北部山区坚守，抵御了苏联武器支持的埃塞俄比亚大规模攻势。1991年德尔格政权崩溃，人民解放阵线攻占阿斯马拉，战争结束。",
+    "ja": "武装闘争は1961年にエリトリア解放戦線（ELF）のもとで始まり、のちにそこから分かれて内戦でELFを破ったエリトリア人民解放戦線（EPLF）が主導した。戦士たちはナクファ周辺の北部山岳地帯で、ソ連製兵器に支えられたエチオピア軍の大攻勢に耐えた。戦争は1991年、デルグ政権の崩壊とともにEPLFがアスマラを制圧して終わった。"
+   }
+  },
+  {
+   "from": 1991,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q986",
+   "polity": "State of Eritrea",
+   "name": {
+    "en": "State of Eritrea",
+    "ko": "에리트레아국",
+    "zh": "厄立特里亚国",
+    "ja": "エリトリア国"
+   },
+   "summary": {
+    "en": "Eritrea became de facto independent in 1991 and formally independent after the 1993 referendum, under President Isaias Afwerki and the ruling People's Front for Democracy and Justice. A border war with Ethiopia in 1998–2000 was followed by a long no-war-no-peace standoff, indefinite national service and the suspension of elections and the 1997 constitution. Peace with Ethiopia in 2018 ended formal hostility, though the country remains one of the most closed in the world.",
+    "ko": "에리트레아는 1991년 사실상 독립했고 1993년 국민투표를 거쳐 공식 독립했으며, 이사이아스 아페웨르키 대통령과 집권 민주정의인민전선(PFDJ)이 통치해 왔다. 1998~2000년 에티오피아와의 국경 전쟁 이후 오랜 '전쟁도 평화도 아닌' 대치, 무기한 국가 복무, 선거와 1997년 헌법의 시행 중단이 이어졌다. 2018년 에티오피아와의 평화로 공식적 적대는 끝났으나 이 나라는 여전히 세계에서 가장 폐쇄적인 국가 중 하나이다.",
+    "zh": "厄立特里亚于1991年事实独立，1993年公投后正式独立，由伊萨亚斯·阿费沃基总统和执政的人民民主与正义阵线统治。1998—2000年与埃塞俄比亚的边境战争之后，是漫长的“不战不和”对峙、无限期国民服役以及选举和1997年宪法的搁置。2018年与埃塞俄比亚实现和平，结束了正式敌对状态，但该国仍是世界上最封闭的国家之一。",
+    "ja": "エリトリアは1991年に事実上独立し、1993年の住民投票を経て正式に独立した。以来、イサイアス・アフェウェルキ大統領と与党の民主正義人民戦線（PFDJ）が統治している。1998〜2000年のエチオピアとの国境戦争の後、長い「戦争でも平和でもない」対峙、無期限の国民奉仕、選挙と1997年憲法の棚上げが続いた。2018年のエチオピアとの和平で公式の敵対関係は終わったが、同国はなお世界で最も閉鎖的な国の一つである。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Gash Group settlements in the western lowlands",
+    "ko": "서부 저지대의 가시 그룹 취락",
+    "zh": "西部低地的加什文化群聚落",
+    "ja": "西部低地のガシュ・グループ集落"
+   },
+   "description": {
+    "en": "Around 3000 BC (c.) the Gash Group culture took shape in the basin of the Gash (Mareb) river, which runs from the Eritrean highlands into eastern Sudan. Its people combined cattle herding with cultivation and built increasingly large settlements over the following centuries. Finds of Egyptian and Nubian goods show that the region joined long-distance exchange networks.",
+    "ko": "기원전 3000년경(약) 에리트레아 고원에서 수단 동부로 흐르는 가시(마레브)강 유역에 가시 그룹 문화가 형성되었다. 주민들은 소 목축과 작물 재배를 병행했고 이후 수세기에 걸쳐 점점 더 큰 취락을 이루었다. 이집트와 누비아 물품의 출토는 이 지역이 원거리 교역망에 참여했음을 보여 준다.",
+    "zh": "约公元前3000年，加什文化群在加什（马雷布）河流域形成，这条河从厄立特里亚高原流入苏丹东部。其居民兼营牧牛与种植，并在此后几个世纪中建立起规模日益扩大的聚落。出土的埃及和努比亚物品表明，该地区已融入远程交换网络。",
+    "ja": "紀元前3000年頃、エリトリア高原からスーダン東部へ流れるガシュ（マレブ）川の流域でガシュ・グループ文化が形成された。人々は牛の牧畜と作物栽培を組み合わせ、その後数世紀にわたって次第に大きな集落を築いた。エジプトやヌビアの品々の出土は、この地域が遠距離交易網に加わっていたことを示している。"
+   }
+  },
+  {
+   "year": -1470,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Hatshepsut's expedition to Punt",
+    "ko": "하트셉수트의 푼트 원정",
+    "zh": "哈特谢普苏特的蓬特远征",
+    "ja": "ハトシェプストのプント遠征"
+   },
+   "description": {
+    "en": "Around 1470 BC (c.) the Egyptian queen Hatshepsut sent a famous trading fleet to the 'Land of Punt', recorded in reliefs at Deir el-Bahari, bringing back incense trees, ebony and animals. The location of Punt is debated, but many scholars place it on the southern Red Sea coast, including the area of modern Eritrea and eastern Sudan. The expedition illustrates the early importance of the Red Sea trade in aromatics.",
+    "ko": "기원전 1470년경(약) 이집트의 여왕 하트셉수트는 '푼트의 땅'으로 유명한 교역 선단을 보냈고, 이는 데이르 엘바하리의 부조에 기록되어 있으며 향나무·흑단·동물 등을 가져왔다. 푼트의 위치는 논쟁 중이나 많은 학자는 오늘날 에리트레아와 수단 동부를 포함한 홍해 남부 연안으로 본다. 이 원정은 향료를 둘러싼 홍해 교역의 오랜 중요성을 보여 준다.",
+    "zh": "约公元前1470年，埃及女王哈特谢普苏特派遣著名的贸易船队前往“蓬特之地”，此事记载于代尔巴哈里的浮雕上，船队带回了乳香树、乌木和动物。蓬特的位置尚有争议，但许多学者认为它位于红海南部沿岸，包括今厄立特里亚和苏丹东部一带。这次远征表明了红海香料贸易的早期重要性。",
+    "ja": "紀元前1470年頃、エジプトの女王ハトシェプストは「プント国」へ有名な交易船団を派遣し、香木や黒檀、動物などを持ち帰った。その様子はデイル・エル＝バハリのレリーフに記録されている。プントの位置には議論があるが、多くの研究者は現在のエリトリアやスーダン東部を含む紅海南部沿岸に比定している。この遠征は香料をめぐる紅海交易の古い重要性を物語る。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Kingdom of D'mt flourishes in the highlands",
+    "ko": "고원지대에 다맛 왕국 번영",
+    "zh": "达阿马特王国在高原兴起",
+    "ja": "高原地帯にダアマト王国が栄える"
+   },
+   "description": {
+    "en": "The Kingdom of D'mt, one of the earliest states in the Horn of Africa, flourished in the northern Ethiopian and Eritrean highlands around the 8th century BC (c.). Remains linked to this period have been found at Matara in Eritrea, and inscriptions in a South Arabian script record its rulers. The kingdom developed irrigation, ironworking and Red Sea trade.",
+    "ko": "아프리카의 뿔에서 가장 이른 국가 가운데 하나인 다맛 왕국이 기원전 8세기경(약) 에티오피아 북부와 에리트레아 고원에서 번성했다. 에리트레아의 마타라에서 이 시기와 관련된 유적이 발견되었고, 남아라비아 문자로 된 비문이 그 통치자들을 기록하고 있다. 왕국은 관개와 철기 제작, 홍해 교역을 발전시켰다.",
+    "zh": "非洲之角最早的国家之一达阿马特王国约于公元前8世纪在埃塞俄比亚北部和厄立特里亚高原繁荣发展。在厄立特里亚的马塔拉发现了与这一时期相关的遗存，南阿拉伯文字铭文记载了其统治者。王国发展了灌溉、冶铁和红海贸易。",
+    "ja": "アフリカの角で最古級の国家ダアマト王国が、紀元前8世紀頃、エチオピア北部とエリトリアの高原で栄えた。エリトリアのマタラではこの時代に関連する遺構が見つかり、南アラビア文字の碑文が支配者たちを記録している。王国は灌漑や製鉄、紅海交易を発達させた。"
+   }
+  },
+  {
+   "year": -700,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ona villages on the Asmara plateau",
+    "ko": "아스마라 고원의 오나 문화 마을",
+    "zh": "阿斯马拉高原的奥纳文化村落",
+    "ja": "アスマラ高原のオナ文化の村々"
+   },
+   "description": {
+    "en": "During the first half of the first millennium BC (c.), farming villages of the Ona culture spread over the plateau around today's Asmara, at sites such as Sembel and Mai Hutsa. Excavations have revealed stone houses, fine stone bowls and clay figurines of cattle heads. These communities show that complex settled life on the plateau developed largely from local roots.",
+    "ko": "기원전 1천년기 전반(약) 오늘날 아스마라 주변 고원에 셈벨과 마이 후차 같은 오나 문화의 농경 마을이 퍼져 있었다. 발굴에서는 석조 가옥과 정교한 석제 그릇, 소 머리 모양의 토우가 드러났다. 이 공동체들은 고원의 복합적인 정주 생활이 주로 현지의 뿌리에서 발전했음을 보여 준다.",
+    "zh": "约在公元前一千纪前半期，奥纳文化的农耕村落遍布今阿斯马拉周围的高原，森贝尔和迈胡察即为代表。发掘出土了石砌房屋、精美的石碗和牛头陶塑。这些社群表明，高原上复杂的定居生活主要源于本地的发展。",
+    "ja": "紀元前1千年紀前半頃、現在のアスマラ周辺の高原には、センベルやマイ・フツァなどオナ文化の農村が広がっていた。発掘では石造家屋や精巧な石鉢、牛頭をかたどった土偶が見つかっている。これらの共同体は、高原の複雑な定住生活がおもに在地の基盤から発展したことを示している。"
+   }
+  },
+  {
+   "year": 60,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "The Periplus describes Adulis",
+    "ko": "『에리트라해 안내기』의 아둘리스 기록",
+    "zh": "《厄立特里亚海航行记》记载阿杜利斯",
+    "ja": "『エリュトゥラー海案内記』のアドゥリス"
+   },
+   "description": {
+    "en": "The Periplus of the Erythraean Sea, a Greek merchants' guide written in the mid-1st century (c.), described Adulis as an established market where ivory, tortoiseshell and rhinoceros horn were traded. It named a ruler, Zoskales, who controlled the coast and was literate in Greek. The text is one of the earliest written descriptions of the Eritrean coast and its links to Egypt and India.",
+    "ko": "1세기 중엽(약) 쓰인 그리스 상인 안내서 『에리트라해 안내기』는 아둘리스를 상아·대모·코뿔소 뿔이 거래되는 시장으로 묘사했다. 이 책은 해안을 지배하며 그리스어를 아는 통치자 조스칼레스의 이름도 전한다. 이는 에리트레아 해안과 그 이집트·인도와의 연결을 다룬 가장 이른 기록 중 하나이다.",
+    "zh": "约成书于1世纪中叶的希腊商人指南《厄立特里亚海航行记》描述阿杜利斯是一个成熟的集市，象牙、玳瑁和犀牛角在此交易。书中提到一位名叫佐斯卡莱斯的统治者，他控制着沿海地区并通晓希腊文。这是关于厄立特里亚海岸及其与埃及、印度联系的最早文字记载之一。",
+    "ja": "1世紀半ば頃に書かれたギリシア商人の案内書『エリュトゥラー海案内記』は、アドゥリスを象牙や鼈甲、サイの角が取引される市場として描いた。同書は沿岸を支配しギリシア語に通じた支配者ゾスカレスの名も伝えている。これはエリトリア沿岸とエジプト・インドとの結びつきを記した最古級の文献の一つである。"
+   }
+  },
+  {
+   "year": 100,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Adulis thrives as the Red Sea's great trading port",
+    "ko": "아둘리스, 홍해 최대의 무역항으로 번영",
+    "zh": "阿杜利斯成为红海重要贸易港",
+    "ja": "アドゥリス、紅海屈指の交易港として繁栄"
+   },
+   "description": {
+    "en": "The port of Adulis, near modern Zula, became the main gateway of the Aksumite kingdom, linking the Horn of Africa with Rome, Arabia and India through the ivory, gold and spice trade.",
+    "ko": "오늘날 줄라 부근의 항구 아둘리스는 악숨 왕국의 관문이 되어 상아·금·향신료 교역을 통해 아프리카의 뿔을 로마, 아라비아, 인도와 연결했다.",
+    "zh": "位于今祖拉附近的阿杜利斯港成为阿克苏姆王国的门户,通过象牙、黄金和香料贸易,将非洲之角与罗马、阿拉伯及印度联系起来。",
+    "ja": "現在のズラ付近にあった港湾都市アドゥリスはアクスム王国の玄関口となり、象牙・金・香辛料の交易を通じてアフリカの角をローマ、アラビア、インドと結んだ。"
+   }
+  },
+  {
+   "year": 270,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Aksum begins minting coins",
+    "ko": "악숨, 화폐 주조 시작",
+    "zh": "阿克苏姆开始铸币",
+    "ja": "アクスムが貨幣の鋳造を開始"
+   },
+   "description": {
+    "en": "In the late 3rd century (c.), under kings such as Endubis, Aksum began issuing its own gold, silver and bronze coins with Greek and later Ge'ez legends. Aksumite coins circulated in the Red Sea trade passing through Adulis and have been found at sites across highland Eritrea. Aksum was one of very few ancient African states to strike its own coinage.",
+    "ko": "3세기 후반(약) 엔두비스 등의 왕 아래 악숨은 그리스어, 이후 게에즈어 명문이 새겨진 금·은·청동 화폐를 발행하기 시작했다. 악숨 화폐는 아둘리스를 거치는 홍해 교역에서 유통되었고 에리트레아 고원 곳곳의 유적에서 출토된다. 악숨은 독자적 화폐를 주조한 매우 드문 고대 아프리카 국가였다.",
+    "zh": "约3世纪后期，在恩杜比斯等国王治下，阿克苏姆开始发行刻有希腊文、后来改为吉兹文铭文的金、银、铜币。阿克苏姆钱币在经由阿杜利斯的红海贸易中流通，在厄立特里亚高原各地遗址均有发现。阿克苏姆是极少数自行铸币的古代非洲国家之一。",
+    "ja": "3世紀後半頃、エンドゥビスらの王の下でアクスムは、ギリシア語、のちにゲエズ語の銘をもつ金・銀・青銅貨を発行し始めた。アクスムの貨幣はアドゥリスを経由する紅海交易で流通し、エリトリア高原の各地の遺跡から出土している。アクスムは独自の貨幣を鋳造した数少ない古代アフリカ国家の一つだった。"
+   }
+  },
+  {
+   "year": 330,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Aksum adopts Christianity",
+    "ko": "악숨 왕국의 기독교 수용",
+    "zh": "阿克苏姆王国皈依基督教",
+    "ja": "アクスム王国、キリスト教を受容"
+   },
+   "description": {
+    "en": "King Ezana of Aksum converted to Christianity around 330 CE, making the kingdom, which included the Eritrean highlands and coast, one of the world's earliest Christian states.",
+    "ko": "330년경 악숨의 에자나 왕이 기독교로 개종하면서, 에리트레아 고원과 해안을 아우르던 악숨 왕국은 세계에서 가장 이른 기독교 국가 중 하나가 되었다.",
+    "zh": "约330年,阿克苏姆国王埃扎纳皈依基督教。这个囊括厄立特里亚高原与海岸的王国由此成为世界上最早的基督教国家之一。",
+    "ja": "330年頃、アクスム王エザナがキリスト教に改宗した。エリトリアの高原と海岸を含むこの王国は、世界で最も早くキリスト教を受け入れた国家の一つとなった。"
+   }
+  },
+  {
+   "year": 500,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Early monasteries in the Eritrean highlands",
+    "ko": "에리트레아 고원의 초기 수도원",
+    "zh": "厄立特里亚高原的早期修道院",
+    "ja": "エリトリア高原の初期修道院"
+   },
+   "description": {
+    "en": "According to tradition, monks associated with the 'Nine Saints', who came from the eastern Roman world in the late 5th century, spread monastic Christianity in the Aksumite highlands. Eritrean tradition ascribes the founding of Debre Libanos in Shimezana to this era. Such monasteries became centres of Ge'ez learning and manuscript culture for many centuries.",
+    "ko": "전승에 따르면 5세기 말 동로마 세계에서 온 '아홉 성인'과 관련된 수도사들이 악숨 고원에 수도원 기독교를 전파했다. 에리트레아 전승은 시메자나의 데브레 리바노스 수도원 창건을 이 시기로 본다. 이러한 수도원들은 여러 세기 동안 게에즈어 학문과 필사본 문화의 중심지가 되었다.",
+    "zh": "据传统说法，5世纪末来自东罗马世界的“九圣徒”及其相关修士在阿克苏姆高原传播了修道制基督教。厄立特里亚传统将希梅扎纳的德布雷·利巴诺斯修道院的创建归于这一时期。这些修道院在许多世纪里成为吉兹文学术和手抄本文化的中心。",
+    "ja": "伝承によれば、5世紀末に東ローマ世界から来た「九聖人」ゆかりの修道士たちが、アクスムの高原に修道制のキリスト教を広めた。エリトリアの伝承は、シメザナのデブレ・リバノス修道院の創建をこの時代に帰している。こうした修道院は何世紀にもわたりゲエズ語の学問と写本文化の中心となった。"
+   }
+  },
+  {
+   "year": 525,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "King Kaleb sails from Adulis to Yemen",
+    "ko": "칼렙 왕, 아둘리스에서 예멘으로 출병",
+    "zh": "卡莱布国王从阿杜利斯出兵也门",
+    "ja": "カレブ王、アドゥリスからイエメンへ出兵"
+   },
+   "description": {
+    "en": "Around 525 King Kaleb of Aksum launched a naval expedition from Adulis against the Himyarite king Dhu Nuwas in Yemen, who had persecuted Christians. The campaign brought South Arabia under Aksumite overlordship for several decades. In the same period the traveller Cosmas Indicopleustes visited Adulis and copied its royal inscriptions.",
+    "ko": "525년경 악숨의 칼렙 왕은 기독교인을 박해한 예멘 힘야르 왕 두 누와스를 치기 위해 아둘리스에서 해상 원정을 일으켰다. 이 원정으로 남아라비아는 수십 년 동안 악숨의 종주권 아래 놓였다. 같은 시기 여행가 코스마스 인디코플레우스테스가 아둘리스를 방문해 그곳의 왕실 비문을 베껴 적었다.",
+    "zh": "约525年，阿克苏姆国王卡莱布从阿杜利斯发动海上远征，讨伐迫害基督徒的也门希木叶尔国王杜·努瓦斯。此役使南阿拉伯在此后数十年间处于阿克苏姆的宗主权之下。同一时期，旅行家科斯马斯·印第科普莱特斯到访阿杜利斯，并抄录了当地的王室铭文。",
+    "ja": "525年頃、アクスムのカレブ王は、キリスト教徒を迫害したイエメンのヒムヤル王ズー・ヌワースを討つため、アドゥリスから海上遠征を行った。この遠征で南アラビアは数十年にわたりアクスムの宗主権下に置かれた。同じ頃、旅行家コスマス・インディコプレウステスがアドゥリスを訪れ、王の碑文を書き写した。"
+   }
+  },
+  {
+   "year": 615,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Early Muslim refugees and the Massawa tradition",
+    "ko": "초기 무슬림 피난민과 마사와의 전승",
+    "zh": "早期穆斯林避难者与马萨瓦传说",
+    "ja": "初期ムスリムの避難とマッサワの伝承"
+   },
+   "description": {
+    "en": "Around 615 a group of early followers of the Prophet Muhammad fled persecution in Mecca and found refuge with the Christian king of Aksum, an episode known as the First Hijra. Local tradition holds that some of them landed on the Eritrean coast and that the Mosque of the Companions near Massawa dates from this time, although this is not confirmed by archaeology. The episode is remembered as an early sign of peaceful relations between Islam and the Christian highlands.",
+    "ko": "615년경 무함마드 예언자의 초기 추종자 일부가 메카의 박해를 피해 악숨의 기독교 왕에게 몸을 의탁했으며, 이는 '제1차 히즈라'로 알려져 있다. 현지 전승은 그중 일부가 에리트레아 해안에 상륙했고 마사와 인근의 '동료들의 모스크'가 이때 세워졌다고 전하지만 고고학적으로 확인된 것은 아니다. 이 일화는 이슬람과 기독교 고원 사이 평화로운 관계의 초기 사례로 기억된다.",
+    "zh": "约615年，先知穆罕默德的一批早期追随者为逃避麦加的迫害，投奔阿克苏姆的基督教国王，史称“第一次希吉拉”。当地传说称其中一部分人在厄立特里亚海岸登陆，马萨瓦附近的“圣伴清真寺”即建于此时，但这尚未得到考古证实。这一事件被视为伊斯兰教与基督教高原和平相处的早期象征。",
+    "ja": "615年頃、預言者ムハンマドの初期の信徒の一部がメッカでの迫害を逃れ、アクスムのキリスト教徒の王のもとに身を寄せた。これは「第一次ヒジュラ」として知られる。地元の伝承は、その一部がエリトリア沿岸に上陸し、マッサワ近くの「教友のモスク」がこの時に建てられたとするが、考古学的には確認されていない。この出来事はイスラームとキリスト教徒の高原との平和的関係の早い例として記憶されている。"
+   }
+  },
+  {
+   "year": 702,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Islam reaches the coast as Aksumite sea power wanes",
+    "ko": "이슬람의 해안 전파와 악숨 해상력의 쇠퇴",
+    "zh": "伊斯兰教传入沿海,阿克苏姆海权衰落",
+    "ja": "イスラームが沿岸に伝わり、アクスムの海上支配が衰える"
+   },
+   "description": {
+    "en": "Arab forces raided Adulis and occupied the Dahlak Islands around 702, ending Aksumite control of the Red Sea. Islam gradually spread along the Eritrean coast and lowlands.",
+    "ko": "702년경 아랍 세력이 아둘리스를 공격하고 달락 제도를 점령하면서 악숨의 홍해 지배가 막을 내렸다. 이후 이슬람은 에리트레아 해안과 저지대로 점차 확산되었다.",
+    "zh": "约702年,阿拉伯势力袭击阿杜利斯并占领达赫拉克群岛,阿克苏姆对红海的控制随之终结。此后伊斯兰教逐渐传播到厄立特里亚沿海与低地。",
+    "ja": "702年頃、アラブ勢力がアドゥリスを襲撃してダフラク諸島を占領し、アクスムの紅海支配は終わりを迎えた。以後イスラームはエリトリア沿岸部と低地に徐々に広まった。"
+   }
+  },
+  {
+   "year": 890,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Arab geographers describe the Beja kingdoms",
+    "ko": "아랍 지리학자들이 기록한 베자 왕국들",
+    "zh": "阿拉伯地理学家记载贝贾诸王国",
+    "ja": "アラブの地理学者が記したベジャ諸王国"
+   },
+   "description": {
+    "en": "In the late 9th century (c.) the Arab historian and geographer al-Ya'qubi described several Beja kingdoms stretching across the lands between Egypt and Aksum, including areas of today's northern and western Eritrea. The Beja were pastoralists who had expanded as Aksumite power declined. Their spread reshaped the population of the lowlands, where later Beja-related and Tigre-speaking groups lived.",
+    "ko": "9세기 후반(약) 아랍 역사가이자 지리학자 알야쿠비는 이집트와 악숨 사이의 땅, 곧 오늘날 에리트레아 북부와 서부를 포함하는 지역에 걸친 여러 베자 왕국을 기록했다. 베자인은 악숨의 세력이 쇠퇴하면서 영역을 넓힌 유목민이었다. 그들의 확산은 저지대 인구 구성을 바꾸어 놓았다.",
+    "zh": "约9世纪后期，阿拉伯历史学家兼地理学家雅古比记载了分布在埃及与阿克苏姆之间、包括今厄立特里亚北部和西部在内的若干贝贾王国。贝贾人是随着阿克苏姆势力衰落而扩张的游牧民。他们的扩散改变了低地的人口构成。",
+    "ja": "9世紀後半頃、アラブの歴史家・地理学者ヤアクービーは、エジプトとアクスムの間の地、すなわち現在のエリトリア北部・西部を含む地域に広がる複数のベジャ王国を記録した。ベジャはアクスムの衰退とともに勢力を広げた牧畜民であった。彼らの拡大は低地の人口構成を大きく変えた。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Dahlak becomes a Muslim trading sultanate",
+    "ko": "다흘라크, 이슬람 교역 술탄국으로 성장",
+    "zh": "达赫拉克成为穆斯林贸易苏丹国",
+    "ja": "ダフラク、ムスリムの交易スルタン国に"
+   },
+   "description": {
+    "en": "Around the 10th–11th centuries (c.) the Dahlak archipelago became the seat of an independent Muslim sultanate that profited from Red Sea shipping. Large numbers of carved Arabic tombstones on Dahlak Kebir, many dated, record its sultans, scholars and merchants. The islands acted as a bridge between Yemen and the African mainland and helped spread Islam along the Eritrean coast.",
+    "ko": "10~11세기경(약) 다흘라크 제도는 홍해 해운으로 이익을 얻는 독립 이슬람 술탄국의 근거지가 되었다. 다흘라크 케비르에 남은 다수의 아랍어 묘비는 상당수가 연대가 새겨져 있으며 술탄과 학자, 상인들을 기록한다. 이 섬들은 예멘과 아프리카 본토를 잇는 다리 역할을 하며 에리트레아 해안에 이슬람이 퍼지는 데 기여했다.",
+    "zh": "约10至11世纪，达赫拉克群岛成为一个依靠红海航运获利的独立穆斯林苏丹国的所在地。大达赫拉克岛上大量雕刻的阿拉伯文墓碑（许多刻有年代）记录了其苏丹、学者和商人。这些岛屿成为也门与非洲大陆之间的桥梁，推动了伊斯兰教在厄立特里亚沿海的传播。",
+    "ja": "10〜11世紀頃、ダフラク諸島は紅海の海運で利益を得る独立したムスリムのスルタン国の拠点となった。ダフラク・ケビール島に残る多数のアラビア語墓碑の多くには年代が刻まれ、スルタンや学者、商人を記録している。諸島はイエメンとアフリカ本土を結ぶ架け橋となり、エリトリア沿岸へのイスラームの普及に寄与した。"
+   }
+  },
+  {
+   "year": 1270,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Solomonic dynasty and the Bahr Negash",
+    "ko": "솔로몬 왕조와 바흐르 네가시",
+    "zh": "所罗门王朝与巴赫尔·内加什",
+    "ja": "ソロモン朝とバフル・ネガシュ"
+   },
+   "description": {
+    "en": "In 1270 Yekuno Amlak founded the Solomonic dynasty in Ethiopia. Under its rule the highlands north of the Mareb were governed as the frontier province of the Bahr Negash, 'ruler of the sea', which became the main Ethiopian title for the region. The Bahr Negash controlled the routes linking the empire to the Red Sea and enjoyed considerable autonomy.",
+    "ko": "1270년 예쿠노 암라크가 에티오피아에 솔로몬 왕조를 세웠다. 그 통치 아래 마레브강 북쪽 고원은 '바다의 왕'이라는 뜻의 바흐르 네가시가 다스리는 변경 지방이 되었고, 이 칭호는 이 지역을 가리키는 에티오피아의 주요 명칭이 되었다. 바흐르 네가시는 제국과 홍해를 잇는 교역로를 장악하며 상당한 자치를 누렸다.",
+    "zh": "1270年，耶库诺·阿姆拉克在埃塞俄比亚建立所罗门王朝。在其统治下，马雷布河以北的高原作为边疆省份由“巴赫尔·内加什”（意为“海洋之王”）管辖，这一称号成为埃塞俄比亚对该地区的主要称谓。巴赫尔·内加什控制着连接帝国与红海的通道，享有相当大的自治权。",
+    "ja": "1270年、イェクノ・アムラクがエチオピアにソロモン朝を開いた。その支配の下でマレブ川以北の高原は、「海の王」を意味するバフル・ネガシュが治める辺境州となり、この称号が同地域を指すエチオピアの主要な呼称となった。バフル・ネガシュは帝国と紅海を結ぶ交易路を押さえ、かなりの自治を享受した。"
+   }
+  },
+  {
+   "year": 1330,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Ewostatewos and the House of Ewostatewos",
+    "ko": "에워스타테워스와 그 수도회",
+    "zh": "埃沃斯塔特沃斯及其修道团体",
+    "ja": "エウォスタテウォスとその修道会"
+   },
+   "description": {
+    "en": "In the first half of the 14th century (c.) the monk Ewostatewos led a reform movement in the northern highlands that insisted on observing both Saturday and Sunday as Sabbaths. Persecuted for his views, he left for Egypt and Armenia, but his disciples founded influential monasteries in what is now Eritrea. The movement's Sabbath practice was eventually accepted by the Ethiopian church in the 15th century.",
+    "ko": "14세기 전반(약) 수도사 에워스타테워스는 북부 고원에서 토요일과 일요일을 모두 안식일로 지킬 것을 주장하는 개혁 운동을 이끌었다. 그는 박해를 받아 이집트와 아르메니아로 떠났으나 제자들은 오늘날 에리트레아 땅에 영향력 있는 수도원들을 세웠다. 이 운동의 안식일 관행은 15세기에 결국 에티오피아 교회에 받아들여졌다.",
+    "zh": "约14世纪上半叶，修士埃沃斯塔特沃斯在北部高原领导了一场主张同时遵守星期六和星期日两个安息日的改革运动。他因其主张受到迫害，前往埃及和亚美尼亚，但其弟子在今厄立特里亚境内建立了颇具影响的修道院。该运动的安息日主张最终在15世纪被埃塞俄比亚教会接受。",
+    "ja": "14世紀前半頃、修道士エウォスタテウォスは北部高原で、土曜日と日曜日の両方を安息日として守ることを説く改革運動を率いた。迫害を受けた彼はエジプトとアルメニアへ去ったが、弟子たちは現在のエリトリアの地に有力な修道院を築いた。この運動の安息日の慣行は、15世紀に最終的にエチオピア教会に受け入れられた。"
+   }
+  },
+  {
+   "year": 1390,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Founding of Debre Bizen monastery",
+    "ko": "데브레 비젠 수도원 창건",
+    "zh": "德布雷·比岑修道院创建",
+    "ja": "デブレ・ビゼン修道院の創建"
+   },
+   "description": {
+    "en": "In the late 14th century (c.) Abba Filipos, a disciple of the Ewostatewos tradition, founded the monastery of Debre Bizen on a mountain summit near Nefasit, overlooking the escarpment toward the Red Sea. It became one of the most important monasteries of the region, with a large library of Ge'ez manuscripts. The monastery remains active today.",
+    "ko": "14세기 후반(약) 에워스타테워스 전통의 제자 아바 필리포스가 네파시트 근처, 홍해 쪽 급경사면을 내려다보는 산 정상에 데브레 비젠 수도원을 세웠다. 이곳은 게에즈어 필사본을 다수 소장한 이 지역의 가장 중요한 수도원 중 하나가 되었다. 수도원은 오늘날에도 운영되고 있다.",
+    "zh": "约14世纪后期，埃沃斯塔特沃斯传统的门徒阿巴·菲利波斯在内法西特附近、俯瞰通往红海的陡崖的山顶上创建了德布雷·比岑修道院。它成为该地区最重要的修道院之一，藏有大量吉兹文手抄本。该修道院至今仍在运作。",
+    "ja": "14世紀後半頃、エウォスタテウォスの伝統に連なるアッバ・フィリポスが、ネファシト近くの紅海側の断崖を見下ろす山頂にデブレ・ビゼン修道院を創建した。同院はゲエズ語写本を多数所蔵する地域屈指の修道院となった。修道院は今日も活動を続けている。"
+   }
+  },
+  {
+   "year": 1450,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Zara Yaqob strengthens the Bahr Negash",
+    "ko": "자라 야콥, 바흐르 네가시 강화",
+    "zh": "扎拉·雅各布加强巴赫尔·内加什",
+    "ja": "ザラ・ヤコブ、バフル・ネガシュを強化"
+   },
+   "description": {
+    "en": "Emperor Zara Yaqob (r. 1434–1468) tightened imperial control over the northern frontier and reinforced the authority of the Bahr Negash over the highland districts, partly to secure the empire's access to the sea. He also promoted religious unity, ending the dispute over the Sabbath with a church council. Debarwa grew into the seat of the Bahr Negash in the following period.",
+    "ko": "자라 야콥 황제(재위 1434~1468)는 북부 변경에 대한 제국의 통제를 강화하고, 바다로의 접근을 확보하려는 목적도 있어 고원 여러 지방에 대한 바흐르 네가시의 권위를 키웠다. 그는 또한 공의회를 통해 안식일 논쟁을 끝내며 종교적 통일을 추진했다. 이후 데바르와가 바흐르 네가시의 본거지로 성장했다.",
+    "zh": "扎拉·雅各布皇帝（1434—1468年在位）加强了帝国对北部边疆的控制，并强化巴赫尔·内加什对高原各地的权威，部分目的在于确保帝国的出海通道。他还召开宗教会议结束了安息日之争，推动宗教统一。此后德巴尔瓦逐渐发展为巴赫尔·内加什的驻地。",
+    "ja": "皇帝ザラ・ヤコブ（在位1434〜1468年）は北部辺境への帝国の統制を強め、海への出口を確保する狙いもあって、高原諸地方に対するバフル・ネガシュの権威を強化した。また教会会議によって安息日論争を収め、宗教的統一を進めた。その後、デバルワがバフル・ネガシュの本拠として発展した。"
+   }
+  },
+  {
+   "year": 1520,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Portuguese embassy lands at Massawa",
+    "ko": "포르투갈 사절단, 마사와 상륙",
+    "zh": "葡萄牙使团在马萨瓦登陆",
+    "ja": "ポルトガル使節団、マッサワに上陸"
+   },
+   "description": {
+    "en": "In April 1520 a Portuguese embassy, including the priest Francisco Álvares, landed at Massawa and travelled inland via Debarwa to the court of Emperor Lebna Dengel. Álvares's account is one of the most detailed early European descriptions of the Bahr Negash's lands and of Ethiopian society. The mission opened a period of Portuguese involvement in the region.",
+    "ko": "1520년 4월 사제 프란시스쿠 알바르스를 포함한 포르투갈 사절단이 마사와에 상륙해 데바르와를 거쳐 레브나 덴겔 황제의 궁정으로 향했다. 알바르스의 기록은 바흐르 네가시의 땅과 에티오피아 사회를 다룬 가장 상세한 초기 유럽 기록 중 하나이다. 이 사절은 포르투갈이 이 지역에 관여하는 시대를 열었다.",
+    "zh": "1520年4月，包括神父弗朗西斯科·阿尔瓦雷斯在内的葡萄牙使团在马萨瓦登陆，经德巴尔瓦前往莱布纳·登格尔皇帝的宫廷。阿尔瓦雷斯的记述是早期欧洲人对巴赫尔·内加什领地和埃塞俄比亚社会最详尽的描述之一。此次出使开启了葡萄牙介入该地区的时期。",
+    "ja": "1520年4月、司祭フランシスコ・アルヴァレスを含むポルトガル使節団がマッサワに上陸し、デバルワを経て皇帝レブナ・デンゲルの宮廷へ向かった。アルヴァレスの記録は、バフル・ネガシュの地とエチオピア社会についての最も詳細な初期ヨーロッパの記述の一つである。この使節はポルトガルが地域に関与する時代の幕開けとなった。"
+   }
+  },
+  {
+   "year": 1541,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Cristóvão da Gama lands at Massawa",
+    "ko": "크리스토방 다 가마, 마사와 상륙",
+    "zh": "克里斯托旺·达伽马在马萨瓦登陆",
+    "ja": "クリストヴァン・ダ・ガマ、マッサワに上陸"
+   },
+   "description": {
+    "en": "In 1541 a Portuguese force of about 400 musketeers under Cristóvão da Gama landed at Massawa to aid Ethiopia against Imam Ahmad ibn Ibrahim of Adal, whose armies had overrun much of the highlands since 1529. Supported by the Bahr Negash Yeshaq, the Portuguese marched inland from Debarwa. Although da Gama was killed in 1542, the alliance contributed to Adal's defeat in 1543.",
+    "ko": "1541년 크리스토방 다 가마가 이끄는 약 400명의 포르투갈 머스킷 총병이 마사와에 상륙해, 1529년 이래 고원 대부분을 휩쓴 아달의 이맘 아흐마드 이븐 이브라힘에 맞선 에티오피아를 도왔다. 바흐르 네가시 예샤크의 지원을 받은 포르투갈군은 데바르와에서 내륙으로 진군했다. 다 가마는 1542년 전사했지만 이 동맹은 1543년 아달의 패배에 기여했다.",
+    "zh": "1541年，克里斯托旺·达伽马率领约400名葡萄牙火枪手在马萨瓦登陆，援助埃塞俄比亚对抗阿达尔的伊玛目艾哈迈德·伊本·易卜拉欣，后者的军队自1529年起已席卷高原大部。在巴赫尔·内加什伊沙克的支持下，葡萄牙军从德巴尔瓦向内陆进军。达伽马虽于1542年阵亡，但这一同盟促成了阿达尔在1543年的失败。",
+    "ja": "1541年、クリストヴァン・ダ・ガマ率いる約400人のポルトガル銃兵がマッサワに上陸し、1529年以来高原の大半を席巻していたアダルのイマーム、アフマド・イブン・イブラーヒームに対抗するエチオピアを支援した。バフル・ネガシュのイェシャクの支援を受け、ポルトガル軍はデバルワから内陸へ進軍した。ダ・ガマは1542年に戦死したが、この同盟は1543年のアダルの敗北に寄与した。"
+   }
+  },
+  {
+   "year": 1557,
+   "qid": "Q7109948",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ottomans take Massawa and create the Habesh province",
+    "ko": "오스만 제국, 마사와 점령과 하베시 주 설치",
+    "zh": "奥斯曼帝国占领马萨瓦,设哈贝什省",
+    "ja": "オスマン帝国がマッサワを占領、ハベシュ州を設置"
+   },
+   "description": {
+    "en": "The Ottoman Empire captured the port of Massawa in 1557 and organized its Red Sea coastal holdings into the province of Habesh, dominating Eritrea's coast for over three centuries.",
+    "ko": "1557년 오스만 제국이 마사와 항을 점령하고 홍해 연안 영토를 하베시 주로 편성했다. 이후 300년 넘게 에리트레아 해안은 오스만의 영향권에 놓였다.",
+    "zh": "1557年,奥斯曼帝国攻占马萨瓦港,并将其红海沿岸领地编为哈贝什省,此后三个多世纪主导着厄立特里亚海岸。",
+    "ja": "1557年、オスマン帝国は港町マッサワを占領し、紅海沿岸の領土をハベシュ州として編成した。以後300年以上にわたりエリトリア沿岸はオスマンの影響下に置かれた。"
+   }
+  },
+  {
+   "year": 1578,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Bahr Negash Yeshaq defeated at Addi Qarro",
+    "ko": "바흐르 네가시 예샤크, 아디 카로에서 패배",
+    "zh": "巴赫尔·内加什伊沙克在阿迪卡罗战败",
+    "ja": "バフル・ネガシュのイェシャク、アディ・カロで敗北"
+   },
+   "description": {
+    "en": "The Bahr Negash Yeshaq, once a loyal ally of the emperors, rebelled and allied with the Ottomans of Massawa. In 1578 Emperor Sarsa Dengel defeated the rebels and their Ottoman allies, and Yeshaq was killed. The emperor's victory checked Ottoman expansion inland, though the Ottomans kept the coast.",
+    "ko": "한때 황제들의 충실한 동맹이었던 바흐르 네가시 예샤크는 반란을 일으켜 마사와의 오스만 세력과 손을 잡았다. 1578년 사르사 덴겔 황제가 반란군과 오스만 동맹군을 격파했고 예샤크는 전사했다. 황제의 승리는 오스만의 내륙 진출을 저지했으나 해안은 여전히 오스만이 차지했다.",
+    "zh": "巴赫尔·内加什伊沙克曾是皇帝的忠实盟友，后来起兵反叛，并与马萨瓦的奥斯曼人结盟。1578年，萨尔萨·登格尔皇帝击败叛军及其奥斯曼盟军，伊沙克战死。皇帝的胜利遏制了奥斯曼向内陆的扩张，但沿海仍在奥斯曼手中。",
+    "ja": "かつて皇帝の忠実な同盟者だったバフル・ネガシュのイェシャクは反乱を起こし、マッサワのオスマン勢力と手を結んだ。1578年、皇帝サルサ・デンゲルは反乱軍とオスマンの同盟軍を破り、イェシャクは戦死した。皇帝の勝利はオスマンの内陸進出を食い止めたが、沿岸は引き続きオスマンが保持した。"
+   }
+  },
+  {
+   "year": 1650,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Naibs of Arkiko rule the coast for the Ottomans",
+    "ko": "아르키코의 나이브, 오스만을 대신해 해안 통치",
+    "zh": "阿尔基科的纳伊布代奥斯曼治理沿海",
+    "ja": "アルキコのナイブ、オスマンに代わり沿岸を統治"
+   },
+   "description": {
+    "en": "During the 17th century (c.) the Ottomans reduced their garrison on the Eritrean coast and entrusted day-to-day control of the mainland to the Naibs, Belew chiefs based at Arkiko (Hirgigo) south of Massawa. The Naibs collected tolls on caravans and mediated between the port and the highland rulers. They remained powerful local intermediaries until Egyptian rule in the 19th century.",
+    "ko": "17세기(약) 오스만 제국은 에리트레아 해안의 수비대를 줄이고, 마사와 남쪽 아르키코(히르기고)에 근거한 벨루 수장 '나이브'들에게 본토의 일상적 통제를 맡겼다. 나이브는 대상 행렬에 통행세를 걷고 항구와 고원의 지배자들 사이를 중개했다. 이들은 19세기 이집트 지배 때까지 강력한 지역 중개자로 남았다.",
+    "zh": "约17世纪，奥斯曼帝国缩减了在厄立特里亚沿海的驻军，把对大陆的日常控制交给驻于马萨瓦以南阿尔基科（希尔吉戈）的贝卢首领“纳伊布”。纳伊布向商队征收通行税，并在港口与高原统治者之间斡旋。直到19世纪埃及统治时期，他们一直是有力的地方中间人。",
+    "ja": "17世紀頃、オスマン帝国はエリトリア沿岸の守備隊を縮小し、マッサワ南方のアルキコ（ヒルギゴ）を拠点とするベルーの首長「ナイブ」に本土の日常的な統制を委ねた。ナイブは隊商に通行税を課し、港と高原の支配者の間を仲介した。彼らは19世紀のエジプト支配まで有力な在地の仲介者であり続けた。"
+   }
+  },
+  {
+   "year": 1769,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "James Bruce lands at Massawa",
+    "ko": "제임스 브루스, 마사와 상륙",
+    "zh": "詹姆斯·布鲁斯在马萨瓦登陆",
+    "ja": "ジェームズ・ブルース、マッサワに上陸"
+   },
+   "description": {
+    "en": "In 1769 the Scottish traveller James Bruce landed at Massawa on his way to Gondar in search of the source of the Blue Nile. He was detained for a time by the Naib before continuing inland through the highlands. His later travel account gave European readers a vivid, if sometimes disputed, picture of the region.",
+    "ko": "1769년 스코틀랜드 여행가 제임스 브루스는 청나일강의 수원을 찾아 곤다르로 가는 길에 마사와에 상륙했다. 그는 한동안 나이브에게 억류되었다가 고원을 거쳐 내륙으로 향했다. 그가 훗날 펴낸 여행기는 때로 논란이 있었지만 유럽 독자들에게 이 지역의 생생한 모습을 전했다.",
+    "zh": "1769年，苏格兰旅行家詹姆斯·布鲁斯为寻找青尼罗河源头前往贡德尔，途中在马萨瓦登陆。他一度被纳伊布扣留，随后经高原进入内陆。他后来出版的游记虽有时引起争议，却为欧洲读者描绘了该地区的生动图景。",
+    "ja": "1769年、スコットランドの旅行家ジェームズ・ブルースは青ナイル川の源流を求めてゴンダールへ向かう途中、マッサワに上陸した。彼はしばらくナイブに足止めされた後、高原を通って内陸へ進んだ。のちに出版された旅行記は、時に疑問視されつつも、ヨーロッパの読者にこの地域の生き生きとした姿を伝えた。"
+   }
+  },
+  {
+   "year": 1865,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Egypt takes over Massawa",
+    "ko": "이집트, 마사와 인수",
+    "zh": "埃及接管马萨瓦",
+    "ja": "エジプトがマッサワを掌握"
+   },
+   "description": {
+    "en": "In 1865 the Ottoman sultan transferred Massawa and Suakin to Khedive Isma'il of Egypt, who sought to build an African empire around the Red Sea and the Nile. Egyptian administrators modernized the port and began pressing inland. Their ambitions soon brought them into conflict with Emperor Yohannes IV of Ethiopia.",
+    "ko": "1865년 오스만 술탄은 마사와와 수아킨을 이집트의 헤디브 이스마일에게 넘겼다. 이스마일은 홍해와 나일강을 둘러싼 아프리카 제국을 건설하려 했다. 이집트 관리들은 항구를 근대화하고 내륙으로 압박해 들어가기 시작했으며, 그 야심은 곧 에티오피아의 요하네스 4세 황제와의 충돌을 불렀다.",
+    "zh": "1865年，奥斯曼苏丹将马萨瓦和萨瓦金移交给埃及赫迪夫伊斯梅尔，后者意图围绕红海和尼罗河建立一个非洲帝国。埃及官员对港口进行了现代化改造，并开始向内陆施压。其野心很快导致与埃塞俄比亚皇帝约翰尼斯四世发生冲突。",
+    "ja": "1865年、オスマン帝国のスルタンはマッサワとスアキンをエジプトのヘディーヴ、イスマーイールに移譲した。イスマーイールは紅海とナイル川を軸とするアフリカ帝国の建設を目指していた。エジプトの行政官は港を近代化して内陸へ圧力を強め、その野心はやがてエチオピア皇帝ヨハンネス4世との衝突を招いた。"
+   }
+  },
+  {
+   "year": 1869,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Italy gains a foothold at Assab",
+    "ko": "이탈리아, 아사브에 첫 거점 확보",
+    "zh": "意大利在阿萨布取得立足点",
+    "ja": "イタリア、アッサブに足がかりを得る"
+   },
+   "description": {
+    "en": "An Italian shipping company purchased the Bay of Assab from local sultans in 1869, shortly before the Suez Canal opened. The Italian state took over the settlement in 1882, beginning colonial expansion.",
+    "ko": "수에즈 운하 개통 직전인 1869년, 이탈리아 해운회사가 현지 술탄들로부터 아사브 만을 매입했다. 1882년 이탈리아 정부가 이를 인수하며 식민지 확장이 시작되었다.",
+    "zh": "1869年,苏伊士运河开通前夕,一家意大利航运公司从当地苏丹手中购得阿萨布湾。1882年意大利政府接管该地,开始殖民扩张。",
+    "ja": "スエズ運河開通を目前にした1869年、イタリアの海運会社が現地スルタンからアッサブ湾を購入した。1882年にはイタリア政府がこれを引き継ぎ、植民地拡大が始まった。"
+   }
+  },
+  {
+   "year": 1872,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Egypt occupies Keren and the Bogos",
+    "ko": "이집트, 케렌과 보고스 점령",
+    "zh": "埃及占领克伦和博戈斯",
+    "ja": "エジプト、ケレンとボゴスを占領"
+   },
+   "description": {
+    "en": "In 1872 Werner Munzinger, a Swiss adventurer serving as Egyptian governor of Massawa, occupied the Bogos district around Keren. The move gave Egypt a foothold on the edge of the highlands, between Massawa and its Sudanese provinces. Ethiopia regarded Bogos as its territory, and the occupation became a cause of war.",
+    "ko": "1872년 이집트의 마사와 총독으로 일하던 스위스인 모험가 베르너 문칭거가 케렌 주변 보고스 지방을 점령했다. 이로써 이집트는 마사와와 수단 영토 사이, 고원 가장자리에 발판을 마련했다. 에티오피아는 보고스를 자국 영토로 여겼으므로 이 점령은 전쟁의 원인이 되었다.",
+    "zh": "1872年，担任埃及马萨瓦总督的瑞士冒险家维尔纳·蒙青格占领了克伦周围的博戈斯地区。此举使埃及在马萨瓦与其苏丹属地之间、高原边缘取得了立足点。埃塞俄比亚视博戈斯为本国领土，这次占领成为战争的导火索。",
+    "ja": "1872年、エジプトのマッサワ総督を務めていたスイス人冒険家ヴェルナー・ムンツィンガーが、ケレン周辺のボゴス地方を占領した。これによりエジプトはマッサワとスーダン領の間、高原の縁に足場を得た。エチオピアはボゴスを自国領とみなしており、この占領は戦争の原因となった。"
+   }
+  },
+  {
+   "year": 1875,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Gundet",
+    "ko": "군데트 전투",
+    "zh": "贡德特战役",
+    "ja": "グンデトの戦い"
+   },
+   "description": {
+    "en": "In November 1875 an Egyptian army advancing from Massawa into the highlands was trapped and destroyed at Gundet, near the Mareb river, by the forces of Emperor Yohannes IV. The defeat was a severe blow to Khedive Isma'il's plans to expand into Ethiopia. Ras Alula, a commander in the battle, rose to prominence afterwards.",
+    "ko": "1875년 11월 마사와에서 고원으로 진격하던 이집트군이 마레브강 부근 군데트에서 요하네스 4세 황제의 군대에 포위되어 궤멸되었다. 이 패배는 에티오피아로 세력을 넓히려던 헤디브 이스마일의 계획에 큰 타격이 되었다. 이 전투의 지휘관 중 한 명이었던 라스 알룰라는 이후 두각을 나타냈다.",
+    "zh": "1875年11月，一支从马萨瓦向高原推进的埃及军队在马雷布河附近的贡德特被约翰尼斯四世皇帝的军队围歼。这次失败沉重打击了赫迪夫伊斯梅尔向埃塞俄比亚扩张的计划。参战将领之一的拉斯·阿卢拉此后声名鹊起。",
+    "ja": "1875年11月、マッサワから高原へ進軍したエジプト軍は、マレブ川近くのグンデトで皇帝ヨハンネス4世の軍に包囲され壊滅した。この敗北は、エチオピアへ勢力を広げようとしたヘディーヴ・イスマーイールの計画に大きな打撃を与えた。この戦いの指揮官の一人ラス・アルラは、その後頭角を現した。"
+   }
+  },
+  {
+   "year": 1876,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Gura",
+    "ko": "구라 전투",
+    "zh": "古拉战役",
+    "ja": "グラの戦い"
+   },
+   "description": {
+    "en": "In March 1876 a larger Egyptian expedition, built up to avenge Gundet, was decisively defeated by Yohannes IV at Gura on the Eritrean plateau. The defeat ended Egypt's attempts to conquer the Ethiopian highlands and damaged the Khedive's finances and prestige. Egypt still held Massawa and the Bogos, but the highlands remained under Ethiopian control.",
+    "ko": "1876년 3월 군데트의 패배를 설욕하려고 편성된 더 큰 규모의 이집트 원정군이 에리트레아 고원의 구라에서 요하네스 4세에게 결정적으로 패했다. 이 패배로 이집트의 에티오피아 고원 정복 시도는 끝났고 헤디브의 재정과 위신도 큰 타격을 입었다. 이집트는 여전히 마사와와 보고스를 차지했지만 고원은 에티오피아의 통제 아래 남았다.",
+    "zh": "1876年3月，为报贡德特之仇而组建的更大规模的埃及远征军，在厄立特里亚高原的古拉被约翰尼斯四世决定性地击败。此役终结了埃及征服埃塞俄比亚高原的企图，也损害了赫迪夫的财政和威望。埃及仍控制着马萨瓦和博戈斯，但高原依然在埃塞俄比亚手中。",
+    "ja": "1876年3月、グンデトの雪辱を期して編成されたより大規模なエジプト遠征軍が、エリトリア高原のグラでヨハンネス4世に決定的に敗れた。この敗北でエジプトのエチオピア高原征服の試みは終わり、ヘディーヴの財政と威信も傷ついた。エジプトはなおマッサワとボゴスを保持したが、高原はエチオピアの支配下にとどまった。"
+   }
+  },
+  {
+   "year": 1879,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ras Alula governs from Asmara",
+    "ko": "라스 알룰라, 아스마라에서 통치",
+    "zh": "拉斯·阿卢拉坐镇阿斯马拉",
+    "ja": "ラス・アルラ、アスマラから統治"
+   },
+   "description": {
+    "en": "After the wars with Egypt, Emperor Yohannes IV made his general Ras Alula governor of the lands north of the Mareb, the Mereb Melash. Alula established his headquarters at Asmara, then a modest village, which began to grow into the region's political centre. He defended the frontier against Egyptians, Mahdists and later Italians.",
+    "ko": "이집트와의 전쟁 이후 요하네스 4세 황제는 장군 라스 알룰라를 마레브강 북쪽 땅, 곧 메레브 멜라시의 총독으로 삼았다. 알룰라는 당시 작은 마을이던 아스마라에 본영을 두었고, 아스마라는 이 지역의 정치 중심지로 성장하기 시작했다. 그는 이집트, 마흐디 세력, 그리고 이후 이탈리아에 맞서 변경을 지켰다.",
+    "zh": "与埃及的战争结束后，约翰尼斯四世皇帝任命将军拉斯·阿卢拉为马雷布河以北地区即“梅雷布·梅拉什”的总督。阿卢拉把司令部设在当时还是小村庄的阿斯马拉，阿斯马拉由此开始发展为该地区的政治中心。他抵御了埃及人、马赫迪派以及后来的意大利人对边疆的进犯。",
+    "ja": "エジプトとの戦争の後、皇帝ヨハンネス4世は将軍ラス・アルラをマレブ川以北の地、メレブ・メラシュの総督に任じた。アルラは当時小さな村だったアスマラに本営を置き、アスマラは地域の政治的中心へと成長し始めた。彼はエジプト、マフディー派、のちにはイタリアから辺境を守った。"
+   }
+  },
+  {
+   "year": 1884,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Hewett Treaty",
+    "ko": "휴잇 조약",
+    "zh": "休伊特条约",
+    "ja": "ヒューエット条約"
+   },
+   "description": {
+    "en": "In June 1884 Britain, acting for Egypt, signed the Hewett Treaty with Emperor Yohannes IV at Adwa. Ethiopia was promised free transit of goods through Massawa and the return of the Bogos district, in exchange for helping evacuate Egyptian garrisons threatened by the Mahdists in Sudan. Britain's later acquiescence in the Italian takeover of Massawa left Ethiopia feeling betrayed.",
+    "ko": "1884년 6월 이집트를 대리한 영국은 아드와에서 요하네스 4세 황제와 휴잇 조약을 맺었다. 에티오피아는 수단의 마흐디 세력에 위협받던 이집트 수비대의 철수를 돕는 대가로 마사와를 통한 상품의 자유 통과와 보고스 지방의 반환을 약속받았다. 그러나 이후 영국이 이탈리아의 마사와 점령을 묵인하자 에티오피아는 배신감을 느꼈다.",
+    "zh": "1884年6月，英国代表埃及在阿杜瓦与约翰尼斯四世皇帝签订《休伊特条约》。作为协助撤出受苏丹马赫迪派威胁的埃及驻军的回报，埃塞俄比亚获得经马萨瓦自由过境货物以及收回博戈斯地区的承诺。此后英国默许意大利接管马萨瓦，令埃塞俄比亚深感被出卖。",
+    "ja": "1884年6月、エジプトを代理するイギリスはアドワで皇帝ヨハンネス4世とヒューエット条約を結んだ。エチオピアは、スーダンのマフディー派に脅かされたエジプト守備隊の撤退を助ける見返りに、マッサワ経由の物資の自由通過とボゴス地方の返還を約束された。その後イギリスがイタリアのマッサワ占領を黙認したため、エチオピアは裏切られたと感じた。"
+   }
+  },
+  {
+   "year": 1885,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Italy occupies Massawa",
+    "ko": "이탈리아, 마사와 점령",
+    "zh": "意大利占领马萨瓦",
+    "ja": "イタリア、マッサワを占領"
+   },
+   "description": {
+    "en": "In February 1885, with British encouragement, Italian troops landed at Massawa as the Egyptian garrison withdrew. Italy soon expanded its control along the coast and toward the highland escarpment. The occupation marked the real beginning of Italian colonial rule in Eritrea.",
+    "ko": "1885년 2월 영국의 묵인 아래 이집트 수비대가 철수하는 가운데 이탈리아군이 마사와에 상륙했다. 이탈리아는 곧 해안을 따라, 그리고 고원 급경사면 쪽으로 통제 범위를 넓혔다. 이 점령은 에리트레아에서 이탈리아 식민 통치의 실질적 시작이었다.",
+    "zh": "1885年2月，在英国的鼓励下，意大利军队趁埃及驻军撤离之际在马萨瓦登陆。意大利很快沿海岸并向高原陡崖方向扩大控制范围。这次占领标志着意大利在厄立特里亚殖民统治的真正开始。",
+    "ja": "1885年2月、イギリスの後押しを受け、エジプト守備隊の撤退に合わせてイタリア軍がマッサワに上陸した。イタリアはまもなく沿岸沿いと高原の断崖方面へ支配を広げた。この占領は、エリトリアにおけるイタリア植民地支配の実質的な始まりであった。"
+   }
+  },
+  {
+   "year": 1887,
+   "qid": "Q3778598",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Dogali",
+    "ko": "도갈리 전투",
+    "zh": "多加利战役",
+    "ja": "ドガリの戦い"
+   },
+   "description": {
+    "en": "In January 1887 Ras Alula attacked the Italian outpost at Saati and then destroyed an Italian relief column at Dogali, west of Massawa, killing several hundred soldiers. The defeat caused uproar in Italy and led to a larger military build-up on the coast. It opened the Italo-Ethiopian war of 1887–1889, which ended without a decisive battle.",
+    "ko": "1887년 1월 라스 알룰라는 사아티의 이탈리아 초소를 공격한 뒤 마사와 서쪽 도갈리에서 이탈리아 지원 부대를 섬멸해 수백 명의 병사를 전사시켰다. 이 패배는 이탈리아에서 큰 파문을 일으켰고 해안에 더 큰 군사력이 증강되는 계기가 되었다. 이로써 결정적 전투 없이 끝난 1887~1889년 이탈리아·에티오피아 전쟁이 시작되었다.",
+    "zh": "1887年1月，拉斯·阿卢拉进攻萨阿提的意大利哨所，随后在马萨瓦以西的多加利全歼一支意大利增援部队，击毙数百名士兵。这次失败在意大利引起轩然大波，并促使其在沿海大规模增兵。由此爆发的1887—1889年意埃战争最终未经决战而结束。",
+    "ja": "1887年1月、ラス・アルラはサアティのイタリア軍拠点を攻撃し、続いてマッサワ西方のドガリでイタリアの救援部隊を壊滅させ、数百人の兵士を戦死させた。この敗北はイタリアで大きな衝撃を呼び、沿岸での軍備増強につながった。こうして1887〜1889年のイタリア・エチオピア戦争が始まったが、決戦のないまま終わった。"
+   }
+  },
+  {
+   "year": 1889,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Wuchale and the Italian occupation of Asmara",
+    "ko": "우찰레 조약과 이탈리아의 아스마라 점령",
+    "zh": "《乌查利条约》与意大利占领阿斯马拉",
+    "ja": "ウッチャリ条約とイタリアのアスマラ占領"
+   },
+   "description": {
+    "en": "After the death of Yohannes IV in 1889, the new emperor Menelik II signed the Treaty of Wuchale with Italy, recognizing Italian control over much of the northern highlands. Italian troops occupied Asmara in August 1889. A dispute over the treaty's Italian and Amharic texts, which Italy claimed made Ethiopia a protectorate, later led to war.",
+    "ko": "1889년 요하네스 4세가 사망한 뒤 새 황제 메넬리크 2세는 이탈리아와 우찰레 조약을 맺어 북부 고원 상당 부분에 대한 이탈리아의 지배를 인정했다. 이탈리아군은 1889년 8월 아스마라를 점령했다. 이탈리아가 에티오피아를 보호국으로 만든다고 주장한 조약의 이탈리아어본과 암하라어본 사이의 차이를 둘러싼 분쟁은 훗날 전쟁으로 이어졌다.",
+    "zh": "1889年约翰尼斯四世去世后，新皇帝孟尼利克二世与意大利签订《乌查利条约》，承认意大利对北部高原大部分地区的控制。意大利军队于1889年8月占领阿斯马拉。条约意大利文本与阿姆哈拉文本之间的分歧——意大利声称据此埃塞俄比亚成为其保护国——后来引发了战争。",
+    "ja": "1889年にヨハンネス4世が死去すると、新皇帝メネリク2世はイタリアとウッチャリ条約を結び、北部高原の大部分に対するイタリアの支配を認めた。イタリア軍は1889年8月にアスマラを占領した。エチオピアを保護国にするとイタリアが主張した、条約のイタリア語版とアムハラ語版の食い違いをめぐる対立は、のちに戦争へとつながった。"
+   }
+  },
+  {
+   "year": 1890,
+   "qid": "Q1232988",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Italy proclaims the Colony of Eritrea",
+    "ko": "이탈리아, 에리트레아 식민지 선포",
+    "zh": "意大利宣布建立厄立特里亚殖民地",
+    "ja": "イタリア、エリトリア植民地を宣言"
+   },
+   "description": {
+    "en": "On 1 January 1890 Italy formally united its Red Sea possessions as the Colony of Eritrea, named after the ancient Greek term for the sea. Asmara later became the capital and the territory's modern borders took shape.",
+    "ko": "1890년 1월 1일 이탈리아는 홍해 연안 점령지를 통합해 에리트레아 식민지를 공식 선포했다. 그리스어로 홍해를 뜻하는 이름이 붙었으며, 이후 아스마라가 수도가 되고 오늘날의 국경이 형성되었다.",
+    "zh": "1890年1月1日,意大利将其红海沿岸属地合并为厄立特里亚殖民地,名称源自希腊语中的红海。此后阿斯马拉成为首都,今日的疆界逐渐形成。",
+    "ja": "1890年1月1日、イタリアは紅海沿岸の領有地を統合し、ギリシャ語で紅海を意味する名を冠したエリトリア植民地を正式に樹立した。のちにアスマラが首都となり、現在の国境の原型が形づくられた。"
+   }
+  },
+  {
+   "year": 1890,
+   "qid": "Q3921576",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First Battle of Agordat",
+    "ko": "제1차 아고르다트 전투",
+    "zh": "第一次阿戈尔达特战役",
+    "ja": "第一次アゴルダトの戦い"
+   },
+   "description": {
+    "en": "In June 1890 Italian colonial troops, largely Eritrean askari, repelled a Mahdist raiding force from Sudan near Agordat in the western lowlands. The clash was one of the first engagements between the new colony and the Mahdist state. It strengthened Italian claims to the western lowlands along the Sudanese frontier.",
+    "ko": "1890년 6월 에리트레아인 아스카리가 주축인 이탈리아 식민군이 서부 저지대 아고르다트 부근에서 수단 마흐디 국가의 습격대를 격퇴했다. 이 충돌은 새 식민지와 마흐디 국가 사이의 첫 교전 가운데 하나였다. 이를 계기로 수단 접경 서부 저지대에 대한 이탈리아의 영유권 주장이 강화되었다.",
+    "zh": "1890年6月，以厄立特里亚“阿斯卡里”士兵为主的意大利殖民军在西部低地阿戈尔达特附近击退了一支来自苏丹的马赫迪派袭击部队。这是新殖民地与马赫迪国家最早的交战之一。它加强了意大利对苏丹边境西部低地的主权要求。",
+    "ja": "1890年6月、エリトリア人アスカリを主力とするイタリア植民地軍が、西部低地のアゴルダト付近でスーダンのマフディー国家の襲撃部隊を撃退した。この衝突は新植民地とマフディー国家との最初の交戦の一つであった。これにより、スーダン国境沿いの西部低地に対するイタリアの領有主張が強まった。"
+   }
+  },
+  {
+   "year": 1893,
+   "qid": "Q665983",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Second Battle of Agordat",
+    "ko": "제2차 아고르다트 전투",
+    "zh": "第二次阿戈尔达特战役",
+    "ja": "第二次アゴルダトの戦い"
+   },
+   "description": {
+    "en": "In December 1893 Italian and Eritrean colonial troops under Colonel Giuseppe Arimondi defeated a large Mahdist army at Agordat. It was one of the first significant victories of a European-led force over the Mahdists. The following year the Italians advanced to capture Kassala in Sudan.",
+    "ko": "1893년 12월 주세페 아리몬디 대령이 이끄는 이탈리아·에리트레아 식민군이 아고르다트에서 대규모 마흐디군을 격파했다. 이는 유럽이 지휘하는 군대가 마흐디 세력에 거둔 초기의 중요한 승리 가운데 하나였다. 이듬해 이탈리아군은 진격해 수단의 카살라를 점령했다.",
+    "zh": "1893年12月，朱塞佩·阿里蒙迪上校指挥的意大利和厄立特里亚殖民军在阿戈尔达特击败了一支庞大的马赫迪军队。这是欧洲人指挥的部队对马赫迪派取得的最早的重要胜利之一。次年意军推进并攻占了苏丹的卡萨拉。",
+    "ja": "1893年12月、ジュゼッペ・アリモンディ大佐率いるイタリア・エリトリア植民地軍がアゴルダトで大規模なマフディー軍を破った。これはヨーロッパ人が率いる軍がマフディー派に収めた初期の重要な勝利の一つであった。翌年イタリア軍は進撃してスーダンのカッサラを占領した。"
+   }
+  },
+  {
+   "year": 1894,
+   "qid": "Q18164954",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Bahta Hagos revolt",
+    "ko": "바흐타 하고스의 반란",
+    "zh": "巴赫塔·哈戈斯起义",
+    "ja": "バフタ・ハゴスの反乱"
+   },
+   "description": {
+    "en": "In December 1894 Bahta Hagos, a chief of Akkele Guzay who had earlier cooperated with the Italians, rose in revolt against colonial land confiscation and rule. He was killed in the fighting at Halai. He is remembered in Eritrea as an early hero of resistance to colonialism, and the revolt preceded open war between Italy and Ethiopia.",
+    "ko": "1894년 12월, 앞서 이탈리아에 협력했던 아켈레 구자이의 수장 바흐타 하고스가 식민 당국의 토지 몰수와 통치에 맞서 봉기했다. 그는 할라이 전투에서 전사했다. 그는 에리트레아에서 식민주의에 맞선 초기 저항의 영웅으로 기억되며, 이 반란은 이탈리아와 에티오피아 사이의 전면전에 앞서 일어났다.",
+    "zh": "1894年12月，曾与意大利人合作的阿凯莱·古宰首领巴赫塔·哈戈斯起兵反抗殖民当局的土地没收和统治。他在哈莱战斗中阵亡。他在厄立特里亚被视为反殖民抵抗的早期英雄，这次起义发生在意大利与埃塞俄比亚全面开战之前。",
+    "ja": "1894年12月、以前はイタリアに協力していたアッケレ・グザイの首長バフタ・ハゴスが、植民地当局による土地没収と支配に反発して蜂起した。彼はハライでの戦闘で戦死した。彼はエリトリアで植民地主義への抵抗の初期の英雄として記憶されており、この反乱はイタリアとエチオピアの全面戦争に先立つものだった。"
+   }
+  },
+  {
+   "year": 1895,
+   "qid": "Q2888324",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Coatit",
+    "ko": "코아티트 전투",
+    "zh": "科阿蒂特战役",
+    "ja": "コアティトの戦い"
+   },
+   "description": {
+    "en": "In January 1895 Italian colonial forces under General Oreste Baratieri defeated Ras Mengesha Yohannes of Tigray at Coatit in the Eritrean highlands. The Italians then advanced into Tigray. This escalation drew Emperor Menelik II into full-scale war with Italy.",
+    "ko": "1895년 1월 오레스테 바라티에리 장군이 이끄는 이탈리아 식민군이 에리트레아 고원의 코아티트에서 티그라이의 라스 멩게샤 요하네스를 격파했다. 이탈리아군은 이어 티그라이로 진격했다. 이러한 확전은 메넬리크 2세 황제를 이탈리아와의 전면전으로 끌어들였다.",
+    "zh": "1895年1月，奥雷斯特·巴拉蒂耶里将军率领的意大利殖民军在厄立特里亚高原的科阿蒂特击败提格雷的拉斯·门格沙·约翰尼斯。意军随后向提格雷推进。这一升级使孟尼利克二世皇帝卷入与意大利的全面战争。",
+    "ja": "1895年1月、オレステ・バラティエリ将軍率いるイタリア植民地軍が、エリトリア高原のコアティトでティグライのラス・メンゲシャ・ヨハンネスを破った。イタリア軍はその後ティグライへ進撃した。この戦線拡大により皇帝メネリク2世はイタリアとの全面戦争に引き込まれた。"
+   }
+  },
+  {
+   "year": 1896,
+   "qid": "Q989115",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "After Adwa, Ethiopia recognizes the colony",
+    "ko": "아드와 이후 에티오피아의 식민지 인정",
+    "zh": "阿杜瓦战役后埃塞俄比亚承认殖民地",
+    "ja": "アドワ後、エチオピアが植民地を承認"
+   },
+   "description": {
+    "en": "Italy's crushing defeat by Menelik II at Adwa in March 1896 ended its hopes of conquering Ethiopia. Under the Treaty of Addis Ababa in October 1896, however, Ethiopia recognized Italian sovereignty over Eritrea, with the Mareb river region as the approximate frontier. The colony thus survived as a distinct territory separated from Tigray.",
+    "ko": "1896년 3월 아드와에서 메넬리크 2세에게 대패하면서 이탈리아의 에티오피아 정복 야망은 끝났다. 그러나 1896년 10월 아디스아바바 조약으로 에티오피아는 마레브강 일대를 대략적 경계로 하여 에리트레아에 대한 이탈리아의 주권을 인정했다. 이로써 식민지는 티그라이와 분리된 독자 영토로 존속하게 되었다.",
+    "zh": "1896年3月意大利在阿杜瓦被孟尼利克二世重创，其征服埃塞俄比亚的希望破灭。然而根据1896年10月的《亚的斯亚贝巴条约》，埃塞俄比亚承认意大利对厄立特里亚的主权，大致以马雷布河一带为界。殖民地由此作为与提格雷分离的独立领土得以存续。",
+    "ja": "1896年3月のアドワでメネリク2世に大敗し、イタリアのエチオピア征服の望みは潰えた。しかし同年10月のアディスアベバ条約で、エチオピアはマレブ川一帯をおおよその境界としてエリトリアに対するイタリアの主権を認めた。こうして植民地はティグライから切り離された独自の領域として存続した。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Asmara becomes the colonial capital",
+    "ko": "아스마라, 식민지 수도가 되다",
+    "zh": "阿斯马拉成为殖民地首府",
+    "ja": "アスマラが植民地の首都に"
+   },
+   "description": {
+    "en": "Around 1897, under civilian governor Ferdinando Martini, the seat of the colonial government moved from hot coastal Massawa to Asmara on the cooler highland plateau. Asmara was laid out with Italian-style streets and public buildings and grew steadily as the administrative centre. It has remained the capital of Eritrea ever since.",
+    "ko": "1897년경 민간인 총독 페르디난도 마르티니 아래 식민 정부의 소재지가 무더운 해안 도시 마사와에서 서늘한 고원의 아스마라로 옮겨졌다. 아스마라에는 이탈리아식 가로와 공공건물이 들어섰고 행정 중심지로서 꾸준히 성장했다. 이후 아스마라는 줄곧 에리트레아의 수도로 남아 있다.",
+    "zh": "约1897年，在文职总督费尔迪南多·马蒂尼任内，殖民政府所在地从炎热的沿海城市马萨瓦迁至凉爽高原上的阿斯马拉。阿斯马拉按照意大利风格规划街道和公共建筑，作为行政中心稳步发展。此后它一直是厄立特里亚的首都。",
+    "ja": "1897年頃、文民総督フェルディナンド・マルティーニのもとで、植民地政府の所在地が暑い沿岸のマッサワから涼しい高原のアスマラへ移された。アスマラにはイタリア風の街路や公共建築が整えられ、行政の中心として着実に発展した。以来アスマラはエリトリアの首都であり続けている。"
+   }
+  },
+  {
+   "year": 1900,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Border treaties fix the colony's frontiers",
+    "ko": "식민지 국경을 확정한 조약들",
+    "zh": "确定殖民地边界的条约",
+    "ja": "植民地の国境を定めた条約"
+   },
+   "description": {
+    "en": "A series of treaties between Italy and Ethiopia in 1900, 1902 and 1908 defined the colony's border along the Mareb, Belesa and Muna rivers and through the Danakil lowlands, while agreements with Britain fixed the Sudanese frontier. These colonial-era treaties became the legal basis of Eritrea's borders. Their interpretation, especially around Badme, was at the heart of the 1998–2000 war.",
+    "ko": "1900년, 1902년, 1908년 이탈리아와 에티오피아가 맺은 일련의 조약은 마레브·벨레사·무나강을 따라 다나킬 저지대를 지나는 식민지 국경을 정했고, 영국과의 협정은 수단 쪽 국경을 확정했다. 이러한 식민 시대 조약은 에리트레아 국경의 법적 근거가 되었다. 특히 바드메 일대에 대한 그 해석은 1998~2000년 전쟁의 핵심 쟁점이었다.",
+    "zh": "意大利与埃塞俄比亚于1900年、1902年和1908年签订的一系列条约，确定了沿马雷布河、贝莱萨河、穆纳河并穿过达纳基尔低地的殖民地边界，与英国的协定则确定了与苏丹的边界。这些殖民时代条约成为厄立特里亚边界的法律依据。其解释，尤其是关于巴德梅一带的解释，正是1998—2000年战争的核心问题。",
+    "ja": "1900年・1902年・1908年にイタリアとエチオピアが結んだ一連の条約は、マレブ川・ベレサ川・ムナ川に沿い、ダナキル低地を通る植民地の国境を定め、イギリスとの協定がスーダン側の国境を確定した。これら植民地時代の条約はエリトリアの国境の法的根拠となった。とりわけバドメ周辺をめぐるその解釈は、1998〜2000年の戦争の核心的争点となった。"
+   }
+  },
+  {
+   "year": 1911,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Railway reaches Asmara",
+    "ko": "철도의 아스마라 도달",
+    "zh": "铁路通到阿斯马拉",
+    "ja": "鉄道がアスマラに到達"
+   },
+   "description": {
+    "en": "In 1911 the narrow-gauge railway from Massawa climbed the steep escarpment to reach Asmara, an engineering feat with numerous tunnels and bridges. The line was later extended to Keren and Agordat. It tied the highland capital to the port and became a symbol of the colonial economy; parts of it have been restored and still run occasionally.",
+    "ko": "1911년 마사와에서 출발한 협궤 철도가 가파른 급경사면을 올라 아스마라에 도달했는데, 수많은 터널과 교량을 갖춘 공학적 성취였다. 이 노선은 이후 케렌과 아고르다트까지 연장되었다. 철도는 고원의 수도와 항구를 이어 식민지 경제의 상징이 되었으며, 일부 구간은 복원되어 지금도 간혹 운행된다.",
+    "zh": "1911年，从马萨瓦出发的窄轨铁路攀上陡峭的悬崖抵达阿斯马拉，沿线隧道和桥梁众多，堪称工程壮举。该线后来延伸至克伦和阿戈尔达特。铁路将高原首府与港口相连，成为殖民经济的象征；部分路段已修复，至今仍偶尔运行。",
+    "ja": "1911年、マッサワから延びる狭軌鉄道が急峻な断崖を登ってアスマラに達した。多数のトンネルと橋梁を備えた土木技術の偉業であった。路線はのちにケレン、アゴルダトまで延長された。鉄道は高原の首都と港を結び植民地経済の象徴となり、一部区間は復元されて今も時折運行されている。"
+   }
+  },
+  {
+   "year": 1921,
+   "qid": "Q2330932",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Massawa earthquake",
+    "ko": "마사와 지진",
+    "zh": "马萨瓦地震",
+    "ja": "マッサワ地震"
+   },
+   "description": {
+    "en": "In 1921 a strong earthquake struck the Red Sea coast and damaged the port city of Massawa. Massawa lies in a seismically active zone along the Red Sea rift.",
+    "ko": "1921년 강한 지진이 홍해 연안을 강타해 항구 도시 마사와에 피해를 입혔다. 마사와는 홍해 열곡을 따라 지진 활동이 활발한 지대에 위치한다.",
+    "zh": "1921年，一场强烈地震袭击红海沿岸，使港口城市马萨瓦受损。马萨瓦位于沿红海裂谷的地震活跃带上。",
+    "ja": "1921年、強い地震が紅海沿岸を襲い、港湾都市マッサワに被害を与えた。マッサワは紅海リフト沿いの地震活動が活発な地帯に位置している。"
+   }
+  },
+  {
+   "year": 1935,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Eritrea as springboard for the invasion of Ethiopia",
+    "ko": "에티오피아 침공의 발판이 된 에리트레아",
+    "zh": "厄立特里亚成为入侵埃塞俄比亚的跳板",
+    "ja": "エチオピア侵攻の拠点となったエリトリア"
+   },
+   "description": {
+    "en": "In October 1935 Fascist Italy launched its invasion of Ethiopia from Eritrea, after massive shipments of troops and supplies through Massawa had transformed the colony. Tens of thousands of Eritrean askari were mobilized for the campaign. The build-up brought rapid growth to Asmara and the colonial economy.",
+    "ko": "1935년 10월 파시스트 이탈리아는 마사와를 통해 막대한 병력과 물자를 들여와 식민지를 변모시킨 뒤 에리트레아에서 에티오피아 침공을 개시했다. 수만 명의 에리트레아인 아스카리가 이 전쟁에 동원되었다. 이러한 군비 증강은 아스마라와 식민지 경제의 급성장을 가져왔다.",
+    "zh": "1935年10月，法西斯意大利经马萨瓦运入大量兵员和物资、使殖民地面貌一新之后，从厄立特里亚发动了对埃塞俄比亚的入侵。数以万计的厄立特里亚“阿斯卡里”被动员参战。这一军事集结使阿斯马拉和殖民地经济迅速发展。",
+    "ja": "1935年10月、ファシスト・イタリアはマッサワを通じて大量の兵員と物資を送り込み植民地の姿を一変させたうえで、エリトリアからエチオピア侵攻を開始した。数万人のエリトリア人アスカリがこの戦争に動員された。この軍備増強はアスマラと植民地経済の急成長をもたらした。"
+   }
+  },
+  {
+   "year": 1936,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Eritrea joins Italian East Africa",
+    "ko": "에리트레아, 이탈리아령 동아프리카에 편입",
+    "zh": "厄立特里亚并入意属东非",
+    "ja": "エリトリア、イタリア領東アフリカに編入"
+   },
+   "description": {
+    "en": "After the capture of Addis Ababa in 1936, Italy united Eritrea, Ethiopia and Italian Somaliland as Italian East Africa. The Governorate of Eritrea was enlarged to include Tigray. Racial segregation laws were tightened, while Asmara became a showcase of Italian modernist architecture.",
+    "ko": "1936년 아디스아바바를 점령한 이탈리아는 에리트레아·에티오피아·이탈리아령 소말릴란드를 합쳐 이탈리아령 동아프리카를 만들었다. 에리트레아 총독령은 티그라이를 포함하도록 확대되었다. 인종 분리 법령이 강화되는 한편 아스마라는 이탈리아 모더니즘 건축의 전시장이 되었다.",
+    "zh": "1936年攻占亚的斯亚贝巴后，意大利将厄立特里亚、埃塞俄比亚和意属索马里兰合并为意属东非。厄立特里亚总督辖区扩大至包括提格雷。种族隔离法令更加严厉，而阿斯马拉则成为意大利现代主义建筑的展示场。",
+    "ja": "1936年にアディスアベバを占領したイタリアは、エリトリア、エチオピア、イタリア領ソマリランドを統合してイタリア領東アフリカとした。エリトリア総督府はティグライを含むよう拡大された。人種隔離法が強化される一方、アスマラはイタリア・モダニズム建築のショーケースとなった。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Fiat Tagliero building and modernist Asmara",
+    "ko": "피아트 탈리에로 건물과 모더니즘 도시 아스마라",
+    "zh": "菲亚特塔列罗加油站与现代主义阿斯马拉",
+    "ja": "フィアット・タリエロ・ビルとモダニズム都市アスマラ"
+   },
+   "description": {
+    "en": "In 1938 the Fiat Tagliero service station, designed by Giuseppe Pettazzi in the shape of an aircraft with long cantilevered wings, opened in Asmara. It is the best-known example of the futurist, rationalist and Art Deco buildings erected in the city during the late 1930s. This architectural heritage later earned Asmara recognition as a World Heritage Site.",
+    "ko": "1938년 주세페 페타치가 긴 캔틸레버 날개를 가진 비행기 모양으로 설계한 피아트 탈리에로 주유소가 아스마라에 문을 열었다. 이는 1930년대 후반 이 도시에 세워진 미래주의·합리주의·아르데코 건축물 가운데 가장 유명한 사례이다. 이러한 건축 유산으로 아스마라는 훗날 세계유산으로 지정되었다.",
+    "zh": "1938年，由朱塞佩·佩塔齐设计、形似长悬臂机翼飞机的菲亚特塔列罗加油站在阿斯马拉落成。它是20世纪30年代后期该市兴建的未来主义、理性主义和装饰艺术风格建筑中最著名的代表。这些建筑遗产后来使阿斯马拉被列为世界遗产。",
+    "ja": "1938年、ジュゼッペ・ペッタッツィが長い片持ちの翼を持つ飛行機の形に設計したフィアット・タリエロのガソリンスタンドがアスマラに開業した。これは1930年代後半に同市に建てられた未来派・合理主義・アール・デコ建築の中で最もよく知られた例である。この建築遺産により、アスマラはのちに世界遺産に登録された。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q1970005",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "British forces defeat Italy at the Battle of Keren",
+    "ko": "케렌 전투에서 영국군이 이탈리아군 격파",
+    "zh": "克伦战役:英军击败意大利",
+    "ja": "ケレンの戦いで英軍がイタリアを破る"
+   },
+   "description": {
+    "en": "In early 1941 British and Commonwealth troops broke Italian defenses at Keren after weeks of fierce mountain fighting, ending Italian rule. Eritrea passed under British military administration until 1952.",
+    "ko": "1941년 초 영국군과 영연방군은 수 주간의 치열한 산악전 끝에 케렌의 이탈리아 방어선을 돌파해 이탈리아 지배를 끝냈다. 이후 에리트레아는 1952년까지 영국 군정 아래 놓였다.",
+    "zh": "1941年初,英国及英联邦军队经过数周激烈山地战,突破克伦的意大利防线,结束了意大利的统治。此后厄立特里亚由英国军政府管辖,直至1952年。",
+    "ja": "1941年初め、イギリス軍と英連邦軍は数週間の激しい山岳戦の末にケレンのイタリア軍防衛線を突破し、イタリア支配に終止符を打った。以後エリトリアは1952年まで英国の軍政下に置かれた。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Political parties debate Eritrea's future",
+    "ko": "에리트레아의 장래를 둘러싼 정당 결성",
+    "zh": "围绕厄立特里亚前途成立的政党",
+    "ja": "エリトリアの将来をめぐる政党の結成"
+   },
+   "description": {
+    "en": "Under the British Military Administration, Eritreans formed political parties around 1946 to argue for the territory's future. The Unionist Party, backed by Ethiopia and many highland Christians, sought union with Ethiopia, while the Muslim League and other groups called for independence. Debate, sometimes accompanied by violence, continued as the Allied powers failed to agree on the former colony.",
+    "ko": "영국 군정 아래 에리트레아인들은 1946년 무렵 영토의 장래를 놓고 정당을 결성했다. 에티오피아와 많은 고원 기독교도의 지지를 받은 통합당은 에티오피아와의 통합을 추구했고, 무슬림 연맹 등은 독립을 요구했다. 연합국이 옛 식민지 처리에 합의하지 못하는 가운데 때로 폭력을 동반한 논쟁이 이어졌다.",
+    "zh": "在英国军事管理下，厄立特里亚人约在1946年组建政党，就领土前途展开争论。得到埃塞俄比亚和许多高原基督徒支持的统一党主张与埃塞俄比亚合并，而穆斯林联盟等团体则要求独立。由于同盟国未能就这块前殖民地达成一致，争论持续不断，有时还伴随暴力。",
+    "ja": "イギリス軍政の下、エリトリア人は1946年頃、領土の将来をめぐって政党を結成した。エチオピアと多くの高原のキリスト教徒に支持された統一党はエチオピアとの統合を求め、ムスリム連盟などは独立を要求した。連合国が旧植民地の扱いで合意できない中、時に暴力を伴う論争が続いた。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "UN Resolution 390 on federation",
+    "ko": "연방을 결정한 유엔 결의 390호",
+    "zh": "联合国关于联邦的第390号决议",
+    "ja": "連邦を定めた国連決議390"
+   },
+   "description": {
+    "en": "In December 1950 the UN General Assembly adopted Resolution 390 (V), deciding that Eritrea should become an autonomous unit federated with Ethiopia under the Ethiopian crown. The compromise followed a UN commission's investigation and the failure of proposals to partition the territory. A UN commissioner then helped draft an Eritrean constitution, and an elected Eritrean assembly adopted it in 1952.",
+    "ko": "1950년 12월 유엔 총회는 결의 390(V)호를 채택해 에리트레아를 에티오피아 왕관 아래 연방을 이루는 자치 단위로 정했다. 이 타협안은 유엔 위원회의 조사와 분할안의 좌절 끝에 나왔다. 이후 유엔 판무관이 에리트레아 헌법 초안 작성을 도왔고, 선출된 에리트레아 의회가 1952년 이를 채택했다.",
+    "zh": "1950年12月，联合国大会通过第390（五）号决议，决定厄立特里亚作为自治单位在埃塞俄比亚王室之下与埃塞俄比亚组成联邦。这一妥协方案是在联合国委员会调查和瓜分方案失败之后产生的。随后联合国专员协助起草厄立特里亚宪法，经选举产生的厄立特里亚议会于1952年通过了该宪法。",
+    "ja": "1950年12月、国連総会は決議390(V)を採択し、エリトリアをエチオピア帝冠の下でエチオピアと連邦を組む自治単位とすることを決めた。この妥協は国連委員会の調査と分割案の挫折を経て生まれた。その後国連弁務官がエリトリア憲法の起草を支援し、選出されたエリトリア議会が1952年にこれを採択した。"
+   }
+  },
+  {
+   "year": 1952,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "UN federates Eritrea with Ethiopia",
+    "ko": "유엔 결의로 에티오피아와 연방 결성",
+    "zh": "联合国决议:厄立特里亚与埃塞俄比亚组成联邦",
+    "ja": "国連決議によりエチオピアと連邦を形成"
+   },
+   "description": {
+    "en": "Under a 1950 UN resolution, Eritrea was joined to Ethiopia in 1952 as an autonomous unit under the Ethiopian crown. Its autonomy was steadily eroded over the following decade.",
+    "ko": "1950년 유엔 결의에 따라 1952년 에리트레아는 자치권을 가진 채 에티오피아 제국과 연방을 이루었다. 그러나 이후 10년간 자치권은 점차 축소되었다.",
+    "zh": "根据1950年联合国决议,厄立特里亚于1952年作为自治实体与埃塞俄比亚帝国组成联邦。此后十年间其自治权不断被削弱。",
+    "ja": "1950年の国連決議に基づき、1952年エリトリアは自治権を保持したままエチオピア帝国と連邦を組んだ。しかしその後の10年間で自治権は次第に切り崩されていった。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Eritrean Liberation Movement founded",
+    "ko": "에리트레아 해방운동 결성",
+    "zh": "厄立特里亚解放运动成立",
+    "ja": "エリトリア解放運動の結成"
+   },
+   "description": {
+    "en": "As Ethiopia whittled away Eritrean autonomy, imposing Amharic in public life and suppressing a general strike in 1958, Eritrean exiles founded the clandestine Eritrean Liberation Movement in Port Sudan in 1958. Organized in small secret cells, it sought to unite Christians and Muslims against Ethiopian rule. It was later eclipsed by the armed Eritrean Liberation Front.",
+    "ko": "에티오피아가 공공 생활에 암하라어를 강요하고 1958년 총파업을 진압하는 등 에리트레아의 자치를 깎아 내리자, 에리트레아 망명자들은 1958년 포트수단에서 비밀 조직인 에리트레아 해방운동을 결성했다. 작은 비밀 세포 조직으로 이루어진 이 운동은 기독교도와 무슬림을 단결시켜 에티오피아 통치에 맞서고자 했다. 이 운동은 훗날 무장 조직인 에리트레아 해방전선에 밀려났다.",
+    "zh": "随着埃塞俄比亚不断削弱厄立特里亚的自治——在公共生活中强制推行阿姆哈拉语并于1958年镇压大罢工——厄立特里亚流亡者于1958年在苏丹港成立了秘密组织厄立特里亚解放运动。该运动以小型秘密支部为组织形式，力图团结基督徒和穆斯林反抗埃塞俄比亚统治。它后来被武装的厄立特里亚解放阵线所取代。",
+    "ja": "エチオピアが公的生活でアムハラ語を押しつけ、1958年にはゼネストを弾圧するなどエリトリアの自治を削っていく中、エリトリア人亡命者は1958年にポートスーダンで秘密組織エリトリア解放運動を結成した。小さな秘密細胞で組織されたこの運動は、キリスト教徒とムスリムを結束させてエチオピアの支配に対抗しようとした。運動はのちに武装組織のエリトリア解放戦線に取って代わられた。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Eritrean Liberation Front founded in Cairo",
+    "ko": "카이로에서 에리트레아 해방전선 창설",
+    "zh": "厄立特里亚解放阵线在开罗成立",
+    "ja": "カイロでエリトリア解放戦線が結成"
+   },
+   "description": {
+    "en": "In 1960 Eritrean exiles and students in Cairo, among them Idris Muhammad Adem, founded the Eritrean Liberation Front (ELF) to pursue independence through armed struggle. The ELF drew much of its early support from Muslim lowland communities and received help from Arab states. It launched the armed struggle the following year.",
+    "ko": "1960년 카이로의 에리트레아 망명자와 학생들은 이드리스 무하마드 아뎀 등을 중심으로 무장 투쟁을 통한 독립을 목표로 에리트레아 해방전선(ELF)을 창설했다. ELF는 초기에 주로 저지대 무슬림 공동체의 지지를 받았고 아랍 국가들의 지원을 받았다. 이듬해 ELF는 무장 투쟁을 개시했다.",
+    "zh": "1960年，以伊德里斯·穆罕默德·阿德姆等人为首的开罗厄立特里亚流亡者和学生成立了厄立特里亚解放阵线，旨在通过武装斗争实现独立。该阵线早期主要依靠低地穆斯林社群的支持，并获得阿拉伯国家的援助。次年它发动了武装斗争。",
+    "ja": "1960年、カイロのエリトリア人亡命者や学生は、イドリス・ムハンマド・アデムらを中心に、武装闘争による独立を目指すエリトリア解放戦線（ELF）を結成した。ELFは初期にはおもに低地のムスリム共同体の支持を受け、アラブ諸国の援助を得た。翌年ELFは武装闘争を開始した。"
+   }
+  },
+  {
+   "year": 1961,
+   "qid": "Q607257",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Eritrean War of Independence begins",
+    "ko": "에리트레아 독립전쟁 발발",
+    "zh": "厄立特里亚独立战争爆发",
+    "ja": "エリトリア独立戦争が始まる"
+   },
+   "description": {
+    "en": "On 1 September 1961 Hamid Idris Awate fired the first shots against Ethiopian forces, launching a 30-year armed struggle. Ethiopia annexed Eritrea outright as a province in 1962.",
+    "ko": "1961년 9월 1일 하미드 이드리스 아와테가 에티오피아군을 상대로 첫 총성을 울리며 30년에 걸친 무장 독립 투쟁이 시작되었다. 1962년 에티오피아는 에리트레아를 하나의 주로 완전히 병합했다.",
+    "zh": "1961年9月1日,哈米德·伊德里斯·阿瓦特向埃塞俄比亚军队打响第一枪,拉开了长达三十年武装独立斗争的序幕。1962年,埃塞俄比亚将厄立特里亚彻底吞并为一个省。",
+    "ja": "1961年9月1日、ハミド・イドリス・アワテがエチオピア軍に対して最初の銃声を上げ、30年に及ぶ武装独立闘争が始まった。1962年、エチオピアはエリトリアを一州として完全に併合した。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Ethiopia annexes Eritrea",
+    "ko": "에티오피아의 에리트레아 병합",
+    "zh": "埃塞俄比亚吞并厄立特里亚",
+    "ja": "エチオピアがエリトリアを併合"
+   },
+   "description": {
+    "en": "In November 1962 the Eritrean assembly, under heavy Ethiopian pressure, voted to dissolve itself and the federation, and Emperor Haile Selassie annexed Eritrea as Ethiopia's fourteenth province. The United Nations did not intervene. The annexation turned a small insurgency into a broad national struggle for independence.",
+    "ko": "1962년 11월 에티오피아의 강한 압력 아래 에리트레아 의회는 스스로와 연방의 해체를 의결했고, 하일레 셀라시에 황제는 에리트레아를 에티오피아의 14번째 주로 병합했다. 유엔은 개입하지 않았다. 이 병합은 소규모 반란을 독립을 향한 광범위한 민족 투쟁으로 바꾸어 놓았다.",
+    "zh": "1962年11月，在埃塞俄比亚的强大压力下，厄立特里亚议会表决解散自身及联邦，海尔·塞拉西皇帝将厄立特里亚吞并为埃塞俄比亚第十四个省。联合国没有介入。这次吞并使小规模的反抗演变为争取独立的广泛民族斗争。",
+    "ja": "1962年11月、エチオピアの強い圧力の下でエリトリア議会は自らと連邦の解消を議決し、皇帝ハイレ・セラシエはエリトリアをエチオピアの第14番目の州として併合した。国際連合は介入しなかった。この併合は小規模な反乱を、独立を求める幅広い民族闘争へと変えた。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Massacres at Besik-Dira and Ona",
+    "ko": "베시크디라와 오나 학살",
+    "zh": "贝西克迪拉与奥纳屠杀",
+    "ja": "ベシク・ディラとオナの虐殺"
+   },
+   "description": {
+    "en": "In late 1970, during counter-insurgency operations near Keren, Ethiopian troops killed many villagers at Besik-Dira and Ona in reprisal for rebel attacks. These massacres and the burning of villages drove many young Eritreans to join the liberation fronts and sent refugees fleeing to Sudan. They became lasting symbols of the war's brutality in Eritrean memory.",
+    "ko": "1970년 말 케렌 인근 대반란 작전 중에 에티오피아군은 반군 공격에 대한 보복으로 베시크디라와 오나에서 많은 주민을 살해했다. 이러한 학살과 마을 방화로 많은 에리트레아 청년이 해방전선에 합류했고 난민이 수단으로 피신했다. 이 사건들은 에리트레아인의 기억 속에 전쟁의 잔혹성을 상징하는 일로 남았다.",
+    "zh": "1970年末，在克伦附近的反叛乱行动中，埃塞俄比亚军队为报复游击队的袭击，在贝西克迪拉和奥纳杀害了许多村民。这些屠杀和焚村行为促使许多厄立特里亚青年加入解放阵线，难民纷纷逃往苏丹。它们在厄立特里亚人的记忆中成为战争残酷性的持久象征。",
+    "ja": "1970年末、ケレン近郊での対反乱作戦中、エチオピア軍はゲリラの攻撃への報復としてベシク・ディラとオナで多くの村人を殺害した。これらの虐殺と村の焼き討ちにより多くのエリトリアの若者が解放戦線に加わり、難民がスーダンへ逃れた。これらの事件はエリトリア人の記憶の中で戦争の残虐さを象徴するものとなった。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": "Q2139988",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Civil war between the ELF and the EPLF",
+    "ko": "ELF와 EPLF의 내전",
+    "zh": "厄解阵与厄人阵之间的内战",
+    "ja": "ELFとEPLFの内戦"
+   },
+   "description": {
+    "en": "Breakaway groups that left the ELF around 1970 formed what became the Eritrean People's Liberation Front (EPLF), and from 1972 the two fronts fought each other. The first round of fighting ended in 1974 under popular pressure for unity. Rivalry persisted, and a second civil war in 1980–1981 drove the ELF out of Eritrea, leaving the EPLF dominant.",
+    "ko": "1970년경 ELF에서 이탈한 세력들이 훗날 에리트레아 인민해방전선(EPLF)이 되는 조직을 결성했고, 1972년부터 두 전선은 서로 싸웠다. 첫 번째 전투는 단결을 요구하는 민중의 압력으로 1974년에 끝났다. 그러나 경쟁은 계속되어 1980~1981년 두 번째 내전에서 ELF는 에리트레아 밖으로 밀려났고 EPLF가 주도권을 쥐었다.",
+    "zh": "约1970年脱离厄解阵的派别组成了后来的厄立特里亚人民解放阵线（厄人阵），自1972年起双方相互交战。第一轮内战在民众要求团结的压力下于1974年结束。但竞争仍在继续，1980—1981年的第二次内战将厄解阵逐出厄立特里亚，厄人阵从此占据主导地位。",
+    "ja": "1970年頃にELFから離脱した勢力が、のちのエリトリア人民解放戦線（EPLF）となる組織を結成し、1972年から両戦線は互いに戦った。最初の戦闘は団結を求める民衆の圧力により1974年に終わった。しかし対立は続き、1980〜1981年の第二次内戦でELFはエリトリアから追い出され、EPLFが主導権を握った。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": "Q4349238",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fronts liberate most of Eritrea",
+    "ko": "해방전선, 에리트레아 대부분 장악",
+    "zh": "解放阵线控制厄立特里亚大部分地区",
+    "ja": "解放戦線がエリトリアの大半を掌握"
+   },
+   "description": {
+    "en": "Exploiting the turmoil after the Ethiopian revolution, the EPLF and ELF captured most Eritrean towns in 1977, including Keren, and besieged Barentu, Asmara and Massawa, where EPLF fighters broke into parts of the city. Independence seemed within reach. However, massive Soviet and Cuban support to Ethiopia's Derg was about to reverse the tide.",
+    "ko": "에티오피아 혁명 이후의 혼란을 틈타 EPLF와 ELF는 1977년 케렌을 비롯한 에리트레아 대부분의 도시를 장악하고 바렌투·아스마라·마사와를 포위했으며, EPLF 전사들은 마사와 시내 일부까지 진입했다. 독립이 눈앞에 온 듯했다. 그러나 소련과 쿠바의 대대적인 데르그 지원이 곧 판세를 뒤집으려 하고 있었다.",
+    "zh": "趁埃塞俄比亚革命后的混乱，厄人阵和厄解阵于1977年攻占包括克伦在内的厄立特里亚大部分城镇，并围困巴伦图、阿斯马拉和马萨瓦，厄人阵战士一度攻入马萨瓦部分市区。独立似乎近在眼前。然而苏联和古巴对埃塞俄比亚德尔格政权的大规模援助即将扭转局势。",
+    "ja": "エチオピア革命後の混乱に乗じ、EPLFとELFは1977年、ケレンを含むエリトリアの大半の町を制圧し、バレントゥ、アスマラ、マッサワを包囲した。EPLFの戦士はマッサワ市内の一部にまで突入した。独立は目前に見えた。しかしソ連とキューバによるデルグ政権への大規模支援が、まもなく形勢を逆転させようとしていた。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "EPLF's strategic withdrawal to Sahel",
+    "ko": "EPLF의 사헬 지역 전략적 후퇴",
+    "zh": "厄人阵向萨赫勒的战略撤退",
+    "ja": "EPLFのサヘルへの戦略的撤退"
+   },
+   "description": {
+    "en": "In 1978, after Ethiopia's victory in the Ogaden War freed its forces, a Soviet-armed Ethiopian offensive retook most Eritrean towns. The EPLF carried out a 'strategic withdrawal' to the rugged Sahel mountains of the north, centred on Nakfa, which it fortified with trenches and underground facilities. This base area would withstand repeated Ethiopian offensives over the next decade.",
+    "ko": "1978년 오가덴 전쟁에서 승리해 병력에 여유가 생긴 에티오피아는 소련 무기를 앞세운 공세로 에리트레아 도시 대부분을 탈환했다. EPLF는 북부 험준한 사헬 산악 지대의 나크파를 중심으로 '전략적 후퇴'를 단행하고 참호와 지하 시설로 요새화했다. 이 근거지는 이후 10년간 거듭된 에티오피아의 공세를 견뎌 냈다.",
+    "zh": "1978年，埃塞俄比亚在欧加登战争中获胜后腾出兵力，以苏联武器装备的攻势夺回了厄立特里亚大部分城镇。厄人阵实施“战略撤退”，退守北部崎岖的萨赫勒山区，以纳克法为中心，用战壕和地下设施加以巩固。这一根据地在此后十年中顶住了埃塞俄比亚的多次进攻。",
+    "ja": "1978年、オガデン戦争に勝利して兵力に余裕のできたエチオピアは、ソ連製兵器による攻勢でエリトリアの町の大半を奪回した。EPLFは北部の険しいサヘル山地のナクファを中心に「戦略的撤退」を行い、塹壕や地下施設で要塞化した。この根拠地はその後10年間、エチオピアの度重なる攻勢に耐え抜いた。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Red Star Campaign fails at Nakfa",
+    "ko": "붉은 별 작전, 나크파에서 실패",
+    "zh": "“红星运动”在纳克法失败",
+    "ja": "「赤い星」作戦がナクファで失敗"
+   },
+   "description": {
+    "en": "In 1982 the Derg launched the Red Star Campaign, its largest offensive of the war, with Mengistu Haile Mariam personally overseeing operations to crush the EPLF at Nakfa. Despite huge numbers of troops and air power, the attack failed with heavy Ethiopian losses. The EPLF's survival showed that the war could not be won militarily by Ethiopia.",
+    "ko": "1982년 데르그는 전쟁 중 최대 규모의 공세인 '붉은 별 작전'을 개시했고, 멩기스투 하일레 마리암이 나크파의 EPLF를 분쇄하기 위한 작전을 직접 감독했다. 막대한 병력과 공군력에도 불구하고 공격은 에티오피아군의 큰 손실 속에 실패했다. EPLF의 생존은 에티오피아가 이 전쟁을 군사적으로 이길 수 없음을 보여 주었다.",
+    "zh": "1982年，德尔格发动了战争中规模最大的攻势“红星运动”，门格斯图·海尔·马里亚姆亲自督战，企图在纳克法消灭厄人阵。尽管投入了大量兵力和空中力量，进攻仍以埃塞俄比亚军队惨重伤亡而告失败。厄人阵的坚守表明埃塞俄比亚无法在军事上赢得这场战争。",
+    "ja": "1982年、デルグは戦争中最大の攻勢「赤い星作戦」を開始し、メンギスツ・ハイレ・マリアムがナクファのEPLFを壊滅させる作戦を自ら監督した。膨大な兵力と航空戦力にもかかわらず、攻撃はエチオピア軍の大損害とともに失敗した。EPLFの存続は、エチオピアがこの戦争に軍事的に勝てないことを示した。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Afabet",
+    "ko": "아파베트 전투",
+    "zh": "阿法贝特战役",
+    "ja": "アファベトの戦い"
+   },
+   "description": {
+    "en": "In March 1988 the EPLF overran the Ethiopian army's Nadew Command at Afabet, destroying or capturing a large garrison and much heavy equipment. The British historian Basil Davidson compared the victory to Dien Bien Phu. The defeat broke Ethiopia's hold on northern Eritrea and turned the war decisively in the EPLF's favour.",
+    "ko": "1988년 3월 EPLF는 아파베트에서 에티오피아군 나데우 사령부를 제압해 대규모 수비대와 많은 중장비를 파괴하거나 노획했다. 영국 역사가 배질 데이비드슨은 이 승리를 디엔비엔푸에 비유했다. 이 패배로 에티오피아의 에리트레아 북부 장악은 무너졌고 전세는 결정적으로 EPLF 쪽으로 기울었다.",
+    "zh": "1988年3月，厄人阵在阿法贝特攻破埃塞俄比亚军队的纳德乌司令部，摧毁或缴获了大批守军和重型装备。英国历史学家巴兹尔·戴维森将这场胜利比作奠边府战役。这次失败瓦解了埃塞俄比亚对厄立特里亚北部的控制，使战局决定性地转向有利于厄人阵。",
+    "ja": "1988年3月、EPLFはアファベトでエチオピア軍のナデウ司令部を撃破し、大規模な守備隊と多くの重装備を撃破・鹵獲した。イギリスの歴史家バジル・デヴィッドソンはこの勝利をディエンビエンフーになぞらえた。この敗北でエチオピアのエリトリア北部支配は崩れ、戦局は決定的にEPLF有利に傾いた。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q4128027",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Operation Fenkil captures Massawa",
+    "ko": "펜킬 작전, 마사와 점령",
+    "zh": "“芬基尔行动”攻占马萨瓦",
+    "ja": "フェンキル作戦でマッサワ制圧"
+   },
+   "description": {
+    "en": "In February 1990 the EPLF launched Operation Fenkil and captured the port of Massawa, cutting the main supply line of Ethiopian forces in Asmara. Ethiopian aircraft then bombed the city heavily, causing severe damage. The loss of Massawa left the Ethiopian army in Eritrea isolated and dependent on an airlift.",
+    "ko": "1990년 2월 EPLF는 펜킬 작전을 개시해 마사와 항을 점령하고 아스마라 주둔 에티오피아군의 주요 보급로를 끊었다. 이후 에티오피아 공군의 집중 폭격으로 도시는 큰 피해를 입었다. 마사와 상실로 에리트레아의 에티오피아군은 고립되어 공수에 의존하게 되었다.",
+    "zh": "1990年2月，厄人阵发动“芬基尔行动”，攻占马萨瓦港，切断了驻阿斯马拉埃塞俄比亚军队的主要补给线。随后埃塞俄比亚空军对该城进行猛烈轰炸，造成严重破坏。失去马萨瓦后，驻厄立特里亚的埃塞俄比亚军队陷入孤立，只能依靠空运。",
+    "ja": "1990年2月、EPLFはフェンキル作戦を開始してマッサワ港を制圧し、アスマラのエチオピア軍の主要補給線を断った。その後エチオピア空軍の激しい爆撃で町は大きな被害を受けた。マッサワを失ったことで、エリトリアのエチオピア軍は孤立し空輸に頼るほかなくなった。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "EPLF takes Asmara, ending the 30-year war",
+    "ko": "에리트레아 인민해방전선, 아스마라 해방",
+    "zh": "厄立特里亚人民解放阵线攻占阿斯马拉",
+    "ja": "エリトリア人民解放戦線がアスマラを解放"
+   },
+   "description": {
+    "en": "In May 1991 the Eritrean People's Liberation Front captured Asmara as the Ethiopian Derg regime collapsed, ending Africa's longest independence war and establishing a provisional government.",
+    "ko": "1991년 5월 에티오피아 데르그 정권이 붕괴하는 가운데 에리트레아 인민해방전선(EPLF)이 아스마라에 입성해 아프리카에서 가장 길었던 독립전쟁을 끝내고 임시정부를 수립했다.",
+    "zh": "1991年5月,在埃塞俄比亚德尔格政权崩溃之际,厄立特里亚人民解放阵线攻占阿斯马拉,结束了非洲历时最长的独立战争,并建立临时政府。",
+    "ja": "1991年5月、エチオピアのデルグ政権崩壊とともにエリトリア人民解放戦線(EPLF)がアスマラを制圧し、アフリカ最長の独立戦争に終止符を打って暫定政府を樹立した。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": "Q5389607",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Eritrea votes for independence and joins the UN",
+    "ko": "국민투표로 독립 확정, 유엔 가입",
+    "zh": "公投确立独立并加入联合国",
+    "ja": "住民投票で独立が確定、国連に加盟"
+   },
+   "description": {
+    "en": "In an April 1993 UN-supervised referendum, 99.8 percent of voters chose independence. Eritrea formally declared independence on 24 May 1993 and joined the United Nations, with Isaias Afwerki as president.",
+    "ko": "1993년 4월 유엔 감독하의 국민투표에서 99.8%가 독립에 찬성했다. 에리트레아는 5월 24일 공식 독립을 선포하고 유엔에 가입했으며, 이사이아스 아페웨르키가 대통령이 되었다.",
+    "zh": "1993年4月,在联合国监督的公投中,99.8%的选民支持独立。厄立特里亚于5月24日正式宣布独立并加入联合国,伊萨亚斯·阿费沃基出任总统。",
+    "ja": "1993年4月、国連監視下の住民投票で99.8%が独立に賛成した。エリトリアは5月24日に正式に独立を宣言して国連に加盟し、イサイアス・アフェウェルキが大統領に就任した。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "EPLF becomes the PFDJ",
+    "ko": "EPLF, 민주정의인민전선으로 전환",
+    "zh": "厄人阵改组为人民民主与正义阵线",
+    "ja": "EPLFが民主正義人民戦線に改組"
+   },
+   "description": {
+    "en": "In February 1994 the EPLF held its third congress at Nakfa and transformed itself into a political party, the People's Front for Democracy and Justice (PFDJ). Isaias Afwerki remained its leader. The PFDJ has since been the only legal party in Eritrea.",
+    "ko": "1994년 2월 EPLF는 나크파에서 제3차 대회를 열고 정당인 민주정의인민전선(PFDJ)으로 전환했다. 이사이아스 아페웨르키가 계속 지도자를 맡았다. PFDJ는 이후 에리트레아의 유일한 합법 정당으로 남아 있다.",
+    "zh": "1994年2月，厄人阵在纳克法召开第三次代表大会，改组为政党“人民民主与正义阵线”。伊萨亚斯·阿费沃基继续担任领导人。此后该阵线一直是厄立特里亚唯一的合法政党。",
+    "ja": "1994年2月、EPLFはナクファで第3回大会を開き、政党である民主正義人民戦線（PFDJ）に改組した。イサイアス・アフェウェルキが引き続き指導者を務めた。以後PFDJはエリトリアで唯一の合法政党である。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Hanish Islands conflict with Yemen",
+    "ko": "예멘과의 하니시 제도 분쟁",
+    "zh": "与也门的哈尼什群岛冲突",
+    "ja": "イエメンとのハニーシュ諸島紛争"
+   },
+   "description": {
+    "en": "In December 1995 Eritrean forces clashed with Yemeni troops over the Hanish Islands in the southern Red Sea. The two countries agreed to international arbitration, and a tribunal awarded most of the disputed islands to Yemen in 1998 while preserving traditional fishing rights. Eritrea accepted the ruling.",
+    "ko": "1995년 12월 에리트레아군은 홍해 남부의 하니시 제도를 둘러싸고 예멘군과 충돌했다. 양국은 국제 중재에 합의했고, 중재 재판소는 1998년 분쟁 도서 대부분을 예멘에 귀속시키면서 전통적 어업권을 보장했다. 에리트레아는 이 판정을 받아들였다.",
+    "zh": "1995年12月，厄立特里亚军队与也门军队围绕红海南部的哈尼什群岛发生冲突。两国同意提交国际仲裁，仲裁庭于1998年将大部分争议岛屿判归也门，同时保留传统捕鱼权。厄立特里亚接受了裁决。",
+    "ja": "1995年12月、エリトリア軍は紅海南部のハニーシュ諸島をめぐってイエメン軍と衝突した。両国は国際仲裁に合意し、仲裁裁判所は1998年に係争島嶼の大部分をイエメン領と認めつつ伝統的な漁業権を保障した。エリトリアはこの裁定を受け入れた。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Constitution ratified but never implemented",
+    "ko": "헌법 비준, 그러나 시행되지 않음",
+    "zh": "宪法获批准却从未实施",
+    "ja": "憲法は批准されたが施行されず"
+   },
+   "description": {
+    "en": "In May 1997 a constituent assembly ratified Eritrea's constitution after a lengthy public consultation, providing for elections and civil liberties. In the same year the country introduced its own currency, the nakfa, named after the wartime stronghold. The constitution, however, has never been put into effect, and national elections have not been held.",
+    "ko": "1997년 5월 제헌의회는 오랜 공론화 과정을 거쳐 선거와 시민적 자유를 규정한 에리트레아 헌법을 비준했다. 같은 해 에리트레아는 전시 거점의 이름을 딴 자국 통화 나크파를 도입했다. 그러나 이 헌법은 한 번도 시행되지 않았고 전국 선거도 치러지지 않았다.",
+    "zh": "1997年5月，制宪议会在长时间的公众咨询后批准了厄立特里亚宪法，其中规定了选举和公民自由。同年，该国推出以战时据点命名的本国货币纳克法。然而这部宪法从未生效，全国选举也从未举行。",
+    "ja": "1997年5月、制憲議会は長期にわたる国民協議を経て、選挙と市民的自由を定めたエリトリア憲法を批准した。同じ年、同国は戦時の拠点にちなむ独自通貨ナクファを導入した。しかし憲法は一度も施行されず、国政選挙も実施されていない。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": "Q27230922",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Border war with Ethiopia erupts",
+    "ko": "에티오피아와의 국경 전쟁",
+    "zh": "与埃塞俄比亚爆发边境战争",
+    "ja": "エチオピアとの国境戦争が勃発"
+   },
+   "description": {
+    "en": "A dispute over the town of Badme escalated into a full-scale war between Eritrea and Ethiopia from 1998 to 2000, killing tens of thousands. The Algiers Agreement ended fighting, but a tense stalemate followed.",
+    "ko": "바드메 지역을 둘러싼 분쟁이 1998년 전면전으로 비화해 2000년까지 이어지며 수만 명이 목숨을 잃었다. 알제 협정으로 전투는 끝났지만 긴장된 교착 상태가 계속되었다.",
+    "zh": "围绕巴德梅镇的争端在1998年升级为厄立特里亚与埃塞俄比亚的全面战争,持续至2000年,造成数万人死亡。《阿尔及尔协定》终止了战事,但紧张对峙仍在延续。",
+    "ja": "バドメの帰属をめぐる対立が1998年に全面戦争へと発展し、2000年まで続いて数万人が犠牲となった。アルジェ合意で戦闘は終結したが、その後も緊張した膠着状態が続いた。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Algiers Agreement ends the border war",
+    "ko": "알제 협정으로 국경 전쟁 종결",
+    "zh": "《阿尔及尔协定》结束边境战争",
+    "ja": "アルジェ合意で国境戦争が終結"
+   },
+   "description": {
+    "en": "After a major Ethiopian offensive in May 2000, Eritrea and Ethiopia signed a ceasefire in June and the Algiers Agreement in December 2000. A UN peacekeeping mission (UNMEE) patrolled a temporary security zone inside Eritrea, and both sides agreed to binding rulings by a boundary commission. The war left deep scars and tens of thousands dead on both sides.",
+    "ko": "2000년 5월 에티오피아의 대공세 이후 에리트레아와 에티오피아는 6월에 휴전, 12월에 알제 협정을 체결했다. 유엔 평화유지임무단(UNMEE)이 에리트레아 영내의 임시 안전지대를 순찰했고, 양측은 국경위원회의 구속력 있는 판정을 따르기로 합의했다. 전쟁은 양측에 깊은 상처와 수만 명의 사망자를 남겼다.",
+    "zh": "2000年5月埃塞俄比亚发动大规模攻势后，厄立特里亚与埃塞俄比亚于6月签署停火协议，并于12月签署《阿尔及尔协定》。联合国维和特派团在厄立特里亚境内的临时安全区巡逻，双方同意接受边界委员会具有约束力的裁决。这场战争给双方留下深深的创伤和数万人的死亡。",
+    "ja": "2000年5月のエチオピア軍の大攻勢の後、エリトリアとエチオピアは6月に停戦し、12月にアルジェ合意に調印した。国連平和維持ミッション（UNMEE）がエリトリア領内の暫定安全地帯を巡回し、双方は国境委員会の拘束力ある裁定に従うことで合意した。戦争は双方に深い傷と数万人の死者を残した。"
+   }
+  },
+  {
+   "year": 2001,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Crackdown on the G-15 and the free press",
+    "ko": "G-15와 자유 언론에 대한 탄압",
+    "zh": "镇压“十五人集团”和自由媒体",
+    "ja": "G15と自由な報道への弾圧"
+   },
+   "description": {
+    "en": "In 2001 a group of senior officials known as the G-15 publicly called for democratic reforms and implementation of the constitution. In September 2001 the government arrested eleven of them along with independent journalists and shut down all private newspapers. Most of those detained have been held incommunicado ever since, and Eritrea has had no independent media.",
+    "ko": "2001년 G-15로 알려진 고위 관료 집단이 공개적으로 민주 개혁과 헌법 시행을 요구했다. 2001년 9월 정부는 그중 11명과 독립 언론인들을 체포하고 모든 민간 신문을 폐간했다. 구금된 이들 대부분은 그 후로 외부와 연락이 끊긴 채 갇혀 있으며, 에리트레아에는 독립 언론이 존재하지 않는다.",
+    "zh": "2001年，一批被称为“十五人集团”的高级官员公开呼吁进行民主改革并实施宪法。2001年9月，政府逮捕了其中十一人以及多名独立记者，并关闭了所有私营报纸。被拘留者大多此后一直被单独隔离关押，厄立特里亚从此没有独立媒体。",
+    "ja": "2001年、G15と呼ばれる政府高官のグループが民主的改革と憲法の施行を公然と求めた。同年9月、政府はそのうち11人と独立系ジャーナリストを逮捕し、すべての民間新聞を廃刊にした。拘束された人々の多くはそれ以来外部との連絡を絶たれたまま拘禁されており、エリトリアには独立メディアが存在しない。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Boundary commission awards Badme to Eritrea",
+    "ko": "국경위원회, 바드메를 에리트레아에 귀속",
+    "zh": "边界委员会将巴德梅判归厄立特里亚",
+    "ja": "国境委員会がバドメをエリトリア領と裁定"
+   },
+   "description": {
+    "en": "In April 2002 the Eritrea–Ethiopia Boundary Commission in The Hague delivered its decision on the border, and later clarifications placed the flashpoint town of Badme on the Eritrean side. Ethiopia refused to implement the ruling without further negotiation, and its troops remained in Badme. The resulting 'no war, no peace' standoff lasted until 2018.",
+    "ko": "2002년 4월 헤이그의 에리트레아·에티오피아 국경위원회가 국경에 관한 결정을 내렸고, 이후의 해명을 통해 분쟁의 발화점인 바드메가 에리트레아 쪽에 속하게 되었다. 에티오피아는 추가 협상 없이는 판정을 이행할 수 없다며 거부했고 그 군대는 바드메에 남았다. 이로 인한 '전쟁도 평화도 아닌' 대치는 2018년까지 이어졌다.",
+    "zh": "2002年4月，设在海牙的厄立特里亚—埃塞俄比亚边界委员会作出边界裁决，其后的澄清表明冲突焦点巴德梅镇位于厄立特里亚一侧。埃塞俄比亚拒绝在未经进一步谈判的情况下执行裁决，其军队继续驻扎在巴德梅。由此形成的“不战不和”僵局一直持续到2018年。",
+    "ja": "2002年4月、ハーグのエリトリア・エチオピア国境委員会が国境に関する決定を下し、その後の説明で紛争の火種であるバドメの町がエリトリア側に属するとされた。エチオピアは追加交渉なしの履行を拒み、その軍はバドメにとどまった。こうして生じた「戦争でも平和でもない」膠着状態は2018年まで続いた。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Open-ended national service",
+    "ko": "무기한 국가 복무",
+    "zh": "无限期国民服役",
+    "ja": "無期限の国民奉仕"
+   },
+   "description": {
+    "en": "National service, introduced in the 1990s with a nominal 18-month term, was extended indefinitely after the border war, notably through the Warsay-Yikealo Development Campaign launched in 2002. Conscripts have been assigned to military duty and public works for many years with little pay. The system became a major driver of emigration, making Eritreans one of the largest refugee groups relative to population.",
+    "ko": "1990년대에 명목상 18개월 기한으로 도입된 국가 복무는 국경 전쟁 이후, 특히 2002년 시작된 와르사이-이케알로 개발 운동을 통해 무기한으로 연장되었다. 징집자들은 낮은 보수로 수년 동안 군 복무와 공공사업에 배치되었다. 이 제도는 이민의 주요 원인이 되어, 인구 대비 에리트레아 난민은 세계에서 가장 큰 규모에 속하게 되었다.",
+    "zh": "国民服役制度于20世纪90年代推行，名义期限为18个月，但在边境战争后被无限期延长，尤其是通过2002年启动的“瓦尔赛—伊凯阿洛发展运动”。应征者以微薄报酬被长年派往军队和公共工程。这一制度成为移民外流的主要原因，使厄立特里亚人按人口比例计算成为最大的难民群体之一。",
+    "ja": "1990年代に名目上18か月の期間で導入された国民奉仕は、国境戦争の後、とくに2002年に始まったワルサイ・イケアロ開発キャンペーンを通じて無期限に延長された。徴集された人々は低い報酬で長年にわたり軍務や公共事業に従事させられた。この制度は国外流出の大きな要因となり、人口比でエリトリア人は最大級の難民集団となった。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Border clash with Djibouti",
+    "ko": "지부티와의 국경 충돌",
+    "zh": "与吉布提的边境冲突",
+    "ja": "ジブチとの国境衝突"
+   },
+   "description": {
+    "en": "In June 2008 fighting broke out between Eritrean and Djiboutian troops at Ras Doumeira, a disputed promontory on the Red Sea coast near the Bab-el-Mandeb strait. Djibouti accused Eritrea of occupying its territory, and the UN Security Council called for withdrawal. Qatar later mediated, and the dispute contributed to international sanctions on Eritrea.",
+    "ko": "2008년 6월 바브엘만데브 해협 근처 홍해 연안의 분쟁지 라스 두메이라에서 에리트레아군과 지부티군 사이에 교전이 벌어졌다. 지부티는 에리트레아가 자국 영토를 점령했다고 비난했고 유엔 안전보장이사회는 철수를 요구했다. 이후 카타르가 중재에 나섰으며, 이 분쟁은 에리트레아에 대한 국제 제재의 한 원인이 되었다.",
+    "zh": "2008年6月，厄立特里亚军队与吉布提军队在曼德海峡附近红海沿岸有争议的杜梅拉角发生交火。吉布提指责厄立特里亚占领其领土，联合国安理会要求撤军。卡塔尔后来出面调停，这一争端成为国际社会制裁厄立特里亚的原因之一。",
+    "ja": "2008年6月、バブ・エル・マンデブ海峡近くの紅海沿岸の係争地ラス・ドゥメイラで、エリトリア軍とジブチ軍の間に戦闘が起きた。ジブチはエリトリアが自国領を占領したと非難し、国連安全保障理事会は撤退を求めた。のちにカタールが仲介に入り、この紛争はエリトリアへの国際制裁の一因となった。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "UN sanctions on Eritrea",
+    "ko": "유엔의 에리트레아 제재",
+    "zh": "联合国制裁厄立特里亚",
+    "ja": "国連によるエリトリア制裁"
+   },
+   "description": {
+    "en": "In December 2009 the UN Security Council adopted Resolution 1907, imposing an arms embargo, travel bans and asset freezes on Eritrea for allegedly supporting armed groups in Somalia, including al-Shabaab, and for not withdrawing from the Djibouti border. Eritrea denied the accusations. The sanctions deepened the country's isolation and were lifted only in 2018 after peace with Ethiopia.",
+    "ko": "2009년 12월 유엔 안전보장이사회는 결의 1907호를 채택해, 알샤바브를 비롯한 소말리아 무장 단체를 지원하고 지부티 국경에서 철수하지 않았다는 이유로 에리트레아에 무기 금수·여행 금지·자산 동결을 부과했다. 에리트레아는 이 혐의를 부인했다. 제재는 이 나라의 고립을 심화시켰고 에티오피아와 평화를 이룬 뒤인 2018년에야 해제되었다.",
+    "zh": "2009年12月，联合国安理会通过第1907号决议，以厄立特里亚涉嫌支持索马里包括青年党在内的武装团体、且未从吉布提边境撤军为由，对其实施武器禁运、旅行禁令和资产冻结。厄立特里亚否认上述指控。制裁加深了该国的孤立，直到2018年与埃塞俄比亚实现和平后才被解除。",
+    "ja": "2009年12月、国連安全保障理事会は決議1907を採択し、アッシャバーブを含むソマリアの武装集団を支援し、ジブチ国境から撤退しなかったとして、エリトリアに武器禁輸、渡航禁止、資産凍結を科した。エリトリアは疑惑を否定した。制裁は同国の孤立を深め、エチオピアとの和平後の2018年にようやく解除された。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Forto incident in Asmara",
+    "ko": "아스마라의 포르토 사건",
+    "zh": "阿斯马拉的“福尔托事件”",
+    "ja": "アスマラのフォルト事件"
+   },
+   "description": {
+    "en": "In January 2013 a group of soldiers occupied the Ministry of Information building, known as Forto, in Asmara and briefly forced state television to broadcast a demand for the implementation of the constitution and the release of political prisoners. The standoff ended the same day without the government falling. It was a rare open challenge to President Isaias Afwerki's rule.",
+    "ko": "2013년 1월 일단의 군인들이 아스마라의 정보부 건물, 이른바 '포르토'를 점거하고 국영 방송을 통해 헌법 시행과 정치범 석방 요구를 잠시 방송하게 했다. 대치는 정부가 무너지지 않은 채 당일 끝났다. 이는 이사이아스 아페웨르키 대통령의 통치에 대한 보기 드문 공개적 도전이었다.",
+    "zh": "2013年1月，一批士兵占领了阿斯马拉被称为“福尔托”的新闻部大楼，短暂迫使国家电视台播出要求实施宪法和释放政治犯的声明。对峙在当天结束，政府并未倒台。这是对伊萨亚斯·阿费沃基总统统治罕见的公开挑战。",
+    "ja": "2013年1月、兵士の一団がアスマラの「フォルト」と呼ばれる情報省の建物を占拠し、国営テレビに憲法の施行と政治犯の釈放を求める声明を一時放送させた。対峙は政府が倒れることなくその日のうちに終わった。これはイサイアス・アフェウェルキ大統領の支配に対する珍しい公然たる挑戦であった。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "UN inquiry reports crimes against humanity",
+    "ko": "유엔 조사위원회, 반인도적 범죄 보고",
+    "zh": "联合国调查委员会报告危害人类罪",
+    "ja": "国連調査委員会が人道に対する罪を報告"
+   },
+   "description": {
+    "en": "In June 2016 the UN Commission of Inquiry on Human Rights in Eritrea concluded that there were reasonable grounds to believe crimes against humanity had been committed by officials since 1991, including enslavement through indefinite national service, imprisonment and torture. The Eritrean government rejected the findings as politically motivated. The report drew attention to the conditions behind mass emigration.",
+    "ko": "2016년 6월 유엔 에리트레아 인권조사위원회는 1991년 이래 당국자들이 무기한 국가 복무를 통한 노예화, 구금, 고문 등 반인도적 범죄를 저질렀다고 믿을 만한 합리적 근거가 있다고 결론지었다. 에리트레아 정부는 이 결론을 정치적 동기에 따른 것이라며 거부했다. 보고서는 대규모 이민의 배경이 된 상황에 관심을 모았다.",
+    "zh": "2016年6月，联合国厄立特里亚人权调查委员会得出结论，有合理理由相信自1991年以来官员犯下了危害人类罪，包括通过无限期国民服役实施奴役、监禁和酷刑。厄立特里亚政府以出于政治目的为由拒绝了这些结论。该报告引起了人们对导致大规模移民外流的状况的关注。",
+    "ja": "2016年6月、国連エリトリア人権調査委員会は、1991年以降、当局者が無期限の国民奉仕による奴隷化、拘禁、拷問などの人道に対する罪を犯したと信じるに足る合理的根拠があると結論づけた。エリトリア政府は結論を政治的動機によるものとして退けた。報告書は大量の国外流出の背景にある状況に注目を集めた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Asmara inscribed as a World Heritage Site",
+    "ko": "아스마라, 세계유산 등재",
+    "zh": "阿斯马拉列入世界遗产",
+    "ja": "アスマラが世界遺産に登録"
+   },
+   "description": {
+    "en": "In July 2017 UNESCO inscribed 'Asmara: A Modernist African City' on the World Heritage List. The listing recognized the city's exceptionally well-preserved urban plan and buildings from the Italian colonial period, especially the modernist architecture of the 1930s. It was Eritrea's first World Heritage Site.",
+    "ko": "2017년 7월 유네스코는 '아스마라: 아프리카의 모더니즘 도시'를 세계유산 목록에 등재했다. 이 등재는 이탈리아 식민 시대, 특히 1930년대 모더니즘 건축의 도시 계획과 건물이 매우 잘 보존된 점을 인정한 것이다. 이는 에리트레아 최초의 세계유산이다.",
+    "zh": "2017年7月，联合国教科文组织将“阿斯马拉：非洲现代主义城市”列入《世界遗产名录》。这一列名肯定了该市保存极为完好的意大利殖民时期城市规划和建筑，特别是20世纪30年代的现代主义建筑。这是厄立特里亚的第一处世界遗产。",
+    "ja": "2017年7月、ユネスコは「アスマラ：アフリカのモダニズム都市」を世界遺産リストに登録した。登録は、イタリア植民地時代、とりわけ1930年代のモダニズム建築による都市計画と建物が極めてよく保存されている点を評価したものである。これはエリトリア初の世界遺産である。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q55437375",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Historic peace agreement with Ethiopia",
+    "ko": "에티오피아와 역사적 평화 합의",
+    "zh": "与埃塞俄比亚达成历史性和平协议",
+    "ja": "エチオピアとの歴史的和平合意"
+   },
+   "description": {
+    "en": "In July 2018 President Isaias Afwerki and Ethiopian Prime Minister Abiy Ahmed declared an end to two decades of hostility, restoring diplomatic ties, flights and border crossings between the two nations.",
+    "ko": "2018년 7월 이사이아스 아페웨르키 대통령과 에티오피아의 아비 아머드 총리가 20년에 걸친 적대 관계의 종식을 선언하고 외교 관계와 항공편, 국경 통행을 복원했다.",
+    "zh": "2018年7月,总统伊萨亚斯·阿费沃基与埃塞俄比亚总理阿比·艾哈迈德宣布结束长达二十年的敌对状态,恢复了两国的外交关系、航班与边境通行。",
+    "ja": "2018年7月、イサイアス・アフェウェルキ大統領とエチオピアのアビィ・アハメド首相は20年に及ぶ敵対関係の終結を宣言し、外交関係や航空便、国境の往来を回復させた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Eritrean troops in the Tigray War",
+    "ko": "티그라이 전쟁에 참전한 에리트레아군",
+    "zh": "厄立特里亚军队参与提格雷战争",
+    "ja": "ティグライ戦争へのエリトリア軍の参戦"
+   },
+   "description": {
+    "en": "When war broke out in November 2020 between Ethiopia's federal government and the Tigray People's Liberation Front, Eritrean troops entered Tigray in support of Ethiopian forces. Human rights organizations and the UN accused Eritrean soldiers of grave abuses against civilians, including the killing of residents of Axum in November 2020; Eritrea denied wrongdoing. Eritrea was not a party to the November 2022 Pretoria peace agreement.",
+    "ko": "2020년 11월 에티오피아 연방 정부와 티그라이 인민해방전선 사이에 전쟁이 일어나자 에리트레아군은 에티오피아군을 지원하며 티그라이에 진입했다. 인권 단체와 유엔은 2020년 11월 악숨 주민 살해를 비롯해 에리트레아 군인들이 민간인에게 중대한 인권 침해를 저질렀다고 비난했으나, 에리트레아는 이를 부인했다. 에리트레아는 2022년 11월 프리토리아 평화 협정의 당사자가 아니었다.",
+    "zh": "2020年11月埃塞俄比亚联邦政府与提格雷人民解放阵线之间爆发战争后，厄立特里亚军队进入提格雷支援埃塞俄比亚军队。人权组织和联合国指控厄立特里亚士兵对平民犯下严重侵害行为，包括2020年11月在阿克苏姆杀害居民；厄立特里亚否认有不当行为。厄立特里亚并非2022年11月《比勒陀利亚和平协议》的签署方。",
+    "ja": "2020年11月にエチオピア連邦政府とティグライ人民解放戦線の間で戦争が始まると、エリトリア軍はエチオピア軍を支援してティグライに入った。人権団体や国連は、2020年11月のアクスム住民殺害を含め、エリトリア兵が民間人に重大な人権侵害を行ったと非難したが、エリトリアは否定した。エリトリアは2022年11月のプレトリア和平合意の当事者ではなかった。"
+   }
+  }
+ ]
+}

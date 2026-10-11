@@ -2,53 +2,54 @@
 
 import { useState, useEffect } from "react";
 import type { CountryInfo } from "@/types/country";
-import type { CountryHistory } from "@/types/history";
-import { fetchCountryInfo, fetchCountryHistory } from "@/services/countryService";
+import type { Chronicle } from "@/types/history";
+import { fetchCountryInfo, fetchChronicle } from "@/services/countryService";
 import { useI18n } from "@/lib/i18n";
 
-interface UseCountryDataResult {
-  info: CountryInfo | null;
-  history: CountryHistory | null;
+interface Loadable<T> {
+  data: T | null;
   loading: boolean;
   error: string | null;
 }
 
-export function useCountryData(isoCode: string | null): UseCountryDataResult {
+const idle = { data: null, loading: false, error: null };
+
+/** Fetch per country + language; each source loads and fails independently. */
+function useCountryResource<T>(
+  isoCode: string | null,
+  fetcher: (iso: string, lang: string) => Promise<T>
+): Loadable<T> {
   const { lang } = useI18n();
-  const [info, setInfo] = useState<CountryInfo | null>(null);
-  const [history, setHistory] = useState<CountryHistory | null>(null);
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+  const [state, setState] = useState<Loadable<T>>(idle);
 
   useEffect(() => {
     if (!isoCode) {
-      setInfo(null);
-      setHistory(null);
+      setState(idle);
       return;
     }
-
     let cancelled = false;
-    setLoading(true);
-    setError(null);
-
-    Promise.all([fetchCountryInfo(isoCode, lang), fetchCountryHistory(isoCode, lang)])
-      .then(([infoData, historyData]) => {
-        if (cancelled) return;
-        setInfo(infoData);
-        setHistory(historyData);
+    setState({ data: null, loading: true, error: null });
+    fetcher(isoCode, lang)
+      .then((data) => {
+        if (!cancelled) setState({ data, loading: false, error: null });
       })
       .catch((err) => {
         if (cancelled) return;
-        setError(err instanceof Error ? err.message : "Failed to load data");
-      })
-      .finally(() => {
-        if (!cancelled) setLoading(false);
+        const error = err instanceof Error ? err.message : "Failed to load data";
+        setState({ data: null, loading: false, error });
       });
-
     return () => {
       cancelled = true;
     };
-  }, [isoCode, lang]);
+  }, [isoCode, lang, fetcher]);
 
-  return { info, history, loading, error };
+  return state;
+}
+
+export function useCountryInfo(isoCode: string | null) {
+  return useCountryResource<CountryInfo>(isoCode, fetchCountryInfo);
+}
+
+export function useChronicle(isoCode: string | null) {
+  return useCountryResource<Chronicle>(isoCode, fetchChronicle);
 }

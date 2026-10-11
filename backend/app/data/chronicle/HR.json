@@ -1,0 +1,3076 @@
+{
+ "iso": "HR",
+ "eras": [
+  {
+   "from": -3300,
+   "to": -2200,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Vučedol culture",
+    "ko": "부체돌 문화",
+    "zh": "武切多尔文化",
+    "ja": "ヴチェドル文化"
+   },
+   "summary": {
+    "en": "The Copper Age Vučedol culture, named after a site on the Danube near Vukovar, flourished across eastern Croatia and neighbouring regions in the late 4th and 3rd millennia BC. Its people built hilltop settlements, practised early copper metallurgy and made richly decorated pottery such as the famous Vučedol Dove. It is one of the most important prehistoric cultures of southeastern Europe.",
+    "ko": "부코바르 인근 도나우강 변 유적의 이름을 딴 동기 시대의 부체돌 문화는 기원전 4천년기 말부터 3천년기까지 크로아티아 동부와 인접 지역에서 번성했다. 이들은 언덕 위에 취락을 세우고 초기 구리 야금을 했으며, 유명한 '부체돌 비둘기'처럼 화려하게 장식된 토기를 만들었다. 남동유럽 선사 시대에서 가장 중요한 문화 가운데 하나로 꼽힌다.",
+    "zh": "铜石并用时代的武切多尔文化得名于武科瓦尔附近多瑙河畔的遗址，于公元前四千纪末至三千纪在克罗地亚东部及邻近地区繁盛。其居民在山丘上建立聚落，掌握早期炼铜技术，并制作装饰华丽的陶器，如著名的“武切多尔鸽”。它是东南欧最重要的史前文化之一。",
+    "ja": "ヴコヴァル近郊のドナウ河畔の遺跡にちなむ銅器時代のヴチェドル文化は、前4千年紀末から前3千年紀にかけてクロアチア東部と周辺地域で栄えた。人々は丘の上に集落を築き、初期の銅冶金を営み、有名な「ヴチェドルの鳩」のような華やかな装飾土器を作った。南東ヨーロッパ先史時代で最も重要な文化の一つである。"
+   }
+  },
+  {
+   "from": -2300,
+   "to": -1000,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bronze Age cultures of Croatia",
+    "ko": "크로아티아의 청동기 문화",
+    "zh": "克罗地亚的青铜时代文化",
+    "ja": "クロアチアの青銅器文化"
+   },
+   "summary": {
+    "en": "In the Bronze Age the Vinkovci culture succeeded Vučedol in the east, while the Cetina culture spread along the Dalmatian coast and hinterland, known for its burial mounds. From the later 2nd millennium BC the Urnfield tradition of cremation burials reached northern Croatia, and fortified hillforts (gradine) multiplied in Istria and Dalmatia.",
+    "ko": "청동기 시대에 동부에서는 빈코브치 문화가 부체돌 문화를 계승했고, 달마티아 해안과 내륙에는 봉분으로 알려진 체티나 문화가 퍼졌다. 기원전 2천년기 후반부터는 화장묘를 특징으로 하는 언필드(골호장) 전통이 크로아티아 북부에 이르렀고, 이스트라와 달마티아에서는 방어용 언덕 요새(그라디나)가 늘어났다.",
+    "zh": "青铜时代，东部的温科夫奇文化继承了武切多尔文化，而以坟丘墓著称的采蒂纳文化则遍布达尔马提亚沿海及内陆。自公元前二千纪晚期起，以火葬为特征的骨灰瓮文化传统传入克罗地亚北部，伊斯特拉和达尔马提亚的山顶设防聚落（格拉迪纳）也日益增多。",
+    "ja": "青銅器時代、東部ではヴィンコヴツィ文化がヴチェドル文化を継ぎ、ダルマチアの沿岸と内陸には墳丘墓で知られるツェティナ文化が広がった。前2千年紀後半からは火葬墓を特徴とする骨壺墓地（アーンフィールド）文化の伝統がクロアチア北部に及び、イストラやダルマチアでは防御的な丘上集落（グラディナ）が増えた。"
+   }
+  },
+  {
+   "from": -1000,
+   "to": -35,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Iron Age Illyrians, Histri and Celts",
+    "ko": "철기 시대의 일리리아인·히스트리인·켈트인",
+    "zh": "铁器时代的伊利里亚人、希斯特里人与凯尔特人",
+    "ja": "鉄器時代のイリュリア人・ヒストリ人・ケルト人"
+   },
+   "summary": {
+    "en": "During the Iron Age the land was home to peoples known from Greek and Roman writers: the Histri in Istria, the seafaring Liburnians on the northern Adriatic coast, the Iapodes in the mountainous interior, and the Delmatae in central Dalmatia. From the 4th century BC Celtic groups settled in the Pannonian north, mixing with local populations. These peoples lived in fortified hillforts and resisted Roman expansion for two centuries.",
+    "ko": "철기 시대 이 땅에는 그리스·로마 문헌에 등장하는 여러 민족이 살았다. 이스트라의 히스트리인, 북부 아드리아해 연안의 항해 민족 리부르니아인, 산악 내륙의 이아포데스인, 달마티아 중부의 델마타이인 등이다. 기원전 4세기부터는 켈트계 집단이 북부 판노니아 지역에 정착해 토착민과 섞였다. 이들은 언덕 요새에 살며 두 세기에 걸쳐 로마의 팽창에 맞섰다.",
+    "zh": "铁器时代，这片土地上居住着希腊罗马作家笔下的诸多民族：伊斯特拉的希斯特里人、亚得里亚海北岸善于航海的利布尔尼亚人、山区内陆的雅波德人以及达尔马提亚中部的达尔马提亚人。自公元前4世纪起，凯尔特人群体定居于北部潘诺尼亚地区，并与当地居民融合。这些民族居住在山顶要塞中，抵抗罗马扩张长达两个世纪。",
+    "ja": "鉄器時代、この地にはギリシャ・ローマの著述家が記す諸民族が暮らしていた。イストラのヒストリ人、北アドリア海沿岸の航海民リブルニア人、山岳内陸のイアポデス人、ダルマチア中部のデルマタエ人などである。前4世紀からはケルト系集団が北部パンノニア地域に定住し、在地の人々と混じり合った。彼らは丘上の要塞集落に住み、2世紀にわたってローマの拡大に抵抗した。"
+   }
+  },
+  {
+   "from": -400,
+   "to": -35,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Greek colonies on the Adriatic islands",
+    "ko": "아드리아해 섬들의 그리스 식민도시",
+    "zh": "亚得里亚海岛屿上的希腊殖民城邦",
+    "ja": "アドリア海諸島のギリシャ植民市"
+   },
+   "summary": {
+    "en": "In the early 4th century BC Greeks from Syracuse and the island of Paros founded colonies on Dalmatian islands, notably Issa on Vis and Pharos on Hvar. Issa later established its own settlements such as Tragurion (Trogir) and Epetion (Stobreč) on the mainland. The colonies introduced Greek coinage, viticulture and urban planning, and Issa's appeals to Rome helped draw the Romans into the Adriatic.",
+    "ko": "기원전 4세기 초 시라쿠사와 파로스섬 출신 그리스인들이 달마티아 섬들에 식민도시를 세웠는데, 비스섬의 이사와 흐바르섬의 파로스가 대표적이다. 이사는 이후 본토에 트라구리온(트로기르)과 에페티온(스토브레치) 같은 거점을 건설했다. 식민도시들은 그리스식 화폐, 포도 재배, 도시 계획을 들여왔고, 이사가 로마에 도움을 청한 일은 로마가 아드리아해로 진출하는 계기가 되었다.",
+    "zh": "公元前4世纪初，来自叙拉古和帕罗斯岛的希腊人在达尔马提亚诸岛建立殖民城邦，其中以维斯岛的伊萨和赫瓦尔岛的法罗斯最为著名。伊萨后来又在大陆上建立了特拉古里翁（特罗吉尔）和埃佩提翁（斯托布雷奇）等据点。这些殖民地带来了希腊货币、葡萄种植和城市规划，而伊萨向罗马求援也促使罗马势力进入亚得里亚海。",
+    "ja": "前4世紀初め、シラクサとパロス島から来たギリシャ人がダルマチアの島々に植民市を築いた。代表的なのはヴィス島のイッサとフヴァル島のファロスである。イッサはのちに本土にトラグリオン（トロギル）やエペティオン（ストブレチ）などの拠点を設けた。植民市はギリシャ式の貨幣、ぶどう栽培、都市計画をもたらし、イッサがローマに救援を求めたことはローマのアドリア海進出のきっかけとなった。"
+   }
+  },
+  {
+   "from": -229,
+   "to": -27,
+   "kind": "state",
+   "qid": "Q175881",
+   "polity": "Roman Republic",
+   "name": {
+    "en": "Roman Republic's conquest of Illyricum",
+    "ko": "로마 공화정의 일리리쿰 정복",
+    "zh": "罗马共和国征服伊利里库姆",
+    "ja": "ローマ共和政によるイリュリクム征服"
+   },
+   "summary": {
+    "en": "Beginning with the Illyrian Wars of 229 and 219 BC, the Roman Republic gradually extended its power along the eastern Adriatic. Repeated campaigns against the Delmatae, Iapodes and Histri, culminating in Octavian's Illyrian campaign of 35–33 BC, brought the coast and much of the interior under Roman control. Roman colonies were founded at places such as Pola (Pula) and Iader (Zadar).",
+    "ko": "기원전 229년과 219년의 일리리아 전쟁을 시작으로 로마 공화정은 아드리아해 동부 연안으로 세력을 점차 넓혔다. 델마타이인·이아포데스인·히스트리인을 상대로 한 거듭된 원정은 기원전 35~33년 옥타비아누스의 일리리쿰 원정으로 정점에 이르렀고, 해안과 내륙 상당 부분이 로마의 지배 아래 들어갔다. 폴라(풀라)와 이아데르(자다르) 등지에 로마 식민시가 세워졌다.",
+    "zh": "自公元前229年和前219年的伊利里亚战争起，罗马共和国逐步将势力扩展到亚得里亚海东岸。针对达尔马提亚人、雅波德人和希斯特里人的多次征战，在公元前35年至前33年屋大维的伊利里库姆战役中达到高潮，沿海和大部分内陆地区归于罗马统治。罗马在波拉（普拉）和伊阿德尔（扎达尔）等地建立了殖民城市。",
+    "ja": "前229年と前219年のイリュリア戦争を皮切りに、ローマ共和政はアドリア海東岸へと次第に勢力を広げた。デルマタエ人、イアポデス人、ヒストリ人に対する度重なる遠征は、前35〜前33年のオクタウィアヌスのイリュリクム遠征で頂点に達し、沿岸部と内陸の大部分がローマの支配下に入った。ポラ（プーラ）やイアデル（ザダル）などにローマの植民市が築かれた。"
+   }
+  },
+  {
+   "from": -27,
+   "to": 395,
+   "kind": "state",
+   "qid": null,
+   "polity": "Roman Empire",
+   "name": {
+    "en": "Roman provinces of Dalmatia and Pannonia",
+    "ko": "로마 제국의 달마티아·판노니아 속주",
+    "zh": "罗马帝国的达尔马提亚与潘诺尼亚行省",
+    "ja": "ローマ帝国のダルマティア・パンノニア属州"
+   },
+   "summary": {
+    "en": "Under the Roman Empire, the land of modern Croatia was divided between the provinces of Dalmatia, with its capital at Salona near Split, and Pannonia in the north, while Istria belonged to Italy. Roads, aqueducts, amphitheatres and towns such as Siscia (Sisak), Mursa (Osijek) and Pola flourished. Dalmatia produced the emperor Diocletian, whose palace became the core of Split, and Christianity spread through Salona in the 3rd–4th centuries.",
+    "ko": "로마 제국 시대 오늘날 크로아티아 땅은 스플리트 인근 살로나를 주도로 한 달마티아 속주와 북부의 판노니아 속주로 나뉘었고, 이스트라는 이탈리아에 속했다. 도로와 수도교, 원형 경기장이 건설되고 시시아(시사크), 무르사(오시예크), 폴라 같은 도시가 번영했다. 달마티아는 디오클레티아누스 황제를 배출했으며 그의 궁전은 스플리트의 중심이 되었고, 3~4세기에는 살로나를 통해 기독교가 퍼졌다.",
+    "zh": "罗马帝国时期，今天克罗地亚的土地分属以斯普利特附近的萨罗纳为首府的达尔马提亚行省和北部的潘诺尼亚行省，伊斯特拉则属于意大利。道路、引水渠和圆形竞技场相继建成，锡西亚（锡萨克）、穆尔萨（奥西耶克）和波拉等城市繁荣兴旺。达尔马提亚出了戴克里先皇帝，他的宫殿成为斯普利特的核心；3至4世纪，基督教经由萨罗纳传播开来。",
+    "ja": "ローマ帝国時代、現在のクロアチアの地はスプリト近郊のサロナを州都とするダルマティア属州と北部のパンノニア属州に分かれ、イストラはイタリアに属した。道路、水道橋、円形闘技場が建設され、シスキア（シサク）、ムルサ（オシエク）、ポラなどの都市が栄えた。ダルマティアはディオクレティアヌス帝を輩出し、その宮殿はスプリトの中核となった。3〜4世紀にはサロナを通じてキリスト教が広まった。"
+   }
+  },
+  {
+   "from": 395,
+   "to": 480,
+   "kind": "state",
+   "qid": "Q42834",
+   "polity": "Western Roman Empire",
+   "name": {
+    "en": "Western Roman Empire and the last emperor in Dalmatia",
+    "ko": "서로마 제국과 달마티아의 마지막 황제",
+    "zh": "西罗马帝国与达尔马提亚的末代皇帝",
+    "ja": "西ローマ帝国とダルマティアの最後の皇帝"
+   },
+   "summary": {
+    "en": "After the division of the empire in 395, Dalmatia and Pannonia belonged to the Western Roman Empire, while the Pannonian plain suffered invasions by Goths and Huns. In the 460s the general Marcellinus ruled Dalmatia almost independently, and his nephew Julius Nepos, deposed as Western emperor in 475, continued to reign from Dalmatia until his murder near Salona in 480.",
+    "ko": "395년 제국이 분할된 뒤 달마티아와 판노니아는 서로마 제국에 속했고, 판노니아 평원은 고트족과 훈족의 침입에 시달렸다. 460년대 장군 마르켈리누스가 달마티아를 사실상 독자적으로 다스렸으며, 그의 조카 율리우스 네포스는 475년 서로마 황제에서 폐위된 뒤에도 480년 살로나 인근에서 살해될 때까지 달마티아에서 통치를 이어갔다.",
+    "zh": "395年帝国分治后，达尔马提亚和潘诺尼亚归属西罗马帝国，而潘诺尼亚平原饱受哥特人和匈人入侵之苦。460年代，将军马塞利努斯几乎独立地统治达尔马提亚；其侄尤利乌斯·尼波斯于475年被废黜西罗马皇位后，仍在达尔马提亚继续统治，直至480年在萨罗纳附近遇刺身亡。",
+    "ja": "395年の帝国分割後、ダルマティアとパンノニアは西ローマ帝国に属し、パンノニア平原はゴート族やフン族の侵入に苦しんだ。460年代には将軍マルケリヌスがダルマティアをほぼ独立して統治し、その甥ユリウス・ネポスは475年に西ローマ皇帝を廃された後も、480年にサロナ近郊で殺害されるまでダルマティアで統治を続けた。"
+   }
+  },
+  {
+   "from": 480,
+   "to": 537,
+   "kind": "state",
+   "qid": "Q583038",
+   "polity": "Ostrogothic Kingdom",
+   "name": {
+    "en": "Odoacer and the Ostrogothic Kingdom",
+    "ko": "오도아케르와 동고트 왕국",
+    "zh": "奥多亚塞与东哥特王国",
+    "ja": "オドアケルと東ゴート王国"
+   },
+   "summary": {
+    "en": "After the death of Julius Nepos, Odoacer, ruler of Italy, annexed Dalmatia. From 493 the Ostrogothic king Theodoric the Great ruled Italy, Dalmatia and southern Pannonia, preserving Roman administration and urban life. Ostrogothic rule on the eastern Adriatic ended when Byzantine forces invaded Dalmatia at the start of Justinian's Gothic War in 535.",
+    "ko": "율리우스 네포스가 죽은 뒤 이탈리아의 지배자 오도아케르가 달마티아를 병합했다. 493년부터는 동고트 왕 테오도리크 대왕이 이탈리아·달마티아·남부 판노니아를 다스리며 로마식 행정과 도시 생활을 유지했다. 아드리아해 동부의 동고트 지배는 535년 유스티니아누스의 고트 전쟁 초기에 비잔티움군이 달마티아를 침공하면서 끝났다.",
+    "zh": "尤利乌斯·尼波斯死后，意大利统治者奥多亚塞吞并了达尔马提亚。自493年起，东哥特国王狄奥多里克大帝统治意大利、达尔马提亚和南潘诺尼亚，保留了罗马的行政制度和城市生活。535年查士丁尼发动哥特战争之初，拜占庭军队进攻达尔马提亚，东哥特人在亚得里亚海东岸的统治随之终结。",
+    "ja": "ユリウス・ネポスの死後、イタリアの支配者オドアケルがダルマティアを併合した。493年からは東ゴート王テオドリック大王がイタリア、ダルマティア、南パンノニアを支配し、ローマ式の行政と都市生活を維持した。アドリア海東岸における東ゴートの支配は、535年、ユスティニアヌスのゴート戦争の初めにビザンツ軍がダルマティアに侵攻したことで終わった。"
+   }
+  },
+  {
+   "from": 535,
+   "to": 1000,
+   "kind": "state",
+   "qid": "Q12544",
+   "polity": "Byzantine Empire",
+   "name": {
+    "en": "Byzantine Dalmatia",
+    "ko": "비잔티움령 달마티아",
+    "zh": "拜占庭的达尔马提亚",
+    "ja": "ビザンツ領ダルマティア"
+   },
+   "summary": {
+    "en": "After Justinian's reconquest, the Eastern Roman (Byzantine) Empire ruled Dalmatia. Following the Avar-Slav invasions of the early 7th century, Byzantine authority shrank to a chain of Latin-speaking coastal towns and islands, including Zadar, Split, Trogir, Dubrovnik, Krk, Rab and Osor, later organized as the theme of Dalmatia. These towns preserved Roman urban traditions and gradually came under Croatian and Venetian influence around the year 1000.",
+    "ko": "유스티니아누스의 재정복 이후 동로마(비잔티움) 제국이 달마티아를 다스렸다. 7세기 초 아바르족과 슬라브족의 침입 이후 비잔티움의 권위는 자다르·스플리트·트로기르·두브로브니크와 크르크·라브·오소르 등 라틴어를 쓰는 해안 도시와 섬들로 축소되었고, 이들은 훗날 달마티아 테마로 편성되었다. 이 도시들은 로마의 도시 전통을 지켰으며, 1000년 무렵부터 점차 크로아티아와 베네치아의 영향 아래 들어갔다.",
+    "zh": "查士丁尼收复失地后，东罗马（拜占庭）帝国统治达尔马提亚。7世纪初阿瓦尔人和斯拉夫人入侵后，拜占庭的权力收缩到扎达尔、斯普利特、特罗吉尔、杜布罗夫尼克以及克尔克、拉布、奥索尔等讲拉丁语的沿海城镇和岛屿，后来编为达尔马提亚军区。这些城镇保存了罗马城市传统，约自公元1000年起逐渐受到克罗地亚和威尼斯的影响。",
+    "ja": "ユスティニアヌスの再征服後、東ローマ（ビザンツ）帝国がダルマティアを支配した。7世紀初めのアヴァール人とスラヴ人の侵入後、ビザンツの権威はザダル、スプリト、トロギル、ドゥブロヴニクやクルク、ラブ、オソルなど、ラテン語を話す沿岸都市と島々に縮小し、のちにダルマティア・テマとして編成された。これらの都市はローマの都市伝統を守り、1000年頃から次第にクロアチアとヴェネツィアの影響下に入った。"
+   }
+  },
+  {
+   "from": 568,
+   "to": 796,
+   "kind": "state",
+   "qid": "Q68962",
+   "polity": "Avar Khaganate",
+   "name": {
+    "en": "Avar Khaganate",
+    "ko": "아바르 카간국",
+    "zh": "阿瓦尔汗国",
+    "ja": "アヴァール・カガン国"
+   },
+   "summary": {
+    "en": "In 568 the nomadic Avars settled in the Pannonian plain after the Lombards left for Italy, and their khaganate dominated the Slavs of the region for over two centuries. Together with Slavic groups they raided Byzantine lands and contributed to the collapse of Roman towns in the interior and of Salona on the coast. Their power was broken by Charlemagne's Frankish campaigns in the 790s.",
+    "ko": "568년 랑고바르드족이 이탈리아로 떠나자 유목민 아바르족이 판노니아 평원에 자리 잡았고, 그들의 카간국은 두 세기 넘게 이 지역의 슬라브인들을 지배했다. 아바르족은 슬라브 집단과 함께 비잔티움 영토를 약탈해 내륙 로마 도시들과 해안의 살로나가 무너지는 데 한몫했다. 그들의 세력은 790년대 카롤루스 대제의 프랑크 원정으로 무너졌다.",
+    "zh": "568年伦巴底人迁往意大利后，游牧的阿瓦尔人定居潘诺尼亚平原，其汗国统治该地区的斯拉夫人两百余年。他们与斯拉夫人一起劫掠拜占庭领土，促成了内陆罗马城镇以及沿海萨罗纳的衰亡。790年代，查理曼的法兰克远征摧毁了阿瓦尔人的势力。",
+    "ja": "568年、ランゴバルド人がイタリアへ去ると、遊牧民アヴァール人がパンノニア平原に定着し、そのカガン国は2世紀以上にわたって地域のスラヴ人を支配した。彼らはスラヴ系集団とともにビザンツ領を略奪し、内陸のローマ都市や沿岸のサロナの没落をもたらした。その勢力は790年代のカール大帝によるフランク遠征で打ち砕かれた。"
+   }
+  },
+  {
+   "from": 600,
+   "to": 925,
+   "kind": "state",
+   "qid": "Q2576305",
+   "polity": "Duchy of Croatia",
+   "name": {
+    "en": "Early Croats and the Duchy of Croatia",
+    "ko": "초기 크로아트인과 크로아티아 공국",
+    "zh": "早期克罗地亚人与克罗地亚公国",
+    "ja": "初期クロアチア人とクロアチア公国"
+   },
+   "summary": {
+    "en": "Slavic groups, among them the Croats, settled the former Roman provinces in the 7th century; their exact origin and arrival date are debated. In the Dalmatian hinterland a Croatian duchy emerged under rulers such as Višeslav, Borna, Trpimir and Branimir, at first under Frankish overlordship and from 879 with papal recognition. A separate Slavic principality existed in Pannonia (Lower Pannonia) under dukes such as Ljudevit Posavski.",
+    "ko": "7세기에 크로아트인을 비롯한 슬라브 집단이 옛 로마 속주에 정착했는데, 그들의 정확한 기원과 도래 시기에 대해서는 논쟁이 있다. 달마티아 내륙에서는 비셰슬라브, 보르나, 트르피미르, 브라니미르 같은 군주 아래 크로아티아 공국이 등장했으며, 처음에는 프랑크의 종주권 아래 있다가 879년 교황의 승인을 받았다. 판노니아(하판노니아)에는 류데비트 포사브스키 같은 공작이 다스린 별도의 슬라브 공국이 있었다.",
+    "zh": "7世纪，包括克罗地亚人在内的斯拉夫人群定居于原罗马行省，其确切起源和迁入时间仍有争议。在达尔马提亚内陆，一个克罗地亚公国在维舍斯拉夫、博尔纳、特尔皮米尔和布拉尼米尔等君主统治下兴起，起初处于法兰克宗主权之下，879年获得教皇承认。潘诺尼亚（下潘诺尼亚）则另有一个斯拉夫公国，由柳德维特·波萨夫斯基等公爵统治。",
+    "ja": "7世紀、クロアチア人を含むスラヴ系集団が旧ローマ属州に定住したが、その正確な起源と到来時期については議論がある。ダルマチア内陸ではヴィシェスラヴ、ボルナ、トルピミル、ブラニミルらの君主のもとでクロアチア公国が形成され、当初はフランクの宗主権下にあったが、879年に教皇の承認を得た。パンノニア（下パンノニア）にはリュデヴィト・ポサフスキらが治める別のスラヴ公国があった。"
+   }
+  },
+  {
+   "from": 788,
+   "to": 877,
+   "kind": "state",
+   "qid": "Q146246",
+   "polity": "Kingdom of the Franks",
+   "name": {
+    "en": "Frankish overlordship",
+    "ko": "프랑크 왕국의 종주권",
+    "zh": "法兰克王国的宗主统治",
+    "ja": "フランク王国の宗主権"
+   },
+   "summary": {
+    "en": "From the late 8th century the Carolingian Franks took Istria from Byzantium, destroyed the Avar Khaganate and established overlordship over the Croatian dukes in Dalmatia and Pannonia. The Treaty of Aachen of 812 divided the region, leaving the coastal towns to Byzantium. Frankish missionaries from Aquileia helped spread Latin Christianity among the Croats, while Frankish authority weakened after the revolt of Ljudevit and the decline of the Carolingian Empire.",
+    "ko": "8세기 말부터 카롤링거 프랑크인은 비잔티움으로부터 이스트라를 빼앗고 아바르 카간국을 무너뜨렸으며, 달마티아와 판노니아의 크로아티아 공작들에게 종주권을 행사했다. 812년 아헨 조약으로 이 지역은 분할되어 해안 도시들은 비잔티움에 남았다. 아퀼레이아에서 온 프랑크 선교사들은 크로아트인에게 라틴 기독교를 전파했으나, 류데비트의 봉기와 카롤링거 제국의 쇠퇴 이후 프랑크의 권위는 약해졌다.",
+    "zh": "自8世纪末起，加洛林王朝的法兰克人从拜占庭手中夺取伊斯特拉，摧毁阿瓦尔汗国，并对达尔马提亚和潘诺尼亚的克罗地亚公爵行使宗主权。812年的亚琛条约划分了这一地区，沿海城镇仍归拜占庭。来自阿奎莱亚的法兰克传教士在克罗地亚人中传播拉丁基督教，但在柳德维特起义和加洛林帝国衰落之后，法兰克的权威逐渐削弱。",
+    "ja": "8世紀末からカロリング朝フランク人はビザンツからイストラを奪い、アヴァール・カガン国を滅ぼし、ダルマチアとパンノニアのクロアチア諸公に宗主権を及ぼした。812年のアーヘン条約で地域は分割され、沿岸都市はビザンツに残った。アクイレイアから来たフランクの宣教師はクロアチア人にラテン・キリスト教を広めたが、リュデヴィトの反乱とカロリング帝国の衰退の後、フランクの権威は弱まった。"
+   }
+  },
+  {
+   "from": 925,
+   "to": 1102,
+   "kind": "state",
+   "qid": "Q858841",
+   "polity": "Kingdom of Croatia",
+   "name": {
+    "en": "Kingdom of Croatia (Trpimirović dynasty)",
+    "ko": "크로아티아 왕국 (트르피미로비치 왕조)",
+    "zh": "克罗地亚王国（特尔皮米罗维奇王朝）",
+    "ja": "クロアチア王国（トルピミロヴィッチ朝）"
+   },
+   "summary": {
+    "en": "Around 925 Tomislav became the first king of Croatia, uniting Dalmatian and Pannonian Croatia. Under the Trpimirović dynasty the kingdom reached its height under Peter Krešimir IV (1058–1074/75), who extended his rule over the Dalmatian towns, and Demetrius Zvonimir, crowned with papal support in 1075. After the dynasty died out, a succession struggle ended with the Hungarian king Coloman taking the throne in 1102.",
+    "ko": "925년경 토미슬라브가 크로아티아 최초의 국왕이 되어 달마티아와 판노니아의 크로아티아를 통합했다. 트르피미로비치 왕조 아래 왕국은 달마티아 도시들로 통치를 넓힌 페타르 크레시미르 4세(1058~1074/75)와 1075년 교황의 지지 속에 대관한 드미타르 즈보니미르 시대에 전성기를 맞았다. 왕조가 단절된 뒤 왕위 계승 분쟁은 1102년 헝가리 왕 칼만의 즉위로 끝났다.",
+    "zh": "约925年，托米斯拉夫成为克罗地亚首位国王，统一了达尔马提亚和潘诺尼亚的克罗地亚。在特尔皮米罗维奇王朝统治下，王国在将统治扩展至达尔马提亚诸城的彼得·克雷希米尔四世（1058—1074/75年在位）以及1075年在教皇支持下加冕的德米塔尔·兹沃尼米尔时期达到鼎盛。王朝绝嗣后，王位继承之争以1102年匈牙利国王卡尔曼登上王位告终。",
+    "ja": "925年頃、トミスラヴがクロアチア初代国王となり、ダルマチアとパンノニアのクロアチアを統一した。トルピミロヴィッチ朝のもとで王国は、ダルマチア諸都市に支配を広げたペタル・クレシミル4世（在位1058〜1074/75年）と、1075年に教皇の支持を得て戴冠したドミタル・ズヴォニミルの時代に最盛期を迎えた。王朝断絶後の継承争いは、1102年のハンガリー王カールマーンの即位で決着した。"
+   }
+  },
+  {
+   "from": 1000,
+   "to": 1797,
+   "kind": "state",
+   "qid": "Q4948",
+   "polity": "Republic of Venice",
+   "name": {
+    "en": "Venetian Dalmatia and Istria",
+    "ko": "베네치아령 달마티아와 이스트라",
+    "zh": "威尼斯的达尔马提亚与伊斯特拉",
+    "ja": "ヴェネツィア領ダルマチアとイストラ"
+   },
+   "summary": {
+    "en": "The Republic of Venice first asserted power on the Dalmatian coast with Doge Pietro II Orseolo's expedition of 1000 and fought Hungary-Croatia for the coastal towns for four centuries. After buying Ladislaus of Naples' claims in 1409, Venice ruled most of Dalmatia and the western coast of Istria until 1797. Venetian rule left a strong mark on architecture, language and maritime trade, while the hinterland was contested with the Ottomans.",
+    "ko": "베네치아 공화국은 1000년 도제 피에트로 2세 오르세올로의 원정으로 처음 달마티아 해안에 세력을 뻗었고, 이후 4세기 동안 헝가리-크로아티아와 해안 도시들을 두고 다퉜다. 1409년 나폴리의 라디슬라오로부터 권리를 사들인 베네치아는 1797년까지 달마티아 대부분과 이스트라 서부 해안을 지배했다. 베네치아의 통치는 건축·언어·해상 교역에 깊은 흔적을 남겼고, 내륙은 오스만 제국과 다툼의 대상이 되었다.",
+    "zh": "威尼斯共和国于1000年总督彼得罗二世·奥尔塞奥洛远征时首次在达尔马提亚沿海确立势力，此后四个世纪一直与匈牙利-克罗地亚争夺沿海城镇。1409年从那不勒斯的拉迪斯劳手中买下权利后，威尼斯统治达尔马提亚大部分地区和伊斯特拉西岸直至1797年。威尼斯的统治在建筑、语言和海上贸易上留下深刻印记，而内陆地区则与奥斯曼帝国反复争夺。",
+    "ja": "ヴェネツィア共和国は1000年の総督ピエトロ2世オルセオロの遠征で初めてダルマチア沿岸に勢力を及ぼし、以後4世紀にわたりハンガリー＝クロアチアと沿岸都市を争った。1409年にナポリ王ラディスラーオの権利を買い取ると、1797年までダルマチアの大部分とイストラ西岸を支配した。ヴェネツィアの統治は建築・言語・海上交易に深い痕跡を残し、内陸部はオスマン帝国との係争地となった。"
+   }
+  },
+  {
+   "from": 1102,
+   "to": 1526,
+   "kind": "state",
+   "qid": "Q171150",
+   "polity": "Kingdom of Hungary",
+   "name": {
+    "en": "Croatia in union with the Kingdom of Hungary",
+    "ko": "헝가리 왕국과 연합한 크로아티아",
+    "zh": "与匈牙利王国联合的克罗地亚",
+    "ja": "ハンガリー王国と連合したクロアチア"
+   },
+   "summary": {
+    "en": "From 1102 Croatia shared its king with Hungary while keeping its own ban (viceroy), diet (Sabor) and nobility; the precise legal nature of the union remains debated by historians. Powerful noble families such as the Šubići of Bribir and the Frankopans of Krk dominated politics, and Slavonia developed as a separate banate. From the late 14th century Ottoman raids grew, culminating in defeats at Krbava (1493) and Mohács (1526).",
+    "ko": "1102년부터 크로아티아는 헝가리와 국왕을 공유하면서도 독자적인 반(총독)과 의회(사보르), 귀족을 유지했다. 이 연합의 정확한 법적 성격은 역사가들 사이에서 여전히 논쟁거리이다. 브리비르의 슈비치 가문과 크르크의 프랑코판 가문 같은 대귀족이 정치를 주도했고, 슬라보니아는 별도의 반령으로 발전했다. 14세기 말부터 오스만의 침공이 잦아져 크르바바(1493)와 모하치(1526)의 패전으로 이어졌다.",
+    "zh": "自1102年起，克罗地亚与匈牙利共奉一君，但保留了自己的总督（班）、议会（萨博尔）和贵族；这一联合的确切法律性质至今仍有史学争议。布里比尔的舒比奇家族和克尔克的弗兰科潘家族等大贵族主导政局，斯拉沃尼亚则发展为独立的总督辖区。14世纪末起奥斯曼人的侵袭日益频繁，最终导致克尔巴瓦（1493年）和莫哈奇（1526年）的惨败。",
+    "ja": "1102年からクロアチアはハンガリーと国王を共有しつつ、独自のバン（総督）、議会（サボル）、貴族を保った。この連合の正確な法的性格については今も歴史家の間で議論がある。ブリビルのシュビッチ家やクルクのフランコパン家などの大貴族が政治を主導し、スラヴォニアは別個のバン領として発展した。14世紀末からオスマン軍の侵入が増え、クルバヴァ（1493年）とモハーチ（1526年）での敗北に至った。"
+   }
+  },
+  {
+   "from": 1205,
+   "to": 1808,
+   "kind": "state",
+   "qid": "Q208169",
+   "polity": null,
+   "name": {
+    "en": "Republic of Ragusa (Dubrovnik)",
+    "ko": "라구사 공화국 (두브로브니크)",
+    "zh": "拉古萨共和国（杜布罗夫尼克）",
+    "ja": "ラグサ共和国（ドゥブロヴニク）"
+   },
+   "summary": {
+    "en": "Dubrovnik (Ragusa) was under Venetian sovereignty from 1205 until 1358, when it became a self-governing aristocratic republic under nominal Hungarian and later Ottoman protection. Through diplomacy, tribute and a large merchant fleet it prospered as a trading hub between the Ottoman Balkans and the Mediterranean, and its literature made it a centre of Croatian Renaissance culture. The republic was abolished by Napoleon's general Marmont in 1808.",
+    "ko": "두브로브니크(라구사)는 1205년부터 1358년까지 베네치아의 주권 아래 있다가, 이후 명목상 헝가리, 뒤에는 오스만의 보호를 받는 자치 귀족 공화국이 되었다. 외교와 조공, 대규모 상선단을 바탕으로 오스만 발칸과 지중해를 잇는 교역 중심지로 번영했으며, 그 문학은 이곳을 크로아티아 르네상스 문화의 중심으로 만들었다. 공화국은 1808년 나폴레옹의 장군 마르몽에 의해 폐지되었다.",
+    "zh": "杜布罗夫尼克（拉古萨）自1205年至1358年处于威尼斯主权之下，此后成为名义上受匈牙利、后受奥斯曼保护的自治贵族共和国。凭借外交、纳贡和庞大的商船队，它作为奥斯曼巴尔干与地中海之间的贸易枢纽而繁荣，其文学也使之成为克罗地亚文艺复兴文化的中心。1808年，共和国被拿破仑的将军马尔蒙废除。",
+    "ja": "ドゥブロヴニク（ラグサ）は1205年から1358年までヴェネツィアの主権下にあり、その後は名目上ハンガリー、のちにオスマン帝国の保護を受ける自治的な貴族共和国となった。外交と貢納、大規模な商船隊によって、オスマン領バルカンと地中海を結ぶ交易拠点として繁栄し、その文学によってクロアチア・ルネサンス文化の中心となった。共和国は1808年、ナポレオンの将軍マルモンによって廃止された。"
+   }
+  },
+  {
+   "from": 1526,
+   "to": 1699,
+   "kind": "state",
+   "qid": "Q12560",
+   "polity": "Ottoman Empire",
+   "name": {
+    "en": "Ottoman rule in Slavonia and the hinterland",
+    "ko": "슬라보니아와 내륙의 오스만 지배",
+    "zh": "奥斯曼帝国对斯拉沃尼亚及内陆的统治",
+    "ja": "スラヴォニアと内陸のオスマン支配"
+   },
+   "summary": {
+    "en": "After victories in the early 16th century, the Ottoman Empire conquered most of Slavonia, Lika and the Dalmatian hinterland, including Knin (1522), Osijek (1526) and Klis (1537). These lands were organized into sanjaks and later the Eyalet of Bosnia, and the population changed through war, flight and resettlement. The Ottomans were driven out of most of this territory in the Great Turkish War, confirmed by the Treaty of Karlowitz in 1699.",
+    "ko": "16세기 초 잇따른 승리 끝에 오스만 제국은 크닌(1522), 오시예크(1526), 클리스(1537)를 포함해 슬라보니아·리카·달마티아 내륙 대부분을 정복했다. 이 땅은 산자크로, 뒤에는 보스니아 에얄레트로 편성되었고, 전쟁과 피란, 재정착으로 주민 구성이 크게 바뀌었다. 오스만 세력은 대튀르크 전쟁에서 이 지역 대부분에서 축출되었고, 이는 1699년 카를로비츠 조약으로 확정되었다.",
+    "zh": "16世纪初接连获胜后，奥斯曼帝国征服了斯拉沃尼亚、利卡和达尔马提亚内陆的大部分地区，包括克宁（1522年）、奥西耶克（1526年）和克利斯（1537年）。这些土地被编为桑贾克，后归属波斯尼亚省，战争、逃亡和移民安置使人口构成发生巨变。在大土耳其战争中，奥斯曼人被逐出其中大部分地区，1699年的卡尔洛维茨条约确认了这一结果。",
+    "ja": "16世紀初めの相次ぐ勝利の後、オスマン帝国はクニン（1522年）、オシエク（1526年）、クリス（1537年）を含むスラヴォニア、リカ、ダルマチア内陸の大部分を征服した。これらの地はサンジャクに、のちにボスニア州に編成され、戦争・避難・再入植によって住民構成は大きく変わった。オスマン勢力は大トルコ戦争でこの地域の大部分から駆逐され、1699年のカルロヴィッツ条約で確定した。"
+   }
+  },
+  {
+   "from": 1527,
+   "to": 1805,
+   "kind": "state",
+   "qid": "Q66504140",
+   "polity": "Habsburg Monarchy",
+   "name": {
+    "en": "Habsburg Kingdom of Croatia and the Military Frontier",
+    "ko": "합스부르크 왕가의 크로아티아 왕국과 군정 국경지대",
+    "zh": "哈布斯堡的克罗地亚王国与军事边疆区",
+    "ja": "ハプスブルク家のクロアチア王国と軍政国境地帯"
+   },
+   "summary": {
+    "en": "In 1527 the Croatian nobility elected Ferdinand of Habsburg king, and the reduced 'remnants of the remnants' of the kingdom became a bulwark against the Ottomans. Vienna organized the Military Frontier along the border, settling soldier-farmers, many of them Orthodox Vlachs and Serbs, under direct military rule. After the Ottoman retreat, Slavonia was restored, and enlightened absolutist reforms under Maria Theresa and Joseph II reshaped administration and education.",
+    "ko": "1527년 크로아티아 귀족들은 합스부르크가의 페르디난트를 국왕으로 선출했고, 줄어든 왕국은 '잔존 중의 잔존'이라 불리며 오스만에 맞선 방벽이 되었다. 빈 정부는 국경을 따라 군정 국경지대를 조직하고 정교회를 믿는 블라흐인과 세르비아인을 비롯한 병농을 정착시켜 직접 군사 통치했다. 오스만이 물러난 뒤 슬라보니아가 회복되었고, 마리아 테레지아와 요제프 2세의 계몽 절대주의 개혁이 행정과 교육을 바꾸었다.",
+    "zh": "1527年，克罗地亚贵族推选哈布斯堡家族的斐迪南为国王，残存的王国被称为“残余中的残余”，成为抵御奥斯曼的屏障。维也纳沿边境设立军事边疆区，安置大批屯田兵（其中许多是信奉东正教的弗拉赫人和塞尔维亚人），实行直接军事统治。奥斯曼人退却后，斯拉沃尼亚得以收复，玛丽亚·特蕾莎和约瑟夫二世的开明专制改革重塑了行政与教育。",
+    "ja": "1527年、クロアチア貴族はハプスブルク家のフェルディナントを国王に選出し、縮小した王国は「残余の残余」と呼ばれながらオスマンに対する防壁となった。ウィーンは国境沿いに軍政国境地帯を設け、正教徒のヴラフ人やセルビア人を多く含む屯田兵を入植させて直接軍政下に置いた。オスマンの後退後にスラヴォニアが回復され、マリア・テレジアとヨーゼフ2世の啓蒙絶対主義改革が行政と教育を変えた。"
+   }
+  },
+  {
+   "from": 1804,
+   "to": 1867,
+   "kind": "state",
+   "qid": "Q131964",
+   "polity": "Austrian Empire",
+   "name": {
+    "en": "Austrian Empire and the Croatian national revival",
+    "ko": "오스트리아 제국과 크로아티아 민족 부흥",
+    "zh": "奥地利帝国与克罗地亚民族复兴",
+    "ja": "オーストリア帝国とクロアチア民族再生"
+   },
+   "summary": {
+    "en": "Within the Austrian Empire, the Kingdom of Croatia-Slavonia, the separate Kingdom of Dalmatia and the Military Frontier were administered separately, and Hungarian pressure for the Magyar language grew. In response the Illyrian movement led by Ljudevit Gaj standardized the Croatian literary language and awakened national consciousness. In 1848 Ban Josip Jelačić broke with Budapest and abolished serfdom, but the following decade of neo-absolutism restored centralized rule from Vienna.",
+    "ko": "오스트리아 제국 안에서 크로아티아-슬라보니아 왕국, 별도의 달마티아 왕국, 군정 국경지대는 따로 통치되었고, 마자르어 사용을 요구하는 헝가리의 압력이 커졌다. 이에 맞서 류데비트 가이가 이끈 일리리아 운동은 크로아티아 문어를 표준화하고 민족의식을 일깨웠다. 1848년 반 요시프 옐라치치는 부다페스트와 결별하고 농노제를 폐지했으나, 뒤이은 신절대주의 10년간 빈의 중앙집권 통치가 되살아났다.",
+    "zh": "在奥地利帝国内部，克罗地亚-斯拉沃尼亚王国、单独的达尔马提亚王国和军事边疆区分别管理，匈牙利推行马扎尔语的压力日增。作为回应，柳德维特·盖伊领导的伊利里亚运动规范了克罗地亚书面语并唤醒民族意识。1848年，总督约西普·耶拉契奇与布达佩斯决裂并废除农奴制，但随后十年的新专制主义恢复了维也纳的中央集权统治。",
+    "ja": "オーストリア帝国内では、クロアチア＝スラヴォニア王国、別個のダルマチア王国、軍政国境地帯がそれぞれ統治され、マジャル語使用を求めるハンガリーの圧力が強まった。これに対しリュデヴィト・ガイが率いたイリュリア運動はクロアチア文章語を標準化し、民族意識を呼び覚ました。1848年、バンのヨシプ・イェラチッチはブダペストと決別して農奴制を廃止したが、続く新絶対主義の10年間にウィーンの中央集権支配が復活した。"
+   }
+  },
+  {
+   "from": 1805,
+   "to": 1813,
+   "kind": "state",
+   "qid": "Q71084",
+   "polity": "First French Empire",
+   "name": {
+    "en": "Napoleonic rule and the Illyrian Provinces",
+    "ko": "나폴레옹 지배와 일리리아 주",
+    "zh": "拿破仑统治与伊利里亚行省",
+    "ja": "ナポレオン支配とイリュリア州"
+   },
+   "summary": {
+    "en": "After the Peace of Pressburg in 1805, Dalmatia and Istria passed to Napoleon's Kingdom of Italy, and French troops occupied Dubrovnik in 1806. In 1809 the coast, Istria and Croatian lands south of the Sava were joined in the Illyrian Provinces of the French Empire. French rule brought roads, schools and modern administration, and the Illyrian name later inspired the Croatian national movement; Austria retook the region in 1813–1814.",
+    "ko": "1805년 프레스부르크 강화로 달마티아와 이스트라는 나폴레옹의 이탈리아 왕국에 넘어갔고, 1806년에는 프랑스군이 두브로브니크를 점령했다. 1809년 해안과 이스트라, 사바강 이남의 크로아티아 땅은 프랑스 제국의 일리리아 주로 통합되었다. 프랑스의 통치는 도로·학교·근대 행정을 가져왔으며 '일리리아'라는 이름은 훗날 크로아티아 민족 운동에 영감을 주었다. 오스트리아는 1813~1814년 이 지역을 되찾았다.",
+    "zh": "1805年普雷斯堡和约后，达尔马提亚和伊斯特拉划归拿破仑的意大利王国，1806年法军占领杜布罗夫尼克。1809年，沿海地区、伊斯特拉以及萨瓦河以南的克罗地亚土地被并入法兰西帝国的伊利里亚行省。法国统治带来了道路、学校和现代行政，“伊利里亚”之名后来激发了克罗地亚民族运动；1813—1814年奥地利收复了该地区。",
+    "ja": "1805年のプレスブルクの和約でダルマチアとイストラはナポレオンのイタリア王国に移り、1806年にはフランス軍がドゥブロヴニクを占領した。1809年、沿岸部、イストラ、サヴァ川以南のクロアチアの地はフランス帝国のイリュリア州に統合された。フランスの統治は道路・学校・近代行政をもたらし、「イリュリア」の名はのちにクロアチア民族運動を鼓舞した。オーストリアは1813〜1814年にこの地域を奪回した。"
+   }
+  },
+  {
+   "from": 1867,
+   "to": 1918,
+   "kind": "state",
+   "qid": "Q28513",
+   "polity": "Austria-Hungary",
+   "name": {
+    "en": "Austria-Hungary",
+    "ko": "오스트리아-헝가리 제국",
+    "zh": "奥匈帝国",
+    "ja": "オーストリア＝ハンガリー帝国"
+   },
+   "summary": {
+    "en": "Under the Dual Monarchy created in 1867, Croatia-Slavonia belonged to the Hungarian half, while Dalmatia and Istria were Austrian crown lands. The period saw railways, the growth of Zagreb and Rijeka, emigration to the Americas, and rivalry between Croatian parties advocating autonomy, independence or South Slavic unity. Defeat in the First World War dissolved the monarchy in 1918.",
+    "ko": "1867년 이중 제국이 성립하자 크로아티아-슬라보니아는 헝가리 쪽에 속했고, 달마티아와 이스트라는 오스트리아 직할령이었다. 이 시기에는 철도가 놓이고 자그레브와 리예카가 성장했으며 아메리카로의 이민이 늘었고, 자치·독립·남슬라브 통합을 각각 주장하는 크로아티아 정당들이 경쟁했다. 제1차 세계대전의 패배로 1918년 제국은 해체되었다.",
+    "zh": "1867年二元君主国成立后，克罗地亚-斯拉沃尼亚归属匈牙利部分，达尔马提亚和伊斯特拉则是奥地利的王室领地。这一时期铁路兴建，萨格勒布和里耶卡迅速发展，大批人移民美洲，主张自治、独立或南斯拉夫统一的克罗地亚各政党相互竞争。第一次世界大战战败后，帝国于1918年解体。",
+    "ja": "1867年に二重帝国が成立すると、クロアチア＝スラヴォニアはハンガリー側に属し、ダルマチアとイストラはオーストリアの直轄領となった。この時代には鉄道が敷かれ、ザグレブとリエカが成長し、アメリカ大陸への移民が増え、自治・独立・南スラヴ統合をそれぞれ掲げるクロアチアの諸政党が競い合った。第一次世界大戦の敗北により1918年に帝国は解体した。"
+   }
+  },
+  {
+   "from": 1868,
+   "to": 1918,
+   "kind": "state",
+   "qid": "Q533558",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Croatia-Slavonia",
+    "ko": "크로아티아-슬라보니아 왕국",
+    "zh": "克罗地亚-斯拉沃尼亚王国",
+    "ja": "クロアチア＝スラヴォニア王国"
+   },
+   "summary": {
+    "en": "The Croatian–Hungarian Settlement of 1868 made Croatia-Slavonia an autonomous kingdom within the Hungarian crown, with its own Sabor and ban responsible for internal affairs, justice and education. Finance and many key matters remained in Budapest's hands, and the governorship of Ban Károly Khuen-Héderváry (1883–1903) was marked by Magyarization and suppression of opposition. The Military Frontier was incorporated into it in 1881.",
+    "ko": "1868년 크로아티아-헝가리 협약으로 크로아티아-슬라보니아는 헝가리 왕관 아래의 자치 왕국이 되어, 독자적인 사보르와 반이 내정·사법·교육을 맡았다. 재정과 여러 핵심 사안은 부다페스트가 쥐고 있었으며, 반 쿠엔 헤데르바리 카로이(1883~1903) 시기는 마자르화와 반대파 탄압으로 특징지어진다. 1881년 군정 국경지대가 이 왕국에 편입되었다.",
+    "zh": "1868年的克罗地亚-匈牙利协定使克罗地亚-斯拉沃尼亚成为匈牙利王冠下的自治王国，拥有自己的议会和总督，负责内政、司法与教育。财政和许多关键事务仍掌握在布达佩斯手中，库恩-赫德尔瓦里·卡罗伊总督任内（1883—1903年）以马扎尔化和压制反对派为特征。1881年，军事边疆区并入该王国。",
+    "ja": "1868年のクロアチア＝ハンガリー協約により、クロアチア＝スラヴォニアはハンガリー王冠のもとの自治王国となり、独自のサボルとバンが内政・司法・教育を担った。財政など多くの重要事項はブダペストが握り、バンのクエン＝ヘーデルヴァーリ・カーロイの時代（1883〜1903年）はマジャル化と反対派弾圧で知られる。1881年には軍政国境地帯が編入された。"
+   }
+  },
+  {
+   "from": 1918,
+   "to": 1941,
+   "kind": "state",
+   "qid": null,
+   "polity": "Yugoslavia",
+   "name": {
+    "en": "Kingdom of Serbs, Croats and Slovenes / Yugoslavia",
+    "ko": "세르비아인·크로아트인·슬로베니아인 왕국 / 유고슬라비아",
+    "zh": "塞尔维亚人、克罗地亚人和斯洛文尼亚人王国／南斯拉夫",
+    "ja": "セルブ・クロアート・スロヴェーン王国／ユーゴスラビア"
+   },
+   "summary": {
+    "en": "In late 1918 Croatia joined the short-lived State of Slovenes, Croats and Serbs and then the Kingdom of Serbs, Croats and Slovenes under the Serbian Karađorđević dynasty, renamed Yugoslavia in 1929. Croatian opposition to Belgrade's centralism, led by Stjepan Radić's Croatian Peasant Party, dominated interwar politics. Italy held Zadar, Rijeka and Istria, and the 1939 agreement created an autonomous Banovina of Croatia shortly before the Second World War.",
+    "ko": "1918년 말 크로아티아는 단명한 슬로베니아인·크로아트인·세르비아인국에 이어 세르비아 카라조르제비치 왕조가 다스리는 세르비아인·크로아트인·슬로베니아인 왕국에 합류했고, 이 나라는 1929년 유고슬라비아로 개칭되었다. 스테판 라디치의 크로아티아 농민당이 이끈 베오그라드 중앙집권에 대한 반대가 전간기 정치를 지배했다. 이탈리아가 자다르·리예카·이스트라를 차지했고, 1939년 협정으로 제2차 세계대전 직전 자치 크로아티아 바노비나가 생겼다.",
+    "zh": "1918年底，克罗地亚先加入短命的斯洛文尼亚人、克罗地亚人和塞尔维亚人国，继而加入由塞尔维亚卡拉乔尔杰维奇王朝统治的塞尔维亚人、克罗地亚人和斯洛文尼亚人王国，该国于1929年更名为南斯拉夫。斯捷潘·拉迪奇领导的克罗地亚农民党反对贝尔格莱德的中央集权，主导了两次大战之间的政治。意大利占有扎达尔、里耶卡和伊斯特拉；1939年的协定在第二次世界大战前夕设立了自治的克罗地亚省。",
+    "ja": "1918年末、クロアチアは短命に終わったスロヴェーン人・クロアート人・セルブ人国を経て、セルビアのカラジョルジェヴィッチ朝が治めるセルブ・クロアート・スロヴェーン王国に加わり、同国は1929年にユーゴスラビアと改称した。ステパン・ラディッチのクロアチア農民党が率いたベオグラードの中央集権への反対が戦間期の政治を支配した。イタリアがザダル、リエカ、イストラを領有し、1939年の協定で第二次世界大戦直前に自治的なクロアチア自治州が設けられた。"
+   }
+  },
+  {
+   "from": 1941,
+   "to": 1945,
+   "kind": "state",
+   "qid": "Q153128",
+   "polity": "Independent State of Croatia",
+   "name": {
+    "en": "Second World War: Independent State of Croatia and the Partisans",
+    "ko": "제2차 세계대전: 크로아티아 독립국과 파르티잔",
+    "zh": "第二次世界大战：克罗地亚独立国与游击队",
+    "ja": "第二次世界大戦：クロアチア独立国とパルチザン"
+   },
+   "summary": {
+    "en": "After the Axis invasion of Yugoslavia in April 1941, the Ustaša movement of Ante Pavelić proclaimed the Independent State of Croatia, an Axis puppet state that also included Bosnia and Herzegovina, while Italy annexed much of Dalmatia. The Ustaša regime carried out genocide against Serbs, Jews and Roma in camps such as Jasenovac and persecuted political opponents. A large communist-led Partisan movement under Josip Broz Tito fought the occupiers and the regime, and took power in 1945.",
+    "ko": "1941년 4월 추축국이 유고슬라비아를 침공한 뒤 안테 파벨리치의 우스타샤 운동은 보스니아 헤르체고비나까지 포함한 추축국 괴뢰국 크로아티아 독립국을 선포했고, 이탈리아는 달마티아 상당 부분을 병합했다. 우스타샤 정권은 야세노바츠 등의 수용소에서 세르비아인·유대인·로마인을 대상으로 제노사이드를 자행하고 정적을 박해했다. 요시프 브로즈 티토가 이끄는 공산주의 계열의 대규모 파르티잔 운동이 점령군과 정권에 맞서 싸웠고 1945년 권력을 장악했다.",
+    "zh": "1941年4月轴心国入侵南斯拉夫后，安特·帕韦利奇的乌斯塔沙运动宣布成立“克罗地亚独立国”，这是一个还包括波斯尼亚和黑塞哥维那的轴心国傀儡国家，意大利则吞并了达尔马提亚的大部分。乌斯塔沙政权在亚塞诺瓦茨等集中营对塞尔维亚人、犹太人和罗姆人实施种族灭绝，并迫害政治对手。约瑟普·布罗兹·铁托领导的共产党游击队运动规模庞大，与占领者和该政权作战，并于1945年夺取政权。",
+    "ja": "1941年4月の枢軸国によるユーゴスラビア侵攻後、アンテ・パヴェリッチのウスタシャ運動はボスニア・ヘルツェゴヴィナをも含む枢軸の傀儡国家「クロアチア独立国」を宣言し、イタリアはダルマチアの大部分を併合した。ウスタシャ政権はヤセノヴァツなどの収容所でセルビア人、ユダヤ人、ロマに対するジェノサイドを行い、政敵を迫害した。ヨシップ・ブロズ・ティトー率いる共産党主導の大規模なパルチザン運動が占領軍と政権に抵抗し、1945年に権力を握った。"
+   }
+  },
+  {
+   "from": 1945,
+   "to": 1991,
+   "kind": "state",
+   "qid": "Q83286",
+   "polity": "Socialist Federal Republic of Yugoslavia",
+   "name": {
+    "en": "Socialist Republic of Croatia in Yugoslavia",
+    "ko": "유고슬라비아의 크로아티아 사회주의 공화국",
+    "zh": "南斯拉夫的克罗地亚社会主义共和国",
+    "ja": "ユーゴスラビアのクロアチア社会主義共和国"
+   },
+   "summary": {
+    "en": "After 1945 Croatia was one of six republics of communist Yugoslavia under Tito, and the 1947 peace treaty added Istria, Rijeka and Zadar. Yugoslavia's split with Stalin in 1948 led to a distinctive system of workers' self-management and non-alignment, and the Adriatic coast became a major tourist destination. Demands for greater autonomy surfaced in the Croatian Spring of 1971, and after Tito's death economic crisis and rising nationalism undermined the federation.",
+    "ko": "1945년 이후 크로아티아는 티토가 이끄는 공산주의 유고슬라비아의 여섯 공화국 가운데 하나였으며, 1947년 강화 조약으로 이스트라·리예카·자다르가 더해졌다. 1948년 스탈린과의 결별 이후 유고슬라비아는 노동자 자주관리와 비동맹이라는 독자 노선을 걸었고, 아드리아해 연안은 주요 관광지가 되었다. 1971년 '크로아티아의 봄'에서 더 큰 자치 요구가 분출했고, 티토 사후 경제 위기와 민족주의의 고조가 연방을 흔들었다.",
+    "zh": "1945年后，克罗地亚成为铁托领导的共产主义南斯拉夫六个共和国之一，1947年和约又将伊斯特拉、里耶卡和扎达尔划入。1948年南斯拉夫与斯大林决裂后，走上了工人自治和不结盟的独特道路，亚得里亚海沿岸成为重要的旅游胜地。1971年的“克罗地亚之春”提出了更大自治的要求；铁托去世后，经济危机和民族主义抬头动摇了联邦。",
+    "ja": "1945年以後、クロアチアはティトーの共産主義ユーゴスラビアの6共和国の一つとなり、1947年の講和条約でイストラ、リエカ、ザダルが加わった。1948年のスターリンとの決裂後、ユーゴスラビアは労働者自主管理と非同盟という独自路線を歩み、アドリア海沿岸は主要な観光地となった。1971年の「クロアチアの春」ではより大きな自治の要求が噴出し、ティトーの死後は経済危機と民族主義の高まりが連邦を揺るがした。"
+   }
+  },
+  {
+   "from": 1991,
+   "to": 1995,
+   "kind": "state",
+   "qid": "Q211853",
+   "polity": null,
+   "name": {
+    "en": "Republic of Serbian Krajina",
+    "ko": "세르비아 크라이나 공화국",
+    "zh": "塞尔维亚克拉伊纳共和国",
+    "ja": "セルビア・クライナ共和国"
+   },
+   "summary": {
+    "en": "In 1991 rebel Croatian Serbs, backed by the Yugoslav People's Army and Serbia, proclaimed the self-styled Republic of Serbian Krajina on about a quarter to a third of Croatia's territory. The entity was never internationally recognized, and its areas were placed under UN protection in 1992. Most of it was retaken by Croatia in Operations Flash and Storm in 1995, and Eastern Slavonia was peacefully reintegrated by 1998.",
+    "ko": "1991년 유고슬라비아 인민군과 세르비아의 지원을 받은 크로아티아 내 세르비아계 반군은 크로아티아 영토의 약 4분의 1에서 3분의 1에 이르는 지역에 자칭 '세르비아 크라이나 공화국'을 선포했다. 이 실체는 국제적으로 승인받지 못했고, 1992년 그 지역은 유엔 보호 구역이 되었다. 대부분은 1995년 '섬광 작전'과 '폭풍 작전'으로 크로아티아가 되찾았으며, 동슬라보니아는 1998년까지 평화적으로 재통합되었다.",
+    "zh": "1991年，在南斯拉夫人民军和塞尔维亚支持下，克罗地亚境内的塞族叛军在约占克罗地亚四分之一至三分之一的领土上宣布成立自封的“塞尔维亚克拉伊纳共和国”。该实体从未获得国际承认，其地区于1992年被置于联合国保护之下。1995年克罗地亚通过“闪电行动”和“风暴行动”收复了其中大部分，东斯拉沃尼亚则于1998年前和平重新并入。",
+    "ja": "1991年、ユーゴスラビア人民軍とセルビアの支援を受けたクロアチア国内のセルビア系反乱勢力は、クロアチア領土の約4分の1から3分の1にあたる地域に自称「セルビア・クライナ共和国」を宣言した。この実体は国際的に承認されず、1992年にその地域は国連保護区に置かれた。大部分は1995年の「閃光作戦」と「嵐作戦」でクロアチアが奪回し、東スラヴォニアは1998年までに平和的に再統合された。"
+   }
+  },
+  {
+   "from": 1991,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q224",
+   "polity": "Republic of Croatia",
+   "name": {
+    "en": "Republic of Croatia",
+    "ko": "크로아티아 공화국",
+    "zh": "克罗地亚共和国",
+    "ja": "クロアチア共和国"
+   },
+   "summary": {
+    "en": "Croatia declared independence from Yugoslavia in 1991 and won international recognition in 1992, but had to fight the Homeland War of 1991–1995 to restore control over its territory. After a period of nationalist rule under Franjo Tuđman, the country moved toward democratic consolidation, joining NATO in 2009 and the European Union in 2013. It adopted the euro and joined the Schengen Area in 2023, and tourism along the Adriatic is a pillar of its economy.",
+    "ko": "크로아티아는 1991년 유고슬라비아로부터 독립을 선언하고 1992년 국제적 승인을 얻었으나, 영토를 되찾기 위해 1991~1995년 조국전쟁을 치러야 했다. 프라뇨 투지만의 민족주의 통치기를 거친 뒤 민주주의를 공고히 해 나가며 2009년 NATO, 2013년 유럽연합에 가입했다. 2023년에는 유로화를 도입하고 솅겐 지역에 합류했으며, 아드리아해 관광은 경제의 기둥이다.",
+    "zh": "克罗地亚于1991年宣布脱离南斯拉夫独立，1992年获得国际承认，但为恢复对领土的控制，不得不进行1991—1995年的祖国战争。在弗拉尼奥·图季曼的民族主义统治之后，国家逐步巩固民主，2009年加入北约，2013年加入欧盟。2023年启用欧元并加入申根区，亚得里亚海旅游业是其经济支柱。",
+    "ja": "クロアチアは1991年にユーゴスラビアからの独立を宣言し、1992年に国際的承認を得たが、領土の支配を回復するため1991〜1995年の祖国戦争を戦わねばならなかった。フラニョ・トゥジマンの民族主義的統治の時代を経て民主主義の定着が進み、2009年にNATO、2013年に欧州連合に加盟した。2023年にはユーロを導入しシェンゲン圏に加わり、アドリア海の観光は経済の柱となっている。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Vučedol culture flourishes on the Danube",
+    "ko": "도나우강 변에서 번성한 부체돌 문화",
+    "zh": "多瑙河畔的武切多尔文化繁盛",
+    "ja": "ドナウ河畔で栄えたヴチェドル文化"
+   },
+   "description": {
+    "en": "Around 3000 BC the Vučedol culture was flourishing at its eponymous site near Vukovar and across eastern Croatia. Its communities worked copper, built fortified hilltop villages and produced elaborately incised pottery, including the ritual vessel known as the Vučedol Dove, today a symbol of Vukovar.",
+    "ko": "기원전 3000년경 부코바르 인근의 표지 유적과 크로아티아 동부 일대에서 부체돌 문화가 번성하고 있었다. 이 공동체들은 구리를 가공하고 언덕 위에 방어 취락을 세웠으며, 오늘날 부코바르의 상징인 제의용 용기 '부체돌 비둘기'를 비롯해 정교하게 새김무늬를 넣은 토기를 만들었다.",
+    "zh": "约公元前3000年，武切多尔文化在武科瓦尔附近的同名遗址及克罗地亚东部一带繁盛。其社群加工铜器，在山顶建造设防村落，并制作刻纹精美的陶器，其中包括今天已成为武科瓦尔象征的祭祀器皿“武切多尔鸽”。",
+    "ja": "前3000年頃、ヴコヴァル近郊の標準遺跡とクロアチア東部一帯でヴチェドル文化が栄えていた。その共同体は銅を加工し、丘の上に防御集落を築き、今日ヴコヴァルの象徴となっている祭祀用の器「ヴチェドルの鳩」をはじめ、精巧な刻文土器を作った。"
+   }
+  },
+  {
+   "year": -2000,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Cetina culture burial mounds in Dalmatia",
+    "ko": "달마티아의 체티나 문화 봉분",
+    "zh": "达尔马提亚的采蒂纳文化坟丘",
+    "ja": "ダルマチアのツェティナ文化の墳丘墓"
+   },
+   "description": {
+    "en": "In the late 3rd and early 2nd millennium BC the Cetina culture, named after the river valley in Dalmatia, spread along the eastern Adriatic. Its people raised stone burial mounds and maintained contacts across the Adriatic with Italy and Greece, as shown by similar pottery found on both shores.",
+    "ko": "기원전 3천년기 말에서 2천년기 초, 달마티아의 강 계곡 이름을 딴 체티나 문화가 아드리아해 동부 연안에 퍼졌다. 이들은 돌무지 봉분을 쌓았으며, 양쪽 해안에서 출토되는 비슷한 토기가 보여 주듯 아드리아해 건너 이탈리아·그리스와도 교류했다.",
+    "zh": "公元前三千纪末至二千纪初，以达尔马提亚河谷命名的采蒂纳文化沿亚得里亚海东岸传播。其居民堆筑石坟丘，并跨海与意大利和希腊保持联系，两岸出土的相似陶器即为明证。",
+    "ja": "前3千年紀末から前2千年紀初め、ダルマチアの川の谷にちなむツェティナ文化がアドリア海東岸に広がった。人々は石積みの墳丘墓を築き、両岸で見つかる類似の土器が示すように、海を越えてイタリアやギリシャとも交流していた。"
+   }
+  },
+  {
+   "year": -1300,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Urnfield culture reaches northern Croatia",
+    "ko": "북부 크로아티아에 이른 언필드 문화",
+    "zh": "骨灰瓮文化传入克罗地亚北部",
+    "ja": "アーンフィールド文化が北部クロアチアに到達"
+   },
+   "description": {
+    "en": "From around the 13th century BC the Urnfield culture, characterized by cremating the dead and burying the ashes in urns, spread into the Pannonian lowlands of northern Croatia. Large cemeteries and bronze hoards from this period testify to growing metal production and long-distance exchange.",
+    "ko": "기원전 13세기경부터 시신을 화장해 유골을 항아리에 묻는 것이 특징인 언필드(골호장) 문화가 크로아티아 북부 판노니아 저지대로 퍼졌다. 이 시기의 대규모 묘지와 청동기 매납 유물은 금속 생산과 원거리 교류가 늘어났음을 보여준다.",
+    "zh": "约自公元前13世纪起，以火化死者并将骨灰葬入陶瓮为特征的骨灰瓮文化传入克罗地亚北部的潘诺尼亚低地。这一时期的大型墓地和青铜器窖藏证明了金属生产和远程交流的增长。",
+    "ja": "前13世紀頃から、死者を火葬して遺灰を壺に納めることを特徴とするアーンフィールド（骨壺墓地）文化が、クロアチア北部のパンノニア低地に広がった。この時期の大規模な墓地と青銅器の埋納遺物は、金属生産と遠距離交易の拡大を物語っている。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Liburnians, Histri and Iapodes in the Iron Age",
+    "ko": "철기 시대의 리부르니아인·히스트리인·이아포데스인",
+    "zh": "铁器时代的利布尔尼亚人、希斯特里人与雅波德人",
+    "ja": "鉄器時代のリブルニア人・ヒストリ人・イアポデス人"
+   },
+   "description": {
+    "en": "By the early 1st millennium BC distinct Iron Age peoples had formed along the eastern Adriatic. The Liburnians of the northern Dalmatian coast became renowned sailors whose fast ship type, the liburna, was later adopted by the Roman navy, while the Histri in Istria and the Iapodes in Lika built fortified hillforts and rich cemeteries.",
+    "ko": "기원전 1천년기 초에는 아드리아해 동부 연안을 따라 뚜렷한 철기 시대 민족들이 형성되었다. 북부 달마티아 해안의 리부르니아인은 뛰어난 뱃사람으로 이름났으며, 그들의 쾌속선 '리부르나'는 훗날 로마 해군에 채택되었다. 이스트라의 히스트리인과 리카의 이아포데스인은 언덕 요새와 풍부한 부장품의 묘지를 남겼다.",
+    "zh": "到公元前一千纪初，亚得里亚海东岸已形成若干各具特色的铁器时代民族。达尔马提亚北部沿海的利布尔尼亚人以航海著称，其快船“利布尔纳”后来为罗马海军所采用；伊斯特拉的希斯特里人和利卡的雅波德人则修建了山顶要塞和随葬丰富的墓地。",
+    "ja": "前1千年紀初めまでに、アドリア海東岸には個性的な鉄器時代の諸民族が形成されていた。北ダルマチア沿岸のリブルニア人は優れた船乗りとして知られ、その快速船「リブルナ」はのちにローマ海軍に採用された。イストラのヒストリ人とリカのイアポデス人は丘上の要塞集落と豊かな副葬品をもつ墓地を残した。"
+   }
+  },
+  {
+   "year": -385,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Greeks found Pharos on Hvar",
+    "ko": "그리스인이 흐바르섬에 파로스를 건설하다",
+    "zh": "希腊人在赫瓦尔岛建立法罗斯",
+    "ja": "ギリシャ人がフヴァル島にファロスを建設"
+   },
+   "description": {
+    "en": "According to the historian Diodorus, colonists from the Aegean island of Paros, supported by Dionysius I of Syracuse, founded Pharos (today's Stari Grad on Hvar) around 385–384 BC and repelled an attack by the local Illyrians. The Greeks divided the nearby fields into regular plots that still survive as the Stari Grad Plain, a UNESCO World Heritage Site; Issa on Vis was another important Syracusan-linked colony of this period.",
+    "ko": "역사가 디오도로스에 따르면 기원전 385~384년경 시라쿠사의 디오니시오스 1세의 지원을 받은 에게해 파로스섬 출신 이주민들이 파로스(오늘날 흐바르섬의 스타리그라드)를 세우고 토착 일리리아인의 공격을 물리쳤다. 그리스인들이 주변 농지를 규칙적인 구획으로 나눈 흔적은 유네스코 세계유산인 스타리그라드 평야로 지금도 남아 있다. 비스섬의 이사도 이 시기 시라쿠사와 연관된 중요한 식민도시였다.",
+    "zh": "据史学家狄奥多罗斯记载，约公元前385至前384年，来自爱琴海帕罗斯岛的移民在叙拉古僭主狄奥尼修斯一世支持下建立了法罗斯（今赫瓦尔岛的斯塔里格勒），并击退了当地伊利里亚人的进攻。希腊人将周边田地划分为规整地块，至今仍保存为联合国教科文组织世界遗产斯塔里格勒平原。维斯岛上的伊萨也是这一时期与叙拉古相关的重要殖民城邦。",
+    "ja": "歴史家ディオドロスによれば、前385〜前384年頃、シラクサのディオニュシオス1世の支援を受けたエーゲ海パロス島の植民者がファロス（現フヴァル島のスタリ・グラード）を建設し、在地のイリュリア人の攻撃を退けた。ギリシャ人が周囲の農地を規則的な区画に分けた跡は、ユネスコ世界遺産のスタリ・グラード平原として今も残る。ヴィス島のイッサもこの時期のシラクサに関わる重要な植民市であった。"
+   }
+  },
+  {
+   "year": -229,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "First Illyrian War: Rome enters the Adriatic",
+    "ko": "제1차 일리리아 전쟁: 로마의 아드리아해 진출",
+    "zh": "第一次伊利里亚战争：罗马进入亚得里亚海",
+    "ja": "第一次イリュリア戦争：ローマのアドリア海進出"
+   },
+   "description": {
+    "en": "After Illyrian raids under Queen Teuta threatened Italian traders and the Greek city of Issa, which sought Roman help, Rome sent a fleet and army across the Adriatic in 229 BC. Teuta was forced to accept peace in 228 BC, and Rome established a protectorate over Issa and other coastal communities, beginning two centuries of Roman expansion in the region.",
+    "ko": "테우타 여왕 치하 일리리아인의 약탈이 이탈리아 상인과 로마에 도움을 청한 그리스 도시 이사를 위협하자, 로마는 기원전 229년 아드리아해 건너로 함대와 군대를 보냈다. 테우타는 기원전 228년 강화를 받아들일 수밖에 없었고, 로마는 이사 등 연안 공동체를 보호령으로 삼아 이 지역에서 두 세기에 걸친 팽창을 시작했다.",
+    "zh": "伊利里亚女王特乌塔治下的劫掠威胁到意大利商人和向罗马求援的希腊城市伊萨，罗马遂于公元前229年派舰队和军队横渡亚得里亚海。特乌塔被迫于公元前228年求和，罗马对伊萨等沿海社群建立保护关系，由此开始在该地区长达两个世纪的扩张。",
+    "ja": "テウタ女王治下のイリュリア人の略奪がイタリア商人と、ローマに救援を求めたギリシャ都市イッサを脅かすと、ローマは前229年にアドリア海の向こうへ艦隊と軍を送った。テウタは前228年に講和を受け入れざるを得ず、ローマはイッサなど沿岸共同体を保護下に置き、この地域での2世紀にわたる拡大を始めた。"
+   }
+  },
+  {
+   "year": -219,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Second Illyrian War and the fall of Demetrius of Pharos",
+    "ko": "제2차 일리리아 전쟁과 파로스의 데메트리오스 몰락",
+    "zh": "第二次伊利里亚战争与法罗斯的德米特里乌斯垮台",
+    "ja": "第二次イリュリア戦争とファロスのデメトリオスの失脚"
+   },
+   "description": {
+    "en": "Demetrius of Pharos, a former ally whom Rome had installed as a regional ruler after the first war, defied Rome by raiding and attacking its protectorates. In 219 BC the consul Lucius Aemilius Paullus captured his stronghold of Pharos on Hvar, and Demetrius fled to King Philip V of Macedon.",
+    "ko": "제1차 전쟁 후 로마가 지역 지배자로 세운 옛 동맹자 파로스의 데메트리오스는 약탈과 보호령 공격으로 로마에 도전했다. 기원전 219년 집정관 루키우스 아이밀리우스 파울루스가 흐바르섬의 거점 파로스를 함락했고, 데메트리오스는 마케도니아 왕 필리포스 5세에게 달아났다.",
+    "zh": "法罗斯的德米特里乌斯原是罗马在第一次战争后扶植的地区统治者，后来却劫掠并攻击罗马的保护地，与罗马为敌。公元前219年，执政官卢基乌斯·埃米利乌斯·保卢斯攻陷其在赫瓦尔岛的据点法罗斯，德米特里乌斯逃往马其顿国王腓力五世处。",
+    "ja": "第一次戦争後にローマが地域の支配者に据えたかつての同盟者ファロスのデメトリオスは、略奪や保護領への攻撃でローマに背いた。前219年、執政官ルキウス・アエミリウス・パウルスがフヴァル島の拠点ファロスを攻略し、デメトリオスはマケドニア王フィリッポス5世のもとへ逃れた。"
+   }
+  },
+  {
+   "year": -35,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Octavian's Illyrian campaign and the capture of Siscia",
+    "ko": "옥타비아누스의 일리리쿰 원정과 시스키아 점령",
+    "zh": "屋大维的伊利里库姆战役与攻占锡西亚",
+    "ja": "オクタウィアヌスのイリュリクム遠征とシスキア占領"
+   },
+   "description": {
+    "en": "In 35–33 BC Octavian, the future emperor Augustus, campaigned against the Iapodes and other peoples of the interior and captured Segestica on the Sava, which became the Roman stronghold of Siscia (Sisak). The campaign secured the land route between Italy and the Balkans and brought much of the hinterland under Roman control.",
+    "ko": "기원전 35~33년 훗날 아우구스투스 황제가 되는 옥타비아누스는 이아포데스인과 내륙 민족들을 상대로 원정해 사바강 변의 세게스티카를 점령했고, 이곳은 로마의 거점 시스키아(시사크)가 되었다. 이 원정으로 이탈리아와 발칸을 잇는 육로가 확보되고 내륙 상당 부분이 로마의 지배 아래 들어갔다.",
+    "zh": "公元前35年至前33年，日后成为奥古斯都皇帝的屋大维征讨雅波德人和其他内陆民族，攻占萨瓦河畔的塞格斯蒂卡，此地后成为罗马重镇锡西亚（锡萨克）。这场战役保障了意大利与巴尔干之间的陆路，并将大片内陆纳入罗马统治。",
+    "ja": "前35〜前33年、のちの皇帝アウグストゥスとなるオクタウィアヌスはイアポデス人など内陸の諸民族に遠征し、サヴァ川沿いのセゲスティカを攻略した。ここはローマの拠点シスキア（シサク）となった。この遠征によりイタリアとバルカンを結ぶ陸路が確保され、内陸の大部分がローマの支配下に入った。"
+   }
+  },
+  {
+   "year": 6,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Great Illyrian Revolt (Bellum Batonianum)",
+    "ko": "대일리리아 반란 (바토 전쟁)",
+    "zh": "伊利里亚大起义（巴托战争）",
+    "ja": "大イリュリア反乱（バト戦争）"
+   },
+   "description": {
+    "en": "In AD 6 the Daesitiates and Breuci, led by two chieftains both named Bato, rose against Roman conscription and taxation across Dalmatia and Pannonia. The revolt, one of the most serious Rome faced, required a huge army under Tiberius and lasted until AD 9.",
+    "ko": "서기 6년 같은 이름의 두 족장 바토가 이끄는 다이시티아테스족과 브레우키족이 로마의 징병과 과세에 반발해 달마티아와 판노니아 전역에서 봉기했다. 로마가 겪은 가장 심각한 반란 가운데 하나였던 이 봉기는 티베리우스가 이끄는 대군을 필요로 했으며 서기 9년까지 이어졌다.",
+    "zh": "公元6年，由两位同名为巴托的首领率领的戴西提亚特人和布雷乌奇人，在达尔马提亚和潘诺尼亚各地起兵反抗罗马的征兵和赋税。这是罗马所面临的最严重的起义之一，提比略不得不率领大军镇压，战事一直持续到公元9年。",
+    "ja": "6年、ともにバトという名の2人の首長が率いるダエシティアテス族とブレウキ族が、ローマの徴兵と課税に反発してダルマティアとパンノニア全域で蜂起した。ローマが直面した最も深刻な反乱の一つであり、ティベリウス率いる大軍を要し、9年まで続いた。"
+   }
+  },
+  {
+   "year": 9,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Revolt crushed and Illyricum divided",
+    "ko": "반란 진압과 일리리쿰 분할",
+    "zh": "起义被镇压，伊利里库姆一分为二",
+    "ja": "反乱鎮圧とイリュリクムの分割"
+   },
+   "description": {
+    "en": "With the surrender of the rebels in AD 9, Roman rule over the eastern Adriatic and the Sava-Drava lands became permanent. Illyricum was subsequently divided into the provinces of Dalmatia and Pannonia, the administrative framework that shaped the region for the next four centuries and spread Latin language and urban life.",
+    "ko": "서기 9년 반란군이 항복하면서 아드리아해 동부와 사바·드라바강 유역에 대한 로마의 지배는 영구적인 것이 되었다. 이후 일리리쿰은 달마티아와 판노니아 속주로 나뉘었고, 이 행정 틀은 이후 4세기 동안 지역을 규정하며 라틴어와 도시 생활을 퍼뜨렸다.",
+    "zh": "公元9年起义者投降后，罗马对亚得里亚海东岸和萨瓦河—德拉瓦河流域的统治得以巩固。此后伊利里库姆被划分为达尔马提亚和潘诺尼亚两个行省，这一行政框架在此后四个世纪塑造了该地区，并传播了拉丁语和城市生活。",
+    "ja": "9年に反乱軍が降伏すると、アドリア海東岸とサヴァ・ドラヴァ川流域に対するローマの支配は恒久的なものとなった。その後イリュリクムはダルマティアとパンノニアの両属州に分けられ、この行政の枠組みは以後4世紀にわたり地域を形づくり、ラテン語と都市生活を広めた。"
+   }
+  },
+  {
+   "year": 70,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Pula Arena completed",
+    "ko": "풀라 원형 경기장 완공",
+    "zh": "普拉竞技场竣工",
+    "ja": "プーラの円形闘技場の完成"
+   },
+   "description": {
+    "en": "The amphitheatre of Pola (Pula) in Istria, begun under Augustus, was enlarged to its final form in the second half of the 1st century AD, traditionally associated with the reign of Vespasian. Seating thousands of spectators for gladiatorial games, it remains one of the best-preserved Roman amphitheatres in the world, with its outer walls almost completely intact.",
+    "ko": "아우구스투스 시대에 착공된 이스트라 폴라(풀라)의 원형 경기장은 1세기 후반, 전통적으로 베스파시아누스 치세와 연관된 시기에 최종 형태로 확장되었다. 검투 경기를 위해 수천 명의 관중을 수용했던 이 경기장은 외벽이 거의 온전히 남아 있어 세계에서 가장 잘 보존된 로마 원형 경기장 가운데 하나로 꼽힌다.",
+    "zh": "伊斯特拉波拉（普拉）的圆形竞技场始建于奥古斯都时期，于公元1世纪下半叶扩建成最终形态，传统上与韦斯巴芗统治时期相联系。它可容纳数千名观众观看角斗表演，外墙几乎完整保存，是世界上保存最完好的罗马圆形竞技场之一。",
+    "ja": "イストラのポラ（プーラ）の円形闘技場はアウグストゥス時代に着工され、1世紀後半、伝統的にウェスパシアヌス帝の治世とされる時期に最終的な規模へと拡張された。剣闘士競技のために数千人の観客を収容したこの闘技場は外壁がほぼ完全に残り、世界で最も保存状態のよいローマの円形闘技場の一つである。"
+   }
+  },
+  {
+   "year": 284,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Diocletian of Dalmatia becomes emperor",
+    "ko": "달마티아 출신 디오클레티아누스, 황제가 되다",
+    "zh": "达尔马提亚人戴克里先成为皇帝",
+    "ja": "ダルマティア出身のディオクレティアヌスが皇帝に"
+   },
+   "description": {
+    "en": "Diocletian, a soldier of humble origins born in Dalmatia, probably near Salona, was proclaimed emperor in 284. He ended the third-century crisis through sweeping reforms, including the Tetrarchy of four co-rulers and a reorganization of provinces, but also launched the last great persecution of Christians.",
+    "ko": "달마티아, 아마도 살로나 인근에서 미천한 신분으로 태어난 군인 디오클레티아누스는 284년 황제로 추대되었다. 그는 네 명의 공동 황제가 다스리는 사두정치와 속주 재편 등 대대적인 개혁으로 3세기의 위기를 끝냈지만, 기독교에 대한 마지막 대박해를 일으키기도 했다.",
+    "zh": "出身寒微、生于达尔马提亚（很可能在萨罗纳附近）的军人戴克里先于284年被拥立为皇帝。他通过四帝共治制和行省重组等全面改革结束了三世纪危机，但也发动了对基督徒的最后一次大迫害。",
+    "ja": "ダルマティア、おそらくサロナ近郊に生まれた低い身分出身の軍人ディオクレティアヌスは、284年に皇帝に推戴された。彼は4人の共同皇帝による四分統治や属州の再編など大規模な改革で3世紀の危機を終わらせたが、キリスト教徒に対する最後の大迫害も始めた。"
+   }
+  },
+  {
+   "year": 304,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Martyrdom of Saint Domnius in Salona",
+    "ko": "살로나에서 성 돔니우스 순교",
+    "zh": "圣多姆尼乌斯在萨罗纳殉道",
+    "ja": "サロナでの聖ドムニウスの殉教"
+   },
+   "description": {
+    "en": "During Diocletian's persecution, Domnius (Duje), bishop of Salona, was executed around 304 together with other Christians of the city. Salona's martyrs became the focus of a major early Christian cult, and Domnius is today the patron saint of Split, whose cathedral occupies Diocletian's former mausoleum.",
+    "ko": "디오클레티아누스의 박해 때 살로나의 주교 돔니우스(두예)가 304년경 도시의 다른 기독교인들과 함께 처형되었다. 살로나의 순교자들은 초기 기독교의 중요한 공경 대상이 되었고, 돔니우스는 오늘날 스플리트의 수호성인으로, 그 대성당은 디오클레티아누스의 옛 영묘 자리에 있다.",
+    "zh": "在戴克里先迫害期间，萨罗纳主教多姆尼乌斯（杜耶）约于304年与城中其他基督徒一同被处死。萨罗纳的殉道者成为早期基督教重要的崇敬对象，多姆尼乌斯如今是斯普利特的主保圣人，该市主教座堂正位于戴克里先昔日的陵墓之中。",
+    "ja": "ディオクレティアヌスの迫害の際、サロナの司教ドムニウス（ドゥイェ）が304年頃、町の他のキリスト教徒とともに処刑された。サロナの殉教者たちは初期キリスト教の重要な崇敬の対象となり、ドムニウスは今日スプリトの守護聖人で、その大聖堂はディオクレティアヌスのかつての霊廟を用いている。"
+   }
+  },
+  {
+   "year": 305,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Diocletian's Palace built in Split",
+    "ko": "스플리트에 디오클레티아누스 궁전 건설",
+    "zh": "戴克里先宫在斯普利特建成",
+    "ja": "スプリトにディオクレティアヌス宮殿が完成"
+   },
+   "description": {
+    "en": "After abdicating in 305, the Emperor Diocletian retired to a vast fortified palace he had built on the Dalmatian coast near Salona. When Salona was destroyed in the 7th century, refugees settled inside its walls, and the palace became the core of the city of Split; it is now a UNESCO World Heritage Site.",
+    "ko": "305년 퇴위한 디오클레티아누스 황제는 살로나 인근 달마티아 해안에 지어 둔 거대한 성채형 궁전으로 은퇴했다. 7세기에 살로나가 파괴되자 피란민들이 궁전 성벽 안에 정착했고, 궁전은 스플리트시의 중심이 되었다. 오늘날 유네스코 세계유산이다.",
+    "zh": "305年退位后，戴克里先皇帝隐居于他在萨罗纳附近达尔马提亚海岸修建的一座巨大的设防宫殿。7世纪萨罗纳被毁后，难民迁入宫墙之内定居，宫殿由此成为斯普利特城的核心，如今是联合国教科文组织世界遗产。",
+    "ja": "305年に退位したディオクレティアヌス帝は、サロナ近郊のダルマチア海岸に築いた巨大な城塞型宮殿に隠棲した。7世紀にサロナが破壊されると避難民が宮殿の城壁内に住みつき、宮殿はスプリト市の中核となった。現在はユネスコ世界遺産である。"
+   }
+  },
+  {
+   "year": 351,
+   "qid": "Q1424076",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Mursa Major",
+    "ko": "무르사 전투",
+    "zh": "穆尔萨战役",
+    "ja": "ムルサの戦い"
+   },
+   "description": {
+    "en": "On 28 September 351, near Mursa (modern Osijek), Emperor Constantius II defeated the usurper Magnentius in one of the bloodiest battles of the 4th century. The heavy losses on both sides are often said to have weakened the Roman army at a time of growing pressure on the frontiers.",
+    "ko": "351년 9월 28일 무르사(오늘날 오시예크) 인근에서 콘스탄티우스 2세 황제가 찬탈자 마그넨티우스를 격파했다. 4세기에서 가장 많은 피를 흘린 전투 가운데 하나로, 양측의 막대한 손실은 국경의 압력이 커지던 시기에 로마군을 약화시켰다고 흔히 평가된다.",
+    "zh": "351年9月28日，皇帝君士坦提乌斯二世在穆尔萨（今奥西耶克）附近击败篡位者马格嫩提乌斯，这是4世纪最血腥的战役之一。双方的惨重伤亡常被认为在边境压力日增之际削弱了罗马军队。",
+    "ja": "351年9月28日、ムルサ（現オシエク）近郊で皇帝コンスタンティウス2世が簒奪者マグネンティウスを破った。4世紀で最も多くの血が流れた戦いの一つで、双方の大損害は国境への圧力が高まる時期にローマ軍を弱体化させたとしばしば評される。"
+   }
+  },
+  {
+   "year": 395,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Division of the Roman Empire",
+    "ko": "로마 제국의 분할",
+    "zh": "罗马帝国分治",
+    "ja": "ローマ帝国の東西分割"
+   },
+   "description": {
+    "en": "On the death of Theodosius I in 395 the Roman Empire was permanently divided between his sons. The provinces of Dalmatia and Pannonia fell to the Western Empire, while the frontier with the Eastern Empire ran just to the east, a line that later echoed in the boundary between Latin and Byzantine Christianity in the Balkans.",
+    "ko": "395년 테오도시우스 1세가 죽자 로마 제국은 그의 아들들 사이에서 영구히 분할되었다. 달마티아와 판노니아 속주는 서로마 제국에 속했고, 동로마와의 경계는 바로 그 동쪽을 지났다. 이 선은 훗날 발칸에서 라틴 기독교와 비잔티움 기독교의 경계와도 겹치게 되었다.",
+    "zh": "395年狄奥多西一世去世后，罗马帝国由其两子永久分治。达尔马提亚和潘诺尼亚行省归属西罗马帝国，与东罗马帝国的边界就在其东侧经过，这条界线后来在巴尔干地区拉丁基督教与拜占庭基督教的分界中得到回响。",
+    "ja": "395年にテオドシウス1世が没すると、ローマ帝国はその息子たちの間で恒久的に分割された。ダルマティアとパンノニアの属州は西ローマ帝国に属し、東ローマとの境界はそのすぐ東を通った。この線はのちにバルカンにおけるラテン系キリスト教とビザンツ系キリスト教の境界にも重なることになった。"
+   }
+  },
+  {
+   "year": 480,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Julius Nepos, last Western emperor, in Dalmatia",
+    "ko": "서로마 마지막 황제 율리우스 네포스, 달마티아에서 사망",
+    "zh": "西罗马末代皇帝尤利乌斯·尼波斯死于达尔马提亚",
+    "ja": "西ローマ最後の皇帝ユリウス・ネポスがダルマティアで死去"
+   },
+   "description": {
+    "en": "Julius Nepos, deposed as Western Roman emperor in 475, had continued to claim the throne from his base in Dalmatia, and was still recognized by the Eastern court. His assassination near Salona in 480 is considered by some historians the true end of the Western Roman Empire; Odoacer soon took over Dalmatia.",
+    "ko": "475년 서로마 황제에서 폐위된 율리우스 네포스는 달마티아를 근거지로 계속 제위를 주장했고, 동로마 궁정도 여전히 그를 인정했다. 480년 살로나 인근에서 그가 암살된 사건을 일부 역사가들은 서로마 제국의 진정한 종말로 본다. 곧 오도아케르가 달마티아를 차지했다.",
+    "zh": "尤利乌斯·尼波斯于475年被废黜西罗马皇位后，仍以达尔马提亚为基地继续主张帝位，并获东罗马朝廷承认。480年他在萨罗纳附近遇刺，一些历史学家视之为西罗马帝国真正的终结；奥多亚塞随即占领了达尔马提亚。",
+    "ja": "475年に西ローマ皇帝を廃されたユリウス・ネポスは、ダルマティアを拠点に帝位を主張し続け、東ローマの宮廷もなお彼を承認していた。480年にサロナ近郊で暗殺されたことを、一部の歴史家は西ローマ帝国の真の終焉とみなす。まもなくオドアケルがダルマティアを掌握した。"
+   }
+  },
+  {
+   "year": 493,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Theodoric's Ostrogoths take over Dalmatia",
+    "ko": "테오도리크의 동고트족, 달마티아를 장악",
+    "zh": "狄奥多里克的东哥特人接管达尔马提亚",
+    "ja": "テオドリックの東ゴート族がダルマティアを掌握"
+   },
+   "description": {
+    "en": "After defeating and killing Odoacer in 493, the Ostrogothic king Theodoric the Great became master of Italy, and Dalmatia and southern Pannonia passed under his rule. The Ostrogoths largely kept the Roman administration and Catholic church structures in place, and Salona remained a thriving provincial capital.",
+    "ko": "493년 오도아케르를 무찌르고 살해한 동고트 왕 테오도리크 대왕은 이탈리아의 지배자가 되었고, 달마티아와 남부 판노니아도 그의 통치 아래 들어갔다. 동고트족은 로마식 행정과 가톨릭 교회 조직을 대체로 그대로 유지했으며, 살로나는 번영하는 속주 수도로 남았다.",
+    "zh": "493年东哥特国王狄奥多里克大帝击败并杀死奥多亚塞，成为意大利之主，达尔马提亚和南潘诺尼亚也归其统治。东哥特人基本保留了罗马的行政制度和天主教会组织，萨罗纳仍是繁荣的行省首府。",
+    "ja": "493年にオドアケルを破って殺害した東ゴート王テオドリック大王はイタリアの支配者となり、ダルマティアと南パンノニアもその支配下に入った。東ゴート族はローマ式の行政とカトリック教会の組織をおおむね維持し、サロナは繁栄する属州の首府であり続けた。"
+   }
+  },
+  {
+   "year": 535,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Byzantine reconquest of Dalmatia",
+    "ko": "비잔티움의 달마티아 재정복",
+    "zh": "拜占庭收复达尔马提亚",
+    "ja": "ビザンツによるダルマティア再征服"
+   },
+   "description": {
+    "en": "At the start of Justinian I's Gothic War in 535, the Byzantine general Mundus invaded Dalmatia and took Salona. Despite Ostrogothic counterattacks, Dalmatia was firmly in Byzantine hands by the late 530s, beginning centuries of Eastern Roman presence on the Adriatic coast.",
+    "ko": "535년 유스티니아누스 1세의 고트 전쟁이 시작되자 비잔티움 장군 문두스가 달마티아를 침공해 살로나를 점령했다. 동고트족의 반격에도 불구하고 530년대 말 달마티아는 확고히 비잔티움의 손에 들어갔고, 이로써 아드리아해 연안에 수 세기에 걸친 동로마의 존재가 시작되었다.",
+    "zh": "535年查士丁尼一世发动哥特战争之初，拜占庭将军蒙杜斯进攻达尔马提亚并攻占萨罗纳。尽管东哥特人发动反攻，到530年代末达尔马提亚已牢牢掌握在拜占庭手中，东罗马在亚得里亚海沿岸长达数世纪的存在由此开始。",
+    "ja": "535年、ユスティニアヌス1世のゴート戦争が始まると、ビザンツの将軍ムンドゥスがダルマティアに侵攻してサロナを占領した。東ゴートの反撃にもかかわらず、530年代末にはダルマティアは確実にビザンツの手に入り、アドリア海沿岸における数世紀にわたる東ローマの存在が始まった。"
+   }
+  },
+  {
+   "year": 568,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Avars settle in the Pannonian Basin",
+    "ko": "아바르족의 판노니아 분지 정착",
+    "zh": "阿瓦尔人定居潘诺尼亚盆地",
+    "ja": "アヴァール人がパンノニア盆地に定着"
+   },
+   "description": {
+    "en": "When the Lombards left Pannonia for Italy in 568, the nomadic Avars under Khagan Bayan took over the Pannonian Basin. From there the Avars and the Slavs under their control launched raids deep into the Byzantine Balkans and Dalmatia, transforming the population and settlement of the region.",
+    "ko": "568년 랑고바르드족이 판노니아를 떠나 이탈리아로 가자, 카간 바얀이 이끄는 유목민 아바르족이 판노니아 분지를 차지했다. 아바르족과 그 지배 아래의 슬라브인들은 이곳을 거점으로 비잔티움령 발칸과 달마티아 깊숙이 약탈을 감행해 지역의 주민과 정착 구조를 바꾸어 놓았다.",
+    "zh": "568年伦巴底人离开潘诺尼亚前往意大利后，由可汗巴颜率领的游牧民族阿瓦尔人占据了潘诺尼亚盆地。阿瓦尔人及其控制下的斯拉夫人以此为基地，深入拜占庭的巴尔干和达尔马提亚劫掠，改变了该地区的人口和聚落格局。",
+    "ja": "568年にランゴバルド人がパンノニアを去ってイタリアへ移ると、カガンのバヤン率いる遊牧民アヴァール人がパンノニア盆地を占拠した。アヴァール人とその支配下のスラヴ人はここを拠点にビザンツ領バルカンとダルマティアの奥深くまで略奪を繰り返し、地域の住民と集落のあり方を一変させた。"
+   }
+  },
+  {
+   "year": 614,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Salona; refugees settle Split and Dubrovnik",
+    "ko": "살로나 함락과 스플리트·두브로브니크 정착",
+    "zh": "萨罗纳陷落，难民定居斯普利特与杜布罗夫尼克",
+    "ja": "サロナ陥落、避難民がスプリトとドゥブロヴニクへ"
+   },
+   "description": {
+    "en": "In the early 7th century, traditionally dated around 614 though the exact year is debated, Avar and Slavic attacks destroyed Salona, the capital of Roman Dalmatia. Its inhabitants fled to the islands and later settled inside Diocletian's Palace, founding medieval Split; according to tradition, refugees from Epidaurum (Cavtat) likewise founded Ragusa (Dubrovnik).",
+    "ko": "7세기 초, 전통적으로 614년경이라 하나 정확한 연도는 논쟁 중인 시기에 아바르족과 슬라브족의 공격으로 로마령 달마티아의 수도 살로나가 파괴되었다. 주민들은 섬으로 피란했다가 뒤에 디오클레티아누스 궁전 안에 정착해 중세 스플리트를 세웠고, 전승에 따르면 에피다우룸(차브타트)의 피란민들도 라구사(두브로브니크)를 세웠다.",
+    "zh": "7世纪初（传统上定为约614年，但确切年份仍有争议），阿瓦尔人和斯拉夫人的进攻摧毁了罗马达尔马提亚的首府萨罗纳。居民先逃往岛屿，后定居于戴克里先宫内，建立了中世纪的斯普利特；据传说，来自埃皮达鲁姆（察夫塔特）的难民也同样建立了拉古萨（杜布罗夫尼克）。",
+    "ja": "7世紀初め、伝統的には614年頃とされるが正確な年には議論がある時期に、アヴァール人とスラヴ人の攻撃によってローマ領ダルマティアの首府サロナが破壊された。住民は島々へ逃れ、のちにディオクレティアヌス宮殿の中に住みついて中世のスプリトを築いた。伝承によれば、エピダウルム（ツァヴタット）の避難民も同様にラグサ（ドゥブロヴニク）を建てたという。"
+   }
+  },
+  {
+   "year": 630,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Croats settle in Dalmatia and Pannonia",
+    "ko": "크로아트족의 달마티아·판노니아 정착",
+    "zh": "克罗地亚人定居达尔马提亚和潘诺尼亚",
+    "ja": "クロアチア人のダルマチア・パンノニア定住"
+   },
+   "description": {
+    "en": "Slavic Croat tribes settled in the former Roman provinces of Dalmatia and Pannonia in the 7th century, laying the ethnic foundation of the future Croatian state. The 10th-century Byzantine work De Administrando Imperio says they came at the invitation of Emperor Heraclius to fight the Avars, but historians continue to debate their origins and the timing and nature of their arrival.",
+    "ko": "7세기 슬라브계 크로아트족이 옛 로마의 달마티아·판노니아 속주에 정착해 훗날 크로아티아 국가의 민족적 토대를 놓았다. 10세기 비잔티움 문헌 『제국 통치론』은 그들이 아바르족과 싸우도록 헤라클리우스 황제의 초청을 받아 왔다고 전하지만, 그들의 기원과 도래 시기 및 성격에 대해서는 역사가들 사이에 논쟁이 이어지고 있다.",
+    "zh": "7世纪，斯拉夫克罗地亚部落定居于原罗马的达尔马提亚和潘诺尼亚行省，奠定了未来克罗地亚国家的民族基础。10世纪的拜占庭著作《帝国行政论》称他们是应希拉克略皇帝之邀前来对抗阿瓦尔人的，但历史学家对其起源以及迁入的时间和性质仍有争论。",
+    "ja": "7世紀、スラヴ系クロアチア人の諸部族が旧ローマのダルマティア・パンノニア属州に定住し、のちのクロアチア国家の民族的基盤を築いた。10世紀のビザンツの著作『帝国統治論』は、彼らが皇帝ヘラクレイオスの招きでアヴァール人と戦うために来たと伝えるが、その起源や到来の時期と性格については歴史家の間で議論が続いている。"
+   }
+  },
+  {
+   "year": 641,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Pope John IV's mission to Dalmatia",
+    "ko": "교황 요한 4세의 달마티아 사절",
+    "zh": "教皇约翰四世派使团前往达尔马提亚",
+    "ja": "教皇ヨハネス4世のダルマチア使節"
+   },
+   "description": {
+    "en": "Pope John IV, himself a native of Dalmatia, sent Abbot Martin around 641 to Dalmatia and Istria to ransom captives taken in the invasions and to collect the relics of the martyrs of Salona. The relics were placed in a chapel at the Lateran in Rome, and the mission marks an early stage of contacts between Rome and the newly settled Slavs.",
+    "ko": "달마티아 출신인 교황 요한 4세는 641년경 수도원장 마르티누스를 달마티아와 이스트라로 보내 침입 때 붙잡힌 포로들의 몸값을 치르고 살로나 순교자들의 유해를 수습하게 했다. 유해는 로마 라테라노의 한 경당에 안치되었으며, 이 사절은 로마와 새로 정착한 슬라브인 사이 접촉의 초기 단계로 평가된다.",
+    "zh": "出身达尔马提亚的教皇约翰四世约于641年派修道院长马丁前往达尔马提亚和伊斯特拉，赎回入侵中被掳的俘虏，并收集萨罗纳殉道者的圣髑。这些圣髑被安放在罗马拉特朗的一座礼拜堂中，此行标志着罗马与新定居的斯拉夫人接触的早期阶段。",
+    "ja": "自身もダルマチア出身の教皇ヨハネス4世は、641年頃に修道院長マルティヌスをダルマチアとイストラへ派遣し、侵入で捕らえられた捕虜を身請けし、サロナの殉教者の聖遺物を集めさせた。聖遺物はローマのラテラノの礼拝堂に納められ、この派遣はローマと新たに定住したスラヴ人との接触の初期段階とされる。"
+   }
+  },
+  {
+   "year": 788,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Franks take Istria",
+    "ko": "프랑크 왕국의 이스트라 획득",
+    "zh": "法兰克人夺取伊斯特拉",
+    "ja": "フランク王国がイストラを獲得"
+   },
+   "description": {
+    "en": "Around 788, after Charlemagne's subjugation of the Lombards and Bavarians, Byzantine Istria passed under Frankish control. This brought the Carolingian Empire to the northern Adriatic and the borders of the Croatian lands, preparing its campaigns against the Avars and its overlordship over the Croats.",
+    "ko": "788년경 카롤루스 대제가 랑고바르드족과 바이에른을 복속시킨 뒤 비잔티움령 이스트라가 프랑크의 지배 아래 들어갔다. 이로써 카롤링거 제국은 북부 아드리아해와 크로아티아 땅의 경계에 이르렀고, 아바르 원정과 크로아트인에 대한 종주권 행사의 발판을 마련했다.",
+    "zh": "约788年，在查理曼征服伦巴底人和巴伐利亚之后，拜占庭的伊斯特拉转入法兰克人控制之下。加洛林帝国由此抵达亚得里亚海北部和克罗地亚土地的边缘，为其征讨阿瓦尔人并对克罗地亚人行使宗主权做好了准备。",
+    "ja": "788年頃、カール大帝がランゴバルド王国とバイエルンを服属させた後、ビザンツ領イストラはフランクの支配下に入った。これによりカロリング帝国は北アドリア海とクロアチアの地の境界に達し、アヴァール遠征とクロアチア人への宗主権行使の足場を築いた。"
+   }
+  },
+  {
+   "year": 799,
+   "qid": "Q3440376",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siege of Trsat and death of Eric of Friuli",
+    "ko": "트르사트 공방전과 프리울리의 에리크 전사",
+    "zh": "特尔萨特之围与弗留利的埃里克阵亡",
+    "ja": "トルサトの包囲とフリウリのエーリクの戦死"
+   },
+   "description": {
+    "en": "During the Frankish campaigns against the Avars and Slavs, Duke Eric of Friuli was killed in 799 while besieging Tarsatica (Trsat, above modern Rijeka). His death, lamented in a poem by Paulinus of Aquileia, shows that Frankish expansion along the northern Adriatic met strong local resistance.",
+    "ko": "아바르족과 슬라브족에 대한 프랑크 원정 중 프리울리 공작 에리크가 799년 타르사티카(오늘날 리예카 위쪽의 트르사트)를 포위하다 전사했다. 아퀼레이아의 파울리누스가 시로 애도한 그의 죽음은 북부 아드리아해를 따른 프랑크의 팽창이 현지의 거센 저항에 부딪혔음을 보여준다.",
+    "zh": "在法兰克人征讨阿瓦尔人和斯拉夫人的战役中，弗留利公爵埃里克于799年围攻塔尔萨提卡（今里耶卡上方的特尔萨特）时阵亡。阿奎莱亚的保利努斯曾作诗哀悼他，其死表明法兰克人沿亚得里亚海北部的扩张遭到了当地的顽强抵抗。",
+    "ja": "アヴァール人とスラヴ人に対するフランクの遠征の最中、フリウリ公エーリクは799年、タルサティカ（現リエカの上手のトルサト）を包囲中に戦死した。アクイレイアのパウリヌスが詩で悼んだその死は、北アドリア海沿いのフランクの拡大が現地の強い抵抗に遭ったことを示している。"
+   }
+  },
+  {
+   "year": 812,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Aachen divides Dalmatia",
+    "ko": "아헨 조약과 달마티아 분할",
+    "zh": "亚琛条约划分达尔马提亚",
+    "ja": "アーヘン条約によるダルマチアの分割"
+   },
+   "description": {
+    "en": "In 812 Charlemagne and the Byzantine Empire concluded the Peace of Aachen. Byzantium was recognized as ruler of Venice and the Dalmatian coastal towns and islands, while the Croatian hinterland remained in the Frankish sphere, a division that shaped relations between the Croats and the Latin coastal towns for centuries.",
+    "ko": "812년 카롤루스 대제와 비잔티움 제국은 아헨 강화를 맺었다. 비잔티움은 베네치아와 달마티아 해안 도시·섬들의 지배자로 인정받았고 크로아티아 내륙은 프랑크의 세력권에 남았는데, 이 분할은 수 세기 동안 크로아트인과 라틴계 해안 도시 사이의 관계를 규정했다.",
+    "zh": "812年，查理曼与拜占庭帝国缔结亚琛和约。拜占庭被承认为威尼斯以及达尔马提亚沿海城镇和岛屿的统治者，而克罗地亚内陆仍属法兰克势力范围。这一划分在数个世纪中影响着克罗地亚人与拉丁沿海城镇的关系。",
+    "ja": "812年、カール大帝とビザンツ帝国はアーヘンの和約を結んだ。ビザンツはヴェネツィアとダルマチアの沿岸都市・島々の支配者として認められ、クロアチア内陸はフランクの勢力圏に残った。この分割は何世紀にもわたってクロアチア人とラテン系沿岸都市との関係を規定した。"
+   }
+  },
+  {
+   "year": 819,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Revolt of Ljudevit Posavski",
+    "ko": "류데비트 포사브스키의 봉기",
+    "zh": "柳德维特·波萨夫斯基起义",
+    "ja": "リュデヴィト・ポサフスキの反乱"
+   },
+   "description": {
+    "en": "In 819 Ljudevit, duke of Lower Pannonia, rose against Frankish rule and the harsh Frankish margrave of Friuli. Duke Borna of Dalmatian Croatia fought on the Frankish side, and after years of campaigns Ljudevit was forced to flee in 822 and was killed in 823, but the revolt revealed the fragility of Carolingian control.",
+    "ko": "819년 하판노니아의 공작 류데비트가 프랑크의 지배와 가혹한 프리울리 변경백에 맞서 봉기했다. 달마티아 크로아티아의 공작 보르나는 프랑크 편에 서서 싸웠고, 여러 해의 원정 끝에 류데비트는 822년 도주해야 했으며 823년 살해되었다. 그러나 이 봉기는 카롤링거 지배의 취약함을 드러냈다.",
+    "zh": "819年，下潘诺尼亚公爵柳德维特起兵反抗法兰克统治和苛酷的弗留利边境伯爵。达尔马提亚克罗地亚的博尔纳公爵站在法兰克一方作战，经过多年征战，柳德维特于822年被迫出逃，823年遇害，但这次起义暴露了加洛林统治的脆弱。",
+    "ja": "819年、下パンノニア公リュデヴィトがフランクの支配と過酷なフリウリ辺境伯に対して蜂起した。ダルマチア・クロアチアの公ボルナはフランク側で戦い、数年にわたる遠征の末、リュデヴィトは822年に逃亡を余儀なくされ823年に殺害されたが、この反乱はカロリングの支配の脆さを露呈した。"
+   }
+  },
+  {
+   "year": 852,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Charter of Duke Trpimir",
+    "ko": "트르피미르 공작의 헌장",
+    "zh": "特尔皮米尔公爵特许状",
+    "ja": "トルピミル公の特許状"
+   },
+   "description": {
+    "en": "In a Latin charter dated 4 March 852, Duke Trpimir confirmed grants to the Church of Split and styled himself 'duke of the Croats' (dux Chroatorum). It is one of the oldest documents issued by a Croatian ruler, and Trpimir is regarded as the founder of the Trpimirović dynasty that ruled Croatia until the late 11th century.",
+    "ko": "852년 3월 4일자 라틴어 헌장에서 트르피미르 공작은 스플리트 교회에 대한 증여를 확인하며 자신을 '크로아트인의 공작(dux Chroatorum)'이라 칭했다. 이는 크로아티아 군주가 발행한 가장 오래된 문서 가운데 하나이며, 트르피미르는 11세기 말까지 크로아티아를 다스린 트르피미로비치 왕조의 시조로 여겨진다.",
+    "zh": "在一份日期为852年3月4日的拉丁文特许状中，特尔皮米尔公爵确认了对斯普利特教会的赠予，并自称“克罗地亚人的公爵”。这是克罗地亚统治者颁布的最古老文献之一，特尔皮米尔被视为统治克罗地亚至11世纪末的特尔皮米罗维奇王朝的创立者。",
+    "ja": "852年3月4日付のラテン語の特許状で、トルピミル公はスプリトの教会への寄進を確認し、自らを「クロアチア人の公（dux Chroatorum）」と称した。これはクロアチアの君主が発給した最古級の文書の一つであり、トルピミルは11世紀末までクロアチアを治めたトルピミロヴィッチ朝の祖とされる。"
+   }
+  },
+  {
+   "year": 866,
+   "qid": "Q22158904",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Arab siege of Ragusa",
+    "ko": "아랍군의 라구사 포위",
+    "zh": "阿拉伯人围攻拉古萨",
+    "ja": "アラブ軍によるラグサ包囲"
+   },
+   "description": {
+    "en": "In 866 Saracen raiders from southern Italy besieged Ragusa (Dubrovnik) for about fifteen months. The city held out until a Byzantine fleet sent by Emperor Basil I arrived in 868 and lifted the siege, after which Byzantine naval power was reasserted in the Adriatic.",
+    "ko": "866년 남부 이탈리아에서 온 사라센 약탈자들이 라구사(두브로브니크)를 약 15개월 동안 포위했다. 도시는 868년 바실레이오스 1세 황제가 보낸 비잔티움 함대가 도착해 포위를 풀 때까지 버텼고, 이후 아드리아해에서 비잔티움의 해군력이 다시 확립되었다.",
+    "zh": "866年，来自意大利南部的萨拉森劫掠者围攻拉古萨（杜布罗夫尼克）约十五个月。该城坚守至868年，拜占庭皇帝巴西尔一世派出的舰队赶到解围，此后拜占庭在亚得里亚海重新确立了海上力量。",
+    "ja": "866年、南イタリアから来たサラセンの襲撃者がラグサ（ドゥブロヴニク）を約15か月にわたって包囲した。町は868年に皇帝バシレイオス1世が派遣したビザンツ艦隊が到着して包囲を解くまで持ちこたえ、その後アドリア海でビザンツの海軍力が再確立された。"
+   }
+  },
+  {
+   "year": 879,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Pope John VIII recognizes Duke Branimir",
+    "ko": "교황 요한 8세, 브라니미르 공작을 승인하다",
+    "zh": "教皇约翰八世承认布拉尼米尔公爵",
+    "ja": "教皇ヨハネス8世がブラニミル公を承認"
+   },
+   "description": {
+    "en": "In letters of 879, Pope John VIII blessed Duke Branimir and his people after Branimir had seized power and turned Croatia away from Byzantine influence toward Rome. These letters are traditionally regarded as the first international recognition of an independent Croatian state.",
+    "ko": "879년 교황 요한 8세는 권력을 잡은 뒤 크로아티아를 비잔티움의 영향에서 로마 쪽으로 돌린 브라니미르 공작과 그 백성을 서한으로 축복했다. 이 서한들은 전통적으로 독립 크로아티아 국가에 대한 최초의 국제적 승인으로 여겨진다.",
+    "zh": "879年，教皇约翰八世致信祝福布拉尼米尔公爵及其人民，此前布拉尼米尔夺取政权，使克罗地亚摆脱拜占庭影响、转向罗马。这些信件传统上被视为对独立克罗地亚国家的首次国际承认。",
+    "ja": "879年、教皇ヨハネス8世は、権力を掌握してクロアチアをビザンツの影響からローマへと向け直したブラニミル公とその民を書簡で祝福した。これらの書簡は伝統的に、独立したクロアチア国家に対する最初の国際的承認とみなされている。"
+   }
+  },
+  {
+   "year": 887,
+   "qid": "Q12627973",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Makarska: Narentines defeat Venice",
+    "ko": "마카르스카 해전: 네레트바인이 베네치아를 격파",
+    "zh": "马卡尔斯卡海战：内雷特瓦人击败威尼斯",
+    "ja": "マカルスカの海戦：ネレトヴァ人がヴェネツィアを撃破"
+   },
+   "description": {
+    "en": "On 18 September 887 the Slavic Narentines of the Neretva coast, notorious for their piracy, defeated a Venetian fleet near Makarska. Doge Pietro I Candiano was killed in the battle, and for the next century Venice paid tribute to secure passage along the eastern Adriatic.",
+    "ko": "887년 9월 18일 해적 활동으로 악명 높던 네레트바 연안의 슬라브계 네레트바인이 마카르스카 인근에서 베네치아 함대를 격파했다. 도제 피에트로 1세 칸디아노가 이 해전에서 전사했고, 이후 한 세기 동안 베네치아는 아드리아해 동부 항로의 안전을 위해 공물을 바쳤다.",
+    "zh": "887年9月18日，以海盗活动闻名的内雷特瓦沿海斯拉夫人在马卡尔斯卡附近击败威尼斯舰队，威尼斯总督彼得罗一世·坎迪亚诺阵亡。此后一个世纪，威尼斯不得不纳贡以确保沿亚得里亚海东岸的航行安全。",
+    "ja": "887年9月18日、海賊行為で悪名高いネレトヴァ沿岸のスラヴ系ネレトヴァ人がマカルスカ近くでヴェネツィア艦隊を破った。総督ピエトロ1世カンディアーノはこの海戦で戦死し、以後1世紀にわたりヴェネツィアはアドリア海東岸の航行の安全のために貢納を払った。"
+   }
+  },
+  {
+   "year": 925,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Tomislav becomes the first King of Croatia",
+    "ko": "토미슬라브, 크로아티아 초대 국왕에 오르다",
+    "zh": "托米斯拉夫成为克罗地亚首位国王",
+    "ja": "トミスラヴ、クロアチア初代国王に"
+   },
+   "description": {
+    "en": "Around 925 Duke Tomislav, who had repelled Magyar raids, was addressed as king (rex) in papal correspondence, and he is regarded as the first King of Croatia. He united Pannonian and Dalmatian Croatia into a single kingdom and soon defeated a Bulgarian invasion.",
+    "ko": "마자르족의 침입을 물리친 토미슬라브 공작은 925년경 교황 서신에서 국왕(rex)으로 불렸고, 크로아티아 최초의 국왕으로 여겨진다. 그는 판노니아와 달마티아의 크로아티아를 하나의 왕국으로 통합했으며 곧이어 불가리아의 침공도 물리쳤다.",
+    "zh": "约925年，曾击退马扎尔人袭扰的托米斯拉夫公爵在教皇书信中被称为国王，被视为克罗地亚首位国王。他将潘诺尼亚和达尔马提亚的克罗地亚统一为一个王国，并随即击退了保加利亚的入侵。",
+    "ja": "925年頃、マジャル人の侵入を撃退したトミスラヴ公は教皇の書簡で国王（rex）と呼ばれ、クロアチア初代国王とみなされている。彼はパンノニアとダルマチアのクロアチアを一つの王国に統合し、まもなくブルガリアの侵攻も退けた。"
+   }
+  },
+  {
+   "year": 926,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Croats defeat the Bulgarians",
+    "ko": "크로아티아군, 불가리아군을 격파",
+    "zh": "克罗地亚人击败保加利亚人",
+    "ja": "クロアチア軍がブルガリア軍を撃破"
+   },
+   "description": {
+    "en": "Around 926 an army sent by Tsar Simeon I of Bulgaria invaded Croatia and was decisively defeated by Tomislav's forces in what is often called the Battle of the Bosnian Highlands. Byzantine sources describe the defeat, and papal mediation afterwards helped restore peace between the two states.",
+    "ko": "926년경 불가리아의 시메온 1세 차르가 보낸 군대가 크로아티아를 침공했다가, 흔히 '보스니아 고지 전투'라 불리는 싸움에서 토미슬라브군에게 크게 패했다. 비잔티움 사료가 이 패배를 전하며, 이후 교황의 중재로 두 나라 사이에 평화가 회복되었다.",
+    "zh": "约926年，保加利亚沙皇西美昂一世派军入侵克罗地亚，在通常被称为“波斯尼亚高地之战”的战斗中被托米斯拉夫的军队决定性地击败。拜占庭史料记载了这次失败，此后教皇的斡旋帮助两国恢复了和平。",
+    "ja": "926年頃、ブルガリアのツァーリ、シメオン1世が送った軍がクロアチアに侵攻し、しばしば「ボスニア高地の戦い」と呼ばれる戦いでトミスラヴ軍に大敗した。ビザンツの史料がこの敗北を伝えており、その後教皇の仲介で両国の和平が回復された。"
+   }
+  },
+  {
+   "year": 928,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Synods of Split and Gregory of Nin",
+    "ko": "스플리트 교회 회의와 닌의 그레구르",
+    "zh": "斯普利特宗教会议与宁的格雷戈尔",
+    "ja": "スプリト教会会議とニンのグルグル"
+   },
+   "description": {
+    "en": "Church synods held in Split in 925 and 928 subordinated the Croatian church to the Archbishopric of Split and abolished the bishopric of Nin. Its bishop, Gregory of Nin, is remembered in Croatian tradition as a defender of the Slavonic liturgy, though the extent of his role is debated; his statue by Ivan Meštrović stands in Split.",
+    "ko": "925년과 928년 스플리트에서 열린 교회 회의는 크로아티아 교회를 스플리트 대교구 아래 두고 닌 주교구를 폐지했다. 닌의 주교 그레구르는 크로아티아 전통에서 슬라브어 전례의 수호자로 기억되지만 그 역할의 정도에 대해서는 논란이 있으며, 이반 메슈트로비치가 만든 그의 동상이 스플리트에 서 있다.",
+    "zh": "925年和928年在斯普利特召开的宗教会议将克罗地亚教会置于斯普利特总主教区之下，并撤销了宁主教区。宁的主教格雷戈尔在克罗地亚传统中被视为斯拉夫语礼仪的捍卫者，但其作用大小尚有争议；伊万·梅什特罗维奇创作的他的雕像矗立在斯普利特。",
+    "ja": "925年と928年にスプリトで開かれた教会会議は、クロアチアの教会をスプリト大司教区の下に置き、ニン司教区を廃止した。ニン司教グルグルはクロアチアの伝統でスラヴ語典礼の擁護者として記憶されているが、その役割の大きさには議論がある。イヴァン・メシュトロヴィッチ作の彼の像がスプリトに立っている。"
+   }
+  },
+  {
+   "year": 950,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "De Administrando Imperio describes the Croats",
+    "ko": "『제국 통치론』의 크로아트인 기록",
+    "zh": "《帝国行政论》记载克罗地亚人",
+    "ja": "『帝国統治論』のクロアチア人の記述"
+   },
+   "description": {
+    "en": "Around 950 the Byzantine emperor Constantine VII Porphyrogennetos compiled the work known as De Administrando Imperio for his son. Its chapters on the Croats, Serbs and Dalmatian towns provide the oldest detailed account of Croatian origins, rulers and military strength, though historians treat its stories cautiously.",
+    "ko": "950년경 비잔티움 황제 콘스탄티노스 7세 포르피로겐네토스는 아들을 위해 『제국 통치론』으로 알려진 저작을 편찬했다. 크로아트인·세르비아인·달마티아 도시들에 관한 장들은 크로아티아인의 기원과 군주, 군사력에 대한 가장 오래된 상세 기록이지만, 역사가들은 그 내용을 신중하게 다룬다.",
+    "zh": "约950年，拜占庭皇帝君士坦丁七世“生于紫室者”为其子编纂了被称为《帝国行政论》的著作。书中关于克罗地亚人、塞尔维亚人和达尔马提亚城镇的章节，是有关克罗地亚人起源、统治者和军力的最古老的详细记载，但历史学家对其中的故事持审慎态度。",
+    "ja": "950年頃、ビザンツ皇帝コンスタンティノス7世ポルフュロゲネトスは息子のために『帝国統治論』として知られる著作を編んだ。クロアチア人、セルビア人、ダルマチア諸都市に関する章は、クロアチア人の起源や君主、軍事力に関する最古の詳細な記録であるが、歴史家はその物語を慎重に扱っている。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": "Q27918505",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Doge Pietro II Orseolo's Dalmatian expedition",
+    "ko": "도제 피에트로 2세 오르세올로의 달마티아 원정",
+    "zh": "总督彼得罗二世·奥尔塞奥洛远征达尔马提亚",
+    "ja": "総督ピエトロ2世オルセオロのダルマチア遠征"
+   },
+   "description": {
+    "en": "In 1000 Doge Pietro II Orseolo led a Venetian fleet along the Dalmatian coast, receiving the submission of the coastal towns, capturing the island of Lastovo and subduing the Narentine pirates. He took the title Duke of the Dalmatians, marking the start of Venice's long struggle with Croatia and Hungary for the eastern Adriatic.",
+    "ko": "1000년 도제 피에트로 2세 오르세올로는 베네치아 함대를 이끌고 달마티아 해안을 따라 원정해 해안 도시들의 복종을 받아내고 라스토보섬을 점령했으며 네레트바 해적을 굴복시켰다. 그는 '달마티아인의 공작' 칭호를 취했고, 이는 아드리아해 동부를 둘러싼 베네치아와 크로아티아·헝가리의 오랜 다툼의 시작이 되었다.",
+    "zh": "1000年，威尼斯总督彼得罗二世·奥尔塞奥洛率舰队沿达尔马提亚海岸远征，接受沿海城镇的归顺，攻占拉斯托沃岛，并降服内雷特瓦海盗。他取得“达尔马提亚人公爵”称号，由此开启了威尼斯与克罗地亚、匈牙利围绕亚得里亚海东岸的长期争夺。",
+    "ja": "1000年、総督ピエトロ2世オルセオロはヴェネツィア艦隊を率いてダルマチア沿岸を遠征し、沿岸都市の服属を受け、ラストヴォ島を攻略し、ネレトヴァの海賊を屈服させた。彼は「ダルマチア人の公」の称号を名乗り、これがアドリア海東岸をめぐるヴェネツィアとクロアチア・ハンガリーの長い争いの始まりとなった。"
+   }
+  },
+  {
+   "year": 1069,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Peter Krešimir IV and 'our Dalmatian sea'",
+    "ko": "페타르 크레시미르 4세와 '우리의 달마티아 바다'",
+    "zh": "彼得·克雷希米尔四世与“我们的达尔马提亚海”",
+    "ja": "ペタル・クレシミル4世と「我らのダルマチアの海」"
+   },
+   "description": {
+    "en": "In a charter of 1069 granting an island to the monastery of St Chrysogonus in Zadar, King Peter Krešimir IV referred to 'our Dalmatian sea'. Under his rule the Croatian kingdom extended its authority over the formerly Byzantine Dalmatian towns and reached the height of its power.",
+    "ko": "1069년 자다르의 성 크리소고노 수도원에 섬 하나를 하사한 헌장에서 페타르 크레시미르 4세 국왕은 '우리의 달마티아 바다'라는 표현을 썼다. 그의 치세에 크로아티아 왕국은 옛 비잔티움령 달마티아 도시들까지 권위를 넓히며 국력의 정점에 이르렀다.",
+    "zh": "在1069年将一座岛屿赐予扎达尔圣克里索戈努斯修道院的特许状中，国王彼得·克雷希米尔四世使用了“我们的达尔马提亚海”的说法。在他统治时期，克罗地亚王国将权威扩展到原属拜占庭的达尔马提亚城镇，国力达到顶峰。",
+    "ja": "1069年、ザダルの聖クリソゴヌス修道院に島を与えた特許状で、国王ペタル・クレシミル4世は「我らのダルマチアの海」という表現を用いた。その治世にクロアチア王国はかつてのビザンツ領ダルマチア諸都市にまで権威を及ぼし、国力の頂点に達した。"
+   }
+  },
+  {
+   "year": 1075,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Coronation of King Demetrius Zvonimir",
+    "ko": "드미타르 즈보니미르 국왕 대관",
+    "zh": "德米塔尔·兹沃尼米尔加冕",
+    "ja": "ドミタル・ズヴォニミル王の戴冠"
+   },
+   "description": {
+    "en": "In 1075 Demetrius Zvonimir was crowned King of Croatia and Dalmatia in Solin by a legate of Pope Gregory VII, swearing loyalty to the papacy. His reign was a time of prosperity and church reform, but his death without a male heir around 1089 opened the succession crisis that ended Croatia's native dynasty.",
+    "ko": "1075년 드미타르 즈보니미르는 솔린에서 교황 그레고리오 7세의 특사에게 크로아티아·달마티아 국왕으로 대관받고 교황청에 충성을 맹세했다. 그의 치세는 번영과 교회 개혁의 시기였으나, 1089년경 그가 남자 후계자 없이 죽자 크로아티아 토착 왕조를 끝낸 계승 위기가 시작되었다.",
+    "zh": "1075年，德米塔尔·兹沃尼米尔在索林由教皇格列高利七世的使节加冕为克罗地亚和达尔马提亚国王，并宣誓效忠教廷。他的统治是繁荣与教会改革的时期，但约1089年他去世而无男性继承人，引发了终结克罗地亚本土王朝的继承危机。",
+    "ja": "1075年、ドミタル・ズヴォニミルはソリンで教皇グレゴリウス7世の特使によりクロアチアとダルマチアの王として戴冠され、教皇庁への忠誠を誓った。その治世は繁栄と教会改革の時代であったが、1089年頃に男子の後継者なく没すると、クロアチアの在来王朝を終わらせる継承危機が始まった。"
+   }
+  },
+  {
+   "year": 1097,
+   "qid": "Q842361",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Gvozd Mountain",
+    "ko": "그보즈드산 전투",
+    "zh": "格沃兹德山之战",
+    "ja": "グヴォズド山の戦い"
+   },
+   "description": {
+    "en": "In 1097 Petar Snačić, the last native claimant to the Croatian throne, was killed fighting the army of King Coloman of Hungary at Gvozd Mountain, a site traditionally identified with Petrova Gora. His defeat cleared the way for Coloman's coronation as King of Croatia in 1102.",
+    "ko": "1097년 크로아티아 왕위를 주장한 마지막 토착 인물 페타르 스나치치가 그보즈드산에서 헝가리 왕 칼만의 군대와 싸우다 전사했다. 이 장소는 전통적으로 페트로바고라로 비정된다. 그의 패배로 1102년 칼만이 크로아티아 국왕으로 대관할 길이 열렸다.",
+    "zh": "1097年，最后一位本土克罗地亚王位要求者彼得·斯纳契奇在格沃兹德山与匈牙利国王卡尔曼的军队交战时阵亡，该地传统上被认为是彼得罗瓦山。他的败亡为卡尔曼于1102年加冕为克罗地亚国王扫清了道路。",
+    "ja": "1097年、クロアチア王位を主張した最後の在来の人物ペタル・スナチッチが、グヴォズド山でハンガリー王カールマーンの軍と戦って戦死した。この地は伝統的にペトロヴァ・ゴラに比定される。彼の敗北により、1102年にカールマーンがクロアチア王として戴冠する道が開かれた。"
+   }
+  },
+  {
+   "year": 1100,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "The Baška tablet",
+    "ko": "바슈카 석판",
+    "zh": "巴什卡石板",
+    "ja": "バシュカの石板"
+   },
+   "description": {
+    "en": "Around 1100 a stone slab inscribed in Glagolitic script was set up in the church of St Lucy at Jurandvor near Baška on the island of Krk. Recording a land grant by King Zvonimir and naming the ruler 'king of the Croats', the Baška tablet is one of the oldest and most important monuments of the Croatian language and is often called its 'baptismal certificate'.",
+    "ko": "1100년경 크르크섬 바슈카 인근 유란드보르의 성 루치아 성당에 글라골 문자가 새겨진 석판이 세워졌다. 즈보니미르 왕의 토지 하사를 기록하고 그를 '크로아트인의 왕'이라 부른 바슈카 석판은 크로아티아어의 가장 오래되고 중요한 기념물 가운데 하나로, 흔히 크로아티아어의 '세례 증명서'라 불린다.",
+    "zh": "约1100年，克尔克岛巴什卡附近尤兰德沃尔的圣露西亚教堂中立起一块刻有格拉哥里字母的石板。巴什卡石板记录了兹沃尼米尔国王的土地赐予，并称他为“克罗地亚人的国王”，是克罗地亚语最古老、最重要的文物之一，常被称为克罗地亚语的“出生证明”。",
+    "ja": "1100年頃、クルク島バシュカ近郊ユランドヴォルの聖ルチア教会に、グラゴール文字を刻んだ石板が据えられた。ズヴォニミル王の土地寄進を記し、彼を「クロアチア人の王」と呼ぶバシュカの石板は、クロアチア語の最古かつ最重要の記念物の一つで、しばしばクロアチア語の「洗礼証明書」と呼ばれる。"
+   }
+  },
+  {
+   "year": 1102,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Personal union with the Kingdom of Hungary",
+    "ko": "헝가리와의 동군연합 성립",
+    "zh": "与匈牙利结成共主联盟",
+    "ja": "ハンガリーとの同君連合"
+   },
+   "description": {
+    "en": "After the native dynasty died out and Petar Snačić fell in battle, King Coloman of Hungary was crowned King of Croatia and Dalmatia in Biograd na Moru in 1102. Croatia kept its own institutions under a ban and the Sabor but shared a monarch with Hungary for more than 800 years; a document called the Pacta conventa, said to record the terms agreed with the Croatian nobles, survives only in a later copy and its authenticity is disputed.",
+    "ko": "토착 왕조가 단절되고 페타르 스나치치가 전사한 뒤, 1102년 헝가리 왕 칼만이 비오그라드나모루에서 크로아티아·달마티아 국왕으로 대관했다. 크로아티아는 반과 사보르 아래 독자적인 제도를 유지하면서 800년 넘게 헝가리와 군주를 공유했다. 크로아티아 귀족들과 합의한 조건을 담았다는 '팍타 콘벤타'는 후대 사본으로만 전해지며 진위에 논란이 있다.",
+    "zh": "本土王朝绝嗣、彼得·斯纳契奇战死后，匈牙利国王卡尔曼于1102年在海滨比奥格勒加冕为克罗地亚和达尔马提亚国王。克罗地亚在总督和议会之下保留自身制度，但与匈牙利共奉一君长达八百余年。据称记载与克罗地亚贵族所定条件的《协约》仅存后世抄本，其真实性存在争议。",
+    "ja": "在来王朝が断絶しペタル・スナチッチが戦死した後、1102年にハンガリー王カールマーンがビオグラード・ナ・モルでクロアチアとダルマチアの王として戴冠した。クロアチアはバンとサボルのもとで独自の制度を保ちつつ、800年以上にわたりハンガリーと君主を共有した。クロアチア貴族と合意した条件を記したとされる「パクタ・コンヴェンタ」は後代の写本でしか伝わらず、真偽に議論がある。"
+   }
+  },
+  {
+   "year": 1202,
+   "qid": "Q604739",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fourth Crusade sacks Zadar",
+    "ko": "제4차 십자군의 자다르 약탈",
+    "zh": "第四次十字军洗劫扎达尔",
+    "ja": "第4回十字軍によるザダル略奪"
+   },
+   "description": {
+    "en": "Unable to pay Venice for their transport, the knights of the Fourth Crusade agreed to help the Venetians capture Zadar (Zara), a Christian city under the protection of the King of Hungary-Croatia. The city fell in November 1202 and was sacked, and Pope Innocent III excommunicated the crusaders for attacking fellow Christians.",
+    "ko": "베네치아에 수송비를 치를 수 없었던 제4차 십자군 기사들은 헝가리-크로아티아 국왕의 보호를 받던 기독교 도시 자다르(차라)를 베네치아가 점령하도록 돕기로 했다. 도시는 1202년 11월 함락되어 약탈당했고, 교황 인노첸시오 3세는 같은 기독교도를 공격한 십자군을 파문했다.",
+    "zh": "第四次十字军的骑士们无力支付威尼斯的运输费用，便同意帮助威尼斯人攻占受匈牙利-克罗地亚国王保护的基督教城市扎达尔（扎拉）。该城于1202年11月陷落并遭洗劫，教皇英诺森三世因十字军攻击基督徒同胞而将其绝罚。",
+    "ja": "ヴェネツィアに輸送費を払えなかった第4回十字軍の騎士たちは、ハンガリー＝クロアチア王の保護下にあったキリスト教都市ザダル（ザラ）をヴェネツィアが攻略するのを助けることに同意した。町は1202年11月に陥落して略奪され、教皇インノケンティウス3世は同じキリスト教徒を攻撃した十字軍を破門した。"
+   }
+  },
+  {
+   "year": 1205,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Dubrovnik comes under Venetian sovereignty",
+    "ko": "두브로브니크, 베네치아 주권 아래 들어가다",
+    "zh": "杜布罗夫尼克归于威尼斯主权",
+    "ja": "ドゥブロヴニクがヴェネツィアの主権下に"
+   },
+   "description": {
+    "en": "After the Fourth Crusade, Ragusa (Dubrovnik) accepted Venetian sovereignty in 1205, receiving a Venetian count as head of the city. The city nonetheless kept considerable self-government and trading privileges, and it remained under Venice until 1358.",
+    "ko": "제4차 십자군 이후 라구사(두브로브니크)는 1205년 베네치아의 주권을 받아들이고 베네치아 출신 백작을 도시의 수장으로 맞았다. 그럼에도 도시는 상당한 자치권과 교역 특권을 유지했으며 1358년까지 베네치아의 지배 아래 있었다.",
+    "zh": "第四次十字军之后，拉古萨（杜布罗夫尼克）于1205年接受威尼斯主权，由一位威尼斯伯爵担任城市首脑。尽管如此，该城仍保留了相当大的自治权和贸易特权，并一直处于威尼斯统治之下直至1358年。",
+    "ja": "第4回十字軍の後、ラグサ（ドゥブロヴニク）は1205年にヴェネツィアの主権を受け入れ、ヴェネツィア人の伯を町の長として迎えた。それでも町はかなりの自治と交易特権を保ち、1358年までヴェネツィアの支配下にあった。"
+   }
+  },
+  {
+   "year": 1242,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Mongol invasion reaches the Adriatic",
+    "ko": "몽골군, 아드리아해에 이르다",
+    "zh": "蒙古入侵抵达亚得里亚海",
+    "ja": "モンゴル軍がアドリア海に到達"
+   },
+   "description": {
+    "en": "After defeating the Hungarians at Mohi in 1241, a Mongol army under Kadan pursued King Béla IV into Croatia in 1242. The king took refuge in the fortified Dalmatian towns, including Trogir and Klis, while the Mongols ravaged parts of the country before withdrawing. A Croatian tradition of a victory at Grobnik field dates to this time but is regarded as legendary.",
+    "ko": "1241년 모히에서 헝가리군을 격파한 카단 휘하의 몽골군은 1242년 벨러 4세를 쫓아 크로아티아로 들어왔다. 왕은 트로기르와 클리스 등 달마티아의 요새 도시로 피신했고, 몽골군은 나라 일부를 휩쓴 뒤 물러났다. 그로브니크 평원에서 승리했다는 크로아티아 전승도 이때의 일로 전해지지만 전설로 여겨진다.",
+    "zh": "1241年在莫希击败匈牙利人后，合丹率领的蒙古军于1242年追击国王贝拉四世进入克罗地亚。国王避难于特罗吉尔和克利斯等设防的达尔马提亚城镇，蒙古人蹂躏了部分国土后撤退。克罗地亚关于在格罗布尼克原野获胜的传说也被认为发生于此时，但被视为传说。",
+    "ja": "1241年にモヒでハンガリー軍を破ったカダン率いるモンゴル軍は、1242年に国王ベーラ4世を追ってクロアチアに入った。王はトロギルやクリスなどダルマチアの城塞都市に避難し、モンゴル軍は国土の一部を荒らした後に撤退した。グロブニク平原での勝利というクロアチアの伝承もこの時のこととされるが、伝説とみなされている。"
+   }
+  },
+  {
+   "year": 1242,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Golden Bull makes Gradec a free royal town",
+    "ko": "황금 칙서로 그라데츠가 자유 왕립 도시가 되다",
+    "zh": "金玺诏书使格拉代茨成为王室自由市",
+    "ja": "金印勅書でグラデツが自由王国都市に"
+   },
+   "description": {
+    "en": "On 16 November 1242 King Béla IV issued a Golden Bull declaring Gradec, on a hill in today's Zagreb, a free royal town, partly in gratitude for shelter during the Mongol invasion. Gradec grew alongside the neighbouring episcopal settlement of Kaptol, and the two were formally united as the city of Zagreb in 1850.",
+    "ko": "1242년 11월 16일 벨러 4세는 황금 칙서를 내려 오늘날 자그레브의 언덕 위 그라데츠를 자유 왕립 도시로 선포했는데, 몽골 침입 때 피난처를 제공한 데 대한 보답의 의미도 있었다. 그라데츠는 이웃한 주교 마을 카프톨과 함께 성장했으며, 두 곳은 1850년 공식적으로 자그레브시로 통합되었다.",
+    "zh": "1242年11月16日，国王贝拉四世颁布金玺诏书，宣布今萨格勒布山丘上的格拉代茨为王室自由市，部分原因是感谢其在蒙古入侵期间提供庇护。格拉代茨与相邻的主教聚落卡普托尔共同发展，两者于1850年正式合并为萨格勒布市。",
+    "ja": "1242年11月16日、国王ベーラ4世は金印勅書を発し、現在のザグレブの丘の上のグラデツを自由王国都市と宣言した。モンゴル侵入の際の避難への感謝の意味もあった。グラデツは隣接する司教座の町カプトルとともに発展し、両者は1850年に正式にザグレブ市として統合された。"
+   }
+  },
+  {
+   "year": 1272,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Statute of Dubrovnik",
+    "ko": "두브로브니크 법령",
+    "zh": "杜布罗夫尼克法典",
+    "ja": "ドゥブロヴニク法令"
+   },
+   "description": {
+    "en": "In 1272 the commune of Ragusa compiled its Statute, a comprehensive code of laws covering government, property, trade and urban order. Regularly supplemented over the following centuries, it formed the legal basis of the later Republic of Ragusa and reflects the sophisticated civic life of medieval Dalmatian towns.",
+    "ko": "1272년 라구사 코무네는 통치·재산·교역·도시 질서를 포괄하는 법전인 법령을 편찬했다. 이후 수 세기 동안 정기적으로 보완된 이 법령은 훗날 라구사 공화국의 법적 토대가 되었으며, 중세 달마티아 도시들의 세련된 시민 생활을 보여준다.",
+    "zh": "1272年，拉古萨公社编纂了涵盖政府、财产、贸易和城市秩序的综合性法典。此后数百年间不断增补，成为后来拉古萨共和国的法律基础，也反映出中世纪达尔马提亚城镇成熟的市民生活。",
+    "ja": "1272年、ラグサのコムーネは統治・財産・交易・都市秩序を網羅する法典である法令を編纂した。以後数世紀にわたり定期的に補われたこの法令は、のちのラグサ共和国の法的基盤となり、中世ダルマチア都市の洗練された市民生活を映し出している。"
+   }
+  },
+  {
+   "year": 1288,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Vinodol Code written in Glagolitic",
+    "ko": "글라골 문자로 쓰인 비노돌 법전",
+    "zh": "以格拉哥里字母写成的维诺多尔法典",
+    "ja": "グラゴール文字で記されたヴィノドル法典"
+   },
+   "description": {
+    "en": "On 6 January 1288 representatives of the Vinodol communities and the Frankopan counts of Krk agreed on the Vinodol Code, written in Croatian in the Glagolitic script. It is one of the oldest legal texts in a Slavic vernacular and documents customary law, feudal obligations and court procedure on the northern Adriatic coast.",
+    "ko": "1288년 1월 6일 비노돌 공동체 대표들과 크르크의 프랑코판 백작 가문은 글라골 문자로 된 크로아티아어 비노돌 법전에 합의했다. 슬라브 구어로 쓰인 가장 오래된 법률 문서 가운데 하나로, 북부 아드리아해 연안의 관습법, 봉건적 의무, 재판 절차를 기록하고 있다.",
+    "zh": "1288年1月6日，维诺多尔各社群的代表与克尔克的弗兰科潘伯爵家族议定了以格拉哥里字母书写的克罗地亚语《维诺多尔法典》。这是以斯拉夫俗语写成的最古老法律文献之一，记录了亚得里亚海北岸的习惯法、封建义务和诉讼程序。",
+    "ja": "1288年1月6日、ヴィノドルの共同体の代表とクルクのフランコパン伯家は、グラゴール文字によるクロアチア語のヴィノドル法典に合意した。スラヴ語の口語で書かれた最古級の法文書の一つで、北アドリア海沿岸の慣習法、封建的義務、裁判手続きを記録している。"
+   }
+  },
+  {
+   "year": 1300,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Paul Šubić backs the Angevins",
+    "ko": "파울 슈비치, 앙주 가문을 지원하다",
+    "zh": "保罗·舒比奇支持安茹家族",
+    "ja": "パヴァオ・シュビッチがアンジュー家を支援"
+   },
+   "description": {
+    "en": "Paul I Šubić of Bribir, Ban of Croatia and one of the most powerful magnates of his age, supported the Angevin claim to the Hungarian-Croatian throne. In 1300 he brought the young Charles Robert of Anjou to Split, launching his successful bid for the crown, while the Šubići ruled much of Croatia and Dalmatia almost as independent princes.",
+    "ko": "브리비르의 파울 1세 슈비치는 크로아티아의 반이자 당대 가장 강력한 대귀족 가운데 하나로, 헝가리-크로아티아 왕위에 대한 앙주 가문의 주장을 지지했다. 1300년 그는 젊은 앙주의 카로이 로베르트를 스플리트로 데려와 왕위 획득의 발판을 마련했으며, 슈비치 가문은 크로아티아와 달마티아 대부분을 거의 독립 군주처럼 다스렸다.",
+    "zh": "布里比尔的保罗一世·舒比奇是克罗地亚总督，也是当时最有权势的大贵族之一，他支持安茹家族对匈牙利-克罗地亚王位的要求。1300年，他将年轻的安茹家族查理·罗伯特带到斯普利特，开启了其成功争夺王位之路，而舒比奇家族几乎像独立君主一样统治着克罗地亚和达尔马提亚的大部分地区。",
+    "ja": "ブリビルのパヴァオ1世シュビッチはクロアチアのバンで当代屈指の大貴族であり、ハンガリー＝クロアチア王位に対するアンジュー家の主張を支持した。1300年、彼は若きアンジュー家のカーロイ・ローベルトをスプリトに迎え、その王位獲得の道を開いた。シュビッチ家はクロアチアとダルマチアの大部分をほとんど独立君主のように治めた。"
+   }
+  },
+  {
+   "year": 1322,
+   "qid": "Q4870499",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Bliska and the fall of Mladen II Šubić",
+    "ko": "블리스카 전투와 믈라덴 2세 슈비치의 몰락",
+    "zh": "布利斯卡之战与姆拉登二世·舒比奇的倒台",
+    "ja": "ブリスカの戦いとムラデン2世シュビッチの失脚"
+   },
+   "description": {
+    "en": "In 1322 Ban Mladen II Šubić, whose harsh rule had alienated other Croatian nobles and the Dalmatian towns, was defeated by a coalition of his opponents at Bliska. King Charles I then had him arrested, ending the near-sovereign power of the Šubić family and strengthening royal authority in Croatia.",
+    "ko": "1322년 가혹한 통치로 다른 크로아티아 귀족들과 달마티아 도시들의 반감을 산 반 믈라덴 2세 슈비치는 블리스카에서 반대파 연합군에게 패했다. 이어 카로이 1세가 그를 체포하면서 슈비치 가문의 준독립적 권력은 끝나고 크로아티아에서 왕권이 강화되었다.",
+    "zh": "1322年，因统治严苛而疏远了其他克罗地亚贵族和达尔马提亚城镇的总督姆拉登二世·舒比奇在布利斯卡被反对派联军击败。国王查理一世随后将其逮捕，舒比奇家族近乎独立的权力就此终结，王权在克罗地亚得到加强。",
+    "ja": "1322年、苛酷な統治で他のクロアチア貴族やダルマチア諸都市の反発を招いたバンのムラデン2世シュビッチは、ブリスカで反対派の連合軍に敗れた。続いて国王カーロイ1世が彼を逮捕し、シュビッチ家の半ば独立した権力は終わり、クロアチアにおける王権が強化された。"
+   }
+  },
+  {
+   "year": 1346,
+   "qid": "Q27465472",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Venice captures Zadar after a long siege",
+    "ko": "베네치아, 긴 포위 끝에 자다르 점령",
+    "zh": "威尼斯经长期围困攻占扎达尔",
+    "ja": "ヴェネツィアが長い包囲の末ザダルを占領"
+   },
+   "description": {
+    "en": "When Zadar rebelled against Venice in 1345 and sought Hungarian protection, Venice besieged the city by land and sea. A relief army of King Louis I of Hungary failed to break the siege, and Zadar surrendered in December 1346, though Venice would lose it again to Hungary a decade later.",
+    "ko": "1345년 자다르가 베네치아에 반기를 들고 헝가리의 보호를 구하자 베네치아는 육지와 바다에서 도시를 포위했다. 헝가리 왕 러요시 1세의 구원군은 포위를 깨지 못했고, 자다르는 1346년 12월 항복했다. 그러나 베네치아는 10년 뒤 다시 헝가리에 이 도시를 빼앗겼다.",
+    "zh": "1345年扎达尔反叛威尼斯并寻求匈牙利保护，威尼斯从陆海两路围城。匈牙利国王拉约什一世的援军未能解围，扎达尔于1346年12月投降，但十年后威尼斯又将其失给匈牙利。",
+    "ja": "1345年にザダルがヴェネツィアに反旗を翻してハンガリーの保護を求めると、ヴェネツィアは陸と海から町を包囲した。ハンガリー王ラヨシュ1世の救援軍は包囲を破れず、ザダルは1346年12月に降伏したが、10年後にヴェネツィアは再びこの町をハンガリーに奪われた。"
+   }
+  },
+  {
+   "year": 1358,
+   "qid": "Q208169",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Zadar and the birth of the Republic of Ragusa",
+    "ko": "자다르 조약과 라구사 공화국의 탄생",
+    "zh": "扎达尔条约与拉古萨共和国诞生",
+    "ja": "ザダル条約とラグサ共和国の誕生"
+   },
+   "description": {
+    "en": "After defeats in war with Louis I of Hungary, Venice signed the Treaty of Zadar in February 1358, renouncing all of Dalmatia from the Kvarner to Durrës. Dubrovnik was freed from Venetian sovereignty and, under nominal Hungarian protection, developed into the self-governing Republic of Ragusa.",
+    "ko": "헝가리의 러요시 1세와의 전쟁에서 패한 베네치아는 1358년 2월 자다르 조약을 맺고 크바르네르에서 두러스에 이르는 달마티아 전역을 포기했다. 두브로브니크는 베네치아 주권에서 벗어나 명목상 헝가리의 보호 아래 자치 국가인 라구사 공화국으로 발전했다.",
+    "zh": "在与匈牙利拉约什一世的战争中失利后，威尼斯于1358年2月签订扎达尔条约，放弃了从克瓦内尔湾到都拉斯的整个达尔马提亚。杜布罗夫尼克摆脱威尼斯主权，在名义上的匈牙利保护下发展为自治的拉古萨共和国。",
+    "ja": "ハンガリーのラヨシュ1世との戦争に敗れたヴェネツィアは、1358年2月にザダル条約を結び、クヴァルネルからドゥラスに至るダルマチア全域を放棄した。ドゥブロヴニクはヴェネツィアの主権から解放され、名目上ハンガリーの保護のもとで自治のラグサ共和国へと発展した。"
+   }
+  },
+  {
+   "year": 1409,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Ladislaus of Naples sells Dalmatia to Venice",
+    "ko": "나폴리의 라디슬라오, 달마티아를 베네치아에 팔다",
+    "zh": "那不勒斯的拉迪斯劳将达尔马提亚卖给威尼斯",
+    "ja": "ナポリ王ラディスラーオがダルマチアをヴェネツィアに売却"
+   },
+   "description": {
+    "en": "In 1409 Ladislaus of Naples, a rival claimant to the Hungarian-Croatian throne, sold his rights to Dalmatia to Venice for 100,000 ducats. Venice took Zadar and over the next decade most of the Dalmatian towns and islands, beginning nearly four centuries of continuous Venetian rule over the coast, with only Dubrovnik remaining independent.",
+    "ko": "1409년 헝가리-크로아티아 왕위를 다투던 나폴리의 라디슬라오는 달마티아에 대한 권리를 10만 두카트에 베네치아에 팔았다. 베네치아는 자다르를 손에 넣고 이후 10여 년간 달마티아의 도시와 섬 대부분을 차지해 해안에 대한 약 4세기에 걸친 지배를 시작했으며, 두브로브니크만이 독립을 유지했다.",
+    "zh": "1409年，觊觎匈牙利-克罗地亚王位的那不勒斯的拉迪斯劳以十万杜卡特将其对达尔马提亚的权利卖给威尼斯。威尼斯取得扎达尔，并在其后十余年间占领了达尔马提亚的大部分城镇和岛屿，开始了对沿海近四个世纪的连续统治，只有杜布罗夫尼克保持独立。",
+    "ja": "1409年、ハンガリー＝クロアチア王位を争っていたナポリのラディスラーオは、ダルマチアに対する権利を10万ドゥカートでヴェネツィアに売り渡した。ヴェネツィアはザダルを手に入れ、その後10年ほどでダルマチアの都市と島々の大部分を占め、沿岸に対する約4世紀にわたる支配を始めた。独立を保ったのはドゥブロヴニクだけであった。"
+   }
+  },
+  {
+   "year": 1416,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Dubrovnik bans the slave trade",
+    "ko": "두브로브니크, 노예무역을 금지하다",
+    "zh": "杜布罗夫尼克禁止奴隶贸易",
+    "ja": "ドゥブロヴニクが奴隷貿易を禁止"
+   },
+   "description": {
+    "en": "On 27 January 1416 the Great Council of the Republic of Ragusa voted to prohibit its citizens from engaging in the slave trade. The decision is often cited as one of the earliest legal bans on slave trading in Europe.",
+    "ko": "1416년 1월 27일 라구사 공화국 대평의회는 시민들의 노예무역 종사를 금지하기로 의결했다. 이 결정은 유럽에서 가장 이른 노예무역 금지 법령 가운데 하나로 자주 언급된다.",
+    "zh": "1416年1月27日，拉古萨共和国大议会表决禁止其公民从事奴隶贸易。这一决定常被视为欧洲最早从法律上禁止奴隶贸易的举措之一。",
+    "ja": "1416年1月27日、ラグサ共和国の大評議会は市民が奴隷貿易に携わることを禁止する決議を行った。この決定はヨーロッパで最も早い奴隷貿易禁止法令の一つとしてしばしば挙げられる。"
+   }
+  },
+  {
+   "year": 1431,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Construction of Šibenik Cathedral begins",
+    "ko": "시베니크 대성당 건축 시작",
+    "zh": "希贝尼克大教堂开工",
+    "ja": "シベニク大聖堂の建設開始"
+   },
+   "description": {
+    "en": "Work on the Cathedral of St James in Šibenik began in 1431 and continued until 1535. Under the architect Juraj Dalmatinac (George of Dalmatia) and later Nikola Firentinac, it became a masterpiece of the transition from Gothic to Renaissance, built entirely of stone, and is a UNESCO World Heritage Site.",
+    "ko": "시베니크의 성 야고보 대성당은 1431년 착공되어 1535년까지 지어졌다. 건축가 유라이 달마티나츠와 뒤이은 니콜라 피렌티나츠의 손을 거쳐 전체를 돌로 쌓은 이 성당은 고딕에서 르네상스로 넘어가는 시기의 걸작이 되었으며, 유네스코 세계유산이다.",
+    "zh": "希贝尼克圣雅各布大教堂于1431年开工，直至1535年才完工。在建筑师尤拉伊·达尔马蒂纳茨及其后的尼古拉·菲伦蒂纳茨主持下，这座全石结构的教堂成为哥特式向文艺复兴过渡时期的杰作，现为联合国教科文组织世界遗产。",
+    "ja": "シベニクの聖ヤコブ大聖堂は1431年に着工し、1535年まで建設が続いた。建築家ユライ・ダルマティナツとその後のニコラ・フィレンティナツのもとで全体を石で築いたこの聖堂は、ゴシックからルネサンスへの移行期の傑作となり、ユネスコ世界遺産となっている。"
+   }
+  },
+  {
+   "year": 1483,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "First printed Croatian book",
+    "ko": "최초의 크로아티아어 인쇄본",
+    "zh": "第一部克罗地亚语印刷书籍",
+    "ja": "最初のクロアチア語印刷本"
+   },
+   "description": {
+    "en": "On 22 February 1483 the Missale Romanum Glagolitice, a missal in Croatian Church Slavonic printed in the Glagolitic script, was completed, only about three decades after Gutenberg's Bible. It is the first printed book in Croatian, and Glagolitic presses at Kosinj and Senj followed in the next years.",
+    "ko": "1483년 2월 22일 글라골 문자로 인쇄된 크로아티아 교회 슬라브어 미사경본 『미살레 로마눔 글라골리티체』가 완성되었다. 구텐베르크 성서로부터 불과 약 30년 뒤의 일이다. 이는 최초의 크로아티아어 인쇄본이며, 이후 코신과 세니에 글라골 인쇄소가 잇따라 생겼다.",
+    "zh": "1483年2月22日，以格拉哥里字母印刷的克罗地亚教会斯拉夫语弥撒经书《格拉哥里字母罗马弥撒经》印制完成，距古腾堡圣经仅约三十年。这是第一部克罗地亚语印刷书籍，此后数年科西尼和塞尼相继出现了格拉哥里字母印刷所。",
+    "ja": "1483年2月22日、グラゴール文字で印刷されたクロアチア教会スラヴ語のミサ典礼書『ミサーレ・ロマーヌム・グラゴリティツェ』が完成した。グーテンベルク聖書からわずか約30年後のことである。これは最初のクロアチア語印刷本であり、その後コシニとセニにグラゴール文字の印刷所が相次いで生まれた。"
+   }
+  },
+  {
+   "year": 1493,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Krbava Field",
+    "ko": "크르바바 평원 전투",
+    "zh": "克尔巴瓦原野之战",
+    "ja": "クルバヴァ平原の戦い"
+   },
+   "description": {
+    "en": "On 9 September 1493 an Ottoman raiding army under Hadım Yakub Pasha destroyed the Croatian noble army led by Ban Emerik Derenčin at Krbava Field in Lika. Much of the Croatian nobility was killed or captured, opening the country to devastating raids, and the Croatian priest Martinac recorded the disaster in a famous Glagolitic note.",
+    "ko": "1493년 9월 9일 하듬 야쿠프 파샤가 이끄는 오스만 약탈군이 리카의 크르바바 평원에서 반 에메리크 데렌친이 이끄는 크로아티아 귀족군을 궤멸시켰다. 크로아티아 귀족 상당수가 죽거나 포로가 되어 나라는 참혹한 약탈에 노출되었고, 사제 마르티나츠는 이 참사를 유명한 글라골 문자 기록으로 남겼다.",
+    "zh": "1493年9月9日，哈德姆·雅库布帕夏率领的奥斯曼劫掠军在利卡的克尔巴瓦原野全歼由总督埃梅里克·德伦钦率领的克罗地亚贵族军队。大批克罗地亚贵族阵亡或被俘，国家门户洞开，饱受劫掠，神父马尔蒂纳茨以一段著名的格拉哥里字母记载记录了这场灾难。",
+    "ja": "1493年9月9日、ハドゥム・ヤクプ・パシャ率いるオスマンの略奪軍が、リカのクルバヴァ平原でバンのエメリク・デレンチン率いるクロアチア貴族軍を壊滅させた。クロアチア貴族の多くが戦死または捕虜となって国土は激しい略奪にさらされ、司祭マルティナツはこの惨事を有名なグラゴール文字の記録に残した。"
+   }
+  },
+  {
+   "year": 1501,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Marko Marulić writes Judita",
+    "ko": "마르코 마룰리치, 『유디타』를 쓰다",
+    "zh": "马尔科·马鲁利奇创作《尤迪塔》",
+    "ja": "マルコ・マルリッチが『ユディタ』を執筆"
+   },
+   "description": {
+    "en": "In 1501 the Split humanist Marko Marulić completed Judita, an epic poem retelling the biblical story of Judith in the Croatian vernacular, printed in Venice in 1521. Written as Ottoman raids threatened Dalmatia, it carried a clear anti-Ottoman message, and Marulić is honoured as the father of Croatian literature.",
+    "ko": "1501년 스플리트의 인문주의자 마르코 마룰리치는 성서 속 유딧 이야기를 크로아티아 구어로 다시 쓴 서사시 『유디타』를 완성했고, 이 작품은 1521년 베네치아에서 인쇄되었다. 오스만의 침공이 달마티아를 위협하던 때에 쓰여 반오스만 메시지가 뚜렷하며, 마룰리치는 크로아티아 문학의 아버지로 추앙된다.",
+    "zh": "1501年，斯普利特人文主义者马尔科·马鲁利奇完成了以克罗地亚俗语重述圣经尤迪特故事的史诗《尤迪塔》，1521年在威尼斯付印。该作写于奥斯曼人威胁达尔马提亚之际，带有鲜明的反奥斯曼寓意，马鲁利奇被尊为克罗地亚文学之父。",
+    "ja": "1501年、スプリトの人文主義者マルコ・マルリッチは、聖書のユディト物語をクロアチア語の口語で語り直した叙事詩『ユディタ』を完成させ、1521年にヴェネツィアで印刷された。オスマンの侵入がダルマチアを脅かす中で書かれ、明確な反オスマンの寓意をもつ。マルリッチはクロアチア文学の父と称えられている。"
+   }
+  },
+  {
+   "year": 1513,
+   "qid": "Q18712913",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Dubica",
+    "ko": "두비차 전투",
+    "zh": "杜比察之战",
+    "ja": "ドゥビツァの戦い"
+   },
+   "description": {
+    "en": "On 16 August 1513 a Croatian army led by Ban Petar Berislavić, Bishop of Veszprém, defeated an Ottoman force near Dubica on the Una river. The victory briefly checked Ottoman raids into Croatia, though Berislavić himself was later killed fighting the Ottomans in 1520.",
+    "ko": "1513년 8월 16일 베스프렘 주교이기도 한 반 페타르 베리슬라비치가 이끄는 크로아티아군이 우나강 변 두비차 인근에서 오스만군을 격파했다. 이 승리는 크로아티아에 대한 오스만의 약탈을 잠시 저지했으나, 베리슬라비치 자신은 1520년 오스만군과 싸우다 전사했다.",
+    "zh": "1513年8月16日，由兼任维斯普雷姆主教的总督彼得·贝里斯拉维奇率领的克罗地亚军队在乌纳河畔杜比察附近击败奥斯曼军队。这场胜利暂时遏制了奥斯曼对克罗地亚的劫掠，但贝里斯拉维奇本人于1520年在与奥斯曼人作战时阵亡。",
+    "ja": "1513年8月16日、ヴェスプレーム司教を兼ねるバンのペタル・ベリスラヴィッチ率いるクロアチア軍が、ウナ川沿いのドゥビツァ近郊でオスマン軍を破った。この勝利はクロアチアへのオスマンの略奪を一時的に食い止めたが、ベリスラヴィッチ自身は1520年にオスマン軍との戦いで戦死した。"
+   }
+  },
+  {
+   "year": 1522,
+   "qid": "Q18713116",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ottomans capture Knin",
+    "ko": "오스만 제국의 크닌 점령",
+    "zh": "奥斯曼人攻占克宁",
+    "ja": "オスマン帝国がクニンを占領"
+   },
+   "description": {
+    "en": "In 1522 the Ottomans captured the fortress of Knin, a key stronghold of medieval Croatia, along with Skradin. The loss opened the Dalmatian hinterland to Ottoman conquest, and Knin remained in Ottoman hands until the Venetians took it in 1688.",
+    "ko": "1522년 오스만 제국은 중세 크로아티아의 핵심 거점인 크닌 요새를 스크라딘과 함께 점령했다. 이로써 달마티아 내륙이 오스만의 정복에 노출되었고, 크닌은 1688년 베네치아가 빼앗을 때까지 오스만의 손에 있었다.",
+    "zh": "1522年，奥斯曼人攻占了中世纪克罗地亚的重要据点克宁要塞以及斯克拉丁。这一失守使达尔马提亚内陆暴露于奥斯曼的征服之下，克宁一直处于奥斯曼统治下，直到1688年被威尼斯人夺取。",
+    "ja": "1522年、オスマン帝国は中世クロアチアの要衝クニン要塞をスクラディンとともに攻略した。これによりダルマチア内陸はオスマンの征服にさらされ、クニンは1688年にヴェネツィアが奪うまでオスマンの手にあった。"
+   }
+  },
+  {
+   "year": 1527,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Croatian nobles elect Ferdinand of Habsburg at Cetin",
+    "ko": "체틴 의회, 합스부르크가의 페르디난트를 국왕으로 선출",
+    "zh": "采廷议会推举哈布斯堡的斐迪南为王",
+    "ja": "ツェティン議会がハプスブルク家のフェルディナントを国王に選出"
+   },
+   "description": {
+    "en": "After King Louis II died in the Ottoman victory at Mohács in 1526, the Croatian Sabor meeting at Cetin on 1 January 1527 elected Ferdinand I of Habsburg as king, hoping for help against the Ottomans. The choice tied Croatia to the Habsburg dynasty until 1918, while some Slavonian nobles initially backed the rival king John Zápolya.",
+    "ko": "1526년 모하치에서 오스만이 승리하고 러요시 2세가 전사하자, 1527년 1월 1일 체틴에 모인 크로아티아 사보르는 오스만에 맞설 도움을 기대하며 합스부르크가의 페르디난트 1세를 국왕으로 선출했다. 이 선택으로 크로아티아는 1918년까지 합스부르크 왕가와 묶였으며, 일부 슬라보니아 귀족은 처음에 경쟁 국왕 서포야 야노시를 지지했다.",
+    "zh": "1526年国王拉约什二世在奥斯曼人取胜的莫哈奇战役中阵亡后，克罗地亚议会于1527年1月1日在采廷集会，推举哈布斯堡家族的斐迪南一世为国王，希望借此获得抵御奥斯曼的援助。这一选择使克罗地亚与哈布斯堡王朝绑定至1918年，而部分斯拉沃尼亚贵族起初支持对立国王萨波利亚·亚诺什。",
+    "ja": "1526年のモハーチの戦いでオスマンが勝利し国王ラヨシュ2世が戦死すると、1527年1月1日にツェティンに集まったクロアチアのサボルは、オスマンに対する援助を期待してハプスブルク家のフェルディナント1世を国王に選出した。この選択によりクロアチアは1918年までハプスブルク家と結ばれた。一部のスラヴォニア貴族は当初、対立王サポヤイ・ヤーノシュを支持した。"
+   }
+  },
+  {
+   "year": 1537,
+   "qid": "Q735043",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Klis",
+    "ko": "클리스 요새 함락",
+    "zh": "克利斯要塞陷落",
+    "ja": "クリス要塞の陥落"
+   },
+   "description": {
+    "en": "The fortress of Klis above Split, defended for years by Captain Petar Kružić and his Uskoks, fell to the Ottomans in March 1537 after a long siege; Kružić was killed during a failed relief attempt. Its loss completed the Ottoman conquest of the Dalmatian hinterland, and the surviving Uskoks moved to Senj, from where they raided Ottoman and Venetian shipping.",
+    "ko": "스플리트 위쪽의 클리스 요새는 여러 해 동안 페타르 크루지치 대장과 그의 우스코크들이 지켰으나, 긴 포위 끝에 1537년 3월 오스만에 함락되었다. 크루지치는 구원 시도가 실패하는 과정에서 전사했다. 이 함락으로 달마티아 내륙에 대한 오스만의 정복이 완성되었고, 살아남은 우스코크들은 세니로 옮겨 오스만과 베네치아의 선박을 습격했다.",
+    "zh": "斯普利特上方的克利斯要塞由彼得·克鲁日奇队长及其乌斯科克战士坚守多年，经长期围困后于1537年3月被奥斯曼人攻陷，克鲁日奇在一次失败的救援行动中阵亡。克利斯的失守标志着奥斯曼对达尔马提亚内陆的征服完成，幸存的乌斯科克人迁往塞尼，从那里袭击奥斯曼和威尼斯的船只。",
+    "ja": "スプリトの上手にあるクリス要塞は、ペタル・クルジッチ隊長とそのウスコクたちが長年守っていたが、長い包囲の末1537年3月にオスマンに陥落した。クルジッチは救援の試みが失敗する中で戦死した。この陥落でダルマチア内陸のオスマンによる征服が完成し、生き残ったウスコクはセニに移ってオスマンやヴェネツィアの船を襲った。"
+   }
+  },
+  {
+   "year": 1573,
+   "qid": "Q20437661",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Croatian-Slovene Peasant Revolt and Matija Gubec",
+    "ko": "크로아티아-슬로베니아 농민 반란과 마티야 구베츠",
+    "zh": "克罗地亚-斯洛文尼亚农民起义与马蒂亚·古贝茨",
+    "ja": "クロアチア＝スロヴェニア農民反乱とマティヤ・グベツ"
+   },
+   "description": {
+    "en": "Provoked by the harsh treatment of the lord Franjo Tahy, serfs in Hrvatsko Zagorje and neighbouring Slovene lands rose in revolt in early 1573. The peasant army was crushed at Stubica on 9 February 1573, and its leader Matija Gubec was executed in Zagreb; he later became a symbol of social justice in Croatian culture.",
+    "ko": "영주 프라뇨 타히의 가혹한 처우에 분노한 흐르바츠코자고레와 인근 슬로베니아 지역의 농노들이 1573년 초 봉기했다. 농민군은 1573년 2월 9일 스투비차에서 진압되었고 지도자 마티야 구베츠는 자그레브에서 처형되었다. 그는 훗날 크로아티아 문화에서 사회 정의의 상징이 되었다.",
+    "zh": "因领主弗拉尼奥·塔希的苛待，赫尔瓦茨科扎戈列及邻近斯洛文尼亚地区的农奴于1573年初起义。农民军于1573年2月9日在斯图比察被镇压，领袖马蒂亚·古贝茨在萨格勒布被处决；他后来成为克罗地亚文化中社会正义的象征。",
+    "ja": "領主フラニョ・タヒの過酷な扱いに憤ったフルヴァツコ・ザゴリェと近隣スロヴェニア地方の農奴が1573年初めに蜂起した。農民軍は1573年2月9日にストゥビツァで鎮圧され、指導者マティヤ・グベツはザグレブで処刑された。彼はのちにクロアチア文化における社会正義の象徴となった。"
+   }
+  },
+  {
+   "year": 1578,
+   "qid": "Q7510063",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Last stand at Gvozdansko",
+    "ko": "그보즈단스코의 최후 항전",
+    "zh": "格沃兹丹斯科的最后坚守",
+    "ja": "グヴォズダンスコの最後の抵抗"
+   },
+   "description": {
+    "en": "The small fortress of Gvozdansko, defended by miners and soldiers, held out against a large Ottoman army through the winter of 1577–1578. When it finally fell in January 1578, the Ottomans found that the defenders had died of cold, hunger and wounds rather than surrender, and the siege became a celebrated symbol of Croatian resistance.",
+    "ko": "광부와 병사들이 지킨 작은 요새 그보즈단스코는 1577~1578년 겨울 내내 오스만 대군에 맞서 버텼다. 1578년 1월 마침내 함락되었을 때 오스만군은 수비대가 항복 대신 추위와 굶주림, 부상으로 죽어 있었음을 발견했고, 이 포위전은 크로아티아 저항의 상징으로 기려지게 되었다.",
+    "zh": "由矿工和士兵守卫的小要塞格沃兹丹斯科在1577年至1578年的冬季顶住了奥斯曼大军的进攻。1578年1月要塞最终陷落时，奥斯曼人发现守军宁死不降，已因寒冷、饥饿和伤病而死，这场围城战成为克罗地亚抵抗精神的著名象征。",
+    "ja": "鉱夫と兵士が守った小さな要塞グヴォズダンスコは、1577〜1578年の冬を通してオスマンの大軍に抵抗した。1578年1月についに陥落したとき、オスマン軍は守備兵が降伏せず寒さと飢えと傷で死んでいたのを見いだし、この包囲戦はクロアチアの抵抗の象徴として讃えられるようになった。"
+   }
+  },
+  {
+   "year": 1579,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Karlovac and the Military Frontier",
+    "ko": "카를로바츠 건설과 군정 국경지대",
+    "zh": "卡尔洛瓦茨建城与军事边疆区",
+    "ja": "カルロヴァツの建設と軍政国境地帯"
+   },
+   "description": {
+    "en": "On 13 July 1579 construction began on Karlovac, a planned six-pointed star fortress named after Archduke Charles of Austria, who commanded the Croatian frontier. It became the headquarters of the Military Frontier, a defensive belt under direct Habsburg military administration whose settlers served as soldier-farmers in exchange for land and privileges.",
+    "ko": "1579년 7월 13일 크로아티아 국경 방어를 지휘한 오스트리아 대공 카를의 이름을 딴 계획 도시이자 육각 별 모양 요새인 카를로바츠의 건설이 시작되었다. 이곳은 합스부르크의 직접 군사 행정 아래 있던 방어 지대인 군정 국경지대의 본부가 되었으며, 그곳 정착민들은 토지와 특권을 받는 대가로 병농으로 복무했다.",
+    "zh": "1579年7月13日，以统辖克罗地亚边疆的奥地利大公卡尔命名的规划城市、六角星形要塞卡尔洛瓦茨开始兴建。它成为军事边疆区的指挥中心，这一防御地带由哈布斯堡直接实行军事管理，当地移民以服兵役换取土地和特权，充当屯田兵。",
+    "ja": "1579年7月13日、クロアチア国境防衛を指揮したオーストリア大公カールにちなむ計画都市で六芒星形の要塞カルロヴァツの建設が始まった。ここはハプスブルクの直接軍政下にある防衛地帯、軍政国境地帯の本部となり、入植者は土地と特権と引き換えに屯田兵として仕えた。"
+   }
+  },
+  {
+   "year": 1593,
+   "qid": "Q701335",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Sisak",
+    "ko": "시사크 전투",
+    "zh": "锡萨克之战",
+    "ja": "シサクの戦い"
+   },
+   "description": {
+    "en": "On 22 June 1593 a Habsburg-Croatian army, including forces under Ban Toma Erdődy, routed the Ottoman army of Hasan Pasha Predojević besieging Sisak at the confluence of the Kupa and Sava. The pasha was killed, the Ottoman advance into central Croatia was halted, and the battle triggered the Long Turkish War (1593–1606).",
+    "ko": "1593년 6월 22일 반 토마 에르되디의 병력을 포함한 합스부르크-크로아티아군이 쿠파강과 사바강의 합류점에 있는 시사크를 포위한 하산 파샤 프레도예비치의 오스만군을 격파했다. 파샤는 전사했고 크로아티아 중부로의 오스만 진격은 저지되었으며, 이 전투는 장기 튀르크 전쟁(1593~1606)의 도화선이 되었다.",
+    "zh": "1593年6月22日，包括总督托马·埃尔德迪所部在内的哈布斯堡-克罗地亚联军，击溃了围攻位于库帕河与萨瓦河交汇处的锡萨克的哈桑帕夏·普雷多耶维奇所率奥斯曼军队。帕夏阵亡，奥斯曼向克罗地亚中部的推进被遏止，这场战役也引发了长期土耳其战争（1593—1606年）。",
+    "ja": "1593年6月22日、バンのトマ・エルデーディの軍を含むハプスブルク＝クロアチア軍が、クパ川とサヴァ川の合流点にあるシサクを包囲していたハサン・パシャ・プレドイェヴィッチのオスマン軍を撃破した。パシャは戦死し、クロアチア中部へのオスマンの進撃は阻止され、この戦いは長期トルコ戦争（1593〜1606年）の引き金となった。"
+   }
+  },
+  {
+   "year": 1617,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Uskok War ends with the removal of the Senj Uskoks",
+    "ko": "우스코크 전쟁 종결과 세니 우스코크의 이주",
+    "zh": "乌斯科克战争结束，塞尼的乌斯科克人被迁走",
+    "ja": "ウスコク戦争の終結とセニのウスコクの移住"
+   },
+   "description": {
+    "en": "Raids by the Uskoks of Senj on Venetian and Ottoman shipping provoked the Uskok War between Venice and Archduke Ferdinand of Austria from 1615. Peace negotiated in 1617 and implemented in 1618 required the Habsburgs to resettle the Uskoks away from the coast, ending their century-long role as Adriatic raiders.",
+    "ko": "세니의 우스코크들이 베네치아와 오스만 선박을 습격하자 1615년부터 베네치아와 오스트리아 대공 페르디난트 사이에 우스코크 전쟁이 벌어졌다. 1617년 협상되어 1618년 시행된 강화로 합스부르크는 우스코크들을 해안에서 떨어진 곳으로 이주시켜야 했고, 아드리아해 습격자로서 그들의 한 세기에 걸친 역할은 끝났다.",
+    "zh": "塞尼的乌斯科克人袭击威尼斯和奥斯曼船只，引发了1615年起威尼斯与奥地利大公斐迪南之间的乌斯科克战争。1617年议定、1618年执行的和约要求哈布斯堡将乌斯科克人迁离沿海，终结了他们作为亚得里亚海袭掠者长达一个世纪的角色。",
+    "ja": "セニのウスコクによるヴェネツィアやオスマンの船への襲撃は、1615年からヴェネツィアとオーストリア大公フェルディナントの間のウスコク戦争を引き起こした。1617年に交渉され1618年に実施された講和により、ハプスブルクはウスコクを沿岸から離れた地へ移住させることになり、アドリア海の襲撃者としての彼らの1世紀にわたる役割は終わった。"
+   }
+  },
+  {
+   "year": 1630,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Statuta Valachorum grants rights to frontier settlers",
+    "ko": "블라흐 법령, 국경 정착민에게 권리 부여",
+    "zh": "《弗拉赫人法令》赋予边疆移民权利",
+    "ja": "ヴラフ法令が国境入植者に権利を付与"
+   },
+   "description": {
+    "en": "In 1630 Emperor Ferdinand II issued the Statuta Valachorum, granting the largely Orthodox Vlach and Serb settlers of the Military Frontier self-government, freedom from feudal obligations and land in return for military service. The charter removed them from the authority of the Croatian nobility and Sabor, a lasting source of tension between Vienna and the Croatian estates.",
+    "ko": "1630년 페르디난트 2세 황제는 '블라흐 법령'을 반포해, 대부분 정교회 신자인 군정 국경지대의 블라흐인과 세르비아인 정착민에게 군역의 대가로 자치권, 봉건적 의무로부터의 자유, 토지를 보장했다. 이 법령은 그들을 크로아티아 귀족과 사보르의 권한 밖에 두었고, 빈과 크로아티아 신분층 사이 오랜 긴장의 원인이 되었다.",
+    "zh": "1630年，皇帝斐迪南二世颁布《弗拉赫人法令》，以服兵役为条件，赋予军事边疆区中多信奉东正教的弗拉赫人和塞尔维亚人移民自治权、免除封建义务并授予土地。该法令使他们脱离克罗地亚贵族和议会的管辖，成为维也纳与克罗地亚等级会议之间长期紧张关系的根源。",
+    "ja": "1630年、皇帝フェルディナント2世は「ヴラフ法令」を発布し、主に正教徒である軍政国境地帯のヴラフ人やセルビア人入植者に、兵役と引き換えに自治、封建的義務からの解放、土地を保障した。この法令は彼らをクロアチア貴族とサボルの権限外に置き、ウィーンとクロアチア諸身分との間の長い緊張の原因となった。"
+   }
+  },
+  {
+   "year": 1667,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Great Dubrovnik earthquake",
+    "ko": "두브로브니크 대지진",
+    "zh": "杜布罗夫尼克大地震",
+    "ja": "ドゥブロヴニク大地震"
+   },
+   "description": {
+    "en": "On 6 April 1667 a powerful earthquake and the fires that followed devastated Dubrovnik, killing thousands of people, including the rector of the republic, and destroying most of its Gothic and Renaissance buildings. The city was rebuilt largely in Baroque style, but the disaster accelerated the decline of the Republic of Ragusa.",
+    "ko": "1667년 4월 6일 강력한 지진과 뒤이은 화재가 두브로브니크를 휩쓸어 공화국 수장인 렉터를 포함해 수천 명이 목숨을 잃었고, 고딕·르네상스 건물 대부분이 파괴되었다. 도시는 주로 바로크 양식으로 재건되었지만, 이 재난은 라구사 공화국의 쇠퇴를 앞당겼다.",
+    "zh": "1667年4月6日，一场强烈地震及随之而来的大火摧毁了杜布罗夫尼克，包括共和国执政官在内的数千人遇难，大部分哥特式和文艺复兴建筑被毁。城市主要以巴洛克风格重建，但这场灾难加速了拉古萨共和国的衰落。",
+    "ja": "1667年4月6日、強い地震とそれに続く火災がドゥブロヴニクを襲い、共和国の元首（レクトル）を含む数千人が死亡し、ゴシック・ルネサンス様式の建物の大半が破壊された。町は主にバロック様式で再建されたが、この災害はラグサ共和国の衰退を早めた。"
+   }
+  },
+  {
+   "year": 1669,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Jesuit Academy in Zagreb, forerunner of the university",
+    "ko": "자그레브 예수회 학술원, 대학의 전신",
+    "zh": "萨格勒布耶稣会学院——大学的前身",
+    "ja": "ザグレブのイエズス会学院、大学の前身"
+   },
+   "description": {
+    "en": "On 23 September 1669 Emperor Leopold I granted the Jesuit academy in Zagreb the status and privileges of a university-level institution. The University of Zagreb counts this date as its founding, making it one of the oldest continuously operating universities in southeastern Europe.",
+    "ko": "1669년 9월 23일 레오폴트 1세 황제는 자그레브의 예수회 학술원에 대학 수준 기관의 지위와 특권을 부여했다. 자그레브 대학교는 이 날을 창립일로 삼고 있으며, 남동유럽에서 가장 오래 이어져 온 대학 가운데 하나이다.",
+    "zh": "1669年9月23日，皇帝利奥波德一世授予萨格勒布耶稣会学院大学级别机构的地位和特权。萨格勒布大学以此日为建校日，是东南欧历史最悠久、持续办学的大学之一。",
+    "ja": "1669年9月23日、皇帝レオポルト1世はザグレブのイエズス会学院に大学相当の機関としての地位と特権を与えた。ザグレブ大学はこの日を創立日としており、南東ヨーロッパで最も古くから続く大学の一つである。"
+   }
+  },
+  {
+   "year": 1671,
+   "qid": "Q255006",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Execution of Zrinski and Frankopan",
+    "ko": "즈린스키와 프랑코판의 처형",
+    "zh": "兹林斯基与弗兰科潘被处决",
+    "ja": "ズリンスキとフランコパンの処刑"
+   },
+   "description": {
+    "en": "Croatian and Hungarian magnates, angered by the Habsburgs' unfavourable Peace of Vasvár with the Ottomans and by growing absolutism, plotted against Emperor Leopold I. The conspiracy was discovered, and on 30 April 1671 Ban Petar Zrinski and his brother-in-law Fran Krsto Frankopan were beheaded in Wiener Neustadt; their estates were confiscated, ending the power of Croatia's two greatest noble families.",
+    "ko": "합스부르크가 오스만과 맺은 불리한 버슈바르 강화와 강화되는 절대주의에 분노한 크로아티아·헝가리 대귀족들은 레오폴트 1세에 맞서 음모를 꾸몄다. 음모가 발각되어 1671년 4월 30일 반 페타르 즈린스키와 그의 처남 프란 크르스토 프랑코판이 비너노이슈타트에서 참수되었고, 영지가 몰수되면서 크로아티아 최대의 두 귀족 가문의 권세는 끝났다.",
+    "zh": "克罗地亚和匈牙利大贵族不满哈布斯堡与奥斯曼签订的不利的瓦什堡和约以及日益加强的专制统治，密谋反对皇帝利奥波德一世。阴谋败露后，总督彼得·兹林斯基及其内弟弗兰·克尔斯托·弗兰科潘于1671年4月30日在维也纳新城被斩首，其领地被没收，克罗地亚两大贵族家族的权势就此终结。",
+    "ja": "ハプスブルクがオスマンと結んだ不利なヴァシュヴァール和約と強まる絶対主義に憤ったクロアチアとハンガリーの大貴族は、皇帝レオポルト1世に対する陰謀を企てた。陰謀は発覚し、1671年4月30日、バンのペタル・ズリンスキとその義弟フラン・クルスト・フランコパンはウィーナー・ノイシュタットで斬首され、所領は没収されて、クロアチア最大の二つの貴族家の権勢は終わった。"
+   }
+  },
+  {
+   "year": 1699,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Karlowitz liberates Slavonia",
+    "ko": "카를로비츠 조약과 슬라보니아 해방",
+    "zh": "卡尔洛维茨条约收复斯拉沃尼亚",
+    "ja": "カルロヴィッツ条約とスラヴォニアの解放"
+   },
+   "description": {
+    "en": "The Great Turkish War that followed the failed Ottoman siege of Vienna in 1683 ended with the Treaty of Karlowitz on 26 January 1699. The Habsburgs regained Slavonia and most of Lika, and Venice extended its Dalmatian territory inland to Knin and Sinj, roughly creating the outline of modern Croatia's territory.",
+    "ko": "1683년 오스만의 빈 포위가 실패한 뒤 이어진 대튀르크 전쟁은 1699년 1월 26일 카를로비츠 조약으로 끝났다. 합스부르크는 슬라보니아와 리카 대부분을 되찾았고, 베네치아는 달마티아 영토를 내륙의 크닌과 시니까지 넓혀 대체로 오늘날 크로아티아 영토의 윤곽이 만들어졌다.",
+    "zh": "1683年奥斯曼围攻维也纳失败后爆发的大土耳其战争，以1699年1月26日的卡尔洛维茨条约告终。哈布斯堡收复了斯拉沃尼亚和利卡的大部分，威尼斯则将其达尔马提亚领土向内陆扩展至克宁和辛杰，大体形成了今日克罗地亚领土的轮廓。",
+    "ja": "1683年のオスマンによるウィーン包囲の失敗に続く大トルコ戦争は、1699年1月26日のカルロヴィッツ条約で終わった。ハプスブルクはスラヴォニアとリカの大部分を回復し、ヴェネツィアはダルマチア領を内陸のクニンとシニまで広げ、ほぼ現在のクロアチア領土の輪郭ができあがった。"
+   }
+  },
+  {
+   "year": 1712,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Croatian Pragmatic Sanction",
+    "ko": "크로아티아 국사 조칙",
+    "zh": "克罗地亚国事诏书",
+    "ja": "クロアチアの国事詔書"
+   },
+   "description": {
+    "en": "In 1712 the Croatian Sabor independently accepted the possibility of female succession to the Habsburg throne, a year before Emperor Charles VI proclaimed his own Pragmatic Sanction. Croatian politicians later cited the decision as evidence of Croatia's separate statehood within the Habsburg Monarchy.",
+    "ko": "1712년 크로아티아 사보르는 카를 6세 황제가 국사 조칙을 공포하기 1년 앞서 합스부르크 왕위의 여성 계승 가능성을 독자적으로 받아들였다. 훗날 크로아티아 정치인들은 이 결정을 합스부르크 군주국 안에서 크로아티아가 별개의 국가였음을 보여주는 증거로 내세웠다.",
+    "zh": "1712年，克罗地亚议会在皇帝查理六世颁布本人的《国事诏书》前一年，独立接受了哈布斯堡王位由女性继承的可能性。后来克罗地亚政治家常以此决定作为克罗地亚在哈布斯堡君主国内拥有独立国家地位的证据。",
+    "ja": "1712年、クロアチアのサボルは、皇帝カール6世が自らの国事詔書を公布する1年前に、ハプスブルク王位の女系継承の可能性を独自に受け入れた。のちにクロアチアの政治家はこの決定を、ハプスブルク君主国内でクロアチアが独自の国家であった証拠として挙げた。"
+   }
+  },
+  {
+   "year": 1750,
+   "qid": "Q104670803",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Rijeka earthquake",
+    "ko": "리예카 지진",
+    "zh": "里耶卡地震",
+    "ja": "リエカ地震"
+   },
+   "description": {
+    "en": "In December 1750 a strong earthquake struck Rijeka, then a growing Habsburg port, damaging much of the old town. The reconstruction that followed, together with Rijeka's status as a free port granted in 1719, contributed to the city's transformation into a modern commercial centre.",
+    "ko": "1750년 12월 당시 성장하던 합스부르크의 항구 리예카에 강한 지진이 일어나 구시가지 상당 부분이 피해를 입었다. 뒤이은 재건은 1719년 부여된 자유항 지위와 함께 도시가 근대적 상업 중심지로 탈바꿈하는 데 기여했다.",
+    "zh": "1750年12月，当时正在发展中的哈布斯堡港口里耶卡发生强烈地震，老城大部分受损。随后的重建与1719年授予的自由港地位一道，推动该城转变为现代商业中心。",
+    "ja": "1750年12月、当時発展しつつあったハプスブルクの港リエカを強い地震が襲い、旧市街の大部分が被害を受けた。その後の再建は、1719年に与えられた自由港の地位とともに、町が近代的な商業中心地へと変貌するのに寄与した。"
+   }
+  },
+  {
+   "year": 1767,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Maria Theresa establishes the Croatian Royal Council",
+    "ko": "마리아 테레지아의 크로아티아 왕립 평의회 설치",
+    "zh": "玛丽亚·特蕾莎设立克罗地亚王室议事会",
+    "ja": "マリア・テレジアがクロアチア王国評議会を設置"
+   },
+   "description": {
+    "en": "In 1767 Empress Maria Theresa established the Croatian Royal Council in Varaždin, a governing body for Croatia that reported directly to the monarch rather than through Hungary. It promoted economic and administrative reforms but reduced the role of the Sabor, and it was abolished in 1779, when Croatian affairs were transferred to the Hungarian Council of Lieutenancy.",
+    "ko": "1767년 마리아 테레지아 여제는 바라주딘에 헝가리를 거치지 않고 군주에게 직접 보고하는 크로아티아 통치 기구인 크로아티아 왕립 평의회를 설치했다. 평의회는 경제·행정 개혁을 추진했으나 사보르의 역할을 줄였으며, 1779년 폐지되어 크로아티아 업무는 헝가리 총독 평의회로 넘어갔다.",
+    "zh": "1767年，女皇玛丽亚·特蕾莎在瓦拉日丁设立克罗地亚王室议事会，作为直接向君主而非经由匈牙利汇报的克罗地亚管理机构。它推动了经济和行政改革，但削弱了议会的作用；1779年被撤销，克罗地亚事务转由匈牙利总督府管辖。",
+    "ja": "1767年、女帝マリア・テレジアはヴァラジュディンに、ハンガリーを介さず君主に直接報告するクロアチアの統治機関としてクロアチア王国評議会を設置した。評議会は経済・行政改革を推進したがサボルの役割を縮小し、1779年に廃止されてクロアチアの事務はハンガリー総督府に移された。"
+   }
+  },
+  {
+   "year": 1797,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fall of Venice: Dalmatia and Istria pass to Austria",
+    "ko": "베네치아 멸망과 달마티아·이스트라의 오스트리아 귀속",
+    "zh": "威尼斯灭亡，达尔马提亚与伊斯特拉归奥地利",
+    "ja": "ヴェネツィア滅亡とダルマチア・イストラのオーストリア帰属"
+   },
+   "description": {
+    "en": "Napoleon's campaign in Italy ended the Republic of Venice in 1797, and the Treaty of Campo Formio in October assigned Venetian Istria and Dalmatia to Austria. For the first time in centuries most of the Croatian lands, apart from Dubrovnik, were under a single ruler, the Habsburg emperor.",
+    "ko": "나폴레옹의 이탈리아 원정으로 1797년 베네치아 공화국이 멸망했고, 같은 해 10월 캄포포르미오 조약으로 베네치아령 이스트라와 달마티아는 오스트리아에 넘어갔다. 수 세기 만에 처음으로 두브로브니크를 제외한 크로아티아 땅 대부분이 합스부르크 황제라는 단일 군주 아래 놓였다.",
+    "zh": "拿破仑的意大利战役于1797年终结了威尼斯共和国，同年10月的坎波福尔米奥条约将威尼斯的伊斯特拉和达尔马提亚划归奥地利。数百年来第一次，除杜布罗夫尼克外的大部分克罗地亚土地处于同一君主——哈布斯堡皇帝的统治之下。",
+    "ja": "ナポレオンのイタリア遠征により1797年にヴェネツィア共和国は滅亡し、同年10月のカンポ・フォルミオ条約でヴェネツィア領イストラとダルマチアはオーストリアに帰属した。数世紀ぶりに、ドゥブロヴニクを除くクロアチアの地の大部分がハプスブルク皇帝という単一の君主のもとに置かれた。"
+   }
+  },
+  {
+   "year": 1806,
+   "qid": "Q18199199",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "French occupy Dubrovnik and the siege of 1806",
+    "ko": "프랑스군의 두브로브니크 점령과 1806년 포위전",
+    "zh": "法军占领杜布罗夫尼克与1806年之围",
+    "ja": "フランス軍のドゥブロヴニク占領と1806年の包囲"
+   },
+   "description": {
+    "en": "In May 1806 French troops under General Lauriston entered neutral Dubrovnik to forestall the Russians. Russian and Montenegrin forces then besieged the city and burned its surroundings until French reinforcements lifted the siege in July, leaving the republic under French control.",
+    "ko": "1806년 5월 로리스통 장군이 이끄는 프랑스군은 러시아군보다 먼저 자리를 잡으려 중립국 두브로브니크에 진입했다. 이어 러시아군과 몬테네그로군이 도시를 포위하고 주변을 불태웠으나, 7월 프랑스 증원군이 포위를 풀었고 공화국은 프랑스의 통제 아래 남았다.",
+    "zh": "1806年5月，洛里斯东将军率领的法军为抢在俄军之前而进入中立的杜布罗夫尼克。随后俄国和黑山军队围困该城并焚烧周边地区，直到7月法国援军解围，共和国从此处于法国控制之下。",
+    "ja": "1806年5月、ロリストン将軍率いるフランス軍はロシア軍に先んじるため中立のドゥブロヴニクに進駐した。続いてロシア軍とモンテネグロ軍が町を包囲して周辺を焼き払ったが、7月にフランスの増援軍が包囲を解き、共和国はフランスの支配下に置かれた。"
+   }
+  },
+  {
+   "year": 1808,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Marmont abolishes the Republic of Ragusa",
+    "ko": "마르몽, 라구사 공화국을 폐지하다",
+    "zh": "马尔蒙废除拉古萨共和国",
+    "ja": "マルモンがラグサ共和国を廃止"
+   },
+   "description": {
+    "en": "On 31 January 1808 the French general Auguste Marmont, commander in Dalmatia, formally dissolved the Republic of Ragusa, ending more than four centuries of independence. Its territory was attached to Napoleon's Kingdom of Italy and then to the Illyrian Provinces, and after 1815 it became part of Austrian Dalmatia.",
+    "ko": "1808년 1월 31일 달마티아 사령관이던 프랑스 장군 오귀스트 마르몽은 라구사 공화국을 공식 해체해 4세기 넘게 이어진 독립을 끝냈다. 그 영토는 나폴레옹의 이탈리아 왕국에, 이어 일리리아 주에 편입되었고 1815년 이후에는 오스트리아령 달마티아의 일부가 되었다.",
+    "zh": "1808年1月31日，驻达尔马提亚的法国将军奥古斯特·马尔蒙正式解散拉古萨共和国，结束了其四百多年的独立。其领土先并入拿破仑的意大利王国，继而归入伊利里亚行省，1815年后成为奥属达尔马提亚的一部分。",
+    "ja": "1808年1月31日、ダルマチア司令官のフランス将軍オーギュスト・マルモンはラグサ共和国を正式に解体し、4世紀以上続いた独立に終止符を打った。その領土はナポレオンのイタリア王国に、次いでイリュリア州に編入され、1815年以後はオーストリア領ダルマチアの一部となった。"
+   }
+  },
+  {
+   "year": 1809,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Creation of the Illyrian Provinces",
+    "ko": "일리리아 주의 성립",
+    "zh": "伊利里亚行省成立",
+    "ja": "イリュリア州の成立"
+   },
+   "description": {
+    "en": "After defeating Austria, Napoleon took Istria, Dalmatia, Dubrovnik and Croatian lands south of the Sava under the Treaty of Schönbrunn in October 1809 and organized them, with Slovene lands, as the Illyrian Provinces with their capital at Ljubljana. Marmont's administration built roads, introduced French law and schools, and the 'Illyrian' identity later inspired Croatian national awakeners.",
+    "ko": "오스트리아를 꺾은 나폴레옹은 1809년 10월 쇤브룬 조약으로 이스트라·달마티아·두브로브니크와 사바강 이남 크로아티아 땅을 손에 넣고, 슬로베니아 지역과 함께 류블랴나를 수도로 하는 일리리아 주로 편성했다. 마르몽의 행정부는 도로를 놓고 프랑스 법과 학교를 도입했으며, '일리리아' 정체성은 훗날 크로아티아 민족 각성 운동가들에게 영감을 주었다.",
+    "zh": "击败奥地利后，拿破仑根据1809年10月的申布伦条约取得伊斯特拉、达尔马提亚、杜布罗夫尼克以及萨瓦河以南的克罗地亚土地，并将其与斯洛文尼亚地区一起组建为以卢布尔雅那为首府的伊利里亚行省。马尔蒙的行政当局修筑道路、引入法国法律和学校，“伊利里亚”认同后来激励了克罗地亚民族觉醒者。",
+    "ja": "オーストリアを破ったナポレオンは、1809年10月のシェーンブルン条約でイストラ、ダルマチア、ドゥブロヴニク、サヴァ川以南のクロアチアの地を獲得し、スロヴェニア地方とともにリュブリャナを首都とするイリュリア州に編成した。マルモンの行政は道路を建設し、フランスの法と学校を導入した。「イリュリア」のアイデンティティはのちにクロアチアの民族覚醒者たちを鼓舞した。"
+   }
+  },
+  {
+   "year": 1813,
+   "qid": "Q16115925",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Austria retakes Dalmatia",
+    "ko": "오스트리아의 달마티아 탈환",
+    "zh": "奥地利收复达尔马提亚",
+    "ja": "オーストリアがダルマチアを奪回"
+   },
+   "description": {
+    "en": "As Napoleon's empire collapsed in 1813, Austrian forces, supported by the British navy and local uprisings, retook the Illyrian Provinces. Zadar surrendered after a siege in December 1813 and Dubrovnik in January 1814, and the Congress of Vienna in 1815 confirmed Austrian rule over Dalmatia, including the former Ragusan territory.",
+    "ko": "1813년 나폴레옹 제국이 무너지자 오스트리아군은 영국 해군과 현지 봉기의 지원을 받아 일리리아 주를 되찾았다. 자다르는 1813년 12월 포위 끝에, 두브로브니크는 1814년 1월 항복했으며, 1815년 빈 회의는 옛 라구사 영토를 포함한 달마티아에 대한 오스트리아의 지배를 확정했다.",
+    "zh": "1813年拿破仑帝国崩溃之际，奥地利军队在英国海军和当地起义的支持下收复了伊利里亚行省。扎达尔经围困于1813年12月投降，杜布罗夫尼克于1814年1月投降，1815年维也纳会议确认奥地利对包括原拉古萨领土在内的达尔马提亚的统治。",
+    "ja": "1813年にナポレオン帝国が崩壊すると、オーストリア軍はイギリス海軍と現地の蜂起に支えられてイリュリア州を奪回した。ザダルは1813年12月に包囲の末降伏し、ドゥブロヴニクは1814年1月に降伏した。1815年のウィーン会議は、旧ラグサ領を含むダルマチアに対するオーストリアの支配を確定した。"
+   }
+  },
+  {
+   "year": 1835,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Ljudevit Gaj launches the Illyrian movement's newspapers",
+    "ko": "류데비트 가이, 일리리아 운동의 신문 창간",
+    "zh": "柳德维特·盖伊创办伊利里亚运动报刊",
+    "ja": "リュデヴィト・ガイがイリュリア運動の新聞を創刊"
+   },
+   "description": {
+    "en": "In 1835 Ljudevit Gaj began publishing Novine Horvatske with its literary supplement Danica in Zagreb, soon written in the Štokavian dialect and his reformed Latin orthography. The Illyrian movement promoted a common literary language for the South Slavs and resisted Magyarization, laying the foundations of modern standard Croatian.",
+    "ko": "1835년 류데비트 가이는 자그레브에서 『노비네 호르바츠케』와 문예 부록 『다니차』를 창간했는데, 이 신문들은 곧 슈토카비아 방언과 그가 개혁한 라틴 문자 정서법으로 쓰였다. 일리리아 운동은 남슬라브인의 공통 문어를 장려하고 마자르화에 저항하며 현대 표준 크로아티아어의 토대를 놓았다.",
+    "zh": "1835年，柳德维特·盖伊在萨格勒布创办《克罗地亚新闻》及其文学副刊《晨星》，不久即采用什托卡维方言和他改革后的拉丁字母正字法。伊利里亚运动倡导南斯拉夫人的共同书面语并抵制马扎尔化，为现代标准克罗地亚语奠定了基础。",
+    "ja": "1835年、リュデヴィト・ガイはザグレブで『ノヴィネ・ホルヴァツケ』とその文芸付録『ダニツァ』を創刊し、これらはまもなくシュトカヴィ方言と彼が改革したラテン文字正書法で書かれるようになった。イリュリア運動は南スラヴ人の共通文章語を推進しマジャル化に抵抗して、現代標準クロアチア語の基礎を築いた。"
+   }
+  },
+  {
+   "year": 1847,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Croatian becomes the official language",
+    "ko": "크로아티아어, 공용어가 되다",
+    "zh": "克罗地亚语成为官方语言",
+    "ja": "クロアチア語が公用語に"
+   },
+   "description": {
+    "en": "On 23 October 1847 the Croatian Sabor, on a proposal by Ivan Kukuljević Sakcinski, who had earlier given the first parliamentary speech in Croatian, declared Croatian the official language in place of Latin. The decision was a landmark of the national revival and a response to Hungarian demands to introduce Magyar.",
+    "ko": "1847년 10월 23일 크로아티아 사보르는 앞서 의회에서 처음 크로아티아어로 연설한 이반 쿠쿨레비치 삭친스키의 제안에 따라 라틴어 대신 크로아티아어를 공용어로 선언했다. 이 결정은 민족 부흥의 이정표이자 마자르어 도입을 요구하는 헝가리에 대한 대응이었다.",
+    "zh": "1847年10月23日，克罗地亚议会根据曾首次在议会用克罗地亚语发表演说的伊万·库库列维奇·萨克钦斯基的提议，宣布以克罗地亚语取代拉丁语作为官方语言。这一决定是民族复兴的里程碑，也是对匈牙利要求推行马扎尔语的回应。",
+    "ja": "1847年10月23日、クロアチアのサボルは、かつて議会で初めてクロアチア語で演説したイヴァン・ククリェヴィッチ・サクツィンスキの提案に基づき、ラテン語に代えてクロアチア語を公用語とすることを宣言した。この決定は民族再生の画期であり、マジャル語導入を求めるハンガリーへの応答でもあった。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ban Jelačić and the revolution of 1848",
+    "ko": "옐라치치 반과 1848년 혁명",
+    "zh": "耶拉契奇总督与1848年革命",
+    "ja": "バンのイェラチッチと1848年革命"
+   },
+   "description": {
+    "en": "Amid the revolutions of 1848, Ban Josip Jelačić abolished serfdom in Croatia, convened an elected Sabor and broke off relations with the revolutionary Hungarian government. He led an army against Hungary in support of the Habsburgs, and although Croatia gained little from the subsequent neo-absolutism, Jelačić became an enduring symbol of Croatian national assertion, commemorated on Zagreb's main square.",
+    "ko": "1848년 혁명의 와중에 반 요시프 옐라치치는 크로아티아의 농노제를 폐지하고 선출된 사보르를 소집했으며, 혁명적 헝가리 정부와 관계를 끊었다. 그는 합스부르크를 지지해 헝가리에 맞서 군대를 이끌었다. 뒤이은 신절대주의에서 크로아티아가 얻은 것은 적었지만, 옐라치치는 크로아티아 민족 자기주장의 지속적 상징이 되어 자그레브 중앙 광장에 기려지고 있다.",
+    "zh": "在1848年革命浪潮中，总督约西普·耶拉契奇在克罗地亚废除农奴制，召集选举产生的议会，并与革命的匈牙利政府断绝关系。他率军支持哈布斯堡、进攻匈牙利。尽管克罗地亚在随后的新专制主义中所获甚少，耶拉契奇仍成为克罗地亚民族自主的持久象征，萨格勒布中心广场即以他命名纪念。",
+    "ja": "1848年革命のさなか、バンのヨシプ・イェラチッチはクロアチアの農奴制を廃止し、選挙によるサボルを招集し、革命的なハンガリー政府と関係を断った。彼はハプスブルクを支持してハンガリーに対し軍を率いた。続く新絶対主義でクロアチアが得たものは少なかったが、イェラチッチはクロアチア民族の自己主張の不朽の象徴となり、ザグレブの中央広場に記念されている。"
+   }
+  },
+  {
+   "year": 1866,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Lissa (Vis)",
+    "ko": "리사(비스) 해전",
+    "zh": "利萨（维斯）海战",
+    "ja": "リッサ（ヴィス）海戦"
+   },
+   "description": {
+    "en": "On 20 July 1866, during the Austro-Prussian War, the Austrian fleet under Rear Admiral Wilhelm von Tegetthoff defeated a larger Italian fleet off the island of Vis. Many of the Austrian sailors came from Dalmatia and Istria; the battle was one of the first major engagements between ironclad warships and a notable use of ramming tactics.",
+    "ko": "1866년 7월 20일 프로이센-오스트리아 전쟁 중 빌헬름 폰 테게트호프 소장이 이끄는 오스트리아 함대가 비스섬 앞바다에서 더 큰 규모의 이탈리아 함대를 격파했다. 오스트리아 수병 상당수는 달마티아와 이스트라 출신이었으며, 이 해전은 철갑함 사이의 첫 대규모 교전 가운데 하나이자 충각 전술이 두드러지게 쓰인 사례였다.",
+    "zh": "1866年7月20日普奥战争期间，海军少将威廉·冯·特格特霍夫率领的奥地利舰队在维斯岛附近海域击败了规模更大的意大利舰队。许多奥地利水兵来自达尔马提亚和伊斯特拉；这是最早的大规模铁甲舰交战之一，也是撞击战术的著名战例。",
+    "ja": "1866年7月20日、普墺戦争中に、ヴィルヘルム・フォン・テゲトフ少将率いるオーストリア艦隊がヴィス島沖でより大きなイタリア艦隊を破った。オーストリアの水兵の多くはダルマチアとイストラ出身であった。この海戦は装甲艦同士の最初の大規模な交戦の一つであり、衝角戦法が目立って用いられた例でもある。"
+   }
+  },
+  {
+   "year": 1866,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Founding of the Yugoslav Academy of Sciences and Arts",
+    "ko": "유고슬라비아 학술예술원 설립",
+    "zh": "南斯拉夫科学与艺术院成立",
+    "ja": "ユーゴスラビア科学芸術アカデミーの設立"
+   },
+   "description": {
+    "en": "In 1866 the Yugoslav Academy of Sciences and Arts was established in Zagreb, largely through the efforts and funding of Bishop Josip Juraj Strossmayer of Đakovo, a leading proponent of South Slavic cultural unity. The historian Franjo Rački became its first president, and the institution was renamed the Croatian Academy of Sciences and Arts in 1991.",
+    "ko": "1866년 남슬라브 문화 통합의 대표적 주창자인 자코보의 주교 요시프 유라이 슈트로스마예르의 노력과 후원으로 자그레브에 유고슬라비아 학술예술원이 설립되었다. 역사가 프라뇨 라치키가 초대 원장이 되었으며, 이 기관은 1991년 크로아티아 학술예술원으로 개칭되었다.",
+    "zh": "1866年，主要在杰科沃主教约西普·尤拉伊·施特罗斯马耶尔（南斯拉夫文化统一的主要倡导者）的努力和资助下，南斯拉夫科学与艺术院在萨格勒布成立。历史学家弗拉尼奥·拉奇基出任首任院长，该机构于1991年更名为克罗地亚科学与艺术院。",
+    "ja": "1866年、南スラヴ文化統合の代表的な提唱者であるジャコヴォ司教ヨシプ・ユライ・シュトロスマイエルの尽力と資金によって、ザグレブにユーゴスラビア科学芸術アカデミーが設立された。歴史家フラニョ・ラチキが初代総裁となり、この機関は1991年にクロアチア科学芸術アカデミーと改称された。"
+   }
+  },
+  {
+   "year": 1868,
+   "qid": "Q533558",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Croatian–Hungarian Settlement (Nagodba)",
+    "ko": "크로아티아-헝가리 협약 (나고드바)",
+    "zh": "克罗地亚-匈牙利协定",
+    "ja": "クロアチア＝ハンガリー協約（ナゴドバ）"
+   },
+   "description": {
+    "en": "Following the Austro-Hungarian Compromise of 1867, the Croatian–Hungarian Settlement of 1868 defined Croatia-Slavonia as an autonomous kingdom within the Hungarian half of the monarchy. Croatia gained self-rule in internal affairs, justice, education and religion, and Croatian as its official language, but Budapest controlled finances and appointed the ban, and the question of Rijeka was settled in Hungary's favour.",
+    "ko": "1867년 오스트리아-헝가리 대타협에 이어 1868년 크로아티아-헝가리 협약은 크로아티아-슬라보니아를 제국의 헝가리 쪽에 속한 자치 왕국으로 규정했다. 크로아티아는 내정·사법·교육·종교의 자치와 크로아티아어 공용어 지위를 얻었으나, 재정은 부다페스트가 쥐고 반을 임명했으며 리예카 문제는 헝가리에 유리하게 처리되었다.",
+    "zh": "继1867年奥匈折衷方案之后，1868年的克罗地亚-匈牙利协定将克罗地亚-斯拉沃尼亚确定为君主国匈牙利部分内的自治王国。克罗地亚在内政、司法、教育和宗教方面获得自治，克罗地亚语为官方语言，但财政由布达佩斯掌控，总督亦由其任命，里耶卡问题的处理也有利于匈牙利。",
+    "ja": "1867年のオーストリア＝ハンガリー妥協に続き、1868年のクロアチア＝ハンガリー協約はクロアチア＝スラヴォニアを君主国のハンガリー側に属する自治王国と定めた。クロアチアは内政・司法・教育・宗教の自治とクロアチア語の公用語の地位を得たが、財政はブダペストが握ってバンを任命し、リエカ問題はハンガリーに有利に処理された。"
+   }
+  },
+  {
+   "year": 1871,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Rakovica revolt of Eugen Kvaternik",
+    "ko": "에우겐 크바테르니크의 라코비차 봉기",
+    "zh": "欧根·克瓦泰尔尼克的拉科维察起义",
+    "ja": "エウゲン・クヴァテルニクのラコヴィツァ蜂起"
+   },
+   "description": {
+    "en": "In October 1871 Eugen Kvaternik, co-founder with Ante Starčević of the Party of Rights, launched an uprising at Rakovica in the Military Frontier, aiming at an independent Croatia. The poorly prepared revolt was crushed within days and Kvaternik was killed, but it became a reference point for the Croatian independence tradition.",
+    "ko": "1871년 10월 안테 스타르체비치와 함께 권리당을 창당한 에우겐 크바테르니크는 독립 크로아티아를 목표로 군정 국경지대의 라코비차에서 봉기를 일으켰다. 준비가 부족했던 봉기는 며칠 만에 진압되고 크바테르니크는 살해되었지만, 크로아티아 독립 전통의 기준점이 되었다.",
+    "zh": "1871年10月，与安特·斯塔尔切维奇共同创建权利党的欧根·克瓦泰尔尼克在军事边疆区的拉科维察发动起义，目标是建立独立的克罗地亚。准备不足的起义数日内即被镇压，克瓦泰尔尼克遇害，但这次起义成为克罗地亚独立传统的一个参照点。",
+    "ja": "1871年10月、アンテ・スタルチェヴィッチとともに権利党を創設したエウゲン・クヴァテルニクは、独立クロアチアを目指して軍政国境地帯のラコヴィツァで蜂起した。準備不足の蜂起は数日で鎮圧されクヴァテルニクは殺害されたが、クロアチア独立の伝統における一つの基準点となった。"
+   }
+  },
+  {
+   "year": 1874,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Modern University of Zagreb opens",
+    "ko": "근대 자그레브 대학교 개교",
+    "zh": "现代萨格勒布大学开学",
+    "ja": "近代ザグレブ大学の開校"
+   },
+   "description": {
+    "en": "On 19 October 1874 the University of Zagreb was formally inaugurated as a modern university with faculties of law, theology and philosophy, building on the 17th-century Jesuit academy. Long championed by Bishop Strossmayer, it became the centre of Croatian intellectual life and the training ground of the national elite.",
+    "ko": "1874년 10월 19일 17세기 예수회 학술원을 바탕으로 법학·신학·철학부를 갖춘 근대 대학으로서 자그레브 대학교가 공식 개교했다. 슈트로스마예르 주교가 오랫동안 설립을 주창한 이 대학은 크로아티아 지성계의 중심이자 민족 엘리트의 양성소가 되었다.",
+    "zh": "1874年10月19日，萨格勒布大学在17世纪耶稣会学院的基础上，作为设有法学、神学和哲学院系的现代大学正式成立。施特罗斯马耶尔主教长期倡导建校，该校成为克罗地亚学术生活的中心和民族精英的培养基地。",
+    "ja": "1874年10月19日、17世紀のイエズス会学院を基礎に、法学・神学・哲学の学部をもつ近代大学としてザグレブ大学が正式に開校した。シュトロスマイエル司教が長く設立を唱えたこの大学は、クロアチア知識人の中心であり民族エリートの養成所となった。"
+   }
+  },
+  {
+   "year": 1880,
+   "qid": "Q2618441",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Zagreb earthquake of 1880",
+    "ko": "1880년 자그레브 지진",
+    "zh": "1880年萨格勒布地震",
+    "ja": "1880年のザグレブ地震"
+   },
+   "description": {
+    "en": "On 9 November 1880 a strong earthquake struck Zagreb, damaging a large part of the city's buildings, including the cathedral. The cathedral was subsequently rebuilt by the architect Hermann Bollé in neo-Gothic style with its two tall spires, and the reconstruction helped shape the city's late-19th-century appearance.",
+    "ko": "1880년 11월 9일 강한 지진이 자그레브를 덮쳐 대성당을 포함한 도시 건물의 상당수가 피해를 입었다. 대성당은 이후 건축가 헤르만 볼레가 두 개의 높은 첨탑을 갖춘 네오고딕 양식으로 재건했으며, 이 재건은 19세기 말 도시의 모습을 형성하는 데 기여했다.",
+    "zh": "1880年11月9日，萨格勒布发生强烈地震，包括主教座堂在内的大量城市建筑受损。主教座堂随后由建筑师赫尔曼·博勒以新哥特式风格重建，并加建了两座高耸的尖塔，这次重建塑造了该市19世纪末的面貌。",
+    "ja": "1880年11月9日、強い地震がザグレブを襲い、大聖堂を含む市内の建物の多くが被害を受けた。大聖堂はその後、建築家ヘルマン・ボレによって2本の高い尖塔をもつネオゴシック様式で再建され、この再建は19世紀末の町の姿を形づくった。"
+   }
+  },
+  {
+   "year": 1881,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Military Frontier incorporated into Croatia-Slavonia",
+    "ko": "군정 국경지대의 크로아티아-슬라보니아 편입",
+    "zh": "军事边疆区并入克罗地亚-斯拉沃尼亚",
+    "ja": "軍政国境地帯がクロアチア＝スラヴォニアに編入"
+   },
+   "description": {
+    "en": "With the Ottoman threat long gone, the Croatian-Slavonian Military Frontier was demilitarized and in 1881 incorporated into the Kingdom of Croatia-Slavonia. The reunification fulfilled a long-standing Croatian demand but added a large Serb population to the kingdom, giving Croat-Serb relations a central place in Croatian politics.",
+    "ko": "오스만의 위협이 오래전에 사라지자 크로아티아-슬라보니아 군정 국경지대는 비군사화되어 1881년 크로아티아-슬라보니아 왕국에 편입되었다. 이 재통합은 크로아티아의 오랜 요구를 실현했지만 왕국에 많은 세르비아계 인구를 더해, 크로아트-세르비아 관계를 크로아티아 정치의 중심 문제로 만들었다.",
+    "zh": "奥斯曼的威胁早已消除，克罗地亚-斯拉沃尼亚军事边疆区被非军事化，并于1881年并入克罗地亚-斯拉沃尼亚王国。这一重新统一实现了克罗地亚的长期诉求，但也为王国增添了大量塞尔维亚族人口，使克塞关系成为克罗地亚政治的核心议题。",
+    "ja": "オスマンの脅威が遠のくと、クロアチア＝スラヴォニア軍政国境地帯は非軍事化され、1881年にクロアチア＝スラヴォニア王国に編入された。この再統合はクロアチアの長年の要求を実現したが、王国に多くのセルビア系住民を加え、クロアチア人とセルビア人の関係をクロアチア政治の中心課題とした。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Rijeka Resolution and the Croat-Serb Coalition",
+    "ko": "리예카 결의와 크로아트-세르비아 연합",
+    "zh": "里耶卡决议与克塞联盟",
+    "ja": "リエカ決議とクロアチア＝セルビア連合"
+   },
+   "description": {
+    "en": "In October 1905 Croatian politicians from Dalmatia and Istria meeting in Rijeka adopted a resolution seeking cooperation with Hungarian opposition parties to reunite Dalmatia with Croatia-Slavonia. Serbian politicians responded with the Zadar Resolution, and the resulting Croat-Serb Coalition, led among others by Frano Supilo, governed in Croatia for most of the years before the First World War.",
+    "ko": "1905년 10월 리예카에 모인 달마티아·이스트라의 크로아티아 정치인들은 달마티아와 크로아티아-슬라보니아의 재통합을 위해 헝가리 야당과 협력한다는 결의를 채택했다. 세르비아계 정치인들은 자다르 결의로 호응했고, 프라노 수필로 등이 이끈 크로아트-세르비아 연합은 제1차 세계대전 이전 대부분의 기간 동안 크로아티아의 집권 세력이 되었다.",
+    "zh": "1905年10月，来自达尔马提亚和伊斯特拉的克罗地亚政治家在里耶卡集会，通过决议，寻求与匈牙利反对党合作，使达尔马提亚与克罗地亚-斯拉沃尼亚重新统一。塞族政治家以《扎达尔决议》响应，由弗拉诺·苏皮洛等人领导的克塞联盟在第一次世界大战前的大部分年份里主政克罗地亚。",
+    "ja": "1905年10月、リエカに集まったダルマチアとイストラのクロアチア人政治家は、ダルマチアとクロアチア＝スラヴォニアの再統合のためにハンガリーの野党と協力するという決議を採択した。セルビア人政治家はザダル決議で呼応し、フラノ・スピロらが率いたクロアチア＝セルビア連合は、第一次世界大戦前の大半の時期にクロアチアの与党となった。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": "Q718374",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Croatia joins the Kingdom of Serbs, Croats and Slovenes",
+    "ko": "세르비아인·크로아트인·슬로베니아인 왕국 참여",
+    "zh": "加入塞尔维亚人、克罗地亚人和斯洛文尼亚人王国",
+    "ja": "セルブ・クロアート・スロヴェーン王国に参加"
+   },
+   "description": {
+    "en": "As Austria-Hungary collapsed, the Croatian Sabor on 29 October 1918 severed ties with the monarchy and joined the State of Slovenes, Croats and Serbs. Under pressure from Italian territorial claims, this state united with Serbia and Montenegro on 1 December 1918 to form the Kingdom of Serbs, Croats and Slovenes, without a Croatian parliamentary vote on the terms, a fact that fuelled later disputes over centralization.",
+    "ko": "오스트리아-헝가리가 무너지자 1918년 10월 29일 크로아티아 사보르는 군주국과의 관계를 끊고 슬로베니아인·크로아트인·세르비아인국에 합류했다. 이탈리아의 영토 요구에 압박을 받은 이 나라는 1918년 12월 1일 세르비아·몬테네그로와 통합해 세르비아인·크로아트인·슬로베니아인 왕국을 세웠는데, 통합 조건에 대한 크로아티아 의회의 표결이 없었다는 점은 훗날 중앙집권을 둘러싼 갈등을 부추겼다.",
+    "zh": "奥匈帝国崩溃之际，克罗地亚议会于1918年10月29日断绝与君主国的关系，加入斯洛文尼亚人、克罗地亚人和塞尔维亚人国。在意大利领土要求的压力下，该国于1918年12月1日与塞尔维亚和黑山合并，成立塞尔维亚人、克罗地亚人和斯洛文尼亚人王国；由于联合条件未经克罗地亚议会表决，这一事实加剧了后来围绕中央集权的争端。",
+    "ja": "オーストリア＝ハンガリーが崩壊すると、1918年10月29日にクロアチアのサボルは君主国との関係を断ち、スロヴェーン人・クロアート人・セルブ人国に加わった。イタリアの領土要求に圧迫されたこの国は1918年12月1日にセルビア、モンテネグロと統合してセルブ・クロアート・スロヴェーン王国を形成したが、統合条件についてクロアチア議会の採決がなかったことが、のちの中央集権をめぐる対立を煽った。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": "Q56063289",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "D'Annunzio seizes Rijeka (Fiume)",
+    "ko": "단눈치오의 리예카(피우메) 점거",
+    "zh": "邓南遮占领里耶卡（阜姆）",
+    "ja": "ダンヌンツィオのリエカ（フィウメ）占拠"
+   },
+   "description": {
+    "en": "In September 1919 the Italian nationalist poet Gabriele D'Annunzio and a force of volunteers and mutinous soldiers seized Rijeka (Fiume), whose city centre had an Italian-speaking majority, demanding its annexation to Italy. He later proclaimed the Italian Regency of Carnaro, whose theatrical style of rule is often seen as a forerunner of Italian fascism.",
+    "ko": "1919년 9월 이탈리아 민족주의 시인 가브리엘레 단눈치오는 의용병과 반란 병사들을 이끌고 도심 인구 다수가 이탈리아어를 쓰던 리예카(피우메)를 점거하고 이탈리아 병합을 요구했다. 그는 이후 카르나로 이탈리아인 섭정국을 선포했는데, 그 연극적인 통치 양식은 흔히 이탈리아 파시즘의 선구로 여겨진다.",
+    "zh": "1919年9月，意大利民族主义诗人加布里埃莱·邓南遮率领志愿者和哗变士兵占领了市中心以讲意大利语者占多数的里耶卡（阜姆），要求将其并入意大利。他后来宣布成立意大利卡尔纳罗摄政领，其戏剧化的统治方式常被视为意大利法西斯主义的先声。",
+    "ja": "1919年9月、イタリアの民族主義詩人ガブリエーレ・ダンヌンツィオは義勇兵と反乱兵を率いて、市中心部の住民の多数がイタリア語を話すリエカ（フィウメ）を占拠し、イタリアへの併合を要求した。彼はのちにカルナーロ＝イタリア執政府を宣言し、その演劇的な統治スタイルはしばしばイタリア・ファシズムの先駆とみなされる。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": "Q548114",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Rapallo: Zadar to Italy, Free State of Fiume",
+    "ko": "라팔로 조약: 자다르의 이탈리아 귀속과 피우메 자유국",
+    "zh": "拉帕洛条约：扎达尔归意大利，阜姆自由邦成立",
+    "ja": "ラパッロ条約：ザダルのイタリア帰属とフィウメ自由国"
+   },
+   "description": {
+    "en": "Under the Treaty of Rapallo of November 1920 between Italy and the Kingdom of Serbs, Croats and Slovenes, Italy received Istria, Zadar and several islands, while Rijeka became the Free State of Fiume. D'Annunzio's forces were expelled by the Italian army in December 1920, and in 1924 the Treaty of Rome divided the area, giving Rijeka to Italy and its suburb Sušak to Yugoslavia.",
+    "ko": "1920년 11월 이탈리아와 세르비아인·크로아트인·슬로베니아인 왕국 사이에 맺은 라팔로 조약으로 이탈리아는 이스트라·자다르와 여러 섬을 얻었고, 리예카는 피우메 자유국이 되었다. 단눈치오의 병력은 1920년 12월 이탈리아군에게 축출되었고, 1924년 로마 조약으로 이 지역은 분할되어 리예카는 이탈리아에, 교외 수샤크는 유고슬라비아에 귀속되었다.",
+    "zh": "根据1920年11月意大利与塞尔维亚人、克罗地亚人和斯洛文尼亚人王国签订的拉帕洛条约，意大利获得伊斯特拉、扎达尔及若干岛屿，里耶卡则成为阜姆自由邦。邓南遮的部队于1920年12月被意大利军队驱逐；1924年的罗马条约瓜分了该地区，里耶卡归意大利，其郊区苏沙克归南斯拉夫。",
+    "ja": "1920年11月にイタリアとセルブ・クロアート・スロヴェーン王国の間で結ばれたラパッロ条約により、イタリアはイストラ、ザダルといくつかの島を獲得し、リエカはフィウメ自由国となった。ダンヌンツィオの部隊は1920年12月にイタリア軍によって追放され、1924年のローマ条約でこの地域は分割され、リエカはイタリアに、郊外のスシャクはユーゴスラビアに帰属した。"
+   }
+  },
+  {
+   "year": 1921,
+   "qid": "Q266657",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Labin Republic miners' revolt",
+    "ko": "라빈 공화국 광부 봉기",
+    "zh": "拉宾共和国矿工起义",
+    "ja": "ラビン共和国の鉱夫蜂起"
+   },
+   "description": {
+    "en": "In March 1921, after fascist attacks on labour leaders, coal miners in Labin in Italian-ruled Istria occupied the mines and proclaimed self-management, an episode later called the Labin Republic. The revolt was crushed by Italian forces in April 1921 and is remembered as one of the earliest anti-fascist uprisings in Europe.",
+    "ko": "1921년 3월 노동 지도자에 대한 파시스트의 공격 이후, 이탈리아가 지배하던 이스트라 라빈의 탄광 노동자들이 광산을 점거하고 자주관리를 선언했다. 훗날 '라빈 공화국'으로 불린 이 사건은 1921년 4월 이탈리아군에 진압되었으며, 유럽에서 가장 이른 반파시즘 봉기 가운데 하나로 기억된다.",
+    "zh": "1921年3月，在法西斯分子袭击工人领袖之后，意大利统治下伊斯特拉拉宾的煤矿工人占领矿山并宣布自治管理，这一事件后来被称为“拉宾共和国”。起义于1921年4月被意大利军队镇压，被视为欧洲最早的反法西斯起义之一。",
+    "ja": "1921年3月、ファシストによる労働指導者への襲撃の後、イタリア支配下イストラのラビンの炭鉱夫たちが鉱山を占拠して自主管理を宣言した。のちに「ラビン共和国」と呼ばれたこの出来事は1921年4月にイタリア軍に鎮圧され、ヨーロッパで最も早い反ファシズム蜂起の一つとして記憶されている。"
+   }
+  },
+  {
+   "year": 1928,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Stjepan Radić",
+    "ko": "스테판 라디치 암살",
+    "zh": "斯捷潘·拉迪奇遇刺",
+    "ja": "ステパン・ラディッチ暗殺"
+   },
+   "description": {
+    "en": "On 20 June 1928 the Montenegrin Serb deputy Puniša Račić opened fire in the parliament in Belgrade, killing two Croatian Peasant Party deputies and mortally wounding its leader Stjepan Radić, who died on 8 August. The killing of the most popular Croatian politician deepened the crisis of the kingdom and led directly to royal dictatorship.",
+    "ko": "1928년 6월 20일 몬테네그로 출신 세르비아계 의원 푸니샤 라치치가 베오그라드 의회에서 총을 쏘아 크로아티아 농민당 의원 두 명을 죽이고 당 지도자 스테판 라디치에게 치명상을 입혔으며, 라디치는 8월 8일 숨졌다. 가장 인기 있던 크로아티아 정치인의 피살은 왕국의 위기를 심화시켜 곧바로 국왕 독재로 이어졌다.",
+    "zh": "1928年6月20日，黑山塞族议员普尼沙·拉契奇在贝尔格莱德议会开枪，打死两名克罗地亚农民党议员，并使该党领袖斯捷潘·拉迪奇身受重伤，拉迪奇于8月8日去世。这位最受欢迎的克罗地亚政治家遇害，加深了王国的危机，并直接导致国王独裁。",
+    "ja": "1928年6月20日、モンテネグロ出身のセルビア人議員プニシャ・ラチッチがベオグラードの議会で発砲し、クロアチア農民党の議員2人を殺害、党首ステパン・ラディッチに致命傷を負わせた。ラディッチは8月8日に死去した。最も人気のあったクロアチア人政治家の殺害は王国の危機を深め、直ちに国王独裁へとつながった。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Royal dictatorship and the Kingdom of Yugoslavia",
+    "ko": "국왕 독재와 유고슬라비아 왕국",
+    "zh": "国王独裁与南斯拉夫王国",
+    "ja": "国王独裁とユーゴスラビア王国"
+   },
+   "description": {
+    "en": "On 6 January 1929 King Alexander I suspended the constitution, dissolved parliament and banned national parties, and in October renamed the state the Kingdom of Yugoslavia, dividing it into banovinas that cut across historic Croatian borders. The dictatorship radicalized opposition; the Ustaša movement was founded in exile, and Alexander was assassinated in Marseille in 1934.",
+    "ko": "1929년 1월 6일 알렉산다르 1세 국왕은 헌법을 정지하고 의회를 해산하며 민족 정당들을 금지했고, 10월에는 국호를 유고슬라비아 왕국으로 바꾸고 역사적 크로아티아 경계를 가로지르는 바노비나로 나라를 나누었다. 독재는 반대파를 급진화시켰다. 우스타샤 운동이 망명지에서 결성되었고, 알렉산다르는 1934년 마르세유에서 암살되었다.",
+    "zh": "1929年1月6日，国王亚历山大一世中止宪法、解散议会并取缔民族政党，同年10月将国名改为南斯拉夫王国，并按打破克罗地亚历史边界的方式划分为若干省。独裁使反对派走向激进：乌斯塔沙运动在流亡中成立，亚历山大于1934年在马赛遇刺。",
+    "ja": "1929年1月6日、国王アレクサンダル1世は憲法を停止して議会を解散し、民族政党を禁止した。10月には国号をユーゴスラビア王国に改め、歴史的なクロアチアの境界を横切る州（バノヴィナ）に国を分けた。独裁は反対派を急進化させ、ウスタシャ運動が亡命先で結成され、アレクサンダルは1934年にマルセイユで暗殺された。"
+   }
+  },
+  {
+   "year": 1939,
+   "qid": "Q2382617",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Cvetković–Maček Agreement creates the Banovina of Croatia",
+    "ko": "츠베트코비치-마체크 협정과 크로아티아 바노비나",
+    "zh": "茨韦特科维奇-马切克协定设立克罗地亚省",
+    "ja": "ツヴェトコヴィッチ＝マチェク協定とクロアチア自治州"
+   },
+   "description": {
+    "en": "On 26 August 1939 Prime Minister Dragiša Cvetković and Croatian Peasant Party leader Vladko Maček agreed to create the autonomous Banovina of Croatia, covering Croatia-Slavonia, Dalmatia and parts of Bosnia and Herzegovina. The compromise gave Croatia its own government under a ban but was opposed by Serbian nationalists and by radical Croat separatists, and it was cut short by the Axis invasion in 1941.",
+    "ko": "1939년 8월 26일 드라기샤 츠베트코비치 총리와 크로아티아 농민당 지도자 블라트코 마체크는 크로아티아-슬라보니아, 달마티아, 보스니아 헤르체고비나 일부를 아우르는 자치 크로아티아 바노비나 창설에 합의했다. 이 타협으로 크로아티아는 반 아래 자체 정부를 갖게 되었으나 세르비아 민족주의자와 급진 크로아티아 분리주의자 양쪽의 반대에 부딪혔고, 1941년 추축국의 침공으로 중단되었다.",
+    "zh": "1939年8月26日，首相德拉吉沙·茨韦特科维奇与克罗地亚农民党领袖弗拉德科·马切克达成协议，设立涵盖克罗地亚-斯拉沃尼亚、达尔马提亚和波斯尼亚和黑塞哥维那部分地区的自治克罗地亚省。这一妥协使克罗地亚在总督之下拥有自己的政府，但遭到塞尔维亚民族主义者和激进克罗地亚分离主义者的反对，并因1941年轴心国入侵而中断。",
+    "ja": "1939年8月26日、ドラギシャ・ツヴェトコヴィッチ首相とクロアチア農民党党首ヴラトコ・マチェクは、クロアチア＝スラヴォニア、ダルマチア、ボスニア・ヘルツェゴヴィナの一部を含む自治的なクロアチア自治州の創設に合意した。この妥協でクロアチアはバンのもとに独自の政府をもったが、セルビア民族主義者と急進的なクロアチア分離主義者の双方から反対され、1941年の枢軸国の侵攻で中断された。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q153128",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Axis invasion and the Independent State of Croatia",
+    "ko": "추축국 침공과 크로아티아 독립국",
+    "zh": "轴心国入侵与克罗地亚独立国",
+    "ja": "枢軸国の侵攻とクロアチア独立国"
+   },
+   "description": {
+    "en": "Germany and its allies invaded Yugoslavia on 6 April 1941, and on 10 April the Ustaša proclaimed the Independent State of Croatia (NDH) in Zagreb, with Ante Pavelić as its leader (poglavnik). The puppet state included Bosnia and Herzegovina but ceded much of Dalmatia to Italy under the Rome Agreements, and it quickly introduced racial laws modelled on Nazi Germany.",
+    "ko": "1941년 4월 6일 독일과 그 동맹국이 유고슬라비아를 침공했고, 4월 10일 우스타샤는 자그레브에서 안테 파벨리치를 지도자(포글라브니크)로 하는 크로아티아 독립국(NDH)을 선포했다. 이 괴뢰국은 보스니아 헤르체고비나를 포함했지만 로마 협정으로 달마티아 상당 부분을 이탈리아에 넘겼으며, 곧 나치 독일을 본뜬 인종법을 도입했다.",
+    "zh": "1941年4月6日，德国及其盟国入侵南斯拉夫；4月10日，乌斯塔沙在萨格勒布宣布成立以安特·帕韦利奇为领袖的克罗地亚独立国。这一傀儡国家包括波斯尼亚和黑塞哥维那，但根据罗马协定将达尔马提亚大部分割让给意大利，并迅速仿照纳粹德国推行种族法律。",
+    "ja": "1941年4月6日、ドイツとその同盟国がユーゴスラビアに侵攻し、4月10日にウスタシャはザグレブでアンテ・パヴェリッチを指導者（ポグラヴニク）とするクロアチア独立国（NDH）を宣言した。この傀儡国家はボスニア・ヘルツェゴヴィナを含んだが、ローマ協定によりダルマチアの大部分をイタリアに割譲し、まもなくナチス・ドイツにならった人種法を導入した。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Jasenovac and the Ustaša genocide",
+    "ko": "야세노바츠와 우스타샤의 제노사이드",
+    "zh": "亚塞诺瓦茨与乌斯塔沙的种族灭绝",
+    "ja": "ヤセノヴァツとウスタシャのジェノサイド"
+   },
+   "description": {
+    "en": "From 1941 the Ustaša regime carried out mass killings, deportations and forced conversions targeting Serbs, and murdered most of the Jews and Roma of the NDH. The Jasenovac camp complex, established in August 1941, was the largest of its camps; tens of thousands of people were killed there, though total figures have long been politically disputed.",
+    "ko": "1941년부터 우스타샤 정권은 세르비아인을 겨냥한 대량 학살과 추방, 강제 개종을 자행했고, 크로아티아 독립국 내 유대인과 로마인 대부분을 살해했다. 1941년 8월 세워진 야세노바츠 수용소 단지는 그 수용소들 가운데 가장 컸으며, 이곳에서 수만 명이 살해되었다. 다만 전체 희생자 수는 오랫동안 정치적 논쟁의 대상이 되어 왔다.",
+    "zh": "自1941年起，乌斯塔沙政权针对塞尔维亚人实施大屠杀、驱逐和强迫改宗，并杀害了克罗地亚独立国境内大部分犹太人和罗姆人。1941年8月建立的亚塞诺瓦茨集中营群是其中规模最大的营地，数以万计的人在此遇害，但遇难总人数长期存在政治争议。",
+    "ja": "1941年からウスタシャ政権はセルビア人を標的とした大量殺害、追放、強制改宗を行い、クロアチア独立国内のユダヤ人とロマの大半を殺害した。1941年8月に設けられたヤセノヴァツ収容所群はその最大の収容所で、数万人がここで殺害されたが、犠牲者の総数は長く政治的な論争の対象となってきた。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First Sisak Partisan Detachment",
+    "ko": "제1 시사크 파르티잔 부대 결성",
+    "zh": "第一锡萨克游击队支队成立",
+    "ja": "第1シサク・パルチザン部隊の結成"
+   },
+   "description": {
+    "en": "On 22 June 1941, the day Germany invaded the Soviet Union, communists formed the First Sisak Partisan Detachment in the Brezovica forest near Sisak. It is commemorated in Croatia as the beginning of armed anti-fascist resistance, and 22 June is a public holiday, Anti-Fascist Struggle Day.",
+    "ko": "독일이 소련을 침공한 1941년 6월 22일, 공산주의자들은 시사크 인근 브레조비차 숲에서 제1 시사크 파르티잔 부대를 결성했다. 크로아티아에서는 이를 무장 반파시즘 저항의 시작으로 기념하며, 6월 22일은 '반파시즘 투쟁의 날'로 공휴일이다.",
+    "zh": "1941年6月22日，即德国入侵苏联当天，共产党人在锡萨克附近的布雷佐维察森林组建了第一锡萨克游击队支队。克罗地亚将此纪念为武装反法西斯抵抗的开端，6月22日为公众假日“反法西斯斗争日”。",
+    "ja": "ドイツがソ連に侵攻した1941年6月22日、共産主義者たちはシサク近郊のブレゾヴィツァの森で第1シサク・パルチザン部隊を結成した。クロアチアではこれを武装反ファシズム抵抗の始まりとして記念し、6月22日は「反ファシズム闘争の日」として祝日となっている。"
+   }
+  },
+  {
+   "year": 1943,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "ZAVNOH and Italy's capitulation",
+    "ko": "ZAVNOH 결성과 이탈리아 항복",
+    "zh": "克罗地亚人民解放国家反法西斯委员会与意大利投降",
+    "ja": "ZAVNOHの結成とイタリアの降伏"
+   },
+   "description": {
+    "en": "In June 1943 the State Anti-Fascist Council for the National Liberation of Croatia (ZAVNOH) held its first session in Otočac and at the Plitvice Lakes, becoming the political body of the Croatian Partisans. After Italy capitulated in September 1943, ZAVNOH proclaimed the annexation of Istria, Rijeka, Zadar and the islands to Croatia, though German forces quickly occupied much of the former Italian zone.",
+    "ko": "1943년 6월 크로아티아 민족해방 국가반파시즘평의회(ZAVNOH)가 오토차츠와 플리트비체 호수에서 첫 회의를 열어 크로아티아 파르티잔의 정치 기구가 되었다. 1943년 9월 이탈리아가 항복하자 ZAVNOH는 이스트라·리예카·자다르와 섬들을 크로아티아에 편입한다고 선포했으나, 독일군이 곧 옛 이탈리아 점령 지역 상당 부분을 점령했다.",
+    "zh": "1943年6月，克罗地亚人民解放国家反法西斯委员会在奥托查茨和普利特维采湖举行第一次会议，成为克罗地亚游击队的政治机构。1943年9月意大利投降后，该委员会宣布将伊斯特拉、里耶卡、扎达尔及诸岛并入克罗地亚，但德军很快占领了原意大利占领区的大部分。",
+    "ja": "1943年6月、クロアチア民族解放国家反ファシスト評議会（ZAVNOH）がオトチャツとプリトヴィツェ湖群で第1回会議を開き、クロアチアのパルチザンの政治機関となった。1943年9月にイタリアが降伏すると、ZAVNOHはイストラ、リエカ、ザダルと島々のクロアチアへの編入を宣言したが、ドイツ軍がまもなく旧イタリア占領地域の大部分を占領した。"
+   }
+  },
+  {
+   "year": 1943,
+   "qid": "Q1620765",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Allied bombing of Zadar",
+    "ko": "연합군의 자다르 폭격",
+    "zh": "盟军轰炸扎达尔",
+    "ja": "連合軍によるザダル爆撃"
+   },
+   "description": {
+    "en": "From November 1943 Allied aircraft repeatedly bombed German-occupied Zadar, then an Italian enclave, in raids that continued into 1944. Much of the historic city was destroyed and most of its largely Italian population fled, and after the war Zadar became part of Yugoslav Croatia.",
+    "ko": "1943년 11월부터 연합군 항공기는 당시 이탈리아의 고립 영토로 독일군이 점령하던 자다르를 1944년까지 거듭 폭격했다. 역사 도시 상당 부분이 파괴되고 이탈리아계가 다수였던 주민 대부분이 떠났으며, 전후 자다르는 유고슬라비아의 크로아티아에 편입되었다.",
+    "zh": "自1943年11月起，盟军飞机对当时为意大利飞地、被德军占领的扎达尔进行了多次轰炸，空袭一直持续到1944年。历史古城大部分被毁，以意大利裔为主的居民大多出逃，战后扎达尔并入南斯拉夫的克罗地亚。",
+    "ja": "1943年11月から、連合軍機は当時イタリアの飛び地でドイツ軍が占領していたザダルを繰り返し爆撃し、空襲は1944年まで続いた。歴史的な市街の大部分が破壊され、イタリア系が多数を占めた住民の多くが町を去り、戦後ザダルはユーゴスラビアのクロアチアに編入された。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": "Q3442408",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Daksa executions in Dubrovnik",
+    "ko": "두브로브니크 닥사 처형 사건",
+    "zh": "杜布罗夫尼克达克萨处决事件",
+    "ja": "ドゥブロヴニクのダクサ処刑事件"
+   },
+   "description": {
+    "en": "After the Partisans entered Dubrovnik in October 1944, they executed a group of prisoners, including clergy and prominent citizens accused of collaboration, on the islet of Daksa without trial. The killings were kept silent in Yugoslav times; the victims' remains were exhumed and identified only after Croatian independence, in 2009–2010.",
+    "ko": "1944년 10월 파르티잔은 두브로브니크에 진입한 뒤 부역 혐의를 받은 성직자와 유력 시민 등 수감자 일행을 재판 없이 닥사 소도에서 처형했다. 이 살해는 유고슬라비아 시대에 침묵 속에 묻혔으며, 희생자들의 유해는 크로아티아 독립 이후인 2009~2010년에야 발굴되었다.",
+    "zh": "1944年10月游击队进入杜布罗夫尼克后，未经审判便在达克萨小岛处决了一批被指控通敌的囚犯，其中包括神职人员和知名市民。这些杀戮在南斯拉夫时期被讳莫如深；直到克罗地亚独立后的2009—2010年，遇难者遗骸才被发掘。",
+    "ja": "1944年10月にドゥブロヴニクに入ったパルチザンは、協力の嫌疑をかけられた聖職者や有力市民を含む囚人の一団を、裁判なしにダクサ小島で処刑した。この殺害はユーゴスラビア時代には沈黙のうちに伏され、犠牲者の遺骨はクロアチア独立後の2009〜2010年になってようやく発掘された。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": "Q24081305",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Liberation of Zagreb and the end of the war",
+    "ko": "자그레브 해방과 전쟁 종결",
+    "zh": "萨格勒布解放与战争结束",
+    "ja": "ザグレブ解放と戦争の終結"
+   },
+   "description": {
+    "en": "Yugoslav Partisan forces entered Zagreb on 8 May 1945 as the Independent State of Croatia collapsed. Retreating NDH troops and civilians who tried to surrender to the British in Austria were returned near Bleiburg, and thousands were killed in the following weeks during forced marches and mass executions, as at Macelj; the number of victims remains disputed.",
+    "ko": "1945년 5월 8일 크로아티아 독립국이 무너지는 가운데 유고슬라비아 파르티잔군이 자그레브에 입성했다. 오스트리아에서 영국군에 항복하려던 후퇴하는 독립국 군인과 민간인들은 블라이부르크 인근에서 송환되었고, 이후 몇 주 동안 강제 행군과 마첼 등지의 대량 처형으로 수천 명이 살해되었다. 희생자 수는 여전히 논쟁 중이다.",
+    "zh": "1945年5月8日，随着克罗地亚独立国的崩溃，南斯拉夫游击队开进萨格勒布。撤退中试图在奥地利向英军投降的独立国军人和平民在布莱堡附近被遣返，此后数周内，数以千计的人在强制行军和大规模处决（如马采利）中遇害，遇难人数至今仍有争议。",
+    "ja": "1945年5月8日、クロアチア独立国が崩壊する中、ユーゴスラビアのパルチザン軍がザグレブに入城した。オーストリアでイギリス軍に投降しようとした撤退中の独立国の兵士や民間人はブライブルク近くで引き渡され、その後数週間の強制行進やマツェリなどでの大量処刑で数千人が殺害された。犠牲者数はいまも議論が続いている。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Croatia becomes a republic of socialist Yugoslavia",
+    "ko": "사회주의 유고슬라비아의 공화국이 되다",
+    "zh": "成为社会主义南斯拉夫的加盟共和国",
+    "ja": "社会主義ユーゴスラビアの共和国となる"
+   },
+   "description": {
+    "en": "After the Partisan victory, Croatia became one of six federal republics of communist Yugoslavia, proclaimed a federal people's republic in November 1945, under Josip Broz Tito. The new regime nationalized industry, collectivized agriculture for a time and suppressed political opposition, including the trial of Archbishop Alojzije Stepinac in 1946.",
+    "ko": "파르티잔이 승리한 뒤 크로아티아는 1945년 11월 연방 인민공화국으로 선포된 요시프 브로즈 티토의 공산주의 유고슬라비아를 구성하는 여섯 연방 공화국 가운데 하나가 되었다. 새 정권은 산업을 국유화하고 한동안 농업을 집단화했으며, 1946년 알로이지예 스테피나츠 대주교 재판을 비롯해 정치적 반대파를 탄압했다.",
+    "zh": "游击队胜利后，克罗地亚成为约瑟普·布罗兹·铁托领导的共产主义南斯拉夫（1945年11月宣布为联邦人民共和国）的六个联邦共和国之一。新政权将工业国有化，一度推行农业集体化，并镇压政治反对派，包括1946年对大主教阿洛伊齐耶·斯特皮纳茨的审判。",
+    "ja": "パルチザンの勝利後、クロアチアは1945年11月に連邦人民共和国と宣言されたヨシップ・ブロズ・ティトーの共産主義ユーゴスラビアを構成する6つの連邦共和国の一つとなった。新政権は産業を国有化し、一時農業を集団化し、1946年のアロイジイェ・ステピナツ大司教の裁判をはじめ政治的反対派を弾圧した。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Paris Peace Treaty adds Istria, Rijeka and Zadar",
+    "ko": "파리 강화 조약과 이스트라·리예카·자다르 편입",
+    "zh": "巴黎和约使伊斯特拉、里耶卡和扎达尔并入",
+    "ja": "パリ講和条約でイストラ・リエカ・ザダルが編入"
+   },
+   "description": {
+    "en": "The Paris Peace Treaty with Italy, signed on 10 February 1947, transferred most of Istria, Rijeka, Zadar and the Adriatic islands held by Italy to Yugoslavia, and most of these lands became part of Croatia. In the following years a large majority of the Italian-speaking population left the region in the so-called Istrian-Dalmatian exodus.",
+    "ko": "1947년 2월 10일 이탈리아와 체결한 파리 강화 조약으로 이스트라 대부분과 리예카, 자다르, 이탈리아가 보유하던 아드리아해 섬들이 유고슬라비아에 넘어갔고, 그 대부분은 크로아티아의 일부가 되었다. 이후 몇 년 동안 이탈리아어 사용 주민의 대다수가 이른바 이스트라-달마티아 대탈출로 이 지역을 떠났다.",
+    "zh": "1947年2月10日与意大利签订的巴黎和约，将伊斯特拉大部、里耶卡、扎达尔以及意大利所占的亚得里亚海岛屿划归南斯拉夫，其中大部分成为克罗地亚的一部分。随后数年间，大多数讲意大利语的居民在所谓“伊斯特拉-达尔马提亚大流亡”中离开了该地区。",
+    "ja": "1947年2月10日にイタリアと結ばれたパリ講和条約により、イストラの大部分、リエカ、ザダル、イタリアが領有していたアドリア海の島々がユーゴスラビアに移り、その大半はクロアチアの一部となった。その後数年の間に、イタリア語話者住民の大多数がいわゆるイストラ・ダルマチア大流出でこの地を去った。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Goli Otok prison camp",
+    "ko": "골리오토크 수용소",
+    "zh": "戈利岛劳改营",
+    "ja": "ゴリ・オトク収容所"
+   },
+   "description": {
+    "en": "After Tito's break with Stalin in 1948, the Yugoslav authorities opened a prison camp in 1949 on the barren island of Goli Otok in the northern Adriatic. Thousands of real or suspected supporters of the Soviet-led Cominform were held there in harsh conditions, and the camp remained a taboo subject until the late 1980s.",
+    "ko": "1948년 티토가 스탈린과 결별한 뒤 유고슬라비아 당국은 1949년 북부 아드리아해의 황량한 섬 골리오토크에 수용소를 열었다. 소련 주도 코민포름의 실제 또는 의심 지지자 수천 명이 가혹한 환경 속에 이곳에 수감되었으며, 이 수용소는 1980년대 말까지 금기시된 주제였다.",
+    "zh": "1948年铁托与斯大林决裂后，南斯拉夫当局于1949年在亚得里亚海北部荒凉的戈利岛开设劳改营。数千名真实或被怀疑支持苏联主导的共产党情报局的人在恶劣条件下被关押于此，该营地直到1980年代末一直是禁忌话题。",
+    "ja": "1948年のティトーとスターリンの決裂後、ユーゴスラビア当局は1949年に北アドリア海の荒涼とした島ゴリ・オトクに収容所を開設した。ソ連主導のコミンフォルムの実際の、あるいは疑われた支持者数千人が過酷な環境で収容され、この収容所は1980年代末までタブー視される話題であった。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Declaration on the Croatian literary language",
+    "ko": "크로아티아 문어에 관한 선언",
+    "zh": "关于克罗地亚书面语名称与地位的宣言",
+    "ja": "クロアチア文章語に関する宣言"
+   },
+   "description": {
+    "en": "In March 1967 leading Croatian cultural and scholarly institutions, including Matica hrvatska, signed the Declaration on the Name and Position of the Croatian Literary Language, demanding recognition of Croatian as a separate language rather than a variant of 'Serbo-Croatian'. The communist leadership condemned it, but it foreshadowed the national movement of the Croatian Spring.",
+    "ko": "1967년 3월 크로아티아의 문화 기관과 학자들은 '크로아티아 문어의 명칭과 지위에 관한 선언'에 서명해, 크로아티아어를 '세르보크로아트어'의 한 변종이 아닌 별개의 언어로 인정할 것을 요구했다. 공산당 지도부는 이를 비난했지만, 선언은 '크로아티아의 봄' 민족 운동을 예고했다.",
+    "zh": "1967年3月，克罗地亚的文化机构和学者签署了《关于克罗地亚书面语名称与地位的宣言》，要求承认克罗地亚语是一种独立语言，而非“塞尔维亚-克罗地亚语”的变体。共产党领导层对此予以谴责，但该宣言预示了“克罗地亚之春”民族运动的到来。",
+    "ja": "1967年3月、クロアチアの文化機関と学者たちは「クロアチア文章語の名称と地位に関する宣言」に署名し、クロアチア語を「セルボ・クロアチア語」の一変種ではなく独立した言語として認めるよう求めた。共産党指導部はこれを非難したが、宣言は「クロアチアの春」の民族運動を予告するものとなった。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Croatian Spring",
+    "ko": "크로아티아의 봄",
+    "zh": "克罗地亚之春",
+    "ja": "クロアチアの春"
+   },
+   "description": {
+    "en": "In 1970–1971 reform-minded Croatian communist leaders, students and the cultural society Matica hrvatska pressed for greater economic and political autonomy for Croatia within Yugoslavia and for Croatian cultural rights. In December 1971 Tito forced the leadership to resign, and thousands were expelled from the party or imprisoned, though some demands were later reflected in the 1974 constitution.",
+    "ko": "1970~1971년 개혁 성향의 크로아티아 공산당 지도자들과 학생, 문화 단체 마티차 흐르바트스카는 유고슬라비아 안에서 크로아티아의 경제적·정치적 자치 확대와 크로아티아의 문화적 권리를 요구했다. 1971년 12월 티토는 지도부를 사퇴시켰고 수천 명이 출당되거나 투옥되었으나, 일부 요구는 이후 1974년 헌법에 반영되었다.",
+    "zh": "1970年至1971年，具有改革思想的克罗地亚共产党领导人、学生以及文化团体“克罗地亚母体”要求在南斯拉夫内部扩大克罗地亚的经济和政治自治，并争取克罗地亚的文化权利。1971年12月，铁托迫使领导层辞职，数千人被开除党籍或入狱，但部分诉求后来体现在1974年宪法中。",
+    "ja": "1970〜1971年、改革志向のクロアチア共産党指導者や学生、文化団体マティツァ・フルヴァツカは、ユーゴスラビア内でのクロアチアの経済的・政治的自治の拡大とクロアチアの文化的権利を求めた。1971年12月、ティトーは指導部を辞任させ、数千人が党から除名または投獄されたが、一部の要求はのちに1974年憲法に反映された。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "1974 Yugoslav constitution decentralizes the federation",
+    "ko": "1974년 유고슬라비아 헌법과 연방 분권화",
+    "zh": "1974年南斯拉夫宪法推动联邦分权",
+    "ja": "1974年ユーゴスラビア憲法と連邦の分権化"
+   },
+   "description": {
+    "en": "The Yugoslav constitution adopted in February 1974 greatly expanded the powers of the six republics, including Croatia, and the two autonomous provinces, turning Yugoslavia into a loose federation. It also kept the formal right of the nations to self-determination, a provision later invoked during the federation's dissolution.",
+    "ko": "1974년 2월 채택된 유고슬라비아 헌법은 크로아티아를 포함한 여섯 공화국과 두 자치주의 권한을 크게 확대해 유고슬라비아를 느슨한 연방으로 바꾸었다. 이 헌법은 민족 자결권에 관한 형식적 규정도 유지했는데, 이 조항은 훗날 연방 해체 과정에서 원용되었다.",
+    "zh": "1974年2月通过的南斯拉夫宪法大幅扩大了包括克罗地亚在内的六个共和国和两个自治省的权力，使南斯拉夫变为一个松散的联邦。该宪法还保留了各民族形式上的自决权，这一条款后来在联邦解体过程中被援引。",
+    "ja": "1974年2月に採択されたユーゴスラビア憲法は、クロアチアを含む6共和国と2自治州の権限を大幅に拡大し、ユーゴスラビアを緩やかな連邦へと変えた。また民族自決権の形式的な規定も維持し、この条項はのちに連邦解体の過程で援用された。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Dubrovnik, Split and Plitvice become World Heritage Sites",
+    "ko": "두브로브니크·스플리트·플리트비체, 세계유산 등재",
+    "zh": "杜布罗夫尼克、斯普利特和普利特维采列入世界遗产",
+    "ja": "ドゥブロヴニク・スプリト・プリトヴィツェが世界遺産に"
+   },
+   "description": {
+    "en": "In 1979 UNESCO inscribed the Old City of Dubrovnik, the historical complex of Split with Diocletian's Palace, and the Plitvice Lakes National Park on the World Heritage List. The listings reflected the international significance of Croatia's cultural and natural heritage and its growing importance for tourism.",
+    "ko": "1979년 유네스코는 두브로브니크 구시가지, 디오클레티아누스 궁전이 있는 스플리트 역사 지구, 플리트비체 호수 국립공원을 세계유산 목록에 등재했다. 이 등재는 크로아티아 문화·자연 유산의 국제적 의의와 관광에서의 중요성 증대를 반영했다.",
+    "zh": "1979年，联合国教科文组织将杜布罗夫尼克古城、包括戴克里先宫在内的斯普利特历史建筑群以及普利特维采湖群国家公园列入《世界遗产名录》。这反映出克罗地亚文化和自然遗产的国际意义及其在旅游业中日益重要的地位。",
+    "ja": "1979年、ユネスコはドゥブロヴニク旧市街、ディオクレティアヌス宮殿を含むスプリトの歴史的建造物群、プリトヴィツェ湖群国立公園を世界遺産リストに登録した。これらの登録は、クロアチアの文化・自然遺産の国際的意義と観光における重要性の高まりを反映していた。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Tito",
+    "ko": "티토 사망",
+    "zh": "铁托逝世",
+    "ja": "ティトーの死"
+   },
+   "description": {
+    "en": "Josip Broz Tito, born in 1892 in Kumrovec in Croatia's Zagorje region, died on 4 May 1980 after ruling Yugoslavia for 35 years. His death left a collective rotating presidency at a time of mounting foreign debt and economic crisis, and tensions among the republics grew through the 1980s.",
+    "ko": "1892년 크로아티아 자고레 지방 쿰로베츠에서 태어난 요시프 브로즈 티토는 35년간 유고슬라비아를 통치한 끝에 1980년 5월 4일 사망했다. 그의 사후 외채와 경제 위기가 커지는 가운데 집단 순환 대통령제가 남았고, 1980년대 내내 공화국들 사이의 긴장이 고조되었다.",
+    "zh": "1892年出生于克罗地亚扎戈列地区库姆罗韦茨的约瑟普·布罗兹·铁托，在统治南斯拉夫35年后于1980年5月4日逝世。他去世后，国家在外债攀升和经济危机之际实行集体轮值主席制，整个1980年代各共和国之间的紧张关系不断加剧。",
+    "ja": "1892年にクロアチアのザゴリェ地方クムロヴェツに生まれたヨシップ・ブロズ・ティトーは、35年間ユーゴスラビアを統治した末、1980年5月4日に死去した。その死後、対外債務と経済危機が深まる中で集団輪番制の大統領評議会が残され、1980年代を通じて共和国間の緊張が高まった。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First multiparty elections; Tuđman comes to power",
+    "ko": "첫 다당제 선거와 투지만의 집권",
+    "zh": "首次多党选举，图季曼上台",
+    "ja": "初の複数政党選挙とトゥジマンの政権掌握"
+   },
+   "description": {
+    "en": "In April–May 1990 Croatia held its first multiparty elections since before the Second World War, won by the Croatian Democratic Union (HDZ), and its leader Franjo Tuđman was elected president. On 22 December 1990 the Sabor adopted a new constitution, the so-called Christmas Constitution, which defined Croatia as the nation-state of the Croatian people and of other nationalities.",
+    "ko": "1990년 4~5월 크로아티아는 제2차 세계대전 이전 이후 처음으로 다당제 선거를 치렀고, 크로아티아 민주연합(HDZ)이 승리해 그 지도자 프라뇨 투지만이 대통령에 선출되었다. 1990년 12월 22일 사보르는 이른바 '크리스마스 헌법'을 채택해 크로아티아를 크로아티아 민족과 다른 민족들의 국민국가로 규정했다.",
+    "zh": "1990年4月至5月，克罗地亚举行了二战前以来首次多党选举，克罗地亚民主共同体获胜，其领导人弗拉尼奥·图季曼当选总统。1990年12月22日，议会通过所谓“圣诞宪法”，将克罗地亚定义为克罗地亚民族及其他民族的民族国家。",
+    "ja": "1990年4〜5月、クロアチアは第二次世界大戦前以来初めての複数政党選挙を実施し、クロアチア民主同盟（HDZ）が勝利して党首フラニョ・トゥジマンが大統領に選ばれた。1990年12月22日、サボルはいわゆる「クリスマス憲法」を採択し、クロアチアをクロアチア民族と他の諸民族の国民国家と規定した。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Log Revolution in Knin",
+    "ko": "크닌의 '통나무 혁명'",
+    "zh": "克宁的“原木革命”",
+    "ja": "クニンの「丸太革命」"
+   },
+   "description": {
+    "en": "In August 1990 Serb nationalists in and around Knin, opposed to the new Croatian government, blocked roads with logs and organized a referendum on Serb autonomy that the Croatian authorities declared illegal. The 'Log Revolution' marked the beginning of the armed Serb rebellion that led to the self-proclaimed SAO Krajina.",
+    "ko": "1990년 8월 새 크로아티아 정부에 반대하는 크닌 일대의 세르비아 민족주의자들은 통나무로 도로를 봉쇄하고, 크로아티아 당국이 불법으로 선언한 세르비아계 자치 국민투표를 조직했다. 이 '통나무 혁명'은 자칭 크라이나 세르비아 자치구로 이어진 세르비아계 무장 반란의 시작이었다.",
+    "zh": "1990年8月，反对克罗地亚新政府的克宁一带塞族民族主义者用原木封锁道路，并组织了一次被克罗地亚当局宣布为非法的塞族自治公投。这场“原木革命”标志着塞族武装叛乱的开始，并导致自封的“克拉伊纳塞族自治州”的出现。",
+    "ja": "1990年8月、新しいクロアチア政府に反対するクニン周辺のセルビア民族主義者は丸太で道路を封鎖し、クロアチア当局が違法と宣言したセルビア人自治の住民投票を組織した。この「丸太革命」は、自称クライナ・セルビア人自治区につながるセルビア人の武装反乱の始まりとなった。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q68969",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Croatia declares independence; Homeland War begins",
+    "ko": "독립 선언과 조국전쟁의 발발",
+    "zh": "宣布独立，祖国战争爆发",
+    "ja": "独立宣言と祖国戦争の勃発"
+   },
+   "description": {
+    "en": "After a referendum on 19 May 1991 in which a large majority voted for independence, Croatia declared independence from Yugoslavia on 25 June 1991, together with Slovenia. Under an EU-brokered moratorium the decision took effect on 8 October, while war escalated as rebel Serb forces backed by the Yugoslav People's Army took control of roughly a quarter to a third of the country.",
+    "ko": "1991년 5월 19일 국민투표에서 압도적 다수가 독립에 찬성하자, 크로아티아는 1991년 6월 25일 슬로베니아와 함께 유고슬라비아로부터 독립을 선언했다. 유럽공동체의 중재로 유예된 결정은 10월 8일 효력을 발생했으며, 그사이 유고슬라비아 인민군의 지원을 받은 세르비아계 반군이 국토의 약 4분의 1에서 3분의 1을 장악하면서 전쟁이 격화되었다.",
+    "zh": "1991年5月19日公投中绝大多数人赞成独立后，克罗地亚于1991年6月25日与斯洛文尼亚一同宣布脱离南斯拉夫独立。在欧共体斡旋下暂缓实施的独立决定于10月8日生效，与此同时，南斯拉夫人民军支持下的塞族叛军控制了约四分之一至三分之一的国土，战争不断升级。",
+    "ja": "1991年5月19日の住民投票で圧倒的多数が独立を支持したことを受け、クロアチアは1991年6月25日、スロヴェニアとともにユーゴスラビアからの独立を宣言した。欧州共同体の仲介で猶予された決定は10月8日に発効し、その間にユーゴスラビア人民軍の支援を受けたセルビア系反乱勢力が国土の約4分の1から3分の1を掌握し、戦争が激化した。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q1851834",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Plitvice and Borovo Selo clashes",
+    "ko": "플리트비체와 보로보셀로 충돌",
+    "zh": "普利特维采与博罗沃塞洛冲突",
+    "ja": "プリトヴィツェとボロヴォ・セロの衝突"
+   },
+   "description": {
+    "en": "In spring 1991 tensions turned deadly: on 31 March a Croatian police officer was killed in the Plitvice Lakes incident, and on 2 May twelve Croatian policemen were killed in an ambush at Borovo Selo near Vukovar. These clashes are regarded as the opening armed incidents of the Croatian War of Independence.",
+    "ko": "1991년 봄 긴장은 유혈 사태로 번졌다. 3월 31일 플리트비체 호수 사건에서 크로아티아 경찰관 한 명이 숨졌고, 5월 2일에는 부코바르 인근 보로보셀로에서 매복 공격으로 크로아티아 경찰관 12명이 살해되었다. 이 충돌들은 크로아티아 독립 전쟁의 첫 무력 사건으로 여겨진다.",
+    "zh": "1991年春，紧张局势演变为流血冲突：3月31日的普利特维采湖事件中一名克罗地亚警察身亡，5月2日在武科瓦尔附近的博罗沃塞洛，十二名克罗地亚警察遭伏击遇害。这些冲突被视为克罗地亚独立战争的首批武装事件。",
+    "ja": "1991年春、緊張は流血に至った。3月31日のプリトヴィツェ湖事件でクロアチアの警察官1人が死亡し、5月2日にはヴコヴァル近郊のボロヴォ・セロで待ち伏せ攻撃によりクロアチアの警察官12人が殺害された。これらの衝突はクロアチア独立戦争の最初の武力事件とみなされている。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q2624653",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of the Barracks",
+    "ko": "병영 전투",
+    "zh": "兵营之战",
+    "ja": "兵営の戦い"
+   },
+   "description": {
+    "en": "In September 1991 Croatian forces blockaded and attacked Yugoslav People's Army barracks and depots across the country. The capture of large stocks of weapons, including tanks and artillery, greatly strengthened the poorly armed Croatian defence at a critical stage of the war.",
+    "ko": "1991년 9월 크로아티아군은 전국의 유고슬라비아 인민군 병영과 무기고를 봉쇄하고 공격했다. 전차와 포를 포함한 대량의 무기를 노획하면서 무장이 빈약했던 크로아티아 방어군은 전쟁의 결정적 단계에서 크게 강화되었다.",
+    "zh": "1991年9月，克罗地亚部队封锁并进攻全国各地的南斯拉夫人民军兵营和仓库。缴获包括坦克和火炮在内的大量武器，使装备匮乏的克罗地亚防御力量在战争的关键阶段大为增强。",
+    "ja": "1991年9月、クロアチア軍は国内各地のユーゴスラビア人民軍の兵営と倉庫を封鎖・攻撃した。戦車や火砲を含む大量の武器の鹵獲により、装備の乏しかったクロアチアの防衛力は戦争の決定的な段階で大きく強化された。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q4940688",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Bombing of Banski dvori and the break with Yugoslavia",
+    "ko": "반스키 드보리 폭격과 유고슬라비아와의 단절",
+    "zh": "轰炸总督府与同南斯拉夫决裂",
+    "ja": "バンスキ・ドヴォリ爆撃とユーゴスラビアとの断絶"
+   },
+   "description": {
+    "en": "On 7 October 1991 Yugoslav Air Force jets bombed Banski dvori, the seat of the Croatian government in Zagreb, while President Tuđman and other leaders were inside; they escaped unharmed. The next day, 8 October, the Sabor cut all remaining constitutional ties with Yugoslavia, a date now marked as Independence Day.",
+    "ko": "1991년 10월 7일 유고슬라비아 공군기가 투지만 대통령과 지도자들이 안에 있던 자그레브의 크로아티아 정부 청사 반스키 드보리를 폭격했으나 그들은 무사했다. 이튿날인 10월 8일 사보르는 유고슬라비아와 남아 있던 모든 헌법적 관계를 끊었고, 이 날은 오늘날 독립기념일로 기념된다.",
+    "zh": "1991年10月7日，南斯拉夫空军战机轰炸了萨格勒布的克罗地亚政府所在地总督府，当时图季曼总统和其他领导人正在其中，但均安然无恙。次日即10月8日，克罗地亚议会断绝了与南斯拉夫残存的一切宪法联系，这一天如今被定为独立日。",
+    "ja": "1991年10月7日、ユーゴスラビア空軍機が、トゥジマン大統領ら指導者が中にいたザグレブのクロアチア政府庁舎バンスキ・ドヴォリを爆撃したが、彼らは無事だった。翌10月8日、サボルはユーゴスラビアとの残るすべての憲法上の関係を断ち、この日は現在独立記念日とされている。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q815140",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Siege of Dubrovnik",
+    "ko": "두브로브니크 포위전",
+    "zh": "杜布罗夫尼克之围",
+    "ja": "ドゥブロヴニク包囲戦"
+   },
+   "description": {
+    "en": "From October 1991 the Yugoslav People's Army and Montenegrin forces besieged Dubrovnik, shelling the UNESCO-listed old town, most heavily on 6 December 1991. The attacks on the historic city drew worldwide condemnation, and the siege was lifted in 1992; commanders were later convicted by the International Criminal Tribunal for the former Yugoslavia (ICTY).",
+    "ko": "1991년 10월부터 유고슬라비아 인민군과 몬테네그로 병력은 두브로브니크를 포위하고 유네스코 세계유산인 구시가지를 포격했으며, 가장 격렬한 포격은 1991년 12월 6일에 있었다. 역사 도시에 대한 공격은 전 세계의 비난을 받았고 포위는 1992년 풀렸으며, 지휘관들은 이후 구유고슬라비아 국제형사재판소(ICTY)에서 유죄 판결을 받았다.",
+    "zh": "自1991年10月起，南斯拉夫人民军和黑山部队围困杜布罗夫尼克，炮击列入联合国教科文组织名录的老城，其中1991年12月6日的炮击最为猛烈。对这座历史名城的攻击招致全世界谴责，围城于1992年解除，相关指挥官后来被前南斯拉夫问题国际刑事法庭定罪。",
+    "ja": "1991年10月からユーゴスラビア人民軍とモンテネグロの部隊はドゥブロヴニクを包囲し、ユネスコ世界遺産の旧市街を砲撃した。最も激しい砲撃は1991年12月6日であった。歴史都市への攻撃は世界中の非難を浴び、包囲は1992年に解かれ、指揮官らはのちに旧ユーゴスラビア国際刑事裁判所（ICTY）で有罪判決を受けた。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q505939",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of Vukovar and the Ovčara massacre",
+    "ko": "부코바르 전투와 오브차라 학살",
+    "zh": "武科瓦尔战役与奥夫恰拉屠杀",
+    "ja": "ヴコヴァルの戦いとオヴチャラの虐殺"
+   },
+   "description": {
+    "en": "From August to 18 November 1991 the Yugoslav People's Army and Serb paramilitaries besieged Vukovar on the Danube, reducing the city to ruins in the war's longest and bloodiest battle. After its fall, around 200 prisoners taken from the Vukovar hospital were killed at the Ovčara farm, and much of the non-Serb population was expelled; Vukovar became a powerful symbol of Croatian suffering and resistance.",
+    "ko": "1991년 8월부터 11월 18일까지 유고슬라비아 인민군과 세르비아계 준군사 조직은 도나우강 변의 부코바르를 포위해, 전쟁에서 가장 길고 참혹한 전투 끝에 도시를 폐허로 만들었다. 함락 후 부코바르 병원에서 끌려간 약 200명의 포로가 오브차라 농장에서 살해되었고, 비세르비아계 주민 다수가 추방되었다. 부코바르는 크로아티아의 고통과 저항의 강력한 상징이 되었다.",
+    "zh": "1991年8月至11月18日，南斯拉夫人民军和塞族准军事部队围攻多瑙河畔的武科瓦尔，在这场战争中历时最长、最惨烈的战役中将城市夷为废墟。城陷后，约200名从武科瓦尔医院带走的俘虏在奥夫恰拉农场被杀害，大批非塞族居民遭驱逐。武科瓦尔成为克罗地亚苦难与抵抗的有力象征。",
+    "ja": "1991年8月から11月18日まで、ユーゴスラビア人民軍とセルビア系準軍事組織はドナウ河畔のヴコヴァルを包囲し、戦争で最も長く凄惨な戦いの末に町を廃墟とした。陥落後、ヴコヴァルの病院から連れ出された約200人の捕虜がオヴチャラ農場で殺害され、非セルビア系住民の多くが追放された。ヴコヴァルはクロアチアの苦難と抵抗の強力な象徴となった。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q1470352",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Škabrnja massacre",
+    "ko": "슈카브르냐 학살",
+    "zh": "什卡布尔尼亚屠杀",
+    "ja": "シュカブルニャの虐殺"
+   },
+   "description": {
+    "en": "On 18 November 1991, the same day Vukovar fell, Yugoslav People's Army units and Serb paramilitaries overran the village of Škabrnja near Zadar and killed dozens of Croatian civilians and prisoners. It was one of several massacres of civilians on both sides during the war that were later examined by the ICTY and national courts.",
+    "ko": "부코바르가 함락된 같은 날인 1991년 11월 18일, 유고슬라비아 인민군 부대와 세르비아계 준군사 조직은 자다르 인근 슈카브르냐 마을을 점령하고 크로아티아 민간인과 포로 수십 명을 살해했다. 이는 전쟁 중 양측에서 일어나 훗날 ICTY와 각국 법원에서 다루어진 여러 민간인 학살 가운데 하나였다.",
+    "zh": "1991年11月18日，即武科瓦尔陷落当天，南斯拉夫人民军部队和塞族准军事人员攻占扎达尔附近的什卡布尔尼亚村，杀害了数十名克罗地亚平民和俘虏。这是战争期间双方发生的多起平民屠杀之一，后来均经前南刑庭和各国法院审理。",
+    "ja": "ヴコヴァルが陥落したのと同じ1991年11月18日、ユーゴスラビア人民軍の部隊とセルビア系準軍事組織はザダル近郊のシュカブルニャ村を制圧し、クロアチア人の民間人と捕虜数十人を殺害した。これは戦争中に双方で起き、のちにICTYや各国の裁判所で審理された民間人虐殺の一つであった。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": "Q12644350",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "International recognition and the Vance plan",
+    "ko": "국제적 승인과 밴스 계획",
+    "zh": "获得国际承认与万斯计划",
+    "ja": "国際的承認とヴァンス計画"
+   },
+   "description": {
+    "en": "Under the Vance plan, a ceasefire took effect in January 1992 and UN peacekeepers (UNPROFOR) were deployed to protected areas in the Serb-held territories. On 15 January 1992 the European Community states recognized Croatia's independence, and on 22 May 1992 Croatia was admitted to the United Nations.",
+    "ko": "밴스 계획에 따라 1992년 1월 휴전이 발효되고 세르비아계 점령 지역의 보호 구역에 유엔 평화유지군(UNPROFOR)이 배치되었다. 1992년 1월 15일 유럽공동체 회원국들이 크로아티아의 독립을 승인했고, 1992년 5월 22일 크로아티아는 국제연합에 가입했다.",
+    "zh": "根据万斯计划，停火于1992年1月生效，联合国维和部队（联合国保护部队）部署到塞族控制区内的保护区。1992年1月15日，欧共体各国承认克罗地亚独立；1992年5月22日，克罗地亚加入联合国。",
+    "ja": "ヴァンス計画に基づき1992年1月に停戦が発効し、セルビア系支配地域の保護区に国連平和維持軍（UNPROFOR）が展開した。1992年1月15日に欧州共同体諸国がクロアチアの独立を承認し、1992年5月22日にクロアチアは国際連合に加盟した。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": "Q1313538",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Operation Maslenica",
+    "ko": "마슬레니차 작전",
+    "zh": "马斯莱尼察行动",
+    "ja": "マスレニツァ作戦"
+   },
+   "description": {
+    "en": "In January 1993 the Croatian Army launched Operation Maslenica to retake the area around the Maslenica strait, where the destroyed bridge had cut the land link between Dalmatia and northern Croatia. The offensive restored a connection via a pontoon bridge and recaptured Zemunik airport near Zadar.",
+    "ko": "1993년 1월 크로아티아군은 파괴된 다리로 달마티아와 크로아티아 북부의 육상 연결이 끊겼던 마슬레니차 해협 일대를 탈환하기 위해 마슬레니차 작전을 개시했다. 이 공세로 부교를 통한 연결이 복구되고 자다르 인근 제무니크 공항이 탈환되었다.",
+    "zh": "1993年1月，克罗地亚军队发动马斯莱尼察行动，以收复马斯莱尼察海峡一带地区。此前大桥被毁，切断了达尔马提亚与克罗地亚北部之间的陆路联系。此次攻势通过浮桥恢复了交通，并收复了扎达尔附近的泽穆尼克机场。",
+    "ja": "1993年1月、クロアチア軍は、橋の破壊によりダルマチアとクロアチア北部の陸上の連絡が断たれていたマスレニツァ海峡一帯を奪回するため、マスレニツァ作戦を開始した。この攻勢により舟橋による連絡が回復され、ザダル近郊のゼムニク空港が奪回された。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": "Q1639136",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Operation Medak Pocket",
+    "ko": "메다크 포켓 작전",
+    "zh": "梅达克口袋行动",
+    "ja": "メダク・ポケット作戦"
+   },
+   "description": {
+    "en": "In September 1993 Croatian forces attacked the Medak Pocket near Gospić and captured several Serb-held villages before withdrawing under international pressure. Canadian UN peacekeepers who entered the area clashed with Croatian troops and found that villages had been destroyed and civilians killed; the operation later led to war crimes proceedings.",
+    "ko": "1993년 9월 크로아티아군은 고스피치 인근 메다크 포켓을 공격해 세르비아계가 장악한 여러 마을을 점령했다가 국제적 압력 속에 철수했다. 이 지역에 진입한 캐나다 유엔 평화유지군은 크로아티아군과 교전했고 마을들이 파괴되고 민간인이 살해된 것을 확인했다. 이 작전은 이후 전쟁범죄 재판으로 이어졌다.",
+    "zh": "1993年9月，克罗地亚部队进攻戈斯皮奇附近的梅达克口袋，占领了数个塞族控制的村庄，后在国际压力下撤出。进入该地区的加拿大联合国维和部队与克罗地亚军队发生交火，并发现村庄被毁、平民遇害；该行动后来引发了战争罪诉讼。",
+    "ja": "1993年9月、クロアチア軍はゴスピッチ近郊のメダク・ポケットを攻撃してセルビア系支配下のいくつかの村を占領したが、国際的圧力を受けて撤退した。この地域に入ったカナダの国連平和維持部隊はクロアチア軍と交戦し、村々が破壊され民間人が殺害されていたことを確認した。この作戦はのちに戦争犯罪の裁判につながった。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": "Q1374443",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Operation Flash and the Zagreb rocket attacks",
+    "ko": "섬광 작전과 자그레브 로켓 공격",
+    "zh": "闪电行动与萨格勒布火箭袭击",
+    "ja": "閃光作戦とザグレブへのロケット攻撃"
+   },
+   "description": {
+    "en": "On 1–3 May 1995 the Croatian Army retook Serb-held Western Slavonia in Operation Flash, reopening the main highway between Zagreb and eastern Croatia. In retaliation, Krajina Serb forces fired cluster rockets at Zagreb on 2 and 3 May, killing and wounding civilians; RSK leader Milan Martić was later convicted by the ICTY for the attacks.",
+    "ko": "1995년 5월 1~3일 크로아티아군은 섬광 작전으로 세르비아계가 장악한 서슬라보니아를 되찾아 자그레브와 크로아티아 동부를 잇는 주요 고속도로를 다시 열었다. 이에 보복해 크라이나 세르비아계 병력은 5월 2일과 3일 자그레브에 집속 로켓을 발사해 민간인 사상자를 냈으며, 세르비아 크라이나 공화국 지도자 밀란 마르티치는 이 공격으로 훗날 ICTY에서 유죄 판결을 받았다.",
+    "zh": "1995年5月1日至3日，克罗地亚军队在“闪电行动”中收复了塞族控制的西斯拉沃尼亚，重新打通了萨格勒布与克罗地亚东部之间的主要公路。作为报复，克拉伊纳塞族部队于5月2日和3日向萨格勒布发射集束火箭，造成平民伤亡；塞尔维亚克拉伊纳共和国领导人米兰·马尔蒂奇后来因此被前南刑庭定罪。",
+    "ja": "1995年5月1〜3日、クロアチア軍は閃光作戦でセルビア系支配下の西スラヴォニアを奪回し、ザグレブとクロアチア東部を結ぶ幹線道路を再開した。報復としてクライナのセルビア系部隊は5月2日と3日にザグレブにクラスター・ロケットを発射して民間人に死傷者を出し、セルビア・クライナ共和国の指導者ミラン・マルティッチはのちにこの攻撃でICTYから有罪判決を受けた。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": "Q769377",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Operation Storm ends the Homeland War",
+    "ko": "'폭풍 작전'과 조국전쟁의 종결",
+    "zh": "“风暴行动”结束祖国战争",
+    "ja": "「嵐作戦」と祖国戦争の終結"
+   },
+   "description": {
+    "en": "On 4–7 August 1995 the Croatian Army, in Operation Storm, retook most of the territory held by the Republic of Serbian Krajina, including Knin, and helped relieve the besieged Bihać pocket in Bosnia. Most of the region's Serb population, estimated at well over a hundred thousand people, fled, and crimes against remaining Serb civilians followed; the operation is celebrated in Croatia as a victory but remains contested, and the ICTY ultimately acquitted the Croatian generals on appeal in 2012.",
+    "ko": "1995년 8월 4~7일 크로아티아군은 '폭풍 작전'으로 크닌을 비롯한 세르비아 크라이나 공화국 장악 지역 대부분을 되찾고, 보스니아의 포위된 비하치 거점의 해방을 도왔다. 이 지역 세르비아계 주민 대부분, 10만 명을 훨씬 넘는 것으로 추산되는 사람들이 피란했고, 남은 세르비아계 민간인을 상대로 한 범죄가 뒤따랐다. 이 작전은 크로아티아에서 승리로 기념되지만 여전히 논쟁적이며, ICTY는 2012년 항소심에서 크로아티아 장군들에게 최종 무죄를 선고했다.",
+    "zh": "1995年8月4日至7日，克罗地亚军队通过“风暴行动”收复了包括克宁在内的塞尔维亚克拉伊纳共和国控制的大部分领土，并协助解救了波斯尼亚被围困的比哈奇地区。该地区大部分塞族居民（估计远超十万人）出逃，随后发生了针对留下的塞族平民的罪行。这一行动在克罗地亚被作为胜利纪念，但仍有争议；前南刑庭于2012年二审最终宣判克罗地亚将领无罪。",
+    "ja": "1995年8月4〜7日、クロアチア軍は「嵐作戦」でクニンを含むセルビア・クライナ共和国の支配地域の大部分を奪回し、ボスニアで包囲されていたビハチ地域の解放を助けた。地域のセルビア系住民の大半、推定10万人を大きく上回る人々が避難し、残ったセルビア系民間人に対する犯罪が続いた。この作戦はクロアチアでは勝利として祝われるが、なお論争的であり、ICTYは2012年の上訴審でクロアチアの将軍たちに最終的に無罪を言い渡した。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Erdut Agreement and the Dayton peace",
+    "ko": "에르두트 협정과 데이턴 평화",
+    "zh": "埃尔杜特协议与代顿和平",
+    "ja": "エルドゥト合意とデイトン和平"
+   },
+   "description": {
+    "en": "On 12 November 1995 the Croatian government and local Serb representatives signed the Erdut Agreement, providing for the peaceful reintegration of Eastern Slavonia, Baranja and Western Syrmia under a transitional UN administration. Weeks later the Dayton Agreement, signed by Croatia, Serbia and Bosnia and Herzegovina, ended the wars in Croatia and Bosnia.",
+    "ko": "1995년 11월 12일 크로아티아 정부와 현지 세르비아계 대표들은 에르두트 협정에 서명해, 유엔 과도 행정 아래 동슬라보니아·바라냐·서시르미아를 평화적으로 재통합하기로 했다. 몇 주 뒤 크로아티아·세르비아·보스니아 헤르체고비나가 서명한 데이턴 협정으로 크로아티아와 보스니아의 전쟁이 끝났다.",
+    "zh": "1995年11月12日，克罗地亚政府与当地塞族代表签署《埃尔杜特协议》，规定在联合国过渡行政当局管理下和平重新并入东斯拉沃尼亚、巴兰尼亚和西斯雷姆。数周后，克罗地亚、塞尔维亚和波斯尼亚和黑塞哥维那签署《代顿协议》，结束了克罗地亚和波斯尼亚的战争。",
+    "ja": "1995年11月12日、クロアチア政府と現地のセルビア系代表はエルドゥト合意に署名し、国連の暫定統治のもとで東スラヴォニア、バラニャ、西スレム地域を平和的に再統合することを定めた。数週間後、クロアチア、セルビア、ボスニア・ヘルツェゴヴィナが署名したデイトン合意によって、クロアチアとボスニアの戦争は終結した。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": "Q5330471",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Peaceful reintegration of Eastern Slavonia",
+    "ko": "동슬라보니아의 평화적 재통합",
+    "zh": "东斯拉沃尼亚和平重新并入",
+    "ja": "東スラヴォニアの平和的再統合"
+   },
+   "description": {
+    "en": "On 15 January 1998 the mandate of the UN Transitional Administration for Eastern Slavonia, Baranja and Western Sirmium (UNTAES) ended, and the region, including Vukovar, returned to full Croatian control. The process is often cited as one of the more successful UN peacekeeping missions, restoring Croatia's internationally recognized borders.",
+    "ko": "1998년 1월 15일 동슬라보니아·바라냐·서시르미아 유엔 과도행정기구(UNTAES)의 임무가 끝나면서, 부코바르를 포함한 이 지역은 완전히 크로아티아의 통제로 돌아왔다. 이 과정은 비교적 성공적인 유엔 평화유지 임무의 하나로 자주 언급되며, 크로아티아의 국제적으로 인정된 국경을 회복시켰다.",
+    "zh": "1998年1月15日，联合国东斯拉沃尼亚、巴兰尼亚和西斯雷姆过渡行政当局的任期结束，包括武科瓦尔在内的该地区完全回归克罗地亚控制。这一进程常被视为联合国较为成功的维和行动之一，恢复了克罗地亚国际公认的边界。",
+    "ja": "1998年1月15日、東スラヴォニア・バラニャ・西スレム国連暫定統治機構（UNTAES）の任務が終了し、ヴコヴァルを含むこの地域は完全にクロアチアの統治下に戻った。この過程は比較的成功した国連平和維持活動の一つとしてしばしば挙げられ、クロアチアの国際的に承認された国境を回復させた。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Croatia finishes third at the FIFA World Cup",
+    "ko": "크로아티아, FIFA 월드컵 3위",
+    "zh": "克罗地亚获世界杯季军",
+    "ja": "クロアチアがFIFAワールドカップで3位"
+   },
+   "description": {
+    "en": "At the 1998 FIFA World Cup in France, its first as an independent nation, Croatia reached the semi-finals and won the third-place match against the Netherlands. Davor Šuker won the Golden Boot as the tournament's top scorer, and the success became a defining moment of national pride for the young state.",
+    "ko": "독립국으로서 처음 출전한 1998년 프랑스 FIFA 월드컵에서 크로아티아는 준결승에 올랐고 3위 결정전에서 네덜란드를 이겼다. 다보르 슈케르는 대회 득점왕으로 골든부트를 받았으며, 이 성공은 신생 국가의 민족적 자긍심을 상징하는 순간이 되었다.",
+    "zh": "在1998年法国世界杯上，作为独立国家首次参赛的克罗地亚闯入半决赛，并在三四名决赛中战胜荷兰。达沃·苏克以赛事最佳射手身份获得金靴奖，这一成功成为这个年轻国家民族自豪感的标志性时刻。",
+    "ja": "独立国として初出場した1998年FIFAワールドカップ・フランス大会で、クロアチアは準決勝に進み、3位決定戦でオランダに勝利した。ダヴォル・シュケルは大会得点王としてゴールデンブーツを受賞し、この成功は若い国家の民族的誇りを象徴する瞬間となった。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": "Q1278351",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Political change after Tuđman",
+    "ko": "투지만 사후의 정치 변화",
+    "zh": "图季曼之后的政治变革",
+    "ja": "トゥジマン後の政治的転換"
+   },
+   "description": {
+    "en": "After the death of President Franjo Tuđman in December 1999, a centre-left coalition led by Ivica Račan won the January 2000 parliamentary elections and Stjepan Mesić was elected president in February. Constitutional changes in 2000–2001 reduced presidential powers in favour of parliament, and Croatia accelerated cooperation with the ICTY and its integration with the West.",
+    "ko": "1999년 12월 프라뇨 투지만 대통령이 사망한 뒤, 2000년 1월 총선에서 이비차 라찬이 이끄는 중도좌파 연합이 승리했고 2월에는 스테판 메시치가 대통령에 선출되었다. 2000~2001년 개헌으로 대통령 권한이 줄고 의회 권한이 강화되었으며, 크로아티아는 ICTY와의 협력과 서방 통합을 서둘렀다.",
+    "zh": "1999年12月弗拉尼奥·图季曼总统去世后，伊维察·拉昌领导的中左翼联盟赢得2000年1月议会选举，斯捷潘·梅西奇于2月当选总统。2000—2001年的修宪削弱了总统权力、加强了议会权力，克罗地亚也加快了与前南刑庭的合作及融入西方的步伐。",
+    "ja": "1999年12月にフラニョ・トゥジマン大統領が死去した後、2000年1月の総選挙でイヴィツァ・ラチャン率いる中道左派連合が勝利し、2月にはステパン・メシッチが大統領に選ばれた。2000〜2001年の憲法改正で大統領の権限は縮小され議会の権限が強化され、クロアチアはICTYとの協力と西側への統合を加速させた。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Croatia joins NATO",
+    "ko": "크로아티아, NATO 가입",
+    "zh": "克罗地亚加入北约",
+    "ja": "クロアチアがNATOに加盟"
+   },
+   "description": {
+    "en": "On 1 April 2009 Croatia, together with Albania, became a member of the North Atlantic Treaty Organization. Membership anchored the country's security in Western institutions less than fifteen years after the end of the Homeland War.",
+    "ko": "2009년 4월 1일 크로아티아는 알바니아와 함께 북대서양 조약 기구의 회원국이 되었다. 가입으로 크로아티아는 조국전쟁이 끝난 지 15년도 채 되지 않아 자국의 안보를 서방 제도 속에 단단히 자리매김했다.",
+    "zh": "2009年4月1日，克罗地亚与阿尔巴尼亚一同成为北大西洋公约组织成员国。入约使克罗地亚在祖国战争结束不到十五年后，将国家安全牢牢锚定于西方体系之中。",
+    "ja": "2009年4月1日、クロアチアはアルバニアとともに北大西洋条約機構の加盟国となった。加盟によって、祖国戦争の終結から15年足らずで国家の安全保障を西側の制度の中にしっかりと位置づけた。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q1259139",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "EU membership referendum",
+    "ko": "유럽연합 가입 국민투표",
+    "zh": "加入欧盟公投",
+    "ja": "EU加盟の国民投票"
+   },
+   "description": {
+    "en": "On 22 January 2012 Croatian voters approved joining the European Union in a referendum, with about two-thirds voting in favour, though turnout was relatively low. Croatia signed its accession treaty in December 2011, and ratification by the existing member states followed.",
+    "ko": "2012년 1월 22일 크로아티아 유권자들은 국민투표에서 약 3분의 2의 찬성으로 유럽연합 가입을 승인했으나, 투표율은 비교적 낮았다. 크로아티아는 2011년 12월 가입 조약에 서명했으며, 이후 기존 회원국들의 비준이 이어졌다.",
+    "zh": "2012年1月22日，克罗地亚选民在公投中以约三分之二的赞成票批准加入欧盟，但投票率相对较低。克罗地亚已于2011年12月签署入盟条约，随后由现有成员国陆续批准。",
+    "ja": "2012年1月22日、クロアチアの有権者は国民投票で約3分の2の賛成によりEU加盟を承認したが、投票率は比較的低かった。クロアチアは2011年12月に加盟条約に署名しており、その後既存加盟国による批准が続いた。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q748162",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Croatia joins the European Union",
+    "ko": "유럽연합 가입",
+    "zh": "加入欧洲联盟",
+    "ja": "欧州連合に加盟"
+   },
+   "description": {
+    "en": "On 1 July 2013 Croatia became the 28th member state of the European Union, the second former Yugoslav republic to join after Slovenia. Accession completed a decade of reforms in the judiciary, minority rights and the economy, and opened EU structural funds to the country.",
+    "ko": "2013년 7월 1일 크로아티아는 슬로베니아에 이어 옛 유고슬라비아 공화국으로는 두 번째로 유럽연합의 28번째 회원국이 되었다. 가입으로 사법·소수민족 권리·경제 분야의 10년에 걸친 개혁이 마무리되었고, 유럽연합 구조 기금이 크로아티아에 열렸다.",
+    "zh": "2013年7月1日，克罗地亚成为欧盟第28个成员国，是继斯洛文尼亚之后第二个入盟的前南斯拉夫共和国。入盟标志着司法、少数民族权利和经济领域十年改革的完成，也为克罗地亚打开了欧盟结构基金的大门。",
+    "ja": "2013年7月1日、クロアチアはスロヴェニアに次いで旧ユーゴスラビア共和国として2番目に、EUの28番目の加盟国となった。加盟により司法、少数民族の権利、経済分野での10年にわたる改革が完了し、EUの構造基金がクロアチアに開かれた。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q15145562",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Constitutional referendum on the definition of marriage",
+    "ko": "혼인 정의에 관한 헌법 국민투표",
+    "zh": "关于婚姻定义的宪法公投",
+    "ja": "婚姻の定義に関する憲法国民投票"
+   },
+   "description": {
+    "en": "On 1 December 2013, following a citizens' initiative backed by conservative and Catholic groups, Croatian voters approved a constitutional amendment defining marriage as a union between a man and a woman. In 2014 parliament nonetheless passed a Life Partnership Act granting same-sex couples many of the rights of married couples.",
+    "ko": "2013년 12월 1일 보수·가톨릭 단체가 지원한 시민 발의에 따라, 크로아티아 유권자들은 혼인을 남성과 여성의 결합으로 정의하는 헌법 개정안을 승인했다. 그럼에도 의회는 2014년 동성 커플에게 기혼 부부의 여러 권리를 보장하는 생활동반자법을 통과시켰다.",
+    "zh": "2013年12月1日，在保守派和天主教团体支持的公民倡议推动下，克罗地亚选民批准了一项将婚姻定义为一男一女结合的宪法修正案。尽管如此，议会于2014年通过《生活伴侣法》，赋予同性伴侣已婚夫妇的许多权利。",
+    "ja": "2013年12月1日、保守派やカトリック団体が支援した市民発議を受け、クロアチアの有権者は婚姻を男女の結合と定義する憲法改正を承認した。それでも議会は2014年、同性カップルに既婚夫婦の多くの権利を認める生活パートナーシップ法を可決した。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q18353155",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First female president",
+    "ko": "첫 여성 대통령 취임",
+    "zh": "首位女总统就任",
+    "ja": "初の女性大統領"
+   },
+   "description": {
+    "en": "In the 2014–15 presidential election, Kolinda Grabar-Kitarović, a former foreign minister and NATO assistant secretary general, narrowly defeated incumbent Ivo Josipović in the January 2015 run-off. She took office in February 2015 as Croatia's first female president.",
+    "ko": "2014~2015년 대통령 선거에서 외무장관과 NATO 사무차장보를 지낸 콜린다 그라바르키타로비치가 2015년 1월 결선 투표에서 현직 이보 요시포비치를 근소한 차이로 꺾었다. 그녀는 2015년 2월 크로아티아 최초의 여성 대통령으로 취임했다.",
+    "zh": "在2014—2015年总统选举中，曾任外交部长和北约助理秘书长的科林达·格拉巴尔-基塔罗维奇在2015年1月的第二轮投票中以微弱优势击败现任总统伊沃·约西波维奇，并于2015年2月就任克罗地亚首位女总统。",
+    "ja": "2014〜2015年の大統領選挙で、外相やNATO事務次長補を務めたコリンダ・グラバル＝キタロヴィッチが2015年1月の決選投票で現職イヴォ・ヨシポヴィッチを僅差で破った。彼女は2015年2月、クロアチア初の女性大統領に就任した。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "World Cup final in Moscow",
+    "ko": "모스크바 월드컵 결승 진출",
+    "zh": "闯入莫斯科世界杯决赛",
+    "ja": "モスクワでのワールドカップ決勝進出"
+   },
+   "description": {
+    "en": "At the 2018 FIFA World Cup in Russia, Croatia reached the final for the first time, losing 4–2 to France in Moscow on 15 July. Captain Luka Modrić was named the tournament's best player, and hundreds of thousands welcomed the team home in Zagreb.",
+    "ko": "2018년 러시아 FIFA 월드컵에서 크로아티아는 처음으로 결승에 올라 7월 15일 모스크바에서 프랑스에 4대 2로 졌다. 주장 루카 모드리치는 대회 최우수 선수로 선정되었고, 자그레브에서는 수십만 명이 귀국한 대표팀을 환영했다.",
+    "zh": "在2018年俄罗斯世界杯上，克罗地亚首次闯入决赛，7月15日在莫斯科以2比4负于法国。队长卢卡·莫德里奇当选赛事最佳球员，数十万人在萨格勒布迎接球队凯旋。",
+    "ja": "2018年FIFAワールドカップ・ロシア大会でクロアチアは初めて決勝に進出し、7月15日にモスクワでフランスに2対4で敗れた。主将ルカ・モドリッチは大会最優秀選手に選ばれ、ザグレブでは数十万人が帰国した代表チームを迎えた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q88259708",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Zagreb earthquake",
+    "ko": "자그레브 지진",
+    "zh": "萨格勒布地震",
+    "ja": "ザグレブ地震"
+   },
+   "description": {
+    "en": "On 22 March 2020, in the first weeks of the COVID-19 lockdown, a magnitude 5.5 earthquake struck Zagreb, the strongest in the city since 1880. It damaged many historic buildings in the old centre, including the cathedral, whose spire tip collapsed, and the parliament.",
+    "ko": "코로나19 봉쇄 초기였던 2020년 3월 22일 규모 5.5의 지진이 자그레브를 강타했는데, 1880년 이후 이 도시에서 가장 강한 지진이었다. 첨탑 끝부분이 무너진 대성당과 의회 건물을 비롯해 구도심의 많은 역사적 건물이 피해를 입었다.",
+    "zh": "2020年3月22日，正值新冠疫情封锁初期，萨格勒布发生5.5级地震，这是该市自1880年以来最强烈的地震。老城区许多历史建筑受损，包括尖塔顶部坍塌的主教座堂以及议会大楼。",
+    "ja": "COVID-19のロックダウンが始まって間もない2020年3月22日、マグニチュード5.5の地震がザグレブを襲った。1880年以来この町で最も強い地震であり、尖塔の先端が崩れた大聖堂や議会をはじめ、旧市街の多くの歴史的建物が被害を受けた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q80450277",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Croatia's first EU Council presidency",
+    "ko": "크로아티아의 첫 EU 이사회 의장국 수임",
+    "zh": "克罗地亚首次担任欧盟理事会轮值主席国",
+    "ja": "クロアチア初のEU理事会議長国"
+   },
+   "description": {
+    "en": "From January to June 2020 Croatia held the rotating presidency of the Council of the European Union for the first time. Its term was dominated by Brexit, which took effect on 31 January 2020, and by the EU's response to the COVID-19 pandemic, which hit Croatia from late February.",
+    "ko": "2020년 1월부터 6월까지 크로아티아는 처음으로 유럽연합 이사회의 순회 의장국을 맡았다. 임기는 2020년 1월 31일 발효된 브렉시트와, 2월 말부터 크로아티아에도 닥친 코로나19 팬데믹에 대한 유럽연합의 대응이 주를 이루었다.",
+    "zh": "2020年1月至6月，克罗地亚首次担任欧盟理事会轮值主席国。其任期内的主要议题是2020年1月31日生效的英国脱欧，以及欧盟对2月下旬起波及克罗地亚的新冠疫情的应对。",
+    "ja": "2020年1月から6月まで、クロアチアは初めてEU理事会の輪番議長国を務めた。その任期は2020年1月31日に発効したブレグジットと、2月下旬からクロアチアにも及んだCOVID-19パンデミックへのEUの対応が中心となった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q104535090",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Petrinja earthquake",
+    "ko": "페트리냐 지진",
+    "zh": "佩特里尼亚地震",
+    "ja": "ペトリニャ地震"
+   },
+   "description": {
+    "en": "On 29 December 2020 a magnitude 6.4 earthquake struck near Petrinja in Sisak-Moslavina County, the strongest in Croatia in over a century of instrumental records. It killed several people, devastated Petrinja, Sisak and Glina and surrounding villages, and left thousands homeless in an area still marked by the war of the 1990s.",
+    "ko": "2020년 12월 29일 시사크모슬라비나주 페트리냐 인근에서 규모 6.4의 지진이 일어났는데, 계기 관측 이래 한 세기 넘는 기간 동안 크로아티아에서 가장 강한 지진이었다. 여러 명이 숨지고 페트리냐·시사크·글리나와 주변 마을이 크게 파괴되었으며, 1990년대 전쟁의 상처가 남아 있던 이 지역에서 수천 명이 집을 잃었다.",
+    "zh": "2020年12月29日，锡萨克-莫斯拉维纳县佩特里尼亚附近发生6.4级地震，是克罗地亚有仪器记录一个多世纪以来最强烈的地震。地震造成数人死亡，佩特里尼亚、锡萨克、格利纳及周边村庄遭受严重破坏，在这一仍带有1990年代战争创伤的地区，数千人无家可归。",
+    "ja": "2020年12月29日、シサク＝モスラヴィナ郡ペトリニャ近郊でマグニチュード6.4の地震が発生した。計器観測が始まって1世紀余りでクロアチア最強の地震であった。数人が死亡し、ペトリニャ、シサク、グリナと周辺の村々が大きな被害を受け、1990年代の戦争の傷跡が残るこの地域で数千人が家を失った。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Pelješac Bridge opens",
+    "ko": "펠레샤츠 대교 개통",
+    "zh": "佩列沙茨大桥通车",
+    "ja": "ペリェシャツ橋の開通"
+   },
+   "description": {
+    "en": "On 26 July 2022 the Pelješac Bridge opened, linking the Croatian mainland with the Pelješac peninsula and connecting the Dubrovnik area to the rest of Croatia by road without crossing Bosnia and Herzegovina's short coastal strip at Neum. Built largely with EU funding by a Chinese consortium, it ended the territorial discontinuity of southern Dalmatia.",
+    "ko": "2022년 7월 26일 크로아티아 본토와 펠레샤츠반도를 잇는 펠레샤츠 대교가 개통되어, 보스니아 헤르체고비나의 짧은 해안 지대인 네움을 거치지 않고도 두브로브니크 지역이 도로로 크로아티아의 나머지 지역과 연결되었다. 주로 유럽연합 자금으로 중국 컨소시엄이 건설한 이 다리는 남부 달마티아의 영토 단절을 해소했다.",
+    "zh": "2022年7月26日，连接克罗地亚大陆与佩列沙茨半岛的佩列沙茨大桥通车，使杜布罗夫尼克地区无需穿越波斯尼亚和黑塞哥维那在内乌姆的短海岸线即可经公路与克罗地亚其他地区相连。大桥主要由欧盟出资、中国企业联合体承建，结束了达尔马提亚南部领土不相连的状况。",
+    "ja": "2022年7月26日、クロアチア本土とペリェシャツ半島を結ぶペリェシャツ橋が開通し、ボスニア・ヘルツェゴヴィナの短い海岸部ネウムを通らずにドゥブロヴニク地域がクロアチアの他の地域と道路で結ばれた。主にEU資金で中国の企業連合が建設したこの橋は、南ダルマチアの領土的な分断を解消した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q113486121",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Croatia adopts the euro and joins Schengen",
+    "ko": "유로화 도입과 솅겐 지역 가입",
+    "zh": "启用欧元并加入申根区",
+    "ja": "ユーロ導入とシェンゲン圏加入"
+   },
+   "description": {
+    "en": "On 1 January 2023 Croatia replaced the kuna with the euro and joined the Schengen Area on the same day, removing border controls with Slovenia and Hungary (with air borders following in March). The two steps marked the completion of Croatia's integration into the core institutions of the European Union.",
+    "ko": "2023년 1월 1일 크로아티아는 쿠나를 유로로 대체하고 같은 날 솅겐 지역에 가입해 슬로베니아·헝가리와의 국경 검문을 없앴다(항공 국경은 3월에 뒤따랐다). 이 두 조치는 크로아티아가 유럽연합 핵심 제도에 완전히 통합되었음을 의미했다.",
+    "zh": "2023年1月1日，克罗地亚以欧元取代库纳，并于同日加入申根区，取消了与斯洛文尼亚和匈牙利之间的边境检查（航空口岸于3月跟进）。这两项举措标志着克罗地亚全面融入欧盟核心体制。",
+    "ja": "2023年1月1日、クロアチアはクーナをユーロに置き換え、同日シェンゲン圏に加わってスロヴェニアやハンガリーとの国境審査を廃止した（空の国境は3月に続いた）。この2つの措置は、クロアチアがEUの中核的な制度に完全に統合されたことを示した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q84027698",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Elections of 2024: Plenković's third term and Milanović re-elected",
+    "ko": "2024년 선거: 플렌코비치 3기와 밀라노비치 재선",
+    "zh": "2024年选举：普连科维奇第三任期与米拉诺维奇连任",
+    "ja": "2024年の選挙：プレンコヴィッチ3期目とミラノヴィッチ再選"
+   },
+   "description": {
+    "en": "In snap parliamentary elections in April 2024, Andrej Plenković's HDZ came first and formed a coalition with the right-wing Homeland Movement, giving him a third term as prime minister. In the presidential election that began in December 2024, incumbent Zoran Milanović won re-election decisively in the run-off in January 2025.",
+    "ko": "2024년 4월 조기 총선에서 안드레이 플렌코비치의 HDZ가 제1당이 되어 우파 '조국 운동'과 연립 정부를 구성했고, 그는 세 번째로 총리를 맡게 되었다. 2024년 12월 시작된 대통령 선거에서는 현직 조란 밀라노비치가 2025년 1월 결선 투표에서 큰 차이로 재선되었다.",
+    "zh": "在2024年4月的提前议会选举中，安德烈·普连科维奇领导的克罗地亚民主共同体位居第一，并与右翼的“祖国运动”组成联合政府，使他第三次出任总理。在2024年12月开始的总统选举中，现任总统佐兰·米拉诺维奇在2025年1月的第二轮投票中以大比分连任。",
+    "ja": "2024年4月の解散総選挙で、アンドレイ・プレンコヴィッチ率いるHDZが第1党となり、右派の「祖国運動」と連立政権を組んで、彼は3期目の首相に就いた。2024年12月に始まった大統領選挙では、現職のゾラン・ミラノヴィッチが2025年1月の決選投票で大差をつけて再選された。"
+   }
+  }
+ ]
+}

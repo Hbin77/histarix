@@ -1,59 +1,49 @@
 "use client";
 
-import { useState, useCallback, useRef, useEffect } from "react";
+import { useState, useCallback, useEffect } from "react";
+import { MAX_YEAR, MIN_YEAR, clampYear, posToYear, yearToPos } from "@/lib/years";
 
 interface UseTimeSliderResult {
   currentYear: number;
   isPlaying: boolean;
   setCurrentYear: (year: number) => void;
   togglePlay: () => void;
-  play: () => void;
-  pause: () => void;
 }
 
-export function useTimeSlider(initialYear = 2000): UseTimeSliderResult {
-  const [currentYear, setCurrentYear] = useState(initialYear);
+const TICK_MS = 120;
+/** track fraction per tick — a full sweep takes ~48 s */
+const PLAY_STEP = 1 / 400;
+
+export function useTimeSlider(initialYear = MAX_YEAR): UseTimeSliderResult {
+  const [currentYear, setYear] = useState(initialYear);
   const [isPlaying, setIsPlaying] = useState(false);
-  const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
-  const pause = useCallback(() => {
-    setIsPlaying(false);
-    if (intervalRef.current) {
-      clearInterval(intervalRef.current);
-      intervalRef.current = null;
-    }
-  }, []);
-
-  const play = useCallback(() => {
-    setIsPlaying(true);
+  const setCurrentYear = useCallback((year: number) => {
+    setYear(clampYear(year));
   }, []);
 
   const togglePlay = useCallback(() => {
-    setIsPlaying((prev) => !prev);
-  }, []);
+    // replay from the start when pressed at the end of the track
+    if (!isPlaying && currentYear >= MAX_YEAR) setYear(MIN_YEAR);
+    setIsPlaying(!isPlaying);
+  }, [isPlaying, currentYear]);
 
+  // play advances along the track (not by years), so every era passes at
+  // the pace the slider gives it
   useEffect(() => {
-    if (isPlaying) {
-      intervalRef.current = setInterval(() => {
-        setCurrentYear((prev) => {
-          if (prev >= 2026) {
-            setIsPlaying(false);
-            return prev;
-          }
-          return prev + 1;
-        });
-      }, 200);
-    } else if (intervalRef.current) {
-      clearInterval(intervalRef.current);
-      intervalRef.current = null;
-    }
-
-    return () => {
-      if (intervalRef.current) {
-        clearInterval(intervalRef.current);
-      }
-    };
+    if (!isPlaying) return;
+    const id = setInterval(() => {
+      setYear((prev) => {
+        const next = Math.max(prev + 1, posToYear(yearToPos(prev) + PLAY_STEP));
+        return clampYear(next);
+      });
+    }, TICK_MS);
+    return () => clearInterval(id);
   }, [isPlaying]);
 
-  return { currentYear, isPlaying, setCurrentYear, togglePlay, play, pause };
+  useEffect(() => {
+    if (isPlaying && currentYear >= MAX_YEAR) setIsPlaying(false);
+  }, [isPlaying, currentYear]);
+
+  return { currentYear, isPlaying, setCurrentYear, togglePlay };
 }

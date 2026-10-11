@@ -1,0 +1,3008 @@
+{
+ "iso": "KZ",
+ "eras": [
+  {
+   "from": -3700,
+   "to": -3100,
+   "kind": "culture",
+   "qid": "Q279792",
+   "polity": null,
+   "name": {
+    "en": "Botai culture",
+    "ko": "보타이 문화",
+    "zh": "博泰文化",
+    "ja": "ボタイ文化"
+   },
+   "summary": {
+    "en": "The Eneolithic Botai culture of the northern Kazakh steppe lived in large villages of semi-subterranean houses and depended overwhelmingly on horses. Residues of mare's milk in pottery and bit-wear on teeth have been interpreted as some of the earliest evidence of horse harnessing and milking, although genetic studies show Botai horses were ancestors of Przewalski's horses rather than modern domestic breeds. The question of whether Botai people truly domesticated the horse remains debated.",
+    "ko": "카자흐 초원 북부의 동석기 보타이 문화 사람들은 반지하식 가옥이 모인 큰 마을에 살며 생계를 거의 전적으로 말에 의존했다. 토기에 남은 말젖 흔적과 이빨의 재갈 마모 흔적은 말을 부리고 젖을 짠 가장 이른 증거의 하나로 해석되지만, 유전자 연구에 따르면 보타이의 말은 현대 가축말이 아니라 프르제발스키말의 조상이었다. 보타이인이 실제로 말을 가축화했는지는 여전히 논쟁 중이다.",
+    "zh": "哈萨克草原北部的铜石并用时代博泰文化居民住在由半地穴式房屋组成的大型村落中，生计几乎完全依赖马匹。陶器中残留的马奶痕迹和马齿上的嚼具磨损被视为人类驾驭马匹、挤马奶的最早证据之一，但基因研究表明，博泰马是普氏野马而非现代家马的祖先。博泰人是否真正驯化了马，至今仍有争议。",
+    "ja": "カザフ草原北部の銅石器時代のボタイ文化の人々は、半地下式住居が集まる大きな村に住み、生業をほぼ全面的に馬に頼っていた。土器に残る馬乳の痕跡や歯に残るはみの摩耗は、馬の制御と搾乳の最古級の証拠と解釈されてきたが、遺伝子研究によればボタイの馬は現代の家畜馬ではなくモウコノウマの祖先だった。ボタイの人々が本当に馬を家畜化したかは今も議論が続いている。"
+   }
+  },
+  {
+   "from": -3100,
+   "to": -2001,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Eneolithic and Early Bronze Age of the Kazakh steppe",
+    "ko": "카자흐 초원의 동석기·초기 청동기 시대",
+    "zh": "哈萨克草原的铜石并用时代与早期青铜时代",
+    "ja": "カザフ草原の銅石器時代・初期青銅器時代"
+   },
+   "summary": {
+    "en": "After Botai, the vast steppe and semi-desert of Kazakhstan was occupied by scattered communities of hunters, fishers and herders who increasingly kept cattle, sheep and horses. In the Altai foothills of the east, groups related to the Afanasievo culture practised early stockbreeding and metalworking. Copper use slowly spread across the region, preparing the ground for the Bronze Age pastoral cultures.",
+    "ko": "보타이 문화 이후 카자흐스탄의 광활한 초원과 반사막에는 수렵·어로·목축을 하는 공동체들이 흩어져 살았고, 점차 소·양·말 사육의 비중이 커졌다. 동쪽 알타이 산록에서는 아파나시예보 문화 계통의 집단이 초기 목축과 금속 가공을 했다. 구리 사용이 서서히 퍼지면서 청동기 시대 목축 문화의 토대가 마련되었다.",
+    "zh": "博泰文化之后，哈萨克斯坦广袤的草原和半荒漠地带散布着从事狩猎、渔捞和放牧的群体，他们饲养牛、羊和马的比重日益增加。在东部阿尔泰山麓，与阿凡纳谢沃文化相关的人群已开始早期畜牧和金属加工。铜器的使用逐渐扩散，为青铜时代的游牧文化奠定了基础。",
+    "ja": "ボタイ文化の後、カザフスタンの広大な草原と半砂漠には狩猟・漁労・牧畜を営む共同体が点在し、次第に牛・羊・馬の飼育の比重が高まった。東部のアルタイ山麓では、アファナシェヴォ文化に連なる集団が初期の牧畜と金属加工を行っていた。銅の使用がゆっくりと広がり、青銅器時代の牧畜文化の土台が整えられた。"
+   }
+  },
+  {
+   "from": -2000,
+   "to": -1301,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Andronovo culture",
+    "ko": "안드로노보 문화",
+    "zh": "安德罗诺沃文化",
+    "ja": "アンドロノヴォ文化"
+   },
+   "summary": {
+    "en": "The Bronze Age Andronovo cultural horizon, with regional variants such as Petrovka, Alakul and Fedorovo, covered almost the whole of Kazakhstan. Its people were cattle- and horse-breeding pastoralists and skilled metallurgists who mined copper and tin in central and eastern Kazakhstan; many scholars associate them with early Indo-Iranian speakers. They built settlements of large timber houses and buried their dead in stone-enclosed kurgans, some with chariot equipment.",
+    "ko": "청동기 시대 안드로노보 문화권은 페트로프카·알라쿨·표도로보 같은 지역 유형을 포함하며 카자흐스탄 거의 전역에 퍼져 있었다. 이들은 소와 말을 기르는 목축민이자 카자흐스탄 중부와 동부에서 구리와 주석을 채굴한 뛰어난 야금 기술자였으며, 많은 학자가 초기 인도이란어 사용자와 연결한다. 이들은 큰 목조 가옥으로 이루어진 취락을 세우고, 돌로 둘러싼 쿠르간에 죽은 이를 묻었으며 일부 무덤에는 전차 관련 유물이 들어 있었다.",
+    "zh": "青铜时代的安德罗诺沃文化圈包括彼得罗夫卡、阿拉库尔、费德罗沃等地方类型，几乎覆盖了整个哈萨克斯坦。其居民是饲养牛马的牧民，也是技艺娴熟的冶金者，在哈萨克斯坦中部和东部开采铜矿和锡矿；许多学者认为他们与早期操印度-伊朗语的人群有关。他们建造由大型木屋组成的聚落，以石圈环绕的库尔干安葬死者，部分墓葬出土了车马器具。",
+    "ja": "青銅器時代のアンドロノヴォ文化圏は、ペトロフカ、アラクリ、フョードロヴォなどの地域類型を含み、カザフスタンのほぼ全域に広がった。人々は牛や馬を飼う牧畜民であると同時に、カザフスタン中部・東部で銅や錫を採掘した優れた冶金技術者でもあり、多くの研究者は初期のインド・イラン語話者と結びつけている。大型の木造家屋からなる集落を築き、石で囲んだクルガンに死者を葬り、一部の墓からは戦車に関わる遺物が出土している。"
+   }
+  },
+  {
+   "from": -1300,
+   "to": -801,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Late Bronze Age: Begazy-Dandybai culture",
+    "ko": "후기 청동기 시대: 베가지-단디바이 문화",
+    "zh": "青铜时代晚期：别加济-丹迪拜文化",
+    "ja": "後期青銅器時代：ベガジ・ダンディバイ文化"
+   },
+   "summary": {
+    "en": "In the late Bronze Age the steppe saw a transition from settled stockbreeding toward greater mobility. In central Kazakhstan the Begazy-Dandybai culture built monumental stone mausolea for its elite and large settlements linked to copper mining and smelting. Similar late Bronze Age groups lived across the north, east and west of the country, and toward the end of the period horse-riding pastoral nomadism took shape.",
+    "ko": "후기 청동기 시대에 초원에서는 정주형 목축에서 이동성이 큰 생활로의 전환이 일어났다. 카자흐스탄 중부의 베가지-단디바이 문화는 지배층을 위한 거대한 석조 묘당을 세웠고, 구리 채굴·제련과 연결된 큰 취락을 남겼다. 비슷한 후기 청동기 집단이 북부·동부·서부에도 살았으며, 시기 말엽에는 말을 타는 유목 목축이 형성되었다.",
+    "zh": "青铜时代晚期，草原上出现了由定居畜牧向更高流动性生活方式的转变。哈萨克斯坦中部的别加济-丹迪拜文化为上层人物修建了宏伟的石砌陵墓，并留下了与采铜、炼铜相关的大型聚落。类似的晚期青铜文化群体分布于该国北部、东部和西部，到这一时期末，骑马游牧经济逐渐成形。",
+    "ja": "後期青銅器時代の草原では、定住的な牧畜から移動性の高い生活への転換が進んだ。カザフスタン中部のベガジ・ダンディバイ文化は支配層のための巨大な石造霊廟を築き、銅の採掘・精錬に関わる大集落を残した。同様の後期青銅器文化の集団は北部・東部・西部にも暮らし、時代の終わり頃には騎馬遊牧が形づくられた。"
+   }
+  },
+  {
+   "from": -800,
+   "to": -201,
+   "kind": "culture",
+   "qid": "Q131802",
+   "polity": "Scythia",
+   "name": {
+    "en": "Saka (Scythian) nomads",
+    "ko": "사카(스키타이) 유목민",
+    "zh": "塞种（斯基泰）游牧民",
+    "ja": "サカ（スキタイ）遊牧民"
+   },
+   "summary": {
+    "en": "In the early Iron Age Iranian-speaking nomads known to the Persians as Saka and to the Greeks as Scythians dominated the steppe, with related Sauromatian and later Sarmatian tribes in the west. Regional cultures such as Tasmola in central Kazakhstan, the Saka of Zhetysu and the Pazyryk-type culture of the Kazakh Altai left thousands of kurgans rich in gold work in the animal style. The Saka created the classic horse-riding nomadic way of life of the Kazakh steppe.",
+    "ko": "초기 철기 시대에는 페르시아인이 사카, 그리스인이 스키타이라 부른 이란어계 유목민이 초원을 지배했고, 서부에는 이들과 가까운 사우로마타이와 이후 사르마타이 부족이 살았다. 카자흐스탄 중부의 타스몰라 문화, 제티수의 사카, 카자흐 알타이의 파지리크형 문화 등 지역 문화들은 동물 양식의 금공예품이 풍부한 수천 기의 쿠르간을 남겼다. 사카는 카자흐 초원 특유의 기마 유목 생활 양식을 완성했다.",
+    "zh": "早期铁器时代，被波斯人称为“塞种”、被希腊人称为“斯基泰”的操伊朗语游牧民称雄草原，西部则有与其相近的萨夫罗马泰人及后来的萨尔马泰人部落。哈萨克斯坦中部的塔斯莫拉文化、七河地区的塞种以及哈萨克阿尔泰的巴泽雷克类型文化等地方文化留下了数以千计的库尔干，出土大量动物纹样金器。塞种人确立了哈萨克草原典型的骑马游牧生活方式。",
+    "ja": "初期鉄器時代には、ペルシア人にサカ、ギリシア人にスキタイと呼ばれたイラン語系遊牧民が草原を支配し、西部には近縁のサウロマタイ、のちにサルマタイの諸部族がいた。カザフスタン中部のタスモラ文化、七河地方（ジェティス）のサカ、カザフ・アルタイのパジリク型文化などの地域文化は、動物意匠の金工品に富む数千基のクルガンを残した。サカはカザフ草原特有の騎馬遊牧の生活様式を確立した。"
+   }
+  },
+  {
+   "from": -200,
+   "to": 450,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Kangju",
+    "ko": "강거",
+    "zh": "康居",
+    "ja": "康居"
+   },
+   "summary": {
+    "en": "Kangju was a nomadic and semi-settled confederation known mainly from Chinese records, centred on the middle Syr Darya and the Karatau region of southern Kazakhstan. It was a major power from the 2nd century BC, controlling trade routes between the steppe and Sogdiana and at times sheltering enemies of Han China such as the Xiongnu chanyu Zhizhi. Archaeologists often link it with the oasis settlements of the Otrar-Karatau culture, although the identification is debated.",
+    "ko": "강거는 주로 중국 사료를 통해 알려진 유목·반정주 연합체로, 카자흐스탄 남부의 시르다리야 중류와 카라타우 지역을 중심으로 했다. 기원전 2세기부터 강국으로 성장해 초원과 소그디아나를 잇는 교역로를 장악했으며, 때로는 흉노의 질지 선우처럼 한나라의 적을 보호하기도 했다. 고고학자들은 흔히 강거를 오트라르-카라타우 문화의 오아시스 취락과 연결하지만, 이 비정에는 이견이 있다.",
+    "zh": "康居是主要见于中国史籍的游牧与半定居联合体，中心位于哈萨克斯坦南部的锡尔河中游和卡拉套地区。自公元前2世纪起，康居成为强国，控制草原与粟特之间的商道，有时还庇护匈奴郅支单于等汉朝的敌人。考古学者常把康居与奥特拉尔-卡拉套文化的绿洲聚落联系起来，但这一比定尚有争议。",
+    "ja": "康居は主に中国史料で知られる遊牧・半定住の連合体で、カザフスタン南部のシルダリヤ川中流域とカラタウ地方を中心とした。紀元前2世紀から強国となり、草原とソグディアナを結ぶ交易路を押さえ、時には匈奴の郅支単于のような漢の敵をかくまった。考古学者はしばしば康居をオトラル・カラタウ文化のオアシス集落と結びつけるが、この比定には異論もある。"
+   }
+  },
+  {
+   "from": -176,
+   "to": 155,
+   "kind": "state",
+   "qid": "Q188836",
+   "polity": "Xiongnu",
+   "name": {
+    "en": "Xiongnu dominance",
+    "ko": "흉노의 패권",
+    "zh": "匈奴称霸",
+    "ja": "匈奴の覇権"
+   },
+   "summary": {
+    "en": "From the 170s BC the Xiongnu empire of Mongolia extended its power westward over the eastern and southeastern Kazakh steppe, driving out the Yuezhi and making the Wusun and other peoples its allies or tributaries. Rival chanyus later carried their struggles into the region, most famously Zhizhi, who was killed at his fortress on the Talas in 36 BC. After the Xiongnu split, northern Xiongnu groups retreated westward across the steppe in the 1st and 2nd centuries AD.",
+    "ko": "기원전 170년대부터 몽골 고원의 흉노 제국은 세력을 서쪽으로 넓혀 카자흐 초원 동부와 남동부에 영향력을 미쳤고, 월지를 몰아내고 오손 등 여러 민족을 동맹이나 속국으로 삼았다. 이후 서로 다투던 선우들이 이 지역까지 분쟁을 끌고 왔는데, 기원전 36년 탈라스 강가의 성채에서 죽은 질지 선우가 대표적이다. 흉노가 분열한 뒤 북흉노 집단은 1~2세기에 초원을 가로질러 서쪽으로 물러났다.",
+    "zh": "自公元前170年代起，蒙古高原的匈奴帝国向西扩张，势力及于哈萨克草原东部和东南部，驱逐了月氏，并使乌孙等民族成为其盟友或附庸。后来互相争斗的单于们将冲突带入这一地区，最著名的是公元前36年死于塔拉斯河畔城堡的郅支单于。匈奴分裂后，北匈奴部众在公元1至2世纪越过草原向西退却。",
+    "ja": "紀元前170年代から、モンゴル高原の匈奴帝国は西へ勢力を広げてカザフ草原東部・南東部に影響を及ぼし、月氏を追い出して烏孫などの諸民族を同盟者や従属国とした。のちに互いに争う単于たちがこの地域に抗争を持ち込み、なかでも紀元前36年にタラス河畔の城塞で殺された郅支単于が名高い。匈奴の分裂後、北匈奴の集団は1～2世紀に草原を横切って西へ退いた。"
+   }
+  },
+  {
+   "from": -170,
+   "to": 450,
+   "kind": "state",
+   "qid": "Q854062",
+   "polity": "Wusun",
+   "name": {
+    "en": "Wusun",
+    "ko": "오손",
+    "zh": "乌孙",
+    "ja": "烏孫"
+   },
+   "summary": {
+    "en": "The Wusun were a large horse-breeding people who, after driving the Yuezhi out of the Ili valley around the 130s BC, ruled Zhetysu (Semirechye) and the northern Tian Shan. Han China courted them as allies against the Xiongnu, sending envoys and princesses to their ruler, the kunmo. Many kurgans of Wusun date are known in the Ili valley and around Almaty; pressure from the Rouran pushed them into the mountains by the 5th century.",
+    "ko": "오손은 말을 대규모로 기르던 민족으로, 기원전 130년대 무렵 월지를 일리 계곡에서 몰아낸 뒤 제티수(세미레치예)와 톈산 북부를 다스렸다. 한나라는 흉노에 맞설 동맹으로 오손을 끌어들이고자 군주인 곤미에게 사신과 공주를 보냈다. 일리 계곡과 알마티 주변에는 오손 시대의 쿠르간이 많이 남아 있으며, 5세기 무렵 유연의 압박으로 오손은 산지로 밀려났다.",
+    "zh": "乌孙是盛产良马的大族，约在公元前130年代把月氏逐出伊犁河谷后，统治七河地区（谢米列奇耶）和天山北麓。汉朝为联合乌孙对抗匈奴，向其君主昆莫派遣使节并嫁以公主。伊犁河谷和阿拉木图周边留有大量乌孙时期的库尔干；到5世纪，乌孙在柔然的压迫下退入山区。",
+    "ja": "烏孫は馬を大量に飼う大民族で、紀元前130年代頃に月氏をイリ川流域から追い出したのち、七河地方（セミレチエ）と天山北部を支配した。漢は匈奴に対抗する同盟者として烏孫を引き入れようと、君主の昆莫に使者や公主を送った。イリ川流域やアルマトイ周辺には烏孫時代のクルガンが多く残り、5世紀頃には柔然の圧迫で山地へ追いやられた。"
+   }
+  },
+  {
+   "from": 150,
+   "to": 551,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Age of the Xianbei, Huns, Rouran and Hephthalites",
+    "ko": "선비·훈·유연·에프탈의 시대",
+    "zh": "鲜卑、匈人、柔然与嚈哒时代",
+    "ja": "鮮卑・フン・柔然・エフタルの時代"
+   },
+   "summary": {
+    "en": "Between the 2nd and 6th centuries the Kazakh steppe was a corridor for shifting nomadic powers. The Xianbei under Tanshihuai pushed west to the Wusun borders, Hunnic groups crossed the steppe north of the Aral and Caspian seas before appearing in Europe around 370, and the Rouran and then the Hephthalites dominated parts of the region. Written sources for this period are sparse, and much of what is known comes from archaeology.",
+    "ko": "2세기부터 6세기까지 카자흐 초원은 여러 유목 세력이 오가는 통로였다. 단석괴가 이끈 선비는 서쪽으로 오손의 경계까지 진출했고, 훈 계통 집단은 아랄해와 카스피해 북쪽 초원을 건너 370년 무렵 유럽에 나타났으며, 이어 유연과 에프탈이 이 지역 일부를 지배했다. 이 시기의 문헌 사료는 드물어 알려진 내용의 상당 부분은 고고학에 의존한다.",
+    "zh": "公元2世纪至6世纪，哈萨克草原是各游牧势力往来的通道。檀石槐率领的鲜卑向西推进到乌孙边境，匈人群体越过咸海和里海以北的草原，约于370年出现在欧洲，随后柔然和嚈哒相继控制了该地区的部分地方。这一时期的文献史料稀少，许多认识来自考古发现。",
+    "ja": "2世紀から6世紀にかけて、カザフ草原は移り変わる遊牧勢力の通り道だった。檀石槐の率いる鮮卑は西へ烏孫の境まで進出し、フン系の集団はアラル海とカスピ海の北の草原を越えて370年頃にヨーロッパに現れ、続いて柔然、さらにエフタルが地域の一部を支配した。この時代の文献史料は乏しく、知られていることの多くは考古学に拠っている。"
+   }
+  },
+  {
+   "from": 552,
+   "to": 603,
+   "kind": "state",
+   "qid": "Q15146034",
+   "polity": "Göktürk Khaganate",
+   "name": {
+    "en": "First Turkic Khaganate",
+    "ko": "제1 돌궐 카간국",
+    "zh": "突厥汗国",
+    "ja": "突厥第一可汗国"
+   },
+   "summary": {
+    "en": "In 552 the Ashina clan under Bumin overthrew the Rouran and founded the Turkic Khaganate, whose western wing under Istämi soon controlled the whole Kazakh steppe up to the Volga. The Turks protected Silk Road trade run by Sogdian merchants and exchanged embassies with Byzantium, Persia and China. The khaganate spread the Turkic language and the runic-script tradition that shaped the later peoples of the steppe.",
+    "ko": "552년 부민이 이끄는 아사나 씨족이 유연을 무너뜨리고 돌궐 카간국을 세웠으며, 이스테미가 이끈 서부 세력은 곧 볼가강에 이르는 카자흐 초원 전역을 장악했다. 돌궐은 소그드 상인이 운영하던 실크로드 교역을 보호했고 비잔티움·페르시아·중국과 사절을 주고받았다. 이 카간국은 튀르크어와 룬 문자 전통을 퍼뜨려 이후 초원 민족들의 바탕을 이루었다.",
+    "zh": "552年，布民（土门）率领阿史那氏推翻柔然，建立突厥汗国，其西部由室点密统领，很快控制了直至伏尔加河的整个哈萨克草原。突厥保护粟特商人经营的丝绸之路贸易，并与拜占庭、波斯和中国互派使节。突厥汗国传播了突厥语和卢尼文字传统，深刻影响了后来的草原民族。",
+    "ja": "552年、ブミンの率いる阿史那氏が柔然を倒して突厥可汗国を建て、イステミの率いる西方勢力はほどなくヴォルガ川に至るカザフ草原全域を支配した。突厥はソグド商人が担うシルクロード交易を保護し、ビザンツ・ペルシア・中国と使節を交わした。この可汗国は突厥語と突厥文字の伝統を広め、のちの草原諸民族の土台となった。"
+   }
+  },
+  {
+   "from": 603,
+   "to": 699,
+   "kind": "state",
+   "qid": null,
+   "polity": "Western Göktürks",
+   "name": {
+    "en": "Western Turkic Khaganate",
+    "ko": "서돌궐 카간국",
+    "zh": "西突厥汗国",
+    "ja": "西突厥可汗国"
+   },
+   "summary": {
+    "en": "After the Turkic realm split into eastern and western khaganates, the Western Turks ruled the Kazakh steppe and Zhetysu as a confederation of ten tribes, the On Oq, with seasonal capitals around Suyab and the Talas valley. The khaganate reached its height under Tong Yabghu in the 620s but was weakened by tribal strife. In 657 Tang China defeated the last independent khagan, Ashina Helu, and for some decades the region was nominally under Tang protectorates.",
+    "ko": "돌궐이 동서로 갈라진 뒤 서돌궐은 '온 오크(열 개의 화살)'라 불린 열 부족 연합으로 카자흐 초원과 제티수를 다스렸고, 쇄엽(수야브)과 탈라스 계곡 일대에 계절별 근거지를 두었다. 620년대 통 야브구 카간 때 전성기를 맞았으나 부족 간 분쟁으로 약해졌다. 657년 당나라가 마지막 독립 카간 아사나하로를 격파했고, 이후 수십 년간 이 지역은 명목상 당의 도호부 아래 놓였다.",
+    "zh": "突厥分裂为东西两部后，西突厥以“十箭”（On Oq）十部联盟的形式统治哈萨克草原和七河地区，在碎叶和塔拉斯河谷一带设有季节性牙帐。620年代统叶护可汗在位时达到鼎盛，但部落内斗使其衰弱。657年唐朝击败最后一位独立可汗阿史那贺鲁，此后数十年间该地区名义上隶属唐朝的都护府。",
+    "ja": "突厥が東西に分裂した後、西突厥は「オン・オク（十箭）」と呼ばれる十部族連合としてカザフ草原と七河地方を治め、砕葉（スーヤーブ）やタラス渓谷周辺に季節ごとの本営を置いた。620年代の統葉護可汗の時代に最盛期を迎えたが、部族間の抗争で弱体化した。657年に唐が最後の独立可汗阿史那賀魯を破り、その後数十年間この地域は名目上唐の都護府の下に置かれた。"
+   }
+  },
+  {
+   "from": 699,
+   "to": 766,
+   "kind": "state",
+   "qid": "Q1277895",
+   "polity": "Türgesh",
+   "name": {
+    "en": "Türgesh Khaganate",
+    "ko": "튀르기시 카간국",
+    "zh": "突骑施汗国",
+    "ja": "突騎施可汗国"
+   },
+   "summary": {
+    "en": "The Türgesh, one of the On Oq tribes, rose around 699 under Wuzhile and created a khaganate centred on Zhetysu and the Chu and Ili valleys. Under Suluk (r. 716–738) the Türgesh were the main obstacle to the Umayyad Arab advance into Central Asia, raiding Transoxiana repeatedly. After Suluk's murder the khaganate sank into civil war and fell to the Karluks in 766.",
+    "ko": "온 오크 부족의 하나인 튀르기시는 699년 무렵 오질륵(우질레) 아래에서 일어나 제티수와 추·일리 계곡을 중심으로 카간국을 세웠다. 술루크(재위 716~738) 시기 튀르기시는 우마이야 왕조 아랍군의 중앙아시아 진출을 가로막는 주된 세력으로 트란스옥시아나를 여러 차례 공격했다. 술루크가 살해된 뒤 카간국은 내전에 빠졌고 766년 카를루크에게 무너졌다.",
+    "zh": "突骑施是“十箭”部落之一，约在699年由乌质勒率领崛起，建立以七河地区和楚河、伊犁河谷为中心的汗国。苏禄（716—738年在位）时期，突骑施是阻挡倭马亚王朝阿拉伯军队进入中亚的主要力量，多次进袭河中地区。苏禄遇害后汗国陷入内战，766年被葛逻禄所灭。",
+    "ja": "オン・オク部族の一つである突騎施は、699年頃に烏質勒のもとで台頭し、七河地方とチュイ川・イリ川流域を中心とする可汗国を築いた。蘇禄（在位716～738年）の時代、突騎施はウマイヤ朝アラブ軍の中央アジア進出を阻む主力となり、マー・ワラー・アンナフルへ繰り返し侵攻した。蘇禄が殺害されると可汗国は内戦に陥り、766年に葛邏禄（カルルク）に滅ぼされた。"
+   }
+  },
+  {
+   "from": 750,
+   "to": 1055,
+   "kind": "state",
+   "qid": "Q1099731",
+   "polity": "Oghuz Turks",
+   "name": {
+    "en": "Oghuz Yabgu State",
+    "ko": "오구즈 야브구국",
+    "zh": "乌古斯叶护国",
+    "ja": "オグズ・ヤブグ国"
+   },
+   "summary": {
+    "en": "From the 8th century the Oghuz Turks, migrating west from the Zhetysu region, established a state on the lower and middle Syr Darya and the steppes of western Kazakhstan, ruled by a yabgu from the town of Yangikent near the Aral Sea. The Oghuz combined nomadic herding with trade through Syr Darya towns such as Jand and Sauran. In the 11th century the state was destroyed by Kipchak pressure, and Oghuz groups moved west and south, the Seljuks among them founding a great empire.",
+    "ko": "8세기부터 제티수 일대에서 서쪽으로 이동한 오구즈 튀르크는 시르다리야 중·하류와 카자흐스탄 서부 초원에 나라를 세웠고, 아랄해 근처 얀기켄트에서 야브구가 다스렸다. 오구즈는 유목 목축과 잔드·사우란 같은 시르다리야 도시를 통한 교역을 겸했다. 11세기 킵차크의 압박으로 나라가 무너지자 오구즈 집단은 서쪽과 남쪽으로 이주했고, 그 가운데 셀주크가 대제국을 세웠다.",
+    "zh": "自8世纪起，从七河一带西迁的乌古斯突厥人在锡尔河中下游和哈萨克斯坦西部草原建立国家，由叶护坐镇咸海附近的养吉干（扬吉肯特）进行统治。乌古斯人兼营游牧和经由毡的、索兰等锡尔河城镇的贸易。11世纪，国家在钦察人的压迫下瓦解，乌古斯各部向西、向南迁徙，其中塞尔柱人建立了大帝国。",
+    "ja": "8世紀以降、七河地方から西へ移動したオグズ・テュルクは、シルダリヤ川中・下流域とカザフスタン西部の草原に国家を築き、アラル海近くのヤンギケントからヤブグが統治した。オグズは遊牧と、ジャンドやサウランなどシルダリヤ沿いの町を通じた交易を兼ねていた。11世紀にキプチャクの圧迫で国家が崩壊すると、オグズ諸集団は西や南へ移住し、その中からセルジューク朝が大帝国を築いた。"
+   }
+  },
+  {
+   "from": 750,
+   "to": 1219,
+   "kind": "state",
+   "qid": "Q2477776",
+   "polity": "Kimek-Kipchak confederation",
+   "name": {
+    "en": "Kimek–Kipchak confederation",
+    "ko": "키메크-킵차크 연맹",
+    "zh": "基马克-钦察联盟",
+    "ja": "キメク・キプチャク連合"
+   },
+   "summary": {
+    "en": "The Kimeks, centred on the Irtysh river in the northeast, formed a khaganate in the 9th and 10th centuries that included the Kipchaks as its western branch. By the 11th century the Kipchaks had become dominant, expanding across the whole steppe from the Irtysh to the Danube, which Persian authors began to call the Dasht-i Kipchak, the Kipchak Steppe. Kipchak language and tribal names later became a major component of the Kazakh people.",
+    "ko": "북동부 이르티시강을 중심으로 한 키메크는 9~10세기에 카간국을 이루었고, 킵차크는 그 서쪽 분파였다. 11세기에는 킵차크가 주도권을 잡아 이르티시강에서 도나우강에 이르는 초원 전역으로 퍼졌으며, 페르시아 저자들은 이 초원을 '다슈티 킵차크(킵차크 초원)'라 부르기 시작했다. 킵차크어와 부족 이름은 훗날 카자흐 민족의 중요한 구성 요소가 되었다.",
+    "zh": "以东北部额尔齐斯河为中心的基马克人在9至10世纪形成汗国，钦察人是其西部分支。到11世纪，钦察人取得主导地位，扩展到从额尔齐斯河到多瑙河的整个草原，波斯作家开始称之为“钦察草原”（Dasht-i Kipchak）。钦察语和部落名称后来成为哈萨克民族的重要组成部分。",
+    "ja": "北東部のイルティシ川を中心とするキメクは9～10世紀に可汗国を形成し、キプチャクはその西方の一派だった。11世紀にはキプチャクが主導権を握り、イルティシ川からドナウ川に至る草原全域に広がり、ペルシアの著述家はこの草原を「ダシュティ・キプチャク（キプチャク草原）」と呼ぶようになった。キプチャクの言語と部族名は、のちにカザフ民族の重要な構成要素となった。"
+   }
+  },
+  {
+   "from": 766,
+   "to": 940,
+   "kind": "state",
+   "qid": null,
+   "polity": "Qarlugs",
+   "name": {
+    "en": "Karluk Yabgu State",
+    "ko": "카를루크 야브구국",
+    "zh": "葛逻禄叶护国",
+    "ja": "カルルク・ヤブグ国"
+   },
+   "summary": {
+    "en": "After taking Suyab in 766, the Karluks ruled Zhetysu and the Talas and Chu valleys under a yabgu. Their period saw the growth of trading towns along the Silk Road such as Taraz and Kulan, where Sogdian merchants, Christians, Manichaeans and Buddhists lived side by side, and the gradual spread of Islam from the Samanid south. Karluk power was absorbed into the rising Kara-Khanid state in the 10th century.",
+    "ko": "766년 쇄엽을 차지한 카를루크는 야브구의 통치 아래 제티수와 탈라스·추 계곡을 다스렸다. 이 시기에는 타라즈와 쿨란 같은 실크로드 교역 도시가 성장해 소그드 상인과 기독교도, 마니교도, 불교도가 함께 살았고, 남쪽 사만 왕조로부터 이슬람이 점차 전해졌다. 카를루크 세력은 10세기에 떠오르는 카라한 왕조에 흡수되었다.",
+    "zh": "766年葛逻禄攻占碎叶后，在叶护统治下控制了七河地区以及塔拉斯河谷和楚河谷地。这一时期，怛罗斯（塔拉兹）、库兰等丝路商业城镇兴起，粟特商人与基督徒、摩尼教徒、佛教徒共同生活，伊斯兰教也从南方的萨曼王朝逐渐传入。10世纪，葛逻禄势力并入了崛起的喀喇汗王朝。",
+    "ja": "766年に砕葉を奪った葛邏禄（カルルク）は、ヤブグの統治のもとで七河地方とタラス・チュイ渓谷を治めた。この時代にはタラズやクランなどシルクロードの交易都市が発展し、ソグド商人やキリスト教徒、マニ教徒、仏教徒が共に暮らし、南のサーマーン朝からイスラームが次第に広まった。カルルクの勢力は10世紀に台頭するカラハン朝に吸収された。"
+   }
+  },
+  {
+   "from": 840,
+   "to": 1212,
+   "kind": "state",
+   "qid": "Q494354",
+   "polity": "Kara-Khanids",
+   "name": {
+    "en": "Kara-Khanid Khanate",
+    "ko": "카라한 왕조",
+    "zh": "喀喇汗王朝",
+    "ja": "カラハン朝"
+   },
+   "summary": {
+    "en": "The Kara-Khanids, a Turkic dynasty that emerged after the fall of the Uyghur Khaganate, ruled southern Kazakhstan, Zhetysu and much of Central Asia from capitals such as Balasagun, Kashgar and Samarkand. In the 10th century they became the first Turkic dynasty to adopt Islam as a state religion, and Taraz, Isfijab (Sayram) and other towns flourished. Monuments such as the Aisha Bibi and Babaji Khatun mausolea near Taraz date from this era.",
+    "ko": "위구르 카간국 멸망 뒤 등장한 튀르크 왕조 카라한은 발라사군·카슈가르·사마르칸트 등을 수도로 삼아 카자흐스탄 남부와 제티수, 중앙아시아 대부분을 다스렸다. 10세기에 이슬람을 국교로 받아들인 최초의 튀르크 왕조가 되었으며, 타라즈와 이스피자브(사이람) 같은 도시가 번영했다. 타라즈 근처의 아이샤 비비 묘당과 바바지 하툰 묘당이 이 시대의 유적이다.",
+    "zh": "喀喇汗王朝是回鹘汗国灭亡后兴起的突厥王朝，以八剌沙衮、喀什噶尔、撒马尔罕等地为都城，统治哈萨克斯坦南部、七河地区和中亚大部分地区。10世纪，它成为第一个以伊斯兰教为国教的突厥王朝，塔拉兹、伊斯菲贾布（赛兰）等城市繁荣兴盛。塔拉兹附近的艾莎·比比陵和巴巴吉·哈顿陵即为这一时代的遗迹。",
+    "ja": "ウイグル可汗国の滅亡後に興ったテュルク系王朝カラハン朝は、ベラサグン、カシュガル、サマルカンドなどを都として、カザフスタン南部、七河地方、中央アジアの大部分を支配した。10世紀にイスラームを国教とした最初のテュルク系王朝となり、タラズやイスフィジャーブ（サイラム）などの町が栄えた。タラズ近郊のアイシャ・ビビ廟やババジ・ハトゥン廟はこの時代の遺構である。"
+   }
+  },
+  {
+   "from": 1124,
+   "to": 1218,
+   "kind": "state",
+   "qid": "Q862304",
+   "polity": "Kara-Khitans",
+   "name": {
+    "en": "Qara Khitai (Western Liao)",
+    "ko": "카라 키타이(서요)",
+    "zh": "西辽（喀喇契丹）",
+    "ja": "カラ・キタイ（西遼）"
+   },
+   "summary": {
+    "en": "After the fall of the Liao dynasty in northern China, the Khitan prince Yelü Dashi led his followers west and founded the Qara Khitai empire with its capital at Balasagun in the Chu valley. It ruled Zhetysu directly and held the Kara-Khanids, Khwarazm and other states of the region as vassals, tolerating Buddhists, Christians and Muslims alike. Weakened by the rise of Khwarazm and seized by the Naiman prince Kuchlug in 1211, it was conquered by the Mongols in 1218.",
+    "ko": "중국 북부의 요나라가 멸망한 뒤, 거란 왕족 야율대석은 무리를 이끌고 서쪽으로 와서 추 계곡의 발라사군을 수도로 카라 키타이(서요)를 세웠다. 서요는 제티수를 직접 다스리고 카라한 왕조와 호라즘 등 주변 국가를 속국으로 두었으며, 불교도·기독교도·무슬림을 두루 용인했다. 호라즘의 부상으로 약해지고 1211년 나이만의 왕자 쿠출루크에게 권력을 빼앗긴 서요는 1218년 몽골에 정복되었다.",
+    "zh": "辽朝在中国北方灭亡后，契丹宗室耶律大石率众西迁，以楚河流域的八剌沙衮为都城建立西辽（喀喇契丹）。西辽直接统治七河地区，并以喀喇汗王朝、花剌子模等国为藩属，对佛教徒、基督徒和穆斯林都采取宽容态度。因花剌子模崛起而衰弱、又于1211年被乃蛮王子屈出律篡夺的西辽，于1218年被蒙古征服。",
+    "ja": "華北の遼が滅亡すると、契丹の王族耶律大石は配下を率いて西へ移り、チュイ渓谷のベラサグンを都としてカラ・キタイ（西遼）を建てた。西遼は七河地方を直接統治し、カラハン朝やホラズムなど周辺諸国を属国とし、仏教徒・キリスト教徒・ムスリムをいずれも容認した。ホラズムの台頭で弱体化し、1211年にナイマンの王子クチュルクに実権を奪われた西遼は、1218年にモンゴルに征服された。"
+   }
+  },
+  {
+   "from": 1219,
+   "to": 1266,
+   "kind": "state",
+   "qid": "Q12557",
+   "polity": "Mongol Empire",
+   "name": {
+    "en": "Mongol Empire",
+    "ko": "몽골 제국",
+    "zh": "蒙古帝国",
+    "ja": "モンゴル帝国"
+   },
+   "summary": {
+    "en": "Genghis Khan's invasion of 1219–1220 destroyed Otrar and other Syr Darya towns and brought the entire Kazakh steppe into the Mongol Empire. The land was divided among his sons: the steppe went to the ulus of Jochi, while Zhetysu and the southeast went to Chagatai. Mongol rule integrated the region into a trans-Eurasian network of post roads and trade, while the Turkic-speaking Kipchak population gradually absorbed the Mongol ruling groups.",
+    "ko": "1219~1220년 칭기즈 칸의 침공으로 오트라르를 비롯한 시르다리야의 도시들이 파괴되었고, 카자흐 초원 전체가 몽골 제국에 편입되었다. 땅은 아들들에게 나뉘어 초원은 주치의 울루스가, 제티수와 남동부는 차가타이가 차지했다. 몽골의 지배로 이 지역은 유라시아를 가로지르는 역참과 교역망에 통합되었고, 튀르크어를 쓰는 킵차크 주민은 점차 몽골 지배 집단을 동화시켰다.",
+    "zh": "1219—1220年成吉思汗的入侵摧毁了讹答剌等锡尔河城镇，整个哈萨克草原并入蒙古帝国。土地分封给诸子：草原归术赤兀鲁思，七河和东南部归察合台。蒙古统治把这一地区纳入横贯欧亚的驿站与贸易网络，而操突厥语的钦察居民则逐渐同化了蒙古统治集团。",
+    "ja": "1219～1220年のチンギス・カンの侵攻でオトラルなどシルダリヤ沿いの町々が破壊され、カザフ草原全体がモンゴル帝国に組み込まれた。土地は息子たちに分けられ、草原はジョチのウルスに、七河地方と南東部はチャガタイに属した。モンゴルの支配によりこの地域はユーラシアを横断する駅伝・交易網に組み込まれ、テュルク語を話すキプチャクの住民は次第にモンゴルの支配集団を同化していった。"
+   }
+  },
+  {
+   "from": 1227,
+   "to": 1514,
+   "kind": "state",
+   "qid": "Q487829",
+   "polity": "Chagatai Khanate",
+   "name": {
+    "en": "Chagatai Khanate and Moghulistan",
+    "ko": "차가타이 칸국과 모굴리스탄",
+    "zh": "察合台汗国与蒙兀儿斯坦",
+    "ja": "チャガタイ・ハン国とモグーリスタン"
+   },
+   "summary": {
+    "en": "Zhetysu and the southeast of modern Kazakhstan formed part of the Chagatai Khanate, the Mongol realm of Central Asia. When the khanate split in the mid-14th century, its nomadic eastern half became Moghulistan, ruled from 1347 by Tughlugh Timur and dominated by the Dughlat emirs. Moghulistan fought long wars with Timur and his heirs and with the Oirats before its western pastures in Zhetysu passed to the Kazakhs in the early 16th century.",
+    "ko": "제티수와 오늘날 카자흐스탄 남동부는 중앙아시아의 몽골 국가인 차가타이 칸국의 일부였다. 14세기 중엽 칸국이 분열하자 유목적인 동부는 모굴리스탄이 되었고, 1347년부터 투글루크 티무르가 다스렸으며 두글라트 가문의 아미르들이 실권을 쥐었다. 모굴리스탄은 티무르와 그 후계자, 오이라트와 오랜 전쟁을 벌였고, 16세기 초 제티수의 서부 목초지는 카자흐인에게 넘어갔다.",
+    "zh": "七河地区和今哈萨克斯坦东南部属于中亚的蒙古政权察合台汗国。14世纪中叶汗国分裂后，其游牧的东半部成为蒙兀儿斯坦，自1347年起由秃黑鲁·帖木儿统治，杜格拉特部的异密掌握实权。蒙兀儿斯坦长期与帖木儿及其后继者和卫拉特人交战，16世纪初，七河西部的牧场转入哈萨克人之手。",
+    "ja": "七河地方と今日のカザフスタン南東部は、中央アジアのモンゴル政権チャガタイ・ハン国の一部だった。14世紀半ばにハン国が分裂すると、遊牧的な東半分はモグーリスタンとなり、1347年からトゥグルク・ティムールが統治し、ドゥグラト家のアミールが実権を握った。モグーリスタンはティムールとその後継者やオイラトと長く戦い、16世紀初めには七河地方西部の牧地がカザフに移った。"
+   }
+  },
+  {
+   "from": 1242,
+   "to": 1459,
+   "kind": "state",
+   "qid": "Q79965",
+   "polity": "Golden Horde",
+   "name": {
+    "en": "Golden Horde (Ulus of Jochi)",
+    "ko": "킵차크 칸국(주치 울루스)",
+    "zh": "金帐汗国（术赤兀鲁思）",
+    "ja": "ジョチ・ウルス（キプチャク・ハン国）"
+   },
+   "summary": {
+    "en": "The Ulus of Jochi, known in later Russian sources as the Golden Horde, ruled the western and central Kazakh steppe from its capitals on the lower Volga. Its eastern wing, led by descendants of Jochi's eldest son Orda, governed much of today's Kazakhstan with considerable autonomy. The Horde adopted Islam under Uzbek Khan and Kipchak Turkic as its common language; its fragmentation in the 15th century gave rise to the Uzbek, Nogai and Kazakh khanates.",
+    "ko": "후대 러시아 사료에서 '황금 오르다(킵차크 칸국)'로 불린 주치 울루스는 볼가강 하류의 수도에서 카자흐 초원 서부와 중부를 다스렸다. 주치의 장남 오르다의 후손이 이끈 동부(좌익)는 상당한 자치권을 누리며 오늘날 카자흐스탄의 많은 지역을 통치했다. 칸국은 우즈베크 칸 때 이슬람을 받아들이고 킵차크 튀르크어를 공용어로 삼았으며, 15세기의 분열은 우즈베크·노가이·카자흐 칸국의 탄생으로 이어졌다.",
+    "zh": "术赤兀鲁思在后来的俄国史料中被称为“金帐汗国”，以伏尔加河下游的都城统治哈萨克草原西部和中部。由术赤长子斡儿答后裔统领的东部（左翼）享有相当大的自治权，管辖今哈萨克斯坦的大部分地区。汗国在月即别汗时期皈依伊斯兰教，并以钦察突厥语为通用语；15世纪的分裂催生了乌兹别克、诺盖和哈萨克诸汗国。",
+    "ja": "のちのロシア史料で「黄金のオルダ」と呼ばれたジョチ・ウルスは、ヴォルガ川下流の都からカザフ草原の西部と中部を支配した。ジョチの長子オルダの子孫が率いた東部（左翼）は大きな自治権をもち、今日のカザフスタンの多くを治めた。ウルスはウズベク・ハンのもとでイスラームを受け入れ、キプチャク・テュルク語を共通語とし、15世紀の分裂からウズベク、ノガイ、カザフの諸ハン国が生まれた。"
+   }
+  },
+  {
+   "from": 1360,
+   "to": 1428,
+   "kind": "state",
+   "qid": "Q2553863",
+   "polity": "White Horde",
+   "name": {
+    "en": "White Horde (Ak Orda)",
+    "ko": "백장 칸국(아크 오르다)",
+    "zh": "白帐汗国（阿克斡耳朵）",
+    "ja": "白帳ハン国（アク・オルダ）"
+   },
+   "summary": {
+    "en": "In the later 14th century the eastern wing of the Ulus of Jochi, centred on Sighnaq on the Syr Darya, emerged as a powerful independent khanate under Urus Khan. Tokhtamysh, backed by Timur, seized it and went on to reunite the Golden Horde, before breaking with his patron. The Kazakh khans of the 15th century were descendants of Urus Khan, so Kazakh historians regard Ak Orda as a direct predecessor of the Kazakh Khanate; the use of the names \"White\" and \"Blue\" Horde in the sources is inconsistent and debated.",
+    "ko": "14세기 후반 시르다리야 강변의 시그나크를 중심으로 한 주치 울루스의 동부는 우루스 칸 아래 강력한 독립 칸국으로 떠올랐다. 티무르의 지원을 받은 톡타미시는 이곳을 차지한 뒤 킵차크 칸국 전체를 재통일했으나 이후 후원자와 등을 돌렸다. 15세기 카자흐 칸들은 우루스 칸의 후손이어서 카자흐 역사학자들은 아크 오르다를 카자흐 칸국의 직접적인 전신으로 보지만, 사료에서 '백장'과 '청장'이라는 명칭의 쓰임은 일관되지 않아 논쟁이 있다.",
+    "zh": "14世纪后期，以锡尔河畔的昔格纳黑为中心的术赤兀鲁思东部，在兀鲁斯汗统治下成为强大的独立汗国。得到帖木儿支持的脱脱迷失夺取了该汗国，进而重新统一金帐汗国，后来却与其靠山反目。15世纪的哈萨克诸汗都是兀鲁斯汗的后裔，因此哈萨克历史学者视阿克斡耳朵为哈萨克汗国的直接前身；不过史料中“白帐”“蓝帐”名称的用法并不一致，存在争议。",
+    "ja": "14世紀後半、シルダリヤ河畔のスグナクを中心とするジョチ・ウルスの東部は、オロス・ハンのもとで強力な独立ハン国として台頭した。ティムールの支援を受けたトクタミシュがこれを奪い、さらにジョチ・ウルス全体を再統一したが、のちに後援者と決裂した。15世紀のカザフのハンたちはオロス・ハンの子孫であるため、カザフの歴史家はアク・オルダをカザフ・ハン国の直接の前身とみなすが、史料における「白帳」「青帳」の呼称の用法は一貫せず議論がある。"
+   }
+  },
+  {
+   "from": 1428,
+   "to": 1468,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Khanate of Abu'l-Khayr (Nomadic Uzbeks)",
+    "ko": "아불하이르 칸국(유목 우즈베크)",
+    "zh": "阿布海尔汗国（游牧乌兹别克）",
+    "ja": "アブル・ハイル・ハン国（遊牧ウズベク）"
+   },
+   "summary": {
+    "en": "In 1428 the Shibanid prince Abu'l-Khayr was proclaimed khan of the nomadic Uzbeks in western Siberia, and over the following decades he extended his power over most of the Kazakh steppe and the Syr Darya towns, making Sighnaq his capital. His harsh rule and a heavy defeat by the Oirats in the 1450s led part of his subjects to break away under Kerei and Janibek. After his death in 1468 the khanate disintegrated, and his grandson Muhammad Shaybani later led the Uzbeks south into Transoxiana.",
+    "ko": "1428년 시반 가문의 왕자 아불하이르는 서시베리아에서 유목 우즈베크의 칸으로 추대되었고, 이후 수십 년 동안 카자흐 초원 대부분과 시르다리야 도시들로 세력을 넓혀 시그나크를 수도로 삼았다. 가혹한 통치와 1450년대 오이라트에 당한 대패로 일부 신민이 케레이와 자니벡을 따라 떨어져 나갔다. 1468년 그가 죽자 칸국은 해체되었고, 손자 무함마드 샤이바니는 훗날 우즈베크를 이끌고 남쪽 트란스옥시아나로 내려갔다.",
+    "zh": "1428年，昔班家族的阿布海尔在西西伯利亚被拥立为游牧乌兹别克人的汗，此后数十年间将势力扩展到哈萨克草原大部和锡尔河诸城，以昔格纳黑为都城。他统治严酷，又在1450年代惨败于卫拉特人，部分属民遂在克烈和贾尼别克带领下脱离。1468年他死后汗国瓦解，其孙穆罕默德·昔班尼后来率乌兹别克人南下河中地区。",
+    "ja": "1428年、シバン家の王子アブル・ハイルは西シベリアで遊牧ウズベクのハンに推戴され、その後数十年でカザフ草原の大部分とシルダリヤ沿いの町々に勢力を広げ、スグナクを都とした。過酷な統治と1450年代のオイラトへの大敗により、一部の臣民がケレイとジャニベクに従って離反した。1468年に彼が没するとハン国は解体し、孫のムハンマド・シャイバーニーはのちにウズベクを率いて南のマー・ワラー・アンナフルへ移った。"
+   }
+  },
+  {
+   "from": 1440,
+   "to": 1634,
+   "kind": "state",
+   "qid": "Q631210",
+   "polity": "Nogai Horde",
+   "name": {
+    "en": "Nogai Horde",
+    "ko": "노가이 오르다",
+    "zh": "诺盖汗国",
+    "ja": "ノガイ・オルダ"
+   },
+   "summary": {
+    "en": "The Nogai Horde, founded by descendants of the emir Edigu, dominated the steppes between the Volga and the Emba and Ural rivers in what is now western Kazakhstan. Its nomads were close kin of the Kazakhs, and many Nogai clans later merged into the Junior Zhuz. Weakened by wars with the Kazakhs, by Russian expansion and finally by the westward migration of the Kalmyks in the early 17th century, the Horde lost its lands east of the Volga.",
+    "ko": "에디구 아미르의 후손들이 세운 노가이 오르다는 오늘날 카자흐스탄 서부의 볼가강과 엠바강·우랄강 사이 초원을 지배했다. 노가이 유목민은 카자흐인과 매우 가까운 친족이었고, 많은 노가이 씨족이 훗날 소주즈에 합류했다. 카자흐와의 전쟁, 러시아의 팽창, 그리고 17세기 초 칼미크의 서진으로 약해진 노가이 오르다는 볼가강 동쪽 영토를 잃었다.",
+    "zh": "诺盖汗国由埃迪古异密的后裔建立，控制了今哈萨克斯坦西部伏尔加河与恩巴河、乌拉尔河之间的草原。诺盖游牧民与哈萨克人亲缘极近，许多诺盖氏族后来并入小玉兹。由于与哈萨克的战争、俄国的扩张，以及17世纪初卡尔梅克人的西迁，诺盖汗国失去了伏尔加河以东的土地。",
+    "ja": "アミール・エディゲの子孫が建てたノガイ・オルダは、今日のカザフスタン西部、ヴォルガ川とエンバ川・ウラル川の間の草原を支配した。ノガイの遊牧民はカザフと極めて近い同族であり、多くのノガイの氏族がのちに小ジュズに加わった。カザフとの戦争、ロシアの拡張、そして17世紀初めのカルムイクの西進で弱体化し、ヴォルガ以東の領土を失った。"
+   }
+  },
+  {
+   "from": 1465,
+   "to": 1847,
+   "kind": "state",
+   "qid": "Q1433867",
+   "polity": "Kazakh Khanate",
+   "name": {
+    "en": "Kazakh Khanate",
+    "ko": "카자흐 칸국",
+    "zh": "哈萨克汗国",
+    "ja": "カザフ・ハン国"
+   },
+   "summary": {
+    "en": "Founded according to the traditional date in 1465 by Kerei and Janibek, the Kazakh Khanate united the Kazakh nomads across most of modern Kazakhstan, with Turkestan and other Syr Darya towns as its political centres. Over time the Kazakhs became organised into three zhuzes — the Senior, Middle and Junior — each with its own khans and biys. Wars with the Dzungars in the 17th–18th centuries drove the zhuzes to seek Russian protection, and the khanship was abolished by Russia in the 1820s, with Kenesary's revolt ending in 1847.",
+    "ko": "전통적 연대로 1465년 케레이와 자니벡이 세운 카자흐 칸국은 오늘날 카자흐스탄 대부분의 카자흐 유목민을 통합했고, 투르키스탄 등 시르다리야 도시들을 정치 중심지로 삼았다. 시간이 지나며 카자흐인은 대주즈·중주즈·소주즈의 세 주즈로 나뉘어 각각 칸과 비이(재판관)를 두었다. 17~18세기 준가르와의 전쟁으로 주즈들은 러시아의 보호를 구하게 되었고, 칸 제도는 1820년대 러시아에 의해 폐지되었으며 케네사리의 봉기는 1847년에 끝났다.",
+    "zh": "按照传统纪年，哈萨克汗国由克烈和贾尼别克于1465年建立，统一了今哈萨克斯坦大部分地区的哈萨克游牧民，以突厥斯坦等锡尔河城市为政治中心。随着时间推移，哈萨克人形成大玉兹、中玉兹和小玉兹三部，各有自己的汗和比（法官）。17至18世纪与准噶尔的战争促使各玉兹寻求俄国保护，汗位在1820年代被俄国废除，克涅萨热起义于1847年失败告终。",
+    "ja": "伝統的な年代では1465年にケレイとジャニベクが建てたカザフ・ハン国は、今日のカザフスタンの大部分のカザフ遊牧民を統合し、トルキスタンなどシルダリヤ沿いの町を政治の中心とした。やがてカザフは大ジュズ・中ジュズ・小ジュズの三つのジュズに分かれ、それぞれにハンとビー（裁判官）がいた。17～18世紀のジュンガルとの戦争で各ジュズはロシアの保護を求めるようになり、ハン位は1820年代にロシアによって廃止され、ケネサルの反乱も1847年に終わった。"
+   }
+  },
+  {
+   "from": 1634,
+   "to": 1758,
+   "kind": "state",
+   "qid": "Q1923401",
+   "polity": "Dzungar Khanate",
+   "name": {
+    "en": "Dzungar Khanate",
+    "ko": "준가르 칸국",
+    "zh": "准噶尔汗国",
+    "ja": "ジュンガル・ハン国"
+   },
+   "summary": {
+    "en": "The Dzungar Khanate, the last great nomadic empire of the steppe, was formed by Oirat Mongols in the 1630s in the region between the Altai and the Tian Shan. It waged repeated wars on the Kazakhs, occupying Zhetysu and the Syr Darya towns of Turkestan and Sayram after the great invasion of 1723. The khanate was destroyed by Qing China in 1755–1758, after which the Kazakhs returned to their eastern pastures.",
+    "ko": "스텝의 마지막 대유목 제국인 준가르 칸국은 1630년대 알타이산맥과 톈산산맥 사이에서 오이라트 몽골이 세웠다. 준가르는 카자흐와 거듭 전쟁을 벌였고, 1723년 대침공 뒤에는 제티수와 투르키스탄·사이람 등 시르다리야 도시들을 점령했다. 칸국은 1755~1758년 청나라에 의해 멸망했고, 그 뒤 카자흐인은 동부 목초지로 돌아왔다.",
+    "zh": "准噶尔汗国是草原上最后一个大游牧帝国，1630年代由卫拉特蒙古人在阿尔泰山与天山之间建立。准噶尔屡次进攻哈萨克，并在1723年大举入侵后占领了七河地区以及突厥斯坦、赛兰等锡尔河城镇。1755至1758年，汗国被清朝所灭，此后哈萨克人重返东部牧场。",
+    "ja": "草原最後の大遊牧帝国であるジュンガル・ハン国は、1630年代にアルタイ山脈と天山山脈の間でオイラト・モンゴルによって形成された。ジュンガルはカザフと繰り返し戦い、1723年の大侵攻の後には七河地方やトルキスタン、サイラムなどシルダリヤ沿いの町を占領した。ハン国は1755～1758年に清朝によって滅ぼされ、その後カザフは東部の牧地へ戻った。"
+   }
+  },
+  {
+   "from": 1731,
+   "to": 1917,
+   "kind": "colonial",
+   "qid": "Q34266",
+   "polity": "Russian Empire",
+   "name": {
+    "en": "Russian Empire",
+    "ko": "러시아 제국",
+    "zh": "俄罗斯帝国",
+    "ja": "ロシア帝国"
+   },
+   "summary": {
+    "en": "Beginning with the Junior Zhuz's oath of allegiance in 1731, the Russian Empire gradually absorbed the Kazakh steppe through protectorate treaties, a line of fortresses and finally military conquest of the south by the 1860s. Khan rule was abolished, the steppe was divided into Russian-administered provinces, and from the 1890s large-scale peasant colonisation took the best pastures from Kazakh nomads. Resentment culminated in the revolt of 1916, while a modern Kazakh intelligentsia emerged in the same years.",
+    "ko": "1731년 소주즈의 충성 서약을 시작으로 러시아 제국은 보호 조약과 요새선 건설, 그리고 1860년대 남부의 군사 정복을 통해 카자흐 초원을 차츰 병합했다. 칸의 통치는 폐지되고 초원은 러시아가 관할하는 주로 나뉘었으며, 1890년대부터 대규모 농민 이주로 카자흐 유목민은 가장 좋은 목초지를 빼앗겼다. 이에 대한 반발은 1916년 봉기로 폭발했고, 같은 시기 근대적인 카자흐 지식인층이 형성되었다.",
+    "zh": "从1731年小玉兹宣誓效忠开始，俄罗斯帝国通过保护条约、修筑要塞线，最终在1860年代以军事手段征服南部，逐步吞并了哈萨克草原。汗权被废除，草原被划为俄国管辖的各州；自1890年代起，大规模农民移民夺走了哈萨克牧民最好的牧场。不满情绪在1916年起义中爆发，而同一时期近代哈萨克知识分子阶层也逐渐形成。",
+    "ja": "1731年の小ジュズの臣従誓約に始まり、ロシア帝国は保護条約、要塞線の建設、そして1860年代までの南部の軍事征服を通じて、カザフ草原を次第に併合した。ハンの統治は廃止され、草原はロシアが管轄する州に分割され、1890年代からは大規模な農民入植によってカザフ遊牧民は最良の牧地を奪われた。不満は1916年の反乱で爆発し、同じ時期に近代的なカザフ知識人層が生まれた。"
+   }
+  },
+  {
+   "from": 1809,
+   "to": 1865,
+   "kind": "state",
+   "qid": null,
+   "polity": "Khanate of Kokand",
+   "name": {
+    "en": "Khanate of Kokand in the south",
+    "ko": "남부의 코칸트 칸국",
+    "zh": "南部的浩罕汗国",
+    "ja": "南部のコーカンド・ハン国"
+   },
+   "summary": {
+    "en": "In the early 19th century the Khanate of Kokand, based in the Fergana Valley, extended its rule over the Syr Darya towns of southern Kazakhstan, including Turkestan, Shymkent and Aulie-Ata (Taraz), and over the Senior Zhuz Kazakhs of the south. It built fortresses such as Ak-Mechet and collected taxes from the nomads. Russian forces took these fortresses one by one between 1853 and 1865.",
+    "ko": "19세기 초 페르가나 계곡을 근거지로 한 코칸트 칸국은 투르키스탄·심켄트·아울리에아타(타라즈) 등 카자흐스탄 남부의 시르다리야 도시들과 남부의 대주즈 카자흐인에게까지 지배를 넓혔다. 코칸트는 악메체트 같은 요새를 쌓고 유목민에게서 세금을 거두었다. 러시아군은 1853년부터 1865년 사이 이 요새들을 하나씩 함락했다.",
+    "zh": "19世纪初，以费尔干纳谷地为根据地的浩罕汗国将统治扩展到哈萨克斯坦南部的锡尔河诸城，包括突厥斯坦、奇姆肯特和奥利耶-阿塔（塔拉兹），并控制了南部的大玉兹哈萨克人。浩罕修建了阿克麦切特等要塞，向游牧民征税。1853年至1865年间，俄军逐一攻克了这些要塞。",
+    "ja": "19世紀初め、フェルガナ盆地を本拠とするコーカンド・ハン国は、トルキスタン、シムケント、アウリエ・アタ（タラズ）などカザフスタン南部のシルダリヤ沿いの町や、南部の大ジュズのカザフにまで支配を広げた。コーカンドはアク・メチェトなどの要塞を築き、遊牧民から税を取り立てた。ロシア軍は1853年から1865年にかけてこれらの要塞を次々に攻略した。"
+   }
+  },
+  {
+   "from": 1917,
+   "to": 1920,
+   "kind": "state",
+   "qid": "Q1779823",
+   "polity": null,
+   "name": {
+    "en": "Alash Autonomy",
+    "ko": "알라시 자치국",
+    "zh": "阿拉什自治国",
+    "ja": "アラシュ自治国"
+   },
+   "summary": {
+    "en": "Proclaimed by the All-Kazakh Congress in December 1917, the Alash Autonomy was led by Alikhan Bukeikhanov and the intellectuals of the Alash party, who sought Kazakh self-government within a democratic Russian federation. During the Civil War its government had centres in Semipalatinsk and in the west, cooperating at times with the anti-Bolshevik forces. After the Red Army's victory it was dissolved in 1920, and many of its leaders were later executed in Stalin's purges.",
+    "ko": "1917년 12월 전(全)카자흐 대회에서 선포된 알라시 자치국은 알리한 부케이하노프와 알라시당 지식인들이 이끌었으며, 민주적인 러시아 연방 안에서 카자흐인의 자치를 추구했다. 내전 기간 동안 정부는 세미팔라틴스크와 서부에 거점을 두고 때로 반볼셰비키 세력과 협력했다. 적군이 승리한 뒤 1920년에 해체되었고, 지도자 다수는 훗날 스탈린의 숙청 때 처형되었다.",
+    "zh": "阿拉什自治国于1917年12月由全哈萨克代表大会宣布成立，由阿里汗·布凯汗诺夫和阿拉什党知识分子领导，寻求在民主的俄罗斯联邦内实现哈萨克自治。内战期间，其政府以塞米巴拉金斯克和西部为据点，时而与反布尔什维克力量合作。红军获胜后，自治国于1920年解散，其许多领导人后来在斯大林的大清洗中被处决。",
+    "ja": "1917年12月の全カザフ大会で宣言されたアラシュ自治国は、アリハン・ブケイハノフとアラシュ党の知識人に率いられ、民主的なロシア連邦の中でのカザフの自治を目指した。内戦期にはセミパラチンスクと西部に拠点を置き、時に反ボリシェヴィキ勢力と協力した。赤軍の勝利後の1920年に解体され、指導者の多くはのちにスターリンの粛清で処刑された。"
+   }
+  },
+  {
+   "from": 1917,
+   "to": 1936,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Revolution, Civil War and the Kazakh ASSR",
+    "ko": "혁명·내전과 카자흐 자치공화국",
+    "zh": "革命、内战与哈萨克自治共和国",
+    "ja": "革命・内戦とカザフ自治共和国"
+   },
+   "summary": {
+    "en": "The collapse of the Russian Empire in 1917 plunged the steppe into civil war, followed by the devastating famine of 1919–1922. In 1920 the Bolsheviks created the Kirghiz Autonomous Soviet Socialist Republic within Soviet Russia (Kazakhs were then officially called \"Kirghiz\"), renamed the Kazakh ASSR in 1925 after the southern regions were added in the national delimitation of Central Asia. Its capital moved from Orenburg to Kzyl-Orda and then to Alma-Ata, and from 1928 forced sedentarisation and collectivisation brought catastrophe.",
+    "ko": "1917년 러시아 제국의 붕괴로 초원은 내전에 휩싸였고, 이어 1919~1922년 참혹한 기근이 닥쳤다. 1920년 볼셰비키는 소비에트 러시아 안에 키르기스 자치 소비에트 사회주의 공화국을 세웠고(당시 카자흐인은 공식적으로 '키르기스'로 불렸다), 중앙아시아 민족 경계 획정으로 남부 지역이 더해진 뒤 1925년 카자흐 자치공화국으로 이름을 바꾸었다. 수도는 오렌부르크에서 크질오르다, 다시 알마아타로 옮겨졌으며, 1928년부터 강제 정착화와 집단화가 재앙을 불러왔다.",
+    "zh": "1917年俄罗斯帝国崩溃后，草原陷入内战，随后又发生了1919—1922年的严重饥荒。1920年布尔什维克在苏维埃俄国境内建立吉尔吉斯自治苏维埃社会主义共和国（当时哈萨克人官方称为“吉尔吉斯人”），1925年中亚民族划界并入南部地区后更名为哈萨克自治共和国。首都由奥伦堡迁至克孜勒奥尔达，再迁至阿拉木图；自1928年起，强制定居和集体化带来了灾难。",
+    "ja": "1917年のロシア帝国崩壊で草原は内戦に巻き込まれ、続いて1919～1922年の深刻な飢饉が起きた。1920年、ボリシェヴィキはソビエト・ロシア内にキルギス自治ソビエト社会主義共和国を創設し（当時カザフは公式に「キルギス」と呼ばれた）、中央アジアの民族境界画定で南部地域が加わった後の1925年にカザフ自治共和国と改称した。首都はオレンブルクからクズロルダ、さらにアルマ・アタへ移り、1928年からは強制定住化と集団化が大惨事をもたらした。"
+   }
+  },
+  {
+   "from": 1936,
+   "to": 1991,
+   "kind": "state",
+   "qid": "Q168811",
+   "polity": null,
+   "name": {
+    "en": "Kazakh Soviet Socialist Republic",
+    "ko": "카자흐 소비에트 사회주의 공화국",
+    "zh": "哈萨克苏维埃社会主义共和国",
+    "ja": "カザフ・ソビエト社会主義共和国"
+   },
+   "summary": {
+    "en": "In 1936 Kazakhstan became a full union republic of the USSR. It received hundreds of thousands of deportees and evacuees, hosted the Gulag camps of Karlag and the Semipalatinsk nuclear test site, and was transformed by the Virgin Lands campaign and the Baikonur Cosmodrome. Rapid industrialisation and mass immigration made Kazakhs a minority in their own republic for several decades, while the Aral Sea began to dry up under Soviet irrigation policy.",
+    "ko": "1936년 카자흐스탄은 소련의 정식 연방 공화국이 되었다. 수십만 명의 강제 이주민과 피란민이 이곳으로 왔고, 카를라그 같은 굴라크 수용소와 세미팔라틴스크 핵실험장이 들어섰으며, 처녀지 개간 운동과 바이코누르 우주기지로 큰 변화를 겪었다. 급속한 공업화와 대규모 이주로 카자흐인은 수십 년 동안 자기 공화국에서 소수가 되었고, 소련의 관개 정책으로 아랄해는 말라 가기 시작했다.",
+    "zh": "1936年，哈萨克斯坦成为苏联的正式加盟共和国。数十万被强制迁移者和疏散人员来到这里，卡拉干达劳改营（Karlag）等古拉格营地和塞米巴拉金斯克核试验场在此设立，垦荒运动和拜科努尔航天发射场也深刻改变了这片土地。快速工业化和大规模移民使哈萨克人在数十年间成为本共和国的少数民族，而咸海则在苏联灌溉政策下开始干涸。",
+    "ja": "1936年、カザフスタンはソ連の正式な連邦構成共和国となった。数十万人の強制移住者や疎開者が送り込まれ、カルラグなどのグラーグ収容所やセミパラチンスク核実験場が置かれ、処女地開拓とバイコヌール宇宙基地によって大きく変貌した。急速な工業化と大量の移住によりカザフ人は数十年にわたり自らの共和国で少数派となり、ソ連の灌漑政策のもとでアラル海は干上がり始めた。"
+   }
+  },
+  {
+   "from": 1991,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q232",
+   "polity": "Kazakhstan",
+   "name": {
+    "en": "Republic of Kazakhstan",
+    "ko": "카자흐스탄 공화국",
+    "zh": "哈萨克斯坦共和国",
+    "ja": "カザフスタン共和国"
+   },
+   "summary": {
+    "en": "Kazakhstan declared independence on 16 December 1991 under Nursultan Nazarbayev, who governed until 2019. The country gave up its Soviet nuclear arsenal, built a market economy based largely on oil, gas and minerals, and moved its capital to Astana. Power was concentrated in a strong presidency; after the deadly unrest of January 2022, President Kassym-Jomart Tokayev pursued constitutional changes curbing the legacy of his predecessor.",
+    "ko": "카자흐스탄은 1991년 12월 16일 누르술탄 나자르바예프 아래 독립을 선언했으며, 그는 2019년까지 통치했다. 카자흐스탄은 소련의 핵무기를 포기하고 석유·가스·광물에 크게 기댄 시장경제를 세웠으며, 수도를 아스타나로 옮겼다. 권력은 강력한 대통령제에 집중되었고, 2022년 1월 유혈 소요 이후 카심조마르트 토카예프 대통령은 전임자의 유산을 줄이는 헌법 개정을 추진했다.",
+    "zh": "1991年12月16日，哈萨克斯坦在努尔苏丹·纳扎尔巴耶夫领导下宣布独立，他执政至2019年。该国放弃了苏联遗留的核武库，建立了主要依靠石油、天然气和矿产的市场经济，并将首都迁至阿斯塔纳。权力高度集中于总统；2022年1月流血骚乱之后，托卡耶夫总统推动修宪，削弱前任的影响。",
+    "ja": "カザフスタンは1991年12月16日、ヌルスルタン・ナザルバエフのもとで独立を宣言し、彼は2019年まで統治した。同国はソ連の核兵器を放棄し、石油・ガス・鉱物に大きく依存する市場経済を築き、首都をアスタナに移した。権力は強い大統領制に集中し、2022年1月の流血の騒乱の後、トカエフ大統領は前任者の影響力を削ぐ憲法改正を進めた。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2000,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Andronovo pastoralists spread across the steppe",
+    "ko": "안드로노보 목축민의 초원 확산",
+    "zh": "安德罗诺沃牧民遍布草原",
+    "ja": "アンドロノヴォ牧畜民が草原に広がる"
+   },
+   "description": {
+    "en": "Around 2000 BC Bronze Age pastoral communities of the Andronovo horizon, beginning with the Petrovka culture of northern Kazakhstan, spread across the steppe. Related to the Sintashta culture of the southern Urals, they used spoke-wheeled chariots and practised bronze metallurgy. Over the following centuries their settlements and cemeteries reached almost every part of present-day Kazakhstan.",
+    "ko": "기원전 2000년 무렵 카자흐스탄 북부의 페트로프카 문화를 시작으로 안드로노보 문화권의 청동기 목축 공동체가 초원 전역으로 퍼졌다. 남우랄의 신타시타 문화와 연관된 이들은 바퀴살이 있는 전차를 사용하고 청동 야금을 했다. 이후 수 세기 동안 이들의 취락과 묘지는 오늘날 카자흐스탄의 거의 모든 지역에 이르렀다.",
+    "zh": "约公元前2000年，以哈萨克斯坦北部的彼得罗夫卡文化为开端，安德罗诺沃文化圈的青铜时代牧业群体遍布草原。他们与南乌拉尔的辛塔什塔文化有关，使用辐条车轮的战车，掌握青铜冶炼技术。此后数百年间，他们的聚落和墓地几乎遍及今哈萨克斯坦全境。",
+    "ja": "紀元前2000年頃、カザフスタン北部のペトロフカ文化を皮切りに、アンドロノヴォ文化圏の青銅器時代の牧畜共同体が草原全体に広がった。南ウラルのシンタシュタ文化と関連する彼らは、スポーク車輪の戦車を用い、青銅の冶金を行った。その後数世紀のうちに、彼らの集落と墓地は今日のカザフスタンのほぼ全域に及んだ。"
+   }
+  },
+  {
+   "year": -1800,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Bronze Age copper and tin mining",
+    "ko": "청동기 시대의 구리·주석 채광",
+    "zh": "青铜时代的铜锡开采",
+    "ja": "青銅器時代の銅・錫採掘"
+   },
+   "description": {
+    "en": "During the 2nd millennium BC (c.), miners in central Kazakhstan around Zhezkazgan and in the Kalba and Narym ranges of the east extracted copper and tin on a large scale. Kazakhstan became one of the main metal-producing regions of the Eurasian steppe, supplying bronze to pastoral communities far beyond its borders. Ancient workings at these deposits were rediscovered by geologists in modern times.",
+    "ko": "기원전 2천년기 무렵 카자흐스탄 중부 제즈카즈간 일대와 동부의 칼바·나림 산지에서 광부들이 구리와 주석을 대규모로 캐냈다. 카자흐스탄은 유라시아 초원의 주요 금속 산지 가운데 하나가 되어 멀리 떨어진 목축 공동체에까지 청동을 공급했다. 이 광상들의 고대 채굴 흔적은 근대에 지질학자들에 의해 재발견되었다.",
+    "zh": "约在公元前2千纪，哈萨克斯坦中部杰兹卡兹甘一带以及东部卡尔巴山、纳雷姆山的矿工大规模开采铜和锡。哈萨克斯坦成为欧亚草原的主要金属产地之一，向境外遥远的牧业群体供应青铜。这些矿床的古代采矿遗迹在近代被地质学家重新发现。",
+    "ja": "紀元前2千年紀頃、カザフスタン中部のジェズカズガン周辺や東部のカルバ・ナルイム山地で、鉱夫たちが銅や錫を大規模に採掘した。カザフスタンはユーラシア草原の主要な金属産地の一つとなり、遠く離れた牧畜共同体にまで青銅を供給した。これらの鉱床の古代の採掘跡は近代に地質学者によって再発見された。"
+   }
+  },
+  {
+   "year": -1300,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Mausolea of Begazy and Dandybai",
+    "ko": "베가지와 단디바이의 묘당",
+    "zh": "别加济与丹迪拜的陵墓",
+    "ja": "ベガジとダンディバイの霊廟"
+   },
+   "description": {
+    "en": "From around the 13th century BC (c.), the Begazy-Dandybai culture of central Kazakhstan built monumental mausolea of large stone slabs for its leaders, unlike anything earlier on the steppe. These structures, together with large settlements tied to metallurgy, point to growing social hierarchy. The culture marks the final phase of the Bronze Age before the rise of the mounted nomads.",
+    "ko": "기원전 13세기 무렵부터 카자흐스탄 중부의 베가지-단디바이 문화는 지배자를 위해 커다란 판석으로 웅장한 묘당을 세웠는데, 이는 이전 초원에서는 볼 수 없던 것이었다. 이 건축물들과 야금업에 연결된 큰 취락은 사회적 위계가 커지고 있었음을 보여 준다. 이 문화는 기마 유목민이 등장하기 전 청동기 시대의 마지막 단계에 해당한다.",
+    "zh": "约从公元前13世纪起，哈萨克斯坦中部的别加济-丹迪拜文化用大型石板为首领修建宏伟的陵墓，这在此前的草原上前所未见。这些建筑以及与冶金业相关的大型聚落，表明社会等级日益分化。该文化代表了骑马游牧民兴起之前青铜时代的最后阶段。",
+    "ja": "紀元前13世紀頃から、カザフスタン中部のベガジ・ダンディバイ文化は首長のために大きな石板で壮大な霊廟を築いたが、これはそれ以前の草原には見られないものだった。これらの建造物と冶金に結びついた大集落は、社会階層の分化が進んでいたことを示している。この文化は騎馬遊牧民が登場する前の青銅器時代の最終段階にあたる。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Rise of mounted nomadism: the early Saka",
+    "ko": "기마 유목의 등장: 초기 사카",
+    "zh": "骑马游牧的兴起：早期塞种",
+    "ja": "騎馬遊牧の出現：初期サカ"
+   },
+   "description": {
+    "en": "Around the 8th century BC (c.), the peoples of the Kazakh steppe shifted to fully mobile, horse-riding pastoral nomadism, the way of life that would define the region for more than two millennia. Early Saka cultures such as Tasmola in central Kazakhstan built kurgans with characteristic stone 'whiskers' and buried horses with their owners. Early royal kurgans such as those at Chilikty in eastern Kazakhstan contained gold ornaments in the animal style.",
+    "ko": "기원전 8세기 무렵 카자흐 초원의 사람들은 완전히 이동하는 기마 유목 생활로 전환했고, 이 생활 방식은 이후 2천 년 넘게 이 지역을 규정했다. 카자흐스탄 중부의 타스몰라 문화 같은 초기 사카 문화는 특유의 돌 '수염' 열을 갖춘 쿠르간을 만들고 주인과 함께 말을 묻었다. 카자흐스탄 동부 칠릭티의 초기 왕급 쿠르간에서는 동물 양식의 금 장식이 나왔다.",
+    "zh": "约公元前8世纪，哈萨克草原上的人们转向完全流动的骑马游牧生活，这种生活方式此后两千多年一直塑造着这一地区。哈萨克斯坦中部的塔斯莫拉文化等早期塞种文化修建带有独特石砌“胡须”的库尔干，并将马与主人合葬。哈萨克斯坦东部奇利克特等地的早期王族库尔干出土了动物纹样的金饰。",
+    "ja": "紀元前8世紀頃、カザフ草原の人々は完全に移動する騎馬遊牧の生活へ移行し、この生活様式はその後2千年以上にわたってこの地域を特徴づけた。カザフスタン中部のタスモラ文化などの初期サカ文化は、独特の石列「ひげ」をもつクルガンを築き、馬を主人とともに葬った。カザフスタン東部のチリクティなどの初期の王族クルガンからは、動物意匠の金製装飾品が出土している。"
+   }
+  },
+  {
+   "year": -519,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Saka appear in Persian royal inscriptions",
+    "ko": "페르시아 왕실 비문에 등장한 사카",
+    "zh": "塞种出现在波斯王室铭文中",
+    "ja": "ペルシア王の碑文に現れるサカ"
+   },
+   "description": {
+    "en": "Around 519 BC (c.) the Achaemenid king Darius I recorded a campaign against the 'pointed-hat' Saka, and Persian inscriptions list several Saka groups among the peoples of the empire. These are among the earliest written references to the nomads of Central Asia. Which Saka lived on the territory of modern Kazakhstan, and how far Persian authority actually reached into the steppe, remain uncertain.",
+    "ko": "기원전 519년 무렵 아케메네스 왕조의 다리우스 1세는 '뾰족 모자를 쓴' 사카에 대한 원정을 기록했고, 페르시아 비문에는 제국의 여러 민족 가운데 몇몇 사카 집단이 열거되어 있다. 이는 중앙아시아 유목민에 관한 가장 이른 문헌 기록 중 하나다. 다만 어느 사카 집단이 오늘날 카자흐스탄 땅에 살았는지, 페르시아의 권위가 실제로 초원 깊숙이 미쳤는지는 확실하지 않다.",
+    "zh": "约公元前519年，阿契美尼德王朝的大流士一世记载了对“尖帽”塞种的远征，波斯铭文还在帝国诸民族中列出了若干塞种集团。这是关于中亚游牧民最早的文字记载之一。至于哪些塞种生活在今哈萨克斯坦境内，以及波斯的权威实际深入草原多远，仍不确定。",
+    "ja": "紀元前519年頃、アケメネス朝のダレイオス1世は「尖り帽子の」サカに対する遠征を記録し、ペルシアの碑文には帝国の諸民族としていくつかのサカ集団が挙げられている。これは中央アジアの遊牧民に関する最古級の文字記録である。ただし、どのサカが今日のカザフスタンの地に住んでいたのか、ペルシアの権威が実際に草原にどこまで及んだのかは不確かである。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Saka culture flourishes on the steppe",
+    "ko": "초원의 사카 문화 번영",
+    "zh": "塞种文化在草原上繁荣",
+    "ja": "草原にサカ文化が栄える"
+   },
+   "description": {
+    "en": "In the mid-1st millennium BC Saka (Scythian) tribes dominated the Kazakh steppe, leaving rich kurgan burials across the country. The most famous, the Issyk kurgan near Almaty excavated in 1969, contained the 'Golden Man', a warrior clad in thousands of gold pieces, now usually dated to around the 4th–3rd century BC. Its reconstructed figure became a national symbol of independent Kazakhstan.",
+    "ko": "기원전 1천년기 중엽 사카(스키타이) 부족은 카자흐 초원을 지배하며 전국 곳곳에 풍부한 부장품을 갖춘 쿠르간을 남겼다. 가장 유명한 것은 1969년 발굴된 알마티 근처의 이식 쿠르간으로, 수천 개의 금 조각으로 장식된 전사 '황금 인간'이 나왔으며 오늘날 대개 기원전 4~3세기 무렵으로 연대가 추정된다. 복원된 황금 인간은 독립 카자흐스탄의 국가 상징이 되었다.",
+    "zh": "公元前1千纪中叶，塞种（斯基泰）部落称雄哈萨克草原，在全国各地留下了随葬品丰富的库尔干。最著名的是1969年发掘的阿拉木图附近的伊塞克墓冢，出土了身披数千片金饰的武士“金人”，现一般断代为公元前4至3世纪前后。复原的“金人”成为独立后哈萨克斯坦的国家象征。",
+    "ja": "紀元前1千年紀半ば、サカ（スキタイ）諸部族はカザフ草原を支配し、国内各地に副葬品の豊かなクルガンを残した。最も有名なのは1969年に発掘されたアルマトイ近郊のイシク・クルガンで、数千の金片をまとった戦士「黄金人間」が出土し、現在では一般に紀元前4～3世紀頃のものとされる。復元された黄金人間は独立カザフスタンの国家的象徴となった。"
+   }
+  },
+  {
+   "year": -300,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Frozen tombs of Berel in the Kazakh Altai",
+    "ko": "카자흐 알타이 베렐의 동결 고분",
+    "zh": "哈萨克阿尔泰的贝雷尔冻土墓",
+    "ja": "カザフ・アルタイのベレル凍結古墳"
+   },
+   "description": {
+    "en": "Around the 4th–3rd century BC (c.), nomads of the Pazyryk type buried their elite in kurgans at Berel in the Kazakh Altai, where permafrost preserved wood, felt and the bodies of horses. Excavations from 1998 onward found horses decked with gilded wooden ornaments and fantastic headdresses. Berel is one of the most important sites for understanding the elite culture of the eastern Saka world.",
+    "ko": "기원전 4~3세기 무렵 파지리크형 유목민은 카자흐 알타이의 베렐에 있는 쿠르간에 지배층을 묻었는데, 영구 동토 덕분에 나무와 펠트, 말의 사체가 보존되었다. 1998년부터의 발굴에서 금박 입힌 나무 장식과 환상적인 머리 장식을 단 말들이 발견되었다. 베렐은 동부 사카 세계의 지배층 문화를 이해하는 데 가장 중요한 유적 가운데 하나다.",
+    "zh": "约公元前4至3世纪，巴泽雷克类型的游牧民在哈萨克阿尔泰的贝雷尔墓地为上层人物修建库尔干，永久冻土使木器、毛毡和马尸得以保存。1998年以来的发掘发现了饰有贴金木饰和奇异头饰的殉马。贝雷尔是了解东部塞种世界上层文化最重要的遗址之一。",
+    "ja": "紀元前4～3世紀頃、パジリク型の遊牧民はカザフ・アルタイのベレルにあるクルガンに支配層を葬り、永久凍土によって木材やフェルト、馬の遺体が保存された。1998年以降の発掘で、金箔を貼った木製装飾や奇抜な頭飾りをつけた馬が見つかった。ベレルは東方サカ世界の支配層の文化を理解するうえで最も重要な遺跡の一つである。"
+   }
+  },
+  {
+   "year": -176,
+   "qid": "Q188836",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Xiongnu drive the Yuezhi west",
+    "ko": "흉노가 월지를 서쪽으로 몰아내다",
+    "zh": "匈奴驱逐月氏西迁",
+    "ja": "匈奴が月氏を西へ追う"
+   },
+   "description": {
+    "en": "Around 176 BC the Xiongnu ruler Modu reported to the Han court that he had defeated the Yuezhi. Displaced from their homeland in Gansu, the Yuezhi migrated west and settled for a time in the Ili valley and Zhetysu, displacing local Saka groups. They were soon driven on again by the Wusun and eventually moved to Bactria, where their descendants founded the Kushan Empire.",
+    "ko": "기원전 176년 무렵 흉노의 묵돌 선우는 월지를 격파했다고 한나라 조정에 알렸다. 간쑤의 본거지에서 밀려난 월지는 서쪽으로 이주해 한동안 일리 계곡과 제티수에 자리 잡으며 그곳의 사카 집단을 밀어냈다. 그러나 곧 오손에게 다시 쫓겨나 결국 박트리아로 옮겨 갔고, 그 후손은 쿠샨 제국을 세웠다.",
+    "zh": "约公元前176年，匈奴冒顿单于致书汉廷，称已击败月氏。月氏被逐出河西故地，西迁后一度定居伊犁河谷和七河地区，赶走了当地的塞种部落。但他们很快又被乌孙驱逐，最终迁往大夏（巴克特里亚），其后裔建立了贵霜帝国。",
+    "ja": "紀元前176年頃、匈奴の冒頓単于は月氏を破ったと漢の朝廷に伝えた。甘粛の本拠地を追われた月氏は西へ移り、一時イリ川流域と七河地方に定着して現地のサカ集団を追いやった。しかしまもなく烏孫に再び追われて最終的にバクトリアへ移り、その子孫はクシャーナ朝を建てた。"
+   }
+  },
+  {
+   "year": -130,
+   "qid": "Q854062",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Wusun take over Zhetysu",
+    "ko": "오손의 제티수 장악",
+    "zh": "乌孙占据七河地区",
+    "ja": "烏孫が七河地方を掌握"
+   },
+   "description": {
+    "en": "With Xiongnu backing, the Wusun under their ruler, the kunmo, attacked the Yuezhi and occupied the Ili valley and Zhetysu around the 130s BC (c.). Chinese sources describe the Wusun as a large nation rich in horses. For several centuries they dominated the pastures of southeastern Kazakhstan, and many kurgans of the period survive in the Ili valley.",
+    "ko": "흉노의 후원을 받은 오손은 곤미의 지휘 아래 월지를 공격하고 기원전 130년대 무렵 일리 계곡과 제티수를 차지했다. 중국 사서는 오손을 말이 많은 큰 나라로 묘사한다. 오손은 수 세기 동안 카자흐스탄 남동부의 목초지를 지배했으며, 일리 계곡에는 이 시기의 쿠르간이 많이 남아 있다.",
+    "zh": "乌孙在匈奴支持下，由其君主昆莫率领攻打月氏，约在公元前130年代占据伊犁河谷和七河地区。中国史籍称乌孙为多马的大国。此后数百年间，乌孙控制着哈萨克斯坦东南部的牧场，伊犁河谷至今保存着大量这一时期的库尔干。",
+    "ja": "匈奴の後ろ盾を得た烏孫は、昆莫の指揮のもと月氏を攻撃し、紀元前130年代頃にイリ川流域と七河地方を占めた。中国史書は烏孫を馬の多い大国と描いている。烏孫は数世紀にわたりカザフスタン南東部の牧地を支配し、イリ川流域にはこの時代のクルガンが多く残る。"
+   }
+  },
+  {
+   "year": -128,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Zhang Qian reaches Kangju",
+    "ko": "장건의 강거 방문",
+    "zh": "张骞抵达康居",
+    "ja": "張騫が康居に至る"
+   },
+   "description": {
+    "en": "Around 128 BC (c.) the Han envoy Zhang Qian, on his mission to find the Yuezhi, travelled from Fergana through Kangju, the state of the middle Syr Darya. His reports, preserved in Sima Qian's Records of the Grand Historian, gave China its first detailed knowledge of Kangju, the Wusun and other peoples of the region. His journey opened the way for regular Han diplomacy and trade along what later became known as the Silk Road.",
+    "ko": "기원전 128년 무렵 한나라 사신 장건은 월지를 찾아가는 길에 페르가나에서 시르다리야 중류의 나라 강거를 거쳐 갔다. 사마천의 『사기』에 전하는 그의 보고는 강거와 오손 등 이 지역 민족에 관한 최초의 상세한 정보를 중국에 전했다. 그의 여정은 훗날 실크로드로 불리는 길을 따라 한나라의 정기적인 외교와 교역이 이루어지는 길을 열었다.",
+    "zh": "约公元前128年，汉朝使者张骞在寻找月氏的途中，自大宛经过锡尔河中游的康居。他的报告保存在司马迁的《史记》中，使中国首次详细了解康居、乌孙等该地区的民族。他的出使为汉朝沿着后来被称为丝绸之路的通道开展经常性外交和贸易开辟了道路。",
+    "ja": "紀元前128年頃、漢の使者張騫は月氏を探す旅の途中、大宛（フェルガナ）からシルダリヤ中流域の国、康居を通過した。司馬遷の『史記』に残る彼の報告は、康居や烏孫などこの地域の民族について中国に初めて詳しい知識をもたらした。彼の旅は、のちにシルクロードと呼ばれる道に沿った漢の定期的な外交と交易への道を開いた。"
+   }
+  },
+  {
+   "year": -105,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Han princess married to the Wusun ruler",
+    "ko": "한나라 공주의 오손 출가",
+    "zh": "汉朝公主远嫁乌孙",
+    "ja": "漢の公主が烏孫王に嫁ぐ"
+   },
+   "description": {
+    "en": "Around 105 BC (c.), to win the Wusun as allies against the Xiongnu, the Han court sent Liu Xijun, a princess of the imperial clan, to marry the Wusun kunmo. A lament attributed to her, about living in a felt tent far from home, became famous in Chinese literature. She was followed by another princess, Liu Jieyou, who played an important role in Wusun politics for decades.",
+    "ko": "기원전 105년 무렵 한나라 조정은 오손을 흉노에 맞설 동맹으로 삼기 위해 황족 공주 유세군을 오손의 곤미에게 시집보냈다. 고향을 멀리 떠나 펠트 천막에서 사는 슬픔을 노래한 그녀의 작품으로 전하는 시는 중국 문학에서 유명해졌다. 그 뒤를 이어 또 다른 공주 유해우가 시집가 수십 년 동안 오손 정치에서 중요한 역할을 했다.",
+    "zh": "约公元前105年，为争取乌孙共同对抗匈奴，汉廷将宗室女刘细君嫁给乌孙昆莫。相传为她所作、哀叹远离故土居于毡帐的《悲愁歌》在中国文学中广为流传。此后另一位公主刘解忧继嫁乌孙，数十年间在乌孙政治中发挥了重要作用。",
+    "ja": "紀元前105年頃、漢の朝廷は烏孫を匈奴に対抗する同盟者とするため、皇族の娘劉細君を烏孫の昆莫に嫁がせた。故郷を遠く離れてフェルトの天幕に暮らす悲しみを詠んだ、彼女の作と伝わる歌は中国文学で有名になった。その後、別の公主劉解憂も嫁ぎ、数十年にわたり烏孫の政治で重要な役割を果たした。"
+   }
+  },
+  {
+   "year": -36,
+   "qid": "Q870947",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Zhizhi on the Talas",
+    "ko": "탈라스 강가의 질지성 전투",
+    "zh": "郅支城之战",
+    "ja": "タラス河畔の郅支城の戦い"
+   },
+   "description": {
+    "en": "The Xiongnu chanyu Zhizhi, who had fled west and allied with Kangju, built a fortress on the Talas River, usually located near modern Taraz. In 36 BC the Han officers Gan Yanshou and Chen Tang, acting on their own initiative, led Han and allied troops against it, stormed the fortress and killed Zhizhi. The battle extended Han influence to the western steppe and is famous for Chinese descriptions of the fortress's defences.",
+    "ko": "서쪽으로 달아나 강거와 동맹한 흉노의 질지 선우는 탈라스강 강가, 대개 오늘날 타라즈 근처로 비정되는 곳에 성채를 쌓았다. 기원전 36년 한나라 관리 감연수와 진탕은 독단으로 한나라군과 동맹군을 이끌고 이곳을 공격해 성을 함락하고 질지를 죽였다. 이 전투로 한나라의 영향력은 서부 초원까지 미쳤으며, 성채의 방어 시설에 관한 중국 측 묘사로도 유명하다.",
+    "zh": "西逃并与康居结盟的匈奴郅支单于在塔拉斯河畔修筑城堡，其位置一般认为在今塔拉兹附近。公元前36年，汉朝官员甘延寿和陈汤矫诏发兵，率汉军及属国兵攻城，破城斩杀郅支。此战使汉朝影响延及西部草原，中国史书对该城防御设施的描述也颇为著名。",
+    "ja": "西へ逃れて康居と同盟した匈奴の郅支単于は、タラス川のほとり、一般に現在のタラズ近郊とされる地に城塞を築いた。紀元前36年、漢の官吏甘延寿と陳湯は独断で漢軍と同盟軍を率いて攻撃し、城を陥落させて郅支を殺した。この戦いで漢の影響力は西方の草原にまで及び、城塞の防御施設についての中国側の描写でも知られる。"
+   }
+  },
+  {
+   "year": 156,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Xianbei expand to the Wusun borders",
+    "ko": "선비의 오손 경계 진출",
+    "zh": "鲜卑扩张至乌孙边境",
+    "ja": "鮮卑が烏孫の境まで進出"
+   },
+   "description": {
+    "en": "In the mid-2nd century (c.) the Xianbei leader Tanshihuai united the Xianbei tribes and created a powerful confederation that, according to Chinese sources, stretched west as far as the Wusun. Xianbei pressure contributed to the final westward retreat of the northern Xiongnu across the Kazakh steppe. After Tanshihuai's death around 181 the confederation broke apart.",
+    "ko": "2세기 중엽 선비의 지도자 단석괴는 선비 부족들을 통합해 강력한 연합체를 만들었고, 중국 사서에 따르면 그 영역은 서쪽으로 오손에까지 이르렀다. 선비의 압박은 북흉노가 카자흐 초원을 가로질러 최종적으로 서쪽으로 물러나는 데 영향을 주었다. 181년 무렵 단석괴가 죽은 뒤 연합체는 분열했다.",
+    "zh": "约2世纪中叶，鲜卑首领檀石槐统一鲜卑各部，建立强大的联盟；据中国史籍记载，其疆域西至乌孙。鲜卑的压力促使北匈奴最终越过哈萨克草原向西退却。约181年檀石槐死后，联盟随之瓦解。",
+    "ja": "2世紀半ば頃、鮮卑の指導者檀石槐は鮮卑の諸部族を統合して強力な連合体を築き、中国史料によればその範囲は西は烏孫にまで及んだ。鮮卑の圧力は、北匈奴がカザフ草原を横切って最終的に西へ退く一因となった。181年頃に檀石槐が没すると連合体は分裂した。"
+   }
+  },
+  {
+   "year": 370,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Huns cross from the steppe into Europe",
+    "ko": "훈족, 초원을 건너 유럽으로",
+    "zh": "匈人越过草原进入欧洲",
+    "ja": "フン族が草原から欧州へ"
+   },
+   "description": {
+    "en": "Around 370 (c.) the Huns, who had moved across the steppe north of the Aral Sea and Caspian Sea, crossed the Volga and attacked the Alans and then the Goths. Their arrival set off the great migrations that helped bring down the Western Roman Empire. Whether the Huns were descended from the Xiongnu remains debated, but the steppe of western Kazakhstan was the corridor through which they moved.",
+    "ko": "370년 무렵 아랄해와 카스피해 북쪽 초원을 가로질러 이동해 온 훈족은 볼가강을 건너 알란족을, 이어 고트족을 공격했다. 이들의 등장은 서로마 제국 몰락의 한 원인이 된 민족 대이동을 촉발했다. 훈족이 흉노의 후예인지는 여전히 논쟁 중이지만, 카자흐스탄 서부의 초원은 이들이 이동한 통로였다.",
+    "zh": "约370年，经咸海和里海以北草原迁徙而来的匈人渡过伏尔加河，先后进攻阿兰人和哥特人。他们的到来引发了民族大迁徙，成为西罗马帝国衰亡的原因之一。匈人是否为匈奴后裔至今仍有争议，但哈萨克斯坦西部草原正是他们迁徙的通道。",
+    "ja": "370年頃、アラル海とカスピ海の北の草原を移動してきたフン族はヴォルガ川を渡り、アラン人、続いてゴート人を攻撃した。彼らの到来は民族大移動の引き金となり、西ローマ帝国滅亡の一因となった。フンが匈奴の子孫かどうかは今も議論があるが、カザフスタン西部の草原は彼らが移動した通り道だった。"
+   }
+  },
+  {
+   "year": 437,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Northern Wei envoys and the Wusun in decline",
+    "ko": "북위 사신과 쇠퇴한 오손",
+    "zh": "北魏使者与衰落的乌孙",
+    "ja": "北魏の使者と衰退する烏孫"
+   },
+   "description": {
+    "en": "In 437 the Northern Wei dynasty of China sent envoys, including Dong Wan, to the western regions, among them the Wusun. Chinese records of this time state that the Wusun, repeatedly attacked by the Rouran, had moved into the Pamirs and mountains to the west. The account marks the end of the Wusun as a major power in Zhetysu.",
+    "ko": "437년 중국의 북위는 동완 등을 서역으로 파견했는데 오손도 그 대상에 포함되었다. 이 시기 중국 기록은 오손이 유연에게 거듭 공격받아 서쪽의 파미르와 산지로 옮겨 갔다고 전한다. 이 기록은 제티수의 강국으로서 오손이 끝났음을 보여 준다.",
+    "zh": "437年，北魏派遣董琬等人出使西域，乌孙亦在其列。这一时期的中国史籍记载，乌孙屡遭柔然侵袭，西迁至葱岭（帕米尔）一带山中。这一记载标志着乌孙作为七河地区强国的终结。",
+    "ja": "437年、中国の北魏は董琬らを西域に派遣し、烏孫もその対象に含まれた。この時期の中国の記録は、烏孫が柔然の度重なる攻撃を受けて西方のパミールや山地に移ったと伝える。この記録は、七河地方の強国としての烏孫の終わりを示している。"
+   }
+  },
+  {
+   "year": 490,
+   "qid": "Q41761342",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Hephthalites dominate the south",
+    "ko": "에프탈의 남부 지배",
+    "zh": "嚈哒控制南部",
+    "ja": "エフタルが南部を支配"
+   },
+   "description": {
+    "en": "By the late 5th century (c.) the Hephthalites, a powerful people known to Byzantine writers as the 'White Huns', controlled Sogdiana and Bactria and extended their influence into the Syr Darya and Zhetysu borderlands. They imposed tribute on Sasanian Persia and dominated Silk Road trade. Their power was destroyed around 560 by an alliance of the Turks and the Sasanians.",
+    "ko": "5세기 후반 무렵 비잔티움 저자들이 '백훈족'이라 부른 강력한 민족 에프탈은 소그디아나와 박트리아를 장악하고 시르다리야와 제티수 접경 지역까지 영향력을 넓혔다. 이들은 사산 왕조 페르시아에 공납을 강요하고 실크로드 교역을 지배했다. 에프탈의 세력은 560년 무렵 돌궐과 사산 왕조의 연합군에 의해 무너졌다.",
+    "zh": "约5世纪后期，被拜占庭作家称为“白匈人”的强大民族嚈哒控制了粟特和巴克特里亚，并将影响扩展到锡尔河和七河的边缘地带。他们迫使萨珊波斯纳贡，并主导丝绸之路贸易。约560年，嚈哒被突厥与萨珊王朝的联军所灭。",
+    "ja": "5世紀後半頃、ビザンツの著述家に「白いフン」と呼ばれた強力な民族エフタルはソグディアナとバクトリアを支配し、シルダリヤと七河地方の周辺部にまで影響力を広げた。彼らはサーサーン朝ペルシアに貢納を課し、シルクロード交易を支配した。エフタルの勢力は560年頃、突厥とサーサーン朝の連合によって滅ぼされた。"
+   }
+  },
+  {
+   "year": 552,
+   "qid": "Q15146034",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Turkic Khaganate rules the steppe",
+    "ko": "돌궐 제국의 초원 지배",
+    "zh": "突厥汗国统治草原",
+    "ja": "突厥可汗国が草原を支配"
+   },
+   "description": {
+    "en": "In 552 Bumin of the Ashina clan overthrew the Rouran and proclaimed himself khagan, founding the Turkic Khaganate. Its western wing under his brother Istämi conquered the Kazakh steppe as far as the Volga, uniting it under a single Turkic power for the first time. The khaganate laid the foundations of Turkic language, statehood and culture in the region.",
+    "ko": "552년 아사나 씨족의 부민은 유연을 무너뜨리고 카간을 칭하며 돌궐 카간국을 세웠다. 그의 동생 이스테미가 이끈 서부 세력은 볼가강에 이르는 카자흐 초원을 정복해 처음으로 하나의 튀르크 세력 아래 통합했다. 이 카간국은 이 지역에 튀르크의 언어·국가·문화의 기반을 놓았다.",
+    "zh": "552年，阿史那氏的布民（土门）推翻柔然，自称可汗，建立突厥汗国。由其弟室点密统领的西部征服了直至伏尔加河的哈萨克草原，首次将其统一于一个突厥政权之下。突厥汗国为该地区的突厥语言、国家和文化奠定了基础。",
+    "ja": "552年、阿史那氏のブミンは柔然を倒して可汗を称し、突厥可汗国を建てた。弟イステミの率いる西方勢力はヴォルガ川に至るカザフ草原を征服し、初めて一つのテュルク勢力のもとに統合した。この可汗国は、この地域におけるテュルクの言語・国家・文化の基礎を築いた。"
+   }
+  },
+  {
+   "year": 568,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Byzantine embassy to the Turkic khagan",
+    "ko": "돌궐 카간에게 간 비잔티움 사절",
+    "zh": "拜占庭使团访问突厥可汗",
+    "ja": "ビザンツ使節が突厥可汗を訪問"
+   },
+   "description": {
+    "en": "In 568 the Byzantine emperor Justin II sent an embassy led by Zemarchus to the Western Turkic ruler Istämi (Sizabul in Greek sources), in response to a Turkic-Sogdian mission seeking direct silk trade. Zemarchus crossed Central Asia to the khagan's camp in the mountains of the Tian Shan region and returned via the steppe north of the Caspian. The exchange created a short-lived Byzantine–Turkic alliance against Sasanian Persia.",
+    "ko": "568년 비잔티움 황제 유스티누스 2세는 비단 직거래를 원한 돌궐-소그드 사절단에 응답해, 제마르코스가 이끄는 사절을 서돌궐의 지배자 이스테미(그리스 사료의 실지불로스)에게 보냈다. 제마르코스는 중앙아시아를 건너 톈산 일대 산지에 있던 카간의 본영에 이르렀고, 카스피해 북쪽 초원을 거쳐 돌아왔다. 이 교류로 사산 왕조 페르시아에 맞선 비잔티움-돌궐 동맹이 잠시 맺어졌다.",
+    "zh": "568年，为回应寻求直接丝绸贸易的突厥-粟特使团，拜占庭皇帝查士丁二世派遣蔡马库斯率使团出使西突厥君主室点密（希腊史料称Sizabul）。蔡马库斯穿越中亚，抵达位于天山一带山中的可汗牙帐，并经里海以北草原返回。这次交往促成了拜占庭与突厥对抗萨珊波斯的短暂同盟。",
+    "ja": "568年、ビザンツ皇帝ユスティヌス2世は、絹の直接取引を求める突厥・ソグドの使節団に応えて、ゼマルコス率いる使節を西方の突厥君主イステミ（ギリシア史料のシザブロス）のもとへ送った。ゼマルコスは中央アジアを横断して天山地方の山中にある可汗の本営に至り、カスピ海北方の草原を経て帰還した。この交流により、サーサーン朝ペルシアに対抗するビザンツと突厥の同盟が一時的に結ばれた。"
+   }
+  },
+  {
+   "year": 603,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Split into Eastern and Western Turkic Khaganates",
+    "ko": "돌궐의 동서 분열",
+    "zh": "突厥分裂为东西两部",
+    "ja": "突厥の東西分裂"
+   },
+   "description": {
+    "en": "Rivalries within the Ashina dynasty, encouraged by Sui China, led to the division of the Turkic realm, conventionally dated to around 603. The Western Turkic Khaganate, based on the On Oq ('ten arrows') tribal confederation, ruled the Kazakh steppe and Zhetysu. Its khagans controlled Silk Road trade through the Chu and Talas valleys.",
+    "ko": "수나라가 부추긴 아사나 왕가 내부의 경쟁으로 돌궐은 분열했으며, 그 시점은 관례적으로 603년 무렵으로 본다. '온 오크(열 개의 화살)' 부족 연합을 기반으로 한 서돌궐 카간국은 카자흐 초원과 제티수를 다스렸다. 서돌궐의 카간들은 추·탈라스 계곡을 지나는 실크로드 교역을 장악했다.",
+    "zh": "在隋朝的推波助澜下，阿史那王族内部的争斗导致突厥分裂，一般将其定在约603年。以“十箭”部落联盟为基础的西突厥汗国统治哈萨克草原和七河地区。西突厥可汗控制着经由楚河和塔拉斯河谷的丝路贸易。",
+    "ja": "隋の働きかけもあって阿史那王家の内部対立が深まり、突厥は分裂した。その時期は慣例的に603年頃とされる。「オン・オク（十箭）」の部族連合を基盤とする西突厥可汗国は、カザフ草原と七河地方を支配した。西突厥の可汗はチュイ・タラス渓谷を通るシルクロード交易を押さえた。"
+   }
+  },
+  {
+   "year": 630,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Xuanzang travels through Talas",
+    "ko": "현장의 탈라스 통과",
+    "zh": "玄奘途经怛罗斯",
+    "ja": "玄奘がタラスを通過"
+   },
+   "description": {
+    "en": "Around 630 (c.) the Chinese Buddhist pilgrim Xuanzang, on his way to India, was received by the Western Turkic ruler Tong Yabghu near Suyab and then travelled west through the 'Thousand Springs' and the town of Talas (modern Taraz). His travel account describes Talas as a trading town inhabited by merchants from many lands. It is one of the earliest written descriptions of a city on the territory of modern Kazakhstan.",
+    "ko": "630년 무렵 인도로 가던 중국 불교 순례승 현장은 쇄엽 근처에서 서돌궐의 통 야브구 카간을 만난 뒤 '천천(千泉)'과 탈라스(오늘날 타라즈) 성을 거쳐 서쪽으로 갔다. 그의 여행기는 탈라스를 여러 나라 상인들이 사는 교역 도시로 묘사한다. 이는 오늘날 카자흐스탄 땅에 있던 도시에 관한 가장 이른 문헌 묘사 가운데 하나다.",
+    "zh": "约630年，前往印度的中国佛教求法僧玄奘在碎叶附近受到西突厥统叶护可汗的接待，随后西行经过“千泉”和怛罗斯城（今塔拉兹）。他的游记把怛罗斯描述为各国商人杂居的商业城镇。这是关于今哈萨克斯坦境内城市最早的文字描述之一。",
+    "ja": "630年頃、インドへ向かう中国の仏教僧玄奘は、砕葉近くで西突厥の統葉護可汗に迎えられた後、「千泉」とタラス（現在のタラズ）の町を経て西へ進んだ。彼の旅行記はタラスを諸国の商人が住む交易の町と描いている。これは今日のカザフスタンの地にあった都市についての最古級の文字記録の一つである。"
+   }
+  },
+  {
+   "year": 657,
+   "qid": "Q9683",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Tang defeats the Western Turkic khagan",
+    "ko": "당나라의 서돌궐 격파",
+    "zh": "唐朝击败西突厥可汗",
+    "ja": "唐が西突厥可汗を破る"
+   },
+   "description": {
+    "en": "In 657 the Tang general Su Dingfang defeated the Western Turkic khagan Ashina Helu, who fled toward Shash (Tashkent) and was handed over to the Chinese. The Tang then placed the On Oq tribes under protectorates ruled by loyal Ashina princes. Tang suzerainty over the steppe remained largely nominal and was soon contested by the Tibetans and by rising Turkic tribes.",
+    "ko": "657년 당나라 장수 소정방은 서돌궐의 아사나하로 카간을 격파했고, 하로는 석국(타슈켄트) 쪽으로 달아났다가 당에 넘겨졌다. 당은 이후 온 오크 부족들을 충성하는 아사나 왕족이 다스리는 도호부 아래 두었다. 그러나 초원에 대한 당의 종주권은 대체로 명목상이었고 곧 토번과 새로 일어난 튀르크 부족들의 도전을 받았다.",
+    "zh": "657年，唐将苏定方击败西突厥可汗阿史那贺鲁，贺鲁逃往石国（塔什干）方向，后被押送唐朝。唐朝随后把“十箭”诸部置于由归顺的阿史那宗室统领的都护府之下。但唐朝对草原的宗主权大多流于名义，很快就受到吐蕃和新兴突厥部落的挑战。",
+    "ja": "657年、唐の将軍蘇定方は西突厥の阿史那賀魯可汗を破り、賀魯は石国（タシケント）方面へ逃れたのち唐に引き渡された。唐はその後、オン・オクの諸部族を、忠誠を誓う阿史那の王族が治める都護府の下に置いた。しかし草原に対する唐の宗主権はおおむね名目的で、まもなく吐蕃や新たに台頭したテュルク諸部族の挑戦を受けた。"
+   }
+  },
+  {
+   "year": 716,
+   "qid": "Q1277895",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Suluk leads the Türgesh against the Arabs",
+    "ko": "술루크의 튀르기시, 아랍에 맞서다",
+    "zh": "苏禄率突骑施抗击阿拉伯",
+    "ja": "蘇禄率いる突騎施がアラブと戦う"
+   },
+   "description": {
+    "en": "Around 716 (c.) Suluk became khagan of the Türgesh, whose realm centred on Zhetysu. For two decades he led the main resistance to the Umayyad Arab conquest of Central Asia, supporting Sogdian uprisings and winning victories over Arab armies in Transoxiana. His murder in 738 plunged the Türgesh into civil war and opened the way for Muslim expansion.",
+    "ko": "716년 무렵 술루크는 제티수를 중심으로 한 튀르기시의 카간이 되었다. 그는 20년 동안 우마이야 왕조 아랍군의 중앙아시아 정복에 맞선 저항을 이끌며 소그드인의 봉기를 지원하고 트란스옥시아나에서 아랍군을 상대로 승리를 거두었다. 738년 그가 살해되자 튀르기시는 내전에 빠졌고 무슬림 세력의 팽창 길이 열렸다.",
+    "zh": "约716年，苏禄成为以七河地区为中心的突骑施可汗。二十年间，他领导了抵抗倭马亚王朝阿拉伯人征服中亚的主要力量，支持粟特人起义，并在河中地区多次战胜阿拉伯军队。738年苏禄遇害，突骑施陷入内战，为穆斯林势力的扩张打开了道路。",
+    "ja": "716年頃、蘇禄は七河地方を中心とする突騎施の可汗となった。彼は20年にわたりウマイヤ朝アラブ軍の中央アジア征服に対する抵抗を率い、ソグド人の蜂起を支援し、マー・ワラー・アンナフルでアラブ軍に勝利を収めた。738年に彼が殺害されると突騎施は内戦に陥り、ムスリム勢力の拡大への道が開かれた。"
+   }
+  },
+  {
+   "year": 751,
+   "qid": "Q492415",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Talas",
+    "ko": "탈라스 전투",
+    "zh": "怛罗斯之战",
+    "ja": "タラス河畔の戦い"
+   },
+   "description": {
+    "en": "In 751 an Abbasid army under Ziyad ibn Salih defeated Tang forces led by Gao Xianzhi near the Talas River, on the southern edge of the Kazakh steppe; the exact site is uncertain. The defection of Karluk troops during the battle contributed to the Tang defeat. Combined with the An Lushan rebellion in China soon afterwards, the outcome ended Chinese expansion westward and left Central Asia open to Islam; a later tradition credits Chinese prisoners with spreading paper-making.",
+    "ko": "751년 지야드 이븐 살리흐가 이끈 아바스 왕조군은 카자흐 초원 남쪽 끝의 탈라스강 근처에서 고선지가 이끈 당나라군을 격파했으며, 정확한 전장 위치는 확실하지 않다. 전투 중 카를루크 군대의 이탈이 당나라의 패배에 영향을 주었다. 곧이어 중국에서 일어난 안사의 난과 맞물려 이 결과로 중국의 서진은 끝났고 중앙아시아는 이슬람에 열렸으며, 후대 전승은 중국인 포로가 제지술을 전했다고 전한다.",
+    "zh": "751年，齐雅德·伊本·萨利赫率领的阿拔斯军队在哈萨克草原南缘的塔拉斯河附近击败高仙芝统率的唐军，确切战场位置尚无定论。战斗中葛逻禄军队的倒戈加速了唐军的失败。加上不久后中国爆发的安史之乱，此战结束了中国向西的扩张，使中亚向伊斯兰敞开；后世传说认为中国战俘传播了造纸术。",
+    "ja": "751年、ズィヤード・イブン・サーリフ率いるアッバース朝軍は、カザフ草原南端のタラス川付近で高仙芝率いる唐軍を破った。正確な戦場の位置は確定していない。戦闘中のカルルク軍の離反が唐の敗北に影響した。その直後に中国で起きた安史の乱と相まって、この結果により中国の西進は終わり、中央アジアはイスラームに開かれた。後世の伝承は、中国人捕虜が製紙法を伝えたとする。"
+   }
+  },
+  {
+   "year": 766,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Karluks take Zhetysu",
+    "ko": "카를루크의 제티수 장악",
+    "zh": "葛逻禄占领七河地区",
+    "ja": "カルルクが七河地方を掌握"
+   },
+   "description": {
+    "en": "In 766 the Karluks, who had moved west from the Altai region, captured Suyab and took control of Zhetysu from the disintegrating Türgesh. Their yabgus ruled the Chu, Talas and Ili valleys for nearly two centuries. Under the Karluks, Silk Road towns in southern Kazakhstan such as Taraz and Kulan prospered.",
+    "ko": "766년 알타이 지역에서 서쪽으로 옮겨 온 카를루크는 쇄엽을 점령하고, 무너져 가던 튀르기시로부터 제티수의 지배권을 빼앗았다. 카를루크의 야브구들은 거의 2세기 동안 추·탈라스·일리 계곡을 다스렸다. 카를루크 시대에 타라즈와 쿨란 같은 카자흐스탄 남부의 실크로드 도시들이 번영했다.",
+    "zh": "766年，从阿尔泰地区西迁的葛逻禄攻占碎叶，从日益瓦解的突骑施手中夺取了七河地区。其叶护统治楚河、塔拉斯河和伊犁河谷近两个世纪。葛逻禄时代，塔拉兹、库兰等哈萨克斯坦南部的丝路城镇繁荣起来。",
+    "ja": "766年、アルタイ地方から西へ移ってきたカルルクは砕葉を占領し、崩壊しつつあった突騎施から七河地方の支配権を奪った。カルルクのヤブグたちはほぼ2世紀にわたりチュイ・タラス・イリの各渓谷を治めた。カルルクの時代に、タラズやクランなどカザフスタン南部のシルクロードの町が栄えた。"
+   }
+  },
+  {
+   "year": 840,
+   "qid": "Q494354",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Kara-Khanids",
+    "ko": "카라한 왕조의 등장",
+    "zh": "喀喇汗王朝兴起",
+    "ja": "カラハン朝の興起"
+   },
+   "description": {
+    "en": "After the Uyghur Khaganate in Mongolia was destroyed by the Yenisei Kyrgyz in 840, Turkic groups in Zhetysu and Kashgaria, probably led by a Karluk or related clan, formed the Kara-Khanid state. Its dual khans ruled from Balasagun and Kashgar. The Kara-Khanids would unite much of southern Kazakhstan and Central Asia under Turkic rule.",
+    "ko": "840년 몽골 고원의 위구르 카간국이 예니세이 키르기스에게 멸망하자, 제티수와 카슈가리아의 튀르크 집단이 아마도 카를루크나 그와 가까운 씨족의 주도 아래 카라한 국가를 세웠다. 두 명의 칸이 발라사군과 카슈가르에서 나누어 다스렸다. 카라한 왕조는 카자흐스탄 남부와 중앙아시아의 많은 지역을 튀르크의 지배 아래 통합하게 된다.",
+    "zh": "840年，蒙古高原的回鹘汗国被叶尼塞黠戛斯所灭，七河地区和喀什噶尔一带的突厥集团在可能是葛逻禄或相关氏族的领导下建立了喀喇汗国家。其两位大汗分别坐镇八剌沙衮和喀什噶尔。喀喇汗王朝此后把哈萨克斯坦南部和中亚大部分地区统一于突厥统治之下。",
+    "ja": "840年にモンゴル高原のウイグル可汗国がエニセイ・キルギスに滅ぼされると、七河地方とカシュガリアのテュルク集団が、おそらくカルルクかそれに近い氏族の主導のもとでカラハン朝を建てた。二人のハンがベラサグンとカシュガルで分治した。カラハン朝はやがてカザフスタン南部と中央アジアの多くをテュルクの支配のもとに統合することになる。"
+   }
+  },
+  {
+   "year": 893,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Samanids capture Taraz",
+    "ko": "사만 왕조의 타라즈 정복",
+    "zh": "萨曼王朝攻占怛罗斯",
+    "ja": "サーマーン朝がタラズを占領"
+   },
+   "description": {
+    "en": "In 893 the Samanid emir Ismail ibn Ahmad led a campaign from Bukhara against the Turks and captured Talas (Taraz). According to Arabic and Persian historians, the town's main church was turned into a congregational mosque. The conquest marked a major step in the spread of Islam into the Syr Darya and Zhetysu regions.",
+    "ko": "893년 사만 왕조의 아미르 이스마일 이븐 아흐마드는 부하라에서 튀르크를 상대로 원정해 탈라스(타라즈)를 점령했다. 아랍·페르시아 역사가들에 따르면 이때 도시의 주요 교회가 금요 모스크로 바뀌었다. 이 정복은 시르다리야와 제티수 지역으로 이슬람이 퍼지는 데 중요한 걸음이 되었다.",
+    "zh": "893年，萨曼王朝埃米尔伊斯玛仪·伊本·艾哈迈德从布哈拉出兵征讨突厥人，攻占怛罗斯（塔拉兹）。据阿拉伯和波斯史家记载，该城的主教堂被改为聚礼清真寺。这次征服是伊斯兰教向锡尔河和七河地区传播的重要一步。",
+    "ja": "893年、サーマーン朝のアミール、イスマーイール・イブン・アフマドはブハラからテュルクに対して遠征し、タラス（タラズ）を占領した。アラブやペルシアの歴史家によれば、町の主要な教会は金曜モスクに改められた。この征服は、シルダリヤと七河地方へのイスラームの拡大において重要な一歩となった。"
+   }
+  },
+  {
+   "year": 922,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ibn Fadlan crosses the Oghuz steppe",
+    "ko": "이븐 파들란의 오구즈 초원 횡단",
+    "zh": "伊本·法德兰穿越乌古斯草原",
+    "ja": "イブン・ファドラーンがオグズ草原を横断"
+   },
+   "description": {
+    "en": "In 922 the Abbasid envoy Ahmad ibn Fadlan, travelling from Khwarazm to the Volga Bulgars, crossed the Ustyurt plateau and the steppes of western Kazakhstan. His account describes the customs, beliefs and harsh winter conditions of the Oghuz nomads and his dealings with their military leaders. It is one of the most vivid surviving descriptions of the Turkic nomads of the time.",
+    "ko": "922년 아바스 왕조의 사신 아흐마드 이븐 파들란은 호라즘에서 볼가 불가르로 가는 길에 우스튜르트 고원과 카자흐스탄 서부 초원을 건넜다. 그의 기록은 오구즈 유목민의 풍습과 신앙, 혹독한 겨울, 그리고 그들의 군사 지도자들과의 교섭을 묘사한다. 이는 당시 튀르크 유목민에 관한 가장 생생한 기록 가운데 하나다.",
+    "zh": "922年，阿拔斯王朝使节艾哈迈德·伊本·法德兰从花剌子模前往伏尔加保加尔途中，穿越乌斯秋尔特高原和哈萨克斯坦西部草原。他的记述描写了乌古斯游牧民的习俗、信仰、严酷的冬季，以及他与其军事首领的交涉。这是现存关于当时突厥游牧民最生动的记载之一。",
+    "ja": "922年、アッバース朝の使節アフマド・イブン・ファドラーンは、ホラズムからヴォルガ・ブルガールへ向かう途中、ウスチュルト台地とカザフスタン西部の草原を横断した。彼の記録は、オグズ遊牧民の習俗や信仰、厳しい冬、そして彼らの軍事指導者との交渉を描いている。これは当時のテュルク遊牧民についての最も生き生きとした記録の一つである。"
+   }
+  },
+  {
+   "year": 960,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Mass conversion of Turks to Islam",
+    "ko": "튀르크인의 대규모 이슬람 개종",
+    "zh": "突厥人大规模皈依伊斯兰教",
+    "ja": "テュルク人の大規模なイスラーム改宗"
+   },
+   "description": {
+    "en": "The Kara-Khanid ruler Satuq Bughra Khan (d. 955) had already embraced Islam, and in 960, according to the historian Ibn Miskawayh, some 200,000 tents of Turks converted. The Kara-Khanids thus became the first Turkic dynasty to adopt Islam as the religion of state. Islam spread steadily through the towns and then the nomads of southern Kazakhstan.",
+    "ko": "카라한 왕조의 군주 사투크 부그라 칸(955년 사망)은 이미 이슬람을 받아들였고, 역사가 이븐 미스카와이흐에 따르면 960년 튀르크인 약 20만 장막이 개종했다. 이로써 카라한 왕조는 이슬람을 국교로 삼은 최초의 튀르크 왕조가 되었다. 이슬람은 카자흐스탄 남부의 도시를 거쳐 유목민에게로 꾸준히 퍼져 나갔다.",
+    "zh": "喀喇汗王朝君主萨图克·布格拉汗（卒于955年）已皈依伊斯兰教；据史家伊本·米斯凯韦记载，960年约有二十万帐突厥人改宗。喀喇汗王朝由此成为第一个以伊斯兰教为国教的突厥王朝。伊斯兰教先在城镇、继而在哈萨克斯坦南部的游牧民中稳步传播。",
+    "ja": "カラハン朝の君主サトゥク・ボグラ・ハン（955年没）はすでにイスラームを受け入れており、歴史家イブン・ミスカワイフによれば960年に約20万帳のテュルク人が改宗した。これによりカラハン朝はイスラームを国教とした最初のテュルク系王朝となった。イスラームはカザフスタン南部の町々、次いで遊牧民へと着実に広まった。"
+   }
+  },
+  {
+   "year": 985,
+   "qid": "Q3708255",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Seljuk settles at Jand on the Syr Darya",
+    "ko": "셀주크의 잔드 정착",
+    "zh": "塞尔柱定居锡尔河畔的毡的",
+    "ja": "セルジュークがシルダリヤ河畔のジャンドに定住"
+   },
+   "description": {
+    "en": "Around 985 (c.) Seljuk, an Oghuz military leader who had broken with the Oghuz yabgu, moved with his followers to Jand on the lower Syr Darya and adopted Islam. From this base his descendants fought the Oghuz yabgus and served neighbouring Muslim rulers. In the 11th century they moved south and founded the Great Seljuk Empire, which went on to rule Iran, Iraq and Anatolia.",
+    "ko": "985년 무렵 오구즈 야브구와 결별한 오구즈의 무장 셀주크는 추종자들을 이끌고 시르다리야 하류의 잔드로 옮겨 이슬람을 받아들였다. 그의 후손들은 이곳을 근거지로 오구즈 야브구와 싸우고 이웃 무슬림 군주들을 섬겼다. 11세기에 그들은 남쪽으로 이동해 대셀주크 제국을 세웠고, 이란·이라크·아나톨리아를 지배하게 되었다.",
+    "zh": "约985年，与乌古斯叶护决裂的乌古斯军事首领塞尔柱率部众迁往锡尔河下游的毡的，并皈依伊斯兰教。他的后裔以此为基地与乌古斯叶护作战，并为邻近的穆斯林君主效力。11世纪，他们南下建立大塞尔柱帝国，进而统治伊朗、伊拉克和安纳托利亚。",
+    "ja": "985年頃、オグズのヤブグと決裂したオグズの武将セルジュークは配下を率いてシルダリヤ下流のジャンドに移り、イスラームを受け入れた。その子孫はここを拠点にオグズのヤブグと戦い、近隣のムスリム君主に仕えた。11世紀に彼らは南へ移って大セルジューク朝を建て、イラン・イラク・アナトリアを支配するに至った。"
+   }
+  },
+  {
+   "year": 1050,
+   "qid": "Q2477776",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Kipchaks become masters of the steppe",
+    "ko": "킵차크의 초원 장악",
+    "zh": "钦察人成为草原主人",
+    "ja": "キプチャクが草原の主となる"
+   },
+   "description": {
+    "en": "Around the mid-11th century (c.) the Kipchaks, formerly the western branch of the Kimek confederation, expanded across the steppe, pushing the Oghuz out of western Kazakhstan and destroying the Oghuz yabgu state. The Kipchaks and their Cuman kin soon dominated the grasslands from the Irtysh to the Black Sea. Persian writers began calling this region the Dasht-i Kipchak, a name long used for the Kazakh steppe.",
+    "ko": "11세기 중엽 무렵 키메크 연맹의 서쪽 분파였던 킵차크는 초원 전역으로 팽창해 오구즈를 카자흐스탄 서부에서 몰아내고 오구즈 야브구국을 무너뜨렸다. 킵차크와 그 친족인 쿠만은 곧 이르티시강에서 흑해에 이르는 초원을 지배했다. 페르시아 저자들은 이 지역을 '다슈티 킵차크'라 부르기 시작했고, 이 이름은 오랫동안 카자흐 초원을 가리켰다.",
+    "zh": "约11世纪中叶，原为基马克联盟西部分支的钦察人向整个草原扩张，把乌古斯人逐出哈萨克斯坦西部，摧毁了乌古斯叶护国。钦察人及其同族库曼人很快控制了从额尔齐斯河到黑海的草原。波斯作家开始称这一地区为“钦察草原”，这一名称长期用来指称哈萨克草原。",
+    "ja": "11世紀半ば頃、もとはキメク連合の西方の一派だったキプチャクは草原全域に拡大し、オグズをカザフスタン西部から追い出してオグズ・ヤブグ国を滅ぼした。キプチャクと同族のクマンはまもなくイルティシ川から黒海に至る草原を支配した。ペルシアの著述家はこの地域を「ダシュティ・キプチャク」と呼び始め、この名は長くカザフ草原を指した。"
+   }
+  },
+  {
+   "year": 1100,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Aisha Bibi Mausoleum near Taraz",
+    "ko": "타라즈 근처의 아이샤 비비 묘당",
+    "zh": "塔拉兹附近的艾莎·比比陵",
+    "ja": "タラズ近郊のアイシャ・ビビ廟"
+   },
+   "description": {
+    "en": "Around the 11th–12th centuries (c.), during the Kara-Khanid period, the Aisha Bibi Mausoleum was built near Taraz, its walls covered with finely carved terracotta tiles in geometric and floral patterns. Local legend links it to a tragic love story of a young woman named Aisha. Together with the nearby Babaji Khatun Mausoleum it is one of the finest surviving monuments of medieval architecture in Kazakhstan.",
+    "ko": "11~12세기 무렵 카라한 왕조 시대에 타라즈 근처에 아이샤 비비 묘당이 세워졌는데, 벽면은 기하학 무늬와 꽃무늬를 정교하게 새긴 테라코타 타일로 덮여 있다. 지역 전설은 이 묘당을 아이샤라는 젊은 여성의 비극적인 사랑 이야기와 연결한다. 가까운 바바지 하툰 묘당과 함께 카자흐스탄에 남은 중세 건축의 가장 뛰어난 유적 가운데 하나다.",
+    "zh": "约11至12世纪的喀喇汗王朝时期，塔拉兹附近建起了艾莎·比比陵，墙面覆盖着雕刻精美的几何纹和花卉纹赤陶面砖。当地传说将它与一位名叫艾莎的少女的悲剧爱情故事联系在一起。它与附近的巴巴吉·哈顿陵同为哈萨克斯坦现存最精美的中世纪建筑遗迹之一。",
+    "ja": "11～12世紀頃のカラハン朝時代、タラズ近郊にアイシャ・ビビ廟が建てられ、その壁面は幾何学文様や植物文様を精巧に刻んだテラコッタのタイルで覆われている。地元の伝説はこの廟を、アイシャという若い女性の悲恋の物語と結びつけている。近くのババジ・ハトゥン廟とともに、カザフスタンに残る中世建築の最も優れた遺構の一つである。"
+   }
+  },
+  {
+   "year": 1134,
+   "qid": "Q862304",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Yelü Dashi founds the Qara Khitai",
+    "ko": "야율대석의 서요 건국",
+    "zh": "耶律大石建立西辽",
+    "ja": "耶律大石が西遼を建てる"
+   },
+   "description": {
+    "en": "Around 1134 (c.) the Khitan prince Yelü Dashi, who had fled west after the fall of the Liao dynasty, took Balasagun from the Kara-Khanids and made it his capital. His Qara Khitai (Western Liao) empire ruled Zhetysu directly, and after his victory at Qatwan in 1141 it held most of Central Asia, including the Syr Darya towns, as vassals. Its rule was remembered for religious tolerance and light taxation.",
+    "ko": "1134년 무렵 요나라 멸망 뒤 서쪽으로 달아난 거란 왕족 야율대석은 카라한 왕조로부터 발라사군을 빼앗아 수도로 삼았다. 그가 세운 카라 키타이(서요)는 제티수를 직접 다스렸고, 1141년 카트완 전투에서 승리한 뒤에는 시르다리야 도시들을 포함한 중앙아시아 대부분을 속국으로 거느렸다. 서요의 통치는 종교적 관용과 가벼운 세금으로 기억된다.",
+    "zh": "约1134年，辽朝灭亡后西逃的契丹宗室耶律大石从喀喇汗王朝手中夺取八剌沙衮并定为都城。他建立的西辽（喀喇契丹）直接统治七河地区，1141年卡特万之战获胜后，又以包括锡尔河诸城在内的中亚大部分地区为藩属。西辽的统治以宗教宽容和轻徭薄赋著称。",
+    "ja": "1134年頃、遼の滅亡後に西へ逃れた契丹の王族耶律大石は、カラハン朝からベラサグンを奪って都とした。彼のカラ・キタイ（西遼）は七河地方を直接統治し、1141年のカトワーンの戦いでの勝利後は、シルダリヤ沿いの町々を含む中央アジアの大部分を属国とした。西遼の統治は宗教的寛容と軽い税で記憶されている。"
+   }
+  },
+  {
+   "year": 1166,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Death of Khoja Ahmed Yasawi",
+    "ko": "호자 아흐메드 야사위의 죽음",
+    "zh": "霍贾·艾哈迈德·亚萨维逝世",
+    "ja": "ホージャ・アフマド・ヤサヴィーの死"
+   },
+   "description": {
+    "en": "According to tradition, the Sufi master Khoja Ahmed Yasawi died in 1166 in the town of Yasi, today Turkestan in southern Kazakhstan. His mystical poems in Turkic, collected as the Divan-i Hikmet, and the Yasawiyya order he founded did much to spread Islam among the Turkic nomads. His shrine at Turkestan became one of the most important pilgrimage sites of Central Asia.",
+    "ko": "전승에 따르면 수피 스승 호자 아흐메드 야사위는 1166년 오늘날 카자흐스탄 남부의 투르키스탄인 야시에서 세상을 떠났다. 『디와니 히크마트』로 엮인 그의 튀르크어 신비주의 시와 그가 세운 야사위 교단은 튀르크 유목민 사이에 이슬람을 퍼뜨리는 데 크게 기여했다. 투르키스탄에 있는 그의 성묘는 중앙아시아에서 가장 중요한 순례지 가운데 하나가 되었다.",
+    "zh": "据传统说法，苏菲派导师霍贾·艾哈迈德·亚萨维于1166年在亚斯城（今哈萨克斯坦南部的突厥斯坦）逝世。他以突厥语写成、辑为《智慧集》的神秘主义诗歌，以及他创立的亚萨维教团，对伊斯兰教在突厥游牧民中的传播贡献巨大。他在突厥斯坦的圣陵成为中亚最重要的朝圣地之一。",
+    "ja": "伝承によれば、スーフィーの師ホージャ・アフマド・ヤサヴィーは1166年、今日のカザフスタン南部トルキスタンにあたるヤスィの町で没した。『ディーワーニ・ヒクマト』にまとめられた彼のテュルク語の神秘主義詩と、彼が創始したヤサヴィー教団は、テュルク遊牧民へのイスラームの普及に大きく貢献した。トルキスタンにある彼の聖廟は、中央アジアで最も重要な巡礼地の一つとなった。"
+   }
+  },
+  {
+   "year": 1210,
+   "qid": "Q63134381",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Khwarazm takes the Syr Darya towns",
+    "ko": "호라즘의 시르다리야 도시 장악",
+    "zh": "花剌子模夺取锡尔河诸城",
+    "ja": "ホラズムがシルダリヤの町々を奪う"
+   },
+   "description": {
+    "en": "Around 1210 (c.) the Khwarazmshah Muhammad II broke with his Qara Khitai overlords and extended his rule over Transoxiana and the towns of the middle Syr Darya, including Otrar. Otrar was entrusted to Inalchuq, a Kipchak noble related to the Khwarazmshah's mother. The rapid expansion of Khwarazm brought its new frontier into contact with the rising Mongol power.",
+    "ko": "1210년 무렵 호라즘 샤 무함마드 2세는 종주국 서요와 결별하고 트란스옥시아나와 오트라르를 비롯한 시르다리야 중류의 도시들로 지배를 넓혔다. 오트라르는 호라즘 샤의 어머니와 친척인 킵차크 귀족 이날추크에게 맡겨졌다. 호라즘의 급속한 팽창으로 새 국경은 떠오르는 몽골 세력과 맞닿게 되었다.",
+    "zh": "约1210年，花剌子模沙摩诃末二世摆脱西辽宗主，将统治扩展到河中地区和包括讹答剌在内的锡尔河中游诸城。讹答剌交由与花剌子模沙之母有亲缘关系的钦察贵族亦纳勒术镇守。花剌子模的迅速扩张使其新边界与崛起的蒙古势力相接。",
+    "ja": "1210年頃、ホラズム・シャーのムハンマド2世は宗主の西遼と決別し、マー・ワラー・アンナフルとオトラルを含むシルダリヤ中流域の町々に支配を広げた。オトラルはホラズム・シャーの母の縁者であるキプチャクの貴族イナルチュクに委ねられた。ホラズムの急速な拡大により、その新たな国境は台頭するモンゴル勢力と接することになった。"
+   }
+  },
+  {
+   "year": 1218,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Otrar incident",
+    "ko": "오트라르 사건",
+    "zh": "讹答剌事件",
+    "ja": "オトラル事件"
+   },
+   "description": {
+    "en": "In 1218 a large trade caravan sent by Genghis Khan arrived at Otrar, where the governor Inalchuq accused the merchants of spying and had them killed, seizing their goods. When the Khwarazmshah Muhammad II refused to hand over the governor and had a Mongol envoy executed, Genghis Khan resolved on war. The incident directly triggered the Mongol invasion of Central Asia.",
+    "ko": "1218년 칭기즈 칸이 보낸 대규모 대상단이 오트라르에 도착하자, 총독 이날추크는 상인들을 첩자로 몰아 죽이고 물건을 빼앗았다. 호라즘 샤 무함마드 2세가 총독의 인도를 거부하고 몽골 사신을 처형하자 칭기즈 칸은 전쟁을 결심했다. 이 사건은 몽골의 중앙아시아 침공을 직접 촉발했다.",
+    "zh": "1218年，成吉思汗派出的庞大商队抵达讹答剌，守将亦纳勒术指控商人为间谍，将其杀害并夺取货物。花剌子模沙摩诃末二世拒绝交出守将，还处死了蒙古使者，成吉思汗遂决意开战。这一事件直接引发了蒙古对中亚的入侵。",
+    "ja": "1218年、チンギス・カンが送った大規模な隊商がオトラルに着くと、総督イナルチュクは商人たちを間諜として殺害し、品物を奪った。ホラズム・シャーのムハンマド2世が総督の引き渡しを拒み、モンゴルの使者を処刑したため、チンギス・カンは戦争を決意した。この事件はモンゴルの中央アジア侵攻の直接の引き金となった。"
+   }
+  },
+  {
+   "year": 1219,
+   "qid": "Q111943842",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Mongol invasion and the fall of Otrar",
+    "ko": "몽골 침공과 오트라르 함락",
+    "zh": "蒙古入侵与讹答剌陷落",
+    "ja": "モンゴル侵攻とオトラル陥落"
+   },
+   "description": {
+    "en": "In 1219 Genghis Khan's armies invaded Khwarazm, and his sons besieged Otrar, which held out for months before falling in early 1220; Inalchuq was captured and executed. Other Syr Darya towns such as Sighnaq and Jand were also taken, many with great destruction. The entire Kazakh steppe was absorbed into the Mongol Empire and later divided among the uluses of Jochi and Chagatai.",
+    "ko": "1219년 칭기즈 칸의 군대는 호라즘을 침공했고, 그의 아들들이 오트라르를 포위했다. 오트라르는 몇 달을 버티다 1220년 초에 함락되었고 이날추크는 붙잡혀 처형되었다. 시그나크와 잔드 같은 다른 시르다리야 도시들도 함락되었는데 상당수가 크게 파괴되었다. 카자흐 초원 전체가 몽골 제국에 편입되었고, 이후 주치와 차가타이의 울루스로 나뉘었다.",
+    "zh": "1219年，成吉思汗大军入侵花剌子模，其诸子围攻讹答剌；该城坚守数月，于1220年初陷落，亦纳勒术被俘处死。昔格纳黑、毡的等锡尔河诸城也相继被攻破，许多城市遭到严重破坏。整个哈萨克草原并入蒙古帝国，后来分属术赤和察合台的兀鲁思。",
+    "ja": "1219年、チンギス・カンの軍はホラズムに侵攻し、息子たちがオトラルを包囲した。オトラルは数か月持ちこたえた末に1220年初めに陥落し、イナルチュクは捕らえられ処刑された。スグナクやジャンドなどシルダリヤ沿いの他の町も攻略され、その多くが大きく破壊された。カザフ草原全体がモンゴル帝国に組み込まれ、のちにジョチとチャガタイのウルスに分けられた。"
+   }
+  },
+  {
+   "year": 1227,
+   "qid": "Q12557",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Division of the uluses of Jochi and Chagatai",
+    "ko": "주치와 차가타이 울루스의 분할",
+    "zh": "术赤与察合台兀鲁思的划分",
+    "ja": "ジョチ・ウルスとチャガタイ・ウルスの分割"
+   },
+   "description": {
+    "en": "By the time of Genghis Khan's death in 1227, the lands of modern Kazakhstan had been apportioned among his sons. The steppe from the Irtysh to the Volga formed the ulus of Jochi (who died about the same time), inherited by his sons Batu and Orda, while Zhetysu and the southeast went to Chagatai. These divisions shaped the political map of the region for the next two centuries.",
+    "ko": "1227년 칭기즈 칸이 죽을 무렵 오늘날 카자흐스탄 땅은 그의 아들들에게 나뉘어 있었다. 이르티시강에서 볼가강에 이르는 초원은 주치(거의 같은 무렵 사망)의 울루스가 되어 아들 바투와 오르다가 물려받았고, 제티수와 남동부는 차가타이에게 돌아갔다. 이 분할은 이후 2세기 동안 이 지역의 정치 지형을 결정했다.",
+    "zh": "到1227年成吉思汗去世时，今哈萨克斯坦的土地已分封给他的儿子们。从额尔齐斯河到伏尔加河的草原成为术赤（约在同一时期去世）的兀鲁思，由其子拔都和斡儿答继承，七河地区和东南部则归察合台。这种划分决定了此后两个世纪该地区的政治格局。",
+    "ja": "1227年にチンギス・カンが没する頃には、今日のカザフスタンの地は息子たちに分け与えられていた。イルティシ川からヴォルガ川に至る草原は、ほぼ同じ頃に没したジョチのウルスとなって息子のバトゥとオルダが継ぎ、七河地方と南東部はチャガタイのものとなった。この分割はその後2世紀にわたり地域の政治地図を形づくった。"
+   }
+  },
+  {
+   "year": 1242,
+   "qid": "Q79965",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Batu establishes the Golden Horde",
+    "ko": "바투의 킵차크 칸국 수립",
+    "zh": "拔都建立金帐汗国",
+    "ja": "バトゥがジョチ・ウルスを確立"
+   },
+   "description": {
+    "en": "After the great western campaign of 1236–1242, which conquered the Volga Bulgars, the Kipchaks and the Rus' principalities, Batu settled on the lower Volga and established the realm later called the Golden Horde. The western and central Kazakh steppe became its heartland pastures, while his elder brother Orda led the eastern wing. Kipchak Turkic remained the everyday language of the Horde's nomads.",
+    "ko": "볼가 불가르와 킵차크, 루스 공국들을 정복한 1236~1242년의 대서방 원정 뒤 바투는 볼가강 하류에 자리 잡고 훗날 킵차크 칸국(황금 오르다)이라 불린 나라를 세웠다. 카자흐 초원 서부와 중부는 그 중심 목초지가 되었고, 형 오르다는 동부(좌익)를 이끌었다. 킵차크 튀르크어는 계속 이 나라 유목민의 일상 언어였다.",
+    "zh": "1236至1242年的大规模西征征服了伏尔加保加尔、钦察人和罗斯诸公国，此后拔都定居伏尔加河下游，建立了后来被称为金帐汗国的政权。哈萨克草原西部和中部成为其核心牧场，其兄斡儿答则统领东部（左翼）。钦察突厥语始终是汗国游牧民的日常语言。",
+    "ja": "ヴォルガ・ブルガール、キプチャク、ルーシ諸公国を征服した1236～1242年の大西征の後、バトゥはヴォルガ川下流に腰を据え、のちに「黄金のオルダ」と呼ばれる国家を築いた。カザフ草原の西部と中部はその中核の牧地となり、兄オルダは東部（左翼）を率いた。キプチャク・テュルク語はこの国の遊牧民の日常語であり続けた。"
+   }
+  },
+  {
+   "year": 1253,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "William of Rubruck crosses the Kazakh steppe",
+    "ko": "뤼브룩의 윌리엄, 카자흐 초원을 건너다",
+    "zh": "鲁布鲁克穿越哈萨克草原",
+    "ja": "ルブルクのギヨームがカザフ草原を横断"
+   },
+   "description": {
+    "en": "In 1253 the Flemish Franciscan friar William of Rubruck, travelling to the court of the Great Khan Möngke, crossed the Kazakh steppe and passed through Zhetysu. He described the town of Qayaliq, where he found Muslims, Buddhists and Nestorian Christians, and the devastation left by the Mongol conquest. His report is one of the most important European sources on the Mongol world.",
+    "ko": "1253년 플랑드르 출신의 프란치스코회 수도사 뤼브룩의 윌리엄은 대칸 뭉케의 궁정으로 가는 길에 카자흐 초원을 건너 제티수를 지났다. 그는 무슬림과 불교도, 네스토리우스파 기독교도가 함께 사는 카얄리크 시와 몽골 정복이 남긴 황폐를 묘사했다. 그의 보고서는 몽골 세계에 관한 가장 중요한 유럽 사료 가운데 하나다.",
+    "zh": "1253年，佛兰德方济各会修士鲁布鲁克的威廉前往大汗蒙哥的宫廷，途中穿越哈萨克草原，经过七河地区。他描述了穆斯林、佛教徒和聂斯脱利派基督徒杂居的海押立城，以及蒙古征服留下的破坏。他的报告是关于蒙古世界最重要的欧洲史料之一。",
+    "ja": "1253年、フランドル出身のフランシスコ会修道士ルブルクのギヨームは、大ハーン・モンケの宮廷へ向かう途中でカザフ草原を横断し、七河地方を通過した。彼はムスリム、仏教徒、ネストリウス派キリスト教徒が暮らすカヤリクの町や、モンゴルの征服が残した荒廃を描いた。彼の報告はモンゴル世界に関する最も重要なヨーロッパ史料の一つである。"
+   }
+  },
+  {
+   "year": 1269,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Kurultai on the Talas",
+    "ko": "탈라스 쿠릴타이",
+    "zh": "塔拉斯忽里台",
+    "ja": "タラス河畔のクリルタイ"
+   },
+   "description": {
+    "en": "In 1269 the Mongol princes Kaidu, Baraq of the Chagatai line and representatives of the Golden Horde met in a kurultai in the Talas valley. They divided the revenues of the settled lands of Transoxiana among themselves and agreed to live as nomads on the steppe. The meeting marked the effective break of the Central Asian khanates from the authority of Kublai Khan.",
+    "ko": "1269년 몽골 왕족 카이두와 차가타이 가문의 바라크, 그리고 킵차크 칸국의 대표들이 탈라스 계곡에서 쿠릴타이를 열었다. 이들은 트란스옥시아나 정주 지역의 수입을 나누어 갖고 초원에서 유목 생활을 하기로 합의했다. 이 회의는 중앙아시아 칸국들이 쿠빌라이 칸의 권위에서 사실상 이탈했음을 보여 주었다.",
+    "zh": "1269年，蒙古宗王海都、察合台系的八剌以及金帐汗国的代表在塔拉斯河谷召开忽里台。他们瓜分了河中地区定居地带的收入，并约定在草原上过游牧生活。这次会议标志着中亚诸汗国实际上脱离了忽必烈汗的权威。",
+    "ja": "1269年、モンゴルの王族カイドゥ、チャガタイ家のバラク、そしてジョチ・ウルスの代表がタラス渓谷でクリルタイを開いた。彼らはマー・ワラー・アンナフルの定住地帯の収入を分け合い、草原で遊牧生活を送ることに合意した。この会議は、中央アジアの諸ハン国がクビライ・カアンの権威から事実上離脱したことを示した。"
+   }
+  },
+  {
+   "year": 1313,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Uzbek Khan makes Islam the faith of the Horde",
+    "ko": "우즈베크 칸의 이슬람 국교화",
+    "zh": "月即别汗以伊斯兰教为国教",
+    "ja": "ウズベク・ハンがイスラームを国教とする"
+   },
+   "description": {
+    "en": "Uzbek Khan, who came to the throne of the Golden Horde in 1313, adopted Islam and made it the official religion of the state. Under his long reign the Horde reached the height of its power and prosperity, with flourishing trade routes across the Kazakh steppe. Islam gradually took firm root among the nomads, and later tradition connects the name of the Uzbeks with this khan.",
+    "ko": "1313년 킵차크 칸국의 왕위에 오른 우즈베크 칸은 이슬람을 받아들여 국교로 삼았다. 그의 오랜 치세 동안 칸국은 국력과 번영의 정점에 이르렀고, 카자흐 초원을 가로지르는 교역로가 번성했다. 이슬람은 점차 유목민 사이에 확고히 뿌리내렸으며, 후대 전승은 우즈베크라는 이름을 이 칸과 연결한다.",
+    "zh": "1313年即位的金帐汗国君主月即别汗皈依伊斯兰教，并将其定为国教。在他漫长的统治期间，汗国国力和繁荣达到顶峰，横贯哈萨克草原的商路兴盛。伊斯兰教逐渐在游牧民中扎根，后世传说将“乌兹别克”之名与这位汗联系在一起。",
+    "ja": "1313年にジョチ・ウルスの王位に就いたウズベク・ハンはイスラームを受け入れ、国教とした。その長い治世のもとでウルスは国力と繁栄の頂点に達し、カザフ草原を横断する交易路が栄えた。イスラームは次第に遊牧民の間に根を下ろし、後世の伝承はウズベクという名をこのハンと結びつけている。"
+   }
+  },
+  {
+   "year": 1347,
+   "qid": "Q1191125",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Tughlugh Timur founds Moghulistan",
+    "ko": "투글루크 티무르의 모굴리스탄 건국",
+    "zh": "秃黑鲁·帖木儿建立蒙兀儿斯坦",
+    "ja": "トゥグルク・ティムールがモグーリスタンを建てる"
+   },
+   "description": {
+    "en": "In 1347 the Dughlat emir Puladchi raised Tughlugh Timur, a descendant of Chagatai, to the throne in the eastern part of the Chagatai realm, which became known as Moghulistan. Its pastures included Zhetysu and the Ili valley in southeastern Kazakhstan. Tughlugh Timur later converted to Islam, and with him many of his nomadic followers.",
+    "ko": "1347년 두글라트 가문의 아미르 풀라드치는 차가타이의 후손 투글루크 티무르를 차가타이 칸국 동부의 칸으로 옹립했고, 이 나라는 모굴리스탄으로 불리게 되었다. 그 목초지에는 카자흐스탄 남동부의 제티수와 일리 계곡이 포함되었다. 투글루크 티무르는 훗날 이슬람으로 개종했고 많은 유목 추종자들도 그를 따랐다.",
+    "zh": "1347年，杜格拉特部的异密播鲁只拥立察合台后裔秃黑鲁·帖木儿为察合台汗国东部的汗，这一政权被称为蒙兀儿斯坦。其牧地包括哈萨克斯坦东南部的七河地区和伊犁河谷。秃黑鲁·帖木儿后来皈依伊斯兰教，他的许多游牧部众也随之改宗。",
+    "ja": "1347年、ドゥグラト家のアミール、プーラードチーはチャガタイの子孫トゥグルク・ティムールをチャガタイ・ハン国東部のハンに擁立し、この国はモグーリスタンと呼ばれるようになった。その牧地にはカザフスタン南東部の七河地方とイリ川流域が含まれた。トゥグルク・ティムールはのちにイスラームに改宗し、多くの遊牧民の配下もそれに続いた。"
+   }
+  },
+  {
+   "year": 1378,
+   "qid": "Q2553863",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Tokhtamysh seizes the White Horde",
+    "ko": "톡타미시의 백장 칸국 장악",
+    "zh": "脱脱迷失夺取白帐汗国",
+    "ja": "トクタミシュが白帳ハン国を掌握"
+   },
+   "description": {
+    "en": "Urus Khan had made the eastern wing of the Ulus of Jochi, centred on Sighnaq, a strong independent khanate. His rival Tokhtamysh, supported by Timur, took control of it after Urus's death, around 1378 (c.), and by 1380 had reunited the Golden Horde. Urus Khan's descendants, Kerei and Janibek, would later found the Kazakh Khanate.",
+    "ko": "우루스 칸은 시그나크를 중심으로 한 주치 울루스의 동부를 강력한 독립 칸국으로 만들었다. 그의 경쟁자 톡타미시는 티무르의 지원을 받아 우루스가 죽은 뒤 1378년 무렵 이곳을 장악했고, 1380년에는 킵차크 칸국을 재통일했다. 우루스 칸의 후손인 케레이와 자니벡은 훗날 카자흐 칸국을 세우게 된다.",
+    "zh": "兀鲁斯汗把以昔格纳黑为中心的术赤兀鲁思东部建成一个强大的独立汗国。他的对手脱脱迷失在帖木儿支持下，于兀鲁斯死后约1378年控制了该汗国，并在1380年重新统一金帐汗国。兀鲁斯汗的后裔克烈和贾尼别克后来建立了哈萨克汗国。",
+    "ja": "オロス・ハンはスグナクを中心とするジョチ・ウルス東部を強力な独立ハン国とした。ライバルのトクタミシュはティムールの支援を受け、オロスの死後の1378年頃にこれを掌握し、1380年までにジョチ・ウルスを再統一した。オロス・ハンの子孫であるケレイとジャニベクは、のちにカザフ・ハン国を建てることになる。"
+   }
+  },
+  {
+   "year": 1389,
+   "qid": "Q484195",
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Timur orders the Yasawi Mausoleum",
+    "ko": "티무르의 야사위 묘당 건립 명령",
+    "zh": "帖木儿下令修建亚萨维陵",
+    "ja": "ティムールがヤサヴィー廟の建設を命じる"
+   },
+   "description": {
+    "en": "In 1389 Timur ordered the construction of a grand mausoleum over the tomb of Khoja Ahmed Yasawi in Yasi (Turkestan). Built by Persian master builders with a huge dome and glazed tile decoration, it was left unfinished at Timur's death in 1405 but remains one of the largest and best-preserved Timurid buildings. It was inscribed as a UNESCO World Heritage Site in 2003 and later became a burial place of Kazakh khans and nobles.",
+    "ko": "1389년 티무르는 야시(투르키스탄)에 있는 호자 아흐메드 야사위의 무덤 위에 웅대한 묘당을 짓도록 명했다. 페르시아의 장인들이 거대한 돔과 유약 타일 장식으로 지은 이 건물은 1405년 티무르가 죽었을 때 미완성으로 남았지만, 지금도 가장 크고 보존 상태가 좋은 티무르 왕조 건축물 가운데 하나다. 2003년 유네스코 세계유산에 등재되었으며, 훗날 카자흐 칸과 귀족들의 묘소가 되었다.",
+    "zh": "1389年，帖木儿下令在亚斯（突厥斯坦）的霍贾·艾哈迈德·亚萨维墓上修建宏伟的陵墓。该建筑由波斯工匠建造，有巨大的穹顶和釉面砖装饰，1405年帖木儿去世时尚未完工，但至今仍是规模最大、保存最好的帖木儿王朝建筑之一。它于2003年被列入联合国教科文组织世界遗产名录，后来也成为哈萨克诸汗和贵族的安葬之所。",
+    "ja": "1389年、ティムールはヤスィ（トルキスタン）にあるホージャ・アフマド・ヤサヴィーの墓の上に壮大な霊廟を建てるよう命じた。ペルシアの職人たちが巨大なドームと施釉タイルの装飾で築いたこの建物は、1405年のティムールの死の時点で未完成のまま残されたが、今もティムール朝建築のうち最大級で保存状態の良いものの一つである。2003年にユネスコ世界遺産に登録され、のちにカザフのハンや貴族の墓所ともなった。"
+   }
+  },
+  {
+   "year": 1391,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Timur marches across the steppe: the Karsakpay inscription",
+    "ko": "티무르의 초원 행군과 카르사크파이 비문",
+    "zh": "帖木儿横越草原：卡尔萨克派铭文",
+    "ja": "ティムールの草原行軍とカルサクパイ碑文"
+   },
+   "description": {
+    "en": "In 1391 Timur led a huge army north across the Kazakh steppe against his former protégé Tokhtamysh. During the march he had an inscription carved on a rock in the Ulytau region of central Kazakhstan recording the campaign; the stone, known as the Karsakpay inscription, is now in the Hermitage Museum. The campaign ended with Timur's victory at the Kondurcha River near the Volga.",
+    "ko": "1391년 티무르는 한때 자신이 후원했던 톡타미시를 치기 위해 대군을 이끌고 카자흐 초원을 북쪽으로 가로질렀다. 행군 중 그는 카자흐스탄 중부 울리타우 지역의 바위에 원정을 기록한 비문을 새기게 했는데, 카르사크파이 비문으로 알려진 이 돌은 현재 에르미타주 박물관에 있다. 원정은 볼가강 근처 콘두르차강에서 티무르의 승리로 끝났다.",
+    "zh": "1391年，帖木儿率大军向北穿越哈萨克草原，讨伐他昔日扶植的脱脱迷失。行军途中，他命人在哈萨克斯坦中部乌雷套地区的岩石上刻下记述此次远征的铭文；这块被称为卡尔萨克派铭文的石头现藏于埃尔米塔日博物馆。此次远征以帖木儿在伏尔加河附近孔杜尔恰河畔的胜利告终。",
+    "ja": "1391年、ティムールはかつて自らが後援したトクタミシュを討つため、大軍を率いてカザフ草原を北へ横断した。行軍中、彼はカザフスタン中部ウルタウ地方の岩に遠征を記録する碑文を刻ませた。カルサクパイ碑文として知られるこの石は、現在エルミタージュ美術館にある。遠征はヴォルガ川近くのコンドゥルチャ川でのティムールの勝利で終わった。"
+   }
+  },
+  {
+   "year": 1405,
+   "qid": "Q484195",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Timur at Otrar",
+    "ko": "오트라르에서 티무르 사망",
+    "zh": "帖木儿死于讹答剌",
+    "ja": "ティムールがオトラルで死去"
+   },
+   "description": {
+    "en": "In February 1405 Timur died at Otrar on the Syr Darya, where he had stopped during a winter campaign against Ming China. His death ended the planned invasion, and his empire soon fell into succession struggles. Otrar itself, rebuilt after the Mongol conquest, remained an important town until its gradual decline in later centuries.",
+    "ko": "1405년 2월 티무르는 명나라를 치기 위한 겨울 원정 도중 머물던 시르다리야 강변의 오트라르에서 죽었다. 그의 죽음으로 계획된 침공은 중단되었고, 제국은 곧 계승 분쟁에 빠졌다. 몽골 정복 뒤 재건된 오트라르는 이후 수 세기에 걸쳐 서서히 쇠퇴할 때까지 중요한 도시로 남았다.",
+    "zh": "1405年2月，帖木儿在远征明朝的冬季行军途中，于锡尔河畔的讹答剌病逝。他的死使计划中的入侵中止，帝国很快陷入继承之争。讹答剌在蒙古征服后得到重建，此后一直是重要城镇，直到后来数百年间逐渐衰落。",
+    "ja": "1405年2月、ティムールは明への冬季遠征の途中に滞在していたシルダリヤ河畔のオトラルで没した。彼の死により計画された侵攻は中止され、帝国はまもなく継承争いに陥った。モンゴルの征服後に再建されたオトラルは、その後数世紀かけて次第に衰退するまで重要な町であり続けた。"
+   }
+  },
+  {
+   "year": 1428,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Abu'l-Khayr proclaimed khan",
+    "ko": "아불하이르의 칸 즉위",
+    "zh": "阿布海尔被拥立为汗",
+    "ja": "アブル・ハイルがハンに推戴される"
+   },
+   "description": {
+    "en": "In 1428 the young Shibanid prince Abu'l-Khayr was proclaimed khan by the nomadic tribes of western Siberia and the Tobol region. Over the following decades he united much of the eastern Dasht-i Kipchak, and in the 1440s (c.) he seized Sighnaq and other Syr Darya towns from the Timurids. His subjects, known as the Uzbeks, included many tribes that later became part of the Kazakh people.",
+    "ko": "1428년 시반 가문의 젊은 왕자 아불하이르는 서시베리아와 토볼 지역 유목 부족들에 의해 칸으로 추대되었다. 이후 수십 년 동안 그는 다슈티 킵차크 동부의 많은 지역을 통합했고, 1440년대 무렵 티무르 왕조로부터 시그나크 등 시르다리야 도시들을 빼앗았다. 우즈베크로 불린 그의 신민에는 훗날 카자흐 민족의 일부가 된 많은 부족이 포함되어 있었다.",
+    "zh": "1428年，昔班家族的年轻王子阿布海尔被西西伯利亚和托博尔河一带的游牧部落拥立为汗。此后数十年间，他统一了钦察草原东部的大片地区，并在1440年代前后从帖木儿王朝手中夺取了昔格纳黑等锡尔河诸城。他的属民被称为乌兹别克人，其中许多部落后来成为哈萨克民族的一部分。",
+    "ja": "1428年、シバン家の若い王子アブル・ハイルは、西シベリアとトボル地方の遊牧部族によってハンに推戴された。その後数十年のうちに彼はダシュティ・キプチャク東部の多くを統合し、1440年代頃にはティムール朝からスグナクなどシルダリヤ沿いの町々を奪った。ウズベクと呼ばれた彼の臣民には、のちにカザフ民族の一部となる多くの部族が含まれていた。"
+   }
+  },
+  {
+   "year": 1457,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Oirats defeat Abu'l-Khayr near Sighnaq",
+    "ko": "오이라트의 아불하이르 격파",
+    "zh": "卫拉特在昔格纳黑附近击败阿布海尔",
+    "ja": "オイラトがスグナク近郊でアブル・ハイルを破る"
+   },
+   "description": {
+    "en": "In 1457 (c.) an Oirat army under Uz-Temür invaded the Syr Darya region and inflicted a heavy defeat on Abu'l-Khayr near Sighnaq. The humiliation undermined the khan's authority among the tribes. Soon afterwards a group of his subjects led by the sultans Kerei and Janibek broke away and migrated east to Moghulistan.",
+    "ko": "1457년 무렵 우즈 테무르가 이끈 오이라트군이 시르다리야 지역을 침공해 시그나크 근처에서 아불하이르에게 큰 패배를 안겼다. 이 굴욕은 부족들 사이에서 칸의 권위를 무너뜨렸다. 곧이어 케레이와 자니벡 술탄이 이끄는 신민 일부가 이탈해 동쪽의 모굴리스탄으로 이주했다.",
+    "zh": "约1457年，兀思·帖木儿率领的卫拉特军队入侵锡尔河地区，在昔格纳黑附近重创阿布海尔。这次惨败动摇了他在各部落中的权威。不久，部分属民在克烈和贾尼别克两位苏丹带领下脱离，东迁至蒙兀儿斯坦。",
+    "ja": "1457年頃、ウズ・テムル率いるオイラト軍がシルダリヤ地方に侵入し、スグナク近郊でアブル・ハイルに大敗を喫させた。この屈辱は部族間でのハンの権威を揺るがした。まもなく、ケレイとジャニベクの両スルタンに率いられた臣民の一部が離反し、東のモグーリスタンへ移住した。"
+   }
+  },
+  {
+   "year": 1465,
+   "qid": "Q1433867",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Foundation of the Kazakh Khanate",
+    "ko": "카자흐 칸국 건국",
+    "zh": "哈萨克汗国建立",
+    "ja": "カザフ・ハン国の建国"
+   },
+   "description": {
+    "en": "Sultans Kerei and Janibek, descendants of Urus Khan, led their followers away from Abu'l-Khayr's realm to western Moghulistan, where Esen Buqa granted them pastures in the Chu and Talas valleys. According to the account of Mirza Haidar Dughlat, Kazakh rule began in the year corresponding to 1465–1466, the date now officially celebrated as the founding of Kazakh statehood. Those who left became known as the Kazakhs, a name usually interpreted as 'free wanderers'.",
+    "ko": "우루스 칸의 후손인 케레이와 자니벡 술탄은 추종자들을 이끌고 아불하이르의 영역을 떠나 모굴리스탄 서부로 갔으며, 에센 부카는 이들에게 추·탈라스 계곡의 목초지를 내주었다. 미르자 하이다르 두글라트의 기록에 따르면 카자흐의 통치는 1465~1466년에 해당하는 해에 시작되었고, 이 연대는 오늘날 카자흐 국가 성립의 기점으로 공식 기념된다. 떠나온 이들은 카자흐로 불리게 되었는데, 이 이름은 흔히 '자유로운 방랑자'로 풀이된다.",
+    "zh": "乌鲁斯汗的后裔克烈和贾尼别克两位苏丹率部众离开阿布海尔的领地，迁往蒙兀儿斯坦西部，也先不花将楚河和塔拉斯河谷的牧场分给他们。据米尔扎·海达尔·杜格拉特记载，哈萨克的统治始于相当于1465—1466年的那一年，这一年份如今被官方纪念为哈萨克国家的建立之年。这些出走者后来被称为哈萨克人，这一名称通常被解释为“自由的漫游者”。",
+    "ja": "オロス・ハンの子孫であるケレイとジャニベクの両スルタンは、配下を率いてアブル・ハイルの領域を離れモグーリスタン西部へ移り、エセン・ブカは彼らにチュイ・タラス渓谷の牧地を与えた。ミールザー・ハイダル・ドゥグラトの記録によれば、カザフの支配は1465～1466年にあたる年に始まり、この年は今日カザフ国家の建国として公式に記念されている。離脱した人々はカザフと呼ばれるようになり、この名は一般に「自由な放浪者」と解釈される。"
+   }
+  },
+  {
+   "year": 1468,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Abu'l-Khayr and Kazakh expansion",
+    "ko": "아불하이르의 죽음과 카자흐의 팽창",
+    "zh": "阿布海尔之死与哈萨克的扩张",
+    "ja": "アブル・ハイルの死とカザフの拡大"
+   },
+   "description": {
+    "en": "Abu'l-Khayr died in 1468 (c.) while preparing a campaign against the Kazakhs, and his khanate quickly disintegrated. Many of his former subjects joined Kerei and Janibek, and the Kazakhs expanded across the eastern Dasht-i Kipchak. For the next decades the Kazakh khans, especially Janibek's son Kasym and Kerei's son Burunduk, fought Abu'l-Khayr's grandson Muhammad Shaybani for the Syr Darya towns.",
+    "ko": "아불하이르는 1468년 무렵 카자흐 원정을 준비하던 중 죽었고, 그의 칸국은 빠르게 해체되었다. 옛 신민 다수가 케레이와 자니벡에게 합류했고, 카자흐는 다슈티 킵차크 동부 전역으로 세력을 넓혔다. 이후 수십 년 동안 카자흐의 칸들, 특히 자니벡의 아들 카심과 케레이의 아들 부룬두크는 시르다리야 도시들을 놓고 아불하이르의 손자 무함마드 샤이바니와 싸웠다.",
+    "zh": "约1468年，阿布海尔在准备征讨哈萨克人时去世，其汗国迅速瓦解。他的许多旧部投奔克烈和贾尼别克，哈萨克人的势力扩展到整个钦察草原东部。此后数十年，哈萨克诸汗，特别是贾尼别克之子哈斯木和克烈之子布伦杜克，与阿布海尔之孙穆罕默德·昔班尼争夺锡尔河诸城。",
+    "ja": "アブル・ハイルは1468年頃、カザフへの遠征を準備中に没し、そのハン国は急速に解体した。かつての臣民の多くがケレイとジャニベクのもとに加わり、カザフはダシュティ・キプチャク東部全域に勢力を広げた。その後数十年間、カザフのハンたち、とくにジャニベクの子カスムとケレイの子ブルンドゥクは、シルダリヤ沿いの町々をめぐってアブル・ハイルの孫ムハンマド・シャイバーニーと戦った。"
+   }
+  },
+  {
+   "year": 1511,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Kasym Khan and the height of the Kazakh Khanate",
+    "ko": "카심 칸과 카자흐 칸국의 전성기",
+    "zh": "哈斯木汗与哈萨克汗国的鼎盛",
+    "ja": "カスム・ハンとカザフ・ハン国の最盛期"
+   },
+   "description": {
+    "en": "Kasym Khan, son of Janibek, became the leading Kazakh ruler around 1511 (c.). He extended Kazakh power over most of the steppe from the Ural River to Zhetysu and secured key Syr Darya towns. His contemporary Mirza Haidar Dughlat wrote that he ruled over a million people; Kazakh tradition also attributes to him an early code of customary law.",
+    "ko": "자니벡의 아들 카심 칸은 1511년 무렵 카자흐의 대표적인 군주가 되었다. 그는 우랄강에서 제티수에 이르는 초원 대부분으로 카자흐의 세력을 넓히고 주요 시르다리야 도시들을 확보했다. 동시대인 미르자 하이다르 두글라트는 그가 백만 명을 다스렸다고 기록했으며, 카자흐 전승은 초기 관습법 법전을 그의 업적으로 돌린다.",
+    "zh": "贾尼别克之子哈斯木汗约在1511年成为哈萨克的主要君主。他将哈萨克的势力扩展到从乌拉尔河到七河地区的大部分草原，并控制了锡尔河的重要城镇。同时代的米尔扎·海达尔·杜格拉特写道，他统治着百万之众；哈萨克传统还将一部早期习惯法典归功于他。",
+    "ja": "ジャニベクの子カスム・ハンは1511年頃にカザフの主要な君主となった。彼はウラル川から七河地方に至る草原の大部分にカザフの勢力を広げ、シルダリヤ沿いの要衝の町を確保した。同時代のミールザー・ハイダル・ドゥグラトは彼が百万の民を治めたと記し、カザフの伝承は初期の慣習法典を彼の功績としている。"
+   }
+  },
+  {
+   "year": 1538,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Haqnazar Khan restores Kazakh unity",
+    "ko": "하크나자르 칸의 카자흐 재통합",
+    "zh": "哈克那扎尔汗重振哈萨克",
+    "ja": "ハックナザル・ハンがカザフを再統合"
+   },
+   "description": {
+    "en": "After a period of decline and defeats by the Moghuls and Nogais in the 1520s and 1530s, Haqnazar Khan, son of Kasym, became khan around 1538 (c.). During his long reign he reunited the Kazakh tribes, fought the Nogai Horde and the Siberian Khanate, and drew many Nogai clans into the Kazakh fold. He also began contacts with the Tsardom of Russia.",
+    "ko": "1520~1530년대 모굴과 노가이에게 패하며 쇠퇴하던 시기를 지나, 카심의 아들 하크나자르가 1538년 무렵 칸이 되었다. 오랜 치세 동안 그는 카자흐 부족들을 재통합하고 노가이 오르다와 시비르 칸국과 싸웠으며, 많은 노가이 씨족을 카자흐로 끌어들였다. 그는 러시아 차르국과의 접촉도 시작했다.",
+    "zh": "在1520至1530年代屡败于蒙兀儿和诺盖而陷入衰落之后，哈斯木之子哈克那扎尔约在1538年成为汗。在他漫长的统治期间，他重新统一了哈萨克各部，与诺盖汗国和西伯利亚汗国作战，并将许多诺盖氏族纳入哈萨克。他还开始与俄罗斯沙皇国接触。",
+    "ja": "1520～1530年代にモグールやノガイに敗れて衰退した時期を経て、カスムの子ハックナザルが1538年頃にハンとなった。長い治世のうちに彼はカザフの諸部族を再統合し、ノガイ・オルダやシビル・ハン国と戦い、多くのノガイの氏族をカザフに取り込んだ。彼はロシア・ツァーリ国との接触も始めた。"
+   }
+  },
+  {
+   "year": 1582,
+   "qid": "Q190513",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fall of the Siberian Khanate",
+    "ko": "시비르 칸국의 몰락",
+    "zh": "西伯利亚汗国的覆灭",
+    "ja": "シビル・ハン国の滅亡"
+   },
+   "description": {
+    "en": "In 1582 Cossacks led by Yermak, financed by the Stroganov merchants, captured Qashliq, capital of the Siberian Khanate of Khan Kuchum, whose realm extended into the forest-steppe of what is now northern Kazakhstan. Kuchum resisted from the steppe until the 1590s. The conquest of Sibir brought the Russian state to the northern edge of the Kazakh lands.",
+    "ko": "1582년 스트로가노프 상인 가문의 후원을 받은 예르마크의 코사크는 쿠춤 칸이 다스리던 시비르 칸국의 수도 이스케르(카실리크)를 점령했다. 이 칸국의 영역은 오늘날 카자흐스탄 북부의 삼림 초원까지 뻗어 있었다. 쿠춤은 1590년대까지 초원에서 저항했다. 시비르의 정복으로 러시아는 카자흐 땅의 북쪽 끝에 이르렀다.",
+    "zh": "1582年，由斯特罗加诺夫商人资助的叶尔马克哥萨克攻占了库楚姆汗统治的西伯利亚汗国都城卡什雷克（伊斯克尔），该汗国的疆域延伸到今哈萨克斯坦北部的森林草原。库楚姆在草原上坚持抵抗到1590年代。征服西伯利亚汗国使俄国势力抵达哈萨克土地的北缘。",
+    "ja": "1582年、ストロガノフ商人家の資金援助を受けたイェルマーク率いるコサックは、クチュム・ハンが治めるシビル・ハン国の都カシュリク（イスケル）を占領した。この国の領域は今日のカザフスタン北部の森林草原にまで及んでいた。クチュムは1590年代まで草原で抵抗を続けた。シビルの征服により、ロシアはカザフの地の北端に達した。"
+   }
+  },
+  {
+   "year": 1598,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Tauekel Khan takes Tashkent",
+    "ko": "타우에켈 칸의 타슈켄트 점령",
+    "zh": "陶克勒汗夺取塔什干",
+    "ja": "タウケル・ハンがタシケントを奪取"
+   },
+   "description": {
+    "en": "In 1598 Tauekel Khan exploited the weakness of the Bukhara khanate after the death of Abdullah Khan II, capturing Tashkent and advancing as far as Samarkand and Bukhara before being wounded and dying. Although the attack on Bukhara failed, Tashkent and the Syr Darya towns remained under Kazakh rule for much of the 17th century. Turkestan became the main political centre of the Kazakh khans.",
+    "ko": "1598년 타우에켈 칸은 압둘라 칸 2세 사후 약해진 부하라 칸국의 틈을 타 타슈켄트를 점령하고 사마르칸트와 부하라까지 진격했으나 부상을 입고 죽었다. 부하라 공격은 실패했지만 타슈켄트와 시르다리야 도시들은 17세기 대부분 동안 카자흐의 지배 아래 남았다. 투르키스탄은 카자흐 칸들의 주요 정치 중심지가 되었다.",
+    "zh": "1598年，陶克勒汗趁阿卜杜拉汗二世死后布哈拉汗国衰弱之机，攻占塔什干，一直推进到撒马尔罕和布哈拉，后负伤身亡。虽然对布哈拉的进攻失败了，但塔什干和锡尔河诸城在17世纪的大部分时间里仍归哈萨克统治。突厥斯坦成为哈萨克诸汗的主要政治中心。",
+    "ja": "1598年、タウケル・ハンはアブドゥッラー・ハン2世の死後に弱体化したブハラ・ハン国の隙を突いてタシケントを占領し、サマルカンドやブハラにまで進んだが、負傷して没した。ブハラ攻撃は失敗したものの、タシケントとシルダリヤ沿いの町々は17世紀の大半にわたってカザフの支配下にとどまった。トルキスタンはカザフのハンたちの主要な政治中心となった。"
+   }
+  },
+  {
+   "year": 1635,
+   "qid": "Q1923401",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Dzungar Khanate",
+    "ko": "준가르 칸국의 등장",
+    "zh": "准噶尔汗国兴起",
+    "ja": "ジュンガル・ハン国の興起"
+   },
+   "description": {
+    "en": "Around 1635 (c.) the Oirat leader Erdeni Batur united the western Mongol tribes in Dzungaria and founded the Dzungar Khanate on the eastern borders of the Kazakh lands. The Dzungars soon began a long series of wars with the Kazakhs over the pastures of Zhetysu and the Syr Darya. For more than a century they would be the most dangerous enemy of the Kazakh Khanate.",
+    "ko": "1635년 무렵 오이라트의 지도자 에르데니 바투르는 준가리아의 서몽골 부족들을 통합해 카자흐 땅의 동쪽 경계에 준가르 칸국을 세웠다. 준가르는 곧 제티수와 시르다리야의 목초지를 둘러싸고 카자흐와 오랜 전쟁을 시작했다. 이후 한 세기 넘게 준가르는 카자흐 칸국의 가장 위험한 적이었다.",
+    "zh": "约1635年，卫拉特首领额尔德尼·巴图尔统一准噶尔地区的西蒙古各部，在哈萨克土地的东部边境建立准噶尔汗国。准噶尔人很快为争夺七河和锡尔河的牧场与哈萨克人展开了长期战争。此后一个多世纪，准噶尔一直是哈萨克汗国最危险的敌人。",
+    "ja": "1635年頃、オイラトの指導者エルデニ・バートルはジュンガリアの西モンゴル諸部族を統合し、カザフの地の東の境にジュンガル・ハン国を建てた。ジュンガルはまもなく七河地方とシルダリヤの牧地をめぐってカザフと長い戦争を始めた。その後1世紀以上にわたり、ジュンガルはカザフ・ハン国の最も危険な敵であった。"
+   }
+  },
+  {
+   "year": 1643,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Orbulaq",
+    "ko": "오르불라크 전투",
+    "zh": "奥尔布拉克之战",
+    "ja": "オルブラクの戦い"
+   },
+   "description": {
+    "en": "In 1643, according to Kazakh tradition and Russian reports, Jangir Khan with a small force fortified a mountain pass at Orbulaq in Zhetysu and held off a much larger Dzungar army under Erdeni Batur until reinforcements under Yalangtösh Bahadur arrived. The battle halted the Dzungar advance for a time. It is celebrated in Kazakhstan as a symbol of heroic resistance, though details of the forces involved vary between sources.",
+    "ko": "1643년 카자흐 전승과 러시아 측 보고에 따르면 자항기르 칸은 소수의 병력으로 제티수의 오르불라크 산길에 진지를 쌓고, 얄란토시 바하두르의 원군이 올 때까지 에르데니 바투르가 이끄는 훨씬 큰 준가르군을 막아 냈다. 이 전투로 준가르의 진격은 한동안 멈추었다. 동원된 병력에 관한 세부 내용은 사료마다 다르지만, 카자흐스탄에서는 영웅적 저항의 상징으로 기려진다.",
+    "zh": "据哈萨克传统和俄国方面的报告，1643年，杰汗吉尔汗率少量兵力在七河地区的奥尔布拉克山口筑垒，抵挡额尔德尼·巴图尔率领的规模大得多的准噶尔军队，直至亚兰托什·巴哈杜尔的援军赶到。此战使准噶尔的攻势暂时受阻。尽管各史料关于双方兵力的细节说法不一，该战役在哈萨克斯坦被视为英勇抵抗的象征。",
+    "ja": "カザフの伝承とロシア側の報告によれば、1643年、ジャハンギル・ハンは少数の兵で七河地方のオルブラクの山道に陣を築き、ヤラントシュ・バハドゥルの援軍が到着するまで、エルデニ・バートル率いるはるかに大きなジュンガル軍を食い止めた。この戦いでジュンガルの進撃は一時止まった。双方の兵力の詳細は史料によって異なるが、カザフスタンでは英雄的抵抗の象徴として称えられている。"
+   }
+  },
+  {
+   "year": 1680,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Tauke Khan and the 'Seven Codes'",
+    "ko": "타우케 칸과 '7법전'",
+    "zh": "头克汗与《七法典》",
+    "ja": "タウケ・ハンと「七法典」"
+   },
+   "description": {
+    "en": "Tauke Khan, who ruled from around 1680 (c.), is remembered as a unifier who governed with the advice of the three great biys — Tole bi, Kazybek bi and Aiteke bi — representing the three zhuzes. Tradition attributes to his reign the Zheti Zhargy ('Seven Codes'), a compilation of Kazakh customary law covering land, family, crime and blood-price. No original text survives, and its content is known from later records of customary law.",
+    "ko": "1680년 무렵부터 다스린 타우케 칸은 세 주즈를 대표하는 세 명의 대비이, 즉 퇼레 비이·카즈베크 비이·아이테케 비이의 조언을 받아 통치한 통합자로 기억된다. 전승은 토지·가족·범죄·속죄금 등을 다룬 카자흐 관습법 모음인 '제티 자르기(7법전)'를 그의 치세의 업적으로 돌린다. 원문은 전하지 않으며, 그 내용은 후대의 관습법 기록을 통해 알려져 있다.",
+    "zh": "约自1680年起在位的头克汗被视为一位统一者，他依靠分别代表三个玉兹的三位大比——托列比、哈孜别克比和艾特克比——的建议进行统治。传统认为他在位期间编成了《七法典》（Zheti Zhargy），这是一部涉及土地、家庭、刑事和命价的哈萨克习惯法汇编。原文没有留存，其内容是通过后世的习惯法记录得知的。",
+    "ja": "1680年頃から統治したタウケ・ハンは、三つのジュズを代表する三人の大ビー、トレ・ビー、カズベク・ビー、アイテケ・ビーの助言を得て治めた統合者として記憶されている。伝承は、土地・家族・犯罪・贖罪金などを扱うカザフ慣習法の集成「ジェティ・ジャルグ（七法典）」を彼の治世の業績とする。原文は残っておらず、その内容は後世の慣習法の記録を通じて知られている。"
+   }
+  },
+  {
+   "year": 1716,
+   "qid": "Q138529396",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siege of Yamyshev",
+    "ko": "야미셰보 포위전",
+    "zh": "亚梅舍沃之围",
+    "ja": "ヤムイシェヴォの包囲"
+   },
+   "description": {
+    "en": "In 1716 a Russian expedition under Ivan Bukholts, sent by Peter the Great up the Irtysh in search of gold, built a fort at Lake Yamysh in today's Pavlodar Region. Dzungar forces besieged it for months, and after heavy losses from hunger and disease the Russians abandoned the fort and withdrew downstream, founding Omsk on the way back. The episode marked the beginning of Russia's line of forts along the Irtysh.",
+    "ko": "1716년 표트르 대제가 금을 찾아 이르티시강 상류로 보낸 이반 부흐골츠의 러시아 원정대는 오늘날 파블로다르주의 야미시 호수에 요새를 세웠다. 준가르군은 이곳을 몇 달 동안 포위했고, 굶주림과 질병으로 큰 손실을 입은 러시아군은 요새를 버리고 하류로 물러나면서 옴스크를 세웠다. 이 사건은 이르티시강을 따라 늘어선 러시아 요새선의 시작이 되었다.",
+    "zh": "1716年，彼得大帝为寻找黄金派伊万·布赫戈尔茨率俄国远征队沿额尔齐斯河上溯，在今巴甫洛达尔州的亚梅什湖畔修筑要塞。准噶尔军队围困要塞数月，俄军因饥饿和疾病损失惨重，只得弃垒顺流撤退，并在归途中建立了鄂木斯克。这一事件标志着俄国沿额尔齐斯河修筑要塞线的开端。",
+    "ja": "1716年、ピョートル大帝が金を求めてイルティシ川上流へ送ったイワン・ブフゴリツのロシア遠征隊は、今日のパヴロダル州のヤムイシュ湖畔に砦を築いた。ジュンガル軍は数か月にわたってこれを包囲し、飢えと病気で大きな損害を出したロシア軍は砦を放棄して下流へ退き、その途中でオムスクを建設した。この出来事はイルティシ川沿いのロシアの要塞線の始まりとなった。"
+   }
+  },
+  {
+   "year": 1718,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Semipalatinsk and the Irtysh line",
+    "ko": "세미팔라틴스크 건설과 이르티시 요새선",
+    "zh": "塞米巴拉金斯克建城与额尔齐斯要塞线",
+    "ja": "セミパラチンスク建設とイルティシ要塞線"
+   },
+   "description": {
+    "en": "In 1718 the Russians founded the fortress of Semipalatinsk (today Semey) on the Irtysh, followed by Ust-Kamenogorsk (Oskemen) in 1720. Together with other posts these forts formed the Irtysh line, which pushed Russian power southward along the river into lands contested with the Dzungars. Many of these forts later grew into the main cities of northern and eastern Kazakhstan.",
+    "ko": "1718년 러시아는 이르티시 강변에 세미팔라틴스크(오늘날 세메이) 요새를 세웠고, 1720년에는 우스티카메노고르스크(외스케멘)를 세웠다. 이 요새들은 다른 초소들과 함께 이르티시 요새선을 이루어 준가르와 다투던 땅으로 강을 따라 러시아 세력을 남쪽으로 밀고 내려갔다. 이 요새들 가운데 다수는 훗날 카자흐스탄 북부와 동부의 주요 도시로 성장했다.",
+    "zh": "1718年，俄国人在额尔齐斯河畔建立塞米巴拉金斯克要塞（今塞梅伊），1720年又建立乌斯季卡缅诺戈尔斯克（厄斯克门）。这些要塞与其他哨所共同构成额尔齐斯要塞线，使俄国势力沿河向南推进到与准噶尔争夺的土地。其中许多要塞后来发展为哈萨克斯坦北部和东部的主要城市。",
+    "ja": "1718年、ロシアはイルティシ河畔にセミパラチンスク（現在のセメイ）要塞を築き、1720年にはウスチ・カメノゴルスク（オスケメン）を建てた。これらの要塞は他の拠点とともにイルティシ要塞線をなし、ジュンガルと争う土地へ川沿いにロシアの勢力を南へ押し進めた。これらの要塞の多くは、のちにカザフスタン北部・東部の主要都市へと成長した。"
+   }
+  },
+  {
+   "year": 1723,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "The 'Great Disaster': Dzungar invasion",
+    "ko": "'대재난' — 준가르의 침공",
+    "zh": "“大灾难”——准噶尔入侵",
+    "ja": "「大災厄」――ジュンガルの侵攻"
+   },
+   "description": {
+    "en": "In 1723 a massive Dzungar invasion struck the Kazakhs, capturing Turkestan, Sayram and Tashkent and driving the Kazakh zhuzes from their pastures in Zhetysu and the Syr Darya. Thousands died or were enslaved, and refugees fled west and north toward the Aral Sea, Khiva and Bukhara. Remembered as Aktaban Shubyryndy ('the Years of Great Distress'), it was immortalised in the lament 'Elim-ai' and pushed the Kazakhs toward Russia.",
+    "ko": "1723년 준가르의 대규모 침공이 카자흐를 덮쳐 투르키스탄·사이람·타슈켄트를 점령하고 카자흐 주즈들을 제티수와 시르다리야의 목초지에서 몰아냈다. 수많은 사람이 죽거나 노예가 되었고, 피란민은 서쪽과 북쪽의 아랄해·히바·부하라 방면으로 달아났다. '악타반 슈부른드(맨발로 도망친 대재난의 해)'로 기억되는 이 사건은 애가 '엘림아이'로 전해지며, 카자흐를 러시아 쪽으로 기울게 했다.",
+    "zh": "1723年，准噶尔大举入侵哈萨克，攻占突厥斯坦、赛兰和塔什干，把哈萨克各玉兹逐出七河和锡尔河的牧场。成千上万的人死亡或沦为奴隶，难民向西、向北逃往咸海、希瓦和布哈拉一带。这一事件被称为“阿克塔班·舒布倫德”（“赤脚逃难的大灾年”），流传于哀歌《我的人民》（Elim-ai）之中，并促使哈萨克人倒向俄国。",
+    "ja": "1723年、ジュンガルの大規模な侵攻がカザフを襲い、トルキスタン、サイラム、タシケントを占領して、カザフの諸ジュズを七河地方とシルダリヤの牧地から追い出した。多くの人々が殺されたり奴隷にされたりし、難民は西や北のアラル海、ヒヴァ、ブハラ方面へ逃れた。「アクタバン・シュブルンドゥ（裸足で逃げた大災厄の年）」として記憶され、哀歌「エリマイ」に歌われたこの出来事は、カザフをロシアへ傾かせた。"
+   }
+  },
+  {
+   "year": 1729,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Anyrakay",
+    "ko": "아느라카이 전투",
+    "zh": "阿内拉凯之战",
+    "ja": "アヌラカイの戦い"
+   },
+   "description": {
+    "en": "Around 1729–1730 (c.) the combined forces of the three Kazakh zhuzes, led by Abulkhair Khan and commanders such as Bogenbai and Kabanbai batyrs, won a major victory over the Dzungars in the Anyrakay mountains south of Lake Balkhash. Together with the earlier victory at Bulanty, it showed what united Kazakh action could achieve. But rivalries among the khans soon broke the alliance apart.",
+    "ko": "1729~1730년 무렵 아불하이르 칸과 보겐바이·카반바이 같은 바티르(용사)들이 이끈 세 주즈의 연합군은 발하시호 남쪽 아느라카이 산지에서 준가르에게 큰 승리를 거두었다. 앞서의 불란트 전투 승리와 함께, 이는 카자흐가 단결하면 무엇을 이룰 수 있는지 보여 주었다. 그러나 칸들 사이의 경쟁으로 연합은 곧 깨졌다.",
+    "zh": "约1729至1730年，阿布勒海尔汗与波根拜、卡班拜等巴图尔（勇士）率领的三玉兹联军在巴尔喀什湖以南的阿内拉凯山区大败准噶尔。连同此前的布兰特之战胜利，此役显示了哈萨克团结一致所能取得的成就。但诸汗之间的争斗很快使联盟瓦解。",
+    "ja": "1729～1730年頃、アブルハイル・ハンとボゲンバイやカバンバイらバトゥル（勇士）に率いられた三ジュズの連合軍は、バルハシ湖南方のアヌラカイ山地でジュンガルに大勝した。先のブランティでの勝利とともに、これはカザフが団結すれば何を成し遂げられるかを示した。しかしハンたちの対立により、連合はまもなく崩れた。"
+   }
+  },
+  {
+   "year": 1731,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Kazakh lands enter the Russian orbit",
+    "ko": "러시아 세력권 편입 시작",
+    "zh": "哈萨克草原开始并入俄国",
+    "ja": "ロシア勢力圏への編入が始まる"
+   },
+   "description": {
+    "en": "Seeking support against the Dzungars and his rivals, Abulkhair Khan of the Junior Zhuz requested Russian protection, and in 1731 he swore allegiance to Empress Anna before the Russian envoy Alexei Tevkelev. Many Kazakh notables opposed the step, and the oath was at first largely a diplomatic alliance. It nonetheless began the gradual absorption of the Kazakh steppe into the Russian Empire, completed in the 1860s.",
+    "ko": "준가르와 경쟁자들에 맞설 지원을 구하던 소주즈의 아불하이르 칸은 러시아의 보호를 요청했고, 1731년 러시아 사절 알렉세이 테브켈레프 앞에서 안나 여제에게 충성을 맹세했다. 많은 카자흐 유력자가 이에 반대했고, 서약은 처음에는 주로 외교적 동맹의 성격을 띠었다. 그럼에도 이는 1860년대에 완료되는 러시아 제국의 카자흐 초원 병합의 출발점이 되었다.",
+    "zh": "为了寻求对抗准噶尔和竞争对手的支持，小玉兹的阿布勒海尔汗请求俄国保护，1731年他在俄国使节阿列克谢·捷夫克列夫面前向安娜女皇宣誓效忠。许多哈萨克显贵反对此举，起初这一誓约在很大程度上只是外交上的结盟。但它开启了俄罗斯帝国逐步吞并哈萨克草原的进程，这一进程在1860年代完成。",
+    "ja": "ジュンガルや対立者に対抗する支援を求めた小ジュズのアブルハイル・ハンはロシアの保護を要請し、1731年、ロシアの使節アレクセイ・テフケレフの前で女帝アンナに忠誠を誓った。多くのカザフの有力者はこれに反対し、誓約は当初、主に外交的な同盟の性格をもっていた。それでもこれは、1860年代に完了するロシア帝国によるカザフ草原併合の出発点となった。"
+   }
+  },
+  {
+   "year": 1740,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Middle Zhuz leaders take the Russian oath",
+    "ko": "중주즈 지도자들의 러시아 서약",
+    "zh": "中玉兹首领向俄国宣誓",
+    "ja": "中ジュズの指導者がロシアに誓約"
+   },
+   "description": {
+    "en": "In 1740 Abilmambet Khan and Sultan Ablai of the Middle Zhuz took an oath of allegiance to Russia at Orenburg. Like the Junior Zhuz's earlier oath, it was intended mainly to secure protection against the Dzungars. Ablai in particular continued to pursue an independent policy, balancing between Russia, the Dzungars and later Qing China.",
+    "ko": "1740년 중주즈의 아빌맘베트 칸과 아블라이 술탄은 오렌부르크에서 러시아에 충성을 맹세했다. 앞선 소주즈의 서약과 마찬가지로 이는 주로 준가르에 맞설 보호를 얻으려는 것이었다. 특히 아블라이는 러시아와 준가르, 이후에는 청나라 사이에서 균형을 잡으며 독자적인 정책을 이어 갔다.",
+    "zh": "1740年，中玉兹的阿布勒班必特汗和阿布赉苏丹在奥伦堡向俄国宣誓效忠。与此前小玉兹的宣誓一样，这主要是为了获得对抗准噶尔的保护。阿布赉尤其继续奉行独立的政策，在俄国、准噶尔以及后来的清朝之间纵横捭阖。",
+    "ja": "1740年、中ジュズのアビルマンベト・ハンとアブライ・スルタンはオレンブルクでロシアへの忠誠を誓った。先の小ジュズの誓約と同様、これは主にジュンガルに対する保護を得るためのものだった。とくにアブライは、ロシア、ジュンガル、のちには清の間で均衡をとりながら独自の政策を続けた。"
+   }
+  },
+  {
+   "year": 1757,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Qing destroys the Dzungar Khanate",
+    "ko": "청나라의 준가르 칸국 멸망",
+    "zh": "清朝灭亡准噶尔汗国",
+    "ja": "清がジュンガル・ハン国を滅ぼす"
+   },
+   "description": {
+    "en": "Between 1755 and 1758 Qing armies conquered the Dzungar Khanate, and war, epidemics and massacres destroyed most of the Dzungar population. The Kazakhs reoccupied their eastern pastures in Zhetysu and along the Irtysh. Ablai sent envoys to the Qing court from 1757 and maintained tributary relations with both Beijing and St Petersburg.",
+    "ko": "1755년부터 1758년 사이 청나라 군대는 준가르 칸국을 정복했고, 전쟁과 전염병, 학살로 준가르 인구 대부분이 사라졌다. 카자흐는 제티수와 이르티시 연안의 동부 목초지를 되찾았다. 아블라이는 1757년부터 청 조정에 사절을 보냈고, 베이징과 상트페테르부르크 양쪽과 조공 관계를 유지했다.",
+    "zh": "1755年至1758年间，清军征服准噶尔汗国，战争、瘟疫和屠杀使准噶尔人口大部分消亡。哈萨克人重新占据了七河地区和额尔齐斯河沿岸的东部牧场。阿布赉自1757年起向清廷遣使，同时与北京和圣彼得堡保持朝贡关系。",
+    "ja": "1755年から1758年にかけて清軍はジュンガル・ハン国を征服し、戦争、疫病、虐殺によってジュンガルの人口の大半が失われた。カザフは七河地方とイルティシ川沿いの東部の牧地を取り戻した。アブライは1757年から清の朝廷に使節を送り、北京とサンクトペテルブルクの双方と朝貢関係を保った。"
+   }
+  },
+  {
+   "year": 1771,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ablai proclaimed khan",
+    "ko": "아블라이의 칸 즉위",
+    "zh": "阿布赉被拥立为汗",
+    "ja": "アブライがハンに推戴される"
+   },
+   "description": {
+    "en": "In 1771, after the death of Abilmambet, Ablai was raised on a white felt as khan in Turkestan and is regarded in Kazakh tradition as khan of all three zhuzes. A skilled warrior and diplomat, he had led the struggle against the Dzungars and worked to keep the Kazakhs independent between the Russian and Qing empires. Russia recognised him only as khan of the Middle Zhuz, and after his death in 1781 central authority weakened.",
+    "ko": "1771년 아빌맘베트가 죽은 뒤 아블라이는 투르키스탄에서 흰 펠트 위에 올려져 칸으로 추대되었고, 카자흐 전승에서는 세 주즈 전체의 칸으로 여겨진다. 뛰어난 전사이자 외교가였던 그는 준가르와의 싸움을 이끌었고 러시아와 청 두 제국 사이에서 카자흐의 독립을 지키려 애썼다. 러시아는 그를 중주즈의 칸으로만 인정했으며, 1781년 그가 죽은 뒤 중앙 권력은 약해졌다.",
+    "zh": "1771年阿布勒班必特去世后，阿布赉在突厥斯坦被众人以白毡抬举为汗，哈萨克传统视他为三玉兹共同的汗。他是骁勇的战士和高明的外交家，曾领导抗击准噶尔的斗争，并努力在俄、清两大帝国之间保持哈萨克的独立。俄国只承认他为中玉兹的汗；1781年他去世后，中央权威逐渐削弱。",
+    "ja": "1771年、アビルマンベトの死後、アブライはトルキスタンで白いフェルトの上に担がれてハンに推戴され、カザフの伝承では三ジュズすべてのハンとみなされている。優れた戦士で外交家でもあった彼はジュンガルとの戦いを率い、ロシアと清の両帝国の間でカザフの独立を保とうと努めた。ロシアは彼を中ジュズのハンとしてのみ認め、1781年の彼の死後、中央の権威は弱まった。"
+   }
+  },
+  {
+   "year": 1783,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Revolt of Syrym Datuly",
+    "ko": "스름 다툴르의 봉기",
+    "zh": "瑟仁·达图勒起义",
+    "ja": "スルム・ダトゥルの反乱"
+   },
+   "description": {
+    "en": "In 1783 Syrym Datuly, a batyr of the Junior Zhuz, began a revolt against the Russian frontier authorities and the khans who cooperated with them, provoked by the loss of pastures along the Ural River and by Cossack raids. The uprising continued intermittently until 1797. It was the first large Kazakh rising directed against Russian colonial pressure.",
+    "ko": "1783년 소주즈의 바티르 스름 다툴르는 우랄강 연안 목초지의 상실과 코사크의 습격에 맞서, 러시아 변경 당국과 이에 협력하는 칸들을 상대로 봉기를 일으켰다. 봉기는 간헐적으로 1797년까지 이어졌다. 이는 러시아의 식민 압력에 맞선 최초의 대규모 카자흐 봉기였다.",
+    "zh": "1783年，小玉兹的巴图尔瑟仁·达图勒因乌拉尔河沿岸牧场的丧失和哥萨克的袭扰，起兵反抗俄国边境当局及与之合作的汗。起义断断续续持续到1797年。这是哈萨克人第一次反抗俄国殖民压力的大规模起义。",
+    "ja": "1783年、小ジュズのバトゥル、スルム・ダトゥルは、ウラル川沿いの牧地の喪失とコサックの襲撃に反発し、ロシアの辺境当局とそれに協力するハンたちに対して反乱を起こした。反乱は断続的に1797年まで続いた。これはロシアの植民地的圧力に対する最初の大規模なカザフの蜂起だった。"
+   }
+  },
+  {
+   "year": 1801,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Creation of the Bukey Horde",
+    "ko": "부케이 오르다의 성립",
+    "zh": "布克依汗国的建立",
+    "ja": "ブケイ・オルダの成立"
+   },
+   "description": {
+    "en": "In 1801 the Russian government allowed Sultan Bukey and several thousand Junior Zhuz families to settle in the steppe between the Volga and Ural rivers, vacated after the Kalmyk exodus of 1771. The resulting Inner or Bukey Horde had its own khans under Russian supervision. Land grants to the khan and his allies later caused deep resentment among ordinary herders.",
+    "ko": "1801년 러시아 정부는 부케이 술탄과 소주즈의 수천 가구가 1771년 칼미크의 대탈출로 비게 된 볼가강과 우랄강 사이 초원에 정착하도록 허락했다. 이렇게 생긴 내(內) 오르다, 즉 부케이 오르다는 러시아의 감독 아래 자체 칸을 두었다. 칸과 그 측근에게 토지를 분배한 일은 훗날 일반 목축민들의 깊은 반감을 샀다.",
+    "zh": "1801年，俄国政府准许布克依苏丹和数千户小玉兹家庭迁入伏尔加河与乌拉尔河之间的草原，那里在1771年卡尔梅克人东归后空了出来。由此形成的内帐汗国（布克依汗国）在俄国监督下拥有自己的汗。汗及其亲信获得土地分配，后来引起普通牧民的强烈不满。",
+    "ja": "1801年、ロシア政府はブケイ・スルタンと小ジュズの数千家族が、1771年のカルムイクの大脱出で空いたヴォルガ川とウラル川の間の草原に移住することを認めた。こうして生まれた内オルダ（ブケイ・オルダ）は、ロシアの監督のもとで独自のハンをもった。ハンとその側近への土地分与は、のちに一般の牧民の強い反感を招いた。"
+   }
+  },
+  {
+   "year": 1822,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Russia abolishes the khanship",
+    "ko": "러시아의 칸 제도 폐지",
+    "zh": "俄国废除汗位",
+    "ja": "ロシアがハン位を廃止"
+   },
+   "description": {
+    "en": "In 1822 the Russian 'Statute on the Siberian Kirghiz', drafted under Mikhail Speransky, abolished the office of khan in the Middle Zhuz and divided its lands into districts run by sultans under Russian control. The khanship of the Junior Zhuz was abolished in 1824. These reforms ended the political institutions of the Kazakh Khanate and turned the steppe into an administered colonial territory.",
+    "ko": "1822년 미하일 스페란스키의 주도로 만들어진 러시아의 '시베리아 키르기스 규정'은 중주즈의 칸 직위를 폐지하고, 그 땅을 러시아의 통제를 받는 술탄들이 다스리는 관구로 나누었다. 소주즈의 칸 제도는 1824년에 폐지되었다. 이 개혁으로 카자흐 칸국의 정치 제도는 끝났고, 초원은 행정적으로 관리되는 식민지 영토가 되었다.",
+    "zh": "1822年，在米哈伊尔·斯佩兰斯基主持下制定的俄国《西伯利亚吉尔吉斯条例》废除了中玉兹的汗位，将其土地划分为由受俄国控制的苏丹管理的区。小玉兹的汗位于1824年被废除。这些改革终结了哈萨克汗国的政治制度，使草原变成了受行政管辖的殖民领土。",
+    "ja": "1822年、ミハイル・スペランスキーのもとで起草されたロシアの「シベリア・キルギス規約」は中ジュズのハン職を廃止し、その土地をロシアの統制下にあるスルタンが治める管区に分けた。小ジュズのハン位は1824年に廃止された。これらの改革によりカザフ・ハン国の政治制度は終わり、草原は行政的に管理される植民地領土となった。"
+   }
+  },
+  {
+   "year": 1836,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Revolt of Isatai and Makhambet",
+    "ko": "이사타이와 마함베트의 봉기",
+    "zh": "伊萨泰与马哈姆别特起义",
+    "ja": "イサタイとマハンベトの反乱"
+   },
+   "description": {
+    "en": "In 1836 Isatai Taimanuly and the poet Makhambet Utemisuly led a rising of herders in the Bukey Horde against Khan Zhangir and the loss of pastures to the khan's favourites and Russian interests. The rebellion was crushed by Russian troops in 1838, and Isatai was killed. Makhambet's fiery poems of resistance became classics of Kazakh literature.",
+    "ko": "1836년 이사타이 타이마눌르와 시인 마함베트 우테미술르는 부케이 오르다에서 자항기르 칸과, 칸의 측근 및 러시아 측의 이해관계로 목초지를 빼앗긴 데 맞서 목축민 봉기를 이끌었다. 봉기는 1838년 러시아군에 진압되었고 이사타이는 전사했다. 저항을 노래한 마함베트의 격정적인 시는 카자흐 문학의 고전이 되었다.",
+    "zh": "1836年，伊萨泰·泰马努勒和诗人马哈姆别特·乌捷米苏勒在布克依汗国领导牧民起义，反抗杰汗吉尔汗以及牧场被汗的亲信和俄国势力侵占。1838年起义被俄军镇压，伊萨泰战死。马哈姆别特充满激情的反抗诗篇成为哈萨克文学的经典。",
+    "ja": "1836年、イサタイ・タイマヌルと詩人マハンベト・ウテミスルは、ブケイ・オルダでジャンギル・ハンと、ハンの側近やロシア側の利害による牧地の喪失に反対して牧民の反乱を率いた。反乱は1838年にロシア軍によって鎮圧され、イサタイは戦死した。抵抗を歌ったマハンベトの激しい詩はカザフ文学の古典となった。"
+   }
+  },
+  {
+   "year": 1837,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Kenesary Kasymov's uprising begins",
+    "ko": "케네사리 카시모프의 봉기 시작",
+    "zh": "克涅萨热·卡瑟莫夫起义爆发",
+    "ja": "ケネサル・カスモフの反乱始まる"
+   },
+   "description": {
+    "en": "In 1837 Kenesary Kasymov, a grandson of Ablai Khan, launched an uprising against Russian rule in the Middle Zhuz, aiming to restore an independent Kazakh khanate. In 1841 he was proclaimed khan by his supporters and built a state with its own administration, taxes and army. His forces attacked Russian forts and fought the Kokand khanate in the south.",
+    "ko": "1837년 아블라이 칸의 손자 케네사리 카시모프는 독립적인 카자흐 칸국의 회복을 목표로 중주즈에서 러시아의 지배에 맞서 봉기했다. 1841년 그는 지지자들에 의해 칸으로 추대되어 자체 행정과 세금, 군대를 갖춘 국가를 세웠다. 그의 군대는 러시아 요새들을 공격하고 남쪽에서는 코칸트 칸국과 싸웠다.",
+    "zh": "1837年，阿布赉汗之孙克涅萨热·卡瑟莫夫在中玉兹发动反抗俄国统治的起义，旨在恢复独立的哈萨克汗国。1841年他被支持者拥立为汗，建立了拥有自己的行政、税收和军队的政权。他的部队进攻俄国要塞，并在南方与浩罕汗国作战。",
+    "ja": "1837年、アブライ・ハンの孫ケネサル・カスモフは、独立したカザフ・ハン国の復興を目指して中ジュズでロシアの支配に対する反乱を起こした。1841年に彼は支持者によってハンに推戴され、独自の行政・税・軍隊をもつ国家を築いた。彼の軍はロシアの要塞を攻撃し、南ではコーカンド・ハン国と戦った。"
+   }
+  },
+  {
+   "year": 1847,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Kenesary, the last khan",
+    "ko": "마지막 칸 케네사리의 최후",
+    "zh": "末代可汗克涅萨热的败亡",
+    "ja": "最後のハン、ケネサルの最期"
+   },
+   "description": {
+    "en": "Pushed south by Russian forces, Kenesary Kasymov moved into the lands of the Kyrgyz, where in 1847 he was defeated and killed by Kyrgyz forces near the Chu valley. His death ended the decade-long uprising and the last attempt to restore the Kazakh Khanate. Long condemned in Soviet historiography, he is honoured today as a national hero of Kazakhstan.",
+    "ko": "러시아군에 밀려 남쪽으로 간 케네사리 카시모프는 키르기스의 땅으로 들어갔다가, 1847년 추 계곡 부근에서 키르기스군에게 패해 목숨을 잃었다. 그의 죽음으로 10년에 걸친 봉기와 카자흐 칸국을 되살리려던 마지막 시도가 끝났다. 소련 역사학에서는 오랫동안 비판받았지만, 오늘날 그는 카자흐스탄의 민족 영웅으로 기려진다.",
+    "zh": "在俄军压迫下南移的克涅萨热·卡瑟莫夫进入吉尔吉斯人的地区，1847年在楚河谷地附近被吉尔吉斯部队击败并被杀。他的死结束了长达十年的起义，也终结了恢复哈萨克汗国的最后尝试。他在苏联史学中长期受到批判，如今则被尊为哈萨克斯坦的民族英雄。",
+    "ja": "ロシア軍に押されて南へ移ったケネサル・カスモフはキルギスの地に入り、1847年にチュイ渓谷付近でキルギス勢に敗れて殺された。彼の死により、10年にわたる反乱とカザフ・ハン国復興の最後の試みは終わった。ソ連の歴史学では長く否定的に扱われたが、今日ではカザフスタンの民族的英雄として称えられている。"
+   }
+  },
+  {
+   "year": 1853,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Russians capture Ak-Mechet",
+    "ko": "러시아의 악메체트 점령",
+    "zh": "俄军攻占阿克麦切特",
+    "ja": "ロシアがアク・メチェトを攻略"
+   },
+   "description": {
+    "en": "In 1853 Russian forces under the Orenburg governor-general Vasily Perovsky besieged and stormed the Kokand fortress of Ak-Mechet on the lower Syr Darya. Renamed Fort Perovsky, it became the base of the Syr Darya line of forts advancing into southern Kazakhstan. The town was later renamed Kzyl-Orda and briefly served as the capital of Soviet Kazakhstan.",
+    "ko": "1853년 오렌부르크 총독 바실리 페롭스키가 이끈 러시아군은 시르다리야 하류에 있는 코칸트의 악메체트 요새를 포위해 함락했다. 페롭스키 요새로 이름이 바뀐 이곳은 카자흐스탄 남부로 진격하는 시르다리야 요새선의 거점이 되었다. 이 도시는 훗날 크질오르다로 개칭되어 잠시 소비에트 카자흐스탄의 수도가 되었다.",
+    "zh": "1853年，奥伦堡总督瓦西里·彼罗夫斯基率领俄军围攻并攻克锡尔河下游浩罕汗国的阿克麦切特要塞。该地更名为彼罗夫斯基堡，成为向哈萨克斯坦南部推进的锡尔河要塞线的基地。该城后来改名为克孜勒奥尔达，一度成为苏维埃哈萨克斯坦的首都。",
+    "ja": "1853年、オレンブルク総督ワシーリー・ペロフスキー率いるロシア軍は、シルダリヤ下流にあるコーカンドのアク・メチェト要塞を包囲し攻略した。ペロフスク要塞と改名されたこの地は、カザフスタン南部へ進むシルダリヤ要塞線の拠点となった。この町はのちにクズロルダと改名され、一時ソビエト・カザフスタンの首都となった。"
+   }
+  },
+  {
+   "year": 1854,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Founding of Fort Verny (Almaty)",
+    "ko": "베르니 요새(알마티) 건설",
+    "zh": "维尔内堡（阿拉木图）建立",
+    "ja": "ヴェールヌイ要塞（アルマトイ）の建設"
+   },
+   "description": {
+    "en": "In 1854 Russian troops founded the fortification of Zailiyskoye, soon renamed Verny, at the foot of the Zailiysky Alatau on the site of present-day Almaty. Cossack and peasant settlers followed, and Verny became the administrative centre of the Semirechye region. Renamed Alma-Ata in the Soviet period, the city became Kazakhstan's capital and remains its largest city.",
+    "ko": "1854년 러시아군은 일리 알라타우 산기슭, 오늘날 알마티 자리에 자일리스코예 요새를 세웠고 곧 베르니로 이름을 바꾸었다. 코사크와 농민 이주민이 뒤따라 들어왔고, 베르니는 세미레치예 지역의 행정 중심지가 되었다. 소련 시대에 알마아타로 개칭된 이 도시는 카자흐스탄의 수도가 되었으며 지금도 가장 큰 도시다.",
+    "zh": "1854年，俄军在外伊犁阿拉套山麓、今阿拉木图所在地修建外伊犁堡，不久改名为维尔内。哥萨克和农民移民随之而来，维尔内成为七河州的行政中心。该城在苏联时期改名为阿拉木图，曾是哈萨克斯坦的首都，至今仍是该国最大的城市。",
+    "ja": "1854年、ロシア軍はザイリスキー・アラタウ山麓、今日のアルマトイの地にザイリースコエ要塞を築き、まもなくヴェールヌイと改名した。コサックや農民の入植者が続き、ヴェールヌイはセミレチエ地方の行政中心となった。ソ連時代にアルマ・アタと改名されたこの町はカザフスタンの首都となり、今も同国最大の都市である。"
+   }
+  },
+  {
+   "year": 1860,
+   "qid": "Q21644778",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Uzun-Agach",
+    "ko": "우준아가치 전투",
+    "zh": "乌宗阿加奇之战",
+    "ja": "ウズン・アガチの戦い"
+   },
+   "description": {
+    "en": "In October 1860 a small Russian force under Gerasim Kolpakovsky defeated a much larger Kokand army at Uzun-Agach, west of Verny, which had advanced to drive the Russians out of Zhetysu. The victory secured Russian control of the Semirechye region. It opened the way for the advance on the Kokand towns of southern Kazakhstan.",
+    "ko": "1860년 10월 게라심 콜파콥스키가 이끈 소규모 러시아군은 베르니 서쪽 우준아가치에서, 러시아를 제티수에서 몰아내려고 진격해 온 훨씬 큰 코칸트군을 격파했다. 이 승리로 러시아는 세미레치예 지역의 지배를 굳혔다. 이는 카자흐스탄 남부 코칸트 도시들로의 진격 길을 열었다.",
+    "zh": "1860年10月，格拉西姆·科尔帕科夫斯基率领的小股俄军在维尔内以西的乌宗阿加奇击败了规模大得多的浩罕军队，后者是为将俄国人逐出七河地区而进军的。这一胜利巩固了俄国对七河地区的控制，为进军哈萨克斯坦南部的浩罕城镇开辟了道路。",
+    "ja": "1860年10月、ゲラシム・コルパコフスキー率いる小規模なロシア軍は、ヴェールヌイ西方のウズン・アガチで、ロシアを七河地方から追い出そうと進軍してきたはるかに大きなコーカンド軍を破った。この勝利でロシアはセミレチエ地方の支配を固めた。これはカザフスタン南部のコーカンドの町々への進撃の道を開いた。"
+   }
+  },
+  {
+   "year": 1864,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Conquest of Aulie-Ata, Turkestan and Chimkent",
+    "ko": "아울리에아타·투르키스탄·침켄트 정복",
+    "zh": "征服奥利耶-阿塔、突厥斯坦和奇姆肯特",
+    "ja": "アウリエ・アタ、トルキスタン、チムケントの征服"
+   },
+   "description": {
+    "en": "In 1864 Russian columns advancing from Verny and the Syr Darya line converged on the Kokand towns of southern Kazakhstan. Mikhail Chernyaev took Aulie-Ata (Taraz), Nikolai Verevkin took Turkestan, and in the autumn Chimkent (Shymkent) fell. The closing of the gap between the Siberian and Orenburg lines completed the Russian conquest of the territory of modern Kazakhstan; Tashkent fell in 1865.",
+    "ko": "1864년 베르니와 시르다리야 요새선에서 진격한 러시아군은 카자흐스탄 남부의 코칸트 도시들로 집결했다. 미하일 체르냐예프는 아울리에아타(타라즈)를, 니콜라이 베룝킨은 투르키스탄을 점령했고, 가을에는 침켄트(심켄트)가 함락되었다. 시베리아 요새선과 오렌부르크 요새선 사이의 틈이 메워지면서 오늘날 카자흐스탄 영토에 대한 러시아의 정복이 완료되었으며, 타슈켄트는 1865년에 함락되었다.",
+    "zh": "1864年，从维尔内和锡尔河要塞线推进的俄军会攻哈萨克斯坦南部的浩罕城镇。米哈伊尔·切尔尼亚耶夫攻占奥利耶-阿塔（塔拉兹），尼古拉·韦廖夫金攻占突厥斯坦，秋季奇姆肯特也告陷落。西伯利亚线与奥伦堡线之间的缺口由此封闭，俄国完成了对今哈萨克斯坦领土的征服；塔什干于1865年陷落。",
+    "ja": "1864年、ヴェールヌイとシルダリヤ要塞線から進んだロシア軍は、カザフスタン南部のコーカンドの町々に集結した。ミハイル・チェルニャーエフはアウリエ・アタ（タラズ）を、ニコライ・ヴェリョフキンはトルキスタンを占領し、秋にはチムケント（シムケント）が陥落した。シベリア線とオレンブルク線の間の隙間が埋まり、今日のカザフスタン領のロシアによる征服が完了した。タシケントは1865年に陥落した。"
+   }
+  },
+  {
+   "year": 1864,
+   "qid": "Q12823517",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Ikan",
+    "ko": "이칸 전투",
+    "zh": "伊坎之战",
+    "ja": "イカンの戦い"
+   },
+   "description": {
+    "en": "In December 1864 a company of Ural Cossacks under Esaul Vasily Serov was surrounded near the village of Ikan, north of Turkestan, by a large Kokand army led by Alimqul. The Cossacks held out for about three days before breaking out with heavy losses. Although a tactical setback for the Russians, the Kokand army withdrew, and the Russian hold on the region was not shaken.",
+    "ko": "1864년 12월 바실리 세로프 대위가 이끈 우랄 코사크 중대는 투르키스탄 북쪽 이칸 마을 근처에서 알림쿨이 이끈 코칸트 대군에게 포위되었다. 코사크들은 약 사흘을 버틴 뒤 큰 손실을 입고 포위를 뚫었다. 러시아로서는 전술적 차질이었지만 코칸트군은 물러났고, 이 지역에 대한 러시아의 장악은 흔들리지 않았다.",
+    "zh": "1864年12月，瓦西里·谢罗夫大尉率领的乌拉尔哥萨克连在突厥斯坦以北的伊坎村附近，被阿利姆库尔统率的浩罕大军包围。哥萨克坚守约三天后付出重大伤亡突围而出。这对俄军而言是一次战术挫折，但浩罕军随后撤退，俄国对该地区的控制并未动摇。",
+    "ja": "1864年12月、ワシーリー・セロフ大尉率いるウラル・コサックの中隊は、トルキスタン北方のイカン村付近で、アリムクル率いるコーカンドの大軍に包囲された。コサックは約3日間持ちこたえた後、大きな損害を出して包囲を突破した。ロシアにとっては戦術的な挫折だったが、コーカンド軍は撤退し、この地域に対するロシアの支配は揺るがなかった。"
+   }
+  },
+  {
+   "year": 1868,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Provisional Statute on the steppe provinces",
+    "ko": "초원 주에 관한 임시 규정",
+    "zh": "草原诸州临时条例",
+    "ja": "草原諸州に関する暫定規程"
+   },
+   "description": {
+    "en": "In 1867–1868 Russia reorganised its new possessions: the south became part of the Governor-Generalship of Turkestan, while the 1868 Provisional Statute divided the steppe into the provinces of Uralsk, Turgai, Akmolinsk and Semipalatinsk. Kazakh land was declared state property, and new taxes and Russian-style local administration replaced the authority of sultans and biys. Discontent over these changes sparked revolts in 1869–1870, notably among the Adai of Mangyshlak.",
+    "ko": "1867~1868년 러시아는 새로 얻은 영토를 재편했다. 남부는 투르키스탄 총독부의 일부가 되었고, 1868년의 임시 규정은 초원을 우랄스크·투르가이·아크몰린스크·세미팔라틴스크주로 나누었다. 카자흐의 땅은 국유 재산으로 선언되었고, 새로운 세금과 러시아식 지방 행정이 술탄과 비이의 권위를 대신했다. 이러한 변화에 대한 불만은 1869~1870년 망기스타우의 아다이 부족 등의 봉기로 이어졌다.",
+    "zh": "1867至1868年，俄国重组新获领土：南部划归突厥斯坦总督区，1868年的《临时条例》则将草原划分为乌拉尔斯克、图尔盖、阿克莫林斯克和塞米巴拉金斯克四州。哈萨克人的土地被宣布为国有财产，新的税收和俄式地方行政取代了苏丹和比的权威。对这些变化的不满引发了1869至1870年的起义，尤以曼格斯套的阿代部落为甚。",
+    "ja": "1867～1868年、ロシアは新たに得た領土を再編した。南部はトルキスタン総督府の一部となり、1868年の暫定規程は草原をウラリスク、トゥルガイ、アクモリンスク、セミパラチンスクの各州に分けた。カザフの土地は国有財産と宣言され、新たな税とロシア式の地方行政がスルタンやビーの権威に取って代わった。こうした変化への不満は、1869～1870年のマンギスタウのアダイ部族などの反乱につながった。"
+   }
+  },
+  {
+   "year": 1887,
+   "qid": "Q104662809",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Verny earthquake",
+    "ko": "베르니 지진",
+    "zh": "维尔内地震",
+    "ja": "ヴェールヌイ地震"
+   },
+   "description": {
+    "en": "On 9 June 1887 (28 May Old Style) a strong earthquake struck Verny, destroying most of its brick and stone buildings. The disaster led to new building rules favouring wooden construction, reflected in later landmarks such as the wooden Ascension Cathedral. The region's high seismic risk has shaped the architecture of Almaty ever since.",
+    "ko": "1887년 6월 9일(구력 5월 28일) 강한 지진이 베르니를 덮쳐 벽돌과 석조 건물 대부분이 무너졌다. 이 재해 이후 목조 건축을 우선하는 새 건축 규정이 생겨났고, 이는 훗날의 목조 승천 대성당 같은 건축물에 반영되었다. 이 지역의 높은 지진 위험은 그 뒤로 알마티의 건축을 좌우해 왔다.",
+    "zh": "1887年6月9日（俄历5月28日），一场强烈地震袭击维尔内，城中大部分砖石建筑被毁。灾后出台了偏重木结构建筑的新建筑规范，后来的木结构耶稣升天大教堂等地标即反映了这一点。此后，该地区的高地震风险一直影响着阿拉木图的建筑。",
+    "ja": "1887年6月9日（旧暦5月28日）、強い地震がヴェールヌイを襲い、煉瓦造や石造の建物の大半が倒壊した。この災害の後、木造建築を優先する新たな建築規則が設けられ、それはのちの木造の昇天大聖堂などの建物に反映された。この地域の高い地震リスクは、以来アルマトイの建築を左右してきた。"
+   }
+  },
+  {
+   "year": 1890,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Abai writes his 'Book of Words'",
+    "ko": "아바이의 『말씀의 책』",
+    "zh": "阿拜撰写《箴言录》",
+    "ja": "アバイの『言葉の書』"
+   },
+   "description": {
+    "en": "Around 1890 (c.) the poet and thinker Abai Kunanbaiuly began writing the prose meditations later known as the 'Book of Words' (Qara sozder), continuing through the 1890s. Drawing on Kazakh, Islamic and Russian traditions, he urged his people to pursue education, honest work and moral self-improvement. Abai is regarded as the founder of modern Kazakh written literature.",
+    "ko": "1890년 무렵 시인이자 사상가인 아바이 쿠난바이울르는 훗날 『말씀의 책(카라 쇠즈데르)』으로 알려진 산문 성찰을 쓰기 시작해 1890년대 내내 이어 갔다. 카자흐·이슬람·러시아의 전통을 아우른 그는 동족에게 교육과 성실한 노동, 도덕적 수양을 촉구했다. 아바이는 근대 카자흐 문어 문학의 창시자로 여겨진다.",
+    "zh": "约1890年，诗人、思想家阿拜·库南巴耶夫开始撰写后来被称为《箴言录》（Qara sozder）的散文沉思录，写作贯穿整个1890年代。他融汇哈萨克、伊斯兰和俄罗斯传统，劝勉同胞追求教育、诚实劳动和道德修养。阿拜被视为近代哈萨克书面文学的奠基人。",
+    "ja": "1890年頃、詩人で思想家のアバイ・クナンバイウルは、のちに『言葉の書（カラ・ソズデル）』として知られる散文の思索を書き始め、1890年代を通じて書き継いだ。カザフ・イスラーム・ロシアの伝統を取り入れた彼は、同胞に教育、誠実な労働、道徳的な自己修養を説いた。アバイは近代カザフ文語文学の創始者とみなされている。"
+   }
+  },
+  {
+   "year": 1891,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Steppe Statute and peasant colonisation",
+    "ko": "초원 규정과 농민 식민",
+    "zh": "《草原条例》与农民移民",
+    "ja": "草原規程と農民入植"
+   },
+   "description": {
+    "en": "The Steppe Statute of 1891 confirmed that Kazakh lands belonged to the state and allowed land considered 'surplus' to nomadic needs to be taken for settlers. From the 1890s, and especially during the Stolypin reforms after 1906, hundreds of thousands of Russian and Ukrainian peasants were resettled on the best pastures of northern Kazakhstan and Zhetysu. Kazakh herders were pushed onto poorer land, deepening tensions that exploded in 1916.",
+    "ko": "1891년의 초원 규정은 카자흐의 땅이 국가 소유임을 재확인하고, 유목에 필요한 정도를 넘는 '잉여' 토지를 이주민에게 넘길 수 있게 했다. 1890년대부터, 특히 1906년 이후 스톨리핀 개혁 시기에 수십만 명의 러시아·우크라이나 농민이 카자흐스탄 북부와 제티수의 가장 좋은 목초지에 이주했다. 카자흐 목축민은 척박한 땅으로 밀려났고, 깊어진 갈등은 1916년에 폭발했다.",
+    "zh": "1891年的《草原条例》确认哈萨克土地归国家所有，并允许把超出游牧需要的“剩余”土地拨给移民。从1890年代起，特别是在1906年后的斯托雷平改革期间，数十万俄罗斯和乌克兰农民被安置到哈萨克斯坦北部和七河地区最好的牧场上。哈萨克牧民被挤到贫瘠的土地上，日益加深的矛盾在1916年爆发。",
+    "ja": "1891年の草原規程は、カザフの土地が国有であることを確認し、遊牧に必要な分を超える「余剰」地を入植者に回すことを認めた。1890年代から、とくに1906年以降のストルイピン改革期には、数十万人のロシア人・ウクライナ人農民がカザフスタン北部と七河地方の最良の牧地に入植した。カザフの牧民はやせた土地へ追いやられ、深まった緊張は1916年に爆発した。"
+   }
+  },
+  {
+   "year": 1906,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Orenburg–Tashkent railway completed",
+    "ko": "오렌부르크-타슈켄트 철도 완공",
+    "zh": "奥伦堡—塔什干铁路建成",
+    "ja": "オレンブルク―タシケント鉄道の完成"
+   },
+   "description": {
+    "en": "In 1906 the Orenburg–Tashkent railway was completed, running across western Kazakhstan past the Aral Sea and along the Syr Darya through Kazalinsk, Perovsk and Turkestan. It tied Central Asia directly to European Russia, speeding the export of cotton and the arrival of settlers. Railway towns along the line grew into regional centres of modern Kazakhstan.",
+    "ko": "1906년 오렌부르크-타슈켄트 철도가 완공되었다. 이 철도는 카자흐스탄 서부를 가로질러 아랄해를 지나 시르다리야를 따라 카잘린스크·페롭스크·투르키스탄을 거쳤다. 철도는 중앙아시아를 유럽 러시아와 직접 연결해 면화 수출과 이주민 유입을 빠르게 했다. 노선을 따라 생긴 철도 도시들은 오늘날 카자흐스탄의 지역 중심지로 성장했다.",
+    "zh": "1906年，奥伦堡—塔什干铁路建成，线路横贯哈萨克斯坦西部，经过咸海，沿锡尔河穿过卡扎林斯克、彼罗夫斯克和突厥斯坦。铁路将中亚与欧俄直接相连，加快了棉花外运和移民涌入。沿线的铁路城镇后来发展为今哈萨克斯坦的地区中心。",
+    "ja": "1906年、オレンブルク―タシケント鉄道が完成した。この鉄道はカザフスタン西部を横断してアラル海のそばを通り、シルダリヤ沿いにカザリンスク、ペロフスク、トルキスタンを経由した。鉄道は中央アジアをヨーロッパ・ロシアと直結し、綿花の輸出と入植者の流入を加速させた。沿線の鉄道の町は今日のカザフスタンの地域中心へと成長した。"
+   }
+  },
+  {
+   "year": 1911,
+   "qid": "Q4219257",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Kebin earthquake",
+    "ko": "케빈 지진",
+    "zh": "克宾地震",
+    "ja": "ケビン地震"
+   },
+   "description": {
+    "en": "On 3 January 1911 a powerful earthquake centred in the Chon-Kemin (Kebin) valley of the northern Tian Shan struck the Verny region. It caused major destruction in Verny and surrounding settlements and triggered large landslides in the mountains. It remains one of the strongest earthquakes recorded in Central Asia.",
+    "ko": "1911년 1월 3일 톈산 북부 촌케민(케빈) 계곡을 진원으로 한 강력한 지진이 베르니 지역을 강타했다. 지진은 베르니와 주변 정착지에 큰 피해를 입혔고, 산지에서는 대규모 산사태를 일으켰다. 이는 지금도 중앙아시아에서 관측된 가장 강력한 지진 가운데 하나로 꼽힌다.",
+    "zh": "1911年1月3日，一场震中位于天山北部琼克明（克宾）河谷的强烈地震袭击了维尔内地区。地震给维尔内及周边居民点造成严重破坏，并在山区引发大规模滑坡。它至今仍是中亚有记录以来最强烈的地震之一。",
+    "ja": "1911年1月3日、天山北部のチョン・ケミン（ケビン）渓谷を震源とする強い地震がヴェールヌイ地方を襲った。地震はヴェールヌイと周辺の集落に大きな被害をもたらし、山地では大規模な地すべりを引き起こした。これは今も中央アジアで記録された最も強い地震の一つである。"
+   }
+  },
+  {
+   "year": 1913,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Newspaper 'Qazaq' founded",
+    "ko": "신문 『카자흐』 창간",
+    "zh": "《哈萨克》报创刊",
+    "ja": "新聞『カザク』創刊"
+   },
+   "description": {
+    "en": "In 1913 Akhmet Baitursynuly, with Mirzhakyp Dulatuly and Alikhan Bukeikhanov, founded the newspaper Qazaq in Orenburg. Written in a reformed Arabic-based Kazakh alphabet devised by Baitursynuly, it became the leading voice of the Kazakh national intelligentsia, discussing education, land and political rights. The circle around Qazaq later formed the Alash party.",
+    "ko": "1913년 아흐메트 바이투르스눌르는 미르자키프 둘라툴르, 알리한 부케이하노프와 함께 오렌부르크에서 신문 『카자흐』를 창간했다. 바이투르스눌르가 고안한 개량 아랍 문자 카자흐 알파벳으로 쓰인 이 신문은 교육과 토지, 정치적 권리를 논하며 카자흐 민족 지식인층의 대표적인 목소리가 되었다. 『카자흐』를 중심으로 모인 이들은 훗날 알라시당을 결성했다.",
+    "zh": "1913年，艾哈迈德·拜图尔瑟诺夫与米尔扎基普·杜拉托夫、阿里汗·布凯汗诺夫在奥伦堡创办《哈萨克》报。该报使用拜图尔瑟诺夫设计的改良阿拉伯字母哈萨克文，讨论教育、土地和政治权利，成为哈萨克民族知识分子最重要的喉舌。围绕《哈萨克》报的群体后来组建了阿拉什党。",
+    "ja": "1913年、アフメト・バイトゥルスヌルは、ミルジャクプ・ドゥラトゥル、アリハン・ブケイハノフとともにオレンブルクで新聞『カザク』を創刊した。バイトゥルスヌルが考案した改良アラビア文字のカザフ文字で書かれたこの新聞は、教育・土地・政治的権利を論じ、カザフ民族知識人の代表的な声となった。『カザク』の周囲に集まった人々は、のちにアラシュ党を結成した。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Central Asian Revolt of 1916",
+    "ko": "1916년 중앙아시아 봉기",
+    "zh": "1916年中亚起义",
+    "ja": "1916年中央アジア反乱"
+   },
+   "description": {
+    "en": "In June 1916 a decree of Nicholas II ordered the conscription of Central Asian men, previously exempt from military service, for labour behind the front lines of the First World War. Combined with resentment over land seizures, it sparked a massive revolt across the Kazakh steppe; in Turgai, rebels under Amangeldy Imanov and Abdighafar Zhanbosynuly besieged the town of Turgai. Russian punitive expeditions killed many thousands, and large numbers of Kazakhs and Kyrgyz fled to China.",
+    "ko": "1916년 6월 니콜라이 2세의 칙령은 그때까지 병역이 면제되던 중앙아시아 남성들을 제1차 세계대전 후방 노역에 징발하도록 명했다. 토지 수탈에 대한 분노와 맞물려 이는 카자흐 초원 전역에서 대규모 봉기를 불러왔고, 투르가이에서는 아만겔디 이마노프와 압딕아파르 잔보스눌르가 이끄는 봉기군이 투르가이 시를 포위했다. 러시아의 토벌대는 수많은 사람을 죽였고, 많은 카자흐인과 키르기스인이 중국으로 피란했다.",
+    "zh": "1916年6月，尼古拉二世下令征召此前免服兵役的中亚男子到第一次世界大战前线后方服劳役。加上对土地被夺的积怨，这在哈萨克草原各地引发了大规模起义；在图尔盖，阿曼格尔德·伊马诺夫和阿布德加法尔·詹博瑟努勒率领的起义者包围了图尔盖城。俄国讨伐队杀害了成千上万的人，大批哈萨克人和吉尔吉斯人逃往中国。",
+    "ja": "1916年6月、ニコライ2世の勅令は、それまで兵役を免除されていた中央アジアの男性を第一次世界大戦の前線後方の労役に徴用するよう命じた。土地収奪への怒りと相まって、これはカザフ草原全域で大規模な反乱を引き起こし、トゥルガイではアマンゲルディ・イマノフとアブディガファル・ジャンボスヌル率いる反乱軍がトゥルガイの町を包囲した。ロシアの懲罰部隊は数多くの人々を殺害し、多数のカザフ人とキルギス人が中国へ逃れた。"
+   }
+  },
+  {
+   "year": 1917,
+   "qid": "Q1779823",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Alash Autonomy proclaimed",
+    "ko": "알라시 자치국 선포",
+    "zh": "阿拉什自治国成立",
+    "ja": "アラシュ自治国の宣言"
+   },
+   "description": {
+    "en": "After the collapse of the Russian monarchy, the Second All-Kazakh Congress meeting in Orenburg in December 1917 proclaimed the Alash Autonomy and elected a government, the Alash Orda, headed by Alikhan Bukeikhanov. It sought national self-rule within a democratic Russian federation and set up local administration and militias. Caught between Reds and Whites in the Civil War, it was dissolved after the Bolshevik victory.",
+    "ko": "러시아 군주정이 무너진 뒤 1917년 12월 오렌부르크에서 열린 제2차 전카자흐 대회는 알라시 자치국을 선포하고 알리한 부케이하노프를 수반으로 하는 정부 '알라시 오르다'를 선출했다. 이 정부는 민주적인 러시아 연방 안에서의 민족 자치를 추구하며 지방 행정과 민병대를 조직했다. 내전 중 적군과 백군 사이에 끼인 알라시 자치국은 볼셰비키의 승리 뒤 해체되었다.",
+    "zh": "俄国君主制崩溃后，1917年12月在奥伦堡召开的第二次全哈萨克代表大会宣布成立阿拉什自治国，并选举以阿里汗·布凯汗诺夫为首的政府“阿拉什汗国（Alash Orda）”。它寻求在民主的俄罗斯联邦内实现民族自治，建立了地方行政和民兵。内战中夹在红军与白军之间的阿拉什自治国，在布尔什维克获胜后被解散。",
+    "ja": "ロシアの君主制崩壊後、1917年12月にオレンブルクで開かれた第2回全カザフ大会はアラシュ自治国を宣言し、アリハン・ブケイハノフを首班とする政府「アラシュ・オルダ」を選出した。同政府は民主的なロシア連邦の中での民族自治を目指し、地方行政と民兵を組織した。内戦で赤軍と白軍の間に挟まれたアラシュ自治国は、ボリシェヴィキの勝利後に解体された。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": "Q4142067",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Famine of 1919–1922",
+    "ko": "1919~1922년 기근",
+    "zh": "1919—1922年饥荒",
+    "ja": "1919～1922年の飢饉"
+   },
+   "description": {
+    "en": "Civil war, Bolshevik grain and livestock requisitions, the earlier devastation of 1916 and severe drought combined to cause a famine across the Kazakh steppe and Turkestan in 1919–1922. Large numbers of people and herds perished, especially in the western and northern provinces. The famine was overshadowed in memory by the even greater catastrophe of the early 1930s.",
+    "ko": "내전, 볼셰비키의 곡물·가축 징발, 1916년 이후의 황폐, 그리고 심한 가뭄이 겹쳐 1919~1922년 카자흐 초원과 투르키스탄 전역에 기근이 닥쳤다. 특히 서부와 북부 주에서 수많은 사람과 가축이 죽었다. 이 기근은 1930년대 초의 더 큰 참사에 가려 기억 속에서 덜 주목받았다.",
+    "zh": "内战、布尔什维克的粮食和牲畜征收、1916年以来的破坏以及严重干旱交织在一起，在1919至1922年间导致哈萨克草原和突厥斯坦发生饥荒。大量人口和牲畜死亡，西部和北部各州尤为严重。这场饥荒在记忆中被1930年代初更大的灾难所掩盖。",
+    "ja": "内戦、ボリシェヴィキによる穀物と家畜の徴発、1916年以来の荒廃、そして深刻な干ばつが重なり、1919～1922年にカザフ草原とトルキスタン全域で飢饉が起きた。とくに西部と北部の州で多くの人々と家畜が死んだ。この飢饉は、1930年代初めのさらに大きな惨事の陰に隠れて記憶されることが少なかった。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Kirghiz ASSR established",
+    "ko": "키르기스 자치공화국 수립",
+    "zh": "吉尔吉斯自治共和国成立",
+    "ja": "キルギス自治共和国の成立"
+   },
+   "description": {
+    "en": "In August 1920 the Soviet government created the Kirghiz Autonomous Soviet Socialist Republic within the Russian SFSR, with its capital at Orenburg; at the time Russians called the Kazakhs 'Kirghiz'. It covered most of the Kazakh steppe, while the southern regions remained in the Turkestan ASSR. Former Alash leaders were amnestied and some worked for the new administration, while the Alash Orda ceased to exist.",
+    "ko": "1920년 8월 소비에트 정부는 러시아 소비에트 연방 사회주의 공화국 안에 오렌부르크를 수도로 하는 키르기스 자치 소비에트 사회주의 공화국을 세웠다. 당시 러시아인은 카자흐인을 '키르기스'라고 불렀다. 이 공화국은 카자흐 초원 대부분을 포함했고, 남부 지역은 투르키스탄 자치공화국에 남았다. 알라시 지도자들은 사면되어 일부는 새 행정부에서 일했고, 알라시 오르다는 사라졌다.",
+    "zh": "1920年8月，苏维埃政府在俄罗斯苏维埃联邦社会主义共和国境内建立吉尔吉斯自治苏维埃社会主义共和国，首府设在奥伦堡；当时俄国人称哈萨克人为“吉尔吉斯人”。该共和国包括哈萨克草原的大部分，南部地区仍属突厥斯坦自治共和国。前阿拉什领导人获得赦免，其中一些人为新政权工作，阿拉什汗国则不复存在。",
+    "ja": "1920年8月、ソビエト政府はロシア社会主義連邦ソビエト共和国の中に、オレンブルクを首都とするキルギス自治ソビエト社会主義共和国を創設した。当時ロシア人はカザフを「キルギス」と呼んでいた。この共和国はカザフ草原の大部分を含み、南部地域はトルキスタン自治共和国に残った。アラシュの指導者は恩赦を受けて一部は新政権で働き、アラシュ・オルダは消滅した。"
+   }
+  },
+  {
+   "year": 1925,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Kazakh ASSR and new borders",
+    "ko": "카자흐 자치공화국과 새 국경",
+    "zh": "哈萨克自治共和国与新边界",
+    "ja": "カザフ自治共和国と新たな境界"
+   },
+   "description": {
+    "en": "Following the national delimitation of Soviet Central Asia in 1924, the Syr Darya and Zhetysu regions with their Kazakh populations were joined to the republic, which in 1925 was renamed the Kazakh ASSR. Orenburg was returned to Russia and the capital moved to Ak-Mechet, renamed Kzyl-Orda; in 1929 it moved again to Alma-Ata. These changes gave Kazakhstan roughly its present borders.",
+    "ko": "1924년 소비에트 중앙아시아의 민족 경계 획정에 따라 카자흐인이 사는 시르다리야와 제티수 지역이 공화국에 편입되었고, 1925년 공화국은 카자흐 자치공화국으로 이름을 바꾸었다. 오렌부르크는 러시아로 반환되고 수도는 크질오르다로 개칭된 악메체트로 옮겨졌으며, 1929년에는 다시 알마아타로 옮겨졌다. 이로써 카자흐스탄은 대체로 오늘날의 국경을 갖게 되었다.",
+    "zh": "1924年苏联中亚民族划界后，哈萨克人聚居的锡尔河和七河地区并入该共和国，1925年共和国更名为哈萨克自治共和国。奥伦堡划归俄罗斯，首府迁至改名为克孜勒奥尔达的阿克麦切特；1929年再迁至阿拉木图。这些变化使哈萨克斯坦大致形成了今天的边界。",
+    "ja": "1924年のソ連中央アジアの民族境界画定により、カザフ人が住むシルダリヤ地方と七河地方が共和国に編入され、1925年に共和国はカザフ自治共和国と改称された。オレンブルクはロシアに戻され、首都はクズロルダと改名されたアク・メチェトに移り、1929年にはさらにアルマ・アタに移った。これらの変更により、カザフスタンはほぼ現在の国境をもつことになった。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Turkestan–Siberia Railway (Turksib)",
+    "ko": "투르크시브 철도",
+    "zh": "土西铁路",
+    "ja": "トルキスタン・シベリア鉄道（トゥルクシブ）"
+   },
+   "description": {
+    "en": "In 1930 the tracks of the Turkestan–Siberian Railway, built from both ends as one of the showcase projects of the first Five-Year Plan, were joined near Lake Balkhash, with full service following in 1931. The line linked Semipalatinsk with Alma-Ata and Central Asia, carrying Siberian grain and timber south and Central Asian cotton north. Its construction drew many Kazakhs into industrial wage labour for the first time.",
+    "ko": "1930년 제1차 5개년 계획의 대표 사업으로 양쪽 끝에서 건설된 투르키스탄-시베리아 철도의 선로가 발하시호 근처에서 연결되었고, 1931년부터 본격 운행되었다. 이 노선은 세미팔라틴스크와 알마아타, 중앙아시아를 이어 시베리아의 곡물과 목재를 남쪽으로, 중앙아시아의 면화를 북쪽으로 실어 날랐다. 이 건설로 많은 카자흐인이 처음으로 산업 임금 노동에 들어섰다.",
+    "zh": "1930年，作为第一个五年计划标志性工程、从两端同时修建的土西铁路在巴尔喀什湖附近接轨，1931年全面通车。该线连接塞米巴拉金斯克、阿拉木图和中亚，把西伯利亚的粮食和木材运往南方，把中亚的棉花运往北方。它的修建使许多哈萨克人第一次进入工业雇佣劳动。",
+    "ja": "1930年、第1次5か年計画の象徴的事業として両端から建設されたトルキスタン・シベリア鉄道の線路がバルハシ湖付近で結ばれ、1931年に本格運行が始まった。この路線はセミパラチンスクとアルマ・アタ、中央アジアを結び、シベリアの穀物と木材を南へ、中央アジアの綿花を北へ運んだ。その建設で、多くのカザフ人が初めて工業の賃労働に就いた。"
+   }
+  },
+  {
+   "year": 1932,
+   "qid": null,
+   "importance": 1,
+   "category": "disaster",
+   "title": {
+    "en": "The Kazakh famine (Asharshylyk)",
+    "ko": "카자흐 대기근(아샤르쉴르크)",
+    "zh": "哈萨克大饥荒",
+    "ja": "カザフ大飢饉（アシャルシルク）"
+   },
+   "description": {
+    "en": "Forced collectivisation and sedentarisation of the nomads under Stalin and the regional party chief Filipp Goloshchekin, with the confiscation of livestock, caused a catastrophic famine in 1930–1933 that peaked in 1932. Commonly cited estimates put deaths at around 1.5 million, roughly 38% of all Kazakhs, though figures vary, and hundreds of thousands fled to China and neighbouring republics. Known as Asharshylyk, it destroyed the nomadic way of life and made Kazakhs a minority in their own republic for decades.",
+    "ko": "스탈린과 지역 당 책임자 필리프 골로쇼킨 아래에서 가축 몰수를 동반한 강제 집단화와 유목민 정착화가 추진되면서 1930~1933년 참혹한 기근이 일어났고 1932년에 정점에 달했다. 흔히 인용되는 추정치는 사망자를 약 150만 명, 전체 카자흐인의 약 38%로 보지만 수치는 연구마다 다르며, 수십만 명이 중국과 인접 공화국으로 피란했다. '아샤르쉴르크'로 불리는 이 참사는 유목 생활을 파괴했고, 카자흐인을 수십 년 동안 자기 공화국에서 소수로 만들었다.",
+    "zh": "在斯大林和地区党委书记菲利普·戈洛晓金主持下，伴随着没收牲畜的强制集体化和游牧民定居化，导致1930至1933年发生灾难性饥荒，1932年达到顶点。常被引用的估计认为约有150万人死亡，约占哈萨克人总数的38%，但各项研究数字不一；另有数十万人逃往中国和邻近共和国。这场被称为“阿沙尔舍勒克”的灾难摧毁了游牧生活方式，使哈萨克人在数十年间成为本共和国的少数民族。",
+    "ja": "スターリンと地域の党指導者フィリップ・ゴロショキンのもとで、家畜の没収を伴う強制的な集団化と遊牧民の定住化が進められた結果、1930～1933年に壊滅的な飢饉が起こり、1932年に頂点に達した。よく引用される推計では死者は約150万人、カザフ人全体の約38％とされるが数字は研究により異なり、数十万人が中国や隣接する共和国へ逃れた。「アシャルシルク」と呼ばれるこの惨事は遊牧生活を破壊し、カザフ人を数十年にわたり自らの共和国で少数派にした。"
+   }
+  },
+  {
+   "year": 1936,
+   "qid": "Q168811",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Kazakh SSR becomes a union republic",
+    "ko": "카자흐 소비에트 사회주의 공화국 성립",
+    "zh": "哈萨克苏维埃社会主义共和国成立",
+    "ja": "カザフ・ソビエト社会主義共和国の成立"
+   },
+   "description": {
+    "en": "Under the new Soviet constitution of December 1936, the Kazakh ASSR was separated from the Russian SFSR and raised to the status of a full union republic, the Kazakh Soviet Socialist Republic. Its capital remained Alma-Ata. The republic, the second largest in the USSR by area, kept these borders until independence in 1991.",
+    "ko": "1936년 12월 새 소련 헌법에 따라 카자흐 자치공화국은 러시아 소비에트 연방 사회주의 공화국에서 분리되어 정식 연방 공화국인 카자흐 소비에트 사회주의 공화국으로 승격되었다. 수도는 계속 알마아타였다. 면적으로 소련에서 두 번째로 큰 이 공화국은 1991년 독립할 때까지 이 국경을 유지했다.",
+    "zh": "根据1936年12月的苏联新宪法，哈萨克自治共和国从俄罗斯苏维埃联邦社会主义共和国中分出，升格为正式的加盟共和国——哈萨克苏维埃社会主义共和国，首都仍为阿拉木图。这个面积居苏联第二位的共和国一直保持这一边界，直到1991年独立。",
+    "ja": "1936年12月の新しいソ連憲法により、カザフ自治共和国はロシア社会主義連邦ソビエト共和国から分離され、正式な連邦構成共和国であるカザフ・ソビエト社会主義共和国に昇格した。首都は引き続きアルマ・アタだった。面積でソ連第2位のこの共和国は、1991年の独立までこの国境を保った。"
+   }
+  },
+  {
+   "year": 1937,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Deportation of Koreans to Kazakhstan",
+    "ko": "고려인의 카자흐스탄 강제 이주",
+    "zh": "朝鲜族被强制迁往哈萨克斯坦",
+    "ja": "朝鮮人のカザフスタンへの強制移住"
+   },
+   "description": {
+    "en": "In the autumn of 1937 the Soviet authorities deported the entire Korean population of the Russian Far East to Central Asia, with a large share sent to Kazakhstan, on the pretext of preventing Japanese espionage. Many were unloaded on the open steppe with little shelter, and many died in the first winter. The Koryo-saram community survived and became part of Kazakhstan's multi-ethnic society; it was one of a series of mass ethnic deportations to the republic, which had begun with Poles from Ukraine in 1936.",
+    "ko": "1937년 가을 소련 당국은 일본의 첩보 활동을 막는다는 구실로 러시아 극동의 고려인 전체를 중앙아시아로 강제 이주시켰고, 그 상당수가 카자흐스탄으로 보내졌다. 많은 이들이 거처도 거의 없는 허허벌판에 내려졌고, 첫겨울에 많은 사람이 목숨을 잃었다. 고려인 공동체는 살아남아 카자흐스탄 다민족 사회의 일부가 되었으며, 이는 1936년 우크라이나의 폴란드인으로 시작된, 이 공화국으로의 일련의 민족 단위 강제 이주 가운데 하나였다.",
+    "zh": "1937年秋，苏联当局以防止日本间谍活动为借口，将俄罗斯远东的全部朝鲜人强制迁往中亚，其中很大一部分被送到哈萨克斯坦。许多人被卸在几乎没有栖身之所的荒原上，不少人在第一个冬天死去。高丽人群体得以幸存，成为哈萨克斯坦多民族社会的一部分；这是始于1936年乌克兰波兰人的一系列民族整体流放到该共和国的事件之一。",
+    "ja": "1937年秋、ソ連当局は日本の諜報活動を防ぐという口実で、ロシア極東の朝鮮人全員を中央アジアへ強制移住させ、その多くがカザフスタンに送られた。多くの人々は住まいもほとんどない草原に降ろされ、最初の冬に多数が命を落とした。高麗人（コリョ・サラム）の共同体は生き延びてカザフスタンの多民族社会の一部となり、これは1936年のウクライナのポーランド人に始まる、同共和国への一連の民族ぐるみの強制移住の一つであった。"
+   }
+  },
+  {
+   "year": 1937,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Great Terror destroys the Alash generation",
+    "ko": "대숙청과 알라시 세대의 비극",
+    "zh": "大清洗摧毁阿拉什一代",
+    "ja": "大粛清とアラシュ世代の悲劇"
+   },
+   "description": {
+    "en": "During the Great Terror of 1937–1938, most of the surviving leaders of the Alash movement, including Alikhan Bukeikhanov and Akhmet Baitursynuly, were shot, along with many Kazakh communist officials and writers. Labour camps such as Karlag near Karaganda and ALZhIR, the camp for wives of 'traitors to the motherland' near Akmolinsk, held tens of thousands of prisoners. The losses decapitated the Kazakh national intelligentsia for a generation.",
+    "ko": "1937~1938년 대숙청 기간에 알리한 부케이하노프와 아흐메트 바이투르스눌르를 비롯한 알라시 운동의 생존 지도자 대부분이 많은 카자흐 공산당 간부와 작가들과 함께 총살되었다. 카라간다 근처의 카를라그와 아크몰린스크 근처의 '조국 반역자의 아내'를 위한 수용소 알지르(ALZhIR) 같은 노동수용소에는 수만 명이 갇혔다. 이 희생으로 카자흐 민족 지식인층은 한 세대 동안 지도부를 잃었다.",
+    "zh": "在1937至1938年的大清洗中，包括阿里汗·布凯汗诺夫和艾哈迈德·拜图尔瑟诺夫在内的阿拉什运动大多数幸存领导人，与许多哈萨克共产党干部和作家一起被枪决。卡拉干达附近的卡拉干达劳改营（Karlag）和阿克莫林斯克附近关押“祖国叛徒之妻”的阿尔日尔营（ALZhIR）等劳改营关押了数万名囚犯。这些损失使哈萨克民族知识分子在一代人的时间里失去了领袖。",
+    "ja": "1937～1938年の大粛清で、アリハン・ブケイハノフやアフメト・バイトゥルスヌルを含むアラシュ運動の生き残りの指導者の大半が、多くのカザフ共産党幹部や作家とともに銃殺された。カラガンダ近郊のカルラグや、アクモリンスク近郊の「祖国の裏切り者の妻」のための収容所アルジル（ALZhIR）などの労働収容所には数万人が収容された。これらの犠牲により、カザフ民族知識人層は一世代にわたって指導者を失った。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Kazakhstan in the Second World War",
+    "ko": "제2차 세계대전과 카자흐스탄",
+    "zh": "第二次世界大战中的哈萨克斯坦",
+    "ja": "第二次世界大戦とカザフスタン"
+   },
+   "description": {
+    "en": "After the German invasion of the USSR in 1941, Kazakhstan sent hundreds of thousands of soldiers to the front; units formed in Alma-Ata, such as the 316th Rifle Division under Ivan Panfilov, fought in the defence of Moscow. Factories evacuated from the west were rebuilt in the republic, and Volga Germans and, later, peoples of the North Caucasus were deported there en masse. The war accelerated industrialisation while bringing heavy losses and hardship.",
+    "ko": "1941년 독일이 소련을 침공하자 카자흐스탄은 수십만 명의 병사를 전선으로 보냈고, 이반 판필로프가 지휘한 제316 소총사단처럼 알마아타에서 편성된 부대들이 모스크바 방어전에서 싸웠다. 서부에서 소개된 공장들이 이 공화국에 다시 세워졌고, 볼가 독일인과 이후 북캅카스 민족들이 대규모로 이곳에 강제 이주되었다. 전쟁은 공업화를 가속했지만 큰 인명 손실과 고난을 안겼다.",
+    "zh": "1941年德国入侵苏联后，哈萨克斯坦向前线输送了数十万士兵；在阿拉木图组建的部队，如伊万·潘菲洛夫指挥的第316步兵师，参加了莫斯科保卫战。从西部疏散来的工厂在该共和国重建，伏尔加德意志人以及后来的北高加索各民族被大规模流放到这里。战争加速了工业化，同时也带来了惨重的损失和苦难。",
+    "ja": "1941年にドイツがソ連に侵攻すると、カザフスタンは数十万人の兵士を前線に送り、イワン・パンフィロフ率いる第316狙撃師団のようにアルマ・アタで編成された部隊がモスクワ防衛戦で戦った。西部から疎開した工場がこの共和国に再建され、ヴォルガ・ドイツ人や、のちに北カフカスの諸民族が大量に強制移住させられた。戦争は工業化を加速させる一方、大きな人的損失と苦難をもたらした。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Deportation of Chechens and Ingush",
+    "ko": "체첸인과 인구시인의 강제 이주",
+    "zh": "车臣人和印古什人被流放",
+    "ja": "チェチェン人とイングーシ人の強制移住"
+   },
+   "description": {
+    "en": "In February 1944 the Soviet regime deported the entire Chechen and Ingush peoples from the North Caucasus, sending most of them to Kazakhstan; Karachays, Balkars and others were deported in the same period. Tens of thousands died during transport and in the first years of 'special settlement'. The deportees were allowed to return home only after 1957, but many families remained in Kazakhstan.",
+    "ko": "1944년 2월 소련 정권은 북캅카스의 체첸인과 인구시인 전체를 강제 이주시켰고, 그 대부분을 카자흐스탄으로 보냈다. 같은 시기 카라차이인·발카르인 등도 강제 이주되었다. 이송 과정과 '특별 정착' 초기 몇 년 동안 수만 명이 목숨을 잃었다. 이주민들은 1957년 이후에야 귀향이 허용되었지만 많은 가족이 카자흐스탄에 남았다.",
+    "zh": "1944年2月，苏联政权将北高加索的车臣人和印古什人全体流放，其中大部分被送往哈萨克斯坦；卡拉恰伊人、巴尔卡尔人等也在同一时期被流放。在押送途中和“特别移民”的最初几年里，有数万人死亡。被流放者直到1957年后才获准返乡，但许多家庭留在了哈萨克斯坦。",
+    "ja": "1944年2月、ソ連政権は北カフカスのチェチェン人とイングーシ人を民族ごと強制移住させ、その大半をカザフスタンに送った。同じ時期にカラチャイ人やバルカル人なども追放された。移送中や「特別入植」の最初の数年間に数万人が亡くなった。追放された人々は1957年以降にようやく帰郷を許されたが、多くの家族はカザフスタンに残った。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 1,
+   "category": "science",
+   "title": {
+    "en": "First Soviet nuclear test at Semipalatinsk",
+    "ko": "세미팔라틴스크에서 소련 첫 핵실험",
+    "zh": "苏联在塞米巴拉金斯克进行首次核试验",
+    "ja": "セミパラチンスクでソ連初の核実験"
+   },
+   "description": {
+    "en": "On 29 August 1949 the Soviet Union detonated its first atomic bomb, RDS-1, at the Semipalatinsk Test Site in the steppe of northeastern Kazakhstan. Over the following four decades some 456 nuclear tests were conducted there, more than a hundred of them in the atmosphere. Generations of local residents were exposed to radiation, with lasting effects on health that are still being studied.",
+    "ko": "1949년 8월 29일 소련은 카자흐스탄 북동부 초원의 세미팔라틴스크 핵실험장에서 첫 원자폭탄 RDS-1을 폭발시켰다. 이후 40년 동안 이곳에서 약 456회의 핵실험이 실시되었고, 그 가운데 100회 이상은 대기 중 실험이었다. 여러 세대의 주민이 방사선에 노출되었으며, 그 건강 영향은 지금도 연구되고 있다.",
+    "zh": "1949年8月29日，苏联在哈萨克斯坦东北部草原的塞米巴拉金斯克核试验场引爆了第一颗原子弹RDS-1。此后四十年间，这里共进行了约456次核试验，其中一百多次是大气层试验。世世代代的当地居民受到辐射，其对健康的长期影响至今仍在研究之中。",
+    "ja": "1949年8月29日、ソ連はカザフスタン北東部の草原にあるセミパラチンスク核実験場で最初の原子爆弾RDS-1を爆発させた。その後40年間に約456回の核実験がここで行われ、そのうち100回以上は大気圏内実験だった。何世代もの住民が放射線にさらされ、その健康への長期的影響は今も研究が続いている。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Virgin Lands campaign",
+    "ko": "처녀지 개간 운동",
+    "zh": "垦荒运动",
+    "ja": "処女地開拓"
+   },
+   "description": {
+    "en": "In 1954 Nikita Khrushchev launched the Virgin Lands campaign to plough up the steppes of northern Kazakhstan and southern Siberia for grain. Hundreds of thousands of young volunteers, mostly Slavs, arrived, and millions of hectares were brought under cultivation, with Akmolinsk renamed Tselinograd as the campaign's centre in 1961. Harvests rose dramatically at first but soil erosion and dust storms followed, and the influx further reduced the Kazakh share of the population.",
+    "ko": "1954년 니키타 흐루쇼프는 카자흐스탄 북부와 시베리아 남부의 초원을 갈아엎어 곡물을 재배하는 처녀지 개간 운동을 시작했다. 대부분 슬라브계인 수십만 명의 젊은 자원자가 들어와 수백만 헥타르가 경작지로 바뀌었고, 1961년 아크몰린스크는 운동의 중심지로서 첼리노그라드로 개칭되었다. 수확은 처음에 크게 늘었지만 토양 침식과 모래바람이 뒤따랐고, 이주민 유입으로 카자흐인의 인구 비중은 더 낮아졌다.",
+    "zh": "1954年，赫鲁晓夫发起垦荒运动，在哈萨克斯坦北部和西伯利亚南部的草原上大规模开荒种粮。数十万名以斯拉夫人为主的青年志愿者来到这里，数百万公顷土地被开垦，1961年阿克莫林斯克作为运动中心更名为切利诺格勒。粮食产量起初大幅增长，但随后出现了土壤侵蚀和沙尘暴，移民的涌入也进一步降低了哈萨克人在人口中的比例。",
+    "ja": "1954年、ニキータ・フルシチョフは、カザフスタン北部と西シベリア南部の草原を耕して穀物を栽培する処女地開拓運動を始めた。主にスラヴ系の数十万人の若い志願者がやって来て数百万ヘクタールが耕地となり、1961年にはアクモリンスクが運動の中心地としてツェリノグラードと改名された。収穫は当初大きく伸びたが、土壌侵食や砂嵐が続き、移住者の流入でカザフ人の人口比はさらに低下した。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Founding of the Baikonur Cosmodrome",
+    "ko": "바이코누르 우주기지 건설",
+    "zh": "拜科努尔航天发射场建立",
+    "ja": "バイコヌール宇宙基地の建設"
+   },
+   "description": {
+    "en": "In 1955 construction began on a secret missile test range near the railway station of Tyuratam on the Syr Darya, in the Kyzylorda region. It became the Baikonur Cosmodrome, the launch site of the R-7 intercontinental missile and the Soviet space programme. After 1991 independent Kazakhstan leased the cosmodrome and the city of Baikonur to Russia.",
+    "ko": "1955년 크질오르다 지역 시르다리야 강변의 튜라탐 철도역 근처에 비밀 미사일 시험장 건설이 시작되었다. 이곳은 바이코누르 우주기지가 되어 R-7 대륙간 미사일과 소련 우주 계획의 발사장이 되었다. 1991년 이후 독립한 카자흐스탄은 우주기지와 바이코누르시를 러시아에 임대했다.",
+    "zh": "1955年，在克孜勒奥尔达地区锡尔河畔的秋拉塔姆火车站附近开始修建一座秘密导弹试验场。它后来成为拜科努尔航天发射场，是R-7洲际导弹和苏联航天计划的发射基地。1991年后，独立的哈萨克斯坦将发射场和拜科努尔市租给俄罗斯。",
+    "ja": "1955年、クズロルダ地方のシルダリヤ河畔にあるチュラタム駅の近くで秘密のミサイル試験場の建設が始まった。ここはバイコヌール宇宙基地となり、R-7大陸間弾道ミサイルとソ連の宇宙計画の発射場となった。1991年以降、独立したカザフスタンは宇宙基地とバイコヌール市をロシアに貸与した。"
+   }
+  },
+  {
+   "year": 1957,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Sputnik launched from Baikonur",
+    "ko": "바이코누르에서 스푸트니크 발사",
+    "zh": "斯普特尼克卫星从拜科努尔升空",
+    "ja": "バイコヌールからスプートニク打ち上げ"
+   },
+   "description": {
+    "en": "On 4 October 1957 an R-7 rocket launched from Baikonur placed Sputnik 1, the world's first artificial satellite, into orbit. The launch stunned the world and began the space race between the USSR and the United States. The Kazakh steppe thus became the starting point of the space age.",
+    "ko": "1957년 10월 4일 바이코누르에서 발사된 R-7 로켓은 세계 최초의 인공위성 스푸트니크 1호를 궤도에 올렸다. 이 발사는 세계를 놀라게 했고, 소련과 미국 사이의 우주 경쟁을 시작했다. 이로써 카자흐 초원은 우주 시대의 출발점이 되었다.",
+    "zh": "1957年10月4日，从拜科努尔发射的R-7火箭将世界上第一颗人造卫星斯普特尼克1号送入轨道。这次发射震惊世界，开启了苏美之间的太空竞赛。哈萨克草原由此成为太空时代的起点。",
+    "ja": "1957年10月4日、バイコヌールから打ち上げられたR-7ロケットが世界初の人工衛星スプートニク1号を軌道に乗せた。この打ち上げは世界を驚かせ、ソ連とアメリカの宇宙開発競争の幕を開けた。こうしてカザフ草原は宇宙時代の出発点となった。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Aral Sea begins to shrink",
+    "ko": "아랄해의 축소 시작",
+    "zh": "咸海开始萎缩",
+    "ja": "アラル海の縮小が始まる"
+   },
+   "description": {
+    "en": "From the 1960s Soviet planners diverted ever more water from the Amu Darya and Syr Darya to irrigate cotton and rice fields in Central Asia. Deprived of inflow, the Aral Sea, once the world's fourth-largest lake, began to shrink rapidly, and by the late 1980s it had split into northern and southern parts. Fishing towns such as Aralsk were left far from the shore, and salt and dust storms damaged the health of the region's people.",
+    "ko": "1960년대부터 소련의 계획 당국은 중앙아시아의 면화와 쌀 재배를 위해 아무다리야와 시르다리야의 물을 점점 더 많이 관개용으로 돌렸다. 유입수를 잃은 아랄해는 한때 세계에서 네 번째로 큰 호수였으나 빠르게 줄어들기 시작했고, 1980년대 말에는 남북 두 부분으로 갈라졌다. 아랄스크 같은 어업 도시는 호숫가에서 멀리 떨어지게 되었고, 소금과 모래 폭풍은 지역 주민의 건강을 해쳤다.",
+    "zh": "从1960年代起，苏联计划部门从阿姆河和锡尔河引走越来越多的水，用于灌溉中亚的棉田和稻田。失去来水的咸海曾是世界第四大湖，此后迅速萎缩，到1980年代末分裂为南北两部分。阿拉尔斯克等渔业城镇远离了湖岸，盐尘暴损害了当地居民的健康。",
+    "ja": "1960年代から、ソ連の計画当局は中央アジアの綿花と稲作の灌漑のため、アムダリヤとシルダリヤからますます多くの水を引いた。流入を失ったアラル海は、かつて世界第4位の大きさの湖だったが急速に縮小し始め、1980年代末には南北に分かれた。アラリスクなどの漁業の町は湖岸から遠く取り残され、塩と砂の嵐は地域の人々の健康を損なった。"
+   }
+  },
+  {
+   "year": 1961,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Gagarin launches from Baikonur",
+    "ko": "바이코누르에서 가가린 우주로",
+    "zh": "加加林从拜科努尔升空",
+    "ja": "ガガーリン、バイコヌールから宇宙へ"
+   },
+   "description": {
+    "en": "On 12 April 1961 Yuri Gagarin lifted off from the Baikonur Cosmodrome aboard Vostok 1, becoming the first human in space; he landed in the Saratov region of Russia after one orbit of the Earth. His launch pad, known as 'Gagarin's Start', was used for crewed launches for decades. Baikonur remains the world's oldest and one of its busiest spaceports.",
+    "ko": "1961년 4월 12일 유리 가가린은 보스토크 1호를 타고 바이코누르 우주기지에서 이륙해 인류 최초로 우주에 나갔으며, 지구를 한 바퀴 돈 뒤 러시아 사라토프 지역에 착륙했다. '가가린의 출발점'으로 불린 그의 발사대는 수십 년 동안 유인 발사에 쓰였다. 바이코누르는 지금도 세계에서 가장 오래되었고 가장 활발한 우주기지 가운데 하나다.",
+    "zh": "1961年4月12日，尤里·加加林乘坐东方1号从拜科努尔航天发射场升空，成为第一个进入太空的人类；他绕地球一圈后降落在俄罗斯萨拉托夫地区。被称为“加加林发射台”的发射工位此后数十年一直用于载人发射。拜科努尔至今仍是世界上最古老、最繁忙的航天发射场之一。",
+    "ja": "1961年4月12日、ユーリイ・ガガーリンはボストーク1号でバイコヌール宇宙基地から飛び立ち、人類初の宇宙飛行士となり、地球を一周した後ロシアのサラトフ地方に着陸した。「ガガーリンの発射台」と呼ばれた彼の発射台は、数十年にわたり有人打ち上げに使われた。バイコヌールは今も世界最古で、最も活発な宇宙基地の一つである。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Dinmukhamed Kunaev leads Soviet Kazakhstan",
+    "ko": "디무하메드 쿠나예프의 장기 집권",
+    "zh": "库纳耶夫主政苏维埃哈萨克斯坦",
+    "ja": "クナーエフがソビエト・カザフスタンを率いる"
+   },
+   "description": {
+    "en": "In 1964 Dinmukhamed Kunaev, a close ally of Leonid Brezhnev, returned as First Secretary of the Communist Party of Kazakhstan, a post he held until 1986. His long tenure brought industrial growth, the expansion of Alma-Ata and greater Kazakh representation in the republic's leadership. It was later criticised for stagnation, patronage networks and corruption.",
+    "ko": "1964년 레오니트 브레즈네프의 측근인 디무하메드 쿠나예프는 카자흐스탄 공산당 제1서기에 복귀해 1986년까지 그 자리를 지켰다. 그의 오랜 재임 기간에 공업이 성장하고 알마아타가 확장되었으며, 공화국 지도부에서 카자흐인의 비중이 커졌다. 그러나 훗날 이 시기는 침체와 연고주의, 부패로 비판받았다.",
+    "zh": "1964年，勃列日涅夫的亲密盟友丁穆罕默德·库纳耶夫重新出任哈萨克斯坦共产党第一书记，任职至1986年。在他漫长的任期内，工业得到发展，阿拉木图不断扩建，哈萨克人在共和国领导层中的比例提高。但这一时期后来因停滞、裙带网络和腐败而受到批评。",
+    "ja": "1964年、レオニード・ブレジネフの盟友ディンムハメド・クナーエフはカザフスタン共産党第一書記に復帰し、1986年までその職にあった。彼の長い在任期間には工業が成長し、アルマ・アタが拡大し、共和国指導部におけるカザフ人の比重が高まった。しかし後にこの時代は停滞、縁故主義、汚職によって批判された。"
+   }
+  },
+  {
+   "year": 1986,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Zheltoqsan protests in Almaty",
+    "ko": "알마티 젤톡산 항쟁",
+    "zh": "阿拉木图“十二月事件”",
+    "ja": "アルマトイの「ジェルトクサン」抗議"
+   },
+   "description": {
+    "en": "In December 1986 Mikhail Gorbachev replaced Kunaev with Gennady Kolbin, an ethnic Russian with no ties to Kazakhstan. Thousands of young Kazakhs, many of them students, gathered in Alma-Ata's central square in protest on 17–18 December and were dispersed by force, with deaths, injuries and mass arrests; casualty figures remain disputed. Known as Zheltoqsan ('December'), the events are remembered as an early milestone on the road to independence.",
+    "ko": "1986년 12월 미하일 고르바초프는 쿠나예프를 카자흐스탄과 연고가 없는 러시아인 겐나디 콜빈으로 교체했다. 12월 17~18일 학생을 중심으로 한 수천 명의 젊은 카자흐인이 알마아타 중앙 광장에 모여 항의했으나 무력으로 해산되었고, 사망자와 부상자, 대량 체포가 발생했다. 사상자 수는 여전히 논란이 있다. '젤톡산(12월)'으로 불리는 이 사건은 독립으로 가는 길의 초기 이정표로 기억된다.",
+    "zh": "1986年12月，戈尔巴乔夫以与哈萨克斯坦毫无渊源的俄罗斯族人根纳季·科尔宾取代库纳耶夫。12月17日至18日，数千名以学生为主的哈萨克青年聚集在阿拉木图中心广场抗议，遭到武力驱散，造成人员死伤和大规模逮捕，伤亡人数至今仍有争议。这一被称为“热尔托克桑”（“十二月”）的事件被视为走向独立道路上的早期里程碑。",
+    "ja": "1986年12月、ミハイル・ゴルバチョフはクナーエフを解任し、カザフスタンと縁のないロシア人ゲンナジー・コルビンを後任に据えた。12月17～18日、学生を中心とする数千人の若いカザフ人がアルマ・アタの中央広場に集まって抗議したが、武力で解散させられ、死傷者と大量逮捕が出た。死傷者数は今も議論がある。「ジェルトクサン（12月）」と呼ばれるこの出来事は、独立への道の初期の道標として記憶されている。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Nevada-Semipalatinsk movement",
+    "ko": "네바다-세미팔라틴스크 운동",
+    "zh": "“内华达—塞米巴拉金斯克”运动",
+    "ja": "ネバダ・セミパラチンスク運動"
+   },
+   "description": {
+    "en": "In February 1989 the poet Olzhas Suleimenov founded the Nevada-Semipalatinsk anti-nuclear movement, named to link Soviet and American test sites. It quickly gathered mass support and became one of the first large independent civic movements in the USSR. Its campaign led to the end of testing at Semipalatinsk; the same year Nursultan Nazarbayev became First Secretary of the Communist Party of Kazakhstan.",
+    "ko": "1989년 2월 시인 올자스 술레이메노프는 소련과 미국의 핵실험장을 함께 일컫는 이름의 반핵 운동 '네바다-세미팔라틴스크'를 창립했다. 이 운동은 빠르게 대중의 지지를 얻어 소련 최초의 대규모 독립 시민운동 가운데 하나가 되었다. 운동의 활동은 세미팔라틴스크 핵실험 중단으로 이어졌으며, 같은 해 누르술탄 나자르바예프가 카자흐스탄 공산당 제1서기가 되었다.",
+    "zh": "1989年2月，诗人奥尔扎斯·苏莱曼诺夫创立反核运动“内华达—塞米巴拉金斯克”，其名称把苏联和美国的核试验场联系在一起。该运动迅速获得广泛支持，成为苏联最早的大规模独立公民运动之一。它的抗争促使塞米巴拉金斯克停止核试验；同年，努尔苏丹·纳扎尔巴耶夫出任哈萨克斯坦共产党第一书记。",
+    "ja": "1989年2月、詩人オルジャス・スレイメノフは、ソ連とアメリカの核実験場を結びつけた名をもつ反核運動「ネバダ・セミパラチンスク」を創設した。運動はたちまち大衆の支持を集め、ソ連で最初の大規模な独立市民運動の一つとなった。その活動はセミパラチンスクでの核実験の終結につながり、同じ年にヌルスルタン・ナザルバエフがカザフスタン共産党第一書記となった。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q104846359",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nazarbayev becomes president; declaration of sovereignty",
+    "ko": "나자르바예프 대통령 선출과 주권 선언",
+    "zh": "纳扎尔巴耶夫当选总统与主权宣言",
+    "ja": "ナザルバエフ大統領就任と主権宣言"
+   },
+   "description": {
+    "en": "In April 1990 the Supreme Soviet of the Kazakh SSR elected Nursultan Nazarbayev as the republic's first president. On 25 October 1990 it adopted a Declaration of State Sovereignty asserting the primacy of republican laws and control over natural resources. Kazakhstan nonetheless supported preserving a reformed Soviet Union until its collapse in late 1991.",
+    "ko": "1990년 4월 카자흐 소비에트 사회주의 공화국 최고 소비에트는 누르술탄 나자르바예프를 공화국 초대 대통령으로 선출했다. 1990년 10월 25일에는 공화국 법률의 우선성과 천연자원에 대한 통제권을 내세운 국가 주권 선언을 채택했다. 그럼에도 카자흐스탄은 1991년 말 소련이 붕괴할 때까지 개혁된 연방의 유지를 지지했다.",
+    "zh": "1990年4月，哈萨克苏维埃社会主义共和国最高苏维埃选举努尔苏丹·纳扎尔巴耶夫为共和国首任总统。1990年10月25日，最高苏维埃通过《国家主权宣言》，宣布共和国法律优先并掌控自然资源。尽管如此，哈萨克斯坦仍支持保留改革后的苏联，直至1991年底苏联解体。",
+    "ja": "1990年4月、カザフ・ソビエト社会主義共和国最高会議はヌルスルタン・ナザルバエフを共和国初代大統領に選出した。1990年10月25日には、共和国法の優位と天然資源の管理権をうたう国家主権宣言を採択した。それでもカザフスタンは、1991年末のソ連崩壊まで改革された連邦の維持を支持した。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Semipalatinsk Test Site closed",
+    "ko": "세미팔라틴스크 핵실험장 폐쇄",
+    "zh": "塞米巴拉金斯克核试验场关闭",
+    "ja": "セミパラチンスク核実験場の閉鎖"
+   },
+   "description": {
+    "en": "On 29 August 1991, exactly 42 years after the first Soviet nuclear test, President Nazarbayev signed a decree closing the Semipalatinsk Test Site. The decision responded to years of protest by the Nevada-Semipalatinsk movement and came just after the failed August coup in Moscow. The United Nations later declared 29 August the International Day against Nuclear Tests.",
+    "ko": "첫 소련 핵실험이 있은 지 정확히 42년 뒤인 1991년 8월 29일, 나자르바예프 대통령은 세미팔라틴스크 핵실험장을 폐쇄하는 법령에 서명했다. 이 결정은 네바다-세미팔라틴스크 운동의 수년에 걸친 항의에 대한 응답이었으며, 모스크바의 8월 쿠데타가 실패한 직후에 내려졌다. 국제연합은 훗날 8월 29일을 '핵실험 반대의 날'로 지정했다.",
+    "zh": "1991年8月29日，即苏联首次核试验整整42年后，纳扎尔巴耶夫总统签署命令关闭塞米巴拉金斯克核试验场。这一决定回应了“内华达—塞米巴拉金斯克”运动多年的抗议，并恰在莫斯科八月政变失败之后作出。联合国后来将8月29日定为“禁止核试验国际日”。",
+    "ja": "ソ連初の核実験からちょうど42年後の1991年8月29日、ナザルバエフ大統領はセミパラチンスク核実験場を閉鎖する大統領令に署名した。この決定はネバダ・セミパラチンスク運動の長年の抗議に応えたもので、モスクワの8月クーデター失敗の直後に下された。国際連合はのちに8月29日を「核実験に反対する国際デー」と定めた。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q3700312",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First popular presidential election",
+    "ko": "첫 직선 대통령 선거",
+    "zh": "首次全民总统选举",
+    "ja": "初の大統領直接選挙"
+   },
+   "description": {
+    "en": "On 1 December 1991 Kazakhstan held its first popular presidential election, in which Nursultan Nazarbayev ran unopposed and received about 98% of the vote according to official results. The election took place as the Soviet Union was disintegrating, a week before the Belovezha Accords. It gave Nazarbayev a popular mandate as he led the republic to independence.",
+    "ko": "1991년 12월 1일 카자흐스탄은 첫 대통령 직선 선거를 치렀고, 단독 출마한 누르술탄 나자르바예프가 공식 결과로 약 98%의 표를 얻었다. 선거는 소련이 해체되어 가던 시기, 벨라베자 협정 일주일 전에 치러졌다. 이 선거로 나자르바예프는 공화국을 독립으로 이끌 대중적 위임을 얻었다.",
+    "zh": "1991年12月1日，哈萨克斯坦举行首次全民总统选举，努尔苏丹·纳扎尔巴耶夫作为唯一候选人，据官方结果获得约98%的选票。选举是在苏联解体之际、《别洛韦日协定》签署前一周举行的。这次选举使纳扎尔巴耶夫获得了带领共和国走向独立的民意授权。",
+    "ja": "1991年12月1日、カザフスタンは初の大統領直接選挙を実施し、唯一の候補者であったヌルスルタン・ナザルバエフが公式結果で約98％の票を得た。選挙はソ連が解体しつつある中、ベロヴェーシ合意の1週間前に行われた。この選挙でナザルバエフは、共和国を独立へ導くための民意の付託を得た。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence of Kazakhstan",
+    "ko": "카자흐스탄 독립",
+    "zh": "哈萨克斯坦独立",
+    "ja": "カザフスタン独立"
+   },
+   "description": {
+    "en": "On 16 December 1991 the Supreme Soviet adopted the law on state independence, making Kazakhstan the last Soviet republic to declare independence; the date coincided with the anniversary of the Zheltoqsan protests. On 21 December Alma-Ata hosted the meeting at which eleven republics signed the protocol establishing the Commonwealth of Independent States. The new state inherited the world's fourth-largest nuclear arsenal, which it later renounced.",
+    "ko": "1991년 12월 16일 최고 소비에트는 국가 독립법을 채택했고, 카자흐스탄은 소련 공화국 가운데 마지막으로 독립을 선언했다. 이날은 젤톡산 항쟁 기념일과 겹쳤다. 12월 21일 알마아타에서는 11개 공화국이 독립국가연합 창설 의정서에 서명한 회의가 열렸다. 새 국가는 세계 네 번째 규모의 핵무기를 물려받았으나 훗날 이를 포기했다.",
+    "zh": "1991年12月16日，最高苏维埃通过国家独立法，哈萨克斯坦成为最后一个宣布独立的苏联加盟共和国；这一天恰逢“十二月事件”周年。12月21日，十一个共和国在阿拉木图签署了建立独立国家联合体的议定书。新国家继承了世界第四大核武库，后来放弃了这些核武器。",
+    "ja": "1991年12月16日、最高会議は国家独立法を採択し、カザフスタンはソ連の共和国の中で最後に独立を宣言した。この日はジェルトクサン事件の記念日と重なっていた。12月21日にはアルマ・アタで、11の共和国が独立国家共同体の設立議定書に署名した会議が開かれた。新国家は世界第4位の規模の核兵器を受け継いだが、のちにそれを放棄した。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": "Q302045",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Kazakhstan joins the United Nations",
+    "ko": "카자흐스탄의 국제연합 가입",
+    "zh": "哈萨克斯坦加入联合国",
+    "ja": "カザフスタンが国連に加盟"
+   },
+   "description": {
+    "en": "On 2 March 1992 Kazakhstan was admitted to the United Nations, along with several other post-Soviet states. In the same year it established diplomatic relations with dozens of countries and signed the Lisbon Protocol, committing it to join the Nuclear Non-Proliferation Treaty as a non-nuclear state. These steps laid the foundations of a 'multi-vector' foreign policy balancing Russia, China, the West and the Muslim world.",
+    "ko": "1992년 3월 2일 카자흐스탄은 다른 몇몇 옛 소련 국가들과 함께 국제연합에 가입했다. 같은 해 수십 개국과 외교 관계를 맺고, 비핵 국가로서 핵확산금지조약에 가입하기로 약속하는 리스본 의정서에 서명했다. 이러한 조치는 러시아·중국·서방·이슬람 세계 사이에서 균형을 잡는 '다방향' 외교의 토대가 되었다.",
+    "zh": "1992年3月2日，哈萨克斯坦与其他几个后苏联国家一同加入联合国。同年，它与数十个国家建立外交关系，并签署《里斯本议定书》，承诺以无核国家身份加入《不扩散核武器条约》。这些举措奠定了在俄罗斯、中国、西方和伊斯兰世界之间寻求平衡的“多元”外交政策的基础。",
+    "ja": "1992年3月2日、カザフスタンは他のいくつかの旧ソ連諸国とともに国際連合に加盟した。同じ年に数十か国と外交関係を樹立し、非核兵器国として核拡散防止条約に加盟することを約束するリスボン議定書に署名した。これらの措置は、ロシア・中国・西側・イスラーム世界の間で均衡をとる「多方位」外交の土台となった。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Introduction of the tenge",
+    "ko": "텡게 도입",
+    "zh": "发行坚戈",
+    "ja": "テンゲの導入"
+   },
+   "description": {
+    "en": "On 15 November 1993 Kazakhstan introduced its own national currency, the tenge, replacing the Russian ruble after the collapse of the ruble zone. The early years were marked by very high inflation, deep economic contraction and mass emigration of Russians, Germans and other groups. Market reforms and privatisation followed in the mid-1990s.",
+    "ko": "1993년 11월 15일 카자흐스탄은 루블 경제권이 무너진 뒤 러시아 루블을 대신할 자국 통화 텡게를 도입했다. 초기 몇 년은 매우 높은 인플레이션과 심각한 경기 위축, 그리고 러시아인·독일인 등의 대규모 해외 이주로 특징지어졌다. 1990년대 중반에는 시장 개혁과 민영화가 뒤따랐다.",
+    "zh": "1993年11月15日，在卢布区瓦解后，哈萨克斯坦发行本国货币坚戈，取代俄罗斯卢布。最初几年的特点是极高的通货膨胀、严重的经济萎缩，以及俄罗斯人、德意志人等群体的大规模移民出境。1990年代中期，市场改革和私有化随之推进。",
+    "ja": "1993年11月15日、ルーブル圏の崩壊を受けて、カザフスタンはロシア・ルーブルに代わる自国通貨テンゲを導入した。最初の数年間は、非常に高いインフレ、深刻な経済の縮小、そしてロシア人やドイツ人などの大規模な国外移住に特徴づけられた。1990年代半ばには市場改革と民営化が続いた。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": "Q3661086",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Referendum extends Nazarbayev's term",
+    "ko": "나자르바예프 임기 연장 국민투표",
+    "zh": "延长纳扎尔巴耶夫任期的全民公投",
+    "ja": "ナザルバエフの任期延長の国民投票"
+   },
+   "description": {
+    "en": "In April 1995, after the dissolution of parliament the previous month, a referendum extended President Nazarbayev's term until 2000 without an election. According to official results it was approved by an overwhelming majority. Critics saw it as a step toward personalised presidential rule.",
+    "ko": "1995년 4월 전달에 의회가 해산된 뒤 실시된 국민투표는 선거 없이 나자르바예프 대통령의 임기를 2000년까지 연장했다. 공식 결과에 따르면 압도적 다수가 찬성했다. 비판자들은 이를 개인화된 대통령 통치로 가는 한 걸음으로 보았다.",
+    "zh": "1995年4月，在前一个月议会被解散之后，一次全民公投在不举行选举的情况下将纳扎尔巴耶夫总统的任期延长至2000年。官方结果显示以压倒性多数获得通过。批评者认为这是走向个人化总统统治的一步。",
+    "ja": "1995年4月、前月に議会が解散された後に行われた国民投票は、選挙を経ずにナザルバエフ大統領の任期を2000年まで延長した。公式結果では圧倒的多数が賛成した。批判者はこれを個人化した大統領支配への一歩とみなした。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": "Q3660689",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "New constitution adopted",
+    "ko": "새 헌법 채택",
+    "zh": "通过新宪法",
+    "ja": "新憲法の採択"
+   },
+   "description": {
+    "en": "On 30 August 1995 a referendum approved Kazakhstan's current constitution, replacing that of 1993. It established a presidential republic with a strong executive and a bicameral parliament, and defined Kazakhstan as a democratic, secular, legal and social state. 30 August became Constitution Day; the same year the last nuclear warheads were removed from Kazakh territory.",
+    "ko": "1995년 8월 30일 국민투표로 1993년 헌법을 대신하는 현행 카자흐스탄 헌법이 승인되었다. 헌법은 강력한 행정부와 양원제 의회를 갖춘 대통령제 공화국을 수립하고, 카자흐스탄을 민주적·세속적·법치적·사회적 국가로 규정했다. 8월 30일은 헌법의 날이 되었으며, 같은 해 마지막 핵탄두가 카자흐스탄 영토에서 반출되었다.",
+    "zh": "1995年8月30日，全民公投通过了取代1993年宪法的哈萨克斯坦现行宪法。宪法确立了拥有强大行政权和两院制议会的总统制共和国，并将哈萨克斯坦定义为民主、世俗、法治和社会国家。8月30日成为宪法日；同年，最后一批核弹头被运出哈萨克斯坦领土。",
+    "ja": "1995年8月30日、国民投票で1993年憲法に代わる現行のカザフスタン憲法が承認された。憲法は強力な行政府と二院制議会をもつ大統領制共和国を定め、カザフスタンを民主的・世俗的・法治的・社会的国家と規定した。8月30日は憲法記念日となり、同じ年には最後の核弾頭がカザフスタン領内から撤去された。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Capital moved to Astana",
+    "ko": "수도 아스타나 이전",
+    "zh": "迁都阿斯塔纳",
+    "ja": "首都アスタナへの遷都"
+   },
+   "description": {
+    "en": "On 10 December 1997 the capital was officially transferred from Almaty to Akmola in the north-central steppe, which was renamed Astana ('capital') in 1998. Reasons cited included Almaty's seismic risk and limited room for growth, as well as the aim of strengthening the state's presence in the more Russian-populated north. The purpose-built city, with buildings by architects such as Kisho Kurokawa and Norman Foster, became a showcase of the new state's ambitions.",
+    "ko": "1997년 12월 10일 수도는 공식적으로 알마티에서 중북부 초원의 아크몰라로 옮겨졌고, 아크몰라는 1998년 '수도'라는 뜻의 아스타나로 이름이 바뀌었다. 알마티의 지진 위험과 확장 공간 부족, 그리고 러시아인이 많이 사는 북부에서 국가의 존재감을 강화하려는 목적 등이 이유로 거론되었다. 구로카와 기쇼와 노먼 포스터 같은 건축가의 건물이 들어선 이 계획도시는 신생 국가의 야망을 보여 주는 상징이 되었다.",
+    "zh": "1997年12月10日，首都正式从阿拉木图迁至中北部草原的阿克莫拉，该城于1998年更名为阿斯塔纳（意为“首都”）。所列理由包括阿拉木图的地震风险和发展空间有限，以及加强国家在俄罗斯族居民较多的北部的存在。这座由黑川纪章、诺曼·福斯特等建筑师参与设计的新城，成为新国家雄心的象征。",
+    "ja": "1997年12月10日、首都は正式にアルマトイから中北部の草原にあるアクモラへ移され、アクモラは1998年に「首都」を意味するアスタナと改名された。理由として、アルマトイの地震リスクと拡張余地の乏しさ、そしてロシア系住民の多い北部で国家の存在感を高める狙いなどが挙げられた。黒川紀章やノーマン・フォスターらの建築が並ぶこの計画都市は、新国家の野心の象徴となった。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Discovery of the Kashagan oil field",
+    "ko": "카샤간 유전 발견",
+    "zh": "发现卡沙甘油田",
+    "ja": "カシャガン油田の発見"
+   },
+   "description": {
+    "en": "In 2000 an international consortium discovered the Kashagan field in the northern Caspian Sea, one of the largest oil discoveries of recent decades. Together with Tengiz and Karachaganak and the Caspian Pipeline Consortium line to the Black Sea, which began operating in 2001, it underpinned an oil boom that brought rapid economic growth in the 2000s. Technical problems delayed commercial production at Kashagan until 2016.",
+    "ko": "2000년 국제 컨소시엄이 카스피해 북부에서 최근 수십 년 사이 가장 큰 석유 발견 가운데 하나인 카샤간 유전을 발견했다. 텡기즈·카라차가나크 유전, 그리고 2001년 가동을 시작한 흑해행 카스피 파이프라인 컨소시엄 송유관과 함께, 이는 2000년대 급속한 경제 성장을 가져온 석유 붐의 토대가 되었다. 기술적 문제로 카샤간의 상업 생산은 2016년까지 늦어졌다.",
+    "zh": "2000年，一个国际财团在里海北部发现了卡沙甘油田，这是近几十年来最大的石油发现之一。它与田吉兹、卡拉恰甘纳克油田以及2001年投入运营、通往黑海的里海管道财团输油管一起，支撑了2000年代带来经济高速增长的石油繁荣。由于技术问题，卡沙甘的商业生产推迟到2016年才开始。",
+    "ja": "2000年、国際コンソーシアムはカスピ海北部で、ここ数十年で最大級の石油発見の一つであるカシャガン油田を発見した。テンギズ油田やカラチャガナク油田、2001年に稼働を始めた黒海向けのカスピ海パイプライン・コンソーシアムの送油管とともに、これは2000年代の急速な経済成長をもたらした石油ブームを支えた。技術的問題により、カシャガンの商業生産は2016年まで遅れた。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Kok-Aral Dam saves the North Aral Sea",
+    "ko": "코크아랄 댐과 북아랄해의 회복",
+    "zh": "科克阿拉尔大坝挽救北咸海",
+    "ja": "コクアラル・ダムが北アラル海を救う"
+   },
+   "description": {
+    "en": "In 2005 Kazakhstan completed the Kok-Aral Dam, built with World Bank support, separating the northern part of the Aral Sea from the drying southern basin. Water from the Syr Darya raised the level of the North Aral Sea faster than expected, reducing salinity and allowing fish stocks to recover. The project became a rare partial success story in the Aral Sea disaster.",
+    "ko": "2005년 카자흐스탄은 세계은행의 지원으로 코크아랄 댐을 완공해 아랄해 북부를 말라 가는 남부 분지와 분리했다. 시르다리야의 물이 북아랄해의 수위를 예상보다 빨리 끌어올려 염분이 낮아졌고 어족 자원이 회복되었다. 이 사업은 아랄해 재앙 속에서 보기 드문 부분적 성공 사례가 되었다.",
+    "zh": "2005年，哈萨克斯坦在世界银行支持下建成科克阿拉尔大坝，将咸海北部与日益干涸的南部湖盆隔开。锡尔河来水使北咸海水位上升得比预期更快，盐度下降，鱼类资源得以恢复。该项目成为咸海灾难中难得的部分成功案例。",
+    "ja": "2005年、カザフスタンは世界銀行の支援を受けてコクアラル・ダムを完成させ、アラル海の北部を干上がりつつある南部の湖盆から切り離した。シルダリヤの水は北アラル海の水位を予想以上に早く引き上げ、塩分濃度が下がって魚の資源が回復した。この事業はアラル海の惨事の中でまれな部分的成功例となった。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": "Q1571840",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Kyzyl-Agash dam failure",
+    "ko": "크즐아가시 댐 붕괴",
+    "zh": "克孜勒阿加什水坝溃决",
+    "ja": "クズルアガシュ・ダム決壊"
+   },
+   "description": {
+    "en": "In March 2010 the earthen Kyzyl-Agash dam in Almaty Region gave way after heavy snowmelt, flooding the village of Kyzyl-Agash downstream. Dozens of people were killed and much of the village was destroyed. Officials responsible for the dam's maintenance were later convicted, and the disaster prompted inspections of ageing Soviet-era reservoirs.",
+    "ko": "2010년 3월 알마티주의 흙댐인 크즐아가시 댐이 많은 눈 녹은 물로 무너져 하류의 크즐아가시 마을을 덮쳤다. 수십 명이 숨지고 마을의 상당 부분이 파괴되었다. 댐 관리 책임자들은 훗날 유죄 판결을 받았고, 이 재해를 계기로 노후한 소련 시대 저수지에 대한 점검이 이루어졌다.",
+    "zh": "2010年3月，阿拉木图州的土坝克孜勒阿加什水坝因大量融雪而溃决，洪水冲向下游的克孜勒阿加什村。数十人遇难，村庄大部被毁。负责水坝维护的官员后来被定罪，这场灾难也促使当局检查老化的苏联时期水库。",
+    "ja": "2010年3月、アルマトイ州の土堰堤クズルアガシュ・ダムが大量の雪解け水で決壊し、下流のクズルアガシュ村を襲った。数十人が死亡し、村の大部分が破壊された。ダムの管理責任者はのちに有罪判決を受け、この災害を機に老朽化したソ連時代の貯水池の点検が行われた。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "OSCE chairmanship and Astana Summit",
+    "ko": "유럽안보협력기구 의장국과 아스타나 정상회의",
+    "zh": "担任欧安组织主席国与阿斯塔纳峰会",
+    "ja": "OSCE議長国とアスタナ首脳会議"
+   },
+   "description": {
+    "en": "In 2010 Kazakhstan became the first post-Soviet Central Asian state to chair the Organization for Security and Co-operation in Europe, and in December it hosted the first OSCE summit in eleven years in Astana. The summit adopted the Astana Commemorative Declaration. Human rights groups criticised the choice of chair given Kazakhstan's own record on political freedoms.",
+    "ko": "2010년 카자흐스탄은 옛 소련 중앙아시아 국가로서는 처음으로 유럽안보협력기구(OSCE) 의장국을 맡았고, 12월에는 아스타나에서 11년 만의 OSCE 정상회의를 개최했다. 회의에서는 아스타나 기념 선언이 채택되었다. 인권 단체들은 카자흐스탄 자신의 정치적 자유 상황을 들어 의장국 선정을 비판했다.",
+    "zh": "2010年，哈萨克斯坦成为首个担任欧洲安全与合作组织主席国的后苏联中亚国家，并于12月在阿斯塔纳主办了十一年来的首次欧安组织峰会。峰会通过了《阿斯塔纳纪念宣言》。人权组织鉴于哈萨克斯坦自身的政治自由状况，对其出任主席国提出了批评。",
+    "ja": "2010年、カザフスタンは旧ソ連の中央アジア諸国として初めて欧州安全保障協力機構（OSCE）の議長国を務め、12月にはアスタナで11年ぶりのOSCE首脳会議を開催した。会議ではアスタナ記念宣言が採択された。人権団体は、カザフスタン自身の政治的自由の状況を理由に議長国の選出を批判した。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q1087721",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Zhanaozen massacre",
+    "ko": "자나오젠 사건",
+    "zh": "扎瑙津事件",
+    "ja": "ジャナオゼン事件"
+   },
+   "description": {
+    "en": "After months of strikes by oil workers demanding higher pay in the western town of Zhanaozen, clashes broke out on 16 December 2011, Independence Day, and police opened fire on protesters. According to official figures at least 14 people were killed and many wounded, and a state of emergency was declared. The events were the deadliest unrest in independent Kazakhstan until 2022 and led to trials of both workers and police officers.",
+    "ko": "서부 도시 자나오젠에서 임금 인상을 요구하는 석유 노동자들의 파업이 몇 달간 이어진 끝에, 독립기념일인 2011년 12월 16일 충돌이 일어나 경찰이 시위대에 발포했다. 공식 집계로 최소 14명이 숨지고 많은 사람이 다쳤으며 비상사태가 선포되었다. 이 사건은 2022년까지 독립 카자흐스탄에서 가장 많은 사망자를 낸 소요였으며, 노동자와 경찰관 모두 재판을 받았다.",
+    "zh": "西部城市扎瑙津的石油工人为要求加薪罢工数月后，2011年12月16日独立日当天爆发冲突，警察向抗议者开枪。据官方统计，至少14人死亡、多人受伤，当局宣布紧急状态。这是2022年之前独立后的哈萨克斯坦死亡人数最多的骚乱，事后工人和警察都受到审判。",
+    "ja": "西部の町ジャナオゼンで賃上げを求める石油労働者のストライキが数か月続いた末、独立記念日の2011年12月16日に衝突が起き、警察がデモ参加者に発砲した。公式発表で少なくとも14人が死亡し、多数が負傷して非常事態が宣言された。この事件は2022年まで独立カザフスタンで最も多くの死者を出した騒乱であり、労働者と警察官の双方が裁判にかけられた。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Eurasian Economic Union treaty signed in Astana",
+    "ko": "아스타나에서 유라시아 경제연합 조약 서명",
+    "zh": "《欧亚经济联盟条约》在阿斯塔纳签署",
+    "ja": "アスタナでユーラシア経済連合条約に調印"
+   },
+   "description": {
+    "en": "On 29 May 2014 the presidents of Kazakhstan, Russia and Belarus signed the Treaty on the Eurasian Economic Union in Astana, building on a customs union launched in 2010. The union, which came into force on 1 January 2015 and was soon joined by Armenia and Kyrgyzstan, created a common market for goods, services, capital and labour. Nazarbayev had first proposed a Eurasian union in 1994.",
+    "ko": "2014년 5월 29일 카자흐스탄·러시아·벨라루스 대통령은 2010년 출범한 관세동맹을 바탕으로 아스타나에서 유라시아 경제연합 조약에 서명했다. 2015년 1월 1일 발효되고 곧 아르메니아와 키르기스스탄이 가입한 이 연합은 상품·서비스·자본·노동의 공동 시장을 만들었다. 나자르바예프는 1994년에 처음으로 유라시아 연합을 제안한 바 있다.",
+    "zh": "2014年5月29日，哈萨克斯坦、俄罗斯和白俄罗斯三国总统在2010年启动的关税同盟基础上，在阿斯塔纳签署《欧亚经济联盟条约》。联盟于2015年1月1日生效，亚美尼亚和吉尔吉斯斯坦随后加入，建立了商品、服务、资本和劳动力的共同市场。纳扎尔巴耶夫早在1994年就首次提出了欧亚联盟的构想。",
+    "ja": "2014年5月29日、カザフスタン、ロシア、ベラルーシの大統領は、2010年に発足した関税同盟を基礎として、アスタナでユーラシア経済連合条約に調印した。2015年1月1日に発効し、まもなくアルメニアとキルギスが加わったこの連合は、商品・サービス・資本・労働の共同市場をつくった。ナザルバエフは1994年に初めてユーラシア連合を提唱していた。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Kazakhstan joins the WTO",
+    "ko": "카자흐스탄의 세계무역기구 가입",
+    "zh": "哈萨克斯坦加入世界贸易组织",
+    "ja": "カザフスタンがWTOに加盟"
+   },
+   "description": {
+    "en": "On 30 November 2015 Kazakhstan became a member of the World Trade Organization after nearly two decades of negotiations. Membership required lowering many tariffs and reconciling its obligations with those of the Eurasian Economic Union. The same period saw a sharp fall in oil prices and a large devaluation of the tenge after it was allowed to float in August 2015.",
+    "ko": "2015년 11월 30일 카자흐스탄은 거의 20년에 걸친 협상 끝에 세계무역기구(WTO) 회원국이 되었다. 가입을 위해 많은 관세를 낮추고 유라시아 경제연합의 의무와 조율해야 했다. 같은 시기 유가가 급락했고, 2015년 8월 변동환율제로 전환한 뒤 텡게는 크게 평가절하되었다.",
+    "zh": "2015年11月30日，经过近二十年的谈判，哈萨克斯坦成为世界贸易组织成员。入世要求它下调许多关税，并协调与欧亚经济联盟义务之间的关系。同一时期油价暴跌，坚戈在2015年8月实行自由浮动后大幅贬值。",
+    "ja": "2015年11月30日、カザフスタンは20年近い交渉の末に世界貿易機関（WTO）の加盟国となった。加盟には多くの関税の引き下げと、ユーラシア経済連合の義務との調整が必要だった。同じ時期に原油価格が急落し、2015年8月に変動相場制に移行したテンゲは大きく切り下がった。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q23978207",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Land reform protests",
+    "ko": "토지 개혁 반대 시위",
+    "zh": "反对土地改革的抗议",
+    "ja": "土地改革反対デモ"
+   },
+   "description": {
+    "en": "In April and May 2016 rare protests broke out in several cities against amendments to the Land Code that would have allowed long-term leasing of agricultural land to foreigners, amid fears of Chinese land acquisition. The government responded with arrests but also imposed a moratorium on the changes. The episode showed the sensitivity of land issues in Kazakh society.",
+    "ko": "2016년 4~5월 외국인에게 농지를 장기 임대할 수 있도록 한 토지법 개정에 반대해 여러 도시에서 보기 드문 시위가 일어났으며, 그 배경에는 중국의 토지 취득에 대한 우려가 있었다. 정부는 체포로 대응하는 한편 개정안 시행을 유예했다. 이 사건은 카자흐 사회에서 토지 문제가 얼마나 민감한지를 보여 주었다.",
+    "zh": "2016年4月至5月，多个城市罕见地爆发抗议，反对允许外国人长期租赁农业用地的《土地法》修正案，背景是民众担心中国购置土地。政府一方面进行逮捕，另一方面暂停实施这些修改。这一事件显示了土地问题在哈萨克社会中的敏感性。",
+    "ja": "2016年4～5月、外国人に農地の長期賃貸を認める土地法改正に反対して、複数の都市でまれな抗議行動が起きた。背景には中国による土地取得への懸念があった。政府は逮捕で対応する一方、改正の施行を凍結した。この出来事は、カザフ社会における土地問題の敏感さを示した。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q1074528",
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Expo 2017 and the Latin alphabet decision",
+    "ko": "엑스포 2017과 라틴 문자 전환 결정",
+    "zh": "2017年世博会与改用拉丁字母的决定",
+    "ja": "万博2017とラテン文字転換の決定"
+   },
+   "description": {
+    "en": "From June to September 2017 Astana hosted the international exhibition Expo 2017 on the theme 'Future Energy', the first such expo in Central Asia; its central sphere pavilion became a city landmark. In October 2017 President Nazarbayev signed a decree to move the Kazakh language from the Cyrillic to the Latin alphabet by 2025. The alphabet was subsequently revised several times, and the transition has proceeded slowly.",
+    "ko": "2017년 6월부터 9월까지 아스타나는 '미래 에너지'를 주제로 중앙아시아 최초의 국제박람회인 엑스포 2017을 개최했으며, 중앙의 구형 전시관은 도시의 랜드마크가 되었다. 2017년 10월 나자르바예프 대통령은 2025년까지 카자흐어 표기를 키릴 문자에서 라틴 문자로 바꾸는 법령에 서명했다. 이후 알파벳은 여러 차례 수정되었고 전환은 더디게 진행되고 있다.",
+    "zh": "2017年6月至9月，阿斯塔纳以“未来能源”为主题举办了中亚首个世博会——2017年世博会，其中心的球形展馆成为城市地标。2017年10月，纳扎尔巴耶夫总统签署命令，要求在2025年前将哈萨克语文字由西里尔字母改为拉丁字母。此后字母方案经过多次修订，转换进展缓慢。",
+    "ja": "2017年6月から9月まで、アスタナは「未来のエネルギー」をテーマに中央アジア初の国際博覧会である万博2017を開催し、中心の球形パビリオンは市のランドマークとなった。2017年10月、ナザルバエフ大統領は2025年までにカザフ語の表記をキリル文字からラテン文字に移行させる大統領令に署名した。その後アルファベットは何度も修正され、移行はゆっくりと進んでいる。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q62399533",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Nazarbayev steps down; Tokayev becomes president",
+    "ko": "나자르바예프 사임과 토카예프 대통령 취임",
+    "zh": "纳扎尔巴耶夫辞职，托卡耶夫出任总统",
+    "ja": "ナザルバエフ辞任、トカエフが大統領に"
+   },
+   "description": {
+    "en": "On 19 March 2019 Nursultan Nazarbayev, who had ruled for nearly three decades, unexpectedly resigned as president while keeping key posts, including chairmanship of the Security Council and the title of 'Leader of the Nation'. Senate chairman Kassym-Jomart Tokayev became acting president, the capital was renamed Nur-Sultan in Nazarbayev's honour, and Tokayev won an early election in June 2019. The election was accompanied by protests and arrests.",
+    "ko": "2019년 3월 19일 거의 30년 동안 집권한 누르술탄 나자르바예프는 갑자기 대통령직에서 물러났으나 국가안보회의 의장과 '국가 지도자' 칭호 등 핵심 지위는 유지했다. 상원 의장 카심조마르트 토카예프가 대통령 권한대행이 되었고, 수도는 나자르바예프를 기려 누르술탄으로 개칭되었으며, 토카예프는 2019년 6월 조기 선거에서 승리했다. 선거 기간에는 시위와 체포가 잇따랐다.",
+    "zh": "2019年3月19日，执政近三十年的努尔苏丹·纳扎尔巴耶夫出人意料地辞去总统职务，但保留了安全会议主席和“民族领袖”称号等关键职位。参议院议长卡瑟姆-若马尔特·托卡耶夫出任代总统，首都为纪念纳扎尔巴耶夫更名为努尔苏丹，托卡耶夫在2019年6月的提前选举中获胜。选举期间发生了抗议和逮捕。",
+    "ja": "2019年3月19日、30年近く統治したヌルスルタン・ナザルバエフは突然大統領を辞任したが、安全保障会議議長や「国民の指導者」の称号など重要な地位は保持した。上院議長カシムジョマルト・トカエフが大統領代行となり、首都はナザルバエフにちなんでヌルスルタンと改名され、トカエフは2019年6月の繰り上げ選挙で勝利した。選挙には抗議行動と逮捕が伴った。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q7453539",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Bek Air Flight 2100 crash",
+    "ko": "베크 에어 2100편 추락",
+    "zh": "贝克航空2100号班机空难",
+    "ja": "ベック・エア2100便墜落事故"
+   },
+   "description": {
+    "en": "On 27 December 2019 a Bek Air Fokker 100 bound for Nur-Sultan crashed shortly after take-off from Almaty International Airport, striking a building. Twelve people were killed and dozens injured; investigators pointed to icing on the wings. The disaster led to the suspension of the airline's operations and scrutiny of aviation safety in the country.",
+    "ko": "2019년 12월 27일 누르술탄으로 향하던 베크 에어의 포커 100 여객기가 알마티 국제공항 이륙 직후 추락해 건물과 충돌했다. 12명이 숨지고 수십 명이 다쳤으며, 조사단은 날개의 결빙을 원인으로 지목했다. 이 참사로 항공사의 운항이 중단되었고 국내 항공 안전에 대한 점검이 이루어졌다.",
+    "zh": "2019年12月27日，贝克航空一架飞往努尔苏丹的福克100客机从阿拉木图国际机场起飞后不久坠毁，撞上一栋建筑。事故造成12人死亡、数十人受伤，调查人员指出机翼结冰是原因。这场灾难导致该航空公司停飞，并引发对该国航空安全的审查。",
+    "ja": "2019年12月27日、ヌルスルタン行きのベック・エアのフォッカー100がアルマトイ国際空港を離陸した直後に墜落し、建物に衝突した。12人が死亡し数十人が負傷し、調査では主翼の着氷が原因とされた。この惨事で同社の運航は停止され、国内の航空安全が見直された。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87651995",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic reaches Kazakhstan",
+    "ko": "코로나19 대유행의 카자흐스탄 확산",
+    "zh": "新冠疫情蔓延至哈萨克斯坦",
+    "ja": "新型コロナウイルスのカザフスタンへの拡大"
+   },
+   "description": {
+    "en": "Kazakhstan confirmed its first COVID-19 cases in March 2020 and declared a state of emergency, locking down Nur-Sultan and Almaty. A surge in mid-2020 overwhelmed hospitals, and authorities also reported large numbers of deaths from 'pneumonia' in the same period. Vaccination began in 2021 with the Russian Sputnik V and later a domestically developed vaccine, QazVac.",
+    "ko": "카자흐스탄은 2020년 3월 첫 코로나19 확진자를 확인하고 비상사태를 선포해 누르술탄과 알마티를 봉쇄했다. 2020년 중반의 확산으로 병원이 마비되었고, 당국은 같은 시기 '폐렴'으로 인한 많은 사망자도 보고했다. 2021년 러시아의 스푸트니크 V와 이후 자체 개발 백신 카즈백(QazVac)으로 접종이 시작되었다.",
+    "zh": "哈萨克斯坦于2020年3月确诊首批新冠病例，宣布进入紧急状态，并对努尔苏丹和阿拉木图实行封城。2020年年中疫情激增，医院不堪重负，当局同期还报告了大量“肺炎”死亡病例。2021年，该国开始使用俄罗斯的卫星-V疫苗以及后来本国研发的QazVac疫苗进行接种。",
+    "ja": "カザフスタンは2020年3月に最初の新型コロナウイルス感染者を確認し、非常事態を宣言してヌルスルタンとアルマトイを封鎖した。2020年半ばの感染拡大で病院は逼迫し、当局は同じ時期に「肺炎」による多数の死者も報告した。2021年にはロシアのスプートニクVや、のちに国産ワクチンQazVacによる接種が始まった。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q110413718",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "January unrest (Qandy Qantar)",
+    "ko": "1월 소요 사태(칸드 칸타르)",
+    "zh": "“一月事件”",
+    "ja": "1月騒乱（カンドゥ・カンタル）"
+   },
+   "description": {
+    "en": "Protests that began on 2 January 2022 in Zhanaozen over a sharp rise in liquefied gas prices spread nationwide and turned violent in Almaty, where government buildings were stormed. President Tokayev ordered security forces to shoot without warning, invited troops of the Russian-led Collective Security Treaty Organization, and removed Nazarbayev from the Security Council; officials reported 238 deaths and thousands of arrests. The events, known as Qandy Qantar ('Bloody January'), ended the era of Nazarbayev's informal dominance.",
+    "ko": "2022년 1월 2일 자나오젠에서 액화가스 가격 급등에 항의해 시작된 시위는 전국으로 퍼졌고, 알마티에서는 정부 청사가 습격당하는 폭력 사태로 번졌다. 토카예프 대통령은 보안군에 경고 없는 발포를 명령하고 러시아 주도의 집단안보조약기구 군대를 불러들였으며, 나자르바예프를 국가안보회의 의장직에서 해임했다. 당국은 238명이 숨지고 수천 명이 체포되었다고 발표했다. '칸드 칸타르(피의 1월)'로 불리는 이 사건은 나자르바예프의 비공식적 지배 시대를 끝냈다.",
+    "zh": "2022年1月2日，扎瑙津因液化气价格暴涨而爆发的抗议蔓延全国，在阿拉木图演变为暴力冲突，政府大楼遭到冲击。托卡耶夫总统下令安全部队可不经警告开枪，邀请俄罗斯主导的集体安全条约组织派兵，并解除了纳扎尔巴耶夫的安全会议主席职务；官方公布238人死亡、数千人被捕。这一被称为“血色一月”（Qandy Qantar）的事件终结了纳扎尔巴耶夫非正式主导的时代。",
+    "ja": "2022年1月2日にジャナオゼンで液化ガス価格の急騰に抗議して始まったデモは全国に広がり、アルマトイでは政府庁舎が襲撃される暴力的な事態となった。トカエフ大統領は治安部隊に警告なしの発砲を命じ、ロシア主導の集団安全保障条約機構の部隊を招き入れ、ナザルバエフを安全保障会議議長から解任した。当局は238人の死者と数千人の逮捕を発表した。「カンドゥ・カンタル（血の1月）」と呼ばれるこの事件は、ナザルバエフによる非公式な支配の時代を終わらせた。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q111968640",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Constitutional referendum and return of the name Astana",
+    "ko": "개헌 국민투표와 아스타나 명칭 복원",
+    "zh": "修宪公投与恢复阿斯塔纳之名",
+    "ja": "憲法改正の国民投票とアスタナの名称復活"
+   },
+   "description": {
+    "en": "On 5 June 2022 a referendum approved constitutional amendments that removed Nazarbayev's special status as 'Leader of the Nation', strengthened parliament and created a Constitutional Court. In September the capital's name was changed back to Astana and the presidential term was set at a single seven-year term. Tokayev was re-elected in a snap election in November 2022, which observers said lacked genuine competition.",
+    "ko": "2022년 6월 5일 국민투표로 나자르바예프의 '국가 지도자' 특별 지위를 없애고 의회를 강화하며 헌법재판소를 신설하는 개헌안이 승인되었다. 9월에는 수도 이름이 다시 아스타나로 바뀌었고 대통령 임기는 7년 단임으로 정해졌다. 토카예프는 2022년 11월 조기 선거에서 재선되었으나, 감시단은 실질적인 경쟁이 없었다고 평가했다.",
+    "zh": "2022年6月5日，全民公投通过宪法修正案，取消纳扎尔巴耶夫“民族领袖”的特殊地位，加强议会权力，并设立宪法法院。9月，首都名称改回阿斯塔纳，总统任期定为一届七年。托卡耶夫在2022年11月的提前选举中连任，但观察人士认为选举缺乏真正的竞争。",
+    "ja": "2022年6月5日、国民投票で、ナザルバエフの「国民の指導者」という特別な地位を廃止し、議会を強化し、憲法裁判所を設ける憲法改正が承認された。9月には首都の名称がアスタナに戻され、大統領の任期は1期7年に定められた。トカエフは2022年11月の繰り上げ選挙で再選されたが、監視団は実質的な競争がなかったと評価した。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q113996438",
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Pope Francis visits Kazakhstan",
+    "ko": "프란치스코 교황의 카자흐스탄 방문",
+    "zh": "教宗方济各访问哈萨克斯坦",
+    "ja": "教皇フランシスコのカザフスタン訪問"
+   },
+   "description": {
+    "en": "From 13 to 15 September 2022 Pope Francis visited Nur-Sultan to take part in the Congress of Leaders of World and Traditional Religions, a forum Kazakhstan had hosted since 2003. He celebrated Mass for the country's small Catholic community and appealed for peace amid the war in Ukraine. The visit highlighted Kazakhstan's promotion of itself as a model of interfaith harmony.",
+    "ko": "2022년 9월 13~15일 프란치스코 교황은 카자흐스탄이 2003년부터 개최해 온 '세계 및 전통 종교 지도자 대회'에 참석하기 위해 누르술탄을 방문했다. 그는 이 나라의 소규모 가톨릭 공동체를 위해 미사를 집전하고 우크라이나 전쟁 속에서 평화를 호소했다. 이 방문은 종교 간 화합의 모델을 자처하는 카자흐스탄의 이미지를 부각했다.",
+    "zh": "2022年9月13日至15日，教宗方济各访问努尔苏丹，出席哈萨克斯坦自2003年起主办的“世界与传统宗教领袖大会”。他为该国人数不多的天主教群体主持弥撒，并在乌克兰战争背景下呼吁和平。这次访问突显了哈萨克斯坦以宗教和谐典范自居的形象。",
+    "ja": "2022年9月13～15日、教皇フランシスコは、カザフスタンが2003年から主催してきた「世界・伝統宗教指導者会議」に出席するためヌルスルタンを訪れた。彼はこの国の小さなカトリック共同体のためにミサを捧げ、ウクライナでの戦争のさなか平和を訴えた。この訪問は、宗教間の調和のモデルを自任するカザフスタンのイメージを際立たせた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q123224458",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Kostenko mine disaster",
+    "ko": "코스텐코 탄광 참사",
+    "zh": "科斯坚科煤矿事故",
+    "ja": "コステンコ炭鉱事故"
+   },
+   "description": {
+    "en": "On 28 October 2023 a fire at the Kostenko coal mine in Karaganda Region, operated by ArcelorMittal Temirtau, killed 46 miners, the deadliest mining accident in independent Kazakhstan. It followed a series of fatal accidents at the company's mines. The government ended its cooperation with the company, whose Kazakh assets were then sold to a state-linked investor and renamed Qarmet.",
+    "ko": "2023년 10월 28일 아르셀로미탈 테미르타우가 운영하던 카라간다주 코스텐코 탄광에서 화재가 일어나 광부 46명이 숨졌으며, 이는 독립 카자흐스탄 최악의 광산 사고였다. 이 회사의 광산에서는 그전에도 인명 사고가 잇따랐다. 정부는 이 회사와의 협력을 끝냈고, 회사의 카자흐스탄 자산은 국가와 연계된 투자자에게 매각되어 카르메트(Qarmet)로 이름을 바꾸었다.",
+    "zh": "2023年10月28日，由安赛乐米塔尔铁米尔套公司经营的卡拉干达州科斯坚科煤矿发生火灾，46名矿工遇难，这是哈萨克斯坦独立以来最严重的矿难。此前该公司旗下煤矿已接连发生致命事故。政府终止了与该公司的合作，其在哈萨克斯坦的资产随后出售给一家与国家有关联的投资方，并更名为Qarmet。",
+    "ja": "2023年10月28日、アルセロール・ミッタル・テミルタウが運営するカラガンダ州のコステンコ炭鉱で火災が起き、46人の鉱夫が死亡した。これは独立カザフスタンで最悪の鉱山事故だった。同社の鉱山ではそれ以前にも死亡事故が相次いでいた。政府は同社との協力を打ち切り、同社のカザフスタン資産は国と関係のある投資家に売却され、カルメト（Qarmet）と改称された。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q125360359",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Spring floods of 2024",
+    "ko": "2024년 봄 대홍수",
+    "zh": "2024年春季洪灾",
+    "ja": "2024年春の大洪水"
+   },
+   "description": {
+    "en": "In March and April 2024 rapid snowmelt after a snowy winter caused the worst flooding in decades across northern and western Kazakhstan, especially in Aktobe, West Kazakhstan, Kostanay, Akmola, Abai and North Kazakhstan regions. More than 100,000 people were evacuated as the Ural, Tobol, Ishim and other rivers overflowed. President Tokayev called it one of the largest natural disasters in the country's recent history.",
+    "ko": "2024년 3~4월 눈이 많았던 겨울 뒤 급격한 해빙으로 카자흐스탄 북부와 서부, 특히 악퇴베·서카자흐스탄·코스타나이·아크몰라·아바이·북카자흐스탄주에서 수십 년 만의 최악의 홍수가 일어났다. 우랄강·토볼강·이심강 등이 범람하면서 10만 명 넘게 대피했다. 토카예프 대통령은 이를 최근 국가 역사상 가장 큰 자연재해 가운데 하나라고 말했다.",
+    "zh": "2024年3月至4月，多雪的冬季过后积雪迅速融化，在哈萨克斯坦北部和西部引发数十年来最严重的洪灾，阿克托别、西哈萨克斯坦、科斯塔奈、阿克莫拉、阿拜和北哈萨克斯坦等州受灾尤重。乌拉尔河、托博尔河、伊希姆河等河流泛滥，超过10万人被疏散。托卡耶夫总统称之为该国近代史上最大的自然灾害之一。",
+    "ja": "2024年3～4月、雪の多かった冬の後の急速な雪解けにより、カザフスタン北部と西部、とくにアクトベ、西カザフスタン、コスタナイ、アクモラ、アバイ、北カザフスタンの各州で数十年ぶりの最悪の洪水が起きた。ウラル川、トボル川、イシム川などが氾濫し、10万人以上が避難した。トカエフ大統領はこれを同国の近年の歴史で最大級の自然災害の一つと述べた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q125807063",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Bishimbayev trial and domestic violence law",
+    "ko": "비심바예프 재판과 가정폭력법",
+    "zh": "比希姆巴耶夫案与家暴法",
+    "ja": "ビシンバエフ裁判と家庭内暴力法"
+   },
+   "description": {
+    "en": "In 2024 former economy minister Kuandyk Bishimbayev was tried for the murder of his wife, Saltanat Nukenova, in a trial broadcast live that drew huge public attention. In April 2024, during the trial, President Tokayev signed a law toughening penalties for domestic violence, popularly called 'Saltanat's law'. In May Bishimbayev was convicted and sentenced to 24 years in prison.",
+    "ko": "2024년 전 경제부 장관 쿠안드크 비심바예프가 아내 살타나트 누케노바 살해 혐의로 재판을 받았고, 생중계된 재판은 큰 사회적 관심을 모았다. 재판이 진행 중이던 2024년 4월 토카예프 대통령은 가정폭력 처벌을 강화하는 법에 서명했으며, 이 법은 흔히 '살타나트법'으로 불린다. 5월 비심바예프는 유죄 판결을 받고 징역 24년을 선고받았다.",
+    "zh": "2024年，前经济部长库安德克·比希姆巴耶夫因杀害妻子萨尔塔纳特·努克诺娃受审，庭审全程直播，引起公众极大关注。庭审期间的2024年4月，托卡耶夫总统签署了加重家庭暴力处罚的法律，民间称之为“萨尔塔纳特法”。5月，比希姆巴耶夫被判有罪，获刑24年。",
+    "ja": "2024年、元経済相クアンドゥク・ビシンバエフが妻サルタナト・ヌケノワの殺害で裁かれ、生中継された裁判は大きな社会的関心を集めた。裁判中の2024年4月、トカエフ大統領は家庭内暴力の罰則を強化する法律に署名し、この法律は「サルタナト法」と呼ばれている。5月、ビシンバエフは有罪となり、懲役24年を言い渡された。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q126992093",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "SCO summit in Astana",
+    "ko": "아스타나 상하이협력기구 정상회의",
+    "zh": "上合组织阿斯塔纳峰会",
+    "ja": "アスタナでのSCO首脳会議"
+   },
+   "description": {
+    "en": "On 3–4 July 2024 Astana hosted the summit of the Shanghai Cooperation Organisation, attended by leaders including Xi Jinping and Vladimir Putin. Belarus was formally admitted as a full member at the meeting. The summit reflected Kazakhstan's role as a hub of regional diplomacy between Russia, China and Central Asia.",
+    "ko": "2024년 7월 3~4일 아스타나에서 시진핑과 블라디미르 푸틴 등 정상들이 참석한 상하이협력기구 정상회의가 열렸다. 이 회의에서 벨라루스가 정식 회원국으로 가입했다. 정상회의는 러시아·중국·중앙아시아를 잇는 지역 외교 중심지로서 카자흐스탄의 역할을 보여 주었다.",
+    "zh": "2024年7月3日至4日，上海合作组织峰会在阿斯塔纳举行，习近平、普京等领导人出席。会上白俄罗斯正式成为正式成员国。此次峰会体现了哈萨克斯坦作为连接俄罗斯、中国和中亚的地区外交枢纽的作用。",
+    "ja": "2024年7月3～4日、アスタナで上海協力機構（SCO）首脳会議が開かれ、習近平やウラジーミル・プーチンらの首脳が出席した。会議ではベラルーシが正式加盟国として承認された。首脳会議は、ロシア・中国・中央アジアを結ぶ地域外交の拠点としてのカザフスタンの役割を示した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q123253377",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nuclear power plant referendum",
+    "ko": "원자력 발전소 국민투표",
+    "zh": "核电站全民公投",
+    "ja": "原子力発電所建設の国民投票"
+   },
+   "description": {
+    "en": "On 6 October 2024 Kazakhstan held a referendum on building the country's first nuclear power plant, a sensitive question given the legacy of Semipalatinsk. According to official results about 71% of voters approved. The result opened the way for plans to build the first plant near the village of Ulken on Lake Balkhash, with international partners.",
+    "ko": "2024년 10월 6일 카자흐스탄은 세미팔라틴스크의 유산 때문에 민감한 문제였던 첫 원자력 발전소 건설 여부를 묻는 국민투표를 실시했다. 공식 결과에 따르면 투표자의 약 71%가 찬성했다. 이 결과로 국제 협력사와 함께 발하시호 연안의 울켄 마을 근처에 첫 발전소를 짓는 계획이 추진될 길이 열렸다.",
+    "zh": "2024年10月6日，哈萨克斯坦就建设本国首座核电站举行全民公投，鉴于塞米巴拉金斯克的历史遗留问题，这是一个敏感话题。据官方结果，约71%的投票者表示赞成。这一结果为与国际伙伴合作、在巴尔喀什湖畔乌尔肯村附近建设首座核电站的计划铺平了道路。",
+    "ja": "2024年10月6日、カザフスタンは、セミパラチンスクの遺産ゆえに敏感な問題である初の原子力発電所建設の是非を問う国民投票を実施した。公式結果では投票者の約71％が賛成した。この結果により、国際的なパートナーとともにバルハシ湖畔のウルケン村付近に最初の原発を建設する計画への道が開かれた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q131552728",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Azerbaijan Airlines Flight 8243 crash near Aktau",
+    "ko": "아크타우 인근 아제르바이잔 항공 8243편 추락",
+    "zh": "阿塞拜疆航空8243号班机在阿克套附近坠毁",
+    "ja": "アクタウ近郊でアゼルバイジャン航空8243便が墜落"
+   },
+   "description": {
+    "en": "On 25 December 2024 an Azerbaijan Airlines Embraer 190 flying from Baku to Grozny was diverted across the Caspian Sea and crashed near Aktau on Kazakhstan's coast; 38 of the 67 people aboard were killed. Azerbaijani officials said the aircraft had been damaged by Russian air defence fire over Grozny, and Vladimir Putin later apologised for the 'tragic incident' in Russian airspace. Kazakhstan led the official investigation of the crash.",
+    "ko": "2024년 12월 25일 바쿠에서 그로즈니로 가던 아제르바이잔 항공의 엠브라에르 190 여객기가 카스피해를 건너 우회하다 카자흐스탄 해안의 아크타우 근처에 추락해 탑승자 67명 가운데 38명이 숨졌다. 아제르바이잔 당국은 여객기가 그로즈니 상공에서 러시아 방공포에 손상을 입었다고 밝혔고, 블라디미르 푸틴은 훗날 러시아 영공에서 일어난 '비극적 사건'에 대해 사과했다. 공식 사고 조사는 카자흐스탄이 주도했다.",
+    "zh": "2024年12月25日，阿塞拜疆航空一架从巴库飞往格罗兹尼的巴航工业E190客机改航穿越里海，在哈萨克斯坦沿海的阿克套附近坠毁，机上67人中有38人遇难。阿塞拜疆官员表示，该机在格罗兹尼上空被俄罗斯防空火力击伤，普京后来就在俄罗斯领空发生的“悲剧性事件”致歉。哈萨克斯坦主导了这起空难的官方调查。",
+    "ja": "2024年12月25日、バクーからグロズヌイへ向かっていたアゼルバイジャン航空のエンブラエル190がカスピ海を越えて迂回し、カザフスタン沿岸のアクタウ近郊に墜落して、乗員乗客67人のうち38人が死亡した。アゼルバイジャン当局は、同機がグロズヌイ上空でロシアの防空射撃により損傷したと述べ、プーチンはのちにロシア領空で起きた「悲劇的な事件」について謝罪した。公式の事故調査はカザフスタンが主導した。"
+   }
+  }
+ ]
+}

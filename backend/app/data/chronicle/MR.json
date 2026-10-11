@@ -1,0 +1,1791 @@
+{
+ "iso": "MR",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -2200,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Green Sahara pastoral Neolithic",
+    "ko": "녹색 사하라의 신석기 목축 시대",
+    "zh": "绿色撒哈拉的新石器游牧时代",
+    "ja": "緑のサハラの新石器牧畜時代"
+   },
+   "summary": {
+    "en": "During the African Humid Period the land of today's Mauritania held lakes, savanna and wildlife, and hunter-fishers and then cattle herders left tools, pottery and rock art across Adrar and Tagant. From around the 4th millennium BC the climate gradually dried, pushing people toward oases, escarpments and the south. These pastoral societies laid the foundations for the first settled communities of the western Sahara.",
+    "ko": "아프리카 습윤기 동안 오늘날 모리타니 땅에는 호수와 사바나가 펼쳐져 있었고, 수렵·어로민과 이후의 소 목축민이 아드라르와 타간트 일대에 석기, 토기, 암각화를 남겼다. 기원전 4천년기 무렵부터 기후가 점차 건조해지면서 사람들은 오아시스와 절벽 지대, 남쪽으로 옮겨 갔다. 이 목축 사회는 서사하라 최초의 정주 공동체의 토대가 되었다.",
+    "zh": "在非洲湿润期，今毛里塔尼亚境内湖泊与草原广布，狩猎捕鱼者及后来的养牛牧民在阿德拉尔和塔甘特一带留下了石器、陶器和岩画。约自公元前4千纪起气候逐渐干燥，人们向绿洲、断崖地带和南方迁移。这些游牧社会为西撒哈拉最早的定居社群奠定了基础。",
+    "ja": "アフリカ湿潤期には、現在のモーリタニアの地に湖やサバンナが広がり、狩猟漁労民や後の牛牧畜民がアドラールやタガント一帯に石器・土器・岩絵を残した。前4千年紀頃から気候は次第に乾燥化し、人々はオアシスや崖地、南方へ移っていった。これらの牧畜社会が西サハラ最初の定住共同体の土台となった。"
+   }
+  },
+  {
+   "from": -2200,
+   "to": -200,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Tichitt Tradition",
+    "ko": "티치트 전통 문화",
+    "zh": "提希特文化传统",
+    "ja": "ティシット文化"
+   },
+   "summary": {
+    "en": "Along the sandstone escarpments of Dhar Tichitt, Dhar Oualata and Dhar Néma, agro-pastoral communities built hundreds of dry-stone settlements, raised cattle and cultivated pearl millet. The Tichitt Tradition is one of the earliest known complex societies of West Africa, often linked to ancestors of Soninke-speaking peoples. Increasing aridity and pressure from northern pastoralists led to its decline in the late first millennium BC.",
+    "ko": "다르 티치트, 다르 왈라타, 다르 네마의 사암 절벽을 따라 농경·목축 공동체가 수백 곳의 돌담 취락을 세우고 소를 기르며 진주조를 재배했다. 티치트 전통은 서아프리카에서 가장 이른 복합 사회 중 하나로, 흔히 소닌케어 사용 집단의 조상과 연결된다. 건조화의 심화와 북방 목축민의 압박으로 기원전 1천년기 후반에 쇠퇴했다.",
+    "zh": "在达尔提希特、达尔瓦拉塔和达尔内马的砂岩断崖沿线，农牧社群修建了数百处干砌石墙聚落，饲养牛群并种植珍珠粟。提希特文化是西非已知最早的复杂社会之一，常被认为与索宁克语族群的祖先有关。在日益干旱和北方游牧民的压力下，它于公元前1千纪后期衰落。",
+    "ja": "ダール・ティシット、ダール・ワラタ、ダール・ネマの砂岩崖に沿って、農牧民は数百の空積み石造集落を築き、牛を飼いトウジンビエを栽培した。ティシット文化は西アフリカで最古級の複合社会の一つで、ソニンケ語系集団の祖先と結びつけられることが多い。乾燥化と北方牧畜民の圧力により、前1千年紀後半に衰退した。"
+   }
+  },
+  {
+   "from": -1000,
+   "to": 300,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Copper Age of Akjoujt and Libyco-Berber pastoralists",
+    "ko": "아크주이트 구리 시대와 리비코-베르베르 목축민",
+    "zh": "阿克茹特铜器时代与利比亚-柏柏尔游牧民",
+    "ja": "アクジュジトの銅器時代とリビコ・ベルベル系牧畜民"
+   },
+   "summary": {
+    "en": "In the first millennium BC copper was mined and worked around Akjoujt in western Mauritania, one of the earliest metallurgical centres of West Africa. Berber-speaking pastoralists spread southward, leaving rock engravings of horses, chariots and Libyco-Berber script. Toward the end of this period the camel began to transform travel across the desert.",
+    "ko": "기원전 1천년기에 모리타니 서부 아크주이트 일대에서는 구리를 채굴하고 가공했는데, 이는 서아프리카에서 가장 이른 야금 중심지 가운데 하나였다. 베르베르어를 쓰는 목축민이 남쪽으로 퍼지며 말과 전차, 리비코-베르베르 문자를 새긴 암각화를 남겼다. 이 시기 말에는 낙타가 사막 횡단 방식을 바꾸기 시작했다.",
+    "zh": "公元前1千纪，毛里塔尼亚西部阿克茹特一带已开采并冶炼铜矿，是西非最早的冶金中心之一。讲柏柏尔语的游牧民向南扩散，留下了刻有马匹、战车和利比亚-柏柏尔文字的岩画。这一时期末，骆驼开始改变穿越沙漠的方式。",
+    "ja": "前1千年紀、モーリタニア西部のアクジュジト周辺では銅が採掘・加工され、西アフリカ最古級の冶金の中心となった。ベルベル語系の牧畜民が南下し、馬や戦車、リビコ・ベルベル文字を刻んだ岩絵を残した。この時代の終わりには、ラクダが砂漠の往来を変え始めた。"
+   }
+  },
+  {
+   "from": 300,
+   "to": 1200,
+   "kind": "state",
+   "qid": "Q206789",
+   "polity": "Ghana Empire",
+   "name": {
+    "en": "Ghana Empire (Wagadu)",
+    "ko": "가나 제국(와가두)",
+    "zh": "加纳帝国（瓦加杜）",
+    "ja": "ガーナ王国（ワガドゥ）"
+   },
+   "summary": {
+    "en": "The Soninke kingdom of Wagadu, known to Arab writers as Ghana, grew from origins that remain uncertain into the dominant power of the western Sahel. Its capital is generally identified with Koumbi Saleh in southeastern Mauritania, and its wealth came from taxing the trade of gold from the south and salt from the Sahara. Weakened from the 11th century by Almoravid pressure and shifting trade, it fragmented by around 1200.",
+    "ko": "아랍 저술가들이 '가나'라 부른 소닌케족의 와가두 왕국은 기원이 불확실하나 서부 사헬의 패권 국가로 성장했다. 수도는 일반적으로 모리타니 남동부의 쿰비살레로 비정되며, 남쪽의 금과 사하라의 소금 교역에 대한 과세로 부를 쌓았다. 11세기부터 알모라비드의 압박과 교역로 변화로 약화되어 1200년 무렵 분열했다.",
+    "zh": "索宁克人的瓦加杜王国被阿拉伯作家称为“加纳”，其起源尚不确定，后发展为西萨赫勒的主导力量。其都城一般被认定为毛里塔尼亚东南部的昆比萨莱赫，财富来自对南方黄金与撒哈拉食盐贸易的征税。自11世纪起，在穆拉比特王朝的压力和商路变迁下逐渐衰弱，约1200年前后解体。",
+    "ja": "アラブの著述家が「ガーナ」と呼んだソニンケ人のワガドゥ王国は、起源は不明ながら西サヘルの覇権国家へと成長した。都は一般にモーリタニア南東部のクンビ・サレーに比定され、南の金とサハラの塩の交易への課税で富を築いた。11世紀以降、ムラービト朝の圧力と交易路の変化で弱体化し、1200年頃までに分裂した。"
+   }
+  },
+  {
+   "from": 700,
+   "to": 1050,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Sanhaja confederation and the trans-Saharan caravan trade",
+    "ko": "산하자 연맹과 사하라 횡단 대상 교역",
+    "zh": "桑哈贾部落联盟与跨撒哈拉商队贸易",
+    "ja": "サンハージャ連合とサハラ縦断隊商交易"
+   },
+   "summary": {
+    "en": "Veiled Sanhaja Berber tribes such as the Lamtuna, Massufa and Juddala (Godala) controlled the western desert routes between the Maghreb and the Sahel. Their market town of Awdaghust in southern Mauritania became a key entrepôt where North African merchants met the trade of Ghana. Islam spread gradually among the Berbers and merchants through these caravan networks.",
+    "ko": "람투나, 마수파, 주달라(고달라) 등 얼굴을 가린 산하자 베르베르 부족들이 마그레브와 사헬을 잇는 서부 사막 교역로를 장악했다. 모리타니 남부의 시장 도시 아우다구스트는 북아프리카 상인과 가나의 교역이 만나는 핵심 중계지가 되었다. 이슬람은 이 대상 교역망을 따라 베르베르인과 상인들 사이에 점차 퍼졌다.",
+    "zh": "蒙面的桑哈贾柏柏尔部落如兰图纳、马苏法和朱达拉（戈达拉）控制着连接马格里布与萨赫勒的西部沙漠商路。毛里塔尼亚南部的集市城镇奥达古斯特成为北非商人与加纳贸易交汇的重要转口地。伊斯兰教沿着这些商队网络在柏柏尔人和商人中逐步传播。",
+    "ja": "顔を覆うサンハージャ・ベルベル系のラムトゥーナ、マスーファ、ジュッダーラ（ゴダーラ）などの部族が、マグリブとサヘルを結ぶ西部砂漠の交易路を支配した。モーリタニア南部の市場町アウダゴストは、北アフリカ商人とガーナの交易が出会う重要な中継地となった。イスラームはこの隊商網を通じてベルベル人と商人の間に徐々に広まった。"
+   }
+  },
+  {
+   "from": 1040,
+   "to": 1147,
+   "kind": "state",
+   "qid": "Q75613",
+   "polity": "Almoravid Dynasty",
+   "name": {
+    "en": "Almoravid movement and dynasty",
+    "ko": "알모라비드(무라비트) 운동과 왕조",
+    "zh": "穆拉比特运动与王朝",
+    "ja": "ムラービト運動とムラービト朝"
+   },
+   "summary": {
+    "en": "Born among the Sanhaja of the western Sahara as a Maliki Islamic reform movement led by Abdallah ibn Yasin, the Almoravids united the desert tribes under Lamtuna leadership. One branch under Yusuf ibn Tashfin conquered Morocco and al-Andalus, while Abu Bakr ibn Umar campaigned in the Sahara and Sahel. The movement left a lasting Maliki Sunni identity in the region; the northern empire fell to the Almohads in 1147.",
+    "ko": "압달라 이븐 야신이 이끈 말리키파 이슬람 개혁 운동으로 서사하라의 산하자족 사이에서 태어난 알모라비드는 람투나족을 중심으로 사막 부족들을 통합했다. 유수프 이븐 타슈핀이 이끈 한 갈래는 모로코와 알안달루스를 정복했고, 아부 바크르 이븐 우마르는 사하라와 사헬에서 원정을 벌였다. 이 운동은 이 지역에 말리키파 수니 이슬람의 정체성을 깊이 남겼으며, 북쪽 제국은 1147년 알모하드 왕조에 무너졌다.",
+    "zh": "穆拉比特运动由阿卜杜拉·伊本·亚辛领导，是在西撒哈拉桑哈贾人中兴起的马立克派伊斯兰改革运动，以兰图纳部为核心统一了沙漠诸部。其中一支由优素福·伊本·塔什芬率领征服了摩洛哥和安达卢斯，阿布·伯克尔·伊本·欧麦尔则转战撒哈拉与萨赫勒。该运动在当地留下了持久的马立克派逊尼派传统，其北方帝国于1147年亡于穆瓦希德王朝。",
+    "ja": "アブドゥッラー・イブン・ヤースィーンが率いたマーリク派のイスラーム改革運動として西サハラのサンハージャの間に生まれたムラービト運動は、ラムトゥーナ族を中心に砂漠の諸部族を統合した。ユースフ・イブン・ターシュフィーン率いる一派はモロッコとアンダルスを征服し、アブー・バクル・イブン・ウマルはサハラとサヘルで遠征した。運動はこの地にマーリク派スンナ派の伝統を根付かせ、北の帝国は1147年にムワッヒド朝に滅ぼされた。"
+   }
+  },
+  {
+   "from": 1150,
+   "to": 1650,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Saharan caravan towns and Berber tribal society",
+    "ko": "사하라 대상 도시와 베르베르 부족 사회",
+    "zh": "撒哈拉商队城镇与柏柏尔部落社会",
+    "ja": "サハラの隊商都市とベルベル部族社会"
+   },
+   "summary": {
+    "en": "After the Almoravids, the Mauritanian Sahara was organized around Sanhaja tribes and oasis towns such as Ouadane, Chinguetti, Tichitt and Oualata. These ksour thrived on caravans carrying salt, gold, cloth and books, and became centres of Islamic scholarship with family manuscript libraries. From the 13th–14th centuries Arab Beni Hassan groups began moving in from the north, setting the stage for later conflict.",
+    "ko": "알모라비드 이후 모리타니 사하라는 산하자 부족과 우아단, 친게티, 티치트, 왈라타 같은 오아시스 도시를 중심으로 조직되었다. 이 크수르(성채 도시)들은 소금, 금, 직물, 서적을 나르는 대상 교역으로 번영했고, 가문 필사본 도서관을 갖춘 이슬람 학문의 중심지가 되었다. 13~14세기부터 아랍계 베니 하산 집단이 북쪽에서 들어오기 시작해 훗날의 갈등을 예고했다.",
+    "zh": "穆拉比特时代之后，毛里塔尼亚撒哈拉以桑哈贾部落和瓦丹、欣盖提、提希特、瓦拉塔等绿洲城镇为核心。这些“克苏尔”（设防城镇）依靠运送食盐、黄金、布匹和书籍的商队而繁荣，成为拥有家族手稿图书馆的伊斯兰学术中心。自13至14世纪起，阿拉伯贝尼哈桑部族开始从北方迁入，为日后的冲突埋下伏笔。",
+    "ja": "ムラービト朝以後、モーリタニアのサハラはサンハージャ諸部族と、ワダン、シンゲッティ、ティシット、ワラタなどのオアシス都市を軸に組織された。これらのクスール（城塞集落）は塩・金・布・書物を運ぶ隊商で栄え、一族の写本図書館を持つイスラーム学問の中心となった。13～14世紀からアラブ系ベニ・ハッサン諸集団が北から流入し始め、後の対立の素地となった。"
+   }
+  },
+  {
+   "from": 1200,
+   "to": 1235,
+   "kind": "state",
+   "qid": "Q13099593",
+   "polity": "Sosso Empire",
+   "name": {
+    "en": "Sosso Kingdom",
+    "ko": "소소 왕국",
+    "zh": "苏苏王国",
+    "ja": "スースー王国"
+   },
+   "summary": {
+    "en": "As Ghana fragmented, the Sosso kingdom under Soumaoro Kanté, according to oral tradition, seized much of the former imperial heartland including the area of Koumbi Saleh. Its rule over southeastern Mauritania was brief. Tradition holds that Sundiata Keita's victory at Kirina ended Sosso power and opened the way for the Mali Empire.",
+    "ko": "가나가 분열하자 구전에 따르면 수마오로 칸테가 이끄는 소소 왕국이 쿰비살레 일대를 포함한 옛 제국의 중심부 상당 부분을 차지했다. 모리타니 남동부에 대한 소소의 지배는 짧았다. 전승에 따르면 순디아타 케이타가 키리나에서 승리하면서 소소의 세력은 끝나고 말리 제국의 시대가 열렸다.",
+    "zh": "加纳解体之际，据口述传统记载，苏马奥罗·坎特领导的苏苏王国夺取了包括昆比萨莱赫一带在内的大部分旧帝国核心地区。苏苏对毛里塔尼亚东南部的统治十分短暂。传说松迪亚塔·凯塔在基里纳取胜，终结了苏苏的势力，开启了马里帝国时代。",
+    "ja": "ガーナが分裂すると、口承によればスマオロ・カンテ率いるスースー王国がクンビ・サレー周辺を含む旧帝国中心部の多くを奪った。モーリタニア南東部に対する支配は短期間だった。伝承では、スンジャタ・ケイタがキリナで勝利してスースーの勢力は終わり、マリ帝国の時代が開かれた。"
+   }
+  },
+  {
+   "from": 1235,
+   "to": 1475,
+   "kind": "state",
+   "qid": "Q184536",
+   "polity": "Mali Empire",
+   "name": {
+    "en": "Mali Empire in the southeast",
+    "ko": "남동부의 말리 제국",
+    "zh": "东南部的马里帝国",
+    "ja": "南東部のマリ帝国"
+   },
+   "summary": {
+    "en": "The Mali Empire extended its authority over the former Ghana lands of southeastern Mauritania, including the caravan town of Oualata (Walata), which became its northern trading gateway. Ibn Battuta passed through Oualata in 1352 and described its Massufa inhabitants and the governor representing the Mali king. Mali's hold on the Sahel edge weakened in the 15th century under Tuareg and Songhai pressure.",
+    "ko": "말리 제국은 모리타니 남동부의 옛 가나 영토로 세력을 넓혔고, 대상 도시 왈라타는 제국 북쪽의 교역 관문이 되었다. 이븐 바투타는 1352년 왈라타를 지나며 마수파족 주민과 말리 왕을 대리하는 총독을 기록했다. 15세기에 투아레그족과 송가이의 압박으로 사헬 북쪽 가장자리에 대한 말리의 지배는 약해졌다.",
+    "zh": "马里帝国将势力扩展到毛里塔尼亚东南部的旧加纳领地，商队城镇瓦拉塔成为帝国北方的贸易门户。伊本·白图泰于1352年途经瓦拉塔，记述了当地马苏法族居民以及代表马里国王的总督。15世纪，在图阿雷格人和桑海的压力下，马里对萨赫勒北缘的控制逐渐减弱。",
+    "ja": "マリ帝国はモーリタニア南東部の旧ガーナ領に勢力を広げ、隊商都市ワラタは帝国北方の交易の玄関口となった。イブン・バットゥータは1352年にワラタを通り、マスーファ族の住民とマリ王を代理する総督について記した。15世紀にはトゥアレグとソンガイの圧力でサヘル北縁へのマリの支配は弱まった。"
+   }
+  },
+  {
+   "from": 1443,
+   "to": 1858,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "European trading posts and the gum arabic trade",
+    "ko": "유럽 교역 거점과 아라비아고무 교역",
+    "zh": "欧洲贸易据点与阿拉伯树胶贸易",
+    "ja": "ヨーロッパの交易拠点とアラビアゴム交易"
+   },
+   "summary": {
+    "en": "Portuguese navigators reached the Banc d'Arguin in the 1440s and built a fort on Arguin island, trading for gold, slaves and goods with Saharan caravans. Arguin later changed hands among the Portuguese, Dutch, French, English and Brandenburgers. From the 17th century the gum arabic of the southern Mauritanian forests, sold by the Trarza and Brakna emirates along the Senegal River, became the main object of European commerce.",
+    "ko": "1440년대 포르투갈 항해자들이 아르갱 해안 모래톱(방다르갱)에 도달해 아르갱섬에 요새를 세우고 사하라 대상들과 금, 노예, 상품을 거래했다. 아르갱은 이후 포르투갈, 네덜란드, 프랑스, 영국, 브란덴부르크 사이에서 여러 차례 주인이 바뀌었다. 17세기부터는 트라르자와 브라크나 에미르국이 세네갈강을 따라 판매한 모리타니 남부 숲의 아라비아고무가 유럽 교역의 핵심 품목이 되었다.",
+    "zh": "15世纪40年代，葡萄牙航海者抵达阿尔金浅滩，在阿尔金岛修建要塞，与撒哈拉商队交易黄金、奴隶和货物。此后阿尔金在葡萄牙、荷兰、法国、英国和勃兰登堡之间多次易手。自17世纪起，由特拉扎和布拉克纳酋长国沿塞内加尔河出售的毛里塔尼亚南部林地阿拉伯树胶成为欧洲贸易的主要商品。",
+    "ja": "1440年代、ポルトガルの航海者がアルガン湾（バン・ダルガン）に到達し、アルガン島に砦を築いてサハラの隊商と金・奴隷・商品を取引した。アルガンはその後ポルトガル、オランダ、フランス、イギリス、ブランデンブルクの間で何度も持ち主が替わった。17世紀からは、トラルザやブラクナの首長国がセネガル川沿いで売るモーリタニア南部のアラビアゴムがヨーロッパとの交易の主役となった。"
+   }
+  },
+  {
+   "from": 1468,
+   "to": 1591,
+   "kind": "state",
+   "qid": "Q202687",
+   "polity": "Songhai Empire",
+   "name": {
+    "en": "Songhai Empire on the eastern fringe",
+    "ko": "동쪽 변경의 송가이 제국",
+    "zh": "东部边缘的桑海帝国",
+    "ja": "東辺のソンガイ帝国"
+   },
+   "summary": {
+    "en": "Under Sonni Ali and the Askias, the Songhai Empire based on the Niger bend extended its influence over the Sahelian fringe of southeastern Mauritania, including Oualata. Scholars and merchants moved between Oualata, Timbuktu and Djenné in a shared Islamic intellectual world. The Moroccan invasion of 1591 destroyed Songhai and left the region to local and nomadic powers.",
+    "ko": "손니 알리와 아스키아 왕조 아래 니제르강 만곡부를 근거지로 한 송가이 제국은 왈라타를 포함한 모리타니 남동부 사헬 변경까지 영향력을 넓혔다. 학자와 상인들은 왈라타, 팀북투, 젠네를 오가며 하나의 이슬람 지식 세계를 공유했다. 1591년 모로코의 침공으로 송가이가 무너지자 이 지역은 현지 세력과 유목 세력의 손에 넘어갔다.",
+    "zh": "在索尼·阿里和阿斯基亚王朝统治下，以尼日尔河湾为根据地的桑海帝国将影响扩展到包括瓦拉塔在内的毛里塔尼亚东南部萨赫勒边缘。学者与商人往来于瓦拉塔、廷巴克图和杰内之间，共享同一个伊斯兰学术世界。1591年摩洛哥入侵摧毁了桑海，该地区落入地方势力和游牧势力之手。",
+    "ja": "ソンニ・アリとアスキア朝のもと、ニジェール川湾曲部を本拠とするソンガイ帝国は、ワラタを含むモーリタニア南東部のサヘル辺縁にまで影響を広げた。学者や商人はワラタ、トンブクトゥ、ジェンネを行き来し、共通のイスラーム知的世界を形づくった。1591年のモロッコの侵攻でソンガイは滅び、この地域は在地勢力と遊牧勢力の手に委ねられた。"
+   }
+  },
+  {
+   "from": 1490,
+   "to": 1776,
+   "kind": "state",
+   "qid": "Q1186858",
+   "polity": null,
+   "name": {
+    "en": "Denianke kingdom of Futa Toro (Great Fulo)",
+    "ko": "푸타토로의 데니얀케 왕국(대풀로)",
+    "zh": "富塔托罗的德尼扬凯王国（大富洛）",
+    "ja": "フタ・トロのデニャンケ王国（大フロ）"
+   },
+   "summary": {
+    "en": "Founded by Koli Tenguella's Fulani followers, the Denianke dynasty dominated Futa Toro, the fertile middle Senegal River valley whose right (northern) bank lies in today's southern Mauritania. Pulaar-speaking farmers and herders, Soninke and Wolof communities lived along the river. Its power declined in the 18th century under Moorish raids and Moroccan interference, until it was overthrown by a Muslim clerical revolution.",
+    "ko": "콜리 텡겔라를 따르던 풀라니족이 세운 데니얀케 왕조는 오늘날 모리타니 남부에 북안이 걸쳐 있는 비옥한 세네갈강 중류의 푸타토로를 지배했다. 강을 따라 풀라어를 쓰는 농경·목축민과 소닌케, 월로프 공동체가 살았다. 18세기에 무어인의 습격과 모로코의 간섭으로 쇠퇴했고, 결국 이슬람 성직자 혁명으로 무너졌다.",
+    "zh": "由科利·滕格拉的富拉尼追随者建立的德尼扬凯王朝统治着富塔托罗，即塞内加尔河中游的肥沃河谷，其右岸（北岸）位于今毛里塔尼亚南部。沿河居住着讲富拉语的农牧民以及索宁克人和沃洛夫人社群。18世纪在摩尔人袭扰和摩洛哥干预下衰落，最终被一场穆斯林教士革命推翻。",
+    "ja": "コリ・テンゲラに従うフルベ人が建てたデニャンケ朝は、肥沃なセネガル川中流域フタ・トロを支配した。その右岸（北岸）は今日のモーリタニア南部にあたる。川沿いにはプラール語を話す農牧民、ソニンケ人、ウォロフ人の共同体が暮らした。18世紀にはムーア人の襲撃とモロッコの干渉で衰え、ついにイスラーム聖職者の革命で倒された。"
+   }
+  },
+  {
+   "from": 1640,
+   "to": 1902,
+   "kind": "state",
+   "qid": "Q1812976",
+   "polity": null,
+   "name": {
+    "en": "Emirate of Trarza",
+    "ko": "트라르자 에미르국",
+    "zh": "特拉扎酋长国",
+    "ja": "トラルザ首長国"
+   },
+   "summary": {
+    "en": "Formed by Hassani Arab warrior lineages in the southwest after the Char Bouba war era, the Emirate of Trarza dominated the lands north of the lower Senegal River. Its emirs grew rich from the gum arabic trade with the French at Saint-Louis and exercised influence over the Wolof kingdom of Waalo across the river. Neighbouring Brakna formed a comparable emirate further upstream; both came under French protection by the early 1900s.",
+    "ko": "샤르 부바 전쟁 시대 이후 남서부의 하사니 아랍 전사 가문들이 세운 트라르자 에미르국은 세네갈강 하류 북쪽 땅을 지배했다. 에미르들은 생루이의 프랑스인과의 아라비아고무 교역으로 부를 쌓았고, 강 건너 월로프족의 왈로 왕국에도 영향력을 행사했다. 상류 쪽의 브라크나도 비슷한 에미르국을 이루었으며, 두 나라 모두 1900년대 초 프랑스의 보호 아래 들어갔다.",
+    "zh": "在沙尔布巴战争时代之后，西南部的哈桑尼阿拉伯武士世系建立了特拉扎酋长国，统治塞内加尔河下游以北的土地。历代埃米尔通过与圣路易法国人的阿拉伯树胶贸易致富，并对河对岸沃洛夫人的瓦洛王国施加影响。上游的布拉克纳也形成了类似的酋长国，两者都在20世纪初沦为法国保护地。",
+    "ja": "シャール・ブーバ戦争の時代を経て、南西部のハッサーン系アラブ戦士の家系が建てたトラルザ首長国は、セネガル川下流の北側を支配した。歴代のアミールはサン・ルイのフランス人とのアラビアゴム交易で富を得、対岸のウォロフ人のワーロ王国にも影響を及ぼした。上流のブラクナも同様の首長国をなし、両国とも1900年代初頭にフランスの保護下に入った。"
+   }
+  },
+  {
+   "from": 1700,
+   "to": 1905,
+   "kind": "state",
+   "qid": "Q25421257",
+   "polity": null,
+   "name": {
+    "en": "Emirate of Tagant",
+    "ko": "타간트 에미르국",
+    "zh": "塔甘特酋长国",
+    "ja": "タガント首長国"
+   },
+   "summary": {
+    "en": "In the central plateau of Tagant, the Idaw Aish confederation established an emirate in the 18th century that controlled trade between the Sahara and the Sahel. Its capital region around Tidjikja linked the caravan routes of Tichitt and the Adrar. Tagant resisted the French advance and was the scene of Xavier Coppolani's assassination in 1905.",
+    "ko": "중부 타간트 고원에서는 18세기에 이다우 아이시 연맹이 에미르국을 세우고 사하라와 사헬 사이의 교역을 장악했다. 티지크자 일대를 중심으로 티치트와 아드라르의 대상로를 연결했다. 타간트는 프랑스의 진출에 저항했으며, 1905년 그자비에 코폴라니가 암살된 무대가 되었다.",
+    "zh": "在中部塔甘特高原，伊达乌·阿伊什部落联盟于18世纪建立酋长国，控制撒哈拉与萨赫勒之间的贸易。其以提吉克贾一带为中心，连接提希特与阿德拉尔的商路。塔甘特曾抵抗法国推进，1905年科波拉尼在此遇刺身亡。",
+    "ja": "中部のタガント高原では、18世紀にイダウ・アイシュ連合が首長国を築き、サハラとサヘルの間の交易を押さえた。ティジクジャ周辺を中心に、ティシットとアドラールの隊商路を結んだ。タガントはフランスの進出に抵抗し、1905年にはコッポラーニ暗殺の舞台となった。"
+   }
+  },
+  {
+   "from": 1740,
+   "to": 1909,
+   "kind": "state",
+   "qid": "Q20395973",
+   "polity": null,
+   "name": {
+    "en": "Emirate of Adrar",
+    "ko": "아드라르 에미르국",
+    "zh": "阿德拉尔酋长国",
+    "ja": "アドラール首長国"
+   },
+   "summary": {
+    "en": "In the northern Adrar plateau, Hassani lineages founded an emirate centred on Atar and the palm oases around Chinguetti and Ouadane. It controlled caravan routes toward Morocco and the salt mines of Ijil. The Adrar was the last major emirate to fall, conquered by French forces under Colonel Gouraud in 1909.",
+    "ko": "북부 아드라르 고원에서는 하사니 가문들이 아타르와 친게티, 우아단 주변 야자 오아시스를 중심으로 에미르국을 세웠다. 이들은 모로코로 향하는 대상로와 이질 소금 광산을 장악했다. 아드라르는 마지막으로 정복된 주요 에미르국으로, 1909년 구로 대령이 이끈 프랑스군에 정복되었다.",
+    "zh": "在北部阿德拉尔高原，哈桑尼世系以阿塔尔以及欣盖提、瓦丹周围的椰枣绿洲为中心建立了酋长国，控制着通往摩洛哥的商路和伊吉勒盐矿。阿德拉尔是最后一个陷落的主要酋长国，1909年被古罗上校率领的法军征服。",
+    "ja": "北部のアドラール高原では、ハッサーン系の家系がアタールと、シンゲッティやワダン周辺のヤシのオアシスを中心に首長国を築いた。モロッコへ向かう隊商路とイジルの塩鉱を押さえた。アドラールは最後に陥落した主要首長国で、1909年にグロー大佐率いるフランス軍に征服された。"
+   }
+  },
+  {
+   "from": 1776,
+   "to": 1891,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Imamate of Futa Toro",
+    "ko": "푸타토로 이맘국",
+    "zh": "富塔托罗伊玛目国",
+    "ja": "フタ・トロ・イマーム国"
+   },
+   "summary": {
+    "en": "A revolution of Torodbe Muslim clerics led by Abdul Kader Kane overthrew the Denianke and created an elective Islamic imamate along the middle Senegal River, including its northern bank. The imamate resisted Moorish raids and the Atlantic slave trade, but was weakened by internal rivalries. French expansion from Senegal split the valley and absorbed it by the 1890s.",
+    "ko": "압둘 카데르 카네가 이끈 토로드베 이슬람 성직자들의 혁명이 데니얀케 왕조를 무너뜨리고 북안을 포함한 세네갈강 중류에 선출제 이슬람 이맘국을 세웠다. 이맘국은 무어인의 습격과 대서양 노예무역에 맞섰으나 내부 경쟁으로 약해졌다. 세네갈에서 확장해 온 프랑스가 강 유역을 분할하여 1890년대까지 흡수했다.",
+    "zh": "由阿卜杜勒·卡迪尔·卡内领导的托罗德贝穆斯林教士革命推翻了德尼扬凯王朝，在包括北岸在内的塞内加尔河中游建立了推举制的伊斯兰伊玛目国。伊玛目国抵御摩尔人袭扰和大西洋奴隶贸易，但因内部纷争而衰弱。法国从塞内加尔向外扩张，分割了河谷，并于19世纪90年代将其吞并。",
+    "ja": "アブドゥル・カーデル・カン率いるトロドベのイスラーム聖職者の革命がデニャンケ朝を倒し、北岸を含むセネガル川中流域に選挙制のイスラーム・イマーム国を建てた。イマーム国はムーア人の襲撃と大西洋奴隷貿易に抵抗したが、内部の対立で弱体化した。セネガルから拡張したフランスが流域を分割し、1890年代までに併合した。"
+   }
+  },
+  {
+   "from": 1902,
+   "to": 1958,
+   "kind": "colonial",
+   "qid": "Q19951607",
+   "polity": "French Africa",
+   "name": {
+    "en": "French colonial Mauritania",
+    "ko": "프랑스 식민지 모리타니",
+    "zh": "法属毛里塔尼亚",
+    "ja": "フランス植民地モーリタニア"
+   },
+   "summary": {
+    "en": "Beginning with Xavier Coppolani's 'peaceful penetration' of Trarza and Brakna in 1902–03, France gradually conquered the emirates, made Mauritania a civil territory in 1904 and a colony of French West Africa in 1920. The colony was governed from Saint-Louis in Senegal with minimal investment, relying on emirs and tribal chiefs. Nomadic resistance in the north continued into the 1930s, and after 1946 Mauritania gained representation in the French parliament.",
+    "ko": "1902~1903년 그자비에 코폴라니의 트라르자·브라크나 '평화적 침투'를 시작으로 프랑스는 에미르국들을 차례로 정복해 1904년 모리타니를 민정 지역으로, 1920년 프랑스령 서아프리카의 식민지로 삼았다. 식민지는 세네갈의 생루이에서 통치되었고, 투자는 미미했으며 에미르와 부족장에 의존했다. 북부 유목민의 저항은 1930년대까지 이어졌고, 1946년 이후 모리타니는 프랑스 의회에 대표를 보내게 되었다.",
+    "zh": "从1902至1903年科波拉尼对特拉扎和布拉克纳的“和平渗透”开始，法国逐步征服各酋长国，1904年设立毛里塔尼亚民政领地，1920年将其列为法属西非的一个殖民地。殖民地由塞内加尔的圣路易管辖，投入极少，依靠埃米尔和部落首领进行统治。北部游牧民的抵抗持续到20世纪30年代，1946年后毛里塔尼亚开始向法国议会派出代表。",
+    "ja": "1902～03年のコッポラーニによるトラルザ・ブラクナへの「平和的浸透」を皮切りに、フランスは首長国を次々と征服し、1904年にモーリタニアを民政地域、1920年にフランス領西アフリカの植民地とした。植民地はセネガルのサン・ルイから統治され、投資は乏しく、アミールや部族長に依存した。北部遊牧民の抵抗は1930年代まで続き、1946年以降はフランス議会に代表を送るようになった。"
+   }
+  },
+  {
+   "from": 1958,
+   "to": 1960,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Autonomous Islamic Republic in the French Community",
+    "ko": "프랑스 공동체 내 자치 이슬람 공화국",
+    "zh": "法兰西共同体内的自治伊斯兰共和国",
+    "ja": "フランス共同体内の自治イスラム共和国"
+   },
+   "summary": {
+    "en": "After voters approved the constitution of the French Fifth Republic in 1958, Mauritania became the autonomous Islamic Republic of Mauritania within the French Community, led by Moktar Ould Daddah. The new capital of Nouakchott was laid out on the Atlantic coast. Mauritania faced Moroccan claims to its territory during this brief transition to full independence.",
+    "ko": "1958년 프랑스 제5공화국 헌법이 국민투표로 승인된 뒤, 모리타니는 모크타르 울드 다다가 이끄는 프랑스 공동체 내 자치 국가 '모리타니 이슬람 공화국'이 되었다. 대서양 연안에 새 수도 누악쇼트가 건설되기 시작했다. 완전 독립으로 가는 이 짧은 과도기 동안 모리타니는 모로코의 영유권 주장에 맞서야 했다.",
+    "zh": "1958年法兰西第五共和国宪法经公投通过后，毛里塔尼亚成为法兰西共同体内的自治国家“毛里塔尼亚伊斯兰共和国”，由穆赫塔尔·乌尔德·达达赫领导。新首都努瓦克肖特在大西洋沿岸开始兴建。在迈向完全独立的短暂过渡期内，毛里塔尼亚还须应对摩洛哥的领土要求。",
+    "ja": "1958年にフランス第五共和政憲法が国民投票で承認されると、モーリタニアはモクタール・ウルド・ダッダ率いるフランス共同体内の自治国「モーリタニア・イスラム共和国」となった。大西洋岸に新首都ヌアクショットの建設が始まった。完全独立へ向かうこの短い移行期、モーリタニアはモロッコの領有権主張に直面した。"
+   }
+  },
+  {
+   "from": 1960,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q1025",
+   "polity": "Mauritania",
+   "name": {
+    "en": "Islamic Republic of Mauritania",
+    "ko": "모리타니 이슬람 공화국",
+    "zh": "毛里塔尼亚伊斯兰共和国",
+    "ja": "モーリタニア・イスラム共和国"
+   },
+   "summary": {
+    "en": "Independent since 28 November 1960, Mauritania was built under Moktar Ould Daddah as a one-party state bridging the Arab Maghreb and Black Africa, with an economy based on iron ore, fishing and livestock. Its war in Western Sahara led to decades of military-dominated politics marked by repeated coups, ethnic tensions and the struggle against slavery's legacy. Since the 2000s it has combined elections with security cooperation against Sahel jihadist groups and the development of offshore oil and gas.",
+    "ko": "1960년 11월 28일 독립한 모리타니는 모크타르 울드 다다 아래 아랍 마그레브와 흑아프리카를 잇는 일당 국가로 출발했으며, 철광석·어업·목축에 기반한 경제를 갖추었다. 서사하라 전쟁은 거듭된 쿠데타와 민족 갈등, 노예제 유산과의 싸움으로 점철된 수십 년간의 군부 주도 정치를 낳았다. 2000년대 이후로는 선거 정치와 함께 사헬 지하드 세력에 맞선 안보 협력, 해양 석유·가스 개발을 병행해 왔다.",
+    "zh": "毛里塔尼亚于1960年11月28日独立，在穆赫塔尔·乌尔德·达达赫领导下建成连接阿拉伯马格里布与黑非洲的一党制国家，经济以铁矿、渔业和畜牧业为基础。西撒哈拉战争导致此后数十年军人主导政治，政变频繁，民族矛盾突出，并持续面对奴隶制遗留问题。21世纪以来，该国在举行选举的同时，加强打击萨赫勒圣战组织的安全合作，并开发海上石油和天然气。",
+    "ja": "1960年11月28日に独立したモーリタニアは、モクタール・ウルド・ダッダのもとでアラブ・マグリブとブラック・アフリカを結ぶ一党制国家として出発し、鉄鉱石・漁業・牧畜を経済の柱とした。西サハラ戦争は、度重なるクーデター、民族間の緊張、奴隷制の遺産との闘いに彩られた数十年の軍主導政治をもたらした。2000年代以降は選挙政治とともに、サヘルのジハード勢力に対する安全保障協力や海洋石油・ガスの開発を進めている。"
+   }
+  },
+  {
+   "from": 1978,
+   "to": 1992,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Military committees",
+    "ko": "군사위원회 통치기",
+    "zh": "军事委员会统治时期",
+    "ja": "軍事委員会の時代"
+   },
+   "summary": {
+    "en": "From the 1978 coup until the 1992 elections Mauritania was ruled by successive military committees headed by Mustafa Ould Salek, Mohamed Khouna Ould Haidalla and Maaouya Ould Sid'Ahmed Taya. The period saw withdrawal from Western Sahara, the formal abolition of slavery, drought-driven urbanization and severe ethnic violence against Afro-Mauritanians around 1989–91.",
+    "ko": "1978년 쿠데타부터 1992년 선거까지 모리타니는 무스타파 울드 살레크, 모하메드 쿠나 울드 하이달라, 마아우야 울드 시드아흐메드 타야가 이끈 군사위원회들의 통치를 받았다. 이 시기에 서사하라에서 철수했고, 노예제가 공식 폐지되었으며, 가뭄으로 도시화가 진행되었고, 1989~1991년 무렵 아프리카계 모리타니인에 대한 심각한 폭력이 일어났다.",
+    "zh": "从1978年政变到1992年选举，毛里塔尼亚先后由穆斯塔法·乌尔德·萨莱克、穆罕默德·胡纳·乌尔德·海达拉和马维亚·乌尔德·西德·艾哈迈德·塔亚领导的军事委员会统治。这一时期毛里塔尼亚撤出西撒哈拉，正式废除奴隶制，干旱推动了城市化，并在1989至1991年前后发生了针对非洲裔毛里塔尼亚人的严重暴力事件。",
+    "ja": "1978年のクーデターから1992年の選挙まで、モーリタニアはムスタファ・ウルド・サレク、モハメド・フーナ・ウルド・ハイダラ、マアウイヤ・ウルド・シドアフメド・タヤが率いる軍事委員会に統治された。この時期、西サハラからの撤退、奴隷制の公式廃止、干ばつによる都市化が進み、1989～91年頃にはアフリカ系モーリタニア人に対する深刻な暴力が起きた。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "The Green Sahara dries out",
+    "ko": "녹색 사하라의 건조화",
+    "zh": "绿色撒哈拉走向干旱",
+    "ja": "緑のサハラの乾燥化"
+   },
+   "description": {
+    "en": "Around this time the African Humid Period was drawing to a close, and the lakes and grasslands of what is now Mauritania gradually gave way to desert. Herders and fishing communities retreated toward escarpments, oases and the south. Rock paintings of cattle and wild animals in the Adrar and Tagant preserve memories of the wetter Sahara.",
+    "ko": "이 무렵 아프리카 습윤기가 끝나 가면서 오늘날 모리타니의 호수와 초원은 점차 사막으로 바뀌었다. 목축민과 어로 공동체는 절벽 지대와 오아시스, 남쪽으로 물러났다. 아드라르와 타간트의 소와 야생동물 암각화는 습윤했던 사하라의 기억을 간직하고 있다.",
+    "zh": "约在这一时期，非洲湿润期接近尾声，今毛里塔尼亚境内的湖泊与草原逐渐变为沙漠。牧民和渔猎社群退往断崖、绿洲和南方。阿德拉尔和塔甘特的牛群与野生动物岩画保存着湿润撒哈拉的记忆。",
+    "ja": "この頃アフリカ湿潤期が終わりに近づき、現在のモーリタニアの湖や草原は次第に砂漠へと変わった。牧畜民や漁労民は崖地やオアシス、南方へと退いた。アドラールやタガントに残る牛や野生動物の岩絵は、湿潤だったサハラの記憶をとどめている。"
+   }
+  },
+  {
+   "year": -2000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Dhar Tichitt: early Saharan settlements",
+    "ko": "다르 티치트의 초기 정착지",
+    "zh": "达尔提希特早期聚落",
+    "ja": "ダール・ティシットの初期集落"
+   },
+   "description": {
+    "en": "Agro-pastoral communities built dry-stone settlements along the escarpment of Dhar Tichitt, among the oldest known urban-type sites in West Africa. Their inhabitants herded cattle and cultivated domesticated pearl millet, and the largest villages had walled compounds and enclosures. As the Sahara continued to dry, these peoples eventually moved southward.",
+    "ko": "농경·목축민들이 다르 티치트 절벽을 따라 돌담 취락을 세웠다. 서아프리카에서 가장 오래된 도시형 유적으로 꼽힌다. 주민들은 소를 기르고 재배종 진주조를 길렀으며, 큰 마을에는 담장으로 둘러싼 구역과 울타리가 있었다. 사하라의 건조화가 계속되자 이들은 결국 남쪽으로 이동했다.",
+    "zh": "农牧民沿达尔提希特断崖修建干砌石墙聚落，是西非已知最古老的城市型遗址之一。居民放牧牛群并种植驯化的珍珠粟，较大的村落还建有围墙院落和畜栏。随着撒哈拉日益干旱，这些居民最终南迁。",
+    "ja": "農牧民がダール・ティシットの崖沿いに空積み石造りの集落を築いた。西アフリカ最古級の都市型遺跡とされる。住民は牛を飼い栽培化されたトウジンビエを育て、大きな村には壁で囲まれた区画や囲いがあった。サハラの乾燥化が進むと、人々はやがて南へ移っていった。"
+   }
+  },
+  {
+   "year": -800,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Copper working at Akjoujt",
+    "ko": "아크주이트의 구리 가공",
+    "zh": "阿克茹特的铜器冶炼",
+    "ja": "アクジュジトの銅加工"
+   },
+   "description": {
+    "en": "In the first millennium BC people mined and smelted copper in the Akjoujt region of western Mauritania, producing arrowheads, axes and ornaments. Archaeologists consider it one of the earliest metalworking centres in West Africa. The same copper deposits were exploited industrially again in the 20th century.",
+    "ko": "기원전 1천년기에 모리타니 서부 아크주이트 지역에서 사람들은 구리를 채굴·제련해 화살촉, 도끼, 장신구를 만들었다. 고고학자들은 이곳을 서아프리카에서 가장 이른 금속 가공 중심지 중 하나로 본다. 같은 구리 광상은 20세기에 다시 산업적으로 채굴되었다.",
+    "zh": "公元前1千纪，毛里塔尼亚西部阿克茹特地区的居民开采并冶炼铜矿，制作箭镞、斧头和饰物。考古学家认为这里是西非最早的金属加工中心之一。同一处铜矿在20世纪再次被工业化开采。",
+    "ja": "前1千年紀、モーリタニア西部のアクジュジト地方では銅が採掘・製錬され、鏃や斧、装身具が作られた。考古学者はここを西アフリカ最古級の金属加工の中心の一つとみなしている。同じ銅鉱床は20世紀に再び工業的に採掘された。"
+   }
+  },
+  {
+   "year": -300,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Decline of the Tichitt villages",
+    "ko": "티치트 마을들의 쇠퇴",
+    "zh": "提希特村落的衰落",
+    "ja": "ティシット集落の衰退"
+   },
+   "description": {
+    "en": "By the late first millennium BC the stone villages of the Tichitt escarpments were largely abandoned. Growing aridity and the arrival of Berber-speaking pastoralists from the north are thought to have pushed their inhabitants toward the Middle Niger and the Méma region. Some archaeologists see this movement as part of the background to later Soninke states.",
+    "ko": "기원전 1천년기 후반에 이르러 티치트 절벽의 돌 마을들은 대부분 버려졌다. 건조화의 심화와 북쪽에서 내려온 베르베르어 사용 목축민 때문에 주민들이 니제르강 중류와 메마 지역으로 옮겨 간 것으로 여겨진다. 일부 고고학자는 이 이동을 훗날 소닌케 국가 형성의 배경으로 본다.",
+    "zh": "到公元前1千纪后期，提希特断崖上的石砌村落大多已被废弃。一般认为日益干旱以及北方讲柏柏尔语的游牧民南下，迫使居民迁往尼日尔河中游和梅马地区。部分考古学家视此次迁徙为后来索宁克国家形成的背景之一。",
+    "ja": "前1千年紀後半までに、ティシットの崖の石造りの村々はほぼ放棄された。乾燥化の進行と北方からのベルベル語系牧畜民の到来により、住民はニジェール川中流域やメマ地方へ移ったと考えられている。一部の考古学者は、この移動を後のソニンケ系国家の背景とみる。"
+   }
+  },
+  {
+   "year": 300,
+   "qid": "Q206789",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Soninke kingdom of Wagadu",
+    "ko": "소닌케족 와가두 왕국의 등장",
+    "zh": "索宁克人瓦加杜王国兴起",
+    "ja": "ソニンケ人のワガドゥ王国の興起"
+   },
+   "description": {
+    "en": "The origins of Wagadu, the state Arab writers later called Ghana, are uncertain; estimates commonly place its emergence in the early centuries AD. Soninke oral tradition tells of the ancestor Dinga and of the sacred serpent Bida, whose death brought ruin to the kingdom. Its heartland lay in the Hodh and Aoukar of southeastern Mauritania and western Mali.",
+    "ko": "아랍 저술가들이 훗날 '가나'라 부른 와가두의 기원은 불확실하며, 흔히 서기 초기 몇 세기 무렵 등장한 것으로 추정된다. 소닌케 구전은 시조 딩가와, 그 죽음이 왕국에 파멸을 가져왔다는 신성한 뱀 비다의 이야기를 전한다. 왕국의 중심지는 모리타니 남동부와 말리 서부의 호드와 아우카르 지역이었다.",
+    "zh": "后来被阿拉伯作家称为“加纳”的瓦加杜国家起源不明，一般估计出现于公元最初几个世纪。索宁克口述传统讲述了始祖丁加以及神蛇比达的故事，相传神蛇之死导致王国衰亡。王国的核心地带位于毛里塔尼亚东南部和马里西部的霍德与奥卡尔地区。",
+    "ja": "アラブの著述家が後に「ガーナ」と呼んだワガドゥの起源は不明で、一般に紀元後の最初の数世紀に成立したと推定される。ソニンケの口承は始祖ディンガと、その死が王国に破滅をもたらしたという聖なる蛇ビダの物語を伝える。王国の中心はモーリタニア南東部とマリ西部のホドやアウカール地方にあった。"
+   }
+  },
+  {
+   "year": 400,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "The camel opens the Sahara",
+    "ko": "낙타가 사하라를 열다",
+    "zh": "骆驼打开撒哈拉",
+    "ja": "ラクダがサハラを開く"
+   },
+   "description": {
+    "en": "During the first centuries AD the dromedary spread across the Sahara from the east, gradually becoming the main animal of Berber nomads. Camels made long-distance caravans across the desert far more practical. This set the stage for the regular trans-Saharan trade that would enrich the western Sahara and the Sahel.",
+    "ko": "서기 초기 몇 세기 동안 단봉낙타가 동쪽에서 사하라 전역으로 퍼져 베르베르 유목민의 주된 가축이 되었다. 낙타 덕분에 사막을 가로지르는 장거리 대상 교역이 훨씬 수월해졌다. 이는 서사하라와 사헬을 부유하게 할 정기적인 사하라 횡단 교역의 토대가 되었다.",
+    "zh": "公元最初几个世纪，单峰骆驼由东向西遍及撒哈拉，逐渐成为柏柏尔游牧民的主要牲畜。骆驼使穿越沙漠的长途商队变得切实可行，为日后使西撒哈拉和萨赫勒致富的常规跨撒哈拉贸易奠定了基础。",
+    "ja": "紀元後の最初の数世紀、ヒトコブラクダが東からサハラ全域に広がり、ベルベル系遊牧民の主要な家畜となった。ラクダによって砂漠を越える長距離の隊商がはるかに現実的になった。これが西サハラとサヘルを潤す定期的なサハラ縦断交易の土台となった。"
+   }
+  },
+  {
+   "year": 700,
+   "qid": "Q206789",
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "The Ghana Empire and the gold-salt trade",
+    "ko": "가나 제국과 황금·소금 교역",
+    "zh": "加纳帝国与黄金食盐贸易",
+    "ja": "ガーナ王国と金・塩の交易"
+   },
+   "description": {
+    "en": "Southeastern Mauritania formed the heartland of the Ghana Empire, whose capital, generally identified with Koumbi Saleh, grew rich by controlling the trans-Saharan trade in gold and salt. Gold from the upper Senegal and Niger was exchanged for Saharan salt and North African goods. Arab geographers of the 8th–9th centuries began describing Ghana as the 'land of gold'.",
+    "ko": "모리타니 남동부는 가나 제국의 중심지였다. 일반적으로 쿰비살레로 비정되는 수도는 사하라 횡단 금·소금 교역을 장악하며 크게 번영했다. 세네갈강과 니제르강 상류의 금이 사하라의 소금, 북아프리카 상품과 교환되었다. 8~9세기 아랍 지리학자들은 가나를 '황금의 땅'으로 묘사하기 시작했다.",
+    "zh": "毛里塔尼亚东南部是加纳帝国的核心地带，其都城一般被认定为昆比萨莱赫，凭借掌控跨撒哈拉的黄金与食盐贸易而繁荣。塞内加尔河和尼日尔河上游的黄金在此换取撒哈拉食盐和北非商品。8至9世纪的阿拉伯地理学家开始把加纳描述为“黄金之国”。",
+    "ja": "モーリタニア南東部はガーナ王国の中心地であった。一般にクンビ・サレーに比定される都は、サハラ縦断の金と塩の交易を支配して大いに栄えた。セネガル川・ニジェール川上流の金がサハラの塩や北アフリカの商品と交換された。8～9世紀のアラブの地理学者はガーナを「黄金の国」と記し始めた。"
+   }
+  },
+  {
+   "year": 889,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ghana enters Arabic geography",
+    "ko": "아랍 지리서에 등장한 가나",
+    "zh": "加纳见载于阿拉伯地理著作",
+    "ja": "アラビア語地理書に現れたガーナ"
+   },
+   "description": {
+    "en": "In the late 9th century the geographer al-Ya'qubi described Ghana as a powerful kingdom whose ruler controlled lands rich in gold. Such accounts, based on merchants' reports from the Maghreb, are the first written references to the region of today's southeastern Mauritania. They reflect the growing importance of the trans-Saharan gold trade.",
+    "ko": "9세기 말 지리학자 알야쿠비는 가나를 금이 풍부한 땅을 다스리는 강력한 왕국으로 묘사했다. 마그레브 상인들의 전언에 바탕을 둔 이런 기록은 오늘날 모리타니 남동부 지역에 관한 최초의 문헌 기록이다. 이는 사하라 횡단 금 교역의 중요성이 커지고 있었음을 보여 준다.",
+    "zh": "9世纪末，地理学家雅古比将加纳描述为一个强大的王国，其君主控制着盛产黄金的土地。这些基于马格里布商人传闻的记载，是关于今毛里塔尼亚东南部地区最早的文字记录，反映出跨撒哈拉黄金贸易日益重要。",
+    "ja": "9世紀末、地理学者ヤアクービーはガーナを、金に富む土地を支配する強力な王国として記した。マグリブの商人の伝聞に基づくこうした記述は、現在のモーリタニア南東部に関する最初の文字記録であり、サハラ縦断金交易の重要性の高まりを示している。"
+   }
+  },
+  {
+   "year": 951,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Ibn Hawqal and the wealth of Awdaghust",
+    "ko": "이븐 하우칼과 아우다구스트의 부",
+    "zh": "伊本·豪盖勒与奥达古斯特的财富",
+    "ja": "イブン・ハウカルとアウダゴストの富"
+   },
+   "description": {
+    "en": "Around the mid-10th century the geographer Ibn Hawqal reported on the trade linking Sijilmasa in Morocco with Awdaghust in southern Mauritania, describing the great sums handled by merchants there. Awdaghust, then under Sanhaja Berber rulers, was a prosperous oasis town with mosques, gardens and a mixed Berber, Arab and Sudanese population. It was the main gateway between the Maghreb and Ghana.",
+    "ko": "10세기 중반 무렵 지리학자 이븐 하우칼은 모로코의 시질마사와 모리타니 남부의 아우다구스트를 잇는 교역을 기록하며, 그곳 상인들이 다루던 거액의 거래를 전했다. 당시 산하자 베르베르 지배자 아래 있던 아우다구스트는 모스크와 정원, 베르베르·아랍·수단계가 섞인 주민을 갖춘 번영한 오아시스 도시였다. 이곳은 마그레브와 가나를 잇는 주요 관문이었다.",
+    "zh": "约10世纪中叶，地理学家伊本·豪盖勒记述了连接摩洛哥西吉尔马萨与毛里塔尼亚南部奥达古斯特的贸易，并提到当地商人经手的巨额款项。当时由桑哈贾柏柏尔首领统治的奥达古斯特是一座繁荣的绿洲城镇，拥有清真寺、园林以及柏柏尔人、阿拉伯人和苏丹人混居的居民，是马格里布通往加纳的主要门户。",
+    "ja": "10世紀半ば頃、地理学者イブン・ハウカルはモロッコのシジルマサとモーリタニア南部のアウダゴストを結ぶ交易について記し、そこの商人が扱う巨額の取引を伝えた。当時サンハージャ・ベルベルの支配者のもとにあったアウダゴストは、モスクや庭園を備え、ベルベル・アラブ・スーダン系の住民が混在する繁栄したオアシス都市で、マグリブとガーナを結ぶ主要な玄関口だった。"
+   }
+  },
+  {
+   "year": 1040,
+   "qid": "Q75613",
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "The Almoravid movement arises in the western Sahara",
+    "ko": "서사하라에서 알모라비드 운동 발흥",
+    "zh": "穆拉比特运动在西撒哈拉兴起",
+    "ja": "ムラービト運動が西サハラに興る"
+   },
+   "description": {
+    "en": "Returning from pilgrimage, the Juddala chief Yahya ibn Ibrahim brought the Maliki scholar Abdallah ibn Yasin to preach a stricter Islam among the Sanhaja Berbers of present-day Mauritania. Under Lamtuna leaders the reform movement became the Almoravids (al-Murabitun). It went on to conquer Morocco and much of Iberia, spreading Maliki Islam across the region.",
+    "ko": "메카 순례에서 돌아온 주달라족 족장 야흐야 이븐 이브라힘이 말리키파 학자 압달라 이븐 야신을 데려와 오늘날 모리타니의 산하자 베르베르인들에게 엄격한 이슬람을 설교하게 했다. 이 개혁 운동은 람투나족 지도자들 아래 알모라비드(무라비툰)가 되었다. 이들은 모로코와 이베리아반도 대부분을 정복하며 말리키파 이슬람을 널리 퍼뜨렸다.",
+    "zh": "朱达拉部酋长叶海亚·伊本·易卜拉欣朝觐归来，请马立克派学者阿卜杜拉·伊本·亚辛到今毛里塔尼亚的桑哈贾柏柏尔人中宣讲更严格的伊斯兰教。这场改革运动在兰图纳部首领领导下发展为穆拉比特运动。他们随后征服摩洛哥和伊比利亚大部，将马立克派伊斯兰教传遍整个地区。",
+    "ja": "巡礼から戻ったジュッダーラ族の長ヤフヤー・イブン・イブラーヒームは、マーリク派の学者アブドゥッラー・イブン・ヤースィーンを招き、現在のモーリタニアのサンハージャ・ベルベル人により厳格なイスラームを説かせた。この改革運動はラムトゥーナ族の指導者のもとでムラービト（ムラービトゥーン）となった。彼らはモロッコとイベリア半島の大半を征服し、マーリク派イスラームを広めた。"
+   }
+  },
+  {
+   "year": 1054,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Almoravids take Awdaghust",
+    "ko": "알모라비드의 아우다구스트 점령",
+    "zh": "穆拉比特人攻占奥达古斯特",
+    "ja": "ムラービト朝のアウダゴスト攻略"
+   },
+   "description": {
+    "en": "According to the geographer al-Bakri, the Almoravids stormed the trading town of Awdaghust in southern Mauritania, which had been under the authority of Ghana. The capture gave them control of a key southern terminus of the caravan trade. The ruins at Tegdaoust are generally identified with Awdaghust.",
+    "ko": "지리학자 알바크리에 따르면 알모라비드는 가나의 지배 아래 있던 모리타니 남부의 교역 도시 아우다구스트를 공격해 점령했다. 이로써 이들은 대상 교역의 핵심 남쪽 종착지를 손에 넣었다. 테그다우스트 유적은 일반적으로 아우다구스트로 비정된다.",
+    "zh": "据地理学家巴克里记载，穆拉比特人攻占了此前受加纳管辖的毛里塔尼亚南部商业城镇奥达古斯特，从而控制了商队贸易的重要南端终点。泰格达乌斯特遗址一般被认定为奥达古斯特故址。",
+    "ja": "地理学者バクリーによれば、ムラービト朝はガーナの支配下にあったモーリタニア南部の交易都市アウダゴストを攻略した。これにより隊商交易の重要な南の終点を手中に収めた。テグダウストの遺跡は一般にアウダゴストに比定されている。"
+   }
+  },
+  {
+   "year": 1056,
+   "qid": "Q2890092",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Tabfarilla",
+    "ko": "타브파릴라 전투",
+    "zh": "塔布法里拉之战",
+    "ja": "タブファリラの戦い"
+   },
+   "description": {
+    "en": "The Almoravids fought the rebellious Juddala (Godala) tribe at Tabfarilla in present-day Mauritania. Their commander Yahya ibn Umar al-Lamtuni was killed, and leadership in the south passed to his brother Abu Bakr ibn Umar. The battle shows that the Sanhaja confederation remained divided even as the movement expanded northward.",
+    "ko": "알모라비드는 오늘날 모리타니의 타브파릴라에서 반란을 일으킨 주달라(고달라)족과 싸웠다. 지휘관 야흐야 이븐 우마르 알람투니가 전사했고, 남부의 지도권은 그의 형제 아부 바크르 이븐 우마르에게 넘어갔다. 이 전투는 운동이 북쪽으로 확장하는 동안에도 산하자 연맹이 분열되어 있었음을 보여 준다.",
+    "zh": "穆拉比特人在今毛里塔尼亚境内的塔布法里拉与反叛的朱达拉（戈达拉）部交战，主将叶海亚·伊本·欧麦尔·兰图尼阵亡，南方的领导权转到其兄弟阿布·伯克尔·伊本·欧麦尔手中。此役表明，即便运动向北扩张，桑哈贾联盟内部依然分裂。",
+    "ja": "ムラービト軍は現在のモーリタニアのタブファリラで、反旗を翻したジュッダーラ（ゴダーラ）族と戦った。指揮官ヤフヤー・イブン・ウマル・ラムトゥーニーは戦死し、南部の指導権は兄弟のアブー・バクル・イブン・ウマルに移った。この戦いは、運動が北へ拡大する一方でサンハージャ連合が分裂していたことを示している。"
+   }
+  },
+  {
+   "year": 1068,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Al-Bakri describes the capital of Ghana",
+    "ko": "알바크리가 기록한 가나의 수도",
+    "zh": "巴克里记述加纳都城",
+    "ja": "バクリーが記したガーナの都"
+   },
+   "description": {
+    "en": "In his Book of Routes and Realms, the Andalusian geographer al-Bakri gave the most detailed early description of Ghana's capital: a Muslim town with mosques and a separate royal town with the king's palace and sacred groves. He also described the king's court, gold and taxes on trade. His account remains the main written source for the empire.",
+    "ko": "안달루시아의 지리학자 알바크리는 저서 『여러 길과 왕국의 책』에서 가나 수도를 가장 자세히 묘사했다. 모스크가 있는 무슬림 도시와 왕궁 및 신성한 숲이 있는 왕의 도시가 따로 있었다고 한다. 그는 왕의 궁정과 황금, 교역 과세도 기록했으며, 그의 기록은 제국에 관한 주요 문헌 자료로 남아 있다.",
+    "zh": "安达卢斯地理学家巴克里在《道里邦国志》中对加纳都城作了最为详尽的早期描述：一座建有清真寺的穆斯林城镇，以及另一座设有王宫和圣林的王城。他还记述了国王的宫廷、黄金和贸易税收，这一记载至今仍是研究该帝国的主要文献。",
+    "ja": "アンダルスの地理学者バクリーは『諸道と諸国の書』で、ガーナの都を最も詳しく記した。モスクのあるムスリムの町と、王宮と聖なる森のある王の町が別々にあったという。王の宮廷や金、交易への課税も記録しており、その記述は帝国に関する主要な文献史料である。"
+   }
+  },
+  {
+   "year": 1076,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Almoravids and the fall of Koumbi Saleh",
+    "ko": "알모라비드와 쿰비살레의 함락",
+    "zh": "穆拉比特人与昆比萨莱赫的陷落",
+    "ja": "ムラービト朝とクンビ・サレーの陥落"
+   },
+   "description": {
+    "en": "Later Arabic sources state that Almoravid forces under Abu Bakr ibn Umar captured the capital of Ghana around this year. Some historians question whether a military conquest took place, arguing instead for gradual Islamization and alliance. Either way, Ghana's power declined in the following century as trade routes shifted.",
+    "ko": "후대 아랍 문헌에 따르면 이 무렵 아부 바크르 이븐 우마르가 이끄는 알모라비드군이 가나의 수도를 점령했다. 일부 역사가들은 실제 군사 정복이 있었는지 의문을 제기하며, 점진적 이슬람화와 동맹을 강조한다. 어느 쪽이든 이후 한 세기 동안 교역로가 바뀌면서 가나의 세력은 쇠퇴했다.",
+    "zh": "后世阿拉伯文献记载，约在这一年阿布·伯克尔·伊本·欧麦尔率领的穆拉比特军攻占了加纳都城。部分历史学家质疑是否真的发生过军事征服，认为更可能是逐步伊斯兰化与结盟。无论如何，随着商路转移，加纳的国势在此后一个世纪里日渐衰落。",
+    "ja": "後代のアラビア語史料によれば、この頃アブー・バクル・イブン・ウマル率いるムラービト軍がガーナの都を攻略した。一部の歴史家は実際の軍事征服があったのか疑問視し、漸進的なイスラーム化と同盟を重視している。いずれにせよ、その後の1世紀で交易路が移り、ガーナの勢力は衰えた。"
+   }
+  },
+  {
+   "year": 1087,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Abu Bakr ibn Umar",
+    "ko": "아부 바크르 이븐 우마르의 죽음",
+    "zh": "阿布·伯克尔·伊本·欧麦尔之死",
+    "ja": "アブー・バクル・イブン・ウマルの死"
+   },
+   "description": {
+    "en": "Abu Bakr ibn Umar, leader of the southern Almoravids, died in the Sahara; tradition places his death in the Tagant from an arrow wound received in battle. His death ended the unified leadership of the desert branch. Mauritanian tradition long remembered him and the Almoravid imam al-Hadrami, whose tomb is venerated at Azougui.",
+    "ko": "남부 알모라비드의 지도자 아부 바크르 이븐 우마르가 사하라에서 사망했다. 전승에 따르면 그는 타간트에서 전투 중 화살에 맞아 숨졌다. 그의 죽음으로 사막 지파의 통일된 지도력은 끝났다. 모리타니 전승은 그와 함께 아주기에 묘가 있는 알모라비드의 이맘 알하드라미를 오래도록 기억했다.",
+    "zh": "南方穆拉比特人的领袖阿布·伯克尔·伊本·欧麦尔死于撒哈拉；相传他在塔甘特作战时中箭身亡。他的去世结束了沙漠一支的统一领导。毛里塔尼亚的传统长期纪念他以及穆拉比特伊玛目哈德拉米，后者的陵墓在阿祖吉受到尊崇。",
+    "ja": "南部ムラービトの指導者アブー・バクル・イブン・ウマルがサハラで死去した。伝承では、タガントで戦闘中に矢傷を受けて亡くなったとされる。彼の死で砂漠の一派の統一的な指導は終わった。モーリタニアの伝承は彼と、アズーギに墓が崇敬されるムラービトのイマーム、ハドラミーを長く記憶した。"
+   }
+  },
+  {
+   "year": 1147,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Founding of Ouadane",
+    "ko": "우아단의 건설",
+    "zh": "瓦丹建城",
+    "ja": "ワダンの建設"
+   },
+   "description": {
+    "en": "According to local tradition, the oasis town of Ouadane in the Adrar was founded in the mid-12th century by Berber scholarly families. It grew into a major caravan stop for salt from Ijil and goods bound for the Sahel. Its stone-built quarters later became part of a UNESCO World Heritage site.",
+    "ko": "현지 전승에 따르면 아드라르의 오아시스 도시 우아단은 12세기 중반 베르베르 학자 가문들이 세웠다. 이곳은 이질의 소금과 사헬로 향하는 상품이 지나는 주요 대상 기착지로 성장했다. 돌로 지은 구시가는 훗날 유네스코 세계유산의 일부가 되었다.",
+    "zh": "据当地传统记载，阿德拉尔的绿洲城镇瓦丹由柏柏尔学者家族于12世纪中叶建立。它逐渐发展为伊吉勒食盐与运往萨赫勒货物的重要商队驿站，其石砌老城区后来成为联合国教科文组织世界遗产的一部分。",
+    "ja": "地元の伝承によれば、アドラールのオアシス都市ワダンは12世紀半ばにベルベル系の学者一族によって築かれた。イジルの塩やサヘルへ向かう商品が通る主要な隊商の宿場へと成長した。石造りの旧市街は後にユネスコ世界遺産の一部となった。"
+   }
+  },
+  {
+   "year": 1203,
+   "qid": "Q13099593",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sosso domination of the Ghana heartland",
+    "ko": "소소의 가나 중심부 장악",
+    "zh": "苏苏控制加纳故地",
+    "ja": "スースーによるガーナ中心部の支配"
+   },
+   "description": {
+    "en": "Oral traditions relate that around the beginning of the 13th century the Sosso king Soumaoro Kanté took control of the former Ghana capital region. Many Soninke merchants are said to have left for other towns, including Oualata. Sosso rule ended when Sundiata Keita founded the Mali Empire.",
+    "ko": "구전에 따르면 13세기 초 무렵 소소의 왕 수마오로 칸테가 옛 가나 수도 일대를 장악했다. 많은 소닌케 상인이 왈라타를 비롯한 다른 도시로 떠났다고 전한다. 소소의 지배는 순디아타 케이타가 말리 제국을 세우면서 끝났다.",
+    "zh": "口述传统称，约13世纪初苏苏国王苏马奥罗·坎特控制了昔日加纳都城一带。据说许多索宁克商人因此迁往瓦拉塔等其他城镇。随着松迪亚塔·凯塔建立马里帝国，苏苏的统治宣告结束。",
+    "ja": "口承によれば、13世紀初め頃スースー王スマオロ・カンテが旧ガーナの都の一帯を支配下に置いた。多くのソニンケ商人がワラタなど他の町へ移ったと伝えられる。スースーの支配はスンジャタ・ケイタがマリ帝国を建てたことで終わった。"
+   }
+  },
+  {
+   "year": 1235,
+   "qid": "Q184536",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Mali succeeds Ghana in the Sahel",
+    "ko": "말리가 사헬에서 가나를 계승하다",
+    "zh": "马里取代加纳称雄萨赫勒",
+    "ja": "マリがサヘルでガーナを継ぐ"
+   },
+   "description": {
+    "en": "According to tradition, Sundiata Keita defeated Soumaoro Kanté at Kirina around this year, founding the Mali Empire. Mali absorbed the former Ghana lands, including the southeastern borderlands of today's Mauritania. Oualata became Mali's northern caravan port on the edge of the desert.",
+    "ko": "전승에 따르면 이 무렵 순디아타 케이타가 키리나에서 수마오로 칸테를 물리치고 말리 제국을 세웠다. 말리는 오늘날 모리타니 남동부 변경을 포함한 옛 가나 영토를 흡수했다. 왈라타는 사막 가장자리에 자리한 말리의 북쪽 대상 항구가 되었다.",
+    "zh": "据传统记载，约在这一年松迪亚塔·凯塔在基里纳击败苏马奥罗·坎特，建立马里帝国。马里吞并了包括今毛里塔尼亚东南边境在内的旧加纳领土，瓦拉塔成为马里在沙漠边缘的北方商队港口。",
+    "ja": "伝承によれば、この頃スンジャタ・ケイタがキリナでスマオロ・カンテを破り、マリ帝国を建てた。マリは現在のモーリタニア南東辺境を含む旧ガーナ領を吸収した。ワラタは砂漠の縁にあるマリの北の隊商港となった。"
+   }
+  },
+  {
+   "year": 1264,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Chinguetti and the Saharan caravan cities",
+    "ko": "친게티와 사하라 대상 도시들",
+    "zh": "欣盖提与撒哈拉商队古城",
+    "ja": "シンゲッティとサハラの隊商都市"
+   },
+   "description": {
+    "en": "According to tradition, the caravan town of Chinguetti was (re)founded in the 13th century on the trans-Saharan routes of the Adrar. With Ouadane, Tichitt and Oualata it became a renowned centre of Islamic learning, and pilgrims to Mecca gathered there. Its name came to stand for the whole region, which Arabs long called 'the land of Shinqit'.",
+    "ko": "전승에 따르면 대상 도시 친게티는 13세기 아드라르의 사하라 횡단 교역로 위에 세워졌다(혹은 재건되었다). 우아단, 티치트, 왈라타와 함께 이슬람 학문의 중심지로 이름을 떨쳤고, 메카 순례자들이 이곳에 모였다. 그 이름은 지역 전체를 가리키게 되어, 아랍인들은 오랫동안 이 땅을 '싱키트의 땅'이라 불렀다.",
+    "zh": "据传统记载，商队城镇欣盖提于13世纪在阿德拉尔的跨撒哈拉商路上建立（或重建）。它与瓦丹、提希特、瓦拉塔并称，成为著名的伊斯兰学术中心，赴麦加朝觐者也在此集结。其名后来代指整个地区，阿拉伯人长期称这片土地为“欣盖特之地”。",
+    "ja": "伝承によれば、隊商都市シンゲッティは13世紀にアドラールのサハラ縦断交易路上に築かれた（あるいは再建された）。ワダン、ティシット、ワラタとともにイスラーム学問の中心として名を馳せ、メッカへの巡礼者もここに集まった。その名は地域全体を指すようになり、アラブ人は長くこの地を「シンキートの地」と呼んだ。"
+   }
+  },
+  {
+   "year": 1352,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Ibn Battuta visits Oualata",
+    "ko": "이븐 바투타의 왈라타 방문",
+    "zh": "伊本·白图泰到访瓦拉塔",
+    "ja": "イブン・バットゥータのワラタ訪問"
+   },
+   "description": {
+    "en": "The Moroccan traveller Ibn Battuta crossed the Sahara and reached Oualata (Iwalatan), the first town of the Mali Empire on his route. He described its Massufa inhabitants, the Mali king's governor and the unusual freedom of local women. His account is a key source for daily life in the medieval Sahel.",
+    "ko": "모로코 여행가 이븐 바투타는 사하라를 건너 그의 여정에서 말리 제국의 첫 도시인 왈라타(이왈라탄)에 도착했다. 그는 마수파족 주민, 말리 왕의 총독, 그리고 현지 여성들의 남다른 자유를 기록했다. 그의 기록은 중세 사헬의 일상생활을 보여 주는 핵심 자료이다.",
+    "zh": "摩洛哥旅行家伊本·白图泰穿越撒哈拉，抵达其旅途中马里帝国的第一座城镇瓦拉塔（伊瓦拉坦）。他记述了当地的马苏法族居民、马里国王的总督以及当地妇女不同寻常的自由。他的记载是了解中世纪萨赫勒日常生活的重要史料。",
+    "ja": "モロッコの旅行家イブン・バットゥータはサハラを越え、行程上マリ帝国最初の町であるワラタ（イーワーラータン）に着いた。マスーファ族の住民、マリ王の総督、そして地元女性の際立った自由について記している。その記録は中世サヘルの日常生活を知る重要な史料である。"
+   }
+  },
+  {
+   "year": 1400,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Arrival of the Beni Hassan Arabs",
+    "ko": "베니 하산 아랍인의 도래",
+    "zh": "贝尼哈桑阿拉伯人到来",
+    "ja": "ベニ・ハッサン・アラブの到来"
+   },
+   "description": {
+    "en": "From around the 14th and 15th centuries, Arab Beni Hassan groups of the Maqil tribes migrated southward from Morocco into the western Sahara. They gradually imposed tribute on Berber tribes and spread the Hassaniya Arabic dialect. Their rise led to centuries of rivalry with the Sanhaja that shaped Moorish society.",
+    "ko": "14~15세기 무렵부터 마킬 부족에 속한 아랍계 베니 하산 집단이 모로코에서 서사하라로 남하했다. 이들은 점차 베르베르 부족들에게 공물을 부과하고 하사니야 아랍어를 퍼뜨렸다. 이들의 부상은 무어인 사회를 형성한 산하자와의 수백 년에 걸친 경쟁으로 이어졌다.",
+    "zh": "约自14至15世纪起，属于马吉勒部落的阿拉伯贝尼哈桑族群由摩洛哥南迁进入西撒哈拉。他们逐渐向柏柏尔部落征收贡赋，并传播了哈桑尼亚阿拉伯语方言。他们的崛起引发了与桑哈贾人长达数百年的竞争，塑造了摩尔社会。",
+    "ja": "14～15世紀頃から、マアキル諸部族に属するアラブ系ベニ・ハッサン集団がモロッコから西サハラへ南下した。彼らは次第にベルベル系部族に貢納を課し、ハッサーニーヤ・アラビア語を広めた。その台頭はサンハージャとの数世紀にわたる対抗を生み、ムーア人社会の形を決めた。"
+   }
+  },
+  {
+   "year": 1443,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Portuguese reach Arguin",
+    "ko": "포르투갈인의 아르갱 도달",
+    "zh": "葡萄牙人抵达阿尔金",
+    "ja": "ポルトガル人のアルガン到達"
+   },
+   "description": {
+    "en": "Sailing for Prince Henry, the Portuguese navigator Nuno Tristão reached the island of Arguin off the Mauritanian coast. Within a few years the Portuguese built a fort there, one of the first European trading posts in sub-Saharan Africa. It tapped the caravan trade in gold and became a base for capturing and buying slaves.",
+    "ko": "엔히크 왕자를 위해 항해하던 포르투갈 항해자 누누 트리스탕이 모리타니 앞바다의 아르갱섬에 도달했다. 몇 년 뒤 포르투갈은 그곳에 요새를 세웠는데, 이는 사하라 이남 아프리카 최초의 유럽 교역 거점 가운데 하나였다. 이 거점은 금 대상 교역을 끌어들였고 노예를 사로잡고 사들이는 기지가 되었다.",
+    "zh": "为恩里克王子效力的葡萄牙航海家努诺·特里斯唐抵达毛里塔尼亚近海的阿尔金岛。数年之内葡萄牙人在岛上修建要塞，这是撒哈拉以南非洲最早的欧洲贸易据点之一。它汲取了商队的黄金贸易，并成为掳掠和购买奴隶的基地。",
+    "ja": "エンリケ王子のために航海したポルトガルの航海者ヌーノ・トリスタンが、モーリタニア沖のアルガン島に到達した。数年のうちにポルトガルはそこに砦を築き、サハラ以南アフリカで最初期のヨーロッパの交易拠点となった。隊商の金交易を取り込み、奴隷の捕獲・購入の拠点ともなった。"
+   }
+  },
+  {
+   "year": 1487,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Portuguese trading agent at Ouadane",
+    "ko": "우아단의 포르투갈 교역소",
+    "zh": "葡萄牙人在瓦丹设立商站",
+    "ja": "ワダンのポルトガル商館"
+   },
+   "description": {
+    "en": "Seeking direct access to Saharan gold, the Portuguese attempted in the late 15th century to establish a trading agency at the inland caravan town of Ouadane. The venture was short-lived. It reflects how Atlantic shipping was beginning to compete with the desert caravans.",
+    "ko": "사하라의 금에 직접 접근하려던 포르투갈은 15세기 말 내륙 대상 도시 우아단에 교역소를 세우려 했다. 이 시도는 오래가지 못했지만, 대서양 해운이 사막 대상과 경쟁하기 시작했음을 보여 준다.",
+    "zh": "为了直接获取撒哈拉黄金，葡萄牙人在15世纪末试图在内陆商队城镇瓦丹设立商站。这一尝试为时短暂，但反映了大西洋航运开始与沙漠商队展开竞争。",
+    "ja": "サハラの金に直接近づこうとしたポルトガルは、15世紀末に内陸の隊商都市ワダンに商館を置こうとした。この試みは短命に終わったが、大西洋航路が砂漠の隊商と競い始めたことを示している。"
+   }
+  },
+  {
+   "year": 1490,
+   "qid": "Q1186858",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Denianke dynasty in Futa Toro",
+    "ko": "푸타토로의 데니얀케 왕조",
+    "zh": "富塔托罗的德尼扬凯王朝",
+    "ja": "フタ・トロのデニャンケ朝"
+   },
+   "description": {
+    "en": "Fulani forces led by Koli Tenguella established the Denianke dynasty in Futa Toro, the middle Senegal River valley whose northern bank lies in today's Mauritania. The kingdom, known to the Portuguese as the land of the 'Great Fulo', ruled the river's farming and herding communities for nearly three centuries.",
+    "ko": "콜리 텡겔라가 이끈 풀라니 세력이 북안이 오늘날 모리타니에 속한 세네갈강 중류의 푸타토로에 데니얀케 왕조를 세웠다. 포르투갈인에게 '대풀로'의 땅으로 알려진 이 왕국은 거의 3세기 동안 강 유역의 농경·목축 공동체를 다스렸다.",
+    "zh": "科利·滕格拉率领的富拉尼人在富塔托罗建立了德尼扬凯王朝。富塔托罗位于塞内加尔河中游，其北岸属今毛里塔尼亚。该王国被葡萄牙人称为“大富洛”之地，统治沿河农牧社群近三个世纪。",
+    "ja": "コリ・テンゲラ率いるフルベ勢力が、北岸が現在のモーリタニアに属するセネガル川中流域フタ・トロにデニャンケ朝を開いた。ポルトガル人に「大フロ」の地として知られたこの王国は、約3世紀にわたり川沿いの農牧民を治めた。"
+   }
+  },
+  {
+   "year": 1591,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fall of Songhai",
+    "ko": "송가이의 몰락",
+    "zh": "桑海帝国覆灭",
+    "ja": "ソンガイの滅亡"
+   },
+   "description": {
+    "en": "A Moroccan army sent across the Sahara by Sultan Ahmad al-Mansur defeated Songhai at Tondibi on the Niger. The collapse of the last great Sahelian empire removed central authority from the eastern fringes of today's Mauritania. Caravan trade continued, but nomadic confederations and local emirates increasingly filled the vacuum.",
+    "ko": "술탄 아흐마드 알만수르가 사하라 너머로 보낸 모로코군이 니제르강 변의 톤디비에서 송가이를 격파했다. 마지막 대(大)사헬 제국이 무너지면서 오늘날 모리타니 동쪽 변경에는 중앙 권력이 사라졌다. 대상 교역은 이어졌지만 유목 연맹과 지역 에미르국들이 점점 그 공백을 메웠다.",
+    "zh": "苏丹艾哈迈德·曼苏尔派遣的摩洛哥军队穿越撒哈拉，在尼日尔河畔的通迪比击败桑海。最后一个萨赫勒大帝国的崩溃，使今毛里塔尼亚东部边缘失去了中央权威。商队贸易仍在继续，但游牧联盟和地方酋长国逐渐填补了这一真空。",
+    "ja": "スルタン、アフマド・マンスールがサハラを越えて送ったモロッコ軍が、ニジェール川沿いのトンディビでソンガイを破った。最後のサヘル大帝国の崩壊で、現在のモーリタニア東辺から中央権力が消えた。隊商交易は続いたが、遊牧連合や地域の首長国が次第にその空白を埋めた。"
+   }
+  },
+  {
+   "year": 1633,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Dutch seize Arguin",
+    "ko": "네덜란드의 아르갱 점령",
+    "zh": "荷兰夺取阿尔金",
+    "ja": "オランダのアルガン奪取"
+   },
+   "description": {
+    "en": "The Dutch captured the fort of Arguin from the Portuguese, ending nearly two centuries of Portuguese presence. In the following decades the island became a prize contested by the Dutch, English and French. European interest increasingly focused on gum arabic from the Mauritanian hinterland.",
+    "ko": "네덜란드가 포르투갈로부터 아르갱 요새를 빼앗으면서 약 2세기에 걸친 포르투갈의 존재가 끝났다. 이후 수십 년 동안 이 섬은 네덜란드, 영국, 프랑스가 다투는 전리품이 되었다. 유럽의 관심은 점점 모리타니 내륙의 아라비아고무에 쏠렸다.",
+    "zh": "荷兰人从葡萄牙人手中夺取阿尔金要塞，结束了葡萄牙人近两个世纪的存在。此后数十年间，该岛成为荷兰、英国和法国争夺的对象，欧洲人的兴趣也日益集中于毛里塔尼亚内陆出产的阿拉伯树胶。",
+    "ja": "オランダがポルトガルからアルガン要塞を奪い、約2世紀にわたるポルトガルの存在に終止符を打った。その後数十年、島はオランダ・イギリス・フランスが争う的となった。ヨーロッパの関心は次第にモーリタニア内陸のアラビアゴムに集まった。"
+   }
+  },
+  {
+   "year": 1674,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Char Bouba war reshapes society",
+    "ko": "샤르 부바 전쟁과 사회 재편",
+    "zh": "沙尔布巴战争重塑社会",
+    "ja": "シャール・ブーバ戦争と社会の再編"
+   },
+   "description": {
+    "en": "The Char Bouba war, a long conflict in which the Berber cleric Nasir al-Din's movement and Sanhaja tribes opposed the Arab Beni Hassan warriors, ended around this time with a Hassani victory. Afterwards society was ordered into warrior (Hassane) and clerical (Zawaya) lineages above tributaries, artisans and slaves. Hassaniya Arabic became the common language of the Moors.",
+    "ko": "베르베르 성직자 나시르 알딘의 운동과 산하자 부족들이 아랍계 베니 하산 전사들과 맞선 오랜 분쟁인 샤르 부바 전쟁이 이 무렵 하사니 측의 승리로 끝났다. 이후 사회는 전사(하산) 가문과 성직자(자와야) 가문이 공납민, 장인, 노예 위에 서는 위계로 재편되었다. 하사니야 아랍어는 무어인의 공통어가 되었다.",
+    "zh": "沙尔布巴战争是柏柏尔教士纳西尔丁的运动及桑哈贾部落与阿拉伯贝尼哈桑武士之间的长期冲突，约在此时以哈桑尼一方获胜告终。此后社会被划分为武士（哈桑）与教士（扎瓦亚）世系，居于纳贡者、工匠和奴隶之上。哈桑尼亚阿拉伯语成为摩尔人的通用语言。",
+    "ja": "ベルベル系聖職者ナースィル・アッディーンの運動とサンハージャ諸部族がアラブ系ベニ・ハッサンの戦士と争った長い紛争、シャール・ブーバ戦争は、この頃ハッサーン側の勝利で終わった。以後、社会は戦士（ハッサーン）と聖職者（ザワーヤ）の家系が貢納民・職人・奴隷の上に立つ序列に再編された。ハッサーニーヤ・アラビア語はムーア人の共通語となった。"
+   }
+  },
+  {
+   "year": 1685,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Brandenburg trading post at Arguin",
+    "ko": "아르갱의 브란덴부르크 교역소",
+    "zh": "勃兰登堡在阿尔金的商站",
+    "ja": "アルガンのブランデンブルク商館"
+   },
+   "description": {
+    "en": "The Brandenburg African Company occupied Arguin, using it to trade for gum arabic and slaves with the Moors. Rivalry with the French, who held Saint-Louis at the mouth of the Senegal, culminated in French control of the coast in the early 18th century. The episode illustrates how many European powers competed for the Mauritanian gum trade.",
+    "ko": "브란덴부르크 아프리카 회사가 아르갱을 점령하고 무어인과 아라비아고무와 노예를 거래하는 거점으로 삼았다. 세네갈강 하구의 생루이를 차지한 프랑스와의 경쟁은 18세기 초 프랑스의 해안 장악으로 귀결되었다. 이 일은 여러 유럽 열강이 모리타니의 고무 교역을 두고 다투었음을 보여 준다.",
+    "zh": "勃兰登堡非洲公司占据阿尔金，以此为据点与摩尔人交易阿拉伯树胶和奴隶。该公司与占据塞内加尔河口圣路易的法国人展开竞争，最终在18世纪初法国控制了这一海岸。此事反映了众多欧洲列强对毛里塔尼亚树胶贸易的争夺。",
+    "ja": "ブランデンブルク・アフリカ会社がアルガンを占拠し、ムーア人とアラビアゴムや奴隷を取引する拠点とした。セネガル川河口のサン・ルイを押さえるフランスとの競争は、18世紀初めにフランスが沿岸を掌握することで決着した。この出来事は、多くのヨーロッパ列強がモーリタニアのゴム交易を争ったことを示している。"
+   }
+  },
+  {
+   "year": 1776,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Torodbe revolution in Futa Toro",
+    "ko": "푸타토로의 토로드베 혁명",
+    "zh": "富塔托罗的托罗德贝革命",
+    "ja": "フタ・トロのトロドベ革命"
+   },
+   "description": {
+    "en": "Muslim clerics of the Torodbe class, led by Abdul Kader Kane, overthrew the Denianke dynasty and founded the Imamate of Futa Toro along the middle Senegal River. The new state sought to resist Moorish raids from the north bank and the enslavement of Muslims for the Atlantic trade. It became a model for later West African jihad states.",
+    "ko": "압둘 카데르 카네가 이끄는 토로드베 계층의 이슬람 성직자들이 데니얀케 왕조를 무너뜨리고 세네갈강 중류에 푸타토로 이맘국을 세웠다. 새 국가는 북안에서 오는 무어인의 습격과 대서양 노예무역을 위한 무슬림 노예화에 맞서고자 했다. 이 국가는 이후 서아프리카 지하드 국가들의 본보기가 되었다.",
+    "zh": "由阿卜杜勒·卡迪尔·卡内领导的托罗德贝阶层穆斯林教士推翻德尼扬凯王朝，在塞内加尔河中游建立了富塔托罗伊玛目国。新国家力图抵御来自北岸的摩尔人袭扰，并反对为大西洋贸易而奴役穆斯林。它成为后来西非圣战国家的典范。",
+    "ja": "アブドゥル・カーデル・カン率いるトロドベ層のイスラーム聖職者がデニャンケ朝を倒し、セネガル川中流域にフタ・トロ・イマーム国を建てた。新国家は北岸からのムーア人の襲撃と、大西洋貿易のためのムスリムの奴隷化に抵抗しようとした。後の西アフリカのジハード国家の手本となった。"
+   }
+  },
+  {
+   "year": 1816,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Wreck of the Méduse",
+    "ko": "메뒤즈호 난파",
+    "zh": "美杜莎号沉没",
+    "ja": "メデューズ号の難破"
+   },
+   "description": {
+    "en": "The French frigate Méduse, carrying officials to reclaim Senegal from Britain, ran aground on the Banc d'Arguin off Mauritania. Lacking enough lifeboats, around 150 people were set adrift on a raft, and only a handful survived. The scandal, immortalized in Géricault's painting The Raft of the Medusa, shook the restored French monarchy.",
+    "ko": "영국으로부터 세네갈을 돌려받기 위해 관리들을 태우고 가던 프랑스 프리깃함 메뒤즈호가 모리타니 앞바다 방다르갱 모래톱에 좌초했다. 구명보트가 부족해 약 150명이 뗏목에 태워져 표류했고, 살아남은 사람은 극소수였다. 제리코의 그림 「메뒤즈호의 뗏목」으로 영원히 남은 이 추문은 복고 왕정 프랑스를 뒤흔들었다.",
+    "zh": "法国护卫舰“美杜莎号”载着前往从英国手中收回塞内加尔的官员，在毛里塔尼亚近海的阿尔金浅滩搁浅。由于救生艇不足，约150人被放上木筏漂流，最终幸存者寥寥无几。籍里柯的名画《美杜莎之筏》使这一丑闻流传后世，也震动了复辟的法国王朝。",
+    "ja": "イギリスからセネガルを取り戻すため役人を乗せたフランスのフリゲート艦メデューズ号が、モーリタニア沖のバン・ダルガンで座礁した。救命艇が足りず約150人が筏で漂流し、生き残ったのはごくわずかだった。ジェリコーの絵画『メデューズ号の筏』で知られるこの醜聞は、復古王政のフランスを揺るがした。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Faidherbe's treaties with Trarza and Brakna",
+    "ko": "페데르브와 트라르자·브라크나의 조약",
+    "zh": "费代尔布与特拉扎、布拉克纳签约",
+    "ja": "フェデルブとトラルザ・ブラクナの条約"
+   },
+   "description": {
+    "en": "After years of war waged by Senegal's governor Louis Faidherbe against the Trarza emir Muhammad al-Habib, the emirates of Trarza and Brakna signed treaties with France. They renounced claims over the left bank of the Senegal River and accepted French control of the gum trade. The treaties marked the first step of French dominance over the Moorish emirates.",
+    "ko": "세네갈 총독 루이 페데르브가 트라르자의 에미르 무함마드 알하비브와 수년간 전쟁을 벌인 끝에 트라르자와 브라크나 에미르국이 프랑스와 조약을 맺었다. 이들은 세네갈강 남안에 대한 권리 주장을 포기하고 프랑스의 고무 교역 통제를 받아들였다. 이 조약들은 무어인 에미르국에 대한 프랑스 지배의 첫걸음이었다.",
+    "zh": "塞内加尔总督路易·费代尔布与特拉扎埃米尔穆罕默德·哈比卜交战数年后，特拉扎和布拉克纳两酋长国与法国签订条约。它们放弃对塞内加尔河左岸的主张，并接受法国对树胶贸易的控制。这些条约标志着法国支配摩尔人诸酋长国的第一步。",
+    "ja": "セネガル総督ルイ・フェデルブがトラルザのアミール、ムハンマド・アル＝ハビーブと数年にわたり戦った末、トラルザとブラクナの首長国はフランスと条約を結んだ。両国はセネガル川左岸への主張を放棄し、フランスによるゴム交易の管理を受け入れた。これらの条約はムーア人首長国に対するフランス支配の第一歩となった。"
+   }
+  },
+  {
+   "year": 1900,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Franco-Spanish border treaty",
+    "ko": "프랑스-스페인 국경 조약",
+    "zh": "法西边界条约",
+    "ja": "仏西国境条約"
+   },
+   "description": {
+    "en": "A treaty signed in Paris between France and Spain delimited the boundary between Spain's Río de Oro and French-claimed territory to the south and east. Its lines, drawn across the open desert, largely became the northern and western borders of modern Mauritania. The Cape Blanc peninsula was divided between the two powers.",
+    "ko": "프랑스와 스페인이 파리에서 맺은 조약으로 스페인령 리오데오로와 그 남쪽·동쪽의 프랑스 주장 영역 사이의 경계가 정해졌다. 사막을 가로질러 그은 이 선은 대체로 오늘날 모리타니의 북부·서부 국경이 되었다. 블랑곶 반도는 두 나라가 나누어 가졌다.",
+    "zh": "法国与西班牙在巴黎签订条约，划定了西属里奥德奥罗与其南部和东部法国所主张领土之间的边界。这些横贯沙漠的界线大体成为今日毛里塔尼亚的北部和西部边界，布兰科角半岛则由两国分割。",
+    "ja": "フランスとスペインがパリで結んだ条約により、スペイン領リオ・デ・オロとその南・東のフランスが主張する地域との境界が定められた。砂漠に引かれたこの線は、ほぼ現在のモーリタニアの北部・西部国境となった。ブラン岬半島は両国で分割された。"
+   }
+  },
+  {
+   "year": 1903,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Coppolani's 'peaceful penetration'",
+    "ko": "코폴라니의 '평화적 침투'",
+    "zh": "科波拉尼的“和平渗透”",
+    "ja": "コッポラーニの「平和的浸透」"
+   },
+   "description": {
+    "en": "The Corsican-born administrator Xavier Coppolani, an Arabic speaker familiar with Sufi orders, won over leading clerics and placed Trarza and Brakna under French protection in 1902–03. Exploiting rivalries between warrior and clerical lineages, he extended control with relatively little fighting. In 1904 France organized the area as the Civil Territory of Mauritania.",
+    "ko": "코르시카 출신으로 아랍어에 능하고 수피 교단에 정통했던 행정관 그자비에 코폴라니는 1902~1903년 주요 성직자들을 회유해 트라르자와 브라크나를 프랑스의 보호 아래 두었다. 그는 전사 가문과 성직자 가문 사이의 경쟁을 이용해 비교적 적은 전투로 지배를 넓혔다. 1904년 프랑스는 이 지역을 '모리타니 민정 지역'으로 편성했다.",
+    "zh": "出生于科西嘉的行政官科波拉尼通晓阿拉伯语并熟悉苏菲教团，他于1902至1903年拉拢主要宗教人士，将特拉扎和布拉克纳置于法国保护之下。他利用武士世系与教士世系之间的矛盾，以较少的战斗扩张了控制范围。1904年法国将该地区设为“毛里塔尼亚民政领地”。",
+    "ja": "コルシカ生まれでアラビア語に通じスーフィー教団に詳しい行政官コッポラーニは、1902～03年に有力な聖職者を味方につけ、トラルザとブラクナをフランスの保護下に置いた。戦士と聖職者の家系の対立を利用し、比較的少ない戦闘で支配を広げた。1904年、フランスはこの地域を「モーリタニア民政地域」とした。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Coppolani assassinated at Tidjikja",
+    "ko": "티지크자에서 코폴라니 암살",
+    "zh": "科波拉尼在提吉克贾遇刺",
+    "ja": "ティジクジャでコッポラーニ暗殺"
+   },
+   "description": {
+    "en": "While advancing into the Tagant, Xavier Coppolani was killed in a night attack on his post at Tidjikja. Resistance to the French was encouraged by Shaykh Ma al-Aynayn, the influential scholar based in the north. His death slowed the conquest, and France turned to more conventional military campaigns.",
+    "ko": "타간트로 진출하던 그자비에 코폴라니가 티지크자 주둔지에 대한 야간 습격으로 살해되었다. 프랑스에 대한 저항은 북부를 근거지로 한 영향력 있는 학자 셰이크 마 알아이닌의 격려를 받았다. 그의 죽음으로 정복은 늦어졌고, 프랑스는 보다 전통적인 군사 원정으로 방향을 바꾸었다.",
+    "zh": "科波拉尼在向塔甘特推进时，于提吉克贾哨所遭夜袭身亡。北方颇具影响力的学者谢赫马·艾宁鼓励了对法国的抵抗。他的死使征服进程放缓，法国转而采取更为常规的军事行动。",
+    "ja": "タガントへ進出していたコッポラーニは、ティジクジャの拠点への夜襲で殺害された。フランスへの抵抗は、北部を拠点とする有力な学者シャイフ・マー・アルアイナインに後押しされていた。彼の死で征服は遅れ、フランスはより通常の軍事作戦へと切り替えた。"
+   }
+  },
+  {
+   "year": 1909,
+   "qid": "Q20395973",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "French conquest of the Adrar",
+    "ko": "프랑스의 아드라르 정복",
+    "zh": "法国征服阿德拉尔",
+    "ja": "フランスのアドラール征服"
+   },
+   "description": {
+    "en": "A French column under Colonel Henri Gouraud occupied Atar and subdued the Emirate of Adrar, the last major independent emirate of the Mauritanian Sahara. The campaign broke the main centre of resistance linked to Ma al-Aynayn's followers. Sporadic raids by northern nomads nevertheless continued for another two decades.",
+    "ko": "앙리 구로 대령이 이끈 프랑스 부대가 아타르를 점령하고, 모리타니 사하라의 마지막 주요 독립 에미르국이던 아드라르 에미르국을 굴복시켰다. 이 원정으로 마 알아이닌 추종자들과 연계된 주요 저항 거점이 무너졌다. 그러나 북부 유목민의 산발적 습격은 이후 20년간 이어졌다.",
+    "zh": "古罗上校率领的法军纵队占领阿塔尔，征服了毛里塔尼亚撒哈拉最后一个重要的独立酋长国——阿德拉尔酋长国。此役摧毁了与马·艾宁追随者相关的主要抵抗中心，但北方游牧民的零星袭击此后仍持续了二十年。",
+    "ja": "アンリ・グロー大佐率いるフランス軍部隊がアタールを占領し、モーリタニアのサハラで最後の主要な独立首長国であったアドラール首長国を屈服させた。この遠征でマー・アルアイナインの信奉者と結びついた抵抗の中心は崩れたが、北部遊牧民の散発的な襲撃はその後20年続いた。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": "Q19951607",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Mauritania becomes a French colony",
+    "ko": "프랑스 식민지 편입",
+    "zh": "沦为法国殖民地",
+    "ja": "フランス植民地への編入"
+   },
+   "description": {
+    "en": "After two decades of gradual conquest initiated by Xavier Coppolani, Mauritania was formally constituted as a colony within French West Africa. It was administered from Saint-Louis in Senegal, with little investment in schools or infrastructure. Nomad resistance in the north continued into the 1930s.",
+    "ko": "그자비에 코폴라니가 시작한 20년에 걸친 점진적 정복 끝에 모리타니는 프랑스령 서아프리카의 식민지로 공식 편성되었다. 세네갈의 생루이에서 통치되었으며, 학교나 기반 시설에 대한 투자는 거의 없었다. 북부 유목민의 저항은 1930년대까지 이어졌다.",
+    "zh": "经过科波拉尼发起的二十年渐进征服，毛里塔尼亚被正式划为法属西非的一个殖民地。它由塞内加尔的圣路易管辖，学校和基础设施投入甚少。北部游牧部族的抵抗一直持续到20世纪30年代。",
+    "ja": "コッポラーニが着手した20年に及ぶ漸進的征服の末、モーリタニアはフランス領西アフリカの植民地として正式に編成された。セネガルのサン・ルイから統治され、学校やインフラへの投資はほとんどなかった。北部遊牧民の抵抗は1930年代まで続いた。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First Mauritanian deputy in Paris",
+    "ko": "파리에 간 첫 모리타니 의원",
+    "zh": "首位毛里塔尼亚议员进入巴黎议会",
+    "ja": "パリへ送られた初のモーリタニア議員"
+   },
+   "description": {
+    "en": "Under the postwar French Union, Mauritania became an overseas territory and elected its own deputy to the French National Assembly. Horma Ould Babana won the seat, defeating the candidate favoured by the colonial administration. Political parties began to form around questions of reform, tradition and ties to Morocco.",
+    "ko": "전후 프랑스 연합 체제에서 모리타니는 해외 영토가 되어 프랑스 국민의회에 자체 의원을 선출했다. 호르마 울드 바바나가 식민 당국이 지지한 후보를 꺾고 당선되었다. 이후 개혁과 전통, 모로코와의 관계를 둘러싸고 정당들이 형성되기 시작했다.",
+    "zh": "在战后的法兰西联邦体制下，毛里塔尼亚成为海外领地，可选出本地的法国国民议会议员。霍尔马·乌尔德·巴巴纳击败殖民当局属意的候选人当选。此后围绕改革、传统以及与摩洛哥关系等问题，政党开始形成。",
+    "ja": "戦後のフランス連合のもとでモーリタニアは海外領土となり、フランス国民議会に独自の議員を選出した。ホルマ・ウルド・ババナが植民地当局の推す候補を破って当選した。以後、改革や伝統、モロッコとの関係をめぐって政党が形成され始めた。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Islamic Republic proclaimed and Nouakchott founded",
+    "ko": "이슬람 공화국 선포와 누악쇼트 건설",
+    "zh": "宣布成立伊斯兰共和国并兴建努瓦克肖特",
+    "ja": "イスラム共和国宣言とヌアクショット建設"
+   },
+   "description": {
+    "en": "Construction of a new capital began at Nouakchott, a small coastal settlement chosen because Mauritania had no city of its own large enough. After approving the Fifth Republic constitution in a referendum, the territory proclaimed itself the Islamic Republic of Mauritania within the French Community on 28 November 1958. Moktar Ould Daddah led its government.",
+    "ko": "모리타니에는 수도로 삼을 만한 큰 도시가 없었기 때문에 작은 해안 마을 누악쇼트에 새 수도 건설이 시작되었다. 제5공화국 헌법을 국민투표로 승인한 뒤 이 영토는 1958년 11월 28일 프랑스 공동체 내 '모리타니 이슬람 공화국'을 선포했다. 정부는 모크타르 울드 다다가 이끌었다.",
+    "zh": "由于毛里塔尼亚境内没有足以作为首都的大城市，新首都在沿海小村努瓦克肖特开始兴建。在公投通过第五共和国宪法后，该领地于1958年11月28日宣布成立法兰西共同体内的“毛里塔尼亚伊斯兰共和国”，由穆赫塔尔·乌尔德·达达赫领导政府。",
+    "ja": "首都にふさわしい大都市がなかったため、海岸の小集落ヌアクショットで新首都の建設が始まった。第五共和政憲法を国民投票で承認した後、1958年11月28日にこの地はフランス共同体内の「モーリタニア・イスラム共和国」を宣言した。政府を率いたのはモクタール・ウルド・ダッダである。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": "Q1025",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence from France",
+    "ko": "프랑스로부터 독립",
+    "zh": "脱离法国独立",
+    "ja": "フランスからの独立"
+   },
+   "description": {
+    "en": "On 28 November 1960 the Islamic Republic of Mauritania became fully independent, with Moktar Ould Daddah as its leader and Nouakchott as its new capital. Morocco, which claimed Mauritania as part of a 'Greater Morocco', refused recognition. The young state had few schools, roads or towns, but substantial iron ore reserves.",
+    "ko": "1960년 11월 28일 모리타니 이슬람 공화국이 완전히 독립했다. 모크타르 울드 다다가 지도자가 되었고, 누악쇼트가 새 수도가 되었다. '대모로코'의 일부로 모리타니를 주장하던 모로코는 승인을 거부했다. 신생국에는 학교와 도로, 도시가 거의 없었지만 상당한 철광석 매장량이 있었다.",
+    "zh": "1960年11月28日，毛里塔尼亚伊斯兰共和国完全独立，穆赫塔尔·乌尔德·达达赫出任领导人，努瓦克肖特为新首都。主张毛里塔尼亚属于“大摩洛哥”的摩洛哥拒绝承认。这个年轻国家几乎没有学校、道路和城镇，却拥有丰富的铁矿资源。",
+    "ja": "1960年11月28日、モーリタニア・イスラム共和国は完全独立を果たし、モクタール・ウルド・ダッダが指導者に、ヌアクショットが新首都となった。モーリタニアを「大モロッコ」の一部と主張するモロッコは承認を拒んだ。若い国家には学校も道路も町もほとんどなかったが、豊富な鉄鉱石資源があった。"
+   }
+  },
+  {
+   "year": 1961,
+   "qid": "Q6793726",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "UN membership and first presidential election",
+    "ko": "유엔 가입과 첫 대통령 선거",
+    "zh": "加入联合国与首次总统选举",
+    "ja": "国連加盟と初の大統領選挙"
+   },
+   "description": {
+    "en": "After a Soviet veto in 1960 linked to Cold War bargaining and Moroccan objections, Mauritania was admitted to the United Nations in October 1961. That year a new constitution established a presidential system, and Moktar Ould Daddah was elected president unopposed. Political parties soon merged into his Mauritanian People's Party.",
+    "ko": "냉전기 협상과 모로코의 반대와 얽힌 1960년 소련의 거부권 행사 이후, 모리타니는 1961년 10월 유엔에 가입했다. 같은 해 새 헌법이 대통령제를 확립했고, 모크타르 울드 다다는 단독 후보로 대통령에 선출되었다. 정당들은 곧 그의 모리타니 인민당으로 통합되었다.",
+    "zh": "1960年因冷战交易和摩洛哥反对而遭苏联否决后，毛里塔尼亚于1961年10月加入联合国。同年新宪法确立总统制，乌尔德·达达赫作为唯一候选人当选总统。各政党随即并入他领导的毛里塔尼亚人民党。",
+    "ja": "冷戦下の取引とモロッコの反対が絡んだ1960年のソ連の拒否権行使の後、モーリタニアは1961年10月に国連に加盟した。同年、新憲法で大統領制が確立し、ウルド・ダッダが無投票で大統領に選ばれた。諸政党はまもなく彼のモーリタニア人民党に統合された。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Iron ore exports begin from Zouérat",
+    "ko": "주에라트 철광석 수출 개시",
+    "zh": "祖埃拉特铁矿开始出口",
+    "ja": "ズエラットの鉄鉱石輸出開始"
+   },
+   "description": {
+    "en": "The MIFERMA consortium began exporting iron ore from the Kedia d'Idjil mines near Zouérat via a new railway of over 600 km to the port of Nouadhibou. Iron ore quickly became the backbone of Mauritania's exports and state revenue. The mine trains, among the longest in the world, still run across the desert.",
+    "ko": "MIFERMA 컨소시엄이 주에라트 인근 케디아 디질 광산의 철광석을 600km가 넘는 새 철도로 누아디부 항까지 실어 나르며 수출을 시작했다. 철광석은 곧 모리타니 수출과 국가 재정의 근간이 되었다. 세계에서 가장 긴 축에 드는 광산 열차는 지금도 사막을 가로지른다.",
+    "zh": "MIFERMA财团开始将祖埃拉特附近凯迪亚-伊吉勒矿区的铁矿石，经由一条长逾600公里的新铁路运往努瓦迪布港出口。铁矿石很快成为毛里塔尼亚出口和财政收入的支柱。这些世界上最长的矿石列车之一至今仍穿行于沙漠之中。",
+    "ja": "MIFERMAコンソーシアムが、ズエラット近郊ケディア・ディジルの鉱山から全長600kmを超える新鉄道でヌアディブ港へ鉄鉱石を運び、輸出を開始した。鉄鉱石はたちまちモーリタニアの輸出と財政の柱となった。世界有数の長さを誇る鉱石列車は今も砂漠を走っている。"
+   }
+  },
+  {
+   "year": 1966,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Language dispute in schools",
+    "ko": "학교 언어를 둘러싼 갈등",
+    "zh": "学校语言之争",
+    "ja": "学校の言語をめぐる対立"
+   },
+   "description": {
+    "en": "A government decision to make Arabic compulsory in secondary education provoked strikes and protests by black Mauritanian students and officials, who feared exclusion, and clashes followed in Nouakchott. The crisis revealed a lasting divide over national identity between Arab-Berber Moors and Halpulaar, Soninke and Wolof communities. Language policy remained a flashpoint for decades.",
+    "ko": "중등교육에서 아랍어를 의무화하려는 정부 결정에 대해, 배제를 우려한 흑인 모리타니인 학생과 공무원들이 파업과 항의에 나섰고 누악쇼트에서 충돌이 이어졌다. 이 위기는 아랍-베르베르계 무어인과 할풀라르, 소닌케, 월로프 공동체 사이의 국가 정체성을 둘러싼 오랜 균열을 드러냈다. 언어 정책은 이후 수십 년간 갈등의 불씨로 남았다.",
+    "zh": "政府决定在中等教育中强制推行阿拉伯语，担心遭到排斥的黑人毛里塔尼亚学生和官员举行罢课和抗议，努瓦克肖特随后爆发冲突。这场危机暴露出阿拉伯-柏柏尔裔摩尔人与哈尔普拉尔、索宁克、沃洛夫等群体在国家认同上的长期分歧。语言政策此后数十年一直是矛盾焦点。",
+    "ja": "中等教育でアラビア語を必修とする政府の決定に対し、排除を恐れた黒人系モーリタニア人の学生や公務員がストライキや抗議を行い、ヌアクショットで衝突が起きた。この危機は、アラブ・ベルベル系ムーア人とハルプラール、ソニンケ、ウォロフの共同体との間の国民的アイデンティティをめぐる根深い亀裂を露わにした。言語政策はその後数十年、対立の火種であり続けた。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Morocco recognizes Mauritania",
+    "ko": "모로코의 모리타니 승인",
+    "zh": "摩洛哥承认毛里塔尼亚",
+    "ja": "モロッコがモーリタニアを承認"
+   },
+   "description": {
+    "en": "Nearly a decade after independence, Morocco dropped its opposition and recognized Mauritania, around the time of the Islamic summit in Rabat. Rapprochement between the two countries paved the way for their later cooperation over the Spanish Sahara. It ended Mauritania's diplomatic isolation within the Arab world.",
+    "ko": "독립 후 거의 10년 만에 모로코는 라바트 이슬람 정상회의 무렵 반대 입장을 접고 모리타니를 승인했다. 양국의 화해는 훗날 스페인령 사하라 문제에서의 협력으로 이어졌다. 이로써 아랍 세계에서 모리타니의 외교적 고립은 끝났다.",
+    "zh": "独立近十年后，摩洛哥在拉巴特伊斯兰峰会前后放弃反对立场，承认毛里塔尼亚。两国和解为日后在西属撒哈拉问题上的合作铺平了道路，也结束了毛里塔尼亚在阿拉伯世界的外交孤立。",
+    "ja": "独立から10年近くを経て、モロッコはラバトでのイスラム首脳会議の頃に反対を取り下げ、モーリタニアを承認した。両国の和解は後のスペイン領サハラをめぐる協力への道を開き、アラブ世界におけるモーリタニアの外交的孤立に終止符を打った。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Ouguiya introduced and Arab League membership",
+    "ko": "우기야 도입과 아랍연맹 가입",
+    "zh": "发行乌吉亚并加入阿盟",
+    "ja": "ウギア導入とアラブ連盟加盟"
+   },
+   "description": {
+    "en": "Seeking greater independence from France, Mauritania left the CFA franc zone and introduced its own currency, the ouguiya. The same year it joined the League of Arab States, underlining its Arab orientation. Ould Daddah also revised cooperation agreements with France in this period.",
+    "ko": "프랑스로부터 더 큰 자립을 추구한 모리타니는 CFA 프랑 권역을 탈퇴하고 자체 통화 우기야를 도입했다. 같은 해 아랍연맹에 가입하며 아랍 지향을 분명히 했다. 울드 다다는 이 시기 프랑스와의 협력 협정도 개정했다.",
+    "zh": "为寻求摆脱对法国的依赖，毛里塔尼亚退出非洲法郎区，发行本国货币乌吉亚。同年加入阿拉伯国家联盟，凸显其阿拉伯取向。乌尔德·达达赫在此期间还修订了与法国的合作协定。",
+    "ja": "フランスからの自立を強めようとしたモーリタニアはCFAフラン圏を離脱し、独自通貨ウギアを導入した。同年アラブ連盟に加盟し、アラブ志向を鮮明にした。ウルド・ダッダはこの時期、フランスとの協力協定も改定した。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Iron mines nationalized as SNIM",
+    "ko": "철광산 국유화와 SNIM 설립",
+    "zh": "铁矿国有化成立SNIM",
+    "ja": "鉄鉱山国有化とSNIM設立"
+   },
+   "description": {
+    "en": "The government nationalized the foreign-owned MIFERMA iron mining company, transferring its assets to the new state company SNIM. The move was popular after strikes and tensions at the mines. SNIM has remained the country's largest industrial employer and a key source of export earnings.",
+    "ko": "정부는 외국계 철광 회사 MIFERMA를 국유화하고 자산을 새 국영 기업 SNIM으로 넘겼다. 광산에서의 파업과 긴장 이후 이 조치는 국민의 지지를 받았다. SNIM은 이후 모리타니 최대의 산업 고용주이자 주요 수출 수입원으로 남아 있다.",
+    "zh": "政府将外资铁矿公司MIFERMA收归国有，其资产移交新成立的国营公司SNIM。在矿区罢工与紧张局势之后，此举颇得民心。SNIM至今仍是该国最大的工业雇主和重要的出口创汇来源。",
+    "ja": "政府は外資の鉄鉱会社MIFERMAを国有化し、資産を新設の国営企業SNIMに移した。鉱山でのストライキや緊張の後、この措置は国民に歓迎された。SNIMは現在も国内最大の産業雇用主であり、主要な輸出収入源である。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Madrid Accords partition Spanish Sahara",
+    "ko": "마드리드 협정과 스페인령 사하라 분할",
+    "zh": "《马德里协议》瓜分西属撒哈拉",
+    "ja": "マドリード協定とスペイン領サハラの分割"
+   },
+   "description": {
+    "en": "As Spain prepared to withdraw from Spanish Sahara, it signed the Madrid Accords with Morocco and Mauritania, handing over administration of the territory. Mauritania was to receive the southern part, Tiris al-Gharbiyya. The Sahrawi Polisario Front, backed by Algeria, rejected the agreement and took up arms against both countries.",
+    "ko": "스페인령 사하라에서 철수를 준비하던 스페인은 모로코, 모리타니와 마드리드 협정을 맺고 이 지역의 행정권을 넘겼다. 모리타니는 남부 티리스 알가르비야를 받기로 했다. 알제리의 지원을 받는 사하라위인의 폴리사리오 전선은 협정을 거부하고 두 나라에 맞서 무장 투쟁에 나섰다.",
+    "zh": "西班牙准备撤出西属撒哈拉，与摩洛哥和毛里塔尼亚签订《马德里协议》，移交该地区的管理权，毛里塔尼亚分得南部的蒂里斯-加尔比亚。得到阿尔及利亚支持的撒哈拉人波利萨里奥阵线拒绝这一协议，并对两国展开武装斗争。",
+    "ja": "スペイン領サハラからの撤退を準備していたスペインは、モロッコ、モーリタニアとマドリード協定を結び、同地域の施政権を引き渡した。モーリタニアは南部のティリス・アル＝ガルビーヤを得ることになった。アルジェリアの支援を受けるサハラウィのポリサリオ戦線は協定を拒否し、両国に対して武装闘争を始めた。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Entanglement in the Western Sahara war",
+    "ko": "서사하라 전쟁 개입",
+    "zh": "卷入西撒哈拉战争",
+    "ja": "西サハラ戦争への関与"
+   },
+   "description": {
+    "en": "Mauritania occupied the southern third of Western Sahara under the Madrid Accords, drawing it into a costly war with the Polisario Front. Its small army struggled to protect the long iron ore railway and isolated towns from guerrilla raids. Military spending strained the budget and the war grew deeply unpopular.",
+    "ko": "모리타니는 마드리드 협정에 따라 서사하라 남부 3분의 1을 점령했으나 폴리사리오 전선과의 소모적인 전쟁에 휘말렸다. 소규모 군대는 긴 철광석 철도와 고립된 도시들을 게릴라 습격으로부터 지키는 데 애를 먹었다. 군사비는 재정을 압박했고 전쟁은 깊은 반감을 샀다.",
+    "zh": "根据《马德里协议》，毛里塔尼亚占领西撒哈拉南部三分之一地区，由此陷入与波利萨里奥阵线的消耗战。其规模有限的军队难以保护漫长的铁矿铁路和孤立的城镇免遭游击队袭击。军费开支拖累财政，战争也日益不得人心。",
+    "ja": "モーリタニアはマドリード協定に基づき西サハラ南部3分の1を占領したが、ポリサリオ戦線との消耗戦に陥った。小規模な軍は長大な鉄鉱石鉄道や孤立した町をゲリラの襲撃から守るのに苦しんだ。軍事費は財政を圧迫し、戦争はひどく不人気となった。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": "Q86674157",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Polisario raid on Nouakchott",
+    "ko": "폴리사리오의 누악쇼트 습격",
+    "zh": "波利萨里奥袭击努瓦克肖特",
+    "ja": "ポリサリオのヌアクショット襲撃"
+   },
+   "description": {
+    "en": "In June 1976 a Polisario column crossed the desert and shelled the capital Nouakchott. During the operation the Polisario leader El-Ouali Mustapha Sayed was killed. The raid exposed Mauritania's vulnerability deep inside its own territory.",
+    "ko": "1976년 6월 폴리사리오 부대가 사막을 가로질러 수도 누악쇼트에 포격을 가했다. 이 작전 중 폴리사리오 지도자 엘왈리 무스타파 사예드가 사망했다. 이 습격은 모리타니가 자국 영토 깊숙한 곳에서도 취약하다는 사실을 드러냈다.",
+    "zh": "1976年6月，波利萨里奥一支部队穿越沙漠炮击首都努瓦克肖特，其领导人瓦利·穆斯塔法·赛义德在行动中阵亡。这次袭击暴露了毛里塔尼亚即便在本国腹地也十分脆弱。",
+    "ja": "1976年6月、ポリサリオの部隊が砂漠を越えて首都ヌアクショットを砲撃した。この作戦中にポリサリオの指導者エル・ワリ・ムスタファ・サイードが戦死した。襲撃は、モーリタニアが自国領の奥深くでも脆弱であることを露呈した。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": "Q3354747",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "French air strikes in Opération Lamantin",
+    "ko": "라망탱 작전의 프랑스 공습",
+    "zh": "法国“海牛行动”空袭",
+    "ja": "フランスのラマンタン作戦空爆"
+   },
+   "description": {
+    "en": "After Polisario attacks on the mining town of Zouérat and the capture of French workers, France launched Opération Lamantin, using Jaguar jets based in Dakar to strike Polisario columns in Mauritania. The intervention eased military pressure only temporarily. It underlined Mauritania's dependence on outside support.",
+    "ko": "폴리사리오가 광산 도시 주에라트를 공격하고 프랑스인 노동자들을 붙잡자, 프랑스는 다카르에 배치된 재규어 전투기로 모리타니 내 폴리사리오 부대를 공습하는 라망탱 작전을 벌였다. 이 개입은 군사적 압박을 일시적으로만 덜어 주었으며, 모리타니가 외부 지원에 의존하고 있음을 드러냈다.",
+    "zh": "波利萨里奥袭击矿业城镇祖埃拉特并俘虏法国工人后，法国发动“海牛行动”，出动驻达喀尔的美洲豹战机空袭毛里塔尼亚境内的波利萨里奥纵队。这次干预只是暂时缓解了军事压力，也凸显了毛里塔尼亚对外部支持的依赖。",
+    "ja": "ポリサリオが鉱山町ズエラットを攻撃しフランス人労働者を拘束すると、フランスはダカール駐留のジャギュア戦闘機でモーリタニア国内のポリサリオ部隊を空爆するラマンタン作戦を実施した。介入は軍事的圧力を一時的に和らげたにすぎず、モーリタニアの外部依存を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": "Q96363593",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "First military coup topples Ould Daddah",
+    "ko": "군부 쿠데타로 초대 대통령 축출",
+    "zh": "军事政变推翻达达赫",
+    "ja": "軍事クーデターで初代大統領失脚"
+   },
+   "description": {
+    "en": "On 10 July 1978, strained by the Saharan war and economic crisis, the army overthrew founding president Moktar Ould Daddah. A Military Committee for National Recovery under Colonel Mustafa Ould Salek took power. The coup opened a long era of military-dominated politics.",
+    "ko": "1978년 7월 10일, 서사하라 전쟁과 경제 위기 속에 군부가 건국 대통령 모크타르 울드 다다를 축출했다. 무스타파 울드 살레크 대령이 이끄는 국가재건군사위원회가 권력을 잡았다. 이 쿠데타로 군이 정치를 좌우하는 시대가 오래 이어졌다.",
+    "zh": "1978年7月10日，在撒哈拉战争与经济危机的重压下，军方推翻开国总统穆赫塔尔·乌尔德·达达赫，由穆斯塔法·乌尔德·萨莱克上校领导的“全国复兴军事委员会”掌权。毛里塔尼亚自此进入军人长期主导政治的时期。",
+    "ja": "1978年7月10日、西サハラ戦争と経済危機の重圧の中、軍が建国の大統領モクタール・ウルド・ダッダを追放した。ムスタファ・ウルド・サレク大佐率いる国家再建軍事委員会が権力を握った。以後、軍が政治を左右する時代が長く続いた。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Peace with Polisario and withdrawal from Western Sahara",
+    "ko": "폴리사리오와의 평화와 서사하라 철수",
+    "zh": "与波利萨里奥媾和并撤出西撒哈拉",
+    "ja": "ポリサリオとの和平と西サハラ撤退"
+   },
+   "description": {
+    "en": "After internal reshuffles in the ruling military committee in 1979, Mauritania signed a peace agreement with the Polisario Front in Algiers in August. It renounced all claims to Western Sahara and withdrew its forces; Morocco then occupied the zone Mauritania had held. Mauritania later adopted a position of neutrality in the conflict.",
+    "ko": "1979년 집권 군사위원회 내부의 개편을 거친 뒤 모리타니는 8월 알제에서 폴리사리오 전선과 평화 협정을 맺었다. 서사하라에 대한 모든 영유권 주장을 포기하고 군대를 철수했으며, 이후 모로코가 모리타니가 점유했던 지역을 차지했다. 모리타니는 이후 이 분쟁에서 중립을 표방했다.",
+    "zh": "1979年执政军事委员会内部几经调整后，毛里塔尼亚于8月在阿尔及尔与波利萨里奥阵线签署和平协议，放弃对西撒哈拉的一切领土要求并撤军，摩洛哥随即占领了原由毛里塔尼亚控制的地区。此后毛里塔尼亚在该冲突中奉行中立。",
+    "ja": "1979年に与党軍事委員会内での改編を経て、モーリタニアは8月にアルジェでポリサリオ戦線と和平協定を結んだ。西サハラへのあらゆる領有権主張を放棄して撤兵し、その後モロッコがモーリタニアの支配地域を占領した。モーリタニアはその後、この紛争で中立を掲げた。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": "Q106462626",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Haidalla takes power",
+    "ko": "하이달라의 집권",
+    "zh": "海达拉掌权",
+    "ja": "ハイダラの政権掌握"
+   },
+   "description": {
+    "en": "Lieutenant Colonel Mohamed Khouna Ould Haidalla consolidated control of the military committee and became head of state. His government introduced Islamic sharia criminal law and decreed the abolition of slavery. It faced coup attempts and tense relations with Morocco.",
+    "ko": "모하메드 쿠나 울드 하이달라 중령이 군사위원회 장악을 굳히고 국가원수가 되었다. 그의 정부는 이슬람 샤리아 형법을 도입하고 노예제 폐지를 공포했다. 정부는 쿠데타 시도와 모로코와의 긴장 관계에 직면했다.",
+    "zh": "穆罕默德·胡纳·乌尔德·海达拉中校巩固了对军事委员会的控制，成为国家元首。他的政府引入伊斯兰教法刑法，并颁布废除奴隶制的法令，同时面临政变企图以及与摩洛哥的紧张关系。",
+    "ja": "モハメド・フーナ・ウルド・ハイダラ中佐が軍事委員会の掌握を固め、国家元首となった。彼の政府はイスラーム法（シャリーア）の刑法を導入し、奴隷制廃止を布告した。政権はクーデター未遂やモロッコとの緊張に直面した。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Slavery formally abolished",
+    "ko": "노예제 공식 폐지",
+    "zh": "正式废除奴隶制",
+    "ja": "奴隷制の公式廃止"
+   },
+   "description": {
+    "en": "Mauritania became the last country in the world to formally abolish slavery by decree. The decree provided no criminal penalties, which followed only in 2007, and enforcement long remained weak. Rights groups report that descent-based slavery and discrimination against Haratine persist.",
+    "ko": "모리타니는 세계에서 마지막으로 노예제를 법령으로 공식 폐지한 나라가 되었다. 이 법령에는 처벌 규정이 없었고 형사 처벌은 2007년에야 도입되었으며, 집행은 오랫동안 미약했다. 인권 단체들은 혈통에 따른 노예제와 하라틴에 대한 차별이 여전히 남아 있다고 지적한다.",
+    "zh": "毛里塔尼亚以法令形式废除奴隶制，成为世界上最后一个正式废奴的国家。该法令未规定刑罚，相关刑事处罚直到2007年才立法，执行长期不力。人权组织指出，基于出身的奴隶制和对哈拉廷人的歧视至今仍然存在。",
+    "ja": "モーリタニアは世界で最後に奴隷制を法令で公式に廃止した国となった。この法令には罰則がなく、刑事罰の導入は2007年で、執行も長く不十分だった。人権団体は、血統に基づく奴隷制とハラティンへの差別が今も残ると指摘している。"
+   }
+  },
+  {
+   "year": 1984,
+   "qid": "Q63111212",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Taya seizes power",
+    "ko": "타야의 집권",
+    "zh": "塔亚夺权",
+    "ja": "タヤの政権掌握"
+   },
+   "description": {
+    "en": "On 12 December 1984, while Haidalla was abroad, Colonel Maaouya Ould Sid'Ahmed Taya took power in a bloodless coup. He would rule for over two decades, first as military head of state and later as elected president. His rule brought economic liberalization but also repression and ethnic tensions.",
+    "ko": "1984년 12월 12일 하이달라가 해외에 있는 사이 마아우야 울드 시드아흐메드 타야 대령이 무혈 쿠데타로 권력을 잡았다. 그는 처음에는 군사 국가원수로, 나중에는 선출된 대통령으로 20년 넘게 통치했다. 그의 통치는 경제 자유화를 가져왔지만 탄압과 민족 갈등도 낳았다.",
+    "zh": "1984年12月12日，趁海达拉出国之际，马维亚·乌尔德·西德·艾哈迈德·塔亚上校发动不流血政变夺取政权。他先以军人元首、后以民选总统身份执政二十余年，其统治带来了经济自由化，也伴随着镇压和民族矛盾。",
+    "ja": "1984年12月12日、ハイダラが外遊中にマアウイヤ・ウルド・シドアフメド・タヤ大佐が無血クーデターで政権を握った。彼はまず軍の国家元首として、後に選挙で選ばれた大統領として20年以上統治した。その統治は経済自由化をもたらす一方、弾圧と民族対立も生んだ。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Border crisis with Senegal",
+    "ko": "세네갈과의 국경 위기",
+    "zh": "毛塞边境危机",
+    "ja": "セネガルとの国境危機"
+   },
+   "description": {
+    "en": "A grazing dispute along the Senegal River in April 1989 escalated into intercommunal violence in both countries and mass expulsions. Tens of thousands of black Mauritanians were expelled or fled to Senegal and Mali, while Mauritanians were repatriated from Senegal. Diplomatic relations were broken until 1992, and refugee returns took many years.",
+    "ko": "1989년 4월 세네갈강 유역의 방목지 분쟁이 양국 내 집단 폭력과 대규모 추방 사태로 번졌다. 수만 명의 흑인 모리타니인이 추방되거나 세네갈과 말리로 피신했고, 세네갈에 있던 모리타니인들은 본국으로 송환되었다. 외교 관계는 1992년까지 단절되었고 난민 귀환에는 오랜 세월이 걸렸다.",
+    "zh": "1989年4月，塞内加尔河沿岸的牧场纠纷升级为两国境内的族群暴力和大规模驱逐。数万名黑人毛里塔尼亚人被驱逐或逃往塞内加尔和马里，在塞内加尔的毛里塔尼亚人则被遣返回国。两国断交至1992年，难民回归历时多年。",
+    "ja": "1989年4月、セネガル川流域の放牧地をめぐる争いが両国での民族間暴力と大規模な追放へと発展した。数万人の黒人系モーリタニア人が追放され、あるいはセネガルやマリへ逃れ、セネガルにいたモーリタニア人は本国へ送還された。外交関係は1992年まで断絶し、難民の帰還には長い年月を要した。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Purge of Afro-Mauritanian soldiers",
+    "ko": "아프리카계 모리타니 군인 숙청",
+    "zh": "清洗非洲裔毛里塔尼亚军人",
+    "ja": "アフリカ系モーリタニア軍人の粛清"
+   },
+   "description": {
+    "en": "In 1990–91, following allegations of a coup plot, hundreds of black Mauritanian soldiers, mostly Halpulaar, were detained, and many were killed in custody, including at the Inal military base, according to human rights organizations. A 1993 amnesty law shielded those responsible. Survivors and victims' families call these events the 'passif humanitaire' and still seek justice.",
+    "ko": "인권 단체들에 따르면 1990~1991년 쿠데타 음모 의혹 이후 주로 할풀라르계인 흑인 모리타니 군인 수백 명이 구금되었고, 이날 군 기지를 비롯한 곳에서 다수가 구금 중 살해되었다. 1993년 사면법은 책임자들을 보호했다. 생존자와 유족들은 이 사건을 '인도적 부채(파시프 위마니테르)'라 부르며 지금도 정의를 요구하고 있다.",
+    "zh": "据人权组织称，1990至1991年间，在所谓政变阴谋的指控之后，数百名以哈尔普拉尔人为主的黑人毛里塔尼亚军人遭拘押，其中许多人在包括伊纳勒军营在内的地点被羁押期间杀害。1993年的大赦法使责任人免于追究。幸存者和遇难者家属称之为“人道负债”，至今仍在寻求公正。",
+    "ja": "人権団体によれば、1990～91年、クーデター計画の疑いを受けて主にハルプラール系の黒人系モーリタニア軍人数百人が拘束され、イナル基地などで多くが拘禁中に殺害された。1993年の恩赦法は責任者を保護した。生存者と遺族はこれを「人道的負債（パシフ・ユマニテール）」と呼び、今も正義を求めている。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q6793711",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Multiparty constitution adopted",
+    "ko": "다당제 헌법 채택",
+    "zh": "通过多党制宪法",
+    "ja": "複数政党制憲法の採択"
+   },
+   "description": {
+    "en": "Under domestic and international pressure after the Cold War, Taya's regime submitted a new constitution to a referendum that introduced a multiparty system and an elected presidency. Political parties and an independent press were legalized. The constitution, amended several times since, remains the basis of Mauritania's political system.",
+    "ko": "냉전 종식 이후 국내외 압력 속에서 타야 정권은 다당제와 대통령 직선제를 도입하는 새 헌법을 국민투표에 부쳤다. 정당과 독립 언론이 합법화되었다. 이후 여러 차례 개정된 이 헌법은 지금도 모리타니 정치 체제의 기반이다.",
+    "zh": "冷战结束后，在国内外压力下，塔亚政权将一部引入多党制和总统选举制的新宪法提交公投。政党和独立媒体获得合法地位。这部宪法此后经多次修订，至今仍是毛里塔尼亚政治制度的基础。",
+    "ja": "冷戦終結後の内外の圧力を受け、タヤ政権は複数政党制と大統領公選制を導入する新憲法を国民投票にかけた。政党と独立系報道が合法化された。その後何度も改正されたこの憲法は、今もモーリタニアの政治体制の基盤である。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": "Q6793728",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Taya wins first multiparty presidential election",
+    "ko": "타야, 첫 다당제 대선 승리",
+    "zh": "塔亚赢得首次多党制总统选举",
+    "ja": "タヤが初の複数政党制大統領選に勝利"
+   },
+   "description": {
+    "en": "Maaouya Ould Taya won the first multiparty presidential election, defeating opposition leader Ahmed Ould Daddah; the opposition denounced fraud. Taya was re-elected in 1997 and 2003 amid continued opposition complaints. His Democratic and Social Republican Party dominated parliament.",
+    "ko": "마아우야 울드 타야가 첫 다당제 대통령 선거에서 야당 지도자 아흐메드 울드 다다를 꺾고 승리했지만, 야당은 부정 선거를 규탄했다. 타야는 1997년과 2003년에도 야당의 계속된 반발 속에 재선되었다. 그의 민주사회공화당이 의회를 지배했다.",
+    "zh": "马维亚·乌尔德·塔亚在首次多党制总统选举中击败反对派领袖艾哈迈德·乌尔德·达达赫获胜，反对派则指控选举舞弊。在反对派持续抗议中，塔亚于1997年和2003年连任，其民主社会共和党主导议会。",
+    "ja": "マアウイヤ・ウルド・タヤは初の複数政党制大統領選で野党指導者アフメド・ウルド・ダッダを破ったが、野党は不正を非難した。タヤは野党の抗議が続く中、1997年と2003年にも再選された。彼の民主社会共和党が議会を支配した。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ancient ksour named UNESCO World Heritage",
+    "ko": "고대 크수르, 유네스코 세계유산 등재",
+    "zh": "古代克苏尔列入世界遗产",
+    "ja": "古代クスール、世界遺産に登録"
+   },
+   "description": {
+    "en": "The ancient caravan towns (ksour) of Ouadane, Chinguetti, Tichitt and Oualata were inscribed as a UNESCO World Heritage site. Their stone architecture and family libraries of manuscripts testify to centuries of Saharan trade and Islamic scholarship. Sand encroachment and depopulation threaten their preservation.",
+    "ko": "우아단, 친게티, 티치트, 왈라타의 고대 대상 도시(크수르)가 유네스코 세계유산으로 등재되었다. 석조 건축과 가문 필사본 도서관은 수백 년에 걸친 사하라 교역과 이슬람 학문을 증언한다. 모래의 잠식과 인구 감소가 보존을 위협하고 있다.",
+    "zh": "瓦丹、欣盖提、提希特和瓦拉塔四座古老的商队城镇（克苏尔）被列入联合国教科文组织世界遗产名录。其石砌建筑和家族手稿图书馆见证了数百年的撒哈拉贸易与伊斯兰学术。流沙侵蚀和人口流失正威胁着它们的保存。",
+    "ja": "ワダン、シンゲッティ、ティシット、ワラタの古代隊商都市（クスール）がユネスコ世界遺産に登録された。石造建築と一族の写本図書館は、数世紀にわたるサハラ交易とイスラーム学問を物語る。砂の侵食と人口流出が保存を脅かしている。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Diplomatic relations with Israel",
+    "ko": "이스라엘과의 수교",
+    "zh": "与以色列建交",
+    "ja": "イスラエルとの国交樹立"
+   },
+   "description": {
+    "en": "Mauritania established full diplomatic relations with Israel, becoming one of the few Arab League members to do so at the time. The move, aligned with Taya's rapprochement with the United States, was unpopular at home. Relations were frozen in 2009 after the Gaza war and later severed.",
+    "ko": "모리타니는 이스라엘과 완전한 외교 관계를 수립해 당시 이를 맺은 몇 안 되는 아랍연맹 회원국이 되었다. 타야의 대미 접근과 궤를 같이한 이 조치는 국내에서 인기가 없었다. 관계는 가자 전쟁 이후 2009년 동결되었고 이후 단절되었다.",
+    "zh": "毛里塔尼亚与以色列建立全面外交关系，成为当时少数这样做的阿盟成员国之一。此举与塔亚亲近美国的政策相一致，但在国内不受欢迎。加沙战争后两国关系于2009年冻结，随后断绝。",
+    "ja": "モーリタニアはイスラエルと完全な外交関係を樹立し、当時これを行った数少ないアラブ連盟加盟国の一つとなった。タヤの対米接近に沿ったこの措置は国内で不人気だった。関係はガザ紛争後の2009年に凍結され、その後断絶した。"
+   }
+  },
+  {
+   "year": 2003,
+   "qid": "Q6793740",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Failed coup and contested election",
+    "ko": "실패한 쿠데타와 논란의 선거",
+    "zh": "政变未遂与争议选举",
+    "ja": "クーデター未遂と争われた選挙"
+   },
+   "description": {
+    "en": "In June 2003 a group of officers led by Saleh Ould Hanenna attempted to overthrow Taya, and heavy fighting broke out in Nouakchott before loyalist troops prevailed. Taya won re-election in November amid opposition accusations of fraud, and former head of state Haidalla, his main rival, was briefly arrested. The episode showed the regime's growing fragility.",
+    "ko": "2003년 6월 살레흐 울드 하넨나가 이끄는 장교들이 타야 정권 전복을 시도해 누악쇼트에서 격렬한 전투가 벌어졌으나 충성파 부대가 승리했다. 11월 대선에서 타야는 야당의 부정 선거 주장 속에 재선되었고, 주요 경쟁자였던 전 국가원수 하이달라는 잠시 체포되었다. 이 사건은 정권의 취약성이 커지고 있음을 보여 주었다.",
+    "zh": "2003年6月，萨利赫·乌尔德·哈南纳率领一批军官企图推翻塔亚，努瓦克肖特爆发激战，最终效忠派部队获胜。同年11月，塔亚在反对派的舞弊指控中连任，其主要对手前国家元首海达拉一度被捕。此事显示出政权日益脆弱。",
+    "ja": "2003年6月、サレハ・ウルド・ハネンナ率いる将校らがタヤ政権の転覆を図り、ヌアクショットで激しい戦闘が起きたが、政権側の部隊が勝利した。11月の大統領選ではタヤが野党の不正批判の中で再選され、主な対立候補の元国家元首ハイダラは一時逮捕された。政権の脆弱化が浮き彫りになった。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": "Q15709905",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Lemgheity barracks attack",
+    "ko": "렘게이티 병영 공격",
+    "zh": "莱姆盖提兵营遇袭",
+    "ja": "レムゲイティ兵営襲撃"
+   },
+   "description": {
+    "en": "In June 2005 fighters of the Algerian Salafist Group for Preaching and Combat (GSPC), the forerunner of al-Qaeda in the Islamic Maghreb, attacked a remote army post at Lemgheity in northern Mauritania, killing more than a dozen soldiers. It was the first major jihadist attack in the country. The government's handling of the attack added to discontent within the army.",
+    "ko": "2005년 6월 이슬람 마그레브 알카에다(AQIM)의 전신인 알제리의 '설교와 전투를 위한 살라피스트 그룹(GSPC)' 전투원들이 모리타니 북부 외딴 렘게이티의 군 초소를 공격해 십여 명이 넘는 병사를 살해했다. 이는 모리타니에서 일어난 첫 대규모 지하드 공격이었다. 정부의 대응은 군 내부의 불만을 키웠다.",
+    "zh": "2005年6月，伊斯兰马格里布基地组织的前身——阿尔及利亚“萨拉菲宣教与战斗组织”武装人员袭击毛里塔尼亚北部偏远的莱姆盖提军营，打死十余名士兵。这是该国首次遭受重大圣战袭击，政府的应对加剧了军队内部的不满。",
+    "ja": "2005年6月、イスラーム・マグリブ諸国のアルカイダ（AQIM）の前身であるアルジェリアの「布教と戦闘のためのサラフィー主義集団（GSPC）」の戦闘員が、モーリタニア北部の辺境レムゲイティの軍駐屯地を襲撃し、十数人の兵士を殺害した。国内初の大規模なジハード主義者による攻撃であり、政府の対応は軍内の不満を強めた。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": "Q3495710",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Coup ends Taya's rule",
+    "ko": "쿠데타로 끝난 타야 정권",
+    "zh": "政变终结塔亚统治",
+    "ja": "クーデターでタヤ政権終焉"
+   },
+   "description": {
+    "en": "On 3 August 2005, while Taya was attending King Fahd's funeral in Saudi Arabia, senior officers led by Colonel Ely Ould Mohamed Vall seized power without bloodshed. The Military Council for Justice and Democracy promised a transition to civilian rule within two years. The coup was widely welcomed in Nouakchott.",
+    "ko": "2005년 8월 3일 타야가 사우디아라비아에서 파흐드 국왕의 장례식에 참석한 사이, 엘리 울드 모하메드 발 대령이 이끄는 고위 장교들이 무혈로 권력을 장악했다. 정의와 민주주의를 위한 군사평의회는 2년 안에 민정 이양을 약속했다. 쿠데타는 누악쇼트에서 널리 환영받았다.",
+    "zh": "2005年8月3日，趁塔亚赴沙特出席法赫德国王葬礼之机，以埃利·乌尔德·穆罕默德·瓦勒上校为首的高级军官不流血夺取政权。“正义与民主军事委员会”承诺在两年内还政于民，政变在努瓦克肖特广受欢迎。",
+    "ja": "2005年8月3日、タヤがサウジアラビアでファハド国王の葬儀に参列している間に、エリ・ウルド・モハメド・ヴァル大佐率いる高級将校が無血で権力を掌握した。「正義と民主主義のための軍事評議会」は2年以内の民政移管を約束した。クーデターはヌアクショットで広く歓迎された。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": "Q6793713",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Referendum sets presidential term limits",
+    "ko": "대통령 임기 제한 국민투표",
+    "zh": "公投限制总统任期",
+    "ja": "大統領任期制限の国民投票"
+   },
+   "description": {
+    "en": "Voters approved constitutional amendments limiting the president to two five-year terms. The reform was intended to prevent the long personal rule seen under Taya. Parliamentary elections later in the year completed the transition's first phase.",
+    "ko": "유권자들은 대통령 임기를 5년 중임으로 제한하는 헌법 개정안을 승인했다. 이 개혁은 타야 시절과 같은 장기 개인 통치를 막기 위한 것이었다. 같은 해 후반 총선으로 이행의 첫 단계가 마무리되었다.",
+    "zh": "选民批准宪法修正案，将总统任期限制为两届、每届五年，旨在防止再次出现塔亚时期那样的长期个人统治。同年晚些时候举行的议会选举完成了过渡的第一阶段。",
+    "ja": "有権者は大統領の任期を5年2期までに制限する憲法改正を承認した。この改革はタヤ時代のような長期の個人支配を防ぐことを狙ったものだった。同年後半の議会選挙で移行の第一段階が完了した。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Offshore oil production begins",
+    "ko": "해상 석유 생산 개시",
+    "zh": "海上石油开始投产",
+    "ja": "海洋石油生産の開始"
+   },
+   "description": {
+    "en": "Production started at the offshore Chinguetti oil field, making Mauritania an oil producer for the first time. Output fell well short of initial expectations and declined within a few years. Later exploration shifted toward large offshore gas fields shared with Senegal.",
+    "ko": "해상 친게티 유전에서 생산이 시작되어 모리타니는 처음으로 산유국이 되었다. 그러나 생산량은 초기 기대에 크게 못 미쳤고 몇 년 만에 감소했다. 이후 탐사는 세네갈과 공유하는 대규모 해상 가스전으로 옮겨 갔다.",
+    "zh": "近海的欣盖提油田开始投产，毛里塔尼亚首次成为产油国。但产量远低于最初预期，几年后即下降。此后的勘探转向与塞内加尔共享的大型海上天然气田。",
+    "ja": "沖合のシンゲッティ油田で生産が始まり、モーリタニアは初めて産油国となった。しかし産出量は当初の期待を大きく下回り、数年で減少した。その後の探査はセネガルと共有する大規模な海洋ガス田へと移った。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": "Q3586626",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First freely elected civilian president",
+    "ko": "첫 자유선거 민간 대통령",
+    "zh": "首位自由选举产生的文职总统",
+    "ja": "初の自由選挙による文民大統領"
+   },
+   "description": {
+    "en": "Sidi Ould Cheikh Abdallahi won a runoff against Ahmed Ould Daddah in an election widely regarded by observers as free and fair, and the military handed over power. In August parliament passed a law criminalizing slavery. The new government also began organizing the return of refugees expelled to Senegal in 1989.",
+    "ko": "시디 울드 셰이크 압달라히가 결선 투표에서 아흐메드 울드 다다를 꺾었고, 이 선거는 감시단으로부터 대체로 자유롭고 공정했다는 평가를 받았다. 군부는 권력을 이양했다. 8월 의회는 노예제를 범죄로 규정하는 법을 통과시켰고, 새 정부는 1989년 세네갈로 추방된 난민들의 귀환도 추진하기 시작했다.",
+    "zh": "西迪·乌尔德·谢赫·阿卜杜拉希在第二轮投票中击败艾哈迈德·乌尔德·达达赫，观察员普遍认为此次选举自由公正，军方随即交权。8月议会通过将奴隶制入罪的法律，新政府还开始组织1989年被驱逐至塞内加尔的难民回国。",
+    "ja": "シディ・ウルド・シェイク・アブダライが決選投票でアフメド・ウルド・ダッダを破った。この選挙は監視団から概ね自由かつ公正と評価され、軍は権力を移譲した。8月には議会が奴隷制を犯罪とする法律を可決し、新政府は1989年にセネガルへ追放された難民の帰還にも着手した。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": "Q4609830",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Killing of French tourists near Aleg",
+    "ko": "알레그 인근 프랑스 관광객 살해",
+    "zh": "法国游客在阿莱格附近遇害",
+    "ja": "アレグ近郊でのフランス人観光客殺害"
+   },
+   "description": {
+    "en": "On 24 December 2007 gunmen linked to al-Qaeda in the Islamic Maghreb killed four French tourists near Aleg. Days later the organizers cancelled the 2008 Dakar Rally, which was to cross Mauritania, citing terrorist threats. The rally moved to South America, and tourism in the Mauritanian Sahara collapsed.",
+    "ko": "2007년 12월 24일 이슬람 마그레브 알카에다와 연계된 무장 괴한들이 알레그 인근에서 프랑스인 관광객 4명을 살해했다. 며칠 뒤 주최 측은 테러 위협을 이유로 모리타니를 통과할 예정이던 2008년 다카르 랠리를 취소했다. 랠리는 남아메리카로 옮겨 갔고, 모리타니 사하라 관광은 붕괴했다.",
+    "zh": "2007年12月24日，与伊斯兰马格里布基地组织有关的枪手在阿莱格附近杀害了四名法国游客。数日后，主办方以恐怖威胁为由取消了原定途经毛里塔尼亚的2008年达喀尔拉力赛。该赛事此后移师南美，毛里塔尼亚撒哈拉旅游业随之崩溃。",
+    "ja": "2007年12月24日、イスラーム・マグリブ諸国のアルカイダとつながる武装集団がアレグ近郊でフランス人観光客4人を殺害した。数日後、主催者はテロの脅威を理由に、モーリタニアを通過する予定だった2008年のダカール・ラリーを中止した。ラリーは南米へ移り、モーリタニアのサハラ観光は崩壊した。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q2465567",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Coup led by General Abdel Aziz",
+    "ko": "압델 아지즈 장군의 쿠데타",
+    "zh": "阿卜杜勒-阿齐兹将军政变",
+    "ja": "アブデルアジズ将軍のクーデター"
+   },
+   "description": {
+    "en": "On 6 August 2008, after the president tried to dismiss senior commanders, General Mohamed Ould Abdel Aziz overthrew Sidi Ould Cheikh Abdallahi, Mauritania's first freely elected president. The African Union suspended Mauritania and Western donors froze aid. A negotiated agreement in Dakar led to a new election the following year.",
+    "ko": "2008년 8월 6일 대통령이 고위 지휘관들을 해임하려 하자, 모하메드 울드 압델 아지즈 장군이 모리타니 최초의 자유선거로 뽑힌 시디 울드 셰이크 압달라히 대통령을 축출했다. 아프리카연합은 모리타니의 회원 자격을 정지했고 서방 공여국들은 원조를 동결했다. 다카르에서 타결된 협정에 따라 이듬해 새 선거가 치러졌다.",
+    "zh": "2008年8月6日，在总统试图撤换高级将领后，穆罕默德·乌尔德·阿卜杜勒-阿齐兹将军推翻了毛里塔尼亚首位经自由选举产生的总统阿卜杜拉希。非洲联盟暂停毛里塔尼亚成员资格，西方援助国冻结援助。经在达喀尔谈判达成的协议，次年举行了新选举。",
+    "ja": "2008年8月6日、大統領が軍高官を解任しようとしたことを受け、モハメド・ウルド・アブデルアジズ将軍がモーリタニア初の自由選挙で選ばれたアブダライ大統領を追放した。アフリカ連合はモーリタニアの資格を停止し、欧米の援助国は援助を凍結した。ダカールで交渉された合意に基づき、翌年に新たな選挙が行われた。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": "Q6793733",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Abdel Aziz elected president",
+    "ko": "압델 아지즈 대통령 당선",
+    "zh": "阿卜杜勒-阿齐兹当选总统",
+    "ja": "アブデルアジズが大統領に当選"
+   },
+   "description": {
+    "en": "Having resigned from the army to run, Mohamed Ould Abdel Aziz won the July 2009 presidential election in the first round; opposition candidates contested the result. Days later a suicide bomber attacked near the French embassy in Nouakchott. Abdel Aziz made the fight against jihadist groups a central priority.",
+    "ko": "출마를 위해 군에서 물러난 모하메드 울드 압델 아지즈는 2009년 7월 대선에서 1차 투표로 승리했으나 야당 후보들은 결과에 이의를 제기했다. 며칠 뒤 누악쇼트의 프랑스 대사관 인근에서 자살 폭탄 공격이 일어났다. 압델 아지즈는 지하드 세력과의 싸움을 최우선 과제로 삼았다.",
+    "zh": "为参选而退出军队的穆罕默德·乌尔德·阿卜杜勒-阿齐兹在2009年7月的总统选举中首轮胜出，反对派候选人对结果提出异议。数日后，努瓦克肖特法国大使馆附近发生自杀式炸弹袭击。阿卜杜勒-阿齐兹将打击圣战组织列为首要任务。",
+    "ja": "出馬のため軍を退いたモハメド・ウルド・アブデルアジズは2009年7月の大統領選で第1回投票で勝利したが、野党候補は結果に異議を唱えた。数日後、ヌアクショットのフランス大使館付近で自爆攻撃が起きた。アブデルアジズはジハード主義勢力との戦いを最優先課題とした。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q86831539",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Mauritania and the war in the Sahel",
+    "ko": "모리타니와 사헬 전쟁",
+    "zh": "毛里塔尼亚与萨赫勒战争",
+    "ja": "モーリタニアとサヘル紛争"
+   },
+   "description": {
+    "en": "As conflict spread across the Sahel, the Mauritanian army, rebuilt with new special units and desert patrols, fought AQIM fighters, including in cross-border operations into Mali in 2010–11. The government combined military action with dialogue with imprisoned Salafists. Mauritania avoided further major attacks on its soil in the following years.",
+    "ko": "사헬 전역으로 분쟁이 번지자 새 특수부대와 사막 순찰대로 재건된 모리타니군은 2010~2011년 말리로의 월경 작전을 포함해 AQIM 전투원들과 싸웠다. 정부는 군사 행동과 함께 수감된 살라피스트들과의 대화를 병행했다. 모리타니는 이후 몇 년간 자국 영토에서 추가적인 대규모 공격을 피했다.",
+    "zh": "随着冲突在萨赫勒地区蔓延，以新建特种部队和沙漠巡逻队重整的毛里塔尼亚军队与伊斯兰马格里布基地组织作战，包括2010至2011年越境进入马里的行动。政府在军事行动的同时，与被关押的萨拉菲派人士展开对话。此后数年，毛里塔尼亚本土再未遭受重大袭击。",
+    "ja": "サヘル全域に紛争が広がる中、新たな特殊部隊や砂漠パトロールで再建されたモーリタニア軍は、2010～11年のマリへの越境作戦を含め、AQIMの戦闘員と戦った。政府は軍事行動と並行して、収監中のサラフィー主義者との対話も進めた。その後数年間、モーリタニアは自国領での大規模な攻撃を免れた。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q4626681",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Sahel drought and food crisis",
+    "ko": "사헬 가뭄과 식량 위기",
+    "zh": "萨赫勒干旱与粮食危机",
+    "ja": "サヘルの干ばつと食料危機"
+   },
+   "description": {
+    "en": "Poor rains in 2011 led to a severe food and fodder crisis across the Sahel in 2012, hitting Mauritania's herders and farmers hard. The crisis was compounded by refugees fleeing the conflict in northern Mali to the Mbera camp in southeastern Mauritania. International agencies launched emergency food aid.",
+    "ko": "2011년의 강수 부족으로 2012년 사헬 전역에 심각한 식량·사료 위기가 닥쳐 모리타니의 목축민과 농민이 큰 타격을 입었다. 말리 북부의 분쟁을 피해 모리타니 남동부 음베라 난민촌으로 피란민이 몰려들면서 위기는 더 악화되었다. 국제기구들이 긴급 식량 지원에 나섰다.",
+    "zh": "2011年降雨不足，导致2012年萨赫勒地区发生严重的粮食和饲料危机，毛里塔尼亚的牧民和农民受到重创。逃离马里北部冲突的难民涌入毛里塔尼亚东南部的姆贝拉难民营，使危机雪上加霜。国际机构随即展开紧急粮食援助。",
+    "ja": "2011年の少雨により2012年にはサヘル全域で深刻な食料・飼料危機が起き、モーリタニアの牧畜民と農民は大きな打撃を受けた。マリ北部の紛争を逃れた難民がモーリタニア南東部のンベラ難民キャンプに流入し、危機はさらに深まった。国際機関が緊急食料援助を行った。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "G5 Sahel founded in Nouakchott",
+    "ko": "누악쇼트에서 G5 사헬 창설",
+    "zh": "萨赫勒五国集团在努瓦克肖特成立",
+    "ja": "ヌアクショットでG5サヘル発足"
+   },
+   "description": {
+    "en": "Mauritania, Mali, Niger, Burkina Faso and Chad founded the G5 Sahel in Nouakchott to coordinate security and development policy, with its permanent secretariat based in the Mauritanian capital. A joint military force followed in 2017. The group later unravelled after military juntas in Mali, Burkina Faso and Niger withdrew.",
+    "ko": "모리타니, 말리, 니제르, 부르키나파소, 차드가 안보·개발 정책을 조율하기 위해 누악쇼트에서 G5 사헬을 창설했으며, 상설 사무국은 모리타니 수도에 두었다. 2017년에는 합동 군사력이 뒤따랐다. 이후 말리, 부르키나파소, 니제르의 군사 정권이 탈퇴하면서 이 기구는 와해되었다.",
+    "zh": "毛里塔尼亚、马里、尼日尔、布基纳法索和乍得在努瓦克肖特成立萨赫勒五国集团，以协调安全与发展政策，常设秘书处设在毛里塔尼亚首都。2017年又组建了联合部队。后来马里、布基纳法索和尼日尔的军政府相继退出，该组织随之瓦解。",
+    "ja": "モーリタニア、マリ、ニジェール、ブルキナファソ、チャドは、安全保障と開発政策を調整するためヌアクショットでG5サヘルを創設し、常設事務局をモーリタニアの首都に置いた。2017年には合同部隊も編成された。その後、マリ、ブルキナファソ、ニジェールの軍事政権が脱退し、枠組みは崩壊した。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q25999294",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Arab League summit in Nouakchott",
+    "ko": "누악쇼트 아랍연맹 정상회의",
+    "zh": "阿盟峰会在努瓦克肖特举行",
+    "ja": "ヌアクショットでアラブ連盟首脳会議"
+   },
+   "description": {
+    "en": "Mauritania hosted the summit of the League of Arab States for the first time, in July 2016, after Morocco declined to host it. The meeting was held in a large tent in Nouakchott and attended by relatively few heads of state. It was nevertheless a diplomatic milestone for the country.",
+    "ko": "모로코가 개최를 사양한 뒤 모리타니는 2016년 7월 처음으로 아랍연맹 정상회의를 개최했다. 회의는 누악쇼트의 대형 천막에서 열렸고 참석한 국가원수는 비교적 적었다. 그럼에도 이는 모리타니에 외교적 이정표가 되었다.",
+    "zh": "在摩洛哥放弃主办后，毛里塔尼亚于2016年7月首次承办阿拉伯国家联盟峰会。会议在努瓦克肖特的一座大帐篷中举行，出席的国家元首相对较少，但仍是该国外交上的一个里程碑。",
+    "ja": "モロッコが開催を辞退したことを受け、モーリタニアは2016年7月に初めてアラブ連盟首脳会議を主催した。会議はヌアクショットの大型テントで開かれ、出席した国家元首は比較的少なかったが、同国にとって外交上の節目となった。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q30015738",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Referendum abolishes the Senate and changes the flag",
+    "ko": "상원 폐지와 국기 변경 국민투표",
+    "zh": "公投废除参议院并更改国旗",
+    "ja": "上院廃止と国旗変更の国民投票"
+   },
+   "description": {
+    "en": "After the Senate rejected his constitutional reform, President Abdel Aziz put it to a referendum, which approved abolishing the Senate and adding red stripes to the national flag to honour those who fought colonialism. The opposition boycotted the vote. The national anthem was also replaced.",
+    "ko": "상원이 개헌안을 부결하자 압델 아지즈 대통령은 이를 국민투표에 부쳤고, 상원 폐지와 반식민 투쟁 희생자를 기리는 빨간 줄을 국기에 더하는 안이 승인되었다. 야당은 투표를 보이콧했다. 국가(國歌)도 새것으로 바뀌었다.",
+    "zh": "参议院否决宪法改革后，阿卜杜勒-阿齐兹总统将其交付公投，公投批准废除参议院，并在国旗上增加红色条纹以纪念反殖民斗争中的牺牲者。反对派抵制了投票，国歌也随之更换。",
+    "ja": "上院が憲法改正案を否決すると、アブデルアジズ大統領はこれを国民投票にかけ、上院の廃止と、反植民地闘争の犠牲者をたたえる赤い帯を国旗に加える案が承認された。野党は投票をボイコットした。国歌も新しいものに替えられた。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q64173360",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First peaceful transfer between elected presidents",
+    "ko": "선출 대통령 간 첫 평화적 정권 교체",
+    "zh": "首次民选总统间和平交接",
+    "ja": "民選大統領間で初の平和的政権移行"
+   },
+   "description": {
+    "en": "Respecting the two-term limit, Abdel Aziz stepped down, and his former defence minister Mohamed Ould Ghazouani won the presidential election in the first round. It was Mauritania's first handover of power between two elected presidents since independence. Ghazouani soon distanced himself from his predecessor.",
+    "ko": "압델 아지즈가 중임 제한을 지켜 물러났고, 그의 국방장관이었던 모하메드 울드 가주아니가 대선 1차 투표에서 승리했다. 독립 이후 처음으로 선출된 두 대통령 사이에 정권이 이양되었다. 가주아니는 곧 전임자와 거리를 두었다.",
+    "zh": "阿卜杜勒-阿齐兹遵守两届任期限制卸任，其前国防部长穆罕默德·乌尔德·加祖瓦尼在总统选举首轮胜出。这是毛里塔尼亚独立以来首次在两位民选总统之间完成权力交接。加祖瓦尼随后与前任拉开距离。",
+    "ja": "アブデルアジズは2期の任期制限を守って退任し、元国防相のモハメド・ウルド・ガズワニが大統領選の第1回投票で勝利した。独立以来初めて、選挙で選ばれた大統領同士で政権が移譲された。ガズワニはまもなく前任者と距離を置いた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87709900",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic reaches Mauritania",
+    "ko": "모리타니의 코로나19 유행",
+    "zh": "新冠疫情波及毛里塔尼亚",
+    "ja": "モーリタニアの新型コロナ流行"
+   },
+   "description": {
+    "en": "Mauritania recorded its first COVID-19 case in March 2020 and imposed curfews, closed borders and suspended travel between regions. The measures disrupted trade, fishing and the informal economy. The government expanded social assistance to poor households during the crisis.",
+    "ko": "모리타니는 2020년 3월 첫 코로나19 확진자를 확인하고 통행금지, 국경 폐쇄, 지역 간 이동 중단 조치를 시행했다. 이러한 조치는 교역과 어업, 비공식 경제를 위축시켰다. 정부는 위기 동안 빈곤 가구에 대한 사회 지원을 확대했다.",
+    "zh": "毛里塔尼亚于2020年3月出现首例新冠病例，随即实施宵禁、关闭边境并暂停各地区之间的通行。这些措施冲击了贸易、渔业和非正规经济。危机期间，政府扩大了对贫困家庭的社会援助。",
+    "ja": "モーリタニアは2020年3月に初の新型コロナ感染者を確認し、夜間外出禁止、国境閉鎖、地域間移動の停止を実施した。これらの措置は交易、漁業、インフォーマル経済に打撃を与えた。政府は危機の間、貧困世帯への社会扶助を拡大した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Former president convicted of corruption",
+    "ko": "전직 대통령 부패 유죄 판결",
+    "zh": "前总统被判腐败罪",
+    "ja": "前大統領に汚職で有罪判決"
+   },
+   "description": {
+    "en": "Following a parliamentary inquiry into his time in office, former president Mohamed Ould Abdel Aziz was tried and, in December 2023, convicted of illicit enrichment and money laundering and sentenced to five years in prison. He denied the charges and called the case political. It was a rare prosecution of a former African head of state by his own country's courts.",
+    "ko": "재임 기간에 대한 의회 조사에 이어 재판에 회부된 전 대통령 모하메드 울드 압델 아지즈는 2023년 12월 불법 축재와 자금 세탁 혐의로 유죄 판결을 받아 징역 5년을 선고받았다. 그는 혐의를 부인하며 정치적 사건이라고 주장했다. 아프리카 전직 국가원수가 자국 법원에서 기소된 드문 사례였다.",
+    "zh": "在议会对其任期展开调查后，前总统穆罕默德·乌尔德·阿卜杜勒-阿齐兹受审，并于2023年12月以非法敛财和洗钱罪被判处五年监禁。他否认指控，称此案出于政治目的。这是非洲前国家元首被本国法院起诉的少见案例。",
+    "ja": "在任中に関する議会の調査を経て裁判にかけられた前大統領モハメド・ウルド・アブデルアジズは、2023年12月に不正蓄財と資金洗浄で有罪となり、禁錮5年の判決を受けた。彼は容疑を否認し、政治的な事件だと主張した。アフリカの元国家元首が自国の裁判所で訴追される珍しい例となった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q83974189",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ghazouani re-elected",
+    "ko": "가주아니 재선",
+    "zh": "加祖瓦尼连任",
+    "ja": "ガズワニ再選"
+   },
+   "description": {
+    "en": "President Mohamed Ould Ghazouani won a second term in the June 2024 presidential election, with anti-slavery activist Biram Dah Abeid finishing second. Protests over the results in some towns were followed by deadly unrest. Ghazouani's second term emphasized security cooperation and preparations for offshore gas exports.",
+    "ko": "모하메드 울드 가주아니 대통령이 2024년 6월 대선에서 재선에 성공했고, 반노예제 운동가 비람 다 아베이드가 2위를 차지했다. 일부 도시에서는 결과에 항의하는 시위가 사망자를 낸 소요로 이어졌다. 가주아니의 2기 정부는 안보 협력과 해양 가스 수출 준비에 중점을 두었다.",
+    "zh": "穆罕默德·乌尔德·加祖瓦尼总统在2024年6月的总统选举中赢得连任，反奴隶制活动人士比拉姆·达赫·阿贝德位居第二。部分城镇对选举结果的抗议演变为致命骚乱。加祖瓦尼的第二任期侧重安全合作和海上天然气出口的筹备。",
+    "ja": "モハメド・ウルド・ガズワニ大統領が2024年6月の大統領選で再選され、反奴隷制活動家ビラム・ダハ・アベイドが2位となった。一部の町では結果への抗議が死者を出す騒乱に発展した。ガズワニの2期目は安全保障協力と海洋ガス輸出の準備に力点を置いた。"
+   }
+  }
+ ]
+}

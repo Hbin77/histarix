@@ -1,0 +1,1619 @@
+{
+ "iso": "NZ",
+ "eras": [
+  {
+   "from": -8000,
+   "to": 1249,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Uninhabited Zealandia",
+    "ko": "사람이 살지 않던 질랜디아",
+    "zh": "无人居住的西兰大陆",
+    "ja": "無人のジーランディア"
+   },
+   "summary": {
+    "en": "For thousands of years the islands of New Zealand, the emergent part of the largely submerged continent of Zealandia, had no human inhabitants. Isolated since the breakup of Gondwana, they were a world of birds, including giant flightless moa and Haast's eagle, with no land mammals except bats. The land was shaped by volcanism such as the Taupō supereruption of c. 26,500 years ago and the Hatepe eruption of c. AD 232.",
+    "ko": "수천 년 동안 대부분 바다에 잠긴 질랜디아 대륙의 수면 위 부분인 뉴질랜드 제도에는 사람이 전혀 살지 않았다. 곤드와나 대륙이 분열한 뒤 고립된 이 땅은 날지 못하는 거대한 모아와 하스트수리 같은 새들의 세상이었고, 박쥐 외에는 육상 포유류가 없었다. 약 2만 6500년 전의 타우포 초거대 분화와 서기 232년경의 하테페 분화 같은 화산 활동이 지형을 빚었다.",
+    "zh": "数千年间，新西兰诸岛——大部分沉没于海中的西兰大陆露出水面的部分——一直无人居住。自冈瓦纳古陆分裂后便与世隔绝，这里是鸟类的世界，有不会飞的巨型恐鸟和哈斯特鹰，除蝙蝠外没有陆生哺乳动物。约2.65万年前的陶波超级喷发和约公元232年的哈特佩喷发等火山活动塑造了这片土地。",
+    "ja": "数千年にわたり、大部分が海に沈んだジーランディア大陸の陸上部分であるニュージーランドの島々には、人間が住んでいなかった。ゴンドワナ大陸の分裂以来孤立したこの地は、飛べない巨鳥モアやハーストイーグルが生きる鳥の世界で、コウモリ以外の陸生哺乳類はいなかった。約2万6500年前のタウポ超巨大噴火や232年頃のハテペ噴火などの火山活動が大地を形づくった。"
+   }
+  },
+  {
+   "from": 1250,
+   "to": 1500,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Archaic Māori period",
+    "ko": "초기 마오리 시대",
+    "zh": "早期毛利时期",
+    "ja": "初期マオリ時代"
+   },
+   "summary": {
+    "en": "East Polynesian voyagers arrived in Aotearoa around 1250–1300, making it one of the last major landmasses settled by humans. Early settlers lived largely by hunting moa and seals, fishing and gathering, and adapted tropical crops such as kūmara (sweet potato) to a cooler climate. Sites such as Wairau Bar show strong ties to the tropical Pacific homeland, while overhunting drove the moa to extinction within about a century or two.",
+    "ko": "동폴리네시아의 항해자들이 1250~1300년경 아오테아로아에 도착했다. 이곳은 인류가 정착한 마지막 주요 육지 가운데 하나였다. 초기 정착민은 주로 모아와 물개 사냥, 어로, 채집으로 살았고, 쿠마라(고구마) 같은 열대 작물을 서늘한 기후에 맞게 길렀다. 와이라우 바 같은 유적은 열대 태평양의 고향과의 깊은 연관을 보여 주며, 남획으로 모아는 1~2세기 만에 멸종했다.",
+    "zh": "东波利尼西亚航海者约于1250至1300年间抵达奥特亚罗瓦，这里是人类最后定居的主要陆地之一。早期定居者主要靠猎捕恐鸟和海豹、捕鱼和采集为生，并使库马拉（甘薯）等热带作物适应较凉的气候。怀劳沙洲等遗址显示出与热带太平洋故乡的紧密联系，而过度捕猎使恐鸟在一两个世纪内灭绝。",
+    "ja": "東ポリネシアの航海者たちは1250〜1300年頃アオテアロアに到着し、ここは人類が定住した最後の主要な陸地の一つとなった。初期の入植者は主にモアやアザラシの狩猟、漁労、採集で暮らし、クマラ（サツマイモ）などの熱帯作物を冷涼な気候に適応させた。ワイラウ・バーなどの遺跡は熱帯太平洋の故郷との強い結びつきを示し、乱獲によりモアは1〜2世紀のうちに絶滅した。"
+   }
+  },
+  {
+   "from": 1500,
+   "to": 1839,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Classic Māori period",
+    "ko": "고전 마오리 시대",
+    "zh": "古典毛利时期",
+    "ja": "古典マオリ時代"
+   },
+   "summary": {
+    "en": "As moa and other easy resources vanished, Māori society reorganised around horticulture, fishing and the hapū and iwi (kin groups and tribes) that controlled land and resources. Fortified hilltop villages (pā), carved meeting houses, greenstone (pounamu) working and rich oral traditions of ancestral canoes (waka) flourished. On the Chatham Islands (Rēkohu) a related people, the Moriori, developed a distinct culture with a tradition of non-violence.",
+    "ko": "모아 등 손쉬운 자원이 사라지자 마오리 사회는 원예 농업과 어로, 그리고 토지와 자원을 관할하는 하푸와 이위(친족 집단과 부족)를 중심으로 재편되었다. 언덕 위 요새 마을(파), 조각으로 장식한 집회소, 녹옥(포우나무) 공예, 조상들의 카누(와카)에 관한 풍부한 구전 전승이 꽃피었다. 채텀 제도(레코후)에서는 같은 계통의 모리오리족이 비폭력 전통을 지닌 독자적 문화를 이루었다.",
+    "zh": "随着恐鸟等易得资源消失，毛利社会转而以园艺、渔业以及掌控土地和资源的哈普和伊维（亲族群体与部落）为中心重新组织。山顶要塞村落（帕）、雕饰会堂、绿玉（波纳穆）加工以及关于祖先独木舟（瓦卡）的丰富口述传统蓬勃发展。在查塔姆群岛（雷科胡），同源的莫里奥里人形成了具有非暴力传统的独特文化。",
+    "ja": "モアなど手に入りやすい資源が尽きると、マオリ社会は園芸農業と漁労、そして土地と資源を管理するハプーとイウィ（親族集団と部族）を軸に再編された。丘の上の要塞集落（パー）、彫刻を施した集会所、翡翠（ポウナム）細工、祖先のカヌー（ワカ）をめぐる豊かな口承伝統が栄えた。チャタム諸島（レコフ）では同系のモリオリが非暴力の伝統をもつ独自の文化を築いた。"
+   }
+  },
+  {
+   "from": 1769,
+   "to": 1839,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early contact: explorers, traders and missionaries",
+    "ko": "초기 접촉기: 탐험가·상인·선교사",
+    "zh": "早期接触：探险家、商人与传教士",
+    "ja": "初期接触期：探検家・交易者・宣教師"
+   },
+   "summary": {
+    "en": "After James Cook's 1769 voyage, sealers, whalers, timber traders and from 1814 Christian missionaries brought Māori into contact with the wider world. Māori communities traded food, flax and timber for iron tools and muskets, and the spread of firearms fuelled the devastating intertribal Musket Wars. Growing lawlessness among Europeans and French interest led Britain to appoint a British Resident in 1833, and northern chiefs declared independence in 1835.",
+    "ko": "1769년 제임스 쿡의 항해 이후 물개잡이, 포경업자, 목재 상인, 그리고 1814년부터는 기독교 선교사들이 들어오면서 마오리는 더 넓은 세계와 접하게 되었다. 마오리 공동체는 식량, 아마, 목재를 철제 도구와 머스킷총으로 바꾸었고, 총기의 확산은 처참한 부족 간 머스킷 전쟁을 불렀다. 유럽인 사이의 무법 상태와 프랑스의 관심이 커지자 영국은 1833년 영국 주재관을 파견했고, 북부 족장들은 1835년 독립을 선언했다.",
+    "zh": "1769年詹姆斯·库克航行之后，猎海豹者、捕鲸者、木材商人以及自1814年起的基督教传教士使毛利人与外部世界发生接触。毛利社群以食物、亚麻和木材换取铁器和火枪，火器的扩散引发了惨烈的部落间火枪战争。由于欧洲人中无法无天的状况加剧以及法国的关注，英国于1833年派驻英国驻扎官，北方酋长们于1835年宣布独立。",
+    "ja": "1769年のジェームズ・クックの航海以後、アザラシ猟師、捕鯨業者、木材商、そして1814年からはキリスト教宣教師が訪れ、マオリは広い世界と接触するようになった。マオリの共同体は食料・亜麻・木材を鉄器やマスケット銃と交換し、銃の普及は凄惨な部族間のマスケット戦争を招いた。ヨーロッパ人の無法状態やフランスの関心の高まりを受けて、イギリスは1833年に駐在官を置き、北部の首長たちは1835年に独立を宣言した。"
+   }
+  },
+  {
+   "from": 1807,
+   "to": 1842,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Musket Wars",
+    "ko": "머스킷 전쟁기",
+    "zh": "火枪战争时期",
+    "ja": "マスケット戦争期"
+   },
+   "summary": {
+    "en": "A series of intertribal wars fought with newly acquired European muskets swept much of the North and South Islands. Ngāpuhi under Hongi Hika, and later Ngāti Toa under Te Rauparaha, launched long-distance campaigns that killed many thousands of people, displaced whole iwi and redrew the map of tribal territories. The upheaval shaped land claims and alliances at the time of the Treaty of Waitangi.",
+    "ko": "새로 들여온 유럽제 머스킷총으로 치른 일련의 부족 간 전쟁이 북섬과 남섬의 많은 지역을 휩쓸었다. 홍이 히카가 이끈 응가푸히, 뒤이어 테 라우파라하가 이끈 응가티 토아가 원거리 원정을 벌여 수많은 사람이 죽고 여러 이위가 터전을 잃었으며 부족 영역의 지도가 새로 그려졌다. 이 격변은 와이탕이 조약 당시의 토지 권리와 동맹 관계를 좌우했다.",
+    "zh": "一系列使用新近获得的欧洲火枪进行的部落间战争席卷了北岛和南岛的大部分地区。洪伊·希卡领导的恩加普希以及后来特劳帕拉哈领导的恩加提托阿发动远程征战，造成成千上万人死亡，许多伊维流离失所，部落领地版图被重新划定。这场动荡影响了签订《怀唐伊条约》时的土地主张和联盟格局。",
+    "ja": "新たに入手したヨーロッパ製マスケット銃で戦われた一連の部族間戦争が、北島と南島の広い範囲を席巻した。ホンギ・ヒカ率いるンガプヒ、のちにテ・ラウパラハ率いるンガーティ・トアが遠征を重ね、多数の死者を出し、多くのイウィが故地を追われ、部族の勢力図が塗り替えられた。この激動はワイタンギ条約締結時の土地権や同盟関係を左右した。"
+   }
+  },
+  {
+   "from": 1840,
+   "to": 1906,
+   "kind": "colonial",
+   "qid": "Q8680",
+   "polity": "British Colonial Empire",
+   "name": {
+    "en": "Colony of New Zealand",
+    "ko": "영국령 뉴질랜드 식민지",
+    "zh": "英属新西兰殖民地",
+    "ja": "イギリス領ニュージーランド植民地"
+   },
+   "summary": {
+    "en": "Following the Treaty of Waitangi in 1840, New Zealand became a British colony, separate from New South Wales from 1841 and self-governing under the Constitution Act of 1852. Organised European settlement, gold rushes and pastoral farming transformed the land, while wars and confiscations stripped many Māori of their land. By the 1890s the Liberal government had made the colony a pioneer of social reform, including votes for women in 1893.",
+    "ko": "1840년 와이탕이 조약 이후 뉴질랜드는 영국 식민지가 되었고, 1841년 뉴사우스웨일스에서 분리되었으며 1852년 헌법에 따라 자치를 시작했다. 계획적 유럽인 이주, 골드러시, 목축업이 땅을 바꾸어 놓았지만, 전쟁과 몰수로 많은 마오리가 토지를 잃었다. 1890년대에는 자유당 정부가 1893년 여성 참정권을 비롯한 사회 개혁의 선구자로 식민지를 이끌었다.",
+    "zh": "1840年《怀唐伊条约》签订后，新西兰成为英国殖民地，1841年脱离新南威尔士单独设治，1852年依据宪法法案实行自治。有组织的欧洲移民、淘金热和畜牧业改变了这片土地，而战争和土地没收使许多毛利人失去土地。到19世纪90年代，自由党政府使殖民地成为社会改革的先驱，包括1893年赋予妇女投票权。",
+    "ja": "1840年のワイタンギ条約後、ニュージーランドはイギリスの植民地となり、1841年にニューサウスウェールズから分離、1852年の憲法法により自治を得た。計画的なヨーロッパ系入植、ゴールドラッシュ、牧畜が大地を変える一方、戦争と土地没収によって多くのマオリが土地を失った。1890年代には自由党政府のもとで、1893年の女性参政権をはじめ社会改革の先駆けとなった。"
+   }
+  },
+  {
+   "from": 1845,
+   "to": 1872,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "New Zealand Wars",
+    "ko": "뉴질랜드 전쟁기",
+    "zh": "新西兰战争时期",
+    "ja": "ニュージーランド戦争期"
+   },
+   "summary": {
+    "en": "A series of conflicts between the colonial government, backed by British troops, and various Māori iwi over land and authority. Major campaigns were fought in the north (1845–46), Taranaki (from 1860) and the Waikato (1863–64), followed by guerrilla wars led by figures such as Te Kooti and Tītokowaru. Some 1.2 million hectares of Māori land were confiscated, a grievance later addressed by Treaty settlements.",
+    "ko": "영국군의 지원을 받은 식민 정부와 여러 마오리 이위가 토지와 권한을 놓고 벌인 일련의 분쟁이다. 북부(1845~46), 타라나키(1860년부터), 와이카토(1863~64)에서 주요 전역이 벌어졌고, 이어 테 쿠티와 티토코와루 등이 이끈 게릴라전이 이어졌다. 약 120만 헥타르의 마오리 토지가 몰수되었으며, 이 문제는 훗날 조약 배상 합의로 다루어졌다.",
+    "zh": "这是由英军支持的殖民政府与多个毛利伊维之间围绕土地和权力展开的一系列冲突。主要战役发生在北部（1845–46年）、塔拉纳基（1860年起）和怀卡托（1863–64年），随后是特库提和蒂托科瓦鲁等人领导的游击战。约120万公顷毛利土地被没收，这一冤屈后来通过条约和解加以处理。",
+    "ja": "イギリス軍の支援を受けた植民地政府と諸マオリ・イウィとの間で、土地と権限をめぐって戦われた一連の紛争。北部（1845〜46年）、タラナキ（1860年〜）、ワイカト（1863〜64年）で主要な戦役が行われ、続いてテ・クーティやティトコワルらによるゲリラ戦が続いた。約120万ヘクタールのマオリの土地が没収され、この問題はのちに条約和解で取り上げられた。"
+   }
+  },
+  {
+   "from": 1907,
+   "to": 1946,
+   "kind": "state",
+   "qid": null,
+   "polity": "British Colonial Empire",
+   "name": {
+    "en": "Dominion of New Zealand",
+    "ko": "뉴질랜드 자치령",
+    "zh": "新西兰自治领",
+    "ja": "ニュージーランド自治領"
+   },
+   "summary": {
+    "en": "In 1907 New Zealand became a self-governing Dominion within the British Empire, closely tied to Britain by trade, sentiment and defence. Its soldiers fought at Gallipoli and on the Western Front in World War I and across the Mediterranean and Pacific in World War II. The Great Depression brought the first Labour government to power in 1935, which built one of the world's earliest comprehensive welfare states.",
+    "ko": "1907년 뉴질랜드는 대영제국 내 자치령이 되었으며, 무역과 정서, 국방 면에서 영국과 긴밀히 묶여 있었다. 뉴질랜드 군인들은 제1차 세계대전에서 갈리폴리와 서부 전선에서, 제2차 세계대전에서는 지중해와 태평양 곳곳에서 싸웠다. 대공황을 계기로 1935년 첫 노동당 정부가 집권해 세계에서 가장 이른 포괄적 복지국가 가운데 하나를 건설했다.",
+    "zh": "1907年，新西兰成为大英帝国内的自治领，在贸易、情感和国防上与英国紧密相连。其士兵在第一次世界大战中参加了加里波利和西线作战，在第二次世界大战中转战地中海和太平洋。大萧条使首届工党政府于1935年上台，建立了世界上最早的全面福利国家之一。",
+    "ja": "1907年、ニュージーランドはイギリス帝国内の自治領となり、貿易・心情・防衛の面でイギリスと緊密に結びついていた。その兵士は第一次世界大戦ではガリポリや西部戦線で、第二次世界大戦では地中海や太平洋各地で戦った。世界恐慌を機に1935年に初の労働党政権が誕生し、世界でも最も早い包括的な福祉国家の一つを築いた。"
+   }
+  },
+  {
+   "from": 1947,
+   "to": 1983,
+   "kind": "state",
+   "qid": "Q664",
+   "polity": "New Zealand",
+   "name": {
+    "en": "Post-war New Zealand",
+    "ko": "전후 뉴질랜드",
+    "zh": "战后新西兰",
+    "ja": "戦後のニュージーランド"
+   },
+   "summary": {
+    "en": "Having adopted the Statute of Westminster in 1947, New Zealand was fully independent in law, though still closely bound to Britain as its main export market. A prosperous farm economy, the welfare state and rapid Māori urbanisation marked the post-war decades, while security ties shifted toward the United States through the ANZUS treaty. Britain's entry into the European Community in 1973 and the oil shocks ended the long boom, and a Māori cultural and political renaissance gathered strength.",
+    "ko": "1947년 웨스트민스터 헌장을 수용하면서 뉴질랜드는 법적으로 완전히 독립했지만, 여전히 주요 수출 시장인 영국과 긴밀히 연결되어 있었다. 번영하는 농업 경제와 복지국가, 마오리의 급속한 도시화가 전후 수십 년을 특징지었고, 안보 관계는 앤저스 조약을 통해 미국 쪽으로 옮겨 갔다. 1973년 영국의 유럽공동체 가입과 석유 파동으로 장기 호황이 끝났고, 마오리의 문화적·정치적 부흥이 힘을 얻었다.",
+    "zh": "1947年采纳《威斯敏斯特法令》后，新西兰在法律上完全独立，但仍因英国是其主要出口市场而与之紧密相连。繁荣的农业经济、福利国家以及毛利人的迅速城市化是战后数十年的特征，而安全关系则通过《澳新美安全条约》转向美国。1973年英国加入欧洲共同体和石油危机终结了长期繁荣，毛利文化与政治复兴日益壮大。",
+    "ja": "1947年にウェストミンスター憲章を採択したことで、ニュージーランドは法的に完全な独立を得たが、主要な輸出市場であるイギリスとはなお深く結びついていた。繁栄する農業経済、福祉国家、マオリの急速な都市化が戦後数十年を特徴づけ、安全保障はANZUS条約を通じてアメリカへと軸足を移した。1973年のイギリスの欧州共同体加盟と石油危機で長い好況は終わり、マオリの文化的・政治的復興が勢いを増した。"
+   }
+  },
+  {
+   "from": 1984,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q664",
+   "polity": "New Zealand",
+   "name": {
+    "en": "Reform and bicultural New Zealand",
+    "ko": "개혁과 이중문화의 뉴질랜드",
+    "zh": "改革与双文化的新西兰",
+    "ja": "改革と二文化主義のニュージーランド"
+   },
+   "summary": {
+    "en": "From 1984 the fourth Labour government launched sweeping free-market reforms and adopted a nuclear-free foreign policy that strained the ANZUS alliance. Te reo Māori became an official language, the Waitangi Tribunal gained power to hear historical claims, and Treaty settlements returned assets and apologies to many iwi. A mixed-member proportional electoral system has governed since 1996, and the country has faced major earthquakes, the 2019 Christchurch mosque attacks and the COVID-19 pandemic.",
+    "ko": "1984년부터 제4차 노동당 정부는 대대적인 시장주의 개혁을 단행하고, 앤저스 동맹에 긴장을 불러온 비핵 외교 정책을 채택했다. 테 레오 마오리(마오리어)가 공용어가 되었고, 와이탕이 재판소가 과거사 청구를 심리할 권한을 얻었으며, 조약 배상 합의를 통해 많은 이위에 자산 반환과 사과가 이루어졌다. 1996년부터 혼합형 비례대표제가 시행되고 있으며, 나라는 대지진, 2019년 크라이스트처치 모스크 테러, 코로나19 대유행 등을 겪었다.",
+    "zh": "自1984年起，第四届工党政府推行大刀阔斧的自由市场改革，并采取无核外交政策，使澳新美同盟关系紧张。毛利语成为官方语言，怀唐伊法庭获得审理历史诉求的权力，条约和解向许多伊维归还了资产并作出道歉。自1996年起实行混合成员比例代表制，国家经历了大地震、2019年克赖斯特彻奇清真寺袭击和新冠疫情等重大事件。",
+    "ja": "1984年以降、第4次労働党政権は大胆な市場自由化改革を断行し、ANZUS同盟に緊張をもたらした非核外交政策を採用した。マオリ語（テ・レオ・マオリ）が公用語となり、ワイタンギ審判所は歴史的請求を審理する権限を得て、条約和解により多くのイウィに資産の返還と謝罪が行われた。1996年からは小選挙区比例代表併用制が採られ、国は大地震、2019年のクライストチャーチ・モスク襲撃事件、新型コロナウイルスの流行などを経験した。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": 232,
+   "qid": "Q4198391",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Hatepe eruption of Taupō",
+    "ko": "타우포 화산의 하테페 분화",
+    "zh": "陶波火山哈特佩喷发",
+    "ja": "タウポ火山のハテペ噴火"
+   },
+   "description": {
+    "en": "Around AD 232 the Taupō volcano produced the Hatepe eruption, one of the most violent eruptions anywhere in the past 5,000 years. Pyroclastic flows devastated some 20,000 square kilometres of the central North Island, and the collapsed vent later filled to form part of Lake Taupō. Because the islands were still uninhabited, no people witnessed it; older estimates placed it around AD 180.",
+    "ko": "서기 232년경 타우포 화산에서 하테페 분화가 일어났다. 지난 5천 년 동안 지구상에서 가장 격렬했던 분화 가운데 하나로, 화쇄류가 북섬 중부 약 2만 제곱킬로미터를 휩쓸었고 함몰된 화구에는 훗날 물이 차서 타우포 호수의 일부가 되었다. 당시 섬에는 아직 사람이 살지 않아 목격자는 없었으며, 과거에는 서기 180년경으로 추정되기도 했다.",
+    "zh": "约公元232年，陶波火山发生哈特佩喷发，这是过去5000年间全球最猛烈的喷发之一。火山碎屑流摧毁了北岛中部约2万平方公里的土地，塌陷的火口后来积水成为陶波湖的一部分。当时诸岛尚无人居住，因此无人目睹；较早的估算曾将其定在公元180年前后。",
+    "ja": "232年頃、タウポ火山でハテペ噴火が起きた。過去5000年間で世界有数の激しい噴火で、火砕流は北島中部の約2万平方キロメートルを壊滅させ、陥没した火口はのちに水をたたえてタウポ湖の一部となった。当時まだ島々は無人だったため目撃者はおらず、かつては180年頃とする推定もあった。"
+   }
+  },
+  {
+   "year": 1285,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Wairau Bar settlement",
+    "ko": "와이라우 바 정착지",
+    "zh": "怀劳沙洲定居点",
+    "ja": "ワイラウ・バーの集落"
+   },
+   "description": {
+    "en": "At Wairau Bar in Marlborough, one of New Zealand's earliest known settlements was occupied around the late 13th century. Burials there contained moa-egg water vessels, adzes and ornaments in East Polynesian styles, and DNA and isotope studies suggest some of those buried were born outside New Zealand. The site is key evidence for the timing and Polynesian origin of Māori settlement.",
+    "ko": "말버러 지방의 와이라우 바에는 13세기 후반 무렵 뉴질랜드에서 가장 이른 정착지 가운데 하나가 자리 잡았다. 이곳 무덤에서는 모아 알로 만든 물그릇, 동폴리네시아 양식의 손도끼와 장신구가 나왔으며, DNA·동위원소 분석은 묻힌 이들 일부가 뉴질랜드 밖에서 태어났음을 시사한다. 이 유적은 마오리 정착의 시기와 폴리네시아 기원을 보여 주는 핵심 증거이다.",
+    "zh": "在马尔堡的怀劳沙洲，约13世纪晚期出现了新西兰已知最早的定居点之一。这里的墓葬出土了用恐鸟蛋制成的水器以及东波利尼西亚风格的石锛和饰物，DNA和同位素研究表明部分死者出生于新西兰以外。该遗址是证明毛利人定居时间及其波利尼西亚起源的关键证据。",
+    "ja": "マールボロ地方のワイラウ・バーには、13世紀後半頃、ニュージーランド最古級の集落の一つが営まれた。墓からはモアの卵で作った水容器や東ポリネシア様式の石斧・装身具が出土し、DNAや同位体の分析から、埋葬者の一部はニュージーランド外で生まれたと考えられている。この遺跡はマオリ定住の時期とポリネシア起源を示す重要な証拠である。"
+   }
+  },
+  {
+   "year": 1300,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Māori settlement of Aotearoa",
+    "ko": "마오리족의 아오테아로아 정착",
+    "zh": "毛利人定居奥特亚罗瓦",
+    "ja": "マオリによるアオテアロアへの定住"
+   },
+   "description": {
+    "en": "Polynesian voyagers from East Polynesia reached New Zealand by around 1250–1300 in double-hulled canoes, among the last major landmasses settled by humans. Māori tradition recalls ancestral waka such as Tainui, Te Arawa and Mataatua, from which many iwi trace descent. Their descendants developed a distinct Māori culture centred on whānau, hapū and iwi.",
+    "ko": "동폴리네시아의 항해자들이 쌍동선 카누를 타고 1250~1300년경 뉴질랜드에 도달했다. 인류가 정착한 마지막 주요 육지 가운데 하나였다. 마오리 전승은 타이누이, 테 아라와, 마타아투아 등 조상들의 와카(카누)를 기억하며, 많은 이위가 이들로부터 혈통을 잇는다고 여긴다. 그 후손들은 화나우(가족), 하푸, 이위를 중심으로 독자적인 마오리 문화를 발전시켰다.",
+    "zh": "来自东波利尼西亚的航海者约于1250至1300年间乘双体独木舟抵达新西兰，这是人类最后定居的主要陆地之一。毛利传说铭记着泰努伊、特阿拉瓦、马塔图阿等祖先独木舟（瓦卡），许多伊维都追溯自这些独木舟。其后裔以家族（法纳乌）、哈普和伊维为核心，发展出独特的毛利文化。",
+    "ja": "東ポリネシアの航海者たちは双胴カヌーで1250〜1300年頃ニュージーランドに到達した。人類が定住した最後の主要な陸地の一つである。マオリの伝承はタイヌイ、テ・アラワ、マタアトゥアなど祖先のワカ（カヌー）を伝え、多くのイウィがそれらに系譜をたどる。子孫たちはファーナウ（家族）、ハプー、イウィを軸に独自のマオリ文化を築いた。"
+   }
+  },
+  {
+   "year": 1314,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Kaharoa eruption of Mount Tarawera",
+    "ko": "타라웨라산 카하로아 분화",
+    "zh": "塔拉威拉山卡哈罗阿喷发",
+    "ja": "タラウェラ山のカハロア噴火"
+   },
+   "description": {
+    "en": "Around 1314 Mount Tarawera in the Bay of Plenty region erupted, spreading ash across much of the North Island. Coming within a few decades of first settlement, the Kaharoa ash layer helps archaeologists date the earliest Māori sites: few human traces lie beneath it. It was the largest New Zealand eruption witnessed by people.",
+    "ko": "1314년경 베이오브플렌티 지방의 타라웨라산이 분화해 화산재가 북섬의 넓은 지역에 쌓였다. 최초 정착 후 수십 년 안에 일어난 분화였기에, 카하로아 화산재 층은 고고학자들이 초기 마오리 유적의 연대를 판단하는 기준이 된다. 그 아래에서는 사람의 흔적이 거의 나오지 않는다. 사람이 목격한 뉴질랜드 최대의 분화였다.",
+    "zh": "约1314年，丰盛湾地区的塔拉威拉山喷发，火山灰覆盖了北岛大部分地区。由于发生在最初定居后的数十年内，卡哈罗阿火山灰层帮助考古学家为最早的毛利遗址断代：其下几乎没有人类痕迹。这是有人目睹的新西兰最大规模喷发。",
+    "ja": "1314年頃、ベイ・オブ・プレンティ地方のタラウェラ山が噴火し、火山灰が北島の広い範囲に降り積もった。最初の定住から数十年以内の出来事であったため、カハロア火山灰層は初期マオリ遺跡の年代決定の手がかりとなり、その下からは人の痕跡がほとんど見つからない。人類が目撃したニュージーランド最大の噴火であった。"
+   }
+  },
+  {
+   "year": 1400,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Extinction of the moa",
+    "ko": "모아의 멸종",
+    "zh": "恐鸟灭绝",
+    "ja": "モアの絶滅"
+   },
+   "description": {
+    "en": "By around 1400 all nine species of moa, giant flightless birds up to 3.6 metres tall with neck outstretched, had been hunted to extinction, along with their predator, Haast's eagle. Research suggests the collapse took only about a century after settlement, one of the fastest human-driven megafaunal extinctions known. Māori subsistence shifted toward gardening, fishing and birding.",
+    "ko": "1400년경, 목을 뻗으면 키가 3.6미터에 이르던 날지 못하는 거대한 새 모아 9종이 모두 사냥으로 멸종했고, 그 포식자인 하스트수리도 함께 사라졌다. 연구에 따르면 정착 후 불과 한 세기 남짓 만에 일어난 일로, 인간이 초래한 대형 동물 멸종 가운데 가장 빠른 사례의 하나이다. 이후 마오리의 생계는 원예, 어로, 조류 사냥 중심으로 바뀌었다.",
+    "zh": "约到1400年，伸颈高可达3.6米的不会飞巨鸟恐鸟的全部9个物种均被猎杀殆尽，其天敌哈斯特鹰也随之灭绝。研究表明，这一崩溃仅发生在定居后约一个世纪内，是已知最快的人类导致的巨型动物灭绝之一。毛利人的生计随后转向园艺、渔业和捕鸟。",
+    "ja": "1400年頃までに、首を伸ばすと高さ3.6メートルにもなる飛べない巨鳥モア9種はすべて狩り尽くされ、その捕食者ハーストイーグルも姿を消した。研究によれば、定住後わずか1世紀ほどでの崩壊で、人類による大型動物の絶滅として知られる最も急速な例の一つである。マオリの生業は園芸・漁労・鳥猟へと移っていった。"
+   }
+  },
+  {
+   "year": 1500,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Moriori culture on the Chatham Islands",
+    "ko": "채텀 제도의 모리오리 문화",
+    "zh": "查塔姆群岛的莫里奥里文化",
+    "ja": "チャタム諸島のモリオリ文化"
+   },
+   "description": {
+    "en": "By around 1500 Polynesian settlers, probably from mainland New Zealand, had established themselves on the remote Chatham Islands (Rēkohu), some 800 km east. Adapting to a cold climate where crops would not grow, the Moriori lived by fishing, sealing and gathering. Their ancestor Nunuku-whenua is remembered for a law forbidding killing in war, which shaped a distinctive peaceful culture.",
+    "ko": "1500년경, 아마도 뉴질랜드 본토에서 건너간 폴리네시아계 정착민들이 동쪽으로 약 800km 떨어진 외딴 채텀 제도(레코후)에 자리 잡았다. 작물이 자라지 않는 추운 기후에 적응한 모리오리족은 어로와 물개잡이, 채집으로 살았다. 이들의 조상 누누쿠 웨누아는 전쟁에서의 살인을 금한 법으로 기억되며, 이는 독특한 평화 문화를 낳았다.",
+    "zh": "约到1500年，可能来自新西兰本土的波利尼西亚定居者在以东约800公里的偏远查塔姆群岛（雷科胡）定居。莫里奥里人适应了作物无法生长的寒冷气候，以捕鱼、猎海豹和采集为生。其祖先努努库-韦努阿因订立禁止在战争中杀人的法则而被铭记，由此形成了独特的和平文化。",
+    "ja": "1500年頃までに、おそらくニュージーランド本土から渡ったポリネシア系の人々が、東約800キロの離島チャタム諸島（レコフ）に定住した。作物が育たない寒冷な気候に適応したモリオリは、漁労・アザラシ猟・採集で暮らした。祖先ヌヌク・フェヌアは戦いでの殺害を禁じた掟で知られ、独特の平和的な文化を形づくった。"
+   }
+  },
+  {
+   "year": 1550,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Spread of fortified pā",
+    "ko": "요새 마을 '파'의 확산",
+    "zh": "要塞村落“帕”的普及",
+    "ja": "要塞集落パーの広がり"
+   },
+   "description": {
+    "en": "From around the 16th century Māori built thousands of pā, fortified settlements with terraces, ditches and palisades, especially on volcanic cones and headlands of the North Island. Their spread reflects growing populations, competition for land and stored kūmara, and frequent warfare between hapū. Auckland's volcanic cones still bear the earthworks of large pā.",
+    "ko": "16세기 무렵부터 마오리는 계단식 단, 해자, 목책을 갖춘 요새 마을 '파'를 수천 곳에 세웠으며, 특히 북섬의 화산 언덕과 곶에 많았다. 파의 확산은 인구 증가와 토지 및 저장된 쿠마라를 둘러싼 경쟁, 하푸 간 잦은 전쟁을 반영한다. 오클랜드의 화산 언덕에는 지금도 대형 파의 토루가 남아 있다.",
+    "zh": "约从16世纪起，毛利人建造了数以千计的“帕”，即带有台地、壕沟和栅栏的要塞村落，尤其多见于北岛的火山锥和岬角。它们的普及反映了人口增长、对土地和储存的库马拉的争夺以及哈普之间频繁的战争。奥克兰的火山锥上至今仍保留着大型帕的土垒。",
+    "ja": "16世紀頃から、マオリは段丘・堀・柵を備えた要塞集落パーを数千か所に築き、とくに北島の火山丘や岬に多かった。その広がりは人口増加、土地や貯蔵したクマラをめぐる競合、ハプー間の頻繁な戦いを反映している。オークランドの火山丘には今も大規模なパーの土塁が残る。"
+   }
+  },
+  {
+   "year": 1642,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Abel Tasman sights New Zealand",
+    "ko": "아벌 타스만의 뉴질랜드 발견",
+    "zh": "阿贝尔·塔斯曼望见新西兰",
+    "ja": "アベル・タスマンによるニュージーランド到達"
+   },
+   "description": {
+    "en": "In December 1642 the Dutch navigator Abel Tasman, sailing for the Dutch East India Company, became the first European known to sight New Zealand. In Golden Bay a clash with Ngāti Tūmatakōkiri left four of his crew dead, and he sailed on without landing. Dutch mapmakers later named the land Nova Zeelandia after the province of Zeeland.",
+    "ko": "1642년 12월, 네덜란드 동인도회사 소속 항해가 아벌 타스만이 뉴질랜드를 목격한 최초의 유럽인이 되었다. 골든베이에서 응가티 투마타코키리와 충돌해 선원 4명이 죽자 그는 상륙하지 않은 채 떠났다. 이후 네덜란드 지도 제작자들이 제일란트 주의 이름을 따 이 땅을 '노바 제일란디아'라 불렀다.",
+    "zh": "1642年12月，为荷兰东印度公司航行的荷兰航海家阿贝尔·塔斯曼成为已知第一个望见新西兰的欧洲人。在金湾与恩加提图马塔科基里人发生冲突，其船员4人死亡，他未登陆便驶离。荷兰制图者后来以泽兰省之名将此地命名为“新泽兰”。",
+    "ja": "1642年12月、オランダ東インド会社のために航海していたアベル・タスマンが、ニュージーランドを目撃した最初のヨーロッパ人となった。ゴールデン湾でンガーティ・トゥマタコキリと衝突して乗組員4人を失い、上陸せずに去った。のちにオランダの地図製作者がゼーラント州にちなみ、この地を「ノヴァ・ゼーランディア」と名づけた。"
+   }
+  },
+  {
+   "year": 1769,
+   "qid": null,
+   "importance": 1,
+   "category": "science",
+   "title": {
+    "en": "James Cook charts the islands",
+    "ko": "제임스 쿡의 뉴질랜드 해안 측량",
+    "zh": "詹姆斯·库克测绘新西兰海岸",
+    "ja": "ジェームズ・クックによる沿岸測量"
+   },
+   "description": {
+    "en": "In October 1769 James Cook's Endeavour reached Tūranganui-a-Kiwa (Gisborne), where several Māori were killed in early encounters. Over six months Cook circumnavigated and mapped both main islands with remarkable accuracy, aided by the Tahitian navigator Tupaia, who could converse with Māori. His charts and reports opened the way for sustained European contact.",
+    "ko": "1769년 10월 제임스 쿡의 인데버호가 투랑가누이아키와(기즈번)에 닿았고, 초기 조우 과정에서 마오리 몇 명이 목숨을 잃었다. 쿡은 마오리와 대화할 수 있었던 타히티 출신 항해사 투파이아의 도움을 받아 6개월에 걸쳐 두 본섬을 일주하며 놀랍도록 정확한 해도를 만들었다. 그의 해도와 보고는 유럽인과의 지속적 접촉의 길을 열었다.",
+    "zh": "1769年10月，詹姆斯·库克的“奋进号”抵达图兰加努伊-阿-基瓦（吉斯伯恩），在最初的接触中有数名毛利人被杀。在能与毛利人交谈的塔希提航海家图帕伊亚的协助下，库克用六个月环航并以惊人的精度测绘了两大主岛。他的海图和报告为欧洲人持续接触铺平了道路。",
+    "ja": "1769年10月、ジェームズ・クックのエンデバー号がトゥランガヌイ・ア・キワ（ギズボーン）に到着し、最初の接触で数人のマオリが殺された。クックはマオリと会話できたタヒチの航海者トゥパイアの助けを得て、6か月かけて両主島を一周し、驚くほど正確な海図を作成した。その海図と報告はヨーロッパ人との継続的接触への道を開いた。"
+   }
+  },
+  {
+   "year": 1772,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Death of Marion du Fresne",
+    "ko": "마리옹 뒤프렌의 죽음",
+    "zh": "马里翁·杜弗雷纳之死",
+    "ja": "マリオン・デュフレーヌの死"
+   },
+   "description": {
+    "en": "The French explorer Marc-Joseph Marion du Fresne spent weeks in the Bay of Islands in 1772, but he and about two dozen of his men were killed by Māori after apparently breaching tapu and local protocols. His crew retaliated by burning a village and killing many Māori. The episode illustrated the dangers of cross-cultural misunderstanding in early contact.",
+    "ko": "프랑스 탐험가 마르크조제프 마리옹 뒤프렌은 1772년 베이오브아일랜즈에서 몇 주를 머물렀으나, 타푸(금기)와 현지 관습을 어긴 것으로 보이는 일 끝에 그와 부하 20여 명이 마오리에게 살해되었다. 선원들은 마을을 불태우고 많은 마오리를 죽이며 보복했다. 이 사건은 초기 접촉기 문화적 오해의 위험을 보여 주었다.",
+    "zh": "法国探险家马克-约瑟夫·马里翁·杜弗雷纳于1772年在岛屿湾停留数周，但他和约二十名部下在似乎触犯禁忌（塔普）和当地礼俗后被毛利人杀害。其船员焚烧村庄并杀死许多毛利人作为报复。这一事件显示了早期接触中文化误解的危险。",
+    "ja": "フランスの探検家マルク＝ジョゼフ・マリオン・デュフレーヌは1772年にベイ・オブ・アイランズに数週間滞在したが、タプ（禁忌）や現地の作法を破ったとみられ、彼と部下20数人がマオリに殺された。乗組員は村を焼き払い多くのマオリを殺して報復した。この事件は初期接触期における文化的誤解の危うさを示した。"
+   }
+  },
+  {
+   "year": 1792,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "First sealing gangs at Dusky Sound",
+    "ko": "더스키 사운드의 첫 물개잡이단",
+    "zh": "达斯基峡湾首批猎海豹队",
+    "ja": "ダスキー湾の最初のアザラシ猟団"
+   },
+   "description": {
+    "en": "In 1792 a sealing gang was left at Dusky Sound in Fiordland, the first Europeans to live and work in New Zealand for an extended time. Sealing and then whaling grew into New Zealand's first export industries, drawing ships from Sydney, Britain and America. Fur seal populations were drastically reduced within a few decades.",
+    "ko": "1792년 피오르드랜드의 더스키 사운드에 물개잡이단이 남겨졌는데, 이들은 뉴질랜드에서 장기간 살며 일한 최초의 유럽인이었다. 물개잡이와 뒤이은 포경업은 뉴질랜드 최초의 수출 산업이 되어 시드니, 영국, 미국에서 배들을 불러들였다. 물개 개체수는 수십 년 만에 급감했다.",
+    "zh": "1792年，一支猎海豹队被留在峡湾地区的达斯基峡湾，他们是首批在新西兰长期生活和工作的欧洲人。猎海豹以及随后的捕鲸成为新西兰最早的出口产业，吸引了来自悉尼、英国和美国的船只。海狗数量在数十年内急剧减少。",
+    "ja": "1792年、フィヨルドランドのダスキー湾にアザラシ猟団が残され、ニュージーランドで長期間暮らし働いた最初のヨーロッパ人となった。アザラシ猟と続く捕鯨はニュージーランド最初の輸出産業となり、シドニー、イギリス、アメリカから船を呼び寄せた。オットセイの数は数十年で激減した。"
+   }
+  },
+  {
+   "year": 1807,
+   "qid": "Q1192398",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Musket Wars begin",
+    "ko": "머스킷 전쟁 시작",
+    "zh": "火枪战争爆发",
+    "ja": "マスケット戦争の始まり"
+   },
+   "description": {
+    "en": "From about 1807 iwi that had acquired European muskets began using them in intertribal warfare, setting off decades of conflict known as the Musket Wars. As firearms spread, an arms race followed and fighting reached across both main islands until the early 1840s. Estimates suggest tens of thousands of people were killed, enslaved or displaced.",
+    "ko": "1807년 무렵부터 유럽제 머스킷총을 손에 넣은 이위들이 부족 간 전쟁에 이를 사용하기 시작하면서 머스킷 전쟁이라 불리는 수십 년간의 분쟁이 시작되었다. 총기가 퍼지자 군비 경쟁이 뒤따랐고, 전투는 1840년대 초까지 두 본섬 전역으로 번졌다. 추정에 따르면 수만 명이 죽거나 노예가 되거나 터전을 잃었다.",
+    "zh": "约从1807年起，获得欧洲火枪的伊维开始将其用于部落间战争，由此开启了被称为“火枪战争”的数十年冲突。随着火器扩散，军备竞赛随之而来，战火一直蔓延到两大主岛，直至19世纪40年代初。据估计有数万人遇害、沦为奴隶或流离失所。",
+    "ja": "1807年頃から、ヨーロッパ製マスケット銃を手に入れたイウィが部族間の戦いでそれを使い始め、マスケット戦争と呼ばれる数十年の紛争が始まった。銃が広まると軍拡競争が起こり、戦闘は1840年代初めまで両主島全域に及んだ。推計では数万人が殺害され、奴隷とされ、あるいは故地を追われた。"
+   }
+  },
+  {
+   "year": 1809,
+   "qid": "Q895905",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Boyd massacre",
+    "ko": "보이드호 학살",
+    "zh": "博伊德号屠杀",
+    "ja": "ボイド号虐殺事件"
+   },
+   "description": {
+    "en": "In December 1809 Māori at Whangaroa Harbour killed most of the roughly 70 people aboard the ship Boyd, in revenge for the mistreatment of a chief's son who had sailed as a crew member. It was one of the deadliest incidents between Māori and Europeans, and European reprisals killed many people at a nearby village. The event deterred shipping and delayed missionary work for several years.",
+    "ko": "1809년 12월, 황가로아 항구의 마오리가 선원으로 승선했던 족장의 아들이 학대받은 데 대한 보복으로 보이드호에 타고 있던 약 70명 가운데 대부분을 살해했다. 이는 마오리와 유럽인 사이에 벌어진 가장 참혹한 사건 가운데 하나로, 유럽인의 보복으로 인근 마을에서도 많은 이가 죽었다. 이 사건으로 선박 왕래가 위축되고 선교 활동이 몇 년간 늦춰졌다.",
+    "zh": "1809年12月，旺格罗阿港的毛利人为报复一位以船员身份随船出海的酋长之子所受的虐待，杀害了“博伊德号”上约70人中的大多数。这是毛利人与欧洲人之间最惨烈的事件之一，欧洲人的报复又在附近村庄造成多人死亡。该事件使船只往来受阻，传教工作推迟了数年。",
+    "ja": "1809年12月、ファンガロア港のマオリは、乗組員として乗船していた首長の息子が虐待されたことへの報復として、ボイド号の約70人のほとんどを殺害した。マオリとヨーロッパ人の間で最も凄惨な事件の一つで、ヨーロッパ人の報復でも近くの村で多くの人が死んだ。この事件で船の来航は減り、宣教活動は数年遅れた。"
+   }
+  },
+  {
+   "year": 1814,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "First Christian mission",
+    "ko": "첫 기독교 선교",
+    "zh": "首个基督教传教站",
+    "ja": "最初のキリスト教伝道"
+   },
+   "description": {
+    "en": "On Christmas Day 1814 the Anglican chaplain Samuel Marsden preached at Oihi in the Bay of Islands under the protection of the Ngāpuhi chief Ruatara, marking the start of Christian missions in New Zealand. Missionaries introduced literacy in te reo Māori, and the first Māori Bible portions were printed in the 1820s–30s. By the 1840s many Māori had adopted Christianity on their own terms.",
+    "ko": "1814년 성탄절, 성공회 사제 새뮤얼 마스든이 응가푸히 족장 루아타라의 보호 아래 베이오브아일랜즈의 오이히에서 설교했다. 이는 뉴질랜드 기독교 선교의 시작이었다. 선교사들은 마오리어 문자 교육을 도입했고 1820~30년대에 마오리어 성경 일부가 처음 인쇄되었다. 1840년대에는 많은 마오리가 자신들의 방식으로 기독교를 받아들였다.",
+    "zh": "1814年圣诞节，英国圣公会牧师塞缪尔·马斯登在恩加普希酋长鲁阿塔拉的保护下于岛屿湾的奥伊希布道，标志着新西兰基督教传教的开端。传教士引入了毛利语读写，19世纪20至30年代首次印行了毛利语圣经的部分章节。到19世纪40年代，许多毛利人以自己的方式接受了基督教。",
+    "ja": "1814年のクリスマス、聖公会の牧師サミュエル・マースデンがンガプヒの首長ルアタラの庇護のもと、ベイ・オブ・アイランズのオイヒで説教し、ニュージーランドにおけるキリスト教伝道が始まった。宣教師はマオリ語の読み書きを広め、1820〜30年代にはマオリ語聖書の一部が初めて印刷された。1840年代には多くのマオリが独自の形でキリスト教を受け入れていた。"
+   }
+  },
+  {
+   "year": 1821,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Hongi Hika's musket campaigns",
+    "ko": "홍이 히카의 머스킷 원정",
+    "zh": "洪伊·希卡的火枪征战",
+    "ja": "ホンギ・ヒカのマスケット遠征"
+   },
+   "description": {
+    "en": "After visiting England in 1820, the Ngāpuhi leader Hongi Hika returned with hundreds of muskets and launched devastating raids southward. His forces sacked Mauinaina in Tāmaki (Auckland) in 1821 and Matakitaki in the Waikato in 1822, killing many and emptying the Auckland isthmus for years. The campaigns triggered a regional arms race and migrations of whole tribes.",
+    "ko": "1820년 영국을 방문한 응가푸히 지도자 홍이 히카는 수백 정의 머스킷총을 들여와 남쪽으로 파괴적인 원정을 벌였다. 그의 군대는 1821년 타마키(오클랜드)의 마우이나이나를, 1822년 와이카토의 마타키타키를 함락해 많은 이를 죽였고, 오클랜드 지협은 수년간 비다시피 했다. 이 원정은 지역적 군비 경쟁과 부족 전체의 이주를 촉발했다.",
+    "zh": "恩加普希首领洪伊·希卡于1820年访问英国后带回数百支火枪，向南发动了毁灭性的袭击。他的军队于1821年攻陷塔马基（奥克兰）的毛伊奈纳，1822年攻陷怀卡托的马塔基塔基，杀戮甚众，使奥克兰地峡多年几近荒废。这些征战引发了地区性军备竞赛和整个部落的迁徙。",
+    "ja": "1820年にイギリスを訪れたンガプヒの指導者ホンギ・ヒカは数百丁のマスケット銃を持ち帰り、南方へ壊滅的な遠征を行った。その軍勢は1821年にタマキ（オークランド）のマウイナイナを、1822年にワイカトのマタキタキを攻略して多数を殺し、オークランド地峡は何年もほぼ無人となった。この遠征は地域的な軍拡競争と部族ぐるみの移住を引き起こした。"
+   }
+  },
+  {
+   "year": 1835,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Declaration of Independence of the United Tribes",
+    "ko": "부족 연합 독립 선언",
+    "zh": "联合部落独立宣言",
+    "ja": "部族連合の独立宣言"
+   },
+   "description": {
+    "en": "In October 1835 northern chiefs, encouraged by British Resident James Busby, signed He Whakaputanga o te Rangatiratanga o Nu Tireni, declaring the sovereign independence of the United Tribes of New Zealand. Britain acknowledged the declaration, and more chiefs signed it over the following years. Its relationship to the 1840 Treaty of Waitangi remains important in Māori constitutional claims.",
+    "ko": "1835년 10월, 영국 주재관 제임스 버스비의 권유로 북부 족장들이 '헤 화카푸탕가 오 테 랑가티라탕가 오 누 티레니'에 서명해 뉴질랜드 부족 연합의 주권 독립을 선언했다. 영국은 이 선언을 인정했고, 이후 몇 년간 더 많은 족장이 서명했다. 이 선언과 1840년 와이탕이 조약의 관계는 마오리의 헌정적 주장에서 지금도 중요하다.",
+    "zh": "1835年10月，在英国驻扎官詹姆斯·巴斯比的鼓励下，北方酋长们签署了《新西兰主权独立宣言》（He Whakaputanga），宣告新西兰联合部落的主权独立。英国承认了该宣言，此后数年又有更多酋长签署。它与1840年《怀唐伊条约》的关系至今仍是毛利人宪政主张中的重要议题。",
+    "ja": "1835年10月、イギリス駐在官ジェームズ・バズビーの勧めにより、北部の首長たちが「ヘ・ファカプタンガ」に署名し、ニュージーランド部族連合の主権独立を宣言した。イギリスはこの宣言を承認し、その後数年でさらに多くの首長が署名した。この宣言と1840年のワイタンギ条約との関係は、マオリの憲法上の主張において今も重要である。"
+   }
+  },
+  {
+   "year": 1835,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Invasion of the Chatham Islands",
+    "ko": "채텀 제도 침공",
+    "zh": "入侵查塔姆群岛",
+    "ja": "チャタム諸島への侵攻"
+   },
+   "description": {
+    "en": "In late 1835 some 900 people of the Taranaki iwi Ngāti Mutunga and Ngāti Tama, displaced by the Musket Wars, sailed to the Chatham Islands on a chartered European ship. Bound by their ancestral law against killing, the Moriori did not resist; many were killed and the survivors enslaved, and the Moriori population collapsed. A Treaty settlement with Moriori was concluded in the 2020s.",
+    "ko": "1835년 말, 머스킷 전쟁으로 터전을 잃은 타라나키 출신 이위 응가티 무퉁가와 응가티 타마 약 900명이 유럽 선박을 빌려 채텀 제도로 건너갔다. 살인을 금하는 조상의 법을 지킨 모리오리족은 저항하지 않았고, 많은 이가 죽임을 당하고 생존자는 노예가 되어 모리오리 인구가 급감했다. 모리오리와의 조약 배상 합의는 2020년대에 이루어졌다.",
+    "zh": "1835年末，因火枪战争而流离失所的塔拉纳基伊维恩加提穆通加和恩加提塔马约900人搭乘租用的欧洲船只前往查塔姆群岛。恪守祖先禁杀之法的莫里奥里人没有抵抗，许多人被杀，幸存者沦为奴隶，莫里奥里人口锐减。与莫里奥里人的条约和解于21世纪20年代达成。",
+    "ja": "1835年末、マスケット戦争で故地を追われたタラナキのイウィ、ンガーティ・ムトゥンガとンガーティ・タマの約900人が、雇ったヨーロッパ船でチャタム諸島へ渡った。殺害を禁じる祖先の掟を守ったモリオリは抵抗せず、多くが殺され、生存者は奴隷とされて人口が激減した。モリオリとの条約和解は2020年代に結ばれた。"
+   }
+  },
+  {
+   "year": 1840,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Waitangi signed",
+    "ko": "와이탕이 조약 체결",
+    "zh": "《怀唐伊条约》签署",
+    "ja": "ワイタンギ条約の締結"
+   },
+   "description": {
+    "en": "On 6 February 1840 Lieutenant-Governor William Hobson and more than 40 chiefs signed the Treaty of Waitangi (Te Tiriti o Waitangi); over 500 chiefs eventually signed copies. The English text ceded sovereignty to the Crown, while the Māori text granted kāwanatanga (governance) and guaranteed tino rangatiratanga (full chieftainship). This discrepancy lies at the heart of New Zealand's constitutional debates, and 6 February is now Waitangi Day.",
+    "ko": "1840년 2월 6일 윌리엄 홉슨 부총독과 40여 명의 족장이 와이탕이 조약(테 티리티 오 와이탕이)에 서명했고, 결국 500명이 넘는 족장이 사본에 서명했다. 영어본은 주권을 영국 왕실에 양도한다고 했지만, 마오리어본은 '카와나탕가'(통치권)를 부여하고 '티노 랑가티라탕가'(완전한 족장권)를 보장했다. 이 차이는 뉴질랜드 헌정 논쟁의 핵심이며, 2월 6일은 와이탕이의 날로 기념된다.",
+    "zh": "1840年2月6日，副总督威廉·霍布森与40余位酋长签署了《怀唐伊条约》，最终有500多位酋长在各副本上签名。英文本规定将主权让与英王，而毛利文本则授予“卡瓦纳唐加”（治理权）并保障“蒂诺朗加提拉唐加”（完全的酋长权）。这一差异是新西兰宪政争论的核心，2月6日现为怀唐伊日。",
+    "ja": "1840年2月6日、副総督ウィリアム・ホブソンと40人余りの首長がワイタンギ条約（テ・ティリティ・オ・ワイタンギ）に署名し、最終的に500人以上の首長が写しに署名した。英語版は主権を国王に譲渡するとしたが、マオリ語版はカーワナタンガ（統治）を認め、ティノ・ランガティラタンガ（完全な首長権）を保障していた。この相違はニュージーランドの憲法論争の核心であり、2月6日はワイタンギ・デーとなっている。"
+   }
+  },
+  {
+   "year": 1840,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "New Zealand Company founds Wellington",
+    "ko": "뉴질랜드 회사의 웰링턴 건설",
+    "zh": "新西兰公司建立惠灵顿",
+    "ja": "ニュージーランド会社によるウェリントン建設"
+   },
+   "description": {
+    "en": "In January 1840 the first emigrant ships of Edward Gibbon Wakefield's New Zealand Company arrived at Port Nicholson, founding the settlement that became Wellington. The company went on to plant settlements at Whanganui, New Plymouth and Nelson, often on land whose purchase from Māori was disputed. Its systematic colonisation scheme set the pattern for later British migration.",
+    "ko": "1840년 1월, 에드워드 기번 웨이크필드가 이끈 뉴질랜드 회사의 첫 이민선들이 포트니컬슨에 도착해 훗날 웰링턴이 된 정착지를 세웠다. 회사는 이어 황가누이, 뉴플리머스, 넬슨에 정착지를 만들었지만, 마오리로부터의 토지 매입이 분쟁이 된 경우가 많았다. 이 계획적 식민 방식은 이후 영국인 이주의 본보기가 되었다.",
+    "zh": "1840年1月，爱德华·吉本·韦克菲尔德的新西兰公司首批移民船抵达尼科尔森港，建立了后来成为惠灵顿的定居点。公司随后又在旺格努伊、新普利茅斯和纳尔逊建立定居点，但其向毛利人购地往往存在争议。其系统化殖民方案为后来的英国移民树立了模式。",
+    "ja": "1840年1月、エドワード・ギボン・ウェークフィールドのニュージーランド会社の最初の移民船がポート・ニコルソンに到着し、のちのウェリントンとなる入植地を築いた。会社は続いてファンガヌイ、ニュープリマス、ネルソンに入植地を設けたが、マオリからの土地購入はしばしば争いとなった。その計画的植民方式はのちのイギリス系移民の模範となった。"
+   }
+  },
+  {
+   "year": 1843,
+   "qid": "Q1510144",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Wairau Affray",
+    "ko": "와이라우 충돌",
+    "zh": "怀劳冲突",
+    "ja": "ワイラウ衝突事件"
+   },
+   "description": {
+    "en": "In June 1843 New Zealand Company settlers from Nelson tried to arrest the Ngāti Toa chiefs Te Rauparaha and Te Rangihaeata over disputed land in the Wairau Valley. In the ensuing clash 22 Europeans and at least 4 Māori were killed. Governor FitzRoy later judged the settlers to have been in the wrong, but the incident deepened mistrust between the two peoples.",
+    "ko": "1843년 6월, 넬슨의 뉴질랜드 회사 정착민들이 와이라우 계곡의 분쟁 토지를 두고 응가티 토아의 족장 테 라우파라하와 테 랑이하에아타를 체포하려 했다. 이어진 충돌로 유럽인 22명과 마오리 최소 4명이 숨졌다. 피츠로이 총독은 뒤에 정착민 측의 잘못이라고 판단했지만, 이 사건은 양측의 불신을 깊게 했다.",
+    "zh": "1843年6月，纳尔逊的新西兰公司定居者因怀劳河谷的土地争议，试图逮捕恩加提托阿酋长特劳帕拉哈和特朗吉海塔。随后的冲突造成22名欧洲人和至少4名毛利人死亡。菲茨罗伊总督后来认定是定居者一方有错，但此事加深了双方的不信任。",
+    "ja": "1843年6月、ネルソンのニュージーランド会社入植者が、ワイラウ渓谷の係争地をめぐりンガーティ・トアの首長テ・ラウパラハとテ・ランギハエアタを逮捕しようとした。続く衝突でヨーロッパ人22人と少なくとも4人のマオリが死亡した。フィッツロイ総督はのちに入植者側に非があると判断したが、事件は両者の不信を深めた。"
+   }
+  },
+  {
+   "year": 1845,
+   "qid": "Q4871482",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Hōne Heke and the Battle of Kororāreka",
+    "ko": "호네 헤케와 코로라레카 전투",
+    "zh": "霍内·赫克与科罗拉雷卡之战",
+    "ja": "ホネ・ヘケとコロラレカの戦い"
+   },
+   "description": {
+    "en": "The Ngāpuhi chief Hōne Heke, angered by the economic and political effects of British rule, repeatedly cut down the flagstaff flying the British flag at Kororāreka (Russell). In March 1845 his forces, with those of Kawiti, attacked and the town was evacuated and burnt. The attack opened the Northern War, the first of the New Zealand Wars.",
+    "ko": "영국 통치의 경제적·정치적 영향에 분노한 응가푸히 족장 호네 헤케는 코로라레카(러셀)에서 영국 국기를 단 깃대를 여러 차례 베어 넘어뜨렸다. 1845년 3월 그의 부대가 카위티의 부대와 함께 공격하자 마을 주민은 철수했고 마을은 불탔다. 이 공격으로 뉴질랜드 전쟁의 첫 번째인 북부 전쟁이 시작되었다.",
+    "zh": "恩加普希酋长霍内·赫克因不满英国统治带来的经济和政治影响，多次砍倒科罗拉雷卡（拉塞尔）悬挂英国国旗的旗杆。1845年3月，他与卡维蒂的部队发起进攻，镇民撤离，城镇被焚毁。这次进攻揭开了北方战争的序幕，这是新西兰战争中的第一场。",
+    "ja": "イギリス統治の経済的・政治的影響に憤ったンガプヒの首長ホネ・ヘケは、コロラレカ（ラッセル）でイギリス国旗を掲げた旗竿を何度も切り倒した。1845年3月、彼とカウィティの軍勢が攻撃すると町は放棄されて焼かれた。この攻撃によってニュージーランド戦争の最初となる北部戦争が始まった。"
+   }
+  },
+  {
+   "year": 1845,
+   "qid": "Q1545405",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "New Zealand Wars begin",
+    "ko": "뉴질랜드 전쟁 발발",
+    "zh": "新西兰战争爆发",
+    "ja": "ニュージーランド戦争の勃発"
+   },
+   "description": {
+    "en": "Conflicts between Māori iwi and colonial and British forces over land and sovereignty continued intermittently from 1845 until 1872. Māori fighters developed sophisticated pā designed to withstand artillery, as at Ruapekapeka and Ōhaeawai. The wars were followed by large confiscations of Māori land, grievances that were addressed only generations later.",
+    "ko": "토지와 주권을 둘러싼 마오리 이위와 식민지·영국군 사이의 분쟁은 1845년부터 1872년까지 간헐적으로 이어졌다. 마오리 전사들은 루아페카페카와 오하에아와이에서처럼 포격을 견디도록 설계된 정교한 파를 발전시켰다. 전쟁 뒤에는 마오리 토지의 대규모 몰수가 이어졌고, 이 문제는 여러 세대가 지나서야 다루어졌다.",
+    "zh": "毛利伊维与殖民地及英国军队之间围绕土地和主权的冲突自1845年至1872年断断续续地进行。毛利战士发展出精巧的、能抵御炮击的帕，如鲁阿佩卡佩卡和奥海阿怀。战争之后是大规模没收毛利土地，这些冤屈直到几代人之后才得到处理。",
+    "ja": "土地と主権をめぐるマオリ・イウィと植民地軍・イギリス軍との紛争は、1845年から1872年まで断続的に続いた。マオリの戦士はルアペカペカやオハエアワイのように砲撃に耐える精巧なパーを発達させた。戦争の後にはマオリの土地の大規模な没収が続き、その不満が取り上げられたのは何世代も後のことだった。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Otago and Canterbury settlements",
+    "ko": "오타고와 캔터베리 정착지 건설",
+    "zh": "奥塔哥与坎特伯雷定居点建立",
+    "ja": "オタゴとカンタベリーの入植地建設"
+   },
+   "description": {
+    "en": "Church-sponsored colonies followed the New Zealand Company model: Scottish Free Church settlers founded Dunedin in Otago in 1848, and the Anglican Canterbury Association's 'first four ships' brought settlers to Lyttelton and Christchurch in 1850. The South Island, with fewer Māori and vast grasslands largely purchased from Ngāi Tahu, became the heart of sheep farming. The terms of those purchases later formed the basis of Ngāi Tahu's Treaty claim.",
+    "ko": "뉴질랜드 회사 모델을 따른 교회 후원 식민지가 뒤를 이었다. 스코틀랜드 자유교회 정착민이 1848년 오타고에 더니든을 세웠고, 성공회 캔터베리 협회의 '첫 네 척의 배'가 1850년 리틀턴과 크라이스트처치에 정착민을 실어 왔다. 마오리 인구가 적고 응가이 타후로부터 대부분 매입한 광활한 초원이 있던 남섬은 목양업의 중심이 되었다. 이 매입 조건은 훗날 응가이 타후 조약 청구의 근거가 되었다.",
+    "zh": "仿照新西兰公司模式的教会资助殖民地相继出现：苏格兰自由教会移民于1848年在奥塔哥建立达尼丁，英国圣公会坎特伯雷协会的“首批四艘船”于1850年将移民送到利特尔顿和克赖斯特彻奇。南岛毛利人较少，又有大片主要购自恩盖塔胡人的草原，成为养羊业的中心。这些购地条件后来成为恩盖塔胡条约诉求的基础。",
+    "ja": "ニュージーランド会社の方式にならった教会後援の植民地が続いた。スコットランド自由教会の入植者が1848年にオタゴにダニーデンを築き、聖公会カンタベリー協会の「最初の4隻」が1850年にリトルトンとクライストチャーチへ入植者を運んだ。マオリが少なく、主にンガイ・タフから買い取った広大な草原をもつ南島は牧羊業の中心となった。これらの購入条件はのちにンガイ・タフの条約請求の根拠となった。"
+   }
+  },
+  {
+   "year": 1852,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Constitution Act grants self-government",
+    "ko": "헌법 제정과 자치 실시",
+    "zh": "宪法法案确立自治",
+    "ja": "憲法法による自治の付与"
+   },
+   "description": {
+    "en": "The British Parliament's New Zealand Constitution Act 1852 created a General Assembly and six provincial governments, and the first Parliament met in Auckland in 1854. Responsible government followed in 1856. Because the vote depended on individual property ownership, most Māori, who held land communally, were effectively excluded.",
+    "ko": "영국 의회가 제정한 1852년 뉴질랜드 헌법은 의회(총회)와 6개 주 정부를 설치했고, 첫 의회는 1854년 오클랜드에서 열렸다. 1856년에는 책임 정부가 수립되었다. 투표권이 개인 재산 소유를 조건으로 했기 때문에 토지를 공동 소유하던 대부분의 마오리는 사실상 배제되었다.",
+    "zh": "英国议会通过的1852年《新西兰宪法法案》设立了议会（大议会）和六个省政府，首届议会于1854年在奥克兰召开，1856年实行责任政府。由于投票权以个人财产所有为条件，以集体方式持有土地的大多数毛利人实际上被排除在外。",
+    "ja": "イギリス議会が制定した1852年ニュージーランド憲法法により、総議会と6つの州政府が設けられ、最初の議会は1854年にオークランドで開かれた。1856年には責任政府が成立した。選挙権は個人の財産所有を条件としたため、土地を共同所有していた大多数のマオリは事実上排除された。"
+   }
+  },
+  {
+   "year": 1855,
+   "qid": "Q1680318",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Wairarapa earthquake",
+    "ko": "와이라라파 지진",
+    "zh": "怀拉拉帕地震",
+    "ja": "ワイララパ地震"
+   },
+   "description": {
+    "en": "On 23 January 1855 a magnitude 8.2 earthquake, the most powerful recorded in New Zealand's history, struck the southern North Island. It lifted parts of the Wellington coastline by several metres, creating land on which parts of the city were later built. Because the region was thinly settled and buildings were mostly wooden, the death toll was low.",
+    "ko": "1855년 1월 23일, 뉴질랜드 관측 역사상 가장 강력한 규모 8.2의 지진이 북섬 남부를 강타했다. 웰링턴 해안 일부가 수 미터 융기해 새 땅이 생겼고, 훗날 그 위에 도시 일부가 세워졌다. 인구가 적고 건물이 대부분 목조였기 때문에 사망자는 적었다.",
+    "zh": "1855年1月23日，新西兰有记录以来最强的8.2级地震袭击北岛南部。惠灵顿部分海岸被抬升数米，形成的土地后来建起了部分城区。由于该地区人烟稀少且建筑多为木结构，死亡人数很少。",
+    "ja": "1855年1月23日、ニュージーランド観測史上最強のマグニチュード8.2の地震が北島南部を襲った。ウェリントンの海岸の一部が数メートル隆起して新たな土地が生まれ、のちにその上に市街の一部が築かれた。人口が少なく建物の多くが木造だったため、死者は少なかった。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Māori King movement (Kīngitanga)",
+    "ko": "마오리 왕 운동(킹이탕가)",
+    "zh": "毛利王运动（Kīngitanga）",
+    "ja": "マオリ王運動（キンギタンガ）"
+   },
+   "description": {
+    "en": "In 1858 a coalition of central North Island iwi installed the Waikato chief Pōtatau Te Wherowhero as the first Māori King. The Kīngitanga sought to unite Māori, halt land sales and preserve Māori authority alongside the Crown. The government saw it as a challenge to sovereignty, a key cause of the Waikato War; the movement endures today with its seat at Ngāruawāhia.",
+    "ko": "1858년 북섬 중부 이위들의 연합이 와이카토의 족장 포타타우 테 웨로웨로를 초대 마오리 왕으로 추대했다. 킹이탕가는 마오리를 단결시키고 토지 매각을 막으며 왕실과 나란히 마오리의 권한을 지키고자 했다. 정부는 이를 주권에 대한 도전으로 보았고 이는 와이카토 전쟁의 주요 원인이 되었다. 이 운동은 응가루아와히아를 중심으로 오늘날까지 이어진다.",
+    "zh": "1858年，北岛中部诸伊维结成联盟，拥立怀卡托酋长波塔陶·特韦罗韦罗为首任毛利王。毛利王运动旨在团结毛利人、阻止土地出售，并在英王之外维护毛利人的权威。政府视之为对主权的挑战，这成为怀卡托战争的主要原因之一；该运动延续至今，中心位于恩加鲁阿瓦西亚。",
+    "ja": "1858年、北島中部のイウィの連合がワイカトの首長ポタタウ・テ・フェロフェロを初代マオリ王に推戴した。キンギタンガはマオリを団結させ、土地売却を止め、国王と並んでマオリの権威を守ることを目指した。政府はこれを主権への挑戦とみなし、ワイカト戦争の主因の一つとなった。運動はンガールアワーヒアを拠点に今日まで続いている。"
+   }
+  },
+  {
+   "year": 1860,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First Taranaki War",
+    "ko": "제1차 타라나키 전쟁",
+    "zh": "第一次塔拉纳基战争",
+    "ja": "第一次タラナキ戦争"
+   },
+   "description": {
+    "en": "War broke out in Taranaki in March 1860 after the government pushed through the disputed purchase of the Waitara block over the objections of the Te Āti Awa chief Wiremu Kīngi. Fighting dragged on for a year before an uneasy truce. The conflict hardened Māori resistance to land sales and drew in Kīngitanga supporters.",
+    "ko": "1860년 3월, 정부가 테 아티 아와의 족장 위레무 킹이의 반대를 무릅쓰고 분쟁 중이던 와이타라 토지 매입을 강행하자 타라나키에서 전쟁이 일어났다. 전투는 1년간 이어진 끝에 불안한 휴전으로 마무리되었다. 이 분쟁은 토지 매각에 대한 마오리의 저항을 굳혔고 킹이탕가 지지자들을 끌어들였다.",
+    "zh": "1860年3月，政府不顾特阿蒂阿瓦酋长维雷穆·金吉的反对，强行完成有争议的怀塔拉地块收购，塔拉纳基战争随之爆发。战斗持续一年后以不稳定的停战告终。这场冲突坚定了毛利人反对出售土地的立场，并把毛利王运动的支持者卷入其中。",
+    "ja": "1860年3月、政府がテ・アーティ・アワの首長ウィレム・キンギの反対を押し切って係争中のワイタラの土地購入を強行すると、タラナキで戦争が起きた。戦闘は1年続いたのち不安定な休戦に至った。この紛争は土地売却へのマオリの抵抗を固め、キンギタンガ支持者を巻き込んだ。"
+   }
+  },
+  {
+   "year": 1861,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Otago gold rush",
+    "ko": "오타고 골드러시",
+    "zh": "奥塔哥淘金热",
+    "ja": "オタゴ・ゴールドラッシュ"
+   },
+   "description": {
+    "en": "Gabriel Read's discovery of gold at Gabriel's Gully in May 1861 triggered a rush that drew miners from Australia and beyond, and the West Coast followed in 1864–65. Otago's population soared within a few years, and Dunedin briefly became New Zealand's largest and wealthiest town. Gold revenue funded roads, schools and institutions such as the University of Otago (1869).",
+    "ko": "1861년 5월 게이브리얼 리드가 게이브리얼스 걸리에서 금을 발견하면서 호주 등지에서 광부들이 몰려드는 골드러시가 일어났고, 1864~65년에는 웨스트코스트로 이어졌다. 오타고 인구는 몇 년 만에 급증했고, 더니든은 한때 뉴질랜드에서 가장 크고 부유한 도시가 되었다. 금에서 나온 수입은 도로와 학교, 그리고 오타고 대학교(1869) 같은 기관의 재원이 되었다.",
+    "zh": "1861年5月，加布里埃尔·里德在加布里埃尔峡谷发现黄金，引发吸引澳大利亚等地矿工涌入的淘金热，1864至65年又扩展到西海岸。奥塔哥人口在数年内激增，达尼丁一度成为新西兰最大、最富裕的城镇。黄金收入资助了道路、学校以及奥塔哥大学（1869年）等机构。",
+    "ja": "1861年5月、ガブリエル・リードがガブリエルズ・ガリーで金を発見し、オーストラリアなどから鉱夫が押し寄せるゴールドラッシュが起こり、1864〜65年にはウェストコーストへと広がった。オタゴの人口は数年で急増し、ダニーデンは一時ニュージーランド最大かつ最も裕福な町となった。金の収入は道路や学校、オタゴ大学（1869年）などの機関の財源となった。"
+   }
+  },
+  {
+   "year": 1863,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Invasion of the Waikato",
+    "ko": "와이카토 침공",
+    "zh": "入侵怀卡托",
+    "ja": "ワイカト侵攻"
+   },
+   "description": {
+    "en": "In July 1863 Governor George Grey sent British and colonial troops across the Mangatāwhiri Stream into the Waikato, heartland of the Kīngitanga. After battles at Rangiriri (1863) and Ōrākau (1864), the King movement withdrew to the King Country. Under the New Zealand Settlements Act 1863, the government confiscated over a million hectares of land in the Waikato and elsewhere.",
+    "ko": "1863년 7월 조지 그레이 총독은 영국군과 식민지군을 망가타휘리 개울 너머 킹이탕가의 본거지인 와이카토로 진군시켰다. 랑이리리(1863)와 오라카우(1864) 전투 끝에 왕 운동 세력은 킹 컨트리로 물러났다. 정부는 1863년 뉴질랜드 정착법에 따라 와이카토 등지에서 100만 헥타르가 넘는 토지를 몰수했다.",
+    "zh": "1863年7月，乔治·格雷总督派英国和殖民地军队越过曼加塔菲里溪，进入毛利王运动的核心地带怀卡托。经过朗伊里里（1863年）和奥拉考（1864年）等战役，毛利王运动退入“国王领地”。政府依据1863年《新西兰定居法》在怀卡托等地没收了逾百万公顷土地。",
+    "ja": "1863年7月、ジョージ・グレイ総督はイギリス軍と植民地軍をマンガタフィリ川を越えてキンギタンガの本拠地ワイカトへ進軍させた。ランギリリ（1863年）とオーラーカウ（1864年）の戦いののち、王運動はキング・カントリーへ退いた。政府は1863年のニュージーランド入植法に基づき、ワイカトなどで100万ヘクタールを超える土地を没収した。"
+   }
+  },
+  {
+   "year": 1865,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Wellington becomes the capital; Native Land Court",
+    "ko": "웰링턴 수도 이전과 원주민 토지 법원",
+    "zh": "惠灵顿成为首都与土著土地法院",
+    "ja": "ウェリントン遷都と先住民土地裁判所"
+   },
+   "description": {
+    "en": "In 1865 the seat of government moved from Auckland to centrally located Wellington. The same year the Native Land Court began operating, converting communally held Māori land into individual titles that could be sold. Combined with confiscations, the court's work led to the loss of most remaining Māori land over the following decades.",
+    "ko": "1865년 정부 소재지가 오클랜드에서 중앙에 위치한 웰링턴으로 옮겨졌다. 같은 해 원주민 토지 법원이 활동을 시작해 공동 소유였던 마오리 토지를 매각 가능한 개인 소유권으로 전환했다. 몰수와 더불어 이 법원의 활동으로 이후 수십 년간 남아 있던 마오리 토지 대부분이 상실되었다.",
+    "zh": "1865年，政府所在地从奥克兰迁往位置居中的惠灵顿。同年，土著土地法院开始运作，将毛利人的集体土地转换为可出售的个人产权。加上土地没收，该法院的运作导致此后数十年间毛利人失去了大部分剩余土地。",
+    "ja": "1865年、政府所在地はオークランドから国土の中央に位置するウェリントンへ移された。同年、先住民土地裁判所が活動を始め、共同所有のマオリの土地を売却可能な個人所有権に転換した。没収と相まって、この裁判所の働きにより以後数十年で残るマオリの土地の大半が失われた。"
+   }
+  },
+  {
+   "year": 1865,
+   "qid": "Q7944876",
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Völkner incident",
+    "ko": "푈크너 사건",
+    "zh": "弗尔克纳事件",
+    "ja": "フェルクナー事件"
+   },
+   "description": {
+    "en": "In March 1865 the missionary Carl Völkner was killed at Ōpōtiki by followers of the Pai Mārire faith, a Māori religious movement founded by Te Ua Haumēne, who suspected him of spying for the government. The killing alarmed settlers and was used to justify military expeditions and land confiscation in the eastern Bay of Plenty. Later Treaty settlements in the region addressed the confiscations that followed.",
+    "ko": "1865년 3월, 선교사 카를 푈크너가 오포티키에서 테 우아 하우메네가 창시한 마오리 종교 운동 '파이 마리레' 신도들에게 살해되었다. 그들은 그가 정부를 위해 첩자 노릇을 한다고 의심했다. 이 살해는 정착민을 불안하게 했고 베이오브플렌티 동부에서의 군사 원정과 토지 몰수를 정당화하는 데 이용되었다. 이후 벌어진 토지 몰수 문제는 훗날 이 지역의 조약 배상 합의에서 다루어졌다.",
+    "zh": "1865年3月，传教士卡尔·弗尔克纳在奥波蒂基被毛利宗教运动“派马里雷”的信徒杀害，该运动由特乌阿·豪梅内创立，信徒怀疑他为政府充当间谍。此事令定居者惊恐，并被用来为在丰盛湾东部的军事远征和没收土地辩护。随后的土地没收问题后来在该地区的条约和解中得到处理。",
+    "ja": "1865年3月、宣教師カール・フェルクナーがオポティキで、テ・ウア・ハウメネが創始したマオリの宗教運動パイ・マーリレの信者に殺害された。信者たちは彼が政府のスパイであると疑っていた。この殺害は入植者を動揺させ、ベイ・オブ・プレンティ東部での軍事遠征と土地没収を正当化するのに利用された。その後の土地没収の問題は、のちにこの地域の条約和解で取り上げられた。"
+   }
+  },
+  {
+   "year": 1867,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Māori seats in Parliament",
+    "ko": "의회 마오리 의석 신설",
+    "zh": "议会设立毛利席位",
+    "ja": "国会のマオリ議席の創設"
+   },
+   "description": {
+    "en": "The Maori Representation Act 1867 created four seats in the House of Representatives elected by Māori men, granting universal male suffrage to Māori twelve years before it was extended to European men. Intended as a temporary measure, the Māori electorates have survived to the present, now numbering seven. Critics noted that four seats under-represented the Māori population.",
+    "ko": "1867년 마오리 대표법으로 하원에 마오리 남성이 선출하는 4개 의석이 신설되었다. 이로써 마오리 남성은 유럽계 남성보다 12년 앞서 보통선거권을 얻었다. 임시 조치로 의도되었으나 마오리 선거구는 오늘날까지 존속해 현재 7석에 이른다. 비판자들은 4석이 마오리 인구를 과소 대표한다고 지적했다.",
+    "zh": "1867年《毛利代表法》在众议院设立了由毛利男子选举的四个席位，使毛利男子比欧洲裔男子早12年获得普选权。毛利选区原本作为临时措施，却延续至今，现为七个。批评者指出，四个席位不足以代表毛利人口。",
+    "ja": "1867年のマオリ代表法により、マオリの男性が選出する4議席が下院に設けられ、マオリ男性はヨーロッパ系男性より12年早く普通選挙権を得た。暫定措置のはずだったマオリ選挙区は現在まで存続し、今は7議席となっている。批判者は4議席ではマオリ人口が過小に代表されると指摘した。"
+   }
+  },
+  {
+   "year": 1868,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Te Kooti and Tītokowaru's wars",
+    "ko": "테 쿠티와 티토코와루의 전쟁",
+    "zh": "特库提与蒂托科瓦鲁之战",
+    "ja": "テ・クーティとティトコワルの戦い"
+   },
+   "description": {
+    "en": "In 1868 Te Kooti Arikirangi Te Tūruki escaped with followers from detention without trial on the Chatham Islands and waged a guerrilla war on the East Coast, while in South Taranaki Riwha Tītokowaru won a series of victories over colonial forces. Both campaigns shook the colony before Tītokowaru's army dispersed in 1869 and Te Kooti retreated into the King Country in 1872. Te Kooti also founded the Ringatū church, which survives today.",
+    "ko": "1868년 테 쿠티 아리키랑이 테 투루키는 재판 없이 억류되어 있던 채텀 제도에서 추종자들과 탈출해 이스트코스트에서 게릴라전을 벌였고, 남타라나키에서는 리와 티토코와루가 식민지군을 상대로 잇달아 승리했다. 두 전역은 식민지를 뒤흔들었으나 1869년 티토코와루의 군대는 흩어졌고 테 쿠티는 1872년 킹 컨트리로 물러났다. 테 쿠티는 오늘날까지 이어지는 링가투 교회를 창시했다.",
+    "zh": "1868年，特库提·阿里基朗伊·特图鲁基率追随者从未经审判而被拘押的查塔姆群岛逃脱，在东海岸展开游击战；在南塔拉纳基，里瓦·蒂托科瓦鲁则接连击败殖民地军队。两场战事震动了殖民地，直到1869年蒂托科瓦鲁的军队解散，特库提于1872年退入“国王领地”。特库提还创立了延续至今的林加图教会。",
+    "ja": "1868年、テ・クーティ・アリキランギ・テ・トゥルキは裁判なしに拘禁されていたチャタム諸島から支持者とともに脱出し、イーストコーストでゲリラ戦を展開した。一方、南タラナキではリワ・ティトコワルが植民地軍に連勝した。両戦役は植民地を揺るがしたが、1869年にティトコワルの軍は解散し、テ・クーティは1872年にキング・カントリーへ退いた。テ・クーティは今日まで続くリンガトゥ教会を創始した。"
+   }
+  },
+  {
+   "year": 1870,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Vogel's public works and immigration scheme",
+    "ko": "보걸의 공공사업·이민 정책",
+    "zh": "沃格尔的公共工程与移民计划",
+    "ja": "ヴォーゲルの公共事業・移民政策"
+   },
+   "description": {
+    "en": "Colonial Treasurer Julius Vogel launched a massive borrowing programme in 1870 to build railways, roads and telegraph lines and to subsidise immigration. Tens of thousands of assisted migrants from Britain and northern Europe arrived during the 1870s, and the settler population grew rapidly. The scheme was followed by heavy debt and the 'Long Depression' from the late 1870s.",
+    "ko": "식민지 재무장관 줄리어스 보걸은 1870년 철도·도로·전신선을 건설하고 이민을 보조하기 위한 대규모 차입 계획을 시작했다. 1870년대에 영국과 북유럽에서 지원을 받은 이민자 수만 명이 들어와 정착민 인구가 빠르게 늘었다. 그러나 이 계획 뒤에는 막대한 부채와 1870년대 말부터의 '장기 불황'이 이어졌다.",
+    "zh": "殖民地财政部长朱利叶斯·沃格尔于1870年启动大规模借贷计划，修建铁路、公路和电报线路，并资助移民。19世纪70年代，数万名来自英国和北欧的受资助移民抵达，定居者人口迅速增长。但该计划随后带来沉重债务以及自70年代末开始的“长期萧条”。",
+    "ja": "植民地財務長官ジュリアス・ヴォーゲルは1870年、鉄道・道路・電信線の建設と移民助成のための大規模な借入計画を始めた。1870年代にはイギリスや北欧から援助を受けた移民が数万人到着し、入植者人口は急増した。しかし計画の後には重い債務と、1870年代末からの「長期不況」が続いた。"
+   }
+  },
+  {
+   "year": 1877,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Free, secular and compulsory schooling",
+    "ko": "무상·세속·의무 교육 도입",
+    "zh": "免费、世俗、义务教育",
+    "ja": "無償・世俗・義務教育の導入"
+   },
+   "description": {
+    "en": "Following the abolition of the provinces in 1876, the Education Act 1877 established a national system of free, secular and compulsory primary education for European children. A separate Native Schools system served Māori communities, where for decades English was promoted and te reo Māori discouraged in classrooms. The act laid the foundation of New Zealand's public education system.",
+    "ko": "1876년 주 정부가 폐지된 뒤, 1877년 교육법은 유럽계 아동을 위한 무상·세속·의무 초등교육의 전국 체계를 세웠다. 마오리 공동체에는 별도의 원주민 학교 체계가 운영되었는데, 수십 년 동안 교실에서 영어가 장려되고 마오리어 사용은 억제되었다. 이 법은 뉴질랜드 공교육 체계의 토대가 되었다.",
+    "zh": "1876年废除省制之后，1877年《教育法》为欧洲裔儿童建立了全国性的免费、世俗和义务初等教育体系。毛利社区另设土著学校体系，数十年间课堂上推广英语而压制毛利语。该法奠定了新西兰公共教育体系的基础。",
+    "ja": "1876年の州制廃止に続き、1877年教育法はヨーロッパ系の子どものための無償・世俗・義務の初等教育の全国制度を確立した。マオリの共同体には別個の先住民学校制度が設けられ、数十年にわたり教室では英語が奨励され、マオリ語は抑えられた。この法はニュージーランドの公教育制度の基礎となった。"
+   }
+  },
+  {
+   "year": 1881,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Invasion of Parihaka",
+    "ko": "파리하카 침공",
+    "zh": "入侵帕里哈卡",
+    "ja": "パリハカ侵攻"
+   },
+   "description": {
+    "en": "At Parihaka in Taranaki the prophets Te Whiti o Rongomai and Tohu Kākahi led a campaign of non-violent resistance to the survey and settlement of confiscated land, including ploughing settlers' fields. On 5 November 1881 some 1,600 armed constabulary and volunteers marched into the village, arrested the leaders and dispersed much of its population. Parihaka is now remembered as an early landmark of passive resistance; the Crown formally apologised in 2017.",
+    "ko": "타라나키의 파리하카에서 예언자 테 휘티 오 롱고마이와 토후 카카히는 정착민의 밭을 쟁기질하는 등 몰수 토지의 측량과 정착에 맞선 비폭력 저항 운동을 이끌었다. 1881년 11월 5일 약 1,600명의 무장 경찰대와 자원병이 마을에 진입해 지도자들을 체포하고 주민 상당수를 흩어 놓았다. 파리하카는 오늘날 비폭력 저항의 초기 이정표로 기억되며, 왕실은 2017년 공식 사과했다.",
+    "zh": "在塔拉纳基的帕里哈卡，先知特菲蒂·奥朗戈迈和托胡·卡卡希领导了以非暴力方式抵制测量和定居被没收土地的运动，包括犁翻定居者的田地。1881年11月5日，约1600名武装警察和志愿兵开进村庄，逮捕了领导人并驱散了大部分居民。帕里哈卡如今被铭记为非暴力抵抗的早期里程碑，英王于2017年正式道歉。",
+    "ja": "タラナキのパリハカでは、預言者テ・フィティ・オ・ロンゴマイとトフ・カーカヒが、入植者の畑を耕すなどして没収地の測量と入植に非暴力で抵抗する運動を率いた。1881年11月5日、約1600人の武装警察隊と義勇兵が村に入り、指導者を逮捕し住民の多くを追い散らした。パリハカは今日、非暴力抵抗の初期の金字塔として記憶され、国王は2017年に正式に謝罪した。"
+   }
+  },
+  {
+   "year": 1882,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "First refrigerated meat shipment",
+    "ko": "첫 냉동육 수출",
+    "zh": "首批冷冻肉出口",
+    "ja": "初の冷凍肉輸出"
+   },
+   "description": {
+    "en": "In February 1882 the sailing ship Dunedin left Port Chalmers carrying frozen mutton and lamb, arriving in London in good condition about three months later. Refrigerated shipping allowed New Zealand to export meat and, later, butter and cheese to Britain on a large scale. It transformed the economy toward intensive pastoral farming and made the country 'Britain's farm' for nearly a century.",
+    "ko": "1882년 2월 범선 더니든호가 냉동 양고기를 싣고 포트차머스를 떠나 약 3개월 뒤 좋은 상태로 런던에 도착했다. 냉동 해운 덕분에 뉴질랜드는 고기와 이후 버터·치즈를 영국에 대량 수출할 수 있게 되었다. 이는 경제를 집약적 목축업 중심으로 바꾸었고, 뉴질랜드는 거의 한 세기 동안 '영국의 농장'이 되었다.",
+    "zh": "1882年2月，帆船“达尼丁号”载着冷冻羊肉从查默斯港起航，约三个月后完好抵达伦敦。冷藏航运使新西兰得以向英国大规模出口肉类，后来又出口黄油和奶酪。这使经济转向集约化畜牧业，新西兰在近一个世纪里成为“英国的农场”。",
+    "ja": "1882年2月、帆船ダニーディン号が冷凍マトンとラム肉を積んでポート・チャルマーズを出港し、約3か月後に良好な状態でロンドンに到着した。冷凍船輸送によってニュージーランドは肉類、のちにはバターやチーズを大量にイギリスへ輸出できるようになった。経済は集約的な牧畜へと転換し、国はほぼ1世紀にわたり「イギリスの農場」となった。"
+   }
+  },
+  {
+   "year": 1886,
+   "qid": "Q16685818",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Eruption of Mount Tarawera",
+    "ko": "타라웨라산 분화",
+    "zh": "塔拉威拉山喷发",
+    "ja": "タラウェラ山の噴火"
+   },
+   "description": {
+    "en": "On 10 June 1886 Mount Tarawera erupted violently, burying the villages of Te Wairoa, Moura and Te Ariki and killing around 120 people, most of them Māori. The eruption destroyed the famous Pink and White Terraces, silica formations on Lake Rotomahana that had been a major tourist attraction. It was New Zealand's deadliest volcanic eruption in historic times.",
+    "ko": "1886년 6월 10일 타라웨라산이 격렬하게 분화해 테 와이로아, 모우라, 테 아리키 마을을 묻고 대부분 마오리인 약 120명이 숨졌다. 이 분화로 로토마하나 호수의 실리카 지형으로 주요 관광 명소였던 '핑크 앤 화이트 테라스'가 파괴되었다. 이는 역사 시대 뉴질랜드에서 가장 많은 인명 피해를 낸 화산 분화였다.",
+    "zh": "1886年6月10日，塔拉威拉山猛烈喷发，掩埋了特怀罗阿、莫拉和特阿里基等村庄，约120人遇难，多数为毛利人。喷发摧毁了罗托马哈纳湖上著名的粉白阶地，这一硅华地貌曾是重要旅游胜地。这是有史以来新西兰死亡人数最多的火山喷发。",
+    "ja": "1886年6月10日、タラウェラ山が激しく噴火し、テ・ワイロア、モウラ、テ・アリキの村々を埋め、主にマオリの約120人が死亡した。噴火はロトマハナ湖のシリカ地形で、一大観光名所だったピンク・アンド・ホワイト・テラスを破壊した。有史以来ニュージーランドで最も死者の多い火山噴火であった。"
+   }
+  },
+  {
+   "year": 1893,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "First nation to grant women the vote",
+    "ko": "세계 최초의 여성 참정권 부여",
+    "zh": "世界首个赋予妇女投票权的国家",
+    "ja": "世界初の女性参政権の実現"
+   },
+   "description": {
+    "en": "On 19 September 1893 the Electoral Act 1893 became law, making New Zealand the first self-governing country in which all adult women, Māori and Pākehā, could vote in national elections. The victory followed years of petitions led by Kate Sheppard and the Women's Christian Temperance Union, the largest of which carried nearly 32,000 signatures. Women were not able to stand for Parliament until 1919.",
+    "ko": "1893년 9월 19일 1893년 선거법이 시행되어 뉴질랜드는 마오리와 파케하(유럽계)를 포함한 모든 성인 여성이 국정 선거에 투표할 수 있는 최초의 자치 국가가 되었다. 이는 케이트 셰퍼드와 기독교여성금주연합이 수년간 이끈 청원 운동의 결실로, 가장 큰 청원에는 약 3만 2천 명이 서명했다. 다만 여성이 국회의원 후보로 나설 수 있게 된 것은 1919년부터였다.",
+    "zh": "1893年9月19日，《1893年选举法》生效，新西兰成为首个所有成年女性（包括毛利人和白人）都能在全国选举中投票的自治国家。这一胜利源于凯特·谢泼德和基督教妇女禁酒联合会多年的请愿运动，其中规模最大的请愿书有近3.2万人签名。不过女性直到1919年才获得参选议员的资格。",
+    "ja": "1893年9月19日、1893年選挙法が成立し、ニュージーランドはマオリとパーケハー（ヨーロッパ系）を含むすべての成人女性が国政選挙で投票できる最初の自治国となった。ケイト・シェパードとキリスト教婦人矯風会が長年続けた請願運動の成果で、最大の請願には約3万2000人が署名した。ただし女性が国会議員に立候補できるようになったのは1919年からである。"
+   }
+  },
+  {
+   "year": 1894,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Liberal social reforms",
+    "ko": "자유당 정부의 사회 개혁",
+    "zh": "自由党政府的社会改革",
+    "ja": "自由党政権の社会改革"
+   },
+   "description": {
+    "en": "The Liberal government of John Ballance and Richard Seddon made New Zealand a 'social laboratory'. The Industrial Conciliation and Arbitration Act 1894 created the world's first compulsory state arbitration of labour disputes, and the Old-age Pensions Act 1898 introduced a state pension. Land laws broke up large estates to settle small farmers.",
+    "ko": "존 밸런스와 리처드 세던의 자유당 정부는 뉴질랜드를 '사회 실험실'로 만들었다. 1894년 산업 조정·중재법은 노사 분쟁에 대한 세계 최초의 국가 강제 중재 제도를 만들었고, 1898년 노령연금법은 국가 연금을 도입했다. 토지법은 대토지를 분할해 소농을 정착시켰다.",
+    "zh": "约翰·巴兰斯和理查德·塞登领导的自由党政府使新西兰成为“社会实验室”。1894年《产业调解与仲裁法》建立了世界上首个由国家强制仲裁劳资纠纷的制度，1898年《养老金法》引入了国家养老金。土地法拆分大地产以安置小农。",
+    "ja": "ジョン・バランスとリチャード・セドンの自由党政権はニュージーランドを「社会の実験室」にした。1894年の産業調停仲裁法は労使紛争の国家による強制仲裁を世界で初めて導入し、1898年の老齢年金法は国家年金を創設した。土地法は大土地所有を分割して小農を入植させた。"
+   }
+  },
+  {
+   "year": 1896,
+   "qid": "Q4979089",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Brunner Mine disaster",
+    "ko": "브루너 탄광 참사",
+    "zh": "布伦纳煤矿灾难",
+    "ja": "ブルナー炭鉱事故"
+   },
+   "description": {
+    "en": "On 26 March 1896 an explosion at the Brunner coal mine on the West Coast killed 65 miners. It remains New Zealand's deadliest mining disaster. The tragedy prompted calls for better mine safety and fed the growth of the labour movement on the West Coast.",
+    "ko": "1896년 3월 26일 웨스트코스트의 브루너 탄광에서 폭발이 일어나 광부 65명이 숨졌다. 이는 지금도 뉴질랜드 최악의 광산 참사로 남아 있다. 이 비극은 광산 안전 개선 요구를 불러왔고 웨스트코스트 노동운동의 성장을 촉진했다.",
+    "zh": "1896年3月26日，西海岸布伦纳煤矿发生爆炸，65名矿工遇难。这至今仍是新西兰死亡人数最多的矿难。这场悲剧引发了改善矿山安全的呼声，并推动了西海岸劳工运动的发展。",
+    "ja": "1896年3月26日、ウェストコーストのブルナー炭鉱で爆発が起こり、鉱夫65人が死亡した。これは今もニュージーランド最悪の鉱山事故である。悲劇は鉱山の安全改善を求める声を高め、ウェストコーストの労働運動の成長を促した。"
+   }
+  },
+  {
+   "year": 1907,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "New Zealand becomes a Dominion",
+    "ko": "자치령 뉴질랜드의 출범",
+    "zh": "新西兰成为自治领",
+    "ja": "自治領ニュージーランドの成立"
+   },
+   "description": {
+    "en": "On 26 September 1907 New Zealand's status changed from colony to Dominion within the British Empire, a change mainly of name and prestige. New Zealand had declined to join the Australian federation in 1901 and preferred to stand as a separate member of the Empire. The change was a milestone in its gradual evolution toward full independence.",
+    "ko": "1907년 9월 26일 뉴질랜드의 지위는 대영제국 내 식민지에서 자치령으로 바뀌었는데, 이는 주로 명칭과 위신의 변화였다. 뉴질랜드는 1901년 오스트레일리아 연방 참여를 거부하고 제국의 별도 구성원으로 남는 길을 택했다. 이 변화는 완전한 독립을 향한 점진적 여정의 이정표였다.",
+    "zh": "1907年9月26日，新西兰在大英帝国内的地位由殖民地变为自治领，这主要是名称和声望上的变化。新西兰此前已于1901年拒绝加入澳大利亚联邦，宁愿作为帝国的独立成员存在。这一变化是其逐步走向完全独立的里程碑。",
+    "ja": "1907年9月26日、ニュージーランドの地位はイギリス帝国内の植民地から自治領へと変わったが、これは主に名称と威信の変化であった。ニュージーランドは1901年にオーストラリア連邦への参加を見送り、帝国の独立した一員であることを選んでいた。この変化は完全独立へ向かう漸進的な歩みの節目となった。"
+   }
+  },
+  {
+   "year": 1908,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Ernest Rutherford wins the Nobel Prize",
+    "ko": "어니스트 러더퍼드의 노벨상 수상",
+    "zh": "欧内斯特·卢瑟福获诺贝尔奖",
+    "ja": "アーネスト・ラザフォードのノーベル賞受賞"
+   },
+   "description": {
+    "en": "Nelson-born physicist Ernest Rutherford received the 1908 Nobel Prize in Chemistry for his investigations into the disintegration of elements and the chemistry of radioactive substances. Educated at Canterbury College in Christchurch, he went on to discover the atomic nucleus in 1911. He is New Zealand's most celebrated scientist and appears on its $100 note.",
+    "ko": "넬슨 출신 물리학자 어니스트 러더퍼드는 원소의 붕괴와 방사성 물질의 화학에 관한 연구로 1908년 노벨 화학상을 받았다. 크라이스트처치의 캔터베리 칼리지에서 공부한 그는 1911년 원자핵을 발견했다. 그는 뉴질랜드에서 가장 유명한 과학자로 100달러 지폐에 실려 있다.",
+    "zh": "出生于纳尔逊的物理学家欧内斯特·卢瑟福因研究元素衰变和放射性物质的化学而获得1908年诺贝尔化学奖。他曾就读于克赖斯特彻奇的坎特伯雷学院，后于1911年发现原子核。他是新西兰最著名的科学家，其肖像印在100元纸币上。",
+    "ja": "ネルソン生まれの物理学者アーネスト・ラザフォードは、元素の崩壊と放射性物質の化学に関する研究で1908年のノーベル化学賞を受賞した。クライストチャーチのカンタベリー・カレッジで学んだ彼は、1911年に原子核を発見した。ニュージーランドで最も名高い科学者であり、100ドル紙幣に描かれている。"
+   }
+  },
+  {
+   "year": 1912,
+   "qid": "Q7959954",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Waihi miners' strike",
+    "ko": "와이히 광부 파업",
+    "zh": "怀希矿工罢工",
+    "ja": "ワイヒ鉱山ストライキ"
+   },
+   "description": {
+    "en": "In 1912 gold miners at Waihi, led by the militant 'Red Feds', went on a six-month strike. Police and strikebreakers broke the strike, and in November a striker, Frederick Evans, died after being beaten. The strike and the larger 1913 Great Strike marked the height of industrial conflict and paved the way for the founding of the Labour Party in 1916.",
+    "ko": "1912년 와이히의 금광 광부들이 전투적인 '붉은 연맹'의 주도로 6개월간 파업을 벌였다. 경찰과 파업 파괴자들이 파업을 진압했고, 11월에는 파업 노동자 프레더릭 에번스가 구타당한 뒤 숨졌다. 이 파업과 이어진 1913년 대파업은 노사 갈등의 정점이었으며 1916년 노동당 창당의 길을 열었다.",
+    "zh": "1912年，怀希的金矿矿工在激进的“红色联合会”领导下举行了为期六个月的罢工。警察和破坏罢工者镇压了罢工，11月罢工者弗雷德里克·埃文斯被殴打后身亡。这次罢工和规模更大的1913年大罢工标志着劳资冲突的高峰，并为1916年工党的成立铺平了道路。",
+    "ja": "1912年、ワイヒの金鉱夫が急進的な「赤い連合」の指導で6か月にわたるストライキを行った。警察とスト破りがストを鎮圧し、11月にはスト参加者フレデリック・エヴァンズが殴打されて死亡した。このストと1913年の大ストライキは労使対立の頂点を示し、1916年の労働党結成への道を開いた。"
+   }
+  },
+  {
+   "year": 1915,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Gallipoli and the ANZAC legend",
+    "ko": "갈리폴리 전투와 안작(ANZAC) 정신",
+    "zh": "加里波利战役与澳新军团精神",
+    "ja": "ガリポリの戦いとアンザックの伝統"
+   },
+   "description": {
+    "en": "On 25 April 1915 New Zealand troops landed with Australians as the Australian and New Zealand Army Corps (ANZAC) at Gallipoli in the Ottoman Empire. In eight months of fighting about 2,800 New Zealanders died, and some 18,000 died in World War I overall out of a population of just over a million. Anzac Day, 25 April, became the nation's foremost day of remembrance and a touchstone of national identity.",
+    "ko": "1915년 4월 25일 뉴질랜드군은 오스트레일리아군과 함께 오스트레일리아·뉴질랜드 군단(ANZAC)으로 오스만 제국의 갈리폴리에 상륙했다. 8개월간의 전투에서 뉴질랜드인 약 2,800명이 전사했으며, 제1차 세계대전 전체로는 인구 100만 명 남짓한 나라에서 약 1만 8천 명이 목숨을 잃었다. 4월 25일 안작 데이는 국가 최고의 추모일이자 국가 정체성의 시금석이 되었다.",
+    "zh": "1915年4月25日，新西兰军队与澳大利亚军队以澳新军团（ANZAC）名义在奥斯曼帝国的加里波利登陆。在八个月的战斗中约2800名新西兰人阵亡，整个第一次世界大战中，这个人口仅百万出头的国家约有1.8万人死亡。4月25日的澳新军团日成为国家最重要的纪念日和国家认同的试金石。",
+    "ja": "1915年4月25日、ニュージーランド軍はオーストラリア軍とともにオーストラリア・ニュージーランド軍団（ANZAC）としてオスマン帝国のガリポリに上陸した。8か月の戦闘で約2800人のニュージーランド人が戦死し、第一次世界大戦全体では人口100万人余りの国から約1万8000人が死亡した。4月25日のアンザック・デーは国の最も重要な追悼日となり、国民的アイデンティティの試金石となった。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Influenza pandemic",
+    "ko": "인플루엔자 대유행",
+    "zh": "大流感疫情",
+    "ja": "インフルエンザの大流行"
+   },
+   "description": {
+    "en": "The 1918 influenza pandemic killed about 9,000 people in New Zealand within roughly two months, mostly in November and December. Māori died at a rate around seven times that of Europeans. The disaster led to the Health Act 1920 and a reorganised Department of Health; it ranks among the worst disasters in the country's history.",
+    "ko": "1918년 인플루엔자 대유행으로 뉴질랜드에서는 11~12월을 중심으로 약 두 달 만에 약 9천 명이 숨졌다. 마오리의 사망률은 유럽계의 약 7배에 달했다. 이 재난은 1920년 보건법 제정과 보건부 개편으로 이어졌으며, 나라 역사상 최악의 재난 가운데 하나로 꼽힌다.",
+    "zh": "1918年大流感在约两个月内（主要在11月和12月）造成新西兰约9000人死亡。毛利人的死亡率约为欧洲裔的七倍。这场灾难促成了1920年《卫生法》和卫生部的重组，被列为该国历史上最严重的灾难之一。",
+    "ja": "1918年のインフルエンザ大流行により、ニュージーランドでは主に11月から12月にかけての約2か月間で約9000人が死亡した。マオリの死亡率はヨーロッパ系の約7倍に達した。この災害は1920年の保健法と保健省の再編につながり、国の歴史上最悪の災害の一つに数えられる。"
+   }
+  },
+  {
+   "year": 1931,
+   "qid": "Q722402",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Hawke's Bay earthquake",
+    "ko": "호크스베이 지진",
+    "zh": "霍克斯湾地震",
+    "ja": "ホークスベイ地震"
+   },
+   "description": {
+    "en": "On 3 February 1931 a magnitude 7.8 earthquake devastated Napier and Hastings, killing 256 people, New Zealand's deadliest natural disaster. Fires destroyed much of central Napier, and uplift turned thousands of hectares of the Ahuriri Lagoon into dry land. Napier was rebuilt in the Art Deco style for which it is now famous, and the disaster led to New Zealand's first building codes.",
+    "ko": "1931년 2월 3일 규모 7.8의 지진이 네이피어와 헤이스팅스를 강타해 256명이 숨졌다. 이는 뉴질랜드 최악의 자연재해이다. 화재로 네이피어 도심 상당 부분이 불탔고, 지반 융기로 아후리리 석호 수천 헥타르가 마른 땅이 되었다. 네이피어는 오늘날 유명한 아르데코 양식으로 재건되었고, 이 재난은 뉴질랜드 최초의 건축 법규로 이어졌다.",
+    "zh": "1931年2月3日，7.8级地震摧毁了内皮尔和黑斯廷斯，造成256人死亡，是新西兰死亡人数最多的自然灾害。大火焚毁了内皮尔市中心的大部分地区，地壳抬升使阿胡里里潟湖数千公顷变成陆地。内皮尔以如今闻名的装饰艺术风格重建，这场灾难也催生了新西兰首部建筑规范。",
+    "ja": "1931年2月3日、マグニチュード7.8の地震がネーピアとヘイスティングスを壊滅させ、256人が死亡した。ニュージーランド最悪の自然災害である。火災でネーピア中心部の多くが焼失し、隆起によりアフリリ潟湖の数千ヘクタールが陸地となった。ネーピアは今日有名なアール・デコ様式で再建され、この災害はニュージーランド初の建築基準につながった。"
+   }
+  },
+  {
+   "year": 1935,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First Labour government",
+    "ko": "첫 노동당 정부 출범",
+    "zh": "首届工党政府",
+    "ja": "初の労働党政権"
+   },
+   "description": {
+    "en": "Amid the Great Depression, the Labour Party led by Michael Joseph Savage won a landslide in the 1935 election. The government introduced guaranteed prices for dairy farmers, a large state housing programme and expanded public works. Allied with the Māori Rātana movement, Labour went on to hold all four Māori seats for decades.",
+    "ko": "대공황 속에서 마이클 조지프 새비지가 이끈 노동당이 1935년 총선에서 압승했다. 정부는 낙농가에 대한 보장 가격, 대규모 공공주택 사업, 공공사업 확대를 도입했다. 마오리 라타나 운동과 연대한 노동당은 이후 수십 년간 마오리 4개 의석을 모두 차지했다.",
+    "zh": "在大萧条中，迈克尔·约瑟夫·萨维奇领导的工党在1935年大选中大胜。政府推出了奶农保证价格、大规模国家住房计划并扩大公共工程。与毛利拉塔纳运动结盟的工党此后数十年间囊括了全部四个毛利席位。",
+    "ja": "世界恐慌のさなか、マイケル・ジョセフ・サヴェージ率いる労働党が1935年の総選挙で圧勝した。政府は酪農家への保証価格、大規模な公営住宅計画、公共事業の拡大を導入した。マオリのラタナ運動と提携した労働党は、その後数十年にわたりマオリ4議席をすべて占めた。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Social Security Act",
+    "ko": "사회보장법 제정",
+    "zh": "《社会保障法》",
+    "ja": "社会保障法の制定"
+   },
+   "description": {
+    "en": "The Social Security Act 1938 created a comprehensive welfare system offering pensions, benefits and the foundations of a free public health service. Savage called it 'applied Christianity', and it made New Zealand one of the world's leading welfare states. The act remained the core of the country's social policy for decades.",
+    "ko": "1938년 사회보장법은 연금, 각종 수당, 무상 공공 의료 서비스의 기초를 아우르는 포괄적 복지 체계를 만들었다. 새비지는 이를 '실천하는 기독교'라 불렀고, 이로써 뉴질랜드는 세계 선도적 복지국가의 하나가 되었다. 이 법은 수십 년간 나라 사회정책의 핵심으로 남았다.",
+    "zh": "1938年《社会保障法》建立了涵盖养老金、各类补助和免费公共医疗基础的全面福利体系。萨维奇称之为“实践的基督教”，它使新西兰成为世界领先的福利国家之一。该法在数十年间一直是国家社会政策的核心。",
+    "ja": "1938年の社会保障法は、年金、各種給付、無償の公的医療の基礎を含む包括的な福祉制度を創設した。サヴェージはこれを「実践されたキリスト教」と呼び、ニュージーランドは世界有数の福祉国家となった。この法は数十年にわたり国の社会政策の中核であり続けた。"
+   }
+  },
+  {
+   "year": 1939,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "New Zealand enters World War II",
+    "ko": "제2차 세계대전 참전",
+    "zh": "新西兰参加第二次世界大战",
+    "ja": "第二次世界大戦への参戦"
+   },
+   "description": {
+    "en": "New Zealand declared war on Germany on 3 September 1939, with Savage declaring 'where Britain goes, we go'. The 2nd New Zealand Division under Bernard Freyberg fought in Greece, Crete, North Africa and Italy, while the 28th (Māori) Battalion won renown. Nearly 12,000 New Zealanders died, and Japan's advance in 1942 pushed the country toward closer ties with the United States.",
+    "ko": "뉴질랜드는 1939년 9월 3일 독일에 선전포고했으며, 새비지는 '영국이 가는 곳에 우리도 간다'고 밝혔다. 버나드 프라이버그가 지휘한 제2뉴질랜드 사단은 그리스, 크레타, 북아프리카, 이탈리아에서 싸웠고, 제28(마오리) 대대는 명성을 떨쳤다. 1만 2천 명 가까운 뉴질랜드인이 목숨을 잃었으며, 1942년 일본의 진격은 나라를 미국과 더 가까워지게 했다.",
+    "zh": "1939年9月3日，新西兰对德国宣战，萨维奇宣称“英国到哪里，我们就到哪里”。伯纳德·弗赖伯格指挥的新西兰第2师转战希腊、克里特、北非和意大利，第28（毛利）营声名远扬。近1.2万名新西兰人丧生，1942年日本的推进促使新西兰与美国关系更加紧密。",
+    "ja": "ニュージーランドは1939年9月3日にドイツに宣戦し、サヴェージは「イギリスの行くところに我々も行く」と述べた。バーナード・フライバーグ率いる第2ニュージーランド師団はギリシャ、クレタ、北アフリカ、イタリアで戦い、第28（マオリ）大隊は名声を博した。1万2000人近いニュージーランド人が死亡し、1942年の日本の進撃は国をアメリカとの関係強化へと向かわせた。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Full legislative independence",
+    "ko": "입법상의 완전 독립 달성",
+    "zh": "取得完全立法独立",
+    "ja": "立法上の完全独立の達成"
+   },
+   "description": {
+    "en": "In November 1947 Parliament passed the Statute of Westminster Adoption Act, giving New Zealand full control over its own laws and foreign affairs. New Zealand had been the last of the Dominions to adopt the 1931 statute, reflecting its strong attachment to Britain. The British monarch remained head of state as King or Queen of New Zealand.",
+    "ko": "1947년 11월 의회는 웨스트민스터 헌장 수용법을 통과시켜 뉴질랜드가 자국 법률과 외교에 대한 완전한 권한을 갖게 했다. 뉴질랜드는 영국에 대한 강한 애착을 반영하듯 자치령 가운데 마지막으로 1931년 헌장을 수용했다. 영국 군주는 뉴질랜드의 국왕으로서 계속 국가원수로 남았다.",
+    "zh": "1947年11月，议会通过《威斯敏斯特法令采纳法》，使新西兰完全掌控本国法律和外交事务。新西兰是最后一个采纳1931年法令的自治领，这反映出它对英国的深厚依恋。英国君主仍以新西兰国王或女王的身份担任国家元首。",
+    "ja": "1947年11月、議会はウェストミンスター憲章採択法を可決し、ニュージーランドは自国の法律と外交を完全に掌握した。ニュージーランドは1931年の憲章を採択した最後の自治領であり、イギリスへの強い愛着を物語っている。イギリス君主はニュージーランド国王・女王として引き続き元首であった。"
+   }
+  },
+  {
+   "year": 1951,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "ANZUS treaty and the waterfront dispute",
+    "ko": "앤저스 조약과 부두 분쟁",
+    "zh": "澳新美条约与码头纠纷",
+    "ja": "ANZUS条約と港湾争議"
+   },
+   "description": {
+    "en": "In September 1951 New Zealand signed the ANZUS security treaty with Australia and the United States, marking a shift in defence reliance from Britain to America. The same year a 151-day waterfront dispute saw the National government of Sidney Holland declare a state of emergency and deregister the watersiders' union. It was the largest industrial confrontation in New Zealand's history.",
+    "ko": "1951년 9월 뉴질랜드는 오스트레일리아·미국과 앤저스 안보 조약을 체결해 국방 의존의 축을 영국에서 미국으로 옮겼다. 같은 해 151일간 이어진 부두 분쟁에서 시드니 홀랜드의 국민당 정부는 비상사태를 선포하고 부두 노조의 등록을 취소했다. 이는 뉴질랜드 역사상 최대의 노사 대결이었다.",
+    "zh": "1951年9月，新西兰与澳大利亚、美国签署《澳新美安全条约》，标志着防务依赖由英国转向美国。同年，在持续151天的码头纠纷中，西德尼·霍兰德领导的国家党政府宣布紧急状态并取消码头工人工会的注册。这是新西兰历史上规模最大的劳资对抗。",
+    "ja": "1951年9月、ニュージーランドはオーストラリア・アメリカとANZUS安全保障条約を結び、防衛上の依存先をイギリスからアメリカへ移した。同年、151日間に及んだ港湾争議で、シドニー・ホランドの国民党政府は非常事態を宣言し港湾労組の登録を取り消した。ニュージーランド史上最大の労使対決であった。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": "Q625316",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Tangiwai disaster",
+    "ko": "탕이와이 열차 참사",
+    "zh": "坦吉怀铁路灾难",
+    "ja": "タンギワイ鉄道事故"
+   },
+   "description": {
+    "en": "On Christmas Eve 1953 a lahar from Mount Ruapehu's crater lake swept away the Whangaehu River rail bridge at Tangiwai moments before the Wellington–Auckland express crossed. The locomotive and five carriages plunged into the river, killing 151 people. It remains New Zealand's worst railway disaster.",
+    "ko": "1953년 크리스마스이브, 루아페후산 분화구 호수에서 흘러내린 화산 이류가 탕이와이의 황가에후강 철교를 쓸어 버린 직후 웰링턴발 오클랜드행 급행열차가 다리를 건넜다. 기관차와 객차 5량이 강으로 추락해 151명이 숨졌다. 이는 지금도 뉴질랜드 최악의 철도 참사이다.",
+    "zh": "1953年平安夜，鲁阿佩胡山火口湖涌出的火山泥流冲毁了坦吉怀的旺格埃胡河铁路桥，惠灵顿开往奥克兰的快车随即驶上桥梁。机车和五节车厢坠入河中，151人遇难。这至今仍是新西兰最严重的铁路灾难。",
+    "ja": "1953年のクリスマスイブ、ルアペフ山の火口湖から流れ出たラハールがタンギワイのファンガエフ川鉄道橋を押し流した直後、ウェリントン発オークランド行きの急行列車が差しかかった。機関車と客車5両が川に転落し、151人が死亡した。今もニュージーランド最悪の鉄道事故である。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Edmund Hillary climbs Everest",
+    "ko": "에드먼드 힐러리의 에베레스트 등정",
+    "zh": "埃德蒙·希拉里登顶珠峰",
+    "ja": "エドモンド・ヒラリーのエベレスト登頂"
+   },
+   "description": {
+    "en": "On 29 May 1953 the Auckland beekeeper and mountaineer Edmund Hillary and the Sherpa Tenzing Norgay became the first climbers confirmed to reach the summit of Mount Everest. Hillary became a national hero and later devoted decades to building schools and hospitals in Nepal through the Himalayan Trust. He appears on New Zealand's $5 note.",
+    "ko": "1953년 5월 29일 오클랜드의 양봉가이자 산악인 에드먼드 힐러리가 셰르파 텐징 노르게이와 함께 에베레스트 정상에 오른 것이 확인된 최초의 등반가가 되었다. 힐러리는 국민적 영웅이 되었고, 이후 히말라야 재단을 통해 수십 년간 네팔에 학교와 병원을 짓는 데 헌신했다. 그는 뉴질랜드 5달러 지폐에 실려 있다.",
+    "zh": "1953年5月29日，奥克兰的养蜂人兼登山家埃德蒙·希拉里与夏尔巴人丹增·诺尔盖成为首批被确认登上珠穆朗玛峰顶的登山者。希拉里成为民族英雄，后来通过喜马拉雅基金会数十年致力于在尼泊尔兴建学校和医院。他的肖像印在新西兰5元纸币上。",
+    "ja": "1953年5月29日、オークランドの養蜂家で登山家のエドモンド・ヒラリーはシェルパのテンジン・ノルゲイとともに、エベレスト山頂に到達したことが確認された最初の登山者となった。ヒラリーは国民的英雄となり、のちにヒマラヤ基金を通じて数十年にわたりネパールに学校や病院を建てることに尽くした。ニュージーランドの5ドル紙幣に描かれている。"
+   }
+  },
+  {
+   "year": 1965,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Troops sent to Vietnam",
+    "ko": "베트남 파병",
+    "zh": "向越南派兵",
+    "ja": "ベトナムへの派兵"
+   },
+   "description": {
+    "en": "In 1965 the government of Keith Holyoake sent an artillery battery to South Vietnam in support of the United States and Australia, later adding infantry and other units. About 3,500 New Zealanders served there and 37 died. Growing opposition to the war fuelled a protest movement and a more independent outlook in foreign policy.",
+    "ko": "1965년 키스 홀리오크 정부는 미국과 오스트레일리아를 지원하기 위해 남베트남에 포병 중대를 파견했고, 이후 보병 등 부대를 추가했다. 약 3,500명의 뉴질랜드인이 복무했고 37명이 숨졌다. 전쟁 반대 여론이 커지면서 저항 운동과 보다 독자적인 외교 노선이 힘을 얻었다.",
+    "zh": "1965年，基思·霍利奥克政府向南越派出一个炮兵连以支持美国和澳大利亚，后来又增派步兵等部队。约3500名新西兰人在那里服役，37人死亡。日益高涨的反战情绪推动了抗议运动和更加独立的外交取向。",
+    "ja": "1965年、キース・ホリオーク政権はアメリカとオーストラリアを支援するため南ベトナムに砲兵中隊を派遣し、のちに歩兵などの部隊を加えた。約3500人のニュージーランド人が従軍し、37人が死亡した。反戦世論の高まりは抗議運動と、より自立した外交姿勢を後押しした。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Britain joins the European Community",
+    "ko": "영국의 유럽공동체 가입",
+    "zh": "英国加入欧洲共同体",
+    "ja": "イギリスの欧州共同体加盟"
+   },
+   "description": {
+    "en": "When Britain joined the European Economic Community in 1973, New Zealand lost guaranteed access to its main market for butter, cheese and lamb, apart from transitional quotas. Combined with the oil shocks of 1973 and 1979, this ended the long post-war boom. New Zealand diversified its exports toward Asia, Australia and the Middle East.",
+    "ko": "1973년 영국이 유럽경제공동체에 가입하자, 뉴질랜드는 과도기 할당량을 제외하면 버터·치즈·양고기의 주된 시장에 대한 보장된 접근을 잃었다. 1973년과 1979년의 석유 파동까지 겹쳐 전후의 장기 호황은 끝났다. 뉴질랜드는 수출 시장을 아시아, 오스트레일리아, 중동으로 다변화했다.",
+    "zh": "1973年英国加入欧洲经济共同体后，除过渡配额外，新西兰失去了黄油、奶酪和羊肉主要市场的保障准入。再加上1973年和1979年的石油危机，战后长期繁荣宣告结束。新西兰将出口市场多元化，转向亚洲、澳大利亚和中东。",
+    "ja": "1973年にイギリスが欧州経済共同体に加盟すると、ニュージーランドは移行期の割当を除き、バター・チーズ・ラム肉の主要市場への保証されたアクセスを失った。1973年と1979年の石油危機も重なり、戦後の長い好況は終わった。ニュージーランドは輸出先をアジア、オーストラリア、中東へと多角化した。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Waitangi Tribunal established and the Māori land march",
+    "ko": "와이탕이 재판소 설립과 마오리 토지 행진",
+    "zh": "设立怀唐伊法庭与毛利土地大游行",
+    "ja": "ワイタンギ審判所の設置とマオリ土地行進"
+   },
+   "description": {
+    "en": "In 1975 the Treaty of Waitangi Act created the Waitangi Tribunal to investigate Crown breaches of the Treaty. The same year Whina Cooper led a land march from Te Hāpua in the far north to Parliament in Wellington under the slogan 'not one more acre of Māori land'. From 1985 the tribunal could examine claims back to 1840, laying the groundwork for historic settlements.",
+    "ko": "1975년 와이탕이 조약법은 왕실의 조약 위반을 조사하기 위한 와이탕이 재판소를 설립했다. 같은 해 위나 쿠퍼는 '마오리 땅은 단 1에이커도 더 내줄 수 없다'는 구호 아래 최북단 테 하푸아에서 웰링턴 의회까지 토지 행진을 이끌었다. 1985년부터 재판소는 1840년까지 거슬러 올라가는 청구를 심리할 수 있게 되어 역사적 배상 합의의 토대를 마련했다.",
+    "zh": "1975年《怀唐伊条约法》设立怀唐伊法庭，调查英王违反条约的行为。同年，惠娜·库珀以“毛利土地一英亩也不能再失去”为口号，率领土地大游行从最北端的特哈普阿走到惠灵顿议会。自1985年起，法庭可审理追溯至1840年的诉求，为历史性和解奠定了基础。",
+    "ja": "1975年のワイタンギ条約法により、国王による条約違反を調査するワイタンギ審判所が設置された。同年、フィナ・クーパーは「マオリの土地をこれ以上1エーカーも渡さない」を掲げ、最北端のテ・ハープアからウェリントンの国会まで土地行進を率いた。1985年からは1840年にさかのぼる請求を審理できるようになり、歴史的な和解の土台が築かれた。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Bastion Point occupation",
+    "ko": "배스천 포인트 점거",
+    "zh": "巴斯申角占领事件",
+    "ja": "バスティオン・ポイント占拠"
+   },
+   "description": {
+    "en": "In January 1977 members of Ngāti Whātua ki Ōrākei occupied Bastion Point (Takaparawhau) in Auckland to stop the sale of former tribal land for housing. The occupation lasted 507 days until police and army personnel removed some 222 protesters in May 1978. The Waitangi Tribunal later upheld the claim, and land was returned to Ngāti Whātua in 1988.",
+    "ko": "1977년 1월 응가티 화투아 키 오라케이 구성원들이 옛 부족 토지의 주택용 매각을 막기 위해 오클랜드의 배스천 포인트(타카파라와우)를 점거했다. 점거는 507일 동안 이어졌고 1978년 5월 경찰과 군이 시위자 약 222명을 연행했다. 와이탕이 재판소는 훗날 이 청구를 인정했고, 1988년 토지가 응가티 화투아에 반환되었다.",
+    "zh": "1977年1月，恩加提法图阿·基·奥拉凯部落成员占领奥克兰的巴斯申角（塔卡帕拉豪），以阻止前部落土地被出售用于建房。占领持续了507天，直到1978年5月警察和军队带走约222名抗议者。怀唐伊法庭后来支持了这一诉求，土地于1988年归还恩加提法图阿。",
+    "ja": "1977年1月、ンガーティ・ファートゥア・キ・オーラーケイの人々が、旧部族地の住宅用売却を阻止するためオークランドのバスティオン・ポイント（タカパラファウ）を占拠した。占拠は507日間続き、1978年5月に警察と軍が約222人の抗議者を排除した。ワイタンギ審判所はのちにこの請求を認め、1988年に土地はンガーティ・ファートゥアに返還された。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Springbok tour protests",
+    "ko": "스프링복스 투어 반대 시위",
+    "zh": "反对跳羚队巡回赛抗议",
+    "ja": "スプリングボクス遠征反対運動"
+   },
+   "description": {
+    "en": "The 1981 tour by South Africa's apartheid-era Springbok rugby team divided New Zealand. Tens of thousands protested, protesters invaded the pitch at Hamilton forcing the match's cancellation, and police clashed with demonstrators in Wellington and Auckland. The tour marked a turning point in New Zealand's attitudes to race and to its own colonial history.",
+    "ko": "1981년 아파르트헤이트 시대 남아프리카공화국 럭비 대표팀 스프링복스의 원정 경기는 뉴질랜드를 분열시켰다. 수만 명이 시위했고, 해밀턴에서는 시위대가 경기장에 난입해 경기가 취소되었으며, 웰링턴과 오클랜드에서는 경찰과 시위대가 충돌했다. 이 원정은 인종 문제와 자국 식민 역사에 대한 뉴질랜드인의 인식에 전환점이 되었다.",
+    "zh": "1981年，种族隔离时期南非“跳羚”橄榄球队的巡回赛使新西兰社会分裂。数以万计的人举行抗议，汉密尔顿的抗议者冲入球场迫使比赛取消，惠灵顿和奥克兰也发生了警民冲突。这次巡回赛成为新西兰人看待种族问题和本国殖民历史的转折点。",
+    "ja": "1981年、アパルトヘイト期の南アフリカのラグビー代表スプリングボクスの遠征はニュージーランドを二分した。数万人が抗議し、ハミルトンではデモ隊がピッチに乱入して試合が中止となり、ウェリントンとオークランドでは警察とデモ隊が衝突した。この遠征は人種問題と自国の植民地史に対するニュージーランド人の意識の転換点となった。"
+   }
+  },
+  {
+   "year": 1984,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Rogernomics: the neoliberal revolution",
+    "ko": "로저노믹스: 신자유주의 개혁",
+    "zh": "“罗杰经济学”：新自由主义改革",
+    "ja": "ロジャーノミクス：新自由主義改革"
+   },
+   "description": {
+    "en": "After a currency crisis in July 1984, the fourth Labour government under David Lange, with Finance Minister Roger Douglas, floated the dollar and removed farm subsidies, price controls and many trade barriers. State enterprises were corporatised and many later privatised, and a goods and services tax was introduced in 1986. The reforms transformed one of the most regulated economies in the developed world but brought high unemployment and social disruption.",
+    "ko": "1984년 7월 통화 위기 뒤 데이비드 롱이 이끈 제4차 노동당 정부는 로저 더글러스 재무장관과 함께 달러화를 변동환율제로 바꾸고 농업 보조금, 가격 통제, 많은 무역 장벽을 없앴다. 국영 기업은 공사화되었다가 상당수가 민영화되었고, 1986년에는 상품·서비스세가 도입되었다. 이 개혁은 선진국 가운데 가장 규제가 심했던 경제를 탈바꿈시켰지만 높은 실업률과 사회적 혼란을 가져왔다.",
+    "zh": "1984年7月货币危机之后，戴维·朗伊领导的第四届工党政府与财政部长罗杰·道格拉斯一起实行元的自由浮动，取消农业补贴、价格管制和许多贸易壁垒。国有企业实行公司化，其中许多后来被私有化，1986年开征商品与服务税。改革使这个发达国家中管制最严的经济体之一脱胎换骨，但也带来高失业率和社会动荡。",
+    "ja": "1984年7月の通貨危機の後、デビッド・ロンギ率いる第4次労働党政権はロジャー・ダグラス財務相とともにドルを変動相場制に移行し、農業補助金・価格統制・多くの貿易障壁を撤廃した。国営企業は公社化され、その多くがのちに民営化され、1986年には物品サービス税が導入された。改革は先進国で最も規制の強い経済の一つを一変させたが、高い失業率と社会的混乱をもたらした。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": "Q460731",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Sinking of the Rainbow Warrior",
+    "ko": "레인보 워리어호 폭파 사건",
+    "zh": "“彩虹勇士号”爆沉事件",
+    "ja": "レインボー・ウォーリア号爆破事件"
+   },
+   "description": {
+    "en": "On 10 July 1985 agents of France's foreign intelligence service, the DGSE, bombed and sank the Greenpeace ship Rainbow Warrior in Auckland Harbour, killing photographer Fernando Pereira. The ship had been preparing to protest French nuclear testing at Moruroa. Two agents were caught and convicted, and the attack on a friendly country's soil strengthened New Zealand's anti-nuclear resolve.",
+    "ko": "1985년 7월 10일 프랑스 해외정보기관 DGSE 요원들이 오클랜드항에서 그린피스 선박 레인보 워리어호를 폭파해 침몰시켰고, 사진가 페르난두 페레이라가 숨졌다. 이 배는 무루로아에서의 프랑스 핵실험에 항의할 준비를 하고 있었다. 요원 2명이 체포되어 유죄 판결을 받았으며, 우방국 영토에서 벌어진 이 공격은 뉴질랜드의 반핵 의지를 더욱 굳혔다.",
+    "zh": "1985年7月10日，法国对外安全总局（DGSE）特工在奥克兰港炸沉了绿色和平组织的“彩虹勇士号”，摄影师费尔南多·佩雷拉遇难。该船当时正准备抗议法国在穆鲁罗瓦的核试验。两名特工被捕并被定罪，这次在友好国家领土上发动的袭击更加坚定了新西兰的反核决心。",
+    "ja": "1985年7月10日、フランス対外治安総局（DGSE）の工作員がオークランド港でグリーンピースの船レインボー・ウォーリア号を爆破して沈め、写真家フェルナンド・ペレイラが死亡した。同船はムルロアでのフランスの核実験に抗議する準備をしていた。工作員2人が逮捕・有罪となり、友好国の領土での攻撃はニュージーランドの反核の決意をいっそう強めた。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Nuclear-free New Zealand",
+    "ko": "비핵 뉴질랜드 법제화",
+    "zh": "新西兰立法确立无核政策",
+    "ja": "非核ニュージーランドの法制化"
+   },
+   "description": {
+    "en": "The New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987 banned nuclear-armed and nuclear-powered ships from the country's waters. The policy, which grew out of the 1985 refusal of a US warship visit, led the United States to suspend its ANZUS security obligations to New Zealand. Anti-nuclear status became a pillar of national identity, supported across the political spectrum.",
+    "ko": "1987년 뉴질랜드 비핵지대·군축·군비통제법은 핵무장 및 핵추진 선박의 자국 해역 진입을 금지했다. 1985년 미국 군함의 기항 거부에서 비롯된 이 정책으로 미국은 뉴질랜드에 대한 앤저스 안보 의무를 중단했다. 비핵 지위는 정파를 초월해 지지받는 국가 정체성의 기둥이 되었다.",
+    "zh": "1987年《新西兰无核区、裁军与军备控制法》禁止核武装和核动力舰船进入新西兰水域。这一政策源于1985年拒绝美国军舰来访，导致美国中止了对新西兰的澳新美安全义务。无核地位成为跨越党派支持的国家认同支柱。",
+    "ja": "1987年のニュージーランド非核地帯・軍縮・軍備管理法は、核武装艦船と原子力艦船の自国水域への進入を禁止した。1985年のアメリカ軍艦の寄港拒否から生まれたこの政策により、アメリカはニュージーランドに対するANZUSの安全保障義務を停止した。非核の地位は党派を超えて支持される国民的アイデンティティの柱となった。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Māori becomes an official language",
+    "ko": "마오리어의 공용어 지정",
+    "zh": "毛利语成为官方语言",
+    "ja": "マオリ語の公用語化"
+   },
+   "description": {
+    "en": "Following a Waitangi Tribunal finding that te reo Māori was a taonga (treasure) protected by the Treaty, the Maori Language Act 1987 made it an official language and established the Māori Language Commission. The act built on grassroots revival efforts such as the kōhanga reo language nests begun in 1982. Māori-medium schooling, broadcasting and wider public use of te reo grew in the following decades.",
+    "ko": "마오리어가 조약으로 보호되는 '타옹아'(보물)라는 와이탕이 재판소의 판단에 따라 1987년 마오리어법은 마오리어를 공용어로 정하고 마오리어 위원회를 설립했다. 이 법은 1982년 시작된 언어 둥지 '코항가 레오' 같은 풀뿌리 부흥 운동에 기반했다. 이후 수십 년간 마오리어 교육, 방송, 공공 사용이 크게 늘었다.",
+    "zh": "怀唐伊法庭认定毛利语是受条约保护的“塔昂加”（珍宝）之后，1987年《毛利语法》将其定为官方语言并设立毛利语委员会。该法建立在1982年开始的“科杭加雷奥”语言巢等基层复兴努力之上。此后数十年，毛利语教学、广播和公共使用不断扩大。",
+    "ja": "マオリ語は条約で守られるタオンガ（宝）であるとのワイタンギ審判所の判断を受け、1987年のマオリ語法はマオリ語を公用語とし、マオリ語委員会を設置した。この法は1982年に始まった言語の巣「コーハンガ・レオ」など草の根の復興運動を土台としていた。その後数十年でマオリ語による教育や放送、公的な使用が広がった。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Referendum adopts MMP",
+    "ko": "혼합형 비례대표제 채택 국민투표",
+    "zh": "公投采用混合比例代表制",
+    "ja": "国民投票でMMP採用"
+   },
+   "description": {
+    "en": "Disillusioned by governments that pushed through radical reforms with minority vote shares, voters chose in a 1993 binding referendum to replace first-past-the-post with mixed-member proportional representation (MMP). The first MMP election in 1996 produced a coalition government, and coalitions have been the norm since. The change also increased the number of Māori, Pacific and women MPs.",
+    "ko": "소수 득표로 급진 개혁을 밀어붙인 정부들에 실망한 유권자들은 1993년 구속력 있는 국민투표에서 단순다수제를 혼합형 비례대표제(MMP)로 바꾸기로 했다. 1996년 첫 MMP 선거에서 연립정부가 탄생했고 이후 연립정부가 일반화되었다. 이 변화로 마오리, 태평양계, 여성 의원의 수도 늘었다.",
+    "zh": "对以少数得票强行推行激进改革的政府感到失望，选民在1993年具有约束力的公投中决定以混合成员比例代表制（MMP）取代简单多数制。1996年首次MMP选举产生了联合政府，此后联合执政成为常态。这一变化也使毛利、太平洋岛裔和女性议员人数增加。",
+    "ja": "少数の得票で急進的改革を押し通した政府に幻滅した有権者は、1993年の拘束力ある国民投票で、小選挙区制を小選挙区比例代表併用制（MMP）に替えることを選んだ。1996年の初のMMP選挙では連立政権が生まれ、以後連立が常態となった。この変更でマオリ、太平洋系、女性の議員も増えた。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Waikato-Tainui Treaty settlement",
+    "ko": "와이카토-타이누이 조약 배상 합의",
+    "zh": "怀卡托-泰努伊条约和解",
+    "ja": "ワイカト・タイヌイ条約和解"
+   },
+   "description": {
+    "en": "In 1995 the Crown and Waikato-Tainui concluded the first major settlement of a historical Treaty claim, over the confiscation of Waikato land after the 1863 invasion. It included a formal apology signed by Queen Elizabeth II, cash and land valued at NZ$170 million. It set a model for later settlements such as Ngāi Tahu's in 1998, though the 'fiscal envelope' policy capping settlements was fiercely opposed by many Māori.",
+    "ko": "1995년 왕실과 와이카토-타이누이는 1863년 침공 뒤 와이카토 토지 몰수에 관한 역사적 조약 청구에서 첫 대규모 배상 합의를 맺었다. 여기에는 엘리자베스 2세 여왕이 서명한 공식 사과와 1억 7천만 뉴질랜드달러 상당의 현금 및 토지가 포함되었다. 이는 1998년 응가이 타후 합의 등 이후 합의의 본보기가 되었지만, 배상 총액에 상한을 둔 '재정 봉투' 정책은 많은 마오리의 거센 반대에 부딪혔다.",
+    "zh": "1995年，英王与怀卡托-泰努伊就1863年入侵后怀卡托土地被没收一事达成首个重大历史条约诉求和解。内容包括伊丽莎白二世女王签署的正式道歉以及价值1.7亿新西兰元的现金和土地。它为1998年恩盖塔胡和解等后续和解树立了范例，但为和解总额设上限的“财政信封”政策遭到许多毛利人的强烈反对。",
+    "ja": "1995年、国王とワイカト・タイヌイは、1863年の侵攻後のワイカトの土地没収をめぐる歴史的条約請求について、初の大規模な和解を結んだ。そこにはエリザベス2世女王が署名した正式な謝罪と、1億7000万ニュージーランドドル相当の現金と土地が含まれた。これは1998年のンガイ・タフ和解など以後の和解の模範となったが、和解総額に上限を設ける「財政封筒」政策は多くのマオリから強く反対された。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Foreshore and seabed controversy",
+    "ko": "해안·해저 소유권 논란",
+    "zh": "海滩与海床争议",
+    "ja": "前浜・海底をめぐる論争"
+   },
+   "description": {
+    "en": "After the Court of Appeal ruled in 2003 that Māori could seek customary title to the foreshore and seabed, the Labour government passed the Foreshore and Seabed Act 2004 vesting ownership in the Crown. Around 15,000 people joined a hīkoi (march) on Parliament in protest, and minister Tariana Turia resigned to found the Māori Party. The act was replaced in 2011 by the Marine and Coastal Area (Takutai Moana) Act.",
+    "ko": "2003년 항소법원이 마오리가 해안과 해저에 대한 관습적 권원을 청구할 수 있다고 판결하자, 노동당 정부는 2004년 해안·해저법을 제정해 소유권을 왕실에 귀속시켰다. 약 1만 5천 명이 의회로 향하는 항의 행진(히코이)에 참여했고, 타리아나 투리아 장관은 사임하고 마오리당을 창당했다. 이 법은 2011년 해양·연안 지역(타쿠타이 모아나)법으로 대체되었다.",
+    "zh": "2003年上诉法院裁定毛利人可就海滩和海床主张习惯产权后，工党政府于2004年通过《海滩与海床法》，将所有权归于英王。约1.5万人参加了前往议会的抗议游行（希科伊），部长塔里亚娜·图里亚辞职并创立毛利党。该法于2011年被《海洋与沿海区域（塔库泰莫阿纳）法》取代。",
+    "ja": "2003年に控訴院がマオリは前浜と海底の慣習的権原を求めうると判断すると、労働党政権は2004年の前浜・海底法で所有権を国王に帰属させた。約1万5000人が国会へ向かう抗議の行進（ヒーコイ）に加わり、タリアナ・トゥリア大臣は辞任してマオリ党を結成した。この法は2011年に海洋・沿岸地域（タクタイ・モアナ）法に置き換えられた。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": "Q928629",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Pike River Mine disaster",
+    "ko": "파이크리버 탄광 참사",
+    "zh": "派克河煤矿灾难",
+    "ja": "パイク・リバー炭鉱事故"
+   },
+   "description": {
+    "en": "On 19 November 2010 a methane explosion at the Pike River coal mine on the West Coast trapped 29 men, all of whom died in the explosion or subsequent blasts. A Royal Commission found serious failures in safety management and regulation. The disaster led to a major overhaul of New Zealand's workplace health and safety laws.",
+    "ko": "2010년 11월 19일 웨스트코스트의 파이크리버 탄광에서 메탄가스 폭발이 일어나 29명이 갇혔고, 이들은 모두 폭발과 이어진 추가 폭발로 숨졌다. 왕립조사위원회는 안전 관리와 규제의 심각한 실패를 지적했다. 이 참사는 뉴질랜드 산업안전보건법의 대대적 개편으로 이어졌다.",
+    "zh": "2010年11月19日，西海岸派克河煤矿发生瓦斯爆炸，29人被困，全部在爆炸及随后的爆炸中遇难。皇家调查委员会认定安全管理和监管存在严重缺陷。这场灾难促使新西兰全面改革职业健康与安全法律。",
+    "ja": "2010年11月19日、ウェストコーストのパイク・リバー炭鉱でメタンガス爆発が起き、29人が閉じ込められ、全員が爆発とその後の爆発で死亡した。王立調査委員会は安全管理と規制の重大な欠陥を指摘した。この事故はニュージーランドの労働安全衛生法の抜本的見直しにつながった。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q151850",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Christchurch earthquake",
+    "ko": "크라이스트처치 대지진",
+    "zh": "克赖斯特彻奇大地震",
+    "ja": "クライストチャーチ地震"
+   },
+   "description": {
+    "en": "On 22 February 2011 a magnitude 6.3 earthquake centred close to Christchurch, an aftershock of the 2010 Canterbury earthquake, killed 185 people, including 115 in the collapse of the CTV Building. Much of the central city was destroyed or later demolished, and liquefaction damaged thousands of homes. The rebuild reshaped New Zealand's second-largest city over the following decade.",
+    "ko": "2011년 2월 22일, 2010년 캔터베리 지진의 여진인 규모 6.3의 지진이 크라이스트처치 인근에서 발생해 CTV 빌딩 붕괴로 숨진 115명을 포함해 185명이 목숨을 잃었다. 도심 상당 부분이 파괴되거나 이후 철거되었고, 액상화로 수천 채의 주택이 피해를 입었다. 재건은 이후 10년에 걸쳐 뉴질랜드 제2의 도시를 바꾸어 놓았다.",
+    "zh": "2011年2月22日，作为2010年坎特伯雷地震余震的6.3级地震在克赖斯特彻奇附近发生，造成185人死亡，其中115人死于CTV大楼倒塌。市中心大部分被毁或后来被拆除，土壤液化损坏了数千栋房屋。此后十年的重建重塑了新西兰第二大城市。",
+    "ja": "2011年2月22日、2010年カンタベリー地震の余震であるマグニチュード6.3の地震がクライストチャーチ近郊で発生し、CTVビル倒壊による115人を含む185人が死亡した。中心市街の多くが破壊されるかのちに取り壊され、液状化で数千戸の住宅が被害を受けた。復興はその後10年で国内第2の都市の姿を一変させた。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q7409164",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Same-sex marriage legalised",
+    "ko": "동성 결혼 합법화",
+    "zh": "同性婚姻合法化",
+    "ja": "同性婚の合法化"
+   },
+   "description": {
+    "en": "In April 2013 Parliament passed the Marriage (Definition of Marriage) Amendment Act by 77 votes to 44, making New Zealand the first country in the Asia-Pacific region to legalise same-sex marriage. The first weddings took place in August 2013. The vote followed civil unions introduced in 2005.",
+    "ko": "2013년 4월 의회는 혼인(혼인의 정의) 개정법을 찬성 77표 대 반대 44표로 통과시켜, 뉴질랜드는 아시아·태평양 지역에서 처음으로 동성 결혼을 합법화한 나라가 되었다. 첫 결혼식은 2013년 8월에 열렸다. 이는 2005년 도입된 시민 결합 제도에 뒤이은 조치였다.",
+    "zh": "2013年4月，议会以77票对44票通过《婚姻（婚姻定义）修正法》，新西兰成为亚太地区首个同性婚姻合法化的国家。首批婚礼于2013年8月举行。此前新西兰已于2005年引入民事结合制度。",
+    "ja": "2013年4月、議会は婚姻（婚姻の定義）改正法を賛成77、反対44で可決し、ニュージーランドはアジア太平洋地域で初めて同性婚を合法化した国となった。最初の結婚式は2013年8月に行われた。2005年に導入されたシビル・ユニオン制度に続く措置であった。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q21027080",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Flag referendums",
+    "ko": "국기 변경 국민투표",
+    "zh": "国旗公投",
+    "ja": "国旗変更の国民投票"
+   },
+   "description": {
+    "en": "In two postal referendums held in late 2015 and March 2016, New Zealanders first chose a silver fern design as the preferred alternative flag and then voted 56.6% to 43.2% to keep the existing flag with the Union Jack. The process, championed by Prime Minister John Key, stirred debate over national identity and the ties to Britain.",
+    "ko": "2015년 말과 2016년 3월 두 차례 우편 국민투표에서 뉴질랜드인들은 먼저 은고사리 디자인을 대안 국기로 선택했고, 이어 56.6% 대 43.2%로 유니언잭이 들어간 기존 국기를 유지하기로 했다. 존 키 총리가 추진한 이 과정은 국가 정체성과 영국과의 관계에 대한 논쟁을 불러일으켰다.",
+    "zh": "在2015年底和2016年3月举行的两次邮寄公投中，新西兰人先选出银蕨设计作为首选替代旗，随后以56.6%对43.2%投票保留带有英国米字旗的现行国旗。这一由总理约翰·基推动的过程引发了关于国家认同及与英国关系的讨论。",
+    "ja": "2015年末と2016年3月の2回の郵便投票で、ニュージーランド国民はまずシルバーファーンの図案を代替案として選び、次いで56.6％対43.2％でユニオンジャック入りの現行国旗の維持を選んだ。ジョン・キー首相が推進したこの過程は、国民的アイデンティティとイギリスとの関係をめぐる議論を呼んだ。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q27850765",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Kaikōura earthquake",
+    "ko": "카이코우라 지진",
+    "zh": "凯库拉地震",
+    "ja": "カイコウラ地震"
+   },
+   "description": {
+    "en": "Just after midnight on 14 November 2016 a magnitude 7.8 earthquake struck North Canterbury, rupturing more than 20 faults in one of the most complex quakes ever recorded. Two people died, landslides cut off the town of Kaikōura, and parts of the seabed were lifted several metres out of the sea. Wellington buildings were also damaged, prompting stricter engineering assessments.",
+    "ko": "2016년 11월 14일 자정 직후 규모 7.8의 지진이 노스캔터베리를 강타했다. 20개가 넘는 단층이 파열한, 관측 사상 가장 복잡한 지진 가운데 하나였다. 2명이 숨지고 산사태로 카이코우라 마을이 고립되었으며, 해저 일부가 수 미터 솟아올라 물 밖으로 드러났다. 웰링턴의 건물도 피해를 입어 더 엄격한 구조 평가가 시행되었다.",
+    "zh": "2016年11月14日午夜刚过，7.8级地震袭击北坎特伯雷，20多条断层破裂，是有记录以来最复杂的地震之一。地震造成2人死亡，山体滑坡使凯库拉镇对外交通中断，部分海床被抬升数米露出海面。惠灵顿的建筑也受损，促使当局实施更严格的工程评估。",
+    "ja": "2016年11月14日の深夜0時過ぎ、マグニチュード7.8の地震がノース・カンタベリーを襲い、20以上の断層が破壊された観測史上最も複雑な地震の一つとなった。2人が死亡し、地すべりでカイコウラの町が孤立し、海底の一部は数メートル隆起して海面上に現れた。ウェリントンの建物も被害を受け、より厳しい構造評価が行われた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Whanganui River granted legal personhood",
+    "ko": "황가누이강에 법인격 부여",
+    "zh": "旺格努伊河获法人地位",
+    "ja": "ファンガヌイ川への法人格付与"
+   },
+   "description": {
+    "en": "The Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 recognised the Whanganui River as a legal person, following Whanganui iwi's long struggle for recognition of their relationship with the river. It followed the 2014 recognition of Te Urewera, a former national park, as a legal entity. These world-first arrangements drew on the Māori view of natural features as living ancestors.",
+    "ko": "2017년 테 아와 투푸아(황가누이강 청구 배상)법은 강과의 관계를 인정받기 위한 황가누이 이위들의 오랜 투쟁 끝에 황가누이강을 법적 인격체로 인정했다. 이는 2014년 옛 국립공원인 테 우레웨라를 법적 실체로 인정한 데 이은 것이다. 세계 최초인 이 제도들은 자연을 살아 있는 조상으로 보는 마오리의 관점에 바탕을 두었다.",
+    "zh": "2017年《特阿瓦图普阿（旺格努伊河诉求和解）法》在旺格努伊伊维为争取承认其与河流关系而长期奋斗之后，承认旺格努伊河为法人。此前，2014年已承认前国家公园特乌雷韦拉为法律实体。这些世界首创的安排源于毛利人将自然地貌视为活着的祖先的观念。",
+    "ja": "2017年のテ・アワ・トゥプア（ファンガヌイ川請求和解）法は、川との関係の承認を求めるファンガヌイのイウィの長い闘いを経て、ファンガヌイ川を法的人格として認めた。これは2014年に旧国立公園テ・ウレウェラを法的主体と認めたことに続くものだった。世界初のこれらの仕組みは、自然を生きた祖先とみなすマオリの世界観に基づいている。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q62066211",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Christchurch mosque attacks",
+    "ko": "크라이스트처치 모스크 총격 사건",
+    "zh": "克赖斯特彻奇清真寺枪击事件",
+    "ja": "クライストチャーチのモスク銃撃事件"
+   },
+   "description": {
+    "en": "On 15 March 2019 an Australian white supremacist gunman attacked the Al Noor Mosque and Linwood Islamic Centre in Christchurch during Friday prayers, killing 51 people, and livestreamed the attack. Within a month Parliament banned most semi-automatic weapons, and Prime Minister Jacinda Ardern co-launched the international 'Christchurch Call' against violent extremist content online. The attacker was sentenced to life imprisonment without parole, the first such sentence in New Zealand.",
+    "ko": "2019년 3월 15일 오스트레일리아 국적 백인 우월주의자가 금요 예배 중이던 크라이스트처치의 알누르 모스크와 린우드 이슬람센터를 공격해 51명을 살해하고 그 장면을 생중계했다. 한 달 만에 의회는 대부분의 반자동 화기를 금지했고, 저신다 아던 총리는 온라인 폭력적 극단주의 콘텐츠에 맞선 국제 '크라이스트처치 콜'을 공동 출범시켰다. 범인은 뉴질랜드 최초로 가석방 없는 종신형을 선고받았다.",
+    "zh": "2019年3月15日，一名澳大利亚籍白人至上主义枪手在周五礼拜期间袭击克赖斯特彻奇的努尔清真寺和林伍德伊斯兰中心，杀害51人，并对袭击进行网络直播。一个月内，议会禁止了大多数半自动武器，总理杰辛达·阿德恩共同发起了打击网络暴力极端主义内容的国际倡议“克赖斯特彻奇呼吁”。凶手被判处不得假释的终身监禁，这是新西兰首例此类判决。",
+    "ja": "2019年3月15日、オーストラリア人の白人至上主義者がクライストチャーチのアル・ヌール・モスクとリンウッド・イスラム・センターを金曜礼拝中に襲撃して51人を殺害し、その様子をライブ配信した。1か月以内に議会は大半の半自動銃を禁止し、ジャシンダ・アーダーン首相はオンラインの暴力的過激主義コンテンツに対抗する国際的な「クライストチャーチ・コール」を共同で立ち上げた。犯人にはニュージーランドで初めて仮釈放なしの終身刑が言い渡された。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q77929275",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Whakaari / White Island eruption",
+    "ko": "화카아리(화이트섬) 분화",
+    "zh": "怀特岛火山喷发",
+    "ja": "ファカアリ（ホワイト島）噴火"
+   },
+   "description": {
+    "en": "On 9 December 2019 the volcano on Whakaari / White Island in the Bay of Plenty erupted while 47 people, mostly tourists from a cruise ship, were on the island. Twenty-two people died and most survivors suffered severe burns. Tour operators and the island's owners were later prosecuted under health and safety law, though the owners' conviction was overturned on appeal.",
+    "ko": "2019년 12월 9일 베이오브플렌티의 화카아리(화이트섬) 화산이 분화했을 때 섬에는 대부분 크루즈선 관광객인 47명이 있었다. 22명이 숨지고 생존자 대부분이 심한 화상을 입었다. 관광 업체와 섬 소유주는 이후 안전보건법 위반으로 기소되었으나, 소유주에 대한 유죄 판결은 항소심에서 뒤집혔다.",
+    "zh": "2019年12月9日，丰盛湾的怀特岛（Whakaari）火山喷发时，岛上有47人，大多是邮轮游客。22人遇难，大多数幸存者严重烧伤。旅游经营者和岛屿所有者随后依据健康与安全法被起诉，但所有者的定罪在上诉中被推翻。",
+    "ja": "2019年12月9日、ベイ・オブ・プレンティのファカアリ（ホワイト島）の火山が噴火したとき、島には主にクルーズ船の観光客47人がいた。22人が死亡し、生存者の多くが重いやけどを負った。ツアー業者と島の所有者はのちに労働安全衛生法違反で起訴されたが、所有者の有罪判決は控訴審で覆された。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87250803",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "COVID-19 elimination strategy",
+    "ko": "코로나19 '제거' 전략",
+    "zh": "新冠疫情“清零”战略",
+    "ja": "新型コロナ「排除」戦略"
+   },
+   "description": {
+    "en": "In March 2020 New Zealand closed its borders and imposed a strict nationwide lockdown, pursuing an elimination rather than suppression strategy against COVID-19. Combined with managed isolation for arrivals, the approach kept deaths very low by international standards during 2020–21. Prolonged restrictions later drew protests, including a three-week occupation of Parliament grounds in 2022, and the elimination strategy was abandoned as vaccination spread.",
+    "ko": "2020년 3월 뉴질랜드는 국경을 닫고 엄격한 전국 봉쇄를 시행하며 코로나19에 대해 억제가 아닌 '제거' 전략을 추구했다. 입국자 관리 격리와 결합된 이 방식으로 2020~21년 사망자는 국제적으로 매우 낮은 수준에 머물렀다. 장기화된 제한 조치는 2022년 3주간의 의회 구내 점거 등 시위를 불렀고, 백신 접종이 확산되면서 제거 전략은 폐기되었다.",
+    "zh": "2020年3月，新西兰关闭边境并实施严格的全国封锁，对新冠疫情采取“清零”而非抑制策略。结合入境者管理隔离，该做法使2020至21年的死亡人数在国际上处于极低水平。长期限制措施后来引发抗议，包括2022年持续三周的议会场地占领，随着疫苗接种普及，清零战略被放弃。",
+    "ja": "2020年3月、ニュージーランドは国境を閉ざして厳格な全国ロックダウンを実施し、新型コロナに対して抑制ではなく「排除」戦略をとった。入国者の管理隔離と組み合わせたこの方式により、2020〜21年の死者数は国際的に見て非常に少なかった。長期化した制限はのちに2022年の3週間に及ぶ国会敷地の占拠などの抗議を招き、ワクチン接種の普及とともに排除戦略は放棄された。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q78916386",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Euthanasia and cannabis referendums",
+    "ko": "안락사·대마 국민투표",
+    "zh": "安乐死与大麻公投",
+    "ja": "安楽死・大麻の国民投票"
+   },
+   "description": {
+    "en": "Alongside the October 2020 general election, which returned Jacinda Ardern's Labour Party with an outright majority, voters approved the End of Life Choice Act in a binding referendum by about 65%. In a separate non-binding referendum, a proposal to legalise recreational cannabis was narrowly rejected. Assisted dying became legal in November 2021.",
+    "ko": "저신다 아던의 노동당이 단독 과반을 차지한 2020년 10월 총선과 함께 치러진 구속력 있는 국민투표에서 유권자들은 약 65%의 찬성으로 생애 말기 선택법을 승인했다. 별도의 비구속적 국민투표에서는 기호용 대마 합법화 안이 근소한 차이로 부결되었다. 조력 사망은 2021년 11월부터 합법화되었다.",
+    "zh": "在杰辛达·阿德恩领导的工党赢得单独多数的2020年10月大选的同时，选民在具有约束力的公投中以约65%的支持率批准了《临终选择法》。在另一项不具约束力的公投中，娱乐用大麻合法化提案以微弱差距被否决。协助死亡于2021年11月起合法化。",
+    "ja": "ジャシンダ・アーダーン率いる労働党が単独過半数を得た2020年10月の総選挙と同時に行われた拘束力ある国民投票で、有権者は約65％の賛成で終末期選択法を承認した。別の拘束力のない国民投票では、嗜好用大麻の合法化案が僅差で否決された。安楽死（自殺幇助）は2021年11月に合法化された。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q116761981",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclone Gabrielle",
+    "ko": "사이클론 가브리엘",
+    "zh": "热带气旋“加布丽埃勒”",
+    "ja": "サイクロン・ガブリエル"
+   },
+   "description": {
+    "en": "In February 2023, weeks after record floods in Auckland, Cyclone Gabrielle struck the North Island, devastating Hawke's Bay, Tairāwhiti (Gisborne) and other regions with floods and landslides. Eleven people died and a national state of emergency was declared, only the third in the country's history. It was among the costliest weather events ever recorded in the Southern Hemisphere.",
+    "ko": "2023년 2월, 오클랜드의 기록적 홍수가 난 지 몇 주 뒤 사이클론 가브리엘이 북섬을 강타해 홍수와 산사태로 호크스베이, 타이라휘티(기즈번) 등지를 초토화했다. 11명이 숨졌고, 나라 역사상 세 번째인 국가 비상사태가 선포되었다. 이는 남반구에서 기록된 가장 피해액이 큰 기상 재해 가운데 하나였다.",
+    "zh": "2023年2月，奥克兰遭受创纪录洪灾数周后，热带气旋“加布丽埃勒”袭击北岛，洪水和山体滑坡重创霍克斯湾、泰拉菲蒂（吉斯伯恩）等地区。11人死亡，政府宣布了该国历史上第三次全国紧急状态。这是南半球有记录以来损失最惨重的天气事件之一。",
+    "ja": "2023年2月、オークランドの記録的洪水から数週間後、サイクロン・ガブリエルが北島を襲い、洪水と地すべりでホークスベイやタイラーフィティ（ギズボーン）などに壊滅的な被害を与えた。11人が死亡し、国の歴史で3度目となる国家非常事態が宣言された。南半球で観測史上最も被害額の大きい気象災害の一つであった。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "National-led coalition takes office",
+    "ko": "국민당 주도 연립정부 출범",
+    "zh": "国家党主导的联合政府上台",
+    "ja": "国民党主導の連立政権発足"
+   },
+   "description": {
+    "en": "The October 2023 general election ended six years of Labour government, and in November Christopher Luxon became prime minister at the head of a coalition of National, ACT and New Zealand First. The government reversed several Labour policies, including Māori-focused health and co-governance arrangements. Its approach to the Treaty of Waitangi became a focus of national controversy.",
+    "ko": "2023년 10월 총선으로 6년간의 노동당 정부가 막을 내렸고, 11월 크리스토퍼 럭슨이 국민당·ACT당·뉴질랜드제일당 연립정부를 이끄는 총리가 되었다. 정부는 마오리 중심 보건 기구와 공동 통치 제도 등 노동당의 여러 정책을 뒤집었다. 와이탕이 조약에 대한 정부의 접근은 전국적 논쟁의 초점이 되었다.",
+    "zh": "2023年10月大选结束了工党六年的执政，11月克里斯托弗·卢克森出任总理，领导由国家党、ACT党和新西兰优先党组成的联合政府。政府推翻了工党的多项政策，包括以毛利人为重点的卫生机构和共治安排。其对待《怀唐伊条约》的方式成为全国争议的焦点。",
+    "ja": "2023年10月の総選挙で6年間の労働党政権が終わり、11月にクリストファー・ラクソンが国民党・ACT党・ニュージーランド・ファースト党の連立政権を率いる首相に就任した。政府はマオリ重視の保健機関や共同統治の仕組みなど、労働党の多くの政策を覆した。ワイタンギ条約への政府の姿勢は全国的な論争の的となった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hīkoi against the Treaty Principles Bill",
+    "ko": "조약 원칙 법안 반대 히코이",
+    "zh": "反对《条约原则法案》的大游行",
+    "ja": "条約原則法案に反対するヒーコイ"
+   },
+   "description": {
+    "en": "In November 2024 the ACT party's Treaty Principles Bill, which sought to redefine the principles of the Treaty of Waitangi, passed its first reading. In response a nine-day hīkoi travelled the length of the North Island, and tens of thousands of people marched on Parliament in one of the largest protests in the country's history. The bill was voted down at its second reading in April 2025. In September 2024 Kuini Nga wai hono i te po became the eighth Māori monarch after the death of her father, Kīngi Tūheitia.",
+    "ko": "2024년 11월 와이탕이 조약의 원칙을 재정의하려는 ACT당의 조약 원칙 법안이 1차 독회를 통과했다. 이에 맞서 9일간의 히코이(행진)가 북섬을 종단했고, 수만 명이 의회로 행진해 나라 역사상 최대 규모의 시위 가운데 하나가 되었다. 법안은 2025년 4월 2차 독회에서 부결되었다. 앞서 2024년 9월에는 쿠이니 응가 와이 호누 이 테 포는 부친 킹이 투헤이티아의 서거 후 제8대 마오리 군주가 되었다.",
+    "zh": "2024年11月，ACT党试图重新界定《怀唐伊条约》原则的《条约原则法案》通过一读。作为回应，一场为期九天的大游行（希科伊）纵贯北岛，数万人向议会进发，成为该国历史上规模最大的抗议之一。该法案于2025年4月在二读中被否决。此前于2024年9月，在其父图海蒂亚国王去世后，恩加怀霍努伊特波女王成为第八位毛利君主。",
+    "ja": "2024年11月、ワイタンギ条約の原則を再定義しようとするACT党の条約原則法案が第一読会を通過した。これに対し9日間のヒーコイ（行進）が北島を縦断し、数万人が国会へ行進して、国の歴史でも最大級の抗議となった。法案は2025年4月の第二読会で否決された。これに先立つ2024年9月、父キーンギ・トゥヘイティアの死去を受けて、クイニ・ンガ・ワイ・ホヌ・イ・テ・ポが第8代マオリ君主となった。"
+   }
+  }
+ ]
+}

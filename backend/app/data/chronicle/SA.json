@@ -1,0 +1,3283 @@
+{
+ "iso": "SA",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -1300,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Neolithic and Bronze Age Arabia",
+    "ko": "신석기·청동기 시대 아라비아",
+    "zh": "新石器与青铜时代的阿拉伯",
+    "ja": "新石器・青銅器時代のアラビア"
+   },
+   "summary": {
+    "en": "Hunter-herders of a wetter Neolithic Arabia left rich rock art at sites such as Jubbah and Shuwaymis in the north. As the climate dried after c. 4000 BC, pastoralism and oasis farming took hold, while the Gulf coast around Tarut Island was drawn into the Dilmun trade network linking Mesopotamia and the Indus.",
+    "ko": "지금보다 습윤했던 신석기 시대 아라비아의 수렵·목축민은 북부의 주바와 슈와이미스 등지에 풍부한 암각화를 남겼다. 기원전 4000년경 이후 기후가 건조해지면서 유목과 오아시스 농업이 자리 잡았고, 타루트섬 일대의 걸프 연안은 메소포타미아와 인더스를 잇는 딜문 교역망에 편입되었다.",
+    "zh": "在气候较今湿润的新石器时代，阿拉伯半岛的狩猎放牧者在北部的朱拜和舒韦米斯等地留下了丰富的岩画。约公元前4000年后气候转干，游牧与绿洲农业逐渐确立，而塔鲁特岛一带的海湾沿岸则被纳入连接美索不达米亚与印度河流域的迪尔蒙贸易网络。",
+    "ja": "現在より湿潤だった新石器時代のアラビアでは、狩猟・牧畜民が北部のジュッバやシュワイミスなどに豊かな岩絵を残した。前4000年頃以降に乾燥化が進むと遊牧とオアシス農業が定着し、タールート島周辺の湾岸はメソポタミアとインダスを結ぶディルムン交易網に組み込まれた。"
+   }
+  },
+  {
+   "from": -1300,
+   "to": -100,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "North Arabian oasis kingdoms: Qedar, Tayma and Dedan",
+    "ko": "북아라비아 오아시스 왕국들: 케다르·타이마·데단",
+    "zh": "北阿拉伯绿洲诸国：基达尔、泰马与德丹",
+    "ja": "北アラビアのオアシス諸王国：ケダル・タイマー・デダン"
+   },
+   "summary": {
+    "en": "With the domestication of the camel, oases along the incense road in the northwest flourished. Assyrian and Babylonian records name the Qedarite Arabs and their center at Adummatu (Dumat al-Jandal), and the Babylonian king Nabonidus lived at Tayma for about a decade in the 6th century BC. At Dedan (al-Ula) the Dadanite and then Lihyanite kings ruled a wealthy caravan oasis.",
+    "ko": "낙타의 가축화와 함께 북서부 향료길의 오아시스들이 번영했다. 아시리아와 바빌로니아 기록에는 케다르 아랍인과 그 중심지 아두마투(두마트 알잔달)가 등장하며, 기원전 6세기 바빌로니아 왕 나보니두스는 타이마에서 약 10년을 머물렀다. 데단(알울라)에서는 데단 왕국과 뒤이은 리흐얀 왕국이 부유한 대상 오아시스를 다스렸다.",
+    "zh": "随着骆驼的驯化，西北部香料之路沿线的绿洲日益繁荣。亚述与巴比伦文献记载了基达尔阿拉伯人及其中心阿杜马图（杜马特·詹达勒）；公元前6世纪，巴比伦国王那波尼德曾在泰马居住约十年。在德丹（欧拉），德丹王国及其后的利希扬王国统治着富庶的商队绿洲。",
+    "ja": "ラクダの家畜化とともに、北西部の香料の道沿いのオアシスが栄えた。アッシリアやバビロニアの記録にはケダル族のアラブとその拠点アドゥマトゥ（ドゥーマト・アル＝ジャンダル）が現れ、前6世紀にはバビロニア王ナボニドゥスがタイマーに約10年滞在した。デダン（アル＝ウラー）ではデダン王国、続いてリフヤーン王国が富裕な隊商オアシスを治めた。"
+   }
+  },
+  {
+   "from": -600,
+   "to": 300,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Eastern Arabia: Gerrha and Thaj",
+    "ko": "동부 아라비아: 게라와 타지",
+    "zh": "东阿拉伯：格尔哈与萨杰",
+    "ja": "東アラビア：ゲッラとサージ"
+   },
+   "summary": {
+    "en": "The Gulf hinterland of today's Eastern Province hosted prosperous trading towns. Greek writers described Gerrha as a rich emporium handling Arabian and Indian goods, and the walled city of Thaj flourished in the Hellenistic period. The region exchanged goods with Mesopotamia, Persia and the incense-producing south.",
+    "ko": "오늘날 동부주의 걸프 배후지에는 번영한 교역 도시들이 있었다. 그리스 저술가들은 게라를 아라비아와 인도의 물산이 오가는 부유한 상업 중심지로 묘사했으며, 성벽 도시 타지는 헬레니즘 시대에 번성했다. 이 지역은 메소포타미아·페르시아·향료 산지인 남아라비아와 교역했다.",
+    "zh": "今日东部省的海湾腹地曾有繁荣的商业城镇。希腊作家把格尔哈描述为经销阿拉伯与印度货物的富庶商埠，带城墙的萨杰城在希腊化时代兴盛一时。该地区与美索不达米亚、波斯以及出产香料的南阿拉伯往来贸易。",
+    "ja": "現在の東部州にあたる湾岸の後背地には繁栄した交易都市があった。ギリシアの著述家はゲッラをアラビアとインドの物産を扱う豊かな商業拠点として描き、城壁都市サージはヘレニズム時代に栄えた。この地域はメソポタミア、ペルシア、香料産地の南アラビアと交易した。"
+   }
+  },
+  {
+   "from": -400,
+   "to": -60,
+   "kind": "culture",
+   "qid": "Q1177379",
+   "polity": "Minaeans",
+   "name": {
+    "en": "Minaean trading colonies",
+    "ko": "미나인 교역 거류지",
+    "zh": "麦因商业殖民地",
+    "ja": "ミナエア人の交易居留地"
+   },
+   "summary": {
+    "en": "The Minaeans of Ma'in in Yemen controlled much of the incense caravan trade and kept a trading colony at Dedan (al-Ula) in the Hejaz. Their South Arabian inscriptions there show merchants living alongside the local Lihyanites. Their commercial network faded by the 1st century BC.",
+    "ko": "예멘의 마인을 근거지로 한 미나인은 향료 대상 무역의 상당 부분을 장악했고, 헤자즈의 데단(알울라)에 교역 거류지를 두었다. 그곳의 남아라비아 비문은 미나인 상인들이 현지 리흐얀인과 함께 살았음을 보여 준다. 이들의 상업망은 기원전 1세기 무렵 쇠퇴했다.",
+    "zh": "以也门马因为根据地的麦因人控制了大部分香料商队贸易，并在汉志的德丹（欧拉）设有商业据点。当地的南阿拉伯铭文显示其商人与当地利希扬人比邻而居。到公元前1世纪，他们的商业网络已经衰落。",
+    "ja": "イエメンのマインを本拠とするミナエア人は香料隊商交易の多くを握り、ヒジャーズのデダン（アル＝ウラー）に交易居留地を置いた。現地の南アラビア碑文は、商人たちが地元のリフヤーン人と共に暮らしていたことを示す。その商業網は前1世紀までに衰えた。"
+   }
+  },
+  {
+   "from": -110,
+   "to": 525,
+   "kind": "state",
+   "qid": "Q289577",
+   "polity": "Himyarite Kingdom",
+   "name": {
+    "en": "Himyarite Kingdom",
+    "ko": "힘야르 왕국",
+    "zh": "希木叶尔王国",
+    "ja": "ヒムヤル王国"
+   },
+   "summary": {
+    "en": "Himyar, based in the highlands of Yemen, united South Arabia by the late 3rd century AD and extended its authority over the tribes of central and western Arabia in the 4th–5th centuries. Its kings campaigned deep into Najd, and the southwestern borderlands of modern Saudi Arabia such as Najran fell within its sphere. The kingdom collapsed after the Aksumite invasion of c. 525.",
+    "ko": "예멘 고원을 근거지로 한 힘야르는 3세기 말 남아라비아를 통일하고 4~5세기에 중부·서부 아라비아 부족들에게까지 권위를 넓혔다. 힘야르 왕들은 나지드 깊숙이 원정했으며, 나지란 등 오늘날 사우디아라비아 남서부 변경은 그 세력권에 속했다. 왕국은 525년경 악숨의 침공 이후 무너졌다.",
+    "zh": "以也门高原为根据地的希木叶尔于3世纪末统一南阿拉伯，并在4至5世纪将权威扩展至阿拉伯中部和西部的部落。其国王曾远征纳季德腹地，纳季兰等今沙特西南边地也在其势力范围之内。约525年阿克苏姆入侵后，王国瓦解。",
+    "ja": "イエメン高地を本拠とするヒムヤルは3世紀末に南アラビアを統一し、4〜5世紀には中部・西部アラビアの部族にまで権威を広げた。その王たちはナジュドの奥深くまで遠征し、ナジュランなど現在のサウジアラビア南西部の辺境はその勢力圏に入った。王国は525年頃のアクスムの侵攻後に崩壊した。"
+   }
+  },
+  {
+   "from": -100,
+   "to": 106,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Nabataean Kingdom in the Hejaz",
+    "ko": "헤자즈의 나바테아 왕국",
+    "zh": "汉志的纳巴泰王国",
+    "ja": "ヒジャーズのナバテア王国"
+   },
+   "summary": {
+    "en": "The Nabataean kingdom, centered on Petra, extended south into the northern Hejaz, where Hegra (Mada'in Salih) became its southern hub. Nabataean control of caravan routes brought great wealth, reflected in the monumental rock-cut tombs of Hegra. The kingdom was annexed by Rome in 106 AD.",
+    "ko": "페트라를 중심으로 한 나바테아 왕국은 북부 헤자즈까지 뻗어 있었고, 헤그라(마다인 살리흐)가 남부 거점이 되었다. 대상로 장악으로 막대한 부를 쌓았으며 이는 헤그라의 거대한 암굴 무덤에 남아 있다. 왕국은 106년 로마에 병합되었다.",
+    "zh": "以佩特拉为中心的纳巴泰王国向南延伸至汉志北部，黑格拉（玛甸沙勒）成为其南方重镇。王国凭借控制商路积累了巨大财富，黑格拉宏伟的凿岩墓葬即为明证。公元106年，王国被罗马吞并。",
+    "ja": "ペトラを中心とするナバテア王国は北部ヒジャーズまで広がり、ヘグラ（マダイン・サーレハ）が南の拠点となった。隊商路の支配で莫大な富を得たことは、ヘグラの壮大な岩窟墓に表れている。王国は106年にローマに併合された。"
+   }
+  },
+  {
+   "from": -100,
+   "to": 550,
+   "kind": "state",
+   "qid": "Q605292",
+   "polity": null,
+   "name": {
+    "en": "Kinda and Qaryat al-Faw",
+    "ko": "킨다 왕국과 카르야트 알파우",
+    "zh": "金达王国与盖里亚特·法奥",
+    "ja": "キンダ王国とカルヤト・アル＝ファウ"
+   },
+   "summary": {
+    "en": "The Kinda tribe had its early capital at Qaryat al-Faw on the edge of the Empty Quarter, a caravan city whose excavations revealed temples, markets and painted walls. By the 5th century the Kindite kings, as Himyar's clients, led a tribal confederation across central Arabia. Their power broke apart in the first half of the 6th century.",
+    "ko": "킨다 부족은 초기에 '빈 지역(룹알할리)' 가장자리의 대상 도시 카르야트 알파우를 수도로 삼았으며, 발굴로 신전·시장·벽화가 드러났다. 5세기에 킨다 왕들은 힘야르의 종속 세력으로서 중부 아라비아에 걸친 부족 연합을 이끌었다. 그 세력은 6세기 전반에 해체되었다.",
+    "zh": "金达部落早期以鲁卜哈利沙漠边缘的商队城市盖里亚特·法奥为都，考古发掘出神庙、市场与彩绘墙壁。到5世纪，金达诸王作为希木叶尔的附庸，统领横跨阿拉伯中部的部落联盟。其势力在6世纪上半叶瓦解。",
+    "ja": "キンダ族は初期に「空白の地域（ルブアルハリ）」の縁にある隊商都市カルヤト・アル＝ファウを都とし、発掘で神殿・市場・壁画が見つかっている。5世紀にはキンダの王たちがヒムヤルの従属者として中部アラビアにまたがる部族連合を率いた。その勢力は6世紀前半に解体した。"
+   }
+  },
+  {
+   "from": -26,
+   "to": 300,
+   "kind": "state",
+   "qid": null,
+   "polity": "Roman Empire",
+   "name": {
+    "en": "Roman presence in northwest Arabia",
+    "ko": "북서 아라비아의 로마 세력",
+    "zh": "罗马在西北阿拉伯的势力",
+    "ja": "北西アラビアにおけるローマ"
+   },
+   "summary": {
+    "en": "Rome first reached into Arabia with Aelius Gallus's failed expedition of c. 26–24 BC, which marched south through the Hejaz. After annexing the Nabataean kingdom in 106, Rome's province of Arabia Petraea extended to Hegra, where Latin inscriptions attest a Roman garrison in the 2nd century. Roman control of the far south of the province later receded.",
+    "ko": "로마는 기원전 26~24년경 아일리우스 갈루스의 원정으로 처음 아라비아에 진출했으나, 헤자즈를 거쳐 남하한 이 원정은 실패했다. 106년 나바테아 왕국을 병합한 뒤 로마의 아라비아 페트라이아 속주는 헤그라까지 이르렀으며, 라틴어 비문은 2세기 그곳에 로마 수비대가 있었음을 보여 준다. 이후 속주 최남단에 대한 로마의 통제는 약해졌다.",
+    "zh": "约公元前26至前24年，埃利乌斯·加卢斯率军经汉志南下远征阿拉伯，罗马势力首次进入半岛，但远征失败。106年吞并纳巴泰王国后，罗马的阿拉伯佩特拉行省延伸至黑格拉，当地拉丁文铭文证明2世纪时有罗马驻军。此后罗马对该行省最南端的控制逐渐减弱。",
+    "ja": "ローマは前26〜前24年頃のアエリウス・ガッルスの遠征で初めてアラビアに踏み込んだが、ヒジャーズを南下したこの遠征は失敗に終わった。106年にナバテア王国を併合すると属州アラビア・ペトラエアはヘグラにまで及び、ラテン語碑文は2世紀に同地にローマ守備隊がいたことを示す。その後、属州最南部へのローマの支配は後退した。"
+   }
+  },
+  {
+   "from": 240,
+   "to": 633,
+   "kind": "state",
+   "qid": null,
+   "polity": "Sasanian Empire",
+   "name": {
+    "en": "Sasanian sphere in eastern Arabia",
+    "ko": "동부 아라비아의 사산 왕조 세력권",
+    "zh": "萨珊帝国在东阿拉伯的势力范围",
+    "ja": "東アラビアにおけるサーサーン朝の勢力圏"
+   },
+   "summary": {
+    "en": "From the 3rd century the Sasanian Persian Empire dominated the Gulf coast, known as Bahrayn, through garrisons and allied Arab rulers. Nestorian Christian communities of the Church of the East spread along the coast. Persian influence ended when the region accepted Islam around 630.",
+    "ko": "3세기부터 사산 왕조 페르시아는 수비대와 동맹 아랍 지배자를 통해 '바흐라인'이라 불린 걸프 연안을 지배했다. 연안을 따라 동방교회(네스토리우스파) 그리스도교 공동체가 퍼졌다. 페르시아의 영향력은 630년경 이 지역이 이슬람을 받아들이면서 끝났다.",
+    "zh": "自3世纪起，萨珊波斯帝国通过驻军和结盟的阿拉伯统治者控制了被称为“巴林”的海湾沿岸。东方教会（聂斯脱利派）基督徒社群沿海岸分布。约630年该地区皈依伊斯兰教后，波斯的影响随之终结。",
+    "ja": "3世紀からサーサーン朝ペルシアは、守備隊と同盟するアラブの支配者を通じて「バフライン」と呼ばれた湾岸を支配した。沿岸には東方教会（ネストリウス派）のキリスト教共同体が広がった。ペルシアの影響は630年頃にこの地域がイスラームを受け入れたことで終わった。"
+   }
+  },
+  {
+   "from": 270,
+   "to": 633,
+   "kind": "state",
+   "qid": "Q943191",
+   "polity": "Lakhmid Kingdom",
+   "name": {
+    "en": "Lakhmid Kingdom",
+    "ko": "라흠 왕국",
+    "zh": "莱赫米王国",
+    "ja": "ラフム朝"
+   },
+   "summary": {
+    "en": "The Lakhmids, an Arab dynasty based at al-Hira in Iraq, served as Sasanian clients and extended their influence over the tribes of northeastern Arabia. They fought the Ghassanids, Rome's Arab allies, for dominance over the desert. The Persians abolished the dynasty in 602, shortly before the Islamic conquests.",
+    "ko": "이라크의 히라를 근거지로 한 아랍 왕조 라흠조는 사산 왕조의 종속국으로서 북동부 아라비아 부족들에게 영향력을 행사했다. 이들은 로마의 아랍 동맹인 가산조와 사막의 패권을 다투었다. 페르시아는 이슬람 정복 직전인 602년 이 왕조를 폐지했다.",
+    "zh": "莱赫米王朝是以伊拉克希拉为中心的阿拉伯王朝，作为萨珊帝国的附庸，影响力及于阿拉伯东北部各部落。他们与罗马的阿拉伯盟友加萨尼王朝争夺沙漠霸权。602年，即伊斯兰征服前不久，波斯废除了这一王朝。",
+    "ja": "イラクのヒーラを拠点とするアラブ王朝ラフム朝は、サーサーン朝の従属国として北東アラビアの部族に影響力を及ぼした。ローマのアラブ同盟者ガッサーン朝と砂漠の覇権を争った。ペルシアはイスラームの征服直前の602年にこの王朝を廃した。"
+   }
+  },
+  {
+   "from": 400,
+   "to": 622,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Pre-Islamic Hejaz: Mecca and the Quraysh",
+    "ko": "이슬람 이전의 헤자즈: 메카와 쿠라이시",
+    "zh": "伊斯兰前的汉志：麦加与古莱什",
+    "ja": "イスラーム以前のヒジャーズ：メッカとクライシュ族"
+   },
+   "summary": {
+    "en": "In the Hejaz, the Quraysh tribe controlled Mecca, home of the Kaaba sanctuary and seasonal pilgrimage, and ran caravans to Syria and Yemen. Yathrib (Medina) was an agricultural oasis shared by Arab tribes and Jewish clans, while Ta'if, Khaybar and Najran were other important centers. This was the world into which Muhammad was born.",
+    "ko": "헤자즈에서는 쿠라이시 부족이 카바 성소와 계절 순례의 중심지인 메카를 장악하고 시리아와 예멘으로 대상을 보냈다. 야스리브(메디나)는 아랍 부족과 유대인 씨족이 함께 사는 농업 오아시스였고, 타이프·하이바르·나지란도 중요한 중심지였다. 무함마드는 이러한 세계에서 태어났다.",
+    "zh": "在汉志，古莱什部落掌控着拥有克尔白圣所和季节性朝觐的麦加，并组织商队往来叙利亚和也门。叶斯里卜（麦地那）是阿拉伯部落与犹太氏族共居的农业绿洲，塔伊夫、海拜尔和纳季兰也是重要中心。穆罕默德便诞生于这样的世界。",
+    "ja": "ヒジャーズではクライシュ族がカアバ神殿と季節の巡礼の地メッカを支配し、シリアやイエメンへ隊商を送った。ヤスリブ（メディナ）はアラブ部族とユダヤ教徒の氏族が共住する農業オアシスで、ターイフ、ハイバル、ナジュランも重要な拠点だった。ムハンマドはこうした世界に生まれた。"
+   }
+  },
+  {
+   "from": 510,
+   "to": 633,
+   "kind": "state",
+   "qid": "Q733668",
+   "polity": "Ghassanids",
+   "name": {
+    "en": "Ghassanids",
+    "ko": "가산 왕조",
+    "zh": "加萨尼王朝",
+    "ja": "ガッサーン朝"
+   },
+   "summary": {
+    "en": "The Ghassanids, a Christian Arab confederation allied with Byzantium, dominated the Syrian desert frontier and the tribes of northwestern Arabia in the 6th century. They checked the Lakhmids and protected Byzantine trade routes. Their power waned before the Muslim conquest of Syria in the 630s.",
+    "ko": "비잔티움과 동맹한 그리스도교 아랍 연합체 가산조는 6세기 시리아 사막 변경과 북서부 아라비아의 부족들을 지배했다. 이들은 라흠조를 견제하고 비잔티움의 교역로를 보호했다. 그 세력은 630년대 무슬림의 시리아 정복 이전에 약화되었다.",
+    "zh": "加萨尼人是与拜占庭结盟的基督教阿拉伯部落联盟，6世纪时主宰叙利亚沙漠边境和阿拉伯西北部的部落。他们牵制莱赫米人并保护拜占庭商路。在630年代穆斯林征服叙利亚之前，其势力已经衰落。",
+    "ja": "ビザンツと同盟したキリスト教徒アラブの連合体ガッサーン朝は、6世紀にシリア砂漠の辺境と北西アラビアの部族を支配した。ラフム朝を牽制し、ビザンツの交易路を守った。その勢力は630年代のムスリムによるシリア征服の前に衰えた。"
+   }
+  },
+  {
+   "from": 622,
+   "to": 632,
+   "kind": "state",
+   "qid": "Q76821846",
+   "polity": null,
+   "name": {
+    "en": "Muhammad's community at Medina",
+    "ko": "메디나의 무함마드 공동체",
+    "zh": "麦地那的穆罕默德政权",
+    "ja": "メディナのムハンマド共同体"
+   },
+   "summary": {
+    "en": "After the Hijra of 622, Muhammad led a new Muslim community-state from Medina. Through wars and treaties with Mecca and the tribes it grew until, by his death in 632, most of Arabia had submitted to its authority. It laid the religious and political foundations of the caliphate.",
+    "ko": "622년 헤지라 이후 무함마드는 메디나에서 새로운 무슬림 공동체 국가를 이끌었다. 메카 및 여러 부족과의 전쟁과 조약을 거치며 성장하여 632년 그가 사망할 무렵 아라비아 대부분이 그 권위에 복속했다. 이는 칼리파국의 종교적·정치적 토대가 되었다.",
+    "zh": "622年迁徙之后，穆罕默德在麦地那领导新兴的穆斯林社群国家。通过与麦加及各部落的战争与条约，它不断壮大，到632年他去世时，阿拉伯半岛大部分地区已归服其权威。这为哈里发国奠定了宗教与政治基础。",
+    "ja": "622年のヒジュラ後、ムハンマドはメディナで新たなムスリム共同体国家を率いた。メッカや諸部族との戦争と条約を通じて拡大し、632年の彼の死までにアラビアの大部分がその権威に服した。これがカリフ国の宗教的・政治的基盤となった。"
+   }
+  },
+  {
+   "from": 632,
+   "to": 661,
+   "kind": "state",
+   "qid": "Q12490507",
+   "polity": "Rashidun Caliphate",
+   "name": {
+    "en": "Rashidun Caliphate",
+    "ko": "정통 칼리파국",
+    "zh": "四大哈里发时期",
+    "ja": "正統カリフ時代"
+   },
+   "summary": {
+    "en": "Under the first four caliphs, ruling from Medina, the Muslim state reunited Arabia in the Ridda wars and then conquered Syria, Iraq, Egypt and Persia. Medina was the capital of a rapidly expanding empire until Ali moved his seat to Kufa in 656. The era ended with the civil war of 656–661.",
+    "ko": "메디나에서 통치한 처음 네 명의 칼리파 아래 무슬림 국가는 리다 전쟁으로 아라비아를 재통일하고 시리아·이라크·이집트·페르시아를 정복했다. 메디나는 656년 알리가 쿠파로 거처를 옮길 때까지 급속히 팽창하는 제국의 수도였다. 이 시대는 656~661년의 내전으로 끝났다.",
+    "zh": "在定都麦地那的前四位哈里发治下，穆斯林国家通过“叛教战争”重新统一阿拉伯，随后征服叙利亚、伊拉克、埃及和波斯。在656年阿里迁往库法之前，麦地那一直是这个迅速扩张的帝国的首都。这一时期以656至661年的内战告终。",
+    "ja": "メディナを拠点とした最初の4人のカリフのもとで、ムスリム国家はリッダ戦争でアラビアを再統一し、シリア・イラク・エジプト・ペルシアを征服した。メディナは656年にアリーが本拠をクーファに移すまで急拡大する帝国の首都だった。この時代は656〜661年の内乱で終わった。"
+   }
+  },
+  {
+   "from": 661,
+   "to": 750,
+   "kind": "state",
+   "qid": "Q8575586",
+   "polity": "Umayyad Caliphate",
+   "name": {
+    "en": "Umayyad Caliphate",
+    "ko": "우마이야 칼리파국",
+    "zh": "倭马亚王朝",
+    "ja": "ウマイヤ朝"
+   },
+   "summary": {
+    "en": "With the capital moved to Damascus, Arabia became a province, though Mecca and Medina remained the religious heart of Islam. The Hejaz was the base of Abd Allah ibn al-Zubayr's rival caliphate (683–692), crushed after two sieges of Mecca. Umayyad governors embellished the holy mosques.",
+    "ko": "수도가 다마스쿠스로 옮겨지면서 아라비아는 한 지방이 되었지만, 메카와 메디나는 여전히 이슬람의 종교적 중심이었다. 헤자즈는 압둘라 이븐 알주바이르의 대립 칼리파 정권(683~692)의 근거지였으나 두 차례의 메카 포위 끝에 진압되었다. 우마이야 총독들은 성 모스크들을 증축·장식했다.",
+    "zh": "首都迁至大马士革后，阿拉伯沦为一个行省，但麦加和麦地那仍是伊斯兰的宗教核心。汉志曾是阿卜杜拉·伊本·祖拜尔对立哈里发政权（683—692年）的根据地，该政权在两次麦加围城后被镇压。倭马亚总督们扩建和装饰了圣寺。",
+    "ja": "首都がダマスカスに移るとアラビアは一州となったが、メッカとメディナはイスラームの宗教的中心であり続けた。ヒジャーズはアブドゥッラー・イブン・アッズバイルの対立カリフ政権（683〜692年）の拠点となり、二度のメッカ包囲の末に鎮圧された。ウマイヤ朝の総督たちは聖モスクを拡張・装飾した。"
+   }
+  },
+  {
+   "from": 750,
+   "to": 969,
+   "kind": "state",
+   "qid": "Q12536",
+   "polity": "Abbasid Caliphate",
+   "name": {
+    "en": "Abbasid Caliphate",
+    "ko": "아바스 칼리파국",
+    "zh": "阿拔斯王朝",
+    "ja": "アッバース朝"
+   },
+   "summary": {
+    "en": "The Abbasids, ruling from Baghdad, invested heavily in the pilgrimage, building the Darb Zubaydah road with wells and stations from Iraq to Mecca. From the late 9th century their control over Arabia weakened as the Qarmatians rose in the east and local dynasties emerged.",
+    "ko": "바그다드에서 통치한 아바스 왕조는 순례에 많은 투자를 하여 이라크에서 메카까지 우물과 역참을 갖춘 '다르브 주바이다' 순례길을 조성했다. 9세기 말부터 동부에서 카르마트파가 일어나고 지방 왕조가 등장하면서 아라비아에 대한 통제력이 약해졌다.",
+    "zh": "定都巴格达的阿拔斯王朝大力扶持朝觐，修建了从伊拉克通往麦加、沿途设有水井与驿站的“祖拜达之路”。自9世纪末起，随着东部卡尔马特派的兴起和地方王朝的出现，其对阿拉伯的控制日渐削弱。",
+    "ja": "バグダードから統治したアッバース朝は巡礼に力を注ぎ、イラクからメッカまで井戸と宿駅を備えた「ダルブ・ズバイダ」を整備した。9世紀末から東部でカルマト派が台頭し地方王朝が生まれると、アラビアへの支配は弱まった。"
+   }
+  },
+  {
+   "from": 866,
+   "to": 1446,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Al-Yamama and medieval Najd",
+    "ko": "알야마마와 중세 나지드",
+    "zh": "叶麻麦与中世纪纳季德",
+    "ja": "ヤマーマと中世ナジュド"
+   },
+   "summary": {
+    "en": "Central Arabia lay largely outside the reach of the great empires. In the 9th–11th centuries the Ukhaydirid dynasty ruled al-Yamama from al-Khidrima, after which Najd was divided among oasis towns and nomadic tribes. Agriculture, date palms and caravan trade sustained small settlements such as Hajr, the forerunner of Riyadh.",
+    "ko": "중부 아라비아는 대체로 대제국들의 손길 밖에 있었다. 9~11세기에는 우하이디르 왕조가 알히드리마에서 알야마마를 다스렸고, 이후 나지드는 오아시스 도시들과 유목 부족들로 나뉘었다. 농업과 대추야자, 대상 무역이 리야드의 전신인 하즈르 같은 작은 정착지들을 지탱했다.",
+    "zh": "阿拉伯中部大多处于各大帝国的势力范围之外。9至11世纪，乌海迪尔王朝从希德里玛统治叶麻麦，此后纳季德分裂为众多绿洲城镇和游牧部落。农业、椰枣与商队贸易维系着利雅得前身哈吉尔等小型聚落。",
+    "ja": "中部アラビアの多くは大帝国の支配の外にあった。9〜11世紀にはウハイディル朝がヒドリマからヤマーマを治め、その後ナジュドはオアシス都市と遊牧部族に分かれた。農業やナツメヤシ、隊商交易がリヤドの前身ハジュルなどの小さな集落を支えた。"
+   }
+  },
+  {
+   "from": 899,
+   "to": 1077,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Qarmatian state of Bahrayn",
+    "ko": "바흐라인의 카르마트 국가",
+    "zh": "巴林的卡尔马特国家",
+    "ja": "バフラインのカルマト派国家"
+   },
+   "summary": {
+    "en": "Around 899 the Qarmatians, a radical Isma'ili movement, founded a state in eastern Arabia centered on al-Ahsa. They raided pilgrim caravans and in 930 sacked Mecca, carrying off the Black Stone. Their state declined in the 11th century and was overthrown by the Uyunids.",
+    "ko": "899년경 급진적 이스마일파 운동인 카르마트파가 알아흐사를 중심으로 동부 아라비아에 국가를 세웠다. 이들은 순례 대상을 습격했고 930년에는 메카를 약탈하며 흑석을 가져갔다. 이 국가는 11세기에 쇠퇴하여 우유니조에 의해 무너졌다.",
+    "zh": "约899年，激进的伊斯玛仪派运动卡尔马特派在东阿拉伯以艾赫萨为中心建立国家。他们劫掠朝觐商队，并于930年洗劫麦加、掠走黑石。该国在11世纪衰落，最终被乌尤尼王朝推翻。",
+    "ja": "899年頃、急進的なイスマーイール派の運動であるカルマト派がアル＝アハサーを中心に東アラビアに国家を築いた。巡礼の隊商を襲い、930年にはメッカを略奪して黒石を持ち去った。この国家は11世紀に衰え、ウユーン朝に倒された。"
+   }
+  },
+  {
+   "from": 967,
+   "to": 1925,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Sharifate of Mecca",
+    "ko": "메카 샤리프국",
+    "zh": "麦加谢里夫国",
+    "ja": "メッカのシャリーフ政権"
+   },
+   "summary": {
+    "en": "From the 960s, descendants of the Prophet through his grandson Hasan, the Sharifs, ruled Mecca and much of the Hejaz. They usually acknowledged the suzerainty of the dominant Muslim power—Fatimids, Ayyubids, Mamluks and Ottomans—while governing locally. The last Sharif, Hussein ibn Ali, became King of the Hejaz in 1916; the line's rule ended with the Saudi conquest in 1924–1925.",
+    "ko": "960년대부터 예언자의 손자 하산의 후손인 샤리프들이 메카와 헤자즈 대부분을 다스렸다. 이들은 대개 파티마조·아이유브조·맘루크조·오스만 제국 등 당대 패권 세력의 종주권을 인정하면서 현지를 통치했다. 마지막 샤리프 후세인 이븐 알리는 1916년 헤자즈 왕이 되었고, 그 통치는 1924~1925년 사우드 가문의 정복으로 끝났다.",
+    "zh": "自960年代起，先知外孙哈桑的后裔谢里夫家族统治麦加及汉志大部。他们通常承认法蒂玛、阿尤布、马穆鲁克和奥斯曼等强权的宗主权，同时自行治理地方。末代谢里夫侯赛因·本·阿里于1916年成为汉志国王，其统治随着1924至1925年沙特的征服而终结。",
+    "ja": "960年代から、預言者の孫ハサンの子孫であるシャリーフたちがメッカとヒジャーズの大部分を治めた。彼らは通常、ファーティマ朝・アイユーブ朝・マムルーク朝・オスマン帝国など時の覇権勢力の宗主権を認めつつ現地を統治した。最後のシャリーフ、フサイン・イブン・アリーは1916年にヒジャーズ王となったが、その支配は1924〜1925年のサウード家の征服で終わった。"
+   }
+  },
+  {
+   "from": 969,
+   "to": 1171,
+   "kind": "state",
+   "qid": "Q160307",
+   "polity": "Fatimid Caliphate",
+   "name": {
+    "en": "Fatimid suzerainty over the Hejaz",
+    "ko": "파티마조의 헤자즈 종주권",
+    "zh": "法蒂玛王朝对汉志的宗主权",
+    "ja": "ファーティマ朝のヒジャーズ宗主権"
+   },
+   "summary": {
+    "en": "After conquering Egypt in 969, the Isma'ili Fatimid caliphs vied with the Abbasids for recognition in Mecca and Medina, where the Friday sermon was read in their name for long periods. Egyptian grain and subsidies to the Sharifs gave them leverage. Their influence ended when Saladin abolished the caliphate in 1171.",
+    "ko": "969년 이집트를 정복한 이스마일파 파티마조 칼리파들은 메카와 메디나에서 인정받기 위해 아바스조와 경쟁했으며, 오랜 기간 금요 설교가 그들의 이름으로 낭독되었다. 이집트산 곡물과 샤리프들에 대한 보조금이 그들의 영향력의 원천이었다. 이 영향력은 1171년 살라딘이 칼리파제를 폐지하면서 끝났다.",
+    "zh": "969年征服埃及后，伊斯玛仪派的法蒂玛哈里发与阿拔斯王朝争夺麦加和麦地那的承认，在很长时期内两圣地的聚礼日宣讲以其名义进行。埃及粮食和给谢里夫的津贴是其影响力的来源。1171年萨拉丁废除法蒂玛哈里发后，这种影响随之终结。",
+    "ja": "969年にエジプトを征服したイスマーイール派のファーティマ朝カリフは、メッカとメディナでの承認をめぐってアッバース朝と競い、長期にわたり金曜礼拝の説教が彼らの名で読まれた。エジプトの穀物とシャリーフへの補助金が影響力の源だった。その影響は1171年にサラディンがカリフ制を廃して終わった。"
+   }
+  },
+  {
+   "from": 1076,
+   "to": 1238,
+   "kind": "state",
+   "qid": "Q12229205",
+   "polity": null,
+   "name": {
+    "en": "Uyunid Emirate",
+    "ko": "우유니 에미르국",
+    "zh": "乌尤尼酋长国",
+    "ja": "ウユーン朝"
+   },
+   "summary": {
+    "en": "The Uyunids, an Arab dynasty of the Abd al-Qays tribe, overthrew the Qarmatians in eastern Arabia around 1076 with Seljuk help. They ruled al-Ahsa and the Gulf coast for over a century and a half before losing power in the 13th century.",
+    "ko": "압드 알카이스 부족 출신의 아랍 왕조 우유니조는 1076년경 셀주크의 도움으로 동부 아라비아의 카르마트파를 무너뜨렸다. 이들은 150여 년 동안 알아흐사와 걸프 연안을 다스리다가 13세기에 세력을 잃었다.",
+    "zh": "出身阿卜杜·盖斯部落的阿拉伯王朝乌尤尼于约1076年在塞尔柱人帮助下推翻东阿拉伯的卡尔马特派。他们统治艾赫萨和海湾沿岸一个半世纪有余，至13世纪失去权力。",
+    "ja": "アブドゥルカイス族出身のアラブ王朝ウユーン朝は、1076年頃セルジューク朝の助けを得て東アラビアのカルマト派を倒した。150年余りにわたりアル＝アハサーと湾岸を治めたが、13世紀に勢力を失った。"
+   }
+  },
+  {
+   "from": 1173,
+   "to": 1250,
+   "kind": "state",
+   "qid": "Q180114",
+   "polity": "Ayyubid Sultanate",
+   "name": {
+    "en": "Ayyubid Sultanate",
+    "ko": "아이유브 왕조",
+    "zh": "阿尤布王朝",
+    "ja": "アイユーブ朝"
+   },
+   "summary": {
+    "en": "Saladin's Ayyubid dynasty extended its protection over the Hejaz, defending the holy cities against Crusader raids in the Red Sea in 1182–1183. Ayyubid rule in Yemen also brought the southwestern Hejaz into their sphere. Their authority passed to the Mamluks in 1250.",
+    "ko": "살라딘의 아이유브 왕조는 헤자즈에 보호권을 행사하며 1182~1183년 홍해에서 십자군의 습격으로부터 성지를 지켰다. 예멘을 지배하면서 헤자즈 남서부도 그 세력권에 들어갔다. 이들의 권위는 1250년 맘루크에게 넘어갔다.",
+    "zh": "萨拉丁创立的阿尤布王朝将保护权延伸至汉志，并在1182至1183年保卫圣城免受十字军在红海的袭击。其对也门的统治也使汉志西南部纳入势力范围。1250年其权威转归马穆鲁克王朝。",
+    "ja": "サラディンのアイユーブ朝はヒジャーズに保護権を及ぼし、1182〜1183年には紅海での十字軍の襲撃から聖地を守った。イエメン支配によってヒジャーズ南西部もその勢力圏に入った。その権威は1250年にマムルーク朝へ移った。"
+   }
+  },
+  {
+   "from": 1250,
+   "to": 1517,
+   "kind": "state",
+   "qid": "Q282428",
+   "polity": "Mamluk Sultanate",
+   "name": {
+    "en": "Mamluk Sultanate",
+    "ko": "맘루크 술탄국",
+    "zh": "马穆鲁克苏丹国",
+    "ja": "マムルーク朝"
+   },
+   "summary": {
+    "en": "The Mamluk sultans of Cairo were the paramount protectors of Mecca and Medina, sending the ceremonial mahmal and Kaaba covering with the annual Egyptian pilgrim caravan. They rebuilt the Prophet's Mosque after fires and dominated the Red Sea port of Jeddah. Their sway passed to the Ottomans in 1517.",
+    "ko": "카이로의 맘루크 술탄들은 메카와 메디나의 최고 보호자로서 매년 이집트 순례 대상과 함께 의례용 마흐말과 카바 덮개를 보냈다. 화재 뒤 예언자 모스크를 재건했고 홍해 항구 제다를 장악했다. 이들의 권위는 1517년 오스만 제국에 넘어갔다.",
+    "zh": "开罗的马穆鲁克苏丹是麦加与麦地那的最高保护者，每年随埃及朝觐商队送去礼仪性的“马赫米勒”和克尔白罩幔。他们在火灾后重建先知寺，并控制红海港口吉达。1517年其权威转归奥斯曼帝国。",
+    "ja": "カイロのマムルーク朝スルタンはメッカとメディナの最高の保護者として、毎年エジプトの巡礼隊とともに儀礼用のマフマルとカアバの覆布を送った。火災後には預言者のモスクを再建し、紅海の港ジッダを支配した。その権威は1517年にオスマン帝国へ移った。"
+   }
+  },
+  {
+   "from": 1417,
+   "to": 1526,
+   "kind": "state",
+   "qid": "Q4116181",
+   "polity": null,
+   "name": {
+    "en": "Jabrid Emirate",
+    "ko": "자브리 왕조",
+    "zh": "贾布里王朝",
+    "ja": "ジャブル朝"
+   },
+   "summary": {
+    "en": "The Jabrids, a Bedouin dynasty, ruled al-Ahsa, Qatif and the Gulf coast in the 15th and early 16th centuries, at times also controlling Bahrain. They were a significant power in eastern Arabia until Portuguese and Ottoman expansion in the Gulf undermined them.",
+    "ko": "베두인 왕조인 자브리조는 15세기와 16세기 초 알아흐사·카티프·걸프 연안을 다스렸고 때로는 바레인도 지배했다. 이들은 포르투갈과 오스만 제국이 걸프로 세력을 넓히기 전까지 동부 아라비아의 주요 세력이었다.",
+    "zh": "贝都因王朝贾布里在15世纪至16世纪初统治艾赫萨、盖提夫和海湾沿岸，一度还控制巴林。在葡萄牙和奥斯曼势力进入海湾之前，他们是东阿拉伯的重要力量。",
+    "ja": "ベドウィンの王朝ジャブル朝は15世紀から16世紀初めにかけてアル＝アハサー、カティーフ、湾岸を治め、時にバーレーンも支配した。ポルトガルとオスマン帝国が湾岸に進出するまで、東アラビアの有力勢力だった。"
+   }
+  },
+  {
+   "from": 1446,
+   "to": 1744,
+   "kind": "state",
+   "qid": "Q56885910",
+   "polity": null,
+   "name": {
+    "en": "Emirate of Diriyah (pre-Saudi state)",
+    "ko": "디리야 토후국(사우디 국가 이전)",
+    "zh": "德拉伊耶酋长国（沙特国家之前）",
+    "ja": "ディルイーヤ首長国（サウード国家以前）"
+   },
+   "summary": {
+    "en": "According to tradition, Mani' al-Muraydi, an ancestor of the House of Saud, founded Diriyah in Wadi Hanifa in the mid-15th century. For three centuries it was one of many small Najdi town-emirates competing for land, water and trade. It became the cradle of the First Saudi State in 1744.",
+    "ko": "전승에 따르면 사우드 가문의 선조 마니 알무라이디가 15세기 중엽 와디 하니파에 디리야를 세웠다. 이후 300년 동안 디리야는 토지·물·교역을 다투던 나지드의 여러 작은 도시 토후국 가운데 하나였다. 1744년 제1차 사우디 국가의 요람이 되었다.",
+    "zh": "据传统说法，沙特家族的先祖马尼·穆赖迪于15世纪中叶在哈尼法谷地建立德拉伊耶。此后三百年间，它是纳季德众多争夺土地、水源与商贸的小城镇酋长国之一。1744年，这里成为第一沙特国的摇篮。",
+    "ja": "伝承によれば、サウード家の祖先マーニウ・アル＝ムライディーが15世紀半ばにワーディー・ハニーファにディルイーヤを築いた。その後300年間、土地・水・交易を争うナジュドの多くの小さな町の首長国の一つだった。1744年に第一次サウード王国の揺籃となった。"
+   }
+  },
+  {
+   "from": 1517,
+   "to": 1918,
+   "kind": "state",
+   "qid": "Q12560",
+   "polity": "Ottoman Empire",
+   "name": {
+    "en": "Ottoman Empire",
+    "ko": "오스만 제국",
+    "zh": "奥斯曼帝国",
+    "ja": "オスマン帝国"
+   },
+   "summary": {
+    "en": "From 1517 the Ottoman sultans were suzerains of the Hejaz, governing through the Sharifs of Mecca and a governor at Jeddah, and from the mid-16th century they also held al-Ahsa on the Gulf (until c. 1670, and again 1871–1913). Najd largely remained outside direct Ottoman control. Ottoman rule in Arabia ended with the Arab Revolt and the First World War.",
+    "ko": "1517년부터 오스만 술탄들은 메카의 샤리프와 제다의 총독을 통해 헤자즈의 종주권을 행사했으며, 16세기 중엽부터는 걸프의 알아흐사도 지배했다(1670년경까지, 그리고 1871~1913년). 나지드는 대체로 오스만의 직접 통치 밖에 있었다. 아라비아에서 오스만의 지배는 아랍 반란과 제1차 세계대전으로 끝났다.",
+    "zh": "自1517年起，奥斯曼苏丹成为汉志的宗主，通过麦加谢里夫和吉达总督进行统治；16世纪中叶起还控制海湾的艾赫萨（至约1670年，并于1871至1913年再次占领）。纳季德基本处于奥斯曼直接统治之外。奥斯曼在阿拉伯的统治随着阿拉伯起义和第一次世界大战而终结。",
+    "ja": "1517年からオスマン帝国のスルタンはメッカのシャリーフとジッダの総督を通じてヒジャーズの宗主となり、16世紀半ばからは湾岸のアル＝アハサーも支配した（1670年頃まで、また1871〜1913年）。ナジュドはおおむね直接支配の外にあった。アラビアにおけるオスマン支配はアラブ反乱と第一次世界大戦で終わった。"
+   }
+  },
+  {
+   "from": 1669,
+   "to": 1796,
+   "kind": "state",
+   "qid": "Q56376885",
+   "polity": null,
+   "name": {
+    "en": "Bani Khalid Emirate",
+    "ko": "바니 할리드 토후국",
+    "zh": "巴尼·哈立德酋长国",
+    "ja": "バニー・ハーリド首長国"
+   },
+   "summary": {
+    "en": "Around 1670 the Bani Khalid tribe under Barrak ibn Ghurayr expelled the Ottoman garrison from al-Ahsa and established an emirate over eastern Arabia. It dominated the Gulf coast and traded with the Gulf ports until the expanding First Saudi State conquered it in the 1790s.",
+    "ko": "1670년경 바라크 이븐 구라이르가 이끄는 바니 할리드 부족이 알아흐사에서 오스만 수비대를 몰아내고 동부 아라비아에 토후국을 세웠다. 이 토후국은 걸프 연안을 지배하며 걸프 항구들과 교역하다가 1790년대 팽창하던 제1차 사우디 국가에 정복되었다.",
+    "zh": "约1670年，巴拉克·伊本·古赖尔率领的巴尼·哈立德部落将奥斯曼驻军逐出艾赫萨，在东阿拉伯建立酋长国。该国主宰海湾沿岸并与各海湾港口通商，直至1790年代被不断扩张的第一沙特国征服。",
+    "ja": "1670年頃、バッラーク・イブン・グライル率いるバニー・ハーリド族がアル＝アハサーからオスマン守備隊を追い出し、東アラビアに首長国を築いた。湾岸を支配して湾岸の港と交易したが、1790年代に拡大する第一次サウード王国に征服された。"
+   }
+  },
+  {
+   "from": 1744,
+   "to": 1818,
+   "kind": "state",
+   "qid": "Q146871",
+   "polity": "Emirate of Diriyah",
+   "name": {
+    "en": "First Saudi State (Emirate of Diriyah)",
+    "ko": "제1차 사우디 국가(디리야 토후국)",
+    "zh": "第一沙特国（德拉伊耶酋长国）",
+    "ja": "第一次サウード王国（ディルイーヤ首長国）"
+   },
+   "summary": {
+    "en": "Founded on the 1744 alliance between Muhammad ibn Saud and the reformist scholar Muhammad ibn Abd al-Wahhab, the state expanded from Diriyah over Najd, al-Ahsa and, by 1803–1805, Mecca and Medina. Its challenge to Ottoman authority provoked an Egyptian invasion that destroyed Diriyah in 1818.",
+    "ko": "1744년 무함마드 이븐 사우드와 개혁 성향의 학자 무함마드 이븐 압둘와하브의 동맹을 토대로 세워진 이 국가는 디리야에서 나지드와 알아흐사로, 1803~1805년에는 메카와 메디나까지 확장했다. 오스만의 권위에 대한 도전은 이집트의 침공을 불러 1818년 디리야가 파괴되었다.",
+    "zh": "该国建立在1744年穆罕默德·本·沙特与改革派学者穆罕默德·本·阿卜杜勒-瓦哈卜的盟约之上，从德拉伊耶扩张至纳季德、艾赫萨，并于1803至1805年占领麦加和麦地那。它对奥斯曼权威的挑战招致埃及入侵，德拉伊耶于1818年被摧毁。",
+    "ja": "1744年のムハンマド・イブン・サウードと改革派学者ムハンマド・イブン・アブドゥルワッハーブの盟約に基づくこの国家は、ディルイーヤからナジュド、アル＝アハサー、さらに1803〜1805年にはメッカとメディナへと拡大した。オスマンの権威への挑戦はエジプト軍の侵攻を招き、1818年にディルイーヤは破壊された。"
+   }
+  },
+  {
+   "from": 1818,
+   "to": 1841,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "Muhammad Ali dynasty",
+   "name": {
+    "en": "Egyptian occupation under Muhammad Ali",
+    "ko": "무함마드 알리 시대 이집트의 점령",
+    "zh": "穆罕默德·阿里时期的埃及占领",
+    "ja": "ムハンマド・アリー朝エジプトの占領"
+   },
+   "summary": {
+    "en": "Acting nominally for the Ottoman sultan, the forces of Muhammad Ali Pasha of Egypt occupied the Hejaz from 1812–1813 and, after 1818, garrisoned parts of Najd and al-Ahsa. A second Egyptian occupation of Najd in 1838 under Khurshid Pasha ended with withdrawal in 1840–1841, while Egypt also held the Hejaz until 1840.",
+    "ko": "명목상 오스만 술탄을 대리한 이집트의 무함마드 알리 파샤 군대는 1812~1813년부터 헤자즈를 점령했고, 1818년 이후 나지드와 알아흐사 일부에 주둔했다. 1838년 후르시드 파샤의 나지드 재점령은 1840~1841년 철수로 끝났으며, 이집트는 1840년까지 헤자즈도 장악했다.",
+    "zh": "名义上代表奥斯曼苏丹的埃及穆罕默德·阿里帕夏军队自1812至1813年占领汉志，1818年后又驻守纳季德和艾赫萨部分地区。1838年胡尔希德帕夏再次占领纳季德，至1840至1841年撤军告终；埃及对汉志的控制也持续到1840年。",
+    "ja": "名目上オスマン帝国のスルタンの代理として、エジプトのムハンマド・アリー・パシャの軍は1812〜1813年からヒジャーズを占領し、1818年以降はナジュドとアル＝アハサーの一部に駐屯した。1838年のフルシード・パシャによるナジュド再占領は1840〜1841年の撤退で終わり、エジプトは1840年までヒジャーズも押さえた。"
+   }
+  },
+  {
+   "from": 1824,
+   "to": 1891,
+   "kind": "state",
+   "qid": "Q146862",
+   "polity": "Emirate of Nejd",
+   "name": {
+    "en": "Second Saudi State (Emirate of Nejd)",
+    "ko": "제2차 사우디 국가(나지드 토후국)",
+    "zh": "第二沙特国（纳季德酋长国）",
+    "ja": "第二次サウード王国（ナジュド首長国）"
+   },
+   "summary": {
+    "en": "Turki ibn Abdullah re-established Saudi rule in 1824 with Riyadh as the new capital. Under his son Faisal ibn Turki the state regained Najd and al-Ahsa, but after Faisal's death in 1865 a civil war between his sons weakened it. The Ottomans seized al-Ahsa in 1871, and the Rashidis of Ha'il ended the state at the Battle of Mulayda in 1891.",
+    "ko": "투르키 이븐 압둘라가 1824년 리야드를 새 수도로 삼아 사우디 통치를 재건했다. 그의 아들 파이살 이븐 투르키 아래 국가는 나지드와 알아흐사를 되찾았으나, 1865년 파이살 사후 아들들 사이의 내전으로 약해졌다. 1871년 오스만이 알아흐사를 점령했고, 1891년 물라이다 전투에서 하일의 라시드 가문이 이 국가를 끝냈다.",
+    "zh": "图尔基·本·阿卜杜拉于1824年以利雅得为新都重建沙特政权。在其子费萨尔·本·图尔基治下，国家收复纳季德和艾赫萨，但1865年费萨尔去世后诸子内战使国家衰弱。1871年奥斯曼占领艾赫萨，1891年哈伊勒的拉希德家族在穆莱达战役中终结了该国。",
+    "ja": "トゥルキー・イブン・アブドゥッラーは1824年にリヤドを新首都としてサウード家の支配を再建した。子のファイサル・イブン・トゥルキーのもとでナジュドとアル＝アハサーを回復したが、1865年のファイサルの死後、息子たちの内戦で弱体化した。1871年にオスマン帝国がアル＝アハサーを占領し、1891年のムライダの戦いでハーイルのラシード家がこの国家を終わらせた。"
+   }
+  },
+  {
+   "from": 1836,
+   "to": 1921,
+   "kind": "state",
+   "qid": "Q5362837",
+   "polity": "Emirate of Jabal Shammar",
+   "name": {
+    "en": "Emirate of Jabal Shammar (Rashidis)",
+    "ko": "자발 샴마르 토후국(라시드 가문)",
+    "zh": "沙马尔山酋长国（拉希德王朝）",
+    "ja": "ジャバル・シャンマル首長国（ラシード朝）"
+   },
+   "summary": {
+    "en": "The Al Rashid dynasty of the Shammar tribe ruled northern Arabia from Ha'il, profiting from the Iraqi pilgrim route and Ottoman support. Under Muhammad ibn Rashid it became the dominant power in Najd after 1891. It declined after defeats by Ibn Saud and fell when Ha'il surrendered in 1921.",
+    "ko": "샴마르 부족의 라시드 가문은 하일에서 북부 아라비아를 다스렸으며 이라크발 순례길과 오스만의 지원으로 이익을 얻었다. 무함마드 이븐 라시드 시대에 1891년 이후 나지드의 패권 세력이 되었다. 이븐 사우드에게 잇달아 패하며 쇠퇴했고 1921년 하일이 항복하면서 멸망했다.",
+    "zh": "沙马尔部落的拉希德家族以哈伊勒为中心统治阿拉伯北部，得益于伊拉克朝觐路线和奥斯曼的支持。在穆罕默德·本·拉希德治下，1891年后成为纳季德的霸主。此后屡败于伊本·沙特而衰落，1921年哈伊勒投降，政权灭亡。",
+    "ja": "シャンマル族のラシード家はハーイルを拠点に北アラビアを治め、イラクからの巡礼路とオスマンの支援で利益を得た。ムハンマド・イブン・ラシードのもとで1891年以降ナジュドの覇者となった。イブン・サウードに敗れて衰え、1921年のハーイル降伏で滅んだ。"
+   }
+  },
+  {
+   "from": 1902,
+   "to": 1926,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Emirate of Riyadh and Sultanate of Najd",
+    "ko": "리야드 토후국과 나지드 술탄국",
+    "zh": "利雅得酋长国与纳季德苏丹国",
+    "ja": "リヤド首長国とナジュド・スルタン国"
+   },
+   "summary": {
+    "en": "After recapturing Riyadh in 1902, Abdulaziz ibn Saud rebuilt the family's state, taking Qasim, al-Ahsa (1913) and Ha'il (1921). He adopted the title Sultan of Najd in 1921 and conquered the Hejaz in 1924–1925, laying the groundwork for the unified kingdom.",
+    "ko": "1902년 리야드를 탈환한 압둘아지즈 이븐 사우드는 가문의 국가를 재건하며 카심, 알아흐사(1913), 하일(1921)을 차지했다. 1921년 나지드 술탄 칭호를 채택했고 1924~1925년 헤자즈를 정복하여 통일 왕국의 기반을 닦았다.",
+    "zh": "1902年夺回利雅得后，阿卜杜勒阿齐兹·伊本·沙特重建家族国家，相继夺取盖西姆、艾赫萨（1913年）和哈伊勒（1921年）。他于1921年采用纳季德苏丹称号，并于1924至1925年征服汉志，为统一王国奠定了基础。",
+    "ja": "1902年にリヤドを奪回したアブドゥルアズィーズ・イブン・サウードは一族の国家を再建し、カスィーム、アル＝アハサー（1913年）、ハーイル（1921年）を手に入れた。1921年にナジュドのスルタンを称し、1924〜1925年にヒジャーズを征服して統一王国の基礎を築いた。"
+   }
+  },
+  {
+   "from": 1906,
+   "to": 1934,
+   "kind": "state",
+   "qid": "Q1656908",
+   "polity": null,
+   "name": {
+    "en": "Idrisid Emirate of Asir",
+    "ko": "아시르의 이드리스 토후국",
+    "zh": "阿西尔的伊德里斯酋长国",
+    "ja": "アスィールのイドリース朝首長国"
+   },
+   "summary": {
+    "en": "Muhammad ibn Ali al-Idrisi built an emirate in the Asir and Jizan region from about 1906, resisting Ottoman rule with Italian and later British support. After his death in 1923 the emirate weakened, came under Saudi protection in 1926 and was absorbed into Saudi Arabia in the early 1930s.",
+    "ko": "무함마드 이븐 알리 알이드리시는 1906년경부터 아시르·지잔 지역에 토후국을 세우고 이탈리아와 이후 영국의 지원을 받아 오스만 통치에 저항했다. 1923년 그가 사망한 뒤 토후국은 약해져 1926년 사우디의 보호 아래 들어갔고 1930년대 초 사우디아라비아에 편입되었다.",
+    "zh": "穆罕默德·本·阿里·伊德里西约自1906年起在阿西尔和吉赞一带建立酋长国，在意大利及后来英国的支持下反抗奥斯曼统治。1923年他去世后酋长国衰落，1926年接受沙特保护，并于1930年代初并入沙特阿拉伯。",
+    "ja": "ムハンマド・イブン・アリー・アル＝イドリースィーは1906年頃からアスィールとジーザーン地方に首長国を築き、イタリア、のちにイギリスの支援を受けてオスマン支配に抵抗した。1923年の彼の死後に首長国は弱まり、1926年にサウードの保護下に入り、1930年代初めにサウジアラビアに編入された。"
+   }
+  },
+  {
+   "from": 1916,
+   "to": 1925,
+   "kind": "state",
+   "qid": "Q956357",
+   "polity": "Kingdom of Hejaz",
+   "name": {
+    "en": "Hashemite Kingdom of Hejaz",
+    "ko": "하심가의 헤자즈 왕국",
+    "zh": "哈希姆汉志王国",
+    "ja": "ハーシム家のヒジャーズ王国"
+   },
+   "summary": {
+    "en": "Sharif Hussein ibn Ali of Mecca launched the Arab Revolt against the Ottomans in 1916 with British backing and proclaimed himself King of the Hejaz. His kingdom, centered on Mecca, Medina and Jeddah, lost British support after the war and was conquered by Ibn Saud in 1924–1925.",
+    "ko": "메카의 샤리프 후세인 이븐 알리는 1916년 영국의 지원 아래 오스만에 맞선 아랍 반란을 일으키고 헤자즈 왕을 자칭했다. 메카·메디나·제다를 중심으로 한 그의 왕국은 전후 영국의 지지를 잃었고 1924~1925년 이븐 사우드에게 정복되었다.",
+    "zh": "麦加谢里夫侯赛因·本·阿里于1916年在英国支持下发动反抗奥斯曼的阿拉伯起义，并自立为汉志国王。他以麦加、麦地那和吉达为中心的王国战后失去英国支持，于1924至1925年被伊本·沙特征服。",
+    "ja": "メッカのシャリーフ、フサイン・イブン・アリーは1916年にイギリスの支援を受けてオスマン帝国に対するアラブ反乱を起こし、ヒジャーズ王を名乗った。メッカ・メディナ・ジッダを中心とする王国は戦後イギリスの支持を失い、1924〜1925年にイブン・サウードに征服された。"
+   }
+  },
+  {
+   "from": 1926,
+   "to": 1932,
+   "kind": "state",
+   "qid": "Q1756546",
+   "polity": "Kingdom of Hejaz and Nejd",
+   "name": {
+    "en": "Kingdom of Hejaz and Nejd",
+    "ko": "헤자즈·나지드 왕국",
+    "zh": "汉志和内志王国",
+    "ja": "ヒジャーズ・ナジュド王国"
+   },
+   "summary": {
+    "en": "In January 1926 Abdulaziz was proclaimed King of the Hejaz, and in 1927 also King of Najd, ruling the two as a dual kingdom. Britain recognized its independence in the Treaty of Jeddah (1927). He suppressed the Ikhwan revolt in 1929–1930 and merged the realms as Saudi Arabia in 1932.",
+    "ko": "1926년 1월 압둘아지즈는 헤자즈 왕으로 추대되었고 1927년 나지드 왕도 겸하여 두 지역을 이중 왕국으로 다스렸다. 영국은 1927년 제다 조약으로 그 독립을 인정했다. 그는 1929~1930년 이흐완의 반란을 진압하고 1932년 두 왕국을 사우디아라비아로 통합했다.",
+    "zh": "1926年1月阿卜杜勒阿齐兹被拥立为汉志国王，1927年又称纳季德国王，以二元王国形式统治两地。英国在1927年的《吉达条约》中承认其独立。他于1929至1930年镇压伊赫万叛乱，并于1932年将两国合并为沙特阿拉伯。",
+    "ja": "1926年1月、アブドゥルアズィーズはヒジャーズ王に推戴され、1927年にはナジュド王も称して両地域を二重王国として治めた。イギリスは1927年のジッダ条約でその独立を承認した。彼は1929〜1930年にイフワーンの反乱を鎮圧し、1932年に両王国をサウジアラビアとして統合した。"
+   }
+  },
+  {
+   "from": 1932,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q851",
+   "polity": "Kingdom of Saudi Arabia",
+   "name": {
+    "en": "Kingdom of Saudi Arabia",
+    "ko": "사우디아라비아 왕국",
+    "zh": "沙特阿拉伯王国",
+    "ja": "サウジアラビア王国"
+   },
+   "summary": {
+    "en": "Proclaimed in 1932, the kingdom was transformed by the discovery of oil in 1938 into one of the world's largest petroleum exporters and a leading power in the Arab and Muslim worlds. An absolute monarchy ruled by the sons and now grandsons of Abdulaziz, it hosts the holy cities of Mecca and Medina. Since 2016 the Vision 2030 program has pursued economic diversification and social change.",
+    "ko": "1932년 선포된 이 왕국은 1938년 석유 발견으로 세계 최대 석유 수출국 중 하나이자 아랍·이슬람 세계의 주요 강국으로 변모했다. 압둘아지즈의 아들들과 이제는 손자 세대가 통치하는 절대 군주국으로, 성지 메카와 메디나를 품고 있다. 2016년 이후 '비전 2030'을 통해 경제 다변화와 사회 변화를 추진하고 있다.",
+    "zh": "该王国于1932年宣告成立，1938年发现石油后一跃成为全球最大石油出口国之一和阿拉伯与伊斯兰世界的重要强国。它是由阿卜杜勒阿齐兹诸子及如今的孙辈统治的君主专制国家，拥有圣城麦加和麦地那。2016年以来，“2030愿景”推动经济多元化和社会变革。",
+    "ja": "1932年に成立した王国は、1938年の石油発見によって世界有数の石油輸出国、そしてアラブ・イスラーム世界の主要国へと変貌した。アブドゥルアズィーズの息子たち、現在は孫の世代が治める絶対君主制国家で、聖地メッカとメディナを擁する。2016年以降は「ビジョン2030」のもとで経済の多角化と社会変革を進めている。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Tarut Island and the Dilmun trade",
+    "ko": "타루트섬과 딜문 교역",
+    "zh": "塔鲁特岛与迪尔蒙贸易",
+    "ja": "タールート島とディルムン交易"
+   },
+   "description": {
+    "en": "By around 3000 BC Tarut Island on the Gulf coast was a settled site linked to Mesopotamian trade, as finds of pottery and carved chlorite vessels show. Eastern Arabia formed part of the wider world of Dilmun, the trading land named in Sumerian texts. The coast served as a bridge between Mesopotamia, the Gulf and the Indus.",
+    "ko": "기원전 3000년경 걸프 연안의 타루트섬은 메소포타미아 교역과 연결된 정착지였으며, 토기와 녹니석 조각 용기 등 출토품이 이를 보여 준다. 동부 아라비아는 수메르 문헌에 나오는 교역의 땅 딜문 세계의 일부였다. 이 연안은 메소포타미아·걸프·인더스를 잇는 가교 역할을 했다.",
+    "zh": "约公元前3000年，海湾沿岸的塔鲁特岛已是与美索不达米亚贸易相连的定居点，出土的陶器和雕刻绿泥石器皿可资证明。东阿拉伯属于苏美尔文献中所称贸易之地迪尔蒙的广大世界。这一海岸是连接美索不达米亚、海湾与印度河流域的桥梁。",
+    "ja": "前3000年頃、湾岸のタールート島はメソポタミア交易と結びついた定住地であり、土器や彫刻された緑泥石製容器の出土がそれを示す。東アラビアはシュメール文書にいう交易の地ディルムンの世界の一部だった。この沿岸はメソポタミア、湾岸、インダスを結ぶ架け橋となった。"
+   }
+  },
+  {
+   "year": -2500,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Rock art of Jubbah and Shuwaymis",
+    "ko": "주바와 슈와이미스의 암각화",
+    "zh": "朱拜与舒韦米斯岩画",
+    "ja": "ジュッバとシュワイミスの岩絵"
+   },
+   "description": {
+    "en": "Over thousands of years, people in the Ha'il region carved and pecked images of humans, cattle, ibex and later camels into sandstone outcrops at Jubbah and Shuwaymis. The engravings record the shift from a greener landscape to a desert pastoral economy. The sites were inscribed as a UNESCO World Heritage Site in 2015.",
+    "ko": "수천 년에 걸쳐 하일 지역 사람들은 주바와 슈와이미스의 사암 노두에 사람·소·아이벡스, 후대에는 낙타의 형상을 새겼다. 이 암각화는 푸른 초원이 사막의 목축 경제로 바뀌어 가는 과정을 기록하고 있다. 이 유적들은 2015년 유네스코 세계유산으로 등재되었다.",
+    "zh": "数千年间，哈伊勒地区的人们在朱拜和舒韦米斯的砂岩露头上刻凿人物、牛、北山羊以及后来的骆驼形象。这些岩刻记录了从绿意盎然的景观到沙漠游牧经济的转变。2015年，这些遗址被列入联合国教科文组织世界遗产名录。",
+    "ja": "数千年にわたり、ハーイル地方の人々はジュッバとシュワイミスの砂岩の露頭に人間・牛・アイベックス、のちにはラクダの姿を刻んだ。これらの岩刻画は緑豊かな景観から砂漠の牧畜経済への移り変わりを記録している。2015年にユネスコ世界遺産に登録された。"
+   }
+  },
+  {
+   "year": -1200,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Camel caravans open the incense road",
+    "ko": "낙타 대상과 향료길의 개통",
+    "zh": "骆驼商队开辟香料之路",
+    "ja": "ラクダ隊商と香料の道"
+   },
+   "description": {
+    "en": "The domestication of the dromedary camel, widespread by the late 2nd millennium BC, made long-distance desert travel possible. Caravans began carrying frankincense and myrrh from South Arabia north through the Hejaz oases to the Levant and Mesopotamia. This trade shaped the oasis towns of western Arabia for over a thousand years.",
+    "ko": "기원전 2천년기 후반에 널리 퍼진 단봉낙타의 가축화로 사막을 가로지르는 장거리 이동이 가능해졌다. 대상들은 남아라비아의 유향과 몰약을 헤자즈의 오아시스를 거쳐 레반트와 메소포타미아로 실어 나르기 시작했다. 이 교역은 천 년 넘게 서부 아라비아 오아시스 도시들의 성격을 규정했다.",
+    "zh": "单峰骆驼的驯化在公元前2千纪后期已十分普遍，使穿越沙漠的长途旅行成为可能。商队开始把南阿拉伯的乳香和没药经汉志诸绿洲向北运往黎凡特和美索不达米亚。这一贸易塑造了阿拉伯西部绿洲城镇一千多年的面貌。",
+    "ja": "前2千年紀後半までに広まったヒトコブラクダの家畜化により、砂漠を越える長距離移動が可能になった。隊商は南アラビアの乳香と没薬をヒジャーズのオアシスを経てレヴァントやメソポタミアへ運び始めた。この交易は千年以上にわたり西アラビアのオアシス都市のあり方を形づくった。"
+   }
+  },
+  {
+   "year": -690,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Assyria strikes Adummatu",
+    "ko": "아시리아의 아두마투 공격",
+    "zh": "亚述进攻阿杜马图",
+    "ja": "アッシリアのアドゥマトゥ攻撃"
+   },
+   "description": {
+    "en": "Assyrian royal annals record that Sennacherib campaigned against the Arabs and took Adummatu, the oasis of Dumat al-Jandal, carrying off the images of its gods and its queen. The episode shows that the Qedarite Arabs of northern Arabia were by then a recognized power on the fringe of the Assyrian empire.",
+    "ko": "아시리아 왕실 연대기에 따르면 센나케리브는 아랍인을 원정하여 두마트 알잔달 오아시스인 아두마투를 점령하고 그곳의 신상과 여왕을 끌고 갔다. 이 사건은 북부 아라비아의 케다르 아랍인이 당시 아시리아 제국 변경의 인정받는 세력이었음을 보여 준다.",
+    "zh": "据亚述王室编年史记载，辛那赫里布征伐阿拉伯人，攻占杜马特·詹达勒绿洲阿杜马图，掳走当地神像与女王。这一事件表明，北阿拉伯的基达尔阿拉伯人当时已是亚述帝国边缘公认的一股势力。",
+    "ja": "アッシリア王の年代記によると、センナケリブはアラブに遠征し、ドゥーマト・アル＝ジャンダルのオアシスであるアドゥマトゥを攻略して、その神像と女王を連れ去った。この出来事は、北アラビアのケダル族のアラブが当時アッシリア帝国の辺境で認められた勢力だったことを示す。"
+   }
+  },
+  {
+   "year": -552,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Nabonidus moves to Tayma",
+    "ko": "나보니두스의 타이마 체류",
+    "zh": "那波尼德移居泰马",
+    "ja": "ナボニドゥスのタイマー滞在"
+   },
+   "description": {
+    "en": "The last Neo-Babylonian king, Nabonidus, conquered the oases of northwest Arabia and resided at Tayma for about ten years (c. 552–543 BC), leaving his son Belshazzar in Babylon. Babylonian inscriptions found at Tayma confirm his stay. His reasons are debated, possibly including control of the incense trade.",
+    "ko": "신바빌로니아의 마지막 왕 나보니두스는 북서 아라비아의 오아시스들을 정복하고 약 10년간(기원전 552~543년경) 타이마에 머물렀으며, 바빌론은 아들 벨사살에게 맡겼다. 타이마에서 발견된 바빌로니아 비문이 그의 체류를 뒷받침한다. 그 이유는 논란이 있으나 향료 무역 장악이 한 요인이었을 수 있다.",
+    "zh": "新巴比伦末代国王那波尼德征服阿拉伯西北部诸绿洲，在泰马居住约十年（约公元前552—前543年），把巴比伦交给儿子伯沙撒。泰马出土的巴比伦铭文证实了他的驻留。其动机仍有争议，可能包括控制香料贸易。",
+    "ja": "新バビロニア最後の王ナボニドゥスは北西アラビアのオアシスを征服し、約10年間（前552〜前543年頃）タイマーに住み、バビロンは息子ベルシャザルに任せた。タイマーで見つかったバビロニア碑文がその滞在を裏づける。理由には諸説あり、香料交易の掌握もその一つと考えられる。"
+   }
+  },
+  {
+   "year": -400,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Lihyanite kingdom at Dedan",
+    "ko": "데단의 리흐얀 왕국",
+    "zh": "德丹的利希扬王国",
+    "ja": "デダンのリフヤーン王国"
+   },
+   "description": {
+    "en": "At Dedan, the oasis of al-Ula, the kingdom of Lihyan flourished in the second half of the 1st millennium BC (its exact dates are debated). Its kings left inscriptions, temples and large statues, and the cliff tombs nearby—some with lion carvings—are among the region's most striking monuments. The kingdom profited from the caravan trade before Nabataean expansion.",
+    "ko": "알울라 오아시스인 데단에서는 기원전 1천년기 후반에 리흐얀 왕국이 번성했다(정확한 연대는 논란이 있다). 그 왕들은 비문·신전·대형 석상을 남겼으며, 인근의 절벽 무덤 중에는 사자 조각이 있는 것도 있어 지역에서 가장 인상적인 유적에 속한다. 왕국은 나바테아가 팽창하기 전까지 대상 무역으로 이익을 얻었다.",
+    "zh": "在欧拉绿洲德丹，利希扬王国兴盛于公元前1千纪后半期（确切年代尚有争议）。其国王留下了铭文、神庙和大型雕像，附近带有狮子浮雕的崖墓是该地区最引人注目的古迹之一。在纳巴泰人扩张之前，王国凭借商队贸易获利。",
+    "ja": "アル＝ウラーのオアシス、デダンでは前1千年紀後半にリフヤーン王国が栄えた（正確な年代には諸説ある）。王たちは碑文・神殿・巨大な石像を残し、近くの崖墓には獅子の浮彫をもつものもあり、地域で最も印象的な遺跡の一つである。王国はナバテアの拡大以前、隊商交易で利益を得た。"
+   }
+  },
+  {
+   "year": -24,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Aelius Gallus's expedition to Arabia",
+    "ko": "아일리우스 갈루스의 아라비아 원정",
+    "zh": "埃利乌斯·加卢斯远征阿拉伯",
+    "ja": "アエリウス・ガッルスのアラビア遠征"
+   },
+   "description": {
+    "en": "On the orders of Augustus, the prefect of Egypt Aelius Gallus led a Roman army, guided by the Nabataean minister Syllaeus, from the Red Sea port of Leuke Kome south through western Arabia toward the incense lands (c. 26–24 BC). Disease, heat and difficult terrain doomed the expedition, which retreated without lasting gains. It was Rome's only major attempt to conquer South Arabia.",
+    "ko": "아우구스투스의 명으로 이집트 총독 아일리우스 갈루스는 나바테아의 재상 실라이오스의 안내를 받아 홍해 항구 레우케 코메에서 서부 아라비아를 거쳐 향료 산지로 로마군을 이끌었다(기원전 26~24년경). 질병과 더위, 험한 지형 탓에 원정은 성과 없이 퇴각했다. 이는 로마가 남아라비아 정복을 시도한 유일한 대규모 원정이었다.",
+    "zh": "奉奥古斯都之命，埃及长官埃利乌斯·加卢斯在纳巴泰大臣叙拉埃乌斯的引导下，率罗马军队从红海港口琉克·科梅出发，经阿拉伯西部南下进军香料之乡（约公元前26—前24年）。疾病、酷暑与险恶地形使远征失败，未获任何持久成果而撤退。这是罗马征服南阿拉伯的唯一一次大规模尝试。",
+    "ja": "アウグストゥスの命により、エジプト長官アエリウス・ガッルスはナバテアの宰相シュライオスの案内で、紅海の港レウケ・コメから西アラビアを南下して香料の地へとローマ軍を率いた（前26〜前24年頃）。病気と暑さ、険しい地形により遠征は成果なく撤退した。これはローマが南アラビア征服を試みた唯一の大規模な遠征だった。"
+   }
+  },
+  {
+   "year": 50,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Nabataean city of Hegra flourishes",
+    "ko": "나바테아 도시 헤그라의 번영",
+    "zh": "纳巴泰古城黑格拉的繁荣",
+    "ja": "ナバテア人の都市ヘグラの繁栄"
+   },
+   "description": {
+    "en": "Hegra (Mada'in Salih), the Nabataeans' southern capital in the Hejaz, thrived on the incense trade, leaving over 100 monumental rock-cut tombs. It became Saudi Arabia's first UNESCO World Heritage site in 2008.",
+    "ko": "헤자즈 지방의 나바테아 왕국 남부 거점 헤그라(마다인 살리흐)는 향료 무역으로 번영하며 100기가 넘는 암굴 무덤을 남겼다. 2008년 사우디아라비아 최초의 유네스코 세계유산으로 등재되었다.",
+    "zh": "黑格拉（玛甸沙勒）是纳巴泰王国在汉志地区的南方重镇，因香料贸易而繁荣，留下百余座凿岩而成的宏伟墓葬。2008年成为沙特阿拉伯首处联合国教科文组织世界遗产。",
+    "ja": "ヒジャーズ地方のナバテア王国南部拠点ヘグラ（マダイン・サーレハ）は香料交易で栄え、100基を超える岩窟墓を残した。2008年にサウジアラビア初の世界遺産に登録された。"
+   }
+  },
+  {
+   "year": 106,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rome annexes the Nabataean kingdom",
+    "ko": "로마의 나바테아 왕국 병합",
+    "zh": "罗马吞并纳巴泰王国",
+    "ja": "ローマによるナバテア王国併合"
+   },
+   "description": {
+    "en": "Under Emperor Trajan, Rome annexed the Nabataean kingdom and organized it as the province of Arabia Petraea. Its southern reach included Hegra in the northern Hejaz, where a Latin inscription of the 170s records building work by Roman troops. The annexation ended Nabataean independence but the caravan towns lived on for a time under Roman rule.",
+    "ko": "트라야누스 황제 치하의 로마는 나바테아 왕국을 병합하여 아라비아 페트라이아 속주로 편성했다. 속주의 남쪽 끝은 북부 헤자즈의 헤그라에 이르렀으며, 170년대의 라틴어 비문은 로마군의 건설 공사를 기록하고 있다. 병합으로 나바테아의 독립은 끝났지만 대상 도시들은 한동안 로마 치하에서 존속했다.",
+    "zh": "在图拉真皇帝治下，罗马吞并纳巴泰王国，设立阿拉伯佩特拉行省。行省南端包括汉志北部的黑格拉，当地一方170年代的拉丁文铭文记录了罗马军队的建筑工程。吞并结束了纳巴泰的独立，但商队城镇在罗马统治下仍延续了一段时间。",
+    "ja": "トラヤヌス帝のローマはナバテア王国を併合し、属州アラビア・ペトラエアとした。その南端は北部ヒジャーズのヘグラに及び、170年代のラテン語碑文はローマ軍による建設工事を記録している。併合でナバテアの独立は終わったが、隊商都市はしばらくローマ支配下で存続した。"
+   }
+  },
+  {
+   "year": 267,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Epitaph of Raqush at Hegra",
+    "ko": "헤그라의 라쿠시 비문",
+    "zh": "黑格拉的拉库什墓志",
+    "ja": "ヘグラのラクーシュ墓碑"
+   },
+   "description": {
+    "en": "A tomb inscription at Hegra dated to 267 AD, written in a late Nabataean script for a woman named Raqush, is one of the key documents of the Arabic language's early history. Its script and language show the transition from Nabataean Aramaic writing toward the later Arabic alphabet. Northwest Arabia was thus a cradle of Arabic writing.",
+    "ko": "서기 267년으로 연대가 표기된 헤그라의 무덤 비문은 라쿠시라는 여성을 위해 후기 나바테아 문자로 쓰였으며, 아랍어 초기 역사의 핵심 자료 중 하나다. 그 문자와 언어는 나바테아 아람 문자에서 후대의 아랍 문자로 넘어가는 과도기를 보여 준다. 이처럼 북서 아라비아는 아랍 문자의 요람이었다.",
+    "zh": "黑格拉有一方纪年为公元267年的墓志，以晚期纳巴泰文字为一位名叫拉库什的女子而写，是阿拉伯语早期历史的关键文献之一。其文字与语言显示了从纳巴泰阿拉米文字向后来阿拉伯字母过渡的过程。阿拉伯西北部因此成为阿拉伯文字的摇篮。",
+    "ja": "ヘグラにある267年の年紀をもつ墓碑は、ラクーシュという女性のために後期ナバテア文字で書かれ、アラビア語初期史の重要資料の一つである。その文字と言語は、ナバテア・アラム文字から後のアラビア文字への移行を示している。北西アラビアはこうしてアラビア文字の揺籃となった。"
+   }
+  },
+  {
+   "year": 328,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Namara inscription of Imru' al-Qays",
+    "ko": "이므루 알카이스의 나마라 비문",
+    "zh": "伊姆鲁·盖斯的纳马拉铭文",
+    "ja": "イムル・アル＝カイスのナマーラ碑文"
+   },
+   "description": {
+    "en": "An epitaph found at Namara in southern Syria, dated 328 AD, commemorates Imru' al-Qays ibn Amr as 'king of all the Arabs' and claims campaigns reaching as far as Najran in southwestern Arabia. Written in early Arabic in Nabataean script, it reflects how Arab rulers allied with the great empires projected power across the peninsula.",
+    "ko": "시리아 남부 나마라에서 발견된 서기 328년의 묘비는 이므루 알카이스 이븐 아므르를 '모든 아랍인의 왕'으로 기리며, 그의 원정이 아라비아 남서부의 나지란까지 이르렀다고 주장한다. 나바테아 문자로 쓴 초기 아랍어 비문으로, 대제국과 동맹한 아랍 지배자들이 반도 전역에 세력을 떨쳤음을 보여 준다.",
+    "zh": "在叙利亚南部纳马拉发现的一方纪年为328年的墓志，称颂伊姆鲁·盖斯·本·阿姆尔为“全体阿拉伯人之王”，并称其征战远至阿拉伯西南部的纳季兰。该铭文以纳巴泰字母书写早期阿拉伯语，反映了与大帝国结盟的阿拉伯统治者如何把势力伸向整个半岛。",
+    "ja": "南シリアのナマーラで見つかった328年の墓碑は、イムル・アル＝カイス・イブン・アムルを「全アラブの王」とたたえ、その遠征がアラビア南西部のナジュランにまで及んだと記す。ナバテア文字で書かれた初期アラビア語の碑文で、大帝国と結んだアラブの支配者が半島全域に力を及ぼしたことを示している。"
+   }
+  },
+  {
+   "year": 440,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Himyarite inscription at Ma'sal al-Jumh",
+    "ko": "마살 알줌흐의 힘야르 비문",
+    "zh": "马萨勒·朱姆赫的希木叶尔铭文",
+    "ja": "マアサル・アル＝ジュムフのヒムヤル碑文"
+   },
+   "description": {
+    "en": "Around the mid-5th century the Himyarite king Abikarib As'ad and his son left a rock inscription at Ma'sal al-Jumh, west of present-day Riyadh, recording a campaign into the land of Ma'add in central Arabia. It is evidence that Himyar's kings claimed authority over the tribes of Najd, which they exercised through Kindite clients.",
+    "ko": "5세기 중엽 무렵 힘야르 왕 아비카리브 아스아드와 그의 아들은 오늘날 리야드 서쪽의 마살 알줌흐에 바위 비문을 남겨 중부 아라비아 마아드 땅으로의 원정을 기록했다. 이는 힘야르 왕들이 나지드 부족들에 대한 권위를 주장했고 킨다 종속 세력을 통해 이를 행사했음을 보여 주는 증거다.",
+    "zh": "约5世纪中叶，希木叶尔国王阿比卡里卜·阿斯阿德及其子在今利雅得以西的马萨勒·朱姆赫留下摩崖铭文，记载其远征阿拉伯中部马阿德之地。这证明希木叶尔诸王宣称对纳季德各部落拥有权威，并通过金达附庸来行使这一权威。",
+    "ja": "5世紀半ば頃、ヒムヤル王アビーカリブ・アスアドとその息子は現在のリヤド西方のマアサル・アル＝ジュムフに岩壁碑文を残し、中部アラビアのマアッドの地への遠征を記録した。これはヒムヤルの王たちがナジュドの部族への権威を主張し、キンダの従属者を通じてそれを行使していたことを示す証拠である。"
+   }
+  },
+  {
+   "year": 523,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Persecution of the Christians of Najran",
+    "ko": "나지란 그리스도교도 박해",
+    "zh": "纳季兰基督徒遭迫害",
+    "ja": "ナジュランのキリスト教徒迫害"
+   },
+   "description": {
+    "en": "The Himyarite king Yusuf As'ar Yath'ar (Dhu Nuwas), a convert to Judaism, attacked the Christian community of Najran around 523, killing many of its members. The massacre provoked an intervention by Christian Aksum (Ethiopia), backed by Byzantium, which overthrew him around 525. Najran's martyrs became famous in Christian tradition, and many commentators link the Qur'an's 'People of the Trench' to the event.",
+    "ko": "유대교로 개종한 힘야르 왕 유수프 아스아르 야스아르(두 누와스)는 523년경 나지란의 그리스도교 공동체를 공격해 많은 신자를 죽였다. 이 학살은 비잔티움의 지원을 받은 그리스도교 국가 악숨(에티오피아)의 개입을 불러, 그는 525년경 몰락했다. 나지란의 순교자들은 그리스도교 전승에서 유명해졌으며, 많은 주석가는 꾸란의 '구덩이의 사람들'을 이 사건과 연결한다.",
+    "zh": "皈依犹太教的希木叶尔国王优素福·阿斯阿尔·亚斯阿尔（杜·努瓦斯）约于523年攻击纳季兰的基督徒社群，杀害多人。这场屠杀引发了拜占庭支持的基督教国家阿克苏姆（埃塞俄比亚）的干预，他于约525年被推翻。纳季兰殉道者在基督教传统中广为人知，许多注释家将《古兰经》中的“坑主”与此事件相联系。",
+    "ja": "ユダヤ教に改宗したヒムヤル王ユースフ・アスアル・ヤスアル（ズー・ヌワース）は523年頃ナジュランのキリスト教共同体を攻撃し、多くの信徒を殺した。この虐殺はビザンツが後押しするキリスト教国アクスム（エチオピア）の介入を招き、彼は525年頃に倒された。ナジュランの殉教者はキリスト教の伝承で有名になり、多くの注釈者はクルアーンの「溝の民」をこの事件と結びつけている。"
+   }
+  },
+  {
+   "year": 552,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Abraha's campaign into central Arabia",
+    "ko": "아브라하의 중부 아라비아 원정",
+    "zh": "阿布拉哈远征阿拉伯中部",
+    "ja": "アブラハの中部アラビア遠征"
+   },
+   "description": {
+    "en": "Abraha, the Aksumite-born ruler of Himyar, left an inscription at Murayghan, north of Najran, recording a campaign into central Arabia around 552 against tribes of the Ma'add. Islamic tradition remembers an expedition by Abraha against Mecca with an elephant in the 'Year of the Elephant', traditionally c. 570; the relationship between the two is debated by historians.",
+    "ko": "악숨 출신으로 힘야르를 다스린 아브라하는 나지란 북쪽 무라이간에 비문을 남겨, 552년경 마아드 부족들을 상대로 중부 아라비아에 원정했음을 기록했다. 이슬람 전승은 전통적으로 570년경으로 보는 '코끼리의 해'에 아브라하가 코끼리를 앞세워 메카를 공격했다고 전하는데, 두 사건의 관계는 역사가들 사이에 논란이 있다.",
+    "zh": "出身阿克苏姆的希木叶尔统治者阿布拉哈在纳季兰以北的穆赖甘留下铭文，记载他约于552年远征阿拉伯中部、讨伐马阿德诸部。伊斯兰传统称阿布拉哈在“象年”（传统上约为570年）率象军进攻麦加；两者之间的关系在史学界尚有争议。",
+    "ja": "アクスム出身でヒムヤルを支配したアブラハは、ナジュラン北方のムライガーンに碑文を残し、552年頃にマアッド諸部族を相手に中部アラビアへ遠征したことを記録した。イスラームの伝承は、伝統的に570年頃とされる「象の年」にアブラハが象を伴ってメッカを攻めたと伝えるが、両者の関係については歴史家の間で議論がある。"
+   }
+  },
+  {
+   "year": 570,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Birth of the Prophet Muhammad in Mecca",
+    "ko": "예언자 무함마드, 메카에서 탄생",
+    "zh": "先知穆罕默德诞生于麦加",
+    "ja": "預言者ムハンマド、メッカに誕生"
+   },
+   "description": {
+    "en": "Muhammad was born in Mecca, a caravan and pilgrimage city in the Hejaz. His preaching of Islam from around 610 transformed Arabia and made Mecca the spiritual center of the Muslim world.",
+    "ko": "이슬람의 예언자 무함마드가 헤자즈의 대상 무역과 순례의 도시 메카에서 태어났다. 610년경 시작된 그의 설교는 아라비아를 변모시켰고, 메카는 이슬람 세계의 정신적 중심지가 되었다.",
+    "zh": "伊斯兰教先知穆罕默德诞生于汉志地区的商旅与朝觐之城麦加。约610年起他开始传播伊斯兰教，深刻改变了阿拉伯半岛，麦加也成为伊斯兰世界的精神中心。",
+    "ja": "イスラームの預言者ムハンマドが、ヒジャーズの隊商・巡礼都市メッカに生まれた。610年頃に始まる彼の布教はアラビア半島を一変させ、メッカはイスラーム世界の精神的中心となった。"
+   }
+  },
+  {
+   "year": 610,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "First revelation on Mount Hira",
+    "ko": "히라산에서의 첫 계시",
+    "zh": "希拉山的首次启示",
+    "ja": "ヒラー山での最初の啓示"
+   },
+   "description": {
+    "en": "According to Islamic tradition, around 610 Muhammad, then about forty, received his first revelation from the angel Gabriel while meditating in a cave on Mount Hira near Mecca. He began preaching monotheism publicly a few years later, attracting followers but also hostility from Mecca's Quraysh elite.",
+    "ko": "이슬람 전승에 따르면 610년경 마흔 살 무렵의 무함마드는 메카 근처 히라산의 동굴에서 명상하던 중 천사 가브리엘로부터 첫 계시를 받았다. 몇 년 뒤 그는 공개적으로 유일신 신앙을 전파하기 시작해 추종자를 얻었으나 메카 쿠라이시 지배층의 적대도 샀다.",
+    "zh": "根据伊斯兰传统，约610年，时年约四十岁的穆罕默德在麦加附近希拉山的山洞中冥想时，从天使吉卜利勒处接受了首次启示。数年后他开始公开宣扬一神信仰，赢得追随者，也招致麦加古莱什权贵的敌视。",
+    "ja": "イスラームの伝承によれば、610年頃、40歳ほどのムハンマドはメッカ近郊ヒラー山の洞窟で瞑想中に天使ジブリールから最初の啓示を受けた。数年後に唯一神信仰を公然と説き始め、信奉者を得る一方でメッカのクライシュ族支配層の敵意も招いた。"
+   }
+  },
+  {
+   "year": 617,
+   "qid": "Q2718136",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Bu'ath in Yathrib",
+    "ko": "야스리브의 부아스 전투",
+    "zh": "叶斯里卜的布阿斯之战",
+    "ja": "ヤスリブのブアースの戦い"
+   },
+   "description": {
+    "en": "The rival Arab tribes of Yathrib, the Aws and the Khazraj, together with allied Jewish clans, fought a bloody battle at Bu'ath around 617. The exhausting feud left the oasis without a strong leader and helped prepare the way for inviting Muhammad as an arbiter, a key background to the Hijra.",
+    "ko": "야스리브의 경쟁 아랍 부족 아우스와 하즈라즈는 동맹 유대인 씨족들과 함께 617년경 부아스에서 격전을 벌였다. 소모적인 분쟁으로 오아시스에는 강력한 지도자가 없어졌고, 이는 무함마드를 중재자로 초청하는 길을 열어 헤지라의 중요한 배경이 되었다.",
+    "zh": "叶斯里卜两大敌对阿拉伯部落奥斯与哈兹拉吉连同各自结盟的犹太氏族，约于617年在布阿斯激战。旷日持久的争斗使绿洲缺乏有力的领袖，为邀请穆罕默德担任仲裁者铺平道路，成为迁徙的重要背景。",
+    "ja": "ヤスリブの対立するアラブ部族アウスとハズラジは、同盟するユダヤ教徒の氏族とともに617年頃ブアースで激戦を交えた。消耗的な抗争でオアシスには強い指導者がいなくなり、ムハンマドを調停者として招く道が開かれ、ヒジュラの重要な背景となった。"
+   }
+  },
+  {
+   "year": 622,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "The Hijra: Muhammad's migration to Medina",
+    "ko": "헤지라: 무함마드의 메디나 이주",
+    "zh": "希吉拉：穆罕默德迁往麦地那",
+    "ja": "ヒジュラ（聖遷）――ムハンマドのメディナ移住"
+   },
+   "description": {
+    "en": "Facing persecution in Mecca, Muhammad and his followers migrated to Medina, where the first Muslim community was established. The event marks year one of the Islamic calendar.",
+    "ko": "메카에서 박해받던 무함마드와 추종자들이 메디나로 이주해 최초의 이슬람 공동체를 세웠다. 이 사건은 이슬람력 원년의 기점이 되었다.",
+    "zh": "穆罕默德及其追随者因在麦加受迫害而迁往麦地那，建立了第一个穆斯林社群。这一事件被定为伊斯兰历的元年。",
+    "ja": "メッカで迫害を受けたムハンマドと信徒たちはメディナへ移住し、最初のイスラーム共同体を築いた。この出来事はイスラーム暦の紀元とされる。"
+   }
+  },
+  {
+   "year": 624,
+   "qid": "Q486124",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of Badr",
+    "ko": "바드르 전투",
+    "zh": "白德尔战役",
+    "ja": "バドルの戦い"
+   },
+   "description": {
+    "en": "In March 624 a small Muslim force from Medina defeated a larger Meccan army at the wells of Badr. The unexpected victory strengthened Muhammad's position in Medina and among the tribes, and it is remembered in Islamic tradition as a decisive sign of divine favor.",
+    "ko": "624년 3월 메디나의 소규모 무슬림 군대가 바드르의 우물가에서 더 큰 메카 군대를 격파했다. 예상치 못한 이 승리로 메디나와 여러 부족 사이에서 무함마드의 입지가 강화되었으며, 이슬람 전승에서는 신의 은총을 보여 준 결정적 징표로 기억된다.",
+    "zh": "624年3月，来自麦地那的一支小规模穆斯林军队在白德尔井边击败了人数更多的麦加军队。这场出人意料的胜利巩固了穆罕默德在麦地那及各部落中的地位，在伊斯兰传统中被视为真主眷顾的决定性标志。",
+    "ja": "624年3月、メディナの小規模なムスリム軍がバドルの泉でより大きなメッカ軍を破った。予想外の勝利によりメディナと諸部族の間でムハンマドの立場は強まり、イスラームの伝承では神の恩寵を示す決定的な徴として記憶されている。"
+   }
+  },
+  {
+   "year": 625,
+   "qid": "Q488278",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Uhud",
+    "ko": "우후드 전투",
+    "zh": "伍候德战役",
+    "ja": "ウフドの戦い"
+   },
+   "description": {
+    "en": "In 625 the Meccans took revenge for Badr at Mount Uhud just north of Medina. After early success, Muslim archers left their post and Meccan cavalry under Khalid ibn al-Walid turned the battle; Muhammad was wounded and his uncle Hamza killed. The Meccans, however, did not press on to take Medina.",
+    "ko": "625년 메카군은 메디나 바로 북쪽 우후드산에서 바드르의 패배를 설욕했다. 초반 우세에도 무슬림 궁수들이 위치를 이탈하자 할리드 이븐 알왈리드의 메카 기병이 전세를 뒤집었고, 무함마드는 부상당하고 숙부 함자가 전사했다. 그러나 메카군은 메디나 점령까지 나아가지 않았다.",
+    "zh": "625年，麦加人在麦地那北面的伍候德山为白德尔之败复仇。穆斯林初战占优，但弓箭手擅离阵地，哈立德·本·瓦利德率领的麦加骑兵扭转战局；穆罕默德负伤，其叔父哈姆扎阵亡。不过麦加人并未乘胜攻取麦地那。",
+    "ja": "625年、メッカ軍はメディナのすぐ北のウフド山でバドルの雪辱を果たした。序盤はムスリムが優勢だったが、弓兵が持ち場を離れたためハーリド・イブン・アル＝ワリード率いるメッカ騎兵が戦局を覆し、ムハンマドは負傷、叔父ハムザが戦死した。しかしメッカ軍はメディナ攻略には進まなかった。"
+   }
+  },
+  {
+   "year": 627,
+   "qid": "Q826083",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of the Trench",
+    "ko": "참호 전투(한다크 전투)",
+    "zh": "壕沟之战",
+    "ja": "塹壕の戦い（ハンダクの戦い）"
+   },
+   "description": {
+    "en": "A large coalition of Meccans and allied tribes besieged Medina in 627. The Muslims dug a trench across the open northern approach, a tactic new to Arabian warfare, and the siege collapsed after several weeks. The failure marked the end of Mecca's ability to destroy the Muslim community.",
+    "ko": "627년 메카와 동맹 부족들의 대연합군이 메디나를 포위했다. 무슬림들은 트인 북쪽 접근로에 아라비아 전쟁에서는 생소한 전술인 참호를 팠고, 포위는 몇 주 만에 무너졌다. 이 실패로 메카는 무슬림 공동체를 무너뜨릴 능력을 잃었다.",
+    "zh": "627年，麦加与盟友部落组成的大联军围攻麦地那。穆斯林在开阔的北面通道挖掘壕沟——这在阿拉伯战争中是新战术——数周后围城瓦解。这次失败标志着麦加再也无力摧毁穆斯林社群。",
+    "ja": "627年、メッカと同盟部族の大連合軍がメディナを包囲した。ムスリムは開けた北側の進入路に、アラビアの戦争では新しい戦術である塹壕を掘り、包囲は数週間で崩れた。この失敗により、メッカはムスリム共同体を滅ぼす力を失った。"
+   }
+  },
+  {
+   "year": 628,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Hudaybiyyah and conquest of Khaybar",
+    "ko": "후다이비야 조약과 하이바르 정복",
+    "zh": "侯代比亚和约与征服海拜尔",
+    "ja": "フダイビーヤの和約とハイバル征服"
+   },
+   "description": {
+    "en": "In 628 Muhammad concluded a ten-year truce with the Quraysh at Hudaybiyyah near Mecca, allowing Muslims to make the pilgrimage the following year. Shortly afterward the Muslims conquered the fortified Jewish oasis of Khaybar north of Medina, whose inhabitants were allowed to remain as cultivators paying half their harvest.",
+    "ko": "628년 무함마드는 메카 근처 후다이비야에서 쿠라이시와 10년 휴전을 맺어 이듬해 무슬림의 순례를 허용받았다. 직후 무슬림은 메디나 북쪽의 요새화된 유대인 오아시스 하이바르를 정복했으며, 주민들은 수확의 절반을 바치는 조건으로 경작민으로 남도록 허락받았다.",
+    "zh": "628年，穆罕默德在麦加附近的侯代比亚与古莱什订立十年休战协定，穆斯林获准于次年朝觐。不久之后，穆斯林征服了麦地那以北设防的犹太绿洲海拜尔，当地居民获准留下耕种，并缴纳一半收成。",
+    "ja": "628年、ムハンマドはメッカ近郊のフダイビーヤでクライシュ族と10年の休戦を結び、翌年のムスリムの巡礼が認められた。その直後、ムスリムはメディナ北方の要塞化したユダヤ教徒のオアシス、ハイバルを征服し、住民は収穫の半分を納める条件で耕作者として残ることを許された。"
+   }
+  },
+  {
+   "year": 630,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Conquest of Mecca",
+    "ko": "메카 정복",
+    "zh": "征服麦加",
+    "ja": "メッカ征服"
+   },
+   "description": {
+    "en": "After the Quraysh's allies broke the Hudaybiyyah truce, Muhammad marched on Mecca in January 630 with a large army, and the city surrendered with little fighting. The idols of the Kaaba were destroyed and the sanctuary rededicated to the worship of one God. Most Meccans, including the former opposition leaders, accepted Islam.",
+    "ko": "쿠라이시의 동맹 세력이 후다이비야 휴전을 깨뜨리자 무함마드는 630년 1월 대군을 이끌고 메카로 진군했고, 도시는 거의 싸움 없이 항복했다. 카바의 우상들은 파괴되었고 성소는 유일신 숭배를 위해 다시 봉헌되었다. 옛 반대파 지도자를 포함한 대부분의 메카인이 이슬람을 받아들였다.",
+    "zh": "古莱什的盟友破坏侯代比亚休战后，穆罕默德于630年1月率大军进军麦加，城市几乎未经战斗便投降。克尔白的偶像被捣毁，圣所重新献给独一真主的崇拜。包括昔日反对派首领在内的大多数麦加人皈依了伊斯兰教。",
+    "ja": "クライシュ族の同盟者がフダイビーヤの休戦を破ると、ムハンマドは630年1月に大軍を率いてメッカへ進み、町はほとんど戦わずに降伏した。カアバの偶像は破壊され、聖域は唯一神の崇拝のために再び奉献された。かつての反対派指導者を含む大半のメッカ住民がイスラームを受け入れた。"
+   }
+  },
+  {
+   "year": 630,
+   "qid": "Q3087968",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Hunayn and siege of Ta'if",
+    "ko": "후나인 전투와 타이프 포위",
+    "zh": "侯奈因之战与塔伊夫之围",
+    "ja": "フナインの戦いとターイフ包囲"
+   },
+   "description": {
+    "en": "Soon after taking Mecca, the Muslims defeated the Hawazin confederation at Hunayn and then besieged the fortified mountain town of Ta'if, held by the Thaqif. The siege was lifted after a few weeks, but the isolated Thaqif submitted and accepted Islam the following year.",
+    "ko": "메카를 점령한 직후 무슬림은 후나인에서 하와진 부족 연합을 격파하고, 사키프 부족이 지키던 요새화된 산악 도시 타이프를 포위했다. 포위는 몇 주 만에 풀렸지만, 고립된 사키프 부족은 이듬해 항복하고 이슬람을 받아들였다.",
+    "zh": "攻占麦加后不久，穆斯林在侯奈因击败哈瓦津部落联盟，随后围攻由萨基夫部落据守的山城塔伊夫。数周后解围，但陷入孤立的萨基夫部落于次年归顺并皈依伊斯兰教。",
+    "ja": "メッカ攻略後まもなく、ムスリムはフナインでハワーズィン部族連合を破り、サキーフ族が守る要塞化した山の町ターイフを包囲した。包囲は数週間で解かれたが、孤立したサキーフ族は翌年降伏してイスラームを受け入れた。"
+   }
+  },
+  {
+   "year": 632,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Arabia united under Islam",
+    "ko": "이슬람 아래 통일된 아라비아",
+    "zh": "阿拉伯半岛在伊斯兰旗帜下统一",
+    "ja": "イスラームによるアラビア半島の統一"
+   },
+   "description": {
+    "en": "By Muhammad's death in 632, most of the Arabian Peninsula had accepted Islam and been drawn into a single political community, from which the caliphates soon expanded far beyond Arabia.",
+    "ko": "632년 무함마드가 사망할 무렵 아라비아 반도 대부분이 이슬람을 받아들여 하나의 정치 공동체로 통합되었다. 이후 칼리파 국가들은 반도를 넘어 급속히 팽창했다.",
+    "zh": "至632年穆罕默德去世时，阿拉伯半岛大部分地区已皈依伊斯兰教并整合为统一的政治共同体，此后哈里发国家迅速向半岛之外扩张。",
+    "ja": "632年のムハンマド没時までに、アラビア半島の大部分はイスラームを受け入れ一つの政治共同体に統合された。その後カリフ政権は半島を越えて急速に拡大していく。"
+   }
+  },
+  {
+   "year": 632,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ridda wars begin",
+    "ko": "리다 전쟁의 시작",
+    "zh": "叛教战争爆发",
+    "ja": "リッダ戦争の始まり"
+   },
+   "description": {
+    "en": "After Muhammad's death in June 632, many Arabian tribes refused to pay tribute to Medina, and rival prophets such as Musaylima in al-Yamama gained followings. The first caliph Abu Bakr sent armies across the peninsula, and Khalid ibn al-Walid defeated Musaylima at the bloody Battle of Yamama. By 633 Arabia was reunited under Medina.",
+    "ko": "632년 6월 무함마드가 사망하자 많은 아라비아 부족이 메디나에 대한 공납을 거부했고, 알야마마의 무사일리마 같은 경쟁 예언자들이 추종자를 모았다. 초대 칼리파 아부 바크르는 반도 전역에 군대를 보냈고, 할리드 이븐 알왈리드는 격렬한 야마마 전투에서 무사일리마를 격파했다. 633년까지 아라비아는 메디나 아래 재통일되었다.",
+    "zh": "632年6月穆罕默德去世后，许多阿拉伯部落拒绝向麦地那纳贡，叶麻麦的穆赛利麦等自称先知者也聚集了追随者。首任哈里发艾布·伯克尔派军遍及半岛，哈立德·本·瓦利德在惨烈的叶麻麦之战中击败穆赛利麦。到633年，阿拉伯在麦地那治下重新统一。",
+    "ja": "632年6月にムハンマドが没すると、多くのアラビアの部族がメディナへの貢納を拒み、ヤマーマのムサイリマなど対抗する預言者が支持者を集めた。初代カリフ、アブー・バクルは半島全域に軍を送り、ハーリド・イブン・アル＝ワリードは激しいヤマーマの戦いでムサイリマを破った。633年までにアラビアはメディナのもとで再統一された。"
+   }
+  },
+  {
+   "year": 634,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Umar becomes caliph; conquests launched from Medina",
+    "ko": "우마르의 칼리파 즉위와 메디나발 정복",
+    "zh": "欧麦尔继任哈里发，自麦地那发动征服",
+    "ja": "ウマルのカリフ就任とメディナからの征服"
+   },
+   "description": {
+    "en": "On Abu Bakr's death in 634, Umar ibn al-Khattab became caliph. Directing campaigns from Medina, he oversaw the conquest of Syria, Iraq, Egypt and much of Iran, and organized the new state with a register of soldiers' stipends and the Hijri calendar. He was assassinated in Medina in 644.",
+    "ko": "634년 아부 바크르가 사망하자 우마르 이븐 알하타브가 칼리파가 되었다. 그는 메디나에서 원정을 지휘하며 시리아·이라크·이집트와 이란 대부분의 정복을 이끌었고, 병사 봉급 명부와 히즈라력을 도입해 새 국가의 체제를 정비했다. 644년 메디나에서 암살되었다.",
+    "zh": "634年艾布·伯克尔去世，欧麦尔·本·赫塔卜继任哈里发。他坐镇麦地那指挥征战，主导了对叙利亚、伊拉克、埃及及伊朗大部的征服，并设立军饷名册、采用希吉来历来组织新国家。644年他在麦地那遇刺身亡。",
+    "ja": "634年にアブー・バクルが没すると、ウマル・イブン・アル＝ハッターブがカリフとなった。メディナから遠征を指揮してシリア・イラク・エジプト・イランの大部分の征服を導き、兵士の俸給台帳やヒジュラ暦を導入して新国家を整えた。644年にメディナで暗殺された。"
+   }
+  },
+  {
+   "year": 646,
+   "qid": "Q2267106",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Jeddah becomes Mecca's port",
+    "ko": "제다, 메카의 항구가 되다",
+    "zh": "吉达成为麦加的港口",
+    "ja": "ジッダがメッカの港となる"
+   },
+   "description": {
+    "en": "Caliph Uthman ibn Affan designated Jeddah on the Red Sea as the port of Mecca in the 640s, replacing the older harbor at al-Shu'ayba. Jeddah grew into the main gateway for pilgrims and trade arriving by sea, a role it has kept ever since.",
+    "ko": "칼리파 우스만 이븐 아판은 640년대에 기존의 슈아이바 항을 대신해 홍해의 제다를 메카의 항구로 지정했다. 제다는 바닷길로 오는 순례자와 교역의 주요 관문으로 성장했고, 그 역할은 오늘날까지 이어지고 있다.",
+    "zh": "640年代，哈里发奥斯曼·本·阿凡指定红海之滨的吉达取代旧港舒艾巴，作为麦加的港口。吉达由此发展为经海路而来的朝觐者与贸易的主要门户，并一直延续至今。",
+    "ja": "640年代、カリフのウスマーン・イブン・アッファーンは旧来のシュアイバ港に代えて紅海のジッダをメッカの港に定めた。ジッダは海路で訪れる巡礼者と交易の主要な玄関口となり、その役割は今日まで続いている。"
+   }
+  },
+  {
+   "year": 656,
+   "qid": "Q3625539",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Siege and killing of Caliph Uthman",
+    "ko": "칼리파 우스만의 포위와 피살",
+    "zh": "哈里发奥斯曼被围遇害",
+    "ja": "カリフ・ウスマーンの包囲と殺害"
+   },
+   "description": {
+    "en": "Discontent with Uthman's governors brought rebels from Egypt and Iraq to Medina, where they besieged the caliph in his house and killed him in June 656. The killing triggered the First Fitna, the Muslim community's first civil war. His successor Ali soon left for Iraq, and Medina never again served as the capital of the caliphate.",
+    "ko": "우스만의 총독들에 대한 불만으로 이집트와 이라크에서 온 반란자들이 메디나에서 칼리파의 집을 포위하고 656년 6월 그를 살해했다. 이 살해는 무슬림 공동체 최초의 내전인 제1차 피트나를 촉발했다. 후계자 알리는 곧 이라크로 떠났고, 메디나는 다시는 칼리파국의 수도가 되지 못했다.",
+    "zh": "由于对奥斯曼所任总督的不满，来自埃及和伊拉克的叛乱者到达麦地那，围困哈里发住宅，并于656年6月将其杀害。此事引发了穆斯林社群的第一次内战（第一次菲特纳）。继任者阿里不久即前往伊拉克，麦地那此后再未成为哈里发国的首都。",
+    "ja": "ウスマーンの総督たちへの不満からエジプトとイラクの反乱者がメディナに来て、カリフの家を包囲し、656年6月に彼を殺害した。この事件はムスリム共同体初の内乱である第一次フィトナを引き起こした。後継のアリーはまもなくイラクへ移り、メディナが再びカリフ国の首都となることはなかった。"
+   }
+  },
+  {
+   "year": 683,
+   "qid": "Q514382",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of al-Harra",
+    "ko": "하라 전투",
+    "zh": "哈拉之战",
+    "ja": "ハッラの戦い"
+   },
+   "description": {
+    "en": "When Medina rose against the Umayyad caliph Yazid I, a Syrian army defeated its defenders on the lava field (harra) east of the city in August 683 and the city was sacked. The event was long remembered with bitterness in Medina and in later Islamic historiography.",
+    "ko": "메디나가 우마이야 칼리파 야지드 1세에게 반기를 들자, 683년 8월 시리아 군대가 도시 동쪽 용암 지대(하라)에서 수비군을 격파하고 도시를 약탈했다. 이 사건은 메디나와 후대 이슬람 역사 서술에서 오랫동안 쓰라리게 기억되었다.",
+    "zh": "麦地那起兵反抗倭马亚哈里发叶齐德一世，683年8月，叙利亚军队在城东的熔岩原（哈拉）击败守军，并洗劫了这座城市。此事在麦地那和后世伊斯兰史学中长久被痛心地铭记。",
+    "ja": "メディナがウマイヤ朝カリフのヤズィード1世に反旗を翻すと、683年8月、シリア軍が町の東の溶岩原（ハッラ）で守備軍を破り、町を略奪した。この出来事はメディナと後世のイスラーム史叙述で長く苦々しく記憶された。"
+   }
+  },
+  {
+   "year": 683,
+   "qid": "Q3023525",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "First siege of Mecca and burning of the Kaaba",
+    "ko": "제1차 메카 포위와 카바 소실",
+    "zh": "第一次麦加之围与克尔白焚毁",
+    "ja": "第一次メッカ包囲とカアバ焼失"
+   },
+   "description": {
+    "en": "The Umayyad army then besieged Mecca, where Abd Allah ibn al-Zubayr had refused to recognize Yazid. During the siege the Kaaba caught fire and was badly damaged. The siege was lifted when news of Yazid's death arrived in late 683, and Ibn al-Zubayr proclaimed himself caliph and rebuilt the Kaaba.",
+    "ko": "우마이야 군대는 이어 압둘라 이븐 알주바이르가 야지드를 인정하지 않던 메카를 포위했다. 포위 중 카바에 불이 붙어 크게 손상되었다. 683년 말 야지드의 사망 소식이 전해지자 포위가 풀렸고, 이븐 알주바이르는 칼리파를 자칭하며 카바를 재건했다.",
+    "zh": "倭马亚军队随后围攻麦加，阿卜杜拉·本·祖拜尔在那里拒不承认叶齐德。围城期间克尔白起火，严重受损。683年底叶齐德的死讯传来，围城解除，伊本·祖拜尔自立为哈里发并重建克尔白。",
+    "ja": "ウマイヤ朝軍は続いて、アブドゥッラー・イブン・アッズバイルがヤズィードの承認を拒んでいたメッカを包囲した。包囲中にカアバが炎上し大きく損傷した。683年末にヤズィードの死の報が届いて包囲は解かれ、イブン・アッズバイルはカリフを称してカアバを再建した。"
+   }
+  },
+  {
+   "year": 692,
+   "qid": "Q17019401",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Al-Hajjaj takes Mecca",
+    "ko": "하자즈의 메카 점령",
+    "zh": "哈贾吉攻陷麦加",
+    "ja": "ハッジャージュのメッカ攻略"
+   },
+   "description": {
+    "en": "Caliph Abd al-Malik sent al-Hajjaj ibn Yusuf to besiege Mecca, which was bombarded with catapults for months. Ibn al-Zubayr was killed in 692, ending the Second Fitna and restoring Umayyad rule over Arabia. The Kaaba was afterwards rebuilt in its earlier form.",
+    "ko": "칼리파 압드 알말리크는 하자즈 이븐 유수프를 보내 메카를 포위하게 했고, 도시는 몇 달 동안 투석기 공격을 받았다. 692년 이븐 알주바이르가 전사하면서 제2차 피트나가 끝나고 아라비아에 대한 우마이야의 지배가 회복되었다. 이후 카바는 예전 형태로 다시 지어졌다.",
+    "zh": "哈里发阿卜杜勒-麦利克派哈贾吉·本·优素福围攻麦加，城市遭投石机轰击数月。692年伊本·祖拜尔战死，第二次内战结束，倭马亚对阿拉伯的统治得以恢复。克尔白随后按旧貌重建。",
+    "ja": "カリフのアブドゥルマリクはハッジャージュ・イブン・ユースフを送ってメッカを包囲させ、町は数か月にわたり投石機で攻撃された。692年にイブン・アッズバイルが戦死して第二次フィトナが終わり、アラビアに対するウマイヤ朝の支配が回復した。その後カアバは以前の形で再建された。"
+   }
+  },
+  {
+   "year": 707,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Al-Walid rebuilds the Prophet's Mosque",
+    "ko": "왈리드 1세의 예언자 모스크 재건",
+    "zh": "瓦利德一世重建先知寺",
+    "ja": "ワリード1世による預言者のモスク再建"
+   },
+   "description": {
+    "en": "Under Caliph al-Walid I, the governor of Medina, Umar ibn Abd al-Aziz, rebuilt and greatly enlarged the Prophet's Mosque between about 707 and 710, incorporating the chambers of the Prophet's wives, including his tomb. The project introduced features such as a mihrab niche and minarets and was decorated with mosaics.",
+    "ko": "칼리파 왈리드 1세 시대에 메디나 총독 우마르 이븐 압둘아지즈는 707~710년경 예언자 모스크를 재건·대폭 확장하면서 예언자의 무덤이 있는 부인들의 거처를 모스크 안에 포함시켰다. 이 공사로 미흐랍 벽감과 미너렛 같은 요소가 도입되었고 모자이크로 장식되었다.",
+    "zh": "在哈里发瓦利德一世时期，麦地那总督欧麦尔·本·阿卜杜勒-阿齐兹于约707至710年重建并大幅扩建先知寺，把包括先知陵墓在内的先知妻室居所并入寺内。工程引入了米哈拉布壁龛和宣礼塔等元素，并以马赛克装饰。",
+    "ja": "カリフ・ワリード1世の時代、メディナ総督ウマル・イブン・アブドゥルアズィーズは707〜710年頃に預言者のモスクを再建・大拡張し、預言者の墓所を含む妻たちの居室をモスクに取り込んだ。この工事でミフラーブやミナレットなどが導入され、モザイクで装飾された。"
+   }
+  },
+  {
+   "year": 762,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Revolt of al-Nafs al-Zakiyya in Medina",
+    "ko": "메디나의 나프스 알자키야 반란",
+    "zh": "麦地那的纳夫斯·扎基亚起义",
+    "ja": "メディナのナフス・ザキーヤの反乱"
+   },
+   "description": {
+    "en": "Muhammad ibn Abd Allah, called al-Nafs al-Zakiyya ('the Pure Soul'), an Alid descendant of the Prophet, rose against the Abbasid caliph al-Mansur in Medina in 762. The revolt was crushed within months and he was killed in battle near the city, showing the Abbasids' determination to control the holy cities.",
+    "ko": "예언자의 후손인 알리 가문의 무함마드 이븐 압둘라, 일명 '순수한 영혼(나프스 알자키야)'은 762년 메디나에서 아바스조 칼리파 만수르에 맞서 봉기했다. 반란은 몇 달 만에 진압되었고 그는 도시 근처 전투에서 전사했으며, 이는 성지를 장악하려는 아바스조의 단호함을 보여 주었다.",
+    "zh": "先知后裔、阿里家族的穆罕默德·本·阿卜杜拉，号称“纯洁灵魂”（纳夫斯·扎基亚），于762年在麦地那起兵反抗阿拔斯哈里发曼苏尔。起义数月内即被镇压，他在城附近战死，显示了阿拔斯王朝控制圣城的决心。",
+    "ja": "預言者の子孫でアリー家のムハンマド・イブン・アブドゥッラー、通称「清らかな魂（ナフス・ザキーヤ）」は、762年にメディナでアッバース朝カリフのマンスールに対して蜂起した。反乱は数か月で鎮圧され、彼は町の近くで戦死した。これは聖地を掌握しようとするアッバース朝の決意を示した。"
+   }
+  },
+  {
+   "year": 800,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Darb Zubaydah pilgrim road",
+    "ko": "다르브 주바이다 순례길",
+    "zh": "祖拜达朝觐之路",
+    "ja": "ダルブ・ズバイダ巡礼路"
+   },
+   "description": {
+    "en": "Abbasid caliphs improved the desert route from Kufa in Iraq to Mecca, building cisterns, wells and way-stations across northern and central Arabia. The road bears the name of Zubayda, wife of Caliph Harun al-Rashid, who funded many of its waterworks around 800 as well as a water supply for Mecca. Remains of its stations survive across Saudi Arabia.",
+    "ko": "아바스조 칼리파들은 이라크의 쿠파에서 메카에 이르는 사막 길을 정비하여 북부·중부 아라비아에 저수조·우물·역참을 세웠다. 이 길은 800년 무렵 많은 수리 시설과 메카의 상수 공급에 자금을 댄 하룬 알라시드의 부인 주바이다의 이름을 따 불린다. 역참 유적은 지금도 사우디아라비아 곳곳에 남아 있다.",
+    "zh": "阿拔斯哈里发整修了从伊拉克库法通往麦加的沙漠道路，在阿拉伯北部和中部修建蓄水池、水井和驿站。此路以哈里发哈伦·拉希德之妻祖拜达命名，她在800年前后资助了许多水利设施以及麦加的供水工程。其驿站遗址至今散布于沙特各地。",
+    "ja": "アッバース朝のカリフたちはイラクのクーファからメッカへの砂漠路を整え、北部・中部アラビアに貯水槽・井戸・宿駅を築いた。この道は、800年頃に多くの水利施設やメッカの給水に資金を出したハールーン・アッラシードの妃ズバイダの名で呼ばれる。宿駅の遺構は今もサウジアラビア各地に残る。"
+   }
+  },
+  {
+   "year": 866,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ukhaydirid dynasty in al-Yamama",
+    "ko": "알야마마의 우하이디르 왕조",
+    "zh": "叶麻麦的乌海迪尔王朝",
+    "ja": "ヤマーマのウハイディル朝"
+   },
+   "description": {
+    "en": "Around 866 Muhammad ibn Yusuf al-Ukhaydir, an Alid, seized al-Yamama in central Arabia and founded a dynasty that ruled from al-Khidrima. The Ukhaydirids held the region for more than a century, largely independent of the weakened Abbasid caliphate, until they lost power to the Qarmatians and local tribes.",
+    "ko": "866년경 알리 가문의 무함마드 이븐 유수프 알우하이디르가 중부 아라비아의 알야마마를 장악하고 알히드리마를 근거지로 하는 왕조를 세웠다. 우하이디르조는 약해진 아바스 칼리파국으로부터 거의 독립하여 백여 년 동안 이 지역을 다스리다가 카르마트파와 현지 부족들에게 권력을 잃었다.",
+    "zh": "约866年，阿里家族的穆罕默德·本·优素福·乌海迪尔占据阿拉伯中部的叶麻麦，建立以希德里玛为中心的王朝。乌海迪尔王朝基本独立于衰弱的阿拔斯哈里发国，统治该地区一百余年，后被卡尔马特派和当地部落夺去权力。",
+    "ja": "866年頃、アリー家のムハンマド・イブン・ユースフ・アル＝ウハイディルが中部アラビアのヤマーマを奪い、ヒドリマを拠点とする王朝を開いた。ウハイディル朝は弱体化したアッバース朝からほぼ独立して百年以上この地を治めたが、カルマト派や地元部族に権力を奪われた。"
+   }
+  },
+  {
+   "year": 883,
+   "qid": "Q48728235",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Mecca (883)",
+    "ko": "메카 전투(883년)",
+    "zh": "麦加之战（883年）",
+    "ja": "メッカの戦い（883年）"
+   },
+   "description": {
+    "en": "In 883, during the pilgrimage season, rival commanders acting for the Abbasid government and for the Tulunid ruler of Egypt fought in Mecca for control of the holy city and the prestige of leading the pilgrimage. The clash reflected how provincial dynasties now competed for the Hejaz as Abbasid central power weakened.",
+    "ko": "883년 순례 철에 아바스 정부와 이집트 툴룬조 지배자를 각각 대리하는 지휘관들이 성지의 장악권과 순례 인도의 위신을 놓고 메카에서 충돌했다. 이 충돌은 아바스 중앙 권력이 약해지면서 지방 왕조들이 헤자즈를 놓고 경쟁하게 되었음을 보여 준다.",
+    "zh": "883年朝觐季节，分别代表阿拔斯朝廷和埃及图伦王朝统治者的将领在麦加交战，争夺圣城控制权和主持朝觐的威望。这一冲突反映出随着阿拔斯中央权力衰落，地方王朝开始争夺汉志。",
+    "ja": "883年の巡礼期、アッバース朝政府とエジプトのトゥールーン朝君主をそれぞれ代理する指揮官たちが、聖地の支配と巡礼を率いる威信をめぐってメッカで衝突した。この衝突は、アッバース朝の中央権力が弱まり地方王朝がヒジャーズを争うようになったことを示している。"
+   }
+  },
+  {
+   "year": 899,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Qarmatian state founded in al-Ahsa",
+    "ko": "알아흐사의 카르마트 국가 수립",
+    "zh": "卡尔马特派在艾赫萨建国",
+    "ja": "アル＝アハサーにカルマト派国家成立"
+   },
+   "description": {
+    "en": "Around 899 Abu Sa'id al-Jannabi, a missionary of the Isma'ili Qarmatian movement, established a state in eastern Arabia that soon centered on al-Ahsa. Governed by a council and supported by tribal warriors, it became a formidable power that threatened Iraq and the pilgrimage routes for decades.",
+    "ko": "899년경 이스마일파 카르마트 운동의 선교사 아부 사이드 알잔나비가 동부 아라비아에 국가를 세웠고, 이 국가는 곧 알아흐사를 중심으로 삼았다. 평의회가 통치하고 부족 전사들의 지지를 받은 이 국가는 수십 년간 이라크와 순례길을 위협하는 강력한 세력이 되었다.",
+    "zh": "约899年，伊斯玛仪派卡尔马特运动的传教士艾布·萨义德·詹纳比在东阿拉伯建立政权，不久即以艾赫萨为中心。该国由议事会治理、依靠部落武士支持，成为此后数十年威胁伊拉克和朝觐路线的强大势力。",
+    "ja": "899年頃、イスマーイール派カルマト運動の宣教者アブー・サイード・アル＝ジャンナービーが東アラビアに国家を築き、やがてアル＝アハサーを中心とした。評議会が統治し部族戦士に支えられたこの国家は、数十年にわたりイラクと巡礼路を脅かす強大な勢力となった。"
+   }
+  },
+  {
+   "year": 930,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Qarmatians sack Mecca and seize the Black Stone",
+    "ko": "카르마트파의 메카 약탈과 흑석 탈취",
+    "zh": "卡尔马特派洗劫麦加、夺走黑石",
+    "ja": "カルマト派のメッカ略奪と黒石奪取"
+   },
+   "description": {
+    "en": "During the pilgrimage of 930 the Qarmatian leader Abu Tahir al-Jannabi attacked Mecca, massacring pilgrims and inhabitants and carrying the Black Stone of the Kaaba off to al-Ahsa. The outrage shocked the Muslim world. The stone was returned only in 951, reportedly after Fatimid pressure or payment.",
+    "ko": "930년 순례 기간에 카르마트파 지도자 아부 타히르 알잔나비가 메카를 공격하여 순례자와 주민을 학살하고 카바의 흑석을 알아흐사로 가져갔다. 이 만행은 이슬람 세계에 충격을 주었다. 흑석은 951년에야 반환되었는데, 파티마조의 압력이나 대가 지불 때문이었다고 전한다.",
+    "zh": "930年朝觐期间，卡尔马特首领艾布·塔希尔·詹纳比袭击麦加，屠杀朝觐者和居民，并把克尔白的黑石劫往艾赫萨。这一暴行震动了伊斯兰世界。黑石直到951年才被归还，据说是迫于法蒂玛王朝的压力或获得了赎金。",
+    "ja": "930年の巡礼期、カルマト派の指導者アブー・ターヒル・アル＝ジャンナービーがメッカを襲い、巡礼者と住民を殺戮してカアバの黒石をアル＝アハサーへ持ち去った。この暴挙はイスラーム世界に衝撃を与えた。黒石が返還されたのは951年で、ファーティマ朝の圧力または代価の支払いによるものと伝えられる。"
+   }
+  },
+  {
+   "year": 951,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Black Stone returned to the Kaaba",
+    "ko": "흑석의 카바 반환",
+    "zh": "黑石归还克尔白",
+    "ja": "黒石のカアバへの返還"
+   },
+   "description": {
+    "en": "After more than twenty years in Qarmatian hands, the Black Stone was brought back to Mecca in 951 and restored to its place in the corner of the Kaaba. The stone had been broken into pieces, which were later held together with a silver frame.",
+    "ko": "20년 넘게 카르마트파의 손에 있던 흑석은 951년 메카로 돌아와 카바 모서리의 제자리에 다시 놓였다. 흑석은 여러 조각으로 깨져 있었으며, 이후 은 테두리로 조각들을 고정했다.",
+    "zh": "黑石在卡尔马特派手中二十余年后，于951年被送回麦加，重新安放在克尔白一角原处。黑石已碎成数块，后来以银框加以固定。",
+    "ja": "20年以上カルマト派の手にあった黒石は951年にメッカに戻され、カアバの角の元の位置に据え直された。黒石はいくつもの破片に割れており、のちに銀の枠で固定された。"
+   }
+  },
+  {
+   "year": 967,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hasanid Sharifs take power in Mecca",
+    "ko": "하산 가문 샤리프의 메카 집권",
+    "zh": "哈桑家族谢里夫掌权麦加",
+    "ja": "ハサン家のシャリーフ、メッカで実権掌握"
+   },
+   "description": {
+    "en": "In the 960s Ja'far ibn Muhammad al-Hasani, a descendant of the Prophet's grandson Hasan, took control of Mecca, traditionally dated to around 967–968. He founded the Sharifate of Mecca, through which descendants of Hasan governed the holy city under various overlords for nearly a thousand years, until 1925.",
+    "ko": "960년대에 예언자의 손자 하산의 후손 자파르 이븐 무함마드 알하사니가 메카를 장악했으며, 전통적으로 967~968년경으로 본다. 그가 세운 메카 샤리프국을 통해 하산의 후손들은 여러 종주국 아래에서 1925년까지 천 년 가까이 성지를 다스렸다.",
+    "zh": "960年代，先知外孙哈桑的后裔贾法尔·本·穆罕默德·哈萨尼掌控麦加，传统上定于约967至968年。他创立了麦加谢里夫政权，哈桑后裔借此在历代宗主之下治理圣城近千年，直到1925年。",
+    "ja": "960年代、預言者の孫ハサンの子孫ジャアファル・イブン・ムハンマド・アル＝ハサニーがメッカを掌握した。伝統的には967〜968年頃とされる。彼が開いたメッカのシャリーフ政権を通じて、ハサンの子孫は歴代の宗主のもとで1925年まで千年近く聖地を治めた。"
+   }
+  },
+  {
+   "year": 1050,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Nasir Khusraw visits al-Ahsa",
+    "ko": "나시르 호스로의 알아흐사 방문",
+    "zh": "纳绥尔·霍斯陆访问艾赫萨",
+    "ja": "ナースィル・ホスローのアハサー訪問"
+   },
+   "description": {
+    "en": "The Persian traveler Nasir Khusraw passed through central and eastern Arabia around 1050 on his return from pilgrimage and described the Qarmatian state of al-Ahsa. He reported a city governed by a council, with abundant springs and palm groves, where taxes were light. His account is one of the few eyewitness descriptions of the Qarmatian state.",
+    "ko": "페르시아의 여행가 나시르 호스로는 1050년경 순례를 마치고 돌아오는 길에 중부와 동부 아라비아를 지나며 알아흐사의 카르마트 국가를 기록했다. 그는 평의회가 다스리고 샘과 대추야자 숲이 풍부하며 세금이 가벼운 도시라고 전했다. 그의 기록은 카르마트 국가에 대한 몇 안 되는 목격담 중 하나다.",
+    "zh": "波斯旅行家纳绥尔·霍斯陆约于1050年朝觐归途中经过阿拉伯中部和东部，记述了艾赫萨的卡尔马特国家。他描述那是一座由议事会治理、泉水丰沛、椰枣林繁茂、赋税轻微的城市。他的记录是关于卡尔马特国家为数不多的亲历见闻之一。",
+    "ja": "ペルシアの旅行家ナースィル・ホスローは1050年頃、巡礼の帰途に中部・東部アラビアを通り、アル＝アハサーのカルマト派国家を記録した。評議会が治め、泉とナツメヤシ林に恵まれ、税の軽い町だったと伝えている。彼の記録はカルマト派国家についての数少ない目撃証言の一つである。"
+   }
+  },
+  {
+   "year": 1076,
+   "qid": "Q12229205",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Uyunids overthrow the Qarmatians",
+    "ko": "우유니조의 카르마트파 타도",
+    "zh": "乌尤尼王朝推翻卡尔马特派",
+    "ja": "ウユーン朝がカルマト派を倒す"
+   },
+   "description": {
+    "en": "Abd Allah ibn Ali al-Uyuni of the Abd al-Qays tribe, with help from a Seljuk force sent from Iraq, defeated the Qarmatians of al-Ahsa around 1076. He founded the Uyunid emirate, which ruled eastern Arabia and at times Bahrain into the 13th century, ending nearly two centuries of Qarmatian rule.",
+    "ko": "압드 알카이스 부족의 압둘라 이븐 알리 알우유니는 이라크에서 파견된 셀주크군의 도움을 받아 1076년경 알아흐사의 카르마트파를 격파했다. 그가 세운 우유니 토후국은 13세기까지 동부 아라비아와 때로는 바레인을 다스렸고, 이로써 약 200년에 걸친 카르마트 통치가 끝났다.",
+    "zh": "阿卜杜·盖斯部落的阿卜杜拉·本·阿里·乌尤尼在伊拉克派来的塞尔柱军队协助下，约于1076年击败艾赫萨的卡尔马特派。他建立的乌尤尼酋长国统治东阿拉伯并一度领有巴林，延续至13世纪，结束了卡尔马特派近两百年的统治。",
+    "ja": "アブドゥルカイス族のアブドゥッラー・イブン・アリー・アル＝ウユーニーは、イラクから派遣されたセルジューク軍の助けを得て1076年頃アル＝アハサーのカルマト派を破った。彼が開いたウユーン朝は13世紀まで東アラビアと時にバーレーンを治め、約200年続いたカルマト派の支配に終止符を打った。"
+   }
+  },
+  {
+   "year": 1183,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Reynald of Châtillon's Red Sea raid",
+    "ko": "르노 드 샤티용의 홍해 습격",
+    "zh": "沙蒂永的雷纳德袭击红海",
+    "ja": "ルノー・ド・シャティヨンの紅海襲撃"
+   },
+   "description": {
+    "en": "In 1182–1183 the Crusader lord Reynald of Châtillon launched ships into the Red Sea that raided ports and pilgrim shipping along the Hejaz coast, apparently threatening Mecca and Medina. Saladin's fleet under Husam al-Din Lu'lu' destroyed the raiders in early 1183. The attack hardened Muslim resolve against the Crusader states.",
+    "ko": "1182~1183년 십자군 영주 르노 드 샤티용은 홍해에 배를 띄워 헤자즈 연안의 항구와 순례선을 습격했으며, 메카와 메디나까지 위협하는 듯했다. 1183년 초 살라딘의 함대가 후삼 앗딘 룰루의 지휘 아래 습격대를 섬멸했다. 이 공격은 십자군 국가들에 대한 무슬림의 결의를 굳게 했다.",
+    "zh": "1182至1183年，十字军领主沙蒂永的雷纳德派船进入红海，袭击汉志沿岸港口和朝觐船只，似乎意在威胁麦加和麦地那。1183年初，萨拉丁的舰队在胡萨姆丁·卢卢的指挥下歼灭了袭击者。这次袭击坚定了穆斯林对抗十字军国家的决心。",
+    "ja": "1182〜1183年、十字軍の領主ルノー・ド・シャティヨンは紅海に船を送り込み、ヒジャーズ沿岸の港や巡礼船を襲撃し、メッカとメディナをも脅かす構えを見せた。1183年初め、サラディンの艦隊がフサームッディーン・ルウルウの指揮で襲撃者を全滅させた。この攻撃は十字軍国家に対するムスリムの決意を固めさせた。"
+   }
+  },
+  {
+   "year": 1184,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Ibn Jubayr describes Mecca and Medina",
+    "ko": "이븐 주바이르의 메카·메디나 기록",
+    "zh": "伊本·朱拜尔记述麦加与麦地那",
+    "ja": "イブン・ジュバイルのメッカ・メディナ記録"
+   },
+   "description": {
+    "en": "The Andalusian traveler Ibn Jubayr spent months in Mecca and visited Medina during his pilgrimage of 1183–1184, writing one of the most vivid medieval descriptions of the holy cities, their rituals and markets. He also complained of the exactions imposed on pilgrims by the local authorities at Jeddah and Mecca.",
+    "ko": "안달루스의 여행가 이븐 주바이르는 1183~1184년 순례 중 메카에서 몇 달을 보내고 메디나를 방문하며 성지와 그 의례, 시장에 대한 중세 최고의 생생한 기록 중 하나를 남겼다. 그는 제다와 메카의 현지 당국이 순례자들에게 부과한 가혹한 징수에 대해서도 불평했다.",
+    "zh": "安达卢斯旅行家伊本·朱拜尔在1183至1184年朝觐期间在麦加居留数月并造访麦地那，留下了中世纪关于两圣城及其仪式、市集最生动的记述之一。他也抱怨吉达和麦加地方当局向朝觐者横征暴敛。",
+    "ja": "アンダルスの旅行家イブン・ジュバイルは1183〜1184年の巡礼でメッカに数か月滞在し、メディナも訪れて、聖地とその儀礼・市場についての中世で最も生き生きとした記録の一つを残した。またジッダとメッカの地元当局が巡礼者に課した過酷な徴収についても不満を述べている。"
+   }
+  },
+  {
+   "year": 1256,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Volcanic eruption near Medina",
+    "ko": "메디나 근처의 화산 분화",
+    "zh": "麦地那附近火山喷发",
+    "ja": "メディナ近郊の火山噴火"
+   },
+   "description": {
+    "en": "In 1256 a fissure eruption in the Harrat Rahat volcanic field south-east of Medina sent lava flows to within a few kilometres of the city. Contemporary chroniclers described earthquakes and a glow visible from afar. The same year a fire damaged the Prophet's Mosque, which was then restored with Mamluk and other support.",
+    "ko": "1256년 메디나 남동쪽 하랏 라하트 화산 지대에서 열극 분화가 일어나 용암이 도시에서 몇 킬로미터 떨어진 곳까지 흘러왔다. 당대 연대기 작가들은 지진과 멀리서도 보이는 불빛을 기록했다. 같은 해 화재로 예언자 모스크가 손상되었고, 이후 맘루크 등의 지원으로 복구되었다.",
+    "zh": "1256年，麦地那东南的拉哈特熔岩原发生裂隙式喷发，熔岩流至距城仅数公里处。当时的编年史家记载了地震和远处可见的火光。同年一场火灾损毁了先知寺，随后在马穆鲁克等方面的支持下得以修复。",
+    "ja": "1256年、メディナ南東のハッラト・ラハト火山地帯で割れ目噴火が起こり、溶岩流が町から数キロの所まで達した。同時代の年代記作者は地震と遠くからも見える光を記している。同じ年に火災で預言者のモスクが損傷し、その後マムルーク朝などの支援で修復された。"
+   }
+  },
+  {
+   "year": 1269,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Baybars's pilgrimage asserts Mamluk protection",
+    "ko": "바이바르스의 순례와 맘루크의 보호권",
+    "zh": "拜巴尔斯朝觐，确立马穆鲁克保护权",
+    "ja": "バイバルスの巡礼とマムルーク朝の保護権"
+   },
+   "description": {
+    "en": "After the Mongols destroyed the Abbasid caliphate in Baghdad in 1258, the Mamluk sultans of Egypt claimed the role of protectors of the holy cities. Sultan Baybars made the pilgrimage in 1269, and the Mamluks regularly sent the mahmal and the Kaaba's covering (kiswa) with the Egyptian caravan, a tradition continued by later rulers of Egypt.",
+    "ko": "1258년 몽골이 바그다드의 아바스 칼리파국을 멸망시킨 뒤 이집트의 맘루크 술탄들은 성지의 보호자 역할을 자처했다. 술탄 바이바르스는 1269년 순례를 했고, 맘루크조는 이집트 대상과 함께 정기적으로 마흐말과 카바 덮개(키스와)를 보냈으며, 이 전통은 후대 이집트 지배자들에게 이어졌다.",
+    "zh": "1258年蒙古人摧毁巴格达的阿拔斯哈里发政权后，埃及马穆鲁克苏丹自居为圣城的保护者。苏丹拜巴尔斯于1269年朝觐，马穆鲁克王朝定期随埃及商队送去马赫米勒和克尔白罩幔（基斯瓦），这一传统为后来的埃及统治者所延续。",
+    "ja": "1258年にモンゴルがバグダードのアッバース朝カリフ政権を滅ぼすと、エジプトのマムルーク朝スルタンは聖地の保護者の役割を担った。スルタン・バイバルスは1269年に巡礼を行い、マムルーク朝はエジプトの巡礼隊とともに定期的にマフマルとカアバの覆布（キスワ）を送った。この伝統は後のエジプトの支配者にも受け継がれた。"
+   }
+  },
+  {
+   "year": 1326,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Ibn Battuta's first pilgrimage",
+    "ko": "이븐 바투타의 첫 순례",
+    "zh": "伊本·白图泰的首次朝觐",
+    "ja": "イブン・バットゥータの最初の巡礼"
+   },
+   "description": {
+    "en": "The Moroccan traveler Ibn Battuta reached Medina and Mecca with the Syrian pilgrim caravan in 1326, the first of several stays in the Hejaz. His account of the holy cities, the desert route and the pilgrimage rites is a major source for Arabia under Mamluk suzerainty. He later also traveled through other parts of Arabia.",
+    "ko": "모로코의 여행가 이븐 바투타는 1326년 시리아 순례 대상과 함께 메디나와 메카에 도착했으며, 이것이 헤자즈에서의 여러 차례 체류 중 첫 번째였다. 그가 남긴 성지, 사막 길, 순례 의례에 대한 기록은 맘루크 종주권 아래 아라비아를 이해하는 주요 사료다. 그는 이후 아라비아의 다른 지역도 여행했다.",
+    "zh": "摩洛哥旅行家伊本·白图泰于1326年随叙利亚朝觐商队抵达麦地那和麦加，这是他多次在汉志居留中的第一次。他对圣城、沙漠路线和朝觐仪式的记述，是了解马穆鲁克宗主权下阿拉伯的重要史料。他后来还游历了阿拉伯其他地区。",
+    "ja": "モロッコの旅行家イブン・バットゥータは1326年にシリアの巡礼隊とともにメディナとメッカに到着し、これがヒジャーズでの数度の滞在の最初となった。聖地や砂漠の道、巡礼儀礼についての彼の記録は、マムルーク朝宗主権下のアラビアを知る主要な史料である。彼はのちにアラビアの他の地域も旅した。"
+   }
+  },
+  {
+   "year": 1417,
+   "qid": "Q4116181",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Jabrids in eastern Arabia",
+    "ko": "동부 아라비아의 자브리조 대두",
+    "zh": "贾布里王朝在东阿拉伯兴起",
+    "ja": "東アラビアにおけるジャブル朝の台頭"
+   },
+   "description": {
+    "en": "In the 15th century the Jabrid family, from the Bedouin Banu Uqayl, established control over al-Ahsa and Qatif. Under rulers such as Ajwad ibn Zamil, active in the late 15th century, they extended their power to Bahrain and gained a reputation for piety and patronage of scholars. Their dominion declined in the early 16th century under Portuguese and Ottoman pressure.",
+    "ko": "15세기에 베두인 바누 우카일 출신의 자브리 가문이 알아흐사와 카티프를 장악했다. 15세기 말에 활동한 아즈와드 이븐 자밀 같은 지배자 아래 바레인까지 세력을 넓혔으며 신앙심과 학자 후원으로 명성을 얻었다. 이들의 지배는 16세기 초 포르투갈과 오스만의 압력 속에 쇠퇴했다.",
+    "zh": "15世纪，出身贝都因巴努·乌凯勒部落的贾布里家族控制了艾赫萨和盖提夫。在15世纪后期的阿杰瓦德·本·扎米勒等统治者治下，他们将势力扩展到巴林，并以虔诚和资助学者著称。16世纪初，在葡萄牙与奥斯曼的压力下其统治衰落。",
+    "ja": "15世紀、ベドウィンのバヌー・ウカイル族出身のジャブル家がアル＝アハサーとカティーフを支配下に置いた。15世紀後半に活躍したアジュワド・イブン・ザーミルらのもとでバーレーンにまで勢力を広げ、信仰心と学者の保護で名声を得た。その支配は16世紀初めにポルトガルとオスマンの圧力で衰えた。"
+   }
+  },
+  {
+   "year": 1446,
+   "qid": "Q56885910",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Diriyah (tradition)",
+    "ko": "디리야 건설(전승)",
+    "zh": "德拉伊耶的建立（传统说法）",
+    "ja": "ディルイーヤの建設（伝承）"
+   },
+   "description": {
+    "en": "According to Najdi tradition, around 1446 Mani' al-Muraydi, an ancestor of the House of Saud, came from eastern Arabia at the invitation of a relative who ruled Hajr and settled in Wadi Hanifa, founding Diriyah. The small oasis town later became the capital of the First Saudi State.",
+    "ko": "나지드 전승에 따르면 1446년경 사우드 가문의 선조 마니 알무라이디가 하즈르를 다스리던 친척의 초청을 받아 동부 아라비아에서 와디 하니파로 와서 정착하고 디리야를 세웠다. 이 작은 오아시스 마을은 훗날 제1차 사우디 국가의 수도가 되었다.",
+    "zh": "据纳季德传统说法，约1446年，沙特家族先祖马尼·穆赖迪应统治哈吉尔的亲族之邀，从东阿拉伯迁至哈尼法谷地定居，建立德拉伊耶。这座小小的绿洲城镇后来成为第一沙特国的首都。",
+    "ja": "ナジュドの伝承によれば、1446年頃、サウード家の祖先マーニウ・アル＝ムライディーはハジュルを治める親族の招きで東アラビアからワーディー・ハニーファに移り住み、ディルイーヤを築いた。この小さなオアシスの町はのちに第一次サウード王国の首都となった。"
+   }
+  },
+  {
+   "year": 1517,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ottoman rule over the Hejaz begins",
+    "ko": "오스만 제국의 헤자즈 지배 시작",
+    "zh": "奥斯曼帝国开始统治汉志",
+    "ja": "オスマン帝国によるヒジャーズ支配の開始"
+   },
+   "description": {
+    "en": "After conquering Mamluk Egypt, the Ottoman Empire gained authority over Mecca and Medina. The sultans styled themselves protectors of the two holy cities for the next four centuries.",
+    "ko": "맘루크 이집트를 정복한 오스만 제국이 메카와 메디나에 대한 종주권을 확보했다. 이후 4세기 동안 술탄들은 두 성지의 수호자를 자처했다.",
+    "zh": "奥斯曼帝国征服马穆鲁克埃及后，取得了对麦加和麦地那的宗主权。此后四个世纪，苏丹以两大圣城守护者自居。",
+    "ja": "マムルーク朝エジプトを征服したオスマン帝国は、メッカとメディナへの宗主権を握った。以後4世紀にわたり、スルタンは両聖都の守護者を自任した。"
+   }
+  },
+  {
+   "year": 1517,
+   "qid": "Q19610920",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Portuguese attack on Jeddah",
+    "ko": "포르투갈의 제다 공격",
+    "zh": "葡萄牙进攻吉达",
+    "ja": "ポルトガルのジッダ攻撃"
+   },
+   "description": {
+    "en": "In 1517 a Portuguese fleet under Lopo Soares de Albergaria sailed into the Red Sea and attacked Jeddah, the port of Mecca, which had recently been fortified by the Mamluks. The defenders, led by the Mamluk commander Salman Reis, repulsed the assault. The episode shows the Portuguese threat that pushed the Ottomans to secure the Red Sea and the Hejaz.",
+    "ko": "1517년 로푸 소아르스 드 알베르가리아가 이끄는 포르투갈 함대가 홍해로 들어와 맘루크가 얼마 전 요새화한 메카의 항구 제다를 공격했다. 맘루크 지휘관 셀만 레이스가 이끈 수비군이 공격을 격퇴했다. 이 사건은 오스만 제국이 홍해와 헤자즈 확보에 나서게 한 포르투갈의 위협을 보여 준다.",
+    "zh": "1517年，洛波·苏亚雷斯·德·阿尔贝加里亚率领的葡萄牙舰队驶入红海，进攻马穆鲁克不久前加固的麦加港口吉达。马穆鲁克将领塞尔曼·雷斯率守军击退进攻。此事显示了促使奥斯曼帝国着手掌控红海和汉志的葡萄牙威胁。",
+    "ja": "1517年、ロポ・ソアレス・デ・アルベルガリア率いるポルトガル艦隊が紅海に入り、マムルーク朝が直前に要塞化したメッカの港ジッダを攻撃した。マムルーク朝の指揮官セルマン・レイス率いる守備軍が攻撃を撃退した。この出来事は、オスマン帝国に紅海とヒジャーズの確保を促したポルトガルの脅威を示している。"
+   }
+  },
+  {
+   "year": 1551,
+   "qid": "Q115517267",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siege of Qatif",
+    "ko": "카티프 포위전",
+    "zh": "盖提夫之围",
+    "ja": "カティーフ包囲戦"
+   },
+   "description": {
+    "en": "In 1551 a Portuguese expedition from Hormuz attacked Qatif on the Gulf coast, which the Ottomans had recently occupied as part of their expansion into eastern Arabia. The Portuguese took the fort, demolished it and withdrew. The clash was part of the 16th-century Ottoman–Portuguese struggle for control of the Gulf.",
+    "ko": "1551년 호르무즈에서 출발한 포르투갈 원정대가 걸프 연안의 카티프를 공격했는데, 이곳은 오스만이 동부 아라비아로 팽창하면서 얼마 전 점령한 곳이었다. 포르투갈군은 요새를 점령해 허문 뒤 철수했다. 이 충돌은 16세기 걸프 지배권을 둘러싼 오스만-포르투갈 투쟁의 일부였다.",
+    "zh": "1551年，一支从霍尔木兹出发的葡萄牙远征军进攻海湾沿岸的盖提夫，该地是奥斯曼向东阿拉伯扩张时刚刚占领的。葡萄牙人攻占要塞，将其拆毁后撤离。此战是16世纪奥斯曼与葡萄牙争夺海湾控制权斗争的一部分。",
+    "ja": "1551年、ホルムズから来たポルトガルの遠征隊が湾岸のカティーフを攻撃した。ここはオスマン帝国が東アラビアへの進出の一環として占領したばかりの地だった。ポルトガル軍は砦を奪って破壊し、撤退した。この衝突は16世紀の湾岸支配をめぐるオスマン・ポルトガル間の争いの一部である。"
+   }
+  },
+  {
+   "year": 1630,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Flood damages the Kaaba, which is rebuilt",
+    "ko": "홍수로 무너진 카바의 재건",
+    "zh": "洪水冲毁克尔白后重建",
+    "ja": "洪水によるカアバ倒壊と再建"
+   },
+   "description": {
+    "en": "A violent flash flood in Mecca in 1629 caused parts of the Kaaba's walls to collapse. Under the Ottoman sultan Murad IV the structure was rebuilt in 1630 on its traditional foundations. The rebuilt Kaaba largely retains the form given to it at that time.",
+    "ko": "1629년 메카를 덮친 격렬한 돌발 홍수로 카바의 벽 일부가 무너졌다. 오스만 술탄 무라드 4세 치하에서 1630년 전통적인 기초 위에 재건되었다. 재건된 카바는 대체로 이때의 형태를 오늘날까지 유지하고 있다.",
+    "zh": "1629年麦加遭遇猛烈山洪，克尔白部分墙体倒塌。奥斯曼苏丹穆拉德四世在位时，于1630年在传统地基上重建了克尔白。重建后的克尔白基本保持了当时的形制至今。",
+    "ja": "1629年にメッカを襲った激しい鉄砲水でカアバの壁の一部が崩れた。オスマン帝国のスルタン、ムラト4世のもとで1630年に伝統的な基礎の上に再建された。再建されたカアバはおおむねこの時の形を今日まで保っている。"
+   }
+  },
+  {
+   "year": 1670,
+   "qid": "Q56376885",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Bani Khalid expel the Ottomans from al-Ahsa",
+    "ko": "바니 할리드의 알아흐사 오스만 축출",
+    "zh": "巴尼·哈立德将奥斯曼逐出艾赫萨",
+    "ja": "バニー・ハーリドがアハサーからオスマンを追放"
+   },
+   "description": {
+    "en": "Around 1670 Barrak ibn Ghurayr of the Bani Khalid tribe drove the Ottoman garrison out of al-Ahsa, ending the Ottoman province there. The Bani Khalid emirate dominated eastern Arabia for more than a century and exerted influence over the towns of Najd.",
+    "ko": "1670년경 바니 할리드 부족의 바라크 이븐 구라이르가 알아흐사에서 오스만 수비대를 몰아내 그곳의 오스만 주(州)를 끝냈다. 바니 할리드 토후국은 백여 년 동안 동부 아라비아를 지배하며 나지드의 도시들에도 영향력을 행사했다.",
+    "zh": "约1670年，巴尼·哈立德部落的巴拉克·本·古赖尔将奥斯曼驻军逐出艾赫萨，终结了奥斯曼在当地设立的行省。巴尼·哈立德酋长国主宰东阿拉伯一百多年，并对纳季德诸城镇施加影响。",
+    "ja": "1670年頃、バニー・ハーリド族のバッラーク・イブン・グライルがアル＝アハサーからオスマン守備隊を追い出し、同地のオスマン州を終わらせた。バニー・ハーリド首長国は百年以上東アラビアを支配し、ナジュドの町々にも影響力を及ぼした。"
+   }
+  },
+  {
+   "year": 1703,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Birth of Muhammad ibn Abd al-Wahhab",
+    "ko": "무함마드 이븐 압둘와하브 탄생",
+    "zh": "穆罕默德·本·阿卜杜勒-瓦哈卜出生",
+    "ja": "ムハンマド・イブン・アブドゥルワッハーブの誕生"
+   },
+   "description": {
+    "en": "Muhammad ibn Abd al-Wahhab was born around 1703 in al-Uyayna in Najd into a family of Hanbali scholars. After studying in Medina and elsewhere, he began preaching a strict return to monotheism, condemning practices such as the veneration of saints and tombs. His movement, known to its adherents as the call to tawhid and to others as Wahhabism, shaped the Saudi state.",
+    "ko": "무함마드 이븐 압둘와하브는 1703년경 나지드의 우야이나에서 한발리파 학자 집안에 태어났다. 메디나 등지에서 공부한 뒤 성인과 무덤 숭배 같은 관행을 비판하며 엄격한 유일신 신앙으로의 복귀를 설파했다. 추종자들은 '타우히드(유일신)로의 부름'이라 부르고 외부에서는 와하브주의라 부르는 그의 운동은 사우디 국가의 성격을 형성했다.",
+    "zh": "穆罕默德·本·阿卜杜勒-瓦哈卜约于1703年出生在纳季德欧耶纳的一个罕百里派学者家庭。他在麦地那等地求学后，开始宣扬严格回归一神信仰，谴责崇拜圣徒和陵墓等做法。其追随者称之为“认主独一的号召”、外界称为瓦哈比派的这一运动，塑造了沙特国家的面貌。",
+    "ja": "ムハンマド・イブン・アブドゥルワッハーブは1703年頃、ナジュドのウヤイナでハンバル派学者の家に生まれた。メディナなどで学んだ後、聖者や墓廟の崇敬などの慣行を批判し、厳格な唯一神信仰への回帰を説いた。信奉者は「タウヒードへの呼びかけ」、外部はワッハーブ派と呼ぶ彼の運動はサウード国家を形づくった。"
+   }
+  },
+  {
+   "year": 1744,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Diriyah pact founds the First Saudi State",
+    "ko": "디리야 동맹과 제1차 사우디 국가 수립",
+    "zh": "德拉伊耶盟约与第一沙特国的建立",
+    "ja": "ディルイーヤの盟約と第一次サウード王国の成立"
+   },
+   "description": {
+    "en": "Emir Muhammad ibn Saud of Diriyah allied with the reformer Muhammad ibn Abd al-Wahhab. Their pact created the First Saudi State and the religious-political foundation of the future kingdom.",
+    "ko": "디리야의 아미르 무함마드 이븐 사우드가 종교 개혁가 무함마드 이븐 압둘와하브와 동맹을 맺었다. 이 결속으로 제1차 사우디 국가가 세워졌고, 훗날 왕국의 종교적·정치적 토대가 마련되었다.",
+    "zh": "德拉伊耶埃米尔穆罕默德·本·沙特与宗教改革家穆罕默德·本·阿卜杜勒·瓦哈卜结盟。这一盟约缔造了第一沙特国，奠定了日后沙特王国的宗教与政治基础。",
+    "ja": "ディルイーヤの首長ムハンマド・イブン・サウードが宗教改革者ムハンマド・イブン・アブドゥルワッハーブと同盟を結んだ。この盟約により第一次サウード王国が成立し、後の王国の宗教的・政治的基盤が築かれた。"
+   }
+  },
+  {
+   "year": 1773,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Saudi forces take Riyadh",
+    "ko": "사우디군의 리야드 점령",
+    "zh": "沙特军队攻占利雅得",
+    "ja": "サウード軍のリヤド占領"
+   },
+   "description": {
+    "en": "After nearly three decades of intermittent war, the forces of Diriyah under Abdulaziz ibn Muhammad captured Riyadh in 1773, driving out its ruler Dahham ibn Dawwas. The victory gave the First Saudi State control of most of southern Najd and opened the way for expansion across the peninsula.",
+    "ko": "약 30년간의 간헐적인 전쟁 끝에 압둘아지즈 이븐 무함마드가 이끄는 디리야 군대는 1773년 리야드를 점령하고 그 지배자 다함 이븐 다와스를 몰아냈다. 이 승리로 제1차 사우디 국가는 나지드 남부 대부분을 장악하고 반도 전역으로 팽창할 길을 열었다.",
+    "zh": "经过近三十年断断续续的战争，阿卜杜勒阿齐兹·本·穆罕默德率领的德拉伊耶军队于1773年攻占利雅得，逐走其统治者达哈姆·本·达瓦斯。这一胜利使第一沙特国控制了纳季德南部大部分地区，为向整个半岛扩张开辟了道路。",
+    "ja": "約30年にわたる断続的な戦争の末、アブドゥルアズィーズ・イブン・ムハンマド率いるディルイーヤ軍は1773年にリヤドを占領し、その支配者ダッハーム・イブン・ダウワースを追放した。この勝利で第一次サウード王国はナジュド南部の大半を掌握し、半島全域への拡大の道を開いた。"
+   }
+  },
+  {
+   "year": 1795,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Conquest of al-Ahsa from the Bani Khalid",
+    "ko": "바니 할리드로부터 알아흐사 정복",
+    "zh": "从巴尼·哈立德手中征服艾赫萨",
+    "ja": "バニー・ハーリドからのアハサー征服"
+   },
+   "description": {
+    "en": "In the early 1790s the First Saudi State defeated the Bani Khalid and by about 1795 had taken control of al-Ahsa and the Gulf coast. The fertile oasis and its revenues strengthened Diriyah, and Saudi influence soon extended toward Qatar, Bahrain and Oman.",
+    "ko": "1790년대 초 제1차 사우디 국가는 바니 할리드를 격파하고 1795년경까지 알아흐사와 걸프 연안을 장악했다. 비옥한 오아시스와 그 세수는 디리야를 강화했으며, 사우디의 영향력은 곧 카타르·바레인·오만 방면으로 뻗어 나갔다.",
+    "zh": "1790年代初，第一沙特国击败巴尼·哈立德，约至1795年控制了艾赫萨和海湾沿岸。肥沃的绿洲及其税收增强了德拉伊耶的实力，沙特的影响力很快扩展到卡塔尔、巴林和阿曼方向。",
+    "ja": "1790年代初め、第一次サウード王国はバニー・ハーリドを破り、1795年頃までにアル＝アハサーと湾岸を掌握した。肥沃なオアシスとその税収はディルイーヤを強化し、サウードの影響力はまもなくカタール、バーレーン、オマーン方面へと伸びた。"
+   }
+  },
+  {
+   "year": 1803,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Saudi capture of Mecca",
+    "ko": "사우디의 메카 점령",
+    "zh": "沙特占领麦加",
+    "ja": "サウード軍のメッカ占領"
+   },
+   "description": {
+    "en": "In 1803 Saudi forces entered Mecca, and in 1805 they took Medina, bringing the holy cities under Diriyah's control. They destroyed domed tombs and shrines they regarded as objects of illicit veneration and for some years restricted pilgrim caravans from the Ottoman lands. The same year, 1803, Imam Abdulaziz ibn Muhammad was assassinated in Diriyah.",
+    "ko": "1803년 사우디군이 메카에 입성했고 1805년에는 메디나를 점령하여 두 성지를 디리야의 통제 아래 두었다. 그들은 부당한 숭배의 대상으로 여긴 돔형 무덤과 성소를 파괴했고, 몇 년 동안 오스만 영토에서 오는 순례 대상을 제한했다. 같은 해인 1803년 이맘 압둘아지즈 이븐 무함마드가 디리야에서 암살되었다.",
+    "zh": "1803年沙特军队进入麦加，1805年又攻占麦地那，两圣城归于德拉伊耶的控制。他们拆毁了被视为不当崇拜对象的圆顶陵墓和圣祠，并在数年间限制来自奥斯曼领土的朝觐商队。同在1803年，伊玛目阿卜杜勒阿齐兹·本·穆罕默德在德拉伊耶遇刺。",
+    "ja": "1803年にサウード軍がメッカに入り、1805年にはメディナを占領して二つの聖地をディルイーヤの支配下に置いた。彼らは不当な崇敬の対象とみなしたドーム付きの墓廟や聖所を破壊し、数年間オスマン領からの巡礼隊を制限した。同じ1803年、イマーム・アブドゥルアズィーズ・イブン・ムハンマドがディルイーヤで暗殺された。"
+   }
+  },
+  {
+   "year": 1811,
+   "qid": "Q3656327",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ottoman–Egyptian campaign lands at Yanbu",
+    "ko": "오스만-이집트 원정군의 얀부 상륙",
+    "zh": "奥斯曼—埃及远征军在延布登陆",
+    "ja": "オスマン・エジプト遠征軍のヤンブー上陸"
+   },
+   "description": {
+    "en": "At the request of the Ottoman sultan, Muhammad Ali Pasha of Egypt sent an army under his son Tusun, which took the port of Yanbu in 1811. Advancing inland, it suffered a heavy defeat at the hands of Saudi forces in the pass of al-Safra later that year but soon regrouped with reinforcements, beginning the Ottoman–Saudi war of 1811–1818.",
+    "ko": "오스만 술탄의 요청으로 이집트의 무함마드 알리 파샤는 아들 투순이 이끄는 군대를 보냈고, 이 군대는 1811년 얀부 항구를 점령했다. 내륙으로 진격하던 원정군은 같은 해 사프라 고개에서 사우디군에게 큰 패배를 당했으나 곧 증원군과 함께 재정비했으며, 이로써 1811~1818년 오스만-사우디 전쟁이 시작되었다.",
+    "zh": "应奥斯曼苏丹之请，埃及的穆罕默德·阿里帕夏派其子图松率军出征，于1811年攻占延布港。远征军向内陆推进时，同年在萨夫拉山口被沙特军队重创，但很快得到增援重整旗鼓，由此揭开1811至1818年奥斯曼—沙特战争的序幕。",
+    "ja": "オスマン帝国スルタンの要請を受け、エジプトのムハンマド・アリー・パシャは息子トゥースーン率いる軍を送り、1811年にヤンブー港を占領した。内陸へ進んだ遠征軍は同年サフラーの峠でサウード軍に大敗したが、まもなく増援を得て態勢を立て直し、1811〜1818年のオスマン・サウード戦争が始まった。"
+   }
+  },
+  {
+   "year": 1812,
+   "qid": "Q3656325",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Egyptian forces retake Medina",
+    "ko": "이집트군의 메디나 탈환",
+    "zh": "埃及军队收复麦地那",
+    "ja": "エジプト軍のメディナ奪回"
+   },
+   "description": {
+    "en": "In late 1812 the reinforced Egyptian army captured Medina from the Saudi garrison after a siege. The fall of the city was celebrated in Istanbul as the recovery of one of Islam's holy cities for the Ottoman sultan.",
+    "ko": "1812년 말 증원된 이집트군은 포위 끝에 사우디 수비대로부터 메디나를 빼앗았다. 이스탄불에서는 이 도시의 함락을 이슬람 성지를 오스만 술탄을 위해 되찾은 것으로 경축했다.",
+    "zh": "1812年底，得到增援的埃及军队经围城后从沙特守军手中夺取麦地那。伊斯坦布尔将此城的陷落庆祝为替奥斯曼苏丹收复了伊斯兰圣城之一。",
+    "ja": "1812年末、増強されたエジプト軍は包囲の末にサウード軍の守備隊からメディナを奪った。イスタンブルでは、この町の陥落がオスマン帝国スルタンのためにイスラームの聖地を取り戻したものとして祝われた。"
+   }
+  },
+  {
+   "year": 1813,
+   "qid": "Q3608484",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Egyptian forces take Mecca and Jeddah",
+    "ko": "이집트군의 메카·제다 점령",
+    "zh": "埃及军队夺取麦加与吉达",
+    "ja": "エジプト軍のメッカ・ジッダ占領"
+   },
+   "description": {
+    "en": "In January 1813 Mecca and Jeddah fell to the Egyptian army, with the cooperation of the Sharif of Mecca, Ghalib. The Hejaz returned to Ottoman suzerainty under Egyptian administration, and Muhammad Ali himself came to the Hejaz later that year to direct the war.",
+    "ko": "1813년 1월 메카의 샤리프 갈리브의 협조 아래 메카와 제다가 이집트군에게 함락되었다. 헤자즈는 이집트의 행정 아래 오스만의 종주권으로 되돌아갔고, 무함마드 알리는 같은 해 직접 헤자즈로 와서 전쟁을 지휘했다.",
+    "zh": "1813年1月，在麦加谢里夫加利卜的配合下，麦加和吉达落入埃及军队之手。汉志在埃及管理下重归奥斯曼宗主权，穆罕默德·阿里本人于同年晚些时候亲赴汉志指挥战事。",
+    "ja": "1813年1月、メッカのシャリーフ、ガーリブの協力のもとでメッカとジッダがエジプト軍の手に落ちた。ヒジャーズはエジプトの統治下でオスマン帝国の宗主権に戻り、ムハンマド・アリー自身も同年ヒジャーズに来て戦争を指揮した。"
+   }
+  },
+  {
+   "year": 1818,
+   "qid": "Q3656346",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Diriyah ends the First Saudi State",
+    "ko": "디리야 함락과 제1차 사우디 국가의 종말",
+    "zh": "德拉伊耶陷落，第一沙特国灭亡",
+    "ja": "ディルイーヤ陥落と第一次サウード王国の滅亡"
+   },
+   "description": {
+    "en": "An Ottoman-Egyptian army under Ibrahim Pasha besieged and destroyed Diriyah, ending the First Saudi State. The House of Saud soon re-established a smaller emirate centered on Riyadh.",
+    "ko": "이브라힘 파샤가 이끄는 오스만·이집트군이 디리야를 포위해 파괴하면서 제1차 사우디 국가가 무너졌다. 사우드 가문은 곧 리야드를 중심으로 한 소규모 토후국을 재건했다.",
+    "zh": "易卜拉欣帕夏率领的奥斯曼-埃及军队围攻并摧毁德拉伊耶，第一沙特国灭亡。沙特家族不久后以利雅得为中心重建了规模较小的酋长国。",
+    "ja": "イブラヒム・パシャ率いるオスマン・エジプト軍がディルイーヤを包囲・破壊し、第一次サウード王国は滅亡した。サウード家はまもなくリヤドを中心とする小規模な首長国を再建する。"
+   }
+  },
+  {
+   "year": 1824,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Turki ibn Abdullah makes Riyadh the capital",
+    "ko": "투르키 이븐 압둘라의 리야드 천도",
+    "zh": "图尔基·本·阿卜杜拉定都利雅得",
+    "ja": "トゥルキー・イブン・アブドゥッラーのリヤド遷都"
+   },
+   "description": {
+    "en": "Turki ibn Abdullah, a grandson of Muhammad ibn Saud, expelled the Egyptian garrison and took Riyadh in 1824, founding the Second Saudi State. Since Diriyah lay in ruins, he made nearby Riyadh his capital, which it has remained for the Saudi state ever since.",
+    "ko": "무함마드 이븐 사우드의 손자 투르키 이븐 압둘라는 1824년 이집트 수비대를 몰아내고 리야드를 점령하여 제2차 사우디 국가를 세웠다. 디리야가 폐허가 되었기 때문에 그는 인근의 리야드를 수도로 삼았고, 이후 리야드는 계속 사우디 국가의 수도가 되었다.",
+    "zh": "穆罕默德·本·沙特之孙图尔基·本·阿卜杜拉于1824年驱逐埃及驻军、夺取利雅得，建立第二沙特国。由于德拉伊耶已成废墟，他以邻近的利雅得为首都，此后利雅得一直是沙特国家的首都。",
+    "ja": "ムハンマド・イブン・サウードの孫トゥルキー・イブン・アブドゥッラーは1824年にエジプト守備隊を追い出してリヤドを奪い、第二次サウード王国を建てた。ディルイーヤは廃墟となっていたため近くのリヤドを首都とし、以後リヤドはサウード国家の首都であり続けている。"
+   }
+  },
+  {
+   "year": 1838,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Second Egyptian occupation of Najd",
+    "ko": "이집트의 나지드 재점령",
+    "zh": "埃及再度占领纳季德",
+    "ja": "エジプトのナジュド再占領"
+   },
+   "description": {
+    "en": "After the killing of Turki in 1834 and the accession of his son Faisal, Muhammad Ali backed a rival claimant, Khalid ibn Saud, and in 1838 an Egyptian army under Khurshid Pasha occupied Najd and took Faisal prisoner to Cairo. The occupation ended in 1840–1841 when Muhammad Ali, under European pressure, withdrew his forces from Arabia.",
+    "ko": "1834년 투르키가 살해되고 아들 파이살이 즉위하자 무함마드 알리는 경쟁자 할리드 이븐 사우드를 지원했고, 1838년 후르시드 파샤가 이끄는 이집트군이 나지드를 점령하여 파이살을 카이로로 압송했다. 이 점령은 유럽의 압력을 받은 무함마드 알리가 1840~1841년 아라비아에서 병력을 철수하면서 끝났다.",
+    "zh": "1834年图尔基遇害、其子费萨尔继位后，穆罕默德·阿里扶植对立的王位争夺者哈立德·本·沙特。1838年胡尔希德帕夏率埃及军队占领纳季德，将费萨尔押往开罗。1840至1841年，迫于欧洲压力的穆罕默德·阿里从阿拉伯撤军，占领随之结束。",
+    "ja": "1834年にトゥルキーが殺害され息子ファイサルが即位すると、ムハンマド・アリーは対抗者ハーリド・イブン・サウードを支援し、1838年にはフルシード・パシャ率いるエジプト軍がナジュドを占領してファイサルをカイロへ連行した。占領は、ヨーロッパの圧力を受けたムハンマド・アリーが1840〜1841年にアラビアから撤兵して終わった。"
+   }
+  },
+  {
+   "year": 1843,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Faisal ibn Turki restores Saudi rule",
+    "ko": "파이살 이븐 투르키의 사우디 통치 복원",
+    "zh": "费萨尔·本·图尔基恢复沙特统治",
+    "ja": "ファイサル・イブン・トゥルキーによる支配回復"
+   },
+   "description": {
+    "en": "Escaping from captivity in Cairo, Faisal ibn Turki returned to Najd and retook Riyadh in 1843. During his second reign until 1865 the Second Saudi State reached its height, recovering al-Ahsa and extending influence toward the Gulf coast, while maintaining cautious relations with the Ottomans and Britain.",
+    "ko": "카이로의 억류에서 탈출한 파이살 이븐 투르키는 나지드로 돌아와 1843년 리야드를 되찾았다. 1865년까지 이어진 그의 두 번째 치세 동안 제2차 사우디 국가는 알아흐사를 회복하고 걸프 연안으로 영향력을 넓히며 전성기를 맞았고, 오스만 및 영국과는 신중한 관계를 유지했다.",
+    "zh": "费萨尔·本·图尔基从开罗的羁押中逃脱，返回纳季德，于1843年收复利雅得。在他持续至1865年的第二次统治期间，第二沙特国收复艾赫萨并将影响扩展至海湾沿岸，达到鼎盛，同时与奥斯曼和英国保持谨慎关系。",
+    "ja": "カイロでの幽閉から脱出したファイサル・イブン・トゥルキーはナジュドに戻り、1843年にリヤドを奪回した。1865年まで続いた2度目の治世で第二次サウード王国はアル＝アハサーを回復し湾岸へ影響力を広げて最盛期を迎え、オスマン帝国やイギリスとは慎重な関係を保った。"
+   }
+  },
+  {
+   "year": 1858,
+   "qid": "Q27824499",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Jeddah massacre of 1858",
+    "ko": "1858년 제다 학살",
+    "zh": "1858年吉达屠杀",
+    "ja": "1858年のジッダ虐殺"
+   },
+   "description": {
+    "en": "In June 1858 a mob in Jeddah attacked the European community, killing the British vice-consul and the French consul among others, amid tensions over a dispute concerning a ship's flag and wider resentment of European influence. A British warship bombarded the city in response, and the Ottoman authorities executed several of those held responsible.",
+    "ko": "1858년 6월 선박 깃발을 둘러싼 분쟁과 유럽 영향력에 대한 광범위한 반감 속에 제다의 군중이 유럽인 공동체를 공격해 영국 부영사와 프랑스 영사 등을 살해했다. 이에 영국 군함이 도시를 포격했고, 오스만 당국은 책임자로 지목된 여러 명을 처형했다.",
+    "zh": "1858年6月，在一艘船只旗帜纠纷引发的紧张局势和对欧洲影响的普遍不满中，吉达暴民袭击欧洲人社区，杀害了英国副领事和法国领事等人。英国军舰随后炮击该城，奥斯曼当局处决了数名被认定负有责任者。",
+    "ja": "1858年6月、船の旗をめぐる争いとヨーロッパの影響への広範な反感を背景に、ジッダの群衆がヨーロッパ人社会を襲い、イギリス副領事やフランス領事らを殺害した。これに対しイギリスの軍艦が町を砲撃し、オスマン当局は責任者とされた数人を処刑した。"
+   }
+  },
+  {
+   "year": 1865,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Saudi civil war after Faisal's death",
+    "ko": "파이살 사후 사우디 내전",
+    "zh": "费萨尔死后的沙特内战",
+    "ja": "ファイサル死後のサウード家内戦"
+   },
+   "description": {
+    "en": "After Faisal ibn Turki died in 1865, his sons Abdullah and Saud fought a prolonged war of succession. The conflict drained the Second Saudi State, invited Ottoman intervention in al-Ahsa in 1871, and allowed the Rashidis of Ha'il to grow in power at Saudi expense.",
+    "ko": "1865년 파이살 이븐 투르키가 사망한 뒤 그의 아들 압둘라와 사우드가 오랜 계승 전쟁을 벌였다. 이 분쟁은 제2차 사우디 국가를 소진시켰고, 1871년 오스만의 알아흐사 개입을 불렀으며, 하일의 라시드 가문이 사우드 가문을 희생시키며 세력을 키우게 했다.",
+    "zh": "1865年费萨尔·本·图尔基去世后，其子阿卜杜拉与沙特展开了旷日持久的继承战争。冲突耗尽了第二沙特国的国力，招致奥斯曼于1871年介入艾赫萨，并使哈伊勒的拉希德家族得以牺牲沙特家族的利益而坐大。",
+    "ja": "1865年にファイサル・イブン・トゥルキーが没すると、息子アブドゥッラーとサウードが長期の継承戦争を戦った。この争いは第二次サウード王国を消耗させ、1871年のオスマン帝国のアル＝アハサー介入を招き、ハーイルのラシード家がサウード家を犠牲にして勢力を伸ばすことを許した。"
+   }
+  },
+  {
+   "year": 1871,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ottomans occupy al-Ahsa",
+    "ko": "오스만의 알아흐사 점령",
+    "zh": "奥斯曼占领艾赫萨",
+    "ja": "オスマン帝国のアハサー占領"
+   },
+   "description": {
+    "en": "Taking advantage of the Saudi civil war, Midhat Pasha, the Ottoman governor of Baghdad, sent an expedition that occupied al-Ahsa and Qatif in 1871. The region was administered as part of the Ottoman provincial system until Ibn Saud expelled the garrison in 1913.",
+    "ko": "사우디 내전을 틈타 오스만 제국의 바그다드 총독 미드하트 파샤는 원정대를 보내 1871년 알아흐사와 카티프를 점령했다. 이 지역은 1913년 이븐 사우드가 수비대를 몰아낼 때까지 오스만 지방 행정 체계의 일부로 통치되었다.",
+    "zh": "趁沙特内战之机，奥斯曼巴格达总督米德哈特帕夏派遣远征军，于1871年占领艾赫萨和盖提夫。该地区被纳入奥斯曼行省体系管辖，直到1913年伊本·沙特驱逐驻军为止。",
+    "ja": "サウード家の内戦に乗じて、オスマン帝国のバグダード総督ミドハト・パシャは遠征隊を送り、1871年にアル＝アハサーとカティーフを占領した。この地域は1913年にイブン・サウードが守備隊を追い出すまで、オスマン帝国の州行政の一部として統治された。"
+   }
+  },
+  {
+   "year": 1891,
+   "qid": "Q654722",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Mulayda ends the Second Saudi State",
+    "ko": "물라이다 전투와 제2차 사우디 국가의 종말",
+    "zh": "穆莱达战役终结第二沙特国",
+    "ja": "ムライダの戦いと第二次サウード王国の終焉"
+   },
+   "description": {
+    "en": "In 1891 Muhammad ibn Rashid, emir of Ha'il, defeated a coalition of Qasim towns and Saudi supporters at Mulayda. The victory made the Rashidis masters of Najd and ended the Second Saudi State. Abd al-Rahman ibn Faisal and his family, including the young Abdulaziz, went into exile and eventually settled in Kuwait.",
+    "ko": "1891년 하일의 에미르 무함마드 이븐 라시드는 물라이다에서 카심 도시들과 사우디 지지 세력의 연합군을 격파했다. 이 승리로 라시드 가문은 나지드의 주인이 되었고 제2차 사우디 국가는 끝났다. 압둘라흐만 이븐 파이살과 어린 압둘아지즈를 포함한 가족은 망명길에 올라 결국 쿠웨이트에 정착했다.",
+    "zh": "1891年，哈伊勒埃米尔穆罕默德·本·拉希德在穆莱达击败盖西姆诸城与沙特支持者的联军。此役使拉希德家族成为纳季德之主，第二沙特国就此终结。阿卜杜勒拉赫曼·本·费萨尔及包括年少的阿卜杜勒阿齐兹在内的家人流亡，最终定居科威特。",
+    "ja": "1891年、ハーイルのアミール、ムハンマド・イブン・ラシードはムライダでカスィームの町々とサウード家支持勢力の連合軍を破った。この勝利でラシード家はナジュドの主となり、第二次サウード王国は終わった。アブドゥッラフマーン・イブン・ファイサルと幼いアブドゥルアズィーズを含む一家は亡命し、最終的にクウェートに落ち着いた。"
+   }
+  },
+  {
+   "year": 1902,
+   "qid": "Q2943187",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Ibn Saud recaptures Riyadh",
+    "ko": "이븐 사우드의 리야드 탈환",
+    "zh": "伊本·沙特夺回利雅得",
+    "ja": "イブン・サウードによるリヤド奪回"
+   },
+   "description": {
+    "en": "The young Abdulaziz Ibn Saud seized the Masmak fortress in Riyadh from the Rashidi dynasty with a small band of followers, beginning a three-decade campaign to reunify the Arabian Peninsula.",
+    "ko": "젊은 압둘아지즈 이븐 사우드가 소수의 부하들과 함께 리야드의 마스마크 요새를 라시드 왕조로부터 탈환했다. 이는 30년에 걸친 아라비아 반도 재통일 여정의 출발점이 되었다.",
+    "zh": "年轻的阿卜杜勒阿齐兹·伊本·沙特率少数部众从拉希德王朝手中夺取利雅得的马斯马克城堡，由此开启了长达三十年的阿拉伯半岛再统一征程。",
+    "ja": "若きアブドゥルアジーズ・イブン・サウードが少数の部下とともにリヤドのマスマク城塞をラシード家から奪還した。ここから30年におよぶアラビア半島再統一の歩みが始まった。"
+   }
+  },
+  {
+   "year": 1904,
+   "qid": "Q4870449",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battles of al-Bukayriyah and Shinanah in Qasim",
+    "ko": "카심의 부카이리야·시나나 전투",
+    "zh": "盖西姆的布凯里耶与希纳纳之战",
+    "ja": "カスィームのブカイリーヤとシナーナの戦い"
+   },
+   "description": {
+    "en": "In 1904 Ibn Saud fought the Rashidis and their Ottoman allies for control of the Qasim region. After a costly encounter at al-Bukayriyah, he defeated them at Shinanah, and Qasim's towns such as Unaizah and Buraydah aligned with him. The Ottoman troops sent to support Ibn Rashid suffered heavily from the desert and soon withdrew.",
+    "ko": "1904년 이븐 사우드는 카심 지역의 패권을 놓고 라시드 가문과 그 동맹인 오스만군과 싸웠다. 부카이리야에서 큰 손실을 입은 뒤 시나나에서 승리했고, 우나이자와 부라이다 등 카심의 도시들이 그의 편에 섰다. 이븐 라시드를 지원하러 온 오스만군은 사막에서 큰 피해를 입고 곧 철수했다.",
+    "zh": "1904年，伊本·沙特为争夺盖西姆地区与拉希德家族及其奥斯曼盟军作战。在布凯里耶付出沉重代价后，他在希纳纳取胜，欧奈宰、布赖代等盖西姆城镇转而归附于他。派来支援伊本·拉希德的奥斯曼军队在沙漠中损失惨重，不久撤离。",
+    "ja": "1904年、イブン・サウードはカスィーム地方をめぐってラシード家とその同盟者オスマン軍と戦った。ブカイリーヤで大きな損害を受けた後、シナーナで勝利し、ウナイザやブライダなどカスィームの町々が彼の側についた。イブン・ラシードを支援するために来たオスマン軍は砂漠で大きな被害を受け、まもなく撤退した。"
+   }
+  },
+  {
+   "year": 1906,
+   "qid": "Q3636596",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Rawdat Muhanna",
+    "ko": "라우다트 무한나 전투",
+    "zh": "劳达特·穆汉纳之战",
+    "ja": "ラウダト・ムハンナの戦い"
+   },
+   "description": {
+    "en": "In April 1906 Ibn Saud's forces surprised the Rashidi camp at Rawdat Muhanna in Qasim, and the Rashidi emir Abdulaziz ibn Mut'ib was killed. His death threw Ha'il into a period of internal strife and confirmed Ibn Saud's hold over southern and central Najd.",
+    "ko": "1906년 4월 이븐 사우드의 군대가 카심의 라우다트 무한나에서 라시드 진영을 기습했고, 라시드의 에미르 압둘아지즈 이븐 무트이브가 전사했다. 그의 죽음으로 하일은 내분에 빠졌고, 나지드 남부와 중부에 대한 이븐 사우드의 장악이 굳어졌다.",
+    "zh": "1906年4月，伊本·沙特的军队在盖西姆的劳达特·穆汉纳奇袭拉希德营地，拉希德埃米尔阿卜杜勒阿齐兹·本·穆特卜阵亡。他的死使哈伊勒陷入内乱，也巩固了伊本·沙特对纳季德南部和中部的控制。",
+    "ja": "1906年4月、イブン・サウードの軍はカスィームのラウダト・ムハンナでラシード家の陣営を奇襲し、ラシード家のアミール、アブドゥルアズィーズ・イブン・ムトイブが戦死した。その死でハーイルは内紛に陥り、イブン・サウードのナジュド南部・中部への支配が固まった。"
+   }
+  },
+  {
+   "year": 1908,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Hejaz Railway reaches Medina",
+    "ko": "헤자즈 철도의 메디나 개통",
+    "zh": "汉志铁路通抵麦地那",
+    "ja": "ヒジャーズ鉄道のメディナ到達"
+   },
+   "description": {
+    "en": "Built by the Ottoman government under Sultan Abdulhamid II with donations from Muslims worldwide, the Hejaz Railway from Damascus reached Medina in 1908. It cut the pilgrim journey from weeks to days and strengthened Ottoman control. It was never extended to Mecca, and attacks during the Arab Revolt and the First World War left the southern section in ruins.",
+    "ko": "술탄 압뒬하미트 2세 치하의 오스만 정부가 전 세계 무슬림의 기부로 건설한 다마스쿠스발 헤자즈 철도는 1908년 메디나에 도달했다. 이 철도는 몇 주 걸리던 순례 여정을 며칠로 단축하고 오스만의 통제를 강화했다. 메카까지는 연장되지 못했으며, 아랍 반란과 제1차 세계대전 중의 공격으로 남부 구간은 폐허가 되었다.",
+    "zh": "奥斯曼政府在苏丹阿卜杜勒哈米德二世治下，以全世界穆斯林的捐款修建的汉志铁路从大马士革出发，于1908年通抵麦地那。它将朝觐旅程从数周缩短为数日，并加强了奥斯曼的控制。铁路始终未延伸至麦加，阿拉伯起义和第一次世界大战期间的袭击使其南段沦为废墟。",
+    "ja": "スルタン・アブデュルハミト2世のもとオスマン政府が世界のムスリムの寄付で建設したダマスカス発のヒジャーズ鉄道は、1908年にメディナに到達した。数週間かかった巡礼の旅を数日に縮め、オスマンの支配を強めた。メッカまでは延伸されず、アラブ反乱と第一次世界大戦中の攻撃で南部区間は廃墟となった。"
+   }
+  },
+  {
+   "year": 1912,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Ikhwan settlement at al-Artawiya",
+    "ko": "알아르타위야의 이흐완 정착촌",
+    "zh": "阿尔塔维耶的伊赫万定居点",
+    "ja": "アルタウィーヤのイフワーン入植地"
+   },
+   "description": {
+    "en": "Around 1912–1913 Bedouin of the Mutayr tribe founded al-Artawiya, the first of the Ikhwan ('Brethren') settlements, where nomads settled to farm and receive religious instruction. Encouraged by Ibn Saud, more than a hundred such hijra settlements arose, supplying zealous fighters for his conquests—though the Ikhwan later turned against him.",
+    "ko": "1912~1913년경 무타이르 부족의 베두인들이 최초의 이흐완('형제들') 정착촌인 알아르타위야를 세웠고, 유목민들은 이곳에 정착해 농사를 짓고 종교 교육을 받았다. 이븐 사우드의 장려로 이런 '히즈라' 정착촌이 백 곳 넘게 생겨나 그의 정복 전쟁에 열성적인 전사를 공급했지만, 이흐완은 훗날 그에게 등을 돌렸다.",
+    "zh": "约1912至1913年，穆泰尔部落的贝都因人建立了第一个伊赫万（“兄弟会”）定居点阿尔塔维耶，游牧民在此定居务农并接受宗教教育。在伊本·沙特的鼓励下，此类“希吉拉”定居点出现了一百多个，为他的征服战争提供了狂热的战士，但伊赫万后来与他反目。",
+    "ja": "1912〜1913年頃、ムタイル族のベドウィンが最初のイフワーン（「同胞」）入植地アルタウィーヤを築き、遊牧民はそこに定住して農耕を営み宗教教育を受けた。イブン・サウードの奨励でこうした「ヒジュラ」入植地は百以上生まれ、彼の征服に熱狂的な戦士を供給したが、イフワーンはのちに彼に背いた。"
+   }
+  },
+  {
+   "year": 1913,
+   "qid": "Q16692266",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ibn Saud conquers al-Ahsa",
+    "ko": "이븐 사우드의 알아흐사 정복",
+    "zh": "伊本·沙特征服艾赫萨",
+    "ja": "イブン・サウードのアハサー征服"
+   },
+   "description": {
+    "en": "In May 1913 Ibn Saud's forces took Hofuf and expelled the Ottoman garrison from al-Ahsa, regaining the eastern province his ancestors had ruled. The conquest gave his state a coastline on the Gulf and contact with Britain—and, as it later turned out, the land above the world's largest oil reserves.",
+    "ko": "1913년 5월 이븐 사우드의 군대는 후푸프를 점령하고 알아흐사에서 오스만 수비대를 몰아내 선조들이 다스렸던 동부 지역을 되찾았다. 이 정복으로 그의 국가는 걸프 해안과 영국과의 접점을 얻었으며, 훗날 밝혀지듯 세계 최대 석유 매장지 위의 땅을 손에 넣었다.",
+    "zh": "1913年5月，伊本·沙特的军队攻占胡富夫，将奥斯曼驻军逐出艾赫萨，收复了祖先曾经统治的东部地区。此次征服使其国家获得海湾海岸线并与英国建立联系，后来还证明，这片土地之下蕴藏着世界最大的石油储量。",
+    "ja": "1913年5月、イブン・サウードの軍はフフーフを攻略してアル＝アハサーからオスマン守備隊を追い出し、祖先が治めた東部地方を取り戻した。この征服で彼の国家は湾岸の海岸線とイギリスとの接点を得、のちに判明するように世界最大の石油埋蔵地の上の土地を手に入れた。"
+   }
+  },
+  {
+   "year": 1915,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Darin with Britain",
+    "ko": "영국과의 다린 조약",
+    "zh": "与英国签订《达林条约》",
+    "ja": "イギリスとのダーリーン条約"
+   },
+   "description": {
+    "en": "In December 1915 Ibn Saud signed the Treaty of Darin with Britain, which recognized his rule over Najd, al-Ahsa, Qatif and Jubail and placed them under British protection, while he agreed not to deal with other foreign powers. Earlier that year the British agent William Shakespear had been killed while accompanying Ibn Saud at the Battle of Jarrab against the Rashidis.",
+    "ko": "1915년 12월 이븐 사우드는 영국과 다린 조약을 맺어 나지드·알아흐사·카티프·주바일에 대한 그의 통치를 인정받고 영국의 보호를 받는 대신 다른 외국 세력과 교섭하지 않기로 했다. 같은 해 초 영국 정치 대리인 윌리엄 셰익스피어는 라시드 가문과의 자랍 전투에서 이븐 사우드와 동행하다 전사했다.",
+    "zh": "1915年12月，伊本·沙特与英国签订《达林条约》，英国承认其对纳季德、艾赫萨、盖提夫和朱拜勒的统治并给予保护，他则承诺不与其他外国势力交往。同年早些时候，英国代表威廉·莎士比亚在随伊本·沙特与拉希德家族作战的贾拉卜之战中阵亡。",
+    "ja": "1915年12月、イブン・サウードはイギリスとダーリーン条約を結び、ナジュド、アル＝アハサー、カティーフ、ジュバイルに対する支配を認められてイギリスの保護下に入り、他の外国勢力と交渉しないことを約した。同年初め、イギリスの政務官ウィリアム・シェイクスピアはラシード家とのジャッラーブの戦いでイブン・サウードに同行中に戦死していた。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": "Q2089020",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Arab Revolt begins in Mecca",
+    "ko": "메카에서 아랍 반란 발발",
+    "zh": "阿拉伯起义在麦加爆发",
+    "ja": "メッカでアラブ反乱勃発"
+   },
+   "description": {
+    "en": "In June 1916 Sharif Hussein ibn Ali of Mecca, encouraged by British promises of Arab independence, launched the Arab Revolt against the Ottoman Empire. His forces took Mecca, Jeddah (with British naval support) and Ta'if within months, and Hussein proclaimed himself King of the Arab lands, recognized by the Allies as King of the Hejaz.",
+    "ko": "1916년 6월 영국의 아랍 독립 약속에 고무된 메카의 샤리프 후세인 이븐 알리는 오스만 제국에 맞선 아랍 반란을 일으켰다. 그의 군대는 몇 달 만에 메카, 영국 해군의 지원을 받아 제다, 그리고 타이프를 점령했으며, 후세인은 아랍 땅의 왕을 자칭했고 연합국은 그를 헤자즈 왕으로 인정했다.",
+    "zh": "1916年6月，麦加谢里夫侯赛因·本·阿里受英国承诺阿拉伯独立的鼓舞，发动反抗奥斯曼帝国的阿拉伯起义。其部队数月内攻占麦加、在英国海军支援下攻占吉达，并夺取塔伊夫。侯赛因自称阿拉伯各地之王，协约国则承认他为汉志国王。",
+    "ja": "1916年6月、アラブ独立のイギリスの約束に力を得たメッカのシャリーフ、フサイン・イブン・アリーはオスマン帝国に対するアラブ反乱を起こした。その軍は数か月のうちにメッカ、イギリス海軍の支援を得てジッダ、そしてターイフを占領し、フサインはアラブの地の王を称し、連合国は彼をヒジャーズ王として認めた。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": "Q2089011",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Siege of Medina",
+    "ko": "메디나 포위전",
+    "zh": "麦地那之围",
+    "ja": "メディナ包囲戦"
+   },
+   "description": {
+    "en": "The Ottoman commander Fakhri Pasha held Medina against Hashemite forces from 1916, supplied by the Hejaz Railway, which Arab irregulars and T. E. Lawrence repeatedly raided. He refused to surrender even after the Ottoman armistice of October 1918, finally yielding only in January 1919, ending one of the longest sieges in history.",
+    "ko": "오스만 지휘관 파흐리 파샤는 1916년부터 헤자즈 철도로 보급을 받으며 하심가 군대에 맞서 메디나를 지켰고, 아랍 비정규군과 T. E. 로렌스는 이 철도를 거듭 습격했다. 그는 1918년 10월 오스만의 휴전 이후에도 항복을 거부하다가 1919년 1월에야 굴복했으며, 이는 역사상 가장 긴 포위전 중 하나였다.",
+    "zh": "奥斯曼指挥官法赫里帕夏自1916年起依靠汉志铁路补给，坚守麦地那抵抗哈希姆军队，阿拉伯非正规军和T. E. 劳伦斯屡次袭击这条铁路。即使在1918年10月奥斯曼停战之后他仍拒不投降，直到1919年1月才终于交出城池，这是历史上最漫长的围城战之一。",
+    "ja": "オスマン軍の指揮官ファフリ・パシャは1916年からヒジャーズ鉄道で補給を受けながらハーシム家の軍に対してメディナを守り、アラブ非正規軍とT・E・ロレンスはこの鉄道を繰り返し襲撃した。彼は1918年10月のオスマン帝国の休戦後も降伏を拒み、1919年1月にようやく屈した。これは史上最も長い包囲戦の一つだった。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Turabah",
+    "ko": "투라바 전투",
+    "zh": "图拉拜之战",
+    "ja": "トゥラバの戦い"
+   },
+   "description": {
+    "en": "In May 1919 Ikhwan forces loyal to Ibn Saud surprised and routed a Hashemite army under Abdullah, son of King Hussein, at the oasis of Turabah on the Najd–Hejaz border. The defeat exposed the weakness of the Kingdom of Hejaz and foreshadowed its conquest five years later; British pressure temporarily halted further Saudi advance.",
+    "ko": "1919년 5월 이븐 사우드에 충성하는 이흐완 군대가 나지드와 헤자즈 경계의 오아시스 투라바에서 후세인 왕의 아들 압둘라가 이끄는 하심가 군대를 기습해 궤멸시켰다. 이 패배는 헤자즈 왕국의 약점을 드러내며 5년 뒤의 정복을 예고했으나, 영국의 압력으로 사우디의 진격은 일시 중단되었다.",
+    "zh": "1919年5月，效忠伊本·沙特的伊赫万部队在纳季德与汉志交界的图拉拜绿洲奇袭并击溃侯赛因国王之子阿卜杜拉率领的哈希姆军队。此役暴露了汉志王国的虚弱，预示了五年后的征服；但在英国压力下，沙特的进一步推进暂时停止。",
+    "ja": "1919年5月、イブン・サウードに忠実なイフワーン軍は、ナジュドとヒジャーズの境にあるオアシスのトゥラバで、フサイン王の子アブドゥッラー率いるハーシム家の軍を奇襲して壊滅させた。この敗北はヒジャーズ王国の弱さを露呈し5年後の征服を予告したが、イギリスの圧力でサウード側の進撃は一時止まった。"
+   }
+  },
+  {
+   "year": 1921,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Ha'il and end of the Rashidi emirate",
+    "ko": "하일 함락과 라시드 토후국의 종말",
+    "zh": "哈伊勒陷落，拉希德酋长国灭亡",
+    "ja": "ハーイル陥落とラシード朝の終焉"
+   },
+   "description": {
+    "en": "After a siege, Ha'il surrendered to Ibn Saud in November 1921, ending the Emirate of Jabal Shammar. The conquest united northern and central Arabia under the Saudis, and that year Ibn Saud adopted the title Sultan of Najd and its Dependencies. Members of the Rashidi family were taken to Riyadh.",
+    "ko": "포위 끝에 하일은 1921년 11월 이븐 사우드에게 항복했고, 자발 샴마르 토후국은 막을 내렸다. 이 정복으로 북부와 중부 아라비아가 사우드 가문 아래 통합되었으며, 그해 이븐 사우드는 '나지드와 그 속령의 술탄' 칭호를 채택했다. 라시드 가문 사람들은 리야드로 옮겨졌다.",
+    "zh": "经过围城，哈伊勒于1921年11月向伊本·沙特投降，沙马尔山酋长国就此灭亡。此次征服使阿拉伯北部和中部统一于沙特家族之下，同年伊本·沙特采用“纳季德及其属地苏丹”的称号。拉希德家族成员被带往利雅得。",
+    "ja": "包囲の末、ハーイルは1921年11月にイブン・サウードに降伏し、ジャバル・シャンマル首長国は終わった。この征服で北部・中部アラビアはサウード家のもとに統合され、同年イブン・サウードは「ナジュドとその属領のスルタン」の称号を採用した。ラシード家の人々はリヤドに移された。"
+   }
+  },
+  {
+   "year": 1922,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Uqair Protocol draws borders",
+    "ko": "우카이르 의정서와 국경 획정",
+    "zh": "《乌凯尔议定书》划定边界",
+    "ja": "ウカイル議定書による国境画定"
+   },
+   "description": {
+    "en": "At the conference of Uqair in 1922, the British official Percy Cox fixed boundaries between Ibn Saud's Najd, British-mandated Iraq and Kuwait. The protocol created two neutral zones, with Iraq and with Kuwait, and gave Najd territory that Kuwait had claimed. It was an early step in the modern territorial definition of Saudi Arabia.",
+    "ko": "1922년 우카이르 회의에서 영국 관리 퍼시 콕스는 이븐 사우드의 나지드와 영국 위임통치령 이라크, 쿠웨이트 사이의 경계를 정했다. 의정서는 이라크 및 쿠웨이트와의 두 중립 지대를 만들었고 쿠웨이트가 주장하던 땅을 나지드에 주었다. 이는 사우디아라비아 근대 영토 확정의 초기 단계였다.",
+    "zh": "1922年乌凯尔会议上，英国官员珀西·考克斯划定了伊本·沙特的纳季德与英国委任统治下的伊拉克及科威特之间的边界。议定书设立了分别与伊拉克和科威特相邻的两个中立区，并把科威特所主张的部分领土划归纳季德。这是沙特阿拉伯现代领土界定的早期一步。",
+    "ja": "1922年のウカイル会議で、イギリスの官僚パーシー・コックスはイブン・サウードのナジュドとイギリス委任統治下のイラク、クウェートとの境界を定めた。議定書はイラクおよびクウェートとの二つの中立地帯を設け、クウェートが主張していた土地をナジュドに与えた。これはサウジアラビアの近代的な領域確定の初期段階だった。"
+   }
+  },
+  {
+   "year": 1924,
+   "qid": "Q4871705",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Saudi conquest of Ta'if and Mecca",
+    "ko": "사우디의 타이프·메카 정복",
+    "zh": "沙特征服塔伊夫与麦加",
+    "ja": "サウード軍のターイフ・メッカ征服"
+   },
+   "description": {
+    "en": "After King Hussein claimed the title of caliph in March 1924, Ibn Saud launched an invasion of the Hejaz. Ikhwan forces took Ta'if in September amid killings of townspeople, Hussein abdicated in favor of his son Ali, and Saudi forces entered Mecca without resistance in October 1924.",
+    "ko": "1924년 3월 후세인 왕이 칼리파 칭호를 주장하자 이븐 사우드는 헤자즈 침공에 나섰다. 이흐완 군대는 9월 주민 살해 속에 타이프를 점령했고, 후세인은 아들 알리에게 양위했으며, 사우디군은 1924년 10월 저항 없이 메카에 입성했다.",
+    "zh": "1924年3月侯赛因国王宣称哈里发称号后，伊本·沙特发动对汉志的入侵。伊赫万部队于9月攻占塔伊夫，并发生了杀戮居民的事件；侯赛因让位于其子阿里，沙特军队于1924年10月未遇抵抗进入麦加。",
+    "ja": "1924年3月にフサイン王がカリフの称号を名乗ると、イブン・サウードはヒジャーズ侵攻に乗り出した。イフワーン軍は9月に住民の殺害を伴いながらターイフを占領し、フサインは息子アリーに譲位し、サウード軍は1924年10月に抵抗を受けずメッカに入った。"
+   }
+  },
+  {
+   "year": 1925,
+   "qid": "Q4871317",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Surrender of Jeddah ends the Hashemite Hejaz",
+    "ko": "제다 항복과 하심가 헤자즈의 종말",
+    "zh": "吉达投降，哈希姆汉志王国终结",
+    "ja": "ジッダ降伏とハーシム家ヒジャーズの終焉"
+   },
+   "description": {
+    "en": "After a siege of about a year, Jeddah surrendered to Ibn Saud in December 1925, and King Ali ibn Hussein left for Iraq. Medina had fallen earlier that month. The Saudis now controlled the whole Hejaz, ending nearly a millennium of Sharifian rule in Mecca.",
+    "ko": "약 1년의 포위 끝에 제다는 1925년 12월 이븐 사우드에게 항복했고, 알리 이븐 후세인 왕은 이라크로 떠났다. 메디나는 같은 달 앞서 함락되었다. 이로써 사우드 가문은 헤자즈 전역을 장악했으며, 메카에서 천 년 가까이 이어진 샤리프 통치가 끝났다.",
+    "zh": "经过约一年的围城，吉达于1925年12月向伊本·沙特投降，阿里·本·侯赛因国王出走伊拉克。麦地那已于当月稍早陷落。沙特家族由此控制整个汉志，结束了谢里夫家族在麦加近千年的统治。",
+    "ja": "約1年の包囲の末、ジッダは1925年12月にイブン・サウードに降伏し、アリー・イブン・フサイン王はイラクへ去った。メディナは同月それより前に陥落していた。これによりサウード家はヒジャーズ全域を掌握し、メッカで千年近く続いたシャリーフの支配は終わった。"
+   }
+  },
+  {
+   "year": 1926,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Abdulaziz proclaimed King of the Hejaz",
+    "ko": "압둘아지즈, 헤자즈 왕으로 추대",
+    "zh": "阿卜杜勒阿齐兹称汉志国王",
+    "ja": "アブドゥルアズィーズ、ヒジャーズ王に推戴"
+   },
+   "description": {
+    "en": "In January 1926 notables in Mecca proclaimed Abdulaziz ibn Saud King of the Hejaz; in 1927 he also became King of Najd. That year his followers demolished domed tombs in Medina's al-Baqi cemetery and elsewhere, an act that drew protests from Muslims in other countries and remains controversial.",
+    "ko": "1926년 1월 메카의 유력자들은 압둘아지즈 이븐 사우드를 헤자즈 왕으로 추대했고, 1927년 그는 나지드 왕도 되었다. 같은 해 무렵 그의 추종자들은 메디나 바키 묘지 등지의 돔형 무덤을 허물었는데, 이는 다른 나라 무슬림들의 항의를 불렀고 지금도 논란이 있다.",
+    "zh": "1926年1月，麦加的头面人物拥立阿卜杜勒阿齐兹·伊本·沙特为汉志国王；1927年他又成为纳季德国王。同一时期，其追随者拆毁了麦地那巴基墓地等处的圆顶陵墓，此举招致其他国家穆斯林的抗议，至今仍有争议。",
+    "ja": "1926年1月、メッカの有力者たちはアブドゥルアズィーズ・イブン・サウードをヒジャーズ王に推戴し、1927年には彼はナジュド王にもなった。この頃、彼の支持者はメディナのバキー墓地などのドーム付き墓廟を取り壊し、他国のムスリムから抗議を受けた。この行為は今も議論を呼んでいる。"
+   }
+  },
+  {
+   "year": 1927,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Jeddah: British recognition",
+    "ko": "제다 조약: 영국의 독립 승인",
+    "zh": "《吉达条约》：英国承认独立",
+    "ja": "ジッダ条約：イギリスの独立承認"
+   },
+   "description": {
+    "en": "The Treaty of Jeddah, signed in May 1927, replaced the 1915 Darin agreement. Britain recognized the complete independence of the Kingdom of Hejaz and Najd under Abdulaziz, and he in turn recognized British positions in the Gulf sheikhdoms. It marked the kingdom's emergence as a sovereign state in international law.",
+    "ko": "1927년 5월 체결된 제다 조약은 1915년 다린 조약을 대체했다. 영국은 압둘아지즈가 다스리는 헤자즈·나지드 왕국의 완전한 독립을 인정했고, 그는 걸프 토후국들에서의 영국의 입지를 인정했다. 이로써 왕국은 국제법상 주권 국가로 등장했다.",
+    "zh": "1927年5月签订的《吉达条约》取代了1915年的《达林条约》。英国承认阿卜杜勒阿齐兹治下的汉志和内志王国完全独立，他则承认英国在海湾各酋长国的地位。这标志着该王国作为国际法上的主权国家登场。",
+    "ja": "1927年5月に結ばれたジッダ条約は1915年のダーリーン条約に代わるものだった。イギリスはアブドゥルアズィーズが治めるヒジャーズ・ナジュド王国の完全な独立を認め、彼は湾岸の首長国におけるイギリスの立場を認めた。これにより王国は国際法上の主権国家として登場した。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": "Q3636603",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Sabilla crushes the Ikhwan revolt",
+    "ko": "사빌라 전투와 이흐완 반란 진압",
+    "zh": "萨比拉之战镇压伊赫万叛乱",
+    "ja": "サビラの戦いとイフワーン反乱の鎮圧"
+   },
+   "description": {
+    "en": "Ikhwan leaders such as Faisal al-Duwaish of the Mutayr, angered by Ibn Saud's ban on raids into British-protected Iraq and Kuwait and by his acceptance of modern innovations, rebelled against him. In March 1929 Ibn Saud's forces, including townsmen and loyal tribes, defeated them at Sabilla. The revolt was fully suppressed by early 1930, establishing the authority of the state over the tribal militias.",
+    "ko": "영국 보호하의 이라크와 쿠웨이트에 대한 습격 금지와 근대 문물 수용에 분노한 무타이르 부족의 파이살 알두와이시 등 이흐완 지도자들이 이븐 사우드에게 반기를 들었다. 1929년 3월 도시민과 충성 부족을 포함한 이븐 사우드의 군대가 사빌라에서 이들을 격파했다. 반란은 1930년 초 완전히 진압되었고, 국가가 부족 민병대 위에 권위를 확립했다.",
+    "zh": "穆泰尔部落的费萨尔·杜维希等伊赫万首领，不满伊本·沙特禁止袭击英国保护下的伊拉克和科威特，并接受现代新事物，起兵反叛。1929年3月，伊本·沙特率领包括市民和忠诚部落在内的军队在萨比拉击败他们。叛乱至1930年初被彻底平定，国家确立了凌驾于部落武装之上的权威。",
+    "ja": "イギリス保護下のイラクとクウェートへの襲撃禁止や近代的な新技術の受け入れに怒ったムタイル族のファイサル・アッドゥワイシュらイフワーンの指導者がイブン・サウードに反旗を翻した。1929年3月、都市民や忠実な部族を含むイブン・サウードの軍がサビラで彼らを破った。反乱は1930年初めまでに完全に鎮圧され、国家が部族民兵の上に権威を確立した。"
+   }
+  },
+  {
+   "year": 1932,
+   "qid": "Q851",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Kingdom of Saudi Arabia proclaimed",
+    "ko": "사우디아라비아 왕국 선포",
+    "zh": "沙特阿拉伯王国宣告成立",
+    "ja": "サウジアラビア王国の成立宣言"
+   },
+   "description": {
+    "en": "After unifying the Nejd and the Hejaz, Abdulaziz Ibn Saud proclaimed the Kingdom of Saudi Arabia on 23 September 1932, creating the modern state with Riyadh as its capital.",
+    "ko": "네지드와 헤자즈를 통일한 압둘아지즈 이븐 사우드가 1932년 9월 23일 사우디아라비아 왕국을 선포했다. 리야드를 수도로 하는 현대 국가가 이때 탄생했다.",
+    "zh": "统一内志与汉志后，阿卜杜勒阿齐兹·伊本·沙特于1932年9月23日宣布成立沙特阿拉伯王国，以利雅得为首都的现代国家由此诞生。",
+    "ja": "ナジュドとヒジャーズを統一したアブドゥルアジーズ・イブン・サウードは、1932年9月23日にサウジアラビア王国の成立を宣言した。リヤドを首都とする現代国家がここに誕生した。"
+   }
+  },
+  {
+   "year": 1933,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Oil concession to Standard Oil of California",
+    "ko": "캘리포니아 스탠더드 오일에 석유 이권 부여",
+    "zh": "向加州标准石油授予石油特许权",
+    "ja": "スタンダード・オイル・オブ・カリフォルニアへの石油利権付与"
+   },
+   "description": {
+    "en": "In May 1933, short of revenue as pilgrim numbers fell during the Great Depression, the kingdom granted an oil concession in the Eastern Province to Standard Oil of California (Socal). Its subsidiary, later renamed the Arabian American Oil Company (Aramco), began exploration around Dammam. The deal laid the foundation of the US–Saudi oil relationship.",
+    "ko": "대공황으로 순례자가 줄어 재정이 부족해지자 왕국은 1933년 5월 동부 지역의 석유 이권을 캘리포니아 스탠더드 오일(소칼)에 부여했다. 그 자회사(훗날 아람코, 즉 아라비안 아메리칸 석유회사로 개칭)가 담맘 일대에서 탐사를 시작했다. 이 계약은 미국-사우디 석유 관계의 토대가 되었다.",
+    "zh": "大萧条期间朝觐人数下降，王国财政拮据，于1933年5月将东部地区的石油特许权授予加州标准石油公司（Socal）。其子公司（后更名为阿拉伯美国石油公司，即阿美石油）开始在达曼一带勘探。这笔交易奠定了美沙石油关系的基础。",
+    "ja": "世界恐慌で巡礼者が減り財政難に陥った王国は、1933年5月に東部地方の石油利権をスタンダード・オイル・オブ・カリフォルニア（ソーカル）に与えた。その子会社（のちにアラビアン・アメリカン石油会社、アラムコに改称）がダンマーム周辺で探査を始めた。この契約は米・サウジの石油関係の基礎となった。"
+   }
+  },
+  {
+   "year": 1934,
+   "qid": "Q1367731",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Saudi–Yemeni War and Treaty of Ta'if",
+    "ko": "사우디-예멘 전쟁과 타이프 조약",
+    "zh": "沙特—也门战争与《塔伊夫条约》",
+    "ja": "サウジ・イエメン戦争とターイフ条約"
+   },
+   "description": {
+    "en": "Disputes over Asir, Najran and Jizan led to war with Imam Yahya's Yemen in 1934. Saudi forces under Prince Faisal advanced along the Tihama coast to Hodeidah, while Prince Saud's column in the highlands made little headway. The Treaty of Ta'if in May 1934 left Asir, Jizan and Najran with Saudi Arabia, and Saudi forces withdrew from Yemen.",
+    "ko": "아시르·나지란·지잔을 둘러싼 분쟁으로 1934년 이맘 야흐야의 예멘과 전쟁이 벌어졌다. 파이살 왕자가 이끄는 사우디군은 티하마 해안을 따라 호데이다까지 진격했으나, 고원 지대의 사우드 왕자 부대는 별 진전이 없었다. 1934년 5월 타이프 조약으로 아시르·지잔·나지란은 사우디아라비아에 남았고 사우디군은 예멘에서 철수했다.",
+    "zh": "因阿西尔、纳季兰和吉赞的归属争议，沙特于1934年与伊玛目叶海亚统治的也门开战。费萨尔王子率领的沙特军队沿帖哈麦海岸推进至荷台达，而沙特王子在高原的部队进展甚微。1934年5月的《塔伊夫条约》使阿西尔、吉赞和纳季兰归属沙特阿拉伯，沙特军队则撤出也门。",
+    "ja": "アスィール、ナジュラン、ジーザーンをめぐる争いから、1934年にイマーム・ヤフヤーのイエメンと戦争になった。ファイサル王子率いるサウジ軍はティハーマ海岸沿いにホデイダまで進んだが、高地のサウード王子の部隊はあまり進めなかった。1934年5月のターイフ条約でアスィール、ジーザーン、ナジュランはサウジアラビアに残り、サウジ軍はイエメンから撤退した。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Oil discovered at Dammam Well No. 7",
+    "ko": "담맘 7번 유정에서 석유 발견",
+    "zh": "达曼7号油井发现石油",
+    "ja": "ダンマーム7号井での石油発見"
+   },
+   "description": {
+    "en": "Commercial quantities of oil were struck at Dammam Well No. 7 in the Eastern Province. The discovery transformed a poor desert kingdom into one of the world's leading oil producers.",
+    "ko": "동부 지역 담맘 7번 유정에서 상업성 있는 석유가 분출했다. 이 발견은 가난한 사막 왕국을 세계 유수의 산유국으로 탈바꿈시켰다.",
+    "zh": "东部省达曼7号油井喷出具有商业价值的石油。这一发现使贫穷的沙漠王国一跃成为世界主要产油国之一。",
+    "ja": "東部州のダンマーム7号井で商業規模の石油が噴出した。この発見は貧しい砂漠の王国を世界有数の産油国へと一変させた。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding member of the UN and Arab League",
+    "ko": "유엔과 아랍연맹의 창립 회원국",
+    "zh": "联合国与阿拉伯国家联盟创始成员国",
+    "ja": "国連・アラブ連盟の創設加盟国に"
+   },
+   "description": {
+    "en": "Saudi Arabia signed the UN Charter and co-founded the Arab League in 1945, emerging as a key regional power. King Abdulaziz's shipboard meeting with US President Roosevelt shaped a lasting partnership.",
+    "ko": "사우디아라비아는 1945년 유엔 헌장에 서명하고 아랍연맹 창설에 참여하며 지역 강국으로 부상했다. 같은 해 압둘아지즈 국왕과 루스벨트 미국 대통령의 선상 회담은 장기적 협력 관계의 초석이 되었다.",
+    "zh": "1945年，沙特阿拉伯签署《联合国宪章》并参与创建阿拉伯国家联盟，崛起为地区大国。同年阿卜杜勒阿齐兹国王与美国总统罗斯福的舰上会晤，奠定了两国长期伙伴关系。",
+    "ja": "サウジアラビアは1945年に国連憲章に署名し、アラブ連盟の創設にも加わって地域大国として台頭した。同年のアブドゥルアジーズ国王とローズヴェルト米大統領の艦上会談は、長期的な協力関係の礎となった。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Discovery of the Ghawar oil field",
+    "ko": "가와르 유전 발견",
+    "zh": "发现加瓦尔油田",
+    "ja": "ガワール油田の発見"
+   },
+   "description": {
+    "en": "In 1948 Aramco drilled a successful well at Ain Dar, which proved to be part of the Ghawar field in al-Ahsa. Ghawar turned out to be the largest conventional oil field ever found, and it has supplied a large share of Saudi production ever since.",
+    "ko": "1948년 아람코는 아인 다르에서 시추에 성공했는데, 이는 알아흐사의 가와르 유전의 일부로 밝혀졌다. 가와르는 지금까지 발견된 재래식 유전 가운데 최대 규모로 드러났으며, 이후 사우디 원유 생산의 큰 몫을 담당해 왔다.",
+    "zh": "1948年，阿美石油公司在艾因达尔钻井成功，后证实其属于艾赫萨的加瓦尔油田。加瓦尔被证明是迄今发现的最大常规油田，此后一直承担着沙特石油产量的很大份额。",
+    "ja": "1948年、アラムコはアイン・ダールで試掘に成功し、それはアル＝アハサーのガワール油田の一部と判明した。ガワールはこれまでに発見された在来型油田として最大のものとわかり、以後サウジアラビアの原油生産の大きな部分を担ってきた。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Fifty-fifty profit-sharing with Aramco",
+    "ko": "아람코와 이익 50대50 분배 합의",
+    "zh": "与阿美石油达成利润对半分成",
+    "ja": "アラムコとの利益折半協定"
+   },
+   "description": {
+    "en": "At the end of 1950 the Saudi government and Aramco agreed to split oil profits equally, sharply raising state revenues. The same year the Trans-Arabian Pipeline (Tapline) began carrying Saudi crude from the Eastern Province across northern Arabia to the Mediterranean coast in Lebanon.",
+    "ko": "1950년 말 사우디 정부와 아람코는 석유 이익을 절반씩 나누기로 합의해 국가 수입이 크게 늘었다. 같은 해 트랜스아라비안 파이프라인(탭라인)이 동부 지역의 사우디 원유를 북부 아라비아를 가로질러 레바논의 지중해 연안으로 운송하기 시작했다.",
+    "zh": "1950年底，沙特政府与阿美石油公司同意石油利润对半分成，国家收入大幅增加。同年，跨阿拉伯输油管道（Tapline）开始将东部地区的沙特原油横贯阿拉伯北部输往黎巴嫩的地中海沿岸。",
+    "ja": "1950年末、サウジ政府とアラムコは石油利益を折半することで合意し、国家収入は大幅に増えた。同年、トランス・アラビアン・パイプライン（タップライン）が東部州の原油を北アラビアを横断してレバノンの地中海沿岸へ送り始めた。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Death of King Abdulaziz; Saud succeeds",
+    "ko": "압둘아지즈 왕 서거와 사우드 왕 즉위",
+    "zh": "阿卜杜勒阿齐兹国王去世，沙特继位",
+    "ja": "アブドゥルアズィーズ王の死とサウード王の即位"
+   },
+   "description": {
+    "en": "King Abdulaziz, founder of modern Saudi Arabia, died in Ta'if in November 1953. Shortly before his death he created a Council of Ministers. He was succeeded by his eldest surviving son Saud, beginning a system of succession among Abdulaziz's sons that lasted until 2015.",
+    "ko": "근대 사우디아라비아의 건국자 압둘아지즈 왕은 1953년 11월 타이프에서 사망했다. 그는 죽기 직전 각료회의를 창설했다. 생존한 아들 중 장남인 사우드가 왕위를 이었으며, 이로써 2015년까지 이어진 압둘아지즈 아들들 간의 왕위 계승 체제가 시작되었다.",
+    "zh": "现代沙特阿拉伯的缔造者阿卜杜勒阿齐兹国王于1953年11月在塔伊夫去世。去世前不久，他设立了内阁。由在世的长子沙特继位，由此开启了阿卜杜勒阿齐兹诸子之间相继为王、一直延续到2015年的继承体制。",
+    "ja": "近代サウジアラビアの建国者アブドゥルアズィーズ王は1953年11月にターイフで没した。死の直前、彼は閣僚評議会を創設した。存命の息子の最年長サウードが王位を継ぎ、2015年まで続くアブドゥルアズィーズの息子たちの間での王位継承体制が始まった。"
+   }
+  },
+  {
+   "year": 1957,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "King Saud University founded",
+    "ko": "킹사우드 대학교 설립",
+    "zh": "沙特国王大学成立",
+    "ja": "キング・サウード大学の設立"
+   },
+   "description": {
+    "en": "The kingdom's first university, later named King Saud University, opened in Riyadh in 1957. It marked the beginning of a large expansion of modern higher education funded by oil revenues, alongside the spread of public schooling for boys and, from 1960, for girls.",
+    "ko": "왕국 최초의 대학으로 훗날 킹사우드 대학교로 불리게 된 대학이 1957년 리야드에 문을 열었다. 이는 석유 수입으로 뒷받침된 근대 고등교육 확대의 시작이었으며, 남자아이와 1960년부터는 여자아이를 위한 공교육 보급과 함께 진행되었다.",
+    "zh": "王国第一所大学（后称沙特国王大学）于1957年在利雅得开办。这标志着依靠石油收入大规模发展现代高等教育的开端，与之同时推进的还有男童以及自1960年起女童的公立教育普及。",
+    "ja": "王国初の大学で、のちにキング・サウード大学と呼ばれる大学が1957年にリヤドに開校した。これは石油収入に支えられた近代高等教育の大拡充の始まりであり、男子、さらに1960年からは女子の公教育の普及と並行して進んだ。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Co-founds OPEC",
+    "ko": "석유수출국기구(OPEC) 공동 창설",
+    "zh": "共同创建石油输出国组织（OPEC）",
+    "ja": "石油輸出国機構（OPEC）の共同設立"
+   },
+   "description": {
+    "en": "Saudi Arabia joined Iran, Iraq, Kuwait and Venezuela in founding the Organization of the Petroleum Exporting Countries in Baghdad, gaining collective influence over global oil prices.",
+    "ko": "사우디아라비아는 이란·이라크·쿠웨이트·베네수엘라와 함께 바그다드에서 석유수출국기구(OPEC)를 창설해 세계 유가에 대한 집단적 영향력을 확보했다.",
+    "zh": "沙特阿拉伯与伊朗、伊拉克、科威特和委内瑞拉在巴格达共同创建石油输出国组织，由此获得了对全球油价的集体影响力。",
+    "ja": "サウジアラビアはイラン、イラク、クウェート、ベネズエラとともにバグダードで石油輸出国機構（OPEC）を設立し、世界の原油価格に対する集団的影響力を手にした。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Faisal's reform program abolishes slavery",
+    "ko": "파이살의 개혁 강령과 노예제 폐지",
+    "zh": "费萨尔改革纲领废除奴隶制",
+    "ja": "ファイサルの改革綱領と奴隷制廃止"
+   },
+   "description": {
+    "en": "As prime minister under King Saud, Crown Prince Faisal announced a ten-point reform program in November 1962 that included the abolition of slavery, which was carried out with compensation to owners. The same autumn, the revolution in North Yemen led Saudi Arabia to back the royalists in the ensuing civil war against Egyptian-supported republicans.",
+    "ko": "사우드 왕 치하에서 총리를 맡은 파이살 왕세자는 1962년 11월 노예제 폐지를 포함한 10개 항의 개혁 강령을 발표했으며, 노예제 폐지는 소유주에 대한 보상과 함께 시행되었다. 같은 해 가을 북예멘에서 혁명이 일어나자 사우디아라비아는 이어진 내전에서 이집트가 지원하는 공화파에 맞서 왕당파를 지원했다.",
+    "zh": "王储费萨尔在沙特国王治下任首相，于1962年11月宣布包括废除奴隶制在内的十点改革纲领，废奴在向奴隶主作出补偿的情况下实施。同年秋天北也门爆发革命，沙特在随后的内战中支持保皇派对抗埃及支持的共和派。",
+    "ja": "サウード王のもとで首相を務めたファイサル皇太子は1962年11月、奴隷制廃止を含む10項目の改革綱領を発表し、廃止は所有者への補償を伴って実施された。同年秋に北イエメンで革命が起きると、サウジアラビアは続く内戦でエジプトが支援する共和派に対して王党派を支援した。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "King Saud deposed; Faisal becomes king",
+    "ko": "사우드 왕 폐위와 파이살 즉위",
+    "zh": "沙特国王被废，费萨尔即位",
+    "ja": "サウード王の廃位とファイサル即位"
+   },
+   "description": {
+    "en": "After years of rivalry within the royal family, financial mismanagement and a power struggle with his brother, King Saud was deposed in November 1964 with the backing of senior princes and the religious scholars. Faisal became king and pursued modernization—schools for girls, television, infrastructure—within a conservative religious framework.",
+    "ko": "수년간의 왕실 내 갈등, 재정 실정, 동생과의 권력 투쟁 끝에 사우드 왕은 1964년 11월 원로 왕자들과 종교 학자들의 지지 속에 폐위되었다. 즉위한 파이살 왕은 보수적 종교 틀 안에서 여학교·텔레비전·사회기반시설 등 근대화를 추진했다.",
+    "zh": "经过多年的王室内部竞争、财政管理不善以及与其弟的权力斗争，沙特国王于1964年11月在资深王子和宗教学者的支持下被废黜。费萨尔即位，在保守的宗教框架内推进现代化，包括兴办女校、开办电视和建设基础设施。",
+    "ja": "長年の王族内の対立、財政の失政、弟との権力闘争の末、サウード王は1964年11月に有力王子と宗教学者の支持のもとで廃位された。即位したファイサル王は保守的な宗教の枠内で女子校、テレビ、インフラ整備などの近代化を進めた。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "1973 oil embargo reshapes global energy",
+    "ko": "1973년 석유 금수 조치",
+    "zh": "1973年石油禁运重塑全球能源格局",
+    "ja": "1973年の石油禁輸（オイルショック）"
+   },
+   "description": {
+    "en": "During the October 1973 Arab-Israeli War, Saudi Arabia led Arab oil producers in an embargo against countries supporting Israel. Oil prices quadrupled, demonstrating the kingdom's global economic weight.",
+    "ko": "1973년 10월 중동전쟁 당시 사우디아라비아는 아랍 산유국들의 대이스라엘 지원국 석유 금수 조치를 주도했다. 유가가 4배로 급등하며 왕국의 세계 경제적 위상이 입증되었다.",
+    "zh": "在1973年十月中东战争期间，沙特阿拉伯带领阿拉伯产油国对支持以色列的国家实施石油禁运。油价上涨约四倍，凸显了沙特在世界经济中的分量。",
+    "ja": "1973年10月の第四次中東戦争に際し、サウジアラビアはアラブ産油国によるイスラエル支援国への石油禁輸を主導した。原油価格は約4倍に高騰し、王国の世界経済への影響力を示した。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of King Faisal",
+    "ko": "파이살 왕 암살",
+    "zh": "费萨尔国王遇刺",
+    "ja": "ファイサル王の暗殺"
+   },
+   "description": {
+    "en": "On 25 March 1975 King Faisal was shot dead in Riyadh by his nephew, Prince Faisal ibn Musaid, who was later executed. Faisal's brother Khalid became king, with Crown Prince Fahd taking a leading role in government during a period of booming oil revenues and vast development spending.",
+    "ko": "1975년 3월 25일 파이살 왕은 리야드에서 조카 파이살 이븐 무사이드 왕자의 총에 맞아 숨졌으며, 범인은 후에 처형되었다. 파이살의 동생 할리드가 왕위에 올랐고, 석유 수입이 급증하고 막대한 개발 지출이 이뤄지던 시기에 파흐드 왕세자가 국정에서 주도적 역할을 했다.",
+    "zh": "1975年3月25日，费萨尔国王在利雅得被其侄子费萨尔·本·穆萨伊德亲王枪杀，凶手后被处决。费萨尔之弟哈立德继位，在石油收入激增、开发支出巨大的时期，王储法赫德在政府中发挥主导作用。",
+    "ja": "1975年3月25日、ファイサル王はリヤドで甥のファイサル・イブン・ムサーイド王子に射殺され、犯人はのちに処刑された。ファイサルの弟ハーリドが王位を継ぎ、石油収入が急増し巨額の開発支出が行われた時期に、ファハド皇太子が政府で主導的役割を担った。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q829839",
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Seizure of the Grand Mosque in Mecca",
+    "ko": "메카 대모스크 점거 사건",
+    "zh": "麦加大清真寺被占事件",
+    "ja": "メッカ大モスク占拠事件"
+   },
+   "description": {
+    "en": "On 20 November 1979, the first day of the Islamic year 1400, hundreds of armed militants led by Juhayman al-Otaybi seized the Grand Mosque in Mecca, proclaiming his brother-in-law the Mahdi and denouncing the royal family. Saudi forces, with foreign advisory assistance, retook the mosque after two weeks of fighting with heavy loss of life. In the aftermath the government gave religious conservatives greater influence over social life.",
+    "ko": "이슬람력 1400년 첫날인 1979년 11월 20일 주하이만 알우타이비가 이끄는 수백 명의 무장 세력이 메카 대모스크를 점거하고 그의 처남을 마흐디로 선포하며 왕실을 규탄했다. 사우디군은 외국의 자문 지원을 받아 2주간의 전투 끝에 모스크를 탈환했으며 많은 인명이 희생되었다. 사건 이후 정부는 사회생활에 대한 종교 보수파의 영향력을 확대했다.",
+    "zh": "1979年11月20日，即伊斯兰历1400年元旦，朱海曼·欧泰比率领数百名武装分子占领麦加大清真寺，宣布其妹夫为马赫迪并谴责王室。沙特部队在外国顾问协助下经过两周战斗夺回清真寺，伤亡惨重。事件之后，政府赋予宗教保守派对社会生活更大的影响力。",
+    "ja": "イスラーム暦1400年の元日にあたる1979年11月20日、ジュハイマン・アル＝ウタイビー率いる数百人の武装集団がメッカの大モスクを占拠し、義兄弟をマフディーと宣言して王家を糾弾した。サウジ軍は外国の助言支援を受けて2週間の戦闘の末にモスクを奪回し、多くの死傷者が出た。事件後、政府は社会生活に対する宗教保守派の影響力を強めた。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q42378014",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Unrest among the Shia of the Eastern Province",
+    "ko": "동부 지역 시아파의 소요",
+    "zh": "东部省什叶派骚乱",
+    "ja": "東部州シーア派の騒乱"
+   },
+   "description": {
+    "en": "In late November 1979, shortly after the Iranian Revolution, Shia residents of Qatif and other towns in the Eastern Province held Ashura processions and protests against discrimination, which turned into clashes with the National Guard. The government responded with force and later with development spending in the region.",
+    "ko": "이란 혁명 직후인 1979년 11월 말 카티프 등 동부 지역 도시의 시아파 주민들이 아슈라 행렬과 차별 반대 시위를 벌였고, 이는 국가방위대와의 충돌로 번졌다. 정부는 무력으로 대응한 뒤 이후 이 지역에 대한 개발 투자를 늘렸다.",
+    "zh": "1979年11月下旬，伊朗革命后不久，盖提夫等东部地区城镇的什叶派居民举行阿舒拉游行和反歧视抗议，并演变为与国民卫队的冲突。政府以武力回应，后来又增加了对该地区的开发支出。",
+    "ja": "イラン革命直後の1979年11月下旬、カティーフなど東部州の町のシーア派住民がアーシューラーの行進と差別への抗議を行い、国家警備隊との衝突に発展した。政府は武力で対応し、その後この地域への開発支出を増やした。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": "Q2440618",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Saudia Flight 163 fire at Riyadh",
+    "ko": "사우디아 163편 리야드 화재",
+    "zh": "沙特航空163号班机利雅得起火",
+    "ja": "サウディア163便リヤド火災"
+   },
+   "description": {
+    "en": "In August 1980 a fire broke out in the cargo hold of Saudia Flight 163 shortly after take-off from Riyadh. The Lockheed TriStar landed back at Riyadh, but the evacuation was not carried out and all 301 people on board died. It remains one of the deadliest aviation disasters not involving a crash.",
+    "ko": "1980년 8월 리야드를 이륙한 직후 사우디아 163편의 화물칸에서 불이 났다. 록히드 트라이스타 여객기는 리야드로 회항해 착륙했지만 대피가 이뤄지지 않아 탑승자 301명 전원이 사망했다. 이는 추락을 수반하지 않은 항공 사고 중 가장 많은 희생자를 낸 사고 가운데 하나다.",
+    "zh": "1980年8月，沙特航空163号班机从利雅得起飞后不久货舱起火。这架洛克希德三星客机返航降落利雅得，但未能实施疏散，机上301人全部罹难。这至今仍是未发生坠毁的航空事故中死亡人数最多的之一。",
+    "ja": "1980年8月、リヤドを離陸した直後のサウディア163便の貨物室で火災が発生した。ロッキード・トライスターはリヤドに引き返して着陸したが避難が行われず、搭乗者301人全員が死亡した。墜落を伴わない航空事故として最悪級のものの一つである。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "State takes full ownership of Aramco",
+    "ko": "아람코의 완전 국유화",
+    "zh": "国家全面收购阿美石油",
+    "ja": "アラムコの完全国有化"
+   },
+   "description": {
+    "en": "Following a gradual buyout that began with a 25 percent stake in 1973, the Saudi government completed its acquisition of full ownership of Aramco in 1980. In 1988 the company was reorganized as the Saudi Arabian Oil Company (Saudi Aramco), placing the world's largest oil reserves fully under national control.",
+    "ko": "1973년 지분 25% 인수로 시작된 단계적 매입 끝에 사우디 정부는 1980년 아람코의 완전 소유권 취득을 마무리했다. 1988년 회사는 사우디아라비아 석유회사(사우디 아람코)로 재편되어 세계 최대의 석유 매장량이 완전히 국가의 통제 아래 들어갔다.",
+    "zh": "从1973年收购25%股权开始逐步赎买后，沙特政府于1980年完成对阿美石油公司的全部所有权收购。1988年公司改组为沙特阿拉伯国家石油公司（沙特阿美），世界最大的石油储量完全置于国家控制之下。",
+    "ja": "1973年の25％の株式取得から始まった段階的買収の末、サウジ政府は1980年にアラムコの完全所有を達成した。1988年に会社はサウジアラビア石油会社（サウジアラムコ）に改組され、世界最大の石油埋蔵量が完全に国家の管理下に置かれた。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Gulf Cooperation Council founded",
+    "ko": "걸프협력회의(GCC) 창설",
+    "zh": "海湾合作委员会成立",
+    "ja": "湾岸協力会議（GCC）の創設"
+   },
+   "description": {
+    "en": "In May 1981 Saudi Arabia, Kuwait, Bahrain, Qatar, the United Arab Emirates and Oman founded the Gulf Cooperation Council in Abu Dhabi, partly in response to the Iranian Revolution and the Iran–Iraq War. Its secretariat was established in Riyadh, and the bloc became a key framework for Saudi regional policy.",
+    "ko": "1981년 5월 사우디아라비아·쿠웨이트·바레인·카타르·아랍에미리트·오만은 이란 혁명과 이란-이라크 전쟁에 대응하는 차원에서 아부다비에서 걸프협력회의를 창설했다. 사무국은 리야드에 설치되었고, 이 기구는 사우디 지역 정책의 핵심 틀이 되었다.",
+    "zh": "1981年5月，沙特阿拉伯、科威特、巴林、卡塔尔、阿联酋和阿曼在阿布扎比成立海湾合作委员会，部分原因是应对伊朗革命和两伊战争。其秘书处设在利雅得，该组织成为沙特地区政策的重要框架。",
+    "ja": "1981年5月、サウジアラビア、クウェート、バーレーン、カタール、アラブ首長国連邦、オマーンは、イラン革命とイラン・イラク戦争への対応もあってアブダビで湾岸協力会議を創設した。事務局はリヤドに置かれ、この機構はサウジの地域政策の重要な枠組みとなった。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Fahd becomes king",
+    "ko": "파흐드 왕 즉위",
+    "zh": "法赫德即位",
+    "ja": "ファハド王の即位"
+   },
+   "description": {
+    "en": "King Khalid died in June 1982 and was succeeded by Crown Prince Fahd. In 1986 Fahd adopted the title 'Custodian of the Two Holy Mosques' in place of 'His Majesty', emphasizing the monarchy's religious role. His reign saw huge expansions of the Grand Mosque in Mecca and the Prophet's Mosque in Medina.",
+    "ko": "1982년 6월 할리드 왕이 사망하고 파흐드 왕세자가 즉위했다. 1986년 파흐드는 '폐하' 대신 '두 성 모스크의 수호자' 칭호를 채택하여 군주정의 종교적 역할을 강조했다. 그의 치세에 메카 대모스크와 메디나 예언자 모스크가 대대적으로 확장되었다.",
+    "zh": "1982年6月哈立德国王去世，王储法赫德继位。1986年法赫德以“两圣寺护主”取代“陛下”称号，强调君主制的宗教角色。在其统治期间，麦加大清真寺和麦地那先知寺都进行了大规模扩建。",
+    "ja": "1982年6月にハーリド王が没し、ファハド皇太子が即位した。1986年にファハドは「陛下」に代えて「二聖モスクの守護者」の称号を採用し、王制の宗教的役割を強調した。その治世にメッカの大モスクとメディナの預言者のモスクは大規模に拡張された。"
+   }
+  },
+  {
+   "year": 1984,
+   "qid": "Q16117647",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Saudi jets shoot down Iranian aircraft over the Gulf",
+    "ko": "사우디 전투기, 걸프 상공서 이란기 격추",
+    "zh": "沙特战机在海湾上空击落伊朗飞机",
+    "ja": "サウジ軍機が湾岸上空でイラン機を撃墜"
+   },
+   "description": {
+    "en": "On 5 June 1984, during the 'Tanker War' phase of the Iran–Iraq War, Saudi F-15 fighters guided by US-operated AWACS aircraft shot down Iranian F-4 jets approaching Saudi waters. The incident raised fears of a wider war, but both sides avoided further escalation.",
+    "ko": "이란-이라크 전쟁의 '유조선 전쟁' 국면이던 1984년 6월 5일, 미군이 운용하는 AWACS 조기경보기의 유도를 받은 사우디 F-15 전투기가 사우디 영해로 접근하던 이란 F-4 전투기를 격추했다. 이 사건으로 전쟁 확대 우려가 커졌지만 양측은 추가 확전을 피했다.",
+    "zh": "1984年6月5日，正值两伊战争的“油轮战”阶段，沙特F-15战斗机在美方操作的AWACS预警机引导下，击落了逼近沙特水域的伊朗F-4战机。这一事件引发了战争扩大的担忧，但双方均避免了进一步升级。",
+    "ja": "イラン・イラク戦争の「タンカー戦争」期の1984年6月5日、米軍が運用するAWACSの誘導を受けたサウジのF-15戦闘機が、サウジ領海に接近したイランのF-4戦闘機を撃墜した。この事件は戦争拡大の懸念を高めたが、双方はさらなるエスカレーションを避けた。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Clashes with Iranian pilgrims in Mecca",
+    "ko": "메카의 이란 순례자 충돌 사건",
+    "zh": "麦加伊朗朝觐者冲突事件",
+    "ja": "メッカでのイラン人巡礼者衝突事件"
+   },
+   "description": {
+    "en": "On 31 July 1987 a political demonstration by Iranian pilgrims in Mecca led to clashes with Saudi security forces and a crush; according to Saudi figures, 402 people died, more than half of them Iranians. Diplomatic relations between Saudi Arabia and Iran were broken off in 1988 and restored in 1991.",
+    "ko": "1987년 7월 31일 메카에서 이란 순례자들의 정치 시위가 사우디 보안군과의 충돌과 압사 사고로 이어졌으며, 사우디 측 집계로 402명이 숨졌고 그 절반 이상이 이란인이었다. 사우디아라비아와 이란의 외교 관계는 1988년 단절되었다가 1991년 복원되었다.",
+    "zh": "1987年7月31日，伊朗朝觐者在麦加举行政治示威，引发与沙特安全部队的冲突和踩踏；据沙特方面统计，402人死亡，其中半数以上为伊朗人。沙特与伊朗于1988年断交，1991年复交。",
+    "ja": "1987年7月31日、メッカでのイラン人巡礼者の政治デモがサウジ治安部隊との衝突と群衆事故に発展し、サウジ側の発表で402人が死亡、その半数以上がイラン人だった。サウジアラビアとイランの外交関係は1988年に断絶し、1991年に回復した。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q898487",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Operation Desert Shield",
+    "ko": "사막의 방패 작전",
+    "zh": "沙漠盾牌行动",
+    "ja": "砂漠の盾作戦"
+   },
+   "description": {
+    "en": "After Iraq invaded Kuwait in August 1990, King Fahd invited the United States and allied countries to deploy forces in Saudi Arabia to deter an Iraqi attack. Hundreds of thousands of foreign troops arrived in the kingdom. The decision secured the country but provoked strong criticism from some religious figures, including Osama bin Laden.",
+    "ko": "1990년 8월 이라크가 쿠웨이트를 침공하자 파흐드 왕은 이라크의 공격을 억지하기 위해 미국과 동맹국들에 사우디아라비아 내 병력 배치를 요청했다. 수십만 명의 외국군이 왕국에 도착했다. 이 결정은 나라를 지켰지만 오사마 빈 라덴을 비롯한 일부 종교계 인사들의 강한 비판을 불렀다.",
+    "zh": "1990年8月伊拉克入侵科威特后，法赫德国王邀请美国及盟国在沙特部署军队以慑止伊拉克的进攻。数十万外国军队进驻王国。这一决定保障了国家安全，但也招致包括奥萨马·本·拉登在内的一些宗教人士的强烈批评。",
+    "ja": "1990年8月にイラクがクウェートに侵攻すると、ファハド王はイラクの攻撃を抑止するため米国と同盟国にサウジアラビアへの部隊展開を要請した。数十万の外国軍が王国に到着した。この決定は国を守ったが、オサマ・ビンラディンを含む一部の宗教関係者の強い批判を招いた。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q18409574",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Mecca tunnel tragedy",
+    "ko": "메카 터널 참사",
+    "zh": "麦加隧道惨案",
+    "ja": "メッカのトンネル惨事"
+   },
+   "description": {
+    "en": "In July 1990, during the Hajj, a crush in a pedestrian tunnel leading from Mecca to the pilgrim camps at Mina killed 1,426 people, according to the Saudi authorities, many of them from Asian countries. The disaster led to new crowd-control measures in the holy sites.",
+    "ko": "1990년 7월 하지 순례 기간에 메카에서 미나의 순례자 야영지로 이어지는 보행자 터널에서 압사 사고가 일어나, 사우디 당국 발표로 1,426명이 숨졌으며 상당수가 아시아 국가 출신이었다. 이 참사로 성지에서 새로운 군중 통제 조치가 도입되었다.",
+    "zh": "1990年7月朝觐期间，从麦加通往米纳朝觐营地的人行隧道内发生踩踏，据沙特当局公布有1426人死亡，其中许多来自亚洲国家。惨案促使圣地采取新的人群管控措施。",
+    "ja": "1990年7月のハッジの際、メッカからミナーの巡礼者キャンプへ通じる歩行者用トンネルで群衆事故が起き、サウジ当局の発表で1426人が死亡し、その多くはアジア諸国出身だった。この惨事を受けて聖地で新たな群衆管理策が導入された。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q718770",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Khafji",
+    "ko": "카프지 전투",
+    "zh": "海夫吉战役",
+    "ja": "カフジの戦い"
+   },
+   "description": {
+    "en": "In late January 1991, during the Gulf War, Iraqi forces crossed the border and occupied the Saudi coastal town of Khafji, which had been evacuated. Saudi and Qatari forces, supported by US air power and marines, retook the town within days. It was the first major ground engagement of the war. Iraqi Scud missiles also struck Riyadh and Dhahran during the conflict.",
+    "ko": "1991년 1월 말 걸프전 중 이라크군이 국경을 넘어 주민이 대피한 사우디 해안 도시 카프지를 점령했다. 미국 공군력과 해병대의 지원을 받은 사우디·카타르군이 며칠 만에 도시를 탈환했다. 이는 전쟁 중 첫 대규모 지상전이었다. 전쟁 기간에 이라크의 스커드 미사일이 리야드와 다란에도 떨어졌다.",
+    "zh": "1991年1月下旬海湾战争期间，伊拉克军队越过边境，占领已疏散的沙特沿海城镇海夫吉。沙特和卡塔尔部队在美国空中力量和海军陆战队支援下数日内收复该城。这是战争中第一场大规模地面交战。战争期间，伊拉克的飞毛腿导弹还袭击了利雅得和达兰。",
+    "ja": "1991年1月下旬の湾岸戦争中、イラク軍が国境を越え、住民が避難していたサウジの沿岸の町カフジを占領した。米空軍力と海兵隊の支援を受けたサウジ軍とカタール軍が数日で町を奪回した。これは戦争で最初の大規模な地上戦だった。戦争中にはイラクのスカッドミサイルがリヤドやダーランにも着弾した。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": "Q2616122",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Basic Law of Governance",
+    "ko": "통치기본법 제정",
+    "zh": "颁布《治理基本法》",
+    "ja": "統治基本法の制定"
+   },
+   "description": {
+    "en": "In March 1992 King Fahd issued the Basic Law of Governance, a constitution-like charter declaring the Qur'an and Sunnah to be the constitution and defining the kingdom as a monarchy ruled by the sons and grandsons of Abdulaziz. Decrees issued at the same time created a Consultative (Shura) Council, inaugurated in 1993, and a system of regional government.",
+    "ko": "1992년 3월 파흐드 왕은 꾸란과 순나를 헌법으로 선언하고 왕국을 압둘아지즈의 아들과 손자들이 다스리는 군주국으로 규정한 헌법 성격의 통치기본법을 공포했다. 함께 발표된 칙령으로 1993년 출범한 협의회(슈라 위원회)와 지방 행정 제도가 마련되었다.",
+    "zh": "1992年3月，法赫德国王颁布具有宪法性质的《治理基本法》，宣布《古兰经》和圣训为宪法，并规定王国为由阿卜杜勒阿齐兹的儿子和孙辈统治的君主国。同时颁布的诏令设立了于1993年成立的协商会议（舒拉会议）以及地方行政制度。",
+    "ja": "1992年3月、ファハド王はクルアーンとスンナを憲法とし、王国をアブドゥルアズィーズの息子と孫が治める君主国と定める憲法的性格の統治基本法を公布した。同時に出された勅令で、1993年に発足した諮問評議会（シューラー評議会）と地方行政制度が設けられた。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": "Q2869983",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Khobar Towers bombing",
+    "ko": "호바르 타워 폭탄 테러",
+    "zh": "胡拜尔塔爆炸案",
+    "ja": "ホバル・タワー爆破事件"
+   },
+   "description": {
+    "en": "In June 1996 a truck bomb exploded outside the Khobar Towers housing complex near Dhahran, killing 19 US Air Force personnel and wounding hundreds. US investigators attributed the attack to Saudi Hezbollah militants with Iranian support, a finding Iran denied. It followed a 1995 car bombing in Riyadh and signaled growing militant hostility to the US presence.",
+    "ko": "1996년 6월 다란 근처 호바르 타워 주거 단지 앞에서 트럭 폭탄이 터져 미 공군 장병 19명이 숨지고 수백 명이 다쳤다. 미국 수사 당국은 이란의 지원을 받은 사우디 헤즈볼라 무장 세력의 소행으로 보았으나 이란은 이를 부인했다. 이는 1995년 리야드 차량 폭탄 테러에 이은 것으로 미군 주둔에 대한 무장 세력의 적대감이 커지고 있음을 보여 주었다.",
+    "zh": "1996年6月，达兰附近胡拜尔塔住宅区外发生卡车炸弹爆炸，19名美国空军人员丧生，数百人受伤。美国调查人员认定袭击系由伊朗支持的沙特真主党武装分子所为，伊朗予以否认。此前1995年利雅得曾发生汽车炸弹袭击，这显示武装分子对美军驻留的敌意日益加深。",
+    "ja": "1996年6月、ダーラン近郊のホバル・タワー住宅団地の前でトラック爆弾が爆発し、米空軍兵19人が死亡、数百人が負傷した。米国の捜査当局はイランの支援を受けたサウジ・ヒズボラの武装勢力の犯行としたが、イランは否定した。1995年のリヤドでの自動車爆弾事件に続くもので、米軍駐留への武装勢力の敵意の高まりを示した。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": "Q6804417",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Fire at the Mina pilgrim camp",
+    "ko": "미나 순례자 야영지 화재",
+    "zh": "米纳朝觐营地火灾",
+    "ja": "ミナー巡礼キャンプの火災"
+   },
+   "description": {
+    "en": "In April 1997 a fire, reportedly started by a gas cooker, swept through the tent city at Mina during the Hajj, killing more than 340 pilgrims. Afterwards the Saudi authorities replaced the tents with permanent fire-resistant ones.",
+    "ko": "1997년 4월 하지 기간에 가스 조리기에서 시작된 것으로 알려진 화재가 미나의 천막촌을 휩쓸어 340명이 넘는 순례자가 숨졌다. 이후 사우디 당국은 천막을 불연성 상설 천막으로 교체했다.",
+    "zh": "1997年4月朝觐期间，据报由燃气炉引发的大火席卷米纳帐篷城，造成340多名朝觐者死亡。此后沙特当局将帐篷更换为永久性防火帐篷。",
+    "ja": "1997年4月のハッジの際、ガスコンロが原因とされる火災がミナーのテント村を襲い、340人以上の巡礼者が死亡した。その後サウジ当局はテントを恒久的な耐火テントに取り替えた。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": "Q2566144",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Mecca girls' school fire",
+    "ko": "메카 여학교 화재",
+    "zh": "麦加女校火灾",
+    "ja": "メッカ女子校火災"
+   },
+   "description": {
+    "en": "In March 2002 a fire at a girls' school in Mecca killed 15 students. Reports that members of the religious police had hindered the escape of girls who were not wearing proper dress caused public outrage, which the religious police denied. Afterwards the government transferred girls' education from a religious authority to the Ministry of Education.",
+    "ko": "2002년 3월 메카의 한 여학교에서 화재가 발생해 학생 15명이 숨졌다. 종교경찰이 복장을 제대로 갖추지 못한 소녀들의 탈출을 막았다는 보도가 공분을 일으켰으나 종교경찰은 이를 부인했다. 이후 정부는 여성 교육 관할을 종교 기관에서 교육부로 이관했다.",
+    "zh": "2002年3月，麦加一所女子学校发生火灾，15名学生遇难。有报道称宗教警察阻碍未穿戴合规服饰的女生逃生，引发公众愤慨，宗教警察则予以否认。此后政府将女子教育的管理权从宗教机构移交给教育部。",
+    "ja": "2002年3月、メッカの女子校で火災が起き、生徒15人が死亡した。宗教警察が適切な服装をしていない少女たちの避難を妨げたとの報道が世論の怒りを呼んだが、宗教警察は否定した。その後政府は女子教育の所管を宗教機関から教育省に移した。"
+   }
+  },
+  {
+   "year": 2003,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Al-Qaeda campaign begins with Riyadh compound bombings",
+    "ko": "리야드 주거단지 폭탄 테러와 알카에다의 공세",
+    "zh": "利雅得住宅区爆炸与“基地”组织的袭击浪潮",
+    "ja": "リヤド居住区爆破とアルカイダの攻勢"
+   },
+   "description": {
+    "en": "In May 2003 suicide bombers attacked three residential compounds for foreigners in Riyadh, killing dozens of people. The attacks opened a campaign by al-Qaeda in the Arabian Peninsula inside the kingdom that lasted several years. Saudi security forces responded with a large crackdown, and the remaining US combat forces had largely withdrawn from the kingdom that year.",
+    "ko": "2003년 5월 자폭 테러범들이 리야드의 외국인 주거단지 세 곳을 공격해 수십 명이 숨졌다. 이 공격으로 아라비아반도 알카에다가 왕국 내부에서 수년간 이어진 테러 공세를 시작했다. 사우디 보안군은 대대적인 소탕으로 대응했으며, 같은 해 미군 전투 병력은 왕국에서 대부분 철수했다.",
+    "zh": "2003年5月，自杀式袭击者袭击了利雅得三处外国人住宅区，造成数十人死亡。袭击揭开了“阿拉伯半岛基地组织”在王国境内持续数年的袭击浪潮。沙特安全部队以大规模清剿回应，同年驻沙美军作战部队已基本撤离。",
+    "ja": "2003年5月、自爆犯がリヤドの外国人居住区3か所を攻撃し、数十人が死亡した。この攻撃で「アラビア半島のアルカイダ」が王国内で数年に及ぶ攻勢を開始した。サウジ治安部隊は大規模な掃討で対応し、同年、米軍の戦闘部隊は王国からほぼ撤退した。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": "Q4118103",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Khobar massacre",
+    "ko": "호바르 학살",
+    "zh": "胡拜尔屠杀事件",
+    "ja": "ホバル襲撃事件"
+   },
+   "description": {
+    "en": "In May 2004 al-Qaeda gunmen attacked oil-industry offices and a residential compound in Khobar in the Eastern Province, taking hostages and killing 22 people, most of them foreigners. The attack was one of the deadliest in the militant campaign of 2003–2006.",
+    "ko": "2004년 5월 알카에다 무장 괴한들이 동부 지역 호바르의 석유 업계 사무소와 주거단지를 공격해 인질을 잡고 22명을 살해했으며, 희생자 대부분은 외국인이었다. 이는 2003~2006년 무장 세력의 공세 가운데 가장 피해가 큰 공격 중 하나였다.",
+    "zh": "2004年5月，“基地”组织枪手袭击东部地区胡拜尔的石油业办公楼和住宅区，劫持人质并杀害22人，遇难者多为外国人。这是2003至2006年武装分子袭击浪潮中最惨烈的事件之一。",
+    "ja": "2004年5月、アルカイダの武装犯が東部州ホバルの石油関連事務所と居住区を襲撃し、人質を取って22人を殺害した。犠牲者の多くは外国人だった。これは2003〜2006年の武装勢力の攻勢の中で最も犠牲の大きい事件の一つだった。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Abdullah becomes king; WTO accession",
+    "ko": "압둘라 왕 즉위와 WTO 가입",
+    "zh": "阿卜杜拉即位，加入世贸组织",
+    "ja": "アブドゥッラー王即位とWTO加盟"
+   },
+   "description": {
+    "en": "King Fahd died in August 2005, and Crown Prince Abdullah, who had been de facto regent since Fahd's stroke in 1995, became king. The same year saw the kingdom's first nationwide municipal elections (for men only) and, in December, its accession to the World Trade Organization. Abdullah pursued cautious reforms in education and the economy.",
+    "ko": "2005년 8월 파흐드 왕이 사망하고, 1995년 파흐드의 뇌졸중 이후 사실상 섭정을 맡아 온 압둘라 왕세자가 왕위에 올랐다. 같은 해 왕국 최초의 전국 지방선거(남성만 참여)가 치러졌고, 12월에는 세계무역기구에 가입했다. 압둘라는 교육과 경제 분야에서 신중한 개혁을 추진했다.",
+    "zh": "2005年8月法赫德国王去世，自1995年法赫德中风以来实际摄政的王储阿卜杜拉继位。同年王国举行了首次全国性市政选举（仅限男性），12月加入世界贸易组织。阿卜杜拉在教育和经济领域推行审慎的改革。",
+    "ja": "2005年8月にファハド王が没し、1995年のファハドの脳卒中以来事実上の摂政を務めてきたアブドゥッラー皇太子が即位した。同年、王国初の全国的な地方議会選挙（男性のみ）が行われ、12月には世界貿易機関に加盟した。アブドゥッラーは教育と経済の分野で慎重な改革を進めた。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": "Q2922493",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Stampede at the Jamarat during the Hajj",
+    "ko": "하지 기간 자마라트 압사 사고",
+    "zh": "朝觐期间投石处踩踏事件",
+    "ja": "ハッジ中のジャマラート群衆事故"
+   },
+   "description": {
+    "en": "In January 2006 a crush during the stoning ritual at the Jamarat bridge in Mina killed more than 340 pilgrims. Days earlier a hostel building in Mecca had collapsed, killing dozens. The authorities subsequently rebuilt the Jamarat as a multi-level structure designed to ease the flow of pilgrims.",
+    "ko": "2006년 1월 미나의 자마라트 다리에서 투석 의식 도중 압사 사고가 일어나 340명이 넘는 순례자가 숨졌다. 며칠 전에는 메카의 숙박 건물이 붕괴해 수십 명이 숨졌다. 당국은 이후 순례자의 흐름을 원활히 하기 위해 자마라트를 다층 구조물로 재건했다.",
+    "zh": "2006年1月，米纳投石桥举行投石仪式时发生踩踏，340多名朝觐者丧生。数日前，麦加一座旅舍建筑倒塌，数十人遇难。当局随后将投石桥改建为多层结构，以疏导朝觐人流。",
+    "ja": "2006年1月、ミナーのジャマラート橋での投石儀礼中に群衆事故が起き、340人以上の巡礼者が死亡した。その数日前にはメッカの宿泊施設が倒壊し数十人が死亡していた。当局はその後、巡礼者の流れを円滑にするためジャマラートを多層構造に建て替えた。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": "Q333363",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Jeddah floods",
+    "ko": "제다 홍수",
+    "zh": "吉达洪灾",
+    "ja": "ジッダ洪水"
+   },
+   "description": {
+    "en": "In November 2009 torrential rain caused flash floods in Jeddah that killed more than a hundred people and destroyed thousands of vehicles and homes. Public anger at poor drainage and unplanned construction in flood channels led King Abdullah to order an investigation, which resulted in prosecutions of officials for corruption.",
+    "ko": "2009년 11월 폭우로 제다에서 돌발 홍수가 발생해 백 명이 넘게 숨지고 수천 대의 차량과 가옥이 파괴되었다. 부실한 배수 시설과 물길 위 무계획적 건설에 대한 대중의 분노로 압둘라 왕은 조사를 지시했고, 그 결과 공무원들이 부패 혐의로 기소되었다.",
+    "zh": "2009年11月，暴雨在吉达引发山洪，造成一百多人死亡，数千辆汽车和房屋被毁。公众对排水系统落后和在泄洪道上无序建设的愤怒，促使阿卜杜拉国王下令调查，最终多名官员因腐败被起诉。",
+    "ja": "2009年11月、豪雨によりジッダで鉄砲水が発生し、百人以上が死亡、数千台の車と家屋が破壊された。排水設備の不備や水路上の無計画な建設への世論の怒りを受けてアブドゥッラー王は調査を命じ、その結果、役人が汚職で訴追された。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "King Abdullah University of Science and Technology opens",
+    "ko": "킹압둘라 과학기술대학교 개교",
+    "zh": "阿卜杜拉国王科技大学开学",
+    "ja": "キング・アブドゥッラー科学技術大学の開学"
+   },
+   "description": {
+    "en": "KAUST, a graduate research university on the Red Sea coast north of Jeddah, opened in September 2009. Backed by a large endowment, it was the first coeducational university campus in the kingdom and symbolized King Abdullah's push to build a knowledge economy.",
+    "ko": "제다 북쪽 홍해 연안의 대학원 중심 연구 대학 KAUST가 2009년 9월 문을 열었다. 막대한 기금을 바탕으로 한 이 대학은 왕국 최초의 남녀공학 대학 캠퍼스였으며, 지식 경제를 건설하려는 압둘라 왕의 노력을 상징했다.",
+    "zh": "位于吉达以北红海之滨、以研究生教育为主的研究型大学阿卜杜拉国王科技大学（KAUST）于2009年9月开学。该校拥有巨额捐赠基金，是王国首个男女同校的大学校园，象征着阿卜杜拉国王建设知识经济的努力。",
+    "ja": "ジッダ北方の紅海沿岸にある大学院中心の研究大学KAUSTが2009年9月に開学した。巨額の基金に支えられたこの大学は王国初の男女共学の大学キャンパスであり、知識経済を築こうとするアブドゥッラー王の取り組みを象徴した。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Arab Spring: protests and spending packages",
+    "ko": "아랍의 봄: 시위와 대규모 지출",
+    "zh": "阿拉伯之春：抗议与巨额支出计划",
+    "ja": "アラブの春：抗議と大型支出策"
+   },
+   "description": {
+    "en": "As uprisings swept the Arab world in 2011, protests broke out mainly among the Shia population of the Eastern Province, while calls for demonstrations elsewhere drew little response. King Abdullah announced large spending on housing, jobs and salaries, and in March Saudi-led GCC forces entered Bahrain to support its government. In September he announced that women would be able to vote and stand in municipal elections.",
+    "ko": "2011년 아랍 세계에 봉기가 확산되자 주로 동부 지역 시아파 주민들 사이에서 시위가 일어났고, 다른 지역의 시위 호소에는 호응이 적었다. 압둘라 왕은 주택·일자리·급여에 대한 대규모 지출을 발표했으며, 3월에는 사우디가 이끄는 GCC 병력이 정부 지원을 위해 바레인에 진입했다. 9월 그는 여성도 지방선거에서 투표하고 출마할 수 있게 된다고 발표했다.",
+    "zh": "2011年起义席卷阿拉伯世界，沙特的抗议主要发生在东部地区的什叶派居民中，其他地区的示威号召应者寥寥。阿卜杜拉国王宣布在住房、就业和薪资方面大举支出；3月，沙特主导的海合会部队进入巴林支持其政府。9月，他宣布妇女将可在市政选举中投票和参选。",
+    "ja": "2011年にアラブ世界に蜂起が広がると、サウジでは主に東部州のシーア派住民の間で抗議が起き、他地域でのデモの呼びかけにはほとんど反応がなかった。アブドゥッラー王は住宅・雇用・給与への大型支出を発表し、3月にはサウジ主導のGCC部隊が政府支援のためバーレーンに入った。9月には女性が地方議会選挙で投票・立候補できるようになると発表した。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Women appointed to the Shura Council",
+    "ko": "슈라 위원회에 여성 위원 임명",
+    "zh": "女性首次被任命为协商会议成员",
+    "ja": "諮問評議会に女性委員を任命"
+   },
+   "description": {
+    "en": "In January 2013 King Abdullah appointed 30 women to the 150-member Consultative (Shura) Council, the first time women joined the body. In December 2015 women voted and stood as candidates for the first time in municipal elections, with about twenty women winning seats.",
+    "ko": "2013년 1월 압둘라 왕은 150명으로 구성된 협의회(슈라 위원회)에 여성 30명을 임명했으며, 여성이 이 기구에 참여한 것은 처음이었다. 2015년 12월에는 여성이 처음으로 지방선거에서 투표하고 출마했으며, 약 20명의 여성이 당선되었다.",
+    "zh": "2013年1月，阿卜杜拉国王任命30名女性进入由150人组成的协商会议，这是女性首次成为该机构成员。2015年12月，女性首次在市政选举中投票和参选，约有二十名女性当选。",
+    "ja": "2013年1月、アブドゥッラー王は定員150人の諮問評議会（シューラー評議会）に女性30人を任命し、女性が同評議会に加わったのは初めてだった。2015年12月には女性が初めて地方議会選挙で投票・立候補し、約20人の女性が当選した。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "King Salman accedes; intervention in Yemen",
+    "ko": "살만 왕 즉위와 예멘 개입",
+    "zh": "萨勒曼即位，军事干预也门",
+    "ja": "サルマーン王即位とイエメン介入"
+   },
+   "description": {
+    "en": "King Abdullah died in January 2015 and was succeeded by his half-brother Salman. In March, a Saudi-led coalition launched a military intervention in Yemen against the Houthi movement, which had seized Sanaa, to restore the government of President Hadi. The protracted war caused a severe humanitarian crisis in Yemen and brought cross-border missile and drone attacks on Saudi territory.",
+    "ko": "2015년 1월 압둘라 왕이 사망하고 이복동생 살만이 즉위했다. 3월 사우디 주도 연합군은 사나를 장악한 후티 운동에 맞서 하디 대통령 정부를 복원하기 위해 예멘에 군사 개입을 시작했다. 장기화된 전쟁은 예멘에 심각한 인도주의 위기를 초래했고 사우디 영토는 국경 너머로부터 미사일과 드론 공격을 받게 되었다.",
+    "zh": "2015年1月阿卜杜拉国王去世，其同父异母弟萨勒曼继位。3月，沙特主导的联军对也门发动军事干预，打击已占领萨那的胡塞武装，以恢复哈迪总统的政府。旷日持久的战争在也门造成严重人道危机，沙特领土也遭到来自境外的导弹和无人机袭击。",
+    "ja": "2015年1月にアブドゥッラー王が没し、異母弟サルマーンが即位した。3月、サウジ主導の連合軍はサヌアを掌握したフーシ派に対し、ハーディー大統領の政府を復帰させるためイエメンへの軍事介入を開始した。長期化した戦争はイエメンに深刻な人道危機をもたらし、サウジ領内は国境の向こうからのミサイルやドローンの攻撃を受けるようになった。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q20966269",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Crane collapse at the Grand Mosque",
+    "ko": "대모스크 크레인 붕괴",
+    "zh": "大清真寺起重机倒塌",
+    "ja": "大モスクのクレーン倒壊"
+   },
+   "description": {
+    "en": "On 11 September 2015, during a violent storm, a large construction crane working on the expansion of the Grand Mosque in Mecca toppled into the mosque, killing more than a hundred people shortly before the Hajj. The government suspended the Saudi Binladin Group, the contractor, from new public contracts for a time.",
+    "ko": "2015년 9월 11일 거센 폭풍 속에 메카 대모스크 확장 공사에 쓰이던 대형 크레인이 모스크 안으로 쓰러져, 하지 직전 백 명이 넘는 사람이 숨졌다. 정부는 시공사인 사우디 빈라덴 그룹에 대해 한동안 신규 공공 계약을 중단시켰다.",
+    "zh": "2015年9月11日，在一场猛烈的暴风雨中，参与麦加大清真寺扩建工程的一台大型起重机倒入寺内，在朝觐前夕造成一百多人死亡。政府一度暂停承包商沙特本拉登集团承接新的公共合同。",
+    "ja": "2015年9月11日、激しい嵐の中で、メッカ大モスクの拡張工事に使われていた大型クレーンがモスク内に倒れ込み、ハッジ直前に百人以上が死亡した。政府は施工業者のサウジ・ビンラディン・グループに対し、一時期新規の公共契約を停止した。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q21007721",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Mina stampede",
+    "ko": "미나 압사 참사",
+    "zh": "米纳踩踏事件",
+    "ja": "ミナーの群衆事故"
+   },
+   "description": {
+    "en": "On 24 September 2015 a crush at a street intersection in Mina during the Hajj killed a very large number of pilgrims. Saudi Arabia's official toll was 769, while tallies compiled from other countries' reports exceeded 2,000, making it the deadliest disaster in the pilgrimage's modern history. Iran, which lost hundreds of citizens, strongly criticized Saudi management of the Hajj.",
+    "ko": "2015년 9월 24일 하지 기간 미나의 한 교차로에서 압사 사고가 일어나 매우 많은 순례자가 숨졌다. 사우디의 공식 사망자 수는 769명이었으나 각국 발표를 집계한 수치는 2,000명을 넘어 현대 순례 역사상 최악의 참사가 되었다. 수백 명의 자국민을 잃은 이란은 사우디의 하지 관리를 강하게 비판했다.",
+    "zh": "2015年9月24日朝觐期间，米纳一处街道交叉口发生踩踏，大批朝觐者遇难。沙特官方公布的死亡人数为769人，而根据各国报告汇总的数字超过2000人，成为现代朝觐史上最惨重的灾难。数百名公民遇难的伊朗强烈批评沙特对朝觐的管理。",
+    "ja": "2015年9月24日、ハッジ中のミナーの交差点で群衆事故が起き、非常に多くの巡礼者が死亡した。サウジの公式死者数は769人だったが、各国の発表を集計した数は2000人を超え、近代の巡礼史上最悪の惨事となった。数百人の自国民を失ったイランはサウジのハッジ運営を強く批判した。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Vision 2030 reform program launched",
+    "ko": "'비전 2030' 개혁 프로그램 발표",
+    "zh": "启动“2030愿景”改革计划",
+    "ja": "改革計画「ビジョン2030」の始動"
+   },
+   "description": {
+    "en": "Crown Prince Mohammed bin Salman unveiled Vision 2030, a plan to diversify the economy beyond oil. Subsequent reforms included allowing women to drive in 2018 and opening the country to tourism.",
+    "ko": "무함마드 빈 살만 왕세자가 석유 의존 경제의 다각화를 위한 '비전 2030'을 발표했다. 이후 2018년 여성 운전 허용, 관광 개방 등 사회·경제 개혁이 이어졌다.",
+    "zh": "王储穆罕默德·本·萨勒曼公布“2030愿景”，旨在推动经济摆脱对石油的依赖。此后的改革包括2018年允许女性驾车以及向国际旅游开放等。",
+    "ja": "ムハンマド・ビン・サルマン皇太子が、石油依存からの経済多角化を目指す「ビジョン2030」を発表した。以後、2018年の女性の運転解禁や観光開放など社会・経済改革が続いた。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Execution of Nimr al-Nimr and break with Iran",
+    "ko": "님르 알님르 처형과 이란과의 단교",
+    "zh": "处决尼米尔与伊朗断交",
+    "ja": "ニムル師処刑とイランとの断交"
+   },
+   "description": {
+    "en": "On 2 January 2016 Saudi Arabia executed 47 people convicted of terrorism offenses, including the prominent Shia cleric Nimr al-Nimr from the Eastern Province. Protesters in Iran stormed the Saudi embassy in Tehran, and Saudi Arabia cut diplomatic relations with Iran, deepening the regional rivalry.",
+    "ko": "2016년 1월 2일 사우디아라비아는 테러 혐의로 유죄 판결을 받은 47명을 처형했으며, 그중에는 동부 지역 출신의 저명한 시아파 성직자 님르 알님르도 있었다. 이란의 시위대가 테헤란의 사우디 대사관에 난입하자 사우디아라비아는 이란과 외교 관계를 단절했고, 지역 경쟁은 더욱 깊어졌다.",
+    "zh": "2016年1月2日，沙特阿拉伯处决了47名被判犯有恐怖主义罪行者，其中包括东部地区著名什叶派教士尼米尔·尼米尔。伊朗抗议者冲击沙特驻德黑兰大使馆，沙特随即与伊朗断交，地区对抗进一步加深。",
+    "ja": "2016年1月2日、サウジアラビアはテロ関連の罪で有罪とされた47人を処刑し、その中には東部州出身の著名なシーア派聖職者ニムル・アン＝ニムルも含まれていた。イランの抗議者がテヘランのサウジ大使館に乱入すると、サウジアラビアはイランとの外交関係を断ち、地域の対立は深まった。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Mohammed bin Salman becomes crown prince",
+    "ko": "무함마드 빈 살만 왕세자 책봉",
+    "zh": "穆罕默德·本·萨勒曼成为王储",
+    "ja": "ムハンマド・ビン・サルマーンの皇太子就任"
+   },
+   "description": {
+    "en": "In June 2017 King Salman replaced Crown Prince Muhammad bin Nayef with his own son, Mohammed bin Salman, completing the shift of succession to the grandsons of Abdulaziz. In October the crown prince announced NEOM, a planned megaproject in the northwest near the Gulf of Aqaba, as part of Vision 2030.",
+    "ko": "2017년 6월 살만 왕은 무함마드 빈 나이프 왕세자를 자신의 아들 무함마드 빈 살만으로 교체하여 왕위 계승을 압둘아지즈의 손자 세대로 넘기는 작업을 마무리했다. 10월 왕세자는 비전 2030의 일환으로 아카바만 인근 북서부에 계획된 초대형 사업 '네옴'을 발표했다.",
+    "zh": "2017年6月，萨勒曼国王以其子穆罕默德·本·萨勒曼取代王储穆罕默德·本·纳伊夫，完成了王位继承向阿卜杜勒阿齐兹孙辈的转移。10月，王储宣布在西北部亚喀巴湾附近建设超大型规划项目“NEOM”，作为“2030愿景”的一部分。",
+    "ja": "2017年6月、サルマーン王はムハンマド・ビン・ナーイフ皇太子を自らの息子ムハンマド・ビン・サルマーンに替え、王位継承のアブドゥルアズィーズの孫世代への移行を完了させた。10月、皇太子はビジョン2030の一環として、アカバ湾近くの北西部に計画された巨大事業「NEOM」を発表した。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q30130610",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Blockade of Qatar",
+    "ko": "카타르 단교·봉쇄",
+    "zh": "封锁卡塔尔",
+    "ja": "カタール断交・封鎖"
+   },
+   "description": {
+    "en": "In June 2017 Saudi Arabia, the UAE, Bahrain and Egypt cut ties with Qatar and closed their land, sea and air links with it, accusing it of supporting terrorism and being too close to Iran, charges Qatar rejected. Saudi Arabia closed Qatar's only land border. The rift lasted until the al-Ula Declaration of January 2021.",
+    "ko": "2017년 6월 사우디아라비아·아랍에미리트·바레인·이집트는 카타르가 테러를 지원하고 이란과 지나치게 가깝다고 비난하며 단교하고 육로·해로·항로를 봉쇄했으며, 카타르는 이 혐의를 부인했다. 사우디아라비아는 카타르의 유일한 육상 국경을 폐쇄했다. 이 분열은 2021년 1월 알울라 선언까지 이어졌다.",
+    "zh": "2017年6月，沙特阿拉伯、阿联酋、巴林和埃及以卡塔尔支持恐怖主义、与伊朗过从甚密为由与其断交，并切断陆海空联系，卡塔尔否认上述指控。沙特关闭了卡塔尔唯一的陆地边界。这一裂痕持续到2021年1月的《欧拉宣言》。",
+    "ja": "2017年6月、サウジアラビア、UAE、バーレーン、エジプトはカタールがテロを支援しイランに近すぎると非難して断交し、陸・海・空の交通を遮断した。カタールは非難を否定した。サウジアラビアはカタール唯一の陸上国境を閉鎖した。この亀裂は2021年1月のアルウラー宣言まで続いた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q42688588",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ritz-Carlton anti-corruption detentions",
+    "ko": "리츠칼턴 반부패 구금 사태",
+    "zh": "丽思卡尔顿反腐拘押行动",
+    "ja": "リッツ・カールトン反汚職拘束"
+   },
+   "description": {
+    "en": "In November 2017 a newly formed anti-corruption committee headed by Crown Prince Mohammed bin Salman detained scores of princes, ministers and businessmen, many held at the Ritz-Carlton hotel in Riyadh. Most were released after reaching financial settlements with the state. Supporters saw an anti-corruption drive; critics saw a consolidation of power without due process.",
+    "ko": "2017년 11월 무함마드 빈 살만 왕세자가 이끄는 신설 반부패위원회가 수십 명의 왕자·장관·기업인을 구금했으며, 상당수가 리야드의 리츠칼턴 호텔에 억류되었다. 대부분은 국가와 금전적 합의를 한 뒤 풀려났다. 지지자들은 이를 부패 척결로 보았고, 비판자들은 적법 절차 없는 권력 집중으로 보았다.",
+    "zh": "2017年11月，由王储穆罕默德·本·萨勒曼领导的新设反腐委员会拘押了数十名王子、大臣和商人，其中许多人被关押在利雅得丽思卡尔顿酒店。多数人与国家达成财务和解后获释。支持者视之为反腐行动，批评者则认为这是缺乏正当程序的权力集中。",
+    "ja": "2017年11月、ムハンマド・ビン・サルマーン皇太子が率いる新設の反汚職委員会が数十人の王子・閣僚・実業家を拘束し、その多くがリヤドのリッツ・カールトン・ホテルに留め置かれた。大半は国家と金銭的な和解に達した後に釈放された。支持者は汚職撲滅とみなし、批判者は適正手続きなき権力集中とみなした。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Women allowed to drive; cinemas reopen",
+    "ko": "여성 운전 허용과 영화관 재개장",
+    "zh": "允许女性驾车，电影院重开",
+    "ja": "女性の運転解禁と映画館の再開"
+   },
+   "description": {
+    "en": "On 24 June 2018 Saudi Arabia lifted its ban on women driving, ending a policy unique in the world. Earlier that year public cinemas reopened in Riyadh after a ban of about 35 years, and concerts and other entertainment were permitted. Several women's rights activists who had campaigned for the right to drive were nonetheless detained around the same time.",
+    "ko": "2018년 6월 24일 사우디아라비아는 세계에서 유일했던 여성 운전 금지를 해제했다. 같은 해 초 약 35년 만에 리야드에서 공공 영화관이 다시 문을 열었고 콘서트 등 오락 행사도 허용되었다. 그러나 운전할 권리를 위해 운동해 온 여성 인권 활동가 여러 명은 같은 시기에 구금되었다.",
+    "zh": "2018年6月24日，沙特阿拉伯解除了世界上独一无二的女性驾车禁令。同年早些时候，利雅得在禁止约35年后重新开放公共电影院，音乐会等娱乐活动也获准举办。然而，几名曾争取驾车权利的女性权利活动人士在同一时期遭到拘押。",
+    "ja": "2018年6月24日、サウジアラビアは世界で唯一だった女性の運転禁止を解除した。同年初めには約35年ぶりにリヤドで公共の映画館が再開し、コンサートなどの娯楽も認められた。一方、運転の権利を求めて活動してきた女性の人権活動家数人は同じ時期に拘束された。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q67527355",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Drone and missile attack on Abqaiq and Khurais",
+    "ko": "아브카이크·후라이스 석유시설 피습",
+    "zh": "布盖格与胡赖斯石油设施遇袭",
+    "ja": "アブカイク・フライス石油施設攻撃"
+   },
+   "description": {
+    "en": "On 14 September 2019 drones and cruise missiles struck the Abqaiq oil-processing facility and the Khurais oil field, temporarily halving Saudi oil output. Yemen's Houthis claimed responsibility, while the United States and Saudi Arabia blamed Iran, which denied involvement. Production was restored within weeks.",
+    "ko": "2019년 9월 14일 드론과 순항미사일이 아브카이크 원유 처리 시설과 후라이스 유전을 공격해 사우디 원유 생산이 일시적으로 절반으로 줄었다. 예멘의 후티는 자신들의 소행이라 주장했고, 미국과 사우디아라비아는 이란을 지목했으나 이란은 관여를 부인했다. 생산은 몇 주 만에 회복되었다.",
+    "zh": "2019年9月14日，无人机和巡航导弹袭击了布盖格原油处理设施和胡赖斯油田，沙特石油产量一度减半。也门胡塞武装宣称负责，美国和沙特则指责伊朗，伊朗否认参与。产量在数周内恢复。",
+    "ja": "2019年9月14日、ドローンと巡航ミサイルがアブカイクの原油処理施設とフライス油田を攻撃し、サウジの原油生産は一時半減した。イエメンのフーシ派が犯行を主張したが、米国とサウジアラビアはイランを非難し、イランは関与を否定した。生産は数週間で回復した。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Tourist visas introduced and Aramco listed",
+    "ko": "관광비자 도입과 아람코 상장",
+    "zh": "推出旅游签证，沙特阿美上市",
+    "ja": "観光ビザ導入とアラムコ上場"
+   },
+   "description": {
+    "en": "In September 2019 Saudi Arabia began issuing tourist visas to citizens of dozens of countries for the first time, opening sites such as al-Ula and Hegra to international visitors. In December, Saudi Aramco floated a small share of its stock on the Riyadh exchange (Tadawul) in what was then the world's largest initial public offering.",
+    "ko": "2019년 9월 사우디아라비아는 처음으로 수십 개국 국민에게 관광비자를 발급하기 시작해 알울라와 헤그라 같은 유적을 외국인 방문객에게 개방했다. 12월에는 사우디 아람코가 지분 일부를 리야드 증권거래소(타다울)에 상장했는데, 이는 당시 세계 최대 규모의 기업공개였다.",
+    "zh": "2019年9月，沙特阿拉伯首次向数十个国家的公民发放旅游签证，向国际游客开放欧拉和黑格拉等遗址。12月，沙特阿美将一小部分股份在利雅得证券交易所（Tadawul）上市，这是当时全球规模最大的首次公开募股。",
+    "ja": "2019年9月、サウジアラビアは初めて数十か国の国民に観光ビザの発給を始め、アル＝ウラーやヘグラなどの遺跡を外国人観光客に開放した。12月にはサウジアラムコが株式の一部をリヤドの証券取引所（タダウル）に上場し、当時世界最大の新規株式公開となった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87186117",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "COVID-19 pandemic and a restricted Hajj",
+    "ko": "코로나19 대유행과 축소된 하지",
+    "zh": "新冠疫情与限制朝觐",
+    "ja": "新型コロナ流行と制限されたハッジ"
+   },
+   "description": {
+    "en": "The COVID-19 pandemic reached Saudi Arabia in March 2020. The government suspended the umrah pilgrimage, imposed curfews and, in July, limited the Hajj to a small number of pilgrims already resident in the kingdom—an unprecedented restriction in modern times. In November the kingdom hosted the G20 leaders' summit, held virtually.",
+    "ko": "코로나19 대유행은 2020년 3월 사우디아라비아에 이르렀다. 정부는 움라 순례를 중단하고 통행금지를 시행했으며, 7월 하지는 이미 왕국에 거주하는 소수의 순례자로 제한되었는데, 이는 현대에 전례 없는 제한이었다. 11월 왕국은 화상으로 열린 G20 정상회의를 주최했다.",
+    "zh": "新冠疫情于2020年3月蔓延至沙特阿拉伯。政府暂停副朝，实施宵禁，并于7月将朝觐限制为少数已在王国境内居住的朝觐者，这在现代前所未有。11月，王国以视频方式主办了二十国集团领导人峰会。",
+    "ja": "新型コロナウイルスの流行は2020年3月にサウジアラビアに及んだ。政府はウムラ巡礼を停止し外出禁止令を敷き、7月のハッジは王国内に既に住む少数の巡礼者に限定された。これは近代において前例のない制限だった。11月には王国がオンライン形式のG20首脳会議を主催した。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Al-Ula Declaration ends the Qatar rift",
+    "ko": "알울라 선언과 카타르 분쟁 종식",
+    "zh": "《欧拉宣言》结束卡塔尔断交风波",
+    "ja": "アルウラー宣言とカタール断交の終結"
+   },
+   "description": {
+    "en": "At a GCC summit held at al-Ula in January 2021, Saudi Arabia and its allies signed a declaration restoring relations with Qatar, and the Saudi–Qatari border was reopened. The reconciliation ended three and a half years of division among the Gulf states.",
+    "ko": "2021년 1월 알울라에서 열린 GCC 정상회의에서 사우디아라비아와 동맹국들은 카타르와의 관계를 회복하는 선언에 서명했고, 사우디-카타르 국경이 다시 열렸다. 이 화해로 걸프 국가들 사이의 3년 반에 걸친 분열이 끝났다.",
+    "zh": "2021年1月在欧拉举行的海合会峰会上，沙特阿拉伯及其盟友签署宣言，恢复与卡塔尔的关系，沙卡边界重新开放。这次和解结束了海湾国家之间长达三年半的分裂。",
+    "ja": "2021年1月にアル＝ウラーで開かれたGCC首脳会議で、サウジアラビアと同盟国はカタールとの関係を回復する宣言に署名し、サウジ・カタール国境が再開された。この和解で湾岸諸国間の3年半に及ぶ分断が終わった。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Restoration of relations with Iran",
+    "ko": "이란과의 관계 정상화",
+    "zh": "与伊朗恢复关系",
+    "ja": "イランとの国交回復"
+   },
+   "description": {
+    "en": "In March 2023, in an agreement announced in Beijing with Chinese mediation, Saudi Arabia and Iran agreed to restore diplomatic relations broken off in 2016 and to reopen embassies. The deal eased one of the region's central rivalries.",
+    "ko": "2023년 3월 중국의 중재로 베이징에서 발표된 합의에서 사우디아라비아와 이란은 2016년 단절된 외교 관계를 복원하고 대사관을 다시 열기로 했다. 이 합의로 지역의 핵심 경쟁 관계 중 하나가 완화되었다.",
+    "zh": "2023年3月，在中国斡旋下于北京宣布的协议中，沙特阿拉伯与伊朗同意恢复2016年中断的外交关系并重开使馆。该协议缓和了地区最核心的对抗关系之一。",
+    "ja": "2023年3月、中国の仲介により北京で発表された合意で、サウジアラビアとイランは2016年に断絶した外交関係を回復し、大使館を再開することで一致した。この合意は地域の中心的な対立の一つを和らげた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q115013282",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Arab League summit in Jeddah",
+    "ko": "제다 아랍연맹 정상회의",
+    "zh": "吉达阿拉伯国家联盟峰会",
+    "ja": "ジッダでのアラブ連盟首脳会議"
+   },
+   "description": {
+    "en": "In May 2023 Saudi Arabia hosted the Arab League summit in Jeddah, which welcomed Syria's President Bashar al-Assad back after Syria's suspension since 2011. Ukrainian President Volodymyr Zelensky also addressed the meeting in person. The summit showcased the kingdom's active regional diplomacy.",
+    "ko": "2023년 5월 사우디아라비아는 제다에서 아랍연맹 정상회의를 주최했으며, 2011년 이후 회원 자격이 정지되었던 시리아의 바샤르 알아사드 대통령이 복귀했다. 우크라이나의 볼로디미르 젤렌스키 대통령도 직접 참석해 연설했다. 이 회의는 왕국의 적극적인 지역 외교를 보여 주었다.",
+    "zh": "2023年5月，沙特阿拉伯在吉达主办阿拉伯国家联盟峰会，欢迎自2011年起被暂停成员资格的叙利亚总统巴沙尔·阿萨德回归。乌克兰总统泽连斯基也亲自出席并发表讲话。这次峰会展示了王国积极的地区外交。",
+    "ja": "2023年5月、サウジアラビアはジッダでアラブ連盟首脳会議を主催し、2011年以来資格停止中だったシリアのバッシャール・アル＝アサド大統領の復帰を迎えた。ウクライナのゼレンスキー大統領も自ら出席して演説した。この会議は王国の積極的な地域外交を示した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q123392036",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Joint Arab-Islamic summit on Gaza in Riyadh",
+    "ko": "리야드의 가자 관련 아랍·이슬람 공동 정상회의",
+    "zh": "利雅得阿拉伯—伊斯兰加沙问题联合峰会",
+    "ja": "リヤドでのガザに関するアラブ・イスラーム合同首脳会議"
+   },
+   "description": {
+    "en": "In November 2023, following the outbreak of the Israel–Hamas war, Saudi Arabia convened a joint extraordinary summit of the Arab League and the Organisation of Islamic Cooperation in Riyadh. Leaders, including Iran's president on his first visit to the kingdom, called for an end to the fighting in Gaza.",
+    "ko": "2023년 11월 이스라엘-하마스 전쟁이 발발하자 사우디아라비아는 리야드에서 아랍연맹과 이슬람협력기구의 공동 특별 정상회의를 소집했다. 왕국을 처음 방문한 이란 대통령을 포함한 정상들은 가자지구에서의 전투 중단을 촉구했다.",
+    "zh": "2023年11月以色列—哈马斯战争爆发后，沙特阿拉伯在利雅得召集阿拉伯国家联盟与伊斯兰合作组织联合特别峰会。包括首次访问沙特的伊朗总统在内的各国领导人呼吁停止加沙的战斗。",
+    "ja": "2023年11月、イスラエル・ハマス戦争の勃発を受けて、サウジアラビアはリヤドでアラブ連盟とイスラーム協力機構の合同臨時首脳会議を招集した。初めて王国を訪れたイラン大統領を含む首脳たちはガザでの戦闘の停止を求めた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Riyadh wins the bid for Expo 2030",
+    "ko": "리야드, 2030년 엑스포 유치",
+    "zh": "利雅得获得2030年世博会举办权",
+    "ja": "リヤドが2030年万博の開催権を獲得"
+   },
+   "description": {
+    "en": "In November 2023 member states of the Bureau International des Expositions voted to award World Expo 2030 to Riyadh, which won by a wide margin over Busan in South Korea and Rome. The decision, followed in December 2024 by FIFA's confirmation of Saudi Arabia as host of the 2034 World Cup, reflected the kingdom's strategy of hosting major global events.",
+    "ko": "2023년 11월 국제박람회기구 회원국들은 투표를 통해 2030년 세계박람회 개최지로 리야드를 선정했으며, 리야드는 한국의 부산과 이탈리아 로마를 큰 표차로 제쳤다. 이 결정과 2024년 12월 FIFA의 2034년 월드컵 사우디 개최 확정은 대형 국제 행사를 유치하려는 왕국의 전략을 보여 주었다.",
+    "zh": "2023年11月，国际展览局成员国投票决定由利雅得举办2030年世界博览会，利雅得以大比分胜过韩国釜山和意大利罗马。这一决定以及2024年12月国际足联确认沙特主办2034年世界杯，体现了王国承办重大国际活动的战略。",
+    "ja": "2023年11月、博覧会国際事務局の加盟国は投票で2030年万国博覧会の開催地をリヤドに決め、リヤドは韓国の釜山とイタリアのローマに大差をつけた。この決定と、2024年12月のFIFAによる2034年ワールドカップのサウジ開催決定は、大型国際行事を誘致する王国の戦略を示した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q126725725",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Heat deaths during the 2024 Hajj",
+    "ko": "2024년 하지 폭염 사망 사고",
+    "zh": "2024年朝觐期间高温致死事件",
+    "ja": "2024年ハッジでの猛暑による死者"
+   },
+   "description": {
+    "en": "During the Hajj of June 2024, temperatures in Mecca exceeded 50°C and more than 1,300 pilgrims died, according to Saudi authorities, most of them unregistered pilgrims without access to official facilities. The tragedy highlighted the risks of extreme heat to the pilgrimage.",
+    "ko": "2024년 6월 하지 기간 메카의 기온이 섭씨 50도를 넘었고, 사우디 당국에 따르면 1,300명이 넘는 순례자가 숨졌으며 대부분은 공식 시설을 이용할 수 없던 미등록 순례자였다. 이 비극은 극심한 더위가 순례에 미치는 위험을 부각했다.",
+    "zh": "2024年6月朝觐期间，麦加气温超过50摄氏度，据沙特当局公布，1300多名朝觐者死亡，其中大多数是无法使用官方设施的未登记朝觐者。这一悲剧凸显了极端高温对朝觐的威胁。",
+    "ja": "2024年6月のハッジの際、メッカの気温は摂氏50度を超え、サウジ当局によれば1300人以上の巡礼者が死亡した。その大半は公式施設を利用できない未登録の巡礼者だった。この悲劇は極端な暑さが巡礼にもたらす危険を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q134469827",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "US President Trump visits Riyadh",
+    "ko": "트럼프 미국 대통령의 리야드 방문",
+    "zh": "美国总统特朗普访问利雅得",
+    "ja": "トランプ米大統領のリヤド訪問"
+   },
+   "description": {
+    "en": "In May 2025 US President Donald Trump made Saudi Arabia the first stop of his Gulf tour, where large investment and arms agreements were announced. In Riyadh he announced the lifting of US sanctions on Syria and met Syria's interim president Ahmed al-Sharaa.",
+    "ko": "2025년 5월 도널드 트럼프 미국 대통령은 걸프 순방의 첫 방문지로 사우디아라비아를 찾았고, 대규모 투자와 무기 협정이 발표되었다. 그는 리야드에서 미국의 대시리아 제재 해제를 발표하고 시리아의 아흐마드 알샤라 과도 대통령을 만났다.",
+    "zh": "2025年5月，美国总统唐纳德·特朗普将沙特阿拉伯作为海湾之行的第一站，双方宣布了大规模投资和军售协议。他在利雅得宣布解除美国对叙利亚的制裁，并会见了叙利亚过渡总统艾哈迈德·沙拉。",
+    "ja": "2025年5月、ドナルド・トランプ米大統領は湾岸歴訪の最初の訪問国としてサウジアラビアを訪れ、大規模な投資と武器の合意が発表された。彼はリヤドで米国の対シリア制裁の解除を発表し、シリアのアフマド・シャラア暫定大統領と会談した。"
+   }
+  }
+ ]
+}

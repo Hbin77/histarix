@@ -1,0 +1,1697 @@
+{
+ "iso": "GH",
+ "eras": [
+  {
+   "from": -10000,
+   "to": -2500,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Later Stone Age foragers",
+    "ko": "후기 석기 시대 수렵채집민",
+    "zh": "晚期石器时代的采集狩猎者",
+    "ja": "後期石器時代の狩猟採集民"
+   },
+   "summary": {
+    "en": "After the end of the last Ice Age, hunter-gatherers lived in the forests and savannas of what is now Ghana, using small stone tools and, from an early date, pottery. Rock shelters such as Bosumpra near Abetifi preserve long sequences of their occupation and their use of wild plants such as oil-palm nuts and canarium.",
+    "ko": "마지막 빙하기가 끝난 뒤 오늘날 가나의 숲과 사바나에는 작은 석기와 이른 시기부터 토기를 사용한 수렵채집민이 살았다. 아베티피 부근의 보숨프라 같은 바위 그늘 유적에는 그들의 오랜 거주 흔적과 기름야자 열매·카나리움 같은 야생 식물 이용의 증거가 남아 있다.",
+    "zh": "末次冰期结束后，今加纳的森林和稀树草原上生活着使用小型石器、并很早就使用陶器的采集狩猎者。阿贝蒂菲附近的博松普拉等岩棚遗址保存了他们长期居住的序列，以及利用油棕果、橄榄类坚果等野生植物的证据。",
+    "ja": "最終氷期が終わると、現在のガーナの森林やサバンナには小型の石器と早くから土器を用いる狩猟採集民が暮らした。アベティフィ近くのボスンプラなどの岩陰遺跡には、長期にわたる居住の痕跡と、アブラヤシの実やカナリウムなど野生植物の利用が残されている。"
+   }
+  },
+  {
+   "from": -2500,
+   "to": -1000,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Kintampo complex",
+    "ko": "킨탐포 문화",
+    "zh": "金坦波文化",
+    "ja": "キンタンポ文化"
+   },
+   "summary": {
+    "en": "The Kintampo complex, named after a town in the Bono East region, was the first food-producing culture of Ghana. Its people lived in villages with wattle-and-daub houses, kept goats and cattle, used oil palm and cowpea and, at sites like Birimi in the north, grew pearl millet, leaving distinctive scored clay objects nicknamed 'terracotta cigars'.",
+    "ko": "보노이스트 지역의 도시 이름을 딴 킨탐포 문화는 가나 최초의 식량 생산 문화였다. 이들은 나뭇가지에 흙을 바른 집으로 이루어진 마을에 살며 염소와 소를 기르고 기름야자와 동부를 이용했으며, 북부 비리미 같은 유적에서는 진주조를 재배했다. 이들은 '테라코타 시가'라는 별명의 독특한 홈 새김 점토 유물을 남겼다.",
+    "zh": "金坦波文化得名于博诺东区的一座城镇，是加纳最早的食物生产文化。其居民生活在以枝条抹泥房屋构成的村落中，饲养山羊和牛，利用油棕和豇豆，并在北部比里米等遗址种植珍珠粟，留下了被戏称为“陶土雪茄”的独特刻纹陶制品。",
+    "ja": "ボノ・イースト州の町の名を冠したキンタンポ文化は、ガーナ最初の食料生産文化であった。人々は木の枝と泥でできた家の村に住み、ヤギや牛を飼い、アブラヤシやササゲを利用し、北部のビリミなどではトウジンビエを栽培した。「テラコッタの葉巻」と呼ばれる独特の刻線入り土製品を残している。"
+   }
+  },
+  {
+   "from": -1000,
+   "to": 1000,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Iron Age villages",
+    "ko": "초기 철기 시대 마을",
+    "zh": "早期铁器时代村落",
+    "ja": "初期鉄器時代の村落"
+   },
+   "summary": {
+    "en": "Over the first millennium BC and the first millennium AD, iron smelting spread through Ghana's savanna and forest zones, enabling forest clearance and more intensive farming of yams, oil palm and grains. In the north, the Koma Land culture produced remarkable terracotta figurines and burial mounds, while farming communities in the forest prepared the ground for later Akan states.",
+    "ko": "기원전 1천년기와 서기 1천년기에 걸쳐 제철 기술이 가나의 사바나와 삼림 지대로 퍼지면서 숲의 개간과 얌·기름야자·곡물의 보다 집약적인 농경이 가능해졌다. 북부에서는 코마랜드 문화가 뛰어난 테라코타 조각상과 봉분을 남겼고, 숲속 농경 공동체들은 훗날 아칸 국가들의 토대를 마련했다.",
+    "zh": "在公元前一千纪和公元一千纪期间，冶铁技术遍及加纳的稀树草原和森林地带，使开垦森林和更集约地种植山药、油棕和谷物成为可能。北部的科马兰文化留下了精美的陶塑人像和墓冢，森林中的农耕社区则为后来的阿坎诸国奠定了基础。",
+    "ja": "紀元前1千年紀から紀元1千年紀にかけて製鉄技術がガーナのサバンナと森林地帯に広がり、森林の開墾とヤムイモ・アブラヤシ・穀物のより集約的な栽培が可能になった。北部ではコマランド文化が見事なテラコッタ像や墳丘を残し、森林の農耕共同体はのちのアカン諸国の基盤を築いた。"
+   }
+  },
+  {
+   "from": 1000,
+   "to": 1700,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Akan states and the gold trade",
+    "ko": "초기 아칸 국가들과 황금 교역",
+    "zh": "早期阿坎诸国与黄金贸易",
+    "ja": "初期アカン諸国と黄金交易"
+   },
+   "summary": {
+    "en": "From the early second millennium, trading towns such as Begho linked the gold-rich forest to the Mande traders of the Niger bend and the trans-Saharan routes. Akan states, beginning with Bono and later including Denkyira, Akwamu and Akyem, grew rich on gold and kola, organizing matrilineal clans under chiefs whose stools symbolized authority.",
+    "ko": "2천년기 초부터 베고 같은 교역 도시들이 황금이 풍부한 숲 지대를 니제르강 만곡부의 만데 상인 및 사하라 횡단 교역로와 연결했다. 보노를 시작으로 훗날 덴키라·아콰무·아키엠 등 아칸 국가들이 황금과 콜라 열매로 부유해졌으며, 권위를 상징하는 의자(스툴)를 가진 수장 아래 모계 씨족을 조직했다.",
+    "zh": "自二千纪初起，贝戈等贸易城镇将盛产黄金的森林地带与尼日尔河湾的曼德商人及跨撒哈拉商路连接起来。从博诺开始，后来包括登基拉、阿夸姆、阿基姆在内的阿坎诸国凭借黄金和可乐果致富，以象征权威的“凳子”为标志，在酋长之下组织母系氏族。",
+    "ja": "2千年紀初めから、ベゴなどの交易都市が黄金に富む森林地帯をニジェール川湾曲部のマンデ商人やサハラ縦断交易路と結んだ。ボノに始まり、のちにデンキラ、アクワム、アキエムなどのアカン諸国が黄金とコーラの実で富み、権威を象徴する床几（スツール）をもつ首長のもとに母系氏族を組織した。"
+   }
+  },
+  {
+   "from": 1252,
+   "to": 1844,
+   "kind": "state",
+   "qid": "Q6750512",
+   "polity": null,
+   "name": {
+    "en": "Fante states (Mankessim)",
+    "ko": "판테 국가들(만케심)",
+    "zh": "芳蒂诸国（曼克西姆）",
+    "ja": "ファンテ諸国（マンケシム）"
+   },
+   "summary": {
+    "en": "According to tradition, Fante groups migrated from the Bono area to the coast and founded Mankessim, from which a cluster of Fante states spread along the central coast. Positioned between the Akan interior and the European forts, the Fante became middlemen in the Atlantic trade and resisted Asante domination, gradually coming under British influence by the Bond of 1844.",
+    "ko": "전승에 따르면 판테 집단은 보노 지역에서 해안으로 이주해 만케심을 세웠고, 이곳에서 판테 국가들이 중부 해안을 따라 퍼져 나갔다. 아칸 내륙과 유럽 요새 사이에 자리한 판테인은 대서양 교역의 중개자가 되었고 아샨티의 지배에 저항했으나, 1844년 '본드(서약)'를 계기로 점차 영국의 영향 아래 들어갔다.",
+    "zh": "据传说，芳蒂人从博诺一带迁徙到海岸，建立曼克西姆，并由此沿中部海岸形成一系列芳蒂国家。芳蒂人处于阿坎内陆与欧洲要塞之间，成为大西洋贸易的中间商，抵抗阿散蒂的统治，并随着1844年的“保证书”逐渐受英国影响。",
+    "ja": "伝承によればファンテの集団はボノ地方から海岸へ移住してマンケシムを築き、そこから一群のファンテ諸国が中部海岸沿いに広がった。アカン内陸とヨーロッパの砦のあいだに位置したファンテは大西洋交易の仲介者となり、アシャンティの支配に抵抗したが、1844年の「ボンド（誓約）」を機に徐々にイギリスの影響下に入った。"
+   }
+  },
+  {
+   "from": 1400,
+   "to": 1900,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Mole-Dagbani kingdoms and Gonja",
+    "ko": "몰레-다그바니 왕국들과 곤자",
+    "zh": "莫勒-达戈巴尼诸王国与贡贾",
+    "ja": "モレ＝ダグバニ諸王国とゴンジャ"
+   },
+   "summary": {
+    "en": "In the northern savanna, horse-riding ruling groups founded the kingdoms of Mamprugu, Dagbon and Nanumba, ruling over earlier farming peoples; Dagbon's king, the Ya Na, later ruled from Yendi. In the 16th–17th centuries Mande warriors founded Gonja to the west, and Islam spread through Muslim traders and scholars; from the 18th century much of the north paid tribute to Asante.",
+    "ko": "북부 사바나에서는 기마 지배 집단이 맘프루구·다그본·나눔바 왕국을 세워 그보다 앞선 농경민들을 다스렸으며, 다그본의 왕 '야 나'는 후에 옌디에서 통치했다. 16~17세기에는 서쪽에서 만데 전사들이 곤자를 세웠고, 무슬림 상인과 학자들을 통해 이슬람이 퍼졌다. 18세기부터 북부 상당 지역은 아샨티에 조공을 바쳤다.",
+    "zh": "在北部稀树草原，骑马的统治集团建立了曼普鲁古、达贡巴和纳努姆巴等王国，统治原有的农耕民族；达贡巴国王“亚纳”后来以延迪为都。16至17世纪，曼德武士在西边建立贡贾，伊斯兰教经由穆斯林商人和学者传播；18世纪起，北部大部分地区向阿散蒂纳贡。",
+    "ja": "北部サバンナでは騎馬の支配集団がマンプルグ、ダグボン、ナヌンバの諸王国を築いて先住の農耕民を治め、ダグボンの王「ヤ・ナ」はのちにイェンディを都とした。16～17世紀には西でマンデの戦士がゴンジャを建て、ムスリム商人や学者を通じてイスラームが広まった。18世紀からは北部の多くがアシャンティに朝貢した。"
+   }
+  },
+  {
+   "from": 1471,
+   "to": 1642,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Portuguese Gold Coast",
+    "ko": "포르투갈령 황금 해안",
+    "zh": "葡属黄金海岸",
+    "ja": "ポルトガル領黄金海岸"
+   },
+   "summary": {
+    "en": "Portuguese navigators reached the coast in 1471 and in 1482 built São Jorge da Mina at Elmina, the hub of a royal monopoly on gold exported to Lisbon. The Portuguese also imported enslaved people from elsewhere in Africa to sell to Akan traders, until the Dutch seized Elmina in 1637 and their last fort at Axim in 1642.",
+    "ko": "포르투갈 항해자들은 1471년 해안에 도착했고, 1482년 엘미나에 상조르즈 다 미나 요새를 세워 리스본으로 수출하는 황금 왕실 독점 교역의 중심지로 삼았다. 포르투갈인은 아프리카 다른 지역에서 노예를 들여와 아칸 상인에게 팔기도 했으나, 1637년 네덜란드가 엘미나를, 1642년 악심의 마지막 요새를 빼앗으며 물러났다.",
+    "zh": "葡萄牙航海者于1471年抵达这片海岸，1482年在埃尔米纳修建圣若热-达米纳城堡，作为王室垄断黄金输往里斯本的中心。葡萄牙人还从非洲其他地区运来奴隶卖给阿坎商人，直到荷兰人于1637年夺取埃尔米纳、1642年夺取其在阿克西姆的最后一座要塞。",
+    "ja": "ポルトガルの航海者は1471年にこの海岸に到達し、1482年にエルミナにサン・ジョルジェ・ダ・ミナを築いて、リスボンへ送る黄金の王室独占交易の拠点とした。ポルトガル人はアフリカの他地域から奴隷を連れてきてアカン商人に売りもしたが、1637年にオランダがエルミナを、1642年にアクシムの最後の砦を奪った。"
+   }
+  },
+  {
+   "from": 1598,
+   "to": 1872,
+   "kind": "colonial",
+   "qid": "Q770776",
+   "polity": null,
+   "name": {
+    "en": "Dutch Gold Coast and the European forts",
+    "ko": "네덜란드령 황금 해안과 유럽 요새들",
+    "zh": "荷属黄金海岸与欧洲要塞",
+    "ja": "オランダ領黄金海岸とヨーロッパの砦"
+   },
+   "summary": {
+    "en": "From 1598 the Dutch traded on the coast and, after taking Elmina in 1637, became the leading European power there. English, Danish, Swedish and Brandenburg companies also built forts, making the Gold Coast the most fortified stretch of the African coast; gold gave way to the trade in enslaved people as the main export from the late 17th century until the abolition of the trade in the early 19th century.",
+    "ko": "1598년부터 해안에서 교역한 네덜란드는 1637년 엘미나를 점령한 뒤 이 지역의 주도적 유럽 세력이 되었다. 잉글랜드·덴마크·스웨덴·브란덴부르크 회사들도 요새를 세워 황금 해안은 아프리카 해안에서 요새가 가장 밀집한 곳이 되었으며, 17세기 말부터 19세기 초 노예무역 폐지 때까지 주요 수출품은 황금에서 노예로 바뀌었다.",
+    "zh": "荷兰人自1598年起在这片海岸贸易，1637年夺取埃尔米纳后成为当地首要的欧洲势力。英格兰、丹麦、瑞典和勃兰登堡的公司也纷纷筑堡，黄金海岸成为非洲海岸要塞最密集的地段；从17世纪末到19世纪初奴隶贸易废止，主要出口商品由黄金变为奴隶。",
+    "ja": "1598年から海岸で交易したオランダは、1637年にエルミナを奪うとこの地の主導的なヨーロッパ勢力となった。イングランド、デンマーク、スウェーデン、ブランデンブルクの会社も砦を築き、黄金海岸はアフリカ沿岸で最も砦の密集した地域となった。17世紀末から19世紀初めの奴隷貿易廃止まで、主要輸出品は黄金から奴隷へと移った。"
+   }
+  },
+  {
+   "from": 1600,
+   "to": 1730,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Denkyira, Akwamu and Akyem",
+    "ko": "덴키라, 아콰무, 아키엠",
+    "zh": "登基拉、阿夸姆与阿基姆",
+    "ja": "デンキラ、アクワム、アキエム"
+   },
+   "summary": {
+    "en": "In the 17th century gold, firearms and the Atlantic trade fuelled the rise of powerful Akan military states. Denkyira dominated the western forest until its defeat by Asante in 1701, Akwamu conquered the Ga towns around Accra and controlled the eastern coast until Akyem and its allies destroyed it in 1730.",
+    "ko": "17세기에는 황금과 화기, 대서양 교역이 강력한 아칸 군사 국가들의 부상을 이끌었다. 덴키라는 1701년 아샨티에 패할 때까지 서부 삼림 지대를 지배했고, 아콰무는 아크라 주변의 가(Ga)족 도시들을 정복해 동부 해안을 장악했으나 1730년 아키엠과 동맹 세력에 의해 무너졌다.",
+    "zh": "17世纪，黄金、火器和大西洋贸易推动了强大的阿坎军事国家的兴起。登基拉称霸西部森林，直到1701年被阿散蒂击败；阿夸姆征服阿克拉周围的加人城镇并控制东部海岸，直到1730年被阿基姆及其盟友摧毁。",
+    "ja": "17世紀、黄金、火器、大西洋交易が強力なアカンの軍事国家の台頭をもたらした。デンキラは1701年にアシャンティに敗れるまで西部の森林を支配し、アクワムはアクラ周辺のガの町々を征服して東部海岸を押さえたが、1730年にアキエムとその同盟勢力に滅ぼされた。"
+   }
+  },
+  {
+   "from": 1701,
+   "to": 1901,
+   "kind": "state",
+   "qid": "Q722071",
+   "polity": "Ashanti Empire",
+   "name": {
+    "en": "Asante Empire",
+    "ko": "아샨티 제국",
+    "zh": "阿散蒂帝国",
+    "ja": "アシャンティ帝国"
+   },
+   "summary": {
+    "en": "Founded by Osei Tutu and the priest Okomfo Anokye around the Golden Stool, the Asante Empire expanded from Kumasi to dominate most of modern Ghana and parts of neighbouring countries by the late 18th century. A sophisticated state with a road network, bureaucracy and gold-dust economy, it fought five wars with Britain in the 19th century before being annexed in 1901.",
+    "ko": "오세이 투투와 사제 오콤포 아노키에가 황금 의자를 중심으로 세운 아샨티 제국은 쿠마시에서 팽창해 18세기 말까지 오늘날 가나의 대부분과 인접국 일부를 지배했다. 도로망과 관료제, 사금 경제를 갖춘 정교한 국가였던 아샨티는 19세기 영국과 다섯 차례 전쟁을 치른 끝에 1901년 병합되었다.",
+    "zh": "阿散蒂帝国由奥塞·图图和祭司奥孔福·阿诺基围绕“金凳子”建立，从库马西向外扩张，到18世纪末已控制今加纳大部分地区及邻国部分地区。这个拥有道路网、官僚体系和金砂经济的成熟国家在19世纪与英国进行了五次战争，最终于1901年被吞并。",
+    "ja": "オセイ・トゥトゥと祭司オコンフォ・アノキエが黄金の床几を中心に築いたアシャンティ帝国は、クマシから拡大して18世紀末までに現在のガーナの大半と近隣諸国の一部を支配した。道路網、官僚制、砂金経済を備えた精緻な国家であったが、19世紀にイギリスと5度戦い、1901年に併合された。"
+   }
+  },
+  {
+   "from": 1821,
+   "to": 1957,
+   "kind": "colonial",
+   "qid": "Q503623",
+   "polity": "British Gold Coast",
+   "name": {
+    "en": "British Gold Coast",
+    "ko": "영국령 골드코스트",
+    "zh": "英属黄金海岸",
+    "ja": "英領ゴールド・コースト"
+   },
+   "summary": {
+    "en": "Britain's Crown took over the coastal forts in 1821, extended informal protection over the Fante, absorbed the Danish and Dutch forts and in 1874 proclaimed the Gold Coast Colony. After conquering Asante and the Northern Territories by 1901, it ruled through chiefs, while cocoa, gold and a growing educated elite transformed the colony and fuelled the nationalist movement.",
+    "ko": "영국 왕실은 1821년 해안 요새들을 인수하고 판테족에 대한 비공식적 보호를 확대했으며, 덴마크와 네덜란드의 요새를 흡수한 뒤 1874년 골드코스트 식민지를 선포했다. 1901년까지 아샨티와 북부 지역을 정복한 영국은 추장을 통해 통치했으며, 카카오·황금과 성장하는 교육 엘리트가 식민지를 변모시키고 민족주의 운동에 불을 지폈다.",
+    "zh": "英国王室于1821年接管沿海要塞，对芳蒂人扩大非正式保护，吸收丹麦和荷兰的要塞，并于1874年宣布成立黄金海岸殖民地。1901年前征服阿散蒂和北部领地后，英国通过酋长实施统治，可可、黄金和日益壮大的知识精英改变了殖民地面貌，并推动了民族主义运动。",
+    "ja": "イギリス王室は1821年に沿岸の砦を引き継ぎ、ファンテへの非公式な保護を広げ、デンマークとオランダの砦を吸収して1874年にゴールド・コースト植民地を宣言した。1901年までにアシャンティと北部地域を征服すると首長を通じて統治し、カカオと金、そして増大する教育エリートが植民地を変え、民族主義運動を育んだ。"
+   }
+  },
+  {
+   "from": 1884,
+   "to": 1914,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "German Africa",
+   "name": {
+    "en": "German Togoland (Volta region)",
+    "ko": "독일령 토골란트(볼타 지역)",
+    "zh": "德属多哥兰（沃尔特地区）",
+    "ja": "ドイツ領トーゴラント（ヴォルタ地方）"
+   },
+   "summary": {
+    "en": "In 1884 Germany declared a protectorate over Togoland, whose western part included much of today's Volta and Oti regions of Ghana, inhabited largely by Ewe and other peoples. German rule built roads and plantations until British and French forces conquered the colony in August 1914.",
+    "ko": "1884년 독일은 토골란트에 대한 보호령을 선포했는데, 그 서부에는 주로 에웨족 등이 사는 오늘날 가나의 볼타주와 오티주 상당 부분이 포함되어 있었다. 독일은 도로와 플랜테이션을 건설했으나, 1914년 8월 영국과 프랑스 군대가 이 식민지를 정복했다.",
+    "zh": "1884年德国宣布对多哥兰实行保护，其西部包括今加纳沃尔特区和奥蒂区的大部分地区，居民主要是埃维人等民族。德国统治期间修建了道路和种植园，直到1914年8月英法军队征服该殖民地。",
+    "ja": "1884年、ドイツはトーゴラントに保護領を宣言した。その西部には主にエウェ人などが住む現在のガーナのヴォルタ州とオティ州の大部分が含まれていた。ドイツは道路やプランテーションを整備したが、1914年8月にイギリス・フランス軍がこの植民地を征服した。"
+   }
+  },
+  {
+   "from": 1916,
+   "to": 1956,
+   "kind": "colonial",
+   "qid": "Q797527",
+   "polity": null,
+   "name": {
+    "en": "British Togoland",
+    "ko": "영국령 토골란트",
+    "zh": "英属多哥兰",
+    "ja": "英領トーゴラント"
+   },
+   "summary": {
+    "en": "After the partition of German Togoland, Britain administered its western strip as a League of Nations mandate and later UN trust territory, governed together with the Gold Coast. In a 1956 UN-supervised plebiscite a majority voted for union with the Gold Coast, though many in the Ewe-majority south preferred separate status or unification with French Togo.",
+    "ko": "독일령 토골란트가 분할된 뒤 영국은 서쪽 지대를 국제연맹 위임통치령, 이후 유엔 신탁통치령으로 관리하며 골드코스트와 함께 통치했다. 1956년 유엔 감시 아래 치러진 주민투표에서 다수가 골드코스트와의 통합에 찬성했으나, 에웨족이 다수인 남부에서는 별도 지위나 프랑스령 토고와의 통합을 원하는 이가 많았다.",
+    "zh": "德属多哥兰被瓜分后，英国将其西部狭长地带作为国际联盟委任统治地、后为联合国托管地进行管理，并与黄金海岸一并治理。在1956年联合国监督的公民投票中，多数人投票赞成与黄金海岸合并，但在埃维人占多数的南部，许多人更希望保持单独地位或与法属多哥统一。",
+    "ja": "ドイツ領トーゴラントの分割後、イギリスはその西部の細長い地域を国際連盟委任統治領、のち国連信託統治領として、ゴールド・コーストと一体で統治した。1956年の国連監視下の住民投票では多数がゴールド・コーストとの統合を選んだが、エウェ人が多い南部では分離した地位やフランス領トーゴとの統一を望む人も多かった。"
+   }
+  },
+  {
+   "from": 1957,
+   "to": 1960,
+   "kind": "state",
+   "qid": "Q5555325",
+   "polity": null,
+   "name": {
+    "en": "Dominion of Ghana",
+    "ko": "가나 자치령",
+    "zh": "加纳自治领",
+    "ja": "ガーナ自治領"
+   },
+   "summary": {
+    "en": "On 6 March 1957 the Gold Coast and British Togoland became independent as Ghana, a dominion within the Commonwealth with Queen Elizabeth II as head of state and Kwame Nkrumah as prime minister. The name recalled the medieval Ghana Empire of the western Sahel, symbolizing an African heritage beyond colonial borders.",
+    "ko": "1957년 3월 6일 골드코스트와 영국령 토골란트는 엘리자베스 2세 여왕을 국가원수로, 콰메 은크루마를 총리로 하는 영연방 자치령 가나로 독립했다. 국명은 서부 사헬의 중세 가나 제국에서 따온 것으로, 식민지 경계를 넘어선 아프리카의 유산을 상징했다.",
+    "zh": "1957年3月6日，黄金海岸和英属多哥兰以加纳之名独立，成为英联邦内的自治领，国家元首为伊丽莎白二世女王，克瓦米·恩克鲁玛任总理。国名取自西萨赫勒的中世纪加纳帝国，象征超越殖民边界的非洲传承。",
+    "ja": "1957年3月6日、ゴールド・コーストと英領トーゴラントはエリザベス2世を元首、クワメ・エンクルマを首相とする英連邦内の自治領ガーナとして独立した。国名は西サヘルの中世ガーナ帝国にちなみ、植民地の境界を越えたアフリカの遺産を象徴した。"
+   }
+  },
+  {
+   "from": 1960,
+   "to": 1992,
+   "kind": "state",
+   "qid": "Q117",
+   "polity": "Ghana",
+   "name": {
+    "en": "Republic of Ghana: First to Third Republics and military rule",
+    "ko": "가나 공화국: 제1~3공화국과 군정",
+    "zh": "加纳共和国：第一至第三共和国与军政",
+    "ja": "ガーナ共和国：第一～第三共和政と軍政"
+   },
+   "summary": {
+    "en": "Ghana became a republic in 1960 under President Nkrumah, who turned it into a one-party state in 1964 before being overthrown in 1966. Three decades of alternating military regimes and short-lived civilian republics followed, amid economic decline, until Jerry Rawlings's PNDC introduced structural adjustment in 1983 and steered a return to constitutional rule.",
+    "ko": "가나는 1960년 은크루마 대통령 아래 공화국이 되었고, 그는 1964년 일당 국가를 만든 뒤 1966년 축출되었다. 이후 경제 쇠퇴 속에 군사 정권과 단명한 문민 공화국이 번갈아 들어선 30년이 이어졌고, 제리 롤링스의 PNDC가 1983년 구조 조정을 도입하고 헌정 복귀를 이끌었다.",
+    "zh": "加纳于1960年在恩克鲁玛总统领导下成为共和国，他于1964年建立一党制国家，1966年被推翻。此后三十年间，在经济衰退中军政权与短命的文人共和国交替出现，直到杰里·罗林斯的临时国防委员会于1983年推行结构调整，并引导国家回归宪政。",
+    "ja": "ガーナは1960年にエンクルマ大統領のもとで共和国となり、彼は1964年に一党制国家としたのち1966年に打倒された。以後30年間、経済の衰退のなかで軍事政権と短命な文民共和政が交互に続き、ジェリー・ローリングスのPNDCが1983年に構造調整を導入して立憲政治への復帰を導いた。"
+   }
+  },
+  {
+   "from": 1993,
+   "to": 2026,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Fourth Republic",
+    "ko": "제4공화국",
+    "zh": "第四共和国",
+    "ja": "第四共和政"
+   },
+   "summary": {
+    "en": "Since the 1992 constitution took effect in January 1993, Ghana has held regular elections in which power has alternated between the National Democratic Congress and the New Patriotic Party, making it one of Africa's most stable democracies. Gold, cocoa and, from 2010, oil drove growth, though debt crises, power shortages and illegal mining remain challenges.",
+    "ko": "1992년 헌법이 1993년 1월 발효된 이후 가나는 정기 선거를 통해 국민민주회의(NDC)와 신애국당(NPP)이 번갈아 집권하며 아프리카에서 가장 안정된 민주주의 국가 가운데 하나가 되었다. 황금·카카오와 2010년부터의 석유가 성장을 이끌었지만, 부채 위기와 전력난, 불법 채굴은 여전한 과제다.",
+    "zh": "自1992年宪法于1993年1月生效以来，加纳定期举行选举，全国民主大会党与新爱国党轮流执政，使其成为非洲最稳定的民主国家之一。黄金、可可以及2010年起的石油推动了经济增长，但债务危机、电力短缺和非法采矿仍是挑战。",
+    "ja": "1992年憲法が1993年1月に発効して以来、ガーナは定期的な選挙で国民民主会議（NDC）と新愛国党（NPP）が政権交代を重ね、アフリカで最も安定した民主国家の一つとなった。金、カカオ、2010年からは石油が成長を支えたが、債務危機、電力不足、違法採掘は依然として課題である。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Foragers of Bosumpra and the forest",
+    "ko": "보숨프라와 숲의 수렵채집민",
+    "zh": "博松普拉与森林中的采集狩猎者",
+    "ja": "ボスンプラと森の狩猟採集民"
+   },
+   "description": {
+    "en": "Around the 4th and 3rd millennia BC, forager communities used rock shelters such as Bosumpra on the Kwahu plateau, making pottery and small quartz tools and gathering oil-palm and canarium nuts. Their way of life formed the background from which food production emerged in the Kintampo complex.",
+    "ko": "기원전 4~3천년기 무렵 수렵채집 공동체들은 콰후 고원의 보숨프라 같은 바위 그늘을 이용하며 토기와 작은 석영 석기를 만들고 기름야자와 카나리움 열매를 채집했다. 이들의 생활 방식은 킨탐포 문화에서 식량 생산이 등장하는 배경이 되었다.",
+    "zh": "约公元前四至三千纪，采集狩猎群体利用夸胡高原博松普拉等岩棚，制作陶器和小型石英工具，采集油棕果和橄榄类坚果。他们的生活方式构成了金坦波文化中食物生产出现的背景。",
+    "ja": "紀元前4～3千年紀頃、狩猟採集の共同体はクワフ高原のボスンプラなどの岩陰を利用し、土器や小さな石英の石器を作り、アブラヤシやカナリウムの実を採集した。その暮らしは、キンタンポ文化で食料生産が生まれる背景となった。"
+   }
+  },
+  {
+   "year": -2000,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Kintampo villages and early farming",
+    "ko": "킨탐포 마을과 초기 농경",
+    "zh": "金坦波村落与早期农业",
+    "ja": "キンタンポの村と初期農耕"
+   },
+   "description": {
+    "en": "Between roughly 2500 and 1400 BC, people of the Kintampo complex lived in permanent villages across central and northern Ghana, herding goats and cattle and exploiting oil palm and cowpea. Charred pearl millet at Birimi in the north is among the earliest evidence of domesticated cereal in West Africa south of the Sahel.",
+    "ko": "대략 기원전 2500~1400년 사이 킨탐포 문화의 사람들은 가나 중부와 북부 곳곳의 정주 마을에 살며 염소와 소를 기르고 기름야자와 동부를 이용했다. 북부 비리미에서 발견된 탄화된 진주조는 사헬 이남 서아프리카에서 재배 곡물의 가장 이른 증거 가운데 하나다.",
+    "zh": "大约在公元前2500年至前1400年间，金坦波文化的人们定居在加纳中部和北部各地的村落中，放牧山羊和牛，利用油棕和豇豆。北部比里米出土的炭化珍珠粟是萨赫勒以南西非最早的驯化谷物证据之一。",
+    "ja": "おおよそ紀元前2500年から前1400年にかけて、キンタンポ文化の人々はガーナ中部・北部各地の定住村落に暮らし、ヤギや牛を飼い、アブラヤシやササゲを利用した。北部ビリミで見つかった炭化したトウジンビエは、サヘル以南の西アフリカで最古級の栽培穀物の証拠である。"
+   }
+  },
+  {
+   "year": -300,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Iron working spreads",
+    "ko": "제철 기술의 확산",
+    "zh": "冶铁技术的传播",
+    "ja": "製鉄技術の広がり"
+   },
+   "description": {
+    "en": "During the later first millennium BC and the first millennium AD, iron smelting spread through the region of modern Ghana. Iron axes and hoes made it easier to clear forest and cultivate yams and other crops, supporting denser populations and, eventually, the trading towns and chiefdoms of the forest and savanna.",
+    "ko": "기원전 1천년기 후반과 서기 1천년기 동안 제철 기술이 오늘날 가나 지역에 퍼졌다. 쇠도끼와 괭이 덕분에 숲을 개간하고 얌 등 작물을 재배하기가 쉬워지면서 인구가 조밀해졌고, 마침내 숲과 사바나의 교역 도시와 수장국이 나타날 기반이 마련되었다.",
+    "zh": "在公元前一千纪后期和公元一千纪期间，冶铁技术传遍今加纳地区。铁斧和铁锄使开垦森林、种植山药等作物变得更加容易，从而支撑了更稠密的人口，并最终催生了森林和稀树草原上的贸易城镇和酋邦。",
+    "ja": "紀元前1千年紀後半から紀元1千年紀にかけて、製鉄技術が現在のガーナ地域に広がった。鉄の斧や鍬によって森林の開墾やヤムイモなどの栽培が容易になり、人口が稠密化し、やがて森林とサバンナの交易都市や首長国が生まれる基盤となった。"
+   }
+  },
+  {
+   "year": 700,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Koma Land terracottas",
+    "ko": "코마랜드의 테라코타",
+    "zh": "科马兰陶塑",
+    "ja": "コマランドのテラコッタ"
+   },
+   "description": {
+    "en": "In the Koma Land of north-western Ghana, people buried their dead in mounds accompanied by hundreds of distinctive terracotta figures and heads, along with beads and metal objects. Radiocarbon dates broadly place this culture in the later first millennium AD and early second millennium; many sites have since been damaged by looting for the art market.",
+    "ko": "가나 북서부 코마랜드에서는 사람들이 죽은 이를 봉분에 묻으며 수백 점의 독특한 테라코타 인물상과 두상, 구슬, 금속 유물을 함께 넣었다. 방사성 탄소 연대 측정은 이 문화를 대략 서기 1천년기 후반에서 2천년기 초로 본다. 이후 많은 유적이 미술품 시장을 노린 도굴로 훼손되었다.",
+    "zh": "在加纳西北部的科马兰，人们将死者葬于墓冢之中，随葬数百件独特的陶塑人像和头像，以及珠子和金属器物。放射性碳测年大致将这一文化定在公元一千纪后期至二千纪初；此后许多遗址因盗掘文物流入艺术市场而遭到破坏。",
+    "ja": "ガーナ北西部のコマランドでは、人々は死者を墳丘に葬り、数百点の独特なテラコッタの人物像や頭部像、ビーズや金属器を副葬した。放射性炭素年代はこの文化をおおむね紀元1千年紀後半から2千年紀初めに位置づけている。その後、多くの遺跡が美術市場向けの盗掘で損なわれた。"
+   }
+  },
+  {
+   "year": 1100,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Begho and the gold-kola trade",
+    "ko": "베고와 황금·콜라 교역",
+    "zh": "贝戈与黄金-可乐果贸易",
+    "ja": "ベゴと黄金・コーラ交易"
+   },
+   "description": {
+    "en": "From around the 11th century the town of Begho, at the edge of the forest in the north-west of today's Bono region, grew into a major market where Mande (Dyula) merchants bought gold and kola nuts from Akan producers. Begho linked the forest to Jenne and the trans-Saharan trade and flourished for several centuries before declining in the 18th century.",
+    "ko": "11세기 무렵부터 오늘날 보노주 북서쪽 숲 가장자리의 도시 베고는 만데(디울라) 상인들이 아칸 생산자들에게서 황금과 콜라 열매를 사들이는 큰 시장으로 성장했다. 베고는 숲 지대를 젠네와 사하라 횡단 교역에 연결하며 수 세기 동안 번영하다 18세기에 쇠퇴했다.",
+    "zh": "大约从11世纪起，位于今博诺区西北部森林边缘的贝戈镇发展成为重要市场，曼德（迪尤拉）商人在此向阿坎生产者收购黄金和可乐果。贝戈将森林地带与杰内及跨撒哈拉贸易连接起来，繁荣了数个世纪，至18世纪衰落。",
+    "ja": "11世紀頃から、現在のボノ州北西部の森林の縁にあるベゴの町は、マンデ（ジュラ）商人がアカンの生産者から黄金とコーラの実を買い付ける大市場へと成長した。ベゴは森林地帯をジェンネやサハラ縦断交易と結び、数世紀にわたって栄えたのち18世紀に衰退した。"
+   }
+  },
+  {
+   "year": 1252,
+   "qid": "Q6750512",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Fante settle at Mankessim (tradition)",
+    "ko": "판테족의 만케심 정착(전승)",
+    "zh": "芳蒂人定居曼克西姆（传说）",
+    "ja": "ファンテのマンケシム定住（伝承）"
+   },
+   "description": {
+    "en": "According to Fante oral tradition, the Fante migrated south from the Bono area under the leaders Obunumankoma, Odapagyan and Oson and founded Mankessim near the coast in the 13th century; the date 1252 is a traditional reckoning. From Mankessim, Fante groups later spread to found towns along the central coast.",
+    "ko": "판테족 구전에 따르면 판테인은 오부누만코마·오다파잔·오손이라는 지도자를 따라 보노 지역에서 남쪽으로 이주해 13세기에 해안 가까이 만케심을 세웠다. 1252년이라는 연도는 전승에 따른 계산이다. 이후 판테 집단은 만케심에서 퍼져 나가 중부 해안을 따라 도시들을 세웠다.",
+    "zh": "据芳蒂人的口述传统，芳蒂人在奥布努曼科马、奥达帕吉安和奥松等首领带领下从博诺一带南迁，于13世纪在海岸附近建立曼克西姆；1252年这一年份属于传统推算。此后芳蒂各群体从曼克西姆向外扩散，在中部海岸建立城镇。",
+    "ja": "ファンテの口承によれば、ファンテはオブヌマンコマ、オダパジャン、オソンという指導者に率いられてボノ地方から南へ移住し、13世紀に海岸近くにマンケシムを築いた。1252年という年は伝承上の算定である。のちにファンテの集団はマンケシムから広がり、中部海岸沿いに町を築いた。"
+   }
+  },
+  {
+   "year": 1400,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Akan States and the Gold Trade",
+    "ko": "아칸 국가들의 성장과 황금 무역",
+    "zh": "阿坎诸国的兴起与黄金贸易",
+    "ja": "アカン諸国の台頭と黄金交易"
+   },
+   "description": {
+    "en": "Akan states such as Bono emerged in the forest zone, growing wealthy from goldfields that fed trans-Saharan trade routes and later drew Europeans to the coast.",
+    "ko": "삼림 지대에서 보노 등 아칸계 국가들이 성장하여 금광으로 번영했다. 이 황금은 사하라 종단 무역로를 거쳐 유럽인들을 해안으로 끌어들였다.",
+    "zh": "博诺等阿坎人国家在森林地带兴起，凭借金矿而富庶。黄金经跨撒哈拉商路流通，后来更吸引欧洲人来到海岸。",
+    "ja": "森林地帯でボノをはじめとするアカン系諸国が台頭し、金鉱によって繁栄した。黄金はサハラ縦断交易路を潤し、やがて欧州人を沿岸へ引き寄せた。"
+   }
+  },
+  {
+   "year": 1450,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of Dagbon and Mamprugu",
+    "ko": "다그본과 맘프루구의 대두",
+    "zh": "达贡巴与曼普鲁古的兴起",
+    "ja": "ダグボンとマンプルグの興隆"
+   },
+   "description": {
+    "en": "According to tradition, descendants of the legendary warrior Naa Gbewaa founded the related kingdoms of Mamprugu, Dagbon and Nanumba in northern Ghana around the 15th century, imposing chieftaincy on earlier earth-priest societies. Dagbon became the largest of them and, under rulers known as the Ya Na, a centre of trade and later of Islamic learning.",
+    "ko": "전승에 따르면 15세기경 전설적인 전사 나 그베와의 후손들이 가나 북부에 서로 연관된 맘프루구·다그본·나눔바 왕국을 세우고, 그보다 앞선 '땅의 사제' 중심 사회에 추장제를 도입했다. 이 가운데 가장 큰 다그본은 '야 나'라 불리는 왕들 아래 교역과 후대 이슬람 학문의 중심지가 되었다.",
+    "zh": "据传说，约15世纪，传奇武士纳·格贝瓦的后裔在加纳北部建立了彼此相关的曼普鲁古、达贡巴和纳努姆巴王国，将酋长制度强加于此前以“土地祭司”为中心的社会。其中最大的达贡巴在称为“亚纳”的国王统治下成为贸易中心，后来又成为伊斯兰学术中心。",
+    "ja": "伝承によれば、15世紀頃に伝説的な戦士ナー・グベワの子孫がガーナ北部に互いに関係するマンプルグ、ダグボン、ナヌンバの諸王国を築き、それ以前の「大地の祭司」を中心とする社会に首長制を持ち込んだ。最大のダグボンは「ヤ・ナ」と呼ばれる王のもとで交易の中心、のちにはイスラーム学問の中心となった。"
+   }
+  },
+  {
+   "year": 1471,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Portuguese reach the Gold Coast",
+    "ko": "포르투갈인의 황금 해안 도달",
+    "zh": "葡萄牙人抵达黄金海岸",
+    "ja": "ポルトガル人の黄金海岸到達"
+   },
+   "description": {
+    "en": "In 1471 Portuguese navigators João de Santarém and Pêro Escobar, sailing for the merchant Fernão Gomes, reached the coast near what became Elmina and found that local people could supply large quantities of gold. Europeans soon called the region the 'Mina' or Gold Coast, and the trade drew a rush of competing powers.",
+    "ko": "1471년 상인 페르낭 고메스를 위해 항해하던 포르투갈 항해자 주앙 드 산타렝과 페루 에스코바르가 훗날 엘미나가 될 부근의 해안에 도착해, 현지인들이 대량의 황금을 공급할 수 있음을 알게 되었다. 유럽인들은 곧 이 지역을 '미나' 또는 황금 해안이라 불렀고, 황금 교역은 경쟁 열강을 끌어들였다.",
+    "zh": "1471年，为商人费尔南·戈梅斯航行的葡萄牙航海者若昂·德圣塔伦和佩罗·埃斯科巴尔抵达后来成为埃尔米纳一带的海岸，发现当地人能够供应大量黄金。欧洲人很快将这一地区称为“米纳”或黄金海岸，黄金贸易引来了列强争逐。",
+    "ja": "1471年、商人フェルナン・ゴメスのために航海していたポルトガルの航海者ジョアン・デ・サンタレンとペロ・エスコバルが、のちのエルミナ付近の海岸に到達し、住民が大量の黄金を供給できることを知った。ヨーロッパ人はまもなくこの地域を「ミナ」あるいは黄金海岸と呼び、交易は競合する列強を引き寄せた。"
+   }
+  },
+  {
+   "year": 1482,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Portuguese Build Elmina Castle",
+    "ko": "포르투갈의 엘미나 성 건설",
+    "zh": "葡萄牙人修建埃尔米纳城堡",
+    "ja": "ポルトガルによるエルミナ城の建設"
+   },
+   "description": {
+    "en": "The Portuguese erected São Jorge da Mina (Elmina Castle), the first major European fort in sub-Saharan Africa, to control the Gold Coast trade.",
+    "ko": "포르투갈이 황금 해안 무역을 장악하기 위해 사하라 이남 아프리카 최초의 대규모 유럽 요새인 엘미나 성(상조르즈 다 미나)을 세웠다.",
+    "zh": "葡萄牙人为控制黄金海岸贸易，修建了圣若热达米纳（埃尔米纳城堡），这是撒哈拉以南非洲第一座大型欧洲要塞。",
+    "ja": "ポルトガルは黄金海岸の交易を掌握するため、サハラ以南アフリカ初の本格的な欧州要塞エルミナ城（サン・ジョルジェ・ダ・ミナ）を築いた。"
+   }
+  },
+  {
+   "year": 1515,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Fort São António at Axim",
+    "ko": "악심의 상안토니우 요새",
+    "zh": "阿克西姆的圣安东尼奥堡",
+    "ja": "アクシムのサン・アントニオ砦"
+   },
+   "description": {
+    "en": "Around 1515 the Portuguese built Fort São António at Axim on the western coast near the mouth of the Ankobra River, which gave access to gold from the Wassa area. It was their second major fort after Elmina and remained in Portuguese hands until the Dutch captured it in 1642.",
+    "ko": "1515년경 포르투갈인은 서부 해안 안코브라강 하구 부근의 악심에 상안토니우 요새를 세워 와사 지역의 황금에 접근할 길을 확보했다. 엘미나에 이은 두 번째 주요 요새로, 1642년 네덜란드에 점령될 때까지 포르투갈이 보유했다.",
+    "zh": "约1515年，葡萄牙人在西部海岸安科布拉河口附近的阿克西姆修建圣安东尼奥堡，借此获取瓦萨地区的黄金。这是继埃尔米纳之后的第二座主要要塞，直到1642年被荷兰人攻占前一直由葡萄牙控制。",
+    "ja": "1515年頃、ポルトガル人は西部海岸のアンコブラ川河口近くのアクシムにサン・アントニオ砦を築き、ワサ地方の黄金へのルートを確保した。エルミナに次ぐ第二の主要な砦で、1642年にオランダに奪われるまでポルトガルが保持した。"
+   }
+  },
+  {
+   "year": 1612,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Dutch build Fort Nassau at Mouri",
+    "ko": "네덜란드의 모우리 나사우 요새 건설",
+    "zh": "荷兰人在穆里修建拿骚堡",
+    "ja": "オランダのムーリ・ナッサウ砦建設"
+   },
+   "description": {
+    "en": "After more than a decade of trading on the coast, the Dutch built Fort Nassau at Mouri (Moree) in 1612 with the permission of the local Fante rulers, their first fortified base on the Gold Coast. It became the headquarters from which the Dutch challenged the Portuguese monopoly.",
+    "ko": "해안에서 10여 년간 교역해 온 네덜란드는 1612년 현지 판테 통치자들의 허가를 받아 모우리(모레)에 나사우 요새를 세웠는데, 이는 황금 해안에서 그들의 첫 요새 거점이었다. 이곳은 네덜란드가 포르투갈의 독점에 도전하는 본부가 되었다.",
+    "zh": "荷兰人在这片海岸贸易十余年后，于1612年经当地芳蒂统治者许可，在穆里（莫雷）修建拿骚堡，这是他们在黄金海岸的第一个设防据点，也成为荷兰挑战葡萄牙垄断的大本营。",
+    "ja": "10年以上この海岸で交易していたオランダは、1612年に地元ファンテの支配者の許可を得てムーリ（モーレ）にナッサウ砦を築いた。黄金海岸における最初の要塞拠点であり、オランダがポルトガルの独占に挑む本拠地となった。"
+   }
+  },
+  {
+   "year": 1625,
+   "qid": "Q1140266",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Failed Dutch attack on Elmina",
+    "ko": "네덜란드의 엘미나 공격 실패",
+    "zh": "荷兰进攻埃尔米纳失败",
+    "ja": "オランダのエルミナ攻撃失敗"
+   },
+   "description": {
+    "en": "In October 1625 a Dutch force landed to attack São Jorge da Mina but was routed by the small Portuguese garrison together with warriors from the Elmina (Edina) town, who killed most of the attackers. The defeat delayed the Dutch conquest of the castle by twelve years.",
+    "ko": "1625년 10월 네덜란드군이 상주르즈 다 미나를 공격하기 위해 상륙했으나, 소규모 포르투갈 수비대와 엘미나(에디나) 마을 전사들에게 대패해 공격군 대부분이 목숨을 잃었다. 이 패배로 네덜란드의 성채 점령은 12년 늦춰졌다.",
+    "zh": "1625年10月，荷兰军队登陆进攻圣若热-达米纳城堡，却被人数不多的葡萄牙守军与埃尔米纳（埃迪纳）镇的战士击溃，进攻者大多被杀。这次失败使荷兰占领城堡推迟了十二年。",
+    "ja": "1625年10月、オランダ軍がサン・ジョルジェ・ダ・ミナを攻めるため上陸したが、小規模なポルトガル守備隊とエルミナ（エディナ）の町の戦士に撃退され、攻撃側の大半が殺された。この敗北でオランダによる城の奪取は12年遅れた。"
+   }
+  },
+  {
+   "year": 1637,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Dutch capture Elmina Castle",
+    "ko": "네덜란드의 엘미나 성 점령",
+    "zh": "荷兰攻占埃尔米纳城堡",
+    "ja": "オランダのエルミナ城占領"
+   },
+   "description": {
+    "en": "In August 1637 Dutch West India Company forces, with African allies, seized the hill overlooking São Jorge da Mina and bombarded the castle into surrender. Elmina became the headquarters of the Dutch Gold Coast, and after the Portuguese lost Axim in 1642 their presence on the coast ended.",
+    "ko": "1637년 8월 네덜란드 서인도회사 군대는 아프리카인 동맹군과 함께 상조르즈 다 미나를 내려다보는 언덕을 장악하고 포격을 가해 성채의 항복을 받아냈다. 엘미나는 네덜란드령 황금 해안의 본부가 되었고, 1642년 포르투갈이 악심마저 잃으면서 이 해안에서 포르투갈의 존재는 끝났다.",
+    "zh": "1637年8月，荷兰西印度公司军队在非洲盟友协助下占据俯瞰圣若热-达米纳的山丘，炮轰城堡迫其投降。埃尔米纳成为荷属黄金海岸的总部；1642年葡萄牙人又失去阿克西姆，从此退出这片海岸。",
+    "ja": "1637年8月、オランダ西インド会社の軍はアフリカ人同盟軍とともにサン・ジョルジェ・ダ・ミナを見下ろす丘を占拠し、砲撃して城を降伏させた。エルミナはオランダ領黄金海岸の本部となり、1642年にアクシムも失ったポルトガルはこの海岸から姿を消した。"
+   }
+  },
+  {
+   "year": 1661,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Danes acquire Christiansborg",
+    "ko": "덴마크의 크리스티안스보르 획득",
+    "zh": "丹麦获得克里斯蒂安斯堡",
+    "ja": "デンマークのクリスチャンスボー獲得"
+   },
+   "description": {
+    "en": "In 1661 the Danish took over a lodge at Osu on the coast of Accra, which they developed into Christiansborg Castle, the centre of the Danish Gold Coast. Accra thus hosted rival Dutch, English and Danish forts; Christiansborg later served as the seat of the British colonial government and of independent Ghana's presidency.",
+    "ko": "1661년 덴마크는 아크라 해안 오수의 상관을 인수해 덴마크령 황금 해안의 중심지인 크리스티안스보르 성으로 발전시켰다. 이로써 아크라에는 네덜란드·잉글랜드·덴마크의 경쟁 요새가 공존하게 되었으며, 크리스티안스보르는 훗날 영국 식민지 정부와 독립 가나 대통령부의 청사로 쓰였다.",
+    "zh": "1661年，丹麦人接管了阿克拉海岸奥苏的一处商站，并将其发展为丹属黄金海岸的中心克里斯蒂安斯堡城堡。阿克拉由此同时存在荷兰、英格兰和丹麦相互竞争的要塞；克里斯蒂安斯堡后来成为英国殖民政府以及独立后加纳总统府的所在地。",
+    "ja": "1661年、デンマークはアクラ海岸のオスにあった商館を引き継ぎ、デンマーク領黄金海岸の中心クリスチャンスボー城へと発展させた。アクラにはオランダ・イングランド・デンマークの砦が並び立つことになり、クリスチャンスボーはのちにイギリス植民地政府、そして独立ガーナの大統領府として使われた。"
+   }
+  },
+  {
+   "year": 1665,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Coastal Forts and the Atlantic Slave Trade",
+    "ko": "해안 요새와 대서양 노예무역",
+    "zh": "沿海要塞与大西洋奴隶贸易",
+    "ja": "沿岸要塞と大西洋奴隷貿易"
+   },
+   "description": {
+    "en": "Britain seized Cape Coast Castle, one of dozens of coastal forts through which enslaved Africans were shipped across the Atlantic over the following centuries.",
+    "ko": "영국이 케이프코스트 성을 장악했다. 이후 수백 년간 해안의 여러 요새를 거쳐 수많은 아프리카인이 노예로 대서양 너머로 끌려갔다.",
+    "zh": "英国夺取海岸角城堡。此后数百年间，众多非洲人经由沿海要塞被贩运至大西洋彼岸，沦为奴隶。",
+    "ja": "イギリスがケープ・コースト城を奪取した。以後数世紀にわたり、沿岸の要塞群を経て多くのアフリカ人が奴隷として大西洋の彼方へ送られた。"
+   }
+  },
+  {
+   "year": 1677,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Akwamu conquers the Ga",
+    "ko": "아콰무의 가(Ga)족 정복",
+    "zh": "阿夸姆征服加人",
+    "ja": "アクワムのガ征服"
+   },
+   "description": {
+    "en": "Between about 1677 and 1681 the Akan state of Akwamu defeated the Ga kingdom, whose capital Ayawaso lay inland from Accra, and took control of the Ga coastal towns and their trade with the European forts. Many Ga fled east, and Akwamu became the dominant power on the eastern Gold Coast.",
+    "ko": "1677년경부터 1681년 사이 아칸 국가 아콰무는 아크라 내륙의 아야와소를 수도로 하던 가 왕국을 물리치고, 가(Ga)족의 해안 도시들과 유럽 요새와의 교역을 장악했다. 많은 가(Ga)족이 동쪽으로 피신했고, 아콰무는 황금 해안 동부의 지배적 세력이 되었다.",
+    "zh": "大约在1677年至1681年间，阿坎国家阿夸姆击败了以阿克拉内陆的阿亚瓦索为都的加人王国，控制了加人的沿海城镇及其与欧洲要塞的贸易。许多加人向东逃散，阿夸姆成为黄金海岸东部的霸主。",
+    "ja": "1677年頃から1681年にかけて、アカン国家アクワムはアクラ内陸のアヤワソを都とするガ王国を破り、ガの沿岸の町々とヨーロッパの砦との交易を掌握した。多くのガの人々が東へ逃れ、アクワムは黄金海岸東部の支配的勢力となった。"
+   }
+  },
+  {
+   "year": 1683,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Brandenburg's Gross-Friedrichsburg",
+    "ko": "브란덴부르크의 그로스프리드리히스부르크",
+    "zh": "勃兰登堡的大弗里德里希堡",
+    "ja": "ブランデンブルクのグロース・フリードリヒスブルク"
+   },
+   "description": {
+    "en": "In 1683 the Brandenburg African Company founded the fort of Gross-Friedrichsburg at Princes Town near Cape Three Points. Brandenburg-Prussia's small colony traded in gold and slaves until it was sold to the Dutch in 1717, illustrating how many European states competed on this coast.",
+    "ko": "1683년 브란덴부르크 아프리카 회사는 스리포인츠곶 부근 프린시스타운에 그로스프리드리히스부르크 요새를 세웠다. 브란덴부르크-프로이센의 이 작은 식민지는 1717년 네덜란드에 매각될 때까지 황금과 노예를 거래했으며, 얼마나 많은 유럽 국가가 이 해안에서 경쟁했는지 보여 준다.",
+    "zh": "1683年，勃兰登堡非洲公司在三尖角附近的普林斯敦建立大弗里德里希堡。勃兰登堡-普鲁士的这块小殖民地从事黄金和奴隶贸易，直到1717年卖给荷兰，说明了有多少欧洲国家在这片海岸角逐。",
+    "ja": "1683年、ブランデンブルク・アフリカ会社はスリーポインツ岬近くのプリンスタウンにグロース・フリードリヒスブルク砦を築いた。ブランデンブルク＝プロイセンのこの小さな植民地は1717年にオランダへ売却されるまで黄金と奴隷を取引し、いかに多くのヨーロッパ諸国がこの海岸で競ったかを示している。"
+   }
+  },
+  {
+   "year": 1693,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Akwamu seizes Christiansborg",
+    "ko": "아콰무의 크리스티안스보르 점령",
+    "zh": "阿夸姆夺取克里斯蒂安斯堡",
+    "ja": "アクワムのクリスチャンスボー奪取"
+   },
+   "description": {
+    "en": "In 1693 Asameni, an Akwamu trader, entered Christiansborg Castle with followers posing as customers and seized it from the Danes. Akwamu held the castle for about a year, trading with all comers, before selling it back to Denmark, while Asameni reportedly kept its keys, which are still held in Akwamu.",
+    "ko": "1693년 아콰무의 상인 아사메니는 손님으로 가장한 추종자들과 함께 크리스티안스보르 성에 들어가 덴마크인에게서 성을 빼앗았다. 아콰무는 약 1년 동안 성을 점유하며 누구와도 교역하다 덴마크에 되팔았는데, 아사메니는 성의 열쇠를 간직했다고 하며 그 열쇠는 지금도 아콰무에 보관되어 있다.",
+    "zh": "1693年，阿夸姆商人阿萨梅尼带领扮作顾客的随从进入克里斯蒂安斯堡城堡，从丹麦人手中夺取了它。阿夸姆占据城堡约一年，与各方进行贸易，随后又将其卖回丹麦；据说阿萨梅尼保留了城堡的钥匙，这些钥匙至今仍存放在阿夸姆。",
+    "ja": "1693年、アクワムの商人アサメニは客を装った配下とともにクリスチャンスボー城に入り、デンマーク人から城を奪った。アクワムは約1年間城を保持してあらゆる相手と交易したのちデンマークに売り戻したが、アサメニは城の鍵を手元に残したとされ、その鍵は今もアクワムに保管されている。"
+   }
+  },
+  {
+   "year": 1694,
+   "qid": "Q6428297",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Komenda Wars",
+    "ko": "코멘다 전쟁",
+    "zh": "科门达战争",
+    "ja": "コメンダ戦争"
+   },
+   "description": {
+    "en": "From 1694 to 1700 the Komenda Wars pitted the kingdom of Eguafo and its neighbours against one another, with the English and Dutch companies backing rival sides and the merchant John Kabes of Komenda playing a key role. The conflicts showed how European rivalry and African state politics intertwined on the coast.",
+    "ko": "1694년부터 1700년까지 코멘다 전쟁에서는 에과포 왕국과 이웃 세력들이 서로 싸웠고, 잉글랜드와 네덜란드 회사는 각기 다른 편을 지원했으며 코멘다의 상인 존 케이브스가 핵심 역할을 했다. 이 분쟁은 유럽 세력 간 경쟁과 아프리카 국가 정치가 해안에서 어떻게 얽혔는지를 보여 준다.",
+    "zh": "1694年至1700年的科门达战争中，埃瓜福王国与其邻邦相互攻伐，英格兰和荷兰公司分别支持对立双方，科门达商人约翰·卡贝斯扮演了关键角色。这些冲突显示了欧洲列强的竞争与非洲国家政治在海岸如何交织在一起。",
+    "ja": "1694年から1700年のコメンダ戦争では、エグアフォ王国と近隣勢力が争い、イングランドとオランダの会社がそれぞれ対立する側を支援し、コメンダの商人ジョン・ケイブスが重要な役割を果たした。この紛争は、ヨーロッパ列強の競争とアフリカ諸国の政治が海岸でいかに絡み合ったかを示している。"
+   }
+  },
+  {
+   "year": 1701,
+   "qid": "Q722071",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the Ashanti Empire",
+    "ko": "아샨티 제국의 건국",
+    "zh": "阿散蒂帝国建立",
+    "ja": "アシャンティ王国の建国"
+   },
+   "description": {
+    "en": "Osei Tutu united the Ashanti clans around the sacred Golden Stool and was enthroned as Asantehene, founding an empire that dominated the region for two centuries.",
+    "ko": "오세이 투투가 신성한 황금 의자를 중심으로 아샨티 부족들을 통합하고 아샨티헤네로 즉위했다. 아샨티 제국은 이후 2세기 동안 이 지역을 지배했다.",
+    "zh": "奥塞·图图以神圣的金凳子为象征统一阿散蒂各部，即位为阿散蒂赫内。此后两个世纪，阿散蒂帝国称雄该地区。",
+    "ja": "オセイ・トゥトゥは神聖な「黄金の床几」を象徴としてアシャンティ諸部族を統一し、アサンテヘネに即位した。アシャンティ王国は以後2世紀にわたり地域に君臨した。"
+   }
+  },
+  {
+   "year": 1717,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Osei Tutu; Opoku Ware's expansion",
+    "ko": "오세이 투투의 죽음과 오포쿠 와레의 팽창",
+    "zh": "奥塞·图图之死与奥波库·瓦雷的扩张",
+    "ja": "オセイ・トゥトゥの死とオポク・ワレの拡大"
+   },
+   "description": {
+    "en": "Osei Tutu, founder of Asante, died around 1717 during a war against Akyem, according to tradition at a river crossing. His successor Opoku Ware I (reigned c. 1720–1750) consolidated the empire and extended it in every direction, conquering Bono, Akyem and Gonja's southern lands.",
+    "ko": "아샨티의 창건자 오세이 투투는 1717년경 아키엠과의 전쟁 중 사망했는데, 전승에 따르면 강을 건너던 중이었다. 그의 후계자 오포쿠 와레 1세(재위 약 1720~1750)는 제국을 다지고 사방으로 확장해 보노·아키엠과 곤자 남부를 정복했다.",
+    "zh": "阿散蒂的缔造者奥塞·图图约于1717年在对阿基姆的战争中去世，据传说是在渡河时阵亡。其继任者奥波库·瓦雷一世（约1720—1750年在位）巩固帝国并向四面八方扩张，征服了博诺、阿基姆以及贡贾的南部地区。",
+    "ja": "アシャンティの創始者オセイ・トゥトゥは1717年頃、アキエムとの戦争中に死去した。伝承では渡河中のことだという。後継のオポク・ワレ1世（在位1720年頃～1750年）は帝国を固めて四方に拡大し、ボノ、アキエム、ゴンジャの南部を征服した。"
+   }
+  },
+  {
+   "year": 1723,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Asante conquers Bono",
+    "ko": "아샨티의 보노 정복",
+    "zh": "阿散蒂征服博诺",
+    "ja": "アシャンティのボノ征服"
+   },
+   "description": {
+    "en": "Around 1723 Asante armies under Opoku Ware conquered Bono Manso, capital of the ancient Bono kingdom, and destroyed it. The conquest gave Asante control of the north-western trade routes toward Begho and the Niger, and the Bono heartland later revived as the Techiman state under Asante overlordship.",
+    "ko": "1723년경 오포쿠 와레가 이끄는 아샨티군이 오래된 보노 왕국의 수도 보노 만소를 정복해 파괴했다. 이 정복으로 아샨티는 베고와 니제르강으로 향하는 북서부 교역로를 장악했으며, 보노의 중심지는 이후 아샨티의 종주권 아래 테키만 국가로 되살아났다.",
+    "zh": "约1723年，奥波库·瓦雷率领的阿散蒂军队攻占并摧毁了古老的博诺王国都城博诺曼索。这次征服使阿散蒂控制了通往贝戈和尼日尔河的西北商路，博诺故地后来在阿散蒂的宗主权下复兴为特希曼国。",
+    "ja": "1723年頃、オポク・ワレ率いるアシャンティ軍が古いボノ王国の都ボノ・マンソを征服し破壊した。これによりアシャンティはベゴやニジェール川へ向かう北西の交易路を掌握し、ボノの中心地はのちにアシャンティの宗主権のもとでテキマン国として復興した。"
+   }
+  },
+  {
+   "year": 1730,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Fall of Akwamu",
+    "ko": "아콰무의 몰락",
+    "zh": "阿夸姆的覆灭",
+    "ja": "アクワムの滅亡"
+   },
+   "description": {
+    "en": "In 1730 Akyem, joined by subject peoples who had revolted against Akwamu's harsh rule, defeated Akwamu and drove its rulers east across the Volta River, where a smaller Akwamu state survived. Control of Accra's hinterland passed to Akyem, which was itself soon drawn into conflict with Asante.",
+    "ko": "1730년 아콰무의 가혹한 통치에 반기를 든 피지배 민족들과 손잡은 아키엠이 아콰무를 물리치고 그 통치자들을 볼타강 동쪽으로 몰아냈으며, 그곳에서 축소된 아콰무 국가가 존속했다. 아크라 배후지의 지배권은 아키엠으로 넘어갔으나, 아키엠 역시 곧 아샨티와의 분쟁에 휘말렸다.",
+    "zh": "1730年，阿基姆联合不堪阿夸姆暴政而起义的被统治民族击败阿夸姆，将其统治者赶到沃尔特河以东，一个规模较小的阿夸姆国家在那里延续下来。阿克拉腹地的控制权转归阿基姆，而阿基姆本身不久也卷入了与阿散蒂的冲突。",
+    "ja": "1730年、アクワムの苛酷な支配に反旗を翻した被支配民と結んだアキエムがアクワムを破り、その支配者をヴォルタ川の東へ追いやった。そこでは縮小したアクワム国家が存続した。アクラ後背地の支配権はアキエムに移ったが、アキエム自身もまもなくアシャンティとの抗争に巻き込まれた。"
+   }
+  },
+  {
+   "year": 1744,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Asante subjugates Gonja and Dagbon",
+    "ko": "아샨티의 곤자·다그본 복속",
+    "zh": "阿散蒂征服贡贾与达贡巴",
+    "ja": "アシャンティによるゴンジャ・ダグボン服属"
+   },
+   "description": {
+    "en": "In the 1740s Asante campaigns under Opoku Ware pushed north into the savanna, defeating Gonja and forcing Dagbon to pay tribute, including an annual levy of captives. The north was drawn into Asante's economy as a source of slaves, cattle and trade goods, a relationship that lasted until the late 19th century.",
+    "ko": "1740년대 오포쿠 와레가 이끈 아샨티의 원정은 북쪽 사바나로 밀고 올라가 곤자를 물리치고 다그본에 매년 포로를 바치는 것을 포함한 조공을 강요했다. 북부는 노예·소·교역품의 공급지로서 아샨티 경제에 편입되었고, 이 관계는 19세기 말까지 이어졌다.",
+    "zh": "1740年代，奥波库·瓦雷领导的阿散蒂征讨北上进入稀树草原，击败贡贾，并迫使达贡巴纳贡，其中包括每年进献俘虏。北部作为奴隶、牛和贸易商品的来源被纳入阿散蒂经济，这种关系一直持续到19世纪末。",
+    "ja": "1740年代、オポク・ワレのもとでアシャンティの遠征は北のサバンナへ進み、ゴンジャを破り、ダグボンに毎年の捕虜の献納を含む貢納を課した。北部は奴隷・牛・交易品の供給源としてアシャンティ経済に組み込まれ、この関係は19世紀末まで続いた。"
+   }
+  },
+  {
+   "year": 1807,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Asante invades the coast; Britain abolishes the slave trade",
+    "ko": "아샨티의 해안 침공과 영국의 노예무역 폐지",
+    "zh": "阿散蒂入侵沿海与英国废除奴隶贸易",
+    "ja": "アシャンティの沿岸侵攻と英国の奴隷貿易廃止"
+   },
+   "description": {
+    "en": "In 1807 the Asantehene Osei Bonsu invaded the Fante coast in pursuit of fugitive rebels and attacked the British fort at Anomabu, beginning a series of Asante–Fante wars that drew in the Europeans. The same year Britain banned the slave trade, upending the coastal economy, which slowly shifted toward palm oil and other 'legitimate' commerce.",
+    "ko": "1807년 아샨티 왕 오세이 본수는 도망친 반란자들을 쫓아 판테 해안을 침공하고 아노마부의 영국 요새를 공격했으며, 이로써 유럽인까지 끌어들인 일련의 아샨티-판테 전쟁이 시작되었다. 같은 해 영국은 노예무역을 금지해 해안 경제를 뒤흔들었고, 경제는 서서히 팜유 등 '합법' 교역으로 옮겨 갔다.",
+    "zh": "1807年，阿散蒂国王奥塞·邦苏为追捕逃亡的叛乱者入侵芳蒂海岸，并攻击阿诺马布的英国要塞，由此开启了一系列把欧洲人也卷入其中的阿散蒂-芳蒂战争。同年英国禁止奴隶贸易，沿海经济受到冲击，逐渐转向棕榈油等“合法”贸易。",
+    "ja": "1807年、アシャンティ王オセイ・ボンスは逃亡した反乱者を追ってファンテ海岸に侵攻し、アノマブの英国砦を攻撃した。これがヨーロッパ人も巻き込む一連のアシャンティ＝ファンテ戦争の始まりとなった。同年イギリスは奴隷貿易を禁止して沿岸経済を揺るがし、経済は徐々にパーム油など「合法的」交易へと移った。"
+   }
+  },
+  {
+   "year": 1821,
+   "qid": "Q503623",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "British Crown takes over the forts",
+    "ko": "영국 왕실의 요새 인수",
+    "zh": "英国王室接管要塞",
+    "ja": "英国王室による砦の接収"
+   },
+   "description": {
+    "en": "In 1821 the British government dissolved the African Company of Merchants and placed its Gold Coast forts under the Crown, administered from Sierra Leone under Governor Charles MacCarthy. His hostile policy toward Asante led directly to the first Anglo-Asante war.",
+    "ko": "1821년 영국 정부는 아프리카 상인 회사를 해산하고 그 황금 해안 요새들을 왕실 직할로 옮겨, 찰스 매카시 총독이 시에라리온에서 관할하게 했다. 아샨티에 대한 그의 적대적 정책은 곧바로 제1차 영국-아샨티 전쟁으로 이어졌다.",
+    "zh": "1821年，英国政府解散非洲商人公司，将其在黄金海岸的要塞收归王室，由驻塞拉利昂的总督查尔斯·麦卡锡管辖。他对阿散蒂的敌对政策直接导致了第一次英国-阿散蒂战争。",
+    "ja": "1821年、英国政府はアフリカ商人会社を解散し、その黄金海岸の砦を王室の直轄とし、シエラレオネのチャールズ・マッカーシー総督の管轄下に置いた。彼のアシャンティに対する敵対的な政策は、そのまま第一次英・アシャンティ戦争につながった。"
+   }
+  },
+  {
+   "year": 1824,
+   "qid": "Q2887988",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First Anglo-Ashanti War",
+    "ko": "제1차 영국-아샨티 전쟁",
+    "zh": "第一次英国-阿散蒂战争",
+    "ja": "第一次イギリス・アシャンティ戦争"
+   },
+   "description": {
+    "en": "Ashanti forces defeated a British-led army at Nsamankow, killing Governor Charles MacCarthy, in the first of five wars between the empire and Britain.",
+    "ko": "아샨티군이 은사만코 전투에서 영국군을 격파하고 총독 매카시를 전사시켰다. 이는 아샨티와 영국이 벌인 다섯 차례 전쟁의 시작이었다.",
+    "zh": "阿散蒂军队在恩萨曼科战役中击败英军，总督麦卡锡阵亡。这是阿散蒂与英国之间五次战争的开端。",
+    "ja": "アシャンティ軍はンサマンコウの戦いでイギリス軍を破り、総督マッカーシーを戦死させた。これは両者の間で5次に及ぶ戦争の始まりだった。"
+   }
+  },
+  {
+   "year": 1826,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Katamanso",
+    "ko": "카타만소 전투",
+    "zh": "卡塔曼索战役",
+    "ja": "カタマンソの戦い"
+   },
+   "description": {
+    "en": "On 7 August 1826 a coalition of British forces with Ga, Fante, Akyem, Akwapim and other allies defeated the Asante army at Katamanso near Dodowa on the Accra plains. The victory, in which British rockets caused panic, ended Asante's attempt to reassert control over the coast for decades.",
+    "ko": "1826년 8월 7일 영국군과 가·판테·아키엠·아쿠아핌 등 동맹 세력의 연합군이 아크라 평원 도도와 부근 카타만소에서 아샨티군을 격파했다. 영국군의 로켓이 공황을 일으킨 이 승리로 아샨티가 해안 지배권을 되찾으려던 시도는 수십 년간 좌절되었다.",
+    "zh": "1826年8月7日，英军与加人、芳蒂人、阿基姆人、阿夸平人等盟友组成的联军在阿克拉平原多多瓦附近的卡塔曼索击败阿散蒂军队。英军的火箭引发恐慌，这场胜利使阿散蒂重新控制海岸的企图受挫数十年。",
+    "ja": "1826年8月7日、英軍とガ、ファンテ、アキエム、アクワピムなどの同盟勢力の連合軍が、アクラ平野のドドワ近くのカタマンソでアシャンティ軍を破った。英軍のロケットが混乱を引き起こしたこの勝利で、アシャンティによる海岸支配回復の試みは数十年にわたり挫折した。"
+   }
+  },
+  {
+   "year": 1831,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Maclean's treaty with Asante",
+    "ko": "매클린의 아샨티 조약",
+    "zh": "麦克莱恩与阿散蒂的条约",
+    "ja": "マクリーンとアシャンティの条約"
+   },
+   "description": {
+    "en": "In 1831 George Maclean, president of the council of merchants governing the British forts, concluded a peace treaty with Asante that recognized the independence of the coastal states south of the Pra River. Maclean then extended informal British jurisdiction over the Fante states, settling disputes and suppressing practices such as human sacrifice.",
+    "ko": "1831년 영국 요새들을 관할하던 상인 평의회 의장 조지 매클린은 아샨티와 평화 조약을 맺어 프라강 이남 해안 국가들의 독립을 인정받았다. 이후 매클린은 판테 국가들에 대한 영국의 비공식적 관할권을 넓혀 분쟁을 조정하고 인신 공양 같은 관행을 억압했다.",
+    "zh": "1831年，管理英国要塞的商人委员会主席乔治·麦克莱恩与阿散蒂缔结和约，承认普拉河以南沿海各国的独立。此后麦克莱恩将英国的非正式管辖扩展到芳蒂诸国，调解纠纷并压制人祭等习俗。",
+    "ja": "1831年、英国の砦を管轄する商人評議会の議長ジョージ・マクリーンはアシャンティと和平条約を結び、プラ川以南の沿岸諸国の独立を認めさせた。その後マクリーンはファンテ諸国に対する英国の非公式な裁判権を広げ、紛争を調停し、人身供犠などの慣行を抑圧した。"
+   }
+  },
+  {
+   "year": 1844,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Bond of 1844",
+    "ko": "1844년 본드(서약)",
+    "zh": "1844年“保证书”",
+    "ja": "1844年のボンド"
+   },
+   "description": {
+    "en": "On 6 March 1844 Fante and other coastal chiefs signed the Bond of 1844 with the British, recognizing British jurisdiction over serious crimes and agreeing that local customs should conform to English law. Though limited in scope, it became a foundation of British colonial authority, and 6 March was later chosen as Ghana's independence day.",
+    "ko": "1844년 3월 6일 판테족 등 해안 지역 추장들은 영국과 '1844년 본드'에 서명해 중범죄에 대한 영국의 사법권을 인정하고 현지 관습을 영국 법에 맞추기로 했다. 범위는 제한적이었지만 영국 식민 권력의 토대가 되었으며, 훗날 3월 6일은 가나의 독립 기념일로 선택되었다.",
+    "zh": "1844年3月6日，芳蒂等沿海地区的酋长与英国签署“1844年保证书”，承认英国对重大犯罪的司法管辖权，并同意当地习俗应符合英国法律。其范围虽有限，却成为英国殖民统治的基础，后来3月6日被选定为加纳的独立日。",
+    "ja": "1844年3月6日、ファンテなど沿岸の首長たちはイギリスと「1844年のボンド」に署名し、重大犯罪に対する英国の裁判権を認め、地元の慣習を英国法に合わせることに同意した。範囲は限られていたが英国植民地支配の基礎となり、のちに3月6日はガーナの独立記念日に選ばれた。"
+   }
+  },
+  {
+   "year": 1850,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Denmark sells its forts to Britain",
+    "ko": "덴마크의 요새 매각",
+    "zh": "丹麦将要塞卖给英国",
+    "ja": "デンマークの砦売却"
+   },
+   "description": {
+    "en": "In 1850 Denmark sold its Gold Coast possessions, including Christiansborg Castle and forts along the eastern coast, to Britain. The sale consolidated British control around Accra and removed one of the European powers from the coast, leaving only the Dutch as rivals.",
+    "ko": "1850년 덴마크는 크리스티안스보르 성과 동부 해안의 요새들을 포함한 황금 해안 영토를 영국에 매각했다. 이로써 아크라 주변에 대한 영국의 지배가 굳어졌고, 해안에서 경쟁하는 유럽 세력은 네덜란드만 남았다.",
+    "zh": "1850年，丹麦将其在黄金海岸的领地，包括克里斯蒂安斯堡城堡和东部海岸的要塞，卖给英国。此举巩固了英国在阿克拉周围的控制，海岸上与英国竞争的欧洲势力只剩下荷兰。",
+    "ja": "1850年、デンマークはクリスチャンスボー城や東部海岸の砦を含む黄金海岸の領地をイギリスに売却した。これによりアクラ周辺の英国支配が固まり、海岸で競合するヨーロッパ勢力はオランダだけとなった。"
+   }
+  },
+  {
+   "year": 1868,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fante Confederation",
+    "ko": "판테 연합",
+    "zh": "芳蒂联邦",
+    "ja": "ファンテ連合"
+   },
+   "description": {
+    "en": "In 1868 Fante states, alarmed by an Anglo-Dutch exchange of forts and by the Asante threat, formed the Fante Confederation at Mankessim. Its 1871 constitution, drafted with educated Africans, provided for an elected executive, taxation, roads and schools; Britain arrested its leaders and the confederation dissolved, but it is remembered as an early African experiment in modern self-government.",
+    "ko": "1868년 영국과 네덜란드의 요새 교환과 아샨티의 위협에 경계심을 느낀 판테 국가들은 만케심에서 판테 연합을 결성했다. 교육받은 아프리카인들과 함께 작성한 1871년 헌법은 선출된 집행부, 과세, 도로와 학교를 규정했다. 영국이 지도자들을 체포하면서 연합은 해체되었지만, 근대적 자치를 향한 아프리카의 초기 실험으로 기억된다.",
+    "zh": "1868年，芳蒂各国因英荷交换要塞和阿散蒂的威胁而警觉，在曼克西姆组建芳蒂联邦。其1871年在受过教育的非洲人参与下起草的宪法规定了选举产生的行政机构、税收以及修路办学。英国逮捕了联邦领导人，联邦随之解散，但它被视为非洲人现代自治的早期尝试。",
+    "ja": "1868年、英蘭の砦交換とアシャンティの脅威に危機感を抱いたファンテ諸国は、マンケシムでファンテ連合を結成した。教育を受けたアフリカ人とともに起草された1871年の憲法は、選挙による執行部、課税、道路と学校を定めた。イギリスが指導者を逮捕して連合は解体したが、近代的自治へのアフリカの早い試みとして記憶されている。"
+   }
+  },
+  {
+   "year": 1872,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Dutch hand over their forts to Britain",
+    "ko": "네덜란드의 요새 양도",
+    "zh": "荷兰将要塞移交英国",
+    "ja": "オランダの砦の英国への譲渡"
+   },
+   "description": {
+    "en": "Under the Anglo-Dutch Gold Coast Treaty of 1871, the Netherlands transferred Elmina Castle and all its remaining forts to Britain in April 1872, ending some 275 years of Dutch presence. Asante, which regarded Elmina as its tributary, rejected the transfer, setting the stage for the war of 1873–1874.",
+    "ko": "1871년 영국-네덜란드 황금 해안 조약에 따라 네덜란드는 1872년 4월 엘미나 성과 남은 모든 요새를 영국에 넘겼고, 이로써 약 275년에 걸친 네덜란드의 존재가 끝났다. 엘미나를 자국의 조공 대상으로 여기던 아샨티는 이 양도를 거부했고, 이는 1873~1874년 전쟁의 발단이 되었다.",
+    "zh": "根据1871年的英荷黄金海岸条约，荷兰于1872年4月将埃尔米纳城堡及其余全部要塞移交英国，结束了约275年的存在。视埃尔米纳为其附庸的阿散蒂拒绝接受这一移交，为1873—1874年的战争埋下伏笔。",
+    "ja": "1871年の英蘭黄金海岸条約に基づき、オランダは1872年4月にエルミナ城と残るすべての砦をイギリスに引き渡し、約275年にわたるオランダの存在に幕を下ろした。エルミナを自らの朝貢先とみなしていたアシャンティはこの譲渡を拒否し、1873～1874年の戦争の発端となった。"
+   }
+  },
+  {
+   "year": 1874,
+   "qid": "Q4870293",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Amoaful and the sack of Kumasi",
+    "ko": "아모아풀 전투와 쿠마시 약탈",
+    "zh": "阿莫阿富尔战役与库马西被焚",
+    "ja": "アモアフルの戦いとクマシ焼き討ち"
+   },
+   "description": {
+    "en": "In January 1874 a British expedition under Sir Garnet Wolseley defeated the Asante army at Amoaful, then entered Kumasi and burned it. By the subsequent Treaty of Fomena, Asante agreed to pay a large indemnity in gold, renounce claims over the southern states and Elmina, and keep the trade routes open.",
+    "ko": "1874년 1월 가넷 울즐리 경이 이끄는 영국 원정군이 아모아풀에서 아샨티군을 격파한 뒤 쿠마시에 입성해 도시를 불태웠다. 뒤이은 포메나 조약에서 아샨티는 막대한 배상금을 황금으로 지불하고, 남부 국가들과 엘미나에 대한 권리 주장을 포기하며, 교역로를 개방하기로 했다.",
+    "zh": "1874年1月，加尼特·沃尔斯利爵士率领的英国远征军在阿莫阿富尔击败阿散蒂军队，随后进入库马西并将其焚毁。根据随后签订的《福梅纳条约》，阿散蒂同意以黄金支付巨额赔款，放弃对南部诸国和埃尔米纳的权利主张，并保持商路畅通。",
+    "ja": "1874年1月、ガーネット・ウォルズリー卿率いる英遠征軍はアモアフルでアシャンティ軍を破り、クマシに入って町を焼いた。続くフォメナ条約でアシャンティは多額の賠償金を金で支払い、南部諸国とエルミナに対する主張を放棄し、交易路を開放することに同意した。"
+   }
+  },
+  {
+   "year": 1874,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Gold Coast Becomes a British Colony",
+    "ko": "골드코스트의 영국 식민지화",
+    "zh": "黄金海岸沦为英国殖民地",
+    "ja": "ゴールドコーストのイギリス植民地化"
+   },
+   "description": {
+    "en": "After sacking Kumasi in the Third Anglo-Ashanti War, Britain proclaimed the coastal Gold Coast a crown colony, extending control inland over the following decades.",
+    "ko": "제3차 아샨티 전쟁에서 쿠마시를 함락한 영국은 해안 지역을 골드코스트 직할 식민지로 선포하고, 이후 수십 년에 걸쳐 내륙까지 지배를 확대했다.",
+    "zh": "第三次英阿战争中英军攻陷库马西后，宣布沿海地区为黄金海岸直辖殖民地，并在此后数十年将统治扩展至内陆。",
+    "ja": "第三次アシャンティ戦争でクマシを陥落させたイギリスは、沿岸部をゴールドコースト直轄植民地と宣言し、以後数十年で内陸へ支配を広げた。"
+   }
+  },
+  {
+   "year": 1877,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Accra becomes the capital",
+    "ko": "아크라의 수도 지정",
+    "zh": "阿克拉成为首府",
+    "ja": "アクラが首都に"
+   },
+   "description": {
+    "en": "In 1877 the British moved the seat of the Gold Coast government from Cape Coast to Accra, whose drier climate was considered healthier for Europeans. Accra grew into the colony's administrative and commercial centre and remains Ghana's capital.",
+    "ko": "1877년 영국은 골드코스트 정부 청사를 케이프코스트에서, 기후가 더 건조해 유럽인에게 건강에 좋다고 여겨진 아크라로 옮겼다. 아크라는 식민지의 행정·상업 중심지로 성장했고 지금도 가나의 수도다.",
+    "zh": "1877年，英国将黄金海岸政府驻地从海岸角迁至阿克拉，因为后者气候较干燥，被认为对欧洲人更有益健康。阿克拉由此发展成为殖民地的行政和商业中心，至今仍是加纳首都。",
+    "ja": "1877年、イギリスはゴールド・コースト政府の所在地をケープコーストから、乾燥した気候がヨーロッパ人の健康によいとされたアクラへ移した。アクラは植民地の行政・商業の中心へと成長し、現在もガーナの首都である。"
+   }
+  },
+  {
+   "year": 1879,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Tetteh Quarshie brings cocoa",
+    "ko": "테테 쿼시의 카카오 도입",
+    "zh": "特泰·夸希引进可可",
+    "ja": "テテ・クワシのカカオ導入"
+   },
+   "description": {
+    "en": "In 1879 the Ga blacksmith Tetteh Quarshie returned from Fernando Po (Bioko) with cocoa pods and established a farm at Mampong in Akuapem. Cocoa spread rapidly through the forest zone on the initiative of African farmers, and by the early 20th century the Gold Coast was the world's largest cocoa producer.",
+    "ko": "1879년 가(Ga)족 대장장이 테테 쿼시가 페르난도포(비오코)에서 카카오 열매를 가지고 돌아와 아쿠아펨의 맘퐁에 농장을 세웠다. 카카오는 아프리카 농민들의 주도로 삼림 지대에 빠르게 퍼졌고, 20세기 초 골드코스트는 세계 최대의 카카오 생산지가 되었다.",
+    "zh": "1879年，加人铁匠特泰·夸希从费尔南多波岛（比奥科岛）带回可可荚，在阿夸平的曼蓬开辟农场。在非洲农民的主动推动下，可可迅速遍及森林地带，到20世纪初黄金海岸已成为世界最大的可可产地。",
+    "ja": "1879年、ガの鍛冶職人テテ・クワシがフェルナンド・ポー（ビオコ島）からカカオの実を持ち帰り、アクアペムのマンポンに農園を開いた。カカオはアフリカ人農民の主導で森林地帯に急速に広がり、20世紀初めにはゴールド・コーストが世界最大のカカオ産地となった。"
+   }
+  },
+  {
+   "year": 1884,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "German Togoland proclaimed",
+    "ko": "독일령 토골란트 선포",
+    "zh": "宣布建立德属多哥兰",
+    "ja": "ドイツ領トーゴラントの宣言"
+   },
+   "description": {
+    "en": "In July 1884 the German envoy Gustav Nachtigal signed a treaty with chiefs at Togoville and declared a protectorate over Togoland. Its western part, including Ewe lands east of the Volta and areas to the north, would become British Togoland after the First World War and is now part of Ghana.",
+    "ko": "1884년 7월 독일 특사 구스타프 나흐티갈은 토고빌의 추장들과 조약을 맺고 토골란트에 대한 보호령을 선포했다. 볼타강 동쪽의 에웨족 땅과 그 북쪽 지역을 포함한 서부는 제1차 세계대전 후 영국령 토골란트가 되었다가 지금은 가나의 일부가 되었다.",
+    "zh": "1884年7月，德国特使古斯塔夫·纳赫蒂加尔与多哥维尔的酋长们签约，宣布对多哥兰实行保护。其西部，包括沃尔特河以东的埃维人土地及以北地区，在第一次世界大战后成为英属多哥兰，如今是加纳的一部分。",
+    "ja": "1884年7月、ドイツの特使グスタフ・ナハティガルはトーゴヴィルの首長たちと条約を結び、トーゴラントに保護領を宣言した。ヴォルタ川東岸のエウェの地やその北の地域を含む西部は、第一次世界大戦後に英領トーゴラントとなり、現在はガーナの一部である。"
+   }
+  },
+  {
+   "year": 1896,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "British occupy Kumasi; Prempeh I exiled",
+    "ko": "영국의 쿠마시 점령과 프렘페 1세 유배",
+    "zh": "英国占领库马西，普伦佩一世被流放",
+    "ja": "英国のクマシ占領とプレンペ1世の追放"
+   },
+   "description": {
+    "en": "In January 1896 a British expedition entered Kumasi without resistance, as Asantehene Prempeh I sought to avoid war. He was arrested and exiled, first to Sierra Leone and later to the Seychelles, and Britain declared a protectorate over Asante; Prempeh returned only in 1924.",
+    "ko": "1896년 1월 아샨티 왕 프렘페 1세가 전쟁을 피하려 하자 영국 원정군은 저항 없이 쿠마시에 입성했다. 그는 체포되어 처음에는 시에라리온, 후에는 세이셸로 유배되었고, 영국은 아샨티에 대한 보호령을 선포했다. 프렘페는 1924년에야 귀환했다.",
+    "zh": "1896年1月，由于阿散蒂国王普伦佩一世力图避免战争，英国远征军未遇抵抗便进入库马西。普伦佩一世被捕并遭流放，先至塞拉利昂，后至塞舌尔，英国宣布对阿散蒂实行保护；普伦佩直到1924年才得以返回。",
+    "ja": "1896年1月、アシャンティ王プレンペ1世が戦争を避けようとしたため、英遠征軍は抵抗を受けずにクマシに入った。彼は逮捕されてまずシエラレオネ、のちにセーシェルへ追放され、イギリスはアシャンティに保護領を宣言した。プレンペが帰還できたのは1924年であった。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": "Q98408957",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Kanjaga and the end of Zabarma raiding",
+    "ko": "칸자가 전투와 자바르마 약탈의 종식",
+    "zh": "坎贾加战役与扎巴尔马劫掠的终结",
+    "ja": "カンジャガの戦いとザバルマ略奪の終焉"
+   },
+   "description": {
+    "en": "In the late 19th century Zabarma warlords, notably Babatu, raided the peoples of the north-west for slaves. In 1897 Babatu fought at Kanjaga against Amariya, a former lieutenant who had broken away from him, and his power collapsed soon afterwards as British, French and German forces partitioned the region and ended the raids.",
+    "ko": "19세기 말 바바투를 비롯한 자바르마 군벌들은 북서부 민족들을 습격해 노예를 잡아갔다. 1897년 바바투는 칸자가에서 자신에게서 이탈한 옛 부하 아마리야와 싸웠고, 곧이어 영국·프랑스·독일 군대가 이 지역을 분할해 약탈을 끝내면서 그의 세력은 무너졌다.",
+    "zh": "19世纪末，以巴巴图为代表的扎巴尔马军阀袭击西北部各民族掳掠奴隶。1897年，巴巴图在坎贾加与脱离其麾下的旧部阿马里亚交战；不久英、法、德三国军队瓜分该地区并终结了劫掠，巴巴图的势力随之瓦解。",
+    "ja": "19世紀末、ババトゥをはじめとするザバルマの軍閥は北西部の人々を襲って奴隷を狩った。1897年、ババトゥはカンジャガで、彼のもとから離反したかつての部下アマリヤと戦った。まもなく英・仏・独の軍がこの地域を分割して略奪を終わらせ、彼の勢力は崩壊した。"
+   }
+  },
+  {
+   "year": 1900,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "War of the Golden Stool",
+    "ko": "황금 의자 전쟁",
+    "zh": "金凳子战争",
+    "ja": "黄金の床几戦争"
+   },
+   "description": {
+    "en": "Queen Mother Yaa Asantewaa led the Ashanti in a final uprising against British demands for the Golden Stool. Ashanti was annexed, but she became a national heroine.",
+    "ko": "야 아산테와 대비가 황금 의자를 요구하는 영국에 맞서 아샨티의 마지막 봉기를 이끌었다. 아샨티는 병합되었으나 그녀는 민족 영웅으로 남았다.",
+    "zh": "王太后雅·阿散蒂娃率领阿散蒂人民，反抗英国索取金凳子的要求，发动最后一次起义。阿散蒂虽被吞并，她却成为民族英雄。",
+    "ja": "母后ヤア・アサンテワァは、黄金の床几を要求するイギリスに対しアシャンティ最後の蜂起を率いた。アシャンティは併合されたが、彼女は民族の英雄となった。"
+   }
+  },
+  {
+   "year": 1902,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Asante annexed; Northern Territories protectorate",
+    "ko": "아샨티 병합과 북부 보호령",
+    "zh": "吞并阿散蒂与设立北部领地保护地",
+    "ja": "アシャンティ併合と北部保護領"
+   },
+   "description": {
+    "en": "After the War of the Golden Stool, Britain formally annexed Asante as a crown colony and declared a protectorate over the Northern Territories, both taking effect on 1 January 1902. Together with the coastal colony they formed the territory of modern Ghana, apart from Togoland.",
+    "ko": "황금 의자 전쟁 후 영국은 아샨티를 직할 식민지로 공식 병합하고 북부 지역에 보호령을 선포했으며, 둘 다 1902년 1월 1일 발효되었다. 이들은 해안 식민지와 함께 토골란트를 제외한 오늘날 가나의 영토를 이루었다.",
+    "zh": "金凳子战争之后，英国正式将阿散蒂吞并为直辖殖民地，并宣布对北部领地实行保护，两者均于1902年1月1日生效。它们与沿海殖民地一起构成了除多哥兰以外的今日加纳领土。",
+    "ja": "黄金の床几戦争の後、イギリスはアシャンティを直轄植民地として正式に併合し、北部地域に保護領を宣言した。いずれも1902年1月1日に発効し、沿岸植民地とともにトーゴラントを除く現在のガーナの領域を形づくった。"
+   }
+  },
+  {
+   "year": 1914,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Conquest of German Togoland",
+    "ko": "독일령 토골란트 정복",
+    "zh": "征服德属多哥兰",
+    "ja": "ドイツ領トーゴラントの征服"
+   },
+   "description": {
+    "en": "In August 1914, at the start of the First World War, British forces from the Gold Coast and French forces from Dahomey invaded German Togoland, fighting at Chra and taking the radio station at Kamina; the Germans surrendered on 26 August. The colony was then divided, and Britain's share was administered with the Gold Coast.",
+    "ko": "1914년 8월 제1차 세계대전이 시작되자 골드코스트의 영국군과 다호메이의 프랑스군이 독일령 토골란트를 침공해 크라에서 싸우고 카미나의 무선국을 점령했으며, 독일군은 8월 26일 항복했다. 이후 식민지는 분할되었고, 영국 몫은 골드코스트와 함께 관리되었다.",
+    "zh": "1914年8月第一次世界大战爆发之初，来自黄金海岸的英军和来自达荷美的法军入侵德属多哥兰，在克拉交战并攻占卡米纳无线电台，德军于8月26日投降。该殖民地随后被分割，英国所得部分与黄金海岸一并管理。",
+    "ja": "1914年8月、第一次世界大戦の勃発とともにゴールド・コーストの英軍とダホメのフランス軍がドイツ領トーゴラントに侵攻し、クラで戦いカミナの無線局を占領した。ドイツ軍は8月26日に降伏し、植民地は分割され、イギリスの取り分はゴールド・コーストと一体で管理された。"
+   }
+  },
+  {
+   "year": 1927,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Guggisberg's development era: Takoradi and Achimota",
+    "ko": "구기스버그의 개발 시대: 타코라디와 아치모타",
+    "zh": "古吉斯堡的发展时代：塔科拉迪与阿奇莫塔",
+    "ja": "グギスバーグの開発時代：タコラディとアチモタ"
+   },
+   "description": {
+    "en": "Governor Gordon Guggisberg (1919–1927) launched a development programme funded by cocoa revenues, including railways, the deep-water harbour at Takoradi, opened in 1928, and Korle Bu Hospital. Achimota College, founded in 1927 with educator James Kwegyir Aggrey, became a leading school that educated many future leaders.",
+    "ko": "고든 구기스버그 총독(1919~1927 재임)은 카카오 수입을 재원으로 철도, 1928년 개항한 타코라디 심수항, 콜레부 병원 등을 포함한 개발 계획을 추진했다. 1927년 교육자 제임스 퀘기르 애그리와 함께 세운 아치모타 칼리지는 많은 미래 지도자를 길러낸 명문 학교가 되었다.",
+    "zh": "总督戈登·古吉斯堡（1919—1927年在任）以可可收入为资金推行发展计划，包括修建铁路、1928年启用的塔科拉迪深水港以及科勒布医院。1927年与教育家詹姆斯·奎吉尔·阿格雷共同创办的阿奇莫塔学院成为培养众多未来领袖的名校。",
+    "ja": "ゴードン・グギスバーグ総督（在任1919～1927年）はカカオ収入を財源に、鉄道、1928年に開港したタコラディの深水港、コレブ病院などを含む開発計画を推進した。1927年に教育者ジェームズ・クェギル・アグリーとともに創設されたアチモタ・カレッジは、多くの将来の指導者を育てた名門校となった。"
+   }
+  },
+  {
+   "year": 1937,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Cocoa hold-up",
+    "ko": "카카오 출하 거부 운동",
+    "zh": "可可停售运动",
+    "ja": "カカオ出荷拒否運動"
+   },
+   "description": {
+    "en": "In 1937–1938 Gold Coast cocoa farmers, supported by chiefs and traders, refused to sell their crop to European firms that had formed a buying pool to fix low prices. The boycott forced a British commission of inquiry and led to state marketing arrangements, showing the political power of African farmers.",
+    "ko": "1937~1938년 골드코스트의 카카오 농민들은 추장과 상인들의 지지를 받아, 저가 매입을 위해 구매 카르텔을 결성한 유럽 회사들에 작물 판매를 거부했다. 이 보이콧으로 영국 조사위원회가 꾸려졌고 국가 판매 제도가 도입되었으며, 아프리카 농민의 정치적 힘이 드러났다.",
+    "zh": "1937—1938年，黄金海岸的可可农在酋长和商人的支持下，拒绝将作物卖给结成收购联盟以压低价格的欧洲公司。这场抵制迫使英国成立调查委员会，并促成了国家统一销售安排，显示了非洲农民的政治力量。",
+    "ja": "1937～1938年、ゴールド・コーストのカカオ農民は首長や商人の支持を得て、低価格で買い叩くために買付カルテルを結んだヨーロッパ企業への作物の販売を拒否した。このボイコットは英国の調査委員会の設置と国家販売制度の導入につながり、アフリカ人農民の政治力を示した。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the UGCC",
+    "ko": "통일골드코스트회의(UGCC) 창설",
+    "zh": "黄金海岸统一大会成立",
+    "ja": "統一ゴールド・コースト会議の結成"
+   },
+   "description": {
+    "en": "In August 1947 lawyers, merchants and intellectuals led by J. B. Danquah and George Alfred Grant founded the United Gold Coast Convention to seek self-government 'in the shortest possible time'. They invited Kwame Nkrumah, then in London, to return as its general secretary.",
+    "ko": "1947년 8월 J. B. 단콰와 조지 앨프리드 그랜트가 이끄는 변호사·상인·지식인들이 '가능한 한 빠른 시일 내' 자치를 목표로 통일골드코스트회의(UGCC)를 창설했다. 이들은 당시 런던에 있던 콰메 은크루마를 사무총장으로 불러들였다.",
+    "zh": "1947年8月，以J·B·丹夸和乔治·阿尔弗雷德·格兰特为首的律师、商人和知识分子成立黄金海岸统一大会，谋求“在尽可能短的时间内”实现自治。他们邀请当时在伦敦的克瓦米·恩克鲁玛回国担任总书记。",
+    "ja": "1947年8月、J・B・ダンクワとジョージ・アルフレッド・グラントが率いる弁護士・商人・知識人が、「可能な限り短期間での」自治を目指して統一ゴールド・コースト会議（UGCC）を結成した。彼らは当時ロンドンにいたクワメ・エンクルマを書記長として呼び戻した。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Accra Riots Spark the Independence Movement",
+    "ko": "아크라 소요와 독립운동의 점화",
+    "zh": "阿克拉骚乱点燃独立运动",
+    "ja": "アクラ暴動と独立運動の高まり"
+   },
+   "description": {
+    "en": "Police fired on ex-servicemen marching in Accra, triggering riots across the colony. The unrest galvanized nationalist politics and Kwame Nkrumah's rise.",
+    "ko": "아크라에서 행진하던 퇴역 군인들에게 경찰이 발포하면서 식민지 전역에 소요가 번졌다. 이 사건은 민족주의 운동과 콰메 은크루마의 부상을 촉발했다.",
+    "zh": "警察向在阿克拉游行的退伍军人开枪，引发殖民地各地骚乱。事件激化了民族主义运动，夸梅·恩克鲁玛由此崛起。",
+    "ja": "アクラで行進する退役軍人に警官が発砲し、植民地全土で暴動が広がった。この事件は民族主義運動を勢いづかせ、クワメ・エンクルマの台頭を促した。"
+   }
+  },
+  {
+   "year": 1951,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "CPP wins the first general election",
+    "ko": "CPP의 첫 총선 승리",
+    "zh": "人民大会党赢得首次大选",
+    "ja": "CPPが初の総選挙に勝利"
+   },
+   "description": {
+    "en": "Having broken with the UGCC to found the Convention People's Party in 1949 under the slogan 'Self-Government Now', Nkrumah was jailed after a campaign of 'positive action'. In February 1951 the CPP won the colony's first general election by a wide margin; Nkrumah was released to become Leader of Government Business, and in 1952 prime minister.",
+    "ko": "1949년 UGCC와 결별하고 '즉각 자치'를 구호로 회의인민당(CPP)을 창당한 은크루마는 '적극적 행동' 운동 후 투옥되었다. 1951년 2월 CPP는 식민지 최초의 총선에서 압승했고, 석방된 은크루마는 정부 사무 책임자가 되었다가 1952년 총리가 되었다.",
+    "zh": "恩克鲁玛于1949年与黄金海岸统一大会决裂，以“立即自治”为口号创建人民大会党，后因发起“积极行动”运动而入狱。1951年2月，人民大会党在殖民地首次大选中大胜，恩克鲁玛获释出任政府事务领袖，1952年成为总理。",
+    "ja": "1949年にUGCCと決別し「即時自治」を掲げて会議人民党（CPP）を結成したエンクルマは、「積極行動」運動の後に投獄された。1951年2月、CPPは植民地初の総選挙で大勝し、釈放されたエンクルマは政府事務首班、1952年には首相となった。"
+   }
+  },
+  {
+   "year": 1956,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "British Togoland plebiscite",
+    "ko": "영국령 토골란트 주민투표",
+    "zh": "英属多哥兰公民投票",
+    "ja": "英領トーゴラント住民投票"
+   },
+   "description": {
+    "en": "In a UN-supervised plebiscite in May 1956, about 58% of voters in British Togoland chose integration with the Gold Coast, though the southern districts, where Ewe nationalism was strong, voted for separation. The territory joined Ghana at independence; questions of Ewe unification and later separatist claims in the Volta region have periodically resurfaced.",
+    "ko": "1956년 5월 유엔 감시 아래 치러진 주민투표에서 영국령 토골란트 유권자의 약 58%가 골드코스트와의 통합을 택했으나, 에웨 민족주의가 강한 남부 지역은 분리에 투표했다. 이 영토는 독립과 함께 가나에 편입되었으며, 에웨족 통일 문제와 볼타 지역의 분리주의 주장은 이후에도 간헐적으로 다시 불거졌다.",
+    "zh": "在1956年5月联合国监督的公民投票中，英属多哥兰约58%的选民选择与黄金海岸合并，但埃维民族主义强烈的南部地区投票赞成分离。该领土在独立时并入加纳；埃维人统一问题以及后来沃尔特地区的分离主义主张不时重新浮现。",
+    "ja": "1956年5月の国連監視下の住民投票で、英領トーゴラントの有権者の約58％がゴールド・コーストとの統合を選んだが、エウェ民族主義の強い南部の地区は分離に投票した。この地域は独立時にガーナに加わり、エウェ統一の問題やのちのヴォルタ地方の分離主義的主張はその後も折に触れて再燃した。"
+   }
+  },
+  {
+   "year": 1957,
+   "qid": "Q5555325",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Ghana Wins Independence",
+    "ko": "가나의 독립",
+    "zh": "加纳独立",
+    "ja": "ガーナの独立"
+   },
+   "description": {
+    "en": "On 6 March 1957 the Gold Coast became Ghana, the first sub-Saharan African colony to gain independence, under Kwame Nkrumah — a beacon for African liberation.",
+    "ko": "1957년 3월 6일 골드코스트는 콰메 은크루마 총리 아래 가나로 독립했다. 사하라 이남 아프리카 식민지 최초의 독립으로, 아프리카 해방 운동의 등불이 되었다.",
+    "zh": "1957年3月6日，黄金海岸在总理夸梅·恩克鲁玛领导下独立为加纳，成为撒哈拉以南非洲首个独立的殖民地，为非洲解放运动树立了榜样。",
+    "ja": "1957年3月6日、ゴールドコーストはクワメ・エンクルマ首相の下でガーナとして独立した。サハラ以南アフリカの植民地初の独立であり、アフリカ解放運動の灯火となった。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "All-African Peoples' Conference and the Preventive Detention Act",
+    "ko": "전아프리카인민회의와 예방구금법",
+    "zh": "全非人民大会与《预防性拘留法》",
+    "ja": "全アフリカ人民会議と予防拘禁法"
+   },
+   "description": {
+    "en": "In 1958 Nkrumah made Accra a hub of pan-Africanism, hosting the Conference of Independent African States in April and the All-African Peoples' Conference in December, attended by future leaders such as Patrice Lumumba. At home, the Preventive Detention Act of the same year allowed imprisonment without trial and was used against opposition politicians.",
+    "ko": "1958년 은크루마는 아크라를 범아프리카주의의 중심지로 만들어 4월에는 아프리카 독립국 회의를, 12월에는 파트리스 루뭄바 등 미래의 지도자들이 참석한 전아프리카인민회의를 개최했다. 국내에서는 같은 해 제정된 예방구금법이 재판 없는 투옥을 허용해 야당 정치인 탄압에 쓰였다.",
+    "zh": "1958年，恩克鲁玛把阿克拉打造成泛非主义的中心，4月主办独立非洲国家会议，12月主办全非人民大会，帕特里斯·卢蒙巴等未来领导人与会。在国内，同年颁布的《预防性拘留法》允许未经审判即行监禁，并被用来对付反对派政治人物。",
+    "ja": "1958年、エンクルマはアクラを汎アフリカ主義の拠点とし、4月に独立アフリカ諸国会議、12月にはパトリス・ルムンバら将来の指導者が参加した全アフリカ人民会議を開いた。国内では同年の予防拘禁法が裁判なしの投獄を可能にし、野党政治家に対して用いられた。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": "Q2136654",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ghana Becomes a Republic",
+    "ko": "공화국 수립",
+    "zh": "加纳成立共和国",
+    "ja": "共和制への移行"
+   },
+   "description": {
+    "en": "Ghana adopted a republican constitution with Nkrumah as first president. He championed pan-Africanism but increasingly concentrated power in a one-party state.",
+    "ko": "가나는 공화국 헌법을 채택하고 은크루마가 초대 대통령이 되었다. 그는 범아프리카주의를 이끌었으나 점차 일당 국가로 권력을 집중시켰다.",
+    "zh": "加纳通过共和宪法，恩克鲁玛出任首任总统。他倡导泛非主义，但逐渐将权力集中于一党体制。",
+    "ja": "ガーナは共和国憲法を採択し、エンクルマが初代大統領に就任した。彼はパン・アフリカ主義を掲げたが、次第に一党制の下へ権力を集中させた。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": "Q151684",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "One-party state referendum",
+    "ko": "일당 국가 국민투표",
+    "zh": "一党制全民公投",
+    "ja": "一党制国民投票"
+   },
+   "description": {
+    "en": "A referendum in January 1964, officially approved by more than 99% of voters amid widespread reports of intimidation and irregularities, made the CPP the sole legal party and Nkrumah president for life. The move capped a period of growing authoritarianism and economic difficulty.",
+    "ko": "1964년 1월 국민투표는 광범위한 협박과 부정 의혹 속에 공식적으로 99% 이상의 찬성을 얻어 CPP를 유일한 합법 정당으로, 은크루마를 종신 대통령으로 만들었다. 이는 권위주의와 경제난이 심화되던 시기의 정점이었다.",
+    "zh": "1964年1月的全民公投在普遍存在恐吓和违规的报道下，官方公布获99%以上选民赞成，使人民大会党成为唯一合法政党，恩克鲁玛成为终身总统。此举标志着威权日益加深、经济日趋困难的时期达到顶点。",
+    "ja": "1964年1月の国民投票は、脅迫や不正が広く報告されるなか公式には99％を超える賛成で可決され、CPPを唯一の合法政党、エンクルマを終身大統領とした。権威主義の強化と経済難が深まった時期の頂点であった。"
+   }
+  },
+  {
+   "year": 1965,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Akosombo Dam and Lake Volta",
+    "ko": "아코솜보 댐과 볼타호",
+    "zh": "阿科松博大坝与沃尔特湖",
+    "ja": "アコソンボ・ダムとヴォルタ湖"
+   },
+   "description": {
+    "en": "The Akosombo Dam on the Volta River, the centrepiece of the Volta River Project, was completed in 1965 and inaugurated by Nkrumah in January 1966. It created Lake Volta, one of the world's largest artificial lakes by area, supplying power to an aluminium smelter and the national grid but displacing about 80,000 people.",
+    "ko": "볼타강 프로젝트의 핵심인 아코솜보 댐은 1965년 완공되어 1966년 1월 은크루마가 준공식을 열었다. 댐은 면적 기준 세계 최대급 인공호인 볼타호를 만들어 알루미늄 제련소와 전국 전력망에 전기를 공급했지만, 약 8만 명이 이주해야 했다.",
+    "zh": "作为沃尔特河工程核心的阿科松博大坝于1965年建成，1966年1月由恩克鲁玛主持落成。大坝形成了按面积计世界最大的人工湖之一沃尔特湖，为铝冶炼厂和全国电网供电，但约8万人因此被迫迁移。",
+    "ja": "ヴォルタ川計画の中心であるアコソンボ・ダムは1965年に完成し、1966年1月にエンクルマが竣工式を行った。ダムは面積で世界最大級の人造湖ヴォルタ湖を生み、アルミ精錬所と全国の送電網に電力を供給したが、約8万人が移住を余儀なくされた。"
+   }
+  },
+  {
+   "year": 1966,
+   "qid": "Q52705852",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Coup Overthrows Nkrumah",
+    "ko": "은크루마 축출 쿠데타",
+    "zh": "政变推翻恩克鲁玛",
+    "ja": "クーデターによるエンクルマ失脚"
+   },
+   "description": {
+    "en": "The military and police deposed President Nkrumah while he was abroad, beginning a long era of alternating coups and short-lived governments.",
+    "ko": "은크루마 대통령이 해외 순방 중일 때 군과 경찰이 쿠데타로 그를 축출했다. 이후 쿠데타와 단명 정부가 반복되는 시대가 이어졌다.",
+    "zh": "恩克鲁玛总统出访期间，军警发动政变将其罢黜。此后加纳进入政变频仍、政府更迭不断的时期。",
+    "ja": "エンクルマ大統領の外遊中に軍と警察がクーデターを起こし、彼を追放した。以後、クーデターと短命政権が繰り返される時代が続いた。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": "Q7097104",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Operation Guitar Boy",
+    "ko": "기타 보이 작전",
+    "zh": "“吉他少年”行动",
+    "ja": "ギター・ボーイ作戦"
+   },
+   "description": {
+    "en": "On 17 April 1967 a group of junior army officers attempted to overthrow the ruling National Liberation Council. The coup failed within hours, but Lieutenant General Emmanuel Kotoka, a leader of the 1966 coup, was killed; Accra's international airport was later named after him.",
+    "ko": "1967년 4월 17일 일단의 하급 장교들이 집권 국민해방평의회를 전복하려 했다. 쿠데타는 몇 시간 만에 실패했지만, 1966년 쿠데타의 주역인 에마뉘엘 코토카 중장이 살해되었고, 아크라 국제공항은 훗날 그의 이름을 따서 명명되었다.",
+    "zh": "1967年4月17日，一批下级军官企图推翻执政的民族解放委员会。政变在数小时内失败，但1966年政变领导人之一埃马纽埃尔·科托卡中将遇害，阿克拉国际机场后来以他的名字命名。",
+    "ja": "1967年4月17日、下級将校の一団が政権を握る国民解放評議会の打倒を試みた。クーデターは数時間で失敗したが、1966年のクーデターの主導者の一人エマニュエル・コトカ中将が殺害され、アクラの国際空港はのちに彼の名を冠した。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Second Republic and the Aliens Compliance Order",
+    "ko": "제2공화국과 외국인 규제령",
+    "zh": "第二共和国与《外侨遵守令》",
+    "ja": "第二共和政と外国人遵守令"
+   },
+   "description": {
+    "en": "Elections in 1969 brought Kofi Busia's Progress Party to power, inaugurating the Second Republic. Late that year his government issued the Aliens Compliance Order, leading to the expulsion of large numbers of West African migrants, many of them Nigerian, without residence papers.",
+    "ko": "1969년 선거로 코피 부시아의 진보당이 집권해 제2공화국이 시작되었다. 그해 말 정부는 외국인 규제령을 발표해, 체류 서류가 없는 서아프리카 이주민 다수, 특히 나이지리아인을 대거 추방했다.",
+    "zh": "1969年选举使科菲·布西亚的进步党上台，第二共和国由此开始。同年年底，其政府颁布《外侨遵守令》，导致大批没有居留证件的西非移民（其中许多是尼日利亚人）被驱逐。",
+    "ja": "1969年の選挙でコフィ・ブシアの進歩党が政権に就き、第二共和政が始まった。同年末、政府は外国人遵守令を発し、在留書類をもたない西アフリカ出身の移民、とくにナイジェリア人が大量に追放された。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Acheampong's coup",
+    "ko": "아참퐁의 쿠데타",
+    "zh": "阿昌庞政变",
+    "ja": "アチャンポンのクーデター"
+   },
+   "description": {
+    "en": "On 13 January 1972 Colonel Ignatius Kutu Acheampong overthrew Busia's government after a sharp devaluation of the currency. His National Redemption Council, later the Supreme Military Council, launched 'Operation Feed Yourself' but presided over growing corruption, inflation and shortages until he was ousted in 1978.",
+    "ko": "1972년 1월 13일 이그나티우스 쿠투 아참퐁 대령이 급격한 통화 평가절하 이후 부시아 정부를 전복했다. 그의 국민구원평의회(후에 최고군사평의회)는 '자급자족 작전'을 펼쳤으나, 1978년 축출될 때까지 부패와 인플레이션, 물자 부족이 심화되었다.",
+    "zh": "1972年1月13日，在货币大幅贬值之后，伊格内修斯·库图·阿昌庞上校推翻布西亚政府。他的国家救赎委员会（后改为最高军事委员会）推行“自给自足行动”，但腐败、通货膨胀和物资短缺日益严重，直到他于1978年被赶下台。",
+    "ja": "1972年1月13日、通貨の大幅切り下げの後、イグナティウス・クトゥ・アチャンポン大佐がブシア政権を倒した。その国民救済評議会（のち最高軍事評議会）は「自給作戦」を展開したが、1978年に追放されるまで汚職、インフレ、物不足が深刻化した。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "June 4 uprising and the Third Republic",
+    "ko": "6월 4일 봉기와 제3공화국",
+    "zh": "“六四”起事与第三共和国",
+    "ja": "6月4日蜂起と第三共和政"
+   },
+   "description": {
+    "en": "On 4 June 1979 junior officers freed Flight Lieutenant Jerry Rawlings, on trial for a failed mutiny, and installed him at the head of an Armed Forces Revolutionary Council. In a 'house-cleaning' campaign it executed eight senior officers, including three former heads of state, before handing power in September to the elected Third Republic government of Hilla Limann.",
+    "ko": "1979년 6월 4일 하급 장교들이 반란 실패로 재판받던 제리 롤링스 공군 대위를 구출해 군사혁명평의회 의장으로 세웠다. 평의회는 '대청소' 운동으로 전직 국가원수 3명을 포함한 고위 장교 8명을 처형한 뒤, 9월 선거로 구성된 힐라 리만의 제3공화국 정부에 권력을 넘겼다.",
+    "zh": "1979年6月4日，下级军官救出因兵变未遂受审的空军上尉杰里·罗林斯，拥立他为武装部队革命委员会主席。该委员会以“大扫除”为名处决了包括三位前国家元首在内的八名高级军官，随后于9月将权力移交给经选举产生的希拉·利曼第三共和国政府。",
+    "ja": "1979年6月4日、下級将校たちは反乱未遂で裁判中の空軍大尉ジェリー・ローリングスを救出し、軍事革命評議会の議長に据えた。評議会は「大掃除」と称して元国家元首3人を含む高級将校8人を処刑したのち、9月に選挙で選ばれたヒラ・リマンの第三共和政政府に権力を移した。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Jerry Rawlings Takes Power",
+    "ko": "제리 롤링스의 집권",
+    "zh": "杰里·罗林斯掌权",
+    "ja": "ジェリー・ローリングスの権力掌握"
+   },
+   "description": {
+    "en": "Flight Lieutenant Jerry Rawlings seized power in his second coup, ruling through the PNDC. His government later steered Ghana toward economic recovery and constitutional rule.",
+    "ko": "제리 롤링스 공군 대위가 두 번째 쿠데타로 집권하여 임시국방위원회(PNDC)를 통해 통치했다. 그의 정부는 이후 경제 회복과 헌정 복귀를 이끌었다.",
+    "zh": "空军上尉杰里·罗林斯第二次发动政变夺权，通过临时国防委员会执政。其政府后来推动加纳走向经济复苏与宪政。",
+    "ja": "空軍大尉ジェリー・ローリングスが二度目のクーデターで政権を握り、暫定国家防衛評議会（PNDC）を通じて統治した。その政権はのちに経済再建と憲政復帰を導いた。"
+   }
+  },
+  {
+   "year": 1983,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Expulsion from Nigeria and the Economic Recovery Programme",
+    "ko": "나이지리아의 추방과 경제회복계획",
+    "zh": "被尼日利亚驱逐与经济复苏计划",
+    "ja": "ナイジェリアからの追放と経済復興計画"
+   },
+   "description": {
+    "en": "In early 1983, as drought, bushfires and famine struck Ghana, Nigeria expelled undocumented migrants, forcing about a million Ghanaians to return home. That April the PNDC government launched the Economic Recovery Programme with the IMF and World Bank, devaluing the cedi and liberalizing the economy, which began a long period of growth.",
+    "ko": "1983년 초 가뭄과 산불, 기근이 가나를 덮친 가운데 나이지리아가 서류 미비 이주민을 추방해 약 100만 명의 가나인이 귀국해야 했다. 그해 4월 PNDC 정부는 IMF·세계은행과 함께 경제회복계획을 시작해 세디화를 평가절하하고 경제를 자유화했으며, 이는 오랜 성장기의 출발점이 되었다.",
+    "zh": "1983年初，干旱、山火和饥荒袭击加纳，尼日利亚驱逐无证移民，约一百万加纳人被迫回国。同年4月，临时国防委员会政府与国际货币基金组织和世界银行合作推出经济复苏计划，使塞地贬值并推动经济自由化，开启了长期增长。",
+    "ja": "1983年初め、干ばつ、山火事、飢饉がガーナを襲うなか、ナイジェリアが不法滞在の移民を追放し、約100万人のガーナ人が帰国を強いられた。同年4月、PNDC政府はIMF・世界銀行とともに経済復興計画を開始し、セディを切り下げ経済を自由化して、長い成長期の起点となった。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Fourth Republic and Return to Democracy",
+    "ko": "제4공화국과 민주주의 회복",
+    "zh": "第四共和国与民主回归",
+    "ja": "第四共和制と民主主義の回復"
+   },
+   "description": {
+    "en": "A new constitution approved by referendum restored multiparty democracy. The Fourth Republic has since made Ghana one of Africa's most stable democracies.",
+    "ko": "국민투표로 새 헌법이 승인되어 다당제 민주주의가 회복되었다. 제4공화국 아래 가나는 아프리카에서 가장 안정된 민주국가의 하나가 되었다.",
+    "zh": "新宪法经公投通过，恢复多党民主制。在第四共和国体制下，加纳成为非洲最稳定的民主国家之一。",
+    "ja": "国民投票で新憲法が承認され、複数政党制民主主義が復活した。第四共和制の下、ガーナはアフリカで最も安定した民主国家の一つとなった。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Konkomba–Nanumba conflict",
+    "ko": "콘콤바-나눔바 분쟁",
+    "zh": "孔孔巴人与纳努姆巴人的冲突",
+    "ja": "コンコンバ＝ナヌンバ紛争"
+   },
+   "description": {
+    "en": "In 1994 long-standing disputes over land and chieftaincy between the Konkomba and the Nanumba, Dagomba and Gonja peoples erupted into violence in the Northern Region, known locally as the 'Guinea Fowl War'. Over a thousand people were killed and many more displaced before a state of emergency and peace negotiations ended the fighting.",
+    "ko": "1994년 북부주에서 콘콤바족과 나눔바·다곰바·곤자족 사이의 토지 및 추장직을 둘러싼 오랜 분쟁이 폭력 사태로 폭발했는데, 현지에서는 '뿔닭 전쟁'으로 불린다. 비상사태 선포와 평화 협상으로 전투가 끝나기까지 천 명 이상이 숨지고 훨씬 많은 사람이 피란했다.",
+    "zh": "1994年，孔孔巴人与纳努姆巴人、达贡巴人、贡贾人之间围绕土地和酋长地位的长期争端在北部区演变为暴力冲突，当地称之为“珍珠鸡战争”。在紧急状态和和平谈判结束战斗之前，已有一千多人丧生，更多人流离失所。",
+    "ja": "1994年、北部州でコンコンバと、ナヌンバ、ダゴンバ、ゴンジャとのあいだの土地と首長位をめぐる長年の争いが暴力へと発展し、地元では「ホロホロチョウ戦争」と呼ばれた。非常事態宣言と和平交渉で戦闘が収まるまでに千人以上が死亡し、さらに多くが避難した。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": "Q1848500",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "2000 election: Kufuor defeats the NDC",
+    "ko": "2000년 선거: 쿠포르의 승리",
+    "zh": "2000年大选：库福尔获胜",
+    "ja": "2000年選挙：クフォーの勝利"
+   },
+   "description": {
+    "en": "With Rawlings constitutionally barred from a third term, the December 2000 elections pitted his vice-president John Atta Mills against John Kufuor of the New Patriotic Party. Kufuor won the run-off, and the NDC accepted defeat, paving the way for the first transfer of power between parties under the Fourth Republic.",
+    "ko": "롤링스가 헌법상 3선이 금지된 가운데 2000년 12월 선거에서는 그의 부통령 존 아타 밀스와 신애국당의 존 쿠포르가 맞붙었다. 쿠포르가 결선 투표에서 승리하고 NDC가 패배를 받아들이면서, 제4공화국 최초의 정당 간 정권 교체의 길이 열렸다.",
+    "zh": "罗林斯因宪法限制不能第三次连任，2000年12月大选由其副总统约翰·阿塔·米尔斯对阵新爱国党的约翰·库福尔。库福尔在第二轮投票中获胜，全国民主大会党接受失败，为第四共和国首次政党间权力交接铺平了道路。",
+    "ja": "ローリングスが憲法上3選を禁じられるなか、2000年12月の選挙では彼の副大統領ジョン・アッタ・ミルズと新愛国党のジョン・クフォーが争った。決選投票でクフォーが勝利しNDCが敗北を受け入れたことで、第四共和政で初めての政党間の政権交代への道が開かれた。"
+   }
+  },
+  {
+   "year": 2001,
+   "qid": "Q1907538",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Accra Sports Stadium disaster",
+    "ko": "아크라 스포츠 스타디움 참사",
+    "zh": "阿克拉体育场惨案",
+    "ja": "アクラ・スポーツスタジアムの惨事"
+   },
+   "description": {
+    "en": "On 9 May 2001, during a football match between Accra Hearts of Oak and Asante Kotoko, police fired tear gas at fans throwing objects, causing a stampede toward locked exits in which 126 people died. It remains the deadliest stadium disaster in Africa and led to reforms of crowd management.",
+    "ko": "2001년 5월 9일 아크라 하츠 오브 오크와 아샨티 코토코의 축구 경기 중 경찰이 물건을 던지는 관중에게 최루탄을 쏘자, 잠긴 출구로 사람들이 몰리면서 압사 사고가 일어나 126명이 숨졌다. 이는 지금도 아프리카 최악의 경기장 참사로 남아 있으며 관중 관리 개혁으로 이어졌다.",
+    "zh": "2001年5月9日，在阿克拉橡树之心队与阿散蒂科托科队的足球比赛中，警察向投掷杂物的球迷发射催泪弹，人群涌向上锁的出口发生踩踏，造成126人死亡。这至今仍是非洲死亡人数最多的体育场惨案，并促成了人群管理方面的改革。",
+    "ja": "2001年5月9日、アクラ・ハーツ・オブ・オークとアシャンティ・コトコのサッカーの試合中、物を投げる観客に警察が催涙ガスを撃ち込み、施錠された出口へ人々が殺到して126人が死亡した。今もアフリカ最悪のスタジアム事故であり、群衆管理の改革につながった。"
+   }
+  },
+  {
+   "year": 2001,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First Peaceful Transfer of Power",
+    "ko": "최초의 평화적 정권 교체",
+    "zh": "首次和平政权交接",
+    "ja": "初の平和的政権交代"
+   },
+   "description": {
+    "en": "John Kufuor's inauguration marked Ghana's first democratic handover between parties since independence, cementing its reputation for stable democracy.",
+    "ko": "존 쿠푸오르의 취임으로 가나는 독립 이후 처음으로 선거를 통한 여야 간 정권 교체를 이루었고, 안정된 민주주의 국가라는 평가를 굳혔다.",
+    "zh": "约翰·库福尔就任总统，实现加纳独立以来首次政党间民主轮替，巩固了其稳定民主国家的声誉。",
+    "ja": "ジョン・クフォーの大統領就任により、ガーナは独立後初めて選挙による政党間の政権交代を実現し、安定した民主国家としての評価を固めた。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Discovery of the Jubilee oil field",
+    "ko": "주빌리 유전 발견",
+    "zh": "发现朱比利油田",
+    "ja": "ジュビリー油田の発見"
+   },
+   "description": {
+    "en": "In June 2007 Kosmos Energy and Tullow Oil announced the discovery of the offshore Jubilee field off Ghana's western coast, one of the largest oil finds in West Africa that decade. Commercial production began in December 2010, making Ghana an oil exporter and prompting legislation on managing petroleum revenues.",
+    "ko": "2007년 6월 코스모스 에너지와 툴로 오일은 가나 서부 해안 앞바다에서 그 10년 동안 서아프리카 최대급의 유전 가운데 하나인 주빌리 유전 발견을 발표했다. 2010년 12월 상업 생산이 시작되어 가나는 석유 수출국이 되었고, 석유 수입 관리를 위한 입법이 이루어졌다.",
+    "zh": "2007年6月，科斯莫斯能源公司和塔洛石油公司宣布在加纳西部海岸外发现朱比利海上油田，这是那十年西非最大的石油发现之一。2010年12月开始商业生产，加纳成为石油出口国，并为此制定了石油收入管理法。",
+    "ja": "2007年6月、コスモス・エナジーとタロー・オイルはガーナ西部沖でジュビリー油田の発見を発表した。その10年間で西アフリカ最大級の発見の一つである。2010年12月に商業生産が始まってガーナは産油国となり、石油収入の管理に関する法律が整備された。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q404531",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of President Mills; Mahama elected",
+    "ko": "밀스 대통령 서거와 마하마 당선",
+    "zh": "米尔斯总统逝世，马哈马当选",
+    "ja": "ミルズ大統領の死去とマハマの当選"
+   },
+   "description": {
+    "en": "In July 2012 President John Atta Mills died in office, the first Ghanaian head of state to do so, and Vice-President John Dramani Mahama was sworn in within hours, a smooth constitutional succession. Mahama won the December 2012 election; the NPP's court challenge was rejected by the Supreme Court in 2013.",
+    "ko": "2012년 7월 존 아타 밀스 대통령이 재임 중 사망했는데, 이는 가나 국가원수로서는 처음이었다. 존 드라마니 마하마 부통령이 몇 시간 만에 취임하면서 헌법에 따른 원활한 승계가 이루어졌다. 마하마는 2012년 12월 선거에서 승리했고, NPP의 선거 소송은 2013년 대법원에서 기각되었다.",
+    "zh": "2012年7月，约翰·阿塔·米尔斯总统在任内去世，是加纳首位在任期内去世的国家元首。副总统约翰·德拉马尼·马哈马在数小时内宣誓就职，实现了顺利的宪法继承。马哈马赢得2012年12月大选，新爱国党的诉讼于2013年被最高法院驳回。",
+    "ja": "2012年7月、ジョン・アッタ・ミルズ大統領が在任中に死去した。在任中に亡くなった初のガーナ国家元首である。ジョン・ドラマニ・マハマ副大統領が数時間のうちに就任し、円滑な憲法上の継承が行われた。マハマは2012年12月の選挙に勝利し、NPPの選挙訴訟は2013年に最高裁で棄却された。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q20035680",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Accra floods and petrol station explosion",
+    "ko": "아크라 홍수와 주유소 폭발",
+    "zh": "阿克拉洪水与加油站爆炸",
+    "ja": "アクラ洪水とガソリンスタンド爆発"
+   },
+   "description": {
+    "en": "On 3 June 2015 torrential rain flooded Accra, and people sheltering at a petrol station at Kwame Nkrumah Circle were caught in a fire and explosion as fuel spread on the floodwater. About 150 people were killed in one of the city's worst disasters, highlighting poor drainage and unregulated construction.",
+    "ko": "2015년 6월 3일 폭우로 아크라가 침수되었고, 콰메 은크루마 서클의 주유소에 피신해 있던 사람들이 물 위로 번진 연료에 불이 붙어 일어난 화재와 폭발에 휩쓸렸다. 약 150명이 숨진 이 사건은 도시 최악의 재난 가운데 하나로, 열악한 배수 시설과 무분별한 건축 문제를 드러냈다.",
+    "zh": "2015年6月3日，暴雨导致阿克拉被淹，在克瓦米·恩克鲁玛环岛一处加油站避雨的人们遭遇燃油在洪水上蔓延引发的火灾和爆炸。约150人遇难，这是该市最严重的灾难之一，暴露了排水不良和违规建设的问题。",
+    "ja": "2015年6月3日、豪雨でアクラが冠水し、クワメ・エンクルマ・サークルのガソリンスタンドに避難していた人々が、洪水の上に広がった燃料による火災と爆発に巻き込まれた。約150人が死亡した市内最悪級の惨事であり、排水の不備と無秩序な建設の問題を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Akufo-Addo elected",
+    "ko": "아쿠포아도 당선",
+    "zh": "阿库福-阿多当选",
+    "ja": "アクフォ＝アドの当選"
+   },
+   "description": {
+    "en": "In December 2016 Nana Akufo-Addo of the New Patriotic Party defeated the incumbent John Mahama in the first round, the first time a sitting Ghanaian president lost re-election. Mahama conceded promptly, and Akufo-Addo took office in January 2017, serving two terms.",
+    "ko": "2016년 12월 신애국당의 나나 아쿠포아도가 1차 투표에서 현직 존 마하마를 꺾었는데, 이는 가나에서 현직 대통령이 재선에 실패한 첫 사례였다. 마하마는 즉시 패배를 인정했고, 아쿠포아도는 2017년 1월 취임해 두 차례 임기를 지냈다.",
+    "zh": "2016年12月，新爱国党的纳纳·阿库福-阿多在首轮投票中击败在任总统约翰·马哈马，这是加纳在任总统首次连任失败。马哈马迅速认输，阿库福-阿多于2017年1月就职，此后连任两届。",
+    "ja": "2016年12月、新愛国党のナナ・アクフォ＝アドが第1回投票で現職のジョン・マハマを破った。ガーナの現職大統領が再選に失敗したのはこれが初めてである。マハマは速やかに敗北を認め、アクフォ＝アドは2017年1月に就任して2期務めた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q48797639",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Free Senior High School",
+    "ko": "무상 고등학교 교육",
+    "zh": "免费高中教育",
+    "ja": "高校教育の無償化"
+   },
+   "description": {
+    "en": "In September 2017 the government launched the Free Senior High School policy, abolishing fees for public secondary education, a flagship promise of Akufo-Addo's campaign. Enrolment rose sharply, though the policy strained school capacity and led to a 'double-track' calendar for several years.",
+    "ko": "2017년 9월 정부는 아쿠포아도의 핵심 공약인 무상 고등학교 정책을 시행해 공립 중등 교육의 학비를 폐지했다. 취학률은 크게 늘었지만, 학교 수용 능력이 한계에 이르러 몇 년간 '이중 학기제'를 운영해야 했다.",
+    "zh": "2017年9月，政府推出阿库福-阿多竞选的旗舰承诺——免费高中政策，取消公立中等教育学费。入学人数大幅增加，但学校容量不堪重负，数年间不得不实行“双轨制”学年。",
+    "ja": "2017年9月、政府はアクフォ＝アドの看板公約である高校無償化政策を開始し、公立中等教育の学費を廃止した。就学者は急増したが、学校の受け入れ能力が逼迫し、数年間「二部制」の学年暦が導入された。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87666247",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in Ghana",
+    "ko": "가나의 코로나19 범유행",
+    "zh": "新冠疫情在加纳",
+    "ja": "ガーナの新型コロナ流行"
+   },
+   "description": {
+    "en": "Ghana recorded its first COVID-19 cases in March 2020 and imposed a partial lockdown of Accra and Kumasi, along with border closures. The country drew attention for using drones to deliver test samples, and in February 2021 it became the first country to receive vaccines through the COVAX initiative.",
+    "ko": "가나는 2020년 3월 첫 코로나19 확진자를 기록하고 국경 폐쇄와 함께 아크라와 쿠마시에 부분 봉쇄를 시행했다. 드론으로 검체를 운반해 주목받았으며, 2021년 2월에는 코백스(COVAX)를 통해 백신을 받은 첫 나라가 되었다.",
+    "zh": "加纳于2020年3月出现首批新冠病例，对阿克拉和库马西实施部分封锁并关闭边境。该国因使用无人机运送检测样本而受到关注，并于2021年2月成为首个通过“新冠疫苗实施计划”（COVAX）获得疫苗的国家。",
+    "ja": "ガーナは2020年3月に最初の新型コロナ感染者を記録し、国境封鎖とともにアクラとクマシで部分的ロックダウンを実施した。ドローンで検体を運んだことで注目され、2021年2月にはCOVAXを通じてワクチンを受け取った最初の国となった。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q110629011",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Apiate explosion",
+    "ko": "아피아테 폭발",
+    "zh": "阿皮亚特爆炸",
+    "ja": "アピアテ爆発"
+   },
+   "description": {
+    "en": "On 20 January 2022 a truck carrying mining explosives collided with a motorbike near Apiate, on the road between Bogoso and Tarkwa in the Western Region, and exploded. The blast flattened much of the village, killing more than a dozen people and injuring many more; the government pledged to rebuild Apiate.",
+    "ko": "2022년 1월 20일 서부주 보고소와 타르콰를 잇는 도로의 아피아테 부근에서 광산용 폭약을 실은 트럭이 오토바이와 충돌한 뒤 폭발했다. 폭발로 마을 대부분이 무너지고 십여 명 이상이 숨졌으며 훨씬 많은 사람이 다쳤고, 정부는 아피아테 재건을 약속했다.",
+    "zh": "2022年1月20日，一辆运载采矿炸药的卡车在西部区博戈索至塔夸公路上的阿皮亚特附近与一辆摩托车相撞后爆炸。爆炸夷平了村庄大部分地区，造成十多人死亡、更多人受伤，政府承诺重建阿皮亚特。",
+    "ja": "2022年1月20日、西部州のボゴソとタークワを結ぶ道路のアピアテ付近で、鉱山用爆薬を積んだトラックがバイクと衝突して爆発した。爆発で村の大半が倒壊し、十数人以上が死亡、さらに多くが負傷した。政府はアピアテの再建を約束した。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Debt crisis and IMF programme",
+    "ko": "부채 위기와 IMF 프로그램",
+    "zh": "债务危机与国际货币基金组织计划",
+    "ja": "債務危機とIMFプログラム"
+   },
+   "description": {
+    "en": "In 2022 inflation surged above 50% and the cedi lost much of its value, and in December the government suspended payments on most of its external debt, effectively defaulting. In May 2023 the IMF approved a three-year loan programme of about US$3 billion, tied to debt restructuring and fiscal reforms.",
+    "ko": "2022년 인플레이션이 50%를 넘어 치솟고 세디화 가치가 크게 떨어지자, 정부는 12월 대부분의 대외 부채 상환을 중단해 사실상 채무 불이행에 빠졌다. 2023년 5월 IMF는 채무 재조정과 재정 개혁을 조건으로 약 30억 달러 규모의 3년 대출 프로그램을 승인했다.",
+    "zh": "2022年通货膨胀率飙升至50%以上，塞地大幅贬值；12月政府暂停偿还大部分外债，实际上陷入违约。2023年5月，国际货币基金组织批准了约30亿美元的三年期贷款计划，条件是进行债务重组和财政改革。",
+    "ja": "2022年、インフレ率は50％を超えて急騰しセディは大きく下落した。12月、政府は対外債務の大半の支払いを停止し、事実上のデフォルトに陥った。2023年5月、IMFは債務再編と財政改革を条件に約30億ドルの3年間の融資プログラムを承認した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q104054170",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Mahama returns to power",
+    "ko": "마하마의 재집권",
+    "zh": "马哈马重新执政",
+    "ja": "マハマの政権復帰"
+   },
+   "description": {
+    "en": "In the December 2024 general election former president John Mahama of the NDC decisively defeated Vice-President Mahamudu Bawumia of the governing NPP, who conceded the day after the vote. Mahama was inaugurated on 7 January 2025, with Jane Naana Opoku-Agyemang as Ghana's first female vice-president, marking another peaceful alternation of power.",
+    "ko": "2024년 12월 총선에서 NDC의 존 마하마 전 대통령이 집권 NPP의 마하무두 바우미아 부통령을 큰 차이로 꺾었고, 바우미아는 투표 다음 날 패배를 인정했다. 마하마는 2025년 1월 7일 취임했으며, 제인 나아나 오포쿠아계망은 가나 최초의 여성 부통령이 되었다. 이는 또 한 번의 평화적 정권 교체였다.",
+    "zh": "在2024年12月的大选中，全国民主大会党的前总统约翰·马哈马以明显优势击败执政的新爱国党候选人、副总统马哈穆杜·巴武米亚，后者在投票次日认输。马哈马于2025年1月7日就职，简·娜娜·奥波库-阿吉曼成为加纳首位女副总统，这是又一次和平的政权轮替。",
+    "ja": "2024年12月の総選挙で、NDCのジョン・マハマ元大統領が与党NPPのマハムドゥ・バウミア副大統領に大差で勝利し、バウミアは投票の翌日に敗北を認めた。マハマは2025年1月7日に就任し、ジェーン・ナアナ・オポク＝アジェマンがガーナ初の女性副大統領となった。再びの平和的な政権交代である。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q135657815",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Military helicopter crash kills two ministers",
+    "ko": "군 헬기 추락으로 장관 2명 사망",
+    "zh": "军用直升机坠毁致两名部长遇难",
+    "ja": "軍用ヘリ墜落で閣僚2人死亡"
+   },
+   "description": {
+    "en": "On 6 August 2025 a Ghana Air Force Z-9 helicopter crashed in the Ashanti Region, killing all eight people aboard, among them Defence Minister Edward Omane Boamah and Environment Minister Ibrahim Murtala Muhammed. The government declared national mourning for the victims.",
+    "ko": "2025년 8월 6일 가나 공군의 Z-9 헬기가 아샨티주에서 추락해 에드워드 오마네 보아마 국방장관과 이브라힘 무르탈라 무함마드 환경장관을 포함한 탑승자 8명 전원이 숨졌다. 정부는 희생자들을 위한 국가 애도 기간을 선포했다.",
+    "zh": "2025年8月6日，加纳空军一架直-9直升机在阿散蒂区坠毁，机上8人全部遇难，其中包括国防部长爱德华·奥马内·博阿马和环境部长易卜拉欣·穆尔塔拉·穆罕默德。政府宣布为遇难者举行全国哀悼。",
+    "ja": "2025年8月6日、ガーナ空軍のZ-9ヘリコプターがアシャンティ州で墜落し、エドワード・オマネ・ボアマ国防相とイブラヒム・ムルタラ・ムハンマド環境相を含む搭乗者8人全員が死亡した。政府は犠牲者のため国を挙げての服喪を宣言した。"
+   }
+  }
+ ]
+}

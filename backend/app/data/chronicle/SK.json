@@ -1,0 +1,2390 @@
+{
+ "iso": "SK",
+ "eras": [
+  {
+   "from": -5500,
+   "to": -2300,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Neolithic and Eneolithic farming cultures",
+    "ko": "신석기·동석기 농경 문화",
+    "zh": "新石器与铜石并用时代农耕文化",
+    "ja": "新石器・銅石器時代の農耕文化"
+   },
+   "summary": {
+    "en": "The first farmers of the Linear Pottery culture settled the fertile lowlands of south-western Slovakia in the 6th millennium BC. They were followed by the Želiezovce group, the Lengyel culture with its circular ditched enclosures, and in the Eneolithic by the Baden culture, which spread copper working and wheeled transport. Late in the period the Corded Ware and Bell Beaker cultures reached the region.",
+    "ko": "기원전 6천년기 선형 토기 문화의 첫 농경민이 슬로바키아 남서부의 비옥한 저지대에 정착했다. 이어 젤리에조우체 집단, 원형 환호 유적으로 유명한 렌기엘 문화가 나타났고, 동석기에는 구리 가공과 바퀴 달린 운송 수단을 퍼뜨린 바덴 문화가 뒤를 이었다. 이 시기 말에는 승문 토기 문화와 종 모양 비커 문화가 이 지역에 이르렀다.",
+    "zh": "公元前6千纪，线纹陶文化的首批农人定居于斯洛伐克西南部肥沃的低地。此后相继出现热列佐夫采类型、以环形壕沟圈地著称的伦杰尔文化，以及铜石并用时代传播铜器加工和轮式运输的巴登文化。这一时期末，绳纹陶文化和钟形杯文化也到达了该地区。",
+    "ja": "前6千年紀、線帯文土器文化の最初の農耕民がスロバキア南西部の肥沃な低地に定住した。続いてジェリエゾフツェ群、円形の環濠遺構で知られるレンジェル文化が現れ、銅石器時代には銅加工と車輪付きの運搬手段を広めたバーデン文化が続いた。この時期の終わりには縄目文土器文化と鐘状ビーカー文化がこの地域に達した。"
+   }
+  },
+  {
+   "from": -2300,
+   "to": -800,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bronze Age cultures (Nitra, Otomani, Lusatian)",
+    "ko": "청동기 문화(니트라·오토마니·루사티아)",
+    "zh": "青铜时代诸文化（尼特拉、奥托马尼、卢萨蒂亚）",
+    "ja": "青銅器時代の諸文化（ニトラ・オトマニ・ルサチア）"
+   },
+   "summary": {
+    "en": "In the Early Bronze Age the Nitra, Únětice and Hatvan cultures flourished, and the Otomani culture built fortified settlements in the east, such as Spišský Štvrtok and Barca near Košice. In the Middle and Late Bronze Age the Tumulus and Urnfield cultures, including the Lusatian culture in the north and the Piliny and Kyjatice cultures in the south, practised cremation burial. Rich bronze hoards reflect active metallurgy and trade along the Danube and Carpathian routes.",
+    "ko": "청동기시대 초기에는 니트라·우네티체·하트반 문화가 번성했고, 동부에서는 오토마니 문화가 스피슈스키 슈트브르토크와 코시체 인근 바르차 같은 요새화된 취락을 세웠다. 중기와 후기에는 북부의 루사티아 문화, 남부의 필리니·키야티체 문화 등 고분 문화와 언필드 문화가 화장 매장을 행했다. 풍부한 청동기 매장물은 다뉴브강과 카르파티아 교역로를 따라 활발했던 금속 생산과 교역을 보여 준다.",
+    "zh": "青铜时代早期，尼特拉文化、乌涅蒂采文化和哈特万文化兴盛，东部的奥托马尼文化修建了斯皮什斯基什特夫尔托克、科希策附近的巴尔察等设防聚落。青铜时代中晚期，墓冢文化和骨灰瓮文化——包括北部的卢萨蒂亚文化以及南部的皮利尼文化和基亚蒂采文化——实行火葬。丰富的青铜器窖藏反映了沿多瑙河和喀尔巴阡通道的活跃冶金与贸易。",
+    "ja": "青銅器時代前期にはニトラ文化、ウーニェチツェ文化、ハトヴァン文化が栄え、東部ではオトマニ文化がスピシュスキー・シュトヴルトクやコシツェ近郊のバルツァなどの要塞集落を築いた。中期・後期には北部のルサチア文化、南部のピリニ文化やキヤティツェ文化などの墳丘墓文化・骨壺墓地文化が火葬を行った。豊富な青銅器の埋納遺物は、ドナウ川とカルパチアの交易路に沿った活発な冶金と交易を示している。"
+   }
+  },
+  {
+   "from": -800,
+   "to": -400,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Hallstatt Iron Age",
+    "ko": "할슈타트 철기 문화",
+    "zh": "哈尔施塔特铁器文化",
+    "ja": "ハルシュタット鉄器文化"
+   },
+   "summary": {
+    "en": "Iron working spread in the 8th century BC. In western Slovakia the Kalenderberg culture built large hillforts such as Smolenice-Molpír, while the Lusatian culture continued in the north and the Vekerzug culture, with links to the steppe, appeared in the south. Smolenice-Molpír was violently destroyed in the 6th century BC, possibly by mounted raiders from the east.",
+    "ko": "기원전 8세기에 철 가공이 확산되었다. 슬로바키아 서부에서는 칼렌더베르크 문화가 스몰레니체-몰피르 같은 대규모 언덕 요새를 쌓았고, 북부에서는 루사티아 문화가 이어졌으며, 남부에는 초원 지대와 연결된 베케르주그 문화가 나타났다. 스몰레니체-몰피르는 기원전 6세기에 폭력적으로 파괴되었는데, 동쪽에서 온 기마 습격자의 소행일 가능성이 있다.",
+    "zh": "公元前8世纪，冶铁技术开始传播。斯洛伐克西部的卡伦德贝格文化修建了斯莫莱尼采-莫尔皮尔等大型山堡，北部延续卢萨蒂亚文化，南部则出现了与草原地带有联系的韦凯尔祖格文化。斯莫莱尼采-莫尔皮尔在公元前6世纪遭暴力摧毁，可能是来自东方的骑马袭击者所为。",
+    "ja": "前8世紀に製鉄が広まった。スロバキア西部ではカレンダーベルク文化がスモレニツェ＝モルピールなどの大規模な丘上要塞を築き、北部ではルサチア文化が続き、南部には草原地帯と結び付いたヴェケルズグ文化が現れた。スモレニツェ＝モルピールは前6世紀に暴力的に破壊されたが、東方からの騎馬襲撃者によるものかもしれない。"
+   }
+  },
+  {
+   "from": -400,
+   "to": -10,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Celts (La Tène culture)",
+    "ko": "켈트인(라텐 문화)",
+    "zh": "凯尔特人（拉坦诺文化）",
+    "ja": "ケルト人（ラ・テーヌ文化）"
+   },
+   "summary": {
+    "en": "Celtic groups settled in the region from the 4th century BC, bringing the La Tène culture, the potter's wheel and advanced ironworking. In the 1st century BC the Boii built an oppidum on the site of Bratislava's castle hill and minted silver and gold coins, including the Biatec coins. In the north the Púchov culture, associated with the Cotini, developed hillforts such as Havránok; Boian power in the Danube region was broken around the mid-1st century BC by the Dacians.",
+    "ko": "기원전 4세기부터 켈트계 집단이 이 지역에 정착해 라텐 문화, 물레, 발달된 철 가공 기술을 들여왔다. 기원전 1세기에 보이족은 브라티슬라바 성 언덕 자리에 오피둠을 세우고 비아테크 주화를 비롯한 은화·금화를 주조했다. 북부에서는 코티니족과 연관된 푸호우 문화가 하브라녹 같은 언덕 요새를 발전시켰다. 다뉴브 지역 보이족의 세력은 기원전 1세기 중반 무렵 다키아인에게 꺾였다.",
+    "zh": "自公元前4世纪起，凯尔特群体定居于此，带来了拉坦诺文化、陶轮和先进的冶铁技术。公元前1世纪，波伊人在今布拉迪斯拉发城堡山建起奥皮杜姆，并铸造银币和金币，其中包括“比亚特克”钱币。北部与科提尼人相关的普霍夫文化建起了哈夫拉诺克等山堡。约公元前1世纪中叶，波伊人在多瑙河地区的势力被达契亚人击溃。",
+    "ja": "前4世紀からケルト系集団がこの地に定住し、ラ・テーヌ文化、ろくろ、高度な製鉄技術をもたらした。前1世紀にはボイイ族が現在のブラチスラバ城の丘にオッピドゥムを築き、ビアテク貨をはじめとする銀貨・金貨を鋳造した。北部ではコティニ族と関連するプーホフ文化がハヴラーノクなどの丘上要塞を発展させた。ドナウ地域のボイイ族の勢力は前1世紀半ば頃、ダキア人によって打ち砕かれた。"
+   }
+  },
+  {
+   "from": -10,
+   "to": 400,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Roman frontier and the Germanic Quadi",
+    "ko": "로마 국경과 게르만계 콰디족",
+    "zh": "罗马边境与日耳曼夸迪人",
+    "ja": "ローマの辺境とゲルマン系クアディ族"
+   },
+   "summary": {
+    "en": "From around the turn of the era the Germanic Quadi and Marcomanni settled north of the Danube, which became the frontier (limes) of the Roman Empire. Roman forts such as Gerulata (in today's Rusovce, Bratislava) lay on the river, and outposts like Celemantia at Iža faced the legionary fortress of Brigetio. Roman trade goods reached Quadian chieftains, and in the Marcomannic Wars of the 2nd century Roman legions campaigned deep into Slovak territory.",
+    "ko": "기원 전후 무렵 게르만계 콰디족과 마르코만니족이 다뉴브강 북쪽에 정착했고, 이 강은 로마 제국의 국경(리메스)이 되었다. 강가에는 게룰라타(오늘날 브라티슬라바의 루소우체) 같은 로마 요새가 있었고, 이자의 켈레만티아 같은 전초 기지가 브리게티오 군단 요새와 마주했다. 로마의 교역품이 콰디족 수장들에게 전해졌으며, 2세기 마르코만니 전쟁 때는 로마 군단이 슬로바키아 영토 깊숙이 원정했다.",
+    "zh": "大约在公元前后，日耳曼人夸迪人和马科曼尼人定居于多瑙河以北，多瑙河成为罗马帝国的边境（利梅斯）。河畔有格鲁拉塔（今布拉迪斯拉发鲁索夫采）等罗马要塞，伊扎的凯莱曼蒂亚等前哨则与布里格提奥军团要塞隔河相望。罗马商品流入夸迪首领手中；2世纪马科曼尼战争期间，罗马军团深入斯洛伐克腹地作战。",
+    "ja": "紀元前後、ゲルマン系のクアディ族とマルコマンニ族がドナウ川北岸に定住し、この川がローマ帝国の国境（リメス）となった。川沿いにはゲルラタ（現ブラチスラバのルソフツェ）などのローマの砦があり、イジャのケレマンティアのような前哨基地がブリゲティオの軍団要塞と向かい合っていた。ローマの交易品がクアディ族の首長にもたらされ、2世紀のマルコマンニ戦争ではローマ軍団がスロバキアの奥深くまで遠征した。"
+   }
+  },
+  {
+   "from": 375,
+   "to": 568,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Migration Period",
+    "ko": "민족 대이동기",
+    "zh": "民族大迁徙时期",
+    "ja": "民族移動時代"
+   },
+   "summary": {
+    "en": "The arrival of the Huns in Central Europe after 375 set off migrations across the Danube basin. Quadi, Vandals and other groups moved west, while the region came under Hunnic domination in the first half of the 5th century. After the Hunnic empire collapsed, Germanic peoples such as the Heruli and then the Lombards controlled the area until the Lombards left for Italy in 568.",
+    "ko": "375년 이후 훈족이 중부 유럽에 도래하면서 다뉴브 분지 전역에서 대이동이 일어났다. 콰디족, 반달족 등은 서쪽으로 이동했고, 이 지역은 5세기 전반 훈족의 지배 아래 들어갔다. 훈 제국이 무너진 뒤에는 헤룰리족, 이어 랑고바르드족 같은 게르만 민족이 이 지역을 지배했으며, 랑고바르드족은 568년 이탈리아로 떠났다.",
+    "zh": "375年后匈人进入中欧，引发了整个多瑙河盆地的民族迁徙。夸迪人、汪达尔人等群体西迁，该地区在5世纪上半叶处于匈人统治之下。匈人帝国瓦解后，赫鲁利人以及随后的伦巴第人等日耳曼民族控制了这一地区，直到伦巴第人于568年迁往意大利。",
+    "ja": "375年以降のフン族の中欧到来は、ドナウ盆地全域に民族移動を引き起こした。クアディ族やヴァンダル族などは西へ移り、この地域は5世紀前半にフン族の支配下に入った。フン帝国崩壊後はヘルリ族、続いてランゴバルド族などのゲルマン系民族がこの地を支配し、ランゴバルド族は568年にイタリアへ去った。"
+   }
+  },
+  {
+   "from": 420,
+   "to": 454,
+   "kind": "state",
+   "qid": "Q45813",
+   "polity": "Hunnic Empire",
+   "name": {
+    "en": "Hunnic Empire",
+    "ko": "훈 제국",
+    "zh": "匈人帝国",
+    "ja": "フン帝国"
+   },
+   "summary": {
+    "en": "In the first half of the 5th century the Huns, whose power centre lay on the Hungarian plain, dominated the Danube basin including Slovakia, ruling a coalition of subject peoples. Under Attila the empire reached its height in the 440s. It fell apart after his death in 453 and the defeat of his sons by a coalition of subject peoples at the Nedao in 454.",
+    "ko": "5세기 전반 헝가리 평원에 권력 중심을 둔 훈족은 슬로바키아를 포함한 다뉴브 분지를 지배하며 여러 예속 민족의 연합을 다스렸다. 아틸라 시대인 440년대에 제국은 전성기를 맞았다. 그러나 453년 그가 죽고 454년 네다오에서 그의 아들들이 예속 민족 연합군에 패하면서 제국은 해체되었다.",
+    "zh": "5世纪上半叶，以匈牙利平原为权力中心的匈人支配了包括斯洛伐克在内的多瑙河盆地，统治着由诸多臣属民族组成的联盟。阿提拉时期的440年代，帝国达到鼎盛。453年阿提拉死后，其诸子于454年在内道河被臣属民族联军击败，帝国随之瓦解。",
+    "ja": "5世紀前半、ハンガリー平原に権力の中心を置いたフン族は、スロバキアを含むドナウ盆地を支配し、従属諸民族の連合を治めた。アッティラのもと440年代に帝国は最盛期を迎えた。しかし453年に彼が死に、454年のネダオの戦いでその息子たちが従属民族の連合軍に敗れると、帝国は瓦解した。"
+   }
+  },
+  {
+   "from": 500,
+   "to": 800,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Slavs and the Avar Khaganate",
+    "ko": "초기 슬라브인과 아바르 카간국",
+    "zh": "早期斯拉夫人与阿瓦尔汗国",
+    "ja": "初期スラヴ人とアヴァール・カガン国"
+   },
+   "summary": {
+    "en": "Slavic communities, the ancestors of the Slovaks, settled the region during the 6th century, living in small villages of sunken-floored houses. From 568 the Avar Khaganate ruled the Carpathian Basin, and Avar–Slavic burial grounds such as Devínska Nová Ves show their coexistence in the southwest. In the 7th century the Slavs briefly rose against the Avars under Samo.",
+    "ko": "6세기 동안 슬로바키아인의 조상인 슬라브인 공동체가 이 지역에 정착해 반지하식 가옥으로 이루어진 작은 마을에서 살았다. 568년부터 아바르 카간국이 카르파티아 분지를 지배했으며, 데빈스카 노바 베스 같은 아바르·슬라브 묘역은 남서부에서 두 집단이 공존했음을 보여 준다. 7세기에 슬라브인은 사모의 지도 아래 잠시 아바르에 맞서 일어섰다.",
+    "zh": "6世纪，斯洛伐克人的祖先斯拉夫人社群定居于此，居住在由半地穴式房屋组成的小村落中。自568年起，阿瓦尔汗国统治喀尔巴阡盆地，杰温斯卡诺瓦韦斯等阿瓦尔—斯拉夫墓地显示了两者在西南部的共存。7世纪，斯拉夫人在萨莫领导下一度起来反抗阿瓦尔人。",
+    "ja": "6世紀、スロバキア人の祖先であるスラヴ人の共同体がこの地に定住し、半地下式住居からなる小さな村に暮らした。568年からはアヴァール・カガン国がカルパチア盆地を支配し、デヴィーンスカ・ノヴァー・ヴェスなどのアヴァール・スラヴの墓地は南西部での両者の共存を示している。7世紀にはスラヴ人がサモの指導のもと一時アヴァールに対して立ち上がった。"
+   }
+  },
+  {
+   "from": 623,
+   "to": 658,
+   "kind": "state",
+   "qid": "Q149427",
+   "polity": "Samo's Empire",
+   "name": {
+    "en": "Samo's realm",
+    "ko": "사모의 왕국",
+    "zh": "萨莫帝国",
+    "ja": "サモ王国"
+   },
+   "summary": {
+    "en": "According to the Frankish Chronicle of Fredegar, the Frankish merchant Samo led the Wends (Slavs) in a successful revolt against the Avars around 623 and ruled them for 35 years. His tribal union probably included parts of Moravia, Bohemia, Lower Austria and western Slovakia, though its exact extent and centre are unknown. In 631 Samo's forces defeated the Frankish king Dagobert I at Wogastisburg.",
+    "ko": "프랑크의 『프레데가르 연대기』에 따르면 프랑크 상인 사모는 623년 무렵 벤드인(슬라브인)을 이끌고 아바르에 대한 봉기에 성공해 35년간 그들을 다스렸다. 그의 부족 연합은 모라바, 보헤미아, 저지 오스트리아, 슬로바키아 서부의 일부를 포함했을 것으로 보이나 정확한 범위와 중심지는 알려져 있지 않다. 631년 사모의 군대는 보가스티스부르크에서 프랑크 왕 다고베르트 1세를 격파했다.",
+    "zh": "据法兰克《弗雷德加编年史》记载，法兰克商人萨莫约于623年率领文德人（斯拉夫人）成功反抗阿瓦尔人，并统治他们35年。其部落联盟可能包括摩拉维亚、波希米亚、下奥地利和斯洛伐克西部的部分地区，但确切范围和中心不详。631年，萨莫的军队在沃加斯蒂斯堡击败法兰克国王达戈贝尔特一世。",
+    "ja": "フランクの『フレデガリウス年代記』によれば、フランク商人サモは623年頃ヴェンド人（スラヴ人）を率いてアヴァールに対する反乱を成功させ、35年間彼らを治めた。その部族連合はモラヴィア、ボヘミア、下オーストリア、スロバキア西部の一部を含んでいたと考えられるが、正確な範囲と中心地は不明である。631年、サモの軍はヴォガスティスブルクでフランク王ダゴベルト1世を破った。"
+   }
+  },
+  {
+   "from": 800,
+   "to": 833,
+   "kind": "state",
+   "qid": "Q837326",
+   "polity": "Principality of Nitra",
+   "name": {
+    "en": "Principality of Nitra",
+    "ko": "니트라 공국",
+    "zh": "尼特拉公国",
+    "ja": "ニトラ公国"
+   },
+   "summary": {
+    "en": "After the collapse of Avar power around 800, a Slavic principality centred on Nitra emerged in western and central Slovakia. Its best-known ruler, Pribina, had a church consecrated in Nitra by the Archbishop of Salzburg around 828, the earliest recorded Christian church among the western and southern Slavs. Around 833 Pribina was expelled by Mojmír I of Moravia, and Nitra became part of Great Moravia.",
+    "ko": "800년 무렵 아바르의 세력이 무너진 뒤 슬로바키아 서부와 중부에 니트라를 중심으로 한 슬라브 공국이 등장했다. 가장 잘 알려진 통치자 프리비나는 828년 무렵 잘츠부르크 대주교를 모셔 니트라에 교회를 봉헌했는데, 이는 서·남슬라브인 사이에서 기록된 가장 이른 교회다. 833년 무렵 프리비나는 모라바의 모이미르 1세에게 쫓겨났고 니트라는 대모라비아의 일부가 되었다.",
+    "zh": "约800年阿瓦尔势力瓦解后，以尼特拉为中心的斯拉夫公国在斯洛伐克西部和中部兴起。其最著名的统治者普里比纳约于828年请萨尔茨堡大主教在尼特拉祝圣了一座教堂，这是西斯拉夫人和南斯拉夫人中有记载的最早教堂。约833年，普里比纳被摩拉维亚的莫伊米尔一世驱逐，尼特拉并入大摩拉维亚。",
+    "ja": "800年頃にアヴァールの勢力が崩壊すると、スロバキア西部・中部にニトラを中心とするスラヴ人の公国が現れた。最もよく知られた支配者プリビナは828年頃、ザルツブルク大司教によってニトラに教会を献堂させたが、これは西スラヴ・南スラヴ人の間で記録に残る最古の教会である。833年頃プリビナはモラヴィアのモイミール1世に追われ、ニトラは大モラヴィアの一部となった。"
+   }
+  },
+  {
+   "from": 833,
+   "to": 907,
+   "kind": "state",
+   "qid": "Q193152",
+   "polity": "Great Moravia",
+   "name": {
+    "en": "Great Moravia",
+    "ko": "대모라비아",
+    "zh": "大摩拉维亚",
+    "ja": "大モラヴィア"
+   },
+   "summary": {
+    "en": "Great Moravia, formed when Mojmír I united Moravia and Nitra, was the first large Slavic state in Central Europe and included the territory of today's Slovakia. Under Rastislav and Svätopluk I it resisted East Frankish pressure, received the Byzantine mission of Cyril and Methodius, and reached its greatest extent in the 880s. Weakened by internal strife after 894, it collapsed under Magyar attacks in the early 10th century.",
+    "ko": "모이미르 1세가 모라바와 니트라를 통합하며 성립한 대모라비아는 중부 유럽 최초의 대규모 슬라브 국가로, 오늘날 슬로바키아의 영토를 포함했다. 라스티슬라우와 스바토플루크 1세 치하에서 동프랑크의 압력에 맞서고 키릴로스와 메토디오스의 비잔티움 선교단을 맞아들였으며, 880년대에 최대 영역에 이르렀다. 894년 이후 내분으로 약해진 뒤 10세기 초 마자르인의 공격으로 무너졌다.",
+    "zh": "大摩拉维亚由莫伊米尔一世统一摩拉维亚和尼特拉而成，是中欧第一个大型斯拉夫国家，版图包括今斯洛伐克。在拉斯蒂斯拉夫和斯瓦托普卢克一世统治下，它抵御了东法兰克的压力，迎来了拜占庭的西里尔与美多德传教团，并在880年代达到最大疆域。894年后因内乱而衰弱，10世纪初在马扎尔人的进攻下覆灭。",
+    "ja": "モイミール1世がモラヴィアとニトラを統合して成立した大モラヴィアは、中欧で最初の大規模なスラヴ国家であり、今日のスロバキアの領域を含んでいた。ラスチスラフとスヴァトプルク1世のもとで東フランクの圧力に抗し、キュリロスとメトディオスのビザンツ使節団を迎え、880年代に最大版図に達した。894年以降の内紛で弱体化し、10世紀初めにマジャル人の攻撃で崩壊した。"
+   }
+  },
+  {
+   "from": 895,
+   "to": 1000,
+   "kind": "state",
+   "qid": "Q2899771",
+   "polity": "Principality of Hungary",
+   "name": {
+    "en": "Magyar conquest and the Principality of Hungary",
+    "ko": "마자르인의 정복과 헝가리 대공국",
+    "zh": "马扎尔人征服与匈牙利公国",
+    "ja": "マジャル人の征服とハンガリー大公国"
+   },
+   "summary": {
+    "en": "Magyar tribes entered the Carpathian Basin around 895 and, after destroying Great Moravia and defeating a Bavarian army at Pressburg in 907, extended their control over the lowlands of southern Slovakia. The mountainous north was integrated more gradually. Under the Árpád princes Géza and Stephen the principality turned to Latin Christianity in the late 10th century.",
+    "ko": "마자르 부족들은 895년 무렵 카르파티아 분지에 들어와 대모라비아를 무너뜨리고 907년 프레스부르크에서 바이에른군을 격파한 뒤 슬로바키아 남부 저지대로 지배를 넓혔다. 산이 많은 북부는 보다 점진적으로 통합되었다. 아르파드 가문의 게저와 이슈트반 치하에서 대공국은 10세기 말 라틴 기독교로 돌아섰다.",
+    "zh": "约895年，马扎尔部落进入喀尔巴阡盆地，在摧毁大摩拉维亚、并于907年在普雷斯堡击败巴伐利亚军队后，将控制扩展到斯洛伐克南部低地。多山的北部则是逐步纳入的。10世纪末，在阿尔帕德家族的盖萨和伊什特万治下，公国皈依了拉丁基督教。",
+    "ja": "マジャル諸部族は895年頃カルパチア盆地に入り、大モラヴィアを滅ぼし907年にプレスブルクでバイエルン軍を破ったのち、スロバキア南部の低地へ支配を広げた。山がちな北部はより段階的に統合された。アールパード家のゲーザとイシュトヴァーンのもとで、大公国は10世紀末にラテン・キリスト教へ転じた。"
+   }
+  },
+  {
+   "from": 1000,
+   "to": 1526,
+   "kind": "state",
+   "qid": "Q171150",
+   "polity": "Kingdom of Hungary",
+   "name": {
+    "en": "Medieval Kingdom of Hungary",
+    "ko": "중세 헝가리 왕국",
+    "zh": "中世纪匈牙利王国",
+    "ja": "中世ハンガリー王国"
+   },
+   "summary": {
+    "en": "From the coronation of Stephen I in 1000 the territory of Slovakia, often called Upper Hungary, formed the northern part of the Kingdom of Hungary. Royal castles and counties organised the land, German colonists founded mining and trading towns after the Mongol invasion of 1241, and Kremnica, Banská Štiavnica and Banská Bystrica became among Europe's richest sources of gold, silver and copper. Slovak-speaking peasants and townspeople lived alongside Hungarian, German and later Ruthenian and Wallachian communities.",
+    "ko": "1000년 이슈트반 1세의 대관 이후 흔히 '상부 헝가리'로 불린 슬로바키아 지역은 헝가리 왕국의 북부를 이루었다. 왕실 성채와 주(州)가 땅을 조직했고, 1241년 몽골 침입 이후 독일인 이주민이 광산·교역 도시를 세웠으며, 크렘니차·반스카 슈티아브니차·반스카 비스트리차는 유럽에서 손꼽히는 금·은·구리 산지가 되었다. 슬로바키아어를 쓰는 농민과 도시민은 헝가리인, 독일인, 그리고 훗날의 루신인·왈라키아계 공동체와 함께 살았다.",
+    "zh": "自1000年伊什特万一世加冕起，常被称为“上匈牙利”的斯洛伐克地区构成匈牙利王国的北部。王室城堡和州郡组织起这片土地；1241年蒙古入侵后，德意志移民建立了矿业和商业城镇，克雷姆尼察、班斯卡-什佳夫尼察和班斯卡-比斯特里察成为欧洲最富庶的金、银、铜产地之一。说斯洛伐克语的农民和市民与匈牙利人、德意志人以及后来的鲁塞尼亚人和瓦拉几亚人社群共同生活。",
+    "ja": "1000年のイシュトヴァーン1世の戴冠以降、しばしば「上部ハンガリー」と呼ばれたスロバキアの地はハンガリー王国の北部を成した。王の城と県が土地を組織し、1241年のモンゴル侵攻後にはドイツ人入植者が鉱山都市や商業都市を築き、クレムニツァ、バンスカー・シチャヴニツァ、バンスカー・ビストリツァはヨーロッパ有数の金・銀・銅の産地となった。スロバキア語を話す農民や町民は、ハンガリー人、ドイツ人、のちにはルシン人やワラキア系の共同体とともに暮らした。"
+   }
+  },
+  {
+   "from": 1526,
+   "to": 1804,
+   "kind": "state",
+   "qid": "Q66504140",
+   "polity": "Habsburg Monarchy",
+   "name": {
+    "en": "Royal Hungary under the Habsburg Monarchy",
+    "ko": "합스부르크 군주국 치하의 왕령 헝가리",
+    "zh": "哈布斯堡君主国治下的王室匈牙利",
+    "ja": "ハプスブルク君主国下の王領ハンガリー"
+   },
+   "summary": {
+    "en": "After the Hungarian defeat at Mohács in 1526 the Habsburgs became kings of Hungary, and with the Ottoman conquest of central Hungary, Slovakia formed the core of Habsburg 'Royal Hungary'. Pressburg (Bratislava) served as its capital and coronation city and Trnava as its ecclesiastical centre. The era was marked by Ottoman wars, Protestant Reformation and Catholic Counter-Reformation, and a series of anti-Habsburg uprisings by Hungarian nobles, followed in the 18th century by recovery and reforms under Maria Theresa and Joseph II.",
+    "ko": "1526년 모하치에서 헝가리가 패배한 뒤 합스부르크 가문이 헝가리 왕위를 차지했고, 오스만 제국이 헝가리 중부를 정복하자 슬로바키아는 합스부르크 '왕령 헝가리'의 중심부가 되었다. 프레스부르크(브라티슬라바)는 수도이자 대관식 도시였고 트르나바는 교회의 중심이었다. 이 시대는 오스만 전쟁, 종교개혁과 가톨릭 반종교개혁, 헝가리 귀족의 잇단 반합스부르크 봉기로 특징지어지며, 18세기에는 마리아 테레지아와 요제프 2세 치하의 회복과 개혁이 이어졌다.",
+    "zh": "1526年匈牙利在莫哈奇战败后，哈布斯堡家族成为匈牙利国王；随着奥斯曼帝国征服匈牙利中部，斯洛伐克成为哈布斯堡“王室匈牙利”的核心。普雷斯堡（布拉迪斯拉发）是其首都和加冕之城，特尔纳瓦则是宗教中心。这一时代以奥斯曼战争、宗教改革与天主教反宗教改革、以及匈牙利贵族一连串反哈布斯堡起义为特征；18世纪在玛丽亚·特蕾莎和约瑟夫二世治下则迎来复苏与改革。",
+    "ja": "1526年のモハーチでのハンガリーの敗北後、ハプスブルク家がハンガリー王位を得て、オスマン帝国がハンガリー中部を征服すると、スロバキアはハプスブルク「王領ハンガリー」の中核となった。プレスブルク（ブラチスラバ）は首都兼戴冠都市、トルナヴァは教会の中心であった。この時代はオスマンとの戦争、宗教改革とカトリックの対抗宗教改革、ハンガリー貴族による相次ぐ反ハプスブルク蜂起に彩られ、18世紀にはマリア・テレジアとヨーゼフ2世のもとで復興と改革が進んだ。"
+   }
+  },
+  {
+   "from": 1554,
+   "to": 1686,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Ottoman rule in southern Slovakia",
+    "ko": "슬로바키아 남부의 오스만 지배",
+    "zh": "奥斯曼帝国对斯洛伐克南部的统治",
+    "ja": "スロバキア南部のオスマン支配"
+   },
+   "summary": {
+    "en": "From the 1550s the Ottoman Empire held parts of southern Slovakia, taking Fiľakovo in 1554 and establishing sanjaks along the frontier. In 1663 the Ottomans captured the great fortress of Nové Zámky (Érsekújvár) and made it the seat of a new eyalet, their northernmost province in Hungary. The frontier zone suffered constant raiding until the Habsburg recapture of Nové Zámky in 1685 ended Ottoman rule.",
+    "ko": "1550년대부터 오스만 제국은 슬로바키아 남부 일부를 점령해 1554년 필라코보를 차지하고 국경을 따라 산자크를 설치했다. 1663년 오스만군은 노베 잠키(에르세크우이바르)의 거대한 요새를 함락하고 헝가리 내 가장 북쪽의 주인 새 에얄레트의 중심지로 삼았다. 국경 지대는 끊임없는 약탈에 시달렸고, 1685년 합스부르크군이 노베 잠키를 탈환하면서 오스만 지배는 끝났다.",
+    "zh": "自16世纪50年代起，奥斯曼帝国占据斯洛伐克南部部分地区，1554年攻取菲拉科沃，并沿边境设立桑贾克。1663年，奥斯曼军攻陷诺韦扎姆基（埃尔谢克乌伊瓦尔）大要塞，将其设为新行省（埃亚莱特）的首府，这是奥斯曼在匈牙利最北的行省。边境地带饱受连年劫掠，直到1685年哈布斯堡军收复诺韦扎姆基，奥斯曼统治才告终结。",
+    "ja": "1550年代からオスマン帝国はスロバキア南部の一部を支配し、1554年にフィラコヴォを奪って国境沿いにサンジャクを設けた。1663年にはノヴェー・ザームキ（エルセクウーイヴァール）の大要塞を攻略し、ハンガリーにおける最北の州となる新たなエヤレトの中心とした。国境地帯は絶え間ない略奪に苦しみ、1685年にハプスブルク軍がノヴェー・ザームキを奪回してオスマン支配は終わった。"
+   }
+  },
+  {
+   "from": 1682,
+   "to": 1685,
+   "kind": "state",
+   "qid": "Q7245120",
+   "polity": "Principality of Upper Hungary",
+   "name": {
+    "en": "Thököly's Principality of Upper Hungary",
+    "ko": "퇴쾰리의 상부 헝가리 공국",
+    "zh": "特克伊的上匈牙利公国",
+    "ja": "テケリの上部ハンガリー公国"
+   },
+   "summary": {
+    "en": "In 1682 the Ottoman sultan recognised the rebel leader Imre Thököly as Prince of Upper Hungary, a vassal state covering much of central and eastern Slovakia, with Košice as a key centre. The principality depended on Ottoman support and collapsed after the Ottoman defeat at Vienna in 1683. By 1685 imperial forces had retaken its towns, and Thököly was arrested by his Ottoman allies.",
+    "ko": "1682년 오스만 술탄은 반란 지도자 임레 퇴쾰리를 상부 헝가리 공으로 인정했다. 이 속국은 슬로바키아 중부와 동부의 상당 부분을 아울렀고 코시체가 핵심 거점이었다. 공국은 오스만의 지원에 의존했기에 1683년 오스만이 빈에서 패배한 뒤 무너졌다. 1685년까지 제국군이 그 도시들을 탈환했고, 퇴쾰리는 오스만 동맹자들에게 체포되었다.",
+    "zh": "1682年，奥斯曼苏丹承认起义领袖伊姆雷·特克伊为上匈牙利亲王。这一附庸国涵盖斯洛伐克中部和东部大部分地区，科希策是其重要中心。公国依赖奥斯曼的支持，1683年奥斯曼在维也纳战败后随即崩溃。到1685年，帝国军队已收复其各城镇，特克伊则被其奥斯曼盟友逮捕。",
+    "ja": "1682年、オスマンのスルタンは反乱指導者テケリ・イムレを上部ハンガリー公として承認した。この従属国はスロバキア中部・東部の大部分を含み、コシツェが重要な拠点であった。公国はオスマンの支援に依存していたため、1683年のウィーンでのオスマンの敗北後に崩壊した。1685年までに帝国軍がその諸都市を奪回し、テケリはオスマンの同盟者に逮捕された。"
+   }
+  },
+  {
+   "from": 1804,
+   "to": 1867,
+   "kind": "state",
+   "qid": "Q131964",
+   "polity": "Austrian Empire",
+   "name": {
+    "en": "Austrian Empire and the Slovak National Revival",
+    "ko": "오스트리아 제국과 슬로바키아 민족 부흥",
+    "zh": "奥地利帝国与斯洛伐克民族复兴",
+    "ja": "オーストリア帝国とスロバキア民族復興"
+   },
+   "summary": {
+    "en": "As part of the Kingdom of Hungary within the Austrian Empire, Slovakia experienced the rise of modern national movements. Slovak scholars and clergy such as Anton Bernolák, Ján Kollár and Ľudovít Štúr developed a literary language and national programme, which collided with growing Hungarian nationalism. In 1848–49 Slovak volunteers fought on the Habsburg side against the Hungarian revolution, and in 1863 the cultural foundation Matica slovenská was established.",
+    "ko": "오스트리아 제국 내 헝가리 왕국의 일부였던 슬로바키아에서는 근대 민족 운동이 일어났다. 안톤 베르놀라크, 얀 콜라르, 류도비트 슈투르 같은 학자와 성직자들은 문어와 민족 강령을 발전시켰으나, 이는 커져 가던 헝가리 민족주의와 충돌했다. 1848~49년 슬로바키아 의용군은 합스부르크 편에서 헝가리 혁명에 맞서 싸웠고, 1863년에는 문화 단체 마티차 슬로벤스카가 설립되었다.",
+    "zh": "作为奥地利帝国内匈牙利王国的一部分，斯洛伐克兴起了近代民族运动。安东·贝尔诺拉克、扬·科拉尔、卢多维特·什图尔等学者和神职人员发展出书面语和民族纲领，与日益高涨的匈牙利民族主义发生冲突。1848至1849年，斯洛伐克志愿军站在哈布斯堡一方对抗匈牙利革命；1863年，文化团体斯洛伐克文化协会（马蒂察）成立。",
+    "ja": "オーストリア帝国内のハンガリー王国の一部であったスロバキアでは、近代的な民族運動が興った。アントン・ベルノラーク、ヤーン・コラール、リュドヴィート・シュトゥールら学者や聖職者は文語と民族綱領を発展させたが、それは高まるハンガリー民族主義と衝突した。1848〜49年にはスロバキア義勇軍がハプスブルク側でハンガリー革命と戦い、1863年には文化団体マチツァ・スロヴェンスカーが設立された。"
+   }
+  },
+  {
+   "from": 1867,
+   "to": 1918,
+   "kind": "state",
+   "qid": "Q28513",
+   "polity": "Austria-Hungary",
+   "name": {
+    "en": "Austria-Hungary and Magyarization",
+    "ko": "오스트리아-헝가리와 마자르화",
+    "zh": "奥匈帝国与马扎尔化",
+    "ja": "オーストリア＝ハンガリーとマジャル化"
+   },
+   "summary": {
+    "en": "The Compromise of 1867 gave the Kingdom of Hungary internal autonomy within Austria-Hungary, and Budapest governments pursued a policy of Magyarization. Slovak secondary schools and Matica slovenská were closed in 1874–75, and Slovak political representation was minimal. Industrialisation began, but poverty drove hundreds of thousands of Slovaks to emigrate, especially to the United States, where émigré organisations later supported independence.",
+    "ko": "1867년 대타협으로 헝가리 왕국은 오스트리아-헝가리 안에서 내정 자치권을 얻었고, 부다페스트 정부는 마자르화 정책을 추진했다. 1874~75년 슬로바키아어 중등학교와 마티차 슬로벤스카가 폐쇄되었으며, 슬로바키아인의 정치적 대표권은 극히 미미했다. 산업화가 시작되었지만 빈곤 때문에 수십만 명의 슬로바키아인이 특히 미국으로 이민을 떠났고, 그곳의 이민 단체들은 훗날 독립을 지원했다.",
+    "zh": "1867年的《奥匈妥协》使匈牙利王国在奥匈帝国内获得内政自治，布达佩斯政府推行马扎尔化政策。1874至1875年，斯洛伐克语中学和斯洛伐克文化协会被关闭，斯洛伐克人在政治上几乎没有代表。工业化开始起步，但贫困迫使数十万斯洛伐克人移居国外，尤其是美国，那里的侨民组织后来支持了独立运动。",
+    "ja": "1867年のアウスグライヒ（妥協）によりハンガリー王国はオーストリア＝ハンガリー内で内政の自治を得て、ブダペシュト政府はマジャル化政策を進めた。1874〜75年にはスロバキア語の中等学校とマチツァ・スロヴェンスカーが閉鎖され、スロバキア人の政治的代表はごくわずかだった。工業化は始まったが、貧困のため数十万人のスロバキア人が特にアメリカへ移民し、そこでの移民団体はのちに独立を支援した。"
+   }
+  },
+  {
+   "from": 1918,
+   "to": 1938,
+   "kind": "state",
+   "qid": "Q33946",
+   "polity": "Czechoslovakia",
+   "name": {
+    "en": "First Czechoslovak Republic",
+    "ko": "체코슬로바키아 제1공화국",
+    "zh": "捷克斯洛伐克第一共和国",
+    "ja": "チェコスロバキア第一共和国"
+   },
+   "summary": {
+    "en": "In 1918 Slovakia became part of the new Czechoslovak Republic, a parliamentary democracy led by President Tomáš Garrigue Masaryk. Slovak-language schools, a university in Bratislava and a modern administration were established, though the centralised state's doctrine of a single 'Czechoslovak nation' fuelled demands for Slovak autonomy, led above all by Andrej Hlinka's Slovak People's Party. Southern Slovakia had a large Hungarian minority whose status remained contested.",
+    "ko": "1918년 슬로바키아는 토마시 가리크 마사리크 대통령이 이끄는 의회 민주주의 국가인 새 체코슬로바키아 공화국의 일부가 되었다. 슬로바키아어 학교, 브라티슬라바의 대학, 근대적 행정이 마련되었지만, 단일한 '체코슬로바키아 민족'을 내세운 중앙집권 국가의 원칙은 슬로바키아 자치 요구를 불러일으켰고, 그 선두에는 안드레이 흘린카의 슬로바키아 인민당이 있었다. 슬로바키아 남부에는 지위가 늘 논란이 된 대규모 헝가리계 소수민족이 살았다.",
+    "zh": "1918年，斯洛伐克成为由托马斯·加里格·马萨里克总统领导的议会民主制国家——新生捷克斯洛伐克共和国的一部分。斯洛伐克语学校、布拉迪斯拉发的大学和现代行政体系相继建立，但中央集权国家所奉行的单一“捷克斯洛伐克民族”理念激起了斯洛伐克自治的要求，安德烈·赫林卡的斯洛伐克人民党是其主要推动者。斯洛伐克南部生活着人数众多的匈牙利少数民族，其地位始终存在争议。",
+    "ja": "1918年、スロバキアはトマーシュ・ガリグ・マサリク大統領が率いる議会制民主国家、新生チェコスロバキア共和国の一部となった。スロバキア語の学校、ブラチスラバの大学、近代的な行政が整えられたが、単一の「チェコスロバキア民族」を掲げる中央集権国家の原則はスロバキア自治の要求を生み、その先頭にはアンドレイ・フリンカのスロバキア人民党が立った。スロバキア南部には、その地位が常に争点となった大規模なハンガリー系少数民族が暮らしていた。"
+   }
+  },
+  {
+   "from": 1938,
+   "to": 1945,
+   "kind": "state",
+   "qid": "Q154401",
+   "polity": null,
+   "name": {
+    "en": "Autonomous Slovakia and the wartime Slovak State",
+    "ko": "자치 슬로바키아와 전시 슬로바키아국",
+    "zh": "自治斯洛伐克与战时斯洛伐克国",
+    "ja": "自治スロバキアと戦時スロバキア国"
+   },
+   "summary": {
+    "en": "After the Munich Agreement, Slovakia gained autonomy in October 1938, and in March 1939, under pressure from Hitler, the Slovak Republic was proclaimed as a German client state led by Jozef Tiso and the Hlinka Slovak People's Party. The authoritarian regime fought alongside Germany against Poland and the Soviet Union and deported most of Slovakia's Jews. Resistance culminated in the Slovak National Uprising of 1944; German occupation followed until the Red Army's advance in 1945.",
+    "ko": "뮌헨 협정 이후 슬로바키아는 1938년 10월 자치를 얻었고, 1939년 3월 히틀러의 압력 아래 요제프 티소와 흘린카 슬로바키아 인민당이 이끄는 독일의 위성국 슬로바키아 공화국이 선포되었다. 권위주의 정권은 독일과 함께 폴란드와 소련을 상대로 싸웠으며 슬로바키아 유대인 대부분을 강제 이송했다. 저항은 1944년 슬로바키아 민족봉기로 절정에 달했고, 이후 1945년 붉은 군대가 진격할 때까지 독일의 점령이 이어졌다.",
+    "zh": "《慕尼黑协定》签订后，斯洛伐克于1938年10月获得自治；1939年3月，在希特勒的压力下，由约瑟夫·蒂索和赫林卡斯洛伐克人民党领导的斯洛伐克共和国宣告成立，成为德国的附庸国。这一威权政权随德国进攻波兰和苏联，并将斯洛伐克大多数犹太人驱逐出境。抵抗运动在1944年斯洛伐克民族起义中达到高潮，此后德国占领一直持续到1945年红军推进。",
+    "ja": "ミュンヘン協定後、スロバキアは1938年10月に自治を獲得し、1939年3月にはヒトラーの圧力のもと、ヨゼフ・ティソとフリンカ・スロバキア人民党が率いるドイツの従属国スロバキア共和国が宣言された。権威主義体制はドイツとともにポーランドとソ連に対して戦い、スロバキアのユダヤ人の大半を強制移送した。抵抗は1944年のスロバキア国民蜂起で頂点に達し、その後1945年の赤軍の進撃までドイツの占領が続いた。"
+   }
+  },
+  {
+   "from": 1938,
+   "to": 1945,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Hungarian annexation of southern Slovakia",
+    "ko": "헝가리의 슬로바키아 남부 병합",
+    "zh": "匈牙利吞并斯洛伐克南部",
+    "ja": "ハンガリーによるスロバキア南部の併合"
+   },
+   "summary": {
+    "en": "The First Vienna Award of November 1938, issued by Germany and Italy, transferred southern Slovakia, including Košice, Komárno and Nové Zámky, to Hungary, and in March 1939 Hungary seized further land in the east. These areas, home to a Hungarian majority but also many Slovaks, remained under Hungarian rule until 1945, when the pre-1938 borders were restored. Their Jewish inhabitants were deported in 1944 after the German occupation of Hungary.",
+    "ko": "1938년 11월 독일과 이탈리아가 내린 제1차 빈 중재로 코시체·코마르노·노베 잠키를 포함한 슬로바키아 남부가 헝가리에 넘어갔고, 1939년 3월 헝가리는 동부에서 추가로 영토를 점령했다. 헝가리계가 다수였지만 슬로바키아인도 많이 살던 이 지역은 1945년 1938년 이전 국경이 회복될 때까지 헝가리의 지배를 받았다. 이 지역의 유대인 주민은 1944년 독일의 헝가리 점령 이후 강제 이송되었다.",
+    "zh": "1938年11月，德意两国作出的第一次维也纳仲裁将包括科希策、科马尔诺和诺韦扎姆基在内的斯洛伐克南部划归匈牙利；1939年3月，匈牙利又在东部攫取了更多土地。这些地区以匈牙利人居多，但也有大量斯洛伐克人，直至1945年恢复1938年前的边界前一直处于匈牙利统治之下。1944年德国占领匈牙利后，当地犹太居民遭到驱逐。",
+    "ja": "1938年11月にドイツとイタリアが下した第一次ウィーン裁定により、コシツェ、コマールノ、ノヴェー・ザームキを含むスロバキア南部がハンガリーに割譲され、1939年3月にはハンガリーが東部でさらに領土を奪った。ハンガリー系が多数を占めつつ多くのスロバキア人も住むこれらの地域は、1938年以前の国境が回復される1945年までハンガリーの支配下にあった。その地のユダヤ人住民は1944年のドイツによるハンガリー占領後に強制移送された。"
+   }
+  },
+  {
+   "from": 1945,
+   "to": 1989,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Restored and Communist Czechoslovakia",
+    "ko": "재건 및 공산주의 체코슬로바키아",
+    "zh": "重建与共产主义时期的捷克斯洛伐克",
+    "ja": "再建と共産主義のチェコスロバキア"
+   },
+   "summary": {
+    "en": "Czechoslovakia was restored in 1945, and after the Communist takeover of February 1948 it became a one-party state in the Soviet bloc. Slovakia underwent rapid industrialisation, collectivisation of agriculture and persecution of churches and political opponents. The Prague Spring of 1968, led by the Slovak Alexander Dubček, was crushed by invasion, but the 1969 federation created a Slovak Socialist Republic within Czechoslovakia; 'normalisation' then lasted until 1989.",
+    "ko": "체코슬로바키아는 1945년에 재건되었고, 1948년 2월 공산당이 권력을 장악한 뒤 소련 진영의 일당 국가가 되었다. 슬로바키아는 급속한 산업화와 농업 집단화, 교회와 정적에 대한 박해를 겪었다. 슬로바키아인 알렉산데르 둡체크가 이끈 1968년 프라하의 봄은 침공으로 짓밟혔지만, 1969년 연방제로 체코슬로바키아 안에 슬로바키아 사회주의 공화국이 세워졌다. 이후 '정상화' 체제가 1989년까지 이어졌다.",
+    "zh": "捷克斯洛伐克于1945年重建，1948年2月共产党夺权后成为苏联阵营中的一党制国家。斯洛伐克经历了快速工业化、农业集体化以及对教会和政治反对派的迫害。由斯洛伐克人亚历山大·杜布切克领导的1968年“布拉格之春”被入侵扼杀，但1969年的联邦制在捷克斯洛伐克内建立了斯洛伐克社会主义共和国；此后“正常化”体制一直延续到1989年。",
+    "ja": "チェコスロバキアは1945年に再建され、1948年2月の共産党による権力掌握後、ソ連圏の一党制国家となった。スロバキアは急速な工業化、農業集団化、教会や政敵への迫害を経験した。スロバキア人アレクサンデル・ドプチェクが率いた1968年のプラハの春は侵攻によって潰されたが、1969年の連邦化によりチェコスロバキア内にスロバキア社会主義共和国が成立した。その後「正常化」体制が1989年まで続いた。"
+   }
+  },
+  {
+   "from": 1969,
+   "to": 1992,
+   "kind": "state",
+   "qid": "Q1751495",
+   "polity": null,
+   "name": {
+    "en": "Slovak Socialist Republic",
+    "ko": "슬로바키아 사회주의 공화국",
+    "zh": "斯洛伐克社会主义共和国",
+    "ja": "スロバキア社会主義共和国"
+   },
+   "summary": {
+    "en": "Created by the federalisation law of 1968 and in force from 1 January 1969, the Slovak Socialist Republic was one of the two constituent republics of Czechoslovakia, with its own government and National Council in Bratislava. Real power remained with the Communist Party, but the federal structure gave Slovakia institutional recognition. After 1990 it was renamed the Slovak Republic within the Czech and Slovak Federative Republic.",
+    "ko": "1968년 연방화법에 따라 1969년 1월 1일 발효된 슬로바키아 사회주의 공화국은 체코슬로바키아를 구성하는 두 공화국 중 하나로, 브라티슬라바에 자체 정부와 국민의회를 두었다. 실권은 여전히 공산당에 있었지만 연방 구조는 슬로바키아에 제도적 인정을 부여했다. 1990년 이후 체코슬로바키아 연방공화국 안의 슬로바키아 공화국으로 개칭되었다.",
+    "zh": "斯洛伐克社会主义共和国依据1968年的联邦化法设立，自1969年1月1日起生效，是捷克斯洛伐克的两个组成共和国之一，在布拉迪斯拉发设有自己的政府和民族议会。实权仍掌握在共产党手中，但联邦结构使斯洛伐克获得了制度上的承认。1990年后，它更名为捷克和斯洛伐克联邦共和国内的斯洛伐克共和国。",
+    "ja": "1968年の連邦化法に基づき1969年1月1日に発足したスロバキア社会主義共和国は、チェコスロバキアを構成する二つの共和国の一つであり、ブラチスラバに独自の政府と国民評議会を置いた。実権は依然として共産党にあったが、連邦制はスロバキアに制度的な承認を与えた。1990年以降はチェコおよびスロバキア連邦共和国内のスロバキア共和国と改称された。"
+   }
+  },
+  {
+   "from": 1990,
+   "to": 1992,
+   "kind": "state",
+   "qid": "Q1998866",
+   "polity": null,
+   "name": {
+    "en": "Czech and Slovak Federative Republic",
+    "ko": "체코슬로바키아 연방공화국",
+    "zh": "捷克和斯洛伐克联邦共和国",
+    "ja": "チェコおよびスロバキア連邦共和国"
+   },
+   "summary": {
+    "en": "After the Velvet Revolution, the country was renamed the Czech and Slovak Federative Republic in April 1990 following the 'Hyphen War' over its name. Free elections in 1990 and 1992 brought democratic governments, but Czech and Slovak leaders disagreed over economic reform and the division of powers. After the 1992 elections Václav Klaus and Vladimír Mečiar agreed to dissolve the federation peacefully at the end of 1992.",
+    "ko": "벨벳 혁명 이후 국호를 둘러싼 '하이픈 전쟁'을 거쳐 1990년 4월 나라 이름이 체코슬로바키아 연방공화국으로 바뀌었다. 1990년과 1992년 자유선거로 민주 정부가 들어섰지만, 체코와 슬로바키아 지도자들은 경제 개혁과 권한 배분을 놓고 의견이 엇갈렸다. 1992년 선거 후 바츨라프 클라우스와 블라디미르 메치아르는 1992년 말 연방을 평화적으로 해체하기로 합의했다.",
+    "zh": "天鹅绒革命后，经过围绕国名的“连字符之争”，国家于1990年4月更名为捷克和斯洛伐克联邦共和国。1990年和1992年的自由选举产生了民主政府，但捷克和斯洛伐克领导人在经济改革与权力划分上存在分歧。1992年选举后，瓦茨拉夫·克劳斯与弗拉基米尔·梅恰尔商定于1992年底和平解散联邦。",
+    "ja": "ビロード革命後、国名をめぐる「ハイフン戦争」を経て、1990年4月に国名はチェコおよびスロバキア連邦共和国と改められた。1990年と1992年の自由選挙で民主的な政府が成立したが、チェコとスロバキアの指導者は経済改革と権限配分をめぐって対立した。1992年の選挙後、ヴァーツラフ・クラウスとウラジミール・メチアルは1992年末に連邦を平和的に解体することで合意した。"
+   }
+  },
+  {
+   "from": 1993,
+   "to": 2026,
+   "kind": "state",
+   "qid": null,
+   "polity": "Slovakia",
+   "name": {
+    "en": "Slovak Republic",
+    "ko": "슬로바키아 공화국",
+    "zh": "斯洛伐克共和国",
+    "ja": "スロバキア共和国"
+   },
+   "summary": {
+    "en": "Independent since 1 January 1993, the Slovak Republic is a parliamentary democracy with Bratislava as its capital. After an initial period of political tension under Vladimír Mečiar, it carried out market reforms, joined NATO and the European Union in 2004 and adopted the euro in 2009, becoming a major car-producing economy. Politics in recent years has been marked by polarisation, the 2018 murder of journalist Ján Kuciak and the 2024 assassination attempt on Prime Minister Robert Fico.",
+    "ko": "1993년 1월 1일 독립한 슬로바키아 공화국은 브라티슬라바를 수도로 하는 의회 민주주의 국가다. 블라디미르 메치아르 집권기의 정치적 긴장을 거친 뒤 시장 개혁을 단행해 2004년 NATO와 유럽연합에 가입하고 2009년 유로화를 도입했으며, 주요 자동차 생산국으로 성장했다. 최근의 정치는 양극화, 2018년 언론인 얀 쿠치악 살해 사건, 2024년 로베르트 피초 총리 암살 미수 사건으로 특징지어진다.",
+    "zh": "斯洛伐克共和国自1993年1月1日起独立，是以布拉迪斯拉发为首都的议会民主制国家。经历弗拉基米尔·梅恰尔执政初期的政治紧张后，该国推行市场改革，于2004年加入北约和欧盟，2009年采用欧元，成长为重要的汽车生产国。近年的政治以两极分化、2018年记者扬·库恰克遇害案以及2024年总理罗伯特·菲佐遇刺未遂案为特征。",
+    "ja": "1993年1月1日に独立したスロバキア共和国は、ブラチスラバを首都とする議会制民主主義国家である。ウラジミール・メチアル政権期の政治的緊張を経て市場改革を進め、2004年にNATOと欧州連合に加盟し、2009年にユーロを導入して、主要な自動車生産国となった。近年の政治は分極化、2018年のジャーナリスト、ヤーン・クツィアク殺害事件、2024年のロベルト・フィツォ首相暗殺未遂事件によって特徴づけられる。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2800,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Baden culture and early copper working (c. 3500–2800 BC)",
+    "ko": "바덴 문화와 초기 구리 가공(기원전 3500~2800년경)",
+    "zh": "巴登文化与早期铜器加工（约公元前3500—前2800年）",
+    "ja": "バーデン文化と初期の銅加工（前3500〜前2800年頃）"
+   },
+   "description": {
+    "en": "In the late 4th and early 3rd millennium BC the Baden culture spread across south-western Slovakia and the wider Danube basin. Its people used copper objects, kept cattle that may have pulled carts, and made distinctive channelled pottery. The culture marks the Eneolithic transition towards the metal-using societies of the Bronze Age.",
+    "ko": "기원전 4천년기 말에서 3천년기 초에 바덴 문화가 슬로바키아 남서부와 다뉴브 분지 일대에 퍼졌다. 이 문화의 사람들은 구리 제품을 쓰고, 수레를 끌었을 것으로 보이는 소를 길렀으며, 홈무늬가 있는 독특한 토기를 만들었다. 이 문화는 청동기시대 금속 사용 사회로 넘어가는 동석기의 전환을 보여 준다.",
+    "zh": "公元前4千纪末至前3千纪初，巴登文化遍布斯洛伐克西南部及更广阔的多瑙河盆地。其居民使用铜器，饲养可能用于拉车的牛，并制作带有沟槽纹的独特陶器。这一文化标志着铜石并用时代向青铜时代用金属社会的过渡。",
+    "ja": "前4千年紀末から前3千年紀初めにかけて、バーデン文化がスロバキア南西部とドナウ盆地一帯に広がった。その人々は銅製品を用い、荷車を引いたとみられる牛を飼い、溝文様の独特な土器を作った。この文化は銅石器時代から青銅器時代の金属使用社会への移行を示している。"
+   }
+  },
+  {
+   "year": -1700,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Fortified Otomani settlements (c. 1700 BC)",
+    "ko": "오토마니 문화의 요새화된 취락(기원전 1700년경)",
+    "zh": "奥托马尼文化设防聚落（约公元前1700年）",
+    "ja": "オトマニ文化の要塞集落（前1700年頃）"
+   },
+   "description": {
+    "en": "During the Early and Middle Bronze Age, the Otomani culture in eastern Slovakia built fortified settlements such as Spišský Štvrtok and Barca near Košice, with stone walls, ditches and densely packed houses. These sites have yielded bronze and gold objects that suggest contacts with the Mycenaean world. They are among the most important Bronze Age fortifications in Central Europe.",
+    "ko": "청동기시대 전기와 중기에 슬로바키아 동부의 오토마니 문화는 스피슈스키 슈트브르토크와 코시체 인근 바르차 같은 요새화된 취락을 세웠는데, 돌 성벽과 해자, 빽빽하게 들어선 가옥을 갖추었다. 이곳들에서는 미케네 세계와의 접촉을 시사하는 청동기와 금제품이 출토되었다. 중부 유럽에서 가장 중요한 청동기시대 요새 유적에 속한다.",
+    "zh": "青铜时代早期和中期，斯洛伐克东部的奥托马尼文化修建了斯皮什斯基什特夫尔托克、科希策附近的巴尔察等设防聚落，筑有石墙、壕沟和密集的房屋。这些遗址出土的青铜器和金器显示出与迈锡尼世界的联系。它们是中欧最重要的青铜时代防御工事之一。",
+    "ja": "青銅器時代前期から中期にかけて、スロバキア東部のオトマニ文化はスピシュスキー・シュトヴルトクやコシツェ近郊のバルツァなどの要塞集落を築き、石の城壁や堀、密集した家屋を備えた。これらの遺跡からはミケーネ世界との接触をうかがわせる青銅器や金製品が出土している。中欧で最も重要な青銅器時代の要塞遺跡の一つである。"
+   }
+  },
+  {
+   "year": -1200,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Urnfield and Lusatian cultures (c. 1200 BC)",
+    "ko": "언필드·루사티아 문화(기원전 1200년경)",
+    "zh": "骨灰瓮文化与卢萨蒂亚文化（约公元前1200年）",
+    "ja": "骨壺墓地文化とルサチア文化（前1200年頃）"
+   },
+   "description": {
+    "en": "In the Late Bronze Age cremation burial in urns became the norm across Slovakia. The Lusatian culture occupied the northern valleys, the Velatice and Čaka cultures the southwest, and the Piliny and Kyjatice cultures the south-centre. Large hoards of bronze tools, weapons and ornaments testify to flourishing metallurgy based partly on local copper ores.",
+    "ko": "청동기시대 후기에는 항아리에 화장한 유골을 묻는 방식이 슬로바키아 전역의 일반적 장례가 되었다. 북부 골짜기에는 루사티아 문화, 남서부에는 벨라티체·차카 문화, 중남부에는 필리니·키야티체 문화가 자리 잡았다. 청동 도구·무기·장신구의 대규모 매장물은 일부 현지 구리 광석에 기반한 금속 생산의 번영을 증언한다.",
+    "zh": "青铜时代晚期，将骨灰装入陶瓮安葬成为斯洛伐克各地的通行葬俗。北部河谷分布着卢萨蒂亚文化，西南部为韦拉蒂采文化和恰卡文化，中南部则为皮利尼文化和基亚蒂采文化。大量青铜工具、武器和饰品窖藏证明了部分依托本地铜矿的冶金业之繁荣。",
+    "ja": "青銅器時代後期には、火葬骨を壺に納める埋葬がスロバキア全域で一般的となった。北部の谷にはルサチア文化、南西部にはヴェラチツェ文化とチャカ文化、中南部にはピリニ文化とキヤティツェ文化が分布した。青銅製の道具・武器・装身具の大量の埋納遺物は、一部は地元の銅鉱石に基づく冶金の繁栄を物語っている。"
+   }
+  },
+  {
+   "year": -600,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Destruction of the Smolenice-Molpír hillfort (6th century BC)",
+    "ko": "스몰레니체-몰피르 언덕 요새의 파괴(기원전 6세기)",
+    "zh": "斯莫莱尼采-莫尔皮尔山堡被毁（公元前6世纪）",
+    "ja": "スモレニツェ＝モルピール丘上要塞の破壊（前6世紀）"
+   },
+   "description": {
+    "en": "The Hallstatt-period hillfort of Smolenice-Molpír in the Little Carpathians, one of the largest fortified centres of the eastern Hallstatt world, was violently destroyed in the 6th century BC. Hundreds of arrowheads of an eastern, Scythian type were found in its ruins, suggesting an attack by mounted warriors from the steppe. The site was not rebuilt on the same scale.",
+    "ko": "작은 카르파티아산맥에 있던 할슈타트 시대의 스몰레니체-몰피르 언덕 요새는 동부 할슈타트 세계에서 가장 큰 요새 중심지 가운데 하나였으나 기원전 6세기에 폭력적으로 파괴되었다. 폐허에서는 스키타이 계통의 동방식 화살촉 수백 개가 발견되어 초원 지대 기마 전사들의 공격을 시사한다. 이곳은 같은 규모로 재건되지 않았다.",
+    "zh": "位于小喀尔巴阡山的哈尔施塔特时期斯莫莱尼采-莫尔皮尔山堡，是东哈尔施塔特世界最大的设防中心之一，于公元前6世纪遭暴力摧毁。废墟中发现了数百枚东方斯基泰类型的箭镞，表明可能遭到来自草原的骑马武士袭击。此后该地未再以同等规模重建。",
+    "ja": "小カルパチア山脈にあったハルシュタット期のスモレニツェ＝モルピール丘上要塞は、東ハルシュタット世界で最大級の要塞拠点だったが、前6世紀に暴力的に破壊された。廃墟からはスキタイ系の東方型の鏃が数百点見つかっており、草原の騎馬戦士による攻撃を示唆している。この地が同じ規模で再建されることはなかった。"
+   }
+  },
+  {
+   "year": -400,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Arrival of the Celts (c. 4th century BC)",
+    "ko": "켈트인의 도래(기원전 4세기경)",
+    "zh": "凯尔特人到来（约公元前4世纪）",
+    "ja": "ケルト人の到来（前4世紀頃）"
+   },
+   "description": {
+    "en": "From around the 4th century BC Celtic groups expanded into the Danube lowlands of south-western Slovakia, bringing La Tène material culture. Their cemeteries, such as those near Bratislava and Nitra, contain warrior graves with iron swords and brooches. Celtic craftsmanship, especially in iron and pottery made on the wheel, spread throughout the region.",
+    "ko": "기원전 4세기 무렵부터 켈트계 집단이 슬로바키아 남서부 다뉴브 저지대로 진출해 라텐 물질문화를 가져왔다. 브라티슬라바와 니트라 인근 등지의 묘역에는 철검과 브로치를 부장한 전사 무덤이 있다. 특히 철기와 물레로 만든 토기 등 켈트의 수공예 기술이 지역 전역으로 퍼졌다.",
+    "zh": "约从公元前4世纪起，凯尔特群体扩展到斯洛伐克西南部的多瑙河低地，带来了拉坦诺物质文化。布拉迪斯拉发和尼特拉附近等地的墓地中有随葬铁剑和扣针的武士墓。凯尔特人的工艺，尤其是铁器和轮制陶器，在整个地区传播开来。",
+    "ja": "前4世紀頃からケルト系集団がスロバキア南西部のドナウ低地に進出し、ラ・テーヌの物質文化をもたらした。ブラチスラバやニトラ近郊などの墓地には、鉄剣やブローチを副葬した戦士の墓がある。とりわけ鉄器とろくろ成形の土器などケルトの工芸技術が地域全体に広まった。"
+   }
+  },
+  {
+   "year": -100,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Bratislava oppidum and Biatec coins (1st century BC)",
+    "ko": "브라티슬라바 오피둠과 비아테크 주화(기원전 1세기)",
+    "zh": "布拉迪斯拉发奥皮杜姆与比亚特克钱币（公元前1世纪）",
+    "ja": "ブラチスラバのオッピドゥムとビアテク貨（前1世紀）"
+   },
+   "description": {
+    "en": "In the 1st century BC the Boii established a fortified proto-urban centre, an oppidum, on Bratislava's castle hill and in the old town area. Its mint produced large silver tetradrachms bearing Latin-letter names such as BIATEC and NONNOS, among the earliest inscriptions on Slovak soil. A Biatec coin was depicted on the modern Slovak five-crown coin.",
+    "ko": "기원전 1세기 보이족은 브라티슬라바 성 언덕과 구시가지 일대에 요새화된 원시 도시, 즉 오피둠을 세웠다. 이곳의 조폐소는 BIATEC, NONNOS 같은 라틴 문자 이름이 새겨진 대형 테트라드라크마 은화를 주조했는데, 이는 슬로바키아 땅에서 나온 가장 이른 명문에 속한다. 비아테크 주화는 근대 슬로바키아의 5코루나 동전에 새겨졌다.",
+    "zh": "公元前1世纪，波伊人在布拉迪斯拉发城堡山和老城一带建立了设防的原始城市——奥皮杜姆。其铸币作坊铸造带有BIATEC、NONNOS等拉丁字母名字的大型四德拉克马银币，这是斯洛伐克土地上最早的铭文之一。比亚特克钱币图案后来被用于现代斯洛伐克的5克朗硬币。",
+    "ja": "前1世紀、ボイイ族はブラチスラバ城の丘と旧市街一帯に要塞化された原始都市オッピドゥムを築いた。その造幣所はBIATECやNONNOSなどラテン文字の名を刻んだ大型のテトラドラクマ銀貨を鋳造し、これはスロバキアの地で最も古い銘文の一つである。ビアテク貨の図柄は近代スロバキアの5コルナ硬貨に用いられた。"
+   }
+  },
+  {
+   "year": -50,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Dacian defeat of the Boii (c. mid-1st century BC)",
+    "ko": "다키아인의 보이족 격파(기원전 1세기 중반경)",
+    "zh": "达契亚人击败波伊人（约公元前1世纪中叶）",
+    "ja": "ダキア人によるボイイ族の撃破（前1世紀半ば頃）"
+   },
+   "description": {
+    "en": "Around the middle of the 1st century BC the Dacian king Burebista defeated the Boii and their allies in the middle Danube region, according to Strabo. The Bratislava oppidum declined in the following decades, and Celtic power in south-western Slovakia faded. The region was soon drawn into the orbit of Rome and of Germanic peoples moving in from the north and west.",
+    "ko": "스트라본에 따르면 기원전 1세기 중반 무렵 다키아 왕 부레비스타가 다뉴브 중류 지역에서 보이족과 그 동맹을 격파했다. 이후 수십 년 동안 브라티슬라바 오피둠은 쇠퇴했고 슬로바키아 남서부의 켈트 세력도 약해졌다. 이 지역은 곧 로마와 북쪽·서쪽에서 들어온 게르만 민족의 영향권으로 끌려 들어갔다.",
+    "zh": "据斯特拉波记载，约公元前1世纪中叶，达契亚国王布雷比斯塔在多瑙河中游地区击败了波伊人及其盟友。此后数十年间，布拉迪斯拉发奥皮杜姆逐渐衰落，凯尔特人在斯洛伐克西南部的势力也随之消退。该地区很快被卷入罗马以及从北方和西方迁入的日耳曼民族的势力范围。",
+    "ja": "ストラボンによれば、前1世紀半ば頃、ダキア王ブレビスタがドナウ中流域でボイイ族とその同盟者を破った。その後数十年でブラチスラバのオッピドゥムは衰退し、スロバキア南西部のケルト勢力も弱まった。この地域はまもなく、ローマと北・西から移ってきたゲルマン系民族の勢力圏に引き込まれた。"
+   }
+  },
+  {
+   "year": 20,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Kingdom of Vannius among the Quadi (c. AD 20)",
+    "ko": "콰디족의 반니우스 왕국(기원후 20년경)",
+    "zh": "夸迪人的万尼乌斯王国（约公元20年）",
+    "ja": "クアディ族のウァンニウス王国（20年頃）"
+   },
+   "description": {
+    "en": "Around AD 20 the Romans installed Vannius, a prince of the Quadi, as client king over Germanic groups settled north of the Danube, in what is now south-western Slovakia and southern Moravia. Tacitus describes his long rule and his fall around AD 50, after which the kingdom was divided between his nephews. It was the first state in the region known from written sources.",
+    "ko": "기원후 20년 무렵 로마는 콰디족의 왕족 반니우스를 오늘날의 슬로바키아 남서부와 모라바 남부에 해당하는 다뉴브강 북쪽 게르만 집단의 피보호 왕으로 세웠다. 타키투스는 그의 오랜 통치와 50년 무렵의 몰락을 기록했으며, 이후 왕국은 그의 조카들에게 나뉘었다. 이는 문헌으로 알려진 이 지역 최초의 국가다.",
+    "zh": "约公元20年，罗马人立夸迪人王子万尼乌斯为多瑙河以北日耳曼群体的附庸国王，其地即今斯洛伐克西南部和摩拉维亚南部。塔西佗记述了他的长期统治以及约公元50年的倒台，此后王国被其外甥们瓜分。这是该地区见于文字记载的第一个国家。",
+    "ja": "20年頃、ローマはクアディ族の王族ウァンニウスを、現在のスロバキア南西部とモラヴィア南部にあたるドナウ北岸のゲルマン系集団の従属王に据えた。タキトゥスは彼の長い統治と50年頃の失脚を記しており、その後王国は甥たちに分割された。これは文献で知られるこの地域最初の国家である。"
+   }
+  },
+  {
+   "year": 172,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Marcus Aurelius writes 'among the Quadi on the Granua' (c. 172)",
+    "ko": "마르쿠스 아우렐리우스, '그라누아강 가 콰디족 땅에서' 집필(172년경)",
+    "zh": "马可·奥勒留“写于格拉努阿河畔夸迪人之地”（约172年）",
+    "ja": "マルクス・アウレリウス「グラヌア河畔クアディ族の地にて」（172年頃）"
+   },
+   "description": {
+    "en": "During the Marcomannic Wars, Emperor Marcus Aurelius campaigned north of the Danube against the Quadi and Marcomanni. The first book of his Meditations ends with the note that it was written 'among the Quadi on the Granua', generally identified with the Hron river in Slovakia. The wars brought Roman armies deep into the region and ended Quadian independence for a time.",
+    "ko": "마르코만니 전쟁 중 마르쿠스 아우렐리우스 황제는 다뉴브강 북쪽에서 콰디족과 마르코만니족을 상대로 원정했다. 그의 『명상록』 제1권은 '그라누아강 가 콰디족 땅에서' 썼다는 문구로 끝나는데, 그라누아는 일반적으로 슬로바키아의 흐론강으로 여겨진다. 이 전쟁으로 로마군은 이 지역 깊숙이 들어왔고 콰디족의 독립은 한동안 끝났다.",
+    "zh": "马科曼尼战争期间，皇帝马可·奥勒留在多瑙河以北征讨夸迪人和马科曼尼人。他的《沉思录》第一卷末注明写于“格拉努阿河畔夸迪人之地”，格拉努阿通常被认为即斯洛伐克的赫龙河。这场战争使罗马军队深入该地区，夸迪人的独立一度终结。",
+    "ja": "マルコマンニ戦争の間、皇帝マルクス・アウレリウスはドナウ北岸でクアディ族とマルコマンニ族に対して遠征した。『自省録』第1巻の末尾には「グラヌア河畔、クアディ族の地にて」記したとあり、グラヌアは一般にスロバキアのフロン川とされる。この戦争でローマ軍はこの地域の奥深くまで入り、クアディ族の独立は一時失われた。"
+   }
+  },
+  {
+   "year": 179,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Roman inscription at Laugaricio (Trenčín)",
+    "ko": "라우가리키오(트렌친)의 로마 비문",
+    "zh": "劳加里奇奥（特伦钦）罗马铭文",
+    "ja": "ラウガリキオ（トレンチーン）のローマ碑文"
+   },
+   "description": {
+    "en": "In 179 soldiers of the Second Legion wintering at Laugaricio carved a victory inscription into the rock beneath what is now Trenčín Castle. Recording 855 soldiers of the legion, it is the northernmost known evidence of a Roman military presence in Central Europe. It remains one of the most important monuments of Roman history in Slovakia.",
+    "ko": "179년 라우가리키오에서 겨울을 나던 제2군단 병사들이 오늘날 트렌친 성 아래 바위에 승전 비문을 새겼다. 군단 병사 855명을 기록한 이 비문은 중부 유럽에서 로마 군대가 주둔했음을 보여 주는 가장 북쪽의 증거로 알려져 있다. 슬로바키아 로마사의 가장 중요한 기념물 가운데 하나다.",
+    "zh": "179年，在劳加里奇奥过冬的第二军团士兵在今特伦钦城堡下方的岩石上刻下胜利铭文。铭文记载了该军团855名士兵，是已知罗马军队在中欧驻扎的最北证据。它至今仍是斯洛伐克罗马史上最重要的遗迹之一。",
+    "ja": "179年、ラウガリキオで越冬していた第2軍団の兵士たちが、現在のトレンチーン城の下の岩に戦勝碑文を刻んだ。軍団兵855人を記したこの碑文は、中欧におけるローマ軍の駐留を示す最北の証拠として知られる。スロバキアにおけるローマ史の最も重要な記念物の一つである。"
+   }
+  },
+  {
+   "year": 375,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Valentinian I dies facing Quadian envoys",
+    "ko": "발렌티니아누스 1세, 콰디족 사절 앞에서 사망",
+    "zh": "瓦伦提尼安一世在夸迪使节面前猝死",
+    "ja": "ウァレンティニアヌス1世、クアディ族使節の前で急死"
+   },
+   "description": {
+    "en": "After the Quadi raided Pannonia in 374, Emperor Valentinian I campaigned against them across the Danube. In November 375, while receiving Quadian envoys at Brigetio, opposite present-day Iža in Slovakia, he flew into a rage and died, apparently of a stroke. Soon after, the arrival of the Huns transformed the region.",
+    "ko": "374년 콰디족이 판노니아를 약탈하자 발렌티니아누스 1세 황제는 다뉴브강을 건너 그들을 공격했다. 375년 11월 오늘날 슬로바키아 이자의 맞은편 브리게티오에서 콰디족 사절을 접견하던 그는 격노한 끝에 뇌졸중으로 보이는 발작으로 사망했다. 곧이어 훈족의 도래가 이 지역을 뒤바꾸었다.",
+    "zh": "374年夸迪人侵掠潘诺尼亚后，皇帝瓦伦提尼安一世渡过多瑙河讨伐他们。375年11月，他在与今斯洛伐克伊扎隔河相对的布里格提奥接见夸迪使节时勃然大怒，随即猝死，似为中风所致。不久，匈人的到来彻底改变了这一地区。",
+    "ja": "374年にクアディ族がパンノニアを略奪すると、皇帝ウァレンティニアヌス1世はドナウ川を越えて彼らを攻撃した。375年11月、現在のスロバキアのイジャの対岸にあるブリゲティオでクアディ族の使節を引見していた際、激昂して脳卒中とみられる発作で急死した。まもなくフン族の到来がこの地域を一変させた。"
+   }
+  },
+  {
+   "year": 568,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Lombards depart, Avars arrive; Slavic settlement",
+    "ko": "랑고바르드족의 이주와 아바르의 도래, 슬라브인 정착",
+    "zh": "伦巴第人离去、阿瓦尔人到来与斯拉夫人定居",
+    "ja": "ランゴバルド族の移動、アヴァールの到来とスラヴ人の定住"
+   },
+   "description": {
+    "en": "In 568 the Lombards, who had dominated the middle Danube, left for Italy, and the nomadic Avars established a khaganate in the Carpathian Basin. Slavic communities, who had begun settling Slovakia during the 6th century, spread through the river valleys under or alongside Avar rule. The Slavs of this period are the ancestors of the Slovaks.",
+    "ko": "568년 다뉴브 중류를 지배하던 랑고바르드족이 이탈리아로 떠나고, 유목민 아바르가 카르파티아 분지에 카간국을 세웠다. 6세기 동안 슬로바키아에 정착하기 시작한 슬라브인 공동체는 아바르의 지배 아래 또는 그와 나란히 강 유역을 따라 퍼져 나갔다. 이 시기의 슬라브인이 슬로바키아인의 조상이다.",
+    "zh": "568年，曾称雄多瑙河中游的伦巴第人迁往意大利，游牧的阿瓦尔人在喀尔巴阡盆地建立汗国。自6世纪开始定居斯洛伐克的斯拉夫社群，在阿瓦尔人统治下或与之并存，沿河谷扩散开来。这一时期的斯拉夫人就是斯洛伐克人的祖先。",
+    "ja": "568年、ドナウ中流域を支配していたランゴバルド族がイタリアへ去り、遊牧民アヴァールがカルパチア盆地にカガン国を建てた。6世紀にスロバキアへ定住し始めたスラヴ人の共同体は、アヴァールの支配下で、あるいはそれと並存しつつ川の流域に沿って広がった。この時代のスラヴ人がスロバキア人の祖先である。"
+   }
+  },
+  {
+   "year": 623,
+   "qid": "Q149427",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Samo leads the Slavs against the Avars",
+    "ko": "사모, 슬라브인을 이끌고 아바르에 맞서다",
+    "zh": "萨莫率斯拉夫人反抗阿瓦尔人",
+    "ja": "サモ、スラヴ人を率いてアヴァールに対抗"
+   },
+   "description": {
+    "en": "According to the Chronicle of Fredegar, around 623 the Frankish merchant Samo joined a Slavic revolt against the Avars and was chosen as king for his valour. He ruled for 35 years, had twelve Slavic wives and many children. Samo's realm is regarded as the first known political union of the western Slavs, though its location is debated.",
+    "ko": "『프레데가르 연대기』에 따르면 623년 무렵 프랑크 상인 사모는 아바르에 대한 슬라브인의 봉기에 가담해 그 용맹함으로 왕에 추대되었다. 그는 35년간 다스렸으며 12명의 슬라브인 아내와 많은 자녀를 두었다. 사모의 왕국은 서슬라브인 최초의 정치적 연합으로 여겨지지만 그 위치는 논란이 있다.",
+    "zh": "据《弗雷德加编年史》记载，约623年，法兰克商人萨莫加入斯拉夫人反抗阿瓦尔人的起义，因其勇武被推举为王。他统治了35年，娶有12位斯拉夫妻子，子女众多。萨莫的王国被视为西斯拉夫人已知的第一个政治联合体，但其具体位置仍有争议。",
+    "ja": "『フレデガリウス年代記』によれば、623年頃フランク商人サモはアヴァールに対するスラヴ人の反乱に加わり、その勇敢さから王に選ばれた。彼は35年間統治し、12人のスラヴ人の妻と多くの子をもうけた。サモの王国は西スラヴ人の知られる限り最初の政治的連合とされるが、その所在地には議論がある。"
+   }
+  },
+  {
+   "year": 631,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Wogastisburg",
+    "ko": "보가스티스부르크 전투",
+    "zh": "沃加斯蒂斯堡战役",
+    "ja": "ヴォガスティスブルクの戦い"
+   },
+   "description": {
+    "en": "In 631, after Frankish merchants were killed in Samo's lands, King Dagobert I sent armies against the Slavs. At the fortress of Wogastisburg, whose location is unknown, Samo's forces defeated the main Frankish army in a three-day battle. The victory secured the independence of Samo's realm for the rest of his life.",
+    "ko": "631년 사모의 영토에서 프랑크 상인들이 살해되자 다고베르트 1세 왕은 슬라브인을 치기 위해 군대를 보냈다. 위치가 알려지지 않은 보가스티스부르크 요새에서 사모의 군대는 사흘간의 전투 끝에 프랑크 주력군을 격파했다. 이 승리로 사모의 왕국은 그의 생전 내내 독립을 지켰다.",
+    "zh": "631年，因法兰克商人在萨莫领地内被杀，国王达戈贝尔特一世派兵讨伐斯拉夫人。在位置不明的沃加斯蒂斯堡要塞，萨莫的军队经过三天激战击败了法兰克主力。这场胜利确保了萨莫王国在其有生之年的独立。",
+    "ja": "631年、サモの領内でフランク商人が殺害されると、ダゴベルト1世はスラヴ人に対して軍を送った。所在地不明のヴォガスティスブルク要塞で、サモの軍は3日間の戦いの末にフランクの主力軍を破った。この勝利によりサモの王国は彼の存命中独立を保った。"
+   }
+  },
+  {
+   "year": 796,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Frankish campaigns break Avar power",
+    "ko": "프랑크의 원정과 아바르 세력의 붕괴",
+    "zh": "法兰克远征摧毁阿瓦尔势力",
+    "ja": "フランクの遠征とアヴァール勢力の崩壊"
+   },
+   "description": {
+    "en": "In the 790s Charlemagne's armies attacked the Avar Khaganate, and in 796 they captured and plundered the Avar 'Ring', the khagan's central stronghold. The collapse of Avar power left a vacuum in the middle Danube region. Slavic principalities, including the one centred on Nitra, rose in its place.",
+    "ko": "790년대에 카롤루스 대제의 군대는 아바르 카간국을 공격했고, 796년에는 카간의 중심 요새인 아바르의 '링'을 점령해 약탈했다. 아바르 세력의 붕괴는 다뉴브 중류 지역에 권력 공백을 남겼다. 그 자리에 니트라를 중심으로 한 공국을 비롯한 슬라브 공국들이 일어섰다.",
+    "zh": "8世纪90年代，查理曼的军队进攻阿瓦尔汗国，796年攻陷并洗劫了可汗的中枢要塞——阿瓦尔“环城”。阿瓦尔势力的崩溃在多瑙河中游留下了权力真空，包括以尼特拉为中心的公国在内的斯拉夫诸公国随之兴起。",
+    "ja": "790年代、カール大帝の軍はアヴァール・カガン国を攻撃し、796年にはカガンの中枢要塞であるアヴァールの「リング」を攻略して略奪した。アヴァール勢力の崩壊はドナウ中流域に力の空白を生み、そこにニトラを中心とする公国をはじめとするスラヴ人の諸公国が興った。"
+   }
+  },
+  {
+   "year": 828,
+   "qid": "Q837326",
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Pribina's church in Nitra (c. 828)",
+    "ko": "프리비나의 니트라 교회(828년경)",
+    "zh": "普里比纳的尼特拉教堂（约828年）",
+    "ja": "プリビナのニトラ教会（828年頃）"
+   },
+   "description": {
+    "en": "According to the Conversio Bagoariorum et Carantanorum, Archbishop Adalram of Salzburg consecrated a church on Pribina's estate at Nitra around 828. Pribina himself was not yet baptised, but the church is the earliest documented Christian church among the western and southern Slavs. Nitra later became the seat of the first bishopric on Slovak territory.",
+    "ko": "『바이에른인과 카란타니아인의 개종』에 따르면 잘츠부르크 대주교 아달람이 828년 무렵 니트라에 있는 프리비나의 영지에 교회를 봉헌했다. 프리비나 자신은 아직 세례를 받지 않았지만, 이 교회는 서·남슬라브인 사이에서 문헌으로 확인되는 가장 이른 기독교 교회다. 니트라는 훗날 슬로바키아 땅 최초의 주교좌가 되었다.",
+    "zh": "据《巴伐利亚人与卡兰塔尼亚人皈依记》记载，萨尔茨堡大主教阿达尔拉姆约于828年在普里比纳位于尼特拉的庄园祝圣了一座教堂。普里比纳本人当时尚未受洗，但这座教堂是西斯拉夫人和南斯拉夫人中有文献记载的最早基督教教堂。尼特拉后来成为斯洛伐克土地上第一个主教座所在地。",
+    "ja": "『バイエルン人とカランタニア人の改宗』によれば、ザルツブルク大司教アダルラムが828年頃、ニトラのプリビナの所領に教会を献堂した。プリビナ自身はまだ洗礼を受けていなかったが、この教会は西スラヴ・南スラヴ人の間で文献上確認できる最古のキリスト教会である。ニトラはのちにスロバキアの地で最初の司教座となった。"
+   }
+  },
+  {
+   "year": 833,
+   "qid": "Q193152",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Rise of Great Moravia",
+    "ko": "대모라비아 왕국의 성립",
+    "zh": "大摩拉维亚国的兴起",
+    "ja": "大モラヴィア国の成立"
+   },
+   "description": {
+    "en": "Prince Mojmír I united the principalities of Moravia and Nitra, creating Great Moravia, the first major Slavic state, which encompassed the territory of today's Slovakia. The traditional date of around 833 follows the expulsion of Pribina from Nitra. Great Moravia's hillforts, such as Devín, Bratislava, Nitra and Pobedim, became centres of power, crafts and Christianisation.",
+    "ko": "모이미르 1세가 모라비아와 니트라 공국을 통합해 대모라비아 왕국을 세웠다. 최초의 주요 슬라브 국가로, 오늘날의 슬로바키아 영토를 아울렀다. 833년 무렵이라는 전통적 연대는 프리비나가 니트라에서 쫓겨난 시점에 따른 것이다. 데빈, 브라티슬라바, 니트라, 포베딤 같은 대모라비아의 성채는 권력·수공업·기독교화의 중심지가 되었다.",
+    "zh": "莫伊米尔一世统一摩拉维亚和尼特拉两公国，建立了大摩拉维亚国。这是第一个重要的斯拉夫国家，其版图涵盖今斯洛伐克全境。约833年这一传统年代以普里比纳被逐出尼特拉为依据。杰温、布拉迪斯拉发、尼特拉、波贝迪姆等大摩拉维亚的城堡成为权力、手工业和基督教化的中心。",
+    "ja": "モイミール1世がモラヴィアとニトラの両公国を統合し、大モラヴィア国を建てた。最初の有力なスラヴ国家であり、今日のスロバキアの領域を含んでいた。833年頃という伝統的な年代は、プリビナがニトラから追放された時期に基づく。デヴィーン、ブラチスラバ、ニトラ、ポベディムなど大モラヴィアの城塞は、権力・手工業・キリスト教化の中心となった。"
+   }
+  },
+  {
+   "year": 863,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Mission of Cyril and Methodius",
+    "ko": "키릴로스와 메토디오스의 선교",
+    "zh": "西里尔与美多德的传教",
+    "ja": "キュリロスとメトディオスの布教"
+   },
+   "description": {
+    "en": "The Byzantine brothers Cyril and Methodius arrived in Great Moravia, devising the Glagolitic script and introducing the Slavonic liturgy — a foundation of Slavic literacy and Christianity. Prince Rastislav had asked Emperor Michael III for teachers who could instruct his people in their own language, partly to reduce Frankish ecclesiastical influence. Their feast day, 5 July, is a public holiday in Slovakia.",
+    "ko": "비잔티움 출신 형제 키릴로스와 메토디오스가 대모라비아에 도착해 글라골 문자를 만들고 슬라브어 전례를 도입했다. 슬라브 문자 문화와 기독교의 토대가 되었다. 라스티슬라우 공은 부분적으로 프랑크 교회의 영향력을 줄이기 위해 미카엘 3세 황제에게 백성을 그들의 언어로 가르칠 교사를 요청했었다. 두 성인의 축일인 7월 5일은 슬로바키아의 공휴일이다.",
+    "zh": "拜占庭兄弟西里尔与美多德来到大摩拉维亚，创制格拉哥里字母并引入斯拉夫语礼拜仪式，为斯拉夫文字文化与基督教奠定了基础。拉斯蒂斯拉夫大公曾向皇帝米海尔三世请求派遣能用本族语言施教的导师，部分目的在于削弱法兰克教会的影响。两位圣徒的纪念日7月5日是斯洛伐克的公共假日。",
+    "ja": "ビザンツ出身の兄弟キュリロスとメトディオスが大モラヴィアに到来し、グラゴル文字を考案してスラヴ語典礼を導入した。スラヴ文字文化とキリスト教の礎となった。ラスチスラフ公は、一つにはフランク教会の影響を弱めるため、皇帝ミカエル3世に民を自らの言葉で教えられる教師を求めていた。二聖人の祝日7月5日はスロバキアの祝日である。"
+   }
+  },
+  {
+   "year": 880,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Papal bull Industriae tuae and the bishopric of Nitra",
+    "ko": "교황 칙서 '인두스트리애 투애'와 니트라 주교구",
+    "zh": "教宗诏书《你的勤勉》与尼特拉主教区",
+    "ja": "教皇勅書『インドゥストリアエ・トゥアエ』とニトラ司教区"
+   },
+   "description": {
+    "en": "In 880 Pope John VIII issued the bull Industriae tuae, confirming Methodius as archbishop of the Moravian church, approving the Slavonic liturgy and naming Wiching as bishop of Nitra. It is the first written mention of a bishopric on the territory of present-day Slovakia. The letter was addressed to Prince Svätopluk, under whom Great Moravia reached its greatest extent.",
+    "ko": "880년 교황 요한 8세는 칙서 '인두스트리애 투애'를 내려 메토디오스를 모라비아 교회의 대주교로 확인하고 슬라브어 전례를 승인했으며, 비힝을 니트라 주교로 임명했다. 이는 오늘날 슬로바키아 영토에 있던 주교구에 대한 최초의 문헌 기록이다. 이 서한은 대모라비아를 최대 영역으로 이끈 스바토플루크 공에게 보내졌다.",
+    "zh": "880年，教宗若望八世颁布诏书《你的勤勉》，确认美多德为摩拉维亚教会大主教，批准斯拉夫语礼仪，并任命维辛为尼特拉主教。这是关于今斯洛伐克境内主教区的最早文字记载。诏书致予斯瓦托普卢克大公，大摩拉维亚在其治下达到最大疆域。",
+    "ja": "880年、教皇ヨハネス8世は勅書『インドゥストリアエ・トゥアエ』を発し、メトディオスをモラヴィア教会の大司教として確認し、スラヴ語典礼を認め、ヴィヒングをニトラ司教に任じた。これは現在のスロバキア領内の司教区に関する最初の文献記録である。書簡は大モラヴィアを最大版図に導いたスヴァトプルク公に宛てられていた。"
+   }
+  },
+  {
+   "year": 885,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Death of Methodius and expulsion of his disciples",
+    "ko": "메토디오스의 죽음과 제자들의 추방",
+    "zh": "美多德去世与门徒被逐",
+    "ja": "メトディオスの死と弟子たちの追放"
+   },
+   "description": {
+    "en": "Methodius died in 885, and shortly afterwards Bishop Wiching, backed by Svätopluk and a new papal ban on the Slavonic liturgy, expelled his disciples from Great Moravia. Disciples such as Clement and Naum fled to Bulgaria, where the Slavonic literary tradition flourished and the Cyrillic script developed. In Great Moravia the Latin rite prevailed.",
+    "ko": "885년 메토디오스가 죽자, 곧이어 스바토플루크와 슬라브어 전례를 금지한 새 교황의 결정을 등에 업은 비힝 주교가 그의 제자들을 대모라비아에서 추방했다. 클레멘트와 나움 같은 제자들은 불가리아로 피신했고, 그곳에서 슬라브 문헌 전통이 꽃피며 키릴 문자가 발전했다. 대모라비아에서는 라틴 전례가 우세해졌다.",
+    "zh": "885年美多德去世，不久，得到斯瓦托普卢克支持并借助教宗禁止斯拉夫语礼仪新令的维辛主教，将其门徒逐出大摩拉维亚。克莱门特、瑙姆等门徒逃往保加利亚，斯拉夫文献传统在那里繁荣发展，西里尔字母也随之形成。大摩拉维亚则以拉丁礼仪为主。",
+    "ja": "885年にメトディオスが没すると、まもなくスヴァトプルクと、スラヴ語典礼を禁じた教皇の新たな決定を後ろ盾とするヴィヒング司教が、その弟子たちを大モラヴィアから追放した。クリメントやナウムらの弟子はブルガリアへ逃れ、そこでスラヴ語文献の伝統が花開きキリル文字が発展した。大モラヴィアではラテン典礼が優勢となった。"
+   }
+  },
+  {
+   "year": 894,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Svätopluk I",
+    "ko": "스바토플루크 1세의 죽음",
+    "zh": "斯瓦托普卢克一世去世",
+    "ja": "スヴァトプルク1世の死"
+   },
+   "description": {
+    "en": "Svätopluk I, the most powerful ruler of Great Moravia, died in 894. His realm had stretched at its height beyond Moravia and Slovakia into Bohemia, southern Poland and Pannonia. Conflict between his sons Mojmír II and Svätopluk II weakened the state just as the Magyars arrived on its borders.",
+    "ko": "대모라비아의 가장 강력한 통치자 스바토플루크 1세가 894년에 죽었다. 전성기 그의 영토는 모라바와 슬로바키아를 넘어 보헤미아, 폴란드 남부, 판노니아까지 뻗었다. 그의 아들 모이미르 2세와 스바토플루크 2세 사이의 분쟁은 마자르인이 국경에 다다른 바로 그때 국가를 약화시켰다.",
+    "zh": "大摩拉维亚最强大的统治者斯瓦托普卢克一世于894年去世。其疆域在鼎盛时期越过摩拉维亚和斯洛伐克，延伸至波希米亚、波兰南部和潘诺尼亚。他的两个儿子莫伊米尔二世与斯瓦托普卢克二世之间的争斗，恰在马扎尔人兵临边境之时削弱了国家。",
+    "ja": "大モラヴィア最強の支配者スヴァトプルク1世は894年に没した。最盛期の彼の領域はモラヴィアとスロバキアを越えてボヘミア、ポーランド南部、パンノニアにまで及んだ。息子モイミール2世とスヴァトプルク2世の争いは、マジャル人が国境に迫ったまさにその時に国家を弱体化させた。"
+   }
+  },
+  {
+   "year": 907,
+   "qid": "Q697722",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Pressburg",
+    "ko": "프레스부르크 전투",
+    "zh": "普雷斯堡之战",
+    "ja": "プレスブルクの戦い"
+   },
+   "description": {
+    "en": "In July 907 a large Bavarian army was destroyed by the Magyars near Brezalauspurc, generally identified with Bratislava. The defeat ended East Frankish attempts to control the region and coincides with the disappearance of Great Moravia from the sources. The Carpathian Basin, including southern Slovakia, passed under Magyar domination.",
+    "ko": "907년 7월 대규모 바이에른군이 일반적으로 브라티슬라바로 비정되는 브레잘라우스푸르크 부근에서 마자르인에게 궤멸되었다. 이 패배로 이 지역을 장악하려던 동프랑크의 시도는 끝났으며, 대모라비아가 사료에서 사라지는 시점과도 일치한다. 슬로바키아 남부를 포함한 카르파티아 분지는 마자르인의 지배 아래 들어갔다.",
+    "zh": "907年7月，一支庞大的巴伐利亚军队在通常被认定为布拉迪斯拉发的布雷扎劳斯普尔克附近被马扎尔人歼灭。这次失败终结了东法兰克控制该地区的企图，也与大摩拉维亚从史料中消失的时间相吻合。包括斯洛伐克南部在内的喀尔巴阡盆地落入马扎尔人的统治之下。",
+    "ja": "907年7月、大規模なバイエルン軍が、一般にブラチスラバとされるブレザラウスプルク付近でマジャル人に壊滅させられた。この敗北で東フランクによるこの地域支配の試みは終わり、大モラヴィアが史料から姿を消す時期とも一致する。スロバキア南部を含むカルパチア盆地はマジャル人の支配下に入った。"
+   }
+  },
+  {
+   "year": 1000,
+   "qid": "Q171150",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Incorporation into the Kingdom of Hungary",
+    "ko": "헝가리 왕국으로의 편입",
+    "zh": "并入匈牙利王国",
+    "ja": "ハンガリー王国への編入"
+   },
+   "description": {
+    "en": "After the fall of Great Moravia, the territory of Slovakia was gradually absorbed into the medieval Kingdom of Hungary, of which it remained part for some 900 years. Stephen I was crowned the first king of Hungary around 1000–1001 and organised the kingdom into counties and dioceses. The northern mountain regions were incorporated over the following centuries.",
+    "ko": "대모라비아 왕국이 몰락한 뒤 슬로바키아 지역은 점차 중세 헝가리 왕국에 편입되어 이후 약 900년간 그 일부로 남았다. 이슈트반 1세는 1000~1001년 무렵 헝가리 최초의 국왕으로 즉위해 왕국을 주와 교구로 조직했다. 북부 산악 지대는 이후 수세기에 걸쳐 편입되었다.",
+    "zh": "大摩拉维亚灭亡后，斯洛伐克地区逐渐并入中世纪的匈牙利王国，此后约900年一直是其组成部分。伊什特万一世约于1000至1001年加冕为匈牙利首位国王，将王国划分为州郡和教区。北部山区则在此后几个世纪中逐步并入。",
+    "ja": "大モラヴィア国の滅亡後、スロバキアの地は中世ハンガリー王国に徐々に編入され、以後およそ900年間その一部であり続けた。イシュトヴァーン1世は1000〜1001年頃ハンガリー初代国王として戴冠し、王国を県と司教区に組織した。北部の山岳地帯はその後数世紀をかけて編入された。"
+   }
+  },
+  {
+   "year": 1048,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The Ducatus: Nitra as an appanage duchy",
+    "ko": "두카투스: 니트라 분봉 공령",
+    "zh": "“公爵领”：尼特拉封邑公国",
+    "ja": "ドゥカトゥス：ニトラの分領公国"
+   },
+   "description": {
+    "en": "Around 1048 King Andrew I granted a third of the kingdom, the so-called Ducatus centred on Nitra and Bihar, to his brother Béla. For the rest of the 11th century Nitra was ruled by members of the Árpád dynasty as an appanage duchy. The arrangement fuelled dynastic conflicts until the duchy was abolished in the early 12th century.",
+    "ko": "1048년 무렵 언드라시 1세 왕은 니트라와 비하르를 중심으로 한 왕국의 3분의 1, 이른바 두카투스를 동생 벨러에게 주었다. 11세기 나머지 기간 동안 니트라는 아르파드 왕조 구성원이 분봉 공령으로 다스렸다. 이 체제는 12세기 초 공령이 폐지될 때까지 왕조 내 분쟁의 불씨가 되었다.",
+    "zh": "约1048年，国王安德烈一世将王国的三分之一，即以尼特拉和比哈尔为中心的所谓“公爵领”（Ducatus），封给其弟贝拉。11世纪余下的时间里，尼特拉一直由阿尔帕德王朝成员作为封邑公国统治。这一安排引发了王朝内部的冲突，直到12世纪初公爵领被废除。",
+    "ja": "1048年頃、アンドラーシュ1世は王国の3分の1、ニトラとビハールを中心とするいわゆるドゥカトゥスを弟ベーラに与えた。11世紀の残りの期間、ニトラはアールパード朝の成員によって分領公国として治められた。この体制は12世紀初めに公国が廃止されるまで、王朝内紛争の火種となった。"
+   }
+  },
+  {
+   "year": 1113,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Zobor Deeds",
+    "ko": "조보르 문서",
+    "zh": "佐博尔文书",
+    "ja": "ゾボル文書"
+   },
+   "description": {
+    "en": "The Zobor Deeds of 1111 and 1113, issued for the Benedictine abbey of Zobor near Nitra, are the oldest surviving written documents from the territory of Slovakia. The 1113 charter lists the abbey's estates and mentions numerous villages and the Nitra castle county. They are a key source for the settlement and administration of the region in the Árpád era.",
+    "ko": "니트라 인근 조보르의 베네딕도회 수도원을 위해 작성된 1111년과 1113년의 조보르 문서는 슬로바키아 영토에서 전해지는 가장 오래된 문서다. 1113년 문서는 수도원의 영지를 열거하며 수많은 마을과 니트라 성 관할 주를 언급한다. 이 문서들은 아르파드 시대 이 지역의 정착과 행정을 보여 주는 핵심 사료다.",
+    "zh": "1111年和1113年为尼特拉附近佐博尔本笃会修道院颁发的佐博尔文书，是斯洛伐克境内现存最古老的成文文献。1113年的特许状列出了修道院的地产，提到了众多村庄以及尼特拉城堡州。这些文书是研究阿尔帕德时代该地区聚落与行政的重要史料。",
+    "ja": "ニトラ近郊ゾボルのベネディクト会修道院のために作成された1111年と1113年のゾボル文書は、スロバキアの地に現存する最古の文書である。1113年の文書は修道院の所領を列挙し、多数の村やニトラ城県に言及している。これらはアールパード朝時代のこの地域の集落と行政を知る重要な史料である。"
+   }
+  },
+  {
+   "year": 1238,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Trnava receives royal town privileges",
+    "ko": "트르나바, 왕립 도시 특권 획득",
+    "zh": "特尔纳瓦获得王室城市特权",
+    "ja": "トルナヴァ、王立都市の特権を獲得"
+   },
+   "description": {
+    "en": "In 1238 King Béla IV granted Trnava the privileges of a free royal town, the first such charter known for a town on Slovak territory. Royal towns gained self-government, their own courts and trading rights. Many were settled by German colonists, and over the following centuries a network of chartered towns spread across the region.",
+    "ko": "1238년 벨러 4세 왕은 트르나바에 자유 왕립 도시의 특권을 부여했는데, 이는 슬로바키아 영토의 도시로서는 처음 알려진 특허장이다. 왕립 도시는 자치권, 독자적 법정, 교역 권리를 얻었다. 많은 도시에 독일인 이주민이 정착했으며, 이후 수세기 동안 특허 도시망이 지역 전역으로 확산되었다.",
+    "zh": "1238年，国王贝拉四世授予特尔纳瓦自由王室城市特权，这是已知斯洛伐克境内城市获得的首份此类特许状。王室城市享有自治权、自设法庭和贸易权。许多城市有德意志移民定居，此后几个世纪，特许城市网络遍布整个地区。",
+    "ja": "1238年、ベーラ4世はトルナヴァに自由王立都市の特権を与えた。これはスロバキアの地の都市として知られる最初の特許状である。王立都市は自治権、独自の裁判所、交易権を得た。多くの都市にドイツ人入植者が住み、その後数世紀で特許都市の網の目が地域全体に広がった。"
+   }
+  },
+  {
+   "year": 1241,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Mongol invasion",
+    "ko": "몽골의 침입",
+    "zh": "蒙古入侵",
+    "ja": "モンゴルの侵攻"
+   },
+   "description": {
+    "en": "In 1241–42 Mongol armies invaded the Kingdom of Hungary, defeating King Béla IV at Mohi and devastating much of the country, including parts of Slovakia. Stone castles such as Trenčín and Komárno resisted, and after the withdrawal Béla IV promoted the building of stone fortresses and invited colonists to repopulate the land. The invasion thus accelerated the growth of castles and towns.",
+    "ko": "1241~42년 몽골군이 헝가리 왕국을 침입해 모히에서 벨러 4세를 격파하고 슬로바키아 일부를 포함한 국토 대부분을 황폐화했다. 트렌친과 코마르노 같은 석조 성채는 버텨 냈고, 몽골군이 물러간 뒤 벨러 4세는 석조 요새 건설을 장려하고 이주민을 불러들여 땅을 다시 채웠다. 이 침입은 결과적으로 성채와 도시의 성장을 가속했다.",
+    "zh": "1241至1242年，蒙古军队入侵匈牙利王国，在莫希击败国王贝拉四世，使包括斯洛伐克部分地区在内的大片国土遭到蹂躏。特伦钦、科马尔诺等石砌城堡坚守未失；蒙古撤军后，贝拉四世鼓励修建石砌要塞，并招募移民重新充实土地。这次入侵因而加速了城堡和城镇的发展。",
+    "ja": "1241〜42年、モンゴル軍がハンガリー王国に侵攻し、モヒでベーラ4世を破って、スロバキアの一部を含む国土の大半を荒廃させた。トレンチーンやコマールノなどの石造の城は持ちこたえ、モンゴル軍撤退後、ベーラ4世は石造要塞の建設を奨励し入植者を招いて土地を再び満たした。侵攻は結果として城と都市の発展を加速させた。"
+   }
+  },
+  {
+   "year": 1291,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Bratislava's town charter",
+    "ko": "브라티슬라바의 도시 특허장",
+    "zh": "布拉迪斯拉发获颁城市特许状",
+    "ja": "ブラチスラバの都市特許状"
+   },
+   "description": {
+    "en": "In 1291 King Andrew III granted Pressburg (Bratislava) the privileges of a town, including the right to elect its own magistrate. The charter laid the foundations for the city's growth as a trading centre on the Danube. In 1405 it became a free royal town.",
+    "ko": "1291년 언드라시 3세 왕은 프레스부르크(브라티슬라바)에 자체 행정관 선출권을 포함한 도시 특권을 부여했다. 이 특허장은 다뉴브강 교역 중심지로서 도시가 성장하는 토대가 되었다. 1405년 이곳은 자유 왕립 도시가 되었다.",
+    "zh": "1291年，国王安德烈三世授予普雷斯堡（布拉迪斯拉发）城市特权，包括自选市政长官的权利。这份特许状为该城发展成为多瑙河上的贸易中心奠定了基础。1405年，它成为自由王室城市。",
+    "ja": "1291年、アンドラーシュ3世はプレスブルク（ブラチスラバ）に、自らの首長を選ぶ権利を含む都市特権を与えた。この特許状はドナウ川の交易拠点としての都市の発展の基礎となった。1405年には自由王立都市となった。"
+   }
+  },
+  {
+   "year": 1312,
+   "qid": "Q181293",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Rozgony",
+    "ko": "로즈고니 전투",
+    "zh": "罗兹戈尼战役",
+    "ja": "ロズゴニの戦い"
+   },
+   "description": {
+    "en": "In June 1312 King Charles I Robert of the Angevin dynasty defeated the Aba family and allies of the magnate Matthew Csák at Rozgony (Rozhanovce) near Košice, with support from the burghers of Košice and the Spiš Saxons. The victory was a turning point in his struggle to restore royal authority over the oligarchs who had divided the kingdom. Matthew Csák nonetheless ruled much of western Slovakia until his death in 1321.",
+    "ko": "1312년 6월 앙주 왕조의 카로이 1세 로베르트 왕은 코시체 시민과 스피시 작센인의 지원을 받아 코시체 인근 로즈고니(로자노우체)에서 아버 가문과 대영주 마테 착의 동맹군을 격파했다. 이 승리는 왕국을 나누어 가진 과두 귀족들에 대해 왕권을 회복하려는 그의 싸움에서 전환점이 되었다. 그럼에도 마테 착은 1321년 죽을 때까지 슬로바키아 서부의 상당 부분을 지배했다.",
+    "zh": "1312年6月，安茹王朝的国王卡罗伊一世·罗贝尔在科希策市民和斯皮什萨克森人的支持下，于科希策附近的罗兹戈尼（罗扎诺夫采）击败阿巴家族和大贵族马特·查克的盟军。这场胜利是他从割据王国的寡头手中恢复王权斗争中的转折点。不过马特·查克直到1321年去世前仍控制着斯洛伐克西部大片地区。",
+    "ja": "1312年6月、アンジュー朝のカーロイ1世ロベルトはコシツェ市民とスピシュのザクセン人の支援を受け、コシツェ近郊のロズゴニ（ロジャノフツェ）でアバ家と大貴族チャーク・マーテーの同盟軍を破った。この勝利は、王国を分割していた寡頭貴族に対して王権を回復する彼の闘いの転機となった。それでもチャーク・マーテーは1321年に没するまでスロバキア西部の大部分を支配した。"
+   }
+  },
+  {
+   "year": 1328,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Kremnica mint founded",
+    "ko": "크렘니차 조폐소 설립",
+    "zh": "克雷姆尼察铸币厂建立",
+    "ja": "クレムニツァ造幣所の設立"
+   },
+   "description": {
+    "en": "In 1328 Charles I Robert granted Kremnica the privileges of a royal town and established a mint there, which soon began striking gold florins. Based on rich local gold mines, the 'Kremnica ducats' became a respected currency across Europe. The mint has operated continuously since then and is one of the oldest in the world.",
+    "ko": "1328년 카로이 1세 로베르트는 크렘니차에 왕립 도시 특권을 주고 조폐소를 세웠으며, 이곳은 곧 금화 플로린을 주조하기 시작했다. 풍부한 현지 금광을 바탕으로 한 '크렘니차 두카트'는 유럽 전역에서 신뢰받는 화폐가 되었다. 이 조폐소는 이후 지금까지 계속 운영되어 세계에서 가장 오래된 조폐소 중 하나다.",
+    "zh": "1328年，卡罗伊一世·罗贝尔授予克雷姆尼察王室城市特权并在此设立铸币厂，不久即开始铸造弗罗林金币。依托当地丰富的金矿，“克雷姆尼察杜卡特”成为欧洲各地信赖的货币。该铸币厂自此持续运营至今，是世界上最古老的铸币厂之一。",
+    "ja": "1328年、カーロイ1世ロベルトはクレムニツァに王立都市の特権を与えて造幣所を設け、まもなくそこでフローリン金貨の鋳造が始まった。地元の豊かな金鉱に支えられた「クレムニツァ・ドゥカート」はヨーロッパ中で信用される通貨となった。造幣所はそれ以来途切れることなく操業しており、世界最古級の造幣所の一つである。"
+   }
+  },
+  {
+   "year": 1369,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Košice receives a coat of arms",
+    "ko": "코시체, 문장(紋章)을 받다",
+    "zh": "科希策获授城徽",
+    "ja": "コシツェ、紋章を授与される"
+   },
+   "description": {
+    "en": "In 1369 King Louis I the Great granted the town of Košice a coat of arms by charter, often cited as one of the earliest municipal coats of arms granted in Europe. Košice was then one of the largest and wealthiest towns of the kingdom, a key trading centre on the route to Poland. Its Gothic Cathedral of St Elisabeth was begun in the following decades.",
+    "ko": "1369년 러요시 1세 대왕은 특허장으로 코시체에 문장을 하사했는데, 이는 유럽에서 가장 이른 시기에 수여된 도시 문장 가운데 하나로 자주 언급된다. 당시 코시체는 왕국에서 가장 크고 부유한 도시 중 하나로, 폴란드로 가는 길목의 핵심 교역 중심지였다. 고딕 양식의 성 엘리자베스 대성당은 그 뒤 수십 년 사이에 착공되었다.",
+    "zh": "1369年，国王拉约什一世（路易大王）以特许状授予科希策城徽，这常被认为是欧洲最早授予城市的纹章之一。科希策当时是王国最大、最富庶的城市之一，也是通往波兰路线上的重要贸易中心。哥特式的圣伊丽莎白大教堂在随后几十年间动工兴建。",
+    "ja": "1369年、ラヨシュ1世（大王）は特許状によってコシツェに紋章を与えた。これはヨーロッパで最も早く授与された都市紋章の一つとしてしばしば挙げられる。当時コシツェは王国で最大かつ最も裕福な都市の一つで、ポーランドへの道筋にある重要な交易拠点だった。ゴシック様式の聖アルジュベタ大聖堂はその後数十年のうちに着工された。"
+   }
+  },
+  {
+   "year": 1412,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Spiš towns pledged to Poland",
+    "ko": "스피시 도시들의 폴란드 저당",
+    "zh": "斯皮什城镇典押给波兰",
+    "ja": "スピシュ諸都市のポーランドへの質入れ"
+   },
+   "description": {
+    "en": "By the Treaty of Lubowla in 1412, King Sigismund of Luxembourg pledged thirteen Spiš towns and the castle of Ľubovňa to King Władysław II Jagiełło of Poland in return for a large loan. The towns remained under Polish administration for over 350 years. They were returned to Hungary only in 1769–1772, around the time of the First Partition of Poland.",
+    "ko": "1412년 루보브라 조약으로 룩셈부르크 왕가의 지기스문트 왕은 거액의 차관을 대가로 스피시의 13개 도시와 류보브냐 성을 폴란드 왕 브와디스와프 2세 야기에우워에게 저당 잡혔다. 이 도시들은 350년 넘게 폴란드의 관할 아래 있었다. 이들은 제1차 폴란드 분할 무렵인 1769~1772년에야 헝가리에 반환되었다.",
+    "zh": "根据1412年的《卢博夫拉条约》，卢森堡家族的国王西吉斯蒙德为换取一笔巨额贷款，将斯皮什的13座城镇和柳博夫尼亚城堡典押给波兰国王瓦迪斯瓦夫二世·亚盖洛。这些城镇在波兰管辖下长达350余年，直到1769至1772年第一次瓜分波兰前后才归还匈牙利。",
+    "ja": "1412年のルボヴラ条約により、ルクセンブルク家のジギスムント王は多額の借款と引き換えに、スピシュの13都市とリュボヴニャ城をポーランド王ヴワディスワフ2世ヤギェウォに質入れした。これらの都市は350年以上ポーランドの管轄下にあった。ハンガリーに返還されたのは、第一次ポーランド分割前後の1769〜1772年になってからであった。"
+   }
+  },
+  {
+   "year": 1430,
+   "qid": "Q3277009",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Hussite raids and the Battle of Trnava",
+    "ko": "후스파의 침공과 트르나바 전투",
+    "zh": "胡斯派袭扰与特尔纳瓦战役",
+    "ja": "フス派の侵攻とトルナヴァの戦い"
+   },
+   "description": {
+    "en": "During the Hussite Wars, Bohemian Hussite armies repeatedly raided western Slovakia. In April 1430 they defeated a royal Hungarian army near Trnava, and in the following years they held several towns and castles. Hussite influence left traces in the religious and linguistic life of the region, including the use of Czech as a written language.",
+    "ko": "후스 전쟁 동안 보헤미아의 후스파 군대는 슬로바키아 서부를 거듭 침공했다. 1430년 4월 그들은 트르나바 인근에서 헝가리 왕실군을 격파했고, 이후 몇 년간 여러 도시와 성을 점거했다. 후스파의 영향은 체코어를 문어로 사용하는 것을 포함해 이 지역의 종교·언어생활에 흔적을 남겼다.",
+    "zh": "胡斯战争期间，波希米亚胡斯派军队多次袭扰斯洛伐克西部。1430年4月，他们在特尔纳瓦附近击败匈牙利王军，此后数年间占据了若干城镇和城堡。胡斯派的影响在该地区的宗教和语言生活中留下了痕迹，包括将捷克语用作书面语。",
+    "ja": "フス戦争の間、ボヘミアのフス派の軍はスロバキア西部に繰り返し侵入した。1430年4月にはトルナヴァ近郊でハンガリー王軍を破り、その後数年間いくつかの都市や城を占拠した。フス派の影響は、チェコ語を書き言葉として用いることを含め、この地域の宗教・言語生活に痕跡を残した。"
+   }
+  },
+  {
+   "year": 1451,
+   "qid": "Q27918392",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Jan Jiskra and the Battle of Lučenec",
+    "ko": "얀 이스크라와 루체네츠 전투",
+    "zh": "扬·伊斯克拉与卢切内茨战役",
+    "ja": "ヤン・イスクラとルチェネツの戦い"
+   },
+   "description": {
+    "en": "From 1440 the Czech commander Jan Jiskra of Brandýs, fighting for the infant King Ladislaus the Posthumous, controlled much of central and eastern Slovakia with mercenary armies that included former Hussites. In 1451 he defeated the forces of the Hungarian regent John Hunyadi near Lučenec. His power was eventually broken in the 1460s by King Matthias Corvinus.",
+    "ko": "1440년부터 체코 출신 지휘관 브란디스의 얀 이스크라는 갓난 국왕 라슬로 5세(유복자)를 위해 싸우며, 옛 후스파를 포함한 용병대로 슬로바키아 중부와 동부의 상당 부분을 장악했다. 1451년 그는 루체네츠 인근에서 헝가리 섭정 후녀디 야노시의 군대를 격파했다. 그의 세력은 결국 1460년대 마차시 1세 왕에 의해 꺾였다.",
+    "zh": "自1440年起，捷克将领布兰迪斯的扬·伊斯克拉为年幼的遗腹子国王拉斯洛五世而战，率领包括前胡斯派在内的雇佣军控制了斯洛伐克中部和东部大片地区。1451年，他在卢切内茨附近击败匈牙利摄政匈雅提·亚诺什的军队。其势力最终在15世纪60年代被国王马加什一世击溃。",
+    "ja": "1440年からチェコ人の指揮官ブランディースのヤン・イスクラは、幼王ラディスラウス・ポストゥムスのために戦い、旧フス派を含む傭兵軍でスロバキア中部・東部の大部分を支配した。1451年にはルチェネツ近郊でハンガリーの摂政フニャディ・ヤーノシュの軍を破った。その勢力は1460年代にマーチャーシュ1世によってついに打ち砕かれた。"
+   }
+  },
+  {
+   "year": 1465,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Universitas Istropolitana founded",
+    "ko": "이스트로폴리타나 대학 설립",
+    "zh": "伊斯特罗波利塔纳大学创立",
+    "ja": "イストロポリターナ大学の創設"
+   },
+   "description": {
+    "en": "In 1465, at the request of King Matthias Corvinus, Pope Paul II authorised a university in Pressburg (Bratislava), which opened in 1467 as the Academia Istropolitana. It was the first university on the territory of present-day Slovakia, with scholars such as the astronomer Regiomontanus teaching there. It ceased functioning after Matthias's death in 1490.",
+    "ko": "1465년 마차시 1세 왕의 요청으로 교황 바오로 2세는 프레스부르크(브라티슬라바)에 대학 설립을 허가했고, 대학은 1467년 이스트로폴리타나 아카데미로 문을 열었다. 이는 오늘날 슬로바키아 영토 최초의 대학으로, 천문학자 레기오몬타누스 같은 학자들이 강의했다. 1490년 마차시가 죽은 뒤 운영이 중단되었다.",
+    "zh": "1465年，应国王马加什一世的请求，教宗保禄二世批准在普雷斯堡（布拉迪斯拉发）设立大学，该校于1467年以伊斯特罗波利塔纳学院之名开学。这是今斯洛伐克境内的第一所大学，天文学家雷吉奥蒙塔努斯等学者曾在此任教。1490年马加什去世后，学校停办。",
+    "ja": "1465年、マーチャーシュ1世の要請を受けて教皇パウルス2世はプレスブルク（ブラチスラバ）に大学の設立を認め、1467年にアカデミア・イストロポリターナとして開学した。現在のスロバキア領で最初の大学であり、天文学者レギオモンタヌスらが教えた。1490年にマーチャーシュが没すると活動を停止した。"
+   }
+  },
+  {
+   "year": 1526,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of Mohács and Habsburg succession",
+    "ko": "모하치 전투와 합스부르크 왕위 계승",
+    "zh": "莫哈奇战役与哈布斯堡继位",
+    "ja": "モハーチの戦いとハプスブルク家の王位継承"
+   },
+   "description": {
+    "en": "In August 1526 the Ottoman army of Suleiman the Magnificent crushed the Hungarian army at Mohács, and King Louis II died in the retreat. Ferdinand I of Habsburg and John Zápolya were both elected king, leading to years of civil war. Slovakia became the core of the Habsburg-held 'Royal Hungary' for the next century and a half.",
+    "ko": "1526년 8월 술레이만 대제의 오스만군이 모하치에서 헝가리군을 궤멸시켰고, 러요시 2세 왕은 퇴각 중 사망했다. 합스부르크 가문의 페르디난트 1세와 서포여이 야노시가 각각 국왕으로 선출되면서 수년간 내전이 이어졌다. 슬로바키아는 이후 한 세기 반 동안 합스부르크가 차지한 '왕령 헝가리'의 중심부가 되었다.",
+    "zh": "1526年8月，苏莱曼大帝的奥斯曼军队在莫哈奇大败匈牙利军队，国王拉约什二世在撤退中身亡。哈布斯堡家族的斐迪南一世和萨波尧伊·亚诺什先后被推举为国王，导致多年内战。此后一个半世纪，斯洛伐克成为哈布斯堡所控“王室匈牙利”的核心。",
+    "ja": "1526年8月、スレイマン1世のオスマン軍がモハーチでハンガリー軍を壊滅させ、ラヨシュ2世は退却中に死んだ。ハプスブルク家のフェルディナント1世とサポヤイ・ヤーノシュがともに国王に選ばれ、数年にわたる内戦となった。スロバキアはその後1世紀半にわたり、ハプスブルク家が保持する「王領ハンガリー」の中核となった。"
+   }
+  },
+  {
+   "year": 1536,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Bratislava becomes capital of Habsburg Hungary",
+    "ko": "브라티슬라바, 합스부르크 헝가리의 수도가 되다",
+    "zh": "布拉迪斯拉发成为哈布斯堡匈牙利首都",
+    "ja": "ブラチスラバ、ハプスブルク領ハンガリーの首都に"
+   },
+   "description": {
+    "en": "After the Ottomans seized Buda, Bratislava (Pressburg) was made the capital and coronation city of Habsburg-ruled Hungary; Hungarian kings and queens were crowned there until 1830. The Hungarian Diet met in the city, and the first coronation, of Maximilian II, took place in St Martin's Cathedral in 1563. Maria Theresa was crowned there in 1741.",
+    "ko": "오스만 제국이 부다를 점령하자 브라티슬라바(프레스부르크)가 합스부르크령 헝가리의 수도이자 대관식 도시가 되었다. 1830년까지 헝가리 국왕들의 대관식이 이곳에서 거행되었다. 헝가리 의회가 이 도시에서 열렸으며, 첫 대관식은 1563년 성 마르틴 대성당에서 막시밀리안 2세의 대관식으로 치러졌다. 마리아 테레지아도 1741년 이곳에서 즉위했다.",
+    "zh": "奥斯曼帝国攻占布达后，布拉迪斯拉发（普雷斯堡）成为哈布斯堡统治下匈牙利的首都和加冕之城，直至1830年匈牙利历代国王均在此加冕。匈牙利议会在此召开；首次加冕礼是1563年在圣马丁大教堂为马克西米利安二世举行的。玛丽亚·特蕾莎于1741年也在此加冕。",
+    "ja": "オスマン帝国がブダを占領すると、ブラチスラバ（プレスブルク）はハプスブルク統治下ハンガリーの首都かつ戴冠都市となり、1830年までハンガリー王の戴冠式が行われた。ハンガリー議会もこの都市で開かれ、最初の戴冠式は1563年に聖マルティン大聖堂で行われたマクシミリアン2世のものであった。マリア・テレジアも1741年にここで戴冠した。"
+   }
+  },
+  {
+   "year": 1543,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Archbishopric of Esztergom moves to Trnava",
+    "ko": "에스테르곰 대주교좌, 트르나바로 이전",
+    "zh": "埃斯泰尔戈姆大主教座迁往特尔纳瓦",
+    "ja": "エステルゴム大司教座、トルナヴァへ移転"
+   },
+   "description": {
+    "en": "When the Ottomans captured Esztergom in 1543, the seat of the Archbishop of Esztergom, primate of Hungary, moved to Trnava, along with its chapter. Trnava remained the ecclesiastical centre of Hungary until 1820, earning the nickname 'Little Rome' for its many churches. The town became a stronghold of the Catholic Counter-Reformation.",
+    "ko": "1543년 오스만군이 에스테르곰을 점령하자, 헝가리 수석 대주교인 에스테르곰 대주교의 좌석과 참사회가 트르나바로 옮겨졌다. 트르나바는 1820년까지 헝가리 교회의 중심지였으며, 많은 교회 덕분에 '작은 로마'라는 별칭을 얻었다. 이 도시는 가톨릭 반종교개혁의 거점이 되었다.",
+    "zh": "1543年奥斯曼军攻占埃斯泰尔戈姆后，匈牙利首席主教埃斯泰尔戈姆大主教的座堂及其咏礼司铎团迁往特尔纳瓦。直至1820年，特尔纳瓦一直是匈牙利的宗教中心，因教堂众多而得名“小罗马”。这座城市成为天主教反宗教改革的重镇。",
+    "ja": "1543年にオスマン軍がエステルゴムを攻略すると、ハンガリー首座大司教であるエステルゴム大司教の座と聖堂参事会はトルナヴァへ移った。トルナヴァは1820年までハンガリーの教会の中心であり、教会の多さから「小ローマ」と呼ばれた。この町はカトリック対抗宗教改革の拠点となった。"
+   }
+  },
+  {
+   "year": 1554,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ottomans take Fiľakovo",
+    "ko": "오스만, 필라코보 점령",
+    "zh": "奥斯曼攻占菲拉科沃",
+    "ja": "オスマン、フィラコヴォを占領"
+   },
+   "description": {
+    "en": "In 1554 Ottoman forces captured the castle of Fiľakovo in southern central Slovakia, making it the centre of a sanjak. Ottoman rule extended over parts of the southern Slovak borderlands, and Ottoman raids reached deep into the mining towns of the north, prompting the fortification of towns and churches. Fiľakovo was retaken by imperial troops in 1593.",
+    "ko": "1554년 오스만군은 슬로바키아 중남부의 필라코보 성을 점령해 산자크의 중심지로 삼았다. 오스만의 지배는 슬로바키아 남부 국경 지대 일부에 미쳤고, 오스만의 약탈은 북쪽의 광산 도시들까지 깊숙이 이르러 도시와 교회에 방어 시설을 갖추게 했다. 필라코보는 1593년 제국군에 의해 탈환되었다.",
+    "zh": "1554年，奥斯曼军队攻占斯洛伐克中南部的菲拉科沃城堡，将其设为桑贾克的中心。奥斯曼的统治延伸到斯洛伐克南部边境部分地区，其劫掠更深入北方的矿业城镇，促使各地城镇和教堂纷纷加筑防御工事。1593年，帝国军队收复菲拉科沃。",
+    "ja": "1554年、オスマン軍はスロバキア中南部のフィラコヴォ城を攻略し、サンジャクの中心とした。オスマンの支配はスロバキア南部の国境地帯の一部に及び、その略奪は北の鉱山都市にまで深く達したため、町や教会の要塞化が進んだ。フィラコヴォは1593年に帝国軍によって奪回された。"
+   }
+  },
+  {
+   "year": 1604,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Bocskai uprising",
+    "ko": "보치카이 봉기",
+    "zh": "鲍奇考伊起义",
+    "ja": "ボチカイの蜂起"
+   },
+   "description": {
+    "en": "In 1604 the Transylvanian noble István Bocskai led an uprising against Habsburg rule, sparked by the confiscation of Protestant churches, notably in Košice, and by high-handed military rule. His hajduk troops quickly took much of eastern and central Slovakia. The 1606 Peace of Vienna guaranteed religious freedom for Protestant nobles and towns in Royal Hungary.",
+    "ko": "1604년 트란실바니아 귀족 보치카이 이슈트반은 코시체 등지의 개신교 교회 몰수와 고압적인 군정에 반발해 합스부르크 지배에 맞서 봉기했다. 그의 하이두크 부대는 슬로바키아 동부와 중부의 상당 부분을 빠르게 장악했다. 1606년 빈 평화조약은 왕령 헝가리의 개신교 귀족과 도시에 종교의 자유를 보장했다.",
+    "zh": "1604年，因科希策等地的新教教堂被没收以及专横的军事统治，特兰西瓦尼亚贵族鲍奇考伊·伊什特万领导了反对哈布斯堡统治的起义。他的海杜克部队迅速占领了斯洛伐克东部和中部大片地区。1606年的《维也纳和约》保障了王室匈牙利新教贵族和城市的宗教自由。",
+    "ja": "1604年、トランシルヴァニアの貴族ボチカイ・イシュトヴァーンは、コシツェなどでのプロテスタント教会の没収と高圧的な軍政に反発してハプスブルク支配に対する蜂起を起こした。彼のハイドゥー部隊はスロバキア東部・中部の大部分をたちまち掌握した。1606年のウィーン和約は、王領ハンガリーのプロテスタント貴族と都市に信教の自由を保障した。"
+   }
+  },
+  {
+   "year": 1619,
+   "qid": "Q723957",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Humenné",
+    "ko": "후메네 전투",
+    "zh": "胡门内战役",
+    "ja": "フメンネの戦い"
+   },
+   "description": {
+    "en": "In 1619, at the start of the Thirty Years' War, Gabriel Bethlen of Transylvania rose against the Habsburgs and occupied much of Royal Hungary, including Bratislava. In November 1619 Polish-Lithuanian mercenaries, the Lisowczycy, sent to aid the emperor, defeated Transylvanian forces under György Rákóczi near Humenné in eastern Slovakia. The defeat forced Bethlen to lift his siege of Vienna.",
+    "ko": "1619년 30년 전쟁 초기 트란실바니아의 베틀렌 가보르가 합스부르크에 맞서 봉기해 브라티슬라바를 포함한 왕령 헝가리의 상당 부분을 점령했다. 1619년 11월 황제를 돕기 위해 파견된 폴란드-리투아니아 용병대 리소브치치가 슬로바키아 동부 후메네 인근에서 라코치 죄르지가 이끄는 트란실바니아군을 격파했다. 이 패배로 베틀렌은 빈 포위를 풀어야 했다.",
+    "zh": "1619年三十年战争伊始，特兰西瓦尼亚的拜特伦·加博尔起兵反抗哈布斯堡王朝，占领了包括布拉迪斯拉发在内的王室匈牙利大部分地区。1619年11月，前来援助皇帝的波兰—立陶宛雇佣军“利索夫奇克”在斯洛伐克东部胡门内附近击败了拉科齐·久尔吉率领的特兰西瓦尼亚军队。这一失败迫使拜特伦解除对维也纳的围攻。",
+    "ja": "1619年、三十年戦争の初め、トランシルヴァニアのベトレン・ガーボルがハプスブルク家に対して蜂起し、ブラチスラバを含む王領ハンガリーの大部分を占領した。1619年11月、皇帝を助けるため派遣されたポーランド・リトアニアの傭兵隊リソフチツィが、スロバキア東部のフメンネ近郊でラーコーツィ・ジェルジ率いるトランシルヴァニア軍を破った。この敗北でベトレンはウィーンの包囲を解かざるを得なかった。"
+   }
+  },
+  {
+   "year": 1635,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "University of Trnava founded",
+    "ko": "트르나바 대학 설립",
+    "zh": "特尔纳瓦大学创立",
+    "ja": "トルナヴァ大学の創設"
+   },
+   "description": {
+    "en": "In 1635 Archbishop Péter Pázmány founded a Jesuit university in Trnava, a leading institution of the Catholic Counter-Reformation in Hungary. It later added faculties of law and medicine and printed many books, including works in Slovak. In 1777 Maria Theresa moved it to Buda; it is the predecessor of today's Eötvös Loránd University in Budapest.",
+    "ko": "1635년 파즈마니 페테르 대주교는 트르나바에 예수회 대학을 세웠는데, 이는 헝가리 가톨릭 반종교개혁의 대표적 교육기관이었다. 이후 법학부와 의학부가 더해졌고, 슬로바키아어 저작을 포함한 많은 책을 인쇄했다. 1777년 마리아 테레지아가 이 대학을 부다로 옮겼으며, 오늘날 부다페스트의 외트뵈시 로란드 대학교의 전신이다.",
+    "zh": "1635年，大主教帕兹马尼·彼得在特尔纳瓦创办耶稣会大学，这是匈牙利天主教反宗教改革的重要机构。该校后来增设了法学院和医学院，并印刷了大量书籍，其中包括斯洛伐克语著作。1777年玛丽亚·特蕾莎将其迁往布达，它是今日布达佩斯罗兰大学的前身。",
+    "ja": "1635年、パーズマーニ・ペーテル大司教はトルナヴァにイエズス会の大学を創設した。これはハンガリーのカトリック対抗宗教改革を代表する教育機関であった。のちに法学部と医学部が加わり、スロバキア語の著作を含む多くの書物を印刷した。1777年にマリア・テレジアがこれをブダへ移し、今日のブダペストのエトヴェシュ・ロラーンド大学の前身となった。"
+   }
+  },
+  {
+   "year": 1663,
+   "qid": "Q1470965",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ottomans capture Nové Zámky",
+    "ko": "오스만, 노베 잠키 함락",
+    "zh": "奥斯曼攻陷诺韦扎姆基",
+    "ja": "オスマン、ノヴェー・ザームキを攻略"
+   },
+   "description": {
+    "en": "In September 1663 the Ottoman army of Grand Vizier Köprülü Fazıl Ahmed Pasha captured the modern fortress of Nové Zámky (Érsekújvár) after a siege of several weeks. The Ottomans made it the seat of the Eyalet of Uyvar, their northernmost province in Hungary, and raided as far as Moravia. The loss shocked the Habsburg court and led to a new war.",
+    "ko": "1663년 9월 대재상 쾨프륄뤼 파즐 아흐메트 파샤의 오스만군은 수주간의 포위 끝에 근대식 요새인 노베 잠키(에르세크우이바르)를 함락했다. 오스만은 이곳을 헝가리 내 가장 북쪽의 주인 우이바르 에얄레트의 중심지로 삼고 모라바까지 약탈했다. 이 상실은 합스부르크 궁정에 충격을 주었고 새로운 전쟁으로 이어졌다.",
+    "zh": "1663年9月，大维齐尔柯普律吕·法佐尔·艾哈迈德帕夏率领的奥斯曼军队经过数周围攻，攻陷了诺韦扎姆基（埃尔谢克乌伊瓦尔）这座近代要塞。奥斯曼人将其设为乌伊瓦尔行省（埃亚莱特）的首府，这是其在匈牙利最北的行省，并劫掠远至摩拉维亚。这一失陷震动了哈布斯堡宫廷，引发了新的战争。",
+    "ja": "1663年9月、大宰相キョプリュリュ・ファズル・アフメト・パシャ率いるオスマン軍は数週間の包囲の末、近代的な要塞ノヴェー・ザームキ（エルセクウーイヴァール）を攻略した。オスマンはここをハンガリーにおける最北の州、ウイヴァル・エヤレトの中心とし、モラヴィアまで略奪した。この喪失はハプスブルク宮廷に衝撃を与え、新たな戦争につながった。"
+   }
+  },
+  {
+   "year": 1664,
+   "qid": "Q1160506",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Levice",
+    "ko": "레비체 전투",
+    "zh": "莱维采战役",
+    "ja": "レヴィツェの戦い"
+   },
+   "description": {
+    "en": "In July 1664 imperial forces under General Jean-Louis Raduit de Souches defeated an Ottoman army near Levice (Léva) in southern Slovakia. Together with the victory at Saint Gotthard soon after, it halted the Ottoman advance. However, the hastily concluded Peace of Vasvár left Nové Zámky in Ottoman hands, angering Hungarian nobles.",
+    "ko": "1664년 7월 장루이 라뒤 드 수슈 장군이 이끄는 제국군이 슬로바키아 남부 레비체(레바) 인근에서 오스만군을 격파했다. 곧이어 거둔 장크트고트하르트 승리와 함께 이 승리는 오스만의 진격을 멈추게 했다. 그러나 서둘러 맺은 버슈바르 화약은 노베 잠키를 오스만의 손에 남겨 두어 헝가리 귀족들의 분노를 샀다.",
+    "zh": "1664年7月，让-路易·拉迪·德·苏谢将军率领的帝国军队在斯洛伐克南部的莱维采（莱瓦）附近击败奥斯曼军队。连同不久后的圣哥特哈德大捷，这场胜利遏止了奥斯曼的攻势。然而仓促签订的《沃什堡和约》把诺韦扎姆基留在奥斯曼手中，激怒了匈牙利贵族。",
+    "ja": "1664年7月、ジャン＝ルイ・ラデュイ・ド・スーシュ将軍率いる帝国軍がスロバキア南部のレヴィツェ（レーヴァ）近郊でオスマン軍を破った。直後のセントゴットハルトの勝利とあわせて、オスマンの進撃は止まった。しかし急いで結ばれたヴァシュヴァールの和約はノヴェー・ザームキをオスマンの手に残し、ハンガリー貴族の怒りを買った。"
+   }
+  },
+  {
+   "year": 1678,
+   "qid": "Q11825977",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Thököly uprising",
+    "ko": "퇴쾰리 봉기",
+    "zh": "特克伊起义",
+    "ja": "テケリの蜂起"
+   },
+   "description": {
+    "en": "From 1678 Imre Thököly led the kuruc rebels, largely Protestant nobles and soldiers, against Habsburg absolutism and religious persecution in Upper Hungary. With Ottoman backing he conquered most of central and eastern Slovakia, and in 1682 the sultan recognised him as Prince of Upper Hungary. The uprising collapsed after the Ottoman defeat at Vienna in 1683.",
+    "ko": "1678년부터 퇴쾰리 임레는 주로 개신교 귀족과 병사로 이루어진 쿠루츠 반군을 이끌고 상부 헝가리에서 합스부르크 절대주의와 종교 박해에 맞섰다. 오스만의 지원으로 슬로바키아 중부와 동부 대부분을 정복했고, 1682년 술탄은 그를 상부 헝가리 공으로 인정했다. 봉기는 1683년 오스만이 빈에서 패배한 뒤 무너졌다.",
+    "zh": "自1678年起，特克伊·伊姆雷率领以新教贵族和士兵为主的库鲁茨起义军，在上匈牙利反抗哈布斯堡专制和宗教迫害。在奥斯曼支持下，他征服了斯洛伐克中部和东部大部分地区，1682年苏丹承认他为上匈牙利亲王。1683年奥斯曼在维也纳战败后，起义随之瓦解。",
+    "ja": "1678年からテケリ・イムレは主にプロテスタントの貴族と兵士からなるクルツ反乱軍を率い、上部ハンガリーでハプスブルクの絶対主義と宗教的迫害に抗した。オスマンの後ろ盾を得てスロバキア中部・東部の大半を征服し、1682年にはスルタンが彼を上部ハンガリー公として承認した。蜂起は1683年のウィーンでのオスマンの敗北後に崩壊した。"
+   }
+  },
+  {
+   "year": 1683,
+   "qid": "Q694911",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Párkány (Štúrovo)",
+    "ko": "파르카니(슈투로보) 전투",
+    "zh": "帕尔卡尼（什图罗沃）战役",
+    "ja": "パルカーニ（シュトゥーロヴォ）の戦い"
+   },
+   "description": {
+    "en": "In October 1683, weeks after relieving Vienna, the Polish king John III Sobieski and imperial forces fought the Ottomans at Párkány, today's Štúrovo on the Danube opposite Esztergom. After a setback in the first clash, the allies won a decisive victory in the second, and Esztergom was retaken soon after. The battle opened the way for the reconquest of Hungary.",
+    "ko": "1683년 10월 빈을 구원한 지 몇 주 뒤, 폴란드 왕 얀 3세 소비에스키와 제국군은 에스테르곰 맞은편 다뉴브 강가의 파르카니, 오늘날의 슈투로보에서 오스만군과 싸웠다. 첫 교전에서 패한 뒤 연합군은 두 번째 교전에서 결정적 승리를 거두었고, 곧이어 에스테르곰을 탈환했다. 이 전투는 헝가리 재정복의 길을 열었다.",
+    "zh": "1683年10月，解维也纳之围数周后，波兰国王扬三世·索别斯基和帝国军队在与埃斯泰尔戈姆隔多瑙河相望的帕尔卡尼（今什图罗沃）与奥斯曼军交战。联军在首战失利后，于第二战中取得决定性胜利，不久即收复埃斯泰尔戈姆。这场战役为收复匈牙利开辟了道路。",
+    "ja": "1683年10月、ウィーン解放の数週間後、ポーランド王ヤン3世ソビエスキと帝国軍は、エステルゴムの対岸ドナウ河畔のパルカーニ、今日のシュトゥーロヴォでオスマン軍と戦った。最初の交戦で敗れた後、連合軍は二度目の戦いで決定的勝利を収め、まもなくエステルゴムを奪回した。この戦いはハンガリー再征服への道を開いた。"
+   }
+  },
+  {
+   "year": 1685,
+   "qid": "Q3273985",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Recapture of Nové Zámky",
+    "ko": "노베 잠키 탈환",
+    "zh": "收复诺韦扎姆基",
+    "ja": "ノヴェー・ザームキの奪回"
+   },
+   "description": {
+    "en": "In August 1685 imperial troops stormed and recaptured the fortress of Nové Zámky, ending 22 years of Ottoman rule there and the Ottoman presence on Slovak territory. In the same year imperial forces also took Košice, Prešov and other strongholds of Thököly's principality. The Great Turkish War went on to drive the Ottomans out of most of Hungary by 1699.",
+    "ko": "1685년 8월 제국군은 노베 잠키 요새를 강습해 탈환함으로써 22년간의 오스만 지배와 슬로바키아 땅에서의 오스만 존재를 끝냈다. 같은 해 제국군은 코시체, 프레쇼우 등 퇴쾰리 공국의 거점들도 점령했다. 대튀르크 전쟁은 1699년까지 오스만을 헝가리 대부분에서 몰아냈다.",
+    "zh": "1685年8月，帝国军队强攻收复诺韦扎姆基要塞，结束了奥斯曼在此长达22年的统治以及其在斯洛伐克土地上的存在。同年，帝国军队还攻取了科希策、普雷绍夫等特克伊公国的据点。大土耳其战争至1699年将奥斯曼人逐出了匈牙利大部分地区。",
+    "ja": "1685年8月、帝国軍はノヴェー・ザームキ要塞を強襲して奪回し、22年に及ぶ同地のオスマン支配とスロバキアの地におけるオスマンの存在に終止符を打った。同年、帝国軍はコシツェやプレショフなどテケリ公国の拠点も攻略した。大トルコ戦争は1699年までにオスマンをハンガリーの大部分から駆逐した。"
+   }
+  },
+  {
+   "year": 1687,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Prešov executions",
+    "ko": "프레쇼우 처형 사건",
+    "zh": "普雷绍夫处决事件",
+    "ja": "プレショフの処刑"
+   },
+   "description": {
+    "en": "In 1687 an imperial tribunal led by General Antonio Caraffa in Prešov executed some two dozen burghers and nobles, mostly Lutherans, accused of supporting Thököly. The 'Prešov slaughterhouse' became a symbol of Habsburg repression of Protestants and of the kuruc cause. In the same year the Diet of Pressburg recognised the hereditary right of the Habsburgs to the Hungarian throne.",
+    "ko": "1687년 안토니오 카라파 장군이 이끄는 제국 법정은 프레쇼우에서 퇴쾰리를 지지했다는 혐의로 대부분 루터교도인 시민과 귀족 20여 명을 처형했다. '프레쇼우 도살장'은 합스부르크의 개신교 탄압과 쿠루츠 대의를 상징하게 되었다. 같은 해 프레스부르크 의회는 헝가리 왕위에 대한 합스부르크 가문의 세습권을 인정했다.",
+    "zh": "1687年，安东尼奥·卡拉法将军主持的帝国法庭在普雷绍夫处决了约二十余名被控支持特克伊的市民和贵族，其中大多数是路德宗信徒。“普雷绍夫屠场”成为哈布斯堡镇压新教徒和库鲁茨事业的象征。同年，普雷斯堡议会承认哈布斯堡家族对匈牙利王位的世袭权。",
+    "ja": "1687年、アントニオ・カラッファ将軍率いる帝国法廷はプレショフで、テケリを支持したとして主にルター派の市民や貴族二十数人を処刑した。「プレショフの屠殺場」はハプスブルクによるプロテスタント弾圧とクルツの大義の象徴となった。同年、プレスブルク議会はハンガリー王位に対するハプスブルク家の世襲権を認めた。"
+   }
+  },
+  {
+   "year": 1703,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Rákóczi's War of Independence",
+    "ko": "라코치 독립 전쟁",
+    "zh": "拉科齐独立战争",
+    "ja": "ラーコーツィの独立戦争"
+   },
+   "description": {
+    "en": "In 1703 Prince Francis II Rákóczi launched an uprising against Habsburg rule that soon controlled most of Slovakia, with Slovak peasants among the kuruc fighters. The rebels' Diet at Ónod in 1707 declared the Habsburgs dethroned, but defeats such as at Trenčín in 1708 weakened the movement. The 1711 Peace of Szatmár ended the war with an amnesty and confirmation of the estates' privileges.",
+    "ko": "1703년 라코치 페렌츠 2세는 합스부르크 지배에 맞선 봉기를 일으켜 곧 슬로바키아 대부분을 장악했으며, 슬로바키아 농민들도 쿠루츠 전사로 참여했다. 반군은 1707년 오노드 의회에서 합스부르크의 폐위를 선언했지만, 1708년 트렌친 전투 등의 패배로 운동은 약해졌다. 1711년 서트마르 화약은 사면과 신분 특권의 확인으로 전쟁을 끝냈다.",
+    "zh": "1703年，拉科齐·费伦茨二世发动反抗哈布斯堡统治的起义，很快控制了斯洛伐克大部分地区，斯洛伐克农民也加入了库鲁茨武装。1707年起义者在奥诺德议会上宣布废黜哈布斯堡家族，但1708年特伦钦之战等失败削弱了运动。1711年的《萨特马尔和约》以大赦和确认等级特权结束了战争。",
+    "ja": "1703年、ラーコーツィ・フェレンツ2世はハプスブルク支配に対する蜂起を起こし、まもなくスロバキアの大部分を掌握した。スロバキアの農民もクルツの戦士として加わった。反乱側は1707年のオーノド議会でハプスブルク家の廃位を宣言したが、1708年のトレンチーンの戦いなどの敗北で運動は弱まった。1711年のサトマール和約は大赦と身分特権の確認によって戦争を終わらせた。"
+   }
+  },
+  {
+   "year": 1762,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Mining Academy in Banská Štiavnica",
+    "ko": "반스카 슈티아브니차 광산 아카데미",
+    "zh": "班斯卡-什佳夫尼察矿业学院",
+    "ja": "バンスカー・シチャヴニツァの鉱山アカデミー"
+   },
+   "description": {
+    "en": "In 1762 Maria Theresa established a school of mining in Banská Štiavnica, which was raised to the status of a Mining Academy in 1770, one of the first technical colleges in the world. The town was then a leading centre of silver mining, using advanced water-management systems and steam-powered pumps. The town and its technical monuments are a UNESCO World Heritage Site.",
+    "ko": "1762년 마리아 테레지아는 반스카 슈티아브니차에 광산학교를 세웠고, 이 학교는 1770년 광산 아카데미로 승격되어 세계 최초의 기술 대학 가운데 하나가 되었다. 당시 이 도시는 첨단 수자원 관리 시설과 증기 펌프를 활용하는 은광업의 중심지였다. 도시와 그 기술 유적은 유네스코 세계유산이다.",
+    "zh": "1762年，玛丽亚·特蕾莎在班斯卡-什佳夫尼察设立采矿学校，1770年升格为矿业学院，是世界上最早的技术学院之一。当时该城是银矿开采的重要中心，采用先进的水利系统和蒸汽水泵。该城及其技术遗迹被列为联合国教科文组织世界遗产。",
+    "ja": "1762年、マリア・テレジアはバンスカー・シチャヴニツァに鉱山学校を設け、1770年には鉱山アカデミーに昇格して世界最初期の工科大学の一つとなった。当時この町は、高度な水利システムと蒸気ポンプを用いる銀鉱業の中心地であった。町とその技術遺産はユネスコ世界遺産に登録されている。"
+   }
+  },
+  {
+   "year": 1787,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Bernolák's first Slovak standard",
+    "ko": "베르놀라크의 첫 슬로바키아 표준어",
+    "zh": "贝尔诺拉克的首个斯洛伐克标准语",
+    "ja": "ベルノラークの最初のスロバキア標準語"
+   },
+   "description": {
+    "en": "In 1787 the Catholic priest Anton Bernolák published a treatise establishing the first codified standard of written Slovak, based on western Slovak dialects. It was used by Catholic writers such as the poet Ján Hollý and supported by the Slovak Learned Society founded in Trnava in 1792. Protestant Slovaks, however, continued to write in Biblical Czech.",
+    "ko": "1787년 가톨릭 사제 안톤 베르놀라크는 서부 슬로바키아 방언을 바탕으로 문어 슬로바키아어의 첫 표준을 정한 논문을 출간했다. 이 표준은 시인 얀 홀리 같은 가톨릭 작가들이 사용했고, 1792년 트르나바에 설립된 슬로바키아 학회의 지원을 받았다. 그러나 개신교 슬로바키아인들은 계속 성서 체코어로 글을 썼다.",
+    "zh": "1787年，天主教神父安东·贝尔诺拉克发表论著，以斯洛伐克西部方言为基础，确立了首个规范化的斯洛伐克书面语。它为诗人扬·霍利等天主教作家所采用，并得到1792年在特尔纳瓦成立的斯洛伐克学会的支持。不过，新教斯洛伐克人仍继续使用圣经捷克语写作。",
+    "ja": "1787年、カトリック司祭アントン・ベルノラークは西部スロバキア方言を基にした書き言葉の最初の標準を定める論考を出版した。これは詩人ヤーン・ホリーらカトリックの作家に用いられ、1792年にトルナヴァで設立されたスロバキア学術協会に支えられた。しかしプロテスタントのスロバキア人は引き続き聖書チェコ語で書いた。"
+   }
+  },
+  {
+   "year": 1805,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Peace of Pressburg",
+    "ko": "프레스부르크 강화조약",
+    "zh": "《普雷斯堡和约》",
+    "ja": "プレスブルクの和約"
+   },
+   "description": {
+    "en": "After Napoleon's victory at Austerlitz, France and Austria signed the Peace of Pressburg in the Primate's Palace in Bratislava on 26 December 1805. Austria ceded Venetia, Tyrol and other territories and recognised Napoleon's German allies as kingdoms. The treaty contributed to the dissolution of the Holy Roman Empire in 1806.",
+    "ko": "아우스터리츠에서 나폴레옹이 승리한 뒤 프랑스와 오스트리아는 1805년 12월 26일 브라티슬라바의 수석 대주교 궁전에서 프레스부르크 강화조약에 서명했다. 오스트리아는 베네치아와 티롤 등을 할양하고 나폴레옹의 독일 동맹국들을 왕국으로 인정했다. 이 조약은 1806년 신성 로마 제국 해체의 한 원인이 되었다.",
+    "zh": "拿破仑在奥斯特里茨获胜后，法国与奥地利于1805年12月26日在布拉迪斯拉发的首席主教宫签署《普雷斯堡和约》。奥地利割让威尼西亚、蒂罗尔等地，并承认拿破仑的德意志盟邦为王国。该和约促成了1806年神圣罗马帝国的解体。",
+    "ja": "アウステルリッツでのナポレオンの勝利の後、フランスとオーストリアは1805年12月26日、ブラチスラバの首座大司教宮殿でプレスブルクの和約に調印した。オーストリアはヴェネツィアやチロルなどを割譲し、ナポレオンのドイツの同盟国を王国として認めた。この条約は1806年の神聖ローマ帝国解体の一因となった。"
+   }
+  },
+  {
+   "year": 1809,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "French destroy Devín Castle",
+    "ko": "프랑스군의 데빈 성 파괴",
+    "zh": "法军炸毁杰温城堡",
+    "ja": "フランス軍、デヴィーン城を破壊"
+   },
+   "description": {
+    "en": "During the 1809 war between France and Austria, Napoleon's troops besieged and bombarded Pressburg, and the ancient castle of Devín, at the confluence of the Morava and the Danube, was blown up. The ruin, once a Great Moravian stronghold, later became a symbol of Slovak national history for the Štúr generation. It is now a national cultural monument.",
+    "ko": "1809년 프랑스와 오스트리아의 전쟁 중 나폴레옹 군대는 프레스부르크를 포위·포격했고, 모라바강과 다뉴브강이 만나는 곳의 고성 데빈은 폭파되었다. 한때 대모라비아의 요새였던 이 폐허는 훗날 슈투르 세대에게 슬로바키아 민족사의 상징이 되었다. 현재 국가 문화 기념물이다.",
+    "zh": "在1809年法奥战争中，拿破仑军队围攻并炮击普雷斯堡，位于摩拉瓦河与多瑙河交汇处的古老杰温城堡被炸毁。这座曾为大摩拉维亚要塞的废墟，后来成为什图尔一代心目中斯洛伐克民族历史的象征。如今它是国家文化遗迹。",
+    "ja": "1809年のフランスとオーストリアの戦争中、ナポレオン軍はプレスブルクを包囲・砲撃し、モラヴァ川とドナウ川の合流点にある古城デヴィーンは爆破された。かつて大モラヴィアの要塞であったこの廃墟は、のちにシュトゥール世代にとってスロバキア民族史の象徴となった。現在は国の文化記念物である。"
+   }
+  },
+  {
+   "year": 1831,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "East Slovak peasant uprising",
+    "ko": "동슬로바키아 농민 봉기",
+    "zh": "东斯洛伐克农民起义",
+    "ja": "東スロバキア農民蜂起"
+   },
+   "description": {
+    "en": "During the cholera epidemic of 1831, rumours that nobles and officials were poisoning wells sparked a violent peasant uprising in eastern Slovakia, especially in Zemplín, Šariš, Spiš and Abov. Peasants attacked manor houses and killed nobles, officials and doctors before the army suppressed the revolt with harsh reprisals. It was the largest peasant uprising in the region in the 19th century.",
+    "ko": "1831년 콜레라 유행 중 귀족과 관리들이 우물에 독을 탄다는 소문이 돌면서 슬로바키아 동부, 특히 젬플린·샤리시·스피시·아보우에서 격렬한 농민 봉기가 일어났다. 농민들은 영주 저택을 공격하고 귀족·관리·의사를 살해했으나, 군대가 가혹한 보복으로 봉기를 진압했다. 이는 19세기 이 지역 최대의 농민 봉기였다.",
+    "zh": "1831年霍乱流行期间，贵族和官员在井中投毒的谣言在斯洛伐克东部，尤其是泽姆普林、沙里什、斯皮什和阿波夫等地引发了激烈的农民起义。农民袭击庄园，杀害贵族、官员和医生，随后军队以严厉的报复镇压了起义。这是19世纪该地区规模最大的农民起义。",
+    "ja": "1831年のコレラ流行の際、貴族や役人が井戸に毒を入れているという噂が、スロバキア東部、とくにゼンプリーン、シャリシュ、スピシュ、アバウーイで激しい農民蜂起を引き起こした。農民は領主館を襲い、貴族・役人・医師を殺害したが、軍隊が苛烈な報復で鎮圧した。これは19世紀のこの地域で最大の農民蜂起だった。"
+   }
+  },
+  {
+   "year": 1843,
+   "qid": null,
+   "importance": 1,
+   "category": "culture",
+   "title": {
+    "en": "Codification of literary Slovak",
+    "ko": "슬로바키아 표준 문어의 확립",
+    "zh": "斯洛伐克标准语的确立",
+    "ja": "スロバキア標準文語の確立"
+   },
+   "description": {
+    "en": "Ľudovít Štúr codified a standard Slovak literary language based on central Slovak dialects, uniting Catholic and Protestant writing traditions and fueling the national revival. Štúr, Jozef Miloslav Hurban and Michal Miloslav Hodža agreed on the new standard at Hlboké in July 1843. After later reforms by Martin Hattala in 1851, it became the basis of modern Slovak.",
+    "ko": "류도비트 슈투르가 중부 슬로바키아 방언을 바탕으로 표준 문어를 확립했다. 가톨릭과 개신교의 문어 전통을 통합하며 민족 부흥 운동에 힘을 불어넣었다. 1843년 7월 슈투르, 요제프 밀로슬라우 후르반, 미할 밀로슬라우 호자는 흘보케에서 새 표준에 합의했다. 1851년 마르틴 하탈라의 개정을 거쳐 현대 슬로바키아어의 기초가 되었다.",
+    "zh": "卢多维特·什图尔以中部斯洛伐克方言为基础确立了标准书面语，统一了天主教与新教的书写传统，推动了民族复兴运动。1843年7月，什图尔、约瑟夫·米洛斯拉夫·胡尔班和米哈尔·米洛斯拉夫·霍扎在赫尔博凯商定了新标准。经1851年马丁·哈塔拉的修订后，它成为现代斯洛伐克语的基础。",
+    "ja": "リュドヴィート・シュトゥールが中部スロバキア方言を基礎に標準文語を確立した。カトリックとプロテスタントの書き言葉の伝統を統合し、民族復興運動を後押しした。1843年7月、シュトゥール、ヨゼフ・ミロスラウ・フルバン、ミハル・ミロスラウ・ホジャはフルボケーで新しい標準に合意した。1851年のマルティン・ハッタラによる改訂を経て、現代スロバキア語の基礎となった。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Demands of the Slovak Nation and the Slovak Uprising",
+    "ko": "슬로바키아 민족의 요구와 슬로바키아 봉기",
+    "zh": "《斯洛伐克民族的要求》与斯洛伐克起义",
+    "ja": "スロバキア民族の要求とスロバキア蜂起"
+   },
+   "description": {
+    "en": "During the revolutions of 1848, Slovak leaders adopted the 'Demands of the Slovak Nation' at Liptovský Mikuláš in May, calling for national rights within a federalised Hungary. When the Hungarian government rejected them, Štúr, Hurban and Hodža formed the Slovak National Council in Vienna in September 1848 and led Slovak volunteer expeditions against the Hungarian revolutionaries. Although they fought alongside the Habsburgs, Slovak autonomy was not granted.",
+    "ko": "1848년 혁명 중 슬로바키아 지도자들은 5월 리프토우스키 미쿨라시에서 연방화된 헝가리 안에서의 민족 권리를 요구하는 '슬로바키아 민족의 요구'를 채택했다. 헝가리 정부가 이를 거부하자 슈투르, 후르반, 호자는 1848년 9월 빈에서 슬로바키아 민족회의를 결성하고 헝가리 혁명군에 맞선 슬로바키아 의용군 원정을 이끌었다. 그들은 합스부르크 편에서 싸웠지만 슬로바키아 자치는 주어지지 않았다.",
+    "zh": "1848年革命期间，斯洛伐克领袖们于5月在利普托夫斯基米库拉什通过《斯洛伐克民族的要求》，要求在联邦化的匈牙利内享有民族权利。匈牙利政府拒绝后，什图尔、胡尔班和霍扎于1848年9月在维也纳成立斯洛伐克民族委员会，率领斯洛伐克志愿军远征，对抗匈牙利革命者。尽管他们站在哈布斯堡一方作战，斯洛伐克自治却未获准许。",
+    "ja": "1848年革命の際、スロバキアの指導者たちは5月にリプトウスキー・ミクラーシュで、連邦化されたハンガリーの中での民族的権利を求める「スロバキア民族の要求」を採択した。ハンガリー政府がこれを拒むと、シュトゥール、フルバン、ホジャは1848年9月にウィーンでスロバキア民族評議会を結成し、ハンガリー革命派に対するスロバキア義勇軍の遠征を率いた。彼らはハプスブルク側で戦ったが、スロバキアの自治は認められなかった。"
+   }
+  },
+  {
+   "year": 1849,
+   "qid": "Q849020",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Branisko",
+    "ko": "브라니스코 전투",
+    "zh": "布拉尼斯科战役",
+    "ja": "ブラニスコの戦い"
+   },
+   "description": {
+    "en": "In February 1849 Hungarian honvéd troops under Richard Guyon stormed the Branisko pass in eastern Slovakia, held by Austrian imperial forces. The victory allowed Hungarian units to unite and continue the revolutionary war. The war ended in August 1849 when Russian intervention helped the Habsburgs crush the Hungarian revolution.",
+    "ko": "1849년 2월 리처드 가이언이 이끄는 헝가리 혼베드 부대가 오스트리아 제국군이 지키던 슬로바키아 동부의 브라니스코 고개를 강습해 점령했다. 이 승리로 헝가리 부대들은 합류해 혁명 전쟁을 이어 갈 수 있었다. 전쟁은 1849년 8월 러시아의 개입에 힘입어 합스부르크가 헝가리 혁명을 진압하면서 끝났다.",
+    "zh": "1849年2月，理查德·盖恩率领的匈牙利国防军猛攻由奥地利帝国军队据守的斯洛伐克东部布拉尼斯科山口。这场胜利使匈牙利各部得以会合，继续进行革命战争。1849年8月，在俄国干预下，哈布斯堡镇压了匈牙利革命，战争结束。",
+    "ja": "1849年2月、リチャード・ガイヨン率いるハンガリーの国防軍が、オーストリア帝国軍の守るスロバキア東部のブラニスコ峠を強襲して奪取した。この勝利でハンガリー軍の諸部隊は合流し、革命戦争を続けることができた。戦争は1849年8月、ロシアの介入に助けられたハプスブルク家がハンガリー革命を鎮圧して終わった。"
+   }
+  },
+  {
+   "year": 1863,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Matica slovenská founded",
+    "ko": "마티차 슬로벤스카 설립",
+    "zh": "斯洛伐克文化协会成立",
+    "ja": "マチツァ・スロヴェンスカーの設立"
+   },
+   "description": {
+    "en": "Following the 1861 Memorandum of the Slovak Nation adopted at Martin, which demanded a Slovak district within Hungary, the cultural foundation Matica slovenská was established in Martin in August 1863. It promoted Slovak literature, scholarship and education, and three Slovak grammar schools opened in the following years. Hungarian authorities closed the Matica and the schools in 1874–75.",
+    "ko": "1861년 마르틴에서 헝가리 안의 슬로바키아 자치구를 요구한 '슬로바키아 민족 각서'가 채택된 데 이어, 1863년 8월 마르틴에서 문화 단체 마티차 슬로벤스카가 설립되었다. 이 단체는 슬로바키아 문학·학문·교육을 장려했고, 이후 몇 년간 슬로바키아어 김나지움 세 곳이 문을 열었다. 헝가리 당국은 1874~75년 마티차와 이 학교들을 폐쇄했다.",
+    "zh": "继1861年在马丁通过要求在匈牙利境内设立斯洛伐克区的《斯洛伐克民族备忘录》之后，文化团体斯洛伐克文化协会（马蒂察）于1863年8月在马丁成立。它推动斯洛伐克文学、学术和教育的发展，随后几年开办了三所斯洛伐克语文理中学。1874至1875年，匈牙利当局关闭了该协会和这些学校。",
+    "ja": "1861年にマルティンでハンガリー内のスロバキア自治区を求める「スロバキア民族の覚書」が採択されたのに続き、1863年8月にマルティンで文化団体マチツァ・スロヴェンスカーが設立された。同団体はスロバキアの文学・学術・教育を振興し、その後数年でスロバキア語のギムナジウム3校が開校した。ハンガリー当局は1874〜75年にマチツァとこれらの学校を閉鎖した。"
+   }
+  },
+  {
+   "year": 1866,
+   "qid": "Q561512",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Lamač (Blumenau)",
+    "ko": "라마치(블루메나우) 전투",
+    "zh": "拉马奇（布卢梅瑙）战役",
+    "ja": "ラマチ（ブルーメナウ）の戦い"
+   },
+   "description": {
+    "en": "On 22 July 1866, during the Austro-Prussian War, Prussian troops advancing on Pressburg clashed with Austrian forces at Lamač (Blumenau), now part of Bratislava. The fighting was cut short by a ceasefire that took effect the same day, making it the last engagement of the war. The Austrian defeat in the war led directly to the Austro-Hungarian Compromise of 1867.",
+    "ko": "1866년 7월 22일 보오 전쟁 중 프레스부르크로 진격하던 프로이센군이 오늘날 브라티슬라바의 일부인 라마치(블루메나우)에서 오스트리아군과 충돌했다. 같은 날 발효된 휴전으로 전투는 중단되었고, 이것이 전쟁의 마지막 교전이 되었다. 이 전쟁에서의 오스트리아 패배는 1867년 오스트리아-헝가리 대타협으로 직결되었다.",
+    "zh": "1866年7月22日普奥战争期间，向普雷斯堡推进的普鲁士军队在今属布拉迪斯拉发的拉马奇（布卢梅瑙）与奥地利军队交战。当天生效的停火协议使战斗中止，这成为该战争的最后一场交锋。奥地利的战败直接促成了1867年的奥匈妥协。",
+    "ja": "1866年7月22日、普墺戦争中にプレスブルクへ進撃していたプロイセン軍が、現在ブラチスラバの一部であるラマチ（ブルーメナウ）でオーストリア軍と衝突した。同日発効した休戦により戦闘は中断され、これが戦争最後の交戦となった。この戦争でのオーストリアの敗北は1867年のオーストリア＝ハンガリー妥協に直結した。"
+   }
+  },
+  {
+   "year": 1867,
+   "qid": "Q28513",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Austro-Hungarian Compromise",
+    "ko": "오스트리아-헝가리 대타협",
+    "zh": "奥匈妥协",
+    "ja": "オーストリア＝ハンガリー妥協"
+   },
+   "description": {
+    "en": "The Compromise of 1867 transformed the Austrian Empire into the Dual Monarchy of Austria-Hungary, giving the Kingdom of Hungary, including Slovakia, full control of its internal affairs. The Hungarian Nationalities Law of 1868 recognised only one political nation in Hungary. Successive governments pursued Magyarization in schools and administration, leaving Slovaks with little political representation.",
+    "ko": "1867년 대타협으로 오스트리아 제국은 오스트리아-헝가리 이중 군주국으로 바뀌었고, 슬로바키아를 포함한 헝가리 왕국은 내정의 완전한 통제권을 얻었다. 1868년 헝가리 민족법은 헝가리에 단 하나의 정치적 민족만을 인정했다. 역대 정부는 학교와 행정에서 마자르화를 추진해 슬로바키아인의 정치적 대표권은 미미했다.",
+    "zh": "1867年的妥协将奥地利帝国改造为奥匈二元君主国，包括斯洛伐克在内的匈牙利王国获得对内政的完全控制。1868年匈牙利《民族法》只承认匈牙利存在一个政治民族。历届政府在学校和行政中推行马扎尔化，斯洛伐克人几乎没有政治代表权。",
+    "ja": "1867年の妥協によりオーストリア帝国はオーストリア＝ハンガリー二重君主国に変わり、スロバキアを含むハンガリー王国は内政の完全な権限を得た。1868年のハンガリー民族法はハンガリーに一つの政治的国民しか認めなかった。歴代政府は学校と行政でマジャル化を進め、スロバキア人の政治的代表はわずかなものにとどまった。"
+   }
+  },
+  {
+   "year": 1907,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Apponyi school laws",
+    "ko": "아포니 교육법",
+    "zh": "阿波尼教育法",
+    "ja": "アポニ教育法"
+   },
+   "description": {
+    "en": "In 1907 the Hungarian education minister Albert Apponyi introduced laws requiring non-Hungarian schools to ensure pupils could express themselves in Hungarian after four years, and tightening state control over teachers. The laws accelerated the decline of Slovak-language education. They were widely criticised abroad, including by the Norwegian writer Bjørnstjerne Bjørnson, as an instrument of forced assimilation.",
+    "ko": "1907년 헝가리 교육부 장관 아포니 얼베르트는 비헝가리어 학교가 4년 뒤 학생들이 헝가리어로 의사를 표현할 수 있도록 보장하게 하고 교사에 대한 국가 통제를 강화하는 법을 도입했다. 이 법으로 슬로바키아어 교육의 쇠퇴가 가속되었다. 노르웨이 작가 비에른스티에르네 비에른손을 비롯한 해외 인사들은 이를 강제 동화의 도구라고 널리 비판했다.",
+    "zh": "1907年，匈牙利教育部长阿波尼·阿尔贝特推出法律，要求非匈牙利语学校确保学生在四年后能用匈牙利语表达，并加强国家对教师的控制。这些法律加速了斯洛伐克语教育的衰落，被包括挪威作家比约恩斯滕·比约恩松在内的海外人士广泛批评为强制同化的工具。",
+    "ja": "1907年、ハンガリーの教育相アポニ・アルベルトは、非ハンガリー語学校に4年後には生徒がハンガリー語で意思表示できるようにすることを義務づけ、教師への国家統制を強める法律を導入した。これによりスロバキア語教育の衰退が加速した。ノルウェーの作家ビョルンスチェルネ・ビョルンソンをはじめ海外からも、強制同化の道具として広く批判された。"
+   }
+  },
+  {
+   "year": 1907,
+   "qid": "Q686944",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Černová massacre",
+    "ko": "체르노바 학살",
+    "zh": "切尔诺瓦惨案",
+    "ja": "チェルノヴァー事件"
+   },
+   "description": {
+    "en": "On 27 October 1907, in the village of Černová near Ružomberok, gendarmes fired on villagers protesting against the consecration of their new church by a priest other than Andrej Hlinka, the popular Slovak priest who had been suspended. Fifteen people were killed. The massacre drew international attention to the treatment of Slovaks in Hungary and made Hlinka a national figure.",
+    "ko": "1907년 10월 27일 루좀베로크 인근 체르노바 마을에서, 정직 처분을 받은 인기 있는 슬로바키아인 사제 안드레이 흘린카 대신 다른 사제가 새 성당을 축성하는 데 항의하던 주민들에게 헌병들이 발포했다. 15명이 목숨을 잃었다. 이 학살은 헝가리 내 슬로바키아인의 처우에 국제적 관심을 불러일으켰고 흘린카를 민족적 인물로 만들었다.",
+    "zh": "1907年10月27日，在鲁容贝罗克附近的切尔诺瓦村，村民抗议由他人而非已被停职的深孚众望的斯洛伐克神父安德烈·赫林卡为新教堂祝圣，宪兵向他们开枪，造成15人死亡。这场惨案使国际社会关注匈牙利境内斯洛伐克人的处境，也使赫林卡成为民族人物。",
+    "ja": "1907年10月27日、ルジョンベロク近郊のチェルノヴァー村で、停職処分を受けていた人気のスロバキア人司祭アンドレイ・フリンカではなく別の司祭が新しい教会を献堂することに抗議した村人たちに、憲兵が発砲した。15人が死亡した。この事件はハンガリーにおけるスロバキア人の処遇に国際的な関心を集め、フリンカを民族的人物にした。"
+   }
+  },
+  {
+   "year": 1915,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Cleveland Agreement",
+    "ko": "클리블랜드 협정",
+    "zh": "《克利夫兰协定》",
+    "ja": "クリーブランド協定"
+   },
+   "description": {
+    "en": "In October 1915, during World War I, Czech and Slovak émigré organisations in the United States signed the Cleveland Agreement, calling for an independent federal state of Czechs and Slovaks with Slovak autonomy. It was followed in May 1918 by the Pittsburgh Agreement, signed in Masaryk's presence, which promised Slovakia its own administration, diet and courts. The unfulfilled autonomy promise later became a major grievance.",
+    "ko": "제1차 세계대전 중인 1915년 10월 미국의 체코·슬로바키아 이민 단체들은 슬로바키아 자치를 포함한 체코인과 슬로바키아인의 독립 연방 국가를 요구하는 클리블랜드 협정에 서명했다. 1918년 5월에는 마사리크가 참석한 가운데 피츠버그 협정이 체결되어 슬로바키아에 자체 행정·의회·법원을 약속했다. 이행되지 않은 자치 약속은 훗날 큰 불만의 원인이 되었다.",
+    "zh": "第一次世界大战期间的1915年10月，美国的捷克和斯洛伐克侨民组织签署《克利夫兰协定》，呼吁建立斯洛伐克享有自治的捷克人与斯洛伐克人独立联邦国家。1918年5月，又在马萨里克在场的情况下签署《匹兹堡协定》，承诺斯洛伐克拥有自己的行政机构、议会和法院。这一未兑现的自治承诺后来成为重大不满的根源。",
+    "ja": "第一次世界大戦中の1915年10月、アメリカのチェコ人・スロバキア人移民団体は、スロバキアの自治を伴うチェコ人とスロバキア人の独立した連邦国家を求めるクリーブランド協定に署名した。1918年5月にはマサリク立ち会いのもとピッツバーグ協定が結ばれ、スロバキアに独自の行政・議会・裁判所が約束された。果たされなかった自治の約束は、のちに大きな不満の種となった。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Czechoslovakia",
+    "ko": "체코슬로바키아 건국",
+    "zh": "捷克斯洛伐克建国",
+    "ja": "チェコスロバキアの建国"
+   },
+   "description": {
+    "en": "With the Martin Declaration, Slovaks joined the Czechs in the new Czechoslovak Republic, ending roughly a millennium of Hungarian rule over Slovakia. Czechoslovakia was proclaimed in Prague on 28 October 1918, and on 30 October the Slovak National Council at Martin declared that Slovaks were part of a Czecho-Slovak nation. Czechoslovak troops took control of Slovakia over the following months.",
+    "ko": "마르틴 선언으로 슬로바키아인들은 체코인들과 함께 새로운 체코슬로바키아 공화국에 참여했다. 이로써 슬로바키아에 대한 천 년에 걸친 헝가리 지배가 끝났다. 체코슬로바키아는 1918년 10월 28일 프라하에서 선포되었고, 10월 30일 마르틴의 슬로바키아 민족회의는 슬로바키아인이 체코-슬로바키아 민족의 일부임을 선언했다. 이후 몇 달에 걸쳐 체코슬로바키아군이 슬로바키아를 장악했다.",
+    "zh": "通过《马丁宣言》，斯洛伐克人与捷克人共同组成新的捷克斯洛伐克共和国，结束了匈牙利对斯洛伐克近千年的统治。捷克斯洛伐克于1918年10月28日在布拉格宣告成立，10月30日马丁的斯洛伐克民族委员会宣布斯洛伐克人是捷克—斯洛伐克民族的一部分。此后数月，捷克斯洛伐克军队逐步控制了斯洛伐克。",
+    "ja": "マルティン宣言により、スロバキア人はチェコ人とともに新生チェコスロバキア共和国に加わった。これによりスロバキアに対する約千年に及ぶハンガリー支配が終わった。チェコスロバキアは1918年10月28日にプラハで宣言され、10月30日にはマルティンのスロバキア民族評議会がスロバキア人はチェコ＝スロバキア民族の一部であると宣言した。その後数か月でチェコスロバキア軍がスロバキアを掌握した。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": "Q200896",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Slovak Soviet Republic",
+    "ko": "슬로바키아 평의회 공화국",
+    "zh": "斯洛伐克苏维埃共和国",
+    "ja": "スロバキア・ソビエト共和国"
+   },
+   "description": {
+    "en": "In spring 1919 the army of the Hungarian Soviet Republic advanced into eastern and central Slovakia, and on 16 June 1919 a Slovak Soviet Republic was proclaimed in Prešov under its protection. It lasted only about three weeks, collapsing when Hungarian forces withdrew under Allied pressure in early July. Czechoslovak control over Slovakia was then consolidated.",
+    "ko": "1919년 봄 헝가리 평의회 공화국군이 슬로바키아 동부와 중부로 진격했고, 1919년 6월 16일 그 보호 아래 프레쇼우에서 슬로바키아 평의회 공화국이 선포되었다. 이 공화국은 약 3주밖에 존속하지 못하고, 7월 초 연합국의 압력으로 헝가리군이 철수하자 무너졌다. 이후 슬로바키아에 대한 체코슬로바키아의 통제가 굳어졌다.",
+    "zh": "1919年春，匈牙利苏维埃共和国军队攻入斯洛伐克东部和中部，1919年6月16日在其保护下于普雷绍夫宣布成立斯洛伐克苏维埃共和国。该政权仅存在约三周，7月初匈牙利军队在协约国压力下撤退后随即瓦解。此后捷克斯洛伐克对斯洛伐克的控制得以巩固。",
+    "ja": "1919年春、ハンガリー・ソビエト共和国の軍がスロバキア東部・中部に進攻し、1919年6月16日にはその保護のもとプレショフでスロバキア・ソビエト共和国が宣言された。同共和国はわずか3週間ほどしか続かず、7月初めに連合国の圧力でハンガリー軍が撤退すると崩壊した。その後、スロバキアに対するチェコスロバキアの支配が固まった。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Comenius University and Bratislava as capital",
+    "ko": "코메니우스 대학교 설립과 수도 브라티슬라바",
+    "zh": "夸美纽斯大学创立与布拉迪斯拉发成为首府",
+    "ja": "コメニウス大学の創設と首都ブラチスラバ"
+   },
+   "description": {
+    "en": "After Czechoslovak troops took over Pressburg in January 1919, the city was renamed Bratislava and became the administrative centre of Slovakia. In the same year Comenius University was founded there, the first modern Slovak university, replacing the Hungarian Elisabeth University. Bratislava's population, previously mostly German and Hungarian, became increasingly Slovak in the following decades.",
+    "ko": "1919년 1월 체코슬로바키아군이 프레스부르크를 장악한 뒤 도시 이름은 브라티슬라바로 바뀌었고 슬로바키아의 행정 중심지가 되었다. 같은 해 헝가리의 엘리자베트 대학을 대신해 최초의 근대 슬로바키아 대학인 코메니우스 대학교가 이곳에 설립되었다. 이전에는 주민 대부분이 독일인과 헝가리인이었던 브라티슬라바는 이후 수십 년 동안 점점 슬로바키아인 도시가 되었다.",
+    "zh": "1919年1月捷克斯洛伐克军队接管普雷斯堡后，该城更名为布拉迪斯拉发，成为斯洛伐克的行政中心。同年，第一所现代斯洛伐克大学夸美纽斯大学在此创立，取代了匈牙利的伊丽莎白大学。布拉迪斯拉发原本以德意志人和匈牙利人居多，此后数十年间斯洛伐克人比例日益增加。",
+    "ja": "1919年1月にチェコスロバキア軍がプレスブルクを掌握すると、都市はブラチスラバと改称され、スロバキアの行政中心となった。同年、ハンガリーのエルジェーベト大学に代わり、最初の近代的なスロバキアの大学であるコメニウス大学がここに創設された。それまで住民の大半がドイツ人とハンガリー人だったブラチスラバは、その後数十年で次第にスロバキア人の都市となった。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Trianon",
+    "ko": "트리아농 조약",
+    "zh": "《特里亚农条约》",
+    "ja": "トリアノン条約"
+   },
+   "description": {
+    "en": "The Treaty of Trianon, signed in June 1920 between the Allies and Hungary, confirmed Slovakia's place within Czechoslovakia and fixed the southern border along the Danube and further east. Several hundred thousand ethnic Hungarians found themselves inside Czechoslovakia. The treaty remains a deeply sensitive subject in Hungarian–Slovak relations.",
+    "ko": "1920년 6월 연합국과 헝가리가 체결한 트리아농 조약은 슬로바키아가 체코슬로바키아에 속함을 확인하고, 다뉴브강과 그 동쪽을 따라 남부 국경을 확정했다. 수십만 명의 헝가리계 주민이 체코슬로바키아 안에 남게 되었다. 이 조약은 지금도 헝가리와 슬로바키아 관계에서 매우 민감한 주제다.",
+    "zh": "1920年6月协约国与匈牙利签订的《特里亚农条约》确认斯洛伐克属于捷克斯洛伐克，并沿多瑙河及其以东划定南部边界。数十万匈牙利族人因此留在捷克斯洛伐克境内。该条约至今仍是匈斯关系中极为敏感的话题。",
+    "ja": "1920年6月に連合国とハンガリーの間で調印されたトリアノン条約は、スロバキアがチェコスロバキアに属することを確認し、ドナウ川とその東に沿って南の国境を定めた。数十万人のハンガリー系住民がチェコスロバキア領内に残ることになった。この条約は今もハンガリーとスロバキアの関係で非常に敏感な問題である。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Žilina autonomy and the First Vienna Award",
+    "ko": "질리나 자치 선언과 제1차 빈 중재",
+    "zh": "日利纳自治与第一次维也纳仲裁",
+    "ja": "ジリナ自治宣言と第一次ウィーン裁定"
+   },
+   "description": {
+    "en": "After the Munich Agreement, the Hlinka Slovak People's Party and other parties declared Slovak autonomy at Žilina on 6 October 1938, and Jozef Tiso became head of the autonomous government. On 2 November 1938 the First Vienna Award, decided by Germany and Italy, gave southern Slovakia, including Košice, to Hungary. The autonomous regime quickly suppressed opposition parties and turned authoritarian.",
+    "ko": "뮌헨 협정 이후 흘린카 슬로바키아 인민당과 다른 정당들은 1938년 10월 6일 질리나에서 슬로바키아 자치를 선언했고, 요제프 티소가 자치 정부 수반이 되었다. 1938년 11월 2일 독일과 이탈리아가 결정한 제1차 빈 중재로 코시체를 포함한 슬로바키아 남부가 헝가리에 넘어갔다. 자치 정권은 곧 야당을 탄압하며 권위주의로 돌아섰다.",
+    "zh": "《慕尼黑协定》签订后，赫林卡斯洛伐克人民党与其他政党于1938年10月6日在日利纳宣布斯洛伐克自治，约瑟夫·蒂索出任自治政府首脑。1938年11月2日，由德意两国作出的第一次维也纳仲裁将包括科希策在内的斯洛伐克南部划给匈牙利。自治政权很快压制反对党，走向威权统治。",
+    "ja": "ミュンヘン協定後、フリンカ・スロバキア人民党などは1938年10月6日にジリナでスロバキアの自治を宣言し、ヨゼフ・ティソが自治政府の首班となった。1938年11月2日、ドイツとイタリアが決定した第一次ウィーン裁定により、コシツェを含むスロバキア南部がハンガリーに割譲された。自治政権はすぐに野党を弾圧し、権威主義へと転じた。"
+   }
+  },
+  {
+   "year": 1939,
+   "qid": "Q154401",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Wartime Slovak State",
+    "ko": "제2차 세계대전기의 슬로바키아국",
+    "zh": "战时斯洛伐克国",
+    "ja": "戦時下のスロバキア国"
+   },
+   "description": {
+    "en": "After the German dismemberment of Czechoslovakia, a nominally independent Slovak State was established under Jozef Tiso as a client of Nazi Germany; it took part in deportations of Slovak Jews. The Slovak parliament proclaimed independence on 14 March 1939 under pressure from Hitler, and Slovak troops joined the German invasion of Poland that September. Hungary seized a further strip of eastern Slovakia in March 1939.",
+    "ko": "독일이 체코슬로바키아를 해체하자 요제프 티소를 수반으로 하는 명목상 독립국인 슬로바키아국이 나치 독일의 위성국으로 수립되었고, 슬로바키아 유대인의 강제 이송에 관여했다. 슬로바키아 의회는 1939년 3월 14일 히틀러의 압력 아래 독립을 선포했고, 슬로바키아군은 그해 9월 독일의 폴란드 침공에 가담했다. 헝가리는 1939년 3월 슬로바키아 동부의 일부 지역을 추가로 점령했다.",
+    "zh": "德国肢解捷克斯洛伐克后，以约瑟夫·蒂索为首、名义上独立的斯洛伐克国作为纳粹德国的附庸国成立，并参与了对斯洛伐克犹太人的驱逐。1939年3月14日，斯洛伐克议会在希特勒的压力下宣布独立，同年9月斯洛伐克军队参与了德国入侵波兰。1939年3月，匈牙利又夺取了斯洛伐克东部的一片狭长地带。",
+    "ja": "ドイツによるチェコスロバキア解体後、ヨゼフ・ティソを首班とする名目上独立のスロバキア国がナチス・ドイツの従属国として成立し、スロバキアのユダヤ人の強制移送にも関与した。スロバキア議会は1939年3月14日にヒトラーの圧力のもとで独立を宣言し、同年9月にはスロバキア軍がドイツのポーランド侵攻に加わった。ハンガリーは1939年3月にスロバキア東部の細長い地域をさらに奪った。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Deportation of Slovak Jews",
+    "ko": "슬로바키아 유대인 강제 이송",
+    "zh": "斯洛伐克犹太人被驱逐",
+    "ja": "スロバキアのユダヤ人の強制移送"
+   },
+   "description": {
+    "en": "Between March and October 1942 the Slovak State organised the deportation of about 58,000 Jews to German-occupied Poland, paying Germany a fee for each person deported; very few survived. Earlier, the regime had stripped Jews of property and rights under the 1941 'Jewish Code'. After the 1944 uprising, German forces deported about 13,000 more, and in total most of Slovakia's Jewish community was murdered in the Holocaust.",
+    "ko": "1942년 3월부터 10월 사이 슬로바키아국은 약 5만 8천 명의 유대인을 독일 점령하 폴란드로 강제 이송하도록 조직했으며, 이송 1인당 독일에 대가를 지불했다. 생존자는 극소수였다. 그에 앞서 정권은 1941년 '유대인 법전'으로 유대인의 재산과 권리를 박탈했다. 1944년 봉기 이후 독일군이 약 1만 3천 명을 추가로 이송했고, 결국 슬로바키아 유대인 공동체 대부분이 홀로코스트로 학살되었다.",
+    "zh": "1942年3月至10月间，斯洛伐克国组织将约5.8万名犹太人驱逐到德占波兰，并按人头向德国支付费用；幸存者寥寥无几。此前，该政权已依据1941年的《犹太法典》剥夺了犹太人的财产和权利。1944年起义后，德军又驱逐了约1.3万人，斯洛伐克犹太社群的大多数最终在大屠杀中遇害。",
+    "ja": "1942年3月から10月にかけて、スロバキア国は約5万8千人のユダヤ人をドイツ占領下のポーランドへ強制移送することを組織し、移送者一人当たりの代金をドイツに支払った。生還者はごくわずかだった。それに先立ち、政権は1941年の「ユダヤ人法典」によってユダヤ人の財産と権利を奪っていた。1944年の蜂起後にはドイツ軍がさらに約1万3千人を移送し、スロバキアのユダヤ人共同体の大半がホロコーストで殺害された。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Slovak National Uprising",
+    "ko": "슬로바키아 민족봉기",
+    "zh": "斯洛伐克民族起义",
+    "ja": "スロバキア国民蜂起"
+   },
+   "description": {
+    "en": "Slovak resistance forces rose against the German occupation and the collaborationist regime. Though suppressed after two months, the uprising became a cornerstone of modern Slovak identity. Launched on 29 August 1944 from Banská Bystrica by parts of the Slovak army and partisans, it brought together democratic and communist resisters; German reprisals after its defeat in late October included massacres such as those at Kremnička and Nemecká.",
+    "ko": "슬로바키아 저항 세력이 독일 점령군과 부역 정권에 맞서 봉기했다. 두 달 만에 진압되었지만, 이 봉기는 현대 슬로바키아 정체성의 초석이 되었다. 1944년 8월 29일 반스카 비스트리차에서 슬로바키아군 일부와 빨치산이 일으킨 봉기에는 민주 진영과 공산 진영의 저항 세력이 함께했다. 10월 말 진압 후 독일의 보복에는 크렘니치카와 네메츠카 학살 등이 포함되었다.",
+    "zh": "斯洛伐克抵抗力量奋起反抗德国占领军和附敌政权。起义虽在两个月后被镇压，却成为现代斯洛伐克认同的基石。1944年8月29日，部分斯洛伐克军队和游击队从班斯卡-比斯特里察发动起义，民主派与共产党抵抗力量携手合作；10月底起义失败后，德军展开报复，包括克雷姆尼奇卡和涅梅茨卡等地的屠杀。",
+    "ja": "スロバキアの抵抗勢力がドイツ占領軍と対独協力政権に対して蜂起した。2か月で鎮圧されたものの、この蜂起は現代スロバキアのアイデンティティの礎となった。1944年8月29日にバンスカー・ビストリツァからスロバキア軍の一部とパルチザンが起こした蜂起には、民主派と共産主義者の抵抗勢力がともに加わった。10月末の鎮圧後、ドイツはクレムニチカやネメツカーでの虐殺などの報復を行った。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Liberation and restoration of Czechoslovakia",
+    "ko": "해방과 체코슬로바키아 재건",
+    "zh": "解放与捷克斯洛伐克重建",
+    "ja": "解放とチェコスロバキアの再建"
+   },
+   "description": {
+    "en": "The Red Army, with Czechoslovak and Romanian units, drove German forces out of Slovakia between late 1944 and spring 1945; Bratislava was taken on 4 April 1945. The Košice Government Programme, proclaimed in April 1945, restored Czechoslovakia, recognised Slovaks as a distinct nation and gave communists strong positions. It also provided for the expulsion of Germans and measures against the Hungarian minority.",
+    "ko": "붉은 군대는 체코슬로바키아·루마니아 부대와 함께 1944년 말부터 1945년 봄 사이 독일군을 슬로바키아에서 몰아냈으며, 브라티슬라바는 1945년 4월 4일 해방되었다. 1945년 4월 선포된 코시체 정부 강령은 체코슬로바키아를 재건하고 슬로바키아인을 별개의 민족으로 인정했으며 공산주의자들에게 강력한 지위를 부여했다. 또 독일인 추방과 헝가리계 소수민족에 대한 조치를 규정했다.",
+    "zh": "1944年底至1945年春，红军与捷克斯洛伐克和罗马尼亚部队一道将德军逐出斯洛伐克，布拉迪斯拉发于1945年4月4日解放。1945年4月宣布的《科希策政府纲领》恢复了捷克斯洛伐克，承认斯洛伐克人为独立的民族，并使共产党人获得强势地位。纲领还规定驱逐德意志人并对匈牙利少数民族采取措施。",
+    "ja": "赤軍はチェコスロバキア軍・ルーマニア軍の部隊とともに、1944年末から1945年春にかけてドイツ軍をスロバキアから駆逐し、ブラチスラバは1945年4月4日に解放された。1945年4月に発表されたコシツェ政府綱領はチェコスロバキアを再建し、スロバキア人を独自の民族と認め、共産主義者に強い地位を与えた。またドイツ人の追放とハンガリー系少数民族に対する措置も定めた。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Population exchange with Hungary and the 1946 elections",
+    "ko": "헝가리와의 주민 교환과 1946년 선거",
+    "zh": "与匈牙利交换人口与1946年选举",
+    "ja": "ハンガリーとの住民交換と1946年選挙"
+   },
+   "description": {
+    "en": "Under a 1946 agreement, tens of thousands of Hungarians from southern Slovakia were moved to Hungary in exchange for Slovaks from Hungary, while others were deported to the Czech lands for labour or pressured to 're-Slovakise'. In the May 1946 elections the Democratic Party won about 62% of the vote in Slovakia, while the Communists won nationwide. The Communists then worked to undermine the Democratic Party.",
+    "ko": "1946년 협정에 따라 슬로바키아 남부의 헝가리계 수만 명이 헝가리의 슬로바키아계 주민과 교환되어 헝가리로 이주했고, 다른 이들은 노동을 위해 체코 지역으로 강제 이주되거나 '재슬로바키아화'를 강요받았다. 1946년 5월 선거에서 민주당은 슬로바키아에서 약 62%를 득표했지만, 전국적으로는 공산당이 승리했다. 이후 공산당은 민주당을 약화시키는 데 힘을 쏟았다.",
+    "zh": "根据1946年的协议，斯洛伐克南部数以万计的匈牙利人被迁往匈牙利，以交换匈牙利境内的斯洛伐克人；另有一些人被强制迁往捷克地区劳动，或被迫“重新斯洛伐克化”。在1946年5月的选举中，民主党在斯洛伐克获得约62%的选票，但共产党在全国范围内获胜。此后共产党着力削弱民主党。",
+    "ja": "1946年の協定により、スロバキア南部のハンガリー系住民数万人がハンガリーのスロバキア系住民との交換でハンガリーへ移され、ほかの人々は労働のためチェコ地方へ強制移住させられたり、「再スロバキア化」を迫られたりした。1946年5月の選挙では民主党がスロバキアで約62%を得票したが、全国では共産党が勝利した。その後、共産党は民主党の弱体化に努めた。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Execution of Jozef Tiso",
+    "ko": "요제프 티소 처형",
+    "zh": "约瑟夫·蒂索被处决",
+    "ja": "ヨゼフ・ティソの処刑"
+   },
+   "description": {
+    "en": "In April 1947 the National Court in Bratislava sentenced Jozef Tiso, the former president of the wartime Slovak State, to death for treason and collaboration, and he was hanged on 18 April. His role, including in the deportation of Jews, remains contested in Slovak public memory. A minority of nationalists still commemorate him, while historians stress the regime's responsibility for its crimes.",
+    "ko": "1947년 4월 브라티슬라바의 국가재판소는 전시 슬로바키아국 대통령이었던 요제프 티소에게 반역과 부역 혐의로 사형을 선고했고, 그는 4월 18일 교수형에 처해졌다. 유대인 강제 이송을 포함한 그의 역할은 슬로바키아의 공적 기억 속에서 여전히 논쟁적이다. 일부 민족주의자들은 아직도 그를 기리지만, 역사가들은 그 정권의 범죄 책임을 강조한다.",
+    "zh": "1947年4月，布拉迪斯拉发国家法庭以叛国和通敌罪判处战时斯洛伐克国前总统约瑟夫·蒂索死刑，他于4月18日被处以绞刑。他的角色，包括在驱逐犹太人中的作用，在斯洛伐克公共记忆中仍有争议。少数民族主义者至今仍纪念他，而历史学家则强调该政权对其罪行负有责任。",
+    "ja": "1947年4月、ブラチスラバの国民法廷は戦時スロバキア国の元大統領ヨゼフ・ティソに反逆と対独協力の罪で死刑を言い渡し、彼は4月18日に絞首刑に処された。ユダヤ人の強制移送を含む彼の役割は、スロバキアの公的記憶の中で今も議論が分かれている。一部の民族主義者は今なお彼を顕彰するが、歴史家はその政権の犯罪責任を強調している。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Communist takeover of Czechoslovakia",
+    "ko": "체코슬로바키아 공산당 집권",
+    "zh": "捷克斯洛伐克共产党夺权",
+    "ja": "チェコスロバキアの共産党政権掌握"
+   },
+   "description": {
+    "en": "The Communist Party seized full power in Czechoslovakia in February 1948, beginning four decades of one-party rule, nationalization and alignment with the Soviet bloc. In Slovakia, the takeover followed the dismantling of the Democratic Party in late 1947. Show trials later targeted 'bourgeois nationalists', including the Slovak communists Gustáv Husák and Vladimír Clementis, the latter executed in 1952.",
+    "ko": "1948년 2월 공산당이 체코슬로바키아의 권력을 완전히 장악했다. 이후 40년에 걸친 일당 지배와 국유화, 소련 진영 편입이 이어졌다. 슬로바키아에서는 1947년 말 민주당 해체에 이어 권력 장악이 이루어졌다. 이후 여론 조작 재판은 슬로바키아 공산주의자 구스타우 후사크와 블라디미르 클레멘티스 등 '부르주아 민족주의자'를 겨냥했으며, 클레멘티스는 1952년 처형되었다.",
+    "zh": "1948年2月，共产党全面掌握捷克斯洛伐克政权，此后开始了长达四十年的一党统治、国有化和对苏联阵营的依附。在斯洛伐克，夺权发生在1947年底民主党被瓦解之后。此后的公审矛头指向“资产阶级民族主义者”，包括斯洛伐克共产党人古斯塔夫·胡萨克和弗拉基米尔·克莱门蒂斯，后者于1952年被处决。",
+    "ja": "1948年2月、共産党がチェコスロバキアの全権を掌握した。以後40年にわたる一党支配、国有化、ソ連圏への編入が続いた。スロバキアでは1947年末の民主党解体に続いて権力掌握が行われた。のちの見せしめ裁判は、スロバキアの共産主義者グスターウ・フサークやヴラジミール・クレメンティスら「ブルジョア民族主義者」を標的とし、クレメンティスは1952年に処刑された。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Action K: suppression of monasteries",
+    "ko": "K 작전: 수도원 탄압",
+    "zh": "“K行动”：取缔修道院",
+    "ja": "K作戦：修道院の弾圧"
+   },
+   "description": {
+    "en": "On the night of 13–14 April 1950 the communist security forces raided male monasteries across Czechoslovakia, interning monks in concentration monasteries; in Slovakia the night became known as the 'Barbarian Night'. Female orders were dissolved later that year, and the Greek Catholic Church was forcibly merged into the Orthodox Church in 1950. Religious life was driven largely underground until 1989.",
+    "ko": "1950년 4월 13~14일 밤 공산 정권의 보안군은 체코슬로바키아 전역의 남자 수도원을 급습해 수도사들을 집중 수용 수도원에 억류했으며, 슬로바키아에서는 이 밤을 '야만의 밤'이라 부른다. 같은 해 여자 수도회도 해산되었고, 그리스 가톨릭교회는 1950년 정교회에 강제 병합되었다. 종교 생활은 1989년까지 대체로 지하로 숨어들었다.",
+    "zh": "1950年4月13日至14日夜间，共产党政权的安全部队突袭捷克斯洛伐克各地的男修道院，将修士关押在集中修道院中；在斯洛伐克，这一夜被称为“野蛮之夜”。同年晚些时候女修会被解散，希腊礼天主教会也于1950年被强行并入东正教会。直到1989年，宗教生活基本转入地下。",
+    "ja": "1950年4月13日から14日にかけての夜、共産政権の治安部隊はチェコスロバキア全土の男子修道院を急襲し、修道士を集中修道院に収容した。スロバキアではこの夜は「野蛮の夜」と呼ばれる。同年中に女子修道会も解散させられ、ギリシャ・カトリック教会は1950年に正教会へ強制的に統合された。宗教生活は1989年までおおむね地下に追いやられた。"
+   }
+  },
+  {
+   "year": 1968,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Prague Spring and Warsaw Pact invasion",
+    "ko": "프라하의 봄과 바르샤바 조약군의 침공",
+    "zh": "布拉格之春与华约入侵",
+    "ja": "プラハの春とワルシャワ条約機構軍の侵攻"
+   },
+   "description": {
+    "en": "The reform movement led by Slovak communist Alexander Dubček was crushed by a Warsaw Pact invasion. The 1968 federalization law nonetheless made Slovakia a formally equal republic within Czechoslovakia. Dubček became Communist Party leader in January 1968, and troops entered on the night of 20–21 August; in Bratislava, civilians were killed during the invasion.",
+    "ko": "슬로바키아 출신 알렉산데르 둡체크가 이끈 개혁 운동이 바르샤바 조약군의 침공으로 좌절되었다. 다만 1968년의 연방화법으로 슬로바키아는 체코슬로바키아 내에서 형식상 대등한 공화국이 되었다. 둡체크는 1968년 1월 공산당 제1서기가 되었고, 군대는 8월 20~21일 밤 진입했다. 브라티슬라바에서도 침공 과정에서 민간인이 목숨을 잃었다.",
+    "zh": "斯洛伐克人亚历山大·杜布切克领导的改革运动被华约军队的入侵扼杀。不过1968年的联邦化法案使斯洛伐克在捷克斯洛伐克境内成为形式上平等的共和国。杜布切克于1968年1月出任共产党第一书记，华约军队于8月20日至21日夜间进入；在布拉迪斯拉发，入侵期间也有平民遇难。",
+    "ja": "スロバキア出身のアレクサンデル・ドプチェクが率いた改革運動は、ワルシャワ条約機構軍の侵攻によって挫折した。しかし1968年の連邦化法により、スロバキアは形式上対等な共和国となった。ドプチェクは1968年1月に共産党第一書記となり、軍は8月20日から21日の夜に侵入した。ブラチスラバでも侵攻の際に民間人が命を落とした。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": "Q1751495",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Federation and the Slovak Socialist Republic",
+    "ko": "연방제와 슬로바키아 사회주의 공화국",
+    "zh": "联邦制与斯洛伐克社会主义共和国",
+    "ja": "連邦制とスロバキア社会主義共和国"
+   },
+   "description": {
+    "en": "On 1 January 1969 Czechoslovakia became a federation of the Czech Socialist Republic and the Slovak Socialist Republic, each with its own government. In April 1969 the Slovak Gustáv Husák replaced Dubček as party leader and launched 'normalisation', purging reformers. Federalisation was the only major reform of 1968 to survive, though power remained centralised in the party.",
+    "ko": "1969년 1월 1일 체코슬로바키아는 각각 자체 정부를 둔 체코 사회주의 공화국과 슬로바키아 사회주의 공화국의 연방이 되었다. 1969년 4월 슬로바키아인 구스타우 후사크가 둡체크를 대신해 당 지도자가 되어 개혁파를 숙청하는 '정상화'를 시작했다. 연방화는 1968년 개혁 가운데 살아남은 유일한 주요 개혁이었지만, 권력은 여전히 당에 집중되었다.",
+    "zh": "1969年1月1日，捷克斯洛伐克成为由捷克社会主义共和国和斯洛伐克社会主义共和国组成的联邦，两者各有政府。1969年4月，斯洛伐克人古斯塔夫·胡萨克取代杜布切克出任党的领导人，推行清洗改革派的“正常化”。联邦化是1968年改革中唯一保留下来的重大改革，但权力仍集中于党。",
+    "ja": "1969年1月1日、チェコスロバキアはそれぞれ独自の政府を持つチェコ社会主義共和国とスロバキア社会主義共和国の連邦となった。1969年4月にはスロバキア人のグスターウ・フサークがドプチェクに代わって党指導者となり、改革派を粛清する「正常化」を始めた。連邦化は1968年の改革で生き残った唯一の主要な改革だったが、権力は依然として党に集中していた。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "SNP Bridge opens in Bratislava",
+    "ko": "브라티슬라바 SNP 다리 개통",
+    "zh": "布拉迪斯拉发SNP大桥通车",
+    "ja": "ブラチスラバのSNP橋開通"
+   },
+   "description": {
+    "en": "In 1972 the Bridge of the Slovak National Uprising (Most SNP), a cable-stayed bridge with a saucer-shaped restaurant atop its pylon, opened over the Danube in Bratislava. Its construction involved demolishing much of the old town's historic Jewish quarter beneath the castle, including the Neolog synagogue. The bridge became a symbol of socialist modernisation and its costs.",
+    "ko": "1972년 브라티슬라바의 다뉴브강에 주탑 꼭대기에 접시 모양 식당을 얹은 사장교인 슬로바키아 민족봉기 다리(SNP 다리)가 개통되었다. 건설 과정에서 성 아래 구시가지의 역사적 유대인 지구 상당 부분과 네올로그 시나고그가 철거되었다. 이 다리는 사회주의 근대화와 그 대가를 상징하게 되었다.",
+    "zh": "1972年，布拉迪斯拉发多瑙河上的斯洛伐克民族起义大桥（SNP大桥）通车，这座斜拉桥的塔顶建有飞碟状餐厅。修建大桥时拆除了城堡下方老城历史悠久的犹太区大部分建筑，包括新派犹太会堂。这座桥成为社会主义现代化及其代价的象征。",
+    "ja": "1972年、ブラチスラバのドナウ川に、主塔の頂に円盤形のレストランを載せた斜張橋、スロバキア国民蜂起橋（SNP橋）が開通した。建設に際して城の下にある旧市街の歴史的なユダヤ人地区の大部分とネオログ派のシナゴーグが取り壊された。この橋は社会主義的近代化とその代償の象徴となった。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Candle Demonstration",
+    "ko": "촛불 시위",
+    "zh": "烛光示威",
+    "ja": "ろうそくデモ"
+   },
+   "description": {
+    "en": "On 25 March 1988 several thousand people gathered peacefully with candles on Hviezdoslav Square in Bratislava to demand religious freedom and civil rights. Organised by the Catholic underground church, the demonstration was dispersed by police with water cannon. It was one of the first mass protests against the regime in Czechoslovakia and foreshadowed the events of 1989.",
+    "ko": "1988년 3월 25일 수천 명의 시민이 브라티슬라바의 흐비에즈도슬라우 광장에 촛불을 들고 평화롭게 모여 종교의 자유와 시민권을 요구했다. 가톨릭 지하교회가 조직한 이 시위는 경찰의 물대포로 해산되었다. 이는 체코슬로바키아에서 체제에 맞선 최초의 대규모 시위 가운데 하나로, 1989년의 사건들을 예고했다.",
+    "zh": "1988年3月25日，数千人手持蜡烛在布拉迪斯拉发的赫维兹多斯拉夫广场和平集会，要求宗教自由和公民权利。这次示威由天主教地下教会组织，遭到警察用高压水枪驱散。这是捷克斯洛伐克最早的反政权大规模抗议之一，预示了1989年的事件。",
+    "ja": "1988年3月25日、数千人がブラチスラバのフヴィエズドスラウ広場にろうそくを手に平和的に集まり、信教の自由と市民的権利を求めた。カトリックの地下教会が組織したこのデモは、警察の放水によって解散させられた。これはチェコスロバキアで体制に抗した最初の大規模な抗議の一つであり、1989年の出来事を予告するものだった。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Velvet Revolution",
+    "ko": "벨벳 혁명",
+    "zh": "天鹅绒革命",
+    "ja": "ビロード革命"
+   },
+   "description": {
+    "en": "Mass peaceful protests in November 1989 brought down the communist regime in Czechoslovakia, restoring democracy and paving the way for free elections. In Slovakia, the movement Public Against Violence led the protests alongside the Czech Civic Forum; students in Bratislava began demonstrating on 16 November, a day before the Prague march. In December Václav Havel became president and Alexander Dubček chairman of the federal parliament.",
+    "ko": "1989년 11월 대규모 평화 시위가 체코슬로바키아의 공산 정권을 무너뜨렸다. 민주주의가 회복되고 자유선거의 길이 열렸다. 슬로바키아에서는 '폭력에 반대하는 대중' 운동이 체코의 시민 포럼과 함께 시위를 이끌었으며, 브라티슬라바의 학생들은 프라하 행진 하루 전인 11월 16일부터 시위를 시작했다. 12월 바츨라프 하벨이 대통령, 알렉산데르 둡체크가 연방의회 의장이 되었다.",
+    "zh": "1989年11月，大规模和平示威推翻了捷克斯洛伐克的共产党政权，民主得以恢复，为自由选举铺平了道路。在斯洛伐克，“公众反暴力”运动与捷克的“公民论坛”一同领导了抗议；布拉迪斯拉发的学生在布拉格游行的前一天，即11月16日便开始示威。12月，瓦茨拉夫·哈维尔出任总统，亚历山大·杜布切克出任联邦议会主席。",
+    "ja": "1989年11月、大規模な平和的デモがチェコスロバキアの共産主義政権を崩壊させた。民主主義が回復され、自由選挙への道が開かれた。スロバキアでは「暴力に反対する公衆」運動がチェコの市民フォーラムとともに抗議を主導し、ブラチスラバの学生はプラハの行進の前日、11月16日にデモを始めた。12月にはヴァーツラフ・ハヴェルが大統領に、アレクサンデル・ドプチェクが連邦議会議長に就いた。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": "Q1998866",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Hyphen War and the Czech and Slovak Federative Republic",
+    "ko": "하이픈 전쟁과 체코슬로바키아 연방공화국",
+    "zh": "“连字符之争”与捷克和斯洛伐克联邦共和国",
+    "ja": "ハイフン戦争とチェコおよびスロバキア連邦共和国"
+   },
+   "description": {
+    "en": "In early 1990 a dispute over whether the country's name should be written with a hyphen, the so-called Hyphen War, revealed Slovak demands for equal recognition. In April 1990 parliament adopted the name Czech and Slovak Federative Republic. Free elections in June 1990 brought Public Against Violence and the Christian Democratic Movement to power in Slovakia.",
+    "ko": "1990년 초 국호에 하이픈을 넣을지를 둘러싼 이른바 '하이픈 전쟁'은 대등한 인정을 바라는 슬로바키아의 요구를 드러냈다. 1990년 4월 의회는 '체코 및 슬로바키아 연방공화국'이라는 국호를 채택했다. 1990년 6월 자유선거로 슬로바키아에서는 '폭력에 반대하는 대중'과 기독교민주운동이 집권했다.",
+    "zh": "1990年初，围绕国名中是否应加入连字符的所谓“连字符之争”，显示出斯洛伐克人要求获得平等承认的诉求。1990年4月，议会通过“捷克和斯洛伐克联邦共和国”这一国名。1990年6月的自由选举使“公众反暴力”和基督教民主运动在斯洛伐克执政。",
+    "ja": "1990年初め、国名にハイフンを入れるかどうかをめぐる、いわゆる「ハイフン戦争」は、対等な承認を求めるスロバキアの要求を浮き彫りにした。1990年4月、議会は「チェコおよびスロバキア連邦共和国」という国名を採択した。1990年6月の自由選挙で、スロバキアでは「暴力に反対する公衆」とキリスト教民主運動が政権に就いた。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Declaration of Sovereignty and Slovak Constitution",
+    "ko": "주권 선언과 슬로바키아 헌법",
+    "zh": "主权宣言与斯洛伐克宪法",
+    "ja": "主権宣言とスロバキア憲法"
+   },
+   "description": {
+    "en": "After the June 1992 elections, won in Slovakia by Vladimír Mečiar's Movement for a Democratic Slovakia, the Slovak National Council adopted a Declaration of Sovereignty on 17 July 1992, and Václav Havel resigned as federal president. The Constitution of the Slovak Republic was adopted on 1 September 1992. In November the federal parliament passed the law dissolving Czechoslovakia at the end of the year.",
+    "ko": "1992년 6월 선거에서 슬로바키아에서는 블라디미르 메치아르의 민주슬로바키아운동이 승리했고, 슬로바키아 국민의회는 1992년 7월 17일 주권 선언을 채택했으며, 바츨라프 하벨은 연방 대통령직에서 물러났다. 슬로바키아 공화국 헌법은 1992년 9월 1일 채택되었다. 11월 연방의회는 연말에 체코슬로바키아를 해체하는 법을 통과시켰다.",
+    "zh": "在1992年6月的选举中，弗拉基米尔·梅恰尔领导的争取民主斯洛伐克运动在斯洛伐克获胜；1992年7月17日，斯洛伐克民族议会通过《主权宣言》，瓦茨拉夫·哈维尔辞去联邦总统职务。《斯洛伐克共和国宪法》于1992年9月1日通过。11月，联邦议会通过了于年底解散捷克斯洛伐克的法律。",
+    "ja": "1992年6月の選挙でスロバキアではウラジミール・メチアルの民主スロバキア運動が勝利し、1992年7月17日にスロバキア国民評議会は主権宣言を採択して、ヴァーツラフ・ハヴェルは連邦大統領を辞任した。スロバキア共和国憲法は1992年9月1日に採択された。11月、連邦議会は年末にチェコスロバキアを解体する法律を可決した。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Gabčíkovo dam dispute",
+    "ko": "가브치코보 댐 분쟁",
+    "zh": "加布奇科沃水坝争端",
+    "ja": "ガプチコヴォ・ダム紛争"
+   },
+   "description": {
+    "en": "In October 1992 Czechoslovakia diverted the Danube into a canal to put into operation the Gabčíkovo hydroelectric plant, a project agreed with Hungary in 1977 from which Hungary had withdrawn. The dispute was brought before the International Court of Justice, which ruled in 1997 that both sides had breached their obligations and should negotiate. The plant remains Slovakia's largest hydroelectric station.",
+    "ko": "1992년 10월 체코슬로바키아는 1977년 헝가리와 합의했으나 헝가리가 이후 철회한 가브치코보 수력발전소를 가동하기 위해 다뉴브강의 물길을 운하로 돌렸다. 분쟁은 국제사법재판소에 회부되었고, 재판소는 1997년 양측 모두 의무를 위반했으므로 협상해야 한다고 판결했다. 이 발전소는 지금도 슬로바키아 최대의 수력발전소다.",
+    "zh": "1992年10月，捷克斯洛伐克将多瑙河改道引入运河，以启用加布奇科沃水电站。这一项目原于1977年与匈牙利商定，但匈牙利后来退出。争端被提交国际法院，法院于1997年裁定双方均违反了各自义务，应进行谈判。该电站至今仍是斯洛伐克最大的水电站。",
+    "ja": "1992年10月、チェコスロバキアは、1977年にハンガリーと合意したがハンガリーがのちに撤退したガプチコヴォ水力発電所を稼働させるため、ドナウ川の水を運河に転流させた。紛争は国際司法裁判所に付託され、同裁判所は1997年に双方が義務に違反したとして交渉するよう判示した。この発電所は今もスロバキア最大の水力発電所である。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independent Slovak Republic",
+    "ko": "슬로바키아 공화국 독립",
+    "zh": "斯洛伐克共和国独立",
+    "ja": "スロバキア共和国の独立"
+   },
+   "description": {
+    "en": "On 1 January 1993, Czechoslovakia peacefully split in the 'Velvet Divorce', and the independent Slovak Republic was born with Bratislava as its capital. Michal Kováč was elected the first president in February 1993, and Slovakia joined the United Nations in January 1993. The split took place without a referendum, which polls suggested most citizens would have preferred.",
+    "ko": "1993년 1월 1일 체코슬로바키아가 '벨벳 이혼'으로 불리는 평화적 분리를 거치며, 브라티슬라바를 수도로 하는 독립 슬로바키아 공화국이 탄생했다. 1993년 2월 미할 코바치가 초대 대통령으로 선출되었고, 슬로바키아는 1993년 1월 유엔에 가입했다. 분리는 국민투표 없이 이루어졌는데, 여론조사로는 대다수 시민이 국민투표를 원했던 것으로 보인다.",
+    "zh": "1993年1月1日，捷克斯洛伐克以被称为“天鹅绒分离”的和平方式一分为二，以布拉迪斯拉发为首都的独立斯洛伐克共和国由此诞生。1993年2月，米哈尔·科瓦奇当选首任总统；斯洛伐克于1993年1月加入联合国。分离未经全民公投，而民调显示多数公民本希望举行公投。",
+    "ja": "1993年1月1日、チェコスロバキアは「ビロード離婚」と呼ばれる平和的な分離を遂げ、ブラチスラバを首都とする独立国スロバキア共和国が誕生した。1993年2月にミハル・コヴァーチが初代大統領に選ばれ、スロバキアは1993年1月に国際連合に加盟した。分離は国民投票なしに行われたが、世論調査では多くの市民が国民投票を望んでいたとみられる。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Abduction of the president's son",
+    "ko": "대통령 아들 납치 사건",
+    "zh": "总统之子绑架案",
+    "ja": "大統領の息子拉致事件"
+   },
+   "description": {
+    "en": "In August 1995 Michal Kováč Jr., son of President Michal Kováč, who was in conflict with Prime Minister Mečiar, was abducted, beaten and dumped in Austria. Investigators linked the abduction to the Slovak Information Service, and a key witness's associate, Róbert Remiáš, was killed in a car bomb in 1996. Amnesties issued by Mečiar blocked prosecution for years, becoming a symbol of abuses of power in the 1990s.",
+    "ko": "1995년 8월 메치아르 총리와 대립하던 미할 코바치 대통령의 아들 미할 코바치 2세가 납치되어 폭행당한 뒤 오스트리아에 버려졌다. 수사관들은 이 납치를 슬로바키아 정보국과 연결했으며, 핵심 증인의 측근 로베르트 레미아시는 1996년 차량 폭탄으로 사망했다. 메치아르가 내린 사면으로 수년간 기소가 막혔고, 이 사건은 1990년대 권력 남용의 상징이 되었다.",
+    "zh": "1995年8月，与总理梅恰尔对立的总统米哈尔·科瓦奇之子小米哈尔·科瓦奇遭绑架殴打，并被丢弃在奥地利。调查人员将绑架案与斯洛伐克情报局联系起来，一名关键证人的联系人罗伯特·雷米亚什于1996年死于汽车炸弹。梅恰尔颁布的大赦令多年来阻止了起诉，此案成为20世纪90年代滥用权力的象征。",
+    "ja": "1995年8月、メチアル首相と対立していたミハル・コヴァーチ大統領の息子ミハル・コヴァーチ・ジュニアが拉致され、暴行を受けてオーストリアに放置された。捜査当局はこの拉致をスロバキア情報局と結び付け、重要証人の関係者ローベルト・レミアーシュは1996年に自動車爆弾で死亡した。メチアルが出した恩赦により訴追は長年阻まれ、この事件は1990年代の権力濫用の象徴となった。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": "Q4179816",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Thwarted referendum on NATO and direct presidential election",
+    "ko": "무산된 NATO·대통령 직선 국민투표",
+    "zh": "被阻挠的北约与总统直选公投",
+    "ja": "阻まれたNATO・大統領直接選挙の国民投票"
+   },
+   "description": {
+    "en": "In May 1997 a referendum on NATO membership and on direct election of the president was frustrated when the interior ministry distributed ballots without the question on direct presidential election, and the vote was declared invalid. The episode, criticised by the Constitutional Court, contributed to the European Union's decision in 1997 not to open accession talks with Slovakia and to NATO's exclusion of Slovakia from its first post-Cold War enlargement.",
+    "ko": "1997년 5월 NATO 가입과 대통령 직선제를 묻는 국민투표가 치러졌으나, 내무부가 대통령 직선제 문항을 뺀 투표용지를 배포하면서 무산되었고 투표는 무효로 선언되었다. 헌법재판소의 비판을 받은 이 사건은 1997년 유럽연합이 슬로바키아와 가입 협상을 시작하지 않기로 결정하고 NATO가 냉전 후 첫 확대에서 슬로바키아를 제외하는 데 영향을 미쳤다.",
+    "zh": "1997年5月，就加入北约和总统直选举行的公投因内政部分发的选票中删去了总统直选问题而受阻，投票被宣布无效。此事受到宪法法院批评，并促使欧盟在1997年决定暂不与斯洛伐克启动入盟谈判，北约也在冷战后首轮扩大中将斯洛伐克排除在外。",
+    "ja": "1997年5月、NATO加盟と大統領直接選挙を問う国民投票が行われたが、内務省が大統領直接選挙の設問を除いた投票用紙を配布したため頓挫し、投票は無効とされた。憲法裁判所にも批判されたこの出来事は、1997年に欧州連合がスロバキアとの加盟交渉の開始を見送り、NATOが冷戦後初の拡大からスロバキアを外す一因となった。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Dzurinda government and reforms",
+    "ko": "주린다 정부와 개혁",
+    "zh": "祖林达政府与改革",
+    "ja": "ズリンダ政権と改革"
+   },
+   "description": {
+    "en": "In the September 1998 elections a broad coalition led by Mikuláš Dzurinda defeated Mečiar's government, although Mečiar's party won the most votes. The new government restored relations with the West, pursued privatisation and market reforms, and opened EU accession talks in 2000. Slovakia joined the OECD in December 2000.",
+    "ko": "1998년 9월 선거에서 메치아르의 정당이 최다 득표를 했지만 미쿨라시 주린다가 이끄는 광범위한 연합이 메치아르 정부를 물리쳤다. 새 정부는 서방과의 관계를 회복하고 민영화와 시장 개혁을 추진했으며, 2000년 EU 가입 협상을 시작했다. 슬로바키아는 2000년 12월 OECD에 가입했다.",
+    "zh": "在1998年9月的选举中，尽管梅恰尔的政党得票最多，但米库拉什·祖林达领导的广泛联盟击败了梅恰尔政府。新政府恢复了与西方的关系，推进私有化和市场改革，并于2000年启动入盟谈判。斯洛伐克于2000年12月加入经济合作与发展组织。",
+    "ja": "1998年9月の選挙では、メチアルの政党が最多得票だったものの、ミクラーシュ・ズリンダ率いる幅広い連合がメチアル政権を退けた。新政府は西側との関係を回復し、民営化と市場改革を進め、2000年にEU加盟交渉を開始した。スロバキアは2000年12月にOECDに加盟した。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": "Q780513",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First direct presidential election",
+    "ko": "첫 대통령 직접선거",
+    "zh": "首次总统直选",
+    "ja": "初の大統領直接選挙"
+   },
+   "description": {
+    "en": "After a constitutional amendment introduced direct election of the president, Slovakia held its first popular presidential vote in May 1999. Rudolf Schuster, mayor of Košice, defeated Vladimír Mečiar in the second round. Direct elections ended the parliamentary deadlock that had left the presidency vacant since 1998.",
+    "ko": "개헌으로 대통령 직선제가 도입된 뒤 슬로바키아는 1999년 5월 첫 대통령 직접선거를 치렀다. 코시체 시장 루돌프 슈스테르가 결선에서 블라디미르 메치아르를 꺾었다. 직선제는 1998년 이후 대통령직을 공석으로 남겨 두었던 의회의 교착 상태를 끝냈다.",
+    "zh": "修宪引入总统直选后，斯洛伐克于1999年5月举行首次全民总统选举。科希策市长鲁道夫·舒斯特在第二轮投票中击败弗拉基米尔·梅恰尔。直选结束了自1998年起使总统职位悬空的议会僵局。",
+    "ja": "憲法改正で大統領の直接選挙が導入されたのち、スロバキアは1999年5月に初の大統領直接選挙を行った。コシツェ市長ルドルフ・シュステルが決選投票でウラジミール・メチアルを破った。直接選挙は、1998年以来大統領職を空席にしていた議会の膠着を終わらせた。"
+   }
+  },
+  {
+   "year": 2003,
+   "qid": "Q3491184",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "EU membership referendum",
+    "ko": "EU 가입 국민투표",
+    "zh": "入盟公投",
+    "ja": "EU加盟国民投票"
+   },
+   "description": {
+    "en": "In May 2003 Slovaks voted overwhelmingly, about 92%, in favour of joining the European Union, with turnout just above the 50% required for validity. The result cleared the way for accession the following year. It was one of the few Slovak referendums to reach the turnout threshold.",
+    "ko": "2003년 5월 슬로바키아 국민은 약 92%의 압도적 찬성으로 유럽연합 가입을 지지했으며, 투표율은 유효 요건인 50%를 간신히 넘었다. 이 결과로 이듬해 가입의 길이 열렸다. 이는 투표율 요건을 충족한 몇 안 되는 슬로바키아 국민투표 가운데 하나였다.",
+    "zh": "2003年5月，斯洛伐克选民以约92%的压倒性多数赞成加入欧盟，投票率略高于生效所需的50%。这一结果为次年入盟扫清了道路。这是斯洛伐克为数不多达到投票率门槛的公投之一。",
+    "ja": "2003年5月、スロバキアの有権者は約92%という圧倒的多数で欧州連合への加盟を支持し、投票率は有効要件の50%をわずかに上回った。この結果により翌年の加盟への道が開かれた。これは投票率要件を満たした数少ないスロバキアの国民投票の一つであった。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Accession to the EU and NATO",
+    "ko": "EU·NATO 가입",
+    "zh": "加入欧盟与北约",
+    "ja": "EU・NATO加盟"
+   },
+   "description": {
+    "en": "Slovakia joined NATO in March and the European Union in May 2004, completing its integration into Western political and security structures after a decade of reforms. In the same year Ivan Gašparovič defeated Mečiar in the presidential election. Large foreign investments, especially in car manufacturing, followed accession.",
+    "ko": "슬로바키아는 2004년 3월 NATO에, 5월에는 유럽연합에 가입했다. 10여 년의 개혁 끝에 서방의 정치·안보 체제로의 통합을 완성했다. 같은 해 대선에서 이반 가슈파로비치가 메치아르를 꺾었다. 가입 이후 특히 자동차 제조업에 대규모 외국인 투자가 이어졌다.",
+    "zh": "斯洛伐克于2004年3月加入北约，5月加入欧盟。经过十余年改革，完成了融入西方政治与安全体系的进程。同年，伊万·加什帕罗维奇在总统选举中击败梅恰尔。入盟后，大量外资涌入，尤其是汽车制造业。",
+    "ja": "スロバキアは2004年3月にNATO、5月に欧州連合へ加盟した。10年余りの改革を経て、西側の政治・安全保障体制への統合を完成させた。同年の大統領選挙ではイヴァン・ガシュパロヴィチがメチアルを破った。加盟後、とくに自動車製造業に大規模な外国投資が続いた。"
+   }
+  },
+  {
+   "year": 2005,
+   "qid": "Q4175382",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Bush–Putin summit in Bratislava",
+    "ko": "브라티슬라바 부시·푸틴 정상회담",
+    "zh": "布什与普京布拉迪斯拉发峰会",
+    "ja": "ブラチスラバでのブッシュ・プーチン会談"
+   },
+   "description": {
+    "en": "In February 2005 US President George W. Bush and Russian President Vladimir Putin held a summit at Bratislava Castle, discussing nuclear security, democracy and other issues. Bush also addressed a crowd in Hviezdoslav Square. The meeting brought unprecedented international attention to the young state.",
+    "ko": "2005년 2월 조지 W. 부시 미국 대통령과 블라디미르 푸틴 러시아 대통령은 브라티슬라바 성에서 정상회담을 열고 핵 안보와 민주주의 등을 논의했다. 부시는 흐비에즈도슬라우 광장에서 군중에게 연설하기도 했다. 이 회담은 신생 국가에 전례 없는 국제적 관심을 불러왔다.",
+    "zh": "2005年2月，美国总统乔治·W·布什与俄罗斯总统弗拉基米尔·普京在布拉迪斯拉发城堡举行峰会，讨论核安全、民主等议题。布什还在赫维兹多斯拉夫广场向民众发表演讲。这次会晤使这个年轻国家受到前所未有的国际关注。",
+    "ja": "2005年2月、ジョージ・W・ブッシュ米大統領とウラジーミル・プーチン露大統領はブラチスラバ城で首脳会談を行い、核の安全や民主主義などを話し合った。ブッシュはフヴィエズドスラウ広場で群衆に向けて演説もした。この会談は若い国家にかつてない国際的注目をもたらした。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Robert Fico's first government",
+    "ko": "로베르트 피초 제1차 정부",
+    "zh": "罗伯特·菲佐首次组阁",
+    "ja": "ロベルト・フィツォ第1次政権"
+   },
+   "description": {
+    "en": "After the June 2006 elections, Robert Fico's left-wing populist party Smer formed a coalition with the Slovak National Party and Mečiar's party. Fico would go on to dominate Slovak politics for nearly two decades, serving as prime minister in 2006–2010, 2012–2018 and again from 2023. His first government kept Slovakia on course to adopt the euro.",
+    "ko": "2006년 6월 선거 후 로베르트 피초의 좌파 포퓰리즘 정당 스메르는 슬로바키아 국민당, 메치아르의 정당과 연립정부를 구성했다. 피초는 이후 2006~2010년, 2012~2018년, 그리고 2023년부터 다시 총리를 지내며 거의 20년간 슬로바키아 정치를 주도하게 된다. 그의 첫 정부는 유로화 도입 일정을 그대로 추진했다.",
+    "zh": "2006年6月选举后，罗伯特·菲佐领导的左翼民粹主义政党“方向党”与斯洛伐克民族党和梅恰尔的政党组成联合政府。此后近二十年间，菲佐主导斯洛伐克政坛，曾于2006至2010年、2012至2018年以及2023年起再度出任总理。他的第一届政府坚持了采用欧元的进程。",
+    "ja": "2006年6月の選挙後、ロベルト・フィツォの左派ポピュリスト政党スメルは、スロバキア国民党およびメチアルの政党と連立政権を組んだ。フィツォはその後2006〜2010年、2012〜2018年、そして2023年から再び首相を務め、ほぼ20年にわたってスロバキア政治を主導することになる。彼の第1次政権はユーロ導入の路線を維持した。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Adoption of the euro",
+    "ko": "유로화 도입",
+    "zh": "采用欧元",
+    "ja": "ユーロ導入"
+   },
+   "description": {
+    "en": "Slovakia adopted the euro on 1 January 2009, the first country of the Visegrad Group to join the eurozone, underscoring its export-driven economic transformation. The Slovak koruna, introduced in 1993, was replaced at a rate of about 30.1 koruna per euro. The changeover took place amid the global financial crisis.",
+    "ko": "슬로바키아는 2009년 1월 1일 비셰그라드 그룹 국가 중 처음으로 유로존에 가입했다. 수출 주도의 경제 전환을 상징하는 성과였다. 1993년 도입된 슬로바키아 코루나는 1유로당 약 30.1코루나의 비율로 교체되었다. 전환은 세계 금융 위기 속에서 이루어졌다.",
+    "zh": "2009年1月1日，斯洛伐克成为维谢格拉德集团中首个加入欧元区的国家，凸显了其以出口为导向的经济转型成就。1993年启用的斯洛伐克克朗按约30.1克朗兑1欧元的汇率被取代。货币转换是在全球金融危机中完成的。",
+    "ja": "スロバキアは2009年1月1日、ヴィシェグラード・グループ諸国で最初にユーロ圏へ加わった。輸出主導の経済転換を象徴する出来事となった。1993年に導入されたスロバキア・コルナは1ユーロ約30.1コルナの比率で置き換えられた。切り替えは世界金融危機のさなかに行われた。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": "Q3487055",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Handlová mine explosion",
+    "ko": "한들로바 탄광 폭발",
+    "zh": "汉德洛瓦矿难",
+    "ja": "ハンドロヴァー炭鉱爆発"
+   },
+   "description": {
+    "en": "In August 2009 a methane explosion following a fire in the Handlová coal mine killed 20 miners, the worst mining disaster in Slovakia's modern history. A national day of mourning was declared. The disaster renewed debate about the future of subsidised coal mining in the Upper Nitra region, which ended in 2023.",
+    "ko": "2009년 8월 한들로바 탄광에서 화재에 이은 메탄가스 폭발로 광부 20명이 숨졌다. 이는 슬로바키아 근대사에서 최악의 광산 사고였다. 국가 애도일이 선포되었다. 이 참사는 상부 니트라 지역의 보조금 지원 석탄 채굴의 미래를 둘러싼 논쟁을 다시 불러일으켰고, 채굴은 2023년 종료되었다.",
+    "zh": "2009年8月，汉德洛瓦煤矿在一场火灾后发生甲烷爆炸，造成20名矿工死亡，这是斯洛伐克近代史上最严重的矿难。政府宣布全国哀悼日。这场灾难再次引发了关于上尼特拉地区受补贴煤矿开采前景的争论，该地区的采煤已于2023年结束。",
+    "ja": "2009年8月、ハンドロヴァー炭鉱で火災に続くメタンガス爆発が起き、20人の鉱員が死亡した。スロバキア近代史上最悪の炭鉱事故であり、国民服喪の日が宣言された。この惨事は上ニトラ地方の補助金に頼る石炭採掘の将来をめぐる議論を再燃させ、採掘は2023年に終了した。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Fall of the Radičová government over the eurozone bailout fund",
+    "ko": "유로존 구제기금 표결과 라디초바 정부 붕괴",
+    "zh": "拉迪乔娃政府因欧元区救助基金倒台",
+    "ja": "ユーロ圏救済基金をめぐるラジチョヴァー政権の崩壊"
+   },
+   "description": {
+    "en": "In October 2011 Prime Minister Iveta Radičová, Slovakia's first female head of government, tied a parliamentary vote on expanding the European Financial Stability Facility to a confidence vote, and lost when a coalition partner opposed the bailout fund. The expansion passed days later with opposition support. Early elections in 2012 returned Robert Fico to power with a single-party majority.",
+    "ko": "2011년 10월 슬로바키아 최초의 여성 정부 수반인 이베타 라디초바 총리는 유럽금융안정기금 확대에 관한 의회 표결을 신임 투표와 연계했으나, 연립 파트너가 구제기금에 반대하면서 패배했다. 확대안은 며칠 뒤 야당의 지지로 통과되었다. 2012년 조기 총선에서 로베르트 피초가 단독 과반으로 재집권했다.",
+    "zh": "2011年10月，斯洛伐克首位女性政府首脑伊韦塔·拉迪乔娃总理将议会关于扩大欧洲金融稳定基金的表决与信任投票挂钩，因一个执政伙伴反对该救助基金而落败。数日后，扩大方案在反对党支持下获得通过。2012年提前选举中，罗伯特·菲佐以单一政党过半数重新执政。",
+    "ja": "2011年10月、スロバキア初の女性首相イヴェタ・ラジチョヴァーは、欧州金融安定ファシリティの拡充に関する議会採決を信任投票と結び付けたが、連立相手が救済基金に反対したため敗れた。拡充案は数日後に野党の支持で可決された。2012年の繰り上げ総選挙でロベルト・フィツォが単独過半数で政権に返り咲いた。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q2807297",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Andrej Kiska elected president",
+    "ko": "안드레이 키스카 대통령 당선",
+    "zh": "安德烈·基斯卡当选总统",
+    "ja": "アンドレイ・キスカ大統領当選"
+   },
+   "description": {
+    "en": "In March 2014 the political newcomer and philanthropist Andrej Kiska defeated Prime Minister Robert Fico in the presidential run-off. Kiska became a counterweight to the government, notably during the 2018 crisis over the murder of Ján Kuciak. He did not seek a second term.",
+    "ko": "2014년 3월 정치 신인이자 자선가인 안드레이 키스카가 대선 결선에서 로베르트 피초 총리를 꺾었다. 키스카는 특히 2018년 얀 쿠치악 살해 사건으로 인한 위기 때 정부를 견제하는 역할을 했다. 그는 재선에 도전하지 않았다.",
+    "zh": "2014年3月，政坛新人、慈善家安德烈·基斯卡在总统选举第二轮中击败总理罗伯特·菲佐。基斯卡成为制衡政府的力量，尤其在2018年扬·库恰克遇害引发的危机中。他没有寻求连任。",
+    "ja": "2014年3月、政治の新人で慈善家のアンドレイ・キスカが大統領選挙の決選投票でロベルト・フィツォ首相を破った。キスカは政府へのけん制役となり、とりわけ2018年のヤーン・クツィアク殺害事件による危機の際に存在感を示した。彼は2期目を目指さなかった。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q18601497",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Referendum on family issues",
+    "ko": "가족 문제 국민투표",
+    "zh": "家庭议题公投",
+    "ja": "家族問題をめぐる国民投票"
+   },
+   "description": {
+    "en": "In February 2015 a referendum initiated by conservative groups asked voters whether marriage should be reserved for a man and a woman, whether same-sex couples should be barred from adoption, and whether parents could opt children out of sex education. Although large majorities of participants voted yes, turnout was only about 21%, far below the 50% needed, so the result was invalid. A constitutional amendment of 2014 had already defined marriage as a union of a man and a woman.",
+    "ko": "2015년 2월 보수 단체들이 발의한 국민투표는 결혼을 남녀 간으로 한정할지, 동성 커플의 입양을 금지할지, 부모가 자녀의 성교육 참여를 거부할 수 있게 할지를 물었다. 참여자의 압도적 다수가 찬성했지만 투표율이 약 21%로 요건인 50%에 크게 못 미쳐 결과는 무효였다. 2014년 개헌으로 결혼은 이미 남녀의 결합으로 규정되어 있었다.",
+    "zh": "2015年2月，由保守团体发起的公投询问选民：婚姻是否应仅限于一男一女之间，是否应禁止同性伴侣收养子女，以及家长能否让子女不参加性教育课程。尽管参与者中绝大多数投了赞成票，但投票率仅约21%，远低于50%的门槛，因此结果无效。2014年的宪法修正案已将婚姻界定为一男一女的结合。",
+    "ja": "2015年2月、保守派団体の発議による国民投票は、結婚を男女間に限るか、同性カップルの養子縁組を禁じるか、親が子どもの性教育への参加を拒否できるようにするかを問うた。参加者の圧倒的多数が賛成したものの、投票率は約21%と要件の50%を大きく下回り、結果は無効となった。2014年の憲法改正で結婚はすでに男女の結合と規定されていた。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q22693947",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Slovak Presidency of the EU Council",
+    "ko": "슬로바키아의 EU 이사회 의장국 수임",
+    "zh": "斯洛伐克担任欧盟理事会轮值主席国",
+    "ja": "スロバキアのEU理事会議長国"
+   },
+   "description": {
+    "en": "From July to December 2016 Slovakia held the rotating Presidency of the Council of the European Union for the first time. It hosted an informal summit of EU leaders in Bratislava in September 2016, the first after the British vote to leave the EU, which adopted the 'Bratislava Declaration and Roadmap'. Migration and Brexit dominated the agenda.",
+    "ko": "2016년 7월부터 12월까지 슬로바키아는 처음으로 유럽연합 이사회 순회 의장국을 맡았다. 2016년 9월 브라티슬라바에서 영국의 EU 탈퇴 투표 이후 첫 EU 정상 비공식 회의를 개최해 '브라티슬라바 선언과 로드맵'을 채택했다. 이민 문제와 브렉시트가 의제를 지배했다.",
+    "zh": "2016年7月至12月，斯洛伐克首次担任欧盟理事会轮值主席国。2016年9月，它在布拉迪斯拉发主办了英国脱欧公投后的首次欧盟领导人非正式峰会，会议通过了《布拉迪斯拉发宣言和路线图》。移民问题和英国脱欧主导了议程。",
+    "ja": "2016年7月から12月まで、スロバキアは初めて欧州連合理事会の輪番議長国を務めた。2016年9月には英国のEU離脱投票後初となるEU首脳の非公式会合をブラチスラバで開催し、「ブラチスラバ宣言とロードマップ」が採択された。移民問題とブレグジットが議題の中心となった。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q50192515",
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Murder of Ján Kuciak and Martina Kušnírová",
+    "ko": "얀 쿠치악과 마르티나 쿠슈니로바 살해 사건",
+    "zh": "扬·库恰克与玛蒂娜·库什尼罗娃遇害案",
+    "ja": "ヤーン・クツィアクとマルティナ・クシュニーロヴァーの殺害"
+   },
+   "description": {
+    "en": "In February 2018 investigative journalist Ján Kuciak, who had been reporting on tax fraud and links between politicians and organised crime, and his fiancée Martina Kušnírová were shot dead at their home in Veľká Mača. The murders triggered the largest protests since 1989 and forced Prime Minister Robert Fico to resign in March 2018. The gunman and an intermediary were convicted, while the businessman Marian Kočner was acquitted of ordering the murder in two trials.",
+    "ko": "2018년 2월 탈세와 정치인·조직범죄 간 유착을 취재하던 탐사 기자 얀 쿠치악과 약혼녀 마르티나 쿠슈니로바가 벨카 마차의 자택에서 총격으로 살해되었다. 이 사건은 1989년 이후 최대 규모의 시위를 불러일으켰고, 로베르트 피초 총리는 2018년 3월 사임해야 했다. 총격범과 중개인은 유죄 판결을 받았지만, 사업가 마리안 코치네르는 두 차례 재판에서 살인 교사 혐의에 대해 무죄를 선고받았다.",
+    "zh": "2018年2月，长期调查逃税以及政界与有组织犯罪勾结问题的调查记者扬·库恰克及其未婚妻玛蒂娜·库什尼罗娃在韦尔卡马恰的家中遭枪杀。这起谋杀引发了1989年以来规模最大的抗议，迫使总理罗伯特·菲佐于2018年3月辞职。枪手和中间人被定罪，而商人马里安·科奇内尔在两次审判中均被判指使谋杀罪名不成立。",
+    "ja": "2018年2月、脱税や政治家と組織犯罪の癒着を取材していた調査報道記者ヤーン・クツィアクと婚約者マルティナ・クシュニーロヴァーが、ヴェルカー・マチャの自宅で射殺された。この事件は1989年以来最大規模の抗議を引き起こし、ロベルト・フィツォ首相は2018年3月に辞任に追い込まれた。実行犯と仲介者は有罪となったが、実業家マリアン・コチネルは2度の裁判で殺害を指示した罪について無罪とされた。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q30590445",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Zuzana Čaputová elected first female president",
+    "ko": "주자나 차푸토바, 첫 여성 대통령 당선",
+    "zh": "苏珊娜·恰普托娃当选首位女总统",
+    "ja": "ズザナ・チャプトヴァー、初の女性大統領に"
+   },
+   "description": {
+    "en": "In March 2019 the liberal lawyer and environmental activist Zuzana Čaputová won the presidential election, becoming Slovakia's first female president. Her campaign drew on the anti-corruption mood after the Kuciak murder. She served one term, until June 2024.",
+    "ko": "2019년 3월 진보 성향의 변호사이자 환경 운동가인 주자나 차푸토바가 대선에서 승리해 슬로바키아 최초의 여성 대통령이 되었다. 그녀의 선거운동은 쿠치악 살해 사건 이후의 반부패 분위기에 힘입었다. 그녀는 2024년 6월까지 한 차례 임기를 수행했다.",
+    "zh": "2019年3月，自由派律师、环保活动人士苏珊娜·恰普托娃赢得总统选举，成为斯洛伐克首位女总统。她的竞选借助了库恰克遇害后的反腐民意。她任满一届，至2024年6月卸任。",
+    "ja": "2019年3月、リベラルな弁護士で環境活動家のズザナ・チャプトヴァーが大統領選挙に勝利し、スロバキア初の女性大統領となった。その選挙戦はクツィアク殺害事件後の反汚職の機運に支えられた。彼女は2024年6月まで1期を務めた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87200954",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic and nationwide mass testing",
+    "ko": "코로나19 대유행과 전국 일제 검사",
+    "zh": "新冠疫情与全国大规模检测",
+    "ja": "新型コロナ流行と全国一斉検査"
+   },
+   "description": {
+    "en": "Slovakia confirmed its first COVID-19 case in March 2020 and initially kept infections low with early restrictions. In autumn 2020, as cases surged, the government organised nationwide antigen testing of most of the adult population over two weekends, an unprecedented exercise. Later waves in 2021 caused high mortality, and vaccination rates remained among the lowest in the EU.",
+    "ko": "슬로바키아는 2020년 3월 첫 코로나19 확진자를 확인했고, 초기의 제한 조치로 감염을 낮게 유지했다. 2020년 가을 확진자가 급증하자 정부는 두 차례 주말에 걸쳐 성인 인구 대부분을 대상으로 한 전국 항원 검사라는 전례 없는 조치를 시행했다. 2021년의 후속 유행은 높은 사망률을 낳았고, 백신 접종률은 EU에서 가장 낮은 수준에 머물렀다.",
+    "zh": "斯洛伐克于2020年3月确诊首例新冠病例，最初凭借早期限制措施将感染控制在较低水平。2020年秋季病例激增时，政府在两个周末内组织对大部分成年人口进行全国抗原检测，此举前所未有。2021年的后续疫情造成较高死亡率，疫苗接种率也处于欧盟最低水平之列。",
+    "ja": "スロバキアは2020年3月に最初の新型コロナ感染者を確認し、当初は早期の制限措置で感染を低く抑えた。2020年秋に感染が急増すると、政府は二度の週末にわたり成人人口の大半を対象とする全国的な抗原検査という前例のない取り組みを実施した。2021年の流行の波は高い死亡率をもたらし、ワクチン接種率はEUで最低水準にとどまった。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q114639536",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Bratislava Zámocká Street shooting",
+    "ko": "브라티슬라바 자모츠카 거리 총격 사건",
+    "zh": "布拉迪斯拉发扎莫茨卡街枪击案",
+    "ja": "ブラチスラバ・ザーモツカー通り銃撃事件"
+   },
+   "description": {
+    "en": "On 12 October 2022 a 19-year-old gunman killed two young men outside an LGBT bar on Zámocká Street in Bratislava before taking his own life. Authorities classified the attack as terrorism motivated by hatred. It prompted mass vigils and debate about hate speech and the legal protection of same-sex couples in Slovakia.",
+    "ko": "2022년 10월 12일 19세 총격범이 브라티슬라바 자모츠카 거리의 LGBT 바 앞에서 젊은 남성 두 명을 살해한 뒤 스스로 목숨을 끊었다. 당국은 이 공격을 증오에 기반한 테러로 규정했다. 이 사건은 대규모 추모 집회와 함께 슬로바키아의 혐오 표현과 동성 커플의 법적 보호에 관한 논쟁을 불러일으켰다.",
+    "zh": "2022年10月12日，一名19岁枪手在布拉迪斯拉发扎莫茨卡街一家LGBT酒吧外枪杀两名年轻男子，随后自杀。当局将此次袭击定性为出于仇恨的恐怖主义行为。事件引发大规模悼念活动，以及关于仇恨言论和斯洛伐克同性伴侣法律保护的讨论。",
+    "ja": "2022年10月12日、19歳の銃撃犯がブラチスラバのザーモツカー通りにあるLGBTバーの前で若い男性2人を殺害し、その後自殺した。当局はこの攻撃を憎悪に基づくテロと認定した。事件は大規模な追悼集会と、スロバキアにおけるヘイトスピーチや同性カップルの法的保護をめぐる議論を呼び起こした。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fico returns to power",
+    "ko": "피초의 재집권",
+    "zh": "菲佐重新执政",
+    "ja": "フィツォの政権復帰"
+   },
+   "description": {
+    "en": "Early parliamentary elections in September 2023 were won by Robert Fico's Smer, which formed a coalition with Hlas and the Slovak National Party. The new government ended state military aid to Ukraine, abolished the Special Prosecutor's Office and changed the criminal code, prompting large street protests and criticism from the European Commission. Its supporters argued it was correcting abuses by previous governments.",
+    "ko": "2023년 9월 조기 총선에서 로베르트 피초의 스메르가 승리해 흘라스, 슬로바키아 국민당과 연립정부를 구성했다. 새 정부는 우크라이나에 대한 국가 차원의 군사 지원을 중단하고 특별검찰청을 폐지했으며 형법을 개정해, 대규모 거리 시위와 유럽연합 집행위원회의 비판을 불러왔다. 지지자들은 이전 정부들의 권력 남용을 바로잡는 것이라고 주장했다.",
+    "zh": "2023年9月的提前议会选举中，罗伯特·菲佐的方向党获胜，并与“声音”党和斯洛伐克民族党组成联合政府。新政府停止了对乌克兰的国家军事援助，撤销特别检察官办公室并修改刑法，引发大规模街头抗议和欧盟委员会的批评。支持者则认为这是在纠正前几届政府的滥权行为。",
+    "ja": "2023年9月の繰り上げ総選挙でロベルト・フィツォのスメルが勝利し、フラスおよびスロバキア国民党と連立政権を組んだ。新政府はウクライナへの国としての軍事支援を打ち切り、特別検察庁を廃止し、刑法を改正したため、大規模な街頭デモと欧州委員会の批判を招いた。支持者は、前政権による権力濫用を正すものだと主張した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q125937931",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Assassination attempt on Robert Fico",
+    "ko": "로베르트 피초 암살 미수 사건",
+    "zh": "罗伯特·菲佐遇刺事件",
+    "ja": "ロベルト・フィツォ暗殺未遂事件"
+   },
+   "description": {
+    "en": "On 15 May 2024, after a government meeting in Handlová, Prime Minister Robert Fico was shot several times at close range by a 71-year-old man and was seriously wounded. He survived after emergency surgery and returned to work within weeks. The attacker was convicted of a terrorist attack in 2025, and the shooting deepened Slovakia's political polarisation.",
+    "ko": "2024년 5월 15일 한들로바에서 열린 정부 회의 후 로베르트 피초 총리는 71세 남성에게 근거리에서 여러 발의 총격을 받아 중상을 입었다. 그는 응급 수술 끝에 살아남았고 몇 주 만에 업무에 복귀했다. 범인은 2025년 테러 공격 혐의로 유죄 판결을 받았으며, 이 총격 사건은 슬로바키아의 정치적 양극화를 심화시켰다.",
+    "zh": "2024年5月15日，总理罗伯特·菲佐在汉德洛瓦出席政府会议后，被一名71岁男子近距离连开数枪击中，身受重伤。他经紧急手术后脱险，数周后恢复工作。袭击者于2025年以恐怖袭击罪被定罪。这起枪击事件加深了斯洛伐克的政治两极分化。",
+    "ja": "2024年5月15日、ハンドロヴァーでの閣議の後、ロベルト・フィツォ首相は71歳の男に至近距離から数発撃たれ重傷を負った。緊急手術の末に一命を取り留め、数週間で職務に復帰した。犯人は2025年にテロ攻撃の罪で有罪となり、この銃撃事件はスロバキアの政治的分極化を深めた。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q84029171",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Peter Pellegrini elected president",
+    "ko": "페테르 펠레그리니 대통령 당선",
+    "zh": "彼得·佩莱格里尼当选总统",
+    "ja": "ペテル・ペレグリニ大統領当選"
+   },
+   "description": {
+    "en": "In April 2024 Peter Pellegrini, leader of the governing Hlas party and speaker of parliament, won the presidential run-off against the pro-Western former foreign minister Ivan Korčok. He took office in June 2024, succeeding Zuzana Čaputová. His victory strengthened the position of the governing coalition.",
+    "ko": "2024년 4월 집권 여당 흘라스의 대표이자 국회의장인 페테르 펠레그리니가 대선 결선에서 친서방 성향의 전 외무장관 이반 코르초크를 꺾었다. 그는 2024년 6월 주자나 차푸토바의 뒤를 이어 취임했다. 그의 승리는 집권 연정의 입지를 강화했다.",
+    "zh": "2024年4月，执政的“声音”党领导人、议会议长彼得·佩莱格里尼在总统选举第二轮中击败亲西方的前外交部长伊万·科尔乔克。他于2024年6月接替苏珊娜·恰普托娃就职。他的胜选巩固了执政联盟的地位。",
+    "ja": "2024年4月、与党フラスの党首で国会議長のペテル・ペレグリニが、大統領選挙の決選投票で親欧米派の元外相イヴァン・コルチョクを破った。彼は2024年6月にズザナ・チャプトヴァーの後を継いで就任した。その勝利は与党連合の立場を強めた。"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1151 @@
+{
+ "iso": "JM",
+ "eras": [
+  {
+   "from": -3000,
+   "to": 600,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Jamaica before human settlement",
+    "ko": "인류 정착 이전의 자메이카",
+    "zh": "人类定居前的牙买加",
+    "ja": "人類定住以前のジャマイカ"
+   },
+   "summary": {
+    "en": "Unlike Hispaniola, Cuba and Puerto Rico, Jamaica shows no firm archaeological evidence of the Archaic-age foragers who reached the larger Caribbean islands thousands of years ago. For most of this long period the island's forests, rivers and reefs appear to have been free of people, home only to its native wildlife. The first known settlers arrived by canoe in the mid-first millennium AD.",
+    "ko": "히스파니올라, 쿠바, 푸에르토리코와 달리 자메이카에서는 수천 년 전 큰 카리브 섬들에 도착한 고기(古期) 수렵채집민의 확실한 고고학적 흔적이 발견되지 않았다. 이 긴 기간 동안 섬의 숲과 강, 산호초에는 사람이 살지 않고 토착 야생 동물만 서식했던 것으로 보인다. 알려진 최초의 정착민은 서기 1천년기 중반 카누를 타고 도착했다.",
+    "zh": "与伊斯帕尼奥拉岛、古巴和波多黎各不同，牙买加没有发现数千年前抵达加勒比大岛的古代采集狩猎者的确切考古证据。在这段漫长的时期里，岛上的森林、河流和珊瑚礁似乎无人居住，只有本地野生动物栖息。已知最早的定居者在公元第一个千年中期乘独木舟到来。",
+    "ja": "イスパニョーラ島やキューバ、プエルトリコとは異なり、ジャマイカでは数千年前にカリブ海の大きな島々に到達した古期の狩猟採集民の確かな考古学的痕跡は見つかっていない。この長い期間、島の森や川、サンゴ礁には人が住まず、固有の野生生物だけが暮らしていたとみられる。知られる最初の定住者は、紀元1千年紀の半ばにカヌーで渡来した。"
+   }
+  },
+  {
+   "from": 600,
+   "to": 1494,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Taíno Xaymaca",
+    "ko": "타이노족의 하마이카",
+    "zh": "泰诺人的哈梅卡",
+    "ja": "タイノ人のシャイマカ"
+   },
+   "summary": {
+    "en": "From around the 7th century AD, pottery-making farmers of the Ostionoid tradition crossed from Hispaniola and settled Jamaica, followed by the Meillacan culture from about the 10th century. These communities developed into the Taíno society that Europeans encountered, living in villages ruled by caciques, growing cassava and making carved wooden duhos and zemis. They called the island Xaymaca, 'land of wood and water', the origin of its modern name.",
+    "ko": "서기 7세기 무렵부터 오스티오노이드 전통의 토기 제작 농경민이 히스파니올라에서 건너와 자메이카에 정착했고, 10세기경부터는 메이야칸 문화가 뒤를 이었다. 이 공동체들은 유럽인이 만난 타이노 사회로 발전하여, 카시케가 다스리는 마을에서 카사바를 재배하고 나무로 조각한 의자(두호)와 신상(세미)을 만들었다. 그들은 섬을 '나무와 물의 땅'이라는 뜻의 하마이카라고 불렀고, 이것이 오늘날 이름의 기원이다.",
+    "zh": "约自公元7世纪起，奥斯蒂奥诺伊德传统的制陶农人从伊斯帕尼奥拉岛渡海定居牙买加，约10世纪起又有梅亚坎文化接续。这些社群发展为欧洲人所遇到的泰诺社会：他们生活在由酋长（卡西克）统治的村落里，种植木薯，雕刻木质礼仪座椅（杜霍）和神像（泽米）。他们称该岛为“哈梅卡”，意为“森林与水之地”，即今日国名的由来。",
+    "ja": "7世紀頃から、オスティオノイド伝統の土器を作る農耕民がイスパニョーラ島から渡ってジャマイカに定住し、10世紀頃からはメイヤカン文化が続いた。これらの共同体はヨーロッパ人が出会ったタイノ社会へと発展し、カシケが治める村でキャッサバを育て、木彫りの儀礼用腰掛け（デュホ）や神像（セミ）を作った。彼らは島を「森と水の地」を意味するシャイマカと呼び、これが現在の国名の由来となった。"
+   }
+  },
+  {
+   "from": 1494,
+   "to": 1655,
+   "kind": "colonial",
+   "qid": "Q80702",
+   "polity": "Spanish Empire",
+   "name": {
+    "en": "Spanish Jamaica (Santiago)",
+    "ko": "스페인령 자메이카(산티아고)",
+    "zh": "西属牙买加（圣地亚哥）",
+    "ja": "スペイン領ジャマイカ（サンティアゴ）"
+   },
+   "summary": {
+    "en": "Columbus claimed Jamaica for Castile in 1494, and from 1509 Spanish settlers under Juan de Esquivel colonised it, naming it Santiago. Within a few decades the Taíno had been almost wiped out by forced labour, violence and European diseases. The thinly populated colony, governed from Villa de la Vega (Spanish Town) and held as a fief by Columbus's descendants, served mainly as a supply base for cattle, hides and provisions, and enslaved Africans were brought in to replace Indigenous labour.",
+    "ko": "콜럼버스는 1494년 자메이카를 카스티야의 영토로 선포했고, 1509년부터 후안 데 에스키벨이 이끄는 스페인 정착민이 섬을 식민화하며 산티아고라 불렀다. 수십 년 만에 타이노족은 강제 노동과 폭력, 유럽에서 온 질병으로 거의 절멸했다. 비야 데 라 베가(스패니시타운)에서 통치되고 콜럼버스 후손의 영지였던 이 인구 희박한 식민지는 주로 소·가죽·식량의 보급 기지 역할을 했으며, 원주민 노동력을 대신해 아프리카 노예가 들어왔다.",
+    "zh": "1494年哥伦布宣布牙买加归属卡斯蒂利亚，1509年起胡安·德埃斯基韦尔率领西班牙移民殖民该岛，称之为圣地亚哥。几十年内，泰诺人因强迫劳动、暴力和欧洲传入的疾病几乎灭绝。这个人口稀少的殖民地以拉维加镇（西班牙城）为治所，作为哥伦布后裔的封地，主要充当牛、皮革和补给的供应基地，并输入非洲奴隶以取代原住民劳动力。",
+    "ja": "コロンブスは1494年にジャマイカをカスティーリャ領と宣言し、1509年からフアン・デ・エスキベル率いるスペイン人入植者が島を植民地化してサンティアゴと名付けた。数十年のうちにタイノ人は強制労働や暴力、ヨーロッパから持ち込まれた病気によってほぼ絶滅した。ビリャ・デ・ラ・ベガ（スパニッシュ・タウン）から統治され、コロンブスの子孫の封土であったこの人口の少ない植民地は、主に牛や皮革、食料の補給基地として機能し、先住民に代わる労働力としてアフリカ人奴隷が連れて来られた。"
+   }
+  },
+  {
+   "from": 1655,
+   "to": 1707,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "English Colonial Empire",
+   "name": {
+    "en": "English Jamaica: buccaneers and early sugar",
+    "ko": "잉글랜드령 자메이카: 버커니어와 초기 설탕 경제",
+    "zh": "英格兰治下的牙买加：海盗与早期蔗糖经济",
+    "ja": "イングランド領ジャマイカ：バッカニアと初期の砂糖経済"
+   },
+   "summary": {
+    "en": "In its first decades under England, Jamaica was a frontier colony. Port Royal grew rich as a base for buccaneers such as Henry Morgan who raided Spanish America with official blessing, while planters, many from Barbados and Suriname, began to clear land for sugar estates. An elected House of Assembly met from 1664, and after the earthquake of 1692 the colony increasingly turned from plunder to plantation agriculture.",
+    "ko": "잉글랜드 통치 초기 수십 년간 자메이카는 변경 식민지였다. 포트로열은 공식 비호 아래 스페인령 아메리카를 습격한 헨리 모건 같은 버커니어의 근거지로 번영했고, 바베이도스와 수리남 출신이 많은 농장주들은 사탕수수 농장을 위해 땅을 개간하기 시작했다. 1664년부터 선출된 의회가 열렸으며, 1692년 지진 이후 식민지는 약탈에서 플랜테이션 농업 중심으로 점차 바뀌었다.",
+    "zh": "在英格兰统治的最初几十年里，牙买加是一块边疆殖民地。皇家港作为亨利·摩根等海盗的基地而致富，他们在官方默许下劫掠西属美洲；与此同时，许多来自巴巴多斯和苏里南的种植园主开始开垦土地建立甘蔗种植园。自1664年起，民选的议会开始召开；1692年地震之后，殖民地逐渐由劫掠转向种植园农业。",
+    "ja": "イングランド統治の最初の数十年、ジャマイカは辺境の植民地だった。ポート・ロイヤルは公認のもとでスペイン領アメリカを襲撃したヘンリー・モーガンらバッカニアの拠点として栄え、バルバドスやスリナム出身者の多い農園主は砂糖農園のために土地の開墾を始めた。1664年からは選挙で選ばれた議会が開かれ、1692年の地震以後、植民地は略奪からプランテーション農業へと次第に重心を移した。"
+   }
+  },
+  {
+   "from": 1655,
+   "to": 1962,
+   "kind": "colonial",
+   "qid": "Q2526023",
+   "polity": null,
+   "name": {
+    "en": "Colony of Jamaica",
+    "ko": "자메이카 식민지",
+    "zh": "牙买加殖民地",
+    "ja": "ジャマイカ植民地"
+   },
+   "summary": {
+    "en": "Seized by England in 1655, Jamaica became one of the most valuable colonies of the English and later British Empire. Its sugar plantations, worked by hundreds of thousands of enslaved Africans, made it the leading sugar producer of the British Caribbean in the eighteenth century, while resistance by Maroons and rebels was constant. After emancipation in 1834–1838 and the Morant Bay crisis of 1865, it was governed as a Crown Colony until labour unrest in the 1930s opened the road to self-government and independence in 1962.",
+    "ko": "1655년 잉글랜드에 점령된 자메이카는 잉글랜드, 이후 대영제국에서 가장 가치 있는 식민지 중 하나가 되었다. 수십만 명의 아프리카 노예가 일한 사탕수수 농장으로 18세기 영국령 카리브에서 최대 설탕 생산지가 되었지만, 마룬과 반란자들의 저항은 끊이지 않았다. 1834~1838년의 노예 해방과 1865년 모런트베이 위기 이후 왕령 식민지로 통치되었고, 1930년대 노동 소요를 계기로 자치와 1962년 독립으로 가는 길이 열렸다.",
+    "zh": "1655年被英格兰夺取后，牙买加成为英格兰及后来大英帝国最有价值的殖民地之一。数十万非洲奴隶在甘蔗种植园劳作，使其在十八世纪成为英属加勒比最大的产糖地，而马隆人和起义者的反抗从未停止。经过1834至1838年的奴隶解放和1865年莫兰特湾危机后，牙买加被作为直辖殖民地统治，直到1930年代的劳工风潮开启了通往自治和1962年独立的道路。",
+    "ja": "1655年にイングランドに奪われたジャマイカは、イングランド、のちの大英帝国で最も価値ある植民地の一つとなった。数十万人のアフリカ人奴隷が働く砂糖プランテーションにより、18世紀には英領カリブ最大の砂糖産地となったが、マルーンや反乱者の抵抗は絶えなかった。1834〜1838年の奴隷解放と1865年のモラント・ベイ危機の後は直轄植民地として統治され、1930年代の労働争議が自治と1962年の独立への道を開いた。"
+   }
+  },
+  {
+   "from": 1655,
+   "to": 2026,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "The Jamaican Maroons",
+    "ko": "자메이카의 마룬",
+    "zh": "牙买加马隆人",
+    "ja": "ジャマイカのマルーン"
+   },
+   "summary": {
+    "en": "When the English invaded in 1655, many enslaved Africans of the Spanish settlers fled to the mountains, and they were joined over the following century by runaways from English plantations. These Maroons formed the Leeward communities in the Cockpit Country and the Windward communities in the Blue Mountains, led by figures such as Cudjoe and Nanny. After the treaties of 1739–1740 they kept their own lands and self-government, and their towns such as Accompong and Moore Town survive today.",
+    "ko": "1655년 잉글랜드가 침공하자 스페인 정착민의 아프리카 노예 다수가 산으로 달아났고, 이후 한 세기 동안 잉글랜드 농장에서 탈주한 노예들이 합류했다. 이들 마룬은 칵핏 컨트리의 리워드 공동체와 블루마운틴의 윈드워드 공동체를 이루었으며 커조와 내니 같은 지도자가 이끌었다. 1739~1740년 조약 이후 그들은 자신들의 땅과 자치를 유지했고, 어컴퐁과 무어타운 같은 마을은 오늘날까지 남아 있다.",
+    "zh": "1655年英格兰入侵时，西班牙移民的许多非洲奴隶逃入山中，此后一个世纪又有英格兰种植园的逃奴加入。这些马隆人在驾驶舱地区形成背风社群，在蓝山形成迎风社群，由卡乔和南妮等人领导。1739至1740年签约后，他们保有自己的土地和自治权，阿孔庞和摩尔镇等村镇延续至今。",
+    "ja": "1655年にイングランドが侵攻すると、スペイン人入植者の奴隷だった多くのアフリカ人が山へ逃れ、その後の1世紀にはイングランドの農園からの逃亡者も加わった。これらのマルーンはコックピット・カントリーのリーワード共同体とブルー・マウンテンズのウィンドワード共同体を形成し、カジョーやナニーらが率いた。1739〜1740年の条約以後、彼らは自らの土地と自治を保ち、アコンポンやムーア・タウンなどの町は今日まで続いている。"
+   }
+  },
+  {
+   "from": 1707,
+   "to": 1838,
+   "kind": "colonial",
+   "qid": "Q8680",
+   "polity": "British Colonial Empire",
+   "name": {
+    "en": "British sugar colony and slave society",
+    "ko": "영국의 설탕 식민지와 노예제 사회",
+    "zh": "英国蔗糖殖民地与奴隶社会",
+    "ja": "イギリスの砂糖植民地と奴隷制社会"
+   },
+   "summary": {
+    "en": "In the eighteenth century Jamaica became Britain's richest Caribbean colony, its hundreds of sugar estates worked by an enslaved African population that greatly outnumbered the white minority. The system rested on brutal violence and constant importation of captives through the Atlantic slave trade, which Britain abolished in 1807. Repeated revolts, from Tacky's War in 1760 to the Baptist War of 1831–1832, helped bring about emancipation in 1834 and full freedom in 1838.",
+    "ko": "18세기 자메이카는 영국의 가장 부유한 카리브 식민지가 되었으며, 수백 곳의 사탕수수 농장은 백인 소수를 크게 웃도는 아프리카 노예 인구의 노동으로 운영되었다. 이 체제는 잔혹한 폭력과 대서양 노예무역을 통한 끊임없는 포로 수입에 기대고 있었는데, 영국은 1807년 노예무역을 폐지했다. 1760년 태키의 전쟁에서 1831~1832년 침례교 전쟁에 이르는 거듭된 봉기는 1834년의 해방과 1838년의 완전한 자유를 이끌어 내는 데 기여했다.",
+    "zh": "十八世纪，牙买加成为英国在加勒比最富庶的殖民地，数百座甘蔗种植园依靠人数远超白人少数群体的非洲奴隶劳作。这一制度建立在残酷暴力和经大西洋奴隶贸易不断输入俘虏的基础上，英国于1807年废除奴隶贸易。从1760年的塔基战争到1831至1832年的浸礼会战争，一次次起义促成了1834年的解放和1838年的完全自由。",
+    "ja": "18世紀、ジャマイカはイギリスで最も豊かなカリブ植民地となり、数百の砂糖農園は白人少数派を大きく上回るアフリカ人奴隷の労働によって営まれた。この制度は残虐な暴力と、大西洋奴隷貿易による絶え間ない捕虜の輸入に支えられていたが、イギリスは1807年に奴隷貿易を廃止した。1760年のタッキーの戦争から1831〜1832年のバプティスト戦争に至る度重なる反乱は、1834年の解放と1838年の完全な自由の実現に寄与した。"
+   }
+  },
+  {
+   "from": 1838,
+   "to": 1944,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Post-emancipation Jamaica and Crown Colony rule",
+    "ko": "해방 이후의 자메이카와 왕령 식민지 통치",
+    "zh": "解放后的牙买加与直辖殖民地统治",
+    "ja": "解放後のジャマイカと直轄植民地統治"
+   },
+   "summary": {
+    "en": "After full emancipation in 1838, many freed people left the estates to form free villages, often with the help of Baptist and other missionaries, building a peasant society alongside a declining sugar industry. Poverty and exclusion from political power led to the Morant Bay Rebellion of 1865, after which the old planter Assembly gave up its powers and London ruled directly through a governor. Bananas, migration to Panama, Cuba and the United States, and new movements such as Garveyism and Rastafari shaped the late colonial period.",
+    "ko": "1838년 완전한 해방 이후 많은 해방민이 농장을 떠나 흔히 침례교 등 선교사들의 도움을 받아 자유 마을을 이루었고, 쇠퇴하는 설탕 산업과 나란히 소농 사회를 일구었다. 빈곤과 정치권력으로부터의 배제는 1865년 모런트베이 봉기로 이어졌고, 이후 농장주 중심의 옛 의회가 권한을 내려놓으면서 런던이 총독을 통해 직접 통치했다. 바나나 산업, 파나마·쿠바·미국으로의 이주, 가비주의와 라스타파리 같은 새로운 운동이 후기 식민지 시대를 형성했다.",
+    "zh": "1838年完全解放后，许多获得自由的人离开种植园，往往在浸礼会等传教士的帮助下建立自由村，在日渐衰落的蔗糖业之外形成了小农社会。贫困和被排斥于政治权力之外导致了1865年的莫兰特湾起义，此后种植园主把持的旧议会交出权力，由伦敦通过总督直接统治。香蕉产业、向巴拿马、古巴和美国的移民，以及加维主义和拉斯塔法里等新运动塑造了殖民后期的牙买加。",
+    "ja": "1838年の完全解放後、多くの解放民が農園を離れ、しばしばバプティストなどの宣教師の助けを得て自由村を築き、衰退する砂糖産業と並んで小農社会を形成した。貧困と政治権力からの排除は1865年のモラント・ベイ反乱を招き、その後、農園主主導の旧議会は権限を放棄し、ロンドンが総督を通じて直接統治した。バナナ産業、パナマ・キューバ・アメリカへの移住、ガーヴィー主義やラスタファリといった新しい運動が植民地後期を形づくった。"
+   }
+  },
+  {
+   "from": 1944,
+   "to": 1962,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Road to self-government",
+    "ko": "자치로 가는 길",
+    "zh": "走向自治",
+    "ja": "自治への道"
+   },
+   "summary": {
+    "en": "A new constitution in 1944 introduced universal adult suffrage and an elected House of Representatives, and the two parties born of the 1938 labour struggles, Alexander Bustamante's JLP and Norman Manley's PNP, began alternating in power. Bauxite mining and tourism transformed the economy from the 1950s, and large numbers of Jamaicans emigrated to Britain. Jamaica joined the West Indies Federation in 1958 but voted to leave it in 1961, choosing independence on its own.",
+    "ko": "1944년 새 헌법으로 성인 보통선거권과 선출직 하원이 도입되었고, 1938년 노동 투쟁에서 탄생한 두 정당, 알렉산더 버스타맨테의 JLP와 노먼 맨리의 PNP가 번갈아 집권하기 시작했다. 1950년대부터 보크사이트 채굴과 관광업이 경제를 바꾸었고 많은 자메이카인이 영국으로 이주했다. 자메이카는 1958년 서인도 연방에 가입했지만 1961년 탈퇴를 결정하고 단독 독립을 택했다.",
+    "zh": "1944年新宪法实行成人普选并设立民选众议院，诞生于1938年劳工斗争的两大政党——亚历山大·布斯塔曼特的工党和诺曼·曼利的人民民族党——开始轮流执政。1950年代起，铝土矿开采和旅游业改变了经济面貌，大批牙买加人移民英国。牙买加于1958年加入西印度联邦，但在1961年投票退出，选择单独独立。",
+    "ja": "1944年の新憲法で成人普通選挙権と選挙制の下院が導入され、1938年の労働闘争から生まれた二つの政党、アレクサンダー・バスタマンテのJLPとノーマン・マンリーのPNPが交互に政権を担うようになった。1950年代からボーキサイト採掘と観光業が経済を一変させ、多くのジャマイカ人がイギリスへ移住した。ジャマイカは1958年に西インド連邦に加わったが、1961年に離脱を決め、単独での独立を選んだ。"
+   }
+  },
+  {
+   "from": 1962,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q766",
+   "polity": "Jamaica",
+   "name": {
+    "en": "Independent Jamaica",
+    "ko": "독립 자메이카",
+    "zh": "独立的牙买加",
+    "ja": "独立国ジャマイカ"
+   },
+   "summary": {
+    "en": "Independent since 6 August 1962, Jamaica is a parliamentary democracy within the Commonwealth, with power alternating between the JLP and the PNP. Its history since independence has included the democratic-socialist experiment of Michael Manley in the 1970s, violent political rivalry in the 1970s and 1980s, heavy debt and IMF programmes, and a tourism and bauxite economy. Through reggae, Rastafari and athletics, the island of under three million people has had an outsized cultural influence on the world.",
+    "ko": "1962년 8월 6일 독립한 자메이카는 영연방 내의 의회 민주주의 국가로, JLP와 PNP가 번갈아 집권해 왔다. 독립 이후의 역사에는 1970년대 마이클 맨리의 민주사회주의 실험, 1970~80년대의 폭력적 정치 대립, 막대한 부채와 IMF 프로그램, 관광과 보크사이트 중심의 경제가 포함된다. 레게와 라스타파리, 육상 경기를 통해 인구 300만 명이 채 안 되는 이 섬나라는 세계에 엄청난 문화적 영향력을 행사해 왔다.",
+    "zh": "牙买加自1962年8月6日独立，是英联邦内的议会民主国家，由工党和人民民族党轮流执政。独立以来的历史包括1970年代迈克尔·曼利的民主社会主义试验、1970至80年代暴力的政党对立、沉重的债务与国际货币基金组织计划，以及以旅游业和铝土矿为主的经济。凭借雷鬼音乐、拉斯塔法里运动和田径，这个人口不足三百万的岛国对世界产生了巨大的文化影响。",
+    "ja": "1962年8月6日に独立したジャマイカは英連邦内の議会制民主主義国家で、JLPとPNPが交互に政権を担ってきた。独立後の歴史には、1970年代のマイケル・マンリーによる民主社会主義の試み、1970〜80年代の暴力的な政党対立、重い債務とIMFプログラム、観光とボーキサイトを柱とする経済が含まれる。レゲエ、ラスタファリ、陸上競技を通じて、人口300万人に満たないこの島国は世界に並外れた文化的影響を与えてきた。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": 650,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Taino peoples settle Jamaica",
+    "ko": "타이노족의 자메이카 정착",
+    "zh": "泰诺人定居牙买加",
+    "ja": "タイノ人のジャマイカ定住"
+   },
+   "description": {
+    "en": "Arawakan-speaking Taino peoples from South America settled the island they called Xaymaca, 'land of wood and water', living in villages led by caciques.",
+    "ko": "남아메리카에서 건너온 아라와크어계 타이노족이 '나무와 물의 땅'이라는 뜻의 '샤이마카'라 부른 이 섬에 정착했다. 이들은 카시케(족장)가 이끄는 마을을 이루고 살았다.",
+    "zh": "来自南美洲、讲阿拉瓦克语的泰诺人定居于这座他们称为\"萨伊马卡\"（意为\"林水之地\"）的岛屿，在酋长\"卡西克\"的带领下聚村而居。",
+    "ja": "南米から渡ってきたアラワク語系のタイノ人が、「木と水の地」を意味する「シャイマカ」と呼んだこの島に定住した。人々はカシケ（首長）の率いる村落で暮らした。"
+   }
+  },
+  {
+   "year": 900,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Meillacan Taíno villages spread",
+    "ko": "메이야칸 타이노 마을의 확산",
+    "zh": "梅亚坎泰诺村落的扩散",
+    "ja": "メイヤカン・タイノの村々の広がり"
+   },
+   "description": {
+    "en": "From around the 10th century a new pottery style, known as Meillacan or locally as White Marl after a large village site near Spanish Town, spread across Jamaica, reflecting renewed contact with Hispaniola. Settlements grew more numerous inland and along the coasts, many sited on hilltops. These communities were the direct ancestors of the Taíno whom Columbus met in 1494.",
+    "ko": "10세기 무렵부터 메이야칸, 혹은 스패니시타운 인근의 큰 마을 유적 이름을 따 현지에서 화이트말이라 불리는 새로운 토기 양식이 자메이카 전역에 퍼졌는데, 이는 히스파니올라와의 교류가 다시 활발해졌음을 보여 준다. 내륙과 해안을 따라 정착지가 늘어났으며 다수가 언덕 위에 자리 잡았다. 이 공동체들이 1494년 콜럼버스가 만난 타이노족의 직접적인 조상이다.",
+    "zh": "约自10世纪起，一种新的陶器风格在牙买加各地传播，称为梅亚坎风格，当地则以西班牙城附近的大型村落遗址命名为“白泥灰”风格，反映出与伊斯帕尼奥拉岛的联系重新加强。内陆和沿海的定居点日益增多，许多建在山顶上。这些社群正是1494年哥伦布所遇泰诺人的直系祖先。",
+    "ja": "10世紀頃から、メイヤカン、あるいはスパニッシュ・タウン近郊の大集落遺跡にちなんで現地でホワイト・マールと呼ばれる新しい土器様式がジャマイカ全土に広がり、イスパニョーラ島との交流の再活性化を示した。内陸や海岸沿いに集落が増え、多くは丘の上に営まれた。これらの共同体が、1494年にコロンブスが出会ったタイノ人の直接の祖先である。"
+   }
+  },
+  {
+   "year": 1494,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Columbus lands in Jamaica",
+    "ko": "콜럼버스의 자메이카 상륙",
+    "zh": "哥伦布登陆牙买加",
+    "ja": "コロンブスのジャマイカ上陸"
+   },
+   "description": {
+    "en": "On his second voyage, Christopher Columbus reached Jamaica. Contact with Europeans brought disease and forced labor that devastated the Taino population within decades.",
+    "ko": "크리스토퍼 콜럼버스가 두 번째 항해에서 자메이카에 도착했다. 유럽인과의 접촉으로 전염병과 강제 노동이 유입되어 수십 년 만에 타이노 인구가 급감했다.",
+    "zh": "克里斯托弗·哥伦布在第二次航行中抵达牙买加。与欧洲人的接触带来疾病和强制劳役，数十年间泰诺人口锐减。",
+    "ja": "クリストファー・コロンブスは2度目の航海でジャマイカに到達した。ヨーロッパ人との接触は疫病と強制労働をもたらし、数十年でタイノの人口は激減した。"
+   }
+  },
+  {
+   "year": 1503,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Columbus stranded at St Ann's Bay",
+    "ko": "콜럼버스, 세인트앤스베이에 고립",
+    "zh": "哥伦布困守圣安湾",
+    "ja": "コロンブス、セント・アンズ・ベイで足止め"
+   },
+   "description": {
+    "en": "On his fourth voyage in 1503, Columbus beached his two worm-eaten ships at St Ann's Bay and was stranded on Jamaica for about a year. His crew depended on the Taíno for food; when supplies dwindled, Columbus is said to have used his foreknowledge of the lunar eclipse of February 1504 to intimidate them. He was rescued from Hispaniola in mid-1504.",
+    "ko": "1503년 네 번째 항해 중 콜럼버스는 좀벌레에 갉아먹힌 배 두 척을 세인트앤스베이 해안에 올려놓고 약 1년간 자메이카에 고립되었다. 선원들은 식량을 타이노족에게 의존했으며, 공급이 줄어들자 콜럼버스는 1504년 2월의 월식을 미리 알고 이를 이용해 그들을 위협했다고 전해진다. 그는 1504년 중반 히스파니올라에서 온 배에 구조되었다.",
+    "zh": "1503年第四次航行时，哥伦布将两艘被船蛆蛀坏的船只搁浅在圣安湾，在牙买加困了约一年。船员靠泰诺人提供食物；据说当供给减少时，哥伦布利用他事先知道的1504年2月月食来威吓他们。1504年年中，他被从伊斯帕尼奥拉岛派来的船只救走。",
+    "ja": "1503年の第4回航海でコロンブスは、フナクイムシに食われた2隻の船をセント・アンズ・ベイの浜に乗り上げ、約1年間ジャマイカに足止めされた。乗組員はタイノ人に食料を頼っていたが、供給が減るとコロンブスは1504年2月の月食を事前に知っていたことを利用して彼らを威圧したと伝えられる。彼は1504年半ばにイスパニョーラ島から来た船に救出された。"
+   }
+  },
+  {
+   "year": 1509,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Spanish colonization begins",
+    "ko": "스페인 식민 지배의 시작",
+    "zh": "西班牙殖民统治开始",
+    "ja": "スペインによる植民地化の開始"
+   },
+   "description": {
+    "en": "Spain established its first settlement at Sevilla la Nueva and later Spanish Town. Enslaved Africans were first brought to the island under Spanish rule.",
+    "ko": "스페인은 세비야라누에바에 첫 정착지를 세웠고 뒤이어 스패니시타운을 건설했다. 스페인 지배기에 처음으로 아프리카인 노예가 섬에 끌려왔다.",
+    "zh": "西班牙在新塞维利亚建立第一个殖民据点，随后又建设了西班牙镇。西班牙统治时期，非洲奴隶首次被贩运到岛上。",
+    "ja": "スペインはセビーリャ・ラ・ヌエバに最初の入植地を築き、のちにスパニッシュ・タウンを建設した。スペイン統治期に初めてアフリカ人奴隷が島に連れてこられた。"
+   }
+  },
+  {
+   "year": 1534,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Villa de la Vega becomes the capital",
+    "ko": "비야 데 라 베가가 수도가 되다",
+    "zh": "拉维加镇成为首府",
+    "ja": "ビリャ・デ・ラ・ベガが首都に"
+   },
+   "description": {
+    "en": "Around 1534 the Spanish abandoned unhealthy Sevilla la Nueva on the north coast and moved the seat of government to Villa de la Vega on the southern plain, later known as Spanish Town. The town remained Jamaica's capital under Spanish and then English rule until 1872, and its colonial buildings make it one of the oldest continuously inhabited towns in the Caribbean.",
+    "ko": "1534년 무렵 스페인인들은 북부 해안의 건강에 해로운 세비야 라 누에바를 버리고 남부 평야의 비야 데 라 베가, 훗날의 스패니시타운으로 정청을 옮겼다. 이 도시는 스페인과 잉글랜드 통치 아래 1872년까지 자메이카의 수도였으며, 식민지 시대 건물이 남아 있는 카리브에서 가장 오래 사람이 계속 살아온 도시 중 하나이다.",
+    "zh": "约1534年，西班牙人放弃了北岸卫生条件恶劣的新塞维利亚，将治所迁至南部平原的拉维加镇，即后来的西班牙城。在西班牙和英格兰统治下，该镇一直是牙买加首府直到1872年；凭借殖民时期的建筑，它是加勒比地区持续有人居住的最古老城镇之一。",
+    "ja": "1534年頃、スペイン人は北海岸の不衛生なセビリャ・ラ・ヌエバを放棄し、南部平野のビリャ・デ・ラ・ベガ、のちのスパニッシュ・タウンに政庁を移した。この町はスペインとイングランドの統治下で1872年までジャマイカの首都であり、植民地時代の建物が残るカリブで最も古くから人が住み続ける町の一つである。"
+   }
+  },
+  {
+   "year": 1597,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "English privateers raid Spanish Jamaica",
+    "ko": "잉글랜드 사략선의 스페인령 자메이카 습격",
+    "zh": "英格兰私掠船袭击西属牙买加",
+    "ja": "イングランド私掠船のスペイン領ジャマイカ襲撃"
+   },
+   "description": {
+    "en": "The poorly defended Spanish colony was a tempting target for Spain's enemies. In 1597 the English adventurer Sir Anthony Shirley landed and plundered Villa de la Vega, and in 1643 another English force under William Jackson sacked the town again. These raids exposed the colony's weakness half a century before the English conquest.",
+    "ko": "방비가 허술한 스페인 식민지는 스페인의 적들에게 매력적인 표적이었다. 1597년 잉글랜드의 모험가 앤서니 셜리 경이 상륙해 비야 데 라 베가를 약탈했고, 1643년에는 윌리엄 잭슨이 이끄는 또 다른 잉글랜드 부대가 다시 도시를 약탈했다. 이 습격들은 잉글랜드 정복 반세기 전부터 식민지의 취약함을 드러냈다.",
+    "zh": "防守薄弱的西班牙殖民地是西班牙敌人眼中的诱人目标。1597年，英格兰冒险家安东尼·雪莉爵士登陆并洗劫拉维加镇；1643年，威廉·杰克逊率领的另一支英格兰部队再次劫掠该镇。这些袭击早在英格兰征服前半个世纪就暴露了殖民地的虚弱。",
+    "ja": "防備の手薄なスペイン植民地は、スペインの敵にとって格好の標的だった。1597年にイングランドの冒険家アンソニー・シャーリー卿が上陸してビリャ・デ・ラ・ベガを略奪し、1643年にはウィリアム・ジャクソン率いる別のイングランド部隊が再び町を略奪した。これらの襲撃は、イングランドによる征服の半世紀前から植民地の弱さを露呈していた。"
+   }
+  },
+  {
+   "year": 1655,
+   "qid": "Q2526023",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "England captures Jamaica",
+    "ko": "잉글랜드의 자메이카 점령",
+    "zh": "英格兰夺取牙买加",
+    "ja": "イングランドによるジャマイカ占領"
+   },
+   "description": {
+    "en": "An English expedition seized Jamaica from Spain. Under British rule the island became a hub of sugar plantations worked by enslaved Africans, and Port Royal a notorious buccaneer haven. The invasion was part of Oliver Cromwell's 'Western Design', led by Admiral William Penn and General Robert Venables, which had failed in its main goal of taking Hispaniola.",
+    "ko": "잉글랜드 원정대가 스페인으로부터 자메이카를 빼앗았다. 영국 지배 아래 섬은 아프리카인 노예 노동에 기반한 사탕수수 플랜테이션의 중심지가 되었고, 포트로열은 악명 높은 해적의 근거지가 되었다. 이 침공은 윌리엄 펜 제독과 로버트 베너블스 장군이 이끈 올리버 크롬웰의 '서방 계획'의 일부였으며, 본래 목표였던 히스파니올라 점령에는 실패한 뒤였다.",
+    "zh": "英格兰远征军从西班牙手中夺取牙买加。在英国统治下，该岛成为依靠非洲奴隶劳动的蔗糖种植园中心，皇家港则沦为臭名昭著的海盗巢穴。这次入侵是奥利弗·克伦威尔“西方计划”的一部分，由海军上将威廉·佩恩和将军罗伯特·维纳布尔斯率领，此前其夺取伊斯帕尼奥拉岛的主要目标已经失败。",
+    "ja": "イングランド遠征軍がスペインからジャマイカを奪取した。イギリス統治下で島はアフリカ人奴隷の労働に支えられた砂糖プランテーションの中心地となり、ポート・ロイヤルは悪名高い海賊の拠点となった。この侵攻はウィリアム・ペン提督とロバート・ヴェナブルズ将軍が率いたオリヴァー・クロムウェルの「西方計画」の一環で、本来の目標だったイスパニョーラ島の攻略には失敗していた。"
+   }
+  },
+  {
+   "year": 1657,
+   "qid": "Q4871930",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Ocho Rios",
+    "ko": "오초리오스 전투",
+    "zh": "奥乔里奥斯战役",
+    "ja": "オーチョ・リオスの戦い"
+   },
+   "description": {
+    "en": "Spanish forces under the former governor Cristóbal Arnaldo de Ysassi waged a guerrilla resistance from the hills after 1655, supported by reinforcements from Cuba. In 1657 English troops under Governor Edward D'Oyley defeated a Spanish force at Ocho Rios, and in 1658 they won a larger victory at Rio Nuevo. These defeats ended Spain's hopes of recovering the island.",
+    "ko": "1655년 이후 전 총독 크리스토발 아르날도 데 이사시가 이끄는 스페인군은 쿠바의 증원을 받으며 산악 지대에서 게릴라 저항을 벌였다. 1657년 에드워드 도일리 총독이 이끄는 잉글랜드군이 오초리오스에서 스페인군을 격파했고, 1658년에는 리오누에보에서 더 큰 승리를 거두었다. 이 패배들로 섬을 되찾으려는 스페인의 희망은 끝났다.",
+    "zh": "1655年后，前总督克里斯托瓦尔·阿纳尔多·德伊萨西率领的西班牙军队在古巴援军支持下在山区展开游击抵抗。1657年，总督爱德华·多伊利率领的英军在奥乔里奥斯击败西班牙军队，1658年又在新河取得更大胜利。这些失败终结了西班牙收复该岛的希望。",
+    "ja": "1655年以後、元総督クリストバル・アルナルド・デ・イサシ率いるスペイン軍はキューバからの増援を受けつつ山地でゲリラ抵抗を続けた。1657年、エドワード・ドイリー総督率いるイングランド軍がオーチョ・リオスでスペイン軍を破り、1658年にはリオ・ヌエボでより大きな勝利を収めた。これらの敗北により、島を奪回するスペインの望みは絶たれた。"
+   }
+  },
+  {
+   "year": 1660,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Last Spanish forces leave Jamaica",
+    "ko": "스페인군의 최종 철수",
+    "zh": "最后的西班牙军队撤离",
+    "ja": "スペイン軍の最終撤退"
+   },
+   "description": {
+    "en": "In 1660 the Maroon leader Juan de Bolas, whose community had fought alongside the Spanish, made terms with the English and revealed Spanish positions. Deprived of this support, Ysassi and the last Spanish defenders fled to Cuba. English control of Jamaica was now secure, though other Maroon groups continued to resist in the mountains.",
+    "ko": "1660년 스페인 편에서 싸우던 공동체의 마룬 지도자 후안 데 볼라스가 잉글랜드와 협약을 맺고 스페인군의 위치를 알려 주었다. 이 지원을 잃은 이사시와 마지막 스페인 수비대는 쿠바로 달아났다. 이로써 잉글랜드의 자메이카 지배는 굳어졌지만, 다른 마룬 집단들은 산악 지대에서 저항을 이어 갔다.",
+    "zh": "1660年，原本与西班牙人并肩作战的马隆人首领胡安·德博拉斯与英格兰人达成协议，并透露了西班牙军的阵地。失去这一支持后，伊萨西和最后的西班牙守军逃往古巴。英格兰对牙买加的控制由此稳固，但其他马隆人群体仍在山区继续抵抗。",
+    "ja": "1660年、スペイン側で戦っていた共同体のマルーン指導者フアン・デ・ボラスがイングランドと協定を結び、スペイン軍の陣地を明かした。この支援を失ったイサシと最後のスペイン守備隊はキューバへ逃れた。こうしてイングランドのジャマイカ支配は確立したが、他のマルーン集団は山地で抵抗を続けた。"
+   }
+  },
+  {
+   "year": 1664,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First House of Assembly meets",
+    "ko": "최초의 의회 개원",
+    "zh": "首届议会召开",
+    "ja": "最初の議会が開会"
+   },
+   "description": {
+    "en": "In 1664 Governor Sir Thomas Modyford, a planter from Barbados, convened Jamaica's first elected House of Assembly at Spanish Town. Representing the white property-owning planters, the Assembly would control taxation and local laws for two centuries, often clashing with governors and London. It enacted the harsh slave codes that underpinned plantation society.",
+    "ko": "1664년 바베이도스 출신 농장주인 토머스 모디퍼드 총독은 스패니시타운에서 자메이카 최초의 선출 의회를 소집했다. 백인 유산 농장주를 대표한 이 의회는 이후 2세기 동안 과세와 지역 법률을 장악하며 총독 및 런던과 자주 충돌했다. 의회는 플랜테이션 사회를 떠받친 가혹한 노예법을 제정했다.",
+    "zh": "1664年，来自巴巴多斯的种植园主出身的总督托马斯·莫迪福德爵士在西班牙城召开牙买加首届民选议会。该议会代表拥有财产的白人种植园主，此后两个世纪掌控税收和地方立法，常与总督和伦敦发生冲突。它制定了支撑种植园社会的严酷奴隶法典。",
+    "ja": "1664年、バルバドス出身の農園主だったトマス・モディフォード総督は、スパニッシュ・タウンでジャマイカ初の選挙制議会を召集した。財産を持つ白人農園主を代表するこの議会は、その後2世紀にわたり課税と地方の法律を握り、しばしば総督やロンドンと対立した。議会はプランテーション社会を支えた過酷な奴隷法を制定した。"
+   }
+  },
+  {
+   "year": 1670,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Madrid recognises English Jamaica",
+    "ko": "마드리드 조약과 잉글랜드령 자메이카 승인",
+    "zh": "《马德里条约》承认英属牙买加",
+    "ja": "マドリード条約でイングランド領を承認"
+   },
+   "description": {
+    "en": "In the Treaty of Madrid of 1670, Spain formally recognised English possession of Jamaica and other territories England held in the Americas, while England undertook to suppress buccaneering against Spanish ships and towns. The treaty gave the colony legal security and encouraged investment in plantations.",
+    "ko": "1670년 마드리드 조약에서 스페인은 자메이카를 비롯해 잉글랜드가 아메리카에서 보유한 영토에 대한 잉글랜드의 영유를 공식 인정했고, 잉글랜드는 스페인 선박과 도시에 대한 버커니어 활동을 억제하기로 약속했다. 이 조약은 식민지에 법적 안정을 주고 플랜테이션 투자를 촉진했다.",
+    "zh": "在1670年的《马德里条约》中，西班牙正式承认英格兰对牙买加及其在美洲所占其他领土的拥有权，英格兰则承诺制止针对西班牙船只和城镇的海盗活动。该条约为殖民地提供了法律保障，并促进了对种植园的投资。",
+    "ja": "1670年のマドリード条約で、スペインはジャマイカをはじめイングランドがアメリカ大陸で保有する領土の領有を正式に認め、イングランドはスペインの船や町に対するバッカニア活動を抑えることを約束した。条約は植民地に法的な安定をもたらし、プランテーションへの投資を促した。"
+   }
+  },
+  {
+   "year": 1671,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Henry Morgan sacks Panama",
+    "ko": "헨리 모건의 파나마 약탈",
+    "zh": "亨利·摩根洗劫巴拿马",
+    "ja": "ヘンリー・モーガンのパナマ略奪"
+   },
+   "description": {
+    "en": "Operating from Port Royal with a commission from Jamaica's governor, the Welsh buccaneer Henry Morgan crossed the Isthmus of Panama in early 1671 and sacked and burned Panama City. Because the raid violated the newly signed Treaty of Madrid, Morgan was sent to England under arrest, but he returned knighted as lieutenant governor of Jamaica in 1674.",
+    "ko": "자메이카 총독의 위임장을 받아 포트로열을 근거지로 활동하던 웨일스 출신 버커니어 헨리 모건은 1671년 초 파나마 지협을 건너 파나마시를 약탈하고 불태웠다. 이 습격은 막 체결된 마드리드 조약을 위반한 것이어서 모건은 체포되어 잉글랜드로 송환되었지만, 1674년 기사 작위를 받고 자메이카 부총독으로 돌아왔다.",
+    "zh": "威尔士海盗亨利·摩根持牙买加总督颁发的委任状以皇家港为基地活动，1671年初穿越巴拿马地峡，洗劫并焚毁了巴拿马城。由于此次袭击违反了刚签订的《马德里条约》，摩根被逮捕押回英格兰，但1674年他受封爵士，以牙买加副总督身份归来。",
+    "ja": "ジャマイカ総督の委任状を得てポート・ロイヤルを拠点としたウェールズ出身のバッカニア、ヘンリー・モーガンは、1671年初めにパナマ地峡を越えてパナマ市を略奪し焼き払った。この襲撃は締結されたばかりのマドリード条約に違反していたため、モーガンは逮捕されてイングランドへ送られたが、1674年にナイトに叙されジャマイカ副総督として戻った。"
+   }
+  },
+  {
+   "year": 1692,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Earthquake destroys Port Royal",
+    "ko": "포트로열 대지진",
+    "zh": "大地震摧毁皇家港",
+    "ja": "地震によるポート・ロイヤルの壊滅"
+   },
+   "description": {
+    "en": "A massive earthquake and tsunami sank much of Port Royal, then one of the richest ports in the Americas, killing thousands. Kingston was founded nearby in its aftermath.",
+    "ko": "대지진과 해일로 당시 아메리카에서 손꼽히게 부유한 항구였던 포트로열의 상당 부분이 바다에 가라앉고 수천 명이 목숨을 잃었다. 그 여파로 인근에 킹스턴이 세워졌다.",
+    "zh": "强烈地震和海啸使当时美洲最富庶的港口之一皇家港大部分沉入海中，数千人丧生。灾后人们在附近建立了金斯敦。",
+    "ja": "大地震と津波により、当時アメリカ大陸有数の富裕な港だったポート・ロイヤルの大部分が海中に沈み、数千人が犠牲となった。その後、近くにキングストンが築かれた。"
+   }
+  },
+  {
+   "year": 1694,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "French invasion of Jamaica",
+    "ko": "프랑스의 자메이카 침공",
+    "zh": "法国入侵牙买加",
+    "ja": "フランスのジャマイカ侵攻"
+   },
+   "description": {
+    "en": "Two years after the Port Royal earthquake, during the Nine Years' War, a French force from Saint-Domingue under Jean-Baptiste du Casse landed on Jamaica's southeastern and southern coasts in 1694. The French burned plantations and carried off many enslaved people, but were repulsed by the island's militia at Carlisle Bay and withdrew.",
+    "ko": "포트로열 지진 2년 뒤인 1694년, 9년 전쟁 중에 장바티스트 뒤카스가 이끄는 생도맹그의 프랑스군이 자메이카 남동부와 남부 해안에 상륙했다. 프랑스군은 농장을 불태우고 많은 노예를 끌고 갔지만, 칼라일베이에서 섬의 민병대에 격퇴되어 물러났다.",
+    "zh": "皇家港地震两年后的1694年，大同盟战争期间，让-巴蒂斯特·迪卡斯率领的圣多明各法军在牙买加东南和南部海岸登陆。法军焚烧种植园并掳走许多奴隶，但在卡莱尔湾被岛上民兵击退后撤走。",
+    "ja": "ポート・ロイヤル地震の2年後の1694年、九年戦争のさなか、ジャン＝バティスト・デュ・カス率いるサン＝ドマングのフランス軍がジャマイカ南東部と南部の海岸に上陸した。フランス軍は農園を焼き多くの奴隷を連れ去ったが、カーライル湾で島の民兵に撃退されて撤退した。"
+   }
+  },
+  {
+   "year": 1728,
+   "qid": "Q5453254",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "First Maroon War",
+    "ko": "제1차 마룬 전쟁",
+    "zh": "第一次马隆战争",
+    "ja": "第一次マルーン戦争"
+   },
+   "description": {
+    "en": "From the late 1720s the Maroons of the Cockpit Country and the Blue Mountains escalated their raids on plantations, and British troops and militia mounted repeated expeditions against them. Using intimate knowledge of the rugged terrain and ambush tactics, the Maroons under leaders such as Cudjoe and Nanny defeated or evaded colonial forces for more than a decade. Unable to win, the colonial government sought peace.",
+    "ko": "1720년대 말부터 칵핏 컨트리와 블루마운틴의 마룬들은 농장 습격을 확대했고, 영국군과 민병대는 거듭 토벌대를 보냈다. 험준한 지형에 대한 깊은 지식과 매복 전술을 활용한 마룬들은 커조와 내니 같은 지도자 아래 10년 넘게 식민지군을 격파하거나 따돌렸다. 승리할 수 없었던 식민 정부는 평화를 모색했다.",
+    "zh": "自1720年代末起，驾驶舱地区和蓝山的马隆人加紧袭击种植园，英军和民兵多次出兵征讨。马隆人在卡乔和南妮等首领带领下，凭借对崎岖地形的熟悉和伏击战术，十多年间屡败或避开殖民军。无法取胜的殖民政府转而寻求和平。",
+    "ja": "1720年代末からコックピット・カントリーとブルー・マウンテンズのマルーンは農園への襲撃を強め、イギリス軍と民兵は繰り返し討伐隊を送った。険しい地形を熟知し待ち伏せ戦術を駆使したマルーンは、カジョーやナニーらの指導のもと10年以上にわたり植民地軍を打ち破り、またはかわし続けた。勝利できない植民地政府は和平を模索した。"
+   }
+  },
+  {
+   "year": 1739,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaties with the Maroons",
+    "ko": "마룬과의 평화 조약",
+    "zh": "与马龙人缔结条约",
+    "ja": "マルーンとの条約締結"
+   },
+   "description": {
+    "en": "After decades of guerrilla resistance, the British signed treaties with the Maroons, communities of escaped slaves led by figures such as Cudjoe and Queen Nanny, granting them land and autonomy. The Leeward Maroons under Cudjoe signed in 1739 and the Windward Maroons in 1740; the treaties also obliged the Maroons to return future runaways and help suppress revolts.",
+    "ko": "수십 년에 걸친 게릴라 저항 끝에 영국은 커조와 내니 여왕 등이 이끈 탈출 노예 공동체 '마룬'과 조약을 맺고, 이들에게 토지와 자치를 인정했다. 커조가 이끄는 리워드 마룬은 1739년, 윈드워드 마룬은 1740년에 조약을 맺었으며, 조약은 마룬에게 이후의 도망 노예를 돌려보내고 반란 진압을 돕도록 의무화하기도 했다.",
+    "zh": "经过数十年的游击抵抗，英国与由库乔和\"女王\"南妮等人领导的逃亡奴隶群体马龙人签订条约，承认其土地和自治权。卡乔领导的背风马隆人于1739年签约，迎风马隆人于1740年签约；条约还规定马隆人须遣返日后的逃奴并协助镇压起义。",
+    "ja": "数十年におよぶゲリラ抵抗の末、イギリスはカジョーや「女王」ナニーらが率いた逃亡奴隷の共同体マルーンと条約を結び、土地と自治を認めた。カジョー率いるリーワード・マルーンは1739年に、ウィンドワード・マルーンは1740年に条約を結んだ。条約はマルーンに今後の逃亡奴隷の引き渡しと反乱鎮圧への協力も義務づけた。"
+   }
+  },
+  {
+   "year": 1760,
+   "qid": "Q2386936",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Tacky's War",
+    "ko": "태키의 전쟁",
+    "zh": "塔基战争",
+    "ja": "タッキーの戦争"
+   },
+   "description": {
+    "en": "At Easter 1760 enslaved Africans led by Tacky, a man of Akan origin, rose in St Mary parish, and uprisings soon spread to Westmoreland and other parishes. It took British troops, militia and Maroons bound by their treaties many months to suppress the revolts, which killed dozens of whites and hundreds of rebels, with many more executed or transported. It was the largest slave uprising in the British Caribbean of the eighteenth century.",
+    "ko": "1760년 부활절에 아칸계 출신의 태키가 이끄는 아프리카 노예들이 세인트메리 교구에서 봉기했고, 반란은 곧 웨스트모얼랜드 등 다른 교구로 번졌다. 영국군과 민병대, 조약에 묶인 마룬이 여러 달에 걸쳐 진압했는데, 이 과정에서 수십 명의 백인과 수백 명의 반란자가 죽고 더 많은 이들이 처형되거나 유배되었다. 이는 18세기 영국령 카리브에서 가장 큰 노예 봉기였다.",
+    "zh": "1760年复活节，阿坎族出身的塔基领导非洲奴隶在圣玛丽教区起事，起义很快蔓延到威斯特摩兰等教区。英军、民兵和受条约约束的马隆人花了数月才将其镇压，数十名白人和数百名起义者死亡，更多人被处决或流放。这是十八世纪英属加勒比规模最大的奴隶起义。",
+    "ja": "1760年の復活祭、アカン系出身のタッキーが率いるアフリカ人奴隷がセント・メアリー教区で蜂起し、反乱はまもなくウェストモアランドなど他の教区にも広がった。イギリス軍と民兵、条約に縛られたマルーンが何か月もかけて鎮圧し、数十人の白人と数百人の反乱者が死亡し、さらに多くが処刑または流刑となった。18世紀の英領カリブで最大の奴隷反乱だった。"
+   }
+  },
+  {
+   "year": 1782,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of the Saintes saves Jamaica",
+    "ko": "세인트 해전과 자메이카 방어",
+    "zh": "圣徒岛海战保住牙买加",
+    "ja": "セインツの海戦とジャマイカ防衛"
+   },
+   "description": {
+    "en": "During the American Revolutionary War, France and Spain prepared a joint invasion of Jamaica. In April 1782 Admiral George Rodney's British fleet defeated the French fleet of the Comte de Grasse at the Battle of the Saintes near Guadeloupe, and the invasion was abandoned. Jamaican planters celebrated Rodney as the island's saviour and erected a monument to him in Spanish Town.",
+    "ko": "미국 독립 전쟁 중 프랑스와 스페인은 자메이카 합동 침공을 준비했다. 1782년 4월 조지 로드니 제독의 영국 함대가 과들루프 근처 세인트 해전에서 드 그라스 백작의 프랑스 함대를 격파하자 침공 계획은 포기되었다. 자메이카 농장주들은 로드니를 섬의 구원자로 칭송하며 스패니시타운에 기념비를 세웠다.",
+    "zh": "美国独立战争期间，法国和西班牙准备联合入侵牙买加。1782年4月，海军上将乔治·罗德尼率领的英国舰队在瓜德罗普附近的圣徒岛海战中击败德格拉斯伯爵的法国舰队，入侵计划随之放弃。牙买加种植园主将罗德尼奉为该岛的救星，并在西班牙城为他建立纪念碑。",
+    "ja": "アメリカ独立戦争中、フランスとスペインはジャマイカへの共同侵攻を準備した。1782年4月、ジョージ・ロドニー提督のイギリス艦隊がグアドループ近くのセインツの海戦でド・グラース伯爵のフランス艦隊を破り、侵攻は断念された。ジャマイカの農園主はロドニーを島の救世主とたたえ、スパニッシュ・タウンに記念碑を建てた。"
+   }
+  },
+  {
+   "year": 1795,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Second Maroon War and deportation",
+    "ko": "제2차 마룬 전쟁과 추방",
+    "zh": "第二次马隆战争与流放",
+    "ja": "第二次マルーン戦争と追放"
+   },
+   "description": {
+    "en": "In 1795 tensions between the colonial authorities and the Maroons of Trelawny Town, sparked by the flogging of two Maroons, escalated into war. After months of fighting the Maroons surrendered on terms, but the governor broke the agreement and in 1796 deported several hundred of them to Nova Scotia; in 1800 most were moved on to Sierra Leone. Accompong and the Windward Maroon towns remained in Jamaica.",
+    "ko": "1795년 마룬 두 명이 태형을 당한 일을 계기로 식민 당국과 트렐로니타운 마룬 사이의 긴장이 전쟁으로 번졌다. 몇 달 동안의 전투 끝에 마룬은 조건부로 항복했지만, 총독은 합의를 어기고 1796년 그들 수백 명을 노바스코샤로 추방했으며, 1800년에는 대부분이 시에라리온으로 다시 옮겨졌다. 어컴퐁과 윈드워드 마룬 마을들은 자메이카에 남았다.",
+    "zh": "1795年，因两名马隆人遭鞭打，殖民当局与特里洛尼镇马隆人之间的紧张关系升级为战争。经过数月战斗，马隆人有条件投降，但总督背弃协议，于1796年将其中数百人流放到新斯科舍；1800年，大多数人又被转送至塞拉利昂。阿孔庞和迎风马隆人的村镇则留在牙买加。",
+    "ja": "1795年、2人のマルーンが鞭打たれたことをきっかけに、植民地当局とトレローニー・タウンのマルーンとの緊張が戦争に発展した。数か月の戦闘の末にマルーンは条件付きで降伏したが、総督は合意を破り、1796年に彼ら数百人をノバスコシアへ追放し、1800年には大半がシエラレオネへ移された。アコンポンとウィンドワードのマルーンの町はジャマイカに残った。"
+   }
+  },
+  {
+   "year": 1807,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Britain abolishes the slave trade",
+    "ko": "영국의 노예무역 폐지",
+    "zh": "英国废除奴隶贸易",
+    "ja": "イギリスが奴隷貿易を廃止"
+   },
+   "description": {
+    "en": "The British Parliament's Slave Trade Act of 1807 banned British participation in the Atlantic slave trade, ending the shipment of captive Africans to Jamaica, which had received several hundred thousand people over the previous century and a half. Slavery itself continued, and planters now depended on the enslaved population already on the island. Abolitionists hoped the ban would lead to better treatment and eventual emancipation.",
+    "ko": "1807년 영국 의회의 노예무역법은 영국의 대서양 노예무역 참여를 금지해, 지난 1세기 반 동안 수십만 명이 끌려온 자메이카로의 아프리카인 포로 수송을 끝냈다. 노예제 자체는 계속되었고 농장주들은 이제 섬에 이미 있던 노예 인구에 의존하게 되었다. 노예제 폐지론자들은 이 금지가 처우 개선과 궁극적인 해방으로 이어지기를 기대했다.",
+    "zh": "1807年英国议会通过《奴隶贸易法》，禁止英国参与大西洋奴隶贸易，结束了向牙买加运送非洲俘虏的历史——此前一个半世纪里，该岛接收了数十万人。奴隶制本身仍在延续，种植园主此后只能依赖岛上已有的奴隶人口。废奴主义者希望这一禁令能带来更好的待遇并最终实现解放。",
+    "ja": "1807年のイギリス議会の奴隷貿易法は、イギリスの大西洋奴隷貿易への関与を禁じ、それまでの1世紀半に数十万人が連行されてきたジャマイカへのアフリカ人捕虜の輸送を終わらせた。奴隷制そのものは続き、農園主は島にすでにいる奴隷人口に頼るほかなくなった。奴隷制廃止論者は、この禁止が待遇の改善と最終的な解放につながることを期待した。"
+   }
+  },
+  {
+   "year": 1831,
+   "qid": "Q4077534",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "The Baptist War slave rebellion",
+    "ko": "침례교 전쟁(크리스마스 봉기)",
+    "zh": "浸信会战争（圣诞节起义）",
+    "ja": "バプテスト戦争（クリスマス反乱）"
+   },
+   "description": {
+    "en": "Samuel Sharpe led some 60,000 enslaved people in the Christmas Rebellion, Jamaica's largest slave uprising. Its brutal suppression accelerated Britain's move to abolish slavery.",
+    "ko": "새뮤얼 샤프가 이끈 약 6만 명의 노예가 자메이카 최대의 노예 봉기인 크리스마스 봉기를 일으켰다. 봉기에 대한 잔혹한 진압은 오히려 영국의 노예제 폐지 움직임을 앞당겼다.",
+    "zh": "塞缪尔·夏普领导约六万名奴隶发动圣诞节起义，这是牙买加规模最大的奴隶起义。起义遭到残酷镇压，反而加速了英国废除奴隶制的进程。",
+    "ja": "サミュエル・シャープに率いられた約6万人の奴隷が、ジャマイカ最大の奴隷反乱であるクリスマス反乱を起こした。その苛烈な鎮圧は、かえってイギリスの奴隷制廃止を早めることになった。"
+   }
+  },
+  {
+   "year": 1838,
+   "qid": null,
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Full emancipation from slavery",
+    "ko": "노예제의 완전 폐지",
+    "zh": "奴隶制彻底废除",
+    "ja": "奴隷制の完全廃止"
+   },
+   "description": {
+    "en": "Slavery was abolished in 1834 and the 'apprenticeship' system ended in 1838, granting full freedom to about 310,000 people. Emancipation reshaped Jamaican society and land ownership.",
+    "ko": "1834년 노예제가 폐지되고 1838년 '도제' 제도마저 끝나면서 약 31만 명이 완전한 자유를 얻었다. 노예 해방은 자메이카의 사회 구조와 토지 소유를 근본적으로 바꾸었다.",
+    "zh": "1834年奴隶制被废除，1838年\"学徒制\"也告终结，约31万人获得完全自由。奴隶解放深刻改变了牙买加的社会结构与土地所有制。",
+    "ja": "1834年に奴隷制が廃止され、1838年には「徒弟制」も終わり、約31万人が完全な自由を得た。奴隷解放はジャマイカの社会構造と土地所有を根本から変えた。"
+   }
+  },
+  {
+   "year": 1845,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Jamaica's first railway opens",
+    "ko": "자메이카 최초의 철도 개통",
+    "zh": "牙买加首条铁路通车",
+    "ja": "ジャマイカ初の鉄道が開業"
+   },
+   "description": {
+    "en": "In November 1845 the Jamaica Railway opened between Kingston and Angels near Spanish Town, one of the earliest railways in the Caribbean and in any British colony. The line was later extended to Montego Bay and Port Antonio, carrying bananas, sugar and passengers. Passenger services were largely discontinued in the 1990s.",
+    "ko": "1845년 11월 킹스턴과 스패니시타운 인근 에인절스를 잇는 자메이카 철도가 개통했는데, 이는 카리브 지역과 영국 식민지를 통틀어 가장 이른 철도 중 하나였다. 노선은 이후 몬테고베이와 포트안토니오까지 연장되어 바나나와 설탕, 승객을 실어 날랐다. 여객 운송은 1990년대에 대부분 중단되었다.",
+    "zh": "1845年11月，牙买加铁路在金斯敦与西班牙城附近的安吉尔斯之间通车，是加勒比地区乃至所有英国殖民地中最早的铁路之一。该线后来延伸至蒙特哥贝和安东尼奥港，运送香蕉、蔗糖和旅客。客运服务在1990年代大多停止。",
+    "ja": "1845年11月、キングストンとスパニッシュ・タウン近郊のエンジェルズを結ぶジャマイカ鉄道が開業した。カリブ地域、さらにはイギリスの植民地全体でも最も早い鉄道の一つだった。路線はのちにモンテゴ・ベイとポート・アントニオまで延長され、バナナや砂糖、乗客を運んだ。旅客輸送は1990年代にほぼ廃止された。"
+   }
+  },
+  {
+   "year": 1850,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Cholera epidemic",
+    "ko": "콜레라 대유행",
+    "zh": "霍乱大流行",
+    "ja": "コレラの大流行"
+   },
+   "description": {
+    "en": "Cholera reached Jamaica in 1850 and spread rapidly through Kingston, Port Royal and the countryside over the next two years, killing tens of thousands of people in a population of under 400,000. The epidemic hit the poor freed population hardest and exposed the lack of sanitation and medical care. A smallpox epidemic followed soon after.",
+    "ko": "1850년 자메이카에 상륙한 콜레라는 이후 2년 동안 킹스턴과 포트로열, 농촌 지역으로 급속히 퍼져 40만 명이 채 안 되는 인구 중 수만 명의 목숨을 앗아 갔다. 전염병은 가난한 해방민에게 가장 큰 타격을 주었고 위생과 의료의 부재를 드러냈다. 곧이어 천연두도 유행했다.",
+    "zh": "1850年霍乱传入牙买加，在随后两年里迅速蔓延至金斯敦、皇家港和乡村，在不足40万的人口中夺去数万人的生命。疫情对贫困的获释民众打击最重，暴露了卫生和医疗的匮乏。不久之后又爆发了天花疫情。",
+    "ja": "1850年にジャマイカに達したコレラは、その後2年間でキングストンやポート・ロイヤル、農村部に急速に広がり、40万人に満たない人口のうち数万人の命を奪った。流行は貧しい解放民に最も大きな打撃を与え、衛生と医療の欠如を露呈した。まもなく天然痘も流行した。"
+   }
+  },
+  {
+   "year": 1865,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "The Morant Bay Rebellion",
+    "ko": "모런트베이 봉기",
+    "zh": "莫兰特湾起义",
+    "ja": "モラント・ベイの反乱"
+   },
+   "description": {
+    "en": "Protests against poverty and injustice led by Paul Bogle were violently suppressed, with hundreds executed. The crisis ended local assembly rule and made Jamaica a Crown Colony.",
+    "ko": "폴 보글이 이끈, 빈곤과 불의에 항거한 시위가 폭력적으로 진압되어 수백 명이 처형되었다. 이 사건으로 식민지 의회 자치가 폐지되고 자메이카는 영국 직할 식민지가 되었다.",
+    "zh": "保罗·博格尔领导的反抗贫困与不公的抗议遭到血腥镇压，数百人被处决。这场危机终结了当地议会自治，牙买加沦为英国直辖殖民地。",
+    "ja": "ポール・ボーグルが率いた貧困と不正義への抗議は激しく弾圧され、数百人が処刑された。この事件で現地議会の自治は廃止され、ジャマイカは英国の直轄植民地となった。"
+   }
+  },
+  {
+   "year": 1870,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Rise of the banana trade",
+    "ko": "바나나 무역의 성장",
+    "zh": "香蕉贸易兴起",
+    "ja": "バナナ貿易の台頭"
+   },
+   "description": {
+    "en": "From around 1870 American sea captains, notably Lorenzo Dow Baker, began shipping Jamaican bananas from Port Antonio to the United States. Small farmers, many of them descendants of the freed people, took up banana cultivation, and by the end of the century bananas had overtaken sugar as Jamaica's leading export. American fruit companies, including the later United Fruit Company, came to dominate the trade.",
+    "ko": "1870년 무렵부터 로렌조 다우 베이커 등 미국 선장들이 포트안토니오에서 자메이카 바나나를 미국으로 실어 나르기 시작했다. 해방민의 후손이 많은 소농들이 바나나 재배에 나섰고, 19세기 말에는 바나나가 설탕을 제치고 자메이카의 최대 수출품이 되었다. 훗날의 유나이티드 프루트 컴퍼니를 비롯한 미국 과일 회사들이 이 무역을 장악하게 되었다.",
+    "zh": "约自1870年起，以洛伦佐·道·贝克为代表的美国船长开始从安东尼奥港将牙买加香蕉运往美国。许多身为获释者后代的小农开始种植香蕉，到十九世纪末，香蕉已超过蔗糖成为牙买加的首要出口产品。包括后来的联合果品公司在内的美国水果公司逐渐主导了这一贸易。",
+    "ja": "1870年頃から、ロレンゾ・ダウ・ベイカーらアメリカの船長がポート・アントニオからジャマイカ産バナナをアメリカへ運び始めた。解放民の子孫の多い小農がバナナ栽培に乗り出し、19世紀末にはバナナが砂糖を抜いてジャマイカ最大の輸出品となった。のちのユナイテッド・フルーツ社を含むアメリカの果物会社がこの貿易を支配するようになった。"
+   }
+  },
+  {
+   "year": 1872,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Capital moves to Kingston",
+    "ko": "수도를 킹스턴으로 이전",
+    "zh": "首府迁往金斯敦",
+    "ja": "首都をキングストンへ移転"
+   },
+   "description": {
+    "en": "In 1872 the colonial government moved the capital from Spanish Town to Kingston, which had long since become the island's commercial centre and largest city. Founded after the destruction of Port Royal in 1692, Kingston grew around one of the world's largest natural harbours. It has remained the capital ever since.",
+    "ko": "1872년 식민 정부는 수도를 스패니시타운에서 이미 오래전부터 섬의 상업 중심지이자 최대 도시였던 킹스턴으로 옮겼다. 1692년 포트로열이 파괴된 뒤 세워진 킹스턴은 세계 최대급의 천연 항구를 중심으로 성장했다. 이후 킹스턴은 줄곧 수도로 남아 있다.",
+    "zh": "1872年，殖民政府将首府从西班牙城迁往金斯敦，后者早已成为岛上的商业中心和最大城市。金斯敦建于1692年皇家港被毁之后，围绕世界最大的天然港湾之一发展起来。此后它一直是首都。",
+    "ja": "1872年、植民地政府は首都をスパニッシュ・タウンから、すでに長く島の商業中心地かつ最大都市となっていたキングストンへ移した。1692年のポート・ロイヤル崩壊後に建設されたキングストンは、世界有数の天然の良港を中心に発展した。以来キングストンは首都であり続けている。"
+   }
+  },
+  {
+   "year": 1907,
+   "qid": "Q4558694",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Kingston earthquake",
+    "ko": "킹스턴 대지진",
+    "zh": "金斯敦大地震",
+    "ja": "キングストン地震"
+   },
+   "description": {
+    "en": "On 14 January 1907 a powerful earthquake struck Kingston, and the fires that followed destroyed much of the city centre. More than 800 people were killed. The city was rebuilt over the following years with new building regulations favouring reinforced concrete.",
+    "ko": "1907년 1월 14일 강력한 지진이 킹스턴을 강타했고, 뒤이은 화재로 도심 대부분이 파괴되었다. 800명 이상이 목숨을 잃었다. 도시는 이후 몇 년에 걸쳐 철근 콘크리트를 권장하는 새 건축 규정에 따라 재건되었다.",
+    "zh": "1907年1月14日，一场强烈地震袭击金斯敦，随后的大火摧毁了市中心的大部分地区，800多人遇难。此后数年间，城市依照提倡钢筋混凝土的新建筑法规重建。",
+    "ja": "1907年1月14日、強い地震がキングストンを襲い、続いて起きた火災で市中心部の大半が焼失した。800人以上が死亡した。街はその後数年かけて、鉄筋コンクリートを推奨する新たな建築規制のもとで再建された。"
+   }
+  },
+  {
+   "year": 1914,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Marcus Garvey founds the UNIA",
+    "ko": "마커스 가비의 UNIA 창설",
+    "zh": "马库斯·加维创立“世界黑人进步协会”",
+    "ja": "マーカス・ガーヴィーがUNIAを創設"
+   },
+   "description": {
+    "en": "In 1914 the Jamaican activist Marcus Garvey, born in St Ann's Bay in 1887, founded the Universal Negro Improvement Association in Kingston. After moving to the United States in 1916 he built it into a mass movement promoting Black pride, economic self-reliance and a return to Africa. Garvey is honoured as Jamaica's first National Hero, and his ideas deeply influenced Pan-Africanism and the Rastafari movement.",
+    "ko": "1887년 세인트앤스베이에서 태어난 자메이카의 운동가 마커스 가비는 1914년 킹스턴에서 '세계 흑인 지위 향상 협회(UNIA)'를 설립했다. 1916년 미국으로 건너간 그는 이 단체를 흑인의 자긍심과 경제적 자립, 아프리카 귀환을 내세운 대중 운동으로 키웠다. 가비는 자메이카의 첫 번째 국가 영웅으로 추앙받으며, 그의 사상은 범아프리카주의와 라스타파리 운동에 깊은 영향을 주었다.",
+    "zh": "1887年生于圣安湾的牙买加活动家马库斯·加维于1914年在金斯敦创立“世界黑人进步协会”。1916年移居美国后，他将其发展为倡导黑人自豪、经济自立和重返非洲的群众运动。加维被尊为牙买加第一位民族英雄，他的思想深刻影响了泛非主义和拉斯塔法里运动。",
+    "ja": "1887年にセント・アンズ・ベイで生まれたジャマイカの活動家マーカス・ガーヴィーは、1914年にキングストンで世界黒人地位改善協会（UNIA）を設立した。1916年にアメリカへ渡った彼は、これを黒人の誇りと経済的自立、アフリカ帰還を掲げる大衆運動へと育てた。ガーヴィーはジャマイカ初の国民的英雄とされ、その思想は汎アフリカ主義とラスタファリ運動に深い影響を与えた。"
+   }
+  },
+  {
+   "year": 1930,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Rise of the Rastafari movement",
+    "ko": "라스타파리 운동의 등장",
+    "zh": "拉斯塔法里运动兴起",
+    "ja": "ラスタファリ運動の誕生"
+   },
+   "description": {
+    "en": "The coronation of Ras Tafari Makonnen as Emperor Haile Selassie I of Ethiopia in November 1930 was seen by some Jamaicans, drawing on Garveyite and biblical ideas, as the fulfilment of prophecy. Preachers such as Leonard Howell began spreading the belief in Selassie's divinity in the early 1930s, founding the Rastafari movement. Long persecuted by the authorities, it grew to shape Jamaican music, language and identity.",
+    "ko": "1930년 11월 라스 타파리 마코넨이 에티오피아 황제 하일레 셀라시에 1세로 즉위하자, 가비주의와 성서의 사상을 바탕으로 일부 자메이카인은 이를 예언의 성취로 보았다. 레너드 하월 같은 설교자들이 1930년대 초부터 셀라시에의 신성을 전파하면서 라스타파리 운동이 시작되었다. 오랫동안 당국의 박해를 받았지만, 이 운동은 자메이카의 음악과 언어, 정체성을 형성하는 힘으로 성장했다.",
+    "zh": "1930年11月，拉斯·塔法里·马康南加冕为埃塞俄比亚皇帝海尔·塞拉西一世，一些牙买加人依据加维主义和《圣经》思想，将其视为预言的应验。1930年代初，伦纳德·豪厄尔等传道者开始宣扬塞拉西的神性，拉斯塔法里运动由此兴起。该运动长期遭当局迫害，却逐渐成为塑造牙买加音乐、语言和身份认同的力量。",
+    "ja": "1930年11月、ラス・タファリ・マコンネンがエチオピア皇帝ハイレ・セラシエ1世として即位すると、一部のジャマイカ人はガーヴィー主義と聖書の思想をもとにこれを預言の成就とみなした。1930年代初めからレナード・ハウエルらの説教者がセラシエの神性を説き始め、ラスタファリ運動が誕生した。長く当局に迫害されたが、この運動はジャマイカの音楽や言語、アイデンティティを形づくる力へと成長した。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Labour uprisings and the birth of modern politics",
+    "ko": "노동 봉기와 현대 정치의 태동",
+    "zh": "劳工起义与现代政党政治的开端",
+    "ja": "労働争議と現代政治の誕生"
+   },
+   "description": {
+    "en": "Island-wide labour protests over wages and conditions gave rise to trade unions and the two parties, the PNP and the JLP, that would lead Jamaica toward self-government.",
+    "ko": "임금과 노동 조건에 항의하는 시위가 섬 전역으로 번지면서 노동조합이 결성되고, 이후 자치와 독립을 이끌 양대 정당인 인민민족당(PNP)과 자메이카노동당(JLP)이 탄생했다.",
+    "zh": "抗议工资和劳动条件的浪潮席卷全岛，催生了工会以及日后引领牙买加走向自治的两大政党——人民民族党和牙买加工党。",
+    "ja": "賃金と労働条件をめぐる抗議が島全体に広がり、労働組合が結成された。のちに自治と独立を導く二大政党、人民国家党（PNP）とジャマイカ労働党（JLP）もこの中から生まれた。"
+   }
+  },
+  {
+   "year": 1944,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Universal suffrage and the first general election",
+    "ko": "보통선거와 첫 총선",
+    "zh": "普选与首次大选",
+    "ja": "普通選挙と初の総選挙"
+   },
+   "description": {
+    "en": "A new constitution granted in November 1944 introduced universal adult suffrage and an elected House of Representatives. In the general election held in December, Alexander Bustamante's Jamaica Labour Party defeated Norman Manley's People's National Party. It was the first election under universal suffrage in the British Caribbean colonies and began the two-party system that still defines Jamaican politics.",
+    "ko": "1944년 11월 부여된 새 헌법은 성인 보통선거권과 선출직 하원을 도입했다. 12월 치러진 총선에서 알렉산더 버스타맨테의 자메이카 노동당이 노먼 맨리의 국민민족당을 이겼다. 이는 영국령 카리브 식민지 최초의 보통선거였으며, 오늘날까지 자메이카 정치를 규정하는 양당 체제의 시작이었다.",
+    "zh": "1944年11月颁布的新宪法实行成人普选并设立民选众议院。在12月举行的大选中，亚历山大·布斯塔曼特的牙买加工党击败了诺曼·曼利的人民民族党。这是英属加勒比殖民地首次普选，开启了至今仍主导牙买加政治的两党制。",
+    "ja": "1944年11月に付与された新憲法は、成人普通選挙権と選挙制の下院を導入した。12月の総選挙では、アレクサンダー・バスタマンテのジャマイカ労働党がノーマン・マンリーの人民国家党を破った。英領カリブ植民地で初の普通選挙であり、今日までジャマイカ政治を規定する二大政党制の始まりとなった。"
+   }
+  },
+  {
+   "year": 1952,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Bauxite exports begin",
+    "ko": "보크사이트 수출 시작",
+    "zh": "铝土矿开始出口",
+    "ja": "ボーキサイト輸出の開始"
+   },
+   "description": {
+    "en": "Large deposits of bauxite, the ore of aluminium, had been identified in Jamaica's red soils in the 1940s, and in 1952 North American companies such as Reynolds began exporting it. Within a few years Jamaica became one of the world's leading bauxite producers, and alumina refineries followed. The industry brought foreign investment and export earnings but also displaced farming communities and caused environmental damage.",
+    "ko": "1940년대 자메이카의 붉은 토양에서 알루미늄 원광인 보크사이트의 대규모 매장이 확인되었고, 1952년 레이놀즈 등 북미 기업들이 수출을 시작했다. 몇 년 만에 자메이카는 세계 주요 보크사이트 생산국 중 하나가 되었고 알루미나 정련소도 뒤따랐다. 이 산업은 외국인 투자와 수출 소득을 가져왔지만 농촌 공동체를 밀어내고 환경 피해를 일으키기도 했다.",
+    "zh": "1940年代，人们在牙买加的红土中发现了大量铝矿石——铝土矿，1952年雷诺兹等北美公司开始出口。短短几年内，牙买加成为世界主要铝土矿生产国之一，氧化铝精炼厂也随之建立。该产业带来了外国投资和出口收入，但也迫使农村社区迁移并造成环境破坏。",
+    "ja": "1940年代にジャマイカの赤土でアルミニウムの原鉱であるボーキサイトの大規模な鉱床が確認され、1952年にレイノルズなど北米企業が輸出を始めた。数年のうちにジャマイカは世界有数のボーキサイト産出国となり、アルミナ精錬所も続いた。この産業は外国投資と輸出収入をもたらしたが、農村の共同体を立ち退かせ、環境破壊も引き起こした。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Jamaica joins the West Indies Federation",
+    "ko": "서인도 연방 가입",
+    "zh": "加入西印度联邦",
+    "ja": "西インド連邦への加盟"
+   },
+   "description": {
+    "en": "In 1958 Jamaica became the largest member of the West Indies Federation, a union of ten British Caribbean colonies intended to lead to independence as a single state, with its capital in Port of Spain, Trinidad. Many Jamaicans felt the island was underrepresented and would bear too much of the cost. Norman Manley, then chief minister, supported the federation, while Bustamante campaigned against it.",
+    "ko": "1958년 자메이카는 트리니다드의 포트오브스페인을 수도로 하여 하나의 국가로 독립하는 것을 목표로 한 영국령 카리브 10개 식민지의 연합, 서인도 연방의 최대 구성원이 되었다. 많은 자메이카인은 섬이 충분히 대표되지 못하면서 비용은 과도하게 부담한다고 느꼈다. 당시 수석 장관이던 노먼 맨리는 연방을 지지했고 버스타맨테는 반대 운동을 펼쳤다.",
+    "zh": "1958年，牙买加成为西印度联邦的最大成员。该联邦由十个英属加勒比殖民地组成，以特立尼达的西班牙港为首都，旨在作为单一国家实现独立。许多牙买加人认为本岛代表权不足，却要承担过多费用。时任首席部长诺曼·曼利支持联邦，而布斯塔曼特则发起反对运动。",
+    "ja": "1958年、ジャマイカは、トリニダードのポート・オブ・スペインを首都とし単一国家としての独立を目指した英領カリブ10植民地の連合、西インド連邦の最大の構成国となった。多くのジャマイカ人は、島の代表が不十分なまま費用を過大に負担させられると感じた。当時の首席大臣ノーマン・マンリーは連邦を支持し、バスタマンテは反対運動を展開した。"
+   }
+  },
+  {
+   "year": 1961,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Referendum to leave the Federation",
+    "ko": "연방 탈퇴 국민 투표",
+    "zh": "退出联邦的全民公投",
+    "ja": "連邦離脱の国民投票"
+   },
+   "description": {
+    "en": "In a referendum in September 1961, a majority of Jamaican voters chose to withdraw from the West Indies Federation. The decision led to the collapse of the Federation in 1962 and to separate independence for Jamaica and then Trinidad and Tobago. Manley accepted the result and negotiated Jamaica's independence, but lost the 1962 election to Bustamante.",
+    "ko": "1961년 9월 국민 투표에서 자메이카 유권자 다수는 서인도 연방 탈퇴를 택했다. 이 결정으로 연방은 1962년 해체되었고 자메이카와 이어 트리니다드 토바고가 각각 독립했다. 맨리는 결과를 받아들이고 독립 협상을 이끌었지만 1962년 선거에서 버스타맨테에게 패했다.",
+    "zh": "在1961年9月的全民公投中，多数牙买加选民选择退出西印度联邦。这一决定导致联邦于1962年解体，牙买加以及随后的特立尼达和多巴哥分别独立。曼利接受了结果并主持独立谈判，却在1962年大选中败给布斯塔曼特。",
+    "ja": "1961年9月の国民投票で、ジャマイカの有権者の多数は西インド連邦からの離脱を選んだ。この決定により連邦は1962年に解体し、ジャマイカ、続いてトリニダード・トバゴがそれぞれ独立した。マンリーは結果を受け入れて独立交渉を進めたが、1962年の選挙でバスタマンテに敗れた。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": "Q17080530",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence from Britain",
+    "ko": "영국으로부터의 독립",
+    "zh": "脱离英国独立",
+    "ja": "イギリスからの独立"
+   },
+   "description": {
+    "en": "On 6 August 1962 Jamaica became an independent nation within the Commonwealth, with Alexander Bustamante as its first prime minister and 'Out of Many, One People' as its national motto.",
+    "ko": "1962년 8월 6일 자메이카는 영연방 내 독립국이 되었고, 알렉산더 부스타만테가 초대 총리에 취임했다. '여럿에서 하나의 민족으로'가 국가 표어로 자리 잡았다.",
+    "zh": "1962年8月6日，牙买加成为英联邦内的独立国家，亚历山大·布斯塔曼特出任首任总理，\"万众一族\"成为国家格言。",
+    "ja": "1962年8月6日、ジャマイカはイギリス連邦内の独立国となり、アレクサンダー・ブスタマンテが初代首相に就任した。「多くの民から一つの民へ」が国の標語となった。"
+   }
+  },
+  {
+   "year": 1966,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Haile Selassie visits Jamaica",
+    "ko": "하일레 셀라시에의 자메이카 방문",
+    "zh": "海尔·塞拉西访问牙买加",
+    "ja": "ハイレ・セラシエのジャマイカ訪問"
+   },
+   "description": {
+    "en": "On 21 April 1966 Emperor Haile Selassie I of Ethiopia arrived in Kingston on a state visit and was greeted at the airport by a huge crowd, many of them Rastafari. The visit, still commemorated by Rastafari as Grounation Day, gave the long-marginalised movement new confidence and public visibility.",
+    "ko": "1966년 4월 21일 에티오피아 황제 하일레 셀라시에 1세가 국빈 방문으로 킹스턴에 도착했고, 공항에서는 라스타파리 신자를 비롯한 거대한 군중이 그를 맞았다. 라스타파리가 지금도 '그라우네이션 데이'로 기념하는 이 방문은 오랫동안 소외되어 온 운동에 새로운 자신감과 대중적 존재감을 주었다.",
+    "zh": "1966年4月21日，埃塞俄比亚皇帝海尔·塞拉西一世对金斯敦进行国事访问，机场聚集了大批迎接群众，其中许多是拉斯塔法里信徒。这次访问至今仍被拉斯塔法里信徒作为“落地日”纪念，使这一长期受排斥的运动获得了新的自信和社会关注。",
+    "ja": "1966年4月21日、エチオピア皇帝ハイレ・セラシエ1世が国賓としてキングストンに到着し、空港ではラスタファリの信者をはじめとする大群衆が出迎えた。ラスタファリが今も「グラウネーション・デー」として記念するこの訪問は、長く周縁化されてきた運動に新たな自信と社会的な存在感を与えた。"
+   }
+  },
+  {
+   "year": 1968,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Rodney riots",
+    "ko": "로드니 폭동",
+    "zh": "罗德尼骚乱",
+    "ja": "ロドニー暴動"
+   },
+   "description": {
+    "en": "In October 1968 the JLP government barred the Guyanese historian Walter Rodney, a lecturer at the University of the West Indies and an advocate of Black Power, from returning to Jamaica. Students' protests in Kingston were joined by the urban poor and turned into riots in which several people died. The episode revealed deep discontent over poverty and racial inequality in the young nation.",
+    "ko": "1968년 10월 JLP 정부는 서인도 대학교 강사이자 블랙 파워 운동가였던 가이아나 출신 역사가 월터 로드니의 자메이카 재입국을 금지했다. 킹스턴에서 시작된 학생 시위에 도시 빈민이 가세하면서 폭동으로 번져 여러 명이 숨졌다. 이 사건은 신생 독립국의 빈곤과 인종 불평등에 대한 깊은 불만을 드러냈다.",
+    "zh": "1968年10月，工党政府禁止圭亚那历史学家、西印度大学讲师和“黑人权力”倡导者沃尔特·罗德尼返回牙买加。金斯敦的学生抗议得到城市贫民的加入，演变为骚乱，造成数人死亡。这一事件暴露出这个年轻国家对贫困和种族不平等的深切不满。",
+    "ja": "1968年10月、JLP政府は西インド諸島大学の講師でブラック・パワーの提唱者だったガイアナ出身の歴史家ウォルター・ロドニーのジャマイカ再入国を禁じた。キングストンの学生の抗議に都市貧困層が加わって暴動に発展し、数人が死亡した。この事件は若い独立国の貧困と人種的不平等への根深い不満を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Reggae conquers the world",
+    "ko": "레게, 세계를 사로잡다",
+    "zh": "雷鬼音乐风靡世界",
+    "ja": "レゲエ、世界を席巻"
+   },
+   "description": {
+    "en": "The film 'The Harder They Come' and the rise of Bob Marley carried reggae from Kingston to a global audience. In 2018 UNESCO inscribed reggae on its Intangible Cultural Heritage list.",
+    "ko": "영화 『하더 데이 컴』과 밥 말리의 부상으로 킹스턴에서 태어난 레게 음악이 전 세계로 퍼져 나갔다. 2018년 유네스코는 레게를 인류무형문화유산으로 등재했다.",
+    "zh": "电影《不速之客》与鲍勃·马利的崛起，让诞生于金斯敦的雷鬼音乐走向全球。2018年，联合国教科文组织将雷鬼列入人类非物质文化遗产名录。",
+    "ja": "映画『ハーダー・ゼイ・カム』とボブ・マーリーの台頭により、キングストン生まれのレゲエは世界へ広がった。2018年にはユネスコの無形文化遺産に登録された。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Michael Manley and democratic socialism",
+    "ko": "마이클 맨리와 민주사회주의",
+    "zh": "迈克尔·曼利与民主社会主义",
+    "ja": "マイケル・マンリーと民主社会主義"
+   },
+   "description": {
+    "en": "The PNP under Michael Manley, son of Norman Manley, won the 1972 election, and in 1974 his government declared a commitment to democratic socialism. It introduced a minimum wage, free secondary education and a bauxite levy on foreign companies, and drew close to Cuba. The policies polarised the country, frightened investors and contributed, amid oil shocks, to deep economic crisis by the late 1970s.",
+    "ko": "노먼 맨리의 아들 마이클 맨리가 이끄는 PNP가 1972년 선거에서 승리했고, 그의 정부는 1974년 민주사회주의를 표방했다. 최저 임금과 무상 중등 교육, 외국 기업에 대한 보크사이트 부과금을 도입하고 쿠바와 가까워졌다. 이 정책들은 나라를 양극화하고 투자자들을 불안하게 했으며, 석유 파동과 맞물려 1970년대 말 심각한 경제 위기의 원인이 되었다.",
+    "zh": "诺曼·曼利之子迈克尔·曼利领导的人民民族党赢得1972年大选，其政府于1974年宣布奉行民主社会主义。政府推行最低工资、免费中等教育和对外国公司征收铝土矿税，并与古巴走近。这些政策使国家两极分化，令投资者担忧，在石油危机背景下导致1970年代末的严重经济危机。",
+    "ja": "ノーマン・マンリーの息子マイケル・マンリー率いるPNPが1972年の選挙で勝利し、その政府は1974年に民主社会主義を掲げた。最低賃金や中等教育の無償化、外国企業へのボーキサイト課徴金を導入し、キューバに接近した。これらの政策は国を二極化させ投資家を不安にし、石油危機とも重なって1970年代末の深刻な経済危機の一因となった。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": "Q2822862",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Jamaica Accords",
+    "ko": "자메이카 협정",
+    "zh": "牙买加协定",
+    "ja": "キングストン合意"
+   },
+   "description": {
+    "en": "In January 1976 finance ministers of the International Monetary Fund met in Kingston and agreed the Jamaica Accords, which formally accepted floating exchange rates and reduced the role of gold, ending the Bretton Woods system of fixed rates. The meeting put Kingston briefly at the centre of world finance, even as Jamaica's own economy slid into crisis and a state of emergency was declared that year amid political violence.",
+    "ko": "1976년 1월 국제통화기금(IMF) 재무 장관들이 킹스턴에 모여 변동 환율제를 공식 인정하고 금의 역할을 축소하는 자메이카 협정에 합의함으로써 고정 환율의 브레턴우즈 체제를 끝냈다. 이 회의로 킹스턴은 잠시 세계 금융의 중심에 섰지만, 정작 자메이카 경제는 위기에 빠지고 있었고 그해 정치 폭력 속에 비상사태가 선포되었다.",
+    "zh": "1976年1月，国际货币基金组织各国财长在金斯敦开会，达成《牙买加协定》，正式承认浮动汇率并削弱黄金的作用，终结了布雷顿森林固定汇率体系。这次会议使金斯敦一度成为世界金融的焦点，而牙买加自身的经济却陷入危机，同年因政治暴力宣布进入紧急状态。",
+    "ja": "1976年1月、国際通貨基金（IMF）の財務相らがキングストンに集まり、変動相場制を正式に認め金の役割を縮小する「キングストン合意（ジャマイカ合意）」に達し、固定相場のブレトン・ウッズ体制に終止符を打った。会議によりキングストンは一時世界金融の中心となったが、ジャマイカ自身の経済は危機に陥りつつあり、同年には政治的暴力のなか非常事態が宣言された。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": "Q1746265",
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "One Love Peace Concert",
+    "ko": "원 러브 평화 콘서트",
+    "zh": "“同一个爱”和平音乐会",
+    "ja": "ワン・ラブ・ピース・コンサート"
+   },
+   "description": {
+    "en": "On 22 April 1978, amid deadly violence between gangs aligned with the two parties, Bob Marley headlined the One Love Peace Concert at the National Stadium in Kingston. During his performance he brought Prime Minister Michael Manley and opposition leader Edward Seaga on stage and joined their hands. The gesture became an iconic image, though it did not end the political violence.",
+    "ko": "1978년 4월 22일, 두 정당과 연계된 갱단 간의 치명적 폭력이 이어지던 가운데 밥 말리가 킹스턴 국립 경기장에서 열린 원 러브 평화 콘서트의 헤드라이너로 섰다. 공연 중 그는 마이클 맨리 총리와 에드워드 시가 야당 대표를 무대로 불러 두 사람의 손을 맞잡게 했다. 이 장면은 상징적인 이미지가 되었지만 정치 폭력을 끝내지는 못했다.",
+    "zh": "1978年4月22日，在与两大政党有关联的帮派之间的致命暴力持续之际，鲍勃·马利在金斯敦国家体育场的“同一个爱”和平音乐会上压轴演出。演出中，他请总理迈克尔·曼利和反对党领袖爱德华·西加上台，并让两人握手。这一举动成为标志性画面，但未能终结政治暴力。",
+    "ja": "1978年4月22日、二大政党と結びついたギャング間の死者を伴う暴力が続くなか、ボブ・マーリーはキングストンの国立競技場で開かれたワン・ラブ・ピース・コンサートのトリを務めた。演奏中、彼はマイケル・マンリー首相と野党党首エドワード・シアガを舞台に上げ、二人の手を握らせた。この場面は象徴的な映像となったが、政治的暴力を終わらせることはできなかった。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Violent 1980 election",
+    "ko": "폭력으로 얼룩진 1980년 선거",
+    "zh": "暴力笼罩的1980年大选",
+    "ja": "暴力にまみれた1980年選挙"
+   },
+   "description": {
+    "en": "The general election of October 1980, fought over Manley's socialist policies and relations with Cuba and the United States, was the most violent in Jamaica's history, with hundreds of people killed in political clashes during the campaign. Edward Seaga's JLP won a landslide and turned to market-oriented policies and close ties with the United States under Ronald Reagan.",
+    "ko": "맨리의 사회주의 정책과 쿠바·미국과의 관계를 둘러싸고 치러진 1980년 10월 총선은 자메이카 역사상 가장 폭력적인 선거로, 선거 운동 기간 정치적 충돌로 수백 명이 숨졌다. 에드워드 시가의 JLP가 압승을 거두었고, 시장 지향 정책과 로널드 레이건의 미국과의 긴밀한 관계로 방향을 틀었다.",
+    "zh": "1980年10月的大选围绕曼利的社会主义政策以及与古巴和美国的关系展开，是牙买加历史上最暴力的一次选举，竞选期间数百人死于政治冲突。爱德华·西加领导的工党大胜，转向市场导向政策，并与罗纳德·里根治下的美国建立密切关系。",
+    "ja": "マンリーの社会主義政策とキューバ・アメリカとの関係をめぐって争われた1980年10月の総選挙はジャマイカ史上最も暴力的な選挙となり、選挙戦中の政治的衝突で数百人が死亡した。エドワード・シアガのJLPが圧勝し、市場志向の政策とロナルド・レーガン政権下のアメリカとの緊密な関係へと舵を切った。"
+   }
+  },
+  {
+   "year": 1981,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Death of Bob Marley",
+    "ko": "밥 말리의 죽음",
+    "zh": "鲍勃·马利去世",
+    "ja": "ボブ・マーリーの死"
+   },
+   "description": {
+    "en": "Bob Marley, the reggae musician who had become a global symbol of Jamaica and of Rastafari, died of cancer in Miami in May 1981 at the age of 36. He received a state funeral in Kingston and was buried at his birthplace, Nine Mile, in St Ann. His songs of resistance, faith and unity continue to define Jamaican music worldwide.",
+    "ko": "자메이카와 라스타파리의 세계적 상징이 된 레게 음악가 밥 말리가 1981년 5월 36세의 나이에 마이애미에서 암으로 세상을 떠났다. 그는 킹스턴에서 국장으로 장례를 치른 뒤 세인트앤 교구의 고향 나인마일에 묻혔다. 저항과 신앙, 단결을 노래한 그의 곡들은 지금도 전 세계에서 자메이카 음악을 대표한다.",
+    "zh": "已成为牙买加和拉斯塔法里全球象征的雷鬼音乐家鲍勃·马利于1981年5月在迈阿密因癌症去世，年仅36岁。他在金斯敦获得国葬，安葬于圣安教区的出生地九英里村。他那些关于反抗、信仰与团结的歌曲至今仍在世界范围内代表着牙买加音乐。",
+    "ja": "ジャマイカとラスタファリの世界的な象徴となったレゲエ音楽家ボブ・マーリーは、1981年5月に36歳でマイアミでがんにより亡くなった。キングストンで国葬が営まれ、セント・アン教区の生まれ故郷ナイン・マイルに埋葬された。抵抗と信仰、団結を歌った彼の曲は、今も世界中でジャマイカ音楽を象徴している。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Hurricane Gilbert strikes",
+    "ko": "허리케인 길버트 강타",
+    "zh": "飓风吉尔伯特袭击牙买加",
+    "ja": "ハリケーン・ギルバートの直撃"
+   },
+   "description": {
+    "en": "Hurricane Gilbert, the most destructive storm in Jamaica's modern history, damaged an estimated four out of five homes and devastated agriculture, prompting a major national rebuilding effort.",
+    "ko": "자메이카 현대사에서 가장 파괴적인 폭풍인 허리케인 길버트로 전체 가옥의 약 5분의 4가 피해를 입고 농업이 초토화되었다. 이후 대대적인 국가 재건이 이어졌다.",
+    "zh": "牙买加现代史上破坏力最强的风暴\"吉尔伯特\"使全国约五分之四的房屋受损，农业遭受重创，随后全国展开大规模重建。",
+    "ja": "ジャマイカ現代史上最も破壊的な暴風ハリケーン・ギルバートにより、全住宅の約5分の4が損壊し、農業も壊滅的な打撃を受けた。その後、国を挙げた復興が進められた。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Portia Simpson-Miller, first woman prime minister",
+    "ko": "첫 여성 총리 포셔 심프슨-밀러",
+    "zh": "首位女总理波西娅·辛普森-米勒",
+    "ja": "初の女性首相ポーシャ・シンプソン＝ミラー"
+   },
+   "description": {
+    "en": "In March 2006 Portia Simpson-Miller succeeded P. J. Patterson as leader of the PNP and became Jamaica's first female prime minister. Popular among the poor, she lost the 2007 election narrowly, but led the PNP back to power in 2011 and served again as prime minister until 2016.",
+    "ko": "2006년 3월 포셔 심프슨-밀러는 P. J. 패터슨의 뒤를 이어 PNP 대표가 되며 자메이카 최초의 여성 총리가 되었다. 빈곤층의 지지를 받던 그녀는 2007년 선거에서 근소한 차로 패했지만, 2011년 PNP를 다시 집권으로 이끌어 2016년까지 다시 총리를 지냈다.",
+    "zh": "2006年3月，波西娅·辛普森-米勒接替P·J·帕特森出任人民民族党领袖，成为牙买加首位女总理。她深受贫困阶层拥护，在2007年大选中以微弱差距落败，但于2011年带领人民民族党重新执政，并再度担任总理至2016年。",
+    "ja": "2006年3月、ポーシャ・シンプソン＝ミラーはP・J・パターソンの後を継いでPNP党首となり、ジャマイカ初の女性首相となった。貧困層に人気のあった彼女は2007年の選挙で僅差で敗れたが、2011年にPNPを政権に復帰させ、2016年まで再び首相を務めた。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Usain Bolt's sprint triumph in Beijing",
+    "ko": "우사인 볼트, 베이징에서 단거리 석권",
+    "zh": "尤塞恩·博尔特北京奥运夺冠",
+    "ja": "ウサイン・ボルト、北京で短距離を制覇"
+   },
+   "description": {
+    "en": "Usain Bolt won the 100m and 200m in world-record times at the Beijing Olympics, launching an era of Jamaican sprint dominance that made the small island a global athletics superpower.",
+    "ko": "우사인 볼트가 베이징 올림픽 100m와 200m에서 세계 신기록으로 우승했다. 이후 이어진 자메이카 단거리 전성기는 이 작은 섬나라를 세계 육상 강국으로 만들었다.",
+    "zh": "尤塞恩·博尔特在北京奥运会上以世界纪录夺得100米和200米金牌，开启牙买加短跑的黄金时代，使这个小岛国成为世界田径强国。",
+    "ja": "ウサイン・ボルトは北京五輪の100mと200mで世界新記録を樹立して優勝した。以後続くジャマイカ短距離の黄金時代は、この小さな島国を世界的な陸上大国へと押し上げた。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Tivoli Gardens incursion",
+    "ko": "티볼리 가든스 진입 작전",
+    "zh": "蒂沃利花园清剿行动",
+    "ja": "ティボリ・ガーデンズ突入作戦"
+   },
+   "description": {
+    "en": "In May 2010 security forces entered the Tivoli Gardens community in West Kingston to arrest Christopher 'Dudus' Coke, a powerful gang leader wanted for extradition to the United States. The operation, met by armed resistance, left more than 70 people dead, most of them civilians from the community. Coke was captured weeks later and extradited; a later commission of enquiry criticised the security forces' conduct.",
+    "ko": "2010년 5월 보안군은 미국이 범죄인 인도를 요구한 강력한 갱단 두목 크리스토퍼 '두더스' 코크를 체포하기 위해 웨스트킹스턴의 티볼리 가든스 지역에 진입했다. 무장 저항에 맞선 이 작전으로 70명 이상이 숨졌으며 대부분은 그 지역의 민간인이었다. 코크는 몇 주 뒤 체포되어 미국으로 인도되었고, 이후 조사 위원회는 보안군의 행위를 비판했다.",
+    "zh": "2010年5月，安全部队进入西金斯敦的蒂沃利花园社区，抓捕美国要求引渡的强大帮派头目克里斯托弗·“杜杜斯”·科克。行动遭遇武装抵抗，造成70多人死亡，其中大多是该社区的平民。科克数周后落网并被引渡；后来的调查委员会批评了安全部队的行为。",
+    "ja": "2010年5月、治安部隊はアメリカが身柄引き渡しを求めていた有力なギャングの首領クリストファー・「ドゥーダス」・コークを逮捕するため、ウェスト・キングストンのティボリ・ガーデンズ地区に突入した。武装抵抗に遭ったこの作戦で70人以上が死亡し、その大半は地区の民間人だった。コークは数週間後に拘束されて引き渡され、のちの調査委員会は治安部隊の行動を批判した。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q87610822",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in Jamaica",
+    "ko": "자메이카의 코로나19 팬데믹",
+    "zh": "牙买加新冠疫情",
+    "ja": "ジャマイカの新型コロナ流行"
+   },
+   "description": {
+    "en": "Jamaica recorded its first COVID-19 case in March 2020 and responded with border closures, curfews and community lockdowns. The collapse of international tourism, the country's largest source of foreign exchange, caused a severe economic contraction. Vaccination began in 2021, and travel and tourism recovered strongly from 2022.",
+    "ko": "자메이카는 2020년 3월 첫 코로나19 확진자를 기록하고 국경 폐쇄와 통행금지, 지역 봉쇄로 대응했다. 최대 외화 수입원인 국제 관광이 붕괴하면서 경제가 크게 위축되었다. 2021년 백신 접종이 시작되었고, 2022년부터 여행과 관광이 크게 회복되었다.",
+    "zh": "牙买加于2020年3月出现首例新冠病例，随即采取关闭边境、宵禁和社区封锁等措施。作为该国最大外汇来源的国际旅游业崩溃，导致经济严重萎缩。2021年开始接种疫苗，2022年起旅行和旅游业强劲复苏。",
+    "ja": "ジャマイカは2020年3月に最初の新型コロナ感染者を記録し、国境閉鎖や夜間外出禁止、地域封鎖で対応した。最大の外貨収入源である国際観光が崩壊し、経済は大きく縮小した。2021年にワクチン接種が始まり、2022年から旅行と観光は力強く回復した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q126934177",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Hurricane Beryl",
+    "ko": "허리케인 베릴",
+    "zh": "飓风“贝丽尔”",
+    "ja": "ハリケーン・ベリル"
+   },
+   "description": {
+    "en": "In early July 2024 Hurricane Beryl, which had become the earliest Category 5 hurricane on record in the Atlantic, passed just off Jamaica's southern coast as a major hurricane. Its winds and rain damaged homes, farms and power lines, especially in the southern parishes such as St Elizabeth, and several people were killed. The storm was an early sign of an intensifying hurricane threat.",
+    "ko": "2024년 7월 초 대서양 관측 사상 가장 이른 시기에 5등급에 도달했던 허리케인 베릴이 대형 허리케인의 세력으로 자메이카 남부 해안 바로 앞바다를 지나갔다. 강풍과 비로 세인트엘리자베스 등 남부 교구를 중심으로 주택과 농장, 전력선이 피해를 입었고 여러 명이 숨졌다. 이 폭풍은 강해지는 허리케인 위협의 이른 징후였다.",
+    "zh": "2024年7月初，飓风“贝丽尔”——有记录以来大西洋最早达到5级的飓风——以强飓风强度紧贴牙买加南部海岸掠过。狂风暴雨损毁了房屋、农田和电力线路，尤以圣伊丽莎白等南部教区为甚，并造成数人死亡。这场风暴是飓风威胁加剧的早期信号。",
+    "ja": "2024年7月初め、大西洋で観測史上最も早くカテゴリー5に達したハリケーン・ベリルが、大型ハリケーンの勢力でジャマイカ南岸のすぐ沖を通過した。暴風雨によりセント・エリザベスなど南部の教区を中心に住宅や農地、送電線が被害を受け、数人が死亡した。この嵐は強まるハリケーンの脅威の前触れとなった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Holness wins a third term",
+    "ko": "홀니스의 3연임",
+    "zh": "霍尔尼斯赢得第三个任期",
+    "ja": "ホルネスが3期目を獲得"
+   },
+   "description": {
+    "en": "In the general election of September 2025, the Jamaica Labour Party led by Prime Minister Andrew Holness won a narrower majority over the PNP, giving Holness a third consecutive term. It was the first time since independence that the JLP had won three elections in a row.",
+    "ko": "2025년 9월 총선에서 앤드루 홀니스 총리가 이끄는 자메이카 노동당이 PNP를 상대로 이전보다 줄어든 과반을 확보하며 홀니스는 세 번째 연속 임기를 얻었다. JLP가 독립 이후 세 차례 연속 선거에서 승리한 것은 이것이 처음이었다.",
+    "zh": "在2025年9月的大选中，总理安德鲁·霍尔尼斯领导的牙买加工党以较以往缩小的多数击败人民民族党，霍尔尼斯获得连续第三个任期。这是独立以来工党首次连续三次赢得大选。",
+    "ja": "2025年9月の総選挙で、アンドリュー・ホルネス首相率いるジャマイカ労働党はPNPに対して前回より縮小した過半数を確保し、ホルネスは連続3期目を得た。JLPが独立後に3回連続で選挙に勝利したのはこれが初めてだった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 1,
+   "category": "disaster",
+   "title": {
+    "en": "Hurricane Melissa",
+    "ko": "허리케인 멜리사",
+    "zh": "飓风“梅丽莎”",
+    "ja": "ハリケーン・メリッサ"
+   },
+   "description": {
+    "en": "On 28 October 2025 Hurricane Melissa made landfall in southwestern Jamaica as a Category 5 storm, the most powerful hurricane ever recorded to strike the island. Extreme winds, storm surge and flooding devastated western parishes such as Westmoreland and St Elizabeth, destroying or damaging large numbers of homes and leaving much of the island without power. Dozens of people were killed in Jamaica, and the recovery was expected to take years.",
+    "ko": "2025년 10월 28일 허리케인 멜리사가 5등급의 세력으로 자메이카 남서부에 상륙했는데, 이는 섬을 강타한 허리케인 가운데 관측 사상 가장 강력한 것이었다. 극한의 강풍과 폭풍 해일, 홍수가 웨스트모얼랜드와 세인트엘리자베스 등 서부 교구를 초토화하여 수많은 주택이 파괴되거나 손상되었고 섬 대부분이 정전되었다. 자메이카에서 수십 명이 숨졌으며 복구에는 수년이 걸릴 것으로 예상되었다.",
+    "zh": "2025年10月28日，飓风“梅丽莎”以5级强度在牙买加西南部登陆，是有记录以来袭击该岛的最强飓风。极端大风、风暴潮和洪水重创了威斯特摩兰和圣伊丽莎白等西部教区，大量房屋被毁或受损，全岛大部分地区断电。牙买加有数十人遇难，预计恢复重建需要数年时间。",
+    "ja": "2025年10月28日、ハリケーン・メリッサがカテゴリー5の勢力でジャマイカ南西部に上陸した。島を襲ったハリケーンとしては観測史上最強だった。猛烈な風と高潮、洪水がウェストモアランドやセント・エリザベスなど西部の教区に壊滅的な被害を与え、多数の住宅が全壊・損壊し、島の大部分が停電した。ジャマイカでは数十人が死亡し、復興には数年かかると見込まれた。"
+   }
+  }
+ ]
+}

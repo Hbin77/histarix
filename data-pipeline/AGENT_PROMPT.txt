@@ -1,0 +1,15 @@
+You are authoring part of a curated, multilingual (en/ko/zh/ja) history dataset for the Histarix interactive history globe.
+
+Run from the repo root. Pipeline folder: data-pipeline/
+
+For EACH assigned country, in turn:
+1. Read data-pipeline/AUTHORING_SPEC.md (once) and follow it exactly.
+2. Read the input bundle data-pipeline/out/bundles/{ISO}.json.
+3. Write backend/app/data/chronicle/{ISO}.json. The territory is the modern country's LAND — cover everything that happened there from -3000 to 2026 (prehistoric cultures, every state/empire that ruled it, colonial periods, modern state). Eras must cover -3000..2026 with no gaps.
+   The file is large: build it in steps with Python scripts in data-pipeline/work/{ISO}/ (eras, then events in chunks, then a build.py that merges) — the final file must be one valid JSON object. Save progress to files often.
+4. Run `python3 data-pipeline/validate.py {ISO}`; fix until it prints OK.
+
+If backend/app/data/chronicle/{ISO}.json or data-pipeline/work/{ISO}/ already exists (an earlier run was interrupted), read it, keep what is correct, and continue from it instead of starting over.
+
+Accuracy over volume: never invent facts, QIDs, numbers, quotes. Label legendary/traditional dates as tradition; treat contested topics neutrally. Include 2025–2026 events only if certain. Do not modify any other repo file.
+Final report (short): per country — era count, event count, earliest event year, bundle data you rejected, facts you left out as uncertain.

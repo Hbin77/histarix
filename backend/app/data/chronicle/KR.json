@@ -1,0 +1,3239 @@
+{
+ "iso": "KR",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -1500,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Jeulmun Pottery Period",
+    "ko": "빗살무늬토기 시대(즐문토기 문화)",
+    "zh": "栉文陶器时代",
+    "ja": "櫛目文土器時代"
+   },
+   "summary": {
+    "en": "The Jeulmun period is the Neolithic of the Korean Peninsula, named after its comb-pattern pottery. People lived mainly by fishing, shellfish gathering, hunting and foraging in pit-house villages along coasts and rivers, such as Amsa-dong in Seoul, and millet cultivation appeared in its later phases. Shell middens and pottery from this period are found across the southern peninsula.",
+    "ko": "즐문토기(빗살무늬토기) 시대는 한반도의 신석기 시대로, 빗살무늬가 새겨진 토기에서 이름을 얻었다. 사람들은 서울 암사동처럼 강가와 해안의 움집 마을에 살며 고기잡이, 조개 채집, 사냥과 채집으로 생활했고, 후기에는 조·기장 등의 잡곡 농사가 시작되었다. 남부 각지에서 이 시기의 조개더미와 토기가 출토된다.",
+    "zh": "栉文陶器时代是朝鲜半岛的新石器时代，因器表刻有篦齿状纹饰的陶器而得名。人们在沿海和河岸的半地穴式房屋聚落中生活，以捕鱼、采集贝类、狩猎和采集为生，首尔岩寺洞遗址即为代表；后期出现了粟等杂粮种植。半岛南部各地都发现了这一时期的贝冢和陶器。",
+    "ja": "櫛目文土器時代は朝鮮半島の新石器時代で、櫛の歯で文様を付けた土器にちなんで名付けられた。人々はソウルの岩寺洞遺跡のように海岸や川沿いの竪穴住居の集落に住み、漁労・貝類採集・狩猟採集で暮らし、後期にはアワなどの雑穀栽培も始まった。南部各地でこの時代の貝塚や土器が見つかっている。"
+   }
+  },
+  {
+   "from": -2333,
+   "to": -108,
+   "kind": "state",
+   "qid": "Q28405",
+   "polity": null,
+   "name": {
+    "en": "Gojoseon",
+    "ko": "고조선",
+    "zh": "古朝鲜",
+    "ja": "古朝鮮"
+   },
+   "summary": {
+    "en": "Gojoseon ('Old Joseon') is regarded as the first Korean state. Tradition, recorded in the 13th-century Samguk yusa, dates its founding by Dangun to 2333 BC; historically it is attested in Chinese sources from around the 4th century BC as a bronze- and iron-age kingdom centred in Liaodong and the northwest of the peninsula. Its last dynasty, founded by Wiman, fell to the Han empire in 108 BC. Its heartland lay north of present-day South Korea, but it is central to the national memory of all Koreans.",
+    "ko": "고조선은 한국 최초의 국가로 여겨진다. 13세기 『삼국유사』에 기록된 전승에 따르면 단군이 기원전 2333년에 건국했으며, 역사적으로는 기원전 4세기 무렵부터 중국 문헌에 요동과 한반도 서북부를 중심으로 한 청동기·철기 시대의 나라로 등장한다. 위만이 세운 마지막 왕조는 기원전 108년 한나라에 멸망했다. 중심지는 오늘날 대한민국 영역보다 북쪽에 있었지만, 한민족 공동의 기억에서 핵심적인 위치를 차지한다.",
+    "zh": "古朝鲜被视为朝鲜民族最早的国家。据13世纪《三国遗事》所载传说，檀君于公元前2333年建国；在史实层面，约自公元前4世纪起，中国文献中出现了以辽东和半岛西北部为中心的青铜器、铁器时代王国古朝鲜。卫满建立的最后王朝于公元前108年被汉朝所灭。其核心区域位于今韩国疆域以北，但在朝鲜民族的共同记忆中占有核心地位。",
+    "ja": "古朝鮮は朝鮮民族最初の国家とされる。13世紀の『三国遺事』に記された伝承では檀君が紀元前2333年に建国したとされ、史実としては紀元前4世紀頃から中国の文献に遼東と半島北西部を中心とする青銅器・鉄器時代の王国として現れる。衛満が開いた最後の王朝は紀元前108年に漢によって滅ぼされた。中心地は現在の韓国の領域より北にあったが、民族の共通の記憶において中心的な位置を占めている。"
+   }
+  },
+  {
+   "from": -1500,
+   "to": -300,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Mumun Pottery Period",
+    "ko": "민무늬토기 시대(무문토기 문화)",
+    "zh": "无纹陶器时代",
+    "ja": "無文土器時代"
+   },
+   "summary": {
+    "en": "The Mumun period, named after its plain undecorated pottery, marks the arrival of intensive agriculture, including rice, on the peninsula from around 1500 BC. Large villages such as Songguk-ri, bronze daggers and thousands of dolmen tombs reveal growing social hierarchy. It laid the foundations for the chiefdoms and early states that followed.",
+    "ko": "무늬 없는 토기에서 이름을 딴 무문토기 시대는 기원전 1500년경부터 벼농사를 포함한 본격적인 농경이 한반도에 자리 잡은 시기이다. 부여 송국리 같은 대규모 마을, 비파형 동검, 수많은 고인돌은 사회 계층화가 진전되었음을 보여 준다. 이 시기는 뒤이은 군장 사회와 초기 국가의 토대가 되었다.",
+    "zh": "无纹陶器时代因素面陶器而得名，约自公元前1500年起，包括稻作在内的集约农业在朝鲜半岛扎根。松菊里等大型聚落、琵琶形铜剑和数以万计的支石墓显示社会分层日益明显。这一时期为此后的酋邦与早期国家奠定了基础。",
+    "ja": "無文土器時代は文様のない土器にちなむ名称で、紀元前1500年頃から稲作を含む本格的な農耕が朝鮮半島に根付いた時代である。松菊里のような大規模集落、琵琶形銅剣、無数の支石墓は社会の階層化の進展を示している。この時代は、その後の首長社会や初期国家の基盤となった。"
+   }
+  },
+  {
+   "from": -300,
+   "to": -100,
+   "kind": "state",
+   "qid": "Q1155101",
+   "polity": "Korean Jin",
+   "name": {
+    "en": "Jin State",
+    "ko": "진국",
+    "zh": "辰国",
+    "ja": "辰国"
+   },
+   "summary": {
+    "en": "Jin (Jinguk) was a polity or confederation of chiefdoms in the southern peninsula known from Chinese records of the last centuries BC. Its exact extent and nature are debated, but it is generally seen as the predecessor of the Samhan confederacies. Refugees from Gojoseon, including its deposed king Jun, are said to have moved south into this region, bringing bronze and iron technology.",
+    "ko": "진국은 기원전 마지막 몇 세기 동안 한반도 남부에 존재했다고 중국 기록에 전하는 정치체 또는 군장 사회의 연합이다. 정확한 범위와 성격에 대해서는 논란이 있으나, 일반적으로 삼한의 전신으로 본다. 고조선의 준왕을 비롯한 유이민이 남쪽으로 내려와 청동기·철기 기술을 전한 것으로 전해진다.",
+    "zh": "辰国是中国史籍所载、公元前最后几个世纪存在于朝鲜半岛南部的政治实体或酋邦联合体。其确切范围与性质尚有争议，一般被视为三韩的前身。据载，古朝鲜的准王等流民南下至此，带来了青铜和铁器技术。",
+    "ja": "辰国は、紀元前の最後の数世紀に朝鮮半島南部に存在したと中国の史書に伝わる政治体あるいは首長社会の連合である。その範囲や性格については議論があるが、一般に三韓の前身とみなされる。古朝鮮の準王をはじめとする流民が南下し、青銅器・鉄器の技術をもたらしたと伝えられる。"
+   }
+  },
+  {
+   "from": -100,
+   "to": 369,
+   "kind": "state",
+   "qid": "Q421372",
+   "polity": "Mahan",
+   "name": {
+    "en": "Mahan Confederacy",
+    "ko": "마한",
+    "zh": "马韩",
+    "ja": "馬韓"
+   },
+   "summary": {
+    "en": "Mahan was the largest of the Samhan ('Three Han') confederacies, a league of some fifty walled statelets in the west and southwest of the peninsula, in today's Gyeonggi, Chungcheong and Jeolla regions. One of its members, Baekje, grew into a kingdom and gradually absorbed the rest; the conventional date for Baekje's conquest of most of Mahan is the reign of King Geunchogo in the 4th century, though some Mahan polities in the far southwest likely survived longer.",
+    "ko": "마한은 삼한 가운데 가장 큰 연맹체로, 오늘날의 경기·충청·전라 지역에 걸쳐 50여 개의 소국으로 이루어졌다. 그 가운데 하나인 백제가 성장하여 나머지를 차츰 흡수했다. 일반적으로 4세기 근초고왕 대에 백제가 마한 대부분을 병합했다고 보지만, 서남부 영산강 유역의 일부 세력은 더 오래 존속했던 것으로 보인다.",
+    "zh": "马韩是三韩中最大的联盟，由五十余个小国组成，分布于今京畿、忠清、全罗一带。其成员之一百济逐渐壮大，陆续吞并其余小国。一般认为百济在4世纪近肖古王时期兼并了马韩大部，但西南部荣山江流域的部分势力可能存续得更久。",
+    "ja": "馬韓は三韓のうち最大の連合体で、現在の京畿・忠清・全羅地方にまたがる50余りの小国からなっていた。その一つである百済が成長し、残りを次第に吸収した。一般に4世紀の近肖古王の時代に百済が馬韓の大半を併合したとされるが、南西部の栄山江流域の一部勢力はより長く存続したとみられる。"
+   }
+  },
+  {
+   "from": -100,
+   "to": 356,
+   "kind": "state",
+   "qid": "Q701273",
+   "polity": "Jinhan",
+   "name": {
+    "en": "Jinhan Confederacy",
+    "ko": "진한",
+    "zh": "辰韩",
+    "ja": "辰韓"
+   },
+   "summary": {
+    "en": "Jinhan was a confederacy of twelve statelets in the southeast of the peninsula, around today's Gyeongju and the upper Nakdong basin. Saro, one of its members, developed into the kingdom of Silla and unified the confederacy by the 4th century. Chinese records note Jinhan's production and export of iron.",
+    "ko": "진한은 오늘날 경주와 낙동강 동쪽 일대에 있던 12개 소국의 연맹체이다. 그중 사로국이 성장하여 신라가 되었고, 4세기 무렵까지 진한 지역을 통합했다. 중국 기록은 진한에서 철이 생산되어 주변 지역으로 수출되었다고 전한다.",
+    "zh": "辰韩是位于半岛东南部、今庆州及洛东江以东一带的十二个小国的联盟。其中的斯卢国发展为新罗，并于4世纪前后统合了辰韩地区。中国史籍记载辰韩出产铁并输往周边地区。",
+    "ja": "辰韓は朝鮮半島南東部、現在の慶州と洛東江東岸一帯にあった12の小国の連合体である。その一つである斯盧国が新羅へと成長し、4世紀頃までに辰韓地域を統合した。中国の史書は辰韓で鉄が産出され、周辺に輸出されていたと記している。"
+   }
+  },
+  {
+   "from": -100,
+   "to": 300,
+   "kind": "state",
+   "qid": "Q1378584",
+   "polity": "Byeonhan",
+   "name": {
+    "en": "Byeonhan Confederacy",
+    "ko": "변한",
+    "zh": "弁韩",
+    "ja": "弁韓"
+   },
+   "summary": {
+    "en": "Byeonhan (also Byeonjin) was a confederacy of twelve statelets in the lower Nakdong River basin on the south coast, around today's Gimhae and Busan. Renowned for iron production traded as far as Lelang and the Japanese archipelago, it evolved into the Gaya confederacy.",
+    "ko": "변한(변진)은 오늘날 김해·부산 일대 낙동강 하류와 남해안에 있던 12개 소국의 연맹체이다. 낙랑과 왜에까지 교역된 철 생산으로 이름이 높았으며, 이후 가야 연맹으로 발전했다.",
+    "zh": "弁韩（弁辰）是位于洛东江下游及南部沿海、今金海和釜山一带的十二个小国的联盟。其铁器生产闻名遐迩，远销乐浪郡和日本列岛，后来发展为伽倻联盟。",
+    "ja": "弁韓（弁辰）は、現在の金海・釜山一帯の洛東江下流域と南海岸にあった12の小国の連合体である。楽浪郡や倭にまで交易された鉄の生産で知られ、のちに伽耶連盟へと発展した。"
+   }
+  },
+  {
+   "from": -57,
+   "to": 676,
+   "kind": "state",
+   "qid": "Q28456",
+   "polity": "Silla",
+   "name": {
+    "en": "Silla (Three Kingdoms period)",
+    "ko": "신라(삼국 시대)",
+    "zh": "新罗（三国时代）",
+    "ja": "新羅（三国時代）"
+   },
+   "summary": {
+    "en": "Silla, traditionally founded by Bak Hyeokgeose in 57 BC, grew from the Saro statelet at Gyeongju into a centralized kingdom with a rigid 'bone-rank' aristocracy. It adopted Buddhism, annexed the Gaya states and seized the Han River basin in the 6th century, then allied with Tang China to conquer Baekje (660) and Goguryeo (668).",
+    "ko": "신라는 전승에 따르면 기원전 57년 박혁거세가 세운 나라로, 경주의 사로국에서 출발해 골품제라는 엄격한 신분제를 갖춘 중앙집권 국가로 성장했다. 6세기에 불교를 공인하고 가야를 병합했으며 한강 유역을 차지했고, 이후 당과 연합하여 백제(660)와 고구려(668)를 무너뜨렸다.",
+    "zh": "新罗据传由朴赫居世于公元前57年建立，由庆州的斯卢国发展为拥有严格“骨品制”贵族等级的中央集权王国。6世纪时，新罗公认佛教、吞并伽倻并夺取汉江流域，随后与唐朝结盟，相继灭亡百济（660年）和高句丽（668年）。",
+    "ja": "新羅は伝承では紀元前57年に朴赫居世が建てた国で、慶州の斯盧国から骨品制という厳格な身分制度を備えた中央集権国家へと成長した。6世紀に仏教を公認し、伽耶を併合して漢江流域を手に入れ、その後唐と結んで百済（660年）と高句麗（668年）を滅ぼした。"
+   }
+  },
+  {
+   "from": -37,
+   "to": 668,
+   "kind": "state",
+   "qid": "Q28370",
+   "polity": "Goguryeo",
+   "name": {
+    "en": "Goguryeo",
+    "ko": "고구려",
+    "zh": "高句丽",
+    "ja": "高句麗"
+   },
+   "summary": {
+    "en": "Goguryeo, traditionally founded by Jumong in 37 BC, was the largest of the Three Kingdoms, ruling Manchuria and the northern peninsula from capitals at Jian and, after 427, Pyongyang. Under Gwanggaeto and Jangsu it expanded south, seizing the Han River basin from Baekje in 475 and holding much of today's central South Korea until the mid-6th century. It repelled massive Sui and Tang invasions before falling to a Silla-Tang alliance in 668.",
+    "ko": "고구려는 전승에 따르면 기원전 37년 주몽이 세운 나라로, 삼국 가운데 가장 넓은 영토를 가졌으며 국내성과 427년 이후 평양을 도읍으로 만주와 한반도 북부를 다스렸다. 광개토대왕과 장수왕 때 남쪽으로 세력을 넓혀 475년 백제로부터 한강 유역을 빼앗았고, 6세기 중반까지 오늘날 대한민국 중부의 상당 부분을 차지했다. 수·당의 대규모 침공을 물리쳤으나 668년 신라·당 연합군에 멸망했다.",
+    "zh": "高句丽据传由朱蒙于公元前37年建立，是三国中疆域最大者，先后以国内城和427年后的平壤为都城，统治满洲和半岛北部。广开土王与长寿王时期向南扩张，475年从百济手中夺取汉江流域，直至6世纪中叶仍控制今韩国中部大片地区。高句丽曾击退隋、唐的大规模进攻，最终于668年被新罗与唐的联军所灭。",
+    "ja": "高句麗は伝承では紀元前37年に朱蒙が建てた国で、三国の中で最大の領域を持ち、国内城、427年以降は平壌を都として満洲と朝鮮半島北部を支配した。広開土王と長寿王の時代に南進し、475年には百済から漢江流域を奪い、6世紀半ばまで現在の韓国中部の多くを領有した。隋・唐の大規模な侵攻を退けたが、668年に新羅・唐の連合軍に滅ぼされた。"
+   }
+  },
+  {
+   "from": -18,
+   "to": 660,
+   "kind": "state",
+   "qid": "Q28428",
+   "polity": "Baekje",
+   "name": {
+    "en": "Baekje",
+    "ko": "백제",
+    "zh": "百济",
+    "ja": "百済"
+   },
+   "summary": {
+    "en": "Baekje, traditionally founded by Onjo in 18 BC near today's Seoul, grew from a Mahan statelet into a kingdom ruling the southwest of the peninsula. After losing its Han River capital to Goguryeo in 475 it moved to Ungjin (Gongju) and then Sabi (Buyeo). A sophisticated maritime state, it transmitted Buddhism, writing and crafts to Japan, and fell to Silla and Tang in 660.",
+    "ko": "백제는 전승에 따르면 기원전 18년 온조가 오늘날의 서울 부근에 세운 나라로, 마한의 한 소국에서 성장해 한반도 서남부를 다스리는 왕국이 되었다. 475년 고구려에 한성을 빼앗긴 뒤 웅진(공주), 이어 사비(부여)로 도읍을 옮겼다. 해상 교류에 능했던 백제는 불교와 문자, 각종 기술을 일본에 전했으며 660년 신라·당 연합군에 멸망했다.",
+    "zh": "百济据传由温祚于公元前18年在今首尔附近建立，由马韩的一个小国发展为统治半岛西南部的王国。475年汉城被高句丽攻陷后，先迁都熊津（公州），再迁泗沘（扶余）。百济擅长海上交流，曾向日本传播佛教、文字和各种技艺，660年被新罗与唐的联军所灭。",
+    "ja": "百済は伝承では紀元前18年に温祚が現在のソウル付近に建てた国で、馬韓の一小国から朝鮮半島南西部を治める王国へと成長した。475年に高句麗に漢城を奪われると熊津（公州）、さらに泗沘（扶余）へ遷都した。海上交流に長けた百済は仏教や文字、諸技術を日本に伝え、660年に新羅・唐の連合軍に滅ぼされた。"
+   }
+  },
+  {
+   "from": 42,
+   "to": 562,
+   "kind": "state",
+   "qid": "Q28084",
+   "polity": null,
+   "name": {
+    "en": "Gaya Confederacy",
+    "ko": "가야",
+    "zh": "伽倻",
+    "ja": "伽耶"
+   },
+   "summary": {
+    "en": "Gaya was a league of small kingdoms in the Nakdong River basin that grew out of Byeonhan; tradition dates the founding of Geumgwan Gaya at Gimhae by King Suro to AD 42. Famed for iron armour and weapons and for trade with Japan, Gaya never unified into a single kingdom and was absorbed by Silla, with Geumgwan Gaya surrendering in 532 and Daegaya falling in 562.",
+    "ko": "가야는 변한에서 발전한 낙동강 유역의 소국 연맹으로, 전승에 따르면 서기 42년 김수로왕이 김해에 금관가야를 세웠다. 철제 갑옷과 무기, 왜와의 교역으로 이름났으나 하나의 왕국으로 통합되지 못한 채 신라에 흡수되었으며, 532년 금관가야가 항복하고 562년 대가야가 멸망했다.",
+    "zh": "伽倻是由弁韩发展而来、分布于洛东江流域的小国联盟；据传说，首露王于公元42年在金海建立金官伽倻。伽倻以铁制甲胄、兵器及与日本的贸易著称，但始终未能统一为单一王国，最终被新罗吞并：金官伽倻于532年投降，大伽倻于562年灭亡。",
+    "ja": "伽耶は弁韓から発展した洛東江流域の小国連合で、伝承によれば西暦42年に首露王が金海に金官伽耶を建てた。鉄製の甲冑や武器、倭との交易で知られたが、一つの王国に統合されることなく新羅に吸収され、532年に金官伽耶が降伏し、562年に大伽耶が滅亡した。"
+   }
+  },
+  {
+   "from": 676,
+   "to": 935,
+   "kind": "state",
+   "qid": "Q715257",
+   "polity": "Unified Silla",
+   "name": {
+    "en": "Unified Silla",
+    "ko": "통일신라",
+    "zh": "统一新罗",
+    "ja": "統一新羅"
+   },
+   "summary": {
+    "en": "After expelling Tang armies in 676, Silla ruled the peninsula south of the Taedong River from Gyeongju, reorganized into nine provinces and five secondary capitals. Buddhist art reached a high point at Bulguksa and Seokguram, and maritime trade flourished under figures such as Jang Bogo. From the late 8th century aristocratic strife and regional revolts weakened the state until its last king surrendered to Goryeo in 935.",
+    "ko": "676년 당군을 몰아낸 신라는 경주를 중심으로 대동강 이남을 다스리며 9주 5소경 체제를 갖추었다. 불국사와 석굴암으로 대표되는 불교 예술이 절정에 이르렀고, 장보고 같은 인물을 통해 해상 무역이 번성했다. 8세기 후반부터 진골 귀족의 왕위 다툼과 지방 반란으로 쇠약해졌으며, 935년 마지막 왕이 고려에 항복했다.",
+    "zh": "676年驱逐唐军后，新罗以庆州为中心统治大同江以南地区，建立九州五小京体制。以佛国寺、石窟庵为代表的佛教艺术达到巅峰，张保皋等人推动海上贸易繁荣。8世纪后期起，真骨贵族争夺王位、地方叛乱迭起，国势日衰，935年末代国王归降高丽。",
+    "ja": "676年に唐軍を駆逐した新羅は、慶州を中心に大同江以南を治め、九州五小京の体制を整えた。仏国寺や石窟庵に代表される仏教美術が頂点に達し、張保皐らによって海上交易が栄えた。8世紀後半から真骨貴族の王位争いや地方の反乱で衰え、935年に最後の王が高麗に降伏した。"
+   }
+  },
+  {
+   "from": 892,
+   "to": 936,
+   "kind": "state",
+   "qid": "Q698239",
+   "polity": "Hubaekje",
+   "name": {
+    "en": "Later Baekje",
+    "ko": "후백제",
+    "zh": "后百济",
+    "ja": "後百済"
+   },
+   "summary": {
+    "en": "Later Baekje was founded by the general Gyeon Hwon, who rebelled against Silla in 892 and proclaimed the state at Wansanju (Jeonju) in 900, claiming the legacy of Baekje. It controlled the southwest and sacked Gyeongju in 927, but internal strife led Gyeon Hwon to defect to Goryeo, which destroyed the kingdom in 936.",
+    "ko": "후백제는 892년 신라에 반기를 든 견훤이 900년 완산주(전주)를 도읍으로 백제 계승을 내세우며 세운 나라이다. 서남부를 장악하고 927년 경주를 공격했으나, 내분 끝에 견훤이 고려에 귀부했고 936년 고려에 멸망했다.",
+    "zh": "后百济由892年起兵反抗新罗的甄萱于900年在完山州（全州）建立，以继承百济为号召。它控制半岛西南部，并于927年攻破庆州；但因内讧，甄萱投奔高丽，后百济于936年被高丽所灭。",
+    "ja": "後百済は、892年に新羅に反旗を翻した甄萱が900年に完山州（全州）を都として百済の継承を掲げて建てた国である。南西部を支配し927年には慶州を襲ったが、内紛の末に甄萱が高麗に帰順し、936年に高麗に滅ぼされた。"
+   }
+  },
+  {
+   "from": 901,
+   "to": 918,
+   "kind": "state",
+   "qid": "Q699871",
+   "polity": "Taebong",
+   "name": {
+    "en": "Taebong (Later Goguryeo)",
+    "ko": "태봉(후고구려)",
+    "zh": "泰封（后高句丽）",
+    "ja": "泰封（後高句麗）"
+   },
+   "summary": {
+    "en": "Taebong was founded in 901 by Gung Ye, a renegade Silla prince and monk, as Later Goguryeo; it was renamed Majin in 904 and Taebong in 911, with its capital at Cheorwon. It ruled central Korea, but Gung Ye's increasingly despotic rule led his generals to overthrow him in 918 and enthrone Wang Geon, who founded Goryeo.",
+    "ko": "태봉은 신라 왕족 출신 승려 궁예가 901년 후고구려로 세운 나라로, 904년 마진, 911년 태봉으로 국호를 바꾸었고 철원에 도읍했다. 한반도 중부를 다스렸으나 궁예의 폭정이 심해지자 918년 신하들이 그를 몰아내고 왕건을 추대하여 고려가 세워졌다.",
+    "zh": "泰封由出身新罗王族的僧人弓裔于901年以“后高句丽”之名建立，904年改国号为摩震，911年再改为泰封，都城在铁原。泰封控制半岛中部，但弓裔日益暴虐，918年部将推翻其统治，拥立王建建立高丽。",
+    "ja": "泰封は新羅王族出身の僧・弓裔が901年に後高句麗として建てた国で、904年に摩震、911年に泰封と改称し、鉄原を都とした。朝鮮半島中部を支配したが、弓裔の暴政が強まると918年に臣下が彼を追放して王建を推戴し、高麗が建てられた。"
+   }
+  },
+  {
+   "from": 918,
+   "to": 1392,
+   "kind": "state",
+   "qid": "Q28208",
+   "polity": "Goryeo",
+   "name": {
+    "en": "Goryeo",
+    "ko": "고려",
+    "zh": "高丽",
+    "ja": "高麗"
+   },
+   "summary": {
+    "en": "Goryeo, founded by Wang Geon in 918 with its capital at Gaegyeong (Kaesong), reunified the peninsula in 936 and gave Korea its Western name. It introduced civil-service examinations, patronized Buddhism and produced celadon ware, the Tripitaka Koreana and the world's oldest extant book printed with movable metal type. After a century of military rule and decades of Mongol invasions it became a Yuan vassal, then declined amid Japanese pirate raids until General Yi Seong-gye replaced it with Joseon in 1392.",
+    "ko": "고려는 918년 왕건이 개경(개성)을 도읍으로 세운 나라로, 936년 후삼국을 통일했으며 '코리아'라는 이름의 기원이 되었다. 과거제를 도입하고 불교를 숭상했으며 고려청자, 팔만대장경, 현존 최고(最古)의 금속활자본을 남겼다. 무신 정권과 수십 년에 걸친 몽골 침입을 겪은 뒤 원의 간섭을 받았고, 왜구의 침략 속에 쇠퇴하다가 1392년 이성계가 세운 조선으로 교체되었다.",
+    "zh": "高丽由王建于918年建立，定都开京（开城），936年统一后三国，“Korea”一名即源于此。高丽实行科举，崇奉佛教，留下了高丽青瓷、八万大藏经以及现存最古老的金属活字印本。历经武臣政权和数十年蒙古入侵后，高丽沦为元朝藩属，又在倭寇侵扰中日渐衰落，1392年被李成桂建立的朝鲜取代。",
+    "ja": "高麗は918年に王建が開京（開城）を都として建てた国で、936年に後三国を統一し、「コリア」の名の由来となった。科挙を導入し仏教を篤く保護し、高麗青磁、八万大蔵経、現存最古の金属活字本を残した。武臣政権と数十年に及ぶモンゴルの侵攻を経て元の支配下に入り、倭寇の侵入の中で衰退し、1392年に李成桂が建てた朝鮮に取って代わられた。"
+   }
+  },
+  {
+   "from": 1259,
+   "to": 1356,
+   "kind": "period",
+   "qid": "Q7313",
+   "polity": "Yuan Dynasty",
+   "name": {
+    "en": "Goryeo under Mongol (Yuan) domination",
+    "ko": "원 간섭기",
+    "zh": "元朝干涉时期的高丽",
+    "ja": "元干渉期の高麗"
+   },
+   "summary": {
+    "en": "After nearly three decades of Mongol invasions, Goryeo made peace in 1259 and became a subordinate 'son-in-law' state of the Mongol Yuan empire: its kings married Yuan princesses, and the Yuan maintained administrative offices on the peninsula and annexed northern territories. Goryeo was drafted into the invasions of Japan in 1274 and 1281. King Gongmin's anti-Yuan reforms of 1356 ended this period of direct domination.",
+    "ko": "약 30년에 걸친 몽골의 침략 끝에 고려는 1259년 강화를 맺고 원나라의 부마국이 되었다. 고려 왕은 원의 공주와 혼인했고, 원은 정동행성 등의 기구를 두고 북방 일부 지역을 직접 지배했다. 고려는 1274년과 1281년 일본 원정에 동원되었으며, 1356년 공민왕의 반원 개혁으로 원의 직접적인 간섭이 끝났다.",
+    "zh": "经历近三十年的蒙古入侵后，高丽于1259年议和，成为蒙元的“驸马之国”：高丽国王迎娶元朝公主，元朝在半岛设立征东行省等机构，并直接统治北部部分地区。高丽被迫参与1274年和1281年的征日之役。1356年恭愍王推行反元改革，结束了元朝的直接干涉。",
+    "ja": "約30年に及ぶモンゴルの侵攻の末、高麗は1259年に講和し、元の「駙馬国」となった。高麗王は元の皇女を娶り、元は征東行省などの機関を置き、北方の一部地域を直接支配した。高麗は1274年と1281年の日本遠征に動員され、1356年の恭愍王の反元改革によって元の直接的な干渉は終わった。"
+   }
+  },
+  {
+   "from": 1392,
+   "to": 1897,
+   "kind": "state",
+   "qid": "Q28179",
+   "polity": "Joseon",
+   "name": {
+    "en": "Joseon",
+    "ko": "조선",
+    "zh": "朝鲜王朝",
+    "ja": "朝鮮王朝"
+   },
+   "summary": {
+    "en": "Joseon, founded by Yi Seong-gye in 1392 with its capital at Hanyang (Seoul), was one of the longest-ruling dynasties in the world. A Neo-Confucian state governed by scholar-officials (yangban), it produced Hangul under King Sejong, survived the Japanese invasions of 1592-1598 and the Manchu invasions of 1627 and 1636, and saw a cultural revival in the 18th century. In the 19th century it faced internal revolts and foreign pressure that ended its isolation.",
+    "ko": "조선은 1392년 이성계가 한양(서울)을 도읍으로 세운 나라로, 세계적으로도 손꼽히는 장수 왕조이다. 양반 관료가 다스린 성리학 국가로서 세종 때 훈민정음을 창제했고, 1592~1598년의 왜란과 1627·1636년의 호란을 견뎌 냈으며 18세기에는 문화적 부흥을 맞았다. 19세기에는 민란과 외세의 압력 속에서 문호를 개방하게 되었다.",
+    "zh": "朝鲜王朝由李成桂于1392年建立，定都汉阳（首尔），是世界上统治时间最长的王朝之一。作为由两班士大夫治理的性理学国家，它在世宗时期创制训民正音，挺过了1592—1598年的日本入侵和1627年、1636年的后金（清）入侵，并在18世纪迎来文化复兴。19世纪，朝鲜在民变与列强压力下被迫结束锁国。",
+    "ja": "朝鮮王朝は1392年に李成桂が漢陽（ソウル）を都として建てた国で、世界でも有数の長命な王朝である。両班官僚が治める朱子学国家として、世宗の時代に訓民正音を創製し、1592～1598年の日本の侵攻と1627年・1636年の後金（清）の侵攻を乗り越え、18世紀には文化的な復興を迎えた。19世紀には民乱と列強の圧力の中で開国を余儀なくされた。"
+   }
+  },
+  {
+   "from": 1897,
+   "to": 1910,
+   "kind": "state",
+   "qid": "Q28233",
+   "polity": "Korean Empire",
+   "name": {
+    "en": "Korean Empire",
+    "ko": "대한제국",
+    "zh": "大韩帝国",
+    "ja": "大韓帝国"
+   },
+   "summary": {
+    "en": "In October 1897 King Gojong proclaimed the Korean Empire to assert full sovereignty after the end of Qing suzerainty. The Gwangmu reforms modernized the military, land survey and infrastructure, including railways, telegraphs and electric trams. After Japan's victory over Russia in 1905 the empire became a Japanese protectorate and was annexed in 1910.",
+    "ko": "1897년 10월 고종은 청의 종주권에서 벗어난 자주독립국임을 내세워 대한제국을 선포했다. 광무개혁을 통해 군제, 양전 사업, 철도·전신·전차 등 근대 시설을 정비했다. 그러나 1905년 러일전쟁에서 일본이 승리한 뒤 을사늑약으로 외교권을 빼앗겼고, 1910년 일본에 병합되었다.",
+    "zh": "1897年10月，高宗宣布建立大韩帝国，以示摆脱清朝宗主权、成为自主独立之国。光武改革整顿了军制、土地丈量，并兴建铁路、电报和电车等近代设施。1905年日本在日俄战争中获胜后，大韩帝国沦为日本保护国，1910年被日本吞并。",
+    "ja": "1897年10月、高宗は清の宗主権から脱した自主独立国であることを示すため大韓帝国を宣布した。光武改革により軍制や量田事業を整え、鉄道・電信・電車などの近代施設を整備した。しかし1905年に日露戦争で日本が勝利すると保護国とされ、1910年に日本に併合された。"
+   }
+  },
+  {
+   "from": 1910,
+   "to": 1945,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "Empire of Japan",
+   "name": {
+    "en": "Korea under Japanese rule",
+    "ko": "일제강점기",
+    "zh": "日本殖民统治时期",
+    "ja": "日本統治時代の朝鮮"
+   },
+   "summary": {
+    "en": "From 1910 to 1945 Korea was ruled as a Japanese colony through the Government-General in Seoul (then Keijō). Colonial rule brought harsh repression, land surveys that dispossessed many farmers, assimilation policies and wartime mobilization of labour and soldiers, alongside some industrialization serving Japanese interests. Koreans resisted through the March 1st Movement, armed struggle abroad and cultural movements.",
+    "ko": "1910년부터 1945년까지 한국은 조선총독부를 통해 일본의 식민 지배를 받았다. 무단 통치와 토지 조사 사업으로 많은 농민이 토지를 잃었고, 민족 말살 정책과 전시 노동력·병력 동원이 이어졌으며, 일본의 이익을 위한 일부 산업화도 진행되었다. 한국인들은 3·1 운동, 해외 무장 투쟁, 문화 운동 등으로 저항했다.",
+    "zh": "1910年至1945年，朝鲜半岛通过朝鲜总督府处于日本殖民统治之下。殖民当局实行高压统治，土地调查使大量农民失去土地，又推行同化政策并在战时强征劳工和兵员，同时也进行了服务于日本利益的部分工业化。朝鲜人通过三一运动、海外武装斗争和文化运动进行抵抗。",
+    "ja": "1910年から1945年まで、朝鮮は朝鮮総督府を通じて日本の植民地支配を受けた。武断統治や土地調査事業で多くの農民が土地を失い、同化政策や戦時の労働力・兵力動員が行われる一方、日本の利益に沿った一部の工業化も進んだ。朝鮮の人々は三・一運動、国外での武装闘争、文化運動などで抵抗した。"
+   }
+  },
+  {
+   "from": 1919,
+   "to": 1945,
+   "kind": "state",
+   "qid": "Q28278",
+   "polity": null,
+   "name": {
+    "en": "Provisional Government of the Republic of Korea",
+    "ko": "대한민국 임시정부",
+    "zh": "大韩民国临时政府",
+    "ja": "大韓民国臨時政府"
+   },
+   "summary": {
+    "en": "Formed in Shanghai in April 1919 after the March 1st Movement, the Provisional Government coordinated the independence struggle in exile, later moving with the Chinese government to Chongqing and forming the Korean Liberation Army in 1940. The Constitution of the Republic of Korea states that the nation upholds its legitimacy.",
+    "ko": "3·1 운동 직후인 1919년 4월 상하이에서 수립된 대한민국 임시정부는 망명지에서 독립운동을 이끌었고, 이후 중국 정부를 따라 충칭으로 옮겨 1940년 한국광복군을 창설했다. 대한민국 헌법은 전문에서 임시정부의 법통 계승을 명시하고 있다.",
+    "zh": "三一运动后，大韩民国临时政府于1919年4月在上海成立，在流亡中领导独立运动，后随中国政府迁至重庆，并于1940年组建韩国光复军。《大韩民国宪法》序言写明继承临时政府的法统。",
+    "ja": "三・一運動直後の1919年4月に上海で樹立された大韓民国臨時政府は、亡命先で独立運動を指導し、のちに中国政府とともに重慶へ移って1940年に韓国光復軍を創設した。大韓民国憲法は前文で臨時政府の法統の継承を明記している。"
+   }
+  },
+  {
+   "from": 1945,
+   "to": 1948,
+   "kind": "period",
+   "qid": null,
+   "polity": "United States of America",
+   "name": {
+    "en": "US Army Military Government in Korea",
+    "ko": "미군정기",
+    "zh": "驻朝鲜美国陆军司令部军政厅时期",
+    "ja": "在朝鮮アメリカ陸軍司令部軍政庁"
+   },
+   "summary": {
+    "en": "After Japan's surrender, the peninsula was divided at the 38th parallel; US forces governed the south from September 1945 to August 1948. The period was marked by fierce political struggles between left and right, the failure of US-Soviet talks on a unified government, and the UN-supervised elections of May 1948 that led to the founding of the Republic of Korea.",
+    "ko": "일본의 항복 뒤 한반도는 38선으로 분할되었고, 남쪽은 1945년 9월부터 1948년 8월까지 미군정의 통치를 받았다. 좌우익의 격렬한 대립, 통일 정부 수립을 위한 미소공동위원회의 결렬, 그리고 대한민국 수립으로 이어진 1948년 5월 유엔 감시하 총선거가 이 시기의 특징이다.",
+    "zh": "日本投降后，朝鲜半岛以北纬38度线为界被分割，南部自1945年9月至1948年8月由美军政厅统治。这一时期左右翼激烈对立，旨在建立统一政府的美苏联合委员会破裂，最终1948年5月在联合国监督下举行的选举促成了大韩民国的建立。",
+    "ja": "日本の降伏後、朝鮮半島は38度線で分割され、南部は1945年9月から1948年8月まで米軍政の統治を受けた。左右両派の激しい対立、統一政府樹立をめぐる米ソ共同委員会の決裂、そして大韓民国の樹立につながった1948年5月の国連監視下の総選挙がこの時期を特徴づける。"
+   }
+  },
+  {
+   "from": 1948,
+   "to": 1960,
+   "kind": "state",
+   "qid": "Q491559",
+   "polity": null,
+   "name": {
+    "en": "First Republic of Korea",
+    "ko": "제1공화국",
+    "zh": "大韩民国第一共和国",
+    "ja": "第一共和国"
+   },
+   "summary": {
+    "en": "The First Republic under President Syngman Rhee founded the South Korean state, carried out land reform and fought the devastating Korean War (1950-1953). Rhee's rule grew increasingly authoritarian, with constitutional amendments to extend his tenure, until the rigged election of March 1960 provoked the April Revolution that forced his resignation.",
+    "ko": "이승만 대통령의 제1공화국은 대한민국의 기틀을 세우고 농지 개혁을 실시했으며, 참혹한 6·25 전쟁(1950~1953)을 치렀다. 장기 집권을 위한 개헌 등으로 점점 권위주의화되었고, 1960년 3월 부정선거가 4·19 혁명을 불러와 이승만은 하야했다.",
+    "zh": "李承晚总统领导的第一共和国奠定了韩国的国家基础，实施了土地改革，并经历了惨烈的朝鲜战争（1950—1953）。李承晚通过修宪谋求长期执政，统治日益威权化；1960年3月的舞弊选举引发四一九革命，迫使其下台。",
+    "ja": "李承晩大統領の第一共和国は大韓民国の基盤を築き、農地改革を実施し、悲惨な朝鮮戦争（1950～1953年）を戦った。長期政権のための改憲などで次第に権威主義化し、1960年3月の不正選挙が四・一九革命を招いて李承晩は下野した。"
+   }
+  },
+  {
+   "from": 1960,
+   "to": 1961,
+   "kind": "state",
+   "qid": "Q233263",
+   "polity": null,
+   "name": {
+    "en": "Second Republic of Korea",
+    "ko": "제2공화국",
+    "zh": "大韩民国第二共和国",
+    "ja": "第二共和国"
+   },
+   "summary": {
+    "en": "Born of the April Revolution, the Second Republic adopted a parliamentary system with Chang Myon as prime minister. Its brief period of political freedom was marked by instability and was ended by Park Chung-hee's military coup of 16 May 1961.",
+    "ko": "4·19 혁명으로 탄생한 제2공화국은 의원내각제를 채택하고 장면을 국무총리로 하였다. 짧은 정치적 자유의 시기였으나 불안정이 이어졌고, 1961년 5월 16일 박정희의 군사 정변으로 막을 내렸다.",
+    "zh": "第二共和国诞生于四一九革命，实行议会内阁制，由张勉出任国务总理。这一短暂的政治自由时期动荡不安，最终被1961年5月16日朴正熙发动的军事政变终结。",
+    "ja": "四・一九革命から生まれた第二共和国は議院内閣制を採用し、張勉が国務総理となった。短い政治的自由の時代だったが不安定が続き、1961年5月16日の朴正煕による軍事クーデターで終わった。"
+   }
+  },
+  {
+   "from": 1961,
+   "to": 1963,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Military junta (Supreme Council for National Reconstruction)",
+    "ko": "국가재건최고회의 군정기",
+    "zh": "国家重建最高会议军政时期",
+    "ja": "国家再建最高会議の軍政期"
+   },
+   "summary": {
+    "en": "After the May 16 coup, a military junta led by Park Chung-hee ruled through the Supreme Council for National Reconstruction. It launched the first five-year economic development plan and drafted a new constitution approved by referendum in 1962, before Park was elected president in 1963.",
+    "ko": "5·16 군사 정변 이후 박정희가 이끄는 국가재건최고회의가 통치했다. 군정은 제1차 경제개발 5개년 계획을 시작하고 1962년 국민투표로 새 헌법을 확정했으며, 1963년 박정희가 대통령에 당선되었다.",
+    "zh": "五一六军事政变后，朴正熙领导的国家重建最高会议执政。军政府启动第一个经济开发五年计划，并通过1962年全民公投确立新宪法，1963年朴正熙当选总统。",
+    "ja": "五・一六軍事クーデター後、朴正煕が率いる国家再建最高会議が統治した。軍政は第1次経済開発5か年計画を開始し、1962年の国民投票で新憲法を確定させ、1963年に朴正煕が大統領に当選した。"
+   }
+  },
+  {
+   "from": 1963,
+   "to": 1972,
+   "kind": "state",
+   "qid": "Q487687",
+   "polity": null,
+   "name": {
+    "en": "Third Republic of Korea",
+    "ko": "제3공화국",
+    "zh": "大韩民国第三共和国",
+    "ja": "第三共和国"
+   },
+   "summary": {
+    "en": "Under President Park Chung-hee the Third Republic pursued export-led industrialization, normalized relations with Japan in 1965 and sent troops to the Vietnam War. Rapid growth began the 'Miracle on the Han River', while Park amended the constitution in 1969 to allow a third term.",
+    "ko": "박정희 대통령의 제3공화국은 수출 주도형 산업화를 추진하고 1965년 한일 국교를 정상화했으며 베트남 전쟁에 파병했다. 고도성장으로 '한강의 기적'이 시작되었고, 1969년에는 3선 개헌이 이루어졌다.",
+    "zh": "朴正熙总统领导的第三共和国推行出口导向型工业化，于1965年与日本实现邦交正常化，并向越南战争派兵。高速增长开启了“汉江奇迹”，1969年朴正熙修宪以谋求第三个任期。",
+    "ja": "朴正煕大統領の第三共和国は輸出主導型の工業化を推進し、1965年に日韓国交を正常化し、ベトナム戦争に派兵した。高度成長により「漢江の奇跡」が始まり、1969年には三選改憲が行われた。"
+   }
+  },
+  {
+   "from": 1972,
+   "to": 1981,
+   "kind": "state",
+   "qid": "Q488521",
+   "polity": null,
+   "name": {
+    "en": "Fourth Republic of Korea (Yushin)",
+    "ko": "제4공화국(유신 체제)",
+    "zh": "大韩民国第四共和国（维新体制）",
+    "ja": "第四共和国（維新体制）"
+   },
+   "summary": {
+    "en": "The Fourth Republic began with Park Chung-hee's October 1972 Yushin self-coup, which gave him near-unlimited powers through indirect elections and emergency decrees. Heavy and chemical industries expanded rapidly while dissent was harshly suppressed. Park's assassination in October 1979 was followed by General Chun Doo-hwan's seizure of power.",
+    "ko": "제4공화국은 1972년 10월 박정희의 유신 선포로 시작되었으며, 간선제와 긴급조치를 통해 대통령에게 사실상 무제한의 권력이 주어졌다. 중화학공업이 급속히 성장했으나 반대 세력은 가혹하게 탄압되었다. 1979년 10월 박정희가 암살된 뒤 전두환이 권력을 장악했다.",
+    "zh": "第四共和国始于1972年10月朴正熙宣布“维新”，通过间接选举与紧急措施赋予总统近乎无限的权力。重化工业迅速发展，而异见者遭到严厉镇压。1979年10月朴正熙遇刺后，全斗焕夺取了政权。",
+    "ja": "第四共和国は1972年10月の朴正煕による維新宣布で始まり、間接選挙と緊急措置によって大統領に事実上無制限の権力が与えられた。重化学工業が急成長する一方、反対派は苛烈に弾圧された。1979年10月の朴正煕暗殺後、全斗煥が権力を掌握した。"
+   }
+  },
+  {
+   "from": 1981,
+   "to": 1988,
+   "kind": "state",
+   "qid": "Q482705",
+   "polity": null,
+   "name": {
+    "en": "Fifth Republic of Korea",
+    "ko": "제5공화국",
+    "zh": "大韩民国第五共和国",
+    "ja": "第五共和国"
+   },
+   "summary": {
+    "en": "The Fifth Republic was the authoritarian government of Chun Doo-hwan, who came to power through the 1979 coup and the bloody suppression of the 1980 Gwangju Uprising. The economy boomed and Seoul won the 1988 Olympics, but mounting protests culminated in the June 1987 Democratic Uprising, forcing a democratic constitution.",
+    "ko": "제5공화국은 1979년 12·12 군사 반란과 1980년 광주 민주화 운동의 유혈 진압을 거쳐 집권한 전두환의 권위주의 정부였다. 경제는 호황을 누리고 서울 올림픽을 유치했으나, 거세진 민주화 요구는 1987년 6월 민주항쟁으로 이어져 민주 헌법을 쟁취했다.",
+    "zh": "第五共和国是全斗焕的威权政府，他通过1979年的军事政变和1980年对光州民主化运动的血腥镇压掌权。这一时期经济繁荣，汉城成功申办1988年奥运会，但日益高涨的民主化诉求最终汇成1987年六月民主抗争，迫使政府接受民主宪法。",
+    "ja": "第五共和国は、1979年の粛軍クーデターと1980年の光州民主化運動の流血の鎮圧を経て政権を握った全斗煥の権威主義政府であった。経済は好況で、ソウル五輪の招致にも成功したが、高まる民主化要求は1987年の六月民主抗争へと結実し、民主的な憲法を勝ち取った。"
+   }
+  },
+  {
+   "from": 1988,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q488889",
+   "polity": "Republic of Korea",
+   "name": {
+    "en": "Sixth Republic of Korea",
+    "ko": "제6공화국",
+    "zh": "大韩民国第六共和国",
+    "ja": "第六共和国"
+   },
+   "summary": {
+    "en": "The Sixth Republic, based on the democratic constitution of 1987, has seen regular direct presidential elections and peaceful transfers of power between rival parties. South Korea joined the OECD, overcame the 1997 financial crisis and became a leading technology exporter and a global cultural force through the 'Korean Wave'. Its institutions have been tested by two presidential impeachments that were upheld (2017, 2025) and the short-lived martial law declaration of December 2024.",
+    "ko": "1987년 민주 헌법에 기초한 제6공화국에서는 정기적인 대통령 직선과 여야 간 평화적 정권 교체가 이루어지고 있다. 대한민국은 OECD에 가입하고 1997년 외환 위기를 극복했으며, 첨단 기술 수출국이자 '한류'를 통한 세계적 문화 강국으로 성장했다. 두 차례의 대통령 탄핵 인용(2017, 2025)과 2024년 12월의 비상계엄 사태는 민주주의 제도를 시험대에 올렸다.",
+    "zh": "第六共和国以1987年民主宪法为基础，定期举行总统直选，朝野政党之间实现了和平的政权交替。韩国加入经合组织（OECD），克服1997年金融危机，成为尖端技术出口大国，并借“韩流”成为全球性的文化力量。两次总统弹劾获准（2017年、2025年）以及2024年12月短暂的紧急戒严事件，使其民主制度经受了考验。",
+    "ja": "1987年の民主憲法に基づく第六共和国では、定期的な大統領直接選挙と与野党間の平和的な政権交代が行われている。韓国はOECDに加盟し、1997年の通貨危機を克服して先端技術の輸出国となり、「韓流」を通じて世界的な文化大国へと成長した。2度の大統領罷免（2017年、2025年）や2024年12月の非常戒厳事態は、その民主的制度を試すものとなった。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2333,
+   "qid": "Q12269553",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Legendary founding of Gojoseon",
+    "ko": "고조선 건국",
+    "zh": "古朝鲜的建国传说",
+    "ja": "古朝鮮建国の伝承"
+   },
+   "description": {
+    "en": "Korean tradition holds that Dangun founded Gojoseon, the first Korean kingdom, in 2333 BC. The foundation myth remains central to Korean identity, commemorated on National Foundation Day.",
+    "ko": "단군왕검이 기원전 2333년 한민족 최초의 국가 고조선을 세웠다고 전해진다. 이 건국 신화는 개천절로 기념되며 한민족 정체성의 뿌리로 남아 있다.",
+    "zh": "相传公元前2333年，檀君王俭建立了朝鲜民族最早的国家古朝鲜。这一建国神话至今仍是韩民族认同的根基，韩国以开天节加以纪念。",
+    "ja": "檀君王倹が紀元前2333年に朝鮮民族最初の国家・古朝鮮を建てたと伝えられる。この建国神話は開天節として記念され、民族アイデンティティの根幹となっている。"
+   }
+  },
+  {
+   "year": -1500,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Mumun farming culture begins",
+    "ko": "무문토기 농경 문화의 시작",
+    "zh": "无纹陶器农耕文化兴起",
+    "ja": "無文土器農耕文化の始まり"
+   },
+   "description": {
+    "en": "Around 1500 BC plain Mumun pottery replaced comb-pattern ware, and settled farming communities spread across the southern peninsula. Rice, millet and other crops were cultivated, and villages of rectangular pit-houses grew steadily larger.",
+    "ko": "기원전 1500년경 빗살무늬토기가 민무늬토기로 바뀌면서 정착 농경 사회가 한반도 남부 전역으로 퍼졌다. 벼와 조 등 곡물을 재배했고, 장방형 움집으로 이루어진 마을의 규모가 점점 커졌다.",
+    "zh": "约公元前1500年，素面的无纹陶器取代了栉文陶器，定居农耕社会扩展到半岛南部各地。人们种植稻、粟等作物，由长方形半地穴房屋组成的村落规模日益扩大。",
+    "ja": "紀元前1500年頃、櫛目文土器に代わって無文土器が広まり、定住農耕社会が朝鮮半島南部全域に広がった。稲やアワなどの穀物が栽培され、長方形の竪穴住居からなる集落は次第に大規模になった。"
+   }
+  },
+  {
+   "year": -1000,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Age of the dolmens",
+    "ko": "고인돌 축조의 전성기",
+    "zh": "支石墓的兴盛",
+    "ja": "支石墓の築造の最盛期"
+   },
+   "description": {
+    "en": "During the first millennium BC Bronze Age communities raised tens of thousands of dolmen tombs, giving Korea one of the densest concentrations of megaliths in the world. The dolmen sites of Gochang, Hwasun and Ganghwa were inscribed as UNESCO World Heritage in 2000.",
+    "ko": "기원전 1천년기에 청동기 시대 사람들은 수만 기의 고인돌을 세워, 한반도는 세계에서 고인돌이 가장 밀집한 지역 가운데 하나가 되었다. 고창·화순·강화 고인돌 유적은 2000년 유네스코 세계유산으로 등재되었다.",
+    "zh": "公元前一千纪，青铜时代的人们在半岛上建造了数以万计的支石墓，使朝鲜半岛成为世界上巨石墓最密集的地区之一。高敞、和顺、江华支石墓遗址于2000年被列入联合国教科文组织世界遗产。",
+    "ja": "紀元前1千年紀、青銅器時代の人々は数万基の支石墓を築き、朝鮮半島は世界でも有数の巨石墓の密集地となった。高敞・和順・江華の支石墓遺跡は2000年にユネスコ世界遺産に登録された。"
+   }
+  },
+  {
+   "year": -300,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Yan attacks Gojoseon",
+    "ko": "연나라의 고조선 침공",
+    "zh": "燕国进攻古朝鲜",
+    "ja": "燕の古朝鮮侵攻"
+   },
+   "description": {
+    "en": "Around 300 BC the Chinese state of Yan, under its general Qin Kai, attacked Gojoseon and seized a large swathe of its western territory, according to the Weilüe. The conflict pushed Gojoseon's centre southeast, and iron tools spread into the peninsula in the following centuries.",
+    "ko": "『위략』에 따르면 기원전 300년 무렵 연나라 장수 진개가 고조선을 공격해 서쪽 영토의 넓은 지역을 빼앗았다. 이 전쟁으로 고조선의 중심지가 동남쪽으로 옮겨 갔으며, 이후 수 세기 동안 철기가 한반도에 퍼졌다.",
+    "zh": "据《魏略》记载，约公元前300年，燕国将领秦开进攻古朝鲜，夺取其西部大片土地。这场冲突使古朝鲜的中心向东南转移，此后数百年间铁器逐渐传入朝鲜半岛。",
+    "ja": "『魏略』によれば、紀元前300年頃、燕の将軍・秦開が古朝鮮を攻め、西方の広大な領土を奪った。この戦いで古朝鮮の中心は南東へ移り、その後の数世紀の間に鉄器が朝鮮半島に広まった。"
+   }
+  },
+  {
+   "year": -194,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Wiman seizes the throne of Gojoseon",
+    "ko": "위만, 고조선의 왕위를 차지하다",
+    "zh": "卫满夺取古朝鲜王位",
+    "ja": "衛満、古朝鮮の王位を奪う"
+   },
+   "description": {
+    "en": "Wiman, a refugee leader from the former Yan territory, overthrew King Jun of Gojoseon around 194 BC and founded Wiman Joseon at Wanggeom-seong. According to Chinese records, the deposed Jun fled south by sea into the land of the Han peoples, linking the northern kingdom's history with the southern peninsula.",
+    "ko": "연나라 지역에서 망명해 온 위만이 기원전 194년경 고조선의 준왕을 몰아내고 왕검성을 도읍으로 위만조선을 세웠다. 중국 기록에 따르면 쫓겨난 준왕은 바다를 건너 남쪽 한(韓)의 땅으로 갔다고 하여, 북쪽 왕국의 역사와 한반도 남부가 이어진다.",
+    "zh": "约公元前194年，来自原燕地的流亡首领卫满推翻古朝鲜准王，以王险城为都建立卫满朝鲜。据中国史籍记载，被逐的准王经海路南下至“韩”地，将北方王国的历史与半岛南部联系起来。",
+    "ja": "紀元前194年頃、旧燕の地から亡命してきた衛満が古朝鮮の準王を追放し、王険城を都に衛満朝鮮を建てた。中国の記録によれば、追われた準王は海路で南方の韓の地へ逃れたとされ、北の王国の歴史と半島南部が結びつく。"
+   }
+  },
+  {
+   "year": -108,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Han conquers Gojoseon",
+    "ko": "고조선 멸망과 한사군 설치",
+    "zh": "汉灭古朝鲜，设四郡",
+    "ja": "漢による古朝鮮の滅亡と四郡設置"
+   },
+   "description": {
+    "en": "After a year-long war, Emperor Wu of Han destroyed Wiman Joseon in 108 BC and set up commanderies, including Lelang, in the northern peninsula. The fall of Gojoseon pushed many people south and stimulated the rise of the Samhan confederacies, while Lelang became a channel for Chinese culture until 313.",
+    "ko": "한 무제는 1년에 걸친 전쟁 끝에 기원전 108년 위만조선을 멸망시키고 한반도 북부에 낙랑군 등 군현을 설치했다. 고조선의 멸망으로 많은 유민이 남하하여 삼한의 성장을 자극했으며, 낙랑군은 313년까지 중국 문화가 전해지는 통로가 되었다.",
+    "zh": "经过一年多的战争，汉武帝于公元前108年灭卫满朝鲜，在半岛北部设立乐浪郡等郡县。古朝鲜灭亡后大批遗民南迁，推动了三韩的兴起，而乐浪郡直到313年一直是中国文化传入的通道。",
+    "ja": "1年に及ぶ戦争の末、漢の武帝は紀元前108年に衛満朝鮮を滅ぼし、朝鮮半島北部に楽浪郡などの郡県を置いた。古朝鮮の滅亡で多くの遺民が南下して三韓の成長を促し、楽浪郡は313年まで中国文化の流入路となった。"
+   }
+  },
+  {
+   "year": -57,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Traditional founding of Silla",
+    "ko": "신라 건국(전승)",
+    "zh": "新罗建国（传说）",
+    "ja": "新羅の建国（伝承）"
+   },
+   "description": {
+    "en": "According to the Samguk sagi, Bak Hyeokgeose, said to have been born from an egg, was made ruler of Saro at Gyeongju in 57 BC by the chiefs of six villages. Saro later became Silla, which would endure for nearly a thousand years.",
+    "ko": "『삼국사기』에 따르면 알에서 태어났다는 박혁거세가 기원전 57년 여섯 마을 촌장들의 추대로 경주에서 사로국의 왕이 되었다. 사로국은 훗날 신라로 발전하여 천 년 가까이 이어졌다.",
+    "zh": "据《三国史记》记载，传说从卵中诞生的朴赫居世于公元前57年被六村首领推举为庆州斯卢国的君主。斯卢国后来发展为新罗，延续近千年。",
+    "ja": "『三国史記』によれば、卵から生まれたとされる朴赫居世が紀元前57年、六つの村の長たちに推されて慶州で斯盧国の王となった。斯盧国はのちに新羅へと発展し、千年近く続いた。"
+   }
+  },
+  {
+   "year": -37,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Traditional founding of Goguryeo",
+    "ko": "고구려 건국(전승)",
+    "zh": "高句丽建国（传说）",
+    "ja": "高句麗の建国（伝承）"
+   },
+   "description": {
+    "en": "Tradition holds that Jumong (Dongmyeong), a prince who fled Buyeo, founded Goguryeo at Jolbon on the middle Yalu in 37 BC. Goguryeo would grow into the dominant power of northeast Asia and later push deep into the Han River basin.",
+    "ko": "전승에 따르면 부여에서 탈출한 주몽(동명성왕)이 기원전 37년 압록강 중류의 졸본에서 고구려를 세웠다. 고구려는 동북아시아의 강국으로 성장하여 훗날 한강 유역까지 진출했다.",
+    "zh": "据传说，逃离扶余的王子朱蒙（东明圣王）于公元前37年在鸭绿江中游的卒本建立高句丽。高句丽后来成长为东北亚强国，并深入汉江流域。",
+    "ja": "伝承によれば、扶余から逃れた王子・朱蒙（東明聖王）が紀元前37年、鴨緑江中流の卒本で高句麗を建てた。高句麗はのちに東北アジアの強国となり、漢江流域にまで進出した。"
+   }
+  },
+  {
+   "year": -18,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Traditional founding of Baekje",
+    "ko": "백제 건국(전승)",
+    "zh": "百济建国（传说）",
+    "ja": "百済の建国（伝承）"
+   },
+   "description": {
+    "en": "According to tradition, Onjo, a son of Goguryeo's founder, moved south and founded Baekje at Wiryeseong near the Han River in 18 BC. The earthen walls of Pungnap-toseong and Mongchon-toseong in today's Seoul are associated with Baekje's early Hanseong capital.",
+    "ko": "전승에 따르면 고구려 시조의 아들 온조가 남쪽으로 내려와 기원전 18년 한강 유역의 위례성에서 백제를 세웠다. 오늘날 서울의 풍납토성과 몽촌토성은 한성 도읍기 백제의 왕성 유적으로 여겨진다.",
+    "zh": "据传说，高句丽始祖之子温祚南下，于公元前18年在汉江流域的慰礼城建立百济。今首尔的风纳土城与梦村土城被认为是百济汉城时期的王城遗址。",
+    "ja": "伝承によれば、高句麗の始祖の子・温祚が南下し、紀元前18年に漢江流域の慰礼城で百済を建てた。現在のソウルにある風納土城と夢村土城は、漢城時代の百済の王城跡とされる。"
+   }
+  },
+  {
+   "year": 42,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Traditional founding of Geumgwan Gaya",
+    "ko": "금관가야 건국(전승)",
+    "zh": "金官伽倻建国（传说）",
+    "ja": "金官伽耶の建国（伝承）"
+   },
+   "description": {
+    "en": "The Garakguk-gi preserved in the Samguk yusa relates that King Suro descended from heaven in a golden egg and founded Geumgwan Gaya at Gimhae in AD 42. His legendary queen Heo Hwang-ok is said to have come from a distant land overseas. The Gaya states grew rich on iron production and trade.",
+    "ko": "『삼국유사』에 실린 「가락국기」에 따르면 김수로왕이 하늘에서 내려온 금알에서 태어나 서기 42년 김해에 금관가야를 세웠다. 왕비 허황옥은 바다 건너 먼 나라에서 왔다고 전한다. 가야 여러 나라는 철 생산과 교역으로 번영했다.",
+    "zh": "据《三国遗事》所收《驾洛国记》记载，首露王从天而降的金卵中诞生，于公元42年在金海建立金官伽倻；传说其王后许黄玉来自海外远国。伽倻诸国凭借铁的生产与贸易而富庶。",
+    "ja": "『三国遺事』所収の「駕洛国記」によれば、首露王は天から降りた金の卵から生まれ、西暦42年に金海で金官伽耶を建てた。王妃・許黄玉は海の彼方の遠い国から来たと伝えられる。伽耶諸国は鉄の生産と交易で栄えた。"
+   }
+  },
+  {
+   "year": 194,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Goguryeo's Jindae relief law",
+    "ko": "고구려 진대법 실시",
+    "zh": "高句丽实行赈贷法",
+    "ja": "高句麗の賑貸法"
+   },
+   "description": {
+    "en": "According to the Samguk sagi, in 194 King Gogukcheon of Goguryeo, advised by his minister Eul Pa-so, instituted the Jindae law, lending state grain to poor farmers in spring and collecting it after the autumn harvest. It is regarded as one of the earliest state relief systems in Korean history.",
+    "ko": "『삼국사기』에 따르면 194년 고구려 고국천왕은 재상 을파소의 건의로 봄에 나라의 곡식을 가난한 백성에게 빌려주고 가을 추수 뒤 돌려받는 진대법을 실시했다. 한국사에서 가장 이른 국가 구휼 제도의 하나로 평가된다.",
+    "zh": "据《三国史记》记载，194年高句丽故国川王采纳国相乙巴素的建议，实行赈贷法：春季向贫苦农民借贷官粮，秋收后归还。这被视为朝鲜历史上最早的国家赈济制度之一。",
+    "ja": "『三国史記』によれば、194年、高句麗の故国川王は宰相・乙巴素の進言により、春に国の穀物を貧しい民に貸し付け、秋の収穫後に返させる賑貸法を実施した。朝鮮史上最も早い国家的な救恤制度の一つとされる。"
+   }
+  },
+  {
+   "year": 244,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Cao Wei sacks the Goguryeo capital",
+    "ko": "위나라 관구검의 고구려 침공",
+    "zh": "曹魏毌丘俭攻破高句丽都城",
+    "ja": "魏の毌丘倹による高句麗侵攻"
+   },
+   "description": {
+    "en": "In 244-245 the Cao Wei general Guanqiu Jian invaded Goguryeo and captured its capital Hwando, forcing King Dongcheon to flee. The same Wei campaigns brought the peoples of the peninsula into the view of Chinese historians, whose Records of the Three Kingdoms later described the Samhan's dozens of statelets in detail.",
+    "ko": "244~245년 위나라 장수 관구검이 고구려를 침공해 도성 환도성을 함락시켰고, 동천왕은 피란해야 했다. 이 원정을 계기로 중국 사가들은 한반도의 여러 종족을 자세히 알게 되었으며, 『삼국지』 「동이전」은 삼한의 수십 개 소국을 상세히 기록했다.",
+    "zh": "244至245年，曹魏将领毌丘俭进攻高句丽，攻陷其都城丸都，东川王被迫出逃。魏军的这些征伐使中国史家详细了解了半岛诸族，《三国志·东夷传》因而对三韩的数十个小国作了详尽记载。",
+    "ja": "244～245年、魏の将軍・毌丘倹が高句麗に侵攻して都の丸都城を陥落させ、東川王は逃れざるを得なかった。この遠征を機に中国の史家は朝鮮半島の諸民族を詳しく知るようになり、『三国志』東夷伝は三韓の数十の小国を詳細に記録した。"
+   }
+  },
+  {
+   "year": 313,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Goguryeo destroys Lelang Commandery",
+    "ko": "고구려의 낙랑군 축출",
+    "zh": "高句丽灭乐浪郡",
+    "ja": "高句麗、楽浪郡を滅ぼす"
+   },
+   "description": {
+    "en": "In 313 King Micheon of Goguryeo conquered Lelang, ending four centuries of Chinese commanderies in the northwest of the peninsula. With Chinese power gone, Goguryeo, Baekje and Silla competed directly for control of the peninsula.",
+    "ko": "313년 고구려 미천왕이 낙랑군을 정복하여 400여 년에 걸친 한반도 서북부의 중국 군현 지배를 끝냈다. 중국 세력이 물러나자 고구려·백제·신라는 한반도의 주도권을 놓고 직접 경쟁하게 되었다.",
+    "zh": "313年，高句丽美川王攻灭乐浪郡，结束了中国郡县在半岛西北部长达四百年的统治。中原势力退出后，高句丽、百济和新罗开始直接争夺半岛的主导权。",
+    "ja": "313年、高句麗の美川王が楽浪郡を征服し、400年余り続いた朝鮮半島北西部の中国郡県支配に終止符を打った。中国勢力が退くと、高句麗・百済・新羅は半島の主導権を直接争うようになった。"
+   }
+  },
+  {
+   "year": 371,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Baekje strikes Pyongyang under King Geunchogo",
+    "ko": "근초고왕의 평양성 공격",
+    "zh": "近肖古王进攻平壤城",
+    "ja": "近肖古王の平壌城攻撃"
+   },
+   "description": {
+    "en": "Baekje reached its zenith under King Geunchogo, who consolidated control of the former Mahan lands and in 371 attacked Pyongyang fortress, where Goguryeo's King Gogugwon was killed. Baekje in this era also developed close ties with the Eastern Jin and the Wa of Japan.",
+    "ko": "백제는 근초고왕 때 전성기를 맞아 옛 마한 지역을 장악했고, 371년 평양성을 공격해 고구려 고국원왕을 전사시켰다. 이 시기 백제는 동진 및 왜와도 긴밀한 관계를 맺었다.",
+    "zh": "百济在近肖古王时期达到鼎盛，控制了原马韩地区，并于371年进攻平壤城，高句丽故国原王战死。这一时期百济还与东晋及日本倭国建立了密切关系。",
+    "ja": "百済は近肖古王の時代に全盛期を迎えて旧馬韓地域を掌握し、371年には平壌城を攻めて高句麗の故国原王を戦死させた。この時期の百済は東晋や倭とも緊密な関係を結んだ。"
+   }
+  },
+  {
+   "year": 384,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Buddhism reaches Baekje",
+    "ko": "백제의 불교 수용",
+    "zh": "佛教传入百济",
+    "ja": "百済への仏教伝来"
+   },
+   "description": {
+    "en": "Buddhism entered Goguryeo in 372 with the monk Sundo from Former Qin, and in 384 the Serindian monk Marananta arrived in Baekje from Eastern Jin and was welcomed by the court. Buddhism became a pillar of royal authority and culture throughout the Three Kingdoms.",
+    "ko": "372년 전진의 승려 순도가 고구려에 불교를 전했고, 384년에는 서역 승려 마라난타가 동진에서 백제로 건너와 왕실의 환영을 받았다. 불교는 삼국 전역에서 왕권과 문화를 떠받치는 기둥이 되었다.",
+    "zh": "372年，前秦僧人顺道将佛教传入高句丽；384年，西域僧人摩罗难陀从东晋来到百济，受到王室礼遇。佛教此后成为三国王权与文化的重要支柱。",
+    "ja": "372年に前秦の僧・順道が高句麗に仏教を伝え、384年には西域の僧・摩羅難陀が東晋から百済に渡り、王室に迎えられた。仏教は三国全体で王権と文化を支える柱となった。"
+   }
+  },
+  {
+   "year": 400,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Gwanggaeto sends troops to aid Silla",
+    "ko": "광개토대왕의 신라 구원",
+    "zh": "广开土王出兵救援新罗",
+    "ja": "広開土王の新羅救援"
+   },
+   "description": {
+    "en": "According to the Gwanggaeto Stele, erected in 414, King Gwanggaeto sent 50,000 troops south in 400 to relieve Silla from attacking Wa forces, pursuing them into Gaya. The campaign extended Goguryeo's influence over Silla and is thought to have weakened Geumgwan Gaya. Interpretation of parts of the stele's inscription remains debated.",
+    "ko": "414년에 세워진 광개토대왕릉비에 따르면 광개토대왕은 400년 보병과 기병 5만을 보내 왜의 공격을 받던 신라를 구원하고 가야 지역까지 추격했다. 이 원정으로 고구려의 영향력이 신라에 미쳤고 금관가야는 쇠퇴한 것으로 보인다. 비문 일부의 해석을 둘러싼 논쟁은 지금도 이어지고 있다.",
+    "zh": "据414年所立的广开土王碑记载，400年广开土王派遣步骑五万南下，救援遭倭军进攻的新罗，并追击至伽倻地区。这次出征使高句丽的影响力深入新罗，金官伽倻则随之衰落。碑文部分内容的解读至今仍有争议。",
+    "ja": "414年に建てられた広開土王碑によれば、広開土王は400年に歩兵・騎兵5万を南に送り、倭の攻撃を受けていた新羅を救援し、伽耶の地まで追撃した。この遠征で高句麗の影響力は新羅に及び、金官伽耶は衰退したとみられる。碑文の一部の解釈をめぐる議論は今も続いている。"
+   }
+  },
+  {
+   "year": 427,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Goguryeo moves its capital to Pyongyang",
+    "ko": "고구려의 평양 천도",
+    "zh": "高句丽迁都平壤",
+    "ja": "高句麗の平壌遷都"
+   },
+   "description": {
+    "en": "King Jangsu moved Goguryeo's capital from Gungnae-seong on the Yalu to Pyongyang in 427, signalling a southward policy. Alarmed, Baekje and Silla formed an alliance in 433 to resist Goguryeo's pressure.",
+    "ko": "장수왕은 427년 압록강 변의 국내성에서 평양으로 도읍을 옮겨 남진 정책을 본격화했다. 이에 위협을 느낀 백제와 신라는 433년 동맹을 맺어 고구려의 남하에 맞섰다.",
+    "zh": "427年，长寿王将高句丽都城从鸭绿江畔的国内城迁至平壤，标志着南进政策的全面展开。百济与新罗深感威胁，于433年结成同盟，共同抵御高句丽南下。",
+    "ja": "長寿王は427年に鴨緑江沿いの国内城から平壌へ都を移し、南進政策を本格化させた。脅威を感じた百済と新羅は433年に同盟を結び、高句麗の南下に対抗した。"
+   }
+  },
+  {
+   "year": 475,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Hanseong; Baekje moves to Ungjin",
+    "ko": "한성 함락과 웅진 천도",
+    "zh": "汉城陷落，百济迁都熊津",
+    "ja": "漢城陥落と熊津遷都"
+   },
+   "description": {
+    "en": "In 475 King Jangsu's army captured Baekje's capital Hanseong on the Han River and executed King Gaero. Baekje's court fled south and re-established itself at Ungjin (Gongju), while Goguryeo controlled the Han River basin for the next seventy years.",
+    "ko": "475년 장수왕의 군대가 한강 유역의 백제 도성 한성을 함락하고 개로왕을 죽였다. 백제 조정은 남쪽 웅진(공주)으로 옮겨 나라를 다시 세웠고, 이후 70여 년 동안 한강 유역은 고구려의 차지가 되었다.",
+    "zh": "475年，长寿王的军队攻陷百济位于汉江流域的都城汉城，杀死盖卤王。百济朝廷南迁至熊津（公州）重建，此后七十余年汉江流域归高句丽所有。",
+    "ja": "475年、長寿王の軍が漢江流域にあった百済の都・漢城を陥落させ、蓋鹵王を殺した。百済の朝廷は南の熊津（公州）に移って再建され、その後70年余り漢江流域は高句麗の支配下に置かれた。"
+   }
+  },
+  {
+   "year": 512,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Silla annexes Usan-guk (Ulleungdo)",
+    "ko": "이사부의 우산국 정벌",
+    "zh": "异斯夫征服于山国",
+    "ja": "異斯夫の于山国征服"
+   },
+   "description": {
+    "en": "According to the Samguk sagi, in 512 the Silla general Isabu subdued Usan-guk, the island state of Ulleungdo, reportedly frightening its people into submission with wooden lions. South Korea cites this record in its claim to Dokdo, a claim disputed by Japan.",
+    "ko": "『삼국사기』에 따르면 512년 신라 장군 이사부가 울릉도의 우산국을 복속시켰는데, 나무 사자로 주민들을 위협해 항복을 받았다고 한다. 대한민국은 이 기록을 독도 영유권의 근거 가운데 하나로 들고 있으며, 일본은 이에 이의를 제기하고 있다.",
+    "zh": "据《三国史记》记载，512年新罗将领异斯夫征服郁陵岛上的于山国，据说他以木狮子威吓岛民使其归降。韩国将此记载作为独岛（日本称竹岛）主权主张的依据之一，日本则对此提出异议。",
+    "ja": "『三国史記』によれば、512年に新羅の将軍・異斯夫が鬱陵島の于山国を服属させ、木製の獅子で島民を脅して降伏させたという。韓国はこの記録を独島（日本名：竹島）の領有権主張の根拠の一つとしており、日本はこれに異議を唱えている。"
+   }
+  },
+  {
+   "year": 527,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Silla officially adopts Buddhism",
+    "ko": "신라의 불교 공인",
+    "zh": "新罗公认佛教",
+    "ja": "新羅の仏教公認"
+   },
+   "description": {
+    "en": "Under King Beopheung, who had promulgated a law code in 520, Silla officially recognized Buddhism after the martyrdom of the courtier Ichadon, traditionally dated to 527. Buddhism strengthened royal authority and became the spiritual foundation of Silla culture.",
+    "ko": "520년 율령을 반포한 법흥왕은 전승상 527년 이차돈의 순교를 계기로 불교를 공인했다. 불교는 왕권을 강화하고 신라 문화의 정신적 토대가 되었다.",
+    "zh": "520年颁布律令的法兴王，以传为527年的异次顿殉教为契机正式公认佛教。佛教强化了王权，成为新罗文化的精神基础。",
+    "ja": "520年に律令を頒布した法興王は、伝承で527年とされる異次頓の殉教を契機に仏教を公認した。仏教は王権を強化し、新羅文化の精神的基盤となった。"
+   }
+  },
+  {
+   "year": 538,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Baekje moves its capital to Sabi",
+    "ko": "백제의 사비 천도",
+    "zh": "百济迁都泗沘",
+    "ja": "百済の泗沘遷都"
+   },
+   "description": {
+    "en": "King Seong moved Baekje's capital from Ungjin to Sabi (today's Buyeo) in 538 and renamed the state Nambuyeo. During his reign Baekje transmitted Buddhist scriptures and images to the Yamato court in Japan, a key moment in Japanese Buddhism traditionally dated to 538 or 552.",
+    "ko": "성왕은 538년 웅진에서 사비(오늘날의 부여)로 도읍을 옮기고 국호를 남부여로 바꾸었다. 그의 재위 중 백제는 일본 야마토 조정에 불경과 불상을 전했는데, 일본에서는 이를 538년 또는 552년의 불교 공전으로 본다.",
+    "zh": "538年，圣王将百济都城从熊津迁至泗沘（今扶余），并改国号为南扶余。其在位期间，百济向日本大和朝廷传送佛经与佛像，日本将此视为佛教公传，年代传为538年或552年。",
+    "ja": "聖王は538年に熊津から泗沘（現在の扶余）へ遷都し、国号を南扶余と改めた。その治世に百済は日本のヤマト王権へ経典と仏像を伝え、日本ではこれを538年または552年の仏教公伝としている。"
+   }
+  },
+  {
+   "year": 553,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Silla seizes the Han River basin",
+    "ko": "신라의 한강 유역 장악",
+    "zh": "新罗夺取汉江流域",
+    "ja": "新羅、漢江流域を掌握"
+   },
+   "description": {
+    "en": "In 551 Baekje and Silla jointly drove Goguryeo from the Han River basin, but in 553 Silla's King Jinheung seized Baekje's share. When Baekje's King Seong retaliated, he was killed at the Battle of Gwansan fortress in 554. Control of the Han basin gave Silla direct sea access to China and set the stage for unification.",
+    "ko": "551년 백제와 신라는 함께 고구려를 한강 유역에서 몰아냈으나, 553년 신라 진흥왕이 백제가 차지한 지역마저 빼앗았다. 이에 반격한 백제 성왕은 554년 관산성 전투에서 전사했다. 한강 유역을 차지한 신라는 중국과 직접 교류할 수 있게 되어 통일의 발판을 마련했다.",
+    "zh": "551年，百济与新罗联手将高句丽逐出汉江流域，但553年新罗真兴王又夺取了百济所得之地。百济圣王反击，于554年管山城之战中阵亡。占据汉江流域使新罗得以经海路直接与中国交往，为统一奠定了基础。",
+    "ja": "551年、百済と新羅は共に高句麗を漢江流域から追い出したが、553年に新羅の真興王が百済の取り分まで奪った。反撃した百済の聖王は554年の管山城の戦いで戦死した。漢江流域を得た新羅は中国と直接交流できるようになり、統一への足がかりを築いた。"
+   }
+  },
+  {
+   "year": 562,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Silla conquers Daegaya",
+    "ko": "대가야 멸망",
+    "zh": "新罗灭大伽倻",
+    "ja": "大伽耶の滅亡"
+   },
+   "description": {
+    "en": "Silla, having absorbed Geumgwan Gaya by the surrender of its last king in 532, conquered Daegaya at Goryeong in 562, ending the Gaya confederacy. Gaya's elite and iron-working traditions were integrated into Silla; the general Kim Yu-sin was a descendant of the Geumgwan Gaya royal line.",
+    "ko": "532년 금관가야 마지막 왕의 항복으로 그 땅을 흡수한 신라는 562년 고령의 대가야를 정복하여 가야 연맹을 끝냈다. 가야의 지배층과 철기 문화는 신라에 흡수되었으며, 김유신 장군도 금관가야 왕족의 후손이었다.",
+    "zh": "新罗在532年金官伽倻末代国王投降后吞并其地，562年又征服高灵的大伽倻，伽倻联盟至此终结。伽倻的统治阶层与冶铁传统融入新罗，名将金庾信即为金官伽倻王族后裔。",
+    "ja": "532年の金官伽耶最後の王の降伏でその地を吸収した新羅は、562年に高霊の大伽耶を征服し、伽耶連盟は終わった。伽耶の支配層と製鉄文化は新羅に取り込まれ、名将・金庾信も金官伽耶王族の子孫であった。"
+   }
+  },
+  {
+   "year": 612,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Salsu River",
+    "ko": "살수대첩",
+    "zh": "萨水之战",
+    "ja": "薩水の戦い"
+   },
+   "description": {
+    "en": "During the Sui dynasty's massive invasion of Goguryeo in 612, General Eulji Mundeok lured a Sui army deep into Goguryeo territory and routed it at the Salsu River as it retreated. The disaster contributed to the collapse of the Sui dynasty soon afterward.",
+    "ko": "612년 수나라가 대군을 이끌고 고구려를 침공하자 을지문덕 장군은 수군을 고구려 깊숙이 유인한 뒤 후퇴하는 적을 살수에서 크게 무찔렀다. 이 패배는 얼마 뒤 수나라가 멸망하는 원인 가운데 하나가 되었다.",
+    "zh": "612年隋朝大举进攻高句丽，乙支文德将军诱敌深入，在隋军撤退时于萨水将其击溃。这场惨败成为隋朝不久后灭亡的原因之一。",
+    "ja": "612年に隋が大軍で高句麗に侵攻すると、乙支文徳将軍は隋軍を国内深くに誘い込み、退却する敵を薩水で大破した。この大敗は、隋がまもなく滅亡する原因の一つとなった。"
+   }
+  },
+  {
+   "year": 645,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Hwangnyongsa nine-story pagoda completed",
+    "ko": "황룡사 구층 목탑 완성",
+    "zh": "皇龙寺九层木塔落成",
+    "ja": "皇龍寺九重木塔の完成"
+   },
+   "description": {
+    "en": "Under Queen Seondeok, Silla's first reigning queen, the nine-story wooden pagoda of Hwangnyongsa in Gyeongju was completed in 645, reportedly with the help of the Baekje master builder Abiji. A landmark of the capital, it stood until it was burned during the Mongol invasions in 1238. The Cheomseongdae observatory also dates from her reign.",
+    "ko": "신라 최초의 여왕인 선덕여왕 때인 645년, 백제 장인 아비지의 도움으로 경주 황룡사 구층 목탑이 완성되었다고 전한다. 경주의 상징이던 이 탑은 1238년 몽골 침입 때 불타 없어졌다. 첨성대도 선덕여왕 대에 세워졌다.",
+    "zh": "在新罗第一位女王善德女王治下，庆州皇龙寺九层木塔于645年落成，据说得到了百济工匠阿非知的协助。这座庆州的标志性建筑于1238年在蒙古入侵中被焚毁。瞻星台也建于善德女王时期。",
+    "ja": "新羅初の女王・善徳女王の時代の645年、百済の工匠・阿非知の助けを得て慶州の皇龍寺九重木塔が完成したと伝えられる。慶州の象徴であったこの塔は、1238年のモンゴル侵攻で焼失した。瞻星台も善徳女王の時代に築かれた。"
+   }
+  },
+  {
+   "year": 660,
+   "qid": "Q1036636",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Hwangsanbeol and the fall of Baekje",
+    "ko": "황산벌 전투와 백제 멸망",
+    "zh": "黄山伐之战与百济灭亡",
+    "ja": "黄山伐の戦いと百済の滅亡"
+   },
+   "description": {
+    "en": "In 660 a Silla army under Kim Yu-sin overcame the Baekje general Gyebaek's outnumbered force at Hwangsanbeol, while a Tang fleet landed on the west coast. The allies took the capital Sabi and King Uija surrendered, ending Baekje after nearly seven centuries.",
+    "ko": "660년 김유신이 이끄는 신라군이 황산벌에서 계백 장군의 결사대를 물리쳤고, 당나라 수군은 서해안에 상륙했다. 연합군이 사비성을 함락하자 의자왕이 항복하여 약 700년 가까이 이어진 백제가 멸망했다.",
+    "zh": "660年，金庾信率领的新罗军在黄山伐击败阶伯将军以寡敌众的决死队，唐朝水军则在西海岸登陆。联军攻陷泗沘城，义慈王投降，延续近七百年的百济宣告灭亡。",
+    "ja": "660年、金庾信率いる新羅軍が黄山伐で階伯将軍の決死隊を破り、唐の水軍は西海岸に上陸した。連合軍が泗沘城を陥落させると義慈王は降伏し、700年近く続いた百済は滅亡した。"
+   }
+  },
+  {
+   "year": 663,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Baekgang",
+    "ko": "백강 전투",
+    "zh": "白江口之战",
+    "ja": "白村江の戦い"
+   },
+   "description": {
+    "en": "Baekje loyalists, supported by a large fleet from Yamato Japan, attempted to restore their kingdom, but a Tang-Silla force destroyed the Japanese fleet at the mouth of the Baek River in 663. The defeat ended the Baekje restoration movement and many Baekje refugees settled in Japan.",
+    "ko": "백제 부흥군은 야마토 왜의 대규모 수군 지원을 받아 나라를 되살리려 했으나, 663년 백강 어귀에서 나당 연합군이 왜의 함대를 격파했다. 이로써 백제 부흥 운동은 끝났고 많은 백제 유민이 일본으로 건너갔다.",
+    "zh": "百济复国军在日本大和朝廷大规模水军的支援下谋求复国，但663年唐与新罗联军在白江口歼灭倭国舰队。百济复国运动由此失败，大批百济遗民迁往日本。",
+    "ja": "百済復興軍はヤマト王権の大規模な水軍の支援を受けて国の再興を図ったが、663年に唐・新羅連合軍が白村江（白江）の河口で倭の艦隊を撃破した。これにより百済復興運動は終わり、多くの百済遺民が日本へ渡った。"
+   }
+  },
+  {
+   "year": 668,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Goguryeo",
+    "ko": "고구려 멸망",
+    "zh": "高句丽灭亡",
+    "ja": "高句麗の滅亡"
+   },
+   "description": {
+    "en": "Weakened by succession strife after the death of the dictator Yeon Gaesomun, Goguryeo fell in 668 when Silla and Tang forces took Pyongyang. Tang then sought to rule the whole peninsula, provoking the Silla-Tang War.",
+    "ko": "연개소문 사후 아들들의 권력 다툼으로 약해진 고구려는 668년 신라·당 연합군에 평양성이 함락되면서 멸망했다. 이후 당은 한반도 전체를 지배하려 하여 나당 전쟁이 일어났다.",
+    "zh": "权臣渊盖苏文死后，其子争权导致高句丽国力削弱，668年新罗与唐联军攻陷平壤，高句丽灭亡。此后唐朝企图统治整个半岛，引发了罗唐战争。",
+    "ja": "独裁的な権力者・淵蓋蘇文の死後、息子たちの権力争いで弱体化した高句麗は、668年に新羅・唐連合軍に平壌城を落とされて滅亡した。その後、唐が半島全体の支配を図ったため、羅唐戦争が起こった。"
+   }
+  },
+  {
+   "year": 676,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Silla unifies the Three Kingdoms",
+    "ko": "신라의 삼국통일",
+    "zh": "新罗统一三国",
+    "ja": "新羅の三国統一"
+   },
+   "description": {
+    "en": "Silla defeated Baekje and Goguryeo and expelled Tang forces by 676, unifying most of the peninsula for the first time. Unified Silla's capital Gyeongju flourished as a center of Buddhist culture.",
+    "ko": "신라는 백제와 고구려를 무너뜨리고 676년 당군을 몰아내며 한반도 대부분을 처음으로 통일했다. 통일신라의 수도 경주는 불교 문화의 중심지로 번영했다.",
+    "zh": "新罗先后灭百济与高句丽，并于676年驱逐唐军，首次统一朝鲜半岛大部。统一新罗的都城庆州成为佛教文化的繁盛中心。",
+    "ja": "新羅は百済と高句麗を滅ぼし、676年に唐軍を駆逐して朝鮮半島の大部分を初めて統一した。統一新羅の都・慶州は仏教文化の中心として栄えた。"
+   }
+  },
+  {
+   "year": 685,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nine provinces and five secondary capitals",
+    "ko": "9주 5소경 체제 완비",
+    "zh": "九州五小京体制确立",
+    "ja": "九州五小京制の整備"
+   },
+   "description": {
+    "en": "King Sinmun, who also founded the national academy Gukhak in 682, completed Unified Silla's provincial system in 685, dividing the realm into nine provinces (ju) and five secondary capitals (sogyeong). The reforms strengthened royal power over the aristocracy and integrated former Baekje and Goguryeo lands.",
+    "ko": "682년 국학을 설치한 신문왕은 685년 전국을 9주로 나누고 5소경을 두는 지방 제도를 완성했다. 이 개혁으로 귀족에 대한 왕권이 강화되고 옛 백제·고구려 지역이 통합되었다.",
+    "zh": "曾于682年设立国学的神文王，于685年完成统一新罗的地方制度，将全国划分为九州并设五小京。改革强化了王权对贵族的控制，并整合了原百济、高句丽地区。",
+    "ja": "682年に国学を設けた神文王は、685年に全国を九州に分け五小京を置く地方制度を完成させた。この改革によって貴族に対する王権が強まり、旧百済・高句麗の地域が統合された。"
+   }
+  },
+  {
+   "year": 698,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Balhae",
+    "ko": "발해 건국",
+    "zh": "渤海国建立",
+    "ja": "渤海の建国"
+   },
+   "description": {
+    "en": "Dae Jo-yeong, a former Goguryeo general, founded the kingdom later known as Balhae in 698 in eastern Manchuria, ruling a population of Goguryeo descendants and Mohe peoples. Korean historiography treats the era as the 'North-South States period' alongside Unified Silla, while Chinese historiography regards Balhae as a regional regime of Tang; the interpretation remains contested.",
+    "ko": "고구려 장수 출신 대조영이 698년 만주 동부에서 훗날 발해로 불리는 나라를 세워 고구려 유민과 말갈인을 다스렸다. 한국 사학계는 통일신라와 발해가 병존한 시기를 '남북국 시대'로 보는 반면, 중국 사학계는 발해를 당의 지방 정권으로 보아 해석이 엇갈린다.",
+    "zh": "原高句丽将领大祚荣于698年在满洲东部建国，后称渤海，统治高句丽遗民和靺鞨人。韩国史学界将其与统一新罗并存的时期称为“南北国时代”，而中国史学界则视渤海为唐朝的地方政权，两种解释至今存在争议。",
+    "ja": "高句麗の将軍出身の大祚栄が698年に満洲東部で後に渤海と呼ばれる国を建て、高句麗遺民と靺鞨の人々を治めた。韓国の歴史学は統一新羅と並存したこの時期を「南北国時代」とみなす一方、中国の歴史学は渤海を唐の地方政権とみなしており、解釈は分かれている。"
+   }
+  },
+  {
+   "year": 751,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Bulguksa Temple and Seokguram Grotto built",
+    "ko": "불국사와 석굴암 창건",
+    "zh": "佛国寺与石窟庵的营建",
+    "ja": "仏国寺と石窟庵の創建"
+   },
+   "description": {
+    "en": "Construction of Bulguksa Temple and the Seokguram Grotto began in 751 near Gyeongju. Masterpieces of Silla Buddhist art, both were inscribed as UNESCO World Heritage sites in 1995.",
+    "ko": "751년 경주 인근에서 불국사와 석굴암 조성이 시작되었다. 통일신라 불교 예술의 정수로 꼽히며, 1995년 유네스코 세계유산으로 등재되었다.",
+    "zh": "751年，庆州附近开始修建佛国寺和石窟庵。二者堪称新罗佛教艺术的巅峰之作，1995年被列入联合国教科文组织世界遗产名录。",
+    "ja": "751年、慶州近郊で仏国寺と石窟庵の造営が始まった。新羅仏教芸術の粋とされ、1995年にユネスコ世界遺産に登録された。"
+   }
+  },
+  {
+   "year": 771,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Sacred Bell of King Seongdeok cast",
+    "ko": "성덕대왕신종 완성",
+    "zh": "圣德大王神钟铸成",
+    "ja": "聖徳大王神鐘の完成"
+   },
+   "description": {
+    "en": "The Sacred Bell of Great King Seongdeok, also called the Emille Bell, was completed in 771 under King Hyegong after decades of work. It is the largest surviving bronze bell in Korea and is admired for its resonant sound and flying-apsara reliefs; it is now kept at the Gyeongju National Museum.",
+    "ko": "에밀레종으로도 불리는 성덕대왕신종은 수십 년의 작업 끝에 771년 혜공왕 때 완성되었다. 현존하는 한국 최대의 범종으로, 웅장한 울림과 비천상 조각으로 이름 높으며 현재 국립경주박물관에 있다.",
+    "zh": "圣德大王神钟又称“爱弥丽钟”，历经数十年铸造，于771年惠恭王时期完成。它是韩国现存最大的铜钟，以浑厚的钟声和飞天浮雕著称，现藏于国立庆州博物馆。",
+    "ja": "エミレの鐘とも呼ばれる聖徳大王神鐘は、数十年の作業の末に771年、恵恭王の時代に完成した。現存する韓国最大の梵鐘で、豊かな響きと飛天の浮彫で知られ、現在は国立慶州博物館に所蔵されている。"
+   }
+  },
+  {
+   "year": 828,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Jang Bogo establishes Cheonghaejin",
+    "ko": "장보고의 청해진 설치",
+    "zh": "张保皋设立清海镇",
+    "ja": "張保皐の清海鎮設置"
+   },
+   "description": {
+    "en": "In 828 Jang Bogo, a Silla commoner who had risen in the Tang army, established the maritime garrison of Cheonghaejin on Wando island with royal permission to suppress piracy. He came to dominate trade between Silla, Tang China and Japan before being assassinated in the 840s amid court intrigues (sources differ on the exact year).",
+    "ko": "828년 당나라 군대에서 출세한 평민 출신 장보고는 왕의 허락을 받아 완도에 청해진을 설치하고 해적을 소탕했다. 그는 신라·당·일본을 잇는 해상 무역을 장악했으나 840년대에 중앙 정쟁에 휘말려 암살되었다(사료마다 연도가 다르다).",
+    "zh": "828年，在唐军中崛起的新罗平民张保皋经国王许可，在莞岛设立清海镇以剿灭海盗。他由此掌控新罗、唐朝与日本之间的海上贸易，但于840年代卷入宫廷斗争而遇刺身亡（史料所载年份不一）。",
+    "ja": "828年、唐の軍で出世した平民出身の張保皐は王の許可を得て莞島に清海鎮を設け、海賊を掃討した。彼は新羅・唐・日本を結ぶ海上交易を支配したが、840年代に中央の政争に巻き込まれ暗殺された（史料により年は異なる）。"
+   }
+  },
+  {
+   "year": 889,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Peasant revolts shake Silla",
+    "ko": "원종·애노의 난",
+    "zh": "元宗、哀奴之乱",
+    "ja": "元宗・哀奴の乱"
+   },
+   "description": {
+    "en": "In 889, when the court under Queen Jinseong pressed for overdue taxes, peasants led by Wonjong and Aeno rose up in Sangju, and revolts soon spread nationwide. Local strongmen (hojok) seized control of the provinces, ushering in the Later Three Kingdoms.",
+    "ko": "889년 진성여왕 대에 조정이 밀린 세금을 독촉하자 상주에서 원종과 애노가 이끄는 농민 봉기가 일어났고, 곧 전국으로 반란이 번졌다. 지방의 호족들이 각지를 장악하면서 후삼국 시대가 열렸다.",
+    "zh": "889年，真圣女王时期朝廷催缴拖欠的赋税，元宗、哀奴在尚州率领农民起义，叛乱随即蔓延全国。地方豪族割据各地，开启了后三国时代。",
+    "ja": "889年、真聖女王の時代に朝廷が滞った税を督促すると、尚州で元宗と哀奴が率いる農民反乱が起こり、反乱はたちまち全国に広がった。地方の豪族が各地を掌握し、後三国時代が幕を開けた。"
+   }
+  },
+  {
+   "year": 900,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Later Three Kingdoms emerge",
+    "ko": "후삼국의 성립",
+    "zh": "后三国形成",
+    "ja": "後三国の成立"
+   },
+   "description": {
+    "en": "Gyeon Hwon proclaimed Later Baekje at Wansanju (Jeonju) in 900, and in 901 Gung Ye proclaimed Later Goguryeo (later Taebong) in the central region. Silla shrank to the area around Gyeongju as the three states fought for supremacy.",
+    "ko": "900년 견훤이 완산주(전주)에서 후백제를 세웠고, 901년 궁예가 중부 지방에서 후고구려(뒤의 태봉)를 세웠다. 신라는 경주 일대로 축소되었고 세 나라가 패권을 다투었다.",
+    "zh": "900年甄萱在完山州（全州）建立后百济，901年弓裔在中部地区建立后高句丽（后改称泰封）。新罗缩至庆州一带，三国争霸。",
+    "ja": "900年に甄萱が完山州（全州）で後百済を建て、901年には弓裔が中部地方で後高句麗（のちの泰封）を建てた。新羅は慶州一帯に縮小し、三国が覇権を争った。"
+   }
+  },
+  {
+   "year": 918,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Goryeo dynasty founded",
+    "ko": "고려 건국",
+    "zh": "高丽王朝建立",
+    "ja": "高麗の建国"
+   },
+   "description": {
+    "en": "Wang Geon founded Goryeo in 918 and reunified the peninsula in 936. Goryeo gave Korea its Western name and produced celadon ceramics and the Tripitaka Koreana woodblocks.",
+    "ko": "918년 왕건이 고려를 세우고 936년 후삼국을 통일했다. '코리아'라는 이름의 유래가 된 고려는 고려청자와 팔만대장경 등 빛나는 문화유산을 남겼다.",
+    "zh": "918年，王建建立高丽，936年统一后三国。“Korea”一名即源自高丽；高丽青瓷与八万大藏经是其杰出的文化遗产。",
+    "ja": "918年、王建が高麗を建国し、936年に後三国を統一した。「コリア」の語源となった高麗は、高麗青磁や八万大蔵経など輝かしい文化遺産を残した。"
+   }
+  },
+  {
+   "year": 936,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Goryeo reunifies the peninsula",
+    "ko": "고려의 후삼국 통일",
+    "zh": "高丽统一后三国",
+    "ja": "高麗の後三国統一"
+   },
+   "description": {
+    "en": "After Silla's last king Gyeongsun surrendered peacefully in 935, Wang Geon defeated Later Baekje at the Battle of Illicheon in 936, aided by the defecting Gyeon Hwon. Goryeo thus reunified the peninsula and also welcomed refugees from Balhae, which had fallen to the Khitans in 926.",
+    "ko": "935년 신라의 마지막 왕 경순왕이 평화적으로 항복한 데 이어, 936년 왕건은 귀순한 견훤의 도움을 받아 일리천 전투에서 후백제를 무너뜨렸다. 이로써 고려는 후삼국을 통일했으며, 926년 거란에 멸망한 발해의 유민도 받아들였다.",
+    "zh": "935年新罗末代国王敬顺王和平归降，936年王建在投奔而来的甄萱协助下于一利川之战击败后百济。高丽由此统一后三国，并接纳了926年被契丹所灭的渤海遗民。",
+    "ja": "935年に新羅最後の王・敬順王が平和的に降伏し、936年には王建が帰順した甄萱の助けを得て一利川の戦いで後百済を滅ぼした。こうして高麗は後三国を統一し、926年に契丹に滅ぼされた渤海の遺民も受け入れた。"
+   }
+  },
+  {
+   "year": 958,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Civil service examinations introduced",
+    "ko": "과거제 실시",
+    "zh": "高丽实行科举制",
+    "ja": "科挙制の導入"
+   },
+   "description": {
+    "en": "On the advice of Shuang Ji, a naturalized scholar from Later Zhou, King Gwangjong introduced the state civil service examination (gwageo) in 958. Together with his earlier Slave Review Act, it curbed the power of the founding warlords and built a Confucian bureaucracy that lasted until 1894.",
+    "ko": "광종은 후주에서 귀화한 쌍기의 건의를 받아 958년 과거제를 실시했다. 앞서 시행한 노비안검법과 더불어 개국 공신과 호족의 세력을 억누르고, 1894년까지 이어진 유교적 관료 제도의 기틀을 마련했다.",
+    "zh": "光宗采纳后周归化文人双冀的建议，于958年实行科举制。此举与此前推行的奴婢按检法一道削弱了开国功臣与豪族的势力，奠定了一直延续到1894年的儒家官僚制度基础。",
+    "ja": "光宗は後周から帰化した双冀の進言により958年に科挙を実施した。先に施行した奴婢按検法と合わせて開国功臣や豪族の勢力を抑え、1894年まで続く儒教的官僚制度の基礎を築いた。"
+   }
+  },
+  {
+   "year": 993,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Seo Hui's diplomacy with the Khitans",
+    "ko": "서희의 외교 담판",
+    "zh": "徐熙谈判退契丹",
+    "ja": "徐熙の外交談判"
+   },
+   "description": {
+    "en": "When the Khitan Liao invaded Goryeo in 993, the minister Seo Hui negotiated with the Liao commander Xiao Sunning, persuading him to withdraw. Goryeo even gained the land east of the Yalu River, where it built the Six Garrisons, without fighting a major battle.",
+    "ko": "993년 거란(요)이 고려를 침입하자 서희는 적장 소손녕과 담판하여 거란군을 물러가게 했다. 고려는 큰 전투 없이 오히려 압록강 동쪽 땅을 확보하여 강동 6주를 설치했다.",
+    "zh": "993年契丹（辽）入侵高丽，大臣徐熙与辽军主将萧逊宁谈判，说服其撤军。高丽不仅未经大战，反而获得鸭绿江以东之地，设立了江东六州。",
+    "ja": "993年に契丹（遼）が高麗に侵入すると、徐熙は敵将・蕭遜寧と談判して契丹軍を撤退させた。高麗は大きな戦闘なしに鴨緑江東方の地を得て、江東六州を設置した。"
+   }
+  },
+  {
+   "year": 1011,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "First Tripitaka Koreana begun",
+    "ko": "초조대장경 조판 시작",
+    "zh": "初雕大藏经开雕",
+    "ja": "初雕大蔵経の彫造開始"
+   },
+   "description": {
+    "en": "After the second Khitan invasion burned the capital Gaegyeong in 1010-1011, Goryeo began carving the complete Buddhist canon on woodblocks, hoping for divine protection of the realm. Completed over several decades, this first edition was destroyed by the Mongols in 1232.",
+    "ko": "1010~1011년 거란의 2차 침입으로 개경이 불타자, 고려는 부처의 힘으로 나라를 지키고자 불교 경전 전체를 목판에 새기기 시작했다. 수십 년에 걸쳐 완성된 이 초조대장경은 1232년 몽골 침입 때 불타 버렸다.",
+    "zh": "1010至1011年契丹第二次入侵焚毁开京后，高丽为祈求佛力护国，开始将全部佛经雕刻于木版。这部历时数十年完成的初雕大藏经于1232年毁于蒙古入侵。",
+    "ja": "1010～1011年の契丹の第2次侵入で開京が焼かれると、高麗は仏の力で国を守ろうと仏典全体を版木に彫り始めた。数十年かけて完成したこの初雕大蔵経は、1232年のモンゴル侵攻で焼失した。"
+   }
+  },
+  {
+   "year": 1019,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Gwiju",
+    "ko": "귀주대첩",
+    "zh": "龟州大捷",
+    "ja": "亀州の戦い"
+   },
+   "description": {
+    "en": "In 1019, during the third Khitan invasion, the Goryeo commander Gang Gam-chan destroyed the retreating Liao army at Gwiju; only a few thousand of the invaders are said to have returned. The victory secured a lasting peace between Goryeo and Liao, and Goryeo later built a long defensive wall along its northern frontier.",
+    "ko": "1019년 거란의 3차 침입 때 강감찬이 귀주에서 퇴각하는 거란군을 섬멸하여, 살아 돌아간 적군은 수천 명에 불과했다고 한다. 이 승리로 고려와 요 사이에 오랜 평화가 이루어졌고, 고려는 이후 북쪽 국경에 천리장성을 쌓았다.",
+    "zh": "1019年契丹第三次入侵时，姜邯赞在龟州全歼撤退的辽军，据说生还者仅数千人。此役确保了高丽与辽之间的长期和平，高丽随后在北部边境修筑千里长城。",
+    "ja": "1019年、契丹の第3次侵入の際、姜邯賛は亀州で退却する契丹軍を殲滅し、生還した敵兵は数千人にすぎなかったという。この勝利で高麗と遼の間に長い平和が訪れ、高麗はその後北辺に千里長城を築いた。"
+   }
+  },
+  {
+   "year": 1107,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Yun Gwan's campaign against the Jurchens",
+    "ko": "윤관의 여진 정벌",
+    "zh": "尹瓘征讨女真",
+    "ja": "尹瓘の女真征伐"
+   },
+   "description": {
+    "en": "In 1107 Yun Gwan led a newly formed army, the Byeolmuban, against the Jurchens of the northeast and built nine fortresses in the conquered region. Unable to hold them against Jurchen pressure, Goryeo returned the land in 1109; the Jurchens soon founded the Jin dynasty.",
+    "ko": "1107년 윤관은 새로 편성한 별무반을 이끌고 동북쪽의 여진을 정벌하여 동북 9성을 쌓았다. 그러나 여진의 거듭된 공세로 방어가 어려워지자 1109년 그 땅을 돌려주었고, 여진은 곧 금나라를 세웠다.",
+    "zh": "1107年，尹瓘率领新组建的别武班征讨东北女真，筑起东北九城。但由于女真反复进攻难以固守，高丽于1109年归还其地，女真不久建立了金朝。",
+    "ja": "1107年、尹瓘は新たに編成した別武班を率いて北東の女真を討ち、東北九城を築いた。しかし女真の度重なる攻勢で防衛が難しくなり、1109年にその地を返還した。女真はまもなく金を建国した。"
+   }
+  },
+  {
+   "year": 1135,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Myocheong's rebellion",
+    "ko": "묘청의 서경 천도 운동",
+    "zh": "妙清之乱",
+    "ja": "妙清の乱"
+   },
+   "description": {
+    "en": "The monk Myocheong, urging the court to move the capital to Pyongyang (Seogyeong), proclaim an emperor and attack the Jin, rose in revolt in 1135. Kim Busik suppressed the rebellion in 1136, confirming the dominance of the Gaegyeong Confucian aristocracy.",
+    "ko": "승려 묘청은 서경(평양) 천도와 칭제건원, 금 정벌을 주장하다가 1135년 반란을 일으켰다. 1136년 김부식이 반란을 진압하면서 개경의 문벌 귀족 세력이 주도권을 굳혔다.",
+    "zh": "僧人妙清主张迁都西京（平壤）、称帝建元并北伐金朝，于1135年发动叛乱。1136年金富轼平定叛乱，开京门阀贵族的主导地位由此巩固。",
+    "ja": "僧・妙清は西京（平壌）への遷都、皇帝の称号と独自の年号の使用、金への出兵を主張し、1135年に反乱を起こした。1136年に金富軾が反乱を鎮圧し、開京の門閥貴族の主導権が固まった。"
+   }
+  },
+  {
+   "year": 1145,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Samguk sagi compiled",
+    "ko": "『삼국사기』 편찬",
+    "zh": "《三国史记》编成",
+    "ja": "『三国史記』の編纂"
+   },
+   "description": {
+    "en": "By royal command, Kim Busik and his team compiled the Samguk sagi (History of the Three Kingdoms) in 1145. Written in classical Chinese in the annals-biographies format, it is the oldest surviving Korean history and the principal source for Goguryeo, Baekje and Silla.",
+    "ko": "1145년 김부식 등이 왕명을 받아 『삼국사기』를 편찬했다. 기전체 한문으로 쓰인 이 책은 현존하는 가장 오래된 한국 역사서로, 고구려·백제·신라사의 기본 사료이다.",
+    "zh": "1145年，金富轼等奉王命编成《三国史记》。该书以汉文纪传体写成，是现存最古老的朝鲜史书，也是研究高句丽、百济和新罗历史的基本史料。",
+    "ja": "1145年、金富軾らが王命を受けて『三国史記』を編纂した。紀伝体の漢文で書かれたこの書は、現存最古の朝鮮の歴史書であり、高句麗・百済・新羅史の基本史料である。"
+   }
+  },
+  {
+   "year": 1170,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Military officials' coup",
+    "ko": "무신정변",
+    "zh": "武臣政变",
+    "ja": "武臣政変"
+   },
+   "description": {
+    "en": "Resentful of discrimination by civil officials, the generals Jeong Jung-bu and Yi Ui-bang staged a coup in 1170, massacring many civil officials and deposing King Uijong. It began a century of military rule, consolidated from 1196 under the Choe family, during which peasants and slaves also rose in revolts.",
+    "ko": "문신의 차별에 불만을 품은 정중부, 이의방 등 무신들이 1170년 정변을 일으켜 많은 문신을 살해하고 의종을 폐위했다. 이로써 약 100년간의 무신 정권이 시작되었고, 1196년 이후 최씨 정권이 권력을 굳혔으며 이 시기 농민과 천민의 봉기도 잇따랐다.",
+    "zh": "不满文臣歧视的武将郑仲夫、李义方等于1170年发动政变，杀害大批文臣并废黜毅宗。此后开始了约一百年的武臣统治，1196年起崔氏家族巩固了政权，其间农民和贱民起义此起彼伏。",
+    "ja": "文臣による差別に不満を抱いた鄭仲夫・李義方ら武臣が1170年に政変を起こし、多くの文臣を殺害して毅宗を廃位した。こうして約100年に及ぶ武臣政権が始まり、1196年以降は崔氏政権が権力を固め、この時期には農民や賤民の反乱も相次いだ。"
+   }
+  },
+  {
+   "year": 1231,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Mongol invasions of Goryeo begin",
+    "ko": "몽골의 고려 침입",
+    "zh": "蒙古入侵高丽",
+    "ja": "モンゴルの高麗侵攻"
+   },
+   "description": {
+    "en": "Beginning in 1231 the Mongols invaded Goryeo repeatedly over nearly three decades. The Choe military regime moved the court to Ganghwa Island in 1232 and resisted, while the mainland was ravaged and treasures such as the Hwangnyongsa pagoda were destroyed. Goryeo finally made peace in 1259.",
+    "ko": "1231년부터 약 30년 동안 몽골은 여러 차례 고려를 침입했다. 최씨 무신 정권은 1232년 강화도로 도읍을 옮겨 항전했으나, 본토는 크게 유린되었고 황룡사 구층 목탑 같은 문화재가 소실되었다. 고려는 결국 1259년 몽골과 강화했다.",
+    "zh": "自1231年起，蒙古在近三十年间多次入侵高丽。崔氏武臣政权于1232年迁都江华岛坚持抵抗，但本土惨遭蹂躏，皇龙寺九层木塔等文物被毁。高丽最终于1259年与蒙古议和。",
+    "ja": "1231年から約30年にわたり、モンゴルは繰り返し高麗に侵攻した。崔氏武臣政権は1232年に江華島へ都を移して抗戦したが、本土は大きく蹂躙され、皇龍寺九重木塔などの文化財が失われた。高麗は最終的に1259年にモンゴルと講和した。"
+   }
+  },
+  {
+   "year": 1251,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Tripitaka Koreana completed",
+    "ko": "팔만대장경 완성",
+    "zh": "八万大藏经完成",
+    "ja": "八万大蔵経の完成"
+   },
+   "description": {
+    "en": "To replace the canon burned by the Mongols and seek Buddha's protection, Goryeo carved a new edition of the Buddhist canon on more than 80,000 woodblocks between 1236 and 1251. Kept at Haeinsa Temple since the early Joseon period, the blocks are the most complete surviving woodblock canon and are on UNESCO's Memory of the World register.",
+    "ko": "몽골 침입으로 불탄 대장경을 대신하고 부처의 힘으로 나라를 지키고자, 고려는 1236년부터 1251년까지 8만여 장의 목판에 대장경을 새겼다. 조선 초부터 합천 해인사에 보관된 이 경판은 현존하는 가장 완전한 목판 대장경으로, 유네스코 세계기록유산에 등재되어 있다.",
+    "zh": "为替代被蒙古焚毁的大藏经并祈求佛力护国，高丽于1236年至1251年间将大藏经刻于八万余块木版上。这批经版自朝鲜初期起保存于陕川海印寺，是现存最完整的木版大藏经，已列入联合国教科文组织世界记忆名录。",
+    "ja": "モンゴルの侵攻で焼失した大蔵経に代え、仏の力で国を守るため、高麗は1236年から1251年にかけて8万枚余りの版木に大蔵経を彫った。朝鮮初期から陜川の海印寺に保管されているこの経板は、現存する最も完全な木版大蔵経で、ユネスコ世界の記憶に登録されている。"
+   }
+  },
+  {
+   "year": 1270,
+   "qid": "Q490792",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sambyeolcho Rebellion",
+    "ko": "삼별초 항쟁",
+    "zh": "三别抄抗争",
+    "ja": "三別抄の乱"
+   },
+   "description": {
+    "en": "When the Goryeo court returned to Gaegyeong in 1270 and accepted Mongol overlordship, the elite Sambyeolcho troops refused to submit. They continued resistance from Jindo and then Jeju Island until a Goryeo-Mongol force crushed them in 1273.",
+    "ko": "1270년 고려 조정이 개경으로 환도하여 몽골의 간섭을 받아들이자, 삼별초는 이에 반대하여 항쟁을 시작했다. 이들은 진도와 제주도를 거점으로 저항했으나 1273년 여몽 연합군에 진압되었다.",
+    "zh": "1270年高丽朝廷还都开京并接受蒙古的控制，精锐部队三别抄拒绝屈服，揭竿而起。他们先后以珍岛和济州岛为据点坚持抵抗，1273年被高丽与蒙古联军镇压。",
+    "ja": "1270年に高麗朝廷が開京に還都してモンゴルの支配を受け入れると、精鋭部隊の三別抄はこれに反対して蜂起した。彼らは珍島、続いて済州島を拠点に抵抗したが、1273年に高麗・モンゴル連合軍に鎮圧された。"
+   }
+  },
+  {
+   "year": 1274,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Mongol-Goryeo invasion of Japan",
+    "ko": "여몽 연합군의 일본 원정",
+    "zh": "元丽联军征日",
+    "ja": "元・高麗連合軍の日本遠征"
+   },
+   "description": {
+    "en": "Goryeo was compelled to build ships and supply troops for the Yuan invasions of Japan in 1274 and 1281. Both expeditions, launched from the south coast near today's Masan, failed amid Japanese resistance and storms, and imposed heavy burdens on Goryeo's people.",
+    "ko": "고려는 1274년과 1281년 원나라의 일본 원정에 배를 만들고 군사를 내야 했다. 오늘날의 마산 부근 남해안에서 출발한 두 차례 원정은 일본의 저항과 폭풍으로 실패했고, 고려 백성에게 큰 부담을 안겼다.",
+    "zh": "高丽被迫为1274年和1281年元朝两次征日造船出兵。两次远征都从今马山附近的南部海岸出发，在日本的抵抗和风暴中失败，给高丽百姓带来沉重负担。",
+    "ja": "高麗は1274年と1281年の元による日本遠征のために船を造り、兵を出さねばならなかった。現在の馬山付近の南海岸から出発した2度の遠征は、日本の抵抗と暴風によって失敗し、高麗の民に重い負担を強いた。"
+   }
+  },
+  {
+   "year": 1281,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Iryeon compiles the Samguk yusa",
+    "ko": "일연의 『삼국유사』 편찬",
+    "zh": "一然撰《三国遗事》",
+    "ja": "一然『三国遺事』の編纂"
+   },
+   "description": {
+    "en": "Around 1281 the Buddhist monk Iryeon compiled the Samguk yusa (Memorabilia of the Three Kingdoms), a collection of legends, Buddhist tales and folk songs. It preserves the earliest written account of the Dangun founding myth and many hyangga poems.",
+    "ko": "1281년 무렵 승려 일연은 설화와 불교 이야기, 향가 등을 모은 『삼국유사』를 편찬했다. 이 책에는 단군 건국 신화에 관한 가장 오래된 기록과 여러 편의 향가가 전한다.",
+    "zh": "约1281年，僧人一然编撰《三国遗事》，汇集传说、佛教故事和乡歌等。书中保存了关于檀君建国神话的最早文字记载以及多首乡歌。",
+    "ja": "1281年頃、僧・一然は説話や仏教の物語、郷歌などを集めた『三国遺事』を編纂した。この書には檀君の建国神話に関する最古の記録や多くの郷歌が伝えられている。"
+   }
+  },
+  {
+   "year": 1356,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "King Gongmin's anti-Yuan reforms",
+    "ko": "공민왕의 반원 개혁",
+    "zh": "恭愍王的反元改革",
+    "ja": "恭愍王の反元改革"
+   },
+   "description": {
+    "en": "As the Yuan dynasty weakened, King Gongmin purged the pro-Yuan Gi family in 1356, abolished the Yuan liaison office and recovered the northeastern territory held by the Yuan's Ssangseong commandery. His reforms restored Goryeo's independence but faced resistance from entrenched aristocrats and ended with his assassination in 1374.",
+    "ko": "원나라가 약해지자 공민왕은 1356년 친원 세력인 기씨 일족을 숙청하고 정동행성 이문소를 폐지했으며, 쌍성총관부를 공격해 동북 지역을 되찾았다. 그의 개혁은 고려의 자주성을 회복했으나 권문세족의 반발에 부딪혔고, 1374년 그가 시해되면서 끝났다.",
+    "zh": "元朝衰落之际，恭愍王于1356年清洗亲元的奇氏家族，撤销征东行省理问所，并攻取双城总管府收复东北地区。其改革恢复了高丽的自主，但遭到权门世族的抵制，随着他在1374年遇弑而告终。",
+    "ja": "元が弱体化すると、恭愍王は1356年に親元派の奇氏一族を粛清し、征東行省理問所を廃止し、双城総管府を攻めて北東部を取り戻した。その改革は高麗の自主性を回復させたが、権門世族の反発に遭い、1374年に彼が殺害されて終わった。"
+   }
+  },
+  {
+   "year": 1363,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Cotton introduced to Korea",
+    "ko": "문익점의 목화 전래",
+    "zh": "文益渐引入棉花",
+    "ja": "文益漸による木綿の伝来"
+   },
+   "description": {
+    "en": "The envoy Mun Ik-jeom brought cotton seeds back from Yuan China in 1363, and with his father-in-law Jeong Cheon-ik succeeded in cultivating them in Sancheong. Cotton cloth soon became the everyday fabric of Koreans and even a medium of exchange.",
+    "ko": "1363년 원나라에 사신으로 갔던 문익점이 목화씨를 가지고 돌아와 장인 정천익과 함께 산청에서 재배에 성공했다. 무명은 곧 백성의 일상 옷감이 되었고 화폐처럼 쓰이기도 했다.",
+    "zh": "1363年，出使元朝的文益渐带回棉花种子，与岳父郑天益在山清试种成功。棉布很快成为百姓的日常衣料，甚至被当作交换媒介使用。",
+    "ja": "1363年、元への使節であった文益漸が綿の種を持ち帰り、義父の鄭天益とともに山清で栽培に成功した。木綿はやがて民衆の日常の衣料となり、貨幣のようにも用いられた。"
+   }
+  },
+  {
+   "year": 1377,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Jikji printed with movable metal type",
+    "ko": "『직지』 금속활자 인쇄",
+    "zh": "金属活字印刷《直指》",
+    "ja": "金属活字による『直指』の印刷"
+   },
+   "description": {
+    "en": "In 1377 Heungdeoksa Temple in Cheongju printed the Buddhist text known as Jikji with movable metal type. It is the oldest extant book printed with movable metal type, predating Gutenberg's Bible by about 78 years. Its surviving volume is held by the National Library of France and it is on UNESCO's Memory of the World register.",
+    "ko": "1377년 청주 흥덕사에서 금속활자로 『백운화상초록불조직지심체요절』(직지)을 인쇄했다. 현존하는 세계에서 가장 오래된 금속활자본으로, 구텐베르크 성서보다 약 78년 앞선다. 남아 있는 하권은 프랑스 국립도서관에 소장되어 있으며 유네스코 세계기록유산에 등재되었다.",
+    "zh": "1377年，清州兴德寺以金属活字印制佛教典籍《白云和尚抄录佛祖直指心体要节》（简称《直指》）。这是现存世界上最古老的金属活字印本，比古腾堡圣经早约78年。现存下卷收藏于法国国家图书馆，已列入联合国教科文组织世界记忆名录。",
+    "ja": "1377年、清州の興徳寺で仏典『白雲和尚抄録仏祖直指心体要節』（直指）が金属活字で印刷された。現存する世界最古の金属活字本で、グーテンベルク聖書より約78年早い。現存する下巻はフランス国立図書館に所蔵され、ユネスコ世界の記憶に登録されている。"
+   }
+  },
+  {
+   "year": 1380,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Victories over Japanese pirates",
+    "ko": "진포·황산 대첩",
+    "zh": "镇浦、荒山大捷",
+    "ja": "鎮浦・荒山の戦い"
+   },
+   "description": {
+    "en": "Wokou (Japanese pirate) raids ravaged Goryeo's coasts in the late 14th century. In 1380 Choe Mu-seon used newly developed gunpowder cannons to burn a large pirate fleet at Jinpo, and Yi Seong-gye crushed the surviving raiders at Hwangsan in Namwon, greatly raising his prestige.",
+    "ko": "14세기 후반 왜구의 침략으로 고려 해안 지방은 큰 피해를 입었다. 1380년 최무선은 새로 개발한 화포로 진포에서 왜구의 대선단을 불태웠고, 이성계는 남원 황산에서 남은 왜구를 섬멸하여 명성을 크게 떨쳤다.",
+    "zh": "14世纪后期，倭寇侵扰使高丽沿海饱受蹂躏。1380年，崔茂宣以新研制的火炮在镇浦焚毁倭寇大船队，李成桂则在南原荒山歼灭残余倭寇，威名大振。",
+    "ja": "14世紀後半、倭寇の侵入で高麗の沿岸地方は大きな被害を受けた。1380年、崔茂宣は新たに開発した火砲で鎮浦の倭寇の大船団を焼き払い、李成桂は南原の荒山で残った倭寇を殲滅して名声を大いに高めた。"
+   }
+  },
+  {
+   "year": 1388,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Wihwado Retreat",
+    "ko": "위화도 회군",
+    "zh": "威化岛回军",
+    "ja": "威化島回軍"
+   },
+   "description": {
+    "en": "Ordered to attack Ming forces in Liaodong in 1388, General Yi Seong-gye turned his army back at Wihwado island in the Yalu River and seized power in Gaegyeong. He and reform-minded Neo-Confucian scholars carried out land reform and four years later founded the Joseon dynasty.",
+    "ko": "1388년 요동 정벌 명령을 받은 이성계는 압록강의 위화도에서 군대를 돌려 개경을 장악했다. 그는 신진 사대부와 함께 토지 개혁을 단행하고 4년 뒤 조선을 건국했다.",
+    "zh": "1388年，奉命进攻辽东明军的李成桂在鸭绿江威化岛回师，控制了开京。他与新兴士大夫一同推行土地改革，四年后建立朝鲜王朝。",
+    "ja": "1388年、遼東攻撃を命じられた李成桂は鴨緑江の威化島で軍を引き返し、開京を掌握した。彼は新進の士大夫とともに土地改革を断行し、4年後に朝鮮を建国した。"
+   }
+  },
+  {
+   "year": 1392,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Joseon dynasty founded",
+    "ko": "조선 건국",
+    "zh": "朝鲜王朝建立",
+    "ja": "朝鮮王朝の建国"
+   },
+   "description": {
+    "en": "General Yi Seong-gye founded Joseon in 1392 and moved the capital to Hanyang, today's Seoul. Grounded in Neo-Confucianism, the dynasty ruled Korea for more than 500 years.",
+    "ko": "1392년 이성계가 조선을 세우고 수도를 한양(오늘날의 서울)으로 옮겼다. 성리학을 통치 이념으로 삼은 조선 왕조는 500년 넘게 이어졌다.",
+    "zh": "1392年，李成桂建立朝鲜王朝，并迁都汉阳（今首尔）。以性理学为立国之本的朝鲜王朝延续五百余年。",
+    "ja": "1392年、李成桂が朝鮮王朝を開き、都を漢陽（現在のソウル）に移した。朱子学を統治理念とするこの王朝は500年以上続いた。"
+   }
+  },
+  {
+   "year": 1402,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Kangnido world map",
+    "ko": "혼일강리역대국도지도 제작",
+    "zh": "绘制《混一疆理历代国都之图》",
+    "ja": "混一疆理歴代国都之図の作製"
+   },
+   "description": {
+    "en": "In 1402 Joseon officials produced the Honil gangni yeokdae gukdo jido (Kangnido), a world map combining Chinese sources with Korean and Japanese data. Surviving copies show Africa, Europe and the Arabian Peninsula, making it one of the oldest East Asian world maps to depict them.",
+    "ko": "1402년 조선은 중국의 지도에 한국과 일본의 정보를 더해 「혼일강리역대국도지도」를 제작했다. 현존하는 사본에는 아프리카, 유럽, 아라비아반도까지 그려져 있어 이들을 묘사한 동아시아의 가장 오래된 세계 지도 가운데 하나로 꼽힌다.",
+    "zh": "1402年，朝鲜以中国地图为基础，补充朝鲜与日本的资料，绘制成《混一疆理历代国都之图》。现存摹本上绘有非洲、欧洲和阿拉伯半岛，是描绘这些地区的东亚最古老的世界地图之一。",
+    "ja": "1402年、朝鮮は中国の地図に朝鮮と日本の情報を加えて「混一疆理歴代国都之図」を作製した。現存する写本にはアフリカ、ヨーロッパ、アラビア半島まで描かれており、これらを描いた東アジア最古級の世界地図の一つである。"
+   }
+  },
+  {
+   "year": 1441,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Rain gauge and Sejong-era science",
+    "ko": "측우기 제작",
+    "zh": "测雨器的制作",
+    "ja": "測雨器の製作"
+   },
+   "description": {
+    "en": "King Sejong's reign saw a flowering of science, with scholars and engineers such as Jang Yeong-sil creating water clocks, sundials and astronomical instruments. In 1441 a standardized rain gauge (cheugugi) was made, and from the following year rainfall was measured systematically across the provinces.",
+    "ko": "세종 대에는 장영실 등 학자와 기술자들이 자격루, 앙부일구, 천문 기구를 만들며 과학이 크게 발달했다. 1441년 측우기가 제작되었고, 이듬해부터 전국에서 체계적으로 강우량을 측정했다.",
+    "zh": "世宗时期科学繁荣，蒋英实等学者和工匠制造了自击漏、仰釜日晷和各种天文仪器。1441年制成标准化的测雨器，次年起在全国各地系统地测量降雨量。",
+    "ja": "世宗の時代には蒋英実ら学者や技術者が自撃漏、仰釜日晷、天文観測器を作り、科学が大いに発達した。1441年には測雨器が作られ、翌年から全国で体系的に雨量が測定された。"
+   }
+  },
+  {
+   "year": 1446,
+   "qid": null,
+   "importance": 1,
+   "category": "culture",
+   "title": {
+    "en": "King Sejong promulgates Hangul",
+    "ko": "세종대왕, 훈민정음 반포",
+    "zh": "世宗大王颁布训民正音",
+    "ja": "世宗大王、訓民正音を頒布"
+   },
+   "description": {
+    "en": "In 1446 King Sejong the Great promulgated Hunminjeongeum, the Korean alphabet now called Hangul. Created so common people could read and write, it is celebrated as a landmark of linguistic science.",
+    "ko": "1446년 세종대왕이 훈민정음(한글)을 반포했다. 백성 누구나 글을 읽고 쓸 수 있도록 창제된 한글은 과학적 문자 체계의 정수로 평가받는다.",
+    "zh": "1446年，世宗大王颁布《训民正音》，即今日的韩文（谚文）。这种为使百姓皆能读写而创制的文字，被誉为语言学史上的杰作。",
+    "ja": "1446年、世宗大王が訓民正音（ハングル）を頒布した。民衆の誰もが読み書きできるよう創られたこの文字は、言語学史上の傑作と評価されている。"
+   }
+  },
+  {
+   "year": 1453,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Prince Suyang's coup",
+    "ko": "계유정난",
+    "zh": "癸酉靖难",
+    "ja": "癸酉靖難"
+   },
+   "description": {
+    "en": "In 1453 Prince Suyang killed the leading ministers serving his young nephew King Danjong, and in 1455 took the throne himself as King Sejo. Officials who plotted to restore Danjong were executed in 1456 and are remembered as the 'Six Martyred Ministers'.",
+    "ko": "1453년 수양대군은 어린 조카 단종을 보좌하던 김종서 등 대신들을 죽이고 권력을 장악했으며, 1455년 스스로 왕위에 올라 세조가 되었다. 1456년 단종 복위를 꾀한 신하들은 처형되어 '사육신'으로 기억된다.",
+    "zh": "1453年，首阳大君杀死辅佐年幼侄子端宗的金宗瑞等重臣，掌握大权，1455年自立为王，即世祖。1456年谋划端宗复位的大臣遭处决，被后世称为“死六臣”。",
+    "ja": "1453年、首陽大君は幼い甥の端宗を補佐していた金宗瑞らの重臣を殺して実権を握り、1455年に自ら王位に就いて世祖となった。1456年に端宗の復位を企てた臣下たちは処刑され、「死六臣」として記憶されている。"
+   }
+  },
+  {
+   "year": 1467,
+   "qid": "Q11266243",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Yi Si-ae's Rebellion",
+    "ko": "이시애의 난",
+    "zh": "李施爱之乱",
+    "ja": "李施愛の乱"
+   },
+   "description": {
+    "en": "In 1467 Yi Si-ae, a local magnate of Hamgyeong province, rebelled against King Sejo's centralizing policies, which had replaced northern local leaders with officials sent from the capital. Royal troops suppressed the revolt within months, strengthening central control of the northern frontier.",
+    "ko": "1467년 함경도의 토호 이시애가 중앙에서 파견한 관리로 지방 유력자를 대체하는 세조의 중앙 집권 정책에 반발하여 난을 일으켰다. 관군이 몇 달 만에 난을 진압하면서 북방에 대한 중앙의 통제가 강화되었다.",
+    "zh": "1467年，咸镜道土豪李施爱反对世祖以中央派遣官员取代地方豪强的集权政策，起兵叛乱。官军数月内平定叛乱，中央对北方边境的控制由此加强。",
+    "ja": "1467年、咸鏡道の土豪・李施愛は、地方の有力者を中央から派遣した官吏に置き換える世祖の中央集権政策に反発して反乱を起こした。官軍は数か月で反乱を鎮圧し、北方に対する中央の統制が強まった。"
+   }
+  },
+  {
+   "year": 1485,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Gyeongguk daejeon promulgated",
+    "ko": "『경국대전』 반포",
+    "zh": "颁布《经国大典》",
+    "ja": "『経国大典』の頒布"
+   },
+   "description": {
+    "en": "Begun under King Sejo and finalized under King Seongjong, the Gyeongguk daejeon (National Code) took effect in its definitive edition in 1485. Organized by the six ministries, it codified Joseon's administration and law and remained the basis of the state's legal order for centuries.",
+    "ko": "세조 때 편찬을 시작해 성종 때 완성된 『경국대전』은 1485년 최종본이 시행되었다. 6조 체제에 따라 조선의 통치 제도와 법을 집대성한 이 법전은 수백 년 동안 국가 법질서의 근간이 되었다.",
+    "zh": "《经国大典》始纂于世祖时期，成宗时期完成，其定本于1485年施行。该法典按六曹体例汇集了朝鲜的统治制度与法律，数百年间一直是国家法律秩序的基础。",
+    "ja": "世祖の時代に編纂が始まり成宗の時代に完成した『経国大典』は、1485年に最終版が施行された。六曹の体系に沿って朝鮮の統治制度と法を集大成したこの法典は、数百年にわたり国家の法秩序の根幹となった。"
+   }
+  },
+  {
+   "year": 1498,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First literati purge",
+    "ko": "무오사화",
+    "zh": "戊午士祸",
+    "ja": "戊午士禍"
+   },
+   "description": {
+    "en": "In 1498 King Yeonsangun, incited by entrenched meritorious officials, purged members of the Sarim scholar faction over a historian's draft deemed critical of King Sejo. It was the first of four literati purges (sahwa) in half a century; Yeonsangun's tyranny led to his overthrow in a coup in 1506.",
+    "ko": "1498년 연산군은 훈구파의 부추김을 받아, 세조를 비판했다고 여겨진 사초를 빌미로 사림파를 숙청했다. 이는 반세기 동안 이어진 네 차례 사화 가운데 첫 번째였으며, 연산군은 폭정 끝에 1506년 중종반정으로 쫓겨났다.",
+    "zh": "1498年，燕山君在勋旧派的煽动下，以一份被认为批评世祖的史草为借口清洗士林派。这是此后半个世纪中四次士祸中的第一次；燕山君因暴政于1506年被中宗反正推翻。",
+    "ja": "1498年、燕山君は勲旧派にそそのかされ、世祖を批判したとされる史草を口実に士林派を粛清した。これは半世紀に及ぶ4度の士禍の最初のものであり、燕山君は暴政の末、1506年の中宗反正で廃された。"
+   }
+  },
+  {
+   "year": 1543,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "First private Confucian academy",
+    "ko": "백운동 서원 건립",
+    "zh": "白云洞书院创建",
+    "ja": "白雲洞書院の創建"
+   },
+   "description": {
+    "en": "In 1543 the magistrate Ju Se-bung founded Baegundong Seowon in Punggi, the first seowon (private Confucian academy) in Korea. In 1550, at Yi Hwang's request, it received a royal charter as Sosu Seowon; seowon became bases of the Sarim scholars and of local politics.",
+    "ko": "1543년 풍기 군수 주세붕이 한국 최초의 서원인 백운동 서원을 세웠다. 1550년 이황의 건의로 '소수서원'이라는 사액을 받았으며, 이후 서원은 사림의 근거지이자 지방 정치의 중심이 되었다.",
+    "zh": "1543年，丰基郡守周世鹏创建白云洞书院，这是朝鲜第一所书院。1550年经李滉奏请，获赐“绍修书院”匾额。此后书院成为士林的据点和地方政治的中心。",
+    "ja": "1543年、豊基郡守の周世鵬が朝鮮初の書院である白雲洞書院を建てた。1550年には李滉の建議で「紹修書院」の扁額を賜り、以後書院は士林の拠点、地方政治の中心となった。"
+   }
+  },
+  {
+   "year": 1575,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Factional split into Easterners and Westerners",
+    "ko": "동인과 서인의 분당",
+    "zh": "东人与西人的分党",
+    "ja": "東人・西人の分党"
+   },
+   "description": {
+    "en": "In 1575 a dispute over appointments to a key personnel post split the dominant Sarim officials into the Easterner and Westerner factions. Factional politics (bungdang) would shape Joseon governance for the next three centuries.",
+    "ko": "1575년 이조 전랑 자리를 둘러싼 대립으로 사림이 동인과 서인으로 나뉘었다. 이후 붕당 정치는 300년 가까이 조선 정치를 좌우했다.",
+    "zh": "1575年，围绕吏曹铨郎一职的争执使士林分裂为东人和西人两派。此后的朋党政治在近三百年间左右着朝鲜政局。",
+    "ja": "1575年、吏曹銓郎の職をめぐる対立から士林が東人と西人に分かれた。以後、朋党政治は300年近く朝鮮の政治を左右した。"
+   }
+  },
+  {
+   "year": 1592,
+   "qid": "Q487332",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Hansan Island",
+    "ko": "한산도 대첩",
+    "zh": "闲山岛大捷",
+    "ja": "閑山島海戦"
+   },
+   "description": {
+    "en": "On 14 August 1592 Admiral Yi Sun-sin lured a Japanese fleet into open water off Hansan Island and destroyed it using a 'crane-wing' formation. The victory gave Joseon control of the southern sea lanes and disrupted Japan's plans to supply its armies by sea.",
+    "ko": "1592년 7월(음력) 이순신은 한산도 앞바다로 일본 수군을 유인한 뒤 학익진으로 크게 무찔렀다. 이 승리로 조선 수군은 남해의 제해권을 장악하고 일본군의 해상 보급 계획을 좌절시켰다.",
+    "zh": "1592年（农历7月），李舜臣将日本水军诱至闲山岛外海，以鹤翼阵大破敌军。此役使朝鲜水军掌握了南海制海权，粉碎了日军经海路补给的计划。",
+    "ja": "1592年（陰暦7月）、李舜臣は日本水軍を閑山島沖へ誘い出し、鶴翼の陣で大破した。この勝利で朝鮮水軍は南海の制海権を握り、日本軍の海上補給計画を挫いた。"
+   }
+  },
+  {
+   "year": 1592,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Imjin War: Japanese invasions repelled",
+    "ko": "임진왜란",
+    "zh": "壬辰倭乱",
+    "ja": "壬辰倭乱（文禄・慶長の役）"
+   },
+   "description": {
+    "en": "Toyotomi Hideyoshi's armies invaded Korea in 1592. Admiral Yi Sun-sin's naval victories with turtle ships, civilian militias and Ming aid drove the invaders out by 1598, though the land was devastated.",
+    "ko": "1592년 도요토미 히데요시의 일본군이 조선을 침공했다. 이순신 장군의 수군과 거북선, 의병의 항전과 명나라의 지원으로 1598년 일본군을 물리쳤으나 국토는 큰 피해를 입었다.",
+    "zh": "1592年，丰臣秀吉的军队入侵朝鲜。李舜臣将军率水军凭借龟船屡战屡胜，加上义兵抗战和明朝援军，至1598年击退日军，但国土惨遭蹂躏。",
+    "ja": "1592年、豊臣秀吉の軍が朝鮮に侵攻した。李舜臣将軍の水軍と亀甲船の活躍、義兵の抵抗、明の援軍により1598年に日本軍は撤退したが、国土は大きく荒廃した。"
+   }
+  },
+  {
+   "year": 1593,
+   "qid": "Q279611",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siege of Haengju",
+    "ko": "행주 대첩",
+    "zh": "幸州大捷",
+    "ja": "幸州山城の戦い"
+   },
+   "description": {
+    "en": "In early 1593 General Gwon Yul's outnumbered garrison at Haengju fortress near Seoul repulsed repeated assaults by a large Japanese army. The victory contributed to Japan's withdrawal from Seoul that spring.",
+    "ko": "1593년 초 권율 장군이 이끄는 소수의 조선군은 서울 근교 행주산성에서 일본 대군의 거듭된 공격을 물리쳤다. 이 승리는 그해 봄 일본군이 한양에서 철수하는 데 영향을 주었다.",
+    "zh": "1593年初，权栗将军率领的少数朝鲜军队在汉城近郊的幸州山城击退了日本大军的多次进攻。此役促使日军于当年春天撤出汉城。",
+    "ja": "1593年初め、権慄将軍率いる少数の朝鮮軍は、漢城近郊の幸州山城で日本の大軍の度重なる攻撃を退けた。この勝利は、その春の日本軍の漢城撤退につながった。"
+   }
+  },
+  {
+   "year": 1597,
+   "qid": "Q385677",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Myeongnyang",
+    "ko": "명량 해전",
+    "zh": "鸣梁海战",
+    "ja": "鳴梁海戦"
+   },
+   "description": {
+    "en": "After the Joseon navy was nearly annihilated at Chilcheollyang in 1597 during the second Japanese invasion, the reinstated Admiral Yi Sun-sin, with only about a dozen ships, defeated a far larger Japanese fleet in the strong currents of the Myeongnyang Strait. The victory halted the Japanese advance by sea.",
+    "ko": "1597년 정유재란 때 칠천량 해전에서 조선 수군이 거의 궤멸된 뒤, 다시 기용된 이순신은 13척 안팎의 배로 명량 해협의 거센 물살을 이용해 훨씬 많은 일본 함대를 물리쳤다. 이 승리로 일본군의 해상 진격이 저지되었다.",
+    "zh": "1597年丁酉再乱期间，朝鲜水军在漆川梁海战中几乎全军覆没。复职的李舜臣仅凭十余艘战船，利用鸣梁海峡的急流击败了数量远超己方的日本舰队，遏止了日军的海上攻势。",
+    "ja": "1597年の慶長の役（丁酉再乱）で朝鮮水軍が漆川梁海戦でほぼ壊滅した後、再起用された李舜臣はわずか十数隻の船で鳴梁海峡の激流を利用し、はるかに大きな日本艦隊を破った。この勝利で日本軍の海上からの進撃は阻止された。"
+   }
+  },
+  {
+   "year": 1598,
+   "qid": "Q484271",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Noryang and death of Yi Sun-sin",
+    "ko": "노량 해전과 이순신의 전사",
+    "zh": "露梁海战与李舜臣阵亡",
+    "ja": "露梁海戦と李舜臣の戦死"
+   },
+   "description": {
+    "en": "After Toyotomi Hideyoshi's death, Japanese forces began withdrawing from Korea. In December 1598 a combined Joseon-Ming fleet attacked them at the Noryang Strait; Admiral Yi Sun-sin was killed by a bullet in the battle, which was the last major engagement of the war.",
+    "ko": "도요토미 히데요시가 죽자 일본군은 조선에서 철수하기 시작했다. 1598년 11월(음력) 조명 연합 수군이 노량 해협에서 퇴각하는 일본 함대를 공격했으며, 이순신은 이 전쟁의 마지막 대규모 전투에서 총탄을 맞고 전사했다.",
+    "zh": "丰臣秀吉死后，日军开始撤离朝鲜。1598年（农历11月），朝明联合水军在露梁海峡截击撤退的日本舰队，李舜臣在这场战争的最后一场大战中中弹阵亡。",
+    "ja": "豊臣秀吉の死後、日本軍は朝鮮からの撤退を始めた。1598年（陰暦11月）、朝鮮・明の連合水軍が露梁海峡で退却する日本艦隊を攻撃し、李舜臣はこの戦争最後の大規模な戦いで銃弾に倒れた。"
+   }
+  },
+  {
+   "year": 1608,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Daedong tax law introduced",
+    "ko": "대동법 시행",
+    "zh": "实行大同法",
+    "ja": "大同法の施行"
+   },
+   "description": {
+    "en": "In 1608 the Daedong law was first applied in Gyeonggi province, replacing the burdensome tribute of local products with a tax paid in rice, cloth or coin based on land. Extended nationwide over the following century, it stimulated commerce and the rise of licensed merchants.",
+    "ko": "1608년 경기도에서 처음 시행된 대동법은 백성에게 큰 부담이던 공납을 토지 면적에 따라 쌀·포목·동전으로 내는 세금으로 바꾸었다. 이후 약 100년에 걸쳐 전국으로 확대되었으며 상업과 공인의 성장을 촉진했다.",
+    "zh": "大同法于1608年首先在京畿道实施，将给百姓带来沉重负担的土贡改为按田地面积以米、布或钱缴纳的赋税。此后约一百年间推广至全国，促进了商业和贡人阶层的发展。",
+    "ja": "1608年に京畿道で初めて施行された大同法は、民の大きな負担であった貢納を、土地の広さに応じて米・布・銭で納める税に改めた。その後約100年をかけて全国に拡大され、商業と貢人の成長を促した。"
+   }
+  },
+  {
+   "year": 1610,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Heo Jun completes the Dongui bogam",
+    "ko": "허준의 『동의보감』 완성",
+    "zh": "许浚完成《东医宝鉴》",
+    "ja": "許浚『東医宝鑑』の完成"
+   },
+   "description": {
+    "en": "The royal physician Heo Jun completed the Dongui bogam (Treasured Mirror of Eastern Medicine) in 1610, and it was printed in 1613. A comprehensive encyclopedia of East Asian medicine, it was widely used in China and Japan and is on UNESCO's Memory of the World register.",
+    "ko": "어의 허준은 1610년 『동의보감』을 완성했고, 이 책은 1613년 간행되었다. 동아시아 의학을 집대성한 백과사전으로 중국과 일본에서도 널리 읽혔으며, 유네스코 세계기록유산에 등재되었다.",
+    "zh": "御医许浚于1610年完成《东医宝鉴》，并于1613年刊行。这部集东亚医学之大成的百科全书在中国和日本也广为流传，已列入联合国教科文组织世界记忆名录。",
+    "ja": "御医の許浚は1610年に『東医宝鑑』を完成させ、1613年に刊行された。東アジア医学を集大成した百科事典として中国や日本でも広く読まれ、ユネスコ世界の記憶に登録されている。"
+   }
+  },
+  {
+   "year": 1636,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Second Manchu invasion",
+    "ko": "병자호란",
+    "zh": "丙子胡乱",
+    "ja": "丙子胡乱"
+   },
+   "description": {
+    "en": "After an earlier invasion in 1627, the newly proclaimed Qing emperor Hong Taiji invaded Joseon in late 1636 when it refused to recognize Qing suzerainty. King Injo held out in Namhansanseong fortress but surrendered at Samjeondo in early 1637, breaking ties with the Ming; crown princes and many captives were taken to Shenyang.",
+    "ko": "1627년 정묘호란에 이어, 청의 황제 홍타이지는 조선이 군신 관계를 거부하자 1636년 말 다시 침입했다. 인조는 남한산성에서 항전했으나 1637년 초 삼전도에서 항복하고 명과의 관계를 끊었으며, 세자들과 많은 백성이 심양으로 끌려갔다.",
+    "zh": "继1627年丁卯胡乱之后，清太宗皇太极因朝鲜拒绝称臣，于1636年底再度入侵。仁祖在南汉山城坚守，但于1637年初在三田渡投降，断绝与明朝的关系；世子等王子和大批百姓被掳往沈阳。",
+    "ja": "1627年の丁卯胡乱に続き、清のホンタイジは朝鮮が君臣関係を拒むと1636年末に再び侵攻した。仁祖は南漢山城で抗戦したが、1637年初めに三田渡で降伏して明との関係を断ち、世子らと多くの民が瀋陽へ連行された。"
+   }
+  },
+  {
+   "year": 1653,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Hendrick Hamel shipwrecked on Jeju",
+    "ko": "하멜 일행의 제주 표착",
+    "zh": "哈梅尔漂流至济州岛",
+    "ja": "ハメルの済州島漂着"
+   },
+   "description": {
+    "en": "In 1653 the Dutch East India Company ship De Sperwer was wrecked off Jeju Island, and its surviving crew, including Hendrick Hamel, were detained in Joseon for thirteen years. After escaping to Japan in 1666, Hamel wrote the first detailed European account of Korea.",
+    "ko": "1653년 네덜란드 동인도회사의 배 스페르베르호가 제주도 앞바다에서 난파했고, 하멜을 비롯한 생존 선원들은 13년간 조선에 억류되었다. 1666년 일본으로 탈출한 하멜은 유럽에 조선을 자세히 소개한 최초의 기록을 남겼다.",
+    "zh": "1653年，荷兰东印度公司的“雀鹰号”在济州岛海域失事，包括哈梅尔在内的幸存船员被扣留在朝鲜长达十三年。1666年逃往日本后，哈梅尔写下了欧洲第一部详细介绍朝鲜的记录。",
+    "ja": "1653年、オランダ東インド会社の船デ・スペルウェール号が済州島沖で難破し、ハメルら生存船員は13年間朝鮮に抑留された。1666年に日本へ脱出したハメルは、朝鮮を詳しくヨーロッパに紹介した最初の記録を残した。"
+   }
+  },
+  {
+   "year": 1678,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Sangpyeong tongbo coinage",
+    "ko": "상평통보 주조",
+    "zh": "铸造常平通宝",
+    "ja": "常平通宝の鋳造"
+   },
+   "description": {
+    "en": "In 1678, under King Sukjong, the government began minting the Sangpyeong tongbo copper coin for nationwide circulation. It became Joseon's standard currency for some two centuries, reflecting the growth of markets and a money economy after the wars.",
+    "ko": "1678년 숙종 때 조정은 상평통보를 주조하여 전국에 유통시켰다. 상평통보는 약 200년 동안 조선의 대표 화폐로 쓰였으며, 전란 이후 성장한 시장과 화폐 경제를 보여 준다.",
+    "zh": "1678年肃宗时期，朝廷铸造常平通宝并在全国流通。此后约两百年间，常平通宝一直是朝鲜的主要货币，反映了战后市场与货币经济的发展。",
+    "ja": "1678年、粛宗の時代に朝廷は常平通宝を鋳造して全国に流通させた。常平通宝は約200年にわたり朝鮮の代表的な貨幣として用いられ、戦乱後の市場と貨幣経済の成長を示している。"
+   }
+  },
+  {
+   "year": 1750,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Equalized Tax Law (Gyunyeokbeop)",
+    "ko": "균역법 시행",
+    "zh": "实行均役法",
+    "ja": "均役法の施行"
+   },
+   "description": {
+    "en": "King Yeongjo, known for his Tangpyeong policy of balancing the factions, enacted the Gyunyeokbeop in 1750, halving the military cloth tax paid by commoners from two bolts to one. The shortfall was made up through levies on fisheries, salt and other sources.",
+    "ko": "탕평책으로 붕당 간 균형을 꾀한 영조는 1750년 균역법을 시행하여 양인이 내던 군포를 2필에서 1필로 줄였다. 부족한 재정은 어장세·염세 등으로 보충했다.",
+    "zh": "以荡平策调和党争著称的英祖于1750年实行均役法，将良人缴纳的军布由两匹减为一匹，财政缺口则以渔税、盐税等补足。",
+    "ja": "蕩平策で党派間の均衡を図った英祖は、1750年に均役法を施行し、良人が納める軍布を2疋から1疋に減らした。不足分は漁場税・塩税などで補った。"
+   }
+  },
+  {
+   "year": 1762,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Crown Prince Sado",
+    "ko": "사도세자의 죽음(임오화변)",
+    "zh": "思悼世子之死（壬午祸变）",
+    "ja": "思悼世子の死（壬午禍変）"
+   },
+   "description": {
+    "en": "In 1762 King Yeongjo ordered his son, Crown Prince Sado, to be confined in a rice chest, where he died after eight days. The tragedy, recorded in the memoirs of his wife Lady Hyegyeong, shaped the reign of Sado's son, King Jeongjo.",
+    "ko": "1762년 영조는 아들 사도세자를 뒤주에 가두었고, 세자는 8일 만에 숨졌다. 세자빈 혜경궁 홍씨의 『한중록』에 기록된 이 비극은 사도세자의 아들 정조의 치세에 깊은 영향을 미쳤다.",
+    "zh": "1762年，英祖下令将儿子思悼世子关进米柜，世子八天后死去。这场由世子嫔惠庆宫洪氏在《恨中录》中记载的悲剧，深刻影响了思悼世子之子正祖的统治。",
+    "ja": "1762年、英祖は息子の思悼世子を米びつに閉じ込め、世子は8日後に亡くなった。世子嬪・恵慶宮洪氏の『恨中録』に記されたこの悲劇は、思悼世子の子である正祖の治世に深い影響を与えた。"
+   }
+  },
+  {
+   "year": 1776,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Jeongjo founds the Kyujanggak",
+    "ko": "정조의 규장각 설치",
+    "zh": "正祖设立奎章阁",
+    "ja": "正祖の奎章閣設置"
+   },
+   "description": {
+    "en": "Upon his accession in 1776 King Jeongjo established the Kyujanggak, a royal library and research institute that nurtured talented scholars, including those of illegitimate birth. His reign marked the high point of Joseon's late cultural renaissance and of practical learning (Silhak).",
+    "ko": "1776년 즉위한 정조는 왕실 도서관이자 학술 연구 기관인 규장각을 설치하여 서얼 출신을 포함한 유능한 학자들을 길렀다. 그의 치세는 조선 후기 문예 부흥과 실학의 절정기로 꼽힌다.",
+    "zh": "1776年即位的正祖设立奎章阁，作为王室图书馆和学术研究机构，培养包括庶孽出身者在内的优秀学者。其统治时期被视为朝鲜后期文艺复兴与实学的鼎盛期。",
+    "ja": "1776年に即位した正祖は、王室図書館であり学術研究機関でもある奎章閣を設け、庶子出身者を含む有能な学者を育てた。その治世は朝鮮後期の文芸復興と実学の最盛期とされる。"
+   }
+  },
+  {
+   "year": 1796,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Hwaseong Fortress completed",
+    "ko": "수원 화성 완공",
+    "zh": "水原华城竣工",
+    "ja": "水原華城の完成"
+   },
+   "description": {
+    "en": "Built in 1794-1796 at Suwon by order of King Jeongjo, Hwaseong Fortress combined Eastern and Western techniques; the scholar Jeong Yak-yong designed a crane used in its construction. A detailed construction report preserved the plans, enabling its restoration after the Korean War, and it is a UNESCO World Heritage site.",
+    "ko": "정조의 명으로 1794~1796년 수원에 세워진 화성은 동서양의 축성 기술을 결합한 성곽으로, 정약용이 고안한 거중기가 공사에 쓰였다. 공사 과정을 상세히 기록한 『화성성역의궤』 덕분에 6·25 전쟁 뒤 복원될 수 있었으며, 유네스코 세계유산으로 등재되었다.",
+    "zh": "华城由正祖下令于1794年至1796年在水原修建，融合了东西方筑城技术，丁若镛设计的举重机被用于施工。详细记录工程的《华城城役仪轨》使其在朝鲜战争后得以修复，现为联合国教科文组织世界遗产。",
+    "ja": "正祖の命で1794～1796年に水原に築かれた華城は東西の築城技術を融合した城郭で、丁若鏞が考案した挙重機が工事に用いられた。工事を詳細に記録した『華城城役儀軌』のおかげで朝鮮戦争後に復元することができ、ユネスコ世界遺産に登録されている。"
+   }
+  },
+  {
+   "year": 1801,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Sinyu persecution of Catholics",
+    "ko": "신유박해",
+    "zh": "辛酉迫害",
+    "ja": "辛酉迫害"
+   },
+   "description": {
+    "en": "Catholicism, introduced through books from China and a community founded after Yi Seung-hun's baptism in Beijing in 1784, was harshly suppressed in 1801. Hundreds were executed or exiled, including the Chinese priest Zhou Wenmo; Jeong Yak-yong was exiled for 18 years, during which he wrote major works of practical learning.",
+    "ko": "중국에서 들어온 서적과 1784년 이승훈이 베이징에서 세례를 받고 돌아온 뒤 형성된 천주교 공동체는 1801년 가혹한 탄압을 받았다. 중국인 신부 주문모를 비롯해 수백 명이 처형되거나 유배되었으며, 정약용은 18년간 유배 생활을 하며 실학의 주요 저술을 남겼다.",
+    "zh": "天主教通过中国传入的书籍以及李承薰1784年在北京受洗回国后形成的信众团体在朝鲜传播，1801年遭到残酷镇压。包括中国神父周文谟在内的数百人被处决或流放；丁若镛被流放18年，其间写下了实学的重要著作。",
+    "ja": "中国から伝わった書物と、1784年に李承薫が北京で洗礼を受けて帰国した後に形成された共同体を通じて広まった天主教は、1801年に苛烈な弾圧を受けた。中国人神父・周文謨をはじめ数百人が処刑または流刑となり、丁若鏞は18年間の流配生活の中で実学の主要な著作を残した。"
+   }
+  },
+  {
+   "year": 1811,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Hong Gyeong-rae's Rebellion",
+    "ko": "홍경래의 난",
+    "zh": "洪景来起义",
+    "ja": "洪景来の乱"
+   },
+   "description": {
+    "en": "In 1811 Hong Gyeong-rae led a revolt in Pyeongan province against discrimination toward northerners and the corruption of the in-law dynasty politics (sedo jeongchi). The rebels held Jeongju fortress until it was taken in 1812, but the uprising foreshadowed the wave of peasant revolts of the 19th century.",
+    "ko": "1811년 홍경래는 서북 지역민에 대한 차별과 세도 정치의 부패에 맞서 평안도에서 봉기했다. 반란군은 1812년 정주성이 함락될 때까지 버텼으며, 이 봉기는 19세기 잇따른 민란의 전조가 되었다.",
+    "zh": "1811年，洪景来在平安道起兵，反抗朝廷对西北地区百姓的歧视和势道政治的腐败。起义军坚守定州城直至1812年城破，这次起义预示了19世纪此起彼伏的民变。",
+    "ja": "1811年、洪景来は西北地方の住民への差別と勢道政治の腐敗に抗して平安道で蜂起した。反乱軍は1812年に定州城が陥落するまで持ちこたえ、この蜂起は19世紀に続発する民乱の前触れとなった。"
+   }
+  },
+  {
+   "year": 1860,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Choe Je-u founds Donghak",
+    "ko": "최제우의 동학 창시",
+    "zh": "崔济愚创立东学",
+    "ja": "崔済愚の東学創始"
+   },
+   "description": {
+    "en": "In 1860 Choe Je-u, from Gyeongju, founded Donghak ('Eastern Learning'), a religion blending Confucian, Buddhist, Taoist and folk beliefs with the idea of the equality of all people, in opposition to Western Learning (Catholicism). He was executed in 1864, but Donghak spread widely among peasants and later became Cheondogyo.",
+    "ko": "1860년 경주 출신 최제우는 서학(천주교)에 맞서 유·불·선과 민간 신앙을 아우르고 인간 평등을 내세운 동학을 창시했다. 그는 1864년 처형되었으나 동학은 농민 사이에 널리 퍼졌고 훗날 천도교로 이어졌다.",
+    "zh": "1860年，庆州人崔济愚为对抗西学（天主教）创立东学，融合儒、佛、道和民间信仰，并倡导人人平等。他于1864年被处决，但东学在农民中广泛传播，后来发展为天道教。",
+    "ja": "1860年、慶州出身の崔済愚は西学（天主教）に対抗し、儒・仏・道と民間信仰を融合して人間の平等を説く東学を創始した。彼は1864年に処刑されたが、東学は農民の間に広く浸透し、のちに天道教となった。"
+   }
+  },
+  {
+   "year": 1861,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Kim Jeong-ho's Daedong yeojido",
+    "ko": "김정호의 대동여지도",
+    "zh": "金正浩绘制《大东舆地图》",
+    "ja": "金正浩の大東輿地図"
+   },
+   "description": {
+    "en": "In 1861 the cartographer Kim Jeong-ho published the Daedong yeojido, a large woodblock-printed map of Korea in 22 folding sections. Remarkably accurate for its time, it depicted mountains, rivers, roads and distances and remains a landmark of Korean cartography.",
+    "ko": "1861년 지리학자 김정호는 22첩으로 접히는 대형 목판 지도인 「대동여지도」를 간행했다. 산줄기, 물길, 도로와 거리를 당시로서는 놀라울 만큼 정확하게 표현한 이 지도는 한국 지도학의 금자탑으로 평가된다.",
+    "zh": "1861年，地理学家金正浩刊行《大东舆地图》，这是一部可折叠成22帖的大型木版朝鲜全图。它以当时罕见的精度描绘了山脉、水系、道路和里程，被誉为朝鲜地图学的丰碑。",
+    "ja": "1861年、地理学者の金正浩は22帖に折りたためる大型の木版地図「大東輿地図」を刊行した。山脈、水系、道路と距離を当時としては驚くほど正確に表したこの地図は、朝鮮の地図学の金字塔とされる。"
+   }
+  },
+  {
+   "year": 1862,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Imsul peasant uprisings",
+    "ko": "임술 농민 봉기",
+    "zh": "壬戌民乱",
+    "ja": "壬戌民乱"
+   },
+   "description": {
+    "en": "Provoked by the extortions of local officials, peasants rose up in Jinju in early 1862, and revolts spread to over seventy districts, mostly in the southern provinces. The government promised reforms of the tax system, but the underlying abuses persisted.",
+    "ko": "1862년 초 지방관과 향리의 수탈에 분노한 진주 농민들이 봉기했고, 봉기는 삼남 지방을 중심으로 70여 개 고을로 퍼졌다. 조정은 삼정의 개혁을 약속했으나 근본적인 폐단은 계속되었다.",
+    "zh": "1862年初，不堪地方官吏盘剥的晋州农民揭竿而起，起义迅速蔓延至以南部三道为主的七十余个郡县。朝廷承诺改革“三政”，但根本弊端依旧存在。",
+    "ja": "1862年初め、地方官や郷吏の収奪に憤った晋州の農民が蜂起し、蜂起は南部三道を中心に70余りの郡県に広がった。朝廷は三政の改革を約束したが、根本的な弊害は続いた。"
+   }
+  },
+  {
+   "year": 1866,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "French campaign against Korea",
+    "ko": "병인양요",
+    "zh": "丙寅洋扰",
+    "ja": "丙寅洋擾"
+   },
+   "description": {
+    "en": "After the regent Heungseon Daewongun executed French missionaries and thousands of Korean Catholics in the Byeongin persecution, a French naval expedition attacked Ganghwa Island in late 1866. Repulsed at Munsusanseong and Jeongjoksanseong, the French withdrew, looting royal archives (Oegyujanggak uigwe) that were only returned on long-term loan in 2011.",
+    "ko": "흥선대원군이 병인박해로 프랑스 선교사와 수많은 천주교도를 처형하자, 1866년 말 프랑스 함대가 강화도를 침공했다. 문수산성과 정족산성에서 패한 프랑스군은 물러가면서 외규장각 의궤를 약탈했으며, 이 의궤는 2011년에야 영구 대여 형식으로 돌아왔다.",
+    "zh": "摄政兴宣大院君在丙寅迫害中处决法国传教士和大批朝鲜天主教徒，1866年底法国舰队进犯江华岛。法军在文殊山城和鼎足山城受挫后撤退，并掠走外奎章阁仪轨；这批仪轨直到2011年才以长期租借形式归还。",
+    "ja": "興宣大院君が丙寅迫害でフランス人宣教師と多数の朝鮮人天主教徒を処刑すると、1866年末にフランス艦隊が江華島を攻撃した。文殊山城と鼎足山城で敗れたフランス軍は撤退する際に外奎章閣の儀軌を略奪し、これらは2011年になってようやく長期貸与の形で返還された。"
+   }
+  },
+  {
+   "year": 1871,
+   "qid": "Q4871075",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "US expedition to Korea (Sinmiyangyo)",
+    "ko": "신미양요",
+    "zh": "辛未洋扰",
+    "ja": "辛未洋擾"
+   },
+   "description": {
+    "en": "Seeking to open Korea and investigate the 1866 destruction of the merchant ship General Sherman, a US squadron attacked forts on Ganghwa Island in June 1871. Despite heavy Korean losses at Gwangseongbo, the Daewongun refused negotiations and erected stelae across the country proclaiming his policy of rejecting Western powers.",
+    "ko": "1866년 제너럴셔먼호 사건을 구실로 통상을 요구하던 미국 함대가 1871년 6월 강화도의 진지들을 공격했다. 광성보에서 조선군이 큰 희생을 치렀으나 흥선대원군은 협상을 거부하고 전국에 척화비를 세웠다.",
+    "zh": "美国舰队以1866年“舍门将军号”事件为借口要求通商，于1871年6月进攻江华岛各炮台。朝鲜军队在广城堡伤亡惨重，但兴宣大院君拒绝谈判，并在全国竖立斥和碑。",
+    "ja": "1866年のジェネラル・シャーマン号事件を口実に通商を求めたアメリカ艦隊は、1871年6月に江華島の砲台を攻撃した。広城堡で朝鮮軍は大きな犠牲を出したが、興宣大院君は交渉を拒み、全国に斥和碑を建てた。"
+   }
+  },
+  {
+   "year": 1876,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Ganghwa",
+    "ko": "강화도 조약",
+    "zh": "江华岛条约",
+    "ja": "日朝修好条規（江華島条約）"
+   },
+   "description": {
+    "en": "Following the Un'yō incident of 1875 near Ganghwa, Japan used gunboat diplomacy to force Joseon to sign the Treaty of Ganghwa in February 1876. The unequal treaty opened Busan and two other ports and granted Japan extraterritoriality, ending Korea's isolation and beginning its integration into the imperialist order.",
+    "ko": "1875년 운요호 사건을 빌미로 일본은 함포 외교를 벌여 1876년 2월 조선과 강화도 조약을 체결했다. 이 불평등 조약으로 부산 등 세 항구가 개항되고 일본에 치외법권이 인정되면서, 조선은 문호를 개방하고 제국주의 질서에 편입되기 시작했다.",
+    "zh": "日本以1875年“云扬号事件”为借口，以炮舰外交迫使朝鲜于1876年2月签订《江华岛条约》。这一不平等条约开放釜山等三个港口并承认日本的领事裁判权，朝鲜由此结束锁国，开始被卷入帝国主义秩序。",
+    "ja": "1875年の江華島事件（雲揚号事件）を口実に、日本は砲艦外交によって1876年2月に朝鮮と日朝修好条規を結んだ。この不平等条約で釜山など3港が開港され日本に治外法権が認められ、朝鮮は開国して帝国主義の秩序に組み込まれ始めた。"
+   }
+  },
+  {
+   "year": 1882,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Imo Incident and treaty with the United States",
+    "ko": "임오군란과 조미수호통상조약",
+    "zh": "壬午兵变与《朝美修好通商条约》",
+    "ja": "壬午軍乱と米朝修好通商条約"
+   },
+   "description": {
+    "en": "In May 1882 Joseon signed a treaty of amity and commerce with the United States, its first with a Western country. Weeks later, unpaid old-style soldiers rioted in Seoul, attacking the Japanese legation; Qing troops intervened, abducted the Daewongun and tightened Chinese control over Korea.",
+    "ko": "1882년 5월 조선은 서양 국가와는 처음으로 미국과 수호통상조약을 맺었다. 몇 주 뒤 급료를 받지 못한 구식 군인들이 서울에서 봉기해 일본 공사관을 습격했고(임오군란), 청군이 개입하여 흥선대원군을 납치하고 조선에 대한 간섭을 강화했다.",
+    "zh": "1882年5月，朝鲜与美国签订修好通商条约，这是朝鲜与西方国家签订的第一个条约。数周后，领不到军饷的旧式军人在汉城哗变并袭击日本公使馆（壬午兵变）；清军介入，挟持兴宣大院君，并加强了对朝鲜的控制。",
+    "ja": "1882年5月、朝鮮は西洋諸国としては初めてアメリカと修好通商条約を結んだ。数週間後、給料の支払いを受けられなかった旧式軍隊の兵士がソウルで暴動を起こして日本公使館を襲い（壬午軍乱）、清軍が介入して興宣大院君を連行し、朝鮮への干渉を強めた。"
+   }
+  },
+  {
+   "year": 1884,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Gapsin Coup",
+    "ko": "갑신정변",
+    "zh": "甲申政变",
+    "ja": "甲申政変"
+   },
+   "description": {
+    "en": "In December 1884 radical reformers led by Kim Ok-gyun, with Japanese support, staged a coup in Seoul aiming at rapid Meiji-style modernization and independence from Qing China. Qing troops crushed it within three days, and the leaders fled to Japan.",
+    "ko": "1884년 12월 김옥균 등 급진 개화파는 일본의 지원을 받아 서울에서 정변을 일으켜 청으로부터의 자주와 메이지식 근대화를 꾀했다. 그러나 청군의 개입으로 사흘 만에 실패했고 주도자들은 일본으로 망명했다.",
+    "zh": "1884年12月，金玉均等激进开化派在日本支持下于汉城发动政变，谋求摆脱清朝控制并进行明治维新式的近代化改革。政变在清军干预下三天即告失败，领导者流亡日本。",
+    "ja": "1884年12月、金玉均ら急進開化派は日本の支援を受けてソウルで政変を起こし、清からの自立と明治維新型の近代化を目指した。しかし清軍の介入により3日で失敗し、指導者たちは日本へ亡命した。"
+   }
+  },
+  {
+   "year": 1894,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Donghak Peasant Revolution and Gabo Reform",
+    "ko": "동학 농민 운동과 갑오개혁",
+    "zh": "东学农民运动与甲午改革",
+    "ja": "甲午農民戦争と甲午改革"
+   },
+   "description": {
+    "en": "In 1894 peasants led by Jeon Bong-jun rose in Jeolla province against corruption and foreign encroachment, taking Jeonju. Both Qing and Japan sent troops, leading to the First Sino-Japanese War; a Japanese-backed cabinet launched the Gabo Reforms, abolishing the class system and the civil-service examination, while Japanese and government forces crushed the renewed peasant uprising at Ugeumchi.",
+    "ko": "1894년 전봉준이 이끄는 농민들이 부패와 외세의 침탈에 맞서 전라도에서 봉기해 전주성을 점령했다. 청과 일본이 모두 군대를 보내면서 청일 전쟁이 일어났고, 일본의 영향 아래 갑오개혁이 추진되어 신분제와 과거제가 폐지되었다. 다시 일어난 농민군은 우금치 전투에서 일본군과 관군에 패했다.",
+    "zh": "1894年，全琫准率领农民在全罗道起义，反对腐败和外国侵夺，攻占全州。清朝和日本相继出兵，引发甲午中日战争；在日本影响下，朝鲜推行甲午改革，废除身份制度和科举。再度起义的农民军在牛禁峙之战中被日军和官军镇压。",
+    "ja": "1894年、全琫準が率いる農民が腐敗と外国勢力の侵奪に抗して全羅道で蜂起し、全州城を占領した。清と日本がともに出兵して日清戦争が起こり、日本の影響下で甲午改革が進められて身分制と科挙が廃止された。再蜂起した農民軍は牛金峙の戦いで日本軍と官軍に敗れた。"
+   }
+  },
+  {
+   "year": 1895,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Empress Myeongseong",
+    "ko": "을미사변",
+    "zh": "乙未事变",
+    "ja": "乙未事変（閔妃暗殺事件）"
+   },
+   "description": {
+    "en": "On 8 October 1895 Japanese agents acting under the Japanese minister Miura Gorō broke into Gyeongbokgung Palace and murdered Queen Min (posthumously Empress Myeongseong), who had sought Russian help to counter Japan. The killing and the subsequent topknot-cutting decree sparked the first 'righteous army' uprisings.",
+    "ko": "1895년 10월 8일 일본 공사 미우라 고로의 지휘 아래 일본인들이 경복궁에 침입하여, 러시아를 끌어들여 일본을 견제하려던 왕비 민씨(명성황후)를 시해했다. 이 사건과 뒤이은 단발령은 을미의병 봉기를 불러왔다.",
+    "zh": "1895年10月8日，在日本公使三浦梧楼的指挥下，日本人闯入景福宫，杀害了试图借助俄国牵制日本的闵妃（明成皇后）。这一事件和随后颁布的断发令引发了乙未义兵起义。",
+    "ja": "1895年10月8日、日本公使・三浦梧楼の指揮のもと日本人らが景福宮に侵入し、ロシアの力を借りて日本を牽制しようとした王妃・閔氏（明成皇后）を殺害した。この事件と続く断髪令は乙未義兵の蜂起を招いた。"
+   }
+  },
+  {
+   "year": 1896,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "The Independent newspaper and Independence Club",
+    "ko": "『독립신문』 창간과 독립협회",
+    "zh": "《独立新闻》创刊与独立协会",
+    "ja": "『独立新聞』創刊と独立協会"
+   },
+   "description": {
+    "en": "In April 1896 Seo Jae-pil (Philip Jaisohn) launched The Independent (Dongnip sinmun), the first privately run newspaper printed entirely in Hangul alongside an English edition. The Independence Club, founded the same year, built Independence Gate and held mass public assemblies demanding reform until it was dissolved in 1898.",
+    "ko": "1896년 4월 서재필은 순한글과 영문판으로 발행된 최초의 민간 신문 『독립신문』을 창간했다. 같은 해 창립된 독립협회는 독립문을 세우고 만민공동회를 열어 개혁을 요구했으나 1898년 해산되었다.",
+    "zh": "1896年4月，徐载弼创办了第一份民办报纸《独立新闻》，以纯韩文版和英文版发行。同年成立的独立协会修建独立门，召开万民共同会要求改革，但于1898年被解散。",
+    "ja": "1896年4月、徐載弼はハングルのみの紙面と英文版で発行された初の民間新聞『独立新聞』を創刊した。同年に創立された独立協会は独立門を建て、万民共同会を開いて改革を要求したが、1898年に解散させられた。"
+   }
+  },
+  {
+   "year": 1897,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Korean Empire proclaimed",
+    "ko": "대한제국 선포",
+    "zh": "大韩帝国成立",
+    "ja": "大韓帝国の成立"
+   },
+   "description": {
+    "en": "After returning from a year of refuge in the Russian legation, King Gojong proclaimed the Korean Empire in October 1897, taking the title of emperor and the era name Gwangmu. The move asserted equality with China and Japan and launched a program of modernizing reforms.",
+    "ko": "러시아 공사관에서 1년을 지낸 뒤 경운궁으로 돌아온 고종은 1897년 10월 황제에 즉위하고 연호를 광무로 하여 대한제국을 선포했다. 이는 청·일과 대등한 자주국임을 내세운 것으로, 근대화를 위한 광무개혁이 추진되었다.",
+    "zh": "在俄国公使馆避居一年后返回庆运宫的高宗，于1897年10月即皇帝位，定年号为光武，宣布成立大韩帝国。此举宣示与清、日平等的自主地位，并推动了光武改革等近代化举措。",
+    "ja": "ロシア公使館に1年間身を寄せた後に慶運宮へ戻った高宗は、1897年10月に皇帝に即位し、年号を光武として大韓帝国を宣布した。これは清・日本と対等な自主国であることを示すもので、近代化のための光武改革が進められた。"
+   }
+  },
+  {
+   "year": 1899,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "First railway and electric tramway",
+    "ko": "경인선 개통과 전차 운행",
+    "zh": "京仁铁路通车与电车运行",
+    "ja": "京仁線開通と電車の運行"
+   },
+   "description": {
+    "en": "In 1899 Korea's first railway opened between Jemulpo (Incheon) and Noryangjin on the outskirts of Seoul, built by Japanese interests, and an electric tramway began running in Seoul. These projects symbolized modernization but also the growing foreign control of Korean infrastructure.",
+    "ko": "1899년 일본 자본이 건설한 한국 최초의 철도인 경인선이 제물포(인천)와 노량진 사이에 개통되었고, 서울에서는 전차가 운행을 시작했다. 이는 근대화의 상징인 동시에 외세가 기간 시설을 장악해 가는 과정이기도 했다.",
+    "zh": "1899年，由日本资本修建的朝鲜第一条铁路京仁线在济物浦（仁川）至鹭梁津间通车，汉城也开始运行电车。这些工程既是近代化的象征，也反映了外国势力对朝鲜基础设施的日益控制。",
+    "ja": "1899年、日本資本が建設した朝鮮初の鉄道・京仁線が済物浦（仁川）と鷺梁津の間で開通し、ソウルでは電車が走り始めた。これらは近代化の象徴であると同時に、外国勢力が基幹施設を掌握していく過程でもあった。"
+   }
+  },
+  {
+   "year": 1905,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Eulsa Treaty makes Korea a protectorate",
+    "ko": "을사늑약",
+    "zh": "乙巳条约",
+    "ja": "第二次日韓協約（乙巳条約）"
+   },
+   "description": {
+    "en": "After defeating Russia, Japan forced the Korean government in November 1905 to sign a treaty transferring control of its foreign relations to Japan, with Itō Hirobumi as Resident-General. Emperor Gojong never ratified it, and Koreans regard it as coerced and invalid; it sparked renewed righteous army resistance.",
+    "ko": "러일 전쟁에서 승리한 일본은 1905년 11월 대한제국 정부를 강압하여 외교권을 빼앗는 조약을 체결하고 이토 히로부미를 통감으로 앉혔다. 고종은 이를 끝내 재가하지 않았으며, 한국은 이 조약을 강압에 의한 무효 조약으로 보고 있다. 조약은 의병 항쟁을 다시 불러일으켰다.",
+    "zh": "日本在日俄战争中获胜后，于1905年11月胁迫大韩帝国政府签订条约，夺取其外交权，并派伊藤博文出任统监。高宗始终未批准该条约，韩国认为该条约系胁迫所致、属无效条约。条约签订后义兵抗争再度兴起。",
+    "ja": "日露戦争に勝利した日本は、1905年11月に大韓帝国政府に強要して外交権を奪う条約を結ばせ、伊藤博文を統監とした。高宗はこれを最後まで裁可せず、韓国はこの条約を強制による無効なものとみなしている。条約は義兵闘争を再燃させた。"
+   }
+  },
+  {
+   "year": 1907,
+   "qid": "Q12601111",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Hague envoys, Gojong's abdication and army disbandment",
+    "ko": "헤이그 특사와 군대 해산",
+    "zh": "海牙密使与军队解散",
+    "ja": "ハーグ密使事件と軍隊解散"
+   },
+   "description": {
+    "en": "Emperor Gojong secretly sent envoys to the 1907 Hague Peace Conference to protest the protectorate, and Japan forced him to abdicate in favour of his son Sunjong. When Japan disbanded the Korean army that August, soldiers in Seoul fought Japanese troops at Namdaemun, and many joined the righteous armies.",
+    "ko": "고종은 1907년 헤이그 만국평화회의에 특사를 보내 을사늑약의 부당함을 알리려 했으나, 일본은 이를 구실로 고종을 강제 퇴위시키고 순종을 즉위시켰다. 그해 8월 일본이 대한제국 군대를 해산하자 서울의 군인들이 남대문 일대에서 일본군과 싸웠고, 많은 군인이 의병에 합류했다.",
+    "zh": "1907年，高宗秘密派遣特使前往海牙万国和平会议揭露保护条约的不公，日本借机迫使高宗退位，由其子纯宗继位。同年8月日本解散大韩帝国军队，汉城的士兵在南大门一带与日军交战，许多军人加入义兵。",
+    "ja": "1907年、高宗はハーグ万国平和会議に密使を送り保護条約の不当性を訴えようとしたが、日本はこれを口実に高宗を強制的に退位させ、純宗を即位させた。同年8月に日本が大韓帝国軍を解散すると、ソウルの兵士たちは南大門一帯で日本軍と戦い、多くの兵士が義兵に合流した。"
+   }
+  },
+  {
+   "year": 1909,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "An Jung-geun assassinates Itō Hirobumi",
+    "ko": "안중근 의거",
+    "zh": "安重根击毙伊藤博文",
+    "ja": "安重根による伊藤博文暗殺"
+   },
+   "description": {
+    "en": "On 26 October 1909 the independence activist An Jung-geun shot and killed Itō Hirobumi, the former Resident-General of Korea, at Harbin railway station. He was executed in Lüshun in 1910; in South Korea he is honoured as a national hero.",
+    "ko": "1909년 10월 26일 독립운동가 안중근은 하얼빈역에서 초대 통감을 지낸 이토 히로부미를 저격하여 사살했다. 그는 1910년 뤼순 감옥에서 순국했으며, 한국에서는 민족의 영웅으로 추앙받는다.",
+    "zh": "1909年10月26日，独立运动家安重根在哈尔滨火车站击毙曾任首任朝鲜统监的伊藤博文。他于1910年在旅顺就义，在韩国被尊为民族英雄。",
+    "ja": "1909年10月26日、独立運動家の安重根はハルビン駅で初代統監を務めた伊藤博文を射殺した。彼は1910年に旅順で処刑され、韓国では民族の英雄として称えられている。"
+   }
+  },
+  {
+   "year": 1910,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Japan annexes Korea",
+    "ko": "경술국치(한일병합)",
+    "zh": "日韩合并",
+    "ja": "韓国併合"
+   },
+   "description": {
+    "en": "The Japan-Korea Annexation Treaty of August 1910 ended the Korean Empire and began 35 years of colonial rule, during which Koreans organized sustained independence movements at home and abroad.",
+    "ko": "1910년 8월 한일병합조약으로 대한제국이 국권을 상실하고 35년간의 일제강점기가 시작되었다. 이 기간 국내외에서 독립운동이 끊이지 않았다.",
+    "zh": "1910年8月，《日韩合并条约》使大韩帝国灭亡，朝鲜半岛进入35年的日本殖民统治时期。其间，半岛内外的独立运动此起彼伏，从未间断。",
+    "ja": "1910年8月、韓国併合条約により大韓帝国は消滅し、35年に及ぶ植民地支配が始まった。この間、朝鮮の内外では独立運動が絶えることなく続いた。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": "Q28278",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Provisional Government founded in Shanghai",
+    "ko": "대한민국 임시정부 수립",
+    "zh": "大韩民国临时政府成立",
+    "ja": "大韓民国臨時政府の樹立"
+   },
+   "description": {
+    "en": "In April 1919 independence activists in Shanghai established the Provisional Government of the Republic of Korea, adopting a provisional charter that declared a democratic republic. Later led by figures such as Kim Gu, it organized diplomacy and armed resistance in exile until 1945.",
+    "ko": "1919년 4월 상하이에서 독립운동가들이 대한민국 임시정부를 수립하고 민주 공화제를 선언한 임시 헌장을 채택했다. 이후 김구 등이 이끈 임시정부는 1945년까지 망명지에서 외교와 무장 투쟁을 이끌었다.",
+    "zh": "1919年4月，独立运动人士在上海成立大韩民国临时政府，通过宣布实行民主共和制的临时宪章。此后由金九等人领导的临时政府在流亡中开展外交和武装斗争，直至1945年。",
+    "ja": "1919年4月、独立運動家たちは上海で大韓民国臨時政府を樹立し、民主共和制を宣言する臨時憲章を採択した。その後、金九らが率いた臨時政府は1945年まで亡命先で外交と武装闘争を指導した。"
+   }
+  },
+  {
+   "year": 1919,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "March 1st Independence Movement",
+    "ko": "3·1 운동",
+    "zh": "三一独立运动",
+    "ja": "三・一独立運動"
+   },
+   "description": {
+    "en": "On 1 March 1919 Koreans nationwide staged mass demonstrations proclaiming independence from Japan. The movement led to the founding of the Provisional Government of the Republic of Korea in Shanghai.",
+    "ko": "1919년 3월 1일 전국에서 독립을 선언하는 만세 시위가 일어났다. 이 운동을 계기로 상하이에서 대한민국 임시정부가 수립되었다.",
+    "zh": "1919年3月1日，朝鲜各地爆发宣告独立的大规模示威运动。以此为契机，大韩民国临时政府在上海成立。",
+    "ja": "1919年3月1日、朝鮮全土で独立を宣言する大規模なデモが起こった。この運動を契機に、上海で大韓民国臨時政府が樹立された。"
+   }
+  },
+  {
+   "year": 1920,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battles of Fengwudong and Qingshanli",
+    "ko": "봉오동·청산리 전투",
+    "zh": "凤梧洞战斗与青山里战斗",
+    "ja": "鳳梧洞・青山里の戦い"
+   },
+   "description": {
+    "en": "In 1920 Korean independence armies in Manchuria defeated Japanese forces at Fengwudong (Bongodong) under Hong Beom-do in June and around Qingshanli (Cheongsanri) under Kim Jwa-jin and Hong Beom-do in October. Japan retaliated with massacres of Korean settlers in Jiandao.",
+    "ko": "1920년 만주의 독립군은 6월 홍범도가 이끈 봉오동 전투와 10월 김좌진·홍범도 등이 이끈 청산리 전투에서 일본군을 물리쳤다. 일본군은 보복으로 간도의 한인들을 학살했다(간도 참변).",
+    "zh": "1920年，满洲的朝鲜独立军先后在6月洪范图率领的凤梧洞战斗和10月金佐镇、洪范图等率领的青山里战斗中击败日军。日军随后在间岛屠杀朝鲜移民以示报复。",
+    "ja": "1920年、満洲の独立軍は6月の洪範図率いる鳳梧洞の戦い、10月の金佐鎮・洪範図らによる青山里の戦いで日本軍を破った。日本軍は報復として間島の朝鮮人を虐殺した（間島惨変）。"
+   }
+  },
+  {
+   "year": 1929,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Gwangju Student Independence Movement",
+    "ko": "광주 학생 항일 운동",
+    "zh": "光州学生抗日运动",
+    "ja": "光州学生運動"
+   },
+   "description": {
+    "en": "A clash between Korean and Japanese students in Naju in October 1929 escalated into demonstrations by Korean students in Gwangju in November. The protests against discrimination and colonial rule spread nationwide into 1930, becoming the largest anti-Japanese movement since 1919.",
+    "ko": "1929년 10월 나주에서 일어난 한일 학생 간의 충돌이 계기가 되어 11월 광주에서 한국 학생들의 시위가 일어났다. 차별과 식민 통치에 항의하는 시위는 1930년까지 전국으로 퍼져 3·1 운동 이후 최대 규모의 항일 운동이 되었다.",
+    "zh": "1929年10月，朝日学生在罗州发生冲突，11月光州的朝鲜学生随即举行示威。抗议歧视和殖民统治的示威一直蔓延至1930年并遍及全国，成为三一运动以来规模最大的抗日运动。",
+    "ja": "1929年10月に羅州で起きた朝鮮人と日本人の学生の衝突をきっかけに、11月に光州で朝鮮人学生のデモが起こった。差別と植民地支配に抗議するデモは1930年にかけて全国に広がり、三・一運動以来最大の抗日運動となった。"
+   }
+  },
+  {
+   "year": 1938,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Wartime assimilation and mobilization",
+    "ko": "황국 신민화 정책과 전시 동원",
+    "zh": "皇民化政策与战时动员",
+    "ja": "皇民化政策と戦時動員"
+   },
+   "description": {
+    "en": "With the war in China, colonial authorities intensified assimilation from 1938: Korean was removed from the required school curriculum, Shinto shrine worship was enforced and in 1940 Koreans were pressed to adopt Japanese-style names. Large numbers of Koreans were mobilized as labourers, soldiers and in the military 'comfort women' system, issues that remain contentious between South Korea and Japan.",
+    "ko": "중일 전쟁이 일어나자 조선총독부는 1938년부터 황국 신민화 정책을 강화하여 학교에서 조선어를 필수 과목에서 빼고 신사 참배를 강요했으며, 1940년에는 창씨개명을 시행했다. 많은 한국인이 노동자, 군인, 일본군 '위안부'로 동원되었으며, 이 문제는 지금도 한일 간의 쟁점으로 남아 있다.",
+    "zh": "随着侵华战争的扩大，朝鲜总督府自1938年起强化皇民化政策：朝鲜语被移出学校必修课程，强制参拜神社，1940年又推行“创氏改名”。大批朝鲜人被动员为劳工、士兵，或被纳入日军“慰安妇”制度，这些问题至今仍是韩日之间的争议焦点。",
+    "ja": "日中戦争の拡大に伴い、朝鮮総督府は1938年から皇民化政策を強め、学校で朝鮮語を必修科目から外し、神社参拝を強要し、1940年には創氏改名を実施した。多くの朝鮮人が労働者や兵士として、また日本軍「慰安婦」制度に動員され、これらの問題は今も日韓間の争点となっている。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Liberation from Japanese rule",
+    "ko": "8·15 광복",
+    "zh": "八一五光复",
+    "ja": "八・一五解放（光復）"
+   },
+   "description": {
+    "en": "Japan's surrender on 15 August 1945 ended colonial rule. Liberation was followed by division at the 38th parallel into US and Soviet occupation zones, splitting the peninsula.",
+    "ko": "1945년 8월 15일 일본의 항복으로 식민 지배에서 해방되었다. 그러나 곧 38선을 경계로 미군과 소련군이 분할 점령하면서 한반도는 남북으로 갈라졌다.",
+    "zh": "1945年8月15日，日本投降，殖民统治宣告结束。然而半岛随即以三八线为界被美苏两军分区占领，从此南北分裂。",
+    "ja": "1945年8月15日、日本の降伏により植民地支配が終わった。しかし半島はまもなく38度線を境に米ソ両軍に分割占領され、南北に分断された。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Jeju April 3 Incident",
+    "ko": "제주 4·3 사건",
+    "zh": "济州四三事件",
+    "ja": "済州四・三事件"
+   },
+   "description": {
+    "en": "On 3 April 1948 leftist insurgents on Jeju Island rose against the police and right-wing youth groups and against separate elections in the south. The ensuing counter-insurgency, which lasted until 1954, killed tens of thousands of islanders, many of them civilians. Long a taboo subject, it was officially investigated from 2000 and the government apologized in 2003.",
+    "ko": "1948년 4월 3일 제주도에서 남로당 계열 무장대가 경찰과 서북청년단의 탄압, 남한 단독 선거에 반대하여 봉기했다. 1954년까지 이어진 진압 과정에서 수만 명의 도민이 희생되었으며 그 상당수가 민간인이었다. 오랫동안 금기였던 이 사건은 2000년 특별법 제정으로 진상 조사가 시작되었고, 2003년 정부가 공식 사과했다.",
+    "zh": "1948年4月3日，济州岛的左翼武装反对警察和右翼青年团体的镇压以及南部单独选举，发动起义。此后持续到1954年的镇压造成数万名岛民死亡，其中许多是平民。这一长期被视为禁忌的事件自2000年起依法展开调查，2003年韩国政府正式道歉。",
+    "ja": "1948年4月3日、済州島で左派武装隊が警察や右翼青年団の弾圧と南だけの単独選挙に反対して蜂起した。1954年まで続いた鎮圧の過程で数万人の島民が犠牲となり、その多くが民間人であった。長くタブーとされたこの事件は、2000年の特別法制定により真相調査が始まり、2003年に政府が公式に謝罪した。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": "Q624853",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Yeosu-Suncheon Rebellion",
+    "ko": "여수·순천 10·19 사건",
+    "zh": "丽水－顺天事件",
+    "ja": "麗水・順天事件"
+   },
+   "description": {
+    "en": "In October 1948 leftist soldiers of a regiment in Yeosu refused orders to deploy to Jeju and mutinied, seizing Yeosu and Suncheon. Government forces retook the towns within about a week, and many civilians were killed during the fighting and subsequent reprisals. The revolt led to purges of the army and the National Security Act of December 1948.",
+    "ko": "1948년 10월 여수에 주둔한 국군 제14연대의 좌익 군인들이 제주 4·3 진압 출동 명령을 거부하고 봉기하여 여수와 순천을 점령했다. 진압군은 약 1주일 만에 두 도시를 되찾았으나, 교전과 이후의 보복 과정에서 많은 민간인이 희생되었다. 이 사건은 군 내부 숙청과 1948년 12월 국가보안법 제정으로 이어졌다.",
+    "zh": "1948年10月，驻扎丽水的国军第14团左翼士兵拒绝开赴济州镇压，发动兵变并占领丽水和顺天。政府军约一周后收复两地，但在交战及其后的报复中大量平民遇害。这一事件导致军内大清洗，并促成了1948年12月《国家保安法》的制定。",
+    "ja": "1948年10月、麗水に駐屯する国軍第14連隊の左派兵士が済州島への出動命令を拒んで反乱を起こし、麗水と順天を占拠した。鎮圧軍は約1週間で両市を奪還したが、戦闘とその後の報復で多くの民間人が犠牲となった。この事件は軍内の粛清と1948年12月の国家保安法制定につながった。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Republic of Korea established",
+    "ko": "대한민국 정부 수립",
+    "zh": "大韩民国政府成立",
+    "ja": "大韓民国政府の樹立"
+   },
+   "description": {
+    "en": "Following UN-supervised elections in the south, the Republic of Korea was inaugurated on 15 August 1948 with Syngman Rhee as its first president and Seoul as its capital.",
+    "ko": "유엔 감시 아래 남한에서 총선거가 실시된 뒤, 1948년 8월 15일 이승만을 초대 대통령으로 하는 대한민국 정부가 수립되었다.",
+    "zh": "在联合国监督下，半岛南部举行大选后，大韩民国于1948年8月15日宣告成立，李承晚出任首任总统，定都首尔（汉城）。",
+    "ja": "国連監視下の総選挙を経て、1948年8月15日、李承晩を初代大統領とする大韓民国政府がソウルで樹立された。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": "Q483039",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Incheon Landing",
+    "ko": "인천 상륙 작전",
+    "zh": "仁川登陆",
+    "ja": "仁川上陸作戦"
+   },
+   "description": {
+    "en": "On 15 September 1950 UN forces under General Douglas MacArthur made an amphibious landing at Incheon, behind North Korean lines besieging the Busan perimeter. Seoul was recaptured within weeks and the North Korean army collapsed, though Chinese intervention in late 1950 again reversed the tide.",
+    "ko": "1950년 9월 15일 맥아더 장군이 지휘하는 유엔군은 낙동강 방어선을 포위한 북한군의 배후인 인천에 상륙했다. 몇 주 만에 서울을 되찾고 북한군은 무너졌으나, 1950년 말 중국군의 개입으로 전세는 다시 뒤집혔다.",
+    "zh": "1950年9月15日，麦克阿瑟将军指挥的联合国军在包围釜山防御圈的朝鲜军队后方仁川实施登陆。数周内汉城被收复，朝鲜军队随之崩溃，但1950年底中国人民志愿军参战，战局再度逆转。",
+    "ja": "1950年9月15日、マッカーサー将軍率いる国連軍は、釜山橋頭堡を包囲する北朝鮮軍の背後にあたる仁川に上陸した。数週間でソウルを奪還し北朝鮮軍は崩壊したが、1950年末の中国軍の介入で戦局は再び逆転した。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": "Q8663",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Korean War",
+    "ko": "6·25 전쟁",
+    "zh": "朝鲜战争（六二五战争）",
+    "ja": "朝鮮戦争"
+   },
+   "description": {
+    "en": "North Korean forces invaded the South on 25 June 1950. Three years of war involving UN and Chinese forces devastated the country before the 1953 armistice froze the division along the DMZ.",
+    "ko": "1950년 6월 25일 북한군의 남침으로 전쟁이 발발했다. 유엔군과 중국군이 참전한 3년간의 전쟁으로 전 국토가 폐허가 되었고, 1953년 정전협정으로 휴전선이 굳어졌다.",
+    "zh": "1950年6月25日，朝鲜军队南下入侵，战争爆发。联合国军与中国军队相继参战，三年战火使全国化为废墟；1953年停战协定使南北分裂沿非军事区固定下来。",
+    "ja": "1950年6月25日、北朝鮮軍の南侵により戦争が勃発した。国連軍と中国軍が参戦した3年間の戦争で国土は廃墟と化し、1953年の休戦協定により軍事境界線での分断が固定化した。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Korean Armistice Agreement",
+    "ko": "정전 협정 체결",
+    "zh": "签订朝鲜停战协定",
+    "ja": "朝鮮戦争休戦協定"
+   },
+   "description": {
+    "en": "On 27 July 1953 the UN Command, the Korean People's Army and the Chinese People's Volunteers signed an armistice at Panmunjom, establishing the Military Demarcation Line and the Demilitarized Zone. South Korea did not sign, and no peace treaty has followed; the ROK-US Mutual Defense Treaty was signed that October.",
+    "ko": "1953년 7월 27일 유엔군 사령부와 북한군, 중국 인민지원군이 판문점에서 정전 협정에 서명하여 군사분계선과 비무장지대가 설정되었다. 대한민국은 서명하지 않았으며 이후 평화 조약은 체결되지 않았다. 같은 해 10월 한미 상호방위조약이 조인되었다.",
+    "zh": "1953年7月27日，联合国军司令部与朝鲜人民军、中国人民志愿军在板门店签署停战协定，划定军事分界线和非军事区。韩国未在协定上签字，此后也未缔结和平条约；同年10月，韩美签署《共同防御条约》。",
+    "ja": "1953年7月27日、国連軍司令部と朝鮮人民軍、中国人民志願軍が板門店で休戦協定に署名し、軍事境界線と非武装地帯が設けられた。韓国は署名せず、その後も平和条約は結ばれていない。同年10月には米韓相互防衛条約が調印された。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "April Revolution",
+    "ko": "4·19 혁명",
+    "zh": "四一九革命",
+    "ja": "四月革命（四・一九革命）"
+   },
+   "description": {
+    "en": "Massive fraud in the March 1960 presidential election and the discovery of the body of a student, Kim Ju-yeol, killed by a tear-gas shell in Masan, sparked nationwide protests led by students. After police fired on demonstrators on 19 April, killing many, Syngman Rhee resigned on 26 April and went into exile in Hawaii.",
+    "ko": "1960년 3월 대통령 선거의 대규모 부정과 마산 앞바다에서 최루탄이 박힌 채 발견된 학생 김주열의 시신은 학생들이 주도한 전국적 시위를 불러왔다. 4월 19일 경찰의 발포로 많은 사람이 희생된 뒤, 이승만은 4월 26일 하야하고 하와이로 망명했다.",
+    "zh": "1960年3月总统选举中的大规模舞弊，以及在马山海边发现的被催泪弹击中身亡的学生金朱烈的遗体，引发了以学生为主导的全国性抗议。4月19日警察向示威者开枪造成大量伤亡后，李承晚于4月26日宣布下台，流亡夏威夷。",
+    "ja": "1960年3月の大統領選挙での大規模な不正と、馬山の海で催涙弾が刺さったまま発見された学生・金朱烈の遺体は、学生主導の全国的なデモを引き起こした。4月19日に警察の発砲で多くの死者が出た後、李承晩は4月26日に下野し、ハワイへ亡命した。"
+   }
+  },
+  {
+   "year": 1961,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "May 16 military coup",
+    "ko": "5·16 군사 정변",
+    "zh": "五一六军事政变",
+    "ja": "五・一六軍事クーデター"
+   },
+   "description": {
+    "en": "On 16 May 1961 Major General Park Chung-hee led a military coup that overthrew the Second Republic. Park ruled for 18 years, presiding over rapid state-led industrialization while suppressing political freedoms.",
+    "ko": "1961년 5월 16일 박정희 소장이 군사 정변을 일으켜 제2공화국을 무너뜨렸다. 이후 18년 동안 집권한 박정희는 국가 주도의 급속한 산업화를 이끄는 한편 정치적 자유를 억압했다.",
+    "zh": "1961年5月16日，朴正熙少将发动军事政变，推翻第二共和国。此后朴正熙执政18年，一方面主导了国家推动的快速工业化，另一方面压制政治自由。",
+    "ja": "1961年5月16日、朴正煕少将が軍事クーデターを起こして第二共和国を倒した。その後18年間政権を握った朴正煕は、国家主導の急速な工業化を進める一方で政治的自由を抑圧した。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": "Q5455783",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "First Five-Year Economic Development Plan",
+    "ko": "제1차 경제 개발 5개년 계획",
+    "zh": "第一个经济开发五年计划",
+    "ja": "第1次経済開発5か年計画"
+   },
+   "description": {
+    "en": "In 1962 the government launched the first of a series of five-year economic development plans, shifting to export-oriented industrialization financed by foreign loans and later by Japanese reparations-related funds. Successive plans drove decades of rapid growth known as the 'Miracle on the Han River'.",
+    "ko": "1962년 정부는 일련의 경제 개발 5개년 계획 가운데 첫 번째 계획을 시작하여, 외국 차관과 이후 대일 청구권 자금 등을 바탕으로 수출 주도형 산업화로 전환했다. 연이은 계획은 '한강의 기적'으로 불리는 수십 년간의 고도성장을 이끌었다.",
+    "zh": "1962年，政府启动一系列经济开发五年计划中的第一个，依靠外国贷款以及后来的对日请求权资金，转向出口导向型工业化。此后的历次计划推动了被称为“汉江奇迹”的数十年高速增长。",
+    "ja": "1962年、政府は一連の経済開発5か年計画の最初の計画を開始し、外国借款や、のちには日韓請求権協定に基づく資金をもとに輸出主導型の工業化へと転換した。相次ぐ計画は「漢江の奇跡」と呼ばれる数十年の高度成長を牽引した。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Troops dispatched to the Vietnam War",
+    "ko": "베트남 전쟁 파병",
+    "zh": "向越南战争派兵",
+    "ja": "ベトナム戦争への派兵"
+   },
+   "description": {
+    "en": "From 1964 to 1973 South Korea sent combat and support troops to fight alongside the United States in South Vietnam, making it the largest foreign contingent after the US. The deployment brought US aid and economic opportunities but also casualties and allegations of civilian killings that remain debated.",
+    "ko": "대한민국은 1964년부터 1973년까지 남베트남에 전투 및 지원 병력을 보내 미국과 함께 싸웠으며, 이는 미국 다음으로 큰 외국군 규모였다. 파병은 미국의 원조와 경제적 기회를 가져왔지만, 인명 피해와 함께 민간인 학살 의혹이라는 논쟁적 문제도 남겼다.",
+    "zh": "1964年至1973年，韩国向南越派遣作战和支援部队，与美国并肩作战，是规模仅次于美国的外国部队。派兵带来了美国援助和经济机遇，但也造成人员伤亡，并留下了至今仍有争议的屠杀平民指控。",
+    "ja": "韓国は1964年から1973年まで南ベトナムに戦闘・支援部隊を派遣して米国とともに戦い、その規模は米国に次ぐものであった。派兵は米国の援助と経済的機会をもたらしたが、人的被害とともに、今も議論の続く民間人殺害の疑惑も残した。"
+   }
+  },
+  {
+   "year": 1965,
+   "qid": "Q485343",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Normalization of relations with Japan",
+    "ko": "한일 기본 조약 체결",
+    "zh": "签订《韩日基本条约》",
+    "ja": "日韓基本条約の締結"
+   },
+   "description": {
+    "en": "Signed on 22 June 1965 despite large student protests, the Treaty on Basic Relations established diplomatic ties between South Korea and Japan. An accompanying claims agreement provided Japanese grants and loans that helped finance industrialization, but its scope with respect to individual colonial-era claims remains disputed.",
+    "ko": "대규모 학생 반대 시위 속에서 1965년 6월 22일 한일 기본 조약이 조인되어 양국의 국교가 수립되었다. 함께 체결된 청구권 협정에 따른 일본의 무상·유상 자금은 산업화 재원으로 쓰였으나, 식민지 시기 개인 청구권과 관련한 협정의 효력 범위는 여전히 논쟁 중이다.",
+    "zh": "1965年6月22日，在大规模学生抗议声中，韩日签署《基本关系条约》，两国建交。同时签署的请求权协定规定日本提供无偿和有偿资金，为韩国工业化提供了资金，但该协定对殖民时期个人请求权的效力范围至今仍有争议。",
+    "ja": "大規模な学生の反対デモの中、1965年6月22日に日韓基本条約が調印され、両国の国交が樹立された。同時に結ばれた請求権協定による日本の無償・有償資金は工業化の財源となったが、植民地期の個人請求権をめぐる協定の効力範囲は今も争われている。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Gyeongbu Expressway and Saemaul Movement",
+    "ko": "경부고속도로 개통과 새마을 운동",
+    "zh": "京釜高速公路通车与新村运动",
+    "ja": "京釜高速道路開通とセマウル運動"
+   },
+   "description": {
+    "en": "The Gyeongbu Expressway linking Seoul and Busan opened in July 1970, becoming the artery of the industrializing economy. The same year Park Chung-hee launched the Saemaul (New Village) Movement to modernize rural villages through government-guided self-help projects.",
+    "ko": "1970년 7월 서울과 부산을 잇는 경부고속도로가 개통되어 산업화 시대의 대동맥이 되었다. 같은 해 박정희 정부는 정부 주도의 자조 사업으로 농촌을 근대화하는 새마을 운동을 시작했다.",
+    "zh": "1970年7月，连接汉城与釜山的京釜高速公路通车，成为工业化时代的交通大动脉。同年，朴正熙政府发起新村运动，以政府主导的自助项目推动农村现代化。",
+    "ja": "1970年7月、ソウルと釜山を結ぶ京釜高速道路が開通し、工業化時代の大動脈となった。同じ年、朴正煕政権は政府主導の自助事業によって農村を近代化するセマウル（新しい村）運動を始めた。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Self-immolation of Jeon Tae-il",
+    "ko": "전태일 분신",
+    "zh": "全泰壹自焚",
+    "ja": "全泰壱の焼身自殺"
+   },
+   "description": {
+    "en": "On 13 November 1970 Jeon Tae-il, a 22-year-old garment worker at Seoul's Pyeonghwa Market, set himself on fire demanding that the Labor Standards Act be observed. His death awakened the public to harsh working conditions and became a founding moment of the Korean labour movement.",
+    "ko": "1970년 11월 13일 서울 평화시장의 22세 봉제 노동자 전태일은 '근로기준법을 준수하라'고 외치며 분신했다. 그의 죽음은 열악한 노동 현실을 사회에 알렸고 한국 노동 운동의 출발점이 되었다.",
+    "zh": "1970年11月13日，首尔和平市场22岁的制衣工人全泰壹高呼“遵守劳动基准法”后自焚身亡。他的死使社会认识到恶劣的劳动条件，成为韩国劳工运动的起点。",
+    "ja": "1970年11月13日、ソウル平和市場の22歳の縫製労働者・全泰壱は「勤労基準法を守れ」と叫んで焼身自殺した。彼の死は過酷な労働の実態を社会に知らしめ、韓国労働運動の出発点となった。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": "Q10854405",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "July 4 North-South Joint Statement",
+    "ko": "7·4 남북 공동 성명",
+    "zh": "七四南北共同声明",
+    "ja": "七・四南北共同声明"
+   },
+   "description": {
+    "en": "On 4 July 1972 the two Koreas issued their first joint statement since division, agreeing on the principles of independent, peaceful reunification and national unity. The thaw was short-lived, and both leaderships soon used it to consolidate their own power.",
+    "ko": "1972년 7월 4일 남북한은 분단 이후 처음으로 공동 성명을 발표하여 자주·평화·민족 대단결이라는 통일 3대 원칙에 합의했다. 그러나 화해 분위기는 오래가지 못했고, 남북 지도부는 이를 각자의 권력 강화에 이용했다.",
+    "zh": "1972年7月4日，南北双方发表分裂以来的首份共同声明，就自主、和平、民族大团结的统一三原则达成一致。但缓和气氛未能持久，双方领导层很快借此巩固各自的权力。",
+    "ja": "1972年7月4日、南北は分断後初めて共同声明を発表し、自主・平和・民族大団結という統一三原則に合意した。しかし融和ムードは長続きせず、南北の指導部はこれをそれぞれの権力強化に利用した。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": "Q623792",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "October Yushin",
+    "ko": "10월 유신",
+    "zh": "十月维新",
+    "ja": "十月維新"
+   },
+   "description": {
+    "en": "In October 1972 Park Chung-hee declared martial law, dissolved the National Assembly and pushed through the Yushin Constitution by referendum. It allowed the president to be elected indirectly without term limits and to rule by emergency decree, ushering in the most repressive phase of his rule.",
+    "ko": "1972년 10월 박정희는 비상계엄을 선포하고 국회를 해산한 뒤 국민투표로 유신 헌법을 통과시켰다. 유신 헌법은 대통령을 간선으로 선출하고 연임 제한을 없애며 긴급조치로 통치할 수 있게 하여, 박정희 정권의 가장 억압적인 시기를 열었다.",
+    "zh": "1972年10月，朴正熙宣布紧急戒严，解散国会，并通过全民公投强行通过维新宪法。该宪法规定总统间接选举且不限连任，并可凭紧急措施治国，开启了朴正熙统治中最具压迫性的阶段。",
+    "ja": "1972年10月、朴正煕は非常戒厳を宣布して国会を解散し、国民投票で維新憲法を成立させた。維新憲法は大統領を間接選挙で選び再任制限をなくし、緊急措置による統治を可能にするもので、朴政権の最も抑圧的な時期を開いた。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Heavy and chemical industry drive",
+    "ko": "중화학 공업화 선언과 포항제철 준공",
+    "zh": "重化工业化与浦项制铁竣工",
+    "ja": "重化学工業化宣言と浦項製鉄の竣工"
+   },
+   "description": {
+    "en": "In 1973 the government announced a drive to build heavy and chemical industries such as steel, shipbuilding, machinery and petrochemicals. The first blast furnace of Pohang Iron and Steel (POSCO) was completed that year, and industrial complexes grew in the southeast, including Ulsan, Changwon and Pohang.",
+    "ko": "1973년 정부는 철강·조선·기계·석유화학 등 중화학 공업 육성을 선언했다. 같은 해 포항종합제철(포스코) 제1고로가 준공되었고, 울산·창원·포항 등 동남 해안에 공업 단지가 성장했다.",
+    "zh": "1973年，政府宣布大力发展钢铁、造船、机械和石化等重化工业。同年浦项综合制铁（POSCO）第一座高炉竣工，蔚山、昌原、浦项等东南沿海工业园区随之兴起。",
+    "ja": "1973年、政府は鉄鋼・造船・機械・石油化学などの重化学工業育成を宣言した。同年、浦項総合製鉄（ポスコ）の第1高炉が竣工し、蔚山・昌原・浦項など南東沿岸に工業団地が成長した。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q482859",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Assassination of Park Chung-hee and the December 12 coup",
+    "ko": "10·26 사건과 12·12 군사 반란",
+    "zh": "朴正熙遇刺与“双十二”军事政变",
+    "ja": "朴正煕暗殺と粛軍クーデター"
+   },
+   "description": {
+    "en": "On 26 October 1979, amid the Bu-Ma protests in Busan and Masan, President Park Chung-hee was shot dead by his intelligence chief Kim Jae-gyu. On 12 December Major General Chun Doo-hwan led a military mutiny that seized control of the army, ending hopes raised by the 'Seoul Spring'.",
+    "ko": "1979년 10월 26일 부산·마산에서 부마 민주 항쟁이 일어난 가운데 박정희 대통령이 중앙정보부장 김재규에게 피살되었다. 12월 12일 전두환 소장이 이끄는 신군부가 군사 반란으로 군을 장악하면서, '서울의 봄'에 대한 기대는 무너졌다.",
+    "zh": "1979年10月26日，在釜山、马山爆发釜马民主抗争之际，朴正熙总统被中央情报部部长金载圭枪杀。12月12日，全斗焕少将率领新军部发动军事叛乱，掌控军队，“汉城之春”的希望随之破灭。",
+    "ja": "1979年10月26日、釜山・馬山で釜馬民主抗争が起こる中、朴正煕大統領は中央情報部長の金載圭に射殺された。12月12日、全斗煥少将率いる新軍部が軍事反乱で軍を掌握し、「ソウルの春」への期待は打ち砕かれた。"
+   }
+  },
+  {
+   "year": 1980,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Gwangju Uprising",
+    "ko": "5·18 광주 민주화 운동",
+    "zh": "五一八光州民主化运动",
+    "ja": "光州事件（五・一八民主化運動）"
+   },
+   "description": {
+    "en": "After Chun Doo-hwan's junta extended martial law nationwide on 17 May 1980, citizens of Gwangju rose against the brutal suppression of student protests by paratroopers and took control of the city. The army retook Gwangju on 27 May, killing many civilians. The uprising became the symbol of South Korea's democracy movement and was officially recognized as a pro-democracy movement in the 1990s.",
+    "ko": "1980년 5월 17일 신군부가 비상계엄을 전국으로 확대하자, 광주 시민들은 공수부대의 잔혹한 시위 진압에 맞서 봉기하고 시내를 장악했다. 계엄군은 5월 27일 광주를 다시 점령했고 이 과정에서 많은 시민이 희생되었다. 이 항쟁은 한국 민주화 운동의 상징이 되었으며 1990년대에 공식적으로 민주화 운동으로 인정되었다.",
+    "zh": "1980年5月17日新军部将紧急戒严扩大至全国后，光州市民奋起反抗空降部队对学生示威的残酷镇压，并控制了市区。戒严军于5月27日重新占领光州，大批市民在此过程中遇难。这场抗争成为韩国民主化运动的象征，并在1990年代被正式认定为民主化运动。",
+    "ja": "1980年5月17日に新軍部が非常戒厳を全国に拡大すると、光州の市民は空挺部隊による学生デモの残虐な鎮圧に抗して蜂起し、市内を掌握した。戒厳軍は5月27日に光州を再占領し、その過程で多くの市民が犠牲となった。この抗争は韓国民主化運動の象徴となり、1990年代に公式に民主化運動として認められた。"
+   }
+  },
+  {
+   "year": 1983,
+   "qid": "Q18180",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Korean Air Lines Flight 007 shot down",
+    "ko": "대한항공 007편 격추 사건",
+    "zh": "大韩航空007号班机被击落",
+    "ja": "大韓航空機撃墜事件"
+   },
+   "description": {
+    "en": "On 1 September 1983 a Soviet interceptor shot down Korean Air Lines Flight 007, which had strayed into Soviet airspace near Sakhalin, killing all 269 people aboard. The tragedy heightened Cold War tensions and led the United States to make GPS available for civilian use.",
+    "ko": "1983년 9월 1일 소련 영공으로 잘못 들어간 대한항공 007편이 사할린 부근에서 소련 전투기에 격추되어 탑승자 269명 전원이 사망했다. 이 참사는 냉전의 긴장을 고조시켰고, 미국이 GPS를 민간에 개방하는 계기가 되었다.",
+    "zh": "1983年9月1日，误入苏联领空的大韩航空007号班机在萨哈林岛附近被苏联战斗机击落，机上269人全部遇难。这一惨剧加剧了冷战紧张局势，并促使美国将GPS开放给民用。",
+    "ja": "1983年9月1日、ソ連領空に迷い込んだ大韓航空007便がサハリン付近でソ連の戦闘機に撃墜され、搭乗者269人全員が死亡した。この惨事は冷戦の緊張を高め、米国がGPSを民間に開放するきっかけとなった。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "June Democratic Uprising",
+    "ko": "6월 민주항쟁",
+    "zh": "六月民主运动",
+    "ja": "六月民主抗争"
+   },
+   "description": {
+    "en": "Nationwide protests in June 1987 forced the military government to accept direct presidential elections and constitutional reform, completing South Korea's transition to democracy.",
+    "ko": "1987년 6월 전국적인 시위로 군사정권이 대통령 직선제 개헌을 수용했다. 수십 년의 권위주의 통치를 끝내고 민주주의로 이행하는 결정적 전환점이 되었다.",
+    "zh": "1987年6月，全国范围的抗议浪潮迫使军政府接受总统直选与修宪要求。韩国由此结束数十年的威权统治，实现民主化转型。",
+    "ja": "1987年6月、全国的な抗議運動により軍事政権は大統領直接選挙制への改憲を受け入れた。数十年の権威主義体制を経て、韓国は民主化への決定的な転換点を迎えた。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Seoul Olympic Games",
+    "ko": "서울 올림픽 개최",
+    "zh": "汉城（首尔）奥运会",
+    "ja": "ソウル・オリンピック開催"
+   },
+   "description": {
+    "en": "The 1988 Summer Olympics in Seoul showcased South Korea's rise from postwar poverty to industrial power, symbolizing the 'Miracle on the Han River' to a global audience.",
+    "ko": "1988년 서울 하계올림픽은 전후 폐허에서 산업 강국으로 도약한 '한강의 기적'을 전 세계에 알린 무대였다.",
+    "zh": "1988年汉城夏季奥运会向全世界展示了韩国从战后废墟跃升为工业强国的“汉江奇迹”。",
+    "ja": "1988年のソウル夏季オリンピックは、戦後の廃墟から工業国へと躍進した「漢江の奇跡」を世界に示す舞台となった。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Both Koreas join the United Nations",
+    "ko": "남북한 유엔 동시 가입",
+    "zh": "朝韩同时加入联合国",
+    "ja": "南北朝鮮の国連同時加盟"
+   },
+   "description": {
+    "en": "On 17 September 1991 South and North Korea were admitted to the United Nations simultaneously. Under President Roh Tae-woo's 'Nordpolitik', Seoul established diplomatic relations with the Soviet Union in 1990 and with China in 1992, and the two Koreas signed a Basic Agreement on reconciliation in December 1991.",
+    "ko": "1991년 9월 17일 남북한이 유엔에 동시 가입했다. 노태우 정부는 '북방 정책'을 펴서 1990년 소련, 1992년 중국과 수교했으며, 1991년 12월 남북은 화해와 불가침을 담은 남북 기본 합의서에 서명했다.",
+    "zh": "1991年9月17日，韩国与朝鲜同时加入联合国。卢泰愚政府推行“北方政策”，于1990年与苏联、1992年与中国建交；1991年12月，南北双方签署了关于和解与互不侵犯的《南北基本协议书》。",
+    "ja": "1991年9月17日、韓国と北朝鮮は国連に同時加盟した。盧泰愚政権は「北方政策」を推進して1990年にソ連、1992年に中国と国交を樹立し、1991年12月には南北が和解と不可侵を盛り込んだ南北基本合意書に署名した。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Real-name financial transaction system",
+    "ko": "금융 실명제 실시",
+    "zh": "实行金融实名制",
+    "ja": "金融実名制の実施"
+   },
+   "description": {
+    "en": "In August 1993 President Kim Young-sam, the first civilian president in three decades, introduced by emergency decree a requirement that all financial transactions be made under real names. The measure targeted hidden political slush funds and corruption, and later investigations led to the convictions of former presidents Chun Doo-hwan and Roh Tae-woo.",
+    "ko": "1993년 8월 30여 년 만의 문민 대통령인 김영삼은 긴급 명령으로 금융 실명제를 전격 실시했다. 이는 정치 비자금과 부패를 겨냥한 조치였으며, 이후 수사를 통해 전두환·노태우 전 대통령이 유죄 판결을 받았다.",
+    "zh": "1993年8月，三十余年来首位文人总统金泳三以紧急命令突然实行金融实名制。此举针对政治秘密资金和腐败，此后的调查导致前总统全斗焕、卢泰愚被判有罪。",
+    "ja": "1993年8月、30年余りぶりの文民大統領である金泳三は緊急命令で金融実名制を電撃的に実施した。これは政治裏金と腐敗を狙った措置で、その後の捜査により全斗煥・盧泰愚の両元大統領が有罪判決を受けた。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": "Q485384",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Sampoong Department Store collapse",
+    "ko": "삼풍백화점 붕괴 사고",
+    "zh": "三丰百货大楼倒塌事故",
+    "ja": "三豊百貨店崩壊事故"
+   },
+   "description": {
+    "en": "On 29 June 1995 the Sampoong Department Store in Seoul collapsed because of structural flaws and illegal alterations, killing 502 people. Coming months after the 1994 collapse of the Seongsu Bridge, it exposed the human cost of corner-cutting during rapid development.",
+    "ko": "1995년 6월 29일 서울의 삼풍백화점이 부실 시공과 불법 설계 변경으로 붕괴하여 502명이 숨졌다. 1994년 성수대교 붕괴에 이어 일어난 이 참사는 고속 성장 과정에서 안전을 소홀히 한 대가를 드러냈다.",
+    "zh": "1995年6月29日，首尔三丰百货大楼因结构缺陷和违规改建而倒塌，造成502人死亡。继1994年圣水大桥坍塌之后发生的这一惨剧，暴露了高速发展中忽视安全的代价。",
+    "ja": "1995年6月29日、ソウルの三豊百貨店が構造上の欠陥と違法な設計変更により崩壊し、502人が死亡した。1994年の聖水大橋崩落に続くこの惨事は、高度成長の中で安全を軽視した代償を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": null,
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Asian financial crisis and IMF bailout",
+    "ko": "IMF 외환 위기",
+    "zh": "亚洲金融危机与IMF救助",
+    "ja": "アジア通貨危機とIMF支援"
+   },
+   "description": {
+    "en": "In late 1997 South Korea's foreign reserves were nearly exhausted amid the Asian financial crisis, forcing the government to request a rescue package from the International Monetary Fund in November. Major conglomerates collapsed and unemployment soared, while citizens joined a gold-collecting campaign; the country repaid the IMF loans ahead of schedule in 2001.",
+    "ko": "1997년 말 아시아 금융 위기 속에 외환 보유액이 바닥나자 정부는 11월 국제통화기금(IMF)에 구제 금융을 신청했다. 대기업이 잇따라 무너지고 실업이 급증했으며, 국민들은 금 모으기 운동에 나섰다. 한국은 2001년 IMF 차입금을 조기 상환했다.",
+    "zh": "1997年底，亚洲金融危机中韩国外汇储备几近枯竭，政府于11月向国际货币基金组织（IMF）申请救助。大企业接连倒闭，失业率飙升，民众则发起捐献黄金运动。韩国于2001年提前还清了IMF贷款。",
+    "ja": "1997年末、アジア通貨危機の中で外貨準備が底をつき、政府は11月に国際通貨基金（IMF）に救済融資を要請した。大企業が相次いで破綻し失業が急増する中、国民は金集め運動に参加した。韓国は2001年にIMFからの借入を前倒しで返済した。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": "Q421762",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Kim Dae-jung elected president",
+    "ko": "김대중 대통령 당선",
+    "zh": "金大中当选总统",
+    "ja": "金大中、大統領に当選"
+   },
+   "description": {
+    "en": "In December 1997 the veteran opposition leader Kim Dae-jung won the presidential election, the first peaceful transfer of power from the ruling party to the opposition in South Korea's history. His 'Sunshine Policy' sought engagement with North Korea.",
+    "ko": "1997년 12월 대선에서 야당 지도자 김대중이 당선되어, 한국 헌정사상 처음으로 여야 간 평화적 정권 교체가 이루어졌다. 그는 '햇볕 정책'으로 북한과의 교류 협력을 추진했다.",
+    "zh": "1997年12月，资深在野党领袖金大中赢得总统选举，实现了韩国宪政史上首次由执政党向在野党的和平政权交替。他推行“阳光政策”，寻求与朝鲜交流合作。",
+    "ja": "1997年12月の大統領選挙で野党指導者の金大中が当選し、韓国憲政史上初めて与党から野党への平和的な政権交代が実現した。彼は「太陽政策」で北朝鮮との交流・協力を進めた。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": "Q487775",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First inter-Korean summit",
+    "ko": "6·15 남북 정상회담",
+    "zh": "首次朝韩首脑会谈",
+    "ja": "初の南北首脳会談"
+   },
+   "description": {
+    "en": "In June 2000 Kim Dae-jung met Kim Jong-il in Pyongyang in the first summit between the leaders of the two Koreas, issuing the June 15 Joint Declaration. Family reunions and economic projects such as the Kaesong Industrial Complex followed, and Kim Dae-jung received the Nobel Peace Prize that year.",
+    "ko": "2000년 6월 김대중 대통령은 평양에서 김정일 국방위원장과 분단 이후 첫 남북 정상회담을 갖고 6·15 남북 공동 선언을 발표했다. 이후 이산가족 상봉과 개성 공단 같은 경제 협력이 이어졌고, 김대중은 그해 노벨 평화상을 받았다.",
+    "zh": "2000年6月，金大中总统在平壤与金正日举行分裂以来首次南北首脑会谈，发表《六一五南北共同宣言》。此后离散家属团聚和开城工业园区等经济合作相继展开，金大中于同年获得诺贝尔和平奖。",
+    "ja": "2000年6月、金大中大統領は平壌で金正日と分断後初の南北首脳会談を行い、六・一五南北共同宣言を発表した。その後、離散家族の再会や開城工業団地などの経済協力が続き、金大中は同年ノーベル平和賞を受賞した。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "FIFA World Cup co-hosted with Japan",
+    "ko": "한일 월드컵 개최",
+    "zh": "韩日世界杯",
+    "ja": "日韓ワールドカップ開催"
+   },
+   "description": {
+    "en": "South Korea and Japan co-hosted the 2002 FIFA World Cup, the first held in Asia. The South Korean team reached the semi-finals, and millions of 'Red Devils' supporters filled city squares for street cheering.",
+    "ko": "2002년 한국과 일본은 아시아 최초의 FIFA 월드컵을 공동 개최했다. 한국 대표팀은 4강에 올랐고, 수많은 '붉은 악마' 응원단이 광장을 가득 메운 거리 응원을 펼쳤다.",
+    "zh": "2002年，韩国与日本联合举办了亚洲首届国际足联世界杯。韩国队打入四强，大批“红魔”球迷涌上城市广场进行街头助威。",
+    "ja": "2002年、韓国と日本はアジア初のFIFAワールドカップを共同開催した。韓国代表はベスト4に進出し、多くの「レッドデビルズ」の応援団が広場を埋め尽くして街頭応援を繰り広げた。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "KTX high-speed rail opens",
+    "ko": "KTX 고속철도 개통",
+    "zh": "KTX高速铁路开通",
+    "ja": "KTX高速鉄道の開業"
+   },
+   "description": {
+    "en": "In April 2004 the Korea Train eXpress (KTX) began service on the Seoul-Busan and Seoul-Mokpo corridors, using French TGV-based technology. High-speed rail sharply cut travel times and reshaped the country's economic geography.",
+    "ko": "2004년 4월 프랑스 TGV 기술을 바탕으로 한 KTX가 경부선과 호남선에서 운행을 시작했다. 고속철도는 이동 시간을 크게 줄여 국토의 경제 지형을 바꾸어 놓았다.",
+    "zh": "2004年4月，以法国TGV技术为基础的韩国高速铁路KTX在京釜线和湖南线投入运营。高铁大幅缩短了出行时间，重塑了韩国的经济地理格局。",
+    "ja": "2004年4月、フランスのTGV技術を基にしたKTXが京釜線と湖南線で運行を開始した。高速鉄道は移動時間を大幅に短縮し、国土の経済地図を塗り替えた。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q483875",
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Namdaemun gate destroyed by arson",
+    "ko": "숭례문 방화 사건",
+    "zh": "崇礼门纵火案",
+    "ja": "崇礼門放火事件"
+   },
+   "description": {
+    "en": "In February 2008 an arsonist set fire to Sungnyemun (Namdaemun), Seoul's 14th-century south gate and National Treasure No. 1, destroying most of its wooden structure. The loss shocked the nation; the gate was restored using traditional techniques and reopened in 2013.",
+    "ko": "2008년 2월 한 방화범이 국보 제1호인 서울 숭례문에 불을 질러 목조 누각 대부분이 불탔다. 온 국민에게 충격을 준 이 사건 뒤 숭례문은 전통 기법으로 복원되어 2013년 다시 공개되었다.",
+    "zh": "2008年2月，一名纵火者点燃了首尔的国宝第1号崇礼门（南大门），其木结构城楼大部分被焚毁。这一事件震惊全国，崇礼门后以传统工艺修复，于2013年重新开放。",
+    "ja": "2008年2月、放火犯が国宝第1号であるソウルの崇礼門（南大門）に火を放ち、木造の楼閣の大部分が焼失した。国民に衝撃を与えたこの事件の後、崇礼門は伝統技法で復元され、2013年に再公開された。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": "Q494058",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Cheonan sinking and Yeonpyeong shelling",
+    "ko": "천안함 피격과 연평도 포격",
+    "zh": "天安舰事件与延坪岛炮击",
+    "ja": "天安沈没事件と延坪島砲撃"
+   },
+   "description": {
+    "en": "In March 2010 the corvette ROKS Cheonan sank in the Yellow Sea near the Northern Limit Line, killing 46 sailors; a South Korean-led international investigation concluded it was torpedoed by North Korea, which denied responsibility. In November North Korea shelled Yeonpyeong Island, killing soldiers and civilians, the first attack on a populated South Korean area since the war.",
+    "ko": "2010년 3월 서해 북방한계선 부근에서 초계함 천안함이 침몰하여 장병 46명이 숨졌다. 한국 주도의 국제 합동 조사단은 북한의 어뢰 공격으로 결론지었으나 북한은 이를 부인했다. 11월에는 북한이 연평도를 포격하여 군인과 민간인이 숨졌으며, 이는 전쟁 이후 민간인 거주 지역에 대한 첫 공격이었다.",
+    "zh": "2010年3月，韩国海军“天安”号护卫舰在黄海北方界线附近沉没，46名官兵遇难；韩国主导的国际联合调查团认定其系遭朝鲜鱼雷攻击，朝鲜否认。11月朝鲜炮击延坪岛，造成军人和平民死亡，这是朝鲜战争后首次攻击韩国平民居住区。",
+    "ja": "2010年3月、黄海の北方限界線付近で哨戒艦「天安」が沈没し、将兵46人が死亡した。韓国主導の国際合同調査団は北朝鮮の魚雷攻撃と結論づけたが、北朝鮮は否定した。11月には北朝鮮が延坪島を砲撃して軍人と民間人が死亡し、朝鮮戦争後初めての民間人居住地域への攻撃となった。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": "Q483749",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "G20 Seoul summit",
+    "ko": "서울 G20 정상회의",
+    "zh": "G20首尔峰会",
+    "ja": "G20ソウル・サミット"
+   },
+   "description": {
+    "en": "In November 2010 Seoul hosted the G20 leaders' summit, the first held in a non-G8 country and in Asia. Hosting the meeting symbolized South Korea's transformation from an aid recipient into a major economy; it had joined the OECD's Development Assistance Committee as a donor the previous year.",
+    "ko": "2010년 11월 서울에서 G20 정상회의가 열렸는데, G8 이외의 국가이자 아시아에서 개최된 첫 회의였다. 이는 원조를 받던 나라에서 주요 경제국으로 탈바꿈한 한국의 위상을 상징했으며, 한국은 그 전해 OECD 개발원조위원회(DAC)에 공여국으로 가입했다.",
+    "zh": "2010年11月，首尔举办二十国集团领导人峰会，这是首次在八国集团以外的国家以及在亚洲举行。这次峰会象征着韩国从受援国转变为主要经济体；前一年，韩国作为援助国加入了经合组织发展援助委员会（DAC）。",
+    "ja": "2010年11月、ソウルでG20首脳会議が開かれた。G8以外の国かつアジアで初の開催であった。これは被援助国から主要経済国へと変貌した韓国の地位を象徴しており、韓国は前年にOECD開発援助委員会（DAC）に援助国として加盟していた。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q16338015",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Sinking of the MV Sewol",
+    "ko": "세월호 참사",
+    "zh": "世越号沉船事故",
+    "ja": "セウォル号沈没事故"
+   },
+   "description": {
+    "en": "On 16 April 2014 the overloaded ferry Sewol capsized off Jindo en route to Jeju, killing 304 people, most of them high-school students from Ansan on a school trip. Failures in the rescue and in regulation prompted national mourning and deep public anger at the government.",
+    "ko": "2014년 4월 16일 제주로 향하던 여객선 세월호가 진도 앞바다에서 침몰하여 304명이 숨졌으며, 희생자 대부분은 수학여행 중이던 안산 단원고 학생들이었다. 구조 실패와 규제 부실은 온 나라를 애도와 정부에 대한 깊은 분노로 몰아넣었다.",
+    "zh": "2014年4月16日，开往济州的客轮“世越号”在珍岛海域沉没，造成304人死亡，遇难者大多是参加修学旅行的安山檀园高中学生。救援失败与监管疏漏令举国哀悼，民众对政府深感愤怒。",
+    "ja": "2014年4月16日、済州島へ向かっていた旅客船セウォル号が珍島沖で沈没し、304人が死亡した。犠牲者の大半は修学旅行中の安山・檀園高校の生徒であった。救助の失敗と規制の不備は国全体を深い哀悼と政府への怒りに包んだ。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q27942570",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Candlelight protests and impeachment of Park Geun-hye",
+    "ko": "촛불 집회와 박근혜 대통령 탄핵",
+    "zh": "烛光集会与朴槿惠被弹劾",
+    "ja": "ろうそく集会と朴槿恵大統領の弾劾"
+   },
+   "description": {
+    "en": "Revelations that President Park Geun-hye's confidante Choi Soon-sil had meddled in state affairs triggered months of peaceful candlelight rallies in late 2016. The National Assembly impeached Park on 9 December 2016, and on 10 March 2017 the Constitutional Court unanimously upheld her removal from office.",
+    "ko": "박근혜 대통령의 비선 실세 최순실의 국정 개입이 드러나자 2016년 말부터 수개월 동안 평화적인 촛불 집회가 이어졌다. 국회는 2016년 12월 9일 탄핵 소추안을 가결했고, 헌법재판소는 2017년 3월 10일 재판관 전원 일치로 파면을 결정했다.",
+    "zh": "朴槿惠总统的亲信崔顺实干政丑闻曝光后，自2016年底起，和平的烛光集会持续数月。国会于2016年12月9日通过弹劾案，宪法法院于2017年3月10日以全体法官一致意见裁定将其罢免。",
+    "ja": "朴槿恵大統領の側近・崔順実の国政介入が明らかになると、2016年末から数か月にわたり平和的なろうそく集会が続いた。国会は2016年12月9日に弾劾訴追案を可決し、憲法裁判所は2017年3月10日に裁判官全員一致で罷免を決定した。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q5518652",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Moon Jae-in elected president",
+    "ko": "문재인 대통령 당선",
+    "zh": "文在寅当选总统",
+    "ja": "文在寅、大統領に当選"
+   },
+   "description": {
+    "en": "In the early presidential election of May 2017 following Park Geun-hye's removal, Moon Jae-in of the Democratic Party won and took office the next day. His administration pursued dialogue with North Korea.",
+    "ko": "박근혜 파면에 따라 2017년 5월 치러진 조기 대선에서 더불어민주당의 문재인이 당선되어 이튿날 곧바로 취임했다. 문재인 정부는 북한과의 대화를 추진했다.",
+    "zh": "朴槿惠被罢免后，2017年5月举行的提前总统选举中，共同民主党的文在寅当选，并于次日就职。文在寅政府积极推动与朝鲜对话。",
+    "ja": "朴槿恵の罷免を受けて2017年5月に行われた繰り上げ大統領選挙で共に民主党の文在寅が当選し、翌日すぐに就任した。文在寅政権は北朝鮮との対話を推進した。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "PyeongChang Winter Olympics",
+    "ko": "평창 동계 올림픽",
+    "zh": "平昌冬季奥运会",
+    "ja": "平昌冬季オリンピック"
+   },
+   "description": {
+    "en": "In February 2018 PyeongChang in Gangwon province hosted the Winter Olympic Games. North Korea sent athletes and a high-level delegation, the two Koreas marched together at the opening ceremony and fielded a joint women's ice hockey team, opening a period of diplomacy.",
+    "ko": "2018년 2월 강원도 평창에서 동계 올림픽이 열렸다. 북한은 선수단과 고위급 대표단을 보냈고, 남북은 개회식에 공동 입장하고 여자 아이스하키 단일팀을 구성하여 이후 대화 국면의 문을 열었다.",
+    "zh": "2018年2月，江原道平昌举办冬季奥运会。朝鲜派出运动员和高级代表团，南北双方在开幕式上共同入场，并组建女子冰球联队，开启了此后的对话局面。",
+    "ja": "2018年2月、江原道平昌で冬季オリンピックが開催された。北朝鮮は選手団と高位級代表団を派遣し、南北は開会式で合同入場して女子アイスホッケーの合同チームを結成し、その後の対話局面への道を開いた。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q50396447",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Panmunjom inter-Korean summit",
+    "ko": "4·27 판문점 남북 정상회담",
+    "zh": "板门店朝韩首脑会谈",
+    "ja": "板門店南北首脳会談"
+   },
+   "description": {
+    "en": "On 27 April 2018 Kim Jong-un crossed the Military Demarcation Line at Panmunjom to meet Moon Jae-in, the first North Korean leader to set foot in the South since the war. Their Panmunjom Declaration pledged denuclearization and an end to the war, and paved the way for US-North Korea summits, though these failed to produce a lasting agreement.",
+    "ko": "2018년 4월 27일 김정은 국무위원장이 판문점 군사분계선을 넘어 문재인 대통령과 만났는데, 전쟁 이후 남측 땅을 밟은 첫 북한 최고 지도자였다. 두 정상은 한반도 비핵화와 종전을 다짐한 판문점 선언을 발표했고, 이는 북미 정상회담으로 이어졌으나 지속적인 합의에는 이르지 못했다.",
+    "zh": "2018年4月27日，金正恩跨过板门店军事分界线与文在寅会面，成为朝鲜战争后首位踏上南方土地的朝鲜最高领导人。双方发表承诺实现半岛无核化与结束战争状态的《板门店宣言》，并为此后的朝美首脑会谈铺平道路，但未能达成持久协议。",
+    "ja": "2018年4月27日、金正恩国務委員長は板門店の軍事境界線を越えて文在寅大統領と会談し、朝鮮戦争後に南側の地を踏んだ初の北朝鮮最高指導者となった。両首脳は非核化と終戦を誓う板門店宣言を発表し、米朝首脳会談へとつながったが、持続的な合意には至らなかった。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q83872398",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in South Korea",
+    "ko": "코로나19 범유행",
+    "zh": "新冠疫情在韩国",
+    "ja": "韓国の新型コロナウイルス感染症流行"
+   },
+   "description": {
+    "en": "South Korea confirmed its first COVID-19 case in January 2020 and soon faced one of the largest early outbreaks outside China, centred on Daegu. Its strategy of mass testing, drive-through testing stations and contact tracing drew international attention, and the 2020 legislative election was held on schedule during the pandemic.",
+    "ko": "2020년 1월 첫 확진자가 나온 뒤 한국은 대구를 중심으로 중국 이외 지역에서 가장 큰 초기 집단 감염 가운데 하나를 겪었다. 대규모 진단 검사, 드라이브 스루 선별 진료소, 접촉자 추적 전략은 국제적 주목을 받았으며, 2020년 총선은 범유행 속에서도 예정대로 치러졌다.",
+    "zh": "韩国于2020年1月确诊首例新冠病例，随后以大邱为中心出现中国以外规模最大的早期疫情之一。大规模检测、“得来速”式筛查站和密接追踪策略引起国际关注，2020年国会选举也在疫情中如期举行。",
+    "ja": "韓国は2020年1月に最初の感染者を確認し、まもなく大邱を中心に中国以外で最大級の初期集団感染に直面した。大規模検査、ドライブスルー検査所、接触者追跡の戦略は国際的な注目を集め、2020年の総選挙はパンデミックの中でも予定どおり実施された。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Parasite wins the Academy Award for Best Picture",
+    "ko": "영화 「기생충」 아카데미 작품상 수상",
+    "zh": "《寄生虫》获奥斯卡最佳影片",
+    "ja": "映画『パラサイト』アカデミー作品賞受賞"
+   },
+   "description": {
+    "en": "In February 2020 Bong Joon-ho's Parasite became the first non-English-language film to win the Academy Award for Best Picture, after winning the Palme d'Or at Cannes in 2019. Together with K-pop groups such as BTS, it marked the global reach of the Korean Wave.",
+    "ko": "2020년 2월 봉준호 감독의 「기생충」은 2019년 칸 영화제 황금종려상에 이어 비영어 영화 최초로 아카데미 작품상을 받았다. BTS 등 K팝 그룹과 함께 한류의 세계적 영향력을 보여 준 사건이었다.",
+    "zh": "2020年2月，奉俊昊执导的《寄生虫》继2019年摘得戛纳电影节金棕榈奖后，成为首部获得奥斯卡最佳影片奖的非英语电影。它与BTS等韩流偶像团体一起，展现了韩流的全球影响力。",
+    "ja": "2020年2月、ポン・ジュノ監督の『パラサイト 半地下の家族』は、2019年のカンヌ国際映画祭パルム・ドールに続き、非英語作品として初めてアカデミー作品賞を受賞した。BTSなどのK-POPグループとともに、韓流の世界的な影響力を示す出来事となった。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q114912414",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Itaewon Halloween crowd crush",
+    "ko": "이태원 참사",
+    "zh": "梨泰院踩踏事故",
+    "ja": "梨泰院雑踏事故"
+   },
+   "description": {
+    "en": "On the night of 29 October 2022 a crowd crush in a narrow alley in Seoul's Itaewon district during Halloween festivities killed 159 people, most of them young adults. The disaster raised questions about crowd management and police preparedness.",
+    "ko": "2022년 10월 29일 밤 핼러윈을 맞아 서울 이태원의 좁은 골목에 인파가 몰리며 압사 사고가 일어나 159명이 숨졌으며, 희생자 대부분은 젊은이였다. 이 참사는 군중 관리와 경찰 대응에 대한 문제를 제기했다.",
+    "zh": "2022年10月29日夜，首尔梨泰院一条狭窄小巷在万圣节活动期间发生踩踏事故，造成159人死亡，遇难者大多是年轻人。这场灾难引发了对人群管理和警方应对的质疑。",
+    "ja": "2022年10月29日夜、ハロウィーンでにぎわうソウル・梨泰院の狭い路地で群衆雪崩が起き、159人が死亡した。犠牲者の多くは若者であった。この惨事は群衆管理と警察の対応をめぐる問題を提起した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q131380778",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Martial law crisis",
+    "ko": "12·3 비상계엄 사태",
+    "zh": "12·3紧急戒严事件",
+    "ja": "12・3非常戒厳事態"
+   },
+   "description": {
+    "en": "On the night of 3 December 2024 President Yoon Suk Yeol declared emergency martial law, the first since 1980, and troops were sent to the National Assembly. Lawmakers who entered the chamber voted to lift it within hours, and Yoon rescinded the decree before dawn. The Assembly impeached him on 14 December, and he also faced criminal charges of leading an insurrection.",
+    "ko": "2024년 12월 3일 밤 윤석열 대통령은 1980년 이후 처음으로 비상계엄을 선포했고 계엄군이 국회에 투입되었다. 국회에 모인 의원들이 몇 시간 만에 계엄 해제 요구안을 가결했고, 윤석열은 새벽에 계엄을 해제했다. 국회는 12월 14일 탄핵 소추안을 가결했으며, 그는 내란 우두머리 혐의로 형사 재판에도 회부되었다.",
+    "zh": "2024年12月3日夜，尹锡悦总统宣布实施1980年以来首次紧急戒严，戒严军被派往国会。进入议场的议员在数小时内表决通过解除戒严的要求，尹锡悦于凌晨解除戒严。国会于12月14日通过弹劾案，他还以内乱头目罪名被提起刑事诉讼。",
+    "ja": "2024年12月3日夜、尹錫悦大統領は1980年以来初となる非常戒厳を宣布し、戒厳軍が国会に投入された。議場に集まった議員たちは数時間で戒厳解除要求案を可決し、尹錫悦は未明に戒厳を解除した。国会は12月14日に弾劾訴追案を可決し、彼は内乱首謀の罪でも起訴された。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Han Kang wins the Nobel Prize in Literature",
+    "ko": "한강, 노벨 문학상 수상",
+    "zh": "韩江获诺贝尔文学奖",
+    "ja": "韓江、ノーベル文学賞受賞"
+   },
+   "description": {
+    "en": "In October 2024 the novelist Han Kang, author of The Vegetarian and Human Acts, a novel about the Gwangju Uprising, was awarded the Nobel Prize in Literature. She was the first Korean and the first Asian woman to receive the prize.",
+    "ko": "2024년 10월 『채식주의자』와 광주 민주화 운동을 다룬 『소년이 온다』의 작가 한강이 노벨 문학상 수상자로 선정되었다. 한국인 최초이자 아시아 여성 최초의 수상이었다.",
+    "zh": "2024年10月，著有《素食者》和讲述光州民主化运动的《少年来了》的作家韩江荣获诺贝尔文学奖。她是首位获得该奖的韩国人，也是首位获奖的亚洲女性。",
+    "ja": "2024年10月、『菜食主義者』や光州民主化運動を描いた『少年が来る』の作家・韓江がノーベル文学賞を受賞した。韓国人として初めて、またアジアの女性として初めての受賞であった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q131581945",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Jeju Air Flight 2216 disaster",
+    "ko": "제주항공 2216편 참사",
+    "zh": "济州航空2216号班机事故",
+    "ja": "チェジュ航空2216便事故"
+   },
+   "description": {
+    "en": "On 29 December 2024 Jeju Air Flight 2216 from Bangkok crash-landed at Muan International Airport and struck a concrete embankment at the end of the runway, killing 179 of the 181 people aboard. It was the deadliest aviation disaster on South Korean soil.",
+    "ko": "2024년 12월 29일 방콕발 제주항공 2216편이 무안국제공항에 동체 착륙하던 중 활주로 끝의 콘크리트 둔덕에 충돌하여 탑승자 181명 가운데 179명이 숨졌다. 한국 영토에서 일어난 최악의 항공 참사였다.",
+    "zh": "2024年12月29日，从曼谷起飞的济州航空2216号班机在务安国际机场机腹着陆时撞上跑道尽头的混凝土土堤，机上181人中179人遇难。这是在韩国境内发生的最严重空难。",
+    "ja": "2024年12月29日、バンコク発のチェジュ航空2216便が務安国際空港に胴体着陸した際、滑走路端のコンクリート製の盛り土に衝突し、搭乗者181人のうち179人が死亡した。韓国国内で起きた最悪の航空事故であった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q117433900",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Yoon removed from office; Lee Jae-myung elected",
+    "ko": "윤석열 파면과 이재명 대통령 당선",
+    "zh": "尹锡悦被罢免，李在明当选总统",
+    "ja": "尹錫悦の罷免と李在明の大統領当選"
+   },
+   "description": {
+    "en": "On 4 April 2025 the Constitutional Court unanimously upheld the impeachment of Yoon Suk Yeol over the martial law declaration, removing him from office. In the snap presidential election of 3 June 2025, Lee Jae-myung of the Democratic Party won and took office the following day.",
+    "ko": "2025년 4월 4일 헌법재판소는 비상계엄 선포와 관련한 윤석열 대통령 탄핵 사건에서 재판관 전원 일치로 파면을 결정했다. 6월 3일 치러진 조기 대선에서 더불어민주당의 이재명이 당선되어 이튿날 취임했다.",
+    "zh": "2025年4月4日，宪法法院以全体法官一致意见，就紧急戒严一案裁定罢免尹锡悦。在6月3日举行的提前总统选举中，共同民主党的李在明当选，并于次日就职。",
+    "ja": "2025年4月4日、憲法裁判所は非常戒厳宣布をめぐる尹錫悦大統領の弾劾審判で、裁判官全員一致で罷免を決定した。6月3日に行われた繰り上げ大統領選挙で共に民主党の李在明が当選し、翌日就任した。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q130550795",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "APEC summit in Gyeongju",
+    "ko": "경주 APEC 정상회의",
+    "zh": "庆州APEC峰会",
+    "ja": "慶州APEC首脳会議"
+   },
+   "description": {
+    "en": "In late October and early November 2025 South Korea hosted the APEC Economic Leaders' Meeting in Gyeongju, the ancient capital of Silla. It was the second time the country hosted the forum, after Busan in 2005.",
+    "ko": "2025년 10월 말부터 11월 초까지 신라의 옛 수도 경주에서 APEC 정상회의가 열렸다. 2005년 부산에 이어 한국이 두 번째로 개최한 APEC 정상회의였다.",
+    "zh": "2025年10月底至11月初，韩国在新罗古都庆州举办亚太经合组织（APEC）领导人非正式会议。这是继2005年釜山之后，韩国第二次主办该会议。",
+    "ja": "2025年10月末から11月初めにかけて、韓国は新羅の古都・慶州でAPEC首脳会議を開催した。2005年の釜山に続き、韓国が主催した2回目のAPEC首脳会議であった。"
+   }
+  }
+ ]
+}

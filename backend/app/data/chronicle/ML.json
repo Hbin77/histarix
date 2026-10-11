@@ -1,0 +1,1772 @@
+{
+ "iso": "ML",
+ "eras": [
+  {
+   "from": -10000,
+   "to": -2501,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Green Sahara and early pottery",
+    "ko": "녹색 사하라와 초기 토기",
+    "zh": "绿色撒哈拉与早期陶器",
+    "ja": "緑のサハラと初期土器"
+   },
+   "summary": {
+    "en": "During the African Humid Period, what is now northern Mali was a land of lakes, grasslands and rivers inhabited by hunters, fishers and gatherers. At Ounjougou on the Dogon Plateau, archaeologists have found pottery dated to around 9400 BC, among the oldest known in Africa. Over the following millennia people in the Sahara and Sahel adopted cattle herding and left rock art in uplands such as the Adrar des Ifoghas.",
+    "ko": "아프리카 습윤기 동안 오늘날 말리 북부는 호수·초원·강이 있는 땅으로, 수렵·어로·채집민이 살았다. 도곤 고원의 운주구 유적에서는 기원전 9400년경으로 연대가 측정된, 아프리카에서 가장 오래된 축에 드는 토기가 발견되었다. 이후 수천 년 동안 사하라와 사헬 사람들은 소 목축을 받아들였고 아드라르데지포라스 같은 고지에 암각화를 남겼다.",
+    "zh": "在非洲湿润期，今马里北部是湖泊、草原和河流密布之地，生活着狩猎、捕鱼和采集者。在多贡高原的翁茹古遗址，考古学家发现了年代约为公元前9400年的陶器，是非洲已知最古老的陶器之一。此后数千年间，撒哈拉和萨赫勒的人们开始放牧牛群，并在伊福加斯山等高地留下岩画。",
+    "ja": "アフリカ湿潤期、現在のマリ北部は湖・草原・川の広がる土地で、狩猟・漁労・採集の民が暮らしていた。ドゴン高原のウンジュグ遺跡では前9400年頃とされる土器が見つかっており、アフリカで知られる最古級のものである。その後数千年の間にサハラとサヘルの人々は牛の牧畜を取り入れ、アドラール・デ・イフォラスなどの高地に岩絵を残した。"
+   }
+  },
+  {
+   "from": -2500,
+   "to": -301,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Late Stone Age herders and farmers of the Sahel",
+    "ko": "사헬의 후기 석기시대 목축·농경민",
+    "zh": "萨赫勒的晚期石器时代牧民与农民",
+    "ja": "サヘルの後期石器時代の牧畜民と農耕民"
+   },
+   "summary": {
+    "en": "As the Sahara dried after about 3000 BC, herders and farmers moved toward the Niger River and the Sahel. In the Tilemsi Valley, early domesticated pearl millet dated to about 2500 BC is among the earliest evidence of crop domestication in West Africa, while cattle herders occupied sites such as Karkarichinkat. Communities in the Méma and the lakes region combined fishing, herding and farming, and iron working appeared in the region by the later first millennium BC.",
+    "ko": "기원전 3000년 이후 사하라가 건조해지면서 목축민과 농경민은 니제르강과 사헬 쪽으로 이동했다. 틸렘시 계곡에서 발견된 기원전 2500년경의 재배 진주조는 서아프리카 작물 재배화의 가장 이른 증거 가운데 하나이며, 카르카리친카트 같은 유적에는 소 목축민이 살았다. 메마와 호수 지대의 공동체는 어로·목축·농경을 겸했고, 기원전 1천년기 후반에는 이 지역에 제철이 나타났다.",
+    "zh": "约公元前3000年后撒哈拉逐渐干旱，牧民和农民向尼日尔河及萨赫勒地区迁移。蒂勒姆西河谷出土的约公元前2500年的驯化珍珠粟，是西非作物驯化的最早证据之一，卡尔卡里钦卡特等遗址则有养牛牧民居住。梅马和湖区的社群兼营渔业、畜牧和农耕，到公元前一千纪后期，该地区已出现冶铁。",
+    "ja": "前3000年以降にサハラが乾燥すると、牧畜民と農耕民はニジェール川とサヘルの方へ移動した。ティレムシ渓谷で見つかった前2500年頃の栽培化されたトウジンビエは西アフリカにおける作物栽培化の最古級の証拠であり、カルカリチンカトなどの遺跡には牛牧畜民が暮らした。メマや湖沼地帯の共同体は漁労・牧畜・農耕を兼ね、前1千年紀後半には製鉄がこの地域に現れた。"
+   }
+  },
+  {
+   "from": -300,
+   "to": 1400,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Jenné-jeno and the urban Inland Niger Delta",
+    "ko": "젠네제노와 니제르 내륙 삼각주의 도시 문명",
+    "zh": "杰内-杰诺与尼日尔河内陆三角洲城市文明",
+    "ja": "ジェンネ・ジェノとニジェール川内陸デルタの都市文明"
+   },
+   "summary": {
+    "en": "From around 250 BC, Jenné-jeno near modern Djenné grew from a settlement of iron-using farmers and fishers into one of the oldest known cities of sub-Saharan Africa, reaching its peak around AD 800–1000. It and neighboring clustered settlements traded rice, fish, iron and copper along the Niger, apparently without a centralized palace-state. The city declined and was abandoned around 1400 as Djenné rose nearby.",
+    "ko": "기원전 250년경부터 오늘날 젠네 부근의 젠네제노는 철을 쓰는 농경·어로민의 정착지에서 사하라 이남 아프리카에서 가장 오래된 도시 가운데 하나로 성장해 기원후 800~1000년경 전성기를 맞았다. 젠네제노와 주변의 군집 정착지들은 니제르강을 따라 쌀·물고기·철·구리를 교역했으며, 중앙집권적 왕궁 국가 없이 운영된 것으로 보인다. 이 도시는 가까운 젠네가 성장하면서 1400년경 쇠퇴해 버려졌다.",
+    "zh": "约自公元前250年起，今杰内附近的杰内-杰诺从一个使用铁器的农渔民聚落发展为撒哈拉以南非洲已知最古老的城市之一，约在公元800至1000年达到鼎盛。它与周边的聚落群沿尼日尔河交易稻米、鱼、铁和铜，似乎并不存在中央集权的宫廷国家。随着附近杰内城的兴起，该城约于1400年衰落并被废弃。",
+    "ja": "前250年頃から、現在のジェンネ近郊のジェンネ・ジェノは鉄を使う農耕・漁労民の集落から、サハラ以南アフリカで知られる最古級の都市へと成長し、紀元800〜1000年頃に最盛期を迎えた。周辺の集落群とともにニジェール川沿いで米・魚・鉄・銅を交易したが、中央集権的な王宮国家はなかったとみられる。近くのジェンネが台頭すると、町は1400年頃に衰退し放棄された。"
+   }
+  },
+  {
+   "from": 300,
+   "to": 1200,
+   "kind": "state",
+   "qid": "Q206789",
+   "polity": "Ghana Empire",
+   "name": {
+    "en": "Ghana Empire (Wagadu)",
+    "ko": "가나 제국(와가두)",
+    "zh": "加纳帝国（瓦加杜）",
+    "ja": "ガーナ王国（ワガドゥ）"
+   },
+   "summary": {
+    "en": "The Soninke kingdom of Wagadu, known to Arab writers as Ghana after the title of its king, controlled the Sahel north of the upper Niger and Senegal rivers, including western parts of modern Mali. Its capital, generally identified with Koumbi Saleh just across today's Mauritanian border, grew rich by taxing the trans-Saharan trade in gold from the southern goldfields and salt from the desert. Ghana declined in the 11th and 12th centuries, and its former lands passed to the Sosso and then to Mali.",
+    "ko": "왕의 칭호를 따서 아랍 저술가들이 '가나'라고 부른 소닝케족의 와가두 왕국은 니제르강·세네갈강 상류 북쪽의 사헬, 곧 오늘날 말리 서부 일부를 포함한 지역을 지배했다. 오늘날 모리타니 국경 바로 너머의 쿰비살레로 흔히 비정되는 수도는 남부 금광의 금과 사막의 소금이 오가는 사하라 횡단 교역에 세금을 매겨 부유해졌다. 가나는 11~12세기에 쇠퇴했고, 그 옛 영토는 소소를 거쳐 말리로 넘어갔다.",
+    "zh": "索宁克人的瓦加杜王国因其国王的称号而被阿拉伯作家称为“加纳”，控制着尼日尔河和塞内加尔河上游以北的萨赫勒地区，包括今马里西部部分地区。其都城一般被认为是今毛里塔尼亚边境另一侧的昆比萨利赫，通过对南方金矿的黄金与沙漠食盐的跨撒哈拉贸易征税而致富。加纳在11至12世纪衰落，其故地先后归于苏苏和马里。",
+    "ja": "王の称号にちなみアラブの著述家が「ガーナ」と呼んだソニンケ人のワガドゥ王国は、ニジェール川・セネガル川上流の北のサヘル、すなわち現在のマリ西部の一部を含む地域を支配した。首都は今日のモーリタニア国境のすぐ向こうのクンビ・サレーとされることが多く、南の金産地の金と砂漠の塩をめぐるサハラ縦断交易への課税で富み栄えた。ガーナは11〜12世紀に衰え、その旧領はソッソを経てマリへと移った。"
+   }
+  },
+  {
+   "from": 800,
+   "to": 1463,
+   "kind": "state",
+   "qid": "Q1493766",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Gao (Kawkaw)",
+    "ko": "가오 왕국(카우카우)",
+    "zh": "加奥王国（考考）",
+    "ja": "ガオ王国（カウカウ）"
+   },
+   "summary": {
+    "en": "On the eastern bend of the Niger, the kingdom known to Arab geographers as Kawkaw, centered on Gao, was described in the 9th century as one of the most powerful states of the western Sudan. Its rulers converted to Islam by the early 11th century, and royal tombstones with Arabic inscriptions, some carved in Almería in Spain, mark the cemetery at Gao-Saney. Gao was absorbed into the Mali Empire in the 14th century and later became the capital of the Songhai Empire.",
+    "ko": "니제르강 동쪽 굽이에서 가오를 중심으로 한 왕국은 아랍 지리학자들에게 '카우카우'로 알려졌으며, 9세기에 서수단에서 가장 강력한 나라 가운데 하나로 묘사되었다. 그 통치자들은 11세기 초까지 이슬람으로 개종했고, 가오사네 묘역에는 일부가 에스파냐 알메리아에서 조각된 아랍어 왕실 묘비가 남아 있다. 가오는 14세기 말리 제국에 편입되었다가 훗날 송가이 제국의 수도가 되었다.",
+    "zh": "在尼日尔河东弯，以加奥为中心、被阿拉伯地理学家称为“考考”的王国，在9世纪被描述为西苏丹最强大的国家之一。其统治者在11世纪初已皈依伊斯兰教，加奥-萨内墓地保留有阿拉伯文王室墓碑，其中一些雕刻于西班牙阿尔梅里亚。加奥在14世纪并入马里帝国，后来成为桑海帝国的都城。",
+    "ja": "ニジェール川の東の湾曲部で、ガオを中心とする王国はアラブの地理学者に「カウカウ」として知られ、9世紀には西スーダン有数の強国と記された。その支配者たちは11世紀初めまでにイスラームに改宗し、ガオ・サネの墓地には一部がスペインのアルメリアで彫られたアラビア語の王墓碑が残る。ガオは14世紀にマリ帝国に編入され、のちにソンガイ帝国の首都となった。"
+   }
+  },
+  {
+   "from": 1180,
+   "to": 1235,
+   "kind": "state",
+   "qid": "Q13099593",
+   "polity": "Sosso Empire",
+   "name": {
+    "en": "Sosso Kingdom",
+    "ko": "소소 왕국",
+    "zh": "苏苏王国",
+    "ja": "ソッソ王国"
+   },
+   "summary": {
+    "en": "After Ghana's decline, the Sosso kingdom, led by the Kanté dynasty, became the dominant power in the region of the upper Niger and the former Ghana lands. According to oral tradition, its king Sumanguru (Soumaoro) Kanté, a famed blacksmith-sorcerer, subjugated the Mande chiefdoms around 1200. His defeat by Sundiata Keita in the 1230s ended Sosso power and gave rise to the Mali Empire.",
+    "ko": "가나가 쇠퇴한 뒤 칸테 왕조가 이끄는 소소 왕국이 니제르강 상류와 옛 가나 지역의 패권 세력이 되었다. 구전에 따르면 대장장이이자 주술사로 이름난 왕 수망구루(수마오로) 칸테가 1200년경 만데의 여러 족장국을 복속시켰다. 1230년대 순디아타 케이타에게 패하면서 소소의 힘은 끝나고 말리 제국이 일어났다.",
+    "zh": "加纳衰落后，由坎特王朝领导的苏苏王国成为尼日尔河上游及原加纳地区的主导力量。据口述传统，其国王、以铁匠兼巫师闻名的苏曼古鲁（苏马奥罗）·坎特约在1200年征服了曼德各酋邦。1230年代他被松迪亚塔·凯塔击败，苏苏势力告终，马里帝国随之兴起。",
+    "ja": "ガーナの衰退後、カンテ朝が率いるソッソ王国がニジェール川上流域と旧ガーナ領の覇権を握った。口承によれば、鍛冶師にして呪術師として名高い王スマングル（スマオロ）・カンテが1200年頃マンデの首長国を服属させた。1230年代にスンジャタ・ケイタに敗れてソッソの力は尽き、マリ帝国が興った。"
+   }
+  },
+  {
+   "from": 1235,
+   "to": 1610,
+   "kind": "state",
+   "qid": "Q184536",
+   "polity": "Mali Empire",
+   "name": {
+    "en": "Mali Empire",
+    "ko": "말리 제국",
+    "zh": "马里帝国",
+    "ja": "マリ帝国"
+   },
+   "summary": {
+    "en": "Founded by Sundiata Keita after his victory over the Sosso, the Mali Empire grew from the Mande heartland on the upper Niger into one of the largest states in the world in the 14th century, stretching from the Atlantic coast to Gao. It controlled the goldfields of Bambuk and Bure and the trans-Saharan trade, and under Mansa Musa its wealth and Islamic learning became famous in the Mediterranean world. From the 15th century it lost its eastern provinces to Songhai, and by the 17th century it had shrunk to a set of Mande chiefdoms.",
+    "ko": "소소를 무찌른 순디아타 케이타가 세운 말리 제국은 니제르강 상류의 만데 중심지에서 출발해 14세기에는 대서양 연안에서 가오까지 뻗은 세계 최대급 국가로 성장했다. 밤부크와 부레의 금광과 사하라 횡단 교역을 장악했으며, 만사 무사 시대에 그 부와 이슬람 학문은 지중해 세계에 널리 알려졌다. 15세기부터 동부 지방을 송가이에 빼앗겼고, 17세기에는 만데 족장국 몇 개로 줄어들었다.",
+    "zh": "马里帝国由击败苏苏的松迪亚塔·凯塔建立，从尼日尔河上游的曼德腹地发展为14世纪世界上最大的国家之一，疆域从大西洋沿岸延伸至加奥。它控制着班布克和布雷的金矿以及跨撒哈拉贸易，在曼萨·穆萨统治时期，其财富和伊斯兰学术闻名地中海世界。自15世纪起，帝国东部诸省被桑海夺去，到17世纪已萎缩为若干曼德酋邦。",
+    "ja": "ソッソを破ったスンジャタ・ケイタが建てたマリ帝国は、ニジェール川上流のマンデの中心地から発展し、14世紀には大西洋岸からガオに及ぶ世界有数の大国となった。バンブクとブレの金産地とサハラ縦断交易を押さえ、マンサ・ムーサの時代にはその富とイスラーム学術が地中海世界に知れ渡った。15世紀からは東部の諸州をソンガイに奪われ、17世紀にはいくつかのマンデ首長国にまで縮小した。"
+   }
+  },
+  {
+   "from": 1464,
+   "to": 1591,
+   "kind": "state",
+   "qid": "Q202687",
+   "polity": "Songhai Empire",
+   "name": {
+    "en": "Songhai Empire",
+    "ko": "송가이 제국",
+    "zh": "桑海帝国",
+    "ja": "ソンガイ帝国"
+   },
+   "summary": {
+    "en": "Under Sonni Ali, the Songhai kingdom of Gao broke away from Mali and conquered Timbuktu and Djenné, creating an empire along the Niger bend. The Askia dynasty founded by Askia Muhammad in 1493 expanded it into the largest state in West African history, with an organized administration, a professional army and river fleet, and Timbuktu as a center of Islamic scholarship. Weakened by succession struggles, the empire fell to a Moroccan invasion in 1591.",
+    "ko": "손니 알리 치하에서 가오의 송가이 왕국은 말리에서 떨어져 나와 팀북투와 젠네를 정복하고 니제르강 굽이를 따라 제국을 세웠다. 1493년 아스키아 무함마드가 연 아스키아 왕조는 체계적인 행정, 직업 군대와 하천 함대를 갖추고 팀북투를 이슬람 학문의 중심지로 삼으며 제국을 서아프리카 역사상 가장 큰 나라로 확장했다. 왕위 다툼으로 약해진 제국은 1591년 모로코의 침공으로 무너졌다.",
+    "zh": "在索尼·阿里统治下，加奥的桑海王国脱离马里，征服廷巴克图和杰内，在尼日尔河弯建立起帝国。1493年阿斯基亚·穆罕默德开创的阿斯基亚王朝使其扩张为西非历史上最大的国家，拥有完备的行政体系、职业军队和内河舰队，并以廷巴克图为伊斯兰学术中心。因王位之争而削弱的帝国于1591年亡于摩洛哥的入侵。",
+    "ja": "ソンニ・アリのもとでガオのソンガイ王国はマリから自立し、トンブクトゥとジェンネを征服してニジェール川の湾曲部に帝国を築いた。1493年にアスキア・ムハンマドが開いたアスキア朝は、整った行政、職業軍と河川艦隊を備え、トンブクトゥをイスラーム学術の中心として、西アフリカ史上最大の国家へと拡大した。王位継承争いで弱体化した帝国は、1591年にモロッコの侵攻で崩壊した。"
+   }
+  },
+  {
+   "from": 1591,
+   "to": 1618,
+   "kind": "colonial",
+   "qid": "Q1136188",
+   "polity": "Saadi Sultanate",
+   "name": {
+    "en": "Saadian Moroccan rule on the Niger",
+    "ko": "니제르강의 사아드 왕조 모로코 지배",
+    "zh": "萨阿德王朝摩洛哥对尼日尔河的统治",
+    "ja": "ニジェール川のサアド朝モロッコ支配"
+   },
+   "summary": {
+    "en": "After the victory at Tondibi in 1591, the Saadian sultan Ahmad al-Mansur of Morocco ruled Timbuktu, Gao and Djenné through pashas sent from Marrakesh, hoping to control the gold trade. Moroccan forces never subdued the whole Songhai realm, and resistance continued downstream. Shipments of gold to Morocco proved disappointing, and after about 1618 Marrakesh stopped appointing the pashas.",
+    "ko": "1591년 톤디비에서 승리한 뒤 모로코 사아드 왕조의 술탄 아흐마드 알만수르는 금 교역을 장악하려고 마라케시에서 보낸 파샤들을 통해 팀북투·가오·젠네를 통치했다. 모로코군은 송가이 영역 전체를 끝내 제압하지 못했고, 하류에서는 저항이 계속되었다. 모로코로 보내진 금은 기대에 못 미쳤고, 1618년 무렵 이후 마라케시는 더 이상 파샤를 임명하지 않았다.",
+    "zh": "1591年通迪比之战获胜后，摩洛哥萨阿德王朝苏丹艾哈迈德·曼苏尔通过从马拉喀什派来的帕夏统治廷巴克图、加奥和杰内，希望控制黄金贸易。摩洛哥军队始终未能征服整个桑海疆域，下游的抵抗仍在继续。运往摩洛哥的黄金令人失望，约1618年后马拉喀什不再任命帕夏。",
+    "ja": "1591年のトンディビでの勝利ののち、モロッコのサアド朝スルタン、アフマド・マンスールは金交易の掌握を狙い、マラケシュから派遣したパシャを通じてトンブクトゥ、ガオ、ジェンネを統治した。モロッコ軍はソンガイの全領域を制圧できず、下流では抵抗が続いた。モロッコへ送られた金は期待外れで、1618年頃以降マラケシュはパシャを任命しなくなった。"
+   }
+  },
+  {
+   "from": 1618,
+   "to": 1833,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Arma Pashalik of Timbuktu",
+    "ko": "아르마의 팀북투 파샤령",
+    "zh": "阿尔马人的廷巴克图帕夏国",
+    "ja": "アルマのトンブクトゥ・パシャ領"
+   },
+   "summary": {
+    "en": "After direct Moroccan control lapsed, the descendants of the Moroccan soldiers, known as the Arma, elected their own pashas in Timbuktu and ruled the Niger bend between Djenné and Gao. Their authority weakened steadily amid factional conflict and pressure from Tuareg, Fulani and Bamana neighbors. Tuareg forces defeated the Arma in the 18th century, and the pashalik eventually fell under Massina's control in the 1820s–1830s.",
+    "ko": "모로코의 직접 통치가 끊긴 뒤, '아르마'로 불린 모로코 병사들의 후손이 팀북투에서 스스로 파샤를 선출해 젠네와 가오 사이의 니제르강 굽이를 다스렸다. 그들의 권위는 파벌 다툼과 투아레그·풀라니·밤바라 이웃의 압박 속에 꾸준히 약해졌다. 18세기 투아레그 세력이 아르마를 격파했고, 파샤령은 결국 1820~1830년대 마시나의 지배 아래 들어갔다.",
+    "zh": "摩洛哥的直接统治中断后，被称为“阿尔马”的摩洛哥士兵后裔在廷巴克图自行推选帕夏，统治杰内与加奥之间的尼日尔河弯。在派系斗争以及图阿雷格、富拉尼和班巴拉邻族的压力下，他们的权威不断削弱。18世纪图阿雷格人击败阿尔马，帕夏国最终在1820至1830年代落入马西纳的控制之下。",
+    "ja": "モロッコの直接支配が途絶えると、「アルマ」と呼ばれたモロッコ兵の子孫がトンブクトゥで自らパシャを選び、ジェンネとガオの間のニジェール湾曲部を治めた。その権威は派閥抗争とトゥアレグ、フルベ、バンバラの隣人たちの圧力のもとで次第に弱まった。18世紀にトゥアレグ勢力がアルマを破り、パシャ領は最終的に1820〜30年代にマシナの支配下に入った。"
+   }
+  },
+  {
+   "from": 1650,
+   "to": 1898,
+   "kind": "state",
+   "qid": "Q15824804",
+   "polity": null,
+   "name": {
+    "en": "Kénédougou Kingdom",
+    "ko": "케네두구 왕국",
+    "zh": "凯内杜古王国",
+    "ja": "ケネドゥグ王国"
+   },
+   "summary": {
+    "en": "Kénédougou, a kingdom of Senufo lands ruled by a Traoré dynasty of Dyula origin, rose in what is now southern Mali and western Burkina Faso. In the 19th century its capital Sikasso was fortified with a massive earthen wall (tata) under kings Tiéba and Babemba Traoré, and it withstood a long siege by Samori Ture in 1887–1888. The kingdom fell when French forces stormed Sikasso in 1898.",
+    "ko": "케네두구는 디울라 출신 트라오레 왕조가 다스린 세누포 지역의 왕국으로, 오늘날 말리 남부와 부르키나파소 서부에서 일어났다. 19세기 티에바와 바벰바 트라오레 왕 시기에 수도 시카소는 거대한 흙 성벽(타타)으로 요새화되었고, 1887~1888년 사모리 투레의 장기 포위를 견뎌 냈다. 왕국은 1898년 프랑스군이 시카소를 함락하면서 무너졌다.",
+    "zh": "凯内杜古是由迪乌拉裔特拉奥雷王朝统治的塞努福人王国，兴起于今马里南部和布基纳法索西部。19世纪，在蒂耶巴和巴本巴·特拉奥雷两位国王治下，其都城锡卡索筑起巨大的土墙（塔塔），并顶住了萨摩里·杜尔1887—1888年的长期围攻。1898年法军攻陷锡卡索，王国灭亡。",
+    "ja": "ケネドゥグは、ジュラ系のトラオレ朝が治めたセヌフォの地の王国で、現在のマリ南部とブルキナファソ西部に興った。19世紀にティエバとババンバ・トラオレ両王のもとで首都シカソは巨大な土の城壁（タタ）で要塞化され、1887〜88年のサモリ・トゥーレによる長期包囲に耐えた。王国は1898年にフランス軍がシカソを攻略して滅んだ。"
+   }
+  },
+  {
+   "from": 1650,
+   "to": 1855,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bambara Kingdom of Kaarta",
+    "ko": "카아르타 밤바라 왕국",
+    "zh": "卡尔塔班巴拉王国",
+    "ja": "カールタのバンバラ王国"
+   },
+   "summary": {
+    "en": "Founded by the Massassi branch of the Kulibali (Coulibaly) clan, Kaarta was a Bamana (Bambara) kingdom in the Sahel of western Mali, eventually centered on Nioro. It was a long-standing rival of the Bamana kingdom of Ségou. Kaarta was conquered by El Hadj Umar Tall's jihad in 1854–1855.",
+    "ko": "쿨리발리 씨족의 마사시 분파가 세운 카아르타는 말리 서부 사헬에 있던 밤바라(바마나) 왕국으로, 나중에는 니오로를 중심으로 했다. 이 왕국은 세구의 밤바라 왕국과 오랜 경쟁 관계였다. 카아르타는 1854~1855년 엘하지 우마르 탈의 성전으로 정복되었다.",
+    "zh": "卡尔塔由库利巴利氏族的马萨西支系建立，是位于马里西部萨赫勒地区的班巴拉（巴马纳）王国，后以尼奥罗为中心。它长期与塞古的班巴拉王国相争。1854—1855年，卡尔塔被哈吉·奥马尔·塔勒的圣战所征服。",
+    "ja": "クリバリ氏族のマサシ分派が建てたカールタは、マリ西部のサヘルにあったバンバラ（バマナ）の王国で、のちにニオロを中心とした。セグーのバンバラ王国とは長年の競争相手だった。カールタは1854〜55年にエル・ハッジ・ウマル・タールのジハードによって征服された。"
+   }
+  },
+  {
+   "from": 1712,
+   "to": 1861,
+   "kind": "state",
+   "qid": "Q762084",
+   "polity": "Bamana Empire",
+   "name": {
+    "en": "Bamana Empire of Ségou",
+    "ko": "세구 밤바라 제국",
+    "zh": "塞古班巴拉帝国",
+    "ja": "セグーのバンバラ帝国"
+   },
+   "summary": {
+    "en": "Around 1712 Biton Kulibali turned a hunters' association into a standing army of captives (tonjon) and built a powerful Bamana state centered on Ségou on the middle Niger. Under the Ngolosi dynasty founded by Ngolo Diarra in the 1760s, Ségou dominated the river from near Bamako to the edge of Timbuktu, prospering from agriculture, river trade and slave raiding. Largely adhering to traditional religion, it was conquered by El Hadj Umar Tall in 1861.",
+    "ko": "1712년경 비톤 쿨리발리는 사냥꾼 결사를 포로 출신 상비군(톤존)으로 바꾸어 니제르강 중류의 세구를 중심으로 강력한 밤바라 국가를 세웠다. 1760년대 응골로 디아라가 연 응골로시 왕조 아래 세구는 바마코 부근부터 팀북투 언저리까지 강을 지배하며 농업·하천 교역·노예 사냥으로 번영했다. 대체로 전통 종교를 유지한 이 나라는 1861년 엘하지 우마르 탈에게 정복되었다.",
+    "zh": "约1712年，比通·库利巴利将一个猎人团体改造为由俘虏组成的常备军（通琼），在尼日尔河中游建立了以塞古为中心的强大班巴拉国家。1760年代恩戈洛·迪亚拉开创恩戈洛西王朝后，塞古控制了从巴马科附近到廷巴克图边缘的河段，依靠农业、河运贸易和掳奴而繁荣。该国大体信奉传统宗教，1861年被哈吉·奥马尔·塔勒征服。",
+    "ja": "1712年頃、ビトン・クリバリは狩人の結社を捕虜出身の常備軍（トンジョン）に作り替え、ニジェール川中流のセグーを中心とする強力なバンバラ国家を築いた。1760年代にンゴロ・ディアラが開いたンゴロシ朝のもと、セグーはバマコ付近からトンブクトゥの手前までの川筋を支配し、農業・河川交易・奴隷狩りで栄えた。おおむね伝統宗教を保ったこの国は、1861年にエル・ハッジ・ウマル・タールに征服された。"
+   }
+  },
+  {
+   "from": 1818,
+   "to": 1862,
+   "kind": "state",
+   "qid": "Q635394",
+   "polity": "Massina Empire",
+   "name": {
+    "en": "Massina Empire (Diina of Hamdallahi)",
+    "ko": "마시나 제국(함달라이의 디나)",
+    "zh": "马西纳帝国（哈姆达拉希的迪纳）",
+    "ja": "マシナ帝国（ハムダラーヒのディーナ）"
+   },
+   "summary": {
+    "en": "In 1818 the Fulani scholar Seku Amadu (Sékou Amadou) led a jihad in the Inland Niger Delta, defeating the Fulani chiefs allied with Ségou and founding an Islamic state, the Diina, with its capital at Hamdallahi. Massina was known for its strict application of Islamic law, its council of scholars and its organization of seasonal transhumance in the delta. It extended its authority over Djenné and Timbuktu before being conquered by Umar Tall in 1862.",
+    "ko": "1818년 풀라니족 학자 세쿠 아마두는 니제르 내륙 삼각주에서 성전을 이끌어 세구와 손잡은 풀라니 족장들을 물리치고, 함달라이를 수도로 한 이슬람 국가 '디나'를 세웠다. 마시나는 이슬람법의 엄격한 적용, 학자 평의회, 삼각주의 계절적 이목 조직으로 유명했다. 젠네와 팀북투까지 권위를 넓혔으나 1862년 우마르 탈에게 정복되었다.",
+    "zh": "1818年，富拉尼学者塞库·阿马杜在尼日尔河内陆三角洲领导圣战，击败与塞古结盟的富拉尼酋长，建立以哈姆达拉希为都城的伊斯兰国家“迪纳”。马西纳以严格实施伊斯兰法、学者议事会以及对三角洲季节性游牧的组织而闻名。它将权威扩展到杰内和廷巴克图，1862年被奥马尔·塔勒征服。",
+    "ja": "1818年、フルベの学者セク・アマドゥはニジェール川内陸デルタでジハードを率い、セグーと結ぶフルベの首長たちを破って、ハムダラーヒを首都とするイスラーム国家「ディーナ」を建てた。マシナはイスラーム法の厳格な適用、学者評議会、デルタにおける季節的移牧の組織化で知られた。ジェンネとトンブクトゥにまで権威を広げたが、1862年にウマル・タールに征服された。"
+   }
+  },
+  {
+   "from": 1852,
+   "to": 1893,
+   "kind": "state",
+   "qid": "Q536476",
+   "polity": null,
+   "name": {
+    "en": "Toucouleur Empire of El Hadj Umar Tall",
+    "ko": "엘하지 우마르 탈의 투쿨뢰르 제국",
+    "zh": "哈吉·奥马尔·塔勒的图库洛尔帝国",
+    "ja": "エル・ハッジ・ウマル・タールのトゥクロール帝国"
+   },
+   "summary": {
+    "en": "El Hadj Umar Tall, a Tijani Sufi leader from Futa Toro, launched a jihad in 1852 that conquered Kaarta, Ségou and Massina, creating a vast empire across what is now western and central Mali. After his death in 1864, his son Ahmadu ruled from Ségou over a loose realm of governors and faced revolts by subject peoples. French columns conquered the empire between 1890 and 1893.",
+    "ko": "푸타토로 출신의 티자니야 수피 지도자 엘하지 우마르 탈은 1852년 성전을 일으켜 카아르타·세구·마시나를 정복하고 오늘날 말리 서부와 중부에 걸친 거대한 제국을 세웠다. 1864년 그가 죽은 뒤 아들 아마두가 세구에서 총독들의 느슨한 영역을 다스렸으나 피지배 민족들의 반란에 시달렸다. 프랑스군은 1890년부터 1893년 사이에 이 제국을 정복했다.",
+    "zh": "来自富塔托罗的提加尼教团苏菲派领袖哈吉·奥马尔·塔勒于1852年发动圣战，征服卡尔塔、塞古和马西纳，建立起横跨今马里西部和中部的庞大帝国。1864年他去世后，其子艾哈迈杜在塞古统治一个由各地总督组成的松散国家，并不断面临被征服民族的反抗。1890年至1893年间，法军征服了这一帝国。",
+    "ja": "フタ・トロ出身のティジャーニー派スーフィー指導者エル・ハッジ・ウマル・タールは1852年にジハードを起こし、カールタ、セグー、マシナを征服して、現在のマリ西部・中部にまたがる大帝国を築いた。1864年の彼の死後、息子アフマドゥがセグーから総督たちの緩やかな領域を治めたが、被支配民の反乱に苦しんだ。フランス軍は1890年から1893年にかけてこの帝国を征服した。"
+   }
+  },
+  {
+   "from": 1878,
+   "to": 1898,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Wassoulou Empire of Samori Ture",
+    "ko": "사모리 투레의 와술루 제국",
+    "zh": "萨摩里·杜尔的瓦苏卢帝国",
+    "ja": "サモリ・トゥーレのワスル帝国"
+   },
+   "summary": {
+    "en": "The Dyula leader Samori Ture built a powerful state in the upper Niger region from the 1870s, including the Wassoulou area of southern Mali, with a modern-equipped army that manufactured its own firearms. For nearly two decades he resisted French expansion, shifting his empire eastward as the French advanced. He was captured in 1898 and died in exile in Gabon in 1900.",
+    "ko": "디울라 출신 지도자 사모리 투레는 1870년대부터 말리 남부의 와술루 지역을 포함한 니제르강 상류 일대에 강력한 국가를 세웠으며, 화기를 자체 생산하는 근대적 장비의 군대를 갖추었다. 그는 프랑스가 진격하자 제국을 동쪽으로 옮겨 가며 거의 20년간 프랑스의 팽창에 저항했다. 1898년 붙잡힌 그는 1900년 가봉의 유배지에서 숨졌다.",
+    "zh": "迪乌拉人领袖萨摩里·杜尔自1870年代起在尼日尔河上游地区（包括马里南部的瓦苏卢地区）建立强大国家，拥有装备先进、能自制火器的军队。在近二十年间他抵抗法国扩张，随着法军推进将帝国东移。1898年他被俘，1900年死于加蓬流放地。",
+    "ja": "ジュラ人の指導者サモリ・トゥーレは1870年代から、マリ南部のワスル地方を含むニジェール川上流域に強力な国家を築き、火器を自製する近代的装備の軍を備えた。フランスの進出に応じて帝国を東へ移しながら、20年近くフランスの拡張に抵抗した。1898年に捕らえられ、1900年にガボンの流刑地で没した。"
+   }
+  },
+  {
+   "from": 1880,
+   "to": 1958,
+   "kind": "colonial",
+   "qid": "Q19951607",
+   "polity": "French Africa",
+   "name": {
+    "en": "French Sudan (French colonial rule)",
+    "ko": "프랑스령 수단(프랑스 식민 통치)",
+    "zh": "法属苏丹（法国殖民统治）",
+    "ja": "フランス領スーダン（フランス植民地支配）"
+   },
+   "summary": {
+    "en": "From the 1880s French military columns advanced from Senegal along the Niger, defeating the Toucouleur Empire, Samori Ture and Kénédougou and occupying Timbuktu. The territory, called French Sudan for most of the period, was governed from Bamako as part of French West Africa, with forced labor, taxation and conscription, and the Office du Niger irrigation scheme. After 1946 political parties such as the US-RDA of Modibo Keïta mobilized for self-government.",
+    "ko": "1880년대부터 프랑스 군대는 세네갈에서 니제르강을 따라 진격해 투쿨뢰르 제국·사모리 투레·케네두구를 격파하고 팀북투를 점령했다. 이 시기 대부분 '프랑스령 수단'으로 불린 이 지역은 프랑스령 서아프리카의 일부로 바마코에서 통치되었으며, 강제 노동·조세·징병과 '오피스 뒤 니제르' 관개 사업이 시행되었다. 1946년 이후 모디보 케이타의 US-RDA 같은 정당들이 자치를 위해 대중을 결집했다.",
+    "zh": "自1880年代起，法国军队从塞内加尔沿尼日尔河推进，击败图库洛尔帝国、萨摩里·杜尔和凯内杜古，并占领廷巴克图。该地区在这一时期大部分时间被称为“法属苏丹”，作为法属西非的一部分由巴马科管辖，推行强迫劳动、征税和征兵，并兴建尼日尔河管理局灌溉工程。1946年后，莫迪博·凯塔领导的苏丹联盟-非洲民主联盟等政党动员民众争取自治。",
+    "ja": "1880年代からフランス軍はセネガルからニジェール川沿いに進撃し、トゥクロール帝国、サモリ・トゥーレ、ケネドゥグを破り、トンブクトゥを占領した。この時期の大半「フランス領スーダン」と呼ばれた地域は、フランス領西アフリカの一部としてバマコから統治され、強制労働・課税・徴兵やニジェール公社の灌漑事業が行われた。1946年以降、モディボ・ケイタのUS-RDAなどの政党が自治を求めて民衆を動員した。"
+   }
+  },
+  {
+   "from": 1958,
+   "to": 1960,
+   "kind": "state",
+   "qid": "Q216632",
+   "polity": null,
+   "name": {
+    "en": "Sudanese Republic and the Mali Federation",
+    "ko": "수단 공화국과 말리 연방",
+    "zh": "苏丹共和国与马里联邦",
+    "ja": "スーダン共和国とマリ連邦"
+   },
+   "summary": {
+    "en": "After the 1958 referendum, French Sudan became the autonomous Sudanese Republic within the French Community. In 1959 it joined Senegal in the Mali Federation, named after the medieval empire, which became independent on 20 June 1960. Political disagreements led Senegal to withdraw in August 1960, and the Sudanese Republic proclaimed itself the independent Republic of Mali on 22 September 1960.",
+    "ko": "1958년 국민투표 후 프랑스령 수단은 프랑스 공동체 안의 자치국 '수단 공화국'이 되었다. 1959년 수단 공화국은 세네갈과 함께 중세 제국의 이름을 딴 말리 연방을 결성했고, 연방은 1960년 6월 20일 독립했다. 정치적 대립으로 세네갈이 1960년 8월 탈퇴하자, 수단 공화국은 1960년 9월 22일 독립국 '말리 공화국'을 선포했다.",
+    "zh": "1958年公投后，法属苏丹成为法兰西共同体内的自治国家“苏丹共和国”。1959年它与塞内加尔组成以中世纪帝国命名的马里联邦，联邦于1960年6月20日独立。由于政治分歧，塞内加尔于1960年8月退出，苏丹共和国于1960年9月22日宣布成为独立的马里共和国。",
+    "ja": "1958年の国民投票ののち、フランス領スーダンはフランス共同体内の自治国「スーダン共和国」となった。1959年にはセネガルとともに中世の帝国にちなむマリ連邦を結成し、連邦は1960年6月20日に独立した。政治的対立からセネガルが1960年8月に離脱すると、スーダン共和国は1960年9月22日に独立した「マリ共和国」を宣言した。"
+   }
+  },
+  {
+   "from": 1960,
+   "to": 2026,
+   "kind": "state",
+   "qid": null,
+   "polity": "Mali Federation",
+   "name": {
+    "en": "Republic of Mali",
+    "ko": "말리 공화국",
+    "zh": "马里共和国",
+    "ja": "マリ共和国"
+   },
+   "summary": {
+    "en": "Independent Mali was first a socialist one-party state under Modibo Keïta, then a military regime under Moussa Traoré from 1968. The 1991 revolution opened two decades of multiparty democracy, which ended amid the 2012 northern rebellion, jihadist occupation of the north and a military coup. Since the coups of 2020 and 2021 Mali has been ruled by a military government under Assimi Goïta, which expelled French and UN forces, turned to Russia and joined Burkina Faso and Niger in the Alliance of Sahel States.",
+    "ko": "독립 말리는 처음에는 모디보 케이타 아래 사회주의 일당 국가였고, 1968년부터는 무사 트라오레의 군사 정권이었다. 1991년 혁명은 20년간의 다당제 민주주의를 열었으나, 2012년 북부 반란과 지하디스트의 북부 점령, 군사 쿠데타 속에 막을 내렸다. 2020년과 2021년 쿠데타 이후 말리는 아시미 고이타가 이끄는 군사 정부가 통치하며, 프랑스군과 유엔군을 내보내고 러시아와 가까워졌으며 부르키나파소·니제르와 함께 사헬 국가 동맹을 결성했다.",
+    "zh": "独立后的马里先是莫迪博·凯塔领导的社会主义一党制国家，1968年起为穆萨·特拉奥雷的军政权。1991年革命开启了二十年的多党民主，但在2012年北部叛乱、圣战组织占领北方和军事政变中终结。自2020年和2021年政变以来，马里由阿西米·戈伊塔领导的军政府统治，该政府驱逐了法国军队和联合国部队，转向俄罗斯，并与布基纳法索、尼日尔组成萨赫勒国家联盟。",
+    "ja": "独立後のマリは、まずモディボ・ケイタのもとで社会主義の一党制国家、1968年からはムサ・トラオレの軍事政権であった。1991年の革命は20年にわたる複数政党制民主主義を開いたが、2012年の北部反乱、ジハード主義勢力による北部占領、軍事クーデターの中で終わった。2020年と2021年のクーデター以降、マリはアシミ・ゴイタ率いる軍事政権が統治し、フランス軍と国連部隊を追い出してロシアに接近し、ブルキナファソ・ニジェールとともにサヘル諸国同盟を結成した。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2500,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "Pearl millet domesticated in the Tilemsi Valley",
+    "ko": "틸렘시 계곡의 진주조 재배화",
+    "zh": "蒂勒姆西河谷驯化珍珠粟",
+    "ja": "ティレムシ渓谷でのトウジンビエ栽培化"
+   },
+   "description": {
+    "en": "Impressions of grains in pottery from sites in the Tilemsi Valley north of Gao show that domesticated pearl millet was being grown there by around 2500 BC. This is among the earliest direct evidence of crop domestication in West Africa. As the Sahara dried, pearl millet, a drought-tolerant cereal, became a staple of the Sahel and later spread to South Asia.",
+    "ko": "가오 북쪽 틸렘시 계곡 유적의 토기에 남은 곡물 자국은 기원전 2500년경 이곳에서 재배화된 진주조가 길러지고 있었음을 보여 준다. 이는 서아프리카 작물 재배화의 가장 이른 직접 증거 가운데 하나이다. 사하라가 건조해지면서 가뭄에 강한 곡물인 진주조는 사헬의 주식이 되었고, 훗날 남아시아까지 퍼졌다.",
+    "zh": "加奥以北蒂勒姆西河谷遗址出土陶器上的谷粒印痕表明，约公元前2500年这里已种植驯化的珍珠粟。这是西非作物驯化最早的直接证据之一。随着撒哈拉变干，耐旱的珍珠粟成为萨赫勒地区的主粮，后来还传播到南亚。",
+    "ja": "ガオ北方のティレムシ渓谷の遺跡から出た土器に残る穀粒の圧痕は、前2500年頃にここで栽培化されたトウジンビエが育てられていたことを示す。これは西アフリカにおける作物栽培化の最古級の直接的証拠である。サハラの乾燥化とともに、乾燥に強いトウジンビエはサヘルの主食となり、のちに南アジアにまで広がった。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Iron working spreads in the Middle Niger",
+    "ko": "니제르강 중류에 퍼진 제철",
+    "zh": "冶铁技术在尼日尔河中游传播",
+    "ja": "ニジェール川中流域への製鉄の広がり"
+   },
+   "description": {
+    "en": "By the second half of the first millennium BC, communities in the Middle Niger region were smelting and forging iron. Iron hoes and weapons helped farmers clear land and cultivate the floodplains of the Inland Niger Delta, including African rice, which was domesticated in this region. The founders of Jenné-jeno already used iron when they settled the site.",
+    "ko": "기원전 1천년기 후반이 되면 니제르강 중류 일대의 공동체들은 철을 제련하고 단조했다. 철제 괭이와 무기는 농민들이 땅을 개간하고 니제르 내륙 삼각주의 범람원을 경작하는 데 도움이 되었으며, 이 지역에서 재배화된 아프리카 벼도 그 작물 가운데 하나였다. 젠네제노를 세운 사람들은 정착할 때 이미 철을 사용하고 있었다.",
+    "zh": "到公元前一千纪后半期，尼日尔河中游一带的社群已能冶炼和锻造铁器。铁锄和武器帮助农民开垦土地、耕种尼日尔河内陆三角洲的泛滥平原，其中包括在这一地区驯化的非洲稻。杰内-杰诺的创建者在定居时就已使用铁器。",
+    "ja": "前1千年紀後半までに、ニジェール川中流域の共同体は鉄を製錬・鍛造していた。鉄の鍬や武器は、農民が土地を拓きニジェール川内陸デルタの氾濫原を耕すのに役立ち、その作物にはこの地域で栽培化されたアフリカイネも含まれていた。ジェンネ・ジェノを築いた人々は、定住した時点ですでに鉄を使っていた。"
+   }
+  },
+  {
+   "year": -250,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Jenné-jeno, early urban center",
+    "ko": "초기 도시 중심지 젠네제노",
+    "zh": "早期城市中心杰内-杰诺",
+    "ja": "初期の都市中心ジェンネ・ジェノ"
+   },
+   "description": {
+    "en": "Around 250 BC people settled at Jenné-jeno, on a floodplain mound near present-day Djenné. Over the following centuries it grew into a large town surrounded by clustered satellite settlements and later by a city wall, trading rice, fish, iron, copper and gold along the Niger. Excavations from the 1970s onward overturned the idea that West African cities arose only in response to Arab trade across the Sahara. The site is part of the UNESCO-listed Old Towns of Djenné.",
+    "ko": "기원전 250년경 사람들이 오늘날 젠네 부근 범람원의 둔덕 젠네제노에 정착했다. 이후 수 세기 동안 이곳은 군집한 위성 정착지들과 뒤에는 성벽에 둘러싸인 큰 도시로 성장해, 니제르강을 따라 쌀·물고기·철·구리·금을 교역했다. 1970년대 이후의 발굴은 서아프리카 도시가 사하라 횡단 아랍 교역에 대한 반응으로만 생겨났다는 통념을 뒤집었다. 이 유적은 유네스코 세계유산 '젠네 구시가지'의 일부이다.",
+    "zh": "约公元前250年，人们定居在今杰内附近泛滥平原上的一处土丘杰内-杰诺。此后数百年间，它发展为一座被成群卫星聚落、后来又被城墙环绕的大城镇，沿尼日尔河交易稻米、鱼、铁、铜和黄金。自1970年代起的发掘推翻了西非城市仅因跨撒哈拉阿拉伯贸易而兴起的观点。该遗址是联合国教科文组织世界遗产“杰内古城”的一部分。",
+    "ja": "前250年頃、人々は現在のジェンネ近くの氾濫原の小丘ジェンネ・ジェノに定住した。その後数世紀のうちに、群がる衛星集落、のちには城壁に囲まれた大きな町へと成長し、ニジェール川沿いで米・魚・鉄・銅・金を交易した。1970年代以降の発掘は、西アフリカの都市はサハラ縦断のアラブ交易に応じてのみ生まれたという通念を覆した。遺跡はユネスコ世界遺産「ジェンネ旧市街」の一部である。"
+   }
+  },
+  {
+   "year": 300,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Ghana Empire",
+    "ko": "가나 제국의 흥기",
+    "zh": "加纳帝国兴起",
+    "ja": "ガーナ王国の興隆"
+   },
+   "description": {
+    "en": "The Soninke kingdom of Wagadu, later known as Ghana, is thought to have emerged in the Sahel north of the Senegal and Niger rivers by the middle of the first millennium AD; its exact origins are uncertain and rely partly on oral tradition. Control of the trade between the gold-producing south and the salt-producing Sahara made it the first great state of the western Sudan. Its domain included parts of what is now western Mali.",
+    "ko": "훗날 가나로 알려진 소닝케족의 와가두 왕국은 기원후 1천년기 중반까지 세네갈강과 니제르강 북쪽의 사헬에서 등장한 것으로 여겨지지만, 정확한 기원은 불확실하며 일부는 구전에 의존한다. 금을 생산하는 남쪽과 소금을 생산하는 사하라 사이의 교역을 장악한 덕분에 이 왕국은 서수단 최초의 대국이 되었다. 그 영역에는 오늘날 말리 서부의 일부가 포함되었다.",
+    "zh": "后来被称为加纳的索宁克人瓦加杜王国，被认为在公元一千纪中叶前后出现于塞内加尔河和尼日尔河以北的萨赫勒地区；其确切起源尚不清楚，部分依赖口述传统。凭借控制产金的南方与产盐的撒哈拉之间的贸易，它成为西苏丹第一个强大国家，其疆域包括今马里西部的部分地区。",
+    "ja": "のちにガーナとして知られるソニンケ人のワガドゥ王国は、紀元1千年紀半ばまでにセネガル川・ニジェール川の北のサヘルに現れたと考えられるが、正確な起源ははっきりせず、一部は口承に頼っている。金を産する南と塩を産するサハラとの交易を押さえたことで、西スーダン最初の大国となった。その領域には現在のマリ西部の一部が含まれた。"
+   }
+  },
+  {
+   "year": 800,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Arabic sources describe Ghana, 'land of gold'",
+    "ko": "아랍 문헌에 등장한 '황금의 땅' 가나",
+    "zh": "阿拉伯文献记载“黄金之国”加纳",
+    "ja": "アラビア語文献に現れる「黄金の国」ガーナ"
+   },
+   "description": {
+    "en": "In the late 8th century the astronomer al-Fazari mentioned 'Ghana, the land of gold', the earliest known written reference to the kingdom. Over the following centuries, camel caravans crossing the Sahara carried West African gold to North Africa and the Mediterranean, while salt, copper, textiles and other goods flowed south. This trade drew the Sahel into the wider Islamic world.",
+    "ko": "8세기 후반 천문학자 알파자리는 '황금의 땅 가나'를 언급했는데, 이것이 알려진 가장 이른 이 왕국에 대한 기록이다. 이후 수 세기 동안 사하라를 건너는 낙타 대상은 서아프리카의 금을 북아프리카와 지중해로 실어 날랐고, 소금·구리·직물 등은 남쪽으로 흘러들었다. 이 교역은 사헬을 더 넓은 이슬람 세계로 끌어들였다.",
+    "zh": "8世纪后期，天文学家法扎里提到“黄金之国加纳”，这是已知关于该王国的最早文字记载。此后数百年间，穿越撒哈拉的骆驼商队把西非黄金运往北非和地中海，盐、铜、纺织品等货物则向南流动。这一贸易使萨赫勒地区融入更广阔的伊斯兰世界。",
+    "ja": "8世紀後半、天文学者ファザーリーは「黄金の国ガーナ」に言及しており、これが王国に関する既知最古の文字記録である。その後数世紀にわたり、サハラを越えるラクダの隊商は西アフリカの金を北アフリカと地中海へ運び、塩・銅・織物などが南へ流れた。この交易はサヘルをより広いイスラーム世界へと結びつけた。"
+   }
+  },
+  {
+   "year": 872,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Al-Yaqubi describes the kingdom of Kawkaw (Gao)",
+    "ko": "알야쿠비가 기록한 카우카우(가오) 왕국",
+    "zh": "雅库比记载考考（加奥）王国",
+    "ja": "ヤアクービーが記したカウカウ（ガオ）王国"
+   },
+   "description": {
+    "en": "Writing around 872, the geographer al-Yaqubi described Kawkaw, the kingdom centered on Gao on the Niger, as the greatest and most powerful of the kingdoms of the Sudan, with many vassal states. The Gao region was a key terminus of trade routes from North Africa through the Sahara. Archaeology at Gao-Ancien and Gao-Saney confirms a prosperous trading center in this period.",
+    "ko": "872년경 지리학자 알야쿠비는 니제르강 변의 가오를 중심으로 한 카우카우를 많은 속국을 거느린, 수단의 여러 왕국 가운데 가장 크고 강력한 나라로 묘사했다. 가오 지역은 북아프리카에서 사하라를 거쳐 오는 교역로의 주요 종착지였다. 가오앙시앵과 가오사네의 고고학 조사는 이 시기 번영한 교역 중심지가 있었음을 확인해 준다.",
+    "zh": "约872年，地理学家雅库比描述以尼日尔河畔加奥为中心的考考王国是苏丹诸王国中最大、最强的一个，拥有许多附庸国。加奥地区是从北非穿越撒哈拉的贸易路线的重要终点。加奥古城和加奥-萨内的考古发掘证实了这一时期存在繁荣的贸易中心。",
+    "ja": "872年頃、地理学者ヤアクービーは、ニジェール川沿いのガオを中心とするカウカウを、多くの属国を従えたスーダンの諸王国の中で最大かつ最強の国と記した。ガオ地方は北アフリカからサハラを越える交易路の主要な終着点だった。ガオ・アンシャンとガオ・サネの考古学調査は、この時期に繁栄した交易の中心があったことを裏付けている。"
+   }
+  },
+  {
+   "year": 1010,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Gao's rulers embrace Islam",
+    "ko": "가오 통치자들의 이슬람 수용",
+    "zh": "加奥统治者皈依伊斯兰教",
+    "ja": "ガオの支配者のイスラーム受容"
+   },
+   "description": {
+    "en": "According to tradition preserved in the later Timbuktu chronicles, the Gao ruler Za Kossoi converted to Islam around 1009–1010. Arab authors of the 11th century confirm that Gao's king was Muslim, and marble tombstones inscribed in Arabic, some imported from Almería in Muslim Spain, mark royal burials at Gao-Saney from about 1100. Islam spread first among rulers and merchants, coexisting with older beliefs among most of the population.",
+    "ko": "후대의 팀북투 연대기에 전하는 전승에 따르면 가오의 통치자 자 코소이는 1009~1010년경 이슬람으로 개종했다. 11세기 아랍 저술가들은 가오의 왕이 무슬림이었음을 확인해 주며, 가오사네에는 1100년경부터 일부는 무슬림 에스파냐의 알메리아에서 들여온 아랍어 대리석 묘비가 왕실 무덤을 표시하고 있다. 이슬람은 먼저 통치자와 상인들 사이에 퍼졌고, 대다수 주민 사이에서는 오래된 신앙과 공존했다.",
+    "zh": "据后来廷巴克图编年史所载传统，加奥统治者扎·科索伊约在1009—1010年皈依伊斯兰教。11世纪的阿拉伯作者证实加奥国王是穆斯林，加奥-萨内自约1100年起有刻阿拉伯文的大理石墓碑标示王室墓葬，其中一些从穆斯林统治的西班牙阿尔梅里亚输入。伊斯兰教首先在统治者和商人中传播，在大多数民众中则与古老信仰并存。",
+    "ja": "のちのトンブクトゥの年代記に伝わる伝承によれば、ガオの支配者ザ・コソイは1009〜10年頃にイスラームに改宗した。11世紀のアラブの著述家はガオの王がムスリムであったことを裏付け、ガオ・サネでは1100年頃から、一部はムスリム支配下のスペインのアルメリアから輸入されたアラビア語の大理石墓碑が王の墓を示している。イスラームはまず支配者と商人の間に広まり、多くの住民の間では古い信仰と共存した。"
+   }
+  },
+  {
+   "year": 1068,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Al-Bakri's account of Ghana",
+    "ko": "알바크리의 가나 기록",
+    "zh": "白克里对加纳的记载",
+    "ja": "バクリーのガーナ記述"
+   },
+   "description": {
+    "en": "In 1068 the Andalusian geographer al-Bakri, drawing on merchants' reports, wrote the most detailed early description of Ghana. He described a capital of two towns, a Muslim merchant quarter with mosques and a royal town where the king, who followed traditional religion, held court amid gold-adorned splendor. His account remains a key source for the Sahelian kingdoms of the period.",
+    "ko": "1068년 안달루시아의 지리학자 알바크리는 상인들의 보고를 바탕으로 가나에 관한 가장 자세한 초기 기록을 남겼다. 그는 모스크가 있는 무슬림 상인 구역과, 전통 종교를 따르는 왕이 금으로 장식된 화려함 속에 궁정을 연 왕의 도시라는 두 개의 도시로 이루어진 수도를 묘사했다. 그의 기록은 이 시기 사헬 왕국들을 아는 핵심 사료로 남아 있다.",
+    "zh": "1068年，安达卢斯地理学家白克里根据商人的报告，写下了关于加纳最详尽的早期记载。他描述其都城由两座城镇组成：一座是建有清真寺的穆斯林商人区，另一座是王城，信奉传统宗教的国王在金饰辉煌中临朝听政。他的记述至今仍是研究这一时期萨赫勒王国的重要史料。",
+    "ja": "1068年、アンダルスの地理学者バクリーは商人の報告をもとに、ガーナについて最も詳しい初期の記述を残した。彼は、モスクのあるムスリム商人の町と、伝統宗教を奉じる王が金で飾られた華やかさの中で宮廷を開く王の町という、二つの町からなる首都を描いた。その記述は、この時代のサヘルの王国を知る重要な史料であり続けている。"
+   }
+  },
+  {
+   "year": 1076,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Almoravids and the decline of Ghana",
+    "ko": "알모라비드와 가나의 쇠퇴",
+    "zh": "穆拉比特王朝与加纳的衰落",
+    "ja": "ムラービト朝とガーナの衰退"
+   },
+   "description": {
+    "en": "Later Arabic sources state that the Almoravids, a Berber reform movement from the western Sahara, took the Ghanaian capital around 1076. Many historians now doubt that a military conquest occurred and emphasize instead commercial competition, conversion of the elite to Islam and environmental pressures. Whatever the cause, Ghana's power waned in the 12th century, opening the way for the Sosso and Mali.",
+    "ko": "후대의 아랍 문헌은 서사하라의 베르베르 개혁 운동인 알모라비드가 1076년경 가나의 수도를 함락했다고 전한다. 그러나 오늘날 많은 역사가들은 군사 정복이 실제로 있었는지 의심하며, 상업적 경쟁·엘리트의 이슬람 개종·환경 압력을 더 강조한다. 원인이 무엇이든 가나의 힘은 12세기에 약해졌고, 이는 소소와 말리의 길을 열었다.",
+    "zh": "后来的阿拉伯文献称，来自西撒哈拉的柏柏尔改革运动穆拉比特人约在1076年攻占了加纳都城。但如今许多历史学家怀疑是否真的发生过军事征服，更强调商业竞争、精英皈依伊斯兰教和环境压力等因素。无论原因如何，加纳的势力在12世纪衰退，为苏苏和马里的崛起开辟了道路。",
+    "ja": "のちのアラビア語史料は、西サハラのベルベル人の改革運動ムラービト朝が1076年頃にガーナの首都を攻略したと伝える。しかし現在多くの歴史家は軍事征服が本当にあったか疑問視し、むしろ商業上の競争、エリートのイスラーム改宗、環境の圧力を重視している。原因が何であれ、ガーナの力は12世紀に衰え、ソッソとマリへの道を開いた。"
+   }
+  },
+  {
+   "year": 1100,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Founding of Timbuktu",
+    "ko": "팀북투의 기원",
+    "zh": "廷巴克图的建立",
+    "ja": "トンブクトゥの起源"
+   },
+   "description": {
+    "en": "According to the 17th-century Tarikh al-Sudan, Timbuktu began around 1100 as a seasonal camp of Tuareg herders near the Niger, entrusted to a woman named Buktu, an origin story that is traditional rather than documented. Its position where the river meets the desert made it an ideal transit point between camel caravans and river boats. By the 14th century it had become a major commercial and religious center.",
+    "ko": "17세기의 《타리크 알수단》에 따르면 팀북투는 1100년경 니제르강 근처 투아레그 목축민의 계절 야영지로 시작되어 '북투'라는 여인에게 맡겨졌다고 하는데, 이는 기록이 아닌 전승이다. 강과 사막이 만나는 위치 덕분에 이곳은 낙타 대상과 강배를 잇는 이상적인 중계지가 되었다. 14세기에 팀북투는 주요한 상업·종교 중심지가 되었다.",
+    "zh": "据17世纪的《苏丹史》记载，廷巴克图约于1100年起源于尼日尔河附近图阿雷格牧民的季节性营地，由一位名叫“布克图”的妇女看管——这一起源故事属于传说而非史实记录。河流与沙漠交汇的位置使其成为骆驼商队与河船之间理想的中转站。到14世纪，它已成为重要的商业和宗教中心。",
+    "ja": "17世紀の『スーダン年代記』によれば、トンブクトゥは1100年頃、ニジェール川近くのトゥアレグ牧畜民の季節的な野営地として始まり、ブクトゥという女性に預けられたというが、これは記録ではなく伝承である。川と砂漠が出会う位置により、ここはラクダの隊商と川船を結ぶ理想的な中継地となった。14世紀までに主要な商業・宗教の中心地となった。"
+   }
+  },
+  {
+   "year": 1203,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sumanguru Kanté and the Sosso ascendancy",
+    "ko": "수망구루 칸테와 소소의 패권",
+    "zh": "苏曼古鲁·坎特与苏苏的崛起",
+    "ja": "スマングル・カンテとソッソの覇権"
+   },
+   "description": {
+    "en": "In the early 13th century the Sosso king Sumanguru (Soumaoro) Kanté became the dominant ruler of the former Ghana lands and the upper Niger, subjugating the Mande chiefdoms. The date of around 1203 for his seizure of the old Ghanaian capital comes from later tradition and is uncertain. In the Sundiata epic he is portrayed as a powerful sorcerer-king and oppressor.",
+    "ko": "13세기 초 소소의 왕 수망구루(수마오로) 칸테는 옛 가나 지역과 니제르강 상류를 지배하는 패자가 되어 만데 족장국들을 복속시켰다. 그가 1203년경 옛 가나 수도를 장악했다는 연대는 후대 전승에서 온 것으로 확실하지 않다. 순디아타 서사시에서 그는 강력한 주술사 왕이자 압제자로 그려진다.",
+    "zh": "13世纪初，苏苏国王苏曼古鲁（苏马奥罗）·坎特成为原加纳地区和尼日尔河上游的霸主，征服了曼德各酋邦。他约在1203年夺取加纳旧都的年代出自后世传说，并不确定。在《松迪亚塔史诗》中，他被描绘为法力强大的巫师国王和压迫者。",
+    "ja": "13世紀初め、ソッソの王スマングル（スマオロ）・カンテは旧ガーナ領とニジェール川上流の覇者となり、マンデの首長国を服属させた。彼が1203年頃に旧ガーナの都を奪ったという年代は後世の伝承によるもので、確かではない。スンジャタ叙事詩では、強大な呪術師の王にして圧制者として描かれる。"
+   }
+  },
+  {
+   "year": 1235,
+   "qid": "Q1319855",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Sundiata founds the Mali Empire",
+    "ko": "순디아타의 말리 제국 건국",
+    "zh": "松迪亚塔建立马里帝国",
+    "ja": "スンジャタによるマリ帝国建国"
+   },
+   "description": {
+    "en": "According to the oral epic of Sundiata, preserved by Mande griots, the exiled prince Sundiata Keita returned to unite the Mande peoples and defeated Sumanguru Kanté at the Battle of Kirina, conventionally dated to around 1235. Victory over the Sosso made Sundiata the first mansa (king) of Mali, with its heartland around Niani and Kangaba on the upper Niger. The epic remains a central part of Mande identity and culture.",
+    "ko": "만데의 그리오(구전 시인)들이 전해 온 순디아타 서사시에 따르면, 망명했던 왕자 순디아타 케이타가 돌아와 만데 사람들을 통합하고 관례적으로 1235년경으로 보는 키리나 전투에서 수망구루 칸테를 물리쳤다. 소소에 대한 승리로 순디아타는 니제르강 상류의 니아니와 캉가바 일대를 중심지로 한 말리의 첫 만사(왕)가 되었다. 이 서사시는 지금도 만데 정체성과 문화의 핵심이다.",
+    "zh": "据曼德格里奥（口述史诗艺人）传承的《松迪亚塔史诗》，流亡的王子松迪亚塔·凯塔归来统一曼德诸族，在通常定为约1235年的基里纳战役中击败苏曼古鲁·坎特。战胜苏苏后，松迪亚塔成为马里的第一位曼萨（国王），以尼日尔河上游的尼亚尼和康加巴一带为核心地区。这部史诗至今仍是曼德身份认同与文化的核心。",
+    "ja": "マンデのグリオ（語り部）が伝えるスンジャタ叙事詩によれば、亡命していた王子スンジャタ・ケイタが帰還してマンデの人々を統合し、慣例的に1235年頃とされるキリナの戦いでスマングル・カンテを破った。ソッソへの勝利によりスンジャタは、ニジェール川上流のニアニやカンガバ周辺を中心地とするマリ最初のマンサ（王）となった。この叙事詩は今もマンデのアイデンティティと文化の中心にある。"
+   }
+  },
+  {
+   "year": 1236,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Kurukan Fuga: the Manden Charter",
+    "ko": "쿠루칸 푸가: 만덴 헌장",
+    "zh": "库鲁坎·福加：曼登宪章",
+    "ja": "クルカン・フガ：マンデン憲章"
+   },
+   "description": {
+    "en": "Oral tradition holds that after the victory at Kirina, Sundiata and the allied Mande clans met at Kurukan Fuga, near Kangaba, to proclaim the rules of the new empire, defining the roles of clans, the obligations between them and principles of social life. The text known today as the Manden Charter was transmitted orally and written down only in modern times, so its exact original content is uncertain. In 2009 UNESCO inscribed the Manden Charter on its list of intangible cultural heritage.",
+    "ko": "구전에 따르면 키리나 승리 뒤 순디아타와 연합한 만데 씨족들은 캉가바 부근 쿠루칸 푸가에 모여 새 제국의 규칙을 선포하고, 씨족의 역할과 상호 의무, 사회생활의 원칙을 정했다. 오늘날 '만덴 헌장'으로 알려진 내용은 구전으로 전해지다 근대에 와서야 기록되었으므로 원래의 정확한 내용은 불확실하다. 2009년 유네스코는 만덴 헌장을 인류무형문화유산으로 등재했다.",
+    "zh": "口述传统认为，基里纳之战胜利后，松迪亚塔与结盟的曼德各氏族在康加巴附近的库鲁坎·福加集会，宣布新帝国的规章，确定各氏族的角色、相互义务和社会生活准则。今天所称的“曼登宪章”长期口头流传，直到近代才被写成文字，因此其原始确切内容并不确定。2009年联合国教科文组织将曼登宪章列入非物质文化遗产名录。",
+    "ja": "口承によれば、キリナでの勝利ののち、スンジャタと同盟したマンデの氏族はカンガバ近くのクルカン・フガに集い、新しい帝国の決まりを宣言して、氏族の役割、相互の義務、社会生活の原則を定めたという。今日「マンデン憲章」として知られる内容は口頭で伝えられ近代になって文字化されたため、元の正確な内容は定かでない。2009年、ユネスコはマンデン憲章を無形文化遺産に登録した。"
+   }
+  },
+  {
+   "year": 1311,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Tradition of Mansa Abubakari's Atlantic voyage",
+    "ko": "만사 아부바카리의 대서양 항해 전승",
+    "zh": "曼萨·阿布巴卡里远航大西洋的传说",
+    "ja": "マンサ・アブバカリの大西洋航海の伝承"
+   },
+   "description": {
+    "en": "According to an account that Mansa Musa gave in Cairo, recorded by the historian al-Umari, his predecessor sent a large fleet to explore the limits of the Atlantic Ocean and, when only one ship returned, set out himself with a still larger fleet and never came back. The story, associated with a ruler often called Abubakari II, is the only source for the voyage. Claims that the expedition reached the Americas are not supported by evidence.",
+    "ko": "역사가 알우마리가 기록한, 만사 무사가 카이로에서 들려준 이야기에 따르면, 그의 전임자는 대서양의 끝을 탐험하려고 대규모 선단을 보냈고 배 한 척만 돌아오자 더 큰 선단을 이끌고 직접 떠나 다시는 돌아오지 않았다. 흔히 아부바카리 2세로 불리는 통치자와 관련된 이 이야기가 이 항해에 관한 유일한 사료이다. 원정대가 아메리카에 도달했다는 주장은 증거로 뒷받침되지 않는다.",
+    "zh": "据历史学家乌马里记录的曼萨·穆萨在开罗讲述的故事，他的前任曾派遣庞大船队探索大西洋的尽头，只有一艘船返回后，便亲自率领更大的船队出发，从此一去不返。这一与常被称为阿布巴卡里二世的统治者相关的故事，是有关这次航行的唯一史料。所谓远征队抵达美洲的说法缺乏证据支持。",
+    "ja": "歴史家ウマリーが記録した、マンサ・ムーサがカイロで語った話によれば、彼の前任者は大西洋の果てを探るため大船団を送り、1隻しか戻らなかったため、さらに大きな船団を率いて自ら出発し二度と戻らなかったという。アブバカリ2世と呼ばれることの多い支配者にまつわるこの話が、この航海の唯一の史料である。遠征隊がアメリカ大陸に到達したという説は証拠に裏付けられていない。"
+   }
+  },
+  {
+   "year": 1324,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Mansa Musa's pilgrimage to Mecca",
+    "ko": "만사 무사의 메카 순례",
+    "zh": "曼萨·穆萨朝觐麦加",
+    "ja": "マンサ・ムーサのメッカ巡礼"
+   },
+   "description": {
+    "en": "In 1324 Mansa Musa traveled to Mecca on pilgrimage with an enormous retinue and a great quantity of gold. During his stay in Cairo he spent and gave away so much gold that, according to al-Umari, its value there remained depressed for years. The pilgrimage made Mali famous across the Islamic world and Europe, and Musa returned with scholars and the architect Abu Ishaq al-Sahili.",
+    "ko": "1324년 만사 무사는 거대한 수행단과 막대한 금을 이끌고 메카 순례에 나섰다. 카이로에 머무는 동안 그가 쓰고 나눠 준 금이 너무 많아, 알우마리에 따르면 그곳의 금값이 몇 년 동안 낮게 유지되었다. 이 순례로 말리는 이슬람 세계와 유럽에 널리 알려졌고, 무사는 학자들과 건축가 아부 이스하크 알사힐리를 데리고 돌아왔다.",
+    "zh": "1324年，曼萨·穆萨率领庞大的随行队伍、携带大量黄金前往麦加朝觐。据乌马里记载，他在开罗停留期间花费和赠送的黄金之多，使当地金价多年低迷。这次朝觐使马里闻名伊斯兰世界和欧洲，穆萨归国时带回了学者和建筑师阿布·伊斯哈格·萨希利。",
+    "ja": "1324年、マンサ・ムーサは巨大な随行団と大量の金を携えてメッカ巡礼に出た。カイロ滞在中に彼が使い、与えた金はあまりに多く、ウマリーによれば同地の金の価値は何年も下がったままだったという。巡礼によってマリはイスラーム世界とヨーロッパに名を知られ、ムーサは学者たちと建築家アブー・イスハーク・サーヒリーを伴って帰国した。"
+   }
+  },
+  {
+   "year": 1327,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Djinguereber Mosque built in Timbuktu",
+    "ko": "팀북투 징게레베르 모스크 건립",
+    "zh": "廷巴克图津加里贝尔清真寺落成",
+    "ja": "トンブクトゥのジンガリーベル・モスク建立"
+   },
+   "description": {
+    "en": "After incorporating Timbuktu and Gao into the empire, Mansa Musa commissioned the Djinguereber (Great) Mosque in Timbuktu, traditionally dated to 1327 and attributed to Abu Ishaq al-Sahili. Built of earth, wood and stone and repeatedly rebuilt, it became one of the city's three great mosques along with Sankore and Sidi Yahia. Together with the city's mausoleums, they form part of the UNESCO World Heritage Site of Timbuktu.",
+    "ko": "팀북투와 가오를 제국에 편입한 뒤 만사 무사는 팀북투에 징게레베르(대) 모스크 건립을 명했는데, 전통적으로 1327년에 아부 이스하크 알사힐리가 지은 것으로 전해진다. 흙·나무·돌로 짓고 여러 차례 재건된 이 모스크는 상코레, 시디 야히아와 함께 도시의 3대 모스크가 되었다. 이들은 도시의 성자 묘소들과 함께 유네스코 세계유산 팀북투의 일부를 이룬다.",
+    "zh": "将廷巴克图和加奥并入帝国后，曼萨·穆萨下令在廷巴克图兴建津加里贝尔（大）清真寺，传统上认为建于1327年，由阿布·伊斯哈格·萨希利设计。这座以泥土、木材和石头建成并多次重建的清真寺，与桑科雷、西迪·叶海亚清真寺并称该城三大清真寺。它们与城中的圣陵一起构成联合国教科文组织世界遗产“廷巴克图”的一部分。",
+    "ja": "トンブクトゥとガオを帝国に編入したのち、マンサ・ムーサはトンブクトゥにジンガリーベル（大）モスクの建設を命じた。伝統的に1327年、アブー・イスハーク・サーヒリーの手になるとされる。土・木・石で造られ何度も再建されたこのモスクは、サンコーレ、シディ・ヤヒヤとともに町の三大モスクとなった。これらは町の聖者廟とともにユネスコ世界遺産「トンブクトゥ」の一部を成す。"
+   }
+  },
+  {
+   "year": 1352,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ibn Battuta visits Mali",
+    "ko": "이븐 바투타의 말리 방문",
+    "zh": "伊本·白图泰访问马里",
+    "ja": "イブン・バットゥータのマリ訪問"
+   },
+   "description": {
+    "en": "In 1352–1353 the Moroccan traveler Ibn Battuta crossed the Sahara and spent months in the Mali Empire during the reign of Mansa Sulayman, visiting the capital, Timbuktu and Gao. His account praises the safety of travel and the people's devotion to prayer while criticizing customs he found un-Islamic. It is one of the few eyewitness descriptions of Mali at its height.",
+    "ko": "1352~1353년 모로코의 여행가 이븐 바투타는 사하라를 건너 만사 술라이만 치세의 말리 제국에서 몇 달을 보내며 수도와 팀북투·가오를 방문했다. 그의 기록은 여행의 안전과 사람들의 예배에 대한 헌신을 칭찬하는 한편, 그가 비이슬람적이라 여긴 관습을 비판한다. 이는 전성기 말리에 대한 몇 안 되는 목격담 가운데 하나이다.",
+    "zh": "1352—1353年，摩洛哥旅行家伊本·白图泰穿越撒哈拉，在曼萨·苏莱曼统治时期的马里帝国停留数月，访问了都城、廷巴克图和加奥。他的游记称赞当地旅行安全、人们虔诚礼拜，同时批评了他认为不合伊斯兰教规的习俗。这是关于鼎盛时期马里为数不多的亲历记述之一。",
+    "ja": "1352〜53年、モロッコの旅行家イブン・バットゥータはサハラを越え、マンサ・スライマーン治世のマリ帝国に数か月滞在して、首都、トンブクトゥ、ガオを訪れた。その記録は旅の安全と人々の礼拝への熱心さを称える一方、彼が非イスラーム的とみなした習慣を批判している。最盛期のマリに関する数少ない目撃証言の一つである。"
+   }
+  },
+  {
+   "year": 1375,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "The Catalan Atlas depicts Mansa Musa",
+    "ko": "카탈루냐 지도에 그려진 만사 무사",
+    "zh": "《加泰罗尼亚地图集》描绘曼萨·穆萨",
+    "ja": "カタルーニャ図に描かれたマンサ・ムーサ"
+   },
+   "description": {
+    "en": "The Catalan Atlas, produced in Majorca around 1375 and attributed to the workshop of Abraham Cresques, shows the ruler of Mali enthroned in the Sahara, holding a gold nugget and scepter. The image reflected the fame of Mali's gold in Europe after Musa's pilgrimage. Such reports later encouraged Portuguese efforts to reach the sources of West African gold by sea.",
+    "ko": "1375년경 마요르카에서 제작되어 아브라함 크레스케스 공방의 작품으로 여겨지는 카탈루냐 지도에는 금덩이와 홀을 든 말리의 통치자가 사하라에 앉아 있는 모습이 그려져 있다. 이 그림은 무사의 순례 이후 유럽에 퍼진 말리 황금의 명성을 반영한다. 이러한 소식은 훗날 포르투갈이 바다를 통해 서아프리카 금의 원천에 닿으려는 노력을 부추겼다.",
+    "zh": "约1375年在马略卡岛绘制、被认为出自亚伯拉罕·克雷斯克斯作坊的《加泰罗尼亚地图集》，描绘了马里统治者手持金块和权杖端坐于撒哈拉的形象。这幅图反映了穆萨朝觐后马里黄金在欧洲的盛名。这类传闻后来促使葡萄牙人设法从海路抵达西非黄金的产地。",
+    "ja": "1375年頃にマヨルカで制作され、アブラハム・クレスケスの工房の作とされるカタルーニャ図には、金塊と笏を手にサハラに座すマリの支配者が描かれている。この図は、ムーサの巡礼後にヨーロッパに広まったマリの金の名声を反映している。こうした情報は、のちにポルトガルが海路で西アフリカの金の産地に到達しようとする動きを後押しした。"
+   }
+  },
+  {
+   "year": 1400,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Golden age of Timbuktu scholarship",
+    "ko": "팀북투 학문의 황금기",
+    "zh": "廷巴克图学术的黄金时代",
+    "ja": "トンブクトゥ学術の黄金時代"
+   },
+   "description": {
+    "en": "From the 14th to the 16th centuries, Timbuktu became one of the leading centers of Islamic learning in Africa. Scholars taught law, theology, grammar, astronomy and medicine in mosques such as Sankore and in private households, and families built up large manuscript libraries through copying and trade in books. Hundreds of thousands of manuscripts from Timbuktu and the surrounding region survive today.",
+    "ko": "14세기부터 16세기까지 팀북투는 아프리카에서 손꼽히는 이슬람 학문의 중심지가 되었다. 학자들은 상코레 같은 모스크와 개인 가정에서 법학·신학·문법·천문학·의학을 가르쳤고, 가문들은 필사와 서적 교역으로 대규모 필사본 장서를 쌓았다. 팀북투와 주변 지역의 필사본 수십만 점이 오늘날까지 전한다.",
+    "zh": "14至16世纪，廷巴克图成为非洲首屈一指的伊斯兰学术中心之一。学者们在桑科雷等清真寺和私人家中讲授法学、神学、语法、天文和医学，各家族通过抄写和书籍贸易建立起大型手稿藏书。来自廷巴克图及周边地区的数十万份手稿保存至今。",
+    "ja": "14世紀から16世紀にかけて、トンブクトゥはアフリカ屈指のイスラーム学術の中心地となった。学者たちはサンコーレなどのモスクや私邸で法学・神学・文法・天文学・医学を教え、一族は書写と書籍の交易を通じて大規模な写本の蔵書を築いた。トンブクトゥと周辺地域の数十万点の写本が今日まで伝わっている。"
+   }
+  },
+  {
+   "year": 1433,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Tuareg take Timbuktu from Mali",
+    "ko": "투아레그, 말리로부터 팀북투 장악",
+    "zh": "图阿雷格人从马里手中夺取廷巴克图",
+    "ja": "トゥアレグ、マリからトンブクトゥを奪う"
+   },
+   "description": {
+    "en": "As the Mali Empire weakened in the early 15th century, Tuareg groups under the chief Akil took control of Timbuktu around 1433. They left the city's administration largely to its local Muslim notables. The loss of Timbuktu and other northern territories marked the beginning of Mali's long decline in the Niger bend.",
+    "ko": "15세기 초 말리 제국이 약해지자 족장 아킬이 이끄는 투아레그 집단이 1433년경 팀북투를 장악했다. 그들은 도시의 행정을 대체로 현지 무슬림 유력자들에게 맡겼다. 팀북투와 다른 북부 영토의 상실은 니제르강 굽이에서 말리의 오랜 쇠퇴가 시작되었음을 보여 준다.",
+    "zh": "15世纪初马里帝国衰弱，酋长阿基勒率领的图阿雷格人约于1433年控制了廷巴克图。他们基本上把城市行政交给当地穆斯林显贵管理。失去廷巴克图和其他北部领土标志着马里在尼日尔河弯长期衰落的开始。",
+    "ja": "15世紀初めにマリ帝国が弱まると、首長アキル率いるトゥアレグの集団が1433年頃トンブクトゥを掌握した。彼らは町の行政をおおむね地元のムスリム名士に委ねた。トンブクトゥなど北部領土の喪失は、ニジェール湾曲部でのマリの長い衰退の始まりを示した。"
+   }
+  },
+  {
+   "year": 1464,
+   "qid": "Q202687",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Sonni Ali expands the Songhai Empire",
+    "ko": "손니 알리의 송가이 제국 확장",
+    "zh": "索尼·阿里扩张桑海帝国",
+    "ja": "ソンニ・アリによるソンガイ帝国の拡大"
+   },
+   "description": {
+    "en": "Sonni Ali, who became ruler of the Songhai kingdom of Gao around 1464, launched a series of campaigns with cavalry and a river fleet that transformed it into an empire. He fought the Tuareg, Fulani and Mossi and conquered most of the Niger bend at Mali's expense. The later Muslim chroniclers of Timbuktu portrayed him as a harsh tyrant who persecuted scholars, but he is also remembered as a brilliant military leader.",
+    "ko": "1464년경 가오의 송가이 왕국 통치자가 된 손니 알리는 기병과 하천 함대를 동원한 일련의 원정으로 왕국을 제국으로 탈바꿈시켰다. 그는 투아레그·풀라니·모시와 싸우고 말리를 희생시키며 니제르강 굽이 대부분을 정복했다. 후대 팀북투의 무슬림 연대기 작가들은 그를 학자를 박해한 가혹한 폭군으로 그렸지만, 그는 뛰어난 군사 지도자로도 기억된다.",
+    "zh": "约1464年成为加奥桑海王国统治者的索尼·阿里，以骑兵和内河舰队发动一系列征战，将王国变为帝国。他与图阿雷格人、富拉尼人和莫西人作战，以牺牲马里为代价征服了尼日尔河弯大部分地区。后来廷巴克图的穆斯林编年史家把他描绘成迫害学者的暴君，但他也被铭记为杰出的军事统帅。",
+    "ja": "1464年頃にガオのソンガイ王国の支配者となったソンニ・アリは、騎兵と河川艦隊による一連の遠征で王国を帝国へと変えた。トゥアレグ、フルベ、モシと戦い、マリの犠牲のもとにニジェール湾曲部の大半を征服した。のちのトンブクトゥのムスリム年代記作者は彼を学者を迫害した苛烈な暴君と描いたが、優れた軍事指導者としても記憶されている。"
+   }
+  },
+  {
+   "year": 1468,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sonni Ali takes Timbuktu and Djenné",
+    "ko": "손니 알리의 팀북투·젠네 점령",
+    "zh": "索尼·阿里攻占廷巴克图和杰内",
+    "ja": "ソンニ・アリ、トンブクトゥとジェンネを攻略"
+   },
+   "description": {
+    "en": "In 1468 Sonni Ali drove the Tuareg from Timbuktu and occupied the city, punishing scholars suspected of collaborating with them. He then besieged the river city of Djenné, which fell after a long siege in the early 1470s. Control of both cities gave Songhai command of the trans-Saharan and river trade of the Niger bend.",
+    "ko": "1468년 손니 알리는 투아레그를 팀북투에서 몰아내고 도시를 점령했으며, 그들과 협력했다고 의심한 학자들을 처벌했다. 이어 강변 도시 젠네를 포위했고, 젠네는 1470년대 초 긴 포위 끝에 함락되었다. 두 도시를 장악한 송가이는 니제르강 굽이의 사하라 횡단 교역과 하천 교역을 손에 넣었다.",
+    "zh": "1468年，索尼·阿里将图阿雷格人逐出廷巴克图并占领该城，惩处了被怀疑与其合作的学者。随后他围攻河畔城市杰内，该城在1470年代初经长期围困后陷落。控制这两座城市使桑海掌握了尼日尔河弯的跨撒哈拉贸易和内河贸易。",
+    "ja": "1468年、ソンニ・アリはトゥアレグをトンブクトゥから追い出して町を占領し、彼らに協力したと疑われる学者を処罰した。続いて川沿いの町ジェンネを包囲し、ジェンネは1470年代初めに長い包囲の末に陥落した。両都市を押さえたソンガイは、ニジェール湾曲部のサハラ縦断交易と河川交易を手中に収めた。"
+   }
+  },
+  {
+   "year": 1493,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Askia Muhammad founds the Askia dynasty",
+    "ko": "아스키아 무함마드의 아스키아 왕조 창건",
+    "zh": "阿斯基亚·穆罕默德开创阿斯基亚王朝",
+    "ja": "アスキア・ムハンマドがアスキア朝を開く"
+   },
+   "description": {
+    "en": "After Sonni Ali's death in 1492, his general Muhammad Ture defeated Ali's son at Anfao in 1493 and took power as Askia Muhammad. A devout Muslim, he made the pilgrimage to Mecca in 1496–1497, where he was invested as caliph of the land of Takrur, and he favored the scholars of Timbuktu. He reorganized the administration into provinces and extended the empire to its greatest size.",
+    "ko": "1492년 손니 알리가 죽자 그의 장군 무함마드 투레는 1493년 안파오에서 알리의 아들을 물리치고 아스키아 무함마드로서 권력을 잡았다. 독실한 무슬림이었던 그는 1496~1497년 메카 순례를 하며 그곳에서 타크루르 땅의 칼리프로 임명되었고, 팀북투 학자들을 우대했다. 그는 행정을 여러 주로 재편하고 제국을 최대 규모로 넓혔다.",
+    "zh": "1492年索尼·阿里去世后，其将领穆罕默德·图雷于1493年在安法奥击败阿里之子，以阿斯基亚·穆罕默德之名掌权。他是虔诚的穆斯林，1496—1497年朝觐麦加，并在当地被授予“塔克鲁尔之地哈里发”的称号，同时优待廷巴克图的学者。他将行政重组为各省，使帝国达到最大版图。",
+    "ja": "1492年にソンニ・アリが死ぬと、その将軍ムハンマド・トゥーレは1493年にアンファオでアリの息子を破り、アスキア・ムハンマドとして権力を握った。敬虔なムスリムであった彼は1496〜97年にメッカ巡礼を行い、そこで「タクルールの地のカリフ」に任じられ、トンブクトゥの学者を厚遇した。行政を諸州に再編し、帝国を最大の版図へと広げた。"
+   }
+  },
+  {
+   "year": 1510,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Leo Africanus describes Timbuktu",
+    "ko": "레오 아프리카누스의 팀북투 묘사",
+    "zh": "利奥·阿非利加努斯描述廷巴克图",
+    "ja": "レオ・アフリカヌスのトンブクトゥ描写"
+   },
+   "description": {
+    "en": "Al-Hasan ibn Muhammad al-Wazzan, later known in Europe as Leo Africanus, visited Timbuktu in the early 16th century during the reign of Askia Muhammad. In his Description of Africa, published in Italian in 1550, he wrote of the city's wealthy king, its many judges, doctors and scholars, and the profitable trade in manuscripts. His account fixed Timbuktu's image in Europe as a fabulously rich and learned city.",
+    "ko": "훗날 유럽에서 레오 아프리카누스로 알려진 알하산 이븐 무함마드 알와잔은 16세기 초 아스키아 무함마드 치세에 팀북투를 방문했다. 1550년 이탈리아어로 출간된 《아프리카지》에서 그는 이 도시의 부유한 왕, 많은 법관·의사·학자, 그리고 수익성 높은 필사본 교역에 대해 썼다. 그의 기록은 팀북투를 엄청나게 부유하고 학식 높은 도시로 보는 유럽의 이미지를 굳혔다.",
+    "zh": "后来在欧洲以“利奥·阿非利加努斯”闻名的哈桑·伊本·穆罕默德·瓦赞，于16世纪初阿斯基亚·穆罕默德统治时期访问廷巴克图。在1550年以意大利文出版的《非洲志》中，他记述了该城富有的国王、众多法官、医生和学者以及获利丰厚的手稿贸易。他的记述使廷巴克图在欧洲留下了极其富庶、学风昌盛之城的印象。",
+    "ja": "のちにヨーロッパでレオ・アフリカヌスとして知られるハサン・イブン・ムハンマド・ワッザーンは、16世紀初めアスキア・ムハンマドの治世にトンブクトゥを訪れた。1550年にイタリア語で刊行された『アフリカ誌』で、彼は町の富裕な王、多くの裁判官・医師・学者、そして利益の大きい写本取引について記した。その記述は、トンブクトゥを途方もなく豊かで学問の盛んな都市とするヨーロッパのイメージを定着させた。"
+   }
+  },
+  {
+   "year": 1591,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Battle of Tondibi ends Songhai",
+    "ko": "톤디비 전투와 송가이의 몰락",
+    "zh": "通迪比之战终结桑海帝国",
+    "ja": "トンディビの戦いとソンガイの滅亡"
+   },
+   "description": {
+    "en": "Seeking control of West African gold and the Taghaza salt mines, the Saadian sultan Ahmad al-Mansur sent an army of a few thousand men, many armed with firearms and led by the Spanish-born Judar Pasha, across the Sahara. On 13 March 1591 it defeated the much larger army of Askia Ishaq II at Tondibi near Gao. The Moroccans occupied Gao, Timbuktu and Djenné, ending the Songhai Empire, though Askia resistance continued downstream in Dendi.",
+    "ko": "서아프리카의 금과 타가자 소금 광산을 장악하려던 사아드 왕조의 술탄 아흐마드 알만수르는 에스파냐 출신 주다르 파샤가 이끄는, 상당수가 화기로 무장한 수천 명의 군대를 사하라 너머로 보냈다. 1591년 3월 13일 이 군대는 가오 부근 톤디비에서 훨씬 큰 규모의 아스키아 이스하크 2세 군대를 격파했다. 모로코군은 가오·팀북투·젠네를 점령해 송가이 제국을 끝냈지만, 아스키아 세력의 저항은 하류의 덴디에서 계속되었다.",
+    "zh": "为控制西非黄金和塔加扎盐矿，萨阿德王朝苏丹艾哈迈德·曼苏尔派出一支由西班牙出生的朱达尔帕夏率领、仅数千人但多配备火器的军队穿越撒哈拉。1591年3月13日，这支军队在加奥附近的通迪比击败了阿斯基亚·伊斯哈格二世规模大得多的军队。摩洛哥人占领加奥、廷巴克图和杰内，桑海帝国灭亡，但阿斯基亚势力在下游的丹迪继续抵抗。",
+    "ja": "西アフリカの金とタガーザの塩鉱を手に入れようとしたサアド朝のスルタン、アフマド・マンスールは、スペイン生まれのジューダル・パシャが率いる、多くが火器で武装した数千人の軍をサハラ越しに送った。1591年3月13日、この軍はガオ近郊のトンディビで、はるかに大規模なアスキア・イスハーク2世の軍を破った。モロッコ軍はガオ、トンブクトゥ、ジェンネを占領してソンガイ帝国を終わらせたが、アスキア勢力の抵抗は下流のデンディで続いた。"
+   }
+  },
+  {
+   "year": 1593,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Ahmad Baba exiled to Marrakesh",
+    "ko": "아흐마드 바바의 마라케시 유배",
+    "zh": "艾哈迈德·巴巴被流放马拉喀什",
+    "ja": "アフマド・バーバのマラケシュ追放"
+   },
+   "description": {
+    "en": "In 1593 the Moroccan authorities in Timbuktu arrested leading scholars suspected of opposing them, including the renowned jurist Ahmad Baba, and deported them to Marrakesh; his library was reportedly lost. Ahmad Baba taught in Morocco and was allowed to return home only after al-Mansur's death, around 1608. The episode is often seen as the end of Timbuktu's intellectual golden age; a modern manuscript institute in Timbuktu bears his name.",
+    "ko": "1593년 팀북투의 모로코 당국은 자신들에 반대한다고 의심되는 유력 학자들을 체포해 마라케시로 추방했는데, 여기에는 저명한 법학자 아흐마드 바바도 있었으며 그의 장서는 사라졌다고 전한다. 아흐마드 바바는 모로코에서 가르치다가 알만수르가 죽은 뒤인 1608년경에야 귀향이 허락되었다. 이 사건은 흔히 팀북투 학문 황금기의 끝으로 여겨지며, 오늘날 팀북투의 필사본 연구소는 그의 이름을 따르고 있다.",
+    "zh": "1593年，驻廷巴克图的摩洛哥当局逮捕了被怀疑反对他们的著名学者，包括知名法学家艾哈迈德·巴巴，并将他们押往马拉喀什；据说他的藏书就此散失。艾哈迈德·巴巴在摩洛哥讲学，直到曼苏尔去世后约1608年才获准返乡。这一事件常被视为廷巴克图学术黄金时代的终结；如今廷巴克图的一所手稿研究机构以他的名字命名。",
+    "ja": "1593年、トンブクトゥのモロッコ当局は自らに反対すると疑われた有力な学者たちを逮捕してマラケシュへ移送した。その中には高名な法学者アフマド・バーバもおり、彼の蔵書は失われたと伝えられる。アフマド・バーバはモロッコで教え、マンスールの死後の1608年頃になってようやく帰郷を許された。この出来事はトンブクトゥの学術黄金時代の終わりとみなされることが多く、現在トンブクトゥの写本研究機関は彼の名を冠している。"
+   }
+  },
+  {
+   "year": 1599,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Mali's last bid: the attack on Djenné",
+    "ko": "말리의 마지막 시도: 젠네 공격",
+    "zh": "马里的最后一搏：进攻杰内",
+    "ja": "マリ最後の試み：ジェンネ攻撃"
+   },
+   "description": {
+    "en": "Hoping to exploit the Songhai collapse, Mansa Mahmud IV of Mali gathered allies and attacked Djenné, then held by Moroccan forces, in 1599. The Moroccan garrison, reinforced from Timbuktu and using firearms, defeated the Malian army. Afterward the Mali Empire fragmented into rival chiefdoms in the Mande heartland.",
+    "ko": "송가이의 붕괴를 틈타려던 말리의 만사 마흐무드 4세는 동맹 세력을 모아 1599년 모로코군이 지키던 젠네를 공격했다. 팀북투에서 증원된 모로코 수비대는 화기를 써서 말리 군대를 격파했다. 이후 말리 제국은 만데 중심지의 서로 경쟁하는 족장국들로 쪼개졌다.",
+    "zh": "马里的曼萨·马哈茂德四世企图趁桑海崩溃之机，于1599年纠集盟友进攻由摩洛哥军队据守的杰内。得到廷巴克图援军的摩洛哥守军凭借火器击败了马里军队。此后马里帝国在曼德腹地分裂为相互竞争的酋邦。",
+    "ja": "ソンガイの崩壊に乗じようとしたマリのマンサ・マフムード4世は、同盟者を集めて1599年にモロッコ軍が守るジェンネを攻撃した。トンブクトゥから増援を受けたモロッコ守備隊は火器を用いてマリ軍を破った。その後、マリ帝国はマンデの中心地で互いに争う首長国へと分裂した。"
+   }
+  },
+  {
+   "year": 1618,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The Arma begin electing their own pashas",
+    "ko": "아르마의 자체 파샤 선출",
+    "zh": "阿尔马人开始自选帕夏",
+    "ja": "アルマが自らパシャを選び始める"
+   },
+   "description": {
+    "en": "Around 1618 the Moroccan sultans stopped sending pashas to the Niger, and the Arma, descendants of the Moroccan garrison who had married into local society, began electing pashas from among themselves in Timbuktu. Their pashalik nominally recognized the Moroccan sultan but was effectively independent. Frequent coups and factional rivalries weakened it over the following two centuries.",
+    "ko": "1618년경 모로코 술탄들은 더 이상 니제르로 파샤를 보내지 않았고, 현지 사회와 통혼한 모로코 수비대의 후손인 아르마는 팀북투에서 자기들 가운데서 파샤를 선출하기 시작했다. 그들의 파샤령은 명목상 모로코 술탄을 인정했지만 사실상 독립적이었다. 잦은 정변과 파벌 다툼으로 파샤령은 이후 두 세기 동안 약해졌다.",
+    "zh": "约1618年，摩洛哥苏丹不再向尼日尔河地区派遣帕夏，与当地社会通婚的摩洛哥驻军后裔阿尔马人开始在廷巴克图从自己人中推选帕夏。他们的帕夏国名义上承认摩洛哥苏丹，实际上独立。在此后两个世纪里，频繁的政变和派系争斗使其日渐衰弱。",
+    "ja": "1618年頃、モロッコのスルタンはニジェールへパシャを送らなくなり、現地社会と通婚したモロッコ守備隊の子孫であるアルマは、トンブクトゥで自分たちの中からパシャを選ぶようになった。そのパシャ領は名目上モロッコのスルタンを認めたが、事実上独立していた。頻繁な政変と派閥抗争により、その後2世紀の間に弱体化した。"
+   }
+  },
+  {
+   "year": 1655,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Al-Sadi completes the Tarikh al-Sudan",
+    "ko": "알사디의 《타리크 알수단》 완성",
+    "zh": "萨迪完成《苏丹史》",
+    "ja": "サアディー『スーダン年代記』の完成"
+   },
+   "description": {
+    "en": "Around 1655 the Timbuktu scholar and official Abd al-Rahman al-Sadi completed the Tarikh al-Sudan, a chronicle in Arabic of the Songhai Empire, Mali, Timbuktu, Djenné and the Moroccan conquest. Together with the Tarikh al-fattash, it is the most important written source for the history of the Middle Niger. These chronicles drew on oral tradition, earlier documents and the authors' own experience.",
+    "ko": "1655년경 팀북투의 학자이자 관리인 압드 알라흐만 알사디는 송가이 제국·말리·팀북투·젠네와 모로코 정복을 다룬 아랍어 연대기 《타리크 알수단》을 완성했다. 이는 《타리크 알파타시》와 함께 니제르강 중류 역사의 가장 중요한 문헌 사료이다. 이 연대기들은 구전, 이전 문서, 저자 자신의 경험을 바탕으로 했다.",
+    "zh": "约1655年，廷巴克图学者兼官员阿卜杜·拉赫曼·萨迪完成了《苏丹史》，这是一部用阿拉伯文记述桑海帝国、马里、廷巴克图、杰内及摩洛哥征服的编年史。它与《探求者史》一起，是尼日尔河中游历史最重要的文字史料。这些编年史取材于口述传统、早期文献和作者亲身经历。",
+    "ja": "1655年頃、トンブクトゥの学者で役人のアブドゥッラフマーン・サアディーは、ソンガイ帝国、マリ、トンブクトゥ、ジェンネとモロッコの征服を記したアラビア語の年代記『スーダン年代記』を完成させた。『探求者の年代記（ターリーフ・アル＝ファッターシュ）』とともに、ニジェール川中流域の歴史の最も重要な文字史料である。これらの年代記は口承、先行文書、著者自身の経験に基づいている。"
+   }
+  },
+  {
+   "year": 1712,
+   "qid": "Q762084",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Biton Kulibali builds the Bamana state of Ségou",
+    "ko": "비톤 쿨리발리의 세구 밤바라 국가 건설",
+    "zh": "比通·库利巴利建立塞古班巴拉国家",
+    "ja": "ビトン・クリバリがセグーのバンバラ国家を築く"
+   },
+   "description": {
+    "en": "Around 1712 Mamari Kulibali, known as Biton, took power in Ségou and transformed the ton, an association of young men, into a standing army composed largely of captives. He subdued neighboring chiefdoms and the Fulani and Somono of the river, establishing Ségou as the dominant power on the middle Niger. The Bamana state largely maintained traditional religion while hosting Muslim traders and scholars.",
+    "ko": "1712년경 '비톤'으로 알려진 마마리 쿨리발리는 세구에서 권력을 잡고 청년 결사 '톤'을 주로 포로들로 구성된 상비군으로 바꾸었다. 그는 이웃 족장국들과 강변의 풀라니·소모노를 복속시키고 세구를 니제르강 중류의 패권 세력으로 세웠다. 밤바라 국가는 무슬림 상인과 학자들을 받아들이면서도 대체로 전통 종교를 유지했다.",
+    "zh": "约1712年，人称“比通”的马马里·库利巴利在塞古掌权，将青年团体“通”改造为主要由俘虏组成的常备军。他征服了邻近酋邦以及河上的富拉尼人和索莫诺人，使塞古成为尼日尔河中游的霸主。班巴拉国家在接纳穆斯林商人和学者的同时，大体保持了传统宗教。",
+    "ja": "1712年頃、ビトンとして知られるママリ・クリバリはセグーで権力を握り、若者の結社「トン」を主に捕虜からなる常備軍に変えた。近隣の首長国や川のフルベ、ソモノを服属させ、セグーをニジェール川中流の覇者とした。バンバラ国家はムスリムの商人や学者を受け入れつつ、おおむね伝統宗教を保った。"
+   }
+  },
+  {
+   "year": 1737,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Tuareg defeat the Arma at Toya",
+    "ko": "토야 전투에서 투아레그가 아르마 격파",
+    "zh": "图阿雷格人在托亚击败阿尔马",
+    "ja": "トヤの戦いでトゥアレグがアルマを破る"
+   },
+   "description": {
+    "en": "In 1737 Tuareg forces defeated an Arma army near Toya, west of Timbuktu, killing many of its soldiers and leaders. The defeat greatly weakened the pashalik, and in the following decades Tuareg groups increasingly dominated the Timbuktu region and the river trade. The city continued as a trading and scholarly center, but under shifting overlords.",
+    "ko": "1737년 투아레그 세력은 팀북투 서쪽 토야 부근에서 아르마 군대를 격파해 많은 병사와 지도자를 죽였다. 이 패배로 파샤령은 크게 약해졌고, 이후 수십 년 동안 투아레그 집단이 팀북투 지역과 하천 교역을 점점 더 지배했다. 도시는 교역과 학문의 중심지로 남았지만 지배자는 계속 바뀌었다.",
+    "zh": "1737年，图阿雷格人在廷巴克图以西的托亚附近击败阿尔马军队，杀死大批士兵和首领。此役重创帕夏国，此后数十年间，图阿雷格各部日益主宰廷巴克图地区和内河贸易。该城仍是贸易和学术中心，但统治者不断更替。",
+    "ja": "1737年、トゥアレグ勢力はトンブクトゥ西方のトヤ付近でアルマの軍を破り、多くの兵士と指導者を殺した。この敗北でパシャ領は大きく弱まり、その後の数十年でトゥアレグの集団がトンブクトゥ地方と河川交易をますます支配した。町は交易と学問の中心であり続けたが、支配者は移り変わった。"
+   }
+  },
+  {
+   "year": 1766,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ngolo Diarra founds the Ngolosi dynasty of Ségou",
+    "ko": "응골로 디아라의 세구 응골로시 왕조 창건",
+    "zh": "恩戈洛·迪亚拉开创塞古恩戈洛西王朝",
+    "ja": "ンゴロ・ディアラがセグーのンゴロシ朝を開く"
+   },
+   "description": {
+    "en": "After a period of instability following Biton Kulibali's death, Ngolo Diarra, a former captive and commander, seized power in Ségou around 1766. His Diarra (Ngolosi) dynasty stabilized and expanded the kingdom, campaigning against Massina and Kaarta. Ségou remained a major power on the Niger until the jihad of Umar Tall.",
+    "ko": "비톤 쿨리발리 사후 불안정한 시기를 거쳐, 포로 출신 지휘관 응골로 디아라가 1766년경 세구에서 권력을 잡았다. 그의 디아라(응골로시) 왕조는 왕국을 안정시키고 확장했으며, 마시나와 카아르타를 상대로 원정을 벌였다. 세구는 우마르 탈의 성전 때까지 니제르강의 주요 세력으로 남았다.",
+    "zh": "比通·库利巴利死后经历一段动荡，出身俘虏的将领恩戈洛·迪亚拉约于1766年在塞古夺取政权。他的迪亚拉（恩戈洛西）王朝稳定并扩张了王国，出兵征讨马西纳和卡尔塔。直到奥马尔·塔勒发动圣战之前，塞古始终是尼日尔河上的重要强国。",
+    "ja": "ビトン・クリバリの死後の不安定な時期を経て、捕虜出身の指揮官ンゴロ・ディアラが1766年頃セグーで権力を握った。彼のディアラ（ンゴロシ）朝は王国を安定させて拡大し、マシナやカールタに遠征した。セグーはウマル・タールのジハードまでニジェール川の主要勢力であり続けた。"
+   }
+  },
+  {
+   "year": 1796,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Mungo Park reaches the Niger at Ségou",
+    "ko": "멍고 파크, 세구에서 니제르강 도달",
+    "zh": "芒戈·帕克在塞古抵达尼日尔河",
+    "ja": "マンゴ・パーク、セグーでニジェール川に到達"
+   },
+   "description": {
+    "en": "In July 1796 the Scottish explorer Mungo Park, sent by the African Association of London, reached the Niger at Ségou and confirmed that the river flowed eastward, settling a long European debate. He was not permitted to enter the city and turned back after traveling downstream. On a second expedition in 1805 he sailed down the Niger past Timbuktu but died in rapids at Bussa in present-day Nigeria.",
+    "ko": "1796년 7월 런던 아프리카 협회가 파견한 스코틀랜드 탐험가 멍고 파크는 세구에서 니제르강에 이르러 강이 동쪽으로 흐른다는 사실을 확인함으로써 유럽의 오랜 논쟁에 마침표를 찍었다. 그는 도시에 들어가는 것을 허락받지 못했고 하류로 조금 나아갔다가 돌아섰다. 1805년 두 번째 탐험에서 그는 니제르강을 따라 팀북투를 지나 내려갔으나 오늘날 나이지리아의 부사 급류에서 숨졌다.",
+    "zh": "1796年7月，伦敦非洲协会派遣的苏格兰探险家芒戈·帕克在塞古抵达尼日尔河，证实这条河向东流，平息了欧洲长期的争论。他未获准进城，沿河下行一段后折返。1805年第二次探险时，他沿尼日尔河顺流而下经过廷巴克图，但在今尼日利亚的布萨急流中遇难。",
+    "ja": "1796年7月、ロンドンのアフリカ協会が派遣したスコットランドの探検家マンゴ・パークはセグーでニジェール川に到達し、川が東へ流れることを確認して、ヨーロッパの長年の論争に決着をつけた。彼は町に入ることを許されず、下流へ少し進んだのち引き返した。1805年の2回目の探検ではニジェール川をトンブクトゥの先まで下ったが、現在のナイジェリアのブッサの急流で死んだ。"
+   }
+  },
+  {
+   "year": 1818,
+   "qid": "Q635394",
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Seku Amadu founds the Massina Empire",
+    "ko": "세쿠 아마두의 마시나 제국 건국",
+    "zh": "塞库·阿马杜建立马西纳帝国",
+    "ja": "セク・アマドゥがマシナ帝国を建国"
+   },
+   "description": {
+    "en": "In 1818 the Fulani preacher Seku Amadu, inspired by the jihad of Usman dan Fodio in Hausaland, defeated the Fulani warrior chiefs of Massina and their Bamana allies from Ségou at the Battle of Noukouma. He founded an Islamic state, the Diina, and built a new capital, Hamdallahi, around 1820. Massina regulated pastoral movements in the Inland Niger Delta, established schools and enforced a strict interpretation of Islamic law, taking control of Djenné and later Timbuktu.",
+    "ko": "1818년 하우사 지역 우스만 단 포디오의 성전에 고무된 풀라니 설교자 세쿠 아마두는 누쿠마 전투에서 마시나의 풀라니 전사 족장들과 그들과 연합한 세구의 밤바라 세력을 물리쳤다. 그는 이슬람 국가 '디나'를 세우고 1820년경 새 수도 함달라이를 건설했다. 마시나는 니제르 내륙 삼각주의 유목 이동을 규제하고 학교를 세우며 이슬람법을 엄격히 해석해 시행했고, 젠네와 뒤에는 팀북투까지 장악했다.",
+    "zh": "1818年，受豪萨地区乌斯曼·丹·福迪奥圣战的鼓舞，富拉尼传道者塞库·阿马杜在努库马战役中击败马西纳的富拉尼武士酋长及其盟友塞古班巴拉军。他建立伊斯兰国家“迪纳”，约于1820年兴建新都哈姆达拉希。马西纳规范尼日尔河内陆三角洲的游牧迁徙，兴办学校，严格执行伊斯兰法，控制了杰内，后来又控制了廷巴克图。",
+    "ja": "1818年、ハウサ地方のウスマン・ダン・フォディオのジハードに触発されたフルベの説教者セク・アマドゥは、ヌクマの戦いでマシナのフルベ戦士首長たちと、それと結んだセグーのバンバラ勢力を破った。彼はイスラーム国家「ディーナ」を建て、1820年頃に新首都ハムダラーヒを築いた。マシナはニジェール川内陸デルタの牧畜移動を規制し、学校を設け、イスラーム法を厳格に施行し、ジェンネ、のちにはトンブクトゥを支配下に置いた。"
+   }
+  },
+  {
+   "year": 1828,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "René Caillié reaches Timbuktu",
+    "ko": "르네 카이예의 팀북투 도달",
+    "zh": "勒内·卡耶抵达廷巴克图",
+    "ja": "ルネ・カイエ、トンブクトゥに到達"
+   },
+   "description": {
+    "en": "In April 1828 the French explorer René Caillié, traveling in disguise as a Muslim, reached Timbuktu and became the first European known to have returned alive from the city. He found a modest town far from the fabulous wealth of European legend. After crossing the Sahara to Morocco, he received a prize from the Paris Geographical Society.",
+    "ko": "1828년 4월 무슬림으로 변장해 여행한 프랑스 탐험가 르네 카이예는 팀북투에 도착해, 이 도시에서 살아 돌아온 것으로 알려진 최초의 유럽인이 되었다. 그가 본 것은 유럽 전설 속의 엄청난 부와는 거리가 먼 소박한 도시였다. 사하라를 건너 모로코로 간 그는 파리 지리학회로부터 상을 받았다.",
+    "zh": "1828年4月，乔装成穆斯林旅行的法国探险家勒内·卡耶抵达廷巴克图，成为已知第一个从该城生还的欧洲人。他看到的是一座朴素的城镇，与欧洲传说中的巨富相去甚远。他穿越撒哈拉到达摩洛哥后，获得巴黎地理学会颁发的奖金。",
+    "ja": "1828年4月、ムスリムに変装して旅したフランスの探検家ルネ・カイエはトンブクトゥに到達し、この町から生還したことが知られる最初のヨーロッパ人となった。彼が目にしたのは、ヨーロッパの伝説にある途方もない富とは程遠い質素な町だった。サハラを越えてモロッコに渡った彼は、パリ地理学会から賞を受けた。"
+   }
+  },
+  {
+   "year": 1853,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Heinrich Barth in Timbuktu",
+    "ko": "하인리히 바르트의 팀북투 체류",
+    "zh": "海因里希·巴尔特在廷巴克图",
+    "ja": "ハインリヒ・バルトのトンブクトゥ滞在"
+   },
+   "description": {
+    "en": "In September 1853 the German scholar-explorer Heinrich Barth, traveling for the British government, arrived in Timbuktu and stayed there for months under the protection of the scholar Ahmad al-Bakkay. He studied the city's history and obtained access to a copy of the Tarikh al-Sudan. His multivolume account remains a valuable source on the 19th-century Sahel.",
+    "ko": "1853년 9월 영국 정부를 위해 여행하던 독일 학자이자 탐험가 하인리히 바르트는 팀북투에 도착해 학자 아흐마드 알바카이의 보호 아래 여러 달을 머물렀다. 그는 도시의 역사를 연구하고 《타리크 알수단》 사본을 접할 수 있었다. 그가 쓴 여러 권의 기록은 19세기 사헬에 관한 귀중한 사료로 남아 있다.",
+    "zh": "1853年9月，为英国政府从事考察的德国学者兼探险家海因里希·巴尔特抵达廷巴克图，在学者艾哈迈德·巴卡伊的保护下停留数月。他研究该城历史，并得以接触《苏丹史》的抄本。他的多卷本游记至今仍是研究19世纪萨赫勒的宝贵资料。",
+    "ja": "1853年9月、イギリス政府のために旅していたドイツの学者・探検家ハインリヒ・バルトはトンブクトゥに着き、学者アフマド・バッカーイーの保護のもとで数か月滞在した。彼は町の歴史を研究し、『スーダン年代記』の写本に接することができた。彼の数巻に及ぶ旅行記は、19世紀のサヘルに関する貴重な史料であり続けている。"
+   }
+  },
+  {
+   "year": 1854,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Umar Tall conquers Kaarta",
+    "ko": "우마르 탈의 카아르타 정복",
+    "zh": "奥马尔·塔勒征服卡尔塔",
+    "ja": "ウマル・タールのカールタ征服"
+   },
+   "description": {
+    "en": "After launching his jihad in 1852 from Dinguiraye, El Hadj Umar Tall turned against the Bamana kingdom of Kaarta and took its capital Nioro in 1854. Kaarta's Massassi rulers were defeated and many were executed, and Umar's followers settled in the region. Nioro became one of the main centers of his new empire.",
+    "ko": "1852년 딩기라이에서 성전을 시작한 엘하지 우마르 탈은 밤바라 왕국 카아르타를 공격해 1854년 수도 니오로를 함락했다. 카아르타의 마사시 통치자들은 패배했고 다수가 처형되었으며, 우마르의 추종자들이 그 지역에 정착했다. 니오로는 그의 새 제국의 주요 중심지 가운데 하나가 되었다.",
+    "zh": "1852年从丁吉拉耶发起圣战的哈吉·奥马尔·塔勒转而进攻班巴拉的卡尔塔王国，并于1854年攻占其都城尼奥罗。卡尔塔的马萨西统治者战败，许多人被处决，奥马尔的追随者在该地区定居。尼奥罗成为其新帝国的主要中心之一。",
+    "ja": "1852年にディンギラエからジハードを始めたエル・ハッジ・ウマル・タールは、バンバラのカールタ王国に矛先を向け、1854年に首都ニオロを攻略した。カールタのマサシの支配者は敗れて多くが処刑され、ウマルの信奉者がその地に定住した。ニオロは彼の新しい帝国の主要な中心地の一つとなった。"
+   }
+  },
+  {
+   "year": 1857,
+   "qid": "Q3486065",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siege of Médine",
+    "ko": "메딘 요새 포위전",
+    "zh": "梅迪纳要塞围攻战",
+    "ja": "メディーヌ砦の包囲戦"
+   },
+   "description": {
+    "en": "In 1857 the forces of Umar Tall besieged the French fort at Médine on the Senegal River, near present-day Kayes, for about three months. The small garrison under the mulatto commander Paul Holle held out until relieved by Governor Louis Faidherbe in July. The failure checked Umar's westward expansion, and he turned east toward Ségou and Massina.",
+    "ko": "1857년 우마르 탈의 군대는 오늘날 카이 부근 세네갈강 변의 프랑스 요새 메딘을 약 석 달 동안 포위했다. 혼혈 지휘관 폴 올이 이끈 소규모 수비대는 7월 루이 페데르브 총독이 구원할 때까지 버텼다. 이 실패로 우마르의 서진은 저지되었고, 그는 동쪽의 세구와 마시나로 방향을 돌렸다.",
+    "zh": "1857年，奥马尔·塔勒的军队围攻塞内加尔河畔（今卡伊附近）的法国梅迪纳要塞约三个月。混血指挥官保罗·奥勒率领的小股守军坚守至7月，等到总督路易·费代尔布前来解围。此次失利遏止了奥马尔的西进，他转而向东进攻塞古和马西纳。",
+    "ja": "1857年、ウマル・タールの軍は現在のカイ近郊、セネガル川沿いのフランスのメディーヌ砦を約3か月包囲した。混血の指揮官ポール・オール率いる小規模な守備隊は、7月にルイ・フェデルブ総督が救援に来るまで持ちこたえた。この失敗でウマルの西進は阻まれ、彼は東のセグーとマシナへ転じた。"
+   }
+  },
+  {
+   "year": 1861,
+   "qid": "Q536476",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Umar Tall's Toucouleur Empire takes Ségou",
+    "ko": "우마르 탈의 투쿨뢰르 제국, 세구 점령",
+    "zh": "奥马尔·塔勒的图库洛尔帝国攻占塞古",
+    "ja": "ウマル・タールのトゥクロール帝国、セグーを占領"
+   },
+   "description": {
+    "en": "In March 1861 Umar Tall's army captured Ségou, ending the Bamana kingdom of the Diarra dynasty, whose ruler fled to Massina. Umar installed his son Ahmadu in Ségou and then attacked Massina, which had sheltered the Bamana king, taking Hamdallahi in 1862. The conquests united much of present-day western and central Mali under the Toucouleur Empire.",
+    "ko": "1861년 3월 우마르 탈의 군대는 세구를 점령해 디아라 왕조의 밤바라 왕국을 끝냈고, 그 통치자는 마시나로 달아났다. 우마르는 아들 아마두를 세구에 앉힌 뒤 밤바라 왕을 숨겨 준 마시나를 공격해 1862년 함달라이를 점령했다. 이 정복으로 오늘날 말리 서부와 중부 대부분이 투쿨뢰르 제국 아래 통합되었다.",
+    "zh": "1861年3月，奥马尔·塔勒的军队攻占塞古，终结了迪亚拉王朝的班巴拉王国，其统治者逃往马西纳。奥马尔让儿子艾哈迈杜坐镇塞古，随后进攻收留班巴拉国王的马西纳，于1862年攻占哈姆达拉希。这些征服使今马里西部和中部大部分地区统一于图库洛尔帝国之下。",
+    "ja": "1861年3月、ウマル・タールの軍はセグーを占領し、ディアラ朝のバンバラ王国を終わらせた。その王はマシナへ逃れた。ウマルは息子アフマドゥをセグーに据え、続いてバンバラ王をかくまったマシナを攻撃し、1862年にハムダラーヒを攻略した。これらの征服により、現在のマリ西部・中部の大半がトゥクロール帝国のもとに統合された。"
+   }
+  },
+  {
+   "year": 1864,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Death of Umar Tall at the Bandiagara cliffs",
+    "ko": "반디아가라 절벽에서 우마르 탈 사망",
+    "zh": "奥马尔·塔勒在邦贾加拉悬崖身亡",
+    "ja": "バンディアガラの断崖でのウマル・タールの死"
+   },
+   "description": {
+    "en": "Massina rose in revolt against Umar Tall's harsh rule, joined by Kunta leaders of Timbuktu. Besieged in Hamdallahi, Umar escaped in 1864 and was killed near Deguembéré in the Bandiagara cliffs, reportedly in an explosion of gunpowder in a cave. His nephew Tijani Tall reconquered the region and ruled it from Bandiagara.",
+    "ko": "마시나는 팀북투의 쿤타 지도자들과 함께 우마르 탈의 가혹한 통치에 맞서 봉기했다. 함달라이에서 포위된 우마르는 1864년 탈출했으나 반디아가라 절벽의 데겜베레 부근에서 숨졌는데, 동굴 안 화약 폭발 때문이었다고 전한다. 그의 조카 티자니 탈이 이 지역을 재정복해 반디아가라에서 다스렸다.",
+    "zh": "马西纳与廷巴克图的昆塔领袖联合起来反抗奥马尔·塔勒的严酷统治。奥马尔在哈姆达拉希被围，1864年突围后在邦贾加拉悬崖的德甘贝雷附近身亡，据说死于洞穴中的火药爆炸。他的侄子提贾尼·塔勒重新征服该地区，并以邦贾加拉为中心进行统治。",
+    "ja": "マシナはトンブクトゥのクンタの指導者たちとともに、ウマル・タールの苛烈な支配に対して蜂起した。ハムダラーヒで包囲されたウマルは1864年に脱出したが、バンディアガラの断崖のデゲンベレ付近で死んだ。洞窟内の火薬の爆発によるものと伝えられる。甥のティジャニ・タールがこの地域を再征服し、バンディアガラから統治した。"
+   }
+  },
+  {
+   "year": 1883,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "French forces occupy Bamako",
+    "ko": "프랑스군의 바마코 점령",
+    "zh": "法军占领巴马科",
+    "ja": "フランス軍、バマコを占領"
+   },
+   "description": {
+    "en": "Advancing from the Senegal River, a French column under Lieutenant-Colonel Gustave Borgnis-Desbordes reached the Niger and occupied Bamako, then a modest trading town, in February 1883, building a fort there. The French aimed to link Senegal with the Niger by a railway and to outflank the Toucouleur Empire and Samori Ture. Bamako later became the colonial and national capital.",
+    "ko": "세네갈강에서 진격한 귀스타브 보르니데보르드 중령의 프랑스군은 1883년 2월 니제르강에 이르러 당시 작은 교역 도시였던 바마코를 점령하고 요새를 세웠다. 프랑스는 철도로 세네갈과 니제르를 잇고 투쿨뢰르 제국과 사모리 투레의 측면을 돌려 하는 것을 목표로 했다. 바마코는 훗날 식민지와 독립국의 수도가 되었다.",
+    "zh": "古斯塔夫·博尔尼-德博尔德中校率领的法军从塞内加尔河推进，于1883年2月抵达尼日尔河，占领当时还是一个小商镇的巴马科并修筑要塞。法国的目标是以铁路连接塞内加尔与尼日尔河，并从侧翼包抄图库洛尔帝国和萨摩里·杜尔。巴马科后来成为殖民地首府和独立国家的首都。",
+    "ja": "セネガル川から進撃したギュスターヴ・ボルニ＝デボルド中佐のフランス軍は、1883年2月にニジェール川に達し、当時は小さな交易の町だったバマコを占領して砦を築いた。フランスは鉄道でセネガルとニジェールを結び、トゥクロール帝国とサモリ・トゥーレの側面を突くことを狙った。バマコはのちに植民地と独立国家の首都となった。"
+   }
+  },
+  {
+   "year": 1890,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "French capture Ségou",
+    "ko": "프랑스군의 세구 점령",
+    "zh": "法军攻占塞古",
+    "ja": "フランス軍、セグーを攻略"
+   },
+   "description": {
+    "en": "In April 1890 French troops under Louis Archinard captured Ségou, the capital of Ahmadu Tall's Toucouleur Empire, and installed a Bamana ruler as a puppet. Archinard went on to take Nioro in 1891 and Bandiagara in 1893, and Ahmadu fled east, dying in exile in present-day Nigeria. The campaigns ended the Toucouleur Empire.",
+    "ko": "1890년 4월 루이 아르시나르가 이끄는 프랑스군은 아마두 탈의 투쿨뢰르 제국 수도 세구를 점령하고 밤바라 통치자를 꼭두각시로 세웠다. 아르시나르는 이어 1891년 니오로, 1893년 반디아가라를 점령했고, 아마두는 동쪽으로 달아나 오늘날 나이지리아의 망명지에서 숨졌다. 이 원정으로 투쿨뢰르 제국은 막을 내렸다.",
+    "zh": "1890年4月，路易·阿希纳尔率领的法军攻占艾哈迈杜·塔勒的图库洛尔帝国都城塞古，扶植一位班巴拉统治者为傀儡。阿希纳尔继而于1891年攻占尼奥罗、1893年攻占邦贾加拉，艾哈迈杜向东逃亡，死于今尼日利亚的流亡地。这些战役终结了图库洛尔帝国。",
+    "ja": "1890年4月、ルイ・アルシナール率いるフランス軍はアフマドゥ・タールのトゥクロール帝国の首都セグーを攻略し、バンバラの支配者を傀儡として据えた。アルシナールは続いて1891年にニオロ、1893年にバンディアガラを占領し、アフマドゥは東へ逃れて現在のナイジェリアの亡命先で没した。これらの遠征でトゥクロール帝国は終わった。"
+   }
+  },
+  {
+   "year": 1892,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "French Sudan colony established",
+    "ko": "프랑스령 수단 식민지 수립",
+    "zh": "设立法属苏丹殖民地",
+    "ja": "フランス領スーダン植民地の成立"
+   },
+   "description": {
+    "en": "In 1892 France organized its conquests on the upper Niger as the colony of French Sudan (Soudan français), under a civilian governor, separating it administratively from Senegal. Its boundaries and name changed several times; between 1904 and 1920 it formed part of Upper Senegal and Niger, and it was again called French Sudan from 1920. Bamako became its capital in 1908.",
+    "ko": "1892년 프랑스는 니제르강 상류의 정복지를 민간인 총독이 다스리는 '프랑스령 수단' 식민지로 조직해 행정적으로 세네갈과 분리했다. 그 경계와 명칭은 여러 차례 바뀌어 1904년부터 1920년까지는 '오세네갈니제르'의 일부였고, 1920년부터 다시 프랑스령 수단으로 불렸다. 바마코는 1908년 그 수도가 되었다.",
+    "zh": "1892年，法国将其在尼日尔河上游的征服地组建为由文职总督管辖的“法属苏丹”殖民地，在行政上与塞内加尔分开。其边界和名称多次变更：1904年至1920年属于“上塞内加尔和尼日尔”殖民地，1920年起重新称为法属苏丹。巴马科于1908年成为其首府。",
+    "ja": "1892年、フランスはニジェール川上流の征服地を文民総督が治める「フランス領スーダン」植民地として組織し、行政上セネガルから切り離した。その境界と名称はたびたび変わり、1904年から1920年までは「上セネガル・ニジェール」の一部となり、1920年から再びフランス領スーダンと呼ばれた。バマコは1908年にその首都となった。"
+   }
+  },
+  {
+   "year": 1894,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "French occupation of Timbuktu",
+    "ko": "프랑스의 팀북투 점령",
+    "zh": "法国占领廷巴克图",
+    "ja": "フランスによるトンブクトゥ占領"
+   },
+   "description": {
+    "en": "In December 1893 a French naval flotilla reached Timbuktu, and a column under Colonel Eugène Bonnier occupied the city in January 1894. Days later Tuareg fighters killed Bonnier and much of his column at Tacoubao. A further column under Joseph Joffre secured the city, but Tuareg resistance in the north continued for years.",
+    "ko": "1893년 12월 프랑스 해군 소함대가 팀북투에 도착했고, 외젠 보니에 대령이 이끄는 부대가 1894년 1월 도시를 점령했다. 며칠 뒤 투아레그 전사들은 타쿠바오에서 보니에와 그의 부대 상당수를 죽였다. 조제프 조프르가 이끈 또 다른 부대가 도시를 확보했지만, 북부의 투아레그 저항은 여러 해 동안 이어졌다.",
+    "zh": "1893年12月，一支法国海军小舰队抵达廷巴克图，欧仁·博尼耶上校率领的部队于1894年1月占领该城。数日后，图阿雷格战士在塔库巴奥杀死博尼耶及其大部分部下。约瑟夫·霞飞率领的另一支部队稳住了该城，但北部图阿雷格人的抵抗持续多年。",
+    "ja": "1893年12月、フランス海軍の小艦隊がトンブクトゥに到達し、ウジェーヌ・ボニエ大佐率いる部隊が1894年1月に町を占領した。数日後、トゥアレグの戦士がタクバオでボニエと部隊の多くを殺した。ジョゼフ・ジョッフル率いる別の部隊が町を確保したが、北部のトゥアレグの抵抗は何年も続いた。"
+   }
+  },
+  {
+   "year": 1898,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Sikasso and capture of Samori Ture",
+    "ko": "시카소 함락과 사모리 투레 체포",
+    "zh": "锡卡索陷落与萨摩里·杜尔被俘",
+    "ja": "シカソ陥落とサモリ・トゥーレの捕縛"
+   },
+   "description": {
+    "en": "On 1 May 1898 French troops stormed Sikasso, the fortified capital of Kénédougou, after a siege; King Babemba Traoré took his own life rather than surrender. In September 1898 French forces captured Samori Ture in what is now Côte d'Ivoire, ending the last major armed resistance to the conquest of the region. Samori died in exile in Gabon in 1900.",
+    "ko": "1898년 5월 1일 프랑스군은 포위 끝에 케네두구의 요새 수도 시카소를 함락했고, 바벰바 트라오레 왕은 항복 대신 스스로 목숨을 끊었다. 1898년 9월 프랑스군은 오늘날 코트디부아르에서 사모리 투레를 체포해, 이 지역 정복에 맞선 마지막 대규모 무장 저항을 끝냈다. 사모리는 1900년 가봉의 유배지에서 숨졌다.",
+    "zh": "1898年5月1日，法军经围攻后攻陷凯内杜古的设防都城锡卡索，国王巴本巴·特拉奥雷宁死不降，自尽身亡。1898年9月，法军在今科特迪瓦境内俘获萨摩里·杜尔，终结了该地区对法国征服的最后一次大规模武装抵抗。萨摩里于1900年死于加蓬流放地。",
+    "ja": "1898年5月1日、フランス軍は包囲の末にケネドゥグの要塞首都シカソを攻略し、ババンバ・トラオレ王は降伏を拒んで自ら命を絶った。1898年9月にはフランス軍が現在のコートジボワールでサモリ・トゥーレを捕らえ、この地域の征服に対する最後の大規模な武装抵抗を終わらせた。サモリは1900年にガボンの流刑地で没した。"
+   }
+  },
+  {
+   "year": 1904,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Dakar–Niger railway reaches the Niger",
+    "ko": "다카르-니제르 철도, 니제르강 도달",
+    "zh": "达喀尔—尼日尔铁路通抵尼日尔河",
+    "ja": "ダカール・ニジェール鉄道がニジェール川に到達"
+   },
+   "description": {
+    "en": "In 1904 the railway from Kayes on the Senegal River reached Bamako and Koulikoro on the Niger, built largely with forced labor. It linked the Niger valley to the Atlantic, and the line was later connected to Dakar in 1923. The railway reoriented trade from the old trans-Saharan routes toward the coast and encouraged the export of groundnuts and cotton.",
+    "ko": "1904년 세네갈강 변의 카이에서 출발한 철도가 니제르강 변의 바마코와 쿨리코로에 이르렀는데, 대부분 강제 노동으로 건설되었다. 이 철도는 니제르 계곡을 대서양과 연결했고, 1923년에는 다카르까지 이어졌다. 철도는 교역의 방향을 옛 사하라 횡단로에서 해안 쪽으로 바꾸고 땅콩과 면화 수출을 부추겼다.",
+    "zh": "1904年，从塞内加尔河畔卡伊出发的铁路通抵尼日尔河畔的巴马科和库利科罗，主要依靠强迫劳动修建。它将尼日尔河谷与大西洋相连，1923年又接通达喀尔。铁路使贸易方向从古老的跨撒哈拉商路转向沿海，并促进了花生和棉花出口。",
+    "ja": "1904年、セネガル川沿いのカイから延びる鉄道がニジェール川沿いのバマコとクリコロに達した。建設は主に強制労働によるものだった。鉄道はニジェール渓谷を大西洋と結び、1923年にはダカールまでつながった。鉄道は交易の向きを古いサハラ縦断路から海岸へと変え、落花生や綿花の輸出を促した。"
+   }
+  },
+  {
+   "year": 1915,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Revolts against wartime conscription",
+    "ko": "전시 징병에 맞선 봉기",
+    "zh": "反抗战时征兵的起义",
+    "ja": "戦時徴兵に対する反乱"
+   },
+   "description": {
+    "en": "During the First World War, France recruited large numbers of soldiers in West Africa, often by force. In 1915–1916 resistance broke out in several parts of French Sudan, including the Bélédougou region north of Bamako, and in the neighboring Volta–Bani area, one of the largest anti-colonial revolts in French West Africa. The uprisings were suppressed by military force.",
+    "ko": "제1차 세계대전 중 프랑스는 서아프리카에서 흔히 강제로 많은 병사를 모집했다. 1915~1916년 바마코 북쪽의 벨레두구 지역을 비롯한 프랑스령 수단 여러 곳과, 프랑스령 서아프리카 최대급 반식민 봉기였던 이웃 볼타-바니 지역에서 저항이 일어났다. 봉기들은 군사력으로 진압되었다.",
+    "zh": "第一次世界大战期间，法国在西非大量征兵，且常常强制征召。1915—1916年，法属苏丹多地（包括巴马科以北的贝莱杜古地区）以及邻近的沃尔特—巴尼地区爆发反抗，后者是法属西非规模最大的反殖民起义之一。这些起义被军事镇压。",
+    "ja": "第一次世界大戦中、フランスは西アフリカでしばしば強制的に多数の兵士を徴募した。1915〜16年、バマコ北方のベレドゥグ地方を含むフランス領スーダン各地と、フランス領西アフリカ最大級の反植民地反乱となった隣接するヴォルタ＝バニ地域で抵抗が起こった。反乱は軍事力で鎮圧された。"
+   }
+  },
+  {
+   "year": 1932,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "The Office du Niger is created",
+    "ko": "오피스 뒤 니제르 설립",
+    "zh": "尼日尔河管理局成立",
+    "ja": "ニジェール公社の設立"
+   },
+   "description": {
+    "en": "In 1932 the colonial administration created the Office du Niger to irrigate the Inland Niger Delta for large-scale cotton and rice production. The Markala dam was completed in 1947, and thousands of farmers were resettled, often under coercion, to cultivate the new lands. The scheme fell far short of its ambitious goals but remains one of the largest irrigation systems in West Africa.",
+    "ko": "1932년 식민 당국은 대규모 면화·쌀 생산을 위해 니제르 내륙 삼각주를 관개하는 '오피스 뒤 니제르'를 설립했다. 마르칼라 댐이 1947년 완공되었고, 수천 명의 농민이 흔히 강압 속에 새 농지를 경작하도록 이주했다. 이 사업은 야심 찬 목표에 크게 못 미쳤지만 지금도 서아프리카 최대급 관개 체계 가운데 하나이다.",
+    "zh": "1932年，殖民当局设立尼日尔河管理局，灌溉尼日尔河内陆三角洲，以大规模生产棉花和稻米。马尔卡拉大坝于1947年建成，数千名农民被迁来（常常是被迫的）耕种新土地。该工程远未达到其宏伟目标，但至今仍是西非最大的灌溉系统之一。",
+    "ja": "1932年、植民地当局は大規模な綿花・米生産のためニジェール川内陸デルタを灌漑する「ニジェール公社」を設立した。マルカラ・ダムは1947年に完成し、数千の農民がしばしば強制的に移住させられて新たな土地を耕した。事業は野心的な目標に遠く及ばなかったが、現在も西アフリカ最大級の灌漑システムの一つである。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "RDA founded in Bamako",
+    "ko": "바마코에서 아프리카민주연합(RDA) 결성",
+    "zh": "非洲民主联盟在巴马科成立",
+    "ja": "バマコでアフリカ民主連合（RDA）結成"
+   },
+   "description": {
+    "en": "In October 1946 African political leaders from across French West and Equatorial Africa met in Bamako and founded the African Democratic Rally (RDA), led by Félix Houphouët-Boigny. Its Sudanese branch, the US-RDA, with Mamadou Konaté and Modibo Keïta, became the leading political force in French Sudan. The postwar reforms, including the end of forced labor in 1946, opened space for party politics and trade unions.",
+    "ko": "1946년 10월 프랑스령 서아프리카와 적도 아프리카 전역의 아프리카 정치 지도자들이 바마코에 모여 펠릭스 우푸에부아니가 이끄는 아프리카민주연합(RDA)을 결성했다. 마마두 코나테와 모디보 케이타가 이끈 수단 지부 US-RDA는 프랑스령 수단의 주도 정치 세력이 되었다. 1946년 강제 노동 폐지 등 전후 개혁은 정당 정치와 노동조합의 공간을 열었다.",
+    "zh": "1946年10月，来自法属西非和赤道非洲各地的非洲政治领袖在巴马科集会，创建由费利克斯·乌弗埃-博瓦尼领导的非洲民主联盟（RDA）。由马马杜·科纳特和莫迪博·凯塔领导的苏丹支部（US-RDA）成为法属苏丹的主导政治力量。包括1946年废除强迫劳动在内的战后改革为政党政治和工会活动开辟了空间。",
+    "ja": "1946年10月、フランス領西アフリカと赤道アフリカ各地のアフリカ人政治指導者がバマコに集まり、フェリックス・ウフェ＝ボワニが率いるアフリカ民主連合（RDA）を結成した。ママドゥ・コナテとモディボ・ケイタが率いたスーダン支部US-RDAは、フランス領スーダンの主導的政治勢力となった。1946年の強制労働廃止を含む戦後改革は、政党政治と労働組合の活動の場を開いた。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "The Sudanese Republic within the French Community",
+    "ko": "프랑스 공동체 안의 수단 공화국",
+    "zh": "法兰西共同体内的苏丹共和国",
+    "ja": "フランス共同体内のスーダン共和国"
+   },
+   "description": {
+    "en": "In the referendum of September 1958 on de Gaulle's constitution, voters in French Sudan approved membership in the new French Community. In November 1958 the territory became the autonomous Sudanese Republic, with the US-RDA in control of its government. Its leaders soon sought a federation with neighboring territories as a step toward full independence.",
+    "ko": "1958년 9월 드골 헌법에 관한 국민투표에서 프랑스령 수단의 유권자들은 새로 만들어진 프랑스 공동체 가입을 승인했다. 1958년 11월 이 지역은 US-RDA가 정부를 장악한 자치국 '수단 공화국'이 되었다. 지도자들은 곧 완전한 독립으로 가는 단계로 이웃 지역과의 연방을 모색했다.",
+    "zh": "在1958年9月就戴高乐宪法举行的公投中，法属苏丹选民赞成加入新成立的法兰西共同体。1958年11月，该领地成为由苏丹联盟-非洲民主联盟掌控政府的自治国家“苏丹共和国”。其领导人很快寻求与邻近领地组成联邦，作为迈向完全独立的一步。",
+    "ja": "1958年9月のド・ゴール憲法をめぐる国民投票で、フランス領スーダンの有権者は新設のフランス共同体への参加を承認した。1958年11月、この地域はUS-RDAが政府を握る自治国「スーダン共和国」となった。指導者たちはまもなく、完全独立への一歩として近隣地域との連邦を模索した。"
+   }
+  },
+  {
+   "year": 1959,
+   "qid": "Q216632",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Formation of the Mali Federation",
+    "ko": "말리 연방 결성",
+    "zh": "马里联邦成立",
+    "ja": "マリ連邦の結成"
+   },
+   "description": {
+    "en": "In January 1959 the Sudanese Republic and Senegal agreed to form the Mali Federation, named after the medieval empire, with Modibo Keïta as head of the federal government and Léopold Sédar Senghor presiding over the federal assembly. The federation negotiated independence from France and became independent on 20 June 1960. Disputes over leadership and the federation's structure caused its collapse when Senegal seceded on 20 August 1960.",
+    "ko": "1959년 1월 수단 공화국과 세네갈은 중세 제국의 이름을 딴 말리 연방을 결성하기로 합의했으며, 모디보 케이타가 연방 정부 수반, 레오폴 세다르 상고르가 연방 의회 의장을 맡았다. 연방은 프랑스와 독립을 협상해 1960년 6월 20일 독립했다. 그러나 지도권과 연방 구조를 둘러싼 분쟁으로 1960년 8월 20일 세네갈이 탈퇴하면서 연방은 무너졌다.",
+    "zh": "1959年1月，苏丹共和国与塞内加尔商定组建以中世纪帝国命名的马里联邦，由莫迪博·凯塔任联邦政府首脑，利奥波德·塞达尔·桑戈尔任联邦议会议长。联邦与法国谈判独立，于1960年6月20日独立。但由于领导权和联邦体制之争，塞内加尔于1960年8月20日退出，联邦随之瓦解。",
+    "ja": "1959年1月、スーダン共和国とセネガルは中世の帝国にちなむマリ連邦の結成で合意し、モディボ・ケイタが連邦政府首班、レオポール・セダール・サンゴールが連邦議会議長となった。連邦はフランスと独立交渉を行い、1960年6月20日に独立した。しかし指導権と連邦の構造をめぐる対立から、1960年8月20日にセネガルが離脱し、連邦は崩壊した。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence as the Republic of Mali",
+    "ko": "말리 공화국으로 독립",
+    "zh": "以马里共和国之名独立",
+    "ja": "マリ共和国として独立"
+   },
+   "description": {
+    "en": "After Senegal's withdrawal from the Mali Federation, the Sudanese Republic proclaimed itself the independent Republic of Mali on 22 September 1960, keeping the name of the medieval empire. Modibo Keïta became president and pursued a socialist path, with a single party, state enterprises and close ties with the Eastern bloc and other non-aligned states. Mali joined the United Nations the same year.",
+    "ko": "세네갈이 말리 연방에서 탈퇴한 뒤, 수단 공화국은 1960년 9월 22일 중세 제국의 이름을 이어받아 독립국 '말리 공화국'을 선포했다. 대통령이 된 모디보 케이타는 일당 체제, 국영 기업, 동구권 및 다른 비동맹국들과의 긴밀한 관계를 바탕으로 사회주의 노선을 추구했다. 말리는 같은 해 유엔에 가입했다.",
+    "zh": "塞内加尔退出马里联邦后，苏丹共和国于1960年9月22日宣布成为独立的马里共和国，沿用中世纪帝国的名称。莫迪博·凯塔出任总统，推行社会主义道路，实行一党制、兴办国营企业，并与东方集团及其他不结盟国家保持密切关系。马里于同年加入联合国。",
+    "ja": "セネガルがマリ連邦から離脱したのち、スーダン共和国は1960年9月22日、中世の帝国の名を受け継いで独立した「マリ共和国」を宣言した。大統領となったモディボ・ケイタは、一党制、国営企業、東側諸国や他の非同盟諸国との緊密な関係を柱とする社会主義路線を進めた。マリは同年国連に加盟した。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Mali leaves the CFA franc",
+    "ko": "말리, CFA 프랑 이탈",
+    "zh": "马里退出非洲法郎区",
+    "ja": "マリ、CFAフランを離脱"
+   },
+   "description": {
+    "en": "In July 1962 the Keïta government withdrew Mali from the CFA franc zone and introduced its own currency, the Malian franc, as an assertion of economic independence. The move led to inflation, shortages and protests by traders in Bamako, which were repressed. Economic difficulties pushed Mali to negotiate a return to cooperation with France later in the decade.",
+    "ko": "1962년 7월 케이타 정부는 경제적 독립을 내세워 말리를 CFA 프랑권에서 탈퇴시키고 자체 통화인 말리 프랑을 도입했다. 이 조치는 인플레이션과 물자 부족, 바마코 상인들의 시위를 불렀고 시위는 진압되었다. 경제난으로 말리는 1960년대 후반 프랑스와의 협력 복원을 협상하게 되었다.",
+    "zh": "1962年7月，凯塔政府为彰显经济独立，使马里退出非洲法郎区，发行本国货币马里法郎。此举导致通货膨胀、物资短缺以及巴马科商人的抗议，抗议遭到镇压。经济困难迫使马里在1960年代后期与法国谈判恢复合作。",
+    "ja": "1962年7月、ケイタ政権は経済的独立を掲げてマリをCFAフラン圏から離脱させ、独自通貨マリ・フランを導入した。この措置はインフレ、物不足、バマコの商人の抗議を招き、抗議は弾圧された。経済難のため、マリは1960年代後半にフランスとの協力回復を交渉することになった。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": "Q3178794",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First Tuareg rebellion",
+    "ko": "제1차 투아레그 반란",
+    "zh": "第一次图阿雷格叛乱",
+    "ja": "第一次トゥアレグ反乱"
+   },
+   "description": {
+    "en": "In 1963 Tuareg fighters in the Adrar des Ifoghas around Kidal rose against the new Malian state, resenting rule from Bamako, land and tax policies and loss of autonomy. The army crushed the uprising by 1964 with harsh measures against civilians and livestock, and the north remained under military administration. The rebellion left lasting grievances that resurfaced in later revolts.",
+    "ko": "1963년 키달 주변 아드라르데지포라스의 투아레그 전사들은 바마코의 통치, 토지·조세 정책, 자치권 상실에 반발해 신생 말리 국가에 맞서 봉기했다. 군은 민간인과 가축에 대한 가혹한 조치로 1964년까지 봉기를 진압했고, 북부는 군정 아래 놓였다. 이 반란은 이후의 봉기에서 다시 불거질 오랜 불만을 남겼다.",
+    "zh": "1963年，基达尔周边伊福加斯山区的图阿雷格武装人员因不满巴马科的统治、土地和税收政策以及自治权丧失，起兵反抗新生的马里国家。军队以针对平民和牲畜的严酷手段，于1964年镇压了起义，北部此后处于军事管制之下。这次叛乱留下的长期积怨在后来的起义中再次爆发。",
+    "ja": "1963年、キダル周辺のアドラール・デ・イフォラスのトゥアレグの戦士たちは、バマコの支配、土地・税制政策、自治の喪失に反発して新生マリ国家に対して蜂起した。軍は住民や家畜に対する苛烈な手段で1964年までに反乱を鎮圧し、北部は軍政下に置かれた。反乱は、のちの蜂起で再燃する根深い不満を残した。"
+   }
+  },
+  {
+   "year": 1968,
+   "qid": "Q4146911",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Military coup of Moussa Traoré",
+    "ko": "무사 트라오레의 군사 쿠데타",
+    "zh": "穆萨·特拉奥雷发动军事政变",
+    "ja": "ムサ・トラオレの軍事クーデター"
+   },
+   "description": {
+    "en": "On 19 November 1968 a group of young officers led by Lieutenant Moussa Traoré overthrew Modibo Keïta, who had dissolved the National Assembly and relied on a radical party militia. Keïta was imprisoned and died in detention in 1977. Traoré ruled for 23 years, first through a military committee and from 1979 through the single party UDPM.",
+    "ko": "1968년 11월 19일 무사 트라오레 중위가 이끄는 청년 장교들은 국회를 해산하고 급진적 당 민병대에 의존하던 모디보 케이타를 축출했다. 케이타는 투옥되어 1977년 구금 중에 숨졌다. 트라오레는 처음에는 군사위원회를 통해, 1979년부터는 단일 정당 UDPM을 통해 23년간 통치했다.",
+    "zh": "1968年11月19日，穆萨·特拉奥雷中尉领导的一批青年军官推翻了曾解散国民议会、倚重激进党民兵的莫迪博·凯塔。凯塔被监禁，1977年死于羁押中。特拉奥雷统治长达23年，先通过军事委员会，1979年起通过唯一政党马里人民民主联盟（UDPM）执政。",
+    "ja": "1968年11月19日、ムサ・トラオレ中尉率いる若手将校の一団は、国民議会を解散し急進的な党民兵に頼っていたモディボ・ケイタを打倒した。ケイタは投獄され、1977年に拘束中に死亡した。トラオレは当初は軍事委員会を通じて、1979年からは単一政党UDPMを通じて23年間統治した。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "The great Sahel drought",
+    "ko": "사헬 대가뭄",
+    "zh": "萨赫勒大旱",
+    "ja": "サヘル大干ばつ"
+   },
+   "description": {
+    "en": "A series of failed rainy seasons from the late 1960s culminated in a severe drought in 1972–1973 across the Sahel. In Mali, crops failed, the Niger's flood shrank and a large share of the livestock of northern herders perished, causing famine and mass displacement of Tuareg and Fulani pastoralists to towns and neighboring countries. Drought returned in the early 1980s, deepening poverty in the north.",
+    "ko": "1960년대 말부터 이어진 우기의 실패는 1972~1973년 사헬 전역의 극심한 가뭄으로 정점에 달했다. 말리에서는 농사가 망하고 니제르강의 범람이 줄었으며 북부 목축민의 가축 상당수가 죽어, 기근과 함께 투아레그·풀라니 유목민이 도시와 이웃 나라로 대거 떠났다. 1980년대 초 가뭄이 다시 찾아와 북부의 빈곤은 더 깊어졌다.",
+    "zh": "自1960年代末起雨季接连失常，最终在1972—1973年演变为席卷萨赫勒的严重干旱。在马里，庄稼歉收，尼日尔河泛洪萎缩，北方牧民的大量牲畜死亡，引发饥荒，图阿雷格和富拉尼牧民大批流入城镇和邻国。1980年代初旱灾再度来袭，加深了北方的贫困。",
+    "ja": "1960年代末から雨季の不順が続き、1972〜73年にはサヘル全域で深刻な干ばつに至った。マリでは作物が実らず、ニジェール川の氾濫が縮小し、北部の牧畜民の家畜の多くが死んで飢饉が起こり、トゥアレグやフルベの遊牧民が町や近隣諸国へ大量に移った。1980年代初めにも干ばつが再来し、北部の貧困を深めた。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Agacher Strip War with Burkina Faso",
+    "ko": "부르키나파소와의 아가셰르 지대 전쟁",
+    "zh": "与布基纳法索的阿加谢尔地带战争",
+    "ja": "ブルキナファソとのアガシェル地帯戦争"
+   },
+   "description": {
+    "en": "In December 1985 a long-running border dispute over the Agacher Strip, a mineral-rich area on the border with Burkina Faso, erupted into a brief war around Christmas. Mediation by regional leaders produced a ceasefire after a few days. In December 1986 the International Court of Justice divided the disputed area roughly equally between the two countries, and both accepted the ruling.",
+    "ko": "1985년 12월 부르키나파소와의 국경에 있는 광물이 풍부한 아가셰르 지대를 둘러싼 오랜 국경 분쟁이 성탄절 무렵 짧은 전쟁으로 번졌다. 지역 지도자들의 중재로 며칠 만에 휴전이 이루어졌다. 1986년 12월 국제사법재판소는 분쟁 지역을 두 나라에 대략 반씩 나누는 판결을 내렸고, 양국은 이를 받아들였다.",
+    "zh": "1985年12月，马里与布基纳法索之间围绕边境上矿产丰富的阿加谢尔地带的长期争端，在圣诞节前后演变为一场短暂战争。经地区领导人调解，数日后实现停火。1986年12月，国际法院将争议地区大致平分给两国，双方均接受了判决。",
+    "ja": "1985年12月、ブルキナファソとの国境にある鉱物資源の豊かなアガシェル地帯をめぐる長年の国境紛争が、クリスマス前後に短期間の戦争に発展した。地域の指導者の仲介で数日後に停戦が成立した。1986年12月、国際司法裁判所は係争地を両国にほぼ等分する判決を下し、両国はこれを受け入れた。"
+   }
+  },
+  {
+   "year": 1988,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Timbuktu and Djenné become World Heritage Sites",
+    "ko": "팀북투와 젠네, 세계유산 등재",
+    "zh": "廷巴克图与杰内列入世界遗产",
+    "ja": "トンブクトゥとジェンネ、世界遺産に"
+   },
+   "description": {
+    "en": "In 1988 UNESCO inscribed Timbuktu and the Old Towns of Djenné, including the archaeological site of Jenné-jeno and the Great Mosque, on the World Heritage List, followed in 1989 by the Cliff of Bandiagara (Land of the Dogons). The listings recognized Mali's earthen architecture, Islamic heritage and living cultural landscapes. The Tomb of Askia in Gao was added in 2004.",
+    "ko": "1988년 유네스코는 팀북투와, 젠네제노 유적과 대모스크를 포함한 '젠네 구시가지'를 세계유산 목록에 올렸고, 1989년에는 '반디아가라 절벽(도곤족의 땅)'이 뒤를 이었다. 이 등재는 말리의 흙 건축, 이슬람 유산, 살아 있는 문화 경관을 인정한 것이었다. 가오의 아스키아 묘는 2004년 추가되었다.",
+    "zh": "1988年，联合国教科文组织将廷巴克图以及包括杰内-杰诺遗址和大清真寺在内的“杰内古城”列入世界遗产名录，1989年又列入“邦贾加拉悬崖（多贡人之地）”。这些列名肯定了马里的土坯建筑、伊斯兰遗产和活态文化景观。加奥的阿斯基亚墓于2004年入选。",
+    "ja": "1988年、ユネスコはトンブクトゥと、ジェンネ・ジェノ遺跡や大モスクを含む「ジェンネ旧市街」を世界遺産リストに登録し、1989年には「バンディアガラの断崖（ドゴン人の地）」が続いた。これらの登録は、マリの土の建築、イスラームの遺産、生きた文化的景観を認めるものだった。ガオのアスキア墳墓は2004年に加えられた。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Tuareg rebellion of 1990",
+    "ko": "1990년 투아레그 반란",
+    "zh": "1990年图阿雷格叛乱",
+    "ja": "1990年のトゥアレグ反乱"
+   },
+   "description": {
+    "en": "In June 1990 Tuareg rebels, many of them returning from exile in Libya and Algeria after the droughts, attacked Ménaka and launched a new insurgency in the north. The conflict, which also involved Arab groups and later ethnic militias, continued through the early 1990s. A National Pact signed in 1992 promised decentralization and integration of fighters, and peace was symbolized by the Flame of Peace in Timbuktu in 1996.",
+    "ko": "1990년 6월 가뭄 이후 리비아와 알제리 망명지에서 돌아온 이들이 많았던 투아레그 반군은 메나카를 공격하며 북부에서 새로운 반란을 시작했다. 아랍계 집단과 이후 종족 민병대까지 얽힌 이 분쟁은 1990년대 초반 내내 이어졌다. 1992년 체결된 국민협약은 지방 분권과 전투원 통합을 약속했고, 1996년 팀북투의 '평화의 불꽃'이 평화를 상징했다.",
+    "zh": "1990年6月，图阿雷格叛军（其中许多人是旱灾后从利比亚和阿尔及利亚流亡归来者）袭击梅纳卡，在北部掀起新的叛乱。这场冲突还牵涉阿拉伯人武装及后来的族群民兵，一直持续到1990年代初。1992年签署的《国民公约》承诺推行地方分权并整编武装人员，1996年廷巴克图的“和平之火”象征着和平。",
+    "ja": "1990年6月、干ばつ後にリビアやアルジェリアの亡命先から戻った者の多いトゥアレグ反乱勢力がメナカを襲撃し、北部で新たな反乱を始めた。アラブ系集団やのちには民族民兵も絡んだこの紛争は1990年代前半を通じて続いた。1992年に結ばれた国民協定は地方分権と戦闘員の統合を約束し、1996年のトンブクトゥの「平和の炎」が和平を象徴した。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q19955933",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "March Revolution brings democracy",
+    "ko": "3월 혁명과 민주화",
+    "zh": "三月革命带来民主",
+    "ja": "三月革命と民主化"
+   },
+   "description": {
+    "en": "In March 1991 students, workers and pro-democracy associations staged mass demonstrations in Bamako against Moussa Traoré; security forces fired on protesters, killing scores of people. On 26 March 1991 soldiers led by Lieutenant Colonel Amadou Toumani Touré arrested Traoré. A transitional committee drafted a new constitution and organized multiparty elections, and Touré handed over power to an elected civilian government in 1992.",
+    "ko": "1991년 3월 학생·노동자·민주화 단체들은 바마코에서 무사 트라오레에 반대하는 대규모 시위를 벌였고, 보안군의 발포로 수십 명이 숨졌다. 1991년 3월 26일 아마두 투마니 투레 중령이 이끄는 군인들이 트라오레를 체포했다. 과도위원회는 새 헌법을 마련하고 다당제 선거를 실시했으며, 투레는 1992년 선출된 민간 정부에 권력을 이양했다.",
+    "zh": "1991年3月，学生、工人和民主团体在巴马科举行反对穆萨·特拉奥雷的大规模示威，安全部队向抗议者开枪，打死数十人。1991年3月26日，阿马杜·图马尼·杜尔中校率领的军人逮捕了特拉奥雷。过渡委员会起草新宪法并组织多党选举，杜尔于1992年将权力移交给民选文官政府。",
+    "ja": "1991年3月、学生・労働者・民主化団体はバマコでムサ・トラオレに反対する大規模デモを行い、治安部隊の発砲で数十人が死亡した。1991年3月26日、アマドゥ・トゥマニ・トゥーレ中佐率いる兵士がトラオレを逮捕した。暫定委員会は新憲法を起草して複数政党制選挙を実施し、トゥーレは1992年に選挙で選ばれた文民政府に権力を移譲した。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": "Q3586619",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "New constitution and election of Alpha Oumar Konaré",
+    "ko": "새 헌법과 알파 우마르 코나레 당선",
+    "zh": "新宪法与阿尔法·乌马尔·科纳雷当选",
+    "ja": "新憲法とアルファ・ウマル・コナレの当選"
+   },
+   "description": {
+    "en": "In January 1992 voters approved a democratic constitution establishing the Third Republic with a multiparty system and a two-term presidential limit. Alpha Oumar Konaré, a historian and leader of the ADEMA party, won the presidential election in April 1992 and was re-elected in 1997. During the following two decades Mali was widely regarded as one of West Africa's democratic success stories, despite poverty and contested elections.",
+    "ko": "1992년 1월 유권자들은 다당제와 대통령 2기 제한을 갖춘 제3공화국을 세우는 민주 헌법을 승인했다. 역사학자이자 ADEMA당 지도자인 알파 우마르 코나레는 1992년 4월 대선에서 승리하고 1997년 재선되었다. 이후 20년 동안 말리는 빈곤과 논란 있는 선거에도 불구하고 서아프리카 민주주의의 성공 사례 가운데 하나로 널리 여겨졌다.",
+    "zh": "1992年1月，选民批准了一部民主宪法，确立实行多党制和总统两届任期限制的第三共和国。历史学家、马里民主联盟（ADEMA）领导人阿尔法·乌马尔·科纳雷在1992年4月的总统选举中获胜，并于1997年连任。此后二十年，尽管贫困和选举争议依然存在，马里被普遍视为西非民主的成功典范之一。",
+    "ja": "1992年1月、有権者は複数政党制と大統領の2期制限を備えた第三共和制を定める民主的憲法を承認した。歴史家でADEMA党の指導者アルファ・ウマル・コナレが1992年4月の大統領選で勝利し、1997年に再選された。その後20年間、マリは貧困や争われた選挙を抱えつつも、西アフリカの民主主義の成功例の一つと広くみなされた。"
+   }
+  },
+  {
+   "year": 1996,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Flame of Peace in Timbuktu",
+    "ko": "팀북투의 '평화의 불꽃'",
+    "zh": "廷巴克图“和平之火”",
+    "ja": "トンブクトゥの「平和の炎」"
+   },
+   "description": {
+    "en": "On 27 March 1996, in a ceremony in Timbuktu, about 3,000 weapons surrendered by former rebels and militias were publicly burned in the 'Flame of Peace', marking the end of the northern conflict of the 1990s. Ex-combatants were integrated into the army and civil service or given support to return to civilian life. A monument now stands at the site.",
+    "ko": "1996년 3월 27일 팀북투에서 열린 의식에서 옛 반군과 민병대가 반납한 무기 약 3천 정이 '평화의 불꽃' 속에 공개적으로 불태워져 1990년대 북부 분쟁의 종식을 알렸다. 옛 전투원들은 군과 공직에 통합되거나 민간 생활 복귀를 지원받았다. 현장에는 지금 기념비가 서 있다.",
+    "zh": "1996年3月27日，在廷巴克图举行的仪式上，前叛军和民兵上缴的约3000件武器在“和平之火”中被公开焚毁，标志着1990年代北方冲突的结束。前战斗人员被编入军队和公务员队伍，或获得帮助回归平民生活。现场如今立有纪念碑。",
+    "ja": "1996年3月27日、トンブクトゥでの式典で、元反乱勢力や民兵が差し出した約3000丁の武器が「平和の炎」として公開で焼却され、1990年代の北部紛争の終結を示した。元戦闘員は軍や公務に統合されるか、市民生活への復帰を支援された。現地には今、記念碑が立っている。"
+   }
+  },
+  {
+   "year": 2002,
+   "qid": "Q3586624",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Amadou Toumani Touré elected president",
+    "ko": "아마두 투마니 투레 대통령 당선",
+    "zh": "阿马杜·图马尼·杜尔当选总统",
+    "ja": "アマドゥ・トゥマニ・トゥーレが大統領に当選"
+   },
+   "description": {
+    "en": "In 2002 Amadou Toumani Touré, the retired general who had led the 1991 transition, won the presidential election as an independent, succeeding Konaré in a peaceful transfer of power. Mali also hosted the Africa Cup of Nations that year. Touré governed by consensus with most parties and was re-elected in 2007, but his presidency was later criticized for weak control of the north and the spread of trafficking networks.",
+    "ko": "2002년 1991년 과도기를 이끌었던 퇴역 장군 아마두 투마니 투레가 무소속으로 대선에서 승리해 평화적 정권 이양으로 코나레의 뒤를 이었다. 같은 해 말리는 아프리카 네이션스컵을 개최했다. 투레는 대부분의 정당과 합의로 통치했고 2007년 재선되었지만, 그의 임기는 훗날 북부 통제의 약화와 밀매 조직 확산으로 비판받았다.",
+    "zh": "2002年，曾领导1991年过渡的退役将军阿马杜·图马尼·杜尔以无党派身份赢得总统选举，通过和平的权力交接接替科纳雷。同年马里还主办了非洲国家杯。杜尔以与大多数政党协商一致的方式执政，2007年连任，但其任期后来因对北方控制薄弱和走私网络蔓延而受到批评。",
+    "ja": "2002年、1991年の移行を率いた退役将軍アマドゥ・トゥマニ・トゥーレが無所属で大統領選に勝ち、平和的な政権移譲でコナレの後を継いだ。同年マリはアフリカ・ネイションズカップを開催した。トゥーレは大半の政党との合意による統治を行い2007年に再選されたが、その政権はのちに北部の統制の弱さと密輸ネットワークの拡大で批判された。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q2946372",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Northern rebellion and Timbuktu crisis",
+    "ko": "북부 반란과 팀북투 위기",
+    "zh": "北部叛乱与廷巴克图危机",
+    "ja": "北部反乱とトンブクトゥ危機"
+   },
+   "description": {
+    "en": "In January 2012 the Tuareg separatist National Movement for the Liberation of Azawad (MNLA), reinforced by fighters and weapons from Libya after the fall of Gaddafi, launched a rebellion together with the Islamist group Ansar Dine. Within weeks of a coup in Bamako, rebels took Kidal, Gao and Timbuktu, and the MNLA declared an independent 'Azawad' in April. Jihadist groups including Ansar Dine, AQIM and MUJAO soon pushed the MNLA aside, imposed a harsh version of Islamic law and destroyed Sufi mausoleums in Timbuktu.",
+    "ko": "2012년 1월 카다피 몰락 후 리비아에서 온 전투원과 무기로 보강된 투아레그 분리주의 단체 '아자와드 해방 민족운동(MNLA)'은 이슬람주의 단체 안사르 딘과 함께 반란을 일으켰다. 바마코 쿠데타 후 몇 주 만에 반군은 키달·가오·팀북투를 점령했고, MNLA는 4월 독립국 '아자와드'를 선포했다. 그러나 안사르 딘, AQIM, MUJAO 등 지하디스트 단체가 곧 MNLA를 밀어내고 가혹한 이슬람법을 강요했으며 팀북투의 수피 성자 묘소들을 파괴했다.",
+    "zh": "2012年1月，在卡扎菲倒台后获得来自利比亚的武装人员和武器补充的图阿雷格分离主义组织“阿扎瓦德民族解放运动”（MNLA）与伊斯兰主义组织“伊斯兰卫士”联合发动叛乱。巴马科政变后数周内，叛军攻占基达尔、加奥和廷巴克图，MNLA于4月宣布“阿扎瓦德”独立。但“伊斯兰卫士”、“伊斯兰马格里布基地组织”和“西非统一圣战运动”等圣战组织很快排挤了MNLA，推行严酷的伊斯兰法，并摧毁了廷巴克图的苏菲派圣陵。",
+    "ja": "2012年1月、カダフィ政権崩壊後にリビアから流入した戦闘員と武器で強化されたトゥアレグの分離主義組織「アザワド解放民族運動（MNLA）」は、イスラーム主義組織アンサール・ディーンとともに反乱を起こした。バマコでのクーデターから数週間で反乱勢力はキダル、ガオ、トンブクトゥを制圧し、MNLAは4月に「アザワド」の独立を宣言した。しかしアンサール・ディーン、AQIM、MUJAOなどのジハード主義組織がまもなくMNLAを押しのけ、苛烈なイスラーム法を強制し、トンブクトゥのスーフィー聖者廟を破壊した。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q875912",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Military coup of March 2012",
+    "ko": "2012년 3월 군사 쿠데타",
+    "zh": "2012年3月军事政变",
+    "ja": "2012年3月の軍事クーデター"
+   },
+   "description": {
+    "en": "On 21–22 March 2012 soldiers angered by the government's handling of the northern rebellion mutinied in Bamako and overthrew President Amadou Toumani Touré a month before scheduled elections; Captain Amadou Sanogo led the junta. Under pressure from ECOWAS sanctions, the junta agreed to hand power to an interim civilian government under Dioncounda Traoré. The coup accelerated the collapse of the army in the north.",
+    "ko": "2012년 3월 21~22일 정부의 북부 반란 대응에 분노한 군인들이 바마코에서 반란을 일으켜, 예정된 선거를 한 달 앞두고 아마두 투마니 투레 대통령을 축출했다. 아마두 사노고 대위가 군사 정권을 이끌었다. 서아프리카경제공동체(ECOWAS) 제재의 압력 속에 군사 정권은 디온쿤다 트라오레가 이끄는 과도 민간 정부에 권력을 넘기기로 합의했다. 쿠데타는 북부에서 군의 붕괴를 가속했다.",
+    "zh": "2012年3月21日至22日，不满政府应对北部叛乱方式的士兵在巴马科哗变，在原定选举前一个月推翻了阿马杜·图马尼·杜尔总统，阿马杜·萨诺戈上尉领导军政府。在西非国家经济共同体制裁的压力下，军政府同意将权力移交给迪翁昆达·特拉奥雷领导的临时文官政府。政变加速了北部军队的崩溃。",
+    "ja": "2012年3月21〜22日、北部反乱への政府の対応に怒った兵士がバマコで反乱を起こし、予定された選挙の1か月前にアマドゥ・トゥマニ・トゥーレ大統領を打倒した。アマドゥ・サノゴ大尉が軍事政権を率いた。西アフリカ諸国経済共同体（ECOWAS）の制裁圧力のもと、軍事政権はディオンクンダ・トラオレ率いる暫定文民政府への権力移譲に同意した。クーデターは北部での軍の崩壊を加速させた。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q3018708",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "French intervention: Operation Serval",
+    "ko": "프랑스의 개입: 세르발 작전",
+    "zh": "法国干预：“薮猫行动”",
+    "ja": "フランスの介入：セルヴァル作戦"
+   },
+   "description": {
+    "en": "In January 2013 jihadist fighters advanced south and seized Konna, threatening central Mali. At the request of the interim government, France launched Operation Serval on 11 January, with African troops following; within weeks French and Malian forces retook Gao and Timbuktu, and heavy fighting followed in the Adrar des Ifoghas. In April the UN Security Council created the peacekeeping mission MINUSMA, and in August Ibrahim Boubacar Keïta was elected president.",
+    "ko": "2013년 1월 지하디스트 전투원들이 남진해 코나를 점령하며 말리 중부를 위협했다. 과도 정부의 요청으로 프랑스는 1월 11일 세르발 작전을 개시했고 아프리카 각국 군대가 뒤따랐다. 몇 주 만에 프랑스군과 말리군은 가오와 팀북투를 탈환했고, 아드라르데지포라스에서 치열한 전투가 이어졌다. 4월 유엔 안보리는 평화유지 임무단 MINUSMA를 창설했고, 8월에는 이브라힘 부바카르 케이타가 대통령에 당선되었다.",
+    "zh": "2013年1月，圣战武装分子向南推进并攻占孔纳，威胁马里中部。应临时政府请求，法国于1月11日发起“薮猫行动”，非洲多国部队随后跟进；数周内法马联军收复加奥和廷巴克图，伊福加斯山区随后爆发激战。4月，联合国安理会设立维和特派团MINUSMA；8月，易卜拉欣·布巴卡尔·凯塔当选总统。",
+    "ja": "2013年1月、ジハード主義勢力が南下してコンナを奪い、マリ中部を脅かした。暫定政府の要請により、フランスは1月11日にセルヴァル作戦を開始し、アフリカ諸国の部隊が続いた。数週間でフランス軍とマリ軍はガオとトンブクトゥを奪還し、アドラール・デ・イフォラスで激戦が続いた。4月に国連安保理は平和維持ミッションMINUSMAを創設し、8月にはイブラヒム・ブバカル・ケイタが大統領に選ばれた。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Algiers peace agreement",
+    "ko": "알제 평화 협정",
+    "zh": "阿尔及尔和平协议",
+    "ja": "アルジェ和平合意"
+   },
+   "description": {
+    "en": "After talks mediated by Algeria, the Malian government signed an Agreement for Peace and Reconciliation in May 2015, and the Coordination of Azawad Movements, led by Tuareg and Arab separatist groups, signed in June. The accord promised decentralization, development for the north and integration of ex-rebels into the army, but implementation was slow. Jihadist groups were not party to it and continued their attacks.",
+    "ko": "알제리의 중재로 협상이 이어진 끝에 말리 정부는 2015년 5월 평화·화해 협정에 서명했고, 투아레그·아랍계 분리주의 단체들이 이끄는 '아자와드 운동 조정체'는 6월에 서명했다. 협정은 지방 분권, 북부 개발, 옛 반군의 군 통합을 약속했지만 이행은 더뎠다. 지하디스트 단체들은 협정 당사자가 아니었고 공격을 계속했다.",
+    "zh": "经阿尔及利亚斡旋谈判，马里政府于2015年5月签署《和平与和解协议》，由图阿雷格人和阿拉伯人分离主义团体领导的“阿扎瓦德运动协调组织”于6月签署。协议承诺推行地方分权、发展北方并将前叛军编入军队，但执行迟缓。圣战组织不是协议当事方，继续发动袭击。",
+    "ja": "アルジェリアの仲介による交渉の末、マリ政府は2015年5月に平和と和解のための合意に署名し、トゥアレグとアラブ系の分離主義組織が主導する「アザワド運動調整」は6月に署名した。合意は地方分権、北部開発、元反乱勢力の軍への統合を約束したが、履行は遅れた。ジハード主義組織は合意の当事者ではなく、攻撃を続けた。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q21516923",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Radisson Blu hotel attack in Bamako",
+    "ko": "바마코 래디슨 블루 호텔 테러",
+    "zh": "巴马科丽笙酒店袭击事件",
+    "ja": "バマコのラディソン・ブルー・ホテル襲撃"
+   },
+   "description": {
+    "en": "On 20 November 2015 gunmen stormed the Radisson Blu hotel in Bamako and took guests and staff hostage. After Malian special forces, supported by foreign troops, retook the hotel, about 20 hostages had been killed along with the attackers. The attack, claimed by al-Mourabitoun with al-Qaeda in the Islamic Maghreb, showed that jihadist violence could reach the capital.",
+    "ko": "2015년 11월 20일 무장 괴한들이 바마코의 래디슨 블루 호텔을 습격해 투숙객과 직원을 인질로 잡았다. 외국군의 지원을 받은 말리 특수부대가 호텔을 탈환했을 때 인질 약 20명이 공격자들과 함께 숨져 있었다. 알무라비툰이 이슬람 마그레브 알카에다와 함께 배후를 자처한 이 공격은 지하디스트 폭력이 수도까지 미칠 수 있음을 보여 주었다.",
+    "zh": "2015年11月20日，枪手袭击巴马科的丽笙酒店，劫持住客和员工。在外国部队支援下，马里特种部队夺回酒店，约20名人质与袭击者一同死亡。“穆拉比通”组织与伊斯兰马格里布基地组织宣称对袭击负责，这表明圣战暴力已能波及首都。",
+    "ja": "2015年11月20日、武装集団がバマコのラディソン・ブルー・ホテルを襲撃し、宿泊客と従業員を人質に取った。外国部隊の支援を受けたマリ特殊部隊がホテルを奪還するまでに、約20人の人質が襲撃者とともに死亡した。ムラービトゥーンがイスラーム・マグレブ諸国のアルカイダとともに犯行声明を出したこの攻撃は、ジハード主義の暴力が首都にまで及びうることを示した。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "ICC convicts the destroyer of Timbuktu's mausoleums",
+    "ko": "국제형사재판소, 팀북투 묘소 파괴범에 유죄 판결",
+    "zh": "国际刑事法院判决廷巴克图圣陵破坏者有罪",
+    "ja": "国際刑事裁判所、トンブクトゥ聖廟破壊の被告に有罪判決"
+   },
+   "description": {
+    "en": "In September 2016 the International Criminal Court convicted Ahmad al-Faqi al-Mahdi, a member of Ansar Dine, of the war crime of intentionally attacking religious and historic buildings in Timbuktu in 2012, sentencing him to nine years in prison. It was the first ICC case focused on the destruction of cultural heritage. The mausoleums had been rebuilt by local masons with UNESCO support by 2015.",
+    "ko": "2016년 9월 국제형사재판소는 안사르 딘 구성원 아흐마드 알파키 알마흐디에게 2012년 팀북투의 종교·역사 건축물을 고의로 공격한 전쟁범죄로 유죄를 선고하고 징역 9년을 선고했다. 이는 문화유산 파괴에 초점을 맞춘 국제형사재판소 최초의 사건이었다. 성자 묘소들은 2015년까지 유네스코의 지원 아래 현지 석공들이 재건했다.",
+    "zh": "2016年9月，国际刑事法院以2012年故意攻击廷巴克图宗教和历史建筑的战争罪，判处“伊斯兰卫士”成员艾哈迈德·法基·马赫迪有罪，处以九年监禁。这是国际刑事法院首个聚焦文化遗产破坏的案件。至2015年，这些圣陵已在联合国教科文组织支持下由当地工匠重建。",
+    "ja": "2016年9月、国際刑事裁判所は、アンサール・ディーンの一員アフマド・ファキ・マフディに対し、2012年にトンブクトゥの宗教的・歴史的建造物を故意に攻撃した戦争犯罪で有罪とし、禁錮9年を言い渡した。文化遺産の破壊に焦点を当てた初のICC事件であった。聖者廟は2015年までにユネスコの支援で地元の職人により再建されていた。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q62389968",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ogossagou massacre and violence in central Mali",
+    "ko": "오고사구 학살과 중부 말리의 폭력",
+    "zh": "奥戈萨古屠杀与马里中部暴力",
+    "ja": "オゴサグ虐殺とマリ中部の暴力"
+   },
+   "description": {
+    "en": "From 2015 jihadist groups spread into central Mali, exploiting tensions between Fulani herders and Dogon and Bambara farmers, while self-defense militias formed. On 23 March 2019 gunmen attacked the Fulani village of Ogossagou in the Mopti region, killing around 160 people, one of the deadliest attacks in Mali's recent history; a Dogon village, Sobane Da, was attacked in June. The violence displaced hundreds of thousands of people.",
+    "ko": "2015년부터 지하디스트 단체들은 풀라니 목축민과 도곤·밤바라 농민 사이의 긴장을 이용해 말리 중부로 세력을 넓혔고, 자경 민병대들도 생겨났다. 2019년 3월 23일 무장 괴한들이 몹티 지역의 풀라니 마을 오고사구를 공격해 약 160명을 죽였는데, 이는 말리 최근 역사에서 가장 참혹한 공격 가운데 하나였다. 6월에는 도곤족 마을 소바네다가 공격당했다. 폭력으로 수십만 명이 피란했다.",
+    "zh": "自2015年起，圣战组织利用富拉尼牧民与多贡、班巴拉农民之间的紧张关系向马里中部扩张，自卫民兵也随之出现。2019年3月23日，枪手袭击莫普提地区的富拉尼村庄奥戈萨古，约160人被杀，是马里近代史上最血腥的袭击之一；6月，多贡人村庄索巴内达也遭袭击。暴力导致数十万人流离失所。",
+    "ja": "2015年以降、ジハード主義組織はフルベの牧畜民とドゴン、バンバラの農民との緊張を利用してマリ中部に勢力を広げ、自警民兵も生まれた。2019年3月23日、武装集団がモプティ地方のフルベの村オゴサグを襲い約160人を殺害した。マリの近年の歴史で最悪級の攻撃である。6月にはドゴンの村ソバネ・ダが襲撃された。暴力により数十万人が避難を強いられた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Coups of 2020-2021 and transition",
+    "ko": "2020~2021년 쿠데타와 과도기",
+    "zh": "2020—2021年政变与过渡",
+    "ja": "2020〜21年のクーデターと移行期"
+   },
+   "description": {
+    "en": "After months of protests led by the M5-RFP coalition and the imam Mahmoud Dicko over insecurity, corruption and disputed legislative elections, army officers led by Colonel Assimi Goïta detained President Ibrahim Boubacar Keïta on 18 August 2020, forcing his resignation. A transitional government with a civilian president, Bah N'Daw, was formed under ECOWAS pressure. In May 2021 Goïta detained the transitional president and prime minister and took the presidency himself.",
+    "ko": "치안 불안·부패·논란 많은 총선에 항의해 M5-RFP 연합과 이맘 마흐무드 디코가 이끈 수개월간의 시위 끝에, 아시미 고이타 대령이 이끄는 장교들이 2020년 8월 18일 이브라힘 부바카르 케이타 대통령을 구금해 사임하게 했다. ECOWAS의 압력 속에 민간인 바 은다우를 대통령으로 한 과도 정부가 구성되었다. 2021년 5월 고이타는 과도 대통령과 총리를 구금하고 스스로 대통령직에 올랐다.",
+    "zh": "在M5-RFP联盟和伊玛目马哈茂德·迪科领导的、针对安全局势恶化、腐败和有争议的议会选举的数月抗议之后，阿西米·戈伊塔上校率领的军官于2020年8月18日扣押易卜拉欣·布巴卡尔·凯塔总统，迫使其辞职。在西共体压力下，成立了由文职人士巴·恩多出任总统的过渡政府。2021年5月，戈伊塔扣押过渡总统和总理，自任总统。",
+    "ja": "治安悪化、汚職、争われた議会選挙に抗議してM5-RFP連合とイマームのマフムード・ディコが率いた数か月の抗議ののち、アシミ・ゴイタ大佐率いる将校が2020年8月18日にイブラヒム・ブバカル・ケイタ大統領を拘束し、辞任に追い込んだ。ECOWASの圧力のもと、文民のバ・ンダウを大統領とする暫定政府が発足した。2021年5月、ゴイタは暫定大統領と首相を拘束し、自ら大統領に就いた。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Mali turns to Russia's Wagner Group",
+    "ko": "말리, 러시아 바그너 그룹에 의존",
+    "zh": "马里转向俄罗斯瓦格纳集团",
+    "ja": "マリ、ロシアのワグネル・グループに接近"
+   },
+   "description": {
+    "en": "After the May 2021 coup, relations with France deteriorated sharply, and from late 2021 Russian military contractors associated with the Wagner Group were deployed to Mali, a presence the junta described as Russian military instructors. Western governments and human rights groups accused Malian forces and their Russian partners of serious abuses. France announced the end of Operation Barkhane in Mali, completing its withdrawal in August 2022.",
+    "ko": "2021년 5월 쿠데타 이후 프랑스와의 관계가 급격히 악화했고, 2021년 말부터 바그너 그룹과 연관된 러시아 군사 용역 인력이 말리에 배치되었다. 군사 정권은 이들을 러시아 군사 교관이라 설명했다. 서방 정부와 인권 단체들은 말리군과 러시아 협력자들이 심각한 인권 침해를 저질렀다고 비난했다. 프랑스는 말리에서 바르칸 작전 종료를 발표하고 2022년 8월 철수를 마쳤다.",
+    "zh": "2021年5月政变后，马里与法国关系急剧恶化。自2021年底起，与瓦格纳集团有关联的俄罗斯军事承包人员被部署到马里，军政府称其为俄罗斯军事教官。西方国家政府和人权组织指控马里军队及其俄罗斯伙伴犯下严重侵权行为。法国宣布结束在马里的“新月形沙丘行动”，并于2022年8月完成撤军。",
+    "ja": "2021年5月のクーデター後、フランスとの関係は急速に悪化し、2021年末からワグネル・グループと関係するロシアの軍事請負要員がマリに展開した。軍事政権はこれをロシアの軍事教官と説明した。欧米政府や人権団体は、マリ軍とそのロシアの協力者が深刻な人権侵害を行ったと非難した。フランスはマリでのバルカンヌ作戦の終了を発表し、2022年8月に撤退を完了した。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q111480185",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Moura massacre",
+    "ko": "무라 학살",
+    "zh": "穆拉屠杀",
+    "ja": "ムラ虐殺"
+   },
+   "description": {
+    "en": "In late March 2022, during a military operation in the village of Moura in the Mopti region, Malian soldiers and foreign personnel identified by witnesses as Russian killed hundreds of people, most of them civilians, according to a UN human rights report published in 2023. The Malian government said it had killed jihadist fighters and rejected the findings. It was described by human rights organizations as the worst single atrocity of the Malian conflict.",
+    "ko": "2023년 공개된 유엔 인권 보고서에 따르면, 2022년 3월 말 몹티 지역 무라 마을에서 벌어진 군사 작전 중 말리 군인들과 목격자들이 러시아인이라고 밝힌 외국 인력이 수백 명을 죽였으며, 그 대부분은 민간인이었다. 말리 정부는 지하디스트 전투원들을 사살했다고 밝히며 보고서 내용을 부인했다. 인권 단체들은 이를 말리 분쟁에서 단일 사건으로는 최악의 잔학 행위라고 묘사했다.",
+    "zh": "据联合国2023年发布的人权报告，2022年3月底，在莫普提地区穆拉村的一次军事行动中，马里士兵和被目击者认定为俄罗斯人的外国人员杀害了数百人，其中大多数是平民。马里政府称打死的是圣战武装分子，并拒绝接受报告结论。人权组织称这是马里冲突中最严重的单一暴行。",
+    "ja": "2023年に公表された国連人権報告書によれば、2022年3月末、モプティ地方のムラ村での軍事作戦中に、マリ兵と、目撃者がロシア人と述べた外国人要員が数百人を殺害し、その大半は民間人だった。マリ政府はジハード主義の戦闘員を殺害したと述べ、報告の内容を否定した。人権団体はこれをマリ紛争における単一事件として最悪の残虐行為と表現した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q31805871",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "New constitution and the end of MINUSMA",
+    "ko": "새 헌법과 MINUSMA 종료",
+    "zh": "新宪法与联合国马里特派团结束",
+    "ja": "新憲法とMINUSMAの終了"
+   },
+   "description": {
+    "en": "In June 2023 a referendum approved a new constitution that strengthened the presidency and made French a working language rather than the official language, granting official status to national languages. The same month the junta demanded the withdrawal of the UN mission MINUSMA, which left by the end of 2023 after a decade in which it had suffered heavy casualties. In November 2023 the army, with Russian support, retook Kidal from Tuareg-led rebels as the 2015 peace process collapsed.",
+    "ko": "2023년 6월 국민투표는 대통령 권한을 강화하고 프랑스어를 공용어에서 실무 언어로 바꾸며 국어들에 공용어 지위를 부여한 새 헌법을 승인했다. 같은 달 군사 정권은 유엔 임무단 MINUSMA의 철수를 요구했고, 큰 인명 피해를 입은 10년의 활동 끝에 MINUSMA는 2023년 말 떠났다. 2015년 평화 과정이 무너지는 가운데 2023년 11월 군은 러시아의 지원을 받아 투아레그 주도 반군으로부터 키달을 탈환했다.",
+    "zh": "2023年6月，公投通过了一部新宪法，强化总统权力，将法语从官方语言改为工作语言，并赋予各民族语言官方地位。同月，军政府要求联合国马里多层面综合稳定团（MINUSMA）撤离；该团在遭受惨重伤亡的十年之后于2023年底撤出。随着2015年和平进程瓦解，2023年11月，军队在俄罗斯支持下从图阿雷格人主导的叛军手中夺回基达尔。",
+    "ja": "2023年6月の国民投票で、大統領権限を強化し、フランス語を公用語から作業言語に改め、国内諸言語に公用語の地位を与える新憲法が承認された。同月、軍事政権は国連のMINUSMAの撤退を求め、大きな犠牲を出した10年の活動を経て同ミッションは2023年末に撤収した。2015年の和平プロセスが崩れるなか、2023年11月に軍はロシアの支援を受けてトゥアレグ主導の反乱勢力からキダルを奪還した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Alliance of Sahel States",
+    "ko": "사헬 국가 동맹",
+    "zh": "萨赫勒国家联盟",
+    "ja": "サヘル諸国同盟"
+   },
+   "description": {
+    "en": "In September 2023 the military governments of Mali, Burkina Faso and Niger signed the Liptako-Gourma Charter, creating the Alliance of Sahel States (AES) as a mutual defense pact. In January 2024 the three countries announced their withdrawal from ECOWAS, which took effect in January 2025, and in July 2024 they formed a confederation. The alliance marked a decisive shift away from France and the regional bloc toward closer ties with Russia.",
+    "ko": "2023년 9월 말리·부르키나파소·니제르의 군사 정부는 리프타코-구르마 헌장에 서명해 상호 방위 협정인 '사헬 국가 동맹(AES)'을 창설했다. 2024년 1월 세 나라는 ECOWAS 탈퇴를 발표했고 이는 2025년 1월 발효되었으며, 2024년 7월에는 국가 연합을 결성했다. 이 동맹은 프랑스와 지역 블록에서 벗어나 러시아와 가까워지는 결정적 전환을 나타냈다.",
+    "zh": "2023年9月，马里、布基纳法索和尼日尔三国军政府签署《利普塔科-古尔马宪章》，建立作为共同防御条约的萨赫勒国家联盟（AES）。2024年1月，三国宣布退出西共体，并于2025年1月生效；2024年7月，三国组成邦联。该联盟标志着它们决定性地疏远法国和地区组织、转向与俄罗斯加强关系。",
+    "ja": "2023年9月、マリ、ブルキナファソ、ニジェールの軍事政権はリプタコ＝グルマ憲章に署名し、相互防衛協定としてサヘル諸国同盟（AES）を創設した。2024年1月に3か国はECOWASからの脱退を表明し、2025年1月に発効した。2024年7月には国家連合を結成した。同盟は、フランスと地域機構から離れロシアとの関係を深める決定的な転換を示した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q128007033",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of Tinzaouaten",
+    "ko": "틴자우아텐 전투",
+    "zh": "廷扎乌阿滕战役",
+    "ja": "ティンザウアテンの戦い"
+   },
+   "description": {
+    "en": "In late July 2024, near Tinzaouaten on the Algerian border, Tuareg-led rebels of the Strategic Framework for the Defence of the People of Azawad, and separately jihadist fighters, inflicted a heavy defeat on a convoy of Malian soldiers and Wagner Group personnel. Dozens of Malian soldiers and Russian fighters were killed, one of Wagner's worst known losses in Africa. The battle showed the limits of the junta's military strategy in the north.",
+    "ko": "2024년 7월 말 알제리 국경 부근 틴자우아텐에서 '아자와드 인민 방어 전략 체계' 소속 투아레그 주도 반군과, 별도로 지하디스트 전투원들이 말리군과 바그너 그룹 인력으로 이루어진 호송대에 큰 타격을 입혔다. 말리 군인과 러시아 전투원 수십 명이 숨져, 아프리카에서 바그너가 입은 것으로 알려진 최악의 손실 가운데 하나가 되었다. 이 전투는 북부에서 군사 정권의 군사 전략이 지닌 한계를 드러냈다.",
+    "zh": "2024年7月底，在阿尔及利亚边境附近的廷扎乌阿滕，图阿雷格人主导的“保卫阿扎瓦德人民战略框架”叛军以及另行行动的圣战武装人员重创了一支由马里士兵和瓦格纳集团人员组成的车队。数十名马里士兵和俄罗斯武装人员丧生，是瓦格纳在非洲已知最惨重的损失之一。此役暴露了军政府北方军事战略的局限。",
+    "ja": "2024年7月末、アルジェリア国境近くのティンザウアテンで、トゥアレグ主導の「アザワド人民防衛戦略枠組み」の反乱勢力と、それとは別にジハード主義の戦闘員が、マリ兵とワグネル・グループ要員からなる車列に大打撃を与えた。数十人のマリ兵とロシアの戦闘員が死亡し、アフリカにおけるワグネルの既知の最悪級の損失となった。この戦いは北部における軍事政権の軍事戦略の限界を示した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q130325301",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Jihadist attacks on Bamako",
+    "ko": "지하디스트의 바마코 공격",
+    "zh": "圣战组织袭击巴马科",
+    "ja": "ジハード主義勢力のバマコ攻撃"
+   },
+   "description": {
+    "en": "On 17 September 2024 fighters of the al-Qaeda-linked Group for the Support of Islam and Muslims (JNIM) attacked a gendarmerie training school and the military area of the airport in Bamako. The coordinated attacks killed dozens of people, many of them gendarmerie trainees, and were the most serious assault on the capital in years. They underlined the spread of the insurgency from the north and center toward the south.",
+    "ko": "2024년 9월 17일 알카에다 연계 조직 '이슬람과 무슬림 지원 그룹(JNIM)' 전투원들이 바마코의 헌병 훈련학교와 공항 군사 구역을 공격했다. 조직적인 공격으로 헌병 훈련생을 비롯해 수십 명이 숨졌으며, 이는 수년 만에 수도에 가해진 가장 심각한 공격이었다. 공격은 반란이 북부와 중부에서 남쪽으로 확산되고 있음을 보여 주었다.",
+    "zh": "2024年9月17日，与基地组织有关联的“支持伊斯兰与穆斯林组织”（JNIM）武装分子袭击了巴马科的宪兵训练学校和机场军事区。这次协同袭击造成数十人死亡，其中许多是宪兵学员，是多年来首都遭受的最严重袭击。它凸显了叛乱从北部和中部向南部蔓延的态势。",
+    "ja": "2024年9月17日、アルカイダ系の「イスラームとムスリムの支援団（JNIM）」の戦闘員が、バマコの憲兵訓練学校と空港の軍事区域を攻撃した。組織的な攻撃で、憲兵訓練生を中心に数十人が死亡し、首都に対する数年来で最も深刻な攻撃となった。攻撃は反乱が北部・中部から南部へ広がっていることを示した。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q137460579",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "JNIM fuel blockade",
+    "ko": "JNIM의 연료 봉쇄",
+    "zh": "JNIM的燃料封锁",
+    "ja": "JNIMによる燃料封鎖"
+   },
+   "description": {
+    "en": "From September 2025 JNIM imposed a blockade on fuel imports into Mali, attacking tanker convoys on the main roads from Senegal and Côte d'Ivoire. Severe fuel shortages hit Bamako and other cities, disrupting transport, electricity and the economy, and schools were temporarily closed. Earlier in 2025 the junta had dissolved political parties and granted General Goïta a renewable five-year presidential mandate without elections.",
+    "ko": "2025년 9월부터 JNIM은 말리로 들어오는 연료 수입을 봉쇄하며 세네갈과 코트디부아르에서 오는 주요 도로의 유조차 호송대를 공격했다. 바마코와 다른 도시들에 심각한 연료 부족이 닥쳐 교통·전력·경제가 마비되었고 학교들이 일시 휴교했다. 이에 앞서 2025년 군사 정권은 정당들을 해산하고 고이타 장군에게 선거 없이 연장 가능한 5년 임기의 대통령직을 부여했다.",
+    "zh": "自2025年9月起，JNIM对马里实施燃料进口封锁，袭击从塞内加尔和科特迪瓦出发、沿主要公路行驶的油罐车队。巴马科等城市出现严重燃料短缺，交通、电力和经济受到冲击，学校一度停课。在此之前的2025年，军政府解散了各政党，并在未经选举的情况下授予戈伊塔将军可续任的五年总统任期。",
+    "ja": "2025年9月から、JNIMはマリへの燃料輸入を封鎖し、セネガルやコートジボワールからの幹線道路でタンクローリーの車列を襲撃した。バマコなどの都市で深刻な燃料不足が起こり、交通・電力・経済が混乱し、学校は一時休校となった。それに先立つ2025年、軍事政権は政党を解散し、ゴイタ将軍に選挙なしで更新可能な5年の大統領任期を与えていた。"
+   }
+  }
+ ]
+}

@@ -1,0 +1,2849 @@
+{
+ "iso": "YE",
+ "eras": [
+  {
+   "from": -3500,
+   "to": -1200,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bronze Age of the Yemeni Highlands",
+    "ko": "예멘 고원의 청동기 시대",
+    "zh": "也门高原青铜时代",
+    "ja": "イエメン高原の青銅器時代"
+   },
+   "summary": {
+    "en": "From around the late 4th or 3rd millennium BC, farming and herding communities settled the highlands of western Yemen, building stone villages and early terraces and water-harvesting works. Sites in the Khawlan and Dhamar regions show small hilltop settlements and cattle herding. These communities laid the agricultural foundations on which the later South Arabian kingdoms were built.",
+    "ko": "기원전 4천년기 말 또는 3천년기 무렵부터 서부 예멘 고원에는 농경과 목축을 하는 공동체가 정착해 돌로 된 마을과 초기 계단식 밭, 집수 시설을 만들었다. 하울란과 다마르 지역 유적에서는 언덕 위의 소규모 취락과 소 사육의 흔적이 확인된다. 이들 공동체는 훗날 남아라비아 왕국들이 성장할 농업적 기반을 마련했다.",
+    "zh": "约自公元前四千纪末或三千纪起，也门西部高原出现了从事农耕与畜牧的定居社群，他们修建石砌村落、早期梯田和集水设施。豪兰与扎马尔一带的遗址显示了山顶小型聚落和养牛活动。这些社群为后来南阿拉伯诸王国的兴起奠定了农业基础。",
+    "ja": "紀元前4千年紀末ないし3千年紀頃から、イエメン西部の高原には農耕と牧畜を営む共同体が定住し、石造りの村や初期の段々畑、集水施設を築いた。ハウラーンやザマール地方の遺跡には丘上の小集落や牛の飼育の跡が見られる。これらの共同体は、後の南アラビア諸王国が育つ農業基盤を築いた。"
+   }
+  },
+  {
+   "from": -1500,
+   "to": -800,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Sabir Culture",
+    "ko": "사비르 문화",
+    "zh": "萨比尔文化",
+    "ja": "サビル文化"
+   },
+   "summary": {
+    "en": "The Sabir culture, named after a site near Aden and Lahj, flourished in the southern coastal lowlands in the 2nd and early 1st millennium BC. Its people lived in sizeable settlements, made distinctive pottery and had contacts across the Red Sea with the Horn of Africa. Its exact dating and relationship to the later Sabaean kingdom are still debated by archaeologists.",
+    "ko": "아덴과 라히즈 인근 유적의 이름을 딴 사비르 문화는 기원전 2천년기부터 1천년기 초까지 남부 해안 저지대에서 번성했다. 이들은 꽤 큰 취락을 이루고 독특한 토기를 만들었으며 홍해 건너 아프리카의 뿔 지역과 교류했다. 정확한 연대와 후대 사바 왕국과의 관계는 고고학계에서 여전히 논쟁 중이다.",
+    "zh": "萨比尔文化得名于亚丁和拉赫季附近的遗址，于公元前二千纪至一千纪初在南部沿海低地繁荣。其居民形成了相当规模的聚落，制作独特的陶器，并与红海对岸的非洲之角有往来。其确切年代及与后来赛伯邑王国的关系，考古学界仍有争论。",
+    "ja": "アデンとラヒジュ近郊の遺跡にちなむサビル文化は、紀元前2千年紀から1千年紀初めにかけて南部沿岸の低地で栄えた。人々はかなりの規模の集落を営み、独特の土器を作り、紅海の対岸のアフリカの角と交流した。正確な年代や後のサバア王国との関係については、考古学者の間で今も議論が続いている。"
+   }
+  },
+  {
+   "from": -1200,
+   "to": 275,
+   "kind": "state",
+   "qid": "Q940785",
+   "polity": "Sabaeans",
+   "name": {
+    "en": "Kingdom of Saba (Sheba)",
+    "ko": "사바 왕국 (시바)",
+    "zh": "赛伯邑王国（示巴）",
+    "ja": "サバア王国（シバ）"
+   },
+   "summary": {
+    "en": "Saba, centred on Marib at the edge of the Ramlat al-Sab'atayn desert, became the leading South Arabian kingdom by the early 1st millennium BC. Its rulers, first titled mukarrib, grew rich from frankincense and myrrh caravans and built the Great Dam of Marib and the temple of Almaqah. Saba long dominated its neighbours but was finally absorbed by Himyar in the late 3rd century AD.",
+    "ko": "람라트 알사브아타인 사막 가장자리의 마리브를 중심으로 한 사바는 기원전 1천년기 초에 남아라비아의 패권 왕국이 되었다. 처음에 무카리브라는 칭호를 쓴 통치자들은 유향과 몰약 대상 무역으로 부를 쌓고 마리브 대댐과 알마카 신전을 건설했다. 사바는 오랫동안 이웃 나라들을 압도했으나 기원후 3세기 말 힘야르에 병합되었다.",
+    "zh": "以兰姆拉特·萨卜阿泰因沙漠边缘的马里卜为中心，赛伯邑在公元前一千纪初成为南阿拉伯的首要王国。其统治者最初称“穆卡里布”，凭借乳香与没药商队贸易致富，修建了马里卜大坝和阿尔马卡神庙。赛伯邑长期压制邻国，但最终在公元三世纪末被希木叶尔吞并。",
+    "ja": "ラムラト・サブアタイン砂漠の縁にあるマーリブを中心とするサバアは、紀元前1千年紀初めまでに南アラビア随一の王国となった。当初ムカッリブと称した支配者たちは乳香と没薬の隊商交易で富を築き、マーリブの大ダムやアルマカ神殿を建てた。サバアは長く周辺国を圧倒したが、紀元後3世紀末にヒムヤルに併合された。"
+   }
+  },
+  {
+   "from": -800,
+   "to": -650,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Awsan",
+    "ko": "아우산 왕국",
+    "zh": "奥桑王国",
+    "ja": "アウサン王国"
+   },
+   "summary": {
+    "en": "Awsan was an early South Arabian kingdom in the wadis inland from Aden, with a capital at Hagar Yahirr in Wadi Markha. It rivalled Saba and Qataban in the early centuries of the 1st millennium BC. According to a long Sabaean victory inscription, Karib'il Watar of Saba crushed Awsan around the 7th century BC; it later reappeared as a minor kingdom.",
+    "ko": "아우산은 아덴 내륙의 와디 지대에 있던 초기 남아라비아 왕국으로, 와디 마르하의 하가르 야히르를 수도로 했다. 기원전 1천년기 초 사바, 카타반과 경쟁했다. 사바의 긴 전승 비문에 따르면 기원전 7세기 무렵 사바의 카리브일 와타르가 아우산을 격파했으며, 아우산은 이후 작은 왕국으로 다시 등장했다.",
+    "zh": "奥桑是亚丁内陆河谷地带的早期南阿拉伯王国，都城位于马尔哈谷地的哈加尔·亚希尔。公元前一千纪初期，它与赛伯邑、盖特拜相互争雄。据赛伯邑一篇长篇战功铭文记载，约公元前7世纪，赛伯邑王卡里卜伊勒·瓦塔尔击溃奥桑；此后奥桑作为小国再度出现。",
+    "ja": "アウサンはアデン内陸のワーディー地帯にあった初期の南アラビア王国で、ワーディー・マルハのハガル・ヤヒルを都とした。紀元前1千年紀の初め、サバアやカタバーンと覇を競った。サバアの長大な戦勝碑文によれば、紀元前7世紀頃にサバアのカリブイル・ワタルがアウサンを撃破し、その後アウサンは小王国として再び現れた。"
+   }
+  },
+  {
+   "from": -800,
+   "to": 180,
+   "kind": "state",
+   "qid": "Q748595",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Qataban",
+    "ko": "카타반 왕국",
+    "zh": "盖特拜王国",
+    "ja": "カタバーン王国"
+   },
+   "summary": {
+    "en": "Qataban was centred on Wadi Bayhan with its capital at Timna, controlling a stretch of the incense route. After freeing itself from Sabaean supremacy, it became a major power from about the 4th century BC, issuing its own coins and a famous market law inscribed in Timna. Weakened by rivals, it was absorbed by Hadramawt around the late 2nd century AD.",
+    "ko": "카타반은 와디 바이한을 중심으로 팀나를 수도로 하여 유향길의 한 구간을 장악했다. 사바의 패권에서 벗어난 뒤 기원전 4세기 무렵부터 강국이 되어 자체 화폐를 발행했고, 팀나에는 유명한 시장법 비문이 새겨졌다. 경쟁국들에 밀려 약해진 카타반은 기원후 2세기 말 무렵 하드라마우트에 흡수되었다.",
+    "zh": "盖特拜以拜汗谷地为中心，定都提姆纳，控制着乳香之路的一段。摆脱赛伯邑的霸权后，它约自公元前4世纪起成为强国，铸造自己的钱币，并在提姆纳刻下著名的市场法铭文。在对手的压力下衰落后，盖特拜约于公元2世纪末被哈德拉毛吞并。",
+    "ja": "カタバーンはワーディー・バイハーンを中心にティムナを都とし、乳香の道の一区間を押さえた。サバアの覇権を脱した後、紀元前4世紀頃から強国となって独自の貨幣を発行し、ティムナには有名な市場法の碑文が刻まれた。周辺国に押されて衰えたカタバーンは、紀元後2世紀末頃にハドラマウトに吸収された。"
+   }
+  },
+  {
+   "from": -700,
+   "to": 300,
+   "kind": "state",
+   "qid": "Q1517159",
+   "polity": "Hadhramaut",
+   "name": {
+    "en": "Kingdom of Hadramawt",
+    "ko": "하드라마우트 왕국",
+    "zh": "哈德拉毛王国",
+    "ja": "ハドラマウト王国"
+   },
+   "summary": {
+    "en": "Hadramawt, ruling from Shabwa, controlled the frankincense-growing lands of the east and the port of Qana on the Arabian Sea. It was one of the longest-lived South Arabian kingdoms and annexed Qataban in the 2nd century AD. Around 300 AD it was conquered by Himyar, but the name Hadramawt survives for the region to this day.",
+    "ko": "샤브와를 수도로 한 하드라마우트는 유향이 자라는 동부 지역과 아라비아해의 카나 항을 지배했다. 남아라비아 왕국 가운데 가장 오래 존속한 나라 중 하나로, 기원후 2세기에는 카타반을 병합했다. 300년 무렵 힘야르에 정복되었지만 하드라마우트라는 이름은 오늘날까지 지역명으로 남아 있다.",
+    "zh": "哈德拉毛以舍卜沃为都，控制着东部的乳香产地和阿拉伯海上的加奈港。它是存续最久的南阿拉伯王国之一，公元2世纪吞并了盖特拜。约公元300年，哈德拉毛被希木叶尔征服，但其名称作为地区名一直沿用至今。",
+    "ja": "シャブワを都とするハドラマウトは、乳香の産地である東部とアラビア海のカナー港を支配した。南アラビアで最も長く続いた王国の一つで、紀元後2世紀にはカタバーンを併合した。300年頃にヒムヤルに征服されたが、ハドラマウトの名は今日まで地域名として残っている。"
+   }
+  },
+  {
+   "from": -600,
+   "to": -100,
+   "kind": "state",
+   "qid": "Q1177379",
+   "polity": "Minaeans",
+   "name": {
+    "en": "Kingdom of Ma'in",
+    "ko": "마인 왕국",
+    "zh": "麦因王国",
+    "ja": "マイン王国"
+   },
+   "summary": {
+    "en": "The Minaeans of the Wadi al-Jawf, with cities such as Qarnaw and Yathill (Baraqish), specialised as long-distance incense merchants. Minaean traders kept a colony at Dedan in north-western Arabia and their inscriptions appear as far away as Egypt and the Aegean island of Delos. The kingdom's chronology is debated; it faded by the 1st century BC as trade shifted and Saba reasserted control of the Jawf.",
+    "ko": "와디 알자우프의 카르나우, 야실(바라키시) 등의 도시를 거점으로 한 미나인들은 장거리 유향 상인으로 활약했다. 미나 상인들은 아라비아 서북부 데단에 거류지를 두었고, 그들의 비문은 이집트와 에게해의 델로스섬에서도 발견된다. 왕국의 연대는 논쟁 중이며, 교역로가 바뀌고 사바가 자우프를 다시 장악하면서 기원전 1세기경 쇠퇴했다.",
+    "zh": "以焦夫谷地的盖尔瑙、雅西勒（巴拉基什）等城市为据点的麦因人，以长途乳香贸易商著称。麦因商人在阿拉伯西北部的德丹设有侨居地，其铭文远至埃及和爱琴海的提洛岛都有发现。该王国的年代仍有争议，随着商路转移和赛伯邑重新控制焦夫，它于公元前1世纪前后衰落。",
+    "ja": "ワーディー・ジャウフのカルナウやヤシル（バラキシュ）などの都市を拠点としたマイン人は、遠距離の乳香商人として活躍した。マインの商人はアラビア北西部のデダンに居留地を持ち、その碑文はエジプトやエーゲ海のデロス島でも見つかっている。王国の年代には議論があり、交易路の変化とサバアによるジャウフ再支配により紀元前1世紀頃に衰えた。"
+   }
+  },
+  {
+   "from": -110,
+   "to": 525,
+   "kind": "state",
+   "qid": "Q289577",
+   "polity": "Himyarite Kingdom",
+   "name": {
+    "en": "Himyarite Kingdom",
+    "ko": "힘야르 왕국",
+    "zh": "希木叶尔王国",
+    "ja": "ヒムヤル王国"
+   },
+   "summary": {
+    "en": "Himyar arose in the southern highlands around the late 2nd century BC with its capital at Zafar near Yarim. Over four centuries it fought Saba, then absorbed it and Hadramawt to unify all of South Arabia by about 300 AD. From the late 4th century its kings abandoned the old gods for monotheism, with Judaism prominent at court, until an Aksumite invasion ended the kingdom in 525.",
+    "ko": "힘야르는 기원전 2세기 말 무렵 남부 고원에서 일어나 야림 인근의 자파르를 수도로 삼았다. 4세기에 걸쳐 사바와 싸운 끝에 사바와 하드라마우트를 병합해 300년 무렵 남아라비아 전역을 통일했다. 4세기 말부터 왕들은 옛 신들을 버리고 일신교를 받아들였으며 궁정에서는 유대교가 두드러졌으나, 525년 악숨의 침공으로 왕국은 끝났다.",
+    "zh": "希木叶尔约于公元前2世纪末兴起于南部高原，定都亚里姆附近的扎法尔。经过四个世纪与赛伯邑的争战，它先后吞并赛伯邑和哈德拉毛，约在公元300年统一了整个南阿拉伯。自4世纪末起，其诸王弃绝旧神改奉一神教，宫廷中犹太教影响尤为突出，直到525年阿克苏姆入侵终结了这一王国。",
+    "ja": "ヒムヤルは紀元前2世紀末頃に南部高原で興り、ヤリーム近郊のザファールを都とした。4世紀にわたってサバアと争った末、サバアとハドラマウトを併合して300年頃に南アラビア全域を統一した。4世紀末から王たちは古い神々を捨てて一神教を受け入れ、宮廷ではユダヤ教が目立ったが、525年のアクスムの侵攻で王国は終わった。"
+   }
+  },
+  {
+   "from": 525,
+   "to": 570,
+   "kind": "state",
+   "qid": "Q139377",
+   "polity": "Kingdom of Axum",
+   "name": {
+    "en": "Aksumite Rule and Abraha",
+    "ko": "악숨 지배와 아브라하",
+    "zh": "阿克苏姆统治与阿布拉哈",
+    "ja": "アクスム支配とアブラハ"
+   },
+   "summary": {
+    "en": "After King Kaleb of Aksum defeated the Himyarite king Yusuf As'ar Yath'ar around 525, Yemen came under Christian Ethiopian rule. The general Abraha soon made himself an effectively independent king, built a great church in Sanaa and repaired the Marib Dam. His successors were overthrown around 570 by a Persian expedition supported by Himyarite nobles.",
+    "ko": "525년 무렵 악숨의 칼레브 왕이 힘야르 왕 유수프 아사르 야사르를 무찌른 뒤 예멘은 기독교 에티오피아의 지배를 받았다. 장군 아브라하는 곧 사실상 독립된 왕이 되어 사나에 큰 교회를 세우고 마리브 댐을 보수했다. 그의 후계자들은 570년 무렵 힘야르 귀족들이 지원한 페르시아 원정군에 의해 축출되었다.",
+    "zh": "约525年，阿克苏姆国王卡莱布击败希木叶尔国王优素福·阿萨尔·亚斯阿尔，也门遂归基督教埃塞俄比亚统治。将军阿布拉哈很快自立为事实上独立的国王，在萨那兴建大教堂并修复马里卜大坝。约570年，他的继承者被希木叶尔贵族支持的波斯远征军推翻。",
+    "ja": "525年頃、アクスム王カレブがヒムヤル王ユースフ・アスアル・ヤスアルを破ると、イエメンはキリスト教国エチオピアの支配下に入った。将軍アブラハはまもなく事実上独立した王となり、サナアに大聖堂を建て、マーリブ・ダムを修復した。その後継者たちは570年頃、ヒムヤル貴族が支援したペルシアの遠征軍に倒された。"
+   }
+  },
+  {
+   "from": 570,
+   "to": 632,
+   "kind": "colonial",
+   "qid": null,
+   "polity": "Sasanian Empire",
+   "name": {
+    "en": "Sasanian Yemen",
+    "ko": "사산조 페르시아령 예멘",
+    "zh": "萨珊波斯治下的也门",
+    "ja": "サーサーン朝支配下のイエメン"
+   },
+   "summary": {
+    "en": "Around 570 a Sasanian force under the commander Wahrez expelled the Aksumites, and Yemen became a Persian dependency governed from Sanaa. Persian settlers and their descendants, known as the Abna', formed a ruling elite. The last governor, Badhan, accepted Islam around 628, bringing Yemen into the new Muslim state.",
+    "ko": "570년 무렵 사령관 와흐리즈가 이끄는 사산조 군대가 악숨 세력을 몰아냈고, 예멘은 사나를 중심으로 통치되는 페르시아의 속령이 되었다. '아브나'로 불린 페르시아계 정착민과 그 후손이 지배층을 이루었다. 마지막 총독 바잔이 628년 무렵 이슬람을 받아들이면서 예멘은 새 무슬림 국가에 편입되었다.",
+    "zh": "约570年，萨珊统帅瓦赫里兹率军驱逐阿克苏姆势力，也门成为以萨那为治所的波斯属地。被称为“阿卜纳”的波斯移民及其后裔构成了统治阶层。末任总督巴赞约于628年皈依伊斯兰教，也门由此并入新兴的穆斯林国家。",
+    "ja": "570年頃、司令官ワフリズ率いるサーサーン朝軍がアクスム勢力を追い出し、イエメンはサナアを拠点に統治されるペルシアの属領となった。「アブナー」と呼ばれたペルシア系の移住者とその子孫が支配層を形成した。最後の総督バーザーンが628年頃にイスラムを受け入れ、イエメンは新しいムスリム国家に組み込まれた。"
+   }
+  },
+  {
+   "from": 628,
+   "to": 661,
+   "kind": "state",
+   "qid": "Q12490507",
+   "polity": "Rashidun Caliphate",
+   "name": {
+    "en": "Early Islam and the Rashidun Caliphate",
+    "ko": "초기 이슬람과 정통 칼리파 시대",
+    "zh": "早期伊斯兰与四大哈里发时期",
+    "ja": "初期イスラムと正統カリフ時代"
+   },
+   "summary": {
+    "en": "Yemen joined the Islamic community in the Prophet's lifetime and was governed by appointees from Medina. After the suppression of revolts in the Ridda wars, Yemeni tribesmen streamed north to fight in the conquests of Syria, Iraq and Egypt. Many settled in the new garrison cities, carrying Yemeni tribal identities across the Islamic world.",
+    "ko": "예멘은 예언자 생전에 이슬람 공동체에 합류했고 메디나가 임명한 총독들이 다스렸다. 릿다 전쟁에서 반란이 진압된 뒤 예멘 부족민들은 대거 북상해 시리아, 이라크, 이집트 정복전에 참가했다. 이들 중 다수가 새로 건설된 군영 도시에 정착하면서 예멘 부족의 정체성이 이슬람 세계 곳곳으로 퍼졌다.",
+    "zh": "也门在先知在世时即加入伊斯兰共同体，由麦地那委派的官员治理。叛教战争中的叛乱被平定后，大批也门部族民北上参与征服叙利亚、伊拉克和埃及的战争。其中许多人定居于新建的军镇，将也门部族的身份认同带到伊斯兰世界各地。",
+    "ja": "イエメンは預言者の存命中にイスラム共同体に加わり、メディナが任命した総督が統治した。リッダ戦争で反乱が鎮圧された後、イエメンの部族民は大挙して北上し、シリア・イラク・エジプトの征服戦に参加した。その多くが新しい軍営都市に定住し、イエメン部族の帰属意識をイスラム世界各地に広めた。"
+   }
+  },
+  {
+   "from": 661,
+   "to": 750,
+   "kind": "state",
+   "qid": "Q8575586",
+   "polity": "Umayyad Caliphate",
+   "name": {
+    "en": "Umayyad Caliphate",
+    "ko": "우마이야 칼리파조",
+    "zh": "倭马亚王朝",
+    "ja": "ウマイヤ朝"
+   },
+   "summary": {
+    "en": "Under the Umayyads of Damascus, Yemen was a province administered by governors in Sanaa and Janad. The rivalry between 'southern' (Yemeni) and 'northern' Arab tribal factions became a major force in caliphal politics far from Yemen itself. Late in the period a Kharijite rising led by Abdallah ibn Yahya, known as Talib al-Haqq, seized Yemen and parts of the Hijaz in 746–747 before being crushed.",
+    "ko": "다마스쿠스의 우마이야 왕조 아래에서 예멘은 사나와 자나드의 총독들이 다스리는 속주였다. '남방'(예멘계)과 '북방' 아랍 부족 파벌 간의 경쟁은 예멘 밖의 칼리파 정치에서도 큰 변수가 되었다. 말기인 746~747년에는 '탈리브 알하크'로 불린 압둘라 이븐 야흐야가 이끈 하와리즈파 봉기가 예멘과 히자즈 일부를 장악했다가 진압되었다.",
+    "zh": "在大马士革的倭马亚王朝治下，也门是一个由萨那和贾纳德总督管辖的行省。“南方”（也门系）与“北方”阿拉伯部族派系之间的对立，成为远离也门本土的哈里发政治中的重要力量。王朝末期的746至747年，号称“塔利卜·哈克”的阿卜杜拉·伊本·叶海亚领导哈瓦利吉派起义，一度占据也门和汉志部分地区，后被镇压。",
+    "ja": "ダマスクスのウマイヤ朝の下で、イエメンはサナアとジャナドの総督が治める州であった。「南方」（イエメン系）と「北方」のアラブ部族派閥の対立は、イエメンから遠く離れたカリフ政治でも大きな要因となった。末期の746〜747年には、「ターリブ・アル＝ハック」と呼ばれたアブドゥッラー・イブン・ヤフヤー率いるハワーリジュ派の反乱がイエメンとヒジャーズの一部を占拠したが、鎮圧された。"
+   }
+  },
+  {
+   "from": 750,
+   "to": 900,
+   "kind": "state",
+   "qid": "Q12536",
+   "polity": "Abbasid Caliphate",
+   "name": {
+    "en": "Abbasid Caliphate",
+    "ko": "아바스 칼리파조",
+    "zh": "阿拔斯王朝",
+    "ja": "アッバース朝"
+   },
+   "summary": {
+    "en": "The Abbasids of Baghdad ruled Yemen through governors, but distance and rugged terrain made control difficult. During the 9th century real power passed to local dynasties: the Ziyadids at Zabid and the Yu'firids at Sanaa, who recognised the caliph only nominally. Zaydi and Isma'ili missionaries also found fertile ground in the highlands as Abbasid authority waned.",
+    "ko": "바그다드의 아바스 왕조는 총독을 통해 예멘을 다스렸지만, 먼 거리와 험준한 지형 탓에 통제가 어려웠다. 9세기 동안 실권은 자비드의 지야드 왕조와 사나의 유피르 왕조 같은 지방 왕조로 넘어갔고, 이들은 칼리파를 명목상으로만 인정했다. 아바스의 권위가 약해지자 자이드파와 이스마일파 선교사들도 고원 지대에서 세력을 넓혔다.",
+    "zh": "巴格达的阿拔斯王朝通过总督统治也门，但距离遥远、地形崎岖，难以有效控制。9世纪间，实权转入地方王朝之手：扎比德的齐亚德王朝和萨那的尤菲尔王朝，它们只在名义上承认哈里发。随着阿拔斯权威衰落，宰德派和伊斯玛仪派的传教者也在高原地区找到了发展空间。",
+    "ja": "バグダードのアッバース朝は総督を通じてイエメンを治めたが、遠さと険しい地形のために支配は難しかった。9世紀には実権がザビードのズィヤード朝やサナアのユウフィル朝といった地方王朝に移り、彼らはカリフを名目上認めるにとどまった。アッバース朝の権威が衰えると、ザイド派やイスマーイール派の宣教者も高原地帯で勢力を広げた。"
+   }
+  },
+  {
+   "from": 819,
+   "to": 1018,
+   "kind": "state",
+   "qid": "Q207017",
+   "polity": "Ziyadid dynasty",
+   "name": {
+    "en": "Ziyadid Dynasty of Zabid",
+    "ko": "자비드의 지야드 왕조",
+    "zh": "扎比德的齐亚德王朝",
+    "ja": "ザビードのズィヤード朝"
+   },
+   "summary": {
+    "en": "Muhammad ibn Ziyad, sent by the Abbasid caliph al-Ma'mun to pacify the Tihama, founded the city of Zabid around 820 and established a dynasty there. The Ziyadids ruled the coastal plain and at times much of the south in the caliph's name, making Zabid a centre of Sunni learning. Real power later passed to their Abyssinian slave-ministers, from whom the Najahid dynasty emerged.",
+    "ko": "아바스 칼리파 알마문이 티하마 평정을 위해 보낸 무함마드 이븐 지야드는 820년 무렵 자비드를 건설하고 그곳에 왕조를 세웠다. 지야드 왕조는 칼리파의 이름으로 해안 평야와 때로는 남부 대부분을 다스렸고, 자비드를 수니파 학문의 중심지로 만들었다. 이후 실권은 아비시니아 출신 노예 재상들에게 넘어갔고, 그들로부터 나자흐 왕조가 나왔다.",
+    "zh": "阿拔斯哈里发麦蒙派穆罕默德·伊本·齐亚德平定帖哈麦地区，他约于820年建立扎比德城并在此开创王朝。齐亚德王朝以哈里发之名统治沿海平原，有时还控制南部大部分地区，使扎比德成为逊尼派学术中心。后来实权落入其阿比西尼亚裔奴隶出身的大臣手中，纳贾赫王朝即由此而生。",
+    "ja": "アッバース朝カリフのマアムーンがティハーマ平定のために派遣したムハンマド・イブン・ズィヤードは、820年頃にザビードを建設してそこに王朝を開いた。ズィヤード朝はカリフの名において沿岸平野と時に南部の大半を治め、ザビードをスンナ派学問の中心地とした。その後、実権はアビシニア出身の奴隷宰相たちに移り、彼らの中からナジャーフ朝が生まれた。"
+   }
+  },
+  {
+   "from": 847,
+   "to": 997,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Yu'firid Dynasty of Sanaa",
+    "ko": "사나의 유피르 왕조",
+    "zh": "萨那的尤菲尔王朝",
+    "ja": "サナアのユウフィル朝"
+   },
+   "summary": {
+    "en": "The Yu'firids, a Himyarite-descended family from Shibam Kawkaban, took Sanaa in 847 and ruled much of the highlands, recognising the Abbasid caliphs. Their realm was repeatedly contested by the Zaydi imams of Saada and by Isma'ili forces, which briefly captured Sanaa in the early 10th century. The dynasty faded at the end of the 10th century amid the highlands' fragmentation.",
+    "ko": "힘야르계 혈통을 자처한 시밤 카우카반 출신의 유피르 가문은 847년 사나를 차지하고 아바스 칼리파를 인정하며 고원 대부분을 다스렸다. 그들의 영역은 사다의 자이드파 이맘과 이스마일파 세력의 끊임없는 도전을 받았고, 10세기 초에는 이스마일파가 잠시 사나를 점령하기도 했다. 왕조는 고원이 분열하는 가운데 10세기 말에 쇠퇴했다.",
+    "zh": "尤菲尔家族出自希巴姆·考卡班，自称希木叶尔后裔，于847年占领萨那，承认阿拔斯哈里发并统治高原大部。其领地屡遭萨达的宰德派伊玛目和伊斯玛仪派势力争夺，10世纪初伊斯玛仪派还曾短暂攻占萨那。在高原分裂之中，该王朝于10世纪末衰亡。",
+    "ja": "ヒムヤルの血統を称するシバーム・カウカバン出身のユウフィル家は847年にサナアを取り、アッバース朝カリフを認めつつ高原の大半を治めた。その領域はサアダのザイド派イマームやイスマーイール派勢力と絶えず争われ、10世紀初めにはイスマーイール派が一時サナアを占領した。王朝は高原の分裂の中で10世紀末に衰えた。"
+   }
+  },
+  {
+   "from": 897,
+   "to": 1962,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Zaydi Imamate of the Highlands",
+    "ko": "고원의 자이드파 이맘국",
+    "zh": "高原的宰德派伊玛目政权",
+    "ja": "高原のザイド派イマーム国"
+   },
+   "summary": {
+    "en": "From 897, when al-Hadi ila'l-Haqq Yahya came to Saada, Zaydi Shi'i imams claimed leadership over the northern highlands for more than a thousand years. Their power waxed and waned: at times they were confined to a few mountain strongholds, at others, as under the Qasimids in the 17th century, they ruled nearly all of Yemen. The imamate shaped the religious and tribal identity of the north until the 1962 revolution ended it.",
+    "ko": "897년 알하디 일랄하크 야흐야가 사다에 온 이래, 자이드파 시아 이맘들은 천 년 넘게 북부 고원의 지도권을 주장했다. 그들의 세력은 부침이 심해 몇몇 산악 요새에 갇혀 있던 때도 있었고, 17세기 카심 왕조 때처럼 예멘 거의 전역을 지배한 때도 있었다. 이맘국은 1962년 혁명으로 종말을 맞을 때까지 북부의 종교적·부족적 정체성을 형성했다.",
+    "zh": "自897年哈迪·伊拉勒哈克·叶海亚来到萨达起，宰德派什叶伊玛目宣称对北部高原的领导权长达一千多年。其势力时盛时衰：有时仅困守几座山地要塞，有时如17世纪卡西姆王朝时期则几乎统治全也门。伊玛目政权塑造了北方的宗教与部族认同，直至1962年革命将其终结。",
+    "ja": "897年にハーディー・イラル・ハック・ヤフヤーがサアダに来て以来、ザイド派シーア派のイマームたちは千年以上にわたり北部高原の指導権を主張した。その勢力は浮き沈みが激しく、わずかな山岳要塞に閉じこもった時期もあれば、17世紀のカースィム家のようにイエメンのほぼ全域を支配した時期もあった。イマーム国は1962年の革命で終わるまで、北部の宗教的・部族的アイデンティティを形作った。"
+   }
+  },
+  {
+   "from": 1022,
+   "to": 1158,
+   "kind": "state",
+   "qid": "Q1411866",
+   "polity": "Najahid Dynasty",
+   "name": {
+    "en": "Najahid Dynasty",
+    "ko": "나자흐 왕조",
+    "zh": "纳贾赫王朝",
+    "ja": "ナジャーフ朝"
+   },
+   "summary": {
+    "en": "The Najahids, descended from Najah, an Abyssinian freedman of the Ziyadid court, ruled the Tihama from Zabid from the early 11th century. Their long struggle with the Sulayhids saw Zabid change hands several times. They were finally overthrown in 1158 by the militant reformer Ali ibn Mahdi, whose Mahdid regime was itself swept away by the Ayyubids in 1174.",
+    "ko": "지야드 궁정의 아비시니아 출신 해방노예 나자흐의 후손인 나자흐 왕조는 11세기 초부터 자비드를 거점으로 티하마를 다스렸다. 술라이흐 왕조와의 오랜 다툼 속에 자비드의 주인은 여러 차례 바뀌었다. 이들은 1158년 과격한 개혁가 알리 이븐 마흐디에게 타도되었고, 마흐디 정권 역시 1174년 아이유브 왕조에 의해 무너졌다.",
+    "zh": "纳贾赫王朝的创立者纳贾赫是齐亚德宫廷中一名阿比西尼亚裔获释奴隶，其后裔自11世纪初以扎比德为中心统治帖哈麦。在与苏莱希王朝的长期争斗中，扎比德数度易手。1158年，激进的改革者阿里·伊本·马赫迪推翻了纳贾赫王朝，而马赫迪政权本身又在1174年被阿尤布王朝所灭。",
+    "ja": "ズィヤード朝宮廷のアビシニア出身の解放奴隷ナジャーフの子孫であるナジャーフ朝は、11世紀初めからザビードを拠点にティハーマを治めた。スライフ朝との長い争いの中でザビードは何度も支配者を変えた。1158年、急進的な改革者アリー・イブン・マフディーに倒され、そのマフディー政権も1174年にアイユーブ朝に滅ぼされた。"
+   }
+  },
+  {
+   "from": 1047,
+   "to": 1138,
+   "kind": "state",
+   "qid": "Q2364248",
+   "polity": "Sulayhid Dynasty",
+   "name": {
+    "en": "Sulayhid Dynasty",
+    "ko": "술라이흐 왕조",
+    "zh": "苏莱希王朝",
+    "ja": "スライフ朝"
+   },
+   "summary": {
+    "en": "Ali ibn Muhammad al-Sulayhi, an Isma'ili missionary loyal to the Fatimid caliphs of Cairo, rose in the Haraz mountains in 1047 and soon united most of Yemen. After his death, his daughter-in-law Queen Arwa al-Sulayhi governed for decades from Jibla, one of the few women to rule in her own right in the medieval Islamic world. The dynasty ended with her death in 1138, but the Tayyibi Isma'ili mission she sponsored endures to this day.",
+    "ko": "카이로의 파티마 칼리파에 충성하던 이스마일파 선교사 알리 이븐 무함마드 알술라이히는 1047년 하라즈 산지에서 일어나 곧 예멘 대부분을 통일했다. 그가 죽은 뒤 며느리 아르와 여왕이 지블라에서 수십 년간 통치했는데, 중세 이슬람 세계에서 드물게 스스로 권력을 행사한 여성 군주였다. 왕조는 1138년 그녀의 죽음과 함께 끝났지만, 그녀가 후원한 타이이브파 이스마일 교단은 오늘날까지 이어지고 있다.",
+    "zh": "效忠开罗法蒂玛哈里发的伊斯玛仪派传教者阿里·伊本·穆罕默德·苏莱希于1047年在哈拉兹山区起事，不久统一了也门大部分地区。他死后，其儿媳阿尔瓦女王在吉卜拉执政数十年，是中世纪伊斯兰世界中少有的亲自掌权的女性统治者。王朝随她于1138年去世而终结，但她扶持的塔伊布派伊斯玛仪教团延续至今。",
+    "ja": "カイロのファーティマ朝カリフに忠誠を誓うイスマーイール派宣教者アリー・イブン・ムハンマド・アル＝スライヒーは、1047年にハラーズ山地で挙兵し、まもなくイエメンの大半を統一した。彼の死後、息子の妻アルワ女王がジブラから数十年にわたり統治し、中世イスラム世界では珍しく自ら権力を行使した女性君主となった。王朝は1138年の彼女の死とともに終わったが、彼女が後援したタイイブ派イスマーイール派の教団は今日まで続いている。"
+   }
+  },
+  {
+   "from": 1083,
+   "to": 1174,
+   "kind": "state",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Zurayid Dynasty of Aden",
+    "ko": "아덴의 주라이 왕조",
+    "zh": "亚丁的祖莱伊王朝",
+    "ja": "アデンのズライ朝"
+   },
+   "summary": {
+    "en": "The Zurayids, an Isma'ili family of the Banu Yam, governed Aden first as vassals of the Sulayhids and then independently. Under them Aden prospered as a transit port between India, Egypt and East Africa, and they minted their own coinage. Their rule ended when the Ayyubid army of Turan-Shah captured Aden in 1174.",
+    "ko": "바누 얌 부족 출신의 이스마일파 가문인 주라이 왕조는 처음에는 술라이흐 왕조의 봉신으로, 이후에는 독자적으로 아덴을 다스렸다. 이들 아래에서 아덴은 인도, 이집트, 동아프리카를 잇는 중계항으로 번영했고 자체 화폐도 주조했다. 1174년 투란샤의 아이유브군이 아덴을 점령하면서 그들의 통치는 끝났다.",
+    "zh": "祖莱伊王朝出身于巴努·亚姆部族的伊斯玛仪派家族，先作为苏莱希王朝的附庸、后独立统治亚丁。在其治下，亚丁作为连接印度、埃及与东非的转口港而繁荣，并自行铸币。1174年图兰沙率领的阿尤布军队攻占亚丁，其统治随之结束。",
+    "ja": "バヌー・ヤーム族出身のイスマーイール派の家系であるズライ朝は、初めはスライフ朝の封臣として、のちに独立してアデンを治めた。その下でアデンはインド・エジプト・東アフリカを結ぶ中継港として繁栄し、独自の貨幣も鋳造した。1174年にトゥーラーン・シャーのアイユーブ朝軍がアデンを占領し、その支配は終わった。"
+   }
+  },
+  {
+   "from": 1174,
+   "to": 1229,
+   "kind": "state",
+   "qid": "Q180114",
+   "polity": "Ayyubid Sultanate",
+   "name": {
+    "en": "Ayyubid Yemen",
+    "ko": "아이유브 왕조 지배기",
+    "zh": "阿尤布王朝治下的也门",
+    "ja": "アイユーブ朝支配下のイエメン"
+   },
+   "summary": {
+    "en": "In 1174 Saladin sent his brother Turan-Shah to conquer Yemen, ending the patchwork of local dynasties in the south and the Tihama. Ayyubid princes ruled from Taiz and Zabid, restoring Sunni orthodoxy and the authority of the Abbasid caliph in Friday prayers. When the last Ayyubid ruler left for Egypt in 1229, his Turkmen officer Umar ibn Rasul took over and founded the Rasulid dynasty.",
+    "ko": "1174년 살라딘은 동생 투란샤를 보내 예멘을 정복하게 했고, 이로써 남부와 티하마에 난립하던 지방 왕조들이 정리되었다. 아이유브 왕족들은 타이즈와 자비드를 거점으로 통치하며 수니파 정통과 금요 예배에서의 아바스 칼리파 권위를 회복시켰다. 1229년 마지막 아이유브 통치자가 이집트로 떠나자 투르크멘계 장교 우마르 이븐 라술이 권력을 잡고 라술 왕조를 열었다.",
+    "zh": "1174年，萨拉丁派其兄弟图兰沙征服也门，结束了南部和帖哈麦地方王朝林立的局面。阿尤布王族以塔伊兹和扎比德为据点进行统治，恢复了逊尼派正统，并在聚礼中重新宣认阿拔斯哈里发。1229年最后一位阿尤布统治者前往埃及后，其土库曼裔将领欧麦尔·伊本·拉苏勒接掌政权，开创拉苏里王朝。",
+    "ja": "1174年、サラディンは弟トゥーラーン・シャーを送ってイエメンを征服させ、南部とティハーマに乱立していた地方王朝を一掃した。アイユーブ家の王族はタイズとザビードを拠点に統治し、スンナ派の正統と金曜礼拝におけるアッバース朝カリフの権威を回復させた。1229年に最後のアイユーブ朝の統治者がエジプトへ去ると、トゥルクメン系の将校ウマル・イブン・ラスールが権力を握り、ラスール朝を開いた。"
+   }
+  },
+  {
+   "from": 1229,
+   "to": 1454,
+   "kind": "state",
+   "qid": "Q2132267",
+   "polity": "Rasulid Dynasty",
+   "name": {
+    "en": "Rasulid Dynasty",
+    "ko": "라술 왕조",
+    "zh": "拉苏里王朝",
+    "ja": "ラスール朝"
+   },
+   "summary": {
+    "en": "The Rasulids ruled the south, the Tihama and often Sanaa from their capital at Taiz for over two centuries. Revenues from Aden's Indian Ocean trade funded madrasas, mosques and a court culture famous for works on agriculture, astronomy, medicine and genealogy, several written by the sultans themselves. Succession quarrels and revolts weakened the dynasty, and it gave way to the Tahirids in 1454.",
+    "ko": "라술 왕조는 타이즈를 수도로 2세기 넘게 남부와 티하마, 그리고 종종 사나까지 다스렸다. 아덴의 인도양 무역에서 나오는 수입으로 마드라사와 모스크를 세웠고, 술탄들이 직접 쓴 저작을 포함해 농업, 천문학, 의학, 계보학 분야의 저술로 이름난 궁정 문화를 꽃피웠다. 계승 분쟁과 반란으로 약해진 왕조는 1454년 타히르 왕조에 자리를 내주었다.",
+    "zh": "拉苏里王朝以塔伊兹为都，统治南部、帖哈麦，并常常控制萨那，历时两百余年。亚丁印度洋贸易的收入资助了经学院与清真寺的兴建，宫廷文化以农学、天文学、医学和谱系学著作闻名，其中多部出自苏丹本人之手。继承纷争与叛乱削弱了王朝，1454年它让位于塔希尔王朝。",
+    "ja": "ラスール朝はタイズを都として2世紀以上にわたり南部とティハーマ、しばしばサナアまでを治めた。アデンのインド洋交易の収入でマドラサやモスクを建て、スルタン自身の著作を含む農学・天文学・医学・系譜学の書物で知られる宮廷文化を花開かせた。継承争いと反乱で弱体化した王朝は、1454年にターヒル朝に取って代わられた。"
+   }
+  },
+  {
+   "from": 1379,
+   "to": 1967,
+   "kind": "state",
+   "qid": "Q1296908",
+   "polity": null,
+   "name": {
+    "en": "Sultanates of Hadramawt and Mahra",
+    "ko": "하드라마우트와 마흐라의 술탄국들",
+    "zh": "哈德拉毛与马赫拉诸苏丹国",
+    "ja": "ハドラマウトとマフラのスルタン国"
+   },
+   "summary": {
+    "en": "Eastern Yemen was long divided among local powers: the Kathiri sultans of Say'un and Tarim, the Mahra sultans who also ruled Socotra, and from the 19th century the Qu'aiti sultans of Mukalla and Shihr, whose fortunes were built on service in Hyderabad, India. Hadrami merchants and scholars migrated widely to East Africa, India and South-East Asia, sending back wealth that built the mud-brick towers of Shibam and Tarim. From the late 19th century these sultanates entered treaty relations with Britain, and they were swept away by the 1967 revolution.",
+    "ko": "동부 예멘은 오랫동안 여러 지방 세력으로 나뉘어 있었다. 사이운과 타림의 카시리 술탄, 소코트라까지 다스린 마흐라 술탄, 그리고 19세기부터는 인도 하이데라바드에서의 복무로 부를 쌓은 무칼라와 시흐르의 쿠아이티 술탄이 있었다. 하드라미 상인과 학자들은 동아프리카, 인도, 동남아시아로 널리 이주해 부를 고향으로 보냈고, 그 돈으로 시밤과 타림의 흙벽돌 고층 건물이 지어졌다. 19세기 말부터 이 술탄국들은 영국과 조약 관계를 맺었으며, 1967년 혁명으로 소멸했다.",
+    "zh": "也门东部长期由多股地方势力分治：赛文和塔里姆的卡锡里苏丹、兼领索科特拉岛的马赫拉苏丹，以及19世纪起凭借在印度海得拉巴服役致富的穆卡拉与希赫尔的古艾提苏丹。哈德拉毛的商人和学者广泛移居东非、印度和东南亚，将财富汇回故乡，建起了希巴姆和塔里姆的泥砖高楼。19世纪末起，这些苏丹国与英国缔结条约关系，1967年革命后被废除。",
+    "ja": "東部イエメンは長く地方勢力に分かれていた。サイウーンとタリームのカスィーリー朝スルタン、ソコトラ島も治めたマフラのスルタン、そして19世紀からはインドのハイダラーバードでの軍務で富を築いたムカッラーとシフルのクアイティー朝スルタンである。ハドラミーの商人や学者は東アフリカ、インド、東南アジアへ広く移住して富を故郷に送り、その資金でシバームやタリームの日干し煉瓦の高層建築が建てられた。19世紀末からこれらのスルタン国はイギリスと条約関係を結び、1967年の革命で消滅した。"
+   }
+  },
+  {
+   "from": 1454,
+   "to": 1517,
+   "kind": "state",
+   "qid": "Q373981",
+   "polity": "Tahirid Sultanate",
+   "name": {
+    "en": "Tahirid Sultanate",
+    "ko": "타히르 왕조",
+    "zh": "塔希尔王朝",
+    "ja": "ターヒル朝"
+   },
+   "summary": {
+    "en": "The Tahirids, a local family from the Rada' and Juban area, succeeded the Rasulids in 1454 and ruled the south and Tihama from bases such as Rada', Taiz and Aden. They were notable builders, leaving the richly decorated Amiriya Madrasa in Rada'. Their sultanate collapsed in 1517 after defeat by a Mamluk expedition armed with gunpowder weapons.",
+    "ko": "라다아와 주반 지역 출신의 토착 가문인 타히르 왕조는 1454년 라술 왕조를 계승해 라다아, 타이즈, 아덴 등을 거점으로 남부와 티하마를 다스렸다. 이들은 건축에 힘써 라다아에 화려하게 장식된 아미리야 마드라사를 남겼다. 술탄국은 화기로 무장한 맘루크 원정군에 패한 뒤 1517년 붕괴했다.",
+    "zh": "塔希尔家族是来自拉达阿和朱班一带的本土家族，1454年继承拉苏里王朝，以拉达阿、塔伊兹和亚丁等地为据点统治南部和帖哈麦。他们热衷营建，在拉达阿留下了装饰华美的阿米里亚经学院。该苏丹国在被装备火器的马穆鲁克远征军击败后，于1517年瓦解。",
+    "ja": "ラダーアとジュバーン地方出身の在地の一族であるターヒル朝は、1454年にラスール朝を継ぎ、ラダーア・タイズ・アデンなどを拠点に南部とティハーマを治めた。彼らは建築に熱心で、ラダーアに華麗な装飾のアーミリーヤ・マドラサを残した。スルタン国は火器で武装したマムルーク朝の遠征軍に敗れ、1517年に崩壊した。"
+   }
+  },
+  {
+   "from": 1515,
+   "to": 1517,
+   "kind": "state",
+   "qid": "Q282428",
+   "polity": "Mamluk Sultanate",
+   "name": {
+    "en": "Mamluk Expedition",
+    "ko": "맘루크 원정기",
+    "zh": "马穆鲁克远征时期",
+    "ja": "マムルーク朝の遠征"
+   },
+   "summary": {
+    "en": "Alarmed by Portuguese naval power in the Red Sea, the Mamluk Sultanate of Egypt sent a fleet and army to Yemen in 1515. When the Tahirid sultan refused support, the Mamluks turned on him and took Zabid and much of the Tihama. Within two years the Mamluk state itself fell to the Ottomans, and its garrison in Yemen passed under Ottoman suzerainty.",
+    "ko": "홍해에서 포르투갈 해군의 위협에 놀란 이집트의 맘루크 술탄국은 1515년 예멘에 함대와 군대를 보냈다. 타히르 술탄이 협력을 거부하자 맘루크군은 그를 공격해 자비드와 티하마 대부분을 차지했다. 그러나 2년 만에 맘루크 국가 자체가 오스만 제국에 멸망했고, 예멘의 맘루크 주둔군은 오스만의 종주권 아래 들어갔다.",
+    "zh": "红海上葡萄牙海军的威胁令埃及马穆鲁克苏丹国警觉，1515年它派遣舰队和军队前往也门。塔希尔苏丹拒绝合作后，马穆鲁克军转而攻打他，夺取了扎比德和帖哈麦大部。两年之内马穆鲁克国家本身被奥斯曼帝国所灭，其在也门的驻军遂归奥斯曼宗主权之下。",
+    "ja": "紅海におけるポルトガル海軍の脅威に危機感を抱いたエジプトのマムルーク朝は、1515年にイエメンへ艦隊と軍を送った。ターヒル朝のスルタンが協力を拒むと、マムルーク軍は彼を攻撃してザビードとティハーマの大半を奪った。だが2年のうちにマムルーク朝自体がオスマン帝国に滅ぼされ、イエメンの駐留軍はオスマンの宗主権下に入った。"
+   }
+  },
+  {
+   "from": 1517,
+   "to": 1636,
+   "kind": "colonial",
+   "qid": "Q12560",
+   "polity": "Ottoman Empire",
+   "name": {
+    "en": "First Ottoman Period",
+    "ko": "제1차 오스만 지배기",
+    "zh": "第一次奥斯曼统治时期",
+    "ja": "第一次オスマン支配期"
+   },
+   "summary": {
+    "en": "The Ottomans inherited the Mamluk foothold in 1517, took Aden in 1538 and gradually pushed into the highlands, capturing Sanaa in 1547. Their rule was contested by the Zaydi imams, provoking major revolts in the 1560s and again from 1597 under al-Mansur al-Qasim. Unable to hold the country, the Ottomans withdrew completely in 1636.",
+    "ko": "오스만 제국은 1517년 맘루크의 거점을 물려받고 1538년 아덴을 장악한 뒤 점차 고원으로 진출해 1547년 사나를 점령했다. 그러나 자이드파 이맘들의 저항으로 1560년대와 1597년 이후 알만수르 알카심의 대규모 봉기가 일어났다. 결국 나라를 유지하지 못한 오스만은 1636년 예멘에서 완전히 철수했다.",
+    "zh": "奥斯曼帝国于1517年继承马穆鲁克的据点，1538年夺取亚丁，并逐步向高原推进，于1547年攻占萨那。其统治遭到宰德派伊玛目的抵抗，16世纪60年代以及1597年起曼苏尔·卡西姆领导下相继爆发大规模起义。奥斯曼人终究无法维持统治，于1636年完全撤出也门。",
+    "ja": "オスマン帝国は1517年にマムルーク朝の拠点を引き継ぎ、1538年にアデンを奪うと次第に高原へ進出し、1547年にサナアを占領した。しかしザイド派イマームの抵抗に遭い、1560年代と1597年以降のマンスール・カースィムのもとで大反乱が起きた。国土を保てなくなったオスマンは1636年にイエメンから完全に撤退した。"
+   }
+  },
+  {
+   "from": 1597,
+   "to": 1872,
+   "kind": "state",
+   "qid": null,
+   "polity": "Qasimids",
+   "name": {
+    "en": "Qasimid Imamate",
+    "ko": "카심 왕조 이맘국",
+    "zh": "卡西姆伊玛目王朝",
+    "ja": "カースィム朝イマーム国"
+   },
+   "summary": {
+    "en": "Founded by al-Mansur al-Qasim's revolt against the Ottomans in 1597, the Qasimid line of Zaydi imams expelled the Turks in 1636 and by the mid-17th century ruled from Aden to Hadramawt. Their state profited from the coffee trade through Mocha, which drew European merchants. From the 18th century the realm shrank as southern sultanates broke away and tribal and family rivalries grew, and the Ottomans returned to Sanaa in 1872.",
+    "ko": "1597년 알만수르 알카심의 반오스만 봉기로 시작된 자이드파 카심 이맘 가문은 1636년 튀르크인을 몰아내고 17세기 중엽에는 아덴에서 하드라마우트까지 지배했다. 그들의 국가는 유럽 상인들을 끌어들인 모카 항의 커피 무역으로 이익을 얻었다. 18세기부터 남부 술탄국들이 이탈하고 부족 및 가문 간 경쟁이 커지면서 영역이 줄었고, 1872년 오스만이 사나로 돌아왔다.",
+    "zh": "1597年曼苏尔·卡西姆发动反奥斯曼起义，由此兴起的宰德派卡西姆伊玛目家族于1636年驱逐土耳其人，到17世纪中叶统治范围西起亚丁、东至哈德拉毛。该政权从吸引欧洲商人的穆哈港咖啡贸易中获利丰厚。18世纪起，南部诸苏丹国相继脱离，部族和家族间的竞争加剧，领土日益缩小，1872年奥斯曼人重返萨那。",
+    "ja": "1597年のマンスール・カースィムの反オスマン蜂起に始まるザイド派のカースィム家イマームは、1636年にトルコ人を追い出し、17世紀半ばにはアデンからハドラマウトまでを支配した。その国家はヨーロッパ商人を引き寄せたモカ港のコーヒー交易で潤った。18世紀からは南部のスルタン国が離反し、部族や一族間の対立が強まって領域は縮小し、1872年にオスマンがサナアに戻った。"
+   }
+  },
+  {
+   "from": 1728,
+   "to": 1967,
+   "kind": "state",
+   "qid": "Q404774",
+   "polity": null,
+   "name": {
+    "en": "Sultanate of Lahej",
+    "ko": "라히즈 술탄국",
+    "zh": "拉赫季苏丹国",
+    "ja": "ラヒジュ・スルタン国"
+   },
+   "summary": {
+    "en": "The Abdali sultans of Lahej broke away from the Zaydi imams in 1728 and also controlled the nearby port of Aden. In 1839 Sultan Muhsin lost Aden to the British, but Lahej remained the most important of the small states of the western Aden hinterland. It became a British protected state and was absorbed into South Yemen in 1967.",
+    "ko": "라히즈의 압달리 술탄들은 1728년 자이드파 이맘에게서 독립했고 인근 아덴 항도 지배했다. 1839년 술탄 무흐신이 아덴을 영국에 잃었지만, 라히즈는 아덴 서부 배후지의 소국들 가운데 가장 중요한 나라로 남았다. 라히즈는 영국의 보호국이 되었다가 1967년 남예멘에 편입되었다.",
+    "zh": "拉赫季的阿卜达利苏丹于1728年脱离宰德派伊玛目独立，并控制附近的亚丁港。1839年，穆赫辛苏丹将亚丁丢给英国，但拉赫季仍是亚丁西部腹地诸小邦中最重要的一个。它后来成为英国保护国，1967年并入南也门。",
+    "ja": "ラヒジュのアブダリー家のスルタンは1728年にザイド派イマームから独立し、近隣のアデン港も支配した。1839年にスルタン・ムフスィンがアデンをイギリスに奪われたが、ラヒジュはアデン西部後背地の小国の中で最も重要な国であり続けた。イギリスの保護国となった後、1967年に南イエメンに編入された。"
+   }
+  },
+  {
+   "from": 1839,
+   "to": 1967,
+   "kind": "colonial",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "British Aden and the Aden Protectorate",
+    "ko": "영국령 아덴과 아덴 보호령",
+    "zh": "英属亚丁与亚丁保护地",
+    "ja": "英領アデンとアデン保護領"
+   },
+   "summary": {
+    "en": "Britain seized Aden in 1839 and ruled it from British India until 1937, when it became a Crown Colony. Through protection treaties signed from the 1880s onward, some two dozen sultanates, emirates and sheikhdoms of the hinterland formed the Aden Protectorate. In the 1960s Britain grouped them into the Federation of South Arabia, but a nationalist insurgency forced its withdrawal in November 1967.",
+    "ko": "영국은 1839년 아덴을 점령해 1937년 직할 식민지가 될 때까지 영국령 인도를 통해 다스렸다. 1880년대부터 맺은 보호 조약을 통해 배후지의 20여 개 술탄국, 에미르국, 셰이크국이 아덴 보호령을 이루었다. 1960년대 영국은 이들을 남아라비아 연방으로 묶었지만, 민족주의 무장 투쟁에 밀려 1967년 11월 철수했다.",
+    "zh": "英国于1839年占领亚丁，经由英属印度管辖，直至1937年改为直辖殖民地。通过19世纪80年代起签订的保护条约，腹地二十余个苏丹国、埃米尔国和谢赫国构成了亚丁保护地。20世纪60年代英国将它们组成南阿拉伯联邦，但在民族主义武装斗争下，于1967年11月撤出。",
+    "ja": "イギリスは1839年にアデンを占領し、1937年に直轄植民地となるまで英領インドを通じて統治した。1880年代以降に結ばれた保護条約によって、後背地の20余りのスルタン国・首長国・シャイフ国がアデン保護領を形成した。1960年代、イギリスはこれらを南アラビア連邦にまとめたが、民族主義の武装闘争に押されて1967年11月に撤退した。"
+   }
+  },
+  {
+   "from": 1849,
+   "to": 1918,
+   "kind": "colonial",
+   "qid": "Q12560",
+   "polity": "Ottoman Empire",
+   "name": {
+    "en": "Second Ottoman Period",
+    "ko": "제2차 오스만 지배기",
+    "zh": "第二次奥斯曼统治时期",
+    "ja": "第二次オスマン支配期"
+   },
+   "summary": {
+    "en": "The Ottomans returned to the Tihama in 1849 and, after the opening of the Suez Canal, occupied Sanaa in 1872, organising North Yemen as the Vilayet of Yemen. Their rule faced persistent Zaydi rebellion, culminating in Imam Yahya's uprisings of 1904–1911. The 1911 Treaty of Da'an gave the imam autonomy in the Zaydi highlands, and the Ottomans left after their defeat in the First World War.",
+    "ko": "오스만 제국은 1849년 티하마로 돌아왔고, 수에즈 운하가 개통된 뒤인 1872년 사나를 점령해 북예멘을 예멘 주로 편성했다. 그들의 통치는 끊임없는 자이드파 반란에 부딪혔고, 1904~1911년 이맘 야히아의 봉기로 절정에 달했다. 1911년 다안 조약으로 이맘은 자이드파 고원에서 자치를 얻었고, 오스만은 제1차 세계 대전 패전 후 떠났다.",
+    "zh": "奥斯曼帝国于1849年重返帖哈麦，苏伊士运河开通后于1872年占领萨那，将北也门设为也门州。其统治不断遭遇宰德派叛乱，1904至1911年伊玛目叶海亚的起义达到高潮。1911年《达安条约》给予伊玛目在宰德派高原的自治权，奥斯曼人在第一次世界大战战败后撤离。",
+    "ja": "オスマン帝国は1849年にティハーマへ戻り、スエズ運河開通後の1872年にサナアを占領して北イエメンをイエメン州とした。その統治は絶え間ないザイド派の反乱に直面し、1904〜1911年のイマーム・ヤフヤーの蜂起で頂点に達した。1911年のダアーン条約でイマームはザイド派の高原で自治を得て、オスマンは第一次世界大戦の敗北後に去った。"
+   }
+  },
+  {
+   "from": 1918,
+   "to": 1962,
+   "kind": "state",
+   "qid": null,
+   "polity": "North Yemen",
+   "name": {
+    "en": "Mutawakkilite Kingdom of Yemen",
+    "ko": "무타와킬 왕국",
+    "zh": "也门穆塔瓦基利亚王国",
+    "ja": "ムタワッキル王国"
+   },
+   "summary": {
+    "en": "After the Ottoman withdrawal, Imam Yahya Muhammad Hamid al-Din ruled North Yemen as an independent kingdom, later called the Mutawakkilite Kingdom. He and his son Imam Ahmad kept the country largely closed to the outside world, with few roads, schools or hospitals. Border wars with Saudi Arabia and disputes with British Aden marked the period, and growing opposition culminated in the 1962 revolution.",
+    "ko": "오스만이 철수한 뒤 이맘 야히아 무함마드 하미드 앗딘은 북예멘을 독립 왕국으로 다스렸고, 이 나라는 훗날 무타와킬 왕국으로 불렸다. 그와 아들 이맘 아흐마드는 도로, 학교, 병원이 거의 없는 상태로 나라를 외부 세계에 거의 닫아 두었다. 이 시기에는 사우디아라비아와의 국경 전쟁과 영국령 아덴과의 분쟁이 이어졌고, 커져 가던 반대 세력은 1962년 혁명으로 폭발했다.",
+    "zh": "奥斯曼撤离后，伊玛目叶海亚·穆罕默德·哈米德丁将北也门作为独立王国统治，该国后称穆塔瓦基利亚王国。他和儿子伊玛目艾哈迈德使国家基本与外界隔绝，道路、学校和医院寥寥无几。这一时期与沙特阿拉伯爆发边境战争，并与英属亚丁纷争不断，日益壮大的反对力量最终在1962年革命中爆发。",
+    "ja": "オスマン撤退後、イマーム・ヤフヤー・ムハンマド・ハミードッディーンは北イエメンを独立王国として治め、この国は後にムタワッキル王国と呼ばれた。彼と息子のイマーム・アフマドは国をほぼ外界から閉ざし、道路や学校、病院はわずかしかなかった。この時期にはサウジアラビアとの国境戦争や英領アデンとの紛争が続き、高まる反対勢力は1962年の革命で爆発した。"
+   }
+  },
+  {
+   "from": 1962,
+   "to": 1990,
+   "kind": "state",
+   "qid": "Q267584",
+   "polity": null,
+   "name": {
+    "en": "Yemen Arab Republic (North Yemen)",
+    "ko": "예멘 아랍 공화국 (북예멘)",
+    "zh": "阿拉伯也门共和国（北也门）",
+    "ja": "イエメン・アラブ共和国（北イエメン）"
+   },
+   "summary": {
+    "en": "Proclaimed by army officers in September 1962, the Yemen Arab Republic survived an eight-year civil war against royalists, during which Egypt sent tens of thousands of troops. After a series of coups and assassinations in the 1970s, Ali Abdullah Saleh took power in 1978 and ruled through a balance of army, tribes and patronage. Oil discovered in Marib in 1984 and remittances from workers in Saudi Arabia sustained the economy until unification in 1990.",
+    "ko": "1962년 9월 군 장교들이 선포한 예멘 아랍 공화국은 왕당파와의 8년 내전을 버텨냈고, 이 기간 이집트는 수만 명의 병력을 파견했다. 1970년대 잇따른 쿠데타와 암살 끝에 1978년 알리 압둘라 살레가 집권해 군, 부족, 후원 관계의 균형으로 나라를 다스렸다. 1984년 마리브에서 발견된 석유와 사우디아라비아 이주 노동자의 송금이 1990년 통일 때까지 경제를 지탱했다.",
+    "zh": "阿拉伯也门共和国由军官集团于1962年9月宣告成立，在与保皇派长达八年的内战中存活下来，其间埃及派出数万军队。经过20世纪70年代一连串政变和暗杀，阿里·阿卜杜拉·萨利赫于1978年掌权，依靠军队、部族与恩庇关系之间的平衡进行统治。1984年在马里卜发现的石油以及旅沙特劳工的侨汇支撑着经济，直至1990年统一。",
+    "ja": "1962年9月に軍将校らが宣言したイエメン・アラブ共和国は、王党派との8年に及ぶ内戦を生き延び、その間エジプトは数万の兵力を派遣した。1970年代の相次ぐクーデターと暗殺を経て、1978年にアリー・アブドッラー・サーレハが政権を握り、軍・部族・恩顧関係の均衡によって統治した。1984年にマーリブで発見された石油とサウジアラビアへの出稼ぎ労働者の送金が、1990年の統一まで経済を支えた。"
+   }
+  },
+  {
+   "from": 1967,
+   "to": 1990,
+   "kind": "state",
+   "qid": "Q199841",
+   "polity": "People's Democratic Republic of Yemen",
+   "name": {
+    "en": "People's Democratic Republic of Yemen (South Yemen)",
+    "ko": "예멘 인민민주공화국 (남예멘)",
+    "zh": "也门民主人民共和国（南也门）",
+    "ja": "イエメン民主人民共和国（南イエメン）"
+   },
+   "summary": {
+    "en": "Born from the National Liberation Front's victory over Britain in 1967, South Yemen took a Marxist course after 1969, renaming itself the People's Democratic Republic of Yemen in 1970. Ruled by the Yemeni Socialist Party and allied with the Soviet Union, it expanded education and women's rights while nationalising the economy. Factional violence, above all the 1986 civil war, and the end of Soviet aid led it to unite with the North in 1990.",
+    "ko": "1967년 민족해방전선이 영국을 상대로 승리하며 탄생한 남예멘은 1969년 이후 마르크스주의 노선을 택했고 1970년 국호를 예멘 인민민주공화국으로 바꾸었다. 예멘 사회당이 통치하고 소련과 동맹을 맺은 이 나라는 경제를 국유화하는 한편 교육과 여성 권리를 확대했다. 1986년 내전을 비롯한 파벌 폭력과 소련 원조의 중단으로 결국 1990년 북예멘과 통합했다.",
+    "zh": "南也门诞生于1967年民族解放阵线对英国的胜利，1969年后走上马克思主义道路，并于1970年改国名为也门民主人民共和国。该国由也门社会党执政，与苏联结盟，在推行经济国有化的同时扩大教育和妇女权利。以1986年内战为代表的派系暴力以及苏联援助的中断，促使其于1990年与北方统一。",
+    "ja": "1967年に民族解放戦線がイギリスに勝利して誕生した南イエメンは、1969年以降マルクス主義路線をとり、1970年に国名をイエメン民主人民共和国と改めた。イエメン社会党が統治しソ連と同盟したこの国は、経済を国有化する一方で教育と女性の権利を拡大した。1986年の内戦をはじめとする派閥抗争とソ連援助の途絶により、1990年に北と統合した。"
+   }
+  },
+  {
+   "from": 1990,
+   "to": 2026,
+   "kind": "state",
+   "qid": null,
+   "polity": "Republic of Yemen",
+   "name": {
+    "en": "Republic of Yemen",
+    "ko": "예멘 공화국",
+    "zh": "也门共和国",
+    "ja": "イエメン共和国"
+   },
+   "summary": {
+    "en": "The unified Republic of Yemen was proclaimed on 22 May 1990 with Ali Abdullah Saleh as president. A brief southern secession was crushed in the 1994 war, after which Saleh's General People's Congress dominated politics amid poverty, corruption, a Houthi insurgency in the north and an al-Qaeda presence. The 2011 uprising forced Saleh out, but the transition collapsed into civil war from 2014.",
+    "ko": "1990년 5월 22일 알리 압둘라 살레를 대통령으로 하는 통일 예멘 공화국이 선포되었다. 1994년 전쟁으로 남부의 짧은 분리 독립 시도가 진압된 뒤, 살레의 국민전체회의가 빈곤, 부패, 북부의 후티 반란, 알카에다의 활동 속에서 정치를 장악했다. 2011년 봉기로 살레가 물러났지만, 이행 과정은 2014년부터 내전으로 무너졌다.",
+    "zh": "1990年5月22日，统一的也门共和国宣告成立，阿里·阿卜杜拉·萨利赫任总统。1994年战争镇压了南方短暂的分离，此后萨利赫的全国人民大会党主导政局，而国家深陷贫困、腐败、北方胡塞叛乱和“基地”组织活动之中。2011年起义迫使萨利赫下台，但政治过渡自2014年起崩溃为内战。",
+    "ja": "1990年5月22日、アリー・アブドッラー・サーレハを大統領とする統一イエメン共和国が宣言された。1994年の戦争で南部の短い分離独立が鎮圧された後、サーレハの国民全体会議が貧困・汚職・北部のフーシ派の反乱・アルカイダの活動の中で政治を支配した。2011年の蜂起でサーレハは退いたが、移行過程は2014年から内戦へと崩れた。"
+   }
+  },
+  {
+   "from": 2014,
+   "to": 2026,
+   "kind": "period",
+   "qid": "Q19686631",
+   "polity": null,
+   "name": {
+    "en": "Yemeni Civil War",
+    "ko": "예멘 내전",
+    "zh": "也门内战",
+    "ja": "イエメン内戦"
+   },
+   "summary": {
+    "en": "Since the Houthi (Ansar Allah) movement seized Sanaa in 2014, Yemen has been divided between the Houthis in the north-west, the internationally recognised government and its allies, and southern separatists. A Saudi-led coalition intervened in 2015, and the war produced famine, mass displacement and a cholera epidemic. From late 2023 Houthi attacks on Red Sea shipping and on Israel drew US, British and Israeli strikes on Yemen.",
+    "ko": "후티(안사르 알라) 운동이 2014년 사나를 장악한 이후 예멘은 북서부의 후티, 국제적으로 승인된 정부와 그 동맹 세력, 남부 분리주의자로 나뉘어 있다. 2015년 사우디아라비아 주도 연합군이 개입했고, 전쟁은 기근, 대규모 피란, 콜레라 유행을 낳았다. 2023년 말부터 후티의 홍해 선박 공격과 이스라엘 공격으로 미국, 영국, 이스라엘이 예멘을 공습했다.",
+    "zh": "自胡塞（安萨尔安拉）运动于2014年攻占萨那以来，也门分裂为西北部的胡塞武装、国际承认的政府及其盟友，以及南方分离主义者。2015年沙特领导的联军介入，战争造成饥荒、大规模流离失所和霍乱疫情。2023年底起，胡塞武装袭击红海船只并攻击以色列，招致美国、英国和以色列对也门的空袭。",
+    "ja": "フーシ派（アンサール・アッラー）が2014年にサナアを掌握して以来、イエメンは北西部のフーシ派、国際的に承認された政府とその同盟勢力、南部分離派に分かれている。2015年にサウジアラビア主導の連合軍が介入し、戦争は飢饉・大規模な避難・コレラの流行をもたらした。2023年末からはフーシ派による紅海の船舶攻撃やイスラエル攻撃を受け、米英とイスラエルがイエメンを空爆した。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -3000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Early farming villages in the highlands",
+    "ko": "고원의 초기 농경 마을",
+    "zh": "高原早期农耕村落",
+    "ja": "高原の初期農耕村落"
+   },
+   "description": {
+    "en": "From around 3000 BC, Bronze Age communities in the Yemeni highlands lived in small stone-built hilltop villages, raising cattle and growing crops with the help of rain-fed fields. Early check dams and terraces began a tradition of water management that would define Yemeni agriculture. These settlements are known mainly from surveys in the Khawlan and Dhamar regions.",
+    "ko": "기원전 3000년 무렵부터 예멘 고원의 청동기 공동체들은 언덕 위 소규모 석조 마을에 살며 소를 기르고 빗물에 의존하는 밭에서 작물을 길렀다. 초기의 작은 보와 계단식 밭은 예멘 농업을 규정할 물 관리 전통의 시작이었다. 이러한 취락은 주로 하울란과 다마르 지역의 조사로 알려져 있다.",
+    "zh": "约公元前3000年起，也门高原的青铜时代社群居住在山顶的小型石砌村落中，饲养牛群，依靠雨养田地种植作物。早期的拦水坝和梯田开启了此后决定也门农业面貌的水利传统。这些聚落主要通过在豪兰和扎马尔地区的考古调查而为人所知。",
+    "ja": "紀元前3000年頃から、イエメン高原の青銅器時代の共同体は丘上の小さな石造りの村に住み、牛を飼い、天水に頼る畑で作物を育てた。初期の小さな堰や段々畑は、イエメン農業を特徴づける水管理の伝統の始まりであった。こうした集落は主にハウラーンやザマール地方の調査によって知られている。"
+   }
+  },
+  {
+   "year": -1400,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Sabir culture on the southern coast",
+    "ko": "남부 해안의 사비르 문화",
+    "zh": "南部沿海的萨比尔文化",
+    "ja": "南部沿岸のサビル文化"
+   },
+   "description": {
+    "en": "By the mid-2nd millennium BC, the Sabir culture flourished in the coastal plain north of Aden, with large settlements, irrigation farming and distinctive pottery. Finds suggest exchange across the Bab al-Mandab with the Horn of Africa. The culture is dated approximately, and its links to the later Sabaean state remain uncertain.",
+    "ko": "기원전 2천년기 중엽 무렵 아덴 북쪽 해안 평야에서는 사비르 문화가 번성해 큰 취락, 관개 농업, 독특한 토기를 남겼다. 출토품은 바브엘만데브 해협 너머 아프리카의 뿔 지역과의 교류를 보여 준다. 이 문화의 연대는 대략적으로만 추정되며, 후대 사바 국가와의 관계도 불확실하다.",
+    "zh": "约公元前二千纪中叶，萨比尔文化在亚丁以北的沿海平原繁荣，留下了大型聚落、灌溉农业和独特的陶器。出土物显示其与曼德海峡对岸的非洲之角存在交流。该文化的年代只是大致推定，与后来赛伯邑国家的关系也尚不明确。",
+    "ja": "紀元前2千年紀半ば頃、アデン北方の沿岸平野ではサビル文化が栄え、大きな集落、灌漑農業、独特の土器を残した。出土品はバブ・エル・マンデブ海峡を越えたアフリカの角との交流をうかがわせる。この文化の年代はおおよそのものにすぎず、後のサバア国家との関係も定かではない。"
+   }
+  },
+  {
+   "year": -1000,
+   "qid": "Q216068",
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "Kingdom of Saba and the Incense Trade",
+    "ko": "사바 왕국과 유향 무역",
+    "zh": "赛伯邑王国与乳香贸易",
+    "ja": "サバア王国と乳香交易"
+   },
+   "description": {
+    "en": "The kingdom of Saba, linked to the biblical Sheba, rose in ancient Yemen on the wealth of frankincense and myrrh caravans, making South Arabia a crossroads of the ancient world. Inscriptions in the South Arabian alphabet survive from around the 8th century BC, and the kingdom's earliest chronology is still debated.",
+    "ko": "성서의 시바로 알려진 사바 왕국이 고대 예멘에서 번성했다. 유향과 몰약 대상 무역이 가져다준 부를 바탕으로 남아라비아는 고대 세계의 교역 요충지가 되었다. 남아라비아 문자로 된 비문은 기원전 8세기 무렵부터 남아 있으며, 왕국의 가장 이른 연대는 여전히 논쟁 중이다.",
+    "zh": "与《圣经》中示巴相关的赛伯邑王国在古代也门兴起，凭借乳香和没药商队贸易积累财富，使南阿拉伯成为古代世界的商路枢纽。以南阿拉伯字母书写的铭文约自公元前8世纪起留存下来，王国最早的年代至今仍有争议。",
+    "ja": "旧約聖書のシバとされるサバア王国が古代イエメンで栄えた。乳香と没薬の隊商交易がもたらす富により、南アラビアは古代世界の交易の要衝となった。南アラビア文字の碑文は紀元前8世紀頃から残っており、王国の最も古い年代については今も議論がある。"
+   }
+  },
+  {
+   "year": -950,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Tradition of the Queen of Sheba",
+    "ko": "시바 여왕 전승",
+    "zh": "示巴女王的传说",
+    "ja": "シバの女王の伝承"
+   },
+   "description": {
+    "en": "According to the Hebrew Bible, a Queen of Sheba visited King Solomon in Jerusalem, traditionally placed in the 10th century BC, bringing gold, spices and precious stones. The story, later elaborated in the Quran (as Bilqis), Ethiopian tradition and Yemeni lore, is widely linked to Saba. No contemporary inscription confirms her existence, and the date is purely traditional.",
+    "ko": "히브리 성경에 따르면 시바의 여왕이 예루살렘의 솔로몬 왕을 방문해 금과 향료, 보석을 바쳤으며, 전통적으로 이는 기원전 10세기의 일로 여겨진다. 이 이야기는 이후 쿠란(빌키스), 에티오피아 전승, 예멘 민간전승에서 더욱 확장되었고 흔히 사바와 연결된다. 그녀의 실재를 입증하는 당대 비문은 없으며, 연대는 순전히 전승에 따른 것이다.",
+    "zh": "据希伯来圣经记载，示巴女王曾到耶路撒冷拜访所罗门王，献上黄金、香料和宝石，传统上将此事定于公元前10世纪。这一故事后来在《古兰经》（称比尔基斯）、埃塞俄比亚传统和也门民间传说中不断演绎，通常与赛伯邑联系在一起。尚无同时代铭文证实她的存在，其年代纯属传说。",
+    "ja": "ヘブライ語聖書によれば、シバの女王がエルサレムのソロモン王を訪ね、金や香料、宝石を献じたとされ、伝統的に紀元前10世紀のこととされる。この物語は後にクルアーン（ビルキース）、エチオピアの伝承、イエメンの民間伝承で膨らまされ、一般にサバアと結びつけられている。彼女の実在を裏づける同時代の碑文はなく、年代はあくまで伝承によるものである。"
+   }
+  },
+  {
+   "year": -715,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Saba appears in Assyrian records",
+    "ko": "아시리아 기록에 등장한 사바",
+    "zh": "亚述文献中的赛伯邑",
+    "ja": "アッシリアの記録に現れたサバア"
+   },
+   "description": {
+    "en": "The annals of the Assyrian king Sargon II record tribute from 'It'amra the Sabaean' in the late 8th century BC, and Sennacherib later received gifts from 'Karibilu', king of Saba. These references, matching names in Sabaean inscriptions, are key anchors for dating early South Arabian history. They show that Saba's incense wealth was already known in Mesopotamia.",
+    "ko": "아시리아 왕 사르곤 2세의 연대기에는 기원전 8세기 말 '사바인 이타므라'의 공물이 기록되어 있고, 이후 센나케리브는 사바 왕 '카리빌루'의 선물을 받았다. 사바 비문의 이름과 일치하는 이 기록들은 초기 남아라비아 역사의 연대를 정하는 핵심 기준점이다. 이는 사바의 유향 부가 이미 메소포타미아에 알려져 있었음을 보여 준다.",
+    "zh": "亚述国王萨尔贡二世的编年史记载了公元前8世纪末“赛伯邑人伊塔姆拉”的贡品，其后辛那赫里布又收到赛伯邑国王“卡里比卢”的礼物。这些记载与赛伯邑铭文中的人名相吻合，是确定早期南阿拉伯历史年代的关键依据，也表明赛伯邑的乳香财富早已为美索不达米亚所知。",
+    "ja": "アッシリア王サルゴン2世の年代記には、紀元前8世紀末に「サバア人イトアムラ」からの貢物が記録され、のちにセンナケリブもサバア王「カリビル」から贈り物を受けた。サバアの碑文の人名と一致するこれらの記録は、初期南アラビア史の年代を定める重要な手がかりである。サバアの乳香の富がすでにメソポタミアに知られていたことを示している。"
+   }
+  },
+  {
+   "year": -700,
+   "qid": null,
+   "importance": 2,
+   "category": "science",
+   "title": {
+    "en": "The Great Dam of Marib",
+    "ko": "마리브 대댐 건설",
+    "zh": "马里卜大坝建成",
+    "ja": "マーリブの大ダム建設"
+   },
+   "description": {
+    "en": "Sabaean engineers built the Great Dam of Marib, one of antiquity's greatest works of engineering, irrigating vast oasis gardens that sustained South Arabian civilization for over a millennium. Its huge stone sluices, whose remains still stand near Marib, were repaired many times over the centuries; the date of about 700 BC is approximate.",
+    "ko": "사바인들이 고대 최대급 토목 구조물인 마리브 대댐을 건설했다. 댐은 광대한 오아시스 농경지에 물을 대며 천 년 넘게 남아라비아 문명을 지탱했다. 마리브 근처에 지금도 남아 있는 거대한 석조 수문은 여러 세기에 걸쳐 거듭 보수되었으며, 기원전 700년 무렵이라는 연대는 대략적인 것이다.",
+    "zh": "赛伯邑人建造了古代最伟大的水利工程之一——马里卜大坝。大坝灌溉广袤的绿洲农田，支撑南阿拉伯文明达千余年之久。大坝巨大的石砌闸口遗迹至今仍矗立在马里卜附近，几个世纪中曾多次修缮；约公元前700年的年代只是大致推定。",
+    "ja": "サバアの技術者たちは古代屈指の土木事業であるマーリブの大ダムを築いた。ダムは広大なオアシス農地を潤し、千年以上にわたり南アラビア文明を支えた。マーリブ近郊に今も残る巨大な石造の水門は何世紀にもわたり繰り返し修復された。紀元前700年頃という年代はおおよそのものである。"
+   }
+  },
+  {
+   "year": -685,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Karib'il Watar's conquests",
+    "ko": "카리브일 와타르의 정복",
+    "zh": "卡里卜伊勒·瓦塔尔的征服",
+    "ja": "カリブイル・ワタルの征服"
+   },
+   "description": {
+    "en": "The Sabaean ruler Karib'il Watar recorded his campaigns in a long inscription at the temple of Almaqah in Sirwah, usually dated to the early 7th century BC. He claimed to have destroyed the kingdom of Awsan, subdued Qataban and the cities of the Jawf, and brought much of South Arabia under Saba. The text is one of the most important historical documents of ancient Arabia, though its exact date is debated.",
+    "ko": "사바의 통치자 카리브일 와타르는 시르와의 알마카 신전에 새긴 긴 비문에 자신의 원정을 기록했으며, 이 비문은 보통 기원전 7세기 초로 추정된다. 그는 아우산 왕국을 멸하고 카타반과 자우프의 도시들을 굴복시켜 남아라비아 대부분을 사바 아래 두었다고 주장했다. 이 비문은 정확한 연대에 논란이 있지만 고대 아라비아의 가장 중요한 역사 문헌 중 하나다.",
+    "zh": "赛伯邑统治者卡里卜伊勒·瓦塔尔在西尔瓦的阿尔马卡神庙刻下长篇铭文记述其征战，一般认为年代在公元前7世纪初。他声称摧毁了奥桑王国，降服了盖特拜和焦夫诸城，使南阿拉伯大部归于赛伯邑。尽管确切年代仍有争议，这篇铭文仍是古代阿拉伯最重要的史料之一。",
+    "ja": "サバアの支配者カリブイル・ワタルは、スィルワーフのアルマカ神殿に長大な碑文を刻んで自らの遠征を記録した。これは通常紀元前7世紀初めのものとされる。彼はアウサン王国を滅ぼし、カタバーンとジャウフの諸都市を服属させ、南アラビアの大半をサバアの下に置いたと主張した。正確な年代には議論があるものの、古代アラビアで最も重要な歴史史料の一つである。"
+   }
+  },
+  {
+   "year": -400,
+   "qid": "Q748595",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Rise of Qataban and Ma'in",
+    "ko": "카타반과 마인의 부상",
+    "zh": "盖特拜与麦因的兴起",
+    "ja": "カタバーンとマインの台頭"
+   },
+   "description": {
+    "en": "From around the 4th century BC, Qataban, with its capital at Timna, and the Minaean cities of the Jawf grew in power as Saba's dominance loosened. Minaean merchants organised the caravan trade to the north, keeping a trading colony at Dedan, while Qataban issued coins and a detailed market law. The incense route made these desert-edge cities wealthy.",
+    "ko": "기원전 4세기 무렵부터 사바의 지배력이 느슨해지자 팀나를 수도로 한 카타반과 자우프의 미나 도시들이 세력을 키웠다. 미나 상인들은 북쪽으로 향하는 대상 무역을 조직해 데단에 교역 거류지를 두었고, 카타반은 화폐와 상세한 시장법을 발행했다. 유향길은 사막 가장자리의 이 도시들을 부유하게 만들었다.",
+    "zh": "约自公元前4世纪起，随着赛伯邑的支配力减弱，以提姆纳为都的盖特拜和焦夫地区的麦因诸城势力日盛。麦因商人组织北上的商队贸易，在德丹设有商业侨居地；盖特拜则铸造钱币并颁布详尽的市场法。乳香之路使这些沙漠边缘的城市富裕起来。",
+    "ja": "紀元前4世紀頃から、サバアの支配が緩むと、ティムナを都とするカタバーンとジャウフのマイン人の諸都市が力を伸ばした。マインの商人は北方への隊商交易を組織してデダンに交易居留地を置き、カタバーンは貨幣と詳細な市場法を発行した。乳香の道は砂漠の縁のこれらの都市を豊かにした。"
+   }
+  },
+  {
+   "year": -110,
+   "qid": "Q289577",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of Himyar",
+    "ko": "힘야르의 등장",
+    "zh": "希木叶尔兴起",
+    "ja": "ヒムヤルの台頭"
+   },
+   "description": {
+    "en": "Around the late 2nd century BC the Himyarites emerged in the southern highlands, establishing their capital at Zafar. Their era of dating, used in later inscriptions, is generally reckoned from about 110 BC. Himyar gradually displaced Qataban and challenged Saba, profiting from the growing sea trade through Red Sea ports.",
+    "ko": "기원전 2세기 말 무렵 힘야르인들이 남부 고원에서 등장해 자파르를 수도로 삼았다. 후대 비문에 쓰인 힘야르 기년은 대체로 기원전 110년 무렵을 기점으로 계산된다. 힘야르는 점차 카타반을 밀어내고 사바에 도전했으며, 홍해 항구를 통한 해상 무역의 성장으로 이익을 얻었다.",
+    "zh": "约公元前2世纪末，希木叶尔人在南部高原崛起，定都扎法尔。后世铭文所用的希木叶尔纪年一般从约公元前110年起算。希木叶尔逐步取代盖特拜并挑战赛伯邑，从经由红海港口日益兴盛的海上贸易中获利。",
+    "ja": "紀元前2世紀末頃、ヒムヤル人が南部高原に現れ、ザファールを都とした。後の碑文で使われたヒムヤル暦は、一般に紀元前110年頃を起点とする。ヒムヤルは次第にカタバーンを押しのけてサバアに挑み、紅海の港を通じて伸びる海上交易から利益を得た。"
+   }
+  },
+  {
+   "year": -25,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Roman expedition of Aelius Gallus",
+    "ko": "아일리우스 갈루스의 로마 원정",
+    "zh": "埃利乌斯·加卢斯的罗马远征",
+    "ja": "アエリウス・ガッルスのローマ遠征"
+   },
+   "description": {
+    "en": "In 26–25 BC Augustus sent the prefect of Egypt, Aelius Gallus, with an army to conquer 'Arabia Felix' and seize the incense trade. Misled by his Nabataean guide and weakened by disease and thirst, the army reached the Sabaean capital Marib (Mariaba) but had to abandon the siege after a few days. The failure ended Roman ambitions to conquer South Arabia, and Rome turned instead to the sea route.",
+    "ko": "기원전 26~25년 아우구스투스는 이집트 총독 아일리우스 갈루스에게 군대를 주어 '행복한 아라비아'를 정복하고 유향 무역을 장악하게 했다. 나바테아인 안내자의 잘못된 길 안내와 질병, 갈증으로 약해진 군대는 사바의 수도 마리브(마리아바)에 이르렀지만 며칠 만에 포위를 풀어야 했다. 이 실패로 로마의 남아라비아 정복 야망은 끝났고, 로마는 대신 해상 항로에 눈을 돌렸다.",
+    "zh": "公元前26至前25年，奥古斯都派埃及长官埃利乌斯·加卢斯率军征服“幸福阿拉伯”，企图夺取乳香贸易。在纳巴泰向导的误导以及疾病与干渴的折磨下，罗马军抵达赛伯邑首都马里卜（马里亚巴），但围城数日后被迫撤退。这次失败终结了罗马征服南阿拉伯的野心，罗马转而经营海上航路。",
+    "ja": "紀元前26〜25年、アウグストゥスはエジプト長官アエリウス・ガッルスに軍を与え、「幸福のアラビア」を征服して乳香交易を手に入れようとした。ナバテア人の案内人に惑わされ、病気と渇きで弱った軍はサバアの都マーリブ（マリアバ）に達したが、数日で包囲を解かざるを得なかった。この失敗でローマの南アラビア征服の野望は潰え、ローマは代わりに海路に目を向けた。"
+   }
+  },
+  {
+   "year": 50,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Ports of the Periplus",
+    "ko": "『에리트라이해 안내기』의 항구들",
+    "zh": "《厄立特里亚海航行记》中的港口",
+    "ja": "『エリュトゥラー海案内記』の港"
+   },
+   "description": {
+    "en": "The Greek merchant handbook known as the Periplus of the Erythraean Sea, written around the mid-1st century AD, describes South Arabian ports such as Muza on the Red Sea, Eudaimon Arabia (Aden) and Qana, the frankincense port of Hadramawt. It also mentions the island of Dioscorida (Socotra). Monsoon sailing between Egypt and India was now bringing Yemen's coasts into a booming maritime trade.",
+    "ko": "기원후 1세기 중엽 무렵 쓰인 그리스 상인 안내서 『에리트라이해 안내기』는 홍해의 무자, 에우다이몬 아라비아(아덴), 하드라마우트의 유향 항구 카나 같은 남아라비아 항구들을 묘사한다. 이 책은 디오스코리다섬(소코트라)도 언급한다. 이집트와 인도를 잇는 계절풍 항해가 예멘 해안을 번성하는 해상 무역으로 끌어들이고 있었다.",
+    "zh": "约成书于公元1世纪中叶的希腊商人手册《厄立特里亚海航行记》，描述了红海边的穆札、欧代蒙阿拉伯（亚丁）以及哈德拉毛的乳香港口加奈等南阿拉伯港口，还提到了迪奥斯科里达岛（索科特拉岛）。连接埃及与印度的季风航行正把也门沿海卷入繁荣的海上贸易之中。",
+    "ja": "紀元後1世紀半ば頃に書かれたギリシア商人の手引書『エリュトゥラー海案内記』は、紅海のムザ、エウダイモン・アラビア（アデン）、ハドラマウトの乳香港カナーといった南アラビアの港を記している。ディオスコリダ島（ソコトラ島）にも触れている。エジプトとインドを結ぶモンスーン航海が、イエメン沿岸を活況を呈する海上交易に引き込みつつあった。"
+   }
+  },
+  {
+   "year": 180,
+   "qid": "Q1517159",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Hadramawt absorbs Qataban",
+    "ko": "하드라마우트의 카타반 병합",
+    "zh": "哈德拉毛吞并盖特拜",
+    "ja": "ハドラマウトによるカタバーン併合"
+   },
+   "description": {
+    "en": "Around the late 2nd century AD, the kingdom of Qataban, weakened by pressure from Himyar and Saba, was annexed by Hadramawt. Its capital Timna had already been destroyed by fire. South Arabia was now contested by three powers: Saba, Himyar and Hadramawt.",
+    "ko": "기원후 2세기 말 무렵 힘야르와 사바의 압박으로 약해진 카타반 왕국이 하드라마우트에 병합되었다. 그 수도 팀나는 이미 화재로 파괴된 상태였다. 이제 남아라비아는 사바, 힘야르, 하드라마우트의 세 세력이 다투는 무대가 되었다.",
+    "zh": "约公元2世纪末，在希木叶尔与赛伯邑压迫下衰弱的盖特拜王国被哈德拉毛吞并，其都城提姆纳此前已毁于大火。此后南阿拉伯成为赛伯邑、希木叶尔和哈德拉毛三方角逐之地。",
+    "ja": "紀元後2世紀末頃、ヒムヤルとサバアの圧迫で弱ったカタバーン王国はハドラマウトに併合された。その都ティムナはすでに火災で破壊されていた。南アラビアはこれ以後、サバア・ヒムヤル・ハドラマウトの三勢力が争う舞台となった。"
+   }
+  },
+  {
+   "year": 230,
+   "qid": "Q139377",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Aksumite presence in the Tihama",
+    "ko": "티하마의 악숨 세력",
+    "zh": "阿克苏姆势力进入帖哈麦",
+    "ja": "ティハーマのアクスム勢力"
+   },
+   "description": {
+    "en": "In the early 3rd century AD, inscriptions record forces of the Ethiopian kingdom of Aksum active in western Yemen, allied at times with Saba against Himyar. Aksumite troops held parts of the Tihama coast for several decades. It was the first of repeated Ethiopian interventions in South Arabian politics.",
+    "ko": "기원후 3세기 초 비문들은 에티오피아 악숨 왕국의 군대가 서부 예멘에서 활동하며 때로는 사바와 동맹해 힘야르에 맞섰다고 기록한다. 악숨군은 수십 년 동안 티하마 해안 일부를 장악했다. 이는 남아라비아 정치에 대한 에티오피아의 거듭된 개입 가운데 첫 번째였다.",
+    "zh": "公元3世纪初的铭文记载，埃塞俄比亚阿克苏姆王国的军队活跃于也门西部，时而与赛伯邑联手对抗希木叶尔。阿克苏姆军控制帖哈麦沿海部分地区达数十年之久。这是埃塞俄比亚多次介入南阿拉伯政治的开端。",
+    "ja": "紀元後3世紀初めの碑文は、エチオピアのアクスム王国の軍がイエメン西部で活動し、時にサバアと結んでヒムヤルに対抗したことを記録している。アクスム軍は数十年にわたりティハーマ沿岸の一部を押さえた。これは南アラビア政治へのエチオピアの度重なる介入の最初のものであった。"
+   }
+  },
+  {
+   "year": 275,
+   "qid": "Q289577",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Himyarite Kingdom Unifies South Arabia",
+    "ko": "힘야르 왕국의 남아라비아 통일",
+    "zh": "希木叶尔王国统一南阿拉伯",
+    "ja": "ヒムヤル王国による南アラビア統一"
+   },
+   "description": {
+    "en": "The Himyarite kingdom, ruling from Zafar, absorbed Saba and its rivals to unify South Arabia and control Red Sea trade; its later kings adopted monotheism. The conquest of Saba is usually credited to King Shammar Yuhar'ish in the late 3rd century, and the exact date is approximate.",
+    "ko": "자파르를 수도로 한 힘야르 왕국이 사바를 비롯한 경쟁국들을 병합해 남아라비아를 통일하고 홍해 무역을 장악했다. 후대의 왕들은 일신교를 받아들였다. 사바 정복은 보통 3세기 말의 샴마르 유하리시 왕의 업적으로 여겨지며, 정확한 연대는 대략적인 것이다.",
+    "zh": "以扎法尔为都的希木叶尔王国兼并赛伯邑等诸国，统一南阿拉伯并控制红海贸易。其后期诸王皈依了一神信仰。征服赛伯邑一般归功于3世纪末的沙马尔·尤哈里什国王，确切年代只是大致推定。",
+    "ja": "ザファールを都とするヒムヤル王国はサバアなどの諸国を併合して南アラビアを統一し、紅海交易を掌握した。後代の王たちは一神教を受け入れた。サバアの征服は通常3世紀末のシャンマル・ユハルイシュ王の功績とされ、正確な年代はおおよそのものである。"
+   }
+  },
+  {
+   "year": 300,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Himyar conquers Hadramawt",
+    "ko": "힘야르의 하드라마우트 정복",
+    "zh": "希木叶尔征服哈德拉毛",
+    "ja": "ヒムヤルのハドラマウト征服"
+   },
+   "description": {
+    "en": "Around the turn of the 4th century, the Himyarite king Shammar Yuhar'ish conquered Hadramawt and adopted the long title 'King of Saba, dhu-Raydan, Hadramawt and Yamanat'. For the first time all of South Arabia was ruled by a single dynasty. The unified kingdom would last for more than two centuries.",
+    "ko": "4세기 초 무렵 힘야르 왕 샴마르 유하리시는 하드라마우트를 정복하고 '사바, 두 라이단, 하드라마우트, 야마나트의 왕'이라는 긴 칭호를 사용했다. 처음으로 남아라비아 전체가 하나의 왕조 아래 통치되었다. 이 통일 왕국은 2세기 넘게 지속되었다.",
+    "zh": "约4世纪初，希木叶尔国王沙马尔·尤哈里什征服哈德拉毛，采用“赛伯邑、祖赖丹、哈德拉毛与亚马纳特之王”的长串称号。整个南阿拉伯首次由单一王朝统治，这一统一王国延续了两个多世纪。",
+    "ja": "4世紀初め頃、ヒムヤル王シャンマル・ユハルイシュはハドラマウトを征服し、「サバア、ズー・ライダーン、ハドラマウト、ヤマナトの王」という長い称号を用いた。南アラビア全体が初めて単一の王朝に統治されることになった。この統一王国は2世紀以上続いた。"
+   }
+  },
+  {
+   "year": 380,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Himyar turns to monotheism",
+    "ko": "힘야르의 일신교 수용",
+    "zh": "希木叶尔转向一神教",
+    "ja": "ヒムヤルの一神教受容"
+   },
+   "description": {
+    "en": "Around the 380s, under King Malkikarib Yuha'min, Himyarite royal inscriptions stopped invoking the old pagan gods and instead addressed a single 'Lord of Heaven', Rahmanan. Judaism gained strong influence among the elite, while Christianity also spread through contacts with Aksum and Byzantium. The shift transformed South Arabian religious life two centuries before Islam.",
+    "ko": "380년대 무렵 말키카리브 유하민 왕 치세에 힘야르 왕실 비문은 옛 이교 신들을 부르지 않고 대신 유일한 '하늘의 주' 라흐마난을 언급하기 시작했다. 유대교가 지배층 사이에서 큰 영향력을 얻었고, 악숨 및 비잔티움과의 교류를 통해 기독교도 퍼졌다. 이 변화는 이슬람보다 2세기 앞서 남아라비아의 종교 생활을 바꾸어 놓았다.",
+    "zh": "约4世纪80年代，在马尔基卡里卜·尤哈敏国王治下，希木叶尔王室铭文不再祈求旧的多神，转而称颂唯一的“天之主”拉赫马南。犹太教在上层社会影响甚大，基督教也通过与阿克苏姆和拜占庭的往来传播开来。这一转变比伊斯兰教早两个世纪改变了南阿拉伯的宗教生活。",
+    "ja": "380年代頃、マルキカリブ・ユハアミン王の治世に、ヒムヤルの王碑文は古い多神教の神々に呼びかけるのをやめ、唯一の「天の主」ラフマナーンを称えるようになった。ユダヤ教が支配層に強い影響力を持ち、アクスムやビザンツとの接触を通じてキリスト教も広まった。この変化はイスラムの2世紀前に南アラビアの宗教生活を一変させた。"
+   }
+  },
+  {
+   "year": 440,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Himyar extends its reach into central Arabia",
+    "ko": "힘야르의 중앙 아라비아 진출",
+    "zh": "希木叶尔势力深入阿拉伯中部",
+    "ja": "ヒムヤルの中央アラビア進出"
+   },
+   "description": {
+    "en": "In the first half of the 5th century, Himyarite kings led by Abikarib As'ad campaigned far into central Arabia, as recorded in rock inscriptions at Ma'sal in Najd. They extended their royal title to include 'the Arabs of the highlands and the lowlands' and supported the Kinda tribal confederation as their clients. Himyar was at the height of its power as the dominant state of the peninsula.",
+    "ko": "5세기 전반 아비카리브 아사드가 이끈 힘야르 왕들은 나지드의 마살 암벽 비문에 기록된 것처럼 중앙 아라비아 깊숙이 원정했다. 그들은 왕호에 '고원과 저지의 아랍인'을 덧붙였고 킨다 부족 연합을 자신들의 종속 세력으로 지원했다. 힘야르는 반도의 패권 국가로서 전성기를 누렸다.",
+    "zh": "5世纪上半叶，以阿比卡里卜·阿斯阿德为首的希木叶尔诸王远征阿拉伯中部腹地，纳季德地区马斯尔的岩刻铭文记载了这些征战。他们在王号中加入“高地与低地的阿拉伯人”，并扶持肯达部落联盟作为附庸。希木叶尔作为半岛的霸主正处于鼎盛时期。",
+    "ja": "5世紀前半、アビカリブ・アスアドに率いられたヒムヤルの王たちは中央アラビアの奥深くまで遠征し、そのことはナジュドのマアサルの岩壁碑文に記されている。彼らは王号に「高地と低地のアラブ」を加え、キンダ部族連合を従属勢力として支えた。ヒムヤルは半島の覇権国家として全盛期を迎えていた。"
+   }
+  },
+  {
+   "year": 523,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Revolt of Yusuf As'ar Yath'ar (Dhu Nuwas)",
+    "ko": "유수프 아사르 야사르(두 누와스)의 봉기",
+    "zh": "优素福·阿萨尔·亚斯阿尔（祖·努瓦斯）的起事",
+    "ja": "ユースフ・アスアル・ヤスアル（ズー・ヌワース）の反乱"
+   },
+   "description": {
+    "en": "Yusuf As'ar Yath'ar, a Jewish Himyarite king remembered in Arab tradition as Dhu Nuwas, seized power and moved against Aksumite garrisons and Christian communities. Around 523 his forces besieged and massacred Christians at Najran, in what is today southern Saudi Arabia, an event recorded in Syriac sources and the Quran's 'People of the Ditch' tradition. The persecution prompted Aksum, backed by Byzantium, to invade.",
+    "ko": "아랍 전승에서 두 누와스로 기억되는 유대교도 힘야르 왕 유수프 아사르 야사르는 권력을 잡고 악숨 주둔군과 기독교 공동체를 공격했다. 523년 무렵 그의 군대는 오늘날 사우디아라비아 남부에 있는 나지란을 포위해 기독교도를 학살했으며, 이 사건은 시리아어 사료와 쿠란의 '구덩이의 사람들' 전승에 남아 있다. 이 박해는 비잔티움의 지원을 받은 악숨의 침공을 불러왔다.",
+    "zh": "信奉犹太教的希木叶尔国王优素福·阿萨尔·亚斯阿尔（阿拉伯传统中称祖·努瓦斯）夺取政权，攻击阿克苏姆驻军与基督徒社群。约523年，其军队围攻今沙特阿拉伯南部的纳季兰并屠杀基督徒，此事见于叙利亚语史料及《古兰经》“坑沟的人们”的传统。这场迫害促使获得拜占庭支持的阿克苏姆出兵入侵。",
+    "ja": "アラブの伝承でズー・ヌワースとして記憶されるユダヤ教徒のヒムヤル王ユースフ・アスアル・ヤスアルは、権力を握ってアクスムの駐留軍とキリスト教徒共同体を攻撃した。523年頃、その軍は現在のサウジアラビア南部にあるナジュラーンを包囲してキリスト教徒を虐殺し、この事件はシリア語史料やクルアーンの「溝の民」の伝承に残っている。この迫害は、ビザンツの支援を受けたアクスムの侵攻を招いた。"
+   }
+  },
+  {
+   "year": 525,
+   "qid": "Q139377",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Aksumite conquest of Himyar",
+    "ko": "악숨의 힘야르 정복",
+    "zh": "阿克苏姆征服希木叶尔",
+    "ja": "アクスムのヒムヤル征服"
+   },
+   "description": {
+    "en": "Around 525 King Kaleb of Aksum crossed the Red Sea with a large army, defeated and killed Yusuf As'ar Yath'ar, and ended the independent Himyarite kingdom. Yemen became an Ethiopian-dominated Christian state under a client king. The conquest closed the long era of indigenous South Arabian kingdoms.",
+    "ko": "525년 무렵 악숨의 칼레브 왕은 대군을 이끌고 홍해를 건너 유수프 아사르 야사르를 격파해 죽이고 독립 힘야르 왕국을 끝냈다. 예멘은 괴뢰 왕 아래 에티오피아가 지배하는 기독교 국가가 되었다. 이 정복으로 토착 남아라비아 왕국들의 긴 시대가 막을 내렸다.",
+    "zh": "约525年，阿克苏姆国王卡莱布率大军渡过红海，击败并杀死优素福·阿萨尔·亚斯阿尔，终结了独立的希木叶尔王国。也门成为由附庸国王统治、埃塞俄比亚主导的基督教国家。这次征服结束了南阿拉伯本土王国的漫长时代。",
+    "ja": "525年頃、アクスム王カレブは大軍を率いて紅海を渡り、ユースフ・アスアル・ヤスアルを破って殺し、独立したヒムヤル王国を終わらせた。イエメンは傀儡の王のもとでエチオピアが支配するキリスト教国となった。この征服によって、土着の南アラビア王国の長い時代は幕を閉じた。"
+   }
+  },
+  {
+   "year": 535,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Abraha seizes power",
+    "ko": "아브라하의 권력 장악",
+    "zh": "阿布拉哈夺权",
+    "ja": "アブラハの権力掌握"
+   },
+   "description": {
+    "en": "Around the 530s Abraha, an Aksumite commander, overthrew the client king installed by Kaleb and made himself ruler of Yemen. Aksumite attempts to remove him failed, and he governed as a largely independent Christian king. He built a celebrated cathedral in Sanaa, remembered in Arabic sources as al-Qalis.",
+    "ko": "530년대 무렵 악숨의 지휘관 아브라하는 칼레브가 세운 괴뢰 왕을 몰아내고 스스로 예멘의 통치자가 되었다. 그를 제거하려는 악숨의 시도는 실패했고, 그는 사실상 독립된 기독교 왕으로 통치했다. 그는 사나에 아랍 사료에서 '알칼리스'로 기억되는 유명한 대성당을 세웠다.",
+    "zh": "约6世纪30年代，阿克苏姆将领阿布拉哈推翻卡莱布所立的附庸国王，自立为也门统治者。阿克苏姆试图除掉他的行动均告失败，他作为基本独立的基督教国王进行统治。他在萨那修建了一座著名的大教堂，阿拉伯史料称之为“盖利斯”。",
+    "ja": "530年代頃、アクスムの指揮官アブラハはカレブが立てた傀儡の王を倒し、自らイエメンの支配者となった。彼を排除しようとするアクスムの試みは失敗し、彼は事実上独立したキリスト教徒の王として統治した。彼はサナアに、アラビア語史料で「カリース」として記憶される名高い大聖堂を建てた。"
+   }
+  },
+  {
+   "year": 548,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Abraha repairs the Marib Dam",
+    "ko": "아브라하의 마리브 댐 보수",
+    "zh": "阿布拉哈修复马里卜大坝",
+    "ja": "アブラハによるマーリブ・ダム修復"
+   },
+   "description": {
+    "en": "A long inscription of Abraha, dated to 548, records the repair of the Marib Dam after a breach and a diplomatic gathering at Marib attended by envoys of Byzantium, Persia, Aksum and Arab rulers. It shows Yemen's importance in the rivalry between the great powers. The dam, however, was increasingly difficult to maintain.",
+    "ko": "548년으로 기록된 아브라하의 긴 비문은 붕괴 후 마리브 댐을 보수한 일과, 비잔티움, 페르시아, 악숨, 아랍 군주들의 사절이 참석한 마리브의 외교 회합을 전한다. 이는 강대국 간 경쟁 속에서 예멘이 지녔던 중요성을 보여 준다. 그러나 댐을 유지하는 일은 점점 더 어려워지고 있었다.",
+    "zh": "阿布拉哈一篇纪年为548年的长篇铭文，记录了大坝决口后修复马里卜大坝之事，以及拜占庭、波斯、阿克苏姆和阿拉伯诸君主使节出席的马里卜外交聚会。这显示了也门在列强角逐中的重要地位。然而，大坝的维护已日益艰难。",
+    "ja": "548年の日付を持つアブラハの長い碑文は、決壊後のマーリブ・ダムの修復と、ビザンツ・ペルシア・アクスム・アラブ諸侯の使節が出席したマーリブでの外交的な会合を記録している。これは大国間の競合の中でイエメンが持っていた重要性を示している。しかしダムの維持はますます困難になっていた。"
+   }
+  },
+  {
+   "year": 570,
+   "qid": null,
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Final Breach of the Marib Dam",
+    "ko": "마리브 댐의 최종 붕괴",
+    "zh": "马里卜大坝最终溃决",
+    "ja": "マーリブダムの最終決壊"
+   },
+   "description": {
+    "en": "The Great Dam of Marib suffered its final collapse in the 6th century, an event echoed in the Quran. The failure hastened migrations from Yemen across Arabia and the decline of the old order. Its exact date is uncertain; Islamic tradition links it to the 'Flood of al-Arim' mentioned in the Quran.",
+    "ko": "6세기에 마리브 대댐이 최종적으로 붕괴했다. 쿠란에도 언급된 이 사건은 예멘에서 아라비아 각지로의 이주를 가속했고 고대 남아라비아 질서의 쇠퇴를 재촉했다. 정확한 연대는 불확실하며, 이슬람 전승은 이를 쿠란에 나오는 '아림의 홍수'와 연결한다.",
+    "zh": "六世纪，马里卜大坝最终溃决，《古兰经》亦有记载。溃坝加速了也门居民向阿拉伯各地的迁徙，也宣告了古代南阿拉伯秩序的衰落。其确切年代并不确定，伊斯兰传统将其与《古兰经》中提到的“阿里木洪水”联系在一起。",
+    "ja": "6世紀、マーリブの大ダムがついに決壊した。クルアーンにも言及されるこの出来事は、イエメンからアラビア各地への移住を加速させ、古代南アラビア秩序の衰退を早めた。正確な年代は不明で、イスラムの伝承はこれをクルアーンに見える「アリムの洪水」と結びつけている。"
+   }
+  },
+  {
+   "year": 570,
+   "qid": "Q15211837",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Persian conquest of Yemen",
+    "ko": "페르시아의 예멘 정복",
+    "zh": "波斯征服也门",
+    "ja": "ペルシアのイエメン征服"
+   },
+   "description": {
+    "en": "Around 570, at the request of the Himyarite noble Sayf ibn Dhi Yazan, the Sasanian king Khosrow I sent an expedition under Wahrez that defeated the Aksumite rulers and took Sanaa. Yemen became a Sasanian province with a Persian governor. Sayf ibn Dhi Yazan became a celebrated hero of later Arabic folk epic.",
+    "ko": "570년 무렵 힘야르 귀족 사이프 이븐 디 야잔의 요청으로 사산조의 호스로 1세는 와흐리즈가 이끄는 원정군을 보냈고, 이들은 악숨계 통치자들을 무찌르고 사나를 점령했다. 예멘은 페르시아 총독이 다스리는 사산조의 속주가 되었다. 사이프 이븐 디 야잔은 훗날 아랍 민간 서사시의 영웅으로 칭송되었다.",
+    "zh": "约570年，应希木叶尔贵族赛义夫·伊本·齐·亚赞的请求，萨珊国王库思老一世派瓦赫里兹率远征军击败阿克苏姆系统治者，攻占萨那。也门成为由波斯总督治理的萨珊行省。赛义夫·伊本·齐·亚赞后来成为阿拉伯民间史诗中备受传颂的英雄。",
+    "ja": "570年頃、ヒムヤル貴族サイフ・イブン・ズィー・ヤザンの要請を受けたサーサーン朝のホスロー1世はワフリズ率いる遠征軍を送り、アクスム系の支配者を破ってサナアを占領した。イエメンはペルシア人総督が治めるサーサーン朝の州となった。サイフ・イブン・ズィー・ヤザンは後にアラブの民衆叙事詩で称えられる英雄となった。"
+   }
+  },
+  {
+   "year": 628,
+   "qid": null,
+   "importance": 2,
+   "category": "religion",
+   "title": {
+    "en": "Yemen Embraces Islam",
+    "ko": "예멘의 이슬람 수용",
+    "zh": "也门皈依伊斯兰教",
+    "ja": "イエメンのイスラム受容"
+   },
+   "description": {
+    "en": "During the Prophet Muhammad's lifetime, Yemen's Persian governor Badhan and local tribes accepted Islam. Yemeni tribes later played a major role in the early Islamic conquests. Badhan's conversion, dated around 628, ended Sasanian rule over Yemen.",
+    "ko": "예언자 무함마드 생전에 예멘의 페르시아인 총독 바잔과 여러 부족이 이슬람을 받아들였다. 이후 예멘 부족들은 초기 이슬람 정복 활동에서 큰 역할을 했다. 628년 무렵으로 추정되는 바잔의 개종으로 예멘에 대한 사산조의 지배는 끝났다.",
+    "zh": "先知穆罕默德在世时，也门的波斯总督巴赞及当地各部族接受伊斯兰教。此后也门部族在早期伊斯兰征服中发挥了重要作用。巴赞约于628年皈依，结束了萨珊王朝对也门的统治。",
+    "ja": "預言者ムハンマドの存命中に、イエメンのペルシア人総督バーザーンと諸部族がイスラム教を受け入れた。イエメンの部族はその後、初期イスラムの征服活動で大きな役割を果たした。628年頃とされるバーザーンの改宗により、イエメンに対するサーサーン朝の支配は終わった。"
+   }
+  },
+  {
+   "year": 632,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Revolt of al-Aswad al-Ansi",
+    "ko": "알아스와드 알안시의 반란",
+    "zh": "阿斯瓦德·安西的叛乱",
+    "ja": "アスワド・アル＝アンスィーの反乱"
+   },
+   "description": {
+    "en": "Late in the Prophet Muhammad's life, al-Aswad al-Ansi, a self-proclaimed prophet from the Madhhij tribes, rebelled and seized Sanaa. He was killed in 632 in a plot involving Persian Abna' leaders and Muslim loyalists. Further unrest during the Ridda wars was suppressed, firmly attaching Yemen to the caliphate.",
+    "ko": "예언자 무함마드 생애 말기에 마드히즈 부족 출신의 자칭 예언자 알아스와드 알안시가 반란을 일으켜 사나를 장악했다. 그는 632년 페르시아계 아브나 지도자들과 무슬림 충성파가 꾸민 계략으로 살해되었다. 릿다 전쟁 중의 추가 소요도 진압되면서 예멘은 칼리파국에 확고히 편입되었다.",
+    "zh": "先知穆罕默德晚年，出身马兹希吉部族、自称先知的阿斯瓦德·安西起兵叛乱，占领萨那。632年，他在波斯裔阿卜纳首领与穆斯林效忠者合谋下被杀。叛教战争期间的进一步动乱亦被平定，也门由此牢固地归属哈里发国。",
+    "ja": "預言者ムハンマドの晩年、マズヒジュ族出身の自称預言者アスワド・アル＝アンスィーが反乱を起こしてサナアを占拠した。彼は632年、ペルシア系アブナーの指導者とムスリムの忠誠派の謀略によって殺された。リッダ戦争中のさらなる騒乱も鎮圧され、イエメンはカリフ国に確固として組み込まれた。"
+   }
+  },
+  {
+   "year": 746,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Kharijite revolt of Talib al-Haqq",
+    "ko": "탈리브 알하크의 하와리즈파 봉기",
+    "zh": "塔利卜·哈克的哈瓦利吉派起义",
+    "ja": "ターリブ・アル＝ハックのハワーリジュ派反乱"
+   },
+   "description": {
+    "en": "In 746, as the Umayyad Caliphate was disintegrating, the Ibadi Kharijite leader Abdallah ibn Yahya, called Talib al-Haqq, rose in Hadramawt and took Sanaa. His forces even occupied Mecca and Medina in 747 before being defeated by an Umayyad army. Ibadi communities persisted in Hadramawt for some time afterwards.",
+    "ko": "우마이야 칼리파조가 무너지던 746년, '탈리브 알하크'로 불린 이바드파 하와리즈 지도자 압둘라 이븐 야흐야가 하드라마우트에서 봉기해 사나를 점령했다. 그의 군대는 747년 메카와 메디나까지 점령했으나 우마이야군에 패배했다. 이후에도 한동안 하드라마우트에는 이바드파 공동체가 남아 있었다.",
+    "zh": "746年，倭马亚王朝分崩离析之际，号称“塔利卜·哈克”的伊巴德派哈瓦利吉首领阿卜杜拉·伊本·叶海亚在哈德拉毛起事，攻占萨那。其军队747年甚至占领麦加和麦地那，随后被倭马亚军击败。此后一段时期内，伊巴德派社群仍存在于哈德拉毛。",
+    "ja": "ウマイヤ朝が崩れつつあった746年、「ターリブ・アル＝ハック」と呼ばれたイバード派ハワーリジュの指導者アブドゥッラー・イブン・ヤフヤーがハドラマウトで蜂起し、サナアを占領した。その軍は747年にメッカとメディナまで占領したが、ウマイヤ朝軍に敗れた。その後もしばらくハドラマウトにはイバード派の共同体が残った。"
+   }
+  },
+  {
+   "year": 820,
+   "qid": "Q207017",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of Zabid and the Ziyadid dynasty",
+    "ko": "자비드 건설과 지야드 왕조",
+    "zh": "扎比德建城与齐亚德王朝",
+    "ja": "ザビード建設とズィヤード朝"
+   },
+   "description": {
+    "en": "Around 819–820 Muhammad ibn Ziyad, sent by Caliph al-Ma'mun to subdue the tribes of the Tihama, founded the town of Zabid and made it his capital. His dynasty ruled the coastal plain for two centuries in the Abbasid caliph's name. Zabid grew into a renowned centre of Sunni scholarship whose historic town is today a World Heritage Site.",
+    "ko": "819~820년 무렵 칼리파 알마문이 티하마 부족 평정을 위해 보낸 무함마드 이븐 지야드는 자비드를 건설하고 수도로 삼았다. 그의 왕조는 아바스 칼리파의 이름으로 2세기 동안 해안 평야를 다스렸다. 자비드는 수니파 학문의 명소로 성장했고, 그 역사 도시는 오늘날 세계유산이다.",
+    "zh": "约819至820年，奉哈里发麦蒙之命平定帖哈麦部族的穆罕默德·伊本·齐亚德建立扎比德城并定为都城。其王朝以阿拔斯哈里发之名统治沿海平原达两个世纪。扎比德发展为著名的逊尼派学术中心，其历史古城今为世界遗产。",
+    "ja": "819〜820年頃、カリフのマアムーンがティハーマの部族平定のために送ったムハンマド・イブン・ズィヤードはザビードを建設して都とした。彼の王朝はアッバース朝カリフの名のもとで2世紀にわたり沿岸平野を治めた。ザビードはスンナ派学問の名高い中心地に成長し、その歴史地区は現在世界遺産となっている。"
+   }
+  },
+  {
+   "year": 847,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Yu'firids take Sanaa",
+    "ko": "유피르 왕조의 사나 장악",
+    "zh": "尤菲尔家族占领萨那",
+    "ja": "ユウフィル朝のサナア掌握"
+   },
+   "description": {
+    "en": "In 847 Yu'fir ibn Abd al-Rahman al-Hiwali, from Shibam Kawkaban, took control of Sanaa and founded the Yu'firid dynasty. Nominally loyal to the Abbasids, the Yu'firids were the main highland power for much of the next century and a half. Their rule was repeatedly challenged by Zaydi and Isma'ili rivals.",
+    "ko": "847년 시밤 카우카반 출신의 유피르 이븐 압둘라흐만 알히왈리가 사나를 장악하고 유피르 왕조를 세웠다. 명목상 아바스 왕조에 충성한 유피르 왕조는 이후 한 세기 반 동안 대부분의 기간에 고원의 주된 세력이었다. 그들의 통치는 자이드파와 이스마일파 경쟁자들의 거듭된 도전을 받았다.",
+    "zh": "847年，出身希巴姆·考卡班的尤菲尔·伊本·阿卜杜拉赫曼·希瓦利控制萨那，建立尤菲尔王朝。尤菲尔王朝名义上效忠阿拔斯王朝，在此后一个半世纪的大部分时间里是高原上的主要势力，但屡遭宰德派和伊斯玛仪派对手的挑战。",
+    "ja": "847年、シバーム・カウカバン出身のユウフィル・イブン・アブドッラフマーン・アル＝ヒワーリーがサナアを掌握し、ユウフィル朝を開いた。名目上アッバース朝に忠実なユウフィル朝は、その後1世紀半の大半を通じて高原の主要勢力であった。その支配はザイド派やイスマーイール派の競争相手から繰り返し挑戦を受けた。"
+   }
+  },
+  {
+   "year": 881,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Isma'ili missionaries arrive",
+    "ko": "이스마일파 선교사의 도래",
+    "zh": "伊斯玛仪派传教者到来",
+    "ja": "イスマーイール派宣教者の到来"
+   },
+   "description": {
+    "en": "In 881 the Isma'ili missionaries Ibn Hawshab and Ali ibn al-Fadl arrived in Yemen and built bases in the mountains. From Yemen, the movement sent agents to North Africa who prepared the ground for the Fatimid Caliphate. Ali ibn al-Fadl later captured Sanaa, but his radical regime collapsed after his death in 915.",
+    "ko": "881년 이스마일파 선교사 이븐 하우샤브와 알리 이븐 알파들이 예멘에 와서 산악 지대에 거점을 세웠다. 이 운동은 예멘에서 북아프리카로 요원을 보내 파티마 칼리파조 수립의 기반을 닦았다. 알리 이븐 알파들은 훗날 사나를 점령했지만, 그의 급진적 정권은 915년 그가 죽은 뒤 무너졌다.",
+    "zh": "881年，伊斯玛仪派传教者伊本·豪沙卜和阿里·伊本·法德勒来到也门，在山区建立据点。该运动从也门向北非派出传教者，为法蒂玛王朝的建立奠定了基础。阿里·伊本·法德勒后来攻占萨那，但其激进政权在他915年死后瓦解。",
+    "ja": "881年、イスマーイール派の宣教者イブン・ハウシャブとアリー・イブン・アル＝ファドルがイエメンに来て、山岳地帯に拠点を築いた。この運動はイエメンから北アフリカへ工作員を送り、ファーティマ朝成立の下地を作った。アリー・イブン・アル＝ファドルは後にサナアを占領したが、その急進的な政権は915年の彼の死後に崩壊した。"
+   }
+  },
+  {
+   "year": 897,
+   "qid": null,
+   "importance": 1,
+   "category": "religion",
+   "title": {
+    "en": "Founding of the Zaydi Imamate",
+    "ko": "자이드파 이맘국의 성립",
+    "zh": "宰德派伊玛目国建立",
+    "ja": "ザイド派イマーム国の成立"
+   },
+   "description": {
+    "en": "Al-Hadi ila'l-Haqq Yahya established a Zaydi Shia imamate at Saada in northern Yemen. The imamate endured in various forms for over a thousand years, until 1962. Saada remained the spiritual heartland of Zaydism, and the Houthi movement of the 21st century arose from the same region.",
+    "ko": "알하디 야흐야가 북부 사다에 자이드파 시아 이맘국을 세웠다. 이 이맘 체제는 형태를 바꿔 가며 1962년까지 천 년 넘게 존속했다. 사다는 자이드파의 정신적 중심지로 남았으며, 21세기의 후티 운동도 같은 지역에서 일어났다.",
+    "zh": "哈迪·叶海亚在也门北部萨达建立宰德派什叶伊玛目政权。该体制以不同形式延续千余年，直至1962年。萨达始终是宰德派的精神中心，21世纪的胡塞运动也正兴起于这一地区。",
+    "ja": "アル・ハーディー・ヤフヤーが北部サアダにザイド派シーア派のイマーム政権を樹立した。この体制は形を変えながら1962年まで千年以上続いた。サアダはザイド派の精神的中心地であり続け、21世紀のフーシ派運動も同じ地域から生まれた。"
+   }
+  },
+  {
+   "year": 945,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Al-Hamdani, historian of South Arabia",
+    "ko": "남아라비아의 역사가 알함다니",
+    "zh": "南阿拉伯史家哈姆达尼",
+    "ja": "南アラビアの歴史家ハムダーニー"
+   },
+   "description": {
+    "en": "The scholar al-Hasan al-Hamdani, who died around the mid-10th century, wrote 'al-Iklil', an encyclopaedic work on the genealogy, castles and antiquities of Yemen, and 'Sifat Jazirat al-Arab', a geography of Arabia. He also studied astronomy and the ancient South Arabian script. His works remain basic sources for pre-Islamic and early Islamic Yemen.",
+    "ko": "10세기 중엽 무렵 사망한 학자 알하산 알함다니는 예멘의 계보, 성채, 고대 유물을 다룬 백과사전적 저작 『알이클릴』과 아라비아 지리서 『아랍 반도의 묘사』를 썼다. 그는 천문학과 고대 남아라비아 문자도 연구했다. 그의 저작은 이슬람 이전과 초기 이슬람 시대 예멘을 연구하는 기본 자료로 남아 있다.",
+    "zh": "学者哈桑·哈姆达尼约卒于10世纪中叶，著有记述也门谱系、城堡与古迹的百科式著作《王冠集》，以及阿拉伯半岛地理志《阿拉伯半岛志》。他还研究天文学和古代南阿拉伯文字。其著作至今仍是研究伊斯兰前及早期伊斯兰时代也门的基本史料。",
+    "ja": "10世紀半ば頃に没した学者ハサン・アル＝ハムダーニーは、イエメンの系譜・城塞・古跡を扱った百科全書的な『イクリール』と、アラビア地誌『アラブ半島誌』を著した。彼は天文学や古代南アラビア文字も研究した。その著作はイスラム以前と初期イスラム時代のイエメンを知る基本史料であり続けている。"
+   }
+  },
+  {
+   "year": 1022,
+   "qid": "Q1411866",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Najahid dynasty in Zabid",
+    "ko": "자비드의 나자흐 왕조",
+    "zh": "扎比德的纳贾赫王朝",
+    "ja": "ザビードのナジャーフ朝"
+   },
+   "description": {
+    "en": "In the early 11th century, after the Ziyadid line died out, power in Zabid passed to Najah, an Abyssinian freedman who had served the Ziyadid court. His descendants, the Najahids, ruled the Tihama for most of the next century and a half. They fought a long war with the Sulayhids, who killed Najah's son and briefly took Zabid.",
+    "ko": "11세기 초 지야드 왕가가 끊긴 뒤 자비드의 권력은 지야드 궁정을 섬기던 아비시니아 출신 해방노예 나자흐에게 넘어갔다. 그의 후손인 나자흐 왕조는 이후 한 세기 반 대부분 동안 티하마를 다스렸다. 이들은 술라이흐 왕조와 오래 싸웠으며, 술라이흐 왕조는 한때 자비드를 점령하기도 했다.",
+    "zh": "11世纪初齐亚德王室绝嗣后，扎比德的权力转入曾侍奉齐亚德宫廷的阿比西尼亚裔获释奴隶纳贾赫之手。其后裔纳贾赫王朝在此后一个半世纪的大部分时间里统治帖哈麦，并与苏莱希王朝长期交战，后者一度攻占扎比德。",
+    "ja": "11世紀初めにズィヤード家が絶えると、ザビードの権力はズィヤード朝宮廷に仕えたアビシニア出身の解放奴隷ナジャーフに移った。その子孫であるナジャーフ朝は、その後1世紀半の大半にわたりティハーマを治めた。彼らはスライフ朝と長く争い、スライフ朝は一時ザビードを占領した。"
+   }
+  },
+  {
+   "year": 1047,
+   "qid": "Q2364248",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of the Sulayhids",
+    "ko": "술라이흐 왕조의 등장",
+    "zh": "苏莱希王朝崛起",
+    "ja": "スライフ朝の台頭"
+   },
+   "description": {
+    "en": "In 1047 Ali ibn Muhammad al-Sulayhi, an Isma'ili missionary, rose up on Mount Masar in the Haraz region and proclaimed allegiance to the Fatimid caliph in Cairo. Within two decades he had conquered Sanaa, Zabid and much of Yemen, uniting the country under one ruler for the first time in centuries. Yemen became the Fatimids' most important ally in Arabia.",
+    "ko": "1047년 이스마일파 선교사 알리 이븐 무함마드 알술라이히는 하라즈 지방의 마사르산에서 봉기해 카이로의 파티마 칼리파에 대한 충성을 선언했다. 20년 안에 그는 사나와 자비드를 비롯해 예멘 대부분을 정복하여 수 세기 만에 처음으로 나라를 한 통치자 아래 통일했다. 예멘은 아라비아에서 파티마 왕조의 가장 중요한 동맹이 되었다.",
+    "zh": "1047年，伊斯玛仪派传教者阿里·伊本·穆罕默德·苏莱希在哈拉兹地区的马萨尔山起事，宣布效忠开罗的法蒂玛哈里发。二十年内，他征服了萨那、扎比德及也门大部分地区，数百年来首次将全国统一于一位统治者之下。也门成为法蒂玛王朝在阿拉伯半岛最重要的盟友。",
+    "ja": "1047年、イスマーイール派の宣教者アリー・イブン・ムハンマド・アル＝スライヒーはハラーズ地方のマサール山で蜂起し、カイロのファーティマ朝カリフへの忠誠を宣言した。20年のうちに彼はサナアやザビードをはじめイエメンの大半を征服し、数世紀ぶりに国を一人の支配者のもとに統一した。イエメンはアラビアにおけるファーティマ朝の最も重要な同盟者となった。"
+   }
+  },
+  {
+   "year": 1087,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Queen Arwa moves the capital to Jibla",
+    "ko": "아르와 여왕의 지블라 천도",
+    "zh": "阿尔瓦女王迁都吉卜拉",
+    "ja": "アルワ女王のジブラ遷都"
+   },
+   "description": {
+    "en": "Arwa bint Ahmad al-Sulayhi, who had taken over the management of the state for her ailing husband, moved the Sulayhid capital from Sanaa to Jibla, near Ibb, around the late 11th century. Recognised by the Fatimids as their chief representative in Yemen, she ruled for decades, built roads and the great mosque of Jibla, and is still fondly remembered as 'little Queen of Sheba'. Her long reign is a rare example of a woman exercising sovereign power in the medieval Muslim world.",
+    "ko": "병든 남편을 대신해 국정을 맡았던 아르와 빈트 아흐마드 알술라이히는 11세기 말 무렵 술라이흐 왕조의 수도를 사나에서 이브 근처의 지블라로 옮겼다. 파티마 왕조로부터 예멘의 최고 대리인으로 인정받은 그녀는 수십 년간 통치하며 도로와 지블라의 대모스크를 건설했고, 지금도 '작은 시바 여왕'으로 사랑받는다. 그녀의 긴 치세는 중세 무슬림 세계에서 여성이 주권을 행사한 드문 사례다.",
+    "zh": "阿尔瓦·宾特·艾哈迈德·苏莱希代替病弱的丈夫主持国政，约于11世纪末将苏莱希王朝都城从萨那迁至伊卜附近的吉卜拉。她被法蒂玛王朝承认为其在也门的首席代表，执政数十年，修筑道路并兴建吉卜拉大清真寺，至今仍被亲切地称为“小示巴女王”。她的长期统治是中世纪穆斯林世界女性行使主权的罕见例子。",
+    "ja": "病身の夫に代わって国政を担ったアルワ・ビント・アフマド・アル＝スライヒーは、11世紀末頃にスライフ朝の都をサナアからイッブ近郊のジブラへ移した。ファーティマ朝からイエメンにおける最高代理人と認められた彼女は数十年にわたり統治して道路やジブラの大モスクを建設し、今も「小さなシバの女王」として親しまれている。その長い治世は、中世ムスリム世界で女性が主権を行使した珍しい例である。"
+   }
+  },
+  {
+   "year": 1132,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Birth of the Tayyibi Isma'ili mission",
+    "ko": "타이이브파 이스마일 교단의 성립",
+    "zh": "塔伊布派伊斯玛仪教团的形成",
+    "ja": "タイイブ派イスマーイール教団の成立"
+   },
+   "description": {
+    "en": "When the Fatimid caliph al-Amir was assassinated in 1130 and power in Cairo passed to his cousin al-Hafiz, Queen Arwa refused to recognise him and upheld the claim of al-Amir's infant son al-Tayyib. She established an independent Yemeni da'wa headed by a chief missionary (da'i mutlaq) in the early 1130s. This Tayyibi community later moved its centre to India, where it survives among the Dawoodi Bohras and related groups.",
+    "ko": "1130년 파티마 칼리파 알아미르가 암살되고 카이로의 권력이 사촌 알하피즈에게 넘어가자, 아르와 여왕은 그를 인정하지 않고 알아미르의 어린 아들 알타이이브의 계승권을 지지했다. 그녀는 1130년대 초 최고 선교사(다이 무틀라크)가 이끄는 독립적인 예멘 교단을 세웠다. 이 타이이브파 공동체는 훗날 중심지를 인도로 옮겨 다우디 보흐라 등의 집단으로 오늘날까지 이어지고 있다.",
+    "zh": "1130年法蒂玛哈里发阿米尔遇刺，开罗政权转入其堂兄弟哈菲兹手中，阿尔瓦女王拒绝承认他，转而支持阿米尔幼子塔伊布的继承权。她于12世纪30年代初建立由“绝对宣教师”领导的独立也门宣教组织。这一塔伊布派社群后来将中心迁往印度，至今以达乌迪·博赫拉派等群体延续。",
+    "ja": "1130年にファーティマ朝カリフのアーミルが暗殺され、カイロの権力が従兄弟のハーフィズに移ると、アルワ女王は彼を認めず、アーミルの幼い息子タイイブの継承権を支持した。彼女は1130年代初めに、絶対的宣教者（ダーイー・ムトラク）が率いる独立したイエメンの教団を設立した。このタイイブ派共同体は後に中心をインドへ移し、ダーウーディー・ボーホラーなどの集団として今日まで続いている。"
+   }
+  },
+  {
+   "year": 1174,
+   "qid": "Q180114",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Ayyubid conquest of Yemen",
+    "ko": "아이유브 왕조의 예멘 정복",
+    "zh": "阿尤布王朝征服也门",
+    "ja": "アイユーブ朝のイエメン征服"
+   },
+   "description": {
+    "en": "In 1174 Saladin sent his elder brother Turan-Shah with an army to Yemen. He overthrew the Mahdid regime in Zabid, took Aden from the Zurayids and pushed into the highlands. Yemen became an Ayyubid province that secured the Red Sea route and revenue from the Indian trade for Egypt.",
+    "ko": "1174년 살라딘은 형 투란샤에게 군대를 주어 예멘으로 보냈다. 그는 자비드의 마흐디 정권을 무너뜨리고 주라이 왕조에게서 아덴을 빼앗았으며 고원으로 진출했다. 예멘은 이집트를 위해 홍해 항로와 인도 무역 수입을 확보하는 아이유브 왕조의 속주가 되었다.",
+    "zh": "1174年，萨拉丁派兄长图兰沙率军远征也门。图兰沙推翻扎比德的马赫迪政权，从祖莱伊王朝手中夺取亚丁，并向高原推进。也门成为阿尤布王朝的行省，为埃及保障红海航路和印度贸易的收入。",
+    "ja": "1174年、サラディンは兄トゥーラーン・シャーに軍を与えてイエメンへ送った。彼はザビードのマフディー政権を倒し、ズライ朝からアデンを奪い、高原へと進出した。イエメンはエジプトのために紅海航路とインド交易の収入を確保するアイユーブ朝の州となった。"
+   }
+  },
+  {
+   "year": 1229,
+   "qid": "Q2132267",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rasulid Golden Age",
+    "ko": "라술 왕조의 황금기",
+    "zh": "拉苏里王朝的黄金时代",
+    "ja": "ラスール朝の黄金時代"
+   },
+   "description": {
+    "en": "The Rasulid dynasty, ruling from Taiz, made Yemen a prosperous hub of Indian Ocean trade and Islamic scholarship, patronizing architecture, agriculture, and science for two centuries. Umar ibn Rasul took control in 1229 when the last Ayyubid governor left for Egypt, and he was recognised as sultan by the Abbasid caliph in 1235.",
+    "ko": "타이즈를 수도로 한 라술 왕조 치하에서 예멘은 인도양 무역과 이슬람 학문의 번영하는 중심지가 되었다. 왕조는 2세기 동안 건축, 농업, 과학을 후원했다. 우마르 이븐 라술은 1229년 마지막 아이유브 총독이 이집트로 떠나자 권력을 잡았고, 1235년 아바스 칼리파에게서 술탄으로 인정받았다.",
+    "zh": "定都塔伊兹的拉苏里王朝使也门成为印度洋贸易与伊斯兰学术的繁荣中心，两个世纪间大力扶持建筑、农业与科学。1229年最后一位阿尤布总督前往埃及后，欧麦尔·伊本·拉苏勒掌握政权，并于1235年获阿拔斯哈里发承认为苏丹。",
+    "ja": "タイズを都としたラスール朝の下、イエメンはインド洋交易とイスラム学術の繁栄する中心地となった。王朝は2世紀にわたり建築・農業・科学を後援した。ウマル・イブン・ラスールは1229年に最後のアイユーブ朝総督がエジプトへ去ると実権を握り、1235年にアッバース朝カリフからスルタンとして認められた。"
+   }
+  },
+  {
+   "year": 1250,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Reign of al-Muzaffar Yusuf",
+    "ko": "알무자파르 유수프의 치세",
+    "zh": "穆扎法尔·优素福的统治",
+    "ja": "ムザッファル・ユースフの治世"
+   },
+   "description": {
+    "en": "Al-Muzaffar Yusuf, the second Rasulid sultan, reigned from about 1250 until 1295, the dynasty's longest and most successful rule. He consolidated control over the highlands and the Tihama, extended influence to Dhofar, and asserted prestige in Mecca. His court in Taiz became a centre of scholarship, and he himself wrote on medicine and other subjects.",
+    "ko": "라술 왕조의 두 번째 술탄 알무자파르 유수프는 1250년 무렵부터 1295년까지 재위하여 왕조에서 가장 길고 성공적인 치세를 이루었다. 그는 고원과 티하마의 지배를 굳히고 도파르까지 영향력을 넓혔으며 메카에서도 위신을 과시했다. 타이즈의 궁정은 학문의 중심지가 되었고, 그 자신도 의학 등에 관한 글을 썼다.",
+    "zh": "拉苏里王朝第二代苏丹穆扎法尔·优素福约自1250年在位至1295年，是该王朝最长久也最成功的统治。他巩固了对高原和帖哈麦的控制，将影响力扩展至佐法尔，并在麦加彰显威望。他在塔伊兹的宫廷成为学术中心，他本人也撰写过医学等方面的著作。",
+    "ja": "ラスール朝第2代スルタンのムザッファル・ユースフは1250年頃から1295年まで在位し、王朝で最も長く成功した治世を築いた。彼は高原とティハーマの支配を固め、ズファールまで影響力を広げ、メッカでも威信を示した。タイズの宮廷は学問の中心地となり、彼自身も医学などについて著述した。"
+   }
+  },
+  {
+   "year": 1295,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Rasulid science: al-Ashraf Umar",
+    "ko": "라술 왕조의 과학: 알아슈라프 우마르",
+    "zh": "拉苏里王朝的科学：阿什拉夫·欧麦尔",
+    "ja": "ラスール朝の科学：アシュラフ・ウマル"
+   },
+   "description": {
+    "en": "Al-Ashraf Umar, who became sultan in 1295 after his father al-Muzaffar Yusuf, was an accomplished scholar who wrote a treatise on the construction of the astrolabe as well as works on astronomy, agriculture and veterinary care. A signed astrolabe attributed to him survives today. Such writings illustrate the unusual scientific culture of the Rasulid court.",
+    "ko": "1295년 아버지 알무자파르 유수프의 뒤를 이어 술탄이 된 알아슈라프 우마르는 아스트롤라베 제작에 관한 논저와 천문학, 농업, 수의학에 관한 저술을 남긴 뛰어난 학자였다. 그의 서명이 있는 것으로 전해지는 아스트롤라베가 오늘날까지 남아 있다. 이러한 저술은 라술 궁정의 독특한 과학 문화를 보여 준다.",
+    "zh": "阿什拉夫·欧麦尔于1295年继其父穆扎法尔·优素福成为苏丹，是一位造诣深厚的学者，著有关于星盘制作的论著以及天文学、农学和兽医方面的著作。一具署有其名的星盘流传至今。这些著述展现了拉苏里宫廷独特的科学文化。",
+    "ja": "1295年に父ムザッファル・ユースフの後を継いでスルタンとなったアシュラフ・ウマルは、アストロラーベの製作に関する論考や天文学・農学・獣医学の著作を残した優れた学者であった。彼の署名があるとされるアストロラーベが今日まで残っている。こうした著作はラスール朝宮廷の特異な科学文化を物語っている。"
+   }
+  },
+  {
+   "year": 1331,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Ibn Battuta visits Yemen",
+    "ko": "이븐 바투타의 예멘 방문",
+    "zh": "伊本·白图泰游历也门",
+    "ja": "イブン・バットゥータのイエメン訪問"
+   },
+   "description": {
+    "en": "Around 1331 the Moroccan traveller Ibn Battuta toured Yemen, visiting Zabid, Taiz, Sanaa and Aden, and met the Rasulid sultan. He described Aden as a great port crowded with merchants from India and Egypt, though hemmed in by mountains and short of water. His account is a vivid picture of Rasulid Yemen at its height.",
+    "ko": "1331년 무렵 모로코의 여행가 이븐 바투타는 예멘을 여행하며 자비드, 타이즈, 사나, 아덴을 방문하고 라술 왕조의 술탄을 만났다. 그는 아덴을 산에 둘러싸이고 물이 부족하지만 인도와 이집트 상인들로 붐비는 큰 항구로 묘사했다. 그의 기록은 전성기 라술 왕조 예멘의 생생한 모습을 전한다.",
+    "zh": "约1331年，摩洛哥旅行家伊本·白图泰游历也门，到访扎比德、塔伊兹、萨那和亚丁，并觐见拉苏里苏丹。他描述亚丁虽被群山环绕、缺乏淡水，却是挤满印度和埃及商人的大港。他的记述生动展现了鼎盛时期拉苏里王朝的也门。",
+    "ja": "1331年頃、モロッコの旅行家イブン・バットゥータはイエメンを巡り、ザビード、タイズ、サナア、アデンを訪れてラスール朝のスルタンに謁見した。彼はアデンを、山に囲まれ水が乏しいものの、インドやエジプトの商人で賑わう大港と描写した。その記録は最盛期のラスール朝イエメンを生き生きと伝えている。"
+   }
+  },
+  {
+   "year": 1421,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Ming treasure fleets reach Aden",
+    "ko": "명나라 정화 함대의 아덴 기항",
+    "zh": "郑和船队抵达亚丁",
+    "ja": "鄭和艦隊のアデン寄港"
+   },
+   "description": {
+    "en": "During the voyages of the Ming admiral Zheng He in the early 15th century, Chinese squadrons visited Aden, around 1421 among other times, and exchanged gifts with the Rasulid sultan. Rasulid envoys travelled to China in return, and Chinese accounts describe Aden's wealth and goods such as giraffes and zebras. The visits show Yemen's place in Indian Ocean diplomacy and trade.",
+    "ko": "15세기 초 명나라 제독 정화의 원정 동안 중국 분함대는 1421년 무렵을 비롯해 여러 차례 아덴을 방문해 라술 왕조의 술탄과 예물을 교환했다. 답례로 라술 사절도 중국을 찾았으며, 중국 기록은 아덴의 부와 기린, 얼룩말 같은 진귀한 물품을 전한다. 이 방문은 인도양 외교와 무역에서 예멘이 차지한 위치를 보여 준다.",
+    "zh": "15世纪初明朝郑和下西洋期间，中国分船队曾多次到访亚丁（约1421年为其中一次），与拉苏里苏丹互赠礼物。拉苏里使节亦回访中国，中国文献记载了亚丁的富庶以及麒麟（长颈鹿）、斑马等珍奇物产。这些往来体现了也门在印度洋外交与贸易中的地位。",
+    "ja": "15世紀初めの明の提督鄭和の航海の際、中国の分艦隊は1421年頃をはじめ何度かアデンを訪れ、ラスール朝のスルタンと贈り物を交換した。返礼としてラスール朝の使節も中国を訪れ、中国の記録はアデンの富やキリン、シマウマといった珍しい産物を伝えている。この訪問はインド洋の外交と交易におけるイエメンの位置を示している。"
+   }
+  },
+  {
+   "year": 1450,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Coffee drinking spreads in Yemen",
+    "ko": "예멘에서 퍼진 커피 음용",
+    "zh": "饮用咖啡在也门兴起",
+    "ja": "イエメンで広まったコーヒー飲用"
+   },
+   "description": {
+    "en": "By the mid-15th century, Sufis in Yemen were drinking a brew made from coffee beans to stay awake during night-time devotions, the earliest reliable evidence of coffee drinking anywhere. Coffee cultivation spread across the terraced highlands, and the habit travelled to Mecca, Cairo and Istanbul. Yemen held a near-monopoly on coffee for about two centuries.",
+    "ko": "15세기 중엽 무렵 예멘의 수피들은 밤 기도 중에 깨어 있기 위해 커피콩으로 만든 음료를 마셨는데, 이는 세계 어디에서든 커피 음용에 관한 가장 오래된 신뢰할 만한 증거다. 커피 재배는 고원의 계단식 밭으로 퍼졌고, 커피를 마시는 습관은 메카, 카이로, 이스탄불로 전해졌다. 예멘은 약 2세기 동안 커피를 거의 독점했다.",
+    "zh": "到15世纪中叶，也门的苏非修士为了在夜间修行时保持清醒，饮用一种以咖啡豆煮成的饮料，这是世界上饮用咖啡最早的可靠证据。咖啡种植遍及高原梯田，饮用习惯传到麦加、开罗和伊斯坦布尔。此后约两个世纪，也门几乎垄断了咖啡供应。",
+    "ja": "15世紀半ばまでに、イエメンのスーフィーたちは夜の修行中に目を覚ましておくため、コーヒー豆から作った飲み物を飲んでいた。これはどこであれコーヒー飲用に関する最古の信頼できる証拠である。コーヒー栽培は高原の段々畑に広がり、飲用の習慣はメッカ、カイロ、イスタンブルへと伝わった。イエメンは約2世紀にわたりコーヒーをほぼ独占した。"
+   }
+  },
+  {
+   "year": 1454,
+   "qid": "Q373981",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Tahirids succeed the Rasulids",
+    "ko": "타히르 왕조의 라술 왕조 계승",
+    "zh": "塔希尔王朝取代拉苏里王朝",
+    "ja": "ターヒル朝がラスール朝を継承"
+   },
+   "description": {
+    "en": "In 1454, amid the collapse of Rasulid authority, the Tahirid brothers from the Rada' region seized Aden and Zabid and proclaimed themselves sultans. They restored order in the south and Tihama and continued the Rasulid tradition of patronising learning and building. Their rivalry with the Zaydi imams of the north continued throughout their rule.",
+    "ko": "1454년 라술 왕조의 권위가 무너지는 가운데 라다아 지방 출신의 타히르 형제가 아덴과 자비드를 장악하고 술탄을 자칭했다. 이들은 남부와 티하마의 질서를 회복하고 학문과 건축을 후원하는 라술 왕조의 전통을 이어 갔다. 북부 자이드파 이맘들과의 대립은 그들의 치세 내내 계속되었다.",
+    "zh": "1454年，在拉苏里王朝权威崩溃之际，来自拉达阿地区的塔希尔兄弟夺取亚丁和扎比德，自立为苏丹。他们恢复了南部和帖哈麦的秩序，延续了拉苏里王朝扶持学术与营建的传统。在其统治期间，与北方宰德派伊玛目的对立始终未断。",
+    "ja": "1454年、ラスール朝の権威が崩れる中、ラダーア地方出身のターヒル家の兄弟がアデンとザビードを掌握し、スルタンを称した。彼らは南部とティハーマの秩序を回復し、学問と建築を後援するラスール朝の伝統を受け継いだ。北部のザイド派イマームとの対立はその治世を通じて続いた。"
+   }
+  },
+  {
+   "year": 1504,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Amiriya Madrasa in Rada'",
+    "ko": "라다아의 아미리야 마드라사",
+    "zh": "拉达阿的阿米里亚经学院",
+    "ja": "ラダーアのアーミリーヤ・マドラサ"
+   },
+   "description": {
+    "en": "In 1504 the Tahirid sultan Amir ibn Abd al-Wahhab completed the Amiriya Madrasa in Rada', a domed building with elaborate painted and carved interiors. It is one of the masterpieces of Yemeni Islamic architecture. Long neglected, it was carefully restored in a decades-long project completed in the 2000s.",
+    "ko": "1504년 타히르 왕조의 술탄 아미르 이븐 압둘와하브는 라다아에 정교하게 채색되고 조각된 내부를 지닌 돔 건물인 아미리야 마드라사를 완공했다. 이 건물은 예멘 이슬람 건축의 걸작 가운데 하나다. 오랫동안 방치되었던 이 건물은 2000년대에 마무리된 수십 년간의 사업으로 정성스럽게 복원되었다.",
+    "zh": "1504年，塔希尔苏丹阿米尔·伊本·阿卜杜勒瓦哈卜在拉达阿建成阿米里亚经学院，这座圆顶建筑内部饰以精美的彩绘与雕刻，是也门伊斯兰建筑的杰作之一。它曾长期荒废，经过历时数十年、于21世纪初完成的修复工程而得以重现。",
+    "ja": "1504年、ターヒル朝のスルタン、アーミル・イブン・アブドゥルワッハーブはラダーアに、精巧な彩色と彫刻で内部を飾ったドーム建築アーミーリーヤ・マドラサを完成させた。これはイエメン・イスラム建築の傑作の一つである。長く放置されていたが、2000年代に完了した数十年がかりの事業で丁寧に修復された。"
+   }
+  },
+  {
+   "year": 1513,
+   "qid": "Q55885827",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Portuguese attack on Aden",
+    "ko": "포르투갈의 아덴 공격",
+    "zh": "葡萄牙进攻亚丁",
+    "ja": "ポルトガルのアデン攻撃"
+   },
+   "description": {
+    "en": "In 1513 the Portuguese commander Afonso de Albuquerque attacked Aden, hoping to seize the key to the Red Sea and cut the spice trade to Egypt. The assault on the fortified city failed, and his fleet went on into the Red Sea before withdrawing. The episode marked the arrival of European naval power and alarmed the Mamluks and later the Ottomans.",
+    "ko": "1513년 포르투갈 사령관 아폰수 드 알부케르크는 홍해의 관문을 장악하고 이집트로 가는 향신료 무역을 끊으려고 아덴을 공격했다. 요새화된 도시에 대한 공격은 실패했고, 그의 함대는 홍해 안으로 들어갔다가 물러났다. 이 사건은 유럽 해군 세력의 도래를 알렸고 맘루크와 이후 오스만을 긴장시켰다.",
+    "zh": "1513年，葡萄牙指挥官阿方索·德·阿尔布开克进攻亚丁，企图夺取红海门户、切断通往埃及的香料贸易。对这座设防城市的进攻以失败告终，其舰队驶入红海后又撤出。这一事件标志着欧洲海上力量的到来，令马穆鲁克以及后来的奥斯曼人深感警惕。",
+    "ja": "1513年、ポルトガルの司令官アフォンソ・デ・アルブケルケは、紅海の入口を押さえてエジプトへの香辛料交易を断とうとアデンを攻撃した。要塞化された都市への攻撃は失敗し、彼の艦隊は紅海に入った後に撤退した。この出来事はヨーロッパ海軍力の到来を告げ、マムルーク朝や後のオスマン帝国を警戒させた。"
+   }
+  },
+  {
+   "year": 1517,
+   "qid": "Q282428",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of the Tahirids",
+    "ko": "타히르 왕조의 멸망",
+    "zh": "塔希尔王朝灭亡",
+    "ja": "ターヒル朝の滅亡"
+   },
+   "description": {
+    "en": "Mamluk troops sent from Egypt, equipped with firearms, defeated the Tahirid sultan Amir ibn Abd al-Wahhab, who was killed near Sanaa in 1517. The same year the Ottomans conquered Egypt, and the Mamluk commanders in Yemen recognised Ottoman sovereignty. Aden remained for a time under local control, while the Zaydi imams regained ground in the highlands.",
+    "ko": "화기로 무장한 이집트의 맘루크군은 타히르 왕조의 술탄 아미르 이븐 압둘와하브를 격파했고, 그는 1517년 사나 근처에서 전사했다. 같은 해 오스만 제국이 이집트를 정복하자 예멘의 맘루크 지휘관들은 오스만의 주권을 인정했다. 아덴은 한동안 지방 세력의 통제 아래 남았고, 자이드파 이맘들은 고원에서 세력을 되찾았다.",
+    "zh": "从埃及派来的装备火器的马穆鲁克军队击败塔希尔苏丹阿米尔·伊本·阿卜杜勒瓦哈卜，后者于1517年在萨那附近阵亡。同年奥斯曼帝国征服埃及，驻也门的马穆鲁克将领承认奥斯曼的宗主权。亚丁一度仍由地方势力控制，而宰德派伊玛目则在高原收复失地。",
+    "ja": "火器で武装したエジプトのマムルーク軍はターヒル朝のスルタン、アーミル・イブン・アブドゥルワッハーブを破り、彼は1517年にサナア近郊で戦死した。同年オスマン帝国がエジプトを征服すると、イエメンのマムルーク軍指揮官たちはオスマンの主権を認めた。アデンはしばらく地方勢力の支配下に残り、ザイド派イマームは高原で勢力を取り戻した。"
+   }
+  },
+  {
+   "year": 1538,
+   "qid": "Q12560",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Ottomans take Aden",
+    "ko": "오스만의 아덴 점령",
+    "zh": "奥斯曼占领亚丁",
+    "ja": "オスマンのアデン占領"
+   },
+   "description": {
+    "en": "In 1538 an Ottoman fleet under Hadim Suleiman Pasha, on its way to fight the Portuguese at Diu in India, seized Aden and executed its ruler. The Ottomans then organised Yemen as a province (beylerbeylik) and advanced inland, taking Sanaa from the Zaydi imam in 1547. Yemen became the southern bulwark of Ottoman power in the Red Sea.",
+    "ko": "1538년 인도 디우에서 포르투갈과 싸우러 가던 하딤 쉴레이만 파샤의 오스만 함대가 아덴을 점령하고 그 통치자를 처형했다. 이후 오스만은 예멘을 주(베일레르베일릭)로 편성하고 내륙으로 진출해 1547년 자이드파 이맘에게서 사나를 빼앗았다. 예멘은 홍해에서 오스만 세력의 남쪽 보루가 되었다.",
+    "zh": "1538年，哈德姆·苏莱曼帕夏率领的奥斯曼舰队在前往印度第乌与葡萄牙人作战途中占领亚丁，并处决了当地统治者。随后奥斯曼将也门设为行省（贝勒贝伊辖区）并向内陆推进，于1547年从宰德派伊玛目手中夺取萨那。也门成为奥斯曼在红海势力的南方堡垒。",
+    "ja": "1538年、インドのディーウでポルトガルと戦うため航行中のハーディム・スレイマン・パシャ率いるオスマン艦隊がアデンを占領し、その支配者を処刑した。オスマンはその後イエメンを州（ベイレルベイリク）とし、内陸へ進んで1547年にザイド派イマームからサナアを奪った。イエメンは紅海におけるオスマン勢力の南の砦となった。"
+   }
+  },
+  {
+   "year": 1548,
+   "qid": "Q3049873",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Piri Reis recaptures Aden",
+    "ko": "피리 레이스의 아덴 탈환",
+    "zh": "皮里·雷斯收复亚丁",
+    "ja": "ピーリー・レイスのアデン奪回"
+   },
+   "description": {
+    "en": "In 1547 Aden rebelled against the Ottomans and sought Portuguese help. In early 1548 an Ottoman fleet commanded by the admiral and cartographer Piri Reis recaptured the city. The episode confirmed Ottoman control of the Red Sea entrance against Portuguese ambitions.",
+    "ko": "1547년 아덴이 오스만에 반기를 들고 포르투갈에 도움을 청했다. 1548년 초 제독이자 지도 제작자인 피리 레이스가 지휘하는 오스만 함대가 도시를 탈환했다. 이 사건으로 포르투갈의 야망에 맞서 홍해 입구에 대한 오스만의 지배가 확고해졌다.",
+    "zh": "1547年，亚丁反叛奥斯曼并寻求葡萄牙援助。1548年初，由海军将领兼地图学家皮里·雷斯指挥的奥斯曼舰队收复了该城。此事巩固了奥斯曼对红海入口的控制，挫败了葡萄牙的野心。",
+    "ja": "1547年、アデンはオスマンに背いてポルトガルに援助を求めた。1548年初め、提督で地図製作者でもあるピーリー・レイスが指揮するオスマン艦隊が町を奪回した。この出来事により、ポルトガルの野望に対して紅海入口のオスマン支配が確かなものとなった。"
+   }
+  },
+  {
+   "year": 1569,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Sinan Pasha's reconquest of Yemen",
+    "ko": "시난 파샤의 예멘 재정복",
+    "zh": "锡南帕夏再征也门",
+    "ja": "スィナン・パシャのイエメン再征服"
+   },
+   "description": {
+    "en": "In 1567 a great Zaydi revolt led by al-Mutahhar ibn Sharaf al-Din drove the Ottomans from most of Yemen, leaving them clinging to a few coastal points. Sultan Selim II sent an army under Koca Sinan Pasha, which landed in 1569 and over the next two years reconquered Sanaa and the highlands. The costly campaign restored Ottoman rule for another generation.",
+    "ko": "1567년 알무타하르 이븐 샤라프 앗딘이 이끈 대규모 자이드파 봉기로 오스만은 예멘 대부분에서 쫓겨나 몇몇 해안 거점에만 매달리게 되었다. 셀림 2세는 코자 시난 파샤가 이끄는 군대를 보냈고, 이 군대는 1569년 상륙해 이후 2년 동안 사나와 고원을 재정복했다. 많은 희생을 치른 이 원정으로 오스만의 지배는 한 세대 더 이어졌다.",
+    "zh": "1567年，穆塔哈尔·伊本·谢拉夫丁领导的宰德派大起义将奥斯曼人逐出也门大部，仅剩少数沿海据点。苏丹塞利姆二世派科贾·锡南帕夏率军出征，该军于1569年登陆，在此后两年间重新征服萨那和高原。这场代价高昂的战役使奥斯曼统治又延续了一代人。",
+    "ja": "1567年、ムタッハル・イブン・シャラフッディーン率いるザイド派の大反乱により、オスマンはイエメンの大半から追われ、わずかな沿岸拠点にしがみつくだけとなった。セリム2世はコジャ・スィナン・パシャ率いる軍を送り、この軍は1569年に上陸して以後2年でサナアと高原を再征服した。多大な犠牲を伴ったこの遠征で、オスマン支配はさらに一世代続いた。"
+   }
+  },
+  {
+   "year": 1597,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Revolt of al-Mansur al-Qasim",
+    "ko": "알만수르 알카심의 봉기",
+    "zh": "曼苏尔·卡西姆起义",
+    "ja": "マンスール・カースィムの蜂起"
+   },
+   "description": {
+    "en": "In 1597 the Zaydi scholar al-Qasim ibn Muhammad proclaimed himself imam with the title al-Mansur and launched a war against Ottoman rule from the northern mountains. Despite setbacks and truces, his movement steadily gained tribal support. His sons continued the struggle after his death in 1620 and founded the Qasimid state.",
+    "ko": "1597년 자이드파 학자 알카심 이븐 무함마드는 알만수르라는 칭호로 이맘을 자처하고 북부 산악 지대에서 오스만 지배에 맞선 전쟁을 일으켰다. 좌절과 휴전을 거듭했지만 그의 운동은 꾸준히 부족들의 지지를 얻었다. 1620년 그가 죽은 뒤 아들들이 투쟁을 이어 카심 왕조 국가를 세웠다.",
+    "zh": "1597年，宰德派学者卡西姆·伊本·穆罕默德以“曼苏尔”为号自立为伊玛目，从北部山区发动反抗奥斯曼统治的战争。尽管屡有挫折与停战，他的运动不断赢得部族支持。1620年他去世后，其子嗣继续斗争并建立了卡西姆王朝国家。",
+    "ja": "1597年、ザイド派の学者カースィム・イブン・ムハンマドはマンスールの称号でイマームを名乗り、北部山地からオスマン支配に対する戦いを始めた。挫折や休戦を重ねながらも、その運動は着実に部族の支持を集めた。1620年の彼の死後、息子たちが闘争を引き継ぎ、カースィム家の国家を築いた。"
+   }
+  },
+  {
+   "year": 1618,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "European merchants come to Mocha",
+    "ko": "유럽 상인들의 모카 진출",
+    "zh": "欧洲商人来到穆哈",
+    "ja": "ヨーロッパ商人のモカ進出"
+   },
+   "description": {
+    "en": "In the early 17th century the English and Dutch East India Companies began trading at the Red Sea port of Mocha, the main outlet for Yemeni coffee; the English obtained permission for a factory there around 1618. Through the 17th century 'Mocha' coffee supplied the growing coffee houses of Cairo, Istanbul and Europe. Yemen's monopoly faded in the 18th century as the Dutch and French established plantations in Java and the Caribbean.",
+    "ko": "17세기 초 영국과 네덜란드 동인도회사는 예멘 커피의 주요 수출항인 홍해의 모카에서 교역을 시작했으며, 영국은 1618년 무렵 그곳에 상관을 세울 허가를 얻었다. 17세기 내내 '모카' 커피는 카이로, 이스탄불, 유럽에서 늘어나던 커피하우스에 공급되었다. 18세기에 네덜란드와 프랑스가 자바와 카리브해에 농장을 세우면서 예멘의 독점은 사라졌다.",
+    "zh": "17世纪初，英国和荷兰东印度公司开始在也门咖啡的主要出口港——红海港口穆哈进行贸易，英国约于1618年获准在此设立商馆。整个17世纪，“摩卡”咖啡供应着开罗、伊斯坦布尔和欧洲日益增多的咖啡馆。18世纪荷兰和法国在爪哇及加勒比地区开辟种植园后，也门的垄断地位随之消失。",
+    "ja": "17世紀初め、イギリスとオランダの東インド会社は、イエメン・コーヒーの主要な積出港である紅海のモカで交易を始め、イギリスは1618年頃にそこへ商館を置く許可を得た。17世紀を通じて「モカ」コーヒーはカイロ、イスタンブル、ヨーロッパで増えつつあったコーヒーハウスに供給された。18世紀にオランダとフランスがジャワやカリブ海に農園を開くと、イエメンの独占は失われた。"
+   }
+  },
+  {
+   "year": 1636,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Ottomans expelled from Yemen",
+    "ko": "오스만의 예멘 철수",
+    "zh": "奥斯曼人被逐出也门",
+    "ja": "オスマンのイエメン撤退"
+   },
+   "description": {
+    "en": "In 1636, after years of war with the Qasimid imam al-Mu'ayyad Muhammad, the last Ottoman garrisons left Yemen from Mocha. Yemen became an independent state under the Zaydi imams, one of the few parts of the Arab world outside Ottoman rule. The imams would hold most of the country for the next two centuries.",
+    "ko": "1636년 카심 왕조의 이맘 알무아이야드 무함마드와 수년간 전쟁을 치른 끝에 마지막 오스만 주둔군이 모카를 통해 예멘을 떠났다. 예멘은 자이드파 이맘이 다스리는 독립 국가가 되어 오스만 지배 밖에 있는 아랍 세계의 몇 안 되는 지역 중 하나가 되었다. 이맘들은 이후 2세기 동안 나라 대부분을 장악했다.",
+    "zh": "1636年，在与卡西姆王朝伊玛目穆艾耶德·穆罕默德多年交战后，最后一批奥斯曼驻军经穆哈撤离也门。也门成为由宰德派伊玛目统治的独立国家，是阿拉伯世界中少数不受奥斯曼统治的地区之一。此后两个世纪，伊玛目们掌握了国家的大部分地区。",
+    "ja": "1636年、カースィム家のイマーム、ムアイヤド・ムハンマドとの長年の戦争の末、最後のオスマン守備隊がモカからイエメンを去った。イエメンはザイド派イマームが治める独立国となり、オスマン支配の外にあるアラブ世界の数少ない地域の一つとなった。イマームたちはその後2世紀にわたり国土の大半を押さえた。"
+   }
+  },
+  {
+   "year": 1658,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Qasimid state at its greatest extent",
+    "ko": "카심 왕조의 최대 판도",
+    "zh": "卡西姆王朝的鼎盛疆域",
+    "ja": "カースィム朝の最大版図"
+   },
+   "description": {
+    "en": "Under Imam al-Mutawakkil Isma'il (r. 1644–1676), the Qasimid imamate extended its authority over Aden, Lahj, Yafa' and, by the late 1650s, Hadramawt. For the first time since the Sulayhids, nearly all of present-day Yemen was under one ruler. The expansion brought Shafi'i Sunni regions under Zaydi rule, creating tensions that soon loosened the imams' grip on the south.",
+    "ko": "이맘 알무타와킬 이스마일(재위 1644~1676) 치하에서 카심 왕조 이맘국은 아덴, 라히즈, 야파를 거쳐 1650년대 말에는 하드라마우트까지 권위를 넓혔다. 술라이흐 왕조 이후 처음으로 오늘날 예멘의 거의 전역이 한 통치자 아래 놓였다. 이 확장으로 샤피이파 수니 지역이 자이드파의 지배를 받게 되면서 긴장이 생겨났고, 곧 남부에 대한 이맘의 장악력이 약해졌다.",
+    "zh": "在伊玛目穆塔瓦基勒·伊斯玛仪（1644—1676年在位）治下，卡西姆伊玛目政权将权威扩展到亚丁、拉赫季、雅法，并于17世纪50年代末延伸至哈德拉毛。这是苏莱希王朝以来，今日也门几乎全境首次归于一位统治者。这一扩张使沙斐仪派逊尼地区受宰德派统治，引发紧张，伊玛目对南方的控制很快松动。",
+    "ja": "イマーム・ムタワッキル・イスマーイール（在位1644〜1676年）のもとで、カースィム家のイマーム国はアデン、ラヒジュ、ヤーフィウ、そして1650年代末にはハドラマウトにまで権威を広げた。スライフ朝以来初めて、現在のイエメンのほぼ全域が一人の支配者のもとに置かれた。この拡大でシャーフィイー派スンナ派の地域がザイド派の支配下に入って緊張が生まれ、まもなく南部に対するイマームの統制は緩んだ。"
+   }
+  },
+  {
+   "year": 1728,
+   "qid": "Q404774",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Lahej breaks away from the imams",
+    "ko": "라히즈의 이맘국 이탈",
+    "zh": "拉赫季脱离伊玛目",
+    "ja": "ラヒジュがイマーム国から離脱"
+   },
+   "description": {
+    "en": "In 1728 the Abdali chief Fadl ibn Ali threw off the authority of the Zaydi imam and established the Sultanate of Lahej, which soon controlled the port of Aden as well. Yafa' and other southern districts had already become independent. The breakaway marked the lasting division between the imams' north and the sultanates of the south.",
+    "ko": "1728년 압달리 족장 파들 이븐 알리는 자이드파 이맘의 권위를 거부하고 라히즈 술탄국을 세웠으며, 곧 아덴 항까지 지배했다. 야파 등 다른 남부 지역은 이미 독립한 상태였다. 이 이탈은 이맘의 북부와 남부 술탄국들 사이의 지속적인 분할을 상징했다.",
+    "zh": "1728年，阿卜达利酋长法德勒·伊本·阿里摆脱宰德派伊玛目的权威，建立拉赫季苏丹国，不久又控制了亚丁港。此前雅法等南部地区已经独立。这次分离标志着伊玛目治下的北方与南方诸苏丹国之间长期分立的格局。",
+    "ja": "1728年、アブダリー族の首長ファドル・イブン・アリーはザイド派イマームの権威を退けてラヒジュ・スルタン国を建て、まもなくアデン港も支配した。ヤーフィウなど他の南部地域はすでに独立していた。この離脱は、イマームの北部と南部のスルタン国との長く続く分断を象徴するものとなった。"
+   }
+  },
+  {
+   "year": 1763,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Niebuhr's Danish expedition",
+    "ko": "니부어의 덴마크 탐사대",
+    "zh": "尼布尔的丹麦考察队",
+    "ja": "ニーブールのデンマーク探検隊"
+   },
+   "description": {
+    "en": "In 1762–1763 the Danish Arabia expedition explored Yemen, visiting Mocha, Bayt al-Faqih and Sanaa, where they were received by the imam. Most members died of disease; the surviving surveyor Carsten Niebuhr published detailed maps and descriptions that became Europe's main source on Yemen for decades. The naturalist Peter Forsskål collected plants before his death at Yarim in 1763.",
+    "ko": "1762~1763년 덴마크 아라비아 탐사대는 예멘을 탐사하며 모카, 바이트 알파키, 사나를 방문했고 사나에서는 이맘의 접견을 받았다. 대원 대부분이 병으로 죽었으며, 살아남은 측량가 카르스텐 니부어가 펴낸 상세한 지도와 기록은 수십 년간 유럽에서 예멘에 관한 주요 자료가 되었다. 박물학자 페테르 포르스콜은 1763년 야림에서 죽기 전까지 식물을 채집했다.",
+    "zh": "1762至1763年，丹麦阿拉伯考察队在也门考察，到访穆哈、拜特法基赫和萨那，并在萨那受到伊玛目接见。队员大多病逝，幸存的测量师卡斯滕·尼布尔出版的详细地图和记述，数十年间成为欧洲了解也门的主要资料。博物学家彼得·福斯科尔在1763年死于亚里姆前一直在采集植物。",
+    "ja": "1762〜1763年、デンマークのアラビア探検隊はイエメンを調査し、モカ、バイト・アル＝ファキーフ、サナアを訪れ、サナアではイマームに謁見した。隊員の大半は病死し、生き残った測量士カールステン・ニーブールが出版した詳細な地図と記録は、数十年にわたりヨーロッパにおけるイエメンの主要な資料となった。博物学者ペーター・フォルスコールは1763年にヤリームで没するまで植物を採集した。"
+   }
+  },
+  {
+   "year": 1803,
+   "qid": "Q146871",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Wahhabi incursions into the Tihama",
+    "ko": "티하마로의 와하브파 침입",
+    "zh": "瓦哈比派进入帖哈麦",
+    "ja": "ティハーマへのワッハーブ派の侵入"
+   },
+   "description": {
+    "en": "In the first decade of the 19th century, forces allied with the First Saudi State (Emirate of Diriyah) and local chiefs of the Asir pressed into the northern Tihama, threatening ports such as Hodeidah and Mocha. The imam's authority over the coast weakened. The Saudi expansion was ended by Muhammad Ali of Egypt's campaigns, culminating in the fall of Diriyah in 1818.",
+    "ko": "19세기 첫 10년 동안 제1차 사우디 국가(디리야 토후국)와 동맹한 세력과 아시르의 지방 족장들이 북부 티하마로 밀고 들어와 호데이다와 모카 같은 항구를 위협했다. 해안에 대한 이맘의 권위는 약해졌다. 사우디의 팽창은 이집트 무함마드 알리의 원정으로 끝났으며, 그 절정은 1818년 디리야 함락이었다.",
+    "zh": "19世纪最初十年，与第一沙特国家（德拉伊耶酋长国）结盟的势力和阿西尔的地方酋长向北帖哈麦推进，威胁荷台达和穆哈等港口，伊玛目对沿海的权威随之削弱。沙特的扩张最终被埃及穆罕默德·阿里的征讨所终结，其高潮是1818年德拉伊耶陷落。",
+    "ja": "19世紀最初の10年間、第一次サウード王国（ディルイーヤ首長国）と同盟した勢力やアスィールの地方首長たちが北部ティハーマに進出し、ホデイダやモカなどの港を脅かした。海岸に対するイマームの権威は弱まった。サウード家の拡大はエジプトのムハンマド・アリーの遠征で終わり、その頂点は1818年のディルイーヤ陥落であった。"
+   }
+  },
+  {
+   "year": 1818,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Egyptian occupation of the Tihama",
+    "ko": "이집트의 티하마 점령",
+    "zh": "埃及占领帖哈麦",
+    "ja": "エジプトのティハーマ占領"
+   },
+   "description": {
+    "en": "After defeating the Saudis, the forces of Muhammad Ali of Egypt took over much of the Yemeni Tihama, controlling the coffee ports in the following decades. In 1820 a British squadron bombarded Mocha in a dispute over the treatment of British merchants. Egyptian forces withdrew in 1840 under European pressure, after Britain had taken Aden.",
+    "ko": "사우디 세력을 격파한 이집트 무함마드 알리의 군대는 예멘 티하마 대부분을 장악하고 이후 수십 년 동안 커피 항구들을 통제했다. 1820년에는 영국 상인 대우 문제를 둘러싼 분쟁으로 영국 함대가 모카를 포격했다. 이집트군은 영국이 아덴을 차지한 뒤인 1840년 유럽의 압력으로 철수했다.",
+    "zh": "击败沙特势力后，埃及穆罕默德·阿里的军队接管了也门帖哈麦大部分地区，此后数十年控制着咖啡港口。1820年，因英国商人待遇问题发生纠纷，一支英国舰队炮击了穆哈。英国占领亚丁后，埃及军队于1840年在欧洲压力下撤出。",
+    "ja": "サウード家を破ったエジプトのムハンマド・アリーの軍は、イエメンのティハーマの大半を押さえ、その後数十年にわたりコーヒー港を支配した。1820年にはイギリス商人の扱いをめぐる紛争から、イギリス艦隊がモカを砲撃した。エジプト軍はイギリスがアデンを取った後の1840年、ヨーロッパの圧力を受けて撤退した。"
+   }
+  },
+  {
+   "year": 1839,
+   "qid": "Q4682165",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Britain Takes Aden",
+    "ko": "영국의 아덴 점령",
+    "zh": "英国占领亚丁",
+    "ja": "イギリスのアデン占領"
+   },
+   "description": {
+    "en": "British forces seized the port of Aden, which grew into a vital coaling station on the route to India and, after the Suez Canal opened, one of the world's busiest harbors. East India Company forces captured the town from the Sultan of Lahej in January 1839, and Aden was governed as part of British India until 1937.",
+    "ko": "영국군이 아덴 항을 점령했다. 아덴은 인도 항로의 주요 석탄 보급항으로 성장했고, 수에즈 운하 개통 이후에는 세계에서 가장 붐비는 항구 중 하나가 되었다. 동인도회사 군대는 1839년 1월 라히즈 술탄에게서 이 도시를 빼앗았으며, 아덴은 1937년까지 영국령 인도의 일부로 통치되었다.",
+    "zh": "英军占领亚丁港。亚丁发展为通往印度航线上的重要加煤站，苏伊士运河开通后更成为世界最繁忙的港口之一。东印度公司军队于1839年1月从拉赫季苏丹手中夺取该城，此后亚丁作为英属印度的一部分受治，直至1937年。",
+    "ja": "イギリス軍がアデン港を占領した。アデンはインド航路の重要な石炭補給港として発展し、スエズ運河開通後は世界有数の繁忙港となった。東インド会社の軍は1839年1月にラヒジュのスルタンから町を奪い、アデンは1937年まで英領インドの一部として統治された。"
+   }
+  },
+  {
+   "year": 1849,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ottomans return to the Tihama",
+    "ko": "오스만의 티하마 복귀",
+    "zh": "奥斯曼重返帖哈麦",
+    "ja": "オスマンのティハーマ復帰"
+   },
+   "description": {
+    "en": "In 1849 the Ottomans reoccupied Hodeidah and the Tihama coast, partly to counter British influence after the seizure of Aden. An attempt to install a garrison in Sanaa that year ended in failure. For two decades Ottoman control remained limited to the coastal plain while the highlands fell into disorder among rival imams.",
+    "ko": "1849년 오스만은 부분적으로 영국의 아덴 점령 이후 영향력에 맞서기 위해 호데이다와 티하마 해안을 재점령했다. 같은 해 사나에 주둔군을 두려던 시도는 실패로 끝났다. 이후 20년 동안 오스만의 통제는 해안 평야에 그쳤고, 고원은 서로 다투는 이맘들 사이에서 혼란에 빠졌다.",
+    "zh": "1849年，奥斯曼重新占领荷台达和帖哈麦沿海，部分目的在于抗衡英国占领亚丁后的影响。同年在萨那驻军的尝试以失败告终。此后二十年间，奥斯曼的控制仅限于沿海平原，而高原则在相互争斗的伊玛目之间陷入混乱。",
+    "ja": "1849年、オスマンはアデン占領後のイギリスの影響力に対抗する意図もあり、ホデイダとティハーマ沿岸を再占領した。同年サナアに守備隊を置こうとした試みは失敗に終わった。その後20年間、オスマンの支配は沿岸平野にとどまり、高原は対立するイマームたちの間で混乱に陥った。"
+   }
+  },
+  {
+   "year": 1872,
+   "qid": "Q12560",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ottoman occupation of Sanaa",
+    "ko": "오스만의 사나 점령",
+    "zh": "奥斯曼占领萨那",
+    "ja": "オスマンのサナア占領"
+   },
+   "description": {
+    "en": "Using the newly opened Suez Canal to move troops, the Ottomans under Ahmed Muhtar Pasha marched into the highlands and occupied Sanaa in 1872. North Yemen was organised as the Vilayet of Yemen, and roads, telegraph lines and a few schools were introduced. Resentment at heavy taxation and foreign rule fed recurring Zaydi uprisings.",
+    "ko": "새로 개통된 수에즈 운하로 병력을 이동시킨 오스만은 아흐메트 무흐타르 파샤의 지휘 아래 고원으로 진군해 1872년 사나를 점령했다. 북예멘은 예멘 주로 편성되었고 도로, 전신선, 몇몇 학교가 들어섰다. 무거운 세금과 외세 지배에 대한 반감은 반복되는 자이드파 봉기의 원인이 되었다.",
+    "zh": "奥斯曼人借助新开通的苏伊士运河运兵，由艾哈迈德·穆赫塔尔帕夏率领进军高原，于1872年占领萨那。北也门被设为也门州，修建了道路、电报线和少数学校。对重税和外族统治的不满，助长了此起彼伏的宰德派起义。",
+    "ja": "新たに開通したスエズ運河で兵を送ったオスマンは、アフメト・ムフタル・パシャの指揮で高原に進軍し、1872年にサナアを占領した。北イエメンはイエメン州とされ、道路や電信線、いくつかの学校が導入された。重税と外国支配への反発は、繰り返されるザイド派の蜂起の原因となった。"
+   }
+  },
+  {
+   "year": 1886,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Protection treaties and the Aden Protectorate",
+    "ko": "보호 조약과 아덴 보호령",
+    "zh": "保护条约与亚丁保护地",
+    "ja": "保護条約とアデン保護領"
+   },
+   "description": {
+    "en": "From the 1880s Britain signed a series of protection treaties with the sultans, emirs and sheikhs of the Aden hinterland and Hadramawt, including the Qu'aiti sultan of Mukalla in 1888. In exchange for subsidies and protection, the rulers ceded control of their foreign relations to Britain. These agreements created the Aden Protectorate, a buffer against Ottoman expansion from the north.",
+    "ko": "1880년대부터 영국은 아덴 배후지와 하드라마우트의 술탄, 에미르, 셰이크들과 일련의 보호 조약을 맺었으며, 1888년 무칼라의 쿠아이티 술탄과의 조약도 그 하나였다. 통치자들은 보조금과 보호를 받는 대가로 대외 관계의 통제권을 영국에 넘겼다. 이 협정들로 북쪽 오스만의 팽창에 대한 완충지대인 아덴 보호령이 형성되었다.",
+    "zh": "自19世纪80年代起，英国与亚丁腹地及哈德拉毛的苏丹、埃米尔和谢赫签订一系列保护条约，其中包括1888年与穆卡拉古艾提苏丹所签条约。统治者们以接受津贴和保护为代价，将对外关系的控制权交给英国。这些协定形成了亚丁保护地，作为抵御北方奥斯曼扩张的缓冲区。",
+    "ja": "1880年代からイギリスはアデン後背地とハドラマウトのスルタン、首長、シャイフたちと一連の保護条約を結び、1888年のムカッラーのクアイティー朝スルタンとの条約もその一つであった。支配者たちは補助金と保護と引き換えに、対外関係の管理権をイギリスに委ねた。これらの協定によって、北方からのオスマンの拡大に対する緩衝地帯としてアデン保護領が形成された。"
+   }
+  },
+  {
+   "year": 1911,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Da'an",
+    "ko": "다안 조약",
+    "zh": "达安条约",
+    "ja": "ダアーン条約"
+   },
+   "description": {
+    "en": "After years of rebellion led by Imam Yahya Muhammad Hamid al-Din, including a siege of Sanaa in 1905, the Ottomans signed the Treaty of Da'an with him in 1911. It recognised the imam's authority over the Zaydi highlands in religious and judicial matters, while the Ottomans kept the Tihama and the Shafi'i south. The deal kept Yahya loyal to the Ottomans through the First World War.",
+    "ko": "1905년 사나 포위를 포함해 이맘 야히아 무함마드 하미드 앗딘이 이끈 수년간의 반란 끝에 오스만은 1911년 그와 다안 조약을 맺었다. 조약은 자이드파 고원에서 종교와 사법 문제에 관한 이맘의 권위를 인정했고, 오스만은 티하마와 샤피이파 남부를 유지했다. 이 합의로 야히아는 제1차 세계 대전 내내 오스만에 충성했다.",
+    "zh": "在伊玛目叶海亚·穆罕默德·哈米德丁领导的多年叛乱（包括1905年围攻萨那）之后，奥斯曼于1911年与他签订《达安条约》。条约承认伊玛目在宰德派高原的宗教与司法权威，奥斯曼则保有帖哈麦和沙斐仪派的南部地区。这一协议使叶海亚在第一次世界大战期间始终效忠奥斯曼。",
+    "ja": "1905年のサナア包囲を含むイマーム・ヤフヤー・ムハンマド・ハミードッディーンの長年の反乱の末、オスマンは1911年に彼とダアーン条約を結んだ。条約はザイド派の高原における宗教・司法上のイマームの権威を認め、オスマンはティハーマとシャーフィイー派の南部を保持した。この合意により、ヤフヤーは第一次世界大戦を通じてオスマンに忠実であり続けた。"
+   }
+  },
+  {
+   "year": 1914,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Anglo-Ottoman boundary fixed",
+    "ko": "영국-오스만 경계 확정",
+    "zh": "英奥划定边界",
+    "ja": "英オスマン境界の確定"
+   },
+   "description": {
+    "en": "Between 1902 and 1905 an Anglo-Ottoman commission demarcated the boundary between the Ottoman Vilayet of Yemen and the British-protected Aden hinterland, and the line was confirmed in an Anglo-Ottoman convention of 1914. Although never accepted by later imams, this line became the basis of the border between North and South Yemen. It thus shaped the two states that emerged in the 20th century.",
+    "ko": "1902년부터 1905년까지 영국과 오스만의 위원회가 오스만의 예멘 주와 영국 보호하의 아덴 배후지 사이의 경계를 획정했고, 이 선은 1914년 영국-오스만 협약으로 확인되었다. 후대의 이맘들은 이를 끝내 인정하지 않았지만, 이 선은 남북 예멘 국경의 기초가 되었다. 그리하여 20세기에 등장한 두 국가의 모습을 결정지었다.",
+    "zh": "1902至1905年，英奥联合委员会勘定了奥斯曼也门州与英国保护下的亚丁腹地之间的边界，1914年的英奥协约确认了这条界线。尽管后来的伊玛目始终不予承认，这条线仍成为南北也门边界的基础，从而塑造了20世纪出现的两个国家。",
+    "ja": "1902年から1905年にかけて、英オスマン合同委員会がオスマンのイエメン州とイギリス保護下のアデン後背地との境界を画定し、この線は1914年の英オスマン協定で確認された。後のイマームたちは決して認めなかったが、この線は南北イエメン国境の基礎となった。こうして20世紀に現れた二つの国家の形が決まった。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independent Kingdom in North Yemen",
+    "ko": "북예멘 무타와킬 왕국의 독립",
+    "zh": "北也门穆塔瓦基利亚王国独立",
+    "ja": "北イエメンのムタワッキル王国独立"
+   },
+   "description": {
+    "en": "With the Ottoman Empire's collapse, Imam Yahya established the independent Mutawakkilite Kingdom in North Yemen, pursuing isolationist rule while Britain held Aden and the south. Yahya's claims to the British-held south and to Asir later led to conflict with both Britain and Saudi Arabia.",
+    "ko": "오스만 제국이 붕괴하자 이맘 야히아가 북예멘에 독립 무타와킬 왕국을 세워 폐쇄적인 통치를 폈다. 남부와 아덴은 여전히 영국의 지배 아래 있었다. 영국이 장악한 남부와 아시르에 대한 야히아의 영유권 주장은 훗날 영국 및 사우디아라비아와의 충돌로 이어졌다.",
+    "zh": "奥斯曼帝国崩溃后，伊玛目叶海亚在北也门建立独立的穆塔瓦基利亚王国，实行封闭统治；亚丁及南部仍处于英国控制之下。叶海亚对英国控制的南部以及阿西尔的领土主张，后来引发了与英国和沙特阿拉伯的冲突。",
+    "ja": "オスマン帝国の崩壊に伴い、イマーム・ヤフヤーが北イエメンに独立のムタワッキル王国を樹立し、鎖国的な統治を行った。アデンと南部は依然イギリスの支配下にあった。イギリスが押さえる南部とアスィールに対するヤフヤーの領有主張は、後にイギリスおよびサウジアラビアとの衝突を招いた。"
+   }
+  },
+  {
+   "year": 1934,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Saudi–Yemeni War and Treaty of Taif",
+    "ko": "사우디-예멘 전쟁과 타이프 조약",
+    "zh": "沙特-也门战争与塔伊夫条约",
+    "ja": "サウジ・イエメン戦争とターイフ条約"
+   },
+   "description": {
+    "en": "Disputes over Asir and Najran led to war between Imam Yahya and Ibn Saud in 1934; Saudi forces advanced down the coast and occupied Hodeidah. The Treaty of Taif, signed in May 1934, restored the captured Yemeni territory but left Asir, Jizan and Najran under Saudi rule. The same year Yahya also concluded a treaty with Britain that froze the dispute over the southern border.",
+    "ko": "아시르와 나지란을 둘러싼 분쟁으로 1934년 이맘 야히아와 이븐 사우드 사이에 전쟁이 벌어졌고, 사우디군은 해안을 따라 내려와 호데이다를 점령했다. 1934년 5월 체결된 타이프 조약으로 점령된 예멘 영토는 반환되었지만 아시르, 지잔, 나지란은 사우디 지배 아래 남았다. 같은 해 야히아는 영국과도 조약을 맺어 남부 국경 분쟁을 동결했다.",
+    "zh": "1934年，围绕阿西尔和纳季兰的争端引发伊玛目叶海亚与伊本·沙特之间的战争，沙特军队沿海岸南下占领荷台达。1934年5月签订的《塔伊夫条约》归还了被占的也门领土，但阿西尔、吉赞和纳季兰仍归沙特统治。同年叶海亚还与英国缔约，暂时搁置了南部边界争端。",
+    "ja": "アスィールとナジュラーンをめぐる対立から、1934年にイマーム・ヤフヤーとイブン・サウードの間で戦争が起き、サウジ軍は海岸沿いに南下してホデイダを占領した。1934年5月に結ばれたターイフ条約で占領されたイエメン領は返還されたが、アスィール、ジーザーン、ナジュラーンはサウジの支配下に残った。同年ヤフヤーはイギリスとも条約を結び、南部国境問題を棚上げにした。"
+   }
+  },
+  {
+   "year": 1937,
+   "qid": "Q49910",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Aden becomes a Crown Colony",
+    "ko": "아덴의 직할 식민지 전환",
+    "zh": "亚丁成为直辖殖民地",
+    "ja": "アデンの直轄植民地化"
+   },
+   "description": {
+    "en": "On 1 April 1937 Aden was separated from British India and made a Crown Colony administered from London. The hinterland states were divided for administration into the Western and Eastern Aden Protectorates. Aden's port, refinery (opened in 1954) and military base made it one of Britain's key imperial outposts.",
+    "ko": "1937년 4월 1일 아덴은 영국령 인도에서 분리되어 런던이 직접 관할하는 직할 식민지가 되었다. 배후지 국가들은 행정상 서부 아덴 보호령과 동부 아덴 보호령으로 나뉘었다. 아덴의 항구, 정유소(1954년 가동), 군사 기지는 아덴을 영국 제국의 핵심 거점 가운데 하나로 만들었다.",
+    "zh": "1937年4月1日，亚丁从英属印度分离，成为由伦敦直接管辖的直辖殖民地。腹地诸邦在行政上被划分为西亚丁保护地和东亚丁保护地。亚丁的港口、炼油厂（1954年投产）和军事基地使其成为大英帝国的重要前哨之一。",
+    "ja": "1937年4月1日、アデンは英領インドから切り離され、ロンドンが直接管轄する直轄植民地となった。後背地の諸国は行政上、西アデン保護領と東アデン保護領に分けられた。アデンの港、製油所（1954年稼働）、軍事基地は、アデンをイギリス帝国の要の拠点の一つにした。"
+   }
+  },
+  {
+   "year": 1948,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Alwaziri coup and death of Imam Yahya",
+    "ko": "알와지리 쿠데타와 이맘 야히아 암살",
+    "zh": "瓦齐尔政变与伊玛目叶海亚遇刺",
+    "ja": "ワズィーリー・クーデターとイマーム・ヤフヤー暗殺"
+   },
+   "description": {
+    "en": "In February 1948 Imam Yahya was assassinated near Sanaa in a coup backed by the reformist Free Yemeni movement, and Abdullah al-Wazir was proclaimed imam with a constitutional programme. Within weeks Yahya's son Ahmad rallied the tribes, retook Sanaa, allowed it to be looted, and executed the coup leaders. Imam Ahmad then ruled from Taiz, continuing his father's autocratic and isolationist system.",
+    "ko": "1948년 2월 개혁파 '자유 예멘인' 운동이 지원한 쿠데타로 이맘 야히아가 사나 근처에서 암살되었고, 압둘라 알와지르가 입헌적 강령을 내걸고 이맘으로 추대되었다. 몇 주 만에 야히아의 아들 아흐마드가 부족들을 규합해 사나를 탈환했고, 도시의 약탈을 허용했으며 쿠데타 주모자들을 처형했다. 이후 이맘 아흐마드는 타이즈에서 통치하며 아버지의 전제적이고 폐쇄적인 체제를 이어 갔다.",
+    "zh": "1948年2月，在改良派“自由也门人”运动支持的政变中，伊玛目叶海亚在萨那附近遇刺，阿卜杜拉·瓦齐尔以立宪纲领被拥立为伊玛目。数周之内，叶海亚之子艾哈迈德召集部族夺回萨那，纵兵洗劫该城，并处决了政变领导人。此后伊玛目艾哈迈德以塔伊兹为中心统治，延续其父的专制与闭关体制。",
+    "ja": "1948年2月、改革派の「自由イエメン人」運動が支援したクーデターでイマーム・ヤフヤーがサナア近郊で暗殺され、アブドゥッラー・アル＝ワズィールが立憲的な綱領を掲げてイマームに推された。数週間のうちにヤフヤーの息子アフマドが部族を糾合してサナアを奪還し、町の略奪を許し、クーデターの首謀者たちを処刑した。その後イマーム・アフマドはタイズから統治し、父の専制的で閉鎖的な体制を受け継いだ。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Operation Magic Carpet",
+    "ko": "마법의 양탄자 작전",
+    "zh": "魔毯行动",
+    "ja": "魔法の絨毯作戦"
+   },
+   "description": {
+    "en": "Between 1949 and 1950 almost the entire Jewish community of Yemen, about 49,000 people, was airlifted to the new State of Israel from Aden in Operation 'On Wings of Eagles', popularly called Operation Magic Carpet. Many walked for weeks from their villages to a transit camp near Aden. The exodus ended more than two thousand years of continuous Jewish life in Yemen except for a small remnant.",
+    "ko": "1949년부터 1950년까지 예멘 유대인 공동체 거의 전체인 약 4만 9천 명이 '독수리 날개' 작전, 흔히 '마법의 양탄자 작전'으로 불리는 공수 작전을 통해 아덴에서 신생 이스라엘로 옮겨졌다. 많은 이들이 마을에서 아덴 근처의 임시 수용소까지 몇 주 동안 걸어서 이동했다. 이 대이주로 작은 잔존 집단을 제외하면 예멘에서 2천 년 넘게 이어진 유대인의 삶이 끝났다.",
+    "zh": "1949至1950年间，几乎整个也门犹太社群约4.9万人，通过“鹰之翼”行动（俗称“魔毯行动”）从亚丁空运至新成立的以色列国。许多人从村庄步行数周才抵达亚丁附近的中转营地。这次大迁徙使也门延续两千多年的犹太人生活基本终结，仅余少数人留下。",
+    "ja": "1949年から1950年にかけて、イエメンのユダヤ人共同体のほぼ全体にあたる約4万9千人が、「鷲の翼」作戦、通称「魔法の絨毯作戦」によってアデンから建国間もないイスラエルへ空輸された。多くの人が村からアデン近郊の中継キャンプまで何週間も歩いた。この大移住により、わずかな残留者を除き、イエメンで二千年以上続いたユダヤ人の生活は終わった。"
+   }
+  },
+  {
+   "year": 1958,
+   "qid": "Q856843",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Yemen joins the United Arab States",
+    "ko": "아랍 연합국 가입",
+    "zh": "加入阿拉伯合众国",
+    "ja": "アラブ連合国への参加"
+   },
+   "description": {
+    "en": "In 1958 Imam Ahmad joined his kingdom to the United Arab Republic of Egypt and Syria in a loose confederation called the United Arab States. The link was largely symbolic and did little to change the imamate's internal order. After Syria left the UAR in 1961 and Ahmad publicly criticised Nasser's socialism, Egypt dissolved the federation.",
+    "ko": "1958년 이맘 아흐마드는 자신의 왕국을 이집트와 시리아의 아랍 연합 공화국과 느슨하게 묶은 '아랍 연합국'에 가입시켰다. 이 결합은 대체로 상징적인 것이어서 이맘국의 내부 질서는 거의 바뀌지 않았다. 1961년 시리아가 연합 공화국에서 탈퇴하고 아흐마드가 나세르의 사회주의를 공개 비판하자 이집트는 이 연방을 해체했다.",
+    "zh": "1958年，伊玛目艾哈迈德将王国与埃及、叙利亚组成的阿拉伯联合共和国结成松散的邦联，称“阿拉伯合众国”。这一联合基本是象征性的，几乎未改变伊玛目政权的内部秩序。1961年叙利亚退出阿联，艾哈迈德又公开批评纳赛尔的社会主义，埃及随即解散了该邦联。",
+    "ja": "1958年、イマーム・アフマドは自らの王国を、エジプトとシリアのアラブ連合共和国とともに「アラブ連合国」という緩やかな連合に加えた。この結びつきは主に象徴的なもので、イマーム国の内部秩序はほとんど変わらなかった。1961年にシリアがアラブ連合共和国を離脱し、アフマドがナセルの社会主義を公然と批判すると、エジプトはこの連合を解消した。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": "Q267584",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Revolution in North Yemen",
+    "ko": "북예멘 혁명",
+    "zh": "北也门革命",
+    "ja": "北イエメン革命"
+   },
+   "description": {
+    "en": "Army officers overthrew the newly enthroned imam and proclaimed the Yemen Arab Republic, triggering an eight-year civil war between republicans backed by Egypt and royalists backed by Saudi Arabia. Imam Ahmad died on 19 September 1962; a week later officers led by Abdullah al-Sallal shelled the palace of his son Muhammad al-Badr, who escaped to lead the royalist resistance.",
+    "ko": "군 장교들이 즉위 직후의 이맘을 축출하고 예멘 아랍 공화국을 선포했다. 이집트가 지원한 공화파와 사우디아라비아가 지원한 왕당파 사이에 8년간의 내전이 이어졌다. 이맘 아흐마드는 1962년 9월 19일 사망했고, 일주일 뒤 압둘라 알살랄이 이끄는 장교들이 그의 아들 무함마드 알바드르의 궁전을 포격했으나 알바드르는 탈출해 왕당파 저항을 이끌었다.",
+    "zh": "军官集团推翻刚即位的伊玛目，宣告成立阿拉伯也门共和国。此后，埃及支持的共和派与沙特支持的保皇派之间爆发了长达八年的内战。伊玛目艾哈迈德于1962年9月19日去世；一周后，阿卜杜拉·萨拉勒率领的军官炮轰其子穆罕默德·巴德尔的王宫，巴德尔出逃并领导保皇派抵抗。",
+    "ja": "軍将校らが即位間もないイマームを打倒し、イエメン・アラブ共和国を宣言した。エジプトが支援する共和派とサウジアラビアが支援する王党派の間で8年に及ぶ内戦が続いた。イマーム・アフマドは1962年9月19日に死去し、1週間後、アブドゥッラー・アッ＝サッラール率いる将校たちが息子ムハンマド・アル＝バドルの宮殿を砲撃したが、バドルは脱出して王党派の抵抗を率いた。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": "Q834486",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Aden Emergency begins",
+    "ko": "아덴 비상사태의 시작",
+    "zh": "亚丁紧急状态开始",
+    "ja": "アデン非常事態の始まり"
+   },
+   "description": {
+    "en": "In January 1963 Aden was merged into the British-sponsored Federation of South Arabia, despite opposition from the city's nationalist trade unions. On 14 October 1963 an armed revolt began in the Radfan mountains, a date still celebrated as the start of the southern revolution, and in December a grenade attack at Aden airport led Britain to declare a state of emergency. The National Liberation Front and the rival FLOSY waged an insurgency against British forces for the next four years.",
+    "ko": "1963년 1월 아덴은 도시의 민족주의 노동조합들의 반대에도 영국이 후원한 남아라비아 연방에 편입되었다. 1963년 10월 14일 라드판 산지에서 무장 봉기가 시작되었고 이날은 지금도 남부 혁명의 시작으로 기념되며, 12월 아덴 공항의 수류탄 공격 이후 영국은 비상사태를 선포했다. 민족해방전선과 경쟁 조직 FLOSY는 이후 4년 동안 영국군에 맞서 무장 투쟁을 벌였다.",
+    "zh": "1963年1月，尽管遭到亚丁民族主义工会的反对，亚丁仍被并入英国扶持的南阿拉伯联邦。1963年10月14日，拉德凡山区爆发武装起义，这一天至今仍被纪念为南方革命的开端；同年12月亚丁机场发生手榴弹袭击，英国随即宣布紧急状态。此后四年，民族解放阵线及其对手“解放被占领南也门阵线”对英军展开武装斗争。",
+    "ja": "1963年1月、アデンは市内の民族主義的労働組合の反対にもかかわらず、イギリスが後押しする南アラビア連邦に編入された。1963年10月14日にラドファーン山地で武装蜂起が始まり、この日は今も南部革命の始まりとして記念されている。12月にアデン空港で手榴弾攻撃が起きるとイギリスは非常事態を宣言し、民族解放戦線と対抗組織FLOSYはその後4年間イギリス軍に対する武装闘争を続けた。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": "Q199841",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "South Yemen Wins Independence",
+    "ko": "남예멘 독립",
+    "zh": "南也门独立",
+    "ja": "南イエメンの独立"
+   },
+   "description": {
+    "en": "After an armed uprising, Britain withdrew from Aden and the south became the People's Republic of South Yemen, soon the Arab world's only Marxist state. The National Liberation Front took power after defeating its rival FLOSY, and the last British troops left Aden at the end of November 1967.",
+    "ko": "무장 봉기 끝에 영국이 아덴에서 철수하고 남예멘 인민공화국이 수립되었다. 남예멘은 곧 아랍권 유일의 마르크스주의 국가가 되었다. 민족해방전선은 경쟁 조직 FLOSY를 물리친 뒤 권력을 잡았고, 마지막 영국군은 1967년 11월 말 아덴을 떠났다.",
+    "zh": "经过武装起义，英国撤出亚丁，南方成立南也门人民共和国，不久成为阿拉伯世界唯一的马克思主义国家。民族解放阵线在击败对手“解放被占领南也门阵线”后掌握政权，最后一批英军于1967年11月底撤离亚丁。",
+    "ja": "武装蜂起の末にイギリスがアデンから撤退し、南イエメン人民共和国が成立した。南イエメンはまもなくアラブ世界唯一のマルクス主義国家となった。民族解放戦線は対抗組織FLOSYを破って権力を握り、最後のイギリス軍は1967年11月末にアデンを去った。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": "Q16966603",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Battle of the Crater",
+    "ko": "크레이터 전투",
+    "zh": "火山口区之战",
+    "ja": "クレーターの戦い"
+   },
+   "description": {
+    "en": "On 20 June 1967 a mutiny in the South Arabian police and army in Aden left British soldiers dead, and insurgents seized the Crater district, the old town of Aden. British troops retook Crater in early July 1967. The episode showed that Britain could no longer control the colony and hastened its withdrawal.",
+    "ko": "1967년 6월 20일 아덴의 남아라비아 경찰과 군대에서 반란이 일어나 영국 군인들이 숨졌고, 반군은 아덴 구시가인 크레이터 지구를 장악했다. 영국군은 1967년 7월 초 크레이터를 다시 점령했다. 이 사건은 영국이 더는 식민지를 통제할 수 없음을 보여 주었고 철수를 앞당겼다.",
+    "zh": "1967年6月20日，亚丁的南阿拉伯警察和军队发生哗变，多名英军士兵丧生，起义者占领了亚丁老城区“火山口区”。英军于1967年7月初重新夺回该区。这一事件表明英国已无法控制这块殖民地，加速了其撤离。",
+    "ja": "1967年6月20日、アデンの南アラビア警察と軍で反乱が起きてイギリス兵が死亡し、反乱者はアデンの旧市街であるクレーター地区を占拠した。イギリス軍は1967年7月初めにクレーターを奪回した。この出来事はイギリスがもはや植民地を統制できないことを示し、撤退を早めた。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": "Q17034099",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Siege of Sanaa",
+    "ko": "사나 포위전",
+    "zh": "萨那之围",
+    "ja": "サナア包囲戦"
+   },
+   "description": {
+    "en": "After Egyptian troops withdrew from North Yemen following the 1967 Arab–Israeli war, royalist forces surrounded Sanaa in late 1967. The republicans, defended by soldiers and popular militias, held out for about seventy days until the siege was broken in February 1968. The republic's survival led to a negotiated end to the civil war in 1970.",
+    "ko": "1967년 아랍-이스라엘 전쟁 이후 이집트군이 북예멘에서 철수하자, 왕당파 군대는 1967년 말 사나를 포위했다. 군인과 민병대가 지킨 공화파는 약 70일 동안 버텼고, 1968년 2월 포위가 풀렸다. 공화국이 살아남으면서 1970년 협상을 통한 내전 종식으로 이어졌다.",
+    "zh": "1967年阿以战争后埃及军队撤出北也门，保皇派军队于1967年底包围萨那。由士兵和民兵防守的共和派坚守约七十天，围城于1968年2月被打破。共和国的存续最终促成了1970年通过谈判结束内战。",
+    "ja": "1967年の第三次中東戦争後にエジプト軍が北イエメンから撤退すると、王党派の軍は1967年末にサナアを包囲した。兵士と民兵に守られた共和派は約70日間持ちこたえ、1968年2月に包囲は破られた。共和国が生き延びたことは、1970年の交渉による内戦終結につながった。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "End of the North Yemen civil war; PDRY proclaimed",
+    "ko": "북예멘 내전 종식과 남예멘 인민민주공화국 선포",
+    "zh": "北也门内战结束与南也门民主人民共和国成立",
+    "ja": "北イエメン内戦の終結と南イエメン民主人民共和国の成立"
+   },
+   "description": {
+    "en": "In 1970 a reconciliation brought most royalists into the Yemen Arab Republic's institutions, and Saudi Arabia recognised the republic, ending the North's civil war. In the South, after a 1969 leftist 'corrective move' within the National Liberation Front, the state adopted a new constitution and renamed itself the People's Democratic Republic of Yemen on 30 November 1970. The two Yemens now pursued sharply different paths.",
+    "ko": "1970년 화해로 왕당파 대부분이 예멘 아랍 공화국의 제도에 편입되고 사우디아라비아가 공화국을 승인하면서 북예멘 내전이 끝났다. 남예멘에서는 1969년 민족해방전선 내 좌파의 '교정 운동' 이후 새 헌법을 채택하고 1970년 11월 30일 국호를 예멘 인민민주공화국으로 바꾸었다. 이제 두 예멘은 크게 다른 길을 걸었다.",
+    "zh": "1970年，和解使大部分保皇派进入阿拉伯也门共和国的体制，沙特阿拉伯承认共和国，北也门内战宣告结束。在南方，继1969年民族解放阵线内部左派发动“纠偏运动”之后，国家通过新宪法，并于1970年11月30日改国名为也门民主人民共和国。两个也门从此走上截然不同的道路。",
+    "ja": "1970年、和解によって王党派の大半がイエメン・アラブ共和国の制度に組み込まれ、サウジアラビアが共和国を承認して北の内戦は終わった。南では1969年の民族解放戦線内の左派による「是正運動」の後、新憲法を採択し、1970年11月30日に国名をイエメン民主人民共和国と改めた。二つのイエメンはこれ以降、大きく異なる道を歩んだ。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": "Q16126368",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "First inter-Yemeni war",
+    "ko": "제1차 남북 예멘 전쟁",
+    "zh": "第一次南北也门战争",
+    "ja": "第一次南北イエメン戦争"
+   },
+   "description": {
+    "en": "Border clashes between North and South Yemen, fuelled by exiles on both sides, escalated into a short war in autumn 1972. Arab League mediation produced a ceasefire and the Cairo Agreement of October 1972, in which both governments pledged to unite. Unity talks, however, made little progress for years.",
+    "ko": "양측 망명 세력이 부추긴 남북 예멘 간 국경 충돌은 1972년 가을 짧은 전쟁으로 번졌다. 아랍 연맹의 중재로 휴전과 1972년 10월 카이로 협정이 성사되었고, 두 정부는 통일을 약속했다. 그러나 통일 협상은 수년간 거의 진전이 없었다.",
+    "zh": "在双方流亡者的推波助澜下，南北也门的边境冲突于1972年秋升级为短暂战争。经阿拉伯联盟斡旋，双方停火并于1972年10月签订《开罗协议》，承诺实现统一。然而统一谈判此后多年进展甚微。",
+    "ja": "双方の亡命者にあおられた南北イエメンの国境衝突は、1972年秋に短期間の戦争へと拡大した。アラブ連盟の仲介で停戦と1972年10月のカイロ協定が成立し、両政府は統一を約束した。しかし統一交渉はその後何年もほとんど進まなかった。"
+   }
+  },
+  {
+   "year": 1974,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Al-Hamdi's corrective movement",
+    "ko": "알함디의 교정 운동",
+    "zh": "哈姆迪的纠偏运动",
+    "ja": "ハムディーの是正運動"
+   },
+   "description": {
+    "en": "In June 1974 Colonel Ibrahim al-Hamdi took power in North Yemen in a bloodless coup, launching a 'corrective movement' to curb tribal sheikhs and build state institutions. His reforms and local development cooperatives made him popular, and he sought closer ties with the South. He was assassinated in October 1977, a killing never fully explained.",
+    "ko": "1974년 6월 이브라힘 알함디 대령은 무혈 쿠데타로 북예멘의 권력을 잡고 부족 셰이크들의 힘을 억제하고 국가 제도를 세우려는 '교정 운동'을 시작했다. 그의 개혁과 지역 개발 협동조합은 큰 인기를 얻었고, 그는 남예멘과의 관계 개선을 꾀했다. 그는 1977년 10월 암살되었는데, 사건의 진상은 끝내 완전히 밝혀지지 않았다.",
+    "zh": "1974年6月，易卜拉欣·哈姆迪上校通过不流血政变在北也门掌权，发起旨在遏制部族谢赫势力、建设国家机构的“纠偏运动”。他的改革和地方发展合作社使他深得民心，他还寻求与南方改善关系。1977年10月他遇刺身亡，此案真相至今未完全查明。",
+    "ja": "1974年6月、イブラーヒーム・アル＝ハムディー大佐は無血クーデターで北イエメンの権力を握り、部族のシャイフの力を抑え国家制度を築く「是正運動」を始めた。彼の改革と地域開発協同組合は人気を集め、彼は南との関係改善を図った。1977年10月に暗殺されたが、その真相は今も完全には解明されていない。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ali Abdullah Saleh becomes president",
+    "ko": "알리 압둘라 살레의 대통령 취임",
+    "zh": "阿里·阿卜杜拉·萨利赫就任总统",
+    "ja": "アリー・アブドッラー・サーレハの大統領就任"
+   },
+   "description": {
+    "en": "After al-Hamdi's successor Ahmad al-Ghashmi was killed by a bomb in June 1978, the army officer Ali Abdullah Saleh was chosen president of North Yemen in July 1978. Few expected him to last, but he survived a coup attempt and a leftist insurgency by the National Democratic Front backed by the South. Saleh went on to rule North and then unified Yemen for 33 years.",
+    "ko": "알함디의 후계자 아흐마드 알가슈미가 1978년 6월 폭탄 공격으로 사망하자, 군 장교 알리 압둘라 살레가 1978년 7월 북예멘 대통령으로 선출되었다. 그가 오래 버티리라 예상한 이는 드물었지만, 그는 쿠데타 시도와 남예멘이 지원한 민족민주전선의 좌파 반란을 견뎌 냈다. 살레는 이후 33년 동안 북예멘과 통일 예멘을 통치했다.",
+    "zh": "哈姆迪的继任者艾哈迈德·加什米于1978年6月被炸身亡后，军官阿里·阿卜杜拉·萨利赫于1978年7月当选北也门总统。当时很少有人认为他能长久执政，但他挺过了一次政变图谋以及南方支持的民族民主阵线的左翼叛乱。此后萨利赫先后统治北也门和统一后的也门达33年之久。",
+    "ja": "ハムディーの後継者アフマド・アル＝ガシュミーが1978年6月に爆弾で殺害されると、軍人アリー・アブドッラー・サーレハが1978年7月に北イエメン大統領に選ばれた。彼が長く続くと予想した者は少なかったが、彼はクーデター未遂と南が支援する民族民主戦線の左派反乱を乗り越えた。サーレハはその後33年にわたり北イエメン、続いて統一イエメンを統治した。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Second inter-Yemeni war",
+    "ko": "제2차 남북 예멘 전쟁",
+    "zh": "第二次南北也门战争",
+    "ja": "第二次南北イエメン戦争"
+   },
+   "description": {
+    "en": "In February–March 1979 South Yemeni forces and the National Democratic Front advanced into North Yemen, prompting emergency US arms deliveries to the North. Arab mediation ended the fighting, and at a summit in Kuwait in March 1979 the two presidents again agreed to work towards unity. The war showed the Cold War stakes in the two Yemens.",
+    "ko": "1979년 2~3월 남예멘군과 민족민주전선이 북예멘으로 진격하자 미국은 북예멘에 긴급히 무기를 공급했다. 아랍 국가들의 중재로 전투가 끝났고, 1979년 3월 쿠웨이트 정상회담에서 두 대통령은 다시 통일을 위해 노력하기로 합의했다. 이 전쟁은 두 예멘을 둘러싼 냉전의 이해관계를 드러냈다.",
+    "zh": "1979年2月至3月，南也门军队与民族民主阵线攻入北也门，美国紧急向北也门运送武器。经阿拉伯国家斡旋战事平息，1979年3月两国总统在科威特峰会上再次同意致力于统一。这场战争显示了冷战在两个也门的利害角逐。",
+    "ja": "1979年2〜3月、南イエメン軍と民族民主戦線が北イエメンに進攻し、アメリカは北に緊急に武器を供与した。アラブ諸国の仲介で戦闘は終わり、1979年3月のクウェートでの首脳会談で両大統領は再び統一に向けて努力することで合意した。この戦争は二つのイエメンをめぐる冷戦の利害を浮き彫りにした。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": "Q3504562",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Dhamar earthquake",
+    "ko": "다마르 지진",
+    "zh": "扎马尔地震",
+    "ja": "ザマール地震"
+   },
+   "description": {
+    "en": "On 13 December 1982 a strong earthquake struck the Dhamar region south of Sanaa, destroying or damaging hundreds of villages of traditional stone and mud houses. Thousands of people were killed and many more left homeless. The disaster prompted a large reconstruction programme supported by international aid.",
+    "ko": "1982년 12월 13일 사나 남쪽 다마르 지역에 강한 지진이 일어나 전통 석조·흙집으로 이루어진 수백 개 마을이 무너지거나 피해를 입었다. 수천 명이 숨지고 훨씬 많은 사람이 집을 잃었다. 이 재해를 계기로 국제 원조의 지원을 받은 대규모 재건 사업이 진행되었다.",
+    "zh": "1982年12月13日，萨那以南的扎马尔地区发生强烈地震，数百个以传统石屋和土屋构成的村庄被毁或受损。数千人遇难，更多人无家可归。这场灾难促成了一项由国际援助支持的大规模重建计划。",
+    "ja": "1982年12月13日、サナア南方のザマール地方を強い地震が襲い、伝統的な石造りや土造りの家々からなる数百の村が倒壊または損壊した。数千人が死亡し、さらに多くの人が家を失った。この災害を受けて、国際援助に支えられた大規模な復興計画が進められた。"
+   }
+  },
+  {
+   "year": 1984,
+   "qid": null,
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Oil discovered in Marib",
+    "ko": "마리브 석유 발견",
+    "zh": "马里卜发现石油",
+    "ja": "マーリブでの石油発見"
+   },
+   "description": {
+    "en": "In 1984 the US company Hunt Oil discovered commercial oil in the Marib–al-Jawf basin of North Yemen, and exports began in 1987 through a pipeline to the Red Sea. Oil soon became the main source of government revenue and foreign exchange. Oil discoveries near the North–South border also gave both states a stake in cooperation and unification.",
+    "ko": "1984년 미국의 헌트 석유가 북예멘 마리브-알자우프 분지에서 상업성 있는 석유를 발견했고, 1987년부터 홍해로 이어지는 송유관을 통해 수출이 시작되었다. 석유는 곧 정부 세입과 외화의 주된 원천이 되었다. 남북 경계 근처에서도 석유가 발견되면서 양국은 협력과 통일에 이해관계를 갖게 되었다.",
+    "zh": "1984年，美国亨特石油公司在北也门马里卜—焦夫盆地发现具有商业价值的石油，1987年起经由通往红海的输油管道开始出口。石油很快成为政府财政收入和外汇的主要来源。南北边界附近的石油发现也使两国在合作与统一上有了共同利益。",
+    "ja": "1984年、アメリカのハント・オイル社が北イエメンのマーリブ＝ジャウフ盆地で商業規模の石油を発見し、1987年から紅海へのパイプラインで輸出が始まった。石油はまもなく政府歳入と外貨の主な源となった。南北境界付近でも石油が見つかり、両国は協力と統一に利害を持つようになった。"
+   }
+  },
+  {
+   "year": 1986,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "South Yemen civil war of 1986",
+    "ko": "1986년 남예멘 내전",
+    "zh": "1986年南也门内战",
+    "ja": "1986年の南イエメン内戦"
+   },
+   "description": {
+    "en": "On 13 January 1986 a power struggle in the ruling Yemeni Socialist Party between President Ali Nasir Muhammad and rivals led by Abdul Fattah Ismail erupted into fighting in Aden. In about two weeks of combat, thousands were killed, Abdul Fattah Ismail died, and Ali Nasir fled to the North with tens of thousands of supporters. The bloodletting badly weakened South Yemen and, together with declining Soviet support, pushed it towards unification.",
+    "ko": "1986년 1월 13일 집권 예멘 사회당 안에서 알리 나시르 무함마드 대통령과 압둘 파타 이스마일이 이끄는 경쟁 세력 간의 권력 투쟁이 아덴에서 전투로 번졌다. 약 2주간의 전투로 수천 명이 숨졌고, 압둘 파타 이스마일은 사망했으며, 알리 나시르는 수만 명의 지지자와 함께 북예멘으로 도망쳤다. 이 유혈 사태는 남예멘을 크게 약화시켰고, 소련 지원의 감소와 맞물려 통일로 나아가게 했다.",
+    "zh": "1986年1月13日，执政的也门社会党内部，阿里·纳赛尔·穆罕默德总统与以阿卜杜勒·法塔赫·伊斯梅尔为首的对手之间的权力斗争在亚丁演变为武装冲突。约两周的战斗造成数千人死亡，阿卜杜勒·法塔赫·伊斯梅尔身亡，阿里·纳赛尔率数万支持者逃往北方。这场流血冲突严重削弱了南也门，加之苏联援助减少，推动其走向统一。",
+    "ja": "1986年1月13日、与党イエメン社会党内でアリー・ナースィル・ムハンマド大統領とアブドゥルファッターフ・イスマーイール率いる対抗勢力との権力闘争がアデンでの戦闘に発展した。約2週間の戦闘で数千人が死亡し、アブドゥルファッターフ・イスマーイールは死に、アリー・ナースィルは数万の支持者とともに北へ逃れた。この流血は南イエメンを大きく弱め、ソ連の支援減少と相まって統一へと向かわせた。"
+   }
+  },
+  {
+   "year": 1986,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Old City of Sanaa on the World Heritage List",
+    "ko": "사나 구시가지의 세계유산 등재",
+    "zh": "萨那古城列入世界遗产",
+    "ja": "サナア旧市街の世界遺産登録"
+   },
+   "description": {
+    "en": "In 1986 UNESCO inscribed the Old City of Sanaa, with its multi-storey tower houses of rammed earth and burnt brick decorated with white gypsum friezes, on the World Heritage List. It followed the walled mud-brick city of Shibam in Hadramawt, listed in 1982, and was followed by Zabid in 1993 and the Socotra Archipelago in 2008. Conflict and neglect later placed several of these sites on the List of World Heritage in Danger.",
+    "ko": "1986년 유네스코는 흰 석고 띠 장식을 두른 다층 흙벽돌·구운 벽돌 탑 가옥으로 유명한 사나 구시가지를 세계유산 목록에 올렸다. 이에 앞서 1982년에는 하드라마우트의 성벽 도시 시밤이 등재되었고, 이후 1993년 자비드, 2008년 소코트라 제도가 뒤를 이었다. 분쟁과 방치로 이 가운데 여러 곳은 훗날 위험에 처한 세계유산 목록에 올랐다.",
+    "zh": "1986年，联合国教科文组织将萨那古城列入世界遗产名录，古城以夯土和烧砖砌成、饰有白色石膏花纹的多层塔楼式住宅闻名。此前，哈德拉毛的泥砖城墙之城希巴姆已于1982年列入，此后扎比德（1993年）和索科特拉群岛（2008年）相继入选。冲突与疏于保护后来使其中多处被列入《濒危世界遗产名录》。",
+    "ja": "1986年、ユネスコは白い石膏の帯飾りをまとった版築と焼成煉瓦の多層の塔状住宅で知られるサナア旧市街を世界遺産に登録した。これに先立つ1982年にはハドラマウトの城壁都市シバームが登録され、その後1993年にザビード、2008年にソコトラ諸島が続いた。紛争と放置により、これらのうち複数が後に危機遺産リストに載せられた。"
+   }
+  },
+  {
+   "year": 1990,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Unification of Yemen",
+    "ko": "예멘 통일",
+    "zh": "也门统一",
+    "ja": "イエメン統一"
+   },
+   "description": {
+    "en": "North and South Yemen merged on 22 May 1990 to form the Republic of Yemen with Sanaa as capital and Ali Abdullah Saleh as president, uniting the two states for the first time in the modern era. The southern Socialist leader Ali Salim al-Beidh became vice-president, and power was shared between the two former ruling parties.",
+    "ko": "1990년 5월 22일 남북 예멘이 통합해 사나를 수도로 하는 예멘 공화국이 출범했고 알리 압둘라 살레가 대통령이 되었다. 근대 이후 처음으로 두 예멘이 하나가 되었다. 남부 사회당 지도자 알리 살림 알바이드가 부통령이 되었고, 권력은 두 옛 집권당이 나누어 가졌다.",
+    "zh": "1990年5月22日，南北也门合并成立也门共和国，定都萨那，萨利赫出任总统。这是近代以来两个也门首次实现统一。南方社会党领导人阿里·萨利姆·比德出任副总统，权力由南北两个前执政党分享。",
+    "ja": "1990年5月22日、南北イエメンが統合してサナアを首都とするイエメン共和国が成立し、サーレハが大統領に就任した。近代以降初めて二つのイエメンが一つになった。南部社会党の指導者アリー・サーリム・アル＝ベイドが副大統領となり、権力は二つの旧与党で分け合われた。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First multiparty elections",
+    "ko": "첫 다당제 총선",
+    "zh": "首次多党议会选举",
+    "ja": "初の複数政党制選挙"
+   },
+   "description": {
+    "en": "In April 1993 unified Yemen held its first multiparty parliamentary elections, with Saleh's General People's Congress winning the most seats, followed by the Islamist Islah party and the Yemeni Socialist Party. The vote was regarded as one of the more open elections in the Arab world at the time. But the result reduced the Socialists to junior partners, deepening the North–South rift.",
+    "ko": "1993년 4월 통일 예멘은 첫 다당제 총선을 치렀고, 살레의 국민전체회의가 최다 의석을 얻었으며 이슬람주의 정당 이슬라흐와 예멘 사회당이 뒤를 이었다. 이 선거는 당시 아랍 세계에서 비교적 개방적인 선거 가운데 하나로 평가되었다. 그러나 결과적으로 사회당이 하위 파트너로 밀려나면서 남북 간 균열이 깊어졌다.",
+    "zh": "1993年4月，统一后的也门举行首次多党议会选举，萨利赫的全国人民大会党获得最多席位，伊斯兰主义的伊斯拉赫党和也门社会党紧随其后。这次选举被视为当时阿拉伯世界较为开放的选举之一。但选举结果使社会党沦为次要伙伴，加深了南北之间的裂痕。",
+    "ja": "1993年4月、統一イエメンは初の複数政党制による議会選挙を実施し、サーレハの国民全体会議が最多議席を得て、イスラム主義政党イスラーハとイエメン社会党が続いた。この選挙は当時のアラブ世界では比較的開かれた選挙の一つと評価された。しかし結果として社会党は下位のパートナーに追いやられ、南北の亀裂が深まった。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": "Q2461485",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "1994 civil war",
+    "ko": "1994년 내전",
+    "zh": "1994年内战",
+    "ja": "1994年の内戦"
+   },
+   "description": {
+    "en": "Tensions between Saleh and the Socialist leader Ali Salim al-Beidh erupted into war in May 1994, and on 21 May al-Beidh declared a breakaway Democratic Republic of Yemen in the South. Northern forces, aided by Islamists and southern factions loyal to the exiled Ali Nasir, captured Aden on 7 July 1994. The victory preserved unity but left many southerners feeling marginalised and occupied.",
+    "ko": "살레와 사회당 지도자 알리 살림 알바이드 사이의 긴장은 1994년 5월 전쟁으로 폭발했고, 5월 21일 알바이드는 남부에서 분리 독립한 예멘 민주공화국을 선포했다. 이슬람주의자들과 망명한 알리 나시르에 충성하는 남부 파벌의 지원을 받은 북부군은 1994년 7월 7일 아덴을 점령했다. 이 승리로 통일은 유지되었지만, 많은 남부인은 소외되고 점령당했다고 느끼게 되었다.",
+    "zh": "萨利赫与社会党领导人阿里·萨利姆·比德之间的紧张关系于1994年5月爆发为战争，5月21日比德宣布南方脱离并成立也门民主共和国。在伊斯兰主义者和效忠流亡的阿里·纳赛尔的南方派系协助下，北方军队于1994年7月7日攻占亚丁。这场胜利维护了统一，却使许多南方人感到被边缘化甚至被占领。",
+    "ja": "サーレハと社会党指導者アリー・サーリム・アル＝ベイドの対立は1994年5月に戦争へ発展し、5月21日にベイドは南部で分離したイエメン民主共和国を宣言した。イスラム主義者と亡命中のアリー・ナースィルに忠実な南部派閥の支援を受けた北部軍は、1994年7月7日にアデンを占領した。この勝利で統一は守られたが、多くの南部の人々は疎外され占領されたと感じるようになった。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Hanish Islands conflict with Eritrea",
+    "ko": "에리트레아와의 하니시 제도 분쟁",
+    "zh": "与厄立特里亚的哈尼什群岛冲突",
+    "ja": "エリトリアとのハニーシュ諸島紛争"
+   },
+   "description": {
+    "en": "In December 1995 Eritrean forces seized Greater Hanish, an island in the southern Red Sea also claimed by Yemen, after brief fighting. Both countries agreed to international arbitration, and in 1998 a tribunal awarded most of the disputed islands, including the Hanish group, to Yemen while confirming traditional fishing rights for Eritreans. The peaceful settlement became a noted example of resolving a territorial dispute by arbitration.",
+    "ko": "1995년 12월 에리트레아군은 짧은 교전 끝에 예멘도 영유권을 주장하던 홍해 남부의 대하니시섬을 점령했다. 양국은 국제 중재에 합의했고, 1998년 중재 재판소는 하니시 제도를 포함한 분쟁 도서 대부분을 예멘에 귀속시키는 한편 에리트레아인의 전통적 어업권을 확인했다. 이 평화적 해결은 중재를 통한 영토 분쟁 해결의 대표적 사례가 되었다.",
+    "zh": "1995年12月，经过短暂交火，厄立特里亚军队占领了也门同样主张主权的红海南部大哈尼什岛。两国同意提交国际仲裁，1998年仲裁庭将包括哈尼什群岛在内的大部分争议岛屿判归也门，同时确认厄立特里亚人的传统捕鱼权。这一和平解决成为以仲裁解决领土争端的著名范例。",
+    "ja": "1995年12月、短い交戦の末にエリトリア軍は、イエメンも領有を主張する紅海南部の大ハニーシュ島を占領した。両国は国際仲裁に合意し、1998年に仲裁裁判所はハニーシュ諸島を含む係争島嶼の大半をイエメンに帰属させる一方、エリトリア人の伝統的漁業権を確認した。この平和的解決は、仲裁による領土紛争解決の代表的な例となった。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": "Q612086",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "USS Cole bombing",
+    "ko": "미 해군 콜함 폭탄 테러",
+    "zh": "“科尔”号驱逐舰爆炸事件",
+    "ja": "米艦コール爆破事件"
+   },
+   "description": {
+    "en": "On 12 October 2000 al-Qaeda suicide bombers in a small boat attacked the US Navy destroyer USS Cole while it was refuelling in Aden harbour, killing 17 American sailors. The attack, organised by Osama bin Laden's network, foreshadowed the 11 September 2001 attacks. It made Yemen a focus of US counter-terrorism efforts for the next two decades.",
+    "ko": "2000년 10월 12일 알카에다 자살 폭탄 공격대가 작은 보트를 몰고 아덴항에서 급유 중이던 미 해군 구축함 콜함을 공격해 미국 수병 17명이 숨졌다. 오사마 빈 라덴의 조직이 계획한 이 공격은 2001년 9·11 테러의 전조였다. 이 사건으로 예멘은 이후 20년간 미국 대테러 활동의 초점이 되었다.",
+    "zh": "2000年10月12日，“基地”组织自杀式袭击者驾驶小艇袭击了正在亚丁港加油的美国海军驱逐舰“科尔”号，造成17名美国水兵死亡。这次由奥萨马·本·拉登网络策划的袭击是2001年“9·11”事件的前兆，此后二十年也门成为美国反恐行动的重点地区。",
+    "ja": "2000年10月12日、アルカイダの自爆犯が小型ボートでアデン港で給油中の米海軍駆逐艦コールを攻撃し、アメリカ人水兵17人が死亡した。ウサーマ・ビン・ラーディンの組織が計画したこの攻撃は、2001年9月11日の同時多発テロの前兆であった。これによりイエメンはその後20年間、アメリカの対テロ活動の焦点となった。"
+   }
+  },
+  {
+   "year": 2000,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Treaty of Jeddah with Saudi Arabia",
+    "ko": "사우디아라비아와의 제다 조약",
+    "zh": "与沙特签订《吉达条约》",
+    "ja": "サウジアラビアとのジッダ条約"
+   },
+   "description": {
+    "en": "In June 2000 Yemen and Saudi Arabia signed the Treaty of Jeddah, finally delimiting their long land and maritime border. Yemen effectively accepted the lines of the 1934 Treaty of Taif in the west, while a new line was drawn across the eastern deserts. The agreement ended decades of border friction and periodic clashes.",
+    "ko": "2000년 6월 예멘과 사우디아라비아는 제다 조약을 맺어 긴 육상 및 해상 국경을 마침내 획정했다. 예멘은 서부에서 1934년 타이프 조약의 경계를 사실상 받아들였고, 동부 사막에는 새로운 경계선이 그어졌다. 이 협정으로 수십 년에 걸친 국경 마찰과 간헐적 충돌이 끝났다.",
+    "zh": "2000年6月，也门与沙特阿拉伯签订《吉达条约》，最终划定两国漫长的陆上和海上边界。也门在西段实际上接受了1934年《塔伊夫条约》的界线，东部沙漠则划定了新的边界。该协议结束了数十年的边界摩擦和间歇性冲突。",
+    "ja": "2000年6月、イエメンとサウジアラビアはジッダ条約に調印し、長い陸上・海上国境をついに画定した。イエメンは西部で1934年のターイフ条約の線を事実上受け入れ、東部の砂漠には新たな境界線が引かれた。この協定で数十年にわたる国境の摩擦と散発的な衝突に終止符が打たれた。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Start of the Houthi insurgency",
+    "ko": "후티 반란의 시작",
+    "zh": "胡塞叛乱爆发",
+    "ja": "フーシ派の反乱の始まり"
+   },
+   "description": {
+    "en": "In June 2004 government forces moved to arrest Hussein Badreddin al-Houthi, a Zaydi revivalist preacher in Saada whose 'Believing Youth' movement denounced the US and Israel and Saleh's alliance with Washington. He was killed in September 2004, but his family carried on the fight in six rounds of war through 2010, which in 2009 drew in Saudi Arabia. The movement, later called Ansar Allah, emerged hardened and popular across the north.",
+    "ko": "2004년 6월 정부군은 사다의 자이드파 부흥 설교가 후세인 바드레딘 알후티를 체포하려 했다. 그의 '믿는 청년' 운동은 미국과 이스라엘, 그리고 살레 정권의 대미 동맹을 규탄했다. 그는 2004년 9월 살해되었지만 그의 가문은 2010년까지 여섯 차례의 전쟁으로 투쟁을 이어 갔고, 2009년에는 사우디아라비아까지 끌어들였다. 훗날 안사르 알라로 불린 이 운동은 더욱 단련되어 북부 전역에서 지지를 얻었다.",
+    "zh": "2004年6月，政府军试图逮捕萨达的宰德派复兴传教士侯赛因·巴德尔丁·胡塞，其“信仰青年”运动谴责美国、以色列以及萨利赫政权与华盛顿的结盟。他于2004年9月被杀，但其家族在此后至2010年的六轮战争中继续斗争，2009年还将沙特阿拉伯卷入其中。这一后来称为“安萨尔安拉”的运动愈战愈强，在北方广获支持。",
+    "ja": "2004年6月、政府軍はサアダのザイド派復興運動の説教師フサイン・バドルッディーン・アル＝フーシーを逮捕しようとした。彼の「信仰する青年」運動は、アメリカとイスラエル、そしてサーレハ政権の対米同盟を非難していた。彼は2004年9月に殺害されたが、一族は2010年まで6度の戦争で戦いを続け、2009年にはサウジアラビアも巻き込んだ。後にアンサール・アッラーと呼ばれるこの運動は鍛えられ、北部全域で支持を広げた。"
+   }
+  },
+  {
+   "year": 2007,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Southern Movement (al-Hirak) emerges",
+    "ko": "남부 운동(알히라크)의 등장",
+    "zh": "南方运动（希拉克）兴起",
+    "ja": "南部運動（ヒラーク）の台頭"
+   },
+   "description": {
+    "en": "In 2007 retired southern military officers, forced out after the 1994 war, began protesting in Aden and other cities over pensions and discrimination. Their protests grew into al-Hirak al-Janoubi, the Southern Movement, which increasingly demanded the restoration of an independent southern state. Clashes with security forces escalated into a low-level southern insurgency by 2009.",
+    "ko": "2007년 1994년 전쟁 뒤 강제 퇴역당한 남부 출신 군 장교들이 연금과 차별 문제를 놓고 아덴 등 여러 도시에서 시위를 시작했다. 이 시위는 남부 운동, 곧 '알히라크 알자누비'로 발전했고 점점 독립 남부 국가의 회복을 요구했다. 2009년까지 보안군과의 충돌은 저강도 남부 반란으로 확대되었다.",
+    "zh": "2007年，1994年战争后被迫退役的南方军官在亚丁等城市就退休金和歧视问题发起抗议。抗议逐渐发展为“南方运动”（希拉克），并越来越多地要求恢复独立的南方国家。到2009年，与安全部队的冲突已升级为低烈度的南方叛乱。",
+    "ja": "2007年、1994年の戦争後に退役を強いられた南部出身の軍将校たちが、年金と差別をめぐってアデンなどの都市で抗議を始めた。抗議は南部運動（ヒラーク）へと発展し、次第に独立した南部国家の回復を求めるようになった。2009年までに治安部隊との衝突は低強度の南部の反乱へと拡大した。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": "Q268661",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Attack on the US Embassy in Sanaa",
+    "ko": "사나 주재 미국 대사관 공격",
+    "zh": "美国驻萨那使馆遇袭",
+    "ja": "サナアの米国大使館襲撃"
+   },
+   "description": {
+    "en": "On 17 September 2008 militants using car bombs and gunfire attacked the US Embassy in Sanaa, killing guards and civilians outside the compound along with the attackers. The assault was claimed by a jihadist group linked to al-Qaeda. It highlighted the growing jihadist threat in Yemen, which led to the formation of al-Qaeda in the Arabian Peninsula a few months later.",
+    "ko": "2008년 9월 17일 무장 세력이 차량 폭탄과 총격으로 사나의 미국 대사관을 공격해 공격자들과 함께 단지 밖의 경비원과 민간인들이 숨졌다. 이 공격은 알카에다와 연계된 지하드 단체가 자신들의 소행이라고 주장했다. 이는 예멘에서 커지는 지하드 위협을 보여 주었고, 몇 달 뒤 아라비아반도 알카에다가 결성되었다.",
+    "zh": "2008年9月17日，武装分子以汽车炸弹和枪击袭击美国驻萨那大使馆，袭击者与使馆外的警卫和平民一同丧生。一个与“基地”组织有关联的圣战团体宣称对此负责。这一事件凸显了也门日益严重的圣战威胁，数月后“阿拉伯半岛基地组织”随之成立。",
+    "ja": "2008年9月17日、武装勢力が自動車爆弾と銃撃でサナアの米国大使館を襲い、襲撃者とともに敷地外の警備員や民間人が死亡した。アルカイダと関係するジハード主義組織が犯行を主張した。この事件はイエメンで高まるジハード主義の脅威を示し、数か月後にアラビア半島のアルカイダが結成された。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": "Q286436",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Formation of al-Qaeda in the Arabian Peninsula",
+    "ko": "아라비아반도 알카에다 결성",
+    "zh": "阿拉伯半岛基地组织成立",
+    "ja": "アラビア半島のアルカイダ結成"
+   },
+   "description": {
+    "en": "In January 2009 the Yemeni and Saudi branches of al-Qaeda merged to form al-Qaeda in the Arabian Peninsula (AQAP), based in Yemen. AQAP was behind the failed attempt to bomb a US airliner on Christmas Day 2009 and later plots abroad. US drone strikes and Yemeni operations against the group became a constant feature of the following years.",
+    "ko": "2009년 1월 알카에다의 예멘 지부와 사우디 지부가 합쳐 예멘에 근거지를 둔 아라비아반도 알카에다(AQAP)가 결성되었다. AQAP는 2009년 성탄절 미국 여객기 폭파 미수 사건과 이후의 해외 테러 음모의 배후였다. 이후 몇 년 동안 이 조직에 대한 미국의 드론 공습과 예멘군의 작전이 끊임없이 이어졌다.",
+    "zh": "2009年1月，“基地”组织的也门分支与沙特分支合并，成立以也门为基地的“阿拉伯半岛基地组织”。该组织策划了2009年圣诞节企图炸毁美国客机的未遂事件以及此后的多起海外阴谋。此后数年，美国无人机空袭和也门军队对该组织的打击行动从未停止。",
+    "ja": "2009年1月、アルカイダのイエメン支部とサウジ支部が合併し、イエメンを拠点とするアラビア半島のアルカイダ（AQAP）が結成された。AQAPは2009年のクリスマスに米旅客機の爆破を企てた未遂事件や、その後の国外でのテロ計画の背後にいた。以後数年間、この組織に対するアメリカの無人機攻撃とイエメン軍の作戦が絶え間なく続いた。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q210005",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Arab Spring Uprising",
+    "ko": "아랍의 봄과 살레 퇴진",
+    "zh": "阿拉伯之春起义",
+    "ja": "アラブの春と大規模デモ"
+   },
+   "description": {
+    "en": "Mass protests during the Arab Spring demanded an end to President Saleh's 33-year rule. Under a Gulf-brokered deal he transferred power to his deputy, Abdrabbuh Mansur Hadi, in 2012. Protesters camped for months in Sanaa's 'Change Square', and in June 2011 Saleh was badly injured in a bomb attack on his palace mosque.",
+    "ko": "아랍의 봄 당시 대규모 시위가 살레 대통령의 33년 통치 종식을 요구했다. 걸프 국가들이 중재한 합의에 따라 살레는 2012년 부통령 하디에게 권력을 이양했다. 시위대는 사나의 '변화 광장'에서 몇 달 동안 농성했고, 2011년 6월 살레는 대통령궁 모스크 폭탄 공격으로 중상을 입었다.",
+    "zh": "“阿拉伯之春”期间，大规模抗议要求结束萨利赫33年的统治。根据海湾国家斡旋的协议，萨利赫于2012年将权力移交给副总统哈迪。抗议者在萨那“变革广场”扎营数月；2011年6月，萨利赫在总统府清真寺遭炸弹袭击时身受重伤。",
+    "ja": "アラブの春では大規模なデモがサーレハ大統領の33年に及ぶ統治の終結を求めた。湾岸諸国の仲介による合意に基づき、サーレハは2012年、ハーディー副大統領に権力を移譲した。抗議者たちはサナアの「変革広場」に何か月も座り込み、2011年6月にはサーレハが大統領府のモスクへの爆弾攻撃で重傷を負った。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Tawakkol Karman wins the Nobel Peace Prize",
+    "ko": "타와쿨 카르만의 노벨 평화상 수상",
+    "zh": "塔瓦库勒·卡尔曼获诺贝尔和平奖",
+    "ja": "タワックル・カルマンのノーベル平和賞受賞"
+   },
+   "description": {
+    "en": "In October 2011 the Yemeni journalist and activist Tawakkol Karman, a leading figure of the protest movement in Sanaa, was awarded the Nobel Peace Prize jointly with Ellen Johnson Sirleaf and Leymah Gbowee of Liberia. She was honoured for her non-violent struggle for women's rights and democracy. She was the first Arab woman to receive the prize.",
+    "ko": "2011년 10월 사나 시위 운동의 대표적 인물인 예멘 언론인이자 활동가 타와쿨 카르만이 라이베리아의 엘런 존슨 설리프, 레이마 그보위와 함께 노벨 평화상을 공동 수상했다. 그녀는 여성 인권과 민주주의를 위한 비폭력 투쟁을 인정받았다. 그녀는 이 상을 받은 첫 아랍 여성이었다.",
+    "zh": "2011年10月，萨那抗议运动的领军人物、也门记者和社会活动家塔瓦库勒·卡尔曼与利比里亚的埃伦·约翰逊·瑟利夫和莱伊曼·古博薇共同获得诺贝尔和平奖。她因争取妇女权利与民主的非暴力斗争而获此殊荣，是首位获得该奖的阿拉伯女性。",
+    "ja": "2011年10月、サナアの抗議運動の中心人物であるイエメンのジャーナリストで活動家のタワックル・カルマンが、リベリアのエレン・ジョンソン・サーリーフ、リーマ・ボウィとともにノーベル平和賞を共同受賞した。彼女は女性の権利と民主主義のための非暴力の闘いを評価された。彼女は同賞を受けた初のアラブ人女性であった。"
+   }
+  },
+  {
+   "year": 2011,
+   "qid": "Q1091576",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Militants seize Zinjibar",
+    "ko": "무장 세력의 진지바르 장악",
+    "zh": "武装分子占领津吉巴尔",
+    "ja": "武装勢力のジンジバール占拠"
+   },
+   "description": {
+    "en": "In May 2011, as the state was paralysed by the uprising, militants of Ansar al-Sharia, linked to AQAP, seized Zinjibar, capital of Abyan governorate, and other towns in the south. They declared Islamic emirates and held the area for about a year. A government offensive with local tribal 'popular committees' and US support drove them out in June 2012.",
+    "ko": "2011년 5월 국가가 봉기로 마비된 틈을 타 AQAP와 연계된 안사르 알샤리아 무장 세력이 아브얀주의 주도 진지바르와 남부의 다른 도시들을 장악했다. 이들은 이슬람 에미르국을 선포하고 약 1년 동안 그 지역을 장악했다. 지역 부족 '민중 위원회'와 미국의 지원을 받은 정부군 공세로 2012년 6월 이들은 축출되었다.",
+    "zh": "2011年5月，趁国家因起义陷入瘫痪，与阿拉伯半岛基地组织有关联的“伊斯兰教法支持者”武装分子占领了阿比扬省首府津吉巴尔以及南部其他城镇。他们宣布建立“伊斯兰酋长国”，控制该地区约一年。2012年6月，在地方部族“人民委员会”和美国支持下，政府军发动攻势将其驱逐。",
+    "ja": "2011年5月、国家が蜂起で麻痺した隙に、AQAPと結びつくアンサール・アル＝シャリーアの武装勢力がアブヤン州の州都ジンジバールなど南部の町を占拠した。彼らはイスラム首長国を宣言し、約1年間この地域を支配した。地元部族の「人民委員会」とアメリカの支援を受けた政府軍の攻勢により、2012年6月に彼らは追い出された。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q1609622",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hadi becomes president",
+    "ko": "하디의 대통령 취임",
+    "zh": "哈迪就任总统",
+    "ja": "ハーディーの大統領就任"
+   },
+   "description": {
+    "en": "Under the Gulf Cooperation Council initiative signed in Riyadh in November 2011, Saleh handed power to his vice-president, Abdrabbuh Mansur Hadi, in return for immunity. In February 2012 Hadi was confirmed as president in an election in which he was the only candidate. He was to lead a two-year transition, but Saleh remained in Yemen with much of his patronage network intact.",
+    "ko": "2011년 11월 리야드에서 서명된 걸프 협력 회의 이니셔티브에 따라 살레는 면책을 대가로 부통령 압드라부 만수르 하디에게 권력을 넘겼다. 2012년 2월 하디는 단독 후보로 나선 선거를 통해 대통령으로 확정되었다. 그는 2년간의 이행기를 이끌 예정이었지만, 살레는 후원 네트워크의 상당 부분을 유지한 채 예멘에 남았다.",
+    "zh": "根据2011年11月在利雅得签署的海湾合作委员会倡议，萨利赫以获得豁免为条件，将权力移交给副总统阿卜杜拉布·曼苏尔·哈迪。2012年2月，哈迪作为唯一候选人在选举中被确认为总统。他本应领导为期两年的过渡，但萨利赫仍留在也门，其恩庇网络大体完好。",
+    "ja": "2011年11月にリヤドで署名された湾岸協力会議のイニシアチブに基づき、サーレハは免責と引き換えに副大統領アブドラッボ・マンスール・ハーディーに権力を委ねた。2012年2月、ハーディーは唯一の候補者として臨んだ選挙で大統領に確定した。彼は2年間の移行期を率いることになったが、サーレハは恩顧ネットワークの多くを保ったままイエメンにとどまった。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q8340620",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "National Dialogue Conference",
+    "ko": "국민대화회의",
+    "zh": "全国对话会议",
+    "ja": "国民対話会議"
+   },
+   "description": {
+    "en": "From March 2013 to January 2014, a UN-backed National Dialogue Conference brought together parties, youth activists, women, Houthis and southerners to draft principles for a new Yemen. It recommended a federal state, and a later presidential committee proposed six regions. The Houthis and many southerners rejected the federal map, and the plan was overtaken by war.",
+    "ko": "2013년 3월부터 2014년 1월까지 유엔이 지원한 국민대화회의는 정당, 청년 활동가, 여성, 후티, 남부인들을 한자리에 모아 새로운 예멘의 원칙을 마련했다. 회의는 연방 국가를 권고했고, 이후 대통령 위원회는 6개 지역 구성을 제안했다. 후티와 많은 남부인은 이 연방 지도를 거부했고, 계획은 전쟁에 묻혔다.",
+    "zh": "2013年3月至2014年1月，联合国支持的全国对话会议汇集各政党、青年活动人士、妇女、胡塞运动和南方人士，为新也门起草原则。会议建议建立联邦制国家，随后总统委员会提出划分六个大区。胡塞运动和许多南方人拒绝这一联邦划分方案，计划最终被战争所淹没。",
+    "ja": "2013年3月から2014年1月まで、国連が支援する国民対話会議は政党、若者の活動家、女性、フーシ派、南部の人々を集め、新しいイエメンの原則を作成した。会議は連邦国家を勧告し、その後の大統領委員会は6地域案を示した。フーシ派と多くの南部の人々はこの連邦の区割りを拒否し、計画は戦争に呑み込まれた。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q18145759",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Houthi Takeover and Civil War",
+    "ko": "후티의 사나 장악과 내전",
+    "zh": "胡塞武装夺取萨那与内战爆发",
+    "ja": "フーシ派のサナア掌握と内戦"
+   },
+   "description": {
+    "en": "Houthi forces seized Sanaa in 2014, and a Saudi-led coalition intervened in 2015. The ensuing civil war fragmented the state and caused one of the world's gravest humanitarian crises. Houthi fighters, allied with forces loyal to former president Saleh, entered Sanaa on 21 September 2014.",
+    "ko": "2014년 후티 세력이 사나를 장악했고 2015년 사우디아라비아 주도 연합군이 개입했다. 이어진 내전으로 국가가 분열되었고 세계 최악 수준의 인도적 위기가 발생했다. 후티 전투원들은 살레 전 대통령에게 충성하는 세력과 손잡고 2014년 9월 21일 사나에 입성했다.",
+    "zh": "2014年，胡塞武装攻占萨那；2015年，沙特领导的联军进行干预。随之而来的内战令国家四分五裂，并造成全球最严重的人道主义危机之一。胡塞武装与效忠前总统萨利赫的部队联手，于2014年9月21日进入萨那。",
+    "ja": "2014年、フーシ派がサナアを制圧し、2015年にはサウジアラビア主導の連合軍が介入した。内戦により国家は分裂し、世界で最も深刻な人道危機の一つが生じた。フーシ派の戦闘員は前大統領サーレハに忠実な部隊と手を結び、2014年9月21日にサナアに入った。"
+   }
+  },
+  {
+   "year": 2014,
+   "qid": "Q18821624",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Houthis capture Amran",
+    "ko": "후티의 암란 점령",
+    "zh": "胡塞武装攻占阿姆兰",
+    "ja": "フーシ派のアムラーン占領"
+   },
+   "description": {
+    "en": "In July 2014 Houthi fighters captured the city of Amran north of Sanaa after weeks of fighting with an army brigade aligned with the Islah party, whose commander was killed. The victory removed a key obstacle on the road to the capital and weakened the Islah-allied military and tribal network. Two months later the Houthis entered Sanaa.",
+    "ko": "2014년 7월 후티 전투원들은 이슬라흐당과 가까운 군 여단과 몇 주간 싸운 끝에 사나 북쪽의 암란시를 점령했고, 여단 지휘관은 전사했다. 이 승리로 수도로 가는 길의 주요 장애물이 사라졌고 이슬라흐와 연계된 군·부족 네트워크가 약화되었다. 두 달 뒤 후티는 사나에 입성했다.",
+    "zh": "2014年7月，胡塞武装与亲伊斯拉赫党的一个陆军旅激战数周后攻占萨那以北的阿姆兰市，该旅指挥官阵亡。这一胜利扫除了通往首都道路上的主要障碍，削弱了与伊斯拉赫党结盟的军事和部族网络。两个月后，胡塞武装进入萨那。",
+    "ja": "2014年7月、フーシ派の戦闘員は、イスラーハ党に近い陸軍旅団と数週間戦った末にサナア北方のアムラーン市を占領し、旅団の司令官は戦死した。この勝利で首都への道の大きな障害が取り除かれ、イスラーハと結ぶ軍・部族のネットワークは弱体化した。2か月後、フーシ派はサナアに入った。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q19682450",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Saudi-led coalition intervenes",
+    "ko": "사우디 주도 연합군의 개입",
+    "zh": "沙特领导的联军介入",
+    "ja": "サウジ主導連合軍の介入"
+   },
+   "description": {
+    "en": "In January 2015 the Houthis placed President Hadi under house arrest; he escaped to Aden in February, and as Houthi and pro-Saleh forces advanced south he fled to Saudi Arabia. On 26 March 2015 a Saudi-led coalition including the United Arab Emirates launched 'Operation Decisive Storm', a campaign of air strikes and a naval blockade to restore Hadi's government. The intervention turned the conflict into a regional war that lasted for years.",
+    "ko": "2015년 1월 후티는 하디 대통령을 가택 연금했고, 그는 2월 아덴으로 탈출했다가 후티와 친살레 세력이 남쪽으로 진격하자 사우디아라비아로 피신했다. 2015년 3월 26일 아랍에미리트 등을 포함한 사우디 주도 연합군은 하디 정부 복원을 위해 공습과 해상 봉쇄로 이루어진 '결정적 폭풍 작전'을 개시했다. 이 개입으로 분쟁은 수년간 이어진 지역 전쟁으로 바뀌었다.",
+    "zh": "2015年1月，胡塞武装软禁哈迪总统；他于2月逃往亚丁，随着胡塞武装和亲萨利赫部队南下，又流亡沙特阿拉伯。2015年3月26日，包括阿联酋在内的沙特领导联军发动“果断风暴行动”，以空袭和海上封锁来恢复哈迪政府。这次介入使冲突演变为持续多年的地区战争。",
+    "ja": "2015年1月、フーシ派はハーディー大統領を自宅軟禁した。彼は2月にアデンへ脱出し、フーシ派と親サーレハ派の部隊が南下するとサウジアラビアへ逃れた。2015年3月26日、アラブ首長国連邦などを含むサウジ主導の連合軍は、ハーディー政権の復帰を目的に空爆と海上封鎖からなる「決意の嵐作戦」を開始した。この介入により紛争は何年も続く地域戦争へと変わった。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q19637227",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sanaa mosque bombings",
+    "ko": "사나 모스크 연쇄 폭탄 테러",
+    "zh": "萨那清真寺连环爆炸",
+    "ja": "サナアのモスク連続爆破"
+   },
+   "description": {
+    "en": "On 20 March 2015 suicide bombers attacked two mosques in Sanaa frequented by Houthi supporters during Friday prayers, killing more than a hundred worshippers. The so-called Islamic State claimed responsibility, its first major attack in Yemen. The massacre came days before the Saudi-led intervention and heightened sectarian tensions.",
+    "ko": "2015년 3월 20일 금요 예배 중 후티 지지자들이 자주 찾는 사나의 모스크 두 곳에 자살 폭탄 공격이 일어나 신도 100명 이상이 숨졌다. 이른바 이슬람국가(IS)는 자신들의 소행이라고 주장했으며, 이는 예멘에서 그들의 첫 대규모 공격이었다. 이 학살은 사우디 주도 개입 며칠 전에 일어나 종파적 긴장을 높였다.",
+    "zh": "2015年3月20日，自杀式袭击者在聚礼期间袭击萨那两座胡塞支持者常去的清真寺，造成一百多名礼拜者死亡。所谓“伊斯兰国”宣称负责，这是其在也门发动的首次重大袭击。这场屠杀发生在沙特领导的干预前几天，加剧了教派紧张。",
+    "ja": "2015年3月20日、金曜礼拝中にフーシ派支持者がよく通うサナアの二つのモスクで自爆攻撃が起き、100人以上の礼拝者が死亡した。いわゆる「イスラム国」が犯行声明を出し、これはイエメンでの最初の大規模攻撃であった。この虐殺はサウジ主導の介入の数日前に起き、宗派的緊張を高めた。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q19783940",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Battle of Aden",
+    "ko": "아덴 전투",
+    "zh": "亚丁之战",
+    "ja": "アデンの戦い"
+   },
+   "description": {
+    "en": "From March to July 2015, Houthi and pro-Saleh forces fought local southern resistance fighters for control of Aden, causing heavy destruction and civilian casualties. In July 2015 coalition-backed forces, supported by Emirati troops and armour, drove the Houthis out of the city. Aden became the temporary seat of the recognised government, though southern separatists grew powerful there.",
+    "ko": "2015년 3월부터 7월까지 후티와 친살레 세력은 아덴을 장악하기 위해 남부 현지 저항 세력과 싸웠고, 큰 파괴와 민간인 피해가 발생했다. 2015년 7월 아랍에미리트 병력과 기갑 부대의 지원을 받은 연합군 측 세력이 후티를 도시에서 몰아냈다. 아덴은 승인된 정부의 임시 거점이 되었지만, 그곳에서는 남부 분리주의자들의 힘이 커졌다.",
+    "zh": "2015年3月至7月，胡塞武装和亲萨利赫部队与南方本地抵抗力量争夺亚丁，造成严重破坏和平民伤亡。2015年7月，在阿联酋部队和装甲力量支援下，联军支持的部队将胡塞武装逐出该城。亚丁成为受承认政府的临时驻地，但南方分离主义者在当地势力日增。",
+    "ja": "2015年3月から7月にかけて、フーシ派と親サーレハ派の部隊はアデンの支配をめぐって南部の地元抵抗勢力と戦い、甚大な破壊と民間人の犠牲をもたらした。2015年7月、首長国連邦の部隊と機甲戦力に支援された連合軍側の勢力がフーシ派を町から追い出した。アデンは承認された政府の暫定的な拠点となったが、そこでは南部分離派の力が増した。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q19759389",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "AQAP takes Mukalla",
+    "ko": "AQAP의 무칼라 장악",
+    "zh": "阿拉伯半岛基地组织占领穆卡拉",
+    "ja": "AQAPのムカッラー占拠"
+   },
+   "description": {
+    "en": "In April 2015, amid the chaos of war, AQAP seized Mukalla, the port capital of Hadramawt, freeing prisoners from the city jail and taking over its port and bank reserves. The group governed the city for a year, profiting from fuel smuggling and port taxes. In April 2016 UAE-backed Yemeni forces retook Mukalla, and the militants withdrew largely without a fight.",
+    "ko": "2015년 4월 전쟁의 혼란 속에 AQAP는 하드라마우트주의 항구 주도 무칼라를 장악해 교도소 수감자들을 풀어 주고 항구와 은행 자금을 손에 넣었다. 이 조직은 연료 밀수와 항만세로 이익을 얻으며 1년간 도시를 통치했다. 2016년 4월 아랍에미리트가 지원한 예멘군이 무칼라를 탈환했고, 무장 세력은 대체로 싸우지 않고 물러났다.",
+    "zh": "2015年4月，趁战乱之机，阿拉伯半岛基地组织占领哈德拉毛省的港口首府穆卡拉，释放监狱囚犯，并控制港口和银行资金。该组织借燃油走私和港口税获利，统治该城一年。2016年4月，阿联酋支持的也门部队收复穆卡拉，武装分子基本未作抵抗便撤离。",
+    "ja": "2015年4月、戦争の混乱の中でAQAPはハドラマウト州の港湾都市で州都のムカッラーを占拠し、刑務所の囚人を解放して港と銀行の資金を掌握した。この組織は燃料密輸と港湾税で利益を上げながら1年間町を統治した。2016年4月、首長国連邦が支援するイエメン軍がムカッラーを奪回し、武装勢力はほとんど戦わずに撤退した。"
+   }
+  },
+  {
+   "year": 2015,
+   "qid": "Q21281209",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Cyclones Chapala and Megh",
+    "ko": "사이클론 차팔라와 메그",
+    "zh": "气旋“查帕拉”和“梅格”",
+    "ja": "サイクロン・チャパラとメグ"
+   },
+   "description": {
+    "en": "In November 2015 Cyclone Chapala, one of the strongest storms recorded in the Arabian Sea, struck the island of Socotra and then the Hadramawt coast near Mukalla, causing severe flooding. Only a week later Cyclone Megh hit Socotra again. The back-to-back storms, rare for the region, destroyed homes and infrastructure in a country already at war.",
+    "ko": "2015년 11월 아라비아해에서 기록된 가장 강한 폭풍 가운데 하나인 사이클론 차팔라가 소코트라섬과 무칼라 인근 하드라마우트 해안을 강타해 심각한 홍수를 일으켰다. 불과 일주일 뒤 사이클론 메그가 다시 소코트라를 덮쳤다. 이 지역에서 드문 연이은 폭풍은 이미 전쟁 중인 나라의 가옥과 기반 시설을 파괴했다.",
+    "zh": "2015年11月，阿拉伯海有记录以来最强的风暴之一——气旋“查帕拉”先后袭击索科特拉岛和穆卡拉附近的哈德拉毛沿海，引发严重洪灾。仅一周后，气旋“梅格”再次袭击索科特拉岛。这一地区罕见的接连风暴，摧毁了这个已陷入战争的国家的房屋和基础设施。",
+    "ja": "2015年11月、アラビア海で観測された最も強い嵐の一つであるサイクロン・チャパラがソコトラ島、続いてムカッラー付近のハドラマウト沿岸を襲い、深刻な洪水を引き起こした。わずか1週間後にはサイクロン・メグが再びソコトラを襲った。この地域では珍しい相次ぐ嵐が、すでに戦争下にある国の住宅やインフラを破壊した。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q28220588",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Famine and humanitarian catastrophe",
+    "ko": "기근과 인도적 재앙",
+    "zh": "饥荒与人道灾难",
+    "ja": "飢饉と人道的破局"
+   },
+   "description": {
+    "en": "Blockades, the collapse of the currency and public salaries, and attacks on infrastructure pushed millions of Yemenis towards famine from 2016. The United Nations repeatedly described Yemen as the world's worst humanitarian crisis, with a large majority of the population dependent on aid. Child malnutrition reached extreme levels, especially in Hodeidah and other western governorates.",
+    "ko": "봉쇄, 통화 가치와 공무원 급여 체계의 붕괴, 기반 시설에 대한 공격으로 2016년부터 수백만 명의 예멘인이 기근 위기에 내몰렸다. 유엔은 인구의 대다수가 원조에 의존하는 예멘을 거듭 세계 최악의 인도적 위기라고 규정했다. 아동 영양실조는 특히 호데이다를 비롯한 서부 주들에서 극심한 수준에 이르렀다.",
+    "zh": "封锁、货币和公职人员薪资体系的崩溃以及对基础设施的攻击，使数百万也门人自2016年起濒临饥荒。联合国多次称也门为全球最严重的人道主义危机，绝大多数人口依赖援助生存。儿童营养不良达到极端程度，荷台达等西部省份尤为严重。",
+    "ja": "封鎖、通貨と公務員給与の崩壊、インフラへの攻撃により、2016年から数百万人のイエメン人が飢饉の瀬戸際に追い込まれた。国連はイエメンを人口の大多数が援助に頼る世界最悪の人道危機と繰り返し表現した。子どもの栄養失調は、特にホデイダなど西部の州で極めて深刻な水準に達した。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q30682954",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Cholera epidemic",
+    "ko": "콜레라 대유행",
+    "zh": "霍乱疫情",
+    "ja": "コレラの大流行"
+   },
+   "description": {
+    "en": "A cholera outbreak that began in October 2016 exploded in 2017 amid the collapse of water, sanitation and health systems. By the end of 2017 more than a million suspected cases had been recorded, one of the largest cholera epidemics in modern history. Thousands died, many of them children.",
+    "ko": "2016년 10월 시작된 콜레라는 상하수도와 보건 체계가 무너지는 가운데 2017년 폭발적으로 확산되었다. 2017년 말까지 의심 사례가 100만 건을 넘어 현대사에서 가장 큰 콜레라 유행 가운데 하나가 되었다. 수천 명이 숨졌으며 그중 다수가 어린이였다.",
+    "zh": "2016年10月暴发的霍乱疫情，在供水、卫生和医疗系统崩溃的背景下于2017年急剧蔓延。到2017年底，疑似病例已超过一百万例，成为现代史上规模最大的霍乱疫情之一。数千人死亡，其中许多是儿童。",
+    "ja": "2016年10月に始まったコレラの流行は、上下水道と保健システムが崩壊する中で2017年に爆発的に広がった。2017年末までに疑い例は100万件を超え、近代史上最大級のコレラ流行となった。数千人が死亡し、その多くは子どもであった。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q27149688",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Sanaa funeral air strike",
+    "ko": "사나 장례식장 공습",
+    "zh": "萨那葬礼空袭",
+    "ja": "サナアの葬儀場空爆"
+   },
+   "description": {
+    "en": "On 8 October 2016 coalition aircraft struck a crowded funeral hall in Sanaa, killing more than a hundred mourners and wounding hundreds. The coalition's own investigation team later acknowledged the strike was based on incorrect information. The attack drew international condemnation and increased scrutiny of arms sales to the coalition.",
+    "ko": "2016년 10월 8일 연합군 항공기가 사람들로 붐비던 사나의 장례식장을 공습해 조문객 100명 이상이 숨지고 수백 명이 다쳤다. 연합군 자체 조사단은 이후 이 공습이 잘못된 정보에 근거했음을 인정했다. 이 공격은 국제적 비난을 불렀고 연합군에 대한 무기 판매를 둘러싼 감시를 강화시켰다.",
+    "zh": "2016年10月8日，联军飞机空袭萨那一座挤满人的殡仪厅，造成一百多名吊唁者死亡、数百人受伤。联军自己的调查组后来承认，这次空袭是基于错误信息。袭击招致国际谴责，并使对联军军售受到更严格的审视。",
+    "ja": "2016年10月8日、連合軍機が大勢の人で混み合うサナアの葬儀場を空爆し、100人以上の弔問客が死亡、数百人が負傷した。連合軍自身の調査チームは後に、この空爆が誤った情報に基づいていたことを認めた。この攻撃は国際的な非難を浴び、連合軍への武器売却への監視を強めた。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q44407676",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Death of Ali Abdullah Saleh",
+    "ko": "알리 압둘라 살레의 죽음",
+    "zh": "阿里·阿卜杜拉·萨利赫之死",
+    "ja": "アリー・アブドッラー・サーレハの死"
+   },
+   "description": {
+    "en": "Saleh, who had allied with his former Houthi enemies after 2014, broke with them in early December 2017 and called for a new page with the Saudi-led coalition. Days of fighting followed in Sanaa, and on 4 December 2017 Saleh was killed by Houthi fighters. His death left the Houthis in sole control of the capital and the north-west.",
+    "ko": "2014년 이후 옛 적인 후티와 손잡았던 살레는 2017년 12월 초 그들과 결별하고 사우디 주도 연합군과의 새로운 관계를 제안했다. 이어 사나에서 며칠간 전투가 벌어졌고, 2017년 12월 4일 살레는 후티 전투원들에게 살해되었다. 그의 죽음으로 후티는 수도와 북서부를 단독으로 장악하게 되었다.",
+    "zh": "2014年后与昔日敌人胡塞武装结盟的萨利赫，于2017年12月初与其决裂，并呼吁与沙特领导的联军“翻开新的一页”。萨那随即爆发数日激战，2017年12月4日萨利赫被胡塞武装人员杀死。他的死使胡塞武装独掌首都和西北部地区。",
+    "ja": "2014年以降、かつての敵フーシ派と手を結んでいたサーレハは、2017年12月初めに彼らと決別し、サウジ主導の連合軍との新たな関係を呼びかけた。サナアでは数日間の戦闘が続き、2017年12月4日にサーレハはフーシ派の戦闘員に殺害された。彼の死によってフーシ派は首都と北西部を単独で支配することになった。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Southern Transitional Council formed",
+    "ko": "남부 과도위원회 결성",
+    "zh": "南方过渡委员会成立",
+    "ja": "南部暫定評議会の結成"
+   },
+   "description": {
+    "en": "In May 2017, after President Hadi dismissed the governor of Aden, Aidarus al-Zubaidi, southern leaders announced the Southern Transitional Council (STC), seeking an independent southern state. Backed by the United Arab Emirates and controlling powerful armed units, the STC became a rival to the recognised government within the anti-Houthi camp. Clashes between the two sides erupted in Aden in 2018 and 2019.",
+    "ko": "2017년 5월 하디 대통령이 아덴 주지사 아이다루스 알주바이디를 해임하자, 남부 지도자들은 독립 남부 국가를 목표로 하는 남부 과도위원회(STC)를 발족했다. 아랍에미리트의 지원을 받고 강력한 무장 부대를 거느린 STC는 반후티 진영 안에서 승인된 정부의 경쟁자가 되었다. 2018년과 2019년 양측은 아덴에서 충돌했다.",
+    "zh": "2017年5月，哈迪总统解除亚丁省长艾达鲁斯·祖拜迪的职务后，南方领导人宣布成立谋求南方独立建国的南方过渡委员会。该委员会获阿联酋支持并掌控强大的武装部队，在反胡塞阵营内部成为受承认政府的竞争对手。2018年和2019年，双方在亚丁爆发冲突。",
+    "ja": "2017年5月、ハーディー大統領がアデン州知事アイダルース・アル＝ズバイディーを解任すると、南部の指導者たちは独立した南部国家を目指す南部暫定評議会（STC）を発足させた。首長国連邦の支援を受け強力な武装部隊を擁するSTCは、反フーシ派陣営の中で承認された政府の対抗勢力となった。2018年と2019年には両者がアデンで衝突した。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q48735086",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Hodeidah offensive and Stockholm Agreement",
+    "ko": "호데이다 공세와 스톡홀름 협정",
+    "zh": "荷台达攻势与斯德哥尔摩协议",
+    "ja": "ホデイダ攻勢とストックホルム合意"
+   },
+   "description": {
+    "en": "In June 2018 coalition-backed forces launched an offensive along the Red Sea coast towards Hodeidah, the port through which most of northern Yemen's food and fuel imports arrived. Fearing famine, the UN pressed for talks, and in December 2018 the parties signed the Stockholm Agreement, including a ceasefire in Hodeidah and a prisoner exchange plan. Implementation was slow, but the deal averted a battle for the port city.",
+    "ko": "2018년 6월 연합군 측 세력은 북부 예멘 식량과 연료 수입 대부분이 들어오는 항구 호데이다를 향해 홍해 해안을 따라 공세를 시작했다. 기근을 우려한 유엔이 협상을 촉구했고, 2018년 12월 당사자들은 호데이다 휴전과 포로 교환 계획을 담은 스톡홀름 협정에 서명했다. 이행은 더뎠지만, 이 합의로 항구 도시를 둘러싼 전투는 피할 수 있었다.",
+    "zh": "2018年6月，联军支持的部队沿红海海岸向荷台达发动攻势，北也门大部分粮食和燃料进口都经由该港输入。出于对饥荒的担忧，联合国力促谈判，2018年12月各方签署《斯德哥尔摩协议》，内容包括荷台达停火和换俘计划。协议执行缓慢，但避免了一场港口城市争夺战。",
+    "ja": "2018年6月、連合軍側の勢力は、北イエメンの食料と燃料の輸入の大半が入るホデイダ港を目指して紅海沿岸を攻勢に出た。飢饉を懸念した国連が協議を促し、2018年12月に当事者はホデイダでの停戦と捕虜交換計画を含むストックホルム合意に署名した。履行は遅れたが、この合意によって港湾都市をめぐる戦闘は回避された。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q56043230",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Dahyan school bus air strike",
+    "ko": "다흐얀 스쿨버스 공습",
+    "zh": "达赫扬校车空袭",
+    "ja": "ダヒヤーンのスクールバス空爆"
+   },
+   "description": {
+    "en": "On 9 August 2018 a coalition air strike hit a bus carrying schoolchildren on a field trip in a market in Dahyan, Saada governorate, killing dozens of children. The coalition later admitted the attack was unjustified. The strike became a symbol of the war's toll on civilians and intensified debate over Western arms supplies.",
+    "ko": "2018년 8월 9일 연합군 공습이 사다주 다흐얀의 시장에서 현장 학습을 가던 학생들을 태운 버스를 타격해 수십 명의 어린이가 숨졌다. 연합군은 이후 이 공격이 정당하지 않았음을 인정했다. 이 공습은 전쟁이 민간인에게 끼친 피해의 상징이 되었고 서방의 무기 공급을 둘러싼 논쟁을 격화시켰다.",
+    "zh": "2018年8月9日，联军空袭击中萨达省达赫扬一处市场内一辆载着郊游学童的校车，造成数十名儿童死亡。联军后来承认这次袭击缺乏正当理由。这次空袭成为战争对平民造成伤害的象征，并加剧了围绕西方军售的争论。",
+    "ja": "2018年8月9日、連合軍の空爆がサアダ州ダヒヤーンの市場で、校外学習に向かう子どもたちを乗せたバスに命中し、数十人の子どもが死亡した。連合軍は後にこの攻撃が正当化できないものだったと認めた。この空爆は戦争が民間人にもたらした犠牲の象徴となり、欧米の武器供与をめぐる議論を激化させた。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": "Q66370931",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "STC takes Aden; Riyadh Agreement",
+    "ko": "STC의 아덴 장악과 리야드 협정",
+    "zh": "南方过渡委员会夺取亚丁与《利雅得协议》",
+    "ja": "STCのアデン掌握とリヤド合意"
+   },
+   "description": {
+    "en": "In August 2019 forces of the Southern Transitional Council seized Aden from troops loyal to the Hadi government, exposing deep divisions inside the anti-Houthi coalition. Saudi Arabia mediated the Riyadh Agreement in November 2019, which provided for STC participation in a new government. The deal was implemented only partly, and tensions persisted.",
+    "ko": "2019년 8월 남부 과도위원회 병력이 하디 정부에 충성하는 부대로부터 아덴을 빼앗아 반후티 연합 내부의 깊은 분열을 드러냈다. 사우디아라비아는 2019년 11월 STC의 새 정부 참여를 규정한 리야드 협정을 중재했다. 협정은 일부만 이행되었고 긴장은 계속되었다.",
+    "zh": "2019年8月，南方过渡委员会的部队从效忠哈迪政府的军队手中夺取亚丁，暴露出反胡塞联盟内部的深刻分歧。沙特阿拉伯于2019年11月斡旋达成《利雅得协议》，规定南方过渡委员会参与新政府。该协议只得到部分落实，紧张局势持续。",
+    "ja": "2019年8月、南部暫定評議会の部隊がハーディー政権に忠実な部隊からアデンを奪い、反フーシ派連合内部の深い亀裂を露わにした。サウジアラビアは2019年11月、STCの新政府参加を定めたリヤド合意を仲介した。合意は一部しか履行されず、緊張は続いた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q96212103",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Houthi advance in al-Jawf and Marib",
+    "ko": "후티의 알자우프·마리브 진격",
+    "zh": "胡塞武装进军焦夫与马里卜",
+    "ja": "フーシ派のジャウフ・マーリブ進攻"
+   },
+   "description": {
+    "en": "In early 2020 the Houthis launched an offensive in the north-east, capturing al-Hazm, capital of al-Jawf governorate, in March 2020. They then pushed towards Marib, the government's last major northern stronghold and centre of its oil and gas resources. Heavy fighting around Marib through 2021 displaced many people who had already fled there earlier in the war.",
+    "ko": "2020년 초 후티는 북동부에서 공세를 시작해 2020년 3월 알자우프주의 주도 알하즘을 점령했다. 이어 그들은 정부의 북부 최후의 주요 거점이자 석유·가스 자원의 중심지인 마리브로 진격했다. 2021년 내내 이어진 마리브 주변의 격전으로 전쟁 초기 이미 그곳으로 피란했던 많은 사람이 다시 피란길에 올랐다.",
+    "zh": "2020年初，胡塞武装在东北部发动攻势，于2020年3月攻占焦夫省首府哈兹姆。随后他们向马里卜推进，那里是政府在北方最后的主要据点，也是其石油和天然气资源中心。2021年马里卜周边的激战，使许多在战争初期就已逃往当地的人再次流离失所。",
+    "ja": "2020年初め、フーシ派は北東部で攻勢を開始し、2020年3月にジャウフ州の州都ハズムを占領した。続いて彼らは政府にとって北部最後の主要拠点であり石油・ガス資源の中心であるマーリブへ進んだ。2021年を通じたマーリブ周辺の激戦により、戦争初期にすでにそこへ逃れていた多くの人々が再び避難を強いられた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q104585205",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Attack on Aden airport",
+    "ko": "아덴 공항 공격",
+    "zh": "亚丁机场遇袭",
+    "ja": "アデン空港攻撃"
+   },
+   "description": {
+    "en": "On 30 December 2020, as members of a new power-sharing cabinet formed under the Riyadh Agreement arrived at Aden airport, missiles struck the terminal, killing and wounding dozens of people. The ministers survived. The government blamed the Houthis, who denied responsibility.",
+    "ko": "2020년 12월 30일 리야드 협정에 따라 구성된 새 권력 분점 내각 각료들이 아덴 공항에 도착하는 순간 미사일이 터미널을 강타해 수십 명이 죽거나 다쳤다. 각료들은 무사했다. 정부는 후티를 비난했으나 후티는 책임을 부인했다.",
+    "zh": "2020年12月30日，根据《利雅得协议》组建的新联合内阁成员抵达亚丁机场时，导弹击中航站楼，造成数十人死伤。部长们幸免于难。政府指责胡塞武装所为，胡塞方面否认负责。",
+    "ja": "2020年12月30日、リヤド合意に基づいて組織された新たな権力分有内閣の閣僚がアデン空港に到着した際、ミサイルがターミナルに着弾し、数十人が死傷した。閣僚は無事だった。政府はフーシ派を非難したが、フーシ派は関与を否定した。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "UN truce and the Presidential Leadership Council",
+    "ko": "유엔 휴전과 대통령지도위원회",
+    "zh": "联合国斡旋停火与总统领导委员会",
+    "ja": "国連の休戦と大統領指導評議会"
+   },
+   "description": {
+    "en": "In April 2022 a UN-brokered nationwide truce took effect, the first since 2016, reducing fighting and air strikes and allowing fuel ships into Hodeidah and some flights from Sanaa. Days later President Hadi transferred his powers to a new eight-member Presidential Leadership Council headed by Rashad al-Alimi. Although the truce formally expired in October 2022, large-scale fighting largely did not resume.",
+    "ko": "2022년 4월 유엔이 중재한 전국 휴전이 2016년 이후 처음으로 발효되어 전투와 공습이 줄고 연료선의 호데이다 입항과 사나발 일부 항공편 운항이 허용되었다. 며칠 뒤 하디 대통령은 라샤드 알알리미가 이끄는 8인 대통령지도위원회에 권한을 넘겼다. 휴전은 2022년 10월 공식 만료되었지만 대규모 전투는 대체로 재개되지 않았다.",
+    "zh": "2022年4月，联合国斡旋的全国停火生效，这是2016年以来的首次，战斗和空袭随之减少，燃油船获准进入荷台达，萨那也恢复了部分航班。数日后，哈迪总统将权力移交给由拉沙德·阿里米领导的八人总统领导委员会。尽管停火协议于2022年10月正式到期，大规模战斗基本没有恢复。",
+    "ja": "2022年4月、国連が仲介した全国的な休戦が2016年以来初めて発効し、戦闘と空爆が減って燃料船のホデイダ入港やサナア発の一部の航空便が認められた。数日後、ハーディー大統領はラシャード・アル＝アリーミーが率いる8人の大統領指導評議会に権限を移譲した。休戦は2022年10月に正式に失効したが、大規模な戦闘はおおむね再開されなかった。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q117801924",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Sanaa crowd crush",
+    "ko": "사나 압사 사고",
+    "zh": "萨那踩踏事故",
+    "ja": "サナアの群衆事故"
+   },
+   "description": {
+    "en": "On 19 April 2023, during the last days of Ramadan, a stampede broke out at a charity cash distribution at a school in Sanaa's old city, killing about ninety people. The tragedy reflected the desperation created by years of war, unpaid salaries and economic collapse. Houthi authorities arrested the organisers.",
+    "ko": "2023년 4월 19일 라마단 막바지에 사나 구시가의 한 학교에서 열린 자선 현금 배분 행사에서 압사 사고가 일어나 약 90명이 숨졌다. 이 비극은 수년간의 전쟁, 급여 체불, 경제 붕괴가 낳은 절망을 반영했다. 후티 당국은 행사 주최자들을 체포했다.",
+    "zh": "2023年4月19日，斋月最后几天里，萨那老城一所学校举行慈善现金发放活动时发生踩踏，约九十人死亡。这场悲剧反映了多年战争、欠薪和经济崩溃造成的绝望处境。胡塞当局逮捕了活动组织者。",
+    "ja": "2023年4月19日、ラマダーン終盤にサナア旧市街の学校で行われた慈善の現金配布で群衆事故が起き、約90人が死亡した。この悲劇は、長年の戦争、給与の未払い、経済崩壊がもたらした絶望を映し出していた。フーシ派当局は配布の主催者を逮捕した。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": "Q124325743",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Houthi Red Sea attacks",
+    "ko": "후티의 홍해 공격",
+    "zh": "胡塞武装的红海袭击",
+    "ja": "フーシ派の紅海攻撃"
+   },
+   "description": {
+    "en": "After the outbreak of the Gaza war in October 2023, the Houthis fired missiles and drones towards Israel and, from November, began attacking merchant ships in the Red Sea and Gulf of Aden, starting with the seizure of the car carrier Galaxy Leader. Major shipping lines diverted around the Cape of Good Hope, disrupting global trade through the Suez Canal. In December 2023 the United States launched Operation Prosperity Guardian to protect shipping.",
+    "ko": "2023년 10월 가자 전쟁이 발발하자 후티는 이스라엘을 향해 미사일과 드론을 발사했고, 11월부터는 자동차 운반선 갤럭시 리더호 나포를 시작으로 홍해와 아덴만의 상선을 공격했다. 주요 해운사들은 희망봉으로 우회했고 수에즈 운하를 거치는 세계 무역이 차질을 빚었다. 2023년 12월 미국은 선박 보호를 위해 '번영의 수호자 작전'을 시작했다.",
+    "zh": "2023年10月加沙战争爆发后，胡塞武装向以色列发射导弹和无人机，并从11月起以劫持汽车运输船“银河领袖”号为开端，袭击红海和亚丁湾的商船。主要航运公司改道绕行好望角，经苏伊士运河的全球贸易受到严重干扰。2023年12月，美国发起“繁荣卫士行动”以保护航运。",
+    "ja": "2023年10月にガザ戦争が勃発すると、フーシ派はイスラエルに向けてミサイルやドローンを発射し、11月からは自動車運搬船ギャラクシー・リーダーの拿捕を皮切りに紅海とアデン湾の商船を攻撃し始めた。大手海運会社は喜望峰回りに航路を変更し、スエズ運河を通る世界の貿易は混乱した。2023年12月、アメリカは船舶保護のため「繁栄の守護者作戦」を開始した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q124254493",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "US and UK strikes on Yemen",
+    "ko": "미국과 영국의 예멘 공습",
+    "zh": "美英空袭也门",
+    "ja": "米英によるイエメン空爆"
+   },
+   "description": {
+    "en": "On 12 January 2024 the United States and the United Kingdom began air and missile strikes against Houthi military targets in Yemen in response to the attacks on shipping. Strikes continued through the year, but the Houthis kept up their campaign against vessels they linked to Israel, the US and the UK. Several ships were sunk or damaged and crew members killed.",
+    "ko": "2024년 1월 12일 미국과 영국은 선박 공격에 대응해 예멘의 후티 군사 목표물에 대한 공습과 미사일 공격을 시작했다. 공습은 한 해 내내 이어졌지만, 후티는 이스라엘, 미국, 영국과 관련 있다고 본 선박에 대한 공격을 계속했다. 여러 척의 선박이 침몰하거나 손상되었고 선원들이 숨졌다.",
+    "zh": "2024年1月12日，美国和英国针对船只遇袭事件，开始对也门境内胡塞武装军事目标实施空袭和导弹打击。打击持续全年，但胡塞武装继续袭击其认为与以色列、美国和英国有关的船只。多艘船只沉没或受损，并有船员丧生。",
+    "ja": "2024年1月12日、アメリカとイギリスは船舶攻撃への対抗として、イエメンのフーシ派軍事目標への空爆とミサイル攻撃を開始した。攻撃は年間を通じて続いたが、フーシ派はイスラエル・アメリカ・イギリスと関係があるとみなした船舶への攻撃を続けた。複数の船が沈没または損傷し、乗組員が死亡した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q127638355",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Houthi drone on Tel Aviv and Israeli strike on Hodeidah",
+    "ko": "후티의 텔아비브 드론 공격과 이스라엘의 호데이다 공습",
+    "zh": "胡塞无人机袭击特拉维夫与以色列空袭荷台达",
+    "ja": "フーシ派のテルアビブ無人機攻撃とイスラエルのホデイダ空爆"
+   },
+   "description": {
+    "en": "On 19 July 2024 a Houthi drone struck a building in Tel Aviv, killing one person. The next day Israel carried out its first direct strikes on Yemen, hitting fuel depots and facilities at Hodeidah port. Further exchanges followed, with Israeli strikes on Hodeidah, Sanaa airport and power stations later in 2024.",
+    "ko": "2024년 7월 19일 후티의 드론이 텔아비브의 한 건물을 타격해 1명이 숨졌다. 이튿날 이스라엘은 처음으로 예멘을 직접 공습해 호데이다항의 연료 저장소와 시설을 타격했다. 이후에도 공방이 이어져 2024년 하반기 이스라엘은 호데이다, 사나 공항, 발전소 등을 공습했다.",
+    "zh": "2024年7月19日，胡塞武装的一架无人机击中特拉维夫一栋建筑，造成一人死亡。次日，以色列首次直接空袭也门，打击荷台达港的燃料库和设施。此后双方继续交火，2024年下半年以色列又空袭了荷台达、萨那机场和发电站等目标。",
+    "ja": "2024年7月19日、フーシ派の無人機がテルアビブの建物に命中し、1人が死亡した。翌日イスラエルは初めてイエメンを直接空爆し、ホデイダ港の燃料貯蔵施設などを攻撃した。その後も応酬が続き、2024年後半にはイスラエルがホデイダ、サナア空港、発電所などを空爆した。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q133287207",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "US air campaign and ceasefire with the Houthis",
+    "ko": "미국의 공습 작전과 후티와의 휴전",
+    "zh": "美国空袭行动与美胡停火",
+    "ja": "アメリカの空爆作戦とフーシ派との停戦"
+   },
+   "description": {
+    "en": "From 15 March 2025 the United States launched an intensive air campaign against the Houthis, striking targets across northern Yemen; strikes on the Ras Isa fuel port in April and on a detention centre for African migrants in Saada caused heavy civilian casualties. On 6 May 2025 an Oman-mediated ceasefire was announced under which the US halted strikes and the Houthis agreed to stop attacking US ships. The arrangement did not cover Houthi attacks on Israel.",
+    "ko": "2025년 3월 15일부터 미국은 후티를 겨냥한 집중 공습 작전을 벌여 북부 예멘 곳곳을 타격했으며, 4월의 라스 이사 연료 항구 공습과 사다의 아프리카 이주민 수용 시설 공습으로 많은 민간인이 희생되었다. 2025년 5월 6일 오만의 중재로 휴전이 발표되어 미국은 공습을 중단하고 후티는 미국 선박을 공격하지 않기로 했다. 이 합의는 후티의 이스라엘 공격에는 적용되지 않았다.",
+    "zh": "自2025年3月15日起，美国对胡塞武装发动密集空袭，打击北也门各地目标；4月对拉斯伊萨燃料港的空袭以及对萨达一处非洲移民拘留中心的空袭造成大量平民伤亡。2025年5月6日，在阿曼斡旋下宣布停火：美国停止空袭，胡塞武装同意不再攻击美国船只。该安排不涵盖胡塞武装对以色列的攻击。",
+    "ja": "2025年3月15日からアメリカはフーシ派に対する集中的な空爆作戦を展開して北部イエメン各地を攻撃し、4月のラス・イーサー燃料港への空爆やサアダのアフリカ系移民収容施設への空爆では多くの民間人が犠牲となった。2025年5月6日、オマーンの仲介による停戦が発表され、アメリカは空爆を停止し、フーシ派はアメリカの船舶を攻撃しないことに同意した。この取り決めはフーシ派のイスラエル攻撃には適用されなかった。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q136001786",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Israeli strike kills Houthi prime minister",
+    "ko": "이스라엘 공습으로 후티 총리 사망",
+    "zh": "以色列空袭炸死胡塞政府总理",
+    "ja": "イスラエルの空爆でフーシ派首相が死亡"
+   },
+   "description": {
+    "en": "On 28 August 2025 Israeli air strikes in Sanaa killed Ahmed al-Rahawi, prime minister of the Houthi-run government, along with several of his ministers. It was one of the heaviest blows to the Houthi leadership during the conflict with Israel. The Houthis vowed revenge and continued missile and drone launches towards Israel.",
+    "ko": "2025년 8월 28일 이스라엘의 사나 공습으로 후티 정부의 총리 아흐메드 알라하위와 여러 각료가 숨졌다. 이는 이스라엘과의 충돌 과정에서 후티 지도부가 입은 가장 큰 타격 가운데 하나였다. 후티는 보복을 다짐하며 이스라엘을 향한 미사일과 드론 발사를 계속했다.",
+    "zh": "2025年8月28日，以色列对萨那的空袭炸死胡塞政府总理艾哈迈德·拉哈维及其多名部长。这是胡塞与以色列冲突中其领导层遭受的最沉重打击之一。胡塞武装誓言报复，并继续向以色列发射导弹和无人机。",
+    "ja": "2025年8月28日、イスラエルによるサナアへの空爆で、フーシ派政府の首相アフマド・アル＝ラハウィーと複数の閣僚が死亡した。これはイスラエルとの衝突の中でフーシ派指導部が受けた最も大きな打撃の一つであった。フーシ派は報復を誓い、イスラエルに向けたミサイルや無人機の発射を続けた。"
+   }
+  }
+ ]
+}

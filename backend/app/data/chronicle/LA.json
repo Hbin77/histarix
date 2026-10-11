@@ -1,0 +1,1863 @@
+{
+ "iso": "LA",
+ "eras": [
+  {
+   "from": -8000,
+   "to": -1500,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Stone Age foragers and early farmers",
+    "ko": "석기 시대 수렵채집민과 초기 농경민",
+    "zh": "石器时代的采集者与早期农人",
+    "ja": "石器時代の狩猟採集民と初期農耕民"
+   },
+   "summary": {
+    "en": "The mountains and river valleys of Laos have been inhabited for tens of thousands of years: the Tam Pa Ling cave in Houaphanh has yielded some of the oldest modern human remains in mainland Southeast Asia. Hoabinhian-style forager groups used rock shelters and caves for millennia. From the later Neolithic, rice farming and pottery spread along the Mekong and its tributaries.",
+    "ko": "라오스의 산지와 강 유역에는 수만 년 전부터 사람이 살았다. 후아판주의 탐파링 동굴에서는 동남아시아 대륙에서 가장 오래된 현생 인류 화석 가운데 일부가 나왔다. 호아빈 문화 계통의 수렵채집민은 수천 년 동안 바위그늘과 동굴을 이용했고, 신석기 후기에는 벼농사와 토기가 메콩강과 그 지류를 따라 퍼졌다.",
+    "zh": "老挝的山地与河谷早在数万年前就有人类居住：华潘省的塔巴林洞穴出土了东南亚大陆最古老的现代人遗骸之一。和平文化类型的采集狩猎群体在岩棚和洞穴中生活了数千年。新石器时代晚期，稻作农业和陶器沿湄公河及其支流传播开来。",
+    "ja": "ラオスの山地と河谷には数万年前から人が暮らしていた。フアパン県のタム・パ・リン洞窟からは、東南アジア大陸部で最古級の現生人類の化石が見つかっている。ホアビン文化系の狩猟採集民は数千年にわたり岩陰や洞窟を利用し、新石器時代後期には稲作と土器がメコン川とその支流に沿って広がった。"
+   }
+  },
+  {
+   "from": -1500,
+   "to": -500,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Bronze Age of the middle Mekong",
+    "ko": "메콩강 중류의 청동기 시대",
+    "zh": "湄公河中游的青铜时代",
+    "ja": "メコン川中流域の青銅器時代"
+   },
+   "summary": {
+    "en": "In the late second and early first millennium BC, bronze metallurgy spread through the middle Mekong basin, as seen at Ban Chiang just across the river in northeastern Thailand. Communities in what is now Laos farmed rice, raised animals and exchanged metal, salt and ornaments along the river network. Ancient copper mining in the Vilabouly area of Savannakhet shows that the region also supplied raw materials.",
+    "ko": "기원전 2천년기 후반부터 1천년기 초에 걸쳐 청동 야금술이 메콩강 중류 유역에 퍼졌다. 강 건너 태국 동북부의 반치앙 유적이 그 대표적인 예이다. 오늘날 라오스 땅의 공동체들은 벼농사와 가축 사육을 하며 강줄기를 따라 금속·소금·장신구를 교환했고, 사완나켓주 위라부리 일대의 고대 구리 채굴 흔적은 이 지역이 원료 공급지였음을 보여 준다.",
+    "zh": "公元前二千纪晚期至一千纪早期，青铜冶炼技术传遍湄公河中游流域，河对岸泰国东北部的班清遗址便是代表。今老挝境内的社群种植稻米、饲养牲畜，并沿河网交换金属、盐和饰品。沙湾拿吉省维拉布里一带的古代铜矿遗迹表明，这里也是原料产地。",
+    "ja": "前2千年紀後半から前1千年紀初めにかけて、青銅冶金術がメコン川中流域に広まった。対岸のタイ東北部にあるバンチエン遺跡はその代表例である。現在のラオスの共同体は稲作と家畜飼育を営み、川の交通網を通じて金属・塩・装身具を交換した。サワンナケート県ヴィラブリー周辺の古代銅山跡は、この地域が原料の供給地でもあったことを示す。"
+   }
+  },
+  {
+   "from": -500,
+   "to": 500,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Plain of Jars megalithic culture",
+    "ko": "항아리 평원 거석 문화",
+    "zh": "石缸平原巨石文化",
+    "ja": "ジャール平原巨石文化"
+   },
+   "summary": {
+    "en": "During the Iron Age, communities on the Xieng Khouang plateau carved and set up thousands of large stone jars at dozens of sites. Excavations have found human remains and grave goods around them, and most scholars link the jars to funerary practices. The culture's makers left no writing, and their identity remains unknown; the sites were inscribed as UNESCO World Heritage in 2019.",
+    "ko": "철기 시대에 시앙쿠앙 고원의 공동체들은 수십 곳의 유적에 거대한 돌항아리 수천 개를 깎아 세웠다. 발굴 결과 항아리 주변에서 인골과 껴묻거리가 나와 대부분의 학자는 이를 장례 관습과 연결한다. 이 문화를 남긴 사람들은 문자를 남기지 않아 그 정체가 여전히 밝혀지지 않았으며, 유적은 2019년 유네스코 세계유산에 등재되었다.",
+    "zh": "铁器时代，川圹高原上的社群在数十处遗址开凿并竖立了数千个巨大石缸。考古发掘在石缸周围发现了人骨和随葬品，多数学者认为它们与丧葬习俗有关。这一文化的创造者没有留下文字，其身份至今不明；遗址于2019年列入联合国教科文组织世界遗产名录。",
+    "ja": "鉄器時代、シエンクワン高原の人々は数十か所の遺跡に巨大な石の壺を数千個も刻み、据え置いた。発掘では周囲から人骨や副葬品が見つかり、多くの研究者は葬送儀礼と結びつけている。担い手は文字を残さず正体はいまだ不明で、遺跡群は2019年にユネスコ世界遺産に登録された。"
+   }
+  },
+  {
+   "from": 1,
+   "to": 550,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Early Mon-Khmer polities and the Funan sphere",
+    "ko": "초기 몬-크메르 정치체와 푸난 세력권",
+    "zh": "早期孟-高棉政权与扶南势力圈",
+    "ja": "初期モン・クメール系勢力と扶南の勢力圏"
+   },
+   "summary": {
+    "en": "In the first centuries AD, Mon-Khmer-speaking peoples formed chiefdoms along the middle Mekong, while the trading state of Funan in the delta spread Indian religious and political ideas upriver. Around Champasak in the far south, a 5th-century Sanskrit inscription records a king named Devanika, among the earliest written records found on Lao soil. Upland groups ancestral to today's Lao Theung peoples lived in the hills.",
+    "ko": "기원후 첫 몇 세기 동안 몬-크메르어를 쓰는 사람들이 메콩강 중류를 따라 수장 사회를 이루었고, 삼각주의 교역 국가 푸난은 인도식 종교와 정치 관념을 상류로 전했다. 남부 짬빠삭 일대에서는 데바니카라는 왕을 기록한 5세기 산스크리트 비문이 발견되었는데, 라오스 땅에서 나온 가장 이른 문자 기록 가운데 하나이다. 산지에는 오늘날 라오텅 계열 민족의 조상이 살았다.",
+    "zh": "公元最初几个世纪，说孟-高棉语的人群沿湄公河中游形成酋邦，而三角洲的商业国家扶南将印度的宗教和政治观念传往上游。在南部占巴塞一带发现的5世纪梵文碑铭记载了一位名叫提婆尼迦的国王，是老挝境内最早的文字记录之一。山地则居住着今日老听族群的祖先。",
+    "ja": "紀元後の最初の数世紀、モン・クメール語系の人々はメコン川中流に首長制社会を築き、デルタの交易国家扶南はインド的な宗教・政治観念を上流へ伝えた。南部チャンパーサック周辺では、デーヴァーニカという王を記す5世紀のサンスクリット碑文が見つかっており、ラオスの地で最古級の文字記録である。山地には今日のラーオ・トゥン系諸民族の祖先が住んでいた。"
+   }
+  },
+  {
+   "from": 550,
+   "to": 717,
+   "kind": "state",
+   "qid": "Q1057118",
+   "polity": "Chenla",
+   "name": {
+    "en": "Chenla",
+    "ko": "진랍",
+    "zh": "真腊",
+    "ja": "真臘"
+   },
+   "summary": {
+    "en": "Chenla, a Khmer kingdom known from Chinese records, emerged in the 6th century in the region of Champasak and the sacred mountain above Wat Phou, and went on to absorb Funan to the south. Its rulers patronized Shaivite Hinduism and Sanskrit learning. Southern Laos was thus one of the cradles of the Khmer state that later built Angkor.",
+    "ko": "중국 기록에 진랍으로 알려진 크메르 왕국은 6세기 짬빠삭과 왓푸 위의 성산 일대에서 일어나 남쪽의 푸난을 흡수했다. 그 지배자들은 시바 신앙과 산스크리트 학문을 후원했다. 이로써 라오스 남부는 훗날 앙코르를 건설한 크메르 국가의 요람 가운데 하나가 되었다.",
+    "zh": "中国史籍所称的真腊是一个高棉王国，6世纪兴起于占巴塞及瓦普神庙上方的圣山一带，随后兼并了南方的扶南。其统治者崇奉湿婆教并提倡梵文学术。老挝南部因此成为后来建造吴哥的高棉国家的摇篮之一。",
+    "ja": "中国史料に真臘として現れるクメール人の王国は、6世紀にチャンパーサックとワット・プー背後の聖山の周辺で興り、南の扶南を併合した。その支配者はシヴァ信仰とサンスクリット学術を保護した。こうしてラオス南部は、のちにアンコールを築くクメール国家の揺籃の地の一つとなった。"
+   }
+  },
+  {
+   "from": 600,
+   "to": 1000,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Mon Buddhist culture of the Vientiane plain",
+    "ko": "비엔티안 평원의 몬족 불교 문화",
+    "zh": "万象平原的孟族佛教文化",
+    "ja": "ヴィエンチャン平野のモン人仏教文化"
+   },
+   "summary": {
+    "en": "From about the 7th century, Mon communities linked to the Dvaravati culture of central Thailand spread Theravada Buddhism into the Khorat plateau and the Vientiane plain. They left moated settlements, Buddha images and carved boundary stones (sema) marking sacred precincts. This Buddhist layer preceded the arrival of the Tai-speaking Lao.",
+    "ko": "7세기 무렵부터 태국 중부의 드바라바티 문화와 연결된 몬족 공동체가 코랏 고원과 비엔티안 평원에 상좌부 불교를 퍼뜨렸다. 그들은 해자를 두른 취락과 불상, 성역의 경계를 표시하는 조각된 결계석(세마)을 남겼다. 이 불교 문화층은 타이어계 라오족이 오기 전부터 존재했다.",
+    "zh": "约自7世纪起，与泰国中部堕罗钵底文化相关的孟族社群将上座部佛教传入呵叻高原和万象平原。他们留下了环壕聚落、佛像以及标示圣域边界的雕刻结界石（色玛）。这一佛教文化层早于说泰语的老族到来。",
+    "ja": "7世紀頃から、タイ中部のドヴァーラヴァティー文化と結びついたモン人の共同体がコーラート高原とヴィエンチャン平野に上座部仏教を広めた。彼らは環濠集落、仏像、聖域の境界を示す彫刻された結界石（セーマー）を残した。この仏教文化層はタイ系ラーオ人の到来に先立つものである。"
+   }
+  },
+  {
+   "from": 717,
+   "to": 805,
+   "kind": "state",
+   "qid": "Q1057118",
+   "polity": "Land Chenla",
+   "name": {
+    "en": "Land Chenla",
+    "ko": "육진랍",
+    "zh": "陆真腊",
+    "ja": "陸真臘"
+   },
+   "summary": {
+    "en": "According to Chinese sources, Chenla split in the early 8th century into 'Land Chenla' in the north and 'Water Chenla' near the coast. Land Chenla, called Wendan by the Tang, centred on the middle Mekong including much of southern and central Laos, and sent envoys to China. It faded as the Angkorian state rose at the start of the 9th century.",
+    "ko": "중국 사료에 따르면 진랍은 8세기 초 북쪽의 '육진랍'과 해안 쪽의 '수진랍'으로 갈라졌다. 당나라가 문단이라고도 부른 육진랍은 라오스 남부와 중부 대부분을 포함하는 메콩강 중류를 중심으로 했으며 중국에 사신을 보냈다. 9세기 초 앙코르 국가가 일어나면서 그 존재는 희미해졌다.",
+    "zh": "据中国史料，真腊在8世纪初分裂为北方的“陆真腊”和近海的“水真腊”。陆真腊又被唐朝称为文单，以包括老挝南部和中部大部分地区的湄公河中游为中心，并曾遣使入唐。随着9世纪初吴哥王朝兴起，陆真腊逐渐消失。",
+    "ja": "中国史料によれば、真臘は8世紀初めに北の「陸真臘」と海寄りの「水真臘」に分裂した。唐が文単とも呼んだ陸真臘は、ラオス南部・中部の大半を含むメコン川中流域を中心とし、中国に使節を送った。9世紀初めにアンコール朝が興ると、その姿は薄れていった。"
+   }
+  },
+  {
+   "from": 806,
+   "to": 1362,
+   "kind": "state",
+   "qid": "Q201705",
+   "polity": "Khmer Empire",
+   "name": {
+    "en": "Khmer Empire (Angkor)",
+    "ko": "크메르 제국(앙코르)",
+    "zh": "高棉帝国（吴哥）",
+    "ja": "クメール王朝（アンコール）"
+   },
+   "summary": {
+    "en": "The Angkorian Khmer Empire controlled southern Laos and extended its influence up the Mekong toward the Vientiane plain. Wat Phou in Champasak became one of its great sanctuaries, linked to Angkor by a royal road, and Khmer inscriptions and temples are found across the south. Khmer power in the region waned from the 13th century as Tai principalities grew stronger.",
+    "ko": "앙코르 시대의 크메르 제국은 라오스 남부를 지배하고 메콩강을 따라 비엔티안 평원 쪽으로 영향력을 넓혔다. 짬빠삭의 왓푸는 왕도로 앙코르와 연결된 주요 성소가 되었고, 남부 곳곳에 크메르 비문과 사원이 남아 있다. 13세기부터 타이계 소국들이 강해지면서 이 지역에서 크메르의 힘은 약해졌다.",
+    "zh": "吴哥时代的高棉帝国控制老挝南部，并沿湄公河向万象平原扩展影响。占巴塞的瓦普神庙成为其重要圣地，并有王道与吴哥相连，南部各地留存着高棉碑铭和神庙。13世纪起，随着泰人诸邦壮大，高棉在该地区的势力逐渐衰退。",
+    "ja": "アンコール朝のクメール王朝はラオス南部を支配し、メコン川沿いにヴィエンチャン平野方面まで影響を及ぼした。チャンパーサックのワット・プーは王道でアンコールと結ばれた重要な聖地となり、南部各地にクメールの碑文や寺院が残る。13世紀以降、タイ系諸国の台頭とともにこの地域でのクメールの力は衰えた。"
+   }
+  },
+  {
+   "from": 1000,
+   "to": 1353,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Tai migrations and the early Lao muang",
+    "ko": "타이족 이주와 초기 라오 므앙",
+    "zh": "泰人迁徙与早期老族勐国",
+    "ja": "タイ系民族の移住と初期ラーオ人のムアン"
+   },
+   "summary": {
+    "en": "Over several centuries Tai-speaking peoples moved south from present-day southern China and northern Vietnam into the valleys of northern Laos, organizing themselves in muang, valley principalities ruled by chiefs. The most important, Muang Sua (later Luang Prabang), became the seat of a Lao dynasty that traced its origin to the legendary ancestor Khun Borom. The Lao gradually absorbed or displaced earlier Mon-Khmer inhabitants of the lowlands.",
+    "ko": "수 세기에 걸쳐 타이어를 쓰는 사람들이 오늘날 중국 남부와 베트남 북부에서 라오스 북부의 골짜기로 남하해, 수장이 다스리는 계곡 소국인 '므앙'을 이루었다. 그 가운데 가장 중요한 므앙 수아(훗날 루앙프라방)는 전설적 조상 쿤보롬에게서 기원을 찾는 라오 왕조의 근거지가 되었다. 라오족은 저지대의 기존 몬-크메르계 주민을 점차 흡수하거나 밀어냈다.",
+    "zh": "数百年间，说泰语的人群从今中国南部和越南北部南下，进入老挝北部的河谷，组成由首领统治的河谷小邦“勐”。其中最重要的勐苏阿（后来的琅勃拉邦）成为一个老族王朝的根据地，该王朝将起源追溯至传说中的祖先坤博隆。老族逐渐同化或取代了低地原有的孟-高棉居民。",
+    "ja": "数世紀をかけて、タイ系言語を話す人々が現在の中国南部やベトナム北部からラオス北部の谷へ南下し、首長が治める盆地国家「ムアン」を形成した。中でも最も重要なムアン・スア（のちのルアンパバーン）は、伝説の祖クン・ボロムに起源を求めるラーオ人王朝の拠点となった。ラーオ人は低地の先住モン・クメール系住民を次第に同化し、あるいは押しのけていった。"
+   }
+  },
+  {
+   "from": 1353,
+   "to": 1707,
+   "kind": "state",
+   "qid": "Q853477",
+   "polity": "Lan Xang",
+   "name": {
+    "en": "Kingdom of Lan Xang",
+    "ko": "란쌍 왕국",
+    "zh": "澜沧王国",
+    "ja": "ラーンサーン王国"
+   },
+   "summary": {
+    "en": "Founded by Fa Ngum in 1353, Lan Xang, the 'Kingdom of a Million Elephants', united the Lao principalities along the Mekong into one of the largest states of mainland Southeast Asia. Theravada Buddhism became the state religion, and the capital moved from Luang Prabang to Vientiane in 1560. The kingdom survived Vietnamese and Burmese invasions and reached its height under Sourigna Vongsa before splitting after his death.",
+    "ko": "1353년 파응움이 세운 란쌍, 곧 '백만 마리 코끼리의 왕국'은 메콩강 유역의 라오 소국들을 통합해 동남아시아 대륙에서 가장 큰 국가 가운데 하나가 되었다. 상좌부 불교가 국교가 되었고, 수도는 1560년 루앙프라방에서 비엔티안으로 옮겨졌다. 왕국은 베트남과 버마의 침입을 견디고 수리냐웡사 왕 때 전성기를 맞았으나 그의 사후 분열했다.",
+    "zh": "法昂于1353年建立的澜沧王国，意为“百万大象之国”，将湄公河沿岸的老族诸邦统一为东南亚大陆最大的国家之一。上座部佛教成为国教，都城于1560年从琅勃拉邦迁往万象。王国挺过了越南和缅甸的入侵，在苏里亚·翁萨时期达到鼎盛，其身后则走向分裂。",
+    "ja": "1353年にファーグムが建てたラーンサーン、すなわち「百万頭の象の王国」は、メコン川沿いのラーオ人諸国を統一し、東南アジア大陸部有数の大国となった。上座部仏教が国教となり、都は1560年にルアンパバーンからヴィエンチャンへ移った。王国はベトナムとビルマの侵攻をしのぎ、スリニャウォンサー王の時代に最盛期を迎えたが、王の死後に分裂した。"
+   }
+  },
+  {
+   "from": 1574,
+   "to": 1603,
+   "kind": "period",
+   "qid": "Q23039102",
+   "polity": "First Toungoo Empire",
+   "name": {
+    "en": "Burmese overlordship (Toungoo)",
+    "ko": "버마 퉁구 왕조의 종주권",
+    "zh": "缅甸东吁王朝宗主统治",
+    "ja": "ビルマ・タウングー朝の宗主権"
+   },
+   "summary": {
+    "en": "After repeated invasions, the Burmese Toungoo king Bayinnaung took Vientiane and in 1574 installed a vassal ruler on the Lan Xang throne. For roughly three decades Lan Xang paid tribute to Pegu, and its succession was shaped by Burmese intervention. Lao rulers regained full independence around the turn of the 17th century as Toungoo power weakened.",
+    "ko": "거듭된 침공 끝에 버마 퉁구 왕조의 바인나웅 왕은 비엔티안을 점령하고 1574년 란쌍 왕위에 봉신 왕을 앉혔다. 약 30년 동안 란쌍은 버고에 조공했고 왕위 계승도 버마의 개입에 좌우되었다. 퉁구 세력이 약해진 17세기 초 무렵 라오 군주들은 완전한 독립을 되찾았다.",
+    "zh": "经过多次入侵，缅甸东吁王朝的莽应龙攻占万象，并于1574年在澜沧王位上扶立附庸君主。约三十年间，澜沧向勃固纳贡，王位继承也受缅甸干预左右。到17世纪初东吁势衰，老族君主重新获得完全独立。",
+    "ja": "度重なる侵攻の末、ビルマ・タウングー朝のバインナウン王はヴィエンチャンを占領し、1574年にラーンサーンの王位に従属王を据えた。約30年間、ラーンサーンはペグーに朝貢し、王位継承もビルマの介入に左右された。タウングー朝の衰退とともに、17世紀初め頃ラーオの王は完全な独立を取り戻した。"
+   }
+  },
+  {
+   "from": 1707,
+   "to": 1893,
+   "kind": "state",
+   "qid": "Q338248",
+   "polity": "Kingdom of Luang Phrabang",
+   "name": {
+    "en": "Kingdom of Luang Prabang",
+    "ko": "루앙프라방 왕국",
+    "zh": "琅勃拉邦王国",
+    "ja": "ルアンパバーン王国"
+   },
+   "summary": {
+    "en": "When Lan Xang broke apart in 1707, a separate kingdom formed around the old royal city of Luang Prabang in the north. Squeezed between Burma, Siam and Vietnam, it became a Siamese vassal in 1778–1779 and later suffered raids by Haw bands from China. Its royal house survived under French protection and became the monarchy of modern Laos.",
+    "ko": "1707년 란쌍이 해체되자 북부의 옛 왕도 루앙프라방을 중심으로 별도의 왕국이 섰다. 버마·시암·베트남 사이에 낀 이 왕국은 1778~1779년 시암의 속국이 되었고, 훗날 중국에서 온 호족 무장 집단의 약탈에 시달렸다. 왕가는 프랑스 보호 아래 살아남아 근대 라오스 왕실이 되었다.",
+    "zh": "1707年澜沧瓦解后，北方以旧王城琅勃拉邦为中心另立王国。它夹在缅甸、暹罗和越南之间，于1778至1779年间沦为暹罗藩属，后又屡遭来自中国的贺人武装劫掠。其王室在法国保护下延续下来，成为近代老挝的王室。",
+    "ja": "1707年にラーンサーンが解体すると、北部の旧王都ルアンパバーンを中心に別の王国が成立した。ビルマ、シャム、ベトナムに挟まれたこの王国は1778〜79年にシャムの属国となり、のちには中国から来たホー族武装集団の略奪に苦しんだ。王家はフランスの保護下で存続し、近代ラオスの王室となった。"
+   }
+  },
+  {
+   "from": 1707,
+   "to": 1828,
+   "kind": "state",
+   "qid": "Q1141632",
+   "polity": "Vientiane",
+   "name": {
+    "en": "Kingdom of Vientiane",
+    "ko": "비엔티안 왕국",
+    "zh": "万象王国",
+    "ja": "ヴィエンチャン王国"
+   },
+   "summary": {
+    "en": "The Kingdom of Vientiane held the central Mekong valley and the former Lan Xang capital after the 1707 split. It was conquered by Siam in 1779, losing the Emerald Buddha to Thonburi, and ruled thereafter as a tributary. King Anouvong's attempt to throw off Siamese control in 1826–1828 ended in defeat and the destruction of Vientiane, and the kingdom was abolished.",
+    "ko": "비엔티안 왕국은 1707년 분열 뒤 메콩강 중류 유역과 옛 란쌍 수도를 차지했다. 1779년 시암에 정복되어 에메랄드 불상을 톤부리로 빼앗긴 뒤 조공국으로 다스려졌다. 1826~1828년 아누웡 왕이 시암의 지배에서 벗어나려 했으나 패배했고, 비엔티안은 파괴되었으며 왕국은 폐지되었다.",
+    "zh": "1707年分裂后，万象王国据有湄公河中游河谷和澜沧旧都。1779年被暹罗征服，玉佛被掠往吞武里，此后作为藩属受治。1826至1828年阿努冯王试图摆脱暹罗控制，结果失败，万象被毁，王国被废除。",
+    "ja": "ヴィエンチャン王国は1707年の分裂後、メコン川中流域と旧ラーンサーンの都を領した。1779年にシャムに征服されてエメラルド仏をトンブリーに奪われ、以後は朝貢国として統治された。1826〜28年にアヌウォン王がシャムの支配から脱しようとしたが敗れ、ヴィエンチャンは破壊されて王国は廃止された。"
+   }
+  },
+  {
+   "from": 1713,
+   "to": 1904,
+   "kind": "state",
+   "qid": null,
+   "polity": "Kingdom of Champasak",
+   "name": {
+    "en": "Kingdom of Champasak",
+    "ko": "짬빠삭 왕국",
+    "zh": "占巴塞王国",
+    "ja": "チャンパーサック王国"
+   },
+   "summary": {
+    "en": "Founded in 1713 by a prince of the Lan Xang royal line, Champasak ruled the southern Mekong valley around Bassac and Wat Phou. It became a Siamese tributary in 1778 and was largely administered from Bangkok in the 19th century. France acquired its lands east of the Mekong in 1893 and the west-bank remainder in 1904, while the princely house kept a ceremonial role.",
+    "ko": "1713년 란쌍 왕족 출신 왕자가 세운 짬빠삭은 바삭과 왓푸 일대의 메콩강 남부 유역을 다스렸다. 1778년 시암의 조공국이 되었고 19세기에는 대체로 방콕의 통제를 받았다. 프랑스는 1893년 메콩강 동쪽 영토를, 1904년 서안의 나머지 땅을 차지했으며 왕가는 의례적 지위를 유지했다.",
+    "zh": "占巴塞王国由澜沧王族的一位王子于1713年建立，统治巴色、瓦普一带的湄公河南段流域。1778年成为暹罗藩属，19世纪大体受曼谷管辖。法国于1893年取得其湄公河以东领土，1904年又取得西岸剩余部分，王族则保留礼仪性地位。",
+    "ja": "1713年にラーンサーン王家の王子が建てたチャンパーサック王国は、バサックやワット・プー周辺のメコン川南部流域を治めた。1778年にシャムの朝貢国となり、19世紀には大部分がバンコクの統制下に置かれた。フランスは1893年にメコン川東岸、1904年に西岸の残りを獲得し、王家は儀礼的な地位を保った。"
+   }
+  },
+  {
+   "from": 1779,
+   "to": 1893,
+   "kind": "period",
+   "qid": "Q1155700",
+   "polity": "Rattanakosin Kingdom",
+   "name": {
+    "en": "Siamese domination",
+    "ko": "시암의 지배",
+    "zh": "暹罗统治时期",
+    "ja": "シャムの支配"
+   },
+   "summary": {
+    "en": "From 1779 the Lao kingdoms were tributaries of Siam, first under Thonburi and then the Chakri kings of Bangkok. After crushing Anouvong's revolt, Siam annexed Vientiane and moved large numbers of Lao to the Khorat plateau, which is why far more ethnic Lao live today in northeastern Thailand than in Laos. Siamese control of the left bank ended with the French advance in 1893.",
+    "ko": "1779년부터 라오 왕국들은 처음엔 톤부리, 뒤에는 방콕 짜끄리 왕조 아래 시암의 조공국이었다. 아누웡의 봉기를 진압한 뒤 시암은 비엔티안을 병합하고 많은 라오인을 코랏 고원으로 옮겼으며, 이 때문에 오늘날 라오족은 라오스보다 태국 동북부에 훨씬 많이 산다. 메콩강 좌안에 대한 시암의 지배는 1893년 프랑스의 진출로 끝났다.",
+    "zh": "1779年起，老族诸王国先后成为吞武里王朝和曼谷却克里王朝治下暹罗的藩属。镇压阿努冯起义后，暹罗吞并万象，并将大批老族人迁往呵叻高原，因此今日居住在泰国东北部的老族人远多于老挝本国。1893年法国势力进入后，暹罗对湄公河左岸的统治告终。",
+    "ja": "1779年以降、ラーオ人の諸王国はトンブリー朝、続いてバンコクのチャクリー朝のもとでシャムの朝貢国となった。アヌウォンの反乱を鎮圧したシャムはヴィエンチャンを併合し、多数のラーオ人をコーラート高原へ移住させたため、今日ではラオス本国よりタイ東北部に住むラーオ人の方がはるかに多い。メコン左岸に対するシャムの支配は1893年のフランス進出で終わった。"
+   }
+  },
+  {
+   "from": 1893,
+   "to": 1953,
+   "kind": "colonial",
+   "qid": "Q185682",
+   "polity": "French Indochina",
+   "name": {
+    "en": "French Laos (French Indochina)",
+    "ko": "프랑스령 라오스(프랑스령 인도차이나)",
+    "zh": "法属老挝（法属印度支那）",
+    "ja": "フランス領ラオス（仏領インドシナ）"
+   },
+   "summary": {
+    "en": "After the Franco-Siamese crisis of 1893, the lands east of the Mekong became part of French Indochina, administered from Vientiane by a French resident superior while Luang Prabang remained a protected kingdom. France invested little: Vietnamese clerks staffed the administration, and Laos remained a thinly populated backwater with few schools or roads. Colonial rule nonetheless fixed most of the borders of modern Laos.",
+    "ko": "1893년 프랑스-시암 위기 이후 메콩강 동쪽 땅은 프랑스령 인도차이나의 일부가 되어, 루앙프라방이 보호 왕국으로 남은 가운데 비엔티안의 프랑스 고등판무관이 통치했다. 프랑스의 투자는 적어 행정 실무는 베트남인 관리가 맡았고, 라오스는 학교와 도로가 거의 없는 인구 희박한 변방으로 남았다. 그럼에도 식민 통치는 근대 라오스 국경의 대부분을 확정했다.",
+    "zh": "1893年法暹危机后，湄公河以东地区并入法属印度支那，由驻万象的法国高级驻扎官管理，琅勃拉邦则保留为受保护王国。法国投入甚少，行政事务多由越南籍职员承担，老挝始终是学校、道路稀少的人口稀疏的边陲。不过，殖民统治确定了现代老挝的大部分边界。",
+    "ja": "1893年の仏シャム危機の後、メコン川東岸は仏領インドシナの一部となり、ルアンパバーンが保護王国として残る一方、ヴィエンチャンのフランス人理事長官が統治した。フランスの投資は乏しく、行政の実務はベトナム人官吏が担い、ラオスは学校や道路の少ない人口希薄な辺境にとどまった。それでも植民地支配は現代ラオスの国境の大半を確定させた。"
+   }
+  },
+  {
+   "from": 1945,
+   "to": 1946,
+   "kind": "period",
+   "qid": "Q188712",
+   "polity": "Empire of Japan",
+   "name": {
+    "en": "Japanese occupation and Lao Issara",
+    "ko": "일본 점령과 라오 이싸라",
+    "zh": "日本占领与自由老挝",
+    "ja": "日本占領とラーオ・イサラ"
+   },
+   "summary": {
+    "en": "In March 1945 Japan overthrew the French administration across Indochina, and King Sisavang Vong declared independence under Japanese pressure. After Japan's surrender, Prince Phetsarath and the nationalist Lao Issara movement proclaimed an independent government in Vientiane in October 1945. French forces returned in 1946 and the Lao Issara leaders fled into exile in Thailand.",
+    "ko": "1945년 3월 일본은 인도차이나 전역의 프랑스 행정을 무너뜨렸고, 시사왕웡 왕은 일본의 압력 속에 독립을 선언했다. 일본 항복 뒤 펫사랏 왕자와 민족주의 운동 라오 이싸라는 1945년 10월 비엔티안에서 독립 정부를 선포했다. 1946년 프랑스군이 돌아오자 라오 이싸라 지도자들은 태국으로 망명했다.",
+    "zh": "1945年3月，日本推翻了整个印度支那的法国政权，西萨旺·冯国王在日方压力下宣布独立。日本投降后，佩差拉亲王与民族主义运动“自由老挝”于1945年10月在万象宣布成立独立政府。1946年法军卷土重来，自由老挝领导人流亡泰国。",
+    "ja": "1945年3月、日本はインドシナ全域でフランスの行政を打倒し、シーサワンウォン王は日本の圧力のもとで独立を宣言した。日本の降伏後、ペッサラート殿下と民族主義運動ラーオ・イサラは1945年10月にヴィエンチャンで独立政府を宣言した。1946年にフランス軍が戻ると、ラーオ・イサラの指導者たちはタイへ亡命した。"
+   }
+  },
+  {
+   "from": 1947,
+   "to": 1975,
+   "kind": "state",
+   "qid": "Q870055",
+   "polity": "Kingdom of Laos",
+   "name": {
+    "en": "Kingdom of Laos",
+    "ko": "라오스 왕국",
+    "zh": "老挝王国",
+    "ja": "ラオス王国"
+   },
+   "summary": {
+    "en": "The Kingdom of Laos was established as a constitutional monarchy under the Luang Prabang dynasty in 1947, became an associated state of the French Union in 1949 and fully independent in 1953. Its politics were dominated by rivalry among royalist, neutralist and communist factions, each backed by outside powers. Drawn into the Vietnam War, the kingdom fell in 1975 when the Pathet Lao took power.",
+    "ko": "라오스 왕국은 1947년 루앙프라방 왕조 아래 입헌군주국으로 성립해 1949년 프랑스 연합의 협동국이 되었고 1953년 완전히 독립했다. 정치는 왕당파·중립파·공산주의 세력의 경쟁이 지배했으며 각 세력은 외부 강대국의 후원을 받았다. 베트남 전쟁에 휘말린 왕국은 1975년 파텟라오가 집권하면서 무너졌다.",
+    "zh": "老挝王国于1947年在琅勃拉邦王朝下成立为君主立宪制国家，1949年成为法兰西联邦的联系邦，1953年完全独立。其政治由王党、中立派和共产党势力之间的角逐主导，各方均有外国支持。王国被卷入越南战争，1975年巴特寮掌权后覆灭。",
+    "ja": "ラオス王国は1947年にルアンパバーン王家のもとで立憲君主国として成立し、1949年にフランス連合の協同国、1953年に完全独立を果たした。政治は王党派・中立派・共産派の対立に支配され、それぞれが外国の支援を受けた。ベトナム戦争に巻き込まれた王国は、1975年にパテート・ラーオが政権を握ると崩壊した。"
+   }
+  },
+  {
+   "from": 1959,
+   "to": 1975,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Laotian Civil War and the Secret War",
+    "ko": "라오스 내전과 '비밀 전쟁'",
+    "zh": "老挝内战与“秘密战争”",
+    "ja": "ラオス内戦と「秘密戦争」"
+   },
+   "summary": {
+    "en": "From 1959 Laos was torn by a civil war between the Royal Lao Government and the communist Pathet Lao, backed respectively by the United States and Thailand and by North Vietnam. The Ho Chi Minh Trail ran through eastern Laos, and a CIA-supported Hmong army under Vang Pao fought in the north. Intensive US bombing devastated large areas and left a lasting legacy of unexploded ordnance.",
+    "ko": "1959년부터 라오스는 미국·태국의 지원을 받은 왕국 정부와 북베트남의 지원을 받은 공산주의 세력 파텟라오 사이의 내전에 휩싸였다. 호찌민 루트가 라오스 동부를 지났고, 북부에서는 CIA가 지원한 왕파오 휘하의 몽족 군대가 싸웠다. 미국의 집중 폭격은 넓은 지역을 황폐화했고 불발탄이라는 오래 남는 유산을 남겼다.",
+    "zh": "自1959年起，老挝陷入王国政府与共产主义的巴特寮之间的内战，前者得到美国和泰国支持，后者得到北越支持。胡志明小道穿越老挝东部，北部则有中央情报局支持的王宝所率苗族武装作战。美国的密集轰炸使大片地区满目疮痍，并留下了长期遗患的未爆弹药。",
+    "ja": "1959年からラオスは、米国とタイが支える王国政府と、北ベトナムが支える共産主義勢力パテート・ラーオとの内戦に引き裂かれた。ホーチミン・ルートがラオス東部を通り、北部ではCIAが支援するワン・パオ率いるモン族部隊が戦った。米国の集中爆撃は広い地域を荒廃させ、不発弾という長く続く負の遺産を残した。"
+   }
+  },
+  {
+   "from": 1975,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q819",
+   "polity": "Communist Laos",
+   "name": {
+    "en": "Lao People's Democratic Republic",
+    "ko": "라오 인민민주공화국",
+    "zh": "老挝人民民主共和国",
+    "ja": "ラオス人民民主共和国"
+   },
+   "summary": {
+    "en": "Since December 1975 Laos has been a one-party socialist state led by the Lao People's Revolutionary Party, closely allied at first with Vietnam and the Soviet bloc. Market reforms from 1986, ASEAN membership in 1997 and large hydropower and Chinese-backed infrastructure projects have opened the landlocked country. Rapid growth has been accompanied by heavy external debt and continuing restrictions on political freedoms.",
+    "ko": "1975년 12월 이후 라오스는 라오인민혁명당이 이끄는 일당 사회주의 국가로, 초기에는 베트남 및 소련 진영과 긴밀히 동맹했다. 1986년의 시장 개혁, 1997년 아세안 가입, 대규모 수력발전과 중국이 지원한 인프라 사업은 내륙국 라오스를 개방시켰다. 빠른 성장과 함께 막대한 대외 부채와 정치적 자유에 대한 제약이 이어지고 있다.",
+    "zh": "自1975年12月起，老挝是由老挝人民革命党领导的一党制社会主义国家，初期与越南及苏联集团结成紧密同盟。1986年开始的市场改革、1997年加入东盟，以及大型水电和中国支持的基础设施项目，使这个内陆国家走向开放。高速增长的同时，也伴随着沉重的外债和对政治自由的持续限制。",
+    "ja": "1975年12月以来、ラオスはラオス人民革命党が率いる一党制の社会主義国家であり、当初はベトナムやソ連圏と緊密に結びついた。1986年からの市場改革、1997年のASEAN加盟、大規模な水力発電や中国が支援するインフラ事業によって、この内陸国は開放へ向かった。急速な成長の一方で、多額の対外債務と政治的自由の制限が続いている。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -2000,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Rice farming spreads along the Mekong",
+    "ko": "메콩강을 따라 퍼진 벼농사",
+    "zh": "稻作沿湄公河传播",
+    "ja": "メコン川沿いに広がる稲作"
+   },
+   "description": {
+    "en": "By around 2000 BC (dates remain approximate), Neolithic farming communities with polished stone tools, pottery and domesticated rice were spreading through the river valleys of mainland Southeast Asia, including the middle Mekong. They gradually replaced or mixed with older forager groups who had lived in Laos's caves and rock shelters. These villages laid the foundations for later Bronze Age societies.",
+    "ko": "기원전 2000년경(연대는 대략적이다) 간석기와 토기, 재배 벼를 가진 신석기 농경 공동체가 메콩강 중류를 포함한 동남아시아 대륙의 강 유역으로 퍼지고 있었다. 이들은 라오스의 동굴과 바위그늘에 살던 오래된 수렵채집민을 점차 대체하거나 그들과 섞였다. 이 마을들이 뒷날 청동기 사회의 토대가 되었다.",
+    "zh": "约公元前2000年（年代仅为大致估计），拥有磨制石器、陶器和栽培稻的新石器时代农耕社群正沿包括湄公河中游在内的东南亚大陆河谷扩散。他们逐渐取代或融合了此前居住在老挝洞穴和岩棚中的采集狩猎群体。这些村落为后来的青铜时代社会奠定了基础。",
+    "ja": "前2000年頃（年代はおおよそ）、磨製石器・土器・栽培稲をもつ新石器時代の農耕共同体が、メコン川中流域を含む東南アジア大陸部の河谷に広がりつつあった。彼らはラオスの洞窟や岩陰に住んでいた古い狩猟採集民を徐々に置き換え、あるいは混じり合った。これらの村落が後の青銅器時代社会の基盤となった。"
+   }
+  },
+  {
+   "year": -1000,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Bronze and copper in the middle Mekong",
+    "ko": "메콩강 중류의 청동과 구리",
+    "zh": "湄公河中游的青铜与铜矿",
+    "ja": "メコン川中流域の青銅と銅"
+   },
+   "description": {
+    "en": "By about 1000 BC, bronze casting was practised in the middle Mekong basin, as shown by finds at Ban Chiang across the river in Thailand. In the Vilabouly area of Savannakhet, archaeologists have documented ancient copper-mining shafts and smelting debris, indicating that the region exploited its ore deposits in prehistory. Metal objects became markers of status and were exchanged over long distances.",
+    "ko": "기원전 1000년경 메콩강 중류 유역에서는 청동 주조가 이루어졌으며, 강 건너 태국의 반치앙 유적 출토품이 이를 보여 준다. 사완나켓주 위라부리 일대에서는 고대 구리 채굴갱과 제련 찌꺼기가 확인되어, 이 지역이 선사 시대부터 광석을 개발했음을 알려 준다. 금속 기물은 신분의 상징이 되었고 먼 거리를 오가며 교환되었다.",
+    "zh": "约公元前1000年，湄公河中游流域已能铸造青铜，河对岸泰国班清遗址的出土物即为明证。考古学家在沙湾拿吉省维拉布里一带发现了古代铜矿井和冶炼遗渣，表明该地区在史前时期就已开采矿藏。金属器物成为身份的象征，并在远距离间交换。",
+    "ja": "前1000年頃、メコン川中流域では青銅の鋳造が行われており、対岸タイのバンチエン遺跡の出土品がそれを示す。サワンナケート県ヴィラブリー周辺では古代の銅採掘坑や製錬滓が確認され、この地域が先史時代から鉱石を採掘していたことがわかる。金属器は身分の象徴となり、遠距離で交換された。"
+   }
+  },
+  {
+   "year": -500,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Plain of Jars megalithic culture",
+    "ko": "항아리 평원의 거석 문화",
+    "zh": "石缸平原巨石文化",
+    "ja": "ジャール平原の巨石文化"
+   },
+   "description": {
+    "en": "From around the mid-first millennium BC, an Iron Age culture erected thousands of massive stone jars, some weighing several tonnes, across the Xieng Khouang plateau, most likely for funerary rites. Excavations have revealed burials and grave goods around the jars, while local legend attributes them to giants or to the brewing of rice wine. The Megalithic Jar Sites became a UNESCO World Heritage site in 2019.",
+    "ko": "기원전 1천년기 중엽 무렵부터 철기 시대 문화가 시앙쿠앙 고원 곳곳에 무게가 수 톤에 이르는 거대한 돌항아리 수천 개를 세웠는데, 장례 의례를 위한 것으로 보인다. 발굴로 항아리 주변의 무덤과 껴묻거리가 드러났으며, 현지 전설은 이를 거인이나 쌀술 빚기와 연결 짓는다. 거석 항아리 유적은 2019년 유네스코 세계유산이 되었다.",
+    "zh": "约自公元前一千纪中叶起，一个铁器时代文化在川圹高原各地竖立了数千个巨大石缸，有的重达数吨，很可能用于丧葬仪式。考古发掘在石缸周围发现了墓葬和随葬品，而当地传说则将其归于巨人或酿米酒之用。巨石石缸遗址于2019年列入联合国教科文组织世界遗产。",
+    "ja": "前1千年紀半ば頃から、鉄器時代の文化がシエンクワン高原一帯に、重さ数トンに及ぶものもある巨大な石壺を数千個据え置いた。おそらく葬送儀礼のためである。発掘で壺の周囲から墓や副葬品が見つかっている一方、地元の伝説は巨人や米酒造りと結びつける。巨石壺遺跡群は2019年にユネスコ世界遺産となった。"
+   }
+  },
+  {
+   "year": 450,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Devanika inscription near Wat Phou",
+    "ko": "왓푸 인근의 데바니카 비문",
+    "zh": "瓦普附近的提婆尼迦碑铭",
+    "ja": "ワット・プー近くのデーヴァーニカ碑文"
+   },
+   "description": {
+    "en": "A Sanskrit stele dated on palaeographic grounds to around the 5th century, found near Wat Phou in Champasak, records a king named Devanika who consecrated a sacred site there. It is among the oldest inscriptions discovered in Laos and shows that Indian religious ideas and royal titles had reached the middle Mekong. The mountain above the site, with its natural linga-shaped peak, remained sacred for centuries.",
+    "ko": "짬빠삭의 왓푸 근처에서 발견된, 서체로 보아 5세기 무렵으로 추정되는 산스크리트 비석에는 데바니카라는 왕이 그곳에 성소를 봉헌했다고 적혀 있다. 라오스에서 발견된 가장 오래된 비문 가운데 하나로, 인도의 종교 관념과 왕호가 메콩강 중류에 이르렀음을 보여 준다. 링가 모양의 자연 봉우리를 가진 유적 위의 산은 수 세기 동안 신성시되었다.",
+    "zh": "在占巴塞瓦普附近发现的一块梵文石碑，据字体判断约属5世纪，记载了一位名叫提婆尼迦的国王在此奉献圣地。它是老挝发现的最古老碑铭之一，表明印度的宗教观念和王号已传至湄公河中游。遗址上方那座天然呈林伽形顶峰的山，此后数百年一直被视为圣山。",
+    "ja": "チャンパーサックのワット・プー近くで見つかったサンスクリット碑文は、字体から5世紀頃のものとされ、デーヴァーニカという王がこの地に聖地を奉献したことを記す。ラオスで見つかった最古級の碑文であり、インドの宗教観念や王号がメコン川中流に達していたことを示す。リンガ形の自然の峰をもつ背後の山は、何世紀にもわたり聖なる山とされた。"
+   }
+  },
+  {
+   "year": 550,
+   "qid": "Q1057118",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Rise of Chenla",
+    "ko": "진랍의 흥기",
+    "zh": "真腊兴起",
+    "ja": "真臘の興起"
+   },
+   "description": {
+    "en": "In the mid-6th century the Khmer kingdom known to the Chinese as Chenla rose in the region of Champasak and the sacred mountain above Wat Phou. Its kings Bhavavarman and Mahendravarman expanded southward, and by the early 7th century Chenla had absorbed Funan. Southern Laos thus lay at the heart of the early Khmer state.",
+    "ko": "6세기 중엽 중국인이 진랍이라 부른 크메르 왕국이 짬빠삭과 왓푸 위 성산 일대에서 일어났다. 바바바르만과 마헨드라바르만 등 왕들이 남쪽으로 세력을 넓혔고, 7세기 초 진랍은 푸난을 흡수했다. 이로써 라오스 남부는 초기 크메르 국가의 중심부에 놓였다.",
+    "zh": "6世纪中叶，被中国人称为真腊的高棉王国在占巴塞和瓦普上方的圣山一带兴起。其国王拔婆跋摩、摩诃因陀罗跋摩等向南扩张，到7世纪初真腊已兼并扶南。老挝南部由此处于早期高棉国家的核心地带。",
+    "ja": "6世紀半ば、中国人が真臘と呼んだクメール人の王国がチャンパーサックとワット・プー背後の聖山の周辺で興った。バヴァヴァルマンやマヘーンドラヴァルマンらの王は南方へ勢力を広げ、7世紀初めまでに真臘は扶南を併合した。こうしてラオス南部は初期クメール国家の中心に位置した。"
+   }
+  },
+  {
+   "year": 636,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "The Book of Sui describes Chenla",
+    "ko": "《수서》에 기록된 진랍",
+    "zh": "《隋书》记载真腊",
+    "ja": "『隋書』が記す真臘"
+   },
+   "description": {
+    "en": "The Chinese Book of Sui, completed in 636, describes Chenla's capital as lying near a mountain called Lingjiabopo with a temple on its summit guarded by soldiers, where the king offered sacrifices. Scholars generally identify this with the Lingaparvata mountain above Wat Phou. The account is one of the few written windows onto the region in the 7th century.",
+    "ko": "636년 완성된 중국의 《수서》는 진랍의 도성 가까이에 '능가발파'라는 산이 있고 그 정상의 사당을 병사들이 지키며 왕이 제사를 올린다고 적었다. 학자들은 대체로 이를 왓푸 위의 링가파르바타산으로 본다. 이 기록은 7세기 이 지역을 들여다볼 수 있는 몇 안 되는 문헌 자료이다.",
+    "zh": "成书于636年的《隋书》记载，真腊都城附近有山名陵伽钵婆，山顶有神祠，常有兵士守卫，国王在此祭祀。学者一般认为此山即瓦普上方的林伽波哩婆多山。这是了解7世纪该地区为数不多的文字资料之一。",
+    "ja": "636年に完成した中国の『隋書』は、真臘の都の近くに陵伽鉢婆という山があり、山頂の神祠を兵士が守り、王が祭祀を行うと記す。研究者は一般にこれをワット・プー背後のリンガパルヴァタ山とみなす。7世紀のこの地域を知る数少ない文献史料の一つである。"
+   }
+  },
+  {
+   "year": 717,
+   "qid": "Q1057118",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Chenla divides into Land and Water Chenla",
+    "ko": "진랍의 육진랍·수진랍 분열",
+    "zh": "真腊分裂为陆真腊与水真腊",
+    "ja": "真臘、陸真臘と水真臘に分裂"
+   },
+   "description": {
+    "en": "Chinese histories report that in the early 8th century (c. 706–717) Chenla split into a northern 'Land Chenla' and a southern 'Water Chenla'. Land Chenla, also called Wendan, lay along the middle Mekong including much of southern and central Laos and sent embassies to the Tang court. The division lasted until Jayavarman II reunified Khmer lands in the early 9th century.",
+    "ko": "중국 사서는 8세기 초(약 706~717년) 진랍이 북쪽의 '육진랍'과 남쪽의 '수진랍'으로 갈라졌다고 전한다. 문단이라고도 불린 육진랍은 라오스 남부와 중부 대부분을 포함하는 메콩강 중류에 자리 잡고 당 조정에 사신을 보냈다. 이 분열은 9세기 초 자야바르만 2세가 크메르 땅을 재통일할 때까지 이어졌다.",
+    "zh": "中国史书记载，8世纪初（约706至717年）真腊分裂为北方的“陆真腊”和南方的“水真腊”。陆真腊又称文单，位于包括老挝南部和中部大部分地区的湄公河中游，曾遣使入唐。这一分裂一直持续到9世纪初阇耶跋摩二世重新统一高棉。",
+    "ja": "中国の史書によれば、8世紀初め（706〜717年頃）真臘は北の「陸真臘」と南の「水真臘」に分裂した。文単とも呼ばれた陸真臘は、ラオス南部・中部の大半を含むメコン川中流に位置し、唐朝に使節を送った。分裂は9世紀初めにジャヤーヴァルマン2世がクメールの地を再統一するまで続いた。"
+   }
+  },
+  {
+   "year": 800,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Mon Buddhism in the Vientiane plain",
+    "ko": "비엔티안 평원의 몬족 불교",
+    "zh": "万象平原的孟族佛教",
+    "ja": "ヴィエンチャン平野のモン人仏教"
+   },
+   "description": {
+    "en": "Around the 8th–9th centuries, Mon communities associated with the Dvaravati culture were active on both banks of the Mekong around present-day Vientiane. Carved sema boundary stones, Buddha images and moated settlements attest to Theravada Buddhist practice. This early Buddhist presence predated the Lao and later merged into Lao religious culture.",
+    "ko": "8~9세기 무렵 드바라바티 문화와 관련된 몬족 공동체가 오늘날 비엔티안 주변 메콩강 양안에서 활동했다. 조각된 세마 결계석과 불상, 해자 두른 취락은 상좌부 불교 신앙을 증언한다. 이 초기 불교는 라오족보다 앞섰으며 훗날 라오 종교 문화에 녹아들었다.",
+    "zh": "约8至9世纪，与堕罗钵底文化相关的孟族社群活跃于今万象周围的湄公河两岸。雕刻的色玛结界石、佛像和环壕聚落证明了上座部佛教的流行。这一早期佛教存在早于老族，后来融入了老族宗教文化。",
+    "ja": "8〜9世紀頃、ドヴァーラヴァティー文化と関わるモン人の共同体が現在のヴィエンチャン周辺のメコン川両岸で活動していた。彫刻されたセーマー石、仏像、環濠集落は上座部仏教の信仰を物語る。この初期仏教はラーオ人の到来に先立ち、のちにラーオの宗教文化に溶け込んだ。"
+   }
+  },
+  {
+   "year": 1100,
+   "qid": "Q201705",
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Khmer rebuilding of Wat Phou",
+    "ko": "크메르의 왓푸 재건",
+    "zh": "高棉重建瓦普神庙",
+    "ja": "クメールによるワット・プーの再建"
+   },
+   "description": {
+    "en": "Under the Angkorian kings, the Shaivite sanctuary of Wat Phou in Champasak was rebuilt in stone, with most of the surviving structures dating from the 11th–12th centuries. Set against the mountain and aligned with a spring believed sacred, the temple was linked to Angkor by a long royal road. Wat Phou and its cultural landscape were inscribed as a UNESCO World Heritage site in 2001.",
+    "ko": "앙코르 시대 왕들 아래 짬빠삭의 시바 성소 왓푸는 석조로 재건되었으며, 현존하는 건물 대부분은 11~12세기의 것이다. 산을 등지고 신성한 샘과 축을 맞춘 이 사원은 긴 왕도로 앙코르와 이어졌다. 왓푸와 그 문화 경관은 2001년 유네스코 세계유산에 등재되었다.",
+    "zh": "在吴哥诸王治下，占巴塞的湿婆教圣地瓦普以石材重建，现存建筑大多建于11至12世纪。神庙背倚圣山，与被视为神圣的泉眼对齐，并有长长的王道通往吴哥。瓦普及其文化景观于2001年列入联合国教科文组织世界遗产。",
+    "ja": "アンコール朝の王たちのもとで、チャンパーサックのシヴァ派聖地ワット・プーは石造で再建され、現存する建物の多くは11〜12世紀のものである。山を背にし聖なる泉と軸線をそろえた寺院は、長い王道でアンコールと結ばれていた。ワット・プーと文化的景観は2001年にユネスコ世界遺産に登録された。"
+   }
+  },
+  {
+   "year": 1190,
+   "qid": "Q201705",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Jayavarman VII's hospital stele at Sai Fong",
+    "ko": "사이퐁의 자야바르만 7세 병원 비문",
+    "zh": "赛丰的阇耶跋摩七世医院碑",
+    "ja": "サイフォンのジャヤーヴァルマン7世施療院碑"
+   },
+   "description": {
+    "en": "In the late 12th century the Khmer king Jayavarman VII founded a network of hospitals across his empire, each marked by a standard Sanskrit inscription. One such stele was found at Sai Fong near Vientiane, the northernmost known example. It shows that Angkorian administration or influence reached the Vientiane area at its height.",
+    "ko": "12세기 말 크메르의 자야바르만 7세는 제국 곳곳에 병원망을 세우고 각 병원에 같은 형식의 산스크리트 비문을 두었다. 그 가운데 하나가 비엔티안 근처 사이퐁에서 발견되었는데, 알려진 가장 북쪽의 사례이다. 이는 앙코르 전성기의 행정 또는 영향력이 비엔티안 일대까지 미쳤음을 보여 준다.",
+    "zh": "12世纪末，高棉国王阇耶跋摩七世在帝国各地建立医院网络，每所医院都立有格式统一的梵文碑。其中一块发现于万象附近的赛丰，是已知最北的一例。这表明吴哥鼎盛时期的行政或影响力曾到达万象一带。",
+    "ja": "12世紀末、クメールのジャヤーヴァルマン7世は帝国各地に施療院網を設け、それぞれに定型のサンスクリット碑文を置いた。その一つがヴィエンチャン近郊のサイフォンで見つかっており、知られる限り最北の例である。アンコール最盛期の行政または影響力がヴィエンチャン周辺に及んでいたことを示す。"
+   }
+  },
+  {
+   "year": 1250,
+   "qid": null,
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Tai-Lao principalities take shape",
+    "ko": "타이-라오 소국들의 형성",
+    "zh": "泰老诸勐的形成",
+    "ja": "タイ・ラーオ系諸ムアンの形成"
+   },
+   "description": {
+    "en": "By the 13th century, Tai-speaking Lao groups who had migrated from the north were well established in the valleys of northern Laos, organized in muang ruled by chiefs. Muang Sua, at the confluence of the Mekong and Nam Khan (later Luang Prabang), emerged as the leading centre. Lao chronicles trace its rulers to Khun Borom, a legendary ancestor of the Tai peoples; such accounts are traditional rather than historical records.",
+    "ko": "13세기에 이르러 북쪽에서 이주해 온 타이어계 라오 집단이 라오스 북부의 골짜기에 자리 잡고 수장이 다스리는 므앙을 이루었다. 메콩강과 남칸강이 만나는 므앙 수아(훗날 루앙프라방)가 그 중심으로 떠올랐다. 라오 연대기는 그 지배자들의 계보를 타이 민족의 전설적 조상 쿤보롬에게서 찾지만, 이는 역사 기록이라기보다 전승이다.",
+    "zh": "到13世纪，从北方迁来的说泰语的老族群体已在老挝北部河谷扎根，组成由首领统治的勐。位于湄公河与南康河交汇处的勐苏阿（后来的琅勃拉邦）成为主要中心。老族编年史将其统治者的世系追溯至泰人传说中的祖先坤博隆，但这类记述属于传说而非史实记录。",
+    "ja": "13世紀までに、北方から移住したタイ系のラーオ人集団はラオス北部の谷に定着し、首長が治めるムアンを形成していた。メコン川とカーン川の合流点にあるムアン・スア（のちのルアンパバーン）が中心として台頭した。ラーオの年代記はその支配者の系譜をタイ系諸民族の伝説的祖先クン・ボロムにさかのぼらせるが、これは史実というより伝承である。"
+   }
+  },
+  {
+   "year": 1353,
+   "qid": "Q853477",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Fa Ngum founds Lan Xang",
+    "ko": "파응움, 란쌍 왕국 건국",
+    "zh": "法昂建立澜沧王国",
+    "ja": "ファーグム、ラーンサーン王国を建国"
+   },
+   "description": {
+    "en": "Prince Fa Ngum, raised at the Khmer court of Angkor, returned up the Mekong with Khmer support and united the Lao principalities into the kingdom of Lan Xang, the 'Land of a Million Elephants', with its capital at Muang Sua. Tradition credits him with introducing Theravada Buddhism as the state religion. Lan Xang is regarded as the origin of the Lao nation.",
+    "ko": "앙코르의 크메르 궁정에서 자란 파응움 왕자는 크메르의 지원을 받아 메콩강을 거슬러 올라가 라오 소국들을 통합하고, 므앙 수아를 수도로 하는 '백만 마리 코끼리의 땅' 란쌍 왕국을 세웠다. 전승은 그가 상좌부 불교를 국교로 들여왔다고 전한다. 란쌍은 라오 민족의 기원으로 여겨진다.",
+    "zh": "在吴哥高棉宫廷长大的法昂王子在高棉支持下溯湄公河而上，统一老族诸邦，建立以勐苏阿为都城的澜沧王国，意为“百万大象之地”。传统说法认为是他将上座部佛教立为国教。澜沧被视为老挝民族的起源。",
+    "ja": "アンコールのクメール宮廷で育ったファーグム王子は、クメールの支援を得てメコン川をさかのぼり、ラーオ人の諸国を統一して、ムアン・スアを都とする「百万頭の象の国」ラーンサーン王国を建てた。伝承では、彼が上座部仏教を国教として導入したとされる。ラーンサーンはラーオ民族の起源とみなされている。"
+   }
+  },
+  {
+   "year": 1373,
+   "qid": "Q853477",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Fa Ngum deposed; Samsenthai's reign",
+    "ko": "파응움 폐위와 삼센타이의 치세",
+    "zh": "法昂被废与桑森泰的统治",
+    "ja": "ファーグムの廃位とサームセーンタイの治世"
+   },
+   "description": {
+    "en": "Around 1373 (some sources give 1371), the nobles of Lan Xang deposed Fa Ngum, who died in exile in Muang Nan, and enthroned his son Oun Heuan. Known as Samsenthai, 'three hundred thousand Tai', after a census of adult men that tradition attributes to him, he ruled for over four decades. His reign is remembered for administrative organization, temple building and peace.",
+    "ko": "1373년경(1371년이라는 설도 있다) 란쌍의 귀족들은 파응움을 폐위했고, 그는 므앙 난에서 망명 중 죽었다. 귀족들은 그의 아들 운흐안을 왕으로 세웠는데, 전승에 따르면 성인 남자 인구조사 결과에서 따온 '삼센타이(30만 타이)'라는 이름으로 불렸다. 그는 40년 넘게 다스리며 행정 정비와 사원 건립, 평화로 기억된다.",
+    "zh": "约1373年（一说1371年），澜沧贵族废黜法昂，后者流亡勐南并死于当地，其子温欧安被拥立为王。相传他曾清点成年男子人口，因而得名桑森泰，意为“三十万泰人”。他在位四十余年，以整顿行政、兴建寺庙和社会安定著称。",
+    "ja": "1373年頃（1371年とする説もある）、ラーンサーンの貴族たちはファーグムを廃位し、彼は亡命先のムアン・ナーンで没した。王位には息子ウン・フアンが就いた。伝承によれば成人男子の人口調査に由来して「サームセーンタイ（30万のタイ人）」と呼ばれ、40年以上の治世は行政の整備、寺院建立、平和で知られる。"
+   }
+  },
+  {
+   "year": 1428,
+   "qid": "Q853477",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Succession turmoil after Lan Kham Deng",
+    "ko": "란캄댕 사후의 왕위 계승 혼란",
+    "zh": "兰坎登死后的王位动乱",
+    "ja": "ラーンカムデーン死後の王位継承の混乱"
+   },
+   "description": {
+    "en": "After the death of King Lan Kham Deng around 1428, Lan Xang entered roughly a decade of instability in which a rapid series of kings were enthroned and killed. Lao chronicles attribute this to the intrigues of a powerful court woman, Maha Thevi; the details are known only from these traditional sources. Stability returned with the accession of Chakkaphat Phaen Phaeo in the 1440s.",
+    "ko": "1428년경 란캄댕 왕이 죽은 뒤 란쌍은 약 10년간 왕들이 잇달아 즉위하고 살해되는 불안정기에 빠졌다. 라오 연대기는 이를 권세 있던 궁정 여인 '마하테비'의 음모 탓으로 돌리지만, 상세한 내용은 이러한 전승 자료로만 전해진다. 1440년대 짝까팟 팬패우의 즉위로 안정이 회복되었다.",
+    "zh": "约1428年兰坎登王去世后，澜沧陷入约十年的动荡，多位国王相继被立又遇害。老族编年史将此归咎于一位权势显赫的宫廷女性“摩诃提毗”的阴谋，但具体细节仅见于这些传统史料。1440年代查卡帕·潘佩即位后，局势恢复稳定。",
+    "ja": "1428年頃にラーンカムデーン王が没すると、ラーンサーンは約10年にわたり王が次々と擁立されては殺される不安定期に入った。ラーオの年代記はこれを権勢ある宮廷の女性「マハー・テーウィー」の陰謀に帰しているが、詳細はこうした伝承史料でしか知られない。1440年代にチャッカパット・ペーンペオが即位して安定が戻った。"
+   }
+  },
+  {
+   "year": 1479,
+   "qid": "Q853477",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Đại Việt invasion of Lan Xang",
+    "ko": "대월의 란쌍 침공",
+    "zh": "大越入侵澜沧",
+    "ja": "大越のラーンサーン侵攻"
+   },
+   "description": {
+    "en": "In 1479 the Vietnamese emperor Lê Thánh Tông launched a large invasion of Lan Xang following a dispute in the borderlands, and his armies captured and sacked the capital Muang Sua. The Lao recovered, harassed the invaders and drove them out, and the kingdom was rebuilt under Chakkaphat's successors. The war marked a long-running pattern of Vietnamese pressure from the east.",
+    "ko": "1479년 베트남 황제 레타인똥은 국경 지대의 분쟁을 계기로 란쌍을 대규모로 침공했고, 그의 군대는 수도 므앙 수아를 점령해 약탈했다. 라오인은 반격해 침략군을 괴롭혀 몰아냈고 왕국은 짝까팟의 후계자들 아래 재건되었다. 이 전쟁은 동쪽에서 오는 베트남의 압력이라는 오랜 흐름을 보여 준다.",
+    "zh": "1479年，越南黎圣宗因边境争端大举入侵澜沧，其军队攻陷并洗劫都城勐苏阿。老族人随后反击，袭扰并驱逐了入侵者，王国在查卡帕的继承者治下得以重建。这场战争体现了越南从东方施压的长期态势。",
+    "ja": "1479年、ベトナムの黎聖宗は国境地帯の紛争を契機にラーンサーンへ大規模に侵攻し、その軍は都ムアン・スアを占領・略奪した。ラーオ人は反撃して侵攻軍を悩ませ撃退し、王国はチャッカパットの後継者のもとで再建された。この戦争は東からのベトナムの圧力という長い流れを示している。"
+   }
+  },
+  {
+   "year": 1513,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "King Visoun enshrines the Phra Bang",
+    "ko": "위쑨 왕의 파방 불상 봉안",
+    "zh": "维逊王供奉勃拉邦佛像",
+    "ja": "ウィスン王、パバーン仏を安置"
+   },
+   "description": {
+    "en": "King Visoun (r. 1500–1520) built Wat Visoun in the capital, completed around 1513, and installed there the Phra Bang, a revered standing Buddha image that tradition says came from the Khmer court. The image became the palladium of the kingdom, and the city was later named Luang Prabang after it. Visoun's reign also saw the compilation of Lao chronicles.",
+    "ko": "위쑨 왕(재위 1500~1520)은 수도에 왓위쑨을 세워 1513년 무렵 완공하고, 전승상 크메르 궁정에서 왔다는 존귀한 입불상 파방을 그곳에 모셨다. 이 불상은 왕국의 수호상이 되었고, 도시는 훗날 이 불상의 이름을 따 루앙프라방으로 불렸다. 위쑨 치세에는 라오 연대기도 편찬되었다.",
+    "zh": "维逊王（1500—1520年在位）在都城兴建维逊寺，约于1513年落成，并在寺中供奉勃拉邦佛像。这尊备受尊崇的立佛相传来自高棉宫廷，成为王国的护国之宝，城市后来也因此得名琅勃拉邦。维逊在位期间还编纂了老族编年史。",
+    "ja": "ウィスン王（在位1500〜1520）は都にワット・ウィスンを建て1513年頃に完成させ、伝承ではクメール宮廷から来たとされる尊い立像仏パバーンを安置した。この仏像は王国の守護仏となり、都はのちにその名にちなんでルアンパバーンと呼ばれた。ウィスンの治世にはラーオの年代記も編纂された。"
+   }
+  },
+  {
+   "year": 1527,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Photisarath's edict against spirit cults",
+    "ko": "포티사랏 왕의 정령 숭배 금지령",
+    "zh": "波提萨拉王禁止精灵崇拜",
+    "ja": "ポーティサラート王の精霊崇拝禁止令"
+   },
+   "description": {
+    "en": "King Photisarath, a devout Buddhist, issued a decree in 1527 banning the worship of phi (spirits) and ordering their shrines replaced with Buddhist temples. The measure aimed to strengthen Theravada Buddhism as the basis of royal legitimacy. Spirit beliefs nonetheless persisted and remain intertwined with Buddhism in Lao life today.",
+    "ko": "독실한 불교도였던 포티사랏 왕은 1527년 '피(정령)' 숭배를 금지하고 그 사당을 불교 사원으로 바꾸라는 칙령을 내렸다. 이는 상좌부 불교를 왕권 정통성의 기반으로 강화하려는 조치였다. 그러나 정령 신앙은 사라지지 않았고 오늘날에도 라오인의 삶 속에서 불교와 얽혀 있다.",
+    "zh": "虔诚信佛的波提萨拉王于1527年颁布诏令，禁止崇拜“丕”（精灵），并下令以佛寺取代其神祠。此举旨在强化上座部佛教作为王权合法性基础的地位。然而精灵信仰并未消失，至今仍与佛教交织在老挝人的生活中。",
+    "ja": "敬虔な仏教徒であったポーティサラート王は1527年、ピー（精霊）崇拝を禁じ、その祠を仏教寺院に置き換えるよう命じる勅令を出した。上座部仏教を王権の正統性の基盤として強める狙いであった。しかし精霊信仰は消えず、今日もラーオの人々の暮らしの中で仏教と結びついている。"
+   }
+  },
+  {
+   "year": 1548,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Setthathirath unites the thrones of Lan Na and Lan Xang",
+    "ko": "셋타티랏, 란나와 란쌍의 왕위를 겸하다",
+    "zh": "塞塔提腊兼领兰纳与澜沧王位",
+    "ja": "セーターティラート、ラーンナーとラーンサーンの王位を兼ねる"
+   },
+   "description": {
+    "en": "Setthathirath, son of Photisarath and a Lan Na princess, was chosen king of Lan Na in Chiang Mai in 1546 and succeeded to Lan Xang after his father's death in 1548. Returning to Luang Prabang, he brought with him the Emerald Buddha (Phra Kaeo). He soon lost Lan Na, but his reign became one of the most celebrated in Lao history.",
+    "ko": "포티사랏과 란나 공주 사이에서 난 셋타티랏은 1546년 치앙마이에서 란나 왕으로 추대되었고, 1548년 부왕이 죽자 란쌍 왕위도 이었다. 루앙프라방으로 돌아오면서 그는 에메랄드 불상(파깨우)을 가져왔다. 란나는 곧 잃었지만 그의 치세는 라오 역사에서 가장 칭송받는 시대 가운데 하나가 되었다.",
+    "zh": "塞塔提腊是波提萨拉与一位兰纳公主之子，1546年在清迈被推举为兰纳国王，1548年其父去世后又继承澜沧王位。他返回琅勃拉邦时带回了玉佛（帕盖奥）。他不久便失去兰纳，但其统治成为老挝历史上最受称颂的时期之一。",
+    "ja": "ポーティサラートとラーンナー王女の子セーターティラートは、1546年にチエンマイでラーンナー王に推され、1548年に父が没するとラーンサーンの王位も継いだ。ルアンパバーンへ戻る際、彼はエメラルド仏（プラ・ケーオ）を携えた。ラーンナーはまもなく失ったが、その治世はラーオ史上最も称えられる時代の一つとなった。"
+   }
+  },
+  {
+   "year": 1560,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Vientiane becomes the capital",
+    "ko": "비엔티안 천도",
+    "zh": "迁都万象",
+    "ja": "ヴィエンチャン遷都"
+   },
+   "description": {
+    "en": "Facing the growing threat of Burmese invasion, King Setthathirath moved the capital of Lan Xang from Luang Prabang to Vientiane around 1560, closer to the rice plains and Siamese allies. Before leaving he built Wat Xieng Thong in Luang Prabang, and in Vientiane he built Haw Phra Kaeo for the Emerald Buddha and the great stupa of Pha That Luang (1566), today Laos's national symbol.",
+    "ko": "버마 침공의 위협이 커지자 셋타티랏 왕은 1560년경 란쌍의 수도를 루앙프라방에서 쌀 평야와 시암 동맹국에 더 가까운 비엔티안으로 옮겼다. 떠나기 전 그는 루앙프라방에 왓시엥통을 세웠고, 비엔티안에는 에메랄드 불상을 모신 허파깨우와 오늘날 라오스의 국가 상징인 대불탑 파탓루앙(1566)을 세웠다.",
+    "zh": "面对日益加剧的缅甸入侵威胁，塞塔提腊王于约1560年将澜沧都城从琅勃拉邦迁至更靠近稻作平原和暹罗盟友的万象。迁都前他在琅勃拉邦修建了香通寺，在万象则修建了供奉玉佛的玉佛寺（何帕盖奥）和大佛塔塔銮（1566年），后者今为老挝国家象征。",
+    "ja": "ビルマ侵攻の脅威が高まる中、セーターティラート王は1560年頃、ラーンサーンの都をルアンパバーンから、稲作平野と同盟国シャムに近いヴィエンチャンへ移した。遷都前にルアンパバーンにワット・シエントーンを建て、ヴィエンチャンにはエメラルド仏を祀るホー・プラケーオと、今日ラオスの国家的象徴である大仏塔タート・ルアン（1566年）を建てた。"
+   }
+  },
+  {
+   "year": 1565,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Burmese capture of Vientiane",
+    "ko": "버마의 비엔티안 점령",
+    "zh": "缅甸攻占万象",
+    "ja": "ビルマ軍のヴィエンチャン占領"
+   },
+   "description": {
+    "en": "The Burmese king Bayinnaung, having subdued Lan Na and pressed Ayutthaya, invaded Lan Xang and occupied Vientiane in 1565. Setthathirath withdrew to the countryside and waged guerrilla resistance that forced the Burmese to retreat. Further Burmese campaigns followed over the next decade.",
+    "ko": "란나를 굴복시키고 아유타야를 압박하던 버마의 바인나웅 왕은 1565년 란쌍을 침공해 비엔티안을 점령했다. 셋타티랏은 지방으로 물러나 게릴라전을 펼쳐 버마군을 철수시켰다. 이후 10년 동안 버마의 원정이 거듭되었다.",
+    "zh": "缅甸国王莽应龙在征服兰纳、进逼阿瑜陀耶之后，于1565年入侵澜沧并占领万象。塞塔提腊退往乡间展开游击抵抗，迫使缅军撤退。此后十年间，缅甸又多次发动远征。",
+    "ja": "ラーンナーを服属させアユタヤを圧迫していたビルマのバインナウン王は、1565年にラーンサーンへ侵攻しヴィエンチャンを占領した。セーターティラートは地方へ退いてゲリラ戦を展開し、ビルマ軍を撤退させた。その後10年にわたりビルマの遠征が繰り返された。"
+   }
+  },
+  {
+   "year": 1574,
+   "qid": "Q23039102",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Lan Xang becomes a Burmese vassal",
+    "ko": "란쌍, 버마의 속국이 되다",
+    "zh": "澜沧沦为缅甸藩属",
+    "ja": "ラーンサーン、ビルマの属国となる"
+   },
+   "description": {
+    "en": "Setthathirath disappeared around 1571–1572 during a campaign in the far south, and the kingdom fell into a succession struggle. In 1574 Bayinnaung's forces took Vientiane and installed a Lao prince held in Burma as a vassal king. Lan Xang remained tributary to the Toungoo dynasty for about three decades.",
+    "ko": "셋타티랏은 1571~1572년경 남부 원정 중 행방불명되었고 왕국은 계승 분쟁에 빠졌다. 1574년 바인나웅의 군대는 비엔티안을 점령하고 버마에 억류되어 있던 라오 왕자를 봉신 왕으로 세웠다. 란쌍은 약 30년간 퉁구 왕조의 조공국으로 남았다.",
+    "zh": "塞塔提腊约于1571至1572年在南方征战中失踪，王国陷入继承之争。1574年莽应龙的军队攻占万象，扶立一位羁留缅甸的老族王子为附庸国王。澜沧此后约三十年一直是东吁王朝的藩属。",
+    "ja": "セーターティラートは1571〜72年頃に南部遠征中に行方不明となり、王国は継承争いに陥った。1574年、バインナウンの軍はヴィエンチャンを占領し、ビルマに留め置かれていたラーオの王子を従属王に据えた。ラーンサーンは約30年間タウングー朝の朝貢国であり続けた。"
+   }
+  },
+  {
+   "year": 1591,
+   "qid": "Q853477",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Nokeo Koumane restores independence",
+    "ko": "노깨우 꾸만의 독립 회복",
+    "zh": "诺乔·古曼恢复独立",
+    "ja": "ノーケーオ・クマーン、独立を回復"
+   },
+   "description": {
+    "en": "Around 1591 Nokeo Koumane, a son of Setthathirath who had been held in Burma, was enthroned in Vientiane and repudiated Burmese overlordship as Toungoo power weakened. His early death in the mid-1590s led to further instability. By the early 17th century Lan Xang had escaped Burmese control.",
+    "ko": "1591년경 버마에 억류되었던 셋타티랏의 아들 노깨우 꾸만이 비엔티안에서 즉위해, 퉁구의 세력이 약해진 틈에 버마의 종주권을 거부했다. 1590년대 중반 그가 일찍 죽자 다시 불안이 이어졌다. 17세기 초에 이르러 란쌍은 버마의 통제에서 벗어났다.",
+    "zh": "约1591年，曾羁留缅甸的塞塔提腊之子诺乔·古曼在万象即位，趁东吁势衰拒绝缅甸宗主权。他于1590年代中期早逝，局势再度动荡。到17世纪初，澜沧已摆脱缅甸控制。",
+    "ja": "1591年頃、ビルマに留め置かれていたセーターティラートの子ノーケーオ・クマーンがヴィエンチャンで即位し、タウングー朝の衰えに乗じてビルマの宗主権を拒んだ。1590年代半ばに彼が早世すると再び不安定となった。17世紀初めまでにラーンサーンはビルマの支配を脱した。"
+   }
+  },
+  {
+   "year": 1637,
+   "qid": "Q853477",
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Golden age under Sourigna Vongsa",
+    "ko": "수리냐웡사 왕의 황금기",
+    "zh": "苏里亚·翁萨的黄金时代",
+    "ja": "スリニャウォンサー王の黄金時代"
+   },
+   "description": {
+    "en": "King Sourigna Vongsa's long reign (1637–1694) brought peace, stable borders and prosperity to Lan Xang. Vientiane flourished as a centre of Buddhist learning that attracted monks from neighbouring lands, and European visitors described it as one of the most splendid cities of Southeast Asia. It is remembered as the cultural zenith of the kingdom.",
+    "ko": "수리냐웡사 왕의 긴 치세(1637~1694)는 란쌍에 평화와 안정된 국경, 번영을 가져다주었다. 비엔티안은 이웃 나라 승려들까지 찾아오는 불교 학문의 중심지로 번성했고, 유럽 방문객들은 이곳을 동남아시아에서 가장 화려한 도시 가운데 하나로 묘사했다. 이 시기는 왕국 문화의 절정으로 기억된다.",
+    "zh": "苏里亚·翁萨王长期在位（1637—1694年），为澜沧带来了和平、稳定的边界与繁荣。万象作为佛学中心盛极一时，吸引邻国僧侣前来求学，欧洲来访者称其为东南亚最壮丽的城市之一。这一时期被视为王国文化的巅峰。",
+    "ja": "スリニャウォンサー王の長い治世（1637〜1694）は、ラーンサーンに平和と安定した国境、繁栄をもたらした。ヴィエンチャンは近隣諸国の僧侶をも集める仏教学の中心として栄え、ヨーロッパの訪問者は東南アジア屈指の壮麗な都市と記した。王国の文化的頂点として記憶されている。"
+   }
+  },
+  {
+   "year": 1641,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Dutch envoy van Wuysthoff in Vientiane",
+    "ko": "네덜란드 사절 판바위스트호프의 비엔티안 방문",
+    "zh": "荷兰使者范韦斯特霍夫访问万象",
+    "ja": "オランダ使節ファン・ワイストホフのヴィエンチャン訪問"
+   },
+   "description": {
+    "en": "In 1641 Gerrit van Wuysthoff of the Dutch East India Company travelled up the Mekong from Cambodia to Vientiane to explore trade in goods such as benzoin resin and lac. His journal, one of the earliest European accounts of Lan Xang, describes the court of Sourigna Vongsa and the city's great temples. The journey did not lead to lasting commercial ties because of the difficulty of river navigation.",
+    "ko": "1641년 네덜란드 동인도회사의 헤릿 판바위스트호프는 안식향 수지와 락 등 교역품을 알아보려고 캄보디아에서 메콩강을 거슬러 비엔티안까지 갔다. 란쌍에 관한 가장 이른 유럽 기록 가운데 하나인 그의 일지는 수리냐웡사의 궁정과 도시의 큰 사원들을 묘사한다. 강 항해의 어려움 때문에 이 여정은 지속적인 교역 관계로 이어지지 않았다.",
+    "zh": "1641年，荷兰东印度公司的赫里特·范韦斯特霍夫从柬埔寨溯湄公河而上抵达万象，考察安息香树脂和紫胶等商品贸易。他的日志是欧洲人关于澜沧最早的记述之一，描写了苏里亚·翁萨的宫廷和城中的大寺院。由于河道航行艰难，此行未能建立持久的贸易联系。",
+    "ja": "1641年、オランダ東インド会社のヘリット・ファン・ワイストホフは、安息香やラックなどの交易品を調べるため、カンボジアからメコン川をさかのぼりヴィエンチャンに至った。ラーンサーンに関する最古級のヨーロッパ人の記録である彼の日誌は、スリニャウォンサーの宮廷や町の大寺院を描いている。河川航行の困難から、継続的な交易関係には結びつかなかった。"
+   }
+  },
+  {
+   "year": 1642,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Jesuit mission of Giovanni Maria Leria",
+    "ko": "예수회 선교사 레리아의 선교",
+    "zh": "耶稣会士莱里亚的传教",
+    "ja": "イエズス会士レリアの布教"
+   },
+   "description": {
+    "en": "The Italian Jesuit Giovanni Maria Leria arrived in Vientiane in 1642 and stayed for about five years, attempting to establish a Catholic mission. He made few converts in the strongly Buddhist kingdom, but his observations, later published in Europe, became an important source on Lan Xang's court and society.",
+    "ko": "이탈리아 예수회 선교사 조반니 마리아 레리아는 1642년 비엔티안에 와서 약 5년간 머물며 가톨릭 선교를 시도했다. 불교가 강한 왕국에서 개종자는 거의 얻지 못했지만, 훗날 유럽에서 출판된 그의 관찰 기록은 란쌍의 궁정과 사회에 관한 중요한 사료가 되었다.",
+    "zh": "意大利耶稣会士焦万尼·玛丽亚·莱里亚于1642年抵达万象，停留约五年，试图建立天主教传教团。在这个佛教根深蒂固的王国里，他几乎没有发展信徒，但他后来在欧洲出版的见闻成为研究澜沧宫廷与社会的重要史料。",
+    "ja": "イタリア人イエズス会士ジョヴァンニ・マリア・レリアは1642年にヴィエンチャンに到着し、約5年間滞在してカトリックの布教を試みた。仏教の根強い王国で改宗者はほとんど得られなかったが、のちにヨーロッパで出版された彼の観察記録は、ラーンサーンの宮廷と社会を知る重要な史料となった。"
+   }
+  },
+  {
+   "year": 1694,
+   "qid": "Q853477",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Sourigna Vongsa and succession crisis",
+    "ko": "수리냐웡사의 죽음과 계승 위기",
+    "zh": "苏里亚·翁萨去世与继承危机",
+    "ja": "スリニャウォンサーの死と継承危機"
+   },
+   "description": {
+    "en": "Sourigna Vongsa died in 1694 without a surviving adult heir; according to the chronicles his only son had been executed for adultery. Rival claimants, including his grandsons and court officials, fought over the throne, while Vietnam and Siam backed different candidates. The crisis led directly to the breakup of Lan Xang in the early 18th century.",
+    "ko": "수리냐웡사는 1694년 성년 후계자 없이 죽었는데, 연대기에 따르면 그의 외아들은 간통죄로 처형되었다. 손자들과 궁정 관리들을 포함한 여러 왕위 요구자가 다투었고, 베트남과 시암은 각기 다른 후보를 지원했다. 이 위기는 18세기 초 란쌍 분열로 곧장 이어졌다.",
+    "zh": "苏里亚·翁萨于1694年去世，身后没有成年继承人；据编年史记载，他唯一的儿子因通奸罪被处死。包括其孙辈和朝臣在内的多方争夺王位，越南与暹罗各自支持不同人选。这场危机直接导致了18世纪初澜沧的分裂。",
+    "ja": "スリニャウォンサーは1694年に成人した後継者のないまま没した。年代記によれば、一人息子は姦通の罪で処刑されていた。孫たちや廷臣を含む王位請求者が争い、ベトナムとシャムはそれぞれ別の候補を支援した。この危機は18世紀初めのラーンサーン分裂に直結した。"
+   }
+  },
+  {
+   "year": 1707,
+   "qid": "Q338248",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Lan Xang splits into rival kingdoms",
+    "ko": "란쌍 왕국의 분열",
+    "zh": "澜沧王国一分为三",
+    "ja": "ラーンサーン王国の分裂"
+   },
+   "description": {
+    "en": "Succession disputes after Sourigna Vongsa's death split Lan Xang in 1707 into the Kingdom of Luang Prabang in the north and the Kingdom of Vientiane in the centre; the Kingdom of Champasak in the south broke away in 1713. Weakened and often at odds with one another, the Lao kingdoms fell under Siamese domination by the late 18th century.",
+    "ko": "수리냐웡사 사후의 계승 분쟁으로 란쌍은 1707년 북부의 루앙프라방 왕국과 중부의 비엔티안 왕국으로 갈라졌고, 1713년에는 남부의 짬빠삭 왕국이 떨어져 나갔다. 약해지고 서로 반목한 라오 왕국들은 18세기 후반 시암의 지배 아래 들어갔다.",
+    "zh": "苏里亚·翁萨死后的继承之争使澜沧于1707年分裂为北方的琅勃拉邦王国和中部的万象王国，1713年南方的占巴塞王国又告独立。彼此削弱、时常相争的老族诸国到18世纪后期均落入暹罗的控制。",
+    "ja": "スリニャウォンサー死後の継承争いにより、ラーンサーンは1707年に北部のルアンパバーン王国と中部のヴィエンチャン王国に分裂し、1713年には南部のチャンパーサック王国も分離した。弱体化し互いに反目したラーオの諸王国は、18世紀後半までにシャムの支配下に入った。"
+   }
+  },
+  {
+   "year": 1713,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the Kingdom of Champasak",
+    "ko": "짬빠삭 왕국의 성립",
+    "zh": "占巴塞王国建立",
+    "ja": "チャンパーサック王国の成立"
+   },
+   "description": {
+    "en": "In 1713 Nokasad (Soi Sisamut), a prince of the Lan Xang royal line, was installed as king of Champasak in the south with the backing of local Buddhist leaders. The kingdom controlled the southern Mekong trade around Bassac and the old Khmer heartland near Wat Phou. It became a Siamese tributary in 1778.",
+    "ko": "1713년 란쌍 왕족 출신 왕자 노까삿(소이시사뭇)이 지역 불교 지도자들의 후원으로 남부 짬빠삭의 왕으로 즉위했다. 왕국은 바삭 일대 메콩강 남부의 교역과 왓푸 근처의 옛 크메르 중심지를 장악했다. 1778년 시암의 조공국이 되었다.",
+    "zh": "1713年，澜沧王族的诺卡萨（索伊·西萨穆）王子在当地佛教领袖支持下，于南方被立为占巴塞国王。该王国控制着巴色一带湄公河南段的贸易以及瓦普附近的古高棉中心地带。1778年沦为暹罗藩属。",
+    "ja": "1713年、ラーンサーン王家の王子ノーカサット（ソーイ・シーサムット）が地元の仏教指導者の後押しで南部チャンパーサックの王に即位した。王国はバサック周辺のメコン南部の交易と、ワット・プー近くの旧クメールの中心地を押さえた。1778年にシャムの朝貢国となった。"
+   }
+  },
+  {
+   "year": 1779,
+   "qid": "Q1155700",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Siam conquers Vientiane and takes the Emerald Buddha",
+    "ko": "시암의 비엔티안 정복과 에메랄드 불상 탈취",
+    "zh": "暹罗征服万象并掠走玉佛",
+    "ja": "シャム、ヴィエンチャンを征服しエメラルド仏を奪う"
+   },
+   "description": {
+    "en": "In 1778–1779 the Thonburi king Taksin sent an army under General Chao Phraya Chakri (later King Rama I) that captured Vientiane after a siege. The Emerald Buddha and the Phra Bang were carried off to Siam, and the Lao kingdoms became Siamese tributaries. The Emerald Buddha remains in Bangkok today, while the Phra Bang was later returned.",
+    "ko": "1778~1779년 톤부리의 딱신 왕은 짜오프라야 짜끄리(훗날 라마 1세) 장군이 이끄는 군대를 보내 포위 끝에 비엔티안을 함락시켰다. 에메랄드 불상과 파방 불상은 시암으로 옮겨졌고 라오 왕국들은 시암의 조공국이 되었다. 에메랄드 불상은 지금도 방콕에 있으며 파방은 뒤에 반환되었다.",
+    "zh": "1778至1779年，吞武里王郑信派遣昭披耶却克里将军（即后来的拉玛一世）率军围攻并攻陷万象。玉佛和勃拉邦佛像被掠往暹罗，老族诸国沦为暹罗藩属。玉佛至今仍在曼谷，勃拉邦佛像则后来被归还。",
+    "ja": "1778〜79年、トンブリー朝のタークシン王はチャオプラヤー・チャクリー将軍（のちのラーマ1世）率いる軍を派遣し、包囲の末にヴィエンチャンを陥落させた。エメラルド仏とパバーン仏はシャムへ運ばれ、ラーオの諸王国はシャムの朝貢国となった。エメラルド仏は今もバンコクにあり、パバーン仏はのちに返還された。"
+   }
+  },
+  {
+   "year": 1804,
+   "qid": "Q1141632",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Anouvong becomes king of Vientiane",
+    "ko": "아누웡의 비엔티안 왕 즉위",
+    "zh": "阿努冯成为万象国王",
+    "ja": "アヌウォン、ヴィエンチャン王に即位"
+   },
+   "description": {
+    "en": "In 1804 Anouvong, a son of a former king of Vientiane who had grown up as a hostage at the Bangkok court, was installed by Siam as king of Vientiane. He rebuilt the city, restored temples and gained a reputation as a capable ruler. Over time he sought to reduce Siamese control and restore the standing of the Lao kingdom.",
+    "ko": "1804년 비엔티안 선왕의 아들로 방콕 궁정에서 인질로 자란 아누웡이 시암에 의해 비엔티안 왕으로 세워졌다. 그는 도시를 재건하고 사원을 복원해 유능한 군주로 이름을 얻었다. 시간이 흐르며 그는 시암의 통제를 줄이고 라오 왕국의 위상을 되살리려 했다.",
+    "zh": "1804年，曾在曼谷宫廷作人质长大的前万象国王之子阿努冯被暹罗立为万象国王。他重建城市、修复寺庙，以能干的君主闻名。随着时间推移，他力图削弱暹罗的控制，恢复老族王国的地位。",
+    "ja": "1804年、ヴィエンチャン先王の子でバンコクの宮廷で人質として育ったアヌウォンが、シャムによってヴィエンチャン王に立てられた。彼は都を再建し寺院を修復して有能な君主として知られた。やがて彼はシャムの統制を弱め、ラーオ王国の地位を回復しようとした。"
+   }
+  },
+  {
+   "year": 1818,
+   "qid": "Q1141632",
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Construction of Wat Si Saket",
+    "ko": "왓시사켓 건립",
+    "zh": "西沙格寺建成",
+    "ja": "ワット・シーサケートの建立"
+   },
+   "description": {
+    "en": "King Anouvong built Wat Si Saket in Vientiane in 1818, in a Siamese-influenced style, with cloister walls holding thousands of small Buddha images. It was the only major temple in the city to survive the Siamese sack of 1828, possibly because of its style. Today it is the oldest surviving temple in Vientiane.",
+    "ko": "아누웡 왕은 1818년 비엔티안에 시암 양식의 영향을 받은 왓시사켓을 세웠는데, 회랑 벽에는 수천 개의 작은 불상이 모셔져 있다. 1828년 시암의 약탈에서 살아남은 도시의 유일한 주요 사원으로, 그 양식 때문이었을 가능성이 있다. 오늘날 비엔티안에 남은 가장 오래된 사원이다.",
+    "zh": "阿努冯王于1818年在万象修建西沙格寺，风格受暹罗影响，回廊墙壁上供奉着数千尊小佛像。它是1828年暹罗洗劫万象时城中唯一幸存的主要寺庙，原因可能在于其建筑风格。如今它是万象现存最古老的寺庙。",
+    "ja": "アヌウォン王は1818年、シャム様式の影響を受けたワット・シーサケートをヴィエンチャンに建て、回廊の壁には数千体の小仏像が納められた。1828年のシャムによる略奪を生き延びた市内唯一の主要寺院で、その様式が理由だった可能性がある。今日ヴィエンチャンに現存する最古の寺院である。"
+   }
+  },
+  {
+   "year": 1826,
+   "qid": "Q6407091",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Anouvong's rebellion against Siam",
+    "ko": "아누웡의 대시암 봉기",
+    "zh": "阿努冯起义反抗暹罗",
+    "ja": "アヌウォンの対シャム蜂起"
+   },
+   "description": {
+    "en": "In late 1826 King Anouvong of Vientiane, believing Siam weakened and threatened by Britain, marched his armies across the Khorat plateau toward Bangkok. The campaign stalled, and Siamese counter-attacks in 1827 drove the Lao forces back. Lao and Thai historiography still interpret the rebellion very differently, as a war of liberation or as a revolt by a vassal.",
+    "ko": "1826년 말 비엔티안의 아누웡 왕은 시암이 영국의 위협으로 약해졌다고 판단해 코랏 고원을 가로질러 방콕 쪽으로 진군했다. 원정은 정체되었고 1827년 시암의 반격으로 라오군은 밀려났다. 라오와 태국의 역사학은 지금도 이 봉기를 해방 전쟁 또는 속국의 반란으로 매우 다르게 해석한다.",
+    "zh": "1826年末，万象国王阿努冯认为暹罗受英国威胁而虚弱，遂挥军穿越呵叻高原向曼谷进发。战役陷入停滞，1827年暹罗反攻将老族军队击退。老挝与泰国的史学至今对这场起义的解读迥异，或视之为解放战争，或视之为藩属叛乱。",
+    "ja": "1826年末、ヴィエンチャンのアヌウォン王は、シャムが英国の脅威で弱っていると見て、コーラート高原を横断しバンコクへ向けて進軍した。遠征は行き詰まり、1827年のシャムの反撃でラーオ軍は押し戻された。ラオスとタイの歴史学は今もこの蜂起を、解放戦争とみるか属国の反乱とみるかで大きく異なる解釈をしている。"
+   }
+  },
+  {
+   "year": 1828,
+   "qid": "Q6407091",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall and destruction of Vientiane",
+    "ko": "비엔티안의 함락과 파괴",
+    "zh": "万象陷落与被毁",
+    "ja": "ヴィエンチャンの陥落と破壊"
+   },
+   "description": {
+    "en": "After the failure of his revolt, Anouvong fled to Vietnam, returned and was captured in 1828; he died in captivity in Bangkok in 1829. Siamese forces razed Vientiane, sparing few temples, and deported much of its population to the right bank of the Mekong. The Kingdom of Vientiane was abolished, and Anouvong is remembered in Laos as a symbol of resistance.",
+    "ko": "봉기가 실패한 뒤 아누웡은 베트남으로 피신했다가 돌아와 1828년 붙잡혔고 1829년 방콕에서 포로로 죽었다. 시암군은 사원 몇 곳만 남기고 비엔티안을 파괴했으며 주민 상당수를 메콩강 우안으로 강제 이주시켰다. 비엔티안 왕국은 폐지되었고, 아누웡은 라오스에서 저항의 상징으로 기억된다.",
+    "zh": "起义失败后，阿努冯逃往越南，回国后于1828年被俘，1829年死于曼谷囚中。暹罗军队将万象夷为平地，仅留下少数寺庙，并将大批居民强行迁往湄公河右岸。万象王国被废除，阿努冯在老挝被视为反抗的象征。",
+    "ja": "蜂起の失敗後、アヌウォンはベトナムへ逃れ、戻ったところを1828年に捕らえられ、1829年にバンコクで囚われのまま没した。シャム軍は少数の寺院を除いてヴィエンチャンを破壊し、住民の多くをメコン川右岸へ強制移住させた。ヴィエンチャン王国は廃止され、アヌウォンはラオスで抵抗の象徴として記憶されている。"
+   }
+  },
+  {
+   "year": 1861,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "Death of Henri Mouhot near Luang Prabang",
+    "ko": "앙리 무오의 루앙프라방 근교 사망",
+    "zh": "亨利·穆奥在琅勃拉邦附近去世",
+    "ja": "アンリ・ムーオ、ルアンパバーン近郊で死去"
+   },
+   "description": {
+    "en": "The French naturalist Henri Mouhot, whose writings had popularized Angkor in Europe, died of fever near Luang Prabang in November 1861 while exploring the Mekong. His posthumously published travel journals described Lao towns and stirred French interest in the region. His tomb near the town can still be visited.",
+    "ko": "앙코르를 유럽에 널리 알린 프랑스 박물학자 앙리 무오는 메콩강을 탐사하던 중 1861년 11월 루앙프라방 근처에서 열병으로 죽었다. 사후 출간된 그의 여행기는 라오의 도시들을 묘사하며 이 지역에 대한 프랑스의 관심을 불러일으켰다. 도시 근처의 그의 무덤은 지금도 찾아갈 수 있다.",
+    "zh": "其著作使吴哥在欧洲广为人知的法国博物学家亨利·穆奥，在考察湄公河途中于1861年11月在琅勃拉邦附近死于热病。他身后出版的游记描绘了老挝城镇，激发了法国对该地区的兴趣。他在城郊的墓至今仍可参观。",
+    "ja": "アンコールをヨーロッパに広めたフランスの博物学者アンリ・ムーオは、メコン川探検中の1861年11月、ルアンパバーン近郊で熱病により死去した。死後に刊行された旅行記はラーオの町々を描き、この地域へのフランスの関心をかき立てた。町の近くにある彼の墓は今も訪れることができる。"
+   }
+  },
+  {
+   "year": 1866,
+   "qid": null,
+   "importance": 3,
+   "category": "science",
+   "title": {
+    "en": "French Mekong Exploration Commission",
+    "ko": "프랑스 메콩 탐사대",
+    "zh": "法国湄公河探险队",
+    "ja": "フランスのメコン探検隊"
+   },
+   "description": {
+    "en": "From 1866 to 1868 a French expedition led by Ernest Doudart de Lagrée, with Francis Garnier as second-in-command, travelled up the Mekong through Laos in search of a navigable route to China. The Khone Falls and other rapids proved the river impassable for large vessels, and Doudart de Lagrée died in Yunnan. The expedition's detailed maps and reports nonetheless laid the groundwork for French claims in the region.",
+    "ko": "1866년부터 1868년까지 에르네스트 두다르 드라그레가 이끌고 프랑시스 가르니에가 부대장을 맡은 프랑스 탐사대가 중국으로 가는 항로를 찾아 라오스를 지나 메콩강을 거슬러 올랐다. 콘 폭포 등 급류 때문에 큰 배가 다닐 수 없음이 드러났고 두다르 드라그레는 윈난에서 죽었다. 그럼에도 탐사대의 상세한 지도와 보고서는 이 지역에 대한 프랑스 영유권 주장의 기초가 되었다.",
+    "zh": "1866至1868年，由厄内斯特·杜达尔·德拉格雷率领、弗朗西斯·安邺任副手的法国探险队溯湄公河穿越老挝，寻找通往中国的航道。孔瀑布等急流证明大船无法通行，杜达尔·德拉格雷死于云南。不过探险队绘制的详细地图和报告为法国日后在该地区的领土主张奠定了基础。",
+    "ja": "1866年から1868年にかけて、エルネスト・ドゥダール・ド・ラグレが率い、フランシス・ガルニエが副隊長を務めるフランス探検隊が、中国への航路を求めてラオスを通りメコン川をさかのぼった。コーンの滝などの急流で大型船の通航は不可能と判明し、ドゥダール・ド・ラグレは雲南で死去した。それでも探検隊の詳細な地図と報告は、この地域でのフランスの領有主張の基礎となった。"
+   }
+  },
+  {
+   "year": 1887,
+   "qid": "Q338248",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Sack of Luang Prabang and Auguste Pavie",
+    "ko": "루앙프라방 약탈과 오귀스트 파비",
+    "zh": "琅勃拉邦遭劫与奥古斯特·帕维",
+    "ja": "ルアンパバーン略奪とオーギュスト・パヴィ"
+   },
+   "description": {
+    "en": "In 1887 Tai and Haw forces led by Đèo Văn Trị, a chief from the upper Black River region, attacked and sacked Luang Prabang. The French vice-consul Auguste Pavie helped the elderly King Oun Kham escape by river. The episode allowed France to present itself as protector of the Lao monarchy and strengthened its claims against Siam.",
+    "ko": "1887년 흑수강 상류 지역의 수장 데오반찌가 이끄는 타이족과 호족 군대가 루앙프라방을 공격해 약탈했다. 프랑스 부영사 오귀스트 파비는 노왕 운캄이 강을 따라 탈출하도록 도왔다. 이 사건으로 프랑스는 라오 왕실의 보호자를 자처하며 시암에 대한 영유권 주장을 강화할 수 있었다.",
+    "zh": "1887年，黑水河上游地区的首领刁文持率领泰人和贺人武装进攻并洗劫琅勃拉邦。法国副领事奥古斯特·帕维协助年迈的温坎国王乘船逃离。这一事件使法国得以自居为老挝王室的保护者，并加强了其针对暹罗的领土主张。",
+    "ja": "1887年、黒河上流域の首長ドー・ヴァン・チー（刁文持）が率いるタイ系およびホー族の軍勢がルアンパバーンを襲撃・略奪した。フランス副領事オーギュスト・パヴィは老王ウンカムが川伝いに脱出するのを助けた。この出来事によりフランスはラーオ王室の保護者を自任し、シャムに対する領有主張を強めた。"
+   }
+  },
+  {
+   "year": 1893,
+   "qid": "Q185682",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "French protectorate over Laos",
+    "ko": "프랑스 보호령이 된 라오스",
+    "zh": "老挝沦为法国保护国",
+    "ja": "フランス保護領となったラオス"
+   },
+   "description": {
+    "en": "After the Franco-Siamese crisis of 1893, in which French gunboats forced their way up the Chao Phraya to Bangkok, Siam signed a treaty ceding all territory east of the Mekong to France. The Lao lands were attached to French Indochina, with Luang Prabang as a protected kingdom. The treaty defined much of the border of modern Laos and left the many Lao west of the Mekong in Siam.",
+    "ko": "1893년 프랑스 포함이 짜오프라야강을 거슬러 방콕까지 밀고 들어간 프랑스-시암 위기 뒤, 시암은 메콩강 동쪽 영토 전부를 프랑스에 할양하는 조약에 서명했다. 라오 땅은 프랑스령 인도차이나에 편입되었고 루앙프라방은 보호 왕국이 되었다. 이 조약은 근대 라오스 국경의 상당 부분을 정했고, 메콩강 서쪽의 많은 라오인은 시암에 남게 되었다.",
+    "zh": "1893年法暹危机中，法国炮舰强行溯湄南河直抵曼谷，随后暹罗签约将湄公河以东全部领土割让给法国。老族地区被并入法属印度支那，琅勃拉邦成为受保护王国。该条约划定了现代老挝的大部分边界，也使湄公河以西的大量老族人留在暹罗境内。",
+    "ja": "1893年、フランスの砲艦がチャオプラヤー川をさかのぼってバンコクに迫った仏シャム危機の後、シャムはメコン川東岸の全領土をフランスに割譲する条約に調印した。ラーオの地は仏領インドシナに編入され、ルアンパバーンは保護王国となった。この条約は現代ラオスの国境の多くを定め、メコン川西岸の多くのラーオ人はシャムに残された。"
+   }
+  },
+  {
+   "year": 1899,
+   "qid": "Q185682",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Laos unified under a French resident superior",
+    "ko": "프랑스 고등판무관 아래 라오스 통합",
+    "zh": "法国高级驻扎官下统一老挝",
+    "ja": "フランス理事長官のもとでラオスを統合"
+   },
+   "description": {
+    "en": "In 1899 France merged its separately administered Upper and Lower Laos into a single territory under a résident supérieur based in Vientiane, which was rebuilt as the administrative capital. Luang Prabang kept its king and a degree of autonomy as a protectorate, while the rest of Laos was ruled directly. This administrative unity laid the basis for a Lao territorial state.",
+    "ko": "1899년 프랑스는 따로 다스리던 상라오스와 하라오스를 하나로 합쳐 비엔티안에 주재하는 고등판무관 아래 두었고, 비엔티안은 행정 수도로 재건되었다. 루앙프라방은 보호국으로서 국왕과 일정한 자치를 유지했고 나머지 라오스는 직접 통치되었다. 이 행정 통합은 라오 영토 국가의 기초가 되었다.",
+    "zh": "1899年，法国将分别管辖的上寮和下寮合并为一个领地，由驻万象的高级驻扎官统辖，万象也被重建为行政首府。琅勃拉邦作为保护国保留了国王和一定自治，其余地区则由法国直接统治。这种行政统一为老挝领土国家奠定了基础。",
+    "ja": "1899年、フランスは別々に統治していた上ラオスと下ラオスを統合し、ヴィエンチャンに置かれた理事長官のもとに置いた。ヴィエンチャンは行政首都として再建された。ルアンパバーンは保護国として国王と一定の自治を保ち、それ以外のラオスは直接統治された。この行政的統一がラーオ領域国家の基礎となった。"
+   }
+  },
+  {
+   "year": 1901,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Holy Man's Rebellion on the Bolaven Plateau",
+    "ko": "볼라웬 고원의 '성자' 반란",
+    "zh": "波罗芬高原的“圣人”起义",
+    "ja": "ボーラヴェーン高原の「聖人」反乱"
+   },
+   "description": {
+    "en": "Beginning around 1901, millenarian leaders known as phu mi bun ('men of merit'), notably Ong Kaeo and later Ong Kommadam, led highland peoples of southern Laos in a revolt against French taxes and forced labour. The French suppressed the main uprising within a few years, killing Ong Kaeo in 1910. Ong Kommadam continued resistance until he was killed in 1936.",
+    "ko": "1901년 무렵부터 '푸미분(공덕 있는 사람)'이라 불린 천년왕국적 지도자들, 특히 옹깨우와 뒤의 옹꼼마담이 라오스 남부 고지대 민족을 이끌고 프랑스의 세금과 강제 노역에 맞서 봉기했다. 프랑스는 몇 년 안에 주된 봉기를 진압했고 1910년 옹깨우를 살해했다. 옹꼼마담은 1936년 살해될 때까지 저항을 이어 갔다.",
+    "zh": "约自1901年起，被称为“普米本”（有功德之人）的千禧年式领袖，尤其是翁乔和后来的翁·科马丹，带领老挝南部高地民族反抗法国的赋税和强迫劳役。法国在数年内镇压了主要起义，并于1910年杀死翁乔。翁·科马丹则一直坚持抵抗，直到1936年被杀。",
+    "ja": "1901年頃から、「プー・ミー・ブン（功徳ある者）」と呼ばれる千年王国的指導者、とくにオン・ケーオとのちのオン・コマダムが、ラオス南部の高地民族を率いてフランスの課税と強制労働に反乱を起こした。フランスは数年のうちに主要な蜂起を鎮圧し、1910年にオン・ケーオを殺害した。オン・コマダムは1936年に殺害されるまで抵抗を続けた。"
+   }
+  },
+  {
+   "year": 1904,
+   "qid": "Q185682",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Franco-Siamese treaties extend Laos westward",
+    "ko": "프랑스-시암 조약으로 라오스 서쪽 확장",
+    "zh": "法暹条约使老挝向西扩展",
+    "ja": "仏シャム条約でラオスが西へ拡大"
+   },
+   "description": {
+    "en": "Under a Franco-Siamese convention of 1904, Siam ceded to France the west-bank territories of Sainyabuli (opposite Luang Prabang) and the area of Champasak west of the Mekong, attaching them to Laos. Further adjustments in 1907 concerned Cambodian provinces. These treaties completed the outline of Laos's border with Thailand.",
+    "ko": "1904년 프랑스-시암 협약에 따라 시암은 루앙프라방 맞은편 서안의 사이냐부리와 메콩강 서쪽 짬빠삭 지역을 프랑스에 할양했고, 이 땅은 라오스에 편입되었다. 1907년의 추가 조정은 캄보디아 지방들에 관한 것이었다. 이 조약들로 라오스-태국 국경의 윤곽이 완성되었다.",
+    "zh": "根据1904年法暹协定，暹罗将琅勃拉邦对岸的沙耶武里和湄公河以西的占巴塞地区割让给法国，并入老挝。1907年的进一步调整则涉及柬埔寨诸省。这些条约最终勾勒出老挝与泰国的边界。",
+    "ja": "1904年の仏シャム協約により、シャムはルアンパバーン対岸のサイニャブリーとメコン川西岸のチャンパーサック地域をフランスに割譲し、これらはラオスに編入された。1907年のさらなる調整はカンボジアの諸州に関するものだった。これらの条約でラオス・タイ国境の輪郭が完成した。"
+   }
+  },
+  {
+   "year": 1918,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Hmong revolt of Pa Chay",
+    "ko": "파차이의 몽족 반란",
+    "zh": "帕柴领导的苗族起义",
+    "ja": "パチャイのモン族反乱"
+   },
+   "description": {
+    "en": "From 1918 to 1921 Hmong communities in the mountains of northern Laos and northwestern Vietnam rose against French taxation and abuses under the messianic leader Pa Chay Vue. The French called it the 'Madman's War'. After Pa Chay was killed in 1921 the revolt collapsed, but the French subsequently granted the Hmong a degree of self-administration.",
+    "ko": "1918년부터 1921년까지 라오스 북부와 베트남 서북부 산지의 몽족 공동체가 메시아적 지도자 파차이 부를 따라 프랑스의 과세와 학대에 맞서 봉기했다. 프랑스인은 이를 '광인의 전쟁'이라 불렀다. 1921년 파차이가 살해되면서 반란은 무너졌지만, 이후 프랑스는 몽족에게 일정한 자치를 허용했다.",
+    "zh": "1918至1921年，老挝北部和越南西北部山区的苗族社群在救世主式领袖帕柴·武的带领下，起来反抗法国的赋税和压迫。法国人称之为“疯人战争”。1921年帕柴被杀后起义瓦解，但法国此后给予苗族一定程度的自治。",
+    "ja": "1918年から1921年にかけて、ラオス北部とベトナム北西部の山地のモン族共同体が、救世主的指導者パチャイ・ヴーのもとでフランスの課税と虐待に対して蜂起した。フランス人はこれを「狂人の戦争」と呼んだ。1921年にパチャイが殺害されると反乱は崩壊したが、その後フランスはモン族に一定の自治を認めた。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": "Q185682",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Franco-Thai War and loss of west-bank provinces",
+    "ko": "프랑스-태국 전쟁과 서안 지방 상실",
+    "zh": "法泰战争与西岸领土的丧失",
+    "ja": "仏泰戦争と西岸地域の喪失"
+   },
+   "description": {
+    "en": "After the Franco-Thai War of 1940–1941, a Japanese-mediated settlement signed in Tokyo in May 1941 forced Vichy France to cede Sainyabuli and the west-bank part of Champasak to Thailand. To compensate the Lao king, France gave Luang Prabang authority over additional northern provinces and promoted a Lao cultural renovation movement. The territories were returned to Laos in 1946.",
+    "ko": "1940~1941년 프랑스-태국 전쟁 뒤 1941년 5월 도쿄에서 일본의 중재로 맺어진 협정에 따라 비시 프랑스는 사이냐부리와 짬빠삭 서안 지역을 태국에 할양해야 했다. 라오 국왕을 달래기 위해 프랑스는 루앙프라방에 북부 지방 몇 곳의 관할권을 더 주고 라오 문화 부흥 운동을 장려했다. 이 영토들은 1946년 라오스에 반환되었다.",
+    "zh": "1940至1941年法泰战争后，1941年5月在东京签署的日本调停协定迫使维希法国将沙耶武里和占巴塞的湄公河西岸部分割让给泰国。为补偿老挝国王，法国将北部更多省份划归琅勃拉邦管辖，并推动老族文化复兴运动。这些领土于1946年归还老挝。",
+    "ja": "1940〜41年の仏泰戦争の後、1941年5月に東京で日本の仲介により結ばれた協定で、ヴィシー政権下のフランスはサイニャブリーとチャンパーサックの西岸部をタイに割譲させられた。ラオ国王への埋め合わせとして、フランスはルアンパバーンに北部のいくつかの州の管轄を加え、ラーオ文化復興運動を後押しした。これらの領土は1946年にラオスへ返還された。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": "Q188712",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Japanese coup and the Lao Issara government",
+    "ko": "일본의 쿠데타와 라오 이싸라 정부",
+    "zh": "日本政变与自由老挝政府",
+    "ja": "日本のクーデターとラーオ・イサラ政府"
+   },
+   "description": {
+    "en": "On 9 March 1945 Japan overthrew the French administration in Indochina, and in April King Sisavang Vong was pressed into declaring Lao independence. After Japan's surrender, Prince Phetsarath and the Lao Issara ('Free Lao') movement proclaimed an independent government in Vientiane in October 1945 and briefly deposed the king, who favoured a return of French protection. It was the first modern assertion of a unified independent Laos.",
+    "ko": "1945년 3월 9일 일본은 인도차이나의 프랑스 행정을 무너뜨렸고, 4월 시사왕웡 왕은 압력 속에 라오스 독립을 선언했다. 일본 항복 후 펫사랏 왕자와 '자유 라오' 운동인 라오 이싸라는 1945년 10월 비엔티안에서 독립 정부를 선포하고, 프랑스 보호의 복귀를 원하던 국왕을 잠시 폐위했다. 이는 통일된 독립 라오스를 내세운 최초의 근대적 주장이었다.",
+    "zh": "1945年3月9日，日本推翻法国在印度支那的统治，4月西萨旺·冯国王在压力下宣布老挝独立。日本投降后，佩差拉亲王与“自由老挝”运动于1945年10月在万象宣布成立独立政府，并一度废黜希望恢复法国保护的国王。这是现代首次提出统一独立的老挝的主张。",
+    "ja": "1945年3月9日、日本はインドシナのフランス行政を打倒し、4月にシーサワンウォン王は圧力を受けてラオスの独立を宣言した。日本の降伏後、ペッサラート殿下と「自由ラーオ」運動ラーオ・イサラは1945年10月にヴィエンチャンで独立政府を宣言し、フランスの保護復活を望んだ国王を一時廃位した。統一された独立ラオスを掲げた最初の近代的主張であった。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": "Q185682",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "French return and Lao Issara exile",
+    "ko": "프랑스의 복귀와 라오 이싸라의 망명",
+    "zh": "法国回归与自由老挝流亡",
+    "ja": "フランスの復帰とラーオ・イサラの亡命"
+   },
+   "description": {
+    "en": "In spring 1946 French forces returned to Laos, defeating Lao Issara and Vietnamese fighters at Thakhek in March and retaking Vientiane and Luang Prabang. The Lao Issara leaders fled to Bangkok, where they formed a government in exile. In August a modus vivendi recognized the unity of Laos under the Luang Prabang king within the French Union framework.",
+    "ko": "1946년 봄 프랑스군이 라오스로 돌아와 3월 타켁에서 라오 이싸라와 베트남 전투원들을 격파하고 비엔티안과 루앙프라방을 되찾았다. 라오 이싸라 지도자들은 방콕으로 피신해 망명 정부를 세웠다. 8월의 잠정 협정은 프랑스 연합의 틀 안에서 루앙프라방 국왕 아래 라오스의 통일을 인정했다.",
+    "zh": "1946年春，法军重返老挝，3月在他曲击败自由老挝和越南武装，并重新占领万象和琅勃拉邦。自由老挝领导人逃往曼谷，组建流亡政府。8月签订的临时协定承认在法兰西联邦框架内、琅勃拉邦国王治下的老挝统一。",
+    "ja": "1946年春、フランス軍はラオスに戻り、3月にターケークでラーオ・イサラとベトナム人の戦闘員を破り、ヴィエンチャンとルアンパバーンを奪回した。ラーオ・イサラの指導者はバンコクへ逃れて亡命政府をつくった。8月の暫定協定は、フランス連合の枠内でルアンパバーン国王のもとでのラオスの統一を認めた。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": "Q870055",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Constitution of the Kingdom of Laos",
+    "ko": "라오스 왕국 헌법 제정",
+    "zh": "老挝王国宪法颁布",
+    "ja": "ラオス王国憲法の制定"
+   },
+   "description": {
+    "en": "In May 1947 King Sisavang Vong promulgated a constitution establishing the Kingdom of Laos as a constitutional monarchy with an elected National Assembly. For the first time Laos was a single kingdom under the Luang Prabang dynasty, though still within the French sphere. Champasak's princely house renounced its separate claims in exchange for honours.",
+    "ko": "1947년 5월 시사왕웡 왕은 선출된 국민의회를 둔 입헌군주국으로 라오스 왕국을 세우는 헌법을 공포했다. 여전히 프랑스의 영향권 안에 있었지만, 라오스는 처음으로 루앙프라방 왕조 아래 단일 왕국이 되었다. 짬빠삭 왕가는 명예를 대가로 별도의 왕권 주장을 포기했다.",
+    "zh": "1947年5月，西萨旺·冯国王颁布宪法，确立老挝王国为设有民选国民议会的君主立宪国家。老挝首次成为琅勃拉邦王朝治下的统一王国，但仍处于法国势力范围之内。占巴塞王族以获得荣衔为条件放弃了单独的王位主张。",
+    "ja": "1947年5月、シーサワンウォン王は選挙による国民議会をもつ立憲君主国としてラオス王国を定める憲法を公布した。依然フランスの影響圏内にあったが、ラオスは初めてルアンパバーン王家のもとで単一の王国となった。チャンパーサックの王家は栄誉と引き換えに独自の王位主張を放棄した。"
+   }
+  },
+  {
+   "year": 1949,
+   "qid": "Q870055",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Laos becomes an associated state of the French Union",
+    "ko": "프랑스 연합의 협동국이 된 라오스",
+    "zh": "老挝成为法兰西联邦联系邦",
+    "ja": "フランス連合の協同国となったラオス"
+   },
+   "description": {
+    "en": "A Franco-Lao convention of July 1949 made Laos an associated state within the French Union, with limited autonomy in internal affairs. Accepting this partial independence, most Lao Issara leaders, including Souvanna Phouma, returned from exile after the movement dissolved in October 1949. Prince Souphanouvong rejected the deal and aligned with the Viet Minh.",
+    "ko": "1949년 7월 프랑스-라오스 협약으로 라오스는 내정에서 제한된 자치를 누리는 프랑스 연합의 협동국이 되었다. 이 부분적 독립을 받아들인 수완나 푸마 등 라오 이싸라 지도자 대부분은 1949년 10월 운동이 해산된 뒤 망명에서 돌아왔다. 수파누웡 왕자는 이 합의를 거부하고 베트민과 손잡았다.",
+    "zh": "1949年7月的法老协定使老挝成为法兰西联邦内的联系邦，在内政上享有有限自治。接受这一部分独立的富马亲王等多数自由老挝领导人，在该运动于1949年10月解散后结束流亡归国。苏发努冯亲王则拒绝这一安排，转而与越盟结盟。",
+    "ja": "1949年7月の仏ラオ協定により、ラオスは内政に限られた自治をもつフランス連合の協同国となった。この部分的独立を受け入れたスワンナ・プーマら大半のラーオ・イサラ指導者は、1949年10月の運動解散後に亡命から帰国した。スパーヌウォン殿下はこれを拒み、ベトミンと手を結んだ。"
+   }
+  },
+  {
+   "year": 1950,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the Pathet Lao resistance front",
+    "ko": "파텟라오 저항 전선의 결성",
+    "zh": "巴特寮抗战阵线成立",
+    "ja": "パテート・ラーオ抵抗戦線の結成"
+   },
+   "description": {
+    "en": "In August 1950, with Viet Minh support, Prince Souphanouvong and other leftist nationalists formed the Neo Lao Issara (Lao Freedom Front) and a resistance government in areas held by communist forces. Its movement became known as the Pathet Lao ('Lao Nation'). Leaders such as Kaysone Phomvihane and Nouhak Phoumsavanh, linked to the Indochinese Communist Party, played central roles.",
+    "ko": "1950년 8월 베트민의 지원을 받아 수파누웡 왕자와 좌파 민족주의자들은 공산 세력 장악 지역에서 '네오 라오 이싸라(라오 자유 전선)'와 저항 정부를 결성했다. 이 운동은 '파텟라오(라오 나라)'로 알려졌다. 인도차이나 공산당과 연결된 까이손 폼위한, 누학 품사완 등이 핵심 역할을 했다.",
+    "zh": "1950年8月，在越盟支持下，苏发努冯亲王和其他左翼民族主义者在共产党武装控制区成立“老挝自由阵线”和抗战政府。这一运动被称为“巴特寮”（老挝国家）。与印度支那共产党有联系的凯山·丰威汉、努哈·冯沙万等人发挥了核心作用。",
+    "ja": "1950年8月、ベトミンの支援を受けたスパーヌウォン殿下ら左派民族主義者は、共産勢力の支配地域で「ネオ・ラーオ・イサラ（ラーオ自由戦線）」と抵抗政府を結成した。この運動は「パテート・ラーオ（ラーオの国）」として知られるようになった。インドシナ共産党とつながるカイソーン・ポムウィハーンやヌーハック・プームサワンらが中心的役割を果たした。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": "Q4871827",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Viet Minh invasion and the Battle of Muong Khoua",
+    "ko": "베트민의 침공과 므엉 쿠아 전투",
+    "zh": "越盟入侵与芒夸战役",
+    "ja": "ベトミンの侵攻とムアンクワの戦い"
+   },
+   "description": {
+    "en": "In April 1953 Viet Minh divisions invaded northern Laos together with Pathet Lao units, threatening Luang Prabang. At Muong Khoua in Phongsaly, a small French-led garrison held out for weeks, delaying the advance. The invasion left the Pathet Lao in control of large parts of the northeast and helped draw France toward the fateful defence of Dien Bien Phu.",
+    "ko": "1953년 4월 베트민 사단들이 파텟라오 부대와 함께 라오스 북부를 침공해 루앙프라방을 위협했다. 퐁살리의 므엉 쿠아에서는 프랑스군이 이끄는 소규모 수비대가 몇 주 동안 버티며 진격을 늦췄다. 이 침공으로 파텟라오는 동북부의 넓은 지역을 장악했고, 프랑스가 운명적인 디엔비엔푸 방어로 끌려 들어가는 계기가 되었다.",
+    "zh": "1953年4月，越盟数个师与巴特寮部队一道入侵老挝北部，威胁琅勃拉邦。在丰沙里省的芒夸，一支由法国人指挥的小型守军坚守数周，延缓了对方的推进。此次入侵使巴特寮控制了东北部大片地区，也促使法国走向命运攸关的奠边府防御战。",
+    "ja": "1953年4月、ベトミンの数個師団がパテート・ラーオ部隊とともにラオス北部に侵攻し、ルアンパバーンを脅かした。ポンサーリー県のムアンクワでは、フランス人が率いる小守備隊が数週間持ちこたえて進撃を遅らせた。この侵攻でパテート・ラーオは北東部の広い地域を掌握し、フランスが運命的なディエンビエンフー防衛へと向かう一因となった。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": "Q870055",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence from France",
+    "ko": "프랑스로부터의 독립",
+    "zh": "脱离法国独立",
+    "ja": "フランスからの独立"
+   },
+   "description": {
+    "en": "The Franco-Lao Treaty of Amity and Association, signed on 22 October 1953, transferred the remaining French powers and recognized the Kingdom of Laos as fully sovereign. Independence came as the First Indochina War spread into Lao territory. It soon gave way to decades of civil conflict entangled with the wider wars of Indochina.",
+    "ko": "1953년 10월 22일 체결된 프랑스-라오스 우호 협력 조약은 남아 있던 프랑스의 권한을 이양하고 라오스 왕국을 완전한 주권국으로 인정했다. 독립은 제1차 인도차이나 전쟁이 라오스 영토로 번지던 시기에 이루어졌다. 그러나 곧 인도차이나 전역의 전쟁과 얽힌 수십 년의 내전이 뒤따랐다.",
+    "zh": "1953年10月22日签署的《法老友好联合条约》移交了法国剩余的权力，承认老挝王国完全独立自主。独立恰逢第一次印度支那战争蔓延至老挝境内。此后，老挝很快陷入与整个印度支那战争交织的数十年内战。",
+    "ja": "1953年10月22日に調印された仏ラオ友好連合条約は、残るフランスの権限を移譲し、ラオス王国を完全な主権国家と認めた。独立は第一次インドシナ戦争がラオス領内に広がる中で実現した。しかしまもなく、インドシナ全体の戦争と絡み合う数十年の内戦が続いた。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": "Q870055",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Geneva Accords and Pathet Lao regroupment zones",
+    "ko": "제네바 협정과 파텟라오 집결 지역",
+    "zh": "日内瓦协议与巴特寮集结区",
+    "ja": "ジュネーヴ協定とパテート・ラーオの集結地区"
+   },
+   "description": {
+    "en": "The Geneva Conference of 1954, which ended the First Indochina War, confirmed the independence and neutrality of Laos and required foreign troops to withdraw. Pathet Lao forces were allowed to regroup in the northeastern provinces of Phongsaly and Houaphanh pending a political settlement. These two provinces became the communist movement's base for the next two decades.",
+    "ko": "제1차 인도차이나 전쟁을 끝낸 1954년 제네바 회의는 라오스의 독립과 중립을 확인하고 외국 군대의 철수를 요구했다. 파텟라오 군은 정치적 해결 때까지 동북부의 퐁살리와 후아판 두 주에 집결하도록 허용되었다. 이 두 주는 이후 20년 동안 공산주의 운동의 근거지가 되었다.",
+    "zh": "结束第一次印度支那战争的1954年日内瓦会议确认了老挝的独立与中立，并要求外国军队撤出。在政治解决之前，巴特寮部队获准在东北部的丰沙里和华潘两省集结。此后二十年，这两省一直是共产主义运动的根据地。",
+    "ja": "第一次インドシナ戦争を終わらせた1954年のジュネーヴ会議は、ラオスの独立と中立を確認し、外国軍の撤退を求めた。パテート・ラーオ軍は政治的解決までの間、北東部のポンサーリー県とフアパン県に集結することを認められた。この2県はその後20年間、共産主義運動の拠点となった。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Founding of the Lao People's Party",
+    "ko": "라오인민당 창건",
+    "zh": "老挝人民党成立",
+    "ja": "ラオス人民党の結成"
+   },
+   "description": {
+    "en": "On 22 March 1955 Lao communists, led by Kaysone Phomvihane, secretly founded the Lao People's Party, renamed the Lao People's Revolutionary Party in 1972. The party directed the Pathet Lao from behind the scenes while the Neo Lao Hak Xat (Lao Patriotic Front), formed in 1956, acted as its public political arm. It has ruled Laos since 1975.",
+    "ko": "1955년 3월 22일 까이손 폼위한이 이끄는 라오 공산주의자들은 라오인민당을 비밀리에 창건했고, 이 당은 1972년 라오인민혁명당으로 이름을 바꾸었다. 당은 막후에서 파텟라오를 지휘했고, 1956년 결성된 네오 라오 학삿(라오 애국 전선)이 공개 정치 조직 역할을 했다. 이 당은 1975년 이후 라오스를 통치하고 있다.",
+    "zh": "1955年3月22日，以凯山·丰威汉为首的老挝共产党人秘密成立老挝人民党，1972年更名为老挝人民革命党。该党在幕后领导巴特寮，1956年成立的老挝爱国战线则作为其公开的政治组织。自1975年起，该党一直执掌老挝政权。",
+    "ja": "1955年3月22日、カイソーン・ポムウィハーン率いるラオスの共産主義者はラオス人民党を秘密裏に結成し、同党は1972年にラオス人民革命党と改称した。党は舞台裏からパテート・ラーオを指導し、1956年に結成されたネオ・ラーオ・ハクサート（ラオス愛国戦線）が公然の政治組織として活動した。同党は1975年以来ラオスを統治している。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": "Q870055",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Laos joins the United Nations",
+    "ko": "라오스의 유엔 가입",
+    "zh": "老挝加入联合国",
+    "ja": "ラオスの国連加盟"
+   },
+   "description": {
+    "en": "On 14 December 1955 the Kingdom of Laos was admitted to the United Nations as part of a package deal that admitted sixteen states at once. Membership confirmed its international recognition as a sovereign state. The same year Laos received growing American aid, which soon came to fund almost the entire budget of the Royal Lao Army.",
+    "ko": "1955년 12월 14일 라오스 왕국은 16개국이 한꺼번에 가입한 일괄 타결의 일부로 유엔에 가입했다. 이로써 주권 국가로서의 국제적 승인이 확인되었다. 같은 해 라오스는 늘어나는 미국 원조를 받았고, 이 원조는 곧 왕국군 예산의 거의 전부를 충당하게 되었다.",
+    "zh": "1955年12月14日，老挝王国作为一揽子协议的一部分加入联合国，该协议使十六个国家同时入会。会员资格确认了其作为主权国家的国际地位。同年老挝获得的美国援助日益增多，不久几乎承担了皇家老挝军的全部预算。",
+    "ja": "1955年12月14日、ラオス王国は16か国を一括して加盟させる取引の一環として国連に加盟した。これにより主権国家としての国際的承認が確認された。同年ラオスは増大する米国の援助を受け、それはまもなく王国軍の予算のほぼ全額を賄うようになった。"
+   }
+  },
+  {
+   "year": 1957,
+   "qid": "Q870055",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First coalition government",
+    "ko": "제1차 연립 정부",
+    "zh": "第一次联合政府",
+    "ja": "第一次連合政府"
+   },
+   "description": {
+    "en": "In November 1957 Prime Minister Souvanna Phouma formed a coalition government that included his half-brother Souphanouvong and another Pathet Lao leader, and the two northeastern provinces were reintegrated. In the 1958 supplementary elections leftist candidates did well, alarming the United States, which cut aid. The coalition collapsed in 1958 and Souvanna was replaced by a right-wing government.",
+    "ko": "1957년 11월 수완나 푸마 총리는 이복동생 수파누웡과 또 다른 파텟라오 지도자를 포함한 연립 정부를 구성했고, 동북부 두 주가 재통합되었다. 1958년 보궐 선거에서 좌파 후보들이 선전하자 놀란 미국은 원조를 끊었다. 연립 정부는 1958년 무너졌고 수완나는 우파 정부로 교체되었다.",
+    "zh": "1957年11月，富马首相组建联合政府，吸纳其同父异母的弟弟苏发努冯及另一名巴特寮领导人入阁，东北两省重新并入。1958年补选中左翼候选人表现出色，令美国警觉并中止援助。联合政府于1958年垮台，富马被右翼政府取代。",
+    "ja": "1957年11月、スワンナ・プーマ首相は異母弟スパーヌウォンともう一人のパテート・ラーオ指導者を加えた連合政府を組織し、北東部の2県が再統合された。1958年の補欠選挙で左派候補が躍進すると、警戒した米国は援助を停止した。連合政府は1958年に崩壊し、スワンナは右派政府に取って代わられた。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": "Q870055",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Kong Le's coup and the Battle of Vientiane",
+    "ko": "꽁레의 쿠데타와 비엔티안 전투",
+    "zh": "贡勒政变与万象战役",
+    "ja": "コン・レーのクーデターとヴィエンチャンの戦い"
+   },
+   "description": {
+    "en": "In August 1960 Captain Kong Le, commander of a paratroop battalion, seized Vientiane and called for neutrality and an end to foreign interference, returning Souvanna Phouma to power. In December right-wing forces under General Phoumi Nosavan, backed by Thailand and the United States, retook the capital after heavy fighting. Kong Le's neutralists withdrew to the Plain of Jars and allied with the Pathet Lao, receiving Soviet airlifted supplies.",
+    "ko": "1960년 8월 공수대대장 꽁레 대위는 비엔티안을 장악하고 중립과 외세 간섭 중단을 요구하며 수완나 푸마를 다시 집권시켰다. 12월 태국과 미국의 지원을 받은 품미 노사완 장군의 우파 세력이 격전 끝에 수도를 되찾았다. 꽁레의 중립파는 항아리 평원으로 물러나 파텟라오와 손잡고 소련의 공수 보급을 받았다.",
+    "zh": "1960年8月，伞兵营营长贡勒上尉夺取万象，呼吁中立并结束外国干涉，使富马重新执政。12月，由泰国和美国支持的富米·诺萨万将军所部右翼势力经过激战夺回首都。贡勒的中立派退往石缸平原，与巴特寮结盟，并获得苏联空运补给。",
+    "ja": "1960年8月、空挺大隊長コン・レー大尉はヴィエンチャンを掌握し、中立と外国干渉の停止を訴えてスワンナ・プーマを政権に復帰させた。12月、タイと米国が支援するプーミ・ノサワン将軍の右派勢力が激戦の末に首都を奪回した。コン・レーの中立派はジャール平原へ退いてパテート・ラーオと手を結び、ソ連の空輸補給を受けた。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": "Q870055",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Geneva Agreement on the neutrality of Laos",
+    "ko": "라오스 중립에 관한 제네바 협정",
+    "zh": "关于老挝中立的日内瓦协议",
+    "ja": "ラオス中立に関するジュネーヴ協定"
+   },
+   "description": {
+    "en": "On 23 July 1962, fourteen nations signed the Declaration on the Neutrality of Laos in Geneva, and a second coalition government under Souvanna Phouma brought together neutralists, rightists and the Pathet Lao. All foreign military personnel were to leave. The agreement soon broke down: North Vietnamese troops remained to protect the Ho Chi Minh Trail, and the United States responded with covert operations.",
+    "ko": "1962년 7월 23일 14개국이 제네바에서 '라오스 중립에 관한 선언'에 서명했고, 수완나 푸마 아래 중립파·우파·파텟라오를 아우르는 제2차 연립 정부가 들어섰다. 모든 외국 군사 요원은 철수해야 했다. 그러나 합의는 곧 무너졌다. 북베트남군은 호찌민 루트를 지키기 위해 남았고 미국은 비밀 작전으로 대응했다.",
+    "zh": "1962年7月23日，十四国在日内瓦签署《关于老挝中立的宣言》，由富马领导、包括中立派、右派和巴特寮的第二次联合政府成立。所有外国军事人员均应撤离。但协议很快破裂：北越军队为保护胡志明小道而留驻，美国则以秘密行动回应。",
+    "ja": "1962年7月23日、14か国がジュネーヴで「ラオスの中立に関する宣言」に調印し、スワンナ・プーマのもとで中立派・右派・パテート・ラーオからなる第二次連合政府が成立した。すべての外国軍事要員が撤退するはずであった。しかし合意はすぐに崩れ、北ベトナム軍はホーチミン・ルート防衛のため残留し、米国は秘密作戦で対抗した。"
+   }
+  },
+  {
+   "year": 1964,
+   "qid": null,
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "The Secret War and massive bombing",
+    "ko": "'비밀 전쟁'과 대규모 폭격",
+    "zh": "“秘密战争”与大规模轰炸",
+    "ja": "「秘密戦争」と大規模爆撃"
+   },
+   "description": {
+    "en": "From 1964 to 1973 the United States conducted an air campaign over Laos against the Ho Chi Minh Trail and Pathet Lao areas, dropping more than two million tons of bombs and making Laos the most heavily bombed country per capita in history. On the ground, the CIA armed a Hmong-led army under Vang Pao. Tens of millions of cluster submunitions failed to explode, and unexploded ordnance still kills and maims people today.",
+    "ko": "1964년부터 1973년까지 미국은 호찌민 루트와 파텟라오 지역을 겨냥해 라오스 상공에서 공습을 벌여 200만 톤이 넘는 폭탄을 투하했고, 라오스는 역사상 1인당 폭격량이 가장 많은 나라가 되었다. 지상에서는 CIA가 왕파오가 이끄는 몽족 중심 군대를 무장시켰다. 수천만 개의 집속 자탄이 터지지 않았고, 불발탄은 지금도 사람들을 죽이고 다치게 한다.",
+    "zh": "1964至1973年，美国针对胡志明小道和巴特寮控制区对老挝进行空袭，投下逾两百万吨炸弹，使老挝成为史上人均遭轰炸最多的国家。地面上，中央情报局武装了由王宝领导的以苗族为主的部队。数以千万计的集束子弹药未能爆炸，未爆弹药至今仍在造成伤亡。",
+    "ja": "1964年から1973年にかけて、米国はホーチミン・ルートとパテート・ラーオ支配地域を狙ってラオス上空で空爆を行い、200万トンを超える爆弾を投下した。ラオスは史上、人口あたりで最も激しく爆撃された国となった。地上ではCIAがワン・パオ率いるモン族中心の部隊を武装させた。数千万発のクラスター子弾が不発のまま残り、不発弾は今も人々を死傷させている。"
+   }
+  },
+  {
+   "year": 1971,
+   "qid": "Q2095768",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Operation Lam Son 719",
+    "ko": "람선 719 작전",
+    "zh": "蓝山719行动",
+    "ja": "ラムソン719作戦"
+   },
+   "description": {
+    "en": "In February–March 1971 South Vietnamese forces, supported by US air power, invaded southeastern Laos to cut the Ho Chi Minh Trail near Tchepone. North Vietnamese forces counter-attacked, and the operation ended in a costly retreat. It exposed the weaknesses of 'Vietnamization' and showed how Laos had become a battlefield of the Vietnam War.",
+    "ko": "1971년 2~3월 남베트남군은 미국 공군력의 지원을 받아 체폰 부근의 호찌민 루트를 끊기 위해 라오스 동남부를 침공했다. 북베트남군이 반격했고 작전은 큰 손실을 낸 퇴각으로 끝났다. 이 작전은 '베트남화' 정책의 약점을 드러냈고 라오스가 베트남 전쟁의 전장이 되었음을 보여 주었다.",
+    "zh": "1971年2至3月，南越军队在美国空中力量支援下入侵老挝东南部，企图在车邦附近切断胡志明小道。北越军队发起反击，行动以代价高昂的撤退告终。这次行动暴露了“越南化”政策的弱点，也表明老挝已成为越南战争的战场。",
+    "ja": "1971年2〜3月、南ベトナム軍は米空軍力の支援を受けて、チェポン付近でホーチミン・ルートを遮断するためラオス南東部へ侵攻した。北ベトナム軍が反撃し、作戦は大きな損害を伴う撤退に終わった。「ベトナム化」政策の弱点を露呈し、ラオスがベトナム戦争の戦場となっていたことを示した。"
+   }
+  },
+  {
+   "year": 1973,
+   "qid": "Q4130063",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Vientiane Agreement and ceasefire",
+    "ko": "비엔티안 협정과 휴전",
+    "zh": "万象协定与停火",
+    "ja": "ヴィエンチャン協定と停戦"
+   },
+   "description": {
+    "en": "Following the Paris Peace Accords on Vietnam, the Royal Lao Government and the Pathet Lao signed the Vientiane Agreement on 21 February 1973, providing for a ceasefire, an end to US bombing and a new coalition. The Provisional Government of National Union took office in April 1974 under Souvanna Phouma, with Souphanouvong heading a political council. The balance of power, however, was shifting toward the Pathet Lao.",
+    "ko": "베트남에 관한 파리 평화 협정에 이어 라오스 왕국 정부와 파텟라오는 1973년 2월 21일 비엔티안 협정에 서명해 휴전과 미국 폭격 중단, 새 연립 정부 구성을 약속했다. 1974년 4월 수완나 푸마 아래 민족통일 임시정부가 출범했고 수파누웡은 정치 협의회를 이끌었다. 그러나 힘의 균형은 파텟라오 쪽으로 기울고 있었다.",
+    "zh": "继关于越南问题的巴黎和平协定之后，老挝王国政府与巴特寮于1973年2月21日签署万象协定，规定停火、停止美国轰炸并组建新的联合政府。1974年4月，富马领导的民族团结临时政府成立，苏发努冯主持政治协商委员会。然而力量对比正向巴特寮倾斜。",
+    "ja": "ベトナムに関するパリ和平協定に続き、ラオス王国政府とパテート・ラーオは1973年2月21日にヴィエンチャン協定に調印し、停戦、米国の爆撃停止、新たな連合政府の樹立を定めた。1974年4月、スワンナ・プーマのもとで民族連合臨時政府が発足し、スパーヌウォンが政治協議会を率いた。しかし力の均衡はパテート・ラーオへと傾いていた。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q819",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Proclamation of the Lao PDR",
+    "ko": "라오 인민민주공화국 수립",
+    "zh": "老挝人民民主共和国成立",
+    "ja": "ラオス人民民主共和国の樹立"
+   },
+   "description": {
+    "en": "After the communist victories in Cambodia and South Vietnam in April 1975, the Pathet Lao took control of the country through mass demonstrations and pressure rather than a final battle. On 2 December 1975 King Savang Vatthana abdicated, the 600-year-old monarchy was abolished and the Lao People's Democratic Republic was proclaimed, with Souphanouvong as president and Kaysone Phomvihane as prime minister. The one-party socialist state continues today.",
+    "ko": "1975년 4월 캄보디아와 남베트남에서 공산주의 세력이 승리한 뒤, 파텟라오는 마지막 전투가 아니라 대중 시위와 압력을 통해 나라를 장악했다. 1975년 12월 2일 사왕 왓타나 왕이 퇴위해 600년 역사의 군주제가 폐지되고, 수파누웡을 주석, 까이손 폼위한을 총리로 하는 라오 인민민주공화국이 선포되었다. 이 일당 사회주의 국가는 오늘날까지 이어진다.",
+    "zh": "1975年4月共产党在柬埔寨和南越取得胜利后，巴特寮并非通过决战，而是借助群众示威和施压掌控全国。1975年12月2日，萨旺·瓦达纳国王退位，延续六百年的君主制被废除，老挝人民民主共和国宣告成立，苏发努冯任主席，凯山·丰威汉任总理。这一一党制社会主义国家延续至今。",
+    "ja": "1975年4月にカンボジアと南ベトナムで共産勢力が勝利した後、パテート・ラーオは最終決戦ではなく大衆デモと圧力によって国を掌握した。1975年12月2日、サワーンワッタナー王が退位して600年続いた王制が廃止され、スパーヌウォンを主席、カイソーン・ポムウィハーンを首相とするラオス人民民主共和国が宣言された。この一党制社会主義国家は今日まで続いている。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q249853",
+   "importance": 2,
+   "category": "society",
+   "title": {
+    "en": "Exodus, re-education camps and Hmong insurgency",
+    "ko": "대탈출, 재교육 수용소, 몽족 저항",
+    "zh": "难民潮、再教育营与苗族武装抵抗",
+    "ja": "大量脱出、再教育キャンプ、モン族の抵抗"
+   },
+   "description": {
+    "en": "After the communist takeover, many officials and officers of the old regime were sent to 're-education' camps in remote provinces, and the former king and queen died in detention; the dates of their deaths were never officially confirmed. Large numbers of Lao, Hmong and others, including much of the educated elite, fled across the Mekong to Thailand and resettled abroad. Some Hmong fighters continued a low-level insurgency in the mountains for decades.",
+    "ko": "공산당 집권 뒤 구정권의 관리와 장교 다수가 오지의 '재교육' 수용소로 보내졌고, 전 국왕과 왕비는 구금 중 사망했으나 사망 날짜는 공식적으로 확인된 적이 없다. 교육받은 엘리트 상당수를 포함한 수많은 라오인과 몽족 등은 메콩강을 건너 태국으로 탈출해 해외에 정착했다. 일부 몽족 전투원은 수십 년 동안 산지에서 소규모 저항을 이어 갔다.",
+    "zh": "共产党掌权后，旧政权的许多官员和军官被送往偏远省份的“再教育”营，前国王和王后死于羁押之中，其死亡日期从未得到官方确认。大批老族、苗族及其他民族的人，包括相当一部分受过教育的精英，越过湄公河逃往泰国并移居海外。部分苗族武装人员在山区进行了长达数十年的小规模抵抗。",
+    "ja": "共産党の政権掌握後、旧体制の官吏や将校の多くが辺境の「再教育」キャンプに送られ、前国王と王妃は拘禁中に死亡したが、その日付は公式に確認されていない。教育を受けたエリートの多くを含む大勢のラーオ人、モン族などがメコン川を渡ってタイへ逃れ、海外に定住した。一部のモン族戦闘員は数十年にわたり山地で小規模な抵抗を続けた。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": "Q819",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Lao-Vietnamese Treaty of Friendship",
+    "ko": "라오스-베트남 우호 조약",
+    "zh": "老越友好合作条约",
+    "ja": "ラオス・ベトナム友好協力条約"
+   },
+   "description": {
+    "en": "In July 1977 Laos and Vietnam signed a 25-year Treaty of Friendship and Cooperation that allowed Vietnamese troops to remain in Laos and formalized their 'special relationship'. The alignment drew Laos into Vietnam's conflicts with Cambodia's Khmer Rouge and with China in 1979. Relations with Vietnam remain close to this day.",
+    "ko": "1977년 7월 라오스와 베트남은 베트남군의 라오스 주둔을 허용하고 양국의 '특별한 관계'를 공식화하는 25년 기한의 우호 협력 조약에 서명했다. 이 연대로 라오스는 캄보디아 크메르 루주, 그리고 1979년 중국과 베트남의 분쟁에 휘말렸다. 베트남과의 관계는 오늘날까지 긴밀하다.",
+    "zh": "1977年7月，老挝与越南签署为期25年的友好合作条约，允许越南军队驻留老挝，并使两国的“特殊关系”制度化。这一结盟使老挝卷入越南与柬埔寨红色高棉以及1979年与中国的冲突。老越关系至今依然紧密。",
+    "ja": "1977年7月、ラオスとベトナムは25年間の友好協力条約に調印し、ベトナム軍のラオス駐留を認めて両国の「特別な関係」を制度化した。この連携によりラオスは、ベトナムとカンボジアのクメール・ルージュ、そして1979年の中国との対立に巻き込まれた。ベトナムとの関係は今日も緊密である。"
+   }
+  },
+  {
+   "year": 1986,
+   "qid": "Q819",
+   "importance": 1,
+   "category": "economy",
+   "title": {
+    "en": "New Economic Mechanism",
+    "ko": "신경제 체제 도입",
+    "zh": "推行“新经济机制”",
+    "ja": "新経済メカニズムの導入"
+   },
+   "description": {
+    "en": "At its Fourth Congress in 1986 the Lao People's Revolutionary Party launched the 'New Economic Mechanism' (chintanakan mai, 'new thinking'), abandoning agricultural collectivization and shifting from central planning toward a market economy while retaining one-party rule. Prices were freed, private enterprise allowed and foreign investment invited. The reforms paralleled Vietnam's Đổi Mới of the same year.",
+    "ko": "1986년 제4차 당대회에서 라오인민혁명당은 '신경제 체제(찐타나깐 마이, 새로운 사고)'를 내걸고 농업 집단화를 포기하며 일당 지배를 유지한 채 계획경제에서 시장경제로 전환하기 시작했다. 가격이 자유화되고 민간 기업이 허용되었으며 외국인 투자가 유치되었다. 이 개혁은 같은 해 베트남의 도이머이와 나란히 진행되었다.",
+    "zh": "1986年老挝人民革命党在四大上推出“新经济机制”（“新思维”），放弃农业集体化，在保持一党执政的前提下从计划经济转向市场经济。价格放开，允许私营企业，并引进外资。这一改革与同年越南的革新开放并行。",
+    "ja": "1986年の第4回党大会で、ラオス人民革命党は「新経済メカニズム（チンタナカーン・マイ＝新思考）」を掲げ、農業集団化を放棄し、一党支配を維持したまま計画経済から市場経済への転換に乗り出した。価格が自由化され、民間企業が認められ、外国投資が誘致された。改革は同年のベトナムのドイモイと並行して進んだ。"
+   }
+  },
+  {
+   "year": 1987,
+   "qid": "Q819",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Thai-Laotian Border War",
+    "ko": "태국-라오스 국경 전쟁",
+    "zh": "泰老边境战争",
+    "ja": "タイ・ラオス国境紛争"
+   },
+   "description": {
+    "en": "From December 1987 to February 1988 Thailand and Laos fought a short but bloody border war over the disputed area of Ban Romklao in Sainyabuli province, rooted in differing readings of the 1907 Franco-Siamese boundary maps. Hundreds of soldiers were killed before a ceasefire was agreed. Relations improved quickly afterwards as both countries turned to trade.",
+    "ko": "1987년 12월부터 1988년 2월까지 태국과 라오스는 1907년 프랑스-시암 경계 지도에 대한 해석 차이에서 비롯된 사이냐부리주의 분쟁 지역 반롬끌라오를 두고 짧지만 치열한 국경 전쟁을 벌였다. 휴전 합의 전까지 수백 명의 군인이 전사했다. 이후 양국이 교역으로 눈을 돌리면서 관계는 빠르게 개선되었다.",
+    "zh": "1987年12月至1988年2月，泰国与老挝因对1907年法暹边界地图解读不同，围绕沙耶武里省的争议地区班隆考爆发了一场短暂而血腥的边境战争。在达成停火之前已有数百名士兵阵亡。此后两国转向经贸往来，关系迅速改善。",
+    "ja": "1987年12月から1988年2月にかけて、タイとラオスは1907年の仏シャム国境地図の解釈の違いに起因し、サイニャブリー県の係争地バーンロムクラオをめぐって短期間ながら激しい国境紛争を戦った。停戦合意までに数百人の兵士が戦死した。その後、両国が貿易へと目を向けると関係は急速に改善した。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": "Q819",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "First constitution of the Lao PDR",
+    "ko": "라오 인민민주공화국 최초의 헌법",
+    "zh": "老挝人民民主共和国首部宪法",
+    "ja": "ラオス人民民主共和国初の憲法"
+   },
+   "description": {
+    "en": "In August 1991, sixteen years after the revolution, the Supreme People's Assembly adopted the first constitution of the Lao PDR. It confirmed the leading role of the Lao People's Revolutionary Party while recognizing private property and a market-oriented economy. Kaysone Phomvihane moved from prime minister to the presidency under the new charter.",
+    "ko": "혁명 16년 뒤인 1991년 8월 최고인민회의는 라오 인민민주공화국 최초의 헌법을 채택했다. 헌법은 라오인민혁명당의 영도적 역할을 확인하는 한편 사유재산과 시장 지향 경제를 인정했다. 새 헌법 아래 까이손 폼위한은 총리에서 주석으로 자리를 옮겼다.",
+    "zh": "革命十六年后的1991年8月，最高人民议会通过了老挝人民民主共和国首部宪法。宪法确认老挝人民革命党的领导地位，同时承认私有财产和市场导向的经济。依照新宪法，凯山·丰威汉由总理改任国家主席。",
+    "ja": "革命から16年後の1991年8月、最高人民議会はラオス人民民主共和国初の憲法を採択した。憲法はラオス人民革命党の指導的役割を確認する一方、私有財産と市場志向の経済を認めた。新憲法のもとでカイソーン・ポムウィハーンは首相から国家主席に移った。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": "Q819",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Kaysone Phomvihane",
+    "ko": "까이손 폼위한의 사망",
+    "zh": "凯山·丰威汉逝世",
+    "ja": "カイソーン・ポムウィハーンの死"
+   },
+   "description": {
+    "en": "Kaysone Phomvihane, the long-time leader of the Lao communist movement and head of the party since its founding, died in November 1992. He was succeeded as party chairman by Khamtai Siphandon, a veteran military commander, while Nouhak Phoumsavanh became president. Kaysone was subsequently honoured with monuments and a museum, and his image appears on Lao banknotes.",
+    "ko": "라오 공산주의 운동을 오래 이끌고 창당 이래 당을 이끈 까이손 폼위한이 1992년 11월 사망했다. 당 의장직은 노련한 군 지휘관 캄타이 시판돈이 이었고 누학 품사완이 주석이 되었다. 까이손은 이후 기념비와 박물관으로 기려졌고 그의 초상은 라오스 지폐에 실려 있다.",
+    "zh": "长期领导老挝共产主义运动、自建党起即为党的领导人的凯山·丰威汉于1992年11月逝世。资深军事指挥官坎代·西潘敦继任党主席，努哈·冯沙万出任国家主席。凯山此后获建纪念碑和博物馆纪念，其肖像出现在老挝纸币上。",
+    "ja": "ラオスの共産主義運動を長く率い、結党以来党の最高指導者であったカイソーン・ポムウィハーンが1992年11月に死去した。党議長は歴戦の軍司令官カムタイ・シーパンドーンが継ぎ、ヌーハック・プームサワンが国家主席となった。カイソーンはその後記念碑や博物館で顕彰され、その肖像はラオスの紙幣に描かれている。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": "Q819",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "First Thai-Lao Friendship Bridge",
+    "ko": "제1 태국-라오스 우정의 다리 개통",
+    "zh": "第一座泰老友谊大桥通车",
+    "ja": "第1タイ・ラオス友好橋の開通"
+   },
+   "description": {
+    "en": "In April 1994 the first bridge across the lower Mekong, the Australian-funded Thai-Lao Friendship Bridge linking Nong Khai with the Vientiane area, was opened. It gave landlocked Laos its first fixed road link to Thailand's ports and markets. A rail spur across the bridge later brought the first trains to Laos in 2009.",
+    "ko": "1994년 4월 메콩강 하류 최초의 다리로, 호주 자금으로 지어져 농카이와 비엔티안 일대를 잇는 태국-라오스 우정의 다리가 개통되었다. 내륙국 라오스는 이로써 태국의 항구와 시장으로 이어지는 첫 고정 도로를 얻었다. 다리 위의 철도 지선은 2009년 라오스에 처음으로 기차를 들여왔다.",
+    "zh": "1994年4月，由澳大利亚出资修建、连接廊开与万象地区的泰老友谊大桥通车，这是湄公河下游的第一座大桥。内陆国老挝由此首次拥有通往泰国港口和市场的固定公路通道。桥上的铁路支线后来于2009年将首列火车引入老挝。",
+    "ja": "1994年4月、メコン川下流域初の橋として、オーストラリアの資金で建設されノーンカーイとヴィエンチャン周辺を結ぶタイ・ラオス友好橋が開通した。内陸国ラオスはこれにより、タイの港湾や市場へ通じる初の固定道路を得た。橋上の鉄道支線により、2009年にはラオスに初めて列車が乗り入れた。"
+   }
+  },
+  {
+   "year": 1995,
+   "qid": "Q819",
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Luang Prabang listed as World Heritage",
+    "ko": "루앙프라방 세계유산 등재",
+    "zh": "琅勃拉邦列入世界遗产",
+    "ja": "ルアンパバーン、世界遺産に登録"
+   },
+   "description": {
+    "en": "In 1995 the town of Luang Prabang, the former royal capital, was inscribed as a UNESCO World Heritage site for its fusion of traditional Lao temples and wooden houses with French colonial buildings. The listing helped preserve its townscape and made it the heart of the country's cultural identity and tourism. Rapid tourist growth has since raised concerns about its impact on local life.",
+    "ko": "1995년 옛 왕도 루앙프라방은 전통 라오 사원·목조 가옥과 프랑스 식민지 건축의 조화를 인정받아 유네스코 세계유산에 등재되었다. 등재는 도시 경관 보존에 도움이 되었고 이곳을 국가 문화 정체성과 관광의 중심으로 만들었다. 이후 관광이 급증하면서 지역 생활에 미치는 영향에 대한 우려도 커졌다.",
+    "zh": "1995年，旧王都琅勃拉邦因传统老挝寺庙、木屋与法国殖民建筑的融合而列入联合国教科文组织世界遗产。这一认定有助于保护古城风貌，并使其成为国家文化认同和旅游业的核心。此后游客激增，也引发了对当地生活所受影响的担忧。",
+    "ja": "1995年、旧王都ルアンパバーンは、伝統的なラーオの寺院や木造家屋とフランス植民地建築の融合が評価され、ユネスコ世界遺産に登録された。登録は町並みの保存に役立ち、この町を国の文化的アイデンティティと観光の中心にした。その後の観光客の急増により、地域の暮らしへの影響も懸念されている。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": "Q819",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Laos joins ASEAN",
+    "ko": "아세안 가입",
+    "zh": "老挝加入东盟",
+    "ja": "ASEAN加盟"
+   },
+   "description": {
+    "en": "In July 1997 Laos became a member of the Association of Southeast Asian Nations, together with Myanmar, ending decades of relative isolation and anchoring the country in regional economic integration. The same year the Asian financial crisis hit the Lao economy hard, as the kip lost much of its value against the dollar and Thai baht. Laos chaired ASEAN for the first time in 2004.",
+    "ko": "1997년 7월 라오스는 미얀마와 함께 동남아시아국가연합(아세안)에 가입해 수십 년의 상대적 고립을 끝내고 지역 경제 통합에 자리를 잡았다. 같은 해 아시아 금융 위기로 낍화가 달러와 태국 바트화에 대해 가치를 크게 잃으며 라오스 경제는 큰 타격을 입었다. 라오스는 2004년 처음으로 아세안 의장국을 맡았다.",
+    "zh": "1997年7月，老挝与缅甸一同加入东南亚国家联盟，结束了数十年的相对孤立，融入地区经济一体化。同年亚洲金融危机重创老挝经济，基普兑美元和泰铢大幅贬值。老挝于2004年首次担任东盟轮值主席国。",
+    "ja": "1997年7月、ラオスはミャンマーとともに東南アジア諸国連合（ASEAN）に加盟し、数十年にわたる相対的孤立を終えて地域経済統合に加わった。同年のアジア通貨危機ではキープがドルやタイ・バーツに対して大きく下落し、ラオス経済は大打撃を受けた。ラオスは2004年に初めてASEAN議長国を務めた。"
+   }
+  },
+  {
+   "year": 2001,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Vat Phou inscribed as World Heritage",
+    "ko": "왓푸 세계유산 등재",
+    "zh": "瓦普神庙列入世界遗产",
+    "ja": "ワット・プー、世界遺産に登録"
+   },
+   "description": {
+    "en": "In 2001 UNESCO inscribed Vat Phou and the associated ancient settlements within the Champasak cultural landscape on the World Heritage List. The site preserves a planned landscape of temples, shrines and waterworks laid out over more than a thousand years, expressing Hindu ideas of the relationship between nature and humanity. It became Laos's second World Heritage site.",
+    "ko": "2001년 유네스코는 짬빠삭 문화 경관 안의 왓푸와 관련 고대 취락을 세계유산 목록에 올렸다. 이 유적은 천 년 넘게 조성된 사원·성소·수리 시설의 계획된 경관을 간직하고 있으며, 자연과 인간의 관계에 대한 힌두교 관념을 드러낸다. 라오스의 두 번째 세계유산이 되었다.",
+    "zh": "2001年，联合国教科文组织将占巴塞文化景观中的瓦普神庙及相关古代聚落列入世界遗产名录。该遗址保存了一千多年间规划营建的神庙、祠堂和水利设施景观，体现了印度教关于自然与人类关系的观念。它成为老挝第二处世界遗产。",
+    "ja": "2001年、ユネスコはチャンパーサックの文化的景観にあるワット・プーと関連古代集落群を世界遺産リストに登録した。遺跡は千年以上にわたって造られた寺院・祠・水利施設の計画的景観を残し、自然と人間の関係をめぐるヒンドゥー教の観念を表している。ラオス2件目の世界遺産となった。"
+   }
+  },
+  {
+   "year": 2009,
+   "qid": "Q819",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Vientiane hosts the Southeast Asian Games",
+    "ko": "비엔티안 동남아시아 경기 대회 개최",
+    "zh": "万象举办东南亚运动会",
+    "ja": "ヴィエンチャンで東南アジア競技大会を開催"
+   },
+   "description": {
+    "en": "In December 2009 Laos hosted the 25th Southeast Asian Games in Vientiane, the first time the country had staged the regional multi-sport event. A new national stadium complex was built with Chinese assistance. The games were a source of national pride and coincided with the 50th anniversary of the event.",
+    "ko": "2009년 12월 라오스는 비엔티안에서 제25회 동남아시아 경기 대회를 열었는데, 이 지역 종합 스포츠 대회를 처음으로 개최한 것이었다. 중국의 지원으로 새 국립 경기장 단지가 건설되었다. 대회는 국민적 자부심의 원천이 되었고 대회 창설 50주년과 겹쳤다.",
+    "zh": "2009年12月，老挝在万象举办第25届东南亚运动会，这是该国首次承办这一地区综合性运动会。新的国家体育场综合体在中国援助下建成。运动会成为民族自豪感的来源，并恰逢该赛事创办50周年。",
+    "ja": "2009年12月、ラオスはヴィエンチャンで第25回東南アジア競技大会を開催した。この地域総合競技大会を同国が開催するのは初めてだった。中国の支援で新たな国立競技場施設が建設された。大会は国民の誇りとなり、大会創設50周年とも重なった。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": "Q819",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Nam Theun 2 and the 'battery of Southeast Asia'",
+    "ko": "남튼2 댐과 '동남아의 배터리'",
+    "zh": "南屯2号水电站与“东南亚蓄电池”",
+    "ja": "ナムトゥン2ダムと「東南アジアのバッテリー」"
+   },
+   "description": {
+    "en": "The Nam Theun 2 hydropower project in central Laos, backed by the World Bank and built mostly to export electricity to Thailand, began commercial operation in 2010. It became the flagship of a government strategy to turn Laos into the 'battery of Southeast Asia' through dozens of dams on the Mekong and its tributaries. Critics have pointed to displacement of villagers and damage to river ecosystems and fisheries.",
+    "ko": "세계은행의 지원을 받아 주로 태국에 전력을 수출하기 위해 건설된 라오스 중부의 남튼2 수력발전 사업이 2010년 상업 운전을 시작했다. 이는 메콩강과 지류에 수십 개의 댐을 지어 라오스를 '동남아시아의 배터리'로 만들려는 정부 전략의 대표 사업이 되었다. 비판자들은 주민 이주와 하천 생태계·어업 피해를 지적해 왔다.",
+    "zh": "由世界银行支持、主要为向泰国出口电力而建的老挝中部南屯2号水电项目于2010年开始商业运营。它成为政府通过在湄公河及其支流修建数十座水坝、将老挝打造为“东南亚蓄电池”战略的旗舰项目。批评者指出了村民搬迁以及对河流生态和渔业造成的损害。",
+    "ja": "世界銀行の支援を受け、主にタイへの電力輸出のために建設されたラオス中部のナムトゥン2水力発電事業が2010年に商業運転を開始した。これは、メコン川と支流に数十のダムを築いてラオスを「東南アジアのバッテリー」にする政府戦略の旗艦事業となった。批判者は住民の移転や河川生態系・漁業への被害を指摘してきた。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q819",
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Laos joins the World Trade Organization",
+    "ko": "라오스의 세계무역기구 가입",
+    "zh": "老挝加入世界贸易组织",
+    "ja": "ラオスのWTO加盟"
+   },
+   "description": {
+    "en": "After some fifteen years of negotiations, Laos became a member of the World Trade Organization in February 2013. Accession required reforms of trade, customs and investment laws and was seen as a further step in integrating the economy with regional and global markets. It came as Laos was posting some of the fastest growth rates in Asia, driven by mining and hydropower.",
+    "ko": "약 15년의 협상 끝에 라오스는 2013년 2월 세계무역기구 회원국이 되었다. 가입을 위해 무역·관세·투자 관련 법률을 개혁해야 했고, 이는 경제를 지역 및 세계 시장과 통합하는 한 단계로 여겨졌다. 당시 라오스는 광업과 수력발전에 힘입어 아시아에서 가장 빠른 성장률 가운데 하나를 기록하고 있었다.",
+    "zh": "经过约十五年的谈判，老挝于2013年2月成为世界贸易组织成员。入世要求改革贸易、海关和投资法规，被视为经济融入地区和全球市场的又一步。当时老挝在矿业和水电的带动下，增长速度位居亚洲前列。",
+    "ja": "約15年の交渉を経て、ラオスは2013年2月に世界貿易機関（WTO）の加盟国となった。加盟には貿易・関税・投資関連法の改革が必要で、経済を地域および世界市場と統合するさらなる一歩とみなされた。当時ラオスは鉱業と水力発電に牽引され、アジア有数の高成長を記録していた。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q15075468",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Lao Airlines Flight 301 crash",
+    "ko": "라오항공 301편 추락 사고",
+    "zh": "老挝航空301号班机空难",
+    "ja": "ラオス国営航空301便墜落事故"
+   },
+   "description": {
+    "en": "On 16 October 2013 a Lao Airlines ATR 72 flying from Vientiane to Pakse crashed into the Mekong River in bad weather while approaching Pakse, killing all 49 people on board. It was the deadliest air accident in the country's history. Many of the victims were foreign travellers.",
+    "ko": "2013년 10월 16일 비엔티안에서 팍세로 가던 라오항공 ATR 72기가 악천후 속에 팍세 접근 중 메콩강에 추락해 탑승자 49명 전원이 숨졌다. 라오스 역사상 최악의 항공 사고였다. 희생자 중 다수는 외국인 여행자였다.",
+    "zh": "2013年10月16日，一架由万象飞往巴色的老挝航空ATR 72客机在恶劣天气中进近巴色时坠入湄公河，机上49人全部遇难。这是老挝历史上最严重的空难。遇难者中有许多是外国旅客。",
+    "ja": "2013年10月16日、ヴィエンチャン発パクセー行きのラオス国営航空ATR 72型機が悪天候の中パクセーへの進入中にメコン川に墜落し、乗員乗客49人全員が死亡した。同国史上最悪の航空事故であった。犠牲者の多くは外国人旅行者だった。"
+   }
+  },
+  {
+   "year": 2016,
+   "qid": "Q23022275",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "ASEAN chairmanship and East Asia Summit in Vientiane",
+    "ko": "아세안 의장국과 비엔티안 동아시아 정상회의",
+    "zh": "东盟轮值主席与万象东亚峰会",
+    "ja": "ASEAN議長国とヴィエンチャンの東アジアサミット"
+   },
+   "description": {
+    "en": "As ASEAN chair in 2016, Laos hosted the ASEAN summits and the Eleventh East Asia Summit in Vientiane in September. Barack Obama attended, becoming the first sitting US president to visit Laos; he acknowledged the legacy of wartime bombing and pledged additional funding for clearing unexploded ordnance. The meetings were also marked by tensions over the South China Sea.",
+    "ko": "2016년 아세안 의장국 라오스는 9월 비엔티안에서 아세안 정상회의와 제11차 동아시아 정상회의를 열었다. 버락 오바마가 참석해 라오스를 방문한 첫 현직 미국 대통령이 되었으며, 전쟁 중 폭격의 유산을 인정하고 불발탄 제거 자금을 추가로 약속했다. 회의는 남중국해를 둘러싼 긴장 속에 열렸다.",
+    "zh": "2016年担任东盟轮值主席国的老挝于9月在万象主办东盟峰会和第十一届东亚峰会。巴拉克·奥巴马出席会议，成为首位访问老挝的在任美国总统；他承认战时轰炸留下的遗患，并承诺追加清除未爆弹药的资金。会议期间南海问题引发的紧张也十分突出。",
+    "ja": "2016年にASEAN議長国を務めたラオスは、9月にヴィエンチャンでASEAN首脳会議と第11回東アジアサミットを開催した。出席したバラク・オバマは現職米大統領として初めてラオスを訪れ、戦時中の爆撃の負の遺産を認めて不発弾除去への追加資金を約束した。会議は南シナ海をめぐる緊張の中で開かれた。"
+   }
+  },
+  {
+   "year": 2018,
+   "qid": "Q55739725",
+   "importance": 2,
+   "category": "disaster",
+   "title": {
+    "en": "Xe-Pian Xe-Namnoy dam collapse",
+    "ko": "세피안-세남노이 댐 붕괴",
+    "zh": "桑片-桑南内水电站大坝溃坝",
+    "ja": "セーピアン・セーナムノイダム決壊"
+   },
+   "description": {
+    "en": "On 23 July 2018 a saddle dam of the Xe-Pian Xe-Namnoy hydropower project in Attapeu province collapsed after heavy rains, releasing a flood that swept through villages downstream. Dozens of people were killed, many went missing and thousands were left homeless. The disaster prompted the government to review dam safety and slow approval of new projects.",
+    "ko": "2018년 7월 23일 아타프주에서 건설 중이던 세피안-세남노이 수력발전 사업의 보조 댐이 폭우 뒤 붕괴해 하류 마을들을 홍수가 휩쓸었다. 수십 명이 숨지고 많은 사람이 실종되었으며 수천 명이 집을 잃었다. 이 참사로 정부는 댐 안전성을 재검토하고 신규 사업 승인을 늦추었다.",
+    "zh": "2018年7月23日，阿速坡省桑片-桑南内水电项目的一座副坝在暴雨后溃决，洪水冲毁下游村庄。数十人遇难，许多人失踪，数千人无家可归。这场灾难促使政府重新审查水坝安全并放缓新项目审批。",
+    "ja": "2018年7月23日、アッタプー県のセーピアン・セーナムノイ水力発電事業の補助ダムが豪雨の後に決壊し、洪水が下流の村々を襲った。数十人が死亡し、多くが行方不明となり、数千人が家を失った。この災害を受けて政府はダムの安全性を見直し、新規事業の承認を減速させた。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Plain of Jars inscribed as World Heritage",
+    "ko": "항아리 평원 세계유산 등재",
+    "zh": "石缸平原列入世界遗产",
+    "ja": "ジャール平原、世界遺産に登録"
+   },
+   "description": {
+    "en": "In July 2019 UNESCO inscribed the Megalithic Jar Sites in Xiengkhuang – Plain of Jars on the World Heritage List. The listing covers fifteen sites containing thousands of Iron Age stone jars, discs and quarries. The area was heavily bombed during the Vietnam War, and only cleared areas can be visited because of unexploded ordnance.",
+    "ko": "2019년 7월 유네스코는 '시앙쿠앙의 거석 항아리 유적 – 항아리 평원'을 세계유산 목록에 올렸다. 등재 범위는 철기 시대의 돌항아리와 원반석, 채석장 수천 점을 품은 15개 유적이다. 이 지역은 베트남 전쟁 때 집중 폭격을 받아 불발탄 때문에 제거 작업이 끝난 구역만 관람할 수 있다.",
+    "zh": "2019年7月，联合国教科文组织将“川圹巨石石缸遗址——石缸平原”列入世界遗产名录。列入范围包括十五处遗址，有数千件铁器时代的石缸、石盘和采石场。该地区在越南战争期间遭到猛烈轰炸，由于未爆弹药的存在，只有已清理的区域可供参观。",
+    "ja": "2019年7月、ユネスコは「シエンクワンの巨石壺遺跡群―ジャール平原」を世界遺産リストに登録した。登録範囲は、鉄器時代の石壺や円盤石、石切場を数千点含む15の遺跡である。この地域はベトナム戦争中に激しく爆撃されたため、不発弾の除去が済んだ区域しか見学できない。"
+   }
+  },
+  {
+   "year": 2019,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Xayaburi Dam on the Mekong mainstream",
+    "ko": "메콩강 본류의 사이냐부리 댐",
+    "zh": "湄公河干流的沙耶武里水坝",
+    "ja": "メコン本流のサイニャブリーダム"
+   },
+   "description": {
+    "en": "In October 2019 the Xayaburi Dam, the first hydropower dam on the lower Mekong mainstream, began commercial operation, selling most of its power to Thailand. Downstream countries and environmental groups had opposed it over its effects on fish migration and sediment flows. Together with the Don Sahong dam, it marked Laos's push to harness the Mekong itself.",
+    "ko": "2019년 10월 메콩강 하류 본류의 첫 수력발전 댐인 사이냐부리 댐이 상업 운전을 시작해 전력 대부분을 태국에 팔았다. 하류 국가들과 환경 단체는 물고기 회유와 퇴적물 흐름에 미칠 영향을 이유로 반대해 왔다. 돈사홍 댐과 함께 이는 메콩강 본류 자체를 활용하려는 라오스의 행보를 상징했다.",
+    "zh": "2019年10月，湄公河下游干流上的第一座水电站沙耶武里水坝投入商业运营，所发电力大部分售往泰国。下游国家和环保组织曾以影响鱼类洄游和泥沙输送为由表示反对。它与栋沙宏水坝一道，标志着老挝开发湄公河干流本身的努力。",
+    "ja": "2019年10月、メコン川下流本流で初の水力発電ダムであるサイニャブリーダムが商業運転を開始し、電力の大半をタイに売った。下流諸国や環境団体は魚の回遊や土砂の流れへの影響を理由に反対していた。ドンサホンダムとともに、メコン本流そのものを活用しようとするラオスの動きを象徴した。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q88521330",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "COVID-19 pandemic in Laos",
+    "ko": "라오스의 코로나19 범유행",
+    "zh": "老挝的新冠疫情",
+    "ja": "ラオスの新型コロナウイルス流行"
+   },
+   "description": {
+    "en": "Laos confirmed its first COVID-19 cases in March 2020 and imposed strict lockdowns and border closures that kept infections low through 2020. A larger wave arrived in 2021, after which vaccination expanded with substantial donations from China and other partners. The closure of borders and collapse of tourism deepened the country's economic and debt difficulties.",
+    "ko": "라오스는 2020년 3월 첫 코로나19 확진자를 확인하고 엄격한 봉쇄와 국경 폐쇄를 시행해 2020년 내내 감염을 낮게 유지했다. 2021년 더 큰 유행이 닥친 뒤 중국 등 협력국의 대규모 기증으로 백신 접종이 확대되었다. 국경 폐쇄와 관광 붕괴는 나라의 경제난과 부채 문제를 심화시켰다.",
+    "zh": "老挝于2020年3月确诊首批新冠病例，随即实施严格封锁和边境关闭，使2020年全年感染人数保持在低位。2021年出现较大规模疫情，此后在中国等伙伴大量捐赠下扩大了疫苗接种。边境关闭和旅游业崩溃加剧了该国的经济和债务困境。",
+    "ja": "ラオスは2020年3月に最初の新型コロナ感染者を確認し、厳格なロックダウンと国境封鎖を実施して2020年中は感染を低く抑えた。2021年により大きな流行が起きた後、中国などからの大量の寄贈によりワクチン接種が拡大した。国境封鎖と観光の崩壊は、同国の経済難と債務問題を深刻化させた。"
+   }
+  },
+  {
+   "year": 2021,
+   "qid": "Q819",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Laos-China Railway opens",
+    "ko": "라오스-중국 철도 개통",
+    "zh": "中老铁路通车",
+    "ja": "ラオス・中国鉄道の開通"
+   },
+   "description": {
+    "en": "On 3 December 2021 the Laos-China Railway, a roughly 1,000-km line linking Vientiane with Kunming built under China's Belt and Road Initiative, opened to traffic. The government promoted it as a way to transform landlocked Laos into a 'land-linked' hub. The project's cost, largely financed by Chinese loans, has raised concerns about the country's debt burden.",
+    "ko": "2021년 12월 3일 중국의 일대일로 구상에 따라 건설되어 비엔티안과 쿤밍을 잇는 약 1,000km의 라오스-중국 철도가 개통되었다. 정부는 이를 내륙국 라오스를 '육상 연결' 허브로 바꾸는 수단으로 홍보했다. 주로 중국 차관으로 조달된 사업비는 나라의 부채 부담에 대한 우려를 낳았다.",
+    "zh": "2021年12月3日，依托中国“一带一路”倡议修建、连接万象与昆明、全长约1000公里的中老铁路开通运营。老挝政府将其宣传为把内陆国变为“陆联国”枢纽的途径。项目费用主要依靠中国贷款，引发了对该国债务负担的担忧。",
+    "ja": "2021年12月3日、中国の一帯一路構想のもとで建設され、ヴィエンチャンと昆明を結ぶ約1,000キロのラオス・中国鉄道が開通した。政府はこれを内陸国ラオスを「陸でつながる」ハブに変える手段として宣伝した。主に中国の融資で賄われた事業費は、同国の債務負担への懸念を招いた。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q819",
+   "importance": 2,
+   "category": "economy",
+   "title": {
+    "en": "Debt crisis and soaring inflation",
+    "ko": "부채 위기와 물가 급등",
+    "zh": "债务危机与通胀飙升",
+    "ja": "債務危機とインフレの急騰"
+   },
+   "description": {
+    "en": "In 2022 Laos faced a severe economic crisis as heavy external debt, much of it owed to China for power and rail projects, combined with the pandemic and global price shocks. The kip lost much of its value, fuel shortages appeared, and inflation reached its highest levels in more than two decades in late 2022 and early 2023. The government negotiated debt deferrals and sought to stabilize the currency.",
+    "ko": "2022년 라오스는 전력·철도 사업으로 주로 중국에 진 막대한 대외 부채가 팬데믹, 세계적 물가 충격과 겹치며 심각한 경제 위기를 맞았다. 낍화 가치가 크게 떨어지고 연료 부족이 나타났으며, 2022년 말과 2023년 초 물가 상승률은 20여 년 만의 최고치를 기록했다. 정부는 부채 상환 유예를 협상하고 통화 안정에 나섰다.",
+    "zh": "2022年，老挝因主要欠中国的电力和铁路项目外债高企，叠加疫情和全球价格冲击，陷入严重经济危机。基普大幅贬值，燃油短缺出现，2022年底至2023年初通胀率升至二十多年来最高水平。政府通过谈判推迟偿债，并设法稳定货币。",
+    "ja": "2022年、ラオスは電力・鉄道事業で主に中国に負った巨額の対外債務がパンデミックや世界的な物価ショックと重なり、深刻な経済危機に直面した。キープは大きく下落し燃料不足が生じ、インフレ率は2022年末から2023年初めにかけて20年以上ぶりの高水準に達した。政府は債務返済の猶予を交渉し、通貨の安定化を図った。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q819",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Laos chairs ASEAN for the third time",
+    "ko": "세 번째 아세안 의장국을 맡은 라오스",
+    "zh": "老挝第三次担任东盟轮值主席国",
+    "ja": "ラオス、3度目のASEAN議長国に"
+   },
+   "description": {
+    "en": "In 2024 Laos held the rotating ASEAN chairmanship under the theme of enhancing connectivity and resilience, hosting the ASEAN and East Asia summits in Vientiane in October. The meetings focused on the civil war in Myanmar and on tensions in the South China Sea. It was the country's third turn as chair, after 2004 and 2016.",
+    "ko": "2024년 라오스는 '연결성과 회복력 강화'를 주제로 아세안 순회 의장국을 맡아 10월 비엔티안에서 아세안 및 동아시아 정상회의를 열었다. 회의는 미얀마 내전과 남중국해 긴장에 초점을 맞추었다. 2004년, 2016년에 이은 세 번째 의장국 수임이었다.",
+    "zh": "2024年，老挝以“加强互联互通与韧性”为主题担任东盟轮值主席国，并于10月在万象主办东盟峰会和东亚峰会。会议聚焦缅甸内战和南海紧张局势。这是老挝继2004年和2016年之后第三次担任主席国。",
+    "ja": "2024年、ラオスは「連結性と強靭性の強化」をテーマにASEANの輪番議長国を務め、10月にヴィエンチャンでASEAN首脳会議と東アジアサミットを開催した。会議ではミャンマー内戦と南シナ海の緊張が焦点となった。2004年、2016年に続く3度目の議長国であった。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": "Q131302592",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Methanol poisoning in Vang Vieng",
+    "ko": "방비엥 메탄올 중독 사건",
+    "zh": "万荣甲醇中毒事件",
+    "ja": "バンビエンのメタノール中毒事件"
+   },
+   "description": {
+    "en": "In November 2024 several foreign tourists who had stayed in the backpacker town of Vang Vieng died of methanol poisoning, apparently from adulterated alcoholic drinks, and others were hospitalized. The deaths drew wide international attention and led Lao authorities to detain staff of a hostel and inspect alcohol sold to tourists. The case highlighted the dangers of illicit spirits in the region.",
+    "ko": "2024년 11월 배낭여행지 방비엥에 머물던 외국인 관광객 여러 명이 불량 주류로 보이는 술로 인한 메탄올 중독으로 숨지고 다른 이들도 입원했다. 이 사망 사건은 국제적으로 큰 주목을 받았고, 라오스 당국은 호스텔 직원들을 구금하고 관광객에게 팔리는 술을 점검했다. 이 사건은 지역에 퍼진 불법 주류의 위험을 부각했다.",
+    "zh": "2024年11月，数名曾在背包客小镇万荣住宿的外国游客因甲醇中毒死亡，原因疑为掺假酒精饮料，另有多人住院。这些死亡事件引起国际社会广泛关注，老挝当局拘留了一家青年旅舍的员工，并检查向游客出售的酒类。事件凸显了该地区非法烈酒的危险。",
+    "ja": "2024年11月、バックパッカーの町バンビエンに滞在していた外国人観光客数人が、粗悪な酒類によるとみられるメタノール中毒で死亡し、ほかにも入院者が出た。この事件は国際的に大きな注目を集め、ラオス当局はホステルの従業員を拘束し、観光客向けの酒類を検査した。地域に出回る違法な酒の危険が浮き彫りになった。"
+   }
+  }
+ ]
+}

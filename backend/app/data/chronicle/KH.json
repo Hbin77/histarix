@@ -1,0 +1,2311 @@
+{
+ "iso": "KH",
+ "eras": [
+  {
+   "from": -5000,
+   "to": -501,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Neolithic and Bronze Age Cambodia",
+    "ko": "캄보디아의 신석기·청동기 시대",
+    "zh": "柬埔寨新石器与青铜时代",
+    "ja": "カンボジアの新石器・青銅器時代"
+   },
+   "summary": {
+    "en": "Caves such as Laang Spean in Battambang preserve a long sequence of hunter-gatherer and later Neolithic occupation, while open villages like Samrong Sen near the Tonle Sap and the circular earthwork settlements of the eastern red-soil plateau show farming communities making pottery and polished stone tools. Bronze working spread into the region in the late second millennium BC. These communities laid the agricultural foundations of later Khmer society.",
+    "ko": "바탐방의 라앙스피안 같은 동굴에는 수렵채집민과 이후 신석기인의 오랜 거주 흔적이 남아 있으며, 톤레삽 호수 인근의 삼롱센 유적과 동부 적토 고원의 원형 토루 취락은 토기와 간석기를 만들던 농경 공동체의 모습을 보여 준다. 기원전 2천년기 후반에는 청동 제작 기술이 이 지역에 전해졌다. 이들 공동체는 훗날 크메르 사회의 농업적 기반을 닦았다.",
+    "zh": "马德望的朗斯边洞穴等遗址保存了狩猎采集者及其后新石器时代人群长期居住的遗迹，洞里萨湖附近的三隆森遗址和东部红土高原的环形土垣聚落则展现了制作陶器与磨制石器的农耕社会。公元前二千纪后期，青铜冶铸技术传入该地区。这些社群为后来高棉社会的农业奠定了基础。",
+    "ja": "バッタンバンのラアン・スピアン洞窟などには狩猟採集民と後の新石器時代人の長い居住の跡が残り、トンレサップ湖近くのサムロンセン遺跡や東部赤土台地の円形土塁集落は、土器や磨製石器を作る農耕社会の姿を伝える。紀元前2千年紀後半には青銅器製作が伝わった。これらの社会が後のクメール社会の農業的基盤を築いた。"
+   }
+  },
+  {
+   "from": -500,
+   "to": 50,
+   "kind": "culture",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Iron Age Cambodia",
+    "ko": "캄보디아의 철기 시대",
+    "zh": "柬埔寨铁器时代",
+    "ja": "カンボジアの鉄器時代"
+   },
+   "summary": {
+    "en": "From around 500 BC iron tools and weapons spread through the Mekong lowlands and the Tonle Sap basin. Cemeteries such as Phum Snay in the northwest and Prohear in the southeast reveal growing social differences, wet-rice farming and exchange networks that brought glass and carnelian beads from South Asia. Settlements like Angkor Borei in the Mekong delta grew into the centres from which the first states emerged.",
+    "ko": "기원전 500년 무렵부터 철제 도구와 무기가 메콩 저지대와 톤레삽 분지에 퍼졌다. 북서부의 품스나이, 남동부의 프로히어 같은 묘지 유적은 사회적 위계의 심화, 수전 농업, 그리고 남아시아산 유리·홍옥수 구슬이 들어온 교역망을 보여 준다. 메콩 삼각주의 앙코르보레이 같은 취락은 최초의 국가가 탄생하는 중심지로 성장했다.",
+    "zh": "约公元前500年起，铁制工具和武器在湄公河低地和洞里萨盆地普及。西北部的蓬斯奈、东南部的普罗希尔等墓地显示出社会分化加剧、水稻种植发展，以及输入南亚玻璃珠和红玉髓珠的交换网络。湄公河三角洲的吴哥波雷等聚落逐渐成长为最早国家兴起的中心。",
+    "ja": "紀元前500年頃から鉄製の道具や武器がメコン低地とトンレサップ盆地に広まった。北西部のプム・スナイ、南東部のプロヒアなどの墓地遺跡は、社会階層の分化、水稲耕作、南アジア産のガラス玉や紅玉髄の玉をもたらした交易網を示している。メコンデルタのアンコール・ボレイなどの集落は、最初の国家が生まれる中心地へと成長した。"
+   }
+  },
+  {
+   "from": 51,
+   "to": 640,
+   "kind": "state",
+   "qid": "Q867782",
+   "polity": "Funan",
+   "name": {
+    "en": "Funan",
+    "ko": "부남(푸난)",
+    "zh": "扶南",
+    "ja": "扶南"
+   },
+   "summary": {
+    "en": "Funan, known mainly from Chinese records, was an early Indianized kingdom centred on the lower Mekong and its delta, with Angkor Borei as an inland centre and Oc Eo as its great trading port. It linked maritime trade between India and China, adopted Sanskrit, Hinduism and Buddhism, and built canals across the delta. In the 6th and 7th centuries it was absorbed by Chenla, but it is remembered as the first chapter of Khmer statehood.",
+    "ko": "주로 중국 사서를 통해 알려진 부남은 메콩강 하류와 삼각주를 중심으로 한 초기 인도화 왕국으로, 내륙의 앙코르보레이와 대교역항 옥에오를 거점으로 삼았다. 인도와 중국을 잇는 해상 교역을 매개하며 산스크리트어, 힌두교, 불교를 받아들였고 삼각주에 운하를 건설했다. 6~7세기에 진랍에 흡수되었지만 크메르 국가의 첫 장으로 기억된다.",
+    "zh": "扶南主要见于中国史籍，是以湄公河下游及三角洲为中心的早期印度化王国，内陆有吴哥波雷，海港则以俄厄最为繁盛。它居间联系印度与中国之间的海上贸易，接受梵语、印度教和佛教，并在三角洲开凿运河。6至7世纪扶南被真腊吞并，但被视为高棉国家历史的开端。",
+    "ja": "主に中国史料から知られる扶南は、メコン川下流とデルタを中心とする初期のインド化王国で、内陸のアンコール・ボレイと大交易港オケオを拠点とした。インドと中国を結ぶ海上交易を仲介し、サンスクリット語、ヒンドゥー教、仏教を受け入れ、デルタに運河を築いた。6〜7世紀に真臘に吸収されたが、クメール国家の最初の章として記憶されている。"
+   }
+  },
+  {
+   "from": 550,
+   "to": 706,
+   "kind": "state",
+   "qid": "Q1057118",
+   "polity": "Chenla",
+   "name": {
+    "en": "Chenla",
+    "ko": "진랍(첸라)",
+    "zh": "真腊",
+    "ja": "真臘"
+   },
+   "summary": {
+    "en": "Chenla was a Khmer kingdom that arose in the middle Mekong and expanded south, overtaking Funan by the 7th century. Under kings such as Mahendravarman, Isanavarman I and Jayavarman I it built brick temple complexes like Sambor Prei Kuk (Isanapura) and left the earliest inscriptions in the Khmer language. Its political unity weakened after the late 7th century.",
+    "ko": "진랍은 메콩강 중류에서 일어나 남쪽으로 세력을 넓힌 크메르인의 왕국으로, 7세기까지 부남을 대신했다. 마헨드라바르만, 이샤나바르만 1세, 자야바르만 1세 등의 왕 아래 삼보르 프레이 쿡(이샤나푸라) 같은 벽돌 사원군을 세웠고, 크메르어로 된 최초의 비문을 남겼다. 7세기 말 이후 정치적 통일은 약해졌다.",
+    "zh": "真腊是在湄公河中游兴起、向南扩张的高棉王国，至7世纪取代扶南。在质多斯那（摩诃因陀罗跋摩）、伊奢那跋摩一世、阇耶跋摩一世等君主统治下，它修建了三波坡雷古（伊奢那补罗）等砖砌神庙群，并留下最早的高棉语碑铭。7世纪末以后其政治统一逐渐瓦解。",
+    "ja": "真臘はメコン川中流に興り南へ勢力を広げたクメール人の王国で、7世紀までに扶南に取って代わった。マヘンドラヴァルマン、イーシャーナヴァルマン1世、ジャヤーヴァルマン1世らの王のもとでサンボー・プレイ・クック（イーシャーナプラ）などの煉瓦造寺院群を築き、クメール語による最古の碑文を残した。7世紀末以降、政治的統一は弱まった。"
+   }
+  },
+  {
+   "from": 707,
+   "to": 802,
+   "kind": "state",
+   "qid": null,
+   "polity": "Land Chenla",
+   "name": {
+    "en": "Land Chenla",
+    "ko": "육진랍",
+    "zh": "陆真腊",
+    "ja": "陸真臘"
+   },
+   "summary": {
+    "en": "Chinese sources describe how Chenla split in the early 8th century into an upland 'Land Chenla' in the north, reaching into present-day Laos, and a lowland 'Water Chenla' in the south. Land Chenla sent embassies to Tang China and remained a loose collection of principalities. The division ended when Jayavarman II reunited the Khmer lands.",
+    "ko": "중국 사서에 따르면 진랍은 8세기 초 북쪽 고지대의 '육진랍'과 남쪽 저지대의 '수진랍'으로 나뉘었으며, 육진랍은 오늘날 라오스 지역까지 걸쳐 있었다. 육진랍은 당나라에 사신을 보냈고 느슨한 소국 연합 상태로 남았다. 이 분열은 자야바르만 2세가 크메르 땅을 재통일하면서 끝났다.",
+    "zh": "据中国史籍记载，真腊在8世纪初分裂为北部高地的“陆真腊”（又称文单）和南部低地的“水真腊”，陆真腊的范围延伸至今老挝境内。陆真腊曾多次遣使唐朝，内部是松散的诸侯联合。阇耶跋摩二世重新统一高棉之地后，分裂局面结束。",
+    "ja": "中国史料によれば、真臘は8世紀初めに北部高地の「陸真臘」と南部低地の「水真臘」に分裂し、陸真臘は現在のラオスにまで及んでいた。陸真臘は唐に使節を送り、ゆるやかな小国連合の状態にあった。この分裂はジャヤーヴァルマン2世がクメールの地を再統一して終わった。"
+   }
+  },
+  {
+   "from": 707,
+   "to": 802,
+   "kind": "state",
+   "qid": null,
+   "polity": "Water Chenla",
+   "name": {
+    "en": "Water Chenla",
+    "ko": "수진랍",
+    "zh": "水真腊",
+    "ja": "水真臘"
+   },
+   "summary": {
+    "en": "Water Chenla occupied the lowlands of the Mekong, the Tonle Sap and the delta after Chenla's division. Its rival courts were weak, and Javanese or Sumatran maritime powers appear to have exerted influence over the region in the 8th century. Out of this fragmented world emerged the prince who would found the Angkorian state.",
+    "ko": "수진랍은 진랍 분열 이후 메콩강·톤레삽·삼각주의 저지대를 차지했다. 여러 왕실이 경쟁하며 힘이 약했고, 8세기에는 자와나 수마트라의 해상 세력이 이 지역에 영향력을 행사한 것으로 보인다. 이 분열된 세계에서 앙코르 국가를 세울 왕자가 등장했다.",
+    "zh": "真腊分裂后，水真腊占据湄公河、洞里萨湖及三角洲的低地。其内部诸王廷互相争衡、实力薄弱，8世纪时爪哇或苏门答腊的海上势力似乎对该地区施加了影响。正是在这一分裂的局面中，诞生了日后建立吴哥国家的王子。",
+    "ja": "水真臘は真臘の分裂後、メコン川・トンレサップ・デルタの低地を占めた。複数の王家が競い合って力は弱く、8世紀にはジャワやスマトラの海上勢力がこの地域に影響を及ぼしたとみられる。この分裂した世界から、アンコール国家を築く王子が現れた。"
+   }
+  },
+  {
+   "from": 802,
+   "to": 1431,
+   "kind": "state",
+   "qid": "Q201705",
+   "polity": "Khmer Empire",
+   "name": {
+    "en": "Khmer Empire (Angkor)",
+    "ko": "크메르 제국(앙코르 왕조)",
+    "zh": "高棉帝国（吴哥王朝）",
+    "ja": "クメール王朝（アンコール朝）"
+   },
+   "summary": {
+    "en": "From its capital region at Angkor north of the Tonle Sap, the Khmer Empire dominated much of mainland Southeast Asia for over five centuries, at times ruling much of present-day Thailand, Laos and southern Vietnam. Its god-kings built vast reservoirs, road networks and temple-mountains including Angkor Wat and the Bayon. Hinduism gave way to Mahayana and then Theravada Buddhism, and the empire declined in the 14th and 15th centuries under pressure from Ayutthaya and internal change.",
+    "ko": "톤레삽 호수 북쪽 앙코르를 수도권으로 한 크메르 제국은 5세기 넘게 동남아시아 대륙부 상당 부분을 지배했으며, 한때 오늘날 태국·라오스·베트남 남부의 많은 지역을 다스렸다. 신왕들은 거대한 저수지, 도로망, 그리고 앙코르 와트와 바욘 같은 사원산을 건설했다. 힌두교는 대승불교를 거쳐 상좌부 불교로 바뀌었고, 제국은 14~15세기 아유타야의 압력과 내부 변화 속에 쇠퇴했다.",
+    "zh": "高棉帝国以洞里萨湖北岸的吴哥为都城，五百余年间称雄中南半岛大部，一度统治今泰国、老挝及越南南部的广大地区。历代“神王”修建了巨大的水库、道路网以及吴哥窟、巴戎寺等山形神庙。宗教由印度教转向大乘佛教，再转向上座部佛教；14至15世纪，在阿瑜陀耶的压力和内部变迁下，帝国走向衰落。",
+    "ja": "トンレサップ湖北岸のアンコールを王都としたクメール王朝は、5世紀以上にわたり大陸部東南アジアの多くを支配し、一時は現在のタイ、ラオス、ベトナム南部の広い地域を治めた。神王たちは巨大な貯水池や道路網、アンコール・ワットやバイヨンなどの寺院山を築いた。ヒンドゥー教は大乗仏教、さらに上座部仏教へと移り変わり、王朝は14〜15世紀にアユタヤの圧力と内部の変化の中で衰退した。"
+   }
+  },
+  {
+   "from": 1431,
+   "to": 1594,
+   "kind": "period",
+   "qid": "Q4919413",
+   "polity": null,
+   "name": {
+    "en": "Post-Angkor era: Srei Santhor, Phnom Penh and Longvek",
+    "ko": "후앙코르 시대: 스레이산토르·프놈펜·롱벡",
+    "zh": "后吴哥时代：斯雷桑托、金边与洛韦",
+    "ja": "ポスト・アンコール期：スレイ・サントー、プノンペン、ロンヴェーク"
+   },
+   "summary": {
+    "en": "After the fall of Angkor the Khmer court moved south to the Mekong around Srei Santhor, Phnom Penh and later Longvek, closer to riverine and maritime trade. Theravada Buddhism and Khmer literature flourished, and Angkor Wat remained a Buddhist pilgrimage site. Repeated wars with Ayutthaya culminated in the capture of Longvek in 1594.",
+    "ko": "앙코르 함락 후 크메르 왕실은 하천·해상 교역에 가까운 남쪽 메콩강 유역의 스레이산토르, 프놈펜, 이후 롱벡으로 옮겨 갔다. 상좌부 불교와 크메르 문학이 꽃피었고 앙코르 와트는 불교 순례지로 남았다. 아유타야와의 거듭된 전쟁은 1594년 롱벡 함락으로 이어졌다.",
+    "zh": "吴哥陷落后，高棉王廷南迁至湄公河畔的斯雷桑托、金边，后又迁往洛韦，更接近河运与海上贸易。上座部佛教与高棉文学兴盛，吴哥窟则成为佛教朝圣地。与阿瑜陀耶的反复战争最终导致洛韦于1594年失陷。",
+    "ja": "アンコール陥落後、クメール王室は河川・海上交易に近い南のメコン川流域、スレイ・サントー、プノンペン、のちにロンヴェークへと移った。上座部仏教とクメール文学が栄え、アンコール・ワットは仏教の巡礼地として残った。アユタヤとの度重なる戦争は1594年のロンヴェーク陥落に至った。"
+   }
+  },
+  {
+   "from": 1594,
+   "to": 1863,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Oudong era: Cambodia between Siam and Vietnam",
+    "ko": "우동 시대: 시암과 베트남 사이의 캄보디아",
+    "zh": "乌栋时代：夹在暹罗与越南之间的柬埔寨",
+    "ja": "ウドン時代：シャムとベトナムの間のカンボジア"
+   },
+   "summary": {
+    "en": "From the early 17th century the kings ruled from Oudong, while rival princes sought backing from Ayutthaya (later Bangkok) or the Nguyễn lords of Huế. Cambodia lost the Mekong delta, including Prey Nokor (Saigon), to Vietnamese settlement and control, and Siam took the northwest. Succession struggles and repeated Siamese–Vietnamese wars left the kingdom under double suzerainty by the mid-19th century.",
+    "ko": "17세기 초부터 국왕들은 우동에서 다스렸고, 경쟁하는 왕자들은 아유타야(이후 방콕)나 후에의 응우옌 군주에게 후원을 구했다. 캄보디아는 프레이노코르(사이공)를 포함한 메콩 삼각주를 베트남인의 이주와 지배에 내주었고, 북서부는 시암이 차지했다. 왕위 다툼과 거듭된 시암·베트남 전쟁으로 19세기 중엽 왕국은 양국의 이중 종주권 아래 놓였다.",
+    "zh": "17世纪初起，国王以乌栋为都，而争位的王子们则分别寻求阿瑜陀耶（后为曼谷）或顺化阮主的支持。柬埔寨丧失了包括波雷诺哥（西贡）在内的湄公河三角洲，越南移民和统治随之推进，西北部则被暹罗占据。王位纷争与暹越之间的反复战争，使王国到19世纪中叶处于两国的双重宗主权之下。",
+    "ja": "17世紀初めから国王はウドンを都として統治したが、争う王子たちはアユタヤ（のちバンコク）やフエの阮氏に後ろ盾を求めた。カンボジアはプレイノコール（サイゴン）を含むメコンデルタをベトナム人の入植と支配に奪われ、北西部はシャムに取られた。王位争いとシャム・ベトナム間の度重なる戦争により、19世紀半ばには王国は両国の二重の宗主権下に置かれた。"
+   }
+  },
+  {
+   "from": 1795,
+   "to": 1907,
+   "kind": "state",
+   "qid": "Q1155700",
+   "polity": "Rattanakosin Kingdom",
+   "name": {
+    "en": "Siamese rule in Battambang and Siem Reap",
+    "ko": "바탐방·시엠레아프의 시암 지배",
+    "zh": "暹罗统治下的马德望与暹粒",
+    "ja": "シャム支配下のバッタンバンとシェムリアップ"
+   },
+   "summary": {
+    "en": "From 1795 the northwestern provinces of Battambang and Siem Reap, including Angkor, were administered for Bangkok's Rattanakosin Kingdom by a hereditary governor's family. Siam also crowned and protected several Cambodian kings in this period. The provinces were returned to French-protected Cambodia under the Franco-Siamese treaty of 1907.",
+    "ko": "1795년부터 앙코르를 포함한 북서부 바탐방·시엠레아프 지방은 세습 총독 가문이 방콕의 라타나코신 왕국을 대신해 다스렸다. 이 시기 시암은 여러 캄보디아 국왕을 즉위시키고 보호하기도 했다. 이들 지방은 1907년 프랑스·시암 조약으로 프랑스 보호령 캄보디아에 반환되었다.",
+    "zh": "自1795年起，包括吴哥在内的西北部马德望、暹粒等地由一个世袭总督家族代表曼谷的拉达那哥欣王朝管辖。这一时期暹罗还多次为柬埔寨国王加冕并予以庇护。根据1907年的法暹条约，这些省份归还给法国保护下的柬埔寨。",
+    "ja": "1795年から、アンコールを含む北西部のバッタンバン・シェムリアップ地方は、世襲の総督家がバンコクのラタナコーシン朝に代わって統治した。この時期シャムは何人かのカンボジア国王を即位させ保護もした。これらの州は1907年のフランス・シャム条約によりフランス保護下のカンボジアに返還された。"
+   }
+  },
+  {
+   "from": 1834,
+   "to": 1847,
+   "kind": "period",
+   "qid": null,
+   "polity": null,
+   "name": {
+    "en": "Vietnamese domination (Trấn Tây)",
+    "ko": "베트남의 지배(진서성)",
+    "zh": "越南统治时期（镇西城）",
+    "ja": "ベトナム支配期（鎮西城）"
+   },
+   "summary": {
+    "en": "After the Siamese–Vietnamese war of 1831–34, Emperor Minh Mạng's Vietnam placed Cambodia under direct administration as the province of Trấn Tây, with Queen Ang Mey as a figurehead. Vietnamese officials imposed their administration and customs, provoking a widespread Khmer uprising in 1840. Renewed war with Siam ended in a compromise that put Ang Duong on the throne under joint protection.",
+    "ko": "1831~34년 시암·베트남 전쟁 후, 민망 황제의 베트남은 앙 메이 여왕을 명목상 군주로 두고 캄보디아를 진서성(쩐떠이)으로 직접 통치했다. 베트남 관리들이 자국식 행정과 관습을 강요하자 1840년 크메르인의 대규모 봉기가 일어났다. 시암과의 재전쟁은 앙 두엉을 양국 공동 보호 아래 즉위시키는 타협으로 끝났다.",
+    "zh": "1831至1834年暹越战争后，明命帝治下的越南以安眉女王为名义君主，将柬埔寨置于直接管辖之下，设为镇西城。越南官员推行越式行政与风俗，激起1840年高棉人的大规模起义。与暹罗的再度战争最终以妥协告终：安东在两国共同保护下登上王位。",
+    "ja": "1831〜34年のシャム・ベトナム戦争の後、明命帝のベトナムはアン・メイ女王を名目上の君主に据え、カンボジアを鎮西城として直接統治した。ベトナム人官吏が自国式の行政と風俗を押し付けたため、1840年にクメール人の大規模な反乱が起きた。シャムとの再度の戦争は、アン・ドゥオンを両国の共同保護下で即位させる妥協で終わった。"
+   }
+  },
+  {
+   "from": 1863,
+   "to": 1953,
+   "kind": "colonial",
+   "qid": "Q185682",
+   "polity": "French Indochina",
+   "name": {
+    "en": "French protectorate of Cambodia (French Indochina)",
+    "ko": "프랑스 보호령 캄보디아(프랑스령 인도차이나)",
+    "zh": "法国保护国柬埔寨（法属印度支那）",
+    "ja": "フランス保護国カンボジア（仏領インドシナ）"
+   },
+   "summary": {
+    "en": "King Norodom accepted a French protectorate in 1863, and from 1887 Cambodia formed part of French Indochina, with real power held by French Residents. The French reorganized taxation and administration, built roads and rubber plantations, restored Angkor through archaeological work, and in 1907 regained the northwestern provinces from Siam. A small nationalist movement grew from the 1930s, and the Japanese occupation of World War II weakened French authority.",
+    "ko": "노로돔 국왕은 1863년 프랑스 보호령을 받아들였고, 1887년부터 캄보디아는 프랑스령 인도차이나의 일부가 되어 실권은 프랑스 고등 주재관이 쥐었다. 프랑스는 조세와 행정을 개편하고 도로와 고무 농장을 건설했으며, 고고학 작업으로 앙코르를 복원하고 1907년 시암으로부터 북서부 지방을 되찾았다. 1930년대부터 소규모 민족주의 운동이 성장했고, 제2차 세계대전기의 일본 점령은 프랑스의 권위를 약화시켰다.",
+    "zh": "诺罗敦国王于1863年接受法国保护，自1887年起柬埔寨成为法属印度支那的一部分，实权掌握在法国驻扎官手中。法国改组税收与行政，修建道路和橡胶种植园，通过考古工作修复吴哥，并于1907年从暹罗收回西北各省。20世纪30年代起小规模民族主义运动兴起，二战期间日本的占领削弱了法国的权威。",
+    "ja": "ノロドム王は1863年にフランスの保護を受け入れ、1887年からカンボジアは仏領インドシナの一部となり、実権はフランス理事長官が握った。フランスは税制と行政を再編し、道路やゴム農園を整備し、考古学的作業によってアンコールを修復し、1907年にはシャムから北西部諸州を取り戻した。1930年代から小規模な民族主義運動が育ち、第二次世界大戦中の日本の進駐はフランスの権威を弱めた。"
+   }
+  },
+  {
+   "from": 1941,
+   "to": 1945,
+   "kind": "period",
+   "qid": null,
+   "polity": "Empire of Japan",
+   "name": {
+    "en": "Japanese occupation",
+    "ko": "일본의 점령",
+    "zh": "日本占领时期",
+    "ja": "日本軍の進駐"
+   },
+   "summary": {
+    "en": "Japanese troops entered Cambodia in 1941 under agreements with Vichy France, which kept its administration in place while Thailand annexed the northwestern provinces. In March 1945 Japan overthrew the French, and King Norodom Sihanouk proclaimed Kampuchea independent under Japanese sponsorship. French rule returned after Japan's surrender later that year.",
+    "ko": "1941년 비시 프랑스와의 협정에 따라 일본군이 캄보디아에 진주했으며, 프랑스 행정은 유지되었으나 태국이 북서부 지방을 병합했다. 1945년 3월 일본이 프랑스 당국을 무너뜨리자 노로돔 시아누크 국왕은 일본의 후원 아래 캄푸치아의 독립을 선포했다. 같은 해 일본이 항복한 뒤 프랑스의 지배가 돌아왔다.",
+    "zh": "1941年，日军根据与维希法国的协定进驻柬埔寨，法国行政机构得以保留，而泰国则吞并了西北诸省。1945年3月日本推翻法国当局，诺罗敦·西哈努克国王在日本扶持下宣布“柬埔寨王国”独立。同年日本投降后，法国恢复统治。",
+    "ja": "1941年、ヴィシー政権下のフランスとの協定により日本軍がカンボジアに進駐し、フランスの行政は維持されたが、タイが北西部諸州を併合した。1945年3月に日本がフランスの統治機構を倒すと、ノロドム・シハヌーク国王は日本の後ろ盾のもとでカンプチアの独立を宣言した。同年の日本の降伏後、フランスの支配が戻った。"
+   }
+  },
+  {
+   "from": 1953,
+   "to": 1970,
+   "kind": "state",
+   "qid": "Q2638486",
+   "polity": null,
+   "name": {
+    "en": "Kingdom of Cambodia and the Sangkum era",
+    "ko": "캄보디아 왕국과 상쿰 시대",
+    "zh": "柬埔寨王国与人民社会同盟时代",
+    "ja": "カンボジア王国とサンクム時代"
+   },
+   "summary": {
+    "en": "Independent from 1953, Cambodia was dominated by Norodom Sihanouk, who abdicated in 1955 to lead his Sangkum Reastr Niyum movement and later became head of state. The period saw rapid growth in education, a flourishing of modern arts and architecture in Phnom Penh, and a foreign policy of neutrality. As the Vietnam War spread to its borders, economic strains, repression of the left and right-wing discontent undermined the regime.",
+    "ko": "1953년 독립한 캄보디아는 노로돔 시아누크가 주도했는데, 그는 1955년 퇴위하고 상쿰 레아스트 니윰 운동을 이끌었으며 이후 국가원수가 되었다. 이 시기에는 교육이 빠르게 확대되고 프놈펜에서 근대 예술과 건축이 꽃피었으며, 외교적으로는 중립 노선을 취했다. 베트남 전쟁이 국경으로 번지면서 경제난, 좌파 탄압, 우파의 불만이 체제를 흔들었다.",
+    "zh": "1953年独立后的柬埔寨由诺罗敦·西哈努克主导。他于1955年让位，领导“人民社会同盟”，后又出任国家元首。这一时期教育迅速发展，金边的现代艺术和建筑蓬勃兴起，对外奉行中立政策。随着越南战争蔓延至边境，经济困难、对左派的镇压和右派的不满逐渐动摇了政权。",
+    "ja": "1953年に独立したカンボジアはノロドム・シハヌークが主導した。彼は1955年に退位してサンクム・リアス・ニヨム運動を率い、のちに国家元首となった。この時期、教育が急速に拡大し、プノンペンでは近代芸術と建築が花開き、外交では中立政策をとった。ベトナム戦争が国境に及ぶと、経済難、左派弾圧、右派の不満が体制を揺るがした。"
+   }
+  },
+  {
+   "from": 1970,
+   "to": 1975,
+   "kind": "state",
+   "qid": "Q1054184",
+   "polity": null,
+   "name": {
+    "en": "Khmer Republic",
+    "ko": "크메르 공화국",
+    "zh": "高棉共和国",
+    "ja": "クメール共和国"
+   },
+   "summary": {
+    "en": "After the 1970 coup, Lon Nol's US-backed Khmer Republic abolished the monarchy and fought North Vietnamese forces and the Khmer Rouge, who allied with the deposed Sihanouk. Heavy American bombing, mass displacement and inflation devastated the countryside, and government control shrank to Phnom Penh and a few towns. The republic collapsed when the Khmer Rouge captured the capital in April 1975.",
+    "ko": "1970년 쿠데타 후 미국의 지원을 받은 론 놀의 크메르 공화국은 왕정을 폐지하고, 축출된 시아누크와 손잡은 북베트남군 및 크메르 루주와 싸웠다. 미국의 대규모 폭격, 대량 피난, 인플레이션이 농촌을 황폐화했고 정부의 통제 지역은 프놈펜과 몇몇 도시로 줄어들었다. 공화국은 1975년 4월 크메르 루주가 수도를 점령하면서 무너졌다.",
+    "zh": "1970年政变后，美国支持的朗诺高棉共和国废除君主制，与北越军队以及同被废黜的西哈努克结盟的红色高棉作战。美军的大规模轰炸、大量流离失所和通货膨胀使农村满目疮痍，政府控制区缩小到金边和少数城镇。1975年4月红色高棉攻占首都，共和国随之覆灭。",
+    "ja": "1970年のクーデター後、米国の支援を受けたロン・ノルのクメール共和国は王制を廃止し、追放されたシハヌークと結んだ北ベトナム軍およびクメール・ルージュと戦った。米軍の大規模爆撃、大量の避難民、インフレが農村を荒廃させ、政府の支配地域はプノンペンと少数の町に縮小した。共和国は1975年4月、クメール・ルージュが首都を占領して崩壊した。"
+   }
+  },
+  {
+   "from": 1975,
+   "to": 1979,
+   "kind": "state",
+   "qid": "Q330988",
+   "polity": "Khmer Rouge",
+   "name": {
+    "en": "Democratic Kampuchea (Khmer Rouge)",
+    "ko": "민주 캄푸치아(크메르 루주)",
+    "zh": "民主柬埔寨（红色高棉）",
+    "ja": "民主カンプチア（クメール・ルージュ）"
+   },
+   "summary": {
+    "en": "The Khmer Rouge under Pol Pot emptied the cities, abolished money, markets, religion and schools, and forced the population into agricultural cooperatives. Through execution, forced labour, starvation and disease, roughly 1.5 to 2 million people are commonly estimated to have died, including targeted ethnic and religious minorities. The regime's attacks on Vietnam led to its overthrow by Vietnamese forces in January 1979.",
+    "ko": "폴 포트가 이끄는 크메르 루주는 도시를 비우고 화폐·시장·종교·학교를 폐지했으며, 주민을 농업 협동조합으로 강제 이주시켰다. 처형, 강제 노동, 기아, 질병으로 흔히 약 150만~200만 명이 사망한 것으로 추산되며, 소수 민족과 종교 집단은 표적이 되었다. 정권의 베트남 공격은 1979년 1월 베트남군에 의한 붕괴로 이어졌다.",
+    "zh": "波尔布特领导的红色高棉驱空城市，废除货币、市场、宗教和学校，将民众强制编入农业合作社。由于处决、强迫劳动、饥饿和疾病，一般估计约有150万至200万人死亡，少数民族和宗教群体更遭到针对性迫害。该政权对越南的进攻导致其于1979年1月被越南军队推翻。",
+    "ja": "ポル・ポト率いるクメール・ルージュは都市を空にし、貨幣、市場、宗教、学校を廃止して、住民を農業協同組合に強制的に組み込んだ。処刑、強制労働、飢餓、病気により一般に約150万〜200万人が死亡したと推計され、少数民族や宗教集団は標的とされた。政権によるベトナムへの攻撃は、1979年1月のベトナム軍による打倒を招いた。"
+   }
+  },
+  {
+   "from": 1979,
+   "to": 1993,
+   "kind": "state",
+   "qid": "Q867778",
+   "polity": "People's Republic of Kampuchea",
+   "name": {
+    "en": "People's Republic of Kampuchea / State of Cambodia",
+    "ko": "캄푸치아 인민공화국 / 캄보디아국",
+    "zh": "柬埔寨人民共和国／柬埔寨国",
+    "ja": "カンプチア人民共和国／カンボジア国"
+   },
+   "summary": {
+    "en": "Installed by Vietnam in 1979, the People's Republic of Kampuchea rebuilt basic institutions, schools and Buddhist life in a devastated country, but was recognized by few states while the Khmer Rouge-dominated coalition kept the UN seat. Civil war continued along the Thai border. Renamed the State of Cambodia in 1989 after Vietnamese troops withdrew, it negotiated the 1991 Paris settlement.",
+    "ko": "1979년 베트남에 의해 수립된 캄푸치아 인민공화국은 황폐해진 나라에서 기본 제도, 학교, 불교 생활을 재건했지만, 크메르 루주 주도 연합 정부가 유엔 의석을 유지하는 가운데 소수 국가에게만 승인받았다. 태국 국경 지대에서는 내전이 계속되었다. 베트남군 철수 후인 1989년 캄보디아국으로 국호를 바꾸었고 1991년 파리 평화 합의를 협상했다.",
+    "zh": "柬埔寨人民共和国于1979年由越南扶植建立，在满目疮痍的国土上重建了基本制度、学校和佛教生活，但承认它的国家很少，联合国席位仍由红色高棉主导的联合政府占据。泰柬边境一带内战持续。1989年越军撤离后更名为柬埔寨国，并参与谈判达成1991年巴黎和平协定。",
+    "ja": "1979年にベトナムによって樹立されたカンプチア人民共和国は、荒廃した国で基本的な制度、学校、仏教生活を再建したが、国連議席はクメール・ルージュ主導の連合政府が保持し、承認した国は少なかった。タイ国境地帯では内戦が続いた。ベトナム軍撤退後の1989年にカンボジア国と改称し、1991年のパリ和平協定を交渉した。"
+   }
+  },
+  {
+   "from": 1993,
+   "to": 2026,
+   "kind": "state",
+   "qid": "Q424",
+   "polity": "Kingdom of Cambodia",
+   "name": {
+    "en": "Kingdom of Cambodia (restored)",
+    "ko": "캄보디아 왕국(복고)",
+    "zh": "柬埔寨王国（复辟）",
+    "ja": "カンボジア王国（再興）"
+   },
+   "summary": {
+    "en": "The 1993 constitution restored a constitutional monarchy with multiparty elections, and the last Khmer Rouge forces dissolved by 1999. Under the Cambodian People's Party and long-time prime minister Hun Sen, succeeded by his son Hun Manet in 2023, the country achieved rapid growth driven by garment exports, tourism and construction. Critics point to the narrowing of political space after the main opposition party was dissolved in 2017.",
+    "ko": "1993년 헌법은 복수 정당 선거를 갖춘 입헌군주제를 회복시켰고, 마지막 크메르 루주 세력은 1999년까지 해체되었다. 캄보디아 인민당과 장기 집권한 훈 센 총리, 그리고 2023년 그 뒤를 이은 아들 훈 마넷 아래에서 나라는 의류 수출, 관광, 건설에 힘입어 빠르게 성장했다. 비판자들은 2017년 주요 야당 해산 이후 정치적 공간이 좁아졌다고 지적한다.",
+    "zh": "1993年宪法恢复了实行多党选举的君主立宪制，红色高棉残余武装于1999年前全部解散。在柬埔寨人民党及长期执政的首相洪森（2023年由其子洪玛奈接任）领导下，国家依靠成衣出口、旅游业和建筑业实现快速增长。批评者指出，2017年主要反对党被解散后，政治空间明显收窄。",
+    "ja": "1993年の憲法は複数政党制選挙を伴う立憲君主制を復活させ、最後のクメール・ルージュ勢力は1999年までに解体した。カンボジア人民党と長期政権を担ったフン・セン首相、そして2023年に後を継いだ息子フン・マネットのもとで、国は縫製品輸出、観光、建設に支えられて急成長した。批判者は、2017年に最大野党が解散させられて以降、政治的空間が狭まったと指摘している。"
+   }
+  }
+ ],
+ "events": [
+  {
+   "year": -1500,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Farming village at Samrong Sen",
+    "ko": "삼롱센의 농경 마을",
+    "zh": "三隆森农耕聚落",
+    "ja": "サムロンセンの農耕集落"
+   },
+   "description": {
+    "en": "Around the middle of the second millennium BC, a riverside settlement at Samrong Sen near the Tonle Sap was occupied by farmers who left shell middens, pottery and polished stone adzes. Excavated by French researchers from the 1870s, it was one of the first prehistoric sites studied in mainland Southeast Asia. The site later also yielded bronze objects, showing long occupation.",
+    "ko": "기원전 2천년기 중엽 무렵, 톤레삽 호수 근처 삼롱센의 강변 취락에는 패총, 토기, 간석기 자귀를 남긴 농경민이 살았다. 1870년대부터 프랑스 연구자들이 발굴한 이 유적은 동남아시아 대륙부에서 가장 먼저 연구된 선사 유적 중 하나다. 이후 청동 유물도 출토되어 오랜 기간 사람이 살았음을 보여 준다.",
+    "zh": "约公元前二千纪中叶，洞里萨湖附近三隆森的河畔聚落中生活着农耕人群，留下了贝丘、陶器和磨制石锛。该遗址自19世纪70年代起由法国学者发掘，是中南半岛最早被研究的史前遗址之一。后来遗址中还出土了青铜器，显示其长期有人居住。",
+    "ja": "紀元前2千年紀半ば頃、トンレサップ湖近くのサムロンセンの川辺の集落には、貝塚、土器、磨製石斧を残した農耕民が暮らしていた。1870年代からフランスの研究者が発掘したこの遺跡は、大陸部東南アジアで最も早く研究された先史遺跡の一つである。のちに青銅器も出土し、長期にわたる居住が示された。"
+   }
+  },
+  {
+   "year": -1000,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Bronze working reaches Cambodia",
+    "ko": "청동기 제작의 전래",
+    "zh": "青铜冶铸传入柬埔寨",
+    "ja": "青銅器製作の伝来"
+   },
+   "description": {
+    "en": "By around 1000 BC communities in Cambodia were casting bronze axes, bracelets and ornaments, part of a metallurgical tradition shared across mainland Southeast Asia. Copper and tin moved along exchange routes linking the Mekong basin with what is now Thailand and Laos. Metal goods became markers of status in burials.",
+    "ko": "기원전 1000년 무렵 캄보디아의 공동체들은 청동 도끼, 팔찌, 장신구를 주조했으며, 이는 동남아시아 대륙부에 공통된 금속 제작 전통의 일부였다. 구리와 주석은 메콩 유역과 오늘날의 태국·라오스를 잇는 교역로를 따라 이동했다. 금속 제품은 무덤에서 신분을 나타내는 표지가 되었다.",
+    "zh": "约公元前1000年，柬埔寨的社群已能铸造青铜斧、手镯和饰物，属于中南半岛共有的冶金传统。铜和锡沿着连接湄公河流域与今泰国、老挝的交换路线流通。金属器物成为墓葬中的身份标志。",
+    "ja": "紀元前1000年頃までに、カンボジアの集団は青銅の斧、腕輪、装身具を鋳造しており、これは大陸部東南アジアに共通する金属器製作の伝統の一部だった。銅と錫はメコン流域と現在のタイ・ラオスを結ぶ交易路を通じて運ばれた。金属製品は墓において身分を示す標識となった。"
+   }
+  },
+  {
+   "year": -350,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Iron Age cemetery of Phum Snay",
+    "ko": "품스나이의 철기 시대 묘지",
+    "zh": "蓬斯奈铁器时代墓地",
+    "ja": "プム・スナイの鉄器時代墓地"
+   },
+   "description": {
+    "en": "From around the 4th century BC, people at Phum Snay in northwest Cambodia buried their dead with iron weapons, pottery and beads. Many skeletons show signs of violent injury, suggesting rising conflict as populations grew and competed for land. Such sites document the social changes that preceded the first Khmer states.",
+    "ko": "기원전 4세기 무렵부터 캄보디아 북서부 품스나이의 주민들은 철제 무기, 토기, 구슬을 망자와 함께 묻었다. 많은 유골에서 폭력에 의한 상처 흔적이 발견되어, 인구 증가와 토지 경쟁에 따른 갈등의 심화를 짐작하게 한다. 이러한 유적은 최초의 크메르 국가 형성에 앞선 사회 변화를 보여 준다.",
+    "zh": "约公元前4世纪起，柬埔寨西北部蓬斯奈的居民以铁制武器、陶器和珠子随葬。许多骨骸上留有暴力创伤的痕迹，显示人口增长和土地争夺带来的冲突加剧。这类遗址记录了最早高棉国家出现之前的社会变化。",
+    "ja": "紀元前4世紀頃から、カンボジア北西部プム・スナイの人々は鉄製武器、土器、玉類を副葬して死者を葬った。多くの人骨に暴力による傷の痕があり、人口増加と土地をめぐる争いの激化がうかがえる。こうした遺跡は最初のクメール国家に先立つ社会変化を記録している。"
+   }
+  },
+  {
+   "year": 68,
+   "qid": "Q867782",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Kingdom of Funan flourishes in the Mekong Delta",
+    "ko": "부남 왕국, 메콩 삼각주에서 번영",
+    "zh": "扶南国兴起于湄公河三角洲",
+    "ja": "扶南王国、メコンデルタで栄える"
+   },
+   "description": {
+    "en": "From the 1st century AD, Funan grew into one of Southeast Asia's earliest Indianized states, trading with India and China through the port of Oc Eo. According to a founding legend preserved in Chinese sources, a foreigner named Kaundinya (Hun Tian) married the local queen Liuye. Khmer civilization traces its roots to this maritime kingdom.",
+    "ko": "1세기부터 부남은 옥에오 항구를 통해 인도·중국과 교역하며 동남아시아 최초의 인도화 국가 중 하나로 성장했다. 중국 사서에 전하는 건국 설화에 따르면 카운디냐(혼전)라는 이방인이 현지 여왕 유엽과 혼인했다고 한다. 크메르 문명의 뿌리는 이 해상 왕국으로 거슬러 올라간다.",
+    "zh": "公元1世纪起，扶南凭借俄厄港与印度、中国频繁往来，成为东南亚最早的印度化国家之一。据中国史籍所载的建国传说，外来者混填（憍陈如）娶了当地女王柳叶。高棉文明的渊源可追溯至这一海上王国。",
+    "ja": "1世紀以降、扶南はオケオ港を通じてインドや中国と交易し、東南アジア最古のインド化国家の一つに成長した。中国史料に伝わる建国伝説によれば、カウンディニャ（混塡）という異邦人が現地の女王柳葉と結婚したという。クメール文明の源流はこの海上王国に遡る。"
+   }
+  },
+  {
+   "year": 245,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Chinese envoys Kang Tai and Zhu Ying visit Funan",
+    "ko": "중국 사신 강태·주응의 부남 방문",
+    "zh": "康泰、朱应出使扶南",
+    "ja": "康泰・朱応の扶南訪問"
+   },
+   "description": {
+    "en": "Around the mid-3rd century, the Wu kingdom of southern China sent the envoys Kang Tai and Zhu Ying to Funan. Their reports, surviving in later Chinese histories, describe walled settlements, taxation in gold, silver and pearls, and a kingdom that had expanded under the ruler Fan Shiman. They are the earliest detailed accounts of the region.",
+    "ko": "3세기 중엽 무렵, 중국 남부의 오나라는 사신 강태와 주응을 부남에 파견했다. 후대 중국 사서에 남은 그들의 보고는 성벽을 두른 취락, 금·은·진주로 내는 세금, 그리고 범사만 왕 시대에 영토를 넓힌 왕국을 묘사한다. 이는 이 지역에 관한 가장 오래된 상세한 기록이다.",
+    "zh": "约3世纪中叶，东吴派遣康泰、朱应出使扶南。他们的报告保存在后世中国史书中，描述了筑有城墙的聚落、以金银珍珠纳税的制度，以及在范师蔓统治下扩张的王国。这是关于该地区最早的详细记载。",
+    "ja": "3世紀半ば頃、中国南部の呉は使節の康泰と朱応を扶南に派遣した。後世の中国史書に残る彼らの報告は、城壁に囲まれた集落、金・銀・真珠による納税、そして范師蔓のもとで版図を広げた王国を描いている。これはこの地域に関する最古の詳しい記録である。"
+   }
+  },
+  {
+   "year": 357,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "An Indian-born ruler of Funan sends tribute to Jin",
+    "ko": "인도계 부남 왕, 진에 조공",
+    "zh": "天竺旃檀遣使入晋",
+    "ja": "インド出身の扶南王、晋に朝貢"
+   },
+   "description": {
+    "en": "Chinese annals record that in 357 a ruler of Funan named Zhu Zhantan, described as of Indian origin, sent tribute to the Eastern Jin court. The record reflects continuing ties between Funan, India and China and the deepening Indian influence on kingship. Few other details of Funan's 4th-century history survive.",
+    "ko": "중국 연대기에 따르면 357년 인도 출신으로 묘사된 부남 왕 축전단이 동진 조정에 조공을 바쳤다. 이 기록은 부남과 인도, 중국 사이의 지속적인 관계와 왕권에 대한 인도 영향의 심화를 보여 준다. 4세기 부남의 역사에 관해서는 이 밖에 남은 기록이 거의 없다.",
+    "zh": "中国史书记载，357年有一位被称为天竺人的扶南王竺旃檀向东晋朝廷进贡。这一记载反映了扶南与印度、中国之间的持续往来，以及印度文化对王权影响的加深。关于4世纪扶南历史的其他细节留存甚少。",
+    "ja": "中国の史書によれば、357年にインド出身とされる扶南王竺旃檀が東晋の朝廷に朝貢した。この記録は扶南とインド・中国との継続的な関係、そして王権へのインドの影響の深まりを示している。4世紀の扶南史について他に残る記録はわずかである。"
+   }
+  },
+  {
+   "year": 484,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Kaundinya Jayavarman's embassy to Southern Qi",
+    "ko": "카운디냐 자야바르만의 남제 사절",
+    "zh": "阇耶跋摩遣使南齐",
+    "ja": "カウンディニャ・ジャヤヴァルマンの南斉への遣使"
+   },
+   "description": {
+    "en": "In 484 the Funan king Kaundinya Jayavarman sent the Indian monk Nagasena to the Southern Qi court, seeking support against the neighbouring kingdom of Linyi (Champa). The embassy's message, recorded in Chinese sources, combined Buddhist and Shaivite references. Funan's kings of this period were active patrons of both religions.",
+    "ko": "484년 부남 왕 카운디냐 자야바르만은 인도 승려 나가세나를 남제 조정에 보내 이웃 임읍(참파)에 맞설 지원을 요청했다. 중국 사서에 기록된 사절의 국서에는 불교와 시바 신앙의 요소가 함께 담겨 있었다. 이 시기 부남 왕들은 두 종교를 모두 적극적으로 후원했다.",
+    "zh": "484年，扶南王阇耶跋摩（憍陈如阇耶跋摩）派遣天竺僧人那伽仙出使南齐，请求援助以对抗邻国林邑（占婆）。中国史籍记载的表文中兼有佛教与湿婆信仰的内容。这一时期的扶南诸王同时积极护持这两种宗教。",
+    "ja": "484年、扶南王カウンディニャ・ジャヤヴァルマンはインド僧ナーガセーナを南斉の朝廷に派遣し、隣国林邑（チャンパ）への対抗支援を求めた。中国史料に記録された上表文には仏教とシヴァ信仰の要素が併せて含まれていた。この時期の扶南の王たちは両宗教を積極的に保護した。"
+   }
+  },
+  {
+   "year": 514,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Rudravarman, last known king of Funan",
+    "ko": "부남의 마지막 왕 루드라바르만",
+    "zh": "扶南末代国王留陁跋摩",
+    "ja": "扶南最後の王ルドラヴァルマン"
+   },
+   "description": {
+    "en": "Around 514 Rudravarman took the throne of Funan, the last ruler of the kingdom known from inscriptions and Chinese records. He continued to send embassies to the Liang dynasty and patronized Buddhism and Vishnu worship. After his reign Funan's power faded as Chenla rose in the north.",
+    "ko": "514년 무렵 루드라바르만이 부남의 왕위에 올랐는데, 그는 비문과 중국 기록으로 알려진 부남의 마지막 군주다. 그는 양나라에 계속 사신을 보냈고 불교와 비슈누 신앙을 후원했다. 그의 치세 이후 북쪽에서 진랍이 일어나며 부남의 세력은 약해졌다.",
+    "zh": "约514年，留陁跋摩登上扶南王位，他是碑铭和中国史籍中所见的最后一位扶南君主。他继续遣使梁朝，并护持佛教和毗湿奴信仰。其统治之后，随着北方真腊的兴起，扶南的势力逐渐衰微。",
+    "ja": "514年頃、ルドラヴァルマンが扶南の王位に就いた。碑文と中国史料で知られる扶南最後の君主である。彼は梁に使節を送り続け、仏教とヴィシュヌ信仰を保護した。その治世の後、北方で真臘が興るにつれて扶南の勢力は衰えた。"
+   }
+  },
+  {
+   "year": 550,
+   "qid": "Q1057118",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Chenla supplants Funan",
+    "ko": "진랍(첸라)의 대두",
+    "zh": "真腊取代扶南",
+    "ja": "真臘が扶南に取って代わる"
+   },
+   "description": {
+    "en": "The Khmer principality of Chenla rose in the middle Mekong from the mid-6th century and, under Bhavavarman I and Mahendravarman, expanded south to absorb Funan by the 7th century. Chinese records describe Chenla as a former vassal that overcame its overlord. Its rise shifted the centre of Khmer power inland.",
+    "ko": "6세기 중엽 메콩강 중류에서 일어난 크메르계 국가 진랍은 바바바르만 1세와 마헨드라바르만 시대에 남쪽으로 세력을 넓혀 7세기까지 부남을 흡수했다. 중국 사서는 진랍을 종주국을 넘어선 옛 속국으로 묘사한다. 진랍의 대두로 크메르 권력의 중심은 내륙으로 옮겨 갔다.",
+    "zh": "6世纪中叶，高棉人建立的真腊在湄公河中游兴起，在拔婆跋摩一世和质多斯那（摩诃因陀罗跋摩）时期向南扩张，至7世纪吞并扶南。中国史籍称真腊本为扶南属国，后来反而兼并了宗主。真腊的兴起使高棉权力中心转向内陆。",
+    "ja": "6世紀半ば、メコン川中流に興ったクメール系の真臘は、バヴァヴァルマン1世とマヘンドラヴァルマンの時代に南へ勢力を広げ、7世紀までに扶南を併合した。中国史料は真臘を、かつての属国が宗主国を凌いだものとして描く。真臘の台頭によりクメールの権力の中心は内陸へ移った。"
+   }
+  },
+  {
+   "year": 611,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Earliest dated inscription in Khmer",
+    "ko": "최초의 연대 명확한 크메르어 비문",
+    "zh": "最早有纪年的高棉文碑铭",
+    "ja": "年代の明らかな最古のクメール語碑文"
+   },
+   "description": {
+    "en": "An inscription from Angkor Borei dated to 611 is the oldest securely dated text written in the Khmer language. While Sanskrit was used for royal praise and religious verse, Khmer recorded practical matters such as temple endowments, land and servants. It marks the beginning of written Khmer, one of the oldest continuously written languages of Southeast Asia.",
+    "ko": "611년으로 연대가 기록된 앙코르보레이 비문은 크메르어로 쓰인 가장 오래된 연대 확실한 문헌이다. 산스크리트어가 왕의 찬양과 종교 시문에 쓰인 반면, 크메르어는 사원 기진, 토지, 예속민 같은 실무를 기록했다. 이는 동남아시아에서 가장 오래 이어져 온 문자 언어 중 하나인 크메르 문어의 시작을 알린다.",
+    "zh": "吴哥波雷出土、纪年为611年的一方碑铭，是现存最早有确切纪年的高棉语文献。梵语用于颂扬王者和宗教诗文，而高棉语则记录寺院供养、土地和仆役等实际事务。它标志着书面高棉语的开端，高棉语是东南亚书写历史最悠久的语言之一。",
+    "ja": "611年の年紀をもつアンコール・ボレイの碑文は、クメール語で書かれた年代の確かな最古の文書である。サンスクリット語が王の讃辞や宗教詩に用いられたのに対し、クメール語は寺院への寄進、土地、奴隷などの実務を記録した。東南アジアで最も長く書き継がれてきた言語の一つ、クメール語の書記の始まりを示している。"
+   }
+  },
+  {
+   "year": 616,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Isanavarman I rules from Isanapura",
+    "ko": "이샤나바르만 1세와 이샤나푸라",
+    "zh": "伊奢那跋摩一世定都伊奢那补罗",
+    "ja": "イーシャーナヴァルマン1世とイーシャーナプラ"
+   },
+   "description": {
+    "en": "Isanavarman I, who reigned in the early 7th century, ruled from Isanapura, the temple city now known as Sambor Prei Kuk, and sent an embassy to the Sui court around 616. He completed the absorption of Funan and extended Chenla's authority over a wide area. The brick sanctuaries of Sambor Prei Kuk were inscribed as a UNESCO World Heritage Site in 2017.",
+    "ko": "7세기 초에 재위한 이샤나바르만 1세는 오늘날 삼보르 프레이 쿡으로 알려진 사원 도시 이샤나푸라에서 다스렸으며, 616년 무렵 수나라에 사신을 보냈다. 그는 부남 흡수를 마무리하고 진랍의 권위를 넓은 지역에 미쳤다. 삼보르 프레이 쿡의 벽돌 성소들은 2017년 유네스코 세계유산에 등재되었다.",
+    "zh": "7世纪初在位的伊奢那跋摩一世以神庙之城伊奢那补罗（今三波坡雷古）为都，并于约616年遣使隋朝。他完成了对扶南的兼并，使真腊的权威扩展到广大地区。三波坡雷古的砖砌神殿于2017年列入联合国教科文组织世界遗产名录。",
+    "ja": "7世紀初めに在位したイーシャーナヴァルマン1世は、現在サンボー・プレイ・クックとして知られる寺院都市イーシャーナプラから統治し、616年頃に隋へ使節を送った。彼は扶南の併合を完成させ、真臘の権威を広い地域に及ぼした。サンボー・プレイ・クックの煉瓦造の祠堂群は2017年にユネスコ世界遺産に登録された。"
+   }
+  },
+  {
+   "year": 657,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Reign of Jayavarman I",
+    "ko": "자야바르만 1세의 치세",
+    "zh": "阇耶跋摩一世在位",
+    "ja": "ジャヤーヴァルマン1世の治世"
+   },
+   "description": {
+    "en": "Jayavarman I came to the throne around 657 and ruled a large Chenla realm, leaving inscriptions across Cambodia and southern Laos. His reign was the high point of 7th-century Khmer unity. After his death without a clear male heir, the kingdom fragmented.",
+    "ko": "자야바르만 1세는 657년 무렵 즉위하여 넓은 진랍 영역을 다스렸으며, 캄보디아와 라오스 남부 곳곳에 비문을 남겼다. 그의 치세는 7세기 크메르 통일의 절정이었다. 뚜렷한 남성 후계자 없이 그가 죽은 뒤 왕국은 분열했다.",
+    "zh": "阇耶跋摩一世约于657年即位，统治着广阔的真腊疆域，在柬埔寨和老挝南部各地留下碑铭。他的统治是7世纪高棉统一的顶峰。他去世后没有明确的男性继承人，王国随之分裂。",
+    "ja": "ジャヤーヴァルマン1世は657年頃に即位し、広大な真臘の領域を治め、カンボジアとラオス南部の各地に碑文を残した。その治世は7世紀のクメール統一の頂点であった。明確な男子の後継者なく彼が没すると、王国は分裂した。"
+   }
+  },
+  {
+   "year": 707,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Chenla divides into Land and Water Chenla",
+    "ko": "진랍, 육진랍과 수진랍으로 분열",
+    "zh": "真腊分裂为陆真腊与水真腊",
+    "ja": "真臘、陸真臘と水真臘に分裂"
+   },
+   "description": {
+    "en": "According to the Chinese New Book of Tang, Chenla split in the early 8th century into Land Chenla in the north and Water Chenla in the south. Both sent separate embassies to the Tang court. The period of division lasted until the end of the century, when Jayavarman II began to reunify the Khmer lands.",
+    "ko": "중국의 『신당서』에 따르면 진랍은 8세기 초 북쪽의 육진랍과 남쪽의 수진랍으로 나뉘었다. 두 나라는 각각 당나라 조정에 사신을 보냈다. 이 분열기는 자야바르만 2세가 크메르 땅을 재통일하기 시작한 8세기 말까지 이어졌다.",
+    "zh": "据《新唐书》记载，真腊在8世纪初分裂为北方的陆真腊和南方的水真腊，两国分别遣使唐朝。分裂局面一直持续到该世纪末，阇耶跋摩二世开始重新统一高棉诸地。",
+    "ja": "中国の『新唐書』によれば、真臘は8世紀初めに北の陸真臘と南の水真臘に分裂した。両国はそれぞれ唐の朝廷に使節を送った。この分裂期は、ジャヤーヴァルマン2世がクメールの地の再統一に乗り出す8世紀末まで続いた。"
+   }
+  },
+  {
+   "year": 802,
+   "qid": "Q201705",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Jayavarman II founds the Khmer Empire",
+    "ko": "자야바르만 2세, 크메르 제국 건국",
+    "zh": "阇耶跋摩二世建立高棉帝国",
+    "ja": "ジャヤーヴァルマン2世、クメール王朝を創始"
+   },
+   "description": {
+    "en": "In 802, according to a later inscription, Jayavarman II held a ceremony on Phnom Kulen proclaiming himself universal monarch (chakravartin) and declaring independence from 'Java'. The rite inaugurated the devaraja cult associated with Khmer kingship. His reunified state became the Angkorian empire that dominated mainland Southeast Asia for six centuries.",
+    "ko": "후대 비문에 따르면 802년 자야바르만 2세는 프놈쿨렌에서 의식을 거행하여 스스로 전륜성왕임을 선포하고 '자와'로부터의 독립을 선언했다. 이 의식은 크메르 왕권과 결합된 데바라자(신왕) 숭배의 출발점이 되었다. 그가 재통일한 국가는 6세기 동안 동남아시아 대륙부를 지배한 앙코르 제국이 되었다.",
+    "zh": "据后世碑铭记载，802年阇耶跋摩二世在荔枝山（库伦山）举行仪式，自立为转轮圣王，并宣布脱离“爪哇”而独立。这一仪式开启了与高棉王权相结合的“神王”崇拜。他重新统一的国家发展为此后六个世纪称雄中南半岛的吴哥帝国。",
+    "ja": "後世の碑文によれば、802年にジャヤーヴァルマン2世はプノン・クーレンで儀式を行い、自らを転輪聖王と宣言して「ジャワ」からの独立を宣した。この儀式はクメール王権と結びついたデーヴァラージャ（神王）崇拝の始まりとなった。彼が再統一した国家は、6世紀にわたり大陸部東南アジアを支配したアンコール帝国となった。"
+   }
+  },
+  {
+   "year": 881,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Indravarman I dedicates the Bakong",
+    "ko": "인드라바르만 1세, 바콩 사원 봉헌",
+    "zh": "因陀罗跋摩一世建成巴孔寺",
+    "ja": "インドラヴァルマン1世、バコンを奉献"
+   },
+   "description": {
+    "en": "At Hariharalaya (Roluos), Indravarman I built the Preah Ko temple in 879 and dedicated the Bakong in 881, the first great sandstone temple-mountain of the Khmer. He also built the Indratataka reservoir. These works set the pattern of royal reservoirs and state temples followed by later Angkorian kings.",
+    "ko": "하리하랄라야(롤루오스)에서 인드라바르만 1세는 879년 프레아코 사원을 세우고 881년 크메르 최초의 거대한 사암 사원산인 바콩을 봉헌했다. 그는 인드라타타카 저수지도 조성했다. 이 사업들은 후대 앙코르 왕들이 따른 왕실 저수지와 국가 사원의 전형을 세웠다.",
+    "zh": "在诃里诃罗洛耶（罗洛士），因陀罗跋摩一世于879年建成神牛寺，881年建成高棉第一座宏伟的砂岩山形神庙巴孔寺，并开凿了因陀罗塔塔卡水库。这些工程为后来吴哥诸王的王家水库与国庙树立了范式。",
+    "ja": "ハリハラーラヤ（ロリュオス）でインドラヴァルマン1世は879年にプリア・コー寺院を建て、881年にクメール初の大規模な砂岩の寺院山バコンを奉献した。彼はインドラタターカ貯水池も築いた。これらの事業は、後のアンコールの王たちが踏襲する王立貯水池と国家寺院の型をつくった。"
+   }
+  },
+  {
+   "year": 889,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Yasovarman I founds Yasodharapura",
+    "ko": "야소바르만 1세, 야소다라푸라 건설",
+    "zh": "耶输跋摩一世建耶输陀罗补罗",
+    "ja": "ヤショーヴァルマン1世、ヤショーダラプラを建設"
+   },
+   "description": {
+    "en": "Yasovarman I, who came to the throne in 889, founded a new capital, Yasodharapura, centred on the temple-mountain of Phnom Bakheng in the Angkor area. He also built the vast East Baray reservoir. Angkor remained the empire's capital for most of the next five centuries.",
+    "ko": "889년 즉위한 야소바르만 1세는 앙코르 지역의 프놈바켕 사원산을 중심으로 새 수도 야소다라푸라를 건설했다. 그는 거대한 동바라이 저수지도 만들었다. 앙코르는 이후 5세기 대부분 동안 제국의 수도였다.",
+    "zh": "889年即位的耶输跋摩一世在吴哥地区以巴肯山神庙为中心营建新都耶输陀罗补罗，并开凿了巨大的东池（东巴莱）。此后五个世纪的大部分时间里，吴哥一直是帝国的都城。",
+    "ja": "889年に即位したヤショーヴァルマン1世は、アンコール地域のプノン・バケン寺院山を中心に新都ヤショーダラプラを建設した。彼は巨大な東バライ貯水池も築いた。アンコールはその後5世紀の大半にわたり帝国の都であり続けた。"
+   }
+  },
+  {
+   "year": 928,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Jayavarman IV rules from Koh Ker",
+    "ko": "자야바르만 4세의 코케르 천도",
+    "zh": "阇耶跋摩四世定都贡开",
+    "ja": "ジャヤーヴァルマン4世のコー・ケー"
+   },
+   "description": {
+    "en": "Jayavarman IV, who had established himself at Koh Ker (Lingapura) northeast of Angkor, became sole king in 928 and ruled from there. He built the great seven-tiered pyramid of Prasat Thom. After his death the court returned to Angkor under Rajendravarman II.",
+    "ko": "앙코르 북동쪽 코케르(링가푸라)에 자리 잡은 자야바르만 4세는 928년 단독 국왕이 되어 그곳에서 다스렸다. 그는 7층의 거대한 피라미드 프라삿 톰을 건설했다. 그가 죽은 뒤 라젠드라바르만 2세 때 왕실은 앙코르로 돌아왔다.",
+    "zh": "阇耶跋摩四世在吴哥东北的贡开（林伽补罗）立足，928年成为唯一的国王并以此为都。他修建了七层的巨大金字塔形神庙通寺（Prasat Thom）。他去世后，罗贞陀罗跋摩二世将王廷迁回吴哥。",
+    "ja": "アンコール北東のコー・ケー（リンガプラ）に拠ったジャヤーヴァルマン4世は、928年に唯一の王となり同地から統治した。彼は7層の巨大なピラミッド、プラサット・トムを築いた。彼の没後、ラージェンドラヴァルマン2世のもとで王都はアンコールに戻った。"
+   }
+  },
+  {
+   "year": 967,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Banteay Srei consecrated",
+    "ko": "반테아이 스레이 봉헌",
+    "zh": "女王宫落成",
+    "ja": "バンテアイ・スレイの奉献"
+   },
+   "description": {
+    "en": "In 967 the temple of Banteay Srei, dedicated to Shiva, was consecrated by the Brahmin dignitary Yajnavaraha, a counsellor of King Rajendravarman II and later Jayavarman V. Built of pink sandstone, it is famed for exceptionally fine relief carving. It is one of the few major Angkorian temples not built by a king.",
+    "ko": "967년 시바 신에게 바친 반테아이 스레이 사원이 라젠드라바르만 2세와 이후 자야바르만 5세의 고문이었던 브라만 고관 야즈냐바라하에 의해 봉헌되었다. 분홍빛 사암으로 지어져 매우 정교한 부조로 유명하다. 국왕이 세우지 않은 몇 안 되는 주요 앙코르 사원 중 하나다.",
+    "zh": "967年，供奉湿婆的女王宫（班迭斯雷）由罗贞陀罗跋摩二世及其后阇耶跋摩五世的谋臣、婆罗门重臣耶若婆罗诃主持落成。该寺以粉红色砂岩建造，以极其精美的浮雕著称，是少数并非由国王修建的重要吴哥寺庙之一。",
+    "ja": "967年、シヴァ神に捧げられたバンテアイ・スレイ寺院が、ラージェンドラヴァルマン2世とのちのジャヤーヴァルマン5世の顧問であったバラモン高官ヤジュニャヴァラーハによって奉献された。紅色砂岩で造られ、極めて精緻な浮彫で名高い。王以外が建立した数少ない主要アンコール寺院の一つである。"
+   }
+  },
+  {
+   "year": 1002,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Suryavarman I wins the throne and expands west",
+    "ko": "수리야바르만 1세의 집권과 서방 확장",
+    "zh": "苏利耶跋摩一世夺位并向西扩张",
+    "ja": "スーリヤヴァルマン1世の即位と西方への拡大"
+   },
+   "description": {
+    "en": "From around 1002 Suryavarman I fought rival claimants for nearly a decade before securing Angkor. He extended Khmer authority into the Chao Phraya basin around Lopburi, built the royal palace enclosure and Phimeanakas, and expanded the West Baray area. A famous oath of allegiance taken by his officials is inscribed at the palace.",
+    "ko": "1002년 무렵부터 수리야바르만 1세는 10년 가까이 경쟁자들과 싸운 끝에 앙코르를 장악했다. 그는 롭부리 일대 짜오프라야 유역까지 크메르의 권위를 넓히고 왕궁 구역과 피메아나카스를 건설했다. 그의 관리들이 바친 유명한 충성 서약문이 왕궁에 새겨져 있다.",
+    "zh": "约自1002年起，苏利耶跋摩一世与其他王位争夺者交战近十年，最终控制吴哥。他将高棉的势力扩展至华富里一带的湄南河流域，修建了王宫区和空中宫殿。其官员宣誓效忠的著名誓文镌刻于王宫之中。",
+    "ja": "1002年頃からスーリヤヴァルマン1世は10年近く他の王位請求者と争い、ついにアンコールを掌握した。彼はロッブリー周辺のチャオプラヤー流域にまでクメールの権威を広げ、王宮区域とピミアナカスを築いた。官吏たちが捧げた有名な忠誠の誓詞が王宮に刻まれている。"
+   }
+  },
+  {
+   "year": 1060,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Baphuon temple-mountain built",
+    "ko": "바푸온 사원산 건립",
+    "zh": "巴普昂寺落成",
+    "ja": "バプーオン寺院山の建立"
+   },
+   "description": {
+    "en": "Around 1060 King Udayadityavarman II built the Baphuon, a towering temple-mountain dedicated to Shiva at the centre of his capital. Zhou Daguan later described its bronze tower as taller than the Bayon's. Partly collapsed over the centuries, it was dismantled and painstakingly reassembled by French archaeologists in a project completed in 2011.",
+    "ko": "1060년 무렵 우다야디탸바르만 2세는 수도 중심에 시바 신을 모신 높은 사원산 바푸온을 세웠다. 훗날 주달관은 그 청동탑이 바욘보다 높았다고 묘사했다. 세월 속에 일부 무너진 사원은 프랑스 고고학자들이 해체 후 정성스럽게 재조립하여 2011년 복원을 마쳤다.",
+    "zh": "约1060年，优陀耶迭多跋摩二世在都城中心修建了供奉湿婆的高大山形神庙巴普昂寺。周达观后来称其铜塔比巴戎寺还高。几个世纪中该寺部分坍塌，法国考古学家将其拆解后精心重组，修复工程于2011年完成。",
+    "ja": "1060年頃、ウダヤーディティヤヴァルマン2世は王都の中心にシヴァ神を祀る壮大な寺院山バプーオンを建てた。のちに周達観はその銅塔がバイヨンより高いと記している。長い年月の間に一部崩落したが、フランスの考古学者が解体して丹念に組み直し、修復は2011年に完了した。"
+   }
+  },
+  {
+   "year": 1113,
+   "qid": null,
+   "importance": 1,
+   "category": "culture",
+   "title": {
+    "en": "Suryavarman II builds Angkor Wat",
+    "ko": "수리야바르만 2세, 앙코르 와트 건립",
+    "zh": "苏利耶跋摩二世营建吴哥窟",
+    "ja": "スーリヤヴァルマン2世、アンコール・ワットを造営"
+   },
+   "description": {
+    "en": "Crowned in 1113, Suryavarman II reunited the kingdom and commissioned Angkor Wat, a vast temple dedicated to Vishnu with galleries of bas-reliefs depicting Hindu epics and his own court. It is the largest religious monument in the world. Angkor Wat later became a Buddhist sanctuary and today appears on Cambodia's national flag.",
+    "ko": "1113년 즉위한 수리야바르만 2세는 왕국을 재통일하고, 힌두 서사시와 자신의 궁정을 묘사한 부조 회랑을 갖춘 비슈누 신의 거대 사원 앙코르 와트를 건립했다. 세계 최대의 종교 건축물이다. 앙코르 와트는 후에 불교 성소가 되었고 오늘날 캄보디아 국기에 그려져 있다.",
+    "zh": "1113年即位的苏利耶跋摩二世重新统一王国，下令修建供奉毗湿奴的吴哥窟，其回廊浮雕描绘了印度史诗和他本人的宫廷。这是世界上最大的宗教建筑。吴哥窟后来成为佛教圣地，如今出现在柬埔寨国旗上。",
+    "ja": "1113年に即位したスーリヤヴァルマン2世は王国を再統一し、ヒンドゥー叙事詩や自らの宮廷を描いた浮彫回廊をもつヴィシュヌ神の大寺院アンコール・ワットを造営させた。世界最大の宗教建造物である。アンコール・ワットはのちに仏教の聖地となり、今日ではカンボジア国旗に描かれている。"
+   }
+  },
+  {
+   "year": 1145,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Khmer forces capture Vijaya in Champa",
+    "ko": "크메르군, 참파의 비자야 점령",
+    "zh": "高棉军攻占占婆毗阇耶",
+    "ja": "クメール軍、チャンパのヴィジャヤを占領"
+   },
+   "description": {
+    "en": "Suryavarman II waged costly wars against Đại Việt and Champa, and around 1145 his armies captured Vijaya, the Cham capital. The occupation was short-lived, and the Cham soon regained independence. These wars began a long cycle of Khmer–Cham conflict.",
+    "ko": "수리야바르만 2세는 대월과 참파를 상대로 큰 대가를 치른 전쟁을 벌였으며, 1145년 무렵 그의 군대는 참파의 수도 비자야를 점령했다. 점령은 오래가지 못했고 참족은 곧 독립을 되찾았다. 이 전쟁은 크메르와 참파 사이의 긴 분쟁의 시작이었다.",
+    "zh": "苏利耶跋摩二世对大越和占婆发动了代价高昂的战争，约1145年其军队攻占占婆都城毗阇耶。这次占领为时不长，占人很快恢复独立。这些战争开启了高棉与占婆之间长期冲突的循环。",
+    "ja": "スーリヤヴァルマン2世は大越とチャンパに対し多大な犠牲を伴う戦争を行い、1145年頃その軍はチャンパの都ヴィジャヤを占領した。占領は長続きせず、チャム人はまもなく独立を回復した。これらの戦争はクメールとチャンパの長い抗争の始まりとなった。"
+   }
+  },
+  {
+   "year": 1177,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Cham fleet sacks Angkor",
+    "ko": "참파 함대의 앙코르 약탈",
+    "zh": "占婆舰队洗劫吴哥",
+    "ja": "チャンパ艦隊によるアンコール略奪"
+   },
+   "description": {
+    "en": "In 1177 a Cham fleet under Jaya Indravarman IV sailed up the Mekong and across the Tonle Sap and sacked the Khmer capital, killing the usurper king Tribhuvanadityavarman. The disaster threw the empire into crisis. It was avenged by Prince Jayavarman, who drove out the Cham and later took the throne as Jayavarman VII.",
+    "ko": "1177년 자야 인드라바르만 4세가 이끄는 참파 함대가 메콩강을 거슬러 올라 톤레삽 호수를 건너 크메르 수도를 약탈하고 찬탈왕 트리부바나디탸바르만을 죽였다. 이 참사로 제국은 위기에 빠졌다. 참파군을 몰아낸 자야바르만 왕자가 복수를 이루었고, 그는 뒤에 자야바르만 7세로 즉위했다.",
+    "zh": "1177年，占婆国王阇耶因陀罗跋摩四世率舰队沿湄公河上溯，横渡洞里萨湖，洗劫高棉都城，杀死篡位的国王特里布婆那迭多跋摩。这场灾难使帝国陷入危机。阇耶跋摩王子率军驱逐占人报仇雪恨，后来即位为阇耶跋摩七世。",
+    "ja": "1177年、ジャヤ・インドラヴァルマン4世率いるチャンパ艦隊がメコン川を遡りトンレサップ湖を渡ってクメールの都を略奪し、簒奪王トリブヴァナーディティヤヴァルマンを殺害した。この惨事で帝国は危機に陥った。チャンパ軍を撃退したジャヤーヴァルマン王子が雪辱を果たし、のちにジャヤーヴァルマン7世として即位した。"
+   }
+  },
+  {
+   "year": 1181,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Jayavarman VII and the empire's zenith",
+    "ko": "자야바르만 7세와 제국의 전성기",
+    "zh": "阇耶跋摩七世与帝国鼎盛",
+    "ja": "ジャヤーヴァルマン7世と帝国の最盛期"
+   },
+   "description": {
+    "en": "Jayavarman VII, crowned in 1181, rebuilt the capital as Angkor Thom with the Bayon temple at its centre, embraced Mahayana Buddhism, and built roads, rest houses and more than a hundred hospitals across the empire. Under him Khmer power reached its greatest extent. The serene smiling faces of the Bayon towers are often associated with the king himself.",
+    "ko": "1181년 즉위한 자야바르만 7세는 바욘 사원을 중심으로 수도를 앙코르톰으로 재건하고 대승불교를 받아들였으며, 제국 전역에 도로, 숙사, 그리고 백 곳이 넘는 병원을 세웠다. 그의 치세에 크메르의 세력은 최대 판도에 이르렀다. 바욘 탑의 온화한 미소 띤 얼굴은 흔히 왕 자신과 연결 지어 이야기된다.",
+    "zh": "1181年即位的阇耶跋摩七世以巴戎寺为中心重建都城吴哥通王城，尊奉大乘佛教，并在全国广修道路、驿站和一百多所医院。在他统治下，高棉势力达到最大版图。巴戎寺塔上安详微笑的面容常被认为与国王本人有关。",
+    "ja": "1181年に即位したジャヤーヴァルマン7世は、バイヨン寺院を中心に王都をアンコール・トムとして再建し、大乗仏教を奉じ、帝国各地に道路、宿駅、100を超える施療院を建てた。彼のもとでクメールの勢力は最大版図に達した。バイヨンの塔の穏やかな微笑みの顔は、しばしば王自身と結びつけて語られる。"
+   }
+  },
+  {
+   "year": 1186,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Ta Prohm founded for the king's mother",
+    "ko": "타프롬 사원 건립",
+    "zh": "塔布茏寺落成",
+    "ja": "タ・プローム寺院の建立"
+   },
+   "description": {
+    "en": "In 1186 Jayavarman VII dedicated the Buddhist monastery of Rajavihara, now Ta Prohm, in honour of his mother; in 1191 he dedicated Preah Khan to his father. Ta Prohm's foundation stele lists thousands of villages and people assigned to support it. Today its ruins, entwined with giant tree roots, are among Angkor's most visited sites.",
+    "ko": "1186년 자야바르만 7세는 어머니를 기려 불교 사원 라자비하라, 곧 오늘날의 타프롬을 봉헌했고, 1191년에는 아버지를 위해 프레아칸을 봉헌했다. 타프롬의 건립 비문에는 사원을 부양하도록 배정된 수천 개의 마을과 사람들이 기록되어 있다. 거대한 나무뿌리에 휘감긴 그 폐허는 오늘날 앙코르에서 가장 많이 찾는 곳 중 하나다.",
+    "zh": "1186年，阇耶跋摩七世为纪念母亲而建成佛教寺院“王寺”（今塔布茏寺），1191年又为父亲建成圣剑寺。塔布茏寺的建寺碑记载了被指派供养寺院的数千个村庄和大量人员。如今其被巨树根系缠绕的废墟是吴哥最受欢迎的景点之一。",
+    "ja": "1186年、ジャヤーヴァルマン7世は母を記念して仏教僧院ラージャヴィハーラ（現在のタ・プローム）を奉献し、1191年には父のためにプリア・カンを奉献した。タ・プロームの創建碑文には、寺院を支えるために割り当てられた数千の村と人々が記されている。巨木の根に絡みつかれたその遺構は、今日アンコールで最も多くの人が訪れる場所の一つである。"
+   }
+  },
+  {
+   "year": 1203,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Khmer occupation of Champa",
+    "ko": "크메르의 참파 점령",
+    "zh": "高棉占领占婆",
+    "ja": "クメールのチャンパ占領"
+   },
+   "description": {
+    "en": "In 1203 Jayavarman VII's forces completed the conquest of Champa, which was ruled as a Khmer province until about 1220. The occupation marked the high tide of Angkorian military power in the east. Afterwards the Khmer withdrew and Champa regained its independence.",
+    "ko": "1203년 자야바르만 7세의 군대는 참파 정복을 완료했고, 참파는 1220년 무렵까지 크메르의 속주로 다스려졌다. 이 점령은 동방에서 앙코르 군사력의 절정을 이루었다. 이후 크메르군은 철수했고 참파는 독립을 되찾았다.",
+    "zh": "1203年，阇耶跋摩七世的军队完成了对占婆的征服，此后直至约1220年占婆作为高棉的一个行省受到统治。这次占领标志着吴哥军事力量在东方的鼎盛。其后高棉撤军，占婆恢复独立。",
+    "ja": "1203年、ジャヤーヴァルマン7世の軍はチャンパの征服を完了し、チャンパは1220年頃までクメールの属州として統治された。この占領は東方におけるアンコールの軍事力の頂点を示す。その後クメールは撤退し、チャンパは独立を回復した。"
+   }
+  },
+  {
+   "year": 1243,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Jayavarman VIII and the Hindu reaction",
+    "ko": "자야바르만 8세와 힌두교 반동",
+    "zh": "阇耶跋摩八世与印度教复兴",
+    "ja": "ジャヤーヴァルマン8世とヒンドゥー教の反動"
+   },
+   "description": {
+    "en": "Jayavarman VIII, who reigned from about 1243 to 1295, revived Shaivism, and during this period many Buddha images in Jayavarman VII's temples were systematically defaced or recarved as Hindu figures. His long reign also saw Mongol Yuan pressure in the region. The iconoclasm left visible scars on the Bayon and other monuments.",
+    "ko": "약 1243년부터 1295년까지 재위한 자야바르만 8세는 시바 신앙을 부흥시켰고, 이 시기 자야바르만 7세가 세운 사원의 많은 불상이 체계적으로 훼손되거나 힌두 신상으로 다시 새겨졌다. 그의 긴 치세 동안 원나라의 압력도 이 지역에 미쳤다. 이 성상 파괴의 흔적은 바욘 등 여러 유적에 지금도 남아 있다.",
+    "zh": "约1243年至1295年在位的阇耶跋摩八世复兴湿婆崇拜，这一时期阇耶跋摩七世所建寺庙中的许多佛像被有计划地毁坏或改刻为印度教神像。在他漫长的统治期间，元朝的压力也波及该地区。这场毁像运动在巴戎寺等古迹上留下了明显痕迹。",
+    "ja": "約1243年から1295年まで在位したジャヤーヴァルマン8世はシヴァ信仰を復興させ、この時期ジャヤーヴァルマン7世の寺院の多くの仏像が組織的に削り取られたりヒンドゥーの神像に彫り直されたりした。その長い治世には元朝の圧力もこの地域に及んだ。この偶像破壊の跡はバイヨンなどの遺跡に今も残る。"
+   }
+  },
+  {
+   "year": 1296,
+   "qid": null,
+   "importance": 2,
+   "category": "culture",
+   "title": {
+    "en": "Zhou Daguan visits Angkor",
+    "ko": "주달관의 앙코르 방문",
+    "zh": "周达观出使真腊",
+    "ja": "周達観のアンコール訪問"
+   },
+   "description": {
+    "en": "In 1296–1297 the Chinese envoy Zhou Daguan accompanied a Yuan embassy to Angkor and later wrote 'The Customs of Cambodia' (Zhenla Fengtu Ji). It is the only surviving eyewitness account of daily life in the Angkorian capital, describing its temples, markets, festivals, slavery and royal processions. The text remains a key source for historians.",
+    "ko": "1296~1297년 중국 사신 주달관은 원나라 사절단을 따라 앙코르를 방문했고, 뒤에 『진랍풍토기』를 저술했다. 이 책은 앙코르 수도의 일상생활을 직접 목격하고 남긴 유일한 기록으로, 사원, 시장, 축제, 노예제, 왕의 행차를 묘사한다. 오늘날에도 역사학자들의 핵심 사료다.",
+    "zh": "1296至1297年，周达观随元朝使团出访吴哥，后撰成《真腊风土记》。这是现存唯一一部亲历吴哥都城日常生活的记录，描述了寺庙、市场、节庆、奴隶制和国王出巡等情景，至今仍是历史学家的重要史料。",
+    "ja": "1296〜1297年、中国の周達観は元の使節団に随行してアンコールを訪れ、のちに『真臘風土記』を著した。アンコールの王都の日常生活を目撃した唯一現存する記録であり、寺院、市場、祭り、奴隷制、王の行列を描いている。今も歴史家にとって重要な史料である。"
+   }
+  },
+  {
+   "year": 1327,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "Last Sanskrit inscription and the rise of Theravada",
+    "ko": "마지막 산스크리트어 비문과 상좌부 불교의 확산",
+    "zh": "最后的梵文碑铭与上座部佛教兴起",
+    "ja": "最後のサンスクリット碑文と上座部仏教の広まり"
+   },
+   "description": {
+    "en": "The last known Sanskrit inscription of Angkor dates from 1327, during the reign of Jayavarmadiparameshvara. By then Theravada Buddhism, spread by monks connected with Sri Lanka and the Mon world, was becoming the religion of ordinary Khmer, and Pali gradually replaced Sanskrit as the sacred language. The shift transformed Khmer religious life and the role of kingship.",
+    "ko": "앙코르의 마지막으로 알려진 산스크리트어 비문은 자야바르마디파라메슈바라 치세인 1327년의 것이다. 이 무렵 스리랑카와 몬족 세계와 연결된 승려들이 전한 상좌부 불교가 일반 크메르인의 종교가 되어 갔고, 팔리어가 점차 산스크리트어를 대신해 성스러운 언어가 되었다. 이 변화는 크메르의 종교 생활과 왕권의 성격을 바꾸었다.",
+    "zh": "已知吴哥最后一方梵文碑铭刻于1327年，即阇耶跋摩波罗密首罗在位期间。此时，由与斯里兰卡及孟人世界有联系的僧侣传播的上座部佛教正成为普通高棉人的信仰，巴利语逐渐取代梵语成为神圣语言。这一转变改变了高棉的宗教生活和王权的性质。",
+    "ja": "アンコールで知られる最後のサンスクリット碑文は、ジャヤヴァルマーディパラメーシュヴァラの治世の1327年のものである。この頃には、スリランカやモン人の世界とつながる僧侶が広めた上座部仏教が一般のクメール人の宗教となりつつあり、パーリ語が次第にサンスクリット語に代わって聖なる言語となった。この変化はクメールの宗教生活と王権のあり方を変えた。"
+   }
+  },
+  {
+   "year": 1352,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Ayutthaya's attacks on Angkor begin",
+    "ko": "아유타야의 앙코르 공격 시작",
+    "zh": "阿瑜陀耶开始进攻吴哥",
+    "ja": "アユタヤのアンコール攻撃の始まり"
+   },
+   "description": {
+    "en": "According to Thai chronicles, forces of the newly founded kingdom of Ayutthaya besieged and took Angkor around 1352, though historians debate the reliability of these accounts. Whatever their exact dates, conflicts with Ayutthaya recurred through the late 14th century. They weakened Angkor as trade and power shifted toward the Gulf of Thailand.",
+    "ko": "태국 연대기에 따르면 새로 세워진 아유타야 왕국의 군대가 1352년 무렵 앙코르를 포위해 함락했다고 하나, 역사가들은 이 기록의 신빙성을 두고 논쟁한다. 정확한 연대와 별개로 14세기 후반 내내 아유타야와의 충돌이 되풀이되었다. 교역과 권력이 타이만 쪽으로 옮겨 가면서 이 충돌은 앙코르를 약화시켰다.",
+    "zh": "据泰国编年史记载，新建立的阿瑜陀耶王国军队约于1352年围攻并攻占吴哥，但历史学家对这些记载的可靠性存在争议。无论确切年代如何，14世纪后期与阿瑜陀耶的冲突反复发生。随着贸易与权力向暹罗湾转移，这些冲突削弱了吴哥。",
+    "ja": "タイの年代記によれば、建国まもないアユタヤ王国の軍が1352年頃アンコールを包囲・攻略したとされるが、その信頼性については歴史家の間で議論がある。正確な年代はともかく、14世紀後半を通じてアユタヤとの衝突が繰り返された。交易と権力がタイ湾方面へ移るなか、これらの衝突はアンコールを弱体化させた。"
+   }
+  },
+  {
+   "year": 1431,
+   "qid": "Q24945556",
+   "importance": 1,
+   "category": "war",
+   "title": {
+    "en": "Fall of Angkor",
+    "ko": "앙코르의 함락",
+    "zh": "吴哥陷落",
+    "ja": "アンコールの陥落"
+   },
+   "description": {
+    "en": "Forces of the Siamese kingdom of Ayutthaya captured and sacked Angkor in 1431, the traditional date for the end of the Angkorian era. Combined with long-term changes in trade, religion and the strain on Angkor's water system, the defeat led the Khmer court to move south toward the Phnom Penh region. Angkor was never again the royal capital, though Angkor Wat remained an active Buddhist site.",
+    "ko": "1431년 시암의 아유타야 왕조 군대가 앙코르를 점령하고 약탈했는데, 이는 앙코르 시대가 끝난 전통적 연대다. 교역과 종교의 장기적 변화, 앙코르 수리 체계의 부담과 맞물려 이 패배로 크메르 왕실은 남쪽 프놈펜 일대로 옮겨 갔다. 앙코르는 다시는 왕도가 되지 못했지만 앙코르 와트는 불교 사원으로 계속 쓰였다.",
+    "zh": "1431年，暹罗阿瑜陀耶王朝的军队攻占并洗劫吴哥，这是传统上吴哥时代结束的年份。加上贸易、宗教的长期变化以及吴哥水利系统的不堪重负，这次失败使高棉王廷南迁至金边一带。吴哥此后再未成为王都，但吴哥窟一直是活跃的佛教寺院。",
+    "ja": "1431年、シャムのアユタヤ朝の軍がアンコールを攻略・略奪した。これはアンコール時代の終わりとされる伝統的な年である。交易や宗教の長期的な変化、アンコールの水利システムへの負担と相まって、この敗北によりクメール王室は南のプノンペン方面へ移った。アンコールが再び王都となることはなかったが、アンコール・ワットは仏教寺院として使われ続けた。"
+   }
+  },
+  {
+   "year": 1434,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Ponhea Yat moves the capital to Phnom Penh",
+    "ko": "폰헤아 얏, 프놈펜으로 천도",
+    "zh": "蓬黑亚·亚特迁都金边",
+    "ja": "ポニェ・ヤット、プノンペンに遷都"
+   },
+   "description": {
+    "en": "According to the Cambodian chronicles, King Ponhea Yat abandoned Angkor and, after a stay at Srei Santhor (Basan), established his court around 1434 at the confluence of the Mekong and Tonle Sap, the site of Phnom Penh. Tradition links the city's name to Lady Penh, who founded a shrine on a hill there. The riverine location gave the kingdom better access to trade with China and the region.",
+    "ko": "캄보디아 연대기에 따르면 폰헤아 얏 왕은 앙코르를 버리고 스레이산토르(바산)에 머문 뒤, 1434년 무렵 메콩강과 톤레삽강이 합류하는 프놈펜 자리에 왕궁을 세웠다. 전승은 이 도시의 이름을 그곳 언덕에 사당을 세운 펜 부인과 연결 짓는다. 강변 입지 덕분에 왕국은 중국 및 주변 지역과의 교역에 더 쉽게 접근할 수 있었다.",
+    "zh": "据柬埔寨编年史记载，蓬黑亚·亚特国王放弃吴哥，在斯雷桑托（巴山）停留后，约于1434年在湄公河与洞里萨河交汇处、即今金边所在地建立王廷。传说城名源于在当地山丘上建庙的奔夫人（Daun Penh）。临河的位置使王国更便于同中国和周边地区开展贸易。",
+    "ja": "カンボジアの年代記によれば、ポニェ・ヤット王はアンコールを放棄し、スレイ・サントー（バサン）に滞在した後、1434年頃メコン川とトンレサップ川の合流点、現在のプノンペンの地に王宮を構えた。伝承では、この都市名はそこの丘に祠を建てたペン夫人に由来する。川沿いの立地により、王国は中国や周辺地域との交易に便利になった。"
+   }
+  },
+  {
+   "year": 1528,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Ang Chan I establishes Longvek",
+    "ko": "앙 찬 1세의 롱벡 건설",
+    "zh": "安赞一世定都洛韦",
+    "ja": "アン・チャン1世、ロンヴェークを王都に"
+   },
+   "description": {
+    "en": "King Ang Chan I, who reigned for much of the 16th century, established his capital at Longvek near the Tonle Sap river around 1528. Longvek became a fortified and cosmopolitan city visited by Chinese, Japanese, Malay, Portuguese and Spanish traders and missionaries. The period is remembered as a revival of Khmer power before renewed Siamese invasions.",
+    "ko": "16세기 대부분을 다스린 앙 찬 1세는 1528년 무렵 톤레삽강 근처 롱벡에 수도를 세웠다. 롱벡은 중국, 일본, 말레이, 포르투갈, 스페인의 상인과 선교사가 찾는 요새화된 국제 도시가 되었다. 이 시기는 시암의 재침공 이전 크메르 세력의 부흥기로 기억된다.",
+    "zh": "16世纪大部分时间在位的安赞一世约于1528年在洞里萨河附近的洛韦建都。洛韦成为设防坚固、汇聚中国、日本、马来、葡萄牙和西班牙商人与传教士的国际都市。这一时期被视为暹罗再度入侵前高棉国力的复兴期。",
+    "ja": "16世紀の大半を治めたアン・チャン1世は、1528年頃トンレサップ川近くのロンヴェークに都を定めた。ロンヴェークは城塞化され、中国、日本、マレー、ポルトガル、スペインの商人や宣教師が訪れる国際都市となった。この時代はシャムの再侵攻前のクメール勢力の復興期として記憶される。"
+   }
+  },
+  {
+   "year": 1591,
+   "qid": "Q1373706",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "War with Ayutthaya under Naresuan",
+    "ko": "나레수안의 아유타야와 전쟁",
+    "zh": "与纳黎萱治下阿瑜陀耶的战争",
+    "ja": "ナレースワン王のアユタヤとの戦争"
+   },
+   "description": {
+    "en": "Cambodian raids on Siam during Ayutthaya's wars with Burma provoked retaliation once King Naresuan had restored Siamese power. From the early 1590s Siamese armies campaigned against Cambodia. The war culminated in the siege and fall of Longvek.",
+    "ko": "아유타야가 버마와 전쟁을 벌이는 동안 캄보디아가 시암을 습격하자, 나레수안 왕은 시암의 힘을 회복한 뒤 보복에 나섰다. 1590년대 초부터 시암군은 캄보디아로 원정했다. 이 전쟁은 롱벡의 포위와 함락으로 절정에 달했다.",
+    "zh": "在阿瑜陀耶与缅甸交战期间，柬埔寨曾袭扰暹罗；纳黎萱国王恢复暹罗国力后随即展开报复。自16世纪90年代初起，暹罗军队多次征讨柬埔寨，战争最终以洛韦被围陷落而达到高潮。",
+    "ja": "アユタヤがビルマと戦っている間にカンボジアがシャムを襲撃したため、ナレースワン王はシャムの国力を回復させると報復に出た。1590年代初めからシャム軍はカンボジアに遠征した。この戦争はロンヴェークの包囲と陥落で頂点に達した。"
+   }
+  },
+  {
+   "year": 1593,
+   "qid": "Q27627985",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Spanish and Portuguese adventurers in Cambodia",
+    "ko": "캄보디아의 스페인·포르투갈 모험가들",
+    "zh": "西葡冒险者介入柬埔寨",
+    "ja": "カンボジアのスペイン・ポルトガル人冒険者"
+   },
+   "description": {
+    "en": "Facing Siam, King Satha sought help from the Spanish in Manila, and adventurers such as the Portuguese Diogo Veloso and the Spaniard Blas Ruiz became involved in Cambodian politics. In 1596 they killed a usurper and helped place Satha's son on the throne, in what Spain regarded as a protectorate. The episode ended in 1599 when Malay and Cham soldiers massacred the Spanish garrison.",
+    "ko": "시암에 맞서던 사타 왕은 마닐라의 스페인 세력에 도움을 청했고, 포르투갈인 디오구 벨로주와 스페인인 블라스 루이스 같은 모험가들이 캄보디아 정치에 개입했다. 1596년 그들은 찬탈자를 죽이고 사타의 아들을 왕위에 앉혔으며, 스페인은 이를 보호령으로 여겼다. 이 일은 1599년 말레이·참족 병사들이 스페인 수비대를 학살하면서 끝났다.",
+    "zh": "面对暹罗的威胁，国王萨塔向马尼拉的西班牙人求援，葡萄牙人迪奥戈·韦洛索、西班牙人布拉斯·鲁伊斯等冒险者介入了柬埔寨政局。1596年他们杀死篡位者，扶立萨塔之子为王，西班牙视之为保护国。1599年马来和占族士兵屠杀西班牙驻军，这段插曲就此结束。",
+    "ja": "シャムに対抗するサター王はマニラのスペイン人に助けを求め、ポルトガル人ディオゴ・ヴェローゾやスペイン人ブラス・ルイスらの冒険者がカンボジア政治に関与した。1596年に彼らは簒奪者を殺してサターの子を王位に就け、スペインはこれを保護国とみなした。1599年にマレー人とチャム人の兵がスペイン守備隊を虐殺し、この出来事は終わった。"
+   }
+  },
+  {
+   "year": 1594,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Fall of Longvek",
+    "ko": "롱벡 함락",
+    "zh": "洛韦陷落",
+    "ja": "ロンヴェーク陥落"
+   },
+   "description": {
+    "en": "In 1594 Siamese forces under Naresuan captured Longvek, and King Satha fled. Many Khmer were deported to Siam, and Cambodia entered a long period of Siamese influence. Khmer legends later blamed the loss on Siamese trickery, and the fall of Longvek became a symbol of national decline.",
+    "ko": "1594년 나레수안이 이끄는 시암군이 롱벡을 점령하자 사타 왕은 도주했다. 많은 크메르인이 시암으로 끌려갔고, 캄보디아는 시암의 영향력 아래 긴 시기에 들어섰다. 후대 크메르 전설은 이 패배를 시암의 계략 탓으로 돌렸으며, 롱벡 함락은 국가 쇠퇴의 상징이 되었다.",
+    "zh": "1594年，纳黎萱率领的暹罗军队攻陷洛韦，国王萨塔出逃。许多高棉人被掳往暹罗，柬埔寨进入长期受暹罗影响的时期。后来的高棉传说将这次失败归咎于暹罗人的诡计，洛韦陷落成为国家衰落的象征。",
+    "ja": "1594年、ナレースワン率いるシャム軍がロンヴェークを攻略し、サター王は逃れた。多くのクメール人がシャムへ連れ去られ、カンボジアは長いシャムの影響下の時代に入った。のちのクメールの伝説はこの敗北をシャムの策略のせいとし、ロンヴェーク陥落は国家衰退の象徴となった。"
+   }
+  },
+  {
+   "year": 1620,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Chey Chettha II rules from Oudong",
+    "ko": "체이 체타 2세의 우동 천도",
+    "zh": "吉·吉塔二世定都乌栋",
+    "ja": "チェイ・チェッタ2世、ウドンを都に"
+   },
+   "description": {
+    "en": "King Chey Chettha II, who reigned from 1618, moved the court to Oudong and asserted independence from Siam. Around 1620 he married a princess of the Nguyễn lords of southern Vietnam, gaining an ally against Siam. Oudong remained the royal capital until the 1860s, but the alliance opened the way for Vietnamese expansion into the Mekong delta.",
+    "ko": "1618년부터 재위한 체이 체타 2세는 왕실을 우동으로 옮기고 시암으로부터의 독립을 주장했다. 1620년 무렵 그는 베트남 남부 응우옌 군주의 공주와 혼인하여 시암에 맞설 동맹을 얻었다. 우동은 1860년대까지 왕도로 남았지만, 이 동맹은 베트남이 메콩 삼각주로 진출하는 길을 열었다.",
+    "zh": "1618年即位的吉·吉塔二世将王廷迁至乌栋，宣示脱离暹罗而独立。约1620年他迎娶越南南方阮主的公主，获得对抗暹罗的盟友。乌栋作为王都一直延续到19世纪60年代，但这一联盟也为越南向湄公河三角洲扩张打开了大门。",
+    "ja": "1618年から在位したチェイ・チェッタ2世は王室をウドンに移し、シャムからの独立を主張した。1620年頃、彼はベトナム南部の阮氏の王女と結婚し、シャムに対抗する同盟者を得た。ウドンは1860年代まで王都であったが、この同盟はベトナムのメコンデルタ進出への道を開いた。"
+   }
+  },
+  {
+   "year": 1623,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Vietnamese foothold at Prey Nokor",
+    "ko": "프레이노코르에 베트남 거점 형성",
+    "zh": "越南人在波雷诺哥立足",
+    "ja": "プレイノコールにベトナム人の拠点"
+   },
+   "description": {
+    "en": "According to Vietnamese accounts, around 1623 the Cambodian court allowed the Nguyễn lords to set up a customs post at Prey Nokor, a Khmer port in the Mekong delta. Vietnamese settlers increasingly moved into the area in the following decades. Prey Nokor later grew into Saigon, today's Ho Chi Minh City.",
+    "ko": "베트남 측 기록에 따르면 1623년 무렵 캄보디아 왕실은 응우옌 군주가 메콩 삼각주의 크메르 항구 프레이노코르에 세관을 두도록 허락했다. 이후 수십 년 동안 베트남 이주민이 이 지역으로 점점 더 많이 들어왔다. 프레이노코르는 뒷날 사이공, 곧 오늘날의 호찌민시로 성장했다.",
+    "zh": "据越南方面记载，约1623年柬埔寨王廷允许阮主在湄公河三角洲的高棉港口波雷诺哥设立税关。此后数十年间，越南移民不断迁入该地。波雷诺哥后来发展为西贡，即今日的胡志明市。",
+    "ja": "ベトナム側の記録によれば、1623年頃カンボジア王室は阮氏がメコンデルタのクメール人の港プレイノコールに税関を設けることを許した。その後の数十年でベトナム人入植者がこの地域に次々と移り住んだ。プレイノコールはのちにサイゴン、すなわち今日のホーチミン市へと成長した。"
+   }
+  },
+  {
+   "year": 1642,
+   "qid": null,
+   "importance": 3,
+   "category": "religion",
+   "title": {
+    "en": "A Cambodian king converts to Islam",
+    "ko": "이슬람으로 개종한 캄보디아 왕",
+    "zh": "柬埔寨国王改宗伊斯兰教",
+    "ja": "イスラームに改宗したカンボジア王"
+   },
+   "description": {
+    "en": "Ramathipadi I (Ponhea Chan), who seized the throne in 1642, converted to Islam under the influence of the Malay and Cham communities, which had grown important in Cambodian trade and politics. He was the only Cambodian king known to have embraced Islam. Vietnamese intervention, invited by rival princes, overthrew him in the late 1650s.",
+    "ko": "1642년 왕위를 차지한 라마티파디 1세(폰헤아 찬)는 캄보디아 교역과 정치에서 중요해진 말레이·참족 공동체의 영향으로 이슬람으로 개종했다. 그는 이슬람을 받아들인 것으로 알려진 유일한 캄보디아 왕이다. 경쟁 왕자들이 끌어들인 베트남의 개입으로 그는 1650년대 말 폐위되었다.",
+    "zh": "1642年夺取王位的罗摩提婆底一世（蓬黑亚·詹）在当时于柬埔寨商业和政治中地位日益重要的马来人和占人社群影响下改信伊斯兰教。他是已知唯一皈依伊斯兰教的柬埔寨国王。17世纪50年代末，敌对王子引入的越南干预推翻了他。",
+    "ja": "1642年に王位を奪ったラーマーティパディー1世（ポニェ・チャン）は、カンボジアの交易と政治で重要性を増していたマレー人・チャム人社会の影響でイスラームに改宗した。彼はイスラームを受け入れたことが知られる唯一のカンボジア王である。対立する王子たちが招いたベトナムの介入により、1650年代末に廃位された。"
+   }
+  },
+  {
+   "year": 1643,
+   "qid": "Q17048924",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Cambodian–Dutch War",
+    "ko": "캄보디아·네덜란드 전쟁",
+    "zh": "柬荷战争",
+    "ja": "カンボジア・オランダ戦争"
+   },
+   "description": {
+    "en": "In 1643 Cambodian forces attacked the trading post of the Dutch East India Company near Phnom Penh, killing its chief and many staff amid commercial and political disputes. A Dutch punitive fleet sent up the Mekong in 1644 was defeated. The conflict ended significant Dutch trade in Cambodia for years.",
+    "ko": "1643년 상업적·정치적 분쟁 속에 캄보디아군이 프놈펜 근처 네덜란드 동인도회사 상관을 공격하여 상관장과 많은 직원을 죽였다. 1644년 메콩강을 거슬러 보낸 네덜란드의 응징 함대는 패배했다. 이 분쟁으로 네덜란드의 캄보디아 교역은 여러 해 동안 사실상 끊겼다.",
+    "zh": "1643年，在商业和政治纠纷中，柬埔寨军队袭击了金边附近的荷兰东印度公司商馆，杀死商馆长和许多职员。1644年荷兰派舰队沿湄公河上溯进行报复，结果战败。这场冲突使荷兰在柬埔寨的贸易中断多年。",
+    "ja": "1643年、商業上・政治上の対立のなか、カンボジア軍はプノンペン近くのオランダ東インド会社の商館を襲い、商館長と多くの職員を殺害した。1644年にメコン川を遡った懲罰艦隊は撃退された。この紛争によりオランダのカンボジア交易は長年途絶えた。"
+   }
+  },
+  {
+   "year": 1698,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Nguyễn lords organize Gia Định in the lower Mekong",
+    "ko": "응우옌 군주의 자딘 설치",
+    "zh": "阮主设嘉定府",
+    "ja": "阮氏、嘉定府を設置"
+   },
+   "description": {
+    "en": "In 1698 the Nguyễn lord sent Nguyễn Hữu Cảnh to organize the Prey Nokor region as the Vietnamese prefecture of Gia Định. Over the following decades the remaining Khmer lands of the Mekong delta, known to Khmers as Kampuchea Krom, passed under Vietnamese control. A large Khmer Krom population remains in southern Vietnam today.",
+    "ko": "1698년 응우옌 군주는 응우옌흐우까인을 보내 프레이노코르 일대를 베트남의 자딘부로 편성했다. 이후 수십 년 동안 크메르인이 캄푸치아 끄롬이라 부르는 메콩 삼각주의 나머지 크메르 땅도 베트남의 지배 아래 들어갔다. 오늘날 베트남 남부에는 많은 크메르 끄롬 주민이 살고 있다.",
+    "zh": "1698年，阮主派阮有镜将波雷诺哥一带设为越南的嘉定府。此后数十年间，高棉人称为“下柬埔寨”（Kampuchea Krom）的湄公河三角洲其余高棉土地也相继归入越南控制。今天越南南部仍居住着大量高棉族（下高棉人）。",
+    "ja": "1698年、阮氏は阮有鏡を派遣してプレイノコール一帯をベトナムの嘉定府として編成した。その後の数十年で、クメール人がカンプチア・クロムと呼ぶメコンデルタの残るクメールの地もベトナムの支配下に入った。今日もベトナム南部には多くのクメール・クロムの人々が暮らしている。"
+   }
+  },
+  {
+   "year": 1771,
+   "qid": "Q2280725",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siamese–Vietnamese War of 1771–1773",
+    "ko": "1771~1773년 시암·베트남 전쟁",
+    "zh": "1771—1773年暹越战争",
+    "ja": "1771〜1773年のシャム・ベトナム戦争"
+   },
+   "description": {
+    "en": "King Taksin of Thonburi invaded Cambodia in 1771 to install a pro-Siamese king, capturing Phnom Penh and clashing with the Nguyễn lords who backed his rival. The war ended inconclusively as the Tây Sơn rebellion engulfed Vietnam. It was one of a series of wars in which Cambodia's throne became a prize contested by its two neighbours.",
+    "ko": "톤부리의 탁신 왕은 친시암 국왕을 세우려고 1771년 캄보디아를 침공해 프놈펜을 점령하고, 그 경쟁자를 지원하던 응우옌 군주와 충돌했다. 떠이선 반란이 베트남을 휩쓸면서 전쟁은 결말 없이 끝났다. 이는 캄보디아의 왕위가 두 이웃 나라의 쟁탈 대상이 된 일련의 전쟁 중 하나였다.",
+    "zh": "吞武里王朝的郑信王于1771年入侵柬埔寨，意图扶立亲暹罗的国王，他攻占金边，并与支持其对手的阮主发生冲突。随着西山起义席卷越南，战争未分胜负便告结束。这是柬埔寨王位成为两个邻国争夺对象的一系列战争之一。",
+    "ja": "トンブリー朝のタークシン王は親シャムの王を立てるため1771年にカンボジアに侵攻してプノンペンを占領し、その対立者を支援する阮氏と衝突した。西山党の乱がベトナムを席巻したため、戦争は決着のないまま終わった。これは、カンボジアの王位が二つの隣国の争奪の対象となった一連の戦争の一つであった。"
+   }
+  },
+  {
+   "year": 1795,
+   "qid": "Q1155700",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Siam takes Battambang and Siem Reap",
+    "ko": "시암, 바탐방·시엠레아프 차지",
+    "zh": "暹罗占据马德望与暹粒",
+    "ja": "シャム、バッタンバンとシェムリアップを領有"
+   },
+   "description": {
+    "en": "After Rama I of Bangkok installed the young King Ang Eng, the northwestern provinces of Battambang and Siem Reap, including Angkor, came under direct Siamese control from around 1795. They were governed by a Khmer noble family loyal to Bangkok. The provinces remained Siamese until 1907.",
+    "ko": "방콕의 라마 1세가 어린 앙 엥 왕을 즉위시킨 뒤, 앙코르를 포함한 북서부의 바탐방과 시엠레아프 지방은 1795년 무렵부터 시암의 직접 지배를 받게 되었다. 이 지방들은 방콕에 충성하는 크메르 귀족 가문이 다스렸다. 이 지역은 1907년까지 시암 영토로 남았다.",
+    "zh": "曼谷王朝的拉玛一世扶立年幼的安英为王后，包括吴哥在内的西北部马德望、暹粒等地约自1795年起归暹罗直接控制，由效忠曼谷的一个高棉贵族家族管辖。这些省份直到1907年都属于暹罗。",
+    "ja": "バンコクのラーマ1世が幼いアン・エン王を即位させた後、アンコールを含む北西部のバッタンバンとシェムリアップ地方は1795年頃からシャムの直接支配下に入った。これらはバンコクに忠実なクメール貴族の一族が治めた。この地域は1907年までシャム領であった。"
+   }
+  },
+  {
+   "year": 1831,
+   "qid": "Q3381219",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siamese–Vietnamese War of 1831–1834",
+    "ko": "1831~1834년 시암·베트남 전쟁",
+    "zh": "1831—1834年暹越战争",
+    "ja": "1831〜1834年のシャム・ベトナム戦争"
+   },
+   "description": {
+    "en": "In 1831 Siam invaded Cambodia, driving out the pro-Vietnamese King Ang Chan II, and pushed toward southern Vietnam. A Vietnamese counteroffensive drove the Siamese back by 1834, and much of Cambodia was devastated in the fighting. The outcome left Vietnam in control of most of the kingdom.",
+    "ko": "1831년 시암은 캄보디아를 침공하여 친베트남 성향의 앙 찬 2세를 몰아내고 베트남 남부로 진격했다. 베트남의 반격으로 1834년까지 시암군은 물러났고, 전쟁 과정에서 캄보디아 상당 지역이 황폐해졌다. 그 결과 베트남이 왕국 대부분을 장악했다.",
+    "zh": "1831年暹罗入侵柬埔寨，赶走亲越南的国王安赞二世，并向越南南部推进。越南发动反攻，至1834年击退暹罗军，柬埔寨大片地区在战火中遭到破坏。战争的结果是越南控制了王国的大部分地区。",
+    "ja": "1831年、シャムはカンボジアに侵攻して親ベトナムのアン・チャン2世を追い、ベトナム南部へ進撃した。ベトナムの反撃により1834年までにシャム軍は撃退され、戦闘でカンボジアの多くの地域が荒廃した。その結果、ベトナムが王国の大半を掌握した。"
+   }
+  },
+  {
+   "year": 1835,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Cambodia annexed as Vietnam's Trấn Tây province",
+    "ko": "캄보디아, 베트남 진서성으로 병합",
+    "zh": "柬埔寨被并为越南镇西城",
+    "ja": "カンボジア、ベトナムの鎮西城に併合"
+   },
+   "description": {
+    "en": "After Ang Chan II died in 1835, Emperor Minh Mạng placed his daughter Ang Mey on the throne as a figurehead and administered Cambodia as Trấn Tây Thành. Vietnamese officials reorganized provinces, imposed Vietnamese dress and customs and pressured Buddhist institutions. Resentment exploded in a nationwide Khmer uprising in 1840.",
+    "ko": "1835년 앙 찬 2세가 죽자 민망 황제는 그의 딸 앙 메이를 명목상 군주로 세우고 캄보디아를 진서성으로 다스렸다. 베트남 관리들은 지방을 재편하고 베트남식 복식과 관습을 강요했으며 불교 기관을 압박했다. 반감은 1840년 전국적인 크메르 봉기로 폭발했다.",
+    "zh": "1835年安赞二世去世后，明命帝立其女安眉为名义君主，以“镇西城”之名直接治理柬埔寨。越南官员改划省份，强制推行越式服饰与风俗，并压制佛教机构。民怨于1840年爆发为全国性的高棉人起义。",
+    "ja": "1835年にアン・チャン2世が没すると、明命帝はその娘アン・メイを名目上の君主に立て、カンボジアを鎮西城として統治した。ベトナム人官吏は州を再編し、ベトナム式の服装や風俗を強制し、仏教機関に圧力をかけた。反発は1840年の全国的なクメール人反乱として爆発した。"
+   }
+  },
+  {
+   "year": 1841,
+   "qid": "Q641185",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Siamese–Vietnamese War of 1841–1845",
+    "ko": "1841~1845년 시암·베트남 전쟁",
+    "zh": "1841—1845年暹越战争",
+    "ja": "1841〜1845年のシャム・ベトナム戦争"
+   },
+   "description": {
+    "en": "Following the Khmer revolt, Siam invaded again in 1841 to support Prince Ang Duong, and Vietnam's position in Cambodia weakened after Minh Mạng's death. Years of inconclusive fighting ended with a settlement in 1845–1847 under which both powers recognized Ang Duong as king. Cambodia survived as a kingdom under dual suzerainty.",
+    "ko": "크메르 봉기 이후 시암은 앙 두엉 왕자를 지원하려 1841년 다시 침공했고, 민망 황제의 사망 후 캄보디아에서 베트남의 입지는 약해졌다. 수년간 승부 없는 싸움 끝에 1845~1847년 합의로 두 나라는 앙 두엉을 국왕으로 인정했다. 캄보디아는 이중 종주권 아래 왕국으로 살아남았다.",
+    "zh": "高棉人起义后，暹罗于1841年再次入侵以支持安东王子，而明命帝去世后越南在柬埔寨的地位削弱。经过数年胜负难分的战斗，双方于1845至1847年间达成妥协，共同承认安东为国王。柬埔寨作为处于双重宗主权下的王国得以存续。",
+    "ja": "クメール人の反乱を受け、シャムはアン・ドゥオン王子を支援するため1841年に再び侵攻し、明命帝の死後カンボジアにおけるベトナムの立場は弱まった。数年にわたる決着のつかない戦いの末、1845〜1847年の合意で両国はアン・ドゥオンを王と認めた。カンボジアは二重の宗主権下の王国として存続した。"
+   }
+  },
+  {
+   "year": 1848,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Coronation of King Ang Duong",
+    "ko": "앙 두엉 왕의 대관",
+    "zh": "安东国王加冕",
+    "ja": "アン・ドゥオン王の戴冠"
+   },
+   "description": {
+    "en": "Ang Duong was formally crowned at Oudong in 1848. His reign brought a period of recovery: he reformed laws and taxes, encouraged Buddhism and literature, and himself wrote poetry. Seeking to escape Siamese and Vietnamese domination, he made secret overtures to France, paving the way for the later protectorate.",
+    "ko": "앙 두엉은 1848년 우동에서 정식으로 대관했다. 그의 치세는 회복의 시기로, 법과 세제를 개혁하고 불교와 문학을 장려했으며 스스로 시를 짓기도 했다. 시암과 베트남의 지배에서 벗어나고자 그는 프랑스에 은밀히 접근했고, 이는 훗날 보호령 성립의 길을 닦았다.",
+    "zh": "安东于1848年在乌栋正式加冕。其统治带来了恢复时期：他改革法律和赋税，提倡佛教与文学，本人亦能作诗。为摆脱暹罗和越南的控制，他秘密向法国示好，为后来的保护国关系铺平了道路。",
+    "ja": "アン・ドゥオンは1848年にウドンで正式に戴冠した。その治世は回復の時代で、法と税制を改革し、仏教と文学を奨励し、自らも詩を作った。シャムとベトナムの支配から逃れようと彼はひそかにフランスに接近し、のちの保護国化への道を開いた。"
+   }
+  },
+  {
+   "year": 1860,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Henri Mouhot brings Angkor to European attention",
+    "ko": "앙리 무오, 앙코르를 유럽에 알리다",
+    "zh": "亨利·穆奥向欧洲介绍吴哥",
+    "ja": "アンリ・ムオ、アンコールをヨーロッパに紹介"
+   },
+   "description": {
+    "en": "The French naturalist Henri Mouhot visited Angkor in 1860, and his posthumously published travel accounts and drawings popularized the ruins in Europe. Although Angkor had never been forgotten by Cambodians and had been described by earlier Western visitors, Mouhot's account fuelled French fascination with the region. It contributed to the colonial interest that soon followed.",
+    "ko": "프랑스 박물학자 앙리 무오는 1860년 앙코르를 방문했으며, 사후 출간된 그의 여행기와 스케치는 유럽에 유적을 널리 알렸다. 앙코르는 캄보디아인에게 결코 잊힌 적이 없었고 이전에도 서양 방문자들의 기록이 있었지만, 무오의 기록은 이 지역에 대한 프랑스의 열광을 불러일으켰다. 이는 곧이은 식민지적 관심에 일조했다.",
+    "zh": "法国博物学家亨利·穆奥于1860年造访吴哥，他身后出版的游记和素描使这些遗迹在欧洲广为人知。吴哥从未被柬埔寨人遗忘，此前也有西方访客的记述，但穆奥的记载激发了法国对该地区的浓厚兴趣，助长了随后而来的殖民关注。",
+    "ja": "フランスの博物学者アンリ・ムオは1860年にアンコールを訪れ、死後に刊行された旅行記とスケッチがヨーロッパで遺跡を広く知らしめた。アンコールはカンボジア人に忘れられたことはなく、それ以前の西洋人の記録もあったが、ムオの記録はこの地域へのフランスの熱狂をかき立てた。これはまもなく続く植民地的関心に寄与した。"
+   }
+  },
+  {
+   "year": 1863,
+   "qid": "Q185682",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "French protectorate established",
+    "ko": "프랑스 보호령 수립",
+    "zh": "沦为法国保护国",
+    "ja": "フランスの保護国となる"
+   },
+   "description": {
+    "en": "In August 1863 King Norodom signed a protectorate treaty with France, which had recently taken southern Vietnam and wanted control of the Mekong. Norodom sought a counterweight to Siam and Vietnam, but the agreement gradually transferred real power to French officials. It began ninety years of French rule.",
+    "ko": "1863년 8월 노로돔 국왕은 베트남 남부를 막 차지하고 메콩강 통제를 원하던 프랑스와 보호 조약을 맺었다. 노로돔은 시암과 베트남을 견제할 세력을 구했지만, 이 조약으로 실권은 점차 프랑스 관리에게 넘어갔다. 이로써 90년에 걸친 프랑스 지배가 시작되었다.",
+    "zh": "1863年8月，诺罗敦国王与刚刚占领越南南部、意图控制湄公河的法国签订保护条约。诺罗敦希望借此牵制暹罗和越南，但条约使实权逐渐落入法国官员之手，开启了长达九十年的法国统治。",
+    "ja": "1863年8月、ノロドム王は、ベトナム南部を手に入れたばかりでメコン川の支配を望むフランスと保護条約を結んだ。ノロドムはシャムとベトナムへの対抗勢力を求めたが、この条約により実権は次第にフランス人官吏に移った。こうして90年にわたるフランス支配が始まった。"
+   }
+  },
+  {
+   "year": 1866,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Phnom Penh becomes the capital again",
+    "ko": "프놈펜, 다시 수도가 되다",
+    "zh": "金边再度成为首都",
+    "ja": "プノンペン、再び首都に"
+   },
+   "description": {
+    "en": "With French encouragement, King Norodom moved the royal court from Oudong to Phnom Penh in the mid-1860s, completing the move around 1866. The French developed the city as an administrative and commercial centre with a planned riverside quarter. The Royal Palace built in this era remains the residence of Cambodia's kings.",
+    "ko": "프랑스의 권유로 노로돔 국왕은 1860년대 중반 왕실을 우동에서 프놈펜으로 옮겼으며, 1866년 무렵 이전을 마쳤다. 프랑스는 이 도시를 계획적인 강변 지구를 갖춘 행정·상업 중심지로 개발했다. 이 시기에 지어진 왕궁은 지금도 캄보디아 국왕의 거처다.",
+    "zh": "在法国的推动下，诺罗敦国王于19世纪60年代中期将王廷从乌栋迁至金边，约在1866年完成迁移。法国将金边建设为拥有规划沿河街区的行政和商业中心。这一时期修建的王宫至今仍是柬埔寨国王的居所。",
+    "ja": "フランスの勧めにより、ノロドム王は1860年代半ばに王室をウドンからプノンペンへ移し、1866年頃に移転を終えた。フランスはこの都市を計画的な川沿いの街区をもつ行政・商業の中心として整備した。この時代に建てられた王宮は今もカンボジア国王の住まいである。"
+   }
+  },
+  {
+   "year": 1884,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Forced convention of 1884 and the great revolt",
+    "ko": "1884년 강제 협약과 대반란",
+    "zh": "1884年强迫协约与大起义",
+    "ja": "1884年の強制協約と大反乱"
+   },
+   "description": {
+    "en": "In 1884 the governor of Cochinchina forced King Norodom, under threat, to sign a convention giving French officials control over taxation and administration. A widespread rebellion followed in 1885–1886, associated with Norodom's half-brother Si Votha. France ended the revolt by leaving some royal prerogatives in place, but steadily expanded its control afterwards.",
+    "ko": "1884년 코친차이나 총독은 위협을 가하며 노로돔 국왕에게 조세와 행정의 통제권을 프랑스 관리에게 넘기는 협약에 서명하게 했다. 1885~1886년에는 노로돔의 이복형제 시 보타와 연관된 대규모 반란이 이어졌다. 프랑스는 일부 왕권을 남겨 두는 선에서 반란을 수습했지만, 이후 꾸준히 지배를 확대했다.",
+    "zh": "1884年，交趾支那总督以武力相胁，迫使诺罗敦国王签署协约，将税收和行政控制权交给法国官员。1885至1886年随之爆发了与诺罗敦的异母兄弟西沃塔有关的大规模起义。法国以保留部分王权为条件平息了叛乱，此后却不断扩大控制。",
+    "ja": "1884年、コーチシナ総督は威嚇のもとでノロドム王に、徴税と行政の権限をフランス人官吏に委ねる協約に署名させた。1885〜1886年には、ノロドムの異母兄弟シ・ヴォタと結びついた大規模な反乱が続いた。フランスは一部の王権を残すことで反乱を収めたが、その後も着実に支配を拡大した。"
+   }
+  },
+  {
+   "year": 1887,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Cambodia joins the Indochinese Union",
+    "ko": "인도차이나 연방에 편입",
+    "zh": "并入印度支那联邦",
+    "ja": "インドシナ連邦への編入"
+   },
+   "description": {
+    "en": "In 1887 France grouped Cambodia with Cochinchina, Annam and Tonkin in the Indochinese Union under a Governor-General, with Laos added in 1893. Cambodia's monarchy survived, but policy was set in Hanoi and Saigon, and many officials were Vietnamese. The arrangement shaped Cambodia's administration until the end of colonial rule.",
+    "ko": "1887년 프랑스는 캄보디아를 코친차이나, 안남, 통킹과 함께 총독이 다스리는 인도차이나 연방으로 묶었고, 1893년 라오스가 추가되었다. 캄보디아 왕정은 유지되었지만 정책은 하노이와 사이공에서 결정되었고 많은 관리는 베트남인이었다. 이 체제는 식민 통치가 끝날 때까지 캄보디아의 행정을 규정했다.",
+    "zh": "1887年，法国将柬埔寨与交趾支那、安南、东京合并为由总督统辖的印度支那联邦，1893年又加入老挝。柬埔寨君主制得以保留，但政策由河内和西贡制定，许多官员是越南人。这一体制一直塑造着柬埔寨的行政，直到殖民统治结束。",
+    "ja": "1887年、フランスはカンボジアをコーチシナ、アンナン、トンキンとともに総督が統べるインドシナ連邦にまとめ、1893年にはラオスが加わった。カンボジアの王制は存続したが、政策はハノイとサイゴンで決められ、多くの官吏はベトナム人であった。この体制は植民地支配の終わりまでカンボジアの行政を形づくった。"
+   }
+  },
+  {
+   "year": 1904,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of Norodom; Sisowath becomes king",
+    "ko": "노로돔의 사망과 시소왓 즉위",
+    "zh": "诺罗敦去世，西索瓦继位",
+    "ja": "ノロドム死去とシソワット即位"
+   },
+   "description": {
+    "en": "King Norodom died in 1904, and the French chose his more compliant half-brother Sisowath as successor rather than one of Norodom's sons. Sisowath cooperated closely with the colonial administration during his reign until 1927. The French thereafter selected kings from both the Norodom and Sisowath lines.",
+    "ko": "1904년 노로돔 국왕이 죽자 프랑스는 그의 아들들 대신 더 순응적인 이복동생 시소왓을 후계자로 정했다. 시소왓은 1927년까지의 치세 동안 식민 당국과 긴밀히 협력했다. 이후 프랑스는 노로돔계와 시소왓계 양쪽에서 국왕을 골랐다.",
+    "zh": "1904年诺罗敦国王去世，法国没有立他的儿子，而是选择更为顺从的异母弟西索瓦继位。西索瓦在位至1927年，期间与殖民当局密切合作。此后法国从诺罗敦和西索瓦两支王族中择立国王。",
+    "ja": "1904年にノロドム王が死去すると、フランスはその息子たちではなく、より従順な異母弟シソワットを後継に選んだ。シソワットは1927年までの治世を通じて植民地当局と緊密に協力した。以後フランスはノロドム系とシソワット系の双方から国王を選んだ。"
+   }
+  },
+  {
+   "year": 1907,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Siam returns Battambang and Siem Reap",
+    "ko": "시암, 바탐방·시엠레아프 반환",
+    "zh": "暹罗归还马德望与暹粒",
+    "ja": "シャム、バッタンバンとシェムリアップを返還"
+   },
+   "description": {
+    "en": "Under the Franco-Siamese treaty of March 1907, Siam ceded the provinces of Battambang, Siem Reap and Sisophon to French-protected Cambodia in exchange for territorial concessions elsewhere. The return brought Angkor back under Cambodian sovereignty. The French then launched systematic conservation of the monuments through the École française d'Extrême-Orient.",
+    "ko": "1907년 3월 프랑스·시암 조약에 따라 시암은 다른 지역의 영토 양보를 대가로 바탐방, 시엠레아프, 시소폰 지방을 프랑스 보호령 캄보디아에 넘겼다. 이로써 앙코르는 다시 캄보디아의 주권 아래 들어왔다. 이후 프랑스는 프랑스 극동학원을 통해 유적의 체계적 보존에 착수했다.",
+    "zh": "根据1907年3月的法暹条约，暹罗以换取其他地区的领土让步为条件，将马德望、暹粒和诗梳风等省割让给法国保护下的柬埔寨。吴哥由此重归柬埔寨主权之下。随后法国通过法国远东学院对古迹展开系统保护。",
+    "ja": "1907年3月のフランス・シャム条約により、シャムは他地域での領土上の譲歩と引き換えに、バッタンバン、シェムリアップ、シソポンの各州をフランス保護下のカンボジアに割譲した。これによりアンコールは再びカンボジアの主権下に戻った。その後フランスはフランス極東学院を通じて遺跡の体系的な保存に着手した。"
+   }
+  },
+  {
+   "year": 1916,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "The 1916 Affair: peasant tax protests",
+    "ko": "1916년 사건: 농민 조세 항의",
+    "zh": "1916年农民抗税事件",
+    "ja": "1916年事件：農民の徴税抗議"
+   },
+   "description": {
+    "en": "In 1916 tens of thousands of Cambodian peasants marched peacefully to Phnom Penh to petition King Sisowath against heavy taxes and forced labour on French public works. The scale of the protest surprised the colonial authorities. It was the largest expression of popular discontent in Cambodia under French rule before World War II.",
+    "ko": "1916년 수만 명의 캄보디아 농민이 프놈펜으로 평화 행진을 벌여 시소왓 국왕에게 무거운 세금과 프랑스 공공사업의 강제 노역에 대해 청원했다. 시위의 규모는 식민 당국을 놀라게 했다. 이는 제2차 세계대전 이전 프랑스 지배하 캄보디아에서 가장 큰 민중 불만의 표출이었다.",
+    "zh": "1916年，数以万计的柬埔寨农民和平进入金边，向西索瓦国王请愿，反对沉重的赋税和法国公共工程的强迫劳役。抗议的规模令殖民当局吃惊。这是二战前法国统治下柬埔寨最大规模的民众不满表达。",
+    "ja": "1916年、数万人のカンボジア農民がプノンペンへ平和的に行進し、重税とフランスの公共事業への強制労働についてシソワット王に請願した。その規模は植民地当局を驚かせた。これは第二次世界大戦前のフランス支配下のカンボジアで最大の民衆の不満の表明であった。"
+   }
+  },
+  {
+   "year": 1936,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Nagaravatta, the first Khmer-language newspaper of nationalism",
+    "ko": "민족주의 크메르어 신문 『나가라왓타』 창간",
+    "zh": "首份民族主义高棉文报纸《吴哥寺报》创刊",
+    "ja": "民族主義的クメール語新聞『ナガラワッタ』創刊"
+   },
+   "description": {
+    "en": "In 1936 Son Ngoc Thanh, Pach Chhoeun and Sim Var founded Nagaravatta ('Angkor Wat'), an early Khmer-language newspaper that voiced Cambodian grievances against colonial policy and Vietnamese and Chinese economic dominance. It became a focal point for an emerging nationalist elite. Several of its founders later played major roles in the independence movement.",
+    "ko": "1936년 손 응옥 탄, 팟 추은, 심 바르는 『나가라왓타』('앙코르 와트')를 창간했다. 이 초기 크메르어 신문은 식민 정책과 베트남인·중국인의 경제적 지배에 대한 캄보디아인의 불만을 대변했다. 신문은 신흥 민족주의 엘리트의 구심점이 되었고, 창간자 몇몇은 이후 독립운동에서 중요한 역할을 했다.",
+    "zh": "1936年，山玉成、巴川和沈瓦创办了高棉文报纸《吴哥寺报》（Nagaravatta）。这份早期高棉文报纸表达了柬埔寨人对殖民政策以及越南人、华人经济主导地位的不满，成为新兴民族主义精英的聚集点，其几位创办者后来在独立运动中发挥了重要作用。",
+    "ja": "1936年、ソン・ゴク・タン、パック・チュン、シム・ヴァルは『ナガラワッタ』（「アンコール・ワット」）を創刊した。この初期のクメール語新聞は、植民地政策やベトナム人・華人の経済支配に対するカンボジア人の不満を代弁した。新興の民族主義エリートの拠点となり、創刊者の何人かはのちに独立運動で大きな役割を果たした。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Thailand annexes the northwest after the Franco-Thai War",
+    "ko": "프랑스·태국 전쟁 후 태국의 북서부 병합",
+    "zh": "法泰战争后泰国吞并西北部",
+    "ja": "タイ・フランス領インドシナ紛争後のタイによる北西部併合"
+   },
+   "description": {
+    "en": "After the Franco-Thai War of 1940–41, a Japanese-mediated peace signed in Tokyo in May 1941 forced Vichy France to cede Battambang and parts of Siem Reap and other western areas to Thailand. Japanese troops were stationed in Indochina the same year. The territories were returned to Cambodia in 1946.",
+    "ko": "1940~41년 프랑스·태국 전쟁 후, 일본의 중재로 1941년 5월 도쿄에서 체결된 강화로 비시 프랑스는 바탐방과 시엠레아프 일부 등 서부 지역을 태국에 할양해야 했다. 같은 해 일본군이 인도차이나에 주둔했다. 이 영토는 1946년 캄보디아에 반환되었다.",
+    "zh": "1940至1941年法泰战争后，经日本调停于1941年5月在东京签订和约，维希法国被迫将马德望及暹粒部分地区等西部领土割让给泰国。同年日军进驻印度支那。这些领土于1946年归还柬埔寨。",
+    "ja": "1940〜41年のタイ・フランス領インドシナ紛争の後、日本の仲介で1941年5月に東京で結ばれた講和により、ヴィシー政権下のフランスはバッタンバンとシェムリアップの一部など西部地域をタイに割譲させられた。同年、日本軍がインドシナに駐留した。これらの領土は1946年にカンボジアに返還された。"
+   }
+  },
+  {
+   "year": 1941,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Norodom Sihanouk crowned king",
+    "ko": "노로돔 시아누크 즉위",
+    "zh": "诺罗敦·西哈努克即位",
+    "ja": "ノロドム・シハヌーク即位"
+   },
+   "description": {
+    "en": "In 1941 the French selected the 18-year-old Norodom Sihanouk as king after the death of King Monivong, expecting a pliable young monarch. Sihanouk instead became the dominant figure of modern Cambodian politics for more than half a century. He would lead the campaign for independence and later serve as king again from 1993 to 2004.",
+    "ko": "1941년 모니봉 국왕이 죽자 프랑스는 다루기 쉬운 젊은 군주를 기대하며 18세의 노로돔 시아누크를 국왕으로 골랐다. 그러나 시아누크는 반세기 넘게 현대 캄보디아 정치를 주도하는 인물이 되었다. 그는 독립운동을 이끌었고, 이후 1993년부터 2004년까지 다시 국왕을 지냈다.",
+    "zh": "1941年莫尼旺国王去世后，法国选择年仅18岁的诺罗敦·西哈努克为国王，期望他是一位易于操控的年轻君主。然而西哈努克却成为半个多世纪里柬埔寨现代政治的主导人物。他领导了争取独立的运动，并于1993年至2004年再度出任国王。",
+    "ja": "1941年、モニヴォン王の死去に伴い、フランスは扱いやすい若い君主を期待して18歳のノロドム・シハヌークを国王に選んだ。しかしシハヌークは半世紀以上にわたり現代カンボジア政治を主導する人物となった。彼は独立運動を率い、のちに1993年から2004年まで再び国王を務めた。"
+   }
+  },
+  {
+   "year": 1942,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "The Umbrella Revolt",
+    "ko": "우산 시위",
+    "zh": "雨伞起义",
+    "ja": "傘の反乱"
+   },
+   "description": {
+    "en": "In July 1942 more than a thousand people, many of them Buddhist monks carrying umbrellas, demonstrated in Phnom Penh against the French arrest of the monk Hem Chieu, accused of anti-colonial sermons. The French suppressed the protest and arrested its leaders, and Son Ngoc Thanh fled to Japan. It is regarded as the first major nationalist demonstration in Cambodia.",
+    "ko": "1942년 7월, 반식민 설법 혐의로 체포된 승려 헴 치에우의 석방을 요구하며 우산을 든 승려들을 포함한 천여 명이 프놈펜에서 시위를 벌였다. 프랑스는 시위를 진압하고 지도자들을 체포했으며, 손 응옥 탄은 일본으로 피신했다. 이는 캄보디아 최초의 대규모 민족주의 시위로 평가된다.",
+    "zh": "1942年7月，因被控宣讲反殖民言论的僧人亨谢遭法国逮捕，一千多人（其中许多是手持雨伞的僧侣）在金边示威抗议。法国镇压了抗议并逮捕其领导人，山玉成逃往日本。这被视为柬埔寨第一次大规模民族主义示威。",
+    "ja": "1942年7月、反植民地的な説法の容疑で逮捕された僧ヘム・チウの件に抗議し、傘を手にした多くの僧侶を含む千人以上がプノンペンでデモを行った。フランスは抗議を鎮圧して指導者を逮捕し、ソン・ゴク・タンは日本へ逃れた。これはカンボジアで最初の大規模な民族主義デモとされる。"
+   }
+  },
+  {
+   "year": 1945,
+   "qid": "Q16673775",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Japanese-sponsored Kingdom of Kampuchea",
+    "ko": "일본 후원 아래의 캄푸치아 왕국",
+    "zh": "日本扶持下的柬埔寨王国",
+    "ja": "日本の後援によるカンプチア王国"
+   },
+   "description": {
+    "en": "After Japan overthrew the French administration in Indochina on 9 March 1945, King Sihanouk proclaimed the independence of Kampuchea a few days later. Son Ngoc Thanh returned from Japan and became prime minister in August. After Japan's surrender, the returning French arrested Thanh in October 1945 and restored their authority.",
+    "ko": "1945년 3월 9일 일본이 인도차이나의 프랑스 행정을 무너뜨리자, 며칠 뒤 시아누크 국왕은 캄푸치아의 독립을 선포했다. 손 응옥 탄은 일본에서 돌아와 8월에 총리가 되었다. 일본 항복 후 돌아온 프랑스는 1945년 10월 탄을 체포하고 권위를 회복했다.",
+    "zh": "1945年3月9日日本推翻法国在印度支那的统治后，西哈努克国王于数日后宣布柬埔寨独立。山玉成从日本回国，于8月出任首相。日本投降后，重返的法国于1945年10月逮捕山玉成，恢复了统治。",
+    "ja": "1945年3月9日に日本がインドシナのフランス統治機構を倒すと、数日後シハヌーク国王はカンプチアの独立を宣言した。ソン・ゴク・タンは日本から戻り、8月に首相となった。日本の降伏後、戻ってきたフランスは1945年10月にタンを逮捕し、権威を回復した。"
+   }
+  },
+  {
+   "year": 1946,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Modus vivendi and return of the western provinces",
+    "ko": "잠정 협정과 서부 지방 반환",
+    "zh": "临时协定与西部省份归还",
+    "ja": "暫定協定と西部諸州の返還"
+   },
+   "description": {
+    "en": "In January 1946 a modus vivendi granted Cambodia internal autonomy within the French Union, allowing political parties and elections. Later that year, under an agreement concluded in Washington, Thailand returned the provinces it had annexed in 1941. Elections to a constituent assembly in September were won by the Democratic Party.",
+    "ko": "1946년 1월 잠정 협정으로 캄보디아는 프랑스 연합 안에서 내정 자치권을 얻었고 정당 활동과 선거가 허용되었다. 같은 해 말 워싱턴에서 맺어진 합의에 따라 태국은 1941년에 병합한 지방들을 반환했다. 9월 제헌의회 선거에서는 민주당이 승리했다.",
+    "zh": "1946年1月签订的临时协定给予柬埔寨在法兰西联邦内的内政自治，允许组建政党和举行选举。同年稍后，根据在华盛顿达成的协议，泰国归还了1941年吞并的各省。9月的制宪议会选举中，民主党获胜。",
+    "ja": "1946年1月の暫定協定によりカンボジアはフランス連合内での内政自治を得て、政党活動と選挙が認められた。同年後半、ワシントンで結ばれた合意によりタイは1941年に併合した諸州を返還した。9月の制憲議会選挙では民主党が勝利した。"
+   }
+  },
+  {
+   "year": 1947,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "First constitution of Cambodia",
+    "ko": "캄보디아 최초의 헌법",
+    "zh": "柬埔寨第一部宪法",
+    "ja": "カンボジア初の憲法"
+   },
+   "description": {
+    "en": "King Sihanouk promulgated Cambodia's first constitution in May 1947, establishing a constitutional monarchy with an elected National Assembly. Parliamentary politics was dominated by the Democratic Party, which pressed for full independence and often clashed with the king. In 1949 France granted Cambodia partial independence within the French Union.",
+    "ko": "시아누크 국왕은 1947년 5월 캄보디아 최초의 헌법을 공포하여 선출된 국민의회를 갖춘 입헌군주제를 세웠다. 의회 정치는 완전한 독립을 요구하며 국왕과 자주 충돌한 민주당이 주도했다. 1949년 프랑스는 프랑스 연합 내에서 캄보디아에 부분적 독립을 부여했다.",
+    "zh": "1947年5月西哈努克国王颁布柬埔寨第一部宪法，建立设有民选国民议会的君主立宪制。议会政治由要求完全独立、常与国王冲突的民主党主导。1949年法国给予柬埔寨在法兰西联邦内的部分独立。",
+    "ja": "シハヌーク国王は1947年5月にカンボジア初の憲法を公布し、選挙で選ばれる国民議会を備えた立憲君主制を樹立した。議会政治は完全独立を求めてしばしば国王と対立した民主党が主導した。1949年、フランスはフランス連合内でカンボジアに部分的独立を認めた。"
+   }
+  },
+  {
+   "year": 1953,
+   "qid": "Q2638486",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Independence from France",
+    "ko": "프랑스로부터 독립",
+    "zh": "脱离法国独立",
+    "ja": "フランスからの独立"
+   },
+   "description": {
+    "en": "On 9 November 1953, Cambodia won full independence from France, the fruit of King Norodom Sihanouk's 'Royal Crusade for Independence', a diplomatic campaign that pressed France while it was absorbed in the war in Vietnam. The date remains Cambodia's Independence Day. Sihanouk emerged as the hero of independence.",
+    "ko": "1953년 11월 9일, 캄보디아는 프랑스로부터 완전한 독립을 쟁취했다. 이는 베트남 전쟁에 매달려 있던 프랑스를 압박한 노로돔 시아누크 국왕의 외교 운동 '독립을 위한 왕의 십자군'의 결실이었다. 이날은 지금도 캄보디아의 독립기념일이며, 시아누크는 독립의 영웅으로 떠올랐다.",
+    "zh": "1953年11月9日，柬埔寨从法国手中获得完全独立。这是诺罗敦·西哈努克国王“争取独立的王室十字军”的成果——他趁法国深陷越南战争之际展开外交攻势，向法国施压。这一天至今仍是柬埔寨独立日，西哈努克也由此成为独立英雄。",
+    "ja": "1953年11月9日、カンボジアはフランスから完全独立を勝ち取った。これは、ベトナムでの戦争に忙殺されていたフランスに圧力をかけたノロドム・シハヌーク国王の外交運動「独立のための王の十字軍」の成果であった。この日は今もカンボジアの独立記念日であり、シハヌークは独立の英雄となった。"
+   }
+  },
+  {
+   "year": 1954,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Geneva Conference confirms Cambodian sovereignty",
+    "ko": "제네바 회의, 캄보디아 주권 확인",
+    "zh": "日内瓦会议确认柬埔寨主权",
+    "ja": "ジュネーヴ会議、カンボジアの主権を確認"
+   },
+   "description": {
+    "en": "The Geneva Conference of 1954, which ended the First Indochina War, confirmed Cambodia's independence and territorial integrity and required foreign forces to withdraw. Unlike in Vietnam and Laos, the communist-led Khmer resistance received no regroupment zone. Many of its cadres went to North Vietnam, while others stayed underground.",
+    "ko": "제1차 인도차이나 전쟁을 끝낸 1954년 제네바 회의는 캄보디아의 독립과 영토 보전을 확인하고 외국군 철수를 요구했다. 베트남·라오스와 달리 공산주의자가 이끄는 크메르 저항 세력은 집결 지역을 얻지 못했다. 그 간부들 다수는 북베트남으로 갔고, 일부는 지하에 남았다.",
+    "zh": "结束第一次印度支那战争的1954年日内瓦会议确认了柬埔寨的独立和领土完整，并要求外国军队撤出。与越南和老挝不同，共产党领导的高棉抵抗力量未获得集结区。其许多干部前往北越，另一些则转入地下。",
+    "ja": "第一次インドシナ戦争を終わらせた1954年のジュネーヴ会議は、カンボジアの独立と領土保全を確認し、外国軍の撤退を求めた。ベトナムやラオスと異なり、共産主義者が率いるクメール人抵抗勢力には集結地域が与えられなかった。その幹部の多くは北ベトナムへ渡り、一部は地下に残った。"
+   }
+  },
+  {
+   "year": 1955,
+   "qid": "Q5025155",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Sihanouk abdicates and founds the Sangkum",
+    "ko": "시아누크의 퇴위와 상쿰 창설",
+    "zh": "西哈努克让位并创建人民社会同盟",
+    "ja": "シハヌークの退位とサンクム結成"
+   },
+   "description": {
+    "en": "After a February 1955 referendum endorsed his leadership, Sihanouk abdicated in March in favour of his father Norodom Suramarit so that he could enter politics directly. He founded the Sangkum Reastr Niyum ('People's Socialist Community'), which won every seat in the September 1955 elections amid intimidation of opponents. The Sangkum dominated Cambodian politics until 1970.",
+    "ko": "1955년 2월 국민투표로 지도력을 인정받은 시아누크는 직접 정치에 뛰어들기 위해 3월 아버지 노로돔 수라마릿에게 양위했다. 그는 상쿰 레아스트 니윰('인민사회주의공동체')을 창설했고, 야당에 대한 위협 속에 치러진 1955년 9월 선거에서 상쿰은 모든 의석을 차지했다. 상쿰은 1970년까지 캄보디아 정치를 지배했다.",
+    "zh": "1955年2月的全民公投认可了西哈努克的领导地位后，他于3月让位给父亲诺罗敦·苏拉玛里特，以便直接参政。他创建了“人民社会同盟”（桑功），在对反对派进行恐吓的情况下，该组织赢得1955年9月大选的全部席位。人民社会同盟主导柬埔寨政坛直至1970年。",
+    "ja": "1955年2月の国民投票で指導力を承認されたシハヌークは、直接政治に関わるため3月に父ノロドム・スラマリットに譲位した。彼はサンクム・リアス・ニヨム（「人民社会主義共同体」）を結成し、反対派への威圧のなかで行われた1955年9月の選挙でサンクムは全議席を獲得した。サンクムは1970年までカンボジア政治を支配した。"
+   }
+  },
+  {
+   "year": 1960,
+   "qid": "Q5025195",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sihanouk becomes head of state",
+    "ko": "시아누크, 국가원수에 취임",
+    "zh": "西哈努克出任国家元首",
+    "ja": "シハヌーク、国家元首に"
+   },
+   "description": {
+    "en": "When King Suramarit died in April 1960, the throne was left vacant and Sihanouk was named head of state, with a referendum endorsing his policies. Queen Kossamak remained as a symbol of the monarchy. Sihanouk thus combined royal prestige with political power for the next decade.",
+    "ko": "1960년 4월 수라마릿 국왕이 죽자 왕위는 비워진 채 시아누크가 국가원수로 지명되었고, 국민투표가 그의 정책을 승인했다. 코사막 왕비는 왕정의 상징으로 남았다. 이로써 시아누크는 이후 10년 동안 왕실의 위신과 정치권력을 한 손에 쥐었다.",
+    "zh": "1960年4月苏拉玛里特国王去世后，王位空缺，西哈努克被任命为国家元首，全民公投亦认可了他的政策。哥沙曼王后作为君主制的象征留任。此后十年，西哈努克集王室威望与政治权力于一身。",
+    "ja": "1960年4月にスラマリット王が死去すると王位は空位とされ、シハヌークが国家元首に指名され、国民投票がその政策を承認した。コサマック王妃は王制の象徴として残った。こうしてシハヌークはその後10年間、王室の威信と政治権力を併せ持った。"
+   }
+  },
+  {
+   "year": 1962,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "ICJ awards Preah Vihear temple to Cambodia",
+    "ko": "국제사법재판소, 프레아비헤아르 사원을 캄보디아 영토로 판결",
+    "zh": "国际法院将柏威夏寺判归柬埔寨",
+    "ja": "国際司法裁判所、プレアヴィヒア寺院をカンボジア領と判決"
+   },
+   "description": {
+    "en": "On 15 June 1962 the International Court of Justice ruled that the 11th-century Hindu temple of Preah Vihear, on a cliff of the Dângrêk Mountains, lay in Cambodian territory, and ordered Thailand to withdraw its forces. The ruling relied on a French-era map that Thailand had long accepted. The surrounding border area remained disputed for decades.",
+    "ko": "1962년 6월 15일 국제사법재판소는 당렉 산맥 절벽 위의 11세기 힌두 사원 프레아비헤아르가 캄보디아 영토에 있다고 판결하고 태국에 군대 철수를 명했다. 판결은 태국이 오랫동안 받아들였던 프랑스 시대 지도에 근거했다. 주변 국경 지역은 이후 수십 년간 분쟁 지역으로 남았다.",
+    "zh": "1962年6月15日，国际法院裁定位于扁担山脉悬崖上的11世纪印度教神庙柏威夏寺属于柬埔寨领土，并要求泰国撤军。判决依据的是泰国长期接受的法国时期地图。寺庙周边的边界地区此后数十年仍有争议。",
+    "ja": "1962年6月15日、国際司法裁判所はダンレク山脈の断崖上にある11世紀のヒンドゥー寺院プレアヴィヒアがカンボジア領内にあると判決し、タイに部隊の撤退を命じた。判決はタイが長く受け入れてきたフランス時代の地図に基づいていた。周辺の国境地帯はその後数十年にわたり係争地として残った。"
+   }
+  },
+  {
+   "year": 1963,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Sihanouk rejects American aid",
+    "ko": "시아누크의 미국 원조 거부",
+    "zh": "西哈努克拒绝美援",
+    "ja": "シハヌーク、米国援助を拒否"
+   },
+   "description": {
+    "en": "In November 1963 Sihanouk renounced US economic and military aid, accusing Washington of backing his opponents, and nationalized banks and foreign trade. In 1965 he broke diplomatic relations with the United States and tilted toward China, while tolerating North Vietnamese supply routes through eastern Cambodia. The policies strained the economy and alienated the army and business elites.",
+    "ko": "1963년 11월 시아누크는 미국이 반대 세력을 지원한다고 비난하며 미국의 경제·군사 원조를 거부하고 은행과 대외무역을 국유화했다. 1965년에는 미국과 단교하고 중국 쪽으로 기울었으며, 캄보디아 동부를 지나는 북베트남의 보급로를 묵인했다. 이 정책은 경제를 압박하고 군부와 재계 엘리트의 이반을 불렀다.",
+    "zh": "1963年11月，西哈努克指责华盛顿支持其反对者，宣布拒绝美国的经济和军事援助，并将银行和对外贸易国有化。1965年他与美国断交，转而倾向中国，同时默许北越补给线穿过柬埔寨东部。这些政策加重了经济困难，也疏远了军队和工商精英。",
+    "ja": "1963年11月、シハヌークは米国が反対派を支援していると非難して米国の経済・軍事援助を拒否し、銀行と貿易を国有化した。1965年には米国と断交して中国寄りとなり、カンボジア東部を通る北ベトナムの補給路を黙認した。これらの政策は経済を圧迫し、軍と経済エリートの離反を招いた。"
+   }
+  },
+  {
+   "year": 1967,
+   "qid": "Q817206",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Samlaut uprising and the start of civil war",
+    "ko": "삼라웃 봉기와 내전의 시작",
+    "zh": "桑洛起义与内战爆发",
+    "ja": "サムロートの蜂起と内戦の始まり"
+   },
+   "description": {
+    "en": "In 1967 peasants around Samlaut in Battambang province rebelled against government rice requisitions and land grabs, and the army crushed the revolt harshly. The communist Party of Kampuchea, later known as the Khmer Rouge, launched armed struggle in early 1968. These clashes mark the beginning of the Cambodian Civil War, which lasted until 1975.",
+    "ko": "1967년 바탐방 주 삼라웃 일대 농민들이 정부의 쌀 징발과 토지 수탈에 맞서 봉기했고, 군대는 이를 가혹하게 진압했다. 훗날 크메르 루주로 알려진 캄푸치아 공산당은 1968년 초 무장 투쟁을 시작했다. 이 충돌은 1975년까지 이어진 캄보디아 내전의 출발점이다.",
+    "zh": "1967年，马德望省桑洛一带的农民因政府征购大米和侵占土地而起事，军队对此进行了残酷镇压。后来被称为红色高棉的柬埔寨共产党于1968年初开始武装斗争。这些冲突标志着持续至1975年的柬埔寨内战的开端。",
+    "ja": "1967年、バッタンバン州サムロート周辺の農民が政府の米の徴発と土地収奪に反発して蜂起し、軍はこれを苛烈に鎮圧した。のちにクメール・ルージュとして知られるカンプチア共産党は1968年初めに武装闘争を開始した。これらの衝突は1975年まで続いたカンボジア内戦の始まりとされる。"
+   }
+  },
+  {
+   "year": 1969,
+   "qid": "Q683271",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Secret US bombing: Operation Menu",
+    "ko": "미국의 비밀 폭격: 메뉴 작전",
+    "zh": "美国秘密轰炸：“菜单行动”",
+    "ja": "米国の秘密爆撃：メニュー作戦"
+   },
+   "description": {
+    "en": "From March 1969 to May 1970 the United States secretly bombed North Vietnamese and Viet Cong base areas in eastern Cambodia with B-52s, without public disclosure. The campaign was later expanded as Operation Freedom Deal, and US bombing of Cambodia continued until August 1973. The bombing killed many civilians, displaced large numbers of people and remains bitterly controversial.",
+    "ko": "1969년 3월부터 1970년 5월까지 미국은 공개하지 않은 채 B-52 폭격기로 캄보디아 동부의 북베트남군·베트콩 기지 지역을 비밀리에 폭격했다. 이 작전은 이후 자유 협정 작전으로 확대되었고, 미국의 캄보디아 폭격은 1973년 8월까지 계속되었다. 폭격은 많은 민간인을 죽이고 대규모 피난민을 낳았으며 지금도 격렬한 논란의 대상이다.",
+    "zh": "1969年3月至1970年5月，美国在未公开的情况下，用B-52轰炸机秘密轰炸柬埔寨东部的北越和越共基地区。该行动后来扩大为“自由协议行动”，美国对柬埔寨的轰炸一直持续到1973年8月。轰炸造成大量平民伤亡和流离失所，至今仍极具争议。",
+    "ja": "1969年3月から1970年5月まで、米国は公表しないままB-52でカンボジア東部の北ベトナム軍・ベトコンの基地地域を秘密裏に爆撃した。この作戦はのちにフリーダム・ディール作戦として拡大され、米国のカンボジア爆撃は1973年8月まで続いた。爆撃は多くの民間人を殺し、大量の避難民を生み、今も激しい論争の的である。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": "Q4919446",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Coup of 1970 and civil war",
+    "ko": "1970년 쿠데타와 내전",
+    "zh": "1970年政变与内战",
+    "ja": "1970年のクーデターと内戦"
+   },
+   "description": {
+    "en": "On 18 March 1970, while Sihanouk was abroad, the National Assembly under the influence of General Lon Nol and Prince Sisowath Sirik Matak deposed him as head of state; the Khmer Republic was proclaimed in October. From Beijing, Sihanouk allied with his former enemies, the Khmer Rouge, lending them peasant support. Cambodia was fully drawn into the Vietnam War.",
+    "ko": "1970년 3월 18일 시아누크가 해외에 있는 사이, 론 놀 장군과 시소왓 시릭 마탁 왕자의 영향 아래 국민의회는 그를 국가원수직에서 해임했고, 10월에는 크메르 공화국이 선포되었다. 베이징에 있던 시아누크는 옛 적인 크메르 루주와 손잡아 농민의 지지를 그들에게 몰아주었다. 캄보디아는 베트남 전쟁에 완전히 휘말렸다.",
+    "zh": "1970年3月18日，趁西哈努克出访国外，国民议会在朗诺将军和西索瓦·施里玛达亲王的影响下罢免了他的国家元首职务，10月宣布成立高棉共和国。身在北京的西哈努克与昔日的敌人红色高棉结盟，为其赢得农民的支持。柬埔寨被全面卷入越南战争。",
+    "ja": "1970年3月18日、シハヌークの外遊中に、ロン・ノル将軍とシソワット・シリク・マタク殿下の影響下にある国民議会が彼を国家元首から解任し、10月にはクメール共和国が宣言された。北京にいたシハヌークはかつての敵クメール・ルージュと手を結び、農民の支持を彼らにもたらした。カンボジアはベトナム戦争に完全に巻き込まれた。"
+   }
+  },
+  {
+   "year": 1970,
+   "qid": "Q7097061",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "US–South Vietnamese incursion and Operation Freedom Deal",
+    "ko": "미군·남베트남군의 진입과 자유 협정 작전",
+    "zh": "美军与南越军入侵及“自由协议行动”",
+    "ja": "米・南ベトナム軍の侵攻とフリーダム・ディール作戦"
+   },
+   "description": {
+    "en": "In April–June 1970 US and South Vietnamese troops crossed into eastern Cambodia to attack communist sanctuaries, and North Vietnamese forces pushed deeper into the country. The air campaign known as Operation Freedom Deal continued until August 1973. The fighting devastated the countryside and swelled the refugee population of Phnom Penh.",
+    "ko": "1970년 4~6월 미군과 남베트남군은 공산군 은신처를 공격하려 캄보디아 동부로 진입했고, 북베트남군은 캄보디아 깊숙이 진출했다. 자유 협정 작전으로 불린 공습은 1973년 8월까지 계속되었다. 전투는 농촌을 황폐화하고 프놈펜의 피난민을 크게 늘렸다.",
+    "zh": "1970年4月至6月，美军和南越军队越境进入柬埔寨东部攻击共产党武装的庇护所，北越军队则向柬埔寨纵深推进。名为“自由协议行动”的空袭持续至1973年8月。战火使农村满目疮痍，金边的难民人数急剧增加。",
+    "ja": "1970年4〜6月、米軍と南ベトナム軍は共産勢力の聖域を攻撃するためカンボジア東部に侵入し、北ベトナム軍はカンボジアの奥深くへ進出した。フリーダム・ディール作戦と呼ばれる空爆は1973年8月まで続いた。戦闘は農村を荒廃させ、プノンペンの避難民を大きく膨らませた。"
+   }
+  },
+  {
+   "year": 1972,
+   "qid": "Q5025181",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "New constitution and Lon Nol's presidency",
+    "ko": "새 헌법과 론 놀 대통령",
+    "zh": "新宪法与朗诺出任总统",
+    "ja": "新憲法とロン・ノル大統領"
+   },
+   "description": {
+    "en": "A referendum in 1972 approved a presidential constitution for the Khmer Republic, and Lon Nol was elected president in a disputed vote. The government was weakened by corruption, factionalism and military reverses. By 1973 the Khmer Rouge controlled much of the countryside.",
+    "ko": "1972년 국민투표로 크메르 공화국의 대통령제 헌법이 승인되었고, 론 놀은 논란 속의 선거에서 대통령에 선출되었다. 정부는 부패, 파벌 싸움, 군사적 패배로 약해졌다. 1973년에는 크메르 루주가 농촌 상당 부분을 장악했다.",
+    "zh": "1972年的全民公投通过了高棉共和国的总统制宪法，朗诺在有争议的选举中当选总统。政府因腐败、派系斗争和军事失利而日益虚弱。到1973年，红色高棉已控制大部分农村地区。",
+    "ja": "1972年の国民投票でクメール共和国の大統領制憲法が承認され、ロン・ノルは疑義のある選挙で大統領に選ばれた。政府は汚職、派閥争い、軍事的敗北で弱体化した。1973年にはクメール・ルージュが農村の大部分を支配した。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q4335241",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Operation Eagle Pull: the US evacuates Phnom Penh",
+    "ko": "독수리 철수 작전: 미국의 프놈펜 철수",
+    "zh": "“鹰迁行动”：美国撤离金边",
+    "ja": "イーグル・プル作戦：米国のプノンペン撤収"
+   },
+   "description": {
+    "en": "On 12 April 1975, with Khmer Rouge forces closing in, US helicopters evacuated American personnel and some Cambodians and other nationals from Phnom Penh. Lon Nol had already left the country on 1 April. Many senior republican leaders who chose to stay were executed after the city fell.",
+    "ko": "1975년 4월 12일 크메르 루주가 포위망을 좁혀 오자 미군 헬리콥터가 프놈펜에서 미국인과 일부 캄보디아인 및 외국인을 철수시켰다. 론 놀은 이미 4월 1일 출국한 상태였다. 남기로 한 공화국 고위 지도자 다수는 도시 함락 후 처형되었다.",
+    "zh": "1975年4月12日，在红色高棉逼近之际，美军直升机从金边撤离美国人员及部分柬埔寨人和其他外国人。朗诺已于4月1日离开柬埔寨。许多选择留下的共和国高层领导人在城市陷落后被处决。",
+    "ja": "1975年4月12日、クメール・ルージュが迫るなか、米軍ヘリコプターがプノンペンから米国人と一部のカンボジア人や他国の人々を撤収させた。ロン・ノルはすでに4月1日に出国していた。残ることを選んだ共和国の高官の多くは、陥落後に処刑された。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q85760415",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Fall of Phnom Penh and the Khmer Rouge regime",
+    "ko": "프놈펜 함락과 크메르 루주 정권",
+    "zh": "金边陷落与红色高棉政权",
+    "ja": "プノンペン陥落とクメール・ルージュ政権"
+   },
+   "description": {
+    "en": "The Khmer Rouge seized Phnom Penh on 17 April 1975 and within days forced the entire population of the city, some two million people including refugees, into the countryside. They proclaimed 'Year Zero', abolishing money, markets, schools and religion and imposing radical collectivization. The regime, renamed Democratic Kampuchea, sealed the country off from the world.",
+    "ko": "크메르 루주는 1975년 4월 17일 프놈펜을 점령하고 며칠 만에 피난민을 포함한 약 200만 명의 도시 주민 전체를 농촌으로 내몰았다. 그들은 '0년'을 선포하고 화폐, 시장, 학교, 종교를 폐지하며 급진적 집단화를 강행했다. 민주 캄푸치아로 이름을 바꾼 정권은 나라를 세계로부터 봉쇄했다.",
+    "zh": "1975年4月17日红色高棉攻占金边，数日内将包括难民在内约两百万城市居民全部驱赶到农村。他们宣布“零年”，废除货币、市场、学校和宗教，强行推行激进的集体化。改称民主柬埔寨的政权将国家与外界完全隔绝。",
+    "ja": "クメール・ルージュは1975年4月17日にプノンペンを占領し、数日のうちに避難民を含む約200万人の市民全員を農村へ追い立てた。彼らは「0年」を宣言し、貨幣、市場、学校、宗教を廃止して急進的な集団化を強行した。民主カンプチアと改称した政権は国を世界から閉ざした。"
+   }
+  },
+  {
+   "year": 1975,
+   "qid": "Q524737",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Mayaguez incident",
+    "ko": "마야게스호 사건",
+    "zh": "马亚克斯号事件",
+    "ja": "マヤグエース号事件"
+   },
+   "description": {
+    "en": "In May 1975 Khmer Rouge forces seized the US merchant ship SS Mayaguez in the Gulf of Thailand. US Marines assaulted Koh Tang island, where they believed the crew was held, suffering heavy losses, while the crew was released separately. It is often described as the last battle of the Vietnam War.",
+    "ko": "1975년 5월 크메르 루주군은 타이만에서 미국 상선 마야게스호를 나포했다. 미 해병대는 선원들이 억류되어 있다고 여긴 꼬땅섬을 공격해 큰 손실을 입었고, 선원들은 별도로 풀려났다. 이 사건은 흔히 베트남 전쟁의 마지막 전투로 불린다.",
+    "zh": "1975年5月，红色高棉部队在泰国湾扣押了美国商船“马亚克斯号”。美国海军陆战队进攻他们认为关押着船员的戈当岛，伤亡惨重，而船员则另行获释。这一事件常被称为越南战争的最后一战。",
+    "ja": "1975年5月、クメール・ルージュ軍はタイ湾で米国商船マヤグエース号を拿捕した。米海兵隊は乗組員が拘束されていると考えたタン島を攻撃して大きな損害を出したが、乗組員は別途解放された。この事件はしばしばベトナム戦争最後の戦闘と呼ばれる。"
+   }
+  },
+  {
+   "year": 1976,
+   "qid": "Q330988",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Democratic Kampuchea constitution; Pol Pot prime minister",
+    "ko": "민주 캄푸치아 헌법과 폴 포트 총리",
+    "zh": "民主柬埔寨宪法颁布，波尔布特任总理",
+    "ja": "民主カンプチア憲法とポル・ポト首相"
+   },
+   "description": {
+    "en": "A constitution proclaimed in January 1976 formally created Democratic Kampuchea. In April Sihanouk resigned as head of state and was placed under house arrest, Khieu Samphan became head of state, and Pol Pot, whose identity was long kept secret, became prime minister. Real power lay with the secretive party centre known as 'Angkar' ('the Organization').",
+    "ko": "1976년 1월 공포된 헌법으로 민주 캄푸치아가 공식 수립되었다. 4월 시아누크는 국가원수직에서 물러나 가택 연금되었고, 키우 삼판이 국가원수, 오랫동안 정체가 비밀에 부쳐진 폴 포트가 총리가 되었다. 실권은 '앙카르'('조직')로 불린 비밀스러운 당 중앙에 있었다.",
+    "zh": "1976年1月颁布的宪法正式建立民主柬埔寨。4月西哈努克辞去国家元首职务并遭软禁，乔森潘任国家元首，身份长期保密的波尔布特出任总理。实权掌握在被称为“安卡”（“组织”）的神秘党中央手中。",
+    "ja": "1976年1月に公布された憲法で民主カンプチアが正式に成立した。4月にシハヌークは国家元首を辞任して軟禁され、キュー・サムファンが国家元首に、長く正体を伏せていたポル・ポトが首相となった。実権は「オンカー」（「組織」）と呼ばれる秘密主義の党中央にあった。"
+   }
+  },
+  {
+   "year": 1977,
+   "qid": "Q2885072",
+   "importance": 1,
+   "category": "society",
+   "title": {
+    "en": "Cambodian genocide",
+    "ko": "캄보디아 집단학살",
+    "zh": "柬埔寨种族灭绝",
+    "ja": "カンボジア大虐殺"
+   },
+   "description": {
+    "en": "Under the Khmer Rouge, people deemed enemies, including former officials, intellectuals, ethnic Vietnamese, Cham Muslims, Buddhist monks and purged party cadres, were executed at sites such as the S-21 prison (Tuol Sleng) and the 'killing fields' of Choeung Ek. Together with deaths from forced labour, starvation and disease, about 1.5 to 2 million people are commonly estimated to have died between 1975 and 1979. Purges intensified from 1977 as the regime turned on its own ranks.",
+    "ko": "크메르 루주 치하에서 옛 관리, 지식인, 베트남계 주민, 참족 무슬림, 불교 승려, 숙청된 당 간부 등 적으로 간주된 사람들이 S-21 수용소(뚜올슬렝)와 쯔응아엑의 '킬링 필드' 같은 곳에서 처형되었다. 강제 노동, 기아, 질병으로 인한 사망을 합쳐 1975~1979년 사이 흔히 약 150만~200만 명이 숨진 것으로 추산된다. 1977년부터는 정권이 내부로 칼끝을 돌리며 숙청이 격화되었다.",
+    "zh": "在红色高棉统治下，被视为敌人的人，包括前官员、知识分子、越南族人、占族穆斯林、佛教僧侣和遭清洗的党内干部，在S-21监狱（吐斯廉）和琼邑克“杀戮场”等地被处决。加上强迫劳动、饥饿和疾病造成的死亡，一般估计1975年至1979年间约有150万至200万人丧生。1977年起，政权将矛头转向内部，清洗愈演愈烈。",
+    "ja": "クメール・ルージュ支配下では、旧官吏、知識人、ベトナム系住民、チャム人ムスリム、仏教僧、粛清された党幹部など敵とみなされた人々が、S-21収容所（トゥール・スレン）やチュンエクの「キリング・フィールド」などで処刑された。強制労働、飢餓、病気による死者を合わせ、1975〜1979年に一般に約150万〜200万人が死亡したと推計される。1977年からは政権が自らの内部に矛先を向け、粛清が激化した。"
+   }
+  },
+  {
+   "year": 1978,
+   "qid": "Q796498",
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Vietnamese invasion of Kampuchea",
+    "ko": "베트남의 캄푸치아 침공",
+    "zh": "越南入侵柬埔寨",
+    "ja": "ベトナムのカンプチア侵攻"
+   },
+   "description": {
+    "en": "After repeated Khmer Rouge cross-border massacres in southern Vietnam, Vietnam backed the newly formed Kampuchean United Front for National Salvation and launched a full-scale invasion on 25 December 1978. Khmer Rouge forces collapsed within weeks and retreated to the Thai border. The conflict formed part of the wider Third Indochina War, which also drew in China.",
+    "ko": "크메르 루주가 베트남 남부에서 국경을 넘어 학살을 되풀이하자, 베트남은 새로 결성된 캄푸치아 구국민족통일전선을 지원하며 1978년 12월 25일 전면 침공을 개시했다. 크메르 루주군은 몇 주 만에 무너져 태국 국경으로 물러났다. 이 분쟁은 중국까지 끌어들인 제3차 인도차이나 전쟁의 일부였다.",
+    "zh": "红色高棉多次越境到越南南部进行屠杀之后，越南支持新成立的柬埔寨救国民族团结阵线，于1978年12月25日发动全面入侵。红色高棉军队数周内即告崩溃，退往泰国边境。这场冲突是将中国也卷入其中的第三次印度支那战争的一部分。",
+    "ja": "クメール・ルージュによるベトナム南部での越境虐殺が繰り返された後、ベトナムは新たに結成されたカンプチア救国民族統一戦線を支援し、1978年12月25日に全面侵攻を開始した。クメール・ルージュ軍は数週間で崩壊し、タイ国境へ退いた。この紛争は中国をも巻き込んだ第三次インドシナ戦争の一部であった。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q867778",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Fall of the Khmer Rouge",
+    "ko": "크메르 루주 정권 붕괴",
+    "zh": "红色高棉政权垮台",
+    "ja": "クメール・ルージュ政権の崩壊"
+   },
+   "description": {
+    "en": "Vietnamese forces and Cambodian allies captured Phnom Penh on 7 January 1979, toppling the Khmer Rouge and installing the People's Republic of Kampuchea under Heng Samrin. Survivors returned to their homes to find a shattered country, and famine threatened in 1979–80. The Khmer Rouge regrouped along the Thai border and kept Cambodia's UN seat.",
+    "ko": "1979년 1월 7일 베트남군과 캄보디아 동맹 세력이 프놈펜을 점령하여 크메르 루주를 무너뜨리고 헹 삼린이 이끄는 캄푸치아 인민공화국을 세웠다. 생존자들은 고향으로 돌아가 폐허가 된 나라를 마주했고, 1979~80년에는 기근이 닥쳤다. 크메르 루주는 태국 국경에서 재결집했고 유엔에서 캄보디아 의석을 유지했다.",
+    "zh": "1979年1月7日，越南军队与柬埔寨盟军攻占金边，推翻红色高棉，建立以韩桑林为首的柬埔寨人民共和国。幸存者返回家园，面对的是一个支离破碎的国家，1979至1980年又面临饥荒威胁。红色高棉在泰国边境重新集结，并继续占据柬埔寨的联合国席位。",
+    "ja": "1979年1月7日、ベトナム軍とカンボジア人の同盟勢力がプノンペンを占領してクメール・ルージュを倒し、ヘン・サムリンを首班とするカンプチア人民共和国を樹立した。生存者は故郷に戻り荒廃した国を目の当たりにし、1979〜80年には飢饉の危機が迫った。クメール・ルージュはタイ国境で再結集し、国連のカンボジア議席を保持した。"
+   }
+  },
+  {
+   "year": 1979,
+   "qid": "Q16209065",
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Refugee crisis and border camps",
+    "ko": "난민 위기와 국경 수용소",
+    "zh": "难民危机与边境营地",
+    "ja": "難民危機と国境キャンプ"
+   },
+   "description": {
+    "en": "In 1979 hundreds of thousands of Cambodians fled famine and fighting to the Thai border, where large camps such as Khao-I-Dang were set up with international aid. In June 1979 Thai authorities forced tens of thousands of refugees back across the border at the Dângrêk escarpment near Preah Vihear, where many died in minefields and from hunger. The border camps housed displaced Cambodians until their repatriation in 1992–93.",
+    "ko": "1979년 수십만 명의 캄보디아인이 기근과 전투를 피해 태국 국경으로 몰려들었고, 국제 원조로 카오이당 같은 대규모 수용소가 세워졌다. 1979년 6월 태국 당국은 수만 명의 난민을 프레아비헤아르 근처 당렉 절벽에서 국경 너머로 강제 송환했으며, 많은 이가 지뢰밭과 굶주림 속에 숨졌다. 국경 수용소는 1992~93년 송환 때까지 실향 캄보디아인을 수용했다.",
+    "zh": "1979年，数十万柬埔寨人为躲避饥荒和战火逃往泰国边境，在国际援助下建立了考伊当等大型难民营。1979年6月，泰国当局在柏威夏附近的扁担山断崖处将数万名难民强行遣返越境，许多人死于雷区和饥饿。边境营地收容流离失所的柬埔寨人，直到1992至1993年遣返为止。",
+    "ja": "1979年、数十万人のカンボジア人が飢饉と戦闘を逃れてタイ国境に押し寄せ、国際援助によりカオイダンなどの大規模キャンプが設けられた。1979年6月、タイ当局はプレアヴィヒア近くのダンレク山地の断崖で数万人の難民を国境の向こうへ強制送還し、多くが地雷原と飢えで命を落とした。国境キャンプは1992〜93年の帰還まで避難民を収容した。"
+   }
+  },
+  {
+   "year": 1982,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Coalition Government of Democratic Kampuchea",
+    "ko": "민주 캄푸치아 연합정부 수립",
+    "zh": "民主柬埔寨联合政府成立",
+    "ja": "民主カンプチア連合政府の成立"
+   },
+   "description": {
+    "en": "In June 1982 the Khmer Rouge, Sihanouk's FUNCINPEC and Son Sann's Khmer People's National Liberation Front formed a coalition government in exile, backed by China, ASEAN and Western states. It kept Cambodia's seat at the United Nations throughout the 1980s. Its forces waged guerrilla war against the Vietnamese-backed government from bases along the Thai border.",
+    "ko": "1982년 6월 크메르 루주, 시아누크의 펀신펙, 손 산의 크메르 인민민족해방전선은 중국, 아세안, 서방 국가의 지원을 받아 망명 연합정부를 구성했다. 이 정부는 1980년대 내내 유엔의 캄보디아 의석을 유지했다. 그 병력은 태국 국경의 기지에서 베트남이 지원하는 정부에 맞서 게릴라전을 벌였다.",
+    "zh": "1982年6月，红色高棉、西哈努克的奉辛比克党和宋双的高棉人民民族解放阵线在中国、东盟和西方国家的支持下组成流亡联合政府。整个80年代，它一直占据柬埔寨在联合国的席位，其武装从泰国边境的基地对越南支持的政府展开游击战。",
+    "ja": "1982年6月、クメール・ルージュ、シハヌークのフンシンペック、ソン・サンのクメール人民民族解放戦線は、中国、ASEAN、西側諸国の支援を受けて亡命連合政府を結成した。同政府は1980年代を通じて国連のカンボジア議席を保持した。その部隊はタイ国境の基地から、ベトナムが支援する政府に対してゲリラ戦を展開した。"
+   }
+  },
+  {
+   "year": 1985,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hun Sen becomes prime minister",
+    "ko": "훈 센, 총리 취임",
+    "zh": "洪森出任总理",
+    "ja": "フン・セン、首相に就任"
+   },
+   "description": {
+    "en": "In January 1985 Hun Sen, a former Khmer Rouge commander who had defected to Vietnam in 1977, became prime minister of the People's Republic of Kampuchea at the age of 32. He went on to lead Cambodia's government, in various arrangements, for nearly four decades. In 2023 he handed the premiership to his son Hun Manet.",
+    "ko": "1985년 1월, 1977년 베트남으로 망명했던 크메르 루주 지휘관 출신 훈 센이 32세의 나이로 캄푸치아 인민공화국 총리가 되었다. 그는 이후 여러 형태로 거의 40년 동안 캄보디아 정부를 이끌었다. 2023년 그는 총리직을 아들 훈 마넷에게 넘겼다.",
+    "zh": "1985年1月，曾于1977年投奔越南的前红色高棉指挥官洪森以32岁之龄出任柬埔寨人民共和国总理。此后近四十年间，他以不同形式领导柬埔寨政府。2023年，他将总理职位交给儿子洪玛奈。",
+    "ja": "1985年1月、1977年にベトナムへ逃れた元クメール・ルージュ指揮官のフン・センが32歳でカンプチア人民共和国の首相に就任した。彼はその後、様々な体制のもとで40年近くカンボジア政府を率いた。2023年に首相職を息子フン・マネットに譲った。"
+   }
+  },
+  {
+   "year": 1989,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Vietnamese withdrawal and the State of Cambodia",
+    "ko": "베트남군 철수와 캄보디아국",
+    "zh": "越南撤军与柬埔寨国",
+    "ja": "ベトナム軍撤退とカンボジア国"
+   },
+   "description": {
+    "en": "In April 1989 the People's Republic of Kampuchea renamed itself the State of Cambodia, restored Buddhism as the state religion and began market reforms, including private ownership of land. In September Vietnam announced the completion of its troop withdrawal. These changes opened the way to a negotiated peace.",
+    "ko": "1989년 4월 캄푸치아 인민공화국은 국호를 캄보디아국으로 바꾸고 불교를 국교로 복원했으며, 토지 사유화를 포함한 시장 개혁을 시작했다. 9월 베트남은 철군 완료를 발표했다. 이러한 변화는 협상을 통한 평화의 길을 열었다.",
+    "zh": "1989年4月，柬埔寨人民共和国更名为柬埔寨国，恢复佛教为国教，并启动包括土地私有在内的市场化改革。同年9月越南宣布完成撤军。这些变化为通过谈判实现和平铺平了道路。",
+    "ja": "1989年4月、カンプチア人民共和国はカンボジア国と改称し、仏教を国教として復活させ、土地の私有を含む市場改革を始めた。9月にベトナムは撤兵の完了を発表した。これらの変化は交渉による和平への道を開いた。"
+   }
+  },
+  {
+   "year": 1991,
+   "qid": null,
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Paris Peace Agreements",
+    "ko": "파리 평화협정",
+    "zh": "巴黎和平协定",
+    "ja": "パリ和平協定"
+   },
+   "description": {
+    "en": "On 23 October 1991 the four Cambodian factions and 18 other nations signed the Paris Peace Agreements, ending the war that had followed the Vietnamese invasion and placing Cambodia under a UN transitional administration pending elections. Sihanouk returned to Phnom Penh in November as head of the Supreme National Council. The accords committed Cambodia to multiparty democracy and human rights.",
+    "ko": "1991년 10월 23일 캄보디아의 4개 정파와 18개국이 파리 평화협정에 서명하여 베트남 침공 이후 이어진 전쟁을 끝내고, 선거 때까지 캄보디아를 유엔 과도행정기구 아래 두기로 했다. 시아누크는 11월 최고국민평의회 의장으로 프놈펜에 돌아왔다. 협정은 캄보디아가 복수 정당 민주주의와 인권을 지키도록 규정했다.",
+    "zh": "1991年10月23日，柬埔寨四派与另外18个国家签署巴黎和平协定，结束了越南入侵后延续的战争，并在选举前将柬埔寨置于联合国过渡权力机构管理之下。西哈努克于11月以全国最高委员会主席身份返回金边。协定要求柬埔寨实行多党民主并尊重人权。",
+    "ja": "1991年10月23日、カンボジアの4派と他の18か国がパリ和平協定に署名し、ベトナム侵攻後に続いた戦争を終わらせ、選挙までカンボジアを国連の暫定統治下に置くことを定めた。シハヌークは11月に最高国民評議会議長としてプノンペンに戻った。協定はカンボジアに複数政党制民主主義と人権の尊重を義務づけた。"
+   }
+  },
+  {
+   "year": 1992,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "UNTAC begins its mission",
+    "ko": "유엔 캄보디아 과도행정기구(UNTAC) 활동 개시",
+    "zh": "联合国柬埔寨过渡权力机构开始运作",
+    "ja": "国連カンボジア暫定統治機構（UNTAC）の活動開始"
+   },
+   "description": {
+    "en": "The United Nations Transitional Authority in Cambodia (UNTAC), led by Yasushi Akashi, began operating in March 1992, one of the largest UN peacekeeping missions up to that time. It repatriated refugees from the Thai border camps and organized elections, though the Khmer Rouge refused to disarm. Japan's participation marked the first deployment of its Self-Defense Forces on a UN peacekeeping mission.",
+    "ko": "아카시 야스시가 이끈 유엔 캄보디아 과도행정기구(UNTAC)는 1992년 3월 활동을 시작했으며, 당시까지 최대 규모의 유엔 평화유지 임무 가운데 하나였다. UNTAC는 태국 국경 수용소의 난민을 귀환시키고 선거를 조직했으나, 크메르 루주는 무장 해제를 거부했다. 일본의 참여는 자위대의 첫 유엔 평화유지활동 파견이었다.",
+    "zh": "由明石康领导的联合国柬埔寨过渡权力机构（UNTAC）于1992年3月开始运作，是当时规模最大的联合国维和行动之一。它将泰国边境营地的难民遣返回国并组织选举，但红色高棉拒绝解除武装。日本的参与是其自卫队首次参加联合国维和行动。",
+    "ja": "明石康が率いる国連カンボジア暫定統治機構（UNTAC）は1992年3月に活動を開始し、当時最大級の国連平和維持活動の一つであった。UNTACはタイ国境キャンプの難民を帰還させ選挙を組織したが、クメール・ルージュは武装解除を拒んだ。日本の参加は自衛隊初の国連PKO派遣となった。"
+   }
+  },
+  {
+   "year": 1993,
+   "qid": "Q424",
+   "importance": 1,
+   "category": "politics",
+   "title": {
+    "en": "Monarchy restored under a new constitution",
+    "ko": "새 헌법과 왕정 복고",
+    "zh": "新宪法与君主制恢复",
+    "ja": "新憲法と王政復古"
+   },
+   "description": {
+    "en": "In UN-organized elections in May 1993, with high turnout despite Khmer Rouge threats, Prince Norodom Ranariddh's FUNCINPEC won the most seats, but Hun Sen's Cambodian People's Party forced a power-sharing deal with two co-prime ministers. A new constitution adopted on 24 September 1993 re-established the Kingdom of Cambodia as a constitutional monarchy with Norodom Sihanouk as king.",
+    "ko": "크메르 루주의 위협에도 높은 투표율을 보인 1993년 5월 유엔 주관 선거에서 노로돔 라나리드 왕자의 펀신펙이 최다 의석을 얻었으나, 훈 센의 캄보디아 인민당은 두 명의 공동 총리를 두는 권력 분점을 관철했다. 1993년 9월 24일 채택된 새 헌법은 노로돔 시아누크를 국왕으로 하는 입헌군주국 캄보디아 왕국을 다시 세웠다.",
+    "zh": "在1993年5月联合国组织的选举中，尽管面临红色高棉的威胁，投票率依然很高。诺罗敦·拉那烈亲王领导的奉辛比克党赢得最多席位，但洪森的柬埔寨人民党迫使双方达成由两位联合首相分享权力的安排。1993年9月24日通过的新宪法恢复了柬埔寨王国，实行君主立宪制，诺罗敦·西哈努克复任国王。",
+    "ja": "クメール・ルージュの脅しにもかかわらず高い投票率となった1993年5月の国連主催選挙で、ノロドム・ラナリット殿下のフンシンペックが最多議席を得たが、フン・センのカンボジア人民党は2人の共同首相による権力分有を認めさせた。1993年9月24日に採択された新憲法は、ノロドム・シハヌークを国王とする立憲君主制のカンボジア王国を再建した。"
+   }
+  },
+  {
+   "year": 1994,
+   "qid": "Q6585262",
+   "importance": 3,
+   "category": "war",
+   "title": {
+    "en": "Khmer Rouge outlawed",
+    "ko": "크메르 루주 불법화",
+    "zh": "红色高棉被宣布为非法",
+    "ja": "クメール・ルージュの非合法化"
+   },
+   "description": {
+    "en": "In July 1994 the National Assembly outlawed the Khmer Rouge, which responded by proclaiming a rival Provisional Government of National Union and National Salvation of Cambodia in the areas it held. The government offered amnesty to defectors, and the movement began to fracture. In 1996 Ieng Sary led a large defection in the Pailin region.",
+    "ko": "1994년 7월 국민의회는 크메르 루주를 불법화했고, 크메르 루주는 장악 지역에서 '캄보디아 민족통합구국 임시정부'를 선포하며 맞섰다. 정부는 귀순자에게 사면을 제시했고 운동은 분열하기 시작했다. 1996년 이엥 사리가 파일린 지역에서 대규모 집단 귀순을 이끌었다.",
+    "zh": "1994年7月国民议会宣布红色高棉为非法组织，红色高棉则在其控制区宣布成立对立的“柬埔寨民族团结和救国临时政府”。政府向投诚者提供特赦，红色高棉运动开始分裂。1996年英萨利在拜林地区率众大规模投诚。",
+    "ja": "1994年7月、国民議会はクメール・ルージュを非合法化し、クメール・ルージュは支配地域で対抗する「カンボジア民族統一救国臨時政府」を宣言した。政府は投降者に恩赦を提示し、運動は分裂し始めた。1996年にはイエン・サリがパイリン地方で大規模な集団投降を率いた。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": "Q3002716",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "1997 coup and factional fighting",
+    "ko": "1997년 쿠데타와 파벌 무력 충돌",
+    "zh": "1997年政变与派系冲突",
+    "ja": "1997年のクーデターと派閥間戦闘"
+   },
+   "description": {
+    "en": "On 5–6 July 1997 forces loyal to Second Prime Minister Hun Sen fought and defeated troops aligned with First Prime Minister Prince Norodom Ranariddh in Phnom Penh, and Ranariddh was ousted. Dozens of FUNCINPEC officials were killed in the aftermath. ASEAN postponed Cambodia's admission, which had been planned for that month.",
+    "ko": "1997년 7월 5~6일 제2총리 훈 센에 충성하는 병력이 프놈펜에서 제1총리 노로돔 라나리드 왕자 측 부대와 싸워 승리했고, 라나리드는 축출되었다. 그 여파로 수십 명의 펀신펙 관계자가 살해되었다. 아세안은 그달로 예정되었던 캄보디아의 가입을 연기했다.",
+    "zh": "1997年7月5日至6日，效忠第二首相洪森的部队在金边与第一首相诺罗敦·拉那烈亲王一方的部队交战并取胜，拉那烈被赶下台。事后数十名奉辛比克党官员遇害。东盟推迟了原定于当月接纳柬埔寨入盟的计划。",
+    "ja": "1997年7月5〜6日、第二首相フン・センに忠実な部隊がプノンペンで第一首相ノロドム・ラナリット殿下側の部隊と戦って勝利し、ラナリットは追放された。その後数十人のフンシンペック関係者が殺害された。ASEANは同月に予定していたカンボジアの加盟を延期した。"
+   }
+  },
+  {
+   "year": 1997,
+   "qid": "Q846291",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Vietnam Airlines Flight 815 crash",
+    "ko": "베트남 항공 815편 추락 사고",
+    "zh": "越南航空815号班机空难",
+    "ja": "ベトナム航空815便墜落事故"
+   },
+   "description": {
+    "en": "On 3 September 1997 a Vietnam Airlines Tupolev Tu-134 crashed while approaching Phnom Penh's Pochentong airport in bad weather. Only one person aboard, a young child, survived. It remains one of the deadliest air disasters in Cambodia.",
+    "ko": "1997년 9월 3일 베트남 항공의 투폴레프 Tu-134 여객기가 악천후 속에 프놈펜 포첸통 공항에 접근하다 추락했다. 탑승자 가운데 어린아이 한 명만 살아남았다. 이는 캄보디아에서 일어난 가장 참혹한 항공 사고 중 하나다.",
+    "zh": "1997年9月3日，一架越南航空图-134客机在恶劣天气中进近金边波成东机场时坠毁，机上仅一名幼童生还。这是柬埔寨境内最惨重的空难之一。",
+    "ja": "1997年9月3日、ベトナム航空のツポレフTu-134が悪天候のなかプノンペンのポチェントン空港へ進入中に墜落した。搭乗者のうち生き残ったのは幼い子ども一人だけだった。カンボジアで起きた最悪の航空事故の一つである。"
+   }
+  },
+  {
+   "year": 1998,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Death of Pol Pot and the end of the Khmer Rouge",
+    "ko": "폴 포트의 죽음과 크메르 루주의 종말",
+    "zh": "波尔布特之死与红色高棉的终结",
+    "ja": "ポル・ポトの死とクメール・ルージュの終焉"
+   },
+   "description": {
+    "en": "Pol Pot died in April 1998 at Anlong Veng, held under arrest by his own former comrades. In the following months the remaining Khmer Rouge leaders surrendered under the government's 'win-win' policy, and Ta Mok was captured in 1999. Three decades of armed conflict in Cambodia came to an end.",
+    "ko": "폴 포트는 1998년 4월 옛 동지들에게 연금된 상태로 안롱벵에서 사망했다. 이후 몇 달 동안 남은 크메르 루주 지도자들은 정부의 '윈윈' 정책에 따라 투항했고, 따 목은 1999년 체포되었다. 이로써 캄보디아의 30년에 걸친 무력 분쟁이 막을 내렸다.",
+    "zh": "1998年4月，波尔布特在被昔日同志软禁的安隆汶去世。此后数月间，其余红色高棉领导人在政府的“双赢”政策下相继投降，达莫于1999年被捕。柬埔寨长达三十年的武装冲突就此结束。",
+    "ja": "ポル・ポトは1998年4月、かつての同志に拘束されたままアンロン・ヴェンで死去した。その後数か月のうちに残るクメール・ルージュ指導者は政府の「ウィン・ウィン」政策のもとで投降し、タ・モクは1999年に逮捕された。カンボジアの30年に及ぶ武力紛争はここに終わった。"
+   }
+  },
+  {
+   "year": 1999,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Cambodia joins ASEAN",
+    "ko": "아세안 가입",
+    "zh": "加入东盟",
+    "ja": "ASEAN加盟"
+   },
+   "description": {
+    "en": "Cambodia became the tenth member of ASEAN on 30 April 1999, after a delay caused by the 1997 fighting. Membership marked its return to the regional community after decades of war and isolation. It completed the ASEAN of ten Southeast Asian states.",
+    "ko": "캄보디아는 1997년 무력 충돌로 미뤄졌던 끝에 1999년 4월 30일 아세안의 열 번째 회원국이 되었다. 가입은 수십 년의 전쟁과 고립 끝에 지역 공동체로 복귀했음을 뜻했다. 이로써 동남아시아 10개국으로 이루어진 아세안이 완성되었다.",
+    "zh": "因1997年的冲突而推迟后，柬埔寨于1999年4月30日成为东盟第十个成员国。入盟标志着柬埔寨在数十年战争与孤立之后重返地区大家庭，也使东盟形成了东南亚十国的格局。",
+    "ja": "1997年の戦闘による延期を経て、カンボジアは1999年4月30日にASEANの10番目の加盟国となった。加盟は数十年の戦争と孤立を経て地域共同体に復帰したことを意味した。これにより東南アジア10か国のASEANが完成した。"
+   }
+  },
+  {
+   "year": 2003,
+   "qid": null,
+   "importance": 3,
+   "category": "society",
+   "title": {
+    "en": "Anti-Thai riots in Phnom Penh",
+    "ko": "프놈펜 반태국 폭동",
+    "zh": "金边反泰骚乱",
+    "ja": "プノンペンの反タイ暴動"
+   },
+   "description": {
+    "en": "In January 2003 rumours that a Thai actress had claimed Angkor Wat belonged to Thailand sparked riots in Phnom Penh, in which the Thai embassy and Thai-owned businesses were burned. Thailand evacuated its citizens and temporarily downgraded relations. The episode showed how sensitive Angkor and the border remain in relations between the two countries.",
+    "ko": "2003년 1월 한 태국 여배우가 앙코르 와트는 태국 것이라고 말했다는 소문이 퍼지자 프놈펜에서 폭동이 일어나 태국 대사관과 태국계 기업들이 불탔다. 태국은 자국민을 철수시키고 일시적으로 관계를 격하했다. 이 사건은 두 나라 관계에서 앙코르와 국경 문제가 얼마나 민감한지를 보여 주었다.",
+    "zh": "2003年1月，有传言称一名泰国女演员声称吴哥窟属于泰国，由此在金边引发骚乱，泰国大使馆和泰资企业被焚烧。泰国撤侨并暂时降低两国关系级别。这一事件显示了吴哥和边界问题在两国关系中的高度敏感性。",
+    "ja": "2003年1月、タイの女優がアンコール・ワットはタイのものだと言ったという噂が広まり、プノンペンで暴動が起き、タイ大使館やタイ系企業が焼き打ちされた。タイは自国民を退避させ、一時的に関係を格下げした。この事件は、アンコールと国境問題が両国関係においていかに敏感であるかを示した。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Sihanouk abdicates; Norodom Sihamoni crowned",
+    "ko": "시아누크 퇴위, 노로돔 시하모니 즉위",
+    "zh": "西哈努克退位，诺罗敦·西哈莫尼登基",
+    "ja": "シハヌーク退位、ノロドム・シハモニ即位"
+   },
+   "description": {
+    "en": "Citing ill health, King Norodom Sihanouk abdicated in October 2004. The Throne Council chose his son Norodom Sihamoni, a former dancer and cultural envoy, who was crowned on 29 October 2004. Sihanouk remained honoured as 'King Father' until his death in 2012.",
+    "ko": "노로돔 시아누크 국왕은 건강 악화를 이유로 2004년 10월 퇴위했다. 왕위추대위원회는 무용가이자 문화 대사였던 그의 아들 노로돔 시하모니를 선택했고, 그는 2004년 10월 29일 즉위했다. 시아누크는 2012년 세상을 떠날 때까지 '국부왕'으로 존경받았다.",
+    "zh": "诺罗敦·西哈努克国王以健康原因于2004年10月退位。王位委员会选定其子、曾任舞蹈家和文化使节的诺罗敦·西哈莫尼继位，他于2004年10月29日加冕。西哈努克作为“太皇”受到尊崇，直至2012年去世。",
+    "ja": "ノロドム・シハヌーク国王は健康上の理由から2004年10月に退位した。王位継承評議会は元舞踊家で文化大使の息子ノロドム・シハモニを選び、彼は2004年10月29日に即位した。シハヌークは2012年に亡くなるまで「前国王（国父王）」として敬われた。"
+   }
+  },
+  {
+   "year": 2004,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Cambodia joins the WTO",
+    "ko": "세계무역기구 가입",
+    "zh": "加入世界贸易组织",
+    "ja": "WTO加盟"
+   },
+   "description": {
+    "en": "Cambodia became a member of the World Trade Organization in October 2004, one of the first least-developed countries to join through the full accession process. Membership supported its export-led garment industry, which had grown rapidly since the late 1990s and became the backbone of industrial employment, especially for women.",
+    "ko": "캄보디아는 2004년 10월 세계무역기구 회원국이 되었는데, 이는 정식 가입 절차를 거쳐 가입한 최초의 최빈개도국 중 하나였다. 가입은 1990년대 말부터 급성장해 특히 여성 산업 고용의 중추가 된 수출 중심 의류 산업을 뒷받침했다.",
+    "zh": "柬埔寨于2004年10月成为世界贸易组织成员，是最早通过完整入世程序加入的最不发达国家之一。入世为其出口导向的成衣业提供了支撑，该产业自20世纪90年代末迅速发展，成为工业就业尤其是女性就业的支柱。",
+    "ja": "カンボジアは2004年10月に世界貿易機関（WTO）に加盟した。完全な加盟手続きを経て加盟した最初の後発開発途上国の一つである。加盟は、1990年代末から急成長し、特に女性の工業雇用の柱となった輸出主導の縫製産業を後押しした。"
+   }
+  },
+  {
+   "year": 2006,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Khmer Rouge Tribunal begins work",
+    "ko": "크메르 루주 특별재판소 출범",
+    "zh": "红色高棉特别法庭开始运作",
+    "ja": "クメール・ルージュ特別法廷の始動"
+   },
+   "description": {
+    "en": "The Extraordinary Chambers in the Courts of Cambodia, a hybrid tribunal of Cambodian and international judges backed by the UN, began operations in 2006 to try senior Khmer Rouge leaders. In 2010 it convicted Kaing Guek Eav (Duch), head of the S-21 prison, and in 2018 it found Nuon Chea and Khieu Samphan guilty of genocide. Critics noted its slow pace and limited number of cases.",
+    "ko": "유엔의 지원을 받아 캄보디아 판사와 국제 판사로 구성된 혼합 재판소인 캄보디아 특별재판부가 크메르 루주 고위 지도자를 재판하기 위해 2006년 활동을 시작했다. 2010년 S-21 수용소장 깡 끄엑 이으(두치)에게 유죄를 선고했고, 2018년에는 누온 체아와 키우 삼판에게 집단학살 유죄를 선고했다. 비판자들은 더딘 진행과 적은 사건 수를 지적했다.",
+    "zh": "由联合国支持、柬埔寨与国际法官共同组成的混合法庭——柬埔寨法院特别法庭于2006年开始运作，审判红色高棉高层领导人。2010年它判决S-21监狱负责人康克由（杜赫）有罪，2018年又判定农谢和乔森潘犯有种族灭绝罪。批评者指出其进展缓慢、受审案件有限。",
+    "ja": "国連の支援を受け、カンボジア人と国際判事で構成される混合法廷「カンボジア特別法廷」が、クメール・ルージュ高官を裁くため2006年に活動を始めた。2010年にS-21収容所長カン・ケック・イウ（ドッチ）に有罪判決を下し、2018年にはヌオン・チアとキュー・サムファンをジェノサイドで有罪とした。批判者はその遅い進行と少ない審理件数を指摘した。"
+   }
+  },
+  {
+   "year": 2008,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Preah Vihear World Heritage listing and border clashes",
+    "ko": "프레아비헤아르 세계유산 등재와 국경 충돌",
+    "zh": "柏威夏寺列入世界遗产与边境冲突",
+    "ja": "プレアヴィヒア寺院の世界遺産登録と国境衝突"
+   },
+   "description": {
+    "en": "In July 2008 UNESCO inscribed the Temple of Preah Vihear as a World Heritage Site at Cambodia's request, inflaming nationalist opposition in Thailand. Troops of the two countries clashed intermittently near the temple between 2008 and 2011, causing deaths on both sides and displacing civilians. In 2013 the International Court of Justice ruled that the whole promontory of the temple belonged to Cambodia.",
+    "ko": "2008년 7월 유네스코가 캄보디아의 신청에 따라 프레아비헤아르 사원을 세계유산으로 등재하자 태국에서 민족주의적 반발이 거세졌다. 2008~2011년 두 나라 군대는 사원 근처에서 간헐적으로 충돌해 양측에 사망자와 민간인 피난민이 생겼다. 2013년 국제사법재판소는 사원이 있는 곶 전체가 캄보디아에 속한다고 판결했다.",
+    "zh": "2008年7月，联合国教科文组织应柬埔寨申请将柏威夏寺列入世界遗产名录，在泰国激起民族主义反对浪潮。2008至2011年间，两国军队在寺庙附近断续交火，双方均有人员死亡，平民被迫撤离。2013年国际法院裁定寺庙所在的整个海角属于柬埔寨。",
+    "ja": "2008年7月、ユネスコがカンボジアの申請によりプレアヴィヒア寺院を世界遺産に登録すると、タイで民族主義的な反発が高まった。2008〜2011年に両国軍は寺院付近で断続的に衝突し、双方に死者が出て住民が避難した。2013年、国際司法裁判所は寺院のある岬全体がカンボジアに属すると判決した。"
+   }
+  },
+  {
+   "year": 2010,
+   "qid": "Q1185980",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Phnom Penh Water Festival stampede",
+    "ko": "프놈펜 물 축제 압사 사고",
+    "zh": "金边送水节踩踏事故",
+    "ja": "プノンペン水祭りの群衆事故"
+   },
+   "description": {
+    "en": "On 22 November 2010, on the last day of the Water Festival, a crush on a crowded bridge to Koh Pich (Diamond Island) in Phnom Penh killed more than 340 people. Prime Minister Hun Sen called it the worst tragedy since the Khmer Rouge era, and a national day of mourning was declared.",
+    "ko": "2010년 11월 22일 물 축제 마지막 날, 프놈펜 꼬삑(다이아몬드섬)으로 이어지는 붐비는 다리에서 압사 사고가 일어나 340명이 넘게 숨졌다. 훈 센 총리는 크메르 루주 시대 이후 최악의 비극이라고 말했고, 국가 애도일이 선포되었다.",
+    "zh": "2010年11月22日送水节最后一天，金边通往钻石岛（Koh Pich）的一座拥挤桥梁上发生踩踏，造成340多人死亡。洪森首相称这是红色高棉时代以来最严重的悲剧，政府宣布全国哀悼日。",
+    "ja": "2010年11月22日、水祭りの最終日に、プノンペンのコッ・ピッチ（ダイヤモンド島）へ渡る混雑した橋で群衆事故が起き、340人以上が死亡した。フン・セン首相はクメール・ルージュ時代以来最悪の悲劇と述べ、国家服喪日が宣言された。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": null,
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Death of King Father Norodom Sihanouk",
+    "ko": "노로돔 시아누크 국부왕 서거",
+    "zh": "西哈努克太皇逝世",
+    "ja": "シハヌーク前国王の死去"
+   },
+   "description": {
+    "en": "Norodom Sihanouk died in Beijing on 15 October 2012, aged 89. Hundreds of thousands of Cambodians lined the streets of Phnom Penh when his body was returned, and he was cremated in February 2013 after months of national mourning. Few figures shaped modern Cambodia as profoundly.",
+    "ko": "노로돔 시아누크는 2012년 10월 15일 베이징에서 89세로 서거했다. 그의 시신이 돌아오자 수십만 명의 캄보디아인이 프놈펜 거리에 늘어섰으며, 몇 달간의 국가 애도 끝에 2013년 2월 화장되었다. 그만큼 현대 캄보디아를 깊이 형성한 인물은 드물다.",
+    "zh": "诺罗敦·西哈努克于2012年10月15日在北京逝世，享年89岁。灵柩运回时，数十万柬埔寨人沿金边街道送别；经过数月的国丧，他于2013年2月火化。很少有人像他这样深刻地塑造了现代柬埔寨。",
+    "ja": "ノロドム・シハヌークは2012年10月15日に北京で89歳で死去した。遺体が戻ると数十万人のカンボジア人がプノンペンの沿道に並び、数か月の国喪を経て2013年2月に荼毘に付された。彼ほど現代カンボジアを深く形づくった人物は少ない。"
+   }
+  },
+  {
+   "year": 2012,
+   "qid": "Q7457713",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Cambodia chairs ASEAN and hosts the East Asia Summit",
+    "ko": "아세안 의장국과 동아시아 정상회의 개최",
+    "zh": "担任东盟主席国并主办东亚峰会",
+    "ja": "ASEAN議長国として東アジア首脳会議を開催"
+   },
+   "description": {
+    "en": "As ASEAN chair in 2012, Cambodia hosted the East Asia Summit in Phnom Penh in November. Earlier, in July, ASEAN foreign ministers meeting under its chairmanship failed for the first time to issue a joint communiqué, amid disagreement over references to the South China Sea. The episode drew attention to Cambodia's close ties with China.",
+    "ko": "2012년 아세안 의장국이었던 캄보디아는 11월 프놈펜에서 동아시아 정상회의를 개최했다. 앞서 7월 캄보디아 주재로 열린 아세안 외교장관회의는 남중국해 관련 문구를 둘러싼 이견으로 처음으로 공동성명을 내지 못했다. 이 일은 캄보디아와 중국의 긴밀한 관계에 관심을 모았다.",
+    "zh": "2012年柬埔寨担任东盟轮值主席国，11月在金边主办东亚峰会。此前7月，在其主持下召开的东盟外长会议因在南海问题表述上存在分歧，首次未能发表联合公报。这一事件引起外界对柬中密切关系的关注。",
+    "ja": "2012年にASEAN議長国を務めたカンボジアは、11月にプノンペンで東アジア首脳会議を開催した。それに先立つ7月、カンボジアが議長を務めたASEAN外相会議は南シナ海をめぐる文言の対立から初めて共同声明を出せなかった。この出来事はカンボジアと中国の緊密な関係に注目を集めた。"
+   }
+  },
+  {
+   "year": 2013,
+   "qid": "Q15529576",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Disputed election and mass protests",
+    "ko": "논란의 선거와 대규모 시위",
+    "zh": "争议选举与大规模抗议",
+    "ja": "争われた選挙と大規模抗議"
+   },
+   "description": {
+    "en": "In the July 2013 election the opposition Cambodia National Rescue Party, led by Sam Rainsy and Kem Sokha, made large gains and accused the ruling party of fraud. Months of demonstrations followed, joined by garment workers demanding higher wages, until security forces opened fire on striking workers in January 2014, killing several. The protests were the largest challenge to the government in years.",
+    "ko": "2013년 7월 총선에서 삼 랭시와 켐 소카가 이끄는 야당 캄보디아 구국당이 크게 약진하며 여당의 부정선거를 주장했다. 임금 인상을 요구하는 의류 노동자들까지 합세한 시위가 몇 달 동안 이어졌고, 2014년 1월 보안군이 파업 노동자들에게 발포해 여러 명이 숨졌다. 이 시위는 수년 만에 정부가 맞은 가장 큰 도전이었다.",
+    "zh": "在2013年7月的大选中，桑兰西和根索卡领导的反对党柬埔寨救国党大幅增加议席，并指控执政党舞弊。随后数月抗议不断，要求提高工资的制衣工人也加入其中，直到2014年1月安全部队向罢工工人开枪，造成数人死亡。这是多年来政府面临的最大挑战。",
+    "ja": "2013年7月の総選挙で、サム・ランシーとケム・ソカが率いる野党カンボジア救国党が大きく躍進し、与党の不正を訴えた。賃上げを求める縫製労働者も加わった抗議が数か月続き、2014年1月に治安部隊がストライキ中の労働者に発砲して数人が死亡した。これらの抗議は政府にとって数年来最大の挑戦となった。"
+   }
+  },
+  {
+   "year": 2017,
+   "qid": "Q28128032",
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Opposition party dissolved",
+    "ko": "주요 야당 해산",
+    "zh": "主要反对党被解散",
+    "ja": "最大野党の解散"
+   },
+   "description": {
+    "en": "After the opposition CNRP performed strongly in the June 2017 communal elections, its leader Kem Sokha was arrested in September on treason charges. In November 2017 the Supreme Court dissolved the party and banned more than a hundred of its officials from politics. The ruling Cambodian People's Party went on to win every National Assembly seat in the 2018 election, drawing international criticism.",
+    "ko": "야당 캄보디아 구국당이 2017년 6월 지방선거에서 선전하자, 9월 당수 켐 소카가 반역 혐의로 체포되었다. 2017년 11월 대법원은 당을 해산하고 소속 인사 백여 명의 정치 활동을 금지했다. 여당 캄보디아 인민당은 2018년 총선에서 국민의회 전 의석을 차지해 국제적 비판을 받았다.",
+    "zh": "反对党救国党在2017年6月的乡分区理事会选举中表现强劲之后，其领导人根索卡于9月以叛国罪被捕。2017年11月最高法院解散该党，并禁止其一百多名成员从政。执政的柬埔寨人民党在2018年大选中囊括国民议会全部席位，招致国际批评。",
+    "ja": "野党カンボジア救国党が2017年6月の地方選挙で健闘すると、党首ケム・ソカが9月に国家反逆罪で逮捕された。2017年11月、最高裁判所は同党を解党し、所属幹部100人以上の政治活動を禁じた。与党カンボジア人民党は2018年の総選挙で国民議会の全議席を獲得し、国際的な批判を浴びた。"
+   }
+  },
+  {
+   "year": 2020,
+   "qid": "Q83888864",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "COVID-19 pandemic in Cambodia",
+    "ko": "캄보디아의 코로나19 범유행",
+    "zh": "柬埔寨新冠疫情",
+    "ja": "カンボジアにおける新型コロナウイルス感染症の流行"
+   },
+   "description": {
+    "en": "Cambodia recorded its first COVID-19 case in January 2020 and kept infections low for most of the year, though tourism collapsed. A major outbreak in 2021 led to lockdowns in Phnom Penh, followed by one of Asia's fastest vaccination campaigns. The same year, the European Union's partial withdrawal of trade preferences over human rights concerns added to economic strains.",
+    "ko": "캄보디아는 2020년 1월 첫 코로나19 확진자가 나온 뒤 그해 대부분 감염을 낮게 억제했지만 관광업은 붕괴했다. 2021년 대규모 확산으로 프놈펜이 봉쇄되었고, 이어 아시아에서 가장 빠른 축에 드는 백신 접종이 이루어졌다. 같은 해 유럽연합이 인권 문제를 이유로 무역 특혜를 일부 철회한 것도 경제에 부담을 더했다.",
+    "zh": "柬埔寨于2020年1月出现首例新冠病例，当年大部分时间感染人数保持在低位，但旅游业崩溃。2021年疫情大规模暴发，金边实施封城，随后开展了亚洲速度最快之一的疫苗接种。同年欧盟以人权问题为由部分撤销对柬贸易优惠，进一步加重了经济压力。",
+    "ja": "カンボジアは2020年1月に最初の新型コロナ感染者が確認された後、その年の大半は感染を低く抑えたが、観光業は崩壊した。2021年の大規模な流行でプノンペンがロックダウンされ、続いてアジアで最速級のワクチン接種が進められた。同年、EUが人権問題を理由に貿易特恵を一部撤回したことも経済の重荷となった。"
+   }
+  },
+  {
+   "year": 2022,
+   "qid": "Q115954274",
+   "importance": 3,
+   "category": "disaster",
+   "title": {
+    "en": "Poipet casino hotel fire",
+    "ko": "포이펫 카지노 호텔 화재",
+    "zh": "波贝赌场酒店火灾",
+    "ja": "ポイペトのカジノホテル火災"
+   },
+   "description": {
+    "en": "At the end of December 2022 a fire swept through the Grand Diamond City casino hotel in the border town of Poipet, killing more than two dozen people, many of them Thai nationals. The disaster drew attention to safety standards in the casino industry that had grown up along Cambodia's borders.",
+    "ko": "2022년 12월 말 국경 도시 포이펫의 그랜드 다이아몬드 시티 카지노 호텔에서 화재가 일어나 태국인을 포함해 20명 넘게 숨졌다. 이 참사는 캄보디아 국경 지대에 성장한 카지노 산업의 안전 기준에 관심을 불러일으켰다.",
+    "zh": "2022年12月底，边境城市波贝的“钻石城”赌场酒店发生火灾，造成二十多人死亡，其中许多是泰国公民。这场灾难引起人们对柬埔寨边境地区兴起的赌场业安全标准的关注。",
+    "ja": "2022年12月末、国境の町ポイペトのグランド・ダイヤモンド・シティ・カジノホテルで火災が発生し、多くのタイ国民を含む20人以上が死亡した。この惨事は、カンボジアの国境沿いに発展したカジノ産業の安全基準に注目を集めた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 3,
+   "category": "culture",
+   "title": {
+    "en": "Cambodia hosts the Southeast Asian Games",
+    "ko": "동남아시아 경기대회 개최",
+    "zh": "主办东南亚运动会",
+    "ja": "東南アジア競技大会を開催"
+   },
+   "description": {
+    "en": "In May 2023 Cambodia hosted the Southeast Asian Games for the first time, holding events at the new Chinese-built Morodok Techo National Stadium near Phnom Penh. The games were presented as a symbol of the country's recovery and development. Cambodia also introduced its traditional martial art kun Khmer to the programme.",
+    "ko": "2023년 5월 캄보디아는 처음으로 동남아시아 경기대회를 개최했으며, 프놈펜 인근에 중국의 지원으로 새로 지은 모로독 테초 국립경기장 등에서 경기가 열렸다. 대회는 나라의 회복과 발전을 상징하는 행사로 소개되었다. 캄보디아는 전통 무술 쿤 크메르를 종목에 넣기도 했다.",
+    "zh": "2023年5月柬埔寨首次主办东南亚运动会，比赛在金边附近由中国援建的新落成的德崇国家体育场等地举行。运动会被视为国家复苏与发展的象征。柬埔寨还将传统武术“高棉拳”列入比赛项目。",
+    "ja": "2023年5月、カンボジアは初めて東南アジア競技大会を開催し、プノンペン近郊に中国の支援で新設されたモロドック・テチョ国立競技場などで競技が行われた。大会は国の復興と発展の象徴として位置づけられた。カンボジアは伝統武術クン・クメールも競技に加えた。"
+   }
+  },
+  {
+   "year": 2023,
+   "qid": null,
+   "importance": 2,
+   "category": "politics",
+   "title": {
+    "en": "Hun Manet succeeds Hun Sen as prime minister",
+    "ko": "훈 마넷, 훈 센의 뒤를 이어 총리 취임",
+    "zh": "洪玛奈接替洪森出任首相",
+    "ja": "フン・マネット、フン・センの後継首相に"
+   },
+   "description": {
+    "en": "After the ruling party won the July 2023 election, from which the main opposition Candlelight Party had been barred on technical grounds, Hun Sen handed power to his eldest son, Hun Manet, who became prime minister in August 2023. Hun Sen remained leader of the Cambodian People's Party and became president of the Senate in 2024. The transition marked a generational handover within the ruling elite.",
+    "ko": "주요 야당인 촛불당이 기술적 이유로 배제된 2023년 7월 총선에서 여당이 승리한 뒤, 훈 센은 장남 훈 마넷에게 권력을 넘겼고 훈 마넷은 2023년 8월 총리에 취임했다. 훈 센은 캄보디아 인민당 대표직을 유지했고 2024년 상원의장이 되었다. 이 이양은 집권 엘리트 내부의 세대교체를 의미했다.",
+    "zh": "在主要反对党烛光党因技术性理由被排除在外的2023年7月大选中执政党获胜后，洪森将权力交给长子洪玛奈，后者于2023年8月出任首相。洪森继续担任柬埔寨人民党主席，并于2024年出任参议院主席。这次交接标志着执政精英内部的代际更替。",
+    "ja": "主要野党キャンドルライト党が技術的理由で排除された2023年7月の総選挙で与党が勝利した後、フン・センは長男フン・マネットに権力を譲り、彼は2023年8月に首相に就任した。フン・センはカンボジア人民党党首にとどまり、2024年に上院議長となった。この移行は支配エリート内部の世代交代を示した。"
+   }
+  },
+  {
+   "year": 2024,
+   "qid": null,
+   "importance": 3,
+   "category": "economy",
+   "title": {
+    "en": "Groundbreaking of the Funan Techo canal",
+    "ko": "푸난 테초 운하 착공",
+    "zh": "扶南德崇运河动工",
+    "ja": "フナン・テチョ運河の着工"
+   },
+   "description": {
+    "en": "In August 2024 Cambodia broke ground on the Funan Techo canal, a planned waterway linking the Mekong system near Phnom Penh to the Gulf of Thailand at Kep. The government presented it as a way to reduce reliance on Vietnamese ports. Neighbouring Vietnam and environmental groups raised concerns about its effects on the Mekong delta.",
+    "ko": "2024년 8월 캄보디아는 프놈펜 인근 메콩 수계와 껩의 타이만을 잇는 수로 계획인 푸난 테초 운하를 착공했다. 정부는 이를 베트남 항구에 대한 의존을 줄이는 방안으로 내세웠다. 이웃 베트남과 환경 단체들은 메콩 삼각주에 미칠 영향에 우려를 나타냈다.",
+    "zh": "2024年8月，柬埔寨为扶南德崇运河举行动工仪式。这条规划中的运河将连接金边附近的湄公河水系与白马（Kep）的泰国湾。政府称其可减少对越南港口的依赖，邻国越南和环保团体则对其可能给湄公河三角洲带来的影响表示担忧。",
+    "ja": "2024年8月、カンボジアはプノンペン近くのメコン水系とケップのタイ湾を結ぶ計画の水路、フナン・テチョ運河を着工した。政府はこれをベトナムの港への依存を減らす手段と位置づけた。隣国ベトナムや環境団体はメコンデルタへの影響に懸念を示した。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": null,
+   "importance": 2,
+   "category": "war",
+   "title": {
+    "en": "Cambodia–Thailand border conflict",
+    "ko": "캄보디아·태국 국경 분쟁",
+    "zh": "柬泰边境冲突",
+    "ja": "カンボジア・タイ国境紛争"
+   },
+   "description": {
+    "en": "Tensions along the Cambodia–Thailand border escalated after a deadly clash in May 2025, and a leaked phone call between Hun Sen and Thai Prime Minister Paetongtarn Shinawatra caused a political crisis in Thailand. In late July 2025 heavy fighting with artillery and air strikes broke out along the border, killing dozens and displacing large numbers of civilians on both sides. A ceasefire was agreed in Malaysia on 28 July 2025.",
+    "ko": "2025년 5월 사망자가 발생한 충돌 이후 캄보디아·태국 국경의 긴장이 고조되었고, 훈 센과 태국 패통탄 친나왓 총리 사이의 통화 내용이 유출되며 태국에 정치 위기가 일었다. 2025년 7월 말 국경을 따라 포격과 공습을 동반한 격렬한 교전이 벌어져 수십 명이 숨지고 양국에서 많은 민간인이 피난했다. 2025년 7월 28일 말레이시아에서 휴전이 합의되었다.",
+    "zh": "2025年5月一次致命冲突之后，柬泰边境局势升级，洪森与泰国总理佩通坦·西那瓦的通话录音外泄，在泰国引发政治危机。2025年7月下旬，边境爆发伴随炮击和空袭的激烈战斗，造成数十人死亡，双方大批平民流离失所。2025年7月28日，双方在马来西亚达成停火。",
+    "ja": "2025年5月に死者を出した衝突の後、カンボジア・タイ国境の緊張が高まり、フン・センとタイのペートンタン・シナワット首相の電話会談の流出がタイで政治危機を招いた。2025年7月下旬には国境沿いで砲撃や空爆を伴う激しい戦闘が起き、数十人が死亡し、両国で多くの住民が避難した。2025年7月28日、マレーシアで停戦が合意された。"
+   }
+  },
+  {
+   "year": 2025,
+   "qid": "Q136659001",
+   "importance": 3,
+   "category": "politics",
+   "title": {
+    "en": "Kuala Lumpur Peace Accord",
+    "ko": "쿠알라룸푸르 평화 협정",
+    "zh": "吉隆坡和平协议",
+    "ja": "クアラルンプール和平合意"
+   },
+   "description": {
+    "en": "In October 2025, on the sidelines of the ASEAN summit in Kuala Lumpur, the prime ministers of Cambodia and Thailand signed a joint declaration building on the July ceasefire, with Malaysia and the United States as witnesses. It provided for steps such as the withdrawal of heavy weapons and the release of prisoners. Its implementation remained subject to the fragile relations between the two neighbours.",
+    "ko": "2025년 10월 쿠알라룸푸르 아세안 정상회의를 계기로 캄보디아와 태국 총리는 말레이시아와 미국이 입회한 가운데 7월 휴전을 바탕으로 한 공동선언에 서명했다. 선언에는 중화기 철수와 포로 석방 등의 조치가 담겼다. 이행 여부는 두 이웃 나라의 불안정한 관계에 달려 있었다.",
+    "zh": "2025年10月，柬泰两国总理在吉隆坡东盟峰会期间，在马来西亚和美国的见证下签署了以7月停火为基础的联合宣言。宣言规定了撤出重型武器、释放被俘人员等措施。其落实仍取决于两国脆弱的关系。",
+    "ja": "2025年10月、クアラルンプールでのASEAN首脳会議の際、カンボジアとタイの首相はマレーシアと米国の立ち会いのもと、7月の停戦を土台とする共同宣言に署名した。宣言には重火器の撤収や捕虜の解放などの措置が盛り込まれた。その履行は両隣国の不安定な関係に左右された。"
+   }
+  }
+ ]
+}
